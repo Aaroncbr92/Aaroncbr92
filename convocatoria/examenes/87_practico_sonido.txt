@@ -1,0 +1,274 @@
+Ocupación tipo 
+SONIDO 
+
+INSTRUCCIONES 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Se trata de una prueba teórico práctica escrita que consistirá en la resolución de cinco problemas 
+de naturaleza teórico-práctica, relacionados con el contenido específico del temario detallado en 
+el punto 6 de las bases específicas de la convocatoria, y tendrá carácter eliminatorio. 
+
+El sistema de valoración se encuentra detallado en el anexo 1 de la citación a esta prueba. 
+
+La prueba práctica se llevará a cabo mediante el “Sistema de Plica”.  
+
+o  Las  personas  aspirantes  deberán  escribir  sus  datos  identificativos  en  la  plica, 
+introducirla en el sobre pequeño y cerrarlo, a fin de preservar el anonimato de la prueba. 
+
+o  No se deberá escribir el nombre ni ningún otro dato identificativo en ninguno de los otros 
+materiales de los que se dispondrá durante el examen, en caso de hacerlo el examen 
+será invalidado. 
+
+o  Al  finalizar  la  prueba  los  aspirantes  deberán  introducir  dentro  del  sobre  grande,  los 
+
+siguientes documentos:  
+
+•  Las hojas de examen 
+
+•  Las hojas utilizadas como borrador, en caso de haberlas utilizado. 
+
+•  La  hoja  de  identificación  introducida  en  el  sobre  pequeño  y  debidamente 
+
+cerrado 
+
+Si  lo  requieren,  las  personas  aspirantes  podrán  solicitar  hojas  adicionales  para  realizar 
+anotaciones o apuntes. Estas hojas no serán consideradas para la calificación de la prueba. 
+
+Utilice  bolígrafo  (azul  o  negro)  y  responda  de  acuerdo  a  las  instrucciones  específicas 
+anteriormente. 
+
+Se ruega el uso de letra legible y la claridad de las respuestas en todo el examen y se admite 
+el uso de la mayúscula. Las respuestas no legibles no serán calificadas.  
+
+Le  recordamos  que,  si  algún  dispositivo  suena  o  vibra,  aun  dentro  de  un  sobre,  tendrán  que 
+abandonar la prueba. 
+
+TIEMPO MÁXIMO: 120 MINUTOS 
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E. 
+
+No se permite la reproducción total o parcial de este cuestionario
+
+ 
+ 
+ 
+ 
+ 
+PARTE 1 
+
+EJERCICIO 1 
+
+Realiza las conexiones necesarias entre equipos y los ajustes necesarios en esta mesa de sonido para 
+realizar una transmisión para radio, teniendo en cuenta que hablará un redactor y un invitado y tienes 
+una línea externa con sonido de sala que deberás grabar en el PC, para posteriormente editar y lanzar 
+cortes desde el PC, además de poder enviar la señal de sala en la trasmisión. 
+
+Debes contemplar la posibilidad de que tengas que grabar la pieza antes de emitirla. 
+
+Marca con una X los ajustes en la mesa de sonido. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EJERCICIO 2  
+
+Dado el diagrama superior de video, con los retardos que genera cada bloque, rellenar las casillas en 
+blanco del diagrama inferior de sonido en milisegundos (ms), con los valores que creas necesarios. 
+Las que se dejen en blanco, se supone que son 0 ms. El sistema de video refresca a 25 frames por 
+segundo (25 fps). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EJERCICIO 3 
+
+Tenemos que hacer una entrada en directo desde exteriores, con la voz un redactor y cortes 
+grabados que soltaremos desde un ordenador. El envío y retorno se harán a través de un CODEC. El 
+presentador utiliza un microauricular dinámico. 
+
+Nuestro  mezclador  tiene  4  canales  de  entrada,  conmutables  micro/línea  y  funcionando  en  POST- 
+FADER. Contamos con 3 salidas de programa configurables. 
+
+Todos los equipos funcionan con baterías. 
+
+Haz el montaje y configura el mezclador y los equipos, tachando los botones y controles necesarios. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+EJERCICIO 4 
+
+Queremos  generar  una  señal  Stereo  partiendo  de  un  micrófono  M/S  perfectamente  colocado.  El 
+micrófono entrega las señales de audio balanceadas utilizando un adaptador de XLR-5 pines a 2 XLR-
+3 Pines. 
+
+Como  el  mezclador  que  tenemos  no  dispone  de  función  específica  M/S,  necesitamos  emular  la 
+configuración M/S con el método tradicional. Se pide conectar las salidas del micrófono al mezclador 
+de la manera adecuada y configurar los potenciómetros o fader requeridos marcando su posición 
+con una línea y marcando con una x cada uno de los botones activados. Si todo está perfectamente 
+conectado y configurado tendremos a la salida de la Mesa la señal del micrófono en formato Stereo. 
+Se puede añadir al diagrama, si fuera necesario, cualquier adaptador de cableado.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PARTE 2  
+
+Queremos producir un programa conjunto de radio y televisión en el Teatro Monumental de Madrid. 
+
+Se  trata  de  la  transmisión  de  un  concierto  de  la  Orquesta  de  Radio  Televisión  Española,  que 
+interpretará una obra para piano solista y orquesta. 
+
+Objetivos a planificar: 
+
+Captación y mezcla estereofónica del sonido de la orquesta, a tiempo real para su emisión en directo 
+por Radio Clásica.  
+
+Grabación multipista de la captación del concierto para su posterior edición. 
+
+El programa de radio y televisión será presentado por un locutor-presentador y un invitado de habla 
+inglesa, para el que contaremos con dos intérpretes, uno de ellos hará la traducción al español y el 
+otro,  traducirá  al  inglés.  Siendo  el  resultado  de  nuestro  programa  íntegro  en  español,  aunque  se 
+admitirá de fondo la versión original cuando nuestro invitado intervenga.   
+
+Estarán todos situados en un estudio, con cabinas de traducción, en el propio Teatro Monumental, 
+junto al control de sonido de radio. 
+
+Tanto el locutor presentador, como el invitado, en televisión serán voces en OFF (sin imagen) a modo 
+de comentaristas. 
+
+Grabación también estereofónica por parte de una unidad móvil de Televisión Española, de la misma 
+mezcla, para su posterior emisión. 
+
+Para ello contaremos con: 
+
+Escenario: 
+
+Microfonía  suficiente  y  adecuada  para  la  captación  de  la  orquesta.  Hasta  un  máximo  de  12 
+micrófonos 
+
+1 Stagebox ubicado en el escenario y conectado a la mesa de sonorización de orquesta por protocolo 
+propietario. 
+
+3 Cámaras de TV 
+
+Control de sonido en el Teatro Monumental 
+
+1 Mezclador de sonido para la sonorización de la orquesta. 
+
+1 Mezclador de sonido para el programa de radio (continuidad). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Micrófonos y auriculares con sistema de amplificación para cada uno de los hablantes (presentador, 
+invitado, intérprete a inglés e intérprete a español). 
+
+2 Codecs para la transmisión de radio. 
+
+1 DAW o workstation en PC para la grabación multipista. 
+
+Unidad móvil de TVE, ubicada en las inmediaciones del Teatro Monumental con control de sonido 
+y video.  
+
+El Mezclador de Video de la Unidad Móvil tiene un retardo fijo de 40 ms en la señal de PGM.  
+
+Se pide:  
+
+Realiza toda la planificación y explicación detallada escrita y/o esquematizada de todas las líneas e 
+interconexiones que permitan nuestro cometido de la manera más óptima y clara. Hay que reflejar 
+todas las señales que se requieren para asegurarnos la transmisión que nos ocupa. Se debe detallar 
+las entradas, salidas y enrutado de la mesa de continuidad, incluidos elementos y accesorios (a nivel 
+funcional).  
+
+Las  características  de  los  micrófonos  utilizados,  de  los  elementos  y  accesorios  de  audio  que  se 
+requieren y de todas las peculiaridades que queráis serán descritas en Texto. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

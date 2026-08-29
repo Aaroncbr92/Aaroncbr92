@@ -24,6 +24,23 @@ cubren la parte común de las tres oposiciones.
 | Específico de Información y Contenidos | 10 | solo Información |
 | **Total** | **42** | |
 
+## Lo que dicen los exámenes de 2024
+
+Medido sobre los cuadernillos reales (`informes/calibracion-examenes-2024.md`):
+
+| Ocupación | Preguntas del bloque común | Del específico |
+|---|---|---|
+| Producción (Asistencia) | 33 de 96 · **un tercio** | 60 |
+| Documentación | 16 de 94 · una sexta parte | 68 |
+| Información y Contenidos | 22 de 120 · una quinta parte | 53 propias + 41 de actualidad y UE |
+
+El bloque común rinde el doble en Producción que en las otras dos. Y en
+Información y Contenidos la actualidad pesa más que todo el temario general
+junto: 41 preguntas de 120.
+
+Las preguntas citan el artículo por su número. El tema tiene que llevar el
+precepto pegado a cada regla o no sirve para contestarlas.
+
 ## Orden
 
 **Fase A — el bloque común (9 temas).** Rinde por tres desde el primer día.
@@ -64,8 +81,19 @@ tirar el trabajo. Propongo tratarlos como un **dosier con fecha de corte
 declarada**, actualizable, y dejarlos para el final, cuando se sepa la fecha del
 examen. Si prefieres otra cosa, dímelo antes de llegar ahí.
 
+## La fecha de corte
+
+Las bases congelan el temario a **21 de diciembre de 2022**. El cuerpo de cada
+tema se escribe con la redacción de ese día; lo que cambió después va en una nota
+de actualización al final del epígrafe, marcada y fuera del cuerpo examinable.
+En Información y Contenidos, los apartados 1, 2 y 3 del específico son la
+excepción: ahí sí cuenta lo posterior.
+
+Solo en la Ley 17/2006 cambian once bloques entre el corte y hoy —los artículos
+4, 10, 11, 12, 15, 16, 20 y 24 y tres disposiciones transitorias—, y son el
+corazón de la ley: composición y elección del Consejo de Administración. Escribir
+con la redacción de hoy habría estropeado el tema entero.
+
 ## Lo que hace falta para arrancar
 
-Está en `ESTADO.md`, en «Falta». Lo que bloquea de verdad es la decisión sobre
-qué redacción se estudia (ver `convocatoria/FUENTES.md`); lo demás se puede ir
-resolviendo sobre la marcha.
+Nada. Está todo: programa, bases, exámenes y fuentes.

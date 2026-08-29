@@ -1,0 +1,2682 @@
+Ocupación tipo
+
+REALIZACIÓN
+
+INSTRUCCIONES
+
+Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+La prueba está compuesta por 120 preguntas (100 preguntas principales más 20 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
+solo elegir UNA de las cuatro opciones.
+
+El sistema de valoración será el siguiente:
+
+Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+Cada pregunta no contestada, contestada de forma distinta a la indicada en las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+Recuerde anotar
+las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
+anteriormente facilitadas.
+
+Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+Tiempo máximo: 180 minutos.
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+                No se permite la reproducción total o parcial de este cuestionario.
+
+1.-
+
+¿Cuál de estos formatos de archivo contiene solo audio?
+
+a)
+
+MP4.
+
+b)
+
+AVI.
+
+c)
+
+WAV.
+
+d)
+
+MKV.
+
+2.-
+
+¿Qué es un docudrama?
+
+a)
+
+Género que representa, con carácter
+experimentos, etcétera tomados de la realidad.
+
+informativo o didáctico, hechos, escenas,
+
+b)
+
+Género que adapta, mediante técnicas propias de un documental, una obra dramática.
+
+c)
+
+Género donde se adapta una historia ficcionada triste en formato documental.
+
+d)
+
+Género que trata, con técnicas dramáticas, hechos reales propios del género
+documental.
+
+3.-
+
+Hablamos de iluminación en clave alta cuando:
+
+a)
+
+Utilizamos luz de relleno para aclarar la cuenca de los ojos.
+
+b)
+
+El ambiente es sombrío y tiene poco o ningún relleno.
+
+c)
+
+La escena es brillante, alegre y hay pocas sombras.
+
+d)
+
+La luz principal es lateral y proyecta volumen.
+
+4.-
+
+Un video que empieza en 00:47:17:23 y termina en 01:23:54:00 dura:
+
+a)
+
+35’ 35’’ 00 frames.
+
+b)
+
+35’ 36’ 01 frames.
+
+c)
+
+36’ 36’’ 03 frames.
+
+d)
+
+36’ 42’’ 01 frames.
+
+5.-
+
+¿Qué es el equipo de protección individual?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Es el equipo personal que el trabajador trae de su casa para asegurar su protección en
+el puesto de trabajo.
+
+Es el grupo de trabajadores que asegura que todo el personal de una empresa esté
+realizando sus funciones según los protocoles establecidos en la Ley 31/1995, de 8 de
+noviembre. (BOE Nº269, de 10 de noviembre)
+
+Son los miembros de seguridad de una empresa que controla los accesos a las
+instalaciones.
+
+Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja
+de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo, así
+como cualquier complemento o accesorio destinado a tal fin.
+
+Página: 1 de 28
+
+6.-
+
+En el contexto de las imágenes digitales, ¿de qué depende la profundidad de color?
+
+a)
+
+Del número de bits utilizados para representar cada color.
+
+b)
+
+De la resolución de la imagen en pixeles por pulgada.
+
+c)
+
+Del tipo de archivo en el que se guarde la imagen.
+
+d)
+
+Del tamaño de los píxeles en la pantalla.
+
+7.-
+
+¿Cómo se llama el bosquejo conciso de personajes, acción y argumento?
+
+a)
+
+Hoja de desglose.
+
+b)
+
+Pauta de desglose.
+
+c)
+
+Sinopsis.
+
+d)
+
+Resumen.
+
+8.-
+
+¿Cuál de estas herramientas de I.A. puede introducir Media Composer Ultimate?
+
+a)
+
+Script Sync.
+
+b)
+
+Bin Container.
+
+c)
+
+Audio Grouping.
+
+d)
+
+Background render.
+
+9.-
+
+¿A qué nos referimos si hablamos de DSNG?
+
+a)
+
+Sistema digital de redacción en red.
+
+b)
+
+Sistema de transmisión vía satélite portátil.
+
+c)
+
+Soporte digital de captación de imagen.
+
+d)
+
+Soporte digital de captación de audio.
+
+10.-
+
+¿Qué es el "crossfade" en edición de audio?
+
+a)
+
+Un proceso para ecualizar las frecuencias medias de una señal.
+
+b)
+
+Una técnica para mezclar suavemente dos señales de audio.
+
+c)
+
+Un sistema para reducir la latencia en tiempo real.
+
+d)
+
+Un método para duplicar pistas de audio en una mezcla.
+
+11.-
+
+Para Marcel Martín la analogía de contenido material supone:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Un enlace de orden plástico basado en la identidad, homología o semejanza como base
+de la transición.
+
+Un enlace de orden psicológico plástico basado en la identidad, homología o
+semejanza como base de la transición.
+
+Un enlace de orden plástico basado en la similitud de la composición interna de la
+imagen, concebida en un sentido más bien estático.
+
+Un enlace de orden psicológico basado en la similitud de la composición interna de la
+imagen, concebida en un sentido más bien estático.
+
+Página: 2 de 28
+
+12.-
+
+Como podemos leer en Burch, raccord de apreciación retardada...
+
+a)
+
+Supone unir dos planos en orden a una continuidad espacio-temporal.
+
+b)
+
+Supone mantener un espacio contiguo entre dos planos y producir una elipsis de
+retroceso definido.
+
+c)
+
+Equivale a un falso raccord.
+
+d)
+
+Evidencia la continuidad de la ruptura significativa dentro del proceso de normalización
+al que llega el montaje continuo.
+
+13.-
+
+NO existe drama en el texto narrativo sin:
+
+a)
+
+Antagonista.
+
+b)
+
+Conflicto.
+
+c)
+
+Suspense.
+
+d)
+
+Tragedia.
+
+14.-
+
+¿Qué es una escaleta?
+
+a)
+
+Una síntesis de una historia.
+
+b)
+
+Una relación de las secuencias ordenadas narrativamente.
+
+c)
+
+Una narración audiovisual en forma de texto.
+
+d)
+
+Una relación de secuencias estructuradas en función de los personajes.
+
+15.-
+
+¿Qué es un “EVS dump”?
+
+a)
+
+Un plugin de EVS para hacer análisis de las jugadas.
+
+b)
+
+Un conjunto de clips de EVS que no son válidos para la emisión.
+
+c)
+
+Un volcado de EVS con lo mejor de todas las cámaras para su utilización posterior.
+
+d)
+
+Una modificación de la velocidad de repetición con la palanca del EVS.
+
+16.-
+
+En la realización de un partido de fútbol, ¿qué incluye un montaje de “iso cams”?
+
+a)
+
+b)
+
+c)
+
+Un montaje con las imágenes de las mejores jugadas del partido vistas desde distintos
+ángulos de cámara.
+
+Un montaje con las imágenes de las jugadas del partido que no se han podido repetir
+durante el directo.
+
+Un montaje con las imágenes de la mejor jugada del partido vista desde distintos
+ángulos de cámara.
+
+d)
+
+Un montaje informativo con las mejores imágenes de las jugadas del partido.
+
+Página: 3 de 28
+
+17.-
+
+¿Qué es una Mini Jib?
+
+a)
+
+Una jirafa de sonido.
+
+b)
+
+Una grua pequeña.
+
+c)
+
+Una cámara pequeña operada a control remoto.
+
+d)
+
+Una steadycam para cámaras ligeras.
+
+18.-
+
+¿Cómo se llama lo que se realiza en el estudio con la escenografía, iluminación actores,
+vestuario y maquillaje?
+
+a)
+
+Reunión general.
+
+b)
+
+Ensayo general.
+
+c)
+
+Grabación general.
+
+d)
+
+Montaje general.
+
+19.-
+
+En un teatro a la italiana ¿cuál de las siguientes afirmaciones sobre el proscenio y la
+tramoya es correcta?
+
+a)
+
+b)
+
+c)
+
+d)
+
+El proscenio es la parte que se encuentra detrás del telón de boca, mientras que la
+tramoya es el área reservada para los elementos de iluminación.
+
+La tramoya es el conjunto de mecanismos y estructuras utilizados para cambiar
+decorados y efectos escénicos, mientras que el proscenio es la parte del escenario más
+cercana al público.
+
+El proscenio y la tramoya son términos equivalentes. Se refieren a la zona del escenario
+donde se realizan los cambios escenográficos y los efectos escénicos.
+
+La tramoya en la parte que se encuentra delante del telón de boca, mientras que el
+proscenio es la zona situada detrás del telón de boca.
+
+20.-
+
+¿En qué país se celebrará el Festival de Eurovisión 2025?
+
+a)
+
+Suecia.
+
+b)
+
+Alemania.
+
+c)
+
+Portugal.
+
+d)
+
+Suiza.
+
+21.-
+
+¿Á que nos referimos cuando hablamos de ”jump cut”?
+
+a)
+
+Al inserto de vídeo de muy corta duración.
+
+b)
+
+Al corte físico en cinta realizado en los magnetoscopios de pulgada.
+
+c)
+
+Es el término que se da en el deporte televisado a la jugada que sale de cuadro.
+
+d)
+
+Al recurso utilizado en el montaje que supone un salto visible en la continuidad.
+
+Página: 4 de 28
+
+22.-
+
+En la siguiente escena las cámaras tienen los siguientes planos:
+Plano 1.- CÁMARA 1: PG DE LOS TRES PERSONAJES
+Plano 2.- CÁMARA 2: PRIMER PLANO DEL PERSONAJE A (mira a C)
+Plano 3.- CÁMARA 3: REFERENCIA DE PERSONAJE B/PM DE PERSONAJE C (B mira a C)
+Plano 4.- CÁMARA 4: REFERENCIA DE PERSONAJE C/PM DE PERSONAJE B (C mira a A)
+
+Indica el orden posible de los planos en montaje de manera que no infrinjan las normas
+del montaje continuo.
+
+a)
+
+Plano 1. Plano 2. Plano 3. Plano 4.
+
+b)
+
+Plano 1. Plano 3. Plano 2. Plano 4.
+
+c)
+
+Plano 3. Plano 4. Plano 1. Plano 2.
+
+d)
+
+Plano 4. Plano 3. Plano 2. Plano 1.
+
+23.-
+
+¿Los cuatro subsistemas sígnicos de la banda sonora son?
+
+a)
+
+Sonido verbal, Música, Ruidos y efectos, Ráfagas.
+
+b)
+
+Sonido verbal, Música, Ruidos y efectos, Claqueta.
+
+c)
+
+Sonido verbal, Música, Ruidos y efectos, Tono.
+
+d)
+
+Sonido verbal, Música, Ruidos y efectos, Silencio.
+
+24.-
+
+¿Qué actriz recibió el Goya de Honor en 2025?
+
+a)
+
+Carmen Maura.
+
+b)
+
+Victoria Abril.
+
+c)
+
+Aitana Sánchez-Gijón.
+
+d)
+
+Verónica Forqué.
+
+Página: 5 de 28
+
+25.-
+
+El signo Φ (PHI), que podemos ver en los cuerpos de muchas cámaras, indica:
+
+a)
+
+El punto en el que se encuentra el plano focal de la cámara.
+
+b)
+
+c)
+
+d)
+
+Una plantilla superpuesta al visor de la cámara basada en la sección áurea que ayuda al
+operador a encuadrar.
+
+El rango dinámico del sistema óptico de la imagen, ligado a la ilusión de movimiento
+aparente.
+
+Un setting de la cámara que nos indica el grado de atenuación de la definición para que
+no se produzcan efectos indeseados de alliasing.
+
+26.-
+
+El Sistema Avid Media Central es:
+
+a)
+
+Un programa de edición que se ejecuta en el ordenador autorizado.
+
+b)
+
+Plataforma basada en servidor que puede accederse a través de una interfaz web.
+
+c)
+
+Un sistema de almacenamiento de imágenes para documentación.
+
+d)
+
+Sistema de reproducción de video y sonido en un control de realización.
+
+27.-
+
+La señal internacional y la señal personalizada de un evento deportivo…
+
+a)
+
+Siempre se realiza desde la misma unidad móvil.
+
+b)
+
+Siempre se realizan desde dos unidades móviles diferentes.
+
+c)
+
+Se pueden realizar desde una misma unidad móvil.
+
+d)
+
+Siempre son la misma señal en un evento deportivo.
+
+28.-
+
+¿Cuál de los siguientes equipos NO tiene entre sus principales funciones ser un
+generador de caracteres?
+
+a)
+
+Mistika.
+
+b)
+
+Chyron.
+
+c)
+
+Brainstorm IPF.
+
+d)
+
+Ventuz.
+
+29.-
+
+¿Qué hace la función “gang” en la suite IPDirector de EVS?
+
+a)
+
+Permite ralentizar un clip de forma automática al 25%, 50% o 75%.
+
+b)
+
+Abre o cierra de negro una playlist.
+
+c)
+
+Encadena audio entre dos clips en una playlist.
+
+d)
+
+Carga a la vez dos clips en dos reproductores diferentes cargando solo uno de ellos.
+
+Página: 6 de 28
+
+30.-
+
+¿Qué hacemos cuándo trimamos en edición no lineal?
+
+a)
+
+Ajustar un clip ya editado en la secuencia.
+
+b)
+
+Cambiar un plano de video por otro.
+
+c)
+
+Empezar la secuencia abriendo de negro.
+
+d)
+
+Cambiar la velocidad de un plano para que encaje en la duración requerida.
+
+31.-
+
+De los siguientes archivos, ¿cuál fue desarrollado por Apple?
+
+a)
+
+AVCHD (Advanced Video Coding High Definition).
+
+b)
+
+MP4 (MPEG-4 Parte 14).
+
+c)
+
+MOV (QuickTime Movie).
+
+d)
+
+AVI (Audio Video Interleave).
+
+32.-
+
+¿El orden de las figuras musicales de mayor valor a menor valor es?
+
+a)
+
+Redonda, blanca, negra, corchea, semicorchea, fusa y semifusa.
+
+b)
+
+Redonda, negra, blanca, corchea, semicorchea, fusa y semifusa.
+
+c)
+
+Redonda, negra, blanca, fusa, semifusa, corchea y semicorchea.
+
+d)
+
+Redonda, blanca, negra, fusa, semifusa, corchea y semicorchea.
+
+33.-
+
+¿Qué película ha obtenido mayor número de Premios Oscar en la historia?
+
+a)
+
+El señor de los anillos:el retorno del rey.
+
+b)
+
+Ben Hur.
+
+c)
+
+Titanic.
+
+d)
+
+Lo que el viento se llevó.
+
+34.-
+
+“La Cabina”, es un mediometraje español de comedia negra dirigido por:
+
+a)
+
+Antonio Mercero.
+
+b)
+
+José Luis Garci.
+
+c)
+
+Narciso Ibáñez Serrador.
+
+d)
+
+José Luis Cuerda.
+
+Página: 7 de 28
+
+35.-
+
+¿Qué permitirá la emisión en DVB-T2?
+
+a)
+
+b)
+
+c)
+
+Un mejor uso del espectro de radiodifusión terrestre, con un entre un 30 y un 50% extra
+de ancho de banda: lo que permite más canales en HDTV y transmisiones en UHD que
+el anterior DVB-T.
+
+La emisión de programas que aseguren la interactividad completa con los contenidos
+por parte del espectador.
+
+Supone un 80% más de capacidad frente al DVB-T, aunque el sistema requerirá un
+cambio completo en los equipamientos domésticos.
+
+d)
+
+Actualmente el sistema de radiodifusión terrestre digital imperante ya es el DVB-T2.
+
+36.-
+
+En la realización de un partido de bádminton, ¿en qué posición tienen que estar situadas
+las cámaras de pista encargadas del seguimiento continuo de los jugadores durante el
+partido?
+
+a)
+
+Al lado contrario del Juez de silla.
+
+b)
+
+En el mismo lado del Juez de silla.
+
+c)
+
+Junto a la cámara máster.
+
+d)
+
+Es indiferente.
+
+37.-
+
+¿Cómo influye la distancia en la percepción de profundidad?
+
+a)
+
+La sensación de relieve aumenta con la distancia.
+
+b)
+
+La sensación de relieve disminuye con la distancia.
+
+c)
+
+No influye.
+
+d)
+
+Depende de la óptica que se use.
+
+38.-
+
+El orden correcto de las fases para la construcción del guion es:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Idea, argumento, guion literario, escaleta, tratamiento, sinopsis, guion técnico, guion de
+trabajo.
+
+Idea, argumento, escaleta, sinopsis, tratamiento, guion literario, guion técnico, guion de
+trabajo.
+
+Idea, argumento, escaleta, sinopsis, guion técnico, tratamiento, guion literario, guion de
+trabajo.
+
+Idea, argumento, sinopsis, escaleta, tratamiento, guion literario, guion técnico, guion de
+trabajo.
+
+39.-
+
+¿De qué factores depende la matización de las sombras?
+
+a)
+
+De la distancia fuente-sujeto, distancia sujeto-fondo y tipo de fuente iluminante.
+
+b)
+
+Del tipo de luz propia y luz arrojada.
+
+c)
+
+De que la luz sea directa o reflejada y de la distancia fuente-sujeto.
+
+d)
+
+Del tipo de luz propia, la luz reflejada y el diafragma de la cámara.
+
+Página: 8 de 28
+
+40.-
+
+El timbre, como cualidad de sonido se refiere a:
+
+a)
+
+La cualidad que permite diferenciar un sonido de otro de igual frecuencia fundamental
+pero distinto matiz sonoro.
+
+b)
+
+A la altura del sonido, es la afinación de un sonido.
+
+c)
+
+La duración de un sonido, su longitud de onda.
+
+d)
+
+El volumen del sonido.
+
+41.-
+
+Si tengo que solicitar una carra ¿a qué departamento lo haré?
+
+a)
+
+Luminotecnia.
+
+b)
+
+Ambientación de decorados.
+
+c)
+
+Carpintería.
+
+d)
+
+Medios técnicos auxiliares.
+
+42.-
+
+¿Qué es el paradigma?
+
+a)
+
+Es el modelo de guion desarrollado en tres actos.
+
+b)
+
+Es una síntesis y explicación de algunos puntos de la historia.
+
+c)
+
+También se le denomina argumento.
+
+d)
+
+Es una relación de las secuencias ordenadas narrativamente.
+
+43.-
+
+¿En cual de estas localidades hay un Centro Territorial de RTVE?
+
+a)
+
+Cáceres.
+
+b)
+
+Santiago de Compostela.
+
+c)
+
+A Coruña.
+
+d)
+
+Santa Cruz de Tenerife.
+
+44.-
+
+Se usa en los decorados para asegurar estructuras…
+
+a)
+
+Segueta.
+
+b)
+
+Velador.
+
+c)
+
+Riostra.
+
+d)
+
+Ceferino.
+
+Página: 9 de 28
+
+45.-
+
+Podemos considerar históricamente como primer estudio de rodaje a:
+
+a)
+
+b)
+
+c)
+
+El Studio Photomagique de George Meliès, dotado de una grúa para levantar cuerpos y
+objetos y luz eléctrica.
+
+La Black Mary, anterior al invento de los Lumière y que giraba sobre su base para
+aprovechar la luz del sol.
+
+Los Biograph Studios, en donde rodó sus innovadoras primeras películas David W.
+Griffith.
+
+d)
+
+La fábrica de óptica Lumière en Lyon.
+
+46.-
+
+¿Qué es un showrunner?
+
+a)
+
+b)
+
+c)
+
+d)
+
+El encargado de producción de una creación audiovisual, ya sea una película de ficción,
+serie o documental, que se encarga de supervisar todos los aspectos ligados al rodaje,
+desde la localización, búsqueda de medios técnicos y artísticos locales de apoyo,
+financiación, patrocinio, etc.
+
+La persona que se encarga de desarrollar la biblia de un proyecto de serie y de crear el
+contexto de esta, diseñando de forma detallada su storyworld.
+
+El autor de los guiones de una temporada o varias de una serie en las que les imprime
+su carácter personal.
+
+Alguien capaz de controlar y tomar decisiones ligadas tanto al guion, los aspectos
+creativos y a la producción y posproducción de una serie, desde el principio y hasta el
+final.
+
+47.-
+
+Un “spotter” es…
+
+a)
+
+Un especialista que asiste al realizador de un evento.
+
+b)
+
+El encargado de operar un cañón que ilumina al protagonista en un escenario.
+
+c)
+
+Un sistema de postproducción que se utiliza para resaltar la iluminación principal.
+
+d)
+
+Un filtro de densidad neutra que se coloca en la óptica de la cámara para eliminar
+reflejos.
+
+48.-
+
+¿En cuál de estos patrones NO hay submuestreo de las señales de crominancia?
+
+a)
+
+4.2.1.
+
+b)
+
+4.2.0.
+
+c)
+
+3.1.1.
+
+d)
+
+4.4.4.
+
+Página: 10 de 28
+
+49.-
+
+¿Quién cumple la figura de Director en un programa informativo?
+
+a)
+
+El redactor jefe.
+
+b)
+
+El jefe de informativos.
+
+c)
+
+El editor.
+
+d)
+
+El realizador.
+
+50.-
+
+¿Qué significa que un video “acaba a capón”?
+
+a)
+
+Que tiene un efecto de sonido al final.
+
+b)
+
+Que no tiene coleo de imagen y sonido al final.
+
+c)
+
+Que no tiene una pista de audio.
+
+d)
+
+Que hay un fundido de negro al final.
+
+51.-
+
+¿Cuál es el estándar 4K Cinema con escala de 17:9?
+
+a)
+
+4096×2160.
+
+b)
+
+5120×4096.
+
+c)
+
+6400×4800.
+
+d)
+
+7680×4800.
+
+52.-
+
+¿Qué es una CCU en televisión?
+
+a)
+
+Unidad para controlar los parámetros de cámara de televisión.
+
+b)
+
+Unidad para corregir la colorimetría en la postproducción.
+
+c)
+
+Unidad de realización de pequeño formato, para retransmisiones pequeñas.
+
+d)
+
+Unidad para lanzar videos a remoto.
+
+53.-
+
+Cuando en un informativo un redactor hace un “FALSO DIRECTO” nos referimos a:
+
+a)
+
+Una entrada en directo desde la redacción.
+
+b)
+
+A la grabación que hace y envía para su posterior emisión.
+
+c)
+
+Al directo que tiene con un delay superior a 10 segundos.
+
+d)
+
+Al dúplex que se tapa con imágenes grabadas.
+
+54.-
+
+En DCT la recuantificación de los coeficientes:
+
+a)
+
+Implica que mantenemos la proporción del valor de los coeficientes, relacionando entre
+sí los términos crecientes en frecuencia para reconstruir la imagen tras una compresión
+sin pérdidas, bajando sin embargo la tasa de flujo de datos de una manera eficiente.
+
+b)
+
+Es lo que posibilita una eficiente compresión intercuadro o temporal.
+
+c)
+
+d)
+
+No es posible, ya que entonces sus componentes de frecuencia serían limitados y
+obtendríamos una señal en diente de sierra, en vez de una señal muestreada.
+
+Supone que los coeficientes son recuantificados individualmente, de manera que
+podemos desechar información de altas frecuencias y comprimir la señal según el flujo
+de datos manteniendo información fundamental.
+
+Página: 11 de 28
+
+55.-
+
+¿A qué equivale un Nit?
+
+a)
+
+A una candela por milímetro cuadrado.
+
+b)
+
+A una candela por centímetro cuadrado.
+
+c)
+
+A una candela por decímetro cuadrado.
+
+d)
+
+A una candela por metro cuadrado.
+
+56.-
+
+¿Qué es un falso raccord?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Una alineación exacta de los movimientos y la continuidad de la escena entre un plano
+y el que le sigue.
+
+Un error involuntario en la continuidad de una secuencia audiovisual, que puede ser de
+diferentes tipos y que rompe la lógica espacial, temporal o de acción entre dos planos
+consecutivos.
+
+Un cambio intencionado en la continuidad entre dos planos para provocar un efecto
+narrativo y/o emocional para jugar con la percepción del espectador.
+
+El uso de planos de transición, como un plano neutro o un movimiento de cámara, que
+minimiza los errores en la continuidad de una secuencia.
+
+57.-
+
+Hablando de cámaras de televisión, ¿qué controlas con un RCP?
+
+a)
+
+El servomotor de zoom que ofrece una velocidad fluida y estable.
+
+b)
+
+El diafragma, la crominancia, y la velocidad de obturación.
+
+c)
+
+El formato de grabación de la cámara.
+
+d)
+
+El sistema de estabilización interno de las lentes.
+
+58.-
+
+Es propio del reportaje televisivo:
+
+a)
+
+El registro y relato, de forma breve, de unos hechos sin juicios de valor y el máximo
+grado de objetividad.
+
+b)
+
+El registro de unos hechos en el momento de producirse o inmediatamente después.
+
+c)
+
+La profundización de la noticia, con análisis y valoración de los hechos y que puede
+contener criterios subjetivos del autor.
+
+d)
+
+La mezcla de realidad y ficción, con la dramatización actoral de los hechos.
+
+59.-
+
+¿Qué sede se habilita temporalmente para la retransmisión de grandes eventos
+deportivos?
+
+a)
+
+BBC.
+
+b)
+
+FORTA.
+
+c)
+
+IBC.
+
+d)
+
+OBS.
+
+Página: 12 de 28
+
+60.-
+
+Si en una imagen vemos un PG de un carpintero cortando con una sierra un tablero
+delante de su banco de herramientas de derecha a izquierda y en la siguiente imagen
+vemos al mismo carpintero en PM cortando con una sierra diferente el mismo tablero de
+izquierda a derecha, manteniendo el ritmo de corte, diremos que:
+
+a)
+
+Existe raccord de acción, pero hay un fallo de raccord dramático.
+
+b)
+
+c)
+
+d)
+
+Existe fallo de raccord de ambientación, manteniendo raccord de vestuario y de
+velocidad.
+
+Existe fallo de raccord de velocidad, ambientación y movimiento. Manteniendo la
+continudad de miradas y de acción.
+
+Existe raccord de acción y velocidad, pero hay un fallo de raccord de ambientación y de
+movimiento.
+
+61.-
+
+Calcula, usando la escala gráfica de la imagen, la altitud de la figura roja trabajando a
+escala 1:75.
+
+a)
+
+225cm.
+
+b)
+
+175cm.
+
+c)
+
+150cm.
+
+d)
+
+250cm.
+
+62.-
+
+¿Qué es el “Subplot”?
+
+a)
+
+Una intriga secundaria que refuerza la trama principal.
+
+b)
+
+Un momento crucial en la historia que da sentido al resto.
+
+c)
+
+La parte central de la acción dramática.
+
+d)
+
+La intensificación del conflicto en el segundo acto.
+
+Página: 13 de 28
+
+63.-
+
+La tecnología Dolby Atmos permite:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Una mayor calidad del producto audiovisual aumentando el rango dinámico de la
+imagen gracias a la aparición de mayor gama de contraste en las luces altas y las luces
+bajas que de forma paralela se corresponde con un sonido en que cada objeto acústico
+está especializado.
+
+Un aumento de un 30% en el ancho de banda, que permite la emisión con mayor
+eficiencia de más canales en HD además de la transmisión de canales en UHD.
+
+Asignar cada pista de audio a un sistema de 132 altavoces que envuelven al espectador
+en 360º, a lo que se le suma una respuesta mejorada en las altas y bajas frecuencias.
+
+Entramar, junto con los metadatos&nbsp;de descripción espacial, 128 pistas de audio,
+que se repartirán entre los canales ligados a la “bed” y a los objetos que el sistema de
+sonido situará en el espacio de audición.
+
+64.-
+
+¿A qué llamamos “relación de rodaje”?
+
+a)
+
+b)
+
+A la lista de personal técnico y artístico, así como el de equipos técnicos y materiales
+de atrezzo, necesarios para un rodaje.
+
+A la relación del personal completo de una jornada de rodaje, agrupados por
+departamentos y citaciones.
+
+c)
+
+A la proporción entre tiempo útil y tiempo total de grabación.
+
+d)
+
+Al tipo de formato de cuadro utilizado para un rodaje,
+configuración de las cámaras como luego de la posproducción y difusión.
+
+lo cuál afecta tanto a la
+
+65.-
+
+El primer procedimiento fotográfico o heliográfico fue inventado por Niépce en:
+
+a)
+
+1824.
+
+b)
+
+1902.
+
+c)
+
+1875.
+
+d)
+
+1876.
+
+66.-
+
+Desde el punto de vista sensorial, ¿a qué esté ligada la frecuencia?
+
+a)
+
+Al tono.
+
+b)
+
+Al timbre.
+
+c)
+
+A la intensidad.
+
+d)
+
+A la amplitud.
+
+67.-
+
+En un “magazine” NO se incluye:
+
+a)
+
+La información política.
+
+b)
+
+Un debate.
+
+c)
+
+Una actuación musical.
+
+d)
+
+Cualquier temática puede incluirse.
+
+Página: 14 de 28
+
+68.-
+
+Trabajando en un minutado de iNews, como el de la imagen adjunta, queremos introducir
+las horas previstas de inicio y finalización de programa para una emisión en directo, ¿en
+qué columna deberíamos hacerlo para que el software muestre si el contenido se ajusta
+a la duración estimada o por el contrario va largo o corto de duración?
+
+a)
+
+b)
+
+c)
+
+La información de la hora de inicio de la emisión en la columna con el encabezado: T.
+Inicio., y la hora prevista de finalización de emisión en la columna con el encabezado: H.
+Mod.
+
+Ambas en la columna con el encabezado: T. Inicio. La información sobre la hora de
+inicio de emisión en la línea que desea que empiece a contabilizar los tiempos del
+programa y la de finalización después de la última línea del contenido previsto en el
+minutado.
+
+La información de la hora de inicio de la emisión en la columna con el encabezado: T.
+Inicio., y duplicada en la columna con el encabezado H. Emi, mientras que la hora
+prevista de finalización de emisión se introduce únicamente en la columna con el
+encabezado: H. Emi.
+
+d)
+
+Ambas en la columna con el encabezado: H. Emi. La información sobre la hora de inicio
+de emisión en la línea que desea que empiece a contabilizar los tiempos del programa y
+la de finalización en la última línea del contenido previsto en el minutado.
+
+69.-
+
+Un formato en televisión es:
+
+a)
+
+La forma en que la relación de aspecto de la imagen sumada a la resolución vertical
+determina la calidad de la imagen.
+
+b)
+
+La manera en que se transmite un programa a la audiencia y determina su aceptación.
+
+c)
+
+d)
+
+Una disposición más o menos fija de los componentes de cierto discurso, que
+finalmente relaciona de forma indisociable contenido y forma.
+
+Una serie de estrategias que posibilitan diseñar de una forma coherente el desarrollo de
+una película, serie o producto trasmedia.
+
+Página: 15 de 28
+
+70.-
+
+Según los datos aportados en la imagen adjunta, cual de las 4 opciones expuestas de la
+herramienta de Audio Mixer, (similar a la de cualquier mesa de mezclas de sonido o
+aplicación), es la correcta si queremos que el resultado de la edición sea estéreo.
+
+Página: 16 de 28
+
+a)
+
+A.
+
+b)
+
+B.
+
+c)
+
+C.
+
+d)
+
+D.
+
+71.-
+
+¿Cuál de estos programas de RTVE cumple 40 años este 2025?
+
+a)
+
+Metrópolis.
+
+b)
+
+Saber y Ganar.
+
+c)
+
+Informe Semanal.
+
+d)
+
+Cine de Barrio
+
+72.-
+
+Según el
+realización, ¿pertenece al ámbito ocupacional de?
+
+III Convenio Colectivo de la Corporación de RTVE,
+
+la ocupación tipo de
+
+a)
+
+REALIZACCIÓN CONTENIDOS AUDIOVISUALES Y MULTIMEDIA.
+
+b)
+
+REALIZACIÓN Y EDICIÓN AUDIOVISUAL.
+
+c)
+
+PRODUCCIÓN CONTENIDOS AUDIOVISUALES Y MULTIMEDIA.
+
+d)
+
+PRODUCTOR/REALIZADOR TV/REALIZADOR R.
+
+73.-
+
+¿Cuál de las siguientes medidas NO está incluida en el II Plan para la Igualdad entre
+Mujeres y Hombres en la CRTVE (2022-2026) dentro de las medidas de Conciliación y
+Corresponsabilidad:
+
+a)
+
+Impulsar el uso de las nuevas tecnologías de la información (video conferencias) para
+reuniones.
+
+b)
+
+Velar por el respeto al derecho a la desconexión digital fuera del horario laboral.
+
+c)
+
+Estudiar la posibilidad de dotar de escuelas infantiles los centros de Torrespaña, Sant
+Cugat y Canarias.
+
+d)
+
+Realización de encuestas sobre conciliación y corresponsabilidad.
+
+74.-
+
+Señala la afirmación correcta:
+
+a)
+
+El violín es más grande que la viola.
+
+b)
+
+La viola es más grande que el violín.
+
+c)
+
+El violín y la viola tienen el mismo tamaño, solo se diferencian por su sonido.
+
+d)
+
+El violín se coloca sobre el hombro izquierdo y la viola sobre el hombro derecho.
+
+Página: 17 de 28
+
+75.-
+
+¿Qué termino inglés define el documento de la imagen?
+
+a)
+
+Stage plot.
+
+b)
+
+Rider.
+
+c)
+
+Backline.
+
+d)
+
+Placement Rider.
+
+76.-
+
+En una realización sobre decorado virtual multicámaras (simulcam), ¿cuántos motores
+de render necesito para una producción con 3 cámaras y una cabeza caliente?
+
+a)
+
+2 motores de render.
+
+b)
+
+1 solo motor de render si tiene la potencia suficiente.
+
+c)
+
+4 motores de render.
+
+d)
+
+5 motores de render porque la cabeza caliente necesita 2 motores de render.
+
+77.-
+
+¿Quién compuso la Banda Sonora de la serie de televisión “Twin Peaks”?
+
+a)
+
+Hans Zimmer.
+
+b)
+
+Jhon Barry.
+
+c)
+
+Angelo Badalamenti.
+
+d)
+
+Ennio Morricone.
+
+78.-
+
+¿Qué es un Slider?
+
+a)
+
+Es un rail con un sistema de ruedas sobre el que se pone la cámara.
+
+b)
+
+Es un tipo de soporte para iluminación.
+
+c)
+
+Es un tipo de cámara con óptica fija.
+
+d)
+
+Es un tipo de grúa con el brazo rígido.
+
+Página: 18 de 28
+
+79.-
+
+¿Cómo denominarías al objeto de la imagen?
+
+a)
+
+Fagotte.
+
+b)
+
+Oboe.
+
+c)
+
+Dulzaina.
+
+d)
+
+Clarinete.
+
+80.-
+
+Un passepartout es:
+
+a)
+
+b)
+
+Una franja de cartulina o cartón que se emplea como marco en una fotografía o dibujo
+para realzarlo.
+
+Un mueble de madera de origen español, fabricado entre los siglos XVI al XVIII,
+concebido para escribir o archivar papeles, y apto para poder ser transportado a lomos
+de una mula o burro.
+
+c)
+
+Un personaje de la película La noche Americana de François Truffaut.
+
+d)
+
+Un software de postproducción y corrección de color.
+
+81.-
+
+El III Convenio Colectivo de RTVE, en su articulo 46. Jornadas asociadas a variabilidad
+horaria, dice que:
+
+a)
+
+b)
+
+c)
+
+d)
+
+La jornada ordinaria diaria de trabajo podrá oscilar entre un mínimo de cinco horas y un
+máximo de nueve.
+
+La jornada ordinaria diaria de trabajo podrá oscilar entre un mínimo de cinco horas y un
+máximo de diez.
+
+La jornada ordinaria diaria de trabajo podrá oscilar entre un mínimo de cinco horas y un
+máximo de once.
+
+La jornada ordinaria diaria de trabajo podrá oscilar entre un mínimo de cinco horas y un
+máximo de doce.
+
+Página: 19 de 28
+
+82.-
+
+¿En el contexto de una producción audiovisual, que significa N-1?
+
+a)
+
+Una mezcla específica para un retorno de audio.
+
+b)
+
+Un algoritmo de compresión.
+
+c)
+
+Un formato de codificación para transmitir en mono.
+
+d)
+
+Retardo que se le aplica a la señal de audio para igualarla con la señal de video.
+
+83.-
+
+¿Cuál es el tiempo de teletrabajo contemplado en el Convenio Colectivo de RTVE?
+
+a)
+
+Entre uno y cuatro días semanales.
+
+b)
+
+Es indistinto mientras sea pactado entre trabajador y empresa.
+
+c)
+
+Entre dos y cuatro días semanales.
+
+d)
+
+El Convenio no lo contempla, pero sí el Estatuto de los Trabajadores.
+
+84.-
+
+Una de las formas para saltar el eje sin producir impresión de cambio de dirección.
+
+a)
+
+Aumentar el tamaño del plano.
+
+b)
+
+Disminuir el tamaño del plano.
+
+c)
+
+Intercalar un plano subjetivo.
+
+d)
+
+Intercalar un plano objetivo.
+
+85.-
+
+¿Qué necesitaríamos para poner un elemento virtual como foreground delante del
+presentador o presentadora en un decorado virtual con un solo motor de render?
+
+a)
+
+Un incrustador con capacidad para gestionar diferentes máscaras.
+
+b)
+
+No se puede. Siempre tendrían que aparecer por detrás del presentador.
+
+c)
+
+Un plató preparado para hacer decorados con chroma.
+
+d)
+
+No se puede. Hacen falta dos motores de render, uno para el foreground y otro para el
+background.
+
+86.-
+
+¿Qué es un hareng-saur o red-herring?
+
+a)
+
+Una expectativa destinada a desviar la atención del espectador de la trama principal.
+
+b)
+
+c)
+
+Un artefacto o defecto de la señal de video digital, por la cuál se superpone a la imagen
+principal lo que parece ser otra de forma muy diferente.
+
+En el presupuesto de la película, una indicación de aquellos gastos inesperados que no
+redundan de forma positiva en la producción de esta y que pueden alterar su coste de
+forma engañosa.
+
+d)
+
+Un suceso que deja abierto el desarrollo de la trama y crea expectativas que dirigen a la
+audiencia hacia la progresión de la historia.
+
+Página: 20 de 28
+
+87.-
+
+¿Qué es una elipsis en cine o televisión?
+
+a)
+
+Un elemento de continuidad narrativa.
+
+b)
+
+Un hiato entre la temporalidad de un plano y la del que le sigue.
+
+c)
+
+El tiempo transcurrido entre dos planos.
+
+d)
+
+La técnica que permite articular todas las posibilidades de cámara para resolver
+relaciones entre personajes.
+
+88.-
+
+¿Qué es una Twin Cam?
+
+a)
+
+Una cámara doble en paralelo en un rail horizontal.
+
+b)
+
+c)
+
+Una cámara doble que sincroniza la grabación en superficie y bajo el agua al mismo
+tiempo.
+
+Dos cámaras sincronizadas que imitan la separación entre los ojos para grabar
+imágenes estereoscópicas.
+
+d)
+
+Un software de edición que combina tomas de diferentes cámaras.
+
+89.-
+
+Indica la secuencia de planos válida para que NO haya cambio de sentido en el corte
+entre planos que reconstruyen el trayecto del esquiador de la figura.
+
+a)
+
+b)
+
+c)
+
+d)
+
+PLANO 1 (C-1 posición A a C)
+PLANO 2 (C-3 posición C + posición D)
+PLANO 3 (C-5 posición D a posición E).
+
+PLANO 1 (C-2 posición A a B)
+PLANO 2 (C-3 posición B a C)
+PLANO 3 (C-4 posición C a D)
+PLANO 4 (C-5 posición D a E).
+
+PLANO 1 (C-1 posición A)
+PLANO 2 (C-2 posición B a C)
+PLANO 3 (C-5 posición C a E).
+
+PLANO 1 (C-1 posición A)
+PLANO 2 (C-2 posición B a C)
+PLANO 3 (C-5 posición C)
+PLANO 4 (C-3 posición C a D)
+PLANO 5 (C-5 posición E).
+
+Página: 21 de 28
+
+90.-
+
+Primera cámara de cine en grabar 4K.
+
+a)
+
+Red One.
+
+b)
+
+Scarlet-X.
+
+c)
+
+Arri Alexa.
+
+d)
+
+Viper FilmStream.
+
+91.-
+
+En la imagen de la fotografía, ¿qué tipo de tecnología estamos utilizando?
+
+a)
+
+Realidad virtual.
+
+b)
+
+Realidad real.
+
+c)
+
+Realidad mixta.
+
+d)
+
+Realidad inversa.
+
+92.-
+
+¿De quién es el principio de usar planos largos, medios o cortos para dar mayor o menor
+grado de importancia a una imagen?
+
+a)
+
+Jean-Luc Godard.
+
+b)
+
+Michelangelo Antonioni.
+
+c)
+
+André Bazín.
+
+d)
+
+David Wark Griffith.
+
+93.-
+
+¿Quién da la orden a control central de abrir y cerrar con una carta identificativa la
+señal institucional en un operativo de Servicios Informativos en TVE?
+
+a)
+
+El realizador desde la UM.
+
+b)
+
+El productor desde la UM.
+
+c)
+
+No es necesario dar esta orden a control central.
+
+d)
+
+El realizador de emisiones desde el control de continuidad.
+
+Página: 22 de 28
+
+94.-
+
+¿A quién se le otorgó el Premio de literatura en lengua castellana Miguel de Cervantes
+2024?
+
+a)
+
+Joan Margarit.
+
+b)
+
+Cristina Peri Rossi.
+
+c)
+
+Eduardo Mendoza.
+
+d)
+
+Alvaro Pombo.
+
+95.-
+
+Se graba una “claqueta de final” o “claqueta del revés” ...
+
+a)
+
+Cuando se graba un plano sin audio.
+
+b)
+
+Cuando el plano es solo un inserto.
+
+c)
+
+Cuando la claqueta no se ha grabado de inicio o no se ve bien.
+
+d)
+
+Cuando la secuencia se divide entre dos localizaciones.
+
+96.-
+
+El flujo luminoso que incide, emerge o atraviesa una determinada superficie en una
+dirección determinada se llama…
+
+a)
+
+Luminancia.
+
+b)
+
+Iluminancia.
+
+c)
+
+Reflexión.
+
+d)
+
+Contraste.
+
+97.-
+
+¿Qué película fue filmada íntegramente en un set de la Paramount?
+
+a)
+
+Gravity.
+
+b)
+
+2001: Una odisea del espacio.
+
+c)
+
+Cleopatra.
+
+d)
+
+La ventana indiscreta.
+
+98.-
+
+¿En cuál de los siguientes deportes NO es necesario operar la cámara del plano máster y
+se mantiene un plano fijo?
+
+a)
+
+Bádminton.
+
+b)
+
+Tenis.
+
+c)
+
+Tenis de mesa.
+
+d)
+
+Halterofilia.
+
+Página: 23 de 28
+
+99.-
+
+¿Cómo se llama el efecto de movimiento espasmódico rápido, creado por la omisión
+sistemática de fotogramas de una filmación a velocidad normal?
+
+a)
+
+Pixilación.
+
+b)
+
+Pixelación.
+
+c)
+
+Pixelador.
+
+d)
+
+Pixilador.
+
+100.-
+
+¿Qué ocurre si después de hacer un balance de blancos sobre un papel blanco se repite
+utilizando como superficie un pantalón vaquero azul claro?
+
+a)
+
+El balance de blancos solo se puede hacer sobre una superficie blanca.
+
+b)
+
+La imagen resultante tendrá un tono más frio.
+
+c)
+
+La imagen resultante tendrá un tono más cálido.
+
+d)
+
+La imagen resultante tendrá un tono más verde.
+
+101.-
+
+El punto dulce:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Es una técnica narrativa utilizada por el realismo poético francés de Marcel Carné por la
+cuál los personajes solo llegan a la felicidad a través de un cuestionamiento personal y
+la aceptación del otro.
+
+Es un recurso de iluminación en el que se sitúan pequeños focos de cuarzo sobre el
+objetivo de las cámaras para suavizar los contornos de los rostros.
+
+Es en la trama el momento posterior al clímax donde el o la protagonista ha alcanzado
+su objetivo, eliminando todo conflicto o contraintención del antagonista.
+
+Es donde el trabajo de la óptica es óptimo, reduciendo aberraciones y proporcionando
+una mayor definición y se encuentra en las&nbsp;aperturas de diafragma intermedias.
+
+102.-
+
+Según el artículo 4 del Capítulo I de la Ley 31/1995, de 8 de noviembre, de prevención de
+Riesgos Laborales, ¿Cómo llamamos a la posibilidad de que un trabajador sufra un
+determinado daño derivado del trabajo?
+
+a)
+
+Accidente Laboral.
+
+b)
+
+Prevención Laboral.
+
+c)
+
+Condición Laboral.
+
+d)
+
+Riesgo Laboral.
+
+103.-
+
+¿Cuáles son los cinco métodos de montaje según Serguéi Eisenstein?
+
+a)
+
+Métrico, rítmico, tonal, sobretonal e intelectual.
+
+b)
+
+Métrico, alterno, tonal, sobretonal e intelectual.
+
+c)
+
+Métrico, paralelo, tonal, sobretonal e intelectual.
+
+d)
+
+Métrico, analítico, tonal, sobretonal e intelectual.
+
+Página: 24 de 28
+
+104.-
+
+¿Un fragmento de la acción, con sentido completo, que se desarrolla en un mismo
+escenario y no guarda unidad temporal es?
+
+a)
+
+Escena.
+
+b)
+
+Secuencia.
+
+c)
+
+Sinopsis.
+
+d)
+
+Elipsis.
+
+105.-
+
+¿Qué es un proxy de video?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Es una copia de menor resolución de la imagen y el sonido original muy comprimida,
+que incluye código de tiempo y algunos otros metadatos básicos.
+
+Es una copia de menor resolución de la imagen y el sonido original muy comprimida,
+que no incluye código de tiempo.
+
+Es la versión del material original en un códec menos manejable para llevar a cabo la
+edición definitiva, que incluye código de tiempo y algunos otros metadatos básicos.
+
+Es la versión del material original en un códec más manejable para llevar a cabo la
+edición definitiva, que no incluye código de tiempo.
+
+106.-
+
+En una retransmisión multilateral a nivel internacional ¿qué es un running order?
+
+a)
+
+La duración total de la retransmisión desde que se sube señal hasta que se baja.
+
+b)
+
+La cuenta atrás pactada previa a la apertura de señal.
+
+c)
+
+El orden de los planos a realizar durante el inicio de la retransmisión.
+
+d)
+
+El orden en que aparecen los eventos de la retransmisión.
+
+107.-
+
+El efecto “camafeo” es un estilo escenográfico…
+
+a)
+
+En el que se disponen pequeños objetos abstractos.
+
+b)
+
+En el que utilizan tres paredes: una de fondo y dos laterales.
+
+c)
+
+En el que el decorado es totalmente negro, tanto el fondo como el suelo.
+
+d)
+
+En el que la escena es una réplica de un lugar real.
+
+108.-
+
+Cuando hablamos de MXF nos referimos a:
+
+a)
+
+Un tipo de archivo contenedor.
+
+b)
+
+Un tipo de códec de video sin perdida.
+
+c)
+
+Un tipo de códec de video con perdida.
+
+d)
+
+Un formato comprimido con canal Alfa.
+
+Página: 25 de 28
+
+109.-
+
+¿Qué emisora fue la primera del mundo en emitir por televisión?
+
+a)
+
+CBS.
+
+b)
+
+NBC.
+
+c)
+
+BBC.
+
+d)
+
+TF1.
+
+110.-
+
+¿Qué parámetros son los que definen la crominancia?
+
+a)
+
+Brillo y tono.
+
+b)
+
+Brillo y saturación.
+
+c)
+
+Saturación y contraste.
+
+d)
+
+Saturación y tono.
+
+111.-
+
+¿Cuál, de los términos relacionados en la respuesta, es el preferido en televisión (excepto
+en EE.UU.) para definir la unidad de iluminancia?
+
+a)
+
+El Nanómetro.
+
+b)
+
+El Lux.
+
+c)
+
+El Lumen.
+
+d)
+
+El Watio lumínico.
+
+112.-
+
+En una planificación en embocadura de teatro, el eje escénico y el de acción son…
+
+a)
+
+Lo mismo.
+
+b)
+
+Perpendiculares.
+
+c)
+
+Paralelos.
+
+d)
+
+Cambian con el movimiento de los personajes.
+
+113.-
+
+En un sistema de grabación digital de audio ¿qué determina la profundidad de bits ("bit
+depth")?
+
+a)
+
+La cantidad de frecuencias que se pueden grabar.
+
+b)
+
+El rango dinámico de la señal de audio.
+
+c)
+
+La cantidad de canales disponibles para grabar.
+
+d)
+
+La latencia del sistema de grabación.
+
+114.-
+
+¿A qué se denomina Biblia en una serie?
+
+a)
+
+Es el documento donde están desglosados todos los episodios de la serie.
+
+b)
+
+Es el documento donde están especificadas todas las necesidades técnicas de la serie.
+
+c)
+
+Es el documento que contiene toda la información imprescindible para entender la serie.
+
+d)
+
+Es el documento donde está especificado el presupuesto y los guiones de todos los
+capítulos de la serie.
+
+Página: 26 de 28
+
+115.-
+
+¿Qué conocemos por Cinefoil negro?
+
+a)
+
+Es un material de aluminio moldeable, opaco, que absorbe la luz y elimina reflexiones.
+
+b)
+
+Es la corriente de cine que se desarrolló a principios de los 60 en los países del este.
+
+c)
+
+Es el daño que se produce cuando un elemento externo se introduce en una película de
+cine y la daña.
+
+d)
+
+Es un error de etalonaje habitual en las películas sobreexpuestas.
+
+116.-
+
+Los derechos de explotación reconocidos a las entidades de radiodifusión durarán:
+
+a)
+
+70 años computados desde su primera emisión o transmisión.
+
+b)
+
+c)
+
+25 años, computados desde el día 1 de enero del año siguiente al de la realización por
+vez primera de una emisión o transmisión.
+
+50 años, computados desde el día 1 de enero del año siguiente al de la realización por
+vez primera de una emisión o transmisión.
+
+d)
+
+50 años, computados desde su primera emisión o transmisión.
+
+117.-
+
+¿Qué tipos de planos existen según el punto de vista?
+
+a)
+
+Primer plano y plano general.
+
+b)
+
+Plano picado y plano contrapicado.
+
+c)
+
+Plano nadir y plano cenital.
+
+d)
+
+Plano objetivo y plano subjetivo.
+
+118.-
+
+El concepto de agency se refiere:
+
+a)
+
+b)
+
+c)
+
+d)
+
+En narrativa interactiva a la sensación que llega a tener el espectador o usuario de
+provocar cambios significativos en el contexto inmersivo.
+
+En teoría del guion a la libertad de acción de un personaje en relación al contexto ético
+de la narración.
+
+En realidad virtual, al grado de realismo que se puede obtener al integrar elementos
+creados por CGI en un decorado real.
+
+En tecnología digital a la eficiencia de un sistema de compresión temporal
+considerando la utilización del buffer de codificación.
+
+119.-
+
+En los orígenes del teatro moderno europeo, quienes por primera vez conciben el arte
+teatral como una obra de conjunto que precisa la figura del director escénico, basándose
+en el respeto al texto teatral, eludiendo a los actores “divos” y formando a un conjunto
+disciplinado de actores, es:
+
+a)
+
+el Teatro del Arte de Konstantin Stanislavski.
+
+b)
+
+la Compañía del ducado de Meiningen.
+
+c)
+
+el Teatro didáctico del Berliner Ensemble de de Bertolt Brecht.
+
+d)
+
+el Théâtre Libre de Antoine.
+
+Página: 27 de 28
+
+120.-
+
+¿Qué es recurso narrativo “ironía dramática”?
+
+a)
+
+Es cuando es espectador sabe algo que el personaje desconoce.
+
+b)
+
+Es cuando el personaje dice algo, con doble sentido, que puede dar un giro a la trama.
+
+c)
+
+Es cuando el espectador intuye algo, por el diálogo del personaje, pero que no sabrá el
+significado hasta el final de la obra.
+
+d)
+
+Es cuando un personaje dice algo cómico durante una escena dramática.
+
+Página: 28 de 28
+
+

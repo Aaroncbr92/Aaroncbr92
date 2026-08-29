@@ -1,0 +1,547 @@
+Ocupación tipo 
+
+INGENIERÍA SUPERIOR INDUSTRIAL 
+
+Práctico 
+
+INSTRUCCIONES 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST. 
+
+La prueba está compuesta por 4 supuestos prácticos (3 principales más 1 de reserva, que solo puntuará 
+si alguno de los supuestos principales fuera anulado, debiendo contemplar todos), que constarán de 6 
+preguntas tipo test cada uno (5 preguntas principales más 1 de reserva, que solo puntuará si alguna de 
+las preguntas principales fuera anulada, debiendo contemplar todas). 
+
+En  caso  de  que  hubiese  que  anular  más  de  una  pregunta  asociada  a  un  mismo  supuesto,  primero  se 
+tomará la pregunta de reserva del supuesto y posteriormente las preguntas del supuesto de reserva. 
+
+Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe solo elegir 
+UNA de las cuatro opciones. 
+
+El sistema de valoración será el siguiente: 
+
+o  Cada pregunta contestada correctamente tiene un valor de 1 punto positivo. 
+
+o  Cada pregunta no contestada, contestada de forma distinta a la indicada en las instrucciones o 
+
+contestada con dos o más respuestas no tendrá valoración alguna. 
+
+o  Cada pregunta con contestación errónea penaliza 1/3 punto. 
+
+Si la prueba lo requiere, se facilitará una hoja para realizar cálculos. 
+
+Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna correspondiente. Cualquier 
+respuesta marcada fuera de la HOJA DE RESPUESTAS, por ejemplo, en el cuadernillo de la prueba, o no 
+cumplimentada de acuerdo con estas instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” 
+no deberá anotar ninguna marca o señal distinta de las necesarias para contestar el ejercicio.  
+
+Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas anteriormente. 
+
+Le recordamos que, si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que abandonar la 
+prueba. 
+
+TIEMPO MÁXIMO: 150 MINUTOS 
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E. No se 
+
+permite la reproducción total o parcial de este cuestionario
+
+ 
+ 
+ 
+PROBLEMA 1 
+
+Se necesita dimensionar un sistema de climatización mediante bomba de 
+calor aire-agua para una oficina de 150 m² ubicada en Madrid. La bomba de 
+calor debe proporcionar tanto calefacción en invierno como refrigeración 
+en verano. 
+
+Datos a tener en cuenta para realizar el problema: 
+
+Datos climáticos: 
+
+  Temperatura exterior de diseño en invierno: 2°C 
+  Temperatura interior deseada en invierno: 22°C 
+  Temperatura exterior de diseño en verano: 36°C 
+  Temperatura interior deseada en verano: 24°C 
+
+Datos de la envolvente del edificio: 
+
+  Muros exteriores:    100 m²    U= 0,8 W/m2 ºC 
+  Ventanas:                  20 m²     U= 3,2  W/m2 ºC 
+  Techo:                      150 m²    U= 0,5  W/m2 ºC 
+  Piso sobre terreno: 150 m²    U= 0,4  W/m2 ºC 
+  Altura oficina  = 3 m 
+
+Cargas internas y ocupación: 
+
+  Ocupantes: 10 personas, cada una aporta 100 W en calor sensible. 
+  Equipos e iluminación: 12 W/m². 
+
+Datos adicionales: 
+
+  Ventilación en la oficina de 0,5 renovaciones por hora. 
+  El equipo tiene un COP = 3,7 y EER = 2,8 
+  Temperatura agua fría: 7 ºC en impulsión y 12 ºC en retorno 
+  Temperatura agua caliente: 45 ºC en impulsión y 40 ºC en retorno 
+  La velocidad del agua es de 1 m/s 
+  Energía eléctrica consumida por temporada = 60.000 kWh 
+  Energía eléctrica proporcionada por temporada = 193.800 kWh 
+  Cpagua =1cal/ g ºC = 4,18J/ gºC 
+
+Fórmulas útiles: 
+
+Carga por ventilación: Qvent = 0,33·V· ΔT 
+
+  Qvent= carga térmica sensible por ventilación (kW) 
+  V= caudal de aire de ventilación (m3/h) 
+  ΔT= salto térmico (ºC) 
+
+ 
+Pérdidas/Ganancias por transmisión: 
+
+Q =U⋅S⋅ΔT 
+
+donde: 
+
+  Q = Pérdidas o ganancias térmicas (W) 
+  U= Coeficiente de transmisión térmica (W/m² ºC) 
+  S = Superficie (m²) 
+  ΔT = Salto térmico (ºC) 
+
+Se pide: 
+
+1)  Calcular  la  carga  térmica  en  invierno  teniendo  en  cuenta  las 
+pérdidas  por  transmisión  a  través  de  muros,  ventanas,  techo  y 
+suelo.  Considerar  las  pérdidas  por  ventilación.  No  considerar  las 
+cargas que aportan calor: 
+a)  15 kW 
+b)  6 kW 
+c)  8 kW 
+d)  10 kW 
+
+2)  Calcular la carga térmica en verano teniendo en cuenta las pérdidas 
+por  transmisión  a  través  de  muros,  ventanas,  techo  y  suelo. 
+Considerar las pérdidas por ventilación, y las diferentes cargas que 
+aportan calor:  
+a)  3,6 kW 
+b)  6,40 kW 
+c)  6,4 W 
+d)  1500 W 
+
+3)  Seleccionar  una  bomba  de  calor  de  potencia  adecuada  para  la 
+oficina  (seleccionar  un  único  valor  de  potencia  para  verano  e 
+invierno  en  función  de  los  datos  obtenidos  al  realizar  las  cargas 
+térmicas): 
+a)  7 kW 
+b)  15 kW 
+c)  6 kW 
+d)  7 W 
+
+4)  Calcular el consumo eléctrico del equipo en verano: 
+
+a)  1,89 kW 
+b)  7 kW 
+c)  2,5 kW 
+d)  10 kW 
+
+ 
+ 
+ 
+ 
+5)  Calcular el diámetro de las tuberías de impulsión y retorno de agua 
+de calefacción de la bomba de calor para la potencia de selección del 
+equipo.  
+a)  6,3 cm 
+b)  10 mm 
+c)  21 cm 
+d)  21 mm 
+
+6)  Reserva) Calcular el SCOP del equipo: 
+
+a)  3,23 
+b)  0,31 
+c)  1,85 
+d)  2,5 
+
+ 
+ 
+ 
+ 
+PROBLEMA 2 
+Un almacén industrial de 25x20,8 m2 está considerado como Riesgo Extra 
+Proceso 3, por lo que se debe instalar un sistema de extinción automática 
+de  rociadores.  Se  ha  optado  por  la  instalación  de  un  sistema  de 
+rociadores de acción previa o pre-acción, lo que implica que se requiere 
+de  una  señal  procedente  de  un  sistema  paralelo  de  detección  de 
+incendios que actúe sobre una válvula de control para liberar el agua a la 
+red de tuberías. 
+El almacén cuenta con una red de BIEs según la normativa vigente.  
+Se  adjunta  una  tabla  con  los  parámetros  de  diseño  para  una  red  de 
+rociadores  según  la  UNE  EN  12845  a  considerar  para  realizar  este 
+ejercicio. 
+
+Se pide: 
+
+7)  ¿Cuál es el número de rociadores que se deben considerar para 
+
+los cálculos hidráulicos?  
+a)  29 
+b)  37 
+c)  42 
+d)  57 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8)  Para  el  almacén  industrial  de  la  pregunta  anterior,  ¿cuál  es  el 
+caudal  mínimo  por  rociador  que  se  debe  tener  en  cuenta  para  los 
+cálculos hidráulicos?  
+
+a)  45 l/min 
+b)  67,5 l/min 
+c)  112,5 l/min 
+d)  150 l/min 
+
+9) En el almacén anterior se utiliza la fórmula de Hazen-Williams para 
+realizar los cálculos hidráulicos de la red de BIEs y se determina que 
+el caudal real de la red de BIEs es de 320 l/min, ¿cuál es el valor del 
+caudal  necesario  para  abastecer  todos  los  elementos  del  almacén 
+industrial según normativa?  
+
+a)  136 m3 
+b)  146,5 m3  
+c)  294 m3  
+d)  330 m3  
+
+10) Se ha establecido una acometida de agua desde una red pública 
+que  es  capaz  de  suministrar  un  caudal  de  9  dm3/s,  dimensionar  la 
+capacidad del depósito de reserva.  
+
+a)  100 m3  
+b)  110 m3  
+c)  246 m3  
+d)  282 m3 
+
+11) Calcular la presión que debe existir en el extremo de un ramal de 
+la red de rociadores, si se considera que ese rociador cubre un área 
+de 8,90m2. Considerar una Krociador = 115. 
+
+a)  0,86 bar 
+b)  0,94 bar 
+c)  0,95 bar 
+d)  1,02 bar 
+
+12 Reserva) El ramal de tuberías anterior tiene una longitud 12 m y da 
+servicio a 4 rociadores. Se ha medido el caudal en su conexión con la 
+tubería principal y el resultado ha sido de 507,32 l/min. El gradiente del 
+ramal es:   
+a)  7% 
+b)  10% 
+c)  14% 
+d)  15%  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROBLEMA 3 
+
+Del climatizador representado en la figura 
+
+Donde  cada  letra  mayúscula  representa  una  sección  constructiva  o 
+elemento del mismo y con las siguientes características: 
+
+Caudal impulsión: 2 ventiladores con las siguientes especificaciones 
+cada unidad: 
+
+-  Caudal 27.500 m3/h a1.234 rpm.  
+-  Potencia 11 kW. 
+-  Tensión alimentación 400/690V. 
+- 
+-  Cos Fi=0,87. 
+
+frecuencia 50 Hz. 
+
+Batería de refrigeración con las siguientes especificaciones: 
+
+-  Potencia 201 kW. 
+-  Temperatura fluido entrada/salida: 7,0/12,0 oC. 
+-  Capacidad calorífica fluido: 4,072 KJ/kg K. 
+-  Densidad fluido: 996,58 kg/m3  
+-  Aire entrada a batería: 24,5 oC/50%. 
+-  Aire salida de batería: 15,0 oC/85,8%. 
+
+Se solicita: 
+
+13) La sección de free- cooling está representada por: 
+
+a) Letra H. 
+b) Letra A. 
+c) Letra J. 
+d) Letra B. 
+
+ 
+ 
+ 
+14) Número de filtros del climatizador. 
+
+a) 1. 
+b) 3. 
+c) 4. 
+d) 2. 
+
+15) Protección eléctrica mínima para la línea de alimentación al variador 
+de potencia del motor de un ventilador de impulsión. 
+
+a) 3x32 A. 
+b) 3x25 A. 
+c) 4x 20 A. 
+d) 4x32 A 
+
+16)  Diámetro  mínimo  de  la  tubería  de  conexión  a  la  batería  de 
+refrigeración para una velocidad máxima del fluido de 1,5 m/s. 
+
+a) 100 mm. 
+b) 75 mm. 
+c) 125 mm. 
+d) 63 mm. 
+
+17)  Potencia  adsorbida  por  el  ventilador  de  impulsión  si  aumenta  su 
+velocidad angular a 1.300 rpm. 
+
+a) 12,20 kW. 
+b) 14 kW. 
+c) 11,59 kW. 
+d)12,86 kW. 
+
+18) Reserva. Número de salidas analógicas (SA) y salidas digitales (SD) 
+que tiene que tener el controlador del climatizador para la siguiente lista 
+de señales: 
+
+-  Temperatura entrada y salida de aire al climatizador. 
+-  Temperatura entrada y salida de agua al climatizador. 
+-  Válvulas de 3 vías proporcional en circuito frio y en circuito de 
+
+calor. 
+
+-  Apertura y cierre de compuertas todo-nada entrada y salida de 
+
+aire. 
+
+-  Estado compuertas aire. 
+-  Marcha paro ventiladores de impulsión. 
+-  Alarmas filtros. 
+
+a) 4 SA y 4 SD. 
+b) 2 SA y 4 SD. 
+c) 2 SA y 4 SD. 
+d) 2 SA y 2 SD. 
+
+ 
+ 
+ 
+ 
+PROBLEMA 4 RESERVA 
+
+El  edificio  de  Unidades  Móviles  (UU.MM.)  de  Prado  del  Rey  necesita 
+renovar un cuadro eléctrico que da servicio al garaje.  
+Este  cuadro  (cuadro  de  UU.MM.)  tendrá  que  alimentar  los  siguientes 
+circuitos: 
+
+  Tres líneas trifásicas que cada una irá a una caja que se encuentra 
+a  30m,  45m  y  60m  respectivamente  (Cajas  1,  2  y  3).  Cada  una  de 
+ellas estarán terminadas en una base tipo CETAC 63A 3P+N+T y en 
+respectivas 
+cuatro  bases  schuko  16A  1P+N+T  con  sus 
+protecciones individuales. 
+
+  Cuatro líneas monofásicas terminadas en cajas instaladas de dos 
+en dos a 20m (Cajas 4 y 5) y 30m respectivamente (Cajas 6 y 7). 
+
+o  Las cajas 4 y 5 dispondrán, cada una de ellas, de tres bases 
+schuko 16A 1P+N+T, con sus protecciones individuales.  
+o  Mientras que las cajas 6 y 7 estarán terminadas, cada una de 
+ellas, en dos bases CETAC 32A 1P+N+T, con sus respectivas 
+protecciones individuales.   
+
+  Un circuito trifásico de reserva. 
+  Dos circuitos monofásicos de reserva. 
+
+Los servicios que se ha estimado que dará servicio este cuadro son los 
+siguientes:  
+
+  Desde las cajas 1, 2 y/o 3 se podrán alimentar las Unidades Móviles, 
+tipo  F.  Cada  unidad móvil,  se  conectará a  la  base  CETAC  con  un 
+consumo  unitario  de  55A  y,  adicionalmente,  se  alimentarán  tres 
+equipos  auxiliares  monofásicos  de  2,5  kW,  cada  uno,  que  irán 
+conectados  a  las  bases  schuko.  Considérese  que  en  estas  tres 
+cajas estarán conectadas, como máximo de forma simultánea dos 
+unidades móviles (con sus respectivos equipos auxiliares), por lo 
+que al menos, una estará sin servicio.    
+
+  En las cajas 4 y 5 se conectarán, en cada una de ellas, un equipo 
+
+que consume 10A y otro de 2.500W.  
+
+  Un equipo de enlaces estará conectado indistintamente en la caja 6 
+
+ó 7 con un consumo máximo estimado de 27A.  
+
+Datos a tener en cuenta para realizar el problema: 
+
+-  La instalación se supone libre de armónicos por lo que se acepta la 
+consideración  de  que  el  cosφ  =  factor  de  potencia.  En  aquellas 
+cargas que no se indica lo contrario, se supone cosφ=1. 
+
+-  U=230V Monofásica y U=400V Trifásica 
+-  Resistividad del cobre = 0,018 Ω·mm2/m 
+
+ 
+ 
+ 
+ 
+Se pide: 
+
+19)  Considerando  un  reparto  de  cargas  equilibrado  ¿Cuál  de  las 
+siguientes  referencias  sería  la  más  adecuada,  para  instalar  en  el 
+cuadro de UU.MM, y proteger contra contactos indirectos la línea que 
+alimenta la caja 3?: 
+
+a) A9R35480 
+b) A9R35463 
+c) A9R35263 
+d) A9N18372 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20) Considerando que la instalación descrita en el enunciado tuviera 
+un  factor  de  potencia  de  0,8  ¿Qué  grupo  electrógeno  sería  el  más 
+adecuado  para  garantizar  la  alimentación  de  los  servicios  de  este 
+cuadro, operando con un margen de seguridad en torno al 40%?  
+
+Se supone un reparto equitativo de las cargas y que la instalación 
+no requiere de consideraciones adicionales por picos de carga en 
+el arranque.  
+
+a) 195 kVA 
+b) 130 kVA 
+c) 105 kVA 
+d) 65 kVA 
+
+21)  Si  uno  de  los  circuitos  de  reserva  del  Cuadro  de  UU.MM.  está 
+protegido por el equipo de la imagen, y tiramos desde el mismo una 
+línea  de  120m  y  6  mm2  Cu,  de  las  opciones  que  se  muestra  a 
+continuación:  ¿Cuál  sería  la  potencia  que  más  se  aproxima  a  la 
+máxima que se podría conectar al circuito?. Teniendo en cuenta que 
+consideramos una caída de tensión del circuito de aproximadamente 
+11,5V. 
+
+a) 7.350W 
+b) 9.200W 
+c) 5.750W 
+d) 3.675W 
+
+300 mA 
+
+ 
+ 
+ 
+ 
+ 
+ 
+22) Si uno de los circuitos trifásicos de reserva alimentara un equipo 
+trifásico equilibrado situado a 75m mediante una línea de 6 mm2 Cu, 
+que absorbe 18A y tiene un cos φ = 0,65 ¿Cuál de las siguientes caídas 
+de tensión sería la que más se aproxima a la que se produciría en el 
+circuito? 
+
+a) 1,98% 
+b) 1,32% 
+c) 1,14% 
+d) 0,66% 
+
+23)  Calcula  la sección  (y  elige  una  que  sea  comercial)  de  la línea  de 
+cobre  que  alimenta  desde  el  Cuadro  de  UU.MM.  la  caja  nº6  para  la 
+intensidad del enunciado, considerando una caída de tensión máxima 
+del 3%.  
+
+Con dicha sección,  y considerando que el circuito está protegido 
+con  la  protección  de  la  imagen,  utilizando  las  tablas  adjuntas, 
+calcula  la  longitud  máxima  que  podría  llegar  a  tener  el  cable  (en 
+lugar de los 30m del enunciado) para que estuviera protegido por 
+intensidades de cortocircuito. 
+
+a) 150 m 
+b) 75 m 
+c) 50 m 
+d) 38 m 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24 Reserva) Para que el interruptor de la foto nos ofreciera garantías 
+de protección contra contactos indirectos ¿Cuál sería la resistencia 
+máxima  admisible  de  la  toma  de  tierra  y  de  los  conductores  de 
+protección de masas?   
+Considérese  que  el  garaje  puede  tener  humedad  o  estar  mojado 
+(tensión de contacto máxima admisible = 24V), y que el esquema de 
+puesta a tierra es TT. 
+
+a) 0,08Ω 
+b) 0,96Ω 
+c) 80Ω 
+d) 600Ω 
+
+300 mA 
+
+ 
+ 
+ 
+ 
+ 
+

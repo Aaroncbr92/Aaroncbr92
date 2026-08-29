@@ -1,0 +1,2191 @@
+Ocupación tipo
+
+Ingeniería Superior 
+ Informática
+
+INSTRUCCIONES
+
+Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+La prueba está compuesta por 96 preguntas (80 preguntas principales más 16 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
+solo elegir UNA de las cuatro opciones.
+
+El sistema de valoración será el siguiente:
+
+Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+Cada pregunta no contestada, contestada de forma distinta a la indicada en las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+Recuerde anotar
+las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
+anteriormente facilitadas.
+
+Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+Tiempo máximo: 120 minutos.
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+                No se permite la reproducción total o parcial de este cuestionario.
+
+1.-
+
+¿Cómo se denomina al accidente laboral ocurrido al trabajador por el desempeño de su
+trabajo en un lugar distinto al lugar de trabajo habitual y no producido en el trayecto de ir
+o venir al puesto habitual de trabajo desde su domicilio?
+
+a)
+
+Laborem exercens.
+
+b)
+
+In itinere.
+
+c)
+
+Laborem in situ.
+
+d)
+
+In mision
+
+2.-
+
+Respecto de la arquitectura de microservicios, indique la respuesta correcta:
+
+a)
+
+La gestión de los datos que se manejan ha de estar completamente centralizada.
+
+b)
+
+Todos los microservicios han de estar implementados en el mismo lenguaje de
+programación.
+
+c)
+
+Los microservicios implementados han de tener baja cohesión y alto acoplamiento.
+
+d)
+
+Divide una aplicación en una serie de servicios implementables de forma independiente.
+
+3.-
+
+¿Cómo se da alta disponibilidad de acceso al almacenamiento en una SAN?
+
+a)
+
+Se proporciona alta disponibilidad física a un nodo (o servidor) con un doble cableado,
+de tal forma, que si un camino se pierde, se accede al almacenamiento por el otro
+camino y el nodo sigue accediendo al disco.
+
+b)
+
+En una SAN no hay alta disponibilidad.
+
+c)
+
+Los datos se copian dos veces.
+
+d)
+
+Un sistema SAN tiene la gestión distribuida de los recursos de almacenamiento. Tener
+varios puntos de gestión  proporciona alta disponibilidad de acceso.
+
+4.-
+
+En Windows 11, ¿qué comando se utiliza para obtener información del sistema de
+nombres de dominio (DNS)?
+
+a)
+
+netstat
+
+b)
+
+nbtstat
+
+c)
+
+nslookup
+
+d)
+
+rmdir
+
+5.-
+
+En la Guía de Igualdad de la Corporación de RTVE, se establece como Principio General
+para lograr el adecuado tratamiento mediático:
+
+a)
+
+Evitar la identificación de mujeres y hombres con determinados roles o actitudes.
+
+b)
+
+Promover la discriminación por la apariencia física.
+
+c)
+
+Promover la presentación de las mujeres como víctimas.
+
+d)
+
+Incluir el cuerpo de la mujer como reclamo tanto en publicidad como en espacios de
+entretenimiento.
+
+Página: 1 de 21
+
+6.-
+
+¿Cuál de los siguientes NO es un servidor de aplicaciones?
+
+a)
+
+JOnAS.
+
+b)
+
+Apache Geronimo.
+
+c)
+
+HTTPS.
+
+d)
+
+GlassFish.
+
+7.-
+
+Una red SAN gestiona de manera efectiva los dispositivos de almacenamiento y....
+
+a)
+
+garantiza que todos los datos compartan camino.
+
+b)
+
+elimina los puntos únicos de fallo para mejorar la confiabilidad y disponibilidad de
+almacenamiento.
+
+c)
+
+Conecta cada servidor directamente a un disco externo físico.
+
+d)
+
+Conecta cada servidor directamente a una unidad de cinta.
+
+8.-
+
+En lo relativo a accesibilidad web, ¿qué habría que hacer para hacer las imágenes
+accesibles en el tag <img> para aquellos que sufren discapacidad visual?
+
+a)
+
+Rellenar el atributo "title".
+
+b)
+
+Rellenar el atributo "description".
+
+c)
+
+Rellenar el atributo "id".
+
+d)
+
+Rellenar el atributo "alt".
+
+9.-
+
+¿Qué es un Data Warehouse?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Es una colección de datos orientada a un determinado ámbito, integrado, no volátil y
+variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se
+utiliza.
+
+Es una colección de datos orientada a un determinado ámbito, no integrado, volátil y
+variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se
+utiliza.
+
+Es una colección de datos orientada a un determinado ámbito, integrado, no volátil y no
+variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se
+utiliza.
+
+Es una colección de datos orientada a un determinado ámbito, no integrado, no volátil y
+variable en el tiempo, que ayuda a la toma de decisiones en la entidad en la que se
+utiliza.
+
+10.-
+
+¿Cuál es el objetivo de las pruebas de caja negra?
+
+a)
+
+Conocer el funcionamiento interno del sistema.
+
+b)
+
+Generar entradas aleatorias en el sistema.
+
+c)
+
+Comprobar si las salidas son las esperadas.
+
+d)
+
+Configurar los interfaces de las pruebas.
+
+Página: 2 de 21
+
+11.-
+
+El protocolo DHCP se define como:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Protocolo estándar de la familia TCP/IP que proporciona servicios de resolución de
+nombres de equipo a dirección IP para equipos y usuarios.
+
+Protocolo cliente/servidor que proporciona automáticamente a un host su dirección IP,
+la máscara de subred y la puerta de enlace predeterminada.
+
+Protocolo de resolución y registro de nombres de equipo heredado que asigna nombres
+NetBlOS de equipo a direcciones IP.
+
+Protocolo que permite crear y aplicar directivas de acceso a la red de toda la
+organización para la autenticación y autorización de solicitudes de conexión.
+
+12.-
+
+En el mundo HTML / CSS, ¿Qué seleccionaría en el CSS el selector “.texto”?
+
+a)
+
+Todos los elementos “texto” de tipo etiqueta.
+
+b)
+
+El único elemento que tenga de identificador "texto".
+
+c)
+
+Todos los elementos que tengan el atributo "texto" definido.
+
+d)
+
+Todos los elementos que tengan la clase “texto”.
+
+13.-
+
+Qué cualidad NO es deseable en un centro de proceso de datos
+
+a)
+
+Doble acometida eléctrica.
+
+b)
+
+Sistema de refrigeración para que el equipamiento informático tenga una temperatura
+adecuada.
+
+c)
+
+Calefacción para favorecer que los datos se muevan más rápido.
+
+d)
+
+Seguridad física con acceso restringido.
+
+14.-
+
+¿Qué es la cantidad de datos procesados por unidad de tiempo en un archivo de video?
+
+a)
+
+Bitrate.
+
+b)
+
+Framerate.
+
+c)
+
+Samplerate.
+
+d)
+
+Sizerate.
+
+15.-
+
+Sobre las funciones hash, indica cuál de las siguientes afirmaciones NO es correcta:
+
+a)
+
+Una de las utilidades de las funciones hash es la detección de malware.
+
+b)
+
+Haciendo uso de funciones hash podemos hacer un control de archivos duplicados.
+
+c)
+
+Las contraseñas pueden protegerse utilizando una función hash.
+
+d)
+
+Firmando un mensaje con una función hash aseguramos su no repudio.
+
+Página: 3 de 21
+
+16.-
+
+Según la Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, ¿qué objetivo
+principal persigue esta normativa?
+
+a)
+
+Garantizar la accesibilidad y diversidad en los servicios de comunicación audiovisual.
+
+b)
+
+Regular únicamente la financiación de RTVE.
+
+c)
+
+Limitar el uso de publicidad en medios digitales.
+
+d)
+
+Establecer un único operador público de televisión en España.
+
+17.-
+
+Los backups se guardan en cintas magnéticas y se externalizan fuera del CPD para:
+
+a)
+
+Asegurar una copia de los datos ante un posible riesgo físico del CPD y garantiza una
+copia de datos protegida frente al Ransomware.
+
+b)
+
+Evitar que los usuarios accedan a las copias de seguridad.
+
+c)
+
+Porque el acceso a los backups es más rápido que cuando están guardados en disco.
+
+d)
+
+Asegurar que no se recupera un backup.
+
+18.-
+
+¿Cómo se podrían mitigar los ataques XSS (Cross-Site Scripting) a una aplicación web?
+
+a)
+
+Mediante el uso de certificados electrónicos.
+
+b)
+
+Mediante la creación de reglas que permite un cortafuegos tradicional.
+
+c)
+
+Mediante el filtrado de datos maliciosos en la entrada de la aplicación, en la salida o en
+ambas.
+
+d)
+
+Mediante la configuración de listas de control de accesos (ACL).
+
+19.-
+
+¿Permite la tecnología MPLS el establecimiento de redes privadas virtualesVPN?
+
+a)
+
+Sí, permite la creación de VPN exclusivamente de capa 3.
+
+b)
+
+c)
+
+d)
+
+No, es un protocolo diseñado para una conmutación de paquetes mucho más eficiente
+mediante etiquetas pero que no permite crear redes privadas virtuales.
+
+Sí, siempre del nivel 2, tanto en enlaces punto a punto (pseudowires) comoservicios de
+LAN Privada virtual.
+
+Sí, MPLS es una técnica basada en la conmutación de etiquetasmultiprotocolo que
+permite el establecimiento de redes privadas virtuales tantode nivel 2 como de nivel 3.
+
+20.-
+
+¿Qué registro DNS asocia un nombre de alias con otro nombre de dominioauténtico?
+
+a)
+
+CNAME.
+
+b)
+
+AAAA.
+
+c)
+
+LOC.
+
+d)
+
+NS.
+
+Página: 4 de 21
+
+21.-
+
+Se dice que un backup de base de datos se realiza en caliente cuando:
+
+a)
+
+Se realiza mientras los usuarios no tienen acceso a los datos.
+
+b)
+
+c)
+
+Se realiza mientras la base de datos está en línea y disponible para operaciones de
+lectura y escritura.
+
+Se realiza en un punto en el tiempo y se pierden los datos actualizados mientras se
+realiza el backup.
+
+d)
+
+Se realiza previa parada de la base de datos.
+
+22.-
+
+En una base de datos Oracle, ¿cuál de las siguientes sentencias NO está relacionada con
+la asignación de permisos a usuarios?
+
+a)
+
+CREATE VIEW.
+
+b)
+
+GRANT.
+
+c)
+
+CREATE PROFILE.
+
+d)
+
+CREATE ROLE.
+
+23.-
+
+A qué se refiere que un SGDB está en Alta Disponibilidad (HA):
+
+a)
+
+b)
+
+La alta disponibilidad se refiere a que el SGDB se ejecuta en un servidor y el backup se
+guarda fuera del servidor.
+
+La alta disponibilidad se refiere a la capacidad de un sistema de seguir funcionando sin
+interrupciones ante posibles fallos o desastres, ya sean de hardware, software o de
+infraestructura.
+
+c)
+
+La alta disponibilidad se refiere a la rapidez de respuesta del SGDB.
+
+d)
+
+La alta disponibilidad se refiere a que los datos están duplicados dentro del SGDB para
+poder garantizar un doble acceso a los mismos.
+
+24.-
+
+Indicar de los siguientes tags, cuáles se corresponden con nuevos tags de HTML5:
+
+a)
+
+&lt;button&gt;, &lt;a&gt;, &lt;input&gt;.
+
+b)
+
+&lt;header&gt;, &lt;main&gt;, &lt;footer&gt;.
+
+c)
+
+&lt;h1&gt;, &lt;p&gt;, &lt;blockquote&gt;.
+
+d)
+
+&lt;abbr&gt;, &lt;caption&gt;, &lt;applet&gt;.
+
+25.-
+
+En la normalización de bases de datos:
+
+a)
+
+Una tabla puede estar en tercera forma normal sin estar en segunda forma normal.
+
+b)
+
+Una tabla que está en tercera forma normal, está también en segunda forma normal.
+
+c)
+
+Una tabla puede estar en tercera forma normal sin estar en primera forma normal.
+
+d)
+
+Una tabla que está en séptima forma normal está también en sexta forma normal.
+
+Página: 5 de 21
+
+26.-
+
+A la hora de codificar un video en HDR, ¿qué debemos tener en cuenta?
+
+a)
+
+b)
+
+Debemos confirmar que la velocidad de nuestro disco duro es suficiente para la
+conversión.
+
+Sería ideal tener las imágenes en Rec. 2020, ya que soportan un rango de color más
+ancho.
+
+c)
+
+Debemos asegurarnos de tener las imágenes con el LUT adecuado.
+
+d)
+
+Debemos montar un editor no lineal que soporte la entrada y la salida.
+
+27.-
+
+Cuales de las siguientes tipologías de herramientas NO es una herramienta de seguridad
+para proteger tus dispositivos.
+
+a)
+
+Antivirus y cleaners
+
+b)
+
+Doble factor de autenticación
+
+c)
+
+Monitorización de sistemas SGDB
+
+d)
+
+Red privada virtual
+
+28.-
+
+Indique la respuesta correcta ¿Cual es la diferencia en lenguaje SQL entre Delete y
+Truncate?
+
+a)
+
+Son equivalentes y se usan indistintamente.
+
+b)
+
+l El comando DELETE se usa para eliminar una fila o filas de la tabla, mientras que el
+comando TRUNCATE se usa para eliminar todas las filas de la tabla.
+
+c)
+
+El Delete es para borrar en una tabla y el Truncate es para eliminar un índice.
+
+d)
+
+El comando Truncate no es SQL.
+
+29.-
+
+Se dice que un SGBD cumple el ACID test si observa las propiedades de:
+
+a)
+
+(A)tomicidad, (C)onsistencia, (I)ntegridad y (D)urabilidad.
+
+b)
+
+(A)tomicidad, (C)onsistencia, a(I)slamiento y (D)urabilidad.
+
+c)
+
+(A)tomicidad, (C)onfidencialidad, a(I)slamiento y (D)urabilidad.
+
+d)
+
+(A)tomicidad, (C)onfidencialidad, (I)ntegridad y (D)urabilidad.
+
+Página: 6 de 21
+
+30.-
+
+En un sistema de almacenamiento de datos, ¿cuál de las siguientes afirmaciones es
+correcta?
+
+a)
+
+En el modelo SAN se utiliza una infraestructura de red de datos, mientras que en una
+NAS se usa una red dedicada para compartir dispositivos de almacenamiento.
+
+b)
+
+Un dispositivo NAS comparte bloques, mientras que una SAN se comparte ficheros.
+
+c)
+
+En el modelo NAS se utiliza una infraestructura de red de datos, mientras que en una
+SAN se usa una red dedicada para compartir dispositivos de almacenamiento.
+
+d)
+
+Una SAN no puede extenderse por áreas geográficas distanciadas más de 10km.
+
+31.-
+
+¿Cuál es la principal ventaja del modo Rendez vous en el protocolo SRT (Secure Reliable
+Transport)?
+
+a)
+
+Reduce el ancho de banda necesario para la transmisión en redes de baja calidad.
+
+b)
+
+Mejora la calidad de la imagen al aplicar un protocolo propietario antes de la
+transmisión.
+
+c)
+
+Facilita la conexión entre dos extremos detrás de firewalls o NAT.
+
+d)
+
+Al iniciar la comunicación el equipo que hace de “listener”, no es necesario conocer las
+IPs de los equipos.
+
+32.-
+
+En un diagrama de clases de UML, ¿Qué significa una línea que una 2 clases (1 y 2), con
+un rombo relleno en el extremo de la clase 1?
+
+a)
+
+La clase 2 depende totalmente de la clase 1, no pudiendo existir sin ella.
+
+b)
+
+La clase 1 depende totalmente de la clase 2, no pudiendo existir sin ella.
+
+c)
+
+La clase 2 forma parte de la clase 1, pero puede existir sin ella.
+
+d)
+
+La clase 1 forma parte de la clase 2, pero puede existir sin ella.
+
+33.-
+
+¿Qué objeto utiliza AJAX para intercambiar datos de forma asíncrona con el servidor
+web?
+
+a)
+
+AJAXRequest.
+
+b)
+
+XMLRequestObject.
+
+c)
+
+JSONRequest.
+
+d)
+
+XMLHttpRequest.
+
+Página: 7 de 21
+
+34.-
+
+Si hablamos de una infraestructura que utiliza virtualización de hardware, señala la
+respuesta INCORRECTA:
+
+a)
+
+Permite al sistema operativo invitado ser ejecutado sin modificaciones.
+
+b)
+
+Permite ejecutar múltiples sistemas operativos en distintas máquinas virtuales,
+siempre que dichos sistemas operativos sean compatibles con la arquitectura
+hardware subyacente.
+
+c)
+
+Utiliza contenedores Docker para mejorar el rendimiento.
+
+d)
+
+El hipervisor se encarga de administrar los recursos, traduciendo las peticiones de los
+sistemas invitados a las solicitudes del sistema anfitrión.
+
+35.-
+
+¿Qué caracteriza a una arquitectura “fault tolerant” (tolerante a fallos)?
+
+a)
+
+Existe suficiente redundancia para asegurar un funcionamiento correcto en caso de
+fallo.
+
+b)
+
+La ejecución de una instrucción está dividida en varias fases.
+
+c)
+
+Se distribuyen las funciones del sistema entre varios procesadores especializados.
+
+d)
+
+Todos los componentes del ordenador intercambian datos compartiendo los buses.
+
+36.-
+
+Indicar cuál de los siguientes es un lenguaje de programación de aplicaciones nativas
+para dispositivos móviles Android.
+
+a)
+
+Kotlin.
+
+b)
+
+Swift.
+
+c)
+
+Objetive-C.
+
+d)
+
+PHP.
+
+37.-
+
+El cifrado de los datos de la Auditoría de seguridad, que se activa en los contenedores de
+aplicaciones, es para:
+
+a)
+
+b)
+
+Para proteger los datos de auditoría y garantizar que los datos sólo los ven los usuarios
+autorizados y no se modifican sin rastreo.
+
+Para que ni
+auditoría.
+
+las aplicaciones ni
+
+los contenedores puedan escribir en el registro de
+
+c)
+
+Para que solo los administradores de contenedores puedan incluir datos en la auditoría.
+
+d)
+
+Los datos de auditoría no se pueden cifrar, deben permanecer públicos y modificables
+por cualquier aplicación o usuario.
+
+Página: 8 de 21
+
+38.-
+
+¿Cuál de las siguientes afirmaciones sobre el protocolo DNS es FALSA?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Un servidor de nombres autoritativo es aquel que mantiene zonas almacenadas
+localmente y proporciona respuestas a solicitudes de estas.
+
+El tipo de registro NS asocia un nombre de dominio a una lista de servidores de
+intercambio de correo para ese dominio.
+
+Un servidor autoritativo secundario obtiene los registros a través de un proceso
+denominado transferencia de zona.
+
+DNS usa para las comunicaciones el puerto 53, tanto para datagramas UDP como
+paquetes TCP.
+
+39.-
+
+En un clúster de computación ¿qué mecanismo se utiliza para distribuir las cargas de
+trabajo entre los nodos y optimizar su rendimiento?
+
+a)
+
+b)
+
+c)
+
+Un esquema de redundancia donde todas las tareas se ejecutan en cada nodo
+simultáneamente.
+
+Algoritmos de balanceo de carga que asignan tareas según la capacidad y
+disponibilidad de los nodos.
+
+Un solo nodo maestro que ejecuta todas las tareas y envía los resultados a los demás
+nodos.
+
+d)
+
+Un sistema de archivos distribuido que permite compartir datos entre nodos.
+
+40.-
+
+En Python, ¿qué podemos decir de las “dataclasses”?
+
+a)
+
+Permiten crear clases que lleven una serie de campos predefinidos.
+
+b)
+
+Son un tipo de “namedtuple” que genera el método “__repr__” internamente.
+
+c)
+
+Son un decorador aplicado a métodos que indican que son métodos estáticos, no
+dependientes de las instancias.
+
+d)
+
+Son un tipo de reducción de diccionarios, que asignan nombres a cada entrada.
+
+41.-
+
+Si se quisiera un entorno integral en la nube que incluye todo lo que los desarrolladores
+necesitan para crear, ejecutar y gestionar aplicaciones, desde servidores y sistemas
+operativos hasta redes, almacenamiento, middleware, herramientas y más. ¿Cuál de las
+siguientes opciones es la óptima?
+
+a)
+
+PaaS (Platform as a service).
+
+b)
+
+SaaS (Software as a service).
+
+c)
+
+IaaS (Infrastructure as a service).
+
+d)
+
+On-site.
+
+Página: 9 de 21
+
+42.-
+
+¿Dentro de los siguientes proyectos, en cuál NO tiene sentido utilizar mecanismos de
+Map Reduce, dentro del ecosistema de Hadoop?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Generar un informe diario de la audiencia de los programas de una cadena a partir de
+datos recopilados del día anterior.
+
+Obtener una posible correlación entre programas de TV a partir de sus metadatos y los
+datos de audiencias del último año.
+
+Obtener información a partir de datos en tiempo real para la toma de decisiones
+durante una emisión de un directo.
+
+Obtener información sobre el número de veces que se ha mencionado un tema a partir
+de los subtítulos de una serie de contenidos audiovisuales.
+
+43.-
+
+En el lenguaje SQL, la sentencia INSERT es una sentencia:
+
+a)
+
+DCL (Lenguaje de Control de Datos).
+
+b)
+
+DML (Lenguaje de Manipulación de Datos).
+
+c)
+
+DDL (Lenguaje de Definición de Datos).
+
+d)
+
+DPL (Lenguaje de Procesamiento de Datos).
+
+44.-
+
+¿Cuál de las siguientes afirmaciones se corresponde con la metodología Scrum?
+
+a)
+
+Planificación de sprints de longitud fija.
+
+b)
+
+No se definen funciones obligatorias en el equipo.
+
+c)
+
+Buscar la mejora continua del trabajo en curso.
+
+d)
+
+Realización de un flujo de trabajo continuo.
+
+45.-
+
+Sobre el Título X (De la reforma constitucional) de la Constitución Española, ¿Cuál de
+estas afirmaciones es incorrecta?
+
+a)
+
+b)
+
+c)
+
+Los proyectos de reforma constitucional deberán ser aprobados por una mayoría de
+tres quintos de cada una de las Cámaras.
+
+Si la revisión afecta al Título preliminar se aprobará por dos tercios de cada Cámara y
+se disolverán las Cortes de forma inmediata.
+
+Si no se aprobase la reforma por la mayoría de tres quintos de ambas cámaras se
+aprobará con el voto favorable de la mayoría absoluta del Senado y de dos tercios del
+Congreso.
+
+d)
+
+Se podrá llevar a cabo la reforma constitucional en estado de alarma.
+
+46.-
+
+¿Qué entidad se encarga de supervisar y hacer cumplir la LOPD en España?
+
+a)
+
+La Agencia de Seguridad Nacional (ASN).
+
+b)
+
+El Instituto Nacional de Ciberseguridad (INCIBE).
+
+c)
+
+La Agencia Española de Protección de Datos (AEPD).
+
+d)
+
+El Ministerio de Justicia (MJ).
+
+Página: 10 de 21
+
+47.-
+
+¿Cuál de estos algoritmos es un algoritmo de encriptación de clave asimétrica?
+
+a)
+
+AES.
+
+b)
+
+SHA-3.
+
+c)
+
+Diffie-Hellman.
+
+d)
+
+Blowfish.
+
+48.-
+
+¿Según el Art. 85 del III Convenio Colectivo RTVE y el II Plan de Igualdad entre hombres y
+mujeres en la corporación RTVE, y el protocolo prevención y actuación frente al acoso
+sexual y por razón de sexo, las personas trabajadoras que lleven a cabo el acoso sexual o
+el acoso por razón de sexo, pueden dar lugar al despido disciplinario?
+
+a)
+
+Si, puede suponer despido con pérdida de todos los derechos en la corporación RTVE.
+
+b)
+
+No, se aplicará la suspensión de empleo y sueldo de dieciséis a treinta días.
+
+c)
+
+No, se aplicará la suspensión de empleo y sueldo de treinta y uno a sesenta días.
+
+d)
+
+Si, siempre que haya sentencia de un tribunal penal.
+
+49.-
+
+En la planificación de un proyecto representada por un diagrama de PERT (Program
+Evaluating Review Technique), una actividad crítica es aquella que:
+
+a)
+
+Tiene una duración fija que no puede modificarse.
+
+b)
+
+Forma parte del camino crítico.
+
+c)
+
+Depende de otra actividad y, a su vez, de ella depende al menos una actividad.
+
+d)
+
+Tiene un alto riesgo de incrementar su duración.
+
+50.-
+
+En lo referente a tecnologías NAS y SAN de almacenamiento de datos:
+
+a)
+
+SAN utiliza una red ethernet como medio de transporte.
+
+b)
+
+SAN utiliza una red TCP/IP como medio de transporte.
+
+c)
+
+NAS utiliza una red TCP/IP como medio de transporte.
+
+d)
+
+NAS utiliza una red de fibra como medio de transporte.
+
+51.-
+
+En una instalación broadcast con vídeo sobre IP y sincronización PTP:
+
+a)
+
+b)
+
+Para la sincronización necesitamos una red paralela dedicada a la sincronización, en
+esta red no se pueden utilizar equipos de conmutación solo equipamiento dedicado.
+
+Es necesario que la electrónica de red sea “PTP aware” para asegurar la sincronización
+de todos los equipos.
+
+c)
+
+Es necesario que la electrónica de red tenga una precisión de al menos +/- 0.001 ns.
+
+d)
+
+Se puede utilizar cualquier switch, al ser una señal con poco ancho de banda y
+asíncrona.
+
+Página: 11 de 21
+
+52.-
+
+¿Cuál de los siguientes comandos SQL pertenece al
+Language) de un SGBD?:
+
+lenguaje DCL (Data Control
+
+a)
+
+GRANT.
+
+b)
+
+DELETE.
+
+c)
+
+INSERT.
+
+d)
+
+UPDATE.
+
+53.-
+
+De las siguientes opciones señale cuál NO es un Sistema de Gestión de Contenidos
+(CMS):
+
+a)
+
+Moodle.
+
+b)
+
+Drupal.
+
+c)
+
+WordPress.
+
+d)
+
+Genially.
+
+54.-
+
+En un SGBD relacional indique la respuesta correcta en relación a una clave principal de
+una tabla
+
+a)
+
+es un campo o conjunto de campos que identifica exclusivamente cada registro
+almacenado en una tabla.
+
+b)
+
+Solo puede estar formada por un solo campo.
+
+c)
+
+Cada tabla debe tener 2 o más claves principales.
+
+d)
+
+Un campo que forme parte de la clave principal puede tomar el valor NULO.
+
+55.-
+
+¿Qué es un Data Mart?:
+
+a)
+
+Un conjunto de herramientas de análisis y eliminación de datos en la nube.
+
+b)
+
+Un modelo predictivo de análisis de vulnerabilidades software.
+
+c)
+
+Un antivirus.
+
+d)
+
+Un sistema de almacenamiento de datos que contiene información específica de la
+unidad de negocio de una organización.
+
+56.-
+
+¿Qué sentencia SQL utilizaría para extraer todos los registros de una tabla "persona" que
+cumplan que los valores de la columna "nombre" empieza por "a"?
+
+a)
+
+SELECT persona.* WHERE nombre LIKE 'a%'.
+
+b)
+
+SELECT persona.* WHERE nombre LIKE '%a%'.
+
+c)
+
+SELECT * FROM persona WHERE nombre LIKE '%a'.
+
+d)
+
+SELECT * FROM persona WHERE nombre LIKE 'a%'.
+
+Página: 12 de 21
+
+57.-
+
+La Ley 5/2017, de 29 de septiembre, modifica la Ley 17/2006, de 5 de junio, de la radio y
+la televisión de titularidad estatal, para:
+
+a)
+
+Recuperar la independencia de la Corporación RTVE y el pluralismo en la elección
+parlamentaria de sus órganos.
+
+b)
+
+Recuperar la independencia de las radios y televisiones de titularidad privada.
+
+c)
+
+Recuperar la independencia de las radios y televisiones de titularidad pública y privada.
+
+d)
+
+Regular el sistema de financiación de la Corporación de Radio y Televisión Española y
+de sus filiales prestadoras del servicio público de radio y televisión de titularidad
+privada.
+
+58.-
+
+¿Con que tecnología se relaciona el protocolo SIP (Session Initiation Protocol)?
+
+a)
+
+Wi-Fi y WiMaX.
+
+b)
+
+LAN y WAN.
+
+c)
+
+VoIP y ToIP.
+
+d)
+
+Sistemas de control de acceso NAC.
+
+59.-
+
+Android es un sistema operativo móvil basado en:
+
+a)
+
+Windows.
+
+b)
+
+Firefox.
+
+c)
+
+iOS.
+
+d)
+
+Linux.
+
+60.-
+
+¿Cuál es la principal ventaja de la tecnología 5G para la transmisión de vídeo en
+comparación con tecnologías móviles anteriores?
+
+a)
+
+Tiene mayor de latencia, lo que influye en la calidad del vídeo en tiempo real.
+
+b)
+
+Mejor compresión de vídeo, lo que implica una menor tasa de datos a enviar.
+
+c)
+
+Permite la conexión de menos dispositivos por lo que la comunicación es más segura.
+
+d)
+
+Mayor ancho de banda, lo que permite transmitir vídeo con  mayor resolución.
+
+61.-
+
+¿Qué características de las siguientes debe tener CPD?
+
+a)
+
+Con una sola acometida eléctrica siempre que haya grupos electrógenos redundados.
+
+b)
+
+Tener un cableado estructural con cable UTP de hasta categoría 6.
+
+c)
+
+Estar ubicado zona de bajo riesgo de desastres naturales.
+
+d)
+
+Tener su propio ISP para no depender de ningún proveedor de internet externo.
+
+Página: 13 de 21
+
+62.-
+
+En Python, ¿en qué casos sería recomendable el uso de “comprensión de listas”?
+
+a)
+
+b)
+
+Para tratar listas con estructuras anidadas, que den lugar a una única lista que pudiera
+ser potencialmente muy grande.
+
+Para tratar listas de tamaño grande o muy grande ya que son muy óptimas en uso de
+memoria.
+
+c)
+
+Para convertir una lista muy grande en un único dato numérico.
+
+d)
+
+Para hacer filtrado o mapeado de los valores de una lista pequeña o mediana.
+
+63.-
+
+Según la ley 8/2009, de 28 de agosto, de financiación de la Corporación RTVE, indicar
+cuál de las siguientes NO es una obligación de servicio público que deberá cumplir la
+Corporación RTVE:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Incrementar en un 20% el deber de inversión legal en la financiación de la producción
+europea de largometrajes, cortometrajes, películas, documentales y productos de
+animación.
+
+Programar debates electorales de conformidad con lo establecido en la Ley Orgánica
+5/1985, de 19 de junio.
+
+Suscribir convenios de colaboración funcional y operativa con empresas privadas de
+radio, televisión o noticias.
+
+Promover la cultura y el arte, la divulgación científica y tecnológica, la innovación y la
+actividad emprendedora.
+
+64.-
+
+¿Cuál es la principal ventaja de las aplicaciones web SPA?
+
+a)
+
+Mayor compatibilidad con dispositivos móviles.
+
+b)
+
+Potencialmente una mejor repuesta debido a la reducción de recargas completas de la
+página.
+
+c)
+
+Mayor cantidad de desarrolladores para elegir en el mercado.
+
+d)
+
+Menor dificultad para el desarrollo.
+
+65.-
+
+¿Cuál de los siguientes es una métrica que proporciona una medición cuantitativa de la
+complejidad lógica del software?:
+
+a)
+
+Complejidad de rotación.
+
+b)
+
+Complejidad ciclomática.
+
+c)
+
+Complejidad de pruebas de arquitectura de proyectos.
+
+d)
+
+Complejidad de líneas de código.
+
+Página: 14 de 21
+
+66.-
+
+¿Para qué se utiliza la técnica PERT (Program Evaluation and Review Technique)?
+
+a)
+
+Para programar utilizando entornos seguros.
+
+b)
+
+Para planificar y controlar el desarrollo de un proyecto.
+
+c)
+
+Para agilizar las inserciones en una base de datos.
+
+d)
+
+Para no tener que realizar pruebas cuando se desarrolla software.
+
+67.-
+
+En el ámbito de los patrones de diseño, ¿qué es un singleton?
+
+a)
+
+Un objeto del que sólo existe una instancia.
+
+b)
+
+Un objeto que adapta las llamadas a otro y actúa como intermediario.
+
+c)
+
+Un objeto del que obtenemos referencias a otros.
+
+d)
+
+Una clase que no se puede instanciar.
+
+68.-
+
+¿Cuál de los siguientes es un framework de desarrollo front-end?
+
+a)
+
+Ruby on Rails.
+
+b)
+
+Angular.
+
+c)
+
+ASP.NET.
+
+d)
+
+Spring.
+
+69.-
+
+¿Para que se utiliza un firewall en una red LAN?
+
+a)
+
+Ejerce control de acceso a una red, controlando el tráfico de red entrante y saliente y
+bloquea el acceso de usuarios no autorizados a una red privada.
+
+b)
+
+Para conectar el PC a la intranet.
+
+c)
+
+Para traducir el protocolo TCP/IP entre nodos.
+
+d)
+
+Aporta alta disponibilidad entre servidores: A través de una IP, se puede acceder a
+varios servidores.
+
+70.-
+
+Según la guía de igualdad de RTVE,
+construcción sexista:
+
+indique cual de las respuestas NO es una
+
+a)
+
+Duales aparentes: Pares léxicos con significado distinto según el género.
+
+b)
+
+c)
+
+d)
+
+Denominación dependiente: Cuando se nombra a las mujeres por su relación o el
+apellido de un hombre.
+
+Denominación infantilizada: Uso de forma en diminutivo o de téminos que infantilizan a
+las mujeres.
+
+Expecificar los dos géneros cuando el genérico masculino genere ambigüedad o
+resulten discriminatorios para las mujeres.
+
+Página: 15 de 21
+
+71.-
+
+En Java si necesitamos emplear un “Map”, ¿Qué clase usaríamos?
+
+a)
+
+Si hay que permitir claves “null” deberá ser un TreeMap
+
+b)
+
+Si hace falta que sea “synchronized”, lo mejor es usar un HashMap
+
+c)
+
+d)
+
+Si se necesita recorrer sus entradas de acuerdo a un orden preestablecido, mejor usar
+un TreeMap
+
+Si se debe mantener el orden en que se introdujeron los elementos, lo mejor es usar un
+HashMap
+
+72.-
+
+El acceso directo a memoria (DMA) consiste en:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Un mecanismo por el que se transmiten datos entre un sistema de entrada/salida y el
+sistema de memoria sin la intervención de la CPU.
+
+Un mecanismo de software que permite minimizar el tiempo de latencia de acceso a
+los discos duros, al no utilizar los buses de datos y direcciones.
+
+Un módulo que agrupa y controla todos los drivers de los dispositivos de entrada/
+salida, permitiendo acceder a memoria sin el uso de interrupciones.
+
+Un mecanismo por el cuál cada dispositivo de entrada/salida está mapeado a una
+dirección concreta de memoria, minimizando el tiempo de acceso.
+
+73.-
+
+La doble acometida eléctrica en un CPD (Centro de Proceso de Datos), es para:
+
+a)
+
+Dar voltaje bifásico y monofásico a los servidores.
+
+b)
+
+Ahorro de consumo eléctrico.
+
+c)
+
+Los equipos de TI que necesitan el doble de electricidad.
+
+d)
+
+Dar alta disponibilidad a la corriente eléctrica. En el caso de que falle una acometida
+eléctrica, entra automáticamente en funcionamiento la segunda.
+
+74.-
+
+Según la Ley 8/2009, de 28 de agosto, sobre financiación de la Corporación de Radio y
+Televisión Española, ¿qué fuente de ingresos se eliminó?
+
+a)
+
+Subvenciones estatales.
+
+b)
+
+Publicidad y patrocinios.
+
+c)
+
+Aportaciones de operadores privados.
+
+d)
+
+Tasas por emisión de contenidos.
+
+75.-
+
+¿Cuál de los siguientes es un software de gestión de proyectos?:
+
+a)
+
+Cucumber.
+
+b)
+
+Linux Project.
+
+c)
+
+Unix Project.
+
+d)
+
+Jira.
+
+Página: 16 de 21
+
+76.-
+
+En el Sistema Operativo Windows, PowerShell:
+
+a)
+
+b)
+
+c)
+
+Es una interfaz de consola con posibilidad de escritura y unión de comandos por medio
+de instrucciones.
+
+Es una solución de automatización de tareas multiplataforma formada por un shell de
+línea de comandos, un antivirus y un marco de administración de configuración.
+
+Es una solución de automatización de tareas multiplataforma formada por un shell de
+línea de comandos, un emulador Android y un marco de administración de
+configuración.
+
+d)
+
+Es una interfaz de consola con posibilidad exclusiva de lectura pero no escritura y unión
+de comandos por medio de instrucciones.
+
+77.-
+
+¿Para qué sirve el GIL la implementación CPython del lenguaje Python?
+
+a)
+
+Es la librería de interfaz gráfica básica del sistema.
+
+b)
+
+Es un “mutex” que protege el acceso concurrente a objetos en Python.
+
+c)
+
+Es el repositorio de módulos público listo para descargar y ejecutar.
+
+d)
+
+Es el módulo de carga inicial de los objetos en Python.
+
+78.-
+
+Para que el código de una página web se vea en un móvil, se debe cumplir una de las
+siguientes opciones:
+
+a)
+
+Tiene que ser obligatoriamente HTML5.
+
+b)
+
+Sirve cualquier HTML, javascript y CSS ajustados al entorno y necesidades visuales de
+un móvil.
+
+c)
+
+No puede tener javascript, solo código fuente en lenguaje responsive.
+
+d)
+
+No puede tener CSS, solo SCSS para móviles.
+
+79.-
+
+¿Qué es un sistema colaborativo?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Es un grupo de programas y métodos que permiten integrar en un solo proyecto el
+trabajo de dos o más personas conectadas entre sí por medio de Internet o intranet.
+
+Es un método de desarrollo que permite agilidad en las pruebas del software
+desarrollado por una o más personas de forma independiente.
+
+Es un estándar de facto desarrollado por Gartner para poder tomar decisiones
+acertadas rápida y eficaces entre un grupo de desarrolladores.
+
+Es un sistema que define la comunicación entre un grupo de persona que forman un
+equipo y que establece una jerarquía es esa comunicación para que sea eficiente.
+
+Página: 17 de 21
+
+80.-
+
+Indique la base de datos que es de tipo relacional o tipo SQL:
+
+a)
+
+MongoDB
+
+b)
+
+Cassandra
+
+c)
+
+Redis
+
+d)
+
+Db2
+
+81.-
+
+¿Qué objeto propio de Javascript sería el apto para guardar una serie de pares clave-
+valor?
+
+a)
+
+Un “Map”, y además guarda el orden de inserción.
+
+b)
+
+Un “Dict”, pero no guarda el orden de inserción.
+
+c)
+
+Un “Map”, sin guardar el orden de inserción.
+
+d)
+
+Un “Hash”, sin guardar el orden de inserción.
+
+82.-
+
+¿Cuál de los siguientes es un codec de audio?
+
+a)
+
+MP4.
+
+b)
+
+FLV.
+
+c)
+
+AAC.
+
+d)
+
+MXF.
+
+83.-
+
+Según la Constitución Española, ¿Cómo se fijará el déficit estructural máximo permitido
+para el Estado y las Comunidades Autónomas?
+
+a)
+
+Vendrá fijado directamente por la Unión Europea para cada uno de sus miembros, y en
+concreto para España.
+
+b)
+
+Se fijará mediante una ley orgánica, en relación a su Producto Interior Bruto.
+
+c)
+
+Se fijará mediante ley orgánica para el Estado. Para las Comunidades Autónomas será
+siempre cero.
+
+d)
+
+Se fijará mediante Real Decreto, en relación a su Producto Interior Neto.
+
+84.-
+
+¿Qué es ITIL?
+
+a)
+
+Un conjunto de buenas prácticas para la gestión de servicios de tecnologías de la
+información.
+
+b)
+
+Un conjunto de lenguajes de programación orientados a objetos.
+
+c)
+
+Un conjunto de dispositivos móviles para la formar una red de trabajo
+
+d)
+
+Un conjunto de pruebas software de caja negra.
+
+Página: 18 de 21
+
+85.-
+
+¿Cuál es el comportamiento de los cargadores de clases (Class loaders) en Java?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Modelo “Proxy”: ante una solicitud, se intenta cargar como si fuera uno mismo, aunque
+en realidad siempre será otro el que lo cargue.
+
+Modelo de “Delegación”: ante una solicitud, se pasa primero dicha solicitud al padre, y
+sólo si este falla, se intenta resolver.
+
+Modelo “Singleton”: puede haber múltiples cargadores de clases, pero al final todos son
+diferentes vistas de un único cargador en el sistema.
+
+Modelo “Facade”: todos los cargadores de clases son iguales, pero dan diferentes APIs
+para diferentes partes del sistema.
+
+86.-
+
+¿Cuál de las siguientes NO es una herramienta para el control de versiones de software?:
+
+a)
+
+Cucumber.
+
+b)
+
+GitHub.
+
+c)
+
+CVS.
+
+d)
+
+Subversión Apache (SVN).
+
+87.-
+
+Respecto del modelo de módulos de “Nodejs”
+
+a)
+
+Todo es un único módulo “ECMAScript”.
+
+b)
+
+Cada fichero es tratado como un módulo, además de los módulos “NoJS”.
+
+c)
+
+Pueden ser módulos “CommonJS” o “ECMAScript”.
+
+d)
+
+Los módulos son asíncronos y no se basan en ningún estándar.
+
+88.-
+
+¿Un CPD con la certificación TIER IV que tipo de redundancia debe ofrecer?
+
+a)
+
+No debe ofrecer ningún tipo de redundancia.
+
+b)
+
+Redundancia 2N+1.
+
+c)
+
+Redundancia parcial.
+
+d)
+
+Redundancia N+1.
+
+89.-
+
+¿Cuál de los siguientes protocolos se utiliza para obtener la dirección MAC de un nodo a
+partir de su dirección IP?
+
+a)
+
+RARP
+
+b)
+
+ARP
+
+c)
+
+ICMP
+
+d)
+
+DNS
+
+Página: 19 de 21
+
+90.-
+
+En lo referente a la tecnología Blockchain:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Para aceptar un bloque candidato en la blockchain, debe pasar una serie de pruebas de
+validación y de incorporación a la cadena, denominadas “mecanismos de consenso y
+disenso”.
+
+El uso del Blockchain en las Administraciones Públicas está regulado en el R.D.
+311/2022.
+
+Basan su seguridad en que el código es secreto e indescifrable y solo lo conoce el
+implementador de la arquitectura blockchain de la que se trate.
+
+Se trata de un tipo particular de la arquitectura transaccional DLT (Distributed Ledger
+Technology) donde el
+libro contable distribuido es un tipo de base de datos
+transaccional que se comparte y sincroniza para todos los nodos de una red
+descentralizada.
+
+91.-
+
+Dentro de la gestión de identidades y accesos (o IAM), ¿En qué consiste la
+autentificación multifactor (MFA)?
+
+a)
+
+Que puedes tener dos identidades (usuarios), para acceder a un aplicativo.
+
+b)
+
+Agrega otra capa de protección al requerir que los usuarios presenten dos o más
+credenciales de identificación, además de un nombre de usuario.
+
+c)
+
+Que puedes tener dos contraseñas para un mismo usuario.
+
+d)
+
+Solicita contraseñas más complejas, para evitar hackeos.
+
+92.-
+
+¿Dónde se debería declarar la codificación de caracteres de un documento HTML?
+
+a)
+
+Siempre en un elemento “meta”.
+
+b)
+
+Como parte del elemento “body”.
+
+c)
+
+Se debe hacer en el “Content-type” de retorno de la petición HTTP.
+
+d)
+
+No hace falta porque siempre se supone UTF-8.
+
+93.-
+
+Con respecto a la Ley 17 / 2006, de 5 de junio, de la radio y la televisión de titularidad en
+su artículo 5 (Naturaleza jurídica) se afirma que:
+
+a)
+
+b)
+
+c)
+
+d)
+
+La Corporación RTVE tendrá la forma de sociedad limitada, cuyo capital social será de
+titularidad estatal y se financiará con capital estatal y privado.
+
+La Corporación RTVE gozará de autonomía en su gestión y actuará con independencia
+funcional respecto del Gobierno y de la Administración General del Estado.
+
+La Corporación de Radio y Televisión Española es una sociedad mercantil, dotada de
+personalidad física y jurídica y de capacidad tutelada por el Estado.
+
+La Corporación de Radio y Televisión Española tendrá su sede en la ciudad de Madrid
+en las instalaciones de Prado del Rey concebidas para este uso.
+
+Página: 20 de 21
+
+94.-
+
+¿Cuál de los siguiente es un deber del trabajador en materia de riesgos laborales?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Contribuir al cumplimiento de las obligaciones establecidas por
+competente.
+
+la autoridad
+
+No tiene deber de nada a no ser que participe en la empresa en cuestiones
+relacionadas con la prevención de riesgos laborales.
+
+Informar sólo de aquellas situaciones que considere peligrosas para realizar
+actividades laborales y cuando le afecten a él.
+
+Usar el material y herramientas proporcionadas por el empresario a su entender, según
+se interprete el manual de usuario de las mismas.
+
+95.-
+
+¿Qué es OLAP?
+
+a)
+
+b)
+
+c)
+
+d)
+
+El procesamiento analítico en línea (OLAP) es una tecnología de hardware para
+procesar datos desde la nube de forma automática y propone decisiones a tomar a
+partir del análisis realizado.
+
+El procesamiento analítico en línea (OLAP) es un estándar definido en una RFC y define
+como se procesan las peticiones a distintos servicios de forma que este procesamiento
+sea homogéneo en los servicios proporcionados por la empresa.
+
+La programación de análisis de lenguajes Oracle (OLAP) es una herramienta
+desarrollada por Oracle para analizar las distintas versiones de SQL que proveen los
+distintos gestores de bases de datos relacionales.
+
+El procesamiento analítico en línea (OLAP es una tecnología para realizar consultas
+complejas a alta velocidad o análisis multidimensionales de grandes volúmenes de
+datos en un almacén de datos, data lake u otro repositorio de datos.
+
+96.-
+
+¿Qué método javascript convierte un objeto o valor javascript a JSON?
+
+a)
+
+JSON.stringify().
+
+b)
+
+JSON.toString().
+
+c)
+
+JSON.parse().
+
+d)
+
+JSON.objectify().
+
+Página: 21 de 21
+
+

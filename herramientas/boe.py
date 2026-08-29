@@ -16,6 +16,8 @@ Uso:
   boe.py buscar   BOE-A-1978-31229 "artículo 24"
   boe.py precepto BOE-A-1978-31229 a24
   boe.py precepto BOE-A-1978-31229 --buscar "artículo 24"
+  boe.py norma    BOE-A-2006-9958 fuentes/
+  boe.py --fecha 20221221 precepto BOE-A-2006-9958 a11   # como estaba ese día
 """
 
 import re
@@ -27,6 +29,19 @@ from datetime import date
 
 API = "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id"
 WEB = "https://www.boe.es/buscar/act.php?id="
+
+# Fecha a la que se lee la ley. Por defecto hoy; con --fecha AAAAMMDD se lee la
+# redacción que estaba en vigor ese día, que es lo que pide una convocatoria
+# cuando congela el temario a la fecha de sus bases.
+CORTE = [None]
+
+
+def corte():
+    return CORTE[0] or date.today().strftime("%Y%m%d")
+
+
+def etiqueta_corte():
+    return "vigente hoy" if not CORTE[0] else "vigente a %s" % CORTE[0]
 
 
 def traer(url):
@@ -107,17 +122,18 @@ def cmd_precepto(norma, bloque):
     if b is None or not list(b.iter("version")):
         sys.exit("el bloque %s no existe en %s. Resuélvelo contra el índice." % (bloque, norma))
     versiones = list(b.iter("version"))
-    hoy = date.today().strftime("%Y%m%d")
+    hoy = corte()
 
     print("Norma    : %s" % norma)
     print("Bloque   : %s  (%s)" % (b.get("id"), b.get("titulo") or ""))
     print("Fuente   : %s%s" % (WEB, norma))
+    print("Leído    : %s" % etiqueta_corte())
     print("Redacciones: %d" % len(versiones))
     print()
 
     print("Cadena de redacciones (vigencia / publicación / norma que la introduce):")
     for v in sorted(versiones, key=lambda v: fecha(v, "fecha_vigencia")):
-        futura = " [AÚN NO VIGENTE]" if fecha(v, "fecha_vigencia") > hoy else ""
+        futura = " [POSTERIOR AL CORTE]" if fecha(v, "fecha_vigencia") > hoy else ""
         print("  vig %s  pub %s  %s%s" % (
             fecha(v, "fecha_vigencia") or "????????",
             fecha(v, "fecha_publicacion") or "????????",
@@ -126,7 +142,7 @@ def cmd_precepto(norma, bloque):
 
     aplicables = [v for v in versiones if fecha(v, "fecha_vigencia") <= hoy]
     if not aplicables:
-        sys.exit("AVISO: ninguna redacción ha entrado en vigor todavía. No lo cites como vigente.")
+        sys.exit("AVISO: ninguna redacción estaba en vigor a esa fecha. No lo cites.")
     elegida = max(aplicables, key=lambda v: fecha(v, "fecha_vigencia"))
 
     pub_max = max(fecha(v, "fecha_publicacion") for v in aplicables)
@@ -156,24 +172,125 @@ def cmd_precepto(norma, bloque):
         print()
 
     texto, _ = texto_version(elegida)
-    print("REDACCIÓN VIGENTE (vigencia %s, publicada %s, por %s)" % (
+    print("REDACCIÓN APLICABLE, %s (vigencia %s, publicada %s, por %s)" % (
+        etiqueta_corte(),
         fecha(elegida, "fecha_vigencia"), fecha(elegida, "fecha_publicacion"),
         elegida.get("id_norma")))
     print("-" * 72)
     print(texto)
 
 
+def cmd_norma(norma, destino):
+    """Vuelca la norma entera en su redacción vigente, más el parte de redacciones."""
+    import os
+    os.makedirs(destino, exist_ok=True)
+    hoy = corte()
+    bloques = indice(norma)
+    cuerpo = ["# %s — texto consolidado, redacción %s" % (norma, etiqueta_corte()),
+              "",
+              "Volcado con `herramientas/boe.py norma` el %s desde la API de"
+              % date.today().isoformat(),
+              "legislación consolidada del BOE. Fuente: %s%s" % (WEB, norma),
+              "",
+              "No se edita a mano. Si hace falta refrescarlo, se vuelve a volcar.",
+              ""]
+    parte = ["bloque\ttitulo\tredacciones\tvigencia\tpublicacion\tnorma\taviso"]
+    avisos, multiples, alarmas = [], [], []
+
+    for bid, titulo in bloques:
+        if not bid:
+            continue
+        raiz = traer("%s/%s/texto/bloque/%s" % (API, norma, bid))
+        b = next(raiz.iter("bloque"), None)
+        versiones = list(b.iter("version")) if b is not None else []
+        if not versiones:
+            parte.append("%s\t%s\t0\t\t\t\tSIN TEXTO" % (bid, titulo))
+            continue
+        aplicables = [v for v in versiones if fecha(v, "fecha_vigencia") <= hoy]
+        if not aplicables:
+            parte.append("%s\t%s\t%d\t\t\t\tNINGUNA EN VIGOR AL CORTE"
+                         % (bid, titulo, len(versiones)))
+            continue
+        elegida = max(aplicables, key=lambda v: fecha(v, "fecha_vigencia"))
+        pub_max = max(fecha(v, "fecha_publicacion") for v in aplicables)
+        aviso = ""
+        if fecha(elegida, "fecha_publicacion") < pub_max:
+            aviso = "POSIBLE REFORMA CRUZADA"
+            avisos.append("%s (%s)" % (bid, titulo))
+        if len(versiones) > 1:
+            multiples.append("%s (%s): %d" % (bid, titulo, len(versiones)))
+
+        texto, notas = texto_version(elegida)
+        for n in dict.fromkeys(notas):
+            if any(a in n.lower() for a in ALARMAS):
+                alarmas.append("%s (%s): %s" % (bid, titulo, n))
+
+        parte.append("%s\t%s\t%d\t%s\t%s\t%s\t%s" % (
+            bid, titulo, len(versiones), fecha(elegida, "fecha_vigencia"),
+            fecha(elegida, "fecha_publicacion"), elegida.get("id_norma") or "", aviso))
+
+        cuerpo.append("## [%s] %s" % (bid, titulo or "(sin título)"))
+        cuerpo.append("")
+        cuerpo.append("_Redacción aplicable desde %s, publicada %s, por %s. %d redacción(es) en total._"
+                      % (fecha(elegida, "fecha_vigencia"),
+                         fecha(elegida, "fecha_publicacion"),
+                         elegida.get("id_norma") or "?", len(versiones)))
+        cuerpo.append("")
+        cuerpo.append(texto)
+        cuerpo.append("")
+
+    f_texto = os.path.join(destino, "%s.md" % norma)
+    f_parte = os.path.join(destino, "%s.redacciones.tsv" % norma)
+    open(f_texto, "w", encoding="utf-8").write("\n".join(cuerpo))
+    open(f_parte, "w", encoding="utf-8").write("\n".join(parte) + "\n")
+
+    print("bloques volcados : %d" % (len(parte) - 1))
+    print("texto            : %s" % f_texto)
+    print("parte             : %s" % f_parte)
+    print()
+    print("Preceptos con más de una redacción (%d): léelos enteros." % len(multiples))
+    for m in multiples:
+        print("  - %s" % m)
+    print()
+    if avisos:
+        print("*** POSIBLE REFORMA CRUZADA en %d preceptos: contrástalos a mano ***" % len(avisos))
+        for a in avisos:
+            print("  ! %s" % a)
+    else:
+        print("Ninguna reforma cruzada detectada.")
+    if alarmas:
+        print()
+        print("Notas del BOE sobre nulidad, derogación o convalidación (%d):" % len(alarmas))
+        for a in dict.fromkeys(alarmas):
+            print("  ! %s" % a)
+
+
 def main():
     if len(sys.argv) < 3:
         sys.exit(__doc__)
-    cmd, norma = sys.argv[1], sys.argv[2]
-    resto = sys.argv[3:]
+    argv = list(sys.argv[1:])
+    if "--fecha" in argv:
+        i = argv.index("--fecha")
+        try:
+            CORTE[0] = argv[i + 1]
+        except IndexError:
+            sys.exit("--fecha necesita una fecha AAAAMMDD")
+        if not re.fullmatch(r"\d{8}", CORTE[0]):
+            sys.exit("--fecha se escribe AAAAMMDD, por ejemplo 20221221")
+        del argv[i:i + 2]
+    if len(argv) < 2:
+        sys.exit(__doc__)
+    cmd, norma = argv[0], argv[1]
+    resto = argv[2:]
     if cmd == "indice":
         cmd_indice(norma)
     elif cmd == "buscar":
         if not resto:
             sys.exit("falta el texto a buscar")
         cmd_buscar(norma, " ".join(resto))
+    elif cmd == "norma":
+        destino = resto[0] if resto else "fuentes"
+        cmd_norma(norma, destino)
     elif cmd == "precepto":
         if resto and resto[0] == "--buscar":
             hits = cmd_buscar(norma, " ".join(resto[1:]))

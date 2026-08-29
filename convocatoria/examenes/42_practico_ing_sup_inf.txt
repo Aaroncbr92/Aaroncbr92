@@ -1,0 +1,1368 @@
+Ocupación tipo
+
+INGENIERÍA SUPERIOR 
+ INFORMÁTICA-PRÁCTICO
+
+INSTRUCCIONES
+
+Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+La prueba está compuesta por 48 preguntas (40 preguntas principales más 8 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
+solo elegir UNA de las cuatro opciones.
+
+El sistema de valoración será el siguiente:
+
+Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+Cada pregunta no contestada, contestada de forma distinta a la indicada en las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+Recuerde anotar
+las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
+anteriormente facilitadas.
+
+Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+Tiempo máximo: 120 minutos.
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+                No se permite la reproducción total o parcial de este cuestionario.
+
+1.-
+
+Se desea implementar una estrategia de respaldo de datos 3-2-1 para el Fondo Histórico
+de vídeo, ¿cuál de las siguientes opciones cumple los requisitos para este tipo de
+redundancia?
+
+a)
+
+Se tendrán tres copias de los datos en disco duro, repartidas en dos ubicaciones
+distintas.
+
+b)
+
+Se tendrán dos copias, una de ellas en la Nube.
+
+c)
+
+d)
+
+Se tendrán tres copias del material: una en disco, dos en cinta de datos LTO y una de las
+cintas se almacenará en una ubicación distinta.
+
+Se tendrán dos copias: una en disco y otra en una cinta de datos LTO que estará
+almacenada en una librería de cintas en una ubicación distinta.
+
+2.-
+
+Para asegurar un correcto respaldo de los datos almacenados en los sistemas
+informáticos de RTVE se ha definido una política de backup. Dicha política debe cumplir
+diferentes características. Indique cual de las siguientes características NO es propia de
+una política de backup:
+
+a)
+
+b)
+
+Definir qué datos se guardan y cuales no. Indicando que ficheros se guardan y cuales
+no.
+
+Define el tiempo que deben mantenerse las copias de seguridad (retención). Se suelen
+definir distintas retenciones según el tipo de backup que se desee guardar: diarias,
+mensuales, anuales,…
+
+c)
+
+Establece una frecuencia para realizar las copias de seguridad. Puede ser diaria,
+semanal, etc.
+
+d)
+
+Ordenación de los ficheros para que el backup se haga en orden
+
+Página: 1 de 22
+
+3.-
+
+En una instalación de un estudio con estándar SMPTE ST-2021 hay 4 generadores que
+tienen las siguientes características en el estándar PTP, ¿cuál elegirá el algoritmo BMCA
+como Grand Master?
+
+a)
+
+Reloj A.
+
+b)
+
+Reloj B.
+
+c)
+
+Reloj C.
+
+d)
+
+Reloj D.
+
+4.-
+
+¿Qué arquitectura de API se recomienda para integrar un sistema externo con una
+aplicación web, priorizando la simplicidad, eficiencia y compatibilidad con estándares
+web?
+
+a)
+
+API REST.
+
+b)
+
+API RPC.
+
+c)
+
+API basada en Lenguaje de Marcado de Hipertexto (HTML).
+
+d)
+
+API basada en Protocolos de Correo Electrónico (SMTP).
+
+Página: 2 de 22
+
+5.-
+
+Durante la fase de desarrollo de un proyecto que sigue la metodología Waterfall o
+metodología en cascada, un miembro del equipo informa que una tarea se ha retrasado
+debido a una dependencia no identificada previamente. ¿Cuál es la acción más apropiada
+según los principios de Waterfall?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Replanificar la fase de desarrollo, actualizando el cronograma y los entregables para
+reflejar la nueva dependencia y el retraso.
+
+Ignorar el retraso y continuar con la siguiente fase, asumiendo que el equipo lo
+resolverá sin afectar la secuencia del proyecto.
+
+Permitir que cada miembro del equipo resuelva la dependencia por su cuenta, sin
+coordinación ni documentación.
+
+Implementar cambios en el código directamente en producción para acelerar la entrega
+y evitar retrasos adicionales.
+
+6.-
+
+En un proyecto de desarrollo de software, necesitamos garantizar que el sistema pueda
+soportar un alto volumen de usuarios concurrentes sin degradar su rendimiento. ¿Qué
+tipo de prueba es la más adecuada para este propósito?
+
+a)
+
+Prueba de carga.
+
+b)
+
+Prueba unitaria.
+
+c)
+
+Prueba de integración.
+
+d)
+
+Prueba de aceptación.
+
+7.-
+
+¿Qué significa "WIP limit" en el contexto de un diagrama Kanban?
+
+a)
+
+b)
+
+Work in Progress limit, que restringe el número máximo de tareas que se pueden estar
+en progreso simultáneamente.
+
+Workflow Improvement Process, que mejora el flujo de trabajo al
+disponible.
+
+limitar el texto
+
+c)
+
+Work Initiation Protocol, que indica lo más pronto que puede empezar una tarea.
+
+d)
+
+Work Index Phase, que indica lo más tarde que puede terminar una tarea.
+
+8.-
+
+Señale la respuesta correcta que refleja de forma ordenada, la estructura jerárquica del
+Directorio Activo de Microsoft.
+
+a)
+
+Bosque, árbol, dominio, unidad organizativa.
+
+b)
+
+Dominio, bosque, árbol, unidad organizativa.
+
+c)
+
+Unidad organizativa, dominio, bosque, árbol.
+
+d)
+
+Unidad organizativa, bosque, árbol, dominio.
+
+Página: 3 de 22
+
+9.-
+
+Dado el siguiente fragmento de código PHP en el que la función "calculateRandomInt"
+devuelve un entero aleatoriamente entre 0 y 10:
+<?php
+
+$n = calculateRandomInt();
+if ($n = 0){
+
+echo "El valor es 0.";
+
+} else {
+
+echo "El valor es mayor que 0.";
+
+}
+?>
+Indicar cuál es el comportamiento esperado.
+
+a)
+
+El código se ejecutará y mostrará por consola siempre el mensaje de que el valor es
+mayor que 0.
+
+b)
+
+El código se ejecutará y mostrará por consola siempre el mensaje de que el valor es 0.
+
+c)
+
+El código se ejecutará y mostrará por consola un mensaje u otro en función del valor del
+entero calculado.
+
+d)
+
+El código fallará mostrando un error en la consola.
+
+10.-
+
+¿Qué es una LUT (Lookup Table) en el contexto de la edición de video?
+
+a)
+
+Un archivo de configuración del RAW de la cámara.
+
+b)
+
+Una tabla que se utilizar para mapear valores de color de entrada a valores de color de
+salida.
+
+c)
+
+Un formato de compresión de video.
+
+d)
+
+Una técnica de estabilización de video.
+
+11.-
+
+Durante un sprint, un miembro del equipo Scrum informa de un retraso en su tarea
+debido a un imprevisto. ¿Cuál es la acción más apropiada según los principios o buenas
+prácticas de Scrum?
+
+a)
+
+Cambiar el alcance del proyecto para adaptarlo.
+
+b)
+
+Modificar el calendario de las próximas entregas.
+
+c)
+
+Tener una reunión con el equipo para resolver el bloqueo en una reunión diaria de
+Scrum.
+
+d)
+
+Ignorar el retraso si no afecta al proyecto en general.
+
+Página: 4 de 22
+
+12.-
+
+Estamos desarrollando una página web y necesitamos implementar una funcionalidad
+que permita actualizar datos en tiempo real sin necesidad de recargar la página
+completa. ¿Qué tecnología web es la más adecuada para lograr este comportamiento?
+
+a)
+
+HTML.
+
+b)
+
+AJAX.
+
+c)
+
+XML.
+
+d)
+
+CSS.
+
+13.-
+
+Tenemos que crear 5 subredes con el rango de IP 192.168.3.0 ¿Qué máscara de red se
+debe configurar?
+
+a)
+
+255.255.255.0
+
+b)
+
+255.255.255.192
+
+c)
+
+255.255.255.224
+
+d)
+
+255.255.255.255
+
+14.-
+
+En un proyecto que sigue la metodología Scrum, el equipo de desarrollo completa y
+entrega un conjunto de funcionalidades cada dos semanas. ¿Cómo se denomina a cada
+uno de estos ciclos de entrega?
+
+a)
+
+Sprint.
+
+b)
+
+Stand-up.
+
+c)
+
+Revisión.
+
+d)
+
+Backlog.
+
+15.-
+
+En un CPD solo hay espacio para un servidor, pero es necesario disponer de tres
+sistemas de edición no lineal funcionando simultáneamente: dos con Windows y uno con
+macOS. ¿Qué solución técnica permitiría satisfacer estos requisitos?
+
+a)
+
+Instalar Windows y usar emuladores para ejecutar macOS.
+
+b)
+
+Implementar virtualización con un hipervisor compatible para crear máquinas virtuales.
+
+c)
+
+Configurar un servidor físico con arranque dual (Windows/macOS).
+
+d)
+
+Es inviable técnicamente, hay que instalar tres estaciones de trabajo separadas fuera
+del CPD.
+
+Página: 5 de 22
+
+16.-
+
+Dado el siguiente código javascript:
+var array1 = [1, 2, 3, 4, 5];
+var array2 = [];
+array1.forEach((element, index) => {
+
+array2.push(element);
+array1.unshift(array1.pop());
+
+});
+Indicar el resultado esperado para las variables array1 y array2 al final de la ejecución.
+
+a)
+
+Las dos variables acaban el proceso teniendo el mismo valor.
+
+b)
+
+La variable array1 cambia su valor y la variable array2 tiene 5 elementos diferentes.
+
+c)
+
+La variable array1 no cambia su valor y la variable array2 tiene 5 elementos iguales.
+
+d)
+
+La variable array1 cambia su valor y la variable array2 tiene 5 elementos iguales.
+
+17.-
+
+Si en la empresa se hace un backup completo el día 1 y 15 de cada mes, el 5 y 10 un
+diferencial y el resto de días un incremental de los datos ¿qué backups se deben utilizar
+si se quiere recuperar los datos del día 8?
+
+a)
+
+El backup completo del día 1, el último incremental del día 7, y el diferencial del día 5.
+
+b)
+
+El backup completo del día 1 y el último incremental.
+
+c)
+
+El backup completo del día 1, el diferencial del día 5 y todos los incrementales desde el
+día 6 al 8.
+
+d)
+
+El diferencial del día 5 y los incrementales desde el día 6 al 8.
+
+18.-
+
+¿Qué tipo de dirección IP son estas direcciones IP:
+127.0.0.1 , ::fff:7f00:1?
+
+::ffff:127.0.0.1 ,
+
+::1 ,
+
+a)
+
+Son IP anycast.
+
+b)
+
+Son IP multicast.
+
+c)
+
+Son IP que hace referencia a la interfaz loopback.
+
+d)
+
+Son IP IPv4.
+
+19.-
+
+Dentro del equipo de Administradores de Bases de Datos (DBA’s) han decidido repartirse
+las distintas responsabilidades para que cada DBA tenga solo una responsabilidad de
+todos los sistemas relacionales. Cual de las siguientes responsabilidades NO se pueden
+repartir por que NO es una función de un DBA:
+
+a)
+
+b)
+
+Tiene un conocimiento completo del procedimiento de recuperación de un backup de
+base de datos.
+
+Realiza al supervisión de la actividad de la base de datos (supervisión del uso de
+almacenamiento, disponibilidad de la base de datos….).
+
+c)
+
+Borrar transacciones.
+
+d)
+
+Análisis de problemas de rendimiento de la base de datos.
+
+Página: 6 de 22
+
+20.-
+
+Queremos desarrollar una aplicación web que necesita mostrar resultados en tiempo
+real. El equipo de desarrollo utilizará un lenguaje que sea adecuado para la manipulación
+del DOM (Document Object Model) del navegador. ¿Qué lenguaje de programación
+tenemos que utilizar para este tipo de aplicación web?
+
+a)
+
+HTML.
+
+b)
+
+CSS.
+
+c)
+
+JavaScript.
+
+d)
+
+XML.
+
+21.-
+
+¿Qué instrucción SQL modificaría el nombre del campo “src” a “subtitulo” de la siguiente
+tabla subtitulos de una base de datos MariaDB?
+
+a)
+
+ALTER TABLE subtitulos MODIFIED src BY subtitulo.
+
+b)
+
+ALTER TABLE subtitulos CHANGE src subtitulo varchar(200).
+
+c)
+
+ALTER TABLE subtitulos RENAME COLUMN src BY subtitulo.
+
+d)
+
+ALTER TABLE subtitulos SET src TO subtitulo varchar(200).
+
+Página: 7 de 22
+
+22.-
+
+En la infraestructura de los sistemas informáticos de RTVE, se ha detectado que se ha
+aumentado el tiempo de latencia de la red de servicio de los servidores, lo que implica
+que el tiempo de respuesta de las aplicaciones se ha deteriorado de forma generalizada.
+Hay que tener en cuenta que la infraestructura cuenta con unos 400 servidores y unos
+3000 usuarios de aplicaciones.
+Para poder mejorar este tiempo de latencia se ha contratado una consultaría a parte de
+una empresa externa. Esta empresa ha recomendado una serie de acciones. Indique cual
+de la siguientes respuestas NO se encuentra entre estas recomendaciones:
+
+a)
+
+b)
+
+Reducción de los saltos de red, reduciendo el número de enrutadores por los que pasa
+el tráfico de las aplicaciones.
+
+Implementación de métodos de modelado de tráfico que prioricen los paquetes de
+datos en función del tipo de datos, dando prioridad a las aplicaciones más críticas.
+
+c)
+
+Utilizar la misma red para los servidores y para los usuarios.
+
+d)
+
+Actualización de la infraestructura de red, tanto el hardware como el software para
+tener los más recientes del mercado.
+
+23.-
+
+Dada las siguientes tareas en la planificación de un proyecto, indicar basándose en la
+información facilitada cuál sería la duración apoyándose en el analisis de la ruta crítica.
+
+A. Definición de requisitos - 3 semanas
+B. Análisis funcional - 2 semanas -
+C. Análisis de arquitectura de datos - 1 semana
+D. Diseño de procesos - 2 semanas
+E. Diseño de la aplicación - 6 semanas
+F. Implementación del sistema - 10 semanas
+G. Pruebas funcionales - 3 semanas
+H. Pruebas de integración e implantación del sistema - 1 semana
+
+Relación entre tareas:
+A precede a B, C y E
+B precede a D
+D precede a F y G
+F precede a H
+
+a)
+
+18 semanas
+
+b)
+
+28 semanas
+
+c)
+
+20 semanas
+
+d)
+
+23 semanas
+
+Página: 8 de 22
+
+24.-
+
+Se dispone de información relativa a la temperatura recogida por un gran número de
+sensores en las diferentes estaciones de servicio de una empresa, guardándose cada
+medición en un documento JSON del tipo:
+{"sensorId": "1234", "stationId": "MAD12", "city": "Madrid", "temperatures": [{"temperature":
+20.5, "timestamp": 1708965189}, {"temperature": 20.0, "timestamp": 1708963189}, ...]}
+donde un sensor viene identificado por los atributos "sensorId" y "stationId", pudiendo
+haber varias estaciones en una misma ciudad.
+Esta información se encuentra almacenada de forma centralizada en una base de datos
+no relacional MongoDB compartida por todas las estaciones.
+- Existe un panel para cada estación de servicio con la información actual de todos sus
+sensores.
+- Existe un panel en la sede central de la empresa que indica para cada ciudad el estado
+de los sensores de todas las estaciones de dicha ciudad, pudiendo acceder también al
+detalle de los sensores de cada estación.
+El sistema también permite acceder a ver el histórico de temperaturas registradas por un
+sensor en particular.
+Indicar qué índices sería recomendable crear para mejorar el rendimiento de las
+búsquedas asociadas a dichos paneles.
+
+a)
+
+b)
+
+c)
+
+d)
+
+MongoDB es una base de datos no relacional y en este tipo de bases de datos no existe
+el concepto de índice, que sólo se aplica a bases de datos relacionales.
+
+Dado que hay varios tipos de búsquedas, por sensor, por estación y por ciudad, habrá
+que generar un índice individual para cada uno de estos atributos.
+
+Para dar cobertura a las consultas planteadas, habría que crear un índice por código de
+estación, otro por código de ciudad y un tercero por código de sensor y estación.
+
+Como el
+identificador del sensor, de la estación y de la ciudad están en el mismo
+documento, sólo sería necesario crear un único índice que contenga todos los atributos.
+
+25.-
+
+Cuando estamos desarrollando un sitio web que debe ser compatible con múltiples
+dispositivos y tamaños de pantalla, ¿qué enfoque debemos seguir para garantizar que el
+sitio web se vea bien en todos los dispositivos?
+
+a)
+
+Usar solo imágenes de alta resolución.
+
+b)
+
+Aplicar un diseño responsivo (responsive design)
+
+c)
+
+Desarrollar una versión del sitio web exclusivamente para móviles, ya que siempre son
+la prioridad ante otros dispositivos.
+
+d)
+
+Ignorar las pruebas en dispositivos móviles.
+
+Página: 9 de 22
+
+26.-
+
+Se está haciendo la planificación de una nueva aplicación que se quiere implantar en la
+empresa. Dentro de esta planificación, para poder realizar una adecuada gestión del
+riesgo (elija la respuesta correcta):
+
+a)
+
+b)
+
+c)
+
+d)
+
+Los riesgos y las decisiones se registran en un plan de gestión de riesgos al comienzo
+del proyecto, que se debe actualizar y monitorear a lo largo del mismo.
+
+Los riesgos se van apuntando cuando ya se han hecho efectivos. En este punto, se
+decide cuales son las acciones correctivas.
+
+La gestión del riesgo solo consiste en identificar los riesgos y hacer una evaluación de
+los mismos, no siendo necesaria ninguna revisión posterior.
+
+Los riesgos se determinan al principio del proyecto. Durante la ejecución del proyecto
+no se hace referencia a los riesgos.
+
+27.-
+
+¿Cómo se manejan las dependencias entre tareas en un diagrama de Gantt?
+
+a)
+
+Con líneas que conectan las barras de las tareas.
+
+b)
+
+Con colores diferentes para cada tarea.
+
+c)
+
+Con símbolos numéricos.
+
+d)
+
+Con etiquetas de texto.
+
+28.-
+
+Indique cuál de las siguientes opciones se corresponde de un modo más completo con
+las funciones de un Administrador de Bases de Datos (DBA):
+
+a)
+
+b)
+
+c)
+
+d)
+
+Es responsable de realizar las copias de seguridad y de su restauración en caso de
+necesidad.
+
+es responsable del mantenimiento, seguridad y el funcionamiento de las bases de
+datos, además de garantizar que los datos se almacenan y recuperan correctamente.
+
+Es el responsable de la seguridad de la base de datos, implementando los permisos
+necesarios paa que no sea atacada por ciberdelincuentes.
+
+Es el responsable de ajustar el rendimiento de las bases de datos, revisando todas las
+instrucciones de lenguaje DML.
+
+Página: 10 de 22
+
+29.-
+
+¿Qué afirmaciones de las siguientes respecto al fichero de rotado de Linux es cierta?
+
+a)
+
+No contiene comentarios.
+
+b)
+
+Se mantienen los últimos 10 ficheros de log.
+
+c)
+
+Se notifica error si el fichero de log está vacío.
+
+d)
+
+Tras el rotado se reinicia el servicio nginx.
+
+30.-
+
+Indique cuál de las siguientes definiciones posibles corresponde con el concepto de
+protocolo:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Conjunto de reglas empleadas por entidades en la misma capa en sistemas
+diferentes para que puedan cooperar e interactuar entre sí.
+
+Conjunto de reglas, primitivas y operaciones de intercambio de información
+entre niveles adyacentes dentro del mismo host.
+
+Cada una de las posibles interacciones entre niveles OSI que pueden ser
+indicaciones, respuestas, peticiones o confirmaciones.
+
+Conjunto de primitivas (operaciones) que un nivel o capa provee al nivel
+Superior.
+
+Página: 11 de 22
+
+31.-
+
+En relación a las cabeceras del protocolo IPv6:
+
+a)
+
+Al ser más pequeña que la cabecera de IPv4 es menos eficiente su procesamiento.
+
+b)
+
+Usa 128 bits para especificar las direcciones origen y destino.
+
+c)
+
+La longitud de la cabecera es variable y viene determinado en el campo LON de la
+misma.
+
+d)
+
+Tiene un tamaño mínimo de 20 bytes y máximo de 40 bytes.
+
+Página: 12 de 22
+
+32.-
+
+Dado un proyecto software para implementar un sistema de recogida de comentarios
+sobre los contenidos de un medio de comunicación en el que hay un mecanismo de
+validación de comentarios supervisado por un operador, indicar cuál es la afirmación
+correcta en lo relativo al diagrama UML de la figura.
+
+a)
+
+b)
+
+c)
+
+d)
+
+Se trata de un diagrama de secuencia en el que aparecen los actores y acciones que
+tiene que realizar un usuario a la hora de enviar el formulario con un comentario y que el
+sistema lo valide.
+
+Se trata de un diagrama de casos de uso en el que aparecen los actores y las acciones
+que se realizan sobre el sistema de comentarios a la hora de enviar un comentario y su
+validación.
+
+Se trata de un diagrama de estados en el que aparece el usuario y las acciones que éste
+puede realizar, indicándose los estados por los que pasa el proceso hasta completarse.
+
+Se trata de un diagrama de clases en el que aparecen los diferentes objetos que forman
+parte del sistema de comentarios, junto con las llamadas que se envían entre ellos para
+la funcionalidad planteada.
+
+Página: 13 de 22
+
+33.-
+
+¿Cuál de las siguientes afirmaciones es correcta sobre el método "saludar" en la clase
+"Persona"?
+
+a)
+
+Es un método de clase que devuelve una cadena formateada.
+
+b)
+
+Es un método estático que devuelve una cadena de texto.
+
+c)
+
+Es un método de instancia que devuelve una cadena de texto.
+
+d)
+
+Es un método de clase que escribe por consola.
+
+34.-
+
+¿Cuál de los siguientes elementos es crucial para el escalado horizontal en una
+arquitectura de alta disponibilidad?
+
+a)
+
+La redundancia de acometidas eléctricas.
+
+b)
+
+La replicación de bases de datos.
+
+c)
+
+El uso de balanceadores para distribuir el tráfico entre servidores.
+
+d)
+
+La implementación de sistemas de monitorado.
+
+Página: 14 de 22
+
+35.-
+
+Dado el siguiente código javascript:
+<script>
+
+let text = '{ "library" : [' +
+'{ "title":"Relatos" , "author":"Edgar Allan Poe" },' +
+'{ "title":"Drácula" , "author":"Bram Stoker" },' +
+'{ "title":"Frankenstein" , "author":"Mary W. Shelley" } ]}';
+function getTitles() {
+
+let titles = [];
+[CODIGO]
+return titles;
+
+}
+
+</script>
+Indicar cuál de las siguientes opciones habría que poner como [CODIGO] para que la
+función getTitles() devuelva un array con los títulos de los libros.
+
+a)
+
+let obj = Object.keys(text);
+obj.library.forEach((book) => {
+
+titles.push(book.title);
+
+});
+
+b)
+
+let obj = JSON.parse(text);
+obj.library.forEach((book) => {
+
+titles.push(book.title);
+
+});
+
+c)
+
+let obj = text.toObject();
+obj.library.forEach((book) => {
+
+titles.push(book.title);
+
+});
+
+d)
+
+let obj = JSON.stringify(text);
+obj.library.forEach((book) => {
+
+titles.push(title);
+
+});
+
+Página: 15 de 22
+
+36.-
+
+Dado el siguiente fragmento de código en NodeJS que se ejecutará en un servidor:
+var data = 5;
+function validate(value){
+
+if (value > 0){
+
+return validate(value--);
+console.log(value);
+
+} else {
+
+return true;
+
+}
+
+}
+validate(data);
+Indicar cuál es el comportamiento esperado.
+
+a)
+
+El programa se ejecuta y no muestra por consola ningún valor.
+
+b)
+
+El programa se ejecuta de forma indefinida y da un error de tamaño máximo de pila de
+llamadas excedido.
+
+c)
+
+El programa se ejecuta y muestra por consola los valores 5 4 3 2 1.
+
+d)
+
+El programa se ejecuta y muestra por consola los valores 1 2 3 4 5.
+
+37.-
+
+Dado el siguiente fragmento de código JAVASCRIPT que muestra en un alert un texto
+para indicar si el número de tags <div> con class "container" es igual a 1 en un
+documento HTML.
+<script>
+
+var nContainers = $("div.container").length;
+function validate(value){
+
+if (value === "1"){
+
+return true;
+
+} else {
+
+return false;
+
+}
+
+}
+if (validate(nContainers))
+
+alert("Hay un elemento container en el documento.");
+
+else
+
+alert("Puede no existir o haber varios elementos container en el documento.")
+
+</script>
+Indicar cuál será el comportamiento del código.
+
+a)
+
+El código fallará mostrando un error en la consola.
+
+b)
+
+c)
+
+d)
+
+El código se ejecutará y mostrará un alert indicando siempre que hay un elemento
+container en el documento.
+
+El código se ejecutará y mostrará un alert indicando siempre que puede no existir o
+haber varios elementos container en el documento.
+
+El código se ejecutará y mostrará un alert indicando uno u otro mensaje en función del
+número de containers que haya en el documento.
+
+Página: 16 de 22
+
+38.-
+
+Estamos desarrollando una nueva aplicación para un cliente que requiere alta
+disponibilidad y la capacidad de escalar según la demanda. Además, el cliente desea
+almacenar grandes cantidades de datos sin necesidad de gestionar hardware. ¿Qué
+opción de servicio en la nube es la más adecuada para satisfacer estos requisitos?
+
+a)
+
+PaaS (Platform as a Service).
+
+b)
+
+SaaS (Software as a Service).
+
+c)
+
+IaaS (Infrastructure as a Service).
+
+d)
+
+DaaS (Desktop as a Service).
+
+39.-
+
+Estamos gestionando un proyecto de software en el que el cliente ha solicitado un
+cambio en los requisitos a mitad de proyecto. El cambio implica agregar una nueva
+funcionalidad que no estaba prevista en la planificación inicial,
+lo que afectará al
+cronograma del proyecto. ¿Qué técnica de gestión de proyectos tenemos que utilizar
+para analizar el impacto de este cambio en el cronograma?
+
+a)
+
+Establecer un nuevo presupuesto sin ajustar el cronograma.
+
+b)
+
+Utilizar el Diagrama de Gantt para ajustar la programación de las nuevas tareas.
+
+c)
+
+Rechazar el cambio de requisitos para evitar desajustes.
+
+d)
+
+Ignorar el impacto del cambio en el cronograma para evitar conflictos.
+
+40.-
+
+Dentro del área de Sistemas, se va a implementar una nueva aplicación para la gestión de
+la convocatoria de oposiciones de RTVE. Se necesita que esta aplicación de un servicio
+24x7 y que no haya indisponibilidad. Los datos se almacenan en un base de datos
+MySQL y se decide hacer backup en caliente para evitar la pérdida de servicio porque
+(elija la respuesta que es cierta respecto a un backup en caliente):
+
+a)
+
+Se realiza mientras los usuarios no tienen acceso a los datos.
+
+b)
+
+c)
+
+Se realiza mientras la base de datos está en línea y disponible para operaciones de
+lectura y escritura.
+
+Se realiza en un punto en el tiempo y se pierden los datos actualizados mientras se
+realiza el backup.
+
+d)
+
+Se realiza previa parada de la base de datos.
+
+Página: 17 de 22
+
+41.-
+
+de
+
+caracteres:
+
+En una empresa se ha creado un mecanismo para recuperar información de sus usuarios
+a partir de su identificador de acceso y una contraseña. Para ello:
+- Existe un servicio web con una URL que acepta los parámetros "user" y "pass" como una
+cadena
+https://www.empresa.es/usuarios?
+user=USER&amp;pass=PASSWORD
+- Existe una base de datos en un servidor MariaDB donde al menos hay una tabla
+"usuarios".
+- En la base de datos se ha creado un rol con sólo permiso de lectura para el acceso del
+servicio a los datos.
+- El servicio accede a la información de la base de datos a través de la siguiente consulta:
+SELECT * FROM usuarios WHERE user='USER' and pass='HASHPASS'
+siendo USER el valor del parámetro "user" y HASHPASS el resultado de aplicar una
+función hash al valor del parámetro "pass", ya que en la base de datos no se almacenan
+las contraseñas en claro, sino el hash correspondiente cuando se definió la contraseña.
+- No se han establecido mecanismos adicionales de control y seguridad.
+Desde un punto de vista de seguridad, indicar la opción que sería más adecuada de las
+siguientes:
+
+a)
+
+b)
+
+c)
+
+d)
+
+El servicio no parece que pueda tener problemas de vulnerabilidades ya que se han
+establecido mecanismos de seguridad suficientes en la base de datos a nivel de
+permisos de acceso y almacenamiento codificado de información sensible.
+
+El hecho de que la estructura de la base de datos y los nombres de las columnas de las
+tablas no sean conocidas hace que no sea posible un ataque de SQL injection ya que no
+se conoce la información que potencialmente se puede recuperar.
+
+Haber definido el acceso al servicio a través de usuario y contraseña, no guardándose
+esta última en claro, hace que el acceso a la información sea completamente seguro y
+no haya peligro de accesos no permitidos a los datos.
+
+Al no controlarse el formato de los parámetros de entrada en el acceso al servicio, se
+podría recuperar información de la tabla “usuarios” a través de ataques de SQL injection
+sin necesidad de conocer la estructura de la base de datos.
+
+42.-
+
+En un estudio que emplea el estándar SMPTE 2022-7 para la comunicación de vídeo
+entre equipos, ha fallado uno de los puertos de los switches que participa en la
+comunicación entre una cámara y el mezclador de vídeo, ¿qué sucederá en la entrada del
+mezclador que esta suscrita a esa señal?
+
+a)
+
+La entrada de vídeo del mezclador se irá a negro.
+
+b)
+
+La salida de programa del mezclador se irá a negro.
+
+c)
+
+d)
+
+Las entradas de vídeo del mezclador no se verán afectadas, puesto que hay
+redundancia en las comunicaciones.
+
+El mezclador, al detectar la pérdida de señal, se suscribirá automáticamente a la señal
+de otra cámara no afectada por el fallo.
+
+Página: 18 de 22
+
+43.-
+
+Si a un XML se le aplica esta transformación XSL, ¿Qué podemos decir sobre su salida?
+
+a)
+
+Habrá como mucho un único elemento, y sus posibles hijos, que se modifique respecto
+del XML original.
+
+b)
+
+Todos los elementos gesdoc:MATERIAL tendrán como texto "COPIA".
+
+c)
+
+d)
+
+Como la plantilla "template" es aplicable a todo el documento XML, todos los elementos
+en la salida pasarán a tener el texto "COPIA"
+
+El XML de salida será idéntico al de entrada, salvo por los sangrados, que serán
+eliminados.
+
+44.-
+
+Una empresa tiene varias oficinas distribuidas en diferentes ubicaciones. Los empleados
+necesitan conectarse de manera segura a la red corporativa desde distintas ubicaciones
+remotas. ¿Qué tecnología tiene que utilizar para permitir a los empleados conectarse de
+manera segura a la red interna desde ubicaciones remotas?
+
+a)
+
+VPN (Virtual Private Network).
+
+b)
+
+SMTP (Simple Mail Transfer Protocol).
+
+c)
+
+HTTPs (HyperText Transfer Protocol Secure).
+
+d)
+
+FTP (File Transfer Protocol).
+
+Página: 19 de 22
+
+45.-
+
+Para gestionar un proyecto de desarrollo de software y realizar una planificación que
+represente visualmente la duración de las tareas y las dependencias entre las mismas.
+¿Qué diagrama tenemos que utilizar?
+
+a)
+
+Diagrama de Gantt.
+
+b)
+
+Diagrama de Venn.
+
+c)
+
+Diagrama de Ishikawa.
+
+d)
+
+Diagrama de flujo.
+
+46.-
+
+Por necesidades de mantemiento Hardware y para mantener
+las plataformas
+actualizadas se ha realizado por parte de RTVE la compra de nuevas máquinas con
+componentes más modernos. Para la total aceptación de la nueva plataforma, se solicita
+la ejecución de unas pruebas para evaluar que el rendimiento de la CPU y GPU, es decir,
+se van a realizar unas pruebas de:
+
+a)
+
+KPI (Key Perfonmance Indicators).
+
+b)
+
+Benchmark.
+
+c)
+
+MVI (Media Impact Value).
+
+d)
+
+SCF (Stress Capacity Proof).
+
+Página: 20 de 22
+
+47.-
+
+En la imagen se muestra la configuración de un canal de entrada en un monitor de vídeo,
+¿qué parámetro tendré que configurar si queremos visionar una imagen UHD 50p, con
+HDR y estándar PQ:
+
+a)
+
+Temperatura de color (Color Temp).
+
+b)
+
+Crominancia, Brillo y Contraste (Chr./Bright./Cont).
+
+c)
+
+Espacio de color (Color Space).
+
+d)
+
+Función de transferencia electróptica (EOTF).
+
+Página: 21 de 22
+
+48.-
+
+¿Qué es lo que indica la primera línea del HTML?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Indica al navegador el tipo de documento que se trata. Además, indica la versión de
+HTML que se está usando. En este caso HTML 5.
+
+Indica al navegador el tipo de documento que se trata. Además, indica la versión de
+HTML que se está usando. En este caso HTML 1.
+
+Es sólo informativo para un depurador lanzado en el navegador, indicando las reglas
+especiales a aplicar.
+
+Es sólo informativo para un depurador lanzado en el navegador, indicando como fue
+creado el HTML. En este caso, era un HTML estático.
+
+Página: 22 de 22
+
+

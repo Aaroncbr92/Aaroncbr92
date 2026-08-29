@@ -1,0 +1,2163 @@
+Ocupación tipo
+
+MECÁNICA DE EQUIPOS E INSTALACIONES
+
+INSTRUCCIONES
+
+Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+La prueba está compuesta por 96 preguntas (80 preguntas principales más 16 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
+solo elegir UNA de las cuatro opciones.
+
+El sistema de valoración será el siguiente:
+
+Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+Cada pregunta no contestada, contestada de forma distinta a la indicada en las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+Recuerde anotar
+las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
+anteriormente facilitadas.
+
+Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+Tiempo máximo: 120 minutos.
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+                No se permite la reproducción total o parcial de este cuestionario.
+
+1.-
+
+El ángulo comprendido entre el dorso de una herramienta y la superficie mecanizada de
+la pieza o su tangente, teniendo la función de evitar el roce entre el talón de la
+herramienta y la parte ya mecanizada es:
+
+a)
+
+Ángulo de corte.
+
+b)
+
+Ángulo de desprendimiento.
+
+c)
+
+Ángulo de vacío.
+
+d)
+
+Ángulo de incidencia.
+
+2.-
+
+Considérese un magnetoscopio montado en rack sobre bandeja extensible con guías
+telescópicas, asa-tirador y grupos de fijación, ¿qué accesorio de rack adicional aportaría
+más valor para completar el montaje?
+
+a)
+
+Una pareja de guías angulares que ayuden a soportar el peso del conjunto.
+
+b)
+
+Una carátula ciega bajo el conjunto que evite la transmisión de calor desde el equipo
+inmediatamente inferior.
+
+c)
+
+Una percha que mantenga el cableado trasero fijo, ordenado y con coca suficiente.
+
+d)
+
+Unas orejas que fijen el magnetoscopio a los perfiles del rack.
+
+3.-
+
+El acetileno es un gas:
+
+a)
+
+Inerte.
+
+b)
+
+Comburente.
+
+c)
+
+De puesta a cero.
+
+d)
+
+Disuelto.
+
+4.-
+
+Según los códigos de colores que establece la norma ISO 513 para la identificación de
+materiales, ¿qué color es el usado para distinguir a los aceros inoxidables?.
+
+a)
+
+Azul.
+
+b)
+
+Rojo.
+
+c)
+
+Verde.
+
+d)
+
+Amarillo.
+
+5.-
+
+Un rodamiento con la denominación 6205 2RS tiene un diámetro interior de:
+
+a)
+
+20 mm.
+
+b)
+
+25 mm.
+
+c)
+
+35 mm.
+
+d)
+
+10 mm.
+
+Página: 1 de 31
+
+6.-
+
+En la soldadura MIG:
+
+a)
+
+El Argón (Ar) se utiliza para la soldadura de aceros.
+
+b)
+
+El Argón (Ar) se utiliza para la soldadura de metales no ferrosos.
+
+c)
+
+El Argón c02 se utiliza para soldar aluminio.
+
+d)
+
+El Argón (Ar) no se utiliza para la soldadura MIG.
+
+7.-
+
+La herramienta que se puede ver en la imagen inferior, ¿para qué operación la
+utilizaríamos?
+
+a)
+
+Trazado.
+
+b)
+
+Ranurado.
+
+c)
+
+Rebarbado.
+
+d)
+
+Comparación.
+
+8.-
+
+Dentro de los instrumentos de trazado en dibujo, hay uno que tiene la forma de un
+triangulo isósceles, los catetos forman un ángulo de 90º, ¿Cuál de ellos es?
+
+a)
+
+Escalímetro.
+
+b)
+
+Escuadra.
+
+c)
+
+Regla.
+
+d)
+
+Cartabon.
+
+9.-
+
+¿Qué es trabajar con polaridad directa en soldadura TIG?.
+
+a)
+
+b)
+
+c)
+
+El electrodo va conectado al polo negativo y la energía se concentra fundamentalmente
+en la pieza por lo que se obtiene una buena penetración.
+
+El electrodo va conectado al polo negativo y la energía se concentra fundamentalmente
+en el electrodo.
+
+El electrodo va conectado al polo positivo y la energía se concentra fundamentalmente
+en el electrodo.
+
+d)
+
+Es la mejor forma para trabajar aluminio.
+
+Página: 2 de 31
+
+10.-
+
+En un taladro de columna ¿a que revoluciones por minuto es recomendable taladrar con
+una broca de 24 una pletina de acero inox de 1 cm de espesor?
+
+a)
+
+500
+
+b)
+
+400
+
+c)
+
+190
+
+d)
+
+250
+
+11.-
+
+Indique qué ángulos a(alfa), b(beta), g(gamma) y d(delta) se han trazado mediante el
+empleo de la escuadra y el cartabón.
+
+a)
+
+alfa - 145º,  beta - 85º,  gamma - 115º, delta - 120º
+
+b)
+
+alfa - 145º,  beta - 105º,  gamma - 135º, delta - 110º
+
+c)
+
+alfa - 165º,  beta - 75º,  gamma - 105º, delta - 120º
+
+d)
+
+alfa - 165º,  beta - 75º,  gamma - 115º, delta - 110º
+
+12.-
+
+Si nos encargan fabricar una rosca métrica en un torno paralelo que tiene un paso del eje
+de roscar en pulgadas y nos encontramos que no disponemos de la rueda de 127 dientes
+¿Podremos realizar dicha rosca?
+
+a)
+
+Sí, pero obtendríamos un paso con un leve error.
+
+b)
+
+Tendríamos que fabricar una rueda de 127 dientes.
+
+c)
+
+No influiría nunca en la rosca que vamos a fabricar.
+
+d)
+
+La rueda de 127 dientes no será necesaria en ningún caso.
+
+13.-
+
+Nos piden que realicemos un trabajo en un cuadro eléctrico consistente en hacer un
+agujero y 4 taladros en su chapa frontal para instalar un conector eléctrico. ¿Qué
+medidas de precaución son las más adecuadas a adoptar antes de realizar dicho trabajo?.
+
+a)
+
+Trabajar con guantes de aislamiento de 1.000 V.
+
+b)
+
+Trabajar sin tensión, siempre que sea posible, para ello se debe desconectar el cuadro,
+prevenir cualquier posible realimentación y verificar la ausencia de tensión.
+
+c)
+
+Llevar puesto un calzado aislante y trabajar con herramientas de batería.
+
+d)
+
+Trabajar con guantes de aislamiento de 1.000 V y calzado aislante.
+
+Página: 3 de 31
+
+14.-
+
+De los artefactos de la imagen,
+circular en movimiento lineal o viceversa.
+
+identifique cuales de ellos transforman movimiento
+
+a)
+
+1, 3 y 5
+
+b)
+
+1, 3 y 4
+
+c)
+
+2 y 5
+
+d)
+
+1, 3, 4 y 5
+
+Página: 4 de 31
+
+15.-
+
+Identifique la función precisa de las dos piezas que se muestran en la imagen.
+
+a)
+
+b)
+
+c)
+
+d)
+
+1- Mordaza articulada para trabajos mecánicos, 2- Apoyo para fijación en altura de
+cámara robotizada PTZ
+
+1- Soporte telescópico orientable para equipos, 2- Peana de ajuste para asiento de la
+plataforma del operador de cámara en el terreno
+
+1- Brazo extensible de pantalla de iluminación LED, 2- Base niveladora de VIDEO-WALL
+en el plató
+
+1- Soporte de monitor de vídeo con fijación VESA, 2- Apoyo regulable para estructura
+de suelo técnico
+
+16.-
+
+En un ajuste que tiene holgura entre el eje y el agujero se llama:
+
+a)
+
+Ajuste con juego.
+
+b)
+
+Ajuste indeterminado.
+
+c)
+
+Ajuste deslizante.
+
+d)
+
+Ajuste giratorio.
+
+17.-
+
+¿Cuál es el fenómeno qué aparece en un tren de engranajes cuando forma parte de él, un
+engranaje con un número muy pequeño de dientes?
+
+a)
+
+Agarrotamiento.
+
+b)
+
+Hipoidismo.
+
+c)
+
+Interferencia.
+
+d)
+
+Escoriado.
+
+Página: 5 de 31
+
+18.-
+
+Si tenemos la siguiente definición: “Este tipo de medición implica la lectura directa de un
+instrumento o dispositivo de medición” ¿Qué tipo de medición es?
+
+a)
+
+Medición discreta.
+
+b)
+
+Medición relativa.
+
+c)
+
+Medición directa.
+
+d)
+
+Medición absoluta.
+
+19.-
+
+Tras su ratificación por la ciudadanía española, ¿en qué fecha entro en vigor la
+Constitución española?
+
+a)
+
+6 de diciembre de 1978.
+
+b)
+
+8 de diciembre de 1978.
+
+c)
+
+29 de diciembre de 1978.
+
+d)
+
+12 de octubre de 1978.
+
+20.-
+
+En un torno, cuando la herramienta se desplaza radialmente sobre el extremo de una
+pieza para crear una superficie plana es:
+
+a)
+
+Cilindrado.
+
+b)
+
+Escariado.
+
+c)
+
+Refrentado.
+
+d)
+
+Moleteado.
+
+21.-
+
+En el aluminio, los átomos se agrupan para formar una red cristalina…
+
+a)
+
+cúbica de caras centradas.
+
+b)
+
+cúbica centrada.
+
+c)
+
+hexagonal.
+
+d)
+
+rómbica.
+
+22.-
+
+Calcular el tiempo de refrentado a un número de revoluciones por minuto constante de
+50 rpm (solo gira la pieza) de un plano de 90 mm de diámetro con un avance de la
+herramienta de corte de 0,3 mm/rev
+
+a)
+
+2 minutos.
+
+b)
+
+3 minutos.
+
+c)
+
+4,5 minutos.
+
+d)
+
+6 minutos.
+
+Página: 6 de 31
+
+23.-
+
+¿Qué se obtiene en una pieza de acero al someterla a un tratamiento termoquímico de
+nitruración?
+
+a)
+
+Menor dureza superficial.
+
+b)
+
+Mayor dureza superficial.
+
+c)
+
+La misma dureza que un recocido, pero aumentando otras propiedades.
+
+d)
+
+La misma dureza que un revenido, pero aumentando otras propiedades.
+
+24.-
+
+Según el III Convenio Colectivo de la Corporación RTVE, ¿las personas candidatas a un
+empleo deberán poseer la capacidad psicofísica y sensorial necesaria para el desempeño
+del puesto de trabajo para el que hayan sido seleccionadas?
+
+a)
+
+Sí, obligatoriamente.
+
+b)
+
+Sí, para la mayoría de los puestos.
+
+c)
+
+Solo en casos de especial relevancia.
+
+d)
+
+No, salvo raras excepciones.
+
+25.-
+
+La siguiente definición: “De dos ruedas dentadas que funcionan en conjunto, es el que
+posee el menor número de dientes” ¿A qué mecanismo se refiere?
+
+a)
+
+Corona.
+
+b)
+
+Cremallera.
+
+c)
+
+Piñón.
+
+d)
+
+Sinfín.
+
+Página: 7 de 31
+
+26.-
+
+Según la información que aporta la planta de la pieza y el plano secante A-A que se
+indica en la misma, indique que representan los dibujos 1 y 2.
+
+a)
+
+b)
+
+c)
+
+d)
+
+El dibujo 1 representa una sección de la pieza y el dibujo 2 un corte de la pieza, y ambos
+son correctos.
+
+El dibujo 1 representa un corte de la pieza y el dibujo 2 una sección pero la sección no
+es correcta.
+
+Tanto el dibujo 1 como el dibujo 2 representan de manera diferente el corte de la pieza y
+ambos son correctos.
+
+El dibujo 1 representa un corte de la pieza y el dibujo 2 una sección, y ambos son
+correctos.
+
+27.-
+
+Indique cual es el contrapeso adecuado para que la barrera de la imagen permanezca en
+equipo en posición horizontal (suponga las cargas puntuales en ambos extremos de la
+barrera).
+
+a)
+
+125 Kg.
+
+b)
+
+250 Kg.
+
+c)
+
+200 Kg.
+
+d)
+
+100 Kg.
+
+Página: 8 de 31
+
+28.-
+
+En la imagen se puede apreciar un tornillo ¿Qué tipo de huella tiene dicho tornillo?
+
+a)
+
+Huella Pozidrive.
+
+b)
+
+Huella Torx de seguridad.
+
+c)
+
+Huella Philips.
+
+d)
+
+Huella Sitch.
+
+29.-
+
+Disponemos de una serie de plaquitas de torneado con los siguientes grados de
+geometría: 80º, 75º, 55º y 35º, ¿cuál de ellas considera qué sería la más apropiada para
+conseguir un mecanizado con mejor acabado superficial?
+
+a)
+
+35º.
+
+b)
+
+55º.
+
+c)
+
+75º.
+
+d)
+
+85º.
+
+30.-
+
+¿Cómo se denomina a la resistencia que oponen los átomos de los metales a separarse
+entre sí?
+
+a)
+
+Fragilidad.
+
+b)
+
+Tenacidad.
+
+c)
+
+Elasticidad.
+
+d)
+
+Cohesión.
+
+Página: 9 de 31
+
+31.-
+
+Indique como se denominan los elementos y piezas de torno de la imagen.
+
+a)
+
+1-contrapunto,  2-tambor de 4 garras,  3-carro de corte, 4-portacuchillas
+
+b)
+
+1-luneta,   2-plato de garras, 3-charriot, 4-torreta
+
+c)
+
+1-mordaza de eje, 2-tambor de pinzas, 3-charriot, 4-portaherramientas
+
+d)
+
+1-luneta,  2-plato de garras autocentrante, 3-portaherramientas, 4-torreta giratoria
+
+32.-
+
+Según la norma DIN 875, ¿cuál de estas escuadras de precisión sería la más precisa?.
+
+a)
+
+De grado 00.
+
+b)
+
+De grado 0.
+
+c)
+
+De grado 1.
+
+d)
+
+De grado 2.
+
+33.-
+
+¿Qué harías primero en la operación de apertura de botellas de acetileno?
+
+a)
+
+Abrir la válvula de cierre en el manorreductor.
+
+b)
+
+Antes de abrir la válvula comprobar que el tornillo de regulación esta aflojado.
+
+c)
+
+Abrir el grifo de la botella lentamente.
+
+d)
+
+Abrir la válvula en el soplete.
+
+Página: 10 de 31
+
+34.-
+
+¿Qué agente extintor es el más adecuado para sofocar el fuego en un cuadro eléctrico?
+
+a)
+
+Polvo químico seco.
+
+b)
+
+Espuma.
+
+c)
+
+Dióxido de carbono (CO2).
+
+d)
+
+Agua.
+
+35.-
+
+De las siguientes válvulas de un circuito hidráulico, ¿Cuál de ellas sería una válvula
+reguladora de caudal?.
+
+a)
+
+Válvula reductora de presión.
+
+b)
+
+Válvula antirretorno.
+
+c)
+
+Válula piloto.
+
+d)
+
+Válvula estranguladora.
+
+36.-
+
+¿Cuál es la diferencia principal entre la geometría de un perfil IPN y un perfil IPE?
+
+a)
+
+Un UPN tiene forma de I y un IPE forma de U.
+
+b)
+
+c)
+
+En un IPN el espesor de las alas decrece hacia los bordes y en un IPE el espesor de las
+alas es constante.
+
+En un IPN el espesor de las alas es constante y en un IPE el espesor de las alas decrece
+hacia los bordes.
+
+d)
+
+No hay diferencias solo cambia las resistencias.
+
+37.-
+
+En una rueda de dientes rectos se define como paso circular (p):
+
+a)
+
+La relación entre el diámetro primitivo en milímetros y el número de dientes.
+
+b)
+
+La parte del diente que queda dentro del diámetro primitivo.
+
+c)
+
+La longitud de la circunferencia primitiva correspondiente a un diente y un vano
+consecutivos.
+
+d)
+
+La longitud de la circunferencia primitiva que corresponde a la parte maciza del diente.
+
+Página: 11 de 31
+
+38.-
+
+En la representación del corte de la pieza de la imagen indique de que corte se trata:
+
+a)
+
+La representación del corte no corresponde a la pieza mostrada.
+
+b)
+
+Es la representación del corte por planos paralelos A-A.
+
+c)
+
+Es la representación del corte por planos paralelos A-B.
+
+d)
+
+Es la representación del corte por planos paralelos A-B y A-B porque son iguales.
+
+Página: 12 de 31
+
+39.-
+
+De la pieza que aparece dibujada en la imagen, indica qué vista de las que figuran se
+corresponde con la planta de dicha figura.
+
+a)
+
+Vista a).
+
+b)
+
+Vista b.
+
+c)
+
+Vista C.
+
+d)
+
+Vista d.
+
+40.-
+
+Tenemos que instalar en un Rack una chapa frontal que mide de altura 133,35
+milímetros. ¿A cuantas unidades corresponde dicha chapa frontal?
+
+a)
+
+4 unidades y media.
+
+b)
+
+4 unidades.
+
+c)
+
+3 unidades y media.
+
+d)
+
+3 unidades.
+
+Página: 13 de 31
+
+41.-
+
+Para las cámaras con cabeza rotatoria que se emplean en la producción de televisión se
+usan grúas telescópicas como la de la imagen. Indique qué función realiza el elemento
+señalado por la flecha.
+
+a)
+
+Aloja las conexiones y la electrónica de la cámara, de la cabeza rotatoria y sus mandos.
+
+b)
+
+Hace la función de contrapeso de desplazamiento.
+
+c)
+
+Contiene los engranajes y poleas para la función telescópica de la grúa.
+
+d)
+
+Es la cubierta de protección de los elementos basculantes de la grúa.
+
+Página: 14 de 31
+
+42.-
+
+En el rack de la fotografía están montados los perfiles con las medidas que se indican (en
+milímetros). Se pretende configurar un rack de múltiples conectores XLR montados en
+paneles de 1RU como el mostrado en la imagen. Se debe dejar un espacio libre de dos
+unidades de rack entre panel y panel para una mejor colocación de los cables en el
+interior. Indique cuántos conectores cabrían en esa distribución.
+
+a)
+
+156
+
+b)
+
+240
+
+c)
+
+252
+
+d)
+
+164
+
+Página: 15 de 31
+
+43.-
+
+Indique los ángulos más adecuados para el manejo de la antorcha y para la varilla de
+metal de aporte. Señale también qué tipo de corriente y en su caso polaridad, se está
+empleando en el electrodo a la derecha de la imagen.
+
+a)
+
+a- 5-10º,  b=15-20º,  electrodo en corriente continua y polaridad negativa
+
+b)
+
+a- 20º,  g=15-20º,  electrodo en corriente continua y polaridad negativa
+
+c)
+
+a- 20º,  g=15-20º,  electrodo en corriente continua y polaridad positiva
+
+d)
+
+a- 30-40º,  g=5-10º,  electrodo en corriente continua y polaridad positiva
+
+44.-
+
+La fundición intermedia entre la fundición blanca y la fundición gris se denomina:
+
+a)
+
+Maleable negra.
+
+b)
+
+Maleable blanca.
+
+c)
+
+Atruchada.
+
+d)
+
+Aleada.
+
+45.-
+
+A la hora de elegir un lubricante ¿Cuál sería la característica fundamental más
+importante para su elección?
+
+a)
+
+Su densidad.
+
+b)
+
+Su punto de congelación.
+
+c)
+
+Su punto de inflamación.
+
+d)
+
+Su viscosidad.
+
+Página: 16 de 31
+
+46.-
+
+¿Qué tratamiento termoquímico endurece la superficie de la pieza introduciendo
+solamente carbono y nitrógeno?
+
+a)
+
+Cianuración.
+
+b)
+
+Sulfinización.
+
+c)
+
+Nitruración.
+
+d)
+
+Cementación.
+
+47.-
+
+De los siguientes equipos de protección personal, ¿Cuál de ellos no sería recomendable
+para trabajar en un taladro de columna?.
+
+a)
+
+Guantes / Protección de manos.
+
+b)
+
+Gafas / Protección ocular.
+
+c)
+
+Auriculares de protección / Protección auditiva.
+
+d)
+
+Calzado de seguridad / Protección de los pies.
+
+48.-
+
+¿De qué color es el cuerpo de las botellas de gases inflamables y combustibles?
+
+a)
+
+Gris.
+
+b)
+
+Blanco.
+
+c)
+
+Naranja.
+
+d)
+
+Rojo.
+
+Página: 17 de 31
+
+49.-
+
+Para soldar dos chapas de acero inoxidable generando la menor deformación residual
+posible y dotarlas de un alineamiento adecuado para mejorar la tolerancia de fabricación
+se ha realizado un punteado previo con procedimiento TIG. En función del material a
+soldar indique cuál de las figuras muestra la cantidad y el orden de aplicación de los
+puntos más idóneo.
+
+a)
+
+4
+
+b)
+
+3
+
+c)
+
+2
+
+d)
+
+1
+
+50.-
+
+Según el III Convenio Colectivo de CRTVE, ¿cuántas son las vacaciones anuales?.
+
+a)
+
+b)
+
+c)
+
+d)
+
+Se disfrutará de una vacación anual retribuida de 24 días laborables y 3 días de asuntos
+propios.
+
+Se disfrutará de una vacación anual retribuida de 24 días laborables y 4 días de asuntos
+propios.
+
+Se disfrutará de una vacación anual retribuida de 25 días laborables y 4 días de asuntos
+propios.
+
+Se disfrutará de una vacación anual retribuida de 25 días laborables y 3 días de asuntos
+propios.
+
+Página: 18 de 31
+
+51.-
+
+¿En qué consiste el moleteado?.
+
+a)
+
+b)
+
+Es un proceso que se hace en un torno y que consiste en separar la pieza ya
+mecanizada de la barra primaria.
+
+Es la operación con la que se obtienen superficies cilíndricas rectas, en un torno, al
+avanzar la herramienta en sentido paralelo al eje del husillo.
+
+c)
+
+Es la operación que consiste en el cilindrado interior de un agujero en el torno.
+
+d)
+
+Es la terminación que se le da a una superficie haciéndola rugosa para que no resbale
+la mano al agarrarla.
+
+52.-
+
+¿Cuántas disposiciones tiene la constitución española?
+
+a)
+
+4
+
+b)
+
+9
+
+c)
+
+15
+
+d)
+
+10
+
+53.-
+
+¿Qué es necesario para realizar una rosca en el torno?.
+
+a)
+
+Dos movimientos uniformes, simultáneos y sincronizados.
+
+b)
+
+Un movimiento longitudinal y sincronizado.
+
+c)
+
+Un movimiento transversal y sincronizado.
+
+d)
+
+Un movimiento helicoidal y sincronizado.
+
+54.-
+
+¿De los siguientes ángulos de afilado, cuál de ellos utilizarías para taladrar plásticos con
+una broca de acero rápido?
+
+a)
+
+65 grados.
+
+b)
+
+118 grados.
+
+c)
+
+135 grados.
+
+d)
+
+140 grados.
+
+55.-
+
+¿Cómo se denomina la parte cónica en que termina una broca y que sirve para efectuar el
+corte?
+
+a)
+
+Boca.
+
+b)
+
+Alma.
+
+c)
+
+Faja.
+
+d)
+
+Cuello.
+
+Página: 19 de 31
+
+56.-
+
+En la imagen se puede apreciar la parte frontal de un eje roscado ¿Qué característica de
+la rosca se puede apreciar a simple vista?
+
+a)
+
+Eje con una rosca de 3 entradas.
+
+b)
+
+Eje con una rosca cuadrada.
+
+c)
+
+Eje con una rosca trapecial.
+
+d)
+
+Eje con una rosca NPT.
+
+57.-
+
+¿De qué material están formados los machos de roscar?
+
+a)
+
+Widia.
+
+b)
+
+Acero dulce con tratamiento termoquímico.
+
+c)
+
+De fundición.
+
+d)
+
+De acero rápido templado.
+
+Página: 20 de 31
+
+58.-
+
+¿Qué ventajas e inconvenientes aporta el tratamiento termoquímico de nitruración sobre
+el acero?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Se obtiene mayor resistencia a la corrosión y dureza superficial, sin deformación de la
+pieza y a baja temperatura, pero el proceso es de muy larga duración.
+
+Se obtiene mayor resistencia a la corrosión y dureza superficial, pero la penetración del
+nitrógeno altera la medida de acabado, factor que ha de tenerse en cuenta.
+
+Se obtiene mayor dureza superficial, pero es un proceso que ha de hacerse a muy altas
+temperaturas y la pieza requiere de tratamiento posterior.
+
+Se obtiene gran resistencia a la corrosión, pero menor dureza superficial, requiriendo de
+hornos especiales siendo instalaciones muy costosas solo para grandes series.
+
+59.-
+
+De las siguientes operaciones de mecanizado, ¿cuál de ellas implicaría una mejor calidad
+de acabado de superficie?.
+
+a)
+
+Taladrado.
+
+b)
+
+Mandrinado.
+
+c)
+
+Lapeado.
+
+d)
+
+Escariado.
+
+60.-
+
+En la imagen se pueden apreciar diferentes tipos de operaciones. ¿Qué letra estaría
+representando a un taladro escalonado?
+
+a)
+
+Letra E.
+
+b)
+
+Letra C.
+
+c)
+
+Letra B.
+
+d)
+
+Letra G.
+
+Página: 21 de 31
+
+61.-
+
+La mordaza que podemos ver en la imagen, es una mordaza de alta presión ¿En función
+de su modo de accionamiento qué tipo de mordaza industrial será?
+
+a)
+
+Mordaza manual.
+
+b)
+
+Mordaza neumática.
+
+c)
+
+Mordaza hidráulica.
+
+d)
+
+Mordaza de precisión.
+
+62.-
+
+Según el artículo 159 de la Constitución Española: ¿De cuantos miembros se compone el
+Tribunal Constitucional?
+
+a)
+
+12.
+
+b)
+
+13.
+
+c)
+
+14.
+
+d)
+
+15.
+
+63.-
+
+La unión soldada puede tener defectos de calidad difíciles de detectar. Estos defectos
+reducen:
+
+a)
+
+EL color.
+
+b)
+
+El calor.
+
+c)
+
+La resistencia.
+
+d)
+
+La presión
+
+64.-
+
+¿Cuál de los siguientes procedimientos no es un tratamiento termoquímico?
+
+a)
+
+Temple.
+
+b)
+
+Nitruración.
+
+c)
+
+Cementación.
+
+d)
+
+Cianuración.
+
+Página: 22 de 31
+
+65.-
+
+Como se aprecia en la imagen, la carga P cuelga de una polea móvil. Atendiendo a como
+han sido enrollados en el eje los dos extremos de la cuerda que pasa por dicha polea,
+indique cuál será el movimiento de la carga P cuando se tire hacia abajo del extremo de
+la cuerda A marcado con la flecha:
+
+a)
+
+Subirá hasta que la polea móvil tope con el eje.
+
+b)
+
+Irá bajando lentamente.
+
+c)
+
+Permanecerá prácticamente inmóvil hasta caer cuando el extremo izquierdo de la
+cuerda enrollada en el eje se desenrolle completamente.
+
+d)
+
+No se puede determinar sin conocer los diámetros del sistema.
+
+66.-
+
+¿Qué tipo de servicio debe proporcionar RTVE según la Ley 17/2006?
+
+a)
+
+Servicios de información y de deportes nacionales.
+
+b)
+
+Servicios de información, educación y entretenimiento.
+
+c)
+
+Servicios de entretenimiento exclusivamente.
+
+d)
+
+Solo servicios informativos.
+
+67.-
+
+Para tallar un engranaje normalizado de módulo m=1,5 y 16 dientes, ¿cuál sería el
+diámetro más adecuado de barra de material base?
+
+a)
+
+20 mm.
+
+b)
+
+30 mm.
+
+c)
+
+40 mm.
+
+d)
+
+60 mm.
+
+Página: 23 de 31
+
+68.-
+
+¿Cuál es el artículo de la Constitución Española que dice: “Todos los españoles tienen
+derecho a disfrutar de una vivienda digna y adecuada. Los poderes públicos promoverán
+las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo
+este derecho, regulando la utilización del suelo de acuerdo con el interés general para
+impedir la especulación.?”
+
+a)
+
+El artículo 47.
+
+b)
+
+El artículo 55.2.
+
+c)
+
+El artículo 54.
+
+d)
+
+El artículo 43. Pero no establece nada que tengan que promover los poderes públicos.
+
+69.-
+
+¿Cómo debería ser el diámetro de la broca utilizada para taladrar una tuerca de rosca
+ISO?
+
+a)
+
+El diámetro exterior menos el paso.
+
+b)
+
+El diámetro exterior menos 0,75 de paso.
+
+c)
+
+El diámetro interior más el paso.
+
+d)
+
+El diámetro interior menos el paso.
+
+70.-
+
+¿Como se denomina la herramienta mostrada en la imagen?.
+
+a)
+
+Broca bidiametral.
+
+b)
+
+Escariador.
+
+c)
+
+Fresa de doble filo.
+
+d)
+
+Avellanador plano con espiga.
+
+71.-
+
+La rosca métrica de paso normal también se puede denominar con las siguientes siglas:
+
+a)
+
+SI.
+
+b)
+
+SIF.
+
+c)
+
+NF.
+
+d)
+
+PG.
+
+Página: 24 de 31
+
+72.-
+
+Para soldar aceros ordinarios. ¿Qué tipo de electrodos de los que figuran a continuación,
+son los más usados comúnmente?
+
+a)
+
+Básico.
+
+b)
+
+Rutilo.
+
+c)
+
+Celulósico.
+
+d)
+
+Ácido.
+
+73.-
+
+Analice la planta y alzado de la imagen e indique si el corte dibujado se corresponde
+correctamente con la pieza que representan las vistas.
+
+a)
+
+Para poder asegurar que el corte por el plano A-A es correcto es necesario contar con la
+representación isométrica o caballera de la pieza.
+
+b)
+
+Al corte dibujado le falta una línea.
+
+c)
+
+El corte dibujado no se corresponde con el plano A-A.
+
+d)
+
+El corte dibujado se corresponde correctamente con la pieza.
+
+74.-
+
+Según el articulo 148.1 de la Constitución Española, ¿Cuál de las siguientes
+competencias no puede asumir una comunidad autónoma?
+
+a)
+
+La gestión en materia de medio ambiente.
+
+b)
+
+Los puertos de refugio, los puertos y aeropuertos deportivos.
+
+c)
+
+La organización de sus instituciones de autogobierno
+
+d)
+
+El régimen aduanero y arancelario.
+
+Página: 25 de 31
+
+75.-
+
+¿Qué elemento se le añade al acero para darle dureza y tenacidad?.
+
+a)
+
+Manganeso.
+
+b)
+
+Cromo.
+
+c)
+
+Cobre.
+
+d)
+
+Fósforo.
+
+76.-
+
+En la soldadura con gas inerte mediante electrodo de tungsteno, al realizar una soldadura
+en ángulo se necesita metal de aporte. Indique donde se añade el metal y cuál es la
+longitud de arco D que normalmente debe mantener la persona que suelda.
+
+a)
+
+b)
+
+c)
+
+d)
+
+Se añade el metal en el extremo trasero del baño de soldadura, según el sentido de
+avance, manteniendo la longitud de arco D entre 2 y 5 milímetros.
+
+Se añade el metal en el extremo trasero del baño de soldadura, según el sentido de
+avance, manteniendo la longitud de arco D entre 1 y 3 milímetros.
+
+Se añade el metal en el extremo delantero del baño de soldadura, según el sentido de
+avance, manteniendo la longitud de arco D entre 1 y 3 milímetros.
+
+Se añade el metal en el extremo delantero del baño de soldadura, según el sentido de
+avance, manteniendo la longitud de arco D entre 2 y 5 milímetros.
+
+77.-
+
+Tenemos la siguiente definición: “Es la mayor o menor facilidad que presentan los
+sólidos, en especial los metales, de extenderse en hilos” ¿Qué propiedad del estado de
+los cuerpos es?
+
+a)
+
+Ductilidad.
+
+b)
+
+Tenacidad.
+
+c)
+
+Maleabilidad.
+
+d)
+
+Fragilidad.
+
+78.-
+
+¿Cuál de los siguientes aceros será un acero no aleado?.
+
+a)
+
+Aceros eutectoides.
+
+b)
+
+Aceros refractarios.
+
+c)
+
+Aceros rápidos.
+
+d)
+
+Aceros eléctricos.
+
+Página: 26 de 31
+
+79.-
+
+El mecánismo cuya función es la de impedir el giro de un árbol en un determinado
+sentido y favoreciéndolo en el otro. ¿Qué tipo de mecanismo será?
+
+a)
+
+Acoplamiento de embrague.
+
+b)
+
+Acoplamiento de Trinquete.
+
+c)
+
+Acoplamiento de platillos.
+
+d)
+
+Acoplamiento limitador de esfuerzo.
+
+80.-
+
+El matemático griego Arquímedes revolucionó la mecánica con la ley de la palanca y el
+punto de apoyo. También se le atribuye el invento de la máquina de la figura. Indique
+como se emplea.
+
+a)
+
+b)
+
+c)
+
+Se mueve la manilla en el sentido de giro de las agujas del reloj para elevar agua desde
+el rio.
+
+Se mueve la manilla en el sentido de giro contrario a las agujas del reloj para elevar
+agua desde el rio.
+
+La corriente del rio transmite movimiento a la hélice para generación eléctrica o para
+otras aplicaciones.
+
+d)
+
+Se mueve la manilla en el sentido de giro de las agujas del reloj  para evacuar agua.
+
+81.-
+
+¿Qué respuesta sería la siguiente definición?: “Sistema estándar utilizado por los
+fabricantes de televisión, que define la distancia expresada en milímetros de los 4
+orificios traseros, que sirven para el montaje de televisores mediante soportes
+universales”.
+
+a)
+
+Sistema TIZEN.
+
+b)
+
+Sistema VESA.
+
+c)
+
+Sistema ISO.
+
+d)
+
+Sistema DIN.
+
+Página: 27 de 31
+
+82.-
+
+La sonda de una botella de dióxido de carbono (CO2) tiene la función de:
+
+a)
+
+Medir el volumen de gas en la botella
+
+b)
+
+Medir la presión del gas en la botella.
+
+c)
+
+suministrar directamente de la botella el CO2 en fase líquida.
+
+d)
+
+Suministrar a través de la sonda el CO2 en estado gaseoso.
+
+83.-
+
+Indica de entre las siguientes definiciones cuál es la que se refiere a la medida nominal
+de una pieza:
+
+a)
+
+La mayor de las medidas admisible en fabricación.
+
+b)
+
+La menor de las medidas admisible en fabricación.
+
+c)
+
+La medida que se acota en el plano, más las tolerancias admitidas.
+
+d)
+
+El margen de error que se admite al mecanizar una pieza.
+
+84.-
+
+A la hora de seleccionar una plaquita para realizar un mecanizado, un ángulo de punta
+más grande se traduce en:
+
+a)
+
+Mayor debilidad de la plaquita.
+
+b)
+
+Menor disipación de calor.
+
+c)
+
+Más potencia de la máquina necesaria.
+
+d)
+
+Menor vibración.
+
+85.-
+
+¿A qué se está refiriendo la siguiente definición? “Representa el ancho de una zona,
+dentro de la cual, todas las piezas fabricadas serán correctas si sus medidas no
+sobrepasan sus límites”
+
+a)
+
+Medida práctica.
+
+b)
+
+Diferencia superior de media.
+
+c)
+
+Tolerancia de mecanización.
+
+d)
+
+Medida nominal.
+
+86.-
+
+De los siguientes gases, ¿cuál sería el más adecuado para emplear en soldaduras TIG?.
+
+a)
+
+Helio.
+
+b)
+
+Argón-Hidrógeno.
+
+c)
+
+Argón.
+
+d)
+
+Argón-Helio.
+
+Página: 28 de 31
+
+87.-
+
+Cuando se tiene que realizar un trabajo en altura, ¿a partir de qué altura se requiere el
+uso de equipos de protección contra caídas de altura?.
+
+a)
+
+Superior a 1 metro.
+
+b)
+
+Superior a 1,5 metros.
+
+c)
+
+Superior a 2 metros.
+
+d)
+
+Superior a 2,5 metros.
+
+88.-
+
+¿Qué función tiene un inserto helicoil?
+
+a)
+
+Para realizar escariados.
+
+b)
+
+Para remachar tuercas.
+
+c)
+
+Para facilitar el roscado.
+
+d)
+
+Para reparar roscas.
+
+89.-
+
+Siendo las ruedas directrices las más alejadas del manillar… ¿qué opción de distribución
+de la carga requerirá un menor esfuerzo en el manejo del carro?
+
+a)
+
+Opción A.
+
+b)
+
+Opción B.
+
+c)
+
+Opción C.
+
+d)
+
+Resulta indiferente.
+
+90.-
+
+¿Cuál es el principal objetivo de la Ley 8/2009,de 28 de agosto, para la Corporación de
+Radio y Televisión española?
+
+a)
+
+Reducir el numero de de canales de la Corporación de Radio y Televisión Española.
+
+b)
+
+Ampliar la programación de la Corporación de Radio y Televisión Española.
+
+c)
+
+Establecer el régimen de financiación de la Corporación de Radio y Televisión Española.
+
+d)
+
+Privatizar la Corporación de Radio y Televisión Española.
+
+Página: 29 de 31
+
+91.-
+
+Sí realizamos una planificación que consiste en establecer una sucesión ordenada de las
+operaciones necesarias que deben efectuarse para mecanizar una pieza hasta dejarla
+terminada, estaremos realizando:
+
+a)
+
+Proceso de mecanizado.
+
+b)
+
+Proceso de ejecución.
+
+c)
+
+Proceso de reiteración.
+
+d)
+
+Proceso de manipulación.
+
+92.-
+
+El II plan de Igualdad entre mujeres y hombres en la Corporación RTVE (2022_2026)
+indica en su procedimiento de garantía como mecanismo para la presentación de quejas
+o denuncias que éstas se realicen:
+
+a)
+
+b)
+
+c)
+
+d)
+
+Por escrito o correo electrónico y de forma anónima ante la Dirección de Recursos
+Humanos y Organización.
+
+Por escrito o correo electrónico y de forma no anónima ante la Dirección de Recursos
+Humanos y Organización.
+
+Exclusivamente por escrito y de forma no anónima ante la Dirección de Recursos
+Humanos y Organización.
+
+Exclusivamente por escrito y de forma anónima ante la Dirección de Recursos
+Humanos y Organización.
+
+93.-
+
+Los planos están normalizados y se ajustan a tamaños y normas. La denominación A1
+corresponde a:
+
+a)
+
+210 x 297 mm.
+
+b)
+
+594 x 841 mm.
+
+c)
+
+420 x 594 mm.
+
+d)
+
+297 x 420 mm.
+
+94.-
+
+Si la rueda R1 gira a 24 rpm, ¿a qué velocidad girará la rueda R3?
+
+a)
+
+36 rpm.
+
+b)
+
+48 rpm.
+
+c)
+
+54 rpm.
+
+d)
+
+60 rpm.
+
+Página: 30 de 31
+
+95.-
+
+¿Cuál es la fórmula correcta para calcular el ángulo de inclinación, en el que se debe
+colocar la herramienta en el torno, para la fabricación de un cono completo? (donde D =
+diámetro de la base del cono y h = altura del cono).
+
+a)
+
+α/2 = arc cos  D/h.
+
+b)
+
+α/2 = arc sen  D/2h.
+
+c)
+
+α/2 = arc tang  D/h.
+
+d)
+
+α/2 = arc tang  D/2h.
+
+96.-
+
+¿Cuál de los siguientes carros de una fresadora universal equivaldría al eje de abscisas
+en un sistema de coordenadas cartesianas?
+
+a)
+
+Carro transversal.
+
+b)
+
+Carro longitudinal.
+
+c)
+
+Carro vertical.
+
+d)
+
+Carro de división.
+
+Página: 31 de 31
+
+

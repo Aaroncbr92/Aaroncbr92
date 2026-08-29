@@ -1,0 +1,507 @@
+Ocupación tipo 
+TÉCNICA DE EQUIPOS Y SISTEMAS 
+ELECTRÓNICOS 
+
+INSTRUCCIONES 
+
+Se trata de una prueba teórico práctica escrita que consistirá en la resolución de 2 supuestos de 
+naturaleza  teórico-práctica  de  los  6  propuestos,  relacionados  con  el  contenido  específico  del 
+temario detallado en el punto 6 de las bases específicas de la convocatoria. 
+
+Para identificar de forma clara los 2 supuestos elegidos, tachen la hoja del enunciado con una 
+X de los supuestos descartados. 
+
+El sistema de valoración se encuentra detallado en el anexo 1 de la citación a esta prueba. 
+
+La prueba práctica se llevará a cabo mediante el “Sistema de Plica”.  
+
+o  Las  personas  aspirantes  deberán  escribir  sus  datos  identificativos  en  la  plica, 
+introducirla en el sobre pequeño y cerrarlo, a fin de preservar el anonimato de la prueba. 
+
+o  No se deberá escribir el nombre ni ningún otro dato identificativo en ninguno de los otros 
+materiales de los que se dispondrá durante el examen, en caso de hacerlo el examen 
+será invalidado. 
+
+o  Al  finalizar  la  prueba  los  aspirantes  deberán  introducir  dentro  del  sobre  grande,  los 
+
+siguientes documentos:  
+
+•  Las hojas de examen 
+
+•  Las hojas utilizadas como borrador, en caso de haberlas utilizado. 
+
+•  La  hoja  de  identificación  introducida  en  el  sobre  pequeño  y  debidamente 
+
+cerrado 
+
+Utilice  bolígrafo  (azul  o  negro)  y  responda  de  acuerdo  a  las  instrucciones  especificadas 
+anteriormente. 
+
+Se  ruega  el  uso  de  letra  legible  en  todo  el  examen  y  se  admite  el  uso  de  la  mayúscula.  Las 
+respuestas no legibles no serán calificadas.  
+
+Le  recordamos  que,  si  algún  dispositivo  suena  o  vibra,  aun  dentro  de  un  sobre,  tendrán  que 
+abandonar la prueba. 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E. 
+
+No se permite la reproducción total o parcial de este cuestionario 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SUPUESTO 1 
+
+Queremos diseñar la red para un centro territorial que tiene tres departamentos: Redacción, 
+Técnica  y  Administración.  La  red  principal  usa  la  dirección  192.168.10.0/24  y  debe  ser 
+segmentada  en  subredes  para  cada  departamento.  Esta  red  debe  poder  conectarse  a 
+internet y disponer de un punto de acceso wifi para invitados. 
+
+Apartado 1  
+Diseña un esquema de bloques representando la red del centro segmentada en subredes 
+para cada departamento (1 punto). 
+
+Apartado 2 
+Divide la red 192.168.10.0/24 en tres subredes optimizando el número de ip con el siguiente 
+número de dispositivos por departamento: 
+Redacción: 50 dispositivos 
+Técnica: 30 dispositivos 
+Administración: 20 dispositivos 
+Calcula la dirección de red y la primera y última dirección IP utilizable para cada subred. (1 
+punto). 
+
+Apartado 3 
+Indica la máscara de subred que le corresponde a cada una de las subredes obtenidas en 
+el apartado anterior. (0,5 punto) 
+
+El ejercicio se responderá en el espacio delimitado para ello. 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUPUESTO 2 
+
+Se requiere elaborar un diagrama de interconexión que represente un sistema de 3 cámaras 
+de estudio en un entorno televisivo basado en la interface HD-SDI, asegurando su correcta 
+integración con el flujo de trabajo de producción. Este flujo debe incluir la intercomunicación 
+entre operadores, señales de sincronización y de tally. 
+
+Cada señal de cámara debe estar disponible en una entrada del mezclador de video, (no se 
+requiere incluir la matriz de señales en la representación). En el diagrama deben reflejarse 
+el equipamiento necesario y los medios de transmisión de señal entre las diferentes áreas. 
+Además, en los controles deben representarse los elementos necesarios para la medición y 
+monitorado de señales. 
+
+Se  debe  plantear  la  distribución  del  equipamiento  en  las  siguientes  áreas:  Plató,  Sala  de 
+Aparatos, Control de Cámaras y Control de Realización. Se recomienda el uso de diagramas 
+de bloques para representar claramente las conexiones y la funcionalidad de cada elemento 
+dentro del sistema. 
+
+Realizar:  
+
+1. Representación clara y correcta de las cuatro áreas (Plató, Sala de Aparatos, Control de 
+Cámaras y Control de Realización), con identificación de los equipos necesarios, etiquetado 
+y denominación legible e interconexiones. (1 punto). 
+
+2. Uso adecuado de tipos de señales y cableado (0.5 puntos).  
+
+3.  Flujo  de  trabajo  organizado  y  funcional,  asegurando  una  interconexión  lógica  entre  el 
+equipamiento técnico de cada área (0.5 puntos). 
+
+4. Descripción breve y clara del diagrama, explicando la función de los equipos reflejados en 
+el mismo (0.5 puntos).  
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+
+ 
+ 
+ 
+ 
+SUPUESTO 3 
+
+Viendo es siguiente esquema de una fuente de alimentación de tipo “convencional”:  
+
+A.- Identifica los componentes de la fuente de alimentación (TI, RBI, Cl, Cl1) y describe la 
+función de cada componente en el circuito (1punto). 
+
+T1: 
+
+RB1: 
+
+C1: 
+
+CI1: 
+
+B.- Calcula la tensión que habrá entre extremos de la resistencia RL (0,5 puntos). 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C.- Dibuja la forma de onda en el punto 1 y masa del esquema (0,5puntos). 
+
+D.-Dibuja la forma de onda en el punto 2 y masa del esquema (0,5puntos). 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                       
+ 
+ 
+ 
+ 
+SUPUESTO 4 
+
+Enumera y describe 2 de los principales aparatos de control y medida utilizados en el ámbito 
+del broadcast para cada categoría: video, audio, RF, redes y electrónica. Explica su función, 
+algunas  de  las  señales  que  podemos  monitorizar y  menciona  un uso  práctico  de manera 
+muy concisa (2,5 puntos). 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+11 
+
+ 
+ 
+ 
+SUPUESTO 5 
+
+Describir el funcionamiento de un mezclador de video HD. 
+El desarrollo de la descripción ha de ser de un mezclador lo más actual posible, describiendo 
+los siguientes elementos y secciones (2,5 puntos). 
+
+-  Entradas (0,5 puntos). 
+-  Buses     (0,3 puntos). 
+-  Bancos Mezcla Efecto (0,3 puntos). 
+-  Procesado y efectos (0,3 puntos). 
+-  DSK de salida (0,3 puntos). 
+-  Configuraciones (0,3 puntos). 
+-  Salidas (video, señales auxiliares y de control) (0,5 puntos). 
+
+12 
+
+ 
+ 
+ 
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUPUESTO 6 
+
+Dibuja, mediante líneas las conexiones de audio de un montaje de un programa de radio en 
+exteriores donde no hay público. Habrá hasta tres invitados y un presentador principal, cada 
+uno  tendrá un  micro  y  unos  auriculares,  el audio  que  recibe el presentador tiene  que  ser 
+independiente del que reciban los invitados. No habrá realizador y solo un técnico de sonido 
+a cargo de la mesa de sonido. 
+
+Además,  un  pc  con  conexión  Dante  (ethernet),  y  2  codificadores  de  audio  IP  para  el 
+programa principal y coordinación. 
+
+No va a haber público por lo que no hay que poner monitorado de audio.  Dibuja sobre el 
+esquema los equipos e interconéctalos con líneas y flechas la dirección del audio. Hay que 
+añadir los equipos necesarios mediante un  dibujo rectangular y su nombre. No hace falta 
+indicar los cables de alimentación de los equipos ni los cables de ethernet de los códecs, 
+solo cables que transporten señales de audio. 
+
+• 
+
+Interconexión de equipos sobre el dibujo (1,5 puntos). 
+
+•  Añadir equipos necesarios (0,5 puntos). 
+
+•  Explicación del sistema (0,5 puntos). 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mesa de sonido 
+
+         Mesa de sonido 
+
+PC DANTE 
+
+Mic 1 
+
+Auriculares 1 
+
+Mic 2 
+
+Mic 3 
+
+Mic 4 
+
+Auriculares 2 
+
+Auriculares 3 
+
+Auriculares 4 
+
+15 
+
+Codec 1 
+
+Codec 2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

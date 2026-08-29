@@ -1,0 +1,891 @@
+Ocupación tipo
+
+Técnica Informática 
+ Práctico
+
+INSTRUCCIONES
+
+Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+La prueba está compuesta por 36 preguntas (30 preguntas principales más 6 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
+solo elegir UNA de las cuatro opciones.
+
+El sistema de valoración será el siguiente:
+
+Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+Cada pregunta no contestada, contestada de forma distinta a la indicada en las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+Recuerde anotar
+las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
+anteriormente facilitadas.
+
+Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+Tiempo máximo: 90 minutos.
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+                No se permite la reproducción total o parcial de este cuestionario.
+
+1.-
+
+En un controlador de dominio de Windows, existe la consola “Usuarios y equipos de
+Active Directory”. En ella, si accedemos a las Propiedades de un usuario, ¿cuál de los
+siguientes elementos NO se puede configurar ahí?
+
+a)
+
+La ruta de acceso al perfil del usuario.
+
+b)
+
+El script de inicio de sesión del usuario.
+
+c)
+
+Los Objetos de Directiva de Grupo (GPO) que se aplican al usuario.
+
+d)
+
+Los grupos del Directorio Activo a los que pertenece el usuario.
+
+2.-
+
+Se ha instalado un punto de acceso wifi IEEE802.11b en un plató con acceso limitado.
+¿Cuál debe ser las limitaciones que se deben transmitir a los usuarios?
+
+a)
+
+b)
+
+La red funcionará con alta velocidad y permitirá múltiples conexiones simultáneas sin
+problemas.
+
+La red solo permitirá la conexión de dispositivos con tecnología 5 GHz, evitando
+interferencias.
+
+c)
+
+No habrá restricciones en la conexión ni en el ancho de banda disponible.
+
+d)
+
+El acceso a la red puede ser lento, con interferencias y acceso en la banda 2.4 GHz.
+
+3.-
+
+¿Qué comando de un sistema Linux permite&nbsp;modificar un archivo sin abrirlo con un
+editor de texto.?
+
+a)
+
+pwd
+
+b)
+
+mod
+
+c)
+
+cat
+
+d)
+
+sed
+
+4.-
+
+En una base de datos relacional, detectamos datos redundantes en la tabla de clientes.
+¿Qué técnica debemos aplicar para optimizar el diseño y eliminar la redundancia de
+datos de dicha tabla?
+
+a)
+
+Fragmentación.
+
+b)
+
+Indexación.
+
+c)
+
+Normalización.
+
+d)
+
+Creación de claves foráneas redundantes.
+
+5.-
+
+Un usuario de una empresa informa que su ordenador no tiene acceso a la intranet de la
+empresa ni a internet. Después de verificar que el cable de red está correctamente
+conectado, ¿cuál sería el siguiente paso más adecuado para solucionar el problema?
+
+a)
+
+Comprobar la dirección IP del equipo con el comando ipconfig.
+
+b)
+
+Comprobar el enrutamiento NAT del switch al que está conectado el equipo.
+
+c)
+
+Desinstalar y volver a instalar el sistema operativo.
+
+d)
+
+Cambiar la dirección IP del equipo.
+
+Página: 1 de 12
+
+6.-
+
+En un proyecto J2EE, necesitamos gestionar la lógica de negocio y la persistencia de
+datos en una aplicación escalable. ¿Qué componente estándar de J2EE es más adecuado
+para este propósito?
+
+a)
+
+JavaServer Pages (JSP).
+
+b)
+
+Enterprise JavaBeans (EJB).
+
+c)
+
+Java Message Service (JMS).
+
+d)
+
+Java Naming and Directory Interface (JNDI).
+
+7.-
+
+De entre los siguientes ficheros XML, ¿cuál está bien formado?
+
+a)
+
+Opción A.
+
+b)
+
+Opción B.
+
+c)
+
+Opción C.
+
+d)
+
+Opción D.
+
+Página: 2 de 12
+
+8.-
+
+Estás codificando un script en Python 3.11 y, en un momento dado, necesitas comprobar
+si un número almacenado en la variable ‘num’ es par o no ¿Qué instrucción usarías en la
+consola de Python para realizar dicha evaluación?
+
+a)
+
+if num % 2 == 0: …
+
+b)
+
+if num / 2 == int(num / 2): …
+
+c)
+
+if (num // 2) * 2 ¡= num: …
+
+d)
+
+If num % 1 == 0: …
+
+9.-
+
+Una empresa tiene establecida una VPN para que sus empleados remotos accedan a los
+servidores internos de forma segura. Sin embargo, notan que la velocidad de conexión es
+lenta y hay alta latencia. ¿Cuál podría es la causa del problema?
+
+a)
+
+La VPN está utilizando direcciones IP privadas en lugar de públicas, lo que genera
+conflictos de red.
+
+b)
+
+La VPN está usando cifrado fuerte, lo que aumenta la sobrecarga del procesamiento.
+
+c)
+
+La VPN no está utilizando autenticación, lo que reduce la velocidad de conexión.
+
+d)
+
+La VPN está configurada en modo túnel, lo que impide la comunicación directa con los
+servidores.
+
+10.-
+
+¿En qué directorio se ubica el fichero hosts en el sistema operativo Windows 11?
+
+a)
+
+El fichero hosts es un fichero de sistemas Linux, no presente en un sistema Windows.
+
+b)
+
+C:\Windows\System32\etc\
+
+c)
+
+C:\etc\
+
+d)
+
+C:\Windows\System32\drivers\etc\
+
+11.-
+
+En HTML, usando la etiqueta Target= para asignar un comportamiento al clicar en un
+enlace, ¿qué atributo deberíamos usar para que el enlace se abra en una pestaña nueva
+del navegador?
+
+a)
+
+“_self”
+
+b)
+
+“_new”
+
+c)
+
+“_this”
+
+d)
+
+”_blank”
+
+Página: 3 de 12
+
+12.-
+
+En una aplicación Java, la clase 'Empleado' define atributos como nombre y salario,
+mientras que la clase 'Gerente' tiene esas propiedades y además define los atributos
+complemento salarial y responsabilidad específica. ¿Qué concepto de la Programación
+Orientada a Objetos es el más adecuado para modelar la relación entre la clase
+"Empleado" y la clase "Gerente"?
+
+a)
+
+Polimorfismo.
+
+b)
+
+Herencia.
+
+c)
+
+Encapsulamiento.
+
+d)
+
+Abstracción.
+
+13.-
+
+Tenemos la red 172.20.0.0, con máscara de red de 16 bits, y queremos dividirla en al
+menos 25 subredes. Cumpliéndose este requisito, el tamaño de las subredes debe ser el
+mayor posible, y el mismo para todas ellas. ¿Cuál sería la máscara de dichas subredes?
+
+a)
+
+255.224.0.0
+
+b)
+
+255.255.240.0
+
+c)
+
+255.255.255.128
+
+d)
+
+255.255.248.0
+
+14.-
+
+¿Qué resultado se obtendrá en pantalla al ejecutar el siguiente código de Python?
+
+a)
+
+25
+
+b)
+
+55
+
+c)
+
+24
+
+d)
+
+Se producirá un error de ejecución.
+
+Página: 4 de 12
+
+15.-
+
+En JavaScript (ES6+), ¿cuál es el resultado de “[...Array(5).keys()].slice(1, 2)”?
+
+a)
+
+[ ]
+
+b)
+
+[ 1 ]
+
+c)
+
+[ 0, 1 ]
+
+d)
+
+[ 1, 2 ]
+
+16.-
+
+Tenemos un servidor Linux que no responde y necesitamos reiniciarlo. ¿Qué comando
+tenemos que usar?
+
+a)
+
+redo
+
+b)
+
+shutdown -r now
+
+c)
+
+restart-sudo server
+
+d)
+
+ping localhost
+
+17.-
+
+En el programa que estás codificando en Python 3.11 es necesario definir un objeto
+perteneciente a la clase ‘tuple’ con 3 elementos ¿Qué instrucción te permite realizar
+dicha operación?
+
+a)
+
+var_tupla = (3)
+
+b)
+
+var_tupla = [9,6,3]
+
+c)
+
+var_tupla = (9,6,3)
+
+d)
+
+var_tupla = {a:1,b:2,c:3}
+
+18.-
+
+¿Qué distribución de Linux dispone de una suite completa de herramientas para la
+realización de tests de seguridad?
+
+a)
+
+Debian
+
+b)
+
+ArchLinux
+
+c)
+
+Fedora
+
+d)
+
+Kali Linux
+
+Página: 5 de 12
+
+19.-
+
+Un router R1 tiene la tabla de enrutamiento que se muestra. ¿Hacia dónde enruta R1 los
+datagramas que se dirigen a la dirección IP destino 172.16.40.131?
+
+a)
+
+Hacia el router R2.
+
+b)
+
+Hacia el router R3.
+
+c)
+
+Hacia el router R4.
+
+d)
+
+Hacia el router R5.
+
+20.-
+
+Se acaba de adquirir una cabina de almacenamiento formada por 8 discos. Inicialmente
+se configura en RAID 1, y de esta manera se obtiene una capacidad neta de 16 TiB. Pero
+antes de empezar a utilizarse, se decide cambiar a RAID 5. ¿Qué capacidad neta tendría
+después de este cambio?
+
+a)
+
+20 TiB
+
+b)
+
+28 TiB
+
+c)
+
+14 TiB
+
+d)
+
+24 TiB
+
+21.-
+
+¿Qué resultado nos mostrará la siguiente consulta SQL?
+SELECT * FROM empleados WHERE salario BETWEEN 5000 and 10000;
+
+a)
+
+Actualiza la tabla de empleados para cambiar el sueldo de 5000 a 10000.
+
+b)
+
+c)
+
+Devuelve un listado con todas las columnas de la tabla empleados y solo las filas con
+salario entre 5000 y 10000.
+
+Elimina los registros de la tabla salario con los códigos de empleados desde el 5000 al
+10000.
+
+d)
+
+Devuelve el nombre de empleado si gana menos de 5000 o más de 10000.
+
+22.-
+
+Tenemos una red formada por 30 estaciones, en la que seis de ellas funcionan como hub
+"k-full mesh". El resto de estaciones se distribuyen uniformemente entre los diferentes
+hubs, conectándose a los mismos. Teniendo en cuenta que k=6, ¿cuántos enlaces se
+establecen en total entre las 30 estaciones?
+
+a)
+
+29.
+
+b)
+
+39.
+
+c)
+
+180.
+
+d)
+
+144.
+
+Página: 6 de 12
+
+23.-
+
+En un ordenador, tenemos el conector receptáculo de la imagen. ¿De qué conexión se
+trata?
+
+a)
+
+HDMI
+
+b)
+
+USB tipo A
+
+c)
+
+e-SATA
+
+d)
+
+DisplayPort
+
+24.-
+
+Disponemos de un conmutador (switch) de capa 2 y un enrutador (router), ambos
+compatibles con el protocolo IEEE 802.1Q. Inicialmente NO se encuentran conectados
+entre sí. Cada uno de ellos tiene dos puertos Gigabit Ethernet libres. En el conmutador
+existen 2 VLANs, y queremos implementar el enrutamiento entre ambas. ¿Cómo
+podríamos hacerlo, empleando el menor número posible de puertos físicos en los
+dispositivos?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Configurando el enrutamiento directamente en el conmutador; con lo que no habría que
+utilizar ningún puerto para ello, ni tampoco el enrutador.
+
+Utilizando dos puertos del conmutador configurados como puertos de acceso,
+conectado cada uno de ellos a un puerto diferente del enrutador.
+
+Utilizando un puerto del conmutador configurado como puerto troncal
+conectado a un puerto del enrutador en el cual se configuren subinterfaces.
+
+(trunk),
+
+Utilizando un puerto del conmutador configurado como puerto de acceso, conectado a
+un puerto del enrutador en el cual se configuren subinterfaces.
+
+Página: 7 de 12
+
+25.-
+
+La consulta XPath “/biblioteca/libro[géneros/género='Fantasía']/@id” sobre el siguiente
+conjunto de datos, ¿de qué tipo de nodo son los dos resultados obtenidos?:
+
+a)
+
+De tipo texto: “1” y “2”.
+
+b)
+
+De tipo atributo: id=”1” e id=”2”.
+
+c)
+
+De tipo elemento: <libro id=”1”>...</libro> y <libro id=”2”>...</libro>.
+
+d)
+
+De tipo numérico: 1 y 2.
+
+26.-
+
+Trabajando en una consola bash de un sistema Linux, observas que un proceso se ha
+quedado bloqueado y está consumiendo excesiva cantidad de recursos, por lo que
+necesitas forzar su finalización ¿Qué secuencia de comandos de las presentadas a
+continuación debes ejecutar para realizar dicha acción?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Primero,
+finalización del proceso con el comando “kill -9 <id_proceso>
+
+localizar el
+
+id del proceso con el comando “ps aux”. Y, segundo, forzar la
+
+En primer
+bloqueado. En segundo lugar, ejecutar “rm -rf <proceso>”
+
+lugar, utilizar el comando “find <proceso>” para localidad el proceso
+
+A través de la consola bash no es posible realizar dicha operación. Se debe usar otra
+consola como ksh.
+
+Primero, utilizar el comando “tasklist | more” para localizar el
+segundo lugar, ejecutar el comando “taskkill /F /PID <id_proceso>
+
+id del proceso. En
+
+Página: 8 de 12
+
+27.-
+
+¿Para qué sirve el comando de Linux grep?
+
+a)
+
+Para buscar texto en un fichero a través de expresiones regulares.
+
+b)
+
+Para descargar archivos de internet a través de los protocolos FTP, HTTP o HTTPS.
+
+c)
+
+Para encontrar ficheros de texto almacenados en disco.
+
+d)
+
+Para modificar el nombre de un directorio.
+
+28.-
+
+Un administrador quiere crear múltiples máquinas virtuales en un servidor físico. ¿Qué
+software de los siguientes debe utilizar?
+
+a)
+
+Google Chrome.
+
+b)
+
+VirtualBox.
+
+c)
+
+Photoshop.
+
+d)
+
+Excel.
+
+29.-
+
+Dado el siguiente código en C para calcular el factorial de un número solicitado, ¿qué
+error tiene?
+
+a)
+
+Los tipos de datos son diferentes.
+
+b)
+
+No tiene errores.
+
+c)
+
+hu y lu no han sido declaradas.
+
+d)
+
+No incluye todos los factores para calcularlo.
+
+Página: 9 de 12
+
+30.-
+
+¿Qué resultado tendrá la ejecución del siguiente código PHP?
+
+a)
+
+Error de sintaxis.
+
+b)
+
+El resultado es: 0
+
+c)
+
+El resultado es: 14
+
+d)
+
+Bucle infinito.
+
+31.-
+
+Necesitamos saber el top 10 de programas con más audiencia del día 1 de enero de
+2025. Debes realizar una consulta para devolver dicho listado. La tabla a consultar se
+llama “audiencias”, donde se almacena las audiencias para cada programa por días. El
+campo para filtrar por fecha se llama “fecha” y la audiencia de cada programa se
+almacena en la columna “audiencia”. Por ejemplo:
+programa           fecha           audiencia
+TELEDIARIO 1   2025-01-01  5000000
+
+a)
+
+DROP audiencias WHERE fecha = ‘2025-01-01’;
+
+b)
+
+SELECT fecha FROM audiencias WHERE fecha = ‘2025-01-01’ LIMIT 10;
+
+c)
+
+SELECT * FROM audiencias WHERE fecha = ‘2025-01-01’ SORT BY audiencia DESC
+LIMIT 10;
+
+d)
+
+SELECT * FROM audiencias WHERE fecha = ‘2025-01-01’ SORT BY fecha;
+
+32.-
+
+Un desarrollador está implementando seguridad en una API y necesita restringir el
+acceso solo a usuarios autenticados. ¿Qué método de los siguientes es el más adecuado?
+
+a)
+
+Tokens de autenticación (JWT).
+
+b)
+
+Permitir acceso sin restricciones.
+
+c)
+
+Autenticación basada solo en cookies.
+
+d)
+
+Guardar credenciales en el cliente.
+
+33.-
+
+¿Cuál es el entorno de scripting y shell de línea de comandos para automatizar tareas
+administrativas de sistemas basados en Windows?
+
+a)
+
+cmd
+
+b)
+
+cmdShell
+
+c)
+
+PowerShell
+
+d)
+
+PowerScript
+
+Página: 10 de 12
+
+34.-
+
+Dada la salida del comando “ls -lrt” que puede verse en la imagen, ¿qué información se
+muestra?
+
+a)
+
+b)
+
+c)
+
+d)
+
+Permisos, número de enlaces al contenido, propietario, grupo, tamaño, fecha de
+creación y nombre.
+
+Permisos, número de enlaces al contenido, propietario, grupo, tamaño, fecha de
+modificación y nombre.
+
+Permisos, número de enlaces al contenido, administrador,
+modificación y nombre.
+
+tamaño,
+
+fecha de
+
+Permisos, nivel de ejecución, propietario, grupo, tamaño, fecha de modificación y
+nombre.
+
+35.-
+
+En ordenadores que tienen Windows 10 y Windows 11, queremos crear accesos directos
+que aparezcan a todos los usuarios en el Escritorio. ¿En qué carpeta tendrían que
+crearse?
+
+a)
+
+C:\Windows\Desktop
+
+b)
+
+C:\ProgramData\Microsoft\Windows\Desktop
+
+c)
+
+C:\Users\Public\Desktop
+
+d)
+
+C:\Users\Everyone\Desktop
+
+Página: 11 de 12
+
+36.-
+
+Dado el siguiente fragmento XML:
+<productos>
+<producto id="1">
+<nombre>Portátil</nombre>
+<precio>1200</precio>
+</producto>
+<producto id="2">
+<nombre>Tablet</nombre>
+<precio>300</precio>
+</producto>
+</productos>
+¿Cuál de las siguientes expresiones XPath selecciona todos los nombres de productos?
+
+a)
+
+//nombre
+
+b)
+
+//id/nombres
+
+c)
+
+/productos/id/nombre
+
+d)
+
+//productos/nombres
+
+Página: 12 de 12
+
+

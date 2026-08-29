@@ -1,0 +1,748 @@
+Ocupación tipo
+
+TÉCNICA DE EQUIPOS Y SISTEMAS ELECTRÓNICOS
+
+INSTRUCCIONES
+
+Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+La prueba está compuesta por 30 preguntas (25 preguntas principales más 5 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
+solo elegir UNA de las cuatro opciones.
+
+El sistema de valoración será el siguiente:
+
+Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+Cada pregunta no contestada, contestada de forma distinta a la indicada en las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+Recuerde anotar
+las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
+anteriormente facilitadas.
+
+Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+
+No se permite la reproducción total o parcial de este cuestionario.
+
+1.-
+
+En una producción de televisión en directo SIN robotizar, respecto a los ajustes desde el
+panel RCP. ¿Cuál de las siguientes afirmaciones es INCORRECTA respecto a sus
+posibilidades operativas?
+
+a)
+
+Controla el diafragma de la cámara para regular la cantidad de luz que entra en el
+sensor.
+
+b)
+
+Puede controlar el enfoque de manera remota.
+
+c)
+
+Ajusta el balance de blancos para mantener la coherencia de color entre todas las
+cámaras.
+
+d)
+
+Puede modificar el nivel de negro y la gamma para ajustar el contraste de la imagen.
+
+2.-
+
+Una instalación de fibra óptica tiene paneles con conectores SC UPC hembra.De los
+conectores de la figura, indica los que usarías con esos paneles.
+
+a)
+
+C 1.
+
+b)
+
+C 2.
+
+c)
+
+C 3.
+
+d)
+
+C 4.
+
+3.-
+
+Según el estándar T568B cuál es el código de color en un conector rj45
+
+a)
+
+Blanco-Naranja, Naranja, Blanco-verde, Azul, Blanco-azul, Verde, Blanco-Marrón, Marrón.
+
+b)
+
+Blanco-Azul, Azul, Blanco-verde, Naranja, Blanco-naranja, Verde, Blanco-Marrón, Marrón.
+
+c)
+
+Blanco-Naranja, Verde, Blanco-verde, Azul, Blanco-azul, Naranja, Blanco-Marrón, Marrón.
+
+d)
+
+Blanco-Naranja, Naranja, Blanco-Marrón, Marrón Blanco-verde, Azul, Blanco-azul, Verde.
+
+Página: 1 de 13
+
+4.-
+
+¿Para que se utiliza esta señal de barras y sus tonos?
+
+a)
+
+Ajustar el sincronismo vertical.
+
+b)
+
+Conocer el desfase entre componentes de video.
+
+c)
+
+Conocer el delay audio video.
+
+d)
+
+Ajustar la fase del audio estero.
+
+5.-
+
+Se mide, con un voltímetro, un amplificador operacional configurado como buffer y se
+obtienen los siguientes voltajes:• Vi=3V• Vo=2V¿Qué se puede concluir?
+
+a)
+
+Funciona correctamente.
+
+b)
+
+Está dañado, la salida debería ser 3V.
+
+c)
+
+No se puede verificar con un multímetro, se necesita un osciloscopio.
+
+d)
+
+Está saturado y su salida debería ser Vcc.
+
+Página: 2 de 13
+
+6.-
+
+Elige el conector adecuado para la acometida de una unidad móvil la cual requiere 3
+fases, N y conductor de protección.
+
+a)
+
+1.
+
+b)
+
+2.
+
+c)
+
+3.
+
+d)
+
+4.
+
+7.-
+
+¿Qué valor tiene la tensión V entre los puntos A y B?
+
+a)
+
+-1.6V.
+
+b)
+
+2.6V.
+
+c)
+
+-2.7V.
+
+d)
+
+1.3V.
+
+Página: 3 de 13
+
+8.-
+
+¿Cuál es el bitrate de una señal AES-10 que transporta señal de audio muestreada a
+48000 muestras por segundo?.
+
+a)
+
+125 Mbps
+
+b)
+
+Depende de la profundidad de muestra
+
+c)
+
+Depende del número de canales que transporte
+
+d)
+
+3,072Mbps
+
+9.-
+
+En la señal que estamos monitorando en el rasterizador, observamos en la ventana de
+WFM que entre las señales YPbPr aparecen unas representaciones como se ve en la
+figura. ¿Qué representan estas marcas?.
+
+a)
+
+Ruido que se genera por una mala sincronización de Pb y Pr.
+
+b)
+
+Información de metadata de la señal VALID.
+
+c)
+
+Patrón de sincronización SAV.
+
+d)
+
+Patrón de sincronización EAV y datos auxiliares correspondientes a audio embebido.
+
+Página: 4 de 13
+
+10.-
+
+Estamos haciendo pruebas de señales exteriores a nuestra instalación, para ello nos
+envían una señal Patológica o “Check Field” y observamos que en la zona “magenta /
+purpura” aparece un ruido impulsivo aleatorio como se muestra en la figura. ¿Esto qué
+nos indica?.
+
+a)
+
+Tenemos un problema de exceso de nivel de luminancia.
+
+b)
+
+Tenemos un problema de sincronización en las componentes Cr y Cb.
+
+c)
+
+Tenemos un problema de sincronización de reloj,
+
+d)
+
+Tenemos un problema de ecualización.
+
+11.-
+
+Con cuál de los siguientes elementos podríamos averiguar la polaridad de un altavoz sin
+conectarlo a una fuente de señal:
+
+a)
+
+Con un calibre.
+
+b)
+
+conectando una pila observando el movimiento del cono.
+
+c)
+
+Conectando un diodo polarizado.
+
+d)
+
+Conectando una lampara de 12v.
+
+12.-
+
+La imagen muestra una señal sinusoidal medida en un osciloscopio, en el eje Y (vertical)
+se representa la tensión: 500mV por división y en el eje X (horizontal) el tiempo: 200
+microsegundos por división; ¿Cuál es la frecuencia de la señal?.
+
+a)
+
+1 kHz
+
+b)
+
+2 kHz
+
+c)
+
+10 kHz
+
+d)
+
+20 kHz
+
+Página: 5 de 13
+
+13.-
+
+¿En qué posición debes colocar un multímetro (tester) para medir la continuidad de un
+componente o un cable?
+
+a)
+
+En voltímetro (V).
+
+b)
+
+En amperímetro (A).
+
+c)
+
+En capacitancia (F).
+
+d)
+
+En ohmímetro (Ω).
+
+14.-
+
+Tenemos que configurar un equipamiento conectado a una red distinta a la que nos
+encontramos, estas redes están enlazadas mediante routers y demás equipos de
+electrónica de red. Observamos que desde nuestro “PC Técnico” no llegamos al equipo a
+configurar. En otras ocasiones no tenemos problemas de conectividad y por lo tanto
+necesitamos encontrar donde se pierde nuestra conexión.¿Qué comando utilizaríamos
+en nuestro PC para intentar localizar donde falla nuestra conectividad con el equipo a
+configurar?.
+
+a)
+
+ipconfig.
+
+b)
+
+ping.
+
+c)
+
+tracert.
+
+d)
+
+netstat.
+
+15.-
+
+El personal de redacción de un centro de producción televisiva utiliza una aplicación de
+edición de noticias que opera bajo el concepto de "licencia flotante". ¿Cuál de las
+siguientes afirmaciones describe correctamente cómo funciona este tipo de licencia en
+el entorno de trabajo del redactor?
+
+a)
+
+b)
+
+c)
+
+Cada redactor necesita adquirir una licencia individual para usar la aplicación en su
+equipo personal.
+
+Las licencias flotantes permiten que varios redactores usen la aplicación
+simultáneamente, sin límite, en cualquier equipo de la red.
+
+Las licencias flotantes se comparten entre varios redactores, pero solo un número
+limitado de usuarios pueden usarlas a la vez, dependiendo de la cantidad de licencias
+adquiridas.
+
+d)
+
+Las licencias flotantes requieren una conexión a internet constante para funcionar, pero
+no limitan la cantidad de usuarios que pueden acceder a la aplicación.
+
+Página: 6 de 13
+
+16.-
+
+En una instalación fija de un estadio de futbol nos encontramos con este pequeño pach
+panel para conectar un par de cámaras. ¿Qué tipo de conectores se observan en los
+puertos etiquetados como CAM 3 y CAM 4?
+
+a)
+
+Conector BNC.
+
+b)
+
+Conector XLR.
+
+c)
+
+Conector RJ 45.
+
+d)
+
+Conector SMPTE híbrido de fibra óptica.
+
+17.-
+
+Comienzas a trabajar en un proyecto de edición con un software de postproducción
+digital en una versión del año 2024, y necesitas trasladarte a otra estación de edición que
+solo cuenta con la versión del año 2022. ¿Qué problema podrías encontrar al abrir el
+proyecto en esa última versión?
+
+a)
+
+b)
+
+c)
+
+d)
+
+No habrá ningún problema, ya que los archivos de proyecto son completamente
+compatibles entre versiones.
+
+El proyecto no se abrirá directamente, ya que las versiones anteriores no son
+compatibles con proyectos de versiones más nuevas.
+
+El software efectuará automáticamente un cambio de licencia para seguir trabajando
+en el proyecto.
+
+El software actualizará automáticamente la versión antigua para que sea compatible
+con el nuevo proyecto.
+
+Página: 7 de 13
+
+18.-
+
+¿Cuál es el valor de la resistencia del siguiente dibujo? (Marrón, rojo, negro y dorado)
+
+a)
+
+130 ohmios.
+
+b)
+
+300 ohmios.
+
+c)
+
+12 ohmios.
+
+d)
+
+21 ohmios.
+
+19.-
+
+Para hacer medidas de potencia de una serie de equipos de FM de 500W tenemos una
+carga 1kW con conector N hembra y un cable RG213U con conectores N macho en los
+extremos. Si los equipos a medir tienen el conector de salida de potencia de la imagen,
+¿qué transición necesitamos para poder adaptar el cableado y hacer las medidas?
+
+a)
+
+1 5/8” a N hembra.
+
+b)
+
+7/8” a N hembra.
+
+c)
+
+No hace falta transición.
+
+d)
+
+3 5/8” a N hembra.
+
+Página: 8 de 13
+
+20.-
+
+En una unidad móvil, se avería el distribuidor de código de tiempo LTC. Ante la falta de
+repuesto para solucionar el problema, disponemos en la instalación de distribuidores de
+referencia blackburst, de audio analógico, de SDI y de AES3 que no se están
+utilizando.Indicar cuál de estos distribuidores podemos usar para solucionar
+momentáneamente la avería hasta que el distribuidor de código de tiempo se repare.
+
+a)
+
+Distribuidor de referencia blackburst.
+
+b)
+
+Distribuidor de audio analógico.
+
+c)
+
+Distribuidor de SDI.
+
+d)
+
+Distribuidor de AES3.
+
+21.-
+
+Recibimos un equipo direccionado según la imagen adjunta ¿a qué número en decimal
+corresponde esta dirección siendo el bit 1 el de menor peso?
+
+a)
+
+234.
+
+b)
+
+16.
+
+c)
+
+425.
+
+d)
+
+300.
+
+22.-
+
+¿Cuál de los siguientes componentes se utiliza principalmente para filtrar una señal
+eléctrica, eliminando componentes de frecuencia no deseadas?
+
+a)
+
+Filtro pasivo (RC, LC).
+
+b)
+
+Diodo.
+
+c)
+
+Resistencia variable.
+
+d)
+
+Amplificador operacional.
+
+Página: 9 de 13
+
+23.-
+
+Tenemos un Monitor Forma de Onda digital (WFM) con una señal HD-SDI de Barras UER
+al 75% en su entrada, ¿En qué opción está configurado si muestra el gráfico de la
+imagen?.
+
+a)
+
+En “YPbPr” y “Parade”
+
+b)
+
+En “YPbPr” y “Overlay”
+
+c)
+
+En “RGB” y “Parade”
+
+d)
+
+En “RGB” y “Overlay”
+
+24.-
+
+¿Cuál de las siguientes afirmaciones es correcta al utilizar un osciloscopio para medir la
+señal de reloj (CLK) de un microprocesador, considerando un rango de frecuencias de
+señal de reloj entre 100 MHz y 5 GHz?
+
+a)
+
+Utilizar una sonda de baja impedancia para obtener una lectura precisa de la señal
+digital.
+
+b)
+
+Es recomendable usar una sonda de alta impedancia para evitar afectar la señal de reloj.
+
+c)
+
+No es necesario tener en cuenta la sonda, al estar apantallada, no afecta la señal.
+
+d)
+
+La sonda debe ser conectada directamente al bus de datos del microprocesador para
+eliminar ruido electromagnético.
+
+Página: 10 de 13
+
+25.-
+
+Desde una Continuidad de televisión se quiere emitir un programa previamente grabado y
+almacenado. El sistema de almacenamiento único del que dispone, que ya cuenta con
+redundancia interna,
+informa de un fallo en uno de sus discos. ¿Cuál sería el
+procedimiento más adecuado para garantizar la emisión del programa?
+
+a)
+
+Detener la emisión para realizar una reparación inmediata del disco afectado.
+
+b)
+
+c)
+
+d)
+
+Continuar
+disponibilidad de los datos.
+
+la emisión normalmente, ya que la redundancia interna garantiza la
+
+Copiar
+almacenamiento externo para evitar la pérdida de datos y emitir desde ahí.
+
+los programas
+
+inmediatamente
+
+críticos
+
+todos
+
+a otro sistema de
+
+Reiniciar el sistema de almacenamiento para intentar solucionar el fallo antes de
+continuar la emisión.
+
+26.-
+
+Calcula la potencia que entrega esta fuente de alimentación con una carga de 1k Ohm y 1
+Henrio
+
+a)
+
+120mW.
+
+b)
+
+144mW.
+
+c)
+
+135mW.
+
+d)
+
+1200mW.
+
+27.-
+
+Necesitamos una red que tenga 500 host. ¿Qué máscara de subred se ajusta más para no
+tener demasiados host libres?.
+
+a)
+
+255.255.254.0.
+
+b)
+
+255.255.248.0.
+
+c)
+
+255.255.255.0.
+
+d)
+
+255.255.255.128.
+
+Página: 11 de 13
+
+28.-
+
+¿Qué vemos en la imagen?
+
+a)
+
+Una media radiofrecuencia de 75MHz a 105MHz con cuatro marcadores donde hay
+señales de FM con potencia.
+
+b)
+
+La muestra de una señal de FM donde se aprecian las subportadoras de piloto y RDS.
+
+c)
+
+La muestra de una señal de FM donde se aprecian la subportadora de RDS.
+
+d)
+
+La muestra de una señal de FM donde se aprecian la subportadora de piloto.
+
+29.-
+
+Estás reparando un amplificador de audio que presenta un zumbido constante de 50 Hz
+en la salida. ¿Cuál de las siguientes causas es la más probable?
+
+a)
+
+Un condensador de filtrado en la fuente de alimentación defectuoso.
+
+b)
+
+Un transistor de salida en cortocircuito.
+
+c)
+
+Una resistencia de polarización abierta en la etapa de preamplificación.
+
+d)
+
+Un fusible quemado en la línea de alimentación de los altavoces.
+
+Página: 12 de 13
+
+30.-
+
+Los cables catalogados como CAT6 son:
+
+a)
+
+Cables coaxiales con el vivo de 6mm de sección.
+
+b)
+
+Cables con cuatro pares trenzados.
+
+c)
+
+Cables doble paralelo con dos vivos y una masa.
+
+d)
+
+Cables de fibra óptica multimodo.
+
+Página: 13 de 13
+
+

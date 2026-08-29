@@ -1,0 +1,1122 @@
+Ocupación tipo 
+ SONIDO 
+
+INSTRUCCIONES 
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+La prueba está compuesta por  96 preguntas, (80 preguntas principales más 16 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+Cada  pregunta  tiene  4  posibles  respuestas  alternativas  y  solo  UNA  respuesta  es  correcta;
+debe solo elegir UNA de las cuatro opciones.
+
+El sistema de valoración será el siguiente:
+
+o Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+o Cada  pregunta  no  contestada,  contestada  de  forma  distinta  a  la  indicada  en  las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+o Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+Recuerde  anotar  las  respuestas  en  su  HOJA  DE  RESPUESTAS  y  en  la  columna
+correspondiente.  Cualquier  respuesta  marcada  fuera  de  la  HOJA  DE  RESPUESTAS,  por
+ejemplo,  en  el  cuadernillo  de  la  prueba,  o  no  cumplimentada  de  acuerdo  con  estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+Utilice  bolígrafo  (azul  o  negro)  y  responda  de  acuerdo  a  las  instrucciones  específicas
+anteriormente facilitadas.
+
+Le recordamos, que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+TIEMPO MÁXIMO: 120 MINUTOS 
+
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E. 
+
+No se permite la reproducción total o parcial de este cuestionario 
+
+1. El derecho de expresión e información, según el artículo 55 de la CE:
+
+a) Se podrá suspender cuando se declare el estado de alarma.
+
+b) Se podrá suspender cuando se declare el estado de excepción o sitio.
+
+c) Se podrá limitar cuando se acuerde el estado de alarma.
+
+d) Se podrá limitar cuando se declare el estado de excepción o sitio.
+
+2. Según la Ley de Igualdad, ¿qué es el principio de presencia equilibrada?
+a) La necesidad de que las mujeres ocupen al menos el 40% de los cargos en los consejos de administración y otros
+
+órganos de decisión en las empresas.
+
+b) La obligación de que el 50% de los empleados de una empresa sean mujeres.
+
+c) La rotación de empleados en puestos de trabajo para garantizar igualdad de oportunidades.
+
+d) La imposición de horarios flexibles solo para mujeres trabajadoras.
+
+3. Según el III Convenio Colectivo de RTVE, ¿a qué personas se las considera en comisión de destino?:
+
+a) Ocupan puestos no permanentes en organismos oficiales, con carácter temporal.
+
+b) Ocupan puestos en otros centros de RTVE distintos al suyo, con carácter temporal.
+
+c) Al grupo formado por 14 representantes de la empresa y 7 de las personas trabajadoras.
+
+d) Permuta entre trabajadores de la misma ocupación tipo y con destinos en distintos.
+
+4. Según  el  III  Convenio  Colectivo  de  RTVE,  ¿cuál  es  el  número  máximo  de  días  que  se  pueden  trabajar  en  un
+
+periodo  de  14  días,  incluyendo  sábados,  domingos  y  festivos?
+
+a) 10 días.
+
+b) 11 días.
+
+c) 12 días.
+
+d) 14 días.
+
+5. Según la Constitución Española de 27 de diciembre de 2978, las cortes Generales están formadas por:
+a) El Congreso de los Diputados
+
+b) El Senado
+
+c) El Congreso de los Diputados y el Senado
+
+d)
+
+Jueces
+
+6. ¿ Cuántos días de libranza genera un fin de semana completo trabajado según el vigente Convenio Colectivo de la
+
+Corporación RTVE?
+
+a) Uno.
+
+b) Dos.
+
+c) Tres.
+
+d) Ninguno.
+
+7. ¿Qué tipo de protocolo se utiliza por normal general para audio en red?
+
+a) TCP/IP.
+
+b) TCP.
+
+c) UCP.
+
+d) UDP.
+
+8. ¿Cuál  es  la  duración  en  frames  de  13.440  muestras  en  un  sistema  que  trabaja  a  48  Khz  con  una  frecuencia  de
+
+video  de  25  frames  por  segundo?
+
+a) 11.
+
+b) 7.
+
+c) 1,7.
+
+d) 2.5.
+
+Página 1 de 13
+
+9. El seno de 90º sexagesimales es:
+
+a) 0.
+
+b) 0,5.
+
+c) 1.
+
+d)
+
+Infinito .
+
+10. ¿Qué tamaño máximo de Bed es permitido en Dolby Atmos?
+
+a) 7.1.2.
+
+b) 5.1.
+
+c) 9.1.6.
+
+d) 118.
+
+11. Para  un  circuito  con  5  ohmios  de  una  resistencia  que  necesita  3  amperios  de  corriente  para  funcionar,  el  voltaje
+
+requerido  sería  de:
+
+a) 0,6 V.
+
+b) 15 V.
+
+c) 0.6 W.
+
+d) 15 W.
+
+12. En  sonorización  en  directo,  si  lo  que  deseamos  es  eliminar  el  efecto  de  proximidad  utilizaremos  un  micrófono  de
+
+tipo:
+
+a) Omnidireccional.
+
+b) Bidireccional.
+
+c) Cardioide.
+
+d) Supercardioide.
+
+13. La capacidad de una caja acústica (bafle) se mide en:
+
+a) Litros.
+
+b) Faradios.
+
+c) µFaradios
+
+d) Watios.
+
+14. En un altavoz, ¿que indica cómo se distribuye su radiación en el espacio?
+
+a)
+
+Impedancia eléctrica.
+
+b) Directividad.
+
+c) Distorsión.
+
+d) Potencia.
+
+15. En una actuación un músico nos solicita un efecto de delay con una duración de corchea para un tema de métrica
+4/4  y  un  tempo  de  de  102  BPM  (1BPM=1  negra).  Elija  la  duración  mas  aproximada  del  efecto  expresada  en
+milisegundos.
+
+a) 920.
+
+b) 294.
+
+c) 588.
+
+d) 204.
+
+Página 2 de 13
+
+16. De  los  siguientes  modelos  de  micrófonos,  considerados  estándares  en  la  industria  del  audio.  ¿Cuál  de  ellos
+escogerías para sonorizar idealmente un bombo de una batería ejecutada por un instrumentista  de Trash-metal?
+
+a) SHURE  SM 58.
+
+b) SENNHEISER 441.
+
+c) AKG D112.
+
+d) SENNHEISER 416.
+
+17. ¿De qué tipo de distorsión estamos hablando si nuestro componente de audio no puede responder rápidamente a
+
+un cambio brusco y rápido de la señal, como un sonido percusivo?
+
+a) Distorsión de intermodulación.
+
+b) Distorsión armónica.
+
+c) Distorsión por transitorios.
+
+d) Distorsión por sobremodulación.
+
+18. ¿Cómo ha de estar diseñado un patch pannel para que al conectar un latiguillo en la entrada correspondiente a un
+
+equipo NO corte su salida, colocada idealmente en la hilera inferior de forma paralela a su entrada?
+
+a) Diseño normalizado.
+
+b) Diseño seminormalizado.
+
+c) Diseño no normalizado.
+
+d) Diseño balanceado inferior
+
+19. ¿Cuántos bits conforman una palabra de código de tiempo LTC para un solo fotograma?
+
+a) 80.
+
+b) 16.
+
+c) 64.
+
+d) 32.
+
+20. Un micro ambisónico de primer orden, ¿cuántas cápsulas tiene?
+a) 1.
+
+b) 4.
+
+c) 9.
+
+d) 16.
+
+21. El nivel de diferencia entre el nivel nominal y el punto de saturación que se debe tener en una mezcla de audio es:
+
+a) Masterización.
+
+b) Nivel de presión sonora.
+
+c) Rango dinámico.
+
+d) Headroom.
+
+22. El ajuste Make-Up de un compresor...
+
+a) Determina la posición en la cadena de audio.
+
+b) Filtra en agudos.
+
+c) Recupera ganancia.
+
+d) Determina el Knee.
+
+23. Cuál NO es un tipo de ecualizador:
+a) Semiparamétrico.
+
+b) Gráfico.
+
+c) Multibanda.
+
+d) Paramétrico.
+
+Página 3 de 13
+
+24. En un medidor de sonoridad con modo EBU, ¿a qué nivel tiene ajustada la puerta (gating) la escala Short-term?
+a)
+
+-18 LU.
+
+b)
+
+c)
+
+-10 LU.
+
+-70 LU.
+
+d) No está puerteada
+
+25. ¿Cuál de los siguientes cables puede usarse para protocolo Dante?
+a) 75 Ohm.
+
+b) Cat6.
+
+c) Coaxial.
+
+d) XLR.
+
+26. ¿Qué establece la recomendación EBU R 128 en el ámbito de la producción audiovisual?
+
+a) El formato de compresión de archivos de video.
+
+b) Los estándares de resolución para emisiones en alta definición.
+
+c) Las normas para la transmisión de programas en directo.
+
+d) La normalización del nivel de sonoridad en las emisiones de audio.
+
+27. El WordClock
+
+a) Sincroniza equipos digitales.
+
+b) Distribuye código de tiempo.
+
+c) Sólo sirve para equipos de video.
+
+d) Mantiene la hora en dispositivos.
+
+28. ¿Cuál es el método más eficiente para asegurar el funcionamiento correcto de un sistema MADI?
+
+a) Utilizar redundancia en el PTP (Precision Time Protocol).
+
+b) Configurar una red en estrella.
+
+c)
+
+Implementar rutas de transmisión redundantes.
+
+d) Ulitizar routers y switches verificados.
+
+29. Un diferencial salta cuando...
+
+a) El consumo es excesivo.
+
+b) No hay la misma intensidad entre hilos.
+
+c) Hay un cortocircuito.
+
+d) No coinciden las frecuencias.
+
+30. ¿Qué RETORNOS enviaremos a una conexión con exteriores que cuenta con 1 línea principal y 1 línea de reserva
+
+desde nuestro MÚLTIPLEX, siendo nosotros cabecera de nuestra emisora de radio, para no devolver señal?
+
+a) Retorno de programa ST en línea principal y retorno de programa ST en línea de reserva.
+
+b) Retorno N-1 en  línea principal y  retorno de programa ST en línea de reserva.
+c) Retorno  N-1  excluyendo  línea  de  reserva  a  línea  principal  y  retorno  N-1  excluyendo    línea  principal  a  línea  de
+
+reserva.
+
+d) Retorno de programa ST en línea  principal y  retorno N-1 excluyendo principal en línea de reserva.
+
+31. En un cable de altavoz tendremos más perdida de corriente si el altavoz conectado tiene un valor de :
+
+a) 4 ohmios .
+
+b) 8 ohmios .
+
+c) 16 ohmios .
+
+d) 32 ohmios .
+
+Página 4 de 13
+
+32. El dispositivo que distribuye la señal de un micrófono a varias salidas idénticas con el mismo nivel de señal es:
+
+a) Splitter de audio.
+
+b) Crossover de audio.
+
+c) Fader.
+
+d) Xternal live return.
+
+33. ¿Qué  tipo  de  superficies  favorecerán  en  mayor  medida  la  producción  de  ondas  estacionarias  en  una  sala  de
+
+conciertos?
+
+a) Aquellas paralelas y opuestas entre sí.
+
+b) Aquellas superficies cóncavas.
+
+c) Aquellas superficies convexas.
+
+d) Aquellas que sean muy absorbentes.
+
+34. ¿En qué consiste la disposición técnica de montaje cuasi coincidente conocido por ORTF?
+a) Dos micrófonos cardiodes en un mismo soporte, separados ente si por 177mm y con un ángulo de 110,55 grados
+
+a cada lado del centro.
+
+b) Dos  micrófonos cardiodes en un mismo soporte  con una separación de 300 mm a un ángulo de 90.
+
+c) Par estéreo con un ángulo de 90 con una separación de 200cm.
+
+d) Dos micrófonos hipercardiodes separados con 5 cm y un ángulo de 135.
+
+35. La resistencia que se ofrece a una corriente alterna debido a la capacidad, inductancia y resistencia de un circuito,
+
+se denomina:
+
+a) Resonancia.
+
+b) Capacitancia.
+
+c)
+
+Impedancia.
+
+d) Resistancia.
+
+36. Un DAW tiene una configuración de latencia de 128 muestras, ¿cúal será su latencia total en milisegundos (ms) si
+
+la frecuencia de muestreo es de 44.1 kHz?
+
+a) Latencia (ms)=128/44,1.
+
+b) Latencia (ms)=128*1000/44,1.
+
+c) Latencia (ms)=44,1*1000/128.
+
+d) Latencia (ms)=44,1/128*1000.
+
+37. ¿Qué significa el acronimo LUFS?
+
+a) Low Units Full Sound
+
+b) Loudness Unit Full Scale.
+
+c) Loudness Users Full Sound.
+
+d) Loudness Unit Frequency Scale
+
+38. Linkwitz-Riley es
+
+a) Un tipo de filtro de cruce.
+
+b) Un mezclador de micrófonos.
+
+c) Un Limpiador de voz.
+
+d) Conversor A/D.
+
+39. Las escalas temporales de un medidor de sonoridad con el modo EBU activado son:
+
+a) Small y Large
+
+b) Peak, Shell y Flat.
+
+c) M,S,I.
+
+d) Node,Cut.
+
+Página 5 de 13
+
+40. ¿Qué compresor actúa solo atenuando los niveles de entrada superiores a un nivel de referencia llamado umbral,
+
+mientras deja pasar inalteradas las señales de nivel inferior a dicho umbral?
+
+a) Compresor lineal.
+
+b) Compresor de ganancia constante.
+
+c) Compresor limitador.
+
+d) Compresor Rumble.
+
+41. ¿A qué banda de frecuencias corresponde la emisión de radio FM?
+
+a) Banda I.
+
+b) Banda II.
+
+c) Banda IV.
+
+d) Banda V.
+
+42. Tenemos dos mesas mezclando con las mismas señales fuente. El audio se ha duplicado para ambas con splitters
+
+pasivos sin ajuste alguno. ¿Cuál de las dos mesas tiene control sobre la ganancia de micro?
+
+a) Cada mesa tiene su propio nivel.
+
+b) La que esté más cerca.
+
+c) La que entrega la phantom.
+
+d) La que activa la función PAD.
+
+43. Si una red DANTE tiene 32 canales de audio bidireccionales funcionando a 48 kHz y 24 bits, ¿cuál es el ancho de
+
+banda total utilizado mas aproximado expresado en Megabits?
+
+a) 26 Mbps.
+
+b) 92 Mbps.
+
+c) 73 Mbps.
+
+d) 147 Mbps.
+
+44. ¿Cuál de los siguientes algoritmos de compresión de audio NO podríamos utilizar para hacer una llamada por IP, a
+
+través de un códec de transmisión de audio?
+
+a) PCM WAV a 44,1Khz, 1411 Kbits/s.
+
+b) DANTE 48 Khz,24 bits.
+
+c) MPEG-1 Layer II a 48 Khz, 384 Kbits/s.
+
+d) MPEG-1 Layer II a 48 Khz, 384 Kbits/s.
+
+45. Para qué utilizaremos idealmente un NOTCH FILTER procesando una señal de audio en un mezclador?
+
+a) Para evitar un acople con una megafonía.
+
+b) Para evitar diafonía entre canales.
+
+c) Para atenuar toda la banda de frecuencias medias de un bombo.
+
+d) Para quitar las P´S de una voz.
+
+46. Si conectamos 3 altavoces en paralelo de 8 ohmios, ¿Cuál sería la impedancia mas aproximada resultante?
+
+a) 8,5.
+
+b) 16,5.
+
+c) 4.5.
+
+d) 2,5.
+
+Página 6 de 13
+
+47. Se  envían  mediante  Dante  10  canales  en  modo  “unicast”  de  un  dispositivo  a  otro  usando  una  frecuencia  de
+
+muestreo  de  48  Khz  /24  bits.  El  ancho  de  banda  y  la  cantidad  de  flujos  utilizados  serán:
+
+a) 12 mbps y 1 flujo.
+
+b) 12 mbps y 2 flujos.
+
+c) 24 mbps y 3 flujos.
+
+d) 18 mbps y 3 flujos.
+
+48. Por definición, en un conector XLR 3pines, el cable “vivo” se conecta al pin:
+
+a) 1.
+
+b) 2.
+
+c) 3.
+
+d) Es indiferente
+
+49. La tensión de alimentación A-B (Tonader) es de:
+
+a) 12V.
+
+b) 24V.
+
+c) 48V.
+
+d) 110V
+
+50. El ruido rosa…
+
+a) Tiene una caída de caída de 6 dB por octava cada vez que se duplica la frecuencia.
+
+b) Es lineal porque tiene la misma energía en todas sus bandas.
+
+c) Se utiliza para enmascarar sonidos en entornos de trabajo.
+
+d) En el ruido rosa la energía disminuye a media que aumenta la frecuencia.
+
+51. ¿Cuál es la longitud máxima de transmisión recomendada de un cable categoría 5 para su uso en redes de audio?
+
+a) 100 metros.
+
+b) 20 metros.
+
+c) 280 metros.
+
+d) 600 metros.
+
+52. ¿Cuál es la máxima frecuencia de muestreo que se puede utilizar en AES67?
+a) 44.1 Khz.
+b) 96 Khz.
+c) 48 Khz.
+d) 192 Khz.
+
+53. ¿Qué indicación nos está dando nuestro locutor presentador en radio si levanta la mano haciendo círculos con el
+
+dedo índice hacia arriba, a la altura de la cabeza?
+
+a) Que pasemos al siguiente corte pactado en el guión.
+
+b) Que anulemos la siguiente conexión con el exterior.
+
+c) Que preparemos la siguiente música.
+
+d) Que hagamos una ráfaga.
+
+54. Una escucha de formato 5.1.4 significa
+
+a) 5 en plano horizontal, uno de efectos en baja frecuencia, y 4 en vertical.
+
+b) 5 altavoces frontales, uno de graves y 4 traseros.
+
+c) Ese formato no es estandar.
+
+d) Envolvente con 4 objetos.
+
+Página 7 de 13
+
+55. El conjunto de curvas que representan la sensibilidad del oído a diferentes frecuencias para todo el margen audible
+
+son:
+
+a) Curvas Isofónicas.
+
+b) Curvas NR.
+
+c) Curvas NC.
+
+d) Curva de Wegel.
+
+56. De  los  siguientes  tipos  de  compresor  y  por  norma  general,  ¿cuál  de  ellos  tiene  una  velocidad  superior  de
+
+respuesta?
+
+a) Optico.
+
+b) Clase A.
+
+c) Vari Mu.
+
+d) VCA.
+
+57. Los cables XLR destinados a transmisión de audio AES3, ¿qué impedancia debe tener?
+a) 0 Ohm.
+
+b) 75 Ohm.
+
+c) 110 Ohm.
+
+d) 120 Ohm.
+
+58. ¿Por medio de qué protocolo maneja DANTE la sincronización a través de reloj?
+
+a) SNTP.
+
+b) NPT.
+
+c) PTP.
+
+d) PPD.
+
+59. ¿En qué consiste una conexión en Dúplex N-1 entre dos mezcladores de audio?
+
+a) Aquella que sume dos señales o más restándole el primero de los canales, a la mezcla del envío.
+
+b) Aquella que envíe todas nuestras señales recibidas a la mezcla del envío.
+
+c) Aquella que evite posibles retardos entre los distintos codificadores.
+
+d) Aquella que envíe todas las señales todas las señales a la mezcla del envío, excepto la que nos envían.
+
+60. Si  dispones  de  dos  altavoces,  uno  ubicado  a  4  metros  y  otro  a  38  metros  de  un  oyente.  ¿Cuánto  delay  (en
+milisegundos)  deberías  aplicar  para  que  el  sonido  de  ambos  altavoces  llegue  al  mismo  tiempo  al  oyente?
+Considerando  que  el  sonido  viaja  a  340  metros  por  segundo.
+
+a) 40 ms al altavoz más lejano al oyente.
+
+b) 100 ms al altavoz más cercano al oyente.
+
+c) 120 ms al altavoz más cercano al oyente.
+
+d) 50 ms al altavoz más lejano al oyente.
+
+61. De forma estandar, el MADI óptico es
+
+a) Monomodo.
+
+b) Multimodo.
+
+c) Coaxial.
+
+d) BNC.
+
+62. ¿Qué forma tiene el diagrama polar ideal de un micrófono bidireccional?
+
+a)
+
+Infinito.
+- Infinito.
+
+b)
+c) Forma de 8.
+d) De corazón o manzana.
+
+Página 8 de 13
+
+63. ¿Cuál es el ángulo de salida «nula» de un micrófono hipercardioide siendo 0º en su eje de captación?
+a) 0º.
+
+b) 90º.
+
+c) 110º.
+
+d) 180º.
+
+64. En un programa de radio cuyos locutores se sientan unos al lado de los otros, ¿Qué tipo de micrófono sería más
+
+recomendable utilizar para cada uno de ellos?
+
+a) Supercardioides.
+b) Omnidirecccionales.
+c) Cardioides.
+d) Bidireccionales.
+
+65. En la escala de decibelios se suelen emplear como valores de referencia, en el aire y a una temperatura de…
+
+a) 0 grados centígrados.
+
+b) 10 grados centígrados.
+
+c) 20 grados centígrados.
+
+d) 30 grados centígrados.
+
+66. Un altavoz tiene una sensibilidad 90 dBw/m. ¿Qué significa esta especificación?
+a) El altavoz produce un nivel de presión sonora de 90 dB  cuando se le suministra 1 vatio de potencia y se mide a
+
+un 1 metro de distancia.
+
+b) El altavoz puede manejar una potencia máxima de 90 dB cuando se le suministran 10 vatios de potencia eléctrica
+
+y se mide a 1 metro de distancia.
+
+c) El altavoz necesita un mínimo de 1 vatio de potencia eléctrica para poder generar 90 vatios de potencia acústica a
+
+1 metro de distancia.
+
+d) El  altavoz  produce  un  valor  constante  de  THD  cuando  con  10  vatios  de  potencia  eléctrica  genera  90  dB  de
+
+presión  sonora  con  medición  registrada  a  1  metro  desde  la  fuente.
+
+67. Si un amplificador tiene una distorsión armónica total (THD) especificada de 0.1%, ¿qué significa este dato?
+a) Que el amplificador generara una distorsión mínima del 0.1% en armónicos impares.
+
+b) Que el 0.1% de la señal será ruido.
+
+c) Que el 0.1% de la señal consiste en armónicos no presentes en la señal de entrada.
+
+d) Que el amplificador distorsionara 1 de cada 100 dB SPL
+
+68. ¿Cuál es el rango dinámico teórico máximo que puede alcanzar una señal de audio digital de 16 bits?
+
+a) 48 dB.
+
+b) 64 dB.
+
+c) 96 dB.
+
+d) 120 dB.
+
+69. ¿Cuál es el máximo valor truepeak aceptado por la norma R128?
+
+a)
+
+b)
+
+c)
+
+d)
+
+-18 dBTP.
+
+-23 Lufs
+
+-1 dBTP
+
+-10 dBTP
+
+Página 9 de 13
+
+70. Un  amplificador  de  potencia  en  el  que  la  tensión  de  polarización  y  la  amplitud  máxima  de  la  señal  de  entrada
+poseen valores tales que hacen que la corriente de salida circule durante menos de un semiperiodo de la señal de 
+entrada es un amplificador que funciona en clase:
+
+a) A.
+
+b) B.
+
+c) AB.
+
+d) C.
+
+71. El Digital Audio Broadcasting (DAB+)
+
+a) Consigue mayor calidad de audio utilizando el códec AC3+ v2.
+
+b) Por el momento NO transporta metadatos.
+
+c) La corrección de errores Reed-Solomon hace más robusta la señal de audio.
+
+d) Sólo se contemplan redes nacionales de frecuencia única.
+
+72. ¿Qué es el Protocolo Dante en la industria del audio?
+
+a) Un protocolo de enrutamiento para la mezcla de audio analógico.
+
+b) Un protocolo utilizado para sincronizar video y audio en postproducción.
+
+c) Un protocolo que permite la transmisión de señales de audio y control a través de una red Ethernet.
+
+d) Un sistema de transmisión de audio inalámbrico de corto alcance.
+
+73. ¿Qué ocurre si una red Dante presenta alta latencia?
+
+a) El sonido se vuelve más agudo.
+
+b) Se introduce un retraso entre la reproducción de las señales de audio, lo que afecta la sincronización.
+
+c) Se incrementa la calidad de la señal de audio.
+
+d) La señal se transmite a mayor velocidad a través de la red.
+
+74. ¿Qué describe la Ley de Ohm en relación con sistemas de audio?
+
+a) La relación entre tensión, corriente y resistencia en un circuito eléctrico.
+
+b) La relación entre frecuencia y tono percibido.
+
+c) La relación entre la longitud de onda y la velocidad del sonido.
+
+d) La diferencia entre corriente alterna y corriente continua.
+
+75. Digital Audio Network Through Ethernet (DANTE)
+
+a) Permite transmisiones de datos unicast y multicast.
+
+b) Puede trabajar hasta con 256 canales de entrada y 256 de salida.
+
+c) Es un sistema tan potente que NO necesita un equipo master en red.
+
+d) Los canales de audio tienen una resolución de 16 bits y frecuencia de muestreo de 48 kHz.
+
+76. ¿Qué es un conmutador (switch) en una red Dante?
+
+a) Un dispositivo que permite la conexión de múltiples dispositivos en una red, gestionando el tráfico de datos.
+
+b) Un dispositivo que selecciona diferentes frecuencias de audio.
+
+c) Un equipo que amplifica la señal de red para llegar a largas distancias.
+
+d) Un dispositivo que convierte la señal digital en analógica.
+
+77. El protocolo Multichannel Audio Digital Interface (MADI)
+
+a) Permite la conexión de hasta 64 canales de audio.
+
+b) Transmite los datos a distancias de hasta 50 metros.
+
+c) Utiliza un cable de transmisión coaxial de 125 ohmios.
+
+d) Transmite audios de 24 bits de resolución y 128 kHz de muestreo.
+
+Página 10 de 13
+
+78. ¿Qué define el “efecto de proximidad” en los micrófonos?
+
+a) El aumento de las frecuencias graves cuando la fuente de sonido está muy cerca del micrófono.
+
+b) La reducción de las frecuencias altas cuando la fuente de sonido se aleja del micrófono.
+
+c) La mejora en la calidad de la señal al alejarse de la fuente.
+
+d) La eliminación de ruido de fondo cuando la fuente está lejos del micrófono.
+
+79. Según el III Convenio Colectivo de RTVE el horario nocturno está comprendido entre:
+
+a) Las 22:00 y las 06:00.
+
+b) Las 22:00 y las 07:00.
+
+c) Las 00:00 y las 06:00.
+
+d) Las 00:00 y las 07:00.
+
+80. Según el III Convenio Colectivo de RTVE, los trabajadores sometidos a jornadas de variabilidad horaria, ¿cuántas
+
+horas deberán de realizar como mínimo en la jornada de trabajo?
+
+a) 6.
+
+b) 5.
+
+c) 4.
+
+d) 7 .
+
+81. ¿Qué caracteriza al sistema de sonido Dolby Atmos frente a otros formatos de sonido envolvente?
+
+a) La capacidad de enviar señales de audio a 5 canales de sonido específicos.
+b) Utiliza  un  enfoque  basado  en  objetos  de  audio,  permitiendo  que  los  sonidos  se  coloquen  y  se  muevan  en
+
+cualquier  parte  tridimensional  del  espacio,  incluidos  los  canales  superiores.
+
+c) Se limita a reproducir sonido solo en altavoces de pared, excluyendo altavoces de techo.
+
+d) Funciona exclusivamente en salas de cine y no es compatible con sistemas domésticos.
+
+82. ¿Qué herramienta es fundamental para medir la impedancia en un circuito de audio?
+
+a) Osciloscopio.
+
+b) Sonómetro.
+
+c) Preamplificador.
+
+d) Multímetro.
+
+83. ¿Con qué códec de compresión, el audio no sufre pérdida de calidad?
+
+a) AAC.
+
+b) OPUS.
+
+c) AC3.
+
+d) FLAC.
+
+84. ¿Qué tipo de corriente suministran las redes eléctricas domésticas en la mayoría de los países europeos?
+
+a) Corriente continua (DC) a 110 V.
+
+b) Corriente alterna (AC) a 230 V.
+
+c) Corriente continua (DC) a 230 V.
+
+d) Corriente alterna (AC) a 110 V.
+
+85. Según el III Convenio Colectivo de RTVE, ¿cuántas personas componen el Comité de Seguridad y Salud Laboral?
+
+a) 22
+
+b) 16
+
+c) 32
+
+d) 10
+
+Página 11 de 13
+
+86. Según el III Convenio Colectivo de RTVE, un requisito indispensable para solicitar traslado voluntario en RTVE es:
+
+a) Permanencia mínima de 10 años en tu centro de trabajo
+
+b) Permanencia mínima de 20 años en tu centro de trabajo
+
+c) Permanencia mínima de 1 año en tu centro de trabajo, o dos en segundos traslados y sucesivos.
+
+d) Permanencia mínima de 5 años
+
+87. El tono piloto de una transmisión FM en estéreo:
+
+a) Es un tono de 44,1 KHz .
+
+b) Es un tono de 19 KHz .
+
+c) Es un tono de 24 KHz.
+
+d) Es un tono de 48 KHz .
+
+88. En un altavoz electrodinámico, la fidelidad aumenta si:
+
+a) La araña asegura un estrecho contacto de la bobina móvil con el imán permanente y el yugo.
+
+b) Aprovechamos las vibraciones de los altavoces, transmitidas a la carcasa del bafle.
+
+c) El campo magnético del imán permanente es lo más ligero posible.
+
+d) La relación entre longitud de la bobina móvil y su número de espiras es la acertada.
+
+89. La unidad de presión de sonido en el Sistema Internacional se denomina:
+
+a) Newton.
+b) Milibar.
+c) W/ cm2.
+d) Pascal.
+
+90. La diferencia en decibelios entre una señal con una amplitud de 1 voltios y una de 2 voltios es de:
+
+a) 3 dB.
+
+b) 6 dB.
+
+c) 2 dB.
+
+d) 1 dB.
+
+91. En un ecualizador paramétrico, ¿a cuántas octavas correspondería aproximadamente un factor Q de 1,41?
+
+a) El Q solo existe en los ecualizadores gráficos.
+
+b) 1/2 octava.
+
+c) 1 octava.
+
+d) 1/3 de octava.
+
+92. Si se tiene un archivo de audio estéreo con una frecuencia de muestreo de 44.1 kHz, una profundidad de bits de 16
+
+bits por muestra y una duración de 5 minutos. ¿Cuántos megabytes (MB) ocupará este archivo de audio?
+
+a) Aproximadamente 10 MB.
+b) Aproximadamente 20 MB.
+c) Aproximadamente 50 MB.
+d) Aproximadamente 400 MB.
+
+93. ¿Qué  tipos  de  enlaces  NO  podríamos  utilizar  para  hacer  una  conexión  por  IP  entre  dos  audios  códecs  para
+
+establecer  una  conexión  bidireccional?
+
+a) Ethernet  por acceso FFTH, conectado a internet pública.
+
+b) 3G/4G/5G.
+
+c) Por satélite BGAN/ THURAYA /BANDA Ka.
+
+d) Enlace microondas por transmisión DAB.
+
+Página 12 de 13
+
+94. En  una  grabación  musical,  si  el  micrófono  A  capta  una  señal  con  un  nivel  de  presión  sonora  de  80  dB  SPL  y  el
+micrófono  B  capta  la  misma  señal  a  74  dB  SPL,  ¿cuál  es  la  relación  mas  aproximada  de  amplitud  de  la  señal
+captada  por  el  micrófono  A  en  comparación  con  el  micrófono  B?
+
+a) 4 veces mas fuerte.
+
+b) 6 veces mas fuerte.
+
+c) 8 veces mas fuerte.
+
+d) 2 veces mas fuerte.
+
+95. ¿Qué tolerancia de desviación permite la EBU en la medición de LUFS para programas en directo?
+
+a) +-0,5dBs.
+
+b) +-1dB.
+
+c)
+
+d)
+
+-23dBs.
+
+-1dBFS.
+
+96. Si  queremos  hacer  un  downmix  y  poder  decodificar  las  señal  trasera  y  central  posteriormente,  ¿qué  tipo  de
+
+downmix  hay  que  hacer?
+
+a) Lo - Ro.
+
+b) Lt - Rt.
+
+c) Mono.
+
+d) No puede hacerse.
+
+Página 13 de 13
+
+
