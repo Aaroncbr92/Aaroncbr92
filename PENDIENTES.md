@@ -70,3 +70,22 @@ _(vacío)_
   concreta, no.
 - **Gravedad**: menor, y además es dato de actualidad, que solo cuenta en
   Información y Contenidos.
+
+### 2026-08-29 · Segunda errata en una plantilla oficial de respuestas
+
+- **Dónde**: `convocatoria/examenes/79_plantilla_de_respuestas_produccion_asist.txt`,
+  pregunta 51 del cuadernillo de Producción (Asistencia) de octubre de 2024.
+- **Qué dice**: a la pregunta «¿cuántos miembros del Consejo Asesor son designados
+  por el Consejo de Consumidores y Usuarios?» responde **a) Tres**.
+- **Qué debería decir**: **b) Dos**. Los **tres** son los que designa el **Consejo
+  Económico y Social**.
+- **Fuente**: artículo 23.2 de la Ley 17/2006, redacción vigente a 21/12/2022,
+  letras a) y b), leídas en el texto consolidado `BOE-A-2006-9958`.
+- **Comprobado que no es un desajuste de nuestra lectura**: en esa misma plantilla,
+  la pregunta 1 responde «b» al artículo 44 de la Constitución —el acceso a la
+  cultura, que es correcto—, la 50 responde «c» a la hoja de script y la 39
+  responde «d» al reparto seis y cuatro de la Ley 5/2017. La numeración está
+  alineada; el error es de la plantilla.
+- **Gravedad**: induce a error. Quien estudie por las plantillas aprenderá mal el
+  artículo 23. **El tema no se ha cambiado para que cuadre con ella**, y lo dice
+  expresamente en el epígrafe del Consejo Asesor.

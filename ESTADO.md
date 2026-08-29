@@ -92,8 +92,9 @@ en Documentación y en Producción (Asistencia).
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
 - [ ] Comprobar si hay acuerdos del Convenio Colectivo posteriores a 2022.
-- [ ] Temas 2 y 3 del general: Ley 17/2006 y Ley 5/2017, ya volcadas a `fuentes/`
-      en la redacción del corte.
+- [ ] Temas 4 y 5 del general: Ley 8/2009 de financiación y III Convenio Colectivo.
+      El Convenio son 117 páginas de BOE y tiene 108 preguntas en el banco: es el
+      más pesado del bloque común.
 
 ## Qué comprobación pasa por qué material
 
@@ -103,6 +104,8 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Tema | Investigar | Redactar | Verificar | Refutar 1 | Rematar | Refutar 2 | Preguntas |
 |---|---|---|---|---|---|---|---|
 | General 1 · Constitución | sí | sí | sí | sí | sí | sí, limpia | 87 de 89 enteras |
+| General 2 · Ley 17/2006 | sí | sí | sí | sí | sí | sí, limpia | 32 de 32 enteras |
+| General 3 · Ley 5/2017 | sí | sí | sí | sí | sí | sí, limpia | incluidas en las 32 |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
