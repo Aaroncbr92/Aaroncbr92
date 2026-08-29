@@ -387,8 +387,17 @@ sancionado por acciones u omisiones que **en el momento de producirse** no
 constituyan **delito, falta o infracción administrativa** según la legislación
 vigente entonces. Las penas privativas de libertad y las medidas de seguridad
 estarán **orientadas hacia la reeducación y reinserción social** y **no podrán
-consistir en trabajos forzados**. **La Administración civil no podrá imponer
-sanciones que, directa o subsidiariamente, impliquen privación de libertad.**
+consistir en trabajos forzados**.
+
+El condenado a pena de prisión que la estuviere cumpliendo **gozará de los
+derechos fundamentales de este Capítulo**, **a excepción de los que se vean
+expresamente limitados por el contenido del fallo condenatorio, el sentido de la
+pena y la ley penitenciaria**. Y **en todo caso** tendrá derecho a **un trabajo
+remunerado y a los beneficios correspondientes de la Seguridad Social**, así como
+**al acceso a la cultura y al desarrollo integral de su personalidad**.
+
+**La Administración civil no podrá imponer sanciones que, directa o
+subsidiariamente, impliquen privación de libertad.**
 
 **Artículo 26.** Se **prohíben los Tribunales de Honor** en el ámbito de la
 Administración civil y de las organizaciones profesionales.
@@ -470,8 +479,9 @@ deberán ser democráticos**.
 **Artículo 37. Negociación colectiva y conflicto colectivo.** La ley garantizará
 el derecho a la **negociación colectiva laboral** y la **fuerza vinculante de los
 convenios**. Se reconoce el derecho de **trabajadores y empresarios** a adoptar
-**medidas de conflicto colectivo**, con garantías para el **funcionamiento de los
-servicios esenciales de la comunidad**.
+**medidas de conflicto colectivo**; la ley que regule su ejercicio, **sin perjuicio
+de las limitaciones que puedan establecer**, incluirá las garantías precisas para
+asegurar el **funcionamiento de los servicios esenciales de la comunidad**.
 
 Aquí está la base constitucional del III Convenio Colectivo de RTVE, que es el
 tema 5 de este mismo temario general.
@@ -849,9 +859,11 @@ para su ejercicio; **se agota por el uso** que haga el Gobierno mediante la
 publicación de la norma; **no cabe concederla de modo implícito ni por tiempo
 indeterminado**, ni **permitir la subdelegación**. Las leyes de bases **no pueden
 autorizar la modificación de la propia ley de bases** ni **facultar para dictar
-normas con carácter retroactivo** (art. 83). Cuando una proposición de ley o
-enmienda sea contraria a una delegación en vigor, **el Gobierno puede oponerse a
-su tramitación** (art. 84). Las disposiciones del Gobierno con legislación delegada
+normas con carácter retroactivo** (art. 83). Y **sin perjuicio de la competencia propia de los
+Tribunales**, **las leyes de delegación podrán establecer en cada caso fórmulas
+adicionales de control** (art. 82.6). Cuando una proposición de ley o enmienda sea
+contraria a una delegación en vigor, **el Gobierno puede oponerse a su
+tramitación** (art. 84). Las disposiciones del Gobierno con legislación delegada
 se llaman **Decretos Legislativos** (art. 85).
 
 **Artículo 86. Decretos-leyes.** En caso de **extraordinaria y urgente necesidad**,
@@ -1140,7 +1152,8 @@ pronunciarán en audiencia pública.**
 **Artículo 122. Consejo General del Poder Judicial.** La **ley orgánica del poder
 judicial** determina la constitución, funcionamiento y gobierno de Juzgados y
 Tribunales y el estatuto de los Jueces y Magistrados de carrera, que **formarán un
-Cuerpo único**. El CGPJ es el **órgano de gobierno del Poder Judicial** y está
+Cuerpo único**. El Consejo General del Poder Judicial (CGPJ) es el **órgano de
+gobierno del Poder Judicial** y está
 integrado por:
 
 - el **Presidente del Tribunal Supremo, que lo preside**, y
@@ -1158,7 +1171,8 @@ Veinte más el Presidente: **veintiuno** en total. Cinco años, no cuatro ni sei
 materia de garantías constitucionales**. Su **Presidente lo nombra el Rey a
 propuesta del Consejo General del Poder Judicial**.
 
-**Artículo 124. Ministerio Fiscal.** Tiene por misión **promover la acción de la
+**Artículo 124. Ministerio Fiscal.** **Sin perjuicio de las funciones
+encomendadas a otros órganos**, tiene por misión **promover la acción de la
 justicia en defensa de la legalidad, de los derechos de los ciudadanos y del
 interés público tutelado por la ley**, de oficio o a petición de los interesados,
 así como **velar por la independencia de los Tribunales** y **procurar ante éstos
@@ -1253,7 +1267,7 @@ Estado, según el artículo 34 de la Ley 17/2006.
 2. **El Estado y las Comunidades Autónomas no podrán incurrir en un déficit
    estructural** que supere los márgenes establecidos, en su caso, **por la Unión
    Europea**. Una **ley orgánica** fijará el déficit estructural máximo en relación
-   con el PIB. **Las Entidades Locales deberán presentar equilibrio
+   con el **producto interior bruto** (PIB). **Las Entidades Locales deberán presentar equilibrio
    presupuestario** —a ellas no se les fija un margen de déficit: se les exige
    equilibrio—.
 3. El Estado y las Comunidades Autónomas **han de estar autorizados por ley para
@@ -1280,10 +1294,18 @@ cuentas y de la gestión económica del Estado y del sector público**. **Depend
 directamente de las Cortes Generales** y ejerce sus funciones **por delegación de
 ellas** en el examen y comprobación de la **Cuenta General del Estado**. Las cuentas
 del Estado y del sector público estatal **se rinden al Tribunal y son censuradas
-por éste**; el Tribunal remite a las Cortes un **informe anual**. Sus miembros
-gozan de **la misma independencia e inamovilidad** y están sometidos **a las mismas
-incompatibilidades que los Jueces**. Una **ley orgánica** regula su composición,
-organización y funciones.
+por éste**. Y **sin perjuicio de su propia jurisdicción** —el Tribunal de Cuentas
+no solo fiscaliza: **enjuicia la responsabilidad contable**—, remite a las Cortes
+Generales un **informe anual** en el que, cuando proceda, **comunicará las
+infracciones o responsabilidades en que a su juicio se hubiere incurrido**. Sus
+miembros gozan de **la misma independencia e inamovilidad** y están sometidos **a
+las mismas incompatibilidades que los Jueces**. Una **ley orgánica** regula su
+composición, organización y funciones.
+
+Las dos caras —**fiscalización** y **enjuiciamiento de la responsabilidad
+contable**— son justo lo que se pregunta: en el examen de Información y Contenidos
+de 2024 las otras tres opciones ofrecían al Tribunal de Cuentas como órgano
+asesor, gestor o consultivo del sector público.
 
 Le corresponde el **control externo de la Corporación RTVE** (artículo 41 de la Ley
 17/2006), y los miembros de su Consejo de Administración tienen la condición de
@@ -1357,6 +1379,12 @@ Autónomas.** Los Estatutos pueden prever **convenios entre Comunidades para la
 gestión y prestación de servicios propios**, con comunicación a las Cortes; **en
 los demás supuestos, los acuerdos de cooperación necesitan autorización de las
 Cortes Generales**.
+
+**Artículo 146. Elaboración del proyecto de Estatuto.** Lo elabora **una asamblea
+compuesta por los miembros de la Diputación u órgano interinsular de las provincias
+afectadas y por los Diputados y Senadores elegidos en ellas**, y se eleva a **las
+Cortes Generales para su tramitación como ley**. Es la vía del artículo 143; la del
+artículo 151 tiene su propio procedimiento, más abajo.
 
 **Artículo 147. Estatutos de Autonomía.** Son la **norma institucional básica** de
 cada Comunidad, y el Estado **los reconocerá y amparará como parte integrante de su
@@ -1463,7 +1491,9 @@ en todo caso, supletorio** del de las Comunidades Autónomas.
 - **150.1, ley marco**: las Cortes, en materias de competencia estatal, pueden
   atribuir a todas o alguna de las Comunidades la facultad de **dictar normas
   legislativas para sí mismas** en el marco de principios, bases y directrices
-  fijados por una ley estatal.
+  fijados por una ley estatal. **Sin perjuicio de la competencia de los
+  Tribunales**, **cada ley marco establecerá la modalidad del control de las Cortes
+  Generales** sobre esas normas.
 - **150.2, ley orgánica de transferencia o delegación**: el Estado puede
   **transferir o delegar** facultades de titularidad estatal **susceptibles por su
   naturaleza** de transferencia o delegación, previendo la **transferencia de
@@ -1554,9 +1584,9 @@ político o en un sindicato y el empleo al servicio de los mismos**; **el ejerci
 de las carreras judicial y fiscal**; y **cualquier actividad profesional o
 mercantil**.
 
-No confundir con el Consejo General del Poder Judicial: **el TC son doce, nueve
-años, renovación por tercios cada tres**; el **CGPJ, veinte más el Presidente,
-cinco años**.
+No confundir con el Consejo General del Poder Judicial: **el Tribunal
+Constitucional son doce, nueve años, renovación por tercios cada tres**; el
+**CGPJ, veinte más el Presidente, cinco años**.
 
 **Artículo 160. Presidencia.** El **Presidente** lo nombra **el Rey entre sus
 miembros, a propuesta del propio Tribunal en pleno, por un período de tres años**.

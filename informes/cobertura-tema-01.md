@@ -21,6 +21,17 @@ después los cuatro textos, de modo que emparejar letra y texto a ojo puede
 engañar —hay que mirar el orden—, y en uno de ellos la plantilla oficial trae una
 errata, anotada en `PENDIENTES.md`.
 
+## Corrección posterior, del 29/08/2026
+
+Esta prueba se pasó **antes** de las refutaciones y dio por contestada una
+pregunta que el tema **no** contestaba: la del Tribunal de Cuentas de Información
+y Contenidos, cuya respuesta correcta es «fiscalización del sector público **y
+enjuiciamiento de la responsabilidad contable**». El tema recogía la
+fiscalización y se había dejado la jurisdicción contable, que está en el «sin
+perjuicio de su propia jurisdicción» del artículo 136.2. Lo destapó la lente de
+exactitud normativa, no esta prueba. Está corregido, y la cuenta de arriba se
+sostiene ahora de verdad.
+
 ## Lo que la prueba destapó, y se corrigió
 
 1. **Las competencias de los artículos 148 y 149 no estaban.** Dos preguntas piden
