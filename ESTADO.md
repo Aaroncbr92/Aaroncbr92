@@ -64,6 +64,11 @@ en Documentación y en Producción (Asistencia).
 - [x] `herramientas/boe.py --fecha AAAAMMDD`: lee la ley como estaba ese día.
 - [x] Las tres lentes de refutación, automatizadas y reutilizables en cualquier
       tema: `refutar_exactitud.py`, `refutar_modo.py` y `refutar_prosa.py`.
+- [x] **`boe.py` avisa de la vacatio**: si un bloque existe en el texto publicado pero su
+      entrada en vigor es posterior a la fecha leída, el volcado deja **el rótulo con el
+      aviso y la fecha**, y el resumen los enumera. Antes los omitía en silencio y el rastro
+      quedaba solo en el `.tsv`: en la Ley 13/2022 eran **quince bloques**, dos de ellos
+      preguntados en el examen.
 - [x] `herramientas/refutar_documento.py`: cuarta lente, para temas cuya fuente **no es
       articulado** (un plan, una guía, un manual). Contrasta cada negrita y **cada cifra**
       contra el texto completo de las fuentes. Hace falta porque las lentes por artículo
@@ -112,7 +117,6 @@ en Documentación y en Producción (Asistencia).
 
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
-- [ ] Tema 7 del general: **Ley 13/2022** general de comunicación audiovisual.
 - [ ] Tema 8 del general: **Ley 31/1995** de prevención de riesgos laborales.
 
 ## Qué comprobación pasa por qué material
@@ -128,6 +132,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 4 · Ley 8/2009 | sí | sí | sí | sí | sí | sí, limpia | 23 de 23 enteras |
 | General 5 · III Convenio Colectivo | sí | sí | sí | sí | sí | sí, limpia | 84 de 84 enteras |
 | General 6 · Igualdad | sí | sí | sí | sí | sí | sí, limpia | 39 de 39 enteras |
+| General 7 · Ley 13/2022 | sí | sí | sí | sí | sí | sí, con 11 salvedades declaradas | 34 de 34 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
@@ -166,3 +171,11 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   buenas las lentes por artículo; y **se dice en el tema** que si RTVE sustituyera el fichero
   no quedaría rastro del anterior. Lo mismo valdrá para el Manual de estilo y el Código de
   autorregulación del menor de los temarios específicos.
+
+- **2026-08-29 · Qué se hace cuando parte de la norma aún no estaba en vigor al corte.** La
+  Ley 13/2022 escalona su entrada en vigor en ocho reglas (DF novena) y **quince bloques no
+  eran exigibles el 21/12/2022**, entre ellos los artículos 102 y 115, que el tribunal
+  preguntó en 2024. Se estudia **la ley entera**: la fecha de corte congela **el texto**, que
+  en esta ley no ha cambiado ni una palabra desde su publicación, y lo diferido era la
+  **exigibilidad**. El programa lo respalda al citar el «texto inicial». En el volcado al
+  corte esos bloques llevan **aviso expreso**, y el tema explica la distinción.

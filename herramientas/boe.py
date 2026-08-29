@@ -195,7 +195,7 @@ def cmd_norma(norma, destino):
               "No se edita a mano. Si hace falta refrescarlo, se vuelve a volcar.",
               ""]
     parte = ["bloque\ttitulo\tredacciones\tvigencia\tpublicacion\tnorma\taviso"]
-    avisos, multiples, alarmas = [], [], []
+    avisos, multiples, alarmas, vacatio = [], [], [], []
 
     for bid, titulo in bloques:
         if not bid:
@@ -210,6 +210,19 @@ def cmd_norma(norma, destino):
         if not aplicables:
             parte.append("%s\t%s\t%d\t\t\t\tNINGUNA EN VIGOR AL CORTE"
                          % (bid, titulo, len(versiones)))
+            # el bloque existe en el texto publicado pero su vacatio no ha
+            # vencido al corte. Si solo se anota en el parte, el volcado que se
+            # lee queda con un hueco invisible justo donde puede haber pregunta:
+            # se deja el rótulo con el aviso y la fecha en que entra en vigor
+            entra = min(fecha(v, "fecha_vigencia") for v in versiones)
+            cuerpo.append("## [%s] %s" % (bid, titulo))
+            cuerpo.append("")
+            cuerpo.append("_**No estaba en vigor a la fecha leída (%s).** El texto "
+                          "existe en la norma publicada, pero su entrada en vigor es "
+                          "el %s. Léelo en el volcado de la redacción vigente._"
+                          % (corte(), entra))
+            cuerpo.append("")
+            vacatio.append("%s (%s): entra en vigor el %s" % (bid, titulo, entra))
             continue
         elegida = max(aplicables, key=lambda v: fecha(v, "fecha_vigencia"))
         pub_max = max(fecha(v, "fecha_publicacion") for v in aplicables)
@@ -248,6 +261,14 @@ def cmd_norma(norma, destino):
     print("texto            : %s" % f_texto)
     print("parte             : %s" % f_parte)
     print()
+    if vacatio:
+        print()
+        print("*** %d bloques NO estaban en vigor a la fecha leída ***" % len(vacatio))
+        print("    Están en el texto publicado, pero su vacatio no había vencido.")
+        print("    En el volcado va el rótulo con el aviso, no el texto.")
+        for x in vacatio:
+            print("  ! %s" % x)
+        print()
     print("Preceptos con más de una redacción (%d): léelos enteros." % len(multiples))
     for m in multiples:
         print("  - %s" % m)

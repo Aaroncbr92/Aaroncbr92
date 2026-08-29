@@ -17,7 +17,26 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
-_(vacío)_
+### 2026-08-29 · Cuándo entró en vigor la modificación de la Ley 8/2009 por la Ley 13/2022
+
+- **Dónde**: tema 4 del general, artículo 2.1 de la Ley 8/2009, y tema 7, disposición final
+  cuarta de la Ley 13/2022.
+- **Qué dice hoy**: el tema 4 recoge, entre los recursos de financiación de RTVE, la
+  aportación de **los prestadores del servicio de intercambio de vídeos a través de
+  plataforma**, que introdujo la Ley 13/2022.
+- **La discordancia**: la **disposición final novena de la Ley 13/2022** dice que **«la
+  disposición final cuarta entrará en vigor en el ejercicio 2023»**, es decir **después** de
+  la fecha de corte. Pero el **texto consolidado de la Ley 8/2009 que publica el propio BOE**
+  data la nueva redacción del artículo 2.1 **desde el 9 de julio de 2022**, atribuyéndola a
+  la Ley 13/2022. Dos fuentes oficiales, dos fechas.
+- **Qué debería decir**: probablemente lo que dice —la lectura razonable es que el BOE
+  consolida **el texto** con la regla general y reserva a 2023 los **efectos económicos** de
+  la aportación—, pero **no está comprobado**. Si aparece una resolución o nota del BOE que
+  lo aclare, se cita.
+- **Fuente**: DF novena de `BOE-A-2022-11311`, leída literal; y el volcado de
+  `BOE-A-2009-13988` a 21/12/2022, que marca la redacción como vigente desde 20220709.
+- **Gravedad**: menor para el examen —ninguna pregunta del banco depende de la fecha—, pero
+  afecta a qué redacción del artículo 2 de la Ley 8/2009 es la examinable.
 
 ## Aplicados
 

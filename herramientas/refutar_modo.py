@@ -16,7 +16,9 @@ import unicodedata
 # el subjuntivo cuenta: «cuando no pueda compensar» es tan potestativo como «podrá»,
 # y sin él la lente daba por cambiado el modo verbal donde no lo estaba
 PODER = r"\b(podr[áa]n?|puede[n]?|pueda[n]?|pudiera[n]?|potestativ\w+|facultad\w*)\b"
-DEBER = r"\b(deber[áa]n?|debe[n]?|deba[n]?|obligator\w+|exigir[áa]|requerir[áa]|habr[áa] de|ha de|han de)\b"
+# "están obligados a" es tan imperativo como "deberán", y sin él la lente daba
+# por impuesto lo que la norma sí impone (art. 98 de la Ley 13/2022)
+DEBER = r"\b(deber[áa]n?|debe[n]?|deba[n]?|debiendo|obligator\w+|obligad[oa]s?|exigir[áa]|requerir[áa]|habr[áa] de|ha de|han de)\b"
 SALVO = r"\b(salvo|excepto|a excepci[oó]n|sin perjuicio|no obstante)\b"
 
 
@@ -28,6 +30,11 @@ def limpia(s):
 
 def articulos(fuente):
     fuera = {}
+    # el índice del BOE devuelve a veces "Artículo\xa02" con espacio duro.
+    # Si no se normaliza, el patrón no reconoce ni un artículo y la lente
+    # devuelve "0 comprobadas, 0 no literales": un tema sin revisar que se
+    # lee como impecable (manual, apartado 10)
+    fuente = re.sub(r"[              　]", " ", fuente)
     for m in re.finditer(r"^## \[[^\]]+\] Artículo (\d+)$\n\n_.*?_\n\n(.*?)(?=\n## |\Z)",
                          fuente, re.S | re.M):
         fuera[int(m.group(1))] = limpia(m.group(2))
@@ -40,10 +47,15 @@ def bloques(tema):
     # de los que solo se comprobaba el primero. Un artículo no comprobado sale
     # impecable, que es peor que salir con hallazgos.
     marcas = list(re.finditer(
-        r"(?:\*\*|(?m:^)#{2,4} )(?:Artículos?|Arts?\.) ?(\d+)"
-        r"(?: y (\d+))?(?: a (\d+))?[.,: ]", tema))
+        r"(?:\*\*|(?m:^)#{2,4} )(?:[Aa]rtículos?|[Aa]rts?\.) ?(\d+)(?!\.\d|\.[ºª])"
+        r"(?: y (\d+))?(?: a (\d+))?[.,: *]", tema))
     cortes = [m.start() for m in re.finditer(r"(?m)^#{2,4} |^---$", tema)]
     fuera = {}
+    # un tema cita artículos de otras normas ("el artículo 4 de la Ley 17/2006").
+    # Si esas remisiones abren bloque, el bloque se llena con texto ajeno y la
+    # comprobación se hace contra el artículo equivocado
+    marcas = [m for m in marcas
+              if not re.match(r"[^.]{0,40}?\bde la [Ll]ey\b", tema[m.end():m.end() + 60])]
     for i, m in enumerate(marcas):
         sig = marcas[i + 1].start() if i + 1 < len(marcas) else len(tema)
         cand = [c for c in cortes if c > m.start()]

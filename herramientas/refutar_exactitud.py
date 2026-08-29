@@ -23,6 +23,11 @@ def limpia(s):
 
 def articulos(fuente):
     fuera = {}
+    # el índice del BOE devuelve a veces "Artículo\xa02" con espacio duro.
+    # Si no se normaliza, el patrón no reconoce ni un artículo y la lente
+    # devuelve "0 comprobadas, 0 no literales": un tema sin revisar que se
+    # lee como impecable (manual, apartado 10)
+    fuente = re.sub(r"[              　]", " ", fuente)
     patron = r"^## \[[^\]]+\] Artículo (\d+)$\n\n_.*?_\n\n(.*?)(?=\n## |\Z)"
     for m in re.finditer(patron, fuente, re.S | re.M):
         fuera[int(m.group(1))] = limpia(m.group(2))
@@ -37,13 +42,18 @@ def trozos(tema):
     # larga, los artículos abreviados no abren bloque y sus negritas se
     # comprueban contra el artículo anterior, que es el error de atribución
     marcas = list(re.finditer(
-        r"(?:\*\*|(?m:^)#{2,4} )(?:Artículos?|Arts?\.) ?(\d+)"
-        r"(?: y (\d+))?(?: a (\d+))?[.,: ]", tema))
+        r"(?:\*\*|(?m:^)#{2,4} )(?:[Aa]rtículos?|[Aa]rts?\.) ?(\d+)(?!\.\d|\.[ºª])"
+        r"(?: y (\d+))?(?: a (\d+))?[.,: *]", tema))
     # el bloque de un artículo termina en el siguiente artículo, en el siguiente
     # encabezado o en la siguiente raya: si no se acota, el último artículo se
     # traga el resto del tema y todo lo de después sale marcado como suyo
     cortes = [m.start() for m in re.finditer(r"(?m)^#{2,4} |^---$", tema)]
     fuera = []
+    # un tema cita artículos de otras normas ("el artículo 4 de la Ley 17/2006").
+    # Si esas remisiones abren bloque, el bloque se llena con texto ajeno y la
+    # comprobación se hace contra el artículo equivocado
+    marcas = [m for m in marcas
+              if not re.match(r"[^.]{0,40}?\bde la [Ll]ey\b", tema[m.end():m.end() + 60])]
     for i, m in enumerate(marcas):
         candidatos = [c for c in cortes if c > m.start()]
         fin = min([marcas[i + 1].start()] if i + 1 < len(marcas) else [len(tema)]
