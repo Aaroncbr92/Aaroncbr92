@@ -64,6 +64,15 @@ en Documentación y en Producción (Asistencia).
 - [x] `herramientas/boe.py --fecha AAAAMMDD`: lee la ley como estaba ese día.
 - [x] Las tres lentes de refutación, automatizadas y reutilizables en cualquier
       tema: `refutar_exactitud.py`, `refutar_modo.py` y `refutar_prosa.py`.
+- [x] `herramientas/convenio_dump.py`: reconstruye el articulado del convenio en
+      vigor superponiendo el acuerdo de 2022 sobre el texto de 2020, con la forma
+      que esperan las lentes. Hace falta porque **el convenio no es legislación
+      consolidada**: el BOE no publica texto refundido y `boe.py` no sirve.
+- [x] **Descubierto que partes del convenio solo existen como imagen** en el BOE:
+      la tabla de niveles del artículo 65 y los anexos 1, 2 y 3 completos. No están
+      en el HTML ni en la transcripción de texto, y su ausencia no da ningún aviso.
+      Descargadas a `fuentes/convenio/imagenes/`, con el artículo 65 y el anexo 3
+      transcritos.
 - [x] Ley 17/2006 y Ley 5/2017 volcadas a `fuentes/`, en la redacción de hoy y en
       la del corte 21/12/2022. Entre una y otra cambian **11 bloques** de la Ley
       17/2006: arts. 4, 10, 11, 12, 15, 16, 20 y 24 y tres disposiciones
@@ -92,10 +101,13 @@ en Documentación y en Producción (Asistencia).
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
 - [ ] Comprobar si hay acuerdos del Convenio Colectivo posteriores a 2022.
-- [ ] Tema 5 del general: **III Convenio Colectivo**. Son 117 páginas de BOE y
-      tiene 108 preguntas en el banco: el más pesado del bloque común. Y no es
-      legislación consolidada, así que `boe.py` no sirve: hay que trabajar sobre el
-      PDF.
+- [ ] **Transcribir los anexos 1 y 2 del convenio** (tablas salariales e
+      incompatibilidades de complementos) si en algún momento hacen falta. Están
+      descargados en `fuentes/convenio/imagenes/` pero sin transcribir: son importes
+      que las Leyes de Presupuestos actualizan y el banco no pregunta por ellos.
+- [ ] Tema 6 del general: **igualdad** (II Plan de Igualdad y Guía).
+- [ ] Tema 7 del general: **Ley 13/2022** general de comunicación audiovisual.
+- [ ] Tema 8 del general: **Ley 31/1995** de prevención de riesgos laborales.
 
 ## Qué comprobación pasa por qué material
 
@@ -108,6 +120,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 2 · Ley 17/2006 | sí | sí | sí | sí | sí | sí, limpia | 32 de 32 enteras |
 | General 3 · Ley 5/2017 | sí | sí | sí | sí | sí | sí, limpia | incluidas en las 32 |
 | General 4 · Ley 8/2009 | sí | sí | sí | sí | sí | sí, limpia | 23 de 23 enteras |
+| General 5 · III Convenio Colectivo | sí | sí | sí | sí | sí | sí, limpia | 84 de 84 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
@@ -119,3 +132,21 @@ recuento de las enumeraciones; refutado con tres lentes distintas —exactitud
 normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
 (`informes/refutacion-tema-01.md`); rematado revisando antecedentes; y la
 **segunda refutación vuelve sin ningún hallazgo real**.
+
+## Decisión de esta sesión
+
+- **2026-08-29 · Cómo se verifica un tema cuya fuente no es legislación
+  consolidada.** El III Convenio Colectivo no tiene texto refundido oficial: son
+  tres documentos del BOE que hay que superponer. En vez de renunciar a las lentes
+  o de darlas por pasadas, se construyó la fuente (`convenio_dump.py`) y se
+  ejecutaron las tres sobre ella. Al hacerlo aparecieron **dos puntos ciegos en las
+  propias lentes** —no reconocían la abreviatura «Art.» ni los rótulos de rango
+  «Artículos 53 a 56»—, que dejaban artículos enteros sin comprobar devolviendo un
+  resultado limpio. Corregidos y **repasados los cuatro temas ya cerrados**, lo que
+  destapó un hallazgo real en el tema 2 (artículo 36: la presentación consolidada
+  se suma a la individual, no la sustituye). Está contado en
+  `informes/refutacion-tema-05.md`.
+- **El tema 3 no pasa por la lente por artículo y se dice.** La Ley 5/2017 tiene
+  «Artículo único» y el tema cita artículos de otra norma, así que la lente
+  devuelve «0 comprobadas, 0 no literales», que **no es un aprobado**. Se verificó
+  a mano y con un contraste contra el texto completo, y así consta en el informe.

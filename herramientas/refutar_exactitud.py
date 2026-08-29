@@ -33,8 +33,12 @@ def trozos(tema):
     """Devuelve [(nº de artículo, texto del tema que habla de él)]."""
     # el tema marca los artículos en negrita o como encabezado: si solo se busca
     # una de las dos formas, la comprobación no mira nada y no se queja
+    # "Art. 104" cuenta igual que "Artículo 104": si solo se reconoce la forma
+    # larga, los artículos abreviados no abren bloque y sus negritas se
+    # comprueban contra el artículo anterior, que es el error de atribución
     marcas = list(re.finditer(
-        r"(?:\*\*|(?m:^)#{2,4} )Artículos? (\d+)(?: y (\d+))?(?: a (\d+))?[.,: ]", tema))
+        r"(?:\*\*|(?m:^)#{2,4} )(?:Artículos?|Arts?\.) ?(\d+)"
+        r"(?: y (\d+))?(?: a (\d+))?[.,: ]", tema))
     # el bloque de un artículo termina en el siguiente artículo, en el siguiente
     # encabezado o en la siguiente raya: si no se acota, el último artículo se
     # traga el resto del tema y todo lo de después sale marcado como suyo
