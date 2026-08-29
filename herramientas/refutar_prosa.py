@@ -49,6 +49,11 @@ def main():
         if ROMANOS.match(sigla) or sigla in CONOCIDAS:
             continue
         i = tema.find(sigla)
+        # «Directiva 2007/65/CE» no es una sigla del tema: es el nombre de la norma
+        while i > 0 and tema[i - 1] == "/":
+            i = tema.find(sigla, i + 1)
+        if i < 0:
+            continue
         antes = tema[max(0, i - 130):i]
         if "(" not in antes:
             print("  · %-6s primera aparición: ...%s%s..."

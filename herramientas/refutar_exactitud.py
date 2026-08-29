@@ -31,7 +31,10 @@ def articulos(fuente):
 
 def trozos(tema):
     """Devuelve [(nº de artículo, texto del tema que habla de él)]."""
-    marcas = list(re.finditer(r"\*\*Artículos? (\d+)(?: y (\d+))?(?: a (\d+))?[.,: ]", tema))
+    # el tema marca los artículos en negrita o como encabezado: si solo se busca
+    # una de las dos formas, la comprobación no mira nada y no se queja
+    marcas = list(re.finditer(
+        r"(?:\*\*|(?m:^)#{2,4} )Artículos? (\d+)(?: y (\d+))?(?: a (\d+))?[.,: ]", tema))
     # el bloque de un artículo termina en el siguiente artículo, en el siguiente
     # encabezado o en la siguiente raya: si no se acota, el último artículo se
     # traga el resto del tema y todo lo de después sale marcado como suyo

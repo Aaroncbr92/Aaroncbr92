@@ -13,8 +13,10 @@ import re
 import sys
 import unicodedata
 
-PODER = r"\b(podr[áa]n?|puede[n]?|potestativ\w+|facultad\w*)\b"
-DEBER = r"\b(deber[áa]n?|debe[n]?|obligator\w+|exigir[áa]|requerir[áa]|habr[áa] de|ha de|han de)\b"
+# el subjuntivo cuenta: «cuando no pueda compensar» es tan potestativo como «podrá»,
+# y sin él la lente daba por cambiado el modo verbal donde no lo estaba
+PODER = r"\b(podr[áa]n?|puede[n]?|pueda[n]?|pudiera[n]?|potestativ\w+|facultad\w*)\b"
+DEBER = r"\b(deber[áa]n?|debe[n]?|deba[n]?|obligator\w+|exigir[áa]|requerir[áa]|habr[áa] de|ha de|han de)\b"
 SALVO = r"\b(salvo|excepto|a excepci[oó]n|sin perjuicio|no obstante)\b"
 
 
@@ -33,7 +35,7 @@ def articulos(fuente):
 
 
 def bloques(tema):
-    marcas = list(re.finditer(r"\*\*Artículos? (\d+)[.,: ]", tema))
+    marcas = list(re.finditer(r"(?:\*\*|(?m:^)#{2,4} )Artículos? (\d+)[.,: ]", tema))
     cortes = [m.start() for m in re.finditer(r"(?m)^#{2,4} |^---$", tema)]
     fuera = {}
     for i, m in enumerate(marcas):

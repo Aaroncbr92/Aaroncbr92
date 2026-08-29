@@ -92,9 +92,10 @@ en Documentación y en Producción (Asistencia).
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
 - [ ] Comprobar si hay acuerdos del Convenio Colectivo posteriores a 2022.
-- [ ] Temas 4 y 5 del general: Ley 8/2009 de financiación y III Convenio Colectivo.
-      El Convenio son 117 páginas de BOE y tiene 108 preguntas en el banco: es el
-      más pesado del bloque común.
+- [ ] Tema 5 del general: **III Convenio Colectivo**. Son 117 páginas de BOE y
+      tiene 108 preguntas en el banco: el más pesado del bloque común. Y no es
+      legislación consolidada, así que `boe.py` no sirve: hay que trabajar sobre el
+      PDF.
 
 ## Qué comprobación pasa por qué material
 
@@ -106,6 +107,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 1 · Constitución | sí | sí | sí | sí | sí | sí, limpia | 87 de 89 enteras |
 | General 2 · Ley 17/2006 | sí | sí | sí | sí | sí | sí, limpia | 32 de 32 enteras |
 | General 3 · Ley 5/2017 | sí | sí | sí | sí | sí | sí, limpia | incluidas en las 32 |
+| General 4 · Ley 8/2009 | sí | sí | sí | sí | sí | sí, limpia | 23 de 23 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
