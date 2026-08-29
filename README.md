@@ -1,0 +1,42 @@
+# Temarios de oposición · RTVE
+
+Producción de temario verificado contra fuente oficial, siguiendo el método de
+`metodo/MANUAL.md`. La regla de la que sale todo lo demás:
+
+> Nada se escribe de memoria. Cada dato se lee en la fuente oficial antes de
+> afirmarlo, y lo que no se puede confirmar se quita.
+
+## Qué hay aquí
+
+| Ruta | Qué es |
+|---|---|
+| `metodo/MANUAL.md` | El método. Se lee entero antes de tocar un tema. |
+| `metodo/ENCARGOS.md` | Cláusulas de encargo y catálogo de errores, para pegar en cada fase. |
+| `herramientas/boe.py` | Lector de legislación consolidada del BOE. |
+| `ESTADO.md` | Qué hay hecho, qué falta, dónde vive cada cosa. |
+| `PENDIENTES.md` | Cuaderno de hallazgos, se anote o no se corrija en el momento. |
+| `convocatoria/` | Programa oficial literal y exámenes de convocatorias anteriores. |
+| `temas/` | Un fichero por tema. |
+| `informes/` | Un fichero por agente y fase. Nada se queda solo en el chat. |
+
+## La herramienta del BOE
+
+Resuelve las tres trampas del apartado 2 del manual: la cadena de redacciones,
+las reformas cruzadas y los identificadores irregulares.
+
+```
+herramientas/boe.py indice   BOE-A-2006-9958            # índice real de bloques
+herramientas/boe.py buscar   BOE-A-2006-9958 "artículo 43"
+herramientas/boe.py precepto BOE-A-2006-9958 a11        # cadena + redacción vigente
+```
+
+Lo que hace por ti en cada precepto:
+
+- enseña **todas** las redacciones con su fecha de vigencia y de publicación, y
+  elige la última vigencia ya cumplida;
+- avisa de **posible reforma cruzada** cuando la redacción con la vigencia más
+  alta no es también la publicada más tarde;
+- saca aparte las **notas del BOE** que hablan de inconstitucionalidad, nulidad,
+  falta de convalidación o derogación;
+- no deduce identificadores: los resuelve contra el índice publicado. En la Ley
+  17/2006, el artículo 43 es el bloque `a4-2`. Por analogía no se acierta.
