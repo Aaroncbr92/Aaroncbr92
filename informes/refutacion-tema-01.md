@@ -74,3 +74,49 @@ Pasadas otra vez las tres lentes sobre el tema ya corregido:
 
 Es decir, **ningún hallazgo real en la segunda vuelta**. El tema queda cerrado a
 falta del esquema.
+
+## Esquema
+
+Hecho, en `esquemas/general/01-constitucion-espanola.md`: **128 líneas de artículo
+y unas 4.900 palabras**.
+
+La horquilla del método —unas 130 líneas y unas 2.000 palabras— se cumple en
+líneas y **se dobla en palabras**. El motivo, medido y no opinado: el enunciado de
+este tema es la Constitución entera, así que las 128 líneas cubren **169
+artículos**, a 35 palabras por línea, y **el 51 % de las palabras van dentro de
+negrita porque son dato normativo**. Bajar a 2.000 obligaría a quitar preceptos,
+recuentos o cifras. Explicación ya no queda ninguna que quitar.
+
+Un aviso, porque casi cuela. El primer intento de comprimir se hizo con
+sustituciones automáticas y estaba cambiando el modo verbal de la norma: «podrán»
+por «puede», «en todo caso» por «siempre», «corresponde a» por una flecha. Es el
+error 4 del catálogo, metido por la propia ronda de arreglar, que es contra lo que
+avisa el apartado 5 del manual. Se tiró y se rehízo a mano.
+
+## Antes de dar el tema por terminado (apartado 13 del manual)
+
+- [x] **Los epígrafes reproducen el enunciado de la convocatoria.** El enunciado es
+      una sola línea —«Constitución Española de 27 de diciembre de 1978»—, así que
+      va literal en cabecera y el tema se ordena por la sistemática de la propia
+      norma, que es la que sigue el examen.
+- [x] **Cada dato tiene su precepto detrás**, leído en la redacción vigente a la
+      fecha de corte.
+- [x] **Los preceptos con varias redacciones, releídos enteros**: 13, 49, 69 y 135.
+      A 21/12/2022 se aplican la de 1992 del 13, las de 1978 del 49 y del 69 y la
+      de 2011 del 135.
+- [x] **Ciclo completo**: investigar, redactar, verificar, refutar, rematar y
+      refutar otra vez.
+- [x] **La última refutación vuelve sin hallazgos reales.** Los cuatro que quedan
+      están analizados uno a uno y son falsos positivos.
+- [~] **Las preguntas se contestan con el cuerpo delante.** 87 de las 89 que son de
+      esta materia, enteras. Las dos restantes se contestan a medias y por qué está
+      dicho en `cobertura-tema-01.md`: una fecha y una cifra de actualidad que no
+      se han podido confirmar en fuente oficial.
+- [x] **Lo que no se pudo confirmar está fuera y anotado** en `PENDIENTES.md`: la
+      fecha de cese del artículo 155 en Cataluña y el número total de Senadores.
+- [x] **Ficheros tocados fuera del tema**, que el método obliga a declarar:
+      `esquemas/general/01-constitucion-espanola.md` y los informes de este tema;
+      `PENDIENTES.md` y `ESTADO.md`; las herramientas `refutar_exactitud.py`,
+      `refutar_modo.py` y `refutar_prosa.py`, nuevas; y `herramientas/banco.py`
+      con el arreglo del lector de plantillas, que obligó a **regenerar `banco/`
+      entero**. Ningún otro tema se ha tocado, porque todavía no hay otro.

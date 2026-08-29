@@ -92,8 +92,6 @@ en Documentación y en Producción (Asistencia).
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
 - [ ] Comprobar si hay acuerdos del Convenio Colectivo posteriores a 2022.
-- [ ] Esquema del tema 1: unas 2.000 palabras y unas 130 líneas, con el artículo
-      delante de cada línea.
 - [ ] Temas 2 y 3 del general: Ley 17/2006 y Ley 5/2017, ya volcadas a `fuentes/`
       en la redacción del corte.
 
@@ -104,7 +102,11 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 
 | Tema | Investigar | Redactar | Verificar | Refutar 1 | Rematar | Refutar 2 | Preguntas |
 |---|---|---|---|---|---|---|---|
-| General 1 · Constitución | sí | sí | sí | **sí** | sí | **sí, limpia** | **87 de 89 enteras** |
+| General 1 · Constitución | sí | sí | sí | sí | sí | sí, limpia | 87 de 89 enteras |
+
+**El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
+apartado 13 del manual, repasada punto por punto, está al final de
+`informes/refutacion-tema-01.md`.
 
 Lo del tema 1: investigado sobre el volcado del texto consolidado a la fecha de
 corte; verificado con 28 comprobaciones de cifra contra el articulado y el
