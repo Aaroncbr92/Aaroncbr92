@@ -14,8 +14,8 @@ se deducen: se han resuelto contra el BOE, y el acceso se ha probado uno a uno.
 | 5 | III Convenio Colectivo CRTVE | `BOE-A-2020-16744` | PDF, 117 págs. |
 | 5 | Corrección de errores del III Convenio | `BOE-A-2021-1334` | PDF |
 | 5 | Acuerdo de modificación del Convenio (2022) | `BOE-A-2022-20256` | PDF |
-| 6 | II Plan de Igualdad RTVE (2022-2026) | PDF en rtve.es | descarga bien |
-| 6 | Guía de Igualdad RTVE 2020 | PDF en rtve.es | descarga bien |
+| 6 | II Plan de Igualdad RTVE (2022-2026) | PDF en rtve.es | descargado y transcrito en `fuentes/igualdad/` |
+| 6 | Guía de Igualdad RTVE 2020 | PDF en rtve.es | descargado y transcrito en `fuentes/igualdad/` |
 | 7 | Ley 13/2022, General de Comunicación Audiovisual | `BOE-A-2022-11311` | consolidado, API |
 | 8 | Ley 31/1995, de Prevención de Riesgos Laborales | `BOE-A-1995-24292` | consolidado, API |
 

@@ -64,6 +64,11 @@ en Documentación y en Producción (Asistencia).
 - [x] `herramientas/boe.py --fecha AAAAMMDD`: lee la ley como estaba ese día.
 - [x] Las tres lentes de refutación, automatizadas y reutilizables en cualquier
       tema: `refutar_exactitud.py`, `refutar_modo.py` y `refutar_prosa.py`.
+- [x] `herramientas/refutar_documento.py`: cuarta lente, para temas cuya fuente **no es
+      articulado** (un plan, una guía, un manual). Contrasta cada negrita y **cada cifra**
+      contra el texto completo de las fuentes. Hace falta porque las lentes por artículo
+      devuelven «0 comprobadas, 0 hallazgos» sobre un documento sin artículos, que se lee
+      como un tema impecable y es un tema sin revisar.
 - [x] `herramientas/convenio_dump.py`: reconstruye el articulado del convenio en
       vigor superponiendo el acuerdo de 2022 sobre el texto de 2020, con la forma
       que esperan las lentes. Hace falta porque **el convenio no es legislación
@@ -107,7 +112,6 @@ en Documentación y en Producción (Asistencia).
 
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
-- [ ] Tema 6 del general: **igualdad** (II Plan de Igualdad y Guía).
 - [ ] Tema 7 del general: **Ley 13/2022** general de comunicación audiovisual.
 - [ ] Tema 8 del general: **Ley 31/1995** de prevención de riesgos laborales.
 
@@ -123,6 +127,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 3 · Ley 5/2017 | sí | sí | sí | sí | sí | sí, limpia | incluidas en las 32 |
 | General 4 · Ley 8/2009 | sí | sí | sí | sí | sí | sí, limpia | 23 de 23 enteras |
 | General 5 · III Convenio Colectivo | sí | sí | sí | sí | sí | sí, limpia | 84 de 84 enteras |
+| General 6 · Igualdad | sí | sí | sí | sí | sí | sí, limpia | 39 de 39 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
@@ -152,3 +157,12 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   «Artículo único» y el tema cita artículos de otra norma, así que la lente
   devuelve «0 comprobadas, 0 no literales», que **no es un aprobado**. Se verificó
   a mano y con un contraste contra el texto completo, y así consta en el informe.
+
+- **2026-08-29 · Qué se hace cuando la fuente no está en el BOE.** El tema 6 son dos PDF
+  publicados en `rtve.es`: sin identificador, sin texto consolidado y sin redacciones
+  fechadas, de modo que **no se puede demostrar qué decían en una fecha pasada**. Se aplican
+  tres reglas: **se versionan los PDF además de su transcripción**, para que quede la versión
+  con la que se ha estudiado; se **verifica con `refutar_documento.py`** en vez de dar por
+  buenas las lentes por artículo; y **se dice en el tema** que si RTVE sustituyera el fichero
+  no quedaría rastro del anterior. Lo mismo valdrá para el Manual de estilo y el Código de
+  autorregulación del menor de los temarios específicos.
