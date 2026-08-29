@@ -68,11 +68,18 @@ en Documentación y en Producción (Asistencia).
       vigor superponiendo el acuerdo de 2022 sobre el texto de 2020, con la forma
       que esperan las lentes. Hace falta porque **el convenio no es legislación
       consolidada**: el BOE no publica texto refundido y `boe.py` no sirve.
+- [x] **Comprobados todos los acuerdos del Convenio Colectivo**, por el bloque de
+      «referencias posteriores» de su ficha en el BOE. **Anteriores al corte son cuatro, no
+      tres**: faltaba `BOE-A-2021-8252` (18/05/2021), que sustituye entero el anexo 7.
+      Posteriores al corte hay otros cuatro (2023 ×2, 2024 y 2025), anotados como nota de
+      actualización en el tema; el de agosto de 2023 toca los artículos 42, 50, 52, 57, 72
+      y 91, así que **cualquier material posterior a esa fecha da cifras que no son las del
+      examen**.
 - [x] **Descubierto que partes del convenio solo existen como imagen** en el BOE:
       la tabla de niveles del artículo 65 y los anexos 1, 2 y 3 completos. No están
       en el HTML ni en la transcripción de texto, y su ausencia no da ningún aviso.
-      Descargadas a `fuentes/convenio/imagenes/`, con el artículo 65 y el anexo 3
-      transcritos.
+      Descargadas y **transcritas las cinco** en `fuentes/convenio/imagenes/`: la tabla
+      del artículo 65 y los anexos 1, 2 y 3.
 - [x] Ley 17/2006 y Ley 5/2017 volcadas a `fuentes/`, en la redacción de hoy y en
       la del corte 21/12/2022. Entre una y otra cambian **11 bloques** de la Ley
       17/2006: arts. 4, 10, 11, 12, 15, 16, 20 y 24 y tres disposiciones
@@ -100,11 +107,6 @@ en Documentación y en Producción (Asistencia).
 
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
-- [ ] Comprobar si hay acuerdos del Convenio Colectivo posteriores a 2022.
-- [ ] **Transcribir los anexos 1 y 2 del convenio** (tablas salariales e
-      incompatibilidades de complementos) si en algún momento hacen falta. Están
-      descargados en `fuentes/convenio/imagenes/` pero sin transcribir: son importes
-      que las Leyes de Presupuestos actualizan y el banco no pregunta por ellos.
 - [ ] Tema 6 del general: **igualdad** (II Plan de Igualdad y Guía).
 - [ ] Tema 7 del general: **Ley 13/2022** general de comunicación audiovisual.
 - [ ] Tema 8 del general: **Ley 31/1995** de prevención de riesgos laborales.

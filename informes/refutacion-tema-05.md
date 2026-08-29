@@ -3,12 +3,34 @@
 III Convenio Colectivo de la Corporación RTVE. Es el primer tema que **no se apoya en
 legislación consolidada**, así que antes de refutar nada hubo que construir la fuente.
 
-## 0 · La fuente no existía
+## 0 · La fuente no existía — y tenía un documento más de los que creíamos
 
-El BOE **no publica texto refundido de los convenios colectivos**: hay tres documentos
-sueltos —el texto de 2020, la corrección de errores de 2021 y el acuerdo de modificación
-de 2022— y la redacción en vigor hay que reconstruirla superponiéndolos. `boe.py`, que
-trabaja contra la API de legislación consolidada, no sirve aquí.
+El BOE **no publica texto refundido de los convenios colectivos**: hay documentos sueltos y
+la redacción en vigor hay que reconstruirla superponiéndolos. `boe.py`, que trabaja contra
+la API de legislación consolidada, no sirve aquí.
+
+**Y los documentos anteriores al corte no eran tres, sino cuatro.** Al cerrar el tema se
+consultó el bloque de «referencias posteriores» de la ficha del convenio en el BOE —el
+sitio donde el propio BOE lista quién ha modificado qué— y apareció un documento que no
+teníamos: la **Resolución de 15 de abril de 2021 (BOE-A-2021-8252, BOE de 18/05/2021)**,
+que **sustituye entero el anexo 7**. La corrección de errores de enero de 2021 había
+publicado como anexo 7 una «tabla de factores personales y de arraigo para valoración
+curricular»; el acuerdo de abril la reemplaza por el **baremo de los criterios de
+enfermedad, discapacidad o dependencia y de agrupación familiar** del artículo 14.3. **La
+vigente a la fecha de corte es la segunda.**
+
+No aparecía buscando «corrección de errores» del convenio, porque no lo es: es un acuerdo
+de modificación. Descargado, transcrito y añadido a la trazabilidad. Los dos documentos de
+2021 **no tocan el articulado**, así que el volcado reconstruido no cambia.
+
+Con él llegó también la lista de lo posterior al corte, anotada como nota de actualización
+en el tema: **BOE-A-2023-9620** (corrige un error material del anexo 3), **BOE-A-2023-17840**
+(arts. 42, 50, 52, 57, 72 y 91, DT tercera y novena, DF primera), **BOE-A-2024-4470** (arts.
+13, 18, 21 y 99.3 y 4, anexo 1, DT octava, DF primera) y **BOE-A-2025-24095** (capítulo III
+entero, arts. 102 y 104.5, anexos 7 y 8, y dos disposiciones transitorias nuevas). El de
+2023 toca cinco de los artículos más preguntados de los capítulos VI y VII, de modo que
+**cualquier material de estudio posterior a agosto de 2023 dará cifras que no son las del
+examen**.
 
 Se escribió `herramientas/convenio_dump.py`, que genera `fuentes/convenio/CONVENIO.md`
 con la forma que esperan las lentes (`## [id] Artículo N`), tomando de 2022 los artículos
@@ -134,11 +156,34 @@ pasó por ella cuando estaba rota.
   elegibilidad de los cesados del art. 13) **desapareció** con el RDL 5/2024. Es cierto:
   el artículo 11 vigente tiene **cuatro apartados** y ninguno de inelegibilidad.
 
+## 5 · Lo que apareció al transcribir los anexos 1 y 2
+
+Los anexos 1 y 2 se habían dejado sin transcribir por ser importes. Al hacerlo salieron dos
+cosas.
+
+**Un error propio, corregido.** La primera lectura de la tabla de salario base dio por
+**constante** el escalón entre niveles y así se escribió: «diecisiete saltos iguales». No
+lo es. Comprobados los diecisiete restando uno a uno, **dieciséis miden unos 68,31 € y el
+de D2 a D1 mide 57,91 €**. Ampliada la imagen sobre esas dos filas para descartar un error
+de lectura, los importes son los que se habían transcrito: la irregularidad es del
+convenio, no de la transcripción. Y cae justo en **D1, el nivel básico del Grupo I ·
+Subgrupo I**. Es la clase de afirmación redonda que se cuela por parecer elegante.
+
+**Un hueco del propio tema.** El artículo 14.3 describía el baremo de traslados con **dos**
+criterios —antigüedad (35 puntos) y enfermedad (12)— cuando tiene **tres**: falta
+**agrupación familiar, 8 puntos**. Faltaban también el desempate **por sexo menos
+representado**, el plazo máximo de **ocho meses** para incorporarse y que **una vez
+adjudicada la plaza no cabe renunciar a ella**. Añadido todo, y añadido el **anexo 7**, que
+es precisamente donde el convenio detalla los baremos de esas letras b) y c) y que hasta
+ahora figuraba en el tema con el contenido equivocado.
+
 ## Resumen
 
 | | Hallazgos | Estado |
 |---|---|---|
 | Exactitud | **1** (art. 32) | corregido |
+| Documento de fuente que faltaba | **1** (BOE-A-2021-8252, anexo 7) | descargado e incorporado |
+| Huecos hallados al transcribir los anexos | **2** (art. 14.3 incompleto; escalón salarial dado por constante) | corregidos |
 | Modo verbal y salvedades | **11** | corregidos |
 | Prosa | **8** siglas | corregidas |
 | Falsos positivos identificados | 3 en el tema 5, 3 en el tema 1 | documentados, no se toca el texto |

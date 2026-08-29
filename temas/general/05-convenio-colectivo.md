@@ -210,11 +210,23 @@ distinta población que obligue a fijar la residencia en otra localidad**, y pue
 - **Voluntario** (14.3): **tres requisitos indispensables** —**ser personal fijo o
   indefinido**, **pertenecer a la misma ocupación tipo** que la de las plazas ofertadas y
   **acreditar una permanencia mínima de un año en su centro de trabajo**, que sube a **dos
-  años si se trata de un segundo traslado o sucesivos**. Se resuelve por baremo:
-  **antigüedad, máximo 35 puntos** (0,5 por año en la empresa, máximo 10; 0,5 por año en
-  la ocupación tipo, máximo 10; **1 punto por año en el registro de traslados, máximo
-  15**) y **enfermedad, discapacidad o dependencia propia o de familiar hasta segundo
-  grado, 12 puntos**, solo con acreditación oficial.
+  años si se trata de un segundo traslado o sucesivos**. Se resuelve por baremo, con
+  **tres criterios**:
+  - **a) Antigüedad, máximo 35 puntos**: 0,5 por año en la empresa (máximo 10), 0,5 por
+    año en la ocupación tipo (máximo 10) y **1 punto por año en el registro de traslados
+    (máximo 15)**.
+  - **b) Enfermedad, discapacidad o dependencia** propia o de familiar **hasta segundo
+    grado**, **12 puntos**, y **solo con acreditación oficial** del grado.
+  - **c) Agrupación familiar, 8 puntos**: situaciones acreditadas de agrupación con
+    **cónyuge o pareja de hecho** y con **hijos menores de 18 años**.
+
+  **Los baremos de las letras b) y c) se detallan en el anexo 7.** La plaza va a quien más
+  puntos obtenga y, **en caso de empate, a la persona del sexo menos representado en esa
+  ocupación tipo en el destino**; si son del mismo sexo, por procedimiento objetivo. Los
+  traslados **se hacen efectivos de forma inmediata**, y solo por motivos familiares u
+  organizativos motivados la incorporación puede llegar a **un máximo de ocho meses** desde
+  la adjudicación. **Adjudicada y elevada a definitiva, no se puede renunciar a la plaza**:
+  la incorporación es obligatoria.
 
 El «**un año**» del traslado voluntario y el «**un año prorrogable a tres**» del convenido
 son cosas distintas y el examen los cruza.
@@ -1602,8 +1614,14 @@ Las tres cifras porcentuales —**0,37 %** acción social, **0,71 %** seguro de 
 ## Anexos
 
 **Ocho anexos** a la fecha de corte, que no llegaron todos a la vez: los seis primeros son
-del texto de 2020, el **anexo 7** lo añade la **corrección de errores de 18 de enero de
-2021** y el **anexo 8** el **acuerdo de 2022**.
+del texto de 2020; el **anexo 7** lo añade la **corrección de errores de 18 de enero de
+2021** y **lo sustituye entero el acuerdo de 15 de abril de 2021**; y el **anexo 8** lo
+añade el **acuerdo de 2022**.
+
+Cuidado con el anexo 7, porque cambió de contenido: la corrección de errores publicó una
+«**tabla de factores personales y de arraigo para valoración curricular**», y el acuerdo de
+abril de 2021 la reemplazó por el **baremo de los criterios del artículo 14.3**. **La
+vigente a la fecha de corte es la segunda.**
 
 | Anexo | Contenido |
 | --- | --- |
@@ -1613,8 +1631,100 @@ del texto de 2020, el **anexo 7** lo añade la **corrección de errores de 18 de
 | **4** | **Régimen especial de trabajo de la Orquesta Sinfónica y Coro** |
 | **5** | **Teletrabajo** |
 | **6** | **Acuerdo de externalización de servicios** |
-| **7** | **Tabla de factores personales y de arraigo para valoración curricular** (corrección de errores de 2021) |
+| **7** | **Baremo de los criterios de enfermedad, discapacidad o dependencia y de agrupación familiar** del artículo 14.3 (redacción del acuerdo de 15 de abril de 2021) |
 | **8** | **Ocupaciones tipo análogas para valoración de méritos en promoción y cambio de ocupación tipo** (acuerdo de 2022) |
+
+**Los anexos 1, 2 y 3 son íntegramente imagen en el BOE.** No hay una sola línea de su
+contenido en el texto: quien lea la transcripción verá los tres rótulos seguidos
+directamente del anexo 4. Están descargados y transcritos en
+`fuentes/convenio/imagenes/`. Lo que sigue es lo que de ellos se puede preguntar; los
+importes concretos no, porque las Leyes de Presupuestos los actualizan cada año.
+
+### Anexo 1. Tablas salariales
+
+Las publicadas son las **del 01/01/2020 al 31/12/2020**, el año de firma. La disposición
+adicional tercera prevé que **los incrementos que autoricen las sucesivas Leyes de
+Presupuestos se apliquen de forma automática y proporcional a todos los conceptos**, así
+que las cuantías de hoy son mayores. **La estructura no ha cambiado**, y es la
+examinable.
+
+- **Salario base**: **el importe depende solo del nivel económico, no del grupo**. Un C2
+  cobra lo mismo en el Grupo I-I que en el Grupo II; lo que cambia con el grupo es **desde
+  qué nivel se entra y hasta cuál se llega**. De **F1** a **A3** hay **diecisiete saltos**,
+  y **dieciséis son del mismo tamaño**: unos 68,31 €. **El salto de D2 a D1 es más
+  pequeño**, de 57,91 €. No es un error de lectura ni un redondeo: es la única
+  irregularidad de la escala, y cae justo en **D1, que es el nivel básico del Grupo I ·
+  Subgrupo I**.
+- **Complementos de puesto**: casi todos se escalonan en **cuatro tramos** —**niveles
+  A-B**, **niveles C-D del Grupo I-I**, **niveles C-D del resto**, **niveles E-F**—, y
+  dentro de cada complemento el importe **baja según se desciende de tramo**. La única
+  excepción es **unidades informativas**, que paga **lo mismo en los tres primeros tramos**
+  y solo baja en E-F.
+- **Incremento de disponibilidad**: traduce en dinero las tres opciones del artículo 49.
+  **La opción 1 no incrementa nada (0,00 €)**; la **opción 2** suma una cantidad fija y la
+  **opción 3**, algo más del doble que la 2. Y es **igual en los cuatro tramos de nivel**:
+  el incremento no depende del grupo, solo de la opción.
+- **Indemnización de residencia**: **tres destinos con tres importes distintos**, y el
+  orden no es el intuitivo —**el resto de Canarias, Ceuta y Melilla cobra más que Las
+  Palmas, Gran Canaria y Tenerife**, y **Baleares es el más bajo de los tres**.
+- **Turnicidad**: hay **dos tablas, una de «turnos de 35 horas semana» y otra de «40 horas
+  semana»**. Es la prueba de que la letra b) del artículo 50 —turnos de duración y cómputo
+  distintos, previo acuerdo con la RLT— se aplica de verdad.
+- **Jornada de fin de semana**: **dos columnas, «3 días» y «2 días»**. La de dos días es la
+  de la **disposición transitoria segunda**, para quienes venían haciéndola desde el 1 de
+  enero de 2011, y se paga **menos** que la de tres.
+- **Jornada de rodaje**: seis importes por destino, y **crecen con el riesgo, no con la
+  renta**. El más bajo es **con pernocta en el propio domicilio**; después, países de la
+  **U.E.**, de **renta alta**, de **renta baja**, de **riesgo sanitario** y, el más alto,
+  **países en conflicto bélico**. El anexo los rotula «riesgo sanitario» y «conflicto
+  bélico»; el artículo 71.9 los describe como «países con problemas de seguridad» y «países
+  en conflicto»: son las mismas categorías con dos nombres.
+- **Preaviso de los artículos 49 y 50**: el anexo **sí cifra** la compensación por menor
+  preaviso que esos artículos mencionan sin importe.
+- **Guardias**: hay **cuatro importes, no dos** —localizable de lunes a viernes,
+  localizable de sábado y domingo, y **día efectivamente requerido** en cada una de las dos
+  franjas—. El **día de sábado y domingo se paga a más del doble** que el de lunes a
+  viernes, aunque la **franja localizable de fin de semana se pague menos** que la de
+  entre semana, porque son menos días.
+- **Orquesta y Coro**: la tabla empareja los puestos de las dos agrupaciones.
+  **Concertino y ayudante de dirección cobran lo mismo**; **solista, jefe de cuerda y
+  pianista del coro**, también entre sí; y **tutti, profesor de coro e inspectores**,
+  igual. Hay además importe propio para el **archivero** y para la **aportación de
+  instrumento musical** del artículo 18 del anexo 4.
+- **Dietas y comidas**: importes distintos para comida o cena **con factura**, **sin
+  factura** y **de rodaje** —la de rodaje es la más alta—, más el desayuno; y dietas
+  **nacionales** e **internacionales** desglosadas en alojamiento, comida y cena, con
+  **kilometraje por kilómetro** en comisión de servicio.
+
+### Anexo 2. Tabla de incompatibilidades de complementos
+
+Una única matriz de **22 × 22** con los conceptos retributivos cruzados consigo mismos, y
+**tres símbolos**, que es lo primero que hay que saberse:
+
+| Símbolo | Significado |
+| --- | --- |
+| **X** | **Incompatible a efectos económicos** |
+| **horas** | **Incompatible por horas** |
+| **D** | **Se acredita la diferencia** |
+
+La **casilla vacía significa compatible**. Que dos complementos se crucen no implica que
+uno anule al otro: la **D** quiere decir que se cobra **la diferencia** entre ambos, y
+**«horas»** que lo que se descuenta es **tiempo**, no dinero.
+
+Lo que el examen puede sacar de aquí:
+
+- **Residencia y vivienda son compatibles con todo.** Son las **dos únicas filas
+  enteramente vacías** de la matriz.
+- **La jornada de rodaje es el concepto que más usa la D**: frente a mando orgánico,
+  responsabilidad, puesto de orquesta, disponibilidad, unidades informativas y nocturnidad
+  no se anula, **se acredita la diferencia**.
+- **Gratificación diversa, formación, nocturnidad y horas extras se cruzan entre sí «por
+  horas»**, nunca con X. Son los cuatro conceptos que retribuyen tiempo efectivo.
+- **Festivos y horas extras solo son incompatibles en Orquesta y Coro** —la casilla dice
+  **«X (OyC)»**—. Es **la única casilla condicionada de todo el anexo**.
+- **Puesto de orquesta e instrumentos musicales se comportan casi igual**, con una
+  diferencia que es justo la clase de detalle que se pregunta: frente a la **jornada de
+  rodaje**, el **puesto de orquesta lleva D** y los **instrumentos musicales, X**.
 
 ### Anexo 4. Régimen especial de la Orquesta Sinfónica y Coro (OSCRTVE)
 
@@ -1754,24 +1864,57 @@ utilización del personal fijo disponible tiene carácter preferente** en las ta
 habitualmente desempeñadas por plantilla, sin perjuicio de las cuotas legales de los
 productores independientes.
 
+### Anexo 7. Baremo de enfermedad, discapacidad o dependencia y de agrupación familiar
+
+Desarrolla las letras **b)** y **c)** del baremo de traslados del artículo 14.3, y por eso
+importa: pone en puntos lo que el artículo deja en dos cifras redondas.
+
+- **Enfermedad, discapacidad o dependencia — hasta 12 puntos.** Se puntúa en una escala de
+  **2, 4, 6, 9 y 12 puntos**, según **de quién** se trate y **qué grado** se acredite:
+  - **Solicitante, cónyuge o pareja de hecho**: discapacidad **entre el 10 % y menos del
+    33 %** · **dependencia de grado I o discapacidad del 33 % a menos del 45 %** ·
+    **dependencia de grado II o discapacidad del 45 % a menos del 65 %** · **dependencia de
+    grado III o discapacidad del 65 % o más** · y, en lo más alto, la **concurrencia de dos
+    de esos factores** siendo al menos uno dependencia de grado III o discapacidad superior
+    al 45 %.
+  - **Familiar de primer grado** por consanguinidad o afinidad —padres del solicitante o
+    del cónyuge, hijos menores o mayores bajo tutela, hijos políticos— con la misma escala
+    de grados.
+  - **Familiar de segundo grado** —hermanos, abuelos, nietos, cuñados—, que **entra a
+    partir de la dependencia de grado I o el 33 % de discapacidad**: por debajo de ahí no
+    puntúa.
+- **Agrupación familiar — hasta 8 puntos.** Escala de **1, 2, 4, 6 y 8 puntos**, cruzando
+  **la situación familiar** con **la distancia**:
+  - Situaciones: **agrupación con cónyuge o pareja de hecho sin hijos** · con **hijos de 12
+    a 18 años** · con **hijos hasta 12 años** —también en **familia monoparental** y en
+    **divorcio o separación**— · y **divorcio o separación sin hijos** con **alejamiento
+    del excónyuge sin sentencia judicial**.
+  - Distancias, **valoradas por kilómetro**: **menos de 100 km** · **de 100 a 250 km** ·
+    **más de 250 km**, tramo al que se equipara el **destino insular, Ceuta o Melilla con
+    familia en la península, y a la inversa**.
+
+Las dos reglas que se ven a simple vista: **cuanto más cerca el parentesco y mayor el
+grado, más puntos**, y **cuanto menores los hijos y mayor la distancia, más puntos**.
+
 ---
 
 ## Trazabilidad
 
-Todo el contenido de este tema procede de la lectura directa de los tres documentos
-oficiales, transcritos en `fuentes/convenio/`:
+Todo el contenido de este tema procede de la lectura directa de los **cuatro documentos
+oficiales anteriores a la fecha de corte**, transcritos en `fuentes/convenio/`:
 
 | Documento | Identificador BOE | Publicación | Qué aporta |
 | --- | --- | --- | --- |
 | Resolución de 15 de diciembre de 2020, Dirección General de Trabajo | **BOE-A-2020-16744** | BOE núm. 332, de 22/12/2020 | Texto del III Convenio: 116 artículos en 13 capítulos, 3 disposiciones adicionales, 9 transitorias, 1 final, 1 derogatoria y **anexos 1 a 6** |
-| Resolución de 18 de enero de 2021, Dirección General de Trabajo | **BOE-A-2021-1334** | BOE de 29/01/2021 | Corrección de errores: añade el **anexo 7** |
+| Resolución de 18 de enero de 2021, Dirección General de Trabajo | **BOE-A-2021-1334** | BOE de 29/01/2021 | Corrección de errores: **añade el anexo 7** («tabla de factores personales y de arraigo para valoración curricular») |
+| Resolución de 15 de abril de 2021, Dirección General de Trabajo (acta suscrita el 16/03/2021) | **BOE-A-2021-8252** | BOE de 18/05/2021 | **Sustituye entero el anexo 7** por el **baremo de los criterios de enfermedad, discapacidad o dependencia y de agrupación familiar** del artículo 14.3 |
 | Resolución de 28 de noviembre de 2022, Dirección General de Trabajo (acuerdo suscrito el 10/11/2022) | **BOE-A-2022-20256** | BOE de 05/12/2022 | Modificación parcial: arts. **12, 13, 16, 17, 18, 21, 27, 30, 63 y 102**, nueva **disposición transitoria (DT) octava**, nueva **DT décima** y **anexo 8** |
 
 **Advertencia metodológica.** El convenio colectivo **no es legislación consolidada**: el
 BOE no publica un texto refundido, de modo que **no existe versión consolidada oficial** y
-la redacción en vigor hay que reconstruirla superponiendo los tres documentos. Por eso
+la redacción en vigor hay que reconstruirla superponiendo los documentos. Por eso
 `herramientas/boe.py` —que trabaja contra la API de legislación consolidada— **no sirve
-aquí**, y todo el tema se ha verificado leyendo los tres textos publicados. Las dos
+aquí**, y todo el tema se ha verificado leyendo los textos publicados. Las tres
 consecuencias prácticas que más pueden costar una pregunta son:
 
 1. **El intercambio de los artículos 16 y 17** operado por el acuerdo de 2022: a la fecha
@@ -1781,7 +1924,33 @@ consecuencias prácticas que más pueden costar una pregunta son:
    formativo en alternancia al 60 % / 75 %** y **contrato para la práctica profesional al
    70 %**, conservándose los porcentajes antiguos **solo** en la **disposición transitoria
    décima** para quienes ya estuvieran contratados.
+3. **El anexo 7 cambió de contenido dentro del propio 2021.** Lo que publicó la corrección
+   de errores de enero —una tabla de factores personales y de arraigo— **fue reemplazado en
+   abril** por el baremo del artículo 14.3. Quien trabaje solo con el texto de 2020 y la
+   corrección de errores tendrá el anexo 7 equivocado.
 
 **Fecha de corte aplicada: 21 de diciembre de 2022**, conforme a la cláusula de las bases
-de la convocatoria. Los tres documentos son anteriores a esa fecha, de modo que el texto
+de la convocatoria. Los cuatro documentos son anteriores a esa fecha, de modo que el texto
 descrito aquí es el vigente a efectos del examen.
+
+## Nota de actualización: lo que ha cambiado después del corte
+
+Fuera del cuerpo examinable, pero conviene conocerlo, porque en las pruebas de febrero de
+2025 el tribunal preguntó por normativa posterior al corte en otro tema. **El convenio ha
+recibido cuatro documentos más desde la fecha de corte**, ninguno de ellos aplicable a esta
+convocatoria:
+
+| Documento | Identificador BOE | Qué toca |
+| --- | --- | --- |
+| Resolución de 3 de abril de 2023 (acta de 29/03/2023), BOE de 19/04/2023 | **BOE-A-2023-9620** | **Corrige un error material del anexo 3**, el de clasificación profesional |
+| Resolución de 21 de julio de 2023 (acta de 13/06/2023), BOE de 03/08/2023 | **BOE-A-2023-17840** | Modifica los artículos **42, 50, 52, 57, 72 y 91**, las **DT tercera y novena** y la **disposición final (DF) primera** |
+| Resolución de 26 de febrero de 2024 (acuerdo de 20/02/2024), BOE de 07/03/2024 | **BOE-A-2024-4470** | Modifica los artículos **13, 18, 21 y 99.3 y 4**, el **anexo 1**, la **DT octava** y la **DF primera** |
+| Resolución de 20 de noviembre de 2025 (acuerdo de 17/11/2025), BOE de 27/11/2025 | **BOE-A-2025-24095** | Modifica el **capítulo III completo**, los artículos **102 y 104.5** y los **anexos 7 y 8**, y **añade las DT undécima y duodécima** |
+
+Dos avisos prácticos. El primero: **el acuerdo de 2023 tocó cinco de los artículos más
+preguntados del capítulo VI y VII** —42 (jornada), 50 (turnicidad), 52 (jornada de fin de
+semana), 57 (comisiones de servicio) y 72 (complementos de calidad o cantidad)—, de modo
+que **cualquier material de estudio posterior a julio de 2023 dará cifras que no son las
+del examen**. Y el segundo: **la corrección de 2023 al anexo 3** confirma que ese anexo
+tenía un error material; el que se estudia aquí es el publicado en 2020, que es el
+examinable.

@@ -68,8 +68,8 @@ Son **cuatro imágenes y una tabla suelta**, ahora descargadas y transcritas en
   tipo** y su equivalencia con las categorías del XVII convenio. De aquí salen los trece
   ámbitos del artículo 38.
 - **Los anexos 1 y 2** (tablas salariales y tabla de incompatibilidades de complementos),
-  descargados y guardados, sin transcribir: son importes que las Leyes de Presupuestos
-  actualizan y el banco no pregunta por ellos.
+  también transcritos. No por los importes —son los de 2020 y los PGE los suben cada año—,
+  sino por **la estructura**, que es lo que se pregunta y lo que no cambia.
 
 ## Una respuesta oficial que parece errata y no lo es
 
@@ -85,6 +85,36 @@ y el tema habría dado por buena la respuesta equivocada.
 Es la tercera vez que una respuesta oficial se comprueba antes de tratarla como errata, y
 la primera en que **la sospecha era nuestra y el error también**. Las dos erratas reales
 detectadas siguen anotadas en `PENDIENTES.md`.
+
+## Lo que los anexos 1 y 2 añaden al tema
+
+Ninguna pregunta del banco pide un importe, y por eso el tema no los recoge. Lo que sí
+recoge, porque es estructura y no cuantía:
+
+- **El salario base depende solo del nivel económico, no del grupo.** Un C2 cobra lo mismo
+  en el Grupo I-I que en el Grupo II.
+- **De F1 a A3 hay diecisiete saltos y dieciséis son iguales.** El de **D2 a D1** es más
+  pequeño —57,91 € frente a 68,31 €— y cae justo en el **nivel básico del Grupo I ·
+  Subgrupo I**. Se comprobó ampliando la imagen porque la primera lectura dio por
+  constante toda la escala, y no lo es.
+- **Los complementos de puesto van en cuatro tramos** (A-B · C-D del Grupo I-I · C-D del
+  resto · E-F), con **una excepción**: unidades informativas paga igual en los tres
+  primeros.
+- **La opción 1 de disponibilidad no incrementa nada**, y el incremento **no depende del
+  grupo**.
+- **La residencia no sigue el orden intuitivo**: resto de Canarias, Ceuta y Melilla cobra
+  **más** que Las Palmas, Gran Canaria y Tenerife, y **Baleares es el más bajo**.
+- **Turnicidad tiene dos tablas, de 35 y de 40 horas semanales**, y **la jornada de fin de
+  semana, dos columnas, de 3 y de 2 días**: son la letra b) del artículo 50 y la
+  disposición transitoria segunda puestas en cifras. Confirman que las dos siguen vivas.
+- **El importe de la jornada de rodaje crece con el riesgo, no con la renta**: el destino
+  peor pagado es el propio domicilio y el mejor, un país en conflicto bélico.
+- **El anexo 1 sí cifra la compensación por menor preaviso** de los artículos 49 y 50, que
+  esos artículos mencionan sin importe.
+- **Del anexo 2**, los **tres símbolos** —X, «horas» y D—, que **la casilla vacía significa
+  compatible**, que **residencia y vivienda son compatibles con todo**, que **la jornada de
+  rodaje es el concepto que más usa la D**, y que **festivos ↔ horas extras es la única
+  casilla condicionada de la matriz**, incompatible solo en Orquesta y Coro.
 
 ## Dos preguntas que el tema contesta sin que haya un artículo que lo diga
 

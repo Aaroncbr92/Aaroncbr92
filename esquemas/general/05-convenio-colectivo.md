@@ -5,9 +5,14 @@ Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 
 ## Identificación
 
+**Cuatro documentos anteriores al corte**, no tres:
+
 - **BOE-A-2020-16744** · Resolución 15/12/2020 · BOE 332 de **22/12/2020** · texto del convenio, **anexos 1-6**.
-- **BOE-A-2021-1334** · corrección de errores · añade **anexo 7**.
+- **BOE-A-2021-1334** · 29/01/2021 · corrección de errores: **añade el anexo 7** (factores personales y de arraigo).
+- **BOE-A-2021-8252** · 18/05/2021 · **sustituye entero el anexo 7** por el **baremo del art. 14.3**. **Es el vigente al corte.**
 - **BOE-A-2022-20256** · acuerdo de 10/11/2022 · BOE de **05/12/2022** · modifica **12, 13, 16, 17, 18, 21, 27, 30, 63, 102**, nueva **DT 8.ª**, nueva **DT 10.ª**, **anexo 8**.
+
+**Después del corte** (no examinable, pero desactualiza cualquier material reciente): **BOE-A-2023-9620** (corrige el anexo 3) · **BOE-A-2023-17840** (arts. **42, 50, 52, 57, 72, 91**, DT 3.ª y 9.ª, DF 1.ª) · **BOE-A-2024-4470** (arts. 13, 18, 21, 99.3 y 4, anexo 1, DT 8.ª, DF 1.ª) · **BOE-A-2025-24095** (cap. III entero, arts. 102 y 104.5, anexos 7 y 8, añade DT 11.ª y 12.ª).
 - **No es legislación consolidada**: no hay texto refundido oficial. `boe.py` no sirve.
 - **116 artículos · 13 capítulos · 3 DA · 9+1 DT · 1 DF · 1 derogatoria · 8 anexos.**
 
@@ -39,7 +44,7 @@ Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 - Cinco exclusiones del ámbito personal · tope de **25 contratos** de alta dirección.
 - **Comisión paritaria 7+7**, quórum **4 por parte**, resuelve en **10 días**. Mediación **obligatoria si la pide una parte**; **arbitraje voluntario**.
 - **Art. 7**: ordenación del trabajo = facultad exclusiva, **sin perjuicio de los derechos de la RLT**.
-- **Art. 14 traslados**: forzoso (no sobre quien tenga **≥5 años**) / convenido (**1 año prorrogable a 3**, **salvo el motivado por traslado forzoso del cónyuge, que es indefinido**) / **voluntario: fijo + misma ocupación tipo + 1 año de permanencia (2 el segundo)**. Baremo: antigüedad máx. **35 pts** (registro **1 pt/año, máx. 15**), enfermedad **12 pts**.
+- **Art. 14 traslados**: forzoso (no sobre quien tenga **≥5 años**) / convenido (**1 año prorrogable a 3**, **salvo el motivado por traslado forzoso del cónyuge, que es indefinido**) / **voluntario: fijo + misma ocupación tipo + 1 año de permanencia (2 el segundo)**. Baremo, **tres criterios**: **a)** antigüedad máx. **35 pts** (0,5/año empresa máx. 10 · 0,5/año ocupación tipo máx. 10 · **1 pt/año en el registro, máx. 15**) · **b)** enfermedad, discapacidad o dependencia **12 pts**, solo con acreditación oficial · **c)** **agrupación familiar 8 pts**. Los baremos de b) y c), **en el anexo 7**. Empate → **sexo menos representado** en esa ocupación tipo y destino. Traslado **inmediato**; incorporación hasta **8 meses** por causa motivada; **adjudicada y definitiva, no cabe renuncia**.
 - **Art. 15 registro de traslados**: inscripción previa imprescindible · **validez 3 años** renovables.
 - **Art. 23 comisión de destino**: puestos **no permanentes en organismos oficiales**, temporal, **se sigue en activo**.
 - **Art. 32 período de prueba**: **>6 meses → 3 meses**; **≤6 meses y duración incierta → 1 mes**. Cualquiera de las partes puede terminar **sin preaviso y sin indemnización**, **salvo las retribuciones devengadas**; informe del mando en **7 días naturales**; superado, **computa a todos los efectos**.
@@ -131,8 +136,27 @@ Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 
 ## Anexos
 
-**1** tablas salariales · **2** incompatibilidades · **3** clasificación —**los tres, solo imagen en el BOE**— · **4** Orquesta y Coro · **5** teletrabajo · **6** externalización · **7** (2021) factores de arraigo · **8** (2022) ocupaciones análogas.
+**1** tablas salariales · **2** incompatibilidades · **3** clasificación —**los tres, solo imagen en el BOE**, transcritos en `fuentes/convenio/imagenes/`— · **4** Orquesta y Coro · **5** teletrabajo · **6** externalización · **7** (2021) **baremo de enfermedad/discapacidad/dependencia y agrupación familiar** del art. 14.3 · **8** (2022) ocupaciones análogas.
 
+- **Anexo 7**: **enfermedad, discapacidad o dependencia hasta 12 pts**, escala **2·4·6·9·12**, por parentesco (solicitante o cónyuge · familiar de 1.º · familiar de 2.º, que **solo entra desde grado I o 33 %**) y grado. **Agrupación familiar hasta 8 pts**, escala **1·2·4·6·8**, cruzando situación (sin hijos · hijos de 12 a 18 · hijos hasta 12, también monoparental y divorcio · divorcio sin hijos) con distancia **<100 km · 100-250 km · >250 km**, tramo al que se equipara **insular/Ceuta/Melilla con familia en península y a la inversa**. Más cerca el parentesco y mayor el grado, más puntos; menores los hijos y mayor la distancia, más puntos.
+
+- **Anexo 1 · tablas salariales** (las publicadas son las de **2020**; los PGE las suben, la estructura no cambia):
+  - **Salario base: el importe depende solo del nivel, no del grupo.** De F1 a A3, **17 saltos**; **16 iguales** (~68,31 €) y **el de D2 a D1 más pequeño** (57,91 €).
+  - Complementos de puesto en **cuatro tramos**: **A-B · C-D del Grupo I-I · C-D del resto · E-F**. Excepción: **unidades informativas paga igual en los tres primeros** y solo baja en E-F.
+  - **Incremento de disponibilidad**: **opción 1 = 0 €**, opción 2 fija, opción 3 algo más del doble que la 2. **Igual en los cuatro tramos.**
+  - **Residencia**: **resto de Canarias, Ceuta y Melilla > Las Palmas/Gran Canaria/Tenerife > Baleares**, que es el más bajo.
+  - **Turnicidad: dos tablas, 35 h y 40 h semanales** — la letra b) del art. 50 en la práctica. **Fin de semana: dos columnas, 3 días y 2 días** (la de 2, por la DT 2.ª, se paga menos).
+  - **Rodaje: el importe crece con el riesgo, no con la renta.** Menor a mayor: pernocta en domicilio · U.E. · renta alta · renta baja · **riesgo sanitario** · **conflicto bélico**.
+  - **Guardias: cuatro importes**, no dos: localizable L-V, localizable S-D, y **día requerido** en cada franja. El **día S-D se paga a más del doble** que el L-V, aunque la **franja localizable de fin de semana cueste menos**.
+  - **El anexo sí cifra el preaviso de los arts. 49 y 50**, que esos artículos mencionan sin importe.
+  - **Orquesta y Coro emparejados**: concertino = ayudante de dirección · solista = jefe de cuerda = pianista del coro · tutti = profesor de coro = inspectores.
+  - **Comidas**: la de **rodaje** es la más alta; después con factura, sin factura y desayuno.
+- **Anexo 2 · incompatibilidades**: matriz **22 × 22**, tres símbolos —**X** incompatible a efectos económicos · **horas** incompatible por horas · **D** se acredita la diferencia—; **casilla vacía = compatible**.
+  - **Residencia y vivienda son compatibles con todo**: las dos únicas filas vacías.
+  - **La jornada de rodaje es la que más usa la D** (mando orgánico, responsabilidad, puesto de orquesta, disponibilidad, unidades informativas, nocturnidad).
+  - **Gratif. diversa, formación, nocturnidad y horas extras se cruzan entre sí «por horas»**, nunca con X.
+  - **Festivos ↔ horas extras solo son incompatibles en Orquesta y Coro**, «X (OyC)»: la **única casilla condicionada** del anexo.
+  - Frente a **jornada de rodaje**: **puesto de orquesta → D**, **instrumentos musicales → X**.
 - **Anexo 4** (30 arts., 5 caps.): **Grupo I-I, ámbito Orquesta y Coro**, exige **título superior de música**. Comisiones de régimen interno **4 miembros, cada 2 años, mínimo 3**; mesa = **más antiguo, mayor y menor**; empate **por sorteo**. Programación **2 veces/año**, información **15 días antes**. **Archivo bajo la Dirección del Fondo Documental.**
   - Jornada: **65,7 % de conjunto** · **≤6 sesiones semanales en 5 días** · **26 sesiones irregulares de 4 h**, **≤9 por trimestre**, **≤2 en fin de semana al mes**, festivos **+20 %**; contador a cero el **1 de enero**. Plan general **3 meses antes**; descanso semanal **2 días** (suspensión) / **5 días** (asignación).
   - Sesiones: **≤4 h**, **máx. 2 al día** (**≤3 h cada una**, salvo general + concierto) · **ensayo general ≤2 h 30**, sin nada antes ni entre medias · **concierto = 4 h** · **grabación ≤3 h** · parcial avisado **24 h**, no lo es **<30 min** · prueba acústica **45 min**, **1 h** con imagen y sonido.
