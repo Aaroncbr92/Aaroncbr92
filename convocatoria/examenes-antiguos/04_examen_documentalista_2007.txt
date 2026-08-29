@@ -1,0 +1,493 @@
+LE CONVOCATORIA GENERAL RTVE 1 / 2007
+da - PRUEBA TEÓRICA (día 15 julio 2007) -
+CATEGORÍA LABORAL: DOCUMENTALISTA
+1) Hablando de “exhaustividad, pertinencia, precisión, rapidez y economía”, nos
+referimos a:
+(A) Los objetivos de la documentación.
+B) Las características de una buena indización.
+C) Las características de una buena selección documental.
+2) Toda fijación exclusivamente sonora de la ejecución de una obra o de otros sonidos
+recibe el nombre de:
+A) Disco de audio.
+B) Partitura.
+(6) Fonograma.
+3) La anchura de una cinta en sistema Betacam SX (digital) es de: -
+A) % de pulgada.
+Ó) Y de pulgada. ,
+C) Ya de pulgada. D
+4) Qué tipo de documento es un resumen documental: A o
+A) Documento Primario. A EN
+Documento Secundario. | Ñ
+C) Documento Terciario.
+5) Hablando de documentos audiovisuales la unidad documental es: E
+a Cualquier unidad temática de información (película o programa, secuencia o plano).  -
+) La información que pertenece exclusivamente al ámbito de las imágenes.
+C) La información que permita exclusivamente la recuperación unitaria del programa.
+6) Qué tipos de documentos se engloban dentro de los que se conoce como “literatura
+gris”?
+(A) Los alejados de cauces comerciales, difíciles de obtener. Ñ
+B) Los de carácter sensacionalista. 7
+C) Los relacionados con el ámbito político.
+. 1
+
+,
+w 7) ¿Cuándo interviene el lenguaje documental en el proceso documental?
+á A) En la recuperación de la información.
+(B) En la recuperación y en la descripción de la información.
+C) En el registro y en la recuperación de la información.
+8) A la descripción externa o formal de un documento, se le llama:
+EN Catalogación.
+-  B) Resumen.
+et C) Descripción,
+9) Los metadatos que describen la relación entre los materiales son:
+3 ¡
+E Metadatos estructurales, — ' .
+. B) Metadatos descriptivos.
+o C) Metadatos administrativos.
+s 10) ¿Qué es entropía en documentación?
+A) Es sinónimo de ruido documental.
+B) Es sinónimo de silencio documental.
+(O) Es sinónimo de gran cantidad de información aportada por un signo o un mensaje.
+11) Una búsqueda por ADJ es: e
+A) Una búsqueda por operadores booleanos. . E
+Una búsqueda por operadores de proximidad.
+C) Una búsqueda por truncamiento. : y
+12) Los árboles PAT:
+A) Son una representación gráfica del proceso documental. .
+B) Se emplean para controlar los flujos de información dentro de una organización. 0
+(5) Son una técnica empleada para la construcción de un índice.
+13) Una de las principales diferencias entre los actuales tesauros y las ontologías sería:
+Q La presencia de una mayor variedad de relaciones entre los conceptos en las ontologías,
+B) Que las ontologías no representan el conocimiento. :
+C) La inexistencia de relaciones entre los conceptos en las ontologías.
+| | : 2
+
+" 14) Cómo definiría un tesauro reticular: : :
+(8) Como un tesauro construido en forma de red en el cual los descriptores se entrecruzan
+Lo. B) Como un tesauro construido por un grupo de trabajo interdisciplinar, que ha trabajado en
+red.
+C) Como un tesauro empleado de manera común por una red de centros.
+15) ¿Qué se entiende por taxonomía en documentación?
+A) Es una identificación hecha a través de un conjunto abierto de descriptores.
+(B) Es una identificación realizada a través de una lista de términos organizada de manera
+jerárquica.
+C) Es una identificación hecha mediante indización libre de palabras clave.
+16) El término de un lenguaje documental controlado que permite acceder al contenido
+temático de un documento, se denomina:
+A) Recuperador.
+B) Puntero.
+(O) Descriptor.
+17) Un término específico subordinado a más de un término genérico, se denomina:
+A) Polisémico. >,
+(Y) Polijerárquico.
+C) Sinonímico.
+18) Al grado de adecuación temática de un término, en relación con el contexto del lenguaje
+documental, se denomina: . N 0.
+A) Relevancia. j
+6) Pertinencia, ¡ $
+C) Profundidad. ' Ñ
+19) Si en un tesauro vemos alcohol etílico USE ETANOL. ¿A qué tipo de relación se está
+refiriendo? : ES
+A) Relación jerárquica. | -
+B) Relación asociativa. Ñ
+O) Relación de equivalencia. .
+20) ¿A cuál de estas opciones corresponde la norma 180-214 de Documentación?
+A) Catalogación de documentos sonoros. ?
+B) Indización. >
+(C) Elaboración de resúmenes. :
+, . Ñ
+
+, !
+21) De la misma forma que el ISBN es un estándar de identificación de un libro o una
+monografía ¿existe un código normalizado para identificar las grabaciones sonoras?
+á A) Está en trámite de aprobación por la International Organization for Standardization (1SO).
+5) Sí, es el International Standard Recording Code y lo estableció la norma ISO 3901 ISRC.
+o C) No, en las grabaciones comerciales únicamente debe aparecer la referencia del catálogo
+de la editora discográfica.
+- 22) El Formato MARC es:
+- A) Un formato de normalización de encabezamientos de catálogos referidos a nombres de
+Ni personas o entidades y a títulos uniformes.
+6) Un sistema de registro catalográfico legible por máquina.
+C) Un formato de unificación de registros para marcas y patentes.
+% | .
+- 23) El procedimiento de grabación y reproducción de un DAT (Digital Audio Tape) es:
+z QU Magnético. :
+. B) Mecánico.
+: C) Óptico.
+24) El fenómeno consistente en que la información registrada en una vuelta de la cinta se
+traspase.a la contigua se denomina:
+(A) Efectó de eco.
+B) Información dúplex. y
+C) Contacto acústico. Ls
+25) Un CD regrabable es un soporte:
+| A
+y Ss
+A) De disco magnético.
+Optico.
+C) Fotoquímico.
+26) TIFF es: |
+A.) Un lenguaje de marcado de documentos. | |
+Un formato para imagen digital. .
+C) Un formato para documentos textuales.
+| 4
+
+" 27) ¿Qué “dos premisas básicas” debe cumplir un Centro de Documentación en un
+medio de comunicación?
+a A) Colaborar con las instituciones y prestarles documentos.
+6) Preservar el patrimonio documental y atender las necesidades de producción.
+C) No eliminar ningún documento y prestarlos a usuarios externos. -
+28) ¿Qué televisión dispone de un centro de documentación que además de la gestión y
+explotación comercial de su archivo documental permite el acceso desde su página web a l
+un servicio de venta de imágenes?
+A) TVE
+(B) BBC
+C) ANTENA 3
+29) Efedata es una base de datos de la Agencia EFE de carácter:
+A) Biográfico.
+B) Nacional.
+(€) Genérico.
+30) La asociación que agrupa a los distintos archivos de televisión del mundo es:
+A) ElITC | >
+B) El NTIS
+(C) La FIAT
+31) Un fichero inverso contiene: A
+A) Todos los documentos de una base de datos ordenados cronológicamente del más moderno'al má:
+antiguo.
+Todos los términos con significado semántico de un documento ordenados quiabéticamente
+) Todas las palabras vacías de una base de datos.' $
+32) El acceso múltiple a una base de datos permite: .
+A) Acceder desde cualquier punto. ]
+Acceder varios usuarios al mismo tiempo. -
+C) Acceder por distintos medios.
+33) ¿Qué es un distribuidor de información? .
+$) Institución que oferta comercialmente numerosas bases de datos.
+B) Empresas distribuidoras de técnicas especializadas en Información. ?
+C) Microordenadores de textos informativos. ”
+e | 5
+
+. +
+34) De entre los tres propuestos, de qué campo podría prescindir usted a la hora de diseñar
+una base de datos de grabaciones sonoras de folclore español
+(8) Autor.
+”  B) Ámbito geográfico.
+C) Intérprete.
+35) BARATZ es una base de datos referencial que ofrece:
+- EN Noticias publicadas en los principales medios de comunicación escrita.
+B) Noticias sólo sobre los medios de comunicación audiovisuales españoles
+, "  C) Noticias exclusivamente relacionadas con la Medicina
+36) ¿Qué es un “podcast”?
+Ay Una base de datos relacional.
+a) Un sitio web que proporciona ficheros de audio o vídeo colocados en Internet para que
+. cualquiera se suscriba a ellos.
+e C) Un sistema informatizado que controla los procesos de producción y emisión de una
+o cadena de radio.
+37) La cadena de caracteres con la cual se asigna una dirección única a cada uno de los recursos de
+información disponibles en Internet se denomina: ,
+A) HTML
+B) HTTP +
+(C) URL ,
+SS xÓÚ El W3C trata de alcanzar sus objetivos principalmente a través de la creación de :
+Estándares Web y Pautas, denominados Recomendaciones del W3C. Díganos cuál de los *
+siguientes no es Recomendación del Consorcio: Ñ
+í
+] pS
+A) Voice Extensible Markup Language (Voice XML) 2.1
+B) XHTML Print.
+(C) SQL Server.
+39) Usted entraría en la página zattoo.com si quisiera:
+A) Descargar software libre, pues es el mayor reservorio internacional.
+B) Entrar en contacto con otros documentalista a través de su famosa lista de distribución.
+(C) Ver gratuitamente en el ordenador varios canales de televisión disponibles.
+40) El dispositivo que permite la conexión entre ordenadores a través de la línea telefónica,
+al transformar la información digital en analógica, se denomina:
+A) Software. :
+Módem.
+C) Página Web.
+| 6
+
+41) ¿Qué es una “cookie”?
+o A) Una petición al servidor de información periódica sobre número de accesos diarios a una
+página web.
+B) Un detector de spyware que se activa desde el propio servidor.
+(e Un fragmento de información que se almacena en el disco duro del visitante de una página
+web a través de su navegador . :
+42) En “Teledocumentación”, la “Tasa de errores” de la trasmisión de datos se cuantifica
+en:
+(A) Bits. .
+B) Digitos.
+C) Impulsos.
+43) Pares”:
+A) Es un portal de archivos históricos alemanes.
+B) Es una oficina virtual.
+(C) Es un portal de archivos sobre el patrimonio histórico documental español.
+44) En la World Wide Web (WWW), cuando hablamos de “nodo”, nos referimos a:
+(A) La unidad básica de información del hipertexto.
+B) La confluencia de dos informaciones. á
+C) Al enlace de otra conexión. %
+45) Una de las siguientes afirmaciones relacionadas con el hipertexto no es cierta: z
+0) El hipertexto se basa en la lectura y escritura setuencial de documentos. $
+B) Tiene su origen en la asociación o relación de conceptos. _
+C) El término fue acuñado por Theodor Nelson.
+46) El Noticiario Documental, NO-DO, cuyos fondos tiene en depósito RTVE, comenzó a :-
+emitirse en los cines en el año: |
+A) 1939. -
+(B) 1943.
+C) 1946. : . Ñ
+47) Sól0 na de las siguientes afirmaciones es cierta respecto a la Orquesta y Coros de
+RTVE:
+A) La Orquesta « diotelevisión Española tiene carácter sinfónico.
+B) Pertenec ioteleyisión española desde sus orígenes.
+C) Su sede oficial es el Auditorio Nacional de Música.
+' : 7
+
+48) El actor Valentín Tornos se hizo popular interpretando en TVE el personaje de:
++ A) Chanquete.
+(8) Don Cicuta.
+C) Locomotoro.
+49) Los miembros del Consejo de Administración de RTVE son elegidos por:
+l A) El Presidente del Gobierno.
+-  B)El Consejo de Ministros.
+.* (C) Las Cortes Generales.
+50) El Congreso de los Diputados designa al Presidente de la Corporación RTVE, pero
+¿Qué mayoría de la Cámara se requiere?
+t
+. A) Mayoría simple.
+Ñ B) Mayoría de tres quintos.
+(C) Mayoria de dos tercios.
+51) En radio, un elemento de continuidad habitual es la cortinilla. Pero ¿qué es
+exactamente?
+A) Una intervención muy breve, grabada o en directo, que recuerda al oyente el programa, la
+emisora que está sintonizando o ambas cosas.
+B) Un tema musical, o una serie de temas, que se utilizan de forma recurrente, como fondo ,
+de continuidad para textos, transiciones o entradillas.
+(0) Una ráfaga de separación musical, habitualmente entre secciones, normalmente
+pregrabada. . : -
+52) La cinta con imágenes captadas directamente por la cámara, generalmenté:con sonido
+ambiente y en la que no se ha realizado ningún trabajo de edición es:
+A.) Un repicado.
+Un bruto. * .
+C) Un compactado.
+53) De entre las siguientes iniciativas de metadatos, elija una para incorporar a los objetos
+de audio producidos por Radio Nacional de España para el intercambio con el resto de
+emisoras de las organizaciones internacionales a las que pertenece: -
+A) P-Rra. .
+B) P-Xchema. :
+(O P- Meta. -
+| 8
+
+: 54) ¿Qué norma se ha aceptado internacionalmente para comprimir imágenes en
+movimiento asumiendo cierta pérdida de calidad?
+A) STANDARD.
+B) ISO.
+(C) MPEG.2.
+55) Los Key-frames son:
+A) Fotogramas digitalizados. .
+B) Secuencias de video.
+(C) Imágenes clave de un contenido.
+56) Cómo se denomina a un espacio publicitario en radio:
+A) Ráfaga.
+Cuña.
+o C) Cortinilla.
+57) Cuando hablamos de un plano de recurso nos referimos a:
+A) Un plano recurrente a lo largo de una grabación.
+6) Un plano que sirve para hacer una transición entre dos planos.
+C) Un plano utilizado para ilustrar conceptos abstractos. l
+58) Un sistema de compresión JPEG es:
+(3) Un sistema de compresión de imágenes fijas con pérdida. as
+B) Un sistema de compresión de audio con pérdida.  . > Ñ
+C) Un sistema de compresión sin pérdida. A E
+59) Movimientos de cámara son: á $
+(y La panorámica y el travelling . .
+B) El plano medio y el plano cenital.
+C) El plano americano y el eje de acción . :
+60) Las especificaciones Broadcast Wave Format (BWE) se refieren a: -
+(A) Estándares para el intercambio de ficheros de audio. -
+B) Normas para la catalogación de formatos sonoros.
+C) Reglas de clasificación de soportes de audio.
+, . E o 9
+
+61) ¿Cuál es el candidato por la Unión Europea para dirigir el FMI? |
+A) Alistair Darling. :
+0. . (8) Dominique Strauss-Khan.
+? C) Fernando Teixeira dos Santos.
+62) Países que forman parte de MERCOSUR: |
+/ A) Argentina, Venezuela, Paraguay y Chile.
+Argentina, Brasil, Paraguay y Uruguay.
+C) Venezuela, Argentina, Paraguay y Brasil .
+63) El director del Banco Mundial es:
+6) Robert Zoellick. Ñ
+B) Paul Wolfowitz.
+. C) Rodrigo Rato. .
+o 64) El actual presidente de la CEOE es:
+(A) Gerardo Díaz Ferrán. ”
+B) Salvador Santos Campano.
+C) José María Cuevas.
+65 $4) La “Operación Puerto” es llamada también: e
+A) Operación contra la corrupción fiscal en Marbella. z
+B) Operación contra la especulación inmobiliaria en las costas españolas.
+(e) Operación contra el dopaje en el deporte. h
+j »
+66) ¿Quién es el actual director creativo de la gama de alta costura de la casa Christian
+Dior?
+(A) John Galliano.
+B) Jean Paul Gaultier. Ñ
+C) Oscar de la Renta.
+67) Los Príncipes de Orange son: Ñ |
+A) Los príncipes herederos de Bélgica.
+B) Los príncipes herederos de Luxemburgo. /
+(C) Los principes herederos de Holanda.
+| | 10
+
+: 68) ¿A qué cantante se le ha concedido el Premio Príncipe de Asturias de las Artes en la
+edición del año 2007?
+o A) María Joao Pires
+6) Bob Dylan
+C) Elton John
+69) El equipo ganador de la Copa América de Vela de este año, Alinghi, es:
+A) Italiano.
+Suizo.
+C) Canadiense.
+70) Los últimos Juegos Olímpicos de Invierno se han celebrado:
+A) En Salt Lake
+B) En Nagano.
+(C) En Turín.
+71) ¿Qué jugador de fútbol se ha proclamado ganador de la bota de oro de la temporada
+2006/2007?
+(A) Francesco Totti. £
+B) Ruud Van Nistelrooy.
+C) Luca Toni.
+72) Lilí Alvarez, es conocida, entre otras Cosas, por ser: $
+y) La primera española en jugar una final del Torneo de tenis de Wimbledon. o o
+B) La primera española en ganar el concurso The look of the year que organiza la
+agencia de modelos Elite.
+0) La primera española en llegar en solitarjo a la cima del Everest . $ .
+73) El Presidente del Senado español es:
+A) — Joaquín Almunia. * E
+B) Francisco Frutos. :
+(C) Francisco Javier Rojo. -
+74) El Portavoz del Partido Popular en el Senado Español es: :
+A) Eduardo Zaplana |
+Pío Garcia-Escudero
+C) Angel Acebes Y
+' 11
+
+75) Nombre del director del CNI, Centro Nacional de Inteligencia
+_. A) Francisco Pardo :
+Alberto Sáiz
+! C) Justo Zambrana
+76) Quién sucedió a Felipe González en la Secretaría General del PSOE en 1997
+A) Josep Borrell
+. B) José Luis Rodríguez Zapatero
+(O) Joaquín Almunia
+77) La ley de investigación Biomédica:
+O Autoriza la clonación terapéutica.
+1B) Prohíbe la clonación terapéutica.
+C) No aborda el tema de la clonación terapéutica.
+j . 78) ¿Quién consiguió aislar por primera vez un gen humano mutado capaz de causar
+" cáncer “oncogen”?
+(£) Mariano Barbacid. .
+B) Bernat Soria.
+C) Manuel Patarroyo.
+79) ¿Cómo se llama el Buque de Investigación Oceanográfica con el que el CSIC realiza "
+actualmente una investigación sobre el clima cerca del Polo Norte? o.
+A) Helios. . | .
+B) Heráclides.
+(C) Hespérides. : A
+80) La Silvicultura está directamente relacionada con:
+A) La Acuicultura. o
+B) La Zootecnia.
+(C) Los bosques. .
+81) El cuadro que representa al emperador Carlos V a caballo en Múblberg es obra de:
+A) Tintoretto :
+6) Tiziano.
+C) Durero. :
+or
+
+no 82) Cuál ha sido la intervención de Miquel Barceló en la Catedral de Palma de Mallorca:
+(AÁJLa decoración de la capilla de San Pedro.
+-- B) El Retablo del Altar Mayor.
+CjLos frescos del Coro.
+83) El estilo artístico del pintor Antonio López García puede adscribirse al:
+A) Expresionismo abstracto. |
+B) Arte Pop. a
+(O) Realismo.
+84) El Premio Pritzker, otorgado anualmente por la Fundación estadounidense Hyatt, y
+concedido este año al británico Richard Rogers, es considerado por muchos como:
+(A) El Nobel de arquitectura.
+B) El Nobel de farmacia.
+C) El Nobel de escultura.
+85) Uno de los siguientes escritores españoles ha recibido el Premio Nobel de Literatura
+A) Gregorio Marañón
+B) José Ortega y Gasset ]
+O) José Echegaray ,
+86) ¿Quién es el autor del libro de memorias “Pelando la cebolla??
+A) Amin Maalouf. N
+6) Gúnter Grass. es
+C) Henning Mankell. ] 3 E
+, de
+87) “El Jarama” es una novela de: á A
+A) Carmen Laforet.
+6) Rafael Sánchez Ferlosio.
+C) Camilo José Cela. P _
+88) ¿Quién es el autor del libro de poemas “Soledades”? -
+(4) Antonio Machado. :
+B) Manuel Machado.
+C) Miguel Hernández.
+Lo UN 13
+
+89) La sinfonía n* 9 de Antonín Dvorak es conocida como:
+- A) La Patética :
+B) La Heroica
+- * (OC) Del Nuevo Mundo
+90) Cuál de las siguientes obras quedó inacabada a la muerte de Mozart?
+-A) Don Giovanni
+(B) El Réquiem en RE Menor
+. C) La Sinfonía 41, Júpiter
+7 91) El premio internacional de interpretación Paloma O*Shea se concede a:
+A) Violinistas.
+Pianistas.
+y, €) Cantantes líricos. Ñ
+1
+Ñ 92) ¿Qué músico no pertenece al periodo musical cuya técnica de armonía y composición se
+.. denomina *dodecafonismo”?
+» A) Arnold Schónberg
+B) Alban Berg >
+(C) Jean Sibelius
+93) ¿Bajo el Feinado de qué monarca se fundó la Real Academia Española de la Lengua?
+A) Fernando VI. e
+B) Carlos III.
+(C) Felipe V. | .
+i
+94) El 18 de julio de 1936 ¿quién era el Presidente de la II República Española)
+A) Niceto Alcalá Zamora.
+B) Francisco Largo Caballero. .
+(C) Manuel Azaña. e
+95) ¿Quién fue el primer ministro de Israel tras la proclamación de su nuevo estado en el
+siglo XX? ,
+A) Chaim Weizmann
+David Ben Gurion
+) Golda Meir
+| 14
+
+: 96.- El yacimiento de Atapuerca en Burgos: :
+A) Contiene la colección de pinturas rupestres más importantes de España.
+: (B) En él se realizó el descubrimiento de una nueva especie, el homo antecessor.
+C) No ha proporcionado, de momento, ningún resto humano prehistórico.
+97) El presidente de la Conferencia Episcopal Española es en la actualidad:
+A) Antonio Rouco Varela. -
+B) Antonio Cañizares.
+(€) Ricardo Blázquez.
+98) ¿Quién ha recibido el Premio Principe de Asturias de Comunicación y Humanidades
+2007?
+A) National Geographic Society.
+B) Institutos culturales europeos.
+(O) Revistas cientificas Science y Nature.
+99) ¿Cuál de estos compositores no es autor de bandas sonoras de películas?
+(K) Cesar Franck.
+B) Lalo Schifrin. 5
+C) Henry Mancini. o
+100) La República de Turquía fue fundada en 1923 por: ,
+(Y Mustafá Kemal. A
+B) Recep Tayipp Erdogan. e
+C) Necbettin Erbakan. >
+y 15

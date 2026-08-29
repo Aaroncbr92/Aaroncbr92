@@ -41,6 +41,18 @@ junto: 41 preguntas de 120.
 Las preguntas citan el artículo por su número. El tema tiene que llevar el
 precepto pegado a cada regla o no sirve para contestarlas.
 
+Y se repiten: entre ocupaciones de la misma convocatoria y entre convocatorias,
+a veces palabra por palabra, y cuando cambian solo cambia el dato —el mismo
+molde con otro tramo de la tabla o con otro año—. Por eso, donde una pregunta
+pide un tramo, el tema trae la tabla entera.
+
+## La prueba de que un tema está terminado
+
+El apartado 7 del manual manda inventar de diez a quince preguntas del estilo
+real. Aquí no hace falta inventarlas: `banco/` tiene **465 preguntas reales del
+bloque común con la respuesta oficial**. Un tema del bloque común no se da por
+terminado hasta que contesta todas las suyas con el cuerpo delante.
+
 ## Orden
 
 **Fase A — el bloque común (9 temas).** Rinde por tres desde el primer día.

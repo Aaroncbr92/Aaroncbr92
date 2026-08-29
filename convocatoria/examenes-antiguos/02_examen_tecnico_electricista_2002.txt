@@ -1,0 +1,238 @@
+? e
+e) DIRECCIÓN AREA RECURSOS HUMANOS RTVE
+(9) DIRECCIÓN PLANIFICACIÓN Y DESARROLLO RA HH. RTVE
+G RU P O
+CONVOCATORIA EMPLEO PUBLICO 1/2002
+( PREGUNTAS:
+1.- ¿Cuando estará previsto que entre a funcionar el alumbrado de emergencia?
+A) Estará siempre funcionando
+(8) Al producirse el fallo de los alumbrados generales o cuando las tensión de estos
+baje a menos del 70% de su valor nominal,
+C) Al producirse el fallo de algún servicio.
+2.- ¿Qué es una superficie equipotencial?
+A Todos tos puntos de espacio que tienen la misma potencia eléctrica.
+Es el lugar geométrico de los puntos del espacio que se encuentran al mismo
+potencial,
+O Es una superficie esférica de radio unitario.
+3.- ¿Cuales son las perdidas mas importantes de un transformador en vacío?
+A) Las pérdidas en el cobre.
+(80) Las pérdidas en el hierro
+C)  Notiene pérdidas.
+4.- ¿Qué es un termopar?
+A) | Es el resultado de la variación de la temperatura ambiente en las medidas
+eléctricas. o
+(B) Circuito formado por dos conductores de metales diferentes unidos por los
+extremos.
+C) Es el par de un motor a la temperatura de funcionamiento.
+5.- — Para reducir las perdidas por corrientes parásitas o de Foucault en los núcleos
+magnéticos se recurre a:
+A Que sean compactos.
+Constituir el núcleo con chapas delgadas aisladas entre sí.
+Las perdidas son iguales en cualquiera de los casos.
+6.- — Cuando una U.P.S. realiza un Bypass estático: :
+4) Cuando realiza transferencias de carga del inversor a la red y viceversa.
+Siempre que esté en funcionamiento.
+C) Nunca.
+. A as ATAR
+
+e) DIRECCIÓN AREA RECURSOS HUMANOS RTVE
+(7) DIRECCIÓN PLANIFICACIÓN Y DESARROLLO RA HH. RTVE
+ST.HUVUTPO
+CONVOCATORIA EMPLEO PUBLICO 1/2002
+PREGUNTAS:
+7.- Ladiferencia de velocidades entre el flujo giratorio y el rotor de un motor
+asíncrono de inducción se llama:
+A) Aceleración.
+Á) Deslizamiento.
+Deceleración
+8.- En una línea trifásica equilibrada. ¿Qué .-intensidad circula por el conductor
+neutro?
+¡CO
+B)  ILV3
+C) IL/v3"
+9.- - Enun circuito de CC con una carga inductiva, que le pasa al coseno de p.
+: A) Aumenta.
+B) Disminuye.
+(CP  Noexiste coseno de $
+10.- En la puesta en marcha de un telerruptor, con que elemento lo haremos.
+A)  Conun interruptor.
+Gon un pulsador.
+) Con un conmutador
+11.- Un vatímetro de que consta.
+A) Deuna bobina amperimétrica.
+B) De una bobina voltimétrica.
+(CD De una bobina amperimétrica y una bobina voltimétrica.
+12.- La potencia de una plancha a 125 voltlos es de 500 vatios, calcular las calorías
+desprendidas en una hora. o
+A) 432000 calorías.
+434000 calorías. ,
+C) 436000 calorías.
+13.- Un fasímetro que nos mide.
+A) Los henrios. a
+El coseno de ó. y OS
+C) Ninguna de las dos opciones. Lago
++ A ES | e A TES ci e
+
+fa DIRECCIÓN AREA RECURSOS HUMANOS RTVE
+(7 DIRECCIÓN PLANIFICACIÓN Y DESARROLLO RA HH. RTVE
+G RU PO
+CONVOCATORIA EMPLEO PUBLICO 1/2002
+PREGUNTAS:
+14.- ¿Cuantos circuitos tiene como mínimo una vivienda con un grado de
+electrificación media?
+A) 2 Circuitos.
+(BD 4 Circuitos.
+C) 6 Circuitos.
+15.- Con un telurómetro, ¿qué mediremos?.
+A) La intensidad luminosa.
+B) El efecto estroboscópico de un tubo fluorescente.
+(CO)  Laresistencia a tierra.
+16.- ¿Qué puede causar la pérdida de las propiedades magnéticas de un imán?
+A) Cambios de presión
+: Golpes y excesos de temperatura
+Disminución de la temperatura
+17.- Para realizar la conexión en estrella en un motor trifásico:
+A) ,Se unirán con puentes los terminales ( u-z), (v-x), (w-y)
+«BD Se unirán con puentes los finales z-x-y
+C) No es necesario hacer ningún puente
+18.- Si utilizamos un prolongador enrrollado de 15m de largo .para alimentar una
+lámpara portátil de 2000w, que está situada a 8m de la toma de corriente:
+A) Se vigilará que no tenga nudos
+B) Se desenrrollará lo suficiente para que llegue hasta el portátil
+CC) Se desenrrollará del todo, aunque sobre
+19.- En un termistor PTC:
+A La resistencia disminuye al aumentar la temperatura |
+B La resistencia aumenta al aumentar la temperatura
+C) La resistencia aumenta al disminuir la temperatura .
+
+ys DIRECCIÓN AREA RECURSOS HUMANOS RTVE
+Ss DIRECCIÓN PLANIFICACIÓN Y DESARROLLO RR HH. RTVE
+GcG Ru PO
+CONVOCATORIA EMPLEO PUBLICO 1/2002
+PREGUNTAS:
+20.- Con suelo húmedo, a partir de que tensión se considera que hay peligro para las |
+personas:
+CAN 24v
+= 49 v
+C) 110v
+21.- ¿Cuando consume más una lámpara de Incandescencia?:
+1) En el momento de encender
+Pasados 30 minutos
+) Consume siempre ¡gual
+22.- ¿Cual es el valor numérico de la Resistividad del cobre?:
+A) 0,0172
+. 0,179
+C) 0,157
+23.- Indica la corriente que pasa por un circuito monofásico, formado por tubos
+fluorescentes, de las siguientes características: U=200 V; P=2000 W; cos p=0,5
+5 “Los datos no se corresponden a un tubo fluorescente
+20A
+O) 10A :
+24.- En sistema de distribución de energía eléctrica, con las masas unidas
+directamente a tierra y con algún punto de la alimentación con conexión directa a
+tierra, se denomina:
+A) TN
+B MT
+Cy TT |
+25.- Ante un fallo de red, ¿qué elementos de un SAI (sistema de alimentación
+ininterrumpido) alimentarán la carga?
+A) Rectificador e inversor.
+Rectificador y batería,
+Inversor y batería.
+EE A O
+
+nm | DIRECCIÓN AREA RECURSOS HUMANOS RTVE
+“y DIRECCIÓN PLANIFICACIÓN Y DESARROLLO AR HH. RTVE
+G.RuU PO
+CONVOCATORIA EMPLEO PÚBLICO 1/2002
+PREGUNTAS:
+26.- ¿Cuál será la resistencia de aislamiento mínima de una instalación de BT, entre
+conductores y entre estos y tierra, con una longitud de canalización inferior a 100
+m?
+A) 380 KQ.
+(B) 250 Ko.
+Cy 100KQ.
+27.- Un cable con el marcado HO5VV-F 3G1, nos indica:
+A) Cable formado por tres conductores flexibles de 1mmY y uno de ellos de color gris.
+B) Cable formado por cinco conductores flexibles de 3mm%? y uno de ellos de color
+gris. j
+O) Cable formado por tres conductores flexibles de 1mm? y uno de ellos de color
+verde-amarillo,
+28.- ¿Que es la corriente eléctrica?
+A La diferencia de potencial
+El desplazamiento de una carga eléctrica a lo largo de un conductor.
+)  -Laresistencia que opone el circuito al paso de la corriente.
+29.- La conductancia es:
+A La magnitud proporcional a la resistencia. o
+La magnitud inversa a la resistencia.
+0) La capacidad de un condensador.
+30.- En una agrupación de pilas en serie, ¿Qué le ocurre a la tensión?
+A) Que disminuye
+Que aumenta
+C) Que es constante.
+31.- Se conectan en paralelo cinco resistencias de 10 ohmios cada una, cual sería el
+valor de la resistencia total? :
+5 10
+2 :
+0) 5
+
+ya DIRECCIÓN AREA RECURSOS HUMANOS RTVE
+(5) DIRECCIÓN PLANIFICACIÓN Y DESARROLLO RA HH. RTVE
+SRP
+CONVOCATORIA EMPLEO PUBLICO 1/2002
+PREGUNTAS:
+32.- Indicar la fórmula para el cálculo de la intensidad en un circuito trifásico:
+A I=P.S/ (X . 13. cos 4 V)
+on I=P/ (YT. .cosg. V)
+) I=P.R.V/ (43 cos $)
+33.- Indicar qué prueba es necesario realizar para determinar si en un motor de fase
+partida, el arrollamiento tiene un defecto a tierra:
+A)  Midiendo tensiones entre fases
+B Midiendo intensidades en las bobinas
+e Midiendo con un ohmetro colocando un terminal en el arrollamiento y el otro en el
+núcleo del estator
+34.- Indicar el orden de maniobras de desconexión, en un Centro de Transformación de
+M.T.:
+A) Desconectar la carga, poner a tierra el transformador, abrir seccionador, abrir
+interruptor.
+B) Poner el transformador a tierra, desconectar carga, abrir el interruptor, abrir el
+seccionador.
+O) * Desconectar carga, abrir el interruptor, abrir el seccionador, poner a tierra el
+transformador.
+35.- Si aplicamos a la entrada de un transformador de 125V/220V 300W una tensión de
+115V DC ¿qué sucederá? .
+A) Tenemos a la salida 220V DC
+B Tenemos a la salida 210V DC
+Se quema el transformador
+36.- ¿Cómo mejoramos el factor de potencia de una instalación?
+Colocando un condensador al consumidor de energía reactiva.
+B Poniendo motores trifásicos asíncronos.
+C) Poniendo motores monofásicos asíncronos.
+37.- ¿Para qué sirve un condensador conectado entre los extremos de un interruptor
+que acclona un motor de 300W?
+A) Para mantener el motor en marcha. z
+(B) Para evitar chispas en el momento de parar y arrancar. o
+Para aumentar el coeficiente Q. - EN
+. : o CAN SR,
+: . . a co
+
+. - > .
+a DIRECCIÓN AREA RECURSOS HUMANOS RTVE
+E) DIRECCIÓN PLANIFICACIÓN Y DESARROLLO RR HH. ATVE
+AAA NADO UU TIA
+G.Ru P 0
+CONVOCATORIA EMPLEO PÚBLICO 1/2002
+PREGUNTAS:
+38.- ¿Cuál es el número máximo de curvas de 90" situadas entre dos cajas de registro?
+A) 1
+| BD 2
+O
+39.- Indica cual de los tres conductores de cobre, desnudos e instalados al aire, admite
+la mayor densidad de corriente.
+6 mm?.
+B 16 mrr/.
+C)  50mnrY.
+30 ' ¿Cual es la función eléctrica de las armaduras de un transformador?
+o A Aisiar el primario y el secundario.
+| Canalizar el flujo magnético.
+O) Servir de soporte a los devanados.

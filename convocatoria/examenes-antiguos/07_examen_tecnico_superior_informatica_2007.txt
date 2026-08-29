@@ -1,0 +1,898 @@
+CONVOCATORIA GENERAL RTVE 1 / 2007
+- PRUEBA TEÓRICA (día 23 de julio de 2007) -
+Categoría Laboral: PROFESIONAL SUPERIOR INFORMÁTICA.
+1) ¿Cuántos tipos de drivers existen en JDBC?
+A) 2.
+B) 3.
+CO) 4.
+D) Tantos como SGBD's.
+2) ¿Qué afirmación no es correcta respecto al lenguaje XML (eXtensile Markup
+Language)?
+A) XML permite definir nuevas etiquetas y nombres.
+B) Los documentos HTML son directamente compatibles con los XML.
+C) Los documentos XML permiten validaciones para comprobar que son correctas.
+D) En XML la estructura del documento puede anidarse en varios niveles de complejidad.
+3) ¿Cuál de los siguientes es un método definido en la interfaz ServletRequest?
+A) getScheme.
+B) isAvailable.
+C) getDispatcher.
+D) init.
+4) Puede considerarse un Schema XML (XSD), como una alternativa a:
+A) XSL.
+B) DTD.
+C) DOM.
+D) SAX.
+5) En Métrica v3 “Gestión de Proyectos” es:
+A) Un interface.
+B) Un proceso.
+C) Una actividad.
+D) Una tarea.
+1
+
+6) Dentro del estudio de viabilidad del sistema, para realizar la actividad de estudio de la
+situación actual, Métrica v3 propone utilizar entre otras técnicas:
+A) El diagrama de clases, el diagrama de descomposición funcional y el diagrama de flujo de
+datos.
+B) El análisis de coste/beneficio, el diagrama de clases y los casos de uso.
+C) La catalogación, el diagrama de clases y el diagrama de flujo de datos.
+D) El diagrama de flujo de datos, el diagrama de representación y el diagrama de
+descomposición funcional.
+
+7) ¿Cuál de estas acciones se permite ejecutar en un navegador a un applet no firmado
+descargado de Internet?
+
+A) Leer ficheros locales.
+
+B) Cargar librerías nativas.
+
+C) Conectarse a la máquina desde la que se descargó.
+
+D) Llamar a métodos privados de otros applets de la misma página.
+
+8) Si se decide la utilización de WebServices (WS) en la construcción de un sistema
+informático compuesto por distintos módulos que se comunican entre sí a través de
+dichos WS:
+
+A) Los WS de los distintos módulos tienen que ser implementados utilizando la misma
+tecnología.
+
+B) Los WS de distintos módulos pueden ser implementados en distintas tecnologías.
+
+C) Pueden existir WS implementados en .NET y Java simultáneamente, pero sólo si se utiliza
+el protocolo SOA para su interconexión.
+
+D) Pueden existir WS implementados en .NET y Java simultáneamente, pero sólo si se utiliza
+UDDI para su publicación.
+
+9) ¿Qué define la sección binding de un WSDL?
+
+A) Define los tipos de datos que se transmitirán en un mensaje SOAP asociado a un web
+Service.
+B) Define el protocolo y el formato de los datos para un tipo de puerto determinado.
+C) Define de forma abstracta una acción admitida por el servicio.
+D) Define los puntos finales que permiten el acceso al servicio web.
+10) ¿Cuál es la definición del método ¿nit de la interfaz javax.servlet.Servlet de Java?
+A) public void init(ServletConfig config) throws ServletException.
+B) public void init(HttpServletConfig config) throws ServletException.
+C) public void init(ServletConfig config.ApplicationConfig cfg) throws ServletException.
+D) public void init(ApplicationConfig cfg, ServletConfig config) throws ServletException.
+11) Algunas de las etiquetas de estilo de caracteres en HTML son:
+A) <sup>, <code>, <strong>, <kbd>.
+B) <strong>, <code>, <samp>, <kbd>.
+C) <strong>, <code>, <small>, <kbd>.
+D) <strong>, <code>, <big>, <sub>.
+2
+
+12) ¿Cuál de las siguientes constantes podemos utilizar en un ResultSet de Java para
+
+modificar el modo de apertura?
+A) CONCUR_READ_WRITE.
+B) CONCUR_UPDATABLE.
+C) CONCUR_WRITEONLY.
+D) CONCUR_ONLY_READ.
+
+13) En la métrica V3, las técnicas en la determinación del alcance del sistema en ASI 1.1
+son:
+
+A) Casos de Uso, Modelo Conceptual de datos, Modelo Entidad/Relación extendido,
+Diagrama de Clases.
+
+B) Casos de Uso, Diagrama de Flujo de Datos, Modelo de negocio y dominio, Diagrama de
+Clases.
+
+C) Casos de Uso, Diagrama de Flujo de Datos, Modelo Entidad / Relación extendido,
+Diagrama de Clases.
+
+D) Catálogo de requisitos, Diagrama de Flujo de Datos, Modelo Entidad/Relación extendido,
+Contexto del sistema.
+
+14) Para hacer una llamada a un procedimiento almacenado trabajando con JDBC
+podemos utilizar un objeto CallableStatement. Si el procedimiento almacenado devuelve
+más de un conjunto de resultados, ¿qué método deberemos invocar?
+
+A) execute.
+
+B) executeQuery.
+
+C) executeProcedure.
+D) executeUpdate.
+
+15) ¿Cuál de los siguientes no es un contenedor J2EE?
+
+A) Contenedor de Applets.
+
+B) Contenedor de aplicación cliente.
+C) Contenedor Java Mail.
+
+D) Contenedor EJB.
+
+16) ¿Cómo se puede lograr que un enlace que está dentro de un frame se abra ocupando
+
+toda la ventana actual del navegador?
+
+A) <a href="enlace.html" target="window"> .
+B) <a href="enlace.html" target="_top">.
+
+C) <a href="enlace.html" target="top"> .
+
+D) <a href="enlace.html" target="_parent"> .
+
+17) ¿Cuál de las siguientes afirmaciones es falsa?
+
+A) La clase HttpServlet extiende la clase GenericServlet.
+B) La clase HttpServlet implementa la interfaz Serializable.
+C) La clase HttpServlet incluye el método getLastModified.
+D) La clase HttpServlet incluye el método doLoad.
+3
+
+18) El principal objetivo del uso de CSS es:
+A) Unir los contenidos y su presentación. Imprescindible para la creación de páginas web
+complejas.
+B) Definir estilos que puedan distribuirse (sindicarse) de forma actualizada, como su propio
+nombre indica (Cascade Style Sindication).
+C) Separar los contenidos y su presentación. Es muy adecuado para la creación de páginas
+web complejas.
+D) Definir estilos fuera de los archivos html. Aparecieron en el origen de los lenguajes de
+etiquetas y está siendo sustituido por RSS.
+19) El API Servlet especifica cuatro posibles tipos de autenticación. De los siguientes, ¿cuál
+utiliza MD5?
+A) Autenticación básica.
+B) Autenticación resumida.
+C) Autenticación de cliente HTTPS.
+D) Autenticación basada en formularios.
+20) ¿Cuál de las siguientes tecnologías es una implementación del patrón MVC?
+A) Hibernate.
+B) J2EE.
+C) Struts.
+D) Ajax.
+21) ¿Cuál de las siguientes no es una clase del APT JMS?
+A) BytesMessage.
+B) QueueSession.
+C) ObjectMessage.
+D) MessageFormat. :
+22) ¿Cuál de las siguientes no es una configuración de descarga dentro de RMI?
+A) Configuración dinámica lado servidor.
+B) Configuración cerrada.
+C) Configuración cliente de autoarranque.
+D) Configuración delegativa.
+23) Los tipos de complejidad de un algoritmo son:
+A) Variable, exponencial, logarítmica y constante.
+B) Exponencial, cuadrática y lineal.
+C) Variable, exponencial, cuadrática y constante.
+D) Exponencial, logarítmica, polinómica y cúbica.
+4
+
+24) ¿Cuál de los siguientes no es un motor de la JCA (Arquitectura Criptográfica de Java)?
+A) java.security.Cipher
+B) java.security.Signature
+C) java.security.MessageDigest
+D) java.security.KeyStore
+25) El método doGet de la una clase Java que extienda la clase HttpServlet, recibe como
+parámetro de entrada:
+A) Un objeto HttpServletException.
+B) Un objeto HttpServletResult.
+C) Un objeto HttpServletRequest.
+D) Un objeto HttpServletParameters.
+26) ¿Cuál de las siguientes no es una etapa del ciclo de vida de un Servlet?
+A) Revisión.
+B) Destrucción.
+C) Recarga.
+D) No disponible.
+27) Los métodos disponibles para recuperar objetos presentes en un documento HTML
+usando el objeto document de Javascript son:
+A) getElementsByld, getElementByName.
+B) Sólo getElementByld.
+C) getElementByld, getElementByName.
+D) getElementByld, getElementsByName, getElementsByTagName.
+28) ¿Cuál de los siguientes es un DOCTYPE válido para XHTML?
+A) transact.
+B) mandatory.
+C) frameset.
+D) auto.
+29) ¿Cuál de los siguientes elementos no es parte de un contenedor J2EE?
+A) Contrato de Contenedor.
+B) API de Servicio de Contenedor.
+C) Servicios Declarativos.
+D) Descriptores de Implementación.
+30) El alcance de un Bean definido por la etiqueta jsp:useBean puede tomar los valores:
+A) page, request,session,application.
+B) request,session,application.cookie.
+C) session,application,cookie.
+D) request, session.cookie.
+5
+
+31) ¿Qué es RSS?
+A) Es una tecnología que facilita la visualización de los CSS en las diferentes plataformas y
+navegadores.
+B) RSS, Atom, RSS 2.0, etc son documentos para versiones pda, móviles y otros .
+navegadores o dispositivos de mano.
+C) Es una tecnología que puede ser usada en sitios web para sindicar y distribuir contenido
+actualizado.
+D) Es el archivo CSS comprimido y siempre actualizado para ver la última versión de los
+CSS.
+32) En J2EE, atendiendo a los distintos tipos de EJBs, ¿cuál de las siguientes afirmaciones
+es cierta?
+A) Existen EJBs de entidad con estado y sin estado.
+B) Existen EJBs de entidad con persistencia y sin persistencia.
+C) Existen EJBs de sesión con persistencia y sin persistencia.
+D) Existen EJBs de sesión con estado y sin estado.
+33) ¿Cuál de los siguientes no es un modo de lectura utilizado en el método ReadXml de la
+clase DataSet de .Net?
+A) DiffGram.
+B) Auto.
+C) None.
+D) InferSchema.
+34) ¿Cuál de las siguientes afirmaciones sobre XML es correcta?
+A) XML es la implementación propietaria de Xerox de HTML.
+B) XML es una extensión, en formato fijo, del lenguaje HTML.
+C) XML es el estándar para embeber módulos de acceso a datos y bases de datos en páginas
+Web creadas con HTML.
+D) XML es un metalenguaje, que está escrito en SGML, y se usa para definir otros lenguajes.
+35) En el lenguaje de programación PERL, en la siguiente expresión:
+foreach keys /(3ENV) ([ print “$ An”; )
+A) Existen errores sintácticos.
+B) Mostrará los valores del hash Y%ENV.
+C) Se utiliza la variable escalar por defecto.
+D) Se utiliza el hash (array asociativo) por defecto.
+36) ¿En qué fase de la metodología Métrica v3 se inicia la definición de la arquitectura
+tecnológica?
+A) En la planificación de sistemas de información.
+B) En el análisis del sistema de información.
+C) En el diseño del sistema de información.
+D) En la construcción del sistema de información.
+6
+
+37) En J2EE, ¿cuál de las siguientes afirmaciones es cierta?
+A) Un jsp se interpreta cuando se recibe la petición y genera la respuesta.
+B) Un jsp se compila la primera vez que recibe una petición, creando un servlet donde recibe
+las peticiones y genera la respuesta.
+
+C) Un jsp se compila cada vez que recibe una petición y genera la respuesta.
+
+D) Un jsp se compila generando un fichero html que recibe las peticiones y genera la
+respuesta de forma dinámica.
+
+38) De las siguientes tecnologías en ASP.NET, ¿cuál permite guardar datos de usuario de
+forma persistente en el servidor?
+
+A) Sesiones.
+
+B) ViewState.
+
+C) Profiles.
+
+D) ControlState.
+
+39) ¿Cuál de los siguientes protocolos se utiliza para el descubrimiento de Servicios Web?
+
+A) SOAP.
+
+B) HTTP.
+
+C) UDDI.
+
+D) WSDL.
+
+40) ¿Se pueden enviar objetos complejos hacia y desde un servicio web?
+
+A) No.
+
+B) Sí, si se comprimen con gzip antes de enviarlos.
+
+C) Si, si se serializan a XML previamente.
+
+D) Depende de la configuración del servidor.
+
+41) En lo referente a Primary Keys y Foreing Keys en tablas de BBDD relacionales:
+
+A) Una tabla siempre debe tener una Primary Key.
+
+B) Una tabla sólo debe tener una Primary Key cuando existe un índice sobre el campo
+correspondiente.
+
+C) Una clave primaria puede ser implementada utilizando una Primary Key en la BBDD o
+puede no serlo y delegar en la aplicación que la use la responsabilidad de la gestión de
+duplicados, nulos, etc.
+
+D) Una Foreing Key no puede ser Primary Key en otra tabla.
+
+42) En una base de datos relacional, sobre el concepto Atributo, ¿cuál de las siguientes
+expresiones es falsa? :
+
+A) Un atributo A es el papel que tiene un determinado dominio D en una relación.
+
+B) Es usual dar el mismo nombre al atributo y al dominio subyacente.
+
+C) Una tabla no puede tener dos atributos con el mismo nombre.
+
+D) Nunca se debe dar el mismo nombre a un atributo y a un dominio.
+
+7
+
+43) ¿Cuál de las siguientes instrucciones de modificación de registros funcionaría
+correctamente sobre la tabla clientes?
+A) update set nombre='Juan', edad=20 where nif="20257917-T' from clientes.
+B) update from clientes nombre='Juan', edad=20 where nif="20257917-T".
+C) update clientes set nombre='Juan', edad=20 where nif="20257917-T".
+D) update from clientes set nombre='Juan', edad=20 where nif="20257917-T".
+44) Se dice que una relación está en Tercera Forma Normal (3FN):
+A) Si está en segunda forma normal y, además, ningún atributo que no forme parte de la
+clave principal depende transitivamente de ninguna clave de la relación.
+B) Si todos los atributos que no forman parte de la clave primaria tienen dependencia
+funcional completa respecto de una de las claves.
+C) Si no contiene grupos repetitivos.
+D) Si está en segunda forma normal y además todo determinante es una clave candidata.
+45) ¿Cuál de las siguientes afirmaciones no es una restricción del Modelo Relacional?
+A) Restricción de dominio (el valor de cada atributo A debe ser un valor atómico del
+dominio(A )).
+B) Restricción de atributos (los atributos de distintas tablas no pueden estar desordenados en
+una relación).
+C) Restricción de clave (dos tuplas no pueden tener la misma clave).
+D) Integridad de la entidad (ningún atributo que forma parte de la clave principal puede
+tomar valor nulo).
+46) ¿Cuál de los siguientes objetos es la unidad de almacenamiento de la información en una
+base de datos analítica?
+A) Tabla.
+B) Datamart.
+C) Partición.
+D) Cubo.
+47) ¿En qué dos ramas de la matemática se basa el modelo relacional?
+A) La teoría relacional y la de grafos.
+B) La teoría de conjuntos y la lógica de predicados.
+C) Los grafos y sus relaciones.
+D) El álgebra de Boole y la teoría de Galoise.
+48) ¿En qué consiste la integridad referencial?
+A) En garantizar que cualquier clave ajena se corresponde con una clave primaria o es nula.
+B) En garantizar que en un campo clave no existen valores repetidos.
+C) En garantizar que no existen tablas sin relacionar en un modelo entidad-relación.
+D) En garantizar que un registro de una tabla es único en la misma.
+8
+
+49) Se entiende por lectura fantasma en bases de datos relacionales:
+
+A) Aquella en la que una fila cambiada por una transacción es leída por otra transacción
+antes de que haya realizado cualquier cambio en la fila.
+
+B) Aquella en la que una transacción lee una fila, una segunda transacción altera o elimina la
+fila y la primera transacción vuelve a leer la fila, obteniendo diferentes valores la segunda
+vez.
+
+C) Aquella en la que una transacción lee todas las filas que satisfacen una condición where,
+una segunda transacción inserta una fila que satisface la condición, y la primera vuelve a
+leer la misma condición, recuperando la fila fantasma adicional en la segunda lectura.
+
+D) Aquella en la que una transacción puede leer los datos que introduce una segunda
+transacción aun cuando no haya habido un commit explícito.
+
+50) ¿Por qué nombre se conoce el conjunto de reglas que nos permite derivar dependencias
+funcionales?
+
+A) Axiomas de Oldsen.
+
+B) Axiomas de Johnson.
+
+C) Axiomas de Armstrong.
+
+D) Axiomas de Johanson.
+
+51) En SQL, para la cláusula GROUP BY, ¿cuál de estas afirmaciones es incorrecta?
+
+A) Los valores nulos se consideran iguales y se incluyen en el mismo grupo.
+
+B) Pueden existir grupos de una sola fila.
+
+C) Pueden existir grupos sin ninguna fila.
+
+D) Para cada uno de los grupos, se evalúa la expresión de la cláusula SELECT.
+
+52) ¿Cuál de las siguientes respuestas es una regla de derivación que nos valdría para
+derivar una dependencia funcional en el modelo relacional?
+
+A) Cardinalidad.
+
+B) Objetividad.
+
+C) Reflexividad.
+
+D) Continuidad.
+
+53) Si una relación R2 (relación de referencia) tiene un descriptor (conjunto no vacío de
+atributos) que es la clave primaria de la relación R1 (relación referenciada), todo valor
+de dicho descriptor debe concordar con un valor de la clave primaria R1 o ser:
+
+A) Integridad de entidad.
+
+B) Restricción de valores nulos.
+
+C) Dependencia funcional de los datos.
+
+D) Integridad referencial.
+
+9
+
+54) Para realizar la unión de dos consultas en SQL es necesario:
+A) El mismo número y tipo de columnas en ambas consultas.
+B) El mismo número de filas en ambas consultas.
+C) Que las dos consultas se realicen sobre las mismas columnas de la misma tabla.
+D) Que las tablas de las consultas estén relacionadas mediante una columna de
+identificadores únicos.
+
+55) ¿Qué parte del lenguaje de base de datos se utiliza para especificar el esquema de la
+
+base de datos?
+A) DML.
+B) DLL.
+C) DDL.
+D) DCL.
+
+56) En el modelo Entidad/Relación, la estructura resultante de aplicar el mecanismo de
+abstracción llamado clasificación es:
+A) La Entidad.
+
+B) La Relación.
+C) El Dominio.
+D) El Atributo.
+
+57) Dada la siguiente relación: Calificación (Dni_Profesor, Nombre_Profesor, Dni_Alumno,
+Nota_Asignatura). La clave primaria está formada por Dni_Profesor y Dni_Alumno, y
+Dni_Profesor implica Nombre_Profesor, ¿en qué forma normal está?
+
+A) En forma normal de Boice-Codd.
+B) En tercera forma normal.
+
+C) En primera forma normal.
+
+D) En segunda forma normal.
+
+58) En la siguiente sentencia SQL, ¿qué ocurrirá con aquellos registros de la tabla
+
+CLIENTES en los que el campo CLIENT ID sea NULL?
+SELECT F.REF, F.CLIENT_ID, C. CLIENT_ID, C.CLIENT_ NAME
+FROM FACTURA F, CLIENTES C
+WHERE F.CLIENT ID = C.CLIENT_ID(+)
+A) Serán ignorados. a menos que se utilice un JOIN. :
+B) Serán incluidos, aunque no exista un valor equivalente en F.CLIENT_ID.
+C) Serán incluidos, a menos que se utilice un JOIN.
+D) Serán incluidos si hay un valor equivalente en F.CLIENT_ID.
+10
+
+59) ¿Cuál de estas tareas no se realiza durante el diseño lógico de una base de datos?
+A) Construcción de un esquema de información independiente del SGBD concreto que se
+vaya a utilizar.
+B) Transformación del esquema conceptual en un modelo relacional, modelo de red, modelo
+jerárquico o modelo orientado a objetos.
+C) Normalización de los esquemas lógicos basados en un modelo relacional.
+D) Definición de las características físicas de los ficheros donde se van a almacenar las
+tablas.
+60) En una base de datos, el gestor de almacenamiento:
+A) Es un programa o módulo.
+B) Asegura que la ejecución de transacciones distribuidas se realice sin conflictos.
+C) Proporciona la interfaz entre los datos de alto nivel almacenados en la base de datos y los
+programas de aplicación.
+D) Es la persona responsable del almacenamiento.
+61) En SNMP, ¿cuál de los siguientes mensajes es utilizado por un agente para reportar
+cambios de estado de un equipo gestionado?
+A) stat.
+B) alarm.
+C) event.
+D) trap.
+62) El puerto por defecto de RMI es:
+A) 1099.
+B) 3102,
+C) 2102.
+D) 9999.
+63) La capas que forman la arquitectura del protocolo TCP/IP son:
+A) Capa física, Capa de acceso a la red, Capa Internet (IP), Capa de transporte o Capa
+origen-destino (TCP), Capa de datos.
+B) Capa física, Capa de acceso a la red, Capa Internet (IP), Capa superior, Capa de transporte
+o Capa origen-destino (TCP).
+C) Capa física, Capa de acceso a la red, Capa Internet (IP), Capa de transporte o Capa
+origen-destino (TCP), Capa de aplicación.
+D) Capa física, Capa de acceso a la red, Capa Internet (IP), Capa de transporte o Capa
+origen-destino (TCP).
+64) Se descarga un fichero de un servidor FTP de Internet, ¿cuál es la capa más alta del
+modelo OSI usada en esta operación?
+A) Aplicación.
+B) Presentación.
+C) Sesión.
+D) Física.
+11
+
+65) La capa del modelo OSI encargada de la codificación de los datos en un sistema
+convenido entre los dos extremos de la comunicación (por ejemplo, usar la tabla ASCII
+para codificar los textos) es la:
+
+A) Capa de red.
+
+B) Capa de presentación.
+
+C) Capa de aplicación.
+
+D) Capa de sesión.
+66) El código de error 503 de HTTP significa:
+
+A) Un error en el cliente HTTP causa el fallo de la solicitud.
+
+B) El servidor HTTP no se ajusta a la funcionalidad necesaria para ejecutar esta solicitud.
+
+C) El servidor HTTP está sobrecargado y no puede atender la solicitud.
+
+D) La solicitud es sintácticamente incorrecta.
+67) ¿Cuál de los siguientes no es un método de solicitud de HTTP/1.1?
+
+A) OPTIONS.
+
+B) PUT.
+
+C) TRACE.
+
+D) VALUES.
+
+68) ¿Qué tipo de dirección se usaría para comunicarse con todos los hosts de una red?
+
+A) Unicast.
+
+B) Broadcast.
+C) Multicast.
+
+D) Subnet mask.
+
+69) La organización de la cabecera IPv6 está formada por:
+
+A) Versión, Prioridad Etiqueta de flujo, Longitud, Siguiente Cabecera, Límite de existencia,
+y Dirección de destino. "
+
+B) Versión, Prioridad Etiqueta de flujo, Longitud, Siguiente Cabecera, Límite de existencia,
+Dirección de origen y Dirección de destino.
+
+C) Versión, Prioridad Etiqueta de flujo, Longitud, Siguiente Cabecera, Ultima Cabecera,
+Límite de existencia, Dirección de origen y Dirección de destino.
+
+D) Versión, Prioridad Etiqueta de flujo, Longitud, Siguiente Cabecera, Limite de existencia,
+Dirección unicast y Dirección anycast.
+
+70) El teorema de Nyquist ofrece la capacidad de un canal a partir del ancho de banda y del
+número de niveles de tensión distintos utilizados en la codificación. ¿Cuál es la
+capacidad máxima de un canal con un ancho de banda de 3100 Hz que utiliza
+codificación monobit?
+
+A) 1550 bps.
+B) 3100 bps.
+C) 6200 bps.
+D) 12400 bps.
+12
+
+71) La expresión 172.16.150.0/15
+A) Designa al rango de 16 IPs consecutivas entre la 172.16.150.0 y 172.16.150.15
+B) Designa al rango de 15 IPs consecutivas entre la 172.16.150.0 y 172.16.150.14
+C) Designa a una red con valor 172.16.150.0 y máscara 255.254.0.0
+D) Designa a 172.16.151.0/16
+72) La codificación de la señal Miller en banda base:
+A) No reduce el ancho de banda ocupado, no mejora el sincronismo entre emisor y receptor y
+no elimina la componente continua.
+B) Aumenta el ancho de banda ocupado, mejora el sincronismo entre emisor y receptor y
+elimina componente continua.
+C) Reduce el ancho de banda ocupado, mejora el sincronismo entre emisor y receptor y
+elimina componente continua.
+D) Aumenta el ancho de banda ocupado, mejora solo en parte el sincronismo entre emisor y
+receptor y no elimina componente continua.
+73) En TCPAP, el protocolo que le permite a un equipo obtener la dirección física de un
+equipo destino, ubicado en la misma red física, proporcionando solamente la dirección
+IP destino se denomina:
+A) TCP.
+B) UDP.
+C) ICMP.
+D) ARP.
+74) ¿Qué revisión del estándar WI-FI utiliza la banda de 2,4 Ghz y opera a una velocidad
+máxima teórica de 54 Mbit/s?
+A) 802.1la
+B) 802.11b
+C) 802.11n
+D) 802.11g
+75) En la transmisión de datos, el modo asíncrono significa que se transmiten los bits:
+A) Solamente en un sentido sin cambiar de dirección.
+B) De uno en uno, con duración constante marcada por una señal de reloj.
+C) De forma simultanea, en paralelo por palabras.
+D) En grupos, marcando el comienzo y final con bits especiales de separación.
+76) ¿Cómo funciona un /11b o concentrador?
+A) Funciona repitiendo cada paquete de datos en cada uno de los puertos con los que cuenta.
+B) Funciona repitiendo cada paquete de datos en cada uno de los puertos con los que cuenta,
+excepto en el que ha recibido el paquete.
+C) Funciona enviando paquetes de un segmento a otro, de acuerdo con la dirección MAC de
+destino de los datagramas en la red.
+D) Funciona enrutando paquetes a las direcciones IP encapsuladas en los paquetes.
+13
+
+77) ¿Cuál de los siguientes es un servicio orientado a la conexión en OSI?
+
+A) Servicio de datagrama sin confirmación.
+
+B) Servicio de datagrama con confirmación.
+
+C) Servicio de secuencia de mensajes. o
+
+D) Servicio de petición y respuesta.
+
+78) ¿Cuál de estas direcciones representa una de tipo UNICAST?:
+
+A) FFFF. FFFF. FFFF
+
+B) 192.168.24.59/30
+
+Cy) 255.255.255.255
+
+D) 172.31.128.255/18
+
+79) El estándar 802.16e de IEEE corresponde al protocolo:
+
+A) WiFi.
+
+B) WiMax.
+
+C) xDSL simétrico.
+
+D) HSDPA.
+
+80)¿Con cuál de las siguientes notaciones se puede representar la máscara de subred
+255.255.224.0?
+
+A) /21
+
+B) /19
+
+C) 122
+
+D) /24
+
+81) Supongamos que tenemos una aplicación web desplegada en un conjunto de N
+servidores web con las que se pretende dar servicio http a usuarios de internet en el
+dominio www.testtest.com. Dichos servidores web tienen IPs sólo en la red
+172.16.50.0/24. En lo relativo al balanceo de las peticiones HTTP entrantes (procedentes
+de los usuarios):
+
+A) Se podría hacer un ROUND ROBIN por DNS para www.testtest.com, con todas las IPs
+de los servidores, de forma que el tráfico de los usuarios se distribuya directamente entre
+los servidores, sin necesidad de un balanceador.
+
+B) Se podría utilizar un balanceador con una IP del mismo rango (172.16.50.0/24) para dar
+servicio (sería la IP asociada www. testtest.com), atacando por detrás a las IPs de cada uno
+de los servidores web.
+
+C) Se podría utilizar un router CISCO con una VIP de direccionamiento público atacando
+internamente a la red 172.16.50.0/24
+
+D) Se podría utilizar un balanceador con una IP de otro rango (62.170.50.0/24, por ejemplo)
+para dar servicio (sería la IP asociada www.testtest.com), atacando por detrás a las IPs de
+cada uno de los servidores web.
+
+14
+
+82) Cuando un proceso en modo usuario intenta ejecutar una tarea privilegiada, ocurre:
+A) Una interrupción de hardware.
+B) Una interrupción software o excepción.
+C) Una llamada al sistema.
+D) Un avatar.
+83) El empleo de quanto de tiempo es característico de:
+A) Los sistemas multiprogramados.
+B) Los sistemas de tiempo real.
+C) Los sistemas batch.
+D) Los sistemas de tiempo compartido.
+84) En un sistema UNIX/LINUX, si ejecutamos el comando chmod 670 archivol, ¿cuál será
+el estado final de permisos de archivo1?
+A) -TW-TWX---
+B) -rwxr--r--
+C) rw-rwx----
+D) rwxrwx----
+85) Entre las características de los Sistemas Operativos Distribuidos se encuentran:
+A) Compartición de ficheros, aceleración de la computación, fiabilidad y portabilidad.
+B) Compartición de recursos, uniformidad de interfaces, extensibilidad y comunicación.
+C) Compartición de recursos, aceleración de la computación, fiabilidad y comunicación.
+D) Compartición de recursos, aceleración de la computación y dar soporte a sistemas
+operativos orientados a objetos.
+86) Si desde la s/re// de una máquina UNIX deseamos saber si un servicio /1ttps standard está
+funcionando en dicha máquina, ¿cuál las siguientes sentencias puede sernos de utilidad?
+A) telnet localhost 110.
+B) telnet localhost 443.
+C) telnet localhost 80.
+D) telnet localhost 404.
+87) En UNIX, para buscar una cadena de caracteres dentro de un archivo, utilizaremos el
+comando:
+A) seek.
+B) ffind.
+C) flook.
+D) grep.
+88) En lo referente a tecnologías NAS y SAN de almacenamiento de datos:
+A) SAN utiliza una red ethernet como medio de transporte.
+B) SAN utiliza una red TCP/IP como medio de transporte.
+C) NAS utiliza una red TCP/AP como medio de transporte.
+D) NAS utiliza una red de fibra como medio de transporte.
+15
+
+89) ¿Qué es Wine?
+A) Un cliente FTP.
+B) Un gestor de correo.
+C) Un juego de Linux.
+D) Una herramienta de Linux para poder ejecutar dentro de una distribución Linux
+aplicaciones de Windows.
+90) ¿Qué son y cuál es la utilidad de los heartbeats dentro de un cluster?
+A) Son paquetes enviados a los clientes para indicarles que se están conectando a un cluster.
+B) Son paquetes que permiten identificar que nodo esta ejecutando un recurso específico.
+C) Son paquetes que permiten identificar cuando un nodo ha sido expulsado del cluster.
+D) Son paquetes que se envían entre nodos para determinar si un nodo ha caído.
+91) ¿Cuál de estos sistemas RAID permite una mayor velocidad de lectura?
+A) RAID O.
+B) RAID 1.
+C) RAID $.
+D) RAID 6.
+92) ¿Cuál de las siguientes afirmaciones es correcta?
+A) Los sistemas SAN hacen uso de Fiber Chanel o ¡SCSI para el acceso a un array de discos
+duros.
+B) Los sistemas NAS son un tipo especial de Direct Attached Storage.
+C) Los sistemas SAN son el único método de almacenamiento permitido para la creación de
+un cluster.
+D) Los sistemas NAS hacen uso de las direcciones LUN para acceder al almacenamiento
+compartido.
+93) ¿Con qué modelo de RAID añadimos caché para mejorar el rendimiento?
+A) RAID O.
+B) RAID 0+1.
+C) RAID 7.
+D)y RAID $.
+94) En sistemas UNIX/Linux, un enlace simbólico:
+A) No se puede borrar.
+B) No contiene apuntadores a nodo-i.
+C) Es una copia de un archivo.
+D) Contiene apuntadores a nodo-i.
+16
+
+95) ¿A qué denominamos un recurso de Quorum?
+A) Es un acuerdo entre nodos sobre como debe ser gestionado el cluster.
+B) Es el recurso usado para controlar el acceso al almacenamiento común y la recuperación
+del cluster.
+C) Es un almacén temporal de información sobre los errores que han ocurrido en el cluster.
+D) Es un servicio especial del cluster encargado de comprobar la integridad del mismo.
+96) ¿Qué es el intervalo de búsqueda en un disco duro?
+A) El tiempo que transcurre desde que la cabeza se desplaza de la pista en la que esta hasta la
+que desea leer.
+B) El tiempo que transcurre cuando la cabeza se desplaza desde una pista a la adyacente o
+continúa.
+C) La media del tiempo de acceso.
+D) La velocidad con la que se leen los bits de los discos, o sea la velocidad con la que los
+datos pueden transferirse desde el disco a la memoria.
+97) El concepto de penalización de fallo en el acceso a memoria se refiere a:
+A) El tiempo para sustituir un bloque del nivel inferior por el bloque correspondiente del
+nivel más alto y el tiempo en proporcionar este bloque al dispositivo que lo ha solicitado.
+B) El tiempo para sustituir un bloque del nivel superior por el bloque correspondiente del
+nivel más bajo y el tiempo en proporcionar este bloque al dispositivo que lo ha solicitado.
+C) El porcentaje de accesos a memoria no superior, incluyendo el tiempo para determinar si
+el acceso es un acierto o un fallo.
+D) La fracción de accesos a memoria encontrados en el nivel superior, pero fallando en el
+inferior.
+98) ¿Qué signo se coloca al final de la línea de comando en Linux para ejecutar un proceso
+en background?
+A) Asterisco (*).
+B) Almohadilla (+f).
+C) Ampersand (4).
+D) Arroba ((a).
+99) En un sistema de archivos, la asignación mediante una lista ligada y un índice:
+A) Necesita que la lista permanezca en la memoria todo el tiempo.
+B) Genera fragmentación en el disco.
+C) Es muy lenta.
+D) Impide que el espacio para datos en los bloques de archivo sea potencia de la unidad de
+asignación.
+17
+
+100) En UNIX/Linux, ¿cuál de las siguientes afirmaciones es correcta?
+A) La orden “umask 133; touch archivo_1” crea el archivo “archivo_1” con los permisos -
+TW-T-=I--.
+B) La orden “umask 133; touch archivo_1” crea el archivo “archivo_1” con los permisos ---
+X-WX-WX.
+C) La orden “chmod 732 archivo_1” pone a “archivo_1” los permisos rwx-W--w-.
+D) La orden “chmod 755 archivo_1” pone a “archivo_1” los permisos rwx-W--w-,
+101) ¿El algoritmo DSA viene especificado por los parámetros?
+A) G,P,Q.
+B) G,P.
+C) R, Q.
+D) R,P,Q.
+102) ¿Con qué atributo damos nombre a un objeto en LDAP?
+A) cd.
+B) ld.
+C) en.
+D) ac.
+103) ¿De qué tipo son los virus que se propagan automáticamente a través de programas
+de correo?
+A) Rootkit.
+B) Worm.
+C) Troyano.
+D) Spyware.
+104) La organización de la información en un servicio de directorio es:
+A) Jerárquica.
+B) Indexada.
+C) Relacional.
+D) En colas.
+105) Si se sospecha que un certificado digital ha sido usado de forma fraudulenta:
+A) Será eliminado inmediatamente de la autoridad de certificación y se notificará al resto de
+autoridades de certificación.
+B) Se esperará a la caducidad del certificado, momento en el cual no se renovará.
+C) Este escenario no puede darse debido a que la clave privada únicamente la conoce el
+propietario del certificado.
+D) Deberá revocarse pasando a formar parte de la lista de certificados revocados (CRL) de la
+correspondiente autoridad de certificación.
+18
+
+106) ¿Cuál de las siguientes infracciones tiene carácter de grave según la LOPD?
+
+A) Proceder a la recogida de datos de carácter personal de los propios afectados sin
+proporcionarles la información que señala el artículo 5 de la presente Ley.
+
+B) Mantener los ficheros, locales, programas o equipos que contengan datos de carácter y
+personal sin las debidas condiciones de seguridad que por vía reglamentaria se
+determinen.
+
+C) No atender, por motivos formales, la solicitud del interesado de rectificación o
+cancelación de los datos personales objeto de tratamiento cuando legalmente proceda.
+
+D) Incumplir el deber de secreto establecido en el artículo 10 de esta Ley, salvo que
+constituya infracción grave.
+
+107) La firma digital es una serie de bits que se calcula en función de:
+
+A) Sólo del documento que se firma.
+
+B) Sólo de la clave privada del firmante.
+
+C) La clave privada del firmante y del documento.
+
+D) Las claves públicas y privada del firmante.
+
+108) ¿Cuál de estos libros no pertenece al ITIL?
+
+A) Gestión de aplicaciones.
+
+B) Gestión de infraestructura de TI.
+
+C) Gestión de recursos.
+
+D) Gestión de activos de software.
+
+109) ¿Cuál de los siguientes no es un filtro LDAP válido?
+
+A) sn = Carter
+
+B) dn = Ca*
+
+C) cn=* Managers *
+
+D) on = *Ca
+
+110) ¿Cuáles de las siguientes son políticas que puede adoptar un firewall?
+
+A) De entrada y salida.
+
+B) Restrictiva y permisiva.
+
+C) Total y parcial.
+
+D) Activa y pasiva.
+
+19
+

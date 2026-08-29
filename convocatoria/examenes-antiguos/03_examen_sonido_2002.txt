@@ -1,0 +1,303 @@
+o MIVE
+u R UP go
+D. A. DE RECURSOS HUMANOS R.T.V.E.
+DIR. PLANIFICACIÓN Y DESARROLLO RR. HH.
+CONVOCATORIA OFERTA DE EMPLEO PÚBLICO 1/2.002 R.T.V.E.
+PRUEBA TEÓRICA A REALIZAR POR LOS ASPIRANTES A LA CATEGORÍA DE
+ESPECIALISTA DE SONIDO Y CONTROL R.N.E., S.A,
+PREGUNTAS:
+1.- — Un algoritmo de compresión de audio para reducción de tasa binaria se basa
+fundamentalmente en: A
+" a) Eliminar la redundancia y la irrelevancia de la señal de audio. -
+b) Primar la irrelevancia de los datos. _
+Cc) Fijar un Umbral y una Relación de compresión.
+d) El mismo principio que un compresor de dinámica
+2.- — Unacceso básico RDS! proporciona:
+a) Dos canales B de 64 Kbits/sg cada uno y un canal de señalización de 16 Kbits/sg.
+b) Treinta canales B de 64 Kbits/sg cada uno y un.canal de señalización de 64
+Kbits/sg. y
+c) Un acceso no restringido, para todo tipo de usuarios, en una Red de Datos de un
+Sistema Informático.
+d) Un canal de 2,048 Mbit/sg. :
+3.- — ¿En una entrada de micrófono de un mezclador de audio con alimentación o
+phantom se puede conectar un micrófono dinámico? |
+a) Siempre. .
+b) Nunca,
+c) Si la línea es desbalanceada.
+d) Si la línea es balanceada.
+1
+
+4.- ¿Qué control de la mesa de mezclas utilizaría para ajustar correctamente el nivel
+de entrada a un canal de la misma?
+a) El selector de sensibilidad.
+b) El atenuador del canal correspondiente.
+c) El atenuador master de salida.
+d) El ecualizador del canal correspondiente.
+5.- — Para enmascarar un torio puro mediante otro, éste último tiene que tener:
+a) Nivel de presión sonora superior a frecuencias inferiores.
+b) Nivel de presión sonora inferior a frecuencias inferiores.
+c) Nive! de presión sonora superior a frecuencias superiores.
+d) Nivel de presión sonora inferior a frecuencias superiores.
+
+6.- Para obtener una buena relación señal-ruido y un margen de sobrecarga
+(headroom) aceptable, el proceso de ajuste de ganancia de un canal de entrada
+debe realizarse:
+
+a) Ajustando con el fader y haciendo un ajuste fino con la ganancia del amplificador
+de entrada.
+b) Ajustando la ganancia del amplificador de entrada y haciendo un ajuste fino con el
+fader.
+Cc) Ajustando la ganancia del amplificador de entrada, manteniendo el fader en 10 dB.
+d) Ajustando la ganancia del amplificador de entrada de cada canal y modulando la
+señal con el fader de la salida master de la mesa. 7
+7.- — El enunciado del teorema de muestreo, propuesto por SHANNON es: 7
+a) Hay que tomar al menos tres muestras por cada período de la señal de audio, para
+poder tener información suficiente de la misma.
+b) Hay que muestrear con un ratio de al menos 8 bits para poder tener información
+suficiente de la señal de audio original.
+C) Hay que tomar al menos dos muestras por cada período de la señal de audio, para
+poder tener información de la misma.
+d) Las respuestas c y b son correctas. '
+8.- — Cuando se produce una pérdida por separación de la cinta de registro de la
+cabeza de grabación erí la etapa de registro, las frecuencias más afectadas son:
+a) Frecuencias bajas.
+b) Frecuencias medias.
+c) Frecuencias altas.
+d) La separación afecta por igual a todas las frecuencias.
+9.- Cuando el semiciclo positivo de una onda, coincide con el semiciclo negativo de
+otra se produce:
+a) La resultante es una onda con doble amplitud. :
+b) Ruido rosa.
+c) Una contrafase.
+d) Un desfase entre ambas ondas. o
+. 2 ,
+
+10.- Para poder tratar señales de audio de hasta 20khz, es necesario tina frecuericia
+dé muestreo de al menos:
+a) 44,1 khz.
+b) 48 khz. |
+c) 32 khz.
+d) No depende de la frecuencia de muestreo
+11.- ¿Qué coritro! de la consola sirve para posicionar una fuente de sonido en el
+espacio?.
+a) El fader.
+b) El potenciómetro panorámico.
+c) El factor Q del ecualizador.
+d) El auxiliar en posición “pre”.
+12.- El sistema diversity se emplea para:
+a) Mejorar la recepción de micrófonos inalámbricos.
+b) Editar sonido.
+c) La transmisión inalámbrica de dispositivos de audio.
+d) La conexión inalámbrica de sistemas.
+13.- ¿A qué se denomina umbral en un limitador? A
+a) A la máxima señal permisible de entrada _
+b) A la mínima señal permisible de entrada
+c) A! punto en el que empiece a actuar como tal
+d) Ala relación nivel entrada / salida
+14.- ¿Qué es una configuración por grupos en un mezclador? o
+a) Una serie de señales controladas por un fader :
+b) Una serie de micrófonos Conmutables a la entrada
+c) El acoplamiento de mesas auxiliares
+d) El conjunto de equipos del mismo tipo
+15.- Los micrófonos más adecuados para captar correctamente sonidos lejanos
+son...:
+8). los de "Diagrama Poiar Omnidireccional”————..... o |
+b) ....los de "Diagrama Polar Hipercardioide”.
+c) ...los de "Diagrama Hiperpotar ". .
+| d) ....los de "Diagrama Bipolar".
+,
+
+16.- Un conector XLR balanceado (equilibrado) usa...:
+a)....dos conductores para señal y uno para masa.
+b)...dos conductores para señal y dos para masa
+c)....un conductor para señal y Uno para masa * . ,
+
+d)... un conductor para señal y dos para masa.
+
+47.- Anacronismo musical 8s.....
+a).... Usar de forma abusiva los elementos musicales en una amblentación.
+b)....Utilizar dos estilos musicales diferentes en un mismo montaje.
+
+c).... amblentar una situación objetiva con música subjetiva
+d).... atribuir una música a una época distinta a la que corresponde
+
+18.- “Tiempo de reverberación”.¿Es?....
+
+a). ....el tiempo que se requiere para que un sonido disminuya hasta una milésima
+parte de su valor inicial, una vez que el sonido original haya cesado.
+
+b)....el tiempo que se requiere para que un sonido disminuya hasta una millonésima
+parte de su valor inicial, una vez que el.sonido original haya cesado.
+
+c).... el tiempo que se requiere para que un sonido disminuya hasta el valor
+deseado, una vez que el sonido original haya cesado
+
+a) ....e! tiempo que se requiere para que el sonido recorra la distancia entre dos
+puntos sucesivos de presión mínima dentro de la misma forma de onda.
+
+19.- La sensibilidad de un amplificador indica: 2
+
+a) El voltaje de entrada que se necesita para producir la salida nominal máxima del
+amplificador. o
+
+. b) Cuántos vatios se necesitan para producir la salida nominal mínima del..- =—
+“amplificador. | A
+
+c) Los límites de respuesta en frecuencia en los que un amplificador puede mantener
+su nivel de salida máxima:
+
+d) La máxima potencia que un amplificador puede proporcionar sobre una
+determinada carga.
+
+20.- Los discos Magneto-ópticos, en el proceso de reproducción emplean un láser
+
+de baja potencia; éste hace uso de un fenómeno conocido como efecto “Kerr”
+
+por el cual: ,
+
+a) La polarización de la luz puede hacerse cambiar en presencia -de un campo
+magnético. Ds :
+
+b) La polarización dela luz hace cambiar el campo magnético de los bits
+almacenados en lós sectores del disco, que a su vez se ordenan en una serie de
+anillos concéntricos discretos.
+
+c) La aleación de la que esta compuesto el disco es capaz de reflejar la luz. El láser
+alternara entre activo e inactivo, formando así la cadena de datos que quedó :
+grabada en el disco, esta cadena de datos tras pasar por el convertidor D/A, será
+reproducida.
+
+d) Ninguna de tas respuestas anteriores es correcta. "CCC
+
+21.- El margen dinámico de un sistema PCM Lineal se incrementa, aproximadamente:
+
+a) 6db por número de bits + 1.8 db. :
+
+b) 6 db. o.
+
+c) 8 db por número de bits + 1.5 db.
+
+e d) El margen dinámico no se puede calcular de estas formas, solo depende de los
+convertidores de entrada y salida
+4
+
+22.- Enlos ecualizadores Semiparamétricos de una mesa de mezclas se suele poder
+variar:
+a) Las frecuencias de actuación y la ganancia.
+b) Las frecuencias de actuación y el ancho de barda. oo
+c) La ganancia y el ancho de banda.
+d) La ganancia y el O.
+23.- Los micrófonos se conectan a la mesa de mezclas mediante lineas o cables
+-Simétricos para:
+a) No recortar la respuesta en frecuencia del micrófono.
+b) Adaptar la impedancia del micrófono a la mesa.
+c) Rechazar el ruido inducido por la red (S0HZ).
+d) Conseguir.una mayor sensibilidad
+24.- En la curva de histéresis, cuando al aumentar H no aumenta B se dice que
+estamos en una zona de:
+a) Rotación irreversible de unas pocas partículas.
+b) Rotación irreversible de todas las partículas.
+c) Rotación reversible de las partículas.
+d) Saturación.
+25.- ¿Cómo se evita el efecto ALIASING?
+a) Se hace pasar la señal en banda base a través de un filtro que elimine las
+componentes que estén por encima de la mitad de la frecuencia de muestreo. a
+b) Se hace pasar la señal de banda media a través de un filtro paso-bajo que elimine 7
+las componentes de ruido en estas bandas. A
+: c) Se hace pasar la señal antes del muestreo por un reductor de ruido digital llamado
+Sonic Solutions.
+d) Se hace pasar la señal en banda base a través de un filtro que elimine las
+componentes que estén por debajo de la mitad de la frecuencia de muestreo.
+26.- Para observar la difracción de las ondas sonoras, se tiene en cuenta las
+dimensiones del obstáculo con relación a:
+a) La velocidad de propagación. '
+b) La longitud de onda. e A
+Cc) La temperatura del medió
+d) a) y c) Son correctas
+27.- EL OIDO ES MÁS SENSIBLE PARA FRECUENCIAS ENTRE:
+a) 7 Khz y 10 Khz
+b) 15 Khz y 20 Khz
+c) 2 Khz y 5 Khz
+d) Es igual de sensible a todas las frecuencias-entre-20 y 20000 Hz o
+28.- EN QUÉ ORDEN ESTÁN DISPUESTAS LAS CABEZAS EN UN MAGNETÓFONO:
+a) Lectora-borrado-grabación :
+b) Borrado-grabación-lectora
+Cc) Grabación-lectora-borrado
+d) Las podemos disponer como queramos o
+5
+
+29.- EL EFECTO DE ENMASCARAMIENTO ES MAYOR:
+a)  Enlas frecuencias altas sobre las bajas
+b)  Enfrecuencias entre 20 y 20.000Hz
+c)  Enfrecuencias entre 10.000 y 12.000Hz ,
+d)  Enlas frecuencias bajas sobre las altas
+30.- ¿QUE DEFINE MAS CORRECTAMENTE “UN FILTRO PASO BAJO”?:
+a) Permite el paso de frecuericias medias
+b) Permite el paso de frecuencias altas, sin atenuación, hasta Una frecuencia
+de corte
+c) Permite el paso, sin atenuación, de frecuencias entre O y una determinada
+frecuencia de corte, y atenúa a un determinado nivel todas las demás
+d) Solo permite el paso de frecuencias hasta 1.300 Hz
+31.- La longitud de onda de un sonido es:
+A. La distancia recorrida por el sonido durante un periodo de oscilación
+B. E tiempo empleado por una onda en recorrer la distancia de una oscilación.
+C. La frecuencia que hay entre dos oscilaciones completas.
+D. La propagación compleja de una onda en función del tiempo transcurrido desde
+que se origino hasta que hubo una vibración completa.
+32.- Nivel absoluto de potencia (dBm) es: ,
+A. La relación expresada en watios entre la presión en el punto de prueba y una
+potencia de referencia de 1mVWY. e
+B. La relación expresada en dB entre la potencia en el punto de prueba y una. 7
+potencia de referencia de 1mW. a 600 ohmios. ps
+C. La señal máxima que es capaz de soportar un determinado amplificador-sobre una
+potencia de referencia de 1mW. a 600 ohmios.
+D. La presión sonora absoluta en un tiempo determinado, tomando como referencia
+una frecuencia de 1000 hz y una potencia de 1 mW.
+33.- Para que sirven las curvas polares cuando hablamos de un sistema de
+altavoces? j
+A. Para determinar sus características de direccionalidad. 0%
+B. Para determinar su potencta.
+C. Para determinar su capacidad de potencia.
+D. Para determinar sti fendimiento, dependiendo de su respuesta impulsional.
+34.- Rendimiento de un altavoz es:
+A. La potencia que puede aguantar un altavoz sin peligro de destrucción.
+B, La potencia mínima que debe soportar un altavoz sin producir distorsión,
+C. La relación entre la potencia de salida del altavoz y la suministrada a la entrada
+del misme, -expresada-en tanto por ciento, q_ A
+D. La relación entre la potencia de salida del altavoz y las frecuencias recibidas a la
+entrada del mismo, expresada en watios. : |
+6
+
+35.- ¿Para que útilizamios una puerta de ruldo?
+a) Para amplificar unas determinadas frecuencias o,
+b) A través de la puerta de ruido producir unos determinados efectos.
+c) Para evitar ruido de fondo de ún estudio o la diafonía del sonido de otros
+instrumentos |
+d) Limitar los picos de señal
+36.- Un canal de una línea digital nos permite un aricho de banda:
+a) De7 Khz. o
+b)  De3,5 Khz.
+C) Depende de la codificación utilizada ¡
+d) De 15 Khz.
+37.- Los transformadores en audio se usan para:
+a) Adaptar impedancias
+bj)  Balancear o desbalancear líneas
+Cc) Se pueden usar para ambas cosas: para adaptar impedancias y para
+balancear o desbalancear líneas
+d) Adaptar tensiones
+38.- Enun grabador digital con cabeza rotatoria, ¿es posible hacer edición por corte? AT
+: a) si
+b) NO
+Cc) Depende de la frecuencia de muestreo
+d) Tan soto en los grabadores multipista
+39.- El PFL en una consola de mezclas se utiliza para:
+a) Enviar la señal de un canal a una de las salidas auxiliares
+b) Monitorizar la señai de un canal o varios antes de encaminarla a los faders.
+C) Envíar una o varias señales a los buses de envío
+d) Ecualizar el master deta. consola.
+40.- La calidad de grabación digital va a residir principalmente en:
+a) El soporte utilizado, cuando mejor sea la cinta, disco, etc. Mejor será la
+grabación
+b) La mesa de mezclas, si esta es digital la grabación será de mayor calidad - ---
+-———————£) La precisión de la conversión ANO
+d) El MSB( most significant bit) .

@@ -1,0 +1,755 @@
+Modelo:   1
+
+INFORMACIÓN GRÁFICA Y CAPTACIÓN DE IMAGEN Y SONIDO
+CONVOCATORIA 1/2020
+
+1. La unidad que se utiliza para medir la desviación que produce un filtro corrector de la temperatura de color,
+
+sobre la propia temperatura de la fuente luminosa, es:
+a) MIRED
+
+b) Grados KELVIN
+
+c) 1/8, ¼, ½, FULL
+d) Depende de si es CTO o CTB
+
+2. ¿Qué ajuste sirve para controlar la saturación del blanco sin afectar a los colores más oscuros?
+
+a) Gamma
+
+b) Shutter
+
+c) Flare
+
+d) Knee
+
+3. ¿Para qué se hace el balance de negro?
+
+a) No existe el balance de negro
+
+b) Para ajustar la crominancia del negro
+
+c) Para ajustar la cámara a la temperatura de color de la iluminación
+
+d) Para ajustar la cámara al cambiar de óptica
+
+4. Decimos que un objetivo es más luminoso cuando:
+
+a) Abarca un ángulo menor
+
+b) Tiene mayor abertura de iris
+
+c) Es una distancia focal mayor
+
+d) Cubre mejor el formato
+
+5. Comprobamos  el  Backfocus  de  nuestra  cámara  y  observamos  que  hay  que  ajustarlo,  ¿en  qué  posición
+
+(distancia  focal)  de  nuestro  objetivo  zoom  haremos  dicho  ajuste?.
+a) Angular.
+
+b) Teleobjetivo.
+
+c) Es indiferente.
+
+d) 50 mm.
+
+6. En las transmisiones con mochila, aumentar el retardo:
+
+a) Nos asegura transmitir en zonas casi sin cobertura
+
+b) Reduce la tasa de datos y por lo tanto el coste
+
+c) Permite enviar cuatro canales de audio
+
+d) Nos protege contra la inestabilidad de la red de datos
+
+EXAMEN DEFINITIVO - Modelo 1
+
+1
+
+7. Altas velocidades de obturación generan
+
+a) Menor profundidad de campo
+
+b) Mayor cantidad de luz
+
+c) Aumento del tiempo de exposición
+
+d) Mayor tamaño del encuadre
+
+8. ¿De los siguientes ajustes, cuál quedará grabado en nuestra toma?
+
+a) Peaking
+
+b) Crispening
+
+c) Multimatrix area indication
+
+d) Marker
+
+9. Grabando con una cámara de video, si deseamos resaltar las nubes y oscurecer el cielo con un filtro en una
+
+toma exterior:
+a) Debemos usar un filtro azul.
+
+b) Debemos usar un filtro amarillo.
+
+c) Debemos usar un filtro polarizador.
+
+d) Debemos usar un filtro neutro.
+
+10. Si quiero enfriar el balance de blancos de un interior
+
+a) Pongo un cuarzo de 3200ºk
+b) Pongo un led de 4300ºk
+
+c) Pongo una luz de tungsteno
+
+d) Pongo el obturador 1/250
+
+11. ¿Con qué equipo determinamos la diferencia de crominancia de dos señales de tv?
+
+a) Monitor de forma de onda
+
+b) Vectorscopio
+
+c) Analizador de espectro
+
+d) Medidor de tensión
+
+12. ¿Qué es el balance de blancos?
+
+a) Ajustar la luminancia de los blancos
+
+b) Es equilibrar la iluminación de la escena para evitar dominantes
+
+c) Ajustar la sensibilidad de la cámara a la luz de la escena
+
+d) El ajuste de la temperatura de color de los CCDs de la cámara a la existente de la escena
+
+13. ¿Qué es un objetivo anamórfico?
+
+a) Un teleobjetivo
+
+b) Un objetivo con duplicador
+
+c) Un objetivo para fotografiar anagrama
+
+d) Un objetivo que comprime la imagen para conseguir un ángulo de visión mayor
+
+14. ¿Cuál de los siguientes términos NO hace, de algún modo, referencia a la reducción de datos en favor de la
+
+compresión?
+a) Long Gop
+
+b) Intraframe
+
+c) Slow Shutter
+
+d) 4:2:0
+
+EXAMEN DEFINITIVO - Modelo 1
+
+2
+
+15. Para  grabar  un  plano  general  de  una  plaza  urbana  donde  tenemos  zonas  en  sombra  y  zonas  a  pleno  sol,
+
+¿con  cuál  de  las  siguientes  acciones  obtendremos  mayor  información  en  todas  las  zonas?
+a) Poniendo un filtro ND y abriendo el Iris
+
+b) Aumentando el Detalle HD
+
+c) Utilizando una gamma logarítmica
+
+d) Configurando la señal Cebra al 100%
+
+16. Reduciendo la apertura del diafragma de un objetivo:
+
+a) Se aumenta la profundidad de campo
+
+b) Se disminuye la profundidad de campo
+
+c) No afecta a la profundidad de campo
+
+d) Se modifica el ángulo de la imagen
+
+17. ¿Qué es la distancia focal de un objetivo?
+
+a) Es la distancia que va desde la cámara al objeto
+
+b) Es la distancia desde el plano focal al centro óptico de la lente
+
+c) Es la que va del objetivo al infinito
+
+d) Es la que hay detrás del objeto enfocado
+
+18. ¿Para  qué  se  utiliza  la  señal  PLUGE  que  aparece  en  las  barras  de  color  SMPTE,  en  el  ámbito  de  la
+
+información  gráfica?
+a) Para el ajuste del nivel de detalle de las cámaras
+
+b) Para el ajuste de visores y monitores
+
+c) Para el ajuste de la respuesta cromática de visores y monitores
+
+d) Para el ajuste del nivel de video en la salida SDI
+
+19. En un vectorscopio, la longitud del vector de crominancia nos identifica la característica del color:
+
+a) Tono.
+
+b) Saturación.
+
+c) Luminancia.
+
+d) Frecuencia.
+
+20. ¿Cómo intentarías ganar estabilidad en una grabación con cámara al hombro?
+
+a) Utilizando el tele de la óptica
+
+b) Utilizar filtros ND para abrir más el diafragma
+
+c) Cuando grabas a hombro no importa la estabilidad
+
+d) Buscaría un punto de apoyo, como un árbol, columna, pared, etc.
+
+21. Basándonos en la síntesis aditiva, ¿qué color obtendríamos al mezclar a partes iguales una luz roja y otra
+
+verde?.
+a) Cyan.
+
+b) Amarillo.
+
+c) Magenta.
+
+d) Blanco.
+
+22. ¿Qué es el radomo?
+
+a) Un tipo de cable coaxial.
+
+b) Una parte de una grúa.
+
+c) Un efecto de sonido.
+
+d) Un elemento de una mochila de trasmisión.
+
+EXAMEN DEFINITIVO - Modelo 1
+
+3
+
+23. Los atributos fundamentales del sonido son:
+
+a) Intensidad, velocidad y frecuencia.
+
+b) Tonalidad, timbre y modulación.
+
+c) Velocidad, Intensidad y timbre.
+
+d) Intensidad, tono y timbre.
+
+24. ¿Cuál es el barrido entrelazado?
+
+a) El efecto que crean las altas luces
+
+b) El que divide el frame en dos campos, en las líneas pares y el de las líneas impares
+
+c) El que presenta el frame completo
+
+d) El que provoca el smear vertical
+
+25. ¿Cuál de los siguientes aspectos NO influye necesariamente en la profundidad de campo?
+
+a) La distancia focal del objetivo
+
+b) La intensidad luminosa de la escena
+
+c) El ajuste de la distancia entre el sujeto y el plano focal
+
+d) El mayor o menor diámetro del iris en la toma
+
+26. Tenemos  una  fuente  luminosa  (lámpara  de  tungsteno)  con  una  temperatura  de  color  aproximada  de  3200
+grados Kelvin y queremos aumentar dicha temperatura en la escena para igualar a luz natural (5600 grados
+Kelvin aproximadamente), ¿qué filtro (gelatina) usaríamos en éste caso?.
+
+a) Neutro.
+
+b) CTO.
+
+c) CTB.
+
+d) Polarizador.
+
+27. En un objetivo zoom ENG/EFP con montura B4 con la nomenclatura 20x8.4 mm, ¿cuál sería la distancia focal
+
+máxima?.
+a) 8.4 mm.
+
+b) 168 mm.
+
+c) 28.4 mm.
+
+d) 84 mm.
+
+28. ¿Dónde se encuentran los fotorreceptores (conos y bastones) en el ojo?
+
+a) Pupila
+
+b) Retina
+
+c) Iris
+
+d) Cristalino
+
+29. Usando una gama estándard (ITU-R BT.709), al monitorizar la señal de cámara en un monitor forma de onda,
+
+¿a qué porcentaje debemos tener una piel caucásica para que esté correctamente expuesta?.
+a) 100 %.
+
+b) 70 %.
+
+c) 50 %.
+
+d) 18 %.
+
+30. El equilibrio de una imagen está afectado por:
+
+a) Los objetos fuera de campo
+
+b) La profundidad de foco
+
+c) El balance de blancos
+
+d) El tamaño del sujeto dentro del encuadre
+
+EXAMEN DEFINITIVO - Modelo 1
+
+4
+
+31. Se debería realizar un balance de blancos siempre que:
+
+a) Cambie la situación de la cámara dentro de la escena.
+
+b) Cambie la óptica de la cámara.
+
+c) Cambie la temperatura de color de la escena.
+
+d) Haya que corregir las contaminaciones de luces que incidan en el objetivo.
+
+32. Una  cámara  de  TV  color,  dispuesta  con  un  filtro  de  temperatura  de  color  “luz  día”,  al  tomar  una  escena
+
+iluminada  con  luz  de  Tungsteno:
+a) Tendrá dominante azulada.
+
+b) Tendrá dominante anaranjada.
+
+c) No tendrá ninguna dominante.
+
+d) Deberá corregir el flare, para la luz secundaria.
+
+33. Gracias a qué variable de identificación, podemos saber cuál es la longitud de onda predominante
+
+a) Matiz
+
+b) Luminancia
+
+c) Saturación
+
+d) Brillo
+
+34. Un objetivo de 28mm en una cámara fotográfica de 35mm.
+
+a) Es un objetivo normal
+b) Es un teleobjetivo
+
+c) Es un objetivo de óptica variable
+
+d) Es un objetivo angular
+
+35. ¿Cuál es el tamaño del sensor de las cámaras ENG/EFP con montura óptica B4?.
+
+a) Full Frame.
+
+b) 1 pulgada.
+
+c) Micro 4/3.
+
+d) 2/3 pulgada.
+
+36. ¿Qué es el efecto smear?
+
+a) Es una borrosidad vertical propia de las cámaras CCD que se produce al captar tomas de objetos muy luminosos
+
+b) Un efecto óptico producido por la mala interpretación en el desarrollo de la producción de la señal
+
+c) Un destello que se produce cuando los rayos de luz inciden en el objetivo y se reflejan internamente en la lente
+
+d) Es la percepción de variaciones en la luminosidad de una fuente luminosa
+
+37. ¿Cuál es el valor de la alimentación de audio phantom en nuestra cámara ENG?.
+
+a) 0 dB.
+
+b) 12 dB.
+
+c) +48 v.
+
+d) 1 Khz.
+
+38. ¿La luz visible en que franja del espectro radioeléctrico se encuentra?
+
+a) 320nm a 920nm
+
+b) 380nm a 920nm
+
+c) 320nm a 720nm
+
+d) 380nm a 720nm
+
+EXAMEN DEFINITIVO - Modelo 1
+
+5
+
+39. La luminosidad de un objetivo es:
+
+a) Su menor número f
+
+b) La velocidad de apertura/cierre del zoom
+
+c) La longitud
+
+d) El mayor número f
+
+40. ¿Qué resolución corresponde a 4K DCI?
+
+a) 7.680 X 4.320
+
+b) 4.320 X 2.160
+
+c) 4.096 X 2.160
+
+d) 3.840 X 2.160
+
+41. Si  tenemos  una  fuente  luminosa  a  2  metros  de  nuestro  personaje  y  al  medir  con  el  fotómetro  obtenemos
+1600 luxes, ¿qué cantidad de luminancia obtendremos si alejamos dicha fuente a 4 metros del personaje?.
+a) Seguimos teniendo la misma intensidad de luz.
+
+b) Disminuiría a 800 luxes.
+
+c) Disminuiría a 400 luxes.
+
+d) Aumentaría a 3200 luxes.
+
+42. ¿Qué se conoce como ritmo en un plano?
+
+a) La repetición de un plano dentro de un bruto
+b) No existe en la imagen, es un concepto musical
+
+c) La repetición de formas y/o líneas dentro de un plano
+
+d) Es el ritmo con el que se mueve un objeto en una secuencia
+
+43. En composición de una imagen, ¿Qué nos indica la regla de los tercios?.
+
+a) El elemento más importante de la imagen tiene que ser al menos 3 veces mayor que el secundario.
+
+b) El elemento principal tiene más fuerza en el tercio central de la imagen.
+c) Los puntos de fuerza de la imagen se encuentran en las intersecciones de dividir ésta (con líneas imaginarias) en 3
+
+partes iguales de arriba a abajo y de izquierda a derecha.
+
+d) El elemento colocado a la izquierda de la imagen tiene un tercio más de peso que el situado al lado derecho.
+
+44. ¿Qué es gráficamente la sucesión de planos en una secuencia?
+
+a) Guion técnico
+
+b) Storyboard
+
+c) Guion literario
+
+d) Gráfico de localizaciones
+
+45. ¿Cómo se llama al plano que nos muestra el punto de vista de alguno de los personajes de la escena?
+
+a) Contraplano.
+
+b) Plano subjetivo.
+
+c) Plano secuencia.
+
+d) Plano y contraplano.
+
+46. ¿Cuál de estas afirmaciones es correcta entre toma y plano?
+
+a) La toma es la unidad básica y elemental de la narración, y el plano es una relación de tomas.
+
+b) Entre plano y toma no hay diferencia. Es lo mismo.
+
+c) El plano es la parte de la toma que se incorpora en el discurso narrativo.
+
+d) La toma es la parte del plano que se incorpora al discurso narrativo.
+
+EXAMEN DEFINITIVO - Modelo 1
+
+6
+
+47. La relación de la continuidad entre un plano y su precedente y/o el siguiente
+
+a) Es el eje de acción
+
+b) Es un plano subjetivo
+
+c) Es un plano recurso
+
+d) Es el raccord
+
+48. ¿Cuál de los siguientes NO es un elemento del plano?
+
+a) Motivación
+
+b) Sonido
+
+c) Ángulo de cámara
+
+d) Aire
+
+49. ¿Qué entendemos por desaforar?
+
+a) Dejar fuera de cuadro a un actor que interviene en la acción
+
+b) Una pérdida de foco de cámara marcada por el realizador
+
+c) Cuando en el encuadre vemos más allá del final del decorado e incluso la iluminación
+
+d) Un exceso de iluminación en un punto concreto del decorado
+
+50. Para dar sensación de una imagen grandiosa, el ángulo de la cámara, está:
+
+a) Ángulo lineal
+
+b) Ángulo en picado
+
+c) Ángulo contrapicado
+
+d) Ángulo obtuso
+
+51. Un desplazamiento de la cámara a un punto de vista contiguo igual o menor de 40º
+
+a) Es un salto de eje
+
+b) Es fuera de campo
+
+c) Es un salto de angulación
+
+d) Es un fallo del raccord
+
+52. ¿Qué es un plano cenital?
+
+a) Un plano aéreo hecho con grúa
+
+b) El que se hace desde arriba, a un ángulo de 90 grados perpendicular al suelo
+
+c) Un plano donde el aire está al revés
+
+d) Un plano hecho con un gran angular
+
+53. ¿Qué plano tengo que insertar antes de saltarme correctamente el eje de acción de un personaje paseando
+
+en sentido derecha-izquierda?
+a) Un plano frontal del personaje.
+
+b) Cualquier plano es válido.
+
+c) El mismo plano más abierto.
+
+d) Un plano americano.
+
+54. ¿Cuáles de estos géneros son informativos?
+
+a) Teleteatro, informativos diarios, entrevistas y seriales
+
+b) Revistas semanales, informativos diarios, entrevistas y programas coloquio
+
+c) Teleteatro, informativos diarios, reportajes y telefilmes
+
+d) Educativos, informativos diarios, reportajes y telefilmes
+
+EXAMEN DEFINITIVO - Modelo 1
+
+7
+
+55. ¿Qué material debes llevar a la grabación de una rueda de prensa?
+
+a) Trípode, cámara, cable de audio y luces
+
+b) Trípode, cámara, cable de audio
+
+c) Trípode, cámara, micrófono, cable de audio y pie de micro
+
+d) Luces, cámara, micrófono, cable de audio y pie de micro
+
+56. El fenómeno de persistencia retiniana se produce por la cadencia de imágenes mayor de:
+
+a) 1/50 seg
+
+b) 1/15 seg
+
+c) 1/30 seg
+
+d) 1/25 seg
+
+57. En una configuración EFP necesitamos:
+
+a) Dos cámaras, dos CCU, un mezclador, y un VTR
+
+b) Dos cámaras, dos baterías Ion-Litio y dos videos
+
+c) Una cámara, un cable triax y un VTR
+
+d) Seis cámaras, seis CCU y seis VTR
+
+58. ¿Qué es un micrófono Lavalier?
+
+a) Micrófono de mano
+
+b) Micrófono de corbata
+
+c) Micrófono bidireccional
+
+d) Micrófono de cañón
+
+59. Si  durante  la  grabación  tenemos  un  sonido  principal  enmascarado  por  el  sonido  ambiental,  ¿qué  tipo  de
+
+micrófono  utilizaríamos?
+a) Bidireccional.
+
+b) Omnidireccional.
+
+c) Direccional.
+
+d) Paracional.
+
+60. ¿Cuál de estas características diferencia un movimiento de travelling al de un zoom?
+
+a) El travelling no se puede hacer con un objetivo de distancia focal variable como el zoom
+
+b) Con el travelling las relaciones de perspectiva varían, con el zoom solo el tamaño
+
+c) Con el zoom las relaciones de perspectiva y punto de vista varían, con el travelling no
+
+d) No existe diferencias entre movimientos de travelling y zoom
+
+61. ¿Qué es el eje de cámara?
+
+a) El eje que hace que la cámara gire verticalmente
+
+b) El eje horizontal de la cámara
+
+c) El eje de la mirada de una persona en imagen
+
+d) La línea imaginaria que une el centro del objetivo y el centro de la superficie enfocada
+
+62. Un filtro quitavientos en un micrófono elimina las frecuencias:
+
+a) Altas.
+
+b) Moduladas.
+
+c) Medias.
+
+d) Bajas.
+
+EXAMEN DEFINITIVO - Modelo 1
+
+8
+
+63. A través de una conexión SDI se pueden transmitir señales digitales de video, estas pueden ser…
+
+a) SDI analógico
+
+b) Solo HD
+
+c) Solo SD
+
+d) HD o SD
+
+64. Full Frame es el sensor cuyo tamaño:
+
+a) Coincide con el antiguo negativo APS
+
+b) Coincide con el antiguo negativo 35mm
+
+c) Coincide con el antiguo negativo 16mm
+
+d) Coincide con el antiguo negativo 120mm
+
+65. La noticia y el reportaje se diferencian:
+
+a) La duración y el contenido; El reportaje tiene opinión
+
+b) La duración y el contenido; La noticia tiene opinión
+
+c) La duración y el contenido; El reportajes no tiene opinión
+
+d) La duración y el contenido; La noticia y el reportaje tienen opinión
+
+66. En un plano una persona mira a su derecha. ¿Dónde dejarías el espacio de referencia en el plano?
+
+a) Es indiferente.
+
+b) Por la derecha de cuadro
+
+c) Por la izquierda de cuadro
+
+d) Depende si habla o esta callado
+
+67. ¿Qué es un plano secuencia?
+
+a) Es el que se graba con cabeza caliente
+
+b) Es el que se hace siguiendo un orden
+
+c) Es el que se graba reiteradas veces
+
+d) Es grabar toda la escena sin cortes, cambiando de ángulo en una sola toma
+
+68. ¿Qué NO debemos realizar para levantar objetos pesados del suelo?
+
+a) Separar los pies a la altura de los hombros para dar una mayor base de apoyo al cuerpo
+
+b) Levantar el objeto rápidamente enderezando caderas y rodillas
+
+c) Flexionar las piernas y mantener la espalda recta
+
+d) Acercar el objeto a nuestro cuerpo para evitar cualquier desequilibrio
+
+69. ¿Cómo reduciremos la fatiga visual con el uso de los visores de cámara?.
+
+a) Desactivando la función “marker”.
+
+b) Cambiando el formato a 4/3.
+
+c) Usando valores de brillo/contraste más bajos.
+
+d) Cambiando la temperatura de color.
+
+70. Debido  a  las  características  de  su  trabajo,  el  informador  gráfico  está  sometido  a  esfuerzos  por
+levantamiento  de  carga  y  mantenimiento  de  peso.  ¿Cuál  es  una  recomendación  específica  para  este
+apartado?
+
+a) Realizar ejercicios de relajación muscular
+
+b) Evitar que las mujeres gestantes levanten y transporten peso
+
+c) Usar plantillas que amortigüen el contacto de los pies con el suelo
+
+d) Alternar la postura
+
+EXAMEN DEFINITIVO - Modelo 1
+
+9
+
+

@@ -1,0 +1,922 @@
+1)  Las Formas Normales de Codd persiguen: 
+
+A)  Disminuir la cohesión modular. 
+B)  Disminuir el acoplamiento modular. 
+C)  Evitar redundancias en las bases de datos relacionales. 
+D)  Facilitar el polimorfismo. 
+
+2)  ¿Qué  tipo  de  Base  de  Datos  utiliza  Mozilla  Firefox  actual  para  almacenar  los 
+
+marcadores? 
+A)  MySQL 
+B)  SQLite 
+C)  PostgreSQL 
+D)  OracleFree 
+
+3)  DML como parte del lenguaje SQL, es el acrónimo de: 
+
+A)  Data Model Language. 
+B)  Distributed Markup Language. 
+C)  Data Manipulation Language. 
+D)  No existe el término DML en SQL. 
+
+4)  En una Base de Datos de modelo Entidad/Relación, señale la afirmación correcta. 
+
+A)  Dominio es una unidad básica de información acerca de una entidad. 
+B)  Tabla es el conjunto de valores que puede tomar cada atributo. 
+C)  Relación es la asociación que se efectúa entre entidades. 
+D)  Entidad es la forma estructurada de los datos y sus relaciones. 
+
+5)  ¿Cuál es el resultado de la siguiente sentencia SQL? 
+
+SELECT  categoria,  idvideo,  titulo,  duracion  FROM t_videos 
+WHERE  (categoria,  duracion)  IN  (SELECT categoria, MAX  (duracion) 
+FROM t_videos  GROUP BY  categoria) 
+
+A)  Es una query incorrecta sintácticamente 
+B)  Saldrán siempre todos los empleados de la tabla t_videos 
+C)  Obtiene los videos que tienen la  duracion  máxima en su categoría 
+D)  El servidor de base de datos lanzará un error porque la query entrará en bucle 
+
+6)  Sean las tablas TABLA1 y TABLA2 
+
+y la sentencia sql 
+
+SELECT p.programaid, p.titulo, c.capituloid 
+
+FROM tablal p,  tabla2 c 
+
+WHERE p.programaid = c.programaid  (+) 
+AND p.programaid  IN  ('PROGRAMA1','PROGRAMA4') 
+
+¿Cuál es la salida correcta? 
+
+A)  Ninguna, la sentencia está mal escrita 
+B)  Resultado: 
+
+C)  Resultado: 
+
+D)  Resultado 
+
+7)  ¿Cuál de las siguientes opciones NO corresponde a un comando SQL válido? 
+
+A)  UPDATE 
+B)  SELECT 
+C)  DELETE 
+D)  REPLACE 
+
+8)  En  SQL,  para  borrar  todos  los  registros  de  una  tabla,  sin  eliminar  la  tabla 
+
+utilizaremos... 
+A)  DROP 
+B)  ERASE 
+C)  FORMAT 
+D)  DELETE 
+
+9)  Si tienes una tabla artículos con un campo precios, cómo aplicarías un descuento de 
+
+20 euros a todos los artículos que tengan un precio mayor o igual a 100 euros: 
+A)  SET PRECIO AS PRECIO - 20 FROM PRODUCTOS WHERE PRECIO >= 100; 
+B)  UPDATE PRODUCTOS  SET PRECIO = PRECIO - 20 WHERE PRECIO >=  100; 
+C)  SET PRECIO = PRECIO - 20 FROM PRODUCTOS WHERE PRECIO >  100; 
+D)  SQL no permite usar operadores aritméticos. 
+
+10) La  siguiente  sentencia  SQL  ejecutada  sobre  un  motor  de  BBDD  Oracle  ¿produce 
+
+algún tipo de bloqueo? 
+
+SELECT * FROM TABLA; 
+
+A)  Si, un bloqueo exclusivo de tabla 
+B)  Si, un bloqueo exclusivo de  fila 
+C)  Si, un bloqueo compartido que evita que se realicen cambios en la estructura de la 
+
+tabla 
+
+D)  No, no produce ningún tipo de bloqueo 
+
+1.1) ¿Cuál de los siguientes comandos pueden verificar conectividad a nivel de capa de 
+
+aplicación del modelo OSI entre 2 hosts? 
+
+A)  arp 
+B)  ping 
+C)  telnet 
+D)  tracert 
+
+12) Las aplicaciones de voz sobre IP no utilizan el protocolo TCP. La razón es que: 
+
+A)  TCP  es  un  protocolo  que  se  ha  quedado  obsoleto,  y  en  su  lugar  se  emplea  VDP 
+
+(Vocal Datagram Protocol). 
+
+B)  Se desacoplaría al atravesar las pasarelas con teléfonos analógicos. 
+C)  TCP  es  un  protocolo  propietario,  y  siendo  uno  de  los  objetivos  de  VoIP  abaratar 
+
+costes, hay que evitar pagar licencias. 
+
+D)  TCP  es  un  protocolo  "pesado",  que  corrige  errores  en  la  capa  de  transporte,  y  en 
+
+VoIP es conveniente corregir errores durante la transmisión. 
+
+13) ¿Cuál de las siguientes opciones describe de manera ordenada los cinco pasos de 
+
+conversión del encapsulamiento de datos? 
+
+A) Datos-segmentos-paquetes-tramas-bits 
+B) Datos-paquetes-segmentos-tramas-bits 
+C) Datos-tramas-segmentos-paquetes-bits 
+D) Datos-segmentos-tramas-paquetes-bits 
+
+14) ¿Qué protocolo WAN proporciona configuraciones punto a punto y  punto a 
+
+multipunto? 
+
+A)  HDLC 
+B)  CHAP 
+C)  PPP 
+D)  RDSI 
+
+15) Siendo el resultado de un comando ping el siguiente: 
+
+C:\>ping  rtve.es 
+
+Haciendo ping a rtve.es  [217.15.42.90]  con 32 bytes de datos: 
+Tiempo de  espera  agotado para  esta  solicitud. 
+Tiempo de  espera agotado para esta  solicitud. 
+Tiempo de espera agotado para esta solicitud. 
+Tiempo de espera agotado para esta solicitud. 
+Estadísticas de ping para 217.15.42.90: 
+
+Paquetes: enviados  — 4,  recibidos = 0, perdidos = 4 
+(100% perdidos) 
+
+¿Qué deducción es correcta? 
+A)  No hay conexión de red. 
+B)  Hay conexión de red con el DNS. 
+C)  La tarjeta de red no funciona. 
+D)  Hay un hub (concentrador) que permite la salida de paquetes pero no la entrada. 
+
+16)La dirección IPv6 ::1, ¿con qué dirección IPv4 se corresponde?: 
+
+A)  192.168.0.1 
+B)  1.1.1.1 
+C)  127.0.0.1 
+D)  172.16.0.1 
+
+17) En una conexión Ethernet a lGbps, ¿cuántos pares de cobre se utilizan? 
+
+A)  Uno. 
+B)  Dos. 
+C)  Cuatro. 
+D)  Los Seis. 
+
+18) RTSP es un protocolo de la capa de aplicación... 
+
+A)  Para la entrega de flujos de datos en tiempo real, por ejemplo vídeo y audio. 
+B)  Para la gestión de red bajo demanda. 
+C)  Para el suministro de códigos de tiempo remoto. 
+D)  Para la resolución de tramas síncronas prioritarias. 
+
+19) La pila OSI se compone de: 
+
+A)  4 capas 
+B)  5 capas 
+C)  6 capas 
+D)  7 capas 
+
+20) ¿Qué protocolo en TCP/IP se encarga de traducir direcciones físicas en  direcciones 
+
+IP? 
+
+A)  DHCP 
+B)  ARP 
+C)  RARP 
+D)  TCMP 
+
+21) En  programación orientada a objetos en java ¿Qué es un singleton? 
+
+A)  Un patrón de diseño que evita o restringe que una clase pueda heredar de otra 
+B)  Un patrón de diseño que evita o restringe que una clase pueda tener más de una 
+
+instancia 
+
+C)  Un patrón de diseño que evita o restringe que una clase tenga más de un atributo. 
+D)  Un patrón de diseño que evita o restringe que una clase tenga más de un método. 
+
+22) ¿Cuál es el fichero estándar de configuración de una aplicación ASP.NET? 
+
+A)  web.xml 
+B)  web.config 
+C)  web.config.net 
+D)  config.xml 
+
+23) Elige de las siguientes opciones cual es la más adecuada si se quiere ejecutar 
+
+javascript una vez se ha cargado la página, y sin esperar a que se hayan descargado 
+todas las imágenes: 
+
+A)  $(document).ready(function(){  ... 
+B)  window.onload = function ()  {  ... 
+C)  $(document).onload(function(window)){  ... 
+D)  $(window).onload = function(){  ... 
+
+24) En el lenguaje de programación Java, los tipos primitivos o simples de datos: 
+
+A)  No  están  orientados  a  objetos  y  se  refieren  solamente  a  los  tipos  de  datos  en  coma 
+
+flotante  que permiten almacenar números muy grandes. 
+
+B)  Sí están orientados a objetos y se refieren  solamente a los tipos de datos que admiten 
+tanto valores positivos como negativos y que pueden almacenarse en un determinado 
+rango. 
+
+C)  No están orientados a objetos y pueden subdividirse en enteros, reales, datos de tipo 
+
+carácter y lógicos o booleanos. 
+
+D)  Sí están orientados a objetos y pueden  subdividirse en reales y datos de tipo carácter, 
+
+pero no incluyen los enteros o los booleanos. 
+
+25) La sobrecarga de métodos difiere del polimorfismo: 
+
+A)  En que la primera está prohibida en Java. 
+B)  En que la primera usa el mismo nombre para el método mientras que la segunda debe 
+
+ser distinto. 
+
+C)  En que  la primera se da en la misma clase mientras que  la segunda se da entre clases 
+
+distintas. 
+
+D)  En que la sobrecarga no es parte de la programación orientada a objetos. 
+
+26) Si en un documento XML aparece la siguiente etiqueta:  <nombre/> ¿Qué 
+
+significado  tiene? 
+
+A)  Etiqueta de  fin 
+B)  Etiqueta de inicio 
+C)  No existe este tipo de etiqueta 
+D)  Elemento vacío 
+
+27)  En JavaScript 1.5, el operador "%" (tanto por ciento): 
+
+A)  Devuelve su operando cambiado de signo. 
+B)  Devuelve el resto de la división entera entre sus dos operandos. 
+C)  Invierte los bits de su operando. 
+D)  Devuelve falso si su único operando puede convertirse a verdadero; de otro modo, 
+
+devuelve verdadero. 
+
+28) ¿Cuál sería el resultado de la ejecución de la siguiente línea en C? 
+
+while  (*p++  =  *s++); 
+
+A)  "while" necesita un "end while" para funcionar. 
+B)  Es una sentencia de VB6, no de C. 
+C)  No se detendría jamás, se sobrescribe toda la memoria. 
+D)  Copia una cadena almacenada en 'p'  a 's'. 
+
+29) Una de las características de PHP es que: 
+
+A)  El código PHP se ejecuta en el servidor y envía al cliente código HTML 
+B)  Al igual que Java Script, sólo es posible ejecutar PHP en el navegador del cliente. 
+C)  NO es un lenguaje adecuado para el desarrollo web. 
+D)  Funciona únicamente en servidores IIS de Microsoft. 
+
+30) En el entorno web, ¿qué se entiende por SEO? 
+
+A)  Es el proceso de mejorar la visibilidad de una página web en los diferentes 
+buscadores (SEO por sus siglas en inglés, de Search Engine Optimization) 
+
+B)  Es una organización que lucha por la equidad en el acceso a internet (SEO por sus 
+
+siglas en inglés, de Social Equity Organization) 
+
+C)  Es un conjunto de operaciones que sirven para crear un motor de web semántica 
+
+(SEO por sus siglas en inglés, de Semantic Engine Operations) 
+
+D)  Es un estandard de desarrollo para mejorar los procesos de negocio de la empresa 
+
+(SEO por sus siglas en inglés, de Standard Enterprise Operations) 
+
+31) Dado el siguiente micro-formato de una página Html: 
+
+< l i nk 
+h r e f = " h t t p : / / w w w . r t v e . e s / n o t i c i a s / 2 0 1 1 0 1 2 8 / e g i p t o / 3 9 8 6 9 4 "> 
+
+r e l = " c a n o n i c a l" 
+
+Cuál de las siguientes afirmaciones es correcta: 
+A)  Este  meta  dato  permite  a  los  Bots  de  los  buscadores,  saber  cuál  es  la  URL 
+
+representativa, en el caso que haya diferentes URLs para una misma página. 
+
+B)  El  meta no  se  debe  usar todavía,  porque  no  todos  los  browsers  soportan  el  estándar 
+
+Html5. 
+
+C)  Este meta está diseñado específicamente para ser usado dentro de los archivos RSS. 
+D)  Permite  indicar  dentro  de  tu  página  que  ese  link,  que  lleva  a  otra  URL,  no  sea 
+
+considerado por el Bot del buscador. 
+
+32) Acaba de salir el portal del Tiempo en rtve.es, y se han detectado ciertos problemas 
+de rendimiento al cargar las páginas. De las siguientes acciones, ¿cuál emplearías 
+para mejorar el tiempo de carga de la página? 
+
+A)  Sacaría todo  el código javascript a un fichero con extensión  .css y lo  alojaría en otro 
+
+servidor. 
+
+B)  Estructuraría  todo  el  código  javascript  en  componentes,  cada  uno  de  ellos  en  un 
+
+fichero  .js, y los cargaría todos en la etiqueta head de la página. 
+
+C)  Ofuscaría y comprimiría todo el código javascript. 
+D)  Añadiría el  siguiente meta (<meta  name="googlebot"  content="noindex">),  para evitar 
+
+que google me indexe y sobrecargue los servidores. 
+
+33) ¿Qué instrucción PHP lee el contenido completo de un archivo y lo devuelve en 
+
+forma de cadena? 
+
+A) fread 
+B) file 
+C) readfile 
+D) file_get_contents 
+
+34) Dada la siguiente tarea ant 
+
+<?xml  v e r s i o n = " 1 . 0 " ?> 
+<project name="extract.teletexto"  default="extract"> 
+
+<property name="parrilla.prefix"  value="FI_PAR_"/> 
+<property name="fr.path"  value="frontales/${LANGUAGE}/"/> 
+<property name="fr.main" value="F_RC"/> 
+<property name="sc.parr"  value="S_PARRILLA"/> 
+<property  name="parrilla.directory" 
+
+value="${fr.path}${fr.main}/${sc.parr}/"/> 
+
+<target  name="extract"> 
+
+<antcall target="teletexto-${parrilla.type}" 
+
+inheritall="true"/> 
+
+</target> 
+
+<target  name="teletexto-tve"> 
+
+<patternset  id="patternTxt"> 
+
+<include name="**/*${parrilla.prefix}TV*.xml"  /> 
+
+</patternset> 
+<antcall  target="transfer-txt"  inheritrefs="true"/> 
+
+</target> 
+
+<target  name="teletexto-rne"> 
+
+<patternset  id="patternTxt"> 
+
+<include name="**/*.xml" /> 
+
+</patternset> 
+<antcall  target="transfer-txt"  inheritrefs="true"/> 
+
+</target> 
+
+<target name="transfer-txt" > 
+
+<ftp action="put" binary="false" server="${ftp.txt.server}" 
+
+. . . > 
+<fileset  dir="${parrilla.directory}"> 
+
+<patternset refid="patternTxt"  /> 
+
+</fileset> 
+
+</ftp> 
+</target> 
+
+</project> 
+
+¿cuántos ficheros se enviarían en el ftp al realizar la siguiente ejecución 
+
+$ant -Dparrilla.type=rne 
+
+teniendo en cuenta que presentamos la siguiente estructura de  ficheros? 
+
+- parrilla.directory 
+
+|—- FI_PAR_TV-HOY-BACK.xml 
+|—- FI_PAR_RNE-HOY-BACK.xml 
+
+- frontales 
+|-— es 
+
+| —  F_RC 
+| —- S_PARRILLA 
+
+| —- AHORA 
+
+|—- FI_PAR_TVE-AHORA.xml 
+|—- PARRI_RNE-AHORA.xml 
+
+|—- FI_PAR_TVE-HOY.xml 
+|—- FI_PAR_TVE-MÑN.xml 
+|-— FI_PAR_TVE-PAS.xml 
+|-— PARRI_RNE-HOY.xml 
+|—- PARRI_RNE-MÑN.xml 
+|—- PARRI_RNE-PAS.xml 
+
+A)  2 
+B)  8 
+C)  3 
+D)  4 
+
+35) Si ejecutas el siguiente código Jquery, que ocurrirá: 
+
+$ ( " e m b e d " ) . a t t r ( ' w i d t h ' , ' 1 0 0 % ' ); 
+
+A)  Al tag con id "embed" se le atribuirá width con valor 100% 
+B)  Se embeberá un nuevo atributo "width" en el punto donde se ejecuta este código 
+
+jquery. 
+
+C)  Se introducirá un nuevo "embed" con ese atributo en el html. 
+D)  Se buscará en el DOM todos los "embed" y se les aplicará ese atributo a todos. 
+
+36) Después de un cambio en un sistema de información, ¿qué pruebas es necesario 
+realizar para comprobar que los cambios realizados no han afectado a otros 
+componentes  no  modificados? 
+
+A)  Pruebas de implantación 
+B)  Pruebas de sostenibilidad 
+C)  Pruebas de regresión 
+D)  Pruebas del sistema 
+
+37) De la siguiente definición en lenguaje PHP 
+
+$ r e g i s t ro  =  a r r a y ( 3 1 , 5 0 . 8 , ' D ' , " G e m a " , " V e g a " , " J i m é n e z " ); 
+
+Indique cuál de las siguientes sentencias muestra la 'n' de Jiménez: 
+A) echo $registro.cad5[3] ; 
+B) echo $registro[6] [5]; 
+C) echo  $Cadena.registro[3].cad3; 
+D) echo $registro[5] [4] ; 
+
+38) En el lenguaje de programación Java, un constructor es: 
+
+A)  Un tipo especial de variable que permite recolectar basura (garbage collector). 
+B)  Un  tipo  especial  de  método  que  permite  que  un  objeto  se  inicialice  a  valores 
+
+definidos para sus datos. 
+
+C)  Un  tipo  especial  de  variable  que  permite  al  usuario  comunicarse  con  la  interfaz 
+
+gráfica (gui). 
+
+D)  Un  tipo  especial  de  método  que  permite  a  un  programa  tomar  la  decisión  sobre  la 
+
+ejecución o no ejecución de una acción o de un grupo de acciones. 
+
+39) Qué tendríamos que añadir a un fichero con extensión .shtml si quisiéramos añadir 
+
+el código de la página /prueba/index.inc mediante tecnología SSI: 
+
+A)  <script>include("/prueba/index.inc");</script> 
+B) <!-—#include  virtual="/prueba/index.inc"  —-> 
+C) <?php  include  '/prueba/index.inc';  ?> 
+D) <iframe src="/prueba/index.inc" /> 
+
+40) En un fichero XML que sigue las reglas definidas por las siguientes líneas que 
+
+forman parte de un DTD: 
+
+<!ELEMENT  DESA 
+<!ELEMENT  MANT 
+<!ELEMENT  MINT 
+<!ELEMENT  PROY 
+
+(MINT?,  PROY+)> 
+( J I R A + )> 
+(MANT*,SEO)> 
+( P E P I S +) 
+
+¿Cuál de las siguientes afirmaciones es falsa?: 
+A)  El  elemento raíz DESA puede contener un elemento MINT y debe ir seguido de uno 
+
+o más elementos PROY. 
+
+B)  El  elemento  PROY tiene  uno  o  varios  elementos  PEPIS,  mientras  que  MINT puede 
+
+tener un elemento SEO 
+
+C)  MINT puede tener varios MANT, pero  cada uno  de esos MANT tiene que ir seguido 
+
+de uno o más elementos JIRA. 
+
+D)  El  elemento  raíz  DESA  puede  no  tener  un  elemento  MINT,  pero  siempre  tiene  que 
+tener un elemento  PROY.  Tanto  MINT como  PROY deben  de  tener algún elemento 
+hijo. 
+
+41) Cuál  es  el  resultado  de ejecutar la  siguiente  expresión  xpath 
+
+/ / c a t e g o r y [ @ u id  = 
+n ot  (@comment)  ]  /@name 
+
+' C A D _ R N E ' ] / d e s c e n d a n t - o r - s e l f : : c a t e g o ry 
+
+[@order 
+
+!=  2  and 
+
+sobre  el  siguiente fragmento  XML 
+
+< c a t e g o ry  comment="Cadenas  de  RNE"  n a m e = " C a d e n a s"  uid="CAD_RNE"  o r d e r = " l "> 
+
+< c a t e g o ry  uid="CRN_RADIO1"  name="Radio  N a c i o n a l"  o r d e r = " l " /> 
+< c a t e g o ry  uid="CRN_RADIOC"  name="Radio  C l a s i c a"  o r d e r = " 2 " /> 
+< c a t e g o ry  uid="CRN_RADIO3"  name="Radio  3"  o r d e r = " l " /> 
+< c a t e g o ry  uid="CRN_RADIO4"  c o m m e n t = " n u l l"  name="Radio  4"  o r d e r = " l " /> 
+< c a t e g o ry  uid="CRN_RADIO5"  name="Radio  5"  o r d e r = " 5 " /> 
+< c a t e g o ry  uid="CRN_RADIOE"  name="Radio  E x t e r i o r"  o r d e r = " l " /> 
+
+< / c a t e g o r y> 
+
+A)  Radio Nacional,  Radio  3,  Radio 4,  Radio  5,  Radio  Exterior 
+B)  Cadenas,  Radio Nacional,  Radio Clasica,  Radio  5,  Radio  Exterior 
+C)  Radio Nacional, Radio 3, Radio  5, Radio Exterior 
+D)  Cadenas,  Radio Nacional,  Radio  3,  Radio 4, Radio  5,  Radio Exterior 
+
+42) Si tenemos  el siguiente código  en  un  fichero  build.xml 
+
+<project  default="publisher"> 
+
+<target name="ads" depends="agile" unless="edl-l.96"> 
+
+<echo message="Servimos  video por  sistema  zotaner"/> 
+
+</target> 
+
+<target name="scd"  depends="agile"  if="edl-l.96"> 
+
+<echo message="No se va a ver el video"/> 
+
+</target> 
+
+< t a r g et  name="agile"> 
+
+< c o n d i t i on  p r o p e r t y = " e d l - l . 9 6 "> 
+
+<and> 
+
+< a v a i l a b le 
+<not><equals  a r g l = "$  { p o r t a d a - e r r o r}  "  a r g 2 = " f a l s e " / x / n o t> 
+
+f i l e = " h t m l - l i b r e . c t v " /> 
+
+</and> 
+< / c o n d i t i o n> 
+
+< / t a r g e t> 
+
+< t a r g et  name="publisher"> 
+
+< a n t c a ll 
+< a n t c a ll 
+
+t a r g e t = " a d s " /> 
+t a r g e t = " s c d " /> 
+
+< / t a r g e t> 
+
+< / p r o j e c t> 
+
+qué  mensaje  aparecería  asumiendo  que  existe  html-libre.ctv  y  se  lanza: 
+$ant 
+
+- D p o r t a d a - e r r o r = t r ue 
+
+A)  Servimos video  por sistema zotanerNo  se va a ver el  video 
+B)  No  se va a ver el video 
+C)  Servimos  video  por  sistema  zotaner 
+D)  No  se  va a ver el  videoServimos video por sistema zotaner. 
+
+43) ¿Qué permite hacer el método Cross Site Scripting (XSS)? 
+
+A)  Es  una  evolución  de  Ajax  que  permite  invocar  código  de  un  dominio  diferente  (es 
+
+básicamente un tipo de Proxy Ajax). 
+
+B)  Es  un  método  de  ataque  de  webs  que  fuerza  a  la  Web  a  repetir  código  que  ha 
+insertado  el  atacante,  de  tal  manera  que  el  navegador  del  cliente  lo  interprete  y 
+ejecute. 
+
+C)  El  método  XSS  es  una variación  del  standard  CSS  (Cascading  Style  Sheets),  que  no 
+
+se basa en el modelo en Cascada, XSS se basa en un modelo Cruzado. 
+D)  XSS no es un método, es la extensión de los ficheros Xpath Stylesheet 
+
+44) ¿Cuál será el resultado de ejecutar el siguiente código? 
+
+<?php 
+
+$ a r r ay  =  a r r ay  ( 1,  2,  3,  5,  8,  13,  2 1,  34,  55); 
+$sum  =  0; 
+for  ($i  =  0;  $i  <  5;  $i++)  { 
+
+$sum  +=  $ a r r a y [ $ a r r a y [ $ i ] ]; 
+
+} 
+echo  $sum; 
+
+?> 
+
+A) Resultado:  5 
+B)  Resultado:  19 
+C)  Resultado: 32 
+D)  Resultado:  78 
+
+45) Señale la respuesta FALSA. Maven principalmente nos permite: 
+
+A)  Resolver y descargar las dependencias de módulos y librerías externas de un proyecto 
+
+Java. 
+
+B)  Subir artefactos a un repositorio para dejarlos accesibles al resto de desarrolladores. 
+C)  Automatizar el proceso de construcción de un proyecto Java. 
+D) Automatizar los merge en el control de versiones. 
+
+46) Cómo  definimos  en  GNU/Línux la  puerta  de enlace  192.168.45.1  para el interfaz  de 
+
+red eth0 de un equipo: 
+A)  route add 0.0.0.0  mask 0.0.0.0  192.168.45.1 
+B)  route add default gw  192.168.45.1  ethO 
+C)  route add default gateway  192.168.45.1 
+D)  route add 0.0.0.0 mask 0.0.0.0  192.168.45.1  ethO 
+
+47). ¿Qué sistema de archivos NO permite almacenar un archivo de 7GB? 
+
+A)  NTFS 
+B)  BTRFS 
+C)  FAT32 
+D)  EXT4 
+
+48) En qué directorio de un sistema de archivos de GNU/Linux se encuentran los scripts 
+
+de ejecución y parada de los servicios principales del sistema: 
+A)  /var/scripts 
+B)  /usr/bin 
+C)  /sbin 
+D)  /etc/init.d 
+
+49) ¿Es  posible  agregar  un  PC  con  GNU/Linux  instalado  como  cliente  de  una  red 
+
+administrada mediante Active Directory y Windows Server 2008? 
+A)  Sí,  es  posible  mediante  la  implementación  del  protocolo  SMB  o  CIFS,  que  en 
+
+GNU/Linux se denomina SAMBA. 
+
+B)  No, no es posible debido a que GNU/Linux no está diseñado para trabajar en red. 
+C)  Sí, es posible usando la herramienta IPTRAF 
+D)  No, no es posible debido a que Active Directory no admite clientes GNU/Linux. 
+
+50) Tenemos un servidor Web APACHE configurado con la siguiente regla 
+
+RedirectMatch  "^/  [rR] t ve (es) ? ( / . *) ?"  " h t t p : / / r t v e . t v e. e s / $ 2" 
+
+¿Cuál de las siguientes afirmaciones podría ser producida por esta regla? 
+
+A)  La petición  http://tve.es/alacarta.html será redirigido a http://rtve.tve.es/ 
+B)  La petición  http://tve.es/alacarta.html?id=lll&obj=222  será redirigido a 
+
+http://rtve.tve.es/222 
+
+C)  La petición  http://rne.es/Rtvees/alacarta.html  será redirigido a 
+
+http://rtve.tve.es/alacarta.html 
+
+D)  Esta regla nunca procesará una URL válida. 
+
+51) ¿Cuál de los siguientes comandos no pertenece a SMTP? 
+
+A)  VRFY 
+B)  HELLO 
+C)  QUIT 
+D)  BYE 
+
+52) ¿Qué 
+
+indican 
+
+los  códigos  de  estado  HTTP  del  tipo  5xx?  Por  ejemplo: 
+
+500,501,503...etc 
+A)  Errores en el lado del cliente 
+B)  Errores en el lado del servidor 
+C)  Redirecciones 
+D)  Que la transmisión ha sido correcta 
+
+53) ¿Cuáles de estos protocolos se soportan en NAS? 
+
+A)  CIFS e iSCSI 
+B)  Fibre Channel y NFS 
+C)  CIFS y NFS 
+D)  SMB y FCoE 
+
+54) ¿Cuál de las siguientes es la definición más correcta para un Hypervisor? 
+A)  Es una plataforma de virtualización que permite utilizar, al mismo tiempo, 
+
+diferentes  sistemas operativos en una misma computadora 
+
+B)  Es un sistema de monitorización 
+C)  Es una plataforma que permite visualizar el uso de los segmentos de memoria, 
+
+evitando la capa de abstracción de Hardware del Sistema Operativo 
+
+D)  Es una herramienta  que permite hacer profiling de aplicaciones, dando información 
+
+de tiempo y recursos consumidos durante su ejecución 
+
+55) Uno de los factores para medir la velocidad de un  disco duro es la latencia.  Señale 
+
+su definición correcta. 
+A)  El tiempo que tarda el cabezal en desplazarse a una pista determinada. 
+B)  Es la mitad del tiempo empleado por la aguja en ir desde la pista más periférica hasta 
+
+la más central del disco. 
+
+C)  El tiempo que tarda el cabezal en situarse en un sector determinado. 
+D)  Es la tasa de transferencia de datos. 
+
+56) ¿Que se le especifica a un servidor Apache 2.0 a través de la siguiente directiva? 
+
+<IfModule mod_expires.c> 
+
+ExpiresActive on 
+ExpiresByType  image/jpg A3600 
+
+</IfModule> 
+
+A)  Informa a los proxies y a los navegadores de que los ficheros del tipo image/jpg 
+
+deben liberarse de la caché y recargarse desde el servidor 3600 minutos después del 
+último acceso 
+
+B)  El servidor informará de que la sentencia no está bien construida 
+C)  Informa a los proxies y a los navegadores de que los ficheros del tipo image/jpg 
+deben liberarse de la caché y recargarse del servidor 3600 segundos después del 
+último acceso 
+
+D)  Informa a los proxies y a los navegadores de que los ficheros del tipo image/jpg 
+
+deben liberarse de la caché y recargarse del servidor 3600 horas después del último 
+acceso 
+
+57) 14. En un sistema GNU/Linux, tenemos un archivo llamado "lista" con los permisos 
+-rwxr-x-r-x.  ¿Qué  comando  debemos  ejecutar  para  que  el  resto  de  usuario  sólo 
+puedan leer el archivo, pero no escribir en él ni ejecutarlo y manteniendo el resto de 
+permisos como están? 
+A)  chmod 0755 
+B)  chmod 0754 
+C)  chmod 0733 
+D)  chmod 0753 
+
+58) Cuándo  en  un  sistema  Windows  XP  se  ejecuta  en  una  ventana  de  línea  de 
+
+comandos: 
+NETSH 
+
+i nt 
+
+ip  r e s et  c : \ r e s e t l o g . l og 
+
+¿Cuál es el propósito? 
+A)  No existe el comando NETSH. 
+B)  Restablecer el protocolo TCP/IP. 
+C)  Reiniciar el cortafuegos incorporado en Windows. 
+D)  Activar un registro de eventos de red, que se almacenará en c:\resetlog.log 
+
+59) En una infraestructura VMWare ¿Dónde se definen las alertas y alarmas de las 
+
+máquinas virtuales? 
+A)  Se definen en cada ESX/ESXi 
+B)  En el sistema de gestión vCenter 
+C)  Las  relativas  a  las  máquinas  virtuales  en  el  ESX/ESXi,  y  las  relativas  a  la  red  ó 
+
+almacenamiento en el vCenter. 
+
+D)  VMware  no  soporta  monitorización  de  maquinas  virtuales  y  hay  que  utilizar 
+
+forzosamente  un software de terceros 
+
+60) ¿Qué número de discos como mínimo se necesitan para implementar una solución 
+
+RAID5? 
+A)  5 
+B)  2 
+C)  3 
+D)  4 
+
+61) ¿Qué protocolos de transmisión de video en directo por internet usa un patrón de 
+
+"segmentación del video en varios archivos independientes"? 
+A)  RTMP 
+B)  RTSP 
+C)  Apple HTTP Live Streaming 
+D)  Flash live media encoder 2 
+
+62) En España, en la actualidad el estándar de resolución utilizado en la emisión en Alta 
+
+Definición para TDT es: 
+A)  576i 
+B)  740p 
+C)  1080i 
+D)  2048p 
+
+63) El códec h.264 tiene diferente perfiles (profiles) ¿Cuál de los siguientes NO existe?: 
+
+A)  Baseline  profile 
+B)  High profile 
+C)  Cluster  profile 
+D)  Main profile 
+
+64) ¿Cuál de los siguientes NO es un códec de vídeo? 
+
+A)  VP8 
+B)  H.264 
+C)  MKV 
+D)  ProRes 
+
+65). La recomendación de la H.264 se refiere a: 
+
+A)  Una norma que define un códec de vídeo de alta compresión. 
+B)  Un formato de archivo contenedor. 
+C)  Un conjunto de códecs de compresión para la codificación de flujos de audio. 
+D)  Un estándar de compresión y codificación de archivos de imágenes  fijas. 
+
+66) Según el teorema de Nyquist, para evitar el aliasing, la frecuencia de muestreo que 
+
+se aplica a una señal con un ancho de banda de 4khz tiene que ser mayor de: 
+A)  2khz 
+B)  4khz 
+C)  8khz 
+D)  l6khz 
+
+67) ¿Cuál de las siguientes afirmaciones relativas a tecnologías de retransmisión de 
+
+video por internet son ciertas? 
+A)  RTMP es un protocolo dedicado exclusivamente a streaming de video en directo y no 
+
+es válido para video bajo demanda (VoD) 
+
+B)  La descarga progresiva es una tecnología dedicada exclusivamente a video bajo 
+
+demanda (VoD) y no es válida para retransmisión de video en directo 
+
+C)  Tanto RTMP, como la descarga progresiva, son dos tecnologías perfectamente 
+
+validas para la retransmisión de video bajo demanda (VoD) o en directo 
+indistintamente 
+
+D)  La descarga progresiva solo es aplicable a la retransmisión de audio y nunca a la 
+
+retransmisión de video 
+
+68) ¿Cuál de los siguientes protocolos NO se utiliza para la retransmisión de contenidos 
+
+multimedia? 
+A)  RTSP 
+B)  SWF 
+C)  MMS 
+D)  HTTP 
+
+69) ¿Cuál  de los  siguientes formatos de archivo es utilizado por aplicaciones de 
+
+Internet para mostrar imágenes inmóviles? 
+A)  WAV 
+B)  MIDI 
+C)  JPEG 
+D)  MPEG 
+
+70) ¿Qué es "Pan and Scan"? 
+
+A)  Una técnica de compresión de imagen, para reducir su tamaño. 
+B)  Una técnica para encajar una imagen panorámica en un  formato  4:3,  desperdiciando 
+
+parte de los laterales. 
+
+C)  Una técnica para encajar una imagen 4:3  en un formato  16:9 
+D)  Una técnica de escaneado para desentrelazar (pan) una imagen. 
+
+

@@ -1,0 +1,1259 @@
+yo
+CONVOCATORIA CRTVE 1 / 2009
+- PRUEBA PRÁCTICA (día 19 de abril 2009) -
+Categoría Laboral: TÉCNICO SUPERIOR ELECTRÓNICO.
+1) Sabemos que a la entrada de un bloque de un circuito electrónico hay una señal senoidal de 10
+Vpp y de frecuencia 1 Khz. Para conocer el funcionamiento de dicho bloque situamos en el canal
+A del osciloscopio la señal de entrada, en el canal B su señal de salida y pulsamos el botón de la
+deflexión vertical X/Y. Observando la pantalla del osciloscopio que se muestra en la figura se
+puede decir que el bloque está funcionando como:
+-
+1 Khz Desconocido E
+PA) Divisor de frecuencia
+B) Doblador de tensión
+C) Amplificador inversor
+D) Sin los datos de base de tiempos y sensibilidad no se puede determinar la función
+2) Deseamos conectar un nuevo ordenador a la red informática de la empresa sin necesidad de
+que este tenga acceso a internet a través de un router ya conectado a la misma. ¿Cuáles de los
+siguientes niveles OSI deberíamos configurar entre el nuevo ordenador y el router?
+A) Físico-Enlace de datos-Red
+» B) Físico-Enlace de datos
+C) Solo Físico
+D) Físico — Enlace de datos — Red — Transporte
+3) Para prevenir lesiones provocadas por corrientes de defecto de los equipos electrónicos con los
+que trabajamos en cualquier laboratorio técnico. ¿Qué dispositivo nos protege de estas
+eventualidades?
+A) El interruptor bipolar
+B) El interruptor magnetotérmico
+C) El fusible «
+-PD) El interruptor Diferencial
+1
+
+4) Cuál de estas señales está en (AM):
+A) B)
+a 2, un 8 FRNA  ANERRNORS
+EAN EN IU
+XI NS JONU UY
+a D
+MAA ERAN 1) í
+ll AND Mo, | TNA?
+y ¡ Jl "UD Y y“
+Ma Y YO AAN l JE
+A) A
+B) B
+Cc) C
+$D) D
+5) En la medida tomada con un analizador de espectro, calcular la frecuencia de la señal indicada
+por la flecha en el dibujo
+Detect: auto PK: :[11 (Tela: Enñee: 0100 iu: I0kHz'>
+Ref: 06 din) rracesiCi/Ur UB a.
+e SU Os :
+po ] SSeRnA ASS HE 5 Alco Bo ep pei : A pe :¿b ee ¿ó E pa NENAS PEREDA RES o .“
+Ss o pe cl ll 1 II EC
+46: EE ad Mis Pe : Here pio o. ¿
+a a TE da EN AH a pllirda] AFE Ia) SE
+NCAA dC de SL E le EA l: Ad ERA ETA Ny SE
+ea |
+A ia o
+o qe E: : :
+a O PTA | NEO Ls Lobo dis
+10610 il | Jl e EN ' Ñ MAL E
+Canton: EM ni .
+A A A
+A) 96.8 Mhz
++ B) 90.5 Mhz y
+C) 93.5 Mhz
+D) 100.8 Mhz
+2
+
+6) ¿A que puerta lógica corresponde el siguiente esquema de circuito integrado?
+14 13 12 11 10 9 8
+vos] nc NC ÍNC
+123.456 07
+A) Puertas AND de $ entradas.
+»B) Puerta NAND de 8 entradas.
+C) Puerta NOR de 8 entradas.
+D) Puerta OR de 8 entradas.
+7) El conector de la figura se usa principalmente en las conexiones de media y alta frecuencia.
+¿Qué denominación tiene dicho conector?
+dl Ñ ES Sr á o ;
+A O ad:
+A a
+AN pa TS
+B)F ho La
+»$D)7/16” A
+8) A partir del Teorema de Thévenin calcula Vin y la Zin entre los puntos A y B ”
+R2= 20 Q R3= 10 Q
+A
+100V Ri=5Q
+y
+B
+A)Vé= 20V  Zómr150
+B)Vu=20V  Zm=30Q
+BO) Vi=20V  Zm14Q
+D)Vi=100V  Zm=14Q
+3
+
+9) En este circuito amplificador en emisor común, cuál es el efecto de conectar el condensador Ce
+en paralelo con Re?
++12V
+R1 | Re
+| |
+A) No tiene ningún efecto. Ve R2 ¡ ¡ Ce vs
+»B) Mejorar ganancia en frecuencias altas. | |
+C) Mejorar la ganancia en frecuencias bajas.
+D) Minimizar el ruido de polarización. ,
+10) Tras la realización de un análisis de respuesta en frecuencia de un equipo, ¿que representa la
+curva obtenida de la figura?
+NIVEL DE PRESION
+SONORA (dB)
+Frecuencia f (Hz)
+A) Representación gráfica del ruido rosa
++ B) Representación gráfica del ruido blanco
+C) Representación gráfica del ruido constante
+D) Representación gráfica del ruido no periódico
+11) Disponemos de cuatro equipos transmisores de microondas de igual potencia y con su antena
+de la misma ganancia para su banda. ¿Con cúal de ellos podriamos cubrir mayor distancia? Con
+el de...
+Y A) 2 GHz.
+B) 8 GHz.
+C) 13 GHz.
+D) 22 GHz.
+4
+4
+
+12) El siguiente circuito pertenece al esquema eléctrico de la placa de mandos frontal de un
+televisor. Las señales a las que se refiere el conector BJ010 son:
+[a
+oa | 6 Li902 |
+VIDEO ¡Ó A mu
+ta z20PO |
+AUDIO [ j A] »
+i 1 220P0 |
+dencaporad Bl0sg 4
+| E]
+: 14001 1
+- | ANC] Duna E
+y BJ011 CHRORIA
+E | GNDV-
+VIDEO 3 E VIDEO
+CHROMA. > | |
+A) Video en componentes y audio estéreo sin balancear.
+B) Video compuesto y audio estéreo balanceado.
+9C) Video compuesto y audio estéreo sin balancear.
+D) Video en componentes sin balancear y audio estéreo balanceado
+13) Una compañía eléctrica suministra un voltaje de línea de 115V RMS con una tolerancia del
+10% y una frecuencia de 60 Hz. ¿Cuál será la tensión de pico?
+A) 115V
+B) 263V
+SC) 162,15V
+D) 125V
+14) Dado el proceso esquemático, ¿Qué debe ser el bloque X para que llegue a oírse el sonido por
+el altavoz?
+Reproductor de Compact-disc
+AAA E
+CE Convertidor Ñ Mi
+ligital-analógico [7 ¡ X [Es o,
+Datos digitales | CIglkibaralógico y Wo ./
+y | Repreducción ss) os
+de la señal Y
+de audio Mtavoz
+A) Un generador de sincronismos
+PB) Un amplificador lineal
+_. C) Un filtro paso alto Ñ
+D) Un diplexor
+5
+
+15) Para medir el correcto funcionamiento de una etapa de filtrado se ataca a esta con un ruido
+blanco y mediante un analizador de espectro se estudia su respuesta a la señal. A la vista de la
+pantalla del analizador y de los rangos de medida y escalas seleccionadas indique, si es
+posible, el ancho de banda aproximado de la etapa de filtrado.
+
+a | ) r IN i NET E FRECUENCIA |
+ES : A | : l : E 3
+EE mi Da ll
+A A AA | E E
+a > ON A | a E, HASTA| 200.000 Hz e
+le IN E e
+E DN a A | | 0 ñ E [oLos eun |
+A UU A II eS +
+qa wy q IN a E AMPLITUD |
+.E | UN
+E dl ' | ' dl i ll l | l h : : E DE MEA a
+E UN
+ae a Ú ó UU | | il : ll : HOLOG  OLIN E
+B III WET
+os E WII OA cusOR E
+; E t il Ú Ml e ! Úl Im : E E
+y de ll all 00 0 ¡dl ¡NI ÚÚ UU UTE ST Eo : E E
+ds ml A l Il A a Ú ll 0 ll ll ! l l | Ad ll | l l d Ñ ") ' Vi 4 FREC. 82.000 Hz ||
+E E mo JA El ll Il ll ! l il | Al] | Ñ pe | l ll l UN Ll ll [ | . UN ! ll LJ : a AMPL. E
+SA) 50 KHz
+B) 80 KHz
+C) 105 KHz.
+D) 185.000 Hz
+16) Nos encontramos en un laboratorio técnico de TV, en el que tenemos conectado un equipo
+con esta señal. ¿De qué equipo se trata y qué figura es?
+EA O EE - +44
+Y CEA a e 0
+DE AA
+E mm ¡ Ae de ¿a S y !
+a : A ei AÑ
+A e E 7 | Dj í mier Ep
+A) Figura de pajarita en digital y monitor de forma de onda analógico
+B) Sincronismo horizontal magnificado y monitor de forma de onda analógico 4
+C) Señal test de la línea 17 y monitor de forma de onda digital
+-9D) Diagrama de ojo y monitor de forma de onda digital
+6
+
+17) Este esquema pertenece a una fuente de alimentación de 13V y 20A, pero descubrimos que
+en el diseño existe un error, ¿puede decir cuál es?:
+ms TS
+T4
+| Re
+| Re = c3 | R10 »2
+0 cz 16 R12
+HA | | R13
+| ro
+A) Los transistores T4 y TS tienen que ser un PNP.
+B) Los filtros C7 y C1 están polarizados inversamente.
+C) El transistor T1 debe ser PNP.
+9D) La etapa rectificadora está mal montada
+1$r ¿Gual sería el resultado de[convertirebmumero hexadecimal 23.4 F 0 6 hi binario?
+A) 0010 0011 10 0 1 00 Ml
+B) 0101 0111 0110 0100860. 0101
+C) 0001 0101 0:6T 0110 0000 00
+D) 001 90 0101 0100 0000 0111
+19) A la vista del esquema, indicar la ganancia en tensión aproximada.
+j 33 k
+10k 15 k KN
+Vin
+Vout
+10 k
+PA) 0db = a
+B) 3 db
+C) -3 db
+D) 6 db
+7
+
+20) En la siguiente figura se representan las portadoras de sonido de una señal estéreo pero
+falta la subportadora de la señal de 57 KHz. ¿A que subportadora pertenece dicha frecuencia?
+100%
+90% |--
+SEÑAL
+MONO
+BANDA || BANDA
+LATERAL —|:| LATERAL
+OO DI : DI
+pr j 37,97K| : |38,03k
+30 15K 19K 23K 38K 53K £(Hz)
+A) Piloto
++: B) RDS
+C) Canal derecho
+D) Canal Izquierdo
+21) Si disponemos de un monitor forma de onda ¿Qué se puede evaluar con el impulso 20 T de la
+línea 17?
+A) Ganancia de crominancia
+B) Retardo de la luminancia
+PC) Diferencia de retardo y desigualdad ganancia de crominancia en relación a luminancia
+D) Nivel de blanco
+22) En el siguiente circuito, calcula el valor de Ra para que Vs sea de SV
++1 | +vs
+LY Ll]
+Lo]
+Ra
+¡ 50%
+Y A) 0 Ohmios "
+B) 10K
+C) 5K6
+D) 560 Ohmios
+8
+
+23) Si utilizamos un distribuidor de video con una entrada y cuatro salidas, y queremos dar
+señal a cuatro monitores que estan a mas de 10 metros de distancia del distribuidor ¿Que cable
+sería et más adecuado?
+A) Coaxial 75 Ohmios
+B) Paralelo 300 Ohmios
+C) Cable y conector SCART
+D) Coaxial 50 Ohmios
+24) Disponemos de un potente software de edición de audio. Si tenemos que digitalizar una señal
+de audio estéreo con objeto de finalmente grabarla en un soporte CD-Audio ¿qué formato sería el
+más adecuado?
+A) 22 kHz — 8 bits
+PB) 44.1 kHz - 16 bits
+C) 48 kHz-— 16 bits
+D) 96 kHz — 24 bits
+25) El dibujo representa la circuitería de un TRC con el detalle de algunas de las señales que le
+hacen funcionar, concretamente las que corresponden a las patillas 8, 6 y 11. ¿A qué señales nos
+referimos?
+e bbolelo
+NANO Ei ai a E AS y EA
+A o ra E 4.)
+olle /a |
+e SR O |
+E PE rr 8 / A : : . - NO O Ñ
+Lon O AN -
+ATA AA A
+NERO AN vo y Te32us IN /T T=3218 SS e
+: mad ES 0 A, $ La ad e] , Y pun Ñ :
+, dl ll DI Taro
+A - Xx : Pi ad X OS FP i A / .
+NR ropa / NIG No 120Vpp-H
+A) A las señales de deflexión horizontal, vertical y de color.
+B) A las señales de deflexión horizontal.
+C) A las señales de deflexión vertical.
+P D) A las señales componentes de color R,G y B.
+9
+
+26) Para la reparación de un equipo electrónico se precisa realizar una medida de comprobación.
+A la vista del esquema electrónico del aparato, ¿en cuales de los puntos de la placa de circuito
+impreso marcados con W, X, Y y Z situaría las puntas del polímetro para conocer la tensión
+colector emisor de T1?
+A O O aa EN A ens e Kiko":
+o AA Ri ES O O e
+E. - UN O TS EN AA AROS EN
+Ñ ai: o pe e . os E Pos Ea Lo E ,
+Dm CIMA Ai EOS E A
+: á , 4 . y y » TAS Ñ efe] eu prime
+PS. E la E, ¿MU e. >
+o E . Y Há == E A a pom 4 CE paren
+a Ae es Ñ UR > y PP. MR e -. 8 ' Su .
+IAE O os TT A |
+AFA a
+, No E Wie e paran An. : ESA a a gotica
+cat A 1 HS -h- 5 MUERES 7
+A o e a 5 E A A O
+. ES > iS EA a N ' :
+LAI E JOA
+Da a E e “e Mb $ o “"oM
+E E NS Ao rr yn A o e e o
+Ca —— EN PRETO TAS
+A) Entre los puntos: W-Z
+B) Entre los puntos: Y-X
+C) Entre los puntos: Y-Z
+3 D) Entre los puntos: W- Y
+10
+
+27) ¿Podríamos transmitir y recibir a la vez por la misma antena?
+A) Nunca.
+$ B) Si, siempre
+C) Solo si es la misma frecuencia.
+D) Una antena solo puede recibir o transmitir
+28) Entre estos diafragmas cuál deberíamos usar para tener la máxima profundidad de campo:
+A) 2.8
+B) 4
+C) 5.6
+YD) 3
+29) Deseamos seleccionar parte de una secuencia de video codificada según el estándar MPEG2
+para procesarla de forma separada del resto del video. Dicha secuencia está incluida en la serie de
+imágenes siguiente:
+=71) . j |
+! | | B
+| 1
+| P
+| B
+| B
+| B|?
+| B
+| I
+| | P
+B
+e B
+e- Pp
+¿Que imágenes deberíamos seleccionar?
+$A)I-B-B-P-B-B-P
+B)P-I-B-B-P-B-B
+CO)B-B-P-I-B-B-P
+D) Todas las combinaciones de imágenes son igual de validas.
+30) Si observamos en un equipo de medida una de las líneas de TV ¿Cuál es la duración de la
+línea activa en el sistema PAL?
+AA) 52 uS
+B) 64 uS .
+C) 12 uS
+D) 32 uS
+11
+
+31) ¿Qué línea es la que ves áquí y para que sirve?
+y ct c2 m
+1.00 e ; e
+EAN
+dl
+dl
+MN
+| la
+0.65 La > aa
+MEMENIENTANE E
+IEA Il
+00 RSC:
+' l ! ( ; Ñ Ñ . Ñ EA
+a o Lo
+E po
+0 | : : : : ( : ' |
+: 9 12 16 2 24 30 36 +42 +8 Ss s0 64 pS
+DA) Línea 18, con la que se mide distorsión amplitud/frecuencia.
+B) Línea 18, con la que se mide intermodulación croma/luminancia.
+C) Línea 330, con la que se hace el balance de blancos.
+D) Línea 330, con la que se mide la diferencia de fases.
+32) Según el siguiente esquema, indicar la resistencia aproximada equivalente entre A y B
+100 k
+ox | 47k 20k
+| A |
+A) 150 k )
+B) 47k
+C) 560 k
+PD) 50k
+12
+
+1
+33) El siguiente esquema de bloques representa un transmisor de FM básico. ¿En que módulo
+estaría instalado el oscilador que nos fija la frecuencia de trabajo del transmisor?
+Fuente ' Filtro |
+de señal | Modulador>| Amplificador A paso E Antena |
++ ! s banda |t | e
+A) Filtro paso banda
+B) Antena
+Y C) Modulador
++ D) Amplificador
+34) A la vista del esquema, donde el equipo A entrega una potencia de 25 W, para que en la carga
+dispongamos de una potencia de 100 W, ¿Qué ganancia expresada en dB debe tener el equipo B?
+25 W x dB
+Mi o
+A B
+A) 3 dB
+Pb B) 6dB
+C) 9dB
+.D) 7dB
+35) ¿Qué intensidad circula por el circuito en régimen permanente?
+ct r 11
+2H
++Vcc 10U4F 22
+e 10 V
+A) 1 amperio
+B) 3 amperios
+C) 5 amperios ”
+YD) 0 amperios
+13
+
+36) A la entrada de un amplificador tenemos una señal compuesta de cuatro tonos de frecuencias
+f1, 2, B y f4. Una vez amplificada la señal, en un analizador de espectro se observa la señal de
+salida de la figura. Indique el tipo de distorsión que sufre la señal:
+f f
+f1 2 £ £2 105
+ENTRADA SALIDA
+PA) Se trata de de una distorsión de frecuencia
+B) Se trata de una distorsión de fase
+C) Se trata de una distorsión armónica
+D) Se trata de una distorsión lineal
+37) ¿Qué portadoras de información se destacan en la pantalla de este analizador de espectro?
+: : E MHZ ms AR ?
+Eds MBR so|K
+qa e] o
+04B | E 5 a 10
+E » ps 51
+| JE E TEA
+. Bl e E a ] E rl -
+Al Es Es Bb ES
+-125 0,75 0 443 5 5,5585 6,75 EN 20 ia] 2/8
+a a y CR y] to E O
+A) A:Video — B: Audio Nicam — C: Audio Analógico — D: Burst
+B) A: Audio Nicam — B: Video —C: Audio Analógico — D: Burst
+C) A:Burst — B: Audio Nicam — C: Video — D: Audio Analógico
+$ D) A:Video — B: Burst —C: Audio Analógico — D: Audio Nicam .
+14
+
+38) El siguiente diagrama de radiación corresponde a una antena tipo:
+PAE o
+¡asen | SEAT »
+[[Gon=398 8 Cie] VISOR URRASON
+ral OS Ae
+rl o
+¡——_PisstDe J y Ss Ll NE
+d+ 03 dd Beard: a E . SSA LAS ze
+¡2 O SO
+a TAB AS +4 .o E [|
+Y A) Yagi porque puede conseguir una relación delante-atrás de 16.28 dB.
+B) Dipolo 2/2 porque su relación delante-atrás es mayor que la Yagi.
+C) Dipolo 2/4 porque su relación delante-atrás es mayor que las dos anteriores.
+D) Dipolo 1/8 porque es el único que puede conseguir una relación delante-atrás como la
+indicada en el dibujo.
+39) La figura representa dos secciones de cable coaxial con el mismo dieléctrico y alma
+concéntrica, ¿podríamos a simple vista determinar cual de los dos tiene la impedancia
+característica más Baja?
+G F
+A) La impedancia mas baja corresponde al F.
+B) No se puede saber si no se tienen más datos.
+DC) La impedancia mas baja corresponde al G.
+D) La impedancia no depende del grosor del alma.
+15
+
+A
+40) En el supuesto de que el fallo del interruptor de un 1— isa . 3 et AN
+aparato de gran consumo eléctrico no permitiera el AS INEA
+apagado del equipo, indique cual sería su método de [A he
+actuación sabiendo que la toma de corriente de la quese 2 -—> BB.  .. us
+alimenta el aparato está protegida en el cuadro eléctrico o
+por el bloque de interruptores automáticos de yA A == :
+rotección que se observan en la foto de la derecha: 3 JA
+P a derecha A po
+A) desconectaría la clavija del proyector de la base del cuadro de alimentación
+B) actuaría sobre el mando numerado como 1 en la foto
+C) actuaría sobre el mando numerado como 2 en la foto
+Y D) actuaría sobre el mando numerado como 3 en la foto
+41) Qué problema observamos cuando vemos este Patrón de Bowtie:
+=p 100%
+ME A A
+= 0 e — _ _— ——— mms A
+E
+e - E y ha Ñ d , j DN a . $.
+A 1111] on
+ii db Ho Ji NN lilas 11 1, »
+dis cc
+plo =p - €
+FEF RN ES A VI ON de
+. A O E PS EN y . 5 a : , E: Ti
+O Y A E
+EE E A E
+YA) Hay un error de amplitud entre la luminancia y la señal diferencia de color azul (Pb).
+B) Hay un desfase entre la señal de luminancia y la de diferencia de color roja (Pr).
+C) Hay un desfase entre la señal de luminancia y la de diferencia de color azul (Pb).
+D) Hay un error de amplitud entre la luminancia y la señal diferencia de color roja (Pr).
+
+42) En un control de realización tenemos 1 altavoz para monitorar la señal de audio, emitiendo a
+
+50 dBA, y se va a colocar otro de igual potencia, para crear mayor campo difuso ¿qué densidad
+
+espectral de sonido tendremos?
+A) 90 dBA.
+
++ B) 53 dBA. a
+C) 100 dBA. :
+D) 55 dBA.
+
+t
+
+16
+
+43) ¿Qué circuito reconoces en la figura? Vec
+Re
+Rob
+SA) Circuito de polarización fija Ro
+B) Circuito de polarización colector-base
+C) Circuito autopolarizado
+D) Circuito de polarización variable ==
+44) Si nos encontramos en un control de realización y vemos una imagen a “cámara lenta”
+¿Cuántos frames por segundo hay en un plano ralentizado al 50 % en sistema PAL 625/50?
+DA) 25
+B) 24
+C) 12,5
+D) 50
+45) Si en un receptor de FM estereo no se escucha la palabra pero sí la música, y en modo
+monofónico si se escuchan correctamente ambas, en el origen de la señal tendremos el siguiente
+problema:
+A) La señíal izquierda es 3 db mayor que la derecha
+PB) La señal izquierda y derecha están en contrafase
+C) La señal izquierda y derecha estan en fase
+D) No hay señal derecha
+46) En un centro emisor de Onda Media queremos instalar 2 transmisores pero solo tenemos un
+mástil radiante. ¿Qué elemento deberemos incluir en la instalación para poder radiar los dos
+programas por la misma antena?
+A) Acoplador direccional
+PB) Diplexor
+C) Atenuador variable
+D) No se pueden radiar 2 programas por la misma antena
+47) ¿Cuántas bandas laterales se producen en una modulación de FM sobre una portadora de
+100MHz y modulada en mono por un tono de 1KHz con un ancho útil de 15Khz?
+DA) Infinitas
+B) Dos, situadas al5 KHz por encima y por debajo de 100MHz
+C) Dos, situadas a 1KHz por encima y por debajo de 100MHz y
+D) Dos, la superior situada a 15 KHz de la portadora y la inferior a 1 KHz
+17
+
+48) Para evitar efectos de desvanecimiento los receptores habitualmente utilizados para
+microfonía inalámbrica en televisión, emplean el principio de:
+A) Diversidad de frecuencia más diversidad de espacio
+B) No emplean diversidad
+C) Diversidad de frecuencia
+9D) Diversidad de espacio
+49) Con un osciloscopio procedemos a comprobar la alimentación en corriente alterna que
+tenemos en un circuito, obteniendo un valor de 100V pico a pico, ¿Cuál es el valor efectivo
+(RMS) aproximado de esta tensión de alimentación si la medida la realizamos con un polímetro
+analógico?
+A) 141,4 V RMS
+DB) 35,5 V RMS
+C) 70,7 V RMS
+D) 50 V RMS
+50) En los sistemas de transmisión digital es muy importante un parámetro llamado Probabilidad
+de error P(€), que tiene relación directa con el número de niveles de entrada al sistema N y la
+relación señal ruido de la tensión de entrada escalada en unidades logarítmicas S/R(dB). ¿Qué
+deducimos de la gráfica para un valor de la probabilidad de error de 0,00001?
+mar E Ñ Ep xo o X a .
+O A Y 8 MG
+ao qe N . e y 2 0) ok A
+| o 648 64B o MES
+A E O A
+5 mo 1 20 25 30 380.
+A) La probabilidad de error no existe, lo que se utiliza es la BER o tasa de error.
+B) Para una misma BER, se requiere aumentar la tensión de entrada en 6 dB si se duplica el
+número de niveles de entrada. Ñ
+C) Para una misma relación señal a ruido, se requiere aumentar 6 dB el número de niveles de
+entrada para duplicar la probabilidad de error.
+9D) Para una misma probabilidad de error, si se duplica el número de niveles de entrada, se
+requiere aumentar la tensión de entrada en 6 dB.
+18
+
+51) El esquema de la figura representa un sistema La >”
+transmisor-receptor sobre par trenzado de altas CU
+. e . . S > "a O
+prestaciones para señales gráficas de video por : SW a
+ordenador con un rango de resoluciones desde VGA Sp Xy y
+hasta UXGA y superiores así como señales HD hasta Ss Sy 3,
+1080P. Este toma las entradas seleccionadas y . dá :
+convierte a una señal de salida de par trenzado. ¿Que
+cable debe usar para unir emisor y receptor situados a S X
+una distancia de 100 metros? Display 1 LE 2
+Y) O, “a »
+a Er aa, ”
+. S <= An
+SN
+> ; úl
+A) Cable video RG 59 SDI S ST
+Y B) Cable CATS enhaced S d
+C) Cable RG213 E E
+D) Cable de video HDTV Ñ AN 1 no 2
+52) Si observamos este circuito en un esquema, sabríamos que se trata de un:
+| Cl .
+Entrada Salida
+A) Filtro Paso Alto
+B) Filtro Paso Medio
+AC) Filtro Paso Bajo
+D) Filtro Paso Banda Ñ
+53) ¿Donde se pueden utiliza las bobinas de deflexión, en un estudio de TV?
+A) En los magnetoscopios de 1"
+B) En los CCD
+C) Solamente en los tubos plumbicón
+«9 D) En los tubos de cámara
+54) En un centro emisor tenemos una alimentación de red trifásica con cuatro bornes de conexión
+(neutro, fase R, fase S, fase T). Necesitamos obtener una alimentación de 220V. ¿Entre que
+bornes obtendríamos dicha tensión?
+A) Entre la fase R y la fase T
+B) Entre la fase T y la fase S
+PC) Entre el neutro y la fase R
+D) Entre el neutro y tierra
+19
+
+55) El circuito de la figura es un detector de luz que mediante una fotocélula de coeficiente de
+resistencia negativo (cuando recibe luz su valor óhmico disminuye) activa un diodo LED que se
+enciende cuando la luz captada por la fotocélula disminuye por debajo de un determinado umbral.
+El circuito está averiado y el LED siempre está encendido. Se realizan mediciones y se
+comprueba que R1 y R3 están bien y se procede a comprobar el transistor Q1 obteniendo las
+medidas que se indican. Con los datos disponibles, ¿puede determinar la avería?
+o xy Q1 -NPN
+5 SS
+R1 * a S
++ iio Y AO
+— i R4 Si
+vos 330 4 7
+2
+3
+7] ar 1- BASE
+Y 22K 2- COLECTOR
+Se a ¡METIA
+0.474) |(_oL) Lo546)
+2 === AAA) o =====%)4
+A | A | . 2 | A
+INAP A l a) | v ma | E EA A
+OFF ¿$ Saa | or: wá | OFF 4on | 05 A gta
+A : > o : ' po
+AMO] | $0! 3 o O E
+a O) pad a vana Oy td ERA E PO
+y ES ES SP
+4.
+BA) La fotocélula está abierta y no funciona correctamente
+B) Las medidas del transistor indican que este está estropeado
+C) Las medidas son insuficientes para determinar el problema.
+D) El LED no se apaga porque la resistencia R4 debe estar en corto
+20
+
+56) Introducimos un patrón de rojo de señal de TV de estándar PAL en un vectorscopio del
+laboratorio. ¿Qué imagen nos presentará la pantalla del vectorscopio?
+a) b)
+c) | d)
+A) Dibujo a)
+$B) Dibujo b)
+
+C) Dibujo c)
+
+D) Dibujo d) +
+57) El siguiente circuito es un amplificador básico, que se encuentra en cualquier mesa de
+mezclas ¿que tipo de amplificador es?
+
+13
+R3 >
+vi
+Ri > .
+11+12 Vout
+ov
+Ri
+v2 R2
+12 >
+A) Amplificador de divisor :
+-9B) Amplificador sumador inversor ».
+C) Amplificador multiplicador
+D) Amplificador restador inversor
+21
+
+58) La siguiente señal tomada de un osciloscopio representa una señal modulada en AM ¿Qué
+porcentaje de modulación se está aplicando al transmisor?
+3
+áÚ lr Ú |
+1141 z
+| | |
+-2 .
+-3 e o. o . Ñ . Les Lo cmo nc ce]
+> = $ 5
+A) 50%
+B) 0%
+SC) mayor del 100 %
+D)75% .
+59) Si observamos en un equipo de medida una señal PAL ¿Que nivel de tensión, respecto al 7
+nivel de negro, debe tener el impulso de sincronismo horizontal?
+Dd A) -0,3 V
+B) 0,3 V
+0) 0,7 V :
+D 1V
+60) En un Vúmetro, la indicación OVU corresponde a:
+A) Una tensión de 1 V y una potencia de 1 mW sobre 10 KOhmios
+B) Una tensión de 1,227 V y una potencia de 1 mW sobre 1 K2 Ohmios
+9.0) Una tensión de 0,775 V y una potencia de 1 mW sobre 600 Ohmios
+D) Una tensión de 3,083 V y una potencia de 1mW sobre 600 Ohmios
+61) ¿Que instrumento sería el más apropiado si queremos visualizar la curva de respuesta en
+frecuencia de un amplificador?
+A) Osciloscopio y oscilador
+B) Polímetro y Generador de señales
+C) Osciloscopio
+PD) Analizador de espectro con generador de tracking
+22
+
+62) Estando en el laboratorio te piden conseguir la mayor ganancia posible en una antena de UHF
+tipo yagi con el dipolo de longitud Lambda, ¿qué harías?
+A) Aumentar el número de reflectores.
+B) Reducir la impedancia del cable de interconexión.
+$ C) Aumentar el número de directores.
+D) Cortar el dipolo a Lambda/2
+63) La columna 1 representa cinco señales en el dominio del tiempo y la columna 2 muestra las
+mismas tras haberlas realizado la transformada de Fourier, ¿Cuál es su correspondencia?
+1 . " z 0;
+(1a) e S ¿Ra 0 ' |
+Meira rn qoconroeroe e, cr e
+1 7 O A rn POR a
+(1h) el N / N Z  (b) a J |
+.! : : z Ú :
+1 , AT . Plana O o E E
+- 1 4 y , d ú e gc ct cs lr a o o, lo
+1 7 20
+1d) (18 y ¿ 2d) 10
+( ol , AVAV) | o ne ¡ |
+a ne, a . ple tl Eo Mi
+ai [eo ai proa E: ¿a y
+a : (2e) a +
+ALCAN 0 A
+S 10 15 20 26 30 DO O *.06 023 5104714
+- A) la-2e, 1b-2b, 1c-2a, 1d-2d, 1e-2c.
+B) la-2e, 1b-2b, 1c-2a, le-2d, 1d-2c.
+C) 1b-2e, la-2b, 1c-2a, 1d-2d, 1e-2c.
+D) la-2a, 1b-2b, 1c-2c, 1d-2d, le-2e.
+23
+
+64) La figura representa dos diodos en oposición o antiparalelo ¿qué efecto producen?
+MEM |
+A) Amplifican la parte negativa de la onda.
+B) Dejan pasar solo los picos.
+«»C) Limitan la tensión al valor de su tensión directa.
+D) Impiden el paso de corriente.
+65) Teniendo en cuenta las características de las puertas lógicas y los datos facilitados por el
+fabricante en el DATA BOOK (ver anexo al final del cuadernillo de preguntas de examen),
+indique lo que sucede con el tiempo de propagación de un tren de pulsos de 1 KHz según el
+montaje de la figura realizado con 6 inversores tipo 74HCT04
++
+3v CH 1 osciloscopio
+0
+Y A) Se produce un retardo máximo esperable de 3 microsegundos o
+B) Se produce un retardo máximo esperable de 500 nanosegundos
+C) Se produce un retardo máximo esperable de 500.000 nanosegundos
+D) El tren de pulsos reduce su frecuencia en un periodo de 6 x 500 nanosegundos
+$
+66) Si nos encontramos trabajando en el exterior con luz día, y nos piden que ajustemos la cámara
+para trabajar. De estas temperaturas de color, ¿cuál sería la más adecuada?
+A) 7.000 *K
+-P B) 5.600 “K
+C) 2.600 *K
+D) 3.500 “K
+24
+
+67) Si los altavoces omnidireccionales emiten a 90 dB. Sabiendo que los micrófonos son de
+directividad cardiode y están separados a 3 metros de la fuente, ¿cuál de las configuraciones
+obtendrá mayor nivel de presión?
+A
+. pr
+PE 450 7
+B NS 450
+SA
+$ =S
+Se
+A) LaA
+B) La B
+BC) Registrarán el mismo nivel,
+D) La medida no es correcta si no se orienta el micrófono de forma perpendicular a la fuente
+68) ¿Cómo se puede solucionar las alteraciones en los impulsos de sincronización en un sistema
+de color de TV?
+A) Mediante un Convertidor de Normas
+B) Mediante el potenciómetro de ganancia
+C) Mediante un Sincronizador de Trazado
+«) D) Mediante un Corrector de Base de Tiempo
+69) Los satélites de comunicaciones de televisión,
+.. ¿En qué tipo de órbitas trabajan? hd
+A) Orbita Polar l E
+$) B) Orbita Geostacionaria Pipo:
+C) Orbita Terrena 3d" “y
+D) Todas son correctas, dependiendo de la posición global se utiliza
+el más apropiado
+70) En un medidor de decibelios que mide dBfs, el fondo de escala estará en: >
+A) -18dB
+B) -22 dB
+Y» C) 0dB
+D) +4 dB
+25
+
+71) Dada la función F y su tabla de la verdad, cual de las 4 aplicaciones del método de Karnaugh
+es la correcta:
+tP=sA BOYA BOLA BA A BC+ A B-C4 AB E
+AB O|F
+0. 06 ojo
+0. 0 1]0
+0 1 O0]|1
+. O 1 1i]J1
+1.0 011
+1.06 111
+1.1 0]|1
+l 1 1|1 TABLADELA VERDAD
+BC NBC
+
+AN 00 01 11 10 AM 00 01 1i 10
+oLofola la elafola lo
+'DEDE -Ebbd
+
+a
+L- 2
+NBC NBC.
+
+As 00 01 11 10 A 00 01 11 10
+IE
+afapaja] o[afalofo
+
+Í 4-
+Y» A) 1
+B) 2
+O 3
+D) 4 u
+26
+
+72) Al circuito de la figura se entrega una señal V; en diente de sierra para obtener un tren de
+pulsos. Según el funcionamiento del circuito cual será la forma de onda V, obtenida a la salida
+del amplificador operacional.
+Nota: para facilitar la respuesta, en la visualización de Vo se incluye en línea de puntos la
+señal de entrada V;) 9
++18v
++18v
+vi 8k
+(Voltios) Cc
+——
+7
+5
+4 ! Vo
+5 1K $4
+5 ñ -18v
+t(Seg.> l
+Vo Vo
+(Voltios) (Voltios)
+18 18
+5 5
+E 2 ee E
+4 ro . 4 Ñ
+3 rd s 3
+Í Si s Í
+4 t -1 s a t
+M MN El Ñ
+Frú +
+cie de
+1 2
+. vo vo
+4 (Valtiom (Voltios)
+18 18
+6 ó
+3 3
+í 5 Í y 53 Ed e
+0 0
+: i | á Mi Ñ
+3 3 .
+Al +
+: ie vie
+3 4
+A) 1
+> B) 2
+0) 3
+D) 4
+27
+
+73) Para qué sirve la señal PLUGE?
+A) Calibrar cámaras
++) B) Calibrar monitores
+C) Calibrar magnetofones
+D) Calibrar vectorscopio
+74) ¿Cuál es la frecuencia de resonancia de una antena de Hertz que mide 1 metro?
+A) 15 MHz
+» B) 150 MHz
+C) 30 MHz
+D) 300 Mhz
+75) Dentro de un control técnico o un laboratorio ¿Qué dispositivo utilizarías para fusionar y
+optimizar el rendimiento de distintas LAN”s en una sola red?
+A) Router
+B) Modem
+$C) Switcher
+D) Hub
+76) Un varicap se polariza
+A) Directamente.
+DB) Inversamente.
+C) Conduce en ambos sentidos.
+D) No requiere polarización.
+77) Realizando un radioenlace, en el punto más crítico del vano la primera zona de. Fresnel debe
+estar despejada:
+Dd A) Al menos el 60%.
+B) Al menos el 10%.
+C) Al menos el 35%.
+D) Al 100%.
+4
+28
+
+78) El siguiente dibujo se refiere a un dispositivo electrónico ampliamente utilizado en empresas
+audiovisuales, donde la figura derecha es el frontal y la izquierda la parte trasera, nos referimos a
+un:
+O  visza O
+E
+REW Y P> su
+O 0 (OJO
+“000 S
+Y Gair A sal
+€ Gar B
+S Galr C $
+1] 5D] «d 1 ]
+8 Gair D 4 ()
+R Galr E
+Block  F dl o
+Select
+Poma »
+Qa
+> OOO + «om
+Ov
+5
+or
+Rem local S
+v1623 - ds
+Yan
+ana O O
+A) Conversor de cuatro entradas analógicas RGB, Y, Pb, Pr y cuatro salidas digitales SDI.
+B) Conversor de cuatro entradas digitales SDI y salidas de video analógico RGB, Y, Pb, Pr. >
+C) Conversor de cuatro entradas digitales RGB, Y, Pb, Pr y salidas de video analógico SDI.
+Y D) Conversor de entradas analógicas RGB, Y, Pb, Pr y cuatro salidas digitales SDI.
+| 29
+
+79) Mediante puertas lógicas se implementa el circuito de mando de una máquina con motor
+eléctrico. El motor funciona cuando se actúa sobre dos interruptores de marcha. Además existen
+dos protecciones: un interruptor de paro de emergencia y un termostato que vigila la temperatura
+de la máquina. Cuando la temperatura es demasiado elevada los contactos del termostato se abren
+interrumpiendo el circuito. Cuando la temperatura desciende vuelven a cerrarse. ¿Que tipo de
+puerta lógica debe emplear en el recuadro con interrogante?
+F1
+hutesruptos marcha t
+)
+|
+Interruptor Paro |
+A) NOR T
+YB) AND Termostato NO N
+C) XOR
+D) NAND aÑ
+80) A la entrada del circuito tenemos una corriente alterna de 220V, queremos medir con el
+osciloscopio entre el punto 1 y masa, ¿Qué es lo que vemos en el osciloscopio?
+220V 24V
+SAC ELAT TA CIA EE E ETA LITA LITA ANMNATAJDA!
+PANTEON PTE TERNA IN VAN WV ARNES WE AA WI AAN
+Y AB VIO 08 VO 00. Y 0 O A O E 0 O A ON | MEN TINY ¡NAVIA VEA VER VAR!
+lid ALS E LAIA EAU AA YAA MA EA AA A
+HAN. AE O DS) "UD 00 Y DA 2: DR DS DA JAS DS DE 00 DS A
+AO O O 900 O ¿0 A O E O | O O O E 20 O O O O O O O O E 0 SN
+CANVI EN ETNIA E NU IAETATT] LIITI1L1311T1]]
+MOVIE AA VA AA 0 0 dd o e dll dl
+1 2 3 4
+A) 1
+» B) 2
+0 3 ,
+D) 4 Ñ
+30
+
+81) Según la representación de la figura, ¿a qué tipo de circuito corresponde?
+V ce (+)
+El JE
+E] EA] Y
+SAR
+TRA gy Ii ¡ SS TR2
+A) A un circuito multivibrador monoestable.
++ B) Aun circuito multivibrador biestable. 1 AU
+C) A un circuito multivibrador astable. E
+D) A un circuito sumador. LL
+82) Si nos encontramos una mesa de sonido en la que se habla de alimentación PHANTOM, ¿A
+qué se refiere?
+A) Es la alimentación de los micrófonos de bobina móvil de 24 V
+B) Es la alimentación que necesitan los micrófonos de cinta de 48 V
+C) Es el umbral al que hay que llevar el compresor.
+-P D) Es la alimentación de 48 V que necesitan los micrófonos de condensador.
+83) Indicar que representa el esquema siguiente:
+SECTION A SECTION 8
+v Y
+Q1.012 02,69
+O DEC. dae ] AR 0 Des. PRASE
+05,00 ¡ A 94.011
+| y
+180 DEG, ace E, PHASE
+Losic
+CONTROL
+SIGNAL
+A) Un distribuidor 7
+B) Un amplificador clase A
+C) Un sumador
+$ D) Un amplificador clase D
+31
+
+84) En el canal A de un osciloscopio se visualiza la señal Vi de entrada que se aplica a un circuito
+RC. Si los valores de R y de C son tales que la constante de carga t del circuito es de un valor
+similar a Ti, indique cual de las figuras correspondientes a la señal V, sería la que se debería
+visualizar en el canal B del osciloscopio (la base de tiempos es común a ambos canales A y B) si
+ambos componentes funcionan correctamente.
+C
+VI
+7 |
+6
+5
+Al vi
+3
+> | | R |vo
+1
+0 -
+-1 T  T >
+-2 ——
+1 Vo. 2 vo
+(Voltios) (Voltios)
+7 7
+6 6
+5
+4 -4 = m z =
+3 3
+2 2
+1 : 1 "
+0 0 e
+z t E t
+-2 -2
+Lado Ly
+Tí T hh T
+Vo Vo
+3 (Voltios) 4 (Voltios)
+ZA fr 77 Él 7
+6 : : 6
+5 : : ; 5
+4 , ; 4 5 =a
+3 3
+e 2
+1 1
+2 E 0 t
+2) H—— 33 io
+TT em 7
+A) 1
+B) 2
+O 3
+»>D) 4
+%
+32
+
+85) Para realizar el montaje del circuito de la figura, seleccione la resistencia de potencia más
+adecuada para R1
+A) 15 W
+B) 40 W R140 R2 60
+C) 10 W
+$ D) 18 W 20V
+86) En un monitor del control técnico se muestra la imagen de la figura. ¿Qué tipo de señal
+representa? A e
+E EVANS |
+All a | na
+' NE leer aa:
+As el
+A e
+EI Sl Aa JN
+a lll a oa
+lle Ia
+El E ES Ln E h su Aia | |
+NENA. a |
+Y A) Señal test MultiBurst Arale E E
+e Ñ pe ESA Es el a a |
+B) Señal test Barras de Color ! ES 7
+(0) Señal test 330 o m 2. o, Sp Diao RANTE ia |
+” . . E A AAA E i
+D) Señal test MultiPulso ES A E
+87) En este sencillo amplificador en emisor común, calcula el valor aproximado de Re para que
+Vs sea aproximadamente 3Vpp siendo Ve una señal senoidal de 0,3Vpp/1Khz. Calcula también
+el valor de la tensión de reposo.
++12V
+1K
+Ñ 1)
+1. V reposo |
+| 1K | p Vs
+Ve | |
+5 A) 100 Ohmios y 6 V
+B) 300 Ohmios y 10 V :
+C) 1Ky11,4V
+D) 1K2y11,5V
+33
+
+88) La siguiente figura muestra un escenario de transmisión usado actualmente que utiliza tres
+tecnologías para tres canales de transmisión que son sucesivamente. :
+ZO TT E: A O e
+E Bad A Key h A e
+A A OS e
+1 ES ce . / IE E o
+E alada a o OS Mr. AE
+a] A E Se
+>: A (e) A A
+a [a | 00 Pia aia Maire en z O AA ON ES pts
+cd as loo A ¡e da E MERO Emisor E AO
+8 Eo Js a A A A E NE
+A A A O acord:
+- an | A ON ta A ec M E
+ad A odo A O E E
+Fuente A rn A
+A E e RECERCION?
+» A) (A)DVB-S modulación QPSK, distancia 36000Km, atenuación 200dB, (B)DVB-T,
+modulación COFDM, propagación multitrayecto, (C) DVB-C modulación QAM,
+distancias menores.
+
+B) (A) DVB-C modulación QAM, distancias menores, (B) DVB-S modulación QPSK,
+distancia 36000Km, atenuación 200dB, (C) DVB-T, modulación COFDM propagación
+multitrayecto,
+
+C) (A) DVB-C modulación QAM, distancias menores, (B) DVB-T, modulación COFDM
+propagación multitrayecto, (C) DVB-S modulación QPSK, distancia 36000Km,
+atenuación 200dB. :
+
+D) (A) DVB-S modulación QAM, distancias menores, (B) DVB-C modulación QPSK,
+distancia 36000Km, atenuación 200dB, (C) DVB-T, modulación COFDM propagación
+multitrayecto,
+
+89) Si nos encontramos en un laboratorio un magnetoscopio que tienen la función de Dynamic
+Tracking, a que se refiere:
+
+A) Las cabezas leen la señal que se acaba de grabar
+
+B) Las cabezas memorizan la señal de la última pista leída para reproducirla en modo slow
+
+C) Los magnetoscopios no disponen de esta función, solamente está disponible en los ñ
+dispositivo de grabación-reproducción de disco duro
+
+Y D) Las cabezas siguen siempre la pista, buscando la máxima RF, aunque varíe la velocidad de
+lectura
+34
+
+90) La manera correcta de soldar los componentes ala rre ¿E
+placa de circuito impreso es la siguiente: O e AS A Ll Ñ
+1? limpiar la punta del soldador PA A o
+
+2* limpiar la parte a soldar de los componentes a pa a
+
+3" preestañar los elementos a soldar ES: > ENE o
+
+4* insertar el componente en la placa e ps ES E)
+
+.. y posteriormente: z e ES Se A
+
+» A) Aplicar el soldador calentando simultáneamente las dos partes a soldar. Cuando estén
+calientes aproximar el estaño a la zona de soldadura sin que este toque la punta del
+soldador. Cuando el estaño esté derretido retirar el soldador tratando de no mover las
+partes de la soldadura.
+
+B) Aplicar el soldador calentando la pista del circuito impreso (se evita un excesivo
+calentamiento que deteriore el componente). Cuando esté caliente aproximar el estaño a la
+zona de soldadura de la pista sin que este toque la punta del soldador. Cuando el estaño
+esté derretido y haga buen contacto con la patilla del componente, retirar el soldador
+tratando de no mover las partes de la soldadura. Puede ser conveniente soplar ligeramente
+para acelerar la solidificación del estaño y para evacuar calor del componente.
+
+C) Aplicar el soldador calentando la parte de la patilla del componente. Cuando esté caliente
+aproximar el estaño al componente sin que este toque la punta del soldador. Cuando el
+
+: estaño esté derretido y haya fluido hasta la pista del circuito impreso se retirar el soldador
+sin mover las partes de la soldadura hasta la total solidificación del estaño. 7
+
+D) Aplicar estaño a la punta del soldador hasta que se derrita y se forme en ella una pequeña
+gota dde metal fundido. Depositar la gota sobre las dos partes a soldar, manteniendo en
+contacto la punta del soldador hasta que el estaño quede bien repartido. Comprobar que en
+la zona de soldadura se ha aportado estaño suficiente y si es así retirar el soldador tratando
+de no mover las partes de la soldadura.
+
+35
+
+e
+SN54HCT04, SN74HCT04
+HEX INVERTERS
+SCLS042B - JULY 1986 — REVISED MAY 1997
+A as
+absolute maximum ratings over operating free-air temperature range?
+Supply voltage range, VOL ....oooococcoccnccnnan rca conc crac. OO VU to 7 V
+Input clamp current, lx (V¡ <0 or V, > Vcc) (see Note 1) ...........oooooocoooccorcccrrr oo ELO MÁ
+Output clamp current, lox (Vo <0 or Vo > Vcc) (see Note 1) ........oooooocccoccccccccccrr o. 20 MA
+Continuous output current, lg (Va =0to Vcc) --..oooooooccccccccccrnnr rr EZ MÁ
+Continuous current through Vcc or GND .........oooococccccccccccccro coco rr rr ESO MÁ
+Package thermal impedance, 8 ¡a (see Note 2): D package ..........o.oooooccocoocoococca ar. 127 CIN
+N package ........oooooooccoonoonrrrrroo rn... ¿BCN
+PW package ...o.oooocoocccocccccnrn o 17OCIW
+Storage temperature range, Tetg .-.<<ooooooocccoococroconcnn cnn rrcn rr TOC to 150%
+T Stresses beyond those listed under “absolute maximum ratings" may cause permanent damage to the device. These are stress ratings only, and
+functional operation of the device at these or any other conditions beyond those indicated under “recommended operating conditions” is not
+implied. Exposure to absolute-maximum-rated conditions for extended periods may affect device reliability.
+NOTES: 1. The input and output voltage ratings may be exceeded if the input and output current ratings are observed.
+2. The package thermal impedance is calculated in accordance with JESD 51, except for through-hole packages, which use a trace
+length of zero.
+recommended operating conditions
+Vec — Supply vollaga Pass ss| as  s ss| v |
+VIH Highevel input votags Voc =45vissv 2 Joa >> Tv
+ViL— Lowelevelinputvoltago Vec=45Vi055V
+Y imputvataga
+Vo Output voltage 0 Vcc 0 Vcc
+U —— Inputtransiion (se and fal) time Poo |
+TA Operating fos air temperature as sao > es| 7
+electrical characteristics over recommended operating free-air temperature range (unless
+otherwise noted)
+O Tasase > | snsancros | snzancros |
+PARAMETER TEST CONDITIONS A SAHOTOS | SN7AHCTOA
+MIN TYP MAX] MIN MAX] min max]
+444089 aa [ss]
+VOH V¡ = Vin or ViL ou A 4.5V v
+lOH=-4 mA 388 43 [ar [ue |
+000 01] > 01 ox]
+VoL v¡= Vigor va POLZ2DHA 4.5V v
+lOL=4mA 017 02s| os] os]
+PA vec oro 21000 | ——s1000
+ee [Min Vec oro 10=0 sy fp aa
+One input at 0.5 V or 2.4 V, -
+. 4.5V
+a poo des + e] ve] vfw
+FThis is the increase in supply current for each input that is at one of the specified TTL voltage levels rather than 0 Y or Vcc.
+A
+*
+EXAS
+INSTRUMENTS
+2 POST OFFICE BOX 655303 € DALLAS, TEXAS 75265

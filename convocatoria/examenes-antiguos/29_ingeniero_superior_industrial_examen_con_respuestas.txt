@@ -1,0 +1,1251 @@
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+CUESTIONARIO 
+
+APARTADO 1 – PREGUNTAS 
+
+1.  Los dispositivos de protección contra sobrecargas y cortocircuitos en circuitos trifásicos 
+
+serán de corte omnipolar y:  
+
+A) solo se protegerán las tres fases.  
+
+B) siempre se protegen las tres fases y el neutro.  
+
+C) en algunos casos es necesario proteger las tres fases y el neutro    
+
+2.  Sea una carga trifásica formada por tres impedancias iguales conectadas en triángulo. Cada 
+fase de la carga está formada por una resistencia de 50 Ω en serie con una inductancia de 
+75 mH. Si la carga está conectada a un sistema trifásico de 400/230 V y 50 Hz, la intensidad 
+de línea es:  
+
+A) 2,41 A 
+
+B) 7,28 A  
+
+C) 12,53 A 
+
+3.  Según el REBT, la demanda de potencia eléctrica a prever en un edificio de oficinas:  
+
+A) se calculará asignando 100W/m2 y coeficiente de simultaneidad 1  
+
+B) se calculará asignando 125W/m2 y coeficiente de simultaneidad 0,8  
+
+C) se calculará asignando 100W/m2 y coeficiente de simultaneidad 0.8 
+
+4.  Una curva tipo de un grupo de presión contraincendios con una presión nominal Pn y un 
+
+Caudal nominal Qn debe cumplir que:  
+
+A) a válvula cerrada la Presión es de un 1,4Pn , y en sobrecarga (Q=130%), la P> 0,7 Pn. 
+
+B)  a caudal Q=0 la Presión es de un 1,3Pn , y en sobrecarga (Q=140%), la P> 0,8.   
+
+C)  a válvula cerrada Q=0 la Presión es de un 1,3Pn , y en sobrecarga (Q=140%), la P> 0,7 Pn. 
+
+5.  Para un circuito de alumbrado la caída de tensión máxima será de:  
+
+A) 3% en instalaciones interiores todos los casos  
+
+B) 4,5 % en instalaciones industriales con transformador propio   
+
+C) 5% en instalaciones interiores  
+
+15/12/2021 16:58 
+
+Página 3 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+6.  Una nueva luminaria de emergencia según normativa  
+
+A) debe incluir siempre un sistema de autotest 
+
+B) incluirá necesariamente el sistema de autotest en la Comunidad de Madrid 
+
+C) es desaconsejable que incluya el sistema de control autotest 
+
+7.  Una línea trifásica con neutro 400/230V, 50Hz, y que permite como máximo una intensidad 
+de 77 A, alimenta una carga que consume 30Kw, con factor de potencia 0,8 inductivo, ¿qué 
+interruptor magnetotérmico necesita si se dispone de interruptores de calibres, 50, 63 y 80 
+A? 
+
+A)  50 A 
+
+B)  63 A 
+
+C)  63 o 80 A 
+
+8.  Según UNE 23007-14 en la alimentación eléctrica de fuentes de alimentación (F.A.) asociadas 
+
+a las centrales de PCI de un edificio deben:  
+
+A) La F.A. principal del sistema no puede ser utilizada para otros usos y requiere conexión con 
+
+cable exclusivo y protegido.  
+
+B) La F.A. no permite la instalación de elementos de desconexión.  
+
+C) La F.A. requiere una la alimentación desde una línea de SAI.  
+
+9.  Un sistema extinción que utiliza como agente extinción con agente impulsor FM-200: 
+
+A)  implica que las botellas de gas utilizadas contienen gas HFC-227ea.  
+
+B)  por sus características no requiere retimbrado cada 10 años. 
+
+C)  se necesita que disponga de un sistema de pesaje para garantizar que está lleno. 
+
+10. Dentro  de  las  estrategias  de  ahorro  de  energía,  para  edificios  se  considera  adecuado 
+
+implantar sistemas de control de la ventilación en función de la ocupación,  
+
+A) en edificios de ocupación variable y en climas extremos.  
+
+B) en edificios con ocupación constante y climas extremos  
+
+C) en edificios con altos niveles de aporte gratuito de aire exterior. 
+
+15/12/2021 16:58 
+
+Página 4 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+11. Se  colocan  a  15  m  de  recorrido  real  en  cada  planta  como  máximo,  desde  todo  origen  de 
+
+evacuación:  
+
+A) Los extintores  
+
+B) Las BIEs  
+
+C) Los detectores de incendios  
+
+12. Las instalaciones térmicas incluidas en el ámbito de aplicación del RITE deben ejecutarse 
+
+sobre la base de una documentación técnica que: 
+
+A) cuando la potencia térmica nominal a instalar en generación de calor o frío sea mayor o igual que 70 
+kW, se requerirá la realización de un proyecto. 
+
+B) cuando la potencia térmica nominal a instalar en generación de calor o frío sea mayor o igual 
+que 5 kW y menor que 70 kW, el proyecto podrá ser sustituido por una memoria técnica. 
+
+C) en cualquier supuesto 
+
+13. Calcular el conducto circular de salida de un fan coil de conductos de 2.000 m3 /h de 
+
+caudal con un único difusor de salida, considerando una pérdida de presión máxima de 
+0,05 mmca/m 
+
+A) conducto de diámetro 200mm 
+
+B) conducto de diámetro 410mm 
+
+C) conducto de 350x350mm 
+
+14. El diagrama tiempo corriente siguiente representa los efectos de la corriente sobre seres 
+
+humanos. ¿En cuál de ellas los efectos sobre el ser humano son imperceptibles? 
+
+A) Zona  1 
+
+B) Zona  2 
+
+C) Zona  4 
+
+15/12/2021 16:58 
+
+Página 5 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+15. Si  tras  una  inspección  por  una  entidad  de  control,  se  detecta  en  un  aparato  elevador  un 
+
+defecto muy grave: 
+
+A) la empresa conservadora emite un informe desfavorable y dará un plazo de seis meses a partir de 
+la fecha de inspección para su subsanación. 
+
+B) el organismo de control emite un informe desfavorable y la empresa conservadora deberá 
+dejar el aparato fuera de servicio en tanto el defecto no sea subsanado 
+
+C) el organismo de control emite un informe desfavorable y dará un plazo de seis meses a partir de la 
+fecha de inspección para su subsanación.  
+
+16. Según el CTE DB HE, los aseos en edificios administrativos, como zonas de uso esporádico: 
+
+A) deben disponer de un control de encendido y apagado por sistema de detección de presencia 
+temporizado o sistema de pulsador temporizado. 
+
+B) deben de disponer de sistemas de detección de presencia para un control de encendido y duración 
+de los mismos.  
+
+C) deben disponer de dispositivos de control del encendido y apagados temporizados debido a sus 
+especiales características. 
+
+17. Según el Real Decreto 486/1997 en el que se establecen las condiciones de los lugares de 
+
+trabajo, que afirmación no es verdad que todos los locales de trabajo: 
+
+A) todos los locales de trabajo deberán tener en cualquier caso una altura de 3m. 
+
+B) deberán de disponer de una superficie libre de 2m2 por trabajador.  
+
+C) deberán disponer de 10m3 no ocupados por trabajador. 
+
+18. ¿Para qué se utiliza un interruptor diferencial en una distribución TT?  
+
+A)  Se utiliza para protección contra contactos indirectos 
+
+B)  Se utiliza para protección contra defectos a tierra  
+
+C)  Se utiliza para la protección contra sobrecargas y cortocircuitos 
+
+19. Según el RD 486 / 1997 por el que se establecen las disposiciones mínimas de seguridad y 
+salud  en  los  lugares  de  trabajo,  la  temperatura  de  los  locales  donde  se  realicen  trabajos 
+ligeros estará comprendida entre: 
+
+A) 13 y 25 ºC 
+B) 14 y 26 ºC 
+C) 14 y 25 ºC 
+
+15/12/2021 16:58 
+
+Página 6 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+20. El RD 513/2017 sobre la protección contra incendios indica que en el caso de hidrantes que 
+no estén situados en la vía pública, la distancia entre el emplazamiento de cada hidrante y 
+el  límite  exterior  del  edificio  o  zona  protegidos,  medida  perpendicularmente  a  la  fachada, 
+debe estar comprendida entre:   
+
+A) 10 m y 15 m   
+B) 5 m y 20 m   
+C) 5 m y 15 m   
+
+21.  Según  el  RD  842/2002  REBT,  para  instalaciones  de  alumbrado  exterior,  la  máxima 
+resistencia de puesta a tierra será tal que, a lo largo de la vida de la instalación y en cualquier 
+época  del  año,  no  se  puedan  producir  tensiones  de  contacto  en  las  partes  metálicas 
+accesibles de la instalación, mayores de: 
+
+A) 24 V 
+B) 50 V 
+C) 50 V o 24 V en función de la intensidad de defecto, umbral de desconexión de los interruptores 
+diferenciales 
+
+22. Si tengo una caldera de 4200 kcal/h, la temperatura del agua de suministro es de 12ºC y 
+
+quiero subir la temperatura hasta 50 ºC ¿de qué caudal dispondré en una hora? 
+
+A) 100 l 
+
+B) 110 l 
+
+C) 120 l 
+
+23. Calcular el coste económico que supone mantener una lámpara de 200 W de potencia 
+
+conectada todos los días del año durante 4 horas cada día, si el coste del kWh es de 0,08 
+€/kWh 
+
+A) 23,36 € 
+
+B) 64 € 
+
+C) 5,84 € 
+
+24. Según  el  CTE  Sección  HS  5  Evacuación  de  aguas  al  dimensionar  botes  sifónicos 
+
+individuales de una red pequeña de evacuación de aguas residuales deben tener: 
+
+A) La mitad de diámetro que la válvula de desagüe conectada 
+B) El mismo diámetro que la válvula de desagüe conectada 
+C) El doble de diámetro que la válvula de desagüe conectada 
+
+15/12/2021 16:58 
+
+Página 7 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+25. Una unidad exterior de un equipo partido multisplit posee una capacidad frigorífica de 6,75 
+kW y una capacidad calorífica de 8,17 kW. Su consumo eléctrico a plena potencia es de 1,68 
+kW en refrigeración y de 1705 kW en calefacción. ¿Cuál es su EER y su COP? 
+
+A) EER = 4,02 y COP = 4,79 
+
+B) EER = 0,25 y COP = 4,79 
+
+C) EER = 4,02 y COP = 208,69 
+
+26. Un  sistema  de  climatización  a  caudal  constante  presta  servicio  a  un  conjunto  de  5 
+despachos. Se instalan los siguientes elementos: 4 fan coils a 4 tubos, 2 fan coils a 2 tubos, 
+y  3  inductores  a  2  tubos.  ¿Cuántas  llaves  de  paso,  válvulas  de  3  vías  y  termostatos  se 
+necesitarán si la temperatura de cada despacho es independiente de las otras? 
+
+A) 13 llaves de paso, 13 válvulas de 3 vías y 5 termostatos. 
+
+B) 26 llaves de paso, 26 válvulas de 3 vías y 1 termostato. 
+
+C) 26 llaves de paso, 13 válvulas de 3 vías y 5 termostatos. 
+
+27. Indicar en el esquema siguiente qué elemento es el evaporador y cuál el condensador: 
+
+A) Elemento D es el evaporador y el elemento E es el condensador 
+
+B) Elemento D es el condensador y el elemento E es el evaporador 
+
+C) Elemento D es el condensador y el elemento B es el evaporador 
+
+15/12/2021 16:58 
+
+Página 8 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+28. Indicar mirando el esquema a qué tipo de compresor pertenece: 
+
+A) Monotornillo 
+B) Scroll 
+C) Birrotor 
+
+29. Según  el  Reglamento  de  Instalaciones  Térmicas  en  edificios  y  a  efectos  de  su  ámbito  de 
+aplicación,  la  sustitución  de  un  generador  de  calor  o  frío  por  otro  de  similares 
+características: 
+
+A) No se considera reforma de una instalación térmica 
+B)  Se  considera  reforma  aunque  ello  no  suponga  una  modificación  del  proyecto  o  memoria 
+técnica 
+C) Se considera reforma si ello supone una modificación del proyecto o memoria técnica 
+
+30. El  RD  390/2021  por  el  que  se  aprueba  el  procedimiento  básico  para  la  certificación  de  la 
+
+eficiencia energética de los edificios indica: 
+
+A) Que el certificado de eficiencia energética del edificio debe presentarse junto con el informe 
+de evaluación energética del edificio 
+B) Que el certificado de eficiencia energética del edificio debe presentarse junto con el proyecto del 
+edificio 
+C) Que el certificado de eficiencia energética del edificio debe presentar junto con los cálculos térmicos 
+del edificio 
+
+31. Según la normativa de instalaciones petrolíferas, los tanques enterrados con tubo buzo o 
+
+doble pared deben revisarse cada: 
+
+A) 5 años 
+B) 3 años 
+C) 10 años 
+
+32. Según el RD551/2019 sobre instalaciones frigoríficas, atendiendo a criterios de seguridad, 
+
+los sistemas de refrigeración se clasifican en los siguientes tipos, según su 
+emplazamiento: 
+
+A) Tipo 1, 2, 3 y 4 
+B) Tipo 1, 2 y 3 
+C) Tipo 1, 2 ,3, 4 y 5 
+
+15/12/2021 16:58 
+
+Página 9 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+33. Según el RD 88/2013 Reglamento de aparatos de elevación y manutención, para la puesta 
+
+en servicio de los ascensores: 
+
+A) Se necesitará autorización previa de la Administración 
+B) No se necesitará autorización previa de la Administración 
+C) Se recomienda obtener autorización previa de la Administración para posteriormente comunicar 
+por el titular al órgano competente de la Comunidad Autónoma 
+
+34. Según  el  RD  1053/2014  por  el  que  se  aprueba  una  nueva 
+
+Instrucción  Técnica 
+Complementaria  (ITC)  BT  52  «Instalaciones  con  fines  especiales.  Infraestructura  para  la 
+recarga de vehículos eléctricos», del REBT, se denomina “circuito de recarga colectivo” al 
+circuito  interior  de  la  instalación  receptora  que  partiendo  de  una  centralización  de 
+contadores o de un cuadro de mando y protección, está previsto para alimentar:  
+
+A) cuatro o más estaciones de recarga del vehículo eléctrico 
+B) tres o más estaciones de recarga del vehículo eléctrico 
+C) dos o más estaciones de recarga del vehículo eléctrico 
+
+35. Según el Reglamento Electrotécnico de Baja Tensión, la categoría II de sobretensiones se 
+
+aplica a: 
+
+A) Se aplica a los equipos y materiales que forman parte de la instalación eléctrica fija y a otros equipos 
+para los cuales se requiere un alto nivel de fiabilidad 
+B) Se aplica a los equipos muy sensibles a las sobretensiones y que están destinados a ser conectados 
+a la instalación eléctrica fija 
+C) Los equipos destinados a conectarse a una instalación eléctrica fija 
+
+36. Según  el  Reglamento  de  Instalaciones  Térmicas  en  edificios  y  a  efectos  de  su  ámbito  de 
+aplicación, las unidades de ventilación bidireccionales, o los componentes para ventilación 
+de las unidades de tratamiento de aire de los sistemas todo aire, cumplirán los requisitos 
+establecidos en los reglamentos:  
+
+A) Nacionales de diseño ecológico que les sean de aplicación 
+B) Europeos de diseño ecológico que les sean de aplicación 
+C) Internacionales de diseño ecológico que les sean de aplicación 
+
+37. Para el cálculo de las cargas térmicas máximas en verano, para todos los tipos de edificios 
+no  considerados  especiales,  (hospitales,  museos,  etc.),  las  temperaturas  seca  y  húmeda 
+coincidente a considerar son las correspondientes a un percentil del 
+
+A) 3% 
+B) 2% 
+C) 1% 
+
+15/12/2021 16:58 
+
+Página 10 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+38. La relación de transformación para un transformador con grupo de conexión Dz0 es 
+
+A) N1/N2 
+B) 2N1/3N2 
+
+C) 2N1/√3N2 
+
+39. Que caudal mínimo teórico tiene que proporcionar un sistema de bocas de incendio en un 
+
+establecimiento industrial de nivel de riesgo intrínseco alto 
+
+A) 16 m3/h 
+B) 28 m3/h 
+C) 36 m3/h 
+
+40.  La máxima superficie construida admisible de cada sector de incendio de un 
+
+establecimiento industrial de riego bajo 2 y configuración TIPO B es de  
+
+A) sin limite 
+B) 6.000 m2 
+C) 4.000 m2 
+
+41. La mínima superficie de evacuación de humos de un sector de incendios de 450 m2, con 
+actividad de almacenamiento, situado sobre rasante y nivel de riesgo intrínseco alto es  
+
+A) no necesita ventilación 
+B) 0,45 m2 
+C) 1,5 m2 
+
+42. La demanda de ACS de un edificio de oficinas es de 2.500 l/d. La contribución mínima de 
+
+energía procedente de fuentes renovables cubrirá al menos el 
+
+A) 50% de la demanda energética anual para ACS 
+B) 60% de la demanda energética anual para ACS 
+C) 70% de la demanda energética anual para ACS 
+
+43. En los locales de clase I, en que la atmosfera explosiva, formada por una mezcla de aire en 
+forma  de  gas,  vapor  o  niebla,  está  presente  de  modo  permanente,  tiempo  prolongado  o 
+frecuente, se clasifica como zona 
+
+A) 0 
+B) 1 
+C) 2 
+
+15/12/2021 16:58 
+
+Página 11 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+44. Cuál de los siguientes locales debe disponer de suministro de reserva: 
+
+A) Teatros 
+
+B) Estacionamientos subterráneos para más de 50 vehículos 
+
+C) Pabellones deportivos 
+
+45. Los contrapesos de los ascensores hidráulicos deben pesar  
+
+A) Lo mismo que la cabina 
+B) Lo mismo que la cabina mas la mitad del peso de las personas para el que está previsto 
+C) Este tipo de ascensores no llevan contrapeso 
+
+46. En el centro de transformación de un edificio de pública concurrencia con un transformador 
+de 400 kVA, cuyo dieléctrico sea inflamable de punto de inflamación menor que 300 ºC, es 
+necesario disponer de 
+
+A) Un sistema de detección de incendios. 
+B) Extinción manual. 
+C) Un sistema fijo de extinción automático adecuado para este tipo de instalaciones 
+
+47. Un centro de transformación de 1.250 kVA y con punto de inflamación del dieléctrico de 
+
+350 ºC, según el CTE DB SI corresponde a riesgo: 
+
+A) Bajo 
+B) Medio 
+C) Alto 
+
+48. La potencia obligatoria a instalar de generación de energía eléctrica en los edificios con uso 
+
+distinto al residencial privado que les sea de aplicación la HE5 será 
+
+A) no inferior a 30 kW ni superior a 100 kW 
+B) mayor de 30 kW 
+C) igual a 0,02 * Superficie construida del edificio en m2 (kW) 
+
+49. Los conductos de impulsión, de un climatizador con una batería de 55,6 kW, que discurren 
+por el exterior del edificio se tienen que aislar, con un material con conductividad térmica 
+de referencia a 10 °C de 0,040 W/(m.K) y espesor mínimo de: 
+
+A) 40 mm 
+B) 50 mm 
+C) 60 mm 
+
+15/12/2021 16:58 
+
+Página 12 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+50. En las redes de conductos se cumplirá con las condiciones que prescribe la norma  
+
+A) UNE 100012. 
+B) UNE 100015. 
+C) UNE 100050. 
+
+51. Las válvulas de mariposa dispondrán de desmultiplicador  
+
+A) a partir de DN80 
+B) a partir de DN100 
+C) a partir de DN150 
+
+52. El caudal de ventilación de una sala de máquinas de 10x20x5 m (largo, ancho, alto) y con 
+
+una carga de refrigerante de 70 kg será 
+
+A) 6.000 m3/h 
+B) 7.000 m3/h 
+C) 15.000 m3/h 
+
+53. Los  sistemas  de  control  de  temperatura  y  evacuación  de  humos  por  flotabilidad  se 
+
+proyectarán de acuerdo con lo indicado en la norma: 
+
+A) UNE 24.007 
+B) UNE 25.146 
+C) UNE 23.585. 
+
+54. Algunos de los refrigerantes más comunes existentes en la actualidad son: 
+
+A) R-10, R-407c y R-134a. 
+B) R-22, R-410a y R-432c 
+C) R-32, R-134a y R-410a. 
+
+55. De acuerdo con las instrucciones técnicas del REBT, la fórmula para estimar la resistencia 
+
+de tierra cuando el electrodo de puesta a tierra es una pica vertical es R = ρ/L, donde: 
+
+A) ρ es la conductividad del terreno (en Ωꞏm) y L la longitud de la pica (en m). 
+B) ρ es la resistividad del terreno (en Ωꞏmm) y L la longitud de la pica (en mm). 
+C) ρ es la resistencia del terreno (en Ωꞏm) y L la longitud de la pica (en m). 
+
+15/12/2021 16:58 
+
+Página 13 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+56. Las categorías de las sobretensiones que se citan en el REBT y su descripción son: 
+
+A)  Categoría  I:  se  aplica  a  los  equipos  muy  sensibles  a  las  sobretensiones  y  que  están 
+destinados  a  ser  conectados  a  la  instalación  eléctrica  fija.  Ejemplo:  ordenadores,  equipos 
+electrónicos muy sensibles, etc… 
+
+B) Categoría III: se aplica a los equipos y materiales que se conectan en el origen o muy próximos al 
+origen  de  la  instalación,  aguas  arriba  del  cuadro  de  distribución.  Ejemplo:  contadores  de  energía, 
+aparatos de telemedida, etc… 
+
+C) Categoría IV: se aplica a los equipos muy sensibles a las sobretensiones y que están destinados a 
+ser  conectados  a  la  instalación  eléctrica  fija.  Ejemplo:  ordenadores,  equipos  electrónicos  muy 
+sensibles, etc… 
+
+57. En el procedimiento de limpieza y desinfección de torres de refrigeración y condensadores 
+evaporativos que puedan cesar su actividad, y en el caso de que puedan utilizar cloro, se 
+deberá  realizar  una  cloración  del  sistema  del  agua  para  mantener  el  pH  en  unos  valores 
+entre: 
+
+A) 7 y 8 
+B) 11 y 12 
+C) 14 y 15 
+
+58. La aparición de los terceros armónicos en un sistema de regulación de potencia trifásico 
+
+provoca: 
+
+A) El triple de armónicos que un sistema monofásico 
+B) Una corriente por el neutro de valor triple que la de fase 
+C) Una corriente de fase de valor triple que cuando no hay regulación 
+
+59. En un sistema de producción de ACS, indica cuál sería el tipo de instalación de la figura 
+
+A) Monotubular con retorno directo 
+B) Bitubular con retorno directo 
+C) Bitubular con retorno invertido 
+
+15/12/2021 16:58 
+
+Página 14 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+60.  El CTE utiliza en su DB-HR como método general del tiempo de reverberación la siguiente 
+
+expresión: T[s]=(0,16ꞏV)/A. Indica en que modelo está basado dicha expresión: 
+
+A) Modelo de Sabine 
+B) Modelo de Otamendi 
+C) Modelo de Graham Bell 
+
+61. Cuando en un local estamos impulsando aire del exterior al local, ocurre que el aire interior 
+
+saldrá por la rejillas o puertas. Este tipo de ventilación se denomina: 
+
+A) Por sobrepresión 
+B) Por depresión 
+C) Mixto 
+
+62. La regulación sobre la calidad del ambiente acústico en el RITE indica que: 
+
+A) Estará limitado el riesgo de molestias o enfermedades producidas, en condiciones normales 
+de utilización, por el ruido y las vibraciones de las instalaciones térmicas. 
+
+B) El ámbito de aplicación establece el diseño, cálculo, ejecución, mantenimiento y utilización de las 
+instalaciones térmicas, sin considerar la calidad del ambiente acústico.   
+
+C) Estará limitado el riesgo de molestias o enfermedades producidas, en condiciones excepciones de 
+utilización, por el ruido y las vibraciones de las instalaciones térmicas. 
+
+63. Según  el  apartado  de  “Almacenamientos  permitidos  en  sala  de  máquinas  específica”  del 
+Real  Decreto  552/2019,  por  el  que  se  aprueban  el  Reglamento  de  seguridad  para 
+instalaciones frigoríficas y sus instrucciones técnicas complementarias: 
+
+A)  La  cantidad  máxima  de  refrigerante  para  el  mantenimiento  de  dicha  instalación  que  puede  ser 
+almacenado en su sala de máquinas es del 40% de la carga total de la instalación, con un máximo de 
+300 kg. 
+
+B) La cantidad máxima de refrigerante para el mantenimiento de todas las instalaciones del recinto que 
+puede ser almacenado en una sala de máquinas es del 100% de la carga total de la instalación, con 
+un máximo de 750 kg. 
+
+C) Se prohíbe el almacenamiento en la sala de máquinas específica de elementos ajenos a la 
+instalación frigorífica.  
+
+64. A efectos del REBT, existen distintos tipos de suministros complementarios. Indica cuál es 
+
+la definición correcta de los siguientes:  
+
+A) El “suministro duplicado” es el que es capaz de mantener un servicio mayor del 50% de la potencia 
+total contratada para el suministro mínimo de emergencia.  
+
+B) El “suministro de reserva” es el dedicado a mantener un servicio restringido de los elementos de 
+funcionamiento  indispensables  de  la  instalación  receptora,  con  una  potencia  mínima  del  35%  de  la 
+potencia total contratada para el suministro normal.  
+
+C) El “suministro de socorro” es el que está limitado a una potencia mínima equivalente al 15% 
+del total contratado para el suministro normal. 
+
+15/12/2021 16:58 
+
+Página 15 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+65. Indique  cuál  es  el  periodo  que  señala  el  REBT  para  la  realización  de  las  inspecciones 
+
+periódicas 
+
+A) Todas las instalaciones eléctricas en baja tensión que precisaron inspección inicial, cada 5 
+años. Y las instalaciones comunes de edificios de viviendas de potencia total instalada superior 
+a 100kW, cada 10 años.  
+
+B) Todas las instalaciones eléctricas en baja tensión que precisaron inspección inicial, cada 5 años. Y 
+las instalaciones comunes de edificios de viviendas de potencia total instalada superior a 100kW, cada 
+15 años. 
+
+C)  Todas  las  instalaciones  eléctricas  en  baja  tensión  que  precisaron  inspección  inicial  y  las 
+instalaciones comunes de edificios de viviendas de potencia total instalada superior a 100kW, cada 10 
+años. 
+
+66. En  las  líneas  eléctricas  de  media/alta  tensión,  que  no  sean  propiedad  de  empresas  de 
+transporte  y  distribución,  indica  el  periodo  máximo  en  el  que  se  deberán  realizar  las 
+inspecciones periódicas. 
+
+A) Cada año. 
+B) Cada dos años. 
+C) Cada tres años. 
+
+67. Indica cuál de las siguientes condiciones es requerida para que la modalidad de suministro 
+con autoconsumo con excedentes se pueda acoger a compensación, según lo contemplado 
+en el RD 244/2019: 
+
+A) La fuente de energía primaria sea de origen renovable. 
+B) La potencia total de las instalaciones de producción asociadas no sea superior a 10 kW. 
+C) La instalación de producción debe tener otorgado un régimen retributivo específico. 
+
+68. Señala  cuál  de  las  instalaciones  se  encuentran  contempladas  dentro  del  Reglamento  de 
+
+Instalaciones Petrolíferas 
+
+A) Unidades petroquímicas que no se encuentren anexas a una refinería. 
+B) Instalaciones de almacenamiento de carburantes y combustibles líquidos para su consumo 
+en la propia instalación.  
+C) Instalaciones de almacenamiento de productos cuyo punto de inflamación sea superior a 150ºC. 
+
+69. Las clases de fuego normalizadas se clasifican siguiendo la siguiente nomenclatura: 
+
+A) Clase A: fuegos de materiales sólidos; Clase B: fuegos de líquidos; Clase C: fuegos de gases; 
+Clase D: fuegos de metales y Clase F: fuegos derivados de la utilización de ingredientes para 
+cocinar en los aparatos de cocina.  
+
+B)  Clase  I:  fuegos  de  metales;  Clase  II:  fuegos  de  gases;  Clase  III:  fuegos  de  líquidos  y  Clase  IV: 
+fuegos de materiales sólidos.  
+
+C) Clase 1: fuegos de gases; Clase 2: fuegos de líquidos y Clase 3: fuegos de sólidos.  
+
+15/12/2021 16:58 
+
+Página 16 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+70. La “suma de las energías caloríficas que se liberan en la combustión de todos los materiales 
+combustibles existentes en un espacio (contenidos del edificio y elementos constructivos)” 
+está definido en el CTE DB-SI como: 
+
+A) Curvas tiempo - temperatura 
+B) Densidad de carga de fuego 
+C) Carga de fuego 
+
+PREGUNTAS DE RESERVA 
+
+71. El nuevo RIPCI establece para los edificios administrativos de más de 2000m2 
+
+A) la periodicidad de las revisiones de mantenimiento    
+B) inspecciones periódicas por una OCA  
+C) las dos anteriores son ciertas 
+
+72. ¿Cuál ha de ser la frecuencia de una corriente alterna para que una autoinducción, cuyo 
+
+coeficiente es de 8H, presente una reactancia de 6000 Ω? 
+
+A) 159,15 Hz 
+B) 318,31 Hz 
+C) 500 Hz 
+
+73. El refrigerante R-134a es un hidrofluorocarburo: 
+
+A) Mezcla 
+B) Puro 
+C) Azeotrópico 
+
+74. Indicar cuál es la estabilidad al fuego mínima exigida a los elementos estructurales portantes 
+sobre rasante, de un establecimiento industrial tipo C, con nivel de riesgo intrínseco medio 
+
+A) EF 60 
+B) EF 90 
+C) EF 120 
+
+75.  Una sala de máquinas de 90 m3, con 2 generadores de calor a gas de 400 kW cada uno 
+
+dispondrá de un cerramiento de baja resistencia mecánica de superficie mínima de: 
+
+A) 0,4 m2 
+B) 0,9 m2 
+C) 1 m2 
+
+15/12/2021 16:58 
+
+Página 17 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+76. Las características de los productos de construcción que componen su envolvente térmica, 
+indicados  en  el  CTE  DB-HE1  “Condiciones  para  el  control  de  la  demanda  energética”,  al 
+menos son: 
+
+A) La resistencia a la permeabilidad del aire en las superficies acristaladas.  
+B) La conductividad térmica y la emisividad para los productos para los cerramientos.   
+C) La densidad y el calor específico para los elementos de los huecos de cerramientos.  
+
+77. Indica en cuál de las siguientes zonas el Código Técnico de la Edificación NO requiere de la 
+
+instalación de alumbrado de emergencia:  
+
+A) En todo recinto cuya ocupación sea mayor de 25 personas. 
+B) Los aseos generales de planta en edificios de uso público. 
+C) Los aparcamientos cerrados o cubiertos cuya superficie construida exceda de 100 m2, incluidos 
+los pasillos y las escaleras que conduzcan hasta el exterior o hasta las zonas generales del edificio.  
+
+15/12/2021 16:58 
+
+Página 18 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+CUESTIONARIO 
+
+APARTADO 2 – SUPUESTOS 
+
+1.  Un Centro de transformación dispone de un trasformador de 1000KVA; 20/04, con tensión 
+de cortocircuito de 6%, tipo seco, perdidas de carga a plena carga según catálogo y a 120ºC 
+de 11Kw. Se pide: 
+
+a.  Calcular  impedancia  de  cortocircuito  y  sus  componentes  reactiva  y  capacitiva 
+
+referidas al lado de MT y de BT.  
+
+(Valoración 6 puntos - 1 punto por respuesta correcta) 
+
+b.  Calcular la caída de tensión del transformador cuando alimenta una carga de 600Kw, 
+
+con un factor de potencia de 0.8 inductivo.  
+
+(Valoración 4 puntos) 
+
+RESPUESTA: 
+
+Solución  
+
+a)   Lado Media tensión: 
+
+Impedancia de cortocircuito: 24 Ω    
+Reactancia: 4.4 Ω     
+Parte inductiva: 23.59 Ω    
+
+Lado Media Baja tensión: 
+Impedancia de cortocircuito: 0.0096 Ω   
+Reactancia; 0.0018 Ω   
+Parte inductiva 0.0094 Ω   
+
+           b)  Caída de tensión 0.027 
+
+2.  Calcular  el  TEWI  (impacto  total  equivalente  sobre  el  calentamiento  atmosférico)  de  la 
+
+siguiente instalación frigorífica  
+
+- potencia 331,60 kW 
+
+- horas funcionamiento día: 24h 
+
+- PCA: 7 
+
+- carga refrigerante: 190 kg 
+
+- factor de recuperación 0,5 
+
+- factor ß=0.30 
+
+- vida útil de la instalación: 20 años 
+
+(VALORACIÓN 10 PUNTOS) 
+
+RESPUESTA: 17.431.411,79 Kg CO2 
+
+15/12/2021 16:58 
+
+Página 19 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONVOCATORIA 1/2020 PROMOCIÓN 
+
+OCUPACIÓN TIPO INGENIERÍA SUPERIOR (TEMARIO INDUSTRIAL) 
+
+3.  Considérese un estudio de televisión a 20ºC que está separado del exterior a -5ºC por un 
+muro  de  140  m2  construido  por  una  capa  interior  de  hormigón  de  30  cm  de  espesor  y 
+conductividad  1,012  W/(mꞏK)  y  otra  exterior  de  material  aislante  (poliestireno)  de  2  cm  y 
+conductividad  0,028  W/(mꞏK).  Calcular  la  potencia  calorífica  que  atraviesa  la  pared, 
+considerando despreciables las transferencias de calor que se producen por convención y 
+radiación solar.   
+
+(Valoración 10 puntos) 
+
+RESPUESTA 
+
+-  Q [W] = U ꞏ Superficieꞏ(Tinterior-Texterior)  
+
+o  Transmitancia térmica U [W/(m2ꞏK)] = 1/RT  
+
+  Resistencia térmica: R [m2ꞏK/W] = espesor capa/conductividad térmica  
+  RT = espesor1 / conductividad1 + espesor2 / conductividad2 
+
+-  𝑸 (cid:3404)
+
+(cid:3020)(cid:3048)(cid:3043)(cid:3032)(cid:3045)(cid:3033)(cid:3036)(cid:3030)(cid:3036)(cid:3032)(cid:3401)(cid:4666)(cid:3021)(cid:3036)(cid:3041)(cid:3047)(cid:2879)(cid:3021)(cid:3032)(cid:3051)(cid:3047)(cid:4667)
+(cid:3280)(cid:3294)(cid:3291)(cid:3280)(cid:3294)(cid:3290)(cid:3293)(cid:3118)
+(cid:3280)(cid:3294)(cid:3291)(cid:3280)(cid:3294)(cid:3290)(cid:3293)(cid:3117)
+(cid:3278)(cid:3290)(cid:3289)(cid:3279)(cid:3296)(cid:3278)(cid:3295)(cid:3284)(cid:3297)(cid:3284)(cid:3279)(cid:3276)(cid:3279)(cid:3118)
+(cid:3278)(cid:3290)(cid:3289)(cid:3279)(cid:3296)(cid:3278)(cid:3295)(cid:3284)(cid:3297)(cid:3284)(cid:3279)(cid:3276)(cid:3279)(cid:3117)
+
+(cid:2878)
+
+(cid:3404)
+
+(cid:2869)(cid:2872)(cid:2868)(cid:3401)(cid:3435)(cid:2870)(cid:2868)(cid:2879)(cid:4666)(cid:2879)(cid:2873)(cid:4667)(cid:3439)
+
+(cid:3116),(cid:3119)
+(cid:3117),(cid:3116)(cid:3117)(cid:3118)
+
+(cid:2878)
+
+(cid:3116),(cid:3116)(cid:3118)
+(cid:3116),(cid:3116)(cid:3118)(cid:3124)
+
+(cid:3404)
+
+(cid:2869)(cid:2872)(cid:2868)(cid:3401)(cid:2870)(cid:2873)
+
+(cid:2868),(cid:2870)(cid:2877)(cid:2874)(cid:2873)(cid:2878)(cid:2868),(cid:2875)(cid:2869)(cid:2872)
+
+(cid:3404)
+
+(cid:2871)(cid:2873)(cid:2868)(cid:2868)
+
+(cid:2869),(cid:2868)(cid:2869)
+
+(cid:3404) 𝟑. 𝟒𝟔𝟓𝑾 
+
+15/12/2021 16:58 
+
+Página 20 | 20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

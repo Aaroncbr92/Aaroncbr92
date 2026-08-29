@@ -51,6 +51,16 @@ en Documentación y en Producción (Asistencia).
       escaneo y se pasó por OCR.
 - [x] Calibración: reparto de preguntas por materia en las tres ocupaciones, en
       `informes/calibracion-examenes-2024.md`.
+- [x] **Exámenes de convocatorias anteriores** en `convocatoria/examenes-antiguos/`:
+      la convocatoria 1/2020 (pruebas de diciembre de 2021 y enero de 2022, con
+      plantillas) y la de 2007, más sueltos de 1999, 2002, 2009, 2010 y 2011.
+      Transcritos, con OCR los que hacía falta.
+- [x] Comprobado que **las preguntas se repiten**: entre ocupaciones de la misma
+      convocatoria y entre convocatorias, a veces palabra por palabra
+      (`informes/preguntas-repetidas.md`).
+- [x] **`banco/`: 465 preguntas reales del bloque común con su respuesta oficial**
+      (447 de 465). Sustituye a las preguntas inventadas del apartado 7 del
+      manual.
 - [x] `herramientas/boe.py --fecha AAAAMMDD`: lee la ley como estaba ese día.
 - [x] Ley 17/2006 y Ley 5/2017 volcadas a `fuentes/`, en la redacción de hoy y en
       la del corte 21/12/2022. Entre una y otra cambian **11 bloques** de la Ley
@@ -76,7 +86,7 @@ en Documentación y en Producción (Asistencia).
 
 - [ ] Los **anexos 5 y 6 de las Bases Generales** (baremos de méritos). La versión
       descargada no los trae. No afectan al temario.
-- [ ] Buscar exámenes de convocatorias anteriores a 2024, si los hay publicados.
+
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
 - [ ] Comprobar si hay acuerdos del Convenio Colectivo posteriores a 2022.

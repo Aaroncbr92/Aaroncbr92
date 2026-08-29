@@ -1,0 +1,775 @@
+HUB
+CONVOCATORIA GENERAL RTVE 1 / 2007
+- PRUEBA TEÓRICA (día 20 julio 2007) -
+Categoría Laboral: TECNICO SUPERIOR INFORMÁTICA.
+1) Una relación se encuentra en primera forma normal:
+A) Si se establece atomicidad para todos los atributos.
+B) Si los atributos que no forman parte de ninguna clave dependen de forma completa de la
+clave principal.
+C) Si cada atributo que no forma parte de ninguna clave depende directamente y no
+transitivamente de la clave primaria.
+D) Si cada determinante es clave candidata.
+2) El modelo entidad-relación representa:
+- A) La abstracción previa al diseño relacional.
+B) La abstracción final del diseño relacional.
+C) La abstracción intermedia al diseño relacional.
+D) La relación entre tabla lógica y tabla física.
+3) ¿Cuál de las siguientes no es un tipo de cardinalidad de una relación de tablas?
+A) 1 :]>
+B) “2:M”
+C) “1 :N”
+D) “N:M”
+4) Las siglas OLTP corresponden a:
+A) Object Language Transaction Procedure.
+B) Oriented Language Transactional Processing.
+C) OnLine Transaction Processing.
+D) OnLine Transmission Processing.
+5) En el proceso de normalización de una base de datos relacional quedan definidas
+cuales son las claves a establecer, teniendo como clave candidata:
+A) Aquella que identificará de forma unívoca una tupla de la entidad, siendo habitual el uso
+de campos numéricos.
+B) Aquella que identificará la relación entre las tablas con cardinalidad 1:N.
+C) Aquella que identificará de forma unívoca un índice no agrupado único con los registros
+de la tabla.
+D) Aquella que identificará de forma unívoca los registros que contengan el mismo tipo de
+datos.
+1
+
+6) ¿Cómo se denomina el sistema que se encarga de gestionar los datos en una base de
+datos? :
+A) Sistema Gestor de Bases de Datos.
+B) Sistema Gestor de Bancos de Datos.
+C) Sistema de Datos Multimedia para Bases de Datos Compartidas. y
+D) Sistema Gestor de Bases de Datos Multidimensionales.
+7) El lenguaje estándar utilizado para el acceso a la información en una base de datos
+relacional es:
+A) SQL.
+B) MDX.
+C) DMX.
+D) SOAP.
+8) ¿Cuál de los siguientes objetos es la unidad de almacenamiento de la información en
+una base de datos relacional?
+A) Tabla.
+B) Vista.
+C) Procedimiento.
+D) Fichero.
+9) ¿Que nombre recibe el identificador único para la tabla, es decir, una columna o
+combinación de columnas con la propiedad de que nunca existen 2 filas de la tabla con
+el mismo valor en esa columna o combinación de columnas?
+A) Grado.
+B) Cardinalidad.
+C) Clave Primaria.
+D) Dominio.
+10) ¿A qué denominación corresponde el acrónimo de ACID?
+A) Abstracción, Computabilidad, Aislamiento y Durabilidad.
+B) Atomicidad, Consistencia, Independencia y Durabilidad.
+C) Atomicidad, Consistencia, Aislamiento y Durabilidad.
+D) Abstracción, Consistencia, Aislamiento y Durabilidad.
+11) ¿Cuál de las siguientes tareas no es exclusiva del Administrador de una base de datos?
+A) Asegurar la disponibilidad del SGDB.
+B) Asegurar la integridad de las bases de datos.
+C) Asegurar la seguridad de las bases de datos.
+D) Diseñar las bases de datos.
+2
+
+12) En el modelo de datos relacional, una relación N:M se traduce en:
+A) 3 tablas.
+B) 4 tablas.
+C) 2 tablas.
+D) No se permiten relaciones de este tipo en el modelo relacional y sí en el modelo de red.
+13) ¿Qué lenguaje nos permite crear y eliminar tablas de una base de datos?
+A) DDL.
+B) TBL.
+C) DTL.
+D) DML.
+14) ¿Cuál de las siguientes afirmaciones no es una restricción del Modelo Relacional?
+A) Restricción de dominio (El valor de cada atributo A debe ser un valor atómico del
+dominio(A)).
+B) Restricción de clave (Dos tuplas no pueden tener la misma clave).
+C) Integridad de la entidad (Ningún atributo que forma parte de la clave principal puede
+tomar valor nulo).
+D) Restricción de atributos (los atributos de distintas tablas no pueden estar desordenados en
+una relación).
+15)¿Cuál de los siguientes modelos se puede utilizar durante el diseño conceptual de una
+base de datos relacional? :
+A) Modelo jerárquico.
+B) Modelo entidad-relación.
+C) Modelo de objetos.
+D) Modelo estático de datos.
+16) La ejecución de las siguientes sentencias SQL:
+CREATE SEQUENCE $1
+START WITH 10
+INCREMENT BY 2
+MINVALUE 5
+MAXVALUE 100
+CYCLE;
+SELECT S1.THISVAL FROM DUAL;
+A) Mostrará el valor 10.
+B) Mostrará el valor 5.
+C) Mostrará un error.
+D) Mostrará un valor “NULL”.
+17) ¿Cuál de estas select está bien construida?
+A) select nombre, edad from contactos where ciudad = *Madrid' order by nombre.
+B) select nombre, edad from contactos order by nombre where ciudad = “Madrid' .
+C) select nombre, edad order by nombre from contactos where ciudad = “Madrid .
+D) select from contactos the nombre. edad where ciudad = *Madrid' order by nombre.
+3
+
+18) ¿Con que instrucción ANSI SQL borraríamos una vista en una base de datos?
+A) DEL VIEW.
+B) DROP VIEW.
+C) DELETE VIEW.
+D) ERASE VIEW. y
+19) Dada la entidad “TÉCNICOS” de una base de datos relacional, ¿cuál de las siguientes
+afirmaciones es correcta? (los campos cod_empresa, cod técnico forman la clave
+principal de la entidad)
+TÉCNICOS
+Fecha baja
+A) Dicha entidad se encuentra en tercera forma normal. O
+B) Dicha entidad se encuentra en primera forma normal y no en segunda.
+C) Se encuentra en segunda forma normal.
+D) No está normalizada.
+20) En el modelo relacional, una tabla con grado 3 y cardinalidad 10 tiene:
+A) 3 tuplas con 10 columnas cada una.
+B) 3 columnas y 10 tuplas.
+C) 10 tuplas que contienen sólo 3 registros distintos.
+D) 10 tuplas. A su vez cada tupla se relaciona con otras 3 tuplas de una tabla, en la que la
+Primary Key de la primera actúa como Foreign Key.
+21) ¿Qué operación lógica se aplica a la dirección IP y a la máscara de un dispositivo para
+obtener la dirección de la red a la que pertenece ese dispositivo?
+A) AND.
+B) OR.
+C) NAND.
+D) NOR.
+22) El protocolo SMTP opera por defecto bajo el puerto:
+A) 21.
+B) 25.
+C) 44.
+D) 23.
+4
+
+23) Ordenando los siguientes protocolos de mayor a menor cercanía al medio físico, ¿cuál
+de la siguientes series es correcta?
+A) Ethernet, SMTP, POP.
+B) SSH, TCPAP, HTTP.
+C) ATM, FTP, TCP.
+D) ATM, IP, Telnet.
+24) ¿Cuál de las siguientes afirmaciones es correcta en relación con el modelo OST?
+A) Un router opera en el nivel 2.
+B) Un router opera en el nivel 3.
+C) Un switch opera en el nivel 3.
+D) Un switch opera en el nivel 4.
+25) ¿A qué nivel de OSI es equivalente el protocolo 1P (Internet Protocol)?
+A) Enlace.
+B) Red.
+C) Transporte.
+D) Comunicación.
+26) ¿Cuál es la utilidad del comando nbtstat?
+A) Muestra las conexiones de red.
+B) Permite crear usuarios.
+C) Muestra las estadísticas del protocolo y las conexiones actuales de TCP/IP usando NBT
+(NetBios sobre TCP/1P).
+D) Permite configurar la pila TCP/IP.
+27) ¿Cuál es el objetivo del nivel de enlace en el modelo OST?
+A) Enlazar los cables físicos entre dos o más máquinas.
+B) Conseguir que la información fluya libre de errores, entre dos máquinas que estén
+conectadas directamente.
+C) Transferir exclusivamente los datos de equipo a equipo.
+D) Permitir el acceso a las aplicaciones de los demás niveles.
+28) ¿Cuál de los niveles OSI es el de Aplicación?
+A) 9.
+B) 7.
+C) 5.
+D) 3.
+5
+
+29) ¿Qué se entiende por cableado estructurado? ;
+A) Es un sistema de distribución de comunicaciones únicamente para transmisión de datos.
+B) Es un sistema de distribución integral de comunicaciones (voz y datos) basado en la
+
+normalización de los cables, conectores y adaptadores de todas las comunicaciones.
+C) Es un sistema de distribución de cables y conectores utilizado únicamente en los edificios :
+llamados inteligentes.
+D) Es un sistema de distribución de comunicaciones en desuso actualmente.
+30) ¿Qué comando podemos utilizar para ver las conexiones activas de un ordenador?
+A) nbtstat.
+B) arp.
+C) netstat.
+D) systeminfo.
+31) El modo de transmisión de datos utilizado por la red Ethernet es el definido en el
+estándar de IEEE:
+A) 802.3
+B) 802.4
+C) 802.5 OS
+D) 802.11
+
+32) En Windows XP, ¿qué comando muestra la configuración básica de TCP/1P? |
+
+A) nbtstat.
+B) ipconfig.
+C) netstat.
+D) arp.
+
+33) ¿En qué nivel OSI operan los bridges (puentes)?
+
+A) En el nivel físico.
+B) En el nivel de red.
+C) En el nivel de enlace.
+D) En el nivel de transporte.
+34) ¿Qué significan las siglas VPN?
+A) Verbose Public Nat.
+B) Volume Path Network.
+C) Virtual Private Network.
+D) Volume Ping Netlan.
+35) Enumere por orden los puertos por defecto de los siguientes servicios TCP/IP: telnet,
+ftp, http, pop3, smtp.
+A) 23, 21,80 ,110,25
+B) 21, 23,8080 ,110,25
+C) 22, 21,80 ,110,25
+D) 23, 21,80 ,109,25 -
+6
+
+36) ¿Cuál es la máscara de subred que se representa a través de la notación /21?
+A) 255.255.224.0
+B) 255.255.248.0
+C) 255.255.252.0
+D) 255.255.240.0
+37) ¿Cuál es la utilidad del comando tracert?
+A) Se utiliza para controlar los saltos de red que siguen los paquetes para llegar a su destino.
+Además proporciona otros datos de interés de la red.
+B) Se utiliza para controlar las estadísticas de red.
+C) Muestra las estadísticas de red y se utiliza para configurar el protocolo TCP/IP.
+D) Se utiliza para enrutar paquetes dentro de una red.
+- 38) Para una dirección IP de clase A, el rango de direcciones posible es:
+A) 0.0.0.0 a 127.0.0.0
+B) 1.0.0.1 a 1.0.0.127
+C) 1.0.0.0 a 127.0.0.0
+D) 0.0.0.1 a 0.0.0.127
+39) ¿Qué nombre recibe la unidad de información en TCP/IP?
+A) Mensaje.
+B) Archivo.
+C) Paquete.
+D) Datagrama.
+40) ¿Qué significan las siglas DNS?
+A) Digital Name Server.
+B) Deprecated Name System.
+C) Domain Name System.
+D) Digital Net System.
+41) ¿Cual de las siguientes formas es la correcta para definir código JavaScript?
+A) <script language="JavaScript"> </script>
+B) <languaje define =JavaScript> </script>
+CO) <js> </js>
+D) <"JAVASCRIPT"> </"JAVASCRIPT">
+42) De las sintaxis reflejadas a continuación, ¿cuál sería válida para declarar una variable
+en ActionScript ?
+A) var Variable: TipoDeDato;
+B) defines? Variable: TipoDeDato
+C) TipoDeDato Variable
+D) flashéV ariable
+7
+
+43) ¿Qué es el mecanismo de callback en Ajax?
+A) Es un mecanismo que permite la redirección de peticiones a otras páginas.
+B) Es un mecanismo que permite la devolución a una página de contenidos.
+C) Es un mecanismo que permite delegar en una función la resolución de la petición que se
+ha enviado. j
+D) Es un mecanismo que posibilita el sincronismo de las peticiones.
+44) En un documento HTML tenemos la siguiente definición:
+<select name="combo” id="combo"”>
+<option value="1">Málaga</option>
+<option value="2">Madrid</option>
+<option value="3">Murcia</option>
+</select>
+<button onClick="javascript:muestra();”“>pulsa</button>
+<script>
+function muestra ()(
+var sel = document.getElementByld (“combo”) ;
+var valor = XXX ;
+)
+</script>
+¿Qué código pondremos en XXX para que podamos obtener el valor del elemento
+seleccionado del combo?
+A) sel.options[sel.selectedIndex].value Ñ
+B) sel.selected.value
+C) sel[selected].value
+D) sel.selectedltem.value
+45) ¿Cuál de los siguientes no es un Lenguaje Orientado a Objetos?
+A) Eiffel.
+B) C++.
+C) Smalltalk.
+D) €.
+46) La Tarea “Especificación de Casos de Uso” del ASI en Métrica v3 se realiza:
+A) Solo en el análisis estructurado.
+B) Obligatoriamente en análisis orientado a objetos, y opcionalmente en análisis
+estructurado.
+C) Obligatoriamente en análisis estructurado y opcionalmente en análisis orientado a objetos.
+D) Solo en análisis orientado a objetos.
+47) ¿Qué librería contiene las funciones matemáticas estándar para C y C++?
+A) windows.h
+B) mathemathica.h
+C) math.h
+D) mates.h
+8
+
+48) ¿Dónde se ejecuta PHP?
+
+A) En el cliente.
+
+B) En el servidor.
+
+C) En el protocolo HTTP.
+
+D) En un Proxy.
+
+49) En la Programación Estructurada las estructuras de control son:
+
+A) Secuencia, condicional y declarativa.
+
+B) Secuencial, condicional y bifurcativa.
+
+C) Exponencial, condicional y recursiva.
+
+D) No existen, ya que los programas codificados en un lenguaje estructurado usan la
+sentencia goto para realizar los saltos condicionales e incondicionales.
+
+50) ¿Qué respuesta de las siguientes describe mejor qué es un DTD (Document Type
+Definition)? ON
+
+A) La estructura y la sintaxis de un documento XML.
+
+B) La estructura de un documento XML.
+
+C) El modelo del documento XML.
+
+D) El conjunto de validaciones que soporta un documento.
+
+51) ¿Qué librería contiene las funciones estándar de entrada salida en C y C++?
+
+A) oisys.h
+
+B) ¡osys.h
+
+C) conio.h
+
+D) stdio.h
+
+52) Los procesos principales de Métrica 3 se agrupan en 3 grandes bloques: planificación
+de sistemas de información, desarrollo de sistemas de información y:
+
+A) Participantes, técnicas e interfaces.
+
+B) Diseño técnico del sistema.
+
+C) Métrica 3 se estructura en fases y módulos.
+
+D) Mantenimiento de sistemas de información.
+
+53) En el ámbito del diseño web, ¿qué se entiende por “box model”?
+
+A) Es la característica menos importante del lenguaje de hojas de estilos CSS. No condiciona
+el diseño de las páginas web pero ayuda a la comprensión de todos los documentos
+HTML.
+
+B) Es una técnica en la que los elementos, que forman un documento HTML, se representan
+mediante cajas rectangulares, cuyas propiedades define CSS y cuya representación visual
+controla también CSS.
+
+C) Son los elementos maquetados con tablas que forman un documento HTML, que se
+representan mediante cajas rectangulares y facilitan la relación entre diseño y contenido.
+
+D) “Box model” permite controlar la forma en la que se visualizan las cajas en todos los
+navegadores a la vez.
+
+9
+
+54) ¿Para qué sirven los espacios de nombres en .NET?
+A) Para separar comandos.
+B) Para administrar las aplicaciones ASP.NET.
+C) Para almacenar cadenas de conexión con bases de datos.
+D) Para organizar las clases. '
+55) ¿Cuál no es un formato de audio?
+A) WMA.
+B) WAV.
+C) OGG.
+D) PNG.
+56) ¿Cómo se llama la característica que permite que dos métodos distintos tengan el
+mismo nombre?
+A) Herencia.
+B) Persistencia. :
+C) Polimorfismo.
+D) Abstracción.
+57) ¿Qué método no define la interfaz javax.servlet.http.HttpSessionAttributesListener?
+A) attributeAdded.
+B) attributeRemoved.
+C) attributeChanged.
+D) attributeReplaced.
+
+58) Los parámetros de configuración de las aplicaciones .NET se aplican en un orden
+determinado. ¿Cuál es el orden correcto, teniendo en cuenta que el primero es
+sobrescrito por el segundo, y el segundo por el tercero?
+
+A) Machine.config, Web.config, Page.
+B) Web.config, Machine.config, Page.
+C) Page, Web.config, Machine.config.
+D) Machine.config, Page, Web.config.
+59) Si en Java, en el cuerpo del bucle w/ile (test) f...j se usa la sentencia continue:
+A) Se ejecutará la siguiente sentencia dentro del cuerpo del bucle.
+B) Se ejecutará la última sentencia que haya dentro del cuerpo del bucle.
+C) Se evaluará la expresión de test para continuar o no ejecutando el bucle.
+D) Se ejecutará de nuevo el bucle independientemente del valor de la expresión de test.
+
+60) ¿Cómo se denomina la parte del Framework .NET que permite el acceso a bases de
+
+datos?
+A) DAO.NET
+B) ODBC.NET
+C) ADO.NET
+D) OLEDB.NET
+10
+
+61) De las siguientes, ¿cuál no es una prueba tipificada en Métrica v3?
+A) Pruebas de Denegación.
+B) Pruebas de Aceptación.
+C) Pruebas de Implantación.
+D) Pruebas de Regresión.
+62) ¿A qué denominamos lag streaming?
+A) Al retraso horario entre países conectados a Internet.
+B) Al retardo entre el sonido y el audio de un archivo multimedia.
+C) A la relación entre la tasa de transferencia y la tasa de reproducción.
+D) Al tiempo que transcurre entre la llegada de la última parte y primera del archivo.
+63) En programación orientada a objetos ¿qué son las clases abstractas?
+A) Aquellas que se dividen en subclases.
+B) Aquellas que están predefinidas.
+C) Las que no se pueden instanciar.
+D) Las que no son reutilizables.
+64) ¿En cuáles de estos lenguajes el cliente no tiene acceso al código fuente completo de la
+aplicación WEB?
+A) AJAX, JavaScript, VBScript.
+B) HTML, XHTLM.
+C) ASP, ASP .Net, HTML.
+D) ASP y PHP.
+65) ¿Qué relación hay entre usuarios y actores en la técnica de los casos de uso?
+A) Un usuario se identifica únicamente con un actor.
+B) Un usuario solamente puede ser varios actores.
+C) Un actor solamente puede ser varios usuarios.
+D) Un actor puede ser varios usuarios y un usuario varios actores.
+66) ¿Con qué instrucción imprimimos en pantalla en PHP?
+A) echo.
+B) printf.
+C) writescr.
+D) outprint.
+67) Para incluir CSS en un documento XHTML:
+A) Se emplea la etiqueta <style> y solamente se pueden incluir en la cabecera del
+documento.
+B) Se emplea la etiqueta <style> y se pueden incluir en cualquier parte del documento.
+C) Se emplea la etiqueta <css> y se pueden incluir en cualquier parte del documento y
+solamente se pueden incluir en la cabecera del documento.
+D) Se emplea la etiqueta <label> y se pueden incluir en cualquier parte del documento.
+11
+
+68) ¿Cual es la utilidad de WSDL?
+A) Permite consultar cómo se puede llamar a un servicio web, y qué datos va a devolver
+dicho servicio web.
+B) Permite explorar la red en busca de servicios web. '
+C) Permite enviar una petición a un servicio web a través de SMTP.
+D) Permite integrar un servicio web dentro de una aplicación de escritorio.
+69) ClickOnce sirve para:
+A) Autenticar usuarios en las aplicaciones .NET
+B) Autenticar usuarios de un dominio de Windows en aplicaciones .NET
+C) Desplegar aplicaciones .NET
+D) Analizar el código fuente.
+70) ¿Qué desventaja tiene el formato de imágenes JPEG?
+A) La imagen pierde información cuando se comprime.
+B) La magnitud de compresión es pequeña y ocupa demasiado espacio de disco.
+C) Todos los programas que brindan soporte al formato JPEG han de pagar por el uso de la
+licencia del algoritmo de compresión que utiliza. ES
+D) No tiene ninguna desventaja.
+71) ¿Cuál de los siguientes lenguajes es utilizado en especial para aplicaciones web
+realizadas en Macromedia Flash?
+A) PHP.
+B) HTML.
+C) JavaScript.
+D) ActionScript.
+72) ¿Qué ocurre cuando se compila o ejecuta el siguiente código?
+1: Vector a = new Vector ();
+2:
+3: a.addElement (10);
+4:
+5: System.out.println(a.elementAt(0));
+A) Escribe 10.
+B) Escribe 0.
+C) Da un error de compilación en la línea $.
+D) Da un error de compilación en la línea 3.
+73) ¿Qué es falso respecto a un applet?
+A) Utiliza clases de la librería java.applet.
+B) Tiene un método paint().
+C) Se puede visualizar mediante appletviewer.
+D) Necesita método main().
+12
+
+74) ¿En cuál de los procesos de Métrica v3 se evalúan los riesgos del desarrollo?
+A) Planificación de sistemas de información.
+B) Estudio de viabilidad del sistema.
+C) Análisis del sistema de información.
+D) Diseño del sistema de información.
+75) ¿Cuál es el resultado en el sistema de archivos de la ejecución del comando java new
+FileWriter(“fichero.txt”) cuando el fichero “fichero.txt” ya existe?
+A) Los datos que se escriban al fichero se añadirán al final del mismo.
+B) El fichero es reemplazado por uno nuevo.
+C) Salta una excepción avisando de que el fichero ya existe.
+D) Los datos se sobreescriben dentro del fichero existente.
+76) ¿Cuál de los siguientes formatos es propio de Flash?
+A) 150. O
+B) swf.
+C) bmp.
+D) gif.
+
+77) ¿En qué clase Java está definido el método wait()? 2
+A) Applet. ,
+B) Runnable.
+
+C) Thread.
+D) Object.
+
+78) ¿Qué significa el acrónimo XML?
+
+A) Expression Markup Language.
+B) Explorable Markup Language.
+C) Extensible Markup Language.
+D) Excalable Markup Language.
+
+79) En una arquitectura MVC, ¿qué se suele emplear como controlador?
+
+A) Servlet.
+B) JSP.
+
+C) JavaBean.
+D) EJB.
+
+80) En HTML podemos referenciar una marca dentro de un documento con la directiva
+<A>, indicando el nombre de documento y el nombre de la marca, y separando ambos
+nombres con el carácter:
+
+A) Y)
+B) $
+O á€
+D) +
+15
+
+81) Supongamos que se desea automatizar la transferencia de ficheros desde un servidor
+Windows a otro servidor. Para ello se ha generado un fichero con los mandatos fíp que
+se deben lanzar para dicha transferencia, ¿cuál sería el comando para ejecutar dicha
+transferencia automatizada?
+
+A) ftp -s:NOMBRE_FICHERO_MANDATOS NOMBRE_HOST_DESTINO '
+B) ftp NOMBRE_HOST_DESTINO < NOMBRE_FICHERO_MANDATOS
+
+C) ftp v:NOMBRE_FICHERO_MANDATOS NOMBRE_HOST_DESTINO
+
+D) No existe dicha opción.
+
+82) ¿Con qué opción del comando route de Windows NT se establecen rutas permanentes
+
+para todos los inicios del sistema?
+A) £
+B) -p
+C) -s
+D) No existe dicha opción. "700 cc
+83) ¿Es posible que exista más de un controlador de dominio dentro de un mismo dominio
+Windows 2000/2003?
+A) En ningún caso. o
+B) Sólo en el caso de operar con más de 50 usuarios.
+C) Sí. :
+D) Sólo si el controlador de dominio principal realiza alguna otra función servidor adicional.
+84) En un sistema operativo tipo UNIX y LINUX el “pid” es:
+A) Un número que identifica al sistema de ficheros concreto que se está utilizando.
+B) Un número que indica la prioridad de cada proceso.
+C) Un número que indica el tiempo estimado de ejecución de cada proceso.
+D) Un número que identifica a cada proceso.
+85) ¿Cuál es la utilidad del comando far en Sistemas Linux?
+A) Visualizar las conexiones de red.
+B) Realizar operaciones aritméticas.
+C) Visualizar archivos bajo linea de comandos.
+D) Empaquetar y desempaquetar ficheros.
+86) ¿Cuál es la ruta completa del fichero HOSTS en los sistemas operativos Windows?
+A) %systemroot%IiSystem32
+B) %systemroot%iSystem32Wrivers
+C) %systemroot%iSystem32Wriversletc
+D) %systemroot%iSystem32letc
+14
+
+87) ¿Cuál de los siguientes sistemas RAID utiliza un disco duro exclusivo para paridad?
+A) RAID 1.
+B) RAID 3.
+C) RAID 5.
+D) RAID 6.
+88) ¿Qué herramienta se utiliza en Windows XP para administrar las políticas de grupo
+locales?
+A) dfrg.msc
+B) perfmon.msc
+C) services.msc
+D) gpedit.msc
+89) En UNIX, ¿cuál de los siguientes procesos es un “demonio” del sistema?
+A) churn.
+B) getty.
+C) livem.
+D) gpath.
+90) ¿Qué comando utilizaría para mostrar, establecer o quitar variables de entorno
+dentro de un sistema Windows 2000?
+A) El comando set.
+B) El comando env.
+C) El comando set seguido del comando export.
+D) El nombre de la variable seguida del comando export.
+
+91) Supongamos que se está traspasando un fichero comprimido a un servidor mediante
+un cliente de ftp, ¿cuál de las siguientes opciones del cliente de transferencia sería la
+más adecuada suponiendo que el fichero se ha comprimido usando la utilidad gzip?
+
+A) binary.
+B) ascii.
+C) segmented.
+D) compress.
+92) En esencia, un sistema operativo actúa de intermediario entre:
+A) El hardware y los programas de usuario.
+B) El hardware y los microprogramas.
+C) El lenguaje máquina y los microprogramas.
+D) El hardware y el lenguaje máquina.
+15
+
+93) En UNIX o compatibles, la parte del sistema operativo que interactúa con el usuario,
+aceptando comandos, interpretando los procedimientos, etc, se denomina
+genéricamente:
+
+A) Kernel.
+
+B) Interfaz de usuario.
+
+C) Shell.
+
+D) Motif.
+
+94) ¿Cuál es el fichero donde se almacenan los usuarios en un sistema UNIX?
+
+A) SAM.
+
+B) system.
+
+C) passwd.
+
+D) users.
+
+95) ¿Cuál es el separador de directorios dentro de la variable de entorno PATH en el
+
+sistema operativo Windows?
+A) El carácter de espaciado.
+B) El carácter “:”
+C) El carácter “;” A
+D) El carácter “|”
+96) Ejecutar el comando net start en una shell de Windows 2000 tiene como resultado:
+A) La inicialización de los servicios de red.
+B) La obtención de la lista de los servicios que están actualmente en ejecución.
+C) La obtención de los valores actuales de la configuración de la red TCP/IP.
+D) Si se utiliza sin parámetros, muestra la dirección IP, máscara de subred y puerta de enlace
+predeterminada de todos los adaptadores arrancados.
+97) ¿Qué operación realiza el comando ps en entornos Linux?
+A) Lista los procesos que está ejecutando el sistema.
+B) Lista los servicios que se ejecutan en el servidor.
+C) Lista los archivos y directorios de la ruta donde se ejecuta.
+D) Lista los puertos con conexión.
+98) El Registro de Instrucción de la Unidad de Control contiene:
+A) El número de identificación de la BIOS del ordenador.
+B) El código de operación del conjunto de instrucciones del programa.
+C) El código de operación de la instrucción a ejecutar.
+D) La instrucción a ejecutar escrita en un lenguaje de programación de alto nivel.
+16
+
+99) De las siguientes opciones, ¿cuál nos daría la posibilidad de arrancar por defecto desde
+el disco 2 partición primaria 1, dentro del fichero BOOT.INI de Windows XP, en un
+disco duro para controladoras ATA?
+
+A) multi(0)disk(0)rdisk(0)partition(1).
+B) default=multi(0)disk(0)rdisk(0)partition(3YAWINDOWS.
+C) default=multi(O)disk(O)rdisk(1)partition(1 WINDOWS.
+D) default=multi(0)disk(0)rdisk(2)partition(1 WINDOWS.
+100) ¿Cuál es el método de comprobación del servicio de DNS en Windows 20007?
+A) Mediante la utilidad netstat.
+B) Mediante la consola de gestión de usuarios y equipos del Directorio Activo.
+C) Mediante la utilidad nslookup.
+D) Mediante el Administrador de DHCP.
+
+101) En relación con la LOPD, ¿cuál de las respuestas no corresponde a alguna de las
+informaciones que deben indicar ias disposiciones de creación o de modificación de
+ficheros de titularidad pública?
+
+A) La finalidad del fichero y los usos previstos para el mismo.
+B) El procedimiento de recogida de los datos de carácter personal.
+C) La consideración de fichero especialmente protegido por la ley.
+E D) Las medidas de seguridad con indicación del nivel básico, medio o alto exigible.
+
+102) Respecto a los algoritmos de encriptación de clave simétrica, señale la respuesta
+incorrecta:
+
+A) El mayor problema se encuentra en la distribución de la clave simétrica por un canal
+inseguro.
+
+B) Son más simples y rápidos que los algoritmos asimétricos.
+
+C) La clave simétrica se adjunta encriptada junto con el mensaje, lo que permite desencriptar
+el mensaje.
+
+D) El emisor y el receptor deben disponer de la misma clave para encriptar/desencriptar los
+mensajes.
+
+103) Los sistemas de cifrado asimétrico precisan de la existencia de:
+
+A) Una clave pública y una clave privada.
+
+B)  Unprotocolo SET.
+
+C) El uso de la técnica SSL.
+
+D) Una tarjeta inteligente.
+
+104) En relación con la LOPD, ¿cómo se denomina al derecho o facultad que se reconoce
+al afectado para recabar información gratuita sobre sus datos de carácter personal, ya
+estén incluidos o vayan a ser tratados?
+
+A) Derecho de información.
+B) Derecho de acceso.
+C) Derecho de consulta al Registro General de Protección de Datos.
+D) Derecho de cancelación.
+17
+
+105) ¿Qué es el SSL?
+A) Un sistema de archivos encriptado.
+B) Un sistema de pago electrónico seguro.
+C) Un protocolo de transferencia de datos de manera segura.
+D) Un algoritmo de encriptación de datos. '
+106) Según la norma ISO 17799:2000, el proceso de evaluación de las amenazas, impactos
+y vulnerabilidades de la información y de los medios de tratamiento de la información
+y de su probable ocurrencia se denomina:
+A) Evaluación del Riesgo.
+B) Gestión del Riesgo.
+C) Control y monitorización del Riesgo.
+D) Mitigación del Riesgo.
+107) ¿A qué denominamos rootkit?
+A) A una utilidad de gestión de seguridad.
+B) A una aplicación maliciosa.
+C) A un hacker que desarrolla exploits.
+D) A un entorno de desarrollo securizado. ES
+108) ¿Cuál de las siguientes respuestas no es un objetivo de ITIL?
+A) Aumentar la eficiencia.
+B) Proporcionar una buena gestión de la calidad.
+C) Generar negocio.
+D) Definir una normativa de obligado cumplimiento para los servicios de TL.
+109) ¿Qué es el phising?
+A) Una técnica que busca apropiarse de información privada del usuario.
+B) Una técnica de protección de la información personal electrónica.
+C) Una técnica para securizar la web.
+D) Una utilidad para securizar la web.
+110) ¿Qué es un IDS?
+A) Un ordenador que gestiona el correo de una empresa.
+B) Un sistema que analiza el tráfico de la red para detectar posibles ataques.
+C) Un protocolo de envío de ficheros.
+D) Un algoritmo de encriptación de alto nivel.
+18

@@ -1,0 +1,66 @@
+] PROVISIÓN DE VACANTES 1/2010 ]
+CATEGORÍA LABORAL: INGENIERO TÉCNIC 0 TELECOMUNICACIÓN
+19 DE JUNIO DE 201:)
+2" PARTE: SUPUESTO PRÁCTICO
+CASO: REDES
+Se desea diseñar un sistema para unir entornos de producción de radio y te >visión que
+permitirá transmitir:
+- Audio y vídeo en directo para contribución.
+- — Ficheros de audio y vídeo para intercambio entre sistemas de product ión.
+- Acceso remoto seguro desde Internet.
+Ciudad 2 ” Cuudad 1 DS
+<1 Gh. ph —_—
+RA A sb] 16b. O
+[ ma Aste. na
+Cora iratino
+(0 = - 1Gb.
+Ciudad $ dif. A Edif. B 7
+y y 71 Gh, |
+inem >
+o | | .
+Estará formado por dos edificios centrales con una red troncal redunc ante de 4  '
+conmutadores con capacidad de enrutamiento. Para la interconexión disp.me de las
+siguientes vías de comunicación:
+- 2 enlaces de 1 Gb. Ethernet entre los edificios.
+- 2 enlaces de 1 Gb. ethernet a otra red corporativa.
+- Red en estrella con enlaces menores a 1 Gb. Eth=rnet a otras ciudade .
+
+1.- (30 puntos) Realice un diagrama de conexionado entre los 4 equipos trancales y el
+sistema corporativo explicando brevemente interconexiones y protocolos qu2 emplearía
+con objeto de conseguir:
+e Mayor aprovechamiento posible de los 4 enl:1ces de 1 Gb.
++ Mayor redundancia posible de enlaces y equipos.
+Nota: Podemos gestionar los equipos troncales de la marca Cisco con ce: pacidad de
+conmutación y enrutamiento avanzado, pero no los del otro sistema cor) rativo con
+segmentos de direcciones de red IP diferentes al gestionado.
+Cial E Eat
+[ñ]...0a).../e
+1 nn Sivirma
+—S : SS Derpcrátivo
+Citas + | Cuatysí
+| Cal lo
+] Edif. A Edif
+2.- (20 puntos) Realice el diagrama de bloques que considere óptimo para el sistema de
+acceso remoto seguro desde Internet, describiendo brevemente los elementos necesarios -
+para permitir tres tipos de conexiones:
+e Audio y vídeo en directo.
+e Descarga y envío de ficheros de audio y vídeo para empresas ajenas.
+e Acceso controlado y seguro a las redes de producción.
+Luny y
+item >»
+
+3.- (10 puntos) La conexión entre los nodos centrales y otras ciudades se 1 >alizará con
+multiplexores que permitirán crear canales individuales con bitrate fi j>. Describa
+brevemente cómo se transmite audio y video en directo: diferencia 3, ventajas,
+inconvenientes, técnicas y protocolos necesarios para estos tipos de conexio: es:
+
+e Entradas y salidas de audio AES sin comprimir.
+
+e Entradas y salidas de vídeo ASI comprimido.
+
+e Conexiones de datos ethernet.
+
+Carfzd 2 Ludad 1
+| <t Gh, 17
+ULA Ef
+216,

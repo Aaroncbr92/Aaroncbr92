@@ -1,0 +1,735 @@
+Pre ] s .
+CONVOCATORIA GENERAL 1/1.999.
+- PROGRAMA DEL EXAMEN TEÓRICO - .
+Categoría: Oficial Operación y Montaje.
+
+| El programa es común para todos los destinos convocados de esta categoría. |
+
+l.- CONOCIMIENTOS BÁSICOS EN MATEMÁTICAS: Logaritmos. Representación de |
+Funciones. Potenciación. La circunferencia. Medidas de ángulos. Operaciones con |
+
+| ángulos. Trigonometría básica. Razones trigonométricas.
+
+2.- CONOCIMIENTOS BÁSICOS DE FÍSICA: Magnitudes y unidades físicas. Notación |
+vectorial. Álgebra de vectores. Cinemática. Movimiento rectilíneo. Movimiento circular.
+Principios fundamentales de la dinámica. Movimiento ondulatorio: longitudinal y > |
+transversal. |
+
+3.- ELECTRICIDAD: Corriente continua. Ley de Ohm. Leyes de Kirchoff. Resistencias, :
+condensadores y bobinas. Asociación de resistencias. Pila. Batería. Amperimetro.
+Voltímetro. Corriente alterna. Valores medios y eficaces. Representación vectorial de la
+corriente alterna. Relación de fases. Impedancia. Reactancia. Conceptos básicos de
+magnetismo y electromagnetismo.
+
+4.- ELECTRÓNICA: Tubos de rayos catódicos y CCD. Conceptos básicos de modulación de
+
+| amplitud. Conceptos básicos de modulación de frecuencia. Conceptos de técnica digital:
+| circuitos básicos. Sistema de numeración. Nociones básicas de microprocesadores.
+Conversión analógico-digital. o.
+
+S.- SONIDO: Propagación del sonido. Cualidades del sonido. La voz y el oído humano:
+
+psicoacústica. Medida y control de la señal de audio. El Decibelio. Filtros y Ecualización. 2
+-— Distorsiones acústicas. Sonido TV: estereofonía. Audio digital. Reducción de ruido:
+. analógico y digital. Normas y Formatos. Normas de compresión.
+
+6.- COLORIMETRÍA Y ÓPTICA: Naturaleza de la luz. Concepto fotométrico. Unidades.
+Caracteristicas de la visión humana. Tricromía. Leyes de Grassman. Triángulo
+internacional de color. Reflexión y refracción de la luz. Tipos de lentes.
+
+7.- TELEVISIÓN: Análisis y síntesis de la imagen de televisión. Barrido, entrelazado. La
+señal de televisión en color. Parámetros y tolerancias de la señal de televisión en color.
+Elección de la frecuencia subportadora de color. Codificación PAL. Modulación en
+
+cuadratura con portadora suprimida. Impulsos y nomenclatura. Generador de
+, “ sincronismos PAL. Ancho de banda de la señal de televisión. Barras UER. Lineas test,
+Distorsiones de la señal de vídeo. La señal de vídeo digital: normas y formatos. |
+o Conceptos básicos de los medios técnicos utilizados en televisión: cámaras, mezcladores ]
+de vídeo, telecines, kinescopio, magnetoscopio, mezclador de audio, micrófonos,
+generadores de efectos digitales, etc. Conceptos básicos de NTSC y SECAM.
+
+8.- EQUIPOS DE MEDIDA Y CONTROL: Medidor de fase estereofónica, vúmetro y |
+picómetro. Calibración de equipos: monitor forma de onda y vectorscopio. Operación del
+monitor forma de onda y vectorscopio.
+
+-1-
+a Ml : ES - - : a 4
+
+9.- GRABACIÓN MAGNÉTICA: Fundamentos de la grabación magnética. Grabación
+
+magnética de la señal de vídeo analógico: compuesto y componentes. Grabación digital de o
+
+vídeo: en cinta y en disco duro. o
+
+10- MAGNETOSCOPIOS: Formatos profesionales, semiprofesionales y domésticos. ós
+
+Betacam SP: generalidades y diagrama de bloques, recorrido de la señal de vídeo en a
+
+grabación y reproducción, señales de entrada y salida, sincronización, corrector de la base a
+
+de tiempos, sistema de servomecanismos, velocidades de reproducción, reproducción y E
+
+grabación de la señal de audio. Modos de edición. Cuidado y limpieza de cintas y cabezas ES
+
+de video. Código de tiempo. Color framing. 3
+
+11.- EDICIÓN: Edición lineal y no lineal. Efectos y transiciones. E
+12- TEORÍA DEL MONTAJE: Conceptos básicos del montaje. La composición audiovisual.
+
+| |
+
+| |
+
+. !
+
+;
+
+|
+
+|
+
+|
+
+uN |
+
+NOTA: El examen será tipo test y constará de 100 preguntas con cuatro posibles respuestas, una de ellas será cierta
+
+- y las otras falsas. La respuesta acertada valdrá 1 punto, la incorrecta — 0,50 y la que se deje en blanco, 0 |
+
+puntos. Igualmente se otorgará O puntos cuando en una misma pregunta se proponga por el candidato más |
+
+de una respuesta posible.
+
+Ñ
+
+. Ñ - 2 - Ñ |
+
+.- ZE
+- O_>
+(Ey rrve |
+RadioTelevisión Española
+. z E : , . ¡
+CONVOCATORIA GENERAL 1/99 | |
+OFICIAL OPERACION Y MONTAJE |
+1?.- La ecuación (x*/4)- (y? /1)=1 corresponde a:
+A) Parábola.
+B) Elipse.
+SS Hipérbola. —
+) Recta. A, a |
+2?.- ¿Cuánto vale Log, 107. |
+A) O. o
+B) 1.
+Se.
+Ninguna de las respuestas anteriores es correcta. |
+3*.. Dados dos ángulos a y b, decidir cuál de estas relaciones trigonométricas no es cierta:
+A) cos (a+b) - cos (a-b) = -2 sen(a) sen (b).
+B) sen (a+b) + sen (a-b) = 2 sen(a) cos (b).
+C) cos (a+b) + cos (a-b) = 2cos(a ) cos(b).
+(0) sen (a+b) - sen (a-b) = -2 sen (b) cos (a). |
+4?.- Si suponemos que la aceleración de la gravedad es de 10m/s? ¿Desde qué altura se tiró un cuerpo si |
+tardó 2 segundos en llegar al suelo?.
+A) 15m. | o o
+B) 10m. o o |
+C) 5m. |
+D) 20m.
+5?.- Cuanto vale el módulo del vector de la figura. |
+A)v=x+ y o NA | |
+B)v=vVx+y Xx |
+(o) v= Vx + l |
+D) v =V(x+ y) |
+6?.- El producto vectorial de dos vectores es:
+A) Una operación conmutativa y el resultado un escalar. d (
+B) Una operación no conmutativa y el resultado un escalar.
+C) Una operación conmutativa y el resultado un vector.
+0 Una operación no conmutativa y el resultado un vector.
+l
+
+j |
+7*.- En una red de resistencias paralelo, ¿cómo es la resultante?. a o |
+|
+1
+(A) menor que la menor. |
+B) mayor que la menor. |
+C) mayor que la mayor. |
+D) Ninguna de las anteriores. :
+|
+8?.- Si a un condensador se le aplica una corriente constante en el tiempo, su tensión será: |
+A) Constante en el tiempo. |
+B) Decreciente.
+C) Nula.
+Creciente según una recta. |
+9*.- ¿Cuál sería el valor de la potencia en el punto A?.
+A) 20 dB. 104B e |
+o) 508. | a
+13dB. 10dB l
+) 16 dB.. :
+10?.- La modulación por impulsos codificados PCM es: |
+A) Una modulación analógica continua. o o a o ON | |
+8) Una modulación analógica por impulsos. Ñ o ae mt
+(C) Una modulación no analógica por impulsos. |
+) Una modulación lineal. 208 o pá E
+41?.- En una modulación de FM, ¿cómo es la amplitud de la portadora?. :
+A) Varía con el ritmo de la moduladora.
+B) Varía según los armónicos de la moduladora. |
+*(C) Es constante. o |
+) Una modulación FM no necesita portadora. !
+C |
+42?.- El circuito de la figura es:
+A) Filtro paso banda. t :
+B) Filtro paso bajo de 1* orden. Ey 7 y
+C) Filtro paso bajo de 2* orden. f L
+-(D) Filtro paso alto de 2* orden. á
+13*.- ¿A que puerta lógica pertenece esta tabla de la verdad?.  : o
+ENTRADA A ENTRADA B SALIDA C
+A) AND AO] |
+B) OR AA Y
+“(E) NAND OA] |
+D)INVERSOR A AS] o
+| | y
+|
+|
+|
+
+44?2.- El numero 2A6, sistema hexadecimal, equivale en el sistema binario a: ]
+A) 001111100011.
+8) 101111111100.
+C) 101100101111.
+(DB) 001010100110, 0
+153.- Si se dice que un sonido está una octava más alto que otro, ¿qué significa?. |
+A) Que su frecuencia es 8 veces más alta. :
+B) Que su intensidad es 8 veces mayor. |
+“(C) Que su frecuencia es el doble.
+) Que su intensidad es el doble. : |
+16?.- La velocidad del sonido en el aire a 0* centígrados de temperatura es de: |
+O 331 mís. | |
+) 340 m/s. . |
+C) 250 m/s. |
+D) 430 m/s. o
+47?.- A la curvatura o rodeo de las ondas alrededor de un obstáculo se le denomina: |
+0 Difracción. |
+-  B) Refracción. e |
+C) Reflexión. |
+D) Eco. | | |
+18?.- Se ha acordado internacionalmente como banda pasante del oído humano, las frecuencias
+comprendidas entre 20 Hz y 20.000 Hz. ¿Cuál es la señal audible de mayor período?.
+A) La de 20.000 Hz. o
+La de 20 Hz. o
+) Todas tienen el mismo período. |
+D) La de menor longitud de onda. o Ñ : : |
+19?.- ¿Cuál es la frecuencia de muestreo en la norma NICAM 7287.
+-(A) 32 Khz. i
+B) 48 Khz.
+C) 44,1 Khz. |
+D) 28 Khz. |
+20*.- En el sistema NICAM 728, el QPSK. |
+A) Es un método de compresión-expansión de señales de audio.
+-(B) Es un método para modular datos digitales sobre una portadora, cambiando su fase en pasos de 90*.
+C) Consiste en la transmisión de dos canales de sonido más el canal monofónico en FM.
+D) Ese sistema no existe. :
+|
+| |
+
+21?.- ¿Qué parte del oído humano actúa como analizador de frecuencia?. E
+A) El canal auditivo. .
+B) La ventana oval.
+C) El nervio acústico. : :
+(6) La membrana basilar.
+22*.- ¿A qué frecuencias es más eficiente la transmisión del sonido a través del oído medio?.
+Q De 500 Hz a 4.000 Hz.
+) De 60 Hz a 16.000 Hz. ES A :
+C) De 1.200 Hz a 3.200 Hz. :
+D) Ninguna de estas respuestas es correcta. :
+23?.- ¿Cuál es el flujo binario (bit rate) para la norma AES-EBU de audio?.
+o 3,072 Mbits / s. | e
+) 728 Kbits / s.
+C) 48 Khz.
+D) 270 Mbits / s.
+24?.- A los colores cromáticamente equivalentes a uno monocromático dado se les designa:
+0, Colores metámeros.
+) Colores equivalentes.
+C) Colores cromáticos. : . Ñ
+D) Colores trivariantes. |
+25*?.- La imagen que se forman en la retina, es: |
+(A) Real-invertida. | | i
+Real-derecha.
+C) Virtual-invertida.
+D) Virtual-derecha.
+26*.- El color pardo no aparece en el diagrama de cromaticidad porque es una impresión coloreada que ¡
+recibe el ojo al visualizar: |
+o el color amarillo-naranja. |
+) el color rojo-azul.
+C) el color azul-verde.
+D) el color naranja-verde.
+27*.- En el diagrama de cromaticidad el color C1, ¿qué tono tendría?. |
+A) Amarillo. |
+Púrpura. :
+) Azul. :
+D) Naranja.
+28*.- ¿Cómo varía la iluminación en función de la distancia?. i
+A) Inversamente proporcional a la distancia. o | , |
+6 inversamente proporcional al cuadrado de la distancia.
+) Directamente proporcional al cuadrado de la distancia. |
+D) Es constante. |
+o 4 |
+
+29?.- A un objetivo cuya distancia focal es unas 2/3 partes de la longitud de la diagonal del negativo, le |
+corresponde una profundidad de campo: |
+$ Grande.
+) Pequeña.
+C) No tiene profundidad de campo. V
+D) No tiene relación la distancia focal con la profundidad de campo. |
+30?.- ¿Cómo se denomina la parte de la línea que contiene la información de vídeo?. |
+A) Duración de la línea. " |
+Periodo activo de línea.
+) Duración del sincronismo de línea. .
+D) Duración de la salva o burst.
+312.- La resolución horizontal en.un sistema de televisión de qué depende: :
+A) Numero de líneas activas.
+Ancho de banda.
+) Factor de KELL.
+D) Velocidad de exploración de la imagen.
+32*.- Con el impulso 20 T se puede medir:
+A) Fase diferencial y ganancia diferencial.
+B) Respuesta en frecuencia y respuesta impulsiva.
+LO) Ganancia de crominancia/luminancia y desigualdad de retardo crominancia/luminancia. a
+D) Distorsión de la forma de la onda de una señal de muy corta duración.
+33*.- Al modular las señales B-Y y R-Y, si no hay coeficientes ponderadores, la sobremodulación ¿a qué |
+podría afectar?.
+o) Al sincronismo horizontal. |
+) Al sincronismo vertical.
+C) A la salva o burst.
+D) A la duración de una línea.
+| |
+34?.- ¿A qué afecta el recorte de la banda lateral superior de la crominancia en el sistema PAL?. ' “' |
+A) A toda la crominancia. |
+B) A la luminancia. |
+Q A los detalles finos y transiciones bruscas de color.
+) A grandes zonas del mismo color.
+351.- ¿Para qué sirven los coeficientes ponderadores?.
+0 Para evitar la sobremodulación de la crominancia, |
+) Para disminuir el ancho de banda. E |
+C) Para disminuir la frecuencia de datos. |
+D) Para aprovechar todo el margen dinámico de la señal de vídeo compuesto. r” |
+
+36*.- ¿Cuándo empieza el impulso de borrado vertical?. e e a |
+A) Conjuntamente con el primer impulso de sincronismo vertical.
+B) 2 líneas antes del primer impulso de sincronismo vertical. e
+Q 2 líneas y media antes del primer impulso de sincronismo vertical,
+) Después de los cinco impulsos preigualadores. 0.
+37*.- En el sistema PAL (según norma CCIR) el ángulo de la fase de la salva con respecto al eje B-Y en el |
+campo 1 de una secuencia de 4 campos, tiene el valor de : -
+A) 45" en las líneas pares y 45” en las líneas impares. >) y o |
+B) 90" en las líneas pares y 270* en las líneas impares. E .
+o 1351 en las líneas impares y 225" en las líneas pares. 8
+) 180% en las líneas pares y -180" en las líneas impares.
+38?.- ¿Cuál es el valor de la frecuencia del impulso de conmutación PAL*“P”2, ir by |
+A) 15.625 Hz. c
+Ñ B) 31.250 Hz.
+O 7.812,5 Hz.
+) 15.750 Hz. . ml
+39* . Para un sistema de radiodifusión terrestre, en un receptor de televisión, ¿hasta qué tanto por ciento |
+se debe atenuar la portadora de la frecuencia intermedia de sonido, respecto de la portadora de
+frecuencia intermedia de vídeo?. |
+A) 20 por ciento. . o .
+B) 15 por ciento.
+¡O 5 por ciento.
+) 10 por ciento.
+40*.- ¿Cuál es la frecuencia de muestreo en los formatos de vídeo digital D2 y D3 para el sistema PAL?.
+A) 13,5 Mhz. : |
+*(8) 17,73 Mhz.
+C) 14,32 Mhz.
+D) 20 Mhz.
+|
+41*.- La frecuencia de muestreo de luminancia en la norma 4:2:2 de televisión digital, es: -: =- |
+A) 6 veces el máximo común divisor de 15.734,26Hz y 15.625 Hz.
+B) 2,25 veces el máximo común divisor de 15.734,26Hz y 15.625 Hz.
+) 2,25 veces el mínimo común múltiplo de 15.734,26Hz y 15.625 Hz.
+(0) 6 veces el mínimo común múltiplo de 15.734,26Hz y 15.625 Hz.
+42? - ¿Qué formatos de video utilizan el muestreo de la señal a 4 veces la frecuencia de la subportadora
+de color?. l
+(A) D3 y D2. o |
+B) D1 y D2.
+C) D1, D2 y D3. .. ,
+D) DS y Dl.
+o 6
+
+43?.- En un codificador PAL. 7
+A) El impulso K da una orden de conmutación al modulador balanceado. : |
+B) No son necesarias las lineas de retardo debido a la alternancia PAL.
+El impulso P posiciona la salva dentro del borrado horizontal.
+Ninguna de las respuestas anteriores es correcta. ,
+44?.- ¿Cuál es la duración total del impulso de sincronismo vertical?.
+A) 28,4 ys. |
+B) 4,7 ys. Ñ
+C) 64 us. o
+(0) Ninguna de las respuestas es correcta. :
+45*.- ¿Cuál es la tolerancia en ciclos de la salva de color?.
++1. ?
+B) +2. , .
+C) + 10.
+D) Ninguna de las respuestas anteriores. o o
+46?.- ¿Qué función tienen las hendiduras de 4.7 microsegundos de duración durante el impulso de
+sincronismo vertical?.
+A).Para facilitar el entrelazado entre los campos. :
+B) Para mantener referenciado el oscilador de sincronismo vertical.
+O Para mantener referenciado el oscilador de sincronismo horizontal. :
+) Ninguna de las respuestas anteriores.
+47.- En el sistema PAL si hubiera un error de fase al transmitir el vector de crominancia, esto se |
+traduciría en:
+A) Un error de matiz. o
+6) Una pérdida de saturación.
+) Una variación del tono y la saturación. :
+D) Se recuperaría perfectamente el tono y la saturación originales.
+48?.- En el sistema PAL de televisión en color, la señal P que conmuta la señal que ataca al modulador V, |
+ha de estar presente en:
+A) El codificador. nm
+B) El decodificador. E
+Q En los dos anteriores. — »
+) En ninguno de ellos. — *
+|
+-— 49*.- La ganancia diferencial y la fase diferencial son: | |
+A) Distorsiones lineales.
+B) Parámetros lineales. |
+Q Distorsiones no lineales. .
+) Distorsiones lineales en las líneas impares y distorsiones no lineales en las líneas pares. |
+7
+
+50?.- Una mala respuesta en régimen transitorio de un circuito, puede:
+A) Dar lugar a una distorsión que se puede medir mediante el impulso 20 T. o
+B) Dar lugar a una desigualdad en el tiempo de transmisión entre la luminancia y la crominancia.
+C) Dar lugar a una distorsión no lineal transitoria.
+(0) Ninguna de las respuestas anteriores es correcta.
+51*.- La resolución vertical de un sistema de televisión monocromático, ¿de qué depende?. _ e
+A) De la frecuencia de la red. : |
+B) Del número de campos. |
+(C) Del número de líneas activas. i
+D) Ninguna de las anteriores. '
+52?.- ¿Cuál es la desviación de frecuencia máxima de sonido modulado en FM, de un canal normalizado
+CCIR B,G?. |
+= oa /
+6) 50 Khz.
+) 75 Khz.
+C) 20 Khz. ]
+D) No admite desviaciones porque puede interferir en la señal de vídeo. o o
+53*.- ¿Cuál es la duración de cada una de las barras de color?.
+Dos ys. > ÓN |
+B)8 us. . a OS
+C) 52 us.
+D) 64 us.
+54?.- ¿Cuántos niveles de cuantificación por muestra existen en la norma 4:2:2?. A
+xD) 256 niveles. > |
+B) 16 niveles.
+C) 1.024 niveles. o
+D) 10 niveles.
+55*.- ¿Cuál es la duración de la línea activa en la norma 4:2:2 ? a
+A) 52 ys. | |
+B) 64 ys. |
+C) 63,55 ys. o |
+-(0) 53,3us.. ]
+56?.- Los pasos que se requieren sucesivamente para digitalizar una señal de vídeo analógica son: |
+(BD) Muestreo, cuantificación y codificación. | |
+B) Muestreo, codificación y cuantificación. Ss e |
+C) Codificación, muestreo y cuantificación. l
+D) Codificación, cuantificación y muestreo. .
+|
+| 8 |
+: :
+
+572.- En la norma 4:4:4:4 ¿qué frecuencia de muestreo tiene la señal llave (KEY)?.
+|
+e 13,5 MHz.
+) 25 MHZ. |
+C) 27 MHz. :
+D) 4,43 MHz.
+58?.- ¿Qué norma de muestreo utiliza el formato DVCAM?. |
+o) 4:2:0.
+)4:1.1. .
+C) 2:2:1.
+D) 2:1:1.
+59*.- En el proceso de cuantificación: poc tia
+A) El ruido de cuantificación depende de la frecuencia de muestreo.
+B) Se considera aceptable para la señal de vídeo una relación señal-ruido de 20dB. |
+La relación señal-ruido depende del número de bits empleados en la codificación.
+) El valor eficaz del ruido de cuantificación es Ser = q/2 donde q es el valor de un nivel de cuantificación. a
+|
+60*.- En un proceso de conversión A/D-D/A, para recuperar la señal original con la mínima distorsión y |
+ambiguedad: —' |
+A) La frecuencia de muestreo debe ser dos veces la frecuencia máxima presente en la señal analógica .. |
+muestreada. |
+O La frecuencia máxima debe ser estrictamente menor que la mitad de la frecuencia de muestreo. o
+) Ha de utilizarse un filtro paso bajo que no permita pasar las frecuencias de la banda lateral inferior.
+D) Ninguna de las respuestas anteriores es correcta. :
+61?.- El aparato que permite realizar la transferencia de vídeo a cine se denomina:
+: |
+A) Telecine. |
+B) Moviola. |
+9 Kinescopio. :
+) Videocine. nta |
+62*.- El sistema de exploración de punto volante pertenece a: |
+A) Un magnetoscopio. 2 o o l - |
+8) Una paleta gráfica.
+E)Un telecine. |
+Un video-disco. |
+63?.- La fidelidad de un micrófono viene dada por:
+a Su curva de respuesta con la frecuencia. | |
+) Su respuesta en función del ángulo de incidencia de la onda sonora.
+C) Su gradiente de presión. : |
+-D) Su respuesta a 1 KHz. |
+64?.- En un vectorscopio ¿qué parámetro se conoce mediante la amplitud del vector?. |
+e | |
+A) Tono.
+B) Fase.
+Saturación. :
+) Ninguna de las anteriores.
+9
+
+* : - v |
+65?.- ¿Cuál es la medida angular de la barra amarilla en un vectorscopio?. > o
+A) 103". o
+B) 135". E
+- 167%. .
+y 241%.
+66?.- Para mantener un óptimo margen dinámico de una señal de audio que entra en el mezclador, ¿qué
+debemos modificar en el canal de audio?.
+A) Ecualizador.
+B) Fader del canal,
+C) Panorámico. :
+XD) Amplificador de entrada del canal.
+67*.- Cuando observamos en el monitor de forma de onda que en la línea 18 (CCIR) existe una atenuación
+en los últimos paquetes de información, decimos que sufre una distorsión en: .
+A) Bajas frecuencias. |
+B) Medias frecuencias.
+O) Altas frecuencias.
+D) En la frecuencia de la subportadora de color. o
+68*.- Una carga recibe la máxima potencia cuando: | ¿>
+a Su impedancia es igual a la impedancia de salida del circuito al que está conectada. |
+) Su impedancia es igual al cuadrado de la impedancia de salida del circuito al que está conectada. :
+C) Cuanto mayor es su impedancia.
+D) Sólo depende de la amplitud de la señal que recibe.
+69?.- Para hacer un ajuste de la fase horizontal entre dos equipos de televisión, se toma como referencia:
+A) El comienzo del período activo de línea. .
+B) El centro del pulso de sincronismo horizontal. o o
+C) La mitad del flanco de subida del sincronismo horizontal.
+xD) La mitad del flanco de bajada del sincronismo horizontal.
+¿ : " . y
+70*.- Después de ajustar a cero V.U. con un tono de referencia los dos canales de un sonido estéreo; se
+quiere hacer ú4na mezcla en mono. Para que la mezcla resultante quede ajustada a cero V.U.: Ú
+A) No es necesario atenuar ninguno de los dos canales, porque en estéreo los canales tienen diferente fase y: no
+se suman. 4,
+- (8) Atenuar 6 V.U. cada canal, ÁA
+C) Atenuar 12 V.U. cada canal. )
+D) Amplificar $ V.U. cada canal. Leo
+71?.- ¿Cuál es la variación de tensión inducida por octava que produce una cabeza de vídeo?.
+"OD 6 dB. o
+B) 5 dB. ,
+C) 12 dB.
+D)3dB. .
+
+2]
+
+R | |
+72*.- La señal PLUGE sirve para:
+
+A) Ajustar el vectorscopio.
+
+B) Ajustar el matiz de color en NTSC. |
+E) Calibrar los monitores de vídeo. SN
+
+) Calibrar el monitor de forma de onda. |
+73*.- Si tenemos dos señales senoidales de la misma amplitud y la misma frecuencia desfasadas 180" al |
+sumarlas: |
+A) La señal resultante tendrá el doble de amplitud de una de ellas. |
+
+(B) Se anulan una a otra. :
+
+) La mitad de la amplitud de una de ellas. ? i
+D) La misma amplitud que una de ellas, pero la mitad de frecuencia. |
+74?.- La facilidad para magnetizar un cuerpo en la dirección de uno de los ejes de su formación cristalina |
+se denomina: |
+A) Azimut. o |
+B) Remanencia alta.
+C) Remanencia baja. |
+
+Anisotropía magnética. ES |
+75*.- Las pérdidas que se producen durante la grabación o reproducción de señales cuando el |
+entrehierro no está perfectamente alineado con la pista, se denominan:
+
+A) De Histérisis. |
+B) Corrientes de Foucault. sio o mos |
+
+Error azimutal. |
+
+) Desmagnetización espontánea. o
+76?.- ¿Cuál sería la anchura correcta del entrehierro en una cabeza de grabación magnética para grabar |
+señales de alta frecuencia siendo Ag: longitud de onda de grabación mínima y dh: ancho del |
+entrehierro?. i |
+A) dh = Ag. |
+dh < 1g/2. |
+
+) dh > Ag.
+D) Ninguna de las anteriores. |
+77?.- ¿Dónde se efectúa el cambio de fuente de vídeo en una conmutación al corte? |
+
+|
+
+Enel intervalo de borrado vertical. |
+
+En el intervalo de borrado horizontal. :
+C) Después del pórtico anterior.
+
+D) Indistintamente.
+78?.- ¿Cómo deben ser los valores Bs (saturación), Br (remanencia) y He (coercitividad), en la curva de
+histéresis de una cabeza de grabación?. Ñ
+. |
+A) Bajo, bajo, alto. : z
+B) Alto, alto, bajo. . :
+C) Bajo, alto, alto.
+0) Alto, bajo, bajo. | | a | o
+11
+
+| | 2)
+79*.- En el sistema SECAM el ancho de banda de la componente B-Y es de: a a i
+A) 0,5 MHz.
+8) 1 MHz.
+O 1,5 MHz.
+) 2 MHz. . -
+80*.- Un magnetoscopio en grabación normal (REC+PLAY) se referencia con: |
+¡O Una señal de referencia exterior no coherente con la señal de video que se está grabando.
+) Con la señal de vídeo de entrada. o e |
+C) Con las barras UER grabadas en la cinta.
+D) Con una señal de negro con salva de color de la cinta de grabación.
+81?.- ¿Qué se define como ventana en un corrector de base de tiempos (TBC)?.
+XA) Número de líneas de memoria que tiene para almacenar y corregir los errores de tiempo. %
+B) La pantalla o indicador que representa en un magnetoscopio el funcionamiento del dispositivo.
+C) La parte del TBC que nos permite ver la imagen en pantalla.
+D) El sistema de corrección del autocroma. l
+fo |
+82*.- El formato Betacam SP graba un impulso (flag) en el canal de B-Y:  -
+A) Para distinguirlo del R-Y. o
+Para distinguir el campo 1 del campo 5. +
+C) Para decodificar la señal multiplexada.
+D) No es cierto que grabe esta señal. |
+83*.- El TBC de un magnetoscopio debe activarse durante:
+O La reproducción. : |
+) La grabación.
+C) La reproducción y la grabación. E pais A DS
+D) Nunca se activa. ? l
++
+84?.- ¿Para qué se utiliza el DMC en un magnetoscopio Betacam-SP? -
+uo
+A) Para variar la crominancia. A
+O Para variar la velocidad de reproducción. 0%
+) Para grabar en componentes. Ca o ]
+D) Ninguna de las anteriores. >.
+85?.- El formato digital D1 utiliza cinta de: Ñ :
+A) 1 pulgada. Ñ
+O 3 /4 de pulgada. ns
+) 1/2 pulgada. o :
+D) 1 /4 de pulgada. o
+86?.- El código de tiempos LTC se graba: :
+A) En el intervalo de borrado horizontal.
+B) En el intervalo de borrado vertical, junto con el VITC. : .
+C) En la pista de control.
+—(Ó) En una pista de audio longitudinal.
+| 12 |
+|
+. |
+
+z |
+87?.- En vídeo compuesto para una secuencia de color framing de 8 campos, si al campo 1 le Ñ |
+corresponde una fase de SC-H de 0%, ¿qué fase le corresponde al campo 37. |
+A) 900. j | |
+B) 180". - |
+
+¡9 2700. ->
+
+No varía, todos los campos tienen la fase de 0. |
+88?.- En el formato Betacam-SP, ¿se puede grabar audio insertando exclusivamente vídeo?. |
+A) No. o
+B) Depende si se graba por componentes o vídeo compuesto.
+
+Sí. .
+
+9) Depende del sistema de televisión que se emplee. Po
+89?.- ¿Se puede sustituir la pista de control de una imagen ya grabada en Betacam-SP, sin perder dicha
+imagen?. j
+A) Si, en modo inserto. : o |
+B) Sí, codificando de nuevo la cinta. |
+C) Sí, cambiando el código de tiempo. o
+(0) Nunca.
+
+90?.- En el formato Betacam-SP, ¿qué diferencia de dinámica existe entre las pistas de audio
+longitudinales y las de AFM?.
+
+_ A) Ninguna diferencia.
+
+B) No tiene pistas AFM. - %
+10 dB.
+) 13 dB. :
+91?.- ¿Qué es el montaje paralelo?.
+- A) Montar simultáneamente en dos salas de edición.
+B) Montar con un editor y dos pantallas.
+
+SC) Montar dos acciones alternativamente.
+
+) Hacer dos montajes diferentes de la misma secuencia.
+
+92?.- Cuando la cámara se sitúa en el punto de vista del sujeto ¿cómo se llama el plano?.
+A) Plano enfático. ES a o o
+B) Plano de referencia. o o
+Q Plano subjetivo.
+) Primer plano.
+932.- ¿Para qué gira el tambor de cabezas de un magnetoscopio?.
+Q Para grabar frecuencias altas. ' o
+) Para grabar frecuencias bajas.
+C) Para grabar movimientos rápidos.
+D) Para refrigerarse. ] o
+7
+Ñ 13
+
+A
+> |
+94?.- ¿Dónde se encuentra el interés de una composición triangular como la de la figura?. l |
+A) En el centro geométrico.
+8) En el baricentro.
+_ C) En el vértice inferior izquierdo. | |
+En el vértice superior.
+95?.- En un Betacam SX el generador interno dé señales test de vídeo no puede ser usado cuando la
+señal de vídeo de entrada es:
+A) Compuesta. |
+e) Componentes.
+) SDTI.
+D) SD!I. >
+96?.- El nivel de señal llamado 0 dBm (1 mw), ¿Cuánto valdrá expresado en voltios si la resistencia del |
+- circuito es de 600 Ohmios?. : :
+A) 1 mv. o |
+(B) 0,775 vw. Lea |
+C) 0,600 v.
+D) 525 mv. |
+97*.- Para ajustar la fase horizontal del Betacam-SP, necesitará entre otras cosas:
+Ay Un fasímetro. Ln?
+B) Un polímetro.
+NC) Un destornillador de precisión. |
+y Ninguna de las anteriores. :
+98”.- ¿Es necesario el TBC para reproducir en modo ralentizado en un Betacam-SP?.
+(A) Si.
+No. l E
+C) Depende de la velocidad del ralentizado. 7 ot reia a rio o :
+D) Depende del modo de sincronización del Abestrante (capstan). |
+99*.- En el formato Betacam-SP de siste PAL ¿cuánta información se graba en una pista de
+luminancia?. "E
+> 9) La correspondiente a 1 campo. y |
+) La correspondiente a 1 cuadro. y . |
+C) La correspondiente a 52,5 líneas. *s |
+D) Ninguna de estas respuestas es la correcta. « E o ma |
+1007.- ¿Cuál es la definición de escaleta?. | | | |
+|
+A) La sucinta narración de las distintas escenas. |
+B) La sucinta narración de los personajes. ,
+C) La sucinta narración de las diferentes escenas y personajes así como sus relaciones espacio-temporales.
+Un tipo de medida de tiempo para guiones.
+14 |
+: |
+3
+. i
+: :

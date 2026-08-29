@@ -1,0 +1,605 @@
+|] |
+|
+CONVOCATORIA GENERAL RTVE 1 /2007 |
+|
+PREGUNTAS DE EXAMEN TEÓRICO |
+| CATEGORIA LABORAL:
+TÉCNICO SUPERIOR ELECTRÓNICO |
+| |
+l
+A
+Madrid, a 23 de julio de 2007
+-1-
+
+1.- El Decibelio es una medida de
+A) Potencia
+B) Relación logarítmica de ganancia o perdida
+0) Unidad de medida de intensidad sonora
+2.- La señal de reloj o clock sirve para
+A) sincronizar los pasos o fases de una secuencia
+B) que todas las puertas trabajen al mismo tiempo
+C) que todas las puertas tarden lo mismo en su actuacion
+3.- Una señal de satélite de una frecuencia de 11 GHz, decimos que se
+encuentra dentro de la banda:
+A) L
+B)C
+C) Ku
+4.- ¿Qué clase de modulación se usa en la portadora de video y en la
+portadora de sonido de una señal de televisión?
+A)Video y Audio: AM
+B)Video: AM; Audio: FM
+C)Video: FM ; Audio: QAM
+5.- En el intercambio de datos,una de las dos estaciones transmite cada
+vez.eso es.
+A) Trasmisión full-duplex
+B) Trasmisión Half-duplex
+C) Trasmisión total
+-2-
+
+6.- ¿A qué tipo de circuito electrónico responde este esquema?.
++Vcc
+| Carga
+A) Amplificador en base común
+B) Generador de corriente constante
+C) Estabilizador de tensión
+7.- ¿La siguiente tabla de la verdad a que puerta lógica corresponde?
+a [| > MEN
+[o [1 [+]
+[+ [o [ 1]
+: [a [+ [o]
+A) AND
+B) XOR
+C)INAND
+-3-
+
+8.- El montaje de dos puertas NAND en paralelo que se
+muestra en el dibujo sirve para:
+A) aumentar la fiabilidad con un elemento redundante
+B) aumentar el fan out :
+C) no tiene sentido y puede crear indefinición lógica
+9.- Si un magnetoscopio Betacam SP deja de leer la pista CTL, ocurrirá que:
+A) Deja de leer los códigos de tiempo grabados.
+B) No sincronizarán los servos
+C) Si la cinta grabó código de tiempos vertical pasará a leerlo en lugar del
+longitudinal.
+10.- La vida útil de un condensador:
+A) Disminuye con la frecuencia de funcionamiento.
+B) Aumenta con la temperatura ambiente.
+C) Disminuye con la temperatura ambiente.
+11.- En un cicuito de regulación de tensión.... ¿Cuál es la manera habitual
+de cortar la conducción de un tiristor?...
+A) Disminuir la corriente que por él circula a un valor inferior a la In de
+mantenimiento.
+B) Conectar la puerta a un potencial más positivo para aumentar la
+concentración de electrones en la capa de control
+C) Situar la puerta en cortocicuito.
+12.- Un acceso básico RDSI esta compuesto por
+A) Dos canales a 64 kbps que transportan información y un canal de 16
+kbps para señalización.
+B) Un canal de 64 kbps para información y dos canales de 16 Kbps para
+señalización
+C) Tres canales de 64 kbps para información
+13.- El bit de paridad se utiliza
+A) para detectar errores en la transmision de datos
+B) para que los datos tengan la misma longitud
+C) para hacer par el número de bits
+-4-
+
+14.-En un micrófono que presenta un diagrama polar de tipo
+omnidireccional, las ondas sonoras inciden sobre su diafragma...
+A) Solo por la cara anterior
+B) Solo por la cara posterior
+C) Por ambas caras
+15.- ¿Cómo se llama el principal sistema de corrección de errores usado en
+televisión digital?
+A) DASH tratado con PCM
+B)NICAM
+C) Reed-Solomon
+16.- Una variación de la temporización inducida por los efectos de la
+variacion de frecuencia ,amplitud y fase se llama.
+A) Jitter
+B) Borrado
+C) TIE
+17.-En un sintetizador PLL de un excitador de FM, que utilice divisor
+prescaler de doble módulo, este sirve entre otras cosas para:
+A) Conseguir mayor estabilidad en la frecuencia de la portadora generada y
+la mejor pureza espectral posible
+B) Adaptar los niveles lógicos a los del divisor programable hasta conseguir
+que este último logre llegar a la frecuencia programada
+C) Cuando la frecuencia del VCO está lejos de la programada, divide
+por el módulo mayor para aproximar el enganche y cuando este es
+próximo, divide por el módulo menor para obtener mayor resolución.
+18.- ¿Cuál es la frecuencia de la subportadora para la inserción de datos
+(RDS) en una portadora estereo de FM?,
+A) 19 KHZ
+B) 38 MHz
+C) 57 KHz
+-S-
+
+19.- En una transmisión por fibra óptica es posible asumir una pérdida
+máxima de potencia de la señal de tres órdenes de magnitud. Si en el
+acoplamiento emisor/fibra se sufren unas pérdidas del 50% y en el
+acoplamiento fibra/detector se vuelve a perder otro 50%, si la fibra tiene
+una característica de pérdidas de 0,3 dB/Km, ¿cual es la distancia máxima
+que se puede cubrir?.
+A) 33,3 kilometros
+B) 25 kilometros
+C) 80 kilometros
+20.- En el sistema PAL la señal P es:
+A. Un impulso de ancho equivalente a 9-10 ciclos de subportadora usado
+como puerta de salva.
+B. Una onda cuadrada de periodo 2H.
+C. La señal que informa de la secuencia de 8 campos.
+21.- La categoría de transporte de datos dentro de la comunicación de varios
+dispositivos OSI contiene a su vez:
+A) Nivel de transporte, de sesión y de red.
+B) Nivel de red, de enlace de datos y transporte.
+C) Nivel de red, de enlace de datos y físico.
+22.- En los procesos de grabación magnética analógica se utiliza una......
+A) Modulación de FM con un índice de modulación igual a 1
+B) Modulación de FM con un índice de modulación igual a 0.5
+C) Modulación de FM con un índice de modulación mayor que 1 y menor
+que 2
+23.- En las medidas electroacústicas el nivel de referencia en dBm se ha
+fijado en
+A)  1V/8 Ohmios
+B) 1 mw /8 Ohmios
+C) 0,775 V / 600 Ohmios
+24.- Una red ethernet en la que sus puestos de trabajo estan conectados con
+RJ 45 esta cableada según la version del estandar
+A) 10 Base -2
+B) 10 Base -T
+C) 10 Base -—F
+-6-
+
+25.- ¿Qué relación existe en un sistema de Televisión PAL entre el Ancho de
+Banda de la señal de Luminancia y la Resolución Horizontal que es capaz de
+ofrecer?
+. A) La Resolución Horizontal es proporcional al cuadrado del Ancho de
+Banda de la Luminancia
+B) La Resolución Horizontal aumenta 80 líneas por cada MHz de
+Ancho de Banda de la Luminancia
+C) La Resolución Horizontal es independiente del Ancho de Banda de la
+Luminancia
+26.- Un transformador que tiene una relación de vueltas 1:1 y es empleado
+para acoplar impedancia en un amplio intervalo de frecuencias es el
+llamado:
+A) Colineal
+B) Balun
+C) Toroidal balanceado
+27.- Un equipo tiene asignada la siguiente dirección IP 150.214.141.120 y una
+mascara de red 255.255.255.128.cual de los siguientes equipos se encuentra
+en la misma subred que el anterior
+A) 150.214,141.254
+B) 150.214.141.127
+C) 150.214.141.129
+-7-
+
+28.- En el siguiente circuito amplificador, calcular el valor de Re para que la
+tensión de reposo entre colector y masa sea de aproximadamente de 6V y la
+ganancia en tensión del mismo sea de aproximadamente 20dB, teniendo en
+cuenta que el beta del transistor empleado es de 300 y la tensión base-emisor
+de 0,6V.
++12V
+1K
+Dn l. Vreposo |
+Vs
+MA)
+| |
+A) 1KOhmio
+B) 12 Ohmios
+C) 100 Ohmios
+29.-¿Cuál de las siguientes opciones describe mejor la comunicación entre
+dos dispositivos en una LAN?,
+A) El dispositivo origen encapsula los datos en una trama con la dirección
+MAC del dispositivo destino, transmite, todos en la LAN ven la trama,
+pero los dispositivos con direcciones no coincidentes la ignoran.
+B) El origen encapsula los datos y coloca una dirección MAC en la trama.
+Coloca la trama en la LAN, donde sólo el dispositivo con la dirección
+coincidente puede verificar el campo de dirección.
+C) El dispositivo origen encapsula los datos en una trama con la dirección
+MAC del dispositivo destino, la coloca en la LAN, y el dispositivo con la
+dirección coincidente elimina la trama. El origen encapsula los datos y
+coloca una dirección MAC en la trama. Coloca la trama en la LAN, donde
+sólo el dispositivo con la dirección coincidente puede verificar el campo
+de dirección.
+-8-
+
+30.- Se emplea un decodificador para señalizar en un LED la presencia de
+los códigos binarios 001, 100 ó 110. Las salidas del decodificador son del tipo
+“Open Colector”. Teniendo en cuenta las características de estas salidas y
+para evitar cualquier ambigiiedad o incompatibilidad entre salidas a nivel
+alto o a nivel bajo, las salidas del circuito integrado:
+Wec Vec Vec
+=” R ptr | | o” =>”
+O ] RieD O, | RueD O. | Rie
+0, O 0,
+Do O, Do 0, Do 0,
+seEl=il=
+D, O, D, O D, O,
+0) o) 0)
+SI | 8 || Se
+a) O, b) O, c) O,
+A) se pueden unir directamente (dibujo a)
+B) deben contar con resistencias pull-up que garanticen niveles lógicos
+(dibujo b)
+C) se deben unir mediante diodos para permitir distintos niveles lógicos
+(dibujo c)
+31.- ¿Que tipo de patrón es el representado en la figura?
+A) 4:1:1 202,5 Mb/s
+B) 4:2:0 202,5 Mb/s
+C.) 4:1:1 135 Mb/s
+XXX) xxx) xxx
+XXX) xxx) xxx
+XXX) xxx) xxx
+XXX) xxx) xxx
+XXX) xxx) xxx
+XXX xxxB) xxx
+O B-Y
+x LUMINANCIA
+D R-Y
+-9-
+
+32.- Mediante el convenio de complemento a dos de representación de
+números binarios de cuatro bits el número (-7) es:
+A)0111
+B) 1000
+C) 1001
+33.- Un proyector robotizado utiliza la mezcla
+sustractiva para proyectar luz coloreada. Si E
+interpone dos filtros dicroicos en el haz de luz Luz E Ez) É z)
+. Blanca / 15 Q
+blanca: uno Cyan y otro Magenta, ¿cuál es el o 3
+color final de la luz proyectada?
+A) Azul
+B) Verde
+C) Magenta
+34.- En una mesa de mezclas, cuando nos referimos a niveles de linea, nos
+referimos a niveles comprendidos
+A) Entre -40 y -20 db
+B) Entre -10 y +20 db
+C) Entre -20 y -10 db
+35.- En una modulacion QAM la informacion digital esta contenida
+A) en la amplitud de la portadora transmitida
+B) en la fase de la portadora transmitida
+C) tanto en la fase como amplitud de la portadora transmitida
+36.- En la transmisión de señal de SDI según la norma ITU601, ¿qué
+codificación de canal se emplea?
+A) NRZ
+B) Scrambled NRZI
+C) Marca-Bifase (o *Manchester”)
+37.- El mínimo número de bits que deben cambiarse en una palabra de
+código para transformarse en otra palabra de código se denomina:
+A) Distancia ortogonal
+B) Código Fire
+C) Distancia de Hamming
+-10-
+
+38.- ¿Cual es el valor de la señal R-Y ¿que se deduce del experimento de
+Grassman?
+A) 0,70R-0,59G-0,11B
+B) 0,30R+0,59G+0,11B
+C) -0,30R-0,59G+0,89B
+39.-A la vista del siguiente circuito amplificador, ¿Cuál es la gancia en
+tensión aproximadamente?.
+: 10K 10K
+| 10K |
+Ve
+I o] “K- ys
+A) 6dB
+B) 9dB
+C) 15dB
+40.- La frecuencia de muestreo digital en un CD audio es:
+A) 22.05 KHz
+B) 20 Khz
+C) 44,1 KHz
+41.- En el circuito serie RLC de la figura, +
+cuando la parte reactiva de la impedancia es R X. Xc
+negativa sucede que:
+(A) vít)
+A) v(t) va adelantada respecto a i(t)
+B) v(t) va adelantada 90” respecto a la i(t)
+C) i(t) va adelantada respecto a la tensión v(t)
+42.- En MPEG-2:
+A) Un GOP siempre debe comenzar por una imagen tipo “P”.
+B) En general GOPs largos, llenos de imagenes “P” y “B” permiten
+reducir al máximo la tasa binaria manteniendo la calidad de la
+señal.
+C) Nunca una imagen “B” de un GOP podrá hacer referencia a imágenes
+“I” o “P” de otros GOPs.
+| -11-
+
+43.- En el formato de transmisión Digital El ¿Cuál es el canal de
+señalización?
+A) El canal 1.
+B) El canal 8.
+CO) El canal 16.
+44.- Para unas frecuencias de muestreo imaginarias de la señal de video en
+componentes de Y= 20 MHz, CR= 10 MHz y CB= 10 MHz, ¿Qué frecuencia
+habría que elegir para la multiplexación de ellas en el codificador serie?
+A) 30 MHz
+B) 20 MHz
+C) 40 MHz
+45.- La característica fundamental de los semiconductores utilizados en los
+multivibradores es:
+A) Que no tienen estabilización térmica.
+B) Que trabajan con dos tensiones de alimentación
+C) Que trabajan en conmutación
+46.- La frecuencia de muestreo en un proceso de audio digital
+A) debe de ser mayor de la frecuencia que se quiere procesar
+B) debe de ser mayor del doble de la frecuencia mas alta a procesar
+C) debe de ser igual de la frecuencia mas alta a procesar
+47.- ¿Qué tipo de conectores se utilizan más habitualmente en los equipos
+que generan el código de tiempo?
+A) LEMO de dos contactos
+B) BNC
+C) XLR de tres contactos
+48.- En las camaras CCD, el efecto aliasing o moiré puede ser reducido en
+gran medida mediante el uso de:
+A) Bobinas deflectoras de barrido horizontal
+B) Filtros ópticos paso-alto
+C) Filtros ópticos paso-bajo
+-12-
+
+49.- Como se corrige la aberración cromatica.
+
+A) CCD para cada color
+
+B) No se corrige
+
+C) Con lentes asféricas
+S0.- En el sistema europeo de TDT, ¿Cómo se minimizan los efectos de las
+propagaciones multitrayecto y se consigue reutilizar las mismas frecuencias
+de transmisión?
+
+A)Utilizando una modulación QPSK
+
+B) Utilizando una modulación COFDM
+
+C) Utilizando una modulación QAM
+51.-Con un osciloscopio procedemos a comprobar la alimentación que
+tenemos en un circuito, obteniendo un valor de 200 Vpp en la onda senoidal
+¿Cuál es el valor efectivo de esta tensión si realizamos la medida con un
+políimetro analógico?.
+
+A) 141,4 VRMS
+
+B) 70,7 V RMS
+
+C) 100 V RMS
+52.-Con puertas de transmisión P de y, Tp 7]
+tecnología CMOS se ha montado el HS
+circuito del dibujo. El circuito tiene dos
+entradas de control Ay y Aj. Indique cual va E
+es la función que realiza dicho circuito: AA Vour
+
+Ñ E == | Eo
+A) Multiplexaci | HA
+ultiplexación v
+B) Conversión analógico/digital 1 TS
+C) Decodificación o
+A0 Al
+
+53.- Un Betacam digital compatible grabador tiene en su tambor:
+
+A) 10 cabezas
+
+B) 14 cabezas.
+
+C) 8 cabezas.
+
+-13-
+
+54.- ¿Cuál de los siguientes dispositivos se pueden usar para segmentar una
+land?
+A) Hubs y repetidores.
+B) Switches y Routers
+C) Hubs y switches
+55.- En un amplificador lineal real se cumple solamente una de estas tres
+cosas:
+A) La resistencia de entrada es virtualmente infinita
+B) La resistencia de salida es muy baja del orden de pocos ohmnios
+C) Tanto la resistencia de entrada como la de salida están en función de la
+ganancia
+56.- ¿A que velocidad se propagan las ondas sonoras en el vacio?
+A) 340 m/seg.
+B) Nose propagan
+C) Depende de las condiciones atmosféricas
+57.-El algoritmo G-722 en audio digital tiene las siguientes caracteristicas:
+A)Ancho de banda 3000 a 3400 Hz retardo nulo
+B) Ancho de banda 3000 a 3400 Hz retardo 2,5 milisegundos
+C) Ancho de banda 50 a 7000 Hz retardo 1,5 milisegundos
+58.- Un mezclador de audio “in line” (“en línea”) se diferencia de uno tipo
+“split” (“de cruce”), principalmente en que...
+A) El mezclador “in line” no tiene grupos ni subgrupos, mientras que el
+“split” por lo general sí los tiene
+B) El mezclador “in line” tiene agrupados el módulo de canal de entrada y
+el de monitorado en uno solo
+C) El mezclador “split” se suele utilizar para grabación multipista,
+mientras que el “in line” se utiliza habitualmente para la masterización
+59.- Para realizar un efecto llave de color (Chroma-key) en el que habrá una
+persona, ¿qué color es el mas aconsejable emplear?
+A) Rojo
+B) naranja
+C) Azul
+-14-
+
+60.- ¿Con qué equipo de medidas se puede determinar la diferencia de fase
+de crominancia entre dos señales de televisión?
+A) Con un monitor de imagen
+B) Con un osciloscopio
+C) Con un vectorscopio
+61.- ¿Qué es una antena isotrópica?
+A) Es la empleada normalmente para radiar el rango de isofrecuencias
+B) Es la antena teórica de mayor ganancia y directividad posible empleada
+como patrón para evaluar la ganancia y directividad de otras antenas
+C) Es la que radía igual en todas direcciones y se toma como referencia
+para evaluar la ganancia y directividad de otras antenas
+62.- La conversión del número binario 1000 1101 0101 al sistema
+hexadecimal le corresponde el número:
+A) 9E5S
+B) 8D5
+C) 8F4
+63.- Una vez ajustada la imagen, si el material que recubre el objeto captado
+por la cámara se sustituye por otro material de menor índice de reflectancia
+será necesario:
+A) Volver a hacer un balance de blancos
+B) Verificar en el monitor forma de onda que no hay saturación
+C) Aumentar la iluminación
+64.- El siguiente circuito es un:
+A) Filtro paso bajo de 2” orden.
+B) Filtro paso banda o banda eliminada.
+- C) Filtro paso alto de 2" orden.
+ENTRADA
+> WWW | > SALIDA
+-15-
+
+65.- Indicar cuál de las definiciones siguientes es la correcta:
+A) Giga=10'*; femto=10”? ; pico=107
+B) Giga=10?; femto=10"!* ; pico=10"?
+C) Giga=10?; femto=107? ; pico=10"?
+66.- Si en la configuración de una instalación eléctrica existen varios
+dispositivos de protección diferencial en serie, decimos que existe
+selectividad cuando:
+A) Al producirse un defecto a tierra se dispara el dispositivo más cercano
+al mismo
+B) Al producirse un defecto a tierra se dispara el dispositivo más lejano al
+mismo
+C) Al producirse un defecto a tierra se disparan todos los dispositivos de
+protección
+67.- Al colocar un trozo de hierro en un campo magnético, logramos con ello
+A) Aumentar la reluctancia magnetica del circuito
+B) Disminuir el número de lineas de fuerza
+C) Concentrar el campo magnético
+68.- En un FLIP-FLOP JK un nivel alto en la entrada K durante la
+transicion del reloj ocasiona una salida
+A) baja
+B) cambia o bascula
+C) no es posible determinar
+69.- La señal AES/EBU, está formada por subframes o subcuadros de una
+longitud total de:
+A) 32 bits
+B) 128 bits
+C) 8 bytes
+70.- ¿Para medir el nivel de presión sonora existente en el puesto de trabajo
+se usan?
+A) Acelerómetros
+B) Sonómetros
+C) Picómetros
+-16-
+
+71.- La siguiente gráfica representa el impulso “20T compuesto” extraido de
+una señal PAL. ¿Qué distorsión podemos deducir que existe en dicha señal?
+| 201
+A) Que la señal de crominancia está retardada respecto a la de luminancia
+B) Que la señal de crominancia tiene una ganacia inferior a la de
+luminancia
+C) Que la señal de crominancia tiene una distorsión de intermodulación
+72.- En el modulador PWM, en ausencia de audio:
+A) No se genera tren de pulsos PWM
+B) El ancho de los pulsos es constante
+C) Los pulsos aumentan su ciclo de trabajo
+73.- ¿A que tipo de emisión de onda radiolectrica corresponde 738KHz?.
+A) Radio difusión FM banda 1
+B) UHF
+C) Radio difusión OM
+74.- El circuito de la figura (con constante de
+tiempo RC mucho mayor que el periodo de la
+señal de entrada) es un: vi(t) R | vo)
+A) Fijador de nivel
+B) Recortador
+C) Rectificador
+-17-
+
+75.- Un transmisor sufre una avería y deja de realizar la inversión PAL,
+¿que color representaría aproximadamente un receptor si estamos
+transmitiendo un color ROJO?
+A) Magenta
+B) Verde
+C) Amarillo
+76.- Qué parámetros permiten elegir un condensador:
+A) Valor máximo, tolerancia, tensión maxima y tecnología.
+B) Valor nominal, tolerancia, tensión máxima y tecnología.
+C) Valor nominal, frecuencia de trabajo, tensión nominal y tecnología.
+77.- La impedancia del circuito paralelo
+RLC es variable con la frecuencia. A
+una determinada frecuencia de ve(t) el A) Vat) = L
+circuito está en resonancia. En esa
+situación:
+A) La corriente por el circuito es máxima
+B) La parte resistiva y la parte reactiva de la impedancia tienen el mismo
+valor
+C) La corriente que entrega el generador es mínima
+78.- En un microprocesador, el contador de programa contiene:
+A) Los datos
+B) Una instrucción del programa
+C) La dirección de memoria de la siguiente instrucción
+79.- El ruido de los sistemas digitales
+A) es de una frecuencia de 50 a 100 herzios
+B) es ocasionada por una mala alimentacion de los circuitos
+C) es debido al error de cuantización
+80.- En la señal de vídeo SD] según la norma ITUG601 10 bits, ¿con qué valor,
+expresado en decimal, se codifica el nivel de negro de luminancia?
+AJO
+B) 16
+C) 64
+-18-
+
+81.- Una usual antena de microondas omnidireccional es la antena...
+A) Bicónica
+B) Helicoidal
+C) Parabólica
+82.- ¿Como se denomina la parte de la linea que contiene la información de
+video?
+A) Duración de la linea
+B) Periodo activo de la linea
+C) Duración de la salva o burst
+83.- ¿Qué te sugiere el primer elipsoide de Fresnel?
+A) Un sistema de cálculo vectorial utilizado en estudios. de acústica
+B) Un factor importante en el cálculo de vanos de radioenlace
+C) Describe las características de la propagación por ondas de tierra
+84.- ¿En una portadora modulada en amplitud que picos de señal permiten
+ser modulados por encima del 100%?
+A) los picos positivos
+B) los picos negativos
+C) ambos
+85.- En un amplificador de n etapas en cascada, la ganancia total G y viene
+dada por:
+A) El módulo de la ganancia [G| es igual a la suma de las ganancias
+individuales y la fase O es la suma algebraica de las fases individuales.
+B) El módulo de la ganancia |G| es igual al producto de las ganancias
+individuales y la fase € es la suma algebraica de las fases individuales.
+C) El módulo de la ganancia [G| es igual al producto de las ganancias
+individuales y la fase 6 es igual al producto de las fases individuales.
+86.- El formato Betacam SX se caracteriza por:
+A) Muestreo 4:2:2, compresión 10:1, 8 bits de resolución de video y 4
+pistas de audio.
+B) Muestreo 4:2:2, compresión 3,5:1, 10 bits de resolución de video y 4
+pistas de audio.
+C) Muestreo 4:2:0, compresión 6,7:1, 8 bits de resolución de video y 4
+pistas de audio.
+- 19 -
+
+87.- Un diodo Zener se fabrica para
+A) Soportar mayores corrientes que un diodo convencional.
+B) Soportar mayores tensiones entre sus terminales respecto a un diodo
+convencional.
+C) Que sea aprovechable la tensión de ruptura.
+88.- Señala la frase verdadera de estas tres:
+A) Una EPROM es un chip de memoria que retiene los datos cuando la
+fuente de energía se apaga.
+B) Una ROM es un chip de memoria que no retiene los datos cuando la
+fuente de energía se apaga.
+C) Las memorias FLASH pierden su información cuando la fuente de
+energía se apaga
+89.- ¿Qué efectos fisiológicos directos puede provocar el contacto con una
+fuente de corriente de 25 a 30 mA?
+A) Fibrilación ventricular
+B) Asfixia
+C) Tetanización
+90.- La nocividad del ruido está en relación con su intensidad, con su
+frecuencia y con:
+A) La pulsación
+B) La potencia
+C) La duración de la exposición
+-20-

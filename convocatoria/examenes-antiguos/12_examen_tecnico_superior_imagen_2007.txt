@@ -1,0 +1,1312 @@
+CONVOCATORIA GENERAL RTVE 1 / 2007 
+
+- PRUEBA TEÓRICA  (día  16 de julio 2007) - 
+
+Categoría Laboral:    Técnico Superior de Imagen          ___________________                  
+
+1) En un acumulador o batería, cada elemento da 2 v de tensión nominal 
+en condiciones normales de uso, ¿de qué tipo de acumulador se trata? 
+
+A.  estaría en mal estado 
+B.  de Níquel-Cadmio. 
+C.  de Plomo-ácido. 
+D.  de Metal-hidruro. 
+
+2) ¿Cual de los siguientes sistemas automáticos es el más apropiado para 
+la protección  del paso de corriente de intensidad peligrosa a las 
+personas? 
+
+A.  interruptores diferenciales. 
+B.  fusibles.  
+C.  interruptores magneto térmicos. 
+D.  interruptores magnéticos. 
+
+3) Partiendo de un acumulador de 12v ¿es posible obtener 220v, CA, 50 
+Hz, válida para un equipo electrónico? 
+
+A.  si, con un conversor de onda senoidal pura. 
+B.  no, es imposible. 
+C.  si, pero haría falta un equipo muy especial y complejo. 
+D.  sólo es posible con baterías de gran capacidad. 
+
+4) ¿Qué colores tiene el aislamiento de un cable eléctrico de toma de 
+tierra? 
+
+A.  negro-blanco. 
+B.  marrón-negro.  
+C.  verde-amarillo. 
+D.  rojo-amarillo. 
+
+5)  Una  vivienda  tiene  una  instalación  eléctrica  de  25  amperios  y  220  voltios 
+¿Cuantas lámparas de 1000 watios podemos conectar como máximo sin producir 
+sobrecarga en la instalación?  
+
+A 2 
+B.3 
+C. 7 
+D.8 
+
+6) Se denomina sonido diegético al… 
+
+     A Procedente de una fuente externa  a la escena 
+     B Procedente de algún elemento presente en la escena 
+     C Obtenido mediante micrófonos unidireccionales 
+     D Obtenido mediante micrófonos omnidireccionales 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7) ¿Qué propiedades tiene un micrófono cardioide?      
+
+  A Captación y sensibilidad omnidireccional, 360 grados de ángulo. 
+  B Es pequeño y pinzado a la ropa sobre el pecho cerca del corazón. 
+  C Unidireccional, diagrama de corazón  
+  D Captación frontal principal y posterior de menor sensibilidad. 
+
+8)En grabaciones en E.N.G.,se suelen utilizar micrófonos  
+  Inalámbricos, ¿Cuál de estas frecuencias es la de un radiomicro? 
+      A 82 Hz 
+
+  B 2,5 KHz. 
+      C 620 MHz 
+      D 2,3  GHz. 
+
+9)La alimentación 48 v.ph (phamton) de las cámaras 
+  Autónomas Sony, sirve para 
+      A Alimentar la cámara 
+      B Alimentar el monitor 
+      C Alimentar micro condensador 
+      D Alimentar el  Flash 
+
+10)   Si durante una grabación tenemos un sonido principal enmascarado 
+
+por el sonido  ambiente, ¿Qué tipo de micrófono utilizaríamos? 
+  A Bidireccional. 
+   B Omnidireccional. 
+   C Direccional. 
+   D Paracional. 
+
+11)  Señala que diagrama polar no corresponde a un micrófono 
+unidireccional: 
+
+  A  cardioide. 
+  B  bicardiode. 
+  C  supercardiode. 
+  D  hipercardiode.  
+
+12) En audio, una señal de línea ¿Qué tensión ha de tener? 
+
+  A entre 1 y 30 mv. 
+  B entre 100 y 500mv 
+  C entre 0 y 500mv 
+  D entre 0.5 y 1v. 
+
+13) ¿Qué indican respectivamente VU-metro y PICO-metro?     
+
+  A Compresión de audio y picos de sonido. 
+  B Nivel de audio y Volumen de crestas de audio 
+  C Ajuste de fader y nivel de compresión. 
+  D Volumen de audio y nivel de compresión. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14)  Se debería realizar un balance de blancos siempre que: 
+A)  Cambie la situación de la cámara dentro de la escena. 
+B)  Cambie la temperatura de color de la escena 
+C)  Cambiemos la óptica de la cámara. 
+D)  Para corregir las contaminaciones de luces que incidan en el objetivo 
+
+15) La zona periférica de la retina está especializada en: 
+    A) La detección de movimiento. 
+  B) La resolución espacial. 
+ C) La visión detallada. 
+E)  La visión fotópica. 
+
+16)  En condiciones de luz débil y tomando como referencia las curvas de 
+sensibilidad,el ojo humano es más sensible al color: 
+
+A)  Rojo 
+B)  Blanco 
+C)  Verde 
+D)  Azul 
+
+17)  Para  rebajar  la  temperatura  de  color  de  una  escena,  en  la  cámara, 
+debemos: 
+
+A)  Poner un filtro azul 
+B)  Poner un filtro neutro 
+C)  Poner un filtro anaranjado 
+D)  En cámara no tenemos esa opción, sólo manipulando las luces. 
+
+18)  En  una  imagen  polícroma  el  ojo  percibe  con  mayor  definición  las 
+longitudes de onda correspondientes al color: 
+
+A) Rojo 
+B) Azul 
+C) Amarillo 
+D) Verde. 
+
+la visión humana que corresponden a los colores… 
+
+19) 400 nm y 700 nm aproximadamente son respectivamente  los umbrales 
+del espectro de  
+  A)  infrarrojo y rojo. 
+  B)  infrarrojo y ultravioleta. 
+  C)  verde y amarillo. 
+  D) violeta y rojo. 
+
+20) La visión escotópica se efectúa por : 
+  A) los conos con luminancia alta. 
+  B) los bastones con luminancia alta. 
+  C) los bastones con luminancia débil. 
+  D) los conos con luminancia débil. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21) Qué parte del ojo se encarga de que las imágenes lleguen enfocadas a 
+la retina? 
+             A La pupila 
+             B La córnea 
+             C El cristalino 
+             D El iris 
+
+  22) Los grados MIRED o grados microrecíprocos se utilizan: 
+     A Para medir ángulos de fase de subportadora. 
+
+B Para medir el ángulo de incidencia del rayo luminoso. 
+C Para medir el calor que disipa una fuente luminosa. 
+D Para calcular y medir la desviación y corrección de 
+temperatura de color. 
+
+23)  ¿Qué temperatura de color es más alta? 
+
+  A 333º mired. 
+  B 250º mired. 
+  C 200º mired. 
+  D 166º mired. 
+
+24)  La  distancia  existente  entre  el  punto  nodal  posterior  de  la  lente  y  el 
+plano focal de la cámara, cuando enfocamos a infinito se llama 
+             A Distancia focal 
+             B Distancia de foco 
+             C Distancia hiperfocal 
+             D Distancia nodal 
+
+25) Si se coloca una lente suplementaria en la parte delantera del objetivo, 
+podremos modificar la distancia focal,¿las lentes de aproximación son : 
+
+A)  Lentes positivas 
+B)  Zoom 
+C)  Lentes negativas 
+D)  Ojos de pez 
+
+26) El objetivo normal es aquel cuyo ángulo visual, es igual  al del ojo 
+humano inmóvil: 
+
+A entre 15 y 20º 
+      B Entre 95 y 100º 
+      C Entre 55 y 60º 
+      D Entre 30 y 45º 
+
+27) En esta sucesión en la escala de diafragma en puntos f , 2 -2,8-5,6-8-
+11-16-22 ¿Qué punto f  Falta? 
+A 6,3 
+B 14 
+C 3,5 
+D 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+     
+     
+ 
+     
+ 
+     
+ 
+     
+ 
+     
+ 
+ 
+ 
+ 
+ 
+28) Aquellos objetivos de distancia focal fija menor que la  diagonal del 
+formato, constituyen el grupo de los llamados: 
+      A normal 
+      B angulares 
+      C teleobjetivos 
+      D  zoom 
+
+29) Distancia hiperfocal es la que, enfocando al infinito, existe… 
+  A) entre el infinito y el punto más próximo con foco aceptable. 
+  B) entre el objetivo y el infinito. 
+  C) entre el objetivo y el punto más próximo con foco aceptable 
+  D) entre el punto más próximo con foco aceptable y el infinito. 
+
+30) ¿Cuando no se produce refracción al pasar un rayo incidente de un 
+medio a otro? 
+  A)  Cuando el rayo incidente llega perpendicular al plano de separación de 
+
+los dos medios. 
+
+  B)  Cuando el ángulo incidente es  mayor que el ángulo crítico (reflexión 
+
+total). 
+
+  C)  Las dos respuestas anteriores 
+  D)  Nunca. 
+
+31) En un objetivo zoom, qué función tiene el back focus: 
+
+A)  Poder utilizar todo el rango del zoom. 
+B)  Poder utilizar el macro si fuese necesario. 
+C)  Mantener el foco correcto en todo el rango del zoom. 
+D)  Asegurar el foco en la parte más cercana a cámara. 
+
+32) Si el ángulo de incidencia le corresponde un ángulo de refracción de 
+
+90º, ¿se denomina? 
+
+  A) ángulo crítico. 
+  B) ángulo de roce. 
+  C) reflexión total. 
+  D) ángulo de interferencia. 
+
+33) ¿La velocidad de un objetivo es? 
+
+  A) su menor número f. 
+  B) la velocidad de cierre/apertura del zoom. 
+  C) la longuitud. 
+  D) el mayor número f. 
+
+34) En una polarización por reflexión especular, la máxima polarización 
+ocurre cuando el ángulo de incidencia y el ángulo refractado suman: 
+
+  A) 0º. 
+  B) 30º. 
+  C) 60º. 
+  D) 90º. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35) Si el objeto está situado a dos veces la distancia focal de la lente, ¿la 
+imagen que se forma es? 
+
+  A) infinítamente pequeña. 
+  B) del mismo tamaño. 
+  C) virtual. 
+  D) no se forma 
+
+36) Un objetivo 1:4 20X , tiene una velocidad de: 
+
+  A) 5. 
+  B) 4. 
+  C) 80. 
+  D) 20. 
+
+37) Al enfocar objetos cercanos, ¿qué le ocurre al grupo óptico de 
+enfoque?: 
+  A) Se aleja del CCD 
+  B) se acerca al CCD 
+  C) No se mueve 
+  D) Se mueve dependiendo del diafragma. 
+
+38)    Un  Objetivo  Zoom”14  x  9”,  disponiendo  de  duplicador  de  focal, 
+cubrirá las focales desde: 
+
+A) 
+B) 
+C) 
+D)          9 mm    “       250 mm 
+
+9 mm hasta   140 mm 
+6 mm   “        220 mm 
+9mm  “       252 mm 
+
+39) La serie de números “f” corresponde a una progresión geométrica de 
+razón: 
+
+A)  2:1.4 
+B)  1:2.2 
+C)  2:1  
+D)  2:1.8 
+
+40)  Si  en  una  óptica,  disminuimos  el  diámetro  de  la  apertura  del 
+
+diafragma, la profundidad de foco 
+A)  Aumenta. 
+B)  Disminuye. 
+C)  Permanece en los mismos valores 
+D)  Deberemos corregirla con el detalle. 
+
+41) La anisotropía óptica también se denomina: 
+
+A)  Difracción. 
+B)  Reflexión. 
+C)  Obturación. 
+D)  Complexión.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+42) Si ponemos un filtro de densidad neutra 0,9 en la cámara, tendríamos 
+que incrementar la exposición en puntos de diafragma: 
+
+A)  1/3 
+B)  3puntos 
+C)  2/3 
+D)  1punto 
+
+43) Cuando trabajamos con cámaras de Alta Definición, la profundidad de 
+foco: 
+
+A)  Es mayor (el doble) que en la televisión convencional. 
+B)  Es menor (la mitad) que en la televisión convencional. 
+C)  Es la misma, para un mismo diafragma, que en la televisión convencional. 
+D)  Es tan grande que no hace falta ajustar el foco. 
+
+44) La caída f en un zoom se produce: 
+
+A)  Al usar el máximo angular. 
+B)  Al usar el máximo tele. 
+C)  Al moverse el variador del zoom. 
+D)  Al moverse el transmisor del zoom para compensar el diafragma. 
+
+45) ¿Qué es el accesorio o equipo de cámara llamado transfocator? 
+A)  Es un objetivo con un sistema móvil de lentes, que varía las 
+
+distancias entre estas. 
+
+B)  Es el llamado coloquialmente foco de carro. 
+C)  Es el equipo especial para el ajuste del plano focal de una cámara. 
+  D) Es el equipo electrónico que mueve el aro de foco, en un sistema de 
+
+cámaras por control remoto 
+
+46) ¿Cuál de los siguientes objetivos es de focal más corta, en una 
+cámara de video con  CCD de 1”? 
+
+A.  Objetivo con ángulo de visión de 140º. 
+B.  Objetivo de 28 m/m. 
+C.  Objetivo con ángulo de visión de 35º. 
+
+  D.  Objetivo de 24m/m. 
+
+47)  Para  rebajar  la  temperatura  de  color  de  una  escena,  en  la  cámara, 
+debemos: 
+
+A) Poner un filtro azul 
+B) Poner un filtro neutro 
+C) Poner un filtro anaranjado 
+D)  En cámara no tenemos esa opción, sólo manipulando las luces. 
+
+48)  Una  cámara  de  TV  color,  dispuesta  con  un  filtro  de  temperatura  de 
+color “Luz día”. Al tomar una imagen de una escena iluminada con luz de 
+tungsteno: 
+
+A)  Tendrá dominante anaranjada. 
+B)  Tendrá dominante azulada 
+C)  Deberá corregir los Flare, para la luz secundaria 
+D)  No tendrá ninguna dominante. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+49)  El número guía del flash nos dice: 
+
+A)  Su cobertura con objetivos angulares. 
+B)  El poder trabajar con películas de temperatura de color diferente. 
+C)  La velocidad de sincronización. 
+D)  La potencia de destello. 
+
+50) ¿La ley del cuadrado inverso es aplicable a la luz del  Sol en la Tierra?  
+
+  A) si. 
+  B) no. 
+  C) depende de la longuitud. 
+  D) depende de la latitud. 
+
+51) Un filtro CTB lo usarías para: 
+
+  A) bajar la temperatura de color. 
+  B) subir la temperatura de color. 
+  C) suavizar la luz. 
+
+  D) crear efectos de estrellas 
+
+52) La intensidad luminosa de una fuente puntual se mide en: 
+
+Candelas 
+Lux 
+Lúmenes 
+
+A. 
+B. 
+C. 
+D.  Watios 
+
+53)  Para  medir  los  valores  espectrales  de  la  luz  incidente,  ¿Qué  aparato 
+de medida  utilizaremos? 
+
+A) 
+B) 
+C) 
+D) 
+
+Fotómetro 
+Termocolorímetro 
+Luxómetro 
+Exposímetro 
+
+54) Si hablamos de iluminación, ¿Qué es una bandera? 
+
+A)  Un foco de exteriores. 
+B)  Un tipo de lámpara. 
+C)  Un  accesorio  que  se  sitúa  delante  del  proyector  para  crear 
+
+sombras. 
+D)  Un filtro solar. 
+
+55) Las lámparas HMI son: 
+
+A) Lámparas de tungsteno a 4000ºK. 
+B)  Lámpara de tipo luz-día de aproximadamente 5600ºK. 
+C)  Lámparas para grabaciones difusas. 
+D)  Lámparas de tipo luz-día alrededor de 3200ºK.  
+
+56) El diodo luminoso genera luz: 
+
+     A)    Cuando  es  atravesado  por  una  corriente  eléctrica  debido  a  un 
+fenómeno de inyectoluminiscencia. 
+
+ B)  Cuando la corriente eléctrica atrae las partículas fotoeléctricas. 
+ C)  Cuando es atravesado por un haz luminoso debido al sol. 
+ D)  Cuando la corriente eléctrica atrae las partículas sensibles. 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+    
+   
+    
+ 
+57) La luz de relleno se utiliza:                                                                                                      
+
+  A)  Para separar del fondo al personaje. 
+  B)  Para reducir el contraste de la luz principal y suavizar las sombras. 
+  C)  Para reducir el contraste de la luz principal y aumentar las sombras. 
+  D)  Para aumentar el contraste de la luz principal y suavizar las sombras. 
+
+58) En  una  escena  una  vez  realizada 
+iluminación 
+comprobamos  que  entre  la  luz  principal  y  la  secundaria  existe  una 
+diferencia  de  6  diafragmas.  ¿A  cuál  de  estas  relaciones  de  contraste 
+corresponde el valor obtenido en la medición? 
+
+la  medición  de 
+
+A) 16 : 1 
+  B) 32 : 1 
+C) 64 : 1 
+  D) 128 : 1 
+
+59)¿Qué  cantidad  de  luz  llega  a  un  objeto  iluminado  por  un 
+proyector de 300.000 cd. situado a 10m.? 
+  A) 300.000 lux. 
+  B) 3.000 lux. 
+  C) 1000 lux. 
+  D) 100 lux. 
+
+60) Si tenemos una escena con una medida de luz principal de 2000 Lux y 
+de relleno de 250Lux el contraste de iluminación en pasos de diafragma 
+es:    
+
+  A) 1 punto 
+
+B) 3 puntos 
+C) 4 puntos  
+D) 6 puntos 
+
+61) Si a una fuente de luz con una temperatura de color de 5600ºK. le 
+ponemos una gelatina CTO del 100% nos  
+corregirá la temperatura de color a : 
+
+A) 9000ºK 
+B) 4300ºK  
+C) 3200ºK 
+D) 7300ºK 
+
+62)  Si a un proyector con lámpara de tungsteno de  5kw. Le ponemos una 
+gelatina CTB del 50% nos corregiría la temperatura de color a: 
+        A)  5600ºK. 
+
+   B) 6300ºK.                                              
+
+        C) 2800ºK. 
+D) 4100ºK. 
+
+63) Que cantidad  de la energía consumida por un LED se transforma en luz. 
+
+A) 
+B) 
+C) 
+D) 
+
+10% 
+20% 
+90% 
+es inapreciable  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+64) El rendimiento de luz de una lámpara se mide en : 
+
+A) 
+B) 
+C) 
+D) 
+
+Bujías/ pies 
+Lux 
+Lúmenes/ watio 
+Grados Kelvin 
+
+65) ¿Cuál es la característica principal de una lámpara de descarga? 
+             A).- Tienen una temperatura de color muy baja 
+             B).- Contienen un gas a cierta presión que se vuelve luminoso 
+             C).- Su consumo energético es extremadamente bajo 
+             D).-  Es  un  aparato  que  lanza  destellos  para  conseguir  un  efecto 
+
+estroboscópico 
+
+66) En una carta gris de 10 pasos  la zona de reflectancia del 18% se 
+encuentra en: 
+
+A)  La zona 5. 
+B)  La zona 2. 
+C)  La zona 3. 
+D)  La zona 7. 
+
+67) Una lámpara HMI proporciona: 
+
+A)  Menor intensidad y más calor que una de tungsteno de igual potencia. 
+B)  Mayor intensidad y más calor que una de tungsteno de igual potencia. 
+C)  La misma intensidad y menos calor que una de tungsteno de igual 
+
+potencia. 
+
+D)  Mayor intensidad y menos calor que una de tungsteno de igual 
+
+potencia. 
+
+68) Los balastos electrónicos libres de parpadeo se emplean con : 
+
+A)  Los proyectores tipo soft-lites. 
+B)  Los minibrutos. 
+C)  Los fluorescentes. 
+D)  Los proyectores HMI. 
+
+69)La  adaptación  de  la  respuesta  (función  de  transferencia)  de  los 
+la  respuesta  (función  de 
+captadores  de 
+transferencia) del tubo receptor, se denomina 
+
+imagen  de  cámara,  con 
+
+A) Corrección de color. 
+B) Corrección de codo y pendiente 
+C) Corrección de Gamma 
+
+  D) Sincronización de base de tiempos 
+
+70)  Al  aumentar  la  ganancia  de  una  cámara  de  0  db  a  9  db,  estamos 
+aumentando 
+
+A) Sólo la luminancia 
+B) Sólo la crominancia 
+C) Las tres componentes R, G y B, a la vez 
+D) Aumentando el nº F del diafragma 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+71) En la pantalla de un osciloscopio lo que podemos ver es:  
+  A) Una representación polar de la crominancia 
+  B) Una representación amplitud-tiempo de una señal eléctrica 
+C)  Una representación amplitud-frecuencia de una señal eléctrica 
+D)  Una representación ponderada de la luminosidad de la escena 
+
+72)  La  señal  Bowtie,  es  una  señal  test  para  equipos  que  trabajen  con 
+señales en: 
+  A) Compuesto 
+  B) Componentes 
+  C) No es una señal test 
+  D) Sólo en digital 
+
+73) En el Control de Cámaras, cuando conectamos el Corrector de codo 
+(knee) y Pendiente (slope), estamos: 
+
+A)  Aumentando el margen dinámico de entrada en la cámara. 
+B)  Mejorando la respuesta de la cámara para las altas frecuencias. 
+C)  Mejorando la respuesta de la cámara para las zonas de baja 
+
+luminosidad. 
+
+D)  Incrementando el valor medio de la señal en las saturaciones 
+
+74)  La  transmisión  de  varios  mensajes  sobre  frecuencias  portadoras 
+distintas se denomina: 
+
+A)  Multiplexado por división de tiempos 
+
+  B) Multiplexado de frecuencia 
+  C) Modulación PCM 
+  D) Modulación en cuadratura 
+
+75)  Porqué  en  el  sistema  PAL  de  televisión,  la  crominancia  se  obtiene  a 
+partir de R-Y y B-Y, en lugar de los primarios R y B. 
+A)  Para que sea compatible con el blanco y negro. 
+B)  Para que se anulen en los puntos de la escena que no haya color 
+C)  Porque son de mayor valor  
+D)  Porque disminuye el ruido en las zonas coloreadas 
+
+76) En un vectorscopio, la amplitud del vector de crominancia, nos 
+identifica la característica del color: 
+
+A)  Tono 
+B)  Frecuencia 
+C)  Saturación 
+D)  Luminancia 
+
+77)  Cada  cuanto  tiempo  se  produce  una  sincronización  horizontal  en  el 
+sistema europeo de exploración de una imagen de televisión: 
+
+A)  Cada 52 µseg. 
+B)  Cada 625 líneas 
+C)  Cada 13,5 µseg. 
+D)  Cada 64 µseg. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+78) El ancho de banda de la señal de video en el sistema de transmisión de 
+TV se extiende de: 
+
+A)  25 Hz  a  5,45 MHz 
+B)  25 Hz  a  25 MHz 
+C)  25 Hz  a  6,5 MHz 
+D)  20 Hz  a  20 KHz 
+
+79) La función que ejerce en una cámara la corrección de detalle es: 
+
+A)  Para ajustar automáticamente el brillo y el contraste del visor de cámara. 
+B)  Para dar mayor nitidez electrónica a la imagen. 
+C)  Para acentuar los detalles que estén poco saturados en la escena. 
+
+  D)Para modificar la profundidad de foco 
+
+80) Los Círculos e Confusión para que sean tolerables en una imagen de 
+TV, deben estar comprendidos entre: 
+
+A)  625 H. 
+B)  2 H consecutivos. 
+C)  2 V consecutivos. 
+D)  Los impulsos de borrado. 
+
+81) En una toma de cámara correctamente ajustada, de un blanco al 100% 
+de  luminancia,    ¿qué  amplitudes  en  voltaje  mostrará  la  señal  de  un 
+osciloscopio, en los diferentes canales R, G y B?: 
+
+A.  R=1V        G=1V        B=1V 
+B.  R=0,30V   G=0,59V   B=0,11V 
+C.  R=0,50V   G=1V        B=0,50V 
+D.  R=0,11V   G=0,59V   B=0,30V 
+
+82).- Los sensores C.C.D. de transferencia de interlínea emplean filtros de 
+corte infrarrojo,¿ para que se usan estos filtros? 
+
+  A) aumentar el rango de sobreexposición antes del "smear". 
+  B) reducir el "moire". 
+  C) corregir la temperatura de color. 
+  D) proteger el grupo dicróico. 
+
+83)  Si  queremos  medir  la  fase  diferencial  de  unas  Barras  de  Color, 
+emplearemos:       
+        A) Un monitor forma de Onda 
+        B) Un Oscilógrafo 
+        C) Un Vectorscopio 
+        D) Un termocolorímetro 
+
+84) ¿Qué tipo de sensor CCD, utiliza Obturador mecánico para la fase de 
+transferencia de cargas? 
+
+A)  Tipo IT 
+B)  Tipo FT 
+C)  Tipo FIT 
+D)  Ninguno utiliza obturador mecánico 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+85)  En  el  sistema  PAL,  en  cada  campo  el  “burst”  no  está  presente 
+durante: 
+
+A)  25H 
+B)  9H 
+C)  12,5H 
+D)  6,25H 
+
+86)  En la norma 4:2:2 CCIR-601 la frecuencia de muestreo de cada una de 
+las señales de diferencia de color es: 
+
+A)  6,75 Khz 
+B)  13,5 Mhz 
+C)  12,5 Khz 
+D)  Ninguna de las anteriores. 
+
+87) La operación denominada balance de blancos de la cámara se realiza 
+para: 
+
+A)  La corrección de contorno. 
+B)  La corrección de luminancia. 
+C)  Igualar las amplitudes o ganancias de las señales de video del rojo 
+y  azul  con  relación  a  la  señal  de  verde  correspondiente  a  cada 
+iluminación. 
+
+D)  Igualar  las  amplitudes  o  ganancias  de  las  señales  de  video  del  rojo  y 
+
+verde con   
+relación a la señal del azul. 
+
+88) Si hablamos de TV digital, que es la cuantificación: 
+
+A)  Es  el  proceso  mediante  el  cual  se  atribuye  a  cada  muestra  un 
+valor  en  amplitud  dentro  de  un  margen  de  niveles  previamente 
+fijado.  
+
+B)  Es el proceso mediante el cual se atribuye a cada muestra un valor 
+
+en longitud dentro  
+
+de un margen de niveles previamente fijado. 
+C)  Es un proceso dinámico en cuadratura. 
+D)  Es un proceso en miniatura. 
+
+89)  La característica específica de un sensor Hyper-Had es … 
+
+A)  Incorporar una microlente divergente para cada elemento sensor 
+
+de la parrilla 
+
+B)  Incorporar  una  microlente  convergente  para  cada  elemento 
+
+sensor de la parrilla 
+
+C)  Incorporar  una  microlente  convergente  para  el  conjunto  de  los 
+
+elementos sensores 
+
+D)  Incorporar  una  microlente  divergente    para  el  conjunto  de  los 
+
+elementos sensores 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+90)¿Cuáles  son  los  fundamentos  de  la  captación  de  imagen  de  un  CCD  en  una 
+cámara de TV? 
+
+A)  Captar la luz blanca, separarla en los tres colores primarios y transferirla. 
+B)  La  conversión  fotoeléctrica,  el  almacenaje  de 
+
+la  carga  y 
+
+la 
+
+transferencia 
+
+C)  Capta la imagen y el almacenaje de la carga. 
+D)  Almacenar y transferir. 
+
+91) Que es un píxel? 
+
+A Mapa de  bit. 
+B Aerógrafo de paleta gráfica. 
+C Unidad mínima de imagen electrónica. 
+D Fotograma de una película. 
+
+92) Clear-Scan es una función de la cámara que permite: 
+
+A)  Obtener imágenes más luminosas. 
+B)  Evitar el efecto “smear”. 
+C)  Obtener imágenes sin bandas horizontales al grabar un 
+
+monitor. 
+
+D)  Incrementar la sensibilidad del CCD sin aumentar el ruido. 
+
+93) El efecto “smear” en un CCD se produce: 
+
+A)  En mayor medida en las longitudes de onda cortas. 
+B)  En mayor medida en las longitudes de onda largas. 
+C)  En igual medida en todas las longitudes de onda. 
+
+         D) Imágenes con colores muy saturados. 
+
+94) El ruido de patrón fijo (FPN), se produce en un CCD: 
+A)  Por la lentitud en la transferencia de carga. 
+B)  Grabar a muy bajas temperaturas. 
+C)  Por la falta de linealidad en la corriente de oscuridad de los 
+
+píxeles. 
+
+D)  Por el campo electromagnético constante al que está sometido. 
+
+95) El desplazamiento espacial de medio píxel en una cámara CCD 
+permite: 
+
+        A) Disminuir el ancho de banda y la resolución del canal de luminancia.            
+
+              B) Aumentar la resolución vertical del canal de crominancia. 
+              C) Mejorar la relación señal ruido del canal de crominancia. 
+
+         D) Aumentar el ancho de banda y la resolución  del canal de                       
+
+luminancia 
+
+96) En  una  cámara  fotográfica  de  gran  formato  la  perspectiva  se  corrige 
+con : 
+
+A)    Una óptica larga. 
+B)  Cerrando el diafragma 
+C)  Los montantes delantero y trasero. 
+D)  Picando la cámara. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+97)  El negativo digital (DNG ó RAW): 
+
+A)  Almacena la imagen a la máxima profundidad de gama. 
+B)  Almacena el bruto de la captura de la imagen. 
+C)  Almacena  la imagen aplicando la máxima ganancia. 
+D)  Almacena la imagen a 32 bits por píxel. 
+
+98) La profundidad de color: 
+
+A)  Aumenta la saturación de la imagen a mayor profundidad de color. 
+B)  Reproduce fielmente los colores en el monitor. 
+C)  Es un valor de impresión para el laboratorio. 
+D)  Es la información cromática que distingue un dispositivo 
+
+99)  ¿Qué es un espacio de color? 
+
+ A)La gama de color que usaremos al trabajar en un dispositivo. 
+B)  La gama de color que no ve nuestro monitor. 
+C)  La gama de color de cada tipo de archivo. 
+D)  La gama de color para imprimir en brillo o en mate. 
+
+100) ¿Qué es un perfil de color? 
+
+A)  Es la información que permite situar el gamut dentro del espacio 
+
+de color 
+
+B)  Es el valor cromático de un espacio de color. 
+C)  Es el color que lleva un archivo. 
+D)  Es la cantidad de saturación que debe tener un archivo. 
+
+101)  El ajuste del punto blanco en un escáner sirve para: 
+
+A)  Ajustar el CCD. 
+B)  Ajustar la temperatura de color. 
+C)  Ajustar el punto de partida del rango dinámico. 
+D)  En un escáner no se ajustan el punto blanco. 
+
+102)  La interpolación de un archivo es: 
+
+A)  Adecuar su tamaño a la resolución del monitor. 
+B)  Aumentar su tamaño de manera ficticia. 
+C)  Conseguir su tamaño óptimo de impresión. 
+D)  Adecuar su tamaño al del sensor que lo capturó. 
+
+103)  Al escanear una diapositiva para su retoque en Photoshop y 
+posterior impresión, lo mejor es: 
+
+A)  Escanearla en CMYK. 
+B)  Escanearla en RGB. 
+C)  Lo define el escáner. 
+D)  Da lo mismo, no tiene importancia. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+104)  ¿Cómo  se  llama  a  la  gráfica  que  muestra  la  distribución  de  los 
+píxeles, de una imagen digital, según sus valores tonales? 
+  A.)- Curva de contraste  
+  B.)- Histograma 
+  C.)- Curva de luminancia 
+  D)- Rango dinámico 
+
+105).- Si mantenemos presionado el botón "Quick Zoom": 
+
+  A) el número f. se cierra al maximo. 
+  B) el número f. se ajusta a la iluminación. 
+  C) el objetivo abre al máximo de angular. 
+  D) el objetivo se cierra al máximo de tele. 
+
+106) Si activas el A.T.W. de una cámara de E.N.G.: 
+
+  A) el balance de blancos se ajusta automáticamente a los valores de la 
+
+tarjeta externa de memoria. 
+
+  B) el balance de blancos se ajusta automáticamente a las 
+
+condiciones de iluminación variables. 
+
+  C) el balance de blancos se ajusta automáticamente a 3200ºK.. 
+  D) el balance de blancos se ajusta automáticamente a 5500ºK.. 
+
+107) ¿Qué és el D.C.C.? en las cámaras de E.N.G.: 
+
+  A) el control de contraste dinámico. 
+  B) el detector de cortes de corriente. 
+  C) la corrección de contorno digital. 
+  D) el contador de código digital. 
+
+108) La fase de elaboración del guión en una ordenación de los diversos 
+escenarios  con  una  descripción  breve  de  la  acción  y  de  los  personajes 
+que intervienen es: 
+
+A) Continuidad. 
+
+           B) Escaleta. 
+           C) Sinopsis. 
+           D) Guión de cámara. 
+
+109)  ¿En que consiste la perspectiva? 
+
+Es la profundidad aparente en el cuadro debido al tamaño de 
+
+A) 
+las imágenes situadas a distintas distancias. 
+Una sensación falsa del entorno. 
+B) 
+C) 
+Es el tamaño de objetivo. 
+D)       Es la relación entre objetivo y el formato de grabación 
+
+110) La noticia y el reportaje se diferencian por: 
+
+A) La duración y el contenido; el reportaje tiene opiniones. 
+B) La duración y el contenido; la noticia tiene opiniones. 
+C) La duración y el contenido, el reportaje no tiene opiniones. 
+D) La duración y el contenido, la noticia y el reportaje tienen opiniones. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+111) Si decimos de un plano que es un plano contrapicado estamos 
+definiéndolo por… 
+
+A)  El contraste tonal del plano 
+B)  El  tamaño del plano 
+C)  La angulación del plano 
+D)  El movimiento interno del plano 
+
+112) En las cámaras autónomas Sony para poder ver el código de tiempo 
+en un monitor, que salida hay que utilizar: 
+
+A)  TC OUT 
+B) TEST OUT 
+C) VIDEO OUT 
+D)  GENLOCK IN 
+
+113)¿Qué    plano  tengo  que  insertar  antes  de  saltarme  correctamente  el  eje  de 
+acción de un personaje  paseando en sentido derecha - izquierda?  
+
+A) Un plano frontal del personaje.  
+B)  Cualquier plano es valido. 
+C)  El mismo plano más abierto. 
+D)  Un plano americano 
+
+114) Cual es la principal diferencia que existe entre noticia y crónica 
+
+A   La duración de la crónica es mayor. 
+B.  El número de entrevista en la noticia es menor. 
+C.  La crónica  esta elaborada desde el lugar y en el momento de 
+
+los hechos, pudiendo aportar su opinión el informador. 
+
+D.  La noticia tiene mayor relevancia periodística 
+
+115)  Entre  dos  planos  consecutivos  de  una  misma  escena;  conseguir  la 
+sensación  de  continuidad  (de  acción,  de    iluminación,  de  sonido,  de 
+disposición de los elementos), se conoce con el nombre de 
+
+  A.- Eje de acción 
+  B.- Encadenado 
+  C.- Secuencia 
+  D.- Raccord  
+
+116)  ¿Cómo  se  llama  el  plano  que  nos  muestra  el  punto  de  vista  de 
+alguno de los personajes de la escena? 
+
+A.- Contraplano 
+B.- Plano subjetivo 
+C.- Plano secuencia 
+D.- Plano de escorzo 
+
+117)  Cuando  en  una  toma  queremos  alterar  la  perspectiva  de  la  escena, 
+
+usaremos 
+
+  A.- Un movimiento de travelling 
+  B.- Un movimiento de zoom 
+  C.- Indistintamente, cualquiera de los dos movimientos 
+  D.- La perspectiva no se puede alterar en una sola toma 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+118) El orden correcto de las fases para la construcción del guión es: 
+
+A)  Idea-sinopsis-tratamiento-guión literario-escaleta-guión técnico-guión 
+
+de trabajo. 
+
+B)  Idea-sinopsis-escaleta-tratamiento-guión literario-guión técnico-
+
+guión de trabajo. 
+
+C)  Idea- sinopsis-tratamiento- guión literario-guión técnico-escaleta-
+
+guión de trabajo. 
+
+D)  Idea-escaleta-sinopsis-tratamiento-guión literario-guión técnico-guión 
+
+de trabajo. 
+
+119) En un guión a tres columnas en la tercera de ellas se indica: 
+
+A)  La música, y efectos  sonoros. 
+B)  El atrezzo y elementos necesarios para la acción. 
+C)  La parte visual, el desarrollo de la acción. 
+D)  Los personajes que intervienen. 
+
+120) Bajo el quicio de una puerta hay un personaje, si pasamos de un PG 
+
+Interior y de espaldas, a un PG Exterior de frente y a 180º respecto 
+del anterior ¿es correcto montarlos por corte? 
+
+A.  No, hay un salto de eje evidente que desconcertaría al espectador. 
+B.  Si,  solamente si el personaje mira a cámara. 
+C.  Si, porque no hay cambio en el tamaño del plano. 
+D.  Si, no desconcierta, independientemente del tamaño y mirada. 
+
+ 
+ 
+ 
+ 
+

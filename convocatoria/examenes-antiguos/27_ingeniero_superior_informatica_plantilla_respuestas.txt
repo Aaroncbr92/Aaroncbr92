@@ -1,0 +1,670 @@
+CUESTIONARIO 
+
+APARTADO 1 – PREGUNTAS 
+
+1.  Para medir la calidad de una interfaz de un programa informático, contamos 
+
+con las reglas heurísticas de Nielsen. En relación a estas reglas, marque la 
+opción falsa:  
+
+A) El sistema no debería indicarle al usuario cuál es el estado del sistema, ya 
+que puede inducirle a confusión y errores. 
+
+B) Los diálogos de error que pueden aparecer en la interfaz no deberían incluir los 
+códigos internos de los errores. 
+
+C) La interfaz debería ser consistente con respecto a otras herramientas similares. 
+D) El sistema debería utilizar metáforas de acuerdo al modelo mental del usuario. 
+
+2.  Según la norma 1/2020 de la CRTVE sobre protección de datos, garantía y 
+
+derechos digitales, ¿qué es el APAI? 
+
+A) Es quien asume el rol de responsable interno de los tratamientos de datos de 
+carácter personal de una Dirección/Área concreta. 
+
+B) Es el encargado de la gestión de permisos de acceso a los activos de 
+información. 
+
+C) Es la persona física o jurídica, autoridad pública, servicio u otro organismo que, 
+solo o junto con otros, determina los fines y medios del tratamiento. 
+
+D) Es la persona a la que el responsable del tratamiento ha asignado formalmente  
+la función de coordinar y controlar las medidas de seguridad aplicables.  
+
+3.  Teniendo una red IP con máscara 255.255.240.0 ¿cuántos puestos se 
+
+pueden direccionar? 
+
+A) 254 
+
+B) 4096 
+
+C) 256 
+
+D) 4094 
+
+4.  En IPv6 ¿Qué dirección es “localhost”? 
+
+A) ::1 
+
+B) 2001:DB8:0:1:1:1:1:1 
+
+C) 2001:DB8:: 
+
+D) ff00:: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.  Dentro de la gestión de riesgos en el desarrollo de un proyecto informático, 
+
+indique cuál de las siguientes opciones NO define información que se 
+incluye en una matriz de riesgos: 
+
+A) Descripción del riesgo. 
+
+B) Probabilidad de ocurrencia del riesgo. 
+
+C) Número de recursos humanos implicados en el riesgo. 
+
+D) Impacto del riesgo. 
+
+6.  En un ataque ICMP Flooding 
+
+A) se quiere sobrecargar el objetivo a base de “ping” 
+
+B) se quiere tener acceso a los servidores mediante inundación de comandos SQL 
+
+C) se quiere obtener datos de la topología de la red a base de respuestas SNMP 
+
+D) se quiere sobrecargar los routers de las instalaciones mediante pruebas de 
+contraseña de administración 
+
+7.  ¿Qué valor devuelve la siguiente función javascript? 
+
+function prueba (){ 
+
+var i = 1; 
+var j = 0; 
+while (i < 7){ 
+j += i; 
+i +=2;} 
+
+return j;} 
+
+A) 2 
+
+B) 9 
+
+C) 6 
+
+D) 0 
+
+8.  ¿Cuál de las siguientes afirmaciones sobre bases de datos relacionales se 
+
+deriva de las Reglas de Codd? ANULADA 
+
+A) Un SGBD no debe permitir el uso de valores vacíos. 
+
+B) Los cambios realizados a nivel físico no deben afectar al nivel lógico. 
+
+C) Un SGBD no debe almacenar información redundante ni cíclica. 
+
+D) Un SGBD no debe almacenar información redundante ni cíclica. 
+
+9.  Indique la velocidad máxima de transferencia del USB 4.0: 
+
+A) Hasta 20 Gbps. 
+
+B) Hasta 30 Gbps. 
+
+C) Hasta 40 Gbps.   
+
+D) Hasta 50 Gbps. 
+
+ 
+ 
+ 
+ 
+ 
+10. ¿Cómo se denomina al proceso de identificar y resolver las relaciones 
+funcionales en sus partes constituyentes en el proceso de toma de 
+requisitos? 
+
+A) Descomposición funcional. 
+
+B) Ingeniería funcional. 
+
+C) Gestión de Calidad. 
+
+D) Ingeniería inversa. 
+
+11. En relación con las VPN de nivel de enlace, ¿Cuál de los siguientes 
+protocolos NO se utiliza para la implementación de dicha VPN? 
+
+A) PPTP (Point-to-Point Tunneling Protocol). 
+
+B) L2F (Layer Two Forwarding). 
+
+C) L2TP (Layer Two Tunneling Protocol). 
+
+D) P2TP (Point Two Tunneling Protocol). 
+
+12. De los siguientes protocolos de enrutamiento ¿cuál utiliza un algoritmo de 
+
+vector de distancia? 
+
+A) OSPF 
+
+B) IGRP 
+
+C) IS – IS 
+
+D) OLSR 
+
+13. En Programación Orientada a Objetos, una clase abstracta NO puede: 
+
+A) Implementar un interfaz. 
+
+B) Ser superclase. 
+
+C) Ser instanciada. 
+
+D) Contener métodos no abstractos. 
+
+14. Indique cuál de las siguientes afirmaciones sobre el lenguaje de 
+
+programación Java es correcta: 
+
+A) Una clase puede implementar varios interfaces, pero solo puede heredar 
+directamente de una clase. 
+
+B) Una clase puede implementar varios interfaces, y heredar directamente de varias 
+clases. 
+
+C) Una clase puede implementar un sólo interfaz, y heredar directamente de una sola 
+clase. 
+
+D) Una clase puede implementar un sólo interfaz, y heredar directamente de varias 
+clases. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+15. ¿Cuál de las siguientes no es una base de datos NoSQL válida? 
+A) MongoDB 
+
+B) PostgreSQL 
+
+C) Cassandra 
+
+D) Hbase 
+
+16. Indique cuál de los siguientes términos corresponde a un lenguaje que 
+
+permite referenciar partes de un documento XML: 
+
+A) XSL 
+
+B) XSD 
+
+C) XML-Ref 
+
+D) XPath 
+
+17. NO es un protocolo orientado a conexión: 
+
+A) SNMP 
+
+B) XMPP 
+
+C) ATM 
+
+D) SMTP 
+
+18. De acuerdo con la Ley Orgánica de Protección de Datos Personales 
+
+(LOPDGDD), cuál de las siguientes categorías de datos no está considerada 
+como especial: 
+
+A) Vida Sexual. 
+
+B) Nombre 
+
+C) Origen étnico o racial 
+
+D) Datos genéticos 
+
+19. ¿Cuál de las siguientes sentencias de SQL es una sentencia DDL? 
+
+A) ALTER TABLE 
+
+B) SELECT TABLE 
+
+C) ROLLBACK 
+
+D) UPDATE TABLE 
+
+20. En Linux, ¿cuál es el fichero que contiene las direcciones de los servidores 
+
+DNS que se utilizarán para la navegación por Internet? 
+
+A) hosts 
+
+B) dns.conf 
+
+C) resolv.conf 
+
+D) interfaces 
+
+ 
+ 
+ 
+ 
+ 
+21. En el modelo entidad relación extendido, los 4 elementos fundamentales 
+
+son 
+
+A) Entidad, relación, dominio y atributo. 
+
+B) Entidad, relación, estructura y ocurrencia 
+
+C) Entidad, relación, atributo y categoría 
+
+D) Entidad, relación, dominio y cardinalidad 
+
+22. ¿Cuál de los siguientes productos le permite realizar un seguimiento de los 
+
+errores de software del proyecto?  
+
+A) Nagios 
+
+B) Visualbug 
+
+C) CVS 
+
+D) Mantis 
+
+23. En XML, ¿Para qué sirve CDATA? 
+
+A) para indicar que una etiqueta puede tener atributos largos 
+
+B) para indicar que aquí van datos en formato “C” 
+
+C) para indicar que en una etiqueta, el contenido tiene que ir validado 
+
+D) para indicar que en una sección no se interpreten los caracteres 
+
+24. En un diagrama de clases, el tipo específico de relación que expresa una 
+propiedad fuerte entre un objeto y las partes que lo componen, hasta el 
+punto de que incluso coinciden los tiempos de vida del objeto completo y 
+sus partes, se denomina:  
+
+A) Asociación 
+
+B) Dependencia 
+
+C) Composición 
+
+D) Agregación 
+
+25. Indique cuál de las siguientes herramientas no tiene como finalidad la 
+
+monitorización o gestión de servicios e infraestructuras TIC:  
+
+A) kubernetes 
+
+B) Nagios 
+
+C) Prometheus 
+
+D) Zabbix 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26. Indique cuál de las siguientes opciones corresponden a una API de Java 
+
+para el procesamiento de documentos en formato XML. 
+
+A) JNA 
+
+B) JAXP 
+
+C) JNI 
+
+D) JPaX 
+
+27. Indique cuál de las siguientes características es propia de los sistemas de 
+
+bases de datos NoSQL: 
+
+A) Soportan operaciones con JOIN 
+
+B) Garantizan transacciones ACID 
+
+C) Utilizan estructuras de tipo tabla para el trabajo relacional 
+
+D) Escalan bien horizontalmente 
+
+28. En relación al Streaming y a los protocolos de aplicación más utilizados 
+
+para vídeo y audio, señale la respuesta incorrecta: 
+
+A) HLS, soporta una transmisión con tasa de bits adaptativa, por lo que la calidad se 
+adapta al ancho de banda del cliente Player. 
+
+B) LL-HLS, ofrece latencias inferiores a 2 segundos o menos y es retro compatible 
+con versiones anteriores. 
+
+C) HDS, es la evolución de RTMP por parte de Adobe, siendo un protocolo de 
+transmisión basado en flash que está en proceso de desuso. 
+
+D) MPEG-DASH, es un protocolo de tasa de bits no adaptativa de transmisión y 
+dependiente del códec. 
+
+29. La Tercera Parte de Confianza (TPC) de un entorno de clave pública, que se 
+encarga de legitimar la relación de una clave pública con la identidad de un 
+usuario o servicio es:  
+
+A) Autoridad de Certificación (AC). 
+
+B) Autoridad de Validación (AV). 
+
+C) Autoridad de Registro (AR). 
+
+D) Autoridad de Revocación (AR). 
+
+30. ¿Qué valores pinta la siguiente función? 
+
+let fn = ( foo='default1', bar='default2' ) => console.info( foo, bar ); 
+
+fn( undefined, null ); 
+
+A) default1, default2 
+
+B) default1, null 
+
+C) undefined, undefined 
+
+D) undefined, null 
+
+ 
+ 
+ 
+ 
+  
+ 
+31. Si disponemos de 8 discos SAS de 1TB netos configurados en RAID1, ¿de 
+
+qué capacidad neta se dispone en RAID1 en el sistema de almacenamiento? 
+
+A) 6 TB 
+
+B) 4 TB 
+
+C) 8 TB 
+
+D) 2 TB 
+
+32. De las siguientes arquitecturas de almacenamiento, ¿cuál ofrece un acceso 
+
+a nivel de fichero?  
+
+A) Object Storage 
+
+B) Network Attached Storage (NAS) 
+
+C) Direct Attached Storage (DAS) 
+
+D) Storage Area Network (SAN) 
+
+33. ¿Cuál es la forma correcta de definir un array de enteros en C#? 
+A) int[] arrayEnteros = new {1, 2, 3}; 
+
+B) int arrayEnteros[] = new() {1, 2, 3}; 
+
+C) int[] arrayEnteros = new[] {1, 2, 3}; 
+
+D) int arrayEnteros[] = new {1, 2, 3}; 
+
+34. Una red de área de almacenamiento (SAN) se compone de: 
+
+A) Física, enlace y red 
+
+B) Host, fibra y almacenamiento 
+
+C) Interfaz, red y aplicación 
+
+D) Controladora, red y almacenamiento 
+
+35. A partir de la siguiente declaración de una clase Java 
+
+public class Video extends Multimedia implements Content { … } 
+
+      indique la respuesta correcta: 
+
+A) La clase Content es una clase abstracta 
+
+B) La clase Video extiende la interfaz Multimedia 
+
+C) La definición es incorrecta porque en java no es posible tener herencia múltiple 
+
+D) La clase Video implementa la interfaz Content 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CUESTIONARIO 
+
+APARTADO 2 – SUPUESTOS 
+
+1.  Se pide obtener el Diagrama Entidad\Relación correspondiente al diseño conceptual para 
+
+el siguiente problema. 
+
+Los responsables del IORTVE deciden crear una base de datos que contenga la información de 
+
+los resultados de las pruebas realizadas a los trabajadores de RTVE. Para realizar el diseño se 
+
+sabe que: 
+
+  Un trabajador está definido por un número de matrícula, nombre  y Dirección a  la que 
+
+pertenece. 
+
+  Dichos trabajadores realizan dos tipos de prueba: 
+
+o  Exámenes  escritos:  cada  trabajador  realiza  varios  a  lo  largo  de  su  carrera 
+
+profesional,  y se definen por un número de examen, número de preguntas de 
+
+que  consta  y  la  fecha  de  realización  (la  misma  para  todos  los  trabajadores). 
+
+También es necesario almacenar la nota de cada alumno por examen. 
+
+o  Prácticas:  se  realiza  un  número  indeterminado  de  ellas  durante  su  carrera 
+
+profesional, algunas serán en grupo y otras individuales. Se define un código de 
+
+práctica,  título  y  grado  de  dificultad.  En  este  caso  los  trabajadores  pueden 
+
+examinarse  de  cualquier  práctica  de  manera  individual  cuando  lo  deseen, 
+
+debiéndose almacenar la fecha y nota obtenida. 
+
+Recordad que los elementos componentes del Diagrama Entidad\Relación son los siguientes: 
+
+ENTIDADES 
+
+RELACIONES 
+
+ATRIBUTOS 
+
+CARDINALIDAD 
+
+Ej. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Para ayudar en la resolución del problema se propone el siguiente diagrama como 
+punto de inicio de la solución: 
+
+ 
+ 
+  
+ 
+ 
+2.  Rellene los siguientes datos a partir de la siguiente dirección de red 192.10.10.0, 
+
+teniendo en cuenta que se deben cumplir los siguientes requisitos: 
+  Nº de subredes mínimas necesarias: 14 
+  Nº de hosts útiles necesarios: 14 
+
+Clase de red 
+
+______________________________________ 
+
+Máscara de Subred 
+
+______________________________________ 
+
+Nº total de subredes 
+
+______________________________________ 
+
+Nº total de direcciones de host 
+
+______________________________________ 
+
+Nº de direcciones útiles 
+
+______________________________________ 
+
+Nº de bits cogidos 
+
+______________________________________ 
+
+Dirección red inicial de la 4ª subred 
+
+______________________________________ 
+
+Dirección red inicial de la 8ª subred 
+
+______________________________________ 
+
+Dirección broadcast para la 13ª subred  
+
+______________________________________ 
+
+Direcciones asignables de la 9ª subred  
+
+______________________________________
+
+ 
+ 
+ 
+3.  Modificar la siguiente página web para que: 
+
+●  el div “cajacolor” muestre un color inicial 
+●  cada vez que se pulse el botón se cambie el color de dicho “div” 
+● 
+
+rotar entre 4 colores diferentes 
+
+<!DOCTYPE html> 
+<html> 
+  <head> 
+
+<script language="javascript"> 
+function pulsadoBoton() 
+{ 
+
+       console.log("Ha pulsado un botón"); 
+
+} 
+</script> 
+<style> 
+#cajacolor { 
+height: 200px; 
+width: 50%; 
+background-color: red; 
+} 
+</style> 
+  </head> 
+    <body> 
+
+<form> 
+<input type="button" value="Cambiar color" onclick="pulsadoBoton()" /> 
+</form> 
+<br/> 
+<div id="cajacolor"/> 
+
+    </body> 
+</html> 
+
+11 
+
+ 
+ 
+ 
+ 
+   
+   
+   
+ 
+ 
+   
+   
+   
+   
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

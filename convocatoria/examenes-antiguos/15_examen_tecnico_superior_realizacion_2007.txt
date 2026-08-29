@@ -1,0 +1,677 @@
+13-SET-2007 10:07 DE-CC.00. PRADO DEL REY +915916035 T-793 — P.001 F-218
+CONVOCATORIA GENERAL RTVE 1 / 2007
+- PRUEBA TEÓRICA (día 17 julio 2007)
+Categoría Laboral: TÉCNICO SUPERIOR DE REALIZACIÓN
+1) ¿Qué conocemos por un IBC?
+A) Un conector de tipo DIN que se utiliza en aplicaciones MIDI
+B) Un cabl e coaxial dieléctrico con buena relación de atenuación
+C) Un centro nodal de recepción de señales de distinto origen que funciona de filtraje
+D) Un tipo de corrector de la señal de vídeo
+2) ¿Qué es un ID?
+A) Un tipo de identificador de clip de vídeo
+B) Un TG
+C) Un punto de entrada de vídeo
+D) Son correctas la a y la b
+3) En informativos, ¿cuál de estas funciones está relacionada con un editor?
+A) Establecer el ritmo en el montaje de una noticia
+B) Dar entr adas y salidas a los planos
+C) Decid ir el tiempo de duración aproximado de una noticia
+D) Son correctas la a y la b
+4) — El interfaz de entendimiento entre un sistema automatizado de emisión de cintas y
+la base de datos que lo gestiona es:
+A) Mediante un código digital binario
+B) Median te un código de barras
+C) Median te una lupa óptica binocular
+D) Mediante un impulso electrostático
+5) — ¿Qué es un travelling retro?
+A) Un movimiento de cámara sobre vias
+B) Un movimien to óptico de cámara en retroceso
+C) Un movimien to mecánico de cámara sobre vías
+D) Un movimiento mecánico de cámara en retroceso
+6) ¿Qué es “mesa italiana” en una telecomedia?
+A) Una mesa de atrezzo
+B) Un ensayo operistico
+C) Lu gar de ensayo para pasar texto y perfilar una secuencia antes de grabarla
+1) sala de reunión para los actores antes de la grabación
+4 TS
+
+13-SET-2007 10:07 DE-CC.00. PRADO DEL REY +915916035 T-793 — P.002 F-218
+7) ¿Qué entendemos por ensayo mecánico?
+A) Un ensayo sin importancia
+B) Un ensayo sin actores
+C) Un ensayo con los actores fuera de la escena siguiendo atentamente las
+indicaciones del director
+D) Un ensayo en el que se marca el movimiento escénico y sirve para fijar posiciones
+para actores y técnicos
+8) —¿Quées un PA?
+A) Un Plano Americano
+B) Un Plano Ampl ¡o
+C) Un Plano de Ac ercamiento
+1D) Un Plano Ancho
+9) — ¿Qué hace el Ayudante de Realización durante los ensayos de una ópera?
+A) Apuntar los días de ensayo para dárselos al productor
+B) Anotar los movimientos escénicos
+C) Planificar los movimientos escénicos
+D) Seguir la partitura
+10) ¿Quién ha sido coguionista de “El perro andaluz”?
+A) Dali
+B) Picasso
+C) Antonio López
+D) Tapies Ñ
+11) En la edición lineal para trabajar en modo “insert” debemos:
+A) utilizar una cinta virgen
+B) pistar pr eviamente la cinta
+C) sólo se pued e utilizar en la edición no lincal
+D) sólo se utiliza en los formatos digitales
+12) La señal de luminancia Y correspondiente a un blanco está compuesta por la
+siguiente combinación de colores:
+A) Y =11% rojo + 59% azul + 30% verde
+B) Y = 59% verde + 30% rojo + 11% azul
+C) Y = 30% azul - 11% verde + 59 % rojo
+D) Y= 59 % rojo + 30% verde + 11% azul
+13) Un polarizador nos sirve para.
+A) aumentar el contraste de la escena
+B) suavizar la satur ación de las altas luces
+C) aume ntar el brillo de las bajas luces
+D) eliminar reflejos indeseados
+3 1VSR
+
+13-SET-2007 10:08 DE-CC.00. PRADO DEL REY +915916035 T-793 — P.003 F-218
+14) Un color parecerá más brillante sobre fondo:
+A) gris neutro
+B) indistintamente
+C) blanco
+D) negro
+15) Qué número de campos por segundo tiene el sistema NTSC americano?
+A) 60
+B) 25
+0) 30
+D) 50
+16) Un wild-track se refiere
+A) sonido internacional que contiene música y efectos sonoros
+B) banda d e sonido que contiene todos los efectos sonoros
+C) la pri mera mezcla de una grabación multipista
+D) audio grabado no sincrónico con la imagen
+17) Un super-negro sirve para:
+A) cortar la luz en determinadas zonas de la escena
+B) real izar recortes de luminancia con mayor calidad
+() pintar de negro zonas del decorado que queremos recortar por key
+D) insertar los impulsos de borrado de cuadro
+-
+18) Qué entiendes por back-line?
+A) sistema de monitorado desplegado en cl escenario que ulilizan los músicos para
+oir
+B) luces d e contra del escenario
+C) instrum entos musicales para una actuación
+D) espacio reservado detrás del escenario para moverse los técnicos y músicos
+19) ¿Cuál de estas afirmaciones es cierta entre los conceptos toma y plano?
+A) la toma es la parte del plano que se incorpora en el discurso narrativo
+B) el pl ano cs la parte de la toma que se incorpora en el discurso narrativo
+C) la to ma es la unidad básica de la narración y el plano una relación de tomas
+D) el plano y la toma tienen la misma duración
+20) El color que produce más ruido en la imagen de televisión es el...
+A) azul
+B) verde
+C) rojo
+D) magenta
+3 TSR
+
+13-SET-2007 10:08 DE-CC.00. PRADO DEL REY +915916035 T-793 — P.004 F-218
+21) ¿Qué es una mesa de P.A.?
+A) mesa de control de monitorado de los músicos
+B) mesa de mezclas de previo de la orquesta
+C) mesa de luminotecnia
+D) mesa de control de megafonía de sala
+22) “DOCE HOMBRES SIN PIEDAD” es una obra de Reginald Rose, pero ¿quién la
+realizó para TVE?
+A) Josefina Molina
+B) Valcr lo Lazaroy
+C) Gustavo Pérez, Puig
+D) Pedro Amalio López
+23) Se denomina “DIMMER” al dispositivo
+A) Encargado de medir la luz incidente
+B) Que mid e la temperatura de color de una luz
+C) Regulador de la cantidad de corriente que circula a través de una lámpara
+D) Encargado de medir la luz reflejada en el estudio
+24) Un ultrasonido tiene una frecuencia superior a .
+A) 50 Hz
+B) 20 Hz
+C) 10.000 Hz
+D) 20.000 lz 2
+25) El proceso de igualado progresivo de la fotografía de cada toma montada a partir
+del primer copión o telecine se denomina
+A) Ensamblaje
+B) Montaj e
+C) Eta lonaje
+D) Drenaje
+26) La amplitud de la onda sonora se percibe como sonoridad, la cual se mide en
+A) Amperios
+3) Ciclos
+C) Decib elios
+D) Tonos
+27) Una función de la CCU es
+A) Pasar las señales de video compuesto a componentes RGB
+B) Generar s eñales de prueba para el ajuste de cámara
+C) Aument ar el ruido de la señal
+D) Proporcionar un control remoto de lunciones de la cámara
+41SR,
+
+13-SET-2007 10:08 DE-CC.00. PRADO DEL REY +915916035 T-793 — P.005 F-218
+28) Otro nombre por el que se conoce a la carta de reflectancia logarítmica
+A) Carta de resolución
+B) Carta de registro
+C) Carta de balance
+[)) Carta de escala de grises
+29) El altavoz responsable de reproducir las frecuencias más altas es el
+A) Tweeter
+B) Woo fer
+C) Bocín a
+D) Trompeta
+30) El Avid Media Composer es un sistema de edición que permite el siguiente tipo de
+acceso a la fuente durante la edición
+A) Acceso lineal
+B) Acceso lo ngitudinal
+C) Acceso tr ansversal
+DD) Acceso aleatorio
+31) Un video que empieza en 1h 13 53” y termina en 1h 22” 32” dura
+A) 8 217
+B) 8” 39”
+0921”
+D) 9 39” a
+32) Enel sistema PAL la frecuencia de la subportadora de color es:
+A) 4,43 Hz superior a la de la portadora
+B) 4,43 kHz superior a la de la portadora
+C) 4,43 MHz inferior a la de la portadora
+D) 4,43 MHz superior a la de la portadora
+33) Un DSK (downstream keyer) es:
+A) Un generador de efectos de salida de sonido
+B) Un sistema de reducción de ruido de la mesa de sonido
+C) Un generador de s cñial llave de crominancía en la fuente primaria del mezclador
+de video
+D) Un incrustador final del mezclador de video, normalmente por luminancia
+34) Llamamos almacenamiento RAID al:
+A) Almacenamiento en un disco duro de varios proyectos de edición de video
+B) Alma cenamiento en varios discos duros de los proyectos de edición de video
+C) Alma cenamiento redundante en varios discos duros de la información
+D) Almacenamiento en varios discos duros de un proyecto de edición de video y
+audio o
+5 TSO,
+
+13-SET-2007 10:08 DE-CC.00. PRADO DEL REY +915916035 T-793  P.006/028  F-218
+35) Qué pionero del cine español dirigió “Riña en un café”, considerada la primera
+película argumental de nuestro cine
+A) Fructuoso Gelabert
+B) Albert Marro
+C) Segundo de Chomón
+D) Ricard Baños
+36) Cuál de estos compositores de bandas sonoras no pertenece al llamado “sinfonismo
+clásico” americano
+A) Alíred Newman
+B) Max Stein er
+C) Dimitri Tiomkin
+D) Alex North
+37) En un mezclador de vídeo la salida “clean feed” corresponde a:
+A) PGM sin rótulos
+B) PGM si DVE
+C) PGM sin chroma k ey
+1) PGM sin DSK
+38) Empleamos la alimentación Phantom en:
+A) Micrófonos de bovina móvil
+B) Micrófonos de cond ensador
+C) Micrófonos dinám icos
+D) Micrófonos de zona de presión Ñ
+39) Cuando colocamos el duplicador en un objetivo zoom, conseguimos:
+A) Aumentar la distancia focal y la prolundidad de campo sin afectar a la calidad de
+imagen
+B) Disminuir la distancia focal y la profundidad de campo, perdiendo calidad de
+imagen
+C) Aument ar la distancia focal y reducir la profundidad de campo, perdiendo calidad
+de imagen
+D) Aumentar la distancia focal y reducir la profundidad campo. sin perder calidad de
+imagen
+40) Si queremos acentuar la sensación de velocidad al hacer un movimiento de grúa,
+utilizaremos objetivos:
+A) Angulares
+B) Tel eobjetivos
+C) Rápidos
+D) La elección del objetivo no influye
+6 TSR,
+
+13-SET-2007 10:08 DE-CC.00. PRADO DEL REY +915816035 T-793  P.007/028  F-218
+41) Sien un programa grabado “masterizamos” una cámara, estamos:
+A) Colocando esa cámara en plano general para luego insertar recursos en montaje
+B) Dejando la cámara en un plano fijo que nos sirva de tabla de salvación en un
+apuro
+C) Grabando la señal de esa cámara en un video con el mismo TC que la grabación
+de la realización
+D) No se usa ese término en realización televisiva
+42) La paralipsis es:
+A) Un tipo de elipsis
+B) Un recurso narrativo que consiste en poner una trampa al espectador para desviar
+su atención de lo que nos interesa
+C) Un recurso narra tivo que consiste en mostrar información irrelevante al espectador
+para disminuir el ritmo del relato
+D) Un recurso narrativo que consiste en ocultar un dato de capital importancia, que el
+personaje si conoce, al especiador
+43) Quién escribió “El corazón de las tinieblas”, novela en la que se basó Coppola para
+su pelicula “Apocalypse Now”
+A) Joseph Conrad
+B) Henr y James
+C) F yodor Dostoevsky
+D) Howar Phillip Lovecraft
+44) Señala el término sinónimo de “soap opera” entre los siguientes géneros televisivos:
+A) Serial o culebrón
+B) Galas musi cales
+C) Comed ia de enredo
+D) Magazine musical
+45) ¿Quién dirigió la famosa trilogía de películas dedicada a las colores “Azul”, “Rojo”
+y “Blanco”?
+A) Krzysztof Kjiewslosky
+B) Abbas Kiarosta mi
+C) Takesh i Kitano
+D) Andrei Konchalovsky
+46) ¿En cuál de estas localidades hay un Centro Territorial de TVE?
+A) A Coruña
+B) León
+C) Mérida
+D) Ciudad Real
+47) Si hablamos de “spinoff”, ¿a qué nos referimos?
+A) A un tipo de proyector
+B) A una herramienta de edición no lineal
+C) A un tipo de personaje
+D) A una estrategia de programación
+7T13SR_
+
+13-SET-2007 10:09 DE-CC.00. PRADO DEL REY +915916035 T-793  P.008/028  F-218
+48) ¿Cuál de estos programas NÓ pertenece a la programación de TVE?
+A) Línea 900
+B) Cróni cas
+C) Mucho viaje
+D) Salón de lectura
+49) ¿Cuál fue el primer tubo de rayos catódicos empleado en la captación de imagen?
+A)Vidicon.
+B)Iconoscopio.
+C) Disco de Nipkow.
+D) Plumbicon
+530) ¿Qué significa la nomenclatura 4:2:2?
+A)Por cada 4 muestras de luminancia se toman sólo dos muestras de la diferencia de
+color roja y dos de la azul.
+B)Por cada 4 muestras de luminancia se 1oman sólo dos muestras de crominancia y
+dos de video separado.
+C) Por cada 4 muestras de crominancia se toman sólo dos muestras de video
+separado.
+D) Por cada 4 muestras de crominancia se toman dos muestras de luminancia y dos
+de la diferencia de color roja y azul.
+51) ¿Qué ancho de cinta tiene el formato IMX de Sony?
+A) Y de pulgada.
+B) Y de pulgada.
+C) 4 de pulgada.
+D) No existe cinta, graba sobre memoria,
+52) ¿Cuál es la medida de la longitud de onda de la luz?
+A) Candela
+B) Nanóme tro
+C) lumen
+D) Lux
+53) Se está grabando una ficción en vídeo con sonido directo. Hoy se graba una
+secuencia con una sola cámara, en diversos planos para su posterior montaje, con
+diálogo de los dos protagonistas y cincuenta figurantes que bailan tras ellos en una
+discoteca, ¿Qué aparatos de sonido son imprescindibles en el momento de la
+grabación?
+A) Un reproductor de CD con amplificación, una entrada de audio para la música y
+un micrófono para los diálogos.
+B) Un reproduc tor de CD con amplificación y un micrófono para captar los diálogos
+y la música.
+(-) Un micrófono par a captar el ambiente y un cañón con caña para los protagonistas,
+D) Un cafñión con caña.
+g TS
+
+13-SET-2007 10:09 DE-CC.00. PRADO DEL REY +915916035 T-793  P.009/028  F-218
+54) El cuadrante que tiene más peso en la composición se supone que es el situado:
+
+A) Arriba-izquierda.
+
+B) Abajo -izquicrda.
+
+CO) Arriba -derecha.
+
+D) Abajo-dcrecha.
+
+355) El efecto Kuleshov
+
+A) Supone que debe existir una continuidad en la banda de código de la cinta de
+vídeo,
+
+B) Comprobó que al montar el mismo plano de "un actor mirando”, con diferentes
+objetos, se modificaba la apreciación del público del carácter del personaje.
+
+C) Es un efecto d erivado de una ideología equivocada.
+
+D) Permite integrar imágenes y sonidos en cadenas de producción o montaje.
+
+56) El tiempo de la historia coincide con el tiempo del discurso:
+
+A) Sólo mediante operaciones de condensación internas al plano.
+
+B) En el interior del plano, fucra de señaladas excepciones.
+
+C) Dentro de la secuencia.
+
+D) En el momento del raccord.
+
+57) La iluminación en clave alta
+
+A) Es la que marca la máxima ¡iluminación posible para un objeto.
+
+B) Es aque lla que utiliza las tres fuentes de luz principal para crear iluminaciones con
+contrastes bajos entre las zonas iluminadas y las más tenues.
+
+C) Crea fuert es contrastes y sombras marcadas, apareciendo efectos de claroscuro.
+
+D) Corresponde a zonas claras del objeto resaltando frente a un fondo tenue.
+
+58) Eisenstein establece los siguientes métodos de montaje:
+
+A) Ideológico, metafórico, poético, alegórico e intelectual.
+
+B) De rel ación gráfica, simbólica, espacio-temporal y rímica.
+
+C) Por contras te, paralelismo, similitud. sincronismo y tema recurrente o leitmotiv.
+
+D) Métrica, rítmico, tonal, sobretonal o armónico e intelectual.
+
+39) Con la regla de los 180"
+
+A) Medimos la sensibilidad de la emulsión.
+
+B) Se cre an unas referencias de posición y movimiento que no varían al cambiar de
+plano.
+
+C) Se cre a un espacio abstracto en el cual el espectador sufre cambios bruscos de
+atención, según la dirección de las relaciones gráficas, según el montaje de
+atracciones.
+
+D) El ritmo del montaje, éste se supedita siempre a la narración.
+
+9 YSR,
+
+13-SET-2007 10:09 DE-CC.00. PRADO DEL REY +915916035 T-793  P.010/028  F-218
+60) El Principio del triángulo doble
+
+A) es un elemento básico en Sensitometria para conocer la respuesta de la emulsión
+fotosensible.
+
+B) responde u la concepción eisesteniana de la acción dentro de los nodos de
+montaje.
+
+C) crea tensiones entre la fragmentación y la continuidad.
+
+D) nos indica formas válidas de emplazamientos para las cámaras en multicámara,
+que nos darían todas las posibilidades de encuadre en una situación.
+
+61) Un teaser es:
+
+A) el ajuste de la señal de key previo a la incrustación del foreground.
+
+B) las secu encías previas a la cabecera (precabecera) en una teleserie.
+
+C) la relación entre audiencia total y picos relativos de audiencia medida minuto a
+minulo.
+
+D) las secuencias posteriores al desenlace (epílogo) en una teleserie.
+
+62) La banda de sonido
+
+A) Se debe a sonidos afinados o tonos sincronizados con sonido ambiente.
+
+B) Abarca son idos que pueden no tener una relación orgánica con la imagen.
+
+C)5e compone siempre que no lenga relación orgánica con la imagen, de ruido,
+música, diálogo; sonido sincronizado y no sincronizado; silencios y la ausencia de
+registro sonoro, incluso.
+
+D) Al unirse a la bañda de imagen y combinarse con el estéreo da graves problemas
+de insonorización.
+
+63) El film “Nosferatu, una sinfonía de vampiros” Ñ
+
+A) es famoso por el escándalo que se produjo en su rodaje debido a la muerte de la
+script.
+
+B) combi na el tema fantástico, propio del expresionismo, con el rodaje en escenarios
+urbanos naturales.
+
+C)es la primera película en la que se materializan los postulados del montaje
+soviético.
+
+D) en una obra maestra de Murnau de la que no nos queda ninguna copia debido a las
+presiones de los herederos de Bram Stoker, que la denunciaron como un plagio de
+su famosa novela “Dracula”,
+
+64) Basado en un cómic, se alzó hace unos pocos años con el Gran Premio del Jurado
+del Festival de Cannes:
+
+A) Sleep Stalker, de Tury Meyer, basado en el personaje Sandman, creado por Neil
+Gaiman.
+
+B) Sin City, de Robert Rodr iguez, basado en la novela gráfica de Frank Miller.
+
+C) Oldbo y, de Park Chan-wook, basada en el manga de Tsuchiya y Minegishi.
+
+D) Y de Vendetta, de James McTiegue, basada en los cómics de Alan Moore y David
+Lloyd.
+
+10 TSO
+
+13-SET-2007 10:10 DE-CC.00. PRADO DEL REY +915816035 T-793  P.011/028  F-218
+65) Una secuencia mecánica
+A) Es aquella que pare su planificación requiere de la utilización de una grúa, trávelin
+o cualquier soporte de cámara mecánico.
+B) Es aquella que está compuesta por un único plano articulado en diferentes
+encuadres.
+C) Es una unidad de tiempo y espacio.
+D) Es una unidad de tiempo y acción, pero no de espacio
+66) ¿Cuál es la compresión que se utiliza para la TDT?
+A) MPEG-2
+B) MPEG -4
+CO) H.264
+D) H.262 :
+67) ¿A qué corresponden las siglas PAL?
+A) Phase Alternating Line
+B) Phase Anamoph ing Line
+C) Phase Ampl itude Line
+D) Todas las respuestas anteriores son incorrectas
+68) Una cinta Betacam $X puede leerse en...
+A) Un magnctocospio tanto Betacam Digital como 5X
+B) Un magnetoscopio SX exclusivamente
+C) Un magnetoscopio Beracam IMX a
+D) Un magnetoscopio Betacam SP, Digital, SX o IMX
+69) ¿Qué se entiende por desaforar?
+A) Que al realizar una toma, ¿sta se sale del límite del decorado
+B) Dejar fuera d cl cuadro a un actor que interviene en la acción
+C) Sobrepasar el presupuesto en más de un 15%
+D) Mantener borrosa una parte de la escena
+70) ElDVE es:
+A) Un sistema de sonido
+B) Una comp resión de imagen
+C) Un organismo
+D) Un certificado
+71) Para hacer una retransmisión en directo ¿qué se debe pedir en la Unidad Móvil
+para asegurarse de que se está “en el aire”?
+A) Algún tipo de conexión telefónica con Control Central y/o un televisor sintonizado
+B) Un monitor con señal de “continuidad”
+C) Una cab ecera o cortinilla lanzada desde continuidad
+D) Un monitor de retorno de señal
+1 TS
+
+13-SET-2007 10:10 DE-CC.00. PRADO DEL REY +915816035 T-793  P.012/028  F-218
+72) La distancia entre el centro óptico del objetivo enfocando a infinito y la superficie
+fotosensible se llama:
+A) Distancia hiperfocal
+B) Profundidad de foco
+C) Distanc ia focal
+D) Profundidad de campo
+73) La distancia entre el objeto más cercano y más lejano que están a foco cuando el
+objetivo se encuentra enfocado a infinito es:
+A) La distancia hiperfocal
+B) La pro fundidad de campo
+C) La pro fundidad de foco.
+12) La distancia focal
+74) Un dispositivo semiconductor de almacenaje de cargas, mediante la adecuada
+disposición de puntos activos MOS, es:
+A) Un tubo plumbicón
+B) Un CCD
+C) Un bloque d icroico
+D) Un TBC
+73) La determinación de un sistema relativamente cerrado, que comprende todo lo que
+se encuentre presente en la imagen , es una definición de:
+A) Plató
+B) escen ario a:
+C) Encu adre
+D) Composición
+76) Para amortiguar los pasos, tirones y golpes en un rodaje con cámara al hombro,
+debemos utilizar:
+A) Opticas angulares
+B) Óptic as con zoom
+C) Filtros corres tores
+D) Entrelazado progresivo
+77) El espacio que no vemos pero que de alguna manera se relaciona con el que vemos
+haciéndose presente por diferentes medios es:
+A) El espacio dramático
+B) El esp acio contextual
+C) El e ampo omnisciente
+D) El fuera de campo
+78) Si necesitamos rodar efectos especiales con la técnica llamada doble pasada o doble
+filmación, necesitaremos el sistema:
+A) Croma key
+B) Motion con trol
+C) Ke yframe
+D) Wescam
+mn TSR,
+
+13-SET-2007 10:10 DE-CC.00. PRADO DEL REY +915816035 T-793  P.013/028  F-218
+79) ¿En que fase de los ensayos el director de fotografía corrige la posición de los
+aparatos que pudieran verse?
+A) En el ensayo mecánico
+B) En el ensayo de luces
+C) Enel ensayo de cámara
+D) En el ensayo de planta
+80) ¿Cuál de los siguientes formatos no puede tener canal alpha?
+A) TGA
+B) JPEG
+CO) TIF
+D) PSD
+81) Cual de los siguientes equipos de iluminación es el más indicado para suavizar
+sombras:
+A) Banco fluorescente
+B) Proyector Fresnel 2500W
+C) Preyector Fresnel 1200W HMI
+D) Proyector cinepar 1200W
+82) El máximo de ancho de banda de un canal terrestre es:
+A) 8 MHz
+B) 4 MH z .
+C)30 MH z
+D) 10 MHz
+83) ¿Que aparato es el menos indicado para iluminar un paño de croma?:
+A) Floodlight
+B) Spotlight
+C) Antar
+D) Scoop
+84) ¿Cuándo esta previsto por ley que se produzca en España el apagón analógico?:
+A) 2012
+B) 2008
+Cy 2010
+D) 2015
+85) El ojo humano es más sensible a:
+A) La señal de luminancia.
+B) La señal de cro minancia,
+CO) Es indiferen te
+D) Es sensible cuando actúan de manera conjunta
+13 TSR
+
+13-SET-2007 10:10 DE-CC.00. PRADO DEL REY +915916035 T-793 — P.014/028  F-218
+86) En una cámara el filtro ND:
+A) Aumenta la magnitud de luz de entrada sin afectar a la temperatura de color
+B) Aumenta la magnitud de luz de entrada afectando a la temperatura de color
+C) Atenúa la magnitud de luz de entrada sin afectar a la temperatura de color
+D) Aumenta la magnitud de luz de entrada cuanto mayor es la temperatura de color.
+87) ¿Qué es una señal internacional?
+A) Una señal que tiene locución en inglés
+B) Una señal que viene del extranjero
+C) Una señal realizada que sólo tiene sonido ambiente
+D) Una señal realizada con locuciones en varios idiomas y sonido ambiente
+88) ¿Cómo se denomina la sincronización de todos los equipos en una instalación de
+video?
+A) Cienlock
+B) Frame Lock
+C) Ke y
+D) Horizontal lock
+89) Un diagrama de ojo muy abierto muestra
+A) Una eran distorsión debida al Isi (Interferencia de símbolos)
+B) Una gran distorsión d ebida al ruido
+C) Una distorsión mínima de la señal
+D) No tiene un significado especial ] A
+90) ¿Qué es un salto intermedio?
+A) Un impulso electrónico entre dos señales
+B) Un enla ce receptor-cmisor
+C) Un enla ce entre el objetivo y el CCD
+D) Un salto temporal en el desarrollo de la acción
+91) ¿Qué es un vídeo “bruto”
+A) Un vídeo demasiado largo
+B) Un vídeo que ocup a más de una noticia
+C) Un vídeo con sonido ambiente y sin editar
+D) Un video que por su dureza de contenido no se puede emitir
+92) ¿Qué es un SNAP-SHOT?
+A) Una transición de DME memorizada
+B) Una me moria de valores y señales de un mezclador de efectos
+C) Una me moria de valores de las cortinillas de un mezclador de efectos
+D) Una memoria de valores de key de un mezclador de efectos
+93) Las siglas ADC se refieren a:
+A) La conversión de analógico a digital
+B) El estándar amcricano de Televisión Digital
+C) La unidad mínima de información
+D) La expresión inglesa que designa la Televisión por Cable
+14 TSR.
+
+13-SET-2007 10:11 DE-CC.00. PRADO DEL REY +915916035 T-793 — P.015/028  F-218
+94) Se denomina SIMULCAST:
+A) A la transmisión de datos en un flujo constante.
+B) Al med io físico por el que se transmite una señal específica
+CO) A la tr ansmisión de la misma señal por dos formas: analógico y digital
+D) Al proceso por el cual la señal que nos llega del satélite se transforma
+95) ¿Qué parámetros son los que definen la crominancia?
+A) Brillo y tono
+B) Brillo y saturación
+C) Saturación y contraste
+D) Saturación y tono
+96) En un mezclador de video, ¿cuándo se produce la conmutación por corte entre dos
+señales?
+A) Cada dos campos
+B) Durante el intervalo de borrado horizontal
+C) Durante el intervalo de borrado vertical
+D) En las 25 primeras líneas de cada campo
+97) Con objeto de ajustar lo más perfectamente posible dos planos diferentes que
+recogen a un actor levantándose de una silla, efectuarías el corte...
+A) inmediatamente antes de levantarse
+B) con el movimiento ya comenzado Ñ
+C) una vez que ya 50 encuentra en pie
+D) es indiferente
+98) Sien programa realizamos un chroma-koy con una cámara y como fondo
+utilizamos la imagen procedente de otra cámara. La señalización del tally afectará...
+A) únicamente a la cámara con la que estamos haciendo el chroma-key
+B) única mente a la cámara que estamos usando como fondo
+C) a las dos c ámaras
+D) depende de cómo hagamos la transición
+99) En la digitalización de una señal analógica, el teorema de Nyquist establece que
+para representar señales analógicas con precisión, la frecuencia mínima de
+muestreo:
+A) debe ser inferior a la frecuencia de la señal original
+B) debe ser igual que la frecuencia de la señal original
+C) debe ser al menos el doble de la frecuencia de la señal original
+D) da igual como sea la frecuencia
+100) ¿Cuántos niveles discretos podemos representar si empleamos un rango de
+cuantificación/codificación de 10 bits?
+A) 256 niveles :
+B) 512 niveles
+C) 1024 niveles
+D) 128 niveles
+15 TSR,

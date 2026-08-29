@@ -1,0 +1,710 @@
+Dirección de Recursos Humanos y Organización 
+
+CONVOCATORIA CRTVE 1 / 2020 
+
+PRUEBA  TEORICO-PRÁCTICA  DE  LA  OCUPACIÓN  TIPO  TÉCNICA 
+EQUIPOS Y SITEMAS ELECTRÓNICOS 
+
+1.  ¿Cuál  es  el número total  de hosts  que podremos  tener dentro  de  una  subred 
+
+definida por la siguiente máscara: 255.255.224.0? 
+
+a) 2048 máquinas. 
+b) 4095 equipos y una puerta de enlace. 
+c) 8190 equipos. 
+d) 16382 equipos terminales de red. 
+
+2.  En una comprobación rutinaria de una señal de video con un monitor forma de 
+onda queremos comprobar si esta contiene ruido de 50 Hz. Para ello debemos 
+observarlo en visualización de 
+
+a) 1 línea 
+b) 2 líneas 
+c) 2 líneas con magnificación x5 
+d) 2 campos 
+
+3.  Los equipos de una instalación se conectan a través de un switch formando una 
+red Ethernet. En la comunicación a nivel de enlace de datos, el switch efectúa los 
+direccionamientos: 
+
+a) Utilizando cableado UTP con conexiones cruzadas. 
+b) Utilizando las direcciones IP de los dispositivos conectados. 
+c) Utilizando las direcciones MAC de los dispositivos conectados. 
+d) Utilizando el mínimo bit rate que variará en función de los equipos conectados. 
+
+4.  ¿Qué es una señal PTP? 
+
+a) Una señal de sincronismo vertical analógico embebida. 
+b) Una señal test para ajustar niveles de video SDI en HD. 
+c) Una señal de audio digital que se transmite a través de una red IP, para la señal de 
+video en Protocol Transition Picture. 
+d) Una señal de sincronismo que se transmite a través de una red IP. 
+
+5.  Si medimos en la entrada de un amplificador una señal de 0.2 Vpp y a la salida 
+
+del amplificador una señal de 10 Vpp. ¿Cuál es su ganancia en tensión? 
+
+a) 10 
+b) 20 
+c) 100 
+d) 50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+6.  Cuando hablamos de una señal SDI 720P a que hace referencia: 
+
+a) La resolución es 1920*720 
+b) La resolución es 1280*720 
+c) La resolución es 1080*720 
+d) La resolución es 720*576 
+
+7.  Cuando en una cámara de video nos falla un CCD, queremos decir que: 
+
+a) Falla el circuito integrado que tiene elementos fotosensibles fungibles colocados en 
+filas 
+b) Falla el circuito integrado que tiene elementos fotosensibles fungibles colocados en 
+columnas 
+c) Falla el circuito integrado formado por elementos fotosensibles que están colocados 
+en filas y columnas, capaces de interpretar la luz que reciben del exterior y convertirlo 
+en imágenes digitales 
+d) Falla el circuito que alimenta al capstam 
+
+8.  Como realizar con un polímetro en modo comprobación diodo su buen estado: 
+
+a)  Punta  roja  en  Ánodo  y  negra  en  cátodo  y  el  medidor  presenta  la  caída  de  voltaje 
+directo  (VF)  en  voltios  hasta  2V  y pita.  Cambiando  las  puntas  la  pantalla  presenta  0L 
+circuito abierto. 
+b)  Punta  negra  en  Ánodo  y  roja  en  cátodo  y  el  medidor  presenta  la  caída  de  voltaje 
+directo  (VF)  en  voltios  hasta  2V  y pita.  Cambiando  las  puntas  la  pantalla  presenta  0L 
+circuito abierto. 
+c) Punta roja en Ánodo y negra en cátodo y el medidor presenta valor en Ohmios y pita. 
+Cambiando las puntas la pantalla presenta 0L circuito abierto. 
+d) Punta roja en Ánodo y negra en cátodo y el medidor presenta 0L circuito abierto. 
+ la  caída  de  voltaje  directo  (VF)  en  voltios  hasta  2V  y  pita.  Cambiando  las  puntas  la 
+pantalla presenta la caída de voltaje directo (VF) en voltios hasta 2V y pita. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+9.  Cuando en un monitor forma de onda medimos una señal de video SDI, podemos 
+
+definir el jitter como… 
+
+a) El jitter no se puede medir. 
+b) La inestabilidad en el tiempo de la señal de reloj en la señal SDI. 
+c) La tensión pico a pico de la señal de video SDI respecto de la señal de referencia. 
+d) La frecuencia relativa de la señal de video SDI, en función del formato HD o SD. 
+
+10. El módulo DSK de un mezclador de vídeo sirve para: 
+
+a) Poner la salida PGM en negro 
+b) Sincronizar las señales desfasadas 
+c) Incrustar rótulos 
+d) Deshabilitar la señal de kroma 
+
+11. ¿Por  medio  de  que  dispositivo  se  puede  aumentar  la  distancia  entre  un 
+
+ordenador y el teclado, monitor y ratón del mismo? 
+
+a) Extensor KVM. 
+b) Multiplexor de audio y video. 
+c) Embebedor. 
+d) Switch PTP. 
+
+12. Mi  ordenador  no  consigue  ver  ninguna  máquina  de  la  red  y  al  chequear  su 
+configuración veo que tiene una IP del Rango 169,254,*,*, que no es de mi rango 
+de IP, que ha pasado? 
+
+a) No se ha encontrado el servidor DHCP 
+b) Se ha corrompido configuración ip 
+c) Se ha caído la tarjeta de red 
+d) El servicio DMST_IP no se ha iniciado. 
+
+13. ¿Qué significan las siglas AES? 
+
+a) Señal de audio estéreo. 
+b) Sistema de audio estéreo. 
+c) Sociedad de Ingeniería de Audio. 
+d) Señal de audio estable. 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+14. En  un  proyecto  de  difusión  de  video  IP  sobre  una  red  local.  ¿Qué  tipo  de 
+transmisión tendremos que configurar en los codificadores para que el tráfico 
+llegue  a  todos  los  clientes  que tengan  nuestra  IP de  salida  como origen  de  su 
+señal de streaming? 
+
+a) Transmisión Unicast 
+b) Transmisión Multicast 
+c) Transmisión Broadcast 
+d) Transmisión Simulcast 
+
+15. En un equipo de rotulación o titulación gráfica para estudio, ¿qué señal de video 
+se utiliza como máscara para la incrustación del rótulo con la señal de fondo? 
+
+a) La señal de Etalonaje. 
+b) El Fill. 
+c) La señal de Corrección Gamma. 
+d) El Key. 
+
+16. Cuando actualizamos el firmware de un equipo, lo que hacemos es: 
+
+a) Una mejora del hardware que controla el funcionamiento de los circuitos electrónicos 
+del equipo optimizando su rendimiento. 
+b)  Introducimos  cambios  en  el  software  que  controla  los  circuitos  electrónicos  del 
+equipo optimizando y mejorando su funcionamiento. 
+c)  Ampliamos  la  capacidad  de  la  memoria  donde  reside  el  software  de  control  del 
+equipo. 
+d)  Instalamos  software  adicional  sobre  el  sistema  operativo  del  equipo  para  añadir 
+funcionalidades nuevas en determinados componentes 
+
+17. Un vectorscopio mide la crominancia (componentes de color) de una señal de 
+
+video… 
+
+a) Incluidos el retardo y la saturación. 
+b) Incluidos el sincronismo y la saturación. 
+c) Incluidos el retardo y el tono. 
+d) Incluidos el tono y la saturación. 
+
+18. Indica cuál es la señal para advertir que hay riesgo eléctrico 
+
+a)                                 b)                                     c)                                        d) 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+                     
+                     
+                           
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+19. Que señal se puede observar en un osciloscopio cuando se conecta una fuente 
+
+DC a un circuito, y que señal se observa si se conecta una fuente AC:  
+
+a)                                               
+
+         b) 
+
+    c)                                                                                            d) 
+
+20. Según la normativa SMPTE 424M, conocida como 3G-SDI, el número de líneas de 
+
+resolución vertical de esta señal de vídeo es: 
+
+a) 720 
+b) 1080 
+c) 2160 al ser 4K 
+d) Esta norma se refiere a señales de Telefonía  
+
+21. Una señal HD-SDI visualizada con un equipo de medida de patrón de ojo: 
+
+a) Tiene una amplitud pico a pico de 400 mv. 
+b) Tiene una amplitud pico a pico de 800 mv con una posible tolerancia del 10%. 
+c) Tiene un nivel entre 0 y 5 voltios. 
+d) Es una señal bipolar entre 4mv y -4mv. 
+
+22. Las zonas de paso, salidas y vías de circulación de los lugares de trabajo y, en 
+especial, las salidas y vías de circulación previstas para la evacuación en casos de 
+emergencia, deberán  
+
+a) permanecer cerradas 
+b) no estar señalizadas 
+c) permanecer libres de obstáculos de forma que sea posible utilizarlas sin dificultades 
+en todo momento 
+d) tener obstáculos  
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                              
+ 
+ 
+   
+                           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+23. En las instalaciones eléctricas se utilizan elementos de protección como el de la 
+
+imagen, ¿de qué elemento se trata? 
+
+a) Interruptor óptico programable 
+b) Diferencial 
+c) PIA (pequeño interruptor automático) 
+d) ICP (interruptor de control de potencia) 
+
+24. Para sincronizar una señal exterior con audio embebido y poder mezclarla con el 
+resto de señales de nuestro entorno digital SDI  necesitamos un sincronizador. 
+Este equipo actúa de la siguiente forma: 
+
+a)  Se  almacena  la  información  en  una  memoria  de  cuadro  y  se  extrae  conforme  a  la 
+referencia local. Posteriormente desembeberemos el audio que estará síncrono. 
+b) Se almacena la información de vídeo en una memoria de cuadro. Previamente hemos 
+desembebido el audio que sincronizaremos en la instalación de audio. 
+c) Se almacena la información de video en una memoria de 32 líneas, desembeberemos 
+el audio previamente siendo el retardo mínimo. 
+d)  Se  almacena  la  información  en  una  memoria  de  cuatro  cuadros  para  mantener  la 
+relación ScH. Para esto no hay que tener en cuenta el audio embebido. 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+25. ¿Qué  elemento  podemos  usar para  evitar daños  por  cargas  electrostáticas  en 
+componentes  electrónicos  sensibles  como  circuitos  integrados,  memorias, 
+tarjetas, discos duros, etc… al manipularlos? 
+
+a) Unas pinzas 
+b) Una bolsa de plástico corriente 
+c) Una bandeja metálica 
+d) Una pulsera de ESD 
+
+26. Cómo es una señal Trilevel?  
+
+a) 
+
+c) 
+
+b) 
+
+d) 
+
+27. Rellena la palabra que falta:     
+
+El  XXXXXXXXXX 
+frecuentemente en telefonía.  
+
+‘SIP’  se  utiliza  para  realizar 
+
+llamadas  VoIP.  Utilizado 
+
+a) Protocolo 
+b) Codec 
+c) Sistema 
+d) Compresor 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+28. El  código  de  canal  que  emplea  el  interface  SDI  es  el  denominado  S-NRZ-I.  Este 
+
+código nos presenta la información digital de la siguiente forma: 
+
+a) 1 = Presencia de tensión (+ V). 
+b) 1 = Ausencia de tensión (0 v). 
+c) 1 = Presencia de transición. 
+d) 1 = Ausencia de transición. 
+
+0 = Ausencia de tensión (0 v). 
+0= Presencia de tensión (+ V) 
+0 = Ausencia de transición. 
+0 = Presencia de transición. 
+
+29. Una cámara de estudio con tres sensores CMOS de 2/3” está constituida por: 
+
+a) Filtro Bayer y montura óptica con bayoneta B4 
+b) Bloque dicroico y montura óptica con bayoneta EF 
+c) Filtro ND y montura óptica con bayoneta PL 
+d) Bloque dicroico y montura óptica con bayoneta B4 
+
+30. Un conector BNC es: 
+
+a) Un conector de cuatro polos para Intercom de cuatro hilos. 
+b) Un conector de tres polos para audio balanceado. 
+c) Un conector de dos polos para cable coaxial. 
+d) Un conector de nueve polos para comunicaciones serie. 
+
+31. En un altavoz pasivo de varias vías, la señal que le llega al tweeter pasa antes por: 
+
+a) Un filtro paso banda 
+b) Un filtro paso alto 
+c) Un filtro pasa bajo 
+d) Un filtro de pre-énfasis 
+
+32. Cuando un equipo tiene conector GPIO con contacto seco, corresponde a: 
+
+a) Que es una salida de la tensión de red (AC) del equipo 
+b) Su impedancia está adaptada 
+c) Es un cierre de contactos 
+d) Salida 12 Volt 
+
+33. Como realizar la medición de una resistencia en una PCB con un polímetro: 
+
+a) Debemos asegurar que no haya corriente por ella y medir con la resistencia conectada 
+al resto del circuito. 
+b) Debemos asegurar que haya corriente por ella y poner el polímetro en modo Ohmios. 
+c) Debemos colocar las pinzas roja y negra entre sus extremos poniendo el polímetro en 
+modo continuidad. 
+d)  Debemos  asegurar  que  no  haya  corriente  por  ella  y  poner  el  polímetro  en  modo 
+Ohmios desconectando del circuito una de sus patillas 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+34. En una retransmisión, un técnico va a conectar un cable de video desde su unidad 
+móvil al patch pannel de video de otra unidad. Al unir ambos elementos recibe 
+una pequeña descarga. ¿Qué ha podido ocurrir y cómo se evitaría esta situación?  
+
+a)  Al  arrastrar  el  cable  se  ha  “cargado”  de  electricidad  estática.  Tendría  que  haber 
+descargado previamente la punta del conector tocando ésta con una conexión a tierra. 
+b)  Los  cables  de  video  siempre  llevan  tensión.  El  técnico  tiene  que  usar  guantes  de 
+protección eléctrica para realizar este tipo de conexiones. 
+c) Existe una diferencia de potencial entre las dos masas (La del cable de video y la del 
+patch  panel,  ocasiona  por  una  mala  puesta  a  tierra  de  los  equipos,  fallos  en  el 
+aislamiento, o porque una de las unidades no ha conectado su “pica” de tierra. 
+d) Siempre va a suceder esto a no ser que el técnico lleve calzado de seguridad con suela 
+de goma aislante de la electricidad. 
+
+35. En una matriz de audio de 4 entradas y 8 salidas ¿cuántas señales puedo enrutar 
+
+como máximo de forma simultánea? 
+
+a) 8 conexiones 
+b) 4 conexiones 
+c) 32 conexiones 
+d) 12 conexiones 
+
+36. Disponemos de dos señales HD SDI, una con formato 1080 50i y otra con formato 
+
+720 50p… 
+
+a) Ambas tienen 1920 muestras activas en horizontal y distinto números de líneas. 
+b) Una es progresiva y otra entrelazada y tienen bit rates distintos. 
+c) La señal progresiva tiene peor calidad que la entrelazada al tener menos líneas. 
+d) Tienen el mismo bit rate, se necesita un conversor cruzado para igualar formatos. 
+
+37. ¿Cuál de las siguientes direcciones de red IPv4 de la lista se considera es una red 
+
+privada? 
+
+a) 10.10.10.10 
+b) 125.28.29.20 
+c) 192.17.250.3 
+d) 172.1.5.35 
+
+38. En  una  mesa  de  sonido,  ¿Qué  interruptor  tenemos  que  pulsar  si  queremos 
+
+emplear un micrófono de condensador en alguna de sus entradas? 
+
+a) PHANTOM 
+b) PFL 
+c) ST 
+d) AFL 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+39. ¿Qué  tipo  de  equipo  de  monitorado  permite  saber  si  una  señal  de 
+
+radiofrecuencia emitida por un radioenlace está presente? 
+
+a) Un medidor de campo. 
+b) Un polímetro. 
+c) Un osciloscopio. 
+d) Un vatímetro. 
+
+40. En un analizador de vídeo digital aparece esta señal, ¿qué estaríamos viendo?: 
+
+a) El diagrama de ojo 
+b) El vector de componentes 
+c) El Gamut de la señal 
+d) Esta imagen no corresponde con una señal digital 
+
+41. En un mezclador de audio, qué caracteriza una señal PFL: 
+
+a) Podemos escuchar la señal sin emitirla en directo, ideal para preparar cortes. 
+b) Podemos escuchar la señal en el directo, ideal para escuchar el corte. 
+c) Es una señal que puede fundir los niveles. 
+d) Es una señal que no puede fundir los niveles. 
+
+42. Cuantos pares  de  conductores  son  necesarios  para hacer un  cable de  red  con 
+
+conector RJ-45. 
+
+a) 1 
+b) 2 
+c) 4 
+d) 8 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+43. Una  señal  AES,  cuando  va  sobre  cobre  puede  ir  en  cable  coaxial  o  en  cable 
+
+balanceado, en este último caso que impedancia característica tiene. 
+
+a) 50 ohmios 
+b) 75 ohmios 
+c) 110 ohmios 
+d) 10K ohmios 
+
+44. Supongamos que se encuentra trabajando en una instalación audiovisual de alta 
+definición, y se encuentra con una señal llamada “Word Clock”. ¿Para qué sirve 
+esta señal? 
+
+a) Es una señal de tres niveles (Tri-level) que permite dar un sincronismo más preciso a                                            
+los equipos de vídeo de alta definición. 
+b) Es una señal que permite sincronizar los equipos de audio digital   
+c) Es una señal de código de tiempo para equipos de vídeo digital que aporta información 
+de horas, minutos, segundos y frames 
+d)  Es  una  señal  de  control  que  permite  establecer  la  profundidad  de  bit  en  los 
+conversores A/D tanto de audio como de vídeo 
+
+45. ¿De qué forma se transmite el audio en el estándar SMPTE 2022 de vídeo digital 
+
+en una red TCP/IP? 
+
+a) El audio se transporta en paquetes de datos según se indica en la norma AES67. 
+b) En su caso se emplea directamente la norma AES3. 
+c) El audio se empaqueta siempre junto con el video y la metadata. 
+d) Se utiliza siempre una conexión S/PDIF. 
+
+46. En un mezclador de video, la salida de programa sin rótulos se denomina…. 
+
+a) Salida PGM 
+b) Salida Clean Feed 
+c) Salida PVW 
+d) Salida AUX 
+
+47. Al abrir un equipo acotamos la avería en un conjunto de resistencias en serie. 
+
+¿cómo circula la corriente en las resistencias asociadas en serie?  
+
+a) la corriente circula de la misma manera por igual en cada una de ellas 
+b)  la  corriente  circula  a  mayor  intensidad  por  las  primeras  resistencias  de  forma 
+directamente proporcional 
+c)  la  corriente  circula  a  menos  intensidad  por  las  primeras  resistencias  de  forma 
+inversamente proporcional 
+d) la corriente es ligeramente mayor en la primera y menor en la última del circuito.  
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+48. La  siguiente  imagen  corresponde  a  la  trasera  de  un  receptor  inalámbrico 
+
+Sennheiser XSW1: 
+
+En  el  supuesto  de  que  su  fuente  de  alimentación  original  se  extravíe  o  se 
+estropee, ¿Cuál de las siguientes fuentes de alimentación podríamos utilizar para 
+su funcionamiento? 
+
+a) Una fuente de alimentación de corriente continua de 12 voltios y 12 vatios 
+b) Una fuente de alimentación de corriente continua de 12 voltios y 1 vatio 
+c) Una fuente de alimentación de corriente alterna de 12 voltios y 300 mili-amperios 
+d) Este equipo no necesita alimentación 
+
+49. ¿A qué tipo de señal test corresponde la imagen que se muestra a continuación? 
+
+a) A una señal Bowtie. 
+b) A una señal de Barras de Color al 75%. 
+c) A una señal de Diente de Sierra. 
+d) A una señal Multiburst. 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección de Recursos Humanos y Organización 
+
+50. ¿En qué posición pondremos el selector del multímetro que vemos en la 
+fotografía si queremos medir la tensión que nos entrega una fuente de 
+alimentación de 18 Vcc? 
+
+a) 20 (DCV) 
+b) 20 m (DCA) 
+c) 20 K (Ω) 
+d) 200 (ACV) 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

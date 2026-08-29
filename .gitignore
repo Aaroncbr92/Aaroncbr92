@@ -16,3 +16,12 @@ convocatoria/examenes/*.pdf
 !convocatoria/examenes/78_*.pdf
 !convocatoria/examenes/79_*.pdf
 !convocatoria/examenes/80_*.pdf
+
+# Lo mismo con los exámenes antiguos: se versionan las transcripciones y los PDF
+# de las ocupaciones que preparamos.
+convocatoria/examenes-antiguos/*.pdf
+!convocatoria/examenes-antiguos/04_*.pdf
+!convocatoria/examenes-antiguos/05_*.pdf
+!convocatoria/examenes-antiguos/06_*.pdf
+!convocatoria/examenes-antiguos/2[0156]_*.pdf
+!convocatoria/examenes-antiguos/32_*.pdf
