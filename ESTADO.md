@@ -90,7 +90,12 @@ en Documentación y en Producción (Asistencia).
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
 - [ ] Comprobar si hay acuerdos del Convenio Colectivo posteriores a 2022.
-- [ ] Primer tema piloto por el ciclo completo.
+- [ ] **Refutar el tema 1** con las tres lentes del manual: exactitud normativa,
+      cobertura de examen y prosa. Y una segunda refutación que vuelva limpia.
+- [ ] Esquema del tema 1: unas 2.000 palabras y unas 130 líneas, con el artículo
+      delante de cada línea.
+- [ ] Temas 2 y 3 del general: Ley 17/2006 y Ley 5/2017, ya volcadas a `fuentes/`
+      en la redacción del corte.
 
 ## Qué comprobación pasa por qué material
 
@@ -99,4 +104,11 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 
 | Tema | Investigar | Redactar | Verificar | Refutar 1 | Rematar | Refutar 2 | Preguntas |
 |---|---|---|---|---|---|---|---|
-| _(sin temas todavía)_ | | | | | | | |
+| General 1 · Constitución | sí | sí | sí | — | sí | — | **87 de 89 enteras** |
+
+Lo del tema 1: investigado sobre el volcado del texto consolidado a la fecha de
+corte; verificado con 28 comprobaciones de cifra contra el articulado y el
+recuento de las enumeraciones; rematado revisando los antecedentes de cada «ese
+artículo» y «el apartado X»; y pasada la prueba de preguntas con el banco, que
+destapó cuatro lagunas, ya cerradas. **Faltan las dos rondas de refutación con
+lentes distintas.**

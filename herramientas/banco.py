@@ -24,16 +24,40 @@ SALIDA = "banco"
 
 
 def plantilla(ruta):
-    """Devuelve {nº de pregunta: letra}. La plantilla trae, por página, la
-    columna de números y luego la de letras."""
-    t = open(ruta, encoding="utf-8").read()
+    """Devuelve {nº de pregunta: letra}.
+
+    La plantilla imprime, por bloques, una columna de números y debajo la
+    columna de letras que les corresponde. Antes se troceaba por páginas, y
+    bastaba con que el pie dijera «Fecha de publicación» en vez de «Fecha de la
+    publicación» para que un bloque se pegara al siguiente y todas las
+    respuestas de esa página salieran corridas un lugar. Ahora se recorre la
+    secuencia y se empareja cada racha de números con la racha de letras que va
+    detrás, que es como está impresa.
+    """
+    t = open(ruta, encoding="utf-8").read().replace("\x0c", "\n")
+    fichas = []
+    for linea in t.splitlines():
+        linea = linea.strip()
+        if re.fullmatch(r"\d{1,3}", linea):
+            fichas.append(("n", int(linea)))
+        elif re.fullmatch(r"[a-dA-D]", linea):
+            fichas.append(("l", linea.lower()))
+
     fuera = {}
-    for pagina in re.split(r"P[áa]gina:?\s*\d+\s*de\s*\d+|Fecha de la publicaci[óo]n", t):
-        nums = [int(x) for x in re.findall(r"(?m)^\s*(\d{1,3})\s*$", pagina)]
-        letras = re.findall(r"(?m)^\s*([a-dA-D])\s*$", pagina)
-        if nums and letras:
-            for n, l in zip(nums, letras):
-                fuera.setdefault(n, l.lower())
+    i = 0
+    while i < len(fichas):
+        nums = []
+        while i < len(fichas) and fichas[i][0] == "n":
+            nums.append(fichas[i][1])
+            i += 1
+        letras = []
+        while i < len(fichas) and fichas[i][0] == "l":
+            letras.append(fichas[i][1])
+            i += 1
+        for n, l in zip(nums, letras):
+            fuera.setdefault(n, l)
+        if not nums and not letras:
+            i += 1
     return fuera
 
 
@@ -61,8 +85,17 @@ def main():
     os.makedirs(SALIDA, exist_ok=True)
     pormateria = defaultdict(list)
     con, sin = 0, 0
+    sospechosas = []
     for cuad, plant in parejas():
         respuestas = plantilla(plant) if plant else {}
+        # una plantilla bien leída numera de 1 a N sin huecos; si no, se avisa
+        if respuestas:
+            alto = max(respuestas)
+            faltan = [n for n in range(1, alto + 1) if n not in respuestas]
+            if faltan:
+                sospechosas.append("%s: faltan %d de %d (%s...)"
+                                   % (os.path.basename(plant), len(faltan), alto,
+                                      ", ".join(str(n) for n in faltan[:6])))
         texto = open(cuad, encoding="utf-8").read()
         origen = os.path.basename(cuad)[:-4]
         for n, cuerpo in preguntas(texto):
@@ -99,6 +132,11 @@ def main():
     print()
     print("total %d preguntas del bloque común; con respuesta oficial %d, sin ella %d"
           % (total, con, sin))
+    if sospechosas:
+        print()
+        print("Plantillas con huecos, revisar a mano antes de fiarse de ellas:")
+        for x in sospechosas:
+            print("  ! %s" % x)
 
 
 if __name__ == "__main__":

@@ -32,9 +32,10 @@ número de disposiciones y por la fecha del referéndum.
   de Constitución?».
 - El **resumen oficial de la votación** lo hizo público la Junta Electoral
   Central por acuerdo de 21 de diciembre de 1978 (BOE de 22 de diciembre).
-- El Rey la **sancionó el 27 de diciembre de 1978**, en el Palacio de las Cortes,
-  con el refrendo de los Presidentes de las Cortes, del Congreso y del Senado
-  —Antonio Hernández Gil, Fernando Álvarez de Miranda y Antonio Fontán—.
+- El Rey la **sancionó el 27 de diciembre de 1978**, en el Palacio de las Cortes.
+  El texto lo firman con él los Presidentes de las Cortes, del Congreso de los
+  Diputados y del Senado: Antonio Hernández Gil, Fernando Álvarez de Miranda y
+  Antonio Fontán.
 - Se **publicó en el BOE núm. 311, de 29 de diciembre de 1978**.
 
 ### 1.2. Entrada en vigor
@@ -272,7 +273,9 @@ Cinco causas nombradas y una cláusula abierta. El sujeto son «los españoles»
 Son los de máxima protección: amparo ante el Tribunal Constitucional, reserva de
 ley orgánica y procedimiento preferente y sumario (art. 53.2).
 
-**Artículo 15. Vida e integridad.** «**Todos** tienen derecho a la vida y a la
+**Artículo 15. Vida e integridad.** Abre la Sección 1.ª, así que **el primer
+derecho fundamental que reconoce la Constitución es el derecho a la vida**, y con
+ese enunciado se pregunta. «**Todos** tienen derecho a la vida y a la
 integridad física y moral», sin que en ningún caso puedan ser sometidos a
 **tortura ni a penas o tratos inhumanos o degradantes**. **Queda abolida la pena de
 muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de
@@ -668,3 +671,1096 @@ son responsables las personas que los refrendan.**
 global** para el sostenimiento de su Familia y Casa, y **la distribuye
 libremente**. **Nombra y releva libremente** a los miembros civiles y militares de
 su Casa: son los únicos actos exentos de refrendo.
+
+---
+
+## 5. Título III. De las Cortes Generales (artículos 66 a 96)
+
+Tres capítulos: **De las Cámaras** (arts. 66 a 80), **De la elaboración de las
+leyes** (arts. 81 a 92) y **De los Tratados Internacionales** (arts. 93 a 96).
+
+### 5.1. Capítulo primero. De las Cámaras
+
+**Artículo 66.** Las Cortes Generales **representan al pueblo español** y están
+formadas por el **Congreso de los Diputados y el Senado**. **Ejercen la potestad
+legislativa del Estado, aprueban sus Presupuestos, controlan la acción del
+Gobierno** y tienen las demás competencias que les atribuya la Constitución. **Las
+Cortes Generales son inviolables.**
+
+**Artículo 67.** Nadie puede ser **miembro de las dos Cámaras simultáneamente**, ni
+acumular el acta de una **Asamblea de Comunidad Autónoma** con la de **Diputado al
+Congreso** —nada impide, en cambio, compaginarla con la de Senador designado—. Los
+miembros de las Cortes **no están ligados por mandato imperativo**. Las reuniones
+de parlamentarios **sin convocatoria reglamentaria no vinculan a las Cámaras**.
+
+**Artículo 68. Congreso.**
+
+- **Mínimo de 300 y máximo de 400 Diputados**, elegidos por sufragio **universal,
+  libre, igual, directo y secreto**.
+- **La circunscripción electoral es la provincia.** **Ceuta y Melilla** están
+  representadas **cada una por un Diputado**.
+- La ley asigna una **representación mínima inicial** a cada circunscripción y
+  distribuye los demás **en proporción a la población**.
+- La elección se verifica atendiendo a criterios de **representación
+  proporcional**.
+- **Elegido por cuatro años**; el mandato termina cuatro años después de la
+  elección **o el día de la disolución** de la Cámara.
+- Son electores y elegibles **todos los españoles en pleno uso de sus derechos
+  políticos**.
+- Las elecciones se celebran **entre los treinta y los sesenta días** desde la
+  terminación del mandato, y el **Congreso electo se convoca dentro de los
+  veinticinco días** siguientes a la celebración de las elecciones.
+
+**Artículo 69. Senado.** Es la **Cámara de representación territorial**.
+
+- **Cuatro Senadores por provincia**, por sufragio universal, libre, igual,
+  directo y secreto, **en los términos que señale una ley orgánica**.
+- **Provincias insulares**: cada **isla o agrupación de ellas** con Cabildo o
+  Consejo Insular es una circunscripción; **tres a cada isla mayor** —Gran
+  Canaria, Mallorca y Tenerife— y **uno** a cada una de las siguientes islas o
+  agrupaciones: **Ibiza-Formentera, Menorca, Fuerteventura, Gomera, Hierro,
+  Lanzarote y La Palma**. (Redacción original de 1978, vigente a la fecha de
+  corte; ver «Notas de actualización».)
+- **Ceuta y Melilla eligen dos Senadores cada una.**
+- Las **Comunidades Autónomas designan uno y otro más por cada millón de
+  habitantes**; la designación corresponde a la **Asamblea legislativa** o, en su
+  defecto, al órgano colegiado superior, asegurando la **adecuada representación
+  proporcional**.
+- **Elegido por cuatro años**, con la misma regla de terminación del mandato.
+
+Recuento de memoria: por provincia **cuatro**; Ceuta y Melilla **dos cada una**;
+islas mayores **tres**; las otras siete circunscripciones insulares **uno**.
+
+**La Constitución no fija el número total de Senadores**, y por eso varía de una
+legislatura a otra: los elegidos por sufragio directo son un número cerrado, pero
+los **designados por las Comunidades Autónomas dependen de su población** —uno más
+por cada millón de habitantes—. En los exámenes de 2024 se preguntó por la cifra
+concreta del Senado en ese momento, que es un dato de actualidad y no del texto
+constitucional.
+
+**Artículo 70. Inelegibilidad e incompatibilidad.** La **ley electoral** las
+determina, y comprenderán **en todo caso**:
+
+a) los componentes del **Tribunal Constitucional**; b) los **altos cargos de la
+Administración del Estado** que determine la ley, **con la excepción de los
+miembros del Gobierno**; c) el **Defensor del Pueblo**; d) **Magistrados, Jueces y
+Fiscales en activo**; e) **militares profesionales y miembros de las Fuerzas y
+Cuerpos de Seguridad y Policía en activo**; f) los miembros de las **Juntas
+Electorales**.
+
+La **validez de las actas y credenciales** de ambas Cámaras está sometida a
+**control judicial**.
+
+**Artículo 71. Prerrogativas.**
+
+- **Inviolabilidad** por las **opiniones manifestadas en el ejercicio de sus
+  funciones**.
+- **Inmunidad** durante el mandato: **solo pueden ser detenidos en caso de
+  flagrante delito**, y **no pueden ser inculpados ni procesados sin previa
+  autorización de la Cámara** respectiva —el suplicatorio—.
+- **Aforamiento**: en las causas contra Diputados y Senadores es competente la
+  **Sala de lo Penal del Tribunal Supremo**.
+- Perciben una **asignación fijada por las respectivas Cámaras**.
+
+**Artículo 72. Autonomía de las Cámaras.** Establecen sus **propios Reglamentos**,
+aprueban **autónomamente sus presupuestos** y, **de común acuerdo**, regulan el
+**Estatuto del Personal de las Cortes Generales**. Los Reglamentos y su reforma se
+someten a **votación final sobre su totalidad**, que exige **mayoría absoluta**.
+Eligen a sus **Presidentes y demás miembros de sus Mesas**. Las **sesiones
+conjuntas las preside el Presidente del Congreso** y se rigen por un **Reglamento
+de las Cortes Generales aprobado por mayoría absoluta de cada Cámara**. Los
+Presidentes ejercen **todos los poderes administrativos y facultades de policía**
+en el interior de sus sedes.
+
+**Artículo 73. Períodos de sesiones.** **Dos períodos ordinarios** al año: **el
+primero, de septiembre a diciembre; el segundo, de febrero a junio**. Las sesiones
+**extraordinarias** se convocan a petición **del Gobierno, de la Diputación
+Permanente o de la mayoría absoluta de los miembros de cualquiera de las
+Cámaras**, **sobre un orden del día determinado**, y **se clausuran una vez
+agotado**.
+
+**Artículo 74. Sesión conjunta y competencias no legislativas.** Las Cámaras se
+reúnen en **sesión conjunta** para ejercer las competencias **no legislativas** que
+el **Título II** atribuye expresamente a las Cortes. Las decisiones de los
+artículos **94.1, 145.2 y 158.2** se adoptan **por mayoría de cada Cámara**; el
+procedimiento se inicia **en el Congreso** en el primer caso y **en el Senado** en
+los otros dos. Si no hay acuerdo, se intenta mediante **Comisión Mixta paritaria**
+de Diputados y Senadores; si el texto que presenta no se aprueba, **decide el
+Congreso por mayoría absoluta**.
+
+**Artículo 75. Pleno y Comisiones.** Las Cámaras funcionan **en Pleno y por
+Comisiones**. Pueden **delegar en las Comisiones Legislativas Permanentes** la
+aprobación de proyectos o proposiciones de ley, aunque el **Pleno puede recabar en
+cualquier momento** el debate y votación. **Quedan exceptuados** de esa delegación:
+**la reforma constitucional, las cuestiones internacionales, las leyes orgánicas y
+de bases y los Presupuestos Generales del Estado**. Son cinco materias.
+
+**Artículo 76. Comisiones de investigación.** El Congreso, el Senado o **ambas
+Cámaras conjuntamente** pueden nombrarlas **sobre cualquier asunto de interés
+público**. **Sus conclusiones no son vinculantes para los Tribunales** ni afectan a
+las resoluciones judiciales, sin perjuicio de comunicar el resultado al
+**Ministerio Fiscal**. **Es obligatorio comparecer** a requerimiento de las
+Cámaras, y la ley regulará las sanciones por incumplimiento.
+
+**Artículo 77. Peticiones.** Las Cámaras pueden recibir peticiones **individuales y
+colectivas, siempre por escrito**, y **queda prohibida la presentación directa por
+manifestaciones ciudadanas**. Pueden remitirlas al Gobierno, que **está obligado a
+explicarse sobre su contenido siempre que las Cámaras lo exijan**.
+
+**Artículo 78. Diputación Permanente.** En **cada Cámara**, compuesta por un
+**mínimo de veintiún miembros** que representan a los grupos parlamentarios **en
+proporción a su importancia numérica**. La **preside el Presidente de la Cámara**.
+Funciones: la del **artículo 73** (pedir sesiones extraordinarias), **asumir las
+facultades de los artículos 86 y 116** —decretos-leyes y estados de alarma,
+excepción y sitio— cuando las Cámaras estén disueltas o haya expirado su mandato,
+y **velar por los poderes de las Cámaras cuando no estén reunidas**. Siguen
+ejerciendo sus funciones **hasta la constitución de las nuevas Cortes**, a las que
+**darán cuenta** de los asuntos tratados y de sus decisiones.
+
+**Artículo 79. Adopción de acuerdos.** Las Cámaras deben estar **reunidas
+reglamentariamente y con asistencia de la mayoría de sus miembros**. Los acuerdos
+se aprueban **por la mayoría de los miembros presentes**, sin perjuicio de las
+mayorías especiales. **El voto de Diputados y Senadores es personal e
+indelegable.**
+
+**Artículo 80. Publicidad.** Las **sesiones plenarias serán públicas**, salvo
+acuerdo en contrario de cada Cámara **adoptado por mayoría absoluta o con arreglo
+al Reglamento**.
+
+### 5.2. Capítulo segundo. De la elaboración de las leyes
+
+**Artículo 81. Leyes orgánicas.** Lo son las relativas al **desarrollo de los
+derechos fundamentales y de las libertades públicas**, las que **aprueben los
+Estatutos de Autonomía**, las del **régimen electoral general** y **las demás
+previstas en la Constitución**. Su **aprobación, modificación o derogación exige
+mayoría absoluta del Congreso, en una votación final sobre el conjunto del
+proyecto**.
+
+**Artículos 82 a 85. Legislación delegada.** Las Cortes pueden delegar en el
+Gobierno la potestad de dictar normas con rango de ley **sobre materias
+determinadas no incluidas en el artículo 81**. La delegación se otorga:
+
+- por **ley de bases** cuando el objeto sea **formar textos articulados**;
+- por **ley ordinaria** cuando se trate de **refundir varios textos legales en uno
+  solo**.
+
+Debe otorgarse **de forma expresa, para materia concreta y con fijación del plazo**
+para su ejercicio; **se agota por el uso** que haga el Gobierno mediante la
+publicación de la norma; **no cabe concederla de modo implícito ni por tiempo
+indeterminado**, ni **permitir la subdelegación**. Las leyes de bases **no pueden
+autorizar la modificación de la propia ley de bases** ni **facultar para dictar
+normas con carácter retroactivo** (art. 83). Cuando una proposición de ley o
+enmienda sea contraria a una delegación en vigor, **el Gobierno puede oponerse a
+su tramitación** (art. 84). Las disposiciones del Gobierno con legislación delegada
+se llaman **Decretos Legislativos** (art. 85).
+
+**Artículo 86. Decretos-leyes.** En caso de **extraordinaria y urgente necesidad**,
+el Gobierno puede dictar **disposiciones legislativas provisionales** con forma de
+**Decreto-ley**, que **no podrán afectar**:
+
+- al **ordenamiento de las instituciones básicas del Estado**,
+- a los **derechos, deberes y libertades de los ciudadanos regulados en el Título
+  I**,
+- al **régimen de las Comunidades Autónomas**,
+- ni al **Derecho electoral general**.
+
+Deben ser **inmediatamente sometidos a debate y votación de totalidad al Congreso
+de los Diputados** —convocado al efecto si no estuviere reunido— **en el plazo de
+los treinta días siguientes a su promulgación**, y el Congreso ha de pronunciarse
+**expresamente dentro de ese plazo sobre su convalidación o derogación**, por un
+**procedimiento especial y sumario**. Durante ese plazo **las Cortes pueden
+tramitarlos como proyectos de ley por el procedimiento de urgencia**.
+
+Esto no es teoría para RTVE: la Ley 17/2006 ha sido modificada por decreto-ley
+—el Real Decreto-ley 15/2012, de 20 de abril, reescribió la composición y la
+elección del Consejo de Administración—, con lo que la convalidación del artículo
+86.2 forma parte de la historia de la propia norma que es el tema 2 de este
+temario.
+
+**Artículo 87. Iniciativa legislativa.** Corresponde al **Gobierno, al Congreso y
+al Senado**. Las **Asambleas de las Comunidades Autónomas** pueden **solicitar del
+Gobierno la adopción de un proyecto de ley** o **remitir a la Mesa del Congreso una
+proposición de ley**, delegando **un máximo de tres miembros** para defenderla. Una
+**ley orgánica** regulará la **iniciativa popular**, para la que se exigirán **no
+menos de 500.000 firmas acreditadas**; **no procede** en materias **propias de ley
+orgánica, tributarias o de carácter internacional, ni en lo relativo a la
+prerrogativa de gracia**.
+
+**Artículo 88.** Los **proyectos de ley** se aprueban en **Consejo de Ministros**,
+que los somete **al Congreso** acompañados de **exposición de motivos y
+antecedentes**.
+
+**Artículo 89. Proposiciones de ley.** Su tramitación se regula en los
+Reglamentos de las Cámaras, **sin que la prioridad debida a los proyectos de ley
+impida el ejercicio de la iniciativa legislativa** del artículo 87. Las
+proposiciones que **tome en consideración el Senado se remiten al Congreso** para
+su trámite allí **como tal proposición**.
+
+**Artículo 90. Intervención del Senado.** Aprobado un proyecto de ley ordinaria u
+orgánica por el Congreso, su Presidente da cuenta al del Senado. El Senado, **en el
+plazo de dos meses** desde la recepción, puede **oponer su veto** —que **debe
+aprobarse por mayoría absoluta**— **o introducir enmiendas**, siempre **mediante
+mensaje motivado**. El proyecto no puede someterse al Rey sin que el Congreso:
+
+- **ratifique por mayoría absoluta** el texto inicial **en caso de veto**, o
+- lo ratifique **por mayoría simple** una vez **transcurridos dos meses** desde la
+  interposición del veto, o
+- **se pronuncie sobre las enmiendas**, aceptándolas o no **por mayoría simple**.
+
+El plazo de dos meses **se reduce a veinte días naturales** en los proyectos
+**declarados urgentes por el Gobierno o por el Congreso**.
+
+**Artículo 91. Sanción.** El Rey **sancionará en el plazo de quince días** las
+leyes aprobadas por las Cortes, **las promulgará y ordenará su inmediata
+publicación**.
+
+**Artículo 92. Referéndum consultivo.** Las **decisiones políticas de especial
+trascendencia** pueden someterse a **referéndum consultivo de todos los
+ciudadanos**, **convocado por el Rey mediante propuesta del Presidente del
+Gobierno previamente autorizada por el Congreso de los Diputados**. Una **ley
+orgánica** regulará las condiciones y el procedimiento de las **distintas
+modalidades de referéndum**.
+
+### 5.3. Capítulo tercero. De los Tratados Internacionales
+
+**Artículo 93.** Mediante **ley orgánica** se puede autorizar la celebración de
+tratados **por los que se atribuya a una organización o institución internacional
+el ejercicio de competencias derivadas de la Constitución**. Es el artículo por el
+que España entró en las Comunidades Europeas.
+
+**Artículo 94.** Requiere **previa autorización de las Cortes Generales** la
+prestación del consentimiento en cinco casos: tratados **a) de carácter político**;
+**b) de carácter militar**; **c) que afecten a la integridad territorial del Estado
+o a los derechos y deberes fundamentales del Título I**; **d) que impliquen
+obligaciones financieras para la Hacienda Pública**; **e) que supongan modificación
+o derogación de alguna ley o exijan medidas legislativas para su ejecución**. De
+los **restantes** tratados, **el Congreso y el Senado serán inmediatamente
+informados**.
+
+**Artículo 95.** Un tratado con **estipulaciones contrarias a la Constitución**
+exige **previa revisión constitucional**. **El Gobierno o cualquiera de las
+Cámaras** puede requerir al **Tribunal Constitucional** para que declare si existe
+o no contradicción.
+
+**Artículo 96.** Los tratados válidamente celebrados, **una vez publicados
+oficialmente en España, forman parte del ordenamiento interno**, y sus
+disposiciones **solo pueden derogarse, modificarse o suspenderse en la forma
+prevista en los propios tratados o según el Derecho internacional**. Para la
+**denuncia** se usa **el mismo procedimiento del artículo 94**.
+
+---
+
+## 6. Título IV. Del Gobierno y de la Administración (artículos 97 a 107)
+
+**Artículo 97.** El Gobierno **dirige la política interior y exterior, la
+Administración civil y militar y la defensa del Estado**. **Ejerce la función
+ejecutiva y la potestad reglamentaria** de acuerdo con la Constitución y las
+leyes.
+
+**Artículo 98. Composición.** El Gobierno se compone del **Presidente, de los
+Vicepresidentes, en su caso, de los Ministros y de los demás miembros que
+establezca la ley**. El **Presidente dirige la acción del Gobierno y coordina las
+funciones de los demás miembros**, sin perjuicio de la **competencia y
+responsabilidad directa de éstos en su gestión**. Sus miembros **no pueden ejercer
+otras funciones representativas que las propias del mandato parlamentario**, ni
+otra función pública que no derive de su cargo, **ni actividad profesional o
+mercantil alguna**.
+
+**Artículo 99. Investidura.** El procedimiento, con sus plazos:
+
+1. Tras cada **renovación del Congreso** —y en los demás supuestos
+   constitucionales—, el **Rey**, **previa consulta con los representantes
+   designados por los Grupos políticos con representación parlamentaria** y **a
+   través del Presidente del Congreso**, propone un candidato.
+2. El candidato **expone ante el Congreso** el programa político del Gobierno que
+   pretenda formar y **solicita la confianza de la Cámara**.
+3. Si el Congreso le otorga la confianza **por mayoría absoluta**, el Rey lo
+   nombra Presidente. Si no se alcanza, **la misma propuesta** se somete a nueva
+   votación **cuarenta y ocho horas después**, y la confianza se entiende otorgada
+   con **mayoría simple**.
+4. Si no se otorga, se tramitan **sucesivas propuestas** del mismo modo.
+5. Si **transcurridos dos meses desde la primera votación de investidura** ningún
+   candidato ha obtenido la confianza, **el Rey disuelve ambas Cámaras y convoca
+   nuevas elecciones, con el refrendo del Presidente del Congreso**.
+
+**Artículo 100.** Los **demás miembros del Gobierno** son **nombrados y separados
+por el Rey, a propuesta de su Presidente**.
+
+**Artículo 101. Cese.** El Gobierno cesa **tras la celebración de elecciones
+generales**, **por pérdida de la confianza parlamentaria** en los casos previstos,
+**o por dimisión o fallecimiento de su Presidente**. El Gobierno cesante
+**continúa en funciones hasta la toma de posesión del nuevo Gobierno**.
+
+**Artículo 102. Responsabilidad criminal.** Exigible ante la **Sala de lo Penal del
+Tribunal Supremo**. Si la acusación fuere por **traición o por cualquier delito
+contra la seguridad del Estado en el ejercicio de sus funciones**, solo puede
+plantearse **por iniciativa de la cuarta parte de los miembros del Congreso y con
+la aprobación de su mayoría absoluta**. **La prerrogativa real de gracia no es
+aplicable** a ninguno de estos supuestos.
+
+**Artículo 103. Administración Pública.** **Sirve con objetividad los intereses
+generales** y actúa de acuerdo con los principios de **eficacia, jerarquía,
+descentralización, desconcentración y coordinación**, con **sometimiento pleno a la
+ley y al Derecho**. Son cinco principios y se preguntan contados. La ley regulará
+el **estatuto de los funcionarios públicos**, el **acceso a la función pública de
+acuerdo con los principios de mérito y capacidad**, las peculiaridades de su
+**derecho a sindicación**, el **sistema de incompatibilidades** y las **garantías
+para la imparcialidad**.
+
+**Artículo 104. Fuerzas y Cuerpos de seguridad.** **Bajo la dependencia del
+Gobierno**, su misión es **proteger el libre ejercicio de los derechos y libertades
+y garantizar la seguridad ciudadana**. Una **ley orgánica** determinará sus
+funciones, principios básicos de actuación y estatutos.
+
+**Artículo 105.** La ley regulará: **a)** la **audiencia de los ciudadanos** en la
+elaboración de las disposiciones administrativas que les afecten; **b)** el
+**acceso de los ciudadanos a los archivos y registros administrativos**, **salvo en
+lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y
+la intimidad de las personas**; **c)** el **procedimiento** de producción de los
+actos administrativos, garantizando cuando proceda la **audiencia del interesado**.
+
+La letra b) es el fundamento constitucional del derecho de acceso a la información
+pública, y con él enlaza el artículo 43 de la Ley 17/2006, que sujeta a RTVE a la
+Ley 19/2013 de transparencia. Las tres excepciones se preguntan.
+
+**Artículo 106. Control de la Administración.** **Los Tribunales controlan la
+potestad reglamentaria y la legalidad de la actuación administrativa**, así como su
+sometimiento a los fines que la justifican. Los particulares tienen derecho a ser
+**indemnizados por toda lesión** que sufran en sus bienes y derechos, **salvo en
+los casos de fuerza mayor**, siempre que sea **consecuencia del funcionamiento de
+los servicios públicos**.
+
+**Artículo 107. Consejo de Estado.** Es el **supremo órgano consultivo del
+Gobierno**. Una **ley orgánica** regulará su composición y competencia.
+
+---
+
+## 7. Título V. De las relaciones entre el Gobierno y las Cortes Generales (artículos 108 a 116)
+
+**Artículo 108.** El Gobierno **responde solidariamente en su gestión política ante
+el Congreso de los Diputados**. Solo ante el Congreso.
+
+**Artículo 109.** Las Cámaras y sus Comisiones pueden **recabar, a través de sus
+Presidentes, la información y ayuda que precisen** del Gobierno, de sus
+Departamentos y de **cualesquiera autoridades del Estado y de las Comunidades
+Autónomas**.
+
+**Artículo 110.** Las Cámaras y sus Comisiones **pueden reclamar la presencia de
+los miembros del Gobierno**; y éstos **tienen acceso a las sesiones** y **facultad
+de hacerse oír**, y pueden solicitar que **informen funcionarios de sus
+Departamentos**.
+
+**Artículo 111.** El Gobierno y cada uno de sus miembros están sometidos a las
+**interpelaciones y preguntas**; los Reglamentos establecerán **un tiempo mínimo
+semanal** para este debate. **Toda interpelación podrá dar lugar a una moción** en
+la que la Cámara manifieste su posición.
+
+**Artículo 112. Cuestión de confianza.** La plantea **el Presidente del Gobierno,
+previa deliberación del Consejo de Ministros, ante el Congreso**, **sobre su
+programa o sobre una declaración de política general**. **La confianza se entiende
+otorgada por mayoría simple.**
+
+**Artículo 113. Moción de censura.** El Congreso exige la responsabilidad política
+del Gobierno **por mayoría absoluta**. Debe ser propuesta **al menos por la décima
+parte de los Diputados** e **incluir un candidato a la Presidencia del Gobierno**
+—es constructiva—. **No puede votarse hasta que transcurran cinco días desde su
+presentación**, y **en los dos primeros días de ese plazo pueden presentarse
+mociones alternativas**. Si **no es aprobada**, **sus signatarios no podrán
+presentar otra durante el mismo período de sesiones**.
+
+**Artículo 114. Efectos.** Si el Congreso **niega su confianza**, el Gobierno
+**presenta su dimisión al Rey** y se procede conforme al artículo 99. Si **adopta
+una moción de censura**, el Gobierno dimite y **el candidato incluido en ella se
+entiende investido de la confianza de la Cámara**; el Rey lo nombra Presidente.
+
+**Artículo 115. Disolución.** El **Presidente del Gobierno**, previa deliberación
+del Consejo de Ministros y **bajo su exclusiva responsabilidad**, puede proponer la
+disolución **del Congreso, del Senado o de las Cortes Generales**, que **decreta el
+Rey**; el decreto **fija la fecha de las elecciones**. **No puede presentarse
+cuando esté en trámite una moción de censura**, ni proceder **nueva disolución
+antes de que transcurra un año desde la anterior**, salvo el supuesto del artículo
+99.5.
+
+**Artículo 116. Estados de alarma, excepción y sitio.** Una **ley orgánica** los
+regula. El cuadro que se pregunta:
+
+| | Quién lo declara | Plazo |
+|---|---|---|
+| **Alarma** | El **Gobierno**, mediante **decreto acordado en Consejo de Ministros**, **dando cuenta al Congreso** | **Máximo quince días**; **sin autorización del Congreso no puede prorrogarse** |
+| **Excepción** | El **Gobierno**, mediante decreto acordado en Consejo de Ministros, **previa autorización del Congreso** | **No podrá exceder de treinta días, prorrogables por otro plazo igual** con los mismos requisitos |
+| **Sitio** | El **Congreso**, **por mayoría absoluta**, **a propuesta exclusiva del Gobierno** | El **Congreso** determina ámbito territorial, duración y condiciones |
+
+En la alarma, el decreto determina el **ámbito territorial**; en la excepción, la
+autorización y proclamación deben determinar **expresamente los efectos, el ámbito
+territorial y la duración**.
+
+Además: **no puede disolverse el Congreso** mientras esté declarado alguno de
+estos estados, **quedando automáticamente convocadas las Cámaras** si no estuvieran
+en período de sesiones; el funcionamiento de los poderes constitucionales **no
+puede interrumpirse**; y si el Congreso está disuelto o ha expirado su mandato,
+**sus competencias las asume la Diputación Permanente**. La declaración **no
+modifica el principio de responsabilidad del Gobierno y de sus agentes**.
+
+Enlace con el artículo 55.1: **solo la excepción y el sitio permiten suspender
+derechos**. En el estado de alarma no se suspende ninguno.
+
+---
+
+## 8. Título VI. Del Poder Judicial (artículos 117 a 127)
+
+**Artículo 117.** **La justicia emana del pueblo y se administra en nombre del
+Rey** por Jueces y Magistrados integrantes del poder judicial, **independientes,
+inamovibles, responsables y sometidos únicamente al imperio de la ley** —cuatro
+notas, y se preguntan—. No pueden ser **separados, suspendidos, trasladados ni
+jubilados** sino por las causas y con las garantías previstas en la ley. El
+ejercicio de la potestad jurisdiccional, **juzgando y haciendo ejecutar lo
+juzgado**, corresponde **exclusivamente** a los Juzgados y Tribunales determinados
+por las leyes. El **principio de unidad jurisdiccional** es la base de la
+organización y funcionamiento de los Tribunales; la ley regulará la **jurisdicción
+militar** en el **ámbito estrictamente castrense** y en los supuestos de **estado
+de sitio**. **Se prohíben los Tribunales de excepción.**
+
+**Artículo 118.** Es obligado **cumplir las sentencias y demás resoluciones firmes**
+y **prestar la colaboración requerida** en el curso del proceso y en la ejecución
+de lo resuelto.
+
+**Artículo 119.** La justicia será **gratuita cuando así lo disponga la ley** y,
+**en todo caso, respecto de quienes acrediten insuficiencia de recursos para
+litigar**.
+
+**Artículo 120.** Las **actuaciones judiciales serán públicas**, con las excepciones
+de las leyes de procedimiento. El procedimiento será **predominantemente oral,
+sobre todo en materia criminal**. **Las sentencias serán siempre motivadas y se
+pronunciarán en audiencia pública.**
+
+**Artículo 121.** Los daños por **error judicial** y los que sean consecuencia del
+**funcionamiento anormal de la Administración de Justicia** dan derecho a
+**indemnización a cargo del Estado**.
+
+**Artículo 122. Consejo General del Poder Judicial.** La **ley orgánica del poder
+judicial** determina la constitución, funcionamiento y gobierno de Juzgados y
+Tribunales y el estatuto de los Jueces y Magistrados de carrera, que **formarán un
+Cuerpo único**. El CGPJ es el **órgano de gobierno del Poder Judicial** y está
+integrado por:
+
+- el **Presidente del Tribunal Supremo, que lo preside**, y
+- **veinte miembros nombrados por el Rey por un período de cinco años**:
+  - **doce** entre **Jueces y Magistrados de todas las categorías judiciales**, en
+    los términos de la ley orgánica;
+  - **cuatro a propuesta del Congreso** y **cuatro a propuesta del Senado**,
+    elegidos en ambos casos **por mayoría de tres quintos**, entre **abogados y
+    otros juristas de reconocida competencia con más de quince años de ejercicio**.
+
+Veinte más el Presidente: **veintiuno** en total. Cinco años, no cuatro ni seis.
+
+**Artículo 123. Tribunal Supremo.** Con **jurisdicción en toda España**, es el
+**órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en
+materia de garantías constitucionales**. Su **Presidente lo nombra el Rey a
+propuesta del Consejo General del Poder Judicial**.
+
+**Artículo 124. Ministerio Fiscal.** Tiene por misión **promover la acción de la
+justicia en defensa de la legalidad, de los derechos de los ciudadanos y del
+interés público tutelado por la ley**, de oficio o a petición de los interesados,
+así como **velar por la independencia de los Tribunales** y **procurar ante éstos
+la satisfacción del interés social**. Actúa conforme a los principios de **unidad
+de actuación y dependencia jerárquica** y con sujeción **en todo caso** a los de
+**legalidad e imparcialidad**. El **Fiscal General del Estado** es nombrado por el
+**Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial**.
+
+**Artículo 125.** Los ciudadanos podrán ejercer la **acción popular** y participar
+en la Administración de Justicia mediante **el Jurado**, en la forma y respecto de
+los procesos penales que la ley determine, así como en los **Tribunales
+consuetudinarios y tradicionales**.
+
+**Artículo 126.** La **policía judicial** depende **de los Jueces, de los Tribunales
+y del Ministerio Fiscal** en sus funciones de averiguación del delito y
+descubrimiento y aseguramiento del delincuente.
+
+**Artículo 127.** Jueces, Magistrados y Fiscales **en activo** **no pueden
+desempeñar otros cargos públicos ni pertenecer a partidos políticos o sindicatos**;
+la ley establecerá su **asociación profesional** y el **régimen de
+incompatibilidades**, que deberá asegurar su **total independencia**.
+
+---
+
+## 9. Título VII. Economía y Hacienda (artículos 128 a 136)
+
+**Artículo 128.** **Toda la riqueza del país**, en sus distintas formas y **sea cual
+fuere su titularidad**, **está subordinada al interés general**. Se reconoce la
+**iniciativa pública en la actividad económica**, y **mediante ley** se podrá
+**reservar al sector público recursos o servicios esenciales**, especialmente en
+caso de monopolio, y **acordar la intervención de empresas** cuando lo exija el
+interés general.
+
+Éste es el asidero constitucional de un servicio público de radio y televisión de
+titularidad estatal, junto con el artículo 20.3.
+
+**Artículo 129.** Participación de los interesados en la **Seguridad Social** y en
+los organismos públicos cuya función afecte a la calidad de vida o al bienestar
+general; fomento de las **sociedades cooperativas** y de las formas de
+**participación en la empresa**, y medios que faciliten el **acceso de los
+trabajadores a la propiedad de los medios de producción**.
+
+**Artículo 130.** Modernización y desarrollo de todos los sectores económicos, **en
+particular la agricultura, la ganadería, la pesca y la artesanía**, y **tratamiento
+especial a las zonas de montaña**.
+
+**Artículo 131. Planificación.** El Estado, **mediante ley**, podrá **planificar la
+actividad económica general**. El **Gobierno elabora los proyectos** con las
+previsiones de las Comunidades Autónomas y el asesoramiento de sindicatos y otras
+organizaciones profesionales, empresariales y económicas, para lo que **se
+constituirá un Consejo**.
+
+**Artículo 132. Bienes públicos.** Régimen jurídico de los **bienes de dominio
+público y comunales** inspirado en los principios de **inalienabilidad,
+imprescriptibilidad e inembargabilidad**. Son de **dominio público estatal** los
+que determine la ley y, **en todo caso, la zona marítimo-terrestre, las playas, el
+mar territorial y los recursos naturales de la zona económica y la plataforma
+continental**. Por ley se regulan el **Patrimonio del Estado y el Patrimonio
+Nacional**.
+
+**Artículo 133. Tributos.** La **potestad originaria** para establecerlos
+corresponde **exclusivamente al Estado, mediante ley**. Las **Comunidades Autónomas
+y las Corporaciones locales** podrán establecerlos y exigirlos **de acuerdo con la
+Constitución y las leyes**. Todo **beneficio fiscal** que afecte a tributos del
+Estado **deberá establecerse en virtud de ley**.
+
+**Artículo 134. Presupuestos Generales del Estado.** Lo que cae:
+
+- Su **elaboración corresponde al Gobierno**; su **examen, enmienda y aprobación, a
+  las Cortes Generales**.
+- Tienen **carácter anual**, incluyen **la totalidad de los gastos e ingresos del
+  sector público estatal** y consignan **el importe de los beneficios fiscales** que
+  afecten a los tributos del Estado.
+- El Gobierno debe presentarlos **ante el Congreso al menos tres meses antes de la
+  expiración de los del año anterior**.
+- Si no se aprueban antes del **primer día del ejercicio**, **se consideran
+  automáticamente prorrogados los del ejercicio anterior** hasta la aprobación de
+  los nuevos.
+- **Toda proposición o enmienda que suponga aumento de créditos o disminución de
+  ingresos requiere la conformidad del Gobierno** para su tramitación.
+- **La Ley de Presupuestos no puede crear tributos**; **puede modificarlos cuando
+  una ley tributaria sustantiva así lo prevea**.
+
+El presupuesto de la Corporación RTVE se integra en los Presupuestos Generales del
+Estado, según el artículo 34 de la Ley 17/2006.
+
+**Artículo 135. Estabilidad presupuestaria.** Es el artículo reformado en 2011 y el
+único que el enunciado de la convocatoria menciona.
+
+1. **Todas las Administraciones Públicas** adecuarán sus actuaciones al **principio
+   de estabilidad presupuestaria**.
+2. **El Estado y las Comunidades Autónomas no podrán incurrir en un déficit
+   estructural** que supere los márgenes establecidos, en su caso, **por la Unión
+   Europea**. Una **ley orgánica** fijará el déficit estructural máximo en relación
+   con el PIB. **Las Entidades Locales deberán presentar equilibrio
+   presupuestario** —a ellas no se les fija un margen de déficit: se les exige
+   equilibrio—.
+3. El Estado y las Comunidades Autónomas **han de estar autorizados por ley para
+   emitir deuda pública o contraer crédito**. Los créditos para satisfacer
+   **intereses y capital de la deuda** se entienden **siempre incluidos en el estado
+   de gastos** y **su pago goza de prioridad absoluta**; **no pueden ser objeto de
+   enmienda o modificación** mientras se ajusten a las condiciones de la ley de
+   emisión. El **volumen de deuda pública** del conjunto de las Administraciones no
+   podrá superar **el valor de referencia establecido en el Tratado de
+   Funcionamiento de la Unión Europea**.
+4. Los límites **solo podrán superarse** en caso de **catástrofes naturales,
+   recesión económica o situaciones de emergencia extraordinaria** que escapen al
+   control del Estado y perjudiquen considerablemente su situación financiera o su
+   sostenibilidad económica o social, **apreciadas por la mayoría absoluta de los
+   miembros del Congreso de los Diputados**. Son tres supuestos.
+5. Una **ley orgánica** desarrollará estos principios y regulará **en todo caso**:
+   **a)** la distribución de los límites de déficit y deuda entre Administraciones,
+   los supuestos excepcionales y la corrección de desviaciones; **b)** la
+   **metodología y el procedimiento para el cálculo del déficit estructural**;
+   **c)** la **responsabilidad de cada Administración** en caso de incumplimiento.
+
+**Artículo 136. Tribunal de Cuentas.** Es el **supremo órgano fiscalizador de las
+cuentas y de la gestión económica del Estado y del sector público**. **Depende
+directamente de las Cortes Generales** y ejerce sus funciones **por delegación de
+ellas** en el examen y comprobación de la **Cuenta General del Estado**. Las cuentas
+del Estado y del sector público estatal **se rinden al Tribunal y son censuradas
+por éste**; el Tribunal remite a las Cortes un **informe anual**. Sus miembros
+gozan de **la misma independencia e inamovilidad** y están sometidos **a las mismas
+incompatibilidades que los Jueces**. Una **ley orgánica** regula su composición,
+organización y funciones.
+
+Le corresponde el **control externo de la Corporación RTVE** (artículo 41 de la Ley
+17/2006), y los miembros de su Consejo de Administración tienen la condición de
+**cuentadantes** a efectos de la legislación del Tribunal de Cuentas.
+
+---
+
+## 10. Título VIII. De la Organización Territorial del Estado (artículos 137 a 158)
+
+Tres capítulos: **Principios generales** (137 a 139), **De la Administración
+Local** (140 a 142) y **De las Comunidades Autónomas** (143 a 158).
+
+### 10.1. Principios generales
+
+**Artículo 137.** El Estado se organiza territorialmente en **municipios,
+provincias y las Comunidades Autónomas que se constituyan**. Todas estas entidades
+**gozan de autonomía para la gestión de sus respectivos intereses**.
+
+**Artículo 138.** El Estado **garantiza la realización efectiva del principio de
+solidaridad** del artículo 2, velando por un **equilibrio económico, adecuado y
+justo** entre las partes del territorio y **atendiendo en particular a las
+circunstancias del hecho insular**. Las diferencias entre Estatutos **no podrán
+implicar en ningún caso privilegios económicos o sociales**.
+
+**Artículo 139.** **Todos los españoles tienen los mismos derechos y obligaciones
+en cualquier parte del territorio.** Ninguna autoridad podrá adoptar medidas que
+**directa o indirectamente obstaculicen la libertad de circulación y
+establecimiento** de las personas y la **libre circulación de bienes**.
+
+### 10.2. Administración Local
+
+**Artículo 140. Municipios.** La Constitución **garantiza su autonomía**; gozan de
+**personalidad jurídica plena**. Su gobierno y administración corresponde a los
+**Ayuntamientos, integrados por los Alcaldes y los Concejales**. Los **Concejales**
+son elegidos **por los vecinos** mediante sufragio **universal, igual, libre,
+directo y secreto**; los **Alcaldes**, **por los Concejales o por los vecinos**. La
+ley regulará el **régimen del concejo abierto**.
+
+**Artículo 141. Provincias.** Entidad local con **personalidad jurídica propia**,
+determinada por la **agrupación de municipios** y **división territorial para el
+cumplimiento de las actividades del Estado**. **Cualquier alteración de los límites
+provinciales ha de ser aprobada por las Cortes Generales mediante ley orgánica.**
+Su gobierno y administración autónoma se encomienda a **Diputaciones u otras
+Corporaciones de carácter representativo**. Pueden crearse **agrupaciones de
+municipios diferentes de la provincia**, y **en los archipiélagos las islas tienen
+además administración propia en forma de Cabildos o Consejos**.
+
+**Artículo 142. Haciendas locales.** Deben disponer de **medios suficientes** y se
+nutren **fundamentalmente de tributos propios y de participación en los del Estado
+y de las Comunidades Autónomas**.
+
+### 10.3. Comunidades Autónomas
+
+**Artículo 143. Vía ordinaria.** Pueden acceder al autogobierno las **provincias
+limítrofes con características históricas, culturales y económicas comunes**, los
+**territorios insulares** y las **provincias con entidad regional histórica**. La
+**iniciativa** corresponde a **todas las Diputaciones interesadas o al órgano
+interinsular** y a **las dos terceras partes de los municipios cuya población
+represente al menos la mayoría del censo electoral** de cada provincia o isla, en
+el plazo de **seis meses** desde el primer acuerdo. Si **no prospera**, solo puede
+reiterarse **pasados cinco años**.
+
+**Artículo 144.** Las Cortes, **mediante ley orgánica** y **por motivos de interés
+nacional**, pueden **autorizar la constitución de una comunidad autónoma
+uniprovincial** que no reúna las condiciones del 143.1, **autorizar o acordar un
+Estatuto para territorios no integrados en la organización provincial** y
+**sustituir la iniciativa de las Corporaciones locales**.
+
+**Artículo 145.** **En ningún caso se admitirá la federación de Comunidades
+Autónomas.** Los Estatutos pueden prever **convenios entre Comunidades para la
+gestión y prestación de servicios propios**, con comunicación a las Cortes; **en
+los demás supuestos, los acuerdos de cooperación necesitan autorización de las
+Cortes Generales**.
+
+**Artículo 147. Estatutos de Autonomía.** Son la **norma institucional básica** de
+cada Comunidad, y el Estado **los reconocerá y amparará como parte integrante de su
+ordenamiento jurídico**. Deben contener: **a)** la **denominación** que mejor
+corresponda a su identidad histórica; **b)** la **delimitación de su territorio**;
+**c)** la **denominación, organización y sede de las instituciones autónomas
+propias**; **d)** las **competencias asumidas** y las bases para el traspaso de
+servicios. Su **reforma** se ajusta al procedimiento previsto en ellos y requiere
+**en todo caso aprobación por las Cortes Generales mediante ley orgánica**.
+
+**Artículo 148. Competencias que pueden asumir las Comunidades Autónomas.**
+**Veintidós materias.** Transcurridos **cinco años**, y **mediante la reforma de
+sus Estatutos**, podrán **ampliar sucesivamente sus competencias** dentro del marco
+del artículo 149.
+
+| | |
+|---|---|
+| 1.ª | Organización de sus **instituciones de autogobierno** |
+| 2.ª | **Alteraciones de los términos municipales** y funciones del Estado sobre las Corporaciones locales cuya transferencia autorice la legislación de Régimen Local |
+| 3.ª | **Ordenación del territorio, urbanismo y vivienda** |
+| 4.ª | **Obras públicas** de interés de la Comunidad en su propio territorio |
+| 5.ª | **Ferrocarriles y carreteras** cuyo itinerario se desarrolle íntegramente en su territorio, y el transporte por esos medios o por cable |
+| 6.ª | **Puertos de refugio**, puertos y **aeropuertos deportivos** y, en general, los que **no desarrollen actividades comerciales** |
+| 7.ª | **Agricultura y ganadería**, de acuerdo con la ordenación general de la economía |
+| 8.ª | **Montes y aprovechamientos forestales** |
+| 9.ª | **Gestión** en materia de protección del **medio ambiente** |
+| 10.ª | **Aprovechamientos hidráulicos, canales y regadíos** de interés de la Comunidad; **aguas minerales y termales** |
+| 11.ª | **Pesca en aguas interiores**, marisqueo y acuicultura, **caza y pesca fluvial** |
+| 12.ª | **Ferias interiores** |
+| 13.ª | **Fomento del desarrollo económico** de la Comunidad dentro de los objetivos de la política económica nacional |
+| 14.ª | **Artesanía** |
+| 15.ª | **Museos, bibliotecas y conservatorios de música** de interés para la Comunidad |
+| 16.ª | **Patrimonio monumental** de interés de la Comunidad |
+| 17.ª | **Fomento de la cultura, de la investigación** y, en su caso, de la **enseñanza de la lengua** de la Comunidad |
+| 18.ª | **Promoción y ordenación del turismo** en su ámbito territorial |
+| 19.ª | **Promoción del deporte** y de la adecuada utilización del **ocio** |
+| 20.ª | **Asistencia social** |
+| 21.ª | **Sanidad e higiene** |
+| 22.ª | **Vigilancia y protección de sus edificios e instalaciones**; coordinación y demás facultades sobre las **policías locales** en los términos de una ley orgánica |
+
+**Artículo 149. Competencia exclusiva del Estado.** **Treinta y dos materias.** El
+examen las usa al revés: pregunta cuál de estas cuatro **no** puede asumir una
+Comunidad Autónoma, y la respuesta suele ser el **régimen aduanero y arancelario**,
+que es la 10.ª de esta lista.
+
+| | |
+|---|---|
+| 1.ª | **Condiciones básicas** que garanticen la **igualdad** de todos los españoles en el ejercicio de los derechos y el cumplimiento de los deberes constitucionales |
+| 2.ª | **Nacionalidad, inmigración, emigración, extranjería y derecho de asilo** |
+| 3.ª | **Relaciones internacionales** |
+| 4.ª | **Defensa y Fuerzas Armadas** |
+| 5.ª | **Administración de Justicia** |
+| 6.ª | Legislación **mercantil, penal y penitenciaria**; legislación **procesal** |
+| 7.ª | Legislación **laboral**, sin perjuicio de su **ejecución** por las Comunidades |
+| 8.ª | Legislación **civil**, sin perjuicio de la conservación, modificación y desarrollo de los **derechos forales o especiales** |
+| 9.ª | Legislación sobre **propiedad intelectual e industrial** |
+| 10.ª | **Régimen aduanero y arancelario; comercio exterior** |
+| 11.ª | **Sistema monetario**; bases de la ordenación de **crédito, banca y seguros** |
+| 12.ª | **Pesas y medidas**; determinación de la **hora oficial** |
+| 13.ª | **Bases y coordinación** de la planificación general de la actividad económica |
+| 14.ª | **Hacienda general y Deuda del Estado** |
+| 15.ª | Fomento y coordinación general de la **investigación científica y técnica** |
+| 16.ª | **Sanidad exterior**; bases y coordinación general de la sanidad; **productos farmacéuticos** |
+| 17.ª | Legislación básica y **régimen económico de la Seguridad Social** |
+| 18.ª | **Bases del régimen jurídico de las Administraciones públicas** y del régimen estatutario de sus funcionarios; **procedimiento administrativo común**; **expropiación forzosa**; legislación básica sobre **contratos y concesiones**; **sistema de responsabilidad** de todas las Administraciones |
+| 19.ª | **Pesca marítima** |
+| 20.ª | **Marina mercante**; **puertos y aeropuertos de interés general**; **control del espacio aéreo**, tránsito y transporte aéreo; servicio meteorológico; matriculación de aeronaves |
+| 21.ª | **Ferrocarriles y transportes terrestres** que transcurran por más de una Comunidad; **régimen general de comunicaciones**; tráfico y circulación de vehículos a motor; **correos y telecomunicaciones**; **cables aéreos, submarinos y radiocomunicación** |
+| 22.ª | **Recursos y aprovechamientos hidráulicos** cuando las aguas discurran por más de una Comunidad; autorización de **instalaciones eléctricas** que afecten a otra |
+| 23.ª | Legislación básica sobre **protección del medio ambiente**, **montes**, aprovechamientos forestales y **vías pecuarias** |
+| 24.ª | **Obras públicas de interés general** o que afecten a más de una Comunidad |
+| 25.ª | **Bases del régimen minero y energético** |
+| 26.ª | **Armas y explosivos**: producción, comercio, tenencia y uso |
+| 27.ª | **Normas básicas del régimen de prensa, radio y televisión** y, en general, de **todos los medios de comunicación social** |
+| 28.ª | Defensa del **patrimonio cultural, artístico y monumental** contra la exportación y la expoliación; **museos, bibliotecas y archivos de titularidad estatal** |
+| 29.ª | **Seguridad pública**, sin perjuicio de las **policías autonómicas** |
+| 30.ª | Condiciones de obtención, expedición y homologación de **títulos académicos y profesionales** y normas básicas para el desarrollo del **artículo 27** |
+| 31.ª | **Estadística** para fines estatales |
+| 32.ª | **Autorización para la convocatoria de consultas populares por vía de referéndum** |
+
+Ojo a la simetría que se usa como trampa: la **gestión** del medio ambiente es
+autonómica (148.1.9.ª) y la **legislación básica** es estatal (149.1.23.ª); los
+puertos y aeropuertos **deportivos o sin actividad comercial** son autonómicos
+(148.1.6.ª) y los **de interés general**, estatales (149.1.20.ª).
+
+La que hay que llevarse aprendida para RTVE es la **27.ª**:
+
+> «**Normas básicas del régimen de prensa, radio y televisión y, en general, de
+> todos los medios de comunicación social, sin perjuicio de las facultades que en
+> su desarrollo y ejecución correspondan a las Comunidades Autónomas.**»
+
+Junto a ella, la **21.ª** y la **9.ª**, que es la base del tema de derechos de
+autor del temario específico de Producción.
+
+Las **cláusulas de cierre del apartado 3 del artículo 149** también caen: las materias **no
+atribuidas expresamente al Estado** pueden corresponder a las Comunidades **en
+virtud de sus Estatutos**; las **no asumidas por los Estatutos corresponden al
+Estado**, cuyas normas **prevalecen** en caso de conflicto en todo lo que no esté
+atribuido a la exclusiva competencia de las Comunidades; y **el derecho estatal es,
+en todo caso, supletorio** del de las Comunidades Autónomas.
+
+**Artículo 150. Leyes marco, de transferencia y de armonización.**
+
+- **150.1, ley marco**: las Cortes, en materias de competencia estatal, pueden
+  atribuir a todas o alguna de las Comunidades la facultad de **dictar normas
+  legislativas para sí mismas** en el marco de principios, bases y directrices
+  fijados por una ley estatal.
+- **150.2, ley orgánica de transferencia o delegación**: el Estado puede
+  **transferir o delegar** facultades de titularidad estatal **susceptibles por su
+  naturaleza** de transferencia o delegación, previendo la **transferencia de
+  medios financieros** y las **formas de control**.
+- **150.3, leyes de armonización**: el Estado puede dictar leyes que establezcan
+  los **principios necesarios para armonizar** las disposiciones de las
+  Comunidades, **aun en materias de su competencia**, cuando lo exija el **interés
+  general**; la **apreciación de esa necesidad** corresponde a las Cortes **por
+  mayoría absoluta de cada Cámara**.
+
+**Artículo 151. Vía rápida.** No hace falta esperar cinco años cuando la iniciativa
+la acuerden, además de las Diputaciones u órganos interinsulares, **las tres
+cuartas partes de los municipios de cada provincia afectada que representen al
+menos la mayoría del censo electoral**, y sea **ratificada en referéndum por el
+voto afirmativo de la mayoría absoluta de los electores de cada provincia**.
+
+**Artículo 152. Organización institucional.** En los Estatutos aprobados por la vía
+del 151: una **Asamblea Legislativa** elegida por sufragio universal con
+**representación proporcional** que asegure la representación de las diversas zonas
+del territorio; un **Consejo de Gobierno** con funciones ejecutivas y
+administrativas; y un **Presidente elegido por la Asamblea de entre sus miembros y
+nombrado por el Rey**, al que corresponde la dirección del Consejo de Gobierno, la
+**suprema representación de la Comunidad** y la **ordinaria del Estado** en ella. Un
+**Tribunal Superior de Justicia** culmina la organización judicial en el ámbito de
+la Comunidad, sin perjuicio de la jurisdicción del Tribunal Supremo.
+
+**Artículo 153. Control de las Comunidades Autónomas.** Cuatro controles y cuatro
+órganos, y así se pregunta:
+
+| Qué se controla | Quién |
+|---|---|
+| La **constitucionalidad de sus disposiciones normativas con fuerza de ley** | El **Tribunal Constitucional** |
+| El ejercicio de **funciones delegadas** del artículo 150.2 | El **Gobierno, previo dictamen del Consejo de Estado** |
+| La **administración autónoma y sus normas reglamentarias** | La **jurisdicción contencioso-administrativa** |
+| Lo **económico y presupuestario** | El **Tribunal de Cuentas** |
+
+**Artículo 154.** Un **Delegado nombrado por el Gobierno** dirige la Administración
+del Estado en el territorio de la Comunidad y la coordina, cuando proceda, con la
+administración propia.
+
+**Artículo 155. Coerción estatal.** Si una Comunidad **no cumpliere las
+obligaciones** que la Constitución u otras leyes le impongan, **o actuare de forma
+que atente gravemente al interés general de España**, el Gobierno, **previo
+requerimiento al Presidente de la Comunidad** y, de no ser atendido, **con la
+aprobación por mayoría absoluta del Senado**, podrá adoptar **las medidas
+necesarias** para obligarla al cumplimiento forzoso o para proteger el interés
+general, y **podrá dar instrucciones a todas las autoridades de la Comunidad**.
+
+**El artículo 155 se ha aplicado una vez.** En **Cataluña**: la **Resolución de 27
+de octubre de 2017 de la Presidencia del Senado** publicó el **Acuerdo del Pleno
+del Senado** por el que se aprobaron las medidas requeridas por el Gobierno al
+amparo del artículo 155 (`BOE-A-2017-12327`), y ese mismo día se dictaron los
+Reales Decretos 942/2017 a 945/2017 que las ejecutaban. En el examen de
+Información y Contenidos de 2024 se preguntó por el período de aplicación y la
+plantilla oficial da como respuesta **del 27 de octubre de 2017 al 2 de junio de
+2018**; la fecha final —el cese de las medidas al tomar posesión el nuevo Govern—
+se recoge aquí **por la plantilla, no por fuente oficial**, porque no se ha
+localizado su publicación en el BOE (anotado en `PENDIENTES.md`).
+
+**Artículos 156 a 158. Hacienda autonómica.** **Autonomía financiera** con arreglo
+a los principios de **coordinación con la Hacienda estatal y solidaridad entre
+todos los españoles**. El artículo 157.1 enumera sus recursos —impuestos cedidos,
+recargos y participaciones, impuestos, tasas y contribuciones especiales propios,
+etc.—. Y el **artículo 158.2** crea el **Fondo de Compensación**, **con destino a
+gastos de inversión**, para **corregir desequilibrios económicos interterritoriales
+y hacer efectivo el principio de solidaridad**, cuyos recursos **distribuyen las
+Cortes Generales**.
+
+---
+
+## 11. Título IX. Del Tribunal Constitucional (artículos 159 a 165)
+
+**Artículo 159. Composición.** **Doce miembros nombrados por el Rey**:
+
+- **cuatro a propuesta del Congreso**, por **mayoría de tres quintos**;
+- **cuatro a propuesta del Senado**, con **idéntica mayoría**;
+- **dos a propuesta del Gobierno**;
+- **dos a propuesta del Consejo General del Poder Judicial**.
+
+Se nombran **entre Magistrados y Fiscales, Profesores de Universidad, funcionarios
+públicos y Abogados**, todos ellos **juristas de reconocida competencia con más de
+quince años de ejercicio profesional**. Su mandato es de **nueve años** y **se
+renuevan por terceras partes cada tres**. Son **independientes e inamovibles**.
+
+La condición de miembro es **incompatible** con: **todo mandato representativo**;
+**los cargos políticos o administrativos**; **funciones directivas en un partido
+político o en un sindicato y el empleo al servicio de los mismos**; **el ejercicio
+de las carreras judicial y fiscal**; y **cualquier actividad profesional o
+mercantil**.
+
+No confundir con el Consejo General del Poder Judicial: **el TC son doce, nueve
+años, renovación por tercios cada tres**; el **CGPJ, veinte más el Presidente,
+cinco años**.
+
+**Artículo 160. Presidencia.** El **Presidente** lo nombra **el Rey entre sus
+miembros, a propuesta del propio Tribunal en pleno, por un período de tres años**.
+
+**Artículo 161. Competencias.** Tiene **jurisdicción en todo el territorio
+español** y conoce:
+
+- **a)** del **recurso de inconstitucionalidad** contra leyes y disposiciones
+  normativas con fuerza de ley;
+- **b)** del **recurso de amparo** por violación de los derechos y libertades del
+  **artículo 53.2**;
+- **c)** de los **conflictos de competencia entre el Estado y las Comunidades
+  Autónomas o de éstas entre sí**;
+- **d)** de las **demás materias** que le atribuyan la Constitución o las leyes
+  orgánicas.
+
+Además, **el Gobierno puede impugnar** las disposiciones y resoluciones de los
+órganos de las Comunidades Autónomas; **la impugnación produce la suspensión** de
+lo recurrido, pero **el Tribunal deberá ratificarla o levantarla en un plazo no
+superior a cinco meses**.
+
+**Artículo 162. Legitimación.** Para el **recurso de inconstitucionalidad**: el
+**Presidente del Gobierno**, el **Defensor del Pueblo**, **50 Diputados**, **50
+Senadores**, los **órganos colegiados ejecutivos de las Comunidades Autónomas** y,
+en su caso, **sus Asambleas**. Para el **recurso de amparo**: **toda persona
+natural o jurídica que invoque un interés legítimo**, el **Defensor del Pueblo** y
+el **Ministerio Fiscal**.
+
+**Artículo 163. Cuestión de inconstitucionalidad.** La plantea **un órgano
+judicial** cuando considere que **una norma con rango de ley aplicable al caso, de
+cuya validez dependa el fallo**, pueda ser contraria a la Constitución. Sus efectos
+**en ningún caso serán suspensivos**.
+
+**Artículo 164. Sentencias.** Se **publican en el BOE con los votos particulares,
+si los hubiere**. Tienen **valor de cosa juzgada a partir del día siguiente de su
+publicación** y **no cabe recurso alguno** contra ellas. Las que **declaren la
+inconstitucionalidad** de una ley o norma con fuerza de ley y **todas las que no se
+limiten a la estimación subjetiva de un derecho** tienen **plenos efectos frente a
+todos**. **Salvo que en el fallo se disponga otra cosa, subsiste la vigencia de la
+ley en la parte no afectada.**
+
+**Artículo 165.** Una **ley orgánica** regulará su funcionamiento, el estatuto de
+sus miembros, el procedimiento y las condiciones para el ejercicio de las
+acciones.
+
+---
+
+## 12. Título X. De la reforma constitucional (artículos 166 a 169)
+
+Cuatro artículos.
+
+**Artículo 166. Iniciativa.** Se ejerce **en los términos previstos en los
+apartados 1 y 2 del artículo 87**: Gobierno, Congreso, Senado y Asambleas de las
+Comunidades Autónomas. **Queda excluida la iniciativa popular** del artículo 87.3.
+
+**Artículo 167. Procedimiento ordinario.**
+
+1. Los proyectos deben aprobarse por **mayoría de tres quintos de cada Cámara**. Si
+   no hay acuerdo, se intenta mediante una **Comisión de composición paritaria** de
+   Diputados y Senadores, que presenta un texto votado por ambas.
+2. De no lograrse, y **siempre que el texto haya obtenido el voto favorable de la
+   mayoría absoluta del Senado**, el **Congreso puede aprobar la reforma por
+   mayoría de dos tercios**.
+3. Aprobada la reforma, **se somete a referéndum de ratificación cuando lo
+   soliciten, dentro de los quince días siguientes a su aprobación, una décima
+   parte de los miembros de cualquiera de las Cámaras**. El referéndum es, por
+   tanto, **potestativo**.
+
+**Artículo 168. Procedimiento agravado.** Se aplica cuando se proponga la
+**revisión total** o una **parcial que afecte**:
+
+- al **Título Preliminar**,
+- al **Capítulo segundo, Sección primera del Título I** (artículos 15 a 29),
+- o al **Título II** (la Corona).
+
+Entonces: **aprobación del principio por mayoría de dos tercios de cada Cámara** y
+**disolución inmediata de las Cortes**; las **Cámaras elegidas deben ratificar la
+decisión** y aprobar el nuevo texto **por mayoría de dos tercios de ambas**; y la
+reforma **se somete a referéndum de ratificación**, que aquí es **obligatorio**.
+
+**Artículo 169. Límite temporal.** **No podrá iniciarse la reforma constitucional
+en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo
+116** —alarma, excepción y sitio—.
+
+Cuadro para no confundirlos:
+
+| | Ordinario (167) | Agravado (168) |
+|---|---|---|
+| Mayoría inicial | **Tres quintos** de cada Cámara | **Dos tercios** de cada Cámara |
+| Salida sin acuerdo | Comisión paritaria; después, **dos tercios del Congreso** con **mayoría absoluta del Senado** | — |
+| Disolución de las Cortes | No | **Sí, inmediata** |
+| Aprobación por las nuevas Cámaras | — | **Dos tercios de ambas** |
+| Referéndum | **Potestativo**, a petición de **una décima parte** de los miembros de cualquier Cámara en **quince días** | **Obligatorio** |
+
+---
+
+## 13. Las disposiciones (quince en total)
+
+### 13.1. Adicionales (cuatro)
+
+| | |
+|---|---|
+| **Primera** | La Constitución **ampara y respeta los derechos históricos de los territorios forales**. Su actualización general se llevará a cabo **en el marco de la Constitución y de los Estatutos de Autonomía**. |
+| **Segunda** | La **mayoría de edad del artículo 12** no perjudica las situaciones amparadas por los **derechos forales en el ámbito del Derecho privado**. |
+| **Tercera** | La modificación del **régimen económico y fiscal del archipiélago canario** requiere **informe previo** de la Comunidad Autónoma o, en su caso, del órgano provisional autonómico. |
+| **Cuarta** | En las Comunidades con **más de una Audiencia Territorial**, los Estatutos podrán **mantener las existentes**, distribuyendo competencias entre ellas conforme a la ley orgánica del poder judicial. |
+
+### 13.2. Transitorias (nueve)
+
+Casi todas son de derecho transitorio del proceso autonómico y hoy están agotadas,
+pero se preguntan por su contenido:
+
+| | |
+|---|---|
+| **Primera** | Los **órganos colegiados superiores** de los territorios con régimen provisional de autonomía podían **sustituir la iniciativa** del artículo 143.2, por **mayoría absoluta**. |
+| **Segunda** | Los territorios que **hubiesen plebiscitado afirmativamente proyectos de Estatuto** en el pasado y contaran con regímenes provisionales de autonomía podían **proceder inmediatamente** conforme al artículo 148.2. Es la vía de Cataluña, el País Vasco y Galicia. |
+| **Tercera** | La iniciativa autonómica de las Corporaciones locales quedó **diferida hasta las primeras elecciones locales** una vez vigente la Constitución. |
+| **Cuarta** | **Navarra**: a efectos de su incorporación al Consejo General Vasco o al régimen autonómico vasco, la iniciativa corresponde al **Órgano Foral competente**, por mayoría de sus miembros, y ha de ser **ratificada por referéndum** aprobado por mayoría de los votos válidos emitidos. |
+| **Quinta** | **Ceuta y Melilla** podrán constituirse en Comunidades Autónomas si lo deciden sus **Ayuntamientos por mayoría absoluta** y lo **autorizan las Cortes Generales mediante ley orgánica**, en los términos del artículo 144. |
+| **Sexta** | Varios proyectos de Estatuto remitidos a la **Comisión Constitucional del Congreso** se dictaminan **por orden de entrada**. |
+| **Séptima** | Los **organismos provisionales autonómicos** se disuelven en tres casos: constituidos los órganos estatutarios; si la iniciativa **no prospera**; o si **no se ejerció** el derecho de la transitoria primera **en el plazo de tres años**. |
+| **Octava** | Las **Cámaras constituyentes** asumieron las funciones del Congreso y el Senado, **sin que su mandato se extendiera más allá del 15 de junio de 1981**; y la **promulgación de la Constitución** se consideró supuesto del artículo 99, abriéndose un **período de treinta días**. |
+| **Novena** | **A los tres años** de la primera elección de los miembros del **Tribunal Constitucional**, **sorteo** para designar el grupo de **cuatro miembros** que debía cesar y renovarse; a estos solos efectos se agrupan los **dos del Gobierno y los dos del CGPJ**. |
+
+### 13.3. Derogatoria y final
+
+**Disposición derogatoria**, tres apartados. Deroga expresamente la **Ley 1/1977,
+de 4 de enero, para la Reforma Política** y, en tanto no estuvieran ya derogadas
+por ella, las Leyes Fundamentales del régimen anterior: la de **Principios del
+Movimiento Nacional** de 1958, el **Fuero de los Españoles** de 1945, el **Fuero
+del Trabajo** de 1938, la **Ley Constitutiva de las Cortes** de 1942, la **Ley de
+Sucesión en la Jefatura del Estado** de 1947, la **Ley Orgánica del Estado** de
+1967 y la **Ley de Referéndum Nacional** de 1945. Declara además definitivamente
+derogadas, en lo que pudieran afectar a Álava, Guipúzcoa y Vizcaya, la **Ley de 25
+de octubre de 1839** y la **Ley de 21 de julio de 1876**. Y cierra con la cláusula
+general: quedan derogadas **cuantas disposiciones se opongan** a lo establecido en
+la Constitución.
+
+**Disposición final.** Entrada en vigor **el mismo día de la publicación** del texto
+oficial en el BOE, y **publicación también en las demás lenguas de España**.
+
+---
+
+## 14. La Constitución en el trabajo de RTVE
+
+No es un epígrafe de adorno: en los exámenes de 2024 las preguntas de Constitución
+tiran una y otra vez de estos preceptos, y son los que enlazan con el resto del
+temario.
+
+| Precepto | Qué dice y dónde reaparece |
+|---|---|
+| **Artículo 20.1.d)** | Derecho a **comunicar o recibir libremente información veraz**; **cláusula de conciencia y secreto profesional**. Es el fundamento del estatuto profesional del informador. |
+| **Artículo 20.2** | **Prohibición de censura previa.** |
+| **Artículo 20.3** | **Mandato al legislador**: organización y **control parlamentario** de los medios de comunicación dependientes del Estado, y **garantía del derecho de acceso** de los grupos sociales y políticos significativos. De aquí nacen la Ley 17/2006 —cuyo preámbulo lo cita— y los artículos 28 y 39 de esa ley. |
+| **Artículo 20.4** | **Límites**: honor, intimidad, propia imagen y **protección de la juventud y de la infancia**. Enlaza con el Código de autorregulación para la defensa del menor de RTVE. |
+| **Artículo 20.5** | **Secuestro solo por resolución judicial.** |
+| **Artículo 18** | Honor, intimidad, propia imagen y secreto de las comunicaciones: el límite diario del trabajo informativo. |
+| **Artículo 44** | Los poderes públicos **promoverán y tutelarán el acceso a la cultura**. Una de las preguntas de 2024 lo enfrentaba a un distractor sobre «acceso a la televisión pública». |
+| **Artículo 46** | **Patrimonio histórico, cultural y artístico**: base del deber de conservar los archivos históricos audiovisuales. |
+| **Artículo 105.b)** | **Acceso a archivos y registros administrativos**, con tres excepciones. Enlaza con el artículo 43 de la Ley 17/2006 y con la Ley 19/2013. |
+| **Artículo 128.2** | **Iniciativa pública en la actividad económica** y posible **reserva al sector público de servicios esenciales**: cobertura de un servicio público de radio y televisión de titularidad estatal. |
+| **Artículo 149.1.27.ª** | Competencia exclusiva del Estado sobre las **normas básicas del régimen de prensa, radio y televisión**. |
+| **Artículos 134 y 136** | Presupuestos Generales del Estado y Tribunal de Cuentas: el presupuesto de la Corporación se integra en los primeros y el control externo corresponde al segundo. |
+| **Artículo 37** | Negociación colectiva y **fuerza vinculante de los convenios**: el III Convenio Colectivo de RTVE. |
+
+---
+
+## 15. Notas de actualización
+
+**Esto queda fuera del cuerpo examinable.** Las bases congelan el temario en el
+texto vigente el **21 de diciembre de 2022**, así que lo de abajo **no se estudia
+para contestar**: se recoge para que quien lea el tema sepa que la Constitución de
+hoy no dice exactamente lo mismo.
+
+**Artículo 49, reformado en 2024.** La Reforma de **15 de febrero de 2024**
+(`BOE-A-2024-3099`, publicada el **17 de febrero de 2024**) sustituyó el artículo
+49 entero. Desaparece la expresión «disminuidos físicos, sensoriales y psíquicos»
+del texto de 1978, que es el que hay que dar por bueno en el examen. En el
+cuadernillo de **Información y Contenidos** de 2024 se preguntó por esta reforma
+—«¿qué artículo de la Constitución fue reformado el pasado 17 de febrero?»— y ahí
+sí contaba, porque en esa ocupación los apartados 1, 2 y 3 del temario específico
+admiten hechos posteriores al corte. En Documentación y en Producción
+(Asistencia) la congelación alcanza a todo el temario.
+
+**Artículo 69.3, reformado en 2026.** La Reforma de **19 de mayo de 2026**
+(`BOE-A-2026-10881`, publicada el 20 de mayo) cambió la circunscripción insular
+del Senado: donde el texto de 1978 dice «cada isla **o agrupación de ellas**, con
+Cabildo o Consejo Insular» y agrupa «**Ibiza-Formentera**», la redacción de hoy
+dice «cada isla con Cabildo o Consejo Insular» y separa «**Ibiza, Formentera**».
+Es posterior al corte y **no entra**.
+
+---
+
+## Trazabilidad
+
+- **Fuente**: texto consolidado `BOE-A-1978-31229`, leído el 29/08/2026 a la fecha
+  de corte 20221221 con `herramientas/boe.py`. Volcado íntegro en
+  `fuentes/corte-20221221/BOE-A-1978-31229.md`.
+- **Preceptos con más de una redacción** en la cadena: artículos **13, 49, 69 y
+  135**. Los cuatro releídos enteros. A 21/12/2022 se aplican: la redacción de 1992
+  del 13, la de 1978 del 49 y del 69, y la de 2011 del 135.
+- **Reformas cruzadas**: ninguna detectada.
+- **Datos del proceso constituyente**: Real Decreto 2560/1978, de 3 de noviembre
+  (`BOE-A-1978-27525`), artículos 1 y 2; Acuerdo de la Junta Electoral Central
+  publicado en el BOE de 22/12/1978 (`BOE-A-1978-30906`); ficha de análisis del BOE
+  para las fechas de disposición, publicación y entrada en vigor.
+- **Reformas**: `BOE-A-1992-20403` y `BOE-A-2011-15210`, leídas en su texto.
