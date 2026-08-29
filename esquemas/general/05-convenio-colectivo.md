@@ -10,7 +10,7 @@ Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 - **BOE-A-2020-16744** · Resolución 15/12/2020 · BOE 332 de **22/12/2020** · texto del convenio, **anexos 1-6**.
 - **BOE-A-2021-1334** · 29/01/2021 · corrección de errores: **añade el anexo 7** (factores personales y de arraigo).
 - **BOE-A-2021-8252** · 18/05/2021 · **sustituye entero el anexo 7** por el **baremo del art. 14.3**. **Es el vigente al corte.**
-- **BOE-A-2022-20256** · acuerdo de 10/11/2022 · BOE de **05/12/2022** · modifica **12, 13, 16, 17, 18, 21, 27, 30, 63, 102**, nueva **DT 8.ª**, nueva **DT 10.ª**, **anexo 8**.
+- **BOE-A-2022-20256** · acuerdo de 10/11/2022 · BOE núm. 289, de **02/12/2022** · modifica **12, 13, 16, 17, 18, 21, 27, 30, 63, 102**, nueva **DT 8.ª**, nueva **DT 10.ª**, **anexo 8**.
 
 **Después del corte** (no examinable, pero desactualiza cualquier material reciente): **BOE-A-2023-9620** (corrige el anexo 3) · **BOE-A-2023-17840** (arts. **42, 50, 52, 57, 72, 91**, DT 3.ª y 9.ª, DF 1.ª) · **BOE-A-2024-4470** (arts. 13, 18, 21, 99.3 y 4, anexo 1, DT 8.ª, DF 1.ª) · **BOE-A-2025-24095** (cap. III entero, arts. 102 y 104.5, anexos 7 y 8, añade DT 11.ª y 12.ª).
 - **No es legislación consolidada**: no hay texto refundido oficial. `boe.py` no sirve.

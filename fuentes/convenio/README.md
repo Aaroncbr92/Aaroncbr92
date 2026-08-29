@@ -13,7 +13,7 @@ publicados.
 | `BOE-A-2020-16744.txt` | BOE-A-2020-16744 | BOE 332, de **22/12/2020** | Resolución de 15/12/2020 de la Dirección General de Trabajo, con el **texto del convenio** y los **anexos 1 a 6** |
 | `BOE-A-2021-1334.txt` | BOE-A-2021-1334 | **29/01/2021** | Corrección de errores: **añade el anexo 7**, una «tabla de factores personales y de arraigo para valoración curricular» |
 | `BOE-A-2021-8252.txt` | BOE-A-2021-8252 | **18/05/2021** | Resolución de 15/04/2021 (acta de 16/03/2021): **sustituye entero el anexo 7** por el **baremo de los criterios de enfermedad, discapacidad o dependencia y de agrupación familiar** del artículo 14.3 |
-| `BOE-A-2022-20256.txt` | BOE-A-2022-20256 | **05/12/2022** | Acuerdo de modificación parcial suscrito el 10/11/2022: reescribe los artículos **12, 13, 16, 17, 18, 21, 27, 30, 63 y 102**, sustituye la **DT octava**, añade la **DT décima** y el **anexo 8** |
+| `BOE-A-2022-20256.txt` | BOE-A-2022-20256 | **02/12/2022**, BOE núm. 289 | Acuerdo de modificación parcial suscrito el 10/11/2022: reescribe los artículos **12, 13, 16, 17, 18, 21, 27, 30, 63 y 102**, sustituye la **DT octava**, añade la **DT décima** y el **anexo 8** |
 
 Los cuatro son anteriores a la fecha de corte de las bases (**21/12/2022**), de modo que el
 texto reconstruido es el examinable.

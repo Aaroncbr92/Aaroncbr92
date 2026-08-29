@@ -177,6 +177,18 @@ adjudicada la plaza no cabe renunciar a ella**. Añadido todo, y añadido el **a
 es precisamente donde el convenio detalla los baremos de esas letras b) y c) y que hasta
 ahora figuraba en el tema con el contenido equivocado.
 
+## 6 · Una fecha mal copiada, corregida al cerrar el tema 6
+
+Al empezar el tema 6 se releyó el enunciado del programa, que cita el acuerdo de 2022 como
+**«BOE núm. 289, de 2 de diciembre de 2022»**. El tema decía **5 de diciembre**. Comprobado
+contra la ficha del BOE: **el programa tiene razón, la publicación es del 02/12/2022**.
+Corregido en el tema, el esquema y el `README` de la fuente.
+
+De paso quedó anotada una asimetría en el otro sentido: **el programa enumera solo tres
+documentos del convenio** y **omite la Resolución de 15 de abril de 2021** que sustituyó el
+anexo 7. Quien estudie exactamente los tres que el programa lista **tendrá el anexo 7
+equivocado**. El tema lo advierte.
+
 ## Resumen
 
 | | Hallazgos | Estado |
@@ -188,6 +200,7 @@ ahora figuraba en el tema con el contenido equivocado.
 | Prosa | **8** siglas | corregidas |
 | Falsos positivos identificados | 3 en el tema 5, 3 en el tema 1 | documentados, no se toca el texto |
 | Efecto retroactivo | 1 hallazgo real en el tema 2 | corregido |
+| Fecha de publicación del acuerdo de 2022 | **1** (05/12 → **02/12/2022**) | corregida |
 
 Herramientas modificadas fuera del tema: `herramientas/refutar_exactitud.py`,
 `herramientas/refutar_modo.py` y la nueva `herramientas/convenio_dump.py`.

@@ -864,7 +864,7 @@ salvo los de periodicidad superior al mes.
 
 **Aquí está la modificación de 2022 que conviene tener presente.** El texto de 2020 decía
 que las personas contratadas **en la modalidad de prácticas** percibían el **70 % el
-primer año y el 80 % el segundo**. El acuerdo publicado el 5 de diciembre de 2022 lo
+primer año y el 80 % el segundo**. El acuerdo publicado el 2 de diciembre de 2022 lo
 sustituye para adaptarlo a los nuevos contratos formativos:
 
 - **Contrato formativo en alternancia: 60 % el primer año y 75 % el segundo.**
@@ -1908,7 +1908,7 @@ oficiales anteriores a la fecha de corte**, transcritos en `fuentes/convenio/`:
 | Resolución de 15 de diciembre de 2020, Dirección General de Trabajo | **BOE-A-2020-16744** | BOE núm. 332, de 22/12/2020 | Texto del III Convenio: 116 artículos en 13 capítulos, 3 disposiciones adicionales, 9 transitorias, 1 final, 1 derogatoria y **anexos 1 a 6** |
 | Resolución de 18 de enero de 2021, Dirección General de Trabajo | **BOE-A-2021-1334** | BOE de 29/01/2021 | Corrección de errores: **añade el anexo 7** («tabla de factores personales y de arraigo para valoración curricular») |
 | Resolución de 15 de abril de 2021, Dirección General de Trabajo (acta suscrita el 16/03/2021) | **BOE-A-2021-8252** | BOE de 18/05/2021 | **Sustituye entero el anexo 7** por el **baremo de los criterios de enfermedad, discapacidad o dependencia y de agrupación familiar** del artículo 14.3 |
-| Resolución de 28 de noviembre de 2022, Dirección General de Trabajo (acuerdo suscrito el 10/11/2022) | **BOE-A-2022-20256** | BOE de 05/12/2022 | Modificación parcial: arts. **12, 13, 16, 17, 18, 21, 27, 30, 63 y 102**, nueva **disposición transitoria (DT) octava**, nueva **DT décima** y **anexo 8** |
+| Resolución de 28 de noviembre de 2022, Dirección General de Trabajo (acuerdo suscrito el 10/11/2022) | **BOE-A-2022-20256** | BOE núm. 289, de 02/12/2022 | Modificación parcial: arts. **12, 13, 16, 17, 18, 21, 27, 30, 63 y 102**, nueva **disposición transitoria (DT) octava**, nueva **DT décima** y **anexo 8** |
 
 **Advertencia metodológica.** El convenio colectivo **no es legislación consolidada**: el
 BOE no publica un texto refundido, de modo que **no existe versión consolidada oficial** y
@@ -1932,6 +1932,13 @@ consecuencias prácticas que más pueden costar una pregunta son:
 **Fecha de corte aplicada: 21 de diciembre de 2022**, conforme a la cláusula de las bases
 de la convocatoria. Los cuatro documentos son anteriores a esa fecha, de modo que el texto
 descrito aquí es el vigente a efectos del examen.
+
+**El propio programa cita solo tres.** El enunciado del punto 5 del temario general enumera
+la Resolución de 2020, la corrección de errores de 2021 y el acuerdo de 2022, **pero no la
+Resolución de 15 de abril de 2021 que sustituyó el anexo 7**. No es un motivo para dejarla
+fuera: el programa enuncia la materia, y la materia es el convenio tal como estaba en vigor
+a la fecha de corte. Pero conviene saber que **quien estudie exactamente los tres documentos
+que el programa lista tendrá el anexo 7 equivocado**.
 
 ## Nota de actualización: lo que ha cambiado después del corte
 
