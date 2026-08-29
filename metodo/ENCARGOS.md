@@ -13,6 +13,15 @@ Se pegan literalmente. Son la parte del prompt que cambia el resultado
 - **«Escribe tu informe en un fichero de `informes/` según lo vayas
   produciendo. No lo dejes solo en la respuesta.»**
 
+## Redacción vigente (decisión de este proyecto)
+
+- **«Trabaja con la redacción vigente el día en que escribes, no con la que cita
+  el programa. Donde difieran, dilo en una nota de una línea: qué cambió, por
+  qué norma y desde cuándo.»**
+- **«Declara la fecha en la que leíste cada precepto.»**
+- La cadena de redacciones se saca con `herramientas/boe.py precepto`, y si avisa
+  de posible reforma cruzada se contrasta a mano con la página consolidada.
+
 ## Investigar (fase 1, de 3 a 6 agentes, uno por grupo de epígrafes)
 
 - No se le dan los números de artículo: que los localice él contra el índice

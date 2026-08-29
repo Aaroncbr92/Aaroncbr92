@@ -35,10 +35,15 @@ no las bases completas. Falta saber de qué convocatoria son y cómo es la prueb
       vigente, y en qué se nota (`convocatoria/FUENTES.md`).
 - [x] `PLAN.md`: orden de trabajo y tratamiento de los temas sin norma detrás.
 
+## Decisiones tomadas
+
+- **2026-08-29 · Qué redacción se estudia.** Se escribe con la **redacción
+  vigente** en el momento de redactar cada tema y, donde difiera de la que
+  congela el programa, va una nota corta diciendo qué cambió y cuándo. Vale para
+  los tres temarios.
+
 ## Falta
 
-- [ ] **Decidir qué redacción se estudia**: la vigente hoy o la que congela el
-      programa. Bloquea los temas 1 y 2 del general. Ver `convocatoria/FUENTES.md`.
 - [ ] **Las bases completas de la convocatoria**, para saber de qué proceso son
       estos anexos y, sobre todo, **cómo es la prueba** (test o desarrollo,
       cuántas preguntas, si penaliza el error). De eso depende el alcance.

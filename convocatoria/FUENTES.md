@@ -58,6 +58,7 @@ teórica: cambia la respuesta.
 - **Ley 8/2009**, **Ley 13/2022** y el **TRLPI** sí coinciden con la foto que
   cita el programa.
 
-Decisión pendiente en `ESTADO.md`: escribir sobre la redacción vigente hoy o
-sobre la que congela el programa. Mientras no se cierre, no se redacta el tema 1
-ni el tema 2 del general.
+**Decidido el 2026-08-29**: se escribe con la redacción vigente, y donde difiera
+de la que cita el programa va una nota corta con qué cambió y cuándo. Cada tema
+declara la fecha en que se leyó la fuente, porque la redacción vigente de hoy no
+es necesariamente la de dentro de tres meses.
