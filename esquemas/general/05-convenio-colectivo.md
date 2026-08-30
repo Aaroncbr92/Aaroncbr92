@@ -61,6 +61,8 @@ Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 - Cinco exclusiones del ámbito personal · tope de **25 contratos** de alta dirección.
 - **Comisión paritaria 7+7**, quórum **4 por parte**, resuelve en **10 días**. Mediación **obligatoria si la pide una parte**; **arbitraje voluntario**.
 - **Art. 7**: ordenación del trabajo = facultad exclusiva, **sin perjuicio de los derechos de la RLT**.
+- **Art. 10 principios de provisión de plazas, seis**: **publicidad, igualdad, mérito y capacidad** · **igualdad de trato y oportunidades** · **tener en cuenta el Plan de Igualdad** · **idoneidad** · **cobertura ágil** · **participación de la RLT en las pruebas**. **Art. 11**: la plantilla la fijan **las necesidades organizativas**; **crear y amortizar puestos es competencia de la empresa**.
+- **Art. 22 permutas**: misma ocupación tipo, **poblaciones distintas**; **la Comisión de Empleo es informada, no decide** (previamente si es dentro del mismo ámbito ocupacional). **Sin indemnización.**
 - **Art. 14 traslados**: forzoso (no sobre quien tenga **≥5 años**) / convenido (**1 año prorrogable a 3**, **salvo el motivado por traslado forzoso del cónyuge, que es indefinido**) / **voluntario: fijo + misma ocupación tipo + 1 año de permanencia (2 el segundo)**. Baremo, **tres criterios**: **a)** antigüedad máx. **35 pts** (0,5/año empresa máx. 10 · 0,5/año ocupación tipo máx. 10 · **1 pt/año en el registro, máx. 15**) · **b)** enfermedad, discapacidad o dependencia **12 pts**, solo con acreditación oficial · **c)** **agrupación familiar 8 pts**. Los baremos de b) y c), **en el anexo 7**. Empate → **sexo menos representado** en esa ocupación tipo y destino. Traslado **inmediato**; incorporación hasta **8 meses** por causa motivada; **adjudicada y definitiva, no cabe renuncia**.
 - **Art. 15 registro de traslados**: inscripción previa imprescindible · **validez 3 años** renovables.
 - **Art. 23 comisión de destino**: puestos **no permanentes en organismos oficiales**, temporal, **se sigue en activo**.
@@ -152,6 +154,8 @@ Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 - **DF 1.ª**: jornadas **el mes siguiente**; jubilación forzosa **a los 6 meses**; art. 99.4 el **1/1/2020**.
 
 ## Anexos
+
+**5 · teletrabajo**: **1 a 4 días semanales** · acuerdo individual de **1 año** prorrogable · reversible con **15 días** de preaviso. **Fuera del horario habitual**: **siempre a instancia de la persona**, la unidad **puede admitirlo con carácter excepcional**, por escrito, **sin repercutir en los compañeros**, con **desconexión digital** y **sin compensación económica distinta** de la del puesto presencial.
 
 **1** tablas salariales · **2** incompatibilidades · **3** clasificación —**los tres, solo imagen en el BOE**, transcritos en `fuentes/convenio/imagenes/`— · **4** Orquesta y Coro · **5** teletrabajo · **6** externalización · **7** (2021) **baremo de enfermedad/discapacidad/dependencia y agrupación familiar** del art. 14.3 · **8** (2022) ocupaciones análogas.
 

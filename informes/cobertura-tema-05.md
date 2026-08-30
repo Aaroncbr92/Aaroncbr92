@@ -1,5 +1,10 @@
 # Prueba de cobertura del tema 5 del general
 
+> **Actualización del 2026-08-30.** Esta prueba se pasó sobre el banco anterior a la pasada de
+> verificación, que le añadió preguntas. Las que entraron después están en
+> `informes/cobertura-nuevas-2026-08-30.md`, con sus lagunas y cómo se cerraron. **Las dos
+> pruebas juntas cubren el banco entero.**
+
 Las **107 preguntas** que el banco tiene en el bloque del III Convenio Colectivo —el más
 grande de todo el banco—, con su respuesta oficial, contra el cuerpo del tema.
 

@@ -9,7 +9,7 @@
 | **Fuente** | II Plan de Igualdad de RTVE (2022-2026) y Guía de Igualdad de RTVE (2020) |
 | **Identificador** | **Sin identificador del BOE**: son documentos internos de RTVE |
 | **Redacción que se estudia** | Las **ediciones publicadas por RTVE**, versionadas en `fuentes/igualdad/` junto con su transcripción |
-| **Extensión** | **9.897 palabras** |
+| **Extensión** | **10.045 palabras** |
 | **Esquema de repaso** | `esquemas/general/06-igualdad.md` |
 | **Verificación** | `informes/refutacion-tema-06.md` · `informes/cobertura-tema-06.md` |
 
@@ -904,6 +904,20 @@ más se citan:
 | **Violencia intragénero**: **entre personas del mismo sexo o género** | — |
 | **Feminicidio**: **el asesinato de una mujer a manos de un hombre por machismo o misoginia** | **Diccionario de la lengua española, 2018** |
 | **Violencia sexual**: cualquier acto sexual o tentativa mediante coacción, **con independencia de la relación con la víctima y en cualquier ámbito** | **Organización Mundial de la Salud** |
+
+**¿Y si la víctima es un hombre?** La Guía se hace la pregunta con esas palabras y la
+contesta en una línea:
+
+> «¿Y si la víctima es un hombre? **No se considera violencia de género** y el delito no se
+> enmarca la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral
+> contra la violencia de género, sino en **los apartados específicos establecidos en caso de
+> agresión tipificados en el código penal**. **Es violencia contra el hombre o varón si la
+> agresora es una mujer que mantiene relaciones sentimentales con la víctima**.»
+
+Ahí está el distractor del examen: la Guía **sí** reconoce ese supuesto, pero lo llama
+violencia contra el hombre y **no violencia de género**. La razón se ve en la primera
+definición de la tabla de arriba, la de la ONU: violencia **basado en la pertenencia al sexo
+femenino**.
 
 Otros instrumentos citados: el **Convenio de Estambul** —que declara la violencia contra las
 mujeres **grave violación de los derechos humanos** y del que sale la enumeración de formas

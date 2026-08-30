@@ -1,5 +1,10 @@
 # Cobertura del tema 8 del general
 
+> **Actualización del 2026-08-30.** Esta prueba se pasó sobre el banco anterior a la pasada de
+> verificación, que le añadió preguntas. Las que entraron después están en
+> `informes/cobertura-nuevas-2026-08-30.md`, con sus lagunas y cómo se cerraron. **Las dos
+> pruebas juntas cubren el banco entero.**
+
 Apartado 7 del manual: comprobar, pregunta por pregunta, si el cuerpo del tema **delante y
 nada más** contesta lo que ha caído. No hacen falta preguntas inventadas: `banco/g8.md` trae
 **91 preguntas reales** de los cuadernillos de octubre y noviembre de 2024, con la respuesta de

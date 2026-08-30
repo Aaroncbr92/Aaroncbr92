@@ -1,5 +1,10 @@
 # Prueba de cobertura del tema 1 del general
 
+> **Actualización del 2026-08-30.** Esta prueba se pasó sobre el banco anterior a la pasada de
+> verificación, que le añadió preguntas. Las que entraron después están en
+> `informes/cobertura-nuevas-2026-08-30.md`, con sus lagunas y cómo se cerraron. **Las dos
+> pruebas juntas cubren el banco entero.**
+
 El apartado 7 del manual manda comprobar, una por una, si las preguntas del estilo
 real del examen **se contestan con el cuerpo del tema delante y nada más**. Aquí no
 hay que inventarlas: son las **103 preguntas de Constitución** que el banco extrae de

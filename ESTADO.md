@@ -61,6 +61,14 @@ en Documentación y en Producción (Asistencia).
 - [x] **`banco/`: 504 preguntas reales** —475 del bloque común y 29 del tema de
       prevención del específico— **con su respuesta oficial** en 437 de ellas.
       Sustituye a las preguntas inventadas del apartado 7 del manual.
+- [x] **Segunda prueba de cobertura**, sobre las **111 preguntas** que la pasada de
+      verificación añadió y que nunca habían pasado el apartado 7 del manual
+      (`informes/cobertura-nuevas-2026-08-30.md`): **102 se contestaban** y **9 no**.
+      Las nueve lagunas, cerradas contra la fuente —**los artículos 10, 11 y 22 y el
+      teletrabajo fuera de horario en el tema 5**; **la respuesta de la Guía a «¿y si la
+      víctima es un hombre?» en el 6**; y **el múltiplex, el productor independiente y
+      los artículos 145, 146.3 y 150 en el 7**—. **Con esto, las preguntas del banco se
+      contestan todas con el tema delante.**
 - [x] **Pasada de verificación sobre el banco**, leyendo las preguntas una a una
       (`informes/verificacion-banco-2026-08-30.md`): el salto de página fundía
       **83 preguntas** con la de al lado, cinco cuadernillos ilegibles no

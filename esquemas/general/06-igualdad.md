@@ -237,7 +237,7 @@ Perspectiva de género y lenguaje inclusivo · **visibilizar** · **presencia pa
 
 **Tratamiento**: **no es un «suceso» ni un «crimen pasional»** · situar bien **en el minutado** · información **rigurosa y útil** · **personas expertas** · **no juicios de valor ni precipitación** · **animar a los canales de ayuda pero sin instar a denunciar** · evitar detalles escabrosos y el **efecto narcotizante** («un caso más») · **seguimiento del caso** · **no usar el SAP**, que la **ONU** considera no científico y el **CGPJ** «pseudocientífico» · **teléfono 016 y 016-online@igualdad.gob.es**.
 
-**Si la víctima es un hombre**: **no es violencia de género** ni entra en la LO 1/2004.
+**Si la víctima es un hombre**: **no es violencia de género** ni entra en la LO 1/2004, sino en **los apartados de agresión del Código Penal**. La Guía lo llama **violencia contra el hombre o varón** cuando **la agresora es una mujer con relación sentimental** con la víctima: ése es el distractor.
 
 **El agresor**: **presunción de inocencia** hasta sentencia; ocho rasgos —**controlador, narcisista, intimidante, posesivo, cruel, amenazador, rencoroso, manipulador**—; **no ofrecer sus declaraciones** salvo **reportaje en profundidad** analizado por expertos.
 

@@ -9,7 +9,7 @@
 | **Fuente** | III Convenio Colectivo de la Corporación RTVE |
 | **Identificador** | `BOE-A-2020-16744` (texto) · `BOE-A-2021-1334` (corrección) · `BOE-A-2021-8252` (anexo 7) · `BOE-A-2022-20256` (acuerdo de 2022) |
 | **Redacción que se estudia** | El texto de **2020** con la **corrección de errores de 2021** y el **acuerdo de modificación de 2022**. **No es legislación consolidada**: el articulado se reconstruye superponiendo los documentos |
-| **Extensión** | **18.432 palabras** |
+| **Extensión** | **18.807 palabras** |
 | **Esquema de repaso** | `esquemas/general/05-convenio-colectivo.md` |
 | **Verificación** | `informes/refutacion-tema-05.md` · `informes/cobertura-tema-05.md` |
 
@@ -282,6 +282,29 @@ recoge.
 Es el capítulo más largo en número de artículos y el que regula todo lo que rodea a
 una convocatoria como la que se está preparando.
 
+**Artículo 10. Principios.** Los **procesos de provisión de plazas** responden a **seis
+principios**, y el examen los ha preguntado por eliminación —qué principio **no** es—:
+
+1. **Publicidad, igualdad, mérito y capacidad.**
+2. **Igualdad de trato y oportunidades** con el fin de **corregir cualquier forma de
+   discriminación**.
+3. **Tendrán en cuenta el Plan de Igualdad** y la conciliación de la vida laboral,
+   personal y familiar.
+4. **Idoneidad o mejor adecuación** del candidato a los requerimientos profesionales de
+   cada plaza.
+5. **Cobertura lo más ágil y rápida posible** de las plazas ofertadas.
+6. **Participación de la representación de las personas trabajadoras** en las pruebas
+   selectivas.
+
+Los dos primeros son los que se preguntan con enunciados de igualdad, y por eso este
+artículo se cruza con el tema 6: **el principio de igualdad entra en la provisión de
+plazas por el convenio**, no solo por el Plan.
+
+**Artículo 11. Plantillas.** La plantilla **la determinan las necesidades organizativas de
+la empresa**. **Crear y amortizar puestos de trabajo es competencia organizativa de la
+empresa**, dentro de sus disponibilidades presupuestarias; las vacantes se cubren conforme
+a este convenio y a la legislación vigente.
+
 **Artículo 12. Información sobre censos** (redacción de 2022). **Sin perjuicio de lo
 establecido en el Estatuto de los Trabajadores**, la empresa entrega **mensualmente** al
 Comité Intercentros y a todos los sindicatos con presencia en
@@ -347,6 +370,16 @@ autorizados por el **director general corporativo**, **con carácter temporal**.
 ese tiempo **se tiene la consideración de activo**, con los derechos propios de su
 ocupación tipo. No confundirla con la **comisión de servicio** del artículo 57, que es un
 desplazamiento circunstancial a otra localidad.
+
+**Artículo 22. Permutas.** RTVE **podrá autorizar** la permuta entre personas de la
+**misma ocupación tipo** con destino en **poblaciones distintas**, atendiendo a las
+necesidades del servicio, la aptitud de quienes la solicitan y demás circunstancias.
+**A la Comisión de Empleo se la informa, no decide**: se le informa de la autorización o
+la denegación, y **previamente** cuando la permuta es entre personas del **mismo ámbito
+ocupacional**. La permuta **no da derecho a indemnización** y supone **aceptar las
+modificaciones de retribución** que traigan los nuevos puestos. La Comisión de Empleo o
+las personas afectadas **pueden proponer traslados por permuta** entre inscritos en el
+registro de traslados.
 
 **Artículo 16. Reingreso de excedentes** (numeración de 2022). Derecho de
 **reingreso preferente** en los términos del artículo 13.1, **siempre que el perfil
@@ -1939,6 +1972,13 @@ como referencia obligada el **Acuerdo Marco Europeo de teletrabajo**.
 - **Tiempo: entre uno y cuatro días semanales**, determinado de común acuerdo. Reuniones de
   contacto **obligatorias con periodicidad semanal**, garantizando **al menos una jornada de
   trabajo presencial**.
+- **Teletrabajo fuera del horario habitual**: **siempre a instancia de la persona
+  teletrabajadora**, y su unidad **puede admitirlo con carácter excepcional** si el trabajo
+  lo permite y organizativamente es posible, **sin que pueda repercutir negativamente sobre
+  el resto de compañeros**. Debe **constar por escrito** y anexarse al acuerdo inicial,
+  respetando jornada, descansos y pausas. Se mantiene el **derecho a la desconexión
+  digital**. Y el dato que decide la pregunta: **no genera compensación económica distinta
+  de la que correspondería al puesto en forma presencial**.
 - **Equipos de la empresa**, que **no pueden usarse para fines particulares**; la
   conectividad la aporta la persona, y **los costes de adaptación del domicilio y los gastos
   de electricidad, agua o calefacción corren por su cuenta**.

@@ -1,5 +1,10 @@
 # Prueba de cobertura del tema 7 del general
 
+> **Actualización del 2026-08-30.** Esta prueba se pasó sobre el banco anterior a la pasada de
+> verificación, que le añadió preguntas. Las que entraron después están en
+> `informes/cobertura-nuevas-2026-08-30.md`, con sus lagunas y cómo se cerraron. **Las dos
+> pruebas juntas cubren el banco entero.**
+
 Las **38 preguntas** que el banco tiene de la Ley 13/2022, con su respuesta oficial, contra
 el cuerpo del tema.
 

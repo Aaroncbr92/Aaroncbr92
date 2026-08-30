@@ -1,5 +1,10 @@
 # Prueba de cobertura de los temas 2 y 3 del general
 
+> **Actualización del 2026-08-30.** Esta prueba se pasó sobre el banco anterior a la pasada de
+> verificación, que le añadió preguntas. Las que entraron después están en
+> `informes/cobertura-nuevas-2026-08-30.md`, con sus lagunas y cómo se cerraron. **Las dos
+> pruebas juntas cubren el banco entero.**
+
 Las **50 preguntas** que el banco tiene de la Ley 17/2006 y la Ley 5/2017, con su
 respuesta oficial, contra el cuerpo de los dos temas.
 

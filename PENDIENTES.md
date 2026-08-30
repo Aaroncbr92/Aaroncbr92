@@ -17,8 +17,27 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
-_Los ocho que había se cerraron el 2026-08-30. La pasada de verificación del banco de
-preguntas, ese mismo día, abrió **uno nuevo**, al final de este cuaderno._
+_Los ocho que había se cerraron el 2026-08-30. La pasada de verificación del banco abrió
+**uno**, al final de este cuaderno: tres plantillas oficiales que el OCR no lee enteras. La
+segunda prueba de cobertura, ese mismo día, encontró **nueve lagunas** en los temas 5, 6 y 7
+y **las cerró todas** contra la fuente: no queda trabajo pendiente de ellas
+(`informes/cobertura-nuevas-2026-08-30.md`)._
+
+### 2026-08-30 · Un dato que estaba en el esquema y no en el tema — cerrado el mismo día
+
+- **Dónde**: tema 6 del general, epígrafe 17, y `esquemas/general/06-igualdad.md`.
+- **Qué pasaba**: el esquema decía «**si la víctima es un hombre, no es violencia de género ni
+  entra en la LO 1/2004**» y **el cuerpo del tema no lo decía**. El esquema se escribe **desde**
+  el tema, así que ese dato entró por la puerta de atrás y nunca volvió al cuerpo.
+- **Por qué importa como método**: un esquema por delante del tema es un aviso de que el ciclo
+  se saltó un paso. Y lo destapó una pregunta del banco, no una lente: **ninguna de las cuatro
+  lentes compara el tema con su propio esquema**.
+- **Aplicado**: el tema recoge ahora la respuesta de la Guía **en cita literal**, con el
+  distractor —«violencia contra el hombre o varón si la agresora es una mujer que mantiene
+  relaciones sentimentales con la víctima»—, y el esquema se ha completado con él.
+- **Lo que queda como idea, no como trabajo**: una quinta lente que compare cada tema con su
+  esquema y avise de lo que está en uno y no en el otro. No se hace ahora porque con nueve
+  temas se comprueba a mano; con treinta y tres, no.
 
 ---
 
