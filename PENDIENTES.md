@@ -108,3 +108,40 @@ _(vacío)_
 - **Gravedad**: induce a error. Quien estudie por las plantillas aprenderá mal el
   artículo 23. **El tema no se ha cambiado para que cuadre con ella**, y lo dice
   expresamente en el epígrafe del Consejo Asesor.
+
+### 2026-08-30 · Tercera errata en una plantilla oficial de respuestas
+
+- **Dónde**: `convocatoria/examenes/63_plantilla_de_respuestas_realizacion_asist_2_llamamiento.txt`,
+  pregunta 77 del cuadernillo de Realización (Asistencia), 2.º llamamiento, 07/11/2024.
+- **Qué dice**: a «¿cuántos delegados de prevención debe haber en una empresa de **251 a 500
+  trabajadores**?» —opciones a) 2, b) 3, c) 4, d) 5— responde **c) 4**.
+- **Qué debería decir**: **b) 3**.
+- **Fuente**: **artículo 35.2 de la Ley 31/1995**, redacción única desde el 10/02/1996, leída en
+  el volcado del texto consolidado `BOE-A-1995-24292` a la fecha de corte: «*De 101 a 500
+  trabajadores: 3 Delegados de Prevención*». El **4** es el del tramo siguiente, **de 501 a
+  1.000**.
+- **Comprobado que no es un desajuste de nuestra lectura**: la plantilla trae **120 números y
+  120 letras** en el mismo orden, y las **otras seis preguntas de la escala** que hay en el
+  banco cuadran todas con la ley (50-100 → 2; 501-1.000 → 4, dos veces; 1.001-2.000 → 5;
+  2.500 → 6; más de 4.000 → 8). La única que se sale es ésta.
+- **Gravedad**: cambia la respuesta. **El tema 8 enseña la escala como está en la ley** y no se
+  ha tocado para cuadrar con la plantilla.
+
+### 2026-08-30 · Dos preguntas del banco g8 que la Ley 31/1995 no contesta por sí sola
+
+- **Dónde**: tema 8 del general, artículos 15.1.d) y 29.
+- **Qué dice hoy**: el tema recoge los dos preceptos **literales**, y con ellos las preguntas se
+  aciertan por eliminación.
+- **Qué debería decir**: lo mismo. **No se amplía**, porque lo que piden las respuestas oficiales
+  no está en la ley:
+  - `81_preguntas_produccion nº 1` da por buena «*organizar el trabajo de forma que se garantice
+    una adecuada distribución de las tareas, evitando la monotonía y la sobrecarga física y
+    psíquica*». La ley solo dice, en el **art. 15.1.d)**, «*atenuar el trabajo monótono y
+    repetitivo y reducir los efectos del mismo en la salud*».
+  - `13_preguntas_fx nº 88` da por buena «**participar en la formación preventiva**» como
+    obligación del trabajador. El **art. 29.2** enumera **seis** obligaciones y ésa no está: la
+    formación es **deber del empresario de garantizarla** (**art. 19**).
+- **Fuente**: artículos 15.1.d), 19 y 29 de la Ley 31/1995, redacción vigente al corte.
+- **Gravedad**: menor. Queda anotado por si en una convocatoria futura el tribunal insiste, que
+  entonces habría que decidir si se recoge la formulación del tribunal advirtiendo de que no es
+  la de la ley.

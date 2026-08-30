@@ -25,3 +25,4 @@ convocatoria/examenes-antiguos/*.pdf
 !convocatoria/examenes-antiguos/06_*.pdf
 !convocatoria/examenes-antiguos/2[0156]_*.pdf
 !convocatoria/examenes-antiguos/32_*.pdf
+__pycache__/

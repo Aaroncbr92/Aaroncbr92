@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-08-29
+**Última actualización:** 2026-08-30
 
 ## Qué es esto
 
@@ -90,6 +90,17 @@ en Documentación y en Producción (Asistencia).
       en el HTML ni en la transcripción de texto, y su ausencia no da ningún aviso.
       Descargadas y **transcritas las cinco** en `fuentes/convenio/imagenes/`: la tabla
       del artículo 65 y los anexos 1, 2 y 3.
+- [x] **Las lentes ven los artículos «bis»**: el patrón de la fuente estaba anclado en
+      `Artículo (\d+)$` y **«Artículo 32 bis» no acaba en dígito**, así que no entraba en el
+      diccionario, **no se comprobaba nunca** y además su texto en el tema se contrastaba
+      contra el artículo 32, que dice otra cosa. Corregido en `refutar_exactitud.py` y
+      `refutar_modo.py`, con las claves hechas cadenas.
+- [x] **Una remisión dentro de una frase ya no abre epígrafe**: «conoce las actuaciones de los
+      **artículos 7, 8, 9 y 11**» abría bloque y toda la explicación posterior se comprobaba
+      contra el artículo 7. Ahora el marcador que **abre epígrafe** manda sobre su párrafo y el
+      que va **dentro de una frase** se queda solo con su frase. El primer intento —descartar
+      todos los marcadores de dentro de frase— dejó **catorce artículos del tema 7 sin mirar**,
+      y se detectó porque **la cifra de negritas comprobadas bajó al «arreglarlo»**.
 - [x] Ley 17/2006 y Ley 5/2017 volcadas a `fuentes/`, en la redacción de hoy y en
       la del corte 21/12/2022. Entre una y otra cambian **11 bloques** de la Ley
       17/2006: arts. 4, 10, 11, 12, 15, 16, 20 y 24 y tres disposiciones
@@ -117,7 +128,11 @@ en Documentación y en Producción (Asistencia).
 
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
-- [ ] Tema 8 del general: **Ley 31/1995** de prevención de riesgos laborales.
+- [ ] **Tema de PRL del específico** (Producción 18, Documentación 7, Información 11),
+      idéntico en los tres. Es el que recoge pantallas de visualización (**RD 488/1997**),
+      trastornos musculoesqueléticos, incendios y accidente **in itinere** o **in misión**:
+      **39 preguntas del banco `g8.md` son suyas**, no del tema 8, y están contadas en
+      `informes/cobertura-tema-08.md`.
 
 ## Qué comprobación pasa por qué material
 
@@ -133,6 +148,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 5 · III Convenio Colectivo | sí | sí | sí | sí | sí | sí, limpia | 84 de 84 enteras |
 | General 6 · Igualdad | sí | sí | sí | sí | sí | sí, limpia | 39 de 39 enteras |
 | General 7 · Ley 13/2022 | sí | sí | sí | sí | sí | sí, con 11 salvedades declaradas | 34 de 34 enteras |
+| General 8 · Ley 31/1995 | sí | sí | sí | sí | sí | sí, con 3 falsos positivos declarados | 49 de 52 enteras, 2 a medias |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

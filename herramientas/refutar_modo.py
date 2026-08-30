@@ -35,10 +35,66 @@ def articulos(fuente):
     # devuelve "0 comprobadas, 0 no literales": un tema sin revisar que se
     # lee como impecable (manual, apartado 10)
     fuente = re.sub(r"[              　]", " ", fuente)
-    for m in re.finditer(r"^## \[[^\]]+\] Artículo (\d+)$\n\n_.*?_\n\n(.*?)(?=\n## |\Z)",
-                         fuente, re.S | re.M):
-        fuera[int(m.group(1))] = limpia(m.group(2))
+    # "Artículo 32 bis" no acaba en dígito: con un patrón anclado en \d+$ ese
+    # artículo no entra en el diccionario, no se comprueba nunca y además su
+    # texto en el tema se contrasta contra el artículo 32, que dice otra cosa
+    for m in re.finditer(r"^## \[[^\]]+\] Artículo (\d+(?: bis| ter| quáter| quinquies)?)$"
+                         r"\n\n_.*?_\n\n(.*?)(?=\n## |\Z)", fuente, re.S | re.M):
+        fuera[m.group(1)] = limpia(m.group(2))
     return fuera
+
+
+def abre_bloque(tema, i):
+    """¿El marcador de la posición i abre epígrafe, o va dentro de una frase?
+
+    Abre epígrafe el que empieza párrafo, encabezado, viñeta, fila de tabla o
+    cita. No basta con mirar el renglón: el tema va partido por ancho de columna
+    y una remisión cae a veces justo al principio de un renglón.
+    """
+    ini = tema.rfind("\n\n", 0, i) + 2
+    trozo = tema[ini:i]
+    ult = trozo.rfind("\n")
+    # la viñeta pide espacio detrás: sin él, «**artículos 7 y 8**» al empezar
+    # renglón se leería como viñeta y volvería a abrir epígrafe
+    if ult != -1 and re.match(r"[-*+>]\s|\||\d+[.)]\s", trozo[ult + 1:]):
+        trozo = trozo[ult + 1:]
+    return re.fullmatch(r"[-*+>|#\s]*(?:\d+[.)]\s*)?", trozo) is not None
+
+
+def limites(tema, marcas, cortes):
+    """Dónde acaba el bloque de cada marcador.
+
+    Hay dos clases de marcador y confundirlas cuesta caro en las dos
+    direcciones:
+
+    · El que **abre epígrafe** manda sobre todo su párrafo. Si una remisión
+      interior se lo cortara, la explicación posterior se comprobaría contra el
+      artículo citado y no contra el que se explica: no da error, atribuye mal.
+    · El que va **dentro de una frase** puede ser una remisión («conoce las
+      actuaciones de los artículos 7, 8, 9 y 11») o una mención con contenido
+      («cierran el capítulo el art. 139, el art. 140…»). Como no se distinguen
+      por la forma, se le da **solo su frase**: así la mención se comprueba y la
+      remisión apenas arrastra ruido. Descartarlos a todos dejaba sin mirar los
+      artículos descritos en una línea, que es peor.
+    """
+    fines = []
+    aperturas = [m.start() for m in marcas if abre_bloque(tema, m.start())]
+    for i, m in enumerate(marcas):
+        tope = [c for c in cortes if c > m.start()]
+        fin = tope[0] if tope else len(tema)
+        if m.start() in aperturas:
+            sig = [a for a in aperturas if a > m.start()]
+            if sig:
+                fin = min(fin, sig[0])
+        else:
+            sig = [x.start() for x in marcas[i + 1:]]
+            if sig:
+                fin = min(fin, sig[0])
+            frase = re.search(r"[.:](?=\s)", tema[m.end():])
+            if frase:
+                fin = min(fin, m.end() + frase.end())
+        fines.append(fin)
+    return fines
 
 
 def bloques(tema):
@@ -48,7 +104,7 @@ def bloques(tema):
     # impecable, que es peor que salir con hallazgos.
     marcas = list(re.finditer(
         r"(?:\*\*|(?m:^)#{2,4} )(?:[Aa]rtículos?|[Aa]rts?\.) ?(\d+)(?!\.\d|\.[ºª])"
-        r"(?: y (\d+))?(?: a (\d+))?[.,: *]", tema))
+        r"( bis| ter| quáter| quinquies)?(?: y (\d+))?(?: a (\d+))?[.,: *]", tema))
     cortes = [m.start() for m in re.finditer(r"(?m)^#{2,4} |^---$", tema)]
     fuera = {}
     # un tema cita artículos de otras normas ("el artículo 4 de la Ley 17/2006").
@@ -56,13 +112,14 @@ def bloques(tema):
     # comprobación se hace contra el artículo equivocado
     marcas = [m for m in marcas
               if not re.match(r"[^.]{0,40}?\bde la [Ll]ey\b", tema[m.end():m.end() + 60])]
-    for i, m in enumerate(marcas):
-        sig = marcas[i + 1].start() if i + 1 < len(marcas) else len(tema)
-        cand = [c for c in cortes if c > m.start()]
-        fin = min(sig, cand[0]) if cand else sig
-        nums = [int(g) for g in m.groups() if g]
-        if m.group(3):
-            nums = list(range(int(m.group(1)), int(m.group(3)) + 1))
+    for m, fin in zip(marcas, limites(tema, marcas, cortes)):
+        # las claves son cadenas porque "32 bis" es un artículo y no un número
+        if m.group(4):
+            nums = [str(n) for n in range(int(m.group(1)), int(m.group(4)) + 1)]
+        elif m.group(3):
+            nums = [m.group(1), m.group(3)]
+        else:
+            nums = [m.group(1) + (m.group(2) or "")]
         # un epígrafe que cubre varios artículos se contrasta con los textos de
         # todos ellos juntos, no con cada uno por separado: si no, lo que dice
         # del primero sale como hallazgo contra los demás
@@ -88,7 +145,7 @@ def main():
         fuente = " ".join(arts[n] for n in nums if n in arts)
         if not fuente:
             continue
-        n = ",".join(str(x) for x in nums)
+        n = ",".join(nums)
         f_poder, f_deber = bool(re.search(PODER, fuente)), bool(re.search(DEBER, fuente))
         t_poder, t_deber = bool(re.search(PODER, texto)), bool(re.search(DEBER, texto))
         if t_deber and not f_deber and not f_poder:

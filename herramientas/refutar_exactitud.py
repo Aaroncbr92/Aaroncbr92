@@ -28,10 +28,68 @@ def articulos(fuente):
     # devuelve "0 comprobadas, 0 no literales": un tema sin revisar que se
     # lee como impecable (manual, apartado 10)
     fuente = re.sub(r"[              　]", " ", fuente)
-    patron = r"^## \[[^\]]+\] Artículo (\d+)$\n\n_.*?_\n\n(.*?)(?=\n## |\Z)"
+    # "Artículo 32 bis" no acaba en dígito: con un patrón anclado en \d+$ ese
+    # artículo no entra en el diccionario, no se comprueba nunca y además su
+    # texto en el tema se contrasta contra el artículo 32, que dice otra cosa.
+    # Un artículo que no se mira sale impecable (manual, apartado 10)
+    patron = (r"^## \[[^\]]+\] Artículo (\d+(?: bis| ter| quáter| quinquies)?)$"
+              r"\n\n_.*?_\n\n(.*?)(?=\n## |\Z)")
     for m in re.finditer(patron, fuente, re.S | re.M):
-        fuera[int(m.group(1))] = limpia(m.group(2))
+        fuera[m.group(1)] = limpia(m.group(2))
     return fuera
+
+
+def abre_bloque(tema, i):
+    """¿El marcador de la posición i abre epígrafe, o va dentro de una frase?
+
+    Abre epígrafe el que empieza párrafo, encabezado, viñeta, fila de tabla o
+    cita. No basta con mirar el renglón: el tema va partido por ancho de columna
+    y una remisión cae a veces justo al principio de un renglón.
+    """
+    ini = tema.rfind("\n\n", 0, i) + 2
+    trozo = tema[ini:i]
+    ult = trozo.rfind("\n")
+    # la viñeta pide espacio detrás: sin él, «**artículos 7 y 8**» al empezar
+    # renglón se leería como viñeta y volvería a abrir epígrafe
+    if ult != -1 and re.match(r"[-*+>]\s|\||\d+[.)]\s", trozo[ult + 1:]):
+        trozo = trozo[ult + 1:]
+    return re.fullmatch(r"[-*+>|#\s]*(?:\d+[.)]\s*)?", trozo) is not None
+
+
+def limites(tema, marcas, cortes):
+    """Dónde acaba el bloque de cada marcador.
+
+    Hay dos clases de marcador y confundirlas cuesta caro en las dos
+    direcciones:
+
+    · El que **abre epígrafe** manda sobre todo su párrafo. Si una remisión
+      interior se lo cortara, la explicación posterior se comprobaría contra el
+      artículo citado y no contra el que se explica: no da error, atribuye mal.
+    · El que va **dentro de una frase** puede ser una remisión («conoce las
+      actuaciones de los artículos 7, 8, 9 y 11») o una mención con contenido
+      («cierran el capítulo el art. 139, el art. 140…»). Como no se distinguen
+      por la forma, se le da **solo su frase**: así la mención se comprueba y la
+      remisión apenas arrastra ruido. Descartarlos a todos dejaba sin mirar los
+      artículos descritos en una línea, que es peor.
+    """
+    fines = []
+    aperturas = [m.start() for m in marcas if abre_bloque(tema, m.start())]
+    for i, m in enumerate(marcas):
+        tope = [c for c in cortes if c > m.start()]
+        fin = tope[0] if tope else len(tema)
+        if m.start() in aperturas:
+            sig = [a for a in aperturas if a > m.start()]
+            if sig:
+                fin = min(fin, sig[0])
+        else:
+            sig = [x.start() for x in marcas[i + 1:]]
+            if sig:
+                fin = min(fin, sig[0])
+            frase = re.search(r"[.:](?=\s)", tema[m.end():])
+            if frase:
+                fin = min(fin, m.end() + frase.end())
+        fines.append(fin)
+    return fines
 
 
 def trozos(tema):
@@ -43,7 +101,7 @@ def trozos(tema):
     # comprueban contra el artículo anterior, que es el error de atribución
     marcas = list(re.finditer(
         r"(?:\*\*|(?m:^)#{2,4} )(?:[Aa]rtículos?|[Aa]rts?\.) ?(\d+)(?!\.\d|\.[ºª])"
-        r"(?: y (\d+))?(?: a (\d+))?[.,: *]", tema))
+        r"( bis| ter| quáter| quinquies)?(?: y (\d+))?(?: a (\d+))?[.,: *]", tema))
     # el bloque de un artículo termina en el siguiente artículo, en el siguiente
     # encabezado o en la siguiente raya: si no se acota, el último artículo se
     # traga el resto del tema y todo lo de después sale marcado como suyo
@@ -54,15 +112,14 @@ def trozos(tema):
     # comprobación se hace contra el artículo equivocado
     marcas = [m for m in marcas
               if not re.match(r"[^.]{0,40}?\bde la [Ll]ey\b", tema[m.end():m.end() + 60])]
-    for i, m in enumerate(marcas):
-        candidatos = [c for c in cortes if c > m.start()]
-        fin = min([marcas[i + 1].start()] if i + 1 < len(marcas) else [len(tema)]
-                  + ([candidatos[0]] if candidatos else []))
-        if candidatos and i + 1 < len(marcas):
-            fin = min(marcas[i + 1].start(), candidatos[0])
-        nums = [int(g) for g in m.groups() if g]
-        if len(nums) == 2 and m.group(3):
-            nums = list(range(nums[0], nums[1] + 1))
+    for m, fin in zip(marcas, limites(tema, marcas, cortes)):
+        # las claves son cadenas porque "32 bis" es un artículo y no un número
+        if m.group(4):
+            nums = [str(n) for n in range(int(m.group(1)), int(m.group(4)) + 1)]
+        elif m.group(3):
+            nums = [m.group(1), m.group(3)]
+        else:
+            nums = [m.group(1) + (m.group(2) or "")]
         fuera.append((nums, tema[m.start():fin]))
     return fuera
 
@@ -86,7 +143,7 @@ def main():
             total += 1
             if frag not in cuerpo:
                 sospechosas += 1
-                print("art. %-14s %s" % (",".join(str(n) for n in nums), negrita))
+                print("art. %-14s %s" % (",".join(nums), negrita))
     print()
     print("negritas comprobadas: %d ; no literales: %d" % (total, sospechosas))
 
