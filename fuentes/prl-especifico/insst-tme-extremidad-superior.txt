@@ -1,0 +1,1537 @@
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del 
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025.
+
+TEMA 69 
+
+TRASTORNOS  MUSCULOESQUELÉTICOS  DE  LA  EXTREMIDAD  SUPERIOR.  IDENTIFICACIÓN  DE 
+LOS  FACTORES  DE  RIESGO  ASOCIADOS  Y  SU  PREVENCIÓN.  CONSECUENCIAS  DE  LA 
+REPETITIVIDAD Y EL TRABAJO MONÓTONO. ESTRATEGIAS PARA ABORDAR LA EVALUACIÓN 
+DE  ESTOS  RIESGOS.  MOVIMIENTOS  REPETITIVOS:  DEFINICIÓN  Y  FACTORES  DE  RIESGO. 
+RIESGOS ASOCIADOS Y SU PREVENCIÓN. MÉTODOS DE EVALUACIÓN SEGÚN LA NORMA ISO 
+11228-3. EL MÉTODO STRAIN INDEX Y EL MÉTODO OCRA 
+
+1. TRASTORNOS MUSCULOESQUELÉTICOS DE LA EXTREMIDAD SUPERIOR
+
+Los  trastornos  musculoesqueléticos  (TME) de  origen  laboral  se  pueden  definir  como  las 
+alteraciones  que  sufren  estructuras  corporales  como  los  músculos,  articulaciones,  tendones, 
+ligamentos, nervios, huesos y el sistema circulatorio, causadas o agravadas fundamentalmente 
+por  el  trabajo  y  los  efectos  del  entorno  en  el  que  éste  se  desarrolla (definición  de  la  OSHA-
+Europa; 2007). Representan, en el ámbito laboral, el problema de salud más común en España 
+y en Europa, de hecho, afectan aproximadamente a tres de cada cinco personas trabajadoras 
+europeas. Aunque pueden  producirse en diferentes partes del cuerpo, los más frecuentes se 
+localizan en la espalda, el cuello y las extremidades superiores. Las causas son múltiples, desde 
+factores físicos, hasta factores organizativos y psicosociales, aunque son los factores físicos o 
+biomecánicos los mejor descritos. 
+
+Los  TME  son  un  conjunto  de  consecuencias que  sufren  algunas  estructuras  del  aparato 
+locomotor  al  estar  expuesto  a  una  carga  física  por  encima  de  la capacidad  de  respuesta  del 
+organismo.  Las  consecuencias  de  este  desequilibrio  pueden  ser desde  molestias  o  pequeñas 
+dolencias a lesiones permanentes y patologías crónicas. Alguna de estas patologías más graves 
+son epicondilitis, gangliones, lumbalgias, que pueden llegar a necesitar la baja laboral e incluso 
+a recibir tratamiento médico. 
+
+A continuación, se indican los TME que afectan a las extremidades superiores, más frecuentes 
+en el ámbito laboral: 
+
+•
+
+•
+
+•
+
+Tendinitis del manguito de los rotadores: la inflamación de los tendones de los músculos
+del hombro, especialmente del manguito de los rotadores, puede presentarse debido al uso
+repetitivo  de  los  movimientos  de  rotación  medial,  lateral  y  sobre  todo  abducción.  Esta
+inflamación  ocurre  porque  la  zona  por  donde  trascurren  los  tendones  es  una  zona  muy
+estrecha  rodeada  por  huesos,  lo  que  promueve  el  rozamiento  de  los  tendones  con  el
+acromio.  Este  rozamiento  y  en  algunos  casos  la  compresión,  produce  la  inflamación  del
+tendón.
+
+Epicondilitis o “codo de tenista”: es una lesión por esfuerzo repetitivo en el movimiento de
+pronación-supinación forzada, en la que se inflaman los tendones de los músculos de la cara
+externa del codo (los músculos extensores de los dedos y la muñeca, y los supinadores del
+antebrazo) con un origen común (unión) en el Epicóndilo.
+
+Epitrocleitis o “codo del golfista” es una lesión por esfuerzo repetitivo en el movimiento de
+supinación forzada. Los tendones de los músculos del primer plano del antebrazo ventral,
+que presentan un origen en la Epitróclea (Epicóndilo medial), se inflaman por incremento
+de la tensión.
+
+1 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+•  Síndrome  del  túnel  carpiano:  es  un  cuadro  clínico  provocado  por  una  combinación  de 
+factores que incluyen el uso repetitivo de los músculos flexores superficial y profundo de los 
+dedos, la inflamación de las vainas sinoviales de estos músculos, los movimientos y posturas 
+forzadas de mano en flexión y extensión o microtraumatismos (golpes) en la zona palmar de 
+la muñeca y retención de líquidos en el intersticio. Suele aparecer con mayor frecuencia en 
+las mujeres, pudiendo afectar hasta a un 8% de ellas, mientras que afecta a tan sólo un 0,6% 
+de los hombres. 
+
+•  Ganglión o quiste sinovial: corresponde a una protrusión (salida) del líquido sinovial a través 
+de zonas de menor resistencia de la cápsula articular de la muñeca (huesos del carpo) o de 
+las vainas sinoviales de los tendones. El lugar de aparición más frecuente es en el dorso de 
+la mano y de la muñeca (en el 60% de los casos). Es menos frecuente la aparición en las 
+vainas de los tendones extensores y muy ocasionalmente también puede localizarse en la 
+zona ventral de la muñeca. El ganglión se asemeja a menudo a un globo que contiene líquido 
+sinovial. 
+
+2. IDENTIFICACIÓN DE LOS FACTORES DE RIESGO ASOCIADOS Y SU PREVENCIÓN 
+
+La aparición de TME suele ser multicausal. Por un lado, las exigencias de la tarea, las condiciones 
+de trabajo y las características de la persona determinarán la carga de trabajo a la que se ve 
+sometida y está desencadenará una serie de consecuencias que van desde fatiga física a daños 
+y patologías irreversibles. 
+
+•  En relación con la exigencia de la tarea, se incluyen los factores biomecánicos: adopción 
+de  posturas  ya  sean  mantenidas  o  forzadas,  movimientos  repetitivos,  esfuerzos 
+realizados bien como aplicación de fuerza o de manipulación manual de cargas. 
+
+•  En relación con las condiciones de trabajo, se considerarán aquellas relacionadas con la 
+organización del trabajo (ordenación y alternancia de tareas, aplicación de tiempos y 
+ritmos  de  la  tarea,  pausas  y  descansos),  así  como  ciertos  factores  ambientales 
+(condiciones  termohigrométricas,  presencia  de  vibraciones,  etc.)  y  otros  factores 
+adicionales  (uso  de  guantes  inadecuados,  manipulación  de  objetos  en  superficies 
+deslizantes, compresiones en zonas anatómicas determinadas, etc.) 
+
+•  Por  último,  los  factores  individuales,  que  incluyen  aquellos  relacionados  con  las 
+características de la persona como edad, sexo, estado de salud previo, estilo de vida, 
+falta de entrenamiento en la tarea o formación, etc. 
+
+Factores biomecánicos 
+
+Dentro  de  todos  estos  factores  son  los  factores  biomecánicos  los  mejor  estudiados.  Putz-
+Anderson, ya en el año 1988, estableció un modelo para explicar la aparición de los TME. Este 
+modelo  explica  como  la  combinación  de  diferentes  factores  es  la  causa  más  probable  de  su 
+aparición. Los factores incluidos en este modelo son: la aplicación de fuerza, la realización de 
+movimientos repetitivos, la adopción de unas posturas inadecuadas, todo ello unido a una falta 
+de descanso o recuperación insuficiente.  
+
+•  Se  entiende  por  postura  de  trabajo  la  posición  relativa  de  los  diferentes  segmentos 
+corporales. Si una postura se mantiene durante un periodo de tiempo prolongado se 
+considera postura estática, y si esta posición se aleja de una posición natural de confort 
+implica  hiperextensiones, 
+se  considera  postura  forzada  (por  ejemplo,  cuando 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+• 
+
+hiperflexiones o rotaciones extremas). Ambas situaciones pueden ser factores de riesgo 
+que influyan en la aparición de TME. 
+
+La  repetitividad  de  los  movimientos  es  otro  factor  importante.  La  realización  de  los 
+mismos movimientos de forma repetida implica una sobrecarga funcional localizada en 
+unas estructuras del sistema locomotor determinadas. Son muchos los trabajos que se 
+pueden  considerar  repetitivos.  Por  un  lado,  aquellos  que  se  desarrollan  en  ciclos  de 
+trabajo, es decir se repiten a lo largo de la jornada los mismos gestos o muy similares, 
+se considerarán trabajos repetitivos, pero no son los únicos que pueden implicar una 
+repetitividad en sus movimientos. Ciertas tareas que no se realizan en ciclos pueden ser 
+también repetitivas. Se caracterizan por dos aspectos: los movimientos realizados y la 
+frecuencia  de  realización  de  estos.  De  hecho,  la  norma  ISO  11228-3  considera  que 
+aquellas tareas que implican un ciclo de trabajo o una secuencia de movimientos que se 
+repiten más de dos veces por minuto y durante más del 50% del tiempo de su duración 
+se pueden considerar repetitivas. 
+
+Algunos ejemplos de movimientos que pueden suponer un riesgo en caso de realizarse 
+de manera repetida son: 
+
+o  Movimientos de pronosupinación de antebrazos o muñecas, especialmente si 
+
+son realizados contra resistencia. 
+
+o  Extensiones y flexiones de muñeca. 
+o  Desviaciones radiales o cubitales. 
+
+• 
+
+Los  esfuerzos  realizados,  entendidos  como  la  aplicación  de  fuerza,  ya  sea  para  la 
+manipulación manual de cargas o para realizar el agarre o simplemente para la sujeción de 
+objetos o elementos constituyen otro factor de riesgo para tener en cuenta. En ocasiones 
+es sencillo identificar este factor, pues manipulaciones manuales de cargas elevadas serán 
+suficientes,  pero  en  otras  ocasiones,  por  ejemplo,  accionar  una  palanca  de  manera 
+repetitiva, puede no ser sencillo de identificar. Los esfuerzos realizados podrán ser más o 
+menos  importantes  atendiendo  principalmente  a:  la  intensidad  de  la  fuerza  a  aplicar,  la 
+duración de la acción, su frecuencia (número de veces por unidad de tiempo que se repite 
+el gesto o el esfuerzo) y la postura requerida. 
+
+Factores relacionados con la organización del trabajo 
+
+Hay que distinguir entre los factores característicos de la tarea y aquellos relacionados con cómo 
+está organizado el trabajo. Relacionado con este segundo grupo de factores destacan: 
+
+o  La cantidad y características del trabajo. 
+o  La intensidad y el ritmo de trabajo. 
+o  La distribución temporal de las tareas. 
+o  Las pausas y descansos establecidos. 
+
+El establecimiento de pausas y descansos adecuados son uno de los factores destacables, pues 
+permite la recuperación fisiológica del esfuerzo realizado, facilitando de esa manera continuar 
+con la actividad sin generar riesgo añadido. 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+Factores ambientales 
+
+Entre los factores ambientales destacan: 
+
+• 
+
+• 
+
+• 
+
+La exposición a vibraciones tanto de cuerpo entero como de mano brazo. En este caso hay 
+estudios  que  relacionan  de  forma  directa  la  aparición  de  algunos  tipos  de  TME  con  la 
+exposición  a  las  vibraciones.  De  hecho,  un  aspecto  a  estudiar  es  el  caso  de  empleo  de 
+herramientas que vibran. 
+
+La  exposición  a  temperaturas  ambientales  extremas.  Tanto 
+temperaturas como bajas son factores que van a influir en la aparición de TME. 
+
+la  exposición  a  altas 
+
+La iluminación es también un aspecto importante. Una iluminación insuficiente o que genere 
+sombras  sobre  la  tarea,  puede  llevar  a  que  las  personas,  para  favorecer  la  visibilidad, 
+realicen movimientos y adopten posturas poco adecuadas. 
+
+•  Otros  factores  ambientales  como  la  exposición  a  elevada  humedad  o  el  ruido  ambiental 
+
+también pueden influir. 
+
+Factores psicosociales 
+
+Cada vez se conoce mejor la influencia de factores psicosociales en el desarrollo de los TME, por 
+ejemplo: 
+
+•  Mucha presión o demasiado trabajo. 
+
+•  Falta de control sobre la planificación de la tarea. 
+
+•  Ausencia de apoyo del personal o jefatura. 
+
+•  Trabajo aislado en el proceso productivo. 
+
+•  Ritmo de trabajo impuesto por la máquina o por el proceso. 
+
+Factores adicionales 
+
+Otros factores relacionados con el tipo y características de las tareas también pueden contribuir 
+a la generación de algún tipo de TME, por ejemplo: 
+
+•  Presión de herramientas localizada sobre estructuras anatómicas. 
+
+•  Riesgo de movimientos súbitos, inesperados o incontrolados (por ejemplo: trabajos en 
+
+superficies resbaladizas.) 
+
+•  Exposición a aceleraciones o deceleraciones rápidas de los movimientos. 
+
+•  Trabajos de alta precisión combinada con la aplicación de fuerza. 
+
+•  Equipos de protección individual inadecuados o que restringen los movimientos. 
+
+Factores personales 
+
+Las características antropométricas son uno de los factores individuales que más van a influir. 
+Cada persona tiene unas características antropométricas determinadas, y el diseño físico de un 
+puesto de trabajo puede ser adecuado para una persona, pero no para otra. 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+También es necesario considerar otras características individuales como: 
+
+•  Edad. 
+
+•  Sexo. 
+
+•  Peso corporal. 
+
+•  Hábitos de salud: fumar, consumo de alcohol, ejercicio diario, hábitos alimenticios, etc. 
+
+• 
+
+La ausencia o inadecuada formación, entrenamiento y conocimientos del puesto. 
+
+•  Patologías previas relacionadas. 
+
+•  Otros factores: estado de salud y antecedentes médicos, etc. 
+
+Prevención 
+
+En  primer  lugar,  y  siguiendo  los  principios  de  la  acción  preventiva,  se  debe  proceder  a  la 
+eliminación del riesgo. Técnicas como la automatización de los procesos pueden ser un ejemplo 
+para  esto.  Una  vez  que  se  han  adoptado  las  medidas  para  eliminar  los  riesgos,  se  deberá 
+proceder  a  la  identificación  de  los  principales  factores  de  riesgo,  por  ejemplo,  si  se  adoptan 
+posturas  forzadas,  o  si  en  una  tarea  determinada  hay  una  repetitividad  elevada,  tareas  que 
+requieren mayor esfuerzo, o aquellas con una iluminación inadecuada. Una vez identificados los 
+factores de riesgo se debe proceder a la evaluación y así se identificará de forma clara dónde 
+está el problema. Para intervenir en el puesto hay dos tipos de medidas preventivas principales. 
+En primer lugar, medidas encaminadas a la modificación del puesto, es decir, a mejorar el diseño 
+del puesto de trabajo y el segundo tipo de medidas encaminadas a mejorar la organización del 
+trabajo: introducción de pausas y descansos, rotaciones de puestos, modificación de ritmos de 
+trabajo, etc. 
+
+3. CONSECUENCIAS DE LA REPETITIVIDAD Y EL TRABAJO MONÓTONO 
+
+Repetitividad 
+
+La Agencia Europea para la Seguridad y la Salud en el Trabajo, a través de su tercera encuesta 
+europea de empresas sobre riesgos nuevos y emergentes (ESENER-3), pone de manifiesto que 
+la repetitividad de las tareas es el principal aspecto que preocupa en las empresas europeas. El 
+tercero es permanecer sentado durante largos periodos de tiempo. 
+
+Los trabajos de tipo repetitivo prevalecen en muchas ocupaciones, como ensamblaje, embalaje, 
+trabajo con ordenadores, peluquería, etc.  
+
+Las consecuencias, bien en forma de molestias o de TME, se localizan principalmente en la zona 
+de la mano, brazo y hombro. 
+
+Trabajo monótono 
+
+La monotonía es una de las características de los trabajos repetitivos prolongados en el tiempo. 
+A demás de las consecuencias  relacionadas con las molestias, dolor y TME en los segmentos 
+afectos,  fruto  de  la  repetitividad,  también  pueden  generar  otro  tipo  de  consecuencias  como 
+somnolencia, aburrimiento, ansiedad, depresión, etc. 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+Sedentarismo 
+
+La inactividad física, es la cuarta causa de muerte y la sexta causa de pérdida de años de salud 
+en los países desarrollados. Se ha relacionado de una manera más o menos concluyente con 
+problemas cardiovasculares, metabólicos, algún tipo de cáncer, estrés y por supuesto TME.  
+
+Muy relacionado con la inactividad física, se encuentra la conducta sedentaria. En el año 2012, 
+el  grupo  de  expertos  internacional  “Sedentary  Behavior  Research  Network”  desarrolló  una 
+definición  sobre  el  sedentarismo  e  indicaron  que  es  una  conducta  con  las  siguientes 
+características:  
+
+•  Se realiza en posición sentada o reclinada. 
+
+•  Supone  un  gasto  energético  pequeño  (<  1,5  MET-  en  inglés:  metabolic  equivalent  of 
+task- Es  la  unidad  que se utiliza para medir  el índice de consumo metabólico; 1 MET 
+equivale a 3,5 ml O2 /Kg min y se considera el índice metabólico en reposo). 
+
+•  Se realiza en momentos de vigilia (se excluye los periodos nocturnos). 
+
+Si bien es una conducta y las medidas preventivas deben ir encaminadas a su modificación, hay 
+puestos de trabajo que pueden favorecer el sedentarismo. La incorporación de los ordenadores, 
+y en los últimos años del uso de nuevas tecnologías o la modificación de ciertos puestos en la 
+industria tras la mecanización de los procesos, fomentan este comportamiento. Por este motivo, 
+es  fundamental  promover  conductas  no  sedentarias  tanto  en  horarios  tradicionalmente 
+laborales como fuera de ellos. 
+
+Las  últimas  investigaciones  han  llegado  a  la  conclusión  de  que  más  de  7  horas  diarias  de 
+comportamiento sedentario, incrementa el riesgo de mortalidad. A partir de ese momento, cada 
+hora incrementa un 5% el riesgo de muerte, independientemente del ejercicio que se realice en 
+otro momento del día.  
+
+Para contrarrestar esta  situación se ha propuesto que al menos cada 30 minutos de postura 
+sentada se cambie 2 minutos a posición de pie o bien promover cambios posturales alternando 
+cada 30 minutos posturas de pie y sedentes. 
+
+4. ESTRATEGIAS PARA ABORDAR LA EVALUACIÓN DE ESTOS RIESGOS 
+
+En todo estudio ergonómico, especialmente cuando se va a evaluar la probabilidad de que se 
+produzcan  determinados  daños,  será  necesario  analizar  previamente  las  tareas,  las  personas 
+que lo van a realizar, las condiciones del lugar de trabajo, etc. 
+
+La norma ISO 11228-3: 2007, facilita un procedimiento para la evaluación del riesgo en aquellas 
+tareas que implican repetitividad. 
+
+6 
+
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+5. MOVIMIENTOS REPETITIVOS: DEFINICIÓN Y FACTORES DE RIESGO 
+
+El  criterio  más  empleado  a  la  hora  de  determinar  cuándo  una  tarea  es  o  no  repetitiva  es  el 
+indicado en la Norma ISO 11228-3, que considera tareas repetitivas aquellas que: 
+
+•  Se realizan en ciclos de trabajo inferiores a 30 segundos o aquellos trabajos en los que se 
+repitan los mismos movimientos o gestos durante más del 50% de la duración del ciclo. 
+
+•  Si se realizan movimientos casi idénticos de mano, dedos o brazos en pocos segundos. 
+
+•  Uso intenso de dedo/s, mano/s o muñeca/s. 
+
+•  Movimientos repetitivos del hombro y/o brazo (movimientos regulares con alguna pausa o 
+
+movimientos casi continuos). 
+
+Trabajos muy repetitivos, es decir con una frecuencia bastante alta suelen ser, por ejemplo, los 
+trabajos en cadena. Pero hay que tener en cuenta que otras tareas como limpiezas o fregado de 
+suelos o introducción de datos con el teclado del ordenador también pueden llegar a serlo. 
+
+los  trabajos  repetitivos  dependen  de  múltiples  factores  que  están 
+Los  efectos  de 
+interrelacionados. El modelo de Putz- Anderson se aplica en los casos de tareas repetitivas que, 
+junto a las posturas, fuerza aplicada y falta de descanso, van a suponer los aspectos claves para 
+determinar el riesgo que puede suponer una tarea repetitiva. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+6 RIESGOS ASOCIADOS Y SU PREVENCIÓN 
+
+La  repetitividad  favorece  el  riesgo  de  sobrecarga  física  en  el  trabajo.  Esta  sobrecarga  puede 
+llevar a fatiga física, dolor e incluso como principal consecuencia lesiones específicas: TME en 
+miembros superiores. 
+
+Las lesiones asociadas a los trabajos repetitivos se producen comúnmente en los tendones, los 
+músculos y los nervios del cuello, hombro, antebrazo, muñeca y mano. Los diagnósticos son muy 
+diversos:  tendinitis,  peritendinitis,  tensosinovitis,  mialgias,  atrapamientos  de  nervios  distales 
+entre otros. 
+
+Las medidas preventivas van encaminadas a mejorar los factores de riesgo que se encuentren 
+fuera de los límites aceptables. 
+
+Para  ello  es  necesario  conocer  cuáles  son  los  principales  factores  de  riesgo  presentes  en  la 
+actividad  objeto  de  intervención.  Los  principales  métodos  de  identificación  y  evaluación  de 
+riesgos relacionados con los movimientos repetitivos son muy útiles en este sentido, pues no 
+sólo determinan el riesgo en su conjunto, sino que permiten identificar los aspectos específicos 
+que requieren intervención.  
+
+Los principales factores son: 
+
+•  Tareas repetitivas. Considerando como tales aquellas actividades cuyo ciclo sea inferior 
+a  30  segundos  o  aquellos  trabajos  en  los  que  se  repitan  los  mismos  movimientos 
+elementales durante más de un 50% de la duración del ciclo. 
+
+•  Trabajos  que  requieran  esfuerzos  prolongados  que  superen  el  30%  de  la  capacidad 
+
+muscular máxima del trabajador. 
+
+•  Posturas extremas de determinados segmentos corporales. 
+
+•  Mantenimiento prolongado de cualquier postura. 
+
+•  Trabajos con herramientas que vibran. 
+
+•  Exposición de ciertos segmentos corporales a frío o en contacto con superficies duras. 
+
+En la mayor parte de las situaciones para solventar el problema suele ser necesario modificar 
+algún aspecto del diseño del puesto de trabajo (herramientas, máquinas, entorno de trabajo y 
+métodos de trabajo) o bien realizar cambios en la organización del trabajo. 
+
+En relación con el diseño de las  condiciones de trabajo las actuaciones deben ir enfocadas a 
+intervenir sobre:  
+
+•  El esfuerzo a realizar 
+
+• 
+
+• 
+
+La repetitividad 
+
+Los cambios posturales 
+
+En relación con los aspectos relativos a la organización del trabajo: el control del tiempo, tanto 
+de  la  actividad,  como  de  los  periodos  de  pausas  y  descansos,  los  ritmos  de  trabajo, 
+establecimiento de métodos adecuados y adiestramiento de los trabajadores. En esta línea el 
+principal factor de riesgo, en relación con los movimientos repetitivos, es la duración de la tarea, 
+las molestias se incrementan en tareas con duración por encima de 6 horas al día. Pero no es el 
+único factor de riesgo asociado a los movimientos repetitivos: 
+
+•  Poco tiempo de recuperación (mínimo 5 minutos por hora), 
+
+8 
+
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+• 
+
+Imposibilidad de realizar micro descansos (mínimo 20 segundos cada 10 minutos), 
+
+•  Carencia de control sobre el propio ritmo de trabajo, 
+
+•  Carga de trabajo mental. 
+
+7. MÉTODOS DE EVALUACIÓN SEGÚN LA NORMA ISO 11228-3 
+
+La norma  ISO  11228-3  propone  una  metodología de evaluación en la que en primer lugar  se 
+debe  identificar  el  riesgo.  En  este  caso  hace  especial  énfasis  en  los  siguientes  factores: 
+repetitividad;  posturas  y  movimientos;  fuerza;  duración  e 
+insuficiente  recuperación; 
+características  del  objeto;  vibraciones  e 
+impacto  de  fuerzas;  condiciones  ambientales 
+(iluminación, clima, ruido, etc.); organización del trabajo; factores psicosociales (complejidad de 
+la tarea; demandas de trabajo y contenido del trabajo; factores individuales. 
+
+Posteriormente, una vez identificada la existencia de estos factores de riesgo, propone realizar 
+la estimación del riesgo, pero en este caso y debido a la complejidad del análisis se establecen 
+dos tipos de evaluación. En primer lugar, una evaluación simple del riesgo y posteriormente una 
+evaluación compleja. Se proponen, de manera descriptiva, dos métodos específicos, uno para 
+cada tipo de análisis.  
+
+En  relación  con  el  método  1,  específico  para  un  análisis  sencillo  del  riesgo,  consta  de  varias 
+partes:  
+
+•  Recogida de información preliminar descriptiva del puesto. 
+
+•  Checklist  con  la  identificación  de  los  factores  riesgo  y  el  procedimiento  para  la 
+
+estimación del riesgo. 
+
+•  Evaluación sencilla del riesgo y acciones a tomar. 
+
+•  Propuestas concretas de intervención. 
+
+Contempla  los  factores  agrupados  en:  repetición,  postura,  fuerza,  recuperación  y  factores 
+complementarios físicos y psicosociales.  
+
+Como sucede con todos los métodos de evaluación, es imprescindible conocer los criterios para 
+su aplicación. En este sentido, los criterios para la aplicación de este método 1 que se describe 
+en la norma ISO 11228-3 son: 
+
+•  Se emplea si el trabajo es repetitivo. 
+
+•  Pero,  si  el  trabajo  conlleva  movimientos  idénticos,  que  se  repiten  con  frecuencia  y 
+durante  una  parte  significativa  de  la  jornada,  el  checklist  no es  suficiente.  Se debe 
+hacer siempre una evaluación más detallada. 
+
+•  En cambio, si la duración del trabajo repetitivo es menor de 1 h/día o de 5h/semana, 
+el  riesgo  derivado  de  la  repetición  se  considera  insignificante,  y  no  es  necesario 
+realizar una evaluación más detallada. 
+
+El Checklist se divide en cinco pasos. En cada paso se analizan los aspectos más importantes: 
+repetitividad  y  duración  de  la  tarea,  postura  de  trabajo  aplicación  de  fuerza,  periodos  de 
+recuperación,  el  último  paso  se  destina  a  una  serie  de  factores  de  riesgos  adicionales.  A 
+continuación,  se  detallan  cada  uno  de  los  pasos  a  seguir  y  los  criterios  para  identificar  si  se 
+considera el paso como verde, rojo o amarillo, de cara a la evaluación: 
+
+9 
+
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+Paso 1 – Movimientos repetitivos /duración: ¿el trabajo implica… 
+
+SÍ 
+
+NO 
+
+Un ciclo de trabajo o una secuencia de movimientos que se repiten más de 
+dos veces/min y durante más del 50% del tiempo de duración de la tarea? 
+
+Repetir movimientos casi idénticos de los dedos, manos o brazos cada pocos 
+segundos? 
+
+Uso intenso de dedo/s, mano/s o muñeca/s? 
+
+  Movimientos  repetitivos  de  hombro  y/o  brazo  (movimientos  regulares  con 
+
+algunas pausas o movimientos casi continuos)? 
+
+Si  la  respuesta  a  TODAS  las  preguntas  es  “NO”  la  evaluación  es  VERDE  y  no  se  requiere 
+continuar realizándola.  
+
+Si  la  respuesta  a  1  o  más  preguntas  es  “SÍ”  el  trabajo  es  repetitivo.  Use  las  columnas 
+siguientes  para evaluar  si  la  duración  es  aceptable (si  no hay  otros  factores  significativos 
+presentes) y continúe con la evaluación de los demás factores: pasos 2, 3 y 4.  
+
+EVALUACIÓN DEL RIESGO (ZONA) 
+
+VERDE 
+
+AMARILLA 
+
+ROJA 
+
+Es verde si:  
+
+Es amarilla si: 
+
+Es zona roja si: 
+
+•  no hay otros factores de 
+
+riesgo, no se realizan más 
+de 3 h en la jornada,  
+
+No se cumplen las 
+condiciones de zona verde 
+ni de zona roja 
+
+Y 
+•  No hay más de 1 h sin pausa 
+
+Si se cumplen ambas 
+condiciones, se está en zona 
+VERDE y no se requiere 
+continuar con la evaluación 
+
+Se hacen movimientos 
+repetitivos más de 4 h en la 
+jornada, sin que haya 
+ningún otro factor de riesgo 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+Paso 2 – Postura: ¿el trabajo implica repetitivas o frecuentes … 
+
+SÍ 
+
+NO 
+
+Desviaciones de muñeca/s arriba, abajo o a los lados? 
+
+Girar o retorcer las manos de modo que la palma esté hacia arriba o hacia 
+abajo? 
+
+  Movimientos forzados, como por ejemplo, agarres de los dedos mientras la 
+muñeca está desviada, o con los dedos separados, o con la mano extendida 
+mientras se agarra, sostiene o manipula algo?  
+
+  Movimientos del brazo hacia adelante o a los lados del cuerpo? 
+
+  Movimientos de giro o inclinación de la espalda o de la cabeza? 
+
+Si la respuesta a TODAS las preguntas es “NO”, no hay posturas forzadas que se combinen 
+como factores de riesgo a los movimientos repetitivos. Continúe con el paso 3 para evaluar 
+el factor fuerza. 
+
+Si  la  respuesta  a 1  o  más  preguntas es  “SÍ”,  use  las  columnas  siguientes  para  evaluar  el 
+riesgo y luego continúe con el paso 3. 
+
+EVALUACIÓN DEL RIESGO (ZONA) 
+
+VERDE 
+
+AMARILLA 
+
+ROJA 
+
+Es verde si:  
+
+Es amarilla si: 
+
+Es zona roja si: 
+
+No se cumplen las 
+condiciones de zona verde ni 
+de zona roja 
+
+•  Las desviaciones 
+repetitivas de las 
+posiciones de dedos, 
+muñecas, codos, hombros 
+y cuello son pequeñas y 
+no se dan más de 3 h por 
+jornada, 
+
+O 
+
+•  Las desviaciones son de 
+
+moderadas a amplias pero 
+no se dan más de 2 h por 
+jornada,  
+
+Y 
+
+•  No hay más de 30 
+
+minutos consecutivos sin 
+una pausa o variación de 
+la tarea 
+
+•  Las desviaciones de las 
+posiciones de dedos, 
+muñecas, codos, hombros 
+y cuello son de moderadas 
+a amplias  y se dan más de 
+3 h por jornada,  
+
+Y 
+
+•  Hay más de 30 minutos 
+consecutivos sin pausas 
+
+(Desviaciones de moderadas a 
+amplias significa >50% del 
+rango de movimiento (RM). Si 
+las desviaciones están cerca 
+del RM se requiere una 
+evaluación específica) 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+Paso 3 – Fuerza: ¿el trabajo implica repetitivos o frecuentes … 
+
+SÍ 
+
+NO 
+
+a) levantamientos o sujeciones de herramientas, materiales u objetos que pesen 
+más de  
+
+0,2 kg por dedo (levantamiento en pinza)? 
+2 kg por mano? 
+
+b) agarres, giros, empujes o tracciones de herramientas o materiales 
+
+con la mano/brazo que excedan del 10% de los valores de referencia Fb dados 
+en el paso 1 de la norma EN 1005-3:2002 (p.ej. 25 N para agarre de fuerza)?  
+
+c) uso de mandos de control 
+
+con una fuerza o par de torsión que exceda de lo recomendado en ISO 9355-
+3  (p.ej.  20  N  para  agarre  con  contacto  de  la  mano,  10  N  para  agarre  de 
+pinza)? 
+
+d) agarres de pinza, como sujetar o apretar objetos entre el pulgar y un dedo 
+
+con una fuerza de más de 10 N? 
+
+Si la respuesta a TODAS las preguntas es “NO”, no se realizan fuerzas que se combinen a 
+los movimientos repetitivos. Continúe con el paso 4 para evaluar el factor recuperación. 
+
+Si la respuesta a 1 o más preguntas es “SÍ”, use las columnas siguientes para evaluar el 
+riesgo y luego continúe con el paso 4.  
+
+EVALUACIÓN DEL RIESGO (ZONA) 
+
+VERDE 
+
+AMARILLA 
+
+ROJA 
+
+Es verde si:  
+
+Es amarilla si: 
+
+Es zona roja si: 
+
+No se cumplen las 
+condiciones de zona verde ni 
+de zona roja 
+
+•  La realización repetitiva 
+de fuerza (sin posturas 
+forzadas) no supera las 2 
+h por jornada, 
+
+O 
+•  La realización repetitiva 
+
+de fuerza, combinada con 
+posturas forzadas, no 
+supera 1 h de la jornada,  
+
+Y 
+
+•  No hay más de 30 
+
+minutos consecutivos sin 
+una pausa o variación de 
+la tarea 
+
+•  La realización repetitiva de 
+
+fuerza (sin posturas 
+forzadas) supera las 3 h 
+por jornada, 
+
+O 
+•  La realización repetitiva de 
+fuerza, combinada con 
+posturas forzadas, supera 
+2 h por jornada,  
+
+(Corta duración= si hay más de 
+30 minutos consecutivos sin una 
+pausa o variación de la tarea) 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+Tabla 3: ISO 11228: 3. ASPECTOS A CONSIDERAR  
+
+Paso 4 – Periodos de recuperación: ¿el trabajo implica… 
+
+SÍ 
+
+NO 
+
+falta de pausas? 
+
+una escasa variación de tareas? 
+
+carencia de períodos de recuperación? 
+
+Use las columnas siguientes para responder a estas preguntas y evaluar el riesgo por la falta 
+de periodos de recuperación. 
+
+Continúe luego con el paso 5 y evalúe los factores de riesgo adicionales. 
+
+EVALUACIÓN DEL RIESGO (ZONA) 
+
+VERDE 
+
+AMARILLA 
+
+ROJA 
+
+Es verde si:  
+
+Es amarilla si: 
+
+Es zona roja si: 
+
+•  Hay, al menos, 30 min 
+para el almuerzo o 
+comida y 10 min de 
+pausa en la mañana y 10 
+min en la tarde 
+
+Y 
+
+•  No hay más de 1 h de 
+trabajo sin pausa o 
+variación de la tarea. 
+
+No se cumplen las 
+condiciones de zona verde ni 
+de zona roja 
+
+•  Hay menos de 30 min para 
+el almuerzo o la comida 
+
+O 
+
+•  Hay  más  de  1  hora  de 
+o 
+sin 
+
+trabajo 
+variación de la tarea 
+
+pausa 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+Paso 5: Factores de riesgo adicionales 
+
+FÍSICOS 
+
+SÍ  NO  ¿El trabajo repetitivo implica… 
+
+Uso de herramientas que vibran? 
+
+Presiones de herramientas localizadas sobre estructuras anatómicas? 
+
+Exposición a frío o a calor? 
+
+EPI´s que restringen los movimientos o dificultan la actividad? 
+
+Riesgo de un movimiento súbito, inesperado o incontrolado (p.ej, suelos 
+resbaladizos, caídas de objetos, agarres malos)? 
+
+Aceleración o deceleración rápida de los movimientos? 
+
+Fuerza o carga estática? 
+
+Hombros levantados (sostener los brazos u objetos en contra de la 
+gravedad)? 
+
+Sujeción continua de herramientas (como cuchillos en la industria cárnica o 
+de conservas de pescado)  
+
+Posturas fijas o rígidas (mal diseño de las herramientas, de los lugares de 
+trabajo, falta de espacio)?  
+
+  Martillazos, sacudidas o fuerzas que crecen rápidamente? 
+
+Trabajo de alta precisión combinado con fuerza? 
+
+SÍ  NO  ¿El trabajo repetitivo implica… 
+
+PSICOSOCIALES 
+
+  Mucha presión o demasiado trabajo que acabar en la jornada? 
+
+Falta de control sobre la ordenación y planificación de las tareas de 
+trabajo? 
+
+Falta de apoyo de compañeros y jefes? 
+
+  Una elevada carga mental, elevada concentración o atención? 
+
+  Trabajo aislado en el proceso productivo? 
+
+  Ritmo de trabajo impuesto por una máquina o personas? 
+
+Producción predefinida o sistema de primas?  
+
+De esta manera, mediante este checklist, se obtienen unos resultados parciales por cada aspecto 
+analizado en cada paso. Finalmente, para obtener el resultado global de la evaluación, se deben 
+anotar los resultados parciales en la siguiente tabla: 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+RESULTADOS 
+
+ZONA 
+
+PASO 1 
+
+PASO 2 
+
+PASO 3 
+
+PASO 4 
+
+PASO 5 
+
+VERDE 
+
+AMARILLA 
+
+ROJA 
+
+Si alguno de estos valores parciales está en zona roja, entonces el riesgo global o total es ROJO. 
+La severidad del riesgo aumenta si uno o más factores adicionales caen, también, en zona roja. 
+
+Si alguna de las tareas analizadas cae en esta zona (roja), la actividad realizada en el puesto debe 
+considerarse  nociva  para  la  salud.  Será necesario tomar medidas  que eliminen o reduzcan  el 
+riesgo. También pudiera ser necesaria una evaluación más detallada, denominada método 2 en 
+la norma. En este caso, la norma no impone un método específico, si bien recomienda una serie 
+de métodos, principalmente el índice OCRA, pero sin descartar la posibilidad de emplear otro 
+tipo de métodos.  
+
+Si ninguno de los niveles de riesgo cayera en la zona roja, pero, uno o más fuera amarillo la 
+valoración de la tarea en su conjunto también será AMARILLA. Si además, hubiera una presencia 
+importante de uno o más factores de riesgo adicionales, la valoración de la tarea en su conjunto 
+cambia de AMARILLO a ROJO. 
+
+En el caso de que el resultado fuera amarillo, se requiere una evaluación más detallada, o si no, 
+tomar medidas para reducir el riesgo a un nivel de riesgo verde. 
+
+Si todos los factores están en un nivel VERDE de riesgo, la situación es aceptable, es decir, el 
+riesgo  de  padecer  un  TME  como  consecuencia  del  trabajo  realizado  puede  considerarse 
+aceptable. 
+
+Sin embargo, si se hubiera observado la presencia de factores adicionales de riesgo deberíamos 
+procurar reducirlos o eliminarlos. 
+
+Esta norma, no sólo menciona el checklist del método 1 y el Índice OCRA, como métodos de 
+evaluación adecuados, también describe el Strain index y el método HAL (ACGIH 2002), pues en 
+función de las características del trabajo y de la tarea, puede ser más adecuado el empleo de 
+otro tipo de método de evaluación. 
+
+8. EL MÉTODO STRAIN INDEX 
+
+El Strain index (SI) es una metodología de análisis semicuantitativa de evaluación del riesgo de 
+desarrollar  trastornos  en  las  extremidades  superiores  distales  (codo,  antebrazo,  muñeca  y 
+mano). Fue diseñado por Moore y Gray en 1995. Permite, en función de la puntuación numérica 
+obtenida, clasificar las tareas en seguras o peligrosas. 
+
+El cálculo de este índice se basa en interacciones multiplicativas entre varios factores asociados 
+a la tarea, lo que constituye una suposición razonable y que, a su vez, es consistente con los 
+principios fisiológicos, biomecánicos y epidemiológicos publicados en la literatura específica.  
+
+Constituye una herramienta para evaluar los trastornos musculoesqueléticos de la extremidad 
+superior  y  ha  gozado  de  una  gran  popularidad  en  Norteamérica.  El  SI  está  diseñado  para 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+determinar el riesgo de trastornos musculoesqueléticos de las extremidades superiores distales 
+en una cohorte de trabajadores que realizan la misma tarea. No es una herramienta para evaluar 
+a  los  trabajadores  de  forma  individual.  Es  decir,  el  método  procura  responder  a  la  pregunta 
+“¿este trabajo o tarea es seguro o peligroso?”, en términos de trastornos musculoesqueléticos 
+de la extremidad superior distal.  
+
+De acuerdo con los autores del método, este índice no ha sido desarrollado para: 
+
+• 
+
+Identificar  y  evaluar  trastornos  específicos  asociados  a  tareas,  como  podría  ser,  por 
+ejemplo, el síndrome del túnel carpiano. La interpretación del método que los autores 
+proponen  es  que  aquellas  tareas  evaluadas  o  etiquetadas  como  “peligrosas”  por  el 
+método  podrán  causar,  entre  los trabajadores que realizan (o que en el pasado han 
+realizado)  estas  tareas,  un  abanico  de  trastornos  en  las  extremidades  superiores 
+distales. 
+
+Según los autores, la versión inicial publicada en 1995 tiene cuatro limitaciones principales: 
+
+•  Uso de variables y factores categóricos. 
+
+•  Tiene poco poder de discriminación entre intensidades de fuerza muy baja y moderada.  
+
+•  El número de esfuerzos por minuto no discrimina para valores superiores a 20.  
+
+•  Uso del ciclo de trabajo como duración del esfuerzo.  
+
+Con  la  finalidad  de  mejorar  estos  aspectos,  Garg, Moore y  Kapellusch  revisaron  el  método  y 
+publicaron el “revised strain index” (RSI) en 2017. Esta versión revisada contempla cinco factores 
+y,  en  base  a  las  simulaciones  realizadas  con  13.944  tareas,  ofrece  una  mayor  capacidad  de 
+discriminación al clasificar una tarea como “segura” o “peligrosa” para diferentes combinaciones 
+de fuerza, repetición y duración del ciclo de trabajo.  
+
+El RSI se calcula mediante el producto de cinco factores que, a su vez, corresponden a las cinco 
+variables consideradas por el método: intensidad del esfuerzo (IM), esfuerzos por minuto (EM), 
+duración del esfuerzo (DM), posición de la mano (PM) o muñeca y duración de la tarea (HM). El 
+índice RSI se obtiene, por tanto, mediante el producto de los cinco factores anteriores: 
+
+Si en la evaluación de una tarea se obtiene un RSI> 10 se considerará peligrosa. 
+
+𝑅𝑅𝑅𝑅𝑅𝑅 = 𝑅𝑅𝐼𝐼 × 𝐸𝐸𝐼𝐼 × 𝐷𝐷𝐼𝐼 × 𝑃𝑃𝐼𝐼 × 𝐻𝐻𝐼𝐼
+De  forma  sintética,  se  listan,  a  continuación,  los  principales  aspectos  que  deben  tenerse  en 
+cuenta para la correcta aplicación e interpretación del RSI:  
+
+•  Solo valora aquellos trastornos musculoesqueléticos asociados a la extremidad superior 
+
+distal. 
+
+•  Evalúa puestos de trabajo en los que se repite un mismo conjunto de movimientos o 
+
+esfuerzos de forma repetida (“mono-task jobs”, en inglés).  
+
+•  Describe las exigencias de esfuerzo para llevar a cabo una tarea, sin tener en cuenta los 
+posibles agravantes debidos a compresiones mecánicas en las extremidades superiores 
+distales.  
+
+•  No evalúa trabajadores individuales, sino que evalúa puestos de trabajo o tareas. 
+
+•  No valora trastornos específicos, sino el riesgo de que la tarea pueda causar un espectro 
+de trastornos musculoesqueléticos. Se basa en principios fisiológicos, biomecánicos y 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+epidemiológicos,  y  no  en  relaciones  dosis-respuesta  derivadas  de  estudios 
+experimentales.  
+
+•  Es aplicable siempre y cuando las variables que tiene en cuenta el método no cambien 
+
+sustancialmente en los diferentes esfuerzos que se realizan durante un ciclo. 
+
+•  No es válido en aquellas situaciones en las que se producen rotaciones de tareas de una 
+
+persona trabajadora dentro del mismo turno de trabajo. 
+
+No obstante, es  habitual  que,  en  los entornos industriales actuales, los trabajadores realicen 
+más  de  una  tarea  (trabajos  multitarea)  y,  además,  que  las  tareas  se  subdividan  en  varias 
+subtareas;  siendo  una  subtarea  una  combinación  única  de  fuerza,  frecuencia  del  esfuerzo, 
+duración y posición de la mano o muñeca. Con la finalidad de contemplar esta casuística, los 
+mismos autores del RSI desarrollaron dos índices adicionales para, por una parte, integrar las 
+diferentes  subtareas  a  nivel  de  tarea  y,  por  la  otra,  integrar  las  diferentes  tareas  a  nivel  de 
+jornada laboral. A tal efecto: 
+
+•  El  índice  COSI  permite  aplicar  el  índice  RSI  a  aquellas  situaciones  en  las  que  se 
+
+concatenan varias subtareas para la realización de una tarea. 
+
+•  El índice CUSI es aplicable en situaciones en las que se combinan diferentes tareas a lo 
+
+largo de la jornada laboral. 
+
+9. EL MÉTODO OCRA 
+
+El método “Occupation Repetitive Actions” (OCRA), fue desarrollado por E. Occhipinti en 1998 
+pero ha ido actualizándose y validándose en sucesivos estudios epidemiológicos, creándose un 
+grupo de trabajo para ello. 
+
+En la actualidad los autores, definen el sistema OCRA como el conjunto de instrumentos para la 
+evaluación. De esta manera este sistema está compuesto por tres instrumentos: 
+
+•  OCRA Mini-Checklist: Es el último instrumento desarrollado. Permite una aproximación 
+rápida,  aunque  con  una  precisión  menor  que  los  otros  dos  instrumentos.  Sólo  es 
+adecuado  en  actividades  que  estén  claramente  representados  por  ciclos  de  trabajos 
+bien definidos. Normalmente en pequeñas industrias, agricultura, etc. 
+
+•  OCRA  checklist:  Es  el  más  empleado  y  representa  un  instrumento  adecuado  para 
+obtener una primera aproximación de trabajo repetitivo en una organización. Permite 
+definir la proporción de puestos de trabajo o tareas que están en los siguientes niveles: 
+nivel verde (no hay presencia de riesgo), amarillo (riesgo leve o incierto); rojo (riesgo 
+medio) y violeta (riesgo elevado). Requiere un tiempo de aplicación más breve que el 
+índice OCRA  
+
+• 
+
+Índice  OCRA:  Responde  a  la  exigencia  de  ofrecer  una  evaluación  del  riesgo  analítica. 
+Realiza un análisis específico de cada movimiento. 
+
+La  última  modificación  relevante  se  produjo  en  el  OCRA  Checklist,  siendo  el  OCRA  Checklist 
+revisado la última versión, que introdujo una alteración en la ecuación empleada al final para 
+considerar el nivel del riesgo. 
+
+Tanto el OCRA checklist revisado como el Índice OCRA, dividen los factores de análisis en los 
+siguientes: 
+
+17 
+
+ 
+ 
+ 
+ 
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 4: “Ergonomía y psicosociología aplicada”. 
+V. abril 2025. 
+
+•  Cuatro  factores  de  riesgo  principales:  ausencia  de  tiempo  para  la  recuperación; 
+frecuencia de movimientos; fuerza y postura forzada considerando un nuevo concepto 
+denominado estereotipia (movimientos que se repiten iguales o muy similares dentro 
+del ciclo de trabajo) 
+
+• 
+
+La duración neta del trabajo repetitivo para ponderar el nivel de riesgo según el tiempo 
+de exposición.  
+
+•  Factores  complementarios:  vibración  transmitida  mano-brazo,  ambiente  frío  (<  0ºC); 
+
+trabajo con precisión, contragolpes; uso de guantes inadecuados, etc. 
+
+También  considera  el  número  de  acciones  técnicas  (acciones  manuales  elementales 
+necesarias  para  completar  las  operaciones  dentro  del  ciclo  de  trabajo  del  tipo:  girar, 
+empujar,  etc.)  como  factor  de  riesgo  relevante  en  la  evaluación  de  tareas  repetitivas 
+realizadas por las extremidades superiores. 
+
+La valoración final se obtiene por la aplicación de la ecuación correspondiente. En el caso 
+del OCRA Checklist revisado la ecuación es la siguiente: 
+
+𝐶𝐶ℎ𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 𝑅𝑅𝑒𝑒𝑅𝑅. = (𝐹𝐹𝐹𝐹𝑒𝑒𝑒𝑒𝐹𝐹𝑒𝑒𝐹𝐹𝑒𝑒𝑒𝑒𝐹𝐹 + 𝐹𝐹𝐹𝐹𝑒𝑒𝐹𝐹𝐹𝐹𝐹𝐹 + 𝑃𝑃𝑃𝑃𝑒𝑒𝑒𝑒𝐹𝐹𝐹𝐹𝐹𝐹 + 𝐹𝐹. 𝐶𝐶𝑃𝑃𝐶𝐶𝐶𝐶𝑒𝑒𝑒𝑒𝐶𝐶𝑒𝑒𝐹𝐹𝑒𝑒𝐹𝐹𝐹𝐹𝑒𝑒𝑃𝑃𝑒𝑒) × 𝑅𝑅𝑒𝑒𝑒𝑒𝐹𝐹𝐶𝐶𝑒𝑒𝐹𝐹𝐹𝐹𝑒𝑒𝑒𝑒ó𝐹𝐹 × 𝐷𝐷𝐹𝐹𝐹𝐹𝐹𝐹𝑒𝑒𝑒𝑒ó𝐹𝐹
+
+La escala de valoración será la siguiente: 
+
+Índice OCRA 
+< 2,2 
+2,3- 3,5 
+3,6- 4,5 
+4,6- 9,0 
+>22,6 
+
+Checklist OCRA 
+< 7,5 
+7,6- 11,0 
+11,1- 14.0 
+14,1- 22,5 
+> 22,6 
+
+Nivel 
+Verde 
+Amarillo 
+Rojo suave 
+Rojo 
+Morado 
+
+Riesgo 
+Aceptable 
+Muy leve 
+Leve 
+Medio 
+Alto 
+
+Los autores indican, en relación con la valoración del riego lo siguiente:  
+
+Aunque la exposición no sea importante, puede llegar a ser significativa. Se deben introducir 
+medidas tendentes a evitar los daños sobre la salud, vigilancia de la salud específica, formación 
+a los trabajadores expuestos, y si es posible, mejorar las condiciones de trabajo.  
+
+En el caso de exposiciones en zona roja suave, roja o morada, se deben tomar medidas para 
+rediseñar las tareas y los puestos., vigilancia de la salud, y programas de formación e información 
+de los trabajadores expuestos. La determinación de la prioridad se podrá determinar en función 
+de los resultados analíticos. 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

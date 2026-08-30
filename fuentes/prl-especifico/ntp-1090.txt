@@ -1,0 +1,1154 @@
+AÑO 2017
+
+1.090
+
+Notas Técnicas de Prevención
+
+Riesgos laborales viarios: marco conceptual (I)
+
+Road labor risks: marc conceptual
+Risques professionnels routes: cadre conceptuel
+
+Se inicia con ésta, una serie de NTP dedicadas a la preven-
+ción de riesgos laborales viarios. La presente y la siguiente 
+se dedican al marco conceptual en este campo a fin de pro-
+piciar un lenguaje común que clarifique ideas para que los 
+profesionales de la prevención de riesgos laborales, desde 
+el ámbito empresarial y junto a demás agentes implicados, 
+puedan actuar de manera efectiva ante un grave problema 
+que aqueja a la sociedad.
+
+Autor:
+
+Instituto Nacional de Seguridad 
+e Higiene en el Trabajo (INSHT)
+
+Elaborado por:
+
+Manuel Bestratén Belloví
+
+CENTRO NACIONAL DE
+CONDICIONES DE TRABAJO. INSHT
+
+Manel Ferri Tomás
+
+DIPUTACIÓN PROVINCIAL DE BARCELONA
+
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas 
+en una  disposición  normativa  vigente.  A  efectos  de  valorar  la  pertinencia  de  las  recomendaciones 
+contenidas en una NTP concreta es conveniente tener en cuenta su fecha de edición.
+
+1. INTRODUCCIÓN
+
+Los accidentes de tráfico constituyen un importante pro-
+blema  en  nuestra  sociedad,  con  alta  implicación  en  el 
+ámbito  laboral.  Tras  las  patologías  no  traumáticas,  re-
+presentan ser la segunda causa de muerte por accidente 
+laboral, a pesar de los esfuerzos realizados en su reduc-
+ción. A su vez, los accidentes de tráfico siguen siendo la 
+segunda causa de muerte no natural en nuestro país y 
+la primera en el tramo de edades comprendida entre los 
+15 y 24 años.
+
+Los  vehículos  y  demás  equipos  de  trabajo  móviles 
+constituyen  de  por  sí  las  máquinas  más  peligrosas  de 
+nuestra  sociedad  por  los  continuos  daños  que  gene-
+ran, siendo múltiples los factores de riesgo a eliminar y 
+controlar que están en su origen. Dependen del propio 
+vehículo,  de  las  infraestructuras  viarias,  del  entorno,  y 
+evidentemente, de aspectos humanos y organizacionales 
+vinculados a las necesidades y circunstancias personales 
+y de la actividad económica. Los vehículos privados se 
+utilizan en demasía para los desplazamientos al traba-
+jo, con los consiguientes inconvenientes adicionales de 
+tiempos perdidos y daños al medio ambiente, derivados 
+de la contaminación ambiental del aire por gases y par-
+tículas en suspensión. El sector del transporte participa 
+en más de un tercio del total de emisiones de CO2, con el 
+consiguiente efecto invernadero. Cabe destacar también 
+la contaminación por derivados nitrosos y las partículas 
+tóxicas de la combustión del gasoil. 
+
+Los  vehículos  forman  parte  del  propio  trabajo,  y  en 
+mayor  medida,  en  el  sector  servicios,  estando  implica-
+dos  en  muchísimos  accidentes.  Pero  son  los  profesio-
+nales de la conducción los que mayormente los sufren, 
+especialmente los conductores de camiones, autobuses 
+y maquinaria móvil, ya que a pesar de su profesionalidad 
+están constantemente expuestos al riesgo.
+
+Tal como la Comisión Europea propugna, la seguridad 
+vial es una responsabilidad compartida entre los agen-
+tes públicos y privados, y por ello, es necesaria la estre-
+
+cha colaboración de las Administraciones competentes 
+y la participación de todos los colectivos afectados: or-
+ganismos técnicos, asociaciones profesionales, empre-
+sas y trabajadores. La Carta Europea de Seguridad Vial 
+facilita el camino, y afortunadamente, las iniciativas de 
+cooperación interinstitucional en estos últimos años en 
+nuestro país han sido múltiples. Se han creado a nivel 
+estatal dos grupos de trabajo: el de la Comisión Nacio-
+nal  de  Seguridad  y  Salud  en  el  Trabajo,  CNSST,  con 
+representación de los agentes sociales (organizaciones 
+sindicales y empresariales), la Administración General 
+del Estado y las Administraciones Autonómicas, y cuya 
+Secretaría desempeña el Instituto Nacional de Seguri-
+dad e Higiene en el Trabajo (INSHT). Está también el 
+GT-68 del Consejo Superior de Tráfico, también con una 
+amplia participación de instituciones públicas y privadas, 
+incluido el INSHT. El Observatorio Estatal de Condicio-
+nes  de  Trabajo  (OECT)  del  INSHT  realiza  el  análisis 
+específico de los accidentes laborales de tráfico por en-
+cargo de la citada CNSST. Existe también un acuerdo de 
+cooperación entre el Mº de Empleo y Seguridad Social 
+y el Mº de Interior, a través de sus respectivos órganos: 
+el INSHT y la DGT, del que han surgido proyectos como 
+la Guía metodológica del Plan tipo de seguridad vial en 
+la empresa. 
+
+Desde los órganos públicos competentes en materia 
+de trabajo ha prevalecido la línea normativa de preven-
+ción de riesgos laborales, iniciada con la Ley 31/1995 y 
+desplegada a través de Reales Decretos, Órdenes regla-
+mentarias y Guías Técnicas del INSHT en todos los ámbi-
+tos del mundo laboral, pero con una limitada dedicación 
+a la línea laboral vial. Probablemente la única excepción 
+ha sido el R.D. 404/2010 que por primera vez ha inclui-
+do los Planes de Movilidad de las empresas como uno 
+de los factores a considerar para la bonificación en las 
+cuotas de cotización de la Seguridad Social. La Estrate-
+gia Española de Seguridad y Salud Laboral, 2016-2020, 
+también pone énfasis en la necesidad de actuar ante este 
+tipo de riesgos.
+
+2
+
+ Son también influyentes, por las repercusiones que 
+tienen en la seguridad laboral vial, las acciones del de-
+partamento de carreteras del Ministerio de Fomento, de 
+los órganos competentes de las CC.AA. y de los entes 
+locales,  tanto  de  las  Unidades  de  Vias  Locales  de  las 
+Diputaciones provinciales, como incluso de los Ayunta-
+mientos en la parte vial que les corresponde. Y también, 
+de aquellas que tienen influencia directa en la seguridad 
+del vehiculo, que corresponde a las Unidades adminis-
+tratives, normalmente de Industria, de las CC.AA. Por su 
+parte, el sector del tansporte de mercancias y de viajeros 
+por carretera, entorno metropolitano y urbano ha incor-
+porado tanto desde la vertiente normativa como ejecutiva 
+con los correspondientes controles, una línia de acción 
+preventiva que tiene repercusión en el ámbito laboral. 
+
+La Estrategia de movilidad sostenible española en su 
+apartado  6.1.18.  Planes  de  movilidad  para  empresas  y 
+polígonos industriales o empresariales, hace referencia 
+a que las empresas de más de 400 trabajadores han de 
+elaborar planes de movilidad en el trabajo. A su vez, la 
+Ley  de  Calidad  de  aire  española  lo  obliga  a  partir  del 
+mismo tamaño. 
+
+El  sistema  de  prevención  de  riesgos  laborales  imple-
+mentado en todas las organizaciones debería integrar ple-
+namente los riesgos laborales de tráfico y los derivados 
+de la movilidad de personas y materiales, sin descuidar 
+los desplazamientos al trabajo, a pesar de que no existe 
+la misma responsabilidad empresarial en cuanto a los ac-
+cidentes “in itinere” y los accidentes en jornada de trabajo. 
+Los riesgos laborales viales deben ser evaluados, y contro-
+lados a través de su Planificación preventiva, integrando a 
+la misma el Plan de Seguridad Vial e incluso el de Movili-
+dad. Existe una clara responsabilidad legal de la empresa 
+en los desplazamientos en jornada de trabajo y un desea-
+ble compromiso moral y social en los desplazamientos “in 
+itinere”. Las empresas tienen por tanto responsabilidades 
+en el tema: legales, sociales, ambientales y económicas. 
+Los profesionales de la prevención especializados en esta 
+materia pueden y deben dar una respuesta efectiva a tales 
+responsabilidades. La utilización de un lenguaje común 
+que ayude a clarificar conceptos y criterios, que esta NTP 
+plantea de manera didáctica, puede ser de utilidad para 
+facilitar el entendimiento y la cooperación, y avanzar con 
+mayor rigor y celeridad en este campo.
+
+Por su capacidad de síntesis, se ha incluido un glosario 
+con las definiciones terminológicas asumidas. Se ha cui-
+dado de que los términos utilizados sean coherentes con 
+las definiciones legales existentes o las ya expresadas 
+por administraciones públicas u organismos de reconoci-
+da solvencia. En sucesivas NTP se desarrollarán aspec-
+tos específicos de seguridad y salud laboral derivados de 
+la movilidad de personas y materiales. 
+
+2. ACCIDENTABILIDAD LABORAL DE 
+
+TRÁFICO, ALT
+
+Los accidentes de tráfico son una de las consecuencias 
+negativas del aumento exponencial que ha experimenta-
+do en las últimas décadas el número de vehículos en cir-
+culación y de desplazamientos que se realizan cada día, 
+mayoritariamente en vehículo privado. La concentración 
+de  la  población  y  la  consiguiente  interacción  entre  las 
+distintas redes de movilidad que conviven en el entorno 
+urbano o en las carreteras aumenta la probabilidad de te-
+ner un accidente. Los desplazamientos de ida y vuelta al 
+trabajo representan más del 30% de los desplazamientos 
+que se realizan diariamente. 
+
+La Ley General de la Seguridad Social (Real decreto 
+legislativo 1/1994, de 20 de junio), recoge en su artículo 
+115 el concepto de accidente de trabajo. Lo define como 
+“toda lesión corporal que el trabajador sufra con ocasión 
+o por consecuencia del trabajo que ejecute por cuenta 
+ajena”. La norma también señala que tiene consideración 
+de accidente de trabajo “los que sufra el trabajador al ir 
+o al volver del lugar de trabajo”. Estos son, precisamen-
+te,  los  que  se  conocen  como  accidentes  “in  itínere”  El 
+empresario  debe  declarar  tanto  los  accidentes  que  se 
+producen durante la jornada laboral como los acciden-
+tes “in itinere”, debiendo quedar todos incluidos en un 
+registro. El análisis de este registro debe permitir estimar 
+cuál es el peso de los accidentes de trabajo relacionados 
+con la movilidad en el puesto de trabajo. Los accidentes 
+de tráfico en jornada laboral y por motivos de trabajo se 
+denominan también accidentes en misión:
+
+Según datos del Ministerio de Empleo y SS, se consta-
+
+ta lo siguiente respecto a los ALT en el año 2015:
+ • El 11% de la siniestralidad laboral con baja
+ • El 22,2% de los graves
+ • El 27,5 % de los mortales
+La probabilidad de morir en un ALT es tres veces supe-
+rior que en un AL, no de tráfico, como lo demuestran la 
+siguiente distribución de la siniestralidad:
+
+1 
+
+AL mortal 
+
+1 
+
+ALT mortal
+
+1.000  AL con baja 
+
+333  ALT
+
+Si bien en la última década las cifras de accidentes labo-
+rales no viarios han ido disminuyendo, de manera espe-
+cial en el periodo de crisis económica (2007-2012), con 
+los accidentes laborales viarios no ha sucedido lo mismo, 
+ya que el descenso ha sido muy gradual incluso en el 
+periodo de crisis referido. Y en los dos últimos años se ha 
+producido un repunte del índice de incidencia de los ALT. 
+En el 2013 fue de 388, en el 2014, de 399 y en el 2015 
+de 418. Si bien los ALT mortales han continuado descen-
+diendo, los mortales “in itínere” se han incrementado en 
+los dos últimos años. Así, en 2013 hubo 81, en 2014, 99 
+y en 2015, 101.
+
+Del conjunto de ALT, el 73,4% son in itínere y el 26,6% 
+en  jornada.  El  índice  de  incidencia  de  los  “in  itínere 
+(306,7)  es  2,8  veces  mayor  que  en  jornada  de  trabajo 
+(111), un 2,3% mayor en los graves y 1,4 % en los mortales.
+Los ALT in itínere del 2015 respecto al 2014 se han 
+incrementado un 4,8%, que se había incrementado un 2,8 
+% respecto al 2013 y un 6,1% respecto al 2012.
+
+No todos los accidentes in itínere son de tráfico, lo son 
+el 60%. De forma aproximada, dos terceras partes de los 
+accidentes “in itinere” se producen durante el viaje de ida 
+al trabajo, y una tercera parte durante el de vuelta. La dis-
+minución de la accidentabilidad laboral de tráfico ha sido 
+paulatina en la última década, aunque lo ha sido de una 
+manera más notoria la reducción de la accidentabilidad 
+laboral en general 
+
+Los factores de riesgo de los ALT son múltiples. Des-
+de la perspectiva laboral se incluirían en tres ámbitos: la 
+organización, el vehículo y la persona. Las vías de circu-
+lación generan factores de riesgo significativos, si bien las 
+organizaciones tienen limitada capacidad de intervención 
+ante las mismas, aunque deberían preocuparse de que 
+los  itinerarios  de  los  desplazamientos  y  la  conducción 
+sean seguros. 
+
+Veamos una serie de consideraciones de carácter per-
+sonal. Los accidentes de tráfico ya no recaen tanto en los 
+jóvenes como sucedía antes. Los accidentes de jóvenes 
+en  fines  de  semana  se  han  reducido  sustancialmente, 
+
+Notas Técnicas de Prevención 
+ 
+predominando en la actualidad los accidentes en horario 
+laboral o en los tiempos de los desplazamientos de ida y 
+vuelta al trabajo. No obstante, tienen menos de 34 años el 
+48% de los accidentados en los ALT en jornada y el 51% 
+de los ALT “in itínere”. El índice de incidencia disminuye 
+sustancialmente con la edad, especialmente a partir de 
+los 40 años (Fuente OECT). 
+
+La fatiga y el sueño son dos de las principales causas 
+de distracción al volante que está en el origen de muchos 
+accidentes de tráfico. La distracción, como factor concu-
+rrente está presente en el 40% de los accidentes mortales 
+en carretera y no deja de incrementarse. La distracción al 
+volante, también generada por el uso de teléfonos móviles 
+u otros factores de desatención en la conducción ha ido 
+incrementando su incidencia en los accidentes, en com-
+paración al exceso de velocidad que aún sigue siendo 
+factor de riesgo relevante. Los factores disuasorios han 
+sido determinantes para que el exceso de velocidad haya 
+ido perdiendo peso en la siniestralidad. 
+
+Por  su  parte,  la  somnolencia  suele  ser  debida  al 
+cansancio,  la  derivada  de  la  ingesta  considerable  de 
+alimentos, y la toma de medicamentos, en especial los 
+psicofármacos. La toma de alcohol, que contribuye a la 
+somnolencia y a la limitación de capacidades cognitivas 
+es aun bastante frecuente en conductores afectados por 
+accidentes viales. Las empresas no debieran ser ajenas 
+a tales problemas como el alcoholismo en el trabajo y 
+los malos hábitos en la toma de productos de influencia 
+negativa en la conducción. 
+
+Por otra parte, el estrés, en parte de origen laboral, in-
+crementa la tensión, la fatiga y dificulta el normal descan-
+so. Hay que tener también en cuenta la tensión a la que 
+se ven sometidos los conductores a causa, por ejemplo, 
+de las congestiones habituales de tráfico o la pérdida de 
+horas de descanso. La movilidad es, por lo tanto, un factor 
+de riesgo laboral -que se añade al del propio puesto de 
+trabajo- que tiene consecuencias tanto sobre la salud de 
+los trabajadores afectados como sobre la competitividad 
+de las empresas a consecuencia de los días de baja y del 
+tiempo no productivo. 
+
+La contratación temporal es también un factor de ries-
+go. El Índice de Incidencia de los trabajadores temporales 
+es 1,7 veces mayor que en los indefinidos. (Fuente OECT). 
+También de la misma fuente, las ocupaciones con mayor 
+siniestralidad laboral de tráfico y agentes materiales afec-
+tados, son las siguientes, (año 2015):
+
+Conductores vehículos 
+
+Trabaj. servicios proteccion
+
+Restauración y Comercio
+
+No cualificados y peones
+
+Atención al público
+
+ALT en
+jornada
+
+30,4%
+
+10,2%
+
+8,9%
+
+12,7%
+
+3,7%
+
+ALT in
+itinere
+
+3,6%
+
+3,7%
+
+19,5%
+
+18,5%
+
+8,5%
+
+3
+
+ante factores de estrés a los que puedan estar expuestos. 
+Las actividades con mayores índices de incidencia de ALT 
+en jornada de trabajo son las siguientes, con índices que 
+afortunadamente  están  evolucionando  favorablemente 
+por la implicación de los sectores afectados: 
+
+2014
+
+2015
+
+Actividades postales y de correos 
+
+1.702
+
+1.423
+
+Transporte terrestre 
+
+538
+
+514
+
+Los  agentes  materiales  más  implicados  en  los  ALT  en 
+2015 fueron:
+
+Automóviles
+
+Motocicletas
+
+Camiones, autobuses
+
+Camionetas, furgonetas
+
+Otros vehículos ligeros
+
+ALT en
+jornada
+
+ALT in
+itinere
+
+44,6 %
+
+57,4 %
+
+13,8 %
+
+11,9 %
+
+8,9 %
+
+4,8 %
+
+8,5 %
+
+2,7 %
+
+1,3 %
+
+6,9 %
+
+Es lógico que los automóviles sean los más afectados por 
+los ALT ya que el parque automovilístico es muy superior, 
+y es el medio de desplazamiento más utilizado. Hay que 
+destacar que los equipos móviles de trabajo como la ca-
+rretilla elevadora, el tractor agrícola, la maquinaria para 
+el movimiento de tierras junto al dúmper, utilizado en la 
+construcción, ofrecen una especial peligrosidad y están 
+implicados en muchos accidentes de trabajo aunque no 
+sean de tráfico.
+
+Se  recomienda  consultar  el  OECT,  citado  anterior-
+mente,  en  donde  se  muestra  el  informe  anual  de  la  si-
+niestralidad laboral viaria que le permitirá extraer mayor 
+información al respecto.
+
+3. TERMINOLOGÍA Y CONCEPTOS 
+
+ESENCIALES
+
+Accidente de trabajo derivado de la movilidad
+
+Accidente laboral de tráfico
+
+Es toda lesión corporal que sufre un trabajador con oca-
+sión o por consecuencia del trabajo que ejecuta y en el 
+cual intervenga un vehículo en movimiento en vía pública 
+afectada por la legislación de tráfico, circulando vehículos 
+a  motor.  Quedarían  entonces  excluidos  los  accidentes 
+producidos en vías interiores de centros de trabajo 
+
+Accidente de trabajo “in itinere” 
+
+Es obvio que los conductores de vehículos sean los 
+que más accidentes sufren derivados de su continuada 
+actividad, aunque su profesionalidad sea una ventaja que 
+no  tienen  los  otros  tipos  de  conductores.  Por  ello,  los 
+conductores  profesionales  tienen  muchos  menos  acci-
+dentes “in itínere”. Pero debe hacernos reflexionar que 
+las personas del sector de la restauración y el comercio, 
+el personal poco cualificado y las personas que atienden 
+público sean las que más accidentes “in itínere” sufren, 
+posiblemente debido en parte a una mayor indefensión 
+
+La jurisprudencia ha definido de modo preciso lo que se 
+considera por accidente “in itinere”, puesto que puntualiza 
+lo siguiente:
+ • El accidente debe producirse en el recorrido habitual 
+
+entre el lugar de residencia y el de trabajo. 
+
+ • No deben producirse interrupciones durante dicho re-
+
+corrido habitual.
+
+Hay que tener en cuenta que no todos los accidentes de 
+trabajo “in itínere” son accidentes de tráfico, también hay 
+caídas, patologías no traumáticas, etc.
+
+Notas Técnicas de Prevención4
+
+Accidente de trabajo de conductores profesionales 
+
+Es aquel sufrido o provocado por el trabajador que utiliza 
+el vehículo como centro de trabajo para cumplir su tarea, 
+es  el  caso  de  transportistas,  mensajeros,  conductores 
+de servicios de trasportes o personas que realizan con 
+vehículo propio o de la empresa tareas comerciales y de 
+atención a clientes. Se incluyen también en este grupo, 
+aquellos accidentes en los que están implicados vehícu-
+los y que ocurren en centros de trabajo como las obras, 
+grandes fábricas, zonas de estacionamiento, etc.
+
+Accidente de trabajo en-misión 
+
+Es aquel sufrido por el trabajador que utiliza el vehículo 
+de forma no continuada, pero que debe realizar despla-
+zamientos fuera de las instalaciones de la empresa para 
+cumplir con su misión.
+
+modal de los viajes, número de trabajadores por vehículo 
+estacionado en el recinto de la empresa o particular de 
+los trabajadores, etc.)
+
+Movilidad sostenible en el trabajo
+
+La definición que da al respecto el World Business Council 
+for Sustainable Development (WBCSD), es aquella capaz 
+de satisfacer las necesidades de la sociedad de moverse 
+libremente,  acceder,  comunicarse,  comercializar  o  esta-
+blecer relaciones sin sacrificar otros valores humanos o 
+ecológicos básicos actuales o de futuro. Es decir, sin com-
+prometer el bienestar de las generaciones futuras, esencia 
+del propio concepto de sostenibilidad. De una manera más 
+sintética podríamos decir que también es aquella movili-
+dad eficiente, segura, equitativa, saludable, participativa y 
+competitiva, que en estos mismos términos define ISTAS 
+(Instituto Sindical de Trabajo, Ambiente y Salud).
+
+Terminología sobre movilidad y vías de circulación
+
+Puntos críticos en las vías de circulación
+
+Accesibilidad 
+
+Es la capacidad de desplazarse con facilidad y sin obstá-
+culos físicos a un lugar concreto. Es un concepto vincula-
+do a los lugares, a la posibilidad de obtención de un bien, 
+de un servicio o contacto deseado desde un determinado 
+espacio. Se valora en relación al coste o a la dificultad 
+de desplazamiento que requiere la satisfacción de nece-
+sidades o deseos.
+
+Aparcamiento
+
+Es la superficie de suelo, ya sea público o privado, des-
+tinado al aparcamiento temporal de vehículos, especial-
+mente privados, aunque pueden encontrarse áreas para 
+cualquier  otro  tipo  de  vehículos  o  equipos  móviles  de 
+trabajo.
+
+Itinerario seguro
+
+Son aquellas rutas o caminos que ofrecen seguridad o 
+una mayor seguridad en los desplazamientos, al evitar 
+el  paso  por  puntos  críticos  en  su  recorrido,  ser  entor-
+nos de movilidad más segura, o bien, evitar situaciones 
+conflictivas de circulación como posibles atascos u otros 
+problemas  de  tráfico.  Tales  términos  se  han  utilizado 
+normalmente para designar aquellos recorridos urbanos 
+protegidos que facilitan la movilidad y accesibilidad de 
+un determinado grupo de ciudadanos, como peatones 
+y ciclistas, más vulnerables al tráfico, especialmente en 
+las ciudades. Dentro de tales itinerarios están los carri-
+les  reservados,  adaptados  al  uso  exclusivo  del  trans-
+porte público o de la bicicleta, como es el carril bus/taxi 
+y el carril-bici, respectivamente. Son carriles o caminos 
+destinados exclusivamente a este fin y que no pueden 
+ser compartidos ni por peatones ni por otro tipo de vehí-
+culos. En general no suelen ser habituales en polígonos 
+industriales.
+
+Movilidad 
+
+La movilidad es un concepto relacionado con las perso-
+nas que se desplazan, teniendo en cuanta que ello repre-
+senta el ir de un lugar a otro. La movilidad se utiliza para 
+expresar la facilidad de desplazamiento o como forma 
+de medición de los propios desplazamientos (pasajeros-
+km, medios de transporte, número de viajes, distribución 
+
+Los puntos críticos o puntos negros son aquellos lugares 
+de las vías de circulación que muestran especial peligro-
+sidad a la vista de los accidentes de tráfico que en ellos 
+han acontecido.
+
+Vía de circulación
+
+Las vías de circulación pueden ser públicas y privadas. 
+Las  públicas  cuya  gestión  recae  en  las  diferentes  Ad-
+ministraciones son todas aquellas infraestructuras com-
+puestas por calles en los ámbitos urbanos y residenciales, 
+carreteras, redes ferroviarias y otras vías de tráfico, con 
+sus diferentes tipologías en ámbitos territoriales, que fa-
+cilitan el desplazamiento de vehículos y el transporte de 
+personas y mercancías. Se diferencian de las vías peato-
+nales dedicadas exclusivamente al tránsito de personas. 
+En cambio, la seguridad de las vías privadas de circula-
+ción de vehículos es responsabilidad de sus propietarios.
+
+Intercambiador
+
+Se suele denominar Intercambiador el área destinada de 
+forma permanente a facilitar el intercambio de pasajeros 
+entre distintos medios y modos de transporte.
+
+Terminología sobre medios de transporte
+
+Autobús
+
+El autobús es el medio de transporte público de pasajeros 
+por superficie, de uso urbano o interurbano. Cabe citar la 
+modalidad de “Autobús exprés-lanzadera” que es un ser-
+vicio de autobuses urbanos o discrecionales de empresa 
+que  realizan  trayectos  directos  recogiendo  viajeros  en 
+alguna estación o parada de transporte público cercana 
+hasta  la  empresa  o  empresas  de  destino. Para  reducir 
+gastos de mantenimiento y lograr una mayor explotación 
+del servicio, cabe también alquilar el autobús a una em-
+presa de transporte público en los horarios o momentos 
+oportunos. 
+
+Automóvil
+
+Es el vehículo a motor destinado principalmente al trans-
+porte de personas, sean en el ámbito privado, público, 
+como el taxi, o mixto. Los vehículos de uso privado tam-
+bién suelen denominarse turismos.
+
+Notas Técnicas de PrevenciónBicicleta y motocicleta
+
+La bicicleta es un vehículo de dos ruedas accionado a pe-
+dal que al girar transmite movimiento a una de ellas para 
+desplazarse. La bicicleta eléctrica incorpora un pequeño 
+motor eléctrico de apoyo. La motocicleta es el vehículo a 
+motor de dos ruedas.
+
+Camión
+
+Es  el  vehículo  destinado  principalmente  al  transporte 
+de mercancías por carretera. También puede habilitarse 
+para realizar determinados trabajos como los de auxilio 
+en carretera, transporte militar, y otros.
+
+Ferrocarril
+
+El ferrocarril es el sistema de transporte terrestre guiado 
+por carriles o rieles. El ferrocarril, junto a los restantes 
+sistemas de transporte publico ferroviario como el metro y 
+el tranvía son los medios más eficientes en términos ener-
+géticos y de calidad ambiental. No obstante, no todo es 
+inocuo, la electricidad utilizada proviene de otras fuentes 
+energéticas que pueden ser más o menos contaminantes.
+
+Flota de vehículos compartidos, “carsharing” 
+
+Es otra forma de acceder en coche privado al trabajo me-
+diante el sistema de flota compartida de vehículos, siendo 
+socio de una comunidad de usuarios. Es una forma regu-
+lada de compartir un coche suministrado por una empresa 
+gestora.
+
+Reparto modal de los desplazamientos
+
+Se entiende como la distribución de los ciudadanos en 
+cuanto a sus hábitos de movilidad utilizando unos medios 
+de transporte y sistemas de desplazamiento determina-
+dos. Tal reparto modal que puede ser modificable con 
+visión de sostenibilidad debería poner en equilibrio los 
+intereses personales y colectivos.
+
+Transporte público
+
+Es el conjunto de medios de transporte de personas, de 
+titularidad o concesión pública, gestionado por empresas 
+públicas, privadas o mixtas.
+
+Vehículo compartido, “carpooling” y “vanpooling” 
+
+Es “carpooling” es el que sistema que permite compartir 
+los gastos del desplazamiento entre los usuarios que rea-
+lizan el mismo trayecto, cuando no haya otro medio para 
+desplazarse al trabajo. Cuando el vehículo es facilitado 
+y costeados los gastos por la empresa, por ejemplo tipo 
+lanzadera desde una parada de transporte público, se 
+denomina “vanpooling”. En este último caso la empresa 
+adquiere el vehículo o lo alquila, generalmente es una 
+furgoneta. En cuanto a la conducción, la empresa puede 
+contratar  a  un  conductor  especializado  o  simplemente 
+otorgar esta función a uno de los trabajadores del grupo 
+que comparte el coche.
+
+Terminología sobre organización y conducción segura
+
+Conducción segura
+
+5
+
+tural y continuada de hábitos seguros y saludables en la 
+conducción de vehículos y maquinaria móvil, sabiendo 
+además dar la respuesta idónea ante cualquier adversi-
+dad que surja en el proceso de conducción y transporte 
+de personas o mercancías.
+
+Encuesta de movilidad
+
+Recopilación de datos e información sobre los hábitos de 
+desplazamiento de los trabajadores y sobre la demanda 
+y oferta de servicios de transporte e infraestructuras de 
+movilidad existente.
+
+Gestor de movilidad
+
+Persona encargada de coordinar y facilitar el conjunto de 
+actuaciones en el seno de la organización en pro de una 
+movilidad más segura y sostenible. 
+
+Plan de Seguridad Laboral Vial
+
+Se  entiende  como  Plan  de  Seguridad  Laboral  Vial,  el 
+conjunto  de acciones  planificadas  y  en  proceso  de  im-
+plementación para evitar y controlar los riesgos laborales 
+viales derivados de la movilidad de personas y materiales 
+durante la jornada laboral, sean en el interior del centro de 
+trabajo o en una vía pública. El Plan de Seguridad Laboral 
+Vial debe ser el resultado de la evaluación de los riesgos 
+laborales  viales.  El  Plan  de  Seguridad  Laboral  Vial  de 
+una empresa es la versión pormenorizada que pretende 
+minimizar los riesgos en vía pública de sus trabajadores 
+en circunstancias reconocidas reglamentariamente como 
+laborales. 
+
+Plan de Movilidad
+
+Se entiende como Plan de Movilidad de una organización, 
+el conjunto de acciones planificadas y en proceso de im-
+plementación para mejorar la movilidad de personas a fin 
+de que sea lo más segura, eficiente y sostenible posible, 
+bajo una perspectiva de responsabilidad social, y más 
+allá de las exigencias reglamentarias de seguridad y sa-
+lud laboral de los desplazamientos que realizan los traba-
+jadores durante la jornada laboral. Todo Plan de movilidad 
+de una determinada colectividad debe ser el resultado del 
+estudio de los hábitos y pautas de desplazamiento de los 
+miembros de la misma, así como de sus necesidades. 
+Podrán desarrollarse planes de movilidad de empresas, 
+de municipios y de ámbitos territoriales más amplios.
+
+El Plan de Seguridad Laboral Vial y el Plan de Movili-
+dad deberían estar integrados en cualquier organización 
+en aras a una mayor efectividad.
+
+4. CONSIDERACIONES SOBRE LA MOVILIDAD 
+
+Y LAS VÍAS DE CIRCULACIÓN
+
+El territorio es el soporte físico en el que se produce la 
+movilidad. Las infraestructuras viarias, los diferentes ser-
+vicios de transporte público colectivo, al que se suman 
+los medios privados de transporte, los carriles-bici, las 
+vías peatonales y el resto de itinerarios que confluyen en 
+el espacio público configuran unas redes de movilidad 
+complejas que facilitan los desplazamientos cotidianos 
+de la población. La movilidad actual no puede entenderse 
+sin el flujo permanente de desplazamientos en diferentes 
+medios de transporte, especialmente a motor.
+
+Se entiende como conducción segura, la adopción na-
+
+Los  lugares  de  residencia  y  de  trabajo  han  ido  ale-
+
+Notas Técnicas de Prevención6
+
+jándose, haciendo cada vez más difícil el poder vivir y 
+trabajar en un entorno próximo Se ha diluido el concepto 
+histórico de ciudad compacta en la que confluían armó-
+nicamente actividades cívicas/culturales, económicas y 
+residenciales, y han ido surgiendo barrios o ciudades dor-
+mitorio con limitaciones en infraestructuras de servicios 
+y alejadas de centros cívicos y de producción. Ha habido 
+también una gran concentración urbana de la población 
+en grandes ciudades atraída por la actividad económica 
+que ha ido desarrollándose en sus periferias o áreas me-
+tropolitanas. El desarrollo urbanístico y la separación de 
+actividades se han basado en la movilidad por carretera, 
+favorecida en parte por el bajo coste del petróleo en su 
+momento, convirtiendo al automóvil en el verdadero pro-
+tagonista de tal proceso de crecimiento. Ello ha ido en 
+detrimento del ferrocarril, medio de transporte eco soste-
+nible por excelencia en que se fundamentó el progreso en 
+el siglo XIX y buena parte del siglo XX. Se han construido 
+miles de polígonos industriales y también centros comer-
+ciales y de ocio que requieren necesariamente para su 
+acceso del automóvil, con el impacto socioeconómico y 
+ambiental que ello genera. En Catalunya existen más de 
+mil setecientos polígonos industriales, cuando los muni-
+cipios son cerca de mil. 
+
+En nuestro país se ha hecho una importante apuesta 
+por el ferrocarril de alta velocidad para el transporte de 
+personas entre grandes ciudades y, aunque el ferrocarril 
+de cercanías y el metropolitano siguen teniendo un peso 
+relevante  en  los  desplazamientos  en  algunas  grandes 
+urbes y sus periferias, el transporte interior de mercancías 
+se realiza fundamentalmente por carretera. 
+
+Como se ha mencionado, las estadísticas muestran 
+que  la  movilidad  del  conjunto  de  ciudadanos  y  de  los 
+trabajadores  en  particular  exige  cada  vez  más  tiempo, 
+energía  y  esfuerzo,  lo  que  repercute  en  la  calidad  de 
+vida individual, en el bienestar colectivo, con un impacto 
+socioeconómico considerable. Según datos que aporta 
+la Encuesta de Movilidad de las personas residentes en 
+España (MOVILIA, del 2006-2007) del Ministerio de Fo-
+mento, las personas por razones de trabajo realizan como 
+promedio la mitad del número total de desplazamientos, 
+de los cuales más de un 60% corresponde a viajes de 
+ida o vuelta del trabajo. El coche y la motocicleta son los 
+medios mayormente utilizados (63%). Aproximadamente 
+un 20% se desplazan a pie o con bicicleta y solo un 13% 
+en transporte público. Las diferencias son sustanciales 
+si nos referimos a grandes urbes que requieren largos 
+desplazamientos, o en cambio, a pequeñas ciudades en 
+donde las distancias son mucho menores, siempre que 
+el trabajo sea en el mismo entorno, lo que no siempre 
+sucede. Razones de incremento del coste de la vivienda 
+también han contribuido a que las personas vivan en lu-
+gares alejados de los lugares de concentración residen-
+cial y de actividad económica.
+
+Es  necesario  que  las  diferentes  Administraciones  e 
+instituciones públicas, pero también las instituciones pri-
+vadas y las empresas, cuiden de desarrollar una movili-
+dad que sea lo más sostenible posible. Ante ello, se hace 
+imprescindible una educación para tal movilidad que sea 
+instrumento clave para mejorar la capacidad de las perso-
+nas en ejercer hábitos saludables en sus desplazamientos 
+en beneficio de la salud personal y colectiva. Se trata de 
+cambiar la manera de pensar para incorporar los valores 
+propios de una movilidad y un desarrollo sostenible. Es 
+decir, el civismo, el respeto al medio ambiente, y la toleran-
+cia y consideración a todos los medios de transporte y sis-
+temas de desplazamiento que conviven en la ciudad. Hay 
+que cuidar de utilizar preferentemente medios públicos de 
+
+transporte y mucho menos el automóvil en la medida que 
+ello sea posible, o bien potenciando la intermodalidad en 
+los desplazamientos o compartiendo vehículo. 
+
+Para distancias inferiores a 2 km, ir a pie es el medio de 
+transporte más saludable y eficiente. Teniendo en cuenta 
+que la velocidad media andando suele ser de un metro 
+por segundo. O sea, se tarda 15 minutos en recorrer un 
+kilómetro, puede resultar a determinadas horas del día y 
+ante congestiones de tráfico, la mejor manera de despla-
+zarse. Dado que tal ejercicio físico es saludable vale la 
+pena practicarlo diariamente y estimularlo dentro de las 
+acciones  de  promoción  de  salud  de  las  empresas.  No 
+obstante, en el caso de los polígonos industriales, el ir a 
+pie desde los núcleos urbanos, por su lejanía o razones 
+de inseguridad, no es viable, pero sí habría de resultar 
+provechoso aproximar el transporte público a través de 
+estrategias de cooperación con los ayuntamientos y en-
+tre empresas, así como con una estudiada inter moda-
+lidad del transporte. En general, la elección del medio 
+de transporte es el resultado de confrontar las necesida-
+des de movilidad con las circunstancias personales que 
+condicionan  esta  elección,  y  sobre  todo,  con  la  oferta 
+de transporte público y también, de un espacio público 
+adaptado a los desplazamientos seguros, ya sean a pie 
+o en bicicleta.
+
+Si realmente se quieren reducir los desplazamientos 
+en vehículo privado dentro del reparto modal existente es 
+necesario actuar en diversos frentes: tomando conciencia 
+que los desplazamientos con este medio, a pesar de la 
+comodidad inicial que puede representar -muchas veces 
+más aparente que real- conlleva múltiples desventajas 
+(mayor  tensión  y  fatiga,  coste  económico,  perdida  de 
+tiempo  que  podría  dedicarse  a  actividades  más  relaja-
+das y enriquecedoras de ir en transporte público, etc.). 
+Las alternativas de potenciación y de un mejor aprove-
+chamiento  del  transporte  público,  que  a  veces  puede 
+complementarse  con  medios  de  transporte  puntuales 
+tipo lanzadera para acercar al lugar de destino, y la pro-
+moción del transporte a pie y en bicicleta, con espacios 
+públicos y de accesibilidad e infraestructuras idóneas que 
+lo favorezcan, deberían ser estudiadas para que resulten 
+beneficiosas a los trabajadores y también en pro de una 
+movilidad más sostenible.
+
+Han sido notorios los avances generados en nuestro 
+país, apoyados en la mayoría de los casos por la regla-
+mentación, para permitir la movilidad de todas las perso-
+nas en las vías urbanas y la accesibilidad a medios de 
+transporte colectivo y a edificios públicos, cuando éstas 
+presentan dificultades que les limitan los desplazamien-
+tos a pié. En cambio, la accesibilidad a centros de trabajo 
+que requieran el uso exclusivo del vehículo privado puede 
+verse limitada o imposibilitada para tales personas, lo que 
+indudablemente es un factor de exclusión laboral genera-
+dor de desigualdad, a evitar por razones constitucionales 
+y morales. Además, tener que disponer de vehículo pri-
+vado para poder ir a trabajar no deja de ser también un 
+factor de desigualdad.
+
+La accesibilidad universal se garantiza cuando cual-
+quier  persona,  sea  cual  fuere  su  estado  físico,  puede 
+desplazarse  a  su  lugar  de  trabajo  a  pie,  en  transporte 
+colectivo, con bicicleta o en vehículo adaptado, sin poner 
+en riesgo su integridad y la del resto de ciudadanos. Ello 
+demanda una serie de requisitos tales como que:
+ • Las aceras y vías peatonales han de estar adaptadas 
+a  personas  con  movilidad  reducida  y  no  presentar 
+obstáculos.
+
+ • Los  desplazamientos  en  bicicleta  deben  poder  ser 
+realizados de manera segura mediante carriles bici o 
+
+Notas Técnicas de Prevenciónelementos que protejan a los ciclistas, vulnerables a 
+accidentes por otros medios de transporte que circulen 
+colateralmente. 
+
+Disponibilidad de medios de transporte colectivo cuando 
+las personas no puedan desplazarse a pie o en vehículo 
+propio y la distancia entre el punto de origen y de llegada 
+sea considerable. En todo caso, los medios de transporte 
+colectivo habrían de estar adaptados a las personas con 
+movilidad reducida.
+
+En los casos de polígonos industriales y centros de 
+actividad económica, también es necesario generar iti-
+nerarios seguros que favorezcan la movilidad a pie de 
+trabajadores y trabajadoras, tanto para acceder a ellos 
+desde los núcleos urbanos cuando estén cercanos, como 
+para permitir que se puedan efectuar los desplazamien-
+tos desde las paradas de transporte público. Es habitual 
+encontrarse en entornos laborales con una movilidad a 
+pie peligrosa al carecer de aceras, estar deterioradas, o 
+bien ocupadas por aparcamientos.
+
+Vías de circulación
+
+Las infraestructuras viarias y ferroviarias han sido desde 
+siempre un elemento clave para el desarrollo socioeconó-
+mico de los territorios y de sus asentamientos humanos 
+al  haber  facilitado  el  transporte  de  personas  y  de  mer-
+cancías, algo imprescindible para mantener la actividad 
+económica de las propias urbes y la convivencia social.
+
+Aunque la planificación, construcción y gestión de las 
+vías públicas como también su incidencia en el tráfico, 
+escapan de las posibilidades de decisión de los empre-
+sarios, éstos pueden decidir los itinerarios más seguros 
+para  sus  trabajadores  y  reclamar  mejoras  viales  a  las 
+autoridades, pero sobre todo, conseguir la máxima segu-
+ridad infraestructural de las vías privadas de su respon-
+sabilidad  donde  haya  vehículos,  máquinas  y  personas 
+en movimiento. 
+
+La planificación de tales infraestructuras bajo criterios 
+de sostenibilidad y de calidad de vida, respetando valores 
+ecológicos, ambientales, paisajísticos e histórico/cultura-
+les, permite el desarrollo armónico de los territorios y la 
+intercomunicación entre los mismos. Por tanto, el objetivo 
+de toda política de infraestructuras bajo esta perspectiva 
+no ha de basarse en un crecimiento ilimitado de carrete-
+ras y vías rápidas de superficie, sino que se ha de poder 
+armonizar las necesidades y demandas de comunicación 
+existentes, con un desarrollo sostenible y otros intereses 
+colectivos asociados al bien común.
+
+Como se indicó anteriormente, en las últimas décadas 
+la expansión de las ciudades y entornos metropolitanos, 
+junto a la dispersión de la actividad económica, ha reque-
+rido de una ampliación constante de las infraestructuras 
+viarias. Al crecer exponencialmente el parque automovi-
+lístico y verse fácilmente saturadas las vías de circulación 
+existentes, se han necesitado nuevas ampliaciones o mo-
+dificaciones de las mismas, en un proceso que pareciera 
+no tener límite. Tengamos en cuanta que se ha ocupado 
+más superficie territorial en los últimos 20 años (previa-
+mente a la crisis económica internacional) que todo lo 
+que se había edificado anteriormente por la humanidad. 
+Además, un modelo de crecimiento de concentraciones 
+urbanas  de  baja  altura  y  de  alta  ocupación  superficial 
+genera altos costes, no solo en infraestructuras viarias, 
+sino también en servicios municipales. Todo ello ha es-
+timulado la movilidad con vehículo privado y la demanda 
+de carreteras en un círculo vicioso insostenible. 
+
+Las vías de circulación requieren de una serie de ca-
+racterísticas de diseño y de dimensionado en función de 
+
+7
+
+su finalidad, pero también de su densidad de uso. Son 
+frecuentes los atascos en los accesos a las ciudades en 
+momentos u horas punta con los consiguientes acciden-
+tes y efectos negativos en la población que deben ser en 
+lo posible aminorados, ofreciendo fórmulas alternativas 
+para tales desplazamientos. La información oportuna a 
+los conductores ayuda a paliar en parte tales problemas. 
+Evidentemente, las diferencias entre una carretera local, 
+comarcal, nacional, autovía o autopista son notorias, y 
+los aspectos materiales que las han de conformar, tam-
+bién. Las autovías y autopistas son mucho más seguras 
+que las otras vías al mantenerse completamente sepa-
+rados los dos sentidos de circulación. Los aspectos de 
+seguridad vial son determinantes en su concepción y los 
+organismos públicos responsables de las mismas cuidan 
+obviamente de aplicarlos y mantenerlos. No obstante, son 
+múltiples las causas de accidentes de tráfico que se ge-
+neran por limitaciones en el diseño o estado de las vías 
+de circulación, que pueden ser de muy diversa índole: 
+ •
+
+la propia complejidad geográfica que atraviesan y los 
+conflictos de trazado que han resolverse muchas ve-
+ces con dificultad,
+la poca visibilidad en algunas zonas o puntos críticos, 
+lugares de entrecruzamiento de vehículos, no siempre 
+perfectamente resueltos,
+tráfico excesivo, 
+
+ •
+ • cierta  incompatibilidad  entre  medios  de  transporte, 
+como por ejemplo, entre bicicletas y otros vehículos 
+en una misma vía, 
+
+ •
+ •
+
+ • ausencia  de  arcenes  o  áreas  de  descanso  o  apar-
+camiento  ante  necesidades  que  puedan  surgir  de 
+imprevisto, 
+
+ • mal estado del pavimento o presencia circunstancial 
+
+de objetos o de agentes agresivos o deslizantes,
+fallos de señalización, etc. 
+
+ •
+Agentes ambientales por adversidades climáticas como: 
+lluvia, nieve, viento, etc. pueden alterar  sensiblemente 
+la seguridad de las vías de circulación. Las señales de 
+tráfico  aportan  constantemente  información  vital  para 
+minimizar  las  consecuencias  negativas  que  pudieran 
+generarse, pero aunque resulten esenciales, no pueden 
+suplantar otras medidas materiales del todo necesarias 
+ante el posible error humano. En base a la experiencia 
+de accidentes generados en las vías de circulación, se 
+generan puntos negros o críticos que deben ser en lo 
+posible subsanados, y mientras tanto, conocidos por los 
+conductores para mantener la alerta ante los mismos. La 
+autoridad de tráfico, es responsable de conocer tal infor-
+mación para ponerla a disposición de quienes haya de 
+serles útil. También el ciudadano debe comunicar las de-
+ficiencias que detecte para que puedan ser subsanadas 
+por quien corresponda. Las empresas debieran informar 
+a sus trabajadores de tales puntos críticos en los despla-
+zamientos en misión y también “in itínere”.
+
+Un  principio  esencial  de  seguridad  en  el  diseño  de 
+las vías de circulación es diferenciarlas de las vías pea-
+tonales.  El  que  en  una  misma  vía  confluyan  vehículos 
+y personas al mismo tiempo es un factor de riesgo de 
+graves consecuencias. Ello se resuelve en las ciudades 
+diferenciando completamente tales vías cuando ello es 
+posible. Las aceras son una buena manera de resguardar 
+al peatón, protegiendo y señalizando los lugares de paso 
+en que éste deba cruzar una vía de circulación. 
+
+Lamentablemente,  muchas  veces  en  los  centros  de 
+trabajo  las  aceras  desaparecen,  diferenciándose  las 
+vías de circulación y peatonales en el mejor de los casos 
+solo mediante señalización. Las vías de circulación en 
+el interior de los centros de trabajo deben tener las ca-
+
+Notas Técnicas de Prevención8
+
+racterísticas y dimensionado, acordes a las necesidades 
+de movilidad y tipos de vehículos. Además, deben estar 
+bien señalizadas. El Reglamento de Lugares de Trabajo, 
+RD.486/1997 y su correspondiente Guía Técnica del IN-
+SHT, establecen las condiciones mínimas de seguridad 
+de tales vías interiores de circulación.
+
+Las  estadísticas  sobre  accidentabilidad  viaria  que 
+aporta  la  autoridad  de  tráfico  muestran  como  los  acci-
+dentes en las carreteras han ido disminuyendo de año 
+en año, mientras que han ido en aumento en las zonas 
+urbanas, siendo mayormente afectados los peatones. Por 
+ello  es  necesario  asegurar  una  velocidad  reducida  de 
+los vehículos, en función de los entornos, y proteger a 
+los colectivos vulnerables, teniendo siempre preferencia 
+el peatón frente al vehículo. Los escolares en sus des-
+plazamientos a los centros docentes deben disponer de 
+itinerarios seguros para acceder a los mismos y a todo su 
+entorno en el que puedan desenvolverse. La seguridad 
+de los colectivos más vulnerables que se desplazan en 
+el medio urbano, en especial, niños, personas mayores 
+y personas con movilidad reducida, deben ser objetivos 
+fundamentales de las políticas de planificación y gestión 
+de los espacios y vías públicas
+
+Asociado a las vías de circulación se han de considerar 
+las áreas de aparcamiento necesarias para poder esta-
+cionar los vehículos al llegar a su punto de destino. La 
+realidad demuestra, que la mayoría de vehículos están 
+la mayor parte de su vida útil aparcados, ocupando un 
+
+espacio casi siempre con este único fin. Lo que viene a 
+ser un medio de transporte poco eficiente en términos 
+energéticos y de ocupación.
+
+El uso generalizado de los vehículos como medio de 
+transporte para ir a trabajar viene favorecido por la amplia 
+oferta de aparcamiento en los recintos de las empresas, 
+sean polígonos industriales o centros de actividad eco-
+nómica. Gran parte del suelo que dedican las empresas 
+y  los  polígonos  industriales  a  aparcamiento  suele  ser 
+considerable respecto al dedicado a producción. Se es-
+tima que aproximadamente de los casi 20.000 polígonos 
+industriales en España, más de un 25 % de su superficie 
+está dedicado a aparcamiento. Ello es debido a que el 
+planeamiento urbanístico de los municipios obliga a re-
+servar una parte importante de espacio de los polígonos 
+industriales a tal finalidad. Las situaciones que pueden 
+encontrarse los aparcamientos en el ámbito laboral son 
+muy diversas. Para reducir en lo posible el uso del auto-
+móvil para ir a trabajar es conveniente limitar la oferta de 
+aparcamiento siempre que existan vías alternativas de 
+movilidad. Es responsabilidad de las empresas organizar 
+la asignación de plazas de aparcamiento en sus centros 
+de trabajo y en tal sentido, podrían establecerse criterios 
+de preferencia para personas con limitaciones de movili-
+dad, para vehículos compartidos, plazas para bicicletas y 
+motocicletas, etc. En todo caso, se trata que la gestión del 
+espacio de aparcamiento contemple medidas de estímulo 
+de la movilidad sostenible.
+
+BIBLIOGRAFÍA
+
+Se ha incluido al final de la siguiente NTP
+
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título. 
+
+NIPO: 272-15-025-5
+
+Notas Técnicas de Prevención

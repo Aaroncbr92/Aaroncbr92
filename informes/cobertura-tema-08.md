@@ -13,7 +13,7 @@ direcciones. Las 91 preguntas de `g8.md` se reparten entre **dos temas distintos
 | | Cuántas | De qué |
 | --- | --- | --- |
 | **Tema 8 del general** | **52** | Ley 31/1995, y solo ella |
-| **Tema de PRL del específico** | **39** | pantallas de visualización (**RD 488/1997**), trastornos musculoesqueléticos, incendios (**RD 2267/2004**, extintores, tipos de fuego), accidente **in itinere** e **in misión** (**art. 156 del RDLeg 8/2015**), alta tensión, interruptor diferencial, protección de datos |
+| **Tema de PRL del específico** | **40** | pantallas de visualización (**RD 488/1997**), trastornos musculoesqueléticos, incendios (**RD 2267/2004**, extintores, tipos de fuego), accidente **in itinere** e **in misión** (**art. 156 del RDLeg 8/2015**), alta tensión, interruptor diferencial, protección de datos |
 
 Dos avisos sobre ese reparto, para que se pueda rehacer: la clasificación se hizo **leyendo las
 91**, no por palabra clave, y hay una pregunta de la Ley 31/1995 —la de **cuántos Delegados de
@@ -174,4 +174,4 @@ literales que aún no se han gastado:
 | **A medias** | **2** (monotonía, art. 15.1.d; y la formación como deber del trabajador, que el art. 29 no recoge) |
 | **No contestadas** | **0** |
 | Con la **plantilla oficial equivocada** | **1** (escala del art. 35.2, tramo 251-500) |
-| Preguntas del banco g8 que son del **específico**, no de este tema | **39**, contadas y a la espera del tema de PRL del específico |
+| Preguntas del banco g8 que son del **específico**, no de este tema | **40**, contadas y ya contestadas en `informes/cobertura-tema-prl-especifico.md` |

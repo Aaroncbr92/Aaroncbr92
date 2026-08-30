@@ -32,7 +32,15 @@ def limpia(s):
     for c in DUROS:
         s = s.replace(c, " ")
     s = s.replace("«", '"').replace("»", '"')
-    s = re.sub(r"[‐-―]", " ", s)          # guiones de todo tipo
+    # un PDF parte las palabras al final del renglón: "distancias vi-\nsuales".
+    # Si el guion se cambia por un espacio, esa palabra queda rota y una cita
+    # copiada literalmente sale marcada como "no literal". Eso adiestra a no
+    # mirar la lista, que es donde se esconde el hallazgo de verdad: primero se
+    # cose la palabra partida y luego se tratan los demás guiones
+    # ojo con la clase: "[‐-―]" es el rango U+2010..U+2015 y NO incluye el guion
+    # normal U+002D, que es justo el que usan los PDF para partir palabras
+    s = re.sub(r"[-‐-―]\s*\n\s*", "", s)
+    s = re.sub(r"[-‐-―]", " ", s)         # los guiones que quedan, separadores
     s = re.sub(r"[^a-z0-9ñ%€ ]+", " ", s.lower())
     return re.sub(r"\s+", " ", s).strip()
 

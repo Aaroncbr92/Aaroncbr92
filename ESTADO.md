@@ -90,6 +90,18 @@ en Documentación y en Producción (Asistencia).
       en el HTML ni en la transcripción de texto, y su ausencia no da ningún aviso.
       Descargadas y **transcritas las cinco** en `fuentes/convenio/imagenes/`: la tabla
       del artículo 65 y los anexos 1, 2 y 3.
+- [x] **Bloque común cerrado: los 8 temas del general y el de PRL del específico**, que sirve
+      para las tres ocupaciones como **P18 / D7 / I11**. Con eso está hecho todo lo que rinde
+      por tres.
+- [x] **`refutar_documento.py` cose las palabras que el PDF parte al final del renglón.**
+      Cambiaba el guion por un espacio y una cita literal salía marcada como «no literal»; y la
+      clase de caracteres era el rango `U+2010..U+2015`, que **no incluye el guion normal**, así
+      que el primer arreglo no movió ni una cifra. Corregido: **26 falsos «no literales»** menos
+      en el tema de PRL, y ninguno en el tema 6, que es el otro que usa esta lente.
+- [x] **Fuentes del tema de PRL del específico** en `fuentes/prl-especifico/`: Guía Técnica de
+      pantallas del INSST (junio 2021), documento del INSST sobre TME de la extremidad superior,
+      NTP 536, NTP 1090 y 1091, informe de Seguridad Vial Laboral de la CNSST y la ficha de
+      doctrina del Tribunal Supremo sobre in itinere y en misión, con sus transcripciones.
 - [x] **Las lentes ven los artículos «bis»**: el patrón de la fuente estaba anclado en
       `Artículo (\d+)$` y **«Artículo 32 bis» no acaba en dígito**, así que no entraba en el
       diccionario, **no se comprobaba nunca** y además su texto en el tema se contrastaba
@@ -128,11 +140,9 @@ en Documentación y en Producción (Asistencia).
 
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
-- [ ] **Tema de PRL del específico** (Producción 18, Documentación 7, Información 11),
-      idéntico en los tres. Es el que recoge pantallas de visualización (**RD 488/1997**),
-      trastornos musculoesqueléticos, incendios y accidente **in itinere** o **in misión**:
-      **39 preguntas del banco `g8.md` son suyas**, no del tema 8, y están contadas en
-      `informes/cobertura-tema-08.md`.
+- [ ] **Fase B: los tres temarios específicos.** Documentación es el más corto (6 temas),
+      Producción (Asistencia) el más largo (17) e Información y Contenidos el más entrelazado
+      con el general (10). El orden y el tratamiento de los temas sin norma detrás, en `PLAN.md`.
 
 ## Qué comprobación pasa por qué material
 
@@ -149,6 +159,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 6 · Igualdad | sí | sí | sí | sí | sí | sí, limpia | 39 de 39 enteras |
 | General 7 · Ley 13/2022 | sí | sí | sí | sí | sí | sí, con 11 salvedades declaradas | 34 de 34 enteras |
 | General 8 · Ley 31/1995 | sí | sí | sí | sí | sí | sí, con 3 falsos positivos declarados | 49 de 52 enteras, 2 a medias |
+| PRL del específico (P18/D7/I11) | sí | sí | sí | sí | sí | sí, limpia | 34 de 40 enteras, 1 con matiz, 5 fuera de tema |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

@@ -1,0 +1,9525 @@
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INDICE  
+
+INTRODUCCIÓN ............................................................................................................................... 4 
+
+INFORME DE ACCIDENTES LABORALES DE TRÁFICO ....................................................................... 6 
+
+1.  METODOLOGIA .................................................................................................................... 6 
+
+1.1. 
+
+DATOS UTILIZADOS ...................................................................................................... 6 
+
+1.2. 
+
+INDICADORES CALCULADOS: INTERPRETACIÓN .......................................................... 7 
+
+2.  RESULTADOS ........................................................................................................................ 8 
+
+2.1. 
+
+SINIESTRALIDAD DEL ALT EN JORNADA DE TRABAJO ................................................ 11 
+
+2.1.1. 
+
+Sexo .................................................................................................................... 11 
+
+2.1.2. 
+
+Edad ................................................................................................................... 13 
+
+2.1.3. 
+
+Nacionalidad ...................................................................................................... 14 
+
+2.1.4. 
+
+Ocupación del trabajador .................................................................................. 14 
+
+2.1.5. 
+
+Tipo de contratación .......................................................................................... 16 
+
+2.1.6. 
+
+Sector de actividad de la empresa ..................................................................... 16 
+
+2.1.7. 
+
+División de actividad de la empresa .................................................................. 17 
+
+2.1.8. 
+
+Agente relacionado con el ALT .......................................................................... 18 
+
+2.1.9. 
+
+Día de la semana en que tuvo lugar el ALT en jornada ..................................... 19 
+
+2.1.10.  Hora del día en que tuvo lugar el ALT en jornada ............................................. 20 
+
+2.1.11.  Mes en que tuvo lugar el ALT en jornada .......................................................... 20 
+
+2.2. 
+
+SINIESTRALIDAD DEL ALT IN ITINERE ......................................................................... 21 
+
+2.2.1. 
+
+Sexo .................................................................................................................... 21 
+
+2.2.2. 
+
+Edad ................................................................................................................... 23 
+
+2.2.3. 
+
+Nacionalidad ...................................................................................................... 23 
+
+2.2.4. 
+
+Ocupación del trabajador .................................................................................. 24 
+
+2.2.5. 
+
+Tipo de contratación .......................................................................................... 25 
+
+2.2.6. 
+
+Sector de actividad de la empresa ..................................................................... 26 
+
+2.2.7. 
+
+División de actividad de la empresa .................................................................. 27 
+
+2.2.8. 
+
+Agente relacionado con el ALT in itínere ........................................................... 28 
+
+2.2.9. 
+
+Día de la semana en que tuvo lugar el ALT in itínere ........................................ 29 
+
+2.2.10.  Hora del día en que tuvo lugar el ALT in itínere ................................................ 30 
+
+2.2.11.  Mes en que tuvo lugar el ALT in itínere ............................................................. 30 
+
+2.3.  MORTALIDAD DEL ALT EN JORNADA DE TRABAJO .................................................... 31 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+2 
+
+ 
+ 
+ 
+ 
+2.3.1. 
+
+Sexo .................................................................................................................... 31 
+
+2.3.2. 
+
+Edad ................................................................................................................... 33 
+
+2.3.3. 
+
+Nacionalidad ...................................................................................................... 33 
+
+2.3.4. 
+
+Ocupación del trabajador .................................................................................. 34 
+
+2.3.5. 
+
+Tipo de contratación .......................................................................................... 35 
+
+2.3.6. 
+
+Sector de actividad de la empresa ..................................................................... 36 
+
+2.3.7. 
+
+División de actividad de la empresa .................................................................. 37 
+
+2.4.  MORTALIDAD DEL ALT IN ITINERE ............................................................................. 38 
+
+2.4.1. 
+
+Sexo .................................................................................................................... 38 
+
+2.4.2. 
+
+Edad ................................................................................................................... 39 
+
+2.4.3. 
+
+Nacionalidad ...................................................................................................... 40 
+
+2.4.4. 
+
+Ocupación del trabajador .................................................................................. 40 
+
+2.4.5. 
+
+Tipo de contratación .......................................................................................... 42 
+
+2.4.6. 
+
+Sector de actividad de la empresa ..................................................................... 43 
+
+2.4.7. 
+
+División de actividad de la empresa .................................................................. 44 
+
+3.  ANEXO I: INDICE DE INCIDENCIA DE ALT EN JORNADA DE TRABAJO SEGÚN DIVISIÓN DE 
+ACTIVIDAD. AÑO 2014 ............................................................................................................... 45 
+
+4.  ANEXO II: INDICE DE INCIDENCIA DE ALT IN ITINERE SEGÚN DIVISIÓN DE ACTIVIDAD. AÑO 
+2014 ........................................................................................................................................... 53 
+
+5.  ANEXO III: INDICE DE INCIDENCIA DE ALT MORTALES EN JORNADA DE TRABAJO  SEGÚN 
+DIVISIÓN DE ACTIVIDAD. AÑO 2014 .......................................................................................... 58 
+
+6.  ANEXO IV: INDICE DE INCIDENCIA DE ALT MORTALES IN ITINERE SEGÚN DIVISIÓN DE 
+ACTIVIDAD. AÑO 2014 ............................................................................................................... 60 
+
+OTROS DATOS RECOPILADOS POR EL GRUPO DE TRABAJO .......................................................... 62 
+
+1. ALCOHOL, DROGAS Y OTRAS SUSTANCIAS PSICOACTIVAS .................................................... 62 
+
+1.1 
+
+1.2 
+
+CONSUMO Y TRABAJO ............................................................................................... 62 
+
+CONSUMO Y ACTIVIDAD DE CONDUCIR .................................................................... 67 
+
+2.  ANTIGUEDAD DEL PARQUE MÓVIL .................................................................................... 71 
+
+ACCIONES DESARROLLADAS E IDENTIFICADAS POR EL GRUPO TÉCNICO DE LA AGE ................... 74 
+
+ACCIONES DESARROLLADAS POR LAS ADMINISTRACIONES AUTONÓMICAS ............................... 79 
+
+ÍNDICE DE GRÁFICOS .............................................................................................................. 89 
+
+ÍNDICE DE TABLAS .................................................................................................................. 90 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+INTRODUCCIÓN 
+
+Los  desplazamientos  por  carretera  son  uno  de  los  factores  clave  para  el  desarrollo  social  y 
+económico  y  para  la  cohesión  de  los  distintos  territorios.  Sin  embargo,  tienen  como 
+contrapartida una elevada siniestralidad. 
+
+La Seguridad Vial es un tema de gran actualidad e interés en la sociedad española. Son muchos 
+los minutos que los medios de comunicación dedican a este tema, debido a que anualmente se 
+producen miles de accidentes de tráfico con graves repercusiones humanas y económicas que, 
+en  muchos  casos,  podrían  haber  sido  evitados  con  la  aplicación  de  medidas  preventivas.  Por 
+ello, se hace imprescindible un profundo estudio en esta materia. 
+
+La Seguridad Vial Laboral se considera una parte de la Seguridad Vial, pero a su vez su conexión 
+con  la  Seguridad  y  Salud  en  el  Trabajo  es  directa.  Pues  bien,  el  pilar  fundamental  para 
+desarrollar  una  política  de  protección  de  la  salud  de  los  trabajadores  en  relación  con  la 
+seguridad vial laboral es la prevención de los riesgos derivados del trabajo. 
+
+Los accidentes laborales de tráfico se pueden producir en las instalaciones de la empresa, pero 
+fundamentalmente  tienen  lugar  fuera  de  ella,  bien  al  dirigirse  o  al  regresar  del  trabajo  (in 
+itínere) o bien realizando el trabajo fuera de la empresa (en misión). La actuación inspectora se 
+produce sobre el control de la responsabilidad empresarial en el accidente en misión, donde se 
+centra el ámbito  de  responsabilidad  en esta  materia,  y  en el caso del accidente “in itínere” lo 
+que  podemos  tener  en  todo  caso  es  el  ejercicio  de  “buenas  prácticas”,  que  serían  voluntarias 
+por  parte  de  la  empresa,  y  que  no  se  pueden  exigir  por  el  órgano  de  fiscalización  que  es  la 
+Inspección de Trabajo y Seguridad Social (ITSS). 
+
+En el presente informe la accidentabilidad laboral se estudiará en gran parte a partir de una de 
+las  principales  fuentes  de  información  que  existen,  los  datos  aportados  por  el  Ministerio  de 
+Empleo  y  Seguridad  Social  (MEYSS).  En  concreto,  se  tomará  como  referencia  los  informes 
+anuales relativos a los ALT, cuya finalidad ha sido y sigue siendo profundizar en el conocimiento 
+de la siniestralidad laboral que está relacionada con el tráfico1, que elabora el Instituto Nacional 
+de Seguridad e Higiene en el Trabajo (INSHT) desde el año 2007. 
+
+Recogiendo  la  sensibilidad  y  preocupación  de  la  sociedad  y  los  grupos  parlamentarios  en  los 
+temas de seguridad vial laboral, el Congreso de los Diputados, con fecha 18 de febrero de 2011, 
+instó  al  Gobierno  a  tomar  una  serie  de  medidas  relacionadas  con  la  mejora  en  la  prevención 
+laboral  y  la  seguridad  vial,  principalmente  en  lo  relacionado  con  el  seguimiento  de  datos  de 
+accidentabilidad, planificación en la mejora de la seguridad en los desplazamientos relacionados 
+con  la  actividad  laboral,  promoción  y  participación.  Como  primera  consecuencia  de  ésto,  se 
+firma, con fecha 1 de marzo de 2011, el Acuerdo entre el Ministerio del Interior y el entonces 
+Ministerio de Trabajo e Inmigración para la prevención de los accidentes de tráfico relacionados 
+con el trabajo. 
+
+1 INSHT. Estudios sobre accidentes de trabajo relacionados con el tráfico 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+4 
+
+ 
+ 
+ 
+                                                           
+Dentro del marco de actuaciones reglamentarias, el Real Decreto 404/2010 de 31 marzo, surge 
+como resultado de las diferentes líneas de actuación que recogió en su día la Estrategia Española 
+de  Seguridad  y  Salud  en  el  Trabajo  2004-2012,  y  regula  el  establecimiento  de  un  sistema  de 
+reducción  de  las  cotizaciones  por  contingencias  profesionales  a  las  empresas  que  hayan 
+contribuido especialmente a la disminución y prevención de la siniestralidad laboral, y cuál es el 
+modo en que se asignan las bonificaciones correspondientes. En este real decreto se establece 
+un sistema de incentivos en las cuotas por contingencias profesionales a aquellas empresas que 
+alcancen índices de siniestralidad por debajo del promedio del sector. 
+
+El RD 404/2010 de 31 de marzo, establece la posibilidad de que el plan de movilidad vial pueda 
+alegarse como uno de los requisitos válidos que pueden presentar las empresas 
+
+Simultáneamente  a  estas  actuaciones  normativas,  se  desarrollaron  otras  de  carácter  técnico, 
+como es la publicación de la “Guía Metodológica para la elaboración del plan Tipo de Seguridad 
+Vial en la Empresa”2 , producto de la colaboración entre la Dirección General de Tráfico (DGT) y 
+el INSHT. 
+
+En  este  mismo  año,  la  ITSS  publicó  también  la  “Guía  para  las  actuaciones  de  la  Inspección  de 
+Trabajo en materia de seguridad vial en las empresas”3. En ella se introduce una nueva variable 
+en  la  actuación  inspectora  de  vigilancia  y  control  sobre  las  condiciones  de  seguridad  de  los 
+trabajadores  en  un  campo  hasta  ahora,  fiscalizado  principalmente por otras Administraciones. 
+Se trata de la disciplina técnica Seguridad Vial Laboral. 
+
+Paralelamente, la Comisión Nacional de Seguridad y Salud en el Trabajo (CNSST), en su reunión 
+plenaria del  día  21  de  junio  de  2011,  acuerda la creación de un Grupo  de  Trabajo de carácter 
+temporal  sobre  Seguridad  Vial  Laboral,  cuyo  mandato  indica  que  los  trabajos  del  grupo  se 
+orientarán a los siguientes objetivos:  
+
+-  Analizar los datos estadísticos de los accidentes de tráfico laborales, y 
+-  Analizar  la  problemática  derivada  de  los  accidentes  de  tráfico  laborales  en  jornada  de 
+
+trabajo, y propuesta de medidas a adoptar. 
+
+2 http://www.dgt.es/Galerias/seguridad-vial/politicas-viales/sectoriales/doc/seguridad_vial_empresa.pdf  
+
+3 
+http://www.empleo.gob.es/itss/ITSS/ITSS_Descargas/Atencion_ciudadano/Normativa_documentacion/D
+ocum_ITSS/GuiaITSS_vial.pdf 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+INFORME DE ACCIDENTES LABORALES 
+DE TRÁFICO 
+
+1. METODOLOGIA 
+
+1.1. 
+
+DATOS UTILIZADOS 
+
+Los datos analizados  proceden  del  fichero informatizado de los partes oficiales de notificación 
+de  accidente  de  trabajo  del  MEYSS  del  año  2014.  Los  partes  de  accidentes  de  trabajo  se 
+registran a través de la Declaración Electrónica de Trabajadores Accidentados (Sistema Delt@) y 
+los registros autonómicos propios de Cataluña y País Vasco, y toda esta información converge en 
+la base de datos ESTADEL. 
+
+ESTADEL es la base de datos que se utiliza para la realización de la Estadística de Accidentes de 
+Trabajo,  incluida  en  el  Plan  Estadístico  Nacional,  elaborada  por  la  S.G.  de  Estadística  del 
+Ministerio  de  Empleo  y  Seguridad  Social.  Esta  base  de  datos  se  nutre  de  descargas  de 
+información  diarias  desde el  Sistema  Delt@ y de la  información contenida en los ficheros que 
+mensualmente se envían desde las Autoridades Laborales de Cataluña y el País Vasco.  
+
+CONCEPTOS  
+
+La notificación de los accidentes de trabajo viene regulada por la ORDEN TAS/2926/2002, de 19 
+de noviembre, por la que se establecen nuevos modelos para la notificación de los accidentes de 
+trabajo y se posibilita su transmisión por procedimiento electrónico. En el anexo de dicha orden 
+se presenta el modelo de PARTE DE ACCIDENTE DE TRABAJO, que en el apartado 3.- LUGAR Y/O 
+CENTRO DE TRABAJO DONDE HA OCURRIDO EL ACCIDENTE muestra las siguientes posibilidades: 
+-En el centro o lugar de trabajo habitual; - En otro centro o lugar de trabajo; - En desplazamiento 
+en su jornada laboral; - Al ir o volver del trabajo, “in itinere”.  Les sigue una casilla que indica        
+“Además, marque si ha sido accidente de tráfico”. 
+
+Es posible, por tanto, que los accidentes de trabajo sucedidos en centro o lugar de trabajo y en 
+desplazamiento  sean,  o  no,  accidentes  de  tráfico;  y  lo  mismo  ocurre  con  los  accidentes  in 
+itínere. 
+
+Por  ello  se  explican  a  continuación  los  conceptos  manejados  a  efectos  del  presente 
+informe,  que  no  son  propuestas  de  definiciones  legales,  ya  que  no  están  mencionados  como 
+tales en la legislación, pero que resultarán explicativos en la lectura de este documento. 
+
+Se entiende por accidente laboral de tráfico (ALT) aquel accidente de trabajo registrado en la 
+base de datos ESTADEL, en el que se ha consignado la casilla correspondiente a ACCIDENTE DE 
+TRÁFICO. 
+
+Por  lo  anteriormente  mencionado,  los  accidentes  laborales  de  tráfico  son  la  suma  de  los 
+accidentes laborales de tráfico que suceden durante la jornada de trabajo (tanto en los centros 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+6 
+
+ 
+ 
+ 
+de  trabajo  como  en  los  desplazamientos  durante  la  jornada)  más  los  accidentes  laborales  de 
+tráfico que suceden in itínere. 
+
+ALT= ALT en jornada + ALT in itínere 
+
+Se  entiende  por  accidente  laboral  de  tráfico  en  jornada  de  trabajo  (ALT  en  jornada)  el 
+accidente  de  trabajo  registrado  a  través  del  sistema  ESTADEL,  que  ha  sucedido  durante  la 
+jornada habitual de trabajo y en el que se ha consignado la casilla correspondiente a ACCIDENTE 
+DE TRÁFICO. 
+
+Se entiende por  accidente  laboral  de tráfico in itínere (ALT in itínere)  el accidente de trabajo 
+registrado a través del sistema ESTADEL, que ha sucedido al ir o volver del domicilio habitual al 
+centro  de  trabajo  o  viceversa,  y  en  el  que  se  ha  consignado  la  casilla  correspondiente  a 
+ACCIDENTE DE TRÁFICO. 
+
+1.2. 
+
+INDICADORES CALCULADOS: INTERPRETACIÓN 
+
+Para cada variable de estudio se calculan los siguientes parámetros: 
+
+-  Distribución porcentual de la variable: 
+
+ (Nº ALT en la categoría de estudio/Nº ALT total categorías de la variable) x 100 
+
+Ejemplo: ALT en jornada de trabajo 
+
+Variable sexo. Categorías: Hombre, Mujer 
+
+(Nº  ALT  en  hombres/Nº  ALT  total  hombre  +  mujer)  x  100  =  (11.298/14.406)  x  100  = 
+78,4% 
+
+(Nº ALT en mujeres/Nº ALT total hombre + mujer) x 100 = (3.108/14.406) x 100 = 21,6% 
+
+La  distribución  de  los  ALT  según  la  variable  sexo  muestra  que  hay  más  hombres  que 
+mujeres afectados por el ALT (el grupo de hombres accidentados es más numeroso que 
+el grupo de mujeres accidentadas).  
+
+Con este parámetro se localizan los grupos más numerosos de trabajadores afectados 
+por ALT.  
+
+- 
+
+Índice de incidencia: 
+
+(Nº ALT /Población afiliada a la SS con la contingencia de AT y EP cubierta) X 100.000 
+
+Para el cálculo de los índices de incidencia anuales la población afiliada a la SS con la 
+contingencia de AT y EP cubierta es el dato anual obtenido como media de los datos 
+de afiliados a fin de mes. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+La  interpretación  de  este  indicador  es  similar  a  la  que  se  aplica  a  las  tasas 
+epidemiológicas de incidencia: la relativización del número de personas que sufren 
+el daño con el número de personas susceptibles de padecerlo indica una medida de 
+riesgo relativo. Con este indicador se localizan los grupos de trabajadores en los que 
+el riesgo de sufrir el ALT es mayor. Se ha utilizado para las variables sexo, grupo de 
+edad, sector económico, división de actividad, nacionalidad y ocupación. 
+
+Siguiendo con el ejemplo: ALT en jornada de trabajo 
+Variable sexo. Categorías: Hombre, Mujer 
+Índice de incidencia hombres: 161,2 
+Índice de incidencia mujeres: 48,4 
+
+El  riesgo  de  sufrir  un  ALT  en  jornada  de  trabajo  es  mayor  en  hombres  que  en 
+mujeres (en concreto 161,2/48,4 =3,3 veces mayor). 
+
+- 
+
+Existe una variable socio-laboral importante, la ocupación del trabajador, para la 
+que no es posible en la actualidad obtener la distribución de afiliados a la SS con la 
+contingencia de AT y EP cubierta. 
+
+En  este  caso  se  ha  optado  por  calcular  el  índice  de  incidencia  utilizando  como 
+denominador la población ocupada distribuida por ocupación del trabajador según la 
+Encuesta de Población Activa (EPA).  
+
+En  el  número  de  ALT  del  numerador  están  contabilizados  los  accidentes  que  han 
+sufrido  los  trabajadores  asalariados  y  los  trabajadores  autónomos  que  han  optado 
+voluntariamente por cotizar por las contingencias de AT y EP. En el denominador se 
+están  contabilizando  colectivos  que  no  tienen  la  contingencia  de  AT  y  EP  cubierta  
+por la Seguridad Social (los funcionarios adscritos a las Mutualidades MUFACE, ISFAS 
+y MUGEJU) y los trabajadores autónomos que han optado por no cotizar por AT y EP. 
+
+2. RESULTADOS 
+
+En el año 2014, se han registrado 491.099 accidentes de trabajo con baja, según la Estadística de 
+Accidentes de Trabajo4. 
+
+De  estos  accidentes,  54.416  fueron  accidentes  de  tráfico  (ver  gráfico  1),  siendo  por  ello 
+denominados accidentes laborales de tráfico (ALT). Suponen un 11,1% del total de accidentes de 
+trabajo. 
+
+4 http://www.empleo.gob.es/estadisticas/eat/welcome.htm. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Es interesante observar que no todos los accidentes in  itínere notificados a través del Sistema 
+Delt@  son  considerados  accidentes  de  tráfico,  aunque  si  la  mayoría  (60,1%).  El  24,8%  de  los 
+accidentes  in    itínere  fueron  golpes  o  atrapamientos  resultado  de  caídas  y  el  7,8%  fueron 
+sobresfuerzos. Estos accidentes no son objeto de este estudio y están excluidos de la cifra total 
+de ALT. 
+
+Gráfico 1.- Distribución de los accidentes de trabajo según tipo de accidente 
+
+En términos de gravedad, la importancia del ALT es indudable, ya que su porcentaje de aparición 
+aumenta según se agrava el suceso (ver tabla 1). 
+
+Tabla 1.- Distribución de los ALT según gravedad 
+
+Accidente de 
+tráfico 
+
+Total 
+
+No 
+
+Si 
+
+Leves 
+
+Graves 
+
+Nº 
+
+% 
+
+432.969  89,0% 
+
+% 
+
+Nº 
+3.304  78,4% 
+
+Mortales 
+% 
+Nº 
+70,7%  436.683  88,9% 
+
+Total 
+
+Nº 
+410 
+
+% 
+
+53.337  11,0% 
+
+909  21,6% 
+
+170 
+
+29,3% 
+
+54.416  11,1% 
+
+486.306  100,0% 
+
+4.213  100,0% 
+
+580 
+
+100,0%  491.099  100,0% 
+
+En los accidentes de trabajo leves el peso porcentual del ALT es del 11%, aumenta en el caso de 
+los accidentes de trabajo graves al 21,6% y en el caso de los accidentes de trabajo mortales los 
+ALT representan el 29,3%. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+En términos de índice de incidencia5 (II), el año 2014 (ver tabla 2) muestra un índice de 398,7 
+ALT por cien mil trabajadores; este resultado es un 2,81% mayor que el índice del año 2013, que 
+a su vez había aumentado un 6,1% respecto al año 2012. Estos resultados muestran un patrón 
+ascendente de  la accidentalidad  laboral de tráfico que también se observa en la siniestralidad 
+laboral general. 
+
+Tabla 2.- Índices de incidencia de ALT según tipo de accidente y gravedad 
+
+ALT 
+
+Nº AT En 
+jornada 
+
+II en 
+jornada 
+
+Nº AT In 
+itínere 
+
+Leve 
+Grave 
+Mortal 
+Total 
+
+14.145 
+261 
+71 
+14.477 
+
+103,6 
+1,9 
+0,5 
+106,1 
+
+39.192 
+648 
+99 
+39.939 
+
+II in 
+itínere 
+287,2 
+4,7 
+0,7 
+292,6 
+
+Nº Total 
+AT 
+53.337 
+909 
+170 
+54.416 
+
+II total 
+
+390,8 
+6,7 
+1,2 
+398,7 
+
+En  las  observaciones  que  se  muestran  en  los  siguientes  párrafos  hay  que  tener  en  cuenta  la 
+siguiente  consideración:  la  población  que  se  utiliza  en  los  cálculos  de  índices  es  siempre  la 
+población general de afiliados a la Seguridad Social con la contingencia cubierta. El tratar de ALT 
+in itínere de tráfico puede asumirse que la mayoría de esta población es susceptible de sufrirlos. 
+En  el  caso  de  los  ALT  en  jornada  también  se  hace  dicha  asunción,  debido  a  la  dificultad  que 
+existe  para  disponer  del  dato  preciso,  siendo  conscientes  de  que  la  población  con  riesgo  de 
+sufrir el ALT en jornada probablemente es menor que la utilizada. 
+
+La incidencia de ALT in itínere (292,6)  es 2,8 veces mayor que la incidencia de ALT en jornada de 
+trabajo (106,1), lo que confirma la importancia de estos accidentes dentro del conjunto de ALT, 
+que ya se había observado en su distribución porcentual. 
+
+Considerando  los  siniestros  de  mayor  gravedad,  los  accidentes  mortales,  el  II  de  los  ALT  in 
+itínere es 1,4 veces mayor que el II de los ALT en jornada. En el caso de accidentes graves los ALT 
+in itínere presentan una incidencia 2,5 veces mayor. 
+
+Respecto  al  año  2013,  el  índice  de  incidencia  de  los  ALT  en  jornada  ha  disminuido  el  1%  y  el 
+índice de ALT in itínere se ha incrementado el 4,2%. 
+
+Realizando  la  comparación  de  los  índices  de  incidencia  durante  los  últimos  siete  años  (2007-
+2014) se observa que el II de ALT total ha disminuido el 28,4% (33,5% el II de ALT en jornada y 
+26,3% el II de ALT in itínere) (ver tabla 3). 
+
+El  comportamiento  de  los  cuatro  sectores  de  actividad  principales,  ha  sido  desigual  en  los 
+últimos siete años:  
+Respecto a los ALT en jornada, la mayor disminución la ha experimentado la Industria (44,2%). 
+En el polo opuesto se encuentra Construcción con un aumento del 4,6%. 
+
+5 Índice de incidencia: (Nº accidentes / Población afiliada a la SS con la contingencia de AT y EP cubierta) x 
+100.000. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+En cuanto a los ALT in itínere, son muy elevadas las disminuciones de la Industria (44,6%) y la 
+Construcción (46,4%). Agrario aumenta el 1,3%. 
+
+Tabla 3.- Comparación de los índices de incidencia de ALT según sector y tipo de accidente. 2007-2014 
+
+Sector 
+
+Agrario 
+Industria 
+Construcción 
+Servicios 
+Total 
+
+II ALT 
+en 
+jornada 
+45,8 
+112,5 
+155,8 
+178,2 
+159,5 
+
+2007 
+II ALT 
+in 
+itínere 
+
+II ALT 
+total 
+
+173,2  219,0 
+453,7  566,2 
+467,0  622,8 
+384,0  562,2 
+397,0  556,5 
+
+II ALT 
+en 
+jornada 
+32,6 
+62,8 
+163,0 
+114,3 
+106,1 
+
+2014 
+II ALT 
+in 
+itínere 
+175,5 
+251,5 
+250,1 
+309,6 
+292,6 
+
+II ALT 
+total 
+
+208,1 
+314,3 
+413,1 
+423,9 
+398,7 
+
+II ALT 
+total 
+
+Dif % 2007-2014 
+II ALT 
+in 
+itínere 
+1,3 
+-44,6 
+-46,4 
+-19,4 
+-26,3 
+
+II ALT 
+en 
+jornada 
+-28,8 
+-44,2 
+4,6 
+-35,9 
+-33,5 
+
+-5,0 
+-44,5 
+-33,7 
+-24,6 
+-28,4 
+
+A partir de este momento, se estudiarán por separado los ALT en jornada de trabajo y los ALT in 
+itínere, 
+intentando  profundizar  en  cada  caso  en  sus  características  fundamentales  y 
+diferenciadoras. 
+
+2.1. 
+
+SINIESTRALIDAD DEL ALT EN JORNADA DE TRABAJO 
+
+2.1.1.  Sexo 
+
+En 2014 prácticamente el 79% de los ALT en jornada de trabajo los sufrieron hombres. Además, 
+el sexo masculino presenta mayor incidencia y por lo tanto mayor riesgo de sufrir este tipo de 
+accidentes. 
+
+Tabla 4.- Distribución % de ALT en jornada de trabajo según sexo  
+
+Sexo 
+
+ALT en 
+jornada 
+de 
+trabajo 
+
+% 
+
+Índice de 
+incidencia 
+
+Varón 
+
+11.358 
+
+78,5 
+
+159,6 
+
+Mujer 
+
+3.119 
+
+21,5 
+
+47,7 
+
+Total 
+
+14.477 
+
+100,0 
+
+106,1 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 2.- Índice de incidencia de ALT en jornada de trabajo según sexo 
+
+Para profundizar un poco más en el conocimiento de las diferencias por sexo, se ha valorado la 
+actividad  que  estaba  realizando  el  trabajador  en  el  momento  del  accidente,  en  el  sentido  de 
+considerar  si  era  el  conductor  del  vehículo,  un  pasajero,  o  estaba  en  las  inmediaciones  del 
+suceso viéndose involucrado en él (ver tabla 5). 
+
+Se  observa  que  la  actividad  de  conducir  es  menos  frecuente  en  las  mujeres  implicadas  en  el 
+accidente de tráfico en jornada de trabajo que en los hombres, y por lo tanto son mayores las 
+proporciones  de  pasajeras  y  otras  actividades:  de  las  mujeres  accidentadas  en  jornada  de 
+trabajo  el  10,6%  eran  pasajeras  y  el  18,8%  realizaban  otras  actividades,  mientras  que  los 
+porcentajes equivalentes de los varones son 7,2% pasajeros y 13,4% otras actividades distintas 
+de la conducción. 
+
+Tabla 5.- Distribución % de ALT en jornada según sexo y actividad que se realizaba en el momento del 
+accidente  
+
+Sexo 
+
+Actividad 
+
+ALT en 
+jornada de 
+trabajo 
+
+%  
+
+Varón 
+
+Conducir 
+
+9.018 
+
+79,4 
+
+Ser pasajero 
+
+823 
+
+7,2 
+
+Otra 
+actividad  
+Total 
+
+1.517 
+
+13,4 
+
+11.358 
+
+100,0 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+Sexo 
+
+Actividad 
+
+ALT en 
+jornada de 
+trabajo 
+
+%  
+
+Mujer 
+
+Conducir 
+
+2.201 
+
+70,6 
+
+Ser pasajera 
+
+332 
+
+10,6 
+
+Otra 
+actividad  
+Total 
+
+586 
+
+18,8 
+
+3.119 
+
+100,0 
+
+2.1.2.  Edad 
+
+La media de edad de los trabajadores que han sufrido un ALT en jornada de trabajo en 2014 es 
+de 38 años, mientras que, en el grupo de trabajadores que han sufrido un accidente de trabajo 
+que no es ALT, la media de edad es 41,5 años, por lo que se puede decir que los accidentados 
+laborales  de  tráfico  en  jornada  de  trabajo  son,  en  media,  3,5  años  más  jóvenes  que  los 
+accidentados laborales que no son de tráfico.  
+
+Tabla 6.- Distribución de los ALT en jornada de trabajo según edad  
+
+Edad 
+
+De 16 a 19 años  
+
+De 20 a 24 años  
+
+De 25 a 29 años 
+
+De 30 a 34 años 
+
+De 35 a 39 años  
+
+De 40 a 44 años  
+
+De 45 a 49 años  
+
+De 50 a 54 años 
+
+De 55 a 59 años 
+
+De 60 a más años 
+
+ALT en 
+jornada 
+de trabajo 
+144 
+
+1.333 
+
+1.900 
+
+2.396 
+
+2.641 
+
+2.189 
+
+1.619 
+
+1.194 
+
+719 
+
+342 
+
+% 
+
+Índice de 
+incidencia 
+
+1,0 
+
+9,2 
+
+13,1 
+
+16,6 
+
+18,2 
+
+15,1 
+
+11,2 
+
+8,2 
+
+5,0 
+
+2,4 
+
+242,2 
+
+219,8 
+
+136,9 
+
+122,3 
+
+117,9 
+
+107,5 
+
+87,8 
+
+77,8 
+
+66,2 
+
+50,3 
+
+Total 
+
+14.477 
+
+100,0 
+
+106,1 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+13 
+
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Desagregando la información (ver tabla 6) se observa que las franjas centrales de edad son las 
+que acumulan mayores porcentajes de ALT en jornada. Sin embargo, al relativizar este tipo de 
+siniestralidad  con  la  población  de  cada  franja  de  edad,  se  observa  que  las  edades  más 
+tempranas son las que presentan mayor incidencia de ALT en jornada. A partir de los 25 años la 
+incidencia  disminuye  claramente,  de  forma  que  los  jóvenes  se  muestran  como  colectivo 
+especialmente vulnerable en cuanto al riesgo de sufrir un accidente laboral de tráfico en jornada 
+de trabajo. 
+
+2.1.3.  Nacionalidad 
+
+Al  estudiar  la  variable  nacionalidad,  se  observa  que  los  accidentados  laborales  de  tráfico  en 
+jornada de trabajo son mayoritariamente españoles. 
+
+Tabla 7.- Distribución de los ALT y de los índices de incidencia en jornada según nacionalidad  
+
+Nacionalidad 
+
+Española 
+Extranjera 
+Total 
+
+ALT en 
+jornada de 
+trabajo 
+
+13.448 
+1.029 
+14.477 
+
+% 
+
+92,9 
+7,1 
+100,0 
+
+Índice de 
+incidencia 
+ALT 
+
+109,2 
+77,1 
+106,1 
+
+Si se observa la información procedente de los índices de incidencia 6  (II) se encuentra de nuevo 
+la  población  española  especialmente  afectada,  ya  que  la  incidencia  es  1,4  veces  más  que    la 
+población extranjera. 
+
+2.1.4.  Ocupación del trabajador 
+
+En el caso de los accidentes de tráfico en jornada la ocupación que notifica más accidentes de 
+este  tipo  son  los  Conductores  y  operadores  de  maquinaria  móvil,  que  aglutinan  el  28,9%  de 
+estos  accidentes.  En  cuanto  a  las  profesiones  con  mayor  incidencia  y  por  tanto  mayor  riesgo 
+vuelven  a  destacar  los  Conductores  y  operadores  de  maquinaria  móvil  junto  con  los 
+Trabajadores de los servicios de protección y seguridad, que presentan tasas seis y cuatro veces 
+mayores que la media, respectivamente.  
+
+6 Índice de incidencia: (Nº accidentes de trabajo/Población afiliada a la SS con la contingencia de AT y EP 
+cubierta) x 100.000. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Tabla 8.- Distribución porcentual y tasa de incidencia de los ALT en jornada según ocupación  
+
+Ocupación 
+
+Directores y gerentes 
+
+Técnicos y profesionales científicos e intelectuales de 
+la salud y la enseñanza 
+Otros técnicos y profesionales científicos e 
+intelectuales 
+Técnicos; profesionales de apoyo 
+
+Empleados de oficina que no atienden al público 
+
+Empleados de oficina que atienden al público 
+
+Trabajadores de los servicios de restauración y 
+comercio 
+Trabajadores de los servicios de salud y el cuidado de 
+personas 
+Trabajadores de los servicios de protección y 
+seguridad 
+Trabajadores cualificados en el sector agrícola, 
+ganadero, forestal y pesquero 
+Trabajadores cualificados de la construcción, excepto 
+operadores de máquinas 
+Trabajadores cualificados de las industrias 
+manufactureras, excepto operadores de instalaciones 
+y máquinas 
+
+Operadores de instalaciones y maquinaria fijas, y 
+montadores 
+
+ALT en 
+jornada 
+de 
+trabajo 
+
+% 
+
+Tasa de 
+incidencia 
+
+224 
+
+377 
+
+1,5 
+
+2,6 
+
+317 
+
+2,2 
+
+1.146 
+
+826 
+
+555 
+
+1.191 
+
+7,9 
+
+5,7 
+
+3,8 
+
+8,2 
+
+517 
+
+3,6 
+
+28,8 
+
+24,4 
+
+21,3 
+
+62,1 
+
+87,1 
+
+68,3 
+
+47,8 
+
+47,4 
+
+1.557 
+
+10,8 
+
+353,5 
+
+171 
+
+1,2 
+
+583 
+
+4,0 
+
+805 
+
+5,6 
+
+38,9 
+
+86,1 
+
+66,3 
+
+275 
+
+1,9 
+
+60,4 
+
+Conductores y operadores de maquinaria móvil 
+
+4.179 
+
+28,9 
+
+509,0 
+
+Trabajadores no cualificados en servicios (excepto 
+transportes) 
+
+Peones de la agricultura, pesca, construcción, 
+industrias manufactureras y transportes 
+Total 
+
+952 
+
+6,6 
+
+67,7 
+
+802 
+
+5,5 
+
+101,3 
+
+14.477 
+
+100 
+
+83,9 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 3.- Tasas de incidencia de ALT en jornada según ocupación 
+
+2.1.5.  Tipo de contratación  
+
+De los ALT en jornada registrados en 2014, el 64,3% los sufrieron trabajadores asalariados con 
+contrato indefinido. En la información que proporciona el índice de incidencia destaca el de los 
+trabajadores  autónomos.  Para  los  asalariados  temporales  el  índice  de  incidencia  de  ALT  en 
+jornada es superior al de los asalariados con contrato indefinido. 
+
+Tabla 9.- Distribución e índice de incidencia de los ALT en jornada de trabajo según tipo de 
+contratación7 
+
+Tipo de contratación 
+
+Asalariado. Indefinido 
+Asalariado. Temporal 
+Autónomos 
+Desconocido / No consta 
+Total 
+
+ALT en 
+jornada de 
+trabajo 
+
+9.314 
+4.332 
+825 
+6 
+14.477 
+
+% 
+
+64,3 
+29,9 
+5,7 
+0 
+100,0 
+
+Índice de 
+incidencia 
+ALT 
+
+101,4 
+113,4 
+128,0 
+- 
+106,1 
+
+2.1.6.  Sector de actividad de la empresa 
+
+El  tipo  de  actividad  económica  que  desarrolla  la  empresa  es  un  factor  fundamental  en  la 
+aparición de ALT, como se irá viendo a continuación. 
+
+7 Se ha distinguido por un lado a los autónomos y por otro lado los asalariados con contrato indefinido y 
+asalariados con contrato temporal. Para los S.E. Agrario y Hogar los afiliados son estimados tomando 
+porcentajes de indefinido/temporal de la EPA, de las secciones CNAE A y T, respectivamente. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Se observa que la gran mayoría de los ALT en jornada de trabajo ocurren en el sector Servicios 
+(ver tabla 10). 
+
+Tabla 10.- Distribución de los ALT en jornada de trabajo según sector 
+
+Sector 
+
+ALT En 
+jornada de 
+trabajo 
+
+% 
+
+Índice de 
+incidencia 
+
+Agrario 
+
+207 
+
+1,4% 
+
+Industria 
+
+1.145 
+
+7,9% 
+
+32,6 
+
+62,8 
+
+Construcción 
+
+1.111 
+
+7,7% 
+
+163,0 
+
+Servicios 
+
+12.014 
+
+83,0% 
+
+114,3 
+
+Total 
+
+14.477 
+
+100,0% 
+
+106,1 
+
+El sector Construcción presenta el mayor índice de incidencia en cuanto a los ALT en jornada de 
+trabajo  junto  con  el  sector  Servicios,  superando  ambos  la  media  en  1,5  y  1,1  veces 
+respectivamente. 
+
+Gráfico 4.- Índice de incidencia de ALT en jornada según sector 
+
+2.1.7.  División de actividad de la empresa 
+
+Para  analizar  con  mayor  detalle  la  influencia  de  la  actividad  económica  de  la  empresa  en  los 
+accidentes laborales de tráfico, se detallan a continuación las diez divisiones de actividad (CNAE 
+2009- 2 dígitos) con mayor índice de incidencia referido a los accidentes laborales de tráfico en 
+jornada (ver gráfico 5). 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las  actividades  en  las  que  la  incidencia  del  accidente  de  tráfico  en  jornada  de  trabajo  es  muy 
+preocupante  son  las  Actividades  postales  y  de  correos  y  el  Transporte  terrestre  y  por  tubería. 
+Las  restantes  actividades  que  se  muestran  en  el  gráfico  también  tienen  incidencias  muy 
+elevadas, alrededor del doble de la media, sin embargo el riesgo es mucho menor que en las dos 
+primeras mencionadas.  
+
+Gráfico 5.- Divisiones de actividad que superan la media del índice de incidencia de ALT en jornada 
+
+Las tablas completas de divisiones de actividad con los datos absolutos, distribución porcentual 
+e índices de incidencia de ALT en jornada se presentan en anexo aparte, al final del documento 
+(ANEXO I). 
+
+2.1.8.  Agente relacionado con el ALT 
+
+La descripción de la distribución de ALT según el agente asociado a la forma aporta información 
+de los principales tipos de vehículos que tienen lugar en estos siniestros (ver gráfico 6). 
+
+En la distribución de agentes implicados en los ALT en jornada, el vehículo más frecuente es el 
+turismo, seguido de motocicletas.  
+
+Gráfico 6.- Distribución % de los agentes materiales implicados en los ALT en jornada 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1.9.  Día de la semana en que tuvo lugar el ALT en jornada 
+
+En los días laborables de lunes a viernes se producen el 87% de los ALT en jornada de trabajo 
+(ver tabla 11). La distribución semanal es bastante homogénea, excepto los fines de semana. Los 
+días que acumulan más accidentes de este tipo son los lunes y martes, aunque la diferencia con 
+el resto de los días no es destacable. 
+
+Tabla 11.- Distribución de los ALT en jornada según día de la semana  
+
+Día de la 
+semana del 
+accidente 
+
+ALT en jornada 
+de trabajo 
+
+% 
+
+Lunes 
+
+Martes 
+
+Miércoles 
+
+Jueves 
+
+Viernes 
+
+Sábado 
+
+Domingo 
+
+Total 
+
+2.651 
+
+2.683 
+
+2.524 
+
+2.436 
+
+2.357 
+
+1.016 
+
+810 
+
+18,3 
+
+18,5 
+
+17,4 
+
+16,8 
+
+16,3 
+
+7,0 
+
+5,6 
+
+14.477 
+
+100,0 
+
+Durante  el  fin  de  semana  la  frecuencia  con  la  que  ocurren  este  tipo  de  accidentes  es  mucho 
+menor (ver gráfico 7), lógicamente la población que trabaja durante el fin de semana es mucho 
+menos numerosa y las condiciones del tráfico suelen ser mejores.  
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 7.- Distribución % de los ALT en jornada según día de la semana 
+
+2.1.10. Hora del día en que tuvo lugar el ALT en jornada 
+
+El  patrón  de  los  ALT  en  jornada  de  trabajo  (ver  gráfico  8)  indica  como  horas  de  máxima 
+concentración de accidentes las horas intermedias de la mañana, observándose el máximo entre 
+las 10 y las 12 horas (30% de los ALT en jornada de trabajo). 
+
+Gráfico 8.- Distribución % de los ALT en jornada de trabajo según hora en que se produjeron 
+
+2.1.11. Mes en que tuvo lugar el ALT en jornada 
+
+La distribución de ALT en jornada de trabajo es bastante homogénea durante los meses del año. 
+En  octubre  y  noviembre  fue  ligeramente  mayor  el  porcentaje  de  accidentes  producidos  y  en 
+agosto  fue  ligeramente  menor,  coincidiendo  con  el  periodo  vacacional  de  gran  parte  de  la 
+población trabajadora. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 9.- Distribución % de los ALT en jornada de trabajo según mes en que se produjeron 
+
+2.2. 
+
+SINIESTRALIDAD DEL ALT IN ITINERE 
+
+2.2.1.  Sexo 
+
+La distribución de los ALT in itínere revela unos porcentajes similares entre hombres y mujeres: 
+el  49,9%  correspondió  a  trabajadores  y  el  50,1%  a  trabajadoras.  Teniendo  en  cuenta  que  la 
+población trabajadora femenina es menos numerosa, esto se traduce en un índice de incidencia 
+de accidentes in itínere mayor en mujeres que en hombres. 
+
+Tabla 12.- Distribución % de ALT in itínere según sexo  
+
+Sexo 
+
+ALT In itínere 
+
+% 
+
+Índice de 
+incidencia 
+
+Varón 
+
+Mujer 
+
+Total 
+
+19.938 
+
+49,9 
+
+280,2 
+
+20.001 
+
+50,1 
+
+306,1 
+
+39.939 
+
+100,0 
+
+292,6 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 10.- Índice de incidencia de ALT in itínere según sexo 
+
+Se  observan  pocas  diferencias  por  sexo  al  valorar  la  actividad  que  estaba  realizando  el 
+trabajador en el momento del accidente, en el sentido de considerar si era el conductor del 
+vehículo, un pasajero, o estaba en las inmediaciones del suceso viéndose involucrado en él 
+(ver tabla 13). 
+
+La actividad de conducir es algo menos frecuente en las mujeres implicadas en el accidente 
+in itínere que en los hombres, y por lo tanto son mayores las proporciones de pasajeras y 
+otras actividades. De las mujeres accidentadas in itínere, el 8,7% eran pasajeras y el 14,8% 
+realizaban otras actividades, mientras que los porcentajes equivalentes de los varones son 
+6,7% pasajeros y 15,8% otras actividades distintas de la conducción. 
+
+Tabla 13.- Distribución % de ALT in itínere según sexo y actividad que se realizaba en el momento del 
+accidente  
+
+Sexo 
+
+Varón 
+
+Actividad 
+
+Conducir 
+
+ALT in itínere 
+15.455 
+
+% 
+
+77,5 
+
+Ser pasajero 
+
+1.342 
+
+6,7 
+
+Otra actividad 
+
+3.141 
+
+15,8 
+
+Total 
+
+19.938 
+
+100,0 
+
+Mujer 
+
+Conducir 
+
+15.304 
+
+76,5 
+
+Ser pasajero 
+
+1.735 
+
+8,7 
+
+Otra actividad 
+
+2.962 
+
+14,8 
+
+Total 
+
+20.001 
+
+100,0 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+2.2.2.  Edad 
+
+La media de edad de los trabajadores que han sufrido un ALT in itínere en 2014 es 37,4 años, 
+mientras que, en  el  grupo  de  trabajadores que han sufrido un accidente de trabajo que no es 
+ALT, la media de edad es 41,5 años, por lo que se puede decir que los accidentados laborales de 
+tráfico in itínere son, en media, 4,1 años más jóvenes que los accidentados laborales que no son 
+de tráfico.  
+
+Tabla 14.- Distribución de los ALT in itínere según edad  
+
+Edad 
+
+De 16 a 19 años 
+
+De 20 a 24 años 
+
+ALT in 
+itínere 
+
+344 
+
+3.251 
+
+% 
+
+0,9% 
+
+8,1% 
+
+De 25 a 29 años 
+
+6.318 
+
+15,8% 
+
+De 30 a 34 años 
+
+7.412 
+
+18,6% 
+
+De 35 a 39 años 
+
+7.203 
+
+18,0% 
+
+De 40 a 44 años 
+
+5.473 
+
+13,7% 
+
+De 45 a 49 años 
+
+4.137 
+
+10,4% 
+
+De 50 a 54 años 
+
+De 55 a 59 años 
+
+De 60 a más años 
+
+3.101 
+
+1.856 
+
+844 
+
+7,8% 
+
+4,6% 
+
+2,1% 
+
+Total 
+
+39.939 
+
+100,0% 
+
+Índice de 
+incidencia 
+
+578,6 
+
+536,0 
+
+455,2 
+
+378,4 
+
+321,5 
+
+268,7 
+
+224,4 
+
+202,0 
+
+170,8 
+
+124,2 
+
+297,3 
+
+Al analizar la información de acuerdo a la variable edad (ver tabla 14) se observa que la franja de 
+25 a 39 años es la que acumula mayor porcentaje de ALT itínere (52,4%). Al relativizar este tipo 
+de siniestralidad con la población de cada franja de edad, destacan por la mayor incidencia de 
+ALT  in  itínere  las  edades  más  tempranas.  Es  a  partir  de  los  29  años  cuando  la  incidencia 
+disminuye, quedando así de manifiesto la especial vulnerabilidad de los jóvenes frente al riesgo 
+de sufrir un accidente laboral de tráfico in itínere. 
+
+2.2.3.  Nacionalidad 
+
+En  cuanto  a 
+mayoritariamente españoles. 
+
+la  nacionalidad, 
+
+los  accidentados 
+
+laborales  de  tráfico 
+
+in 
+
+itínere  son 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 15.- Distribución de los ALT in itínere según nacionalidad  
+
+Nacionalidad 
+
+ALTin 
+itinere 
+
+% 
+
+Índice de 
+incidencia 
+ALT 
+
+Española 
+Extranjera 
+Total 
+
+36.995 
+2.944 
+39.939 
+
+92,6 
+7,4 
+100,0 
+
+300,4 
+220,6 
+292,6 
+
+Los  índices  de  incidencia  muestran  también  a  la  población  española  como  especialmente 
+afectada (ver tabla 15), su índice es 1,4 veces mayor que el de la población extranjera. 
+
+2.2.4.  Ocupación del trabajador 
+
+La ocupación que tiene más accidentes de tráfico in itínere son los Trabajadores de restauración 
+y comercio, que aglutinan casi el 19% de estos accidentes. 
+Las ocupaciones que han presentado mayor riesgo de sufrir ALT in itínere (ver gráfico 11) son los 
+Peones,  los  Oficinistas  con  tareas  de  atención  al  público  y  los  trabajadores  de  Protección  y 
+seguridad, todos ellos muy por encima de la tasa de incidencia media de ALT in itínere. 
+
+Tabla 16.- Distribución porcentual y tasa de incidencia de los ALT in itínere según ocupación  
+
+Ocupación  
+
+Directores y gerentes 
+
+ALT in 
+itínere 
+
+% 
+
+Tasa de 
+incidencia 
+
+368 
+
+0,9 
+
+47,3 
+
+Técnicos y profesionales científicos e 
+intelectuales de la salud y la enseñanza 
+Otros técnicos y profesionales científicos e 
+intelectuales 
+Técnicos; profesionales de apoyo 
+
+Empleados de oficina que no atienden al 
+público 
+
+Empleados de oficina que atienden al 
+público 
+Trabajadores de los servicios de restauración 
+y comercio 
+Trabajadores de los servicios de salud y el 
+cuidado de personas 
+Trabajadores de los servicios de protección y 
+seguridad 
+Trabajadores cualificados en el sector 
+agrícola, ganadero, forestal y pesquero 
+Trabajadores cualificados de la construcción, 
+excepto operadores de máquinas 
+
+2.838 
+
+7,1 
+
+183,5 
+
+1.388 
+
+3,5 
+
+93,2 
+
+2.917 
+
+7,3 
+
+158,2 
+
+2.824 
+
+7,1 
+
+297,9 
+
+3.407 
+
+8,5 
+
+419,2 
+
+7.600 
+
+19,0 
+
+304,9 
+
+2.833 
+
+7,1 
+
+259,6 
+
+1.526 
+
+3,8 
+
+346,5 
+
+430 
+
+1,1 
+
+97,8 
+
+961 
+
+2,4 
+
+142,0 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+Ocupación  
+
+Trabajadores cualificados de las industrias 
+manufactureras, excepto operadores de 
+instalaciones y máquinas 
+
+Operadores de instalaciones y maquinaria 
+fijas, y montadores 
+Conductores y operadores de maquinaria 
+móvil 
+
+Trabajadores no cualificados en servicios 
+(excepto transportes) 
+Peones de la agricultura, pesca, 
+construcción, industrias manufactureras y 
+transportes 
+
+Total 
+
+ALT in 
+itínere 
+
+% 
+
+Tasa de 
+incidencia 
+
+2.937 
+
+7,4 
+
+241,8 
+
+1.358 
+
+3,4 
+
+298,2 
+
+1.406 
+
+3,5 
+
+171,2 
+
+3.613 
+
+9,0 
+
+256,9 
+
+3.533 
+
+8,8 
+
+446,3 
+
+39.939 
+
+100 
+
+231,5 
+
+Gráfico 11.- Tasas de incidencia de ALT in itínere según ocupación 
+
+2.2.5.   Tipo de contratación  
+
+Los  asalariados  temporales  presenta  una  incidencia  1,3  veces  mayor  que  los  asalariados  con 
+contrato indefinido, y por lo tanto más riesgo de sufrir accidentes laborales de tráfico in itínere. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 17.- Distribución e índice de incidencia de los ALT in itínere según tipo de contratación8 
+
+Tipo de contratación 
+
+Asalariado. Indefinido 
+Asalariado. Temporal 
+Autónomos 
+Desconocido / No consta 
+Total 
+
+ALT in 
+itinere 
+
+% 
+
+Índice de 
+incidencia 
+ALT 
+
+25.566 
+14.294 
+56 
+23 
+39.939 
+
+64,0 
+35,8 
+0,1 
+0,1 
+100,0 
+
+278,4 
+374,1 
+- (*) 
+- 
+292,6 
+
+(*)No se puede calcular el índice de incidencia por no disponer del número de autónomos 
+económicamente dependientes en el denominador. 
+
+2.2.6.  Sector de actividad de la empresa 
+
+La  actividad  económica  que  realiza  la  empresa  es  una  variable  clave  en  la  aparición  de  ALT, 
+como se muestra a continuación. 
+
+La gran mayoría de los ALT in itínere (81,5%) ocurren en el sector Servicios (ver tabla 18). 
+
+Tabla 18.- Distribución de los ALT in itínere según sector  
+
+Sector 
+
+Agrario 
+
+ALT in 
+itínere 
+
+% 
+
+1.113 
+
+2,8% 
+
+Índice de 
+incidencia 
+175,5 
+
+Industria 
+
+4.586 
+
+11,5% 
+
+251,5 
+
+Construcción 
+
+1.705 
+
+4,3% 
+
+250,1 
+
+Servicios 
+
+32.535 
+
+81,5% 
+
+309,6 
+
+Total 
+
+39.939 
+
+100,0% 
+
+292,6 
+
+El sector Servicios también presenta el mayor índice de incidencia en cuanto a los accidentes in 
+itínere, siendo pues el sector prioritario tanto por población afectada como por riesgo de sufrir 
+estos accidentes. 
+
+8 Se ha distinguido por un lado a los autónomos y por otro lado los asalariados con contrato indefinido y 
+asalariados con contrato temporal. Para los S.E. Agrario y Hogar los afiliados son estimados tomando 
+porcentajes de indefinido/temporal de la EPA, de las secciones CNAE A y T, respectivamente. En 
+autónomos apenas hay accidentes in itínere debido a que dentro del RETA únicamente tienen cobertura 
+de estos accidentes los autónomos económicamente dependientes. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Gráfico 12.- Índice de incidencia de ALT in itínere según sector 
+
+2.2.7.  División de actividad de la empresa 
+
+Con intención de analizar en mayor profundidad la posible influencia de la actividad económica 
+de la empresa en los accidentes laborales de tráfico, se muestran a continuación las divisiones 
+de  actividad  (CNAE  2009-  2  dígitos)  con  mayor  índice  de  incidencia  referido  a  los  accidentes 
+laborales de tráfico in itínere (ver gráfico 13). 
+
+Las  actividades  en  las  que  la  incidencia  del  accidente  de  tráfico  in  itínere  es  mayor  son  las 
+Actividades  relacionadas  con  el  empleo,  la  Extracción  de  minerales  metálicos,  las  Actividades 
+administrativas  de  oficina,  Actividades  de  seguridad  e  investigación  y  los  Servicios  de 
+alojamiento.  Estas  cinco  actividades  superan  la  cifra  de  400  ATL  in  itínere  por  cien  mil 
+trabajadores. 
+
+Se  observa  que  las  diferencias  entre  las  tasas  más  altas  de  los  ALT  in  itínere  no  son  muy 
+extremas, exceptuando las Actividades relacionadas con el empleo.   
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 13.- Selección de las divisiones de actividad cuyo índice de incidencia de ALT in itínere es 
+superior a 350 
+
+Las tablas completas de divisiones de actividad con los datos absolutos, distribución porcentual 
+e índices de incidencia de ALT in itínere se presentan en anexo aparte, al final del documento 
+(ANEXO II). 
+
+2.2.8.  Agente relacionado con el ALT in itínere 
+
+La  variable  agente  asociado  a  la  forma  en  los  ALT  proporciona  información  de  los  principales 
+tipos de vehículos presentes en estos siniestros (ver gráfico 14). 
+
+Destacan  como  agentes  los  turismos,  que  están  implicados  en  el  58,3%  de  los  ALT  in  itínere, 
+seguidos de las motocicletas, presentes en el 11,6% de los ALT in itínere. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 14.- Distribución % de los agentes materiales implicados en los ALT in itínere 
+
+Vehículos dos, 
+tres ruedas 
+4,4% 
+
+Camionetas, 
+furgones 
+1,3% 
+
+Resto de 
+agentes 
+13,9% 
+
+Vehículos 
+pesados: 
+camiones, 
+autobuses 
+2,6% 
+
+Otros vehículos 
+ligeros 
+6,5% 
+
+Turismos 
+58,3% 
+
+Motocicletas 
+11,6% 
+
+Resto vehículos 
+1,3% 
+
+2.2.9.  Día de la semana en que tuvo lugar el ALT in itínere 
+
+Tabla 19.- Distribución de los ALT según día de la semana y tipo de accidente 
+
+Día de la 
+semana del 
+accidente 
+
+ALT In 
+itínere 
+
+% 
+
+Lunes 
+
+Martes 
+
+Miércoles 
+
+Jueves 
+
+Viernes 
+
+Sábado 
+
+Domingo 
+
+7.719 
+
+7.271 
+
+7.206 
+
+6.738 
+
+6.947 
+
+2.502 
+
+1.556 
+
+19,3 
+
+18,2 
+
+18,0 
+
+16,9 
+
+17,4 
+
+6,3 
+
+3,9 
+
+Total 
+
+39.939 
+
+100,0 
+
+El  89,8%  de  los  ALT  in  itínere  ocurren  de  lunes  a  viernes  (ver  tabla  19).  El  lunes  es  el  día  que 
+acumula más accidentes de este tipo, aunque no existe gran diferencia con el resto de los días. 
+Durante el fin de semana este tipo de accidentes es menos frecuente (ver gráfico 15), dado que 
+la  población  que  trabaja  durante  esos  días  es  considerablemente  menor  y  las  condiciones  del 
+tráfico suelen ser mejores.  
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 15.- Distribución % de los ALT in itínere según día de la semana  
+
+25,0
+
+20,0
+
+15,0
+
+10,0
+
+5,0
+
+0,0
+
+19,3 
+
+18,2 
+
+18,0 
+
+16,9 
+
+17,4 
+
+6,3 
+
+3,9 
+
+2.2.10. Hora del día en que tuvo lugar el ALT in itínere 
+
+Los ALT in itínere tienen lugar principalmente en las horas habituales de entrada y salida a los 
+centros de trabajo (ver gráfico 16), observándose claramente dos picos, uno entre las 7 y las 9 
+horas (30,9% de los ALT in itínere) y otro, entre las 14 y las 15 horas (20,3% de los ALT in itínere). 
+
+Gráfico 16.- Distribución % de los ALT in itínere según hora en que se produjeron 
+
+2.2.11. Mes en que tuvo lugar el ALT in itínere 
+
+La distribución de ALT es bastante homogénea durante los meses del año. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 17.- Distribución % de los ALT in itínere según mes en que se produjeron 
+
+2.3. 
+
+MORTALIDAD DEL ALT EN JORNADA DE TRABAJO 
+
+2.3.1.  Sexo 
+
+El 93% de los ALT mortales en jornada de trabajo los sufren hombres. Además, el sexo masculino 
+presenta una incidencia diez veces mayor que el sexo femenino, y por lo tanto un riesgo mucho 
+más elevado de fallecer en este este tipo de accidentes. 
+
+Tabla 20.- Distribución % de ALT MORTALES en jornada de trabajo según sexo  
+
+Sexo 
+
+Varón 
+
+Mujer 
+
+Total 
+
+ALT mortales 
+en jornada de 
+trabajo 
+
+% 
+
+Índice de 
+incidencia 
+
+66 
+
+93,0 
+
+5 
+
+7,0 
+
+71 
+
+100,0 
+
+0,9 
+
+0,1 
+
+0,5 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 18.- Índice de incidencia de ALT MORTALES en jornada de trabajo según sexo 
+
+Las diferencias por sexo también quedan patentes al valorar la actividad que estaba realizando 
+el  trabajador  en  el  momento  del  accidente,  es  decir,  si  era  el  conductor  del  vehículo,  un 
+pasajero, o estaba en las inmediaciones del suceso viéndose involucrado en él (ver tabla 21). Se 
+observa que el 80% de las mujeres implicadas en los ALT mortal en jornada eran conductoras del 
+vehículo,  frente  al  84,8%  de  los  conductores  varones.  De  las  mujeres  fallecidas  en  ALT  en 
+jornada de trabajo el 20% eran pasajeras, mientras que de los varones el 4,5% eran pasajeros y 
+el 10,6% realizaban otras actividades distintas de la conducción. 
+
+Tabla 21.- Distribución % de ALT MORTALES en jornada de trabajo según sexo y actividad que se 
+realizaba en el momento del accidente  
+
+Sexo 
+
+Actividad 
+
+ALT mortales 
+en jornada de 
+trabajo 
+
+% 
+
+Varón 
+
+Conducir 
+
+56 
+
+84,8 
+
+Mujer 
+
+Ser pasajero 
+
+Otra actividad 
+
+Total 
+
+Conducir 
+
+Ser pasajero 
+
+Otra actividad 
+
+Total 
+
+3 
+
+7 
+
+4,5 
+
+10,6 
+
+66 
+
+100,0 
+
+4 
+
+1 
+
+0 
+
+5 
+
+80,0 
+
+20,0 
+
+0,0 
+
+100,0 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+2.3.2.  Edad 
+
+Los  trabajadores  fallecidos  en  ALT  en  jornada  en  2014  presentaban  una  edad  media  de  46,4 
+años, mientras que, la de los trabajadores que han sufrido un accidente de trabajo mortal que 
+no es ALT, es de 47,5 años. Se puede decir por tanto, que los fallecidos laborales de tráfico en 
+jornada de trabajo son, en media, 0,9 años más jóvenes que los fallecidos laborales que no son 
+de tráfico.  
+
+Tabla 22.- Distribución e índice de incidencia de los ALT MORTALES en jornada de trabajo según edad  
+
+Edad 
+
+De 16 a 19 años  
+
+De 20 a 24 años  
+
+De 25 a 29 años 
+
+De 30 a 34 años 
+
+De 35 a 39 años  
+
+De 40 a 44 años  
+
+De 45 a 49 años  
+
+De 50 a 54 años 
+
+De 55 a 59 años 
+
+De 60 a más años 
+
+Total 
+
+ALT mortales en 
+jornada de 
+trabajo 
+0 
+
+3 
+
+4 
+
+5 
+
+7 
+
+8 
+
+12 
+
+15 
+
+6 
+
+11 
+
+71 
+
+% 
+
+Índice de 
+incidencia 
+
+0,0 
+
+4,2 
+
+5,6 
+
+7,0 
+
+9,9 
+
+11,3 
+
+16,9 
+
+21,1 
+
+8,5 
+
+15,5 
+
+100,0 
+
+0,0 
+
+0,5 
+
+0,3 
+
+0,3 
+
+0,3 
+
+0,4 
+
+0,7 
+
+1,0 
+
+0,6 
+
+1,6 
+
+0,5 
+
+La franja de edad de 50 a 54 años es la que recoge mayor porcentaje de ALT mortales en jornada 
+de  trabajo  (21,1%)  (Ver  tabla  22).    Cuando  se  relativiza  este  tipo  de  siniestralidad  con  la 
+población de cada rango de edad, se observa que los trabajadores a partir de 60 años presentan 
+mayor incidencia. 
+
+2.3.3.  Nacionalidad 
+
+Los  fallecidos  laborales  de  tráfico  en  jornada  de  trabajo  son  mayoritariamente  españoles.  El 
+índice de incidencia (II) de los trabajadores extranjeros es mayor, presentando mayor riesgo de 
+fallecimiento en estos sucesos.  
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 23.- Distribución porcentual e índices de incidencia de los ALT MORTALES en jornada según 
+nacionalidad  
+
+Nacionalidad 
+
+Española 
+Extranjera 
+Total 
+
+ALT 
+mortales en 
+jornada de 
+trabajo 
+
+60 
+11 
+71 
+
+% 
+
+84,5 
+15,5 
+100,0 
+
+Índice de 
+incidencia 
+ALT 
+
+0,5 
+0,8 
+0,5 
+
+2.3.4.  Ocupación del trabajador 
+
+La ocupación que notifica más accidentes de tráfico mortales en jornada son los Conductores y 
+operadores de maquinaria  móvil,  con  el 69% de estos accidentes.  En cuanto  a  las profesiones 
+con mayor incidencia y por tanto mayor riesgo vuelven a destacar los Conductores y operadores 
+de maquinaria móvil con una tasa quince veces mayor que la media. 
+
+Tabla 24.- Distribución porcentual y tasa de incidencia de los ALT MORTALES en jornada según 
+ocupación del trabajador 
+
+Ocupación 
+
+Directores y gerentes 
+
+Técnicos y profesionales científicos e 
+intelectuales de la salud y la enseñanza 
+Otros técnicos y profesionales científicos e 
+intelectuales 
+Técnicos; profesionales de apoyo 
+
+Empleados de oficina que no atienden al 
+público 
+Empleados de oficina que atienden al 
+público 
+Trabajadores de los servicios de restauración 
+y comercio 
+Trabajadores de los servicios de salud y el 
+cuidado de personas 
+Trabajadores de los servicios de protección y 
+seguridad 
+Trabajadores cualificados en el sector 
+agrícola, ganadero, forestal y pesquero 
+Trabajadores cualificados de la construcción, 
+excepto operadores de máquinas 
+
+ALT mortales 
+en  jornada de 
+trabajo 
+
+% 
+
+Tasa de 
+incidencia 
+
+0 
+
+0 
+
+2 
+
+1 
+
+1 
+
+3 
+
+3 
+
+0 
+
+1 
+
+2 
+
+1 
+
+0,0 
+
+0,0 
+
+2,8 
+
+1,4 
+
+1,4 
+
+4,2 
+
+4,2 
+
+0,0 
+
+1,4 
+
+2,8 
+
+1,4 
+
+0,0 
+
+0,0 
+
+0,1 
+
+0,1 
+
+0,1 
+
+0,4 
+
+0,1 
+
+0,0 
+
+0,2 
+
+0,5 
+
+0,1 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+Ocupación 
+
+Trabajadores cualificados de las industrias 
+manufactureras, excepto operadores de 
+instalaciones y máquinas 
+
+Operadores de instalaciones y maquinaria 
+fijas, y montadores 
+Conductores y operadores de maquinaria 
+móvil 
+Trabajadores no cualificados en servicios 
+(excepto transportes) 
+Peones de la agricultura, pesca, 
+construcción, industrias manufactureras y 
+transportes 
+Total 
+
+ALT mortales 
+en  jornada de 
+trabajo 
+
+% 
+
+Tasa de 
+incidencia 
+
+2 
+
+2,8 
+
+0,2 
+
+0 
+
+0,0 
+
+49  69,0 
+
+1 
+
+5 
+
+1,4 
+
+7,0 
+
+0,0 
+
+6,0 
+
+0,1 
+
+0,6 
+
+71  100 
+
+0,4 
+
+Gráfico 19.- Tasas de incidencia de ALT MORTALES en jornada de trabajo según ocupación 
+
+2.3.5.  Tipo de contratación  
+
+El  56,3%  de  los  ALT  mortales  en  jornada  registrados  en  2014,  los  sufrieron  trabajadores 
+asalariados  con  contrato  indefinido.  Sin  embargo,  el  índice  de  incidencia  de  ALT  mortales  en 
+jornada de los asalariados temporales es 1,8 veces mayor que la de los asalariados con contrato 
+indefinido.  
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 25.- Distribución e índice de incidencia de los ALT MORTALES en jornada de trabajo según tipo de 
+contratación 9 
+
+Tipo de contratación 
+
+Asalariado. Indefinido 
+Asalariado. Temporal 
+Autónomos 
+Desconocido / No consta 
+Total 
+
+ALT 
+mortales en 
+jornada de 
+trabajo 
+
+% 
+
+Índice de 
+incidencia 
+ALT 
+
+40 
+27 
+4 
+0 
+71 
+
+56,3 
+38,0 
+5,6 
+0,0 
+100,0 
+
+0,4 
+0,7 
+0,6 
+- 
+0,5 
+
+2.3.6.  Sector de actividad de la empresa 
+
+El  tipo  de  actividad  económica  que  desarrolla  la  empresa  es  un  factor  fundamental  en  la 
+aparición de ALT, como se irá viendo a continuación. 
+
+Se observa que la gran mayoría de los ALT  mortales en jornada de trabajo ocurren en el sector 
+Servicios (ver tabla 26). 
+
+Tabla 26.- Distribución porcentual e índice de incidencia de los ALT mortales en jornada de trabajo 
+según sector 
+
+Sector 
+
+Agrario 
+
+Industria 
+
+Construcción 
+
+Servicios 
+
+Total 
+
+ALT 
+mortales  
+En jornada 
+2 
+
+5 
+
+8 
+
+56 
+
+71 
+
+% 
+
+Índice de 
+incidencia 
+
+2,8 
+
+7,0 
+
+11,3 
+
+78,9 
+
+100,0 
+
+0,3 
+
+0,3 
+
+1,2 
+
+0,5 
+
+0,5 
+
+El  mayor  índice  de  incidencia  en  cuanto  a  los  accidentes  mortales  en  jornada  de  trabajo  lo 
+presenta el sector Construcción, superando la media en 2,4 veces. 
+
+9 Se ha distinguido por un lado a los autónomos y por otro lado los asalariados con contrato indefinido y 
+asalariados con contrato temporal. Para los S.E. Agrario y Hogar los afiliados son estimados tomando 
+porcentajes de indefinido/temporal de la EPA, de las secciones CNAE A y T, respectivamente.  
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+Gráfico 20.- Índice de incidencia de ALT MORTALES en jornada según sector 
+
+2.3.7.  División de actividad de la empresa 
+
+A continuación se presentan las divisiones de actividad (CNAE 2009- 2 dígitos) que han superado 
+el índice de  incidencia medio  de  ALT  mortales en jornada de trabajo (0,6) y que, además, han 
+superado la media de accidentes (4 accidentes mortales en jornada) de las actividades que han 
+tenido  al  menos  uno.  Se  observa  la  gran  diferencia  del  riesgo  que  presenta  el  Transporte 
+terrestre y por tubería y el resto de actividades. 
+
+Gráfico 21.- Selección de divisiones de actividad con índice de incidencia de ALT mortales en jornada 
+mayor a la media y nº ALT mortales en jornada superior a la media 
+
+La tabla completa se muestra en anexo aparte al final del capítulo (ANEXO III). 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4. 
+
+MORTALIDAD DEL ALT IN ITINERE 
+
+2.4.1.  Sexo 
+
+El 85,9% de los ALT mortales in itínere los sufren hombres.  Además, el riesgo de fallecer en este 
+tipo de accidentes es mucho mayor para los hombres, ya que el sexo masculino presenta una 
+incidencia 6 veces mayor que el sexo femenino. 
+
+Tabla 27.- Distribución porcentual de ALT MORTALES in itínere según sexo  
+
+Sexo 
+
+Varón 
+
+Mujer 
+
+Total 
+
+ALT mortales 
+In itínere 
+
+85 
+
+14 
+
+% 
+
+85,9 
+
+14,1 
+
+99 
+
+100,0 
+
+Índice de 
+Incidencia 
+
+1,2 
+
+0,2 
+
+0,7 
+
+Gráfico 22.- Índice de incidencia de ALT MORTAL in itínere según sexo 
+
+Se  valora  a  continuación  la  actividad  que  estaba  realizando  el  trabajador  en  el  momento  del 
+accidente, en el sentido de considerar si era el conductor del vehículo, un pasajero, o estaba en 
+las inmediaciones del suceso viéndose involucrado en él (ver tabla 28). 
+
+La actividad de conducir es menos frecuente en las mujeres implicadas en el accidente de tráfico 
+mortal in itínere que en los hombres, y llama la atención que no hay ninguna pasajera entre las 
+fallecidas  y  que  el  21,4%  de  las  mujeres  fallecidas  realizaban  actividades  distintas  a  la 
+conducción frente al 11,8% de los hombres. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 28.- Distribución % de ALT MORTALES in itínere según sexo y actividad que se realizaba en el 
+momento del accidente  
+
+Sexo 
+
+Actividad 
+
+Varón 
+
+Conducir 
+
+Ser pasajero 
+
+Otra actividad  
+
+Total 
+
+Mujer 
+
+Conducir 
+
+Ser pasajero 
+
+Otra actividad  
+
+ALT mortales 
+in itínere 
+
+71 
+
+4 
+
+10 
+
+85 
+
+11 
+
+0 
+
+3 
+
+%  
+
+83,5 
+
+4,7 
+
+11,8 
+
+100,0 
+
+78,6 
+
+0,0 
+
+21,4 
+
+Total 
+
+14 
+
+100,0 
+
+2.4.2.  Edad 
+
+La media de edad de los trabajadores que han sufrido un ALT mortal in itínere en 2014 es 42,1 
+años, mientras que, en el grupo de trabajadores que han sufrido un accidente de trabajo mortal 
+que  no  es  ALT,  la  media  de  edad  es  47,5  años,  por  lo  que  se  puede  decir  que  los  fallecidos 
+laborales de tráfico en jornada de trabajo son, en media, 5,4 años más jóvenes que los fallecidos 
+laborales que no son de tráfico.  
+
+Tabla 29.- Distribución porcentual e índice de incidencia de los ALT MORTALES in itínere según edad  
+
+Edad 
+
+De 16 a 19 años  
+
+De 20 a 24 años  
+
+De 25 a 29 años 
+
+De 30 a 34 años 
+
+De 35 a 39 años  
+
+De 40 a 44 años  
+
+De 45 a 49 años  
+
+ALT 
+mortales in 
+itínere 
+
+% 
+
+Índice de 
+incidencia 
+
+0 
+
+4 
+
+7 
+
+13 
+
+18 
+
+18 
+
+14 
+
+0,0 
+
+4,0 
+
+7,1 
+
+13,1 
+
+18,2 
+
+18,2 
+
+14,1 
+
+0,0 
+
+0,7 
+
+0,5 
+
+0,7 
+
+0,8 
+
+0,9 
+
+0,8 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+39 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Edad 
+
+De 50 a 54 años 
+
+De 55 a 59 años 
+
+De 60 a más años 
+
+Total 
+
+ALT 
+mortales in 
+itínere 
+
+% 
+
+Índice de 
+incidencia 
+
+11 
+
+12 
+
+2 
+
+99 
+
+11,1 
+
+12,1 
+
+2,0 
+
+100,0 
+
+0,7 
+
+1,1 
+
+0,3 
+
+0,7 
+
+Las edades de 35 a 39 años y de 40 a 44 años presentan el mayor porcentaje de ALT mortales in 
+itínere, en ambos casos el 18,2%.  
+
+Al estudiar los índices de incidencia, y por tanto las edades de mayor riesgo, se encuentra que 
+los mencionados trabajadores mayores, entre 55 y 59 años, presentan el mayor índice.  
+
+2.4.3.  Nacionalidad 
+
+Los  fallecidos  en  ALT  in  itínere  son  mayoritariamente  españoles.  Sin  embargo  el  índice  de 
+incidencia  de  los  trabajadores  extranjeros  es  1,6  veces  mayor,  presentando  por  tanto  mayor 
+riesgo de fallecimiento en estos sucesos.  
+
+Tabla 30.- Distribución porcentual e índice de incidencia de los ALT MORTALES in itínere según 
+nacionalidad  
+
+Nacionalidad 
+
+Española 
+Extranjera 
+Total 
+
+ALT 
+mortales in 
+itinere 
+
+84 
+15 
+99 
+
+% 
+
+84,8 
+15,2 
+100,0 
+
+Índice de 
+incidencia 
+ALT 
+
+0,7 
+1,1 
+0,7 
+
+2.4.4.  Ocupación del trabajador 
+
+Los  Trabajadores  cualificados  de  las  industrias  manufactureras  son  las  ocupaciones  que  han 
+notificado más ALT mortales in itínere, con el 14,1% de estos accidentes; los Peones reúnen el 
+12,1% y Conductores y operadores de maquinaria móvil el 11,1%. 
+
+En las profesiones con mayor incidencia y por tanto mayor riesgo destacan los Operadores de 
+instalaciones y maquinaria fijas, y montadores y los Peones. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabla 31.- Distribución porcentual y tasa de incidencia de los ALT MORTALES en jornada según 
+ocupación del trabajador 
+
+Ocupación 
+
+Directores y gerentes 
+
+Técnicos y profesionales científicos e 
+intelectuales de la salud y la enseñanza 
+Otros técnicos y profesionales científicos e 
+intelectuales 
+Técnicos; profesionales de apoyo 
+
+Empleados de oficina que no atienden al 
+público 
+Empleados de oficina que atienden al 
+público 
+Trabajadores de los servicios de restauración 
+y comercio 
+Trabajadores de los servicios de salud y el 
+cuidado de personas 
+Trabajadores de los servicios de protección y 
+seguridad 
+Trabajadores cualificados en el sector 
+agrícola, ganadero, forestal y pesquero 
+Trabajadores cualificados de la construcción, 
+excepto operadores de máquinas 
+Trabajadores cualificados de las industrias 
+manufactureras, excepto operadores de 
+instalaciones y máquinas 
+
+Operadores de instalaciones y maquinaria 
+fijas, y montadores 
+Conductores y operadores de maquinaria 
+móvil 
+Trabajadores no cualificados en servicios 
+(excepto transportes) 
+Peones de la agricultura, pesca, 
+construcción, industrias manufactureras y 
+transportes 
+Total 
+
+% 
+
+Tasa de 
+incidencia 
+
+ALT 
+mortales 
+in itínere 
+3 
+
+3 
+
+3 
+
+6 
+
+6 
+
+3 
+
+3,0 
+
+3,0 
+
+3,0 
+
+6,1 
+
+6,1 
+
+3,0 
+
+0,4 
+
+0,2 
+
+0,2 
+
+0,3 
+
+0,6 
+
+0,4 
+
+0,4 
+
+0,1 
+
+1,1 
+
+0,7 
+
+0,4 
+
+1,2 
+
+1,8 
+
+1,3 
+
+0,6 
+
+1,5 
+
+10 
+
+10,1 
+
+1 
+
+5 
+
+3 
+
+3 
+
+1,0 
+
+5,1 
+
+3,0 
+
+3,0 
+
+14 
+
+14,1 
+
+8 
+
+8,1 
+
+11 
+
+11,1 
+
+8 
+
+8,1 
+
+12 
+
+12,1 
+
+99 
+
+100 
+
+0,6 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 23.- Tasas de incidencia de ALT MORTALES in itínere según ocupación 
+
+2.4.5.  Tipo de contratación  
+
+El  67,7%  de  los  ALT  mortales  en  jornada  registrados  en  2014  los  sufrieron  trabajadores 
+asalariados  con  contrato  indefinido.  Sin embargo, en la información que proporciona  el índice 
+de  incidencia  se  observa  que  para  los  asalariados  temporales  la  tasa  de  incidencia  de  ALT 
+mortales en jornada es 1,2 veces mayor que para los asalariados con contrato indefinido. 
+
+Tabla 32.- Distribución porcentual y tasa de incidencia de los ALT MORTALES in itínere según tipo de 
+contratación10 
+
+Tipo de contratación 
+
+ALT 
+mortales in 
+itÍnere 
+
+% 
+
+Índice de 
+incidencia 
+ALT 
+
+Asalariado. Indefinido 
+Asalariado. Temporal 
+Autónomos 
+Desconocido / No consta 
+Total 
+
+67 
+32 
+0 
+0 
+99 
+
+67,7 
+32,3 
+0,0 
+0,0 
+100,0 
+
+0,7 
+0,8 
+- (*) 
+-  
+0,7 
+
+(*)No se puede calcular el índice de incidencia por no disponer del número de autónomos 
+económicamente dependientes en el denominador. 
+
+10 Se ha distinguido por un lado a los autónomos y por otro lado los asalariados con contrato indefinido y 
+asalariados con contrato temporal. Para los S.E. Agrario y Hogar los afiliados son estimados tomando 
+porcentajes de indefinido/temporal de la EPA, de las secciones CNAE A y T, respectivamente. En 
+autónomos apenas hay accidentes in itínere debido a que dentro del RETA únicamente tienen cobertura 
+de estos accidentes los autónomos económicamente dependientes. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+2.4.6.  Sector de actividad de la empresa 
+
+Se observa que la gran mayoría de los ALT mortales in itínere ocurren en el sector Servicios (ver 
+tabla 33). Sin embargo los índices de incidencia colocan los sectores de riesgo mayor a menor en 
+el siguiente orden: Agrario, Industria y Construcción, y Servicios. 
+
+Tabla 33.- Distribución porcentual e índice de incidencia de los ALT mortales in itínere según sector 
+
+Sector 
+
+Agrario 
+
+Industria 
+
+ALT 
+mortales in 
+itínere 
+
+% 
+
+Índice de 
+incidencia 
+
+9 
+
+9,1% 
+
+19 
+
+19,2% 
+
+Construcción 
+
+7 
+
+7,1% 
+
+Servicios 
+
+Total 
+
+64 
+
+64,6% 
+
+99 
+
+100,0% 
+
+1,4 
+
+1,0 
+
+1,0 
+
+0,6 
+
+0,7 
+
+El sector Agrario presenta el mayor índice de incidencia en cuanto a los accidentes mortales in 
+itínere, duplicando el índice medio. 
+
+Gráfico 24.- Índice de incidencia de ALT MORTALES in itínere según sector 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.4.7.  División de actividad de la empresa 
+
+Respecto  a  la  actividad  económica  de  la  empresa  en  los  accidentes  laborales  de  tráfico,  se 
+detallan a continuación las divisiones de actividad (CNAE 2009- 2 dígitos) que han superado el 
+índice  de  incidencia  medio  de  ALT  mortales  in  itínere  de  trabajo  (0,5)  y  que,  además,  han 
+superado la media de accidentes (3 accidentes mortales en jornada) de las actividades que han 
+tenido al menos uno.  
+
+Se observa que los mayores índices los presentan la Industria del papel, las Actividades postales, 
+las Actividades relacionadas con el empleo, el Transporte terrestre, los Servicios de alojamiento, 
+la  Agricultura,  las  Actividades  de  construcción  especializadas  y  los  Servicios  de  comidas  y 
+bebidas. 
+
+Gráfico 25.- Selección de divisiones de actividad con índice de incidencia de ALT mortales in itínere 
+superior a la media y nº ALT mortales en jornada superior a la media 
+
+La tabla completa se muestra en anexo aparte al final del capítulo (ANEXO IV). 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. ANEXO I: INDICE DE INCIDENCIA DE ALT EN JORNADA 
+DE TRABAJO SEGÚN DIVISIÓN DE ACTIVIDAD. AÑO 
+2014 
+
+División de actividad 
+
+ALT en 
+jornada 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Agricultura, ganadería, caza y servicios 
+relacionados con las mismas 
+
+Silvicultura y explotación forestal 
+
+Pesca y acuicultura 
+
+Extracción de antracita, hulla y lignito 
+
+Extracción de crudo de petróleo y gas natural 
+
+Extracción de minerales metálicos 
+
+Otras industrias extractivas 
+
+Actividades de apoyo a las industrias extractivas 
+
+Industria de la alimentación 
+
+Fabricación de bebidas 
+Industria del tabaco 
+
+Industria textil 
+
+Confección de prendas de vestir 
+
+Industria del cuero y del calzado 
+Industria de la madera y del corcho, excepto 
+muebles cestería y espartería 
+
+Industria del papel 
+Artes gráficas y reproducción de soportes 
+grabados 
+Coquerías y refino de petróleo 
+
+Industria química 
+
+Fabricación de productos farmacéuticos 
+
+Fabricación de productos de caucho y plásticos 
+
+Fabricación de otros productos minerales no 
+metálicos 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+180 
+
+1,24 
+
+580.142 
+
+20 
+
+7 
+
+2 
+
+0 
+
+1 
+
+5 
+
+2 
+
+237 
+
+34 
+0 
+
+5 
+
+16 
+
+10 
+
+26 
+
+12 
+
+29 
+0 
+
+24 
+
+37 
+
+29 
+
+0,14 
+
+0,05 
+
+0,01 
+
+0,00 
+
+0,01 
+
+0,03 
+
+0,01 
+
+1,64 
+
+0,23 
+0,00 
+
+0,03 
+
+0,11 
+
+15.911 
+
+38.282 
+
+4.142 
+
+219 
+
+2.169 
+
+14.241 
+
+1.711 
+
+296.177 
+
+44.371 
+2.250 
+
+37.544 
+
+37.589 
+
+0,07 
+
+36.467 
+
+0,18 
+
+41.857 
+
+0,08 
+
+38.481 
+
+0,20 
+0,00 
+
+55.584 
+8.893 
+
+0,17 
+
+81.419 
+
+0,26 
+
+43.045 
+
+0,20 
+
+81.864 
+
+31,0 
+
+125,7 
+
+18,3 
+
+48,3 
+
+0,0 
+
+46,1 
+
+35,1 
+
+116,9 
+
+80,0 
+
+76,6 
+0,0 
+
+13,3 
+
+42,6 
+
+27,4 
+
+62,1 
+
+31,2 
+
+52,2 
+0,0 
+
+29,5 
+
+86,0 
+
+35,4 
+
+41 
+
+0,28 
+
+81.731 
+
+50,2 
+
+45 
+
+ 
+ 
+ 
+ 
+División de actividad 
+
+ALT en 
+jornada 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Metalurgia fabricación de productos de hierro, 
+acero y ferroaleaciones 
+
+20 
+
+0,14 
+
+69.454 
+
+28,8 
+
+Fabricación de productos metálicos, excepto 
+maquinaria y equipo 
+Fabricación de productos informáticos, 
+electrónicos y ópticos 
+
+Fabricación de material y equipo eléctrico 
+
+Fabricación de maquinaria y equipo n.c.o.p. 
+Fabricación de vehículos de motor, remolques y 
+semirremolques 
+
+Fabricación de otro material de transporte 
+
+Fabricación de muebles 
+
+Otras industrias manufactureras 
+
+Reparación e instalación de maquinaria y equipo 
+
+Suministro de energía eléctrica, gas, vapor y aire 
+acondicionado 
+
+Captación, depuración y distribución de agua 
+
+108 
+
+0,75 
+
+191.819 
+
+0,03 
+
+28.124 
+
+0,12 
+
+42.138 
+
+0,42 
+
+98.925 
+
+0,09 
+
+0,08 
+
+0,17 
+
+140.618 
+
+49.054 
+
+44.054 
+
+56,3 
+
+14,2 
+
+42,7 
+
+61,7 
+
+9,2 
+
+22,4 
+
+54,5 
+
+0,19 
+
+25.079 
+
+111,6 
+
+0,44 
+
+58.814 
+
+108,8 
+
+0,12 
+
+37.533 
+
+48,0 
+
+0,51 
+
+39.708 
+
+186,4 
+
+4 
+
+18 
+
+61 
+
+13 
+
+11 
+
+24 
+
+28 
+
+64 
+
+18 
+
+74 
+
+Recogida y tratamiento de aguas residuales 
+
+8 
+
+0,06 
+
+4.918 
+
+162,7 
+
+Recogida, tratamiento y eliminación de residuos 
+valorización 
+Actividades de descontaminación y otros servicios 
+de gestión de residuos 
+Construcción de edificios 
+
+Ingeniería civil 
+
+181 
+
+1,25 
+
+82.137 
+
+220,4 
+
+3 
+275 
+
+0,02 
+1,90 
+
+1.428 
+250.812 
+
+66 
+
+0,46 
+
+41.765 
+
+210,0 
+109,6 
+
+158,0 
+
+Actividades de construcción especializada 
+
+770 
+
+5,32 
+
+389.056 
+
+197,9 
+
+Venta y reparación de vehículos de motor y 
+motocicletas 
+
+Comercio al por mayor e intermediarios del 
+comercio, excepto de vehículos de motor y 
+motocicletas 
+
+423 
+
+2,92 
+
+225.096 
+
+187,9 
+
+975 
+
+6,73 
+
+724.799 
+
+134,5 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+46 
+
+ 
+ 
+ 
+División de actividad 
+
+ALT en 
+jornada 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Comercio al por menor, excepto de vehículos de 
+motor y motocicletas 
+
+641 
+
+4,43 
+
+1.321.972 
+
+48,5 
+
+Transporte terrestre y por tubería 
+Transporte marítimo y por vías navegables 
+interiores 
+
+Transporte aéreo 
+Almacenamiento y actividades anexas al 
+transporte 
+
+Actividades postales y de correos 
+
+Servicios de alojamiento 
+Servicios de comidas y bebidas 
+
+1.827 
+
+12,62 
+
+367.320 
+
+497,4 
+
+3 
+
+0,02 
+
+11.340 
+
+27 
+
+0,19 
+
+31.281 
+
+207 
+
+750 
+
+64 
+1.778 
+
+1,43 
+
+5,18 
+
+0,44 
+12,28 
+
+165.055 
+
+56.429 
+
+248.886 
+825.850 
+
+26,5 
+
+86,3 
+
+125,4 
+
+1.329,1 
+
+25,7 
+215,3 
+
+Edición 
+
+34 
+
+0,23 
+
+48.752 
+
+69,7 
+
+Actividades cinematográficas, de vídeo y de 
+programas de televisión, grabación de sonido y 
+edición musical 
+Actividades de programación y emisión de radio y 
+televisión 
+
+Telecomunicaciones 
+Programación, consultoría y otras actividades 
+relacionadas con la informática 
+
+20 
+
+19 
+
+63 
+
+76 
+
+0,14 
+
+26.412 
+
+0,13 
+
+22.374 
+
+0,44 
+
+77.320 
+
+0,52 
+
+179.575 
+
+75,7 
+
+84,9 
+
+81,5 
+
+42,3 
+
+Servicios de información 
+
+32 
+
+0,22 
+
+21.024 
+
+152,2 
+
+Servicios financieros, excepto seguros y fondos de 
+pensiones 
+
+72 
+
+0,50 
+
+225.421 
+
+31,9 
+
+Seguros, reaseguros y fondos de pensiones, 
+excepto Seguridad Social obligatoria 
+Actividades auxiliares a los servicios financieros y 
+a los seguros 
+
+Actividades inmobiliarias 
+
+35 
+
+57 
+
+76 
+
+0,24 
+
+56.423 
+
+62,0 
+
+0,39 
+
+56.508 
+
+100,9 
+
+0,52 
+
+78.625 
+
+96,7 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+47 
+
+ 
+ 
+ 
+División de actividad 
+
+ALT en 
+jornada 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Actividades jurídicas y de contabilidad 
+
+120 
+
+0,83 
+
+217.921 
+
+55,1 
+
+Actividades de las sedes centrales actividades de 
+consultoría de gestión empresarial 
+Servicios técnicos de arquitectura e ingeniería 
+ensayos y análisis técnicos 
+
+Investigación y desarrollo 
+
+Publicidad y estudios de mercado 
+Otras actividades profesionales, científicas y 
+técnicas 
+
+Actividades veterinarias 
+
+Actividades de alquiler 
+
+33 
+
+0,23 
+
+62.540 
+
+108 
+
+0,75 
+
+162.089 
+
+21 
+
+78 
+
+75 
+
+14 
+
+0,15 
+
+65.392 
+
+0,54 
+
+78.105 
+
+0,52 
+
+0,10 
+
+58.966 
+
+12.475 
+
+143 
+
+0,99 
+
+78.889 
+
+52,8 
+
+66,6 
+
+32,1 
+
+99,9 
+
+127,2 
+
+112,2 
+
+181,3 
+
+Actividades relacionadas con el empleo 
+
+101 
+
+0,70 
+
+136.250 
+
+74,1 
+
+Actividades de agencias de viajes, operadores 
+turísticos, servicios de reservas y actividades 
+relacionadas con los mismo 
+
+15 
+
+0,10 
+
+41.624 
+
+36,0 
+
+Actividades de seguridad e investigación 
+
+157 
+
+1,08 
+
+113.912 
+
+137,8 
+
+Servicios a edificios y actividades de jardinería 
+
+410 
+
+2,83 
+
+488.561 
+
+Actividades administrativas de oficina y otras 
+actividades auxiliares a las empresas 
+Administración Pública y defensa Seguridad Social 
+obligatoria 
+
+Educación 
+
+Actividades sanitarias 
+
+Asistencia en establecimientos residenciales 
+
+Actividades de servicios sociales sin alojamiento 
+
+185 
+
+1,28 
+
+215.990 
+
+2.016 
+
+277 
+
+13,93 
+
+1,91 
+
+971.687 
+
+715.020 
+
+2,18 
+
+885.136 
+
+0,69 
+
+224.591 
+
+316 
+
+100 
+
+281 
+
+83,9 
+
+85,7 
+
+207,5 
+
+38,7 
+
+35,7 
+
+44,5 
+
+1,94 
+
+203.428 
+
+138,1 
+
+Actividades de creación, artísticas y espectáculos 
+
+18 
+
+0,12 
+
+29.799 
+
+60,4 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+48 
+
+ 
+ 
+ 
+21 
+
+59 
+
+58 
+
+72 
+
+96 
+
+51 
+
+750 
+
+292 
+
+458 
+
+37,4 
+
+79,3 
+
+42,0 
+
+57,8 
+
+10,8 
+
+166,7 
+106,1 
+
+Índ. Inc. 
+ALT 
+
+1.329,1 
+
+División de actividad 
+
+ALT en 
+jornada 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Actividades de bibliotecas, archivos, museos y 
+otras actividades culturales 
+
+5 
+
+0,03 
+
+13.381 
+
+Actividades de juegos de azar y apuestas 
+Actividades deportivas, recreativas y de 
+entretenimiento 
+
+Actividades asociativas 
+Reparación de ordenadores, efectos personales y 
+artículos de uso doméstico 
+
+Otros servicios personales 
+
+Actividades de los hogares como empleadores de 
+personal doméstico 
+Actividades de organizaciones y organismos 
+extraterritoriales 
+Total 
+
+0,15 
+
+26.477 
+
+0,41 
+
+140.604 
+
+0,40 
+
+118.120 
+
+49,1 
+
+0,50 
+
+34.801 
+
+206,9 
+
+0,66 
+
+166.189 
+
+0,35 
+
+472.904 
+
+5 
+14477 
+
+0,03 
+
+3.000 
+100,00  13.647.833 
+
+A continuación, se desagregan las siguientes actividades: 
+
+Actividad 53. Actividades postales y de correos 
+
+Actividad 
+
+53. Actividades postales y de correos 
+
+532. Otras actividades postales y de correos 
+
+531. Actividades postales sometidas a la 
+obligación del servicio universal 
+
+ALT 
+ en jornada 
+
+Afiliados AT/EP 
+
+56.428 
+
+19.179 
+
+1.522,5 
+
+37.249 
+
+1.229,6 
+
+Actividad 49. Transporte terrestre y por tubería 
+
+Actividad 
+49. Transporte terrestre y por tubería 
+
+493. Otro transporte terrestre de pasajeros (*) 
+
+494. Transporte de mercancías por carretera y 
+servicios de mudanza 
+
+Otras actividades de la división 49 … 
+
+ALT 
+ en jornada 
+1.832 
+
+828 
+
+996 
+
+8 
+
+Afiliados AT/EP 
+
+367.332 
+
+121.240 
+
+223.756 
+
+22.336 
+
+(*) Transporte terrestre de pasajeros, excluido el transporte interurbano por ferrocarril. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+Índ. Inc. 
+ALT 
+498,7 
+
+682,9 
+
+445,1 
+
+35,8 
+
+49 
+
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+Actividad 56. Servicios de comidas y bebidas 
+
+Actividad 
+
+ALT 
+ en jornada 
+
+Afiliados AT/EP 
+
+Índ. Inc. 
+ALT 
+
+56. Servicios de comidas y bebidas 
+
+1.784 
+
+825.884 
+
+562. Provisión de comidas preparadas para 
+eventos y otros servicios de comidas 
+
+561. Restaurantes y puestos de comidas 
+
+563. Establecimientos de bebidas 
+
+339 
+
+701 
+
+744 
+
+97.593 
+
+349.395 
+
+378.896 
+
+Actividad 84. Administración pública y Defensa; Seguridad Social obligatoria 
+
+Actividad 
+
+84. Administración pública y Defensa; 
+Seguridad Social obligatoria (*) 
+
+842. Prestación de servicios a la comunidad en 
+general (**) 
+
+841. Administración Pública y de la política 
+económica y social 
+
+843. Seguridad Social obligatoria 
+
+ALT 
+ en jornada 
+
+2.035 
+
+316 
+
+1700 
+
+19 
+
+Afiliados AT/EP 
+
+971.447 
+
+88.438 
+
+839.884 
+
+43.125 
+
+216,0 
+
+347,4 
+
+200,6 
+
+196,4 
+
+Índ. Inc. 
+ALT 
+
+209,5 
+
+357,3 
+
+202,4 
+
+44,1 
+
+(*) Se incluyen  datos  de  accidentes  sufridos por afiliados a la Seguridad Social. No se incluyen 
+datos de accidentes sufridos por mutualistas de MUFACE, MUGEJU e ISFAS. 
+(**) Incluye: Asuntos exteriores, Defensa, Justicia, orden público y seguridad y protección civil. 
+
+Actividad 38. Recogida, tratamiento y eliminación de residuos; valorización 
+
+Actividad 
+38.  Recogida,  tratamiento  y  eliminación  de 
+residuos; valorización 
+
+381. Recogida de residuos 
+
+383. Valorización 
+
+382. Tratamiento y eliminación de residuos 
+
+ALT 
+ en jornada 
+
+Afiliados AT/EP 
+
+180 
+
+143 
+
+3 
+
+34 
+
+82.140 
+
+65.938 
+
+7.447 
+
+8.755 
+
+Índ. Inc. 
+ALT 
+
+219,1 
+
+216,9 
+
+40,3 
+
+388,4 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+50 
+
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+Actividad 45. Venta y reparación de vehículos de motor y motocicletas 
+
+Actividad 
+
+45. Venta y reparación de vehículos de motor y 
+motocicletas 
+
+453. Comercio de repuestos y accesorios de 
+vehículos de motor 
+
+454. Venta, mantenimiento y reparación de 
+motocicletas y de sus repuestos y accesorios 
+
+452. Mantenimiento y reparación de vehículos de 
+motor 
+
+451. Venta de vehículos de motor 
+
+ALT 
+ en jornada 
+
+Afiliados AT/EP 
+
+442 
+
+199 
+
+22 
+
+168 
+
+53 
+
+225.093 
+
+36.120 
+
+4.567 
+
+135.748 
+
+48.659 
+
+Actividad 95. Reparación de ordenadores, efectos personales y artículos de uso doméstico 
+
+Actividad 
+
+95. Reparación de ordenadores, efectos 
+personales y artículos de uso doméstico 
+
+952. Reparación de efectos personales y artículos 
+de uso doméstico 
+
+951. Reparación de ordenadores y equipos de 
+comunicación 
+
+ALT 
+ en jornada 
+
+Afiliados AT/EP 
+
+71 
+
+48 
+
+23 
+
+34.800 
+
+17.268 
+
+17.532 
+
+Actividad 80. Actividades de seguridad e investigación 
+
+Actividad 
+80. Actividades de seguridad e investigación 
+
+802. Servicios de sistemas de seguridad 
+
+801. Actividades de seguridad privada 
+
+803. Actividades de investigación 
+
+ALT 
+ en jornada 
+
+Afiliados AT/EP 
+
+139 
+
+18 
+
+115 
+
+6 
+
+113.914 
+
+6.085 
+
+105.294 
+
+2.535 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+Índ. Inc. 
+ALT 
+
+196,4 
+
+550,9 
+
+481,7 
+
+123,8 
+
+108,9 
+
+Índ. Inc. 
+ALT 
+
+204,0 
+
+278,0 
+
+131,2 
+
+Índ. Inc. 
+ALT 
+
+122,0 
+
+295,8 
+
+109,2 
+
+236,7 
+
+51 
+
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+Actividad 42. Ingeniería civil 
+
+Actividad 
+42. Ingeniería civil 
+
+422. Construcción de redes (*) 
+
+421. Construcción de carreteras y vías férreas, 
+puentes y túneles 
+
+429. Construcción de otros proyectos de ingeniería 
+civil (**) 
+
+ALT 
+ en jornada 
+
+Afiliados AT/EP 
+
+69 
+
+19 
+
+39 
+
+11 
+
+41.765 
+
+17.269 
+
+17.562 
+
+6.934 
+
+Índ. Inc. 
+ALT 
+
+165,2 
+
+110,0 
+
+222,1 
+
+158,7 
+
+(*) Esta actividad comprende la construcción de redes de fluidos (suministro de agua, sistemas 
+de alcantarillado, gasoductos, oleoductos), redes eléctricas y redes de telecomunicaciones. 
+(**) Esta actividad comprende las obras hidráulicas (construcción de puertos, presas, diques, …) 
+y la construcción de otros proyectos de ingeniería civil no contemplados en otras partes. 
+
+Actividad 37. Recogida y tratamiento de aguas residuales 
+
+Actividad 
+37. Recogida y tratamiento de aguas residuales 
+(*) 
+
+370. Recogida y tratamiento de aguas residuales 
+
+ALT 
+ en jornada 
+
+Afiliados AT/EP 
+
+8 
+
+8 
+
+4.918 
+
+4.918 
+
+Índ. Inc. 
+ALT 
+
+162,7 
+
+162,7 
+
+ (*) Esta actividad no tiene desagregación en varias actividades a 3 o 4 dígitos de CNAE. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+52 
+
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+4. ANEXO II: INDICE DE INCIDENCIA DE ALT IN ITINERE 
+
+SEGÚN DIVISIÓN DE ACTIVIDAD. AÑO 2014 
+
+División de actividad 
+
+ALT in 
+itínere 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Agricultura, ganadería, caza y servicios 
+relacionados con las mismas 
+
+Silvicultura y explotación forestal 
+
+Pesca y acuicultura 
+
+Extracción de antracita, hulla y lignito 
+
+Extracción de crudo de petróleo y gas natural 
+
+Extracción de minerales metálicos 
+
+Otras industrias extractivas 
+
+Actividades de apoyo a las industrias extractivas 
+
+Industria de la alimentación 
+
+Fabricación de bebidas 
+Industria del tabaco 
+
+Industria textil 
+
+Confección de prendas de vestir 
+
+Industria del cuero y del calzado 
+Industria de la madera y del corcho, excepto 
+muebles cestería y espartería 
+
+Industria del papel 
+Artes gráficas y reproducción de soportes 
+grabados 
+Coquerías y refino de petróleo 
+
+Industria química 
+
+Fabricación de productos farmacéuticos 
+
+1026 
+
+2,57 
+
+580.142 
+
+0,14 
+
+0,08 
+
+0,03 
+
+0,00 
+
+0,03 
+
+0,03 
+
+0,01 
+
+1,79 
+
+0,24 
+0,01 
+
+0,17 
+
+0,18 
+
+15.911 
+
+38.282 
+
+4.142 
+
+219 
+
+2.169 
+
+14.241 
+
+1.711 
+
+296.177 
+
+44.371 
+2.250 
+
+37.544 
+
+37.589 
+
+176,9 
+
+345,7 
+
+83,6 
+
+313,9 
+
+0,0 
+
+553,3 
+
+84,3 
+
+175,4 
+
+240,7 
+
+211,9 
+222,2 
+
+175,8 
+
+191,5 
+
+0,23 
+
+36.467 
+
+255,0 
+
+0,21 
+
+41.857 
+
+0,22 
+
+38.481 
+
+0,37 
+0,04 
+
+55.584 
+8.893 
+
+0,46 
+
+81.419 
+
+0,33 
+
+43.045 
+
+195,9 
+
+223,5 
+
+268,1 
+179,9 
+
+226,0 
+
+302,0 
+
+55 
+
+32 
+
+13 
+
+0 
+
+12 
+
+12 
+
+3 
+
+713 
+
+94 
+5 
+
+66 
+
+72 
+
+93 
+
+82 
+
+86 
+
+149 
+16 
+
+184 
+
+130 
+
+Fabricación de productos de caucho y plásticos 
+
+202 
+
+0,51 
+
+81.864 
+
+246,8 
+
+Fabricación de otros productos minerales no 
+metálicos 
+
+135 
+
+0,34 
+
+81.731 
+
+165,2 
+
+Metalurgia fabricación de productos de hierro, 
+acero y ferroaleaciones 
+
+167 
+
+0,42 
+
+69.454 
+
+240,4 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+53 
+
+ 
+ 
+ 
+División de actividad 
+
+ALT in 
+itínere 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Fabricación de productos metálicos, excepto 
+maquinaria y equipo 
+Fabricación de productos informáticos, 
+electrónicos y ópticos 
+
+Fabricación de material y equipo eléctrico 
+
+514 
+
+1,29 
+
+191.819 
+
+268,0 
+
+84 
+
+94 
+
+0,21 
+
+28.124 
+
+0,24 
+
+42.138 
+
+298,7 
+
+223,1 
+
+Fabricación de maquinaria y equipo n.c.o.p. 
+Fabricación de vehículos de motor, remolques y 
+semirremolques 
+
+Fabricación de otro material de transporte 
+
+Fabricación de muebles 
+
+247 
+
+0,62 
+
+98.925 
+
+249,7 
+
+415 
+
+171 
+
+83 
+
+1,04 
+
+0,43 
+
+0,21 
+
+140.618 
+
+49.054 
+
+44.054 
+
+295,1 
+
+348,6 
+
+188,4 
+
+Otras industrias manufactureras 
+
+89 
+
+0,22 
+
+25.079 
+
+354,9 
+
+Reparación e instalación de maquinaria y equipo 
+
+196 
+
+0,49 
+
+58.814 
+
+333,3 
+
+Suministro de energía eléctrica, gas, vapor y aire 
+acondicionado 
+
+Captación, depuración y distribución de agua 
+
+43 
+
+75 
+
+0,11 
+
+37.533 
+
+0,19 
+
+39.708 
+
+114,6 
+
+188,9 
+
+Recogida y tratamiento de aguas residuales 
+
+15 
+
+0,04 
+
+4.918 
+
+305,0 
+
+Recogida, tratamiento y eliminación de residuos 
+valorización 
+Actividades de descontaminación y otros servicios 
+de gestión de residuos 
+Construcción de edificios 
+
+Ingeniería civil 
+
+321 
+
+0,80 
+
+82.137 
+
+390,8 
+
+5 
+521 
+
+120 
+
+0,01 
+1,30 
+
+1.428 
+250.812 
+
+0,30 
+
+41.765 
+
+350,0 
+207,7 
+
+287,3 
+
+Actividades de construcción especializada 
+
+1.064 
+
+2,66 
+
+389.056 
+
+273,5 
+
+Venta y reparación de vehículos de motor y 
+motocicletas 
+
+Comercio al por mayor e intermediarios del 
+comercio, excepto de vehículos de motor y 
+motocicletas 
+Comercio al por menor, excepto de vehículos de 
+motor y motocicletas 
+
+838 
+
+2,10 
+
+225.096 
+
+372,3 
+
+2.070 
+
+5,18 
+
+724.799 
+
+285,6 
+
+4.440 
+
+11,12 
+
+1.321.972 
+
+335,9 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+54 
+
+ 
+ 
+ 
+División de actividad 
+
+ALT in 
+itínere 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Transporte terrestre y por tubería 
+Transporte marítimo y por vías navegables 
+interiores 
+
+858 
+
+2,15 
+
+367.320 
+
+233,6 
+
+21 
+
+0,05 
+
+11.340 
+
+185,2 
+
+Transporte aéreo 
+Almacenamiento y actividades anexas al 
+transporte 
+
+Actividades postales y de correos 
+
+Servicios de alojamiento 
+Servicios de comidas y bebidas 
+
+113 
+
+0,28 
+
+31.281 
+
+361,2 
+
+632 
+
+214 
+
+1.153 
+3.101 
+
+1,58 
+
+0,54 
+
+2,89 
+7,76 
+
+165.055 
+
+56.429 
+
+248.886 
+825.850 
+
+382,9 
+
+379,2 
+
+463,3 
+375,5 
+
+Edición 
+
+149 
+
+0,37 
+
+48.752 
+
+305,6 
+
+Actividades cinematográficas, de vídeo y de 
+programas de televisión, grabación de sonido y 
+edición musical 
+Actividades de programación y emisión de radio y 
+televisión 
+
+80 
+
+69 
+
+0,20 
+
+26.412 
+
+302,9 
+
+0,17 
+
+22.374 
+
+308,4 
+
+Telecomunicaciones 
+Programación, consultoría y otras actividades 
+relacionadas con la informática 
+
+307 
+
+0,77 
+
+77.320 
+
+397,1 
+
+589 
+
+1,47 
+
+179.575 
+
+328,0 
+
+Servicios de información 
+
+72 
+
+0,18 
+
+21.024 
+
+342,5 
+
+Servicios financieros, excepto seguros y fondos de 
+pensiones 
+
+529 
+
+1,32 
+
+225.421 
+
+234,7 
+
+Seguros, reaseguros y fondos de pensiones, 
+excepto Seguridad Social obligatoria 
+Actividades auxiliares a los servicios financieros y 
+a los seguros 
+
+Actividades inmobiliarias 
+
+178 
+
+0,45 
+
+56.423 
+
+315,5 
+
+172 
+
+184 
+
+0,43 
+
+56.508 
+
+0,46 
+
+78.625 
+
+304,4 
+
+234,0 
+
+Actividades jurídicas y de contabilidad 
+
+416 
+
+1,04 
+
+217.921 
+
+190,9 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+55 
+
+ 
+ 
+ 
+División de actividad 
+
+ALT in 
+itínere 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Actividades de las sedes centrales actividades de 
+consultoría de gestión empresarial 
+Servicios técnicos de arquitectura e ingeniería 
+ensayos y análisis técnicos 
+
+Investigación y desarrollo 
+
+Publicidad y estudios de mercado 
+Otras actividades profesionales, científicas y 
+técnicas 
+
+Actividades veterinarias 
+
+Actividades de alquiler 
+
+217 
+
+0,54 
+
+62.540 
+
+347,0 
+
+428 
+
+127 
+
+1,07 
+
+162.089 
+
+0,32 
+
+65.392 
+
+264,1 
+
+194,2 
+
+285 
+
+0,71 
+
+78.105 
+
+364,9 
+
+149 
+
+41 
+
+265 
+
+0,37 
+
+0,10 
+
+58.966 
+
+12.475 
+
+0,66 
+
+78.889 
+
+252,7 
+
+328,7 
+
+335,9 
+
+Actividades relacionadas con el empleo 
+
+983 
+
+2,46 
+
+136.250 
+
+721,5 
+
+Actividades de agencias de viajes, operadores 
+turísticos, servicios de reservas y actividades 
+relacionadas con los mismo 
+
+125 
+
+0,31 
+
+41.624 
+
+300,3 
+
+Actividades de seguridad e investigación 
+
+577 
+
+1,44 
+
+113.912 
+
+506,5 
+
+Servicios a edificios y actividades de jardinería 
+
+1.531 
+
+3,83 
+
+488.561 
+
+313,4 
+
+Actividades administrativas de oficina y otras 
+actividades auxiliares a las empresas 
+Administración Pública y defensa Seguridad Social 
+obligatoria 
+
+Educación 
+
+1.132 
+
+2,83 
+
+215.990 
+
+524,1 
+
+2.694 
+
+1.536 
+
+6,75 
+
+3,85 
+
+971.687 
+
+715.020 
+
+Actividades sanitarias 
+
+2.815 
+
+7,05 
+
+885.136 
+
+Asistencia en establecimientos residenciales 
+
+Actividades de servicios sociales sin alojamiento 
+
+Actividades de creación, artísticas y espectáculos 
+Actividades de bibliotecas, archivos, museos y 
+otras actividades culturales 
+
+867 
+
+664 
+
+65 
+
+30 
+
+2,17 
+
+224.591 
+
+1,66 
+
+203.428 
+
+0,16 
+
+29.799 
+
+218,1 
+
+0,08 
+
+13.381 
+
+224,2 
+
+277,2 
+
+214,8 
+
+318,0 
+
+386,0 
+
+326,4 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+56 
+
+ 
+ 
+ 
+División de actividad 
+
+ALT in 
+itínere 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Actividades de juegos de azar y apuestas 
+Actividades deportivas, recreativas y de 
+entretenimiento 
+
+92 
+
+0,23 
+
+26.477 
+
+347,5 
+
+456 
+
+1,14 
+
+140.604 
+
+324,3 
+
+Actividades asociativas 
+Reparación de ordenadores, efectos personales y 
+artículos de uso doméstico 
+
+274 
+
+0,69 
+
+118.120 
+
+232,0 
+
+114 
+
+0,29 
+
+34.801 
+
+327,6 
+
+Otros servicios personales 
+
+529 
+
+1,32 
+
+166.189 
+
+318,3 
+
+Actividades de los hogares como empleadores de 
+personal doméstico 
+Actividades de organizaciones y organismos 
+extraterritoriales 
+Total 
+
+342 
+
+0,86 
+
+472.904 
+
+72,3 
+
+12 
+39939 
+
+0,03 
+
+3.000 
+100,00  13.647.833 
+
+400,0 
+292,6 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+57 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. ANEXO III: INDICE DE INCIDENCIA DE ALT MORTALES EN 
+
+JORNADA DE TRABAJO  SEGÚN DIVISIÓN DE ACTIVIDAD. AÑO 
+2014 
+
+Nota: el sombreado claro marca las actividades cuyo II es mayor que el II medio. El 
+sombreado oscuro marca las actividades cuyo II es mayor que el II medio y, además, 
+cuyo nº de ALT es mayor que la media de las actividades que han tenido alguno. 
+
+ALT en 
+jornada 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+División de actividad 
+
+Agricultura, ganadería, caza y servicios 
+relacionados con las mismas 
+Industria de la alimentación 
+Fabricación de bebidas 
+Confección de prendas de vestir 
+Fabricación de otros productos minerales no 
+metálicos 
+Fabricación de productos metálicos, excepto 
+maquinaria y equipo 
+Construcción de edificios 
+Ingeniería civil 
+Actividades de construcción especializada 
+Venta y reparación de vehículos de motor y 
+motocicletas 
+Comercio al por mayor e intermediarios del 
+comercio, excepto de vehículos de motor y 
+motocicletas 
+Comercio al por menor, excepto de vehículos 
+de motor y motocicletas 
+Transporte terrestre y por tubería 
+Almacenamiento y actividades anexas al 
+transporte 
+
+Actividades postales y de correos 
+Servicios de alojamiento 
+Actividades cinematográficas, de vídeo y de 
+programas de televisión, grabación de sonido 
+y edición musical 
+Servicios a edificios y actividades de 
+jardinería 
+Administración Pública y defensa Seguridad 
+Social obligatoria 
+Actividades de servicios sociales sin 
+alojamiento 
+Actividades asociativas 
+
+2 
+1 
+1 
+1 
+
+1 
+
+1 
+2 
+1 
+5 
+
+2 
+
+2,82 
+1,41 
+1,41 
+1,41 
+
+580.142 
+296.177 
+44.371 
+37.589 
+
+1,41 
+
+81.731 
+
+1,41 
+2,82 
+1,41 
+7,04 
+
+191.819 
+250.812 
+41.765 
+389.056 
+
+2,82 
+
+225.096 
+
+4 
+
+5,63 
+
+724.799 
+
+3 
+38 
+
+4,23 
+53,52 
+
+1.321.972 
+367.320 
+
+2 
+
+1 
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+1 
+
+2,82 
+
+1,41 
+1,41 
+
+165.055 
+
+56.429 
+248.886 
+
+1,41 
+
+26.412 
+
+1,41 
+
+488.561 
+
+1,41 
+
+971.687 
+
+1,41 
+1,41 
+
+203.428 
+118.120 
+
+Total 
+
+71 
+
+100 
+
+13.647.833 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+0,3 
+0,3 
+2,3 
+2,7 
+
+1,2 
+
+0,5 
+0,8 
+2,4 
+1,3 
+
+0,9 
+
+0,6 
+
+0,2 
+10,3 
+
+1,2 
+
+1,8 
+0,4 
+
+3,8 
+
+0,2 
+
+0,1 
+
+0,5 
+0,8 
+
+0,5 
+
+58 
+
+ 
+ 
+ 
+ 
+A continuación se desagrega a nivel de 3 dígitos de la CNAE la actividad de transporte terrestre y 
+por tubería. 
+
+Actividad 49. Transporte terrestre y por tubería 
+
+Actividad 
+49. Transporte terrestre y por tubería 
+
+494. Transporte de mercancías por carretera y 
+servicios de mudanza 
+
+493. Otro transporte terrestre de pasajeros (*) 
+
+Otras actividades de la división 49 … 
+
+ALT 
+ en jornada 
+
+38 
+
+38 
+
+- 
+
+- 
+
+Afiliados AT/EP 
+
+367.332 
+
+Índ. Inc. 
+ALT 
+
+10,3 
+
+223.756 
+
+17,0 
+
+121.240 
+
+22.336 
+
+- 
+
+- 
+
+(*) Transporte terrestre de pasajeros, excluido el transporte interurbano por ferrocarril. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+59 
+
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+6. ANEXO IV: INDICE DE INCIDENCIA DE ALT MORTALES IN 
+ITINERE SEGÚN DIVISIÓN DE ACTIVIDAD. AÑO 2014 
+
+Nota: el sombreado claro marca las actividades cuyo II es mayor que el II medio. El 
+sombreado oscuro marca las actividades cuyo II es mayor que el II medio y, además, 
+cuyo nº de ALT es mayor que la media de las actividades que han tenido alguno. 
+
+División de actividad 
+
+ALT in 
+itínere 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Agricultura, ganadería, caza y servicios 
+relacionados con las mismas 
+Industria de la alimentación 
+Fabricación de bebidas 
+Industria textil 
+Confección de prendas de vestir 
+Industria del cuero y del calzado 
+Industria de la madera y del corcho, 
+excepto muebles cestería y espartería 
+Industria del papel 
+Coquerías y refino de petróleo 
+Fabricación de otros productos 
+minerales no metálicos 
+Metalurgia fabricación de productos de 
+hierro, acero y ferroaleaciones 
+Fabricación de productos metálicos, 
+excepto maquinaria y equipo 
+Fabricación de vehículos de motor, 
+remolques y semirremolques 
+Reparación e instalación de maquinaria 
+y equipo 
+Suministro de energía eléctrica, gas, 
+vapor y aire acondicionado 
+Recogida, tratamiento y eliminación de 
+residuos valorización 
+
+Construcción de edificios 
+Actividades de construcción 
+especializada 
+Venta y reparación de vehículos de 
+motor y motocicletas 
+
+Comercio al por mayor e intermediarios 
+del comercio, excepto de vehículos de 
+motor y motocicletas 
+Comercio al por menor, excepto de 
+vehículos de motor y motocicletas 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+9 
+2 
+1 
+1 
+1 
+1 
+
+1 
+4 
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+1 
+
+2 
+
+5 
+
+2 
+
+4 
+
+3 
+
+9,09 
+2,02 
+1,01 
+1,01 
+1,01 
+1,01 
+
+1,01 
+4,04 
+1,01 
+
+580.142 
+296.177 
+44.371 
+37.544 
+37.589 
+36.467 
+
+41.857 
+38.481 
+8.893 
+
+1,01 
+
+81.731 
+
+1,01 
+
+69.454 
+
+1,01 
+
+191.819 
+
+1,01 
+
+140.618 
+
+1,01 
+
+58.814 
+
+1,01 
+
+37.533 
+
+1,01 
+
+82.137 
+
+2,02 
+
+250.812 
+
+5,05 
+
+389.056 
+
+2,02 
+
+225.096 
+
+4,04 
+
+724.799 
+
+3,03 
+
+1.321.972 
+
+1,6 
+0,7 
+2,3 
+2,7 
+2,7 
+2,7 
+
+2,4 
+10,4 
+11,2 
+
+1,2 
+
+1,4 
+
+0,5 
+
+0,7 
+
+1,7 
+
+2,7 
+
+1,2 
+
+0,8 
+
+1,3 
+
+0,9 
+
+0,6 
+
+0,2 
+
+60 
+
+ 
+ 
+ 
+ 
+División de actividad 
+
+ALT in 
+itínere 
+
+% 
+
+Población 
+
+Índice de 
+incidencia 
+
+Transporte terrestre y por tubería 
+Almacenamiento y actividades anexas 
+al transporte 
+
+Actividades postales y de correos 
+
+Servicios de alojamiento 
+Servicios de comidas y bebidas 
+Edición 
+
+Programación, consultoría y otras 
+actividades relacionadas con la 
+informática 
+Actividades auxiliares a los servicios 
+financieros y a los seguros 
+Actividades de alquiler 
+Actividades relacionadas con el empleo 
+Actividades de seguridad e 
+investigación 
+Servicios a edificios y actividades de 
+jardinería 
+Actividades administrativas de oficina y 
+otras actividades auxiliares a las 
+empresas 
+Administración Pública y defensa 
+Seguridad Social obligatoria 
+
+Educación 
+
+Actividades sanitarias 
+Asistencia en establecimientos 
+residenciales 
+Actividades asociativas 
+Total 
+
+10 
+
+10,10 
+
+367.320 
+
+2 
+
+3 
+
+6 
+7 
+1 
+
+1 
+
+1 
+1 
+4 
+
+1 
+
+2 
+
+2 
+
+4 
+
+1 
+
+5 
+
+2,02 
+
+3,03 
+
+6,06 
+7,07 
+1,01 
+
+165.055 
+
+56.429 
+
+248.886 
+825.850 
+48.752 
+
+1,01 
+
+179.575 
+
+1,01 
+1,01 
+4,04 
+
+56.508 
+78.889 
+136.250 
+
+1,01 
+
+113.912 
+
+2,02 
+
+488.561 
+
+2,02 
+
+215.990 
+
+4,04 
+
+1,01 
+
+5,05 
+
+971.687 
+
+715.020 
+
+885.136 
+
+2 
+2 
+
+2,02 
+2,02 
+
+224.591 
+118.120 
+99  100,00  13.647.833 
+
+2,7 
+
+1,2 
+
+5,3 
+
+2,4 
+0,8 
+2,1 
+
+0,6 
+
+1,8 
+1,3 
+2,9 
+
+0,9 
+
+0,4 
+
+0,9 
+
+0,4 
+
+0,1 
+
+0,6 
+
+0,9 
+1,7 
+0,7 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+61 
+
+ 
+ 
+ 
+ 
+ 
+ 
+OTROS DATOS RECOPILADOS POR EL 
+GRUPO DE TRABAJO 
+
+1. ALCOHOL, DROGAS Y OTRAS SUSTANCIAS 
+PSICOACTIVAS 
+El efecto del consumo de alcohol y las drogas sobre la capacidad de conducir es innegable. Está 
+estudiado  por  multitud  de  autores  y  los  datos  que  periódicamente  difunde  la  DGT  así  lo 
+demuestran. 
+
+1.1            CONSUMO Y TRABAJO 
+
+El Observatorio Español de la Droga y las Toxicomanías, dependiente del Ministerio de Sanidad, 
+Política Social e Igualdad, en el año 2008 incluyó un módulo laboral en la Encuesta domiciliaria 
+sobre el consumo  de  alcohol  y  drogas  en España (EDADES). De la explotación de este módulo 
+específico  se  origina  la  publicación  “Encuesta  2007-2008  sobre  el  consumo  de  sustancias 
+psicoactivas  en  el  ámbito  laboral  en  España”11.  En  su  segunda  edición,  2013-201412,  se  han 
+actualizado  los  datos  de  la  primera  encuesta,  que  arroja  resultados  muy  interesantes  en  este 
+campo. 
+
+El ámbito poblacional de la encuesta es la población residente en España, en hogares familiares, 
+con  edades  comprendida  entre  16  y  64  años  y  potencialmente  activa,  es  decir  empleados  o 
+parados con experiencia laboral (a partir de ahora llamada población laboral).  
+
+El consumo de drogas, tanto legales como ilegales, entre la población laboral es un reflejo de lo 
+que  sucede  en  la  población  general  española,  tanto  en  el  porcentaje  y  características  de  los 
+consumidores como en la evolución temporal. 
+
+Los  datos  de  la  encuesta  indican  que  en  ambas  poblaciones,  las  sustancias  con  mayor 
+prevalencia de consumo son el alcohol, el tabaco, los hipnosedantes y el cannabis y se observa 
+un  aumento  del  consumo  (últimos  12  meses)  de  alcohol  e  hipnosedantes  y  un  descenso  del 
+consumo de canabis y cocaína durante el período 2013-2014. La población laboral registra, en 
+2013, mayor porcentaje de consumidores de alcohol y tabaco y menor de hipnosedantes que la 
+población general. 
+
+11 
+http://www.pnsd.msssi.gob.es/profesionales/sistemasInformacion/sistemaInformacion/pdf/Encuesta200
+7-2008AmbitoLaboral.pdf 
+
+12http://www.pnsd.msssi.gob.es/profesionales/publicaciones/catalogo/catalogoPNSD/publicaciones/pdf/
+EncuestaLaboral2013.pdf 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+62 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+En esta encuesta se define consumidor de sustancias psicoactivas al trabajador que ha realizado 
+alguno de los siguientes consumos: 
+
+•  Bebidas  alcohólicas.  Consumo  diario  (últimos  30  días).  Trabajador  que  ha  consumido 
+
+alguna bebida alcohólica todos los días, en los 30 días previos a ser encuestado. 
+
+•  Bebidas  alcohólicas.  Consumo  de  riesgo  (últimos  12  meses).  Trabajador  que  ha 
+consumido alguna bebida  alcohólica en los 12 meses previos a ser encuestado y en la 
+escala AUDIT (Alcohol Use Disorders Identification Test), validada a nivel internacional y 
+en España, obtiene una puntuación igual o superior a 8 puntos. 
+
+•  Tabaco.  Fumador  diario  (últimos  30 días). Trabajador que ha fumado tabaco todos los 
+
+días en los 30 días previos a ser encuestado. 
+
+•  Tabaquismo pasivo en el trabajo (últimos 12 meses). Trabajador que ha respirado en su 
+trabajo el humo del tabaco fumado por otras personas, ya sean compañeros o clientes, 
+en los 12 meses previos a ser encuestado. 
+
+•  Hipnosedantes (últimos 30 días). Trabajador que ha consumido hipnosedantes en los 12 
+meses previos a ser encuestado. Los hipnosedantes incluyen tranquilizantes (que tienen 
+por  objetivo  calmar  los  nervios  o  la  ansiedad)  y/o  los  somníferos  (cuyo  objetivo  es 
+facilitar y prolongar el sueño). Los resultados incluyen tanto con receta médica como sin 
+ella. Se considera que se están usando hipnosedantes sin receta médica: (1) cuando han 
+sido  recetados  por  el  médico  a  otra  persona  de  la  familia  y  no  al  entrevistado,  (2) 
+cuando  han  sido  recetados  por  el  médico  al  entrevistado,  en  alguna  ocasión,  y  éste  a 
+seguido consumiendo sin el debido control médico y (3) cuando el entrevistado los ha 
+conseguido por otros medidos distintos a la receta médica. 
+
+•  Cannabis (últimos 30 días). Trabajador que ha consumido cannabis en los 30 días previos 
+
+a ser encuestado. 
+
+•  Cocaína  (últimos  12  meses).  Trabajador  que  ha  consumido  cocaína  en  los  12  meses 
+
+previos a ser encuestado. 
+
+En 2013, el 11% de la población laboral consume bebidas alcohólicas a diario en los últimos 30 
+días, cifra similar a la de 2007. Por otra parte, se estima que el 5% de la población laboral realiza 
+un consumo de alcohol de riesgo (escala AUDIT). 
+
+El  tabaco  es,  tras  el  alcohol,  la  droga  legal  con  mayor  proporción  de  consumidores  entre  la 
+población laboral. En 2013, se registra un 34% de fumadores diarios, cifra similar a la de 2007. 
+Sin  embargo,  el  tabaquismo  pasivo  ha  disminuido  de  manera  muy  importante  desde  2007, 
+aunque lo sufre el 12% de los trabajadores en su lugar de trabajo. 
+
+En los últimos años se viene observando en España una tendencia ascendente en el consumo de 
+hipnosedantes,  con  y  sin  receta  médica,  incremento  también  presente  entre  la  población 
+laboral, habiendo ascendido el porcentaje de las personas que los han consumido en el último 
+mes del 5% en 2007 al 7% en 2013.  
+
+El cannabis es la droga ilegal más extendida entre la población laboral. Así, en 2013, el 7% lo ha 
+consumido  en  el  último  mes  y  el  2%  realiza  un  consumo  de  riesgo.  El  porcentaje  de 
+consumidores muestra una tendencia descendente desde 2007. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+63 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La  segunda  droga  ilegal  más  consumida  es  la  cocaína.  Aunque  se  observa  una  tendencia 
+ligeramente  descendente  desde  2007,  el  2%  de  la  población  laboral  la  ha  consumido  en  los 
+últimos 12 meses. 
+
+La prevalencia de consumo, en los últimos 12 meses, de otras drogas como anfetaminas, éxtasis, 
+alucinógenos o inhalables volátiles se sitúa por debajo del 1%. 
+
+En 2013, el 3% de la población laboral ha probado nuevas sustancia psicoactivas alguna vez en 
+su vida. El Sistema Español de Alerta Temprana lleva a cabo la monitorización y vigilancia activa 
+de la aparición y consecuencias del uso de este tipo de sustancias en España. 
+
+Los  autores  de  la  Encuesta  han  realizado  un  estudio  bivariado  y  análisis  de  regresión  logística 
+para poder determinar la existencia de interacción entre las diferentes variables de interés. 
+
+El consumo de sustancias psicoactivas está influido, entre otros factores, por las características 
+sociodemográficas.  Así,  la  proporción  de  hombres  consumidores  es  mayor  que  la  de  mujeres 
+para  todas  las  drogas,  excepto  para  los  hipnosedantes,  donde  se  aprecia  un  predominio 
+femenino. La edad también influye en el patrón de consumo, siendo los menores de 35 años los 
+que, en mayor proporción, realizan consumos de alcohol y cannabis de riesgo, y en los que se 
+concentra  el  mayor  porcentaje  de  consumidores  de  cocaína.  A  partir  de  esa  edad,  es  más 
+prevalente  el  consumo  de  bebidas  alcohólicas  a  diario,  sobre  todo  entre  los  hombres,  y  el  de 
+hipnosedantes, sobre todo en las mujeres. 
+
+De  igual  manera,  el  nivel  educativo  juega  un  papel  importante,  siendo  el  consumo  mayor  de 
+todas las drogas legales e ilegales analizadas entre aquellos que tienen menor nivel educativo. 
+
+La  situación  laboral  es  un  factor  relevante  a  tener  en  cuenta,  en  2013,  el  porcentaje  de 
+consumidores entre los parados es el doble que entre los empleados, registrando las cifras más 
+elevadas entre los parados que buscan su primer empleo (consumen cerca de 2 de cada 10), lo 
+que podría estar en relación con la concentración de personas jóvenes en este grupo. 
+
+Tabla 34. -Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población de 16 a 64 
+años según situación laboral. España  2013 
+
+Empleados (trabajando actualmente o temporalmente ausentes)  
+
+    Empleados trabajando actualmente 
+
+    Empleados temporalmente ausentes 
+
+Parados (con trabajo previo o buscando su primer empleo)  
+
+     Parados con trabajo previo  
+
+     Parados buscando su primer empleo) 
+
+4,5 
+
+4,5 
+
+4,2 
+
+5,5 
+
+5,5 
+
+11,5 
+
+Fuente:  Encuesta  2013-2014  sobre  consumo  de  sustancias  psicoactivas  en  el  ámbito  laboral  en  España  -  EDADES.  Observatorio 
+Español de la Droga y las Toxicomanías. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+64 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+El  sector  de  la  construcción  es  donde  se  encuentra  el  mayor  porcentaje  de  consumidores  de 
+alcohol (diario  y  de  riesgo),  de  tabaco (fumadores diarios y fumadores pasivos) y de cannabis, 
+siendo también elevado el porcentaje de consumidores de cocaína. 
+
+El sector de la agricultura/pesca/ganadería/extracción, registra consumos superiores a la media 
+y se encuentra entre los tres sectores con mayor proporción de consumidores de alcohol (diario 
+y de riesgo) y de tabaco (diario y fumadores pasivos). 
+
+También destaca el  sector  de  la  hostelería, que se sitúa entre los cuatro sectores de actividad 
+con mayor proporción de consumidores en todas las drogas analizadas y por encima de la media 
+de la población laboral. 
+
+El  consumo  de  hipnosedantes  se  concentra  en 
+trabajadores  de  actividades 
+domésticas/servicios  personales  y  de  la  administración  púbica/educación/sanidad/servicios 
+sociales. Por último, aquellos que desempeñan sus trabajos en actividades artísticas, recreativas 
+y deportivas registran consumos de cocaína y cannabis muy por encima de la media. 
+
+los 
+
+Gráfico 26.- Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población laboral según 
+SECTOR DE ACTIVIDAD. España 2013. 
+
+Construcción
+Agricultura, pesca, ganadería y construcción
+Hostelería
+Transporte, almacenamiento y comunicaciones
+
+Actividad financiera, seguros, inmobiliarias y…
+
+Industria manufacturera y suministros
+Comercio, reparación de vehículos a motor
+Administración pública, educación, sanidad y…
+Actividades domésticas y servicios personales
+
+5,3 
+
+4,6 
+
+4,3 
+
+3,9 
+
+2,5 
+
+2,0 
+
+9,0 
+
+7,6 
+
+7,0 
+
+0,0 1,0 2,0 3,0 4,0 5,0 6,0 7,0 8,0 9,0 10,0
+
+Fuente:  Encuesta  2013-2014  sobre  consumo  de  sustancias  psicoactivas  en  el  ámbito  laboral  en  España  -  EDADES.  Observatorio 
+Español de la Droga y las Toxicomanías. 
+
+Los  trabajadores  manuales,  especialmente  los  cualificados,  ocupan  el  primer  lugar  para  el 
+consumo de alcohol (diario y de riesgo), tabaco (diario y fumadores pasivos), cannabis y cocaína. 
+
+Los directivos y profesionales registran valores inferiores a la media para el consumo de todas 
+las drogas analizadas. 
+
+El consumo de hipnosedantes, que muestra un patrón de distribución diferente, se concentra en 
+el  personal  administrativo  y  aquellos  que  trabajan  en  servicios  de  restauración,  personales, 
+protección y vendedores. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+65 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 27.- Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población laboral según 
+CATEGORÍA OCUPACIONAL. España 2013 
+
+Trabajador manual cualificado
+
+Trabajador manual no cualificado
+
+Trabajadores de los servicios de restauración,…
+
+6,7 
+
+5,6 
+
+4,6 
+
+Personal administrativo
+
+Directivos y profesionales
+
+3,3 
+
+3,1 
+
+0,0
+
+1,0
+
+2,0
+
+3,0
+
+4,0
+
+5,0
+
+6,0
+
+7,0
+
+Fuente:  Encuesta  2013-2014  sobre  consumo  de  sustancias  psicoactivas  en  el  ámbito  laboral  en  España  -  EDADES.  Observatorio 
+Español de la Droga y las Toxicomanías. 
+
+Con respecto al tipo de jornada laboral, los trabajadores de jornada continua de noche ocupan 
+los primeros puestos para el consumo de alcohol (diario y de riesgo), tabaco (diario y fumadores 
+pasivos), hipnosedantes, cannabis y cocaína. Los trabajadores con jornada reducida concentran 
+la  mayor  proporción  de  consumidores  de  hipnosedantes,  y  aquellos  con  jornada  partida  de 
+mañana  y  tarde  son  los  que  registran  el  porcentaje  más  elevado  para  el  consumo  de  bebidas 
+alcohólicas a diario. 
+
+Gráfico 28.- Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población laboral según 
+JORNADA DE TRABAJO. España 2013 
+
+Jornada continua de noche
+Jornada continua de tarde
+Turnos rotatorios con el de noche
+Jornada partida (mañana y tarde)
+Jornada continua de mañana
+Turnos rotatorios excepto el de noche
+Jornada reducida
+
+7,7 
+
+6,3 
+
+5,0 
+4,9 
+
+4,1 
+
+3,7 
+
+2,4 
+
+Fuente:  Encuesta  2013-2014  sobre  consumo  de  sustancias  psicoactivas  en  el  ámbito  laboral  en  España  -  EDADES.  Observatorio 
+Español de la Droga y las Toxicomanías. 
+
+0,0
+
+1,0
+
+2,0
+
+3,0
+
+4,0
+
+5,0
+
+6,0
+
+7,0
+
+8,0
+
+9,0
+
+La encuesta laboral proporciona información sobre el porcentaje de consumidores de sustancias 
+psicoactivas  según  perciban  o  no  que  están  expuestos  a  diferentes  factores  de  riesgos.  Entre 
+estos factores, la encuesta analiza insatisfacción en el trabajo, riesgos psicosociales, riesgos de 
+seguridad, condiciones de empleo y daños para la salud. 
+
+En términos generales, el porcentaje de consumidores de sustancias psicoactivas es mayor entre 
+los que afirman estar expuestos a ciertos riesgos laborales. Así, por ejemplo, para el consumo de 
+cocaína  se  registran  prevalencias  más  altas  entre  los  que  tienen  jornadas  prolongadas  o  con 
+escaso tiempo de descanso o en los trabajos que exigen rendimiento muy alto. Igualmente, los 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+66 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+porcentajes más elevados de consumidores de hipnosedantes se observan entre los que tienen 
+estrés o tensión en el trabajo o se sienten agotados tras el mismo. Por último, es entre los que 
+dicen tener  un  trabajo  peligroso o  en  condiciones de calor o frío donde se identifica la mayor 
+proporción de consumidores de alcohol de riesgo. 
+
+Gráfico 29.- Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población laboral según 
+presenten o no diferentes RIESGOS LABORALES. España 2013 
+
+Insatisfecho con su trabajo
+
+4,6 
+
+6,5 
+
+Largos desplazamientos o ausencias de…
+
+Escasa perspectiva de promoción
+
+Insatisfecho con el trato de los compañeros
+
+Trabajo por debajo de su preparación
+
+Jornadas con escaso tiempo de descanso
+
+Trabajo que exige rendimiento muy alto
+
+Penosidad en el trabajo
+
+Trabajo peligroso
+
+Sentirse mal pagado
+
+DAÑOS INICIALES PARA LA SALUD
+
+Sentir agotamiento tras el trabajo
+
+7,4 
+
+5,9 
+
+6,2 
+
+4,4 
+4,6 
+4,4 
+4,3 
+
+5,0 
+
+4,8 
+5,0 
+4,8 
+4,6 
+4,7 
+
+5,1 
+
+5,4 
+
+4,3 
+4,2 
+4,0 
+4,1 
+
+3,9 
+
+3,7 
+
+4,4 
+
+4,2 
+4,2 
+
+5,5 
+
+si
+
+no
+
+7,0 
+7,0 
+7,0 
+
+7,2 
+
+7,7 
+
+6,7 
+
+6,6 
+
+4,5 
+
+4,2 
+
+5,8 
+6,0 
+
+0,0 1,0 2,0 3,0 4,0 5,0 6,0 7,0 8,0 9,0
+
+Fuente:  Encuesta  2013-2014  sobre  consumo  de  sustancias  psicoactivas  en  el  ámbito  laboral  en  España  -  EDADES.  Observatorio 
+Español de la Droga y las Toxicomanías. 
+
+1.2           CONSUMO Y ACTIVIDAD DE CONDUCIR 
+
+Para estudiar la relación entre la actividad conductora y el consumo de sustancias psicoactivas 
+en  la  población  general  disponemos  de  información  facilitada  por  la  DGT,  procedente  del 
+proyecto europeo DRUID13 (Driving Under Influence of alcohol and Drugs), concluido en 2013.  
+
+El 9,22% de los conductores que participaron en el estudio presentaron resultado positivo en el 
+consumo de al menos una de las sustancias analizadas. 
+
+Alcohol y cannabis (separadamente), fueron las sustancias que determinaron la mayor parte de 
+los resultados positivos (el 3.41% y el 3.16% respectivamente). Los casos positivos en cocaína y 
+
+13 http://www.dgt.es/Galerias/seguridad-vial/investigacion/estudios-e-informes/2015/20150600.-
+Informe-2013-drogas-alcohol-y-medicamentos.pdf 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+67 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+los positivos en la combinación de varias drogas fueron igualmente frecuentes (0.89%), seguidos 
+de  los  positivos  en  alcohol  +  drogas  (0.69%).  Los  positivos  en  cada  una  de  las  restantes 
+agrupaciones fueron, para cada una de ellas en el total de la muestra, inferiores al 0.1%. 
+
+Tabla 35.- Distribución de casos positivos según agrupaciones de sustancias y sexo 
+
+Sexo 
+
+Hombre (N= 2286) 
+
+Mujer (N=621) 
+
+Total (N= 2907) 
+
+N 
+
+% [IC 95%] 
+
+N 
+
+% [IC 95%] 
+
+N 
+
+% [IC 95%] 
+
+Negativos 
+
+2052  89.76 [88.49-90.98] 
+
+587 
+
+94.52 [92.84-96.40] 
+
+2639 
+
+90.78 [89.66-91.76] 
+
+THC 
+
+Anfetaminas 
+
+Alcohol>0.05 
+
+Cocaína 
+
+Opiáceos 
+
+Benzodiacepinas 
+
+Varias Drogas 
+
+Alcohol+drogas 
+
+85 
+
+1 
+
+82 
+
+22 
+
+1 
+
+1 
+
+25 
+
+17 
+
+3.72 [2.94-4.49] 
+
+0.04 [0.00-0.15] 
+
+7 
+
+1 
+
+1.13[0.29-1.95] 
+
+0.16 [0.00-0.37] 
+
+3.59 [2.84-4.37] 
+
+17 
+
+2.74 [1.41-3.97] 
+
+0.96 [0.56-1.37] 
+
+0.04 [0.00-0.12] 
+
+0.04 [0.00-0.14] 
+
+1.09 [0.67-1.52] 
+
+0.74 [0.39-1.10] 
+
+4 
+
+0 
+
+1 
+
+1 
+
+3 
+
+0.64 [0.00-1.16] 
+
+[-] 
+
+0.16 [0.00-0.63] 
+
+0.16 [0.00-0.57] 
+
+0.48 [0.00-0.96] 
+
+92 
+
+2 
+
+99 
+
+26 
+
+1 
+
+2 
+
+26 
+
+20 
+
+3.16 [2.50-3.76] 
+
+0.07 [0.00-0.25] 
+
+3.41 [2.75-4.07] 
+
+0.89 [0.54-1.21] 
+
+0.03 [0.00-0.09] 
+
+0.07 [0.00-0.20] 
+
+0.89 [0.55-1.24] 
+
+0.69 [0.42-1.04] 
+
+Fuente: Proyecto europeo DRUID. 2013 
+
+La  evolución  de  los  análisis  toxicológicos  realizados  por  el  Instituto  Nacional  de  Toxicología  y 
+Ciencias Forenses muestra, en lo referido a conductores fallecidos en accidente de tráfico, una 
+tendencia  a  la  baja  en  los  dos  últimos  años  en  el  caso  del  alcohol.    En  el  caso  de  las  drogas 
+ilegales y los psicofármacos presentan también tendencia a la baja en el último año. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+68 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 30.- Evolución porcentual de los conductores fallecidos analizados con presencia de alcohol o 
+drogas. Años 2010-2014. Fuente: INTCF 
+
+Fuente: Instituto Nacional de Toxicología y Ciencias Forenses 
+Número de muestras analizadas: 2010=855; 2011=702; 2012=615;2013=557;2014=614 
+
+En los peatones se observa una tendencia a la baja en los últimos años en el caso del alcohol y 
+los psicofármacos. En el consumo de drogas ilegales el número asciende en el último año.  
+
+Cuantitativamente  los  porcentajes  encontrados  en  los  peatones,  en  comparación  con  los 
+conductores,  son  menores  en  el  caso  del  alcohol  (29,3%  frente  a  35,1%)  y  en  el  caso  de  las 
+drogas 
+los  psicofármacos  (27,4%  y  14,4% 
+respectivamente). 
+
+ilegales  (12,8%  por  15,3%)  y  mayores  en 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+69 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 31.- Evolución porcentual de los peatones fallecidos analizados con presencia de alcohol o 
+drogas. Años 2010-2014. Fuente: INTCF 
+
+Fuente: Instituto Nacional de Toxicología y Ciencias Forenses 
+Número de muestras analizadas: 2010=211; 2011=192; 2012=164;2013=161;2014=173 
+
+Por último, y para insistir aún más en la relación entre siniestralidad vial y consumo de alcohol, 
+se presentan datos de la Agrupación de Tráfico de la Guardia Civil14, que realizó durante 2014 un 
+total  de  5.536.613  controles  preventivos.  El  porcentaje  de  pruebas  de  alcoholemia  positivas a 
+causa de un accidente triplica el porcentaje de positivos realizados en controles preventivos.  
+
+Tabla 36.- Pruebas realizadas por la Agrupación de Tráfico de la Guardia Civil15. Año 2014 
+
+Pruebas 
+
+Número total de pruebas 
+Pruebas con resultado positivo 
+Porcentaje de pruebas positivas 
+
+Por accidente 
+
+102.182 
+4.854 
+4,8% 
+
+Por 
+infracción 
+698.202 
+5.724 
+0,8% 
+
+Control 
+preventivo 
+5.536.613 
+87.683 
+1,6% 
+
+14 Cuya actividad excluye las vías públicas de las comunidades autónomas de País Vasco y Cataluña así 
+como los Municipios con policía propia. 
+15 Cuya actividad excluye las vías públicas de las comunidades autónomas de País Vasco y Cataluña así 
+como los Municipios con policía propia. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+70 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+2. ANTIGUEDAD DEL PARQUE MÓVIL 
+Por  otro  lado,  la  DGT  ha  elaborado  un  informe  cuya  finalidad  es  presentar  una  descripción 
+detallada de la antigüedad del parque móvil existente en España con fecha de referencia el 31 
+de diciembre de 2014. 
+
+En  el  informe  se  definen  tres  grupos  de  análisis:  parque  móvil  completo,  parque  con  una 
+antigüedad inferior a 25 años y parque con una antigüedad inferior a 15 años. Estos grupos de 
+análisis podrían considerarse como una aproximación al parque real circulante. 
+
+Los  vehículos  que  componen  el  parque  móvil  se  clasificaron  en  las  siguientes  categorías: 
+turismos, motocicletas y ciclomotores, autobuses, camiones de menos de 3500 Kg, camiones de 
+más de 3500 Kg, furgonetas y otros vehículos.  
+
+La  siguiente  tabla  muestra  el  número  total  de  vehículos  de  alta  por  año  de  matriculación 
+considerando  un  grupo  que  recoge  aquellos  que  tienen  una  antigüedad  igual  o  superior  a  25 
+años. Las dos últimas columnas representan las cifras en términos porcentuales y el porcentaje 
+acumulado considerando la antigüedad. 
+
+Tabla 37.- Número total de vehículos de alta por año de matriculación 
+
+AÑO DE MATRICULACIÓN 
+
+ANTIGÜEDAD 
+
+Nº 
+
+% 
+
+% ACUM 
+
+ Anterior a 1990 
+1990 
+1991 
+1992 
+1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 
+2013 
+2014 
+TOTAL 
+
+25 y más  3.376.042 
+318.921 
+24 
+334.217 
+23 
+388.337 
+22 
+312.531 
+21 
+397.099 
+20 
+411.843 
+19 
+527.071 
+18 
+710.941 
+17 
+16 
+958.086 
+15  1.267.163 
+14  1.352.040 
+13  1.466.848 
+12  1.428.686 
+11  1.619.636 
+10  1.907.365 
+9  2.118.669 
+8  2.179.113 
+7  2.150.456 
+6  1.486.208 
+5  1.192.785 
+4  1.207.642 
+999.508 
+3 
+841.827 
+2 
+888.632 
+1 
+0  1.134.381 
+  30.976.047 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+10,9% 
+1,0% 
+1,1% 
+1,3% 
+1,0% 
+1,3% 
+1,3% 
+1,7% 
+2,3% 
+3,1% 
+4,1% 
+4,4% 
+4,7% 
+4,6% 
+5,2% 
+6,2% 
+6,8% 
+7,0% 
+6,9% 
+4,8% 
+3,9% 
+3,9% 
+3,2% 
+2,7% 
+2,9% 
+3,7% 
+
+100,0% 
+89,1% 
+88,1% 
+87,0% 
+85,7% 
+84,7% 
+83,4% 
+82,1% 
+80,4% 
+78,1% 
+75,0% 
+70,9% 
+66,5% 
+61,8% 
+57,2% 
+52,0% 
+45,8% 
+39,0% 
+32,0% 
+25,1% 
+20,3% 
+16,4% 
+12,5% 
+9,3% 
+6,6% 
+3,7% 
+
+71 
+
+ 
+ 
+ 
+ 
+ 
+Además de las medidas estadísticas citadas anteriormente, resulta de gran interés un estudio de 
+los percentiles para cada una de las clases de vehículos que permite conocer qué porcentaje de 
+vehículos tienen una antigüedad inferior determinada. Así, por ejemplo, a partir de la siguiente 
+tabla  se  puede  asegurar  que  el  50  %  de  los  turismos  del  parque  móvil  de  España  tiene  una 
+antigüedad inferior a 10 años. 
+
+Tabla 38- Percentiles por tipo de vehículo 
+
+TIPO DE VEHICULO 
+TURISMOS 
+MOTOCICLETAS 
+AUTOBUSES 
+CAMIONES_menos_3500kg 
+CAMIONES_mas_3500kg 
+FURGONETAS 
+TOTAL 
+
+P_10  P_20  P_30  P_40  P_50  P_60  P_70  P_80  P_90  P_100 
+112.5 
+111.0 
+109.0 
+109.5 
+112.5 
+110.5 
+112.5 
+
+10.5 
+9.5 
+10.5 
+10.5 
+13.5 
+13.5 
+10.5 
+
+24.5 
+34.5 
+31.5 
+18.5 
+41.5 
+29.5 
+25.5 
+
+16.5 
+24.5 
+17.5 
+15.5 
+27.5 
+24.5 
+17.5 
+
+14.5 
+17.5 
+14.5 
+13.5 
+22.5 
+20.5 
+14.5 
+
+9.5 
+8.5 
+8.5 
+9.5 
+11.5 
+11.5 
+9.5 
+
+12.5 
+11.5 
+12.5 
+12.5 
+16.5 
+16.5 
+12.5 
+
+7.5 
+6.5 
+7.5 
+8.5 
+9.5 
+9.5 
+7.5 
+
+3.5 
+2.5 
+3.5 
+4.5 
+6.5 
+3.5 
+3.5 
+
+5.5 
+5.5 
+5.5 
+7.5 
+7.5 
+7.5 
+5.5 
+
+Tabla 39- Evolución de la antigüedad media del parque móvil 
+
+CAMIONES 
+MENOS 
+3500 
+5,37 
+6,35 
+7,33 
+7,98 
+8,68 
+9,44 
+10,14 
+10,78 
+
+AÑO 
+
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 
+2013 
+2014 
+
+CAMIONES 
+MÁS 3500 
+
+8,17 
+9,06 
+9,96 
+10,39 
+10,86 
+11,32 
+11,70 
+12,00 
+
+FURGONETAS  AUTOBUSES  TURISMOS  MOTOCICLETAS  TODOS 
+
+9,54 
+10,39 
+11,25 
+11,54 
+11,78 
+12,00 
+12,16 
+12,17 
+
+6,62 
+7,56 
+8,5 
+8,7 
+8,85 
+9,15 
+9,43 
+9,71 
+
+6,53 
+7,46 
+8,39 
+8,7 
+9,12 
+9,55 
+9,92 
+10,2 
+
+6,52 
+7,32 
+8,16 
+8,39 
+8,69 
+9,03 
+9,29 
+9,41 
+
+6,67 
+7,58 
+8,5 
+8,84 
+9,26 
+9,68 
+10,05 
+10,32 
+
+Del  análisis  de  la  gráfico  39  se  desprende  que  la  edad  media  del  parque  de  vehículos  ha 
+aumentado casi cuatro años en 2014 con respecto a la situación del año 2007. Las furgonetas es 
+el  tipo  de  vehículo  que  menos  ha  envejecido  en  este  periodo  de  tiempo  mientras  que  por  el 
+contrario  los  camiones  de  menos  de  3500  Kg  son  los  que  han  experimentado  un  mayor 
+incremento  en  su  antigüedad.  En  2014  las  motocicletas  son  los  vehículos  más  nuevos  del 
+parque. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+72 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 32.- Antigüedad media por tipo de vehículo 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+73 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACCIONES DESARROLLADAS E 
+IDENTIFICADAS POR EL GRUPO 
+TÉCNICO DE LA AGE 
+
+Una  vez  analizado  el  mandato  de  la  CNSST  en  la  reunión  constitutiva  del  Grupo  de  Trabajo 
+“Seguridad Vial Laboral”, se acordó establecer una metodología de trabajo que comienza por la 
+recopilación  de  información  procedente,  por  una  parte,  de  la  base  de  datos  de  accidentes  de 
+tráfico de la DGT y, por otra, de la base de datos donde se recogen los accidentes laborales, el 
+sistema ESTADEL gestionado por la Subdirección General (SG) de Estadística del MEYSS. A partir 
+de aquí, se intenta hacer un cruce de ambas bases de datos para realizar un análisis estadístico 
+conjunto.  
+
+Para  ello  se  planteó  la  creación  de  un  grupo  técnico  de  la  Administración  General  del  Estado 
+(AGE) y, se convino que los resultados obtenidos se presentasen al Grupo de Trabajo “Seguridad 
+Vial Laboral” de la CNSST. 
+
+A partir de este compromiso, el grupo técnico de la AGE, compuesto por representantes de la 
+DGT,  la  SG  de  Estadística  del  MEYSS,  el  INSHT,  la  Dirección  General  de  Ordenación  de  la 
+Seguridad Social (DGOSS) y la ITSS, comenzaron su labor conjunta.  
+
+En  una  primera  aproximación,  se  trató  de  situar  los  puntos  comunes  y  discordantes  entre  el 
+sistema ARENA de grabación de datos de accidentes de tráfico de la DGT y el sistema ESTADEL, 
+donde se registran los partes oficiales de accidentes de trabajo. Como herramienta de trabajo se 
+utilizó  un  fichero  Excel  donde  se  identificaron  las  distintas  variables  que  intervienen  en  la 
+codificación tanto, de un accidente laboral de tráfico, como en el accidente de tráfico. Fruto del 
+análisis de este fichero y de los intercambios de información entre los componentes del grupo 
+técnico de la AGE, se desprenden una serie de evidencias. 
+
+  En el ámbito normativo: 
+
+Al inicio de este trabajo, la normativa principal de referencia para la SG de Estadística del MEYSS 
+es la Ley General de la Seguridad Social (LGSS), la O.M. TAS/2926/2002 de 19 de noviembre, por 
+la  que  se  establecen  nuevos  modelos  para  la  notificación  de  los  accidentes  de  trabajo  y  se 
+posibilita  su  transmisión  por  procedimiento  electrónico  y  Orden  del  Ministerio  de  Relaciones 
+con las Cortes y de la Secretaría del Gobierno de 18 febrero de 199316, por la que se modifica la 
+estadística de accidentes de circulación (donde se define el accidente de tráfico). 
+
+La normativa que aplica para la DGT es el R.D. 339/1990, de 2 de marzo, por el que se aprueba 
+el Texto Articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, la 
+Orden  Ministerial,  que  data  del  año  1993,  sobre  el  citado  sistema  ARENA,  donde  no  se 
+diferencia  dentro  del  concepto  de  accidente  de  tráfico  por  motivo  laboral,  si  se  trata  de  un 
+
+16 Derogada por la Orden INT/2223/2014, de 27 de octubre, por la que se regula la comunicación de la 
+información al Registro Nacional de Víctimas de Accidentes de Tráfico. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+74 
+
+ 
+ 
+ 
+                                                           
+accidente  “en  misión”  o  un  accidente  “in  itínere”,  e  incluye  en  este  concepto  únicamente  los 
+accidentes ocurridos en vías con acceso público. Este Real Decreto ha sido modificado por la Ley 
+6/201417    ,  una  de  las  mejoras  que  conlleva,  es  la  introducción  obligatoria  del  DNI,  o  NIE  en 
+extranjeros;  por  lo  que  ya  se  dispondrá  de  los  datos  de  identificación  personal  en  todos  los 
+casos, y la Orden TIN/1202/2011, de 4 de mayo, por la que se regulan los ficheros de datos de 
+carácter personal del Ministerio del Interior. 
+
+  En el ámbito conceptual y recogida de información: 
+
+Publicación de la “Guía de cumplimentación del parte de accidente de trabajo (PAT)”, que ofrece 
+ayuda  a  los  agentes  intervinientes  en  el  sistema  ESTADEL  para  que  puedan  determinar  con 
+claridad si tienen que marcar "SÍ" o "NO" en esta pregunta de accidente de tráfico, en base a las 
+definiciones  que  ya  existen  en  la  normativa  de  tráfico,  de  modo  que  cuando  se  cruce 
+información  entre las  bases  de  datos  ARENA y ESTADEL los conceptos manejados sean  lo más 
+parejos posible. 
+
+Los accidentes registrados por la DGT hacen referencia al evento en sí, registrando los datos de 
+las personas (pasajeros y/ o peatones) y los vehículos implicados. La Guardia Civil de Tráfico o 
+los  policías  locales  son  los  encargados  de  recoger  la  información  in  situ  relacionada  con  los 
+accidentes  de  tráfico.  En  consecuencia,  existen  diferentes  matices  a  la  hora  de  codificar  el 
+accidente de tráfico, según lo realice la DGT o el MEYSS.  
+
+Esta  discordancia  también  se  hace  patente  en  los  datos  relacionados  con  la  “gravedad” 
+recogidos por la DGT y registrados en el momento del accidente a través del agente de policía. Si 
+a posteriori, el accidente comporta otras consecuencias no se asientan en el registro. En el caso 
+de las “lesiones”, la mayoría de las veces no se registran y de hacerlo, también se recogen en el 
+momento del accidente, sin valorar posibles consecuencias derivadas del mismo.  
+
+La DGT se enfrenta a un inconveniente a la hora de la recogida de los datos según el lugar donde 
+se produzca el accidente, dado que los policías locales no reportan con la misma fiabilidad que la 
+Guardia  Civil  de  Tráfico.  En  general,  se  echa  en  falta  la  información  en  las  zonas  urbanas,  y 
+además,  a  medida  que  la  gravedad  del  accidente  es  menor  la  información  disponible  es  más 
+escasa, porque el reporte policial se relaja mucho en las zonas urbanas. Por tanto, a medida que 
+aumenta la gravedad del accidente se tienen datos con más fiabilidad. 
+
+Sin  embargo,  en  el  PAT  recogido  en  el  sistema  ESTADEL,  el  grado  de  lesión  es  el  mismo  que 
+figura en el parte médico de baja de la Seguridad Social, y su codificación será: leve, grave, muy 
+grave  y  mortal.  En  relación  a  la  parte  del  cuerpo  lesionada  se  codifica  según  la  Orden 
+TAS/2926/2002, Tabla 6, Anexo II. A la vez que los accidentes mortales y muy graves deben de 
+ser notificados a la ITSS por parte de la empresa. 
+
+Para registrar el “lugar del accidente”, la DGT recoge el dato y, en el momento que registra el 
+“motivo del desplazamiento” se indica, si procede, que tiene relación laboral. 
+
+17 Ley 6/2014, de 7 de abril, por la que se modifica el texto articulado de la Ley sobre Tráfico, Circulación 
+de Vehículos a motor y Seguridad vial, aprobado por el RD legislativo 339/1990 de 2 de marzo (BOE  
+08/04/14) 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+75 
+
+ 
+ 
+ 
+ 
+                                                           
+Una  vez  analizada  la  situación  real,  se  realiza  el  estudio  de  viabilidad  del  cruce  de  la 
+información  sobre  accidentes  de  tráfico  contenida  en  el  sistema  ARENA  de  la  DGT  con  la 
+información sobre accidentes de trabajo con baja declarados en el sistema ESTADEL que consten 
+como accidentes de tráfico. 
+El ámbito temporal del estudio se ajusta a los años 2010 y 2011. En enero de 2013 se procede a 
+la ejecución del estudio. 
+
+La  DGT  informa  que  en  un  35%  de  los  casos  no  se  dispone  de  la  identificación  de  la  persona 
+accidentada, en particular en aquellos casos en que el accidente ocurria en Cataluña, País Vasco 
+o zonas urbanas del resto de España. Este déficit de información de datos personales dificulta 
+enormemente el éxito del cruce de datos que se quiere realizar. 
+
+Se acordó entre las partes implicadas que fuese la SG de Estadística del MEYSS quien enviase a la 
+DGT un fichero extraído de ESTADEL consistente únicamente en los “identificadores de persona 
+física”  y  “fecha  del  accidente”  de  aquellos  accidentes  de  trabajo  que  constasen  en  el  Sistema 
+Delt@  como  accidentes  de  tráfico  dentro  del  periodo  de  estudio,  donde  se  incluyen  tanto 
+accidentes  en  jornada  como  accidentes  in  itínere.  Una  vez  realizado  el  cruce  de  datos  por  la 
+DGT, ésta devolvería a la SG de Estadística del MEYSS un fichero con el listado de los registros 
+del Sistema Delt@ que consiguieron cruzar. 
+
+Esta cesión de datos personales se ajustó a los casos contemplados en la declaración del fichero 
+de  ESTADEL  ante  la  Agencia  de  Protección  de  Datos,  al  tratarse  de  un  estudio  en  materia 
+estadística  y  siendo  el  destinatario  un  órgano  público  de  ámbito  estadístico.  Se  ha  tenido  en 
+cuenta la legislación en materia de protección de datos personales y la legislación sobre secreto 
+estadístico. 
+
+En total se han producido dos cesiones de ficheros a lo largo de este estudio y, por consiguiente 
+dos cruces de datos entre las bases de datos implicadas: 
+
+  En el primer cruce, el fichero enviado desde la SG de Estadística del MEYSS consta de los campos 
+“identificador de persona física” y “fecha del accidente”; con el objetivo de abarcar casos donde 
+pudiera  haber  cierto  desfase  en  la  fecha  declarada,  se  consideraron  los  casos  en  los  que  el 
+desfase es de 7 días o menor. El éxito en este primer cruce de datos ha sido de un 9,7 % (12.025 
+casos) respecto al total de ESTADEL. 
+
+  El  segundo  intento  de  cruce  de  datos  se  realiza  en  las  mismas  condiciones  y  se  añaden  tres 
+campos más al fichero extraído  del  sistema ESTADEL,  “nombre”, “primer  apellido” y “segundo 
+apellido” del trabajador accidentado. El aporte de estos nuevos datos es prácticamente nulo al 
+éxito del cruce. 
+Parte del fracaso de estos cruces, se atribuye a la falta de identificación de la persona física en 
+los  atestados  de  la  DGT,  sobre  todo  en  zonas  urbanas,  Cataluña  y  País  Vasco.  La  incipiente 
+modificación de la mencionada Orden Ministerial solucionará el problema del déficit de recogida 
+de datos por parte de los responsables, dado que se verán obligados a pasar los datos a la DGT. 
+Por lo que es esperable en el futuro, que el porcentaje de cruce sea significativamente superior. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+76 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dado que el porcentaje de cruce en algunas zonas es mayor, como es el caso de la Comunidad 
+Autónoma  de  Aragón,  se  decide  explorar  los  accidentes  de  tráfico  de  esta  comunidad  en  el 
+período 2011-2012.  
+
+El éxito obtenido en este estudio es de aproximadamente 25% de los registros con 2 variables 
+coincidentes,  “NIF  del  accidentado”  y  “fecha  del  accidente”  (hasta  24  horas  de  desfase).  En 
+cifras absolutas, se ha obtenido el cruce de 581 de los 2.297 accidentes.  
+
+A  la  vista  de  los  resultados  obtenidos,  en  las  circunstancias  actuales  no  sería  aconsejable  la 
+realización del cruce entre estas dos bases de datos. Además, es conveniente tener en cuenta 
+que la información agregada que se pudiera obtener estaría muy sesgada, ya que no se puede 
+realizar el cruce en parte del territorio nacional y, en el resto de éste el cruce se encuentra muy 
+comprometido ante la ausencia de datos en zona urbana.  
+
+Las modificaciones que se están realizando en el sistema de información de la ITSS (INTEGRA) a 
+través del proyecto SIGMA permitirá mejorar la información disponible sobre los accidentes de 
+trabajo que se investigan por la Inspección. 
+
+De  un  lado  porque  ello  permitirá  el  volcado  en  el  Sistema  de  información  de  los  datos  de 
+accidentes  comunicados  por  las  empresas  mediante  Delt@.  Con  ello  se  podrá  cotejar  la 
+información trasladada mediante Delt@ con los datos obtenidos por la ITSS en la investigación. 
+A modo de ejemplo, se podrán incluir datos referentes al contrato de trabajo del accidentado o 
+a  la  existencia  previa  de  formación  o  información  de  dicho  accidentado  en  materia  de 
+prevención de riesgos laborales.  
+
+También  se  podrá  obtener  la  información  temprana  sobre  accidentes  de  trabajo  mortales 
+(avances de información enviados por las Inspecciones de trabajo en el plazo de 48 horas desde 
+la fecha del accidente), sin perjuicio del informe definitivo cuando se complete la investigación. 
+
+Por  otro  lado,  el  Real  Decreto  404/201018,  de  31  de  marzo,  regula  el  establecimiento  de  un 
+sistema  de  reducción  de  las  cotizaciones  por  contingencias  profesionales  a  las  empresas  que 
+hayan contribuido especialmente a la disminución y prevención de la siniestralidad laboral. 
+
+A  tal  fin,  la  empresa  deberá  acreditar  el  desarrollo  o  la  realización,  durante  el  periodo  de 
+observación, de dos, al menos, de las siguientes acciones: 
+
+- 
+
+Incorporación  a  la  plantilla  de  recursos  preventivos  propios  (trabajadores  designados  o 
+servicio  de  prevención  propio),  aun  cuando  no  esté  legalmente  obligada  a  efectuarlo,  o 
+ampliación de los recursos propios existentes. 
+
+-  Realización  de  auditorías  externas  del  sistema  preventivo  de  la  empresa,  cuando  ésta  no 
+
+esté legalmente obligada a ello. 
+
+18 Real Decreto 404/2010, de 31 de marzo, por el que se regula el establecimiento de un sistema de 
+reducción de las cotizaciones por contingencias profesionales a las empresas que hayan contribuido 
+especialmente a la disminución y prevención de la siniestralidad laboral 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+77 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                           
+- 
+
+Existencia  de  planes  de  movilidad  vial  en  la  empresa  como  medida  para  prevenir  los 
+accidentes de trabajo en misión y los accidentes «in itínere». 
+
+-  Acreditación  de  la  disminución,  durante  el  período  de  observación,  del  porcentaje  de 
+trabajadores  de  la  empresa  o  centro  de  trabajo  expuestos  a  riesgos  de  enfermedad 
+profesional. 
+
+-  Certificado  de  calidad  de  la  organización  y  funcionamiento  del  sistema  de  prevención  de 
+riesgos laborales de la empresa, expedido por entidad u organismo debidamente acreditado 
+por  la  Entidad  Nacional  de  Acreditación  (ENAC),  justificativo  de  que  tales  organización  y 
+funcionamiento se ajustan a las normas internacionalmente aceptadas 
+
+La  evolución  del  número  de  solicitudes  presentadas  y  el  porcentaje  de  las  que  alegaban  que 
+tenían un plan de movilidad vial se recogen en la siguiente tabla: 
+
+Tabla 40.- Número de solicitudes presentadas y porcentaje que alegaban que tenían un plan de 
+movilidad vial 
+
+Año 
+
+Nº solicitudes 
+
+2009 
+2010 
+2011 
+2012(*) 
+2013 
+
+7.942 
+6.452 
+6.590 
+8.685 
+8.186 
+
+Fuente: Dirección General de Ordenación de le Seguridad Social 
+
+%  con plan movilidad 
+vial 
+67,17 % 
+68,27 % 
+67,98 % 
+61,34 % 
+65,82 % 
+
+(*)El año 2012 fue el primero en que las pequeñas empresas, según definición del art. 3 del R.D. 
+404/2010,  presentaron  solicitudes.  A  estas  pequeñas  empresas  no  les  es  de  aplicación  lo 
+referente al plan de movilidad. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+78 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ACCIONES DESARROLLADAS POR LAS 
+ADMINISTRACIONES AUTONÓMICAS 
+
+A  continuación  se  presenta  un  recopilatorio  de 
+las 
+Comunidades  Autónomas  han  puesto  a  disposición  del  grupo  de  trabajo,  y  que  hacen 
+referencias a las actuaciones relativas a la Seguridad Vial Laboral que desarrollan en el ámbito 
+de sus competencias. 
+
+la  diferente  documentación  que 
+
+Estos  documentos  se  han  organizado  según  las  categorías  que  se  han  considerado  necesarias 
+para una mejor identificación de los contenidos de los mismos, según se citan a continuación:  
+
+•  Campañas 
+•  Estadísticas/Estudios 
+•  Formación y Divulgación 
+•  Otros 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+79 
+
+ 
+ 
+ 
+ 
+ 
+Campañas 
+
+CAMPAÑA 
+
+CC.AA. 
+
+DISPONIBLE EN WEB 
+
+Campaña de sensibilización y formación en 
+contenidos de Seguridad Vial - 2013 
+
+Campaña sensibilización Seguridad y Salud Vial 
+
+Diseño de un pie de firma específico (“Al volant 
+cap risc”) sobre la Seguridad Laboral Vial para 
+utilizar en todos los correos electrónicos enviados 
+por el personal del Instituto de Seguridad y Salud 
+Laboral (2014-2015) 
+Campaña para previr a fatiga na condución: "Un 
+refresco, o teu mellor combustible" 
+
+Campaña sobre los peligros del manejo del tractor 
+y de sus aparejos. Publicación de tríptico y cartel 
+informativos (2014-2015) 
+Campaña de visitas a empresas del sector del 
+transporte de mercancías para el asesoramiento 
+en la gestión de los riesgos psicosociales - 2013 
+Campaña de información y sensibilización para la 
+prevención de accidentes de tráfico con relación 
+laboral - 2012 (Material disponible en la página 
+web: www.prevencionlaboralvial.com) 
+Campaña de concienciación dirigida a los 
+conductores de furgonetas (dípticos con consejos 
+preventivos, adhesivos con BBPP, cursos de 
+formación on line gratuitos y demostración sobre 
+seguridad en la conducción de furgonetas en el 
+Circuito del Jarama) 
+Campaña de adhesión a la carta Europea de la 
+Seguridad Vial (2007-2009) 
+
+Campaña “Prevención de los riesgos ergonómicos, 
+psicosociales y de seguridad vial del sector de 
+transporte de pasajeros y mercancías por 
+carretera (2013-2014) 
+
+Asturias 
+
+Descargar 
+
+Castilla La 
+Mancha 
+
+Cataluña 
+
+Galicia 
+
+Galicia 
+
+Descargar 
+
+Descargar 
+
+Descargar 
+
+Descarga 
+
+La Rioja 
+
+No disponible en web 
+
+Madrid 
+
+Descargar 
+
+Madrid 
+
+No disponible en web 
+
+Navarra 
+
+No disponible en web 
+
+Navarra 
+
+No disponible en web 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+80 
+
+ 
+ 
+ 
+Estadísticas y estudios 
+
+ESTADÍSTICAS/ESTUDIOS 
+
+CC.AA. 
+
+DISPONIBLE EN WEB 
+
+Estadísticas de Siniestralidad Laboral 
+(Accidentes de trabajo con baja in itínere,  
+distribución según comarcas por sectores de 
+actividad y sexo, y distribución por provincias 
+(Datos comparados 2012-2013)19 
+Informe estadístico de la siniestralidad laboral 
+en Asturias 2011 (incluye accidentes de 
+trabajo por tráfico) 
+Informe estadístico de la siniestralidad laboral 
+en Asturias 2012 (incluye accidentes de 
+trabajo por tráfico) 
+Siniestralidad Laboral Trabajadores/as 
+autónomos/as 
+
+Accidentes de trabajo – tráfico en Cantabria 
+año 2011 
+
+Accidentes de trabajo – tráfico en Cantabria 
+año 2012 
+
+Accidentes de trabajo – tráfico en Cantabria 
+año 2013 
+
+Accidentes de trabajo – tráfico en Cantabria 
+año 2014 
+
+Análisis de siniestralidad laboral relacionada 
+con el tráfico en Castilla La Mancha  (2008-
+2013) 
+Accidentes de trabajo con baja declarados 
+como accidentes de tráfico durante el año 
+2010, en el ámbito territorial de Catalunya  
+Accidentes de trabajo con baja declarados 
+como accidentes de tráfico durante el año 
+2011, en el ámbito territorial de Catalunya 
+Accidentes de trabajo con baja declarados 
+como accidentes de tráfico durante el año 
+2012, en el ámbito territorial de Catalunya 
+Lesions per accidents de treball associades al 
+trànsit a Catalunya (2004-2010) 
+
+Manual para la identiﬁcación y evaluación de 
+riesgos laborales de los conductores del 
+sector transporte por carretera 
+Lesiones por accidentes de trabajo asociadas 
+al tráfico en Cataluña (2004-2010) 
+
+Aragón 
+
+Descargar 
+
+Asturias 
+
+Descargar 
+
+Asturias 
+
+Descargar 
+
+Asturias 
+
+Descargar 
+
+Cantabria 
+
+Descargar 
+
+Cantabria 
+
+Descargar 
+
+Cantabria 
+
+Descargar 
+
+Cantabria 
+
+Descargar 
+
+Castilla la 
+Mancha 
+
+Cataluña 
+
+Descargar 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+19 Hace referencia a los accidentes in itínere pero no especifica la causa, si son o no de tráfico. 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+81 
+
+ 
+ 
+ 
+                                                           
+ESTADÍSTICAS/ESTUDIOS 
+
+CC.AA. 
+
+DISPONIBLE EN WEB 
+
+Análisis de los costes de la siniestralidad 
+laboral relacionada con el tráfico en Cataluña 
+para el año 2010 
+En el “Programa de Gestión de la prevención 
+de riesgos laborales en las empresas”, 
+desarrollado por el ISSL, inclusión de 
+preguntas orientadas a recopilar información 
+sobre la gestión que hacen las empresas de 
+los riesgos relacionados con el tráfico en el 
+entorno laboral - 2014 
+Programa de identificación de los factores de 
+riesgo de los accidentes de tráfico en el 
+entorno laboral 
+Evolución de la siniestralidad laboral 
+relacionada con el tráfico en Cataluña 
+
+Análise da sinistralidade laboral por 
+accidentes de tráfico ano 2010  
+
+Estadísticas de siniestralidad laboral en Galicia 
+en los años 2011 a 2015 (incluye desglose de 
+accidentes in itinere y en desplazamiento por 
+gravedad, sexo y provincia) 
+Análise da sinistralidade laboral por 
+accidentes de tráfico anos 2011-2012  
+
+Estadísticas de Siniestralidad Laboral. Análisis 
+de los accidentes de trabajo “in itinere” y en 
+desplazamiento. Evolución de  los accidentes 
+“in itinere” y en desplazamiento entre los 
+años 2006 -2015 
+Análisis y evaluación de los accidentes de 
+tráfico con relación laboral en la C. de Madrid 
+en los años 2007 -2009 
+La siniestralidad y la seguridad de las 
+furgonetas en el entorno laboral - 2013 
+
+Análisis de los accidentes de tráfico con 
+relación laboral en el período de 2004 a 2012 
+
+Estudio sobre los accidentes laborales de 
+tráfico graves y mortales en la región de 
+Murcia en 2012 
+Estudio de la evolución de los accidentes 
+laborales de tráfico en Euskadi 2007-2011 
+
+Planes de Actuación de Lucha contra la 
+siniestralidad laboral empresas de la 
+Comunitat Valenciana en base a los 
+accidentes de años anteriores (Encuesta sobre 
+sensibilización de los accidentes in itínere, 
+pág.57 en adelante) 
+
+Cataluña 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+Cataluña 
+
+No disponible en web 
+
+Cataluña 
+
+Descargar 
+
+Galicia 
+
+Galicia 
+
+Galicia 
+
+La Rioja 
+
+Descargar 
+
+Descargar 
+
+Descargar 
+
+Descargar 
+
+Madrid 
+
+Descargar 
+
+Madrid 
+
+Madrid 
+
+Descargar 
+
+Descargar 
+
+Murcia 
+
+No disponible en web 
+
+País Vasco 
+
+Descargar 
+
+Valencia 
+
+Descargar 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+82 
+
+ 
+ 
+ 
+ 
+ESTADÍSTICAS/ESTUDIOS 
+
+CC.AA. 
+
+DISPONIBLE EN WEB 
+
+Encuesta general del sistema general de 
+gestión (Estudio del riesgo por accidente 
+laboral de tráfico, epígrafe 17) 
+
+Valencia 
+
+No disponible en web 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+83 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Formación y divulgación 
+
+FORMACIÓN/DIVULGACIÓN  
+
+''No permitas que tu vida de un vuelco'' 
+2011/2012 
+
+Seguridad vial 
+
+Es tu/su vida 
+
+Centro de educación vial del Principado de 
+Asturias  (actividad extraescolar) 
+
+“Prevención de riesgos laborales en el 
+tráfico”. Cursos gratuitos de formación 
+durante 2012 (6 horas) 
+Jornada formativa sobre seguridad vial laboral 
+(26/02/2012) 
+
+Jornada técnica sobre la fatiga y los 
+accidentes de tráfico laborales (27/03/2012) 
+
+Jornada técnica sobre la seguridad vial en la 
+empresa. IV encuentro de buenas prácticas 
+(14/03/2013) 
+Prevención del accidente laboral de tráfico 
+2011 
+
+CC.AA. 
+
+DISPONIBLE EN 
+WEB 
+
+Cartel 
+
+Asturias 
+
+Descargar 
+
+Cartel 
+
+Asturias 
+
+Descargar 
+
+Curso 
+
+Asturias 
+
+Descargar 
+
+Otros 
+
+Asturias 
+
+Descargar 
+
+Otros 
+
+Aragón 
+
+No disponible en 
+web 
+
+Otros 
+
+Aragón 
+
+Descargar 
+
+Otros 
+
+Aragón 
+
+Descargar 
+
+Otros 
+
+Aragón 
+
+Descargar 
+
+Otros 
+
+Cantabria 
+
+Descargar 
+
+Campaña de formación para la Prevención de 
+Accidentes de Tráfico Laborales - 2012 
+
+Cursos 
+
+Castilla La 
+Mancha 
+
+Descargar 
+
+Jornada técnica sobre Seguridad en la 
+conducción durante la jornada de trabajo 
+
+Jornadas técnicas en cada capital de provincia 
+de Cataluña sobre “Seguridad en la 
+conducción durante la jornada de trabajo“ - 
+2012 
+Jornadas técnicas en cada capital de provincia 
+de Cataluña sobre “La gestión de los 
+accidentes de tráfico en el entorno laboral”- 
+año 2015 
+Convenio de colaboración entre el ISSL, el 
+Servicio Catalán de Tráfico y el Consorcio para 
+la Formación Continua de Cataluña para la 
+inclusión de dos módulos formativos (de 6h y 
+15h) de carácter intersectorial y transversales 
+en seguridad vial en el entorno laboral  
+Publicación del artículo “La seguridad laboral 
+vial” en la revista MC Salud Laboral, Octubre 
+del 2014, y en la revista digital Travesía nº 45 
+
+Otros 
+
+Cataluña 
+
+No disponible en 
+web 
+
+Otros 
+
+Cataluña 
+
+No disponible 
+
+Otros 
+
+Cataluña 
+
+No disponible 
+
+Convenio 
+
+Cataluña 
+
+No disponible 
+
+Artículo 
+
+Cataluña 
+
+Descargar 
+Descargar 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+84 
+
+ 
+ 
+ 
+ 
+FORMACIÓN/DIVULGACIÓN  
+
+Des del año 2014, el ISSL participa 
+anualmente en la impartición del curso de 
+formación “Prevención de riesgos laborales 
+viarios”, que organiza el CNCT de Barcelona 
+del INSHT 
+Folla de prevención nº 34 - Prevención de 
+riscos laborais con maquinaria agrícola (hoja) 
+
+CC.AA. 
+
+DISPONIBLE EN 
+WEB 
+
+Cataluña 
+
+Descargar 
+
+Otros 
+
+Galicia 
+
+Descargar 
+
+Guía seguridade viaria (material escolar) 
+
+Otros 
+
+Galicia 
+
+Descargar 
+
+Puesta a disposición vía web de la Plataforma 
+de gestión de la movilidad y la prevención de 
+riesgos laborales en el tráfico 
+“Os atende do issga-prevención de riscos co 
+tractor, a motoserra e a rozadoira” - 2014 
+
+Fichas de investigación de accidentes en el 
+sector agrario. Incluye varios accidentes 
+relacionados con el uso del tractor - 2014 
+Coopera en tu seguridad – Prevención de 
+riesgos en el manejo de grandes máquinas 
+agropecuarias - 2015 
+Jornada técnica “La fatiga y los accidentes de 
+tráfico laborales” en el Centro Issga de A 
+Coruña - 2011 
+Jornada técnica “Seguridade viaria y gestión 
+de la movilidad” en el Centro Issga de A 
+Coruña - 2012 
+Jornada técnica: “Los accidentes laborales de 
+tráfico” en el Centro Issga de Lugo - 2015 
+
+Ficha informativa “La gestión de los riesgos 
+psicosociales. Sector del transporte por 
+carretera” - 2015 
+Jornada técnica “Accidentes laboral de tráfico. 
+Propuestas para la prevención desde la 
+empresa” (26/11/2015) 
+Curso en relación con la PRL para conductores 
+de transporte de mercancías peligrosas 
+
+Curso sobre seguridad vial y conducción 
+avanzada 
+
+Curso de formación on line en seguridad vial 
+para técnicos de prevención  
+
+Curso de formación on line en seguridad vial 
+para trabajadores 
+
+Boletín Electrónico Nº 1 sobre la actualidad 
+preventiva en la Comunidad de Madrid - 2012 
+
+Otros 
+
+Galicia 
+
+Descargar 
+
+Fichas 
+
+Galicia 
+
+Descargar 
+
+Fichas 
+
+Galicia 
+
+Descargar 
+
+Fichas 
+
+Galicia 
+
+Descargar 
+
+Jornada 
+
+Galicia 
+
+Descargar 
+
+Jornada 
+
+Galicia 
+
+No disponible 
+
+Jornada 
+
+Galicia 
+
+No disponible 
+
+Otros 
+
+La Rioja 
+
+Descargar 
+
+Otros 
+
+La Rioja 
+
+Curso 
+
+Madrid 
+
+Curso 
+
+Madrid 
+
+No disponible en 
+web 
+
+No disponible en 
+web 
+
+No disponible en 
+web 
+
+Cursos 
+
+Madrid 
+
+Descargar 
+
+Cursos 
+
+Madrid 
+
+Descargar 
+
+Otros 
+
+Madrid 
+
+Descargar 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+85 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FORMACIÓN/DIVULGACIÓN  
+
+Colección de fichas técnicas divulgativas (FTP 
+20: Gestión de los desplazamientos; FTP 21: 
+Ejemplo de ficha de normas de seguridad y 
+lista de chequeo para vehículos comerciales e 
+industriales); FTP 22: La Carta Europea de la 
+seguridad vial; FTP 25: Movilidad y seguridad 
+vial; FTP 30: Factores de riesgo relacionados 
+con el trabajador; FTP: 31: Factores de riesgo 
+relacionados con la vía y las condiciones 
+meteorológicas; FTP 32: Medidas generales y 
+FTP 33: Conducción de vehículos agrícolas)- 
+2009 
+Ficha técnica divulgativa FTP 46: Sector 
+transporte por carretera. Información on-line 
+sobre la prevención de los riesgos 
+psicosociales, ergonómicos y de seguridad vial 
+- 2015 
+Jornada técnica “Día Mundial de la Seguridad 
+y la Salud en el trabajo 2015. La cultura de la 
+seguridad vial en la empresa” (30/04/2015) 
+Ponencia en la Jornada sobre seguridad 
+laboral vial en el sector de la construcción - 
+2013 
+Ponencias en Curso de Verano de la 
+Universidad del País Vasco - 2011 
+- “Los AT viales, una visión desde la 
+perspectiva de la DGT” 
+- “Estudio de AT viales en la CAE. Evolución y 
+evaluación de los últimos 6 años” 
+- “Perspectiva y evolución de los AT tráfico 
+desde el año 2007” 
+“Los riesgos laborales viales” - 2011 
+
+“Los accidentes laborales de tráfico en 
+Euskadi no descienden al mismo ritmo que el 
+resto” - 2013 
+Prevención de Accidentes de Tráfico en el 
+Ámbito Laboral 
+
+Consejos de Seguridad Vial  
+(página web www.fesvial.es) 
+
+CC.AA. 
+
+DISPONIBLE EN 
+WEB 
+
+Otros 
+
+Navarra 
+
+Descargar 
+
+Otros 
+
+Navarra 
+
+Descargar 
+
+Otros 
+
+Navarra 
+
+No disponible en 
+web 
+
+Jornada 
+
+País Vasco 
+
+Descargar 
+
+Curso 
+
+País Vasco 
+
+Descargar 
+
+Artículo de 
+divulgación 
+
+Artículo de 
+prensa 
+
+País Vasco 
+
+Descargar 
+
+País Vasco 
+
+Descargar 
+
+Otros 
+
+Valencia 
+
+Descargar 
+
+Otros 
+
+Valencia 
+
+Descargar 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+86 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Otros 
+
+OTROS 
+
+CC.AA. 
+
+DISPONIBLE EN WEB 
+
+Diseño y puesta en marcha de aplicación 
+informática para la elaboración e implantación 
+de planes de movilidad sostenibles en las 
+empresas de la comunidad autónoma 
+Manual per a la identificació i avaluació de riscos 
+laborals dels conductors del sector transport per 
+carretera 
+La seguretat en la conducció durant la jornada de 
+treball 
+
+Determinación de actividades preventivas 
+relacionadas con la integración de la seguridad 
+vial en las empresas a desarrollar por parte de las 
+Mutuas colaboradoras con la Seguridad Social 
+
+Manual para la identiﬁcación y evaluación de 
+riesgos laborales de los conductores del sector 
+transporte por carretera - 2009 
+
+Castilla la 
+Mancha 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+Cataluña 
+
+Descargar 
+
+La seguretat en la conducció durant la jornada de 
+treball - 2012 
+
+Cataluña 
+
+Descargar 
+
+Programa de seguridad vial de asesoramiento a 
+empresas desarrollada por técnicos del Issga 
+desde el año 2011 hasta la actualidad - 2016 
+
+Galicia 
+
+No disponible en web 
+
+“Guía para la prevención de accidentes de tráfico 
+con relación laboral” dentro de la Campaña de 
+información y sensibilización para la prevención 
+de accidentes de tráfico con relación laboral - 
+2012 
+Convenio Marco con FESVIAL para la realización 
+de actividades y proyectos de forma conjunta 
+(creación página web: 
+www.cmadrid.seguridadviallaboral.es) 
+Guía para promover la seguridad vial en la 
+empresa - 2012 
+
+Portal Web “Seguridad Vial en el entorno 
+laboral” - 2009 
+
+Madrid 
+
+Descargar 
+
+Madrid 
+
+No disponible en web 
+
+Navarra 
+
+Navarra 
+
+Descargar 
+
+Descargar 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+87 
+
+ 
+ 
+ 
+OTROS 
+
+CC.AA. 
+
+DISPONIBLE EN WEB 
+
+Portal Web “Sector transporte por carretera” - 
+2015 
+
+Proyecto de investigación: 
+Plataforma Tecnológica Española de Seguridad 
+Industrial (PESI)– SEGURBIDE La seguridad vial 
+laboral en Euskadi (mejoras en la prevención de 
+riesgos laborales mediante estrategias e 
+indicadores de SLV) - 2015 
+
+Navarra 
+
+Descargar 
+
+País 
+Vasco 
+
+Descargar 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+88 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ÍNDICE DE GRÁFICOS  
+
+Gráfico 1.- Distribución de los accidentes de trabajo según tipo de accidente .............................. 9 
+Gráfico 2.- Índice de incidencia de ALT en jornada de trabajo según sexo ................................... 12 
+Gráfico 3.- Tasas de incidencia de ALT en jornada según ocupación ............................................ 16 
+Gráfico 4.- Índice de incidencia de ALT en jornada según sector .................................................. 17 
+Gráfico 5.- Divisiones de actividad que superan la media del índice de incidencia de ALT en 
+jornada ........................................................................................................................................... 18 
+Gráfico 6.- Distribución % de los agentes materiales implicados en los ALT en jornada .............. 18 
+Gráfico 7.- Distribución % de los ALT en jornada según día de la semana .................................... 20 
+Gráfico 8.- Distribución % de los ALT en jornada de trabajo según hora en que se produjeron .. 20 
+Gráfico 9.- Distribución % de los ALT en jornada de trabajo según mes en que se produjeron ... 21 
+Gráfico 10.- Índice de incidencia de ALT in itínere según sexo...................................................... 22 
+Gráfico 11.- Tasas de incidencia de ALT in itínere según ocupación ............................................. 25 
+Gráfico 12.- Índice de incidencia de ALT in itínere según sector ................................................... 27 
+Gráfico 13.- Selección de las divisiones de actividad cuyo índice de incidencia de ALT in itínere es 
+superior a 350 ................................................................................................................................ 28 
+Gráfico 14.- Distribución % de los agentes materiales implicados en los ALT in itínere ............... 29 
+Gráfico 15.- Distribución % de los ALT in itínere según día de la semana ..................................... 30 
+Gráfico 16.- Distribución % de los ALT in itínere según hora en que se produjeron ..................... 30 
+Gráfico 17.- Distribución % de los ALT in itínere según mes en que se produjeron ...................... 31 
+Gráfico 18.- Índice de incidencia de ALT MORTALES en jornada de trabajo según sexo .............. 32 
+Gráfico 19.- Tasas de incidencia de ALT MORTALES en jornada de trabajo según ocupación ...... 35 
+Gráfico 20.- Índice de incidencia de ALT MORTALES en jornada según sector ............................. 37 
+Gráfico 21.- Selección de divisiones de actividad con índice de incidencia de ALT mortales en 
+jornada mayor a la media y nº ALT mortales en jornada superior a la media .............................. 37 
+Gráfico 22.- Índice de incidencia de ALT MORTAL in itínere según sexo ...................................... 38 
+Gráfico 23.- Tasas de incidencia de ALT MORTALES in itínere según ocupación .......................... 42 
+Gráfico 24.- Índice de incidencia de ALT MORTALES in itínere según sector ................................ 43 
+Gráfico 25.- Selección de divisiones de actividad con índice de incidencia de ALT mortales in 
+itínere superior a la media y nº ALT mortales en jornada superior a la media ............................. 44 
+Gráfico 26.- Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población laboral 
+según SECTOR DE ACTIVIDAD. España 2013. ................................................................................. 65 
+Gráfico 27.- Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población laboral 
+según CATEGORÍA OCUPACIONAL. España 2013 .......................................................................... 66 
+Gráfico 28.- Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población laboral 
+según JORNADA DE TRABAJO. España 2013 .................................................................................. 66 
+Gráfico 29.- Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población laboral 
+según presenten o no diferentes RIESGOS LABORALES. España 2013 .......................................... 67 
+Gráfico 30.- Evolución porcentual de los conductores fallecidos analizados con presencia de 
+alcohol o drogas. Años 2010-2014. Fuente: INTCF ........................................................................ 69 
+Gráfico 31.- Evolución porcentual de los peatones fallecidos analizados con presencia de alcohol 
+o drogas. Años 2010-2014. Fuente: INTCF .................................................................................... 70 
+Gráfico 32.- Antigüedad media por tipo de vehículo .................................................................... 73 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+89 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ÍNDICE DE TABLAS  
+
+Tabla 1.- Distribución de los ALT según gravedad ........................................................................... 9 
+Tabla 2.- Índices de incidencia de ALT según tipo de accidente y gravedad ................................. 10 
+Tabla 3.- Comparación de los índices de incidencia de ALT según sector y tipo de accidente. 
+2007-2014 ...................................................................................................................................... 11 
+Tabla 4.- Distribución % de ALT en jornada de trabajo según sexo ............................................... 11 
+Tabla 5.- Distribución % de ALT en jornada según sexo y actividad que se realizaba en el 
+momento del accidente ................................................................................................................. 12 
+Tabla 6.- Distribución de los ALT en jornada de trabajo según edad ............................................ 13 
+Tabla 7.- Distribución de los ALT y de los índices de incidencia en jornada según nacionalidad .. 14 
+Tabla 8.- Distribución porcentual y tasa de incidencia de los ALT en jornada según ocupación .. 15 
+Tabla 9.- Distribución e índice de incidencia de los ALT en jornada de trabajo según tipo de 
+contratación ................................................................................................................................... 16 
+Tabla 10.- Distribución de los ALT en jornada de trabajo según sector ........................................ 17 
+Tabla 11.- Distribución de los ALT en jornada según día de la semana ......................................... 19 
+Tabla 12.- Distribución % de ALT in itínere según sexo ................................................................. 21 
+Tabla 13.- Distribución % de ALT in itínere según sexo y actividad que se realizaba en el 
+momento del accidente ................................................................................................................. 22 
+Tabla 14.- Distribución de los ALT in itínere según edad ............................................................... 23 
+Tabla 15.- Distribución de los ALT in itínere según nacionalidad .................................................. 24 
+Tabla 16.- Distribución porcentual y tasa de incidencia de los ALT in itínere según ocupación ... 24 
+Tabla 17.- Distribución e índice de incidencia de los ALT in itínere según tipo de contratación .. 26 
+Tabla 18.- Distribución de los ALT in itínere según sector ............................................................. 26 
+Tabla 19.- Distribución de los ALT según día de la semana y tipo de accidente ........................... 29 
+Tabla 20.- Distribución % de ALT MORTALES en jornada de trabajo según sexo .......................... 31 
+Tabla 21.- Distribución % de ALT MORTALES en jornada de trabajo según sexo y actividad que se 
+realizaba en el momento del accidente......................................................................................... 32 
+Tabla 22.- Distribución e índice de incidencia de los ALT MORTALES en jornada de trabajo según 
+edad ............................................................................................................................................... 33 
+Tabla 23.- Distribución porcentual e índices de incidencia de los ALT MORTALES en jornada 
+según nacionalidad ........................................................................................................................ 34 
+Tabla 24.- Distribución porcentual y tasa de incidencia de los ALT MORTALES en jornada según 
+ocupación del trabajador ............................................................................................................... 34 
+Tabla 25.- Distribución e índice de incidencia de los ALT MORTALES en jornada de trabajo según 
+tipo de contratación  ..................................................................................................................... 36 
+Tabla 26.- Distribución porcentual e índice de incidencia de los ALT mortales en jornada de 
+trabajo según sector ...................................................................................................................... 36 
+Tabla 27.- Distribución porcentual de ALT MORTALES in itínere según sexo ................................ 38 
+Tabla 28.- Distribución % de ALT MORTALES in itínere según sexo y actividad que se realizaba en 
+el momento del accidente ............................................................................................................. 39 
+Tabla 29.- Distribución porcentual e índice de incidencia de los ALT MORTALES in itínere según 
+edad ............................................................................................................................................... 39 
+Tabla 30.- Distribución porcentual e índice de incidencia de los ALT MORTALES in itínere según 
+nacionalidad ................................................................................................................................... 40 
+Tabla 31.- Distribución porcentual y tasa de incidencia de los ALT MORTALES en jornada según 
+ocupación del trabajador ............................................................................................................... 41 
+Tabla 32.- Distribución porcentual y tasa de incidencia de los ALT MORTALES in itínere según 
+tipo de contratación ...................................................................................................................... 42 
+Tabla 33.- Distribución porcentual e índice de incidencia de los ALT mortales in itínere según 
+sector ............................................................................................................................................. 43 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+90 
+
+ 
+ 
+ 
+Tabla 34. -Porcentaje de consumidores de alcohol de riesgo (AUDIT ≥8) en la población de 16 a 
+64 años según situación laboral. España  2013 ............................................................................. 64 
+Tabla 35.- Distribución de casos positivos según agrupaciones de sustancias y sexo .................. 68 
+Tabla 36.- Pruebas realizadas por la Agrupación de Tráfico de la Guardia Civil. Año 2014 .......... 70 
+Tabla 37.- Número total de vehículos de alta por año de matriculación ...................................... 71 
+Tabla 38- Percentiles por tipo de vehículo .................................................................................... 72 
+Tabla 39- Evolución de la antigüedad media del parque móvil ................................................... 72 
+Tabla 40.- Número de solicitudes presentadas y porcentaje que alegaban que tenían un plan de 
+movilidad vial ................................................................................................................................. 78 
+
+Grupo de trabajo “Seguridad Vial Laboral” de la CNSST 
+
+91 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

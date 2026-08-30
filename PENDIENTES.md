@@ -145,3 +145,39 @@ _(vacío)_
 - **Gravedad**: menor. Queda anotado por si en una convocatoria futura el tribunal insiste, que
   entonces habría que decidir si se recoge la formulación del tribunal advirtiendo de que no es
   la de la ley.
+
+### 2026-08-30 · Dos opciones oficiales del bloque de PRL que la fuente no sostiene
+
+**a) «Seguridad informática» como riesgo de las pantallas de visualización.**
+
+- **Dónde**: tema de PRL del específico, rúbrica 2.
+- **Qué dice hoy**: que el **artículo 3.1 del RD 488/1997** obliga a que el uso de estos equipos
+  **«no suponga riesgos para su seguridad o salud»** del trabajador.
+- **Qué dice el examen**: `77_preguntas_produccion_asist nº 77` da por buena la opción **b)
+  «Para la salud y la seguridad informática»**.
+- **Fuente**: artículo 3.1 del RD 488/1997, redacción única desde 1997, leída en el volcado a la
+  fecha de corte. **La «seguridad informática» no aparece en el real decreto ni en su Guía
+  Técnica.** La opción está bien transcrita y la plantilla —**96 números y 96 letras
+  alineados**— da **b**.
+- **Qué se ha hecho**: **nada en el tema**. Con el tema delante se acierta igualmente, porque la
+  norma nombra **seguridad Y salud** y **b) es la única opción que nombra las dos**; la a), «para
+  la salud», es incompleta. Incorporar la «seguridad informática» como riesgo de las pantallas
+  sería inventar.
+- **Gravedad**: menor. Se acierta, pero por una razón distinta de la que el enunciado sugiere.
+
+**b) El interruptor diferencial como protección contra contactos directos.**
+
+- **Dónde**: tema de PRL del específico, rúbrica 4, epígrafe de riesgo eléctrico.
+- **Qué dice hoy**: las definiciones del **anexo I del RD 614/2001** —**contacto directo**, con
+  elementos en tensión; **contacto indirecto**, con masas puestas accidentalmente en tensión— y
+  los umbrales del **RD 842/2002**. **No menciona el interruptor diferencial.**
+- **Qué dice el examen**: `52_preguntas_luminotecnia nº 28` da por buena **a) «Sistema de
+  protección contra contactos directos»**.
+- **Fuente**: **no comprobada en una norma que nombre el diferencial**. El RD 614/2001 no lo
+  cita; la reglamentación electrotécnica lo trata como protección frente a **contactos
+  indirectos**, y la alta sensibilidad como **protección adicional** frente a los directos.
+- **Qué se ha hecho**: **no se incorpora al tema**. La pregunta viene del cuadernillo de
+  **Luminotecnia**, ocupación que no preparamos, y afirmarla exigiría una fuente que sostenga lo
+  que dice.
+- **Gravedad**: menor mientras no caiga en las tres ocupaciones que preparamos. Si cayera, hay
+  que buscar la fuente antes de escribir nada.

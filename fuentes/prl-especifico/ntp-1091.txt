@@ -1,0 +1,883 @@
+AÑO 2017
+
+1.091
+
+Notas Técnicas de Prevención
+
+Riesgos laborales viarios: marco conceptual (II)
+
+Road labor risks: marc conceptual
+Risques professionnels routes: cadre conceptuel
+
+Esta NTP complementa a la anterior, dedicándose ambas al 
+marco conceptual en este campo a fin de propiciar un len-
+guaje común que clarifique ideas para que los profesionales 
+de la prevención de riesgos laborales, desde el ámbito em-
+presarial y junto a demás agentes implicados, puedan actuar 
+de manera efectiva ante un grave problema que aqueja a la 
+sociedad. 
+
+Autor:
+
+Instituto Nacional de Seguridad 
+e Higiene en el Trabajo (INSHT)
+
+Elaborado por:
+
+Manuel Bestratén Belloví
+
+CENTRO NACIONAL DE
+CONDICIONES DE TRABAJO. INSHT
+
+Manel Ferri Tomás
+
+DIPUTACIÓN PROVINCIAL DE BARCELONA
+
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas 
+en una  disposición  normativa  vigente.  A  efectos  de  valorar  la  pertinencia  de  las  recomendaciones 
+contenidas en una NTP concreta es conveniente tener en cuenta su fecha de edición.
+
+1. CONSIDERACIONES SOBRE LOS MEDIOS 
+
+DE TRANSPORTE
+
+Los medios de transporte utilizados en el ámbito laboral 
+son diversos. Nos referiremos a continuación a aquellas 
+cuestiones  más  relevantes  desde  la  perspectiva  de  la 
+seguridad  vial  y  la  movilidad  sostenible  del  transporte 
+público y de determinados vehículos de uso generalizado. 
+Sea cual fuere el vehículo a motor, debe asegurarse 
+que tenga las características de seguridad intrínsecas al 
+mismo, con las tecnologías de seguridad actuales. Ade-
+más, debe efectuarse un buen uso del mismo y un man-
+tenimiento preventivo de sus partes críticas, de acuerdo 
+a lo que el fabricante haya establecido. Deberá velarse 
+para que se realicen las revisiones reglamentarias perió-
+dicas, las ITV (Inspecciones Técnicas de Vehículos). El 
+envejecimiento del parque automovilístico debe alertar a 
+que tales revisiones se ejecuten. Las empresas, no solo 
+deberían controlar que tales revisiones se realicen en su 
+flota de vehículos, sino también favorecer que sus traba-
+jadores y aquellas empresas con las que cooperen, sean 
+proveedores o distribuidores, también lo hagan.
+
+Los aspectos ergonómicos son esenciales en la con-
+ducción de vehículos, y en especial, para quienes la con-
+ducción es su profesión. Los fabricantes han efectuado 
+valiosas aportaciones al respecto, pero empresas usua-
+rias y profesionales del sector del transporte deben hacer 
+esfuerzos para lograr la mayor adaptabilidad del entorno 
+del puesto de trabajo a la persona y tener la educación 
+/ formación necesarias para auto controlar su calidad de 
+vida laboral asociada a la conducción.
+
+Aunque, como se dijo al tratar sobre la siniestralidad 
+laboral viaria que la somnolencia, la fatiga, los psicofár-
+macos,  el  alcohol,  y  el  estrés  laboral  contribuyen  a  la 
+distracción o a la pérdida de capacidades cognitivas, pre-
+sentes en muchísimos accidentes, el exceso de velocidad 
+sigue siendo un factor de riesgo importante a evitar y que 
+requiere de riguroso control.
+
+La red de transporte público garantiza el derecho de 
+
+movilidad  universal  de  los  ciudadanos  para  acceder  a 
+los diferentes equipamientos públicos y centros de ocio, 
+polígonos industriales y centros de actividad económica, 
+siendo responsabilidad de las administraciones públicas 
+dar respuesta a esta necesidad colectiva.
+
+El  concepto  de  transporte  público  colectivo  incluye 
+diferentes medios que facilitan el desplazamiento de los 
+ciudadanos a un coste energético mucho más bajo si se 
+compara con el automóvil y la motocicleta. En las gran-
+des ciudades y áreas metropolitanas suelen arbitrarse 
+fórmulas para integrar las diferentes redes de transporte 
+colectivo en un sistema único de tarifas y así facilitar el 
+uso a los ciudadanos a través de la intermodalidad de 
+medios de transporte. Tal intermodalidad habría de per-
+mitir acceder con mayor facilidad a centros de trabajo, y 
+además podría enriquecerse o complementarse con la 
+colaboración de empresas interesadas. 
+
+El autobús
+
+El autobús tiene la ventaja de ser un medio muy flexible de 
+transporte respecto a los itinerarios urbanos e interurba-
+nos, y además de gran variabilidad de capacidad. En cam-
+bio, el ferrocarril, que tiene una capacidad de transporte 
+mayor, carece de tal flexibilidad. Ahora bien, la eficiencia 
+energética tanto del autobús como del ferrocarril es supe-
+rior frente al coche privado. En cambio, el autobús produce 
+emisiones contaminantes que afectan a la calidad del aire 
+urbano, por ello debe cuidarse que tal efecto nocivo sea lo 
+menor posible, utilizando fuentes energéticas como el gas 
+natural o una combinación de combustible fósil y electrici-
+dad, lo que serían autobuses híbridos.
+
+El  autobús  comparte  las  vías  de  circulación  por  las 
+que también circulan otros vehículos a motor. En las vías 
+urbanas su velocidad media es baja, lo que reduce su 
+eficiencia  energética  e  incrementa  las  emisiones.  Me-
+diante carriles reservados para el transporte público se 
+agiliza su movilidad, lo que es necesario para aminorar 
+tiempos de los desplazamientos, estimulando así que las 
+
+2
+
+personas dejen de utilizar los vehículos privados. En los 
+autobuses interurbanos la creación de vías especiales 
+de alta ocupación por las que también pueden circular 
+otros vehículos con varios pasajeros también facilita la 
+movilidad.
+
+Es  el  medio  idóneo  para  comunicar  los  núcleos  ur-
+banos  y  los  centros  de  actividad  económica,  incluidos 
+los polígonos industriales, debido precisamente ello a su 
+flexibilidad en el diseño físico y temporalidad de los itine-
+rarios. Su combinación con otros medios de transporte, 
+como el ferrocarril u otros, enriquece enormemente sus 
+posibilidades. Medidas provechosas que se adoptan en 
+polígonos para mejorar la calidad del servicio de autobu-
+ses y favorecer su uso son las siguientes:
+ • coordinar los horarios de las líneas de transporte con 
+
+la entrada y salida de trabajadores,
+
+ • situar las paradas de autobuses cerca de las entradas 
+de las empresas, especialmente las que tienen más 
+trabajadores,
+
+ • adecuar el mobiliario de las paradas para que ofrezcan 
+protección ante inclemencias meteorológicas, asiento, 
+buena iluminación e información de horarios de circu-
+lación de las líneas o servicios que pudieran haber,
+ • evitar obstáculos en los itinerarios entre las paradas y 
+los centros de trabajo para facilitar el tránsito peatonal.
+Los autobuses o microbuses de empresa pueden ser una 
+solución en determinadas situaciones, buscando en todo 
+caso la colaboración del Ayuntamiento y empresas cerca-
+nas del mismo polígono, o incluso fuera de él, para poder 
+conformar tal servicio de uso exclusivo o bien compartido. 
+Del dialogo y con espíritu de cooperación surgen iniciati-
+vas muy provechosas para todas las partes.
+
+El ferrocarril
+
+En  nuestro  país  el  ferrocarril  está  considerado  el  me-
+dio de transporte que genera menos costes por unidad 
+transportada, aproximadamente unas cinco veces menos 
+que el transporte por carretera de mercancías, unas tres 
+veces menos que el transporte de personas también por 
+carretera. Globalmente, el transporte ferroviario genera 
+menos del 0,1% de las emisiones totales de CO2. Su alta 
+eficiencia energética se debe a la eficacia de los motores 
+eléctricos de tracción, a los sistemas de recuperación de 
+la energía y al limitado rozamiento de las ruedas con los 
+carriles, diez veces inferior al que se genera entre neu-
+máticos y asfalto. Así, el rendimiento puede ser entre 3 
+y 5 veces superior al del automóvil convencional, aparte 
+de la alta ocupación que permite.
+
+El camión
+
+En base a que el transporte de mercancías se realiza ma-
+yormente por carretera, el camión es el vehículo mayor-
+mente utilizado, aunque se complementa muchas veces 
+con la furgoneta para el transporte de menores cantida-
+des de materiales y para una distribución de proximidad. 
+Las capacidades de transporte son muy variadas. Para 
+aminorar los costes de traslado y cubrir grandes distan-
+cias existen camiones de grandísimo tonelaje.
+
+El camión se ve afectado por muchísimos accidentes 
+laborales viarios por los factores de riesgo que afectan a 
+todo tipo de vehículos, pero ofrece un riesgo mayor. En 
+su caso particular, surgen factores de riesgo derivados 
+de las características especiales del propio vehículo, de 
+la peligrosidad de las mercancías que pueda transportar 
+y de su estabilidad de carga, por los grandes recorridos a 
+realizar en circunstancias climáticas bien diversas, y por 
+
+las exigencias del propio trabajo, así como factores per-
+sonales del transportista. El régimen de vida y de trabajo 
+del conductor de camión es complejo y requiere de un 
+equilibrio entre su tiempo de trabajo y de necesario des-
+canso, con las correspondientes pausas obligadas, una 
+saludable dieta alimentaria al tener que comer frecuente-
+mente en la carretera, y un ejercicio físico adecuado para 
+compensar el extraordinario tiempo en posición sentada. 
+Aunque los camiones deben disponer de un medidor de 
+los  tiempos  de  circulación  para  evitar  una  conducción 
+excesiva, se constata que a veces es vulnerado por el 
+propio conductor por el hecho de que prefiera extender 
+su recorrido para poder llegar a dormir en su domicilio o 
+en un determinado lugar que le sea más cómodo. 
+
+El marco reglamentario del transporte por carretera es 
+específico del sector y regula las condiciones de segu-
+ridad del propio camión, del transporte, según el tipo y 
+cantidad de mercancías a transportar, de la organización 
+del trabajo, y finalmente, sobre los factores de profesio-
+nalidad y de seguridad del transportista para que adopte 
+comportamientos preventivos en todo momento y sepa 
+como actuar en caso de accidente o de emergencia. Los 
+empresarios y empresas del sector deben velar para un 
+riguroso cumplimiento de la reglamentación existente.
+
+En nuestro país, el sector del transporte tiene la pecu-
+liaridad de que la mayoría de transportistas son empresa-
+rios autónomos y las empresas de transporte suelen ser 
+pequeñas, a diferencia de otros países: lo que dificulta la 
+acción global preventiva. En el otro extremo, está EE.UU, 
+en donde el transporte por carretera suele gestionarse 
+por  empresas  con  grandes  flotas  de  vehículos,  tenien-
+do además el transporte por ferrocarril una cuota modal 
+de aproximadamente el 40%. Por su parte, la seguridad 
+en  el  transporte  con  furgonetas  requiere  de  una  espe-
+cial  atención  por  sus  múltiples  factores  de  riesgo  y  su 
+vulnerabilidad. 
+
+El automóvil
+
+El  automóvil  suele  tener  una  baja  capacidad  de  trans-
+porte, normalmente entre 5 y 7 personas como máximo. 
+Como se ha indicado anteriormente, en comparación con 
+los otros sistemas de transporte y de desplazamiento es 
+el más ineficiente desde el punto de vista energético, y 
+es  el  que  más  emisiones  contaminantes  produce.  Los 
+niveles altos de contaminación son debidos a las caracte-
+rísticas de los motores de combustión con un rendimien-
+to energético bajo. Afortunadamente se han producido 
+sustanciales avances en la reducción del consumo de 
+combustible fósil, la aminoración del efecto contaminante 
+y el empleo de otras fórmulas de suministro energético 
+como los vehículos híbridos que simultanean el consu-
+mo de combustible y de energía eléctrica mediante dos 
+motores, y los completamente eléctricos, que aun no se 
+ha generalizado su uso pero tienen grandes perspectivas 
+de futuro, especialmente para los desplazamientos urba-
+nos e interurbanos. También contribuye a la alta contami-
+nación la importancia del parque automovilístico, y que 
+además, según la DGT, supera al 70% del número total 
+de vehículos, y a las congestiones de tráfico que reducen 
+sustancialmente la eficiencia del motor y hacen aumen-
+tar las emisiones contaminantes. Las empresas deberían 
+cuidar de adquirir vehículos de bajo consumo y de mínima 
+contaminación en sus flotas de automóviles y furgonetas. 
+En países desarrollados como el nuestro, el ratio de 
+propiedad de automóviles se está acercando a uno por 
+cada  habitante.  Muy  diferente  al  que  pueda  existir  en 
+países menos desarrollados en donde el transporte no 
+
+Notas Técnicas de Prevenciónmotorizado realiza una función relevante. Alrededor de 
+una tercera parte de los desplazamientos en tal medio 
+de transporte recorren distancias inferiores a los 3 km 
+con una media de ocupación que no llega a 1,5 perso-
+nas, aunque aproximadamente un 80% de los vehículos 
+circulan solo con el conductor.
+
+Se han producido y se siguen produciendo relevantes 
+avances tecnológicos en la fabricación de automóviles 
+para evitar y prevenir accidentes de tráfico a sus conduc-
+tores y ocupantes, y minimizar sus consecuencias. Bien 
+cierto  que  ello  ha  contribuido  notoriamente  a  la  reduc-
+ción de la siniestralidad. Aunque los avances tecnológi-
+cos más relevantes se centran al principio en coches de 
+alta gama, paulatinamente las mejoras van accediendo 
+también a los vehículos utilitarios. Tales aspectos, junto 
+a consideraciones medioambientales (vehículos híbridos 
+y eléctricos) habrían de ser considerados y valorados en 
+la adquisición de un vehículo, sea de uso privado o de 
+empresa. Cabe destacar el logro del uso generalizado del 
+cinturón de seguridad que ha evitado muchísimos acci-
+dentes graves, lo que evidencia que pueden introducirse 
+fácilmente hábitos seguros y saludables que formen parte 
+de la cultura de una sociedad.
+
+Pero por otra parte, se han ido incorporando a los ve-
+hículos nuevas tecnologías de la información que son de 
+extraordinaria utilidad, como los localizadores de rutas, 
+equipamientos y lugares en general, equipos informáticos 
+y  de  telefonía,  etc.,  convirtiendo  el  coche  casi  en  una 
+oficina móvil, pero que con un mal uso se generan dis-
+tracciones y accidentes muy graves. Solo una educación 
+en el buen uso de tal equipamiento y un riguroso control 
+de su cumplimiento, también por parte de las empresas 
+hacia sus trabajadores, hará posible que la conducción 
+pueda ser segura y los avances tecnológicos vayan en 
+favor de la seguridad y no en su contra.
+
+La motocicleta
+
+La motocicleta en la que se incluiría el ciclomotor, se ha 
+convertido por su facilidad de movimiento, rapidez en los 
+desplazamientos, coste, y también facilidad de aparca-
+miento, en el medio de transporte más utilizado en las ciu-
+dades. La motocicleta es considerada extremadamente 
+peligrosa por su mayor vulnerabilidad frente al automóvil. 
+La convivencia de automóviles y otros vehículos con la 
+motocicleta en una misma vía de circulación con inten-
+so tráfico urbano, acrecienta el riesgo. El porcentaje de 
+accidentados ha aumentado considerablemente en los 
+últimos años. También es cierto que su utilización se ha 
+incrementado enormemente, en parte favorecida por la 
+afición al deporte de dos ruedas con líderes mundiales 
+españoles.  De  ahí  que  la  Administración  focalice  cam-
+pañas para mejorar la seguridad en la movilidad de tales 
+vehículos y en su conducción. La obligatoriedad del em-
+pleo del casco protector, afortunadamente ya implanta-
+do culturalmente, ha contribuido a reducir los accidentes 
+graves en tales vehículos.
+
+La bicicleta
+
+La bicicleta es un medio de transporte eficiente, saludable 
+y no contaminante, lo que ayuda enormemente a reducir 
+la contaminación en la ciudad. Pero es peligrosa en con-
+vivencia con otros vehículos en entornos urbanos y en 
+carretera. En entornos urbanos ofrece grandes ventajas y 
+pueden plantearse como alternativa de desplazamiento, o 
+combinada con el transporte público colectivo para deter-
+minados recorridos de mayor longitud para muchas per-
+
+3
+
+sonas. Es destacable el éxito de tales vehículos puestos 
+a disposición por ayuntamientos como el de Barcelona 
+y Sevilla, que otras ciudades están siguiendo, ayudando 
+a resolver los graves problemas de contaminación que 
+tienen. La bicicleta puede ser un medio de transporte más 
+rápido que el automóvil por ciudad si se tiene en cuenta el 
+tiempo de puerta a puerta, ya que el invertido por conges-
+tiones de tráfico y aparcamiento puede ser considerable.
+Aunque el uso de la bicicleta no es factible para todo 
+el mundo, se considera que puede ser adecuada para 
+distancias inferiores a 8 km, Circunstancias en que pue-
+de sustituir fácilmente al vehículo privado. Tengamos en 
+cuanta que su velocidad media en zona urbana puede 
+oscilar entre 10 y 20 km/h. La incorporación de un peque-
+ño motor eléctrico permitiría utilizarla en trayectos más 
+largos y con una mayor comodidad. España es aun uno 
+de los países con menor uso de la bicicleta, siendo los 
+Países Bajos, Dinamarca, Bélgica, Alemania, Suecia y 
+Finlandia los que van muy por delante. La bicicleta eléc-
+trica va a tener un peso creciente en los desplazamientos 
+urbanos e interurbanos de proximidad.
+
+Muchos polígonos industriales y centros de trabajo se 
+encuentran demasiado alejados de los centros urbanos 
+para ir a pie, pero puede ser ideal para hacerlo en bici-
+cleta. No obstante, la promoción de la bicicleta requiere 
+la adopción de medidas tales como:
+ • disponer de itinerarios seguros, como el carril- bici,
+ •
+
+facilitar que se puedan aparcar y guardar en aparca-
+mientos destinados a tal fin, resguardados de agentes 
+meteorológicos adversos y de intrusos,
+tener la posibilidad de ducharse y cambiarse de ropa 
+en el centro de trabajo,
+
+ •
+
+ • adquirir bicicletas que los trabajadores puedan utilizar 
+para realizar gestiones en un entorno próximo y duran-
+te la jornada laboral. También podrían disponerse las 
+mismas bicicletas como vehículos lanzadera desde las 
+estaciones de ferrocarril.
+
+2. ORGANIZACIÓN DE LA SEGURIDAD VIAL Y 
+
+LA MOVILIDAD. PLANES DE ACCION
+
+Los aspectos materiales de seguridad en vehículos y vías 
+de circulación son esenciales, pero se requiere que el 
+comportamiento del conductor y de las personas de su 
+entorno, sean seguras y saludables en todo momento, y 
+en coherencia a cada situación. La actividad de conducir 
+requiere de una completa concentración para poder estar 
+dando en todo momento la respuesta adecuada. Facto-
+res adversos pueden surgir con facilidad. Ello demanda 
+de unas cualidades físicas y mentales idóneas, además 
+de una capacidad de atención permanente, evitando los 
+múltiples factores de distracción que puedan generarse. 
+El fallo humano puede suceder con relativa facilidad, y por 
+ello, factores personales y organizacionales del trabajo 
+deben cuidar de minimizarlo. 
+
+La disponibilidad del permiso de conducción reglamen-
+tario es la garantía mínima de que la persona disponía el 
+día del examen de conducir de las capacidades y con-
+diciones necesarias para conducir un determinado tipo 
+de vehículos y que sus cualidades físicas y mentales, en 
+principio siguen siendo las adecuadas para tal función. 
+Evidentemente, es la experiencia la que permite adquirir 
+las destrezas y los hábitos para una conducción segura. 
+Con el tiempo pueden adquirirse rutinas y ciertos hábitos 
+de la conducción que no sean los más idóneos, sin que la 
+persona sea consciente de ello. Los no profesionales de 
+la conducción debieran actualizar con cierta periodicidad, 
+
+Notas Técnicas de Prevención4
+
+conocimientos y destrezas para una conducción segura.
+Por tanto, es necesario que las personas que condu-
+cen  vehículos,  especialmente  cuando  conducir  forma 
+parte total o parcial de su actividad laboral, reciban una 
+formación continuada teórico práctica para poder enfren-
+tarse a los riesgos laborales a los que están expuestos, 
+entre los que debe tenerse en cuenta, los derivados de 
+la movilidad en su trabajo, tal como el Art. 18 de la Ley 
+de PRL establece. La empresa es responsable de ello 
+y debiera arbitrar los mecanismos para que ello pueda 
+realizarse y mantenerse de una manera ágil y sencilla. 
+No se trata de suplir o volver a impartir lo que se supone 
+formaba parte de la formación inicial para la conducción, 
+sino de enriquecer conocimientos y complementarlos de 
+manera eminentemente práctica, de acuerdo a las nece-
+sidades del puesto de trabajo y de la actividad empresa-
+rial. Además, para que la conducción sea segura debe ir 
+acompañada de hábitos de vida y de trabajo saludables 
+que la hagan posible. En el apartado sobre siniestralidad 
+laboral viaria y también en los anteriores se han efectua-
+do algunas reflexiones sobre las causas que están en su 
+origen y que entorpecen una conducción segura. 
+
+Los profesores de formación vial acreditados para la 
+obtención del permiso de conducción reglamentario no 
+tienen  competencias  en  materia  de  seguridad  laboral, 
+aunque luego sean muchos los que complementan su 
+formación en la universidad y se han cualificado en la 
+materia. Por otro lado, los profesionales de la prevención 
+de riesgos laborales tienen conocimientos limitados en 
+riesgos viales, a la vista de la formación superior reci-
+bida en su especialización, y menos aún en prácticas 
+viales.  Por  tanto,  es  necesario  acrecentar  los  conoci-
+mientos de unos y otros para que puedan participar exi-
+tosamente en el proceso formativo para la prevención 
+de  riesgos  laborales  viales  que  hayan  de  realizar  las 
+organizaciones, complementándose entre sí cuando ello 
+se estime conveniente. La formación de los formadores 
+en Seguridad Vial laboral es un tema que genera con-
+troversia en los foros de debate. La postura del INSHT 
+en este tema defiende que es el técnico de prevención, 
+convenientemente  especializado,  el  que  debe  asumir 
+este  papel  y  responsabilizarse  de  la  calidad  de  la  for-
+mación impartida.
+
+Desde  luego,  la  formación  es  el  instrumento  funda-
+mental con el que poder mantener hábitos para conducir 
+de forma segura. La dirección de cualquier organización 
+debe poner los medios para que tal formación se reali-
+ce con la calidad y el rigor necesarios. Mostrar especial 
+interés por la salud del trabajador a fin de que conduzca 
+de forma segura, incide directamente en que ello pueda 
+ser alcanzable. Desde luego, la dirección de toda organi-
+zación debiera responsabilizarse para que los trabajado-
+res conduzcan de manera segura a través de un plan de 
+formación, en base tanto a las responsabilidades legales 
+por el necesario control de los riesgos laborales viales 
+derivados de su actividad, como por el compromiso moral 
+y social que también comporta una movilidad saludable y 
+sostenible. El Plan de formación debe ser el resultado de 
+la evaluación de riesgos laborales viales. 
+
+Evaluación de riesgos laborales viales
+
+Los  riesgos  laborales  viarios  deben  ser  evaluados  tal 
+como la reglamentación exige. Para hacerlo, y en base a 
+la gravedad de sus consecuencias, deben aplicarse me-
+todologías específicas que faciliten el proceso evaluador, 
+permitiendo seleccionar y priorizar las medidas preven-
+tivas a aplicar. Dada la gravedad de las consecuencias, 
+
+no sería aceptable utilizar metodologías convencionales 
+simplificadas que no permitan identificar factores de ries-
+go propios de la actividad, con los que poder estimar en 
+base a su grado de presencia e incidencia la probabilidad 
+de acontecimiento del accidente en cuestión, aunque sea 
+de manera orientativa.
+
+La  evaluación  de  riesgos  laborales  es,  junto  la  con-
+secuente planificación preventiva, instrumento esencial 
+del  Plan  de  prevención,  cuya  finalidad  principal  es  la 
+integración  de  la  prevención  en  el  sistema  general  de 
+gestión de toda organización. En el caso de los riesgos 
+laborales viarios, la evaluación debe ser realizada por el 
+Servicio de Prevención y a cargo de persona competen-
+te en esta materia. Los factores de riesgo a considerar 
+deben contemplar:
+ • El factor material de la seguridad de los vehículos y de 
+
+la carga a transportar si la hubiere,
+
+ • El factor ambiental de las vías de circulación y del en-
+torno físico, junto a posibles condicionantes meteoro-
+lógicos adversos en que pueda realizarse la movilidad 
+y la organización pueda intervenir,
+
+ • El factor humano, asociado al comportamiento de las 
+personas en el proceso de conducción y el control de 
+las variables que lo condicionan,
+
+ • El factor organizativo derivado de aspectos organiza-
+cionales, como horarios, carga de trabajo, urgencias, 
+previsión de descansos, etc.
+
+Plan de Seguridad Laboral Vial
+
+El histórico concepto de Plan de Seguridad Vial utilizado 
+por  las  Autoridades  responsables  de  la  seguridad  vial 
+de un territorio (Departamentos de Interior) se ha venido 
+refiriendo siempre a los programas de prevención para 
+disminuir los riesgos de accidente de tráfico sobre las vías 
+públicas con algún vehículo en movimiento que pueda 
+producir lesiones a las personas o daños a las cosas. El 
+Plan de Seguridad Vial de una empresa sería la versión 
+pormenorizada que pretende minimizar los riesgos en vía 
+pública de sus trabajadores en circunstancias reconoci-
+das reglamentariamente como laborales. 
+
+El  Plan  de  Seguridad  Vial.  PSV,  que  debe  ser  reali-
+zado  por  el  Servicio  de  Prevención,  formaría  parte  de 
+la planificación preventiva para el control de los riesgos 
+laborales, de acuerdo a los resultados de la evaluación de 
+riesgos. Evidentemente, dicho Plan se realizará cuando 
+existan riesgos laborales viales derivados de la actividad 
+laboral y requieran adoptarse medidas de control de los 
+mismos. Como tal, dicho PSV debería integrarse al Plan 
+de Prevención de la empresa de la manera que se estime 
+conveniente, ya sea dando solo las oportunas referencias 
+al mismo, o bien destacándose algunos aspectos esen-
+ciales de dicho PSV y los procedimientos a aplicar. Recor-
+demos que el Reglamento de Servicios de Prevención, al 
+desarrollar el contenido del Plan de Prevención, destaca 
+que en uno de sus apartados se indicarán los diferentes 
+procesos productivos con los correspondientes procedi-
+mientos preventivos a aplicar, sean los ya existentes o 
+los que hayan de implementarse en el periodo de previs-
+ta vigencia y actualización de dicho Plan. Luego, queda 
+suficientemente claro que el PSV, por su trascendencia 
+debería ser contemplado en el Plan de Prevención. 
+
+La Guía del INSHT-DGT para la elaboración de Planes 
+de Seguridad Laboral Vial establece una serie de criterios 
+de actuación que como puede apreciarse integran plena-
+mente aspectos para una movilidad más segura y soste-
+nible. Con ello se aboga por la conveniente integración 
+de los planes de seguridad vial y los planes de movilidad, 
+
+Notas Técnicas de Prevención5
+
+Figura 1. Elementos fundamentales para la prevención de riesgos laborales viarios. Fuente: DGT.
+
+aunque la empresa tiene la libertad de hacer lo que crea 
+oportuno al respecto. En la figura 1 extraída de tal Guía 
+se muestran sus elementos fundamentales.
+
+Dicha Guía propone para la elaboración del Plan de 
+Seguridad Vial una fase preliminar para lograr la implica-
+ción de la dirección y los agentes participantes, asignar 
+a los responsables del Plan y movilizar a la organización 
+
+en la línea establecida. Y luego establece cinco etapas 
+para su implantación, partiendo de la identificación de las 
+principales características de la organización respecto 
+a este tema, y el análisis de la movilidad y la gestión de 
+los desplazamientos, el análisis de los accidentes y el 
+análisis de las condiciones reales de la conducción. Ver 
+figura 2:
+
+Figura 2. Fase preliminar y etapas para la prevención de riesgos laborales viarios. Fuente: DGT.
+
+Notas Técnicas de Prevención6
+
+De las medidas preventivas que surjan del PSV y fruto 
+de la evaluación de riesgos, habrían de especificarse las 
+dirigidas a profesionales de la conducción y las dirigidas 
+a los que no lo son, pero utilizan vehículos en sus despla-
+zamientos de trabajo. A título orientativo estas medidas 
+podrán ser de los siguientes tipos:
+
+Medidas materiales 
+
+Gestión de la flota de vehículos de una organización. Cri-
+terios de seguridad y de respeto al medio ambiente en la 
+adquisición y renovación de vehículos. Disponibilidad de 
+los elementos de seguridad y salud laboral necesarios. 
+Programa de mantenimiento y revisión del buen estado 
+de vehículos, de acuerdo a exigencias reglamentarias e 
+internas de la organización. Control de la carga de ve-
+hículos y su estabilidad. Medidas de seguridad en vías 
+internas  de  circulación  y  de  acceso  a  la  empresa.  Me-
+didas favorecedoras del transporte público y vehículos 
+compartidos. Etc.
+
+Formación para la conducción segura
+
+Plan  de  formación  continuada  para  asegurar  una  con-
+ducción segura y saludable. Programa de concienciación 
+y educación para la movilidad segura y sostenible. Se-
+guimiento de la eficacia formativa. Normas de actuación 
+en la conducción de vehículos con medidas a seguir y 
+prohibiciones. Etc.
+
+Medidas organizativas
+
+Procedimientos de trabajo para una conducción segura 
+y saludable. Programa para la reducción de la movilidad. 
+Señalización de seguridad vial en el centro de trabajo. 
+Rutas  e  itinerarios  seguros.  Información  puntual  sobre 
+el estado de la circulación. Flexibilidad de horario, espe-
+cialmente en horas punta de acceso y salida del trabajo. 
+Descansos en la conducción. Organización de la carga 
+de trabajo. Previsión de urgencias  en la movilidad. Ali-
+mentación saludable con limitación y control en el uso 
+de  alcohol  y  psicofármacos.  Pautas  en  la  elección  del 
+transporte. Gestión de aparcamientos. Campañas perió-
+dicas de seguridad laboral vial. Protocolos de actuación 
+ante accidentes laborales viales. Etc.
+
+Plan de Movilidad
+
+El Plan de Movilidad de una organización PM, debe in-
+corporar la dimensión social, ambiental y económica para 
+optimizar la movilidad de personas. Es obvio que por ra-
+zones de practicidad y afinidad de la información a reca-
+bar y las soluciones a adoptar, el Plan de Movilidad habría 
+de integrarse en lo posible al Plan de Seguridad Vial, ya 
+que es normal que surjan mejoras preventivas comunes, 
+aunque la evaluación de riesgos viarios y la evaluación 
+de la movilidad tengan de por sí objetivos diferentes. En 
+el primer caso, el poder establecer medidas preventivas 
+materiales y organizativas para evitar accidentes y demás 
+daños derivados del trabajo, y en el segundo caso, el po-
+der minimizar daños de todo tipo, y optimizar recursos en 
+lo relativo a la movilidad. La acción preventiva para redu-
+cir accidentes laborales “in itínere” formaría parte natural 
+del Plan de Movilidad por su dimensión no reglamentaria, 
+aunque podría formar parte del Plan de Seguridad Labo-
+ral Viaria o de un único Plan de acción integrado. Una 
+medida como la de reducir desplazamientos con el auto-
+móvil privado que estaría incluida en el Plan de Movilidad, 
+
+está contribuyendo indirectamente a mejorar la seguridad 
+al reducirse la exposición al riesgo de accidente con tal 
+medio de transporte. Aunque el PM puede ser realizado 
+por una persona que tenga las necesarias competencias 
+en movilidad, es aconsejable que en lo posible tal función 
+sea  también  asumida  por  el  Servicio  de  Prevención  o 
+responsable de la empresa en materia de prevención de 
+riesgos laborales, o en su defecto, cooperando debida-
+mente en esta materia. 
+
+La finalidad de un Plan de Movilidad Sostenible es re-
+conducir los desplazamientos recurrentes que se efec-
+túan todos los días por motivo de trabajo hacia modos 
+de transporte social y ambientalmente más sostenibles. 
+La gestión de la demanda de transporte actúa de forma 
+eficaz  en  los  centros  que  provocan  esta  movilidad  por 
+motivo  de  trabajo.  Para  ello  es  necesario  planificar  de 
+forma racional cada una de las medidas que se propo-
+nen en forma de Plan de Movilidad Sostenible, en el que 
+se diseñan propuestas adaptadas a las necesidades de 
+cada centro de trabajo y a las circunstancias de los pro-
+pios  trabajadores.  Este  Plan  es  un  método  eficaz  que 
+permite mejorar las condiciones de movilidad generadas 
+en los centros de actividad, colaborando a reconducir los 
+efectos no deseados de estos desplazamientos, como la 
+congestión, los accidentes o la contaminación. Por eso 
+se  ofrecen  alternativas  reales  que  ayudan  a  reducir  el 
+número de vehículos motorizados que acceden hacia los 
+centros de trabajo. La mayoría de las empresas son un lu-
+gar idóneo para analizar, evaluar y optimizar la movilidad, 
+porque la mayoría de los trabajadores participan en varios 
+aspectos comunes: los horarios son similares, la oferta 
+de  transporte  público  puede  ser  amplia  y  común  para 
+todos, etc. Un Plan de Movilidad Sostenible es por tanto 
+un compromiso mutuo entre la dirección de los centros de 
+actividad y los trabajadores / as, que se caracteriza por la 
+búsqueda de una mayor racionalidad desde el punto de 
+vista social, económico y ambiental. 
+
+En base a ello, los principales objetivos de un Plan de 
+
+Movilidad Sostenible son:
+ • Reducir la movilidad motorizada individual y potenciar 
+
+otros tipos de movilidad.
+
+ • Disminuir  los  impactos  ambientales  producidos  por 
+el desplazamiento al trabajo, reduciendo el consumo 
+energético del desplazamiento al centro de trabajo. 
+
+ • Bajar el nivel de congestión circulatoria.
+ • Contribuir a reducir el número de accidentes de trabajo 
+
+“in itinere” al disminuir la exposición. 
+
+ • Procurar la equidad en el acceso al puesto de trabajo 
+Para alcanzar estos objetivos será necesario incidir en 
+medidas dirigidas a:
+ • Fomentar el uso de medios no motorizados.
+ • Promover la transferencia de los modos de transporte 
+
+privados individuales a los públicos colectivos.
+
+ • Aplicar el sistema de coche compartido, cuando sea 
+conveniente ante limitaciones en el transporte público.
+A la vista de ello, el Plan beneficia a los trabajadores, por-
+que  la  mejora  de  la  accesibilidad  del  transporte  al  cen-
+tro de trabajo les permite mejorar la calidad de vida y las 
+condiciones de trabajo. Un desplazamiento libre del coste 
+psicológico y de la ansiedad producida por la congestión 
+diaria permite a los trabajadores beneficiarse de numero-
+sas ventajas de un desplazamiento relajado en el traba-
+jo. Además, les permiten un ahorro económico. También 
+beneficia a la dirección de los centros de trabajo, porque 
+se logra una mejora generalizada de la actividad laboral: 
+mejora la puntualidad, se reduce el absentismo laboral, 
+disminuye  la  ansiedad  de  la  congestión,  permite  un  cli-
+ma  de trabajo más relajado y productivo, etc. Además, es 
+
+Notas Técnicas de Prevenciónun indicador de que la empresa se preocupa por la calidad 
+ambiental y las condiciones laborales de los trabajadores, 
+lo que mejora la imagen general del centro de trabajo.
+
+Desarrollar una movilidad más sostenible no se ataja 
+solo con educación, es necesario gestionarla debidamen-
+te en el seno de las organizaciones. Habrá que partir en 
+las organizaciones de una encuesta de movilidad que 
+permita  conocer  los  hábitos  de  desplazamiento  de  los 
+trabajadores y la demanda y oferta de servicios de trans-
+porte. El porcentaje de población que utiliza cada medio 
+de transporte en un ámbito territorial concreto o para ac-
+ceder a un lugar determinado como un centro de trabajo 
+constituye  una  información  fundamental  al  analizar  el 
+comportamiento de un determinado colectivo en relación 
+a sus hábitos de movilidad. Ello permite detectar puntos 
+fuertes y carencias o limitaciones que es posible subsanar 
+con fórmulas bien diversas, muchas de ellas complemen-
+tarias entre sí y surgidas de la cooperación. A partir de tal 
+información y del correspondiente balance socio econó-
+mico y ambiental, considerándose obviamente la opinión 
+de  los  trabajadores,  se  podrá  elaborar  y  desarrollar  el 
+correspondiente plan de movilidad, aportando los medios 
+que se consideren oportunos a cada situación y a tenor 
+también de las posibilidades. Lo cierto es que cuando se 
+inicia un proceso de reflexión al respecto en el seno de 
+las organizaciones, surgen múltiples ideas sencillas de 
+fácil aplicación y que son agradecidas rápidamente por 
+sus beneficiarios. 
+
+BIBLIOGRAFÍA
+
+7
+
+Puede ser aconsejable plantearse la figura del asesor 
+de movilidad, que es una persona que proporciona infor-
+mación personalizada concerniente a unos determinados 
+trayectos  o  bien  es  alguien  que  facilita  el  desarrollo  y 
+seguimiento de los planes de movilidad por tener expe-
+riencia al respecto. Al desempeñar dicho papel, al asesor 
+se le suele llamar gestor de movilidad o coordinador de 
+movilidad – especialmente cuando trabajan para un lugar 
+determinado. Puede ser aconsejable también constituir 
+una comisión de movilidad para acometer un trabajo co-
+lectivo y de seguimiento de esta materia en el seno de 
+una  organización,  de  trascendencia  si  la  movilidad  es 
+algo relevante de la actividad laboral.
+
+Indudablemente, el PM, por la dependencia que tiene 
+con la red de infraestructuras viarias, es conveniente que 
+vaya en lo posible asociado a las políticas municipales 
+y territoriales en esta materia, así como a los servicios 
+de movilidad puestos a disposición de la ciudadanía. De 
+ahí  la  importancia  que  los  PM  estén  abiertos  a  la  ne-
+gociación  con  ayuntamientos  y  grupos  de  interés,  que 
+pudieran verse afectados. Todo ello en beneficio mutuo 
+y del bien común.
+
+El Plan de movilidad, al situarse en muchas ocasiones 
+más allá de lo reglamentariamente exigible, es una ex-
+celente manera de mostrar un compromiso responsable 
+con los trabajadores y la sociedad, que además benefi-
+cia también a la propia empresa por un incremento de 
+reputación y posibles mejoras de la cuenta de resultados.
+
+COL.LEGI D’ENGINYERS INDUSTRIALS DE CATALUNYA.
+“Guia Técnica: Riesgos laborales viarios. Marco conceptual” 2015
+
+INSHT – DGT
+“Guía metodológica del Plan tipo de seguridad vial en la empresa”, 2011
+
+ISTAS
+“Glossario de movilidad sostenible”, 2009
+
+EGARSAT
+“Guía Práctica para elaborar un Plan de Movilidad”, 2013
+
+Marco normativo
+
+LIBRO BLANCO 2011
+Hoja de ruta hacia un espacio único europeo de transporte: por una política de transportes competitiva y sostenible
+Anexo I: Lista de iniciativas
+INNOVACIÓN PARA EL FUTURO: TECNOLOGÍA Y COMPORTAMIENTO
+2.3. Movilidad urbana integrada 31. Planes de Movilidad Urbana
+http://ec.europa.eu/transport/themes/strategies/2011_white_paper_en.htm
+
+Ley 34/2007, de calidad del aire y protección de la atmósfera. BOE» núm. 275, de 16 de noviembre de 2007
+
+Estrategia española de movilidad sostenible. Ministerio de Fomento y Ministerio de Medio Ambiente y Medio Rural y
+Marino. 2010
+http://www.fomento.gob.es/NR/rdonlyres/149186F7-0EDB-4991-93DD-CFB76DD85CD1/46435/EstrategiaMovilidadSos-
+tenible.pdf
+
+Ley 2/2011, de Economía Sostenible
+http://www.boe.es/boe/dias/2011/03/05/pdfs/BOE-A-2011-4117.pdf
+Artículo 103. Elaboración de los planes de transporte en empresas.
+
+Estrategia de Seguridad Vial 2011-2020.
+http://www.dgt.es/Galerias/seguridad-vial/politicas-viales/estrategicos-2011-2020/doc/estrategico_2020_003.pdf
+
+Notas Técnicas de Prevención8
+
+Plan de ahorro y eficiencia energética 2011-2020. 2º Plan de acción nacional de eficiencia energética en España 2011–
+2020. Instituto para la diversificación y el ahorro energético del Ministerio de Industria, Energía y Turismo.
+http://www.idae.es/index.php/id.663/mod.pags/mem.detalle
+http://www.dgt.es/Galerias/seguridad-vial/politicas-viales/estrategicos-2011-2020/doc/estrategico_2020_004.pdf
+
+Resolución de 30 de abril de 2013, de la Dirección General de Calidad y Evaluación Ambiental y Medio Natural, por la 
+que se publica el Acuerdo del Consejo de Ministros de 12 de abril de 2013, por el que se aprueba el Plan Nacional de 
+Calidad del Aire y Protección de la Atmósfera 2013-2016: Plan Aire
+BOE» núm. 123, de 23 de mayo de 2013
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-5428
+
+Comunidades autònomes
+Ley 9/2003 de movilidad de Cataluña
+DOGC núm. 3913 de 27 de Junio de 2003 y BOE núm. 169 de 16 de Julio de 2003
+http://mobilitat.gencat.cat/web/.content/contingut/temes/mobilitat_accessible/informacio_serveis/ley92003cast.pdf
+ACUERDO GOV/127/2014, de 23 de septiembre, por el cual se aprueba el Plan de actuación para la mejora de la calidad 
+del aire a las zonas de protección especial del ambiente atmosférico. 
+http://normativa.infocentre.es/sites/normativa.infocentre.es/files/noticies/20202334e.pdf
+
+Comunidad Valenciana
+LEY 6/2011, de la Generalitat, de Movilidad de la Comunidad Valenciana
+http://www.boe.es/boe/dias/2011/04/25/pdfs/BOE-A-2011-7330.pdf
+
+Comunidad autonóma de las Islas Baleares
+http://www.caib.es/eboibfront/es/2014/8338/542843/ley-4-2014-de-20-de-junio-de-transportes-terrestre
+
+Los redactores de esta NTP lo han sido también de la Guía Técnica que sobre este mismo tema ha editado el Colegio 
+de Ingenieros Industriales de Cataluña (2015), con la colaboración de un grupo de especialistas en la materia, de la que 
+se han extraído estos documentos. El INSHT ha sido institución colaboradora.
+Se agradecen las aportaciones de: Conxita Riasol, Carles Salas, Enric Rodà, Francesc Fransí, Francisco Castillo, Jordi 
+Rabassó, Josep Lluís Pedragosa, Josep Maria Rovira, Josep Orrit, Manel Ferri, Miquel Subirachs, Mònica Roche, Rafael 
+Nadal y Raquel Sellarés
+
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título. 
+
+NIPO: 272-15-025-5
+
+Notas Técnicas de Prevención

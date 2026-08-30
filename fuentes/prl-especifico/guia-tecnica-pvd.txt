@@ -1,0 +1,2547 @@
+PARA LA EVALUACIÓN
+Y PREVENCIÓN DE LOS 
+RIESGOS RELATIVOS A 
+LA UTILIZACIÓN DE 
+EQUIPOS CON 
+PANTALLAS DE 
+VISUALIZACIÓN
+
+REAL DECRETO 488/1997, de 14 de abril
+BOE nº 97, de 23 de abril
+
+GOBIERNO
+DE ESPAÑA
+
+MINISTERIO
+DE TRABAJO
+Y ECONOMÍA SOCIAL
+
+Título: 
+Guía técnica para la evaluación y prevención de los riesgos relativos a la utilización de equipos con pantallas de 
+visualización
+
+Autor:
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P.
+
+Edita:
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P.
+C/ Torrelaguna 73, 28027 Madrid
+Tel. 91 363 41 00, fax 91 363 43 27
+www.insst.es
+
+Composición:
+Mr. Vinilo Soluciones Gráficas S.L.U.
+Paseo Comandante Fortea 25, piso 5º B
+28008 Madrid
+Tel. 660 06 53 24
+
+Edición: 
+Madrid, junio 2021
+
+NIPO (papel): 118-21-031-X
+NIPO (en línea): 118-21-032-5
+Depósito Legal: M 16549-2021
+
+Hipervínculos:
+El INSST no es responsable ni garantiza la exactitud de la información en los sitios web que no son de su pro-
+piedad. Asimismo la inclusión de un hipervínculo no implica aprobación por parte del INSST del sitio web, del 
+propietario del mismo o de cualquier contenido específico al que aquel redirija.
+
+Histórico de revisiones: 
+Primera versión: junio de 1998
+
+Catálogo de publicaciones de la Administración General del Estado:
+http://cpage.mpr.gob.es
+
+Catálogo de publicaciones del INSST:
+http://www.insst.es/catalogo-de-publicaciones
+
+ 
+Nacional de Seguridad y Salud en el Trabajo (INSST), entre otras, la realización de actividades 
+de información y divulgación en materia de prevención de riesgos laborales.
+
+Por otra parte, el artículo 5.3 del Reglamento de los Servicios de Prevención contempla la po-
+sibilidad de que se utilicen guías del Instituto Nacional de Seguridad y Salud en el Trabajo 
+“cuando la evaluación exija la realización de mediciones, análisis o ensayos y la normativa no indique 
+o concrete los métodos que deben emplearse, o cuando los criterios de evaluación contemplados en dicha 
+normativa deban ser interpretados o precisados a la luz de otros criterios de carácter técnico”.
+
+n El artículo 8 de la Ley de Prevención de Riesgos Laborales establece como función del Instituto 
+ó
+i
+c
+a
+t
+n
+e
+s
+e
+r
+P
+
+La disposición final primera del Real Decreto 488/1997, de 14 de abril, sobre disposiciones 
+mínimas de seguridad y salud relativas al trabajo con equipos que incluyen pantallas de visua-
+lización, establece que “El Instituto Nacional de Seguridad e Higiene en el Trabajo, de acuerdo con lo 
+dispuesto en el apartado 3 del artículo 5 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba 
+el Reglamento de los Servicios de Prevención, elaborará y mantendrá actualizada una Guía Técnica para 
+la evaluación y prevención de los riesgos relativos a la utilización de equipos que incluyan pantallas de 
+visualización”.
+
+La presente guía, actualizada en junio de 2021, ha sido elaborada en cumplimiento de este 
+mandato legal y tiene por objetivo facilitar la aplicación del mencionado real decreto propor-
+cionando criterios e información técnica para la evaluación y prevención de los riesgos relativos 
+a la utilización de equipos que incluyan pantallas de visualización.
+
+Carlos Arranz Cordero 
+DIRECTOR DEL INSST
+
+1 El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P. ha cambiado de denominación en los últimos 
+años, pudiendo aparecer en otras publicaciones citado como Instituto Nacional de Seguridad e Higiene en el Trabajo (INSHT) 
+o Instituto Nacional de Seguridad, Salud y Bienestar en el Trabajo (INSSBT).
+
+ 
+ 
+II. 
+
+e I. 
+c
+i
+d
+n
+I
+
+INTRODUCCIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+
+ DESARROLLO Y COMENTARIOS AL REAL DECRETO 488/1997  
+SOBRE DISPOSICIONES MÍNIMAS DE SEGURIDAD Y SALUD 
+RELATIVAS AL TRABAJO CON EQUIPOS QUE INCLUYEN 
+PANTALLAS DE VISUALIZACIÓN  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+
+Artículo 1. Objeto. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+Artículo 2. Definiciones.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Artículo 3. Obligaciones generales del empresario.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+Artículo 4. Vigilancia de la salud.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Artículo 5. Obligaciones en materia de información y formación.  . . . . . . . . . . . . . . . . . . . . . .  15
+Artículo 6. Consulta y participación de los trabajadores. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+ Disposición transitoria única. Plazo de adaptación de los equipos que incluyan 
+pantallas de visualización.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   17 
+ Disposición final primera. Elaboración de la Guía Técnica para la evaluación 
+y prevención de riesgos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Disposición final segunda. Habilitación normativa. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+Anexo. Disposiciones mínimas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+
+1.  Equipo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+2.  Entorno . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+3.  Interconexión ordenador/persona . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  24
+
+III.  APÉNDICES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+
+ Apéndice 1. Principales riesgos, daños y medidas preventivas en puestos 
+de trabajo con equipos con pantallas de visualización . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27
+ Apéndice 2. Lista de verificación de las disposiciones mínimas del anexo 
+del Real Decreto 488/1997 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  29
+
+IV.  FUENTES DE INFORMACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  31
+
+A.  Documentos citados en la guía . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  31
+B.  Otros documentos no citados en la guía  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32
+C.  Referencia a la web de organismos de interés  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+
+I. INTRODUCCIÓN
+
+El Real Decreto 488/1997 transpone al ordenamiento jurídico español la Directiva 90/270/CEE del Consejo, de 29 
+de mayo de 1990, referente a las disposiciones mínimas de seguridad y de salud relativas al trabajo con equipos 
+que incluyen pantallas de visualización, y adecúa la prevención de los riesgos derivados del trabajo con equipos 
+que incluyen pantallas de visualización a los requisitos exigidos en el actual marco normativo establecido por la 
+Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales (en adelante, LPRL).
+
+Si bien no se han producido cambios legislativos en este campo, la actualización de esta guía técnica responde al 
+requerimiento recogido en dicho real decreto, por el que se insta al INSST a la elaboración y actualización de una 
+guía técnica para facilitar la aplicación del mismo.
+
+Aunque esta guía se refiere exclusivamente a dicho real decreto, debe tenerse en cuenta que el mismo se encua-
+dra en la normativa general sobre seguridad y salud en el trabajo, constituida principalmente por la LPRL y por 
+el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención (en 
+adelante, RSP) y sus posteriores modificaciones. Por lo tanto, junto a las obligaciones específicas relativas al trabajo 
+con equipos que incluyen pantallas de visualización, el empresario debe garantizar también el cumplimiento de 
+los preceptos contenidos en la ley y el reglamento citados.
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN9
+
+II. DESARROLLO Y COMENTARIOS AL REAL DECRETO 488/1997 SOBRE DISPOSICIONES MÍNIMAS 
+DE SEGURIDAD Y SALUD RELATIVAS AL TRABAJO CON EQUIPOS QUE INCLUYEN PANTALLAS 
+DE VISUALIZACIÓN
+
+Con el fin de facilitar la utilización de la presente guía 
+se incluye íntegramente el articulado del Real Decreto 
+488/1997,  en  recuadros  en  color,  seguidos  de  los  co-
+mentarios sobre aquellos aspectos más relevantes que 
+no se consideran suficientemente autoexplicativos. Asi-
+
+mismo, se proporcionan criterios técnicos para facilitar 
+la evaluación y prevención de los riesgos para la seguri-
+dad y la salud de los trabajadores que emplean pantallas 
+de visualización. Cuando las observaciones o aclaracio-
+nes son extensas se agrupan en un apéndice específico.
+
+REAL DECRETO 488/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y salud relativas al 
+trabajo con equipos que incluyen pantallas de visualización
+
+La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales determina el cuerpo básico de ga-
+rantías y responsabilidades preciso para establecer un adecuado nivel de protección de la salud de los tra-
+bajadores frente a los riesgos derivados de las condiciones de trabajo, en el marco de una política coherente, 
+coordinada y eficaz. Según el artículo 6 de la misma serán las normas reglamentarias las que irán fijando y 
+concretando los aspectos más técnicos de las medidas preventivas. 
+
+Así, son las normas de desarrollo reglamentario las que deben fijar las medidas mínimas que deben adoptarse 
+para la adecuada protección de los trabajadores. Entre ellas se encuentran las destinadas a garantizar que de 
+la utilización de los equipos que incluyen pantallas de visualización por los trabajadores no se deriven riesgos 
+para la seguridad y salud de los mismos. 
+
+En el mismo sentido hay que tener en cuenta que en el ámbito de la Unión Europea se han fijado mediante las 
+correspondientes Directivas criterios de carácter general sobre las acciones en materia de seguridad y salud 
+en los centros de trabajo, así como criterios específicos referidos a medidas de protección contra accidentes 
+y situaciones de riesgo. Concretamente, la Directiva 90/270/CEE, de 29 de mayo, establece las disposiciones 
+mínimas de seguridad y de salud relativas al trabajo con equipos que incluyan pantallas de visualización. Me-
+diante el presente Real Decreto se procede a la transposición al Derecho español del contenido de la Directiva 
+90/270/CEE antes mencionada. 
+
+En su virtud, de conformidad con el artículo 6 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos 
+Laborales a propuesta del Ministro de Trabajo y Asuntos Sociales, consultadas las organizaciones empresa-
+riales y sindicales más representativas, oída la Comisión Nacional de Seguridad y Salud en el Trabajo, de 
+acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de 
+abril de 1997, 
+
+DISPONGO:
+
+Artículo 1. Objeto
+
+1.   El presente Real Decreto establece las disposiciones mínimas de seguridad y de salud para la utilización 
+
+por los trabajadores de equipos que incluyan pantallas de visualización.
+
+El Real Decreto 488/1997 constituye una norma de de-
+sarrollo reglamentario de la LPRL y tiene por objeto 
+la protección de la salud y la seguridad de los trabaja-
+dores que utilizan equipos que incluyen pantallas de 
+visualización.
+
+Es importante señalar que este real decreto es la tras-
+posición de la Directiva 90/270/CEE y que la misma 
+no ha sido actualizada por el Parlamento Europeo y el 
+Consejo desde su publicación. Por ello, debe tenerse 
+
+en cuenta que el texto normativo no refleja los desa-
+rrollos tecnológicos que se han producido en los equi-
+pos que incluyen pantallas de visualización a lo largo 
+de estos años. De hecho, es razonable asumir que el 
+texto original de la directiva hacía referencia a aque-
+llos equipos que incluyen pantallas que eran habitua-
+les en el momento de la redacción de la misma, cuyas 
+características  técnicas  eran  muy  diferentes  a  las  de 
+los equipos actuales y cuyo uso estaba prácticamente 
+restringido al trabajo en oficina.
+
+2.   Las disposiciones de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales se aplicarán 
+
+plenamente al conjunto del ámbito contemplado en el apartado anterior.
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN10
+
+El presente real decreto establece los criterios que debe 
+tener en cuenta el empresario dentro de su obligación 
+de protección de los trabajadores para aquellos ries-
+gos específicos derivados de la utilización de equipos 
+con pantallas de visualización. De forma adicional, el 
+empresario deberá asegurar también el cumplimiento 
+de los preceptos de carácter general contenidos en la 
+LPRL así como sus disposiciones de desarrollo y com-
+plementarias en el caso de que también fueran de apli-
+cación a los puestos de trabajo en los que se hace uso 
+de dichos equipos.
+
+En el caso particular de las pequeñas y medianas em-
+presas, además de lo anterior, pueden ser de interés 
+los comentarios incluidos en la “Guía técnica para la 
+integración de la prevención de riesgos laborales en 
+el sistema general de gestión de la empresa” y en la 
+“Guía técnica de simplificación documental”, ambas 
+publicadas por el INSST.
+
+3.  Quedan excluidos del ámbito de aplicación de este Real Decreto:
+
+a)   Los puestos de conducción de vehículos o máquinas.
+b)   Los sistemas informáticos embarcados en un medio de transporte.
+c)   Los sistemas informáticos destinados prioritariamente a ser utilizados por el público.
+
+  d)   Los 
+
+sistemas llamados “portátiles”, siempre y cuando no se utilicen de modo continuado en un puesto 
+
+de trabajo.
+
+e)    Las calculadoras, cajas registradoras y todos aquellos equipos que tengan un pequeño dispositivo de 
+
+visualización de datos o medidas necesario para la utilización directa de dichos equipos.
+
+f)  Las máquinas de escribir de diseño clásico, conocidas como “máquinas de ventanilla”.
+
+Para los casos excluidos de la aplicación del real de-
+creto sobre trabajos con equipos con pantallas de vi-
+sualización,  se  deben  considerar  las  disposiciones 
+generales de la LPRL especialmente en lo relativo a: 
+principios de la acción preventiva, evaluación de los 
+riesgos,  equipos  de  trabajo  y  medios  de  protección, 
+información,  consulta  y  participación  de  los  traba-
+jadores,  formación  de  los  trabajadores,  medidas  de 
+emergencia  y  vigilancia  de  la  salud,  así  como  cual-
+quier otra normativa de prevención de riesgos labora-
+les que sea de aplicación a la actividad que se realice. 
+
+La exclusión a que hace referencia el punto 3 c) se debe 
+a que estos sistemas están diseñados para ser emplea-
+dos por el público en general y quedan fuera del ám-
+bito de aplicación de la normativa laboral. 
+
+La exclusión de los equipos portátiles con pantallas 
+de visualización a los que hace alusión el punto 3 d), 
+independientemente del tamaño, características y tec-
+
+nología utilizada, solo se aplica cuando no son utili-
+zados  de  forma  continua  en  un  puesto  de  trabajo  y 
+teniendo en cuenta las definiciones y los comentarios 
+de la presente guía. Los factores para determinar si la 
+utilización es continua son los mismos que se aplican 
+para definir al “trabajador” (ver los comentarios rela-
+tivos al artículo 2 más adelante).
+
+La exclusión relativa al punto 3 e) para pequeños dispo-
+sitivos de visualización, se debe a que estos no suelen 
+requerir una visualización intensiva durante largos pe-
+ríodos de tiempo. En general, quedarían excluidos una 
+gran variedad de instrumentos y equipos dotados con 
+estas pequeñas pantallas como, por ejemplo, aquellos 
+destinados a medir magnitudes físicas y que pueden 
+ser utilizados en actividades muy diversas tales como: 
+comprobaciones en líneas de montaje, tareas de man-
+tenimiento, controles de calidad, talleres de reparación, 
+etc., o bien ir incorporados a las propias máquinas o 
+equipos para el control eventual de su funcionamiento. 
+
+A efectos de este Real Decreto se entenderá por:
+
+Artículo 2. Definiciones
+
+a)    Pantalla de visualización: una pantalla alfanumérica o gráfica, independientemente del método de repre-
+
+sentación visual utilizado.
+
+Una pantalla de visualización es un dispositivo elec-
+trónico utilizado para la presentación de texto, imá-
+genes o vídeo transmitidos de forma electrónica y sin 
+que genere un registro permanente de dicha informa-
+
+ción. Esta definición incluye a todas las pantallas de 
+visualización  independientemente  de  la  tecnología 
+utilizada para dicha presentación.
+
+b)    Puesto de trabajo: el constituido por un equipo con pantalla de visualización provisto, en su caso, de un 
+teclado o dispositivo de adquisición de datos, de un programa para la interconexión persona/máquina, de 
+accesorios ofimáticos y de un asiento y mesa o superficie de trabajo, así como el entorno laboral inmediato.
+
+GUÍA TÉCNICA 
+ 
+ 
+ 
+ 
+ 
+11
+
+En el ámbito de aplicación de este real decreto, la pan-
+talla  de  visualización  es  el  elemento  mínimo  indis-
+pensable que define el puesto de trabajo, que también 
+podrá contar con otros elementos como teclado, ratón 
+
+y  otros  dispositivos  de  entrada  de  datos  así  como 
+mesa, silla y, en general, el mobiliario y los equipos 
+auxiliares presentes en el entorno inmediato donde se 
+realiza la tarea.
+
+c)  T  rabajador: cualquier trabajador que habitualmente y durante una parte relevante de su trabajo normal 
+
+utilice un equipo con pantalla de visualización.
+
+Si bien el real decreto define “trabajador” como aquel 
+que utiliza equipos con pantallas de visualización de 
+forma  habitual  y  durante  una  parte  relevante  de  su 
+trabajo, actualmente es muy difícil establecer una fron-
+tera sencilla que delimite dicho concepto basándose 
+exclusivamente en un determinado número de horas 
+de uso diarias o semanales.
+
+La probabilidad asociada a los riesgos relativos al uso 
+de equipos con pantallas de visualización está rela-
+cionada principalmente con la frecuencia de uso, la 
+duración, la intensidad y el ritmo de los períodos de 
+uso continuo de estos equipos. Por ello, la casuística 
+y las diferentes situaciones que pueden darse hacen 
+que el número de horas de uso de dichos equipos no 
+sea el único factor para delimitar de forma exacta y 
+precisa quiénes deben ser considerados trabajadores 
+a los efectos del real decreto. Por tanto, será el con-
+junto de factores asociados a las condiciones de tra-
+bajo (artículo 4 de la LPRL) y de la persona que ocupa 
+el puesto, junto con los riesgos presentes, los que de-
+terminarán si el usuario de estos equipos puede ser 
+considerado “trabajador” a efectos de lo dispuesto en 
+este real decreto.
+
+Cuando el uso de estos equipos sea menos continuo o 
+frecuente, deberán valorarse otros factores adiciona-
+les para para determinar la condición de “trabajador”. 
+Algunos de los factores que se pueden tener en cuenta 
+son: el requerimiento de altos niveles de atención y de 
+
+concentración para realizar la tarea, la existencia de 
+determinados requisitos del trabajo como la necesidad 
+de obtención rápida de información, la necesidad de 
+atender a la posible aparición de información de forma 
+continuada, la posibilidad de que el ritmo de trabajo 
+sea impuesto por el propio sistema, la imposibilidad 
+de realizar pausas voluntarias durante los periodos de 
+uso del equipo, la repetitividad de la tarea, la grave-
+dad de las consecuencias ante los posibles errores, etc.
+
+En  ocasiones,  puede  resultar  más  práctico  y  eficaz, 
+desde el punto de vista preventivo, extender la con-
+dición de “trabajador”, en el seno de una empresa, a 
+todos aquellos que utilicen equipos con pantallas de 
+visualización, independientemente del tipo de uso que 
+se haga de ellos. Esta consideración puede simplificar 
+la adopción de medidas preventivas así como ofrecer 
+mayor protección al conjunto de trabajadores.
+
+En cualquier caso, la aplicación de este real decreto 
+(teniendo presentes las definiciones de este artículo 2) 
+podría constituir una evaluación parcial y no exhaus-
+tiva del puesto de trabajo debido a que, en el caso de 
+que se realizasen tareas y actividades adicionales, sería 
+necesario evaluar los riesgos derivados de las mismas.
+Por otra parte, la no consideración como “trabajador” 
+según lo dispuesto en este real decreto no exime al em-
+presario de la obligación de realizar la evaluación de 
+los riesgos que se deriven de las tareas que se realizan 
+y de las condiciones del puesto de trabajo.
+
+Artículo 3. Obligaciones generales del empresario
+
+1.   El empresario adoptará las medidas necesarias para que la utilización por los trabajadores de equipos con 
+pantallas de visualización no suponga riesgos para su seguridad o salud o, si ello no fuera posible, para 
+que tales riesgos se reduzcan al mínimo.
+
+ En cualquier caso, los puestos de trabajo a que se refiere el presente Real Decreto deberán cumplir las dis-
+posiciones mínimas establecidas en el Anexo del mismo.
+
+2.   A efectos de lo dispuesto en el primer párrafo del apartado anterior, el empresario deberá evaluar los 
+riesgos para la seguridad y salud de los trabajadores, teniendo en cuenta en particular los posibles riesgos 
+para la vista y los problemas físicos y de carga mental, así como el posible efecto añadido o combinado de 
+los mismos.
+
+ La evaluación se realizará tomando en consideración las características propias del puesto de trabajo y las 
+exigencias de la tarea y entre éstas, especialmente, las siguientes:
+
+a)   El tiempo promedio de utilización diaria del equipo.
+
+  b)   El tiempo máximo de atención continua a la pantalla requerido por la tarea habitual
+
+c)   El grado de atención que exija dicha tarea.
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN 
+ 
+ 
+ 
+12
+
+3.   Si la evaluación pone de manifiesto que la utilización por los trabajadores de equipos con pantallas de 
+visualización supone o puede suponer un riesgo para su seguridad o salud, el empresario adoptará las me-
+didas técnicas u organizativas necesarias para eliminar o reducir el riesgo al mínimo posible. En particular, 
+deberá reducir la duración máxima del trabajo continuado en pantalla, organizando la actividad diaria de 
+forma que esta tarea se alterne con otras o estableciendo las pausas necesarias cuando la alternancia de 
+tareas no sea posible o no baste para disminuir el riesgo suficientemente.
+
+4.   En los Convenios Colectivos podrá acordarse la periodicidad, duración y condiciones de organización de 
+
+los cambios de actividad y pausas a que se refiere el apartado anterior.
+
+El  empresario  podrá  evitar  o  reducir  los  posibles 
+riesgos  derivados  de  la  utilización  de  equipos  con 
+pantallas de visualización mediante la aplicación con-
+junta de los siguientes aspectos:
+
+a)  El cumplimiento de los requisitos legales
+b)  El diseño correcto del puesto
+c)  La adecuada organización del trabajo
+d)  La información y la formación
+
+a) Cumplimiento de los requisitos legales
+
+Los puestos de trabajo con equipos con pantallas de 
+visualización deben cumplir con los requisitos esta-
+blecidos en este real decreto. Este cumplimiento no 
+garantiza, por sí mismo, la ausencia de riesgos para 
+la salud, sino que tiene como objetivo eliminar, re-
+ducir o controlar los riesgos más frecuentes y espera-
+bles en estos puestos de trabajo. Para facilitar dicho 
+cumplimiento, en el apéndice 2 se incluye una lista 
+de comprobación de los aspectos recogidos en el real 
+decreto. 
+
+Como ya se ha comentado anteriormente, también se 
+debe cumplir con toda la normativa en materia de pre-
+vención de riesgos laborales, relativa a otros riesgos 
+que se hayan identificado en el puesto de trabajo y que 
+no estén contemplados en este real decreto.
+
+b) Diseño correcto del puesto de trabajo
+
+De forma complementaria al cumplimiento de los re-
+quisitos legales, la utilización de criterios de diseño 
+ergonómico también puede ayudar a eliminar, redu-
+cir o controlar los posibles riesgos que pudieran estar 
+presentes.
+
+Los puestos que incluyan equipos con pantallas de vi-
+sualización deben estar diseñados para cubrir las ne-
+cesidades de la tarea y adaptarse a las personas que los 
+van a ocupar, teniendo en cuenta todos los elementos 
+que formen parte de los mismos.
+
+Para realizar un diseño adecuado del puesto, además 
+de las recomendaciones de diseño ergonómico que se 
+incluyen en los comentarios al anexo de este real de-
+creto, se pueden emplear otras recogidas en normas 
+
+técnicas, así como recomendaciones de entidades de 
+reconocido prestigio en la materia.
+
+c) Adecuada organización del trabajo
+
+La organización del trabajo es un elemento clave para 
+el control de los riesgos. A continuación se exponen al-
+gunos de los aspectos a considerar, aunque no se trata 
+de un listado exhaustivo debido a la enorme diversi-
+dad de situaciones de trabajo que se pueden dar en los 
+puestos de trabajo que utilizan equipos con pantallas 
+de visualización.
+
+•   Características  de  la  tarea:  tipo  de  tarea  (lectura, 
+consulta,  introducción  de  datos,  diseño  gráfico, 
+etc.), grado de atención requerido en la ejecución 
+de  la  tarea,  minuciosidad,  alternancia  pantallas/
+documentos, alternancia con otro tipo de tareas, etc.
+•   Temporalidad: duración, tiempo promedio, tiempo 
+
+máximo de uso del equipo con pantallas, etc.
+
+•   Pausas: número de pausas, duración, regladas o a 
+
+discreción del usuario, etc.
+
+d) Información y formación
+
+Es fundamental que los trabajadores tengan conoci-
+miento  y  estén  informados  de  los  riesgos  a  los  que 
+están expuestos, así como de las medidas preventivas 
+planificadas. Para conseguir esto, los principales me-
+canismos existentes son la información y formación al 
+trabajador. Debido a la importancia de este aspecto, el 
+propio real decreto dedica el artículo 5 a esta temática. 
+
+Para evaluar los riesgos el procedimiento debe par-
+tir de la información obtenida sobre la organización, 
+las características y la complejidad del trabajo, de los 
+equipos de trabajo existentes en la empresa y de los 
+resultados de la vigilancia de la salud de los trabajado-
+res. A partir de estos datos se procederá a la identifica-
+ción de los riesgos presentes, que en el caso de puestos 
+con equipos con pantallas de visualización son, funda-
+mentalmente, los relativos a los posibles efectos para 
+la  vista,  los  problemas  físicos  y  los  derivados  de  la 
+carga mental y sus efectos combinados. 
+
+Cada  uno  de  los  elementos  presentes  en  el  puesto 
+puede actuar sobre distintos riesgos. Por ejemplo: una 
+
+GUÍA TÉCNICA13
+
+pantalla mal orientada respecto a una fuente de luz 
+puede  dar  lugar  a  la  aparición  de  reflejos.  Estos  re-
+flejos pueden provocar fatiga visual, pueden forzar la 
+postura al intentar evitarlos (incluso de forma incons-
+ciente) y, además, puede ser un factor que contribuya 
+a aumentar la carga mental.
+
+La complejidad y la interdependencia de todos estos as-
+pectos hacen que sea muy difícil una valoración precisa 
+del riesgo partiendo únicamente de los datos cuantitati-
+vos. No obstante, esto no impide que se puedan adop-
+tar medidas para minimizar y evitar los riesgos. A estos 
+efectos, se propone el esquema general de la figura 1.
+
+•   En primer lugar, frente a un puesto de trabajo en el 
+que se utilizan pantallas de visualización, se deberá 
+determinar si el real decreto es de aplicación, con-
+forme a los criterios establecidos en el artículo 1. En 
+el caso de que no lo fuera, no existe una obligación 
+legal de aplicar lo establecido en el mismo.
+
+•   Cuando el real decreto sea de aplicación, se deberá 
+cumplir con las especificaciones técnicas recogidas 
+en el anexo de dicho real decreto.
+
+•   Si a pesar de lo anterior se detecta la existencia de 
+riesgos relacionados con los problemas físicos, para 
+la vista o de carga mental, se procederá a la evalua-
+ción de los mismos. Para esta evaluación se tendrán 
+en cuenta, en su caso, los métodos o criterios a los 
+que se refiere el apartado 3 del artículo 5 del RSP, pu-
+diéndose utilizar los criterios que se incluyen en esta 
+guía, los recogidos en normas técnicas y, en ausencia 
+de los anteriores, los contenidos en guías de otras en-
+tidades de reconocido prestigio en la materia.
+
+•   Derivado de esta evaluación, se deberán aplicar las 
+medidas técnicas y organizativas (diseño correcto 
+del  puesto  de  trabajo,  adecuada  organización  del 
+trabajo, información y formación, etc.) para reducir 
+y eliminar los riesgos.
+
+•   Finalmente, no debe olvidarse que este proceso debe 
+volver a realizarse o revisarse periódicamente según 
+
+Figura 1. Esquema general del proceso de evaluación de los riesgos relacionados con el uso de equipos con pantallas de visualización.
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN14
+
+lo acordado entre la empresa y los representantes 
+de los trabajadores, así como cuando se introduz-
+can nuevas tecnologías, se modifique el acondicio-
+namiento  de  los  lugares  de  trabajo,  se  produzcan 
+cambios en las condiciones de trabajo, se incorpore 
+personal especialmente sensible a un determinado 
+riesgo, se detecten daños a la salud o se aprecie, a 
+través de los controles periódicos, que las activida-
+des preventivas son inadecuadas o insuficientes. 
+
+Los riesgos derivados de la utilización de equipos con 
+pantallas  de  visualización  se  ven  afectados  por  dis-
+tintos factores relacionados con el propio diseño del 
+sistema  de  trabajo.  Entre  ellos  se  incluye  no  solo  el 
+conjunto de personas y equipos, sino también el espa-
+cio, el entorno concreto en el que se desarrolla la tarea, 
+los aspectos temporales relacionados con el uso y la 
+atención  requerida,  así  como  las  interacciones  entre 
+esos componentes dentro de una determinada orga-
+nización del trabajo.
+
+El estado actual del conocimiento científico-técnico en 
+materia preventiva no ofrece una metodología espe-
+cífica de evaluación para esta tipología de puestos de 
+trabajo que permita evaluar todos los riesgos (así como 
+su posible efecto combinado) presentes en los mismos.
+
+Sin embargo, existen distintos métodos, que gozan de 
+amplia difusión y reconocimiento, que evalúan ries-
+gos concretos y sirven para la evaluación parcial de los 
+puestos que utilicen equipos con pantallas de visuali-
+zación. Antes de proceder a aplicar cualquier método, 
+es recomendable realizar un análisis de las ventajas 
+e inconvenientes que ofrece cada uno de ellos, espe-
+cialmente en cuanto a su utilidad práctica preventiva 
+para cada situación particular que se vaya a evaluar en 
+relación con: la configuración del puesto, las caracte-
+rísticas de los trabajadores, la organización del trabajo 
+y de las tareas, etc.
+
+A  continuación,  se  proponen  algunos  métodos  de 
+evaluación  que  pueden  ayudar  a  estimar  la  magni-
+tud de estos riesgos, así como orientar al empresario 
+a la hora de determinar las medidas preventivas más 
+adecuadas para garantizar la seguridad y la salud de 
+sus trabajadores. 
+
+•   Confort  lumínico:  “Evaluación  y  acondiciona-
+miento de la iluminación en el puesto de trabajo: 
+Cuestionario de evaluación subjetiva”.
+
+ Se  trata  de  un  cuestionario  sencillo  (desarrollado 
+por el INSST) que valora la adecuación del sistema 
+de iluminación y que es aplicable a todo tipo de ac-
+tividad y tamaño de empresa.
+
+ El cuestionario se presenta en dos partes. La primera 
+es un “test de iluminación” cuyo propósito es facili-
+tar un análisis de las características de la iluminación 
+en  el  puesto  de  trabajo  y  que  contempla  aspectos 
+como los niveles de iluminación, deslumbramientos, 
+reflejos  molestos,  contrastes  de  la  tarea,  sombras, 
+reproducción  del  color,  parpadeos,  efectos  estro-
+boscópicos y campo visual. La segunda parte es un 
+“cuestionario de evaluación subjetiva” con tres pre-
+guntas de respuesta múltiple dirigidas a ser contes-
+tadas por los trabajadores. Por último, el documento 
+se complementa con una guía de posibles soluciones.
+
+•   Riesgos asociados al trabajo en oficinas: ROSA (del 
+
+inglés “Rapid Office Strain Assessment”).
+
+ La  metodología  de  evaluación  ROSA  está  basada 
+en el uso de una lista de comprobación que permite 
+cuantificar (en una escala de 1 a 10) la exposición de 
+los trabajadores a factores de riesgo relacionados con 
+el uso de equipos con pantallas de visualización en 
+un entorno de oficinas. Considera diversos aspectos 
+de la silla, de la pantalla y de otros elementos (telé-
+fono, ratón, teclado), así como del tiempo de uso de 
+los mismos para obtener una valoración numérica 
+que indica tanto el nivel de riesgo como el nivel de 
+actuación requerido.
+
+•   Carga Mental: ESCAM “Escala Subjetiva de Carga 
+
+Mental”.
+
+ La ESCAM consiste en un cuestionario para evaluar 
+la carga mental. Contiene una introducción teórica 
+al concepto de ”carga mental” y está formado por 
+20 ítems (escala tipo Likert con 5 opciones de res-
+puesta) agrupados en 5 bloques: demandas cogni-
+tivas  y  complejidad  de  la  tarea,  características  de 
+la tarea, organización temporal, ritmo de trabajo y 
+consecuencias sobre la salud.
+
+ Se trata de un cuestionario aplicable a distintos secto-
+res laborales, así como a diferentes puestos de trabajo, 
+que permite comparar los resultados obtenidos con 
+grupos de referencia. Incluye una batería de recomen-
+daciones preventivas y una plantilla de corrección.
+
+Artículo 4. Vigilancia de la salud
+
+1.   El empresario garantizará el derecho de los trabajadores a una vigilancia adecuada de su salud, teniendo 
+en cuenta en particular los riesgos para la vista y los problemas físicos y de carga mental, el posible efecto 
+añadido o combinado de los mismos, y la eventual patología acompañante. Tal vigilancia será realizada por 
+personal sanitario competente y según determinen las autoridades sanitarias en las pautas y protocolos que 
+se elaboren, de conformidad con lo dispuesto en el apartado 3 del artículo 37 del Real Decreto 39/1997, de 
+17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención. Dicha vigilancia deberá 
+ofrecerse a los trabajadores en las siguientes ocasiones:
+
+GUÍA TÉCNICA 
+ 
+ 
+ 
+ 
+15
+
+a)  Antes de comenzar a trabajar con una pantalla de visualización.
+
+  b)  Posteriormente, con una periodicidad ajustada al nivel de riesgo a juicio del médico responsable.
+
+c)  Cuando aparezcan trastornos que pudieran deberse a este tipo de trabajo.
+
+La vigilancia de la salud deberá garantizar la protec-
+ción de la salud de los trabajadores de acuerdo con 
+la LPRL así como el RSP. Debe reunir los siguientes 
+requisitos: ser específica, proporcional al riesgo, vo-
+luntaria, confidencial, documentada y prolongada en 
+el tiempo, estando siempre a disposición de la autori-
+dad laboral y sanitaria en los términos establecidos en 
+la legislación vigente.
+
+El Ministerio de Sanidad estableció en el año 1999 un 
+protocolo  de  vigilancia  sanitaria  específica  para  los 
+trabajadores que emplean equipos con pantallas de vi-
+sualización que puede servir de base para la vigilancia 
+de la salud en la empresa. 
+
+Si bien con los conocimientos actuales no existe una 
+opinión unánime sobre la posible relación entre el uso 
+
+de equipos con pantallas de visualización y las enfer-
+medades oftalmológicas, desde el enfoque preventivo 
+se  tiene  constancia  de  la  existencia  de  factores  que 
+pueden dar lugar a sequedad ocular y a fatiga visual 
+en estos puestos de trabajo.
+
+La sequedad ocular puede deberse a la disminución 
+del  parpadeo  derivado  de  la  concentración  y  de  la 
+atención requeridas en este tipo de trabajo, así como 
+a un grado de humedad ambiental bajo. En cuanto a 
+la fatiga visual, una de las principales causas son los 
+frecuentes  ajustes  del  ojo  a  diferentes  distancias  vi-
+suales debido a la ubicación de los documentos, del 
+teclado y de la pantalla. Para más información sobre 
+estos aspectos se recomienda consultar el apéndice 1 
+de esta guía.
+
+2.   Cuando los resultados de la vigilancia de la salud a que se refiere el Apartado 1 lo hiciese necesario, los 
+
+trabajadores tendrán derecho a un reconocimiento oftalmológico.
+
+El  trabajador  tiene  derecho  a  que  le  sea  practicado 
+un reconocimiento oftalmológico por un especialista 
+cuando el médico responsable de la vigilancia de la 
+
+salud lo considere necesario a tenor de los hallazgos 
+encontrados durante dicha vigilancia y de la informa-
+ción obtenida a través de la evaluación de los riesgos.
+
+3.   El empresario proporcionará gratuitamente a los trabajadores dispositivos correctores especiales para la 
+protección de la vista adecuados al trabajo con el equipo de que se trate, si los resultados de la vigilancia 
+de la salud a que se refieren los apartados anteriores demuestran su necesidad y no pueden utilizarse dis-
+positivos correctores normales.
+
+Los  dispositivos  correctores  especiales  son  aquellos 
+dispositivos específicos (normalmente gafas) para tra-
+bajar a las distancias requeridas en puestos con equi-
+pos  con  pantallas  de  visualización  y  cuyo  uso  debe 
+limitarse al tiempo de trabajo con la misma, no estando 
+destinados a utilizarlos en ninguna otra circunstancia. 
+
+Será el médico responsable de la vigilancia de la salud 
+quien considere la necesidad de proporcionar dispo-
+sitivos correctores especiales al trabajador cuando sus 
+dispositivos  correctores  normales  no  se  ajusten  a  la 
+distancia de trabajo y no se pueda modificar la confi-
+guración del puesto para su adaptación.
+
+No se consideran “dispositivos correctores especiales” 
+aquellos utilizados para patologías como la miopía, el 
+astigmatismo, la presbicia, etc., que se compensan con 
+dispositivos normales. No obstante, es importante que, 
+si el trabajador tiene alguna patología que requiera la 
+utilización de dispositivos correctores, estos estén co-
+rrectamente graduados; en caso contrario, puede fa-
+vorecer la aparición de dolor de cabeza o fatiga visual. 
+
+Las gafas antirreflejo y sistemas análogos tampoco se 
+deben considerar como dispositivos correctores espe-
+ciales.
+
+Artículo 5. Obligaciones en materia de información y formación
+
+1.   De conformidad con los artículos 18 y 19 de la Ley de Prevención de Riesgos Laborales, el empresario 
+deberá garantizar que los trabajadores y los representantes de los trabajadores reciban una formación e in-
+formación adecuadas sobre los riesgos derivados de la utilización de los equipos que incluyan pantallas de 
+visualización, así como sobre las medidas de prevención y protección que hayan de adoptarse en aplicación 
+del presente Real Decreto.
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN 
+ 
+16
+
+La formación e información de los trabajadores que 
+emplean equipos con pantallas de visualización, así 
+como  de  sus  representantes,  debe  tener  como  prin-
+cipal objetivo la prevención de los riegos específicos 
+para  la  salud  que  pueden  derivarse  del  trabajo  con 
+dichos equipos.
+
+La  formación  e  información  deben  comprender,  al 
+menos, los siguientes aspectos:
+
+•   La explicación de las causas de los posibles riesgos 
+y de la forma en que se pueden llegar a producir 
+
+daños para la salud en el trabajo con equipos con 
+pantallas de visualización.
+
+•    El papel desempeñado por el propio trabajador y 
+sus representantes en el reconocimiento de dichos 
+riesgos así como los canales que pueden utilizarse 
+para comunicar los eventuales síntomas o deficien-
+cias detectados.
+
+•   La información de todos los aspectos importantes 
+del Real Decreto 488/1997, especialmente los relati-
+vos a la vigilancia de la salud, la evaluación de los 
+riesgos y los requerimientos mínimos de diseño del 
+puesto contenidos en su anexo.
+
+2.   El empresario deberá informar a los trabajadores sobre todos los aspectos relacionados con la seguridad y 
+la salud en su puesto de trabajo y sobre las medidas llevadas a cabo de conformidad con lo dispuesto en 
+los artículos 3 y 4 de este Real Decreto.
+
+La  información  dada  por  el  empresario  a  los  traba-
+jadores  que  emplean  equipos  con  pantallas  de  vi-
+sualización  debe  incluir,  de  manera  específica,  la 
+correspondiente a la organización de la vigilancia de 
+la salud, así como el resultado de las preceptivas eva-
+luaciones de riesgos en los puestos de trabajo y de las 
+medidas adoptadas para corregir las deficiencias. Esta 
+información debe ser específica, centrada en los ries-
+gos identificados en la evaluación y adaptada para que 
+sea comprensible por el trabajador.
+
+Además, cada trabajador debería recibir una informa-
+ción suficiente sobre:
+
+•   La forma de utilizar los mecanismos de ajuste del 
+equipo y del mobiliario del puesto de trabajo a fin 
+de configurarlos a sus necesidades, evitar las postu-
+ras inadecuadas, etc. 
+
+•   Cómo mantener una correcta higiene postural, con 
+recomendaciones  orientadas  a  evitar  el  estatismo 
+postural y el sedentarismo prolongado.
+
+•    La adopción de pautas saludables de trabajo para 
+prevenir la fatiga. A este respecto, es recomendable 
+la inclusión de una sencilla tabla de ejercicios visua-
+les y musculares que ayude a reducir la tensión del 
+trabajo prolongado frente la pantalla.
+
+3.   El empresario deberá garantizar que cada trabajador reciba una formación adecuada sobre las moda-
+lidades de uso de los equipos con pantallas de visualización, antes de comenzar este tipo de trabajo y 
+cada vez que la organización del puesto de trabajo se modifique de manera apreciable.
+
+La formación deberá estar centrada específicamente 
+en el puesto de trabajo y en la función de cada trabaja-
+dor y debería adecuarse a su capacidad y habilidades, 
+así como a las exigencias concretas de la tarea que se le 
+vaya a encomendar. Se debe adaptar a la evolución de 
+los riesgos y a la aparición de otros nuevos, así como 
+repetirse periódicamente si fuera necesario. Por tanto, 
+debe ser actualizada cada vez que se modifique de ma-
+nera significativa alguno de los principales elementos 
+que configuran el puesto de trabajo: pantalla de visua-
+lización, programas informáticos, equipo informático 
+u otros elementos del puesto de trabajo o tareas que 
+se realicen. Se debe considerar una actualización de 
+la formación, en particular, en el caso de que el traba-
+jador quede desentrenado como consecuencia de un 
+largo período de ausencia de su puesto de trabajo.
+
+La  formación  debe  ser  teórica  y  práctica,  y  deberá 
+impartirse, siempre que sea posible, dentro de la jor-
+nada de trabajo o, en su defecto, en otro horario, pero 
+con el descuento en aquella del tiempo invertido en 
+la misma. Se podrá impartir por la empresa mediante 
+medios propios o concertándola con servicios ajenos, 
+y su coste no recaerá en ningún caso sobre los traba-
+jadores.
+
+Algunos de los objetivos de la formación son adqui-
+rir conocimientos básicos para configurar adecuada-
+mente el puesto de trabajo y distribuir las pausas para 
+evitar la fatiga, así como desarrollar hábitos saludables 
+que eviten el comportamiento sedentario y promue-
+van la alternancia de posturas.
+
+Artículo 6. Consulta y participación de los trabajadores
+
+La consulta y participación de los trabajadores o sus representantes sobre las cuestiones a que se refiere este 
+Real Decreto se realizarán de conformidad con lo dispuesto en el apartado 2 del artículo 18 de la Ley de Pre-
+vención de Riesgos Laborales.
+
+GUÍA TÉCNICA17
+
+El apartado 2 del artículo 18 de la LPRL establece que el 
+empresario deberá consultar a los trabajadores, y per-
+mitir su participación, en el marco de todas las cuestio-
+nes que afecten a la seguridad y a la salud en el trabajo, 
+de conformidad con lo dispuesto en el capítulo V. En 
+base a ello, los trabajadores pueden efectuar propues-
+
+tas al empresario y a sus representantes dirigidas a la 
+mejora de los niveles de protección de la seguridad y 
+la salud en la empresa, sin que ello vaya en detrimento 
+del derecho del empresario a decidir las acciones que 
+deben tomarse, ni suponga limitación de su responsa-
+bilidad en la prevención de los riesgos laborales.
+
+Disposición transitoria única. Plazo de adaptación de los equipos que incluyan pantallas de visualización
+
+Los equipos que incluyan pantallas de visualización puestos a disposición de los trabajadores en la empresa o 
+centro de trabajo con anterioridad a la fecha de entrada en vigor del presente Real Decreto deberán ajustarse 
+a los requisitos establecidos en el Anexo en un plazo de doce meses desde la citada entrada en vigor.
+
+En  la  actualidad  todos  los  equipos  deben  estar  ya 
+adaptados a los requisitos establecidos en el anexo.
+
+Disposición final primera. Elaboración de la Guía Técnica para la evaluación y prevención de riesgos 
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo, de acuerdo con lo dispuesto en el apartado 3 del 
+artículo 5 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de 
+Prevención, elaborará y mantendrá actualizada una Guía Técnica para la evaluación y prevención de los ries-
+gos relativos a la utilización de equipos que incluyan pantallas de visualización. 
+
+Disposición final segunda. Habilitación normativa
+
+Se autoriza al Ministro de Trabajo y Asuntos Sociales para dictar, previo informe de la Comisión Nacional 
+de Seguridad y Salud en el Trabajo, las disposiciones necesarias en desarrollo de este Real Decreto y, espe-
+cíficamente, para proceder a la modificación del Anexo del mismo para aquellas adaptaciones de carácter 
+estrictamente técnico en función del progreso técnico, de la evolución de las normativas o especificaciones 
+internacionales o de los conocimientos en el área de los equipos que incluyan pantallas de visualización.
+
+Dado en Madrid a 14 de abril de 1997. 
+
+El Ministro de Trabajo y Asuntos Sociales
+JAVIER ARENAS BOCANEGRA
+
+JUAN CARLOS R. 
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN18
+
+ANEXO
+Disposiciones mínimas
+
+Observación preliminar: Las obligaciones que se establecen en el presente Anexo se aplicarán para alcanzar 
+los objetivos del presente Real Decreto en la medida en que, por una parte, los elementos considerados existan 
+en el puesto de trabajo y, por otra, las exigencias o características intrínsecas de la tarea no se opongan a ello.
+
+En la aplicación de lo dispuesto en el presente Anexo se tendrán en cuenta, en su caso, los métodos o criterios 
+a que se refiere el apartado 3 del artículo 5 del Real Decreto de los Servicios de Prevención.
+
+Este  anexo  establece  los  requerimientos  mínimos 
+que deben cumplir los puestos de trabajo equipados 
+con pantallas de visualización. Estos requerimientos 
+hacen referencia al equipo informático, al mobiliario 
+del  puesto,  al  medio  ambiente  físico  y  a  la  interfaz 
+persona-ordenador. 
+
+El único elemento que existe siempre en el puesto de 
+trabajo, de acuerdo con el apartado b) del artículo 2 
+de este real decreto, es la pantalla de visualización. El 
+resto de los elementos estarán presentes en la medida 
+en que sean necesarios en el puesto de trabajo y, en 
+tal caso, les serán de aplicación los requerimientos mí-
+nimos  de  acuerdo  con  la  observación  preliminar  de 
+este anexo. Por otra parte, dichos requerimientos serán 
+aplicables siempre que la naturaleza de la tarea reali-
+zada lo permita.
+
+En  la  práctica,  tales  requerimientos  resultan  plena-
+mente aplicables a la mayoría de los puestos de trabajo 
+típicos de oficina. No obstante, en algunas circunstan-
+cias pueden no serlo, como por ejemplo:
+
+•   Actividades en las que se utilizan equipos con pan-
+tallas de visualización para los que existen normas 
+técnicas específicas que contengan recomendacio-
+nes adicionales a las exigencias de este anexo. Es el 
+caso, por ejemplo, de las salas de control que dispo-
+nen de una serie de normas técnicas específicas para 
+esa actividad. 
+
+•   Trabajadores que utilizan sillas de ruedas. En este 
+caso pueden trabajar directamente desde ellas sin 
+atenerse a los requisitos específicos para las sillas 
+señalados en el punto 1.e) del anexo.
+
+•   Pantallas de visualización que forman parte de un 
+entorno  de  simulación  (de  vuelo,  de  conducción, 
+de  maquinaria,  etc.)  que  a  su  vez  reproduzcan  o 
+emulen pantallas que no están sujetas a los requeri-
+mientos del real decreto según lo establecido en el 
+artículo 1.
+
+En  todo  caso,  aunque  los  requerimientos  de  este 
+anexo no sean de aplicación, el empresario debe pro-
+teger la salud de los trabajadores mediante la reali-
+zación de todas las actividades preventivas que sean 
+necesarias.
+
+Si bien los requerimientos del anexo tienen un carácter 
+de mínimos, es posible ampliar y hallar información 
+más detallada sobre los mismos, así como sobre otras 
+recomendaciones  ergonómicas,  en  normas  técnicas 
+existentes relacionadas con la ergonomía de la interac-
+ción hombre-sistema, mobiliario de oficina, ilumina-
+ción, etc. (ver el apartado IV de esta guía sobre fuentes 
+de  información).  Las  recomendaciones  recogidas  en 
+estas normas no son de obligado cumplimiento, pero 
+pueden complementar los requisitos de este anexo y, 
+además, pueden hacerse extensivas, en la mayoría de 
+las ocasiones, a otras actividades en las que se utilicen 
+dichos equipos.
+
+1. Equipo
+
+a)  Observación general.
+
+ –   La utilización en sí misma del equipo no debe ser una fuente de riesgo para los trabajadores.
+
+b)  Pantalla.
+
+ –   Los caracteres de la pantalla deberán estar bien definidos y configurados de forma clara, y tener una 
+
+dimensión suficiente, disponiendo de un espacio adecuado entre los caracteres y los renglones.
+
+ –   La imagen de la pantalla deberá ser estable, sin fenómenos de destellos, centelleos u otras formas de 
+
+inestabilidad.
+
+ –   El usuario de terminales con pantalla deberá poder ajustar fácilmente la luminosidad y el contraste entre 
+
+los caracteres y el fondo de la pantalla, y adaptarlos fácilmente a las condiciones del entorno.
+
+ –   La pantalla deberá ser orientable e inclinable a voluntad, con facilidad para adaptarse a las necesidades 
+
+del usuario.
+
+ –   Podrá utilizarse un pedestal independiente o una mesa regulable para la pantalla.
+ –   La pantalla no deberá tener reflejos ni reverberaciones que puedan molestar al usuario.
+
+GUÍA TÉCNICA 
+ 
+ 
+ 
+ 
+ 
+ 
+El desarrollo tecnológico en el ámbito de las pantallas 
+de visualización ha experimentado un gran auge en 
+los últimos años. Este desarrollo se materializa en me-
+joras continuas en la tecnología utilizada para repre-
+sentar visualmente la información, las características 
+visuales de la información y en los ajustes y persona-
+lización de dichas características a las necesidades de 
+la tarea y de los trabajadores. 
+
+teres alfanuméricos en las pantallas de visualización: 
+con polaridad positiva (caracteres oscuros sobre fondo 
+claro) y con polaridad negativa (caracteres claros sobre 
+fondo oscuro). Aunque cada forma de polaridad tiene 
+sus ventajas y limitaciones, en general, es recomenda-
+ble el empleo de pantallas con polaridad positiva, ya 
+que emulan la forma de representación habitual de los 
+documentos impresos. 
+
+19
+
+En lo relativo al control de los reflejos, el diseño de la 
+pantalla y su carcasa no deben producir reflejos mo-
+lestos  en  las  condiciones  de  iluminación  habituales. 
+Por ello, es recomendable que las superficies tengan 
+un acabado mate. 
+
+Además de una pantalla apropiada a la tarea, se reco-
+mienda diseñar el lugar de trabajo de forma adecuada 
+en relación con las características y la situación de las 
+fuentes de luz tanto naturales como artificiales.
+
+Por lo que respecta a la colocación de la pantalla, para 
+facilitar la correcta visualización de la información es 
+fundamental la distancia de visualización y el ángulo 
+de la línea de visión. En lo que concierne a la coloca-
+ción de la pantalla, aunque la distancia de visualiza-
+ción depende de la tarea y el monitor, en ningún caso 
+debe estar situada a menos de 300 mm. Los tamaños 
+de las pantallas que se emplean habitualmente en ta-
+reas de oficina requieren habitualmente una distancia 
+comprendida entre 400 mm y 750 mm. 
+
+La  pantalla  se  situará  a  una  altura  tal  que  la  parte 
+superior  de  la  misma  coincida  con  la  altura  de  los 
+ojos  del  usuario  de  manera  que  pueda  ser  visuali-
+zada dentro del espacio situado entre la línea de vi-
+sión horizontal y la trazada a 40° bajo la horizontal 
+de forma que la flexión del cuello esté entre 0° y 25° 
+(ver figura 2). 
+
+La norma técnica “UNE-EN ISO 9241-303:2011: Ergo-
+nomía de la interacción hombre-sistema. Parte 303: Re-
+quisitos para las pantallas de visualización electrónica” 
+establece una serie de especificaciones de rendimiento 
+y  recomendaciones  que  aseguran  unas  condiciones 
+de visualización eficaces y confortables independien-
+temente de la tecnología del equipo, de la tarea y del 
+medio ambiente en que se desarrolla, con el fin de que 
+la información mostrada en la pantalla pueda identifi-
+carse de forma rápida, sin esfuerzo y sin errores.
+
+Debido  a  la  variabilidad  de  los  usuarios  potenciales 
+y la relevancia de la legibilidad de la información re-
+presentada en las pantallas, es importante que existan 
+posibilidades de ajuste y de regulación de distintos pa-
+rámetros tales como el contraste, la diferencia de lumi-
+nancias o el tamaño de los caracteres que permitan la 
+adaptación a las diferentes necesidades. Aunque se re-
+comienda una altura de los caracteres de 20-22 minutos 
+de arco, en la práctica, la mayor parte de las aplicacio-
+nes que se emplean en un entorno de oficina permiten 
+modificar el tipo de letra, el tamaño de la misma y otras 
+características del texto como el espaciado entre carac-
+teres, palabras y líneas, etc., permitiendo adecuarlo al 
+usuario y a sus necesidades particulares. 
+
+Idealmente,  una  pantalla  de  visualización  no  debe 
+presentar ningún tipo de artefacto visual que dificulte 
+la legibilidad: falta de uniformidad de luminancia, de 
+color  o  de  contraste,  distorsiones  geométricas  (para 
+filas o columnas de texto), defectos en la pantalla, par-
+padeo, efecto muaré, etc. Por ejemplo: en relación con 
+la estabilidad de la imagen, la pantalla se debería ver 
+libre de parpadeos por al menos el 90% de los usuarios. 
+
+Para que los símbolos en pantalla se visualicen ade-
+cuadamente,  deben  tener  suficiente  contraste  con  el 
+fondo.  Aunque  dicha  visibilidad  también  depende 
+de la luminosidad del entorno, como esta no siempre 
+puede controlarse por el usuario, la pantalla debe pro-
+porcionar los medios para poder ajustar el contraste de 
+luminancias entre los caracteres y el fondo de pantalla. 
+
+Otro aspecto de interés lo constituye la polaridad de la 
+imagen. Existen dos formas de representar los carac-
+
+Figura 2. Posición de la pantalla respecto de la línea de visión 
+horizontal.
+
+c)  Teclado.
+
+ –   El teclado deberá ser inclinable e independiente de la pantalla para permitir que el trabajador adopte una 
+
+postura cómoda que no provoque cansancio en los brazos o las manos.
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN 
+20
+
+ –   Tendrá que haber espacio suficiente delante del teclado para que el usuario pueda apoyar los brazos y 
+
+las manos.
+
+ –   La superficie del teclado deberá ser mate para evitar los reflejos.
+ –   La disposición del teclado y las características de las teclas deberán tender a facilitar su utilización.
+ –   Los símbolos de las teclas deberán resaltar suficientemente y ser legibles desde la posición normal de 
+
+trabajo.
+
+El teclado es el principal dispositivo de introducción 
+de datos en los equipos con pantallas de visualización. 
+El requisito de movilidad e independencia respecto al 
+resto del equipo resulta necesario para que, por una 
+parte, se pueda ubicar en una posición que no impli-
+que posiciones forzadas y, por otra, permita su adap-
+tación a los cambios posturales del usuario.
+
+Algunas  características  del  teclado,  como  su  altura, 
+grosor e inclinación, pueden influir en la adopción de 
+posturas incorrectas. Para prevenir posibles riesgos, 
+el diseño del teclado debería cumplir, al menos, los 
+siguientes requisitos:
+
+•   El  cuerpo  del  teclado  debe  ser  suficientemente 
+
+plano.
+
+•   Se recomienda que la altura de la 3ª fila de teclas 
+(fila central) no exceda de 30 mm respecto a la base 
+de apoyo del teclado.
+
+•   La inclinación del teclado debería estar compren-
+dida entre 0° y 15° respecto al plano horizontal.
+
+Si el diseño incluye un soporte para las manos, su pro-
+fundidad debería ser al menos de 10 cm. Si no existe 
+dicho soporte, se debe habilitar un espacio similar en 
+la mesa delante del teclado. Este soporte o espacio es 
+muy importante para reducir la tensión estática en los 
+brazos y en la espalda.
+
+Actualmente hay una gran variedad de teclados dise-
+ñados para favorecer una postura correcta de muñecas 
+y de antebrazos. Su utilidad depende, en gran medida, 
+de las tareas que se realicen y de las preferencias de 
+los trabajadores.
+
+Otros requisitos para el teclado
+
+Con el fin de facilitar la legibilidad de los símbolos se 
+recomienda el uso de teclados con caracteres oscuros 
+
+d)  Mesa o superficie de trabajo.
+
+sobre fondo claro. Asimismo, las superficies visibles 
+del teclado no deberían ser reflectantes.
+
+Por otro lado, se recomienda que las principales seccio-
+nes del teclado (bloque alfanumérico, bloque numérico, 
+teclas de cursor y teclas de función) estén claramente 
+delimitadas y separadas entre sí por una distancia de, 
+al menos, la mitad de la anchura de una tecla.
+
+Asimismo, la forma, el tamaño y la fuerza de acciona-
+miento de las teclas deben ser adecuados para permitir 
+un uso cómodo y preciso.
+
+Finalmente, los teclados deberán incluir la letra ”ñ”, 
+así como los signos de apertura de interrogación y de 
+exclamación, de acuerdo con lo establecido en el Real 
+Decreto 564/1993, de 16 de abril, sobre presencia de 
+la letra ”Ñ” y demás caracteres específicos del idioma 
+castellano en los teclados de determinados aparatos de 
+funcionamiento mecánico, eléctrico o electrónico que 
+se utilicen para la escritura. 
+
+No se puede ignorar la existencia de otros dispositi-
+vos de entrada de datos como ratones, joysticks, etc. El 
+diseño de estos dispositivos habrá de conjugar tanto 
+la eficacia respecto a la función para la que han sido 
+creados, como la adaptación al usuario permitiendo 
+un uso fácil y rápido y evitando a la vez las posibles 
+pérdidas de control, los errores y la realización de es-
+fuerzos innecesarios durante su utilización.
+
+Se puede consultar la norma “EN ISO 9241-410: 2008: 
+Ergonomía  de  la  interacción  hombre-sistema.  Parte 
+410: Criterios de diseño para los dispositivos de en-
+trada físicos”, así como la especificación técnica “ISO/
+TS 9241-411: 2012: Ergonomics of human-system inte-
+raction -- Part 411: Evaluation methods for the design 
+of physical input devices”, para otras recomendacio-
+nes más detalladas sobre los dispositivos de entrada 
+de datos.
+
+ –   La mesa o superficie de trabajo deberán ser poco reflectantes, tener dimensiones suficientes y permitir 
+
+una colocación flexible de la pantalla, del teclado, de los documentos y del material accesorio.
+
+ –   El  soporte  de  los  documentos  deberá  ser  estable  y  regulable  y  estará  colocado  de  tal  modo  que  se 
+
+reduz  can al mínimo los movimientos incómodos de la cabeza y los ojos.
+
+ –   El espacio deberá ser suficiente para permitir a los trabajadores una posición cómoda.
+
+GUÍA TÉCNICA 
+ 
+ 
+ 
+ 
+ 
+ 
+21
+
+e)  Asiento de trabajo.
+
+ –   El asiento de trabajo deberá ser estable, proporcionando al usuario libertad de movimiento y procurán-
+
+dole una postura confortable.
+
+ –   La altura del mismo deberá ser regulable.
+ –  El respaldo deberá ser reclinable y su altura ajustable.
+ –  Se pondrá un reposapiés a disposición de quienes lo deseen.
+
+La mesa o superficie de trabajo
+
+•   Altura del asiento ajustable en el rango necesario 
+
+para la población de usuarios.
+
+•   Respaldo  con  una  suave  prominencia  para  dar 
+apoyo  a  la  zona  lumbar  y  con  dispositivos  para 
+poder ajustar su altura e inclinación.
+
+•   Profundidad  del  asiento  regulable,  de  tal  forma 
+que el usuario pueda utilizar el respaldo sin que el 
+borde del asiento le presione las piernas.
+
+•   Mecanismos de ajuste fácilmente accesibles y accio-
+nables en posición sentado y construidos a prueba 
+de cambios no intencionados.
+
+•   Se recomienda la utilización de sillas dotadas de 5 
+
+apoyos para el suelo.
+
+Sería recomendable que la silla también incluyera rue-
+das, especialmente cuando la naturaleza del trabajo así 
+lo requiera. Las ruedas deben ser adecuadas al tipo de 
+suelo existente, con el fin de evitar desplazamientos 
+involuntarios.
+
+En aquellas situaciones en las que después de haber 
+procedido a la regulación, modificación o adaptación 
+de los elementos del puesto de trabajo, el trabajador no 
+llegue a apoyar los pies en el suelo, se recomienda el 
+uso de un reposapiés para proporcionar el apoyo ne-
+cesario y evitar compresiones en las piernas. Además, 
+el uso del reposapiés puede favorecer los cambios de 
+la postura de trabajo, así como ofrecer un  punto  de 
+apoyo adicional.
+
+El reposapiés debe reunir las siguientes características:
+
+•   La inclinación mínima será de 5° y podrá regularse 
+
+hasta al menos 15°.
+
+•   Dimensiones mínimas de 45 cm de ancho por 35 cm 
+
+de profundidad.
+
+•   Tener superficies antideslizantes, tanto en la zona 
+superior para los pies como en sus apoyos para el 
+suelo.
+
+Las dimensiones de la mesa deben ser suficientes para 
+que el usuario pueda colocar con holgura los elemen-
+tos de trabajo: pantalla, documentos, dispositivos de 
+entrada de datos, así como disponer del espacio nece-
+sario para su correcto uso siguiendo las recomendacio-
+nes dadas en apartados anteriores. Por otro lado, las 
+superficies de trabajo deberán tener un acabado mate 
+para minimizar los reflejos y, además, su color no de-
+bería ser excesivamente claro ni oscuro. Asimismo, las 
+superficies del mobiliario con las que pueda entrar en 
+contacto el usuario deben ser de baja transmisión tér-
+mica y carecer de esquinas o aristas agudas.
+
+El soporte de los documentos (portadocumentos 
+o atril)
+
+Cuando sea necesario trabajar de manera habitual con 
+documentos impresos, se recomienda la utilización de 
+un atril. Este dispositivo permite reducir los esfuerzos 
+de acomodación visual y los movimientos de cabeza, 
+cuello y ojos requeridos para pasar del plano de tra-
+bajo del documento al de la pantalla y viceversa.
+
+El portadocumentos debería presentar las siguientes 
+características: 
+
+•   Ser ajustable en altura, inclinación y distancia.
+•   Ser opaco y tener una superficie de baja reflectancia.
+•   Tener resistencia estructural suficiente para soportar 
+el peso de los documentos sin que se produzcan mo-
+vimientos que dificulten la lectura de los mismos.
+
+La silla de trabajo
+
+Las sillas destinadas a los puestos de trabajo con equi-
+pos con pantallas de visualización deberían cumplir 
+los siguientes requisitos de diseño:
+
+2. Entorno
+
+a)  Espacio.
+
+ –    El puesto de trabajo deberá tener una dimensión suficiente y estar acondicionado de tal manera que haya 
+
+espacio suficiente para permitir los cambios de postura y movimientos de trabajo.
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN 
+ 
+ 
+ 
+ 
+22
+
+El espacio destinado al puesto de trabajo debe ser su-
+ficiente para que los trabajadores puedan acceder al 
+mismo  con  facilidad,  realizar  cambios  posturales  y 
+moverse sin que ello suponga un riesgo para su segu-
+ridad y salud.
+
+De  forma  general,  las  dimensiones  mínimas  de  los 
+puestos  de  trabajo  deberán  cumplir  con  lo  estable-
+
+cido en el apartado 2 del anexo 1.A. del Real Decreto 
+486/1997, de 14 de abril, por el que se establecen las 
+disposiciones mínimas de seguridad y salud en los lu-
+gares de trabajo. 
+
+Asimismo, se deberían tener en cuenta las recomen-
+daciones y los comentarios de la correspondiente guía 
+técnica del INSST.
+
+b) Iluminación.
+
+ –   La iluminación general y la iluminación especial (lámparas de trabajo), cuando sea necesaria, deberán
+garantizar unos niveles adecuados de iluminación y unas relaciones adecuadas de luminancias entre la
+pantalla y su entorno, habida cuenta del carácter del trabajo, de las necesidades visuales del usuario y
+del tipo de pantalla utilizado.
+
+  –  El acondicionamiento del lugar de trabajo y del puesto de trabajo, así como la situación y las característi-
+cas técnicas de las fuentes de luz artificial, deberán coordinarse de tal manera que se eviten los deslum-
+bramientos y los reflejos molestos en la pantalla u otras partes del equipo.
+
+c) Reflejos y deslumbramientos.
+
+  –  Los puestos de trabajo deberán instalarse de tal forma que las fuentes de luz, tales como ventanas y otras
+aberturas, los tabiques transparentes o translúcidos y los equipos o tabiques de color claro no provoquen
+deslumbramiento directo ni produzcan reflejos molestos en la pantalla.
+
+  –  Las ventanas deberán ir equipadas con un dispositivo de cobertura adecuado y regulable para atenuar
+
+la luz del día que ilumine el puesto de trabajo.
+
+En el ámbito de la prevención de riesgos laborales, las 
+condiciones mínimas de iluminación de los lugares de 
+trabajo están determinadas en el artículo 8 y en el anexo 
+IV del Real Decreto 486/1997. En base a las disposicio-
+nes recogidas en dicho texto, el nivel de iluminación 
+(iluminancia) del puesto de trabajo con pantallas de 
+visualización deberá ser suficiente para todas las ta-
+reas que se realicen en dicho puesto. Es habitual que 
+en los puestos de trabajo con equipos con pantallas de 
+visualización se realicen tareas con diferentes niveles 
+de exigencia visual, por lo que resulta difícil establecer 
+un valor único de iluminancia para dichos puestos. En 
+general, las tareas más habituales en estos puestos de 
+trabajo son la lectura y la elaboración de documentos, 
+tanto en formato papel como en formato digital.
+
+De los criterios propuestos por las distintas entidades 
+especializadas en la materia, tal vez el sugerido por la 
+“Society of Light and Lighting” (SLL) es el que refleja 
+con mayor claridad, si bien de forma un tanto simpli-
+ficada, la diferencia entre las exigencias visuales de las 
+dos tareas típicas en el trabajo con pantallas de visua-
+lización. En concreto, los niveles de iluminación que 
+sugiere el SLL para el trabajo con pantallas y el trabajo 
+con papel son los siguientes:
+
+Tarea
+
+Oficina: trabajo principalmente con pantallas
+
+Oficina: trabajo principalmente con papel
+
+Em (lux)1
+300
+
+500
+
+Teniendo en cuenta que, en los puestos típicos de tra-
+bajo que hacen uso de equipos con pantallas de visuali-
+zación, es habitual que se simultaneen tareas de lectura 
+y de escritura, tanto en el papel como en la pantalla, el 
+nivel de iluminación promedio deberá estar compren-
+dido en el rango de 300 lux a 500 lux.
+
+De forma complementaria a los niveles mínimos de 
+iluminación, la norma UNE-EN 12464-1:2012 “Ilumi-
+nación. Iluminación de los lugares de trabajo. Parte 1: 
+Lugares de trabajo en interiores” contiene recomen-
+daciones sobre otros aspectos que contribuyen a dis-
+poner de un sistema de iluminación ergonómico y de 
+calidad, como por ejemplo: la uniformidad del nivel 
+de iluminancia, el contraste de luminancias, la repro-
+ducción cromática, el parpadeo de las fuentes de luz 
+artificiales, la importancia de la luz natural, el deslum-
+bramiento y los reflejos, etc.
+
+Respecto a los reflejos y a los deslumbramientos, los 
+puestos de trabajo deberán diseñarse y ubicarse de 
+forma que se eviten los reflejos producidos tanto por 
+la luz natural procedente de las ventanas, claraboyas 
+u otras aberturas, como por la luz artificial generada 
+por el sistema de iluminación del local. Para ello, es 
+importante  orientar  y  situar  los  puestos  de  trabajo 
+de forma que se evite que la luz (bien sea natural o 
+artificial) incida directamente sobre la pantalla, el te-
+clado, la superficie y los documentos de trabajo. De 
+igual forma, puede resultar útil disponer de cortinas, 
+
+1 Estos valores de iluminancia no son puntuales, sino que son valores promedio.
+
+GUÍA TÉCNICApersianas o mamparas para amortiguar y controlar 
+el nivel de iluminación, así como apantallar o utili-
+zar difusores en aquellas luminarias susceptibles de 
+
+causar deslumbramientos, y utilizar superficies con 
+un  acabado  mate  para  reducir  posibles  reflexiones 
+molestas.
+
+d)  Ruido.
+
+–     El ruido producido por los equipos instalados en el puesto de trabajo deberá tenerse en cuenta al diseñar 
+
+el mismo, en especial para que no se perturbe la atención ni la palabra.
+
+23
+
+Habitualmente en entornos de oficina no se suelen su-
+perar los valores de exposición que dan lugar a una ac-
+ción establecidos en el Real Decreto 286/2006, de 10 de 
+marzo, sobre la protección de la salud y la seguridad 
+de los trabajadores contra los riesgos relacionados con 
+la exposición al ruido. Aun así, con niveles de exposi-
+ción inferiores se pueden producir efectos indeseables 
+tales como reducción del rendimiento, interferencias 
+en la comunicación y disminución de la atención y de 
+la concentración. 
+
+A la hora de diseñar y evaluar puestos con equipos con 
+pantallas de visualización, se deben considerar todas 
+las fuentes de emisión de ruido y evitar su propagación 
+hasta los puestos de trabajo, teniendo en cuenta que, 
+por una parte, las propias instalaciones de los edificios, 
+así como su estructura arquitectónica, pueden causar 
+y propagar ruidos, y que, por la otra, los equipos in-
+formáticos  que  suelen  acompañar  a  las  pantallas  de 
+visualización, como por ejemplo las impresoras, tam-
+bién pueden ser una fuente de ruido que cause efectos 
+indeseados para la atención y la comunicación verbal.
+
+e)  Calor.
+
+El nivel de ruido debe ser lo suficientemente bajo para 
+permitir la realización de las tareas sin producir efec-
+tos  indeseados  para  el  trabajador.  La  norma  “UNE-
+EN ISO 11690-1:1997: Acústica. Práctica recomendada 
+para el diseño de lugares de trabajo con bajo nivel de 
+ruido que contienen maquinaria. Parte 1: estrategias 
+de control del ruido” propone, a modo de orientación, 
+los siguientes valores recomendados de exposición o 
+de inmisión de ruido:
+
+•   Para trabajos de rutina de oficinas: de 45 dB a 55 dB.
+•   Para salas de reuniones o tareas que implican con-
+
+centración: de 35 dB a 45 dB.
+
+No  obstante,  no  sólo  se  debe  considerar  el  nivel  de 
+exposición sino que la calidad acústica de un puesto, 
+el tiempo de reverberación y otros parámetros, como 
+la propagación del sonido, también deben tenerse en 
+cuenta.
+
+–  
+
+ Los equipos instalados en el puesto de trabajo no deberán producir un calor adicional que pueda ocasio-
+nar molestias a los trabajadores.
+
+Las condiciones termohigrométricas del entorno pue-
+den afectar a la salud, al bienestar de los trabajadores y 
+al desarrollo de la tarea. Los trabajadores no deberían 
+estar expuestos ni a radiación térmica, ni a corrientes 
+de aire, y la temperatura debería ser homogénea y sin 
+variaciones significativas en el puesto de trabajo (por 
+ejemplo, entre los pies y la cabeza). Los factores más 
+importantes a considerar son: la temperatura del aire, 
+la temperatura radiante, la humedad relativa y la ve-
+locidad del aire. Otros factores, como el aislamiento 
+térmico del vestido y el nivel de actividad, también 
+influyen en la percepción del bienestar térmico.
+
+En  el  ámbito  de  la  prevención  de  riesgos  laborales,
+las condiciones ambientales de los lugares de trabajo 
+están determinadas en el artículo 7 y en el anexo III
+del Real Decreto 486/1997. La correspondiente guía 
+técnica recomienda, para trabajos en locales cerrados 
+donde se realicen tareas de oficinas y similares, que 
+la temperatura del aire se mantenga dentro de los si-
+guientes rangos:
+
+•   En época de verano: de 23 °C a 26 °C.
+•   En época de invierno: de 20 °C a 24 °C.
+
+f)  Emisiones
+
+–   Toda radiación, excepción hecha de la parte visible del espectro electromagnético, deberá reducirse a nive-
+les insignificantes desde el punto de vista de la protección de la seguridad y de la salud de los trabajadores.
+
+Los niveles de radiación óptica y electromagnética que 
+emiten las pantallas de visualización están por debajo 
+de los niveles límite establecidos tanto en el Real De-
+creto 486/2010, de 23 de abril, sobre la protección de la 
+
+salud y la seguridad de los trabajadores contra los ries-
+gos relacionados con la exposición a radiaciones ópti-
+cas artificiales, como en el Real Decreto 1066/2001, de 
+28 de septiembre, por el que se aprueba el Reglamento 
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN 
+ 
+ 
+ 
+ 
+ 
+24
+
+que establece condiciones de protección del dominio 
+público radioeléctrico, restricciones a las emisiones ra-
+dioeléctricas y medidas de protección sanitaria frente 
+a emisiones radioeléctricas.
+
+Por tanto, conforme a los conocimientos científicos ac-
+tuales y a la normativa indicada en el párrafo anterior, 
+no sería necesario realizar una evaluación específica 
+frente a estos riesgos por el uso habitual de pantallas 
+de visualización.
+
+g)  Humedad.
+
+–  Deberá crearse y mantenerse una humedad aceptable.
+
+La humedad relativa estará comprendida entre el 30% 
+y el 70% tal y como se indica en el anexo III del Real 
+Decreto 486/1997.
+
+La humedad ambiental afecta a la sensación térmica, 
+pero  también  puede  influir  en  otros  aspectos.  Por 
+ejemplo: una humedad relativa baja favorece la seque-
+dad de los ojos y de las mucosas.
+
+3.  Interconexión ordenador/persona
+
+ Para la elaboración, la elección, la compra y la modificación de programas, así como para la definición de las 
+tareas que requieran pantallas de visualización, el empresario tendrá en cuenta los siguientes factores:
+
+a)  El programa habrá de estar adaptado a la tarea que deba realizarse.
+b)   El programa habrá de ser fácil de utilizar y deberá, en su caso, poder adaptarse al nivel de conocimientos 
+y de experiencia del usuario; no deberá utilizarse ningún dispositivo cuantitativo o cualitativo de control 
+sin que los trabajadores hayan sido informados y previa consulta con sus representantes.
+
+c)  Los sistemas deberán proporcionar a los trabajadores indicaciones sobre su desarrollo.
+d)  Los sistemas deberán mostrar la información en un formato y a un ritmo adaptados a los operadores.
+e)   Los principios de ergonomía deberán aplicarse en particular al tratamiento de la información por parte de 
+
+la persona.
+
+Uno de los requisitos más importantes exigible a los 
+programas y aplicaciones informáticas es que sean ca-
+paces de adaptarse a las características y las limitacio-
+nes de las personas.
+
+Este es un tema que es objeto de investigación desde 
+hace  años  y  en  el  que  se  han  realizado  importantes 
+avances. Actualmente, el grupo de trabajo 3, pertene-
+ciente al CTN 81\SC 5 de la Asociación Española de 
+Normalización (UNE), sobre “Ergonomía de la inte-
+racción hombre-sistema” tiene una subserie dedicada 
+a la ergonomía del software. La norma UNE-EN ISO 
+9241-110:2020 “Ergonomía de interacción persona-sis-
+tema. Parte 110: Principios de diálogo” describe siete 
+principios generales de diálogo aplicables en el análi-
+sis, diseño y evaluación de los sistemas interactivos, 
+sea cual sea la técnica específica de diálogo utilizada. 
+
+Es importante tener en cuenta que estos principios no 
+son absolutamente independientes y que su orden no 
+implica ninguna prioridad. A continuación, se enume-
+ran estos principios, indicando algunas de las caracterís-
+ticas de diseño que permiten alcanzarlos y de esta forma 
+minimizar los problemas de usabilidad más habituales. 
+
+ En  este  sentido,  el  programa  informático  debería 
+presentar la información necesaria en un formato 
+adecuado, evitando etapas inútiles.
+
+•  Carácter autodescriptivo
+
+ Un  diálogo  es  autodescriptivo  cuando  el  usuario 
+sabe en cada momento en qué diálogo se encuentra 
+y qué acciones puede realizar y cómo puede llevar-
+las a cabo. 
+
+ Para  ello,  cada  uno  de  los  pasos  debe  ser  directa-
+mente comprensible a través de la retroalimentación 
+o de las explicaciones proporcionadas al usuario por 
+el sistema en base a sus necesidades, evitando en lo 
+posible la necesidad de consulta de material externo.
+
+ Por  ejemplo:  el  usuario  debería  ser  asistido  me-
+diante  una  información  que  le  ayude  a  adquirir 
+una comprensión general del sistema y le oriente 
+de manera que la interacción requerida con el sis-
+tema sea evidente. Esta información debería darse 
+empleando una terminología coherente con la utili-
+zada en el contexto de la tarea.
+
+•  Adecuación a la tarea
+
+•  Controlabilidad 
+
+ Un diálogo se adapta a la tarea en la medida en que 
+asiste al usuario para que pueda llevarla a término 
+con eficacia y eficiencia.
+
+ Un diálogo es controlable cuando el usuario puede 
+iniciar y controlar la dirección y el ritmo de la inte-
+racción hasta lograr el objetivo.
+
+GUÍA TÉCNICA 
+ 
+ 
+ 
+ 
+ 
+ 
+ Si la tarea lo permite, es conveniente dar al usuario 
+la posibilidad de anular, al menos, la última acción 
+realizada en el transcurso del diálogo.
+
+ La velocidad de la interacción debería estar bajo el 
+control del usuario, no ser impuesta por el sistema. 
+El sistema debe permitir utilizar diferentes disposi-
+tivos de entrada y salida. 
+
+•  Conformidad con las expectativas del usuario 
+
+ Un  diálogo  es  conforme  con  las  expectativas  del 
+usuario cuando se corresponde con el conocimiento 
+que este tiene de la tarea, así como con su forma-
+ción, experiencia y las convenciones comúnmente 
+aceptadas.
+
+ Es  conveniente  que  los  diálogos  empleados  para 
+realizar tareas parecidas sean similares, de manera 
+que  el  usuario  pueda  desarrollar  procedimientos 
+comunes  en  la  ejecución  de  dichas  tareas.  Debe 
+emplearse  un  vocabulario  que  resulte  familiar  al 
+usuario y respetar las convenciones culturales del 
+mismo. 
+
+ El sistema también debería satisfacer las expecta-
+tivas  del  usuario  en  relación  con  los  tiempos  de 
+espera. Si ello no fuera posible, el sistema debería 
+informar de la existencia de una incidencia. 
+
+•  Tolerancia a errores
+
+ Hay tolerancia cuando, a pesar de los errores que se 
+cometan en la entrada de datos, se puede lograr el 
+resultado que se pretende sin realizar correcciones 
+o con correcciones mínimas por parte del usuario.
+
+25
+
+ejecutar una acción, cuando se puedan derivar con-
+secuencias graves de la acción del usuario.
+
+•  Personalizable
+
+ Un diálogo tiene capacidad de adaptarse a la per-
+sona  cuando  el  sistema  de  diálogo  puede  modi-
+ficarse  de  acuerdo  con  las  capacidades  de  cada 
+usuario en relación con las necesidades de la tarea 
+que realiza.
+
+ El  sistema  de  diálogo  se  debería  poder  adaptar  a 
+la lengua y a la cultura del usuario, al sistema de 
+unidades que utilice, a sus capacidades perceptivas 
+y cognitivas, etc. 
+
+ Son  muchas  las  características  que  pueden  em-
+plearse para personalizar un diálogo: la cantidad de 
+información de ayuda, agregar palabras al dicciona-
+rio, poder elegir entre distintas técnicas de diálogo, 
+configurar la velocidad de las entradas y de las sali-
+das, etc. En cualquier caso, el sistema debe permitir 
+volver a la configuración original. 
+
+•  Adecuación al aprendizaje
+
+ Un sistema de diálogo facilita su aprendizaje en la 
+medida en que proporciona medios, guías y ayuda 
+al usuario durante su utilización.
+
+ Por ejemplo: las reglas y los conceptos fundamen-
+tales del diálogo deberían ser transparentes para el 
+usuario, de manera que este pueda adquirir fácil-
+mente una visión de conjunto de la estructura del 
+sistema o aplicación y establecer sus propias estra-
+tegias de trabajo.
+
+ Para  ello,  la  aplicación  debería  ayudar  al  usuario 
+en la detección y en la corrección de los errores co-
+metidos en la entrada, así como evitar que la intro-
+ducción de un dato dé lugar a cambios de estado no 
+definidos previamente.
+
+ El  sistema  debería  proporcionar  un  mensaje  de 
+advertencia,  así  como  una  confirmación  antes  de 
+
+ El  sistema  puede  facilitar  el  aprendizaje  permi-
+tiendo al usuario experimentar con diferentes su-
+puestos  y  ejemplos  e  incluso  cometer  errores  sin 
+que  ello  tenga  consecuencias  negativas  para  el 
+objetivo final. Del mismo modo, el sistema puede 
+aportar información adicional, permitiendo realizar  
+tareas a pesar de disponer de una cantidad mínima 
+de información. 
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27
+
+III. APÉNDICES
+
+APÉNDICE 1. PRINCIPALES RIESGOS, DAÑOS Y MEDIDAS PREVENTIVAS EN PUESTOS DE 
+TRABAJO CON EQUIPOS CON PANTALLAS DE VISUALIZACIÓN
+
+En  este  apéndice  se  describen  los  riesgos  más  ha-
+bituales  a  los  que  están  expuestos  los  trabajadores 
+que emplean equipos con pantallas de visualización 
+(riesgos para la vista, problemas físicos y problemas 
+relacionados con carga mental), así como algunas con-
+secuencias y recomendaciones preventivas. Hay que 
+tener en cuenta que también se debe considerar tanto 
+la combinación de ellos como la posible presencia de 
+otro tipo de riesgos. 
+
+Riesgos para la vista
+
+El  trabajo  con  equipos  con  pantallas  de  visualiza-
+ción  se  caracteriza  por  mantener  la  vista  en  la  pan-
+talla durante largos períodos de tiempo. Además, en 
+muchos momentos se debe mirar alternativamente a 
+algún otro elemento como, por ejemplo, documentos 
+en papel. Por este motivo, el principal riesgo para la 
+vista es la fatiga visual o astenopia, que es la respuesta 
+del ojo ante un esfuerzo muscular excesivo durante 
+un largo periodo de tiempo, bien por enfocar de cerca 
+durante  mucho  tiempo,  bien  por  la  realización  de 
+cambios  acomodativos  frecuentes.  Las  condiciones 
+inadecuadas de iluminación, la presbicia, los defectos 
+de refracción óptica y la falta de descanso son factores 
+que pueden favorecer la aparición de fatiga visual. Los 
+síntomas van desde molestias tales como ardor, picor, 
+sequedad, lagrimeo y enrojecimiento de los ojos, hasta 
+dolores de cabeza e incluso visión borrosa. 
+
+La fatiga visual es una alteración funcional que desa-
+parece con el descanso visual. No obstante, para evitar 
+su aparición es importante disponer de una pantalla 
+adecuada y bien configurada (brillo, contraste, tamaño 
+del texto, etc.), una iluminación correcta y hacer des-
+cansos visuales. Asimismo, se pueden realizar ejerci-
+cios visuales como, por ejemplo, los siguientes: 
+
+•   Regla 20-20-20: mirar lejos de la pantalla al menos 
+cada 20 minutos y dejar ir la mirada hacia un objeto 
+distante (por lo menos a 20 pies ≈ 6 metros de dis-
+tancia) durante al menos 20 segundos.
+
+•   Mirar de lejos un objeto durante 10-15 segundos y, a 
+continuación, mirar algo de cerca durante 10-15 se-
+gundos. Después, volver a mirar el objeto distante. 
+Repetir 10 veces.
+
+Cuando se trabaja con una pantalla de visualización y 
+con documentos en papel al mismo tiempo, puede ser 
+de gran ayuda utilizar un portadocumentos para faci-
+litar el cambio acomodativo del ojo, si bien también es 
+importante asegurarse de la correcta iluminación de 
+los distintos elementos así como una distribución de 
+los mismos que permita una postura adecuada.
+
+Otro problema habitual en los trabajadores que utili-
+zan equipos con pantallas de visualización es la seque-
+dad ocular derivada de unas condiciones ambientales 
+inadecuadas. En los entornos de oficina es frecuente 
+que la humedad ambiental sea baja, favoreciendo la 
+aparición de sequedad ocular. Además, el trabajo con-
+tinuo con pantallas favorece la fijación visual y hace 
+que disminuya la frecuencia de parpadeo, lo que de-
+riva  en  una  lubricación  deficiente  de  la  córnea  y  en 
+un aumento de la sequedad ocular. Dicha sequedad 
+produce  una  sensación  de  picor,  ardor,  quemazón, 
+pinchazos, enrojecimiento, sensación de presencia de 
+arenilla, dificultad para abrir los ojos por la mañana, 
+etc. Para evitarla se recomienda cerrar los ojos y par-
+padear con frecuencia durante el uso de estos equipos. 
+
+Problemas físicos
+
+Los problemas físicos asociados a los puestos de tra-
+bajo con pantallas de visualización están relacionados 
+principalmente con las posturas adoptadas, así como 
+con  el  estatismo  típico  en  dichos  puestos  en  un  en-
+torno de oficinas. Estos factores pueden tener conse-
+cuencias en forma de patologías, así como favorecer el 
+comportamiento sedentario.
+
+De  forma  genérica,  estos  problemas  físicos  pueden 
+reducirse  mediante  una  configuración  correcta  del 
+puesto de trabajo con pantallas (cumpliendo tanto los 
+requisitos legales del anexo de este real decreto, como 
+aplicando criterios de diseño ergonómico complemen-
+tarios), así como con una adecuada organización del 
+trabajo  y  de  las  tareas  que  eviten  el  estatismo  en  el 
+puesto de trabajo y favorezcan el dinamismo.
+
+Es importante, por una parte, que el equipo y el entorno 
+del puesto de trabajo permitan adoptar posturas de tra-
+bajo adecuadas de forma que tanto las articulaciones 
+como el tronco y las extremidades no realicen flexiones 
+o extensiones forzadas o requieran aplicar fuerzas que 
+favorezcan el desarrollo de trastornos musculoesque-
+léticos. Por otra parte, también es recomendable pro-
+mover el desarrollo de conductas relacionadas con una 
+adecuada higiene postural en el puesto de trabajo.
+
+Carga mental
+
+La carga mental se puede definir como el conjunto de 
+requerimientos mentales, cognitivos o intelectuales a los que 
+se ve sometido el trabajador a lo largo de su jornada laboral, 
+es decir, el nivel de actividad mental o de esfuerzo intelec-
+tual necesario para desarrollar el trabajo. Este tipo de de-
+mandas son habituales en los puestos de trabajo con 
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN28
+
+pantallas de visualización. Se distinguen dos aspectos 
+diferenciados en la carga mental: 
+
+•   La presión mental (del inglés “mental stress”) es el 
+conjunto de todas las influencias apreciables, ejerci-
+das por factores externos, que afectan mentalmente 
+al ser humano.
+
+•   La tensión mental (del inglés “mental strain”) es el 
+efecto  que  esa  presión  tiene  en  la  persona,  y  que 
+está modulada por factores como la edad, el entre-
+namiento, las destrezas personales etc.
+
+El  hecho  de  estar  sometido  a  esta  presión  mental 
+puede tener una serie de consecuencias para la per-
+sona en función de la intensidad de las demandas y de 
+las capacidades del trabajador. Algunas serían positi-
+vas, como puede ser el aprendizaje, la adquisición de 
+destrezas, la mejora en el desempeño, etc. Las negati-
+vas pueden aparecer por sobrecarga como, por ejem-
+plo, la fatiga (crónica) mental, la aparición de errores 
+en el uso de la información, etc. En el otro extremo, 
+la presión mental escasa en trabajos repetitivos y mo-
+nótonos suele relacionarse con aburrimiento y puede 
+dar lugar a consecuencias indeseadas como ansiedad o 
+depresión. Se puede encontrar más información sobre 
+este aspecto en la norma “UNE EN ISO 10075-1:2017: 
+Principios ergonómicos relativos a la carga de trabajo 
+mental. Parte 1: Conceptos generales, términos y defi-
+niciones generales”.
+
+Efectos combinados
+
+El real decreto incide sobre el posible efecto añadido o 
+combinado de los riesgos tanto en relación con la eva-
+luación de los riesgos, como en relación con la vigilancia 
+de la salud. Algunos de los factores de riesgo relaciona-
+dos con el uso de equipos con pantallas de visualización 
+pueden condicionar la aparición de más de un riesgo. 
+
+Por ejemplo: un mal diseño del puesto de trabajo y 
+sus distintos elementos puede dar lugar a la adopción 
+de una postura de trabajo inadecuada que provoque 
+problemas  físicos  y  que  se  manifieste  en  forma  de 
+dolor en el cuello, en la espalda o en las extremidades 
+superiores; pero, al mismo tiempo, puede estar for-
+zando la vista, bien por la alternancia de elementos 
+a distinta distancia visual, bien por la existencia de 
+reflejos indeseados, favoreciendo la aparición de fa-
+tiga visual.
+
+Es conocido el origen multifactorial de los trastornos 
+musculoesqueléticos  (TME)  y,  en  este  sentido,  hay 
+una relación demostrada entre el estrés y los mismos. 
+Tanto los factores organizativos como la carga mental 
+se asocian directamente con el estrés y, por tanto, con 
+los TME.
+
+Asimismo, se puede resaltar que el trabajo con equi-
+pos con pantallas de visualización se ha convertido en 
+una práctica habitual en el ámbito laboral y el hecho 
+de  pasar  gran  parte  de  la  jornada  en  posición  sen-
+tada y con escasa actividad física puede favorecer el 
+comportamiento  sedentario  (entendido  como  aquel 
+que tiene un consumo energético bajo, inferior a 1,5 
+MET, en postura sentada o reclinada), que se relaciona 
+con enfermedades cardiovasculares, diabetes tipo II, 
+hipertensión  arterial  y  osteoporosis,  así  como  otros 
+daños a la salud. 
+
+Para  evitar  las  posibles  consecuencias  negativas  del 
+sedentarismo se recomienda realizar alguna actividad 
+física de forma regular. En el trabajo se pueden adop-
+tar algunas medidas como evitar la misma postura du-
+rante largos periodos de tiempo, realizando pequeñas 
+pausas (por ejemplo, cada 30 minutos) que permitan 
+cambios dinámicos de postura tales como levantarse, 
+caminar, moverse y estirar brazos, piernas, espalda, 
+cuello y hombros.
+
+GUÍA TÉCNICA29
+
+APÉNDICE 2. LISTA DE VERIFICACIÓN DE LAS DISPOSICIONES MÍNIMAS DEL ANEXO DEL REAL 
+DECRETO 488/1997
+
+El objetivo principal de esta lista de verificación es fa-
+cilitar una herramienta para ayudar al cumplimiento 
+de los requisitos recogidos en el anexo del Real De-
+creto 488/1997. No sustituye a la evaluación de ries-
+gos, si bien puede ser una ayuda eficaz en una parte 
+del proceso de esta.
+
+En  ocasiones,  algunos  de  los  puntos  planteados  en 
+esta  lista  pueden  no  existir  o  no  ser  atribuibles  al 
+
+puesto  de  trabajo  analizado,  en  cuyo  caso  no  serán 
+de aplicación. Igualmente, se debe considerar que “no 
+aplica” (N/A) cuando las exigencias o las caracterís-
+ticas intrínsecas de la tarea impidan el cumplimiento 
+de dichos requisitos. 
+
+En el momento en el que una pregunta sea contestada 
+de manera negativa, se deberán adoptar medidas para 
+cumplir con el requisito correspondiente.
+
+Sí
+
+No N/A
+
+Observaciones
+
+Consideraciones generales
+
+La utilización del equipo es segura, no es una fuente de riesgo por 
+sí mismo.
+
+☐ ☐ ☐
+
+Pantalla
+
+Los caracteres de la pantalla están bien definidos y tienen un tamaño 
+suficiente.
+
+☐ ☐ ☐
+
+El espacio entre caracteres y entre renglones es adecuado.
+
+La imagen de la pantalla es estable y no se observan destellos, 
+centelleos ni otras inestabilidades.
+
+Se puede ajustar la luminosidad y el contraste entre los caracteres y 
+el fondo de la pantalla.
+
+La pantalla es orientable e inclinable.
+
+No se observan reflejos ni reverberaciones molestas.
+
+Teclado
+
+El teclado es inclinable e independiente de la pantalla.
+
+Hay espacio suficiente delante del teclado para apoyar los brazos y 
+las manos.
+
+La superficie del teclado es mate y no presenta reflejos.
+
+La disposición y las características de las teclas facilitan su 
+utilización.
+
+Los símbolos de las teclas resaltan y son fácilmente legibles.
+
+Mesa o superficie de trabajo
+
+La superficie de la mesa es poco reflectante.
+
+Las dimensiones son suficientes para colocar todos los elementos 
+necesarios en el puesto de trabajo.
+
+El portadocumentos es estable y regulable.
+
+La ubicación del portadocumentos minimiza los movimientos 
+incómodos de la cabeza y de los ojos.
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+El espacio de la superficie de trabajo es suficiente para permitir una 
+posición cómoda.
+
+☐ ☐ ☐
+
+Asiento de trabajo
+
+El asiento es estable, proporciona libertad de movimientos y permite 
+adoptar una postura confortable.
+
+☐ ☐ ☐
+
+La altura del asiento se puede regular. 
+
+El respaldo es reclinable y su altura ajustable.
+
+Se pone un reposapiés a disposición de quien lo desee. 
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN30
+
+Espacio
+
+Sí
+
+No N/A
+
+Observaciones
+
+El puesto de trabajo tiene dimensiones y espacio suficiente para 
+permitir los cambios de postura y los movimientos de trabajo.
+
+☐ ☐ ☐
+
+Iluminación
+
+Se garantiza un nivel adecuado de iluminación y unas relaciones 
+adecuadas de luminancia entre la pantalla y su entorno.
+
+☐ ☐ ☐
+
+Se evitan los deslumbramientos y los reflejos molestos mediante el 
+acondicionamiento del puesto y la situación y las características de 
+las fuentes de luz artificial.
+
+☐ ☐ ☐
+
+Reflejos y deslumbramientos
+
+Los puestos de trabajo están instalados de manera que se evitan los 
+reflejos molestos de las fuentes de luz natural y de los elementos 
+claros del entorno.
+
+☐ ☐ ☐
+
+Las ventanas están equipadas con algún dispositivo adecuado y 
+regulable que atenúa la luz natural.
+
+☐ ☐ ☐
+
+Ruido
+
+El ruido producido por los equipos instalados en el puesto de 
+trabajo no perturba la atención ni la palabra.
+
+☐ ☐ ☐
+
+Calor
+
+El calor emitido por los equipos instalados en el puesto de trabajo 
+no ocasiona molestias.
+
+☐ ☐ ☐
+
+Emisiones
+
+Las radiaciones electromagnéticas que no forman parte del espectro 
+visible están reducidas a niveles insignificantes.
+
+☐ ☐ ☐
+
+Humedad
+
+El nivel de humedad ambiental es aceptable.
+
+Interconexión ordenador/persona
+
+El programa está adaptado a la tarea.
+
+☐ ☐ ☐
+
+☐ ☐ ☐
+
+El programa es fácil de utilizar y se adapta a los conocimientos y a la 
+experiencia de los usuarios.
+
+☐ ☐ ☐
+
+Se informa a los trabajadores y se consulta con sus representantes 
+sobre la existencia de posibles dispositivos de control.
+
+☐ ☐ ☐
+
+El sistema (software) proporciona indicaciones sobre su desarrollo. ☐ ☐ ☐
+El sistema (software) muestra la información en un formato y a un 
+ritmo adaptado a los trabajadores.
+
+☐ ☐ ☐
+
+Se aplican los principios de la ergonomía al tratamiento de la 
+información.
+
+☐ ☐ ☐
+
+GUÍA TÉCNICA31
+
+IV. FUENTES DE INFORMACIÓN
+
+A. Documentos citados en la guía
+
+Normas técnicas
+
+Normativa legal relacionada
+
+La legislación referida a lo largo de esta guía técnica 
+puede consultarse a través de internet en el sitio web 
+del INSST donde, además, se puede acceder a diversa 
+documentación  elaborada  por  el  propio  INSST  así 
+como a enlaces de instituciones y de organismos euro-
+peos e internacionales. 
+
+La normativa citada en la presente guía técnica es la 
+existente en el momento de publicación de la misma. 
+No  obstante,  deberá  ser  tenida  en  cuenta  cualquier 
+modificación o cualquier otra normativa que se publi-
+que con posterioridad a esta guía técnica.
+
+La siguiente normativa se encuentra enlazada direc-
+tamente  al  apartado  ”legislación  consolidada”  del 
+Boletín Oficial del Estado (BOE). No obstante, en las 
+disposiciones para las que el BOE no disponga de su 
+texto  consolidado,  se  recomienda  consultar  el  apar-
+tado de “análisis jurídico”.
+
+•   Directiva 90/270/CEE del Consejo, de 29 de mayo 
+de 1990, referente a las disposiciones mínimas de 
+seguridad y de salud relativas al trabajo con equi-
+pos que incluyen pantallas de visualización (quinta 
+Directiva  específica  con  arreglo  al  apartado  1  del 
+artículo 16 de la Directiva 89/391/CEE).
+
+•   Ley 31/1995, de 8 de noviembre, de Prevención de 
+
+Riesgos Laborales.
+
+•   Real Decreto 564/1993, de 16 de abril, sobre presen-
+cia de la letra ”Ñ” y demás caracteres específicos del 
+idioma castellano en los teclados de determinados 
+aparatos de funcionamiento mecánico, eléctrico o 
+electrónico que se utilicen para la escritura. 
+
+•   Real Decreto 39/1997, de 17 de enero, por el que se 
+aprueba el Reglamento de los Servicios de Preven-
+ción. 
+
+•   Real Decreto 486/1997, de 14 de abril, por el que se 
+establecen las disposiciones mínimas de seguridad 
+y salud en los lugares de trabajo. 
+
+•   Real Decreto 1066/2001, de 28 de septiembre, por el 
+que se aprueba el Reglamento que establece condi-
+ciones de protección del dominio público radioeléc-
+trico, restricciones a las emisiones radioeléctricas y 
+medidas de protección sanitaria frente a emisiones 
+radioeléctricas.
+
+•   Real  Decreto  286/2006,  de  10  de  marzo,  sobre  la 
+protección de la salud y la seguridad de los trabaja-
+dores contra los riesgos relacionados con la exposi-
+ción al ruido. 
+
+•   Real Decreto 486/2010, de 23 de abril, sobre la pro-
+tección de la salud y la seguridad de los trabajado-
+res contra los riesgos relacionados con la exposición 
+a radiaciones ópticas artificiales. 
+
+Las  normas  técnicas  UNE,  EN,  ISO,  etc.,  citadas  en 
+esta guía, están referidas a su última versión. En caso 
+de no ser así, la cita a la norma incluye el año de edi-
+ción de la misma.
+
+•   UNE-EN  ISO  11690-1:1997  Acústica.  Práctica  re-
+comendada  para  el  diseño  de  lugares  de  trabajo 
+con bajo nivel de ruido que contienen maquinaria. 
+Parte 1: Estrategias de control del ruido. (ISO 11690-
+1:1996).
+
+•   UNE-EN  ISO  9241-6:2000  Requisitos  ergonómicos 
+para trabajos de oficina con pantallas de visualiza-
+ción de datos (PDV). Parte 6: Requisitos ambientales.
+•   UNE-EN ISO 9241-110:2006 Ergonomía de interac-
+ción persona-sistema. Parte 110: Principios de diá-
+logo.
+
+•   EN ISO 9241-410:2008 Ergonomía de la interacción 
+hombre-sistema. Parte 410: Criterios de diseño para 
+los dispositivos de entrada físicos (ISO 9241-410:2008). 
+(Ratificada por AENOR en septiembre de 2008).
+•   UNE-EN  ISO  9241-303:2011  Ergonomía  de  la  inte-
+racción hombre-sistema. Parte 303: Requisitos para 
+las pantallas de visualización electrónica (ISO 9241-
+303:2011) (Ratificada por AENOR en febrero de 2012).
+•   ISO/TS 9241-411:2012 Ergonomics of human-sys-
+tem interaction -- Part 411: Evaluation methods for 
+the design of physical input devices.
+
+•   UNE-EN 12464-1:2012 Iluminación. Iluminación de 
+los lugares de trabajo. Parte 1: Lugares de trabajo en 
+interiores.
+
+•   UNE-EN ISO 10075-1:2017: Principios ergonómicos 
+relativos con la carga mental. Parte 1: Conceptos ge-
+nerales, términos y definiciones.
+
+Publicaciones del INSST
+
+•   Guía técnica para la integración de la prevención de 
+riesgos laborales en el sistema general de gestión de 
+la empresa.
+
+•   Guía técnica de simplificación documental.
+•   Guía técnica para la evaluación y prevención de los 
+riesgos relativos a la utilización de los lugares de 
+trabajo.
+
+•   El efecto sobre la salud de los riesgos psicosociales 
+
+en el trabajo: una visión general. 
+
+•   Carga mental de trabajo. 
+•   Evaluación y acondicionamiento de la iluminación 
+en el puesto de trabajo: Cuestionario de evaluación 
+subjetiva.
+
+Otra bibliografía citada en la guía
+
+•   Protocolos de vigilancia sanitaria específica. Panta-
+llas de visualización de datos. Ministerio de Sani-
+dad y Consumo. 1999.
+
+EVALUACIÓN Y PREVENCIÓN DE LOS RIESGOS RELATIVOS A LA UTILIZACIÓN DE EQUIPOS CON PANTALLAS DE VISUALIZACIÓN32
+
+•   Escala Subjetiva de Carga Mental de Trabajo. Díaz 
+Cabrera , D., Rolo-Gonzalez, G., Hernandez-Fern-
+aud, E., Galvan, Fernandez, E., Fraile Peñate, M.J. 
+y  Loayssa  Lara,  G.  ICASEL.  Disponible  en  Web: 
+https://www.gobiernodecanarias.org/trabajo/
+documentos/libros/manualcarga_mental.pdf
+
+•   The SLL Lighting Handbook. Editorial: Chartered 
+Institution of Building Services Engineers. 1ª edi-
+ción. 2009.
+
+•   Sonne, M., Villalta, D., Andrews, D., 2012. Develop- 
+ment  and  evaluation  of  an  office  ergonomic  risk 
+checklist:  ROSA  -  Rapid  office  strain  assessment. 
+Applied Ergonomics, 43, pp. 98-108.
+
+•   NTP 575: Carga mental de trabajo: indicadores.
+•   NTP 602: El diseño ergonómico del puesto de trabajo 
+con pantallas de visualización: el equipo de trabajo.
+•   NTP 659: Carga mental de trabajo: diseño de tareas.
+•   NTP  794:  Evaluación  de  la  comunicación  verbal: 
+
+método SIL.
+
+•   NTP 795: Evaluación del ruido en ergonomía: crite-
+
+rio RC MARK II.
+
+•   NTP 1129: Criterios ergonómicos para la selección 
+
+de sillas de oficina.
+
+•   NTP 1130: Criterios ergonómicos para regular correc-
+tamente la silla de oficina y otras sillas alternativas.
+
+B. Otros documentos no citados en la guía
+
+•   UNE-EN ISO 11064-6:2006 Diseño ergonómico de 
+centros de control. Parte 6: Requisitos ambientales 
+para centros de control.
+
+•   UNE-EN ISO 10075-1:2017 Principios ergonómicos 
+relativos a la carga de trabajo mental. Parte 1: Con-
+ceptos generales, términos y definiciones generales.
+•   NTP 179: La carga mental del trabajo: definición y 
+
+evaluación.
+
+•   NTP 445: Carga mental de trabajo: fatiga.
+•   NTP 534: Carga mental de trabajo: factores.
+
+C. Referencia a la web de organismos de interés
+
+•   http://www.insst.es
+
+ En esta página se encuentran todas las disposiciones 
+normativas de ámbito nacional y otros documentos 
+de interés, publicados por el INSST, relacionados 
+con las condiciones de seguridad y salud en los lu-
+gares de trabajo.
+
+•   https://www.une.org/
+
+ Página de la Asociación Española de Normalización.
+
+GUÍA TÉCNICA 
+ 
+Para cualquier observación o sugerencia en relación con esta Guía técnica, puede dirigirse al:
+
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P.
+
+C/Torrelaguna, 73 - 28027 Madrid
+
+Tlf. 91 363 41 00
+
+www.insst.es 
+
+

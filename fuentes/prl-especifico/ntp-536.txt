@@ -1,0 +1,470 @@
+Año: 1999
+
+NTP 536: Extintores de incendio portátiles: utilización
+
+Extincteurs d’incendie portatifs: utilisation 
+Portable fire extinguishers: utilization
+
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+
+Redactor:
+
+Adolfo Pérez Guerrero 
+Ingeniero Industrial
+
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+
+Introducción
+
+En la organización de un plan de protección contra incendios en un centro de trabajo merece especial importancia la elección de los 
+elementos materiales más adecuados y eficaces. Si se tiene en cuenta que el extintor es el primer elemento que se usa en los primeros 
+minutos de iniciación de un fuego se puede afirmar que de él depende que la propagación del fuego se aborte o no. Elegir un buen extintor 
+significa conocer que agente extintor es el más adecuado y que tipo y eficacia de extintor conviene. Además la efectividad de su uso 
+depende de que se efectúe la actuación según lo recomendado por las entidades de reconocido prestigio en la lucha contra incendios y de 
+que su mantenimiento y ubicación sea el correcto según la reglamentación o normativa correspondiente.
+
+En el presente trabajo se pretende resumir las reglas prácticas para la elección y utilización de un extintor contra incendios.
+
+Extintores de incendio portátiles
+
+Están concebidos para que puedan ser llevados y utilizados a mano teniendo en condiciones de funcionamiento una masa igual o inferior a 
+20 kg.
+
+Dentro de los tipos más usuales se encuentra el extintor de incendios de presión permanente, que a su vez se presenta en tres modalidades. 
+La primera corresponde a aquellos en que el agente extintor proporciona su propia presión de impulsión, tal como los de anhídrido 
+carbónico. La segunda está formada por aquellos en que el agente extintor se encuentra en fase líquida y gaseosa, tal como los 
+hidrocarburos halogenados, y cuya presión de impulsión se consigue mediante su propia tensión de vapor con ayuda de otro gas propelente, 
+tal como nitrógeno, añadido en el recipiente durante la fabricación o recarga del extintor. La última modalidad es la de aquellos en que el 
+agente extintor es líquido o sólido pulverulento, cuya presión de impulsión se consigue con ayuda de un gas propelente, inerte, tal como el 
+nitrógeno o el anhídrido carbónico, añadido en el recipiente durante la fabricación o recarga del extintor. En la Figura 1 se representa un 
+extintor correspondiente a esta última modalidad. Se reconocen porque en el punto 4 (ver Fig. 1) va roscado un manómetro indicador de la 
+presión del gas impulsor que ocupa la parte superior del recipiente. Para accionar el extintor se quita el pasador 8 tirando de la anilla, 
+desbloqueándose la palanca 6 que se acciona apretando hacia la maneta fija 7 para que así se ponga en comunicación el tubo sonda 5 y la 
+manguera 9. Entonces el gas impulsor empuja a la masa del agente extintor obligándola a salir por el tubo sonda hacia la manguera y su 
+boquilla.
+
+ 
+1.  Cuerpo del extintor
+2.  Agente extintor
+3.  Agente impulsor
+4.  Manómetro
+5.  Tubo sonda de salida
+
+6.  Maneta palanca de 
+accionamiento
+
+7.  Maneta fija
+8.  Pasador de seguridad
+9.  Manguera
+
+10.  Boquilla de manguera
+
+Figura 1. Extintor de incendios de presión permanente
+
+Otro tipo de extintor es el de presión no permanente. En ellos el agente extintor puede ser líquido o pulverulento y están sometidos a la 
+presión atmosférica. El agente impulsor suele ser un gas inerte tal como el nitrógeno o el anhídrido carbónico, que va contenido presurizado 
+en un botellín instalado dentro o fuera del extintor. En la Figura 2 se presenta este tipo de extintor con la denominación de sus partes 
+principales. Se puede ver que la parte superior del aparato extintor es idéntica a la representada en la Figura 1 con la excepción de que no 
+lleva el agujero roscado para un manómetro. Este tipo de extintor lleva una válvula de seguridad 6 tarada a 0.8 veces la presión de prueba, 
+porque suponemos que su capacidad es superior a tres litros. Además el botellín si es de anhídrido carbónico y su capacidad es superior a 
+0.40 litros, dispone de un disco de seguridad tarado a una presión aproximada de 190 kg/cm2.
+
+1.  Tubo de salida del 
+agente extintor
+2.  Botellín de agente 
+
+impulsor.
+
+3.   Tubo de salida del 
+agente impulsor
+
+4.  Cámara de gases
+5.  Agente extintor
+6.  Válvula de seguridad
+7.  Boquilla con palanca de 
+
+accionamiento
+8.  Cuerpo del extintor
+
+Figura 2. Extintor de incendios de presión no permanente con botellín interior
+
+Para el accionamiento del extintor se comienza por quitar el pasador de seguridad tirando de su anilla, desbloqueándose así la palanca que 
+al apretarla hacia la maneta fija abre la salida del agente impulsor del botellín 2 que a través del tubo 3 se aloja en la cámara 4. 
+Posteriormente si se empuña la boquilla de la manguera 7 y se acciona su palanca el agente impulsor que estaba presionando desde su 
+cámara al agente extintor, obligará a éste a pasar por el tubo 1 y salir por la boquilla de la manguera.
+
+En la Figura 3 se presenta un ejemplo de etiqueta a adherir sobre un extintor de incendios de presión permanente que cumple con lo 
+especificado en el Art. 10 de la ITC-MIE-AP5.
+
+MARCA DEL EXTINTOR
+
+EXTINTOR DE INCENDIOS
+
+6 Kg Polvo ABC
+
+21 A
+
+113B
+
+C
+
+MODO DE EMPLEO
+
+1.  Quitar el pasador de seguridad
+2.  Apretar la maneta
+3.  Dirigir el chorro a la base de las llamas
+
+PRECAUCIÓN
+
+No apto para su uso en presencia de tensiones superiores a 35.000 voltios
+
+El polvo ABC no es tóxico ni corrosivo
+
+FABRICANTE:
+
+MARCA DE 
+LA ENTIDAD 
+AUTORI- 
+ZADA
+
+DISTRIBUIDOR:
+
+Agente extintor: 6 Kg Polvo ABC 
+Agente propulsor: N2 
+Contraseña: FAI 1491 
+Transporte: EX-0291-V-V 
+Homologado según: ITC, MIE AP-5 
+B.O.E. 20.6.85 
+Temperatura de servicio: - 20°C + 60°C 
+Verificar anualmente 
+Utilizar para la recarga 
+Recambios originales del modelo aprobado
+
+MANTENEDOR Y/O RECARGADOR:
+
+Figura 3. Etiqueta impresa sobre un extintor de incendios de presión permanente
+
+En la casilla superior se indica la marca comercial del extintor. En la siguiente casilla viene la información sobre el tipo y cantidad de agente 
+extintor y la eficacia del extintor. En el caso de la figura se indica que el extintor es de 6 kg. de masa total (suma de las masas de los agentes 
+extintor e impulsor y la del recipiente). El agente extintor es polvo polivalente antibrasa ABC a base de fosfatos que extingue fuegos de las 
+clases A (sólidos), B (líquidos) y C (gases) con las eficacias correspondientes a 21 A, 113 B y C respectivamente según la norma UNE-
+23110 (ver referencias bibliográficas) que especifica el tamaño y clase de fuego que es capaz de extinguir considerando unas determinadas 
+condiciones.
+
+A continuación viene una casilla sobre el modo de empleo del extintor. La casilla que indica PRECAUCIÓN es para advertir sobre los tipos 
+de fuego para los que no debe utilizarse el extintor y además se añade la información de que el agente extintor no es tóxico ni corrosivo.
+
+En la siguiente casilla se da la referencia del fabricante que cumple con las exigencias legales de la ITC-MIE-AP5 (ver referencias 
+bibliográficas).
+
+En la próxima casilla se indica la marca de la entidad autorizada que ha intervenido para la homologación del aparato. Conjuntamente a esta 
+marca se da la información sobre las características del continente del extintor y la norma seguida para homologar con los códigos 
+correspondientes al aparato extintor. Todo lo anterior cumple con los mínimos exigidos por la ITC-MIE-AP5.
+
+A continuación viene la casilla con las referencias del distribuidor y otra última con las referencias del mantenedor y/o encargado. Todos ellos 
+deben cumplir con las exigencias legales.
+
+En la Figura 4 se presenta un ejemplo de placa de diseño según normas. En ella se puede apreciar el nombre del organismo autonómico 
+como autoridad competente para controlar las pruebas periódicas de presión. La casilla superior esta reservada para el número de registro. 
+En la primera casilla de la izquierda se indica la presión de diseño o de timbre que corresponde a la presión máxima de servicio (en este 
+caso 20kg/cm2).
+
+Figura 4. Ejemplo de placa de diseño
+
+Las otras cuatro casillas están reservadas para indicar la fecha y marca de quien realiza las pruebas de presión con periodicidad de cinco 
+años. En la placa de la figura se indica la fecha de la primera prueba de presión: 09-97. En este caso la última prueba se realizará en la 
+fecha del mes 09 del año 2012 que dará de validez al extintor cinco años más hasta el mes 09 del año 2017 en que ya habrán pasado 20 
+años de servicio y por esto el extintor deberá retirarse.
+
+En la Figura 5 se presenta una etiqueta correspondiente a un extintor de anhídrido carbónico. Puede comprobarse que la distribución de la 
+información dada es similar a la de la etiqueta de la Figura 3. Este tipo de extintores no lleva placa de diseño, pues por pertenecer al grupo 
+de botellas de gases licuados deberán llevar las inscripciones reglamentarias grabadas directamente sobre la botella. Además dichas 
+botellas disponen de un disco de seguridad tarado a una presión de ~190kg/cm2 . Otra característica peculiar de los extintores de anhídrido 
+carbónico es que la boquilla de la manguera es más grande que la de los otros tipos. Está realizada en material aislante para evitar que la 
+temperatura especialmente baja del gas licuado produzca quemaduras.
+
+MARCA DEL EXTINTOR
+
+EXTINTOR
+
+5 Kg CO2 (Anhídrido carbónico) 
+34 BC
+
+MODO DE EMPLEO
+
+1.  Posición vertical
+2.  Tirar de la anilla
+3.  Dirigir el chorro a la base de las llamas
+
+No utilizar en fuegos metálicos y productos radioactivos
+
+PRECAUCIÓN
+
+Recargar después de utilizar aunque sea parcialmente. 
+Verificar periódicamente. 
+Utilizar para el mantenimiento o la recarga los productos y piezas de recambio conforme al modelo aprobado. 
+NO CONDUCTOR DE LA ELECTRICIDAD 
+
+MARCA DE 
+LA ENTIDAD 
+AUTORI- 
+ZADA
+
+Agente extintor:
+
+CO2 5 kg
+
+Temperaturas límite:   -20°C + 60°C
+
+Aprobación Nº:
+
+Tipo:
+
+Modelo:
+
+012 / 485
+
+CO2 5 kg
+
+NM
+
+FABRICANTE:
+
+DISTRIBUIDOR:
+
+MANTENEDOR Y/O RECARGADOR:
+
+Figura 5. Etiqueta impresa sobre un extintor de incendios de anhídrido carbónico
+
+Selección de un extintor portátil
+
+En principio se debería tener en cuenta para que clase de fuego se quiere el extintor. Para ello se considerará lo expuesto en el reglamento 
+de instalaciones de protección contra incendios (ver tabla 1). En la elección del agente extintor se deberá prescindir del halón, para así 
+cumplir con el Protocolo de Montreal relativo a las sustancias que agotan la capa de ozono y que está ratificado por el estado español (ver 
+referencias bibliográficas). Se podría elegir algunos de los productos alternativos de los halones que están autorizados.
+
+Tabla 1. Agentes extintores y su adecuación a las distintas clases de fuego según el Reglamento de 
+instalaciones de protección contra incendios. (R.D. 1942/1993. BOE 14.12.1993)
+
+CLASE DE FUEGO (UNE-EN2 1994)
+
+AGENTE EXTINTOR
+
+A 
+(Sólidos)
+
+B 
+(Líquidos)
+
+C 
+(Gases)
+
+D 
+(Metales especiales)
+
+Agua pulverizada
+
+OOO (2)
+
+O
+
+Agua a chorro
+
+OO (2)
+
+Polvo BC (convencional)
+
+Polvo ABC (polivalente)
+
+OO
+
+OOO
+
+OO
+
+OO
+
+OO
+
+Polvo específico metales
+
+Espuma física
+
+Anhídrido carbónico
+
+Hidrocarburos halogenados
+
+OO (2)
+
+O (1)
+
+O (1)
+
+OO
+
+O
+
+OO
+
+Siendo: OOO Muy adecuado / OO Adecuado / O Aceptable
+
+Notas:
+
+OO
+
+1.  En fuegos poco profundos (profundidad inferior a 5 mm) puede asignarse OO.
+2.  En presencia de corriente eléctrica no son aceptables como agentes extintores el agua a chorro ni la 
+espuma; el resto de los agentes extintores podrán utilizarse en aquellos extintores que superen el 
+ensayo dieléctrico normalizado en UNE-23.110.
+
+Otro parámetro a tener en cuenta sería el tamaño del fuego que viene indicado por la parte numérica del código que nos define la eficacia 
+del extintor. Este código está determinado por la norma correspondiente. Si los recintos que se desean proteger están en edificios habrá que 
+recurrir a lo dispuesto en la Norma Básica de la Edificación que corresponda según la fecha de construcción del inmueble o, en caso que 
+exista, a la ordenanza municipal correspondiente.
+
+Para establecimientos industriales, en espera de la publicación de la reglamentación específica, se aplicaría en primer lugar en caso que 
+exista la ordenanza municipal correspondiente y si no hubiera se podría emplear como buen criterio las mismas normas básicas de la 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+edificación mencionadas anteriormente.
+
+La eficacia mínima indicada en la NBE-CPI/96 es de 21A-113B para la mayoría de usos de los edificios.
+
+En esta misma norma es una referencia general que el número mínimo de extintores deberá ser el suficiente para que el recorrido real en 
+cada planta desde cualquier origen de evacuación hasta un extintor no supere los quince metros.
+
+Normas de utilización de un extintor portátil
+
+El usuario de un extintor de incendios para conseguir una utilización del mismo mínima eficaz, teniendo en cuenta que su duración es 
+aproximadamente de 8 a 60 segundos según tipo y capacidad del extintor, tendría que haber sido formado previamente sobre los 
+conocimientos básicos del fuego y de forma completa y lo más práctica posible, sobre las instrucciones de funcionamiento, los peligros de 
+utilización y las reglas concretas de uso de cada extintor.
+
+Como se ha visto anteriormente, en la etiqueta de cada extintor se especifica su modo de empleo y las precauciones a tomar. Pero se ha de 
+resaltar que en el momento de la emergencia sería muy difícil asimilar todas las reglas prácticas de utilización del aparato.
+
+Dentro de las precauciones generales se debe tener en cuenta la posible toxicidad del agente extintor o de los productos que genera en 
+contacto con el fuego. La posibilidad de quemaduras y daños en la piel por demasiada proximidad al fuego o por reacciones químicas 
+peligrosas.
+
+Descargas eléctricas o proyecciones inesperadas de fluidos emergentes del extintor a través de su válvula de seguridad. También se debe 
+considerar la posibilidad de mecanismos de accionamiento en malas condiciones de uso.
+
+Antes de usar un extintor contra incendios portátil se recomienda realizar un cursillo práctico en el que se podría incluir las siguientes reglas 
+generales de uso (ver fig. 6):
+
+1. Descolgar el extintor asiéndolo por 
+la maneta o asa fija y dejarlo sobre 
+el suelo en posición vertical.
+
+2. Asir la boquilla de la manguera del extintor y 
+
+3. Presionar la palanca de la cabeza del 
+
+comprobar, en caso que exista, que la válvula 
+o disco de seguridad (V) está en posición sin 
+riesgo para el usuario. 
+Sacar el pasador de seguridad tirando de su 
+anilla.
+
+extintor y en caso de que exista apretar 
+la palanca de la boquilla realizando una 
+pequeña descarga de comprobación.
+
+4. Dirigir el chorro a la base de las llamas 
+
+con movimiento de barrido. 
+En caso de incendio de líquidos 
+proyectar superficialmente el agente 
+extintor efectuando un barrido evitando 
+que la propia presión de impulsión 
+provoque derrame del líquido 
+incendiado. 
+Aproximarse lentamente al fuego hasta 
+un máximo aproxima do de un metro.
+
+Figura 6. Reglas generales de uso de un extintor de incendios portátil
+
+1.  Descolgar el extintor asiéndolo por la maneta o asa fija que disponga y dejarlo sobre el suelo en posición vertical.
+
+2.  En caso de que el extintor posea manguera asirla por la boquilla para evitar la salida incontrolada del agente extintor. En caso de que 
+
+el extintor fuese de CO2 llevar cuidado especial de asir la boquilla por la parte aislada destinada para ello y no dirigirla hacia las 
+personas.
+
+3.  Comprobar en caso de que exista válvula o disco de seguridad que están en posición sin peligro de proyección de fluido hacia el 
+
+usuario.
+
+4.  Quitar el pasador de seguridad tirando de su anilla.
+
+5.  Acercarse al fuego dejando como mínimo un metro de distancia hasta él. En caso de espacios abiertos acercarse en la dirección del 
+
+viento.
+
+6.  Apretar la maneta y, en caso de que exista, apretar la palanca de accionamiento de la boquilla. Realizar una pequeña descarga de 
+
+comprobación de salida del agente extintor.
+
+7.  Dirigir el chorro a la base de las llamas.
+
+8.  En el caso de incendios de líquidos proyectar superficialmente el agente extintor efectuando un barrido horizontal y evitando que la 
+propia presión de impulsión pueda provocar el derrame incontrolado del producto en combustión. Avanzar gradualmente desde los 
+extremos.
+
+Mantenimiento de los extintores de incendio portátiles
+
+En el plan de prevención y protección contra incendios en un centro de trabajo se incluye todo lo relativo a la cantidad, tipo, ubicación y 
+mantenimiento de los extintores de incendio portátiles. Merece ser destacado que para que un extintor de incendios sea eficaz en el 
+momento del incendio debe haber tenido un mantenimiento adecuado con las revisiones periódicas indicadas según el R.D. 1942/1993. La 
+organización de estas revisiones se podría realizar según lo expuesto en la NTP 368-1995 (ver referencias bibliográficas).
+
+Bibliografía
+
+(1) MINISTERIO DE INDUSTRIA Y ENERGÍA 
+O. M. 31-5-1985. B.O.E. 20-6-1985. Instrucción Técnica Complementaria sobre Extintores de Incendios. ITC-MIE-AP5.
+
+(2) MINISTERIO DE INDUSTRIA Y ENERGÍA 
+R.D. 1942/1993, por el que se aprueba el Reglamento de instalaciones de protección contra incendios.
+
+(3) PÉREZ GUERRERO, A. 
+Extinción de incendio: plan de revisión de equipos. 
+NTP-368. 1995
+
+(4) ASOCIACIÓN ESPAÑOLA DE NORMALIZACIÓN Y CERTIFICACIÓN (AENOR) 
+UNE-23110-1(96). Extintores portátiles de incendios. Parte 1: Designación. Duración de funcionamiento. Hogares tipo de las clases A y B. 
+UNE-23110-2(96). Extintores portátiles de incendios. Parte 2: Estanqueidad. Ensayo dieléctrico. Ensayo de asentamiento. Disposiciones 
+especiales. 
+UNE-23110-3(94). Extintores portátiles de incendio. Parte 3: Construcción, resistencia a la presión y ensayos mecánicos. 
+UNE-23110-4(96). Extintores portátiles de incendios. Parte 4: Cargas, hogares mínimos exigibles. 
+UNE-23110-5(96/97). Extintores portátiles de incendios. Parte 5: Especificaciones y ensayos complementarios. 
+UNE-23110-6(96). Lucha contra incendios. Extintores portátiles de incendios. Parte 6: Procedimientos para la evaluación de la conformidad 
+de los extintores portátiles con la norma UNE-23110, partes 1 a 5.
+
+(5) CEPREVEN R.T.2. Medios manuales de extinción. Regla técnica para instalaciones de extintores móviles.
+
+(6) MINISTERIO DE FOMENTO 
+R.D. 2177/1996, de 4 de octubre, por el que se aprueba la Norma Básica de la Edificación “NBE-CPI/96: Condiciones de protección contra 
+incendios de los edificios”.
+
+   © INSHT
+
+
