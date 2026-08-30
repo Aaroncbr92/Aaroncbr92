@@ -17,45 +17,17 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
-### 2026-08-29 · Cuándo entró en vigor la modificación de la Ley 8/2009 por la Ley 13/2022
+_Ninguno. Los ocho que había se cerraron el 2026-08-30: cuatro investigándolos y
+aplicándolos, y cuatro que no eran trabajo pendiente sino avisos y decisiones mal archivados._
 
-- **Dónde**: tema 4 del general, artículo 2.1 de la Ley 8/2009, y tema 7, disposición final
-  cuarta de la Ley 13/2022.
-- **Qué dice hoy**: el tema 4 recoge, entre los recursos de financiación de RTVE, la
-  aportación de **los prestadores del servicio de intercambio de vídeos a través de
-  plataforma**, que introdujo la Ley 13/2022.
-- **La discordancia**: la **disposición final novena de la Ley 13/2022** dice que **«la
-  disposición final cuarta entrará en vigor en el ejercicio 2023»**, es decir **después** de
-  la fecha de corte. Pero el **texto consolidado de la Ley 8/2009 que publica el propio BOE**
-  data la nueva redacción del artículo 2.1 **desde el 9 de julio de 2022**, atribuyéndola a
-  la Ley 13/2022. Dos fuentes oficiales, dos fechas.
-- **Qué debería decir**: probablemente lo que dice —la lectura razonable es que el BOE
-  consolida **el texto** con la regla general y reserva a 2023 los **efectos económicos** de
-  la aportación—, pero **no está comprobado**. Si aparece una resolución o nota del BOE que
-  lo aclare, se cita.
-- **Fuente**: DF novena de `BOE-A-2022-11311`, leída literal; y el volcado de
-  `BOE-A-2009-13988` a 21/12/2022, que marca la redacción como vigente desde 20220709.
-- **Gravedad**: menor para el examen —ninguna pregunta del banco depende de la fecha—, pero
-  afecta a qué redacción del artículo 2 de la Ley 8/2009 es la examinable.
+---
 
-## Aplicados
+## Erratas comprobadas en plantillas oficiales de 2024
 
-_(vacío)_
-
-### 2026-08-29 · Fecha final de la aplicación del artículo 155 en Cataluña
-
-- **Dónde**: tema 1 del general, epígrafe 10.3, nota sobre el artículo 155.
-- **Qué dice hoy**: que la plantilla oficial del examen de Información y
-  Contenidos de 2024 da como período «del 27 de octubre de 2017 al 2 de junio de
-  2018», y que la fecha final se recoge por la plantilla y no por fuente oficial.
-- **Qué debería decir**: lo mismo, más la referencia del BOE que publique el cese
-  de las medidas, si existe.
-- **Fuente**: el inicio sí está verificado —Resolución de 27 de octubre de 2017 de
-  la Presidencia del Senado, `BOE-A-2017-12327`, y Reales Decretos 942/2017 a
-  945/2017—. **La fecha de cese no se ha comprobado**: se buscó en los sumarios
-  del BOE de 1, 2, 4 y 5 de junio de 2018 y no aparece.
-- **Gravedad**: menor. El dato se da atribuido a la plantilla, no como afirmación
-  propia.
+No son trabajo pendiente: son **avisos permanentes**. Las tres están verificadas por los dos
+extremos —el emparejamiento de la plantilla y el precepto en su redacción vigente— y en las tres
+**el tema enseña la norma, no la plantilla**. Se dejan aquí para que quien estudie por las
+plantillas sepa dónde le van a enseñar mal.
 
 ### 2026-08-29 · Errata en una plantilla oficial de respuestas
 
@@ -75,20 +47,6 @@ _(vacío)_
   error es de la plantilla.
 - **Gravedad**: no afecta al tema, pero conviene saberlo antes de estudiar por las
   plantillas. **No se corrige el tema para que cuadre con la plantilla.**
-
-### 2026-08-29 · Número total de Senadores en cada legislatura
-
-- **Dónde**: tema 1 del general, epígrafe 5.1, artículo 69.
-- **Qué dice hoy**: que la Constitución no fija el número total y que depende de
-  las designaciones autonómicas, sin dar cifra.
-- **Qué debería decir**: lo mismo, y añadir la cifra vigente en la legislatura en
-  curso cuando se pueda citar de fuente oficial (Senado o Junta Electoral
-  Central). En el examen de Información y Contenidos de 2024 la plantilla da
-  **266**.
-- **Fuente**: **no comprobada**. El artículo 69 sí está verificado; la cifra
-  concreta, no.
-- **Gravedad**: menor, y además es dato de actualidad, que solo cuenta en
-  Información y Contenidos.
 
 ### 2026-08-29 · Segunda errata en una plantilla oficial de respuestas
 
@@ -126,6 +84,19 @@ _(vacío)_
   2.500 → 6; más de 4.000 → 8). La única que se sale es ésta.
 - **Gravedad**: cambia la respuesta. **El tema 8 enseña la escala como está en la ley** y no se
   ha tocado para cuadrar con la plantilla.
+
+---
+
+## Decisiones tomadas, sin trabajo pendiente
+
+Casos en que **la respuesta oficial pide algo que la fuente no dice**. Se ha decidido **no tocar
+el tema**, porque escribir lo que la fuente no sostiene es exactamente lo que el apartado 1 del
+manual prohíbe. Se dejan anotados por si en una convocatoria futura el tribunal insiste.
+
+**Con una excepción, que se marca porque enseña más que los aciertos**: uno de los casos que
+había aquí —el interruptor diferencial— **resultó estar bien en la plantilla y mal en esta
+anotación**. Se resolvió el 2026-08-30 y está aplicado en el tema; la entrada se conserva con su
+cierre para que quede el histórico del error propio.
 
 ### 2026-08-30 · Dos preguntas del banco g8 que la Ley 31/1995 no contesta por sí sola
 
@@ -181,3 +152,115 @@ _(vacío)_
   que dice.
 - **Gravedad**: menor mientras no caiga en las tres ocupaciones que preparamos. Si cayera, hay
   que buscar la fuente antes de escribir nada.
+
+- **RESUELTO el 2026-08-30, y en contra de esta misma anotación.** La fuente existe y estaba
+  a un nivel más abajo del que se miró: la **ITC-BT-24 del RD 842/2002**, «Instalaciones
+  interiores o receptoras. Protección contra los contactos directos e indirectos», **coloca el
+  diferencial en los dos capítulos**. Su apartado **3.5** está **dentro del capítulo 3,
+  «PROTECCIÓN CONTRA CONTACTOS DIRECTOS»**, y dice: «*Esta medida de protección está destinada
+  solamente a **complementar** otras medidas de protección **contra los contactos directos**. El
+  empleo de dispositivos de corriente diferencial-residual, cuyo valor de corriente diferencial
+  asignada de funcionamiento sea **inferior o igual a 30 mA**, se reconoce como medida de
+  protección complementaria en caso de fallo de otra medida de protección contra los contactos
+  directos o en caso de imprudencia de los usuarios*». Y aparece otra vez en el apartado **4.1**,
+  «Protección por corte automático de la alimentación», que es **protección contra contactos
+  indirectos**.
+  **La plantilla oficial no estaba equivocada**: en la letra del reglamento, el diferencial es
+  protección **complementaria** frente a contactos **directos**. **Aplicado en
+  `temas/prl/prl-especifico.md`**, epígrafe 4.8, con las dos citas y el umbral de 30 mA; y el
+  extracto guardado en `fuentes/corte-20221221/BOE-A-2002-18099.preceptos.md`.
+  **La lección es la del apartado 5 del manual**: *el que detecta se equivoca*. Sospeché de la
+  plantilla y la plantilla tenía razón; me faltaba bajar de la ley al reglamento y del
+  reglamento a su instrucción técnica.
+
+---
+
+## Aplicados
+
+### 2026-08-29 · Cuándo entró en vigor la modificación de la Ley 8/2009 por la Ley 13/2022
+
+- **Dónde**: tema 4 del general, artículo 2.1 de la Ley 8/2009, y tema 7, disposición final
+  cuarta de la Ley 13/2022.
+- **Qué dice hoy**: el tema 4 recoge, entre los recursos de financiación de RTVE, la
+  aportación de **los prestadores del servicio de intercambio de vídeos a través de
+  plataforma**, que introdujo la Ley 13/2022.
+- **La discordancia**: la **disposición final novena de la Ley 13/2022** dice que **«la
+  disposición final cuarta entrará en vigor en el ejercicio 2023»**, es decir **después** de
+  la fecha de corte. Pero el **texto consolidado de la Ley 8/2009 que publica el propio BOE**
+  data la nueva redacción del artículo 2.1 **desde el 9 de julio de 2022**, atribuyéndola a
+  la Ley 13/2022. Dos fuentes oficiales, dos fechas.
+- **Qué debería decir**: probablemente lo que dice —la lectura razonable es que el BOE
+  consolida **el texto** con la regla general y reserva a 2023 los **efectos económicos** de
+  la aportación—, pero **no está comprobado**. Si aparece una resolución o nota del BOE que
+  lo aclare, se cita.
+- **Fuente**: DF novena de `BOE-A-2022-11311`, leída literal; y el volcado de
+  `BOE-A-2009-13988` a 21/12/2022, que marca la redacción como vigente desde 20220709.
+- **Gravedad**: menor para el examen —ninguna pregunta del banco depende de la fecha—, pero
+  afecta a qué redacción del artículo 2 de la Ley 8/2009 es la examinable.
+- **RESUELTO el 2026-08-30.** **La discordancia sigue existiendo entre las dos fuentes
+  oficiales, pero ya no decide nada**, porque **el tribunal examinó la redacción reformada**:
+  las preguntas **54 de Producción** y **88 de Producción (Asistencia)** de octubre de 2024
+  citan el **artículo 6** de la Ley 8/2009 nombrando a **«los prestadores del servicio de
+  intercambio de vídeos a través de plataforma»**, que es literalmente lo que introdujo la
+  disposición final cuarta de la Ley 13/2022. Comprobado además que el **texto consolidado de
+  la Ley 8/2009 no lleva ninguna nota de «téngase en cuenta»** sobre el aplazamiento: el BOE
+  data los artículos 2 y 6 desde el **09/07/2022** sin salvedad. **Aplicado en `temas/general/04-ley-8-2009.md`**,
+  con la discordancia explicada y el argumento del examen.
+  **Corrección de lo que esta misma entrada decía**: la gravedad estaba mal fijada. Se anotó
+  «ninguna pregunta del banco depende de la fecha» y **sí dependen dos**.
+
+### 2026-08-29 · Fecha final de la aplicación del artículo 155 en Cataluña
+
+- **Dónde**: tema 1 del general, epígrafe 10.3, nota sobre el artículo 155.
+- **Qué dice hoy**: que la plantilla oficial del examen de Información y
+  Contenidos de 2024 da como período «del 27 de octubre de 2017 al 2 de junio de
+  2018», y que la fecha final se recoge por la plantilla y no por fuente oficial.
+- **Qué debería decir**: lo mismo, más la referencia del BOE que publique el cese
+  de las medidas, si existe.
+- **Fuente**: el inicio sí está verificado —Resolución de 27 de octubre de 2017 de
+  la Presidencia del Senado, `BOE-A-2017-12327`, y Reales Decretos 942/2017 a
+  945/2017—. **La fecha de cese no se ha comprobado**: se buscó en los sumarios
+  del BOE de 1, 2, 4 y 5 de junio de 2018 y no aparece.
+- **Gravedad**: menor. El dato se da atribuido a la plantilla, no como afirmación
+  propia.
+- **RESUELTO el 2026-08-30.** **No hay publicación en el BOE porque no puede haberla**, y ésa
+  era la pregunta de verdad. La mecánica, comprobada en tres fuentes:
+  - Cada real decreto de ejecución dispone que **«mantendrá su vigencia en tanto continúe en
+    vigor el Acuerdo del Pleno del Senado de 27 de octubre de 2017»** (RD 944/2017, disposición
+    final, leída en `BOE-A-2017-12329`).
+  - El Acuerdo del Senado dedica su **apartado E.9, «Duración y revisión de las medidas»**, a
+    prever **«la posibilidad de plantear modificaciones o actualizaciones de las medidas, así
+    como de anticipar su cese si cesasen las causas que lo motivan»**. **No fija fecha de
+    terminación.**
+  - El cese se produjo **con la toma de posesión del nuevo Govern**, que se publica en el
+    **DOGC**, no en el BOE.
+  - Y la fecha tiene ahora **fuente oficial de la Generalitat**: la *Revista Catalana de Dret
+    Públic* de la **Escola d'Administració Pública de Catalunya** dice **«Entre els dies 27
+    d'octubre de 2017 i 2 de juny de 2018 es va aplicar l'anomenat mecanisme de coerció federal
+    de l'article 155»** y precisa que **«l'aplicació de l'article 155 CE acabava quan el nou
+    Govern de Catalunya prengués possessió»**.
+  **Aplicado en `temas/general/01-constitucion-espanola.md`**: la fecha ya no se recoge «por la
+  plantilla», y el tema explica por qué buscarla en el BOE no da nada.
+
+### 2026-08-29 · Número total de Senadores en cada legislatura
+
+- **Dónde**: tema 1 del general, epígrafe 5.1, artículo 69.
+- **Qué dice hoy**: que la Constitución no fija el número total y que depende de
+  las designaciones autonómicas, sin dar cifra.
+- **Qué debería decir**: lo mismo, y añadir la cifra vigente en la legislatura en
+  curso cuando se pueda citar de fuente oficial (Senado o Junta Electoral
+  Central). En el examen de Información y Contenidos de 2024 la plantilla da
+  **266**.
+- **Fuente**: **no comprobada**. El artículo 69 sí está verificado; la cifra
+  concreta, no.
+- **Gravedad**: menor, y además es dato de actualidad, que solo cuenta en
+  Información y Contenidos.
+- **RESUELTO el 2026-08-30.** La cifra tiene fuente oficial: **el propio Senado**, en
+  «Composición del Senado», da **266 senadores en la XV legislatura** —la que estaba en curso
+  en los exámenes de 2024—, de los que **208 son elegidos** y **58 designados** por los
+  parlamentos autonómicos. Comprobada la suma con el reparto que publica: Andalucía 9,
+  Cataluña 8, Madrid 7, Comunitat Valenciana 6, Canarias, Castilla-La Mancha, Castilla y León,
+  Galicia y País Vasco 3, Aragón, Asturias, Extremadura, Illes Balears y Murcia 2, y Cantabria,
+  La Rioja y Navarra 1 → **58**. **La plantilla del examen acertaba.**
+  **Aplicado en `temas/general/01-constitucion-espanola.md`**, artículo 69.
+

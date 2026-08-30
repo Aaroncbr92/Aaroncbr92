@@ -104,8 +104,8 @@ perjuicio de lo dispuesto en el párrafo anterior»**. Añadido: **la usuaria re
 condiciones de ejecución y de la información; la empresa de trabajo temporal, de la formación y
 la vigilancia de la salud**.
 
-**c) Tres lagunas de cobertura, cerradas ampliando el tema.** Salieron de la prueba del apartado
-7 y **se han cerrado con fuente, no recortando la pregunta**:
+**c) Cuatro lagunas de cobertura, cerradas ampliando el tema.** Salieron de la prueba del
+apartado 7 y **se han cerrado con fuente, no recortando la pregunta**:
 
 - **Las cuatro disciplinas preventivas** —**medicina del trabajo, seguridad en el trabajo,
   higiene industrial, y ergonomía y psicosociología aplicada**—, del **artículo 34 del RD
@@ -115,6 +115,11 @@ la vigilancia de la salud**.
   del **RD 842/2002** —**baja tensión hasta 1.000 V en alterna y 1.500 V en continua**—.
 - **Las BIE en establecimientos industriales**: la tabla del **anexo III del RD 2267/2004**
   —**riesgo bajo, DN 25 mm, simultaneidad 2, 60 min**—.
+- **El interruptor diferencial**, añadido el 2026-08-30 al resolver el cuaderno de pendientes.
+  Se había dejado fuera con una objeción propia —«el RD 614/2001 no lo nombra»— que resultó
+  equivocada: la **ITC-BT-24 del RD 842/2002** lo coloca **en los dos capítulos**, y su
+  apartado **3.5** está **dentro del de contactos directos**, con el umbral de **30 mA**. **La
+  plantilla oficial tenía razón y la anotación no.**
 
 ## 4 · Cifras
 
@@ -151,7 +156,9 @@ en resumen: **tres son de materia de otro tema del específico** —la espuma de
 especiales, el incendio del bazar de la caridad de 1897 y la sala de dimmers—, **una es de
 actualidad** —el incendio de Campanar— y **una es un cálculo hidráulico** del cuadernillo de
 Ingeniero Superior Industrial, ocupación que no preparamos. **Ninguna de las cinco viene de los
-cuadernillos de las tres ocupaciones que preparamos.**
+cuadernillos de las tres ocupaciones que preparamos.** Una sexta —el interruptor diferencial—
+estaba en esa lista con una objeción propia, salió de ella al resolverse el cuaderno de
+pendientes, y hoy la contesta el tema.
 
 ## Resumen
 
@@ -161,7 +168,7 @@ cuadernillos de las tres ocupaciones que preparamos.**
 | Lente ciega | **1 fallo doble** (guion de corte de PDF, y la clase que no incluía el guion normal) | corregido; **26 falsos «no literales»** menos |
 | Afirmación sin apoyo en la fuente | **1** (el ratón) | corregida con la cita de la Guía |
 | Salvedad omitida | **1** (art. 28, reparto usuaria/ETT) | corregida |
-| Lagunas de cobertura cerradas ampliando | **3** (disciplinas preventivas, riesgo eléctrico, BIE industriales) | cerradas con fuente |
+| Lagunas de cobertura cerradas ampliando | **4** (disciplinas preventivas, riesgo eléctrico, BIE industriales, interruptor diferencial) | cerradas con fuente |
 | Cifras inventadas | **0** | las 6 «huérfanas» son «1.090» y «1.091» con punto de millar |
 | Estado final de la lente | **863 comprobadas · 365 no literales** | repasadas una a una |
 | Preguntas fuera del tema, declaradas | **5** | ninguna de las tres ocupaciones que preparamos |

@@ -903,6 +903,28 @@ definidas como tales en los reglamentos electrotécnicos.»** Y el reglamento el
 **«muy baja tensión»**: **hasta 50 V en corriente alterna y hasta 75 V en corriente continua**,
 con el ejemplo de **las redes informáticas y similares**.
 
+**El interruptor diferencial, que se pregunta y está en los dos sitios.** La **ITC-BT-24** de
+ese mismo reglamento —«Instalaciones interiores o receptoras. Protección contra los contactos
+directos e indirectos»— lo coloca **en los dos capítulos**, y por eso la pregunta admite una
+respuesta que a primera vista parece equivocada:
+
+- **Como protección contra contactos DIRECTOS**, en el apartado **3.5, «Protección
+  complementaria por dispositivos de corriente diferencial-residual»**: «*Esta medida de
+  protección está destinada solamente a **complementar** otras medidas de protección **contra
+  los contactos directos**. El empleo de dispositivos de corriente diferencial-residual, cuyo
+  valor de corriente diferencial asignada de funcionamiento sea **inferior o igual a 30 mA**,
+  se reconoce como **medida de protección complementaria** en caso de fallo de otra medida de
+  protección contra los contactos directos **o en caso de imprudencia de los usuarios***».
+  Y el aviso: «*La utilización de tales dispositivos **no constituye por sí mismo una medida de
+  protección completa***».
+- **Como protección contra contactos INDIRECTOS**, en el apartado **4.1, «Protección por corte
+  automático de la alimentación»**, donde el diferencial es el dispositivo que ejecuta ese corte.
+
+Así que **el diferencial es, en la letra del reglamento, protección complementaria frente a
+contactos directos** —con el umbral de **30 mA**— **y** el dispositivo de corte frente a los
+indirectos. Quien conteste solo «indirectos» está dando la respuesta de manual, pero **la
+ITC-BT-24 lo enuncia bajo el epígrafe de los directos**.
+
 ---
 
 ## 5. Accidente in itinere o in misión y medidas preventivas

@@ -748,6 +748,16 @@ por cada millón de habitantes—. En los exámenes de 2024 se preguntó por la 
 concreta del Senado en ese momento, que es un dato de actualidad y no del texto
 constitucional.
 
+**La cifra, cuando la piden**: en la **XV legislatura**, la que estaba en curso en los
+exámenes de octubre y noviembre de 2024, **el Senado se compone de 266 senadores** —**208
+elegidos** por las circunscripciones y **58 designados** por los parlamentos autonómicos—.
+El dato es **del propio Senado**, no de la plantilla del examen: así lo publica en
+«Composición del Senado». El reparto de designados de esa legislatura es **Andalucía 9,
+Cataluña 8, Madrid 7, Comunitat Valenciana 6, Canarias, Castilla-La Mancha, Castilla y León,
+Galicia y País Vasco 3 cada una, Aragón, Asturias, Extremadura, Illes Balears y Murcia 2 cada
+una, y Cantabria, La Rioja y Navarra 1 cada una**. Suman **58**, y con los **208** electivos,
+**266**.
+
 **Artículo 70. Inelegibilidad e incompatibilidad.** La **ley electoral** las
 determina, y comprenderán **en todo caso**:
 
@@ -1547,11 +1557,28 @@ de octubre de 2017 de la Presidencia del Senado** publicó el **Acuerdo del Plen
 del Senado** por el que se aprobaron las medidas requeridas por el Gobierno al
 amparo del artículo 155 (`BOE-A-2017-12327`), y ese mismo día se dictaron los
 Reales Decretos 942/2017 a 945/2017 que las ejecutaban. En el examen de
-Información y Contenidos de 2024 se preguntó por el período de aplicación y la
-plantilla oficial da como respuesta **del 27 de octubre de 2017 al 2 de junio de
-2018**; la fecha final —el cese de las medidas al tomar posesión el nuevo Govern—
-se recoge aquí **por la plantilla, no por fuente oficial**, porque no se ha
-localizado su publicación en el BOE (anotado en `PENDIENTES.md`).
+Información y Contenidos de 2024 se preguntó por el período de aplicación, y la
+respuesta es **del 27 de octubre de 2017 al 2 de junio de 2018**.
+
+**Por qué esa fecha final no está en el BOE, que es lo que confunde.** Las medidas no se
+levantaron con un acto publicado en el BOE: **se extinguieron solas**. La mecánica está en
+tres piezas:
+
+- Cada uno de los reales decretos de ejecución dispone que **«mantendrá su vigencia en tanto
+  continúe en vigor el Acuerdo del Pleno del Senado de 27 de octubre de 2017»**.
+- Ese Acuerdo dedica su **apartado E.9, «Duración y revisión de las medidas»**, a prever
+  **«la posibilidad de plantear modificaciones o actualizaciones de las medidas, así como de
+  anticipar su cese si cesasen las causas que lo motivan»**. **No fija fecha de terminación.**
+- El cese se produjo **con la toma de posesión del nuevo Govern**, acto que se publica en el
+  **Diari Oficial de la Generalitat de Catalunya (DOGC)**, no en el BOE. De ahí que buscar el
+  cese en los sumarios del BOE de junio de 2018 no dé nada: no hay nada que encontrar.
+
+La fecha se recoge, además de por la plantilla, por **fuente oficial de la propia
+Generalitat**: la *Revista Catalana de Dret Públic* de la **Escola d'Administració Pública de
+Catalunya** lo formula así: **«Entre els dies 27 d'octubre de 2017 i 2 de juny de 2018 es va
+aplicar l'anomenat mecanisme de coerció federal de l'article 155»**, y precisa que
+**«l'aplicació de l'article 155 CE acabava quan el nou Govern de Catalunya prengués
+possessió»** —«CE», en la cita, es la Constitución Española—.
 
 **Artículos 156 a 158. Hacienda autonómica.** **Autonomía financiera** con arreglo
 a los principios de **coordinación con la Hacienda estatal y solidaridad entre

@@ -90,6 +90,15 @@ en Documentación y en Producción (Asistencia).
       en el HTML ni en la transcripción de texto, y su ausencia no da ningún aviso.
       Descargadas y **transcritas las cinco** en `fuentes/convenio/imagenes/`: la tabla
       del artículo 65 y los anexos 1, 2 y 3.
+- [x] **Cuaderno de pendientes vaciado (2026-08-30).** Los ocho hallazgos que había están
+      cerrados: **cuatro investigados y aplicados** —la entrada en vigor de la DF cuarta de la
+      Ley 13/2022, la fecha de cese del artículo 155, el número de senadores y el interruptor
+      diferencial— y **cuatro que no eran trabajo pendiente** sino erratas comprobadas de
+      plantillas y decisiones ya tomadas, mal archivadas bajo el epígrafe «Aplicados». El
+      fichero se ha reorganizado en cuatro secciones y **conserva todo el histórico**.
+      **Dos de las cuatro resoluciones fueron en contra de lo que la propia anotación decía**:
+      la de la Ley 8/2009 la daba por irrelevante para el examen y sí lo era, y la del
+      diferencial acusaba a la plantilla oficial de un error que no había.
 - [x] **Bloque común cerrado: los 8 temas del general y el de PRL del específico**, que sirve
       para las tres ocupaciones como **P18 / D7 / I11**. Con eso está hecho todo lo que rinde
       por tres.
@@ -159,7 +168,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 6 · Igualdad | sí | sí | sí | sí | sí | sí, limpia | 39 de 39 enteras |
 | General 7 · Ley 13/2022 | sí | sí | sí | sí | sí | sí, con 11 salvedades declaradas | 34 de 34 enteras |
 | General 8 · Ley 31/1995 | sí | sí | sí | sí | sí | sí, con 3 falsos positivos declarados | 49 de 52 enteras, 2 a medias |
-| PRL del específico (P18/D7/I11) | sí | sí | sí | sí | sí | sí, limpia | 34 de 40 enteras, 1 con matiz, 5 fuera de tema |
+| PRL del específico (P18/D7/I11) | sí | sí | sí | sí | sí | sí, limpia | 35 de 40 enteras, 1 con matiz, 5 fuera de tema |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

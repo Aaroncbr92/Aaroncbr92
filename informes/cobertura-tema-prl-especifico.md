@@ -18,7 +18,7 @@ entradas del banco son 91; contadas por preguntas, 92.
 
 ## 1 · Resultado
 
-**Contestadas enteras: 34. Enteras con matiz: 1. Fuera del tema: 5. No contestadas: 0.**
+**Contestadas enteras: 35. Enteras con matiz: 1. Fuera del tema: 5. No contestadas: 0.**
 
 ### Pantallas de visualización · 8 preguntas, 8 enteras
 
@@ -41,7 +41,7 @@ entradas del banco son 91; contadas por preguntas, 92.
 | **Movimientos de riesgo si se repiten**: pronosupinación, extensiones y flexiones de muñeca, desviaciones radiales o cubitales | §3.3, literal del INSST |
 | **Medida preventiva más efectiva: pausas activas y estiramientos** | §3.5, como medida organizativa |
 
-### Incendios y riesgo eléctrico · 9 preguntas, 8 enteras y 1 fuera
+### Incendios y riesgo eléctrico · 9 preguntas, 9 enteras
 
 | Pregunta | Dónde |
 | --- | --- |
@@ -53,7 +53,7 @@ entradas del banco son 91; contadas por preguntas, 92.
 | **BIE para riesgo intrínseco bajo: 2 BIE DN 25 mm** | §4.7.d |
 | **Distancia máxima de las BIE a las salidas: 5 m** | §4.6 |
 | **A partir de qué valores es alta tensión: 1.000 V alterna y 1.500 V continua** | §4.8, RD 842/2002 art. 2.1 |
-| Qué es un **interruptor diferencial** | **fuera del tema**, ver abajo |
+| Qué es un **interruptor diferencial**: **protección complementaria contra contactos directos** | §4.8, **ITC-BT-24, apartado 3.5**, con el umbral de **30 mA** |
 
 ### Accidente in itinere o in misión · 9 preguntas, 9 enteras
 
@@ -105,15 +105,18 @@ ocupaciones que preparamos.
 | **Qué es imprescindible en la sala de dimmers** (un sistema de refrigeración) | Luminotecnia | **Luminotecnia** |
 | **Caudal de agua de un abastecimiento contra incendios** con BIE de 400 l/min e hidrantes de 1.500 l/min | Ingeniero Superior Industrial | **Cálculo hidráulico** del RD 2267/2004 y sus normas UNE; **sin plantilla oficial** y de una ocupación que no preparamos |
 
-Y una sexta que se deja fuera **con una objeción técnica anotada**:
+Y una sexta que **se dejó fuera con una objeción técnica y ha acabado dentro, porque la
+objeción era mía y estaba equivocada**:
 
 **52_preguntas_luminotecnia nº 28**: «*¿Qué es un interruptor diferencial?*», respuesta oficial
-**a) «Sistema de protección contra contactos directos»**. El **RD 614/2001** define los dos
-contactos —**directo**, con elementos en tensión; **indirecto**, con masas puestas accidentalmente
-en tensión— **pero no nombra el interruptor diferencial**, y el reglamento electrotécnico lo trata
-como protección **frente a contactos indirectos**, con la alta sensibilidad como **protección
-adicional** frente a los directos. **No se incorpora al tema una afirmación que la fuente no
-sostiene**, y la discrepancia queda en `PENDIENTES.md`.
+**a) «Sistema de protección contra contactos directos»**. En la primera pasada se anotó que el
+**RD 614/2001** no nombra el diferencial y que el reglamento electrotécnico lo trata como
+protección frente a contactos **indirectos**. Buscando un nivel más abajo aparece la fuente: la
+**ITC-BT-24** del RD 842/2002 lo coloca **en los dos capítulos**, y su apartado **3.5** está
+**dentro del capítulo de los contactos directos**: «*Esta medida de protección está destinada
+solamente a **complementar** otras medidas de protección **contra los contactos directos**…
+inferior o igual a **30 mA**…*». **La plantilla tenía razón.** Añadido al tema en §4.8, con las
+dos citas. **Contestada entera.**
 
 ## 4 · Preguntas que el tema contesta y el banco todavía no ha hecho
 
@@ -139,8 +142,8 @@ sostiene**, y la discrepancia queda en `PENDIENTES.md`.
 | | |
 |---|---|
 | Preguntas reales de este tema en el banco | **40** |
-| Contestadas **enteras** con el cuerpo delante | **34** |
+| Contestadas **enteras** con el cuerpo delante | **35** |
 | **Enteras con matiz** | **1** (la «seguridad informática» de las pantallas) |
 | **No contestadas** | **0** |
-| **Fuera del tema**, declaradas una a una | **5**, más **1 con objeción técnica** |
-| Lagunas cerradas **ampliando el tema** durante la prueba | **3** (disciplinas preventivas, riesgo eléctrico, BIE industriales) |
+| **Fuera del tema**, declaradas una a una | **5** |
+| Lagunas cerradas **ampliando el tema** durante la prueba | **4** (disciplinas preventivas, riesgo eléctrico, BIE industriales y el interruptor diferencial) |
