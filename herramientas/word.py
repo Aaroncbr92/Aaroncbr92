@@ -29,8 +29,12 @@ propios del temario van en castellano y son estos:
 tiene un estilo distinto. Eso es lo que permite leer el fichero devuelto y
 trasladar cada decisión al CSS de `libro.py` sin adivinar.
 
-Uso:  word.py [salida.docx] [--temas 1,2,3]
-      python3 herramientas/word.py libro-tema-1.docx --temas 1
+Uso:  word.py [salida.docx] [--temas 1,2,3] [--muestrario]
+      python3 herramientas/word.py libro-tema-1.docx --temas 1 --muestrario
+
+`--muestrario` añade al final una hoja con **todos los estilos, uno debajo de
+otro y con su nombre delante**. No es parte del volumen: está para dar el
+formato de una sentada y ver de un vistazo qué queda sin decidir.
 """
 import os
 import re
@@ -471,6 +475,66 @@ def respuestas(doc, hechos):
         escribe_tabla(doc, filas, True)
 
 
+MUESTRARIO = [
+    ("Portada rótulo", "OPOSICIONES RTVE · CONVOCATORIAS 1/2022 Y 3/2022"),
+    ("Title", "Temario general"),
+    ("Subtitle", "El subtítulo de la portada, a dos renglones si hace falta"),
+    ("Portada dato", "Redacción vigente a 21 de diciembre de 2022"),
+    ("Rótulo", "TEMA 1 DEL TEMARIO GENERAL"),
+    ("Heading 1", "Título del tema"),
+    ("Heading 2", "1. Un epígrafe de primer nivel"),
+    ("Heading 3", "1.1. Un subepígrafe"),
+    ("Heading 4", "Un cuarto nivel, que sale poco"),
+    ("Normal", "El cuerpo del tema. Lleva negritas para el dato que se pregunta y "
+               "cursivas para los títulos de norma. Es el estilo que decide cómo se lee "
+               "el volumen entero, así que es el primero que conviene fijar."),
+    ("Aviso", "Los párrafos de la caja «Cómo usar este volumen»."),
+    ("Cita de la norma", "«El texto literal del BOE, que va sangrado para que se "
+                         "distinga del cuerpo a simple vista.»"),
+    ("List Bullet", "Un punto de lista de primer nivel"),
+    ("List Bullet 2", "Un punto de lista anidado"),
+    ("List Number", "Un punto de lista numerada"),
+    ("Índice tema", "1. Constitución Española de 27 de diciembre de 1978"),
+    ("Índice epígrafe", "1. Elaboración, estructura y entrada en vigor"),
+    ("Pregunta", "1. El enunciado de una pregunta real de examen."),
+    ("Opción", "a) Una de las cuatro opciones."),
+    ("Fuente de pregunta", "01_preguntas_ambientacion_decorados · nº 3"),
+    ("Separador", ""),
+]
+
+
+def muestrario(doc):
+    """Una hoja con todos los estilos y su nombre delante."""
+    salto(doc)
+    doc.add_paragraph("Para dar el formato, no forma parte del volumen", style="Rótulo")
+    doc.add_paragraph("Muestrario de estilos", style="Heading 1")
+    p = doc.add_paragraph(style="Normal")
+    p.add_run("Cada renglón va escrito con el estilo cuyo nombre lleva delante. ")
+    p.add_run("Cambiando el estilo en Word cambian todas sus apariciones en el volumen")
+    p.runs[-1].bold = True
+    p.add_run(", y el fichero devuelto dice qué se ha elegido para cada uno. En el documento "
+              "no hay formato aplicado a mano en ningún sitio: si algo se ve distinto es "
+              "porque tiene un estilo distinto. Esta hoja se puede borrar.")
+    for nombre, ejemplo in MUESTRARIO:
+        doc.add_paragraph("· %s" % nombre, style="Fuente de pregunta")
+        if ejemplo:
+            doc.add_paragraph(ejemplo, style=nombre)
+        else:
+            _raya(doc.add_paragraph(style=nombre))
+    doc.add_paragraph("Tabla y Tabla cabecera", style="Fuente de pregunta")
+    escribe_tabla(doc, [[md.parse(c)[1] for c in fila] for fila in
+                        (("**Columna**", "**Otra columna**"),
+                         ("El texto de las celdas lleva el estilo «Tabla»",
+                          "y la primera fila, «Tabla cabecera»"))], True)
+    doc.add_paragraph(style="Normal")
+    p = doc.add_paragraph(style="Pregunta")
+    p.add_run("1. ", style="Número de pregunta")
+    p.add_run("El número de la pregunta lleva el estilo de carácter «Número de pregunta»; "
+              "el texto entrecomillado con acento monoespaciado, ")
+    p.add_run("«Código»", style="Código")
+    p.add_run(".")
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     salida = args[0] if args else "libro-general.docx"
@@ -502,6 +566,8 @@ def main():
         if ps:
             hechos.append((numero, banco, ps))
     respuestas(doc, hechos)
+    if "--muestrario" in sys.argv:
+        muestrario(doc)
 
     ruta = os.path.join(RAIZ, salida)
     doc.save(ruta)
