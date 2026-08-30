@@ -1,0 +1,760 @@
+Ocupación tipo
+INGENIERÍA SUPERIOR DE
+TELECOMUNICACIÓN
+INSTRUCCIONES
+
+e Setrata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+e La prueba está compuesta por 96 preguntas (80 preguntas principales más 16 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+e Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
+solo elegir UNA de las cuatro opciones.
+
+e El sistema de valoración será el siguiente:
+
+o Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+o Cada pregunta no contestada, contestada de forma distinta a la indicada en las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+o Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+e Sila prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+e Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+e Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
+anteriormente facilitadas.
+
+e Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+Tiempo máximo: 150 minutos.
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+No se permite la reproducción total o parcial de este cuestionario.
+1.- En paquetes de datos de la norma SMPTE ST 2022-6, el contenido del paquete podrá
+
+tener:
+
+a) Exclusivamente datos de la señal de vídeo.
+
+b) Exclusivamente datos de la señal de audio.
+
+c) Datos correspondientes a la metadata contenida en los intervalos, vertical y horizontal.
+d) Datos de vídeo, audio o metadata contenida en los intervalos vertical y horizontal.
+
+2.- De las siguientes respuestas, ¿cuál es la principal característica, entre las siguientes, de
+
+un conector HD-BNC?
+
+a) Que es específico para usarse en alta definición.
+
+b) Que es específico para trabajar en ultra alta definición.
+
+c) Que puede llevar 8 señales HD-SDI en banda base.
+
+d) Que tiene alta densidad y en el mismo espacio permite colocar más conectores que si
+se usa BNC normal.
+
+3.- Se cuenta con 4 discos físicos y queremos configurarlos como una única unidad, por
+ejemplo /root. Para maximizar la capacidad útil de almacenamiento pero con algún
+mecanismo de redundancia ante fallos, ¿cuál opción elegiría?
+
+a) RAID 5.
+b) RAID O.
+c) RAID 1.
+d) RAID 0+1.
+
+4.- ¿Cuántos audios monos digitales (24bits y 96KHz) podemos llevar en una señal MADI?
+
+a) 8.
+
+b) 24.
+c) 32.
+d) 64.
+
+5.- Indica cuál de los siguientes códecs utiliza compresión temporal:
+
+a) Sony XDCAM 422.
+b) ProRES.
+c) AVC-1.
+d) JPEG 2000.
+Página: 1 de 20
+6.-  Enuna sala de audio con escucha 5.1, ¿dónde se coloca un subwoofer?
+a) Justo debajo del bafle central delantero.
+b) En la parte trasera en medio del LRe y el RRe.
+c) En el centro de la sala.
+d) No es especialmente crítica la colocación del subwoofer, por lo que se puede colocar
+prácticamente en cualquier lado.
+7.- ¿Cuál es la principal ventaja del estándar de MPEG-4 sobre el estándar de codificación
+MPEG-2?
+a) Mayor calidad de audio.
+b) Menor tasa de bits para la misma calidad de imagen.
+c) Mayor compatibilidad con dispositivos antiguos.
+d) Proceso de codificación más sencillo.
+8.- Si recibimos una señal procedente de USA, ¿con cuál de los siguientes formatos es más
+probable que llegue?:
+a) 1080p25.
+b) 1080i50.
+c) 1080i60.
+d) 2160160.
+9.- ¿Cuál de los siguientes estándares define la interfaz 6G-SDI?
+a) SMPTE ST 2081-1.
+b) SMPTE ST 2082-1.
+c) SMPTE ST 2080-1.
+d) SMPTE ST 2080-2.
+10.- En la compresión de vídeo digital, ¿qué significa GOP?
+a) Group Of Pictures.
+b) Global Operating Protocol.
+c) General Output Process.
+d) Graphics Output Program.
+11.- ¿A qué capa del modelo OSI pertenece el protocolo ICMP?
+a) Enlace de datos.
+b) Transporte.
+c) Red.
+d) Aplicación.
+Página: 2 de 20
+12.- Si en la antena de casa recibo señal TDT directa, más un reflejo de un edificio cercano, en
+el televisor tendré:
+a) La imagen nítida.
+b) La señal con doble imagen.
+c) Casi se anularán ambas señales y la recepción es nefasta.
+d) Habrá un desfase entre el audio y el vídeo.
+13.- ¿Cuáles son los formatos de mapeado definidos en el estándar SMPTE ST 425-1 para el
+interfaz 3G-SDI?
+a) Level A y Level B.
+b) Level A, Level B Dual-Link y Level B Dual-Stream.
+Cc) Level A, Level B Dual-Link, Level B Dual-Stream y Level C.
+d) Level A Dual-Link, Level B Dual-Stream, Level B Dual-Link y Level B Dual-Stream.
+14.- Si en una librería de cintas magnéticas instalamos 2 drives LTO-9, señala cuál de las
+siguientes respuestas es cierta.
+a) Solo podremos escribir en LTO-9 y leer en LTO-8 y LTO-9.
+b) Solo podremos escribir en LTO-9 y leer cintas LTO-8, LTO-9 y LTO-7.
+c) Solo podremos escribir en LOT-9 y LTO-8, además de leer cintas en formato LTO-8, LTO-9
+y LTO-7.
+d) Solo podremos escribir en LTO-9 y leer en LTO-9.
+15.- La siguiente imagen corresponde a un conversor:
+—
+E gu, y
+y ¡paa “Y e VY/
+a) HDMI macho - Display Port macho.
+b) DVI macho — Display Port hembra.
+c) DVI macho — HDMI macho.
+d) Display Port macho — DVI macho.
+Página: 3 de 20
+16.- Si tenemos una señal en formato 2160p50 y el sonido va retrasado 5 frames, ¿cuántos
+milisegundos lleva de retraso?
+a) 60.
+b) 100.
+c) 120.
+d) 200.
+17.- Señale cuál de las siguientes direcciones IP puede ser asignada a un host en la siguiente
+subred 137.27.51.64/26:
+a) 137.27.51.128.
+b) 137.27.51.124.
+c) 137.27.51.127.
+d) 137.26.41.55.
+18.- ¿Qué protocolo se usa para el descubrimiento de la dirección MAC?
+a) DHCP.
+b) ARP.
+c) ICMP.
+d) IGMP.
+19.- La luz que emite un monitor se puede medir en:
+a) Lúmenes.
+b) Candelas/m2.
+c) Lux.
+d) Stops.
+20.- ¿Cuál es el número mínimo de discos necesarios para un RAID 5?
+a) 2.
+b) 3.
+c) 4.
+d) 5.
+21.- ¿Cuál de los siguiente es un protocolo utilizado por los sistemas de control broadcast
+basados en tecnología IP para envío de parámetros a otros equipos?
+a) ASI.
+b) Ember+.
+c) SDI.
+d) NTP.
+Página: 4 de 20
+22.- La siguiente imagen corresponde a un panel de conexiones, ¿de qué tipo?
+á
+07, Y , 1 5 a
+. DERE do A
+-a ES ha j h SE A
+
+A E
+a) Phoenix.
+b) Shure.
+Cc) Lemo.
+d) Harting.
+
+23.- Si veo el diagrama de ojo de una señal 1080p25 en un monitor forma de onda, el intervalo
+unitario será:
+
+L[iúóúGCOOOo E A
+a) 3,/7ns (1/270MHZ).
+b) 673,4ps (1/1,485GHZ).
+Cc) 336,7ps (1/2,970GHz).
+d) 84,2ps (1/11,880GHz).
+
+24.- En una señal de televisión tenemos una estructura de muestreo de 4:2:0. Si
+consideramos toda la imagen, por cada 100 muestras de la luminancia para la
+componente R-Y tendremos:
+
+a) 25 muestras.
+b) 50 muestras.
+c) 75 muestras.
+d) 100 muestras.
+Página: 5 de 20
+25.- Una señal UHD se ha codificado utilizando 4 señales 3G-HD SDI, ¿qué métodos de
+transmisión en las 4 señales permite obtener una copia de la señal en formato HD en
+cada una de las señales sin utilizar equipamiento adicional?
+
+a) Codificación SQD (Square Division).
+
+b) Codificación de campo.
+
+c) Codificación por líneas pares.
+
+d) Codificación 2Sl (2 Sample Interleave).
+
+26.- Según el Artículo 20 de la Constitución Española, el secuestro de publicaciones,
+grabaciones y otros medios de información solo podrá acordarse:
+a) Por orden del delegado del Gobierno.
+
+b) En virtud de resolución judicial.
+c) Por orden del Ministerio de Justicia.
+d) Por Real Decreto Ley.
+
+27.- Según el vigente Convenio Colectivo, ¿se considera una falta disciplinaria la falta de aseo
+
+personal?
+
+a) No.
+
+b) SÍ, es una falta grave.
+
+c) Sí, es una falta leve.
+
+d) Sí, es una falta muy grave.
+
+28.- Tenemos un fichero con encapsulado MXF opla, comprimido en XAVC-I 300, que
+contiene UHD-HDR con estándar HLG. Necesitamos entregarlo a una productora en un
+formato XDCAM 422 HD, ¿qué procesos debemos realizar en el orden correcto?
+
+a) Aplicar un LUT para convertir de HLG a SDR y luego reducir la resolución a HD
+manteniendo el códec original.
+
+b) Transcodificar el contenido de XAVC-| a XDCAM 422, ya que al partir de contenido HDR
+con más información de color no es necesario aplicar un LUT.
+
+c) Aplicar un LUT al contenido del fichero de HLG a SDR, pasar a HD y luego transcodificar
+a XDCAM 422 HD.
+
+d) No es técnicamente posible convertir una señal HDR a SDR usando LUTSs.
+
+29.- En un monitor individual o dentro de un patrón de multipantallas, ¿cómo se denomina el
+texto utilizado debajo de la imagen, que sirve para nombrar la señal que se está viendo?
+a) PiP.
+
+b) UMD.
+c) Tally.
+d) TSL.
+Página: 6 de 20
+30.- En la Constitución Española, ¿qué artículo, de los siguientes, trata acerca de los
+sindicatos y asociaciones empresariales?
+a) 3.
+
+b) 7.
+c) 8.
+d) 13.
+
+31.- ¿Cuál es la PIRE de un sistema radiante, para un emisor cuya potencia de transmisión es
+de -10 dBm, con una ganancia de antena de 30dBi y unas pérdidas de 1 dB en el
+cableado?
+
+a) -41 dBm.
+b) -40 dBm.
+c) 19 dBm.
+d) 20 dBm.
+
+32.- ¿Cuál de las siguientes afirmaciones relativas a los protocolos de transporte TCP
+
+(Transport Control Protocol) y UDP (User Datagram Protocol) es cierta?
+
+a) TCP no debe ser usado por aplicaciones que requieran una entrega fiable de datos.
+
+b) No existe forma de determinar si un datagrama UDP se ha recibido con errores.
+
+c) Si durante la transmisión se daña un datagrama, UDP lo detecta, pero no lo retransmite.
+
+d) TCP es un protocolo no orientado a conexión, mientras que UDP garantiza la entrega de
+datos.
+
+33.- ¿Qué banda de frecuencias tienen las señales VHF?
+
+a) 30 a 300MHZ.
+b) 300 a 3000MHzZ.
+c) 3 a 30GHzZ.
+
+d) 30 a 300GHz.
+
+34.- ¿Cuál de las siguientes afirmaciones es correcta?
+
+a) SMPTE ST 2022-7 lleva la información de datos auxiliares, audio y vídeo en el mismo
+stream.
+b) SMPTE ST 2110-20 lleva información de datos auxiliares.
+Cc) SMPTE ST 2110-30 lleva información de audio.
+d) SMPTE ST 2110-40 lleva información de vídeo.
+Página: 7 de 20
+35.- En una antena, ¿qué representa el patrón de radiación?
+a) La impedancia característica de la antena.
+b) La polarización de la onda electromagnética.
+c) La eficiencia de radiación comparada con un dipolo activo.
+d) La distribución espacial de la potencia radiada.
+36.- ¿Cuál es la tasa binaria máxima en un transceptor QSFP28?
+a) 25 Gbps.
+b) 40 Gbps.
+c) 50 Gbps.
+d) 100 Gbps.
+37.- Según el siguiente esquema, ¿qué tipo de sistema necesitan los técnicos para poder
+trabajar con cualquiera de las estaciones de trabajo?
+PUESTOS TÉCNICOS
+ESTACIONES DE TRABAJO
+Fl
+¿ /
+AS Fl NM
+so al
+d ] A /
+E dl ñ A
+pr Pd Eo
+/ NX
+É
+pu
+a
+A
+a) Extensor KVM.
+b) Matriz KVM.
+c) Distribuidor de HDMI.
+d) Concentrador de USB.
+Página: 8 de 20
+38.- Las Fuerzas Armadas están constituidas por:
+a) El Ejército, la Guardia Civil y la Policía Nacional.
+b) El Ejército de Tierra, Mar y Aire.
+c) La infantería, la Marina y la Aviación.
+d) El Ejército de Tierra, la Armada y el Ejército del Aire.
+
+39.- En una unidad móvil que utiliza un estándar UHD HDR, ¿cuál de las siguientes opciones
+describe correctamente el estándar utilizado para la codificación de alto rango dinámico
+(HDR) en señales de vídeo UHD?
+
+a) SMPTE ST 2110-20.
+b) ITU-R BT.2020.
+c) SMPTE ST 2084 (PQ).
+d) Rec. 709.
+40.- ¿Qué es el Audio Follow Video'?
+a) Un modo operativo asociado a los conmutadores de vídeo y audio.
+b) Un modo operativo asociado las cámaras.
+c) Un modo operativo asociado al sistema multipantallas.
+d) Un modo operativo asociado a los servidores de grabación.
+
+41.- Los cables de fibra óptica que se utilizan para entornos de larga distancia:
+a) Son multimodo ya que por ellos se transmiten varias longitudes de onda.
+b) Suelen ser monomodo porque el recubrimiento en este tipo de fibra es más robusto y
+
+estar apantallado.
+
+c) Suele ser monomodo por su menor atenuación.
+
+d) Suele ser de tipo multimodo por su menor atenuación.
+42.- En antenas, ¿qué es un radomo?
+
+a) Una cubierta protectora para antenas.
+
+b) Un tipo de modulación digital.
+
+c) Un sistema de radar.
+
+d) Un dispositivo de medición electromagnética.
+
+43.- ¿Cuál de las siguientes afirmaciones sobre el protocolo mDNS es FALSA?
+
+a) Puede trabajar junto con DNS-SD.
+
+b) Trabaja sobre TCP.
+
+c) Usa IP Multicast.
+
+d) Puede trabajar de manera autónoma, sin necesidad de un servidor DNS estándar.
+Página: 9 de 20
+44.- ¿Cuál de los siguientes estándares SMPTE ST 2110 permite el transporte de señales de
+audio AES3, preservando los bits V, U, C y P?
+a) ST 2110-30.
+b) ST 2110-31.
+c) ST 2110-32.
+d) ST 2110-43.
+45.- ¿Cuál de las siguientes características NO corresponde al protocolo RTP utilizado por la
+norma SMPTE ST-2110?
+a) El tamaño del paquete es fijo.
+b) Es un protocolo con control de paquetes perdidos.
+c) Soporta multicast.
+d) Transporte unidireccional.
+46.- ¿Puedo enviar un flujo de vídeo comprimido según el estándar SMPTE ST 2110-20?
+a) No.
+b) Sí, pero sólo permite el formato de compresión JPEG-XS.
+c) Sí, pero sólo permite el formato de compresión MPEG-2.
+d) Sí, haciendo uso de cualquier formato de compresión, porque no especifica ninguno.
+47.- ¿Qué estándar de vídeo por IP tiene redundancia en conectividad en equipos finales?
+a) SMPTE ST 2022/7.
+b) SMPTE ST 2022/8.
+c) SMPTE ST 2110-10.
+d) SMPTE ST 2110-20.
+48.- Un fichero de LUT (look at table) se puede usar para:
+a) Convertir señal con norma americana a europea.
+b) Convertir señal de 1080p25 a 1080i50.
+c) Convertir señales HDR a SDR y viceversa.
+d) Convertir imágenes de 16/9 a 4/3 y viceversa.
+49.- ¿De cuántos días de Motivos Particulares puede disfrutar un empleado de RTVE, según el
+vigente Convenio Colectivo?
+a) 3.
+b) 5.
+c) 4.
+d) 2.
+Página: 10 de 20
+50.- ¿Para qué se usa el bit V (validity bit) de la interfaz de audio AES/EBU?
+a) Para indicar si la frecuencia de muestreo es diferente a 48 kHz.
+b) Para permitir la detección de errores.
+c) Para indicar que la muestra de audio es apta o no para un procesado adicional, como
+su conversión a señal analógica.
+d) Para la transmisión de información de usuario.
+51.- ¿Para qué se usa la señal test patológica?
+a) Para poder corregir retardos entre la crominancia y luminancia.
+b) Para poder corregir aberraciones cromáticas de las lentes en HD.
+c) Para chequear un canal digital de TV en altas y bajas frecuencias.
+d) Para chequear si las parejas de audio están en fase.
+52.- ¿Cuántos miembros componen el Tribunal Constitucional?
+a) 4 miembros.
+b) 12 miembros.
+c) 22 miembros.
+d) 120 miembros.
+53.- En un estudio de TV estoy manejando una señal UHD por cuadrantes, si quiero distribuir
+una imagen para llevarla a tres monitores, necesitaré:
+a) Un distribuidor de, al menos, 4 salidas.
+b) Dos distribuidores de, al menos, 8 salidas cada uno.
+c) Tres distribuidores de, al menos, 4 salidas cada uno.
+d) Cuatro distribuidores de, al menos, 3 salidas cada uno.
+54.- ¿Para qué se utiliza el protocolo Ember+?
+a) Transmisión de vídeo sobre IP.
+b) Transferencia de archivos.
+c) Control de dispositivos.
+d) Cifrado de datos.
+55.- ¿Qué es el CRC?
+a) Código de autenticación de mensajes.
+b) Procedimiento de firma digital.
+c) Código de detección de errores.
+d) Mecanismo de compresión.
+Página: 11 de 20
+56.- ¿Cuántos títulos tiene la Constitución Española?
+a) 8.
+b) 9.
+c) 10.
+d) 20.
+57.- Para detectar si una señal estéreo está en fase o contrafase usaremos un:
+a) Vúmetro estéreo.
+b) Picómetro estéreo.
+c) Sonómetro estéreo.
+d) Medidor de correlación.
+58.- ¿Cuál de los siguientes códigos de línea requiere mayor ancho de banda?
+a) NRZ-L.
+b) NRZ-M.
+c) NRZ-S.
+d) Manchester.
+59.- ¿Cuál de los siguientes formatos de imagen NO está definido en la recomendación ITU-R
+BT.2100?
+a) 1920 x 1080, 25p.
+b) 3840 x 2160, 25p.
+c) 1920 x 1080, 25i.
+d) 7680 x 4320, 30p.
+60.- ¿Cómo influye el tamaño del sensor en el rango dinámico de una cámara?
+a) El tamaño del sensor no influye en el rango dinámico de la cámara al ser un parámetro
+ligado al proceso opto eléctrico.
+b) Un sensor más pequeño proporciona un mayor rango dinámico al tener pixeles más
+pequeños su sensibilidad a la luz es mayor.
+c) El sensor más grande generalmente ofrece mayor rango dinámico, ya que capta más
+luz en cada píxel.
+d) No influye el tamaño del sensor sino la resolución temporal del formato utilizado en la
+cámara.
+Página: 12 de 20
+61.- ¿Cuál es la máxima profundidad de bits definida en la recomendación ITU-R BT.2020 para
+la representación digital de cada componente?
+a) 8 bits.
+b) 10 bits.
+c) 12 bits.
+d) 14 bits.
+62.- En el algoritmo BMCA, ¿cuál de los siguientes criterios tiene mayor peso en la elección
+del reloj maestro?
+a) Clase de reloj (clock class).
+b) Prioridad 2 (priority 2).
+c) Desviación del reloj (offset scaled log variance).
+d) Precisión del reloj (clock accuracy).
+63.- ¿Qué es un sistema SCADA?
+a) Un protocolo de red para controlar el flujo de paquetes.
+b) Un sistema de supervisión, control y adquisición de datos.
+c) Un tipo de modulación digital.
+d) Un sistema de codificación para señales de vídeo.
+64.- En un mezclador digital de audio trabajando a 48KHz, si recibo una señal digital a
+44,1KHz, para trabajar con ella tengo que:
+a) Meterla por una entrada analógica.
+b) Usar un PAD.
+c) Usar un SRC.
+d) No puedo meter una señal de 44,1 a una mesa de 48KHz.
+65.- En la generación de los cuadros tipo | (l frames) en H.262, para aplicar la DCT se divide
+cada cuadro en bloques de:
+a) 16 x 16 píxeles.
+b) 8 x 8 píxeles.
+c) 4 x 4 píxeles.
+d) 32 x 32 píxeles.
+Página: 13 de 20
+66.- En una retransmisión de un partido de fútbol en directo con estándar UHD con HDR, ¿cuál
+es la principal ventaja de utilizar la curva HLG (Hybrid Log Gamma) frente a PQ
+(Perceptual Quantizer)?
+
+a) HLG es más eficiente y permite más compresión en los datos al utilizar técnicas de
+wavelets.
+
+b) HLG permite una mayor profundidad de color y mayor rango dinámico, lo que mejora la
+calidad visual.
+
+c) HLG está definido para otros estándares como HD y 8k, mientras que PQ solo se puede
+utilizar en señales UHD.
+
+d) HLG tiene una mayor compatibilidad simultánea en equipamiento de monitorado con
+capacidad para visionar señales HDR y SDR (con WCG y al menos 10 bits de
+procesado).
+
+67.- ¿Cuántos píxeles por cuadro tiene una señal UHD 2160 50p en comparación con una
+señal HD 1080 251?
+
+a) 2 veces más.
+
+b) 4 veces más.
+
+c) 16 veces más.
+
+d) 8 veces más.
+
+68.- ¿Qué tipo de conector de fibra óptica es el que muestra la imagen?
+
+a) ST.
+
+b) SC-APC.
+
+c) LC.
+
+d) SC-PC.
+
+Página: 14 de 20
+69.- ¿Cómo se denomina la sección de un estudio de televisión donde se supervisa y decide
+qué imágenes formarán parte de la grabación y/o emisión?
+a) Control de Imagen.
+
+b) Cabina de Grabación.
+
+c) Cabina de Edición.
+
+d) Control de Realización.
+70.- ¿Cuántos bits hay en 4 KiB?
+
+a) 32000.
+
+b) 4000.
+
+c) 4096.
+
+d) 32768.
+
+71.- En un estudio de TV, ¿en cuál de los siguientes controles se usan los monitores de vídeo
+
+de mayor calidad?
+
+a) Control de realización.
+b) Control de cámaras.
+
+c) Control de iluminación.
+d) Control de sonido.
+
+72.- Según el artículo 56 de la Constitución Española, ¿quién es el jefe del estado?
+
+a) El presidente del Tribunal Constitucional.
+b) El primer ministro.
+
+c) El Fiscal general del Estado.
+
+d) El Rey.
+
+73.- En una red de media SMPTE ST 2110 hay 4 generadores con los siguientes parámetros
+de PTP (priority1, priority2, clock accuracy, clock variance, clock class): generador 1
+(127, 128, 20 ns, OxFFFF, 7), generador 2 (127, 129, 40 ns, OxFFFF, 6), generador 3 (128,
+128, 10 ns, OXFFFF, 7), generador 4 (128, 129, 60 ns, OxFFFF, 6). ¿Cuál elegiría el
+algoritmo BMCA como Grandmaster?
+
+a) Generador 1.
+b) Generador 2.
+Cc) Generador 3.
+d) Generador 4.
+Página: 15 de 20
+74.- ¿El protocolo IGMP soporta SSM (source specific multicast)?
+a) Sí, pero sólo en IGMPv2.
+b) No.
+c) Sí, pero sólo en IGMPv3.
+d) Sí, pero únicamente en IGMPv2 y en IGMPv3.
+75.- El protocolo DMX en estudios de TV se usa para:
+a) Controlar los servidores de playout.
+b) Control de la iluminación.
+c) Control serie del Tally.
+d) Conmutación programada de una matriz de SDI.
+76.- La siguiente imagen corresponde a un conector:
+|
+a) USB-A hembra.
+b) USB-B hembra.
+c) USB-C hembra.
+d) Mini USB hembra.
+77.- Elija la respuesta que NO es cierta en comunicaciones que utilizan protocolo SRT (Secure
+Reliable Transport):
+a) Se puede utilizar para transmisión de eventos en directo.
+b) Solo se puede utilizar en redes privadas donde hay un ancho de banda reservado de
+extremo a extremo para la comunicación.
+c) Implementa corrección de errores automáticos.
+d) Proporciona encriptado.
+Página: 16 de 20
+78.- ¿Qué espacio de color se define en la recomendación ITU-R BT.2100 para SDR?
+a) BT.709.
+b) DCI-P3.
+c) BT.2020.
+d) Ninguno.
+79.- Indica el tipo de micrófono que utilizarías si estas en un entorno ruidoso y quieres captar
+el sonido de un entrevistado situado en la parte frontal:
+a) Omnidireccional.
+b) Cardioide.
+c) Bidireccional.
+d) Inalámbrico.
+80.- ¿Cuál de los siguientes atributos fundamentales de la señal de sonido determina el tono
+o la altura del sonido?
+a) Intensidad.
+b) Velocidad.
+c) Frecuencia.
+d) Duración.
+81.- Para controlar el movimiento de una cabeza de cámara y el foco y zoom de su óptica,
+cuando no se dispone de un operador, ¿qué sistema debemos utilizar?
+a) Sistema de movimiento axial.
+b) Sistema de robotización.
+c) Sistema de monitorización.
+d) Sistema de rotación neumática.
+82.- ¿Cuál de los siguientes protocolos se usa en HTTPS para encriptar la comunicación?
+a) TLS.
+b) SSH.
+c) IPsec.
+d) Kerberos.
+Página: 17 de 20
+83.- Si comparamos la misma señal de vídeo codificada en formato 1080p50 utilizando la
+norma HD-SDI y la norma SMPTE ST 2110-20, ¿cuál de las siguientes afirmaciones es
+correcta?
+
+a) En formato HD-SDI se necesita menor ancho de banda para transmitir la señal.
+b) En formato HD-SDI necesita mayor ancho de banda para transmitir la señal.
+
+c) Ambos formatos requieren el mismo ancho de banda para transmitir la señal.
+d) No es posible codificar una señal de vídeo HD en formato ST 2110-20.
+
+84.- La tasa de transferencia de una señal HD-SDI 1080i50 sin compresión es de,
+
+aproximadamente:
+a) 270 Mbit/s.
+
+b) 1,5 Gbit/s.
+
+c) 3 Gbit/s.
+
+d) 6 Gbit/s.
+
+85.- Según la Constitución, ¿quiénes tienen derecho a sindicarse libremente?
+
+a) Los asalariados.
+
+b) Los trabajadores.
+
+c) Quienes presten servicios por cuenta ajena.
+d) Todos.
+
+86.- ¿Cuál de estas es una dirección IP multicast?
+
+a) 172.26.88.25.
+b) 192.168.0.1.
+c) 224.0.0.20.
+d) 10.0.50.20.
+
+87.- ¿Qué fenómeno ocurre cuando una onda electromagnética cambia de dirección al
+
+encontrar un obstáculo?
+a) Difracción.
+b) Reflexión.
+c) Absorción.
+d) Polarización.
+Página: 18 de 20
+88.- En la Constitución Española, ¿qué artículo, de los siguientes, trata acerca de las lenguas
+oficiales?
+a) 1.
+b) 2.
+c) 3.
+d) 4.
+89.- Una señal con compresión intraframe tiene un GOP de:
+a) 2 frames.
+b) 4 frames.
+c) 8 frames.
+d) No tiene GOP.
+90.- ¿Qué finalidad tiene la instalación de un SAI o UPS en una unidad móvil?
+a) Convertir de 220V a 24V la alimentación de la iluminación LED.
+b) Estabilizar la corriente de entrada.
+c) Conmutar automáticamente la corriente entre 2 entradas diferentes.
+d) Aportar energía en caso de corte eléctrico.
+91.- ¿Cuál de los siguientes protocolos de transporte es soportado en la especificación 1S-07
+de NMOS?
+a) WebSocket.
+b) RTP.
+c) MQOQT.
+d) SDP.
+92.- De las siguientes bandas de frecuencia utilizadas en transmisión de datos por satélite,
+indique cuál de todas es la banda de mayor frecuencia:
+a) Banda L.
+b) Banda C.
+c) Banda Ku.
+d) Banda Ka.
+Página: 19 de 20
+93.- ¿Cuál de las siguientes especificaciones de NMOS se encuentra en desuso y está
+discontinuada?
+a) 1S-04.
+b) IS-05.
+c) 1S-06.
+d) I1S-08.
+94.- ¿Qué protocolo de red se emplea para traducir direcciones IP a direcciones MAC?
+a) DHCP.
+b) DNS.
+c) ARP.
+d) RARP.
+95.- ¿Qué tipo de señal es un GPI?
+a) Una señal de disparo.
+b) Una señal de sincronismo.
+c) Una señal de radiofrecuencia.
+d) Una señal de audio analógico.
+96.- ¿Con qué equipo podemos medir la crominancia de una señal de vídeo?
+a) Medidor de tensión de color.
+b) Analizador de espectro.
+c) Monitor forma de onda.
+d) Vectorscopio.
+Página: 20 de 20

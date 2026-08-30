@@ -76,7 +76,7 @@ def baja_titulos(texto, saltos=1):
     return re.sub(r"(?m)^(#{1,5}) ", lambda m: "#" * (len(m.group(1)) + saltos) + " ", texto)
 
 
-def preguntas(banco, excluir=()):
+def preguntas(banco):
     """[(id, enunciado, respuesta)] del fichero del banco."""
     fuera = []
     for bloque in re.split(r"\n---\n", lee("banco/%s.md" % banco)):
@@ -84,8 +84,6 @@ def preguntas(banco, excluir=()):
         if not m:
             continue
         ident = "%s · nº %s" % (m.group(1).strip(), m.group(2))
-        if ident in excluir:
-            continue
         cuerpo = re.search(r"```\n(.*?)```", bloque, re.S)
         if not cuerpo:
             continue
@@ -99,19 +97,11 @@ def pinta_pregunta(n, ident, enunciado, con_respuesta=None):
     # sueltas en su renglón y se vuelven a pegar aquí para que se lea
     texto = re.sub(r"(?m)^([a-d])\)\s*$\n", r"\1) ", texto)
     lineas = [l for l in texto.split("\n") if l.strip()]
-    # el pie del cuadernillo («Página: 11 de 20») se cuela en la transcripción y
-    # no es parte de la pregunta. Es lo único que se quita: intentar además
-    # cortar donde parece empezar otra pregunta destrozaba las buenas, porque
-    # una opción como «d) 199.» tiene exactamente esa forma
-    lineas = [l for l in lineas if not re.match(r"\s*Página:?\s*\d+\s*de\s*\d+\s*$", l)]
-    if lineas and re.match(r"^\d+[.\-]", lineas[0]):
-        lineas[0] = re.sub(r"^\d+[.\-]+\s*", "", lineas[0])
-    pegada = any(re.search(r"\d+º\s*Llamamiento", l) for l in lineas)
+    # el pie de página ya lo quita el generador del banco; aquí solo sobra el
+    # número de la pregunta, que lo pone el volumen por su cuenta
+    if lineas and re.match(r"^\d+[.,\-]", lineas[0]):
+        lineas[0] = re.sub(r"^\d+[.,\-]+\s*", "", lineas[0])
     cuerpo = "<br>".join(lineas)
-    if pegada:
-        cuerpo += ('<div class="pegada">La transcripción del cuadernillo dejó aquí '
-                   '<b>dos preguntas seguidas</b>. Se imprime tal cual: recortarla a ojo '
-                   'sería inventar dónde acaba una y empieza la otra.</div>')
     extra = ""
     if con_respuesta:
         extra = '<div class="resp">Respuesta oficial: <b>%s</b></div>' % html.escape(con_respuesta)
@@ -181,16 +171,12 @@ hr { border:0; border-top:.5px solid #bbb; margin:1.4em 0; }
 .resp { font-size:9pt; margin-top:3px; }
 .errata { border-left:3px solid #111; background:#f0f0f0; padding:4px 8px; margin-top:4px;
           font-size:8.5pt; }
-.pegada { border-left:3px solid #999; padding:3px 8px; margin-top:4px; font-size:8pt;
-          color:#555; font-style:italic; }
 @media screen { body { max-width:190mm; margin:0 auto; padding:16mm 10mm; background:#fff; } }
 """
 
 
 def main():
     salida = sys.argv[1] if len(sys.argv) > 1 else "libro-general.html"
-    excluir = {l.strip() for l in lee("banco/g8-especifico.txt").split("\n")
-               if l.strip() and not l.startswith("#") and " · nº " in l}
 
     partes, indice_gral, total_preg = [], [], 0
     for i, (base, banco) in enumerate(TEMAS, 1):
@@ -221,7 +207,7 @@ def main():
         bloque.append('<section class="parte esquema"><h2>Esquema de repaso · tema %d</h2>%s</section>'
                       % (i, md.render(esquema)))
         if banco:
-            ps = preguntas(banco, excluir)
+            ps = preguntas(banco)
             total_preg += len(ps)
             rot = ("Preguntas reales de examen · temas 2 y 3" if banco == "g2-g3"
                    else "Preguntas reales de examen · tema %d" % i)
@@ -239,7 +225,11 @@ def main():
     resp = ['<section class="tema"><p class="rotulo">Apéndice</p>'
             '<h1>Respuestas oficiales</h1>',
             "<p>La respuesta es la de la <b>plantilla oficial</b> de cada cuadernillo. "
-            "Donde pone «sin plantilla» es que no se pudo emparejar. "
+            "Donde pone <b>«sin plantilla»</b> es que la plantilla de ese cuadernillo no se "
+            "puede leer: las de Gestión, Gestión-Abogado/A e Iluminación son tablas cuya "
+            "columna de letras el OCR pierde a partir de la segunda página, y una plantilla "
+            "leída a medias desplaza las respuestas sin avisar. Se prefiere no dar respuesta "
+            "a dar una corrida. "
             "<b>Tres respuestas oficiales están mal</b> y van marcadas: el volumen enseña "
             "la norma, no la plantilla.</p>"]
     for i, t in enumerate(TEMAS, 1):
@@ -290,11 +280,13 @@ cuadernillos de 2024, para comprobar si el tema se sostiene. <b>Las respuestas e
 del volumen</b>, no junto a la pregunta: con la respuesta a la vista no hay autoevaluación.</p>
 <p><b>Tres respuestas oficiales de 2024 están mal.</b> Van marcadas una a una en el apéndice,
 con el precepto que las desmiente. El temario enseña la norma, no la plantilla.</p>
-<p><b>Las preguntas se imprimen tal como salieron del cuadernillo.</b> Son transcripciones de
-PDF y traen sus costuras: en <b>33 de las 425</b> la transcripción dejó dos preguntas seguidas,
-y van señaladas. No se recortan a ojo porque adivinar dónde acaba una y empieza la otra sería
-inventar. Alguna, además, está clasificada en el tema que no le toca: la clasificación del banco
-es por palabras clave y así está advertido en <code>banco/README.md</code>.</p>
+<p><b>Las preguntas se imprimen tal como salieron del cuadernillo</b>, sin más limpieza que
+quitarles el pie de página. Son transcripciones de PDF y traen sus costuras: alguna trae una
+letra mal leída o las cuatro opciones antes que sus textos. <b>Están leídas una a una</b>: las
+que la clasificación por palabras clave había puesto en el tema que no les tocaba —o que no
+son del temario general— se recolocaron contra la fuente, y el reparto está en
+<code>banco/reclasificadas.tsv</code>. Las de prevención que en realidad son del tema del
+específico se imprimen en su propio volumen, no en este.</p>
 <p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto consolidado
 del BOE en su redacción a la fecha de corte, o en la fuente oficial que se cita en la
 trazabilidad de cada tema.</p>
@@ -305,6 +297,12 @@ trazabilidad de cada tema.</p>
 {''.join(partes)}
 {''.join(resp)}
 </body></html>"""
+
+    # si una errata deja de casar con su pregunta, desaparece del apéndice sin
+    # decir nada: el volumen volvería a dar por buena una plantilla que está mal
+    sueltas = set(ERRATAS) - {i for t in TEMAS if len(t) > 2 for i, _, _ in t[2]}
+    if sueltas:
+        print("  ! erratas sin pregunta a la que pegarse: %s" % ", ".join(sorted(sueltas)))
 
     ruta = os.path.join(RAIZ, salida)
     open(ruta, "w", encoding="utf-8").write(doc)

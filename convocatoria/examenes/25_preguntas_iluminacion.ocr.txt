@@ -1,0 +1,599 @@
+Ocupación tipo
+ILUMINACIÓN
+INSTRUCCIONES
+
+e Setrata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+e La prueba está compuesta por 96 preguntas (80 preguntas principales más 16 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+e Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
+solo elegir UNA de las cuatro opciones.
+
+e El sistema de valoración será el siguiente:
+
+o Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+o Cada pregunta no contestada, contestada de forma distinta a la indicada en las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+o Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+e Sila prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+e Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+e Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
+anteriormente facilitadas.
+
+e Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+Tiempo máximo: 120 minutos.
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+No se permite la reproducción total o parcial de este cuestionario.
+1.- Si la luz incidente sobre un objeto es de 800 lux y colocamos un difusor que reduce la luz
+en dos pasos, ¿cuál será la nueva intensidad de luz?
+a) 600 lux.
+b) 400 lux.
+c) 200 lux.
+d) 100 lux.
+2.- Cuando hablamos de racord de iluminación, nos referimos a:
+a) Continuidad en cantidad de luz.
+b) Elegir siempre los mismos proyectores.
+c) Tener diferentes contrastes.
+d) Tener diferentes temperaturas de color.
+3.- ¿Qué poder del Estado se encarga de hacer cumplir la Constitución?
+a) El Poder Legislativo.
+b) El Poder Judicial.
+c) El Poder Ejecutivo.
+d) Los partidos políticos.
+4.- ¿Qué tipo de iluminación se utiliza para separar al sujeto del fondo?
+a) Luz de contra.
+b) Luz principal.
+Cc) Luz de relleno.
+d) Luz cenital.
+5.- El número que sigue a las lámparas PAR, nos indica:
+a) El ancho de la lámpara.
+b) La distancia entre la lente y la lámpara.
+c) La longitud entera de la lámpara.
+d) La potencia de la lámpara.
+6.- España se constituye en un Estado social y democrático de Derecho, que propugna como
+valores superiores de su ordenamiento jurídico:
+a) La Monarquía Parlamentaria.
+b) La libertad, la justicia, la igualdad y el pluralismo político.
+c) Soberanía del pueblo español.
+d) La libertad, la igualdad y la fraternidad.
+Página: 1 de 17
+7.- ¿Que es la reflexion acromatica?
+a) Cuando la luz incide en un objeto.
+b) Cuando se refleja por igual todo las longitudes de onda.
+c) La acromatica no existe es la cromatica.
+d) Solo sale cuando trabajamos en clave baja.
+8.- ¿Cuál es el propósito de un difusor en la iluminación?
+a) Aumentar la intensidad de la luz.
+b) Crear sombras.
+c) Suavizar y distribuir la luz.
+d) Cambiar el color de la luz.
+9.- Una forma correcta de trabajar con los patrones cebra para exponer correctamente al
+tono de la piel de un actor seria:
+a) Abrir y cerrar rápidamente el diafragma.
+b) Encuadrar al actor hacer un balance de blancos.
+c) Ajustamos uno de los patrones cebra al 50%.
+d) Ajustar la gamma de registro.
+10.- Los procesos de provisión de plazas responderán, entre otros, al siguiente principio:
+a) Favorecer la competencia sexista en aras de ser más productivo.
+b) Estimular la emisión de una imagen igualitaria basada en los cánones de belleza.
+c) Promover el uso del lenguaje sexista.
+d) Promover el respeto, el conocimiento y la difusión del principio de igualdad de mujeres
+y hombres, velando por evitar cualquier forma de desigualdad y discriminación por
+razón de sexo en la actividad de la Corporación RTVE.
+11.- ¿Cuál es el valor del factor de magnificación de un objetivo si la distancia de enfoque
+está en el infinito?
+a) 3,1416
+b) 00
+c) Phi
+d) 0
+Página: 2 de 17
+12.- ¿Saturación es?
+a) la sensación que nos produce un determinado tono.
+b) Es cuando tenemos muchos colores.
+c) Esta todo muy difuminado.
+d) Una enfermedad del ojo.
+13.- La Aberración esférica, el Coma y el Astigmatismo son aberraciones de los sistemas
+ópticos fotográficos que se manifiestan debidos a la existencia de un:
+a) Ocular.
+b) Diafragma.
+c) Sistema de enfoque.
+d) Parasol.
+14.- ¿Qué efecto produce la luz de fondo?
+a) Reduce el contraste.
+b) Aumenta la profundidad.
+c) Enfoca el sujeto.
+d) Apaga los colores.
+15.- ¿Cuál es el valor de la constante de calibración “k” de la medición de luz reflejada de los
+fotómetros proporcionada por los fabricantes?
+a) 34263
+b) 340
+c) 271
+d) 12'5
+16.- ¿Qué filtro se usa para convertir luz de tungsteno en luz de día?
+a) CTO.
+b) CTB.
+c) ND.
+d) Polarizador.
+17.- En proyector con lente Fresnell, ¿Como abrimos o cerramos el haz de luz?
+a) Desplazando el parabólico.
+b) Desplazando la lampara.
+c) Desplazando la lente Fresnell.
+d) Desplazando conjunto parabólico y lampara a la vez.
+Página: 3 de 17
+18.- ¿Qué accesorio se utiliza para suavizar la luz y reducir las sombras?
+a) Difusor.
+b) Reflector.
+c) Bandera.
+d) Nido de abeja.
+19.- ¿Qué es la iluminancia en el contexto de la iluminación?
+a) La cantidad de luz emitida por una fuente.
+b) La luz que incide sobre una superficie.
+Cc) La luz reflejada por una superficie.
+d) La luz que perciben los ojos.
+20.- La penumbra generada por una fuente extensa, entendida como la zona más exterior de
+la sombra, aumenta:
+a) Cuanto más se aproxima el objeto al fondo donde se proyecta la sombra.
+b) Cuanta más grande sea el tamaño de la fuente.
+c) Cuanta más distante esté la fuente respecto el objeto.
+d) Cuanta menos extensa sea la fuente.
+21.- ¿Cómo afecta un filtro ND (Neutral Density) a la luz?
+a) Cambia la temperatura de color.
+b) Reduce la intensidad lumínica sin alterar la temperatura de color.
+c) Aumenta el contraste.
+d) Suaviza las sombras.
+22.- ¿Qué intensidad luminosa proporcionaría un proyector fresnel de 120.000 cd al situar
+delante de él una gelatina neutra ND 0'9 también conocida como ND8?
+a) 36.000 cd
+b) 15.000 cd
+c) 2.400 cd
+d) 30.000 cd
+23.- ¿Cómo afecta la temperatura de color a la percepción del ambiente?
+a) Solo afecta a los objetos oscuros.
+b) Puede crear una atmosfera cálida o fría.
+c) No tiene ningún efecto.
+d) Solo afecta a los espacios exteriores.
+Página: 4 de 17
+24.- ¿Cuál es la técnica que implica el uso de varias luces para crear una imagen equilibrada?
+a) Iluminación de clave baja.
+b) Iluminación de tres puntos.
+c) Iluminación de fondo.
+d) Iluminación de color.
+25.- ¿Cómo se conoce la asistencia de enfoque que colorea los bordes de los objetos que
+están enfocados?
+a) LUT.
+b) Focus Peaking.
+c) False Color.
+d) Patrón de Cebra
+26.- ¿Qué tipo de proyector es un “Sky trackers”?
+a) Un proyector Led.
+b) Un proyector wash.
+c) Un proyector hibrido.
+d) Un proyector rastreador de cielos.
+27.- Si se enfoca a la distancia hiperfocal:
+a) Quedarán enfocados únicamente los objetos que estén situados en el infinito.
+b) La profundidad de campo es indeterminada.
+c) Quedarán enfocados sólo los objetos situados en la mínima distancia de enfoque de la
+lente.
+d) La profundidad de campo se extiende desde el infinito hasta la mitad de la distancia
+hiperfocal.
+28.- ¿Cómo se compensa la pérdida de luz que se produce al desplazar horizontalmente 60%
+respecto del proyector que proporciona la luz principal?
+a) Abriendo un diafragma en cámara.
+b) Reduciendo a la mitad la luz incidente.
+c) Disminuyendo en -6 dB la ganancia en cámara.
+d) Alejando el proyector.
+Página: 5 de 17
+29.- ¿Qué herramienta se usa para controlar la dirección de la luz?
+a) Proyectores.
+b) Difusores.
+c) Bandas de luz.
+d) Banderas.
+30.- ¿Que es Suunto Tandem?
+a) Una brújula.
+b) Una carta especial de ajuste.
+c) Una brújula de precisión y un clinometro.
+d) Aparato para medir la luz.
+31.- La señal de video estándar está compuesta por:
+a) Luminancia.
+b) Crominancia.
+c) Brillo.
+d) La luminancia y la crominancia.
+32.- ¿Qué es la "Golden Hour" en fotografía e iluminación?
+a) El momento poco después del amanecer o antes del atardecer cuando la luz es cálida y
+suave.
+b) La luz del mediodía.
+c) Una técnica de luz artificial.
+d) Un tipo de iluminación de clave alta.
+33.- Cuanto más acercamos el personaje a la pared sobre la que se proyecta su sombra, la
+sombra será:
+a) más clara y distorsionada.
+b) más nítida y oscura.
+c) más difusa y diluida.
+d) más grande y desaturada.
+34.- ¿Qué es un “croma” en la iluminación de televisión?
+a) Una técnica de grabación.
+b) Un proyector de luz.
+c) Una técnica audiovisual para extraer un color de una imagen para remplazarla por otra.
+d) Un tipo de luz.
+Página: 6 de 17
+35.- Cuando trabajamos con pantalla de imagen tipo LED, ¿Qué medida nos da idea de su
+luminosidad?
+a) Nits.
+b) Lumenes.
+c) Candelas.
+d) Grados Kelvin.
+36.- ¿Qué es la "iluminación en clave alta”?
+a) Una iluminación oscura.
+b) Una iluminación brillante y poco contrastada.
+c) Una iluminación muy tenue.
+d) Una iluminación con sombras marcadas.
+37.- ¿Qué característica no es de una lámpara de neón?
+a) Baja luminancia.
+b) Eficiencia luminosa: entre 8 y 20 Im/W.
+c) Reproducción cromática: monocromática.
+d) Flujo luminoso elevado.
+38.- ¿Cuál es la diferencia clave entre 4K DCI y UHD 4K en términos de resolución?
+a) UHD 4K tiene más píxeles que 4K DCI.
+b) 4K DCI tiene 4096 píxeles de ancho, mientras que UHD tiene 3840.
+c) No hay diferencia en el número de píxeles.
+d) UHD 4K es el estándar para cine, mientras que DCI es para televisión.
+39.- ¿Qué significa que una Constitución sea "suprema"?
+a) Que solo el presidente puede modificarla.
+b) Que tiene validez solo en tiempos de guerra.
+c) Que solo protege a los ciudadanos y no al gobierno.
+d) Que está por encima de todas las demás leyes del país.
+40.- ¿En qué potencia máxima se fabrican los Fresnel de Tungsteno?
+a) 240000.
+b) 180000.
+c) 100000.
+d) 12000W.
+Página: 7 de 17
+41.- ¿Qué ventajas ofrecen los aparatos denominados PAR de descarga frente a los Fresnell
+de descarga?
+a) Menor índice de emisión de luz ultravioleta.
+b) Mayor rendimiento por vatio de consumo.
+c) Posibilidad de modificar el haz de luz mediante diferentes lentes.
+d) Mejor índice de reproducción cromática.
+42.- ¿Que es el flujo luminoso?
+a) Es la cantidad de luz que emite por segundo una fuente.
+b) Es la cantidad de color que emite una fuente.
+c) Es el brillo que emite una fuente.
+d) Es la calidad de la luz.
+43.- En un trípode, ¿Cómo se llama el tubo central con el diámetro mayor y donde se fijan las
+patas?
+a) Tramo.
+b) Columna o caña.
+c) Araña.
+d) Cabeza.
+44.- ¿Cuál es el espacio de color utilizado por Televisión de 4K-UHDTV?
+a) CMYK.
+b) Rec. 2020
+c) DCI-P3.
+d) ACES
+45.- ¿Para que se usan los filtros compensadores?
+a) Para introducir o compensar una dominante de color general a una escena.
+b) Para bajar o subir la intensidad de luz.
+c) No existen.
+d) Dar color al ambiente.
+46.- ¿Cuál es el tamaño de la imagen formada en el sensor de la cámara cuando el objeto está
+situado a una distancia igual del doble de la longitud focal?
+a) Doble tamaño del objeto.
+b) Mitad tamaño del objeto.
+Cc) NO se forma imagen alguna.
+d) Mismo tamaño del objeto.
+Página: 8 de 17
+47.- ¿Filtro de densidad neutra?
+a) absorben el exceso de luz sobre todo en exteriores.
+b) Suavizan impurezas de la piel.
+c) Resaltan mas los colores.
+d) Corrigen muy bien la temperatura de color.
+48.- ¿Cuál es la distancia aproximada a la que deberá estar la presentadora de pie para no
+proyectar su sombra sobre la pared del decorado situada detrás de ella, si el proyector
+que la ilumina frontalmente tiene una inclinación vertical de 45%?
+a) La distancia igual al doble de su altura
+b) La distancia similar a su estatura.
+c) La distancia igual a la mitad de la altura del proyector.
+d) La misma distancia del proyector que la ilumina.
+49.- ¿Qué dirección de luz se utiliza para resaltar la textura de la piel de un sujeto?
+a) Luz frontal.
+b) Luz de fondo.
+c) Luz lateral.
+d) Luz de suavizar.
+50.- ¿Qué es la fotometría?
+a) El estudio de la luz visible y su medición.
+b) El estudio de la luz infrarroja.
+c) El estudio de como afecta la luz a la salud.
+d) El estudio de tecnología de iluminación.
+51.- ¿El instrumento de medida, empleado en televisión para ver y medir la componente de
+color de la señal de video, se denomina?
+a) Oscilocopio.
+b) Colorscopio.
+c) Endoscopio.
+d) Vectrorscopio.
+52.- ¿Cómo se obtiene mayor sensación de profundidad en las imágenes?
+a) Aumentando la gamma en cámara.
+b) Aumentando el tiempo de obturación.
+c) Potenciando los contraluces y luces de fondo.
+d) Rebotando la luz.
+Página: 9 de 17
+53.- En iluminación de televisión, el término ”spill” se refiere a:
+a) La luz residual no deseada.
+b) La luz de fondo.
+Cc) El color de la luz.
+d) La dirección de la luz.
+54.- ¿Cómo logramos la máxima profundidad de campo atendiendo al tamaño del sensor de
+cámara, el tipo de objetivo y el diafragma utilizado?
+a) Sensor de cámara grande, objetivo macro y diafragma cerrado.
+b) Sensor de cámara pequeño, objetivo normal y diafragma abierto.
+c) Sensor de cámara grande, teleobjetivo y diafragma abierto.
+d) Sensor de cámara pequeño, objetivo angular, y diafragma cerrado.
+55.- ¿Cuál es el procedimiento por el cual se puede modificar la constitución?
+a) Referéndum.
+b) Enmienda.
+c) Revisión.
+d) Reforma.
+56.- ¿Qué herramienta se usa para medir la intensidad de la luz en una escena?
+a) Colorímetro.
+b) Fotómetro.
+c) Termómetro.
+d) Espectrómetro.
+57.- ¿Qué parámetro permite la corrección de la gamma en la zona de las altas luces con la
+finalidad de mantener vivas las texturas?
+a) Flare.
+b) RLAC.
+c) Knee.
+d) Black gamma.
+58.- Según el convenio ¿cómo se regula el descanso entre jornadas?
+a) Al menos 8 horas entre una jornada y otra.
+b) Al menos 12 horas entre una jornada y otra.
+Cc) Al menos 10 horas entre una jornada y otra.
+d) No se regula el descaso entre jornadas.
+Página: 10 de 17
+59.- ¿Cuál de los siguientes es un método para controlar el contraste de una imagen?
+a) Cambiar la posición de la cámara.
+b) Usar filtros de color.
+c) Ajustar las fuentes de luz.
+d) Usar diferentes formatos de grabación.
+60.- ¿Cuál es la unidad de medida de la intensidad luminosa?
+a) Lumen.
+b) Lux.
+c) Candela.
+d) Kelvin.
+61.- ¿Cuál es el órgano encargado de interpretar la Constitución Española?
+a) El Congreso de los Diputados.
+b) El Rey.
+c) El Tribunal Supremo.
+d) El Tribunal Constitucional
+62.- Profundidad de campo
+a) Rango de movimiento del plano focal.
+b) Rango de distancias del objeto dentro de un foco aceptable.
+c) Rango de ganancia de un objeto.
+d) Distancia focal.
+63.- ¿Qué es un "gel CTO" en iluminación?
+a) Un filtro para enfriar la temperatura de color.
+b) Un difusor para suavizar la luz.
+c) Un filtro para convertir la luz de día en luz de tungsteno.
+d) Un reflector para aumentar la intensidad lumínica.
+64.- Los procesos de provisión de plazas responderán, entre otros, al siguiente principio:
+a) Apoyar una cobertura de plazas lo más lenta posible con el fin de conseguir el
+candidato menos conflictivo.
+b) Favorecer la desigualdad en el trato con el fin garantizar cualquier forma de
+discriminación.
+c) Exclusión de la representación de las personas trabajadoras en las pruebas selectivas
+que se realicen.
+d) Idoneidad o mejor adecuación del candidato a los requerimientos profesionales de
+cada plaza.
+Página: 11 de 17
+65.- ¿Cuál es la principal fuente de luz utilizada en la iluminación de sets de televisión?
+a) Luz natural.
+b) Luz artificial.
+c) Luz de neón.
+d) Luz de vela.
+
+66.- ¿Cómo corregimos una desviación de tono Duv de +0'015 proporcionada por una fuente
+
+de luz?
+
+a) Situando una gelatina 1/8 PlusGreen sobre la fuente de luz.
+b) Situando un filtro CCO35G en cámara.
+
+c) Situando una gelatina 1/2 MinusGreen sobre la fuente de luz.
+d) Situando un filtro 80A en cámara.
+
+67.- ¿Qué característica distingue a la luz de "softbox" de otras fuentes de luz?
+
+a) Es una luz suave y difusa que minimiza las sombras duras.
+b) Es una luz extremadamente direccional.
+
+c) Aumenta el contraste de la escena.
+
+d) Cambia la temperatura de color de la luz.
+
+68.- Cómo se llama el formato de archivo utilizado para transferir los datos de una escena
+entre una consola de iluminación, un visualizador o un programa CAD, que contiene la
+descripción de la escena con la información de geometría, texturas y archivos GDTF.
+
+a) MVR
+b) CITP
+c) CRMX
+d) sACN
+
+69.- Si tenemos un sujeto con la tez muy alargada, ¿Cómo podemos ayudar a corregirlo?
+
+a) Acercando la cámara.
+b) Colocando la luz principal a un lado y una luz de relleno desde el lado contrario con una
+relación de contrate de 2:1.
+c) Colocando la luz principal en eje de cámara.
+d) Situar al personaje ligeramente ladeado a izquierda o derecha según convenga.
+Página: 12 de 17
+70.- Una fuente de luz que emite en todas las longitudes de onda se dice que tiene un
+espectro:
+
+a) Discontinuo.
+b) Mixto.
+
+c) Continuo.
+d) Rojo.
+
+71.- Un termocolorimetro puede proporcionar la siguiente información
+
+a) Los lúmenes que hay en una escena.
+
+b) Los metros .
+
+c) Los determinados nf.
+
+d) Desviación en corrección de color hacia el verde o el magenta.
+
+72.- A la sucesión infinita de números naturales que comienza por 0 y 1, y a partir de estos,
+cada término es la suma de los dos anteriores (0,1,1,2,3,5, 8,13,21,34,55, ...), presente en
+numerosas aplicaciones sobre el lenguaje matemático de la belleza, se conoce como
+Sucesión de:
+
+a) Gauss.
+
+b) Fibonacci.
+c) Pingala.
+d) Gursky.
+
+73.- ¿Qué tipo de luz produce sombras duras y bien definidas?
+
+a) Luz directa.
+b) Luz difusa.
+c) Luz rebotada.
+d) Luz filtrada.
+74.- ¿Dónde se encuentra la Rodopsina?
+a) En los conos.
+b) En los discos de los bastones.
+c) En el cristalino.
+d) En la pupila.
+Página: 13 de 17
+75.- ¿Qué ventaja tiene la iluminación LED sobre otras fuentes de luz?
+a) Genera más calor que las luces incandescentes.
+b) Necesita geles para cambiar su temperatura de color.
+c) Es más difícil de difuminar.
+d) Menor consumo energético y mayor vida útil.
+76.- ¿Qué es un Pulmón?
+a) Una bandera.
+b) Un filtro de densidad neutra.
+c) Una lámina perforada usada delante de una luminaria
+d) Una lámina perforada usada detrás de una luminaria.
+77.- ¿Que es Kicker?
+a) luz de contra, pero procede de una dirección cercana a los 135% medidos desde el
+contra puro.
+b) Es una media luz.
+c) Es una luz llave.
+d) Es luz decorativa.
+78.- ¿Cuál es el valor MIRED necesario para convertir una fuente de 3200k en 4100k?
+a) -125
+b) 69
+c) +90
+d) +70
+79.- ¿Que es torres de calle?
+a) Edificios altos en exterior.
+b) Aparatos de exteriores.
+c) Son elementos verticales que se colocan en las calles para iluminación lateral.
+d) Son telas negra opacas que cuelgan.
+80.- Para reducir el ancho de banda en la transmisión de TV en color, ¿Que señales de
+diferencia de color se crearon?
+a) R-Y + B-Y.
+b) G-Y + R-Y.
+c) B-Y + G-Y.
+d) R-Y + Y.
+Página: 14 de 17
+81.- ¿Qué debemos hacer si queremos crear una sombra definida con una bandera?
+a) Colocarla cerca del proyector.
+b) Alejarla del proyector.
+c) Alejar en lo posible el conjunto bandera y proyector a la escena.
+d) Las banderas no se usan para ese propósito.
+82.- La teoria de la emision Corpuscular explica:
+a) Los fenómenos de interferencia.
+b) Los fenomenos de difracción.
+c) los fenómenos de reflexión.
+d) Formación de los anillos de Newton.
+83.- ¿Cuál es una carta de resolución?
+a) The Wringer.
+b) Northern Lights SRW.
+c) HD Profesional.
+d) DSC Labs.
+84.- ¿Qué es la temperatura de color?
+a) La cantidad de luz que emite una fuente.
+b) La percepción de color de la luz.
+Cc) La medida de resistencia de un material.
+d) La intensidad de la sombra.
+85.- ¿Con qué otro nombre se conoce también una bandera cremer?
+a) Bandera francesa.
+b) Bandera de tela.
+c) Bandera americana.
+d) Bandera translucida.
+86.- ¿Para que se utiliza el HD College?
+a) Para comprobar el rango dinamico de la camara y evaluar el contraste.
+b) Para controlar la retro Iluminación.
+c) Para hacer esquemas de Iluminación.
+d) Para controlar los aparatos de iluminación.
+Página: 15 de 17
+87.- ¿Cuál es la relación de aspecto más cercana a la proporción aurea?
+a) 21:9.
+b) 16:9.
+c) 8:5.
+d) 4:3.
+88.- ¿Cuantos articulos tiene la Constitución Española ?
+a) 170.
+b) 169.
+c) 171.
+d) 180.
+89.- ¿Qué tipo de luminaria es mejor usar como luz de relleno para evitar sombras?
+a) luminarias de tamaño pequeño y poca potencia.
+b) Luminarias de área grande.
+c) Luminarias tipo fresnell.
+d) Luminarias con lentes plano-convexas.
+90.- ¿Cuál es la forma política del Estado español según la Constitución?
+a) Monarquía absoluta.
+b) República constitucionalista.
+c) Dictadura constitucional
+d) Monarquía parlamentaria
+91.- ¿Cuál era el mayor inconveniente del Arco voltaico?
+a) Su peso.
+b) La duración de los carbones.
+c) El consumo de energía.
+d) Su alto voltaje.
+92.- ¿Qué tipo de luz emiten las lámparas de incandescencia?
+a) Luz fría.
+b) Luz neutra.
+c) Luz cálida.
+d) Luz UV.
+Página: 16 de 17
+93.- Cuando una señal de video supera los 100 IRE se denomina:
+a) Rango legal.
+b) Rango comprimido.
+c) Rango extendido.
+d) Rango intermedio.
+94.- ¿Qué es la Yodopsina?
+a) El pigmento que contiene los conos y responsable de la visión del color.
+b) El pigmento que contiene los bastones para visualizar el color por la noche.
+c) Los discos de los bastones.
+d) Un tipo de enfermedad ocular que confunde ciertos colores.
+95.- ¿Qué es un “Pancake”?
+a) Una pinza tubular.
+b) Una linterna china.
+c) Una garra.
+d) Un tipo de chimera.
+96.- ¿Cuál es el riesgo de usar luz dura sin difusor?
+a) La imagen se verá tenue.
+b) Se crean sombras fuertes.
+Cc) La luz se dispersara.
+d) No habrá riesgo.
+Página: 17 de 17

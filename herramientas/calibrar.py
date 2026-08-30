@@ -56,9 +56,23 @@ def limpia(s):
     return re.sub(r"\s+", " ", s).lower()
 
 
+MARCA = r"(?m)^\s*(\d{1,3})\s*[.,\-–]{1,2}\s"
+OPCIONES = re.compile(r"(?m)^\s*a\)").search
+
+
 def preguntas(texto):
-    """Trocea el cuadernillo en preguntas por su numeración."""
-    marcas = list(re.finditer(r"(?m)^\s*(\d{1,3})\s*[.\-–]{1,2}\s", texto))
+    """Trocea el cuadernillo en preguntas por su numeración.
+
+    El salto de página (\x0c) no lleva salto de línea detrás, así que el pie y
+    la cabecera de la página siguiente quedan pegados al número de la pregunta
+    que abre esa página: «2º Llamamiento\x0c2º Llamamiento\x0c1.-». La marca
+    dejaba entonces de estar a principio de línea, la pregunta no se reconocía
+    y su texto se acumulaba dentro de la anterior: 83 preguntas de cuatro
+    cuadernillos, cada una fundida con su vecina y ninguna de las dos
+    contestable. Convertir el salto de página en salto de línea las recupera.
+    """
+    texto = texto.replace("\x0c", "\n")
+    marcas = list(re.finditer(MARCA, texto))
     # los números que aparecen dentro de las respuestas también casan, así que
     # solo se acepta la marca que continúa la numeración: 1, 2, 3...
     # el OCR se come algún número, así que se tolera un salto de uno
@@ -66,13 +80,32 @@ def preguntas(texto):
     for m in marcas:
         n = int(m.group(1))
         if n in (esperado, esperado + 1):
-            buenas.append(m)
+            buenas.append((n, m.start()))
             esperado = n + 1
+    buenas = recupera_la_primera(texto, marcas, buenas)
     fuera = []
-    for i, m in enumerate(buenas):
-        fin = buenas[i + 1].start() if i + 1 < len(buenas) else len(texto)
-        fuera.append((int(m.group(1)), texto[m.start():fin]))
+    for i, (n, ini) in enumerate(buenas):
+        fin = buenas[i + 1][1] if i + 1 < len(buenas) else len(texto)
+        fuera.append((n, texto[ini:fin]))
     return fuera
+
+
+def recupera_la_primera(texto, marcas, buenas):
+    """Rescata la pregunta 1 cuando el OCR le lee mal el número.
+
+    En el cuadernillo de Documentación la 1 sale como «4.», no continuaba la
+    serie y se descartaba entera; no se pegaba a ninguna, se perdía. Si la
+    serie arranca en la 2 y justo antes hay una marca con su juego de
+    opciones, esa marca es la 1. Lo confirma la plantilla: en ese examen la 1
+    es «d», y la opción d de ese bloque es la definición de perspectiva de
+    género del II Plan de Igualdad de RTVE.
+    """
+    if not buenas or buenas[0][0] != 2:
+        return buenas
+    previas = [m for m in marcas if m.start() < buenas[0][1]]
+    if not previas or not OPCIONES(texto[previas[-1].start():buenas[0][1]]):
+        return buenas
+    return [(1, previas[-1].start())] + buenas
 
 
 def clasifica(cuerpo, reglas):

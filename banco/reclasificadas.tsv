@@ -1,0 +1,155 @@
+# Preguntas que la clasificación por palabras clave coloca donde no toca.
+#
+# `herramientas/calibrar.py` reparte por palabras clave, y una palabra clave no
+# lee: «Constitución de capitales» la manda al tema de la Constitución y
+# «Corona» a la Corona, aunque la pregunta sea de matemática financiera o de
+# quién compuso la «Misa de la Coronación». Esta lista es el resultado de leer
+# las 472 entradas del banco una a una y decidir cada caso contra la fuente.
+# La aplica `herramientas/banco.py` después de clasificar, así que sobrevive a
+# regenerar el banco —que es justo lo que no hacía corregir los `banco/g*.md` a
+# mano—, y avisa de las filas cuya entrada ya no existe.
+#
+# destino:
+#   fuera            no es del temario general (materia propia del puesto,
+#                    actualidad, Estatuto de los Trabajadores, protección de
+#                    datos... nada de eso está en el programa del anexo 2)
+#   prl-especifico   es del tema de prevención del *específico* (Producción 18 ·
+#                    Documentación 7 · Información y Contenidos 11), no del
+#                    tema 8 del general
+#   g1 g2-g3 g4 g5 g6 g7 g8   el tema del general al que sí pertenece
+#
+# origen	nº	destino	motivo
+
+# ── del cajón de la Constitución (g1) ────────────────────────────────────────
+23_preguntas_gea	69	fuera	Matemática financiera. La casa «Constitución de capitales», que es una de las opciones
+54_preguntas_mecanica_a	25	fuera	Mecanismos: el piñón. La casa «Corona», otra de las opciones
+64_preguntas_profesor_orquesta	51	fuera	La «Misa de la Coronación» es de Mozart. La casa «Corona»
+31_preguntas_iyc	108	fuera	Quién preside hoy el Tribunal Constitucional: actualidad, no Constitución
+33_preguntas_iyc_2_llamamiento	35	fuera	Votación del Congreso sobre Venezuela: actualidad parlamentaria
+33_preguntas_iyc_2_llamamiento	68	fuera	Composición del Grupo Mixto de esta legislatura: actualidad
+33_preguntas_iyc_2_llamamiento	69	fuera	Resultado de la votación de la ley de amnistía: actualidad
+33_preguntas_iyc_2_llamamiento	74	fuera	Dónde se firmó el acuerdo de renovación del CGPJ: actualidad
+33_preguntas_iyc_2_llamamiento	81	fuera	Cuántos senadores hay hoy. La Constitución no fija el número
+33_preguntas_iyc_2_llamamiento	99	fuera	Evo Morales y el Tribunal Constitucional de Bolivia: actualidad internacional
+77_preguntas_produccion_asist	48	fuera	Nombramiento de la Presidencia de la AEPD: LO 3/2018, que no está en el programa
+78_preguntas_produccion_asist_2_llamamiento	46	fuera	Quién supervisa la LO 3/2018: la AEPD. Tampoco está en el programa
+66_preguntas_realizacion_a	2	g7	Licencias estatales por ondas hertzianas: art. 22 de la Ley 13/2022, no Constitución
+
+# ── del cajón de la Ley 17/2006 y la Ley 5/2017 (g2-g3) ──────────────────────
+09_preguntas_documentacion	24	fuera	Qué presidencia hizo la transformación del Ente Público: historia de RTVE
+83_preguntas_profesor_de_coro	17	fuera	Comisión de Programación de la Orquesta y Coro: materia propia del puesto
+05_preguntas_diseno_decorados	89	g4	Deducción de la aportación de los operadores: art. 6 de la Ley 8/2009
+77_preguntas_produccion_asist	60	g4	Exceso de ingresos sobre el límite de financiación: Ley 8/2009
+29_preguntas_igyciys	6	g5	Comité Intercentros: es el convenio quien lo compone
+29_preguntas_igyciys	8	g5	Comisión de producción interna: convenio, art. 8 (siete y siete, catorce)
+46_preguntas_iyc_radio_clasica	67	g5	Entrega del censo al Comité Intercentros: convenio
+46_preguntas_iyc_radio_clasica	81	g5	Faltas muy graves del art. 84: convenio
+81_preguntas_produccion	39	g5	Seguro especial por desplazamiento a zonas de conflicto: convenio
+62_preguntas_realizacion_asist_2_llamamiento	99	g5	Máximo de jornadas irregulares: convenio
+36_preguntas_ing_sup_industrial	92	g6	Ámbito temporal del II Plan de Igualdad
+48_preguntas_tec_informatica	21	g6	Comisión de Igualdad del II Plan
+77_preguntas_produccion_asist	66	g6	Códigos de conducta sobre igualdad: LO 3/2007, que el tema de igualdad sí trata
+
+# ── del cajón de la Ley 8/2009 (g4) ──────────────────────────────────────────
+09_preguntas_documentacion	60	g2-g3	Conservación de los archivos históricos: la respuesta es la Ley 17/2006
+40_preguntas_ing_sup_informatica	57	g2-g3	Para qué modifica la Ley 5/2017 a la Ley 17/2006
+
+# ── del cajón del convenio (g5) ──────────────────────────────────────────────
+09_preguntas_documentacion	75	fuera	IASA-TC 03, selección de la mejor copia: materia propia de Documentación
+23_preguntas_gea	13	fuera	Retención de IRPF: materia propia de Gestión
+23_preguntas_gea	63	fuera	Conceptos extrasalariales de la nómina: materia propia de Gestión
+23_preguntas_gea	82	fuera	Bases de cotización a la Seguridad Social: materia propia de Gestión
+23_preguntas_gea	18	fuera	Estatuto de los Trabajadores, que no está en el temario general
+23_preguntas_gea	21	fuera	Estatuto de los Trabajadores: indemnización por despido objetivo
+23_preguntas_gea	31	fuera	Estatuto de los Trabajadores: contratos temporales
+23_preguntas_gea	49	fuera	Estatuto de los Trabajadores: causas de suspensión del contrato
+19_preguntas_gestion_abogado_b	3	fuera	Estatuto de los Trabajadores: movilidad funcional
+19_preguntas_gestion_abogado_b	14	fuera	Estatuto de los Trabajadores, art. 85
+19_preguntas_gestion_abogado_b	16	fuera	Estatuto de los Trabajadores: descentralización productiva
+19_preguntas_gestion_abogado_b	19	fuera	Estatuto de los Trabajadores, art. 15.3
+19_preguntas_gestion_abogado_b	52	fuera	Estatuto de los Trabajadores, título III
+19_preguntas_gestion_abogado_b	69	fuera	Estatuto de los Trabajadores: cesión ilegal
+19_preguntas_gestion_abogado_b	82	fuera	Estatuto de los Trabajadores, art. 86
+60_preguntas_realizacion_asist	86	fuera	Estatuto de los Trabajadores: contrato de formación en alternancia
+62_preguntas_realizacion_asist_2_llamamiento	102	fuera	Estatuto de los Trabajadores: excedencia voluntaria
+19_preguntas_gestion_abogado_b	81	g2-g3	Vínculo del Presidente con la Corporación: art. 38.1 de la Ley 17/2006
+
+# ── del cajón de igualdad (g6) ───────────────────────────────────────────────
+09_preguntas_documentacion	61	g5	Suspensión del contrato del art. 96: convenio
+23_preguntas_gea	33	g5	Causas de extinción del contrato en el convenio
+
+# ── del cajón de la Ley 13/2022 (g7) ─────────────────────────────────────────
+19_preguntas_gestion_abogado_b	79	fuera	Sectores de competencia de la CNMC según la Ley 3/2013
+36_preguntas_ing_sup_industrial	30	g2-g3	Objeto de la Ley 17/2006
+62_preguntas_realizacion_asist_2_llamamiento	94	g5	Cambio de horario con disponibilidad 2 o 3: convenio, art. 49
+62_preguntas_realizacion_asist_2_llamamiento	103	g5	Días de vacaciones del convenio
+
+# ── del cajón de la Ley 31/1995 (g8) ─────────────────────────────────────────
+# Dos temas distintos caían en el mismo cajón: el 8 del general y el de
+# prevención del específico. Se separan aquí.
+09_preguntas_documentacion	51	prl-especifico	RD 488/1997, características de la pantalla
+13_preguntas_fx	29	prl-especifico	Accidente in itinere
+13_preguntas_fx	39	prl-especifico	Agente extintor para equipos eléctricos
+13_preguntas_fx	48	prl-especifico	Polvo frente a CO2
+23_preguntas_gea	6	prl-especifico	Trastornos musculoesqueléticos
+23_preguntas_gea	19	prl-especifico	Trastornos musculoesqueléticos de la extremidad superior
+23_preguntas_gea	48	prl-especifico	Factores de riesgo biomecánicos
+23_preguntas_gea	61	prl-especifico	Accidente in misión
+23_preguntas_gea	70	prl-especifico	Contingencia profesional, con el in itinere como respuesta
+23_preguntas_gea	88	prl-especifico	En qué norma se recoge el in itinere
+27_preguntas_ip	40	prl-especifico	Seguridad en el trabajo, una de las cuatro disciplinas preventivas
+27_preguntas_ip	73	prl-especifico	Accidente in itinere
+31_preguntas_iyc	62	fuera	Incendio de Campanar en febrero de 2024: actualidad
+33_preguntas_iyc_2_llamamiento	32	prl-especifico	Accidente in itinere
+36_preguntas_ing_sup_industrial	45	prl-especifico	Riesgos del uso prolongado de pantallas
+40_preguntas_ing_sup_informatica	1	prl-especifico	Accidente in misión
+52_preguntas_luminotecnia	28	prl-especifico	Qué es un interruptor diferencial: riesgo eléctrico
+54_preguntas_mecanica_a	34	prl-especifico	Agente extintor para un cuadro eléctrico
+60_preguntas_realizacion_asist	61	prl-especifico	Fatiga visual, Guía Técnica del RD 488/1997
+62_preguntas_realizacion_asist_2_llamamiento	52	prl-especifico	Fatigas por trabajo prolongado con pantallas
+62_preguntas_realizacion_asist_2_llamamiento	107	prl-especifico	Fatiga visual, Guía Técnica del RD 488/1997
+66_preguntas_realizacion_a	88	prl-especifico	RD 488/1997, distancia de la pantalla a los ojos
+70_preguntas_tese_a	96	prl-especifico	A partir de qué valores hay alta tensión: riesgo eléctrico
+77_preguntas_produccion_asist	76	prl-especifico	Definición de accidente in itinere
+77_preguntas_produccion_asist	77	prl-especifico	Riesgos de las pantallas de visualización
+77_preguntas_produccion_asist	89	prl-especifico	Diseño del puesto con pantallas y trastornos musculoesqueléticos
+78_preguntas_produccion_asist_2_llamamiento	9	prl-especifico	Accidente in itinere
+81_preguntas_produccion	29	prl-especifico	Medida preventiva contra los trastornos musculoesqueléticos
+81_preguntas_produccion	83	prl-especifico	Medidas preventivas y accidente in itinere
+13_preguntas_fx	2	fuera	La espuma de extinción para simular nieve: técnica de efectos especiales
+13_preguntas_fx	21	fuera	El incendio del Bazar de la Caridad y el nacimiento del cine: historia
+52_preguntas_luminotecnia	89	fuera	Refrigeración de la sala de dimmers: materia propia de Luminotecnia
+77_preguntas_produccion_asist	91	fuera	Intimidad en el uso de dispositivos digitales: LO 3/2018
+36_preguntas_ing_sup_industrial	7	fuera	RD 2267/2004, establecimientos industriales
+36_preguntas_ing_sup_industrial	14	fuera	RD 2267/2004, superficie del sector de incendio
+36_preguntas_ing_sup_industrial	19	fuera	RD 2267/2004, necesidades de agua
+36_preguntas_ing_sup_industrial	59	fuera	RD 2267/2004, caudal del abastecimiento contra incendios
+36_preguntas_ing_sup_industrial	64	fuera	RD 2267/2004, distancia máxima a las BIE
+
+# ── de los cinco cuadernillos releídos por OCR (2026-08-30) ──────────────────
+# Tres de ellos son de Gestión y Gestión-Abogado/A, donde el bloque común
+# convive con Estatuto de los Trabajadores, nómina y protección de datos: nada
+# de eso está en el temario general.
+15_preguntas_gestion	98	fuera	La Agencia Española de Protección de Datos: LO 3/2018
+15_preguntas_gestion	33	fuera	Las cinco partes de la organización según Mintzberg
+15_preguntas_gestion	9	fuera	Base de cotización del recibo salarial
+15_preguntas_gestion	23	fuera	Estatuto de los Trabajadores: contrato eventual por circunstancias de la producción
+15_preguntas_gestion	35	fuera	Complementos no salariales de la nómina
+15_preguntas_gestion	64	fuera	Estatuto de los Trabajadores, art. 41: modificaciones sustanciales
+15_preguntas_gestion	65	fuera	Estatuto de los Trabajadores: normativa básica del despido
+15_preguntas_gestion	75	fuera	Estatuto de los Trabajadores, art. 39.2
+15_preguntas_gestion	100	fuera	Qué quiere decir RGPD
+17_preguntas_gestion_abogado_a	93	fuera	Estatuto de los Trabajadores: diligencia debida del trabajador
+17_preguntas_gestion_abogado_a	35	fuera	Estatuto de los Trabajadores
+17_preguntas_gestion_abogado_a	43	fuera	Convenio estatutario frente a ley de rango superior: Estatuto de los Trabajadores
+17_preguntas_gestion_abogado_a	52	fuera	Estatuto de los Trabajadores: encomienda de funciones superiores
+17_preguntas_gestion_abogado_a	53	fuera	Estatuto de los Trabajadores: jornada de trabajo
+17_preguntas_gestion_abogado_a	66	fuera	Estatuto de los Trabajadores, art. 15
+17_preguntas_gestion_abogado_a	70	fuera	Estatuto de los Trabajadores, art. 39.2
+17_preguntas_gestion_abogado_a	77	fuera	Estatuto de los Trabajadores, art. 36: trabajo nocturno
+17_preguntas_gestion_abogado_a	94	fuera	Estatuto de los Trabajadores: convenios colectivos
+17_preguntas_gestion_abogado_a	18	fuera	Estatuto de los Trabajadores: movilidad geográfica de las víctimas
+17_preguntas_gestion_abogado_a	85	g7	Fiscalización económico-financiera de CRTVE: art. 60 de la Ley 13/2022
+15_preguntas_gestion	62	g4	Ingresos por comunicaciones comerciales: Ley 8/2009
+25_preguntas_iluminacion	10	g6	Principio de igualdad en la provisión de plazas
+15_preguntas_gestion	36	prl-especifico	Riesgos del trabajo con pantallas de visualización

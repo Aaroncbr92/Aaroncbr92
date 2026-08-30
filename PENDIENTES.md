@@ -17,8 +17,8 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
-_Ninguno. Los ocho que había se cerraron el 2026-08-30: cuatro investigándolos y
-aplicándolos, y cuatro que no eran trabajo pendiente sino avisos y decisiones mal archivados._
+_Los ocho que había se cerraron el 2026-08-30. La pasada de verificación del banco de
+preguntas, ese mismo día, abrió **uno nuevo**, al final de este cuaderno._
 
 ---
 
@@ -264,3 +264,27 @@ cierre para que quede el histórico del error propio.
   La Rioja y Navarra 1 → **58**. **La plantilla del examen acertaba.**
   **Aplicado en `temas/general/01-constitucion-espanola.md`**, artículo 69.
 
+
+---
+
+## Abiertos (reabierto el 2026-08-30)
+
+### 2026-08-30 · Tres plantillas oficiales que el OCR no sabe leer entera
+
+- **Dónde**: `convocatoria/examenes/16_plantilla_de_respuestas_gestion.pdf`,
+  `18_plantilla_de_respuestas_gestion_abogado_a.pdf` y
+  `26_plantilla_de_respuestas_iluminacion.pdf`.
+- **Qué pasa**: los tres PDF llevan la fuente incrustada **sin tabla de caracteres**, igual
+  que sus cuadernillos. Los cuadernillos se han recuperado rasterizando y pasando Tesseract;
+  **las plantillas no**. Son tablas de dos columnas —número y letra—: Tesseract lee bien la
+  primera página (`1 C`, `2 a`, `3 b`…) y **a partir de la segunda devuelve solo la columna de
+  números**. Probados los modos de segmentación 3, 4, 6, 11 y 12; ninguno recupera las letras.
+  Y lo poco que lee trae números mal leídos: el **5 sale como `9`**.
+- **Qué se ha hecho**: **no guardar ese OCR**. Una plantilla leída a medias desplaza las
+  respuestas sin avisar —es el mismo fallo que obligó a reescribir `plantilla()`— y es peor que
+  no tener ninguna. Las **67 preguntas** de esos tres cuadernillos entran en el banco marcadas
+  como **«sin plantilla»**, y el volumen imprimible lo explica en el apéndice de respuestas.
+- **Qué faltaría**: recortar la página por columnas **antes** de pasarle Tesseract, y validar
+  el resultado contra el número de preguntas del cuadernillo antes de darlo por bueno.
+- **Gravedad**: menor. No hay ningún dato equivocado en el banco; hay 67 preguntas cuya
+  respuesta oficial no se puede citar. El enunciado sí está, y con el tema delante se contestan.

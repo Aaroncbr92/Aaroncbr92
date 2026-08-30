@@ -49,8 +49,8 @@ pide un tramo, el tema trae la tabla entera.
 ## La prueba de que un tema está terminado
 
 El apartado 7 del manual manda inventar de diez a quince preguntas del estilo
-real. Aquí no hace falta inventarlas: `banco/` tiene **465 preguntas reales del
-bloque común con la respuesta oficial**. Un tema del bloque común no se da por
+real. Aquí no hace falta inventarlas: `banco/` tiene **475 preguntas reales del
+bloque común**, 437 de ellas con la respuesta oficial. Un tema del bloque común no se da por
 terminado hasta que contesta todas las suyas con el cuerpo delante.
 
 ## Orden

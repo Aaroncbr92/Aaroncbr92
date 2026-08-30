@@ -9,6 +9,13 @@ dos estaban mal colocadas (una de la Agencia Española de Protección de Datos y
 otra del derecho a la intimidad digital cayeron en Constitución y en prevención
 de riesgos, cuando son de la Ley Orgánica 3/2018).
 
+**Actualizado el 2026-08-30.** Las cifras se rehicieron después de arreglar el
+troceado por numeración, que fundía una pregunta por página en los cuadernillos
+maquetados a dos columnas: en Documentación se localizan ahora **96 de 96** y no
+94. El reparto completo de esa revisión está en
+`informes/verificacion-banco-2026-08-30.md`, y las preguntas mal colocadas —113
+en todo el banco— en `banco/reclasificadas.tsv`.
+
 ## Información y Contenidos · 120 preguntas · 19/10/2024
 
 Preguntas localizadas: 120
@@ -26,17 +33,17 @@ Preguntas localizadas: 120
 
 ## Documentación · 96 preguntas · 19/10/2024 (transcripción por OCR)
 
-Preguntas localizadas: 94
+Preguntas localizadas: 96
 
-| E · Materia propia del puesto                  |  68 | 72.3 % |
-| G1 · Constitución                              |   7 |  7.4 % |
-| E · Actualidad y cultura                       |   7 |  7.4 % |
-| E · Unión Europea e instituciones internacionales |   3 |  3.2 % |
+| E · Materia propia del puesto                  |  69 | 71.9 % |
+| G1 · Constitución                              |   7 |  7.3 % |
+| E · Actualidad y cultura                       |   7 |  7.3 % |
+| E · Unión Europea e instituciones internacionales |   3 |  3.1 % |
+| G6 · Igualdad (II Plan y Guía de RTVE)         |   2 |  2.1 % |
 | G2/G3 · Ley 17/2006 y Ley 5/2017               |   2 |  2.1 % |
 | G8 · Prevención de riesgos (Ley 31/1995)       |   2 |  2.1 % |
 | G5 · III Convenio Colectivo                    |   2 |  2.1 % |
 | G4 · Financiación (Ley 8/2009)                 |   2 |  2.1 % |
-| G6 · Igualdad (II Plan y Guía de RTVE)         |   1 |  1.1 % |
 
 ## Producción (Asistencia) · 96 preguntas · 19/10/2024
 
@@ -57,7 +64,7 @@ Preguntas localizadas: 96
 
 **El peso del bloque común no es el mismo en las tres.** Sumando las materias del
 temario general: en **Producción (Asistencia)** son 33 de 96 preguntas, un tercio
-del examen. En **Documentación** son 16 de 94 y en **Información y Contenidos**
+del examen. En **Documentación** son 17 de 96 y en **Información y Contenidos**
 22 de 120, en torno a una quinta parte. El mismo trabajo rinde el triple en
 Producción.
 

@@ -1,0 +1,707 @@
+Ocupación tipo
+INGENIERÍA TÉCNICA TELECOMUNICACIÓN
+INSTRUCCIONES
+
+e Setrata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
+
+e La prueba está compuesta por 96 preguntas (80 preguntas principales más 16 preguntas de
+reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
+preguntas principales fuera anulada), debiendo contemplar todas.
+
+e Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
+solo elegir UNA de las cuatro opciones.
+
+e El sistema de valoración será el siguiente:
+
+o Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
+o Cada pregunta no contestada, contestada de forma distinta a la indicada en las
+instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
+o Cada pregunta con contestación errónea penaliza 1/3 punto.
+
+e Sila prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
+e Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
+instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
+marca o señal distinta de las necesarias para contestar el ejercicio.
+
+e Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
+anteriormente facilitadas.
+
+e Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
+abandonar la prueba.
+
+Tiempo máximo: 180 minutos.
+Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+No se permite la reproducción total o parcial de este cuestionario.
+1.- ¿De las siguientes direcciones IPv4 cuál de ellas es una dirección reservada?
+
+a) 192.168.1.1
+
+b) 201.11.2.36
+
+c) 96.138.42.1.1
+
+d) 224.1.1.1
+
+2.- De acuerdo con el Ill Convenio Colectivo de CRTVE ¿Qué se considera falta muy grave?
+
+a) El abandono del servicio, aún después de finalizada la jornada laboral, cuando haya de
+producirse relevo por otra persona integrante del equipo sin que se haya presentado
+aquella, siempre que la empresa no conociese este imprevisto al inicio de la jornada
+laboral.
+
+b) Faltar al trabajo cinco o más días sin causa justificada en un periodo de 6 meses
+
+Cc) La falta de aseo personal
+
+d) El incumplimiento de las funciones encomendadas o de las instrucciones impartidas
+por las personas responsables orgánicos o funcionales, en materias relacionadas con
+el cometido profesional
+
+3.-  Laresolución de una señal de video UHD es:
+
+a) 3940x2260
+
+b) 3840x2160
+
+c) 1920x1080
+
+d) 4096x2150
+
+4.- ¿Cuál de estas afirmaciones NO es correcta a la hora de levantar un peso?
+
+a) Flexionar la espalda y mantener las piernas semiabiertas para tener más estabilidad de
+carga
+
+b) Acercar el cuerpo a la carga para centralizar el peso
+
+c) Utilizar las palmas de las manos para agarrar fuertemente la carga procurando seguir el
+contorno de la carga.
+
+d) Mantener la barbilla cerca del cuerpo. No estirar el cuello
+
+Página: 1 de 18
+5.- Respecto a las diferentes partes del estándar SMPTE 2110, ¿cuál de las siguientes
+respuestas es CORRECTA?.
+a) ST2110-10 Arquitectura y Sincronización. ST2110-20 Vídeo comprimido. ST2110-30
+Audio basado en AES67.
+b) ST2110-10 Arquitectura y Sincronización. ST2110-20 Vídeo sin compresión. ST2110-30
+Audio basado en AES3.
+c) ST2110-10 Arquitectura y Sincronización. ST2110-20 Vídeo sin compresión. ST2110-30
+Audio basado en AES67.
+d) ST2110-10 Vídeo con compresión. ST2110-20 Vídeo sin compresión. ST2110-30 Audio
+basado en AES67.
+6.- En una redacción digital integrada, ¿en qué departamento grabaríamos una señal de una
+agencia de noticias?
+a) Archivo
+b) Redacción
+c) Ingesta
+d) Continuidad
+7.-  EAV son las siglas en inglés de:
+a) Principio de video activo
+b) Duración de video activo
+c) Fin de video activo
+d) Codificación de video activo
+8.- ¿Cuál es la tasa de bits o data rate de la señal de vídeo de alta definición, según la norma
+SMPTE-292M?.
+a) 1,485 Gbps.
+b) 1,5 Gbps.
+Cc) 2,970 Gbps.
+d) 3 Gbps.
+9.- ¿Qué función cumple la Comisión del Mercado de las Telecomunicaciones (CMT) en
+España?
+a) Regular el uso del espectro radioeléctrico a nivel europeo
+b) Supervisar el cumplimiento de la normativa de protección de datos
+Cc) Garantizar la competencia efectiva en el mercado de las telecomunicaciones
+d) Desarrollar estándares técnicos para el despliegue de las redes 5G
+Página: 2 de 18
+10.- ¿En un sistema Dante cuantos canales bidireccionales a 24bits y 48KHz admite?
+a) 64.
+b) 128.
+c) 256.
+d) 512.
+11.- En una tabla de enrutamiento, ¿qué significa un prefijo de red 0.0.0.0/0?
+a) La red 0.0.0.0 es la red por defecto
+b) Es una ruta reservada
+c) Representa una ruta de broadcast
+d) Es la ruta por defecto para cualquier destino
+12.- ¿Cuál de las siguientes curvas o funciones de transferencia, no es una curva que permite
+trabajar con Alto Rango Dinámico?.
+a) Curva KNEE.
+b) Curva HLG.
+c) Curva S-Log3.
+d) Curva PQ.
+13.- ¿Cuál es el valor de la frecuencia usada en el burst de la señal PAL?
+a) 10.7 MHz
+b) 5.28 MHZ
+c) 4.43 MHz
+d) 21.4 MHz
+14.- ¿De qué trata específicamente la norma SMPTE 2022-77?
+a) Conmutación con protección total para flujos de vídeo sin comprimir
+b) Transporte de audio sobre IP
+c) Técnicas de compresión de vídeo
+d) Encapsulación de metadatos
+15.- En el diagrama de cromaticidad, ¿cuál de los siguientes espacios de color tiene mayor
+extensión, mayor gamut o que representa más colores?.
+a) REC. 709.
+b) REC. 601.
+c) REC. 2020.
+d) DCI-P3.
+Página: 3 de 18
+16.- Según la Constitución, diputados y diputadas que cometieran un supuesto delito...
+a) No pueden ser juzgados nunca, pues gozan de inmunidad nacional e internacional.
+b) Sólo pueden ser juzgados por el Tribunal Supremo, si el Congreso admite el suplicatorio.
+c) Pueden ser juzgados por delitos comunes sin necesidad de suplicatorio.
+d) Sólo pueden ser juzgados por delitos contra la seguridad vial.
+17.- ¿Qué protocolo evita lazos lógicos en redes Ethernet?.
+a) RTP.
+b) PTP.
+c) STP.
+d) RTMP.
+18.- Tenemos dos TC (timecode), de los cuales tenemos que hacer su resta (25fps). Calcula:
+(01:13:56:15)-(00:45:15:10)
+a) 00:29:43:00
+b) 00:28:41:05
+c) 01:59:12:00
+d) 00:27:36:05
+19.- ¿Puedo utilizar un distribuidor de video SDI para distribuir una señal ASI?
+a) No, una señal ASI tiene un formato incompatible con esos equipos.
+b) Si, es posible.
+c) No, la señal ASI tiene un bitrate diferente a la señal SDI que no soportan esos
+distribuidores.
+d) No, solo puedes utilizar distribuidores específicos para el formato ASI.
+20.- Para aumentar el rango dinámico de una conversión A/D de audio deberemos modificar...
+a) La frecuencia de muestreo
+b) La amplitud de la señal
+c) Invertir la fase
+d) Aumentar los bits de resolución
+21.- Para medir la relación SC/H de un black burst, usaremos:
+a) Un osciloscopio.
+b) Un monitor forma de onda.
+c) Un rasterizador SDI.
+d) Un vectorscopio.
+Página: 4 de 18
+22.- El tiempo de reverberación se define en dB como el tiempo de caída de una señal de
+audio cuando se desconecta de la fuente en...
+a) 3dB.
+b) 6dB.
+c) 12dB.
+d) 60dB.
+23.- Unas barras de color en SDI envían audio normalizado a un nivel de...
+a) -30 dBFs
+b) -40 dBFs
+c) O dBFs
+d) -18dBFs
+24.- La EBUR128:
+a) Recomienda sobre los formatos de compresión de video a utilizar en transmisiones vía
+satélite.
+b) Recomienda sobre los protocolos a usar en el ámbito de la UER en cuanto a
+transmisiones SRT.
+c) Recomienda sobre la normalización de la sonoridad y máximos niveles de audio.
+d) Recomienda sobre el uso de sistemas de reducción de ruido DOLBY B y C.
+25.- ¿Qué es una dirección de broadcast?
+a) Una dirección utilizada para enviar datos a todos los dispositivos en una red
+b) Una dirección utilizada para enviar datos a un dispositivo en una red
+c) Una dirección utilizada para enviar datos una red específica
+d) Una dirección reservada para multicast
+26.- En DVB-T, ¿por qué se utiliza la modulación COFDM?
+a) Para mejorar la resistencia a interferencias multipath
+b) Para reducir el retardo de transmisión
+c) Porque es menos compleja que otras modulaciones
+d) Porque requiere menos ancho de banda
+27.- ¿Qué se entiende por memoria caché de una cámara?.
+a) Es la memoria que registra los ajustes de colorimetría de la cámara.
+b) Es la memoria que almacena los metadatos de la grabación.
+c) Es la memoria que registra los ajustes de usuario del operador.
+d) Es la memoria que graba con anterioridad a la pulsación de REC y permite cambiar de
+disco o tarjeta sin pérdida de información.
+Página: 5 de 18
+28.- ¿Cuál es el protocolo más extendido en broadcast para iluminación?
+a) IMX50
+b) H264
+c) DMX512
+d) MPEG2
+29.- ¿Qué protocolo se utiliza comúnmente para actualizar las tablas de enrutamiento en un
+router?
+a) ARP
+b) RIP
+c) OSPR
+d) GRP
+30.- ¿Qué es NAT ?
+a) Un protocolo de enrutamiento para redes privadas
+b) Una tabla de resolución de direcciones MAC
+c) Un protocolo de asignación de redes IP
+d) Una técnica que permite traducir direcciones IP privadas a públicas
+31.- ¿Qué es el cable SMPTE 311M?.
+a) Cable TRIAXIAL para cámaras que transporta Video, Audio, Control y Alimentación
+eléctrica.
+b) Cable híbrido de FIBRA ÓPTICA para cámaras que transporta Video, Audio y Control.
+c) Cable TRIAXIAL para cámaras que transporta Video, Audio y Control.
+d) Cable híbrido de FIBRA ÓPTICA para cámaras que transporta Video, Audio, Control y
+Alimentación eléctrica.
+32.- ¿Qué es el dBm?
+a) Una medida de potencia eléctrica en relación a 1 milivatio
+b) Una medida de potencia eléctrica en relación a 1 milivoltio
+c) Una medida de potencia eléctrica en relación a 1 miliamperio
+d) Una medida de potencia eléctrica en relación a 10hmio
+33.- ¿Cuál es la impedancia de una conexión por BNC de vídeo SDI?.
+a) 50 ohmios.
+b) 110 ohmios.
+c) 75 ohmios.
+d) 600 ohmios.
+Página: 6 de 18
+34.- ¿Qué diferencia hay entre los formatos 4K y UHD?
+a) 4K tiene una resolución de 3840x2160 y UHD 4096x2160.
+b) 4K tiene una resolución de 4096x2160 y UHD 3840x2160.
+c) Son los mismos formatos con resolución de 3840x2160.
+d) El 4K utiliza técnicas de HDR.
+
+35.- ¿Cuál de las siguientes señales no se utiliza para sincronización?.
+
+a) AES10.
+b) AES11.
+c) Black Burst.
+d) Wordclock.
+
+36.- Según el artículo 21 de la ley de PRL (ley 31/1995), ante un riesgo grave e inminente...
+
+a) Un trabajador nunca puede abandonar su puesto de trabajo ante un riesgo grave e
+inminente.
+
+b) Sólo puede abandonar su puesto si el superior lo autoriza.
+
+c) Debe permanecer en su puesto si tiene los EPIs correspondientes.
+
+d) Ante un riesgo grave e inminente, puede abandonar su puesto de trabajo.
+
+37.- Que es un filtro dicroico en una cámara?
+
+a) Un filtro variable para compensar la temperatura de color.
+
+b) Un filtro que separa las componentes RGB en el bloque CCD.
+c) Un filtro reductor de ruido.
+
+d) Un filtro incorporado en el visor de cámara.
+
+38.- “La reconstrucción exacta de una señal en banda base a partir de sus muestras, es
+matemáticamente posible si la señal esta limitada en banda y la tasa de muestreo es
+superior al doble de su ancho de banda”, es el....
+
+a) Teorema de Beranek.
+
+b) Teorema de Nyquist-Shannon.
+c) Teorema de Cauchy.
+
+d) Teorema de Thomas.
+
+39.- La microfonía inalámbrica digital, utiliza el modo de transmisión...
+a) QAM
+b) FSK
+c) QPSK
+d) 16QAM
+
+Página: 7 de 18
+40.- ¿Qué formato de compresión trabaja con menos retardo?
+a) MPEG-4
+b) MPEG-2
+c) AVC
+d) JPEG2000
+41.- En la interfaz digital serie (SDI), ¿Qué codificación de bit se utiliza?
+a) NRZ
+b) Manchester
+c) Bifase
+d) RZ
+42.- ¿Qué tipo de modulación se usa en Televisión Digital Terrestre (DVB-T)?
+a) FM
+b) MXF
+c) GMSK
+d) COFDM
+43.- Según el Convenio lll de RTVE, respecto al teletrabajo, ¿cual de las siguientes
+afirmaciones es CORRECTA?.
+a) Es de carácter voluntario para el trabajador y obligatorio para la Empresa, que deberá
+aceptar la decisión que haya adoptado el trabajador.
+b) Es de carácter voluntario para la Empresa y obligatorio para el trabajador, que deberá
+aceptar la decisión que haya adoptado la Empresa.
+c) Es una decisión general de la Empresa, pero voluntario para el trabajador adherirse al
+teletrabajo, en las condiciones establecidas por la Empresa.
+d) Es de carácter voluntario para la Empresa y Trabajador, mediante acuerdo individual.
+44.- ¿Qué formato de vídeo tiene la TDT bajo estándar DVB-T2?.
+a) MPEG 2.
+b) MPEG-4 AVC.
+c) HEVC.
+d) XAVC.
+Página: 8 de 18
+45.- ¿Qué representa una dirección IP de clase A?
+
+a) Redes pequeñas con un pequeño número de hosts
+
+b) Redes medianas con un número equilibrado de hosts
+
+c) Redes grandes con un número muy elevado de hosts
+
+d) Redes reservadas para multicast
+
+46.- ¿Qué señal se puede transmitir por la interfaz 6G-SDI?.
+
+a) 2160p120.
+
+b) 2160p60.
+
+c) 1080p150.
+
+d) 2160p30.
+
+47.- Según el convenio colectivo de RTVE. EL complemento de polivalencia es...
+
+a) Complemento que percibirá la persona a quien se le encomiende la realización de
+funciones correspondientes a distintos ámbitos ocupacionales dentro del mismo grupo
+profesional.
+
+b) Complemento que percibirá la persona a quien se le encomiende la realización de
+funciones correspondientes a distintos ámbitos ocupacionales dentro de distintos
+grupos profesional
+
+c) Este complemento no existe dentro del convenio.
+
+d) Es un complemento asociado a la disponibilidad horaria
+
+48.- ¿Que es NICAM 728?
+
+a) Un sistema de transmisión de video.
+
+b) Un sistema de codificación de video.
+
+c) Un sistema de reducción de ruido.
+
+d) Un sistema de sonido digital.
+
+49.- ¿Cuál es la principal fuente de financiación de RTVE?
+
+a) Ingresos por publicidad no convencional, basada en patrocinios
+
+b) Venta de contenidos y derechos de sus producciones
+
+c) Prestación de servicios a terceros, como el acceso a sus archivos audiovisuales
+
+d) Presupuestos generales del estado
+
+Página: 9 de 18
+50.- ¿De qué se encarga el sistema de ingesta en una redacción digital?.
+a) De la grabación de las señales de entrada que se transfieren al almacenamiento para
+edición.
+b) De la ingesta de los metadatos para la catalogación del material audiovisual.
+c) De la ingesta de los archivos desde el sistema de edición al de emisión.
+d) De la incrustación de los rótulos en las ediciones, desde el sistema de titulación.
+51.- La alimentación phantom 48v se usa para:
+a) Alimentar micrófonos de cinta
+b) Alimentar micrófonos de condensador
+c) Alimentar tarjetas de sonido
+d) Suprimir la señal continua de una señal de micrófono
+52.- Queremos sonorizar una batería acústica en un concierto. ¿Qué tipo de micrófonos
+debemos usar, teniendo en cuenta los más de 90dB que tienen que captar?
+a) Micrófonos hipercardiodes
+b) Micrófonos de condensador
+c) Micrófonos dinámicos
+d) Micrófonos inalámbricos
+53.- ¿Qué dirección IP representa el broadcast en una red con máscara 255.255.255.0?
+a) 192.168.1.0
+b) 192.168.1.1
+c) 192.168.1.255
+d) 192.168.1.254
+54.- ¿Cuántos bits utiliza el protocolo de seguridad wifi WPA3 para su cifrado?
+a) 512
+b) 192
+c) 293
+d) 1024
+55.- En un diagrama de ojo podremos analizar:
+a) Jitter.
+b) Amplitud de las componentes YPbPr.
+c) Valor del bitrate de la señal.
+d) Ruido en las componentes YPbPr.
+Página: 10 de 18
+56.- ¿Qué órgano se encarga de velar por el cumplimiento de la Constitución Española?
+a) El Tribunal Constitucional
+b) El Congreso de los Diputados
+c) El Tribunal Supremo
+d) La Corona
+57.- Queremos conocer la ruta que ha seguido una dirección IP, para ello podemos valernos
+de la instrucción...
+a) followrt
+b) tracert
+c) routert
+d) whereisrt
+58.- ¿Cuál es la principal característica de los monitores de campo cercano en comparación
+con los de campo lejano?
+a) Proporcionan un sonido más preciso a corta distancia
+b) Son de mayor tamaño
+c) Están diseñados para escuchar a mayor distancia
+d) Tienen amplificadores integrados
+59.- ¿Por qué los estudios de producción de video en UHD utilizan 12G-SDI en lugar de 3G-
+SDI?
+a) Para reducir la longitud de los cables
+b) Porque 12G-SDI es compatible con señales SD y HD
+c) Porque 12G-SDI usa modulación NRZ
+d) Porque puede transmitir sin comprimir de señales 4K en un solo cable
+60.- ¿Cuál de estos sistemas NO esta soportado por la norma DVB?
+a) DVB-S
+b) DVB-T
+c) DVB-A
+d) DVB-C
+Página: 11 de 18
+61.- Según el Convenio Colectivo de RTVE. Fumar en cualquiera de los centros de trabajo e
+instalaciones de la Corporación RTVE, salvo en los espacios al aire libre de acuerdo con
+la legislación vigente se considerará como...
+
+a) Falta leve
+
+b) Falta grave
+
+c) Falta muy grave
+
+d) No se considera falta
+
+62.- ¿Cuál de las siguientes es una característica clave de SMPTE 2110?
+a) Encapsulación de vídeo, audio y metadatos en un único flujo
+b) Separación de vídeo, audio y metadatos en flujos independientes
+c) Uso de la compresión JPEG 2000 para vídeo
+d) Dependencia de la infraestructura SDI
+
+63.- En redes de control IP para equipamiento Broadcast. ¿Cómo se denomina el equipo que
+gestiona por red la configuración de los equipos audiovisuales?.
+a) Configuration Controller.
+
+b) Broadcast Controller.
+c) Controlador de Dominio.
+d) Router Controller.
+
+64.- ¿Cual NO es una característica principal del protocolo de audio DANTE?
+a) Es compatible con gran número de dispositivos de audio
+b) Permite transmitir varios canales de audio por un cable UTP
+c) Transmite señales de audio comprimidas de alta calidad
+d) Tiene una latencia muy baja
+
+65.- ¿Qué es el formato WAV?
+
+a) Un formato de audio con compresión con pérdida
+b) Un formato de audio con compresión sin pérdida
+c) Un formato de audio sin compresión
+d) Un formato para la transmisión de audio
+66.- ¿Qué especifica la normativa SMPTE-292M?.
+a) Serial digital interface definición estándar.
+b) Serial digital interface definición estándar con relación de aspecto 16:9.
+c) Serial digital interface alta definición a 1,5Gbps.
+d) Serial digital interface a 3Gbps.
+Página: 12 de 18
+67.- ¿Qué son las redes roja y azul en una instalación audiovisual basada en IP 21107.
+
+a) Son las 2 redes por las que se transmite la señal IP 2110, de forma balanceada, para
+proporcionar redundancia en caso de fallo de una de las redes.
+
+b) Son las 2 redes por las que se transmite la señal IP 2110, siendo la red roja por donde
+circula la señal y cambiando a la red azul, en caso de fallo de la red roja,
+proporcionando redundancia en caso de fallo.
+
+c) Son las 2 redes por las que se transmite la señal IP 2110. El vídeo va por la red roja y el
+audio y resto de señales por la red azul.
+
+d) Son las 2 redes por las que se transmite la señal IP 2110. El vídeo y audio va por la red
+roja y los datos auxiliares, textos, sincronismos y resto de señales van por la red azul.
+
+68.- Los satélites que trabajan en la banda Ku se caracterizan por...
+
+a) Enlace ascendente 2,5 GHz, enlace descendente 2,2 GHz.
+
+b) Enlace ascendente 6 GHz, enlace descendente 4 GHz.
+
+c) Enlace ascendente 8 GHz, enlace descendente 7 GHz.
+
+d) Enlace ascendente 14 GHz, enlace descendente 12 GHz.
+
+69.- El mínimo número de bits de muestreo que debo utilizar en una conversión analógico-
+digital para conseguir una relación señal/ruido de 60dB o superior es:
+
+a) 10.
+
+b) 8.
+
+c) 6.
+
+d) 12.
+
+70.- ¿Qué tipo de protocolo se debe usar para una transmisión lo más rápida posible sin
+necesidad de establecer una conexión y sin garantía de entrega?
+
+a) TCP
+
+b) ARP
+
+c) FEC
+
+d) UDP
+
+71.- ¿Cómo crees que es la carga computacional al descomprimir la señal de video en los
+dispositivos donde se reproduce?
+
+a) La mayoría de los algoritmos de codificación de video tienen una carga computacional
+simétrica en el codificador y decodificador.
+
+b) La carga computacional es muy superior al realizar la compresión de video que al
+descomprimirla.
+
+c) Depende de que sea o no el mismo algoritmo al comprimir y descomprimir.
+
+d) La carga computacional muy superior al descomprimir la señal de video que al
+comprimir.
+
+Página: 13 de 18
+72.- ¿Qué es el estándar MIDI?
+a) Un interfaz de audio multicanal
+b) Un protocolo de comunicación para instrumentos musicales electrónicos
+c) Un estándar de compresión de audio
+d) Un formato de transmisión de datos de audio
+73.- Un amplificador clase C se caracteriza por...
+a) Un bajo rendimiento
+b) Una elevada temperatura en ausencia de señal
+c) Un alto rendimiento y gran generación de armónicos
+d) Una absoluta linealidad para amplificadores de estudio
+74.- ¿Qué es SDTI?
+a) Un interfaz de transporte de video comprimido en paralelo.
+b) Un interfaz de transporte de video en paralelo con velocidad hasta seis veces la
+velocidad de reproducción en algunos equipos.
+c) Un interfaz de transporte de datos serie con velocidad hasta cuatro veces la velocidad
+de reproducción en algunos equipos.
+d) Un interfaz de transporte de datos serie con velocidad hasta ocho veces la velocidad de
+reproducción en algunos equipos.
+75.- ¿Qué es un reóstato?
+a) Un condensador variable.
+b) Un aparato de medida.
+c) Un resistor variable.
+d) Un control de temperatura.
+76.- ¿Qué se conoce como "DIM" en una mesa de sonido?
+a) Es un atenuador de ganancia de entrada.
+b) Atenúa el volumen de los monitores (control room) en una cantidad preestablecida.
+c) Permite escuchar solo el canal seleccionado.
+d) Se utiliza para seleccionar la frecuencia de ecualización.
+77.- ¿Qué es el formato AIFF?
+a) Un formato de audio con compresión con pérdida
+b) Un formato de audio sin compresión desarrollado por Apple
+c) Un estándar de transmisión de audio
+d) Un protocolo de codificación de audio profesional
+Página: 14 de 18
+78.- ¿Qué especifica la norma SMPTE 2110-2072.
+a) Transporte de señal de vídeo sin comprimir.
+b) Transporte de señal de vídeo comprimida con constante bit rate.
+c) Transporte de señal de audio AES3.
+d) Transporte de señal de audio AES67.
+79.- ¿Cuál de los siguientes es un estándar de compresión de video utilizado en televisión
+digital?
+a) PCM-2
+b) MPEG-2
+c) AES3id
+d) SD/HD-SDI
+80.- En la siguiente dirección de red IPv4 172.16.4.0 /24 ¿cuál es el rango de host?
+a) de 1 a 254.
+b) de 1 a 126.
+c) de l a 62.
+d) de 1 a30.
+81.- ¿Qué se puede medir con un vectorscopio?.
+a) El jitter de la señal digital.
+b) La componente Y de la señal de vídeo.
+c) Luminancia.
+d) Crominancia.
+82.- Puede trasmitir tanto señal de video analógica como digital.
+a) VGA
+b) DVI
+c) HDMI
+d) DP
+83.- Cuál es el número máximo de canales de audio digital en un sistema MADI
+a) 64
+b) 32
+c) 16
+d) 8
+Página: 15 de 18
+84.- ¿Para que sirve la señal BOWTIE?
+a) Para medir problemas entre componentes Y, Pb y Pr.
+b) Para medir distorsiones en una señal HD-SDI.
+c) Para medir distorsión amplitud/frecuencia.
+d) Para medir ganancia diferencial.
+85.- Según el texto del Plan de Igualdad de RTVE, ¿cuál de estas ocupaciones tipo es la más
+feminizada?
+a) Luminotecnia
+b) Imagen personal
+c) Técnica equipos y sistemas electrónicos
+d) Gestión administrativa.
+86.- Cuando conectamos un PC a un HUB a través de un cable de datos y RJ45...
+a) Debemos conectarlos con un RJ45 normal y el otro RJ45 cruzado
+b) Debemos conectorizar ambos RJ45 según código de color cruzados
+c) Debemos conectorizar ambos RJ45 según código de color normales
+d) Todos los HUB reconocen cualquier tipo de conexión y se adaptan
+87.- ¿Qué es ARP?
+a) Un protocolo para resolver direcciones IP a direcciones MAC
+b) Un protocolo para resolver direcciones entre redes
+c) Un protocolo para asignar direcciones DNS
+d) Un protocolo para asignar direcciones IP
+88.- Para actuar sobre una banda estrecha de frecuencias deberemos usar...
+a) Un "Q” ancho.
+b) Un "Q" bajo.
+c) Un "Q” bajo y ancho.
+d) Un "0" alto.
+89.- ¿Qué distancia máxima admite un cable UTP CAT 57?
+a) 10 metros.
+b) 50 metros.
+c) 100 metros.
+d) 1000 metros.
+Página: 16 de 18
+90.- ¿Qué hace un MAM en una redacción digital?.
+a) Es el planificador de las ingestas automáticas en el sistema de redacción.
+b) Posibilita la gestión del vídeo y ficheros multimedia en el sistema de redacción.
+c) Es el que realiza la transferencia de las ediciones terminadas, hasta los servidores de
+emisión.
+d) Es el que realiza el conformado de las ediciones terminadas, hasta el sistema de
+archivo.
+91.- El sistema "MS" de grabación de sonido estéreo utiliza dos fuentes con patrones...
+a) Un patrón cardiode y otro bidireccional.
+b) Dos patrones cardiodes.
+c) dos patrones bidireccionales.
+d) dos patrones hipercardiodes.
+92.- ¿Para que sirve el control SHUTTER en una cámara de video?
+a) Para variar la ganancia.
+b) Para modificar la velocidad de obturación.
+c) Para variar la temperatura de color de trabajo.
+d) Para variar la resolución de la cámara.
+93.- Los protocolos utilizados en una transmisión de IPTV habitualmente son RTP y UDP. ¿A
+qué capas de la arquitectura TCP/IP pertenecen?
+a) RTP no puede ser utilizado nunca junto con el protocolo UDP.
+b) El protocolo UDP pertenece a la capa de transporte y el protocolo RTP a la capa de
+aplicación.
+c) El protocolo UDP pertenece a la capa de aplicación y el protocolo RTP a la capa de
+transporte.
+d) Tanto UDP como RTP pueden pertenecer a cualquier capa.
+94.- De acuerdo con el lll Convenio Colectivo de CRTVE, ¿Cuál de las siguientes afirmaciones
+sobre el Teletrabajo fuera del horario habitual NO es cierta?
+a) No podrá repercutir negativamente sobre el resto de compañeros
+b) Las personas trabajadoras acogidos a este sistema de trabajo tendrán igualmente
+derecho a la desconexión digital
+Cc) Generarán compensación económica distinta de la que correspondiera por razón de su
+puesto de trabajo en forma presencial
+d) Será siempre a instancia de la persona teletrabajadora, y podrá admitirlo su unidad con
+carácter excepcional si el tipo de trabajo desempeñado así lo permite y en tanto
+organizativamente sea posible
+Página: 17 de 18
+95.- ¿Qué es el modelo TCP/IP?
+a) Un modelo de referencia con 7 capas
+b) Un modelo de 4 capas utilizado en redes de comunicaciones
+c) Un estándar de compresión de audio y video
+d) Un protocolo de enrutamiento dinámico de tráfico
+96.- ¿Qué establece el EECC sobre la cobertura de redes de alta capacidad?
+a) Que los operadores deben garantizar cobertura en zonas rurales
+b) Que los Estados miembros deben garantizar cobertura de redes de alta capacidad para
+todos los ciudadanos
+c) Que la cobertura de redes 56 es obligatoria en toda la UE
+d) Que los Estados miembros deben garantizar cobertura de redes de alta capacidad para
+todas las localidades de más de 10.000 habitantes
+Página: 18 de 18

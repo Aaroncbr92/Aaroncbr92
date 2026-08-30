@@ -58,9 +58,15 @@ en Documentación y en Producción (Asistencia).
 - [x] Comprobado que **las preguntas se repiten**: entre ocupaciones de la misma
       convocatoria y entre convocatorias, a veces palabra por palabra
       (`informes/preguntas-repetidas.md`).
-- [x] **`banco/`: 465 preguntas reales del bloque común con su respuesta oficial**
-      (447 de 465). Sustituye a las preguntas inventadas del apartado 7 del
-      manual.
+- [x] **`banco/`: 504 preguntas reales** —475 del bloque común y 29 del tema de
+      prevención del específico— **con su respuesta oficial** en 437 de ellas.
+      Sustituye a las preguntas inventadas del apartado 7 del manual.
+- [x] **Pasada de verificación sobre el banco**, leyendo las preguntas una a una
+      (`informes/verificacion-banco-2026-08-30.md`): el salto de página fundía
+      **83 preguntas** con la de al lado, cinco cuadernillos ilegibles no
+      aportaban **93 más** y nada daba error, y **113 estaban en el cajón
+      equivocado**. Las correcciones viven en `banco/reclasificadas.tsv`, que
+      `banco.py` aplica al regenerar y cuyas filas huérfanas avisa.
 - [x] `herramientas/boe.py --fecha AAAAMMDD`: lee la ley como estaba ese día.
 - [x] Las tres lentes de refutación, automatizadas y reutilizables en cualquier
       tema: `refutar_exactitud.py`, `refutar_modo.py` y `refutar_prosa.py`.
