@@ -67,6 +67,10 @@ en Documentación y en Producción (Asistencia).
       aportaban **93 más** y nada daba error, y **113 estaban en el cajón
       equivocado**. Las correcciones viven en `banco/reclasificadas.tsv`, que
       `banco.py` aplica al regenerar y cuyas filas huérfanas avisa.
+- [x] `herramientas/word.py`: el mismo volumen en **.docx con estilos de Word con
+      nombre** y **sin una sola línea de formato a mano**, para poder darle el formato
+      en Word y devolverlo. Lo que vuelva en `word/styles.xml` se traslada al CSS de
+      `libro.py`. `--temas 1` saca solo un tema.
 - [x] `herramientas/boe.py --fecha AAAAMMDD`: lee la ley como estaba ese día.
 - [x] Las tres lentes de refutación, automatizadas y reutilizables en cualquier
       tema: `refutar_exactitud.py`, `refutar_modo.py` y `refutar_prosa.py`.

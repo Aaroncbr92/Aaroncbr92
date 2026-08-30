@@ -91,17 +91,64 @@ def preguntas(banco):
     return fuera
 
 
-def pinta_pregunta(n, ident, enunciado, con_respuesta=None):
-    texto = html.escape(enunciado)
-    # el enunciado viene del PDF del cuadernillo: las letras de opción quedan
-    # sueltas en su renglón y se vuelven a pegar aquí para que se lea
-    texto = re.sub(r"(?m)^([a-d])\)\s*$\n", r"\1) ", texto)
-    lineas = [l for l in texto.split("\n") if l.strip()]
-    # el pie de página ya lo quita el generador del banco; aquí solo sobra el
-    # número de la pregunta, que lo pone el volumen por su cuenta
+CIERRA = re.compile(r"[.:;?!)]\s*$")
+
+
+def ordena_opciones(enunciado):
+    """Separa el enunciado de sus opciones: (enunciado, opciones, sin_texto).
+
+    Al extraer el PDF las letras de opción quedan sueltas en su renglón. A veces
+    cada una va justo encima de su texto; en otros cuadernillos salen **las
+    cuatro seguidas y detrás los cuatro textos**, y además cada texto puede
+    ocupar varios renglones. Pegar cada letra con el renglón siguiente juntaba
+    «a) b)» y mandaba las respuestas al enunciado.
+
+    Se lleva una cola de letras pendientes: un renglón **continúa** la opción
+    abierta mientras esa opción no haya cerrado frase, y **abre** la siguiente
+    cuando sí. De 504 preguntas, 502 salen con sus cuatro opciones. En las dos
+    que no —opciones que el cuadernillo corta sin punto final— se devuelven las
+    letras que se quedaron sin texto en vez de repartir a ojo, porque adivinar
+    qué texto va con qué letra es enseñar mal justo lo que se va a memorizar.
+    """
+    lineas = [l.strip() for l in enunciado.split("\n") if l.strip()]
     if lineas and re.match(r"^\d+[.,\-]", lineas[0]):
         lineas[0] = re.sub(r"^\d+[.,\-]+\s*", "", lineas[0])
-    cuerpo = "<br>".join(lineas)
+    cabeza, pendientes, opciones, abierta = [], [], [], False
+    for linea in lineas:
+        # el OCR dibuja la «c)» de doce preguntas como «Cc)», y con la letra sin
+        # reconocer esa opción se fundía con la anterior
+        if linea.startswith("Cc)") and [x[0] for x in opciones] == ["a", "b"]:
+            linea = linea[1:]
+        suelta = re.fullmatch(r"([a-d])\)", linea)
+        pegada = re.match(r"^([a-d])\)\s+(.*)$", linea)
+        if suelta:
+            pendientes.append(suelta.group(1))
+            abierta = False
+            continue
+        if pegada and not pendientes:
+            opciones.append("%s) %s" % pegada.groups())
+        elif abierta and opciones:
+            opciones[-1] += " " + linea
+        elif pendientes:
+            opciones.append("%s) %s" % (pendientes.pop(0), linea))
+        elif opciones:
+            opciones[-1] += " " + linea
+        else:
+            cabeza.append(linea)
+            continue
+        abierta = not CIERRA.search(linea)
+    return " ".join(cabeza), opciones, pendientes
+
+
+def pinta_pregunta(n, ident, enunciado, con_respuesta=None):
+    cabeza, opciones, sin_texto = ordena_opciones(enunciado)
+    cuerpo = "<br>".join(html.escape(x) for x in [cabeza] + opciones if x)
+    if sin_texto:
+        cuerpo += ('<div class="suelta">El cuadernillo corta estas opciones sin punto '
+                   'final, así que la transcripción no marca dónde acaba cada una y '
+                   '<b>%s se queda sin texto</b>. Se imprime como salió: repartirlo a ojo '
+                   'sería inventar.</div>'
+                   % ", ".join("la %s)" % l for l in sin_texto))
     extra = ""
     if con_respuesta:
         extra = '<div class="resp">Respuesta oficial: <b>%s</b></div>' % html.escape(con_respuesta)
@@ -169,6 +216,8 @@ hr { border:0; border-top:.5px solid #bbb; margin:1.4em 0; }
 .ptexto { flex:1; }
 .pfuente { font-size:7.5pt; color:#888; font-family:Helvetica,Arial,sans-serif; margin-top:2px; }
 .resp { font-size:9pt; margin-top:3px; }
+.suelta { border-left:3px solid #999; padding:3px 8px; margin-top:4px; font-size:8pt;
+          color:#555; font-style:italic; }
 .errata { border-left:3px solid #111; background:#f0f0f0; padding:4px 8px; margin-top:4px;
           font-size:8.5pt; }
 @media screen { body { max-width:190mm; margin:0 auto; padding:16mm 10mm; background:#fff; } }
