@@ -15,6 +15,8 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `herramientas/boe.py` | Lector de legislación consolidada del BOE. |
 | `herramientas/refutar_*.py` | Las cuatro lentes de refutación: exactitud, modo verbal y salvedades, prosa, y contraste contra documento sin articulado. |
 | `herramientas/indice.py` | Genera la **portada** y el **índice** de cada tema, y comprueba que las rutas que citan existen. Se vuelve a pasar cuantas veces haga falta. |
+| `herramientas/libro.py` | Arma el **bloque general en un volumen imprimible**: ficha, cuerpo, esquema y preguntas reales de cada tema, y las respuestas al final. |
+| `herramientas/pdf.py` | Convierte ese volumen en PDF con el Chromium del entorno. |
 | `esquemas/` | Un esqueleto de repaso por tema. Estilo telegrama, con el artículo delante de cada línea. |
 | `banco/` | Preguntas reales de convocatorias anteriores con su respuesta oficial. |
 | `ESTADO.md` | Qué hay hecho, qué falta, dónde vive cada cosa. |
@@ -36,6 +38,9 @@ herramientas/boe.py precepto BOE-A-2006-9958 a11        # cadena + redacción vi
 # portada e índice de todos los temas, regenerables
 python3 herramientas/indice.py                          # todos
 python3 herramientas/indice.py temas/general/07-*.md    # uno
+
+# volumen imprimible del bloque general
+python3 herramientas/libro.py && python3 herramientas/pdf.py
 ```
 
 Lo que hace por ti en cada precepto:

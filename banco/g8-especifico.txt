@@ -1,0 +1,57 @@
+# Preguntas de `g8.md` que NO son del tema 8, sino del tema de PRL del específico
+
+El banco clasifica por palabras clave y mete en un mismo cajón dos temas del
+programa: la **Ley 31/1995** (tema 8 del general) y el tema de **prevención del
+específico** (Producción 18 · Documentación 7 · Información y Contenidos 11), que
+es el de pantallas de visualización, trastornos musculoesqueléticos, incendios y
+accidente in itinere o in misión.
+
+Esta lista es la de **las que son del específico**, verificada leyéndolas una a
+una y documentada en `informes/cobertura-tema-prl-especifico.md`. La usa
+`herramientas/libro.py` para no meterlas en el volumen del general.
+
+**Cuidado con una**: la entrada `78_preguntas_produccion_asist_2_llamamiento · nº 78`
+trae **pegada en la transcripción** la pregunta 79, que sí es del tema 8 —cuántos
+Delegados de Prevención debería tener RTVE—. Por eso el reparto son **52 y 40
+preguntas en 91 entradas**.
+
+09_preguntas_documentacion · nº 51
+13_preguntas_fx · nº 2
+13_preguntas_fx · nº 21
+13_preguntas_fx · nº 29
+13_preguntas_fx · nº 39
+13_preguntas_fx · nº 48
+23_preguntas_gea · nº 6
+23_preguntas_gea · nº 19
+23_preguntas_gea · nº 48
+23_preguntas_gea · nº 61
+23_preguntas_gea · nº 70
+23_preguntas_gea · nº 88
+36_preguntas_ing_sup_industrial · nº 7
+36_preguntas_ing_sup_industrial · nº 14
+36_preguntas_ing_sup_industrial · nº 19
+36_preguntas_ing_sup_industrial · nº 45
+36_preguntas_ing_sup_industrial · nº 59
+36_preguntas_ing_sup_industrial · nº 64
+40_preguntas_ing_sup_informatica · nº 1
+27_preguntas_ip · nº 40
+27_preguntas_ip · nº 73
+31_preguntas_iyc · nº 62
+33_preguntas_iyc_2_llamamiento · nº 32
+33_preguntas_iyc_2_llamamiento · nº 114
+52_preguntas_luminotecnia · nº 28
+52_preguntas_luminotecnia · nº 89
+54_preguntas_mecanica_a · nº 34
+81_preguntas_produccion · nº 29
+81_preguntas_produccion · nº 83
+77_preguntas_produccion_asist · nº 76
+77_preguntas_produccion_asist · nº 77
+77_preguntas_produccion_asist · nº 89
+77_preguntas_produccion_asist · nº 91
+78_preguntas_produccion_asist_2_llamamiento · nº 9
+78_preguntas_produccion_asist_2_llamamiento · nº 78
+66_preguntas_realizacion_a · nº 88
+60_preguntas_realizacion_asist · nº 61
+62_preguntas_realizacion_asist_2_llamamiento · nº 52
+62_preguntas_realizacion_asist_2_llamamiento · nº 107
+70_preguntas_tese_a · nº 96
