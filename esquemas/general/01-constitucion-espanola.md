@@ -19,6 +19,27 @@ sanción **27/12/1978** · publicación y entrada en vigor **29/12/1978**, sin
 9 transitorias, 1 derogatoria, 1 final) · reformas al corte: **13.2** (1992,
 «sufragio activo **y pasivo**») y **135** (2011), ambas por el **art. 167**.
 
+<!-- indice -->
+
+## Índice
+
+- [Título Preliminar · 1-9](#título-preliminar--1-9)
+- [Título I · Derechos y deberes · 10-55](#título-i--derechos-y-deberes--10-55)
+- [Título II · La Corona · 56-65](#título-ii--la-corona--56-65)
+- [Título III · Cortes Generales · 66-96](#título-iii--cortes-generales--66-96)
+- [Título IV · Gobierno y Administración · 97-107](#título-iv--gobierno-y-administración--97-107)
+- [Título V · Gobierno y Cortes · 108-116](#título-v--gobierno-y-cortes--108-116)
+- [Título VI · Poder Judicial · 117-127](#título-vi--poder-judicial--117-127)
+- [Título VII · Economía y Hacienda · 128-136](#título-vii--economía-y-hacienda--128-136)
+- [Título VIII · Organización territorial · 137-158](#título-viii--organización-territorial--137-158)
+- [Título IX · Tribunal Constitucional · 159-165](#título-ix--tribunal-constitucional--159-165)
+- [Título X · Reforma · 166-169](#título-x--reforma--166-169)
+- [Disposiciones](#disposiciones)
+- [Enlaces con RTVE](#enlaces-con-rtve)
+- [Fuera del corte](#fuera-del-corte)
+
+<!-- /indice -->
+
 ## Título Preliminar · 1-9
 
 - **1** · Estado social y democrático de Derecho · valores superiores: **libertad, justicia, igualdad, pluralismo político** · soberanía en el pueblo · **Monarquía parlamentaria**.

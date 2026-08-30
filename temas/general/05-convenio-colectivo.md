@@ -15,6 +15,34 @@
 
 <!-- /portada -->
 
+> **Enunciado de la convocatoria (Anexo 2, temario general, punto 5):**
+> «III Convenio Colectivo de la Corporación RTVE
+> · Resolución de 15 de diciembre de 2020, de la Dirección General de Trabajo (BOE
+> núm. 332, de 22 de diciembre de 2020).
+> · Resolución de 18 de enero de 2021 de la Dirección General de Trabajo, por la
+> que se corrigen errores en la de 15 de diciembre de 2020 (BOE núm. 25, de 29 de
+> enero de 2021).
+> · Resolución de 28 de noviembre de 2022, de la Dirección General de Trabajo, por
+> la que se registra y publica el Acuerdo de modificación del Convenio colectivo de
+> Corporación de Radio Televisión Española, SA, S.M.E. (BOE núm. 289, de 2 de
+> diciembre de 2022).»
+
+**Qué se estudia.** El **texto del III Convenio de 2020, con la corrección de
+errores de 2021 y el acuerdo de modificación de 2022**, que es exactamente lo que
+enumera la convocatoria y lo vigente el **21 de diciembre de 2022**. El último de
+los tres se publicó **veinte días antes** de la fecha de corte.
+
+**Una diferencia con los temas anteriores.** Un convenio colectivo **no es
+legislación consolidada**: el BOE no publica un texto refundido, así que no hay
+«redacción vigente» que descargar. Hay tres documentos y **la modificación de 2022
+hay que aplicarla a mano** sobre el texto de 2020. Aquí eso importa más de lo
+normal, porque el acuerdo de 2022 **cambia de número dos artículos**.
+
+Fuentes: `BOE-A-2020-16744`, `BOE-A-2021-1334` y `BOE-A-2022-20256`, descargadas
+del BOE el 29/08/2026 y transcritas en `fuentes/convenio/`.
+
+---
+
 <!-- indice -->
 
 ## Índice
@@ -101,34 +129,6 @@
 - [Nota de actualización: lo que ha cambiado después del corte](#nota-de-actualización-lo-que-ha-cambiado-después-del-corte)
 
 <!-- /indice -->
-
-> **Enunciado de la convocatoria (Anexo 2, temario general, punto 5):**
-> «III Convenio Colectivo de la Corporación RTVE
-> · Resolución de 15 de diciembre de 2020, de la Dirección General de Trabajo (BOE
-> núm. 332, de 22 de diciembre de 2020).
-> · Resolución de 18 de enero de 2021 de la Dirección General de Trabajo, por la
-> que se corrigen errores en la de 15 de diciembre de 2020 (BOE núm. 25, de 29 de
-> enero de 2021).
-> · Resolución de 28 de noviembre de 2022, de la Dirección General de Trabajo, por
-> la que se registra y publica el Acuerdo de modificación del Convenio colectivo de
-> Corporación de Radio Televisión Española, SA, S.M.E. (BOE núm. 289, de 2 de
-> diciembre de 2022).»
-
-**Qué se estudia.** El **texto del III Convenio de 2020, con la corrección de
-errores de 2021 y el acuerdo de modificación de 2022**, que es exactamente lo que
-enumera la convocatoria y lo vigente el **21 de diciembre de 2022**. El último de
-los tres se publicó **veinte días antes** de la fecha de corte.
-
-**Una diferencia con los temas anteriores.** Un convenio colectivo **no es
-legislación consolidada**: el BOE no publica un texto refundido, así que no hay
-«redacción vigente» que descargar. Hay tres documentos y **la modificación de 2022
-hay que aplicarla a mano** sobre el texto de 2020. Aquí eso importa más de lo
-normal, porque el acuerdo de 2022 **cambia de número dos artículos**.
-
-Fuentes: `BOE-A-2020-16744`, `BOE-A-2021-1334` y `BOE-A-2022-20256`, descargadas
-del BOE el 29/08/2026 y transcritas en `fuentes/convenio/`.
-
----
 
 ## 1. Lo primero, porque descoloca: el acuerdo de 2022 renumera dos artículos
 

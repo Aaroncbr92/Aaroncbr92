@@ -15,6 +15,15 @@
 
 <!-- /portada -->
 
+> **Enunciado de la convocatoria** (anexo 2). Es **el mismo, palabra por palabra**, en los tres
+> temarios específicos, con distinto número: **Producción (Asistencia) 18**, **Documentación
+> 7**, **Información y Contenidos 11**:
+>
+> Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
+> Pantallas de visualización de datos: riesgos asociados y medidas de prevención. Trastornos
+> musculoesqueléticos en la extremidad superior: factores de riesgo y su prevención. Incendios
+> y medidas preventivas. Accidente in itinere o in misión y medidas preventivas.
+
 <!-- indice -->
 
 ## Índice
@@ -63,15 +72,6 @@
 - [Trazabilidad](#trazabilidad)
 
 <!-- /indice -->
-
-> **Enunciado de la convocatoria** (anexo 2). Es **el mismo, palabra por palabra**, en los tres
-> temarios específicos, con distinto número: **Producción (Asistencia) 18**, **Documentación
-> 7**, **Información y Contenidos 11**:
->
-> Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
-> Pantallas de visualización de datos: riesgos asociados y medidas de prevención. Trastornos
-> musculoesqueléticos en la extremidad superior: factores de riesgo y su prevención. Incendios
-> y medidas preventivas. Accidente in itinere o in misión y medidas preventivas.
 
 ## Qué es este tema y qué no
 

@@ -90,14 +90,23 @@ en Documentación y en Producción (Asistencia).
       en el HTML ni en la transcripción de texto, y su ausencia no da ningún aviso.
       Descargadas y **transcritas las cinco** en `fuentes/convenio/imagenes/`: la tabla
       del artículo 65 y los anexos 1, 2 y 3.
-- [x] **Todos los temas llevan portada e índice**, generados con
-      `herramientas/indice.py` y **regenerables**: un índice escrito a mano se queda viejo al
+- [x] **Los nueve temas llevan portada e índice, y los nueve esquemas llevan índice**,
+      generados con `herramientas/indice.py` y **regenerables**: un índice escrito a mano se queda viejo al
       primer epígrafe que se añade, y un índice viejo no da error, lleva a otro sitio. La
       portada dice bloque del programa, fuente, identificador, redacción que se estudia,
       extensión medida y dónde están el esquema y los informes. **El script comprueba que las
       rutas que cita existen**, y así se descubrió que **los temas 2 y 3 citaban un informe de
       refutación que nunca se había escrito**: reconstruido en
       `informes/refutacion-temas-02-03.md`, marcado como reconstrucción.
+      El **esquema no lleva portada** —la ficha de la norma está en su tema y repetirla sería
+      ruido—, y el **índice va justo antes del primer epígrafe**, para no enterrar la
+      entradilla bajo veinte líneas de enlaces.
+- [x] **Corregido cómo se miden las palabras.** Todas las cifras de extensión publicadas hasta
+      el 2026-08-30 salían de `wc -w` **en locale C**, que **cuenta de menos en texto
+      acentuado**: el esquema del tema 8 no eran 3.856 palabras sino **3.966**, y el del
+      específico de PRL no 2.802 sino **2.937**. Las líneas se contaban además **con las
+      vacías**. Corregidas en los informes, con la causa dicha. `indice.py` mide con separación
+      de palabras Unicode, así que las portadas ya nacen bien.
 - [x] **Las cuatro lentes ignoran la portada y el índice** (`herramientas/tema.py`, una sola
       función compartida). Sin eso, el envoltorio metía **ocho falsos «no literales» y una
       cifra huérfana por tema**: ruido que acaba enseñando a no mirar la lista.

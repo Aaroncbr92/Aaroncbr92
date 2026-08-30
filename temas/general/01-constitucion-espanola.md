@@ -15,6 +15,22 @@
 
 <!-- /portada -->
 
+> **Enunciado de la convocatoria (Anexo 2, temario general, punto 1):**
+> «Constitución Española de 27 de diciembre de 1978 (Texto consolidado BOE núm.
+> 311, de 29/12/1978. Última actualización publicada el 27/09/2011).»
+
+**Redacción sobre la que se estudia.** La vigente el **21 de diciembre de 2022**,
+fecha de corte que imponen las bases (punto 6: «las pruebas se realizarán sobre
+su texto vigente a fecha de la primera publicación de las Bases Generales»). A esa
+fecha la única reforma consumada era la del artículo 135, de 2011, que es
+justamente la que cita el enunciado. Las dos posteriores están al final del tema,
+en «Notas de actualización», fuera del cuerpo examinable.
+
+Fuente: texto consolidado del BOE, identificador `BOE-A-1978-31229`, leído el
+29 de agosto de 2026 con `herramientas/boe.py --fecha 20221221`.
+
+---
+
 <!-- indice -->
 
 ## Índice
@@ -67,22 +83,6 @@
 - [Trazabilidad](#trazabilidad)
 
 <!-- /indice -->
-
-> **Enunciado de la convocatoria (Anexo 2, temario general, punto 1):**
-> «Constitución Española de 27 de diciembre de 1978 (Texto consolidado BOE núm.
-> 311, de 29/12/1978. Última actualización publicada el 27/09/2011).»
-
-**Redacción sobre la que se estudia.** La vigente el **21 de diciembre de 2022**,
-fecha de corte que imponen las bases (punto 6: «las pruebas se realizarán sobre
-su texto vigente a fecha de la primera publicación de las Bases Generales»). A esa
-fecha la única reforma consumada era la del artículo 135, de 2011, que es
-justamente la que cita el enunciado. Las dos posteriores están al final del tema,
-en «Notas de actualización», fuera del cuerpo examinable.
-
-Fuente: texto consolidado del BOE, identificador `BOE-A-1978-31229`, leído el
-29 de agosto de 2026 con `herramientas/boe.py --fecha 20221221`.
-
----
 
 ## 1. Elaboración, estructura y entrada en vigor
 

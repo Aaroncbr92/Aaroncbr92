@@ -143,10 +143,14 @@ detector: **BC** (agente extintor), **DN** (diámetro nominal), **ISO** y **UNE*
 normalización), **OCRA** (nombre de un método), **NO** en mayúscula por énfasis y **LGSS**, que
 sí se presenta pero con una fórmula que el detector no reconoce.
 
-**El esquema son 2.802 palabras y 166 líneas.** Sigue por encima de la referencia del apartado 9
-del manual —unas 2.000 y unas 130—, pero **muy por debajo del de la Ley 31/1995**, que se fue a
-3.856. La diferencia no es de disciplina: es que aquel tema es **enumeración cerrada de un
-extremo a otro** y este tiene más prosa que se puede comprimir.
+**El esquema son 2.937 palabras y 107 líneas de contenido.** En **líneas está por debajo** de la
+referencia del apartado 9 del manual —unas 130—; en **palabras, un 47 % por encima** de las
+2.000. Y queda **muy por debajo del de la Ley 31/1995**, que se va a 3.966. La diferencia no es
+de disciplina: es que aquel tema es **enumeración cerrada de un extremo a otro** y este tiene
+más prosa que se puede comprimir.
+
+*(Cifras corregidas el 2026-08-30: este informe daba «2.802 palabras y 166 líneas», medidas con
+`wc` en locale C —que cuenta de menos en texto acentuado— y contando líneas vacías.)*
 
 ## 6 · Lo que queda fuera, y por qué
 

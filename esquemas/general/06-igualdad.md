@@ -2,6 +2,36 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en `temas/general/06-igualdad.md`.
 
+<!-- indice -->
+
+## Índice
+
+- [Los dos documentos](#los-dos-documentos)
+- [Identificación](#identificación)
+- [Ámbitos](#ámbitos)
+- [Marco normativo](#marco-normativo)
+- [Definiciones que caen](#definiciones-que-caen)
+- [Diagnóstico (datos a diciembre de 2020)](#diagnóstico-datos-a-diciembre-de-2020)
+- [Objetivos](#objetivos)
+- [Los ocho ejes](#los-ocho-ejes)
+- [Responsables (lo que más se pregunta)](#responsables-lo-que-más-se-pregunta)
+- [Encuestas: no confundirlas](#encuestas-no-confundirlas)
+- [Formación (eje 7)](#formación-eje-7)
+- [Aplicación, evaluación y seguimiento](#aplicación-evaluación-y-seguimiento)
+- [Revisión y discrepancias](#revisión-y-discrepancias)
+- [La diferencia que decide la pregunta](#la-diferencia-que-decide-la-pregunta)
+- [Principios (cinco)](#principios-cinco)
+- [Procedimiento](#procedimiento)
+- [El cruce con el convenio](#el-cruce-con-el-convenio)
+- [Empresas externas](#empresas-externas)
+- [Origen](#origen)
+- [Principios generales (siete, todos «evitar»)](#principios-generales-siete-todos-evitar)
+- [Actuaciones concretas (dieciocho)](#actuaciones-concretas-dieciocho)
+- [Violencia contra las mujeres](#violencia-contra-las-mujeres)
+- [Lenguaje](#lenguaje)
+
+<!-- /indice -->
+
 ## Los dos documentos
 
 - **II Plan de Igualdad entre Mujeres y Hombres en la CRTVE (2022-2026)** · 118 páginas · **instrumento negociado**, eficacia de acuerdo colectivo.

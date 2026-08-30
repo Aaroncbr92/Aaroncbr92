@@ -153,13 +153,19 @@ marcando ETT y FSP porque no reconoce la forma en que se presentan, pero un lect
 
 **Y una desviación que se declara en vez de disimularla.** El apartado 9 del manual da como
 referencia **unas 2.000 palabras y unas 130 líneas** de esquema. El de este tema son
-**3.856 palabras y 199 líneas**, tras dos pasadas de compresión que solo quitaron explicación
-—de 4.018 palabras a 3.856—. La razón: **54 artículos y 18 disposiciones adicionales**, y un
-temario en el que el tribunal pregunta enumeraciones cerradas y literales (las ocho
-definiciones del artículo 4, los nueve principios del 15, las seis obligaciones del 29, los
-siete tramos del 35.2). La regla del manual para esta tensión es **quitar explicación y nunca
-el dato normativo**, y eso es lo que se ha hecho; el resultado sigue por encima de la
-referencia y queda dicho.
+**3.966 palabras y 146 líneas de contenido**, tras dos pasadas de compresión que solo quitaron
+explicación. La razón: **54 artículos y 18 disposiciones adicionales**, y un temario en el que
+el tribunal pregunta enumeraciones cerradas y literales (las ocho definiciones del artículo 4,
+los nueve principios del 15, las seis obligaciones del 29, los siete tramos del 35.2). La regla
+del manual para esta tensión es **quitar explicación y nunca el dato normativo**, y eso es lo
+que se ha hecho. **En líneas queda casi en la referencia; en palabras, al doble**, y queda
+dicho.
+
+**Corrección de las cifras publicadas (2026-08-30).** Este informe daba antes «3.856 palabras y
+199 líneas». Las dos estaban mal medidas: las palabras con `wc -w` **en locale C**, que no
+separa bien el texto acentuado y **cuenta de menos**; y las líneas contando también las
+**vacías**. Medido como debe ser —separación de palabras Unicode y líneas con contenido— son
+**3.966 y 146**. El error era de la medición, no del esquema.
 
 ## 6 · Efecto sobre lo ya cerrado
 
@@ -190,4 +196,4 @@ comprobarlos por fin, atribuía al 97 lo que dice el 98. Nada más se ha tocado 
 | Hallazgos de fondo en el tema | **10** | corregidos |
 | Cifras inventadas | **0** | — |
 | Falsos positivos declarados | **3** | la lente no trocea disposiciones adicionales |
-| Esquema por encima de la referencia | **3.856 palabras / 199 líneas** | declarado, con la razón |
+| Esquema por encima de la referencia | **3.966 palabras / 146 líneas de contenido** | declarado, con la razón |

@@ -15,6 +15,14 @@
 
 <!-- /portada -->
 
+> **Enunciado de la convocatoria** (anexo 2, temario general, punto 6):
+>
+> **II PLAN DE IGUALDAD DE RTVE**
+> (https://www.rtve.es/contenidos/corporacion/II_Plan_de_Igualdad_entre_Mujeres_y_Hombres_en_la_Corporacion_RTVE_(2022_2026).pdf)
+>
+> **GUÍA DE IGUALDAD DE RTVE**
+> (https://www.rtve.es/contenidos/corporacion/GUIA_DE_IGUALDAD_2020.pdf)
+
 <!-- indice -->
 
 ## Índice
@@ -71,14 +79,6 @@
 - [Trazabilidad](#trazabilidad)
 
 <!-- /indice -->
-
-> **Enunciado de la convocatoria** (anexo 2, temario general, punto 6):
->
-> **II PLAN DE IGUALDAD DE RTVE**
-> (https://www.rtve.es/contenidos/corporacion/II_Plan_de_Igualdad_entre_Mujeres_y_Hombres_en_la_Corporacion_RTVE_(2022_2026).pdf)
->
-> **GUÍA DE IGUALDAD DE RTVE**
-> (https://www.rtve.es/contenidos/corporacion/GUIA_DE_IGUALDAD_2020.pdf)
 
 ## Qué clase de documentos son
 

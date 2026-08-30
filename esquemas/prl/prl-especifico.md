@@ -2,6 +2,31 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en `temas/prl/prl-especifico.md`.
 
+<!-- indice -->
+
+## Índice
+
+- [Encaje](#encaje)
+- [1 · Derechos y obligaciones (Ley 31/1995)](#1--derechos-y-obligaciones-ley-311995)
+  - [Art. 29 · Obligaciones del trabajador](#art-29--obligaciones-del-trabajador)
+- [2 · Pantallas de visualización (RD 488/1997 + Guía Técnica INSST, junio 2021)](#2--pantallas-de-visualización-rd-4881997--guía-técnica-insst-junio-2021)
+  - [Riesgos (Guía Técnica)](#riesgos-guía-técnica)
+  - [Anexo · disposiciones mínimas](#anexo--disposiciones-mínimas)
+  - [Distancia (Guía Técnica, no el RD)](#distancia-guía-técnica-no-el-rd)
+- [3 · TME de la extremidad superior (INSST)](#3--tme-de-la-extremidad-superior-insst)
+- [4 · Incendios](#4--incendios)
+  - [Clases de fuego (UNE-EN 2, recogidas en el RD 513/2017)](#clases-de-fuego-une-en-2-recogidas-en-el-rd-5132017)
+  - [Agentes extintores (NTP 536)](#agentes-extintores-ntp-536)
+  - [Extintores y BIE (RD 513/2017)](#extintores-y-bie-rd-5132017)
+  - [Establecimientos industriales (RD 2267/2004)](#establecimientos-industriales-rd-22672004)
+  - [Riesgo eléctrico](#riesgo-eléctrico)
+- [5 · Accidente in itinere o in misión](#5--accidente-in-itinere-o-in-misión)
+  - [In itinere · los cuatro elementos (jurisprudencia, Anuario de Derecho del BOE)](#in-itinere--los-cuatro-elementos-jurisprudencia-anuario-de-derecho-del-boe)
+  - [In misión (NTP 1090)](#in-misión-ntp-1090)
+  - [Medidas preventivas](#medidas-preventivas)
+
+<!-- /indice -->
+
 ## Encaje
 
 - **Cinco rúbricas**, iguales en los tres específicos. Solo la primera se solapa con el **tema 8 del general**.

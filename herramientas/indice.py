@@ -27,6 +27,7 @@ falta.
 Uso:  indice.py                     # todos los temas del .tsv
       indice.py temas/general/01-*.md
 """
+import glob
 import os
 import re
 import sys
@@ -110,15 +111,31 @@ def indice(tema):
     return "\n".join(salida)
 
 
-def mete(tema, bloque, ini, fin):
-    """Sustituye el bloque si ya está; si no, lo pone detrás del título."""
-    if ini in tema and fin in tema:
+def mete(texto, bloque, ini, fin, delante_del_primer_epigrafe=False):
+    """Sustituye el bloque si ya está; si no, lo coloca donde toca.
+
+    Dos sitios, y la diferencia importa:
+
+    · La **portada** va **pegada al título**: es la ficha del tema y lo primero
+      que hay que ver.
+    · El **índice** va **justo antes del primer epígrafe**. Todo lo que hay entre
+      el título y ese epígrafe es preámbulo —la entradilla del esquema, el
+      enunciado de la convocatoria en el tema— y enterrarlo bajo veinte líneas de
+      índice empeora la primera pantalla. La regla es esa y no «saltar la
+      entradilla»: hay esquemas cuyo cuerpo son párrafos corridos, y saltarlos
+      mandaba el índice a la mitad del documento.
+    """
+    if ini in texto and fin in texto:
         return re.sub(re.escape(ini) + r".*?" + re.escape(fin), lambda _: bloque,
-                      tema, flags=re.S)
-    m = re.search(r"(?m)^# .+?$\n", tema)
+                      texto, flags=re.S)
+    if delante_del_primer_epigrafe:
+        m = re.search(r"(?m)^## ", texto)
+        if m:
+            return texto[:m.start()] + bloque + "\n\n" + texto[m.start():]
+    m = re.search(r"(?m)^# .+?$\n", texto)
     if not m:
         sys.exit("el fichero no empieza por un título de primer nivel")
-    return tema[:m.end()] + "\n" + bloque + "\n" + tema[m.end():]
+    return texto[:m.end()] + "\n" + bloque + "\n" + texto[m.end():]
 
 
 def main():
@@ -130,20 +147,23 @@ def main():
                 v = linea.rstrip("\n").split("\t")
                 filas[v[0]] = dict(zip(cab, v))
 
-    rutas = sys.argv[1:] or list(filas)
+    # sin argumentos: los temas del .tsv y todos los esquemas. El esquema no
+    # lleva portada —la ficha de la norma está en su tema y repetirla sería
+    # ruido—, pero sí índice: son de cien a doscientas líneas de telegrama y sin
+    # índice no se salta a un epígrafe
+    rutas = sys.argv[1:] or list(filas) + sorted(glob.glob("esquemas/*/*.md"))
     for ruta in rutas:
-        if ruta not in filas:
-            print("· %s: sin ficha en portadas.tsv, se salta" % ruta)
-            continue
-        tema = open(ruta, encoding="utf-8").read()
-        palabras = len(cuerpo(tema).split())
-        # el índice primero y la portada después: las dos se meten detrás del
-        # título, así que la última en entrar es la que queda arriba
-        tema = mete(tema, indice(tema), I_INI, I_FIN)
-        tema = mete(tema, portada(ruta, filas[ruta], palabras), P_INI, P_FIN)
-        open(ruta, "w", encoding="utf-8").write(tema)
-        print("· %-42s %5d palabras · %2d epígrafes"
-              % (ruta, palabras, len(epigrafes(tema))))
+        texto = open(ruta, encoding="utf-8").read()
+        palabras = len(cuerpo(texto).split())
+        # el índice va antes del primer epígrafe y la portada pegada al título
+        texto = mete(texto, indice(texto), I_INI, I_FIN,
+                     delante_del_primer_epigrafe=True)
+        if ruta in filas:
+            texto = mete(texto, portada(ruta, filas[ruta], palabras), P_INI, P_FIN)
+        open(ruta, "w", encoding="utf-8").write(texto)
+        print("· %-42s %5d palabras · %2d epígrafes%s"
+              % (ruta, palabras, len(epigrafes(texto)),
+                 "" if ruta in filas else "  (sin portada: es un esquema)"))
 
 
 if __name__ == "__main__":

@@ -3,6 +3,23 @@
 Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 `temas/general/05-convenio-colectivo.md`.
 
+<!-- indice -->
+
+## Índice
+
+- [Identificación](#identificación)
+- [Las dos trampas de numeración](#las-dos-trampas-de-numeración)
+- [Capítulos](#capítulos)
+- [Cap. I-V · lo que cae](#cap-i-v--lo-que-cae)
+- [Cap. VI · Tiempos de trabajo (el más preguntado)](#cap-vi--tiempos-de-trabajo-el-más-preguntado)
+- [Cap. VII · Retribuciones](#cap-vii--retribuciones)
+- [Cap. VIII · Disciplinario (el segundo más preguntado)](#cap-viii--disciplinario-el-segundo-más-preguntado)
+- [Cap. IX-XIII](#cap-ix-xiii)
+- [Disposiciones](#disposiciones)
+- [Anexos](#anexos)
+
+<!-- /indice -->
+
 ## Identificación
 
 **Cuatro documentos anteriores al corte**, no tres:
