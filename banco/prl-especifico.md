@@ -190,7 +190,7 @@ En el artículo 2 del RDL 16/2022 para la mejora de las condiciones de trabajo.
 
 ---
 
-**15_preguntas_gestion · nº 36 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 36 · respuesta: c**
 
 ```
 36.- Los riesgos más significativos asociados al trabajo con pantallas de visualización son
@@ -203,7 +203,7 @@ d) La fatiga mental junto con el estrés.
 
 ---
 
-**36_preguntas_ing_sup_industrial · nº 45 · respuesta: sin plantilla**
+**36_preguntas_ing_sup_industrial · nº 45 · respuesta: a**
 
 ```
 45.-

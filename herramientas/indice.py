@@ -11,7 +11,7 @@ Qué hace:
 
   · **Portada.** Una tabla con el bloque del programa, la norma, su
     identificador, la redacción sobre la que se estudia, la extensión medida y
-    dónde están el esquema y los informes de verificación. Los cuatro primeros
+    y la extensión medida. Los cuatro primeros
     campos salen de `herramientas/portadas.tsv`, que se rellena leyendo la
     trazabilidad de cada tema; la extensión y las rutas se calculan aquí, así
     que no se quedan viejas.
@@ -72,10 +72,13 @@ def limpia_negritas(s):
 
 
 def portada(ruta, fila, palabras):
-    base = os.path.splitext(os.path.basename(ruta))[0]
-    carpeta = "general" if "/general/" in ruta else "prl"
-    esquema = "esquemas/%s/%s.md" % (carpeta, base)
-    informes = fila["informes"]
+    """La ficha de cabecera del tema.
+
+    **No cita ficheros del proyecto.** La ficha la lee quien estudia, y a quien
+    estudia no le dice nada dónde está guardado el esquema ni cómo se llama el
+    informe que verificó el tema. Esas dos filas estaban aquí y se quitaron; el
+    rastro de la verificación vive en los informes, que es donde toca.
+    """
     filas = [
         ("Bloque", fila["bloque"]),
         ("Sirve para", "**Producción (Asistencia)** · **Documentación** · "
@@ -84,17 +87,12 @@ def portada(ruta, fila, palabras):
         ("Identificador", fila["identificador"]),
         ("Redacción que se estudia", fila["redaccion"]),
         ("Extensión", "**%s palabras**" % format(palabras, ",d").replace(",", ".")),
-        ("Esquema de repaso", "`%s`" % esquema),
-        ("Verificación", informes),
     ]
-    # una portada que cita un fichero que no existe no da error: manda al opositor
-    # a una ruta muerta. Los temas 2 y 3 citaban un informe de refutación que
-    # nunca se había escrito, y así se descubrió
-    raiz = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    for _, v in filas:
-        for r in re.findall(r"`((?:esquemas|informes|fuentes)/[^`]+)`", str(v)):
-            if not os.path.exists(os.path.join(raiz, r)):
-                print("  ! %s cita una ruta que no existe: %s" % (ruta, r))
+    # y se comprueba que no se cuele ninguna ruta del proyecto en lo que el
+    # opositor va a leer
+    for k, v in filas:
+        if re.search(r"(?:esquemas|informes|fuentes|herramientas|banco)/", str(v)):
+            print("  ! %s: la fila «%s» cita una ruta del proyecto" % (ruta, k))
 
     salida = [P_INI, "", "|  |  |", "| --- | --- |"]
     salida += ["| **%s** | %s |" % (k, v) for k, v in filas]

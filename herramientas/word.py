@@ -44,22 +44,64 @@ from datetime import date
 from docx import Document
 from docx.enum.section import WD_SECTION
 from docx.enum.table import WD_TABLE_ALIGNMENT
-from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
+from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK, WD_TAB_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
 from markdown_it import MarkdownIt
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from libro import (CORTE, ERRATAS, RAIZ, TEMAS, lee, ordena_opciones,
+from libro import (CORTE, ERRATAS, RAIZ, TEMAS, lee, numera, ordena_opciones,
                    preguntas, sin_marcas)
 
 md = MarkdownIt("commonmark").enable("table").enable("strikethrough")
 
 GRIS = RGBColor(0x66, 0x66, 0x66)
+TINTA = RGBColor(0x5A, 0x6B, 0x86)
+ENCABEZADO = "TOAC – Temarios de Oposiciones"
+PIE_DERECHA = "Oposiciones RTVE – Temario General"
 NEGRO = RGBColor(0x11, 0x11, 0x11)
 
 
 # ── estilos ──────────────────────────────────────────────────────────────────
+
+def campo(parrafo, instruccion):
+    """Mete un campo de Word en el párrafo: lo calcula Word, no nosotros.
+
+    Es lo que hace que el índice traiga el número de página **de verdad** y que
+    se pueda pinchar, y que el pie diga «Página 3 de 254» sin que nadie cuente.
+    """
+    from docx.oxml import OxmlElement
+    r = parrafo.add_run()._r
+    ini = OxmlElement("w:fldChar"); ini.set(qn("w:fldCharType"), "begin")
+    txt = OxmlElement("w:instrText"); txt.set(qn("xml:space"), "preserve")
+    txt.text = instruccion
+    sep = OxmlElement("w:fldChar"); sep.set(qn("w:fldCharType"), "separate")
+    hueco = OxmlElement("w:t"); hueco.set(qn("xml:space"), "preserve"); hueco.text = " "
+    fin = OxmlElement("w:fldChar"); fin.set(qn("w:fldCharType"), "end")
+    for e in (ini, txt, sep, hueco, fin):
+        r.append(e)
+    return parrafo
+
+
+def actualiza_al_abrir(doc):
+    """Pide a Word que recalcule los campos al abrir el documento.
+
+    Sin esto el índice aparece vacío hasta que alguien pulsa F9, y quien reciba
+    el fichero no tiene por qué saberlo.
+    """
+    from docx.oxml import OxmlElement
+    e = OxmlElement("w:updateFields")
+    e.set(qn("w:val"), "true")
+    # el orden de los hijos de `w:settings` lo fija el esquema: `updateFields` va
+    # delante de `compat`, no al final
+    doc.settings.element.insert_element_before(
+        e, "w:hdrShapeDefaults", "w:footnotePr", "w:endnotePr", "w:compat",
+        "w:docVars", "w:rsids", "m:mathPr", "w:attachedSchema", "w:themeFontLang",
+        "w:clrSchemeMapping", "w:doNotIncludeSubdocsInStats",
+        "w:doNotAutoCompressPictures", "w:forceUpgrade", "w:captions",
+        "w:readModeInkLockDown", "w:smartTagType", "w:shapeDefaults",
+        "w:doNotEmbedSmartTags", "w:decimalSymbol", "w:listSeparator")
+
 
 def estilo_parrafo(doc, nombre, base="Normal", **kw):
     """Crea un estilo de párrafo si no existe y le pone unos valores de salida.
@@ -120,6 +162,33 @@ def _espacia_letras(rPr, veinteavos):
                               "w:lang", "w:eastAsianLayout", "w:specVanish", "w:oMath")
 
 
+def cabecera_y_pie(doc):
+    """Encabezado y pie en todas las páginas menos la portada.
+
+    Word lo resuelve con «primera página distinta»: la portada es la primera de
+    la sección, así que se queda limpia dejando vacíos su encabezado y su pie.
+    """
+    sec = doc.sections[0]
+    sec.different_first_page_header_footer = True
+    sec.header_distance = Cm(1.2)
+    sec.footer_distance = Cm(1.2)
+
+    enc = sec.header.paragraphs[0]
+    enc.style = doc.styles["Encabezado TOAC"]
+    enc.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+    enc.add_run(ENCABEZADO)
+
+    pie = sec.footer.paragraphs[0]
+    pie.style = doc.styles["Pie"]
+    pie.paragraph_format.tab_stops.add_tab_stop(
+        Cm(16.6), WD_TAB_ALIGNMENT.RIGHT)
+    pie.add_run("Página ")
+    campo(pie, " PAGE ")
+    pie.add_run(" de ")
+    campo(pie, " NUMPAGES ")
+    pie.add_run("\t" + PIE_DERECHA)
+
+
 def prepara(doc):
     """Deja el documento con la página, el cuerpo y los estilos propios."""
     s = doc.sections[0]
@@ -152,6 +221,7 @@ def prepara(doc):
         st.font.name, st.font.size = tipo, Pt(tam)
         st.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     _arregla_zoom(doc)
+    actualiza_al_abrir(doc)
 
     estilo_parrafo(doc, "Rótulo", tam=8.5, color=GRIS, versalita=True,
                    tipo="Helvetica Neue", juntar=True, despues=2)
@@ -170,6 +240,8 @@ def prepara(doc):
     estilo_parrafo(doc, "Índice epígrafe", tam=9.5, color=GRIS, sangria=0.8, despues=0)
     estilo_parrafo(doc, "Tabla", tam=9, despues=1, izquierda=True)
     estilo_parrafo(doc, "Tabla cabecera", base="Tabla", negrita=True)
+    estilo_parrafo(doc, "Encabezado TOAC", tam=9, color=TINTA, despues=0)
+    estilo_parrafo(doc, "Pie", tam=8.5, color=TINTA, despues=0)
     for nombre, ajusta in (("Número de pregunta", lambda f: (setattr(f, "bold", True),
                                                              setattr(f, "name", "Helvetica Neue"))),
                            ("Código", lambda f: (setattr(f, "name", "Consolas"),
@@ -220,8 +292,11 @@ def escribe_tabla(doc, filas, cabecera):
     return t
 
 
+ANCLA = re.compile(r'<a id="[^"]+"></a>\s*')
+
+
 def vuelca(doc, texto, salto_titulos=0):
-    """Recorre el markdown y lo escribe con los estilos del documento."""
+    texto = ANCLA.sub("", texto)
     toks = md.parse(texto)
     i, pilas = 0, []          # pilas: ("bullet"|"ordered", nivel)
     while i < len(toks):
@@ -325,6 +400,7 @@ def parte_tema(doc, numero, base, banco):
     if mt:
         ficha, resto = mt.group(1), cuerpo[mt.end():]
 
+    resto, _ = numera(resto, numero)
     salto(doc)
     doc.add_paragraph("Tema %d del temario general" % numero, style="Rótulo")
     doc.add_paragraph(titulo.split("·", 1)[-1].strip(), style="Heading 1")
@@ -358,12 +434,12 @@ def parte_tema(doc, numero, base, banco):
     p = doc.add_paragraph(style="Normal")
     p.add_run("%d preguntas de los cuadernillos de 2024. Las respuestas, al final "
               "del volumen." % len(ps)).italic = True
-    for n, (ident, enunciado, _) in enumerate(ps, 1):
-        pinta_pregunta(doc, n, ident, enunciado)
+    for n, (_, enunciado, _) in enumerate(ps, 1):
+        pinta_pregunta(doc, n, enunciado)
     return ps
 
 
-def pinta_pregunta(doc, n, ident, enunciado):
+def pinta_pregunta(doc, n, enunciado):
     cabeza, opciones, sin_texto = ordena_opciones(enunciado)
     p = doc.add_paragraph(style="Pregunta")
     p.add_run("%d. " % n, style="Número de pregunta")
@@ -372,10 +448,9 @@ def pinta_pregunta(doc, n, ident, enunciado):
         doc.add_paragraph(o, style="Opción")
     if sin_texto:
         doc.add_paragraph(
-            "El cuadernillo corta estas opciones sin punto final, así que la transcripción "
+            "El examen corta estas opciones sin punto final, así que la transcripción "
             "no marca dónde acaba cada una y %s se queda sin texto. Se imprime como salió."
             % ", ".join("la %s)" % l for l in sin_texto), style="Fuente de pregunta")
-    doc.add_paragraph(ident, style="Fuente de pregunta")
 
 
 def portada(doc, total_preg, cuantos):
@@ -442,14 +517,22 @@ def _recuadra(p):
     pPr.append(bordes)
 
 
-def indice(doc, entradas):
+def indice(doc):
+    """El índice, como campo de Word: con página, clicable y siempre al día.
+
+    No se escribe a mano. Se le pide a Word que lo arme con los encabezados de
+    los niveles 1 a 4, que son los que numera `numera()`: así trae el número de
+    página de verdad, se puede pinchar para saltar, y **se rehace solo** si el
+    documento crece al cambiarle el formato.
+    """
     salto(doc)
     doc.add_paragraph("Índice general", style="Heading 1")
-    for numero, titulo, sub in entradas:
-        doc.add_paragraph("%d. %s" % (numero, titulo.split("·", 1)[-1].strip()),
-                          style="Índice tema")
-        for epigrafe in sub[:14]:
-            doc.add_paragraph(epigrafe, style="Índice epígrafe")
+    p = doc.add_paragraph(style="Normal")
+    p.add_run("Si el índice aparece vacío, se rellena con ")
+    p.add_run("Ctrl+E y luego F9").bold = True
+    p.add_run(" —o pulsando «Sí» cuando Word pregunte al abrir si actualiza los "
+              "campos—. Cada entrada lleva su página y se puede pinchar para ir a ella.")
+    campo(doc.add_paragraph(style="Normal"), r' TOC \o "1-4" \h \z \u ')
 
 
 def respuestas(doc, hechos):
@@ -459,20 +542,27 @@ def respuestas(doc, hechos):
     p = doc.add_paragraph(style="Normal")
     p.add_run("La respuesta es la de la ")
     p.add_run("plantilla oficial").bold = True
-    p.add_run(" de cada cuadernillo. Donde pone «sin plantilla» es que la plantilla de "
-              "ese cuadernillo no se puede leer. ")
+    p.add_run(" del examen, y el número es el que la pregunta lleva impreso en su tema. ")
     p.add_run("Tres respuestas oficiales están mal").bold = True
-    p.add_run(" y van marcadas: el volumen enseña la norma, no la plantilla.")
+    p.add_run(" y van avisadas debajo de su tabla: el volumen enseña la norma, no la "
+              "plantilla.")
     for numero, banco, ps in hechos:
         doc.add_paragraph("Temas 2 y 3" if banco == "g2-g3" else "Tema %d" % numero,
                           style="Heading 2")
-        filas = [[md.parse(c)[1] for c in ("**N.º**", "**Resp.**", "**Cuadernillo**")]]
-        for n, (ident, _, r) in enumerate(ps, 1):
-            aviso_errata = ERRATAS.get(ident)
-            texto = ident + (
-                "  ·  OJO: " + re.sub(r"</?b>", "", aviso_errata) if aviso_errata else "")
-            filas.append([md.parse(str(n))[1], md.parse(r)[1], md.parse(texto)[1]])
-        escribe_tabla(doc, filas, True)
+        sueltas = [(n, r) for n, (_, _, r) in enumerate(ps, 1)]
+        POR_FILA = 10
+        filas = []
+        for a in range(0, len(sueltas), POR_FILA):
+            trozo = sueltas[a:a + POR_FILA]
+            filas.append([md.parse("**%d**" % n)[1] for n, _ in trozo])
+            filas.append([md.parse(r)[1] for _, r in trozo])
+        escribe_tabla(doc, filas, False)
+        for n, (ident, _, _) in enumerate(ps, 1):
+            if ident in ERRATAS:
+                p = doc.add_paragraph(style="Aviso")
+                p.add_run("Ojo con la %d: " % n).bold = True
+                p.add_run(re.sub(r"</?b>", "", ERRATAS[ident]))
+                _recuadra(p)
 
 
 MUESTRARIO = [
@@ -480,10 +570,12 @@ MUESTRARIO = [
     ("Title", "Temario general"),
     ("Subtitle", "El subtítulo de la portada, a dos renglones si hace falta"),
     ("Portada dato", "Redacción vigente a 21 de diciembre de 2022"),
+    ("Encabezado TOAC", "TOAC – Temarios de Oposiciones"),
+    ("Pie", "Página 3 de 254        Oposiciones RTVE – Temario General"),
     ("Rótulo", "TEMA 1 DEL TEMARIO GENERAL"),
     ("Heading 1", "Título del tema"),
-    ("Heading 2", "1. Un epígrafe de primer nivel"),
-    ("Heading 3", "1.1. Un subepígrafe"),
+    ("Heading 2", "1.1 Un epígrafe"),
+    ("Heading 3", "1.1.1 Un subepígrafe"),
     ("Heading 4", "Un cuarto nivel, que sale poco"),
     ("Normal", "El cuerpo del tema. Lleva negritas para el dato que se pregunta y "
                "cursivas para los títulos de norma. Es el estilo que decide cómo se lee "
@@ -494,11 +586,9 @@ MUESTRARIO = [
     ("List Bullet", "Un punto de lista de primer nivel"),
     ("List Bullet 2", "Un punto de lista anidado"),
     ("List Number", "Un punto de lista numerada"),
-    ("Índice tema", "1. Constitución Española de 27 de diciembre de 1978"),
-    ("Índice epígrafe", "1. Elaboración, estructura y entrada en vigor"),
     ("Pregunta", "1. El enunciado de una pregunta real de examen."),
     ("Opción", "a) Una de las cuatro opciones."),
-    ("Fuente de pregunta", "01_preguntas_ambientacion_decorados · nº 3"),
+    ("Fuente de pregunta", "Nota al pie de una pregunta, cuando hace falta"),
     ("Separador", ""),
 ]
 
@@ -512,9 +602,9 @@ def muestrario(doc):
     p.add_run("Cada renglón va escrito con el estilo cuyo nombre lleva delante. ")
     p.add_run("Cambiando el estilo en Word cambian todas sus apariciones en el volumen")
     p.runs[-1].bold = True
-    p.add_run(", y el fichero devuelto dice qué se ha elegido para cada uno. En el documento "
-              "no hay formato aplicado a mano en ningún sitio: si algo se ve distinto es "
-              "porque tiene un estilo distinto. Esta hoja se puede borrar.")
+    p.add_run(", y el fichero devuelto dice qué se ha elegido para cada uno. En el "
+              "documento no hay formato aplicado a mano en ningún sitio: si algo se ve "
+              "distinto es porque tiene un estilo distinto. Esta hoja se puede borrar.")
     for nombre, ejemplo in MUESTRARIO:
         doc.add_paragraph("· %s" % nombre, style="Fuente de pregunta")
         if ejemplo:
@@ -529,8 +619,8 @@ def muestrario(doc):
     doc.add_paragraph(style="Normal")
     p = doc.add_paragraph(style="Pregunta")
     p.add_run("1. ", style="Número de pregunta")
-    p.add_run("El número de la pregunta lleva el estilo de carácter «Número de pregunta»; "
-              "el texto entrecomillado con acento monoespaciado, ")
+    p.add_run("El número de la pregunta lleva el estilo de carácter «Número de "
+              "pregunta»; el texto con acento monoespaciado, ")
     p.add_run("«Código»", style="Código")
     p.add_run(".")
 
@@ -559,8 +649,9 @@ def main():
             total += len(preguntas(banco))
 
     portada(doc, total, len(elegidos))
+    cabecera_y_pie(doc)
     aviso(doc)
-    indice(doc, entradas)
+    indice(doc)
     for numero, base, banco in elegidos:
         ps = parte_tema(doc, numero, base, banco)
         if ps:

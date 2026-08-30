@@ -9,9 +9,7 @@
 | **Fuente** | Cinco rúbricas sobre **once fuentes**: Ley 31/1995, RD 488/1997, RD 486/1997, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015 y documentación técnica del INSST |
 | **Identificador** | Normas: `BOE-A-1997-8671` y las demás, en `fuentes/corte-20221221/`. Técnicas: `fuentes/prl-especifico/` |
 | **Redacción que se estudia** | Las **normas**, en su redacción vigente el **21/12/2022**. La **documentación técnica del INSST**, en su **edición publicada**, indicada caso por caso |
-| **Extensión** | **11.849 palabras** |
-| **Esquema de repaso** | `esquemas/prl/prl-especifico.md` |
-| **Verificación** | `informes/refutacion-tema-prl-especifico.md` · `informes/cobertura-tema-prl-especifico.md` |
+| **Extensión** | **11.811 palabras** |
 
 <!-- /portada -->
 
@@ -1170,23 +1168,23 @@ catálogo del Plan de Movilidad y del PSV.
 
 ## Trazabilidad
 
-| Fuente | Identificador o edición | Volcado |
-| --- | --- | --- |
-| **Ley 31/1995, de Prevención de Riesgos Laborales** | `BOE-A-1995-24292` | `fuentes/corte-20221221/BOE-A-1995-24292.md` |
-| **RD 488/1997, pantallas de visualización** | `BOE-A-1997-8671` | `fuentes/corte-20221221/BOE-A-1997-8671.md` |
-| **RD 486/1997, lugares de trabajo** | `BOE-A-1997-8669` | `fuentes/corte-20221221/BOE-A-1997-8669.md` |
-| **RD 513/2017, instalaciones de protección contra incendios** | `BOE-A-2017-6606` | `fuentes/corte-20221221/BOE-A-2017-6606.md` |
-| **RD 2267/2004, establecimientos industriales** | `BOE-A-2004-21216` | `fuentes/corte-20221221/BOE-A-2004-21216.md` |
-| **RD 614/2001, riesgo eléctrico** | `BOE-A-2001-11881` | `fuentes/corte-20221221/BOE-A-2001-11881.md` |
-| **RD 842/2002, reglamento electrotécnico para baja tensión, art. 2** | `BOE-A-2002-18099` | `fuentes/corte-20221221/BOE-A-2002-18099.preceptos.md` |
-| **RD 39/1997, Reglamento de los Servicios de Prevención, art. 34** | `BOE-A-1997-1853` | leído con `boe.py precepto` |
-| **Doctrina del Tribunal Supremo sobre in itinere y en misión** | Anuario de Derecho del BOE | `fuentes/prl-especifico/boe-anuario-in-itinere-en-mision.md` |
-| **Texto refundido de la LGSS, arts. 156 y 157** | `BOE-A-2015-11724` | `fuentes/corte-20221221/BOE-A-2015-11724.preceptos.md` |
-| **Guía Técnica del INSST sobre pantallas de visualización** | edición de **junio de 2021** | `fuentes/prl-especifico/guia-tecnica-pvd.pdf` |
-| **INSST, TME de la extremidad superior** | versión de **abril de 2025** | `fuentes/prl-especifico/insst-tme-extremidad-superior.pdf` |
-| **NTP 536, extintores de incendio portátiles** | **1999** | `fuentes/prl-especifico/ntp-536.pdf` |
-| **NTP 1090 y 1091, riesgos laborales viarios** | **2017** | `fuentes/prl-especifico/ntp-1090.pdf`, `ntp-1091.pdf` |
-| **Grupo de trabajo de Seguridad Vial Laboral de la CNSST** | informe con datos de **2014** | `fuentes/prl-especifico/cnsst-seguridad-vial.pdf` |
+| Fuente | Identificador o edición |
+| --- | --- |
+| **Ley 31/1995, de Prevención de Riesgos Laborales** | `BOE-A-1995-24292` |
+| **RD 488/1997, pantallas de visualización** | `BOE-A-1997-8671` |
+| **RD 486/1997, lugares de trabajo** | `BOE-A-1997-8669` |
+| **RD 513/2017, instalaciones de protección contra incendios** | `BOE-A-2017-6606` |
+| **RD 2267/2004, establecimientos industriales** | `BOE-A-2004-21216` |
+| **RD 614/2001, riesgo eléctrico** | `BOE-A-2001-11881` |
+| **RD 842/2002, reglamento electrotécnico para baja tensión, art. 2** | `BOE-A-2002-18099` |
+| **RD 39/1997, Reglamento de los Servicios de Prevención, art. 34** | `BOE-A-1997-1853` |
+| **Doctrina del Tribunal Supremo sobre in itinere y en misión** | Anuario de Derecho del BOE |
+| **Texto refundido de la LGSS, arts. 156 y 157** | `BOE-A-2015-11724` |
+| **Guía Técnica del INSST sobre pantallas de visualización** | edición de **junio de 2021** |
+| **INSST, TME de la extremidad superior** | versión de **abril de 2025** |
+| **NTP 536, extintores de incendio portátiles** | **1999** |
+| **NTP 1090 y 1091, riesgos laborales viarios** | **2017** |
+| **Grupo de trabajo de Seguridad Vial Laboral de la CNSST** | informe con datos de **2014** |
 
 **Comprobaciones hechas sobre la fuente, no supuestas:**
 

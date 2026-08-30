@@ -9,9 +9,7 @@
 | **Fuente** | II Plan de Igualdad de RTVE (2022-2026) y Guía de Igualdad de RTVE (2020) |
 | **Identificador** | **Sin identificador del BOE**: son documentos internos de RTVE |
 | **Redacción que se estudia** | Las **ediciones publicadas por RTVE**, versionadas en `fuentes/igualdad/` junto con su transcripción |
-| **Extensión** | **10.045 palabras** |
-| **Esquema de repaso** | `esquemas/general/06-igualdad.md` |
-| **Verificación** | `informes/refutacion-tema-06.md` · `informes/cobertura-tema-06.md` |
+| **Extensión** | **10.042 palabras** |
 
 <!-- /portada -->
 
@@ -87,7 +85,7 @@ bloque general que la fuente **no es ni una ley ni un convenio publicado en el B
 cambia dos cosas.
 
 - **No hay texto consolidado ni identificador BOE**: el programa los cita por su **dirección web
-  (URL) en rtve.es**, y de ahí se han descargado. `herramientas/boe.py` no sirve, y tampoco el
+  (URL) en rtve.es**, y de ahí se han descargado. La lectura automática del BOE no sirve, y tampoco el
   procedimiento del tema 5: aquí no hay documentos que superponer, solo dos documentos en formato PDF.
 - **No son normas del mismo rango ni de la misma naturaleza.** El **II Plan de Igualdad**
   es un **instrumento negociado**, fruto de una comisión negociadora y firmado por la
@@ -1136,8 +1134,6 @@ soltero** y **coñazo / cojonudo**.
 | --- | --- | --- |
 | **II Plan para la Igualdad entre Mujeres y Hombres en la CRTVE (2022-2026)** | PDF en `rtve.es`, la URL que cita el programa · **118 páginas** | Presentación, partes suscriptoras, ámbitos, marco normativo, definiciones, diagnóstico, objetivos, **8 ejes y 50 medidas**, aplicación y seguimiento, revisión, calendario, discrepancias, **anexo I cronograma** y **anexo II protocolo de acoso** |
 | **Guía de Igualdad de RTVE (2020)** | PDF en `rtve.es`, la URL que cita el programa · **26 páginas** | Norma 4/2017, principios generales, actuaciones concretas, tratamiento de la violencia contra las mujeres, lenguaje e igualdad y bibliografía |
-
-Ambos están descargados y transcritos en `fuentes/igualdad/`.
 
 **Advertencia metodológica.** Es el primer tema del bloque general cuya fuente **no está en
 el BOE**: no hay identificador, ni texto consolidado, ni redacciones fechadas, de modo que

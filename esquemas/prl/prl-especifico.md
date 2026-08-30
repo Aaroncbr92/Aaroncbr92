@@ -1,6 +1,6 @@
 # Esquema · Prevención de riesgos laborales (específico: P18 / D7 / I11)
 
-Esqueleto para repasar. Todo desarrollado y verificado en `temas/prl/prl-especifico.md`.
+Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
 

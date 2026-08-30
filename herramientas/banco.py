@@ -33,6 +33,10 @@ PRL_ESPECIFICO = ("PRL específico · Prevención en el temario específico "
 def plantilla(ruta):
     """Devuelve {nº de pregunta: letra}.
 
+    Si al lado hay un `.respuestas.tsv`, se usa ése: son las tres plantillas cuyo
+    PDF no lleva tabla de caracteres, leídas celda a celda por
+    `herramientas/plantilla_ocr.py`.
+
     La plantilla imprime, por bloques, una columna de números y debajo la
     columna de letras que les corresponde. Antes se troceaba por páginas, y
     bastaba con que el pie dijera «Fecha de publicación» en vez de «Fecha de la
@@ -41,6 +45,12 @@ def plantilla(ruta):
     secuencia y se empareja cada racha de números con la racha de letras que va
     detrás, que es como está impresa.
     """
+    leidas = ruta[:-4] + ".respuestas.tsv"
+    if os.path.exists(leidas):
+        return {int(n): l for n, l in
+                (x.split() for x in open(leidas, encoding="utf-8")
+                 if not x.startswith("#") and x.strip())}
+
     t = open(ruta, encoding="utf-8").read().replace("\x0c", "\n")
     fichas = []
     for linea in t.splitlines():
@@ -87,7 +97,29 @@ def parejas():
             cuadernillos[clave(base)] = mejor_lectura(f)
         elif cuerpo.startswith(("plantilla", "respuestas")):
             plantillas[clave(base)] = f
-    return [(f, plantillas.get(k)) for k, f in sorted(cuadernillos.items())]
+    fuera = []
+    for k, f in sorted(cuadernillos.items()):
+        fuera.append((f, plantillas.get(k) or por_parecido(k, plantillas)))
+    return fuera
+
+
+def por_parecido(clave, plantillas):
+    """Rescata la plantilla cuando el nombre del fichero trae una errata.
+
+    La de Ingeniero Superior Industrial se llama `plantilla_de_respuestas_iing_
+    sup_industrial`, con una i de más. Emparejar por nombre exacto la dejaba
+    fuera y sus **diez preguntas** del bloque común entraban sin respuesta. Se
+    acepta la más parecida cuando el parecido es alto y **no hay empate**: si dos
+    plantillas se parecen lo mismo, no se elige ninguna.
+    """
+    import difflib
+    puntos = sorted(((difflib.SequenceMatcher(None, clave, k).ratio(), k)
+                     for k in plantillas), reverse=True)
+    if not puntos or puntos[0][0] < 0.9:
+        return None
+    if len(puntos) > 1 and puntos[1][0] >= puntos[0][0]:
+        return None
+    return plantillas[puntos[0][1]]
 
 
 def mejor_lectura(txt):

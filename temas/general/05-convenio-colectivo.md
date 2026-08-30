@@ -9,9 +9,7 @@
 | **Fuente** | III Convenio Colectivo de la Corporación RTVE |
 | **Identificador** | `BOE-A-2020-16744` (texto) · `BOE-A-2021-1334` (corrección) · `BOE-A-2021-8252` (anexo 7) · `BOE-A-2022-20256` (acuerdo de 2022) |
 | **Redacción que se estudia** | El texto de **2020** con la **corrección de errores de 2021** y el **acuerdo de modificación de 2022**. **No es legislación consolidada**: el articulado se reconstruye superponiendo los documentos |
-| **Extensión** | **18.807 palabras** |
-| **Esquema de repaso** | `esquemas/general/05-convenio-colectivo.md` |
-| **Verificación** | `informes/refutacion-tema-05.md` · `informes/cobertura-tema-05.md` |
+| **Extensión** | **18.798 palabras** |
 
 <!-- /portada -->
 
@@ -39,7 +37,7 @@ hay que aplicarla a mano** sobre el texto de 2020. Aquí eso importa más de lo
 normal, porque el acuerdo de 2022 **cambia de número dos artículos**.
 
 Fuentes: `BOE-A-2020-16744`, `BOE-A-2021-1334` y `BOE-A-2022-20256`, descargadas
-del BOE el 29/08/2026 y transcritas en `fuentes/convenio/`.
+del BOE el 29/08/2026.
 
 ---
 
@@ -525,7 +523,7 @@ promoción profesionales**.
 
 **De dónde salen los trece.** El artículo 38 remite al **anexo 3**, que —como los anexos 1
 y 2— **el BOE publica íntegramente como imagen**: no hay una sola línea de su contenido en
-el texto. Descargado y transcrito en `fuentes/convenio/imagenes/`, reparte así los
+el texto. Reparte así los
 ámbitos, y el mismo nombre puede repetirse en grupos distintos:
 
 | Grupo | Ámbitos ocupacionales |
@@ -1048,7 +1046,7 @@ requerido para la progresión** para subsanar. **Alcanzado el nivel máximo de l
 
 **La tabla de niveles.** El artículo 65 la remite a un cuadro que **el BOE publica como
 imagen**, de modo que no aparece en el texto: está transcrita en
-`fuentes/convenio/imagenes/`. Dice esto:
+la imagen que publica el BOE. Dice esto:
 
 | | Nivel básico | Escala | Nº de niveles |
 | --- | --- | --- | --- |
@@ -1771,8 +1769,7 @@ vigente a la fecha de corte es la segunda.**
 
 **Los anexos 1, 2 y 3 son íntegramente imagen en el BOE.** No hay una sola línea de su
 contenido en el texto: quien lea la transcripción verá los tres rótulos seguidos
-directamente del anexo 4. Están descargados y transcritos en
-`fuentes/convenio/imagenes/`. Lo que sigue es lo que de ellos se puede preguntar; los
+directamente del anexo 4. Lo que sigue es lo que de ellos se puede preguntar; los
 importes concretos no, porque las Leyes de Presupuestos los actualizan cada año.
 
 ### Anexo 1. Tablas salariales
@@ -2043,7 +2040,7 @@ grado, más puntos**, y **cuanto menores los hijos y mayor la distancia, más pu
 ## Trazabilidad
 
 Todo el contenido de este tema procede de la lectura directa de los **cuatro documentos
-oficiales anteriores a la fecha de corte**, transcritos en `fuentes/convenio/`:
+oficiales anteriores a la fecha de corte**:
 
 | Documento | Identificador BOE | Publicación | Qué aporta |
 | --- | --- | --- | --- |
@@ -2055,7 +2052,7 @@ oficiales anteriores a la fecha de corte**, transcritos en `fuentes/convenio/`:
 **Advertencia metodológica.** El convenio colectivo **no es legislación consolidada**: el
 BOE no publica un texto refundido, de modo que **no existe versión consolidada oficial** y
 la redacción en vigor hay que reconstruirla superponiendo los documentos. Por eso
-`herramientas/boe.py` —que trabaja contra la API de legislación consolidada— **no sirve
+La lectura automática del BOE —que trabaja contra la API de legislación consolidada— **no sirve
 aquí**, y todo el tema se ha verificado leyendo los textos publicados. Las tres
 consecuencias prácticas que más pueden costar una pregunta son:
 

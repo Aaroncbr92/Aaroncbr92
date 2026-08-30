@@ -1,9 +1,8 @@
 # Banco de preguntas del bloque común
 
-**504 preguntas reales** —475 del temario general y 29 del tema de prevención del
+**505 preguntas reales** —476 del temario general y 29 del tema de prevención del
 específico— sacadas de los cuadernillos de la convocatoria 1/2022 (pruebas de
-octubre y noviembre de 2024), con **la respuesta de la plantilla oficial** en 437
-de ellas.
+octubre y noviembre de 2024), **todas con la respuesta de la plantilla oficial**.
 
 Se puede hacer porque el temario general es el mismo para las más de cincuenta
 ocupaciones tipo convocadas, y porque las preguntas del bloque común se comparten
@@ -25,7 +24,7 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 **Para qué sirve.** El apartado 7 del manual manda cerrar cada tema comprobando
 que entre diez y quince preguntas del estilo real se contestan con el cuerpo del
-tema delante. Aquí no hace falta inventarlas: hay 504 reales, 437 con su respuesta
+tema delante. Aquí no hace falta inventarlas: hay 505 reales, todas con su respuesta
 oficial. Un tema del bloque común no está terminado hasta que contesta las suyas.
 
 ## Cómo se arma
@@ -51,9 +50,9 @@ cuadernillo, no a la transcripción.
 
 | Cuadernillo | Preguntas leídas | Plantilla |
 |---|---|---|
-| `15_preguntas_gestion` | 100 de 100 | ilegible |
-| `17_preguntas_gestion_abogado_a` | 96 de 96 | ilegible |
-| `25_preguntas_iluminacion` | 96 de 96 | ilegible |
+| `15_preguntas_gestion` | 108 de 108 | recuperada celda a celda |
+| `17_preguntas_gestion_abogado_a` | 96 de 96 | recuperada celda a celda |
+| `25_preguntas_iluminacion` | 96 de 96 | recuperada celda a celda |
 | `44_preguntas_ing_sup_teleco` | 96 de 96 | legible |
 | `50_preguntas_tec_teleco` | 96 de 96 | legible |
 
@@ -62,14 +61,26 @@ de 1 a N sin huecos, el número de bloques de opciones `a)` coincide con el de
 preguntas, y en los dos que tienen plantilla legible N coincide con el número de
 respuestas de la plantilla.
 
-## Lo que este banco no tiene
+## Las tres plantillas que hubo que leer celda a celda
 
-**Tres plantillas siguen ilegibles** —las de Gestión, Gestión-Abogado/A e
-Iluminación— y su OCR no se guarda: son tablas de dos columnas, y Tesseract lee
-bien la primera página pero **pierde la columna de letras en las siguientes**.
-Una plantilla leída a medias es peor que ninguna, porque desplaza las respuestas
-sin avisar. Por eso las preguntas de esos tres cuadernillos aparecen como **«sin
-plantilla»**: son 67 de las 504.
+**Tres plantillas de respuestas llevan la fuente incrustada sin tabla de
+caracteres**, igual que sus cuadernillos: Gestión, Gestión-Abogado/A e
+Iluminación. Sus **65 preguntas** entraban como «sin plantilla».
+
+Pasarles OCR a la hoja entera no funciona —son tablas de dos columnas y el
+lector pierde la de letras a partir de la segunda página—, así que
+`herramientas/plantilla_ocr.py` **no lee la hoja: lee la celda**. La geometría
+sale de los bordes de la tabla, que en el PDF son dibujos vectoriales; los
+códigos de la fuente distinguen las cuatro letras aunque no sepamos nombrarlas;
+y el OCR solo tiene que decir **cuál es cuál**, sobre la celda recortada y por
+mayoría de varias.
+
+**Comprobado por dos caminos independientes**: la lectura coincide **50 de 50**
+con las dos primeras páginas de la plantilla de Iluminación leídas a ojo, y las
+**dos preguntas que se repiten** en cuadernillos de plantilla legible dan la
+misma respuesta, aunque las opciones estén en distinto orden.
+
+## Lo que este banco no tiene
 
 **Un cuadernillo no tiene preguntas que sacar**, y `banco.py` lo avisa en cada
 regeneración: `35_preguntas_iyc_prueba_invalidada_por_filtracion`. RTVE publicó

@@ -56,7 +56,10 @@ def limpia(s):
     return re.sub(r"\s+", " ", s).lower()
 
 
-MARCA = r"(?m)^\s*(\d{1,3})\s*[.,\-–]{1,2}\s"
+# tras el separador puede no haber espacio («101.-Seleccione»), así que en vez de
+# exigirlo se exige que lo que siga no sea un dígito, que es lo que distingue la
+# marca de una cifra como «1.000»
+MARCA = r"(?m)^\s*(\d{1,3})\s*[.,\-–]{1,2}\s*(?=[^\d\s])"
 OPCIONES = re.compile(r"(?m)^\s*a\)").search
 
 

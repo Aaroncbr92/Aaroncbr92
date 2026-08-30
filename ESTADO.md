@@ -58,9 +58,18 @@ en Documentación y en Producción (Asistencia).
 - [x] Comprobado que **las preguntas se repiten**: entre ocupaciones de la misma
       convocatoria y entre convocatorias, a veces palabra por palabra
       (`informes/preguntas-repetidas.md`).
-- [x] **`banco/`: 504 preguntas reales** —475 del bloque común y 29 del tema de
-      prevención del específico— **con su respuesta oficial** en 437 de ellas.
+- [x] **`banco/`: 505 preguntas reales** —476 del bloque común y 29 del tema de
+      prevención del específico—, **todas con su respuesta oficial**.
       Sustituye a las preguntas inventadas del apartado 7 del manual.
+- [x] **El volumen, listo para el opositor** (`informes/mejoras-formato-2026-08-30.md`):
+      sin una sola referencia a ficheros del proyecto, con **encabezado y pie**
+      —portada limpia—, **índice a tres niveles con número de página y clicable**
+      en PDF y en Word, **marcadores** en el PDF, cuerpo justificado y preguntas
+      sin la línea de procedencia.
+- [x] **Las 505 preguntas tienen respuesta oficial.** Las tres plantillas cuyo PDF
+      no lleva tabla de caracteres se leen **celda a celda**
+      (`herramientas/plantilla_ocr.py`), contrastadas contra la imagen y contra
+      preguntas repetidas. **El cuaderno de pendientes queda vacío.**
 - [x] **Segunda prueba de cobertura**, sobre las **111 preguntas** que la pasada de
       verificación añadió y que nunca habían pasado el apartado 7 del manual
       (`informes/cobertura-nuevas-2026-08-30.md`): **102 se contestaban** y **9 no**.

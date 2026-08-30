@@ -1,7 +1,6 @@
 # Tema 5 · III Convenio Colectivo de la Corporación RTVE
 
 Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
-`temas/general/05-convenio-colectivo.md`.
 
 <!-- indice -->
 
@@ -30,7 +29,7 @@ Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 - **BOE-A-2022-20256** · acuerdo de 10/11/2022 · BOE núm. 289, de **02/12/2022** · modifica **12, 13, 16, 17, 18, 21, 27, 30, 63, 102**, nueva **DT 8.ª**, nueva **DT 10.ª**, **anexo 8**.
 
 **Después del corte** (no examinable, pero desactualiza cualquier material reciente): **BOE-A-2023-9620** (corrige el anexo 3) · **BOE-A-2023-17840** (arts. **42, 50, 52, 57, 72, 91**, DT 3.ª y 9.ª, DF 1.ª) · **BOE-A-2024-4470** (arts. 13, 18, 21, 99.3 y 4, anexo 1, DT 8.ª, DF 1.ª) · **BOE-A-2025-24095** (cap. III entero, arts. 102 y 104.5, anexos 7 y 8, añade DT 11.ª y 12.ª).
-- **No es legislación consolidada**: no hay texto refundido oficial. `boe.py` no sirve.
+- **No es legislación consolidada**: no hay texto refundido oficial. la lectura automática del BOE no sirve.
 - **116 artículos · 13 capítulos · 3 DA · 9+1 DT · 1 DF · 1 derogatoria · 8 anexos.**
 
 ## Las dos trampas de numeración
@@ -67,7 +66,7 @@ Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 - **Art. 15 registro de traslados**: inscripción previa imprescindible · **validez 3 años** renovables.
 - **Art. 23 comisión de destino**: puestos **no permanentes en organismos oficiales**, temporal, **se sigue en activo**.
 - **Art. 32 período de prueba**: **>6 meses → 3 meses**; **≤6 meses y duración incierta → 1 mes**. Cualquiera de las partes puede terminar **sin preaviso y sin indemnización**, **salvo las retribuciones devengadas**; informe del mando en **7 días naturales**; superado, **computa a todos los efectos**.
-- **Art. 36-38**: **dos grupos**, **trece ámbitos ocupacionales**. Ámbito ≠ ocupación tipo. Salen del **anexo 3, que el BOE publica como imagen** (transcrito en `fuentes/convenio/imagenes/`).
+- **Art. 36-38**: **dos grupos**, **trece ámbitos ocupacionales**. Ámbito ≠ ocupación tipo. Salen del **anexo 3, que el BOE publica como imagen** .
   - **Realización** → ámbito **Producción de contenidos audiovisuales y multimedia** (Grupo I). **Realización (asistencia)** → ámbito **Realización y edición audiovisual** (Grupo II). El examen cruza las dos.
 - **Art. 39 movilidad funcional**: a grupo superior **máx. 6 meses en un año u 8 alternos en dos**, sin consolidar, cobrando lo que se hace; a inferior, **manteniendo el salario consolidado**.
 
@@ -157,7 +156,7 @@ Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 
 **5 · teletrabajo**: **1 a 4 días semanales** · acuerdo individual de **1 año** prorrogable · reversible con **15 días** de preaviso. **Fuera del horario habitual**: **siempre a instancia de la persona**, la unidad **puede admitirlo con carácter excepcional**, por escrito, **sin repercutir en los compañeros**, con **desconexión digital** y **sin compensación económica distinta** de la del puesto presencial.
 
-**1** tablas salariales · **2** incompatibilidades · **3** clasificación —**los tres, solo imagen en el BOE**, transcritos en `fuentes/convenio/imagenes/`— · **4** Orquesta y Coro · **5** teletrabajo · **6** externalización · **7** (2021) **baremo de enfermedad/discapacidad/dependencia y agrupación familiar** del art. 14.3 · **8** (2022) ocupaciones análogas.
+**1** tablas salariales · **2** incompatibilidades · **3** clasificación —**los tres, solo imagen en el BOE**— · **4** Orquesta y Coro · **5** teletrabajo · **6** externalización · **7** (2021) **baremo de enfermedad/discapacidad/dependencia y agrupación familiar** del art. 14.3 · **8** (2022) ocupaciones análogas.
 
 - **Anexo 7**: **enfermedad, discapacidad o dependencia hasta 12 pts**, escala **2·4·6·9·12**, por parentesco (solicitante o cónyuge · familiar de 1.º · familiar de 2.º, que **solo entra desde grado I o 33 %**) y grado. **Agrupación familiar hasta 8 pts**, escala **1·2·4·6·8**, cruzando situación (sin hijos · hijos de 12 a 18 · hijos hasta 12, también monoparental y divorcio · divorcio sin hijos) con distancia **<100 km · 100-250 km · >250 km**, tramo al que se equipara **insular/Ceuta/Melilla con familia en península y a la inversa**. Más cerca el parentesco y mayor el grado, más puntos; menores los hijos y mayor la distancia, más puntos.
 

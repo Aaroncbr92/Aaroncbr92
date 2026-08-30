@@ -288,7 +288,10 @@ cierre para que quede el histórico del error propio.
 
 ## Abiertos (reabierto el 2026-08-30)
 
-### 2026-08-30 · Tres plantillas oficiales que el OCR no sabe leer entera
+_**Cerrado el mismo día.** El único pendiente que quedaba, el de las tres plantillas
+ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**_
+
+### 2026-08-30 · Tres plantillas oficiales que el OCR no sabe leer entera — RESUELTO
 
 - **Dónde**: `convocatoria/examenes/16_plantilla_de_respuestas_gestion.pdf`,
   `18_plantilla_de_respuestas_gestion_abogado_a.pdf` y
@@ -305,5 +308,20 @@ cierre para que quede el histórico del error propio.
   como **«sin plantilla»**, y el volumen imprimible lo explica en el apéndice de respuestas.
 - **Qué faltaría**: recortar la página por columnas **antes** de pasarle Tesseract, y validar
   el resultado contra el número de preguntas del cuadernillo antes de darlo por bueno.
-- **Gravedad**: menor. No hay ningún dato equivocado en el banco; hay 67 preguntas cuya
+- **Gravedad**: menor. No hay ningún dato equivocado en el banco; hay 65 preguntas cuya
   respuesta oficial no se puede citar. El enunciado sí está, y con el tema delante se contestan.
+- **RESUELTO el 2026-08-30**, y por donde no se había mirado: **el problema no era el
+  lector, era la unidad de lectura**. Dando la hoja entera, ningún modo de segmentación
+  saca la columna de letras. Leyendo **celda a celda** sale entera, y con tres apoyos que
+  no requieren adivinar nada: la **geometría exacta** la dan los bordes de la tabla, que en
+  el PDF son dibujos vectoriales; los **códigos de la fuente** ya distinguen las cuatro
+  letras, aunque no sepan nombrarlas —y son consistentes **por página**, no por documento,
+  porque cada página incrusta la suya—; y al OCR solo le queda **decir cuál es cuál**, por
+  mayoría de varias celdas.
+  **Contrastado por fuera**: **50 de 50** contra las dos primeras páginas de la plantilla de
+  Iluminación leídas a ojo, y las **dos preguntas repetidas** en cuadernillos de plantilla
+  legible dan la misma respuesta aunque las opciones vayan en distinto orden.
+  Aplicado en `herramientas/plantilla_ocr.py`. **Las 505 preguntas del banco tienen ahora
+  su respuesta oficial.**
+  **La lección**: se dio por agotado un camino tras probar cuatro modos del mismo lector,
+  cuando lo que había que cambiar no era el modo sino **qué se le daba a leer**.

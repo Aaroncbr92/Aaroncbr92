@@ -1,6 +1,6 @@
 # Tema 6 · Igualdad en RTVE
 
-Esqueleto para repasar. Todo desarrollado y verificado en `temas/general/06-igualdad.md`.
+Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
 

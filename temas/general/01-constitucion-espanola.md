@@ -9,9 +9,7 @@
 | **Fuente** | Constitución Española de 27 de diciembre de 1978 |
 | **Identificador** | `BOE-A-1978-31229` · BOE núm. 311, de 29/12/1978 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Al corte, la única reforma consumada era la del **artículo 135** (2011); las dos posteriores van en «Notas de actualización», fuera del cuerpo examinable |
-| **Extensión** | **16.592 palabras** |
-| **Esquema de repaso** | `esquemas/general/01-constitucion-espanola.md` |
-| **Verificación** | `informes/refutacion-tema-01.md` · `informes/cobertura-tema-01.md` |
+| **Extensión** | **16.586 palabras** |
 
 <!-- /portada -->
 
@@ -27,7 +25,7 @@ justamente la que cita el enunciado. Las dos posteriores están al final del tem
 en «Notas de actualización», fuera del cuerpo examinable.
 
 Fuente: texto consolidado del BOE, identificador `BOE-A-1978-31229`, leído el
-29 de agosto de 2026 con `herramientas/boe.py --fecha 20221221`.
+29 de agosto de 2026.
 
 ---
 
@@ -1878,8 +1876,7 @@ Es posterior al corte y **no entra**.
 ## Trazabilidad
 
 - **Fuente**: texto consolidado `BOE-A-1978-31229`, leído el 29/08/2026 a la fecha
-  de corte 20221221 con `herramientas/boe.py`. Volcado íntegro en
-  `fuentes/corte-20221221/BOE-A-1978-31229.md`.
+  de corte, 21 de diciembre de 2022.
 - **Preceptos con más de una redacción** en la cadena: artículos **13, 49, 69 y
   135**. Los cuatro releídos enteros. A 21/12/2022 se aplican: la redacción de 1992
   del 13, la de 1978 del 49 y del 69, y la de 2011 del 135.
