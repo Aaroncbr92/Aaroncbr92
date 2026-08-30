@@ -11,6 +11,9 @@ Dos comprobaciones por artículo:
 """
 import re
 import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from tema import cuerpo as sin_envoltorio
 import unicodedata
 
 # el subjuntivo cuenta: «cuando no pueda compensar» es tan potestativo como «podrá»,
@@ -138,7 +141,8 @@ def bloques(tema):
 
 
 def main():
-    tema = open(sys.argv[1], encoding="utf-8").read()
+    # fuera la portada y el índice: son envoltorio, no afirmaciones del tema
+    tema = sin_envoltorio(open(sys.argv[1], encoding="utf-8").read())
     arts = articulos(open(sys.argv[2], encoding="utf-8").read())
     hallazgos = 0
     for nums, texto in sorted(bloques(tema).items()):

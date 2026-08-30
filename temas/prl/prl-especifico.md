@@ -1,5 +1,69 @@
 # Tema de prevención de riesgos laborales del específico
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción 18 · Documentación 7 · Información y Contenidos 11 |
+| **Sirve para** | **Producción (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Fuente** | Cinco rúbricas sobre **once fuentes**: Ley 31/1995, RD 488/1997, RD 486/1997, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015 y documentación técnica del INSST |
+| **Identificador** | Normas: `BOE-A-1997-8671` y las demás, en `fuentes/corte-20221221/`. Técnicas: `fuentes/prl-especifico/` |
+| **Redacción que se estudia** | Las **normas**, en su redacción vigente el **21/12/2022**. La **documentación técnica del INSST**, en su **edición publicada**, indicada caso por caso |
+| **Extensión** | **11.849 palabras** |
+| **Esquema de repaso** | `esquemas/prl/prl-especifico.md` |
+| **Verificación** | `informes/refutacion-tema-prl-especifico.md` · `informes/cobertura-tema-prl-especifico.md` |
+
+<!-- /portada -->
+
+<!-- indice -->
+
+## Índice
+
+- [Qué es este tema y qué no](#qué-es-este-tema-y-qué-no)
+  - [Las cuatro disciplinas preventivas](#las-cuatro-disciplinas-preventivas)
+- [1. Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales](#1-derechos-y-obligaciones-de-los-trabajadores-en-materia-de-prevención-de-riesgos-laborales)
+  - [1.1. El derecho matriz: artículo 14.1](#11-el-derecho-matriz-artículo-141)
+  - [1.2. Derecho a la información (artículo 18.1)](#12-derecho-a-la-información-artículo-181)
+  - [1.3. Derecho a la consulta y la participación (artículos 18.2, 33 y 34)](#13-derecho-a-la-consulta-y-la-participación-artículos-182-33-y-34)
+  - [1.4. Derecho a la formación (artículo 19)](#14-derecho-a-la-formación-artículo-19)
+  - [1.5. Derecho a interrumpir la actividad ante riesgo grave e inminente (artículo 21)](#15-derecho-a-interrumpir-la-actividad-ante-riesgo-grave-e-inminente-artículo-21)
+  - [1.6. Derecho a la vigilancia de la salud (artículo 22)](#16-derecho-a-la-vigilancia-de-la-salud-artículo-22)
+  - [1.7. Derechos de grupos con protección reforzada (artículos 25 a 28)](#17-derechos-de-grupos-con-protección-reforzada-artículos-25-a-28)
+  - [1.8. Las obligaciones de los trabajadores (artículo 29)](#18-las-obligaciones-de-los-trabajadores-artículo-29)
+- [2. Pantallas de visualización de datos: riesgos asociados y medidas de prevención](#2-pantallas-de-visualización-de-datos-riesgos-asociados-y-medidas-de-prevención)
+  - [2.1. Objeto y exclusiones (artículo 1)](#21-objeto-y-exclusiones-artículo-1)
+  - [2.2. Las tres definiciones (artículo 2)](#22-las-tres-definiciones-artículo-2)
+  - [2.3. Obligaciones del empresario (artículo 3)](#23-obligaciones-del-empresario-artículo-3)
+  - [2.4. Vigilancia de la salud (artículo 4)](#24-vigilancia-de-la-salud-artículo-4)
+  - [2.5. Información y formación (artículo 5)](#25-información-y-formación-artículo-5)
+  - [2.6. Los riesgos asociados, según la Guía Técnica](#26-los-riesgos-asociados-según-la-guía-técnica)
+  - [2.7. Las disposiciones mínimas del anexo](#27-las-disposiciones-mínimas-del-anexo)
+  - [2.8. La distancia de la pantalla, con el matiz que decide la pregunta](#28-la-distancia-de-la-pantalla-con-el-matiz-que-decide-la-pregunta)
+- [3. Trastornos musculoesqueléticos en la extremidad superior: factores de riesgo y su prevención](#3-trastornos-musculoesqueléticos-en-la-extremidad-superior-factores-de-riesgo-y-su-prevención)
+  - [3.1. Qué son](#31-qué-son)
+  - [3.2. Las patologías de la extremidad superior](#32-las-patologías-de-la-extremidad-superior)
+  - [3.3. Los factores de riesgo](#33-los-factores-de-riesgo)
+  - [3.4. Consecuencias de la repetitividad y del trabajo monótono](#34-consecuencias-de-la-repetitividad-y-del-trabajo-monótono)
+  - [3.5. La prevención](#35-la-prevención)
+  - [3.6. El puente con las pantallas](#36-el-puente-con-las-pantallas)
+- [4. Incendios y medidas preventivas](#4-incendios-y-medidas-preventivas)
+  - [4.1. La obligación del empresario: artículo 20 de la Ley 31/1995](#41-la-obligación-del-empresario-artículo-20-de-la-ley-311995)
+  - [4.2. El lugar de trabajo: RD 486/1997, anexo I](#42-el-lugar-de-trabajo-rd-4861997-anexo-i)
+  - [4.3. Las clases de fuego](#43-las-clases-de-fuego)
+  - [4.4. Los agentes extintores y su adecuación](#44-los-agentes-extintores-y-su-adecuación)
+  - [4.5. Los extintores](#45-los-extintores)
+  - [4.6. Bocas de incendio equipadas (BIE)](#46-bocas-de-incendio-equipadas-bie)
+  - [4.7. Establecimientos industriales: RD 2267/2004](#47-establecimientos-industriales-rd-22672004)
+  - [4.8. El riesgo eléctrico, que es donde empiezan muchos incendios](#48-el-riesgo-eléctrico-que-es-donde-empiezan-muchos-incendios)
+- [5. Accidente in itinere o in misión y medidas preventivas](#5-accidente-in-itinere-o-in-misión-y-medidas-preventivas)
+  - [5.1. El artículo 156 del texto refundido de la Ley General de la Seguridad Social](#51-el-artículo-156-del-texto-refundido-de-la-ley-general-de-la-seguridad-social)
+  - [5.2. El accidente in itinere: qué exige la jurisprudencia](#52-el-accidente-in-itinere-qué-exige-la-jurisprudencia)
+  - [5.3. El accidente en misión](#53-el-accidente-en-misión)
+  - [5.4. Las medidas preventivas](#54-las-medidas-preventivas)
+- [Trazabilidad](#trazabilidad)
+
+<!-- /indice -->
+
 > **Enunciado de la convocatoria** (anexo 2). Es **el mismo, palabra por palabra**, en los tres
 > temarios específicos, con distinto número: **Producción (Asistencia) 18**, **Documentación
 > 7**, **Información y Contenidos 11**:

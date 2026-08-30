@@ -2,6 +2,9 @@
 """Refutación por prosa y forma: relleno, repeticiones y siglas sin presentar."""
 import re
 import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from tema import cuerpo as sin_envoltorio
 import unicodedata
 from collections import Counter
 
@@ -19,7 +22,8 @@ def limpia(s):
 
 
 def main():
-    tema = open(sys.argv[1], encoding="utf-8").read()
+    # fuera la portada y el índice: son envoltorio, no afirmaciones del tema
+    tema = sin_envoltorio(open(sys.argv[1], encoding="utf-8").read())
     hallazgos = 0
 
     print("## Tejido conectivo y relleno")

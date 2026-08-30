@@ -1,4 +1,72 @@
-# Tema 1 (general) · Constitución Española de 27 de diciembre de 1978
+# Tema 1 del general · Constitución Española de 27 de diciembre de 1978
+
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario general · punto 1 |
+| **Sirve para** | **Producción (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Fuente** | Constitución Española de 27 de diciembre de 1978 |
+| **Identificador** | `BOE-A-1978-31229` · BOE núm. 311, de 29/12/1978 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Al corte, la única reforma consumada era la del **artículo 135** (2011); las dos posteriores van en «Notas de actualización», fuera del cuerpo examinable |
+| **Extensión** | **16.592 palabras** |
+| **Esquema de repaso** | `esquemas/general/01-constitucion-espanola.md` |
+| **Verificación** | `informes/refutacion-tema-01.md` · `informes/cobertura-tema-01.md` |
+
+<!-- /portada -->
+
+<!-- indice -->
+
+## Índice
+
+- [1. Elaboración, estructura y entrada en vigor](#1-elaboración-estructura-y-entrada-en-vigor)
+  - [1.1. Cómo se hizo](#11-cómo-se-hizo)
+  - [1.2. Entrada en vigor](#12-entrada-en-vigor)
+  - [1.3. Estructura](#13-estructura)
+  - [1.4. Las reformas](#14-las-reformas)
+- [2. Título Preliminar (artículos 1 a 9)](#2-título-preliminar-artículos-1-a-9)
+  - [Artículo 1. Estado, soberanía y forma política](#artículo-1-estado-soberanía-y-forma-política)
+  - [Artículo 2. Unidad y autonomía](#artículo-2-unidad-y-autonomía)
+  - [Artículo 3. Lenguas](#artículo-3-lenguas)
+  - [Artículo 4. Bandera](#artículo-4-bandera)
+  - [Artículo 5. Capital](#artículo-5-capital)
+  - [Artículo 6. Partidos políticos](#artículo-6-partidos-políticos)
+  - [Artículo 7. Sindicatos y asociaciones empresariales](#artículo-7-sindicatos-y-asociaciones-empresariales)
+  - [Artículo 8. Fuerzas Armadas](#artículo-8-fuerzas-armadas)
+  - [Artículo 9. Sujeción a la Constitución y principios del ordenamiento](#artículo-9-sujeción-a-la-constitución-y-principios-del-ordenamiento)
+- [3. Título I. De los derechos y deberes fundamentales (artículos 10 a 55)](#3-título-i-de-los-derechos-y-deberes-fundamentales-artículos-10-a-55)
+  - [3.1. Artículo 10. Fundamento del orden político](#31-artículo-10-fundamento-del-orden-político)
+  - [3.2. Capítulo primero. De los españoles y los extranjeros (arts. 11 a 13)](#32-capítulo-primero-de-los-españoles-y-los-extranjeros-arts-11-a-13)
+  - [3.3. Artículo 14. Igualdad](#33-artículo-14-igualdad)
+  - [3.4. Sección 1.ª Derechos fundamentales y libertades públicas (arts. 15 a 29)](#34-sección-1ª-derechos-fundamentales-y-libertades-públicas-arts-15-a-29)
+  - [3.5. Sección 2.ª Derechos y deberes de los ciudadanos (arts. 30 a 38)](#35-sección-2ª-derechos-y-deberes-de-los-ciudadanos-arts-30-a-38)
+  - [3.6. Capítulo tercero. Principios rectores de la política social y económica (arts. 39 a 52)](#36-capítulo-tercero-principios-rectores-de-la-política-social-y-económica-arts-39-a-52)
+  - [3.7. Capítulo cuarto. Garantías (arts. 53 y 54)](#37-capítulo-cuarto-garantías-arts-53-y-54)
+  - [3.8. Capítulo quinto. Suspensión de derechos (art. 55)](#38-capítulo-quinto-suspensión-de-derechos-art-55)
+- [4. Título II. De la Corona (artículos 56 a 65)](#4-título-ii-de-la-corona-artículos-56-a-65)
+- [5. Título III. De las Cortes Generales (artículos 66 a 96)](#5-título-iii-de-las-cortes-generales-artículos-66-a-96)
+  - [5.1. Capítulo primero. De las Cámaras](#51-capítulo-primero-de-las-cámaras)
+  - [5.2. Capítulo segundo. De la elaboración de las leyes](#52-capítulo-segundo-de-la-elaboración-de-las-leyes)
+  - [5.3. Capítulo tercero. De los Tratados Internacionales](#53-capítulo-tercero-de-los-tratados-internacionales)
+- [6. Título IV. Del Gobierno y de la Administración (artículos 97 a 107)](#6-título-iv-del-gobierno-y-de-la-administración-artículos-97-a-107)
+- [7. Título V. De las relaciones entre el Gobierno y las Cortes Generales (artículos 108 a 116)](#7-título-v-de-las-relaciones-entre-el-gobierno-y-las-cortes-generales-artículos-108-a-116)
+- [8. Título VI. Del Poder Judicial (artículos 117 a 127)](#8-título-vi-del-poder-judicial-artículos-117-a-127)
+- [9. Título VII. Economía y Hacienda (artículos 128 a 136)](#9-título-vii-economía-y-hacienda-artículos-128-a-136)
+- [10. Título VIII. De la Organización Territorial del Estado (artículos 137 a 158)](#10-título-viii-de-la-organización-territorial-del-estado-artículos-137-a-158)
+  - [10.1. Principios generales](#101-principios-generales)
+  - [10.2. Administración Local](#102-administración-local)
+  - [10.3. Comunidades Autónomas](#103-comunidades-autónomas)
+- [11. Título IX. Del Tribunal Constitucional (artículos 159 a 165)](#11-título-ix-del-tribunal-constitucional-artículos-159-a-165)
+- [12. Título X. De la reforma constitucional (artículos 166 a 169)](#12-título-x-de-la-reforma-constitucional-artículos-166-a-169)
+- [13. Las disposiciones (quince en total)](#13-las-disposiciones-quince-en-total)
+  - [13.1. Adicionales (cuatro)](#131-adicionales-cuatro)
+  - [13.2. Transitorias (nueve)](#132-transitorias-nueve)
+  - [13.3. Derogatoria y final](#133-derogatoria-y-final)
+- [14. La Constitución en el trabajo de RTVE](#14-la-constitución-en-el-trabajo-de-rtve)
+- [15. Notas de actualización](#15-notas-de-actualización)
+- [Trazabilidad](#trazabilidad)
+
+<!-- /indice -->
 
 > **Enunciado de la convocatoria (Anexo 2, temario general, punto 1):**
 > «Constitución Española de 27 de diciembre de 1978 (Texto consolidado BOE núm.

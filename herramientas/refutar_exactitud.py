@@ -10,6 +10,9 @@ Uso:  refutar_exactitud.py <tema.md> <fuente.md>
 """
 import re
 import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from tema import cuerpo as sin_envoltorio
 import unicodedata
 
 
@@ -125,7 +128,8 @@ def trozos(tema):
 
 
 def main():
-    tema = open(sys.argv[1], encoding="utf-8").read()
+    # fuera la portada y el índice: son envoltorio, no afirmaciones del tema
+    tema = sin_envoltorio(open(sys.argv[1], encoding="utf-8").read())
     fuente = open(sys.argv[2], encoding="utf-8").read()
     arts = articulos(fuente)
 

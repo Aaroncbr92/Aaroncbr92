@@ -19,6 +19,9 @@ Uso:  refutar_documento.py <tema.md> <fuente.txt> [<fuente.txt> ...]
 """
 import re
 import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from tema import cuerpo as sin_envoltorio
 import unicodedata
 
 # los PDF meten guiones de corte, espacios duros y ligaduras; sin normalizarlos
@@ -56,7 +59,8 @@ def negritas(tema):
 
 
 def main():
-    tema = open(sys.argv[1], encoding="utf-8").read()
+    # fuera la portada y el índice: son envoltorio, no afirmaciones del tema
+    tema = sin_envoltorio(open(sys.argv[1], encoding="utf-8").read())
     fuente = " ".join(limpia(open(f, encoding="utf-8").read()) for f in sys.argv[2:])
 
     neg = negritas(tema)

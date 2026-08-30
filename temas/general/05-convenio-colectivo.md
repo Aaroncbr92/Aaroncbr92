@@ -1,4 +1,106 @@
-# Tema 5 (general) · III Convenio Colectivo de la Corporación RTVE
+# Tema 5 del general · III Convenio Colectivo de la Corporación RTVE
+
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario general · punto 5 |
+| **Sirve para** | **Producción (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Fuente** | III Convenio Colectivo de la Corporación RTVE |
+| **Identificador** | `BOE-A-2020-16744` (texto) · `BOE-A-2021-1334` (corrección) · `BOE-A-2021-8252` (anexo 7) · `BOE-A-2022-20256` (acuerdo de 2022) |
+| **Redacción que se estudia** | El texto de **2020** con la **corrección de errores de 2021** y el **acuerdo de modificación de 2022**. **No es legislación consolidada**: el articulado se reconstruye superponiendo los documentos |
+| **Extensión** | **18.432 palabras** |
+| **Esquema de repaso** | `esquemas/general/05-convenio-colectivo.md` |
+| **Verificación** | `informes/refutacion-tema-05.md` · `informes/cobertura-tema-05.md` |
+
+<!-- /portada -->
+
+<!-- indice -->
+
+## Índice
+
+- [1. Lo primero, porque descoloca: el acuerdo de 2022 renumera dos artículos](#1-lo-primero-porque-descoloca-el-acuerdo-de-2022-renumera-dos-artículos)
+- [2. Estructura](#2-estructura)
+- [3. Capítulo I. Normas generales (artículos 1 a 7)](#3-capítulo-i-normas-generales-artículos-1-a-7)
+  - [Ámbitos (artículo 1)](#ámbitos-artículo-1)
+  - [Artículo 2. Ámbito temporal](#artículo-2-ámbito-temporal)
+  - [Artículo 3. Nulidad de cláusulas](#artículo-3-nulidad-de-cláusulas)
+  - [Artículo 4. Comisión paritaria](#artículo-4-comisión-paritaria)
+  - [Artículo 5. Solución extrajudicial de conflictos](#artículo-5-solución-extrajudicial-de-conflictos)
+  - [Artículos 6 y 7. Organización y ordenación del trabajo](#artículos-6-y-7-organización-y-ordenación-del-trabajo)
+- [4. Capítulo II. Comisión de producción interna (artículos 8 y 9)](#4-capítulo-ii-comisión-de-producción-interna-artículos-8-y-9)
+- [5. Capítulo III. Empleo (artículos 10 a 32)](#5-capítulo-iii-empleo-artículos-10-a-32)
+- [6. Capítulo V. Clasificación profesional (artículos 36 a 40)](#6-capítulo-v-clasificación-profesional-artículos-36-a-40)
+  - [Artículo 36. El sistema](#artículo-36-el-sistema)
+  - [Artículo 37. Los dos grupos profesionales](#artículo-37-los-dos-grupos-profesionales)
+  - [Artículo 38. Los trece ámbitos ocupacionales](#artículo-38-los-trece-ámbitos-ocupacionales)
+  - [Artículo 39. Movilidad funcional](#artículo-39-movilidad-funcional)
+- [Capítulo VI. Tiempos de trabajo y descanso (artículos 41 a 62)](#capítulo-vi-tiempos-de-trabajo-y-descanso-artículos-41-a-62)
+  - [Artículo 41. Jornadas](#artículo-41-jornadas)
+  - [Artículo 42. Jornada de trabajo](#artículo-42-jornada-de-trabajo)
+  - [Artículo 43. Horarios y descansos](#artículo-43-horarios-y-descansos)
+  - [Artículo 44. Adaptación de jornadas por conciliación](#artículo-44-adaptación-de-jornadas-por-conciliación)
+  - [Artículo 45. Horarios variables](#artículo-45-horarios-variables)
+  - [Artículo 46. Jornadas asociadas a variabilidad horaria](#artículo-46-jornadas-asociadas-a-variabilidad-horaria)
+  - [Artículos 47 y 48. Mandos orgánicos y especial responsabilidad](#artículos-47-y-48-mandos-orgánicos-y-especial-responsabilidad)
+  - [Artículo 49. Disponibilidad](#artículo-49-disponibilidad)
+  - [Artículo 50. Turnicidad](#artículo-50-turnicidad)
+  - [Artículo 51. Guardias](#artículo-51-guardias)
+  - [Artículo 52. Jornada fin de semana](#artículo-52-jornada-fin-de-semana)
+  - [Artículos 53 a 56. Unidades informativas, rodaje y gratificación absorbible](#artículos-53-a-56-unidades-informativas-rodaje-y-gratificación-absorbible)
+  - [Artículo 57. Comisiones de servicio](#artículo-57-comisiones-de-servicio)
+  - [Artículo 58. Prestación de servicios fuera de los centros](#artículo-58-prestación-de-servicios-fuera-de-los-centros)
+  - [Artículo 59. Horas extraordinarias](#artículo-59-horas-extraordinarias)
+  - [Artículo 60. Vacaciones anuales](#artículo-60-vacaciones-anuales)
+  - [Artículo 61. Licencias](#artículo-61-licencias)
+  - [Artículo 62. Teletrabajo o trabajo a distancia](#artículo-62-teletrabajo-o-trabajo-a-distancia)
+- [Capítulo VII. Sistema retributivo (artículos 63 a 77)](#capítulo-vii-sistema-retributivo-artículos-63-a-77)
+  - [Artículo 63. Retribuciones — modificado por el acuerdo de 2022](#artículo-63-retribuciones--modificado-por-el-acuerdo-de-2022)
+  - [Artículo 64. Anticipos](#artículo-64-anticipos)
+  - [Artículo 65. Retribuciones personales: salario base y progresión](#artículo-65-retribuciones-personales-salario-base-y-progresión)
+  - [Artículo 66. Complementos](#artículo-66-complementos)
+  - [Artículos 67 a 70. Complementos personales](#artículos-67-a-70-complementos-personales)
+  - [Artículo 71. Complementos de puesto](#artículo-71-complementos-de-puesto)
+  - [Artículo 72. Complementos de calidad o cantidad](#artículo-72-complementos-de-calidad-o-cantidad)
+  - [Artículos 73 y 74. Otros complementos y pagas extraordinarias](#artículos-73-y-74-otros-complementos-y-pagas-extraordinarias)
+  - [Artículo 75. Compensaciones por gastos de comisión de servicio](#artículo-75-compensaciones-por-gastos-de-comisión-de-servicio)
+  - [Artículos 76 y 77](#artículos-76-y-77)
+- [Capítulo VIII. Derechos y deberes. Régimen disciplinario (artículos 78 a 90)](#capítulo-viii-derechos-y-deberes-régimen-disciplinario-artículos-78-a-90)
+  - [Artículo 78. Derechos](#artículo-78-derechos)
+  - [Artículo 79. Deberes](#artículo-79-deberes)
+  - [Artículos 80 y 81. Clases de faltas y graduación](#artículos-80-y-81-clases-de-faltas-y-graduación)
+  - [Artículo 82. Faltas leves](#artículo-82-faltas-leves)
+  - [Artículo 83. Faltas graves](#artículo-83-faltas-graves)
+  - [Artículo 84. Faltas muy graves](#artículo-84-faltas-muy-graves)
+  - [Artículo 85. Clases de sanciones](#artículo-85-clases-de-sanciones)
+  - [Artículos 86 y 87. Procedimiento y notificación](#artículos-86-y-87-procedimiento-y-notificación)
+  - [Artículos 88 a 90. Prescripción y cancelación](#artículos-88-a-90-prescripción-y-cancelación)
+- [Capítulo IX. Actividades sindicales (artículo 91)](#capítulo-ix-actividades-sindicales-artículo-91)
+- [Capítulo X. Seguridad y salud laboral (artículos 92 a 95)](#capítulo-x-seguridad-y-salud-laboral-artículos-92-a-95)
+- [Capítulo XI. Suspensión y extinción (artículos 96 a 99)](#capítulo-xi-suspensión-y-extinción-artículos-96-a-99)
+  - [Artículo 96. Suspensión](#artículo-96-suspensión)
+  - [Artículo 97. Extinción](#artículo-97-extinción)
+  - [Artículo 98. Efectos de la extinción](#artículo-98-efectos-de-la-extinción)
+  - [Artículo 99. Jubilaciones](#artículo-99-jubilaciones)
+- [Capítulo XII. Situaciones del personal (artículos 100 a 107)](#capítulo-xii-situaciones-del-personal-artículos-100-a-107)
+  - [Artículo 102. Excedencia voluntaria — modificado por el acuerdo de 2022](#artículo-102-excedencia-voluntaria--modificado-por-el-acuerdo-de-2022)
+  - [Artículos 103 a 107](#artículos-103-a-107)
+- [Capítulo XIII. Actividades sociales (artículos 108 a 116)](#capítulo-xiii-actividades-sociales-artículos-108-a-116)
+- [Disposiciones](#disposiciones)
+  - [Adicionales](#adicionales)
+  - [Transitorias](#transitorias)
+  - [Final y derogatoria](#final-y-derogatoria)
+- [Anexos](#anexos)
+  - [Anexo 1. Tablas salariales](#anexo-1-tablas-salariales)
+  - [Anexo 2. Tabla de incompatibilidades de complementos](#anexo-2-tabla-de-incompatibilidades-de-complementos)
+  - [Anexo 4. Régimen especial de la Orquesta Sinfónica y Coro (OSCRTVE)](#anexo-4-régimen-especial-de-la-orquesta-sinfónica-y-coro-oscrtve)
+  - [Anexo 5. Teletrabajo](#anexo-5-teletrabajo)
+  - [Anexo 6. Externalización de servicios](#anexo-6-externalización-de-servicios)
+  - [Anexo 7. Baremo de enfermedad, discapacidad o dependencia y de agrupación familiar](#anexo-7-baremo-de-enfermedad-discapacidad-o-dependencia-y-de-agrupación-familiar)
+- [Trazabilidad](#trazabilidad)
+- [Nota de actualización: lo que ha cambiado después del corte](#nota-de-actualización-lo-que-ha-cambiado-después-del-corte)
+
+<!-- /indice -->
 
 > **Enunciado de la convocatoria (Anexo 2, temario general, punto 5):**
 > «III Convenio Colectivo de la Corporación RTVE

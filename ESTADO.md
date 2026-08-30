@@ -90,6 +90,17 @@ en Documentación y en Producción (Asistencia).
       en el HTML ni en la transcripción de texto, y su ausencia no da ningún aviso.
       Descargadas y **transcritas las cinco** en `fuentes/convenio/imagenes/`: la tabla
       del artículo 65 y los anexos 1, 2 y 3.
+- [x] **Todos los temas llevan portada e índice**, generados con
+      `herramientas/indice.py` y **regenerables**: un índice escrito a mano se queda viejo al
+      primer epígrafe que se añade, y un índice viejo no da error, lleva a otro sitio. La
+      portada dice bloque del programa, fuente, identificador, redacción que se estudia,
+      extensión medida y dónde están el esquema y los informes. **El script comprueba que las
+      rutas que cita existen**, y así se descubrió que **los temas 2 y 3 citaban un informe de
+      refutación que nunca se había escrito**: reconstruido en
+      `informes/refutacion-temas-02-03.md`, marcado como reconstrucción.
+- [x] **Las cuatro lentes ignoran la portada y el índice** (`herramientas/tema.py`, una sola
+      función compartida). Sin eso, el envoltorio metía **ocho falsos «no literales» y una
+      cifra huérfana por tema**: ruido que acaba enseñando a no mirar la lista.
 - [x] **Cuaderno de pendientes vaciado (2026-08-30).** Los ocho hallazgos que había están
       cerrados: **cuatro investigados y aplicados** —la entrada en vigor de la DF cuarta de la
       Ley 13/2022, la fecha de cese del artículo 155, el número de senadores y el interruptor

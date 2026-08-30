@@ -1,5 +1,77 @@
 # Tema 6 del general · Igualdad en RTVE
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario general · punto 6 |
+| **Sirve para** | **Producción (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Fuente** | II Plan de Igualdad de RTVE (2022-2026) y Guía de Igualdad de RTVE (2020) |
+| **Identificador** | **Sin identificador del BOE**: son documentos internos de RTVE |
+| **Redacción que se estudia** | Las **ediciones publicadas por RTVE**, versionadas en `fuentes/igualdad/` junto con su transcripción |
+| **Extensión** | **9.897 palabras** |
+| **Esquema de repaso** | `esquemas/general/06-igualdad.md` |
+| **Verificación** | `informes/refutacion-tema-06.md` · `informes/cobertura-tema-06.md` |
+
+<!-- /portada -->
+
+<!-- indice -->
+
+## Índice
+
+- [Qué clase de documentos son](#qué-clase-de-documentos-son)
+- [1. Presentación y encaje](#1-presentación-y-encaje)
+- [2. Partes suscriptoras](#2-partes-suscriptoras)
+- [3. Ámbito personal, territorial y temporal](#3-ámbito-personal-territorial-y-temporal)
+- [4. Marco normativo](#4-marco-normativo)
+- [5. Definiciones](#5-definiciones)
+- [6. Informe diagnóstico](#6-informe-diagnóstico)
+  - [Los tres agentes de la igualdad en RTVE](#los-tres-agentes-de-la-igualdad-en-rtve)
+  - [Los datos, a diciembre de 2020](#los-datos-a-diciembre-de-2020)
+  - [Otras conclusiones del diagnóstico](#otras-conclusiones-del-diagnóstico)
+- [7. Objetivos](#7-objetivos)
+  - [Cuatro objetivos generales](#cuatro-objetivos-generales)
+  - [Diez objetivos específicos](#diez-objetivos-específicos)
+- [8. Los ocho ejes y su correspondencia con los objetivos](#8-los-ocho-ejes-y-su-correspondencia-con-los-objetivos)
+- [9. Las medidas, eje por eje](#9-las-medidas-eje-por-eje)
+  - [Eje 1. Liderazgo y estrategia](#eje-1-liderazgo-y-estrategia)
+  - [Eje 2. Política y cultura de la organización](#eje-2-política-y-cultura-de-la-organización)
+  - [Eje 3. Gestión de personas](#eje-3-gestión-de-personas)
+  - [Eje 4. Salud laboral](#eje-4-salud-laboral)
+  - [Eje 5. Relaciones con el entorno](#eje-5-relaciones-con-el-entorno)
+  - [Eje 6. Comunicación](#eje-6-comunicación)
+  - [Eje 7. Formación](#eje-7-formación)
+  - [Eje 8. Contenidos](#eje-8-contenidos)
+- [10. Aplicación, evaluación y seguimiento](#10-aplicación-evaluación-y-seguimiento)
+  - [La Comisión de Igualdad](#la-comisión-de-igualdad)
+- [11. Revisión](#11-revisión)
+- [12. Calendario y solución de discrepancias](#12-calendario-y-solución-de-discrepancias)
+- [13. Anexo II · Protocolo de prevención y actuación frente al acoso sexual y por razón de sexo](#13-anexo-ii--protocolo-de-prevención-y-actuación-frente-al-acoso-sexual-y-por-razón-de-sexo)
+  - [Ámbito personal](#ámbito-personal)
+  - [Las dos definiciones, y la diferencia que decide la pregunta](#las-dos-definiciones-y-la-diferencia-que-decide-la-pregunta)
+  - [Principios y garantías](#principios-y-garantías)
+  - [El procedimiento de garantía](#el-procedimiento-de-garantía)
+  - [El enlace con el régimen disciplinario del convenio](#el-enlace-con-el-régimen-disciplinario-del-convenio)
+  - [Personal de empresas externas](#personal-de-empresas-externas)
+  - [Acciones preventivas](#acciones-preventivas)
+- [14. Qué es y de dónde viene](#14-qué-es-y-de-dónde-viene)
+- [15. Principios generales](#15-principios-generales)
+- [16. Actuaciones concretas](#16-actuaciones-concretas)
+- [17. Tratamiento de la violencia contra las mujeres](#17-tratamiento-de-la-violencia-contra-las-mujeres)
+  - [Las definiciones y de dónde salen](#las-definiciones-y-de-dónde-salen)
+  - [Tratamiento informativo](#tratamiento-informativo)
+  - [Las fuentes](#las-fuentes)
+- [18. Lenguaje e igualdad](#18-lenguaje-e-igualdad)
+  - [Los recursos alternativos](#los-recursos-alternativos)
+  - [Desdoblamientos](#desdoblamientos)
+  - [Profesiones, cargos y oficios](#profesiones-cargos-y-oficios)
+  - [Construcciones y sesgos sexistas](#construcciones-y-sesgos-sexistas)
+  - [El uso de «@», «x» y «-e»](#el-uso-de--x-y--e)
+  - [Los duales aparentes, uno a uno](#los-duales-aparentes-uno-a-uno)
+- [Trazabilidad](#trazabilidad)
+
+<!-- /indice -->
+
 > **Enunciado de la convocatoria** (anexo 2, temario general, punto 6):
 >
 > **II PLAN DE IGUALDAD DE RTVE**

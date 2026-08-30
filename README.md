@@ -13,6 +13,10 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `metodo/MANUAL.md` | El método. Se lee entero antes de tocar un tema. |
 | `metodo/ENCARGOS.md` | Cláusulas de encargo y catálogo de errores, para pegar en cada fase. |
 | `herramientas/boe.py` | Lector de legislación consolidada del BOE. |
+| `herramientas/refutar_*.py` | Las cuatro lentes de refutación: exactitud, modo verbal y salvedades, prosa, y contraste contra documento sin articulado. |
+| `herramientas/indice.py` | Genera la **portada** y el **índice** de cada tema, y comprueba que las rutas que citan existen. Se vuelve a pasar cuantas veces haga falta. |
+| `esquemas/` | Un esqueleto de repaso por tema. Estilo telegrama, con el artículo delante de cada línea. |
+| `banco/` | Preguntas reales de convocatorias anteriores con su respuesta oficial. |
 | `ESTADO.md` | Qué hay hecho, qué falta, dónde vive cada cosa. |
 | `PENDIENTES.md` | Cuaderno de hallazgos, se anote o no se corrija en el momento. |
 | `convocatoria/` | Programa oficial literal y exámenes de convocatorias anteriores. |
@@ -28,6 +32,10 @@ las reformas cruzadas y los identificadores irregulares.
 herramientas/boe.py indice   BOE-A-2006-9958            # índice real de bloques
 herramientas/boe.py buscar   BOE-A-2006-9958 "artículo 43"
 herramientas/boe.py precepto BOE-A-2006-9958 a11        # cadena + redacción vigente
+
+# portada e índice de todos los temas, regenerables
+python3 herramientas/indice.py                          # todos
+python3 herramientas/indice.py temas/general/07-*.md    # uno
 ```
 
 Lo que hace por ti en cada precepto:
