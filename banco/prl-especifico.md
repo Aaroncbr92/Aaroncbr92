@@ -449,24 +449,14 @@ d) Tiempo prolongado sin interrupciones.
 52. Para  prevenir  las  fatigas  físicas,  visuales  y  mentales  debidas  al  trabajo  prolongado  con  pantallas  de
 Para  prevenir  las  fatigas  físicas,  visuales  y  mentales  debidas  al  trabajo  prolongado  con  pantallas  de
 visualización  de  datos  se  debe:
-visualización  de  datos  se  debe:
-visualización  de  datos  se  debe:
 a)
 Leer  textos  que  no  estén  en  pantallas,  preferiblemente  en  papel  o  en  tinta  digital  si  no  es  posible  leer  textos
-Leer  textos  que  no  estén  en  pantallas,  preferiblemente  en  papel  o  en  tinta  digital  si  no  es  posible  leer  textos
-Leer  textos  que  no  estén  en  pantallas,  preferiblemente  en  papel  o  en  tinta  digital  si  no  es  posible  leer  textos
 impresos.
 impresos.
 impresos.
-Alternar el trabajo ante la pantalla con otras tareas, realizando pausas cortas y frecuentes.
 b) Alternar el trabajo ante la pantalla con otras tareas, realizando pausas cortas y frecuentes.
-Alternar el trabajo ante la pantalla con otras tareas, realizando pausas cortas y frecuentes.
-Realizar alguna pausa de larga duración.
 c) Realizar alguna pausa de larga duración.
-Realizar alguna pausa de larga duración.
-Trabajar a un ritmo acelerado, para acabar antes y descansar más tiempo.
 d) Trabajar a un ritmo acelerado, para acabar antes y descansar más tiempo.
-Trabajar a un ritmo acelerado, para acabar antes y descansar más tiempo.
 ```
 
 ---

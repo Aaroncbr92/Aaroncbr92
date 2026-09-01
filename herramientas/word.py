@@ -276,12 +276,32 @@ def escribe_inline(p, tok):
         # no lleva a ninguna parte, y la trazabilidad ya está en la ficha
 
 
-def escribe_tabla(doc, filas, cabecera):
+GRIS_TABLA = "E4E4E4"
+
+
+def sombrea(celda, color):
+    """Pinta el fondo de una celda."""
+    from docx.oxml import OxmlElement
+    e = OxmlElement("w:shd")
+    e.set(qn("w:val"), "clear")
+    e.set(qn("w:color"), "auto")
+    e.set(qn("w:fill"), color)
+    celda._tc.get_or_add_tcPr().append(e)
+
+
+def escribe_tabla(doc, filas, cabecera, alterna=False):
+    """Escribe una tabla.
+
+    **La primera fila va en gris siempre**, lleve cabecera o no. Y con
+    `alterna`, el gris se repite en las filas pares: es lo que hace legible el
+    solucionario, donde una fila son los números y la siguiente sus respuestas.
+    """
     t = doc.add_table(rows=0, cols=max(len(f) for f in filas))
     t.style = "Table Grid"
     t.alignment = WD_TABLE_ALIGNMENT.CENTER
     for i, fila in enumerate(filas):
         celdas = t.add_row().cells
+        gris = i == 0 or (alterna and i % 2 == 0)
         for j, tok in enumerate(fila):
             if j >= len(celdas):
                 continue
@@ -289,6 +309,8 @@ def escribe_tabla(doc, filas, cabecera):
             p = celdas[j].paragraphs[0]
             p.style = doc.styles["Tabla cabecera" if i == 0 and cabecera else "Tabla"]
             escribe_inline(p, tok)
+            if gris:
+                sombrea(celdas[j], GRIS_TABLA)
     return t
 
 
@@ -402,8 +424,9 @@ def parte_tema(doc, numero, base, banco):
 
     resto, _ = numera(resto, numero)
     salto(doc)
-    doc.add_paragraph("Tema %d del temario general" % numero, style="Rótulo")
-    doc.add_paragraph(titulo.split("·", 1)[-1].strip(), style="Heading 1")
+    doc.add_paragraph("Temario general", style="Rótulo")
+    doc.add_paragraph("TEMA %d – %s" % (numero, titulo.split("·", 1)[-1].strip()),
+                      style="Heading 1")
     if ficha:
         filas = []
         for linea in ficha.strip().split("\n"):
@@ -443,7 +466,7 @@ def pinta_pregunta(doc, n, enunciado):
     cabeza, opciones, sin_texto = ordena_opciones(enunciado)
     p = doc.add_paragraph(style="Pregunta")
     p.add_run("%d. " % n, style="Número de pregunta")
-    p.add_run(cabeza)
+    p.add_run(cabeza).bold = True
     for o in opciones:
         doc.add_paragraph(o, style="Opción")
     if sin_texto:
@@ -555,8 +578,8 @@ def respuestas(doc, hechos):
         for a in range(0, len(sueltas), POR_FILA):
             trozo = sueltas[a:a + POR_FILA]
             filas.append([md.parse("**%d**" % n)[1] for n, _ in trozo])
-            filas.append([md.parse(r)[1] for _, r in trozo])
-        escribe_tabla(doc, filas, False)
+            filas.append([md.parse("**%s**" % r)[1] for _, r in trozo])
+        escribe_tabla(doc, filas, False, alterna=True)
         for n, (ident, _, _) in enumerate(ps, 1):
             if ident in ERRATAS:
                 p = doc.add_paragraph(style="Aviso")

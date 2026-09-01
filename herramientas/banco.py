@@ -175,6 +175,45 @@ PIE = re.compile(r"""(?mx)
 """)
 
 
+def sin_ecos(cuerpo):
+    """Quita los renglones que el PDF imprime más de una vez.
+
+    El cuadernillo de Realización (Asistencia), 2.º llamamiento dibuja **cada
+    renglón tres veces**: el texto suelto, el mismo texto con su letra de opción
+    delante, y el texto suelto otra vez. Son 193 renglones repetidos de 1.450.
+    Al componer, eso hacía que **cada opción se llevara pegado el texto de la
+    siguiente**, y el opositor leía opciones que no son las del examen.
+
+    Se quita el renglón cuyo texto repite el de un vecino, mirando el contenido
+    **sin la letra de opción**: así se conserva el que la lleva, que es el bueno,
+    y caen los ecos.
+    """
+    lineas = cuerpo.split("\n")
+
+    def nucleo(l):
+        return re.sub(r"^\s*[a-d]\)\s*", "", l).strip()
+
+    def suelta(l):
+        return not re.match(r"^\s*[a-d]\)", l)
+
+    fuera = []
+    for i, l in enumerate(lineas):
+        n = nucleo(l)
+        if len(n) > 12:
+            # el eco que va justo delante de la opción con su letra: gana la letra
+            if suelta(l) and i + 1 < len(lineas) and not suelta(lineas[i + 1]) \
+                    and nucleo(lineas[i + 1]) == n:
+                continue
+            # y el que va detrás de lo ya escrito. Solo se quitan renglones
+            # **sueltos**: dos opciones con su letra y el mismo texto no son un
+            # eco, son una errata del examen —el cuadernillo de Gestión repite
+            # el texto en la b) y la c)— y borrar una cambia lo que se lee
+            if suelta(l) and fuera and nucleo(fuera[-1]) == n:
+                continue
+        fuera.append(l)
+    return "\n".join(fuera)
+
+
 def sin_pie(cuerpo):
     """Quita del cuerpo de la pregunta los renglones de la propia página.
 
@@ -234,7 +273,7 @@ def main():
                 sin += 1
             # el OCR deja caracteres de control que hacen ilegible el fichero
             cuerpo = "".join(c for c in cuerpo if c == "\n" or c >= " ")
-            cuerpo = sin_pie(cuerpo)
+            cuerpo = sin_ecos(sin_pie(cuerpo))
             cuerpo = re.sub(r"\n{2,}", "\n", cuerpo).strip()
             pormateria[materia].append((origen, n, letra, cuerpo))
 

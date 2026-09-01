@@ -144,3 +144,62 @@ menos: la procedencia de cada una era un renglón, y eran 476.
 **La pregunta que entró nueva pasó la prueba del apartado 7**: la 108 de Gestión
 pregunta a partir de qué retraso hay falta grave, y el tema 5 dice **treinta
 minutos, tres veces en 60 días consecutivos**.
+
+
+---
+
+# Segunda tanda de mejoras
+
+**2026-08-30.** Cinco cambios más sobre el volumen ya montado. Cuatro de
+presentación y uno que no lo era.
+
+## A · Los solucionarios, con filas alternas
+
+Fila de números en gris, fila de respuestas en blanco, y así hasta el final. El
+solucionario se lee en zigzag —número arriba, letra abajo— y sin la banda de
+color se salta de fila con facilidad. Igual en el PDF y en Word.
+
+## B · El enunciado en negrita, las opciones en redonda
+
+Es lo que separa la pregunta de lo que hay que elegir. Antes iban del mismo
+color y el ojo tenía que buscar dónde empezaba cada pregunta.
+
+## C · El cuadernillo que imprime cada renglón tres veces
+
+**Esta no era de formato.** El cuadernillo de Realización (Asistencia), 2.º
+llamamiento dibuja cada renglón **tres veces**: el texto suelto, el mismo texto
+con su letra de opción delante, y el texto suelto otra vez. Son **193 renglones
+repetidos de 1.450**, y la transcripción los arrastraba tal cual.
+
+Al componer, eso hacía que **cada opción se llevara pegado el texto de la
+siguiente**: la a) contenía el texto de la b), y la b) el de la c). El opositor
+leía opciones que no son las del examen. **Ninguna respuesta oficial señalaba
+una opción equivocada** —se comprobó—, pero era cuestión de suerte.
+
+Se quita el renglón cuyo texto repite el de un vecino, mirando el contenido
+**sin la letra de opción**, de modo que gana el que la lleva.
+
+**Y una trampa dentro de la trampa.** El primer arreglo quitaba también
+renglones que no eran ecos:
+
+- **Se comió tres enunciados enteros**, porque las tres copias eran idénticas
+  entre sí y ninguna llevaba letra. Ahora se conserva siempre la primera.
+- **Se comió la opción c) de una pregunta de Gestión**, donde el examen repite
+  el mismo texto en la b) y en la c). **Eso no es un eco, es una errata del
+  examen**, y borrarla cambia lo que el opositor lee. Ahora **nunca se quita un
+  renglón que lleve su letra de opción**: los ecos son siempre renglones sueltos.
+
+Nueve preguntas de ese cuadernillo están en el volumen; las nueve salen ahora
+con su enunciado y sus cuatro opciones.
+
+## D · «TEMA N – …»
+
+Los ocho temas se titulan «TEMA 1 – Constitución Española…», «TEMA 2 – Ley
+17/2006…», en el índice y en la cabecera de cada uno. Antes el índice solo daba
+el nombre de la norma y no se veía de qué tema se trataba.
+
+## E · La primera fila de toda tabla, en gris
+
+Lleve cabecera o no. En la ficha del tema la primera fila es dato, no cabecera,
+y también va en gris: lo que se busca es que la tabla arranque con una banda que
+la separe del texto.

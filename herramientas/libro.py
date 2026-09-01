@@ -167,7 +167,7 @@ def ordena_opciones(enunciado):
             cabeza.append(linea)
             continue
         abierta = not CIERRA.search(linea)
-    return " ".join(cabeza), opciones, pendientes
+    return " ".join(cabeza).strip(), opciones, pendientes
 
 
 def linea_indice(nivel, numero, titulo, ancla):
@@ -185,7 +185,9 @@ def linea_indice(nivel, numero, titulo, ancla):
 
 def pinta_pregunta(n, enunciado):
     cabeza, opciones, sin_texto = ordena_opciones(enunciado)
-    cuerpo = "<br>".join(html.escape(x) for x in [cabeza] + opciones if x)
+    cuerpo = "<b>%s</b>" % html.escape(cabeza) if cabeza else ""
+    for o in opciones:
+        cuerpo += '<div class="opcion">%s</div>' % html.escape(o)
     if sin_texto:
         cuerpo += ('<div class="suelta">El cuadernillo corta estas opciones sin punto '
                    'final, así que la transcripción no marca dónde acaba cada una y '
@@ -216,7 +218,9 @@ li { margin:.15em 0; }
 table { border-collapse:collapse; width:100%; margin:.7em 0; font-size:9pt;
         page-break-inside:avoid; break-inside:avoid; }
 th,td { border:.5px solid #999; padding:3px 5px; text-align:left; vertical-align:top; }
-th { background:#eee; }
+th { background:#e4e4e4; }
+/* la primera fila de toda tabla va en gris, lleve cabecera o no */
+table tr:first-child > td { background:#e4e4e4; }
 code { font-family:"SF Mono",Menlo,Consolas,monospace; font-size:8.5pt; background:#f2f2f2;
        padding:0 2px; }
 blockquote { margin:.8em 0; padding:.5em .9em; border-left:3px solid #888; background:#f7f7f7;
@@ -266,9 +270,12 @@ hr { border:0; border-top:.5px solid #bbb; margin:1.4em 0; }
           color:#555; font-style:italic; text-align:left; }
 .errata { border-left:3px solid #111; background:#f0f0f0; padding:5px 9px; margin:6px 0;
           font-size:9pt; }
-table.claves { font-size:9.5pt; margin:.4em 0 1.2em; }
-table.claves th { background:#111; color:#fff; text-align:center; width:10%; }
-table.claves td { text-align:center; font-weight:bold; }
+/* el solucionario alterna: fila de números en gris, fila de letras en blanco */
+table.claves { font-size:10pt; margin:.4em 0 1.2em; }
+table.claves th, table.claves td { text-align:center; width:10%; }
+table.claves th { background:#e4e4e4; font-weight:bold; }
+table.claves td { background:#fff; font-weight:bold; }
+.opcion { margin-left:1.1em; text-indent:-1.1em; }
 @media screen { body { max-width:190mm; margin:0 auto; padding:16mm 10mm; background:#fff; } }
 """
 
@@ -297,8 +304,9 @@ def main():
         indice_gral.append((i, titulo, entradas))
 
         bloque = ['<section class="tema" id="tema-%d">' % i]
-        bloque.append('<p class="rotulo">Tema %d del temario general</p>' % i)
-        bloque.append("<h1>%s</h1>" % html.escape(titulo.split("·", 1)[-1].strip()))
+        bloque.append('<p class="rotulo">Temario general</p>')
+        bloque.append("<h1>TEMA %d – %s</h1>"
+                      % (i, html.escape(titulo.split("·", 1)[-1].strip())))
         if ficha:
             bloque.append('<div class="ficha">%s</div>' % ficha)
         bloque.append(md.render(baja_titulos(resto, 0)))
@@ -350,7 +358,8 @@ def main():
 
     ig = []
     for i, t, entradas in indice_gral:
-        ig.append(linea_indice(0, str(i), t.split("·", 1)[-1].strip(), "tema-%d" % i))
+        ig.append(linea_indice(0, "TEMA %d –" % i, t.split("·", 1)[-1].strip(),
+                               "tema-%d" % i))
         for nivel, numero, titulo, ancla in entradas:
             ig.append(linea_indice(nivel, numero, titulo, ancla))
 
