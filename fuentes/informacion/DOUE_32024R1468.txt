@@ -1,0 +1,345 @@
+Reglamento (UE) 2024/1468 del Parlamento Europeo y del Consejo, de 14 de mayo de 2024, por el que se modifican los Reglamentos (UE) 2021/2115 y (UE) 2021/2116 en lo que respecta a la política agrícola común
+https://publications.europa.eu/resource/celex/32024R1468  (CELEX 32024R1468)
+Leído el 2 de septiembre de 2026.
+
+DO L de 24.5.2024. Sostiene el objetivo de la revisión de la PAC: reducir la carga administrativa y simplificar.
+
+L_202401468ES.000101.fmx.xml
+Diario Oficial 
+de la Unión Europea
+ES
+Serie L
+2024/1468
+24.5.2024
+ REGLAMENTO (UE) 2024/1468 DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+de 14 de mayo de 2024
+por el que se modifican los Reglamentos (UE) 2021/2115 y (UE) 2021/2116 en lo que respecta a las normas en materia de buenas condiciones agrarias y medioambientales, los regímenes en favor del clima, el medio ambiente y el bienestar animal, las modificaciones de los planes estratégicos de la PAC, la revisión de los planes estratégicos de la PAC y las exenciones de controles y sanciones
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+Visto el Tratado de Funcionamiento de la Unión Europea, y en particular su artículo 43, apartado 2,
+Vista la propuesta de la Comisión Europea,
+Previa transmisión del proyecto de acto legislativo a los Parlamentos nacionales,
+Visto el dictamen del Comité Económico y Social Europeo 
+(
+1
+)
+,
+De conformidad con el procedimiento legislativo ordinario 
+(
+2
+)
+,
+Considerando lo siguiente:
+(1)
+El Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo 
+(
+3
+)
+ establece normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la política agrícola común (en lo sucesivo, «planes estratégicos de la PAC»), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (Feader). El Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo 
+(
+4
+)
+ establece normas sobre la financiación, la gestión y el seguimiento de la política agrícola común (PAC).
+(2)
+A pesar de que los Reglamentos (UE) 2021/2115 y (UE) 2021/2116 ofrecen una considerable flexibilidad a los Estados miembros y tienen potencial para aliviar la carga administrativa que soportan los agricultores, tras el primer año de aplicación concreta de esos Reglamentos a través de los planes estratégicos de la PAC, ha quedado patente que son necesarios algunos ajustes limitados del marco jurídico de la Unión para la PAC a fin de garantizar una ejecución eficaz de los planes estratégicos de la PAC y reducir la carga administrativa asociada a la ejecución de dichos planes estratégicos de la PAC y al control de determinados requisitos.
+(3)
+Además, los agricultores se enfrentan a un excepcional abanico de dificultades e incertidumbres. En particular, en los últimos años se han producido un número considerable de fenómenos meteorológicos extremos, entre otros sequías e inundaciones en varias regiones de la Unión. Esos acontecimientos afectan a la producción y a los ingresos y tienen una repercusión significativa en la ejecución y el calendario de las prácticas agronómicas habituales. Los elevados precios de la energía y los insumos y la incertidumbre provocada por la guerra de agresión de Rusia contra Ucrania, el coste de la vida, la inflación, la caída del valor de la producción de cereales en 2023 y los cambios en los flujos comerciales internacionales han generado inseguridad y presiones para los agricultores. La concurrencia de dichos acontecimientos ejerce una fuerte presión sobre los agricultores para que adapten, en su condición de gestores de recursos naturales y agentes económicos, la gestión de sus explotaciones y la aplicación de prácticas agronómicas.
+(4)
+En consecuencia, es necesario revisar y simplificar determinadas disposiciones de los Reglamentos (UE) 2021/2115 y (UE) 2021/2116 para garantizar que los Estados miembros pueden adaptar mejor sus planes estratégicos de la PAC a las necesidades de los agricultores y proporcionarles una mayor flexibilidad para el ejercicio de sus actividades agrícolas, teniendo en cuenta los retos cada vez mayores, la imprevisibilidad de las condiciones meteorológicas y la incertidumbre económica.
+(5)
+El artículo 13 del Reglamento (UE) 2021/2115 exige a los Estados miembros que garanticen que todas las superficies agrícolas, incluidas las tierras que ya no se utilicen para la producción, se mantengan en buenas condiciones agrarias y medioambientales. Los Estados miembros han de establecer, en el nivel nacional o regional, normas mínimas para los agricultores y otros beneficiarios por lo que respecta a cada norma en materia de buenas condiciones agrarias y medioambientales (BCAM) enumerada en el anexo III de dicho Reglamento, en consonancia con el objetivo principal de cada norma mencionada en dicho anexo. Los objetivos globales de protección y calidad del suelo que persiguen las normas BCAM 5, 6 y 7 se ven afectados por numerosos factores, como el tipo de suelo, la elección de cultivos, las condiciones climáticas y meteorológicas y los usos de la tierra y los sistemas de explotación previos y actuales, como la agricultura ecológica, que requiere un enfoque diferente para determinadas operaciones. La experiencia demuestra que pueden darse situaciones en las que la imposición de determinados requisitos sin tener debidamente en cuenta esos factores, como las restricciones a la labranza o la obligación de sembrar durante un período determinado, puede afectar negativamente a determinados suelos o cultivos e incluso resulte contraproducente con respecto al objetivo de protección del suelo. La norma BCAM 9 impone la prohibición de convertir o arar los pastos permanentes declarados pastos permanentes sensibles desde el punto de vista medioambiental en los espacios Natura 2000. No obstante, la experiencia ha demostrado que pueden darse situaciones excepcionales en las que dichos pastos permanentes sensibles desde el punto de vista medioambiental sufran daños causados, por ejemplo, por animales silvestres o especies invasoras y que para hacer frente a estas situaciones pueden ser necesarias medidas adecuadas, incluidas excepciones a la prohibición de arar las superficies afectadas a fin de restaurar dichos pastos permanentes, para garantizar que los requisitos de la norma BCAM 9 contribuyen a la protección de los hábitats y las especies.
+(6)
+El creciente número de fenómenos meteorológicos extremos, así como de daños en los pastos permanentes declarados sensibles desde el punto de vista medioambiental causados por factores como los animales silvestres o las especies invasoras, aumentan la incidencia de problemas específicos a los que se enfrentan los agricultores en la aplicación de los requisitos de las normas BCAM 5, 6, 7 y 9 que los Estados miembros deben abordar. También existe el riesgo de que esos requisitos sean desproporcionados con respecto a su contribución real para alcanzar los objetivos de protección de los suelos de las normas BCAM 5, 6 y 7 y el objetivo de protección de hábitats y especies de la norma BCAM 9. Para evitar tales situaciones, debe permitirse a los Estados miembros establecer exenciones específicas de los requisitos de las normas BCAM 5, 6, 7 y 9 a fin de hacer frente a problemas concretos en la aplicación de dichas normas, sobre la base de criterios objetivos y no discriminatorios, como los tipos de suelo, los cultivos o los sistemas de explotación o los daños en los pastos permanentes causados, entre otros, por animales silvestres o especies invasoras. Esas exenciones deben aplicarse a una superficie limitada y no deben obstaculizar la contribución de dichas normas a la consecución de sus principales objetivos, tal y como se enumeran en el anexo III del Reglamento (UE) 2021/2115.
+(7)
+Las condiciones meteorológicas y sus efectos en el estado de las superficies agrícolas pueden impedir que los agricultores y otros beneficiarios cumplan algunos requisitos de las normas BCAM, como los plazos y los períodos de ciertas operaciones para un año determinado. Para evitar situaciones en las que los agricultores que deban ajustarse a tales requisitos se vean obligados, por ejemplo, a realizar la siembra antes de una fecha determinada, aun cuando las condiciones meteorológicas del año en cuestión no permitan realizar las operaciones necesarias o estas puedan causar un deterioro grave del suelo, como por ejemplo, la compactación del suelo, los Estados miembros, al aplicar las normas mínimas relativas a las buenas condiciones agrarias y medioambientales con arreglo al Reglamento (UE) 2021/2115, deben poder establecer excepciones temporales a dichos requisitos. Esas excepciones temporales deben restringirse a los agricultores y otros beneficiarios o zonas afectados por las condiciones meteorológicas en cuestión, y los Estados miembros deben aplicarlas únicamente mientras sea estrictamente necesario.
+(8)
+Reglamento (UE) 2021/2115 establece una serie de elementos e instrumentos para que los Estados miembros alcancen el objetivo específico de contribuir a detener y revertir la pérdida de biodiversidad, potenciar los servicios relacionados con los ecosistemas y conservar los hábitats y los paisajes, tal como se indica en el artículo 6, apartado 1, letra f), de dicho Reglamento. Uno de estos elementos es el sistema de condicionalidad. Concretamente, la norma BCAM 8, enumerada en el anexo III de dicho Reglamento, se compone de varios requisitos, que incluyen la obligación de dedicar una parte de las tierras de cultivo a superficies y elementos no productivos. El objetivo principal de la norma BCAM 8 es el mantenimiento de elementos y superficies no productivos para mejorar la biodiversidad en la explotación. Los Estados miembros también pueden concebir intervenciones que apoyen dicho objetivo, como los ecorregímenes que abarquen acciones con arreglo al artículo 31del Reglamento (UE) 2021/2115. En el contexto de los retos e incertidumbres generados por la concurrencia de acontecimientos adversos e incertidumbre económica, la experiencia ha puesto de manifiesto la necesidad de ajustar el equilibrio entre los diferentes instrumentos que contribuyen a la protección y la mejora de la biodiversidad, de forma que se dé más flexibilidad a los agricultores para contribuir a la consecución de dicho objetivo en función de la situación específica de sus explotaciones y se les proporcione una mayor compensación financiera por tal contribución.
+(9)
+En concreto, dado que la obligación de dedicar una parte de las tierras de cultivo a superficies y elementos no productivos viene impuesta actualmente en virtud del primer requisito de la norma BCAM 8, que figura en el anexo III del Reglamento (UE) 2021/2115, los agricultores que soliciten los pagos directos y las intervenciones a que se refieren los artículos 70, 71 y 72 de dicho Reglamento deben cumplir dicho requisito sin compensación alguna por los costes incurridos o el lucro cesante. En determinados casos, esto puede suponer una carga financiera importante para los agricultores y beneficiarios afectados, en particular si se tiene en cuenta que, con arreglo a la norma BCAM 8, no está permitida la producción agrícola o animal en las tierras de cultivo dedicadas a superficies o elementos no productivos. Teniendo en cuenta la carga y las consecuencias que esto supone para determinados agricultores y el excepcional abanico de dificultades e incertidumbres a que se enfrentan, se podría abordar mejor la necesidad de disponer de superficies y elementos no productivos en las tierras de cultivo a través de un instrumento que sea más flexible y, lo que es más importante, ofrezca un incentivo para compensar al menos una parte de los costes incurridos y las pérdidas de ingresos en relación con esas superficies y elementos no productivos. En consecuencia, debe modificarse el artículo 31 del Reglamento (UE) 2021/2115 para garantizar que los Estados miembros presten apoyo a ecorregímenes que incluyan prácticas en tierras de cultivo para el mantenimiento de superficies no productivas, como las tierras en barbecho, y para el establecimiento de nuevos elementos del paisaje.
+(10)
+Al mismo tiempo, el sistema de condicionalidad establecido por el Reglamento (UE) 2021/2115 debe ajustarse mediante la eliminación de la obligación de dedicar una parte de las tierras de cultivo a superficies y elementos no productivos de la norma BCAM 8, enumerada en el anexo III de dicho Reglamento. La obligación de mantener los elementos del paisaje y la prohibición de cortar setos y árboles durante la temporada de cría y reproducción de aves, que actualmente forman parte de los requisitos de la norma BCAM 8, deben mantenerse como parte del sistema de condicionalidad a fin de garantizar la protección de los elementos del paisaje existentes en las superficies agrícolas.
+(11)
+Debe concederse a los Estados miembros una mayor flexibilidad para modificar sus planes estratégicos de la PAC, garantizando al mismo tiempo su estabilidad y capacidad de gestión así como la eficiencia administrativa del proceso de modificación. La experiencia ha demostrado que atender a los requisitos específicos tanto del FEAGA como del Feader en una solicitud de modificación puede resultar complicado. Al mismo tiempo, el número de modificaciones por año natural debe limitarse para garantizar que los agricultores y otros beneficiarios dispongan de tiempo suficiente para tener en cuenta dichas modificaciones, así como para limitar la carga administrativa para los Estados miembros y permitir a la Comisión evaluar la compatibilidad de dichas modificaciones con el marco jurídico de la Unión establecido en los Reglamentos (UE) 2021/2115 y (UE) 2021/2116 dentro de los plazos dispuestos en dicho marco jurídico. Por esos motivos, el número máximo de solicitudes de modificación de los planes estratégicos de la PAC debe aumentarse a dos por año natural, además de las tres solicitudes adicionales de modificación del plan estratégico de la PAC que pueden presentarse con arreglo al artículo 119, apartado 7, del Reglamento (UE) 2021/2115.
+(12)
+De conformidad con el artículo 120 del Reglamento (UE) 2021/2115, los Estados miembros están obligados a evaluar si sus planes estratégicos de la PAC deben modificarse cuando se modifiquen los actos legislativos enumerados en el anexo XIII de dicho Reglamento y a notificar el resultado de su evaluación a la Comisión en un plazo dado. Dado que dicha obligación ha demostrado ser gravosa para los Estados miembros y que conviene limitar el esfuerzo dedicado por los Estados miembros a la evaluación durante el período de ejecución restante de los actuales planes estratégicos de la PAC, esa obligación no debe aplicarse a las modificaciones, que entren en vigor después del 31 de diciembre de 2025, de los actos legislativos enumerados en el anexo XIII.
+(13)
+La experiencia demuestra que la concurrencia de numerosos acontecimientos adversos supone un importante reto para los agricultores y hace necesarias una mayor flexibilidad y una simplificación de la ejecución de los planes estratégicos de la PAC en relación con determinadas normas BCAM enumeradas en el anexo III del Reglamento (UE) 2021/2115.
+(14)
+La norma BCAM 6, enumerada en el anexo III del Reglamento (UE) 2021/2115, tiene como objetivo principal proteger el suelo en los períodos más sensibles mediante una cobertura mínima del suelo que evite suelos desnudos en dichos períodos. El diseño y la aplicación de los requisitos de la norma BCAM 6 se ven afectados por una amplia gama de factores en mayor medida que en el caso de otras normas BCAM. En particular, la cobertura mínima del suelo puede garantizarse por diferentes medios, que dependen no solo de las condiciones edafoclimáticas, sino también de factores como la elección de cultivos y la duración del período vegetativo en un año determinado. Además, puede haber diferentes períodos sensibles dependiendo, en particular, de las condiciones edafoclimáticas específicas. Asimismo, a la hora de tomar decisiones con respecto a la producción y, en particular, a la siembra, los agricultores y otros beneficiarios deben poder conciliar los requisitos de la norma BCAM 6 con la imprevisibilidad de las condiciones meteorológicas. Habida cuenta de esos factores, los Estados miembros deben poder gestionar esos requisitos de la norma BCAM 6 con mayor flexibilidad que en el caso de otras normas BCAM y de forma que se garantice la contribución de dichos requisitos a la consecución del objetivo principal de la norma, teniendo en cuenta una serie de factores, como las condiciones edafoclimáticas.
+(15)
+Por consiguiente, debe permitirse a los Estados miembros determinar los principales elementos de la norma BCAM 6 y resumirlos en los planes estratégicos de la PAC con arreglo al artículo 109, apartado 2, letra a), del Reglamento (UE) 2021/2115. De conformidad con el artículo 13, apartado 1, el artículo 109, apartado 2, y los artículos 118 y 119 de dicho Reglamento, la Comisión debe garantizar que los principales elementos de la norma BCAM 6 determinada por los Estados miembros se ajusten, en términos generales, al objetivo principal de dicha norma BCAM.
+(16)
+El principal objetivo de la norma BCAM 7, enumerada en el anexo III del Reglamento (UE) 2021/2115, es preservar el potencial del suelo. Dado que la diversificación de cultivos también puede contribuir a preservar el potencial del suelo y que, para determinados agricultores, es más fácil de aplicar en el contexto de las múltiples presiones y retos a los que se enfrentan actualmente, los Estados miembros deben poder permitir que los agricultores cumplan la norma BCAM 7 también mediante la diversificación de cultivos. Por consiguiente, deben establecerse requisitos mínimos relativos a la diversificación de cultivos.
+(17)
+Es importante que la PAC siga contribuyendo a los objetivos medioambientales establecidos en el artículo 6, apartado 1, letras d), e) y f), del Reglamento (UE) 2021/2115 mediante los requisitos de condicionalidad. También lo es garantizar la estabilidad de esos requisitos como base de referencia común para los Estados miembros y los agricultores. Por lo tanto, los requisitos de condicionalidad del Reglamento (UE) 2021/2115 deben seguir aplicándose a todos los agricultores. Sin embargo, la carga administrativa asociada a los controles de dichos requisitos de condicionalidad establecidos en el Reglamento (UE) 2021/2116 puede ser desproporcionadamente elevada para los pequeños agricultores y para las administraciones nacionales. Por lo tanto, además de concederse una mayor flexibilidad con respecto a las normas BCAM 6, 7 y 8, debe aliviarse la carga que los controles establecidos en el Reglamento (UE) 2021/2116 suponen para los pequeños agricultores y para las administraciones nacionales. Por consiguiente, los agricultores cuya explotación tenga un tamaño máximo que no sea superior a diez hectáreas de superficie agrícola deben estar exentos de los controles de condicionalidad en lo que respecta a los requisitos legales de gestión establecidos en el Derecho de la Unión y a las normas en materia de buenas condiciones agrarias y medioambientales. Dado que esos pequeños agricultores representan el 65 % de los beneficiarios de la PAC, pero aproximadamente solo el 10 % de la superficie agrícola total, dicha exención podría simplificar el trabajo de muchos agricultores y de administraciones nacionales sin suponer una traba significativa para la contribución de los requisitos de condicionalidad a la consecución de sus objetivos.
+(18)
+Dado que la superficie agrícola gestionada por los pequeños agricultores es limitada y que, en general, las sanciones que se les imponen son bajas, la aplicación de sanciones podría originar una carga desproporcionada para las administraciones de los Estados miembros. Por lo tanto, los pequeños agricultores exentos de los controles de condicionalidad también deben quedar exentos de la aplicación de sanciones administrativas por incumplimiento de los requisitos de condicionalidad.
+(19)
+Para evitar cargas y costes administrativos excesivos relacionados con los controles en materia de condicionalidad, los beneficiarios que reciban pagos por superficie en virtud tanto de un plan estratégico de la PAC de conformidad con el Reglamento (UE) 2021/2115 como de un programa de desarrollo rural en virtud del Reglamento (UE) n.
+o
+ 1305/2013 del Parlamento Europeo y del Consejo 
+(
+5
+)
+ hasta el 31 de diciembre de 2025 y que, por lo tanto, estén sujetos a controles de condicionalidad con arreglo al Reglamento (UE) 2021/2116, deben quedar exentos de los controles de condicionalidad y la aplicación de sanciones con arreglo al Reglamento (UE) n.
+o
+ 1306/2013 del Parlamento Europeo y del Consejo 
+(
+6
+)
+.
+(20)
+Dado que el objetivo del presente Reglamento, a saber, abordar, mediante la revisión y simplificación de determinadas disposiciones de los Reglamentos (UE) 2021/2115 y (UE) 2021/2116, el excepcional abanico de dificultades e incertidumbres a los que se enfrentan los agricultores, no puede ser alcanzado de manera suficiente por los Estados miembros, sino que puede lograrse mejor a escala de la Unión, esta puede adoptar medidas, de acuerdo con el principio de subsidiariedad establecido en el artículo 5 del Tratado de la Unión Europea (TUE). De conformidad con el principio de proporcionalidad establecido en el mismo artículo, el presente Reglamento no excede de lo necesario para alcanzar dicho objetivo.
+(21)
+Por lo tanto, procede modificar los Reglamentos (UE) 2021/2115 y (UE) 2021/2116 en consecuencia.
+(22)
+A fin de garantizar una aplicación ordenada de las medidas establecidas en el presente Reglamento con respecto a las normas BCAM 6, 7 y 8, enumeradas en el anexo III del Reglamento (UE) 2021/2115, deben establecerse disposiciones transitorias en relación con las modificaciones de los planes estratégicos de la PAC presentadas por los Estados miembros para su aprobación por la Comisión de conformidad con el artículo 119 del Reglamento (UE) 2021/2115 en 2024 y en relación con los efectos de dichas modificaciones en 2024 antes de su aprobación por la Comisión.
+(23)
+Teniendo en cuenta la necesidad de proporcionar a los agricultores una mayor flexibilidad en el ejercicio de sus actividades agrícolas, teniendo en cuenta los retos cada vez mayores, la imprevisibilidad de las condiciones meteorológicas y la incertidumbre económica a los que se enfrentan, y la urgencia en abordar las repercusiones del excepcional abanico de dificultades e incertidumbres, conviene aplicar la excepción al plazo de ocho semanas establecida en el artículo 4 del Protocolo n.
+o
+ 1 sobre el cometido de los Parlamentos nacionales en la Unión Europea, anejo al TUE, al Tratado de Funcionamiento de la Unión Europea y al Tratado constitutivo de la Comunidad Europea de la Energía Atómica.
+(24)
+A fin de garantizar una aplicación ordenada de las medidas previstas y debido al carácter urgente de la situación, habida cuenta de la necesidad apremiante de abordar el excepcional abanico de dificultades e incertidumbres a que se enfrentan los agricultores, el presente Reglamento debe entrar en vigor el día siguiente al de su publicación en el 
+Diario Oficial de la Unión Europea
+.
+(25)
+A fin de evitar una carga administrativa desproporcionada para los pequeños agricultores y para las autoridades nacionales, la exención de las sanciones relacionadas con el incumplimiento de los requisitos en materia de condicionalidad debe aplicarse con carácter retroactivo en lo relativo al año de solicitud 2024.
+(26)
+Dado que el año de solicitud 2024 empezó el 1 de enero de 2024, las medidas establecidas en el presente Reglamento en relación con las normas BCAM 6, 7 y 8, enumeradas en el anexo III del Reglamento (UE) 2021/2115, deben aplicarse ya al año de solicitud 2024 para dar a los Estados miembros la posibilidad de aplicar dichas medidas a partir de dicho año de solicitud.
+HAN ADOPTADO EL PRESENTE REGLAMENTO:
+Artículo 1
+Modificaciones del Reglamento (UE) 2021/2115
+El Reglamento (UE) 2021/2115 se modifica como sigue:
+1)
+El artículo 4 se modifica como sigue:
+a)
+en el apartado 3, la letra a) se sustituye por el texto siguiente:
+«a)
+las “tierras de cultivo” serán tierras dedicadas a la producción de cultivos o superficies disponibles para la producción de cultivos pero que estén en barbecho; asimismo, durante la vigencia del compromiso, serán tierras cultivadas para la producción de cultivos o superficies disponibles para la producción de cultivos, pero que estando en barbecho hayan sido retiradas de la producción, de acuerdo con los artículos 31 o 70 del presente Reglamento, o con los artículos 22, 23 o 24 del Reglamento (CE) n.
+o
+ 1257/1999 del Consejo
+ (
+*1
+)
+, o con el artículo 39 del Reglamento (CE) n.
+o
+ 1698/2005 del Consejo
+ (
+*2
+)
+, o con el artículo 28 del Reglamento (UE) n.
+o
+ 1305/2013 del Parlamento Europeo y del Consejo
+ (
+*3
+)
+;
+(
+*1
+)
+  Reglamento (CE) n.
+o
+ 1257/1999 del Consejo, de 17 de mayo de 1999, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA) y por el que se modifican y derogan determinados Reglamentos (
+DO L 160 de 26.6.1999, p. 80
+, ELI: http://data.europa.eu/eli/reg/1999/1257/oj)."
+(
+*2
+)
+  Reglamento (CE) n.
+o
+ 1698/2005 del Consejo, de 20 de septiembre de 2005, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (Feader) (
+DO L 277 de 21.10.2005, p. 1
+, ELI: http://data.europa.eu/eli/reg/2005/1698/oj)."
+(
+*3
+)
+  Reglamento (UE) n.
+o
+ 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (Feader) y por el que se deroga el Reglamento (CE) n.
+o
+ 1698/2005 del Consejo (
+DO L 347 de 20.12.2013, p. 487
+, ELI: http://data.europa.eu/eli/reg/2013/1305/oj).»;"
+b)
+en el apartado 4, párrafo primero, la letra b) se sustituye por el texto siguiente:
+«b)
+cualquier superficie de la explotación que:
+i)
+esté cubierta por elementos del paisaje sujetos a la obligación de mantenimiento prevista en la norma BCAM 8, mencionada en el anexo III, o
+ii)
+durante la vigencia del compromiso correspondiente del agricultor, se establezca o conserve como resultado de un ecorrégimen previsto en el artículo 31.
+Si los Estados miembros así lo decidieran, la hectárea admisible podrá contener otros elementos del paisaje, siempre que estos no sean predominantes y no dificulten significativamente el rendimiento de la actividad agrícola debido a la superficie de la parcela agrícola que ocupan. Al aplicar este principio, los Estados miembros podrán fijar el porcentaje máximo de la parcela agrícola que podrá estar cubierto por esos otros elementos del paisaje.
+Por lo que respecta a los pastos permanentes con elementos dispersos no admisibles, los Estados miembros podrán decidir aplicar coeficientes de reducción fijos para determinar la superficie considerada admisible;».
+2)
+El artículo 13 se modifica como sigue:
+a)
+en el apartado 1 se añade el párrafo siguiente:
+ «Al establecer las normas BCAM 5, 6, 7 o 9, enumeradas en el anexo III, los Estados miembros podrán aplicar exenciones específicas de los requisitos de dichas normas. Dichas exenciones se basarán en criterios objetivos y no discriminatorios, como los cultivos, los tipos de suelo y los sistemas de explotación o los daños en los pastos permanentes causados, entre otros, por animales silvestres o especies invasoras, y serán limitadas en términos de superficie afectada. Las exenciones específicas únicamente se establecerán en los casos y en la medida en que sean necesarias para abordar problemas específicos en la aplicación de dichas normas y no obstaculizarán de manera significativa la contribución de cada una de esas normas a sus objetivos principales, enumerados en el anexo III.»;
+b)
+se inserta el apartado siguiente:
+«2 
+bis
+.   Al aplicar las normas mínimas establecidas de conformidad con los apartados 1 y 2, los Estados miembros podrán otorgar excepciones temporales a requisitos tales como los plazos y los períodos establecidos en ellas si las condiciones meteorológicas impiden a los agricultores y otros beneficiarios cumplir dichos requisitos para un año determinado. Esas excepciones temporales se aplicarán únicamente a los agricultores y otros beneficiarios o zonas afectados por dichas condiciones meteorológicas y únicamente mientras sea estrictamente necesario.».
+3)
+En el artículo 31 se inserta el apartado siguiente:
+«1 
+bis
+.   Como parte de los ecorregímenes a que se refiere el apartado 1, los Estados miembros establecerán y prestarán apoyo a uno o varios regímenes que incluyan prácticas en tierras de cultivo para el mantenimiento de superficies no productivas, como las tierras en barbecho, y para el establecimiento de nuevos elementos del paisaje. Esos regímenes serán de carácter voluntario para los agricultores activos y grupos de agricultores activos.».
+4)
+En el artículo 119, apartado 7, el párrafo primero se sustituye por el texto siguiente:
+«Podrá presentarse una solicitud de modificación del plan estratégico de la PAC dos veces por año natural, sin perjuicio de posibles excepciones previstas en el presente Reglamento o que determine la Comisión con arreglo al artículo 122. Adicionalmente, podrán presentarse otras tres solicitudes de modificación del plan estratégico de la PAC durante la vigencia del plan estratégico de la PAC. El presente apartado no se aplicará a las solicitudes de modificación a efectos de presentar los elementos ausentes con arreglo al artículo 118, apartado 5.».
+5)
+En el artículo 120 se añade el párrafo siguiente:
+ «El párrafo primero del presente artículo no se aplicará a las modificaciones, que entren en vigor después del 31 de diciembre de 2025, de los actos legislativos enumerados en el anexo XIII.».
+6)
+El anexo III se modifica de conformidad con el anexo del presente Reglamento.
+Artículo 2
+Modificaciones del Reglamento (UE) 2021/2116
+El Reglamento (UE) 2021/2116 se modifica como sigue:
+1)
+El artículo 83 se modifica como sigue:
+a)
+el apartado 2 se sustituye por el texto siguiente:
+«2.   Los agricultores cuya explotación tenga un tamaño máximo que no sea superior a diez hectáreas de superficie agrícola declarada de conformidad con el artículo 69, apartado 1, quedarán exentos de los controles en el marco de un sistema establecido de conformidad con el apartado 1 del presente artículo.»;
+b)
+en el apartado 6 se suprime la letra f).
+2)
+En el artículo 84 se añade el apartado siguiente:
+«4.   Los agricultores cuya explotación tenga un tamaño máximo que no sea superior a diez hectáreas de superficie agrícola declarada de conformidad con el artículo 69, apartado 1, quedarán exentos de las sanciones a que se refieren los apartados 1, 2 y 3 del presente artículo y el artículo 85.».
+3)
+En el artículo 104, apartado 1, párrafo segundo, letra a), el inciso iv) se sustituye por el texto siguiente:
+«iv)
+en lo que respecta al Feader, en relación con los gastos efectuados por los beneficiarios y los pagos realizados por el organismo pagador en el marco de la ejecución de los programas de desarrollo rural en virtud del Reglamento (UE) n.
+o
+ 1305/2013, a excepción de los artículos 96 y 97 del Reglamento (UE) n.
+o
+ 1306/2013 en lo que respecta a los beneficiarios que estén sujetos al sistema de control a que se refiere el artículo 83 del presente Reglamento;».
+Artículo 3
+Disposiciones transitorias
+1.   Como excepción a lo dispuesto en el artículo 119, apartado 8, párrafo tercero, del Reglamento (UE) 2021/2115, no estará sujeta a la aprobación de la Comisión la fecha de efecto de las modificaciones de los planes estratégicos de la PAC relacionadas con los cambios de las normas BCAM 6, 7 y 8 establecidas en el anexo del presente Reglamento, presentadas por los Estados miembros para su aprobación a la Comisión de conformidad con el artículo 119, apartado 2, de Reglamento con respecto al año de solicitud 2024.
+2.   Como excepción a lo dispuesto en el artículo 119, apartado 11, del Reglamento (UE) 2021/2115, los Estados miembros podrán decidir, para el año de solicitud 2024, que las modificaciones de los planes estratégicos de la PAC relacionadas con los cambios de las normas BCAM 6, 7 u 8 establecidas en el anexo del presente Reglamento surtan efectos jurídicos antes de su aprobación por la Comisión. En relación con la norma BCAM 8, los Estados miembros solo podrán adoptar dicha decisión si, para el año de solicitud 2024, aplican un régimen que incluya prácticas en tierras de cultivo para el mantenimiento de superficies no productivas, como las tierras en barbecho, o para el establecimiento de nuevos elementos del paisaje a que se refiere el artículo 31 del Reglamento (UE) 2021/2115.
+Al adoptar la decisión a que se refiere el primer párrafo, los Estados miembros garantizarán que se respeten los principios generales del Derecho de la Unión, en particular los principios de seguridad jurídica, de no discriminación y de protección de la confianza legítima de los agricultores y otros beneficiarios, y que se tenga en cuenta la necesidad de los agricultores y otros beneficiarios de disponer de tiempo suficiente para cumplir las modificaciones.
+Artículo 4
+Entrada en vigor y aplicación
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el 
+Diario Oficial de la Unión Europea
+.
+El artículo 2, puntos 2 y 3, y el anexo serán aplicables a partir del año de solicitud 2024.
+El presente Reglamento será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro.
+Hecho en Bruselas, el 14 de mayo de 2024.
+Por el Parlamento Europeo
+La Presidenta
+R. METSOLA
+Por el Consejo
+La Presidenta
+H. LAHBIB
+(
+1
+)
+  Pendiente de publicación en el Diario Oficial.
+(
+2
+)
+  Posición del Parlamento Europeo de 24 de abril de 2024 (pendiente de publicación en el Diario Oficial) y Decisión del Consejo de 13 de mayo de 2024.
+(
+3
+)
+  Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, por el que se establecen normas en relación con la ayuda a los planes estratégicos que deben elaborar los Estados miembros en el marco de la política agrícola común (planes estratégicos de la PAC), financiada con cargo al Fondo Europeo Agrícola de Garantía (FEAGA) y al Fondo Europeo Agrícola de Desarrollo Rural (Feader), y por el que se derogan los Reglamentos (UE) n.
+o
+ 1305/2013 y (UE) n.
+o
+ 1307/2013 (
+DO L 435 de 6.12.2021, p. 1
+, ELI: http://data.europa.eu/eli/reg/2021/2115/oj).
+(
+4
+)
+  Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, sobre la financiación, la gestión y el seguimiento de la política agrícola común y por el que se deroga el Reglamento (UE) n.
+o
+ 1306/2013 (
+DO L 435 de 6.12.2021, p. 187
+, ELI: http://data.europa.eu/eli/reg/2021/2116/oj).
+(
+5
+)
+  Reglamento (UE) n.
+o
+ 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (Feader) y por el que se deroga el Reglamento (CE) n.
+o
+ 1698/2005 del Consejo (
+DO L 347 de 20.12.2013, p. 487
+, ELI: http://data.europa.eu/eli/reg/2013/1305/oj).
+(
+6
+)
+  Reglamento (UE) n.
+o
+ 1306/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, sobre la financiación, gestión y seguimiento de la Política Agrícola Común, por el que se derogan los Reglamentos (CE) n.
+o
+ 352/78, (CE) n.
+o
+ 165/94, (CE) n.
+o
+ 2799/98, (CE) n.
+o
+ 814/2000, (CE) n.
+o
+ 1290/2005 y (CE) n.
+o
+ 485/2008 del Consejo (
+DO L 347 de 20.12.2013, p. 549
+, ELI: http://data.europa.eu/eli/reg/2013/1306/oj).
+ANEXO
+El anexo III del Reglamento (UE) 2021/2115 se modifica como sigue:
+1)
+La entrada correspondiente a «BCAM 6» se sustituye por el texto siguiente:
+«BCAM 6
+Cobertura mínima del suelo para evitar suelos desnudos en los períodos más sensibles, según determinen los Estados miembros
+ (
+*1
+)
+.
+Protección de los suelos en los períodos más sensibles
+2)
+La entrada correspondiente a «BCAM 7» se sustituye por el texto siguiente:
+«BCAM 7
+Rotación de cultivos en tierras de cultivo, a excepción de los cultivos que crecen bajo el agua. Los Estados miembros podrán decidir asimismo si permiten que los agricultores y otros beneficiarios cumplan esta norma mediante la diversificación de cultivos
+ (
+*2
+)
+.
+Preservar el potencial del suelo
+3)
+La entrada correspondiente a «BCAM 8» se sustituye por el texto siguiente:
+«BCAM 8
+—
+Mantenimiento de los elementos del paisaje
+—
+Prohibición de cortar setos y árboles durante la temporada de cría y reproducción de las aves
+—
+De manera opcional, medidas para evitar las especies de plantas invasoras
+Mantenimiento de elementos no productivos para mejorar la biodiversidad en la explotación».
+(
+*1
+)
+  Los Estados miembros podrán tener en cuenta, en particular, el corto período vegetativo resultante de la duración y la dureza del período invernal en las regiones afectadas.».
+(
+*2
+)
+  La rotación consistirá en un cambio de cultivo por parcela (excepto en los casos de cultivos plurianuales, hierbas y otros forrajes herbáceos y tierras en barbecho), incluidos los cultivos secundarios gestionados adecuadamente.
+Sobre la base de la diversidad de métodos de cultivo y condiciones agroclimáticas, los Estados miembros podrán autorizar en las regiones afectadas otras prácticas de mejora de la rotación de cultivos con cultivos de leguminosas o diversificación de cultivos, destinadas a mejorar y preservar el potencial del suelo en consonancia con los objetivos de esta norma BCAM.
+Al definir los requisitos de la diversificación de cultivos, los Estados miembros respetarán los requisitos mínimos siguientes:
+a)
+cuando la superficie de tierras de cultivo de una explotación esté comprendida entre diez y treinta hectáreas, la diversificación de cultivos consistirá en el cultivo de tierra de cultivo de una explotación de al menos dos cultivos diferentes en dicha tierra de cultivo; el cultivo principal no supondrá más del 75 % de dicha tierra de cultivo;
+b)
+cuando la superficie de tierras de cultivo de una explotación sea superior a treinta hectáreas, la diversificación de cultivos consistirá en el cultivo de tierra de cultivo de una exploitación de al menos tres cultivos diferentes en dicha tierra de cultivo; el cultivo principal no supondrá más del 75 % de dicha tierra de cultivo y los dos cultivos principales juntos no supondrán más del 95 % de dicha tierra de cultivo.
+Los Estados miembros podrán eximir de la obligación de cumplimiento de esta norma a las explotaciones:
+a)
+en las que más del 75 % de las tierras de cultivo se utilice para producir hierbas u otros forrajes herbáceos, sea tierras en barbecho, se utilice para el cultivo de leguminosas, o sea objeto de una combinación de estos usos;
+b)
+en las que más del 75 % de la superficie agrícola admisible se dedique a pastos permanentes, se utilice para producir hierbas u otros forrajes herbáceos o para cultivos bajo el agua durante una parte significativa del año o del ciclo de cultivo, o sea objeto de una combinación de estos usos, o
+c)
+que dispongan de una superficie de tierras de cultivo de hasta diez hectáreas.
+Los Estados miembros podrán establecer un límite máximo de superficie cultivada con un único cultivo para evitar grandes monocultivos.
+Se considerará que los agricultores certificados de conformidad con el Reglamento (UE) 2018/848 cumplen esta norma BCAM.».
+ELI: http://data.europa.eu/eli/reg/2024/1468/oj
+ISSN 1977-0685 (electronic edition)
