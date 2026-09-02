@@ -51,7 +51,7 @@ from markdown_it import MarkdownIt
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from libro import (BLOQUES, CORTE, RAIZ, con_letra, lee, numera, ordena_opciones,
-                   preguntas, sin_marcas)
+                   preguntas, ruta_tema, sin_marcas)
 
 # El bloque que se está componiendo. Lo fija main() a partir del argumento, y
 # vive en un módulo aparte porque media docena de funciones lo necesitan y
@@ -416,7 +416,7 @@ def salto(doc):
 # ── el volumen ───────────────────────────────────────────────────────────────
 
 def parte_tema(doc, numero, base, banco):
-    crudo = sin_marcas(lee("temas/%s/%s.md" % (B["carpeta"], base)))
+    crudo = sin_marcas(lee("temas/%s.md" % ruta_tema(B["carpeta"], base)))
     titulo = re.search(r"(?m)^# (.+)$", crudo).group(1)
     cuerpo = re.sub(r"(?m)^# .+$\n", "", crudo, count=1)
     cuerpo = re.sub(r"## Índice\n.*?(?=\n## )", "", cuerpo, flags=re.S)
@@ -442,7 +442,7 @@ def parte_tema(doc, numero, base, banco):
         doc.add_paragraph(style="Normal")
     vuelca(doc, resto)
 
-    esquema = sin_marcas(lee("esquemas/%s/%s.md" % (B["carpeta"], base)))
+    esquema = sin_marcas(lee("esquemas/%s.md" % ruta_tema(B["carpeta"], base)))
     esquema = re.sub(r"(?m)^# .+$\n", "", esquema, count=1)
     esquema = re.sub(r"## Índice\n.*?(?=\n## )", "", esquema, flags=re.S)
     salto(doc)
@@ -697,7 +697,7 @@ def main():
 
     entradas, hechos, total = [], [], 0
     for numero, base, _ in elegidos:
-        crudo = sin_marcas(lee("temas/%s/%s.md" % (B["carpeta"], base)))
+        crudo = sin_marcas(lee("temas/%s.md" % ruta_tema(B["carpeta"], base)))
         titulo = re.search(r"(?m)^# (.+)$", crudo).group(1)
         cuerpo = re.sub(r"## Índice\n.*?(?=\n## )", "", crudo, flags=re.S)
         entradas.append((numero, titulo, re.findall(r"(?m)^## (.+)$", cuerpo)))

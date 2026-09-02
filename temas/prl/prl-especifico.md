@@ -1,4 +1,4 @@
-# Tema de prevención de riesgos laborales del específico
+# Prevención de riesgos laborales en el temario específico
 
 <!-- portada -->
 

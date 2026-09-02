@@ -150,6 +150,28 @@ AVISOS_INFORMACION = {
 }
 
 
+# El tema de prevención lo comparten las tres ocupaciones, así que su aviso
+# también. Se escribe una vez y se mezcla en los tres bloques: escrito tres veces,
+# a la primera corrección habría tres redacciones distintas del mismo aviso.
+# Y el tema es uno solo, aunque el programa le ponga tres números: es el 18 de
+# Producción, el 7 de Documentación y el 11 de Información y Contenidos. Vive en
+# `temas/prl/`, fuera de las tres carpetas, y por eso lleva la suya escrita
+# delante: un tema con «/» en el nombre trae su carpeta puesta, y los demás salen
+# de la del bloque. Tres copias del mismo fichero se habrían separado a la primera
+# corrección.
+TEMA_PRL = ("prl/prl-especifico", "prl-especifico")
+
+AVISOS_PRL = {
+    "77_preguntas_produccion_asist · nº 77":
+        "<b>La opción buena nombra algo que la norma no dice.</b> La plantilla da <b>b) «Para la "
+        "salud y la seguridad informática»</b>, y el <b>artículo 3.1 del RD 488/1997</b> obliga a "
+        "que el uso de las pantallas «no suponga riesgos para su seguridad o salud»: <b>la "
+        "«seguridad informática» no aparece ni en el real decreto ni en su Guía Técnica</b>. Con "
+        "el tema delante se acierta igual, pero por otra razón que la que el enunciado sugiere: "
+        "la norma nombra <b>seguridad y salud</b>, y <b>b) es la única opción que nombra las "
+        "dos</b> —la a), «para la salud», se queda corta—.",
+}
+
 BLOQUES = {
     "general": dict(
         carpeta="general",
@@ -181,9 +203,9 @@ BLOQUES = {
         carpeta="produccion",
         rotulo="Temario específico · Producción (Asistencia)",
         titulo="Temario específico",
-        subtitulo="Los diecisiete temas de <b>Producción (Asistencia)</b>",
+        subtitulo="Los dieciocho temas de <b>Producción (Asistencia)</b>",
         pie="Oposiciones RTVE – Producción (Asistencia)",
-        avisos=AVISOS_PRODUCCION,
+        avisos=dict(AVISOS_PRODUCCION, **AVISOS_PRL),
         clase_aviso="errata",
         rotulo_aviso="Ojo con la",
         temas=[("%02d-%s" % (n, base), "produccion-%02d" % n) for n, base in [
@@ -195,15 +217,17 @@ BLOQUES = {
             (13, "equipos-de-exteriores"), (14, "documentacion-internacional"),
             (15, "organismos"), (16, "gestion-de-servicios"),
             (17, "proteccion-de-datos"),
-        ]],
+        ]] + [TEMA_PRL],
         aviso_respuestas="<b>Ninguna respuesta oficial de este bloque está mal</b>, pero "
-                         "<b>cinco enunciados sí lo están</b> —uno con los términos invertidos, "
-                         "otro que mezcla cine y televisión, otro con una ley mal fechada—: van "
-                         "avisados debajo de su tabla.",
-        aviso_portada="<p><b>Ninguna respuesta oficial de este bloque está mal, pero cinco "
+                         "<b>seis enunciados sí lo están</b> —uno con los términos invertidos, "
+                         "otro que mezcla cine y televisión, otro con una ley mal fechada, y en "
+                         "el tema 18 uno cuya opción buena nombra una «seguridad informática» "
+                         "que la norma no conoce—: van avisados debajo de su tabla.",
+        aviso_portada="<p><b>Ninguna respuesta oficial de este bloque está mal, pero seis "
                       "enunciados sí.</b> Uno invierte los términos, otro mezcla cine y "
-                      "televisión, otro fecha mal una ley y cita otra derogada, y en otro el "
-                      "distractor descartado <i>no es falso</i>. Van marcados uno a uno en el "
+                      "televisión, otro fecha mal una ley y cita otra derogada, en otro el "
+                      "distractor descartado <i>no es falso</i>, y en otro la opción buena "
+                      "nombra un riesgo que la norma no nombra. Van marcados uno a uno en el "
                       "apéndice. El temario contesta lo que corrige el tribunal <b>y dice dónde "
                       "está la costura</b>.</p>",
     ),
@@ -211,20 +235,21 @@ BLOQUES = {
         carpeta="documentacion",
         rotulo="Temario específico · Documentación",
         titulo="Temario específico",
-        subtitulo="Los seis temas de <b>Documentación</b>",
+        subtitulo="Los siete temas de <b>Documentación</b>",
         pie="Oposiciones RTVE – Documentación",
-        avisos=AVISOS_DOCUMENTACION,
+        avisos=dict(AVISOS_DOCUMENTACION, **AVISOS_PRL),
         clase_aviso="errata",
         rotulo_aviso="Ojo con la",
         temas=[("%02d-%s" % (n, base), "documentacion-%02d" % n) for n, base in [
             (1, "historia-de-rtve"), (2, "documentacion-y-tecnologias"),
             (3, "internet"), (4, "inteligencia-artificial"),
             (5, "centros-de-documentacion"), (6, "cultura-y-actualidad"),
-        ]],
+        ]] + [TEMA_PRL],
         aviso_respuestas="<b>Ninguna respuesta oficial de este bloque está mal</b>, pero "
-                         "<b>dos enunciados cojean</b> —uno fecha el estado de alarma un día "
-                         "tarde, otro desarrolla unas siglas que la norma no desarrolla—: van "
-                         "avisados debajo de su tabla.",
+                         "<b>tres enunciados cojean</b> —uno fecha el estado de alarma un día "
+                         "tarde, otro desarrolla unas siglas que la norma no desarrolla, y en el "
+                         "tema 7 uno da por buena una «seguridad informática» que la norma no "
+                         "nombra—: van avisados debajo de su tabla.",
         aviso_portada="<p><b>Ninguna respuesta oficial de este bloque está mal.</b> Lo que sí "
                       "hay es <b>desigualdad de fuentes</b>, y el temario la dice: hay un tema "
                       "con las diez preguntas verificadas en documento y otro con cuarenta "
@@ -236,9 +261,9 @@ BLOQUES = {
         carpeta="informacion",
         rotulo="Temario específico · Información y Contenidos",
         titulo="Temario específico",
-        subtitulo="Los diez temas de <b>Información y Contenidos</b>",
+        subtitulo="Los once temas de <b>Información y Contenidos</b>",
         pie="Oposiciones RTVE – Información y Contenidos",
-        avisos=AVISOS_INFORMACION,
+        avisos=dict(AVISOS_INFORMACION, **AVISOS_PRL),
         clase_aviso="errata",
         rotulo_aviso="Ojo con la",
         temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
@@ -252,12 +277,14 @@ BLOQUES = {
             (8, "resolucion-parlamento-europeo", "informacion-08"),
             (9, "informe-unesco", "informacion-09"),
             (10, "carta-etica-fip", None),
-        ]],
+        ]] + [TEMA_PRL],
         aviso_respuestas="<b>Ninguna respuesta oficial de este bloque se puede dar por mal "
                          "contestada</b>, pero <b>una discrepa de su fuente estadística</b> y "
-                         "<b>cuatro enunciados están defectuosos</b> —uno nombra mal un "
+                         "<b>cinco enunciados están defectuosos</b> —uno nombra mal un "
                          "organismo, dos nombran mal el documento, otro apoya la respuesta en una "
-                         "cifra que la norma no escribe—: van avisados debajo de su tabla.",
+                         "cifra que la norma no escribe, y en el tema 11 otro da por buena una "
+                         "«seguridad informática» que la norma no nombra—: van avisados debajo de "
+                         "su tabla.",
         aviso_portada="<p><b>Este bloque tiene dos temas sin una sola pregunta de examen</b> —el "
                       "del Real Decreto-ley 4/2018 y el de la Carta ética de la FIP—, y se "
                       "escriben igual, contra la norma y el documento, porque el programa los "
@@ -275,7 +302,8 @@ BLOQUES = {
 # escriben con letra. Con dos bloques hay que generarlo, y no hace falta más que
 # los números que este temario puede tener.
 LETRA = {2: "Dos", 3: "Tres", 4: "Cuatro", 5: "Cinco", 6: "Seis", 7: "Siete",
-         8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 17: "Diecisiete"}
+         8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 17: "Diecisiete",
+         18: "Dieciocho"}
 
 
 def con_letra(n):
@@ -283,6 +311,13 @@ def con_letra(n):
 
 
 md = MarkdownIt("commonmark").enable("table").enable("strikethrough")
+
+
+def ruta_tema(carpeta, base):
+    """Dónde vive un tema. Casi siempre, en la carpeta de su bloque; el de
+    prevención, en la suya, porque lo comparten los tres bloques específicos y
+    se escribe una sola vez."""
+    return base if "/" in base else "%s/%s" % (carpeta, base)
 
 
 def lee(ruta):
@@ -514,7 +549,7 @@ def main():
 
     partes, indice_gral, total_preg = [], [], 0
     for i, (base, banco) in enumerate(B["temas"], 1):
-        crudo = sin_marcas(lee("temas/%s/%s.md" % (B["carpeta"], base)))
+        crudo = sin_marcas(lee("temas/%s.md" % ruta_tema(B["carpeta"], base)))
         titulo = re.search(r"(?m)^# (.+)$", crudo).group(1)
         cuerpo = re.sub(r"(?m)^# .+$\n", "", crudo, count=1)
         # fuera el índice del propio tema: el volumen lleva el suyo
@@ -525,7 +560,7 @@ def main():
             ficha = md.render(mt.group(1))
             resto = cuerpo[mt.end():]
 
-        esquema = sin_marcas(lee("esquemas/%s/%s.md" % (B["carpeta"], base)))
+        esquema = sin_marcas(lee("esquemas/%s.md" % ruta_tema(B["carpeta"], base)))
         esquema = re.sub(r"(?m)^# .+$\n", "", esquema, count=1)
         esquema = re.sub(r"## Índice\n.*?(?=\n## )", "", esquema, flags=re.S)
 

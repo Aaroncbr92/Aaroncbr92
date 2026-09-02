@@ -566,17 +566,31 @@ en Documentación y en Producción (Asistencia).
 
 ## Falta
 
-- [ ] Los **anexos 5 y 6 de las Bases Generales** (baremos de méritos). La versión
-      descargada no los trae. No afectan al temario.
+- [x] Los **anexos 5 y 6 de las Bases Generales** (baremos de méritos), **conseguidos el
+      2026-09-02**. La versión de las bases que teníamos no los traía porque **el sindicato los
+      publica sueltos**, cada uno en su PDF, y no dentro del documento. Están en
+      `convocatoria/bases/`, con su transcripción y sus dos cifras cabeceras comprobadas en el
+      texto: el **anexo 5** da **5 puntos por año** en la misma ocupación tipo desde el 1 de enero
+      de 2007, máximo 75; el **anexo 6**, **0,760 puntos por mes** desde la misma fecha. **No
+      afectan al temario**: puntúan la fase de concurso, no la de oposición.
 
-- [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
-      por otra vía.
+- [x] **Manual de estilo de RTVE**: **conseguido el 2026-09-02**, los ocho capítulos, unas
+      48 000 palabras, en `fuentes/informacion/`. **El 403 no era del servidor**: el programa da
+      la dirección en `http` y la política de salida sólo deja pasar `https`. Estaba dado por
+      imposible desde la primera revisión de fuentes.
+- [x] **Informe UNESCO 2021/2022**: **resuelto, pero no conseguido.** El PDF sigue tras un
+      desafío de JavaScript de Cloudflare —ése sí es un 403 de verdad, y se probaron cinco
+      caminos—. Se usó **el micrositio oficial del propio informe**, que publica sus capítulos en
+      página web, y **las dos preguntas que el micrositio no sostiene van declaradas** en el tema
+      9 de Información y Contenidos. La diferencia entre las dos líneas de arriba es la regla que
+      dejó este bloque: **el 403 no dice quién bloquea**.
 - [x] **Fase B: los tres temarios específicos, terminada el 2026-09-02.** Producción
       (Asistencia), 17 temas y 123 preguntas; Documentación, 6 temas y 82 preguntas; Información
       y Contenidos, 10 temas y 178 preguntas. **Más el tema de prevención, que las tres
       ocupaciones comparten** —es el 18 de Producción, el 7 de Documentación y el 11 de
-      Información— y que ya venía hecho del bloque común: por eso los tres bloques se cierran con
-      un tema menos del que dice su Anexo 2.
+      Información—, escrito una sola vez con el bloque común y **presente en los tres volúmenes
+      desde el 2026-09-02**: con él, los tres cierran con los temas que dice su Anexo 2, y suman
+      **154, 113 y 209 preguntas**.
 - [x] **El material que faltaba, resuelto —no siempre consiguiéndolo—.** Las normas **ETSI**
       del DVB **se recuperaron** con la regla del agente de navegador y están en
       `fuentes/normas-tecnicas/`. La **ISO 3382 no hizo falta**: la definición de RT60 —caída de
@@ -589,8 +603,9 @@ en Documentación y en Producción (Asistencia).
 - [x] **Un volumen imprimible por bloque.** `herramientas/libro.py` ya no lleva la lista de temas
       escrita en el código: la lleva `BLOQUES`, una entrada por bloque, y los tres específicos se
       dieron de alta ahí sin tocar el armazón. Salen **cuatro volúmenes** —general **254**
-      páginas, Producción (Asistencia) **221**, Documentación **96** e Información y Contenidos
-      **155**—, cada uno en PDF, Word y HTML.
+      páginas, Producción (Asistencia) **257**, Documentación **131** e Información y Contenidos
+      **189**—, cada uno en PDF, Word y HTML. Los tres específicos **cierran con el tema de
+      prevención**, que es el mismo fichero en los tres.
 
 ## Qué comprobación pasa por qué material
 
@@ -974,3 +989,38 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   los textos. Ocho en un solo bloque **ya no es un accidente**: es la maquetación de estos
   cuadernillos. No cambia ninguna respuesta, y en el temario las opciones van en su orden de
   aparición.
+
+- **2026-09-02 · El tema que estaba escrito y no se imprimía en ninguna parte.** Al resumir lo
+  hecho salió un hueco que ninguna herramienta avisaba: **el tema de prevención del específico
+  —11 811 palabras, 31 preguntas, verificado y cerrado desde el 30 de agosto— no estaba en ningún
+  volumen**. Es el **18 de Producción, el 7 de Documentación y el 11 de Información y
+  Contenidos**, y los tres libros salían con un tema menos del que dice su Anexo 2.
+  **Por qué no lo cazó nadie**: `libro.py` construía la ruta de cada tema como
+  `temas/<carpeta del bloque>/<nombre>`, y este tema **no vive en la carpeta de ningún bloque**,
+  porque lo comparten los tres. Un tema que no cabe en el molde de la ruta **no da error: no
+  aparece**. Es el mismo patrón del apartado 10 del manual —**la comprobación que devuelve cero no
+  prueba nada**—, aplicado ahora a un generador y no a una lente.
+  **Cómo se ha arreglado, y cómo no.** No copiándolo tres veces: tres copias del mismo fichero se
+  separan a la primera corrección. Se ha añadido una regla de una línea —**un tema con «/» en el
+  nombre trae su carpeta puesta**— y el tema entra al final de los tres bloques desde su sitio
+  único. `word.py` construía la ruta por su cuenta y **hacía falta arreglarlo también**: ahora los
+  dos generadores llaman a la misma función, que es lo que impide que vuelvan a separarse.
+  **Y su aviso viaja con él**: la pregunta de las pantallas de visualización, cuya opción buena
+  nombra una «seguridad informática» que el RD 488/1997 no conoce, se escribe **una vez** en
+  `AVISOS_PRL` y se mezcla en los tres bloques.
+  **Los tres volúmenes, reimpresos**: Producción pasa de 221 a **257 páginas** y de 123 a **154
+  preguntas**; Documentación, de 96 a **131** y de 82 a **113**; Información y Contenidos, de 155 a
+  **189** y de 178 a **209**. Y el tema estrena título —«**Prevención de riesgos laborales en el
+  temario específico**»—, porque el que tenía empezaba por «Tema» y en el libro habría salido
+  «TEMA 18 – Tema de prevención…».
+
+- **2026-09-02 · Un documento «que no existe» y sólo estaba en otro sitio.** Los **anexos 5 y 6 de
+  las Bases Generales** llevaban desde el 29 de agosto anotados como «la versión descargada no los
+  trae». No los traía, en efecto: **el sindicato los publica sueltos**, un PDF por anexo, con
+  nombres de fichero que no empiezan por «bases». Probar a adivinar la URL del documento completo
+  dio dos 404; **buscarlos por su título los encontró a la primera**. Es la misma regla que abrió
+  el ETSI y el Manual de Estilo: **antes de dar una fuente por perdida, hay que haber buscado el
+  documento, no sólo el sitio donde debería estar**.
+  **No afectan al temario** —puntúan la fase de concurso— y por eso llevaban ahí tres días sin que
+  nadie los echase de menos. Se guardan igual, con las dos cifras de cabecera **comprobadas en el
+  texto descargado y no en el resumen del buscador**, que es de donde salían al escribirlas.

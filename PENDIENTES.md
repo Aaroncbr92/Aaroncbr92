@@ -154,6 +154,10 @@ cierre para que quede el histórico del error propio.
   la salud», es incompleta. Incorporar la «seguridad informática» como riesgo de las pantallas
   sería inventar.
 - **Gravedad**: menor. Se acierta, pero por una razón distinta de la que el enunciado sugiere.
+- **AVISADO el 2026-09-02**, al meter el tema de prevención en los tres volúmenes específicos.
+  Seguía sin tocarse el tema —la «seguridad informática» no se inventa—, pero **el aviso ya se
+  imprime** junto a la respuesta, en `AVISOS_PRL` de `herramientas/libro.py`. Está escrito una
+  sola vez y se mezcla en los tres bloques: **el tema es uno, y su aviso también**.
 
 **b) El interruptor diferencial como protección contra contactos directos.**
 

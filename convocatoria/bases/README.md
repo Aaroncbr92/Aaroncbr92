@@ -13,11 +13,29 @@ CDN. Junto a cada PDF está su transcripción `.txt`.
 | `3-2022_documentacion_internas.pdf` | 3/2022 | Documentación | promoción y cambio de ocupación tipo |
 | `3-2022_informacion_y_contenidos_internas.pdf` | 3/2022 | Información y Contenidos | promoción y cambio de ocupación tipo |
 | `1-2022_bases_generales_sin_anexos.pdf` | 1/2022 | — | bases generales, versión sin anexos |
+| `1-2022_bases_generales_anexo-5.pdf` | 1/2022 | — | anexo 5: baremo de méritos de los procesos de estabilización (apartados 6 y 7) |
+| `1-2022_bases_generales_anexo-6.pdf` | 1/2022 | — | anexo 6: baremo de méritos de las tasas de reposición ordinarias (apartado 8) |
 
 Las bases generales vienen de la sección sindical de CGT
 (<https://www.cgtrtve.org/files/bases_generales_1-2022_adaptadas-sin-anexos.pdf>)
-y es la versión **sin anexos**: faltan los anexos 5 y 6, que son los baremos de
-méritos. No afectan al temario.
+y es la versión **sin anexos**.
+
+**Los dos anexos que faltaban están ya aquí**, descargados el 2026-09-02 de la
+misma sección sindical, **cada uno en su fichero suelto**, que es como los
+publica:
+
+- **Anexo 5**, `baremo-de-meritos-en-procesos-estabilizacion-anexo-5.pdf`: el
+  baremo de los procesos de estabilización de la Ley 20/2021, apartados 6 y 7 de
+  las bases. **Antigüedad en la misma ocupación tipo: 5 puntos por año desde el
+  1 de enero de 2007, con un máximo de 75.**
+- **Anexo 6**,
+  `bases_generales_1-2022_adaptadas-anexo-6-...-tasas-reposicion-p3-y-p4.pdf`: el
+  baremo de las tasas de reposición ordinarias, apartado 8. **Antigüedad: 0,760
+  puntos por mes desde la misma fecha.**
+
+**No afectan al temario**: puntúan la fase de concurso, no la de oposición. Se
+guardan porque las bases sin ellos están incompletos y porque el opositor que
+prepara el temario suele querer saber cuánto pesa lo que ya trae hecho.
 
 Las de 1/2022 llevan la coletilla «adaptadas tras el acuerdo transaccional
 homologado por la Sala de lo Social de la Audiencia Nacional en los autos de
