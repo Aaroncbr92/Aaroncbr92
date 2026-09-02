@@ -1,0 +1,20 @@
+Fichas de publicación de las normas contables del temario de Gestión Administrativa
+y de Gestión.
+
+Por qué existe este fichero: `herramientas/boe.py norma` vuelca el **texto
+consolidado** de una norma —su articulado y su cadena de redacciones—, pero **no
+trae la referencia con la que la norma se cita**: ni su número, ni su rango, ni
+el número del boletín en que se publicó. Un tema que escriba «Real Decreto
+1514/2007» está afirmando una cifra que no está en ninguna fuente descargada, y
+la lente de documento la caza como huérfana, con razón.
+
+Cada ficha sale del registro oficial del BOE, `diario_boe/xml.php?id=<id>`,
+descargado el 2 de septiembre de 2026.
+
+========== BOE-A-2007-19884
+titulo             Real Decreto 1514/2007, de 16 de noviembre, por el que se aprueba el Plan General de Contabilidad.
+numero_oficial     1514/2007
+rango              Real Decreto
+departamento       Ministerio de Economía y Hacienda
+fecha_publicacion  20071120
+diario             BOE núm. 278, de 20 de noviembre de 2007
