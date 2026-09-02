@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2024-11776` · `BOE-A-2023-7936` · `BOE-A-2023-12203` · `BOE-A-2024-21208` · `BOE-A-2023-23938` · `BOE-A-2024-15419` · `BOE-A-2024-18101` · `BOE-A-2023-22299` · `BOE-A-2024-18000` · `BOE-A-2023-23543` · `BOE-A-2024-16602` · `BOE-A-2024-20576` · `BOE-A-2024-5214` · `BOE-A-2025-13142` |
 | **Redacción que se estudia** | Las **leyes en su texto vigente**, las **órdenes, reales decretos y resoluciones en su texto original publicado** y las **páginas institucionales tal como estaban el 02/09/2026** |
 | **Aviso sobre las fuentes** | **Es, con enorme diferencia, el punto más preguntado de la ocupación: 121 de las 178 preguntas del bloque específico.** **20 de esas 121 se han podido atar a un documento** —quince al BOE y cinco a la fuente oficial del dato—, y **tres de las veinte solo en parte**, que va dicho donde toca. Las **101 restantes** se apoyan **sólo en la plantilla oficial**, y **van listadas una a una**. Aquí no hay temario que estudiar: hay **datos que comprobar**. Y **una de las veinte no confirma la plantilla: la desmiente** —la tasa de paro— |
-| **Extensión** | **7.440 palabras** |
+| **Extensión** | **7.456 palabras** |
 
 <!-- /portada -->
 
@@ -67,8 +67,8 @@ fecha de corte que imponen las bases. **Este tema no puede.** Sus preguntas son 
 amnistía es de junio de ese año, la supresión del Premio Nacional de Tauromaquia de septiembre, los
 Juegos de París de agosto. Aplicar el corte aquí sería dejar el tema vacío.
 
-**No es una excepción inventada para salir del paso**: está razonada y anotada en
-`convocatoria/bases/README.md`. El corte congela **el temario general**, que es de leyes; en
+**No es una excepción inventada para salir del paso**: está razonada y anotada al leer las bases
+de la convocatoria. El corte congela **el temario general**, que es de leyes; en
 Información y Contenidos los **puntos 1, 2 y 3** son de actualidad, y el propio examen lo demuestra
 preguntando por el Premio Nacional de Poesía **de 2024**. Lo que sí se mantiene es la disciplina de
 la fuente: cada hecho posterior al corte que este tema afirma **va con el documento que lo publica**,
@@ -760,6 +760,7 @@ deportes y trece de ciencia, tecnología y medios.
   premio de los Deportes.
 - **RTVE Play**, fichas de **«En Portada»** y de **«Cuéntame cómo pasó»**, leídas el **2 de
   septiembre de 2026**: el año de arranque de cada uno.
-- **Los documentos del BOE se localizaron con `herramientas/boe_buscar.py`**, que busca por título en
-  el buscador oficial, y se descargaron de `https://www.boe.es/diario_boe/txt.php?id=<ID>`. Los
-  preceptos de legislación consolidada se volcaron con `herramientas/boe.py`.
+- **Los documentos del BOE se localizaron buscando por título en el buscador oficial del Boletín**, y
+  se descargaron de `https://www.boe.es/diario_boe/txt.php?id=<ID>`. Los preceptos de legislación
+  consolidada se leyeron en el servicio de datos abiertos del BOE, por su interfaz de programación
+  (**API**).

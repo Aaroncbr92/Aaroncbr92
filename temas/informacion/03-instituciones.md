@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-1978-31229` · `BOE-A-2002-10139` · `BOE-A-2014-5947` · `BOE-A-2024-5478` · `BOE-A-2014-6476` · `BOE-A-2024-3790` · `BOE-A-1988-29622` · `BOE-A-2007-5825` · `BOE-A-1980-23397` · `BOE-A-2024-17786` · `BOE-A-2024-3103` · `BOE-A-2024-12645` · `BOE-A-2022-6052` |
 | **Redacción que se estudia** | La **Constitución, el Estatuto de Roma y el Estatuto de Andalucía en su texto vigente al 21/12/2022**; los **tratados, reales decretos y leyes de planta en su texto original publicado**; y las **páginas institucionales tal como estaban el 02/09/2026** |
 | **Aviso sobre las fuentes** | **Es el tema con mejor respaldo documental de los tres primeros puntos de este temario**: de sus **21 preguntas**, **15 se verifican en documento** —trece en el BOE y dos en las propias Naciones Unidas—, **1 más a medias** y sólo **5** se apoyan en la plantilla. Dos de esas cinco lo hacen **por un motivo que se documenta**: el **Estatuto del OIEA no fija su sede** y ni el **Estatuto de Andalucía** ni la **ley de planta judicial** fijan la del Tribunal Superior de Justicia |
-| **Extensión** | **4.774 palabras** |
+| **Extensión** | **4.777 palabras** |
 
 <!-- /portada -->
 
@@ -536,7 +536,7 @@ la Agencia de Energía Nuclear de la OCDE—, Bruselas y Londres.
   del Consejo de Seguridad; el **capítulo VII de la Carta**; y «Financiación de las operaciones de
   mantenimiento de la paz».
 - **Junta de Gobernadores de la Reserva Federal**, «About the Fed», leída el **2 de septiembre de
-  2026** y guardada en `fuentes/actualidad/instituciones.txt`: la definición del organismo.
+  2026**: la definición del organismo.
 - **Consultadas sin resultado el 2 de septiembre de 2026**: la página de la **UNRWA** —**403**— y las
   del **Consejo de Europa** sobre el Tribunal Europeo de Derechos Humanos —**403**—.
-- **Los documentos del BOE se localizaron con `herramientas/boe_buscar.py`.**
+- **Los documentos del BOE se localizaron buscando por título en el buscador oficial del Boletín.**

@@ -10,7 +10,7 @@
 | **Identificador** | PDF publicado por la propia Corporación en `rtve.es/contenidos/corporacion/codigo_menores_rtve.pdf`, 20 páginas |
 | **Redacción que se estudia** | El código **tal como está publicado**, que es la redacción de 2010 y **no se ha actualizado**: sigue apoyándose en la **Ley 7/2010**, derogada por la Ley 13/2022. Descargado el **02/09/2026** |
 | **Aviso sobre las fuentes** | **Es el único punto de esta ocupación con todas sus preguntas verificadas en documento**: las **2** están, con sus cifras, en el código que el propio programa enlaza. Pero **el examen no llama al documento por su nombre**: sus dos enunciados dicen «Código de Autorregulación sobre contenidos televisivos e infancia», que es el del acuerdo sectorial de **2004** que este código cita como su «más directo precedente» |
-| **Extensión** | **3.864 palabras** |
+| **Extensión** | **3.861 palabras** |
 
 <!-- /portada -->
 
@@ -462,5 +462,5 @@ mínimos para que la queja se pueda tramitar.
   las grabaciones de menores**; y la **responsabilidad en el seguimiento** con las normas de
   reclamación.
 - **Las normas que el código invoca y no se reproducen aquí**: la **Ley 17/2006** (art. 25) y la
-  **Ley 7/2010** (art. 7) están volcadas en `fuentes/` para otros temas del proyecto; el
+  **Ley 7/2010** (art. 7), que se estudian en otros temas; el
   **Mandato-Marco** de 2008 y el **RD 410/2002** se citan como los cita el código.
