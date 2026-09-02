@@ -16,8 +16,10 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `herramientas/doue.py` | Lector de normas de la Unión Europea publicadas por el BOE, con sus correcciones de errores. El texto no está consolidado, y lo dice. |
 | `herramientas/refutar_*.py` | Las cuatro lentes de refutación: exactitud, modo verbal y salvedades, prosa, y contraste contra documento sin articulado. |
 | `herramientas/indice.py` | Genera la **portada** y el **índice** de cada tema, y comprueba que las rutas que citan existen. Se vuelve a pasar cuantas veces haga falta. |
-| `herramientas/libro.py` | Arma el **bloque general en un volumen imprimible**: ficha, cuerpo, esquema y preguntas reales de cada tema, y las respuestas al final. |
-| `herramientas/pdf.py` | Convierte ese volumen en PDF con el Chromium del entorno. |
+| `herramientas/boe_buscar.py` | Busca una norma por su título en el BOE. Manda las casillas de sección, sin las cuales el buscador contesta «no se han encontrado documentos» y una búsqueda con respuesta se anota como camino cerrado. |
+| `herramientas/libro.py` | Arma **cada bloque en un volumen imprimible**: ficha, cuerpo, esquema y preguntas reales de cada tema, y las respuestas al final, con los avisos de plantilla y de enunciado. Los bloques están en `BLOQUES`, uno por entrada. |
+| `herramientas/pdf.py` | Convierte ese volumen en PDF con el Chromium del entorno, con índice paginado. |
+| `herramientas/word.py` | El mismo volumen en `.docx`, con estilos de Word. |
 | `esquemas/` | Un esqueleto de repaso por tema. Estilo telegrama, con el artículo delante de cada línea. |
 | `herramientas/banco.py` | Arma el banco de preguntas del **bloque común**, clasificando por materia. |
 | `herramientas/banco_especifico.py` | El del **bloque específico**, aplicando un reparto escrito a mano y avisando de lo que falta por repartir. |
@@ -43,12 +45,14 @@ herramientas/doue.py DOUE-L-2016-80807 fuentes/          # un reglamento europeo
 python3 herramientas/indice.py                          # todos
 python3 herramientas/indice.py temas/general/07-*.md    # uno
 
-# volumen imprimible del bloque general
-python3 herramientas/libro.py && python3 herramientas/pdf.py
+# volúmenes imprimibles, uno por bloque
+python3 herramientas/libro.py general     && python3 herramientas/pdf.py libro-general.html
+python3 herramientas/libro.py informacion && python3 herramientas/pdf.py libro-informacion.html
+python3 herramientas/word.py informacion                # el mismo, en .docx
 
 # bancos de preguntas
 python3 herramientas/banco.py                           # bloque común
-python3 herramientas/banco_especifico.py                # Producción (Asistencia)
+python3 herramientas/banco_especifico.py informacion    # uno por ocupación tipo
 ```
 
 Lo que hace por ti en cada precepto:

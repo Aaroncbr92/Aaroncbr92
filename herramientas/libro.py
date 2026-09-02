@@ -15,15 +15,16 @@ con el índice; en papel hay que decidir un orden y sostenerlo. El de aquí:
      autoevaluación posible; y separadas caben las advertencias sobre las
      plantillas oficiales que están mal, que en la misma página serían ruido.
 
-El mismo armazón sirve para los dos bloques —el general y el específico de
-Producción (Asistencia)—, que se diferencian en qué temas llevan, de qué carpeta
-salen y qué avisos hay que imprimir con las respuestas. Todo eso está en
+El mismo armazón sirve para los cuatro bloques —el general y los específicos de
+Producción (Asistencia), Documentación e Información y Contenidos—, que se
+diferencian en qué temas llevan, de qué carpeta salen y qué avisos hay que
+imprimir con las respuestas. Todo eso está en
 `BLOQUES`, y **no se duplica el código**: un volumen escrito dos veces se
 desincroniza a la primera corrección.
 
-Uso:  libro.py [general|produccion] [salida.html]
-      python3 herramientas/libro.py general    && python3 herramientas/pdf.py
-      python3 herramientas/libro.py produccion && python3 herramientas/pdf.py libro-produccion.html
+Uso:  libro.py [general|produccion|documentacion|informacion] [salida.html]
+      python3 herramientas/libro.py general     && python3 herramientas/pdf.py libro-general.html
+      python3 herramientas/libro.py informacion && python3 herramientas/pdf.py libro-informacion.html
 """
 import glob
 import html
@@ -37,10 +38,15 @@ from markdown_it import MarkdownIt
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CORTE = "21 de diciembre de 2022"
 
-# Los dos bloques. Cada uno dice **de dónde salen sus temas**, **cómo se
-# presenta el volumen** y **qué avisos van con las respuestas**. Cuando el
-# temario crezca —Documentación e Información y Contenidos—, se añade una
-# entrada aquí y no se toca nada más.
+# Los cuatro bloques. Cada uno dice **de dónde salen sus temas**, **cómo se
+# presenta el volumen** y **qué avisos van con las respuestas**. Cuando entre
+# otra ocupación tipo, se añade una entrada aquí y no se toca nada más —los tres
+# específicos que hay se dieron de alta así, sin tocar el armazón—.
+#
+# Un tema **puede no tener banco**: en Información y Contenidos, el del Real
+# Decreto-ley 4/2018 y el de la Carta ética de la FIP no tienen ni una pregunta
+# de examen. Se escribe `None` y el volumen los imprime sin juego, igual que el
+# tema 2 del general, que comparte el suyo con el 3.
 #
 # En el general, los temas 2 y 3 comparten banco de preguntas, así que el juego
 # va detrás del 3, que es el corto y el que depende del 2.
@@ -103,6 +109,44 @@ AVISOS_DOCUMENTACION = {
         "define el formato, se titula «Data Interchange on 12,7 mm 384-Track <b>Magnetic Tape "
         "Cartridges</b> – Ultrium-1 Format» y usa las siglas sin explicarlas. El desarrollo entre "
         "paréntesis es del tribunal; lo que la norma sí dice es que es <b>cinta magnética</b>.",
+}
+
+
+AVISOS_INFORMACION = {
+    "31_preguntas_iyc · nº 77":
+        "<b>La respuesta oficial y el INE no dicen lo mismo.</b> La plantilla da <b>11,4 %</b>; la "
+        "nota de prensa de la EPA del segundo trimestre de 2024, de 26 de julio, publica "
+        "<b>11,27 %</b>, y se comprueba sola: «11,27 % este trimestre, 1,02 puntos menos que en el "
+        "anterior», y 11,27 + 1,02 = 12,29, la tasa del primer trimestre. <b>De las cuatro "
+        "opciones, la de la plantilla sigue siendo la única cercana</b>; el temario enseña la "
+        "cifra del INE y deja dicho que la oficial es otra.",
+    "33_preguntas_iyc_2_llamamiento · nº 6":
+        "<b>El enunciado nombra mal el organismo.</b> Dice «Centro de Investigaciones Científicas "
+        "(CIS)». El CIS es el <b>Centro de Investigaciones Sociológicas</b>; el de Investigaciones "
+        "Científicas es el <b>CSIC</b>, otro organismo con otra adscripción. No cambia la "
+        "respuesta —las siglas sólo pueden ser el Sociológico—.",
+    "31_preguntas_iyc · nº 20":
+        "<b>El enunciado llama al documento por el título de otro.</b> Dice «Código de "
+        "Autorregulación sobre contenidos televisivos e infancia», que es el <b>acuerdo sectorial "
+        "de 9 de diciembre de 2004</b>. El documento del Anexo 2 es el <b>de RTVE, de 23 de julio "
+        "de 2010</b>, que cita a aquél como «el más directo precedente de las presentes normas». "
+        "<b>La respuesta no depende de cuál se lea</b>: la cifra está en el de RTVE con esas "
+        "mismas palabras.",
+    "31_preguntas_iyc · nº 57":
+        "<b>Mismo defecto que en la otra pregunta del tema</b>: el enunciado usa el título del "
+        "acuerdo sectorial de 2004 para preguntar por el código de RTVE de 2010. La respuesta se "
+        "verifica en el documento que el programa manda estudiar.",
+    "33_preguntas_iyc_2_llamamiento · nº 63":
+        "<b>La cifra de la respuesta no está en la directiva</b>, y el programa la fecha mal. La "
+        "norma dice <b>20 % del período</b>; los 144 minutos son esa proporción sobre doce horas, "
+        "así que quien busque «144» en el texto no lo encontrará. Y el Anexo 2 fecha la directiva "
+        "el <b>28 de noviembre de 2018</b>, que es la fecha del <b>Diario Oficial</b>: la "
+        "directiva es de <b>14 de noviembre</b>.",
+    "33_preguntas_iyc_2_llamamiento · nº 82":
+        "<b>La respuesta era correcta en 2024 y hoy no lo sería.</b> La plantilla da <b>siete</b> "
+        "países de la Unión sin el euro, y así era cuando se examinó; <b>la página oficial de hoy "
+        "dice seis</b>, porque la zona del euro ha crecido desde entonces. Se estudia la de 2024 "
+        "y se sabe por qué cambia.",
 }
 
 
@@ -187,6 +231,43 @@ BLOQUES = {
                       "preguntas de las que <b>quince</b> tienen documento y <b>veinticinco</b> "
                       "se apoyan sólo en la plantilla. Cada respuesta lleva <b>el nivel de su "
                       "fuente</b> escrito al lado.</p>",
+    ),
+    "informacion": dict(
+        carpeta="informacion",
+        rotulo="Temario específico · Información y Contenidos",
+        titulo="Temario específico",
+        subtitulo="Los diez temas de <b>Información y Contenidos</b>",
+        pie="Oposiciones RTVE – Información y Contenidos",
+        avisos=AVISOS_INFORMACION,
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "actualidad", "informacion-01"),
+            (2, "union-europea", "informacion-02"),
+            (3, "instituciones", "informacion-03"),
+            (4, "codigo-menores", "informacion-04"),
+            (5, "rdl-4-2018", None),
+            (6, "manual-de-estilo", "informacion-06"),
+            (7, "directiva-2018-1808", "informacion-07"),
+            (8, "resolucion-parlamento-europeo", "informacion-08"),
+            (9, "informe-unesco", "informacion-09"),
+            (10, "carta-etica-fip", None),
+        ]],
+        aviso_respuestas="<b>Ninguna respuesta oficial de este bloque se puede dar por mal "
+                         "contestada</b>, pero <b>una discrepa de su fuente estadística</b> y "
+                         "<b>cuatro enunciados están defectuosos</b> —uno nombra mal un "
+                         "organismo, dos nombran mal el documento, otro apoya la respuesta en una "
+                         "cifra que la norma no escribe—: van avisados debajo de su tabla.",
+        aviso_portada="<p><b>Este bloque tiene dos temas sin una sola pregunta de examen</b> —el "
+                      "del Real Decreto-ley 4/2018 y el de la Carta ética de la FIP—, y se "
+                      "escriben igual, contra la norma y el documento, porque el programa los "
+                      "manda. <b>Y tiene el tema más preguntado del proyecto</b>: ciento "
+                      "veintiuna preguntas de actualidad, que no se estudian en una norma sino "
+                      "que se comprueban dato a dato. <b>Cada respuesta lleva el nivel de su "
+                      "fuente al lado</b>, y las que sólo se apoyan en la plantilla lo dicen. "
+                      "<b>Ocho enunciados salen descolocados en el papel</b> —las cuatro letras "
+                      "seguidas y después los textos—: es de la maquetación de los cuadernillos, "
+                      "no cambia ninguna respuesta, y aquí las opciones van en su orden.</p>",
     ),
 }
 

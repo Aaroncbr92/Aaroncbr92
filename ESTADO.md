@@ -571,22 +571,26 @@ en Documentación y en Producción (Asistencia).
 
 - [ ] **Manual de estilo de RTVE** y **informe UNESCO 2021/2022**: conseguirlos
       por otra vía.
-- [ ] **Fase B: los tres temarios específicos.** Documentación es el más corto (6 temas),
-      Producción (Asistencia) el más largo (17) e Información y Contenidos el más entrelazado
-      con el general (10). El orden y el tratamiento de los temas sin norma detrás, en `PLAN.md`.
-      **Hechos los temas 2 y 17 de Producción**; el 18 ya venía hecho como tema de PRL común.
-      **Con eso se cierran los dos únicos temas del específico de Producción que tienen norma del
-      BOE detrás**, y con ellos las 15 de las 129 preguntas en que el método funciona entero.
-      **Siguiente**: los quince restantes, que hay que documentar antes de escribir.
-- [ ] **Escribir los catorce temas que quedan de Producción.** **Hecho el 10**; el siguiente es
-      el **9**, el más pesado, con 20 preguntas. El inventario de lo que necesita cada uno está en
-      `informes/materiales-del-especifico-2026-09-02.md`.
-- [ ] **Rematar el material que falta**: probar la **ISO 3382** para el RT60, la **AES10** para
-      MADI, las normas **ETSI** del DVB, y tirar del hilo del BOE para el tema 15 —Ley 46/1983,
-      Ley 10/1998 y Ley 7/2010— antes de dar por perdidos FORTA y UTECA.
-- [ ] **Un volumen imprimible del bloque específico.** `herramientas/libro.py` tiene hoy la
-      lista de los ocho temas del general escrita dentro; para el específico hace falta que la
-      lista salga del programa y no del código.
+- [x] **Fase B: los tres temarios específicos, terminada el 2026-09-02.** Producción
+      (Asistencia), 17 temas y 123 preguntas; Documentación, 6 temas y 82 preguntas; Información
+      y Contenidos, 10 temas y 178 preguntas. **Más el tema de prevención, que las tres
+      ocupaciones comparten** —es el 18 de Producción, el 7 de Documentación y el 11 de
+      Información— y que ya venía hecho del bloque común: por eso los tres bloques se cierran con
+      un tema menos del que dice su Anexo 2.
+- [x] **El material que faltaba, resuelto —no siempre consiguiéndolo—.** Las normas **ETSI**
+      del DVB **se recuperaron** con la regla del agente de navegador y están en
+      `fuentes/normas-tecnicas/`. La **ISO 3382 no hizo falta**: la definición de RT60 —caída de
+      60 dB— está en el anejo de terminología del documento que ya se tenía. La **AES10 (MADI)
+      sigue tras un muro de pago**, y lo que de ella se puede afirmar está acotado en
+      `AES-normas-de-audio.md`. Y el hilo del BOE dio el tema 15 —Ley 46/1983, Ley 10/1998 y Ley
+      7/2010—; **FORTA y UTECA quedan perdidas con el descarte escrito**, no por silencio.
+      **Lo que sigue abierto** está listado en `fuentes/normas-tecnicas/README.md`: la EBU/UER, el
+      texto de la AES10 y las fichas de Sony y DJI sin probar con la regla nueva.
+- [x] **Un volumen imprimible por bloque.** `herramientas/libro.py` ya no lleva la lista de temas
+      escrita en el código: la lleva `BLOQUES`, una entrada por bloque, y los tres específicos se
+      dieron de alta ahí sin tocar el armazón. Salen **cuatro volúmenes** —general **254**
+      páginas, Producción (Asistencia) **221**, Documentación **96** e Información y Contenidos
+      **155**—, cada uno en PDF, Word y HTML.
 
 ## Qué comprobación pasa por qué material
 
@@ -947,3 +951,26 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   el punto más preguntado de todo el proyecto. **20 verificadas** —quince en el BOE, cinco en la
   fuente oficial, tres de ellas sólo en parte— y **101 apoyadas sólo en la plantilla**, listadas una
   a una. Con su esquema y sus dos informes.
+
+- **2026-09-02 · Cerrado el bloque específico de Información y Contenidos.** Diez temas —**41 793
+  palabras de cuerpo**—, diez esquemas, veinte informes y **178 preguntas contestadas con el tema
+  delante**. El volumen imprimible sale en `libro-informacion.pdf` —**155 páginas**—, con sus
+  versiones en Word y HTML. Es **el bloque más grande del proyecto después del general**, y el
+  único con **dos temas sin una sola pregunta de examen**: el del Real Decreto-ley 4/2018 y el de
+  la Carta ética de la FIP, escritos igual, contra la norma y el documento, porque el programa los
+  manda. En el volumen se imprimen sin juego de preguntas, como el tema 2 del general.
+  **El saldo de fuentes**: de las 178 preguntas, **62 se verifican en documento** —y una más a
+  medias—; las demás se apoyan sólo en la plantilla y **van listadas una a una en su tema**. La
+  desproporción tiene un motivo escrito: **121 de las 178 son del punto 1, actualidad**, que no se
+  estudia en una norma sino que se comprueba dato a dato.
+  **Ninguna respuesta oficial de este bloque se ha podido dar por mal contestada**, pero quedan
+  seis avisos en el apéndice: la **discrepancia del INE** con la tasa de paro, la respuesta de la
+  **zona del euro** que era correcta en 2024 y hoy no lo sería, el enunciado que llama al **CIS**
+  «Centro de Investigaciones Científicas», **dos** que nombran el código del menor por el título
+  del acuerdo sectorial de 2004, y el de la **directiva** —cuya respuesta se apoya en una cifra,
+  144 minutos, que la norma no escribe, y a la que **el propio Anexo 2 pone la fecha del Diario
+  Oficial en vez de la de la norma**—.
+  **Y ocho enunciados salen descolocados en el papel**, con las cuatro letras seguidas y después
+  los textos. Ocho en un solo bloque **ya no es un accidente**: es la maquetación de estos
+  cuadernillos. No cambia ninguna respuesta, y en el temario las opciones van en su orden de
+  aparición.

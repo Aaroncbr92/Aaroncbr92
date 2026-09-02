@@ -357,3 +357,30 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 - **Regenerados los tres formatos** del volumen general en la misma pasada: 254 páginas.
 - **Gravedad**: menor, y era menor. No había ningún dato equivocado; había cuatro siglas que el
   lector tenía que deducir del contexto.
+
+---
+
+## Una respuesta oficial que su fuente estadística no sostiene — abierto el 2026-09-02
+
+- **Dónde**: banco `informacion-01`, pregunta 77 del cuadernillo `31_preguntas_iyc`, y el
+  epígrafe de economía del tema 1 del específico de **Información y Contenidos**.
+- **Qué dice la plantilla**: la tasa de paro del **segundo trimestre de 2024** fue **11,4 %**.
+- **Qué dice la fuente**: el **INE**, en la nota de prensa de la **EPA del segundo trimestre de
+  2024** —26 de julio de 2024—, publica **11,27 %**.
+- **Qué se ha hecho**: se aplicó el apartado 5 del manual —*el que detecta se equivoca*— y la
+  sospecha **no se sostuvo**. Es el trimestre correcto: la nota se titula «Encuesta de población
+  activa (EPA). Segundo trimestre 2024». La cifra se comprueba sola: «**11,27 % este trimestre,
+  1,02 puntos menos que en el anterior**», y 11,27 + 1,02 = 12,29, que es la tasa del primero. Y
+  el enunciado **no dice de quién es la tasa**: en España, «la tasa de paro» de un trimestre es
+  la de la EPA.
+- **Qué queda pendiente**: encontrar **de dónde sale el 11,4 %**. Podría darlo una serie mensual
+  desestacionalizada distinta de la EPA trimestral, pero **eso es una conjetura y no una
+  fuente**, y como conjetura queda escrita. Mientras no aparezca esa serie, **esto no se anota
+  como errata de plantilla**: se anota como discrepancia.
+- **Decisión mientras tanto**: el tema **enseña el 11,27 % del INE** y deja dicho que la
+  respuesta oficial es otra; el volumen lo avisa debajo de la tabla de respuestas. De las cuatro
+  opciones, la de la plantilla sigue siendo la única cercana, así que **el opositor la marca
+  igual**.
+- **Gravedad**: induce a error si se estudia la cifra de memoria. **Es la primera vez en el
+  proyecto que una fuente estadística, y no una norma, discute una respuesta oficial**: las tres
+  erratas de plantilla anotadas más arriba son todas de derecho.
