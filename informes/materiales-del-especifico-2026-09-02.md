@@ -221,10 +221,36 @@ la próxima convocatoria cambia de proveedor.
 
 ## Lo siguiente
 
-1. **Escribir los trece temas que quedan**, por peso de examen: **11** (transmisión
-   de señal, 10), **13** (exteriores, 7), **1**, **3**, **7**, **8**, **12**, **14**
-   y **15** (6 cada uno), **6** (4), **5** y **16** (3) y **4** (2).
+1. **Escribir los doce temas que quedan**, por peso de examen: **13** (exteriores,
+   7), **1**, **3**, **7**, **8**, **12**, **14** y **15** (6 cada uno), **6** (4),
+   **5** y **16** (3) y **4** (2). *(El **11** ya está cerrado.)*
 2. **Tirar del hilo del BOE para el tema 15** antes de resignarse: Ley 46/1983,
    Ley 10/1998 y Ley 7/2010 pueden sostener FORTA y UTECA.
-3. Probar **ETSI** para el DVB y las **fichas de fabricante** restantes una a una,
-   y anotar el resultado aquí mismo.
+3. ~~Probar **ETSI** para el DVB~~ → **hecho, y estaba abierto**: las normas
+   **EN 300 744** y **EN 302 755** se descargaron con un agente de navegador. Quedan
+   las **fichas de Sony (HXR-NX80) y DJI (RS 4 Pro)**, que se probarán con la misma
+   regla antes de escribir el tema de exteriores.
+
+## Tercera actualización del mismo día: el tema 11, escrito
+
+**Cerrado con 4.529 palabras**, esquema e informes, y es **el mejor servido de todo el bloque**:
+**siete de sus diez preguntas** tienen norma, recomendación o ficha detrás. La razón no es que la
+materia sea más normativa que las otras —lo es un poco—, sino que **se probaron otra vez las
+puertas dadas por cerradas**.
+
+**Lo que se trajo en esta pasada:**
+
+- **Recomendación UIT-R S.673-2 (03/2002)**, términos de radiocomunicaciones espaciales: contesta
+  entera la pregunta de la órbita geoestacionaria y regala **LEO**, **MEO**, apogeo y perigeo.
+- **Recomendación UIT-R SNG.770-2 (01/2012)**: **el título es la respuesta** a la pregunta del
+  DSNG, y el cuerpo da la definición formal, el listón de las dos personas en una hora y la banda
+  de 14 GHz.
+- **Recomendación UIT-T G.984.1 (03/2003)**: desarrolla **FTTH** y toda su familia.
+- **Normas europeas ETSI EN 300 744 y EN 302 755**: desarrollan **DVB** en su propio título y
+  sostienen, literalmente, la asociación con el **MPEG-2** que el enunciado hace.
+- **Ley 11/2022** y **Plan Técnico Nacional de la TDT** (`BOE-A-2019-9513`), del BOE.
+- **Ficha de LiveU del LU300S**, que es la que destapó todo lo demás.
+
+**Lo que sigue sin fuente en este tema**: la altitud de **36.000 km** de la órbita geoestacionaria
+—la recomendación da las otras dos de la escala, no ésa—, el **streaming**, la **señal Pool** y
+cuál de los seis datos de acceso a una señal por satélite es el imprescindible.

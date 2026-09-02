@@ -1,0 +1,1234 @@
+ 
+ 
+ 
+UNIÓN  INTERNACIONAL  DE  TELECOMUNICACIONES 
+ 
+ 
+UIT-T 
+G.984.1
+SECTOR  DE  NORMALIZACIÓN 
+DE  LAS  TELECOMUNICACIONES 
+DE  LA  UIT 
+(03/2003) 
+ 
+SERIE G: SISTEMAS Y MEDIOS DE TRANSMISIÓN, 
+SISTEMAS Y REDES DIGITALES 
+Secciones digitales y sistemas digitales de línea – 
+Sistemas de línea óptica para redes de acceso y redes 
+locales 
+ 
+ 
+Redes ópticas pasivas con capacidad de 
+Gigabits: Características generales 
+ 
+Recomendación UIT-T G.984.1 
+ 
+
+RECOMENDACIONES  UIT-T  DE  LA  SERIE  G 
+SISTEMAS Y MEDIOS DE TRANSMISIÓN, SISTEMAS Y REDES DIGITALES 
+ 
+ 
+CONEXIONES  Y CIRCUITOS TELEFÓNICOS INTERNACIONALES  
+G.100–G.199 
+CARACTERÍSTICAS GENERALES COMUNES A TODOS LOS SISTEMAS ANALÓGICOS 
+DE PORTADORAS 
+G.200–G.299 
+CARACTERÍSTICAS INDIVIDUALES DE LOS SISTEMAS TELEFÓNICOS 
+INTERNACIONALES  DE PORTADORAS EN LÍNEAS METÁLICAS 
+G.300–G.399 
+CARACTERÍSTICAS GENERALES DE LOS SISTEMAS TELEFÓNICOS 
+INTERNACIONALES EN RADIOENLACES O POR SATÉLITE E INTERCONEXIÓN CON 
+LOS SISTEMAS EN LÍNEAS METÁLICAS 
+G.400–G.449 
+COORDINACIÓN DE LA RADIOTELEFONÍA Y LA TELEFONÍA EN LÍNEA 
+G.450–G.499 
+EQUIPOS DE PRUEBAS 
+G.500–G.599 
+CARACTERÍSTICAS DE LOS MEDIOS DE TRANSMISIÓN 
+G.600–G.699 
+EQUIPOS TERMINALES DIGITALES 
+G.700–G.799 
+REDES DIGITALES 
+G.800–G.899 
+SECCIONES DIGITALES Y SISTEMAS DIGITALES DE LÍNEA 
+G.900–G.999 
+Generalidades 
+G.900–G.909 
+Parámetros para sistemas en cables de fibra óptica 
+G.910–G.919 
+Secciones digitales a velocidades binarias jerárquicas basadas en una velocidad de 2048 kbit/s 
+G.920–G.929 
+Sistemas digitales de transmisión en línea por cable a velocidades binarias no jerárquicas 
+G.930–G.939 
+Sistemas de línea digital proporcionados por soportes de transmisión MDF 
+G.940–G.949 
+Sistemas de línea digital 
+G.950–G.959 
+Sección digital y sistemas de transmisión digital para el acceso del cliente a la RDSI 
+G.960–G.969 
+Sistemas en cables submarinos de fibra óptica  
+G.970–G.979 
+Sistemas de línea óptica para redes de acceso y redes locales 
+G.980–G.989 
+Redes de acceso 
+G.990–G.999 
+CALIDAD DE SERVICIO Y DE TRANSMISIÓN - ASPECTOS GENÉRICOS Y ASPECTOS 
+RELACIONADOS AL USUARIO 
+G.1000–G.1999 
+CARACTERÍSTICAS DE LOS MEDIOS DE TRANSMISIÓN 
+G.6000–G.6999 
+EQUIPOS TERMINALES DIGITALES 
+G.7000–G.7999 
+REDES DIGITALES 
+G.8000–G.8999 
+ 
+ 
+Para más información, véase la Lista de Recomendaciones del UIT-T. 
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+i 
+Recomendación UIT-T G.984.1 
+Redes ópticas pasivas con capacidad de 
+Gigabits: Características generales 
+ 
+ 
+ 
+Resumen 
+En esta Recomendación se describe una red de acceso flexible de fibra óptica con capacidad para 
+soportar las necesidades de ancho de banda de los servicios para empresas y particulares y abarca 
+sistemas con velocidades de línea nominales de 1,2 Gbit/s y 2,4 Gbit/s en sentido descendente (hacia 
+el destino) y de 155 Mbit/s, 622 Mbit/s; 1,2 Gbit/s y 2,4 Gbit/s en sentido ascendente (hacia el 
+origen). Se describen sistemas de redes ópticas pasivas con capacidad de Gigabits (GPON, gigabit-
+capable passive optical network) simétricos y asimétricos (ascendentes/descendentes). Además, se 
+proponen las características generales de los sistemas GPON basándose en las necesidades de 
+servicio de los operadores. 
+Esta Recomendación tiene por objeto mejorar el sistema descrito en la Rec. UIT-T G.983.1 para lo 
+cual se examina de nuevo el servicio de soporte, las políticas de seguridad, las velocidades de bit 
+nominales, etc. Para garantizar la máxima continuidad de los sistemas y la infraestructura de fibra 
+óptica existentes, en esta Recomendación se mantienen algunos de los requisitos de la Rec. 
+UIT-T G.983.1. 
+ 
+ 
+Orígenes 
+La Recomendación UIT-T G.984.1 (2003), preparada por la Comisión de Estudio 15 (2001-2004) 
+del UIT-T, fue aprobada por el procedimiento de la Resolución 1 de la AMNT el 16 de marzo 
+de 2003. 
+ 
+ 
+ 
+ 
+
+ 
+ii 
+Rec. UIT-T G.984.1 (03/2003) 
+PREFACIO 
+La UIT (Unión Internacional de Telecomunicaciones) es el organismo especializado de las Naciones Unidas 
+en el campo de las telecomunicaciones. El UIT-T (Sector de Normalización de las Telecomunicaciones de la 
+UIT) es un órgano permanente de la UIT. Este órgano estudia los aspectos técnicos, de explotación y 
+tarifarios y publica Recomendaciones sobre los mismos, con miras a la normalización de las telecomunica-
+ciones en el plano mundial. 
+La Asamblea Mundial de Normalización de las Telecomunicaciones (AMNT), que se celebra cada cuatro 
+años, establece los temas que han de estudiar las Comisiones de Estudio del UIT-T, que a su vez producen 
+Recomendaciones sobre dichos temas. 
+La aprobación de Recomendaciones por los Miembros del UIT-T es el objeto del procedimiento establecido 
+en la Resolución 1 de la AMNT. 
+En ciertos sectores de la tecnología de la información que corresponden a la esfera de competencia del 
+UIT-T, se preparan las normas necesarias en colaboración con la ISO y la CEI. 
+ 
+ 
+ 
+ 
+ 
+NOTA 
+En esta Recomendación, la expresión "Administración" se utiliza para designar, en forma abreviada, tanto 
+una administración de telecomunicaciones como una empresa de explotación reconocida de 
+telecomunicaciones. 
+ 
+ 
+ 
+ 
+PROPIEDAD INTELECTUAL 
+La UIT señala a la atención la posibilidad de que la utilización o aplicación de la presente Recomendación 
+suponga el empleo de un derecho de propiedad intelectual reivindicado. La UIT no adopta ninguna posición 
+en cuanto a la demostración, validez o aplicabilidad de los derechos de propiedad intelectual reivindicados, 
+ya sea por los miembros de la UIT o por terceros ajenos al proceso de elaboración de Recomendaciones. 
+En la fecha de aprobación de la presente Recomendación, la UIT no ha recibido notificación de propiedad 
+intelectual, protegida por patente, que puede ser necesaria para aplicar esta Recomendación. Sin embargo, 
+debe señalarse a los usuarios que puede que esta información no se encuentre totalmente actualizada al 
+respecto, por lo que se les insta encarecidamente a consultar la base de datos sobre patentes de la TSB. 
+ 
+ 
+ 
+ 
+  UIT  2003 
+Reservados todos los derechos. Ninguna parte de esta publicación puede reproducirse por ningún 
+procedimiento sin previa autorización escrita por parte de la UIT. 
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+iii 
+ÍNDICE 
+ 
+Página 
+1 
+Alcance ......................................................................................................................... 
+1 
+2 
+Referencias ................................................................................................................... 
+1 
+3 
+Definiciones.................................................................................................................. 
+2 
+4 
+Abreviaturas.................................................................................................................. 
+3 
+5 
+Arquitectura de la red de acceso óptico........................................................................ 
+4 
+5.1 
+Arquitectura de red......................................................................................... 
+4 
+5.2 
+Configuración de referencia ........................................................................... 
+5 
+6 
+Servicios, interfaz usuario-red e interfaz de nodo de servicio...................................... 
+6 
+6.1 
+Servicios ......................................................................................................... 
+6 
+6.2 
+Interfaz usuario-red (UNI) e interfaz de nodo de servicio (SNI) ................... 
+7 
+7 
+Velocidad binaria.......................................................................................................... 
+7 
+8 
+Alcance lógico .............................................................................................................. 
+7 
+9 
+Alcance físico ............................................................................................................... 
+7 
+10 
+Distancia de fibra diferencial........................................................................................ 
+7 
+11 
+Retardo medio máximo de transferencia de la señal .................................................... 
+7 
+12 
+Relación de división ..................................................................................................... 
+8 
+13 
+Superposición de servicios ........................................................................................... 
+8 
+14 
+Protección en la sección PON....................................................................................... 
+8 
+14.1 
+Posibles tipos de conmutación........................................................................ 
+8 
+14.2 
+Posibles configuraciones y características de la GPON dúplex ..................... 
+9 
+14.3 
+Requisitos ....................................................................................................... 
+11 
+14.4 
+Campos de información necesarios en la trama OAM................................... 
+12 
+15 
+Seguridad...................................................................................................................... 
+12 
+Apéndice I – Ejemplos de servicios de UNI y de SNI............................................................. 
+12 
+I.1 
+Ejemplos de servicios..................................................................................... 
+12 
+I.2 
+Ejemplos de la interfaz UNI........................................................................... 
+13 
+I.3 
+Ejemplos de la interfaz SNI............................................................................ 
+14 
+Apéndice II – Bibliografía ....................................................................................................... 
+14 
+ 
+
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+1 
+Recomendación UIT-T G.984.1 
+Redes ópticas pasivas con capacidad de 
+Gigabits: Características generales 
+1 
+Alcance 
+Esta Recomendación trata sobre las características generales de los sistemas de redes ópticas 
+pasivas con capacidad de Gigabits (GPON), con objeto de orientar y motivar las especificaciones de 
+la capa física y de la capa de convergencia de transmisión. Las características generales incluyen 
+ejemplos de servicios, de interfaces usuario-red (UNI, user network interface) e interfaces de nodo 
+de servicio (SNI, service node interface) que son necesarios para los operadores de red. Además, en 
+esta Recomendación se ilustran las principales configuraciones de instalación. 
+En la medida de lo posible, en esta Recomendación se mantienen las características de la Rec. 
+UIT-T G.982 y de las Recomendaciones UIT-T de la serie G.983.x. La finalidad es asegurar la 
+compatibilidad con las redes de distribución óptica existentes (ODN, optical distribution network) 
+que son conformes con esas Recomendaciones. 
+Los sistemas GPON se caracterizan en general por un sistema de terminación de línea óptica 
+(OLT, optical line termination) y una unidad de red óptica (ONU, optical network unit) o una 
+terminación de red óptica (ONT, optical network termination) con una red de distribución óptica 
+(ODN, optical distribution network) pasiva que los interconecta. Por lo general, existe una relación 
+de tipo uno a muchos entre la OLT y las ONU/ONT respectivamente. 
+2 
+Referencias 
+Las siguientes Recomendaciones del UIT-T y otras referencias contienen disposiciones que, 
+mediante su referencia en este texto, constituyen disposiciones de la presente Recomendación. Al 
+efectuar esta publicación, estaban en vigor las ediciones indicadas. Todas las Recomendaciones y 
+otras referencias son objeto de revisiones por lo que se preconiza que los usuarios de esta 
+Recomendación investiguen la posibilidad de aplicar las ediciones más recientes de las 
+Recomendaciones y otras referencias citadas a continuación. Se publica periódicamente una lista de 
+las Recomendaciones UIT-T actualmente vigentes. En esta Recomendación la referencia a un 
+documento, en tanto que autónomo, no le otorga el rango de una Recomendación. 
+[1] 
+Recomendación UIT-T G.652 (2003), Características de un cable de fibra óptica 
+monomodo. 
+[2] 
+Recomendación UIT-T G.902 (1995), Recomendación marco sobre redes de acceso 
+funcional – Arquitectura y funciones, tipos de accesos, gestión y aspectos del nodo de 
+servicio. 
+[3] 
+Recomendación UIT-T G.982 (1996), Redes de acceso óptico para el soporte de servicios 
+que funcionan con velocidades binarias de hasta la velocidad primaria de la red digital de 
+servicios integrados (RDSI) o velocidades binarias equivalentes. 
+[4] 
+Recomendación UIT-T G.983.1 (1998), Sistemas de acceso óptico de banda ancha basados 
+en redes ópticas pasivas. 
+[5] 
+Recomendación UIT-T G.983.2 (2002), Especificación de la interfaz de control y gestión 
+de terminales de red óptica para redes ópticas pasivas de banda ancha. 
+[6] 
+Recomendación UIT-T G.983.3 (2001), Sistema de acceso óptico de banda ancha con 
+capacidad de servicio incrementada mediante la asignación de longitud de onda. 
+
+ 
+2 
+Rec. UIT-T G.984.1 (03/2003) 
+[7] 
+Recomendación UIT-T I.112 (1993), Vocabulario de términos relativos a las redes 
+digitales de servicios integrados. 
+3 
+Definiciones 
+En 
+esta 
+Recomendación 
+se 
+utilizan 
+continuamente 
+los 
+términos 
+definidos 
+en 
+las 
+Recomendaciones UIT-T G.983.1 [4] y G.983.3 [6]; además, se han añadido algunos otros 
+términos. Por razones prácticas, en esta cláusula se repiten las definiciones más importantes 
+relacionadas con los requisitos de servicio de la GPON. 
+3.1 
+función de adaptación (AF, adaptation function): Equipo adicional que convierte la 
+interfaz de abonado ONT/ONU en una interfaz UNI necesaria para el operador o para convertir una 
+interfaz UNI en una interfaz de abonado ONT/ONU. Las funciones de la AF dependerán de la 
+interfaz de abonado ONT/ONU y de la interfaz UNI. Además, la AF es útil también para convertir 
+una interfaz de red OLT en una interfaz SNI necesaria para el operador o para convertir una interfaz 
+SNI en una interfaz de red OLT. 
+3.2 
+alcance lógico: Se define como la distancia máxima que puede alcanzar un sistema de 
+transmisión particular, independientemente de la potencia óptica. 
+3.3 
+distancia de fibra diferencial: Una OLT se conecta a varias ONU/ONT. La distancia de 
+fibra diferencial es la diferencia de distancia entre la ONU/ONT más próxima y la más distante a 
+partir de la OLT. 
+3.4 
+retardo medio de transferencia de la señal: Los valores medios en transmisión hacia el 
+origen y hacia el destino entre puntos de referencia "V" y "T"; un valor dado se determina midiendo 
+el retardo de ida y retorno y dividiendo por dos el valor obtenido. 
+3.5 
+red de acceso óptico (OAN, optical access network): El conjunto de enlaces de acceso que 
+comparten las mismas interfaces del lado red y están soportados por sistemas de transmisión de 
+acceso óptico. La OAN puede incluir varias ODN conectadas a la misma OLT. 
+3.6 
+red de distribución óptica (ODN, optical distribution network): Una ODN proporciona el 
+medio de transmisión óptica desde la OLT hasta los usuarios, y viceversa. Utiliza componentes 
+ópticos pasivos. 
+3.7 
+terminación de línea óptica (OLT, optical line termination): Una OLT proporciona la 
+interfaz en el lado de la red de la OAN, y está conectada a una o varias ODN. 
+3.8 
+terminación de red óptica (ONT, optical network termination): Una ONU utilizada para 
+FTTH y que incluye la función de puerto de usuario. 
+3.9 
+unidad de red óptica (ONU, optical network unit): Una ONU proporciona (directamente 
+o a distancia) la interfaz lado usuario de la OAN, y está conectada a la ODN. 
+3.10 
+alcance físico: Se define como la distancia física máxima que puede alcanzar un sistema de 
+transmisión particular. 
+3.11 
+servicio: Se define como un servicio de red que es necesario para los operadores. El 
+servicio se describe mediante un nombre fácilmente reconocible por cualquier persona, 
+independientemente de que se trate de un nombre de estructura de trama o de un nombre genérico. 
+3.12 
+interfaz de nodo de servicio (SNI, service node interface): véase la Rec. UIT-T G.902. 
+3.13 
+interfaz usuario-red (UNI, user network interface): véase la Rec. UIT-T I.112. 
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+3 
+4 
+Abreviaturas 
+En esta Recomendación se utilizan las siguientes siglas: 
+AF 
+Función de adaptación (adaptation function) 
+BRI 
+Interfaz de velocidad básica (basic rate interface) 
+DSL 
+Línea de abonado digital (digital subscriber line) 
+FTTB 
+Fibra al edificio (fibre to the building) 
+FTTCab/C Fibra al armario/a la cometida (fibre to the cabinet/curb) 
+FTTH 
+Fibra a la vivienda (fibre to the home) 
+LT 
+Terminal de línea (line terminal) 
+MDU 
+Unidad multivivienda (multi-dwelling unit) 
+NT 
+Terminación de red (network termination) 
+OAM 
+Operaciones, administración y mantenimiento 
+OAN 
+Red de acceso óptico (optical access network) 
+ODN 
+Red de distribución óptica (optical distribution network) 
+OLT 
+Terminación de línea óptica (optical line termination) 
+ONT 
+Terminación de red óptica (optical network termination) 
+ONU 
+Unidad de red óptica (optical network unit) 
+OpS 
+Sistemas de operaciones (operations system) 
+PDH 
+Jerarquía digital plesiócrona (plesiochronous digital hierarchy) 
+PON 
+Red óptica pasiva (passive optical network) 
+POTS 
+Servicio telefónico ordinario (plain old telephone service) 
+PRI 
+Interfaz de velocidad primaria (primary rate interface) 
+RDSI 
+Red digital de servicios integrados 
+RTPC 
+Red telefónica pública conmutada 
+SDH 
+Jerarquía digital síncrona (synchronous digital hierarchy) 
+SN 
+Número de serie (serial number) 
+SNI 
+Interfaz de nodo de servicio (service node interface) 
+TC 
+Convergencia de transmisión (transmission convergence) 
+UNI 
+Interfaz usuario-red (user network interface) 
+VOD 
+Vídeo por demanda (video-on-demand) 
+WDM 
+Multiplexación por división de longitud de onda (wavelength division multiplexing) 
+
+ 
+4 
+Rec. UIT-T G.984.1 (03/2003) 
+5 
+Arquitectura de la red de acceso óptico 
+5.1 
+Arquitectura de red 
+La sección óptica de un sistema de red de acceso local puede ser activa o pasiva y su arquitectura 
+puede ser punto a punto o punto a multipunto. La figura 1 muestra las arquitecturas disponibles, que 
+van de la fibra hasta la vivienda (FTTH, fibre to the home), pasando por la fibra hasta el edificio/a 
+la acometida (FTTB/C, fibre to the building/curb), hasta la fibra hasta el armario (FTTCab, fibre to 
+the cabinet). La OAN (red de acceso óptico) es común a todas las arquitecturas presentadas en la 
+figura 1; por consiguiente, la uniformidad de este sistema ofrece la posibilidad de generar grandes 
+volúmenes a escala mundial. 
+G.984.1_F1
+Fibra
+Fibra
+Fibra
+Cobre
+Cobre
+Red de acceso
+Red de
+vivienda
+UNI
+SNI
+ONU 
+Unidad de red óptica (optical network unit)
+ONT 
+Terminación de red óptica (optical network termination)
+OLT 
+Terminación de línea óptica (optical line termination)
+NT 
+Terminación de red (network termination)
+FTTCab
+FTTH
+O
+N
+T
+N
+T
+N
+T
+O
+N
+U
+O
+N
+U
+O
+L
+T
+FTTB/C
+ 
+Figura 1/G.984.1 – Arquitectura de red 
+Las diferencias entre las opciones de red fibra al edificio (FTTB, fibre to the building), fibra a la 
+acometida (FTTC, fibre to the curb), fibra al armario (FTTCab, fibre to the cabinet) y FTTH 
+estriban principalmente en los distintos servicios que ofrecen, y por lo tanto pueden tratarse como 
+equivalentes en esta Recomendación. 
+5.1.1 
+Escenario FTTB 
+Este escenario se divide a su vez en dos escenarios, uno para las unidades multivivienda (MDU, 
+multi-dwelling unit), y el otro para las empresas. Cada escenario tiene las siguientes categorías de 
+servicio: 
+5.1.1.1 
+FTTB para MDU 
+– 
+Servicios de banda ancha asimétricos (por ejemplo, servicios de difusión digital, vídeo por 
+demanda (VOD, video on demand), descarga de ficheros, etc.). 
+– 
+Servicios de banda ancha simétricos (por ejemplo, difusión de contenidos, correo 
+electrónico, intercambio de ficheros, cursos a distancia, telemedicina, juegos en línea, etc.). 
+– 
+Servicio telefónico ordinario (POTS, plain old telephone service) y red digital de servicios 
+integrados (RDSI). La red de acceso ha de ofrecer, de una manera flexible, servicios 
+telefónicos de banda estrecha con la temporización adecuada para el acceso. 
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+5 
+5.1.1.2 
+FTTB para empresas 
+– 
+Servicios de banda ancha simétricos (por ejemplo, programas informáticos de grupo, 
+difusión de contenidos, correo electrónico, intercambio de ficheros, etc.). 
+– 
+Servicio telefónico ordinario (POTS) y red digital de servicios integrados (RDSI). La red de 
+acceso ha de ofrecer, de una manera flexible, servicios telefónicos de banda estrecha con la 
+temporización adecuada para el acceso. 
+– 
+Línea privada. La red de acceso ha de proporcionar, de una manera flexible, servicios de 
+línea privada con distintas velocidades. 
+5.1.2 
+Escenarios FTTC y FTTCab 
+En estos escenarios se incluyen las siguientes categorías de servicio: 
+– 
+Servicios de banda ancha asimétricos (por ejemplo, servicios de difusión digital, vídeo por 
+demanda, descarga de ficheros, juegos en línea, etc.). 
+– 
+Servicios de banda ancha simétricos (por ejemplo, difusión de contenido, correo 
+electrónico, intercambio de ficheros, cursos a distancia, telemedicina, etc.). 
+– 
+Servicio telefónico ordinario (POTS) y red digital de servicios integrados (RDSI). La red de 
+acceso ha de ofrecer, de una manera flexible, servicios telefónicos de banda estrecha con la 
+temporización adecuada para el acceso. 
+– 
+Red de retroceso xDSL. 
+5.1.3 
+Escenario FTTH 
+En este escenario se incluyen las siguientes categorías de servicio: 
+– 
+Servicios de banda asimétricos (por ejemplo, servicios de difusión digital, vídeo por 
+demanda, telecarga de ficheros, etc.). 
+– 
+Servicios de banda ancha simétricos (por ejemplo, difusión de contenidos, correo 
+electrónico, intercambio de ficheros, cursos a distancia, telemedicina, juegos en línea, etc.). 
+– 
+Servicio telefónico ordinario (POTS) y red digital de servicios integrados (RDSI). La red de 
+acceso ha de ofrecer, de una manera flexible, servicios telefónicos de banda estrecha con la 
+temporización adecuada para el acceso. 
+5.2 
+Configuración de referencia 
+La configuración de referencia se ilustra en la figura 2. 
+
+ 
+6 
+Rec. UIT-T G.984.1 (03/2003) 
+G.984.1_F2
+ 
+Q 
+UNI
+ 
+ 
+ 
+R/S 
+ 
+ 
+S/R 
+SNI 
+Punto de referencia V 
+Punto de referencia T
+ 
+Funciones de gestión de sistema de red de acceso
+ 
+ 
+ 
+ 
+ 
+Divisor óptico 
+ 
+ 
+ 
+ 
+OLT
+ 
+WDM 
+NE 
+WDM
+ 
+AF 
+NE 
+ODN 
+PUNTO A 
+PUNTO B 
+(a) Punto de referencia
+Unidad de red óptica
+Terminación de red óptica
+Red de distribución óptica
+Terminación de línea óptica
+Módulo de multiplexación por división de longitud de onda (esta función no es necesaria si no se emplea WDM)
+Elemento de red que utiliza las distintas longitudes de onda de la OLT y de la ONU
+Función de adaptación (algunas veces incluida en la ONU)
+Interfaz de nodo de servicio
+Interfaz usuario-red
+Punto en la fibra óptica justo después del punto de conexión óptico OLT (sentido descendente)/ONU
+(sentido ascendente) (es decir, conector óptico o empalme óptico)
+Punto en la fibra óptica justo antes del punto de conexión óptico ONU (sentido descendente)/OLT
+(sentido ascendente) (es decir, conector óptico o empalme óptico)
+Si la ONU incluye la AF, este punto no es necesario
+Si no se utiliza WDM, no son necesarios estos punto
+ONU
+ONT
+ODN
+OLT
+WDM
+NE
+AF
+SNI
+UNI
+S
+R
+(a) Punto de referencia
+PUNTO A/B
+Función de
+nodo de
+servicio
+ONU/
+ONT
+IFPON
+IFPON
+NOTA – La determinación de si la AF es o no un objeto de operación de la interfaz Q, depende del servicio.
+ 
+Figura 2/G.984.1 – Configuración de referencia para GPON 
+5.2.1 
+Interfaz de nodo de servicio 
+Véase la Rec. UIT-T G.902 [2]. 
+5.2.2 
+Interfaz en los puntos de referencia S/R y R/S 
+Esta interfaz en los puntos de referencia S/R y R/S se define como IFPON. Se trata de una interfaz 
+específica de la PON que soporta todos los elementos de protocolo necesarios para permitir la 
+transmisión entre la OLT y las ONU. 
+6 
+Servicios, interfaz usuario-red e interfaz de nodo de servicio 
+6.1 
+Servicios 
+Es necesario que la GPON, dada su capacidad de banda ancha, soporte todos los servicios existentes 
+y además los nuevos servicios en desarrollo para los abonados particulares y empresas. 
+Algunos operadores tienen más claro que otros el tipo de servicios específicos que deben ofrecer, 
+aunque esto dependerá en gran medida de las condiciones reglamentarias particulares de los 
+mercados de cada operador, y de las posibilidades que ofrece su propio mercado. La forma de 
+ofrecer estos servicios de manera rentable depende de las condiciones jurídicas y además de otros 
+factores, en particular la infraestructura de telecomunicaciones existente, la distribución de las 
+viviendas y la proporción de clientes particulares y empresas. 
+En la cláusula I.1 se presentan algunos ejemplos de los servicios. 
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+7 
+6.2 
+Interfaz usuario-red (UNI) e interfaz de nodo de servicio (SNI) 
+Como se ilustra en la figura 2 la ONU/ONT tiene una UNI, así como la OLT tiene una SNI. La 
+interfaz UNI/SNI depende de los servicios ofrecidos por el operador de servicio. 
+En la cláusula I.2 se describen ejemplos de UNI. Además, en la cláusula I.3 se presentan ejemplos 
+de SNI. 
+7 
+Velocidad binaria 
+Básicamente, la GPON está prevista para velocidades de transmisión mayores o iguales a 
+1,2 Gbit/s. Sin embargo, en el caso de FTTH o FTTC con línea de abonado digital (xDSL, digital 
+subscriber line) asimétrica, es posible que no sea necesaria alta velocidad en sentido ascendente. 
+Por consiguiente la GPON identifica las 7 combinaciones de velocidades de transmisión siguientes: 
+• 
+155 Mbit/s sentido ascendente, 1,2 Gbit/s sentido descendente 
+• 
+622 Mbit/s sentido ascendente, 1,2 Gbit/s sentido descendente 
+• 
+1,2 Gbit/s sentido ascendente, 1,2 Gbit/s sentido descendente 
+• 
+155 Mbit/s sentido ascendente, 2,4 Gbit/s sentido descendente 
+• 
+622 Mbit/s sentido ascendente, 2,4 Gbit/s sentido descendente 
+• 
+1,2 Gbit/s sentido ascendente, 2,4 Gbit/s sentido descendente 
+• 
+2,4 Gbit/s sentido ascendente, 2,4 Gbit/s sentido descendente 
+8 
+Alcance lógico 
+Se define como la distancia máxima entre ONU/ONT y OLT salvo el límite de la capa física. En 
+GPON, el alcance lógico máximo es de 60 km. 
+9 
+Alcance físico 
+Se define como la distancia física máxima entre la ONU/ONT y la OLT. En GPON, se definen dos 
+opciones para el alcance físico: 10 km y 20 km. Se supone que la ONU puede utilizar el diodo láser 
+Fabry-Perot (FP-LD, Fabry-Perot laser diode) en una distancia máxima de 10 km para altas 
+velocidades tales como 1,25 Gbit/s o superiores. 
+10 
+Distancia de fibra diferencial 
+En GPON, la distancia máxima diferencia de fibra es de 20 km. Esto afecta el tamaño de la ventana 
+de determinación de distancia y es conforme con la Rec. UIT-T G.983.1. 
+11 
+Retardo medio máximo de transferencia de la señal 
+La GPON debe dar cabida a servicios que requieren un valor medio máximo de retardo de 
+transferencia de la señal de 1,5 ms. 
+Específicamente, el sistema GPON debe tener un valor medio máximo de retardo de transferencia 
+de la señal menor de 1,5 ms entre T-V (o (a)-V, según la preferencia del operador). Véase la 
+cláusula 12/G.982 [3]. 
+No obstante que en la Rec. UIT-T G.982 una sección de la medición de retardo es T-V para el 
+sistema FTTH o (a)-V para la otra aplicación, en el sistema GPON los puntos de referencia no están 
+restringidos por la configuración del sistema. 
+
+ 
+8 
+Rec. UIT-T G.984.1 (03/2003) 
+12 
+Relación de división 
+En principio, cuanto más grande sea la relación de división de la GPON, más atrayente resultará 
+para los operadores. Sin embargo, una relación de división más grande implica un divisor óptico 
+más grande, lo cual significa un aumento de la potencia total para soportar el alcance físico. 
+Con la tecnología actual, una relación de división hasta de 1:64 para la capa física es realista. No 
+obstante, dada la continua evolución de los módulos ópticos, en la capa TC se debería prever la 
+utilizar de relaciones de división hasta de 1:128. 
+13 
+Superposición de servicios 
+Se puede utilizar una superposición de longitudes de onda para ofrecer servicios mejorados al 
+abonado. Por consiguiente, la GPON debe dejar libre la banda de mejora definida en la Rec. 
+UIT-T G.983.3. 
+14 
+Protección en la sección PON 
+Desde el punto de vista de la gestión de la red de acceso, se considera que la arquitectura de 
+protección de la GPON mejora la fiabilidad de las redes de acceso. Sin embargo, la protección se 
+debe considerar como un mecanismo facultativo ya que su implementación está en función de la 
+realización de los sistemas económicos. 
+En esta cláusula se presentan algunas posibles configuraciones dúplex y los requisitos 
+correspondientes como ejemplos de sistemas GPON protegidos. Además, se trata el mensaje de 
+operaciones, administración y mantenimiento (OAM) destinado a la protección. 
+14.1 
+Posibles tipos de conmutación 
+Hay dos tipos de conmutación de protección análogos a los de los sistemas de la jerarquía digital 
+síncrona (SDH, synchronous digital hierarchy): 
+i) 
+conmutación automática; y 
+ii) 
+conmutación forzada. 
+El primer tipo se activa cuando se detecta una avería tal como pérdida de señal, pérdida de trama, 
+degradación de señal (cuando la proporción de bits erróneos (BER, bit error ratio) es mayor que el 
+umbral predeterminado), etc. El segundo tipo se activa mediante eventos administrativos, tales 
+como el reencaminamiento de fibra, sustitución de fibra, etc. El sistema GPON debería soportar 
+ambos tipos, si fuese necesario, aunque se trate de funciones facultativas. Por lo general, la 
+función OAM se encarga del mecanismo de conmutación, por lo tanto se debería reservar en la 
+trama OAM el campo de información OAM necesario. 
+En la figura 3 se ilustra el modelo del sistema dúplex de la red de acceso. La parte sobresaliente de 
+la protección en el sistema GPON debería ser una parte de la protección entre la interfaz ODN en la 
+OLT y la interfaz ODN en la ONU a través de la ODN, excluida la redundancia de SNI en la OLT. 
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+9 
+G.984.1_F3
+LT PON(1)
+LT PON(0)
+LT PON(1)
+LT PON(0)
+Conmutador
+LT SNI (1)
+LT SNI (0)
+ODN(0)
+ODN(1)
+S/R
+R/S
+ONU
+OLT
+UNI
+LT
+Nodo de
+servicio
+M
+U
+X
+ 
+Figura 3/G.984.1 – Modelo del sistema dúplex 
+14.2 
+Posibles configuraciones y características de la GPON dúplex 
+Puede haber varios tipos de sistemas GPON dúplex, como se ilustra en las figuras 4a a d. Los 
+protocolos de control de cada configuración se deben especificar de manera independiente.  
+Por ejemplo, en la figura 4a no se requiere protocolo de conmutación para la OLT/ONU, ya que la 
+conmutación se aplica solo a las fibras ópticas. Además, en la figura 4b tampoco se requiere 
+protocolo de conmutación puesto que la conmutación se lleva a cabo únicamente en la OLT. 
+14.2.1 Ejemplos de configuración 
+Tipo A: En la primera configuración se duplican únicamente las fibras ópticas, como se muestra en 
+la figura 4a. En este caso, las ONU y la OLT no se duplican. 
+Tipo B: En la segunda configuración (figura 4b) se duplican las OLT y las fibras ópticas entre 
+las OLT y el divisor óptico, y este último tiene dos puertos de entrada/salida en el lado de la OLT. 
+Esta configuración permite reducir el costo de la duplicación de las ONU, aunque, en caso de fallo, 
+sólo se puede recuperar el lado OLT.  
+Tipo C: En la tercera configuración (figura 4c) se duplican no solamente los equipos del lado OLT 
+sino también los del lado ONU. En esta configuración, en caso de fallo la recuperación es posible 
+en cualquier punto al conmutar a los equipos de reserva. Por consiguiente, el costo de la 
+configuración dúplex total garantiza una alta fiabilidad. 
+Tipo D: Si las ONU se instalan en los edificios de los abonados, las conexiones internas no tienen 
+por qué estar duplicadas. Además, si cada ONU pertenece a un usuario distinto, el requisito de 
+fiabilidad dependerá de cada usuario y sólo un número limitado de ONU podrán tener la 
+configuración dúplex. Según lo anterior, la última configuración (figura 4d) permite una 
+duplicación parcial en el lado de la ONU. En el ejemplo de esta figura se muestra que hay ONU 
+duplicadas (ONU#1) y otras únicas (ONU#N). Los principios más importantes son: 
+1) 
+se utiliza una configuración con divisores ópticos N:2 dobles para conectar la LT PON(0) 
+en la ONU#1 al divisor N(0) y la LT PON(1) en la ONU#1 al divisor N(1); 
+2) 
+se conecta la LT PON en la ONU#N a cualquier divisor óptico (ya que es único);  
+3) 
+se utiliza una configuración de divisores ópticos 2:1 dobles para conectar la LT PON(0) en 
+la OLT al divisor (0) y la LT PON (1) en la OLT al divisor (1); 
+4) 
+se conectan los divisores ópticos N:2 dobles a los divisores ópticos 2:1 dobles, de tal 
+manera que un puerto del divisor (1) se conecta al divisor N(0), y un puerto del divisor (0) 
+al divisor N(1); 
+5) 
+en la OLT y en las ONU se utiliza el método de recurso de reserva en frío (operación 
+retardada) para evitar colisión de las señales ópticas de la LT PON(0) y la LT PON(1) en la 
+OLT, o de la LT PON(0) y la LT PON(1) en la ONU #1. 
+
+ 
+10 
+Rec. UIT-T G.984.1 (03/2003) 
+G.984.1_F4a
+ONU #1
+OLT
+ONU #N
+Fibra de repuesto
+LT PON
+LT PON
+LT PON
+Divisor óptico N:1
+ 
+Figura 4a/G.984.1 – Sistema GPON dúplex: sistema de fibras dúplex 
+G.984.1_F4b
+ONU #1
+ONU #N
+OLT
+LT PON
+LT PON
+LT PON(0)
+LT PON(1)
+Divisor óptico N:2
+ 
+Figura 4b/G.984.1 – Sistema GPON dúplex: sistema dúplex únicamente en la OLT 
+G.984.1_F4c
+LT PON(0)
+LT PON(1)
+LT PON(0)
+LT PON(1)
+OLT
+LT PON(0)
+ LT PON(1)
+ONU #1
+ONU #N
+Divisor óptico
+N:2 doble
+ 
+Figura 4c/G.984.1 – Sistema GPON dúplex: sistema dúplex completo 
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+11 
+G.984.1_F4d
+LT PON(0)
+LT PON(1)
+LT PON(0)
+LT PON(1)
+OLT
+LT PON(0)
+LT PON(1)
+ONU #1
+ONU #N
+Divisor óptico
+N:2 doble
+Divisor óptico
+2:1 doble
+divisor(1)
+divisor(0)
+divisorN(1)
+divisorN(0)
+ 
+Figura 4d/G.984.1 – Sistema GPON dúplex: configuración dúplex parcial 
+14.2.2 Características 
+Tipo A: En este caso, durante el tiempo de conmutación es inevitable la pérdida de señal o incluso 
+de tramas. No obstante, después de la conmutación de la fibra se deben mantener todas las 
+conexiones establecidas entre el nodo de servicio y el equipo terminal. 
+Tipo B: Para esta configuración es necesario el método de conmutación en frío (operación 
+retardada) del circuito de repuesto en el lado de la OLT. Por lo general, en este caso, durante el 
+tiempo de conmutación es inevitable la pérdida de señal o incluso de tramas. Sin embargo, después 
+de la conmutación se deben mantener todas las conexiones establecidas entre el nodo de servicio y 
+el equipo terminal. 
+Tipo C: En este caso, existe la posibilidad de la conmutación en caliente (operación inmediata) de 
+los circuitos del receptor de repuesto en los lados de la ONU y de la OLT. Además, con esta 
+configuración también es posible la conmutación sin perturbaciones (sin pérdida de tramas). 
+Tipo D: Las características de este tipo son las mismas que las del tipo B. 
+14.3 
+Requisitos 
+i) 
+La función de conmutación de protección deberá ser facultativa. 
+ii) 
+En el sistema GPON, debe ser posible la conmutación de protección tanto automática como 
+forzada, siempre que sean necesarias, aunque se trate de funciones facultativas. 
+iii) 
+Debe ser posible realizarse todas las configuraciones de los ejemplos de 14.2 aunque se 
+trate de funciones facultativas. 
+iv) 
+Por lo general el mecanismo de conmutación es responsabilidad de la función OAM, por 
+consiguiente, en la trama OAM se debe reservar el campo de información OAM necesario. 
+v) 
+Después de la conmutación se deben conservar todas las conexiones soportadas entre el 
+nodo de servicio y el equipo terminal.  
+Con relación al último requisito, en el caso de una implementación de nodo de servicio POTS 
+(central) es necesario que el periodo de pérdida de tramas sea menor de 120 ms. Si este periodo es 
+más largo, el nodo de servicio desconecta la llamada, y será necesario restablecer la llamada 
+después de la conmutación de protección. Este valor es muy importante, ya que la GPON soporta la 
+emulación de servicios convencionales, tales como POTS y RDSI. 
+
+ 
+12 
+Rec. UIT-T G.984.1 (03/2003) 
+14.4 
+Campos de información necesarios en la trama OAM 
+En comparación con el sistema SDH, la conmutación de protección debe utilizar menos de diez 
+códigos tanto para el sentido ascendente como para el descendente, que estarán en el campo de la 
+trama OAM. Será necesario definir la correspondencia de campos de la trama OAM para la 
+protección. 
+15 
+Seguridad 
+Debido a la naturaleza multidifusión de la PON, la GPON necesita un mecanismo de seguridad que 
+se adapte a los siguientes requisitos: 
+• 
+evitar que otros usuarios puedan decodificar fácilmente los datos en sentido descendente; 
+• 
+evitar que otros usuarios se hagan pasar por otra ONU/ONT u otro usuario; 
+• 
+facilitar una implementación rentable. 
+Apéndice I 
+ 
+Ejemplos de servicios de UNI y de SNI 
+En este apéndice se ilustran ejemplos de servicios de la UNI y de la SNI que son útiles para los 
+operadores 
+I.1 
+Ejemplos de servicios 
+En el cuadro I.1 se ilustran ejemplos de servicios que debe soportar la GPON, y se incluyen algunos 
+comentarios pertinentes. 
+Cuadro I.1/G.984.1 – Ejemplos de servicios y comentarios pertinentes 
+Categoría del 
+servicio (Nota 1) 
+Servicio 
+Comentarios 
+Servicio de datos 
+Ethernet  
+(Nota 2) 
+Normalizado en IEEE 802.3. 
+Cumple con IEEE 802.1D. 
+POTS 
+El tiempo de retardo medio de transferencia de la señal entre T-V 
+(o (a)-V) debe ser menor de 1,5 ms. Si la red utiliza compensación 
+de eco, ese tiempo de retardo medio entre T-V (o (a)-V) podría ser 
+más largo en el sistema basado en PON siempre que se cumpla los 
+requisitos de retardo de transferencia de extremo a extremo. 
+Se debe sincronizar con el reloj de 8 kHz de la red. 
+La señal debe ser continua en los puntos de referencia T y V. 
+RDSI (BRI) 
+La velocidad de la portadora es de 144 kbit/s. 
+El tiempo de retardo medio de transferencia de la señal entre T-V (o 
+(a)-V) debería ser menor de 1,5 ms. 
+Se debe sincronizar con el reloj de 8 kHz de la red. 
+RTPC 
+RDSI (PRI) 
+La velocidad de la portadora es de 1,544 Mbit/s y de 2,048 Mbit/s. 
+El tiempo de retardo medio de transferencia de la señal entre T-V 
+(o (a)-V) debería ser menor de 1,5 ms. 
+Se debe sincronizar con el reloj de 8 kHz de la red. 
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+13 
+Cuadro I.1/G.984.1 – Ejemplos de servicios y comentarios pertinentes 
+Categoría del 
+servicio (Nota 1) 
+Servicio 
+Comentarios 
+T1 
+La velocidad de la portadora es de 1,544 Mbit/s. 
+El tiempo de retardo medio de la transferencia de la señal entre T-V 
+(o (a)-V) debería ser menor de 1,5 ms. 
+Se debe sincronizar con el reloj de 8 kHz de la red. 
+E1 
+La velocidad de la portadora es de 2,048 Mbit/s. 
+El tiempo de retardo medio de transferencia de la señal entre T-V 
+(o (a)-V) debería ser menor de 1,5 ms. 
+Se debe sincronizar con el reloj de 8 kHz de la red. 
+DS3 
+La velocidad de la portadora es de 44,736 Mbit/s. 
+Se debe sincronizar con el reloj de 8 kHz de la red. 
+E3 
+La velocidad de la portadora es de 34,368 Mbit/s. 
+Se debe sincronizar con el reloj de 8 kHz de la red. 
+Línea privada 
+ATM  
+Normalizado en la Rec. UIT-T I.361. 
+Cumple con la Rec. UIT-T I.356. 
+Vídeo 
+Vídeo digital 
+Se ofrece con la misma calidad de la clase 1 especificada en la Rec. 
+UIT-T I.356 o rt-VBR/CBR especificada en el Foro ATM.  
+NOTA 1 – La categoría del servicio es simplemente un índice que no tiene significado propio, pero que es 
+útil para visualizar los servicios. 
+NOTA 2 – El servicio Ethernet se utiliza principalmente para transmitir datos como los del Protocolo 
+Internet (IP, Internet protocol), en particular el protocolo de transmisión de voz por Internet (VoIP, voice 
+over IP), trenes de vídeo codificados con el sistema 2 del Grupo de expertos en imágenes en movimiento 
+(MPEG2, motion picture experts group 2) o MPEG4, etc. 
+I.2 
+Ejemplos de la interfaz UNI 
+En este apéndice se describe la interfaz UNI que incluye las siguientes condiciones: 
+• 
+se describe mediante una norma ampliamente conocida; 
+• 
+incluye un aspecto de capa física. 
+En algunos casos la UNI está integrada en la AF y por lo tanto no es obligatorio que la ONU/ONT 
+soporte esas interfaces. 
+En el cuadro I.2 se ilustran ejemplos de UNI con sus interfaces físicas y los servicios ofrecidos. 
+Cuadro I.2/G.984.1 – Ejemplos de la interfaz UNI y sus servicios 
+UNI (Nota 1) 
+Interfaz física (Nota 2) 
+Servicio (Nota 3) 
+10BASE-T (IEEE802.3) 
+– 
+Ethernet 
+100BASE-TX (IEEE802.3) 
+– 
+Ethernet 
+1000BASE- T (IEEE802.3) 
+– 
+Ethernet 
+Rec. UIT-T I.430 
+– 
+RDSI (BRI) 
+Rec. UIT-T I.431 
+– 
+RDSI(PRI), T1, ATM 
+Rec. UIT-T G.703 
+PDH 
+DS3, ATM, E1, E3 
+
+ 
+14 
+Rec. UIT-T G.984.1 (03/2003) 
+Cuadro I.2/G.984.1 – Ejemplos de la interfaz UNI y sus servicios 
+UNI (Nota 1) 
+Interfaz física (Nota 2) 
+Servicio (Nota 3) 
+Rec. UIT-T I.432.5 
+Interfaz metálica de 25 Mbits/s 
+ATM 
+UIT-T G.957 
+STM-1,4 
+ATM 
+ANSI T1.102, ANSI T1.107 
+PDH 
+T1, DS3 
+NOTA 1 – La GPON soporta muchos otros servicios que no tienen UNI especificadas. 
+NOTA 2 – Cada punto de la columna "interfaz física" se ilustra mediante el asiento correspondiente en 
+la columna "UNI". 
+NOTA 3 – La columna "servicio" muestra los servicios soportados por la interfaz física. 
+I.3 
+Ejemplos de la interfaz SNI 
+En este apéndice se describe la interfaz SNI que incluye las siguientes condiciones: 
+• 
+se describe mediante una norma ampliamente difundida; 
+• 
+incluye un aspecto de capa física. 
+En el cuadro I.3 se ilustran ejemplos de SNI con sus interfaces físicas y los servicios ofrecidos. 
+Cuadro I.3/G.984.1 – Ejemplos de la interfaz SNI y sus servicios 
+SNI (Nota 1) 
+Interfaz física (Nota 2) 
+Servicio (Nota 3) 
+1000BASE- X (IEEE802.3) 
+– 
+Ethernet 
+Rec. UIT-T G.965 
+V5.2 
+POTS, RDSI(BRI), RDSI(PRI) 
+Rec. UIT-T G.703 
+PDH 
+DS3, ATM, E1, E3 
+Rec. UIT-T G.957 
+STM-1,4,16 
+E1, ATM 
+ANSI T1.107 
+PDH 
+T1, DS3 
+ANSI T1.105.06, 
+ANSI T1.117 
+OC3, OC12 
+T1, DS3, ATM 
+NOTA 1 – La GPON soporta muchos otros servicios que no tienen SNI especificadas. 
+NOTA 2 – Cada uno de los puntos de la columna "interfaz física" se ilustra mediante el asiento 
+correspondiente en la columna "SNI". 
+NOTA 3 – La columna "servicio" indica los servicios soportados por la interfaz física. 
+Apéndice II 
+ 
+Bibliografía 
+Las siguientes Recomendaciones UIT-T y demás referencias de este apéndice son referencias 
+bibliográficas (referencias no-normativas). 
+[App.II-1] Recomendación UIT-T G.703 (2001), Características físicas y eléctricas de las 
+interfaces digitales jerárquicas. 
+[App.II-2] Recomendación UIT-T G.957 (1999), Interfaces ópticas para equipos y sistemas 
+relacionados con la jerarquía digital síncrona. 
+
+ 
+ 
+ 
+Rec. UIT-T G.984.1 (03/2003) 
+15 
+[App.II-3] Recomendación UIT-T G.965 (2001), Interfaces V en la central local digital – 
+Interfaz V5.2 (basada en 2048 kbit/s) para el soporte de red de acceso. 
+[App.II-4] Recomendación UIT-T I.356 (2000), Calidad de funcionamiento en la transferencia de 
+células en la capa de modo de transferencia asíncrono de la RDSI-BA. 
+[App.II-5] Recomendación UIT-T I.361 (1999), Especificación de la capa modo de transferencia 
+asíncrono de la RDSI-BA. 
+[App.II-6] Recomendación UIT-T I.430 (1995), Especificación de la capa 1 de la interfaz 
+usuario-red básica. 
+[App.II-7] Recomendación UIT-T I.431 (1993), Especificación de la capa 1 de la interfaz 
+usuario-red a velocidad primaria. 
+[App.II-8] Recomendación UIT-T I.432.5 (1997), Interfaz usuario-red de la red de la RDSI-BA – 
+Especificación de la capa física: Operación a 25 600 kbit/s. 
+[App.II- 9] IEEE Standard 802.1D-1998, Part 3: Media Access Control (MAC) Bridges. 
+[App.II-10] IEEE Standard 802.3-2000, Part 3: Carrier sense multiple access with collision 
+detection (CSMA/CD) access method and physical layer specifications. 
+[App.II-11] ANSI T1.102 (1999), Digital Hierarchy – Electrical Interfaces. 
+[App.II-12] ANSI T1.107 (1995), Digital Hierarchy – Formats Specifications. 
+[App.II-13] ANSI T1.105.06 (1996), Synchronous Optical Network (SONET) – Physical Layer 
+Specification. 
+[App.II-14] ANSI T1.117 (1997), Digital Hierarchy Optical Interface Specifications (Short Reach). 
+ 
+
+
+ 
+ 
+
+ 
+Impreso en Suiza 
+Ginebra, 2003 
+SERIES  DE  RECOMENDACIONES  DEL  UIT-T 
+Serie A 
+Organización del trabajo del UIT-T 
+Serie B 
+Medios de expresión: definiciones, símbolos, clasificación 
+Serie C 
+Estadísticas generales de telecomunicaciones 
+Serie D 
+Principios generales de tarificación 
+Serie E 
+Explotación general de la red, servicio telefónico, explotación del servicio y factores humanos 
+Serie F 
+Servicios de telecomunicación no telefónicos 
+Serie G 
+Sistemas y medios de transmisión, sistemas y redes digitales 
+Serie H 
+Sistemas audiovisuales y multimedios 
+Serie I 
+Red digital de servicios integrados 
+Serie J 
+Redes de cable y transmisión de programas radiofónicos y televisivos, y de otras señales 
+multimedios 
+Serie K 
+Protección contra las interferencias 
+Serie L 
+Construcción, instalación y protección de los cables y otros elementos de planta exterior 
+Serie M 
+RGT y mantenimiento de redes: sistemas de transmisión, circuitos telefónicos, telegrafía, 
+facsímil y circuitos arrendados internacionales 
+Serie N 
+Mantenimiento: circuitos internacionales para transmisiones radiofónicas y de televisión 
+Serie O 
+Especificaciones de los aparatos de medida 
+Serie P 
+Calidad de transmisión telefónica, instalaciones telefónicas y redes locales 
+Serie Q 
+Conmutación y señalización 
+Serie R 
+Transmisión telegráfica 
+Serie S 
+Equipos terminales para servicios de telegrafía 
+Serie T 
+Terminales para servicios de telemática 
+Serie U 
+Conmutación telegráfica 
+Serie V 
+Comunicación de datos por la red telefónica 
+Serie X 
+Redes de datos y comunicación entre sistemas abiertos 
+Serie Y 
+Infraestructura mundial de la información y aspectos del protocolo Internet 
+Serie Z 
+Lenguajes y aspectos generales de soporte lógico para sistemas de telecomunicación 
+ 
+ 
+ 

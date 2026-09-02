@@ -270,6 +270,27 @@ en Documentación y en Producción (Asistencia).
 - [x] **Buscados y eliminados los homóglifos.** Una **«а» cirílica** se había colado en la palabra
       «visera» del tema 9. No la marca ninguna lente, el texto se ve idéntico y rompe cualquier
       búsqueda. Comprobación que conviene repetir en cada tema nuevo.
+- [x] **Tema 11 del específico de Producción (Asistencia)** —medios de transmisión de señal, envío
+      de imágenes y comunicaciones— **cerrado**: 4.529 palabras, con esquema de repaso. Es la
+      **tercera materia más preguntada** del bloque —**10 preguntas**— y **la mejor servida de
+      fuentes hasta ahora**: **siete de las diez** tienen norma, recomendación o ficha detrás
+      —**Ley 11/2022**, **Plan Técnico Nacional de la TDT**, **Ley 13/2022**, **UIT-R S.673-2**,
+      **UIT-R SNG.770-2**, **UIT-T G.984.1**, **ETSI EN 300 744** y **EN 302 755**, índice de la
+      **SMPTE ST 2110** y ficha de **LiveU**—. Las tres restantes —streaming, señal Pool y los
+      datos de acceso al satélite— se apoyan sólo en la plantilla, y van marcadas
+      (`informes/cobertura-produccion-tema-11.md`).
+- [x] **Tercera puerta abierta que estaba dada por cerrada: el ETSI.** Con la regla del tema 9
+      —dos rutas y un agente de navegador— la norma europea del DVB **se descargó a la primera**.
+      Y cambió el tema: la sigla **DVB** pasó de ser un dato de memoria a estar **en el título de
+      la norma** («Digital Video Broadcasting»), y la asociación con el **MPEG-2** que el enunciado
+      hace pasó de tratarse como imprecisión histórica a ser **literal de la norma** —«establecer
+      el marco para la introducción de la televisión digital basada en MPEG-2»—. **Tres de tres**:
+      durante buena parte del proyecto, «no se ha podido consultar» ha significado en realidad
+      «no se ha sabido pedir».
+- [x] **Un aviso sobre el alcance de la lente de documento**, anotado al refutar el tema 11: sólo
+      mira **las negritas**, así que **una cifra en texto corriente pasa por delante sin sonar**.
+      Los **36.000 km** de la órbita geoestacionaria son ese caso: se detectaron a mano, buscando
+      en la recomendación las tres altitudes de la escala y viendo que sólo hay dos.
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -383,6 +404,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 17 · Protección de datos | sí | sí | sí | sí | sí | sí, 6 falsos positivos declarados | 5 de 5 enteras |
 | Producción 10 · Imagen y sonido | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 17 de 17 enteras |
 | Producción 9 · Escenografía e iluminación | sí | sí | sí | sí | sí, dos veces | sí, limpia (lente de documento) | 20 de 20 enteras |
+| Producción 11 · Transmisión de señal | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 10 de 10 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

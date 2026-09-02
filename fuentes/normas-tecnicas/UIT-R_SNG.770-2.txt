@@ -1,0 +1,546 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendación  UIT-R  SNG.770-2 
+(01/2012) 
+ 
+Procedimientos operacionales uniformes 
+para el periodismo electrónico 
+digital por satélite (DSNG) 
+ 
+ 
+ 
+Serie SNG 
+Periodismo electrónico por satélite 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+Rec.  UIT-R  SNG.770-2 
+ 
+Prólogo 
+El Sector de Radiocomunicaciones tiene como cometido garantizar la utilización racional, equitativa, eficaz y 
+económica del espectro de frecuencias radioeléctricas por todos los servicios de radiocomunicaciones, incluidos los 
+servicios por satélite, y realizar, sin limitación de gamas de frecuencias, estudios que sirvan de base para la adopción de 
+las Recomendaciones UIT-R. 
+Las Conferencias Mundiales y Regionales de Radiocomunicaciones y las Asambleas de Radiocomunicaciones, con la 
+colaboración de las Comisiones de Estudio, cumplen las funciones reglamentarias y políticas del Sector de 
+Radiocomunicaciones. 
+Política sobre Derechos de Propiedad Intelectual (IPR) 
+La política del UIT-R sobre Derechos de Propiedad Intelectual se describe en la Política Común de Patentes 
+UIT-T/UIT-R/ISO/CEI a la que se hace referencia en el Anexo 1 a la Resolución UIT-R 1. Los formularios que deben 
+utilizarse en la declaración sobre patentes y utilización de patentes por los titulares de las mismas figuran en la dirección 
+web http://www.itu.int/ITU-R/go/patents/es, donde también aparecen las Directrices para la implementación de la 
+Política Común de Patentes UIT-T/UIT-R/ISO/CEI y la base de datos sobre información de patentes del UIT-R sobre 
+este asunto. 
+ 
+ 
+Series de las Recomendaciones UIT-R  
+(También disponible en línea en http://www.itu.int/publ/R-REC/es) 
+Series 
+Título 
+BO 
+Distribución por satélite 
+BR 
+Registro para producción, archivo y reproducción; películas en televisión 
+BS 
+Servicio de radiodifusión sonora 
+BT 
+Servicio de radiodifusión (televisión) 
+F 
+Servicio fijo 
+M 
+Servicios móviles, de radiodeterminación, de aficionados y otros servicios por satélite conexos 
+P 
+Propagación de las ondas radioeléctricas 
+RA 
+Radioastronomía 
+RS 
+Sistemas de detección a distancia 
+S 
+Servicio fijo por satélite 
+SA 
+Aplicaciones espaciales y meteorología 
+SF 
+Compartición de frecuencias y coordinación entre los sistemas del servicio fijo por satélite y del 
+servicio fijo 
+Gestión del espectro 
+SNG 
+Periodismo electrónico por satélite 
+TF 
+Emisiones de frecuencias patrón y señales horarias 
+V 
+Vocabulario y cuestiones afines 
+ 
+Nota: Esta Recomendación UIT-R fue aprobada en inglés conforme al procedimiento detallado en la  
+Resolución UIT-R 1. 
+ 
+Publicación electrónica 
+Ginebra, 2011 
+ 
+ UIT 2011 
+Reservados todos los derechos. Ninguna parte de esta publicación puede reproducirse por ningún procedimiento sin previa 
+autorización escrita por parte de la UIT. 
+ 
+
+ 
+Rec.  UIT-R  SNG.770-2 
+1 
+ 
+RECOMENDACIÓN  UIT-R  SNG.770-2 
+Procedimientos operacionales uniformes  
+para el periodismo electrónico digital 
+por satélite (DSNG) 
+(1992-1994-2012) 
+Alcance 
+En esta Recomendación se especifican las características y los procedimientos operativos para las 
+transmisiones de periodismo electrónico por satélite que utilizan técnicas de codificación y modulación 
+digital. En el Anexo 1 se facilitan las características y los procedimientos operativos con miras a la 
+prevención de la interferencia entre transmisiones de satélite. 
+La Asamblea de Radiocomunicaciones de la UIT, 
+considerando 
+a) 
+que el periodismo electrónico digital por satélite (DSNG – «Digital Satellite News 
+Gathering») mediante estaciones terrenas transmisoras transportables es esencial en las operaciones 
+de radiodifusión y constituye un valioso método de transmisión para la adquisición rápida y la 
+difusión de noticias; 
+b) 
+que para facilitar el tratamiento internacional de noticias y optimizar el diseño de equipos 
+ha sido deseable adoptar procedimientos operativos uniformes para el SNG, teniendo en cuenta la 
+posibilidad de causar interferencia a otros satélites y sistemas; 
+c) 
+que el SNG es temporal y ocasional, y que a menudo su activación no puede determinarse 
+con gran antelación; 
+d) 
+que la Constitución de la UIT establece en su Preámbulo: «... reconociendo en toda su 
+plenitud el derecho soberano de cada Estado a reglamentar sus telecomunicaciones...»; 
+e) 
+que para la correcta explotación del SNG es esencial que sea expeditiva la autorización de 
+activación de las estaciones terrenas del SNG para las transmisiones a un satélite de 
+telecomunicación, de acuerdo con los procedimientos administrativos del propio país y los criterios 
+operativos y técnicos establecidos para estos sistemas; 
+f) 
+que se facilitaría el SNG si se dispusiese de una guía de usuario del SNG preparada por los 
+explotadores de los satélites (suministradores de segmento espacial) y de los países de acogida; 
+g) 
+que, para apoyar a los operadores del SNG, es posible que se requieran servicios de 
+comunicaciones adicionales, como microondas punto a punto, sistemas de comunicaciones 
+telefónicas, micrófonos inalámbricos símplex/dúplex bidireccionales y terminales móviles de 
+satélite para voz y datos; 
+h) 
+que algunas organizaciones regionales o nacionales ya han elaborado normas que deben 
+satisfacer las estaciones terrenas de transmisión de SNG; 
+j) 
+que los sistemas, aplicaciones e intercambios internacionales de SNG emplean ahora 
+técnicas de codificación y modulación digital, 
+observando 
+a) 
+que el UIT-R ha establecido la Recomendación UIT-R BO.1516 Sistemas de televisión 
+digital multiprograma para utilización por satélites que funcionan en la gama de frecuencias 
+11/12 GHz; 
+
+2 
+Rec.  UIT-R  SNG.770-2 
+ 
+b) 
+que el UIT-R ha establecido la Recomendación UIT-R BO.1784 Sistema de radiodifusión 
+digital por satélite (televisión, sonido, datos) con configuración flexible, 
+reconociendo 
+que el periodismo electrónico digital por satélite (DSNG) es un servicio de extremo a extremo que, 
+generalmente, se presta a través del servicio fijo por satélite, y que se define el servicio de 
+radiodifusión por satélite en el Reglamento de Radiocomunicaciones como un servicio de 
+radiocomunicación en el que las señales transmitidas o retransmitidas por estaciones espaciales 
+están destinadas a la recepción directa por el público en general,  
+recomienda 
+1 
+que la explotación del SNG digital (DSNG) cumpla los procedimientos operativos 
+uniformes descritos en el Anexo 1; 
+2 
+que, para facilitar la autorización temporal de operaciones del DSNG, se aliente a las 
+administraciones y organizaciones pertinentes a que consideren la armonización de las normas que 
+pueden existir en este campo y la armonización de procedimientos expeditivos y simplificados (por 
+ejemplo, aprobación de estaciones terrenas, reserva de satélites, coordinación de frecuencias y 
+autorización oportuna de servicios radioeléctricos conexos en apoyo de facilidades adicionales de 
+comunicaciones para el DSNG, etc.); 
+3 
+que cada administración establezca un punto de contacto permanente para el intercambio de 
+información y la orientación en materia de coordinación de frecuencias y procedimientos 
+administrativos del país de acogida (por ejemplo, a través de una página web de Internet); 
+4 
+que, con objeto de simplificar las operaciones y minimizar los retrasos, los proveedores de 
+segmento espacial de satélite elaboren guías de usuario para los procedimientos operativos del 
+DSNG de sus distintos sistemas y adopten medidas para armonizar esos procedimientos entre tales 
+sistemas; 
+5 
+que se aliente a los países de acogida a preparar guías de usuario del DSNG u otros 
+documentos que puedan adoptar la forma de reglamentos nacionales para facilitar las operaciones; 
+6 
+que las organizaciones de satélites deberían designar, previa petición, una portadora de fácil 
+identificación que facilite la explotación de las estaciones terrenas del DSNG; 
+7 
+que en las transmisiones del DSNG se incluya una señal de identificación idónea, que se 
+notificará al país de acogida para contribuir a la reducción de interferencias; 
+8 
+que antes de efectuar transmisiones del DSNG y durante las mismas, se disponga de 
+circuitos de radiocomunicaciones bidireccionales; 
+9 
+que para los transportes de satélite cuya cobertura regional abarque varios países, sólo se 
+requiera la autorización del país a que corresponda el enlace ascendente apropiado. 
+ 
+
+ 
+Rec.  UIT-R  SNG.770-2 
+3 
+ 
+Anexo  1 
+ 
+Procedimientos operativos uniformes para el DSNG 
+1 
+Características de funcionamiento 
+A continuación se describe la naturaleza de las operaciones del DSNG con respecto a la utilización 
+de frecuencias y a las necesidades. 
+1.1 
+Definición del DSNG 
+Transmisión temporal y ocasional de televisión o sonido radiofónico con escaso tiempo de aviso 
+con fines de difusión, utilizando estaciones terrenas de enlace ascendente portátiles o fácilmente 
+transportables que operan en el marco del servicio fijo por satélite. 
+La definición del equipo especifica que éste deberá estar en condiciones de transmitir por el enlace 
+ascendente el material del programa video de noticias imagen con sus señales de sonido 
+radiofónicas asociadas. El equipo puede, eventualmente, prever las transmisiones de datos, y debe 
+poderse ajustar y manejar por un equipo de no más de dos (2) personas en un tiempo 
+razonablemente corto (por ejemplo, 1 h). 
+Las estaciones terrenas transportables también pueden emplearse para las necesidades del DSNG 
+cuando la logística aconseje su utilización y cumplan las características funcionales básicas de los 
+sistemas DSNG. El DSNG (radiodifusión sonora) puede funcionar también en el servicio móvil por 
+satélite. 
+1.2 
+Descripción funcional 
+Las características principales de los sistemas DSNG vienen determinadas básicamente por las 
+características del enlace ascendente. El empleo del terminal DSNG para el enlace ascendente 
+supone que el extremo receptor está dimensionado adecuadamente. Para garantizar la 
+compatibilidad del sistema y un funcionamiento eficaz, es necesario normalizar las características 
+de los equipos y los procedimientos de explotación. 
+Las funciones del sistema DSNG son: 
+– 
+transmitir, con una degradación mínima, una señal vídeo y su señal de sonido asociada o 
+una señal de programa de sonido radiofónico; 
+– 
+suministrar una capacidad de recepción limitada para orientar la antena y efectuar la 
+comprobación técnica de las señales transmitidas, donde sea posible. 
+2 
+Características de satélite para el funcionamiento y la interconexión 
+2.1 
+Enlaces ascendentes 
+2.1.1 
+Separación orbital 
+Se han previsto separaciones orbitales hasta de sólo 2. Para la utilización del DSNG en 
+condiciones reales, han de tenerse en cuenta las configuraciones particulares de los satélites en el 
+arco orbital que corresponde al circuito requerido. 
+Algunas administraciones exigen que el diseño de la antena de la estación terrena transmisora al 
+satélite asegure un diagrama de radiación en el que los máximos de los lóbulos laterales no excedan 
+
+4 
+Rec.  UIT-R  SNG.770-2 
+ 
+de G  29 – 25 log  (dBi), al menos en la dirección de la órbita geoestacionaria. En todo caso, el 
+rendimiento de la antena se ajustará a las especificaciones del operador del satélite.  
+2.1.2 
+Bandas de frecuencia adecuadas para el DSNG 
+Los sistemas DSNG pueden utilizar todas las bandas de frecuencia atribuidas a los enlaces 
+ascendentes para el SFS. Sin embargo, puesto que un terminal DSNG debe llevar una antena 
+pequeña, de forma que pueda ser fácilmente transportable, la banda de frecuencias de explotación es 
+extremadamente importante. En algunos casos puede ser necesaria la coordinación apropiada con 
+otros servicios. Se prefiere la utilización de la banda de 14 GHz, para la que ya se dispone de 
+tecnología suficiente. 
+2.1.3 
+Zonas de servicio del enlace ascendente 
+Las zonas de servicio del enlace ascendente se agrupan en dos categorías generales: 
+– 
+nacional, 
+– 
+internacional. 
+Los países muy extensos utilizan a veces haces de gran anchura que sería más adecuado denominar 
+«continentales». 
+2.1.4 
+G/T del satélite 
+El factor predominante en la determinación de la G/T es el tamaño de la zona de servicio del enlace 
+ascendente. Los haces de cobertura nacional tienen generalmente una mayor ganancia de antena la 
+cual resulta más adecuada para la p.i.r.e. reducida que transmiten los terminales DSNG. 
+La configuración más normal es la correspondiente a grandes zonas de servicio del enlace 
+ascendente –nacionales e internacionales– que se traducen en valores de G/T nulos o en algunos 
+casos negativos, en el borde del haz. 
+En algunos casos, conviene tener en cuenta valores de G/T del satélite de 0 dB(K–1). Para lograr la 
+mayor flexibilidad posible, los terminales DSNG deben poder funcionar con valores de G/T del 
+satélite de hasta 6 dB(K–1), aunque tengan que disminuir su calidad. En el caso de la explotación en 
+las bandas 6/4 GHz con un haz mundial pueden encontrarse valores de G/T tan bajos como 
+–12 dB(K–1). 
+2.1.5 
+Ganancia del satélite 
+Los satélites cuentan a menudo con ajustes variables de la ganancia, para lograr una p.i.r.e. más 
+elevada. Se ha demostrado que con valores de ganancia más bajos puede lograrse una mejor calidad 
+general para las aplicaciones del DSNG. 
+Puesto que no siempre es posible modificar los ajustes de la ganancia del satélite para utilización a 
+corto plazo, los terminales DSNG deben poder funcionar con valores nominales de ganancia del 
+satélite y el receptor del enlace descendente debe dimensionarse de forma adecuada. 
+2.1.6 
+Anchura de banda 
+Según la anchura de banda disponible del transpondedor y sus características de intermodulación, 
+puede ser práctico cursar las señales del DSNG en forma compartida con otras señales de televisión 
+y con canales de comunicaciones. 
+2.1.7 
+Planificación de canales para los satélites 
+Los satélites utilizan a menudo, la superposición de canales con separación de polarización 
+ortogonal. Es necesario tener en cuenta lo referente a la interferencia en cada satélite específico y en 
+particular los requisitos en cuanto a la discriminación de polarización. 
+
+ 
+Rec.  UIT-R  SNG.770-2 
+5 
+ 
+2.1.8 
+Antenas de satélite orientables 
+Se utilizan haces de satélite orientables que permiten dirigir una antena de haz estrecho al 
+emplazamiento de la estación terrena del DSNG, para obtener una mejor calidad. 
+2.2 
+Enlace descendente 
+2.2.1 
+Zona de servicio del enlace descendente 
+Es necesario que la zona de servicio del enlace descendente incluya el lugar de recepción previsto. 
+Para facilitar el establecimiento, las comunicaciones y la comprobación técnica, también es muy 
+conveniente que en el emplazamiento del terminal DSNG se esté en condiciones de recibir las 
+señales del satélite. 
+2.3 
+Conmutación a bordo 
+Los satélites cuentan generalmente con ciertos niveles de flexibilidad en cuanto a las posibilidades 
+de conexión (conmutación a bordo) que van desde la conmutación de componentes de reserva a la 
+interconexión variable de amplificadores de entrada, amplificadores de salida y haces de antena. La 
+utilización de la conmutación a bordo depende de la entidad de explotación del satélite y puede 
+estar en función del nivel de fiabilidad y de las relaciones entre los equipos de satélite afectados por 
+los cambios. 
+La reconfiguración de las conexiones a bordo, cuando sea factible, puede ser útil para establecer el 
+circuito deseado. Por ejemplo, en algunos satélites puede ser posible conectar la capacidad del 
+enlace ascendente en la banda de 14 GHz con los circuitos del enlace descendente en la banda 
+de 4 GHz. 
+La mejora de la flexibilidad en los satélites futuros puede beneficiar a las operaciones del DSNG. 
+3 
+Procedimientos de explotación uniformes necesarios para la autorización temporal del 
+periodismo electrónico por satélite 
+3.1 
+Introducción 
+El DSNG difiere, en varios sentidos, de la mayoría de las demás formas de transmisión por satélite. 
+Por ejemplo, la necesidad de recurrir al DSNG suele identificarse sólo días, o incluso horas, antes 
+de la transmisión. Ésta suele durar unos pocos días o, a lo sumo, semanas. No obstante, la entidad 
+de explotación del DSNG debe acatar la reglamentación del país donde actúa, y ello a través de una 
+serie de procedimientos cuyo propósito es garantizar la adecuada gestión y protección del segmento 
+espacial y del espectro de radiofrecuencias. 
+El marco reglamentario en el que se inscribe la explotación del DSNG tiene una doble repercusión 
+sobre su eficacia operativa. Para poder cumplir su función la entidad de explotación del DSNG debe 
+poder concertar acuerdos temporales u obtener autorizaciones de manera oportuna y económica. 
+Esa entidad necesita desde autorizaciones de frecuencias hasta la coordinación con la entidad 
+explotadora del segmento espacial, determinar las tarifas y los costos administrativos y contar con 
+las líneas de comunicación auxiliares necesarias. En la presente sección se describe la naturaleza de 
+la información operacional necesaria para el empleo de los medios del DSNG. 
+Puesto que las necesidades del DSNG son ocasionales o temporales y que la rápida cobertura de 
+acontecimientos no previstos constituye un servicio importante a nivel mundial, es fundamental una 
+autorización sin demoras de la activación de estaciones terrenas portátiles. 
+
+6 
+Rec.  UIT-R  SNG.770-2 
+ 
+La aplicación satisfactoria de la tecnología DSNG requiere un acuerdo uniforme sobre métodos 
+técnicos normalizados y procedimientos de explotación reconocidos. Deben adoptarse 
+uniformemente las frecuencias y el número de los canales sonoros de los programas, así como el 
+número de canales auxiliares, de datos y de coordinación. 
+3.2 
+Aprobación de la estación terrena 
+Se requiere la aprobación de la estación terrena para que el órgano responsable pueda garantizar la 
+compatibilidad del terminal DSNG con el segmento espacial. Con tal fin, se pide a las 
+administraciones que estudien procedimientos que permitan la puesta en servicio más rápida posible 
+de los terminales DSNG. Se las insta, también, a investigar la posibilidad de que se acepten, sobre 
+una base uniforme, los terminales DSNG cuya calidad técnica haya obtenido la aprobación de las 
+entidades de explotación del segmento espacial y, también, a completar lo más rápidamente posible 
+los trámites administrativos pertinentes, en estrecha cooperación con las entidades de explotación 
+del DSNG. Debe prepararse y entregarse a la administración un Informe técnico en el que se 
+indiquen las características de calidad comprobadas. Deben documentarse, por lo menos, las 
+siguientes características técnicas: 
+– 
+ganancia de transmisión, como una función de la frecuencia; 
+– 
+ganancia de transmisión fuera del eje; 
+– 
+p.i.r.e. del haz principal de transmisión; 
+– 
+anchura de banda y polarización de transmisión; 
+– 
+densidad espectral del haz principal de transmisión en los 4 kHz más desfavorables, 
+o 1 MHz, según corresponda (véase la Recomendación UIT-R SF.675); 
+– 
+densidad espectral fuera del haz de transmisión en los 4 kHz más desfavorables, o 1 MHz, 
+según corresponda (véase la Recomendación UIT-R SF.675); 
+– 
+dispersión de energía máxima (cuando proceda); 
+– 
+G/T de recepción, en función de la frecuencia; 
+– 
+aislamiento de polarización cruzada; 
+– 
+precisión de puntería; 
+– 
+agilidad de frecuencia de transmisión y de recepción dentro de las bandas de explotación; 
+– 
+emisiones no esenciales (en banda y fuera de banda); 
+– 
+número de modelo del fabricante, características de modulación y estabilidad de frecuencia; 
+– 
+cualquier otra característica técnica que forme parte de una norma SNG utilizada en el país 
+de que se trate. 
+3.3 
+Asignación y coordinación de frecuencias 
+Los procedimientos de coordinación de frecuencias derivan de reglamentaciones internacionales y 
+nacionales. Para poder evaluar la admisibilidad de un terminal DSNG en este sentido, el órgano 
+responsable puede exigir la información mencionada en el § 3.2, además de detalles sobre la 
+ubicación geográfica del terminal DSNG y las horas de transmisión previstas. 
+La entidad de explotación del DSNG necesita recibir oportunamente la autorización reglamentaria 
+de la administración del país en que utilizará el terminal DSNG. La coordinación entre el terminal 
+DSNG propuesto y los servicios radioeléctricos terrenales existentes constituye un requisito previo 
+para controlar las interferencias radioeléctricas y permitir la explotación de ese terminal. La 
+coordinación de frecuencias para los terminales DSNG resulta más difícil en la banda de 6 GHz, 
+puesto que algunas bandas pueden estar compartidas entre los servicios fijos por satélite y terrenal y 
+existen muchos enlaces terrenales fijos. Conviene utilizar bandas de frecuencias más altas (por 
+
+ 
+Rec.  UIT-R  SNG.770-2 
+7 
+ 
+ejemplo, 14 y 30 GHz) para facilitar el transporte y la coordinación. El hecho de que una parte de 
+algunas bandas, por ejemplo la banda de 14 GHz, no sean compartidas con el servicio fijo que 
+utiliza sistemas de relevadores radioeléctricos facilita considerablemente la coordinación del 
+DSNG. En algunos países, no obstante, otras bandas como la de 14 GHz se utilizan en el servicio 
+fijo y otros servicios terrenales, por lo que es necesaria la coordinación. Algunas bandas de 
+frecuencias comprendida están atribuidas con carácter mundial al servicio fijo por satélite 
+(Tierra-espacio) a título primario; estas bandas están atribuidas igualmente con carácter primario al 
+servicio móvil por satélite (Tierra-espacio) en la Región 2 (toda la banda) y en las Regiones 1 y 3 
+(los 100 MHz superiores). Habida cuenta de la naturaleza temporal del DSNG, cuando se requiera 
+coordinación entre la estación DSNG y los enlaces terrenales del país en que haya de funcionar, ésta 
+puede ser diferente. 
+3.4 
+Reserva del segmento espacial 
+La entidad de explotación del DSNG debe poder saber, rápida y claramente, qué segmento espacial 
+estará disponible para su uso en el momento oportuno (por ejemplo, dentro de las siguientes 24 h). 
+Esta información debe incluir: 
+– 
+las características del transpondedor (identificador del satélite); 
+– 
+la anchura de banda y la potencia disponibles; 
+– 
+hora de acceso más próxima disponible. 
+La entidad de explotación del DSNG puede tener que mantener un contacto directo permanente con 
+proveedor del segmento espacial. 
+3.5 
+Circuitos de coordinación auxiliares 
+Entre el centro de control de comunicaciones del operador del satélite y los locales del radiodifusor 
+se requieren circuitos de coordinación auxiliares. Estos circuitos se describen en el Anexo 1 a la 
+Recomendación UIT-R SNG.722. 
+3.6 
+Comunicaciones auxiliares y servicios de transmisión adicionales 
+Para facilitar la explotación eficaz del terminal DSNG pueden necesitarse servicios de 
+comunicación auxiliares, que pueden comprender canales de microondas punto a punto, sistemas 
+telefónicos, micrófonos inalámbricos y terminales móviles por satélite, para la transmisión vocal y 
+de datos. 
+En cuanto a los servicios vinculados a las radiocomunicaciones, puede requerirse una autorización 
+temporal para utilizar las frecuencias en el emplazamiento deseado. Esa autorización debe obtenerse 
+oportunamente y, en lo posible, antes de instalar los equipos. También es necesario obtener 
+información sobre la admisibilidad técnica del equipo que podría utilizarse. 
+Además, tal vez sea preciso disponer de acceso telefónico fijo y/o móvil. Esto resulta esencial para 
+el funcionamiento adecuado del DSNG. El operador del DSNG necesitará ese acceso telefónico, 
+con una relación costo-eficacia satisfactoria (y una clara definición de tarifas y servicios) y habrá de 
+conocer, además, la disponibilidad real de circuitos. 
+3.7 
+Riesgos de radiación 
+Es necesario adoptar medidas para proteger al público y al personal de los riesgos de radiación. 
+Muchas administraciones han definido normas para la exposición sin riesgos a la radiación 
+radioeléctrica (no ionizante), que son función de la frecuencia, el nivel de potencia y la duración de 
+la exposición. 
+
+8 
+Rec.  UIT-R  SNG.770-2 
+ 
+Las entidades de explotación del DSNG deben cumplir con las normas (de salubridad y de 
+seguridad) sobre la radiación admisible establecidas por el país en que utilicen el sistema. Si este 
+país no tuviese establecidas normas propias, deben observarse las adoptadas por la Organización 
+Mundial de la Salud (OMS) (la OMS establece criterios sanitarios junto con el Comité Internacional 
+de Radiaciones no Ionizantes de la Asociación Internacional de Protección contra las Radiaciones). 
+Al aplicar los criterios de exposición máxima admisible, las entidades de explotación deben tener 
+debidamente en cuenta el emplazamiento y la configuración de las instalaciones, así como el acceso 
+tanto del personal como del público. 
+Se identificará, controlará y delimitará una zona de riesgo en torno al terminal DSNG clara y 
+visiblemente. 
+3.8 
+Importación y aduanas 
+La entidad de explotación del DSNG ha de conocer debidamente los reglamentos de importación y 
+aduanas del país en que haya de emplearlo. Esto es particularmente importante cuando en ese país 
+los reportajes son frecuentes y no pueden utilizarse para ellos instalaciones ya existentes en el 
+mismo. 
+4 
+Punto de contacto para la información, orientación y aprobación 
+Cada administración u organización competente debe estudiar, si es posible, la posibilidad de 
+establecer un punto de contacto designado para el DSNG, accesible durante las 24 h del día, y los 
+siete días de la semana. 
+Este punto de contacto debe ayudar a obtener las autorizaciones temporales de funcionamiento de 
+las estaciones terrenas DSNG pertenecientes a entidades de explotación extranjeras, actuando como 
+intermediario en el intercambio de la información necesaria para los procedimientos de autorización 
+y la coordinación de frecuencias y suministrando orientación sobre las formalidades administrativas 
+del país. 
+Se considera necesario intercambiar la información indicada en el Cuadro 1. 
+
+ 
+Rec.  UIT-R  SNG.770-2 
+9 
+ 
+CUADRO  1 
+ 
+Información que debe suministrarse a la Administración 
+Información que debe recibirse de la 
+Administración 
+1. Características del servicio (por ejemplo, norma de 
+televisión, número y tipo de canales audio) 
+1. Referencia de la solicitud 
+2. Tiempo y duración del servicio 
+2. Entidad autorizante 
+3. Emplazamiento del enlace ascendente y del enlace 
+descendente 
+3. Otras dependencia en las que deben 
+tramitarse 
+las 
+solicitudes 
+de 
+autorización 
+4. Segmento espacial deseado 
+4. Puntos de contacto para trámites 
+aduaneros 
+5. Características del terminal terreno DSNG (por ejemplo, 
+utilización actual, código de identificación, banda de 
+frecuencia, p.i.r.e. máxima, diagrama de transmisión de 
+la antena, métodos de modulación) 
+5. Información sobre tarifas 
+6. Servicios adicionales de transmisión auxiliares (por 
+ejemplo, microondas, número de circuitos telefónicos 
+auxiliares) 
+6. Normas de seguridad 
+ 
+______________ 

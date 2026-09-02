@@ -1,0 +1,256 @@
+ 
+Rec.  UIT-R  S.673-2 
+1 
+RECOMENDACIÓN  UIT-R  S.673-2* 
+Términos y definiciones relativos a radiocomunicaciones espaciales 
+(Cuestión UIT-R 209/4) 
+ 
+(1990-2001-2002) 
+La Asamblea de Radiocomunicaciones de la UIT, 
+considerando 
+a) 
+que los términos y las definiciones relativos a sistemas, servicios y estaciones espaciales 
+figuran en el Reglamento de Radiocomunicaciones (RR); 
+b) 
+que es preciso establecer las definiciones de términos nuevos relativos a las radiocomuni-
+caciones espaciales, para facilitar los estudios que se llevan a cabo en el UIT-R, 
+recomienda 
+1 
+que los términos cuya relación figura en el Anexo 1, se utilicen en la medida de lo posible 
+con el significado que se les atribuye en las definiciones correspondientes. 
+ 
+ANEXO  1 
+Términos y definiciones relativos a radiocomunicaciones espaciales 
+Los términos y definiciones concernientes a los sistemas, servicios y estaciones espaciales no se 
+incluyen en el presente Anexo, por figurar en el RR. 
+Altitud del apogeo (del perigeo) 
+Altitud del apogeo (perigeo) sobre una superficie hipotética de referencia que sirve para representar 
+la superficie de la Tierra. 
+Anchura de banda de referencia 
+Anchura de banda fija sobre la cual se mide o especifica la potencia de una emisión con el fin de 
+determinar, por ejemplo, la densidad espectral de potencia. Para los servicios espaciales, la anchura 
+de banda de referencia es, por lo general, 4 kHz, 40 kHz o 1 MHz. 
+Ángulo exocéntrico 
+Ángulo formado por líneas rectas imaginarias que unen dos puntos cualesquiera con un punto 
+específico en el espacio. 
+Ángulo geocéntrico 
+Ángulo formado por líneas rectas imaginarias que unen dos puntos cualesquiera con el centro de la 
+Tierra. 
+ 
+____________________ 
+* Esta Recomendación debe señalarse a la atención del Comité de Coordinación para el Vocabulario (CCV) 
+del UIT-R. 
+
+2 
+Rec.  UIT-R  S.673-2 
+Ángulo topocéntrico 
+Ángulo formado por líneas rectas imaginarias que unen dos puntos cualesquiera en el espacio con 
+un punto específico en la superficie de la Tierra. 
+Apoápside 
+Punto de la órbita de un satélite o de un planeta que está situado a la máxima distancia del centro de 
+gravedad del cuerpo primario. 
+Apogeo 
+Punto de la órbita de un satélite de la Tierra situado a la máxima distancia del centro de la Tierra. 
+NOTA 1 – El apogeo es el apoápside de un satélite de la Tierra. 
+Arco de servicio 
+Arco de la órbita de los satélites geoestacionarios en el cual la estación espacial podría prestar el 
+servicio requerido a todas sus estaciones terrenas situadas en la zona de servicio. (El servicio 
+requerido depende de las características del sistema y de las necesidades de los usuarios.) 
+Arco visible 
+Parte común del arco de la órbita de los satélites geoestacionarios en la que la estación espacial es 
+visible, por encima del horizonte local, desde cada estación terrena asociada que esté situada en la 
+zona de servicio. 
+Cuerpo primario (para un satélite) 
+El cuerpo cuya fuerza de atracción determina principalmente el movimiento de un satélite. 
+dBsd 
+Decibel relativo al valor máximo de densidad espectral de potencia dentro de la anchura de banda 
+necesaria. El valor máximo de la densidad espectral de potencia de una señal aleatoria se halla 
+determinando la potencia media en la anchura de banda de referencia cuando esa anchura de banda 
+se encuentra en una frecuencia tal que el resultado queda maximizado. 
+Efemérides 
+Un cuadro, u otro método, que proporciona las posiciones computadas de algunos cuerpos celestes, 
+con inclusión de los satélites artificiales, a lo largo de un periodo de tiempo especificado. 
+Elementos de una órbita (de satélite u otro cuerpo espacial) 
+Parámetros que permiten definir la forma, las dimensiones y la posición de la órbita de un cuerpo en 
+el espacio, así como el periodo de ese cuerpo, con relación a un sistema de referencia especificado. 
+NOTA 1 – Para determinar la posición de un cuerpo en el espacio, en cualquier instante, es necesario 
+conocer, además de los elementos de su órbita, la posición de su centro de gravedad sobre la misma en un 
+instante dado. 
+NOTA 2 – El sistema de referencia empleado es un triedro trirrectángulo directo OXYZ que tiene su origen 
+en el centro de gravedad del cuerpo primario y cuyo tercer eje OZ es perpendicular al plano principal de 
+referencia, llamado también plano fundamental de referencia o, sencillamente, plano de referencia. 
+NOTA 3 – En el caso de un satélite artificial de la Tierra, el plano de referencia es el plano del Ecuador 
+terrestre y el tercer eje OZ está orientado de Sur a Norte. 
+Enlace dinámico 
+Un enlace de comunicaciones cuyo punto extremo o cuyos dos puntos extremos cambian con el 
+tiempo. Un ejemplo es el enlace entre una estación terrena y una constelación de satélites no OSG. 
+
+ 
+Rec.  UIT-R  S.673-2 
+3 
+Estrategia de seguimiento 
+Un conjunto de condiciones en la geometría de los enlaces que se utiliza para determinar cuándo 
+tiene lugar la transferencia en un sistema con enlaces dinámicos, y que permite elegir también a qué 
+estación se le ha de hacer la transferencia entre un grupo de estaciones candidatas. 
+Evitación de constelaciones 
+Evitación en línea aplicada a cada una de un grupo de estaciones espaciales que conforman una 
+constelación de satélites. 
+Evitación en línea 
+Una estrategia de seguimiento que limita la formación de enlaces de tal modo que éstos caigan fuera 
+de un ángulo definido (el ángulo de evitación) con respecto a la dirección de una estación que se ha 
+de evitar. 
+Haz adaptativo 
+Un haz de seguimiento («pegajoso») con la propiedad adicional de que los parámetros del haz están 
+adaptados para proporcionar una estampa (o zona de servicio) constante a medida que el satélite se 
+desplaza. Este tipo de haz puede o no tener una ganancia de cresta adaptativa, proporcionando una 
+p.i.r.e. de cresta constante. 
+Haz de control de puntería 
+Un haz de un satélite transmisor y/o receptor que está formado y apuntado según las necesidades del 
+nivel de tráfico. El haz saltará alrededor de la zona de conformidad con esquemas de multiplexión 
+por división en el tiempo y/o en el espacio. 
+Haz de seguimiento («pegajoso») 
+Un haz de satélite dirigible que apunta a zonas fijas en la Tierra a medida que el satélite se desplaza. 
+Inclinación (de una órbita de satélite) 
+Ángulo que forma el plano de la órbita de un satélite con el plano principal de referencia. 
+NOTA 1 – Por convenio, la inclinación de una órbita de satélite directa es un ángulo agudo y la inclinación 
+de una órbita retrógrada es un ángulo obtuso. 
+LEO 
+Órbita terrestre de baja altitud, con una altitud inferior a unos 2 000 km por encima del nivel del 
+mar. 
+MEO 
+Órbita terrestre de altitud media, con una altitud de unos 10 000 km por encima del nivel del mar. 
+Nodo ascendente (descendente) 
+Punto en el que la órbita de un satélite o de un planeta corta el plano principal de referencia, siendo 
+creciente (decreciente) la tercera coordenada del satélite o planeta al pasar por este punto. 
+Órbita 
+Trayectoria que describe, con relación a un sistema de referencia especificado, el centro de 
+gravedad de un satélite, o de otro objeto espacial, por la acción única de fuerzas naturales, funda-
+mentalmente las de gravitación; por extensión, trayectoria que describe el centro de gravedad de un 
+cuerpo espacial por la acción de las fuerzas de origen natural y eventualmente por las fuerzas 
+correctivas de poca energía ejercidas por un dispositivo de propulsión con el objeto de lograr y 
+mantener la trayectoria deseada. 
+
+4 
+Rec.  UIT-R  S.673-2 
+Órbita circular (de un satélite) 
+Órbita de un satélite en que la distancia entre los centros de gravedad del satélite y del cuerpo 
+primario es constante. 
+Órbita de los satélites geoestacionarios 
+Órbita única de todos los satélites geoestacionarios. 
+Órbita directa (retrógrada) (de un satélite) 
+Órbita de un satélite en la cual la proyección del centro de gravedad del satélite sobre el plano 
+principal de referencia gira alrededor del eje del cuerpo primario y en su mismo sentido (en sentido 
+contrario). 
+Órbita ecuatorial (de un satélite) 
+Órbita de un satélite cuyo plano coincide con el del Ecuador del cuerpo primario. 
+Órbita elíptica (de un satélite) 
+Órbita de un satélite en que la distancia entre los centros de gravedad del satélite y del cuerpo 
+primario no es constante, pero permanece finita. 
+NOTA 1 – La órbita no perturbada es una elipse en un sistema de referencia cuyo origen es el centro de 
+gravedad del cuerpo primario y cuyos ejes tienen direcciones fijas respecto a las estrellas. 
+Órbita inclinada (de un satélite) 
+Órbita de un satélite que no es ecuatorial ni polar. 
+Órbita no perturbada (de un satélite) 
+Órbita de un satélite en el caso ideal en que el satélite está sometido únicamente a la atracción del 
+cuerpo primario, que se supone concentrado en su centro de gravedad. 
+NOTA 1 – En un sistema de referencia cuyo centro es el centro de gravedad del cuerpo primario y cuyos ejes 
+tienen direcciones fijas con respecto a las estrellas, la órbita no perturbada es una sección cónica. 
+Órbita polar (de un satélite) 
+Órbita de un satélite cuyo plano contiene el eje polar del cuerpo primario. 
+Periápside 
+Punto de la órbita de un satélite o de un planeta situado a la mínima distancia del centro de 
+gravedad del cuerpo primario. 
+Perigeo 
+Punto de la órbita de un satélite de la Tierra situado a la mínima distancia del centro de la Tierra. 
+NOTA 1 – El perigeo es el periápside de un satélite de la Tierra. 
+Periodo anomalístico 
+Intervalo de tiempo comprendido entre dos pasos consecutivos de un satélite por el periápside. 
+Periodo de revolución (de un satélite) 
+Periodo orbital (de un satélite) 
+Intervalo de tiempo que transcurre entre dos pasos consecutivos de un satélite por un punto carac-
+terístico de su órbita. 
+NOTA 1 – Si no se especifica el punto característico de la órbita se entiende por convenio, que se trata del 
+periodo anomalístico. 
+
+ 
+Rec.  UIT-R  S.673-2 
+5 
+Periodo de revolución sideral (de un satélite) 
+Intervalo de tiempo que separa dos intersecciones consecutivas de la proyección de un satélite sobre 
+un plano de referencia que pasa por el centro de gravedad del cuerpo primario y de dirección fija 
+con respecto a las estrellas, con una semirrecta de este plano con origen en el centro de gravedad del 
+cuerpo primario y de dirección igualmente fija con respecto a las estrellas. 
+Periodo de rotación sideral (de un cuerpo espacial) 
+Periodo de rotación alrededor de su eje de un cuerpo espacial, con relación a un sistema de refe-
+rencia fijo con respecto a las estrellas. 
+Periodo nodal 
+Intervalo de tiempo comprendido entre dos pasos consecutivos de un satélite por el nodo ascendente 
+de su órbita. 
+Plano de la órbita (de un satélite) 
+Plano que contiene el centro de gravedad del cuerpo primario y el vector velocidad de un satélite, 
+siendo el sistema de referencia el especificado para definir los elementos de la órbita. 
+Red de satélite con reutilización de frecuencias 
+Red de satélite en la que el satélite utiliza la misma banda de frecuencias más de una vez, gracias a 
+la discriminación por polarización de la antena, o a antenas de múltiples haces, o las dos cosas a 
+la vez. 
+Satélite 
+Cuerpo que gira alrededor de otro cuerpo de masa preponderante y cuyo movimiento está princi-
+palmente determinado, de modo permanente, por la fuerza de atracción de este último. 
+NOTA 1 – Todo cuerpo que corresponda a esta definición y gire alrededor del Sol, se denomina planeta o 
+planetoide. 
+Satélite activo 
+Satélite provisto de una estación destinada a transmitir o a retransmitir señales de radio-
+comunicación. 
+Satélite de actitud estabilizada 
+Satélite en que uno de los ejes por lo menos se mantiene en una dirección especificada, por ejemplo, 
+la del centro de la Tierra o del Sol, o la de un punto determinado del espacio. 
+Satélite de posición controlada 
+Satélite en el que la posición del centro de gravedad debe seguir una ley dada, ya sea con relación a 
+las posiciones de otros satélites pertenecientes al mismo sistema espacial o con relación a un punto 
+de la Tierra que está fijo o que se desplaza conforme a una ley conocida. 
+Satélite estacionario 
+Satélite que permanece fijo con relación a la superficie del cuerpo primario; por extensión, satélite 
+que permanece aproximadamente fijo con relación a la superficie del cuerpo primario. 
+NOTA 1 – Un satélite estacionario es un satélite sincrónico de órbita circular, ecuatorial y directa. 
+Satélite geoestacionario 
+Satélite estacionario cuyo cuerpo primario es la Tierra. 
+
+6 
+Rec.  UIT-R  S.673-2 
+Satélite geosincrónico 
+Satélite sincrónico de la Tierra. 
+NOTA 1 – El periodo de rotación sideral de la Tierra es de aproximadamente 23 h y 56 min. 
+Satélite reflector 
+Satélite destinado a transmitir señales de radiocomunicación por reflexión. 
+Satélite sincrónico 
+Satélite cuyo periodo de revolución sideral medio es igual al periodo de rotación sideral del cuerpo 
+primario sobre su eje; por extensión, satélite cuyo periodo de revolución sideral medio es aproxima-
+damente igual al periodo de rotación sideral del cuerpo primario. 
+Satélite sincronizado 
+Satélite en fase (desaconsejado) 
+Satélite que ha de conservar forzosamente un periodo anomalístico o un periodo nodal igual al de 
+otro satélite o al de un planeta, o bien igual al periodo de un fenómeno determinado y que tiene que 
+pasar en instantes especificados por un punto característico de su órbita. 
+Satélite subsincrónico (supersincrónico) 
+Satélite cuyo periodo de revolución sideral medio alrededor del cuerpo primario es un submúltiplo 
+(un múltiplo entero) del periodo de rotación sideral del cuerpo primario sobre su eje. 
+Sonda espacial 
+Vehículo espacial destinado a efectuar observaciones o mediciones en el espacio. 
+Vehículo espacial 
+Vehículo construido por el hombre y destinado a salir de la parte principal de la atmósfera terrestre. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
