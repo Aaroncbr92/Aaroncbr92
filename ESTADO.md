@@ -453,6 +453,29 @@ en Documentación y en Producción (Asistencia).
       es **el año equivocado del enunciado**, citado por el tema para señalarlo. **La lista de
       huérfanas se lee en dos columnas: las que faltan por descuido y las que faltan porque el tema
       dice que faltan.**
+- [x] **Cerrados los cuatro temas cortos del específico de Producción**, y con ellos **el bloque
+      entero**:
+      **tema 4** —el desglose, 2 preguntas, 977 palabras—, **tema 5** —localización, 3 preguntas,
+      1.316—, **tema 6** —plan y orden de trabajo, 4 preguntas, 1.630— y **tema 16** —gestión de
+      servicios varios, 3 preguntas, 1.229—. Los cuatro con esquema y con sus dos informes.
+- [x] **El tema 6 es el segundo del bloque sin ninguna fuente normativa**, tras el del guion, y con
+      la ausencia **comprobada término a término**: de sus **seis documentos** —plan, orden y parte
+      de trabajo, hoja de script, parte de producción y desglose—, **cinco no aparecen ni una vez**
+      en todo el corpus y el sexto sale **cuatro veces y siempre en otro sentido**. Lo que ofrece a
+      cambio es **la cadena de papeles** —guion → desglose → presupuesto → plan → orden → parte—,
+      que **contesta tres de sus cuatro preguntas**.
+- [x] **Una comprobación que no dio la fuente que buscaba y dio algo mejor**: «**semoviente**» se
+      buscó en el **Código Civil**, que era el sitio evidente, y **no aparece ni una vez**. Tras la
+      reforma que dio a los animales estatuto propio, **el Código ya no los clasifica como
+      semovientes**. De modo que la palabra es **vocabulario de oficio y de tradición jurídica, no
+      término legal vigente**, y el tema lo dice para que nadie la busque en vano.
+- [x] **Un distractor que resultó ser copropietario de la respuesta**: la portada de **SNTV** dice
+      que es «**una empresa conjunta entre The Associated Press e IMG**», y **AP es una de las
+      opciones falsas** de esa misma pregunta. El tema lo cuenta para que la duda no pille a nadie.
+- [x] **La lente de prosa cazando repetición perezosa, no sólo relleno**: en el tema 16 detectó la
+      misma frase dicha dos veces —«las páginas de EFE y de Reuters no se han podido consultar»—, y
+      al reescribir la segunda salió información nueva: **cuál de las cuatro agencias sí se pudo
+      leer y qué respondió cada una de las otras tres**.
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -575,6 +598,10 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 12 · El estudio | sí | sí | sí | sí | sí | sí, limpia (2 huérfanas, metadatos) | 6 de 6 enteras |
 | Producción 14 · Documentación internacional | sí | sí | sí | sí | sí | sí, limpia (0 huérfanas; lentes arregladas) | 6 de 6 enteras |
 | Producción 15 · Organismos | sí | sí | sí | sí | sí | sí, limpia (3 respuestas sin verificar, declaradas) | 6 de 6 enteras |
+| Producción 4 · El desglose | sí | sí | sí | sí | sí | sí, limpia | 2 de 2 enteras |
+| Producción 5 · Localización | sí | sí | sí | sí | sí | sí, limpia (1 matización declarada) | 3 de 3 enteras |
+| Producción 6 · Plan y orden de trabajo | sí | sí | sí | sí | sí | sí, limpia (0 de 4 con norma, declarado) | 4 de 4 enteras |
+| Producción 16 · Gestión de servicios | sí | sí | sí | sí | sí | sí, limpia (5 huérfanas, metadatos) | 3 de 3 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

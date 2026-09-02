@@ -15,6 +15,8 @@ se leyó**.
 | `Camara-de-Espana_ATA-fichas-pais.txt` | **«Fichas país»**: los **82 territorios** que admiten cuadernos ATA. Documento fechado el **20/08/2026** | **Cámara de Comercio de España** | 02/09/2026 |
 | `FORTA_quienes-somos.txt` | «**Quiénes somos**»: el nombre completo de la federación y **sus doce organismos** | **FORTA** | 02/09/2026 |
 | `UTECA_portada.txt` | Portada: «**Televisión Comercial en Abierto**» | **UTECA** | 02/09/2026 |
+| `SNTV_portada.txt` | Portada: «**una agencia global líder de vídeo deportivo**», más de 40 deportes, **empresa conjunta de The Associated Press e IMG** | **SNTV** | 02/09/2026 |
+| `ACN_portada.txt` | Portada: «**Agència Catalana de Notícies**» | **ACN** | 02/09/2026 |
 
 ## Por qué hacía falta
 

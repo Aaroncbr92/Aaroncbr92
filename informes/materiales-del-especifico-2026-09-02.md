@@ -221,9 +221,10 @@ la próxima convocatoria cambia de proveedor.
 
 ## Lo siguiente
 
-1. **Escribir los cuatro temas que quedan**, por peso de examen: **6** (4), **5** y
-   **16** (3) y **4** (2).
-   *(Cerrados: **1**, **2**, **3**, **7**, **8**, **9**, **10**, **11**, **12**, **13**, **14**, **15** y **17**.)* Y en cada
+1. ~~**Escribir los temas que quedan**~~ → **hecho: los diecisiete temas del bloque
+   específico de Producción (Asistencia) están cerrados**, con su esquema y sus dos
+   informes cada uno.
+    Y en cada
    uno, **buscar el vocabulario en las fuentes que ya están en casa antes de darlo por
    huérfano**: el tema 1 tenía dos preguntas con norma literal en el propio convenio, y
    el tema 3 **ninguna, comprobado término a término**.
@@ -271,3 +272,25 @@ quedaba sin explicar.
 **El recuento de fuentes recuperadas por la regla del agente de navegador va por cuatro**: LiveU,
 Astera, ETSI y DJI. Y hay **dos cerradas de verdad**, comprobadas con la regla puesta: **Sony** y
 el fabricante de la **mobycam**.
+
+## Cierre del bloque
+
+**Los diecisiete temas del específico de Producción (Asistencia) están escritos**, y con ellos
+**las 123 preguntas del reparto quedan contestadas con el tema delante**. El balance documental,
+que es lo que este informe venía a medir:
+
+| Nivel de la fuente | Preguntas |
+|---|---|
+| **Norma del BOE** | Propiedad intelectual (10), protección de datos (5), el registro de drones y el espacio aéreo (2), el cuaderno ATA (2), la producción ajena y las fases (2), la resolución de la televisión (1), el flujo luminoso (1), la toma de tierra (1) |
+| **Organismo de normalización** | Las recomendaciones de la Unión Internacional de Telecomunicaciones, las normas europeas del DVB y el índice de la SMPTE: **once preguntas** entre imagen y sonido, transmisión y formatos |
+| **Documentación institucional** | El AIP de España, las fichas de la Cámara de Comercio, FORTA, UTECA, SNTV y la Agència Catalana de Notícies: **seis preguntas** |
+| **Documentación de fabricante** | LiveU, Astera, Mo-Sys, DJI y Autocue: **seis preguntas** |
+| **Plantilla oficial** | El resto: **vocabulario de oficio**, marcado una a una |
+
+**Lo que quedó cerrado de verdad, con la regla del proyecto puesta** —dos rutas y un agente de
+usuario de navegador antes de escribir «no se ha podido consultar»—: la **Unión Europea de
+Radiodifusión**, la especificación **DCI** de cine digital, el texto de la **AES10**, **Sony**,
+**Avid**, el fabricante de la ***mobycam***, **EFE** y **Reuters**.
+
+**Y lo que se recuperó gracias a esa misma regla**: **LiveU**, **Astera**, **ETSI**, **DJI** y
+**Autocue**. Cinco fuentes que una versión anterior de este informe daba por perdidas.
