@@ -1,0 +1,137 @@
+Preceptos de legislación consolidada que fijan datos del tema 1 del específico
+de Información y Contenidos. Volcados con `herramientas/boe.py` el 2 de
+septiembre de 2026, en su redacción vigente ese día.
+
+AVISO SOBRE LA FECHA DE CORTE: tres de estas normas son POSTERIORES al
+21/12/2022 —la Ley 7/2023, la Ley 12/2023 y la Ley Orgánica 1/2024—. No es un
+descuido: las bases congelan el temario general a esa fecha, y en Información y
+Contenidos los puntos 1, 2 y 3 son de actualidad, donde el examen pregunta por
+hechos posteriores. Está razonado en `convocatoria/bases/README.md`.
+
+========== BOE-A-2023-7936 · a1
+Norma    : BOE-A-2023-7936
+Bloque   : a1  (Artículo 1)
+Fuente   : https://www.boe.es/buscar/act.php?id=BOE-A-2023-7936
+Leído    : vigente hoy
+Redacciones: 1
+
+Cadena de redacciones (vigencia / publicación / norma que la introduce):
+  vig 20230929  pub 20230329  BOE-A-2023-7936
+
+REDACCIÓN APLICABLE, vigente hoy (vigencia 20230929, publicada 20230329, por BOE-A-2023-7936)
+------------------------------------------------------------------------
+Artículo 1. Objeto y ámbito de aplicación.
+1. Esta ley tiene por objeto establecer el régimen jurídico básico en todo el territorio español para la protección, garantía de los derechos y bienestar de los animales de compañía y silvestres en cautividad, sin perjuicio de la sanidad animal que se regirá por la Ley 8/2003, de 24 de abril, de Sanidad Animal, y por las normas de la Unión Europea.
+2. Se entiende por derechos de los animales su derecho al buen trato, respeto y protección, inherentes y derivados de su naturaleza de seres sintientes, y con las obligaciones que el ordenamiento jurídico impone a las personas, en particular a aquéllas que mantienen contacto o relación con ellos.
+3. Quedan excluidos del ámbito de aplicación de esta ley:
+a) Los animales utilizados en los espectáculos taurinos previstos en los artículos 2 y 10 de la Ley 10/1991, de 4 de abril, sobre potestades administrativas en materia de espectáculos taurinos.
+b) Los animales de producción, tal como se definen en la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, en todo su ciclo vital, salvo el supuesto de que perdiendo su fin productivo el propietario decidiera inscribirlo como animal de compañía en el Registro previsto en la presente ley.
+c) Los animales criados, mantenidos y utilizados de acuerdo con el Real Decreto 53/2013, de 1 de febrero, por el que se establecen las normas básicas aplicables para la protección de los animales utilizados en experimentación y otros fines científicos, incluyendo la docencia, y los animales utilizados en investigación clínica veterinaria, de acuerdo con el Real Decreto 1157/2021, de 28 de diciembre, por el que se regulan los medicamentos veterinarios fabricados industrialmente.
+d) Los animales silvestres, que se rigen por lo establecido en la Ley 42/2007, de 13 de diciembre, de Patrimonio Natural y Biodiversidad, salvo que se encuentren en cautividad.
+e) Los animales utilizados en actividades específicas (las deportivas reconocidas por el Consejo Superior de Deportes, las aves de cetrería, los perros pastores y de guarda del ganado) así como los utilizados en actividades profesionales (dedicados a una actividad o cometido concreto realizado conjuntamente con su responsable en un entorno profesional o laboral, como los perros de rescate, animales de compañía utilizados en intervenciones asistidas o los animales de las Fuerzas y Cuerpos de Seguridad o de las Fuerzas Armadas). Igualmente quedarán excluidos los perros de caza, rehalas y animales auxiliares de caza. Todos ellos se regulan y quedarán protegidos por la normativa vigente europea, estatal y autonómica correspondiente, y que les sea de aplicación al margen de esta ley.
+
+========== BOE-A-2024-11776 · a1
+Norma    : BOE-A-2024-11776
+Bloque   : a1  (Artículo 1)
+Fuente   : https://www.boe.es/buscar/act.php?id=BOE-A-2024-11776
+Leído    : vigente hoy
+Redacciones: 2
+
+Cadena de redacciones (vigencia / publicación / norma que la introduce):
+  vig 20240611  pub 20240611  BOE-A-2024-11776
+  vig 20250731  pub 20250731  BOE-A-2025-15939
+
+Este precepto tiene 2 redacciones: léelas enteras antes de citar.
+
+Notas del BOE que hay que leer antes de citar esto:
+  ! Se declara inconstitucional el apartado 1, con el alcance y los efectos que se indican en el fundamento jurídico 8.3.5, e inconstitucional y nulo el segundo párrafo del apartado 3, por Sentencia del TC 137/2025, de 26 de junio. Ref. BOE-A-2025-15939
+
+REDACCIÓN APLICABLE, vigente hoy (vigencia 20250731, publicada 20250731, por BOE-A-2025-15939)
+------------------------------------------------------------------------
+Artículo 1. Ámbito objetivo.
+1. Quedan amnistiados los siguientes actos determinantes de responsabilidad penal, administrativa o contable, ejecutados en el marco de las consultas celebradas en Cataluña el 9 de noviembre de 2014 y el 1 de octubre de 2017, de su preparación o de sus consecuencias, siempre que hubieren sido realizados entre los días 1 de noviembre de 2011 y 13 de noviembre de 2023, así como las siguientes acciones ejecutadas entre estas fechas en el contexto del denominado proceso independentista catalán, aunque no se encuentren relacionadas con las referidas consultas o hayan sido realizadas con posterioridad a su respectiva celebración:
+a) Los actos cometidos con la intención de reivindicar, promover o procurar la secesión o independencia de Cataluña, así como los que hubieran contribuido a la consecución de tales propósitos.
+En todo caso, se entenderán comprendidos en este supuesto los actos tipificados como delitos de usurpación de funciones públicas o de malversación, únicamente cuando estén dirigidos a financiar, sufragar o facilitar la realización de cualesquiera de las conductas descritas en el primer párrafo de esta letra, directamente o a través de cualquier entidad pública o privada, siempre que no haya existido propósito de enriquecimiento, así como cualquier otro acto tipificado como delito que tuviere idéntica finalidad.
+También se entenderán comprendidas en este supuesto aquellas actuaciones desarrolladas, a título personal o institucional, con el fin de divulgar el proyecto independentista, recabar información y adquirir conocimiento sobre experiencias similares o lograr que otras entidades públicas o privadas prestaran su apoyo a la consecución de la independencia de Cataluña.
+Asimismo, se entenderán comprendidos aquellos actos, vinculados directa o indirectamente al denominado proceso independentista desarrollado en Cataluña o a sus líderes en el marco de ese proceso, y realizados por quienes, de forma manifiesta o constatada, hubieran prestado asistencia, colaboración, asesoramiento de cualquier tipo, representación, protección o seguridad a los responsables de las conductas a las que se refiere el primer párrafo de esta letra, o hubieran recabado información a estos efectos.
+b) Los actos cometidos con la intención de convocar, promover o procurar la celebración de las consultas que tuvieron lugar en Cataluña el 9 de noviembre de 2014 y el 1 de octubre de 2017 por quien careciera de competencias para ello o cuya convocatoria o celebración haya sido declarada ilícita, así como aquellos que hubieran contribuido a su consecución.
+En todo caso, se entenderán comprendidos en este supuesto los actos tipificados como delitos de usurpación de funciones públicas o de malversación, únicamente cuando estén dirigidos a financiar, sufragar o facilitar la realización de cualesquiera de las conductas descritas en el párrafo anterior, siempre que no haya existido propósito de enriquecimiento, así como cualquier otro acto tipificado como delito que tuviere idéntica finalidad.
+c) Los actos de desobediencia, cualquiera que sea su naturaleza, desórdenes públicos, atentado contra la autoridad, sus agentes y los funcionarios públicos o resistencia que hubieran sido ejecutados con el propósito de permitir la celebración de las consultas populares a que se refiere la letra b) del presente artículo o sus consecuencias, así como cualesquiera otros actos tipificados como delitos realizados con idéntica intención.
+En todo caso, se entenderán comprendidos en este supuesto los actos tipificados como delitos de prevaricación o cualesquiera otros actos que hubieran consistido en la aprobación o ejecución de leyes, normas o resoluciones por autoridades o funcionarios públicos que hayan sido realizados con el propósito de permitir, favorecer o coadyuvar a la celebración de las consultas populares a que se refiere la letra b) del presente artículo.
+También quedarán amnistiados los actos de desconsideración, crítica o agravio vertidos contra las autoridades y funcionarios públicos, los entes e instituciones públicas, así como sus símbolos o emblemas, incluidos los actos llevados a cabo a través de la prensa, de la imprenta, de un medio de comunicación social, de internet o mediante el uso de redes sociales y servicios de la sociedad de la información equivalentes, así como en el curso de manifestaciones, asambleas, obras o actividades artísticas o educativas u otras de similar naturaleza que tuvieran por objeto reivindicar la independencia de Cataluña o la celebración de las consultas a las que se refiere la letra b) o prestar público apoyo a quienes hubieran ejecutado los actos amnistiados con arreglo a esta ley.
+d) Los actos de desobediencia, cualquiera que sea su naturaleza, desórdenes públicos, atentado contra la autoridad, sus agentes y los funcionarios públicos, resistencia u otros actos contra el orden y la paz pública que hubieran sido ejecutados con el propósito de mostrar apoyo a los objetivos y fines descritos en las letras precedentes o a los encausados o condenados por la ejecución de cualesquiera de los delitos comprendidos en el presente artículo.
+e) Las acciones realizadas en el curso de actuaciones policiales dirigidas a dificultar o impedir la realización de los actos determinantes de responsabilidad penal o administrativa comprendidos en este artículo.
+f) Los actos cometidos con el propósito de favorecer, procurar o facilitar cualesquiera de las acciones determinantes de responsabilidad penal, administrativa o contable contempladas en los apartados anteriores del presente artículo, así como cualesquiera otros que fueran materialmente conexos con tales acciones.
+Téngase en cuenta que se declara inconstitucional el apartado 1, con el alcance y los efectos que se indican en el fundamento jurídico 8.3.5, por la Sentencia del TC 137/2025, de 26 de junio, Ref. BOE-A-2025-15939, y en los términos del fundamento jurídico 3.A).c) de la Sentencia del TC 164/2025, de 8 de octubre. Ref. BOE-A-2025-22787
+2. Los actos determinantes de responsabilidad penal, administrativa o contable amnistiados en virtud del apartado 1 de este artículo lo serán cualquiera que sea su grado de ejecución, incluidos los actos preparatorios, y cualquiera que fuera la forma de autoría o participación.
+3. Los actos cuya realización se hubiera iniciado antes del día 1 de noviembre de 2011 únicamente se entenderán comprendidos en el ámbito de aplicación de la presente ley cuando su ejecución finalizase con posterioridad a esa fecha.
+Los actos cuya realización se hubiera iniciado antes del día 13 de noviembre de 2023 también se entenderán comprendidos en el ámbito de aplicación de la presente ley aunque su ejecución finalizase con posterioridad a esa fecha.
+Téngase en que cuenta que se declara inconstitucional y nulo el párrafo segundo del apartado 3 por la Sentencia del TC 137/2025, de 26 de junio. Ref. BOE-A-2025-15939
+4. No se considerará enriquecimiento la aplicación de fondos públicos a las finalidades previstas en los apartados a) y b) cuando, independientemente de su adecuación al ordenamiento jurídico, no haya tenido el propósito de obtener un beneficio personal de carácter patrimonial.
+
+========== BOE-A-2024-11776 · a2
+Norma    : BOE-A-2024-11776
+Bloque   : a2  (Artículo 2)
+Fuente   : https://www.boe.es/buscar/act.php?id=BOE-A-2024-11776
+Leído    : vigente hoy
+Redacciones: 1
+
+Cadena de redacciones (vigencia / publicación / norma que la introduce):
+  vig 20240611  pub 20240611  BOE-A-2024-11776
+
+REDACCIÓN APLICABLE, vigente hoy (vigencia 20240611, publicada 20240611, por BOE-A-2024-11776)
+------------------------------------------------------------------------
+Artículo 2. Exclusiones.
+En todo caso, quedan excluidos de la aplicación de la amnistía prevista en el artículo 1:
+a) Los actos dolosos contra las personas que hubieran producido un resultado de muerte, aborto o lesiones al feto, la pérdida o la inutilidad de un órgano o miembro, la pérdida o inutilidad de un sentido, la impotencia, la esterilidad o una grave deformidad.
+b) Los actos tipificados como delitos de torturas o de tratos inhumanos o degradantes con arreglo al artículo 3 del Convenio para la Protección de los Derechos Humanos y de las Libertades Fundamentales, a excepción de aquellos tratos que no superen un umbral mínimo de gravedad por no resultar idóneos para humillar o degradar a una persona o mostrar una disminución de su dignidad humana, o para provocar miedo, angustia o inferioridad de una forma capaz de quebrar su resistencia moral y física.
+c) Los actos que por su finalidad puedan ser calificados como terrorismo, según la Directiva (UE) 2017/541 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017, relativa a la lucha contra el terrorismo y, a su vez, hayan causado de forma intencionada graves violaciones de derechos humanos, en particular las reguladas en los artículos 2 y 3 del Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales, y en el derecho internacional humanitario.
+d) Los actos tipificados como delitos en cuya ejecución hubieran sido apreciadas motivaciones racistas, antisemitas, antigitanas u otra clase de discriminación referente a la religión y creencias de la víctima, su etnia o raza, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, la enfermedad que padezca o su discapacidad, con independencia de que tales condiciones o circunstancias concurrieran de forma efectiva en la persona sobre la que recayó la conducta.
+e) Los actos tipificados como delitos que afectaran a los intereses financieros de la Unión Europea.
+f) Los actos tipificados como delitos de traición y contra la paz o la independencia del Estado y relativos a la Defensa Nacional del Título XXIII del Libro II del Código Penal, siempre que se haya producido tanto una amenaza efectiva y real como un uso efectivo de la fuerza en contra de la integridad territorial o la independencia política de España en los términos establecidos en la Carta de las Naciones Unidas o en la Resolución 2625 (XXV) de la Asamblea General de Naciones Unidas de 24 de octubre de 1970, que contiene la declaración relativa a los principios de derecho internacional referentes a las relaciones de amistad y a la cooperación entre los Estados de conformidad con la Carta de las Naciones Unidas.
+g) Los actos tipificados como delitos contra la Comunidad Internacional comprendidos en el Título XXIV del Libro II del Código Penal.
+
+========== BOE-A-2024-11776 · df-3
+Norma    : BOE-A-2024-11776
+Bloque   : df-3  (Disposición final tercera)
+Fuente   : https://www.boe.es/buscar/act.php?id=BOE-A-2024-11776
+Leído    : vigente hoy
+Redacciones: 1
+
+Cadena de redacciones (vigencia / publicación / norma que la introduce):
+  vig 20240611  pub 20240611  BOE-A-2024-11776
+
+REDACCIÓN APLICABLE, vigente hoy (vigencia 20240611, publicada 20240611, por BOE-A-2024-11776)
+------------------------------------------------------------------------
+Disposición final tercera. Entrada en vigor.
+La presente ley entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+========== BOE-A-2023-12203 · a1-10
+Norma    : BOE-A-2023-12203
+Bloque   : a1-10  (Artículo 18)
+Fuente   : https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203
+Leído    : vigente hoy
+Redacciones: 1
+
+Cadena de redacciones (vigencia / publicación / norma que la introduce):
+  vig 20230526  pub 20230525  BOE-A-2023-12203
+
+REDACCIÓN APLICABLE, vigente hoy (vigencia 20230526, publicada 20230525, por BOE-A-2023-12203)
+------------------------------------------------------------------------
+Artículo 18. Declaración de zonas de mercado residencial tensionado.
+1. Las Administraciones competentes en materia de vivienda podrán declarar, de acuerdo con los criterios y procedimientos establecidos en su normativa reguladora y en el ámbito de sus respectivas competencias, zonas de mercado residencial tensionado a los efectos de orientar las actuaciones públicas en materia de vivienda en aquellos ámbitos territoriales en los que exista un especial riesgo de oferta insuficiente de vivienda para la población, en condiciones que la hagan asequible para su acceso en el mercado, de acuerdo con las diferentes necesidades territoriales.
+2. Sin perjuicio de lo anterior, y a los efectos de la aplicación de las medidas específicas contempladas en esta ley, la declaración de zonas de mercado residencial tensionado deberá realizarse por la Administración competente en materia de vivienda de conformidad con las siguientes reglas:
+a) La declaración deberá ir precedida de un procedimiento preparatorio dirigido a la obtención de información relacionada con la situación del mercado residencial en la zona, incluyendo los indicadores de los precios en alquiler y venta de diferentes tipos de viviendas y su evolución en el tiempo; los indicadores de nivel de renta disponible de los hogares residentes y su evolución en el tiempo que, junto con los precios de vivienda, permitan medir la evolución del esfuerzo económico que tienen que realizar los hogares para disponer de una vivienda digna y adecuada. A tal efecto, se podrá tener en cuenta en lo relativo a la distribución de los precios de venta, los ámbitos territoriales homogéneos de los mapas de valores de uso residencial que elabore la Dirección General del Catastro del Ministerio de Hacienda y Función Pública, en el marco de sus informes anuales del mercado inmobiliario, de conformidad con la disposición final tercera del texto refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo.
+b) La declaración de un ámbito territorial como zona de mercado residencial tensionado implicará la realización de un trámite de información en el que deberá ponerse a disposición pública la información sobre la que se basa tal declaración, incluyendo los estudios de distribución espacial de la población y hogares, su estructura y dinámica, así como la zonificación por oferta, precios y tipos de viviendas, o cualquier otro estudio que permita evidenciar o prevenir desequilibrios y procesos de segregación socio espacial en detrimento de la cohesión social y territorial.
+c) La resolución del procedimiento de delimitación por parte de la Administración competente en materia de vivienda deberá motivarse en deficiencias o insuficiencias del mercado de vivienda en la zona, en cualquiera de sus modalidades, para atender adecuadamente la demanda de vivienda habitual y, en todo caso, a precio razonable según la situación socioeconómica de la población residente y las dinámicas demográficas, así como las particularidades y características de cada ámbito territorial. La referida resolución deberá ser comunicada a la Secretaría General de Agenda Urbana y Vivienda del Ministerio de Transportes, Movilidad y Agenda Urbana.
+d) La vigencia de la declaración de un ámbito territorial como zona de mercado residencial tensionado será de tres años, pudiendo prorrogarse anualmente siguiendo el mismo procedimiento, cuando subsistan las circunstancias que motivaron tal declaración y previa justificación de las medidas y acciones públicas adoptadas para revertir o mejorar la situación desde la anterior declaración. Para la aplicación de las medidas contenidas en esta ley, con carácter trimestral el Ministerio de Transportes, Movilidad y Agenda Urbana aprobará una resolución que recoja la relación de zonas de mercado residencial tensionado que hayan sido declaradas en virtud del procedimiento establecido en este artículo.
+3. La declaración de una zona de mercado residencial tensionado establecida en el apartado anterior requerirá la elaboración de una memoria que justifique, a través de datos objetivos y fundamentada en la existencia de un especial riesgo de abastecimiento insuficiente de vivienda para la población residente, incluyendo las dinámicas de formación de nuevos hogares, en condiciones que la hagan asequible, por producirse una de las circunstancias siguientes:
+a) Que la carga media del coste de la hipoteca o del alquiler en el presupuesto personal o de la unidad de convivencia, más los gastos y suministros básicos, supere el treinta por ciento de los ingresos medios o de la renta media de los hogares.
+b) Que el precio de compra o alquiler de la vivienda haya experimentado en los cinco años anteriores a la declaración como área de mercado de vivienda tensionado, un porcentaje de crecimiento acumulado al menos tres puntos porcentuales superior al porcentaje de crecimiento acumulado del índice de precios de consumo de la comunidad autónoma correspondiente.
+4. La declaración, de acuerdo con este procedimiento, de un ámbito territorial como zona de mercado residencial tensionado conllevará la redacción, por parte de la Administración competente, de un plan específico que propondrá las medidas necesarias para la corrección de los desequilibrios evidenciados en su declaración, así como su calendario de desarrollo.
+5. El Departamento Ministerial competente en materia de vivienda, en el marco del ejercicio de las competencias estatales, podrá desarrollar, de acuerdo con la administración territorial competente, un programa específico para dichas zonas de mercado residencial tensionado, que contemplará la diversidad territorial, tanto en entornos urbanos o metropolitanos como en zonas rurales, que modificará o se anexará al plan estatal de vivienda vigente, y habilitará al Estado para:
+a) Promover fórmulas de colaboración con las administraciones competentes y con el sector privado para estimular la oferta de vivienda asequible en dicho ámbito y en su entorno.
+b) El diseño y adopción de medidas de financiación específicas para ese ámbito territorial que pudieran favorecer la contención o reducción de los precios de alquiler o venta.
+c) El establecimiento de medidas o ayudas públicas específicas adicionales dentro del plan estatal de vivienda vigente, de acuerdo con las previsiones que en su caso éste establezca.
+6. La aplicación del programa establecido en el apartado anterior podrá implicar la adopción de medidas en el seno de la Comisión de Coordinación Financiera de Actuaciones Inmobiliarias y Patrimoniales, encaminadas a favorecer el incremento de la oferta de vivienda social y asequible incentivada conforme a lo establecido en la disposición adicional segunda de esta ley.
+

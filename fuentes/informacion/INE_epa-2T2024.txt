@@ -1,0 +1,444 @@
+INE — nota de prensa de la Encuesta de Población Activa, segundo trimestre de 2024
+https://www.ine.es/dyngs/Prensa/es/EPA2T24.htm
+Leída el 2 de septiembre de 2026.
+
+Publicada el 26 de julio de 2024. Sostiene la tasa de paro del trimestre, que NO
+es la que da por buena la plantilla oficial: el INE dice 11,27 % y la plantilla,
+11,4 %. Va razonado en el tema.
+
+Se recorta la navegación del portal y se conserva el cuerpo.
+
+Nota de Prensa: Encuesta de población activa (EPA). Segundo trimestre 2024.
+English
+26 de julio de 2024
+Encuesta de población activa (EPA)
+Segundo trimestre 2024
+Principales resultados
+El número de ocupados aumentó en 434.700 personas respecto al trimestre anterior y se situó en 21.684.700. En términos desestacionalizados la tasa trimestral fue del 0,37%. El empleo creció en 426.300 personas en los 12 últimos meses.
+El paro bajó en 222.600 personas, hasta 2.755.300. En términos desestacionalizados aumentó un 1,15%. En los 12 últimos meses disminuyó en 52.900 personas.
+La tasa de paro fue del 11,27% este trimestre, 1,02 puntos menos que en el anterior.
+El número de activos subió en 212.100, hasta 24.440.000. En el último año se incrementó en 373.300 personas.
+Más información
+Anexo de tablas
+ (incluye información de CCAA y provincias), 
+ condiciones de trabajo
+ y 
+categorías especiales de inactivos
+Resultados detallados
+ y 
+módulos especiales
+. 
+Vídeos
+ e 
+infografías
+Resultados de la Estadística de Flujos de la población activa
+El número de ocupados aumentó en 434.700 personas en el segundo trimestre de 2024 y se situó en 21.684.700. La tasa de variación trimestral fue del 2,05%.
+Variación de la ocupación en el segundo trimestre respecto al primero del mismo año
+Miles de personas
+Miles de personas
+"}' class="data noDividirP">
+{
+ "mode": "chart",
+ "type": "barrasprensa",
+ "width": "170mm",
+ "height": "60mm",
+ "legend": false,
+ "valueAxis": false,
+ "tags": true,
+ "series": [
+ { "label": "Variación (Miles de personas)" }
+ ],
+ "ticks": [
+ "2015 T2",
+ "2016 T2",
+ "2017 T2",
+ "2018 T2",
+ "2019 T2",
+ "2020 T2",
+ "2021 T2",
+ "2022 T2",
+ "2023 T2",
+ "2024 T2"
+ ],
+ "values": [
+ [
+ "411.8",
+ "271.4",
+ "375.0",
+ "469.9",
+ "333.8",
+ "-1074.0",
+ "476.5",
+ "410.5",
+ "624.2",
+ "434.7"
+ ]
+ ],
+ "ratioMargen": 0.2,
+ "angleTick": "0",
+ "angleTag": "0",
+ "fillToZero": true,
+ "colors": [
+ "#457E76",
+ "#A45C0A",
+ "#0071AD",
+ "#756F0F",
+ "#C33C9D",
+ "#677746"
+ ],
+ "config": {
+ "marcaTick": {
+ "color": "#9e1834",
+ "value": "2024 T2"
+ }
+ }
+}
+Por sexo, el empleo creció este trimestre en 202.600 hombres y en 232.100 mujeres. Por nacionalidad, lo hizo en 304.900 personas en los españoles –incluye doble nacionalidad– y en 129.700 en los extranjeros.
+La ocupación subió este segundo trimestre en todos los sectores: 
+Servicios
+ (304.000 más), 
+Industria
+ (63.400), 
+Construcción
+ (61.100) y 
+Agricultura
+ (6.100).
+El empleo a tiempo completo se incrementó en 433.500 personas. El de tiempo parcial prácticamente no varió (1.200 más). Por su parte, el número de asalariados aumentó en 377.100 –los que tenían contrato indefinido lo hicieron en 272.000 y los de contrato temporal en 105.100–. El número de trabajadores por cuenta propia creció en 58.300 personas.
+El empleo privado subió este trimestre en 427.800 personas, hasta 18.126.800. Y el empleo público en 6.900, hasta 3.557.900.
+En los 12 últimos meses el empleo aumentó en 426.300 personas, un 2,01%, (con incrementos de 254.300 mujeres y 172.000 hombres). Por sectores, el mayor aumento se dio en los 
+Servicios
+ (207.900 ocupados más).
+El empleo a tiempo completo se incrementó en 359.900 personas en los 12 últimos meses y el empleo a tiempo parcial en 66.400. Por su parte, el empleo indefinido creció en 649.300 personas, mientras que el temporal bajó en 207.100.
+Desempleo y tasa de paro
+El número de parados disminuyó este trimestre en 222.600 personas, hasta 2.755.300. La variación trimestral del desempleo fue del -7,47%.
+Variación del paro en el segundo trimestre respecto al primero del mismo año
+Miles de personas
+Miles de personas
+"}' class="data noDividirP">
+{
+ "mode": "chart",
+ "type": "barrasprensa",
+ "width": "170mm",
+ "height": "60mm",
+ "legend": false,
+ "valueAxis": false,
+ "tags": true,
+ "series": [
+ { "label": "Variación (Miles de personas)" }
+ ],
+ "ticks": [
+ "2015 T2",
+ "2016 T2",
+ "2017 T2",
+ "2018 T2",
+ "2019 T2",
+ "2020 T2",
+ "2021 T2",
+ "2022 T2",
+ "2023 T2",
+ "2024 T2"
+ ],
+ "values": [
+ [
+ "-295.6",
+ "-216.7",
+ "-340.7",
+ "-306.0",
+ "-123.6",
+ "55.0",
+ "-117.0",
+ "-220.0",
+ "-378.1",
+ "-222.6"
+ ]
+ ],
+ "ratioMargen": 0.1,
+ "angleTick": "0",
+ "angleTag": "0",
+ "fillToZero": true,
+ "colors": [
+ "#457E76",
+ "#A45C0A",
+ "#0071AD",
+ "#756F0F",
+ "#C33C9D",
+ "#677746"
+ ],
+ "config": {
+ "marcaTick": {
+ "color": "#9e1834",
+ "value": "2024 T2"
+ }
+ }
+}
+La tasa de paro se redujo 1,02 puntos y se situó en el 11,27%.
+Por sexo, el número de hombres en paro disminuyó en 109.200 y el de mujeres en 113.400. La tasa de paro femenina descendió 1,12 puntos –hasta el 12,61%– y la masculina en 93 centésimas –hasta el 10,08%–.
+Por nacionalidad, el paro bajó entre los españoles en 166.900 y entre los extranjeros en 55.700.
+Por sectores, el desempleo se redujo este trimestre en todos los sectores: 
+Servicios
+ (190.500 menos), 
+Construcción
+ (-12.900), 
+Industria
+ (-9.300) y 
+Agricultura
+ (-7.300).
+El paro descendió en 17.600 entre los que perdieron su empleo hace más de un año y aumentó en 14.900 entre las personas que buscan su primer empleo.
+En los 12 últimos meses la cifra total de desempleados disminuyó en 52.900 personas (7.500 hombres y 45.400 mujeres menos). La variación anual fue del -1,88%.
+El desempleo disminuyó en el último año en los sectores de 
+Agricultura
+ (-12.400) e 
+Industria
+ (-8.400), y prácticamente no varió en 
+Servicios
+ y 
+Construcción
+ (-200 en cada uno). Por su parte, el número de parados que perdieron su empleo hace más de un año bajó en 21.000 y el de parados que buscan su primer empleo en 10.600.
+Población activa y tasa de actividad
+La población activa creció en 212.100 personas en el segundo trimestre y se situó en 24.440.000. El número de mujeres activas subió en 118.700 y el de hombres en 93.400.
+Por nacionalidad, el número de activos aumentó en el último trimestre en 138.100 entre los españoles y en 74.100 entre los extranjeros.
+La tasa de actividad subió 27 centésimas, hasta el 58,90%. La de los españoles se incrementó en 23 centésimas, hasta el 57,26%, y la de los extranjeros en 41 centésimas, hasta el 69,43%. La diferencia entre ambas se debe, fundamentalmente, a la diferente estructura por edades.
+En términos anuales, la población activa creció en 373.300 personas. La tasa de variación anual fue del 1,55%.
+Hogares
+Los hogares con todos sus miembros activos en paro descendieron en 109.600, hasta 868.300. Por su parte, los que tenían a todos sus miembros activos ocupados se incrementaron en 220.800 y se situaron en 11.765.800.
+En los 12 últimos meses el número de hogares con al menos un activo en los que todos los activos estaban en paro se redujo en 50.500, mientras que los que tenían a todos sus activos ocupados aumentó en 211.600.
+Resultados por comunidades autónomas y datos provinciales
+El mayor incremento de empleo este trimestre se dio en Andalucía (101.200 más). Y el mayor descenso en Cantabria (-3.000).
+En términos relativos, el mayor aumento trimestral se dio en Illes Balears (16,43%).
+En cuanto al paro, la mayor bajada se registró en Andalucía (-54.100). Y el mayor incremento en Cantabria (2.600 más).
+Comunidad Foral de Navarra (7,42%) registró la tasa de paro más baja este trimestre. Andalucía (16,27%), la más elevada.
+A nivel provincial, se puede acceder a un resumen de resultados en este 
+documento
+ y a toda la información disponible desde este 
+enlace.
+Series desestacionalizadas
+La tasa de variación trimestral del empleo en términos desestacionalizados fue del 0,37%.
+Tasa de variación trimestral de la ocupación desestacionalizada
+Porcentaje
+Porcentaje
+"}' class="data noDividirP">
+{
+ "mode": "chart",
+ "type": "barrasprensa",
+ "width": "170mm",
+ "height": "70mm",
+ "legend": false,
+ "valueAxis": false,
+ "tags": true,
+ "series": [
+ { 
+ "label": "Tasa de variación trimestral (%)" 
+ }
+ ],
+ "ticks": [
+ "2018 T3",
+ "2018 T4",
+ "2019 T1",
+ "2019 T2",
+ "2019 T3",
+ "2019 T4",
+ "2020 T1",
+ "2020 T2",
+ "2020 T3",
+ "2020 T4",
+ "2021 T1",
+ "2021 T2",
+ "2021 T3",
+ "2021 T4",
+ "2022 T1",
+ "2022 T2",
+ "2022 T3",
+ "2022 T4",
+ "2023 T1",
+ "2023 T2",
+ "2023 T3",
+ "2023 T4",
+ "2024 T1",
+ "2024 T2"
+ ],
+ "values": [
+ [
+ "0.56",
+ "0.71",
+ "0.82",
+ "0.27",
+ "-0.03",
+ "0.96",
+ "-0.09",
+ "-6.82",
+ "2.63",
+ "1.41",
+ "0.82",
+ "0.97",
+ "1.54",
+ "1.46",
+ "0.89",
+ "0.47",
+ "0.34",
+ "0.20",
+ "1.16",
+ "1.35",
+ "0.60",
+ "0.50",
+ "0.51",
+ "0.37"
+ ]
+ ],
+ "ratioMargen": 0.2,
+ "angleTick": "270",
+ "angleTag": "0",
+ "fillToZero": true,
+ "colors": [
+ "#457E76",
+ "#A45C0A",
+ "#0071AD",
+ "#756F0F",
+ "#C33C9D",
+ "#677746"
+ ],
+ "config": {
+ "marcaTick": {
+ "color": "#9e1834",
+ "value": "2024 T2"
+ }
+ }
+}
+En cuanto a los resultados desestacionalizados de paro, se observó un crecimiento del 1,15%.
+Tasa de variación trimestral del paro desestacionalizado
+Porcentaje
+Porcentaje
+"}' class="data noDividirP">
+{
+ "mode": "chart",
+ "type": "barrasprensa",
+ "width": "170mm",
+ "height": "70mm",
+ "legend": false,
+ "valueAxis": false,
+ "tags": true,
+ "series": [
+ { 
+ "label": "Tasa de variación trimestral (%)" 
+ }
+ ],
+ "ticks": [
+ "2018 T3",
+ "2018 T4",
+ "2019 T1",
+ "2019 T2",
+ "2019 T3",
+ "2019 T4",
+ "2020 T1",
+ "2020 T2",
+ "2020 T3",
+ "2020 T4",
+ "2021 T1",
+ "2021 T2",
+ "2021 T3",
+ "2021 T4",
+ "2022 T1",
+ "2022 T2",
+ "2022 T3",
+ "2022 T4",
+ "2023 T1",
+ "2023 T2",
+ "2023 T3",
+ "2023 T4",
+ "2024 T1",
+ "2024 T2"
+ ],
+ "values": [
+ [
+ "-3.16",
+ "-2.38",
+ "-1.92",
+ "-0.99",
+ "0.22",
+ "-0.48",
+ "1.73",
+ "2.85",
+ "10.76",
+ "-0.50",
+ "-1.79",
+ "-0.98",
+ "-3.14",
+ "-10.50",
+ "-0.46",
+ "-0.83",
+ "-0.90",
+ "-0.31",
+ "-0.67",
+ "-3.28",
+ "-0.83",
+ "-1.69",
+ "-0.40",
+ "1.15"
+ ]
+ ],
+ "ratioMargen": 0.2,
+ "angleTick": "270",
+ "angleTag": "0",
+ "fillToZero": true,
+ "colors": [
+ "#457E76",
+ "#A45C0A",
+ "#0071AD",
+ "#756F0F",
+ "#C33C9D",
+ "#677746"
+ ],
+ "config": {
+ "marcaTick": {
+ "color": "#9e1834",
+ "value": "2024 T2"
+ }
+ }
+}
+El modelo de desestacionalización y las series de empleo y paro figuran en este 
+enlace.
+Revisiones y actualización de datos
+Los datos publicados hoy son definitivos. Todos los resultados de esta operación están disponibles en 
+INEBase.
+Nota metodológica
+La Encuesta de Población Activa (EPA) se realiza desde 1964. Su metodología vigente −de 2021−adapta la anterior a la nueva normativa de la Encuesta Europea de Fuerza de Trabajo.
+Se trata de una investigación continua y de periodicidad trimestral dirigida a las familias, cuya finalidad principal es obtener datos de la fuerza de trabajo y de sus diversas categorías (ocupados, parados), así como de la población ajena al mercado laboral (inactivos).
+A partir del tercer trimestre de 2009 se integra en la encuesta una muestra adicional en Galicia que recoge el Instituto Galego de Estatistica (IGE) utilizando el mismo sistema de trabajo de campo e idéntica metodología que el INE.
+Tipo de operación:
+continua de periodicidad mensual.
+Ámbito poblacional:
+población que reside en viviendas familiares.
+Ámbito geográfico:
+todo el territorio nacional.
+Periodo de referencia de los resultados:
+el trimestre.
+Periodo de referencia de la información:
+la semana anterior a la entrevista.
+Tamaño muestral:
+El número de secciones censales es de 5.298 de las que 288 corresponden a la muestra adicional de Galicia. El promedio de viviendas seleccionadas por sección es de 14. Actualmente hay alrededor de 55.000 viviendas y 130.000 personas.
+Tipo de muestreo:
+bietápico con estratificación en las unidades de primera etapa, que son las secciones censales. Las unidades de segunda etapa son viviendas familiares habitadas.
+Método de recogida:
+entrevista personal, telefónica y vía web.
+Para más información se puede tener acceso a la 
+metodología
+ y al 
+informe metodológico estandarizado.
+Las estadísticas del INE se elaboran de acuerdo con el Código de Buenas Prácticas de las Estadísticas Europeas. Más información en 
+Calidad en el INE y Código de Buenas Prácticas.
+ Más información en 
+ Cuenta oficial del INE en 
+ @es_ine
+ Todas las notas de prensa en: 
+www.ine.es/prensa/prensa.htm
+ Gabinete de prensa: 
+91 583 93 63
+ / 
+661 944 540
+ / 
+678 168 837
+ – 
+gprensa@ine.es
+ Área de información: 
+91 583 91 00
+ – 
+www.ine.es/infoine/

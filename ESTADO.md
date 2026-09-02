@@ -871,3 +871,79 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   **FED**— van **dentro de una cita literal del artículo 146.3** y la ley **no las desarrolla**:
   se presentan **antes de la cita**, diciéndolo, porque meter el desarrollo entre las comillas
   habría sido reescribir la ley. El volumen general vuelve a salir con **254 páginas**.
+
+- **2026-09-02 · Un 403 no dice quién bloquea, y el Manual de Estilo de RTVE no estaba bloqueado.**
+  `convocatoria/FUENTES.md` daba por imposibles dos de los siete documentos del Anexo 2 de
+  Información y Contenidos. **Uno era un error de lectura del error**: el programa da la dirección
+  del manual en **`http://`**, y por ahí responde 403 —pero el 403 lo devuelve **la política de
+  salida de este entorno**, que solo deja pasar `https`, no el servidor de RTVE—. Con `https://`, la
+  misma dirección responde **200** y sirve el manual entero: **ocho páginas y unas 48.000 palabras**,
+  que contestan las nueve preguntas del examen sobre él. **Regla nueva: antes de escribir "no se ha
+  podido consultar", mirar el esquema de la dirección y quién firma la página de error.**
+
+- **2026-09-02 · El informe de la UNESCO sí está bloqueado, y ahora se sabe por qué.** `unesdoc` está
+  detrás de un **desafío de JavaScript de Cloudflare** —la página «Just a moment...»—, no de un
+  bloqueo del proxy. Cinco rutas probadas: el enlace del programa, el visor de documentos, el fichero
+  `.pdf.multi`, la consulta con agente y cabeceras completas de navegador, y **la navegación con
+  Chromium real**. Las cuatro primeras dan 403; la quinta **no llega a salir**, porque en este
+  entorno el navegador no atraviesa el proxy —falla con `ERR_CONNECTION_RESET` incluso contra sitios
+  que `curl` sí alcanza—. Lo que sí publica la UNESCO es **el sitio oficial del propio informe en
+  español**, con sus cuatro capítulos, y eso es lo que va, dicho en la cabecera de cada fichero.
+
+- **2026-09-02 · Cuando EUR-Lex devuelve 202 con cero bytes, el Cellar sirve el documento.** El
+  enlace del programa a la Resolución del Parlamento Europeo responde **202 Accepted y ningún byte**,
+  en PDF y en HTML, tres intentos seguidos. El repositorio **Cellar** de la Oficina de Publicaciones
+  sirve el mismo documento en `https://publications.europa.eu/resource/celex/<CELEX>` **si se le pide
+  el idioma en la cabecera**; sin ella devuelve un 400 que, eso sí, **dice qué falta**. Por ahí
+  salieron también la Directiva 2018/1808 y la Directiva 2010/13 consolidada.
+
+- **2026-09-02 · Una norma modificativa no se lee sola.** La Directiva 2018/1808 dice «el artículo 23
+  se sustituye por el texto siguiente». Lo que el examen pregunta —límites de publicidad, prohibición
+  del tabaco— **está en la Directiva 2010/13 tal como queda tras la reforma**, no en la modificativa.
+  Estudiar solo la modificativa obliga a **reconstruir la norma de cabeza**, que es lo que el
+  apartado 1 del manual prohíbe. Se guardan las dos.
+
+- **2026-09-02 · Faltaba entrar al BOE por el título, y era el caso más frecuente.** `boe.py` lee una
+  norma **cuando ya se conoce el identificador**; la API de sumarios da el boletín **cuando ya se
+  conoce la fecha**. **Entre las dos quedaba fuera lo normal en un temario de actualidad**: saber qué
+  se busca y no saber ni una cosa ni la otra. Nuevo `herramientas/boe_buscar.py`. Su formulario tiene
+  una trampa que **da cero resultados sin dar ningún error**: las **secciones son casillas**
+  (`dato[0][1]`…`dato[0][T]`) y van todas marcadas por defecto; si se manda la consulta sin ellas, el
+  buscador contesta «no se han encontrado documentos» —no «faltan campos»— y **una búsqueda que sí
+  tenía respuesta se anota como camino cerrado**.
+
+- **2026-09-02 · Una parte grande de la «actualidad» se publica en el BOE, y no lo parece.** Diez de
+  las quince respuestas que el tema 1 de Información y Contenidos ata al Boletín **no parecen
+  preguntas de derecho**: los **premios nacionales de cultura y de investigación** se conceden por
+  orden ministerial con el nombre del premiado y la motivación del jurado; **la supresión de un
+  premio**, también; los **nombramientos de ministros y de presidentes autonómicos**, por real
+  decreto; y la **lista de zonas de alquiler tensionado**, por resolución trimestral que la propia
+  Ley 12/2023 obliga a publicar. **El mapa queda escrito** en
+  `informes/cobertura-informacion-tema-01.md`, porque la próxima convocatoria preguntará por otros
+  premios publicados en el mismo sitio.
+
+- **2026-09-02 · Volcar un precepto no es volcar la norma.** `boe.py precepto` da el artículo y su
+  cadena de redacciones, que es lo que hace falta para estudiar; **no da el número del boletín ni la
+  fecha de publicación**. Y una de las preguntas de este tema es justamente **qué día se publicó la
+  ley de amnistía**. La lente de documento lo cazó como **cifra huérfana**: el «141» de «BOE núm. 141»
+  no estaba en ninguna fuente. Se añadieron las fichas de publicación.
+
+- **2026-09-02 · Una fuente estadística desmiente por primera vez a una plantilla oficial.** La
+  respuesta oficial da **11,4 %** de tasa de paro en el segundo trimestre de 2024; el **INE** publica
+  **11,27 %** en la nota de prensa de la EPA de ese trimestre. La sospecha se sometió al apartado 5
+  del manual y no se sostuvo: es el trimestre correcto, la cifra se comprueba sola —11,27 + 1,02 =
+  12,29, la del trimestre anterior— y el enunciado **no dice de quién es la tasa**. **El tema enseña
+  el dato del INE.** Las tres erratas de plantilla anotadas hasta ahora eran de derecho; ésta es la
+  primera de estadística.
+
+- **2026-09-02 · Un dato verdadero escrito de memoria dentro de un tema que presume de citar.** El
+  borrador del tema 1 afirmaba que «Amar es para siempre» continúa una serie anterior. **No salía de
+  ninguna fuente: salía de saberlo**, y ninguna de las cuatro lentes lo habría cogido —no era una
+  negrita ni una sigla—. Lo cogió **una comprobación hecha a propósito**: cada fragmento entre
+  comillas del tema, buscado en el texto completo de las fuentes **y de los propios cuadernillos**.
+  Esa comprobación queda como parte del ciclo de los temas sin norma.
+
+- **2026-09-02 · Escrito el tema 1 del específico de Información y Contenidos.** **121 preguntas**,
+  el punto más preguntado de todo el proyecto. **20 verificadas** —quince en el BOE, cinco en la
+  fuente oficial, tres de ellas sólo en parte— y **101 apoyadas sólo en la plantilla**, listadas una
+  a una. Con su esquema y sus dos informes.
