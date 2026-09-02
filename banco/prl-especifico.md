@@ -1,6 +1,6 @@
 # PRL específico · Prevención en el temario específico (Producción 18 · Documentación 7 · Información y Contenidos 11)
 
-30 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+31 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -279,6 +279,25 @@ c)
 Los que se producen dentro del centro de trabajo.
 d)
 Los que se producen a menos de 30 kilómetros del centro de trabajo.
+```
+
+---
+
+**46_preguntas_iyc_radio_clasica · nº 102 · respuesta: d**
+
+```
+102.-
+La iluminación de los lugares de trabajo deberá permitir que:
+a)
+Los trabajadores puedan hablar por teléfono.
+b)
+Los trabajadores puedan utilizar los equipos que tienen cerca.
+c)
+Los trabajadores puedan leer.
+d)
+Los trabajadores dispongan de condiciones de visibilidad adecuadas para poder
+circular por los mismos y desarrollar en ellos sus actividades sin riesgo para su
+seguridad y salud.
 ```
 
 ---

@@ -1,0 +1,254 @@
+# Reparto a mano de las preguntas del bloque específico de INFORMACIÓN Y
+# CONTENIDOS.
+#
+# Cuadernillos de la ocupación, los cuatro que hay en `convocatoria/examenes`:
+#
+#   · `31_preguntas_iyc`                   119 preguntas, plantilla completa
+#   · `33_preguntas_iyc_2_llamamiento`     118 preguntas, plantilla completa
+#   · `35_preguntas_iyc_prueba_invalidada_por_filtracion`   sin preguntas
+#   · `46_preguntas_iyc_radio_clasica`     123 preguntas, plantilla completa
+#
+# El 35 no aporta nada: el PDF de la prueba anulada por filtración se guardó,
+# pero el texto que se extrae de él son 880 bytes de marca de agua y ni una
+# sola pregunta. No es un descarte, es que no hay qué descartar.
+#
+# El 46 sí se descarta, y conviene decir por qué con la cuenta delante. Es el
+# cuadernillo de los destinos de *Información y Contenidos (Radio Clásica)*,
+# cuyo Anexo 2 no está en el repositorio, y su bloque específico son 97
+# preguntas de teoría de la música y repertorio —cadencia plagal, Cancionero
+# de Upsala, séptima de dominante— que no responden a ningún punto del temario
+# que sí tenemos. La comprobación decisiva: de los siete documentos que el
+# Anexo 2 nombra con su enlace (Manual de Estilo, Código de autorregulación,
+# RDL 4/2018, Directiva 2018/1808, Resolución del Parlamento Europeo de
+# 25/11/2020, Informe UNESCO y Carta ética de la FIP), el 46 no pregunta por
+# **ninguno**, ni una vez; los cuadernillos 31 y 33 preguntan por cinco de los
+# siete. Meter esas 97 preguntas aquí sería llenar los temas de este bloque
+# con la materia de otro. Sus preguntas del bloque **común** sí valen y ya
+# están en `banco/g*.md`, y la 102 —iluminación de los lugares de trabajo— se
+# manda al banco de prevención por `reclasificadas.tsv`.
+#
+# Quedan, pues, los cuadernillos 31 y 33: 180 preguntas fuera del bloque
+# común, de las que 178 se reparten aquí y 2 vuelven al banco general por
+# `reclasificadas.tsv` (la 82 del 31, sobre el Comité Intercentros, y la 97
+# del 33, sobre el complemento de disponibilidad: las dos son del III Convenio
+# Colectivo, que es materia del tema 5 del temario general).
+#
+# El reparto se ha hecho leyendo las 180 una a una con su respuesta oficial
+# delante. La regla que lo ordena, porque los tres primeros puntos del temario
+# se solapan si no se fija:
+#
+#   · si la pregunta se contesta sabiendo **qué es, cómo funciona, quién la
+#     compone o dónde tiene su sede** una institución, va al tema de esa
+#     institución: 02 si es de la Unión Europea, 03 si es un poder o una
+#     institución del Estado o un organismo internacional;
+#   · si se contesta sabiendo **qué pasó** —un premio, un resultado, una cifra,
+#     una fecha, un nombramiento noticioso—, va al 01;
+#   · y si la respuesta está en uno de los siete documentos del Anexo 2, va a
+#     su tema, aunque la pregunta parezca de actualidad.
+#
+# Lo que sale de ahí, y hay que decirlo porque marca el trabajo del bloque:
+#
+#   tema 01 actualidad ....................... 121 preguntas
+#   tema 02 Unión Europea .....................  17
+#   tema 03 instituciones del Estado e int. ...  21
+#   tema 04 Código de autorregulación .........   2
+#   tema 05 RDL 4/2018 ........................   0
+#   tema 06 Manual de Estilo ..................   9
+#   tema 07 Directiva 2018/1808 ...............   2
+#   tema 08 Resolución del Parlamento Europeo .   1
+#   tema 09 Informe UNESCO ....................   5
+#   tema 10 Carta ética de la FIP .............   0
+#
+# Dos temas del programa, el 05 y el 10, no tienen ni una pregunta en los dos
+# cuadernillos. Eso no los saca del temario —el examen siguiente puede
+# preguntarlos— pero sí dice que sus temas se escriben contra la norma y el
+# documento, sin banco que los respalde.
+#
+# tema: 01 actualidad · 02 Unión Europea · 03 instituciones y poderes del
+#       Estado, organismos internacionales · 04 Código de autorregulación ·
+#       05 RDL 4/2018 · 06 Manual de Estilo · 07 Directiva 2018/1808 ·
+#       08 Resolución del Parlamento Europeo · 09 Informe UNESCO ·
+#       10 Carta ética de la FIP
+#
+# Una fila con `*` en el número saca del banco el cuadernillo entero.
+#
+origen	nº	tema	motivo
+46_preguntas_iyc_radio_clasica	*	fuera	Cuadernillo de Radio Clásica: 97 preguntas de música y ninguna de los siete documentos del Anexo 2
+31_preguntas_iyc	1	01	Premio Nacional de Poesía 2024: cultura del año
+31_preguntas_iyc	2	01	Propósitos de Javier Milei en Argentina: política internacional
+31_preguntas_iyc	7	09	Condiciones para que el periodismo funcione como bien común: Informe UNESCO
+31_preguntas_iyc	8	01	Municipios de mayor relevancia turística según Exceltur: economía
+31_preguntas_iyc	9	01	Apoyos de la investidura de Illa como president de la Generalitat
+31_preguntas_iyc	10	01	Países firmantes de los Acuerdos de Abraham
+31_preguntas_iyc	11	01	Premio Nacional de Fotografía 2023
+31_preguntas_iyc	12	01	Apodo de la selección española femenina de balonmano: deportes
+31_preguntas_iyc	13	01	Springfield en el debate entre Trump y Harris
+31_preguntas_iyc	14	01	Última novela de Juan Tallón
+31_preguntas_iyc	15	01	Animales excluidos de la Ley de protección y bienestar animal
+31_preguntas_iyc	16	01	Libro del Premio Cervantes 2023
+31_preguntas_iyc	17	01	Año en que empieza a emitir el Canal 24 horas de RTVE
+31_preguntas_iyc	18	03	Presidencia de la Junta de Castilla y León: institución autonómica
+31_preguntas_iyc	19	01	Moneda oficial de la Federación Rusa
+31_preguntas_iyc	20	04	Franjas de protección reforzada de lunes a viernes: Código de autorregulación
+31_preguntas_iyc	21	06	Participación de la ciudadanía en los Medios Interactivos: Manual de Estilo
+31_preguntas_iyc	22	01	Gran Premio Especial del Jurado de Venecia 2024
+31_preguntas_iyc	23	03	Titular del cargo de lehendakari: institución autonómica
+31_preguntas_iyc	25	01	Países que forman la región del Magreb
+31_preguntas_iyc	26	03	Mayoría con la que se otorga la confianza al presidente del Gobierno
+31_preguntas_iyc	27	01	Mejores ciudades del mundo según Brand Finance City Index
+31_preguntas_iyc	28	06	Captar imágenes en lugares de uso público: Manual de Estilo
+31_preguntas_iyc	29	01	Canción más escuchada del verano en España según Spotify
+31_preguntas_iyc	31	01	A quién apoyó Kamala Harris en las primarias demócratas de 2008
+31_preguntas_iyc	32	01	El movimiento «realfooder» y la denuncia del Ministerio de Consumo
+31_preguntas_iyc	33	01	Equipos andaluces en Primera División 2024/25
+31_preguntas_iyc	34	03	Qué es la UNRWA: organismo de Naciones Unidas
+31_preguntas_iyc	35	01	Año del fallecimiento de Benedicto XVI
+31_preguntas_iyc	38	01	Victoria de AfD en Turingia: política internacional
+31_preguntas_iyc	39	01	Publicación en el BOE y entrada en vigor de la Ley de amnistía
+31_preguntas_iyc	42	01	Hitos de la misión Polaris Dawn
+31_preguntas_iyc	46	06	Uso de micrófonos ocultos: Manual de Estilo
+31_preguntas_iyc	47	01	Primer ministro de Portugal
+31_preguntas_iyc	48	01	Estado en que Trump fue tiroteado durante la campaña
+31_preguntas_iyc	49	01	Causa oficial de la muerte de Alexéi Navalni
+31_preguntas_iyc	50	02	Nacionalidad de Roberta Metsola, presidenta del Parlamento Europeo
+31_preguntas_iyc	52	01	Premio Donostia del Festival de San Sebastián 2024
+31_preguntas_iyc	54	03	Desde cuándo está en funciones un gobierno
+31_preguntas_iyc	55	01	Representante de España en Eurovisión Junior
+31_preguntas_iyc	56	01	Migrantes atendidos en El Hierro en 2023
+31_preguntas_iyc	57	04	Horario legal de protección del menor: Código de autorregulación
+31_preguntas_iyc	58	01	Llamadas diarias al 016 entre enero y junio
+31_preguntas_iyc	59	01	Por qué no pudo presentarse María Corina Machado
+31_preguntas_iyc	60	01	Fecha del ataque de Hamás contra Israel
+31_preguntas_iyc	61	01	Medallas de España en los Juegos Paralímpicos de París
+31_preguntas_iyc	63	01	Contra qué es eficaz el uso de antibióticos
+31_preguntas_iyc	64	01	Deportista española que abandonó París 2024 por lesión
+31_preguntas_iyc	65	03	Requisito para proponer una moción de censura al Gobierno
+31_preguntas_iyc	66	01	Fallo informático de julio de 2024 con incidencias mundiales
+31_preguntas_iyc	67	03	Países fundadores del MERCOSUR: organismo internacional
+31_preguntas_iyc	68	01	Organizadores del Mundial de Fútbol de 2030
+31_preguntas_iyc	70	01	Entrenadora de la selección española femenina de fútbol
+31_preguntas_iyc	71	01	Comunidades con zonas de mercado residencial tensionado
+31_preguntas_iyc	72	01	Último libro póstumo de Gabriel García Márquez
+31_preguntas_iyc	73	03	A quién juzga la Corte Penal Internacional
+31_preguntas_iyc	74	01	Partido que más creció en escaños en el Parlament
+31_preguntas_iyc	75	01	Ciudad de salida de La Vuelta a España 2024
+31_preguntas_iyc	76	01	Óscar al mejor guion original de 2024
+31_preguntas_iyc	77	01	Tasa de paro del segundo trimestre de 2024
+31_preguntas_iyc	78	01	Principales problemas de España según el barómetro del CIS
+31_preguntas_iyc	79	03	Convenio de Estambul: instrumento del Consejo de Europa
+31_preguntas_iyc	80	02	Año de la firma del Tratado de Adhesión de España a la CEE
+31_preguntas_iyc	81	01	Dirección de la Compañía Nacional de Danza
+31_preguntas_iyc	83	02	Aranceles de la Unión Europea a los vehículos eléctricos chinos
+31_preguntas_iyc	84	01	Presidente de El Salvador
+31_preguntas_iyc	86	01	Muerte de Paul Auster, autor de «Leviatán»
+31_preguntas_iyc	87	03	Quién decide el despliegue de una misión de paz de la ONU
+31_preguntas_iyc	89	08	Consideración ajena a la Resolución del Parlamento Europeo de 25/11/2020
+31_preguntas_iyc	90	02	Bajadas de tipos de interés del Banco Central Europeo
+31_preguntas_iyc	91	03	Fecha de la proclamación de Felipe VI: la Corona
+31_preguntas_iyc	92	06	Retirar la palabra a un oyente que insulta: Manual de Estilo
+31_preguntas_iyc	93	01	Balance de temporada TV 23-24 de Barlovento: consumo de televisión
+31_preguntas_iyc	94	01	Índice bursátil en el que cotiza Ferrovial desde mayo de 2024
+31_preguntas_iyc	95	01	Primer invitado de «La Revuelta»
+31_preguntas_iyc	96	01	Comienzo y partes en conflicto de la guerra de Yemen
+31_preguntas_iyc	97	01	Director español con León de Oro en Venecia además de Almodóvar
+31_preguntas_iyc	98	01	País que denunció a Israel por genocidio ante la Corte Internacional de Justicia
+31_preguntas_iyc	99	01	Quién dirige la Real Academia Española
+31_preguntas_iyc	100	01	Metales de las dos medallas de María Pérez en París
+31_preguntas_iyc	102	01	Premio Princesa de Asturias de los Deportes 2024
+31_preguntas_iyc	104	02	Estados miembros de la UE que no pertenecen al espacio Schengen
+31_preguntas_iyc	105	01	Única película en catalán número 1 en taquilla en más de quince años
+31_preguntas_iyc	106	01	Primera sentencia condenatoria por insultos racistas en un estadio
+31_preguntas_iyc	107	01	Presidencia de la agencia Magnum Photos
+31_preguntas_iyc	109	01	Único paso fronterizo entre la Franja de Gaza y Egipto
+31_preguntas_iyc	110	01	Puerto de llegada de la mayoría de migrantes a El Hierro
+31_preguntas_iyc	112	01	Renuncia de Felipe VI a la herencia de su padre
+31_preguntas_iyc	113	02	Ciudad del Consejo Europeo extraordinario de octubre de 2023
+31_preguntas_iyc	115	06	Qué debe evitarse en un in situ: Manual de Estilo
+31_preguntas_iyc	116	01	Hasta cuándo ejercerá Zelenski la presidencia de Ucrania
+31_preguntas_iyc	117	07	Publicidad prohibida por la Directiva 2018/1808
+31_preguntas_iyc	119	01	Primera comunidad autónoma que declaró zonas tensionadas
+33_preguntas_iyc_2_llamamiento	1	01	Las diez tecnologías emergentes de 2024 del Foro Económico Mundial
+33_preguntas_iyc_2_llamamiento	3	01	Partidos que forman el Gobierno de coalición
+33_preguntas_iyc_2_llamamiento	6	03	Ministerio al que se adscriben el CIS y la Agencia Estatal BOE
+33_preguntas_iyc_2_llamamiento	7	01	Récord de los ochenta y dos cuatromiles de los Alpes
+33_preguntas_iyc_2_llamamiento	8	01	Única actriz española que ha ganado un Óscar
+33_preguntas_iyc_2_llamamiento	9	03	Presidencia del Tribunal Supremo: poder judicial
+33_preguntas_iyc_2_llamamiento	10	01	Comisión que tutela la Real Federación Española de Fútbol
+33_preguntas_iyc_2_llamamiento	11	01	Equipo en el que entrenaba Hansi Flick antes del Barça
+33_preguntas_iyc_2_llamamiento	12	06	Cómo no deben ser los rótulos de los informativos: Manual de Estilo
+33_preguntas_iyc_2_llamamiento	14	01	Día y ciudad del regreso de Carles Puigdemont
+33_preguntas_iyc_2_llamamiento	16	09	Primer gran reto del periodismo mundial: Informe UNESCO
+33_preguntas_iyc_2_llamamiento	17	06	La intimidad de los famosos: Manual de Estilo
+33_preguntas_iyc_2_llamamiento	18	01	Canción de Celine Dion en la inauguración de los Juegos
+33_preguntas_iyc_2_llamamiento	19	01	Conciertos de Bruce Springsteen en España en 2024
+33_preguntas_iyc_2_llamamiento	20	01	Premio Nacional de Periodismo Cultural 2024
+33_preguntas_iyc_2_llamamiento	21	02	Partido más votado en España en las elecciones al Parlamento Europeo
+33_preguntas_iyc_2_llamamiento	22	01	Presidente del Estado de Israel
+33_preguntas_iyc_2_llamamiento	23	01	Campeón de la Liga Femenina Endesa 2023/24
+33_preguntas_iyc_2_llamamiento	25	03	Sede del Organismo Internacional de la Energía Atómica
+33_preguntas_iyc_2_llamamiento	26	01	Propuestas del plan de paz de China y Brasil para Ucrania
+33_preguntas_iyc_2_llamamiento	27	01	Serie más longeva de la televisión en España
+33_preguntas_iyc_2_llamamiento	28	01	Producto agroalimentario del que España fue primer exportador mundial
+33_preguntas_iyc_2_llamamiento	29	01	Municipio gaditano donde murieron dos guardias civiles
+33_preguntas_iyc_2_llamamiento	30	01	País con el que Meloni pactó el traslado de migrantes
+33_preguntas_iyc_2_llamamiento	31	02	Europarlamentarios elegidos por España
+33_preguntas_iyc_2_llamamiento	33	03	Jefatura de la Casa de Su Majestad el Rey
+33_preguntas_iyc_2_llamamiento	34	01	Supuestos excluidos de la Ley de amnistía
+33_preguntas_iyc_2_llamamiento	39	09	Regiones donde aumentaron los asesinatos de periodistas: Informe UNESCO
+33_preguntas_iyc_2_llamamiento	40	01	Condena impuesta a Daniel Sancho en Tailandia
+33_preguntas_iyc_2_llamamiento	41	01	Premios que promueven valores científicos y humanísticos en España
+33_preguntas_iyc_2_llamamiento	42	01	Ganadora de la UEFA Nations League femenina 2023/24
+33_preguntas_iyc_2_llamamiento	43	01	Obra ganadora y finalista del Premio Novela Café Gijón 2024
+33_preguntas_iyc_2_llamamiento	45	01	Qué es el «Proyecto Viena»
+33_preguntas_iyc_2_llamamiento	46	01	Premio Nacional de Tauromaquia 2024
+33_preguntas_iyc_2_llamamiento	47	03	Presidencia de la Mesa del Congreso de los Diputados
+33_preguntas_iyc_2_llamamiento	49	01	Deuda de las Administraciones Públicas según el Banco de España
+33_preguntas_iyc_2_llamamiento	50	01	Premio Emmy 2024 al mejor actor en una serie de comedia
+33_preguntas_iyc_2_llamamiento	51	06	Características de la información en RTVE.es: Manual de Estilo
+33_preguntas_iyc_2_llamamiento	52	01	Sede de la 4ª Conferencia sobre Financiación para el Desarrollo
+33_preguntas_iyc_2_llamamiento	53	02	Sustitución de Borrell como Alto Representante de la UE
+33_preguntas_iyc_2_llamamiento	54	02	Cartera propuesta para Teresa Ribera en la Comisión Europea
+33_preguntas_iyc_2_llamamiento	55	09	Empresas que reciben la mitad del gasto en publicidad digital: Informe UNESCO
+33_preguntas_iyc_2_llamamiento	56	02	Cabeza de lista de Sumar en las elecciones al Parlamento Europeo
+33_preguntas_iyc_2_llamamiento	58	03	Presidencia del Tribunal Europeo de Derechos Humanos
+33_preguntas_iyc_2_llamamiento	62	03	Qué es la FED, el banco central de los Estados Unidos
+33_preguntas_iyc_2_llamamiento	63	07	Límites de publicidad y televenta: Directiva 2018/1808
+33_preguntas_iyc_2_llamamiento	64	03	Último país en ingresar en la OTAN: ampliación de la Alianza
+33_preguntas_iyc_2_llamamiento	65	01	Años cumplidos por el programa «En Portada» de TVE
+33_preguntas_iyc_2_llamamiento	66	01	Delegación con más medallas en los Juegos Paralímpicos de París
+33_preguntas_iyc_2_llamamiento	67	01	Dónde suele entregarse el Premio Cervantes
+33_preguntas_iyc_2_llamamiento	71	01	Nuevo single de Nebulossa tras Eurovisión
+33_preguntas_iyc_2_llamamiento	72	02	Ajuste de tipos del Banco Central Europeo de septiembre de 2024
+33_preguntas_iyc_2_llamamiento	75	01	Primera empresa española que supera los 150.000 millones de capitalización
+33_preguntas_iyc_2_llamamiento	76	01	Estudio de The Lancet sobre las muertes por calor en Europa
+33_preguntas_iyc_2_llamamiento	77	01	Compañía británica que adquirió Vodafone España
+33_preguntas_iyc_2_llamamiento	78	02	Primer recorte de tipos del Banco Central Europeo desde 2016
+33_preguntas_iyc_2_llamamiento	79	01	Nombre del índice de la bolsa de Milán
+33_preguntas_iyc_2_llamamiento	80	01	Partidos empatados en escaños en las elecciones vascas
+33_preguntas_iyc_2_llamamiento	82	02	Países de la Unión Europea que no han adoptado el euro
+33_preguntas_iyc_2_llamamiento	85	01	Premio Nacional de Investigación 2023 en Matemáticas y TIC
+33_preguntas_iyc_2_llamamiento	86	02	Inflación interanual de la eurozona según Eurostat
+33_preguntas_iyc_2_llamamiento	87	06	RTVE como referencia informativa de la sociedad: Manual de Estilo
+33_preguntas_iyc_2_llamamiento	88	01	Autor de la novela gráfica adaptada en «La casa»
+33_preguntas_iyc_2_llamamiento	89	01	Presidencia de Reporteros Sin Fronteras España
+33_preguntas_iyc_2_llamamiento	90	01	Carta de López Obrador a Felipe VI y la crisis diplomática
+33_preguntas_iyc_2_llamamiento	91	01	Años cumplidos de la masacre de la escuela de Beslán
+33_preguntas_iyc_2_llamamiento	93	01	Programa de las mañanas de TVE de Intxaurrondo y Sala
+33_preguntas_iyc_2_llamamiento	94	02	Grupo de Puigdemont en la IX Legislatura del Parlamento Europeo
+33_preguntas_iyc_2_llamamiento	95	01	Medicamento con metamizol revisado por la Agencia Europea del Medicamento
+33_preguntas_iyc_2_llamamiento	96	09	Día Mundial de la Libertad de Prensa: fecha fijada por la ONU
+33_preguntas_iyc_2_llamamiento	98	01	País en el que estuvo encarcelado el periodista Pablo González
+33_preguntas_iyc_2_llamamiento	100	01	Obras devueltas por el Cabildo de Gran Canaria: Ley de Memoria Democrática
+33_preguntas_iyc_2_llamamiento	102	01	Medallas paralímpicas de Teresa Perales
+33_preguntas_iyc_2_llamamiento	103	01	Cirujano español de la primera extirpación renal en remoto
+33_preguntas_iyc_2_llamamiento	105	01	Equipo canario en la Liga Hypermotion 2024/25
+33_preguntas_iyc_2_llamamiento	107	01	Oro olímpico de triple salto en París
+33_preguntas_iyc_2_llamamiento	108	03	Sede del Tribunal Superior de Justicia de Andalucía, Ceuta y Melilla
+33_preguntas_iyc_2_llamamiento	109	03	Miembros permanentes del Consejo de Seguridad de la ONU
+33_preguntas_iyc_2_llamamiento	111	01	Director de «Tardes de soledad», Concha de Oro de San Sebastián
+33_preguntas_iyc_2_llamamiento	112	01	Comunidades con zonas de mercado residencial tensionado
+33_preguntas_iyc_2_llamamiento	113	01	Premio Nacional de Diseño de Moda 2024
+33_preguntas_iyc_2_llamamiento	114	01	Quién creó la piel artificial UGRSKIN
+33_preguntas_iyc_2_llamamiento	116	02	Objetivo de la revisión parcial de la PAC en el Parlamento Europeo
+33_preguntas_iyc_2_llamamiento	117	01	Condena al llamado «violador de Igualada»
+33_preguntas_iyc_2_llamamiento	118	01	Empresario del «caso Koldo» que presidió el Zamora CF

@@ -330,7 +330,7 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 
 ## Cuatro siglas sin presentar en el tema 7 del bloque general
 
-- **Detectado el 2026-09-03**, al corregir la lente de prosa. Buscaba la primera aparición de
+- **Detectado el 2026-09-02**, al corregir la lente de prosa. Buscaba la primera aparición de
   cada sigla **como trozo y no como palabra**, de modo que la encontraba dentro de otra
   —«SI» dentro de «MÚSICA», «RD» dentro de «BORDER»— y comprobaba la presentación en un punto
   del tema donde la sigla no está. Corregida la lente con límites de palabra, **aparecieron

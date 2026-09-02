@@ -668,7 +668,7 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   **exigibilidad**. El programa lo respalda al citar el «texto inicial». En el volcado al
   corte esos bloques llevan **aviso expreso**, y el tema explica la distinción.
 
-- **2026-09-03 · La lente de exactitud no veía las citas repartidas en dos renglones.** Su
+- **2026-09-02 · La lente de exactitud no veía las citas repartidas en dos renglones.** Su
   expresión buscaba las negritas **sin `re.S`**, de modo que el punto no cruzaba el salto de línea:
   una cita larga —que en estos temas ocupa casi siempre tres o cuatro renglones— **no salía como no
   literal, salía como si no existiera**. Se descubrió porque el primer tema de Documentación devolvió
@@ -681,7 +681,7 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   cita alterada**: lo recién visible es comentario en negrita, no citas. Está contado en
   `informes/refutacion-documentacion-tema-01.md`.
 
-- **2026-09-03 · Empieza el bloque específico de Documentación, y su tema 1 deja tres reglas.**
+- **2026-09-02 · Empieza el bloque específico de Documentación, y su tema 1 deja tres reglas.**
   Primera: **una fuente puede estar dada por leída sin estarlo**. El inventario de fuentes daba por
   verificado el «Teatro Monumental» en la portada de la Orquesta y Coro, y al comprobarlo contra el
   fichero guardado **la palabra no aparecía**; se cerró con el programa de conciertos de la propia
@@ -692,7 +692,7 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   y se buscaron una a una; el programa no está, y por eso ese año se marca como apoyado sólo en la
   plantilla.
 
-- **2026-09-03 · Qué se hace cuando la fuente buena es de pago.** El tema 2 de Documentación se
+- **2026-09-02 · Qué se hace cuando la fuente buena es de pago.** El tema 2 de Documentación se
   gobierna por **normas ISO**, que no están en el BOE y que `iso.org` no deja ni mirar: responde
   «prohibido» a toda consulta automática, también con agente de navegador. La ruta que funciona es
   **la muestra oficial que ISO publica de cada norma** —portada, prólogo, **índice completo**,
@@ -702,7 +702,7 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   «Selective mapping»— es la que decide cuál es la respuesta. Se versiona **el PDF de la muestra
   además de su transcripción**, y el tema **no cita ni una línea que no esté en ella**.
 
-- **2026-09-03 · Las lentes por artículo no sabían leer las leyes que numeran con letra.** La Ley
+- **2026-09-02 · Las lentes por artículo no sabían leer las leyes que numeran con letra.** La Ley
   16/1985 del Patrimonio Histórico titula sus artículos «Artículo cuarenta y nueve», de modo que
   las lentes devolvían **«0 comprobadas, 0 no literales»**: el fallo del apartado 10 otra vez. En vez
   de renunciar a la lente, **se construye la fuente**, como se hizo con el convenio colectivo:
@@ -710,13 +710,13 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   el cuerpo del precepto**. Reescribió **79 artículos** y la lente pasó de **0 a 11 negritas
   comprobadas** en el tema.
 
-- **2026-09-03 · Quitar las remisiones internas de una norma rompe la cita.** ISO escribe
+- **2026-09-02 · Quitar las remisiones internas de una norma rompe la cita.** ISO escribe
   «combination of preferred terms **(2.45)** of a controlled vocabulary **(2.12)** at the time of
   searching»: los números remiten al apartado donde define cada término. El borrador los había
   limpiado por estética, y la comprobación de citas entrecomilladas marcó **cuatro definiciones**
   como no literales. **Los paréntesis son parte del texto**: se reponen, y el tema explica qué son.
 
-- **2026-09-03 · Un sitio cerrado puede tener una puerta abierta, y hay que probarla.** La
+- **2026-09-02 · Un sitio cerrado puede tener una puerta abierta, y hay que probarla.** La
   especificación **EBUCore** parecía inalcanzable: la organización que la publica bloquea su sitio, y
   así constaba ya en el bloque de Producción. Cinco rutas devolvieron «prohibido» o «no existe»; **la
   sexta —el PDF servido directamente desde el subdominio técnico— devolvió 54 páginas**. Con el
@@ -724,21 +724,21 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   de ellas una pregunta frecuente que parece escrita contra el examen. La regla del proyecto se
   amplía: **cuando el sitio bloquea, se prueba el fichero**.
 
-- **2026-09-03 · Dónde se para una comprobación.** El año de lanzamiento de una red social tenía
+- **2026-09-02 · Dónde se para una comprobación.** El año de lanzamiento de una red social tenía
   fuente documental evidente —el folleto de salida a bolsa, en el archivo del regulador de mercados
   estadounidense—, y ese archivo **exige identificarse con un correo de contacto** en cada consulta
   automática. La única dirección disponible es la del usuario del proyecto, y **no se envía la
   dirección de una persona a un servicio ajeno para resolver una pregunta de examen**. El dato se
   recoge de la plantilla y va marcado, con la razón escrita.
 
-- **2026-09-03 · Las dos lentes se avisan la una a la otra.** Un criterio del archivo web estaba
+- **2026-09-02 · Las dos lentes se avisan la una a la otra.** Un criterio del archivo web estaba
   atribuido al artículo 7 del Real Decreto 635/2015 y era **del artículo 6**. La lente de exactitud lo
   marcó como cita **no literal** —la buscaba en el artículo equivocado— y la de modo avisó de una
   **salvedad del artículo 7 que el tema no recogía**, que es lo que ocurre cuando se cita un artículo
   sin haberlo leído entero. Corregida la atribución, **el tema mejoró**: el artículo 7 aportaba los
   «procedimientos de selección y captura» y la **frecuencia**, que son las palabras del modelo mixto.
 
-- **2026-09-03 · Cuando la materia no tiene norma, eso es el hallazgo.** El tema 4 de Documentación
+- **2026-09-02 · Cuando la materia no tiene norma, eso es el hallazgo.** El tema 4 de Documentación
   —inteligencia artificial— tiene **4 preguntas y 2 fuentes**, la proporción más baja del bloque. Se
   probaron **cinco puertas** y se abrieron dos: no hay norma en el BOE que defina la diarización, ni
   recomendación que describa los módulos de un sintetizador, ni definición de «palabra token» en las
@@ -748,27 +748,27 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   **Las lentes por artículo no se ejecutan** sobre un tema sin articulado: devolverían un cero limpio,
   que es peor que no ejecutarlas, y así consta en su informe.
 
-- **2026-09-03 · Un sitio que bloquea la navegación puede servir los ficheros, y ya son dos.** La
+- **2026-09-02 · Un sitio que bloquea la navegación puede servir los ficheros, y ya son dos.** La
   unión de radiodifusión responde **403** en casi todas sus páginas, pero su **directorio de
   documentos técnicos sirve los PDF**. Por esa puerta se han recuperado la especificación de
   metadatos (tema 3) y la del formato de audio de radiodifusión (tema 5). **Dos veces ya no es
   casualidad**: queda anotada como ruta del proyecto.
 
-- **2026-09-03 · El corpus no se cierra tema a tema.** Una fuente reunida para el **tema 5** —el
+- **2026-09-02 · El corpus no se cierra tema a tema.** Una fuente reunida para el **tema 5** —el
   artículo de la responsable del Fondo Documental de RTVE— contestó, en el mismo párrafo, **una
   pregunta del tema 2** que se había dado por apoyada sólo en la plantilla: la de la «redacción
   digital». El tema 2 se reabrió para incorporarla. **Regla: cuando entra una fuente institucional
   nueva, se releen los temas anteriores**, porque lo que habla de la propia casa contesta lo que
   ninguna norma internacional podía.
 
-- **2026-09-03 · Traducir dentro de las comillas es inventar la cita.** El borrador del tema 5
+- **2026-09-02 · Traducir dentro de las comillas es inventar la cita.** El borrador del tema 5
   entrecomillaba en español dos instrucciones de manejo de soportes que la fuente da en inglés. La
   traducción era fiel y el sentido no cambiaba, y aun así **las comillas decían que aquello era el
   texto de la fuente**. Se cita en inglés y se traduce fuera. Y un segundo caso del mismo linaje: una
   cita de un artículo de revista **llevaba el encabezado de página incrustado** por la extracción del
   PDF, y el borrador lo había quitado en silencio. Ahora va con puntos suspensivos y una nota.
 
-- **2026-09-03 · La lente de prosa miraba el sitio equivocado.** Para saber si una sigla está
+- **2026-09-02 · La lente de prosa miraba el sitio equivocado.** Para saber si una sigla está
   presentada mira los 130 caracteres anteriores a su primera aparición, y localizaba esa aparición
   **con una búsqueda de trozo, no de palabra**: encontraba «SI» dentro de «MÚSICA» y «RD» dentro de
   «BORDER», de modo que **comprobaba la presentación donde la sigla no está** y el aviso se volvía
@@ -778,7 +778,7 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   «NO-DO»—; uno era real y se corrigió; **quedan cuatro en un tema del bloque general**, anotados en
   `PENDIENTES.md` porque ese volumen ya está impreso.
 
-- **2026-09-03 · Cuarenta preguntas de «actualidad», y quince tenían documento.** El punto 6 de
+- **2026-09-02 · Cuarenta preguntas de «actualidad», y quince tenían documento.** El punto 6 de
   Documentación no acota nada —nueve materias separadas por puntos— y parecía condenado a la
   plantilla. Tratando cada pregunta como **un dato que comprobar**, **quince quedaron atadas a un
   documento y nueve de ellas al BOE**. La ruta nueva es **el sumario diario del BOE por su API de
@@ -787,13 +787,13 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   Penal Internacional se resolvió con derecho español**, porque su sitio responde «prohibido» y
   España publicó el Estatuto de Roma en el BOE, en español.
 
-- **2026-09-03 · Cuando la respuesta no está en la norma, puede estar el descarte.** El curio no
+- **2026-09-02 · Cuando la respuesta no está en la norma, puede estar el descarte.** El curio no
   aparece en el real decreto español de unidades, porque no es unidad del sistema internacional. Pero
   el real decreto **define las tres opciones falsas** —amperio, kelvin y newton— como unidades de
   otras magnitudes, y dice que la unidad del sistema para esta magnitud es el becquerel. **Un
   descarte completo vale tanto como una cita**, y así se marca.
 
-- **2026-09-03 · Cerrado el bloque específico de Documentación.** Seis temas, seis esquemas, doce
+- **2026-09-02 · Cerrado el bloque específico de Documentación.** Seis temas, seis esquemas, doce
   informes y **82 preguntas contestadas con el tema delante**. El volumen imprimible sale en
   `libro-documentacion.pdf` —**96 páginas**—, con sus versiones en Word y HTML. **Ninguna respuesta
   oficial de este bloque está mal**; **dos enunciados cojean** y van avisados en el apéndice: uno
@@ -803,3 +803,48 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   **El saldo de fuentes del bloque**: de las 82 preguntas, **56 se verifican en documento**. El
   tema 5 es **el único tema del proyecto con todas sus preguntas verificadas**; el tema 4 es **el que
   menos fuentes tiene, y no por descuido**: su materia no tiene norma publicada.
+
+- **2026-09-02 · Las fechas de esta sección iban un día adelantadas.** Dieciséis entradas y una
+  del cuaderno de pendientes decían **2026-09-03** en un trabajo que los commits fechan el **2**.
+  Corregidas todas. No cambia ningún dato del temario, pero un histórico con la fecha mal es un
+  histórico que no se puede cruzar con nada.
+
+- **2026-09-02 · Repartido el bloque específico de Información y Contenidos, y descartado un
+  cuadernillo entero.** La ocupación tiene **cuatro** cuadernillos y solo dos sirven:
+
+  · el de la **prueba anulada por filtración** no aporta ninguna pregunta —el PDF guardado da
+    **880 bytes de marca de agua** y ni un enunciado—;
+  · el de **Radio Clásica** se descarta **entero**, y la comprobación que lo decide es contable:
+    de los **siete documentos** que el Anexo 2 de la ocupación nombra con su enlace —Manual de
+    Estilo, Código de autorregulación, RDL 4/2018, Directiva 2018/1808, Resolución del Parlamento
+    Europeo de 25/11/2020, Informe UNESCO y Carta ética de la FIP—, ese cuadernillo **no pregunta
+    por ninguno, ni una vez**, mientras que los otros dos preguntan por **cinco de los siete**.
+    Sus 97 preguntas específicas son teoría de la música y repertorio —cadencia plagal, Cancionero
+    de Upsala, séptima de dominante—: es el examen de los destinos de *Información y Contenidos
+    (Radio Clásica)*, cuyo Anexo 2 no está en el repositorio. Sus preguntas del bloque **común** sí
+    valen y ya estaban en `banco/g*.md`.
+
+  Quedan **180 preguntas**, de las que **178 se reparten** entre los diez primeros temas y **2
+  vuelven al banco general** por `reclasificadas.tsv` (Comité Intercentros y complemento de
+  disponibilidad, las dos del III Convenio). Una tercera, la iluminación de los lugares de trabajo
+  del cuadernillo de Radio Clásica, se va al banco de prevención.
+
+- **2026-09-02 · Un descarte de cien preguntas no cabe en cien filas de acta, pero tampoco puede
+  vivir fuera de ella.** `banco_especifico.py` acepta ahora una fila con **`*` en el número**, que
+  descarta el cuadernillo entero con su motivo, y lo **imprime cada vez que se regenera el banco**.
+  Así el motivo está donde se busca —el acta— y no escondido en el código, y un descarte no se
+  vuelve invisible por ser grande. De paso, una tabla `MARCA` traduce el nombre de la ocupación al
+  que llevan los ficheros: los cuadernillos se llaman `..._preguntas_iyc...` y el temario,
+  «informacion». **Sin ella el script no fallaba**: repartía cero preguntas y lo decía sin alarma,
+  que es la forma más silenciosa de dar un bloque por hecho.
+
+- **2026-09-02 · El reparto de Información y Contenidos, y los dos temas que el examen no
+  pregunta.** Con la regla que ordena los tres primeros puntos —**qué es una institución** va a su
+  tema, **qué pasó** va a actualidad, y lo que contesta uno de los siete documentos va a su tema
+  aunque parezca actualidad—, salen: **121** preguntas de actualidad, **21** de instituciones del
+  Estado y organismos internacionales, **17** de la Unión Europea, **9** del Manual de Estilo,
+  **5** del Informe UNESCO, **2** del Código de autorregulación, **2** de la Directiva 2018/1808 y
+  **1** de la Resolución del Parlamento Europeo. **El RDL 4/2018 y la Carta ética de la FIP no
+  tienen ni una pregunta**: sus temas se escribirán contra la norma y el documento, sin banco que
+  los respalde, y su informe de cobertura lo dirá. Dos tercios del bloque son actualidad, que es
+  justo la materia que no se estudia en una norma sino que se comprueba dato a dato.

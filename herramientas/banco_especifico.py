@@ -20,6 +20,7 @@ lo aplica. Y avisa de dos cosas que, si no se avisan, no dan ningún error:
 
 Uso:  banco_especifico.py produccion_asist
       banco_especifico.py documentacion
+      banco_especifico.py informacion
 """
 import os
 import re
@@ -33,23 +34,41 @@ from banco import plantilla, sin_pie, sin_ecos, reclasificadas
 DIR = "convocatoria/examenes"
 SALIDA = "banco"
 
+# La ocupación no siempre se llama en el fichero como se llama en el temario:
+# los cuadernillos de Información y Contenidos se nombran `..._preguntas_iyc...`
+# y el acta y el banco, `informacion`. Sin esta tabla la ocupación no casa con
+# ningún cuadernillo y el script no falla: reparte cero preguntas y lo dice sin
+# alarma, que es la forma más silenciosa de dar un bloque por hecho
+MARCA = {"informacion": "iyc"}
+
 
 def reparto(ocupacion):
     """{(origen, nº): (tema, motivo)} leído del acta de clasificación."""
     ruta = os.path.join(SALIDA, "especifico-%s.tsv" % ocupacion)
-    fuera = {}
+    fuera, enteros = {}, {}
     for linea in open(ruta, encoding="utf-8"):
         if linea.startswith("#") or not linea.strip():
             continue
         c = linea.rstrip("\n").split("\t")
         if c[0] == "origen":
             continue
-        fuera[(c[0], int(c[1]))] = (c[2], c[3] if len(c) > 3 else "")
-    return fuera
+        motivo = c[3] if len(c) > 3 else ""
+        # un `*` en el número descarta el cuadernillo entero. Hay cuadernillos
+        # que llevan la marca de la ocupación en el nombre y no son de este
+        # temario —el de Radio Clásica, con la ocupación en el nombre y el
+        # temario de otro Anexo 2—, y descartarlos pregunta a pregunta sería
+        # llenar el acta de cien filas iguales. Descartarlos en el script, en
+        # cambio, dejaría el motivo fuera del acta, que es donde se busca
+        if c[1].strip() == "*":
+            enteros[c[0]] = motivo
+            continue
+        fuera[(c[0], int(c[1]))] = (c[2], motivo)
+    return fuera, enteros
 
 
 def cuadernillos(ocupacion):
     """[(cuadernillo, plantilla)] de la ocupación, por el nombre del fichero."""
+    ocupacion = MARCA.get(ocupacion, ocupacion)
     fuera = []
     for f in sorted(os.listdir(DIR)):
         if not f.endswith(".txt") or "_preguntas_" not in f:
@@ -72,11 +91,14 @@ def main(ocupacion, titulos):
     # el acta se nombra por la ocupación corta: los ficheros dicen
     # «produccion_asist» y el acta, «produccion»
     corta = ocupacion.split("_")[0]
-    filas = reparto(corta)
+    filas, enteros = reparto(corta)
     comun = reclasificadas()
     portema = defaultdict(list)
-    usadas, sinfila = set(), []
+    usadas, sinfila, descartados = set(), [], []
     for cuad, plant in cuadernillos(ocupacion):
+        if os.path.basename(cuad)[:-4] in enteros:
+            descartados.append(os.path.basename(cuad)[:-4])
+            continue
         respuestas = plantilla(plant) if plant else {}
         origen = re.sub(r"\.ocr$", "", os.path.basename(cuad)[:-4])
         for n, cuerpo in preguntas(open(cuad, encoding="utf-8").read()):
@@ -117,7 +139,10 @@ def main(ocupacion, titulos):
     print()
     print("del bloque específico: %d repartidas de %d; quedan %d sin clasificar"
           % (total, total + len(sinfila), len(sinfila)))
+    for d in descartados:
+        print("  · cuadernillo descartado entero: %s (%s)" % (d, enteros[d]))
     huerfanas = sorted(set(filas) - usadas)
+    huerfanas = [h for h in huerfanas if h[0] not in enteros]
     if huerfanas:
         print()
         print("! %d filas del acta no casan con ninguna pregunta:" % len(huerfanas))
@@ -167,6 +192,27 @@ TITULOS = {
     "05": "Documentación · Tema 5 · Centros de documentación en medios de "
           "comunicación audiovisual",
     "06": "Documentación · Tema 6 · Cultura y actualidad nacional e internacional",
+ },
+ "informacion": {
+    "01": "Información y Contenidos · Tema 1 · Actualidad nacional e "
+          "internacional: política, economía, sociedad, cultura y deportes",
+    "02": "Información y Contenidos · Tema 2 · La Unión Europea y sus "
+          "instituciones",
+    "03": "Información y Contenidos · Tema 3 · Instituciones y poderes del "
+          "Estado, instituciones y organismos internacionales",
+    "04": "Información y Contenidos · Tema 4 · Código de autorregulación para "
+          "la defensa de los derechos del menor de RTVE",
+    "05": "Información y Contenidos · Tema 5 · Real Decreto-ley 4/2018: "
+          "designación del Consejo de Administración de la CRTVE",
+    "06": "Información y Contenidos · Tema 6 · Manual de estilo de RTVE",
+    "07": "Información y Contenidos · Tema 7 · Directiva (UE) 2018/1808 de "
+          "servicios de comunicación audiovisual",
+    "08": "Información y Contenidos · Tema 8 · Resolución del Parlamento "
+          "Europeo de 25 de noviembre de 2020",
+    "09": "Información y Contenidos · Tema 9 · Informe mundial de la UNESCO "
+          "2021/2022 sobre libertad de expresión",
+    "10": "Información y Contenidos · Tema 10 · Carta ética mundial para "
+          "periodistas de la FIP",
  },
 }
 
