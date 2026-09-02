@@ -1,0 +1,125 @@
+Página oficial de ISO 25964, alojada por NISO, secretaría del ISO/TC46/SC9
+https://www.niso.org/schemas/iso25964
+Leída el 3 de septiembre de 2026.
+
+ISO 25964 – the international standard for thesauri and interoperability with other vocabularies
+This is the official website for information about ISO 25964, hosted by NISO, the TC46/SC9 Secretariat.
+Summary description of ISO 25964
+Development background
+Maintenance responsibility
+Content of Part 1 (ISO 25964-1)
+Content of Part 2 (ISO 25964-2)
+Interoperability with SKOS and other schemas
+Continuing work and discussion
+Further reading and related resources
+Version 1.4
+ISO 25964-1 1.4 xsd
+Version 1.4
+Development background
+Summary description of ISO 25964
+ISO 25964. Thesauri and interoperability with other vocabularies
+Part 1: Thesauri for information retrieval
+Part 2: Interoperability with other vocabularies
+Part 1 of the standard, published in 2011, covers all aspects of developing a thesaurus, monolingual or multilingual. It has replaced the previous standards ISO 2788 and ISO 5964. To encourage networking interoperability, it includes a data model and an XML schema for data exchange.
+Part 2 of the standard, to be published in 2013, covers new ground not previously addressed in any standard. Its main aim is to encourage high quality information retrieval across networked resources that have been indexed with different vocabularies. It explains how to set up mappings between the concepts in such vocabularies, and other forms of complementary use.
+Both standards can be obtained directly from ISO via the ISO Store , or from any of ISO’s member bodies, such as ANSI in the US or BSI in UK. (See list of all such outlets ). They are stocked also in a number of public and university libraries. Definitions contained in the standards can be freely viewed at https://www.iso.org/obp/ui/ (search for “25964”).
+Development background
+ISO 2788 and ISO 5964, the standards for monolingual and multilingual thesauri respectively, were first published in 1974 and 1985 respectively, and only ISO 2788 was subsequently updated. In 2008 it was judged necessary to bring the two together and overhaul them completely, adding substantial new content to cater for the needs of networked information retrieval. A Working Group known as “WG8: Structured Vocabularies” was established under the auspices of ISO Technical Committee 46 (Information and documentation) Subcommittee 9 (Identification and description).
+Active members of WG8 between 2008 and 2013 have included:
+Victor Beloozerov (RU)
+Sylvie Dalbin (FR)
+Johan De Smedt (BE)
+Stella Dextre Clarke (GB)
+Axel Ermert (DE)
+F. Javier García Marco (ES)
+Alan Gilchrist (GB)
+Michèle Hudon (CA)
+Daniel Kless (DE)
+Traugott Koch (DE)
+Sophie Lessard (CA)
+Richard Light (GB)
+Jutta Lindenthal (DE)
+Marianne Lykke (DK)
+Tracy Powell (NZ)
+Esther Scheven (DE)
+Douglas Tudhope (GB)
+Bernard Vatant (FR)
+Leonard Will (GB)
+Marcia Zeng (US)
+The Group is chaired by Stella Dextre Clarke, and the Secretariat is provided by NISO.
+While developing the new standard, the group has maintained contact with the people and organizations responsible for related standards. For example, The British Standard BS 8723 [26] was used heavily in preparing the first drafts of ISO 25964. Contact has also been maintained with the committee responsible for the American standard ANSI/NISO Z39.19 [25] . Care has similarly been taken to maintain compatibility with the W3C standard SKOS [29] . ( See below .)
+More background on the development history can be found on the Further reading and related resources page . See especially [2] , [9] and [10] .
+Maintenance responsibility
+Like all ISO standards, each Part of ISO 25964 is subject to review five years after publication. It will be the responsibility of ISO and its member bodies to ensure that the documents are updated as necessary. The NISO Secretariat has established a public e-mail list for the 25964info interest group; by subscribing to this you can submit comments, suggestions and queries about the standard. Any corrections that are agreed will be noted as Errata on this site. See the ISO 25964 Interest Group e-mail list for news of continuing work around the implementation of the standards.
+Content of Part 1 (ISO 25964-1)
+Scope
+This part of ISO 25964 gives recommendations for the development and maintenance of thesauri intended for information retrieval applications, whether monolingual or multilingual. It is applicable to vocabularies used for retrieving information from all types of information resources, irrespective of the media used (text, sound, still or moving image, physical object or multimedia) including knowledge bases and portals, bibliographic databases, text, museum or multimedia collections, and the items within them.
+This part of ISO 25964 also provides a data model and recommended format for the import and export of thesaurus data.
+Requirements of software to manage thesauri are given, but not for the databases or software used directly in search or indexing applications (although the needs of such applications are anticipated among the recommendations for thesaurus management).
+Abbreviated Table of contents
+Foreword
+Introduction
+1 Scope
+2 Terms and definitions
+3 Symbols, abbreviated terms and other conventions
+4 Thesaurus overview and objectives
+5 Concepts and their scope in a thesaurus
+6 Thesaurus terms
+7 Complex concepts
+8 The equivalence relationship, in a monolingual context
+9 Equivalence across languages
+10 Relationships between concepts
+11 Facet analysis
+12 Presentation and layout
+13 Managing thesaurus construction and maintenance
+14 Guidelines for thesaurus management software
+15 Data model
+16 Integration of thesauri with applications
+17 Exchange formats
+18 Protocols
+Annex A (informative) Examples of displays found in published thesauri
+Annex B (informative) XML Schema for data exchange
+Bibliography
+Index
+Provisions for data exchange
+The ISO 25964 XML schema for data exchange is based upon the data model in Clause 15; see [1] and [4] . Although the data model and schema provide for some very sophisticated thesauri, using any or all of the features described in the standard, much of their content is optional. Thus in practice they can be stripped down to work easily for very simple vocabularies. See more explanation at the ISO 25964 Schema webpage , where you can access and download the model and version 1.4 of the schema free of charge, together with documentation and a test document illustrating how the schema may be applied.
+Content of Part 2 (ISO 25964-2)
+Scope
+This part of ISO 25964 is applicable to thesauri and other types of vocabulary that are commonly used for information retrieval. It describes, compares and contrasts the elements and features of these vocabularies that are implicated when interoperability is needed. It gives recommendations for the establishment and maintenance of mappings between multiple thesauri, or between thesauri and other types of vocabularies.
+Follow the links in the reading list for more detail on mapping practice.
+Abbreviated Table of contents
+Foreword
+Introduction
+1 Scope
+2 Normative references
+3 Terms and definitions
+4 Symbols, abbreviations and other conventions
+5 Objectives and identification
+6 Structural models for mapping across vocabularies
+7 Types of mapping
+8 Equivalence mappings
+9 Hierarchical mappings
+10 Associative mappings
+11 Exact, inexact and partial equivalence
+12 Use of mappings in information retrieval
+13 Handling pre-coordination
+14 Techniques for identifying candidate mappings
+15 Managing the data
+16 Display of mapped vocabularies
+17 Classification schemes
+18 Classification schemes used for records management
+19 Taxonomies
+20 Subject heading schemes
+21 Ontologies
+22 Terminologies
+23 Name authority lists
+24 Synonym rings
+Annex A (informative) Management of terminological data in support of interoperability
+Bibliography
+Index
+Interoperability with SKOS and other schemas
+To reach the goal of interoperability across today’s expanding networks is an immense and infinitely extensible endeavor. Think of it as a jigsaw of standards and protocols, each shaped to interlock with the neighboring pieces. Think of it also as a community effort, in which the developers of each jigsaw piece must collaborate with others to ensure the smooth flow of error-free data.
+Especially close neighbors in the Semantic Web jigsaw are ISO 25964 and SKOS [29] . ISO 25964-1 essentially advises on the selection and fitting together of concepts, terms and relationships to make a good thesaurus. SKOS addresses the next step, with recommendations on porting the resultant thesauri (or other ‘simple Knowledge Organization Systems’) to the Web. ISO 25964-2 recommends the sort of mappings that can be established between one KOS and another; SKOS presents a way of expressing these when published to the Web.
+To ensure a good fit between the recommendations of these complementary standards, the teams responsible for them have maintained contact throughout. The respective data models are not identical, because ISO 25964 must provide for the need of all sorts of thesauri (whether for Web use or for other applications) while SKOS [29] must provide for all sorts of KOS (including classification schemes and many others that do not comply with ISO25964). Despite the differences, however, there is good alignment, making it possible to develop a set of correspondences between components of the data models. Where the basic SKOS data model lacks a construct that corresponds to a feature of the ISO 25964 model, the SKOS-XL [30] model has been used, supplemented by additional proposals where necessary. Care has been taken to avoid any incompatibility with another ongoing project to align SKOS with MADS [27] .
+Continuing work
+Based on the documented correspondence table , an RDF schema that provides a machine-readable version for these mappings as well as for the elements from the ISO 25964 model is available on http://purl.org/iso25964/skos-thes .

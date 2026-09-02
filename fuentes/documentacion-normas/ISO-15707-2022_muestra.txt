@@ -1,0 +1,319 @@
+Muestra oficial de la norma, descargada de standards.iteh.ai el 3 de septiembre de 2026.
+Contiene portada, prólogo, índice, introducción y las primeras cláusulas.
+El texto completo es de pago; iso.org responde 403 a toda consulta automática.
+
+Information and documentation — 
+International Standard Musical Work 
+Code (ISWC)
+Information et documentation — Code international normalisé des 
+œuvres musicales (ISWC)
+INTERNATIONAL 
+STANDARD
+ISO 
+15707
+Second edition 
+2022-12
+Reference number 
+ISO 15707:2022(E)
+© ISO 2022
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022
+ii
+ISO 15707:2022(E)
+COPYRIGHT PROTECTED DOCUMENT
+© ISO 2022
+All rights reserved. Unless otherwise specified, or required in the context of its implementation, no part of this publication may 
+be reproduced or utilized otherwise in any form or by any means, electronic or mechanical, including photocopying, or posting on 
+the internet or an intranet, without prior written permission. Permission can be requested from either ISO at the address below 
+or ISO’s member body in the country of the requester.
+ISO copyright office
+CP 401 • Ch. de Blandonnet 8
+CH-1214 Vernier, Geneva
+Phone: +41 22 749 01 11
+Email: copyright@iso.org
+Website: www.iso.org
+Published in Switzerland
+﻿
+© ISO 2022 – All rights reserved
+
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022
+ISO 15707:2022(E)
+Foreword........................................................................................................................................................................................................................................iv
+Introduction..................................................................................................................................................................................................................................v
+1 
+Scope..................................................................................................................................................................................................................................1
+2 
+Normative references......................................................................................................................................................................................1
+3 
+Terms and definitions.....................................................................................................................................................................................1
+4 
+Construction of an ISWC...............................................................................................................................................................................1
+4.1 
+Basic construction............................................................................................................................................................................... 1
+4.2 
+Prefix element.......................................................................................................................................................................................... 2
+4.3 
+Work identifier........................................................................................................................................................................................ 2
+4.4 
+Check digit................................................................................................................................................................................................... 2
+5 
+Registration authority...................................................................................................................................................................................2
+6 
+Association of an ISWC with descriptive metadata.........................................................................................................2
+7 
+Association of an ISWC with digital content...........................................................................................................................2
+Annex A (normative) Guidelines for the use of an ISWC..................................................................................................................3
+Annex B (informative) Calculation of the check digit of an ISWC..........................................................................................5
+Annex C (informative) Descriptive metadata for registration of musical works.................................................6
+Bibliography................................................................................................................................................................................................................................8
+iii
+© ISO 2022 – All rights reserved 
+﻿
+Contents
+Page
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022
+ISO 15707:2022(E)
+Foreword
+ISO (the International Organization for Standardization) is a worldwide federation of national standards 
+bodies (ISO member bodies). The work of preparing International Standards is normally carried out 
+through ISO technical committees. Each member body interested in a subject for which a technical 
+committee has been established has the right to be represented on that committee. International 
+organizations, governmental and non-governmental, in liaison with ISO, also take part in the work. 
+ISO collaborates closely with the International Electrotechnical Commission (IEC) on all matters of 
+electrotechnical standardization. 
+The procedures used to develop this document and those intended for its further maintenance are 
+described in the ISO/IEC Directives, Part 1. In particular, the different approval criteria needed for the 
+different types of ISO documents should be noted. This document was drafted in accordance with the 
+editorial rules of the ISO/IEC Directives, Part 2 (see www.iso.org/directives).
+Attention is drawn to the possibility that some of the elements of this document may be the subject of 
+patent rights. ISO shall not be held responsible for identifying any or all such patent rights. Details of 
+any patent rights identified during the development of the document will be in the Introduction and/or 
+on the ISO list of patent declarations received (see www.iso.org/patents).
+Any trade name used in this document is information given for the convenience of users and does not 
+constitute an endorsement. 
+For an explanation of the voluntary nature of standards, the meaning of ISO specific terms and 
+expressions related to conformity assessment, as well as information about ISO's adherence to 
+the World Trade Organization (WTO) principles in the Technical Barriers to Trade (TBT), see 
+www.iso.org/iso/foreword.html.
+This document was prepared by Technical Committee ISO/TC 46, Information and documentation, 
+Subcommittee SC 9, Identification and description.
+This second edition cancels and replaces the first edition (ISO 15707:2001), of which it constitutes a 
+minor revision. The changes are as follows:
+— Clause 2, the mandatory Normative references clause has been added and subsequent clauses have 
+been renumbered;
+— Clause 4, references to the International ISWC Agency have been removed and the registration 
+authority URL www.iso.org/maintenance_agencies has been added;
+— Clause 5, references to ISWC agency have been removed;
+— former A.1.1, the header has been removed and the content has been combined with the main header 
+A.1.
+Any feedback or questions on this document should be directed to the user’s national standards body. A 
+complete listing of these bodies can be found at www.iso.org/members.html.
+iv
+﻿
+© ISO 2022 – All rights reserved
+
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022
+ISO 15707:2022(E)
+Introduction
+This document has been developed in collaboration with the International Confederation of Societies of 
+Authors and Composers (CISAC).
+The International Standard Musical Work Code (ISWC) system was developed by the member societies 
+of the International Confederation of Societies of Authors and Composers (CISAC). CISAC’s purpose in 
+creating an ISWC for musical works is to enable more efficient administration of rights to those works 
+on a worldwide basis. The ISWC provides an efficient means of identifying musical works in computer 
+databases and related documentation and for the exchange of information between rights societies, 
+publishers, record companies and other interested parties on an international level.
+v
+© ISO 2022 – All rights reserved 
+﻿
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022
+INTERNATIONAL STANDARD
+ISO 15707:2022(E)
+Information and documentation — International Standard 
+Musical Work Code (ISWC)
+1 Scope
+This document specifies a means of uniquely identifying a musical work. It standardizes and promotes 
+internationally the use of a standard identification code so that musical works can be uniquely 
+distinguished from one another within computer databases and related documentation and for the 
+purposes of collecting societies involved in the administration of rights to such works.
+The International Standard Musical Work Code (ISWC) identifies musical works as intangible creations. 
+It is not used to identify manifestations of, or objects related to a musical work. Such manifestations and 
+objects are the subject of separate identification systems, such as the International Standard Recording 
+Code (ISRC) for sound recordings, the International Standard Music Number (ISMN) for printed music, 
+and the International Standard Audiovisual Number (ISAN) for audiovisual works.
+2 Normative references
+There are no normative references in this document.
+3 Terms and definitions
+For the purposes of this document, the following terms and definitions apply.
+ISO and IEC maintain terminology databases for use in standardization at the following addresses:
+— ISO Online browsing platform: available at https://​www​.iso​.org/​obp
+— IEC Electropedia: available at https://​www​.electropedia​.org/​
+3.1
+check digit
+added digit which may be used to verify the accuracy of a standard number through a mathematical 
+relationship to the digits contained in that number
+Note 1 to entry: Adapted from ISO/IEC 7064.
+3.2
+musical work
+work (3.3) composed of a combination of sounds, with or without accompanying text
+3.3
+work
+distinct, abstract creation of the mind whose existence is revealed through one or more expressions 
+(e.g. a performance) or manifestations (e.g. an object)
+4 Construction of an ISWC
+4.1 Basic construction
+An ISWC consists of a prefix element followed by nine digits and a check digit, as follows:
+— prefix element (1 character);
+1
+© ISO 2022 – All rights reserved 
+﻿
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022
+ISO 15707:2022(E)
+— work identifier (9 digits);
+— check digit (1 digit).
+When an ISWC is written or printed, the letters ISWC shall precede it. For ease of reading only, hyphens 
+and dots may be used as separators between the elements of the identifier.
+EXAMPLE 
+ISWC T-034.524.680-1
+4.2 Prefix element
+The first element of an ISWC shall be the letter “T”. If necessary, the registration authority may, at its 
+discretion, designate another alphanumeric character in place of “T” in order to expand the numbering 
+capacity of the ISWC system and/or to indicate the beginning of a new phase in the assignment of ISWC 
+to musical works.
+4.3 Work identifier
+The second element of an ISWC shall be the work identifier. The work identifier is a 9-digit numeric 
+code.
+Work identifiers for musical works shall be in the numeric range of 000000001 to 999999999.
+4.4 Check digit
+The third element of an ISWC shall be the check digit. The check digit of an ISWC is calculated on a 
+weighted modulus 10.
+The formula for calculating the check digit is shown in Annex B.
+5 Registration authority
+The ISWC shall be supervised, coordinated and administered by a registration authority whose details 
+can be found at www​.iso​.org/​maintenance​_agencies.
+6 Association of an ISWC with descriptive metadata
+An ISWC shall be associated with descriptive data (see Annex C) about the musical work it identifies by 
+means of a database repository maintained by the registration authority which registered that work.
+An ISWC shall be used as specified in Annex A.
+7 Association of an ISWC with digital content
+An ISWC may be associated with digital expressions and manifestations of a musical work by employing 
+appropriate techniques (e.g. encryption and watermarking) to facilitate tracking the use of that work.
+﻿
+© ISO 2022 – All rights reserved
+
+﻿
+2
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022
+ISO 15707:2022(E)
+Annex A 
+(normative) 
+Guidelines for the use of an ISWC
+A.1 Works for which an ISWC may be allocated — Eligible repertoire
+An ISWC may be assigned to any musical work, published or unpublished, newly created or already 
+existing, irrespective of its copyright status.
+Modified versions, excerpts and composite musical works shall be allocated an ISWC separate from the 
+ISWC of the work(s) from which they are derived.
+Examples of modified versions are as follows:
+— changes to the content of a musical work, with the exception of minor alterations;
+— new arrangements (e.g. a Bach Invention for Piano, arranged for chamber orchestra);
+— translations of the literary text of a musical work.
+Examples of excerpts are as follows:
+— movements and other principal divisions of a musical work which might be known as something 
+other than the title for the entire work (e.g. “Ode to Joy”, the last movement of Beethoven's 9th 
+Symphony);
+— any work that is recognized as being an excerpt from a larger work, even though the type of excerpt 
+may be unknown.
+Examples of composite works are as follows:
+— a medley consisting of existing works or excerpts of such works performed in a continuous sequence;
+— a work containing samples of pre-existing works, such as a new song in which a rap lyric is sung 
+over a rhythm track from a previously recorded work.
+A.2 Administration of the ISWC system
+The registration authority may delegate certain tasks and services as described in this annex to 
+registration agencies. Registration agencies often hold an important role in the allocation of ISWCs. 
+Therefore, potential registrants are advised to consult the website of the registration authority1) to 
+find information concerning the most appropriate registration agency to contact and the tasks and 
+services it has been delegated.
+A.3 Allocation of an ISWC
+A.3.1 The registration authority shall allocate ISWCs to musical works upon request. Specific use 
+cases related to creators or types of works are fully described in the registration authority manual (see 
+A.6), as these may change from time to time according to the music market evolution.
+1) www​.iso​.org/​maintenance​_agencies
+© ISO 2022 – All rights reserved 
+﻿
+﻿
+3
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022
+ISO 15707:2022(E)
+A.3.2 Following the allocation of an ISWC, the ISWC and its related metadata shall immediately be 
+registered with notifications to the appropriate parties involved.
+A.3.3 The same ISWC shall not be allocated to more than one musical work.
+A.3.4 If more than one ISWC has inadvertently been assigned to the same musical work, each of those 
+ISWCs may remain in circulation for that work.
+A.3.5 Once allocated, an ISWC shall never be re-used for another musical work, even if it is found to 
+have been issued in error.
+A.4 Descriptive metadata
+Descriptive data about each musical work to which an ISWC is assigned shall be captured. Elements 
+of such descriptive data, which may vary from time to time according to the registration authority 
+manual, shall include, as a minimum, the following:
+a) at least one original title for the work (as defined in C.2);
+b) all creators of the work with their respective roles indicated (see C.3);
+c) 
+whether or not the work is derived from an existing work and, if so, the type of derivation (see C.4);
+d) in the case of a derived work, the ISWC of the source work(s), or the title(s) where no ISWC exists 
+for the source work(s).
+A.5 ISWC database
+A database of ISWC codes and the associated descriptive metadata shall be maintained. Musical works 
+which are used internationally, or which potentially could be registered more than once shall also have 
+their ISWC information entered into the database.
+The registration authority specifies the type and format of metadata associated with ISWC registrations 
+and the policies and mechanisms by which that data may be accessed.
+A.6 Registration authority manual
+Full details of the allocation and application of the ISWC are explained in the registration authority’s 
+manual available from the registration authority2).
+2) www​.iso​.org/​maintenance​_agencies
+﻿
+© ISO 2022 – All rights reserved
+
+﻿
+4
+iTeh STANDARD PREVIEW
+(standards.iteh.ai)
+ISO 15707:2022
+https://standards.iteh.ai/catalog/standards/sist/1099802f-f8b9-4aa8-8bbb-a3d3da3b0ea2/iso-
+15707-2022

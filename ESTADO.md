@@ -691,3 +691,27 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   completo es una ruta**. Para «Cita con Pilar» se descargaron las **4.623 fichas** que RTVE publica
   y se buscaron una a una; el programa no está, y por eso ese año se marca como apoyado sólo en la
   plantilla.
+
+- **2026-09-03 · Qué se hace cuando la fuente buena es de pago.** El tema 2 de Documentación se
+  gobierna por **normas ISO**, que no están en el BOE y que `iso.org` no deja ni mirar: responde
+  «prohibido» a toda consulta automática, también con agente de navegador. La ruta que funciona es
+  **la muestra oficial que ISO publica de cada norma** —portada, prólogo, **índice completo**,
+  introducción, objeto y parte de los términos—, y resulta que **ahí están las respuestas del
+  examen**: los cuatro modelos de interoperabilidad que pregunta una de ellas son **títulos de
+  apartado** de ISO 25964-2, y su numeración —«Model 1», «Model 2», «Model 3» y, sin numerar,
+  «Selective mapping»— es la que decide cuál es la respuesta. Se versiona **el PDF de la muestra
+  además de su transcripción**, y el tema **no cita ni una línea que no esté en ella**.
+
+- **2026-09-03 · Las lentes por artículo no sabían leer las leyes que numeran con letra.** La Ley
+  16/1985 del Patrimonio Histórico titula sus artículos «Artículo cuarenta y nueve», de modo que
+  las lentes devolvían **«0 comprobadas, 0 no literales»**: el fallo del apartado 10 otra vez. En vez
+  de renunciar a la lente, **se construye la fuente**, como se hizo con el convenio colectivo:
+  `herramientas/ordinales.py` reescribe **sólo el rótulo del encabezado** —«Artículo 49»— y **no toca
+  el cuerpo del precepto**. Reescribió **79 artículos** y la lente pasó de **0 a 11 negritas
+  comprobadas** en el tema.
+
+- **2026-09-03 · Quitar las remisiones internas de una norma rompe la cita.** ISO escribe
+  «combination of preferred terms **(2.45)** of a controlled vocabulary **(2.12)** at the time of
+  searching»: los números remiten al apartado donde define cada término. El borrador los había
+  limpiado por estética, y la comprobación de citas entrecomilladas marcó **cuatro definiciones**
+  como no literales. **Los paréntesis son parte del texto**: se reponen, y el tema explica qué son.
