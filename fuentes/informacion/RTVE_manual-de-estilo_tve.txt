@@ -1,0 +1,266 @@
+Manual de Estilo de RTVE — 2. TVE
+https://manualdeestilo.rtve.es/tve/
+Leído el 2 de septiembre de 2026.
+
+AVISO SOBRE LA RUTA: el programa da la dirección en **http**, y por ahí el
+sitio responde 403. No es el servidor: es la política de salida de este
+entorno, que solo deja pasar https. Con **https** la misma dirección responde
+200 y sirve el manual entero. El manual está en ocho páginas, una por
+capítulo, y aquí va cada una en su fichero.
+
+Se recorta la navegación del portal y se conserva el cuerpo.
+
+0. Inicio
+1. CRTVE
+2. TVE
+3. RNE
+4. Medios Interactivos
+5. Cuestiones Sensibles
+6. El Lenguaje
+7. Anexos
+Las siguientes normas y recomendaciones atañen a todos los profesionales de TVE que participan en la elaboración de los contenidos de actualidad en cualquier ámbito informativo.
+2.1. El lenguaje informativo en televisión
+2.2. Algunas deficiencias en la
+ elaboración de noticias
+2.3. Géneros informativos
+2.3.1. La entrevista
+2.3.2. El reportaje
+2.3.3. La crónica. El análisis. El
+ periodismo de anticipación
+2.4. El informador en imagen
+2.4.1. Justificación de la presencia en
+ imagen
+2.4.2. El directo
+2.4.3. Cobertura en directo de noticias
+ especiales
+2.4.4. Entradilla o 
+in situ
+2.4.5. Los presentadores de programas
+ informativos
+2.5. Captación de imágenes en lugares
+ públicos y privados
+2.6. Grabación oculta o sin consentimiento
+2.7. Uso del archivo
+2.1 El lenguaje informativo en televisión 
+Volver al índice
+2.1.1. El valor de la imagen
+El informador construye su relato con el texto, la imagen, el sonido ambiente y, cuando las haya, las declaraciones de los protagonistas. Si la noticia lo requiere, podrá insertar mapas, gráficos e incluso apoyarse en una reconstrucción. En todos los casos, el texto debe complementar las imágenes, enriquecer la información visible pero sin incidir en lo obvio, en lo que el espectador ya ha captado por sus propios medios. Es la imagen la que, en circunstancias normales, amplifica o disminuye el valor de la noticia e incluso lo crea. Por muy obvio que resulte, la imagen es determinante en la concepción de la información en televisión. Es a partir de la imagen de donde debe nacer el texto y no a la inversa; escribir el texto con independencia de la imagen supone ignorar que estamos en un medio dominado por el valor de lo visual. La imagen aporta información, datos que deberán tenerse en cuenta antes de escribir o hablar –si estamos en directo-. Sólo tras visionar las imágenes puede el informador plantear un relato coherente, de modo que el resultado final sea la suma, no el choque, de las informaciones -y sensaciones- emanadas del texto, la imagen y el sonido. Salvo excepciones, no tiene sentido que el texto se limite a describir lo que el espectador ya está viendo, como tampoco lo tiene que el texto hable de aquello que no se ve. Texto e imagen deben estar en consonancia y complementarse; si no existe esa correspondencia, el espectador perderá gran parte de la información dado que deberá dividir su atención entre lo que ve y lo que oye. Los profesionales de RTVE deben evitar estas faltas de concordancia. Del mismo modo, se tendrá en cuenta que un exceso de datos y estímulos visuales puede dificultar la comprensión de la noticia.
+2.1.2. El valor de la palabra
+La importancia de una noticia recién conocida o de un dato novedoso sobre una información que acaba de emitirse es motivo suficiente para que, pese a la falta de imágenes, se decida realizar una lectura o una improvisación “a cámara”. Puede también suceder que la importancia de la noticia, carente de imágenes actuales, aconseje incluir imágenes de archivo; en este caso será obligatorio insertar un rótulo que advierta de que son de imágenes de archivo y, preferentemente, con indicación de la fecha.
+2.1.3. La última hora
+Existen además otras situaciones en las que la imagen cede su protagonismo: son las noticias de última hora con gran repercusión y que pueden obligar incluso a alterar la programación para ofrecer un flash o un avance informativo de urgencia: un accidente de gran magnitud, una catástrofe, el fallecimiento de una persona relevante, un atentado terrorista, etc. Cuando esto ocurra, la prioridad de los profesionales de TVE será informar a la audiencia lo antes posible, sin esperar al siguiente telediario ni a disponer de las imágenes más adecuadas. Se ofrecerán al espectador los datos contrastados y confirmados acerca de la noticia en cuestión y, simultáneamente, se movilizarán los medios técnicos y humanos necesarios para ofrecer la mejor y más rápida cobertura posible. En los casos de ausencia de imagen, un mapa del lugar de los hechos y las adecuadas conexiones telefónicas con protagonistas, testigos, expertos y/o informadores serán dos de los recursos más válidos para afrontar las necesidades informativas más urgentes.
+2.2. Algunas deficiencias en la elaboración de noticias 
+Volver al índice
+Los informadores de TVE deben ofrecer noticias comprensibles, sin sembrar dudas ni por el contenido global ni por el empleo de vocablos o imágenes que puedan alterar o detener la atención del espectador. Habitualmente en un tiempo breve, deberán situar los hechos, los escenarios y los protagonistas de un modo visualmente atractivo. Podrán apoyarse en rótulos, mapas y gráficos pero, en cualquier caso, deberán afrontar un proceso de filtro y selección de texto e imagen hasta quedarse exclusivamente con los elementos que permitan garantizar que el mensaje responde a lo que se desea contar y que será entendido por un público heterogéneo, de distintos estratos sociales y educativos.
+Esta realidad obliga a desdeñar datos superfluos y apoyarse exclusivamente en los considerados imprescindibles. La escasez de tiempo aconseja además esmerar al máximo la selección de vocablos y evitar reiteraciones, perífrasis y obviedades que solo contribuyan a dilatar el relato.
+2.2.1. Rigidez en la asignación de tiempos
+Algunos errores y deficiencias en la redacción de noticias tienen su origen en la propia concepción y en la estructura del producto informativo. Condensar la actualidad en un telediario o en otro programa informativo implica ofrecer un número determinado de noticias normalmente breves. En ocasiones, la rigidez en la asignación de tiempos hace que informaciones complejas sean tratadas en un tiempo insuficiente para el periodista pero, ante todo, para el espectador. La necesidad de resumir los hechos, ruedas de prensa y noticias en general puede provocar la descontextualización, la falta de referencias y, en última instancia, la incomprensión. Dado que una de las obligaciones de TVE es ofrecer al espectador un mensaje comprensible y asimilable, una de las dificultades que debe vencerse es la rigidez del minutado. La estructura de los servicios y programas informativos deberá supeditarse a la actualidad del momento y a la complejidad que entrañe explicar dicha actualidad de un modo comprensible.
+2.2.2. Contar todo
+Los informadores también deben evitar el error contrario, pretender contar todo acerca de una noticia. Este anhelo puede conducir a redactar textos farragosos, con estructuras gramaticales complicadas, frases subordinadas y de relativo, etc. Aunque el contenido pueda tender a la exactitud, un exceso de datos y una sucesión de frases y párrafos sumamente largos harán que la información resulte difícilmente comprensible.
+2.2.3. La obligación de ofrecer una información adaptada al medio y comprensible para el espectador
+Los informadores de TVE deben ser capaces de interpretar y traducir las noticias a un lenguaje correcto y comprensible. La obligación de ofrecer una información veraz no implica calcar el lenguaje ni las formas de expresión de determinados colectivos, ni abusar del lenguaje neutro y de las palabras largas, complicadas y vacías. En la práctica, se trata muchas veces de huir de eufemismos y circunloquios y, simplemente, llamar a cada cosa por su nombre. Teletipos, ruedas de prensa y declaraciones de políticos y otros protagonistas deben ser adaptados en todos los casos puesto que se trata de un material en bruto. .uede crearaa a las exigencias audiiovisuales.e oral.
+2.2.3. La obligación de ofrecer una información adaptada al medio y comprensible para el espectador
+Los informadores de TVE deben ser capaces de interpretar y traducir las noticias a un lenguaje correcto y comprensible. La obligación de ofrecer una información veraz no implica calcar el lenguaje ni las formas de expresión de determinados colectivos, ni abusar del lenguaje neutro y de las palabras largas, complicadas y vacías. En la práctica, se trata muchas veces de huir de eufemismos y circunloquios y, simplemente, llamar a cada cosa por su nombre. Teletipos, ruedas de prensa y declaraciones de políticos y otros protagonistas deben ser adaptados en todos los casos puesto que se trata de un material en bruto. .uede crearaa a las exigencias audiiovisuales.e oral.
+2.2.4. El uso sistemático de testimonios ("
+totales
+")
+Introducir testimonios (“totales”) puede enriquecer la información siempre que se trate de testimonios interesantes y adecuados al medio. No obstante, hay que evitar su uso sistemático, dado que habrá ocasiones en que el mejor resumen lo hará el profesional de la información y no el protagonista en cuestión.
+2.2.5. Duración de los testimonios ("
+totales
+")
+Conviene evitar la emisión de testimonios que “acaben en alto” simplemente por ajustar el fragmento a una duración determinada. El testimonio debe durar el tiempo imprescindible para que el mensaje del protagonista sea congruente, desarrolle una idea con principio y final y resulte audiovisualmente aceptable.
+2.2.6. Deficiencias en textos informativos
+Las siguientes consideraciones pueden afectar indistintamente a titulares, sumarios, entradillas de estudio, textos de noticias –incluidos rótulos- e intervenciones en forma de “directo”:
+La exigencia de brevedad no debe provocar la omisión del “cuándo” y “dónde” de la noticia, así como del cargo de protagonistas que lo son no por su nombre sino por razón del puesto que desempeñan.
+Salvo excepciones, conviene no omitir el nombre de pila del protagonista. Es una práctica no aconsejable dado que presupone un excesivo grado de familiaridad y confianza.
+La brevedad no debe conducir a redactar titulares y/o entradillas imprecisos, ambiguos o que presupongan un elevado conocimiento del espectador acerca de la noticia de la que se informa. En cambio, se debe evitar prolongar el texto con datos superfluos
+.
+Ejemplo
+: 
+“El Ministro ha asegurado en una rueda de prensa….,
+Interesan las declaraciones del protagonista y no el hecho de que se hayan vertido en una rueda de prensa.
+Debe evitarse el exceso de información visual y sonora. La concentración de recursos audiovisuales (Voz en off, imágenes, testimonios, mapas, rótulos, gráficos, etc.) en un tiempo breve puede perturbar la claridad y comprensión del mensaje.
+2.2.7. Actualización de las informaciones
+Una de las cualidades del medio, especialmente en programas en directo y en los espacios de actualidad, es la posibilidad de incorporar lo último. En los espacios de actualidad RTVE está obligada a contar lo último, contrastado y de interés público, que haya llegado a nuestro conocimiento sobre cualquier noticia relevante; puede ser una noticia nueva o puede ser un hecho novedoso de una noticia que ya se ha contado anteriormente. En este segundo caso, actualizar implica incorporar nuevos datos, testimonios y perspectivas a una noticia ya conocida.
+Actualizar los contenidos repercute además en las formas verbales. Si en la prensa escrita se prefiere el pasado de los verbos, en televisión se prefiere el tiempo presente. Al espectador no le interesa lo ocurrido ayer puesto que ya lo conoce, sino saber las repercusiones actuales y futuras.
+Ejemplo:
+ Frente al pasado lejano:
+El Presidente dijo ayer que apoyará propuestas de consenso…,
+….pasado cercano/presente:
+-El Presidente ha mostrado su apoyo a propuestas de consenso….
+-El Presidente considera que el consenso puede ayudar a sacar adelante el estatuto.
+-El Partido Popular cree que las palabras del presidente a favor de un consenso sobre el estatuto….
+2.2.8. rótulos
+Conviene ponderar la importancia del rótulo que acompaña al titular porque significa condensar una noticia en muy pocas palabras. En ocasiones, esas pocas palabras pueden resultar más elocuentes que todo el texto de la noticia. La importancia del rótulo se acrecienta si tenemos en cuenta que el telespectador, por diversas circunstancias, puede estar fijando la atención más en lo que ve que en lo que oye.
+Es primordial no distraer al espectador con rótulos extensos y/o poco enriquecedores de la información principal.
+Del mismo modo, es necesario extremar la precaución en la escritura del texto. Los cambios introducidos en los sistemas de trabajo y la reducción de filtros correctores pueden propiciar errores, especialmente ortográficos.
+2.2.9. Datos y gráficos
+Existen noticias, especialmente las económicas, que pueden requerir el uso de numerosos y complejos datos. Los profesionales de RTVE que cubran estas materias deben evitar el exceso de datos tanto como su insuficiencia y buscar los que representen el nudo de la noticia. Los gráficos, cuando su uso se considere necesario, han de ser simples y fáciles de interpretar en un tiempo muy breve.
+2.3. Géneros informativos 
+Volver al índice
+2.3.1. La entrevista
+En la entrevista televisiva, a los elementos puramente conceptuales se añaden un conjunto de datos complementarios perceptibles/audibles/visibles por el espectador. El informador de TVE deberá tener en cuenta que la voz, la entonación, la cadencia, los titubeos, los silencios, la vestimenta, el movimiento de las manos, la forma de mirar, la gesticulación del invitado (y del entrevistador) y las actitudes desempeñan una función determinante en el devenir de la entrevista, hasta el punto de condicionar e incluso, en ocasiones, eclipsar el discurso del protagonista. Todos estos son indicadores de personalidad que contribuyen poderosamente a la credibilidad del personaje -y del informador- y de su discurso.
+2.3.1.1. Justificación de la entrevista
+Las motivaciones para entrevistar a una persona pueden ser diversas si bien las más comunes son obtener información sobre un hecho determinado, conocer las opiniones de una persona sobre un hecho sucedido -o que vaya a suceder- y realizar una semblanza de un personaje. En todas las circunstancias, lo más importante de la entrevista son las respuestas, puesto que el objetivo no es otro que el de informar a los ciudadanos. El personaje elegido, bien por el hecho de serlo o bien por lo que diga o pueda decir, debe responder al interés público y a la actualidad; el espectador debe percibir la idoneidad del personaje entrevistado. Por tanto, una de las obligaciones de los profesionales de TVE será justificar debidamente ante la audiencia la presencia del personaje elegido.
+2.3.1.2. La entrevista en directo en los informativos diarios
+En informativos diarios, la entrevista suele utilizarse ante circunstancias o noticias de repercusión social y con personajes cuya presencia otorgue prestigio al informativo y a la cadena. Suelen ser entrevistas breves y la finalidad es que el entrevistado responda con claridad a una o dos cuestiones esenciales. Para ello, será imprescindible que el informador formule las preguntas con la misma claridad y brevedad que demanda al entrevistado.
+Recomendaciones básicas
+Intentar captar el interés desde la primera pregunta.
+Evitar preguntas en las que se exponga la respuesta.
+Formular preguntas directas para atraer la atención del entrevistado y del espectador.
+Formular las preguntas con la mayor claridad posible, evitando dudas y titubeos así como formulaciones largas y rebuscadas.
+Evitar formular dos o más preguntas seguidas.
+Evitar el uso de los latiguillos ¿no es así?, ¿no es cierto?, ¿no es verdad? y todas sus variantes.
+Evitar tópicos como: ¿cómo valora usted?, ¿cómo se siente ante esta situación?, ¿qué tiene que decir..?, etc.
+Evitar los alardes innecesarios de conocimiento sobre la materia y/o personaje objeto de la entrevista.
+Evitar confundir dos actitudes muy distintas: ser incisivo y ser agresivo. Lo idóneo es que el entrevistador transmita al espectador la sensación de equilibrio, mesura y profesionalidad o, dicho de otro modo, independencia y credibilidad.
+Si se debe interrumpir al entrevistado, conviene esperar que se produzca una pausa natural.
+Controlar los gestos ante el entrevistado.
+No tomar parte en el debate, sólo hacer preguntas.
+2.3.2. El reportaje
+Podemos hablar de reportaje cuando un hecho noticioso es desarrollado con amplitud, incorporando a los datos el relato y las opiniones de los protagonistas a fin de profundizar en sus causas, modos o consecuencias. Por tanto, el reportaje es una información ampliada en cualquiera de sus aspectos y vinculada bien a la inmediatez informativa o bien, de un modo temporal más amplio, a la actualidad.
+El reportaje puede adoptar multitud de enfoques; puede centrarse en los protagonistas, los afectados, los antecedentes, las consecuencias, el lugar de los hechos, los paralelismos con noticias similares, etc.; podrá ir de lo concreto a lo universal y de lo universal a lo particular. Así, los requisitos de actualidad e interés exigibles a la noticia se muestran más flexibles en el reportaje, donde el periodista aporta su enfoque y tratamiento personal.
+Los reportajes profundizan en determinadas noticias y/o investigan hechos relevantes, conductas sociales que conforman nuestro entorno y conflictos del mundo que nos rodea.
+Los reportajes de TVE, tanto los de corta duración –propios de informativos diarios- como aquellos otros destinados a programas e informativos no diarios deben ser signo de prestigio y constituirse en parte del sello de distinción de TVE, tanto por la calidad de sus contenidos como por su tratamiento estético.
+2.3.3. La crónica. El análisis. El periodismo de anticipación.
+2.3.3.1. La crónica en los informativos de televisión
+La crónica es uno de los géneros más presentes en los informativos de televisión debido a la veracidad que alcanza una información cuando el periodista es testigo directo de los hechos.
+Podemos concebir la crónica televisiva como el relato de un periodista desde el lugar de los hechos, habiendo sido o no testigo directo de un acontecimiento. El cronista, a modo de firma, suele aparecer en pantalla; su presencia aporta proximidad ante el hecho narrado e incrementa la veracidad y la credibilidad del espectador. El periodista es visto como la persona que más sabe acerca de lo que está contando, dado que se encuentra en el foco de la noticia. Sin embargo, en la práctica, la proximidad con el escenario no siempre implica el máximo conocimiento sobre lo ocurrido y sus consecuencias; en situaciones de conflicto y/o en las que intervienen varios actores/protagonistas, el periodista no siempre puede acceder a todas las fuentes necesarias. Por este motivo, puede verse obligado a reclamar datos a la redacción central. También puede ocurrir que, ante un acontecimiento determinado, la cadena decida enviar a uno o más periodistas de apoyo, con el fin de enriquecer las perspectivas informativas.
+El periodista desplazado dispone de un dominio de los hechos que debe reflejarse en su relato. Conoce el escenario y puede acceder más fácilmente a los protagonistas y testigos del acontecimiento. Ello le legitima para enriquecer su crónica con su particular visión, sin que signifique que deba opinar. Para acentuar su proximidad, puede introducir notas de ambiente en su relato, puede describir el escenario, factores climáticos, modos de vida, etc.; puede -y muchas veces debe- poner en antecedentes a la audiencia antes de dar a conocer los últimos datos sobre el hecho o situación de la que está informando y también puede aventurar consecuencias del hecho del que se está informando.
+El cronista puede ser testigo presencial o conductor de los testimonios de los testigos presenciales. Puede mantener el relato en tercera persona o puede asumir el papel de narrador-testigo. En todo caso, siempre aportará una visión particular tanto en lo que dice (y la forma en que lo dice –tono-) como en la selección de imágenes y testimonios.
+El trabajo del periodista/cronista puede ser directo o grabado y, con frecuencia, será ambas cosas. Si el acontecimiento es relevante, la mayoría de televisiones utilizan el “directo” como introducción a la pieza grabada.
+También es frecuente el esquema: pregunta inicial + VTR + pregunta final. Aunque las combinaciones sean diversas, la exigencia seguirá siendo la misma: cumplir los requisitos establecidos para realizar un directo y aportar elementos informativos complementarios de la pieza que va a continuación.
+2.3.3.2. El análisis
+El análisis informativo es aquel texto periodístico que debe centrarse en la interpretación más que en la valoración, por lo que no debe incluir opiniones subjetivas. El informador debe limitarse a presentar todos los elementos, los antecedentes y la documentación adecuada para que el espectador pueda formar su propia opinión o componer las predicciones que correspondan. El análisis está fundado en fuentes que muchas veces deberán ser citadas y/o en observaciones del informador que en ocasiones se apoyarán en opiniones o comentarios de expertos.
+El análisis tiene como objetivo explicar –no juzgar- por qué ocurren hechos determinados y debe permitir al espectador comprender los antecedentes, el sentido y la perspectiva de la noticia. Por esta razón, no expresa opiniones, sino conclusiones. Se trata de ofrecer una visión contextualizada y explicada de los hechos a los que hace referencia. Los análisis diseccionan noticias y/o asuntos de actualidad en un intento de explicar qué está sucediendo o qué puede suceder.
+Presentación del análisis
+El análisis puede presentar datos de actualidad, información documental, hechos ya interpretados u otras noticias relacionadas con el texto principal. A estos textos se les ha denominado indistintamente despieces, apoyos, recuadros, complementos, noticias complementarias, etcétera (cronologías, perfiles, biografías, etc.). Pueden ser informativos, documentales, interpretativos, argumentativos, creativos, o una mezcla de ellos. Son textos que dependen de una información principal.
+El contenido de estos textos complementarios puede estar basado en datos de actualidad pero también puede estar redactado únicamente con datos de documentación. Esta documentación -datos de antecedentes y datos de contexto- es la base para contextualizar, explicar y analizar los hechos.
+2.3.3.3. El periodismo de anticipación
+El llamado periodismo de anticipación o de prospectiva es el que pretende analizar e interpretar la realidad de un modo que permita avanzar las grandes líneas de lo que en un futuro puede ser actualidad. Por tanto, suele aplicarse a noticias o hechos de previsibles consecuencias en el futuro.
+2.4. El informador en imagen 
+Volver al índice
+2.4.1. Justificación de la presencia en imagen
+La presencia en imagen del periodista debe añadir, ante todo, credibilidad al mensaje que se transmite. En segundo lugar, la presencia en imagen denota la capacidad de despliegue de los medios técnicos y humanos de TVE. Sin embargo, la finalidad última de tal despliegue de medios debe ser alcanzar la mayor credibilidad posible.
+2.4.2. El directo
+En el caso de las intervenciones en directo, los profesionales de TVE deben intentar ofrecer la máxima actualización de aquella noticia de la que van a informar. Cuando los profesionales de TVE informen en directo desde el lugar de los hechos, deberán esforzarse por aportar elementos informativos audiovisuales que únicamente puedan ofrecerse desde ese lugar en ese momento.
+Aunque cada información en directo requiere un planteamiento particular, los profesionales de TVE deberán tener en cuenta las siguientes recomendaciones genéricas:
+Existen dos requisitos incuestionables para realizar un directo: no decir y no hacer ninguna inconveniencia (datos erróneos, frases incorrectas, movimientos bruscos o extraños, etc.).
+El contenido del directo debe reflejar lo sustancial y lo más actual. No obstante, si se trata de una noticia que requiera un directo dialogado con el presentador de estudio, el suministro de los datos e ideas del periodista que se encuentre en directo deberá ir en consonancia con las preguntas formuladas desde el estudio.
+El contenido del directo no debe ser similar a lo dicho inmediatamente antes por el presentador de estudio o a lo que se dirá inmediatamente después, en el caso de que el directo preceda a una pieza referida a la noticia en cuestión.
+El informador y el resto del equipo debe familiarizarse con el escenario, conocer lo que le rodea y prever posibles incidencias.
+El ritmo de paseo -cuando lo haya- y de gesticulación debe ser lento, similar al movimiento de la cámara, para evitar crear angustia o estrés al televidente.
+Las intervenciones en movimiento son aceptables sólo cuando la noticia y el escenario lo requieran y lo permitan. Deben evitarse, por tanto, movimientos de cámara forzados.
+Debe elegirse en cada caso el micrófono idóneo. Habrá directos en los que resulte imprescindible disfrutar de libertad de movimientos y poder usar las manos para gesticular. No obstante, conviene no olvidar que el logotipo del micrófono refuerza la marca del informativo y de la cadena.
+El atuendo y, en general, los elementos estéticos utilizados por el informador deben ser tenidos en cuenta con el fin de garantizar que el espectador fijará su atención en el relato informativo.
+Debe evitarse cualquier tipo de incoherencia en los directos cubiertos/tapados con imagen.
+En el caso de entrevistas en directo realizadas por el informador desplazado se tendrán en cuenta algunas normas elementales:
+a-La brevedad de este tipo de entrevistas obliga a ceñir a lo estrictamente imprescindible las introducciones, presentaciones, saludos y agradecimientos.
+b-Las preguntas deben ser concisas y directas, y estar claramente expresadas.
+c-Como en toda entrevista, conviene formular una sola pregunta en cada intervención.
+d- El protagonismo corresponde al entrevistado y, por tanto, la puesta en escena debe centrarse en él y no en el entrevistador o presentador.
+Salvo que las circunstancias informativas lo hagan imprescindible, conviene evitar el uso de la primera persona ya que puede provocar que el espectador aprecie una vanidad impropia de un relato informativo. El informador de TVE no debe hacer gala de ningún protagonismo.
+2.4.3. Cobertura en directo de noticias especiales
+TVE debe distinguirse tanto por la calidad de sus informativos diarios como por la de informativos y programas especiales. La cobertura en directo de una jornada electoral o de un acto multitudinario requiere de la participación de decenas e incluso centenares de personas, lo que exige una máxima coordinación. Se trata de momentos informativamente delicados puesto que se informa en directo de situaciones que se están produciendo simultáneamente con nuestro discurso. Por tanto, disponemos tan solo de una parte de la información y de un conocimiento limitado de la realidad.
+En lo que atañe al informador que se encuentra en el punto de directo, siempre será objetivo primordial mantener el rigor en el fondo y forma, en los contenidos y en la manera de trasladarlos al espectador. El ambiente o la atmósfera del evento no deberán afectar a la imparcialidad ni a la calidad del trabajo del informador de TVE, cuya única función es informar al espectador.
+2.4.4. Entradilla o in situ
+Se trata de la aparición en imagen del informador en el transcurso de una pieza. Es un recurso que permite, además de reforzar la credibilidad, personalizar la información. El informador debe saber si el in situ será entradilla, medianilla o salidilla, es decir, si irá al comienzo, en medio o al final de la pieza, lo cual determinará el contenido.
+Debe evitarse que el contenido del in situ acabe “hipotecando” el resto de la historia. Si en el in situ se cuentan las principales ideas que nutrirán la pieza, se habrá limitado la posibilidad de un montaje coherente. Por tanto, el informador deberá pensar no sólo en lo que va a decir en el in situ sino en el posible texto de la pieza; así se evitarán reiteraciones innecesarias y se mantendrá el interés en todos los momentos de la información.
+Debe recordarse la importancia del sonido. Un in situ en el que el informador se vea obligado a elevar la voz o gritar resultará incómodo al espectador. Salvo que la relevancia de las imágenes lo aconseje, carece de sentido que la intervención del informador resulte inaudible o incomprensible por haberse realizado con el ruido de fondo de un helicóptero, de una lancha o de una ovación. De nuevo, conviene recalcar que la función del informador en imagen es enriquecer la información y no hacer alardes de escaso o nulo valor informativo.
+2.4.5. Los presentadores de programas informativos
+Los presentadores son los intermediarios entre el espectador y la actualidad que diariamente cuenta TVE y los encargados de ofrecer al público el resultado final de un trabajo colectivo. Para asumir esta responsabilidad, deben estar revestidos de la mayor credibilidad posible puesto que para el espectador el presentador es el principal responsable del relato informativo. Cuanto haga y diga, el modo en que lo haga y los elementos estéticos utilizados (incluyendo vestimenta, peinado, etc.) son factores esenciales.
+Sin embargo, conviene recordar que en los espacios informativos de TVE el único protagonismo pertenece a las noticias. En ninguna circunstancia la actitud del presentador debe distraer la atención sobre los argumentos del relato informativo. La aspiración de TVE es alcanzar la excelencia informativa mediante el trabajo de equipo y con un estilo propio que sea reconocido y valorado por el público.
+2.5. Captación de imágenes en lugares públicos y privados 
+Volver al índice
+2.5.1. Espacios privados
+El derecho a la intimidad es total en los espacios privados. Los profesionales de RTVE se abstendrán de grabar o presionar para obtener imágenes o sonidos sin consentimiento en lugares de jurisdicción privada.
+2.5.2. Secreto de domicilio
+El domicilio de las personas objeto de la información y el de sus familiares no debe ser revelado sin su consentimiento y debe evitarse cualquier referencia que permita identificarlos.
+2.5.3. Domicilio de las víctimas
+En el caso de las víctimas de un suceso los datos aportados y las imágenes deben evitar especialmente la posibilidad de que se identifique de manera inequívoca su domicilio.
+2.5.4. Lugares de uso público
+En los lugares privados de acceso público tales como aeropuertos, centros comerciales o lugares de ocio es legítimo grabar sin autorización previa de los propietarios cuando se trate de reflejar la comisión de delitos o la práctica de comportamientos antisociales.
+2.6. Grabación oculta o sin consentimiento 
+Volver al índice
+2.6.1. Cámaras y micrófonos a la vista
+La utilización de cámaras y micrófonos debe ser claramente perceptible para las personas que son objeto de la grabación a fin de que puedan decidir si colaboran o no y en qué términos lo hacen.
+2.6.2. Aviso de grabación
+La grabación de una conversación telefónica debe ser advertida previamente al interlocutor salvo que se trate de un caso de interés público debidamente acreditado y se cuente con autorización previa de la Dirección.
+2.6.3. Cámara y micrófono ocultos
+Se prohíbe el uso de cámaras y micrófonos que impiden que una persona sepa que están siendo grabadas su imagen y sus palabras para su posterior emisión pública.
+2.6.4. Grabación fraudulenta
+En grabaciones consentidas es ilícito mantener activos los equipos después de que el entrevistado crea razonablemente que la sesión ha concluido.
+2.6.5. Circuitos cerrados
+La emisión de materiales audiovisuales obtenidos por entidades ajenas a RTVE a través de circuitos cerrados puede chocar con el derecho a la intimidad. La responsabilidad de su emisión no será nunca de quienes captaron el contenido sino de RTVE, lo que exige a sus profesionales una verificación plena de la fuente, seguridad de que no se ha producido manipulación y un cuidado especial en la identificación de las personas grabadas.
+2.6.6. De patrulla
+Los profesionales de RTVE sólo podrán acompañar a patrullas policiales destinadas a practicar detenciones o redadas en lugares privados si el operativo cuenta con la autorización judicial pertinente. La presunción de inocencia de los detenidos en tales operaciones obliga a evitar la identificación de las personas así como la de los domicilios intervenidos.
+2.7. Uso del archivo 
+Volver al índice
+2.7.1. Identificación
+Las imágenes de archivo deben ser identificadas de forma clara como tales a fin de que la audiencia no las confunda con imágenes recientes. Se valorará en cada caso si la identificación debe ir acompañada por la fecha de grabación.
+2.7.2. Repeticiones
+La repetición de una imagen como recurso informativo para ilustrar un tipo de problema (obesidad, tabaquismo, tráfico, etc.) puede causar inconvenientes a las personas, entidades o grupos sociales que aparecen en ella por el riesgo de acabar siendo el rostro de esos males.
+Se debe extremar la sensibilidad en el uso de imágenes de hechos luctuosos con el fin de evitar que las víctimas y/o familiares de ellas revivan su sufrimiento.
+Menú de navegación principal
+Noticias
+RTVE Play
+RNE Audio
+Play Noticias
+RTVE Participa
+Filmoteca
+Televisión
+Radio
+Deportes
+Tiempo
+Clan
+Laboratorio
+Menú de Televisión Española
+2° Dividendo Digital
+RTVE Botón Rojo
+Corresponsalías
+TVE Internacional
+TVE Catalunya
+TVE Canarias
+Teletexto
+Centros Territoriales
+TVE en directo
+Menú de Radio Nacional de España
+Radio Nacional
+Radio Clásica
+Radio 3
+Ràdio 4
+Radio 5
+Radio Exterior
+Podcast
+Frecuencias
+Menú de la Corporación RTVE
+Transparencia
+Sostenibilidad
+RTVE Comunicación
+Manual de estilo
+Código de autorregulación
+Derecho de acceso
+Ofertas de empleo
+RTVE 2030
+Defensora de la Audiencia
+Observatorio de Igualdad
+Observatorio de la Infancia y la Adolescencia
+Canal Ético
+Instituto RTVE
+Orquesta Sinfónica y Coro RTVE
+Dirección Comercial
+Impulsa Visión
+Perfil del Contratante
+Contratación audiovisuales
+Archivo RTVE
+Aviso legal
+Política de privacidad
+Política de cookies
+Política de WhatsApp
+Política de seguridad
+Accesibilidad
+Mapa web
+Contacto
+Normas de Participación
+©
+ Corporación de Radio y Televisión Española 2026

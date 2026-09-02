@@ -1,0 +1,565 @@
+Manual de Estilo de RTVE — 5. Cuestiones Sensibles
+https://manualdeestilo.rtve.es/cuestiones-sensibles/
+Leído el 2 de septiembre de 2026.
+
+AVISO SOBRE LA RUTA: el programa da la dirección en **http**, y por ahí el
+sitio responde 403. No es el servidor: es la política de salida de este
+entorno, que solo deja pasar https. Con **https** la misma dirección responde
+200 y sirve el manual entero. El manual está en ocho páginas, una por
+capítulo, y aquí va cada una en su fichero.
+
+Se recorta la navegación del portal y se conserva el cuerpo.
+
+0. Inicio
+1. CRTVE
+2. TVE
+3. RNE
+4. Medios Interactivos
+5. Cuestiones Sensibles
+6. El Lenguaje
+7. Anexos
+Entendemos por cuestiones especialmente sensibles aquellas referidas a problemas y retos sociales y/o que afectan a públicos de especiales características que reclaman una mayor exigencia de la ética periodística y un mayor compromiso social por parte de los informadores.
+Las siguientes pautas de conducta pretenden orientar el trabajo de los profesionales de RTVE de modo que resulte conciliable el derecho a la información de los ciudadanos con el respeto a las distintas sensibilidades propiciadas por determinados hechos noticiosos y a los colectivos implicados o afectados, directa o indirectamente, en dichos hechos.
+5.1. Pautas comunes
+5.2. Niños y adolescentes
+5.2.1. Legislación
+5.2.2. Horas y días de mayor presencia infantil
+5.2.3. Derechos del menor
+5.2.4. Normas para la emisión de contenidos
+5.2.4.1. Principios de obligado cumplimiento dentro del horario
+ de protección de menores (06 a 22 horas)
+5.2.4.2. Principios de obligado cumplimiento dentro de las
+ franjas de protección reforzada
+5.2.4.3. Prohibiciones dentro del horario de protección (06 a 22
+ horas)
+5.2.4.4. Pautas para contenidos informativos en horario de
+ protección (06 a 22 horas)
+5.2.5. Participación de los menores en los contenidos de radio, televisión
+ y servicios conexos, interactivos y de información en línea
+5.2.6. Menores y delincuencia
+5.2.7. Imágenes permitidas
+5.2.8. Ideal corporal único
+5.3. Personas mayores
+5.4. La violencia
+5.4.1. La violencia visible
+5.4.2. Guerra
+5.5. Tratamiento de la violencia contra las mujeres
+5.6. Terrorismo
+5.6.1. El concepto
+5.6.2. Obligaciones y recomendaciones para los informadores
+5.7. Concentraciones y manifestaciones
+5.8. Tragedias y catástrofes
+5.9. Violencia con animales
+5.10. Delincuencia
+5.10.1. Precauciones elementales
+5.10.2. Delincuencia y Familia
+5.10.3. Identificación de los autores
+5.10.4. Riesgos de imitación
+5.10.5. Colaboradores y delincuencia
+5.10.6. Demandas de jueces y policía
+5.10.7. Materiales de archivo y delincuencia
+5.11. Juicios paralelos
+5.12. Tratamiento del suicidio
+5.13. Discapacidad y enfermedad
+5.14. Inmigración, racismo y xenofobia
+5.14.1. Los nombres y el concepto
+5.14.2 Pautas para los profesionales de RTVE
+5.14.3. La multiculturalidad y sus límites
+5.15. Información sobre confesiones religiosas
+5.16. Tabaco, alcohol y otras drogas
+5.17. Seguridad vial
+5.1. Pautas comunes 
+Volver al índice
+Cuestiones sensibles y menores.
+ Las normas fijadas para el trato de las cuestiones que exigen un mayor cuidado por parte de los profesionales de RTVE (violencia, discriminación, malos tratos, catástrofes, sexo, delincuencia, xenofobia, etc.) son especialmente obligadas cuando esos materiales puedan ser accesibles para niños y adolescentes.
+Lenguaje.
+ Debe extremarse el cuidado del lenguaje en el tratamiento de asuntos que generen una especial sensibilidad en el conjunto de la sociedad o en sectores determinados de ella.
+Evitar estereotipos. 
+Informar sobre cuestiones especialmente sensibles exige un grado de reflexión especial a fin de huir de los estereotipos.
+Evitar el sensacionalismo.
+ La narración de los hechos en casos referidos a cuestiones de especial sensibilidad debe situarse en el contexto del problema general que manifiestan sin convertirlos en productos llamativos. Debe evitarse cualquier forma de énfasis que aboque al sensacionalismo o a la dramatización.
+Las víctimas.
+ Las víctimas son personas que han sufrido un daño. Es obligado respetar el derecho al anonimato así como el de aquellas otras personas afectadas, directa e indirectamente, en los hechos. También su derecho a no hacer declaraciones o no contestar a preguntas de los medios de comunicación.
+5.2. Niños y adolescentes 
+Volver al índice
+5.2.1. Legislación
+La
+ Constitución
+, en su artículo 20.4, concibe la protección de la infancia y la juventud como cuestión prioritaria, incluso por encima de la libertad de expresión.
+La 
+Ley orgánica 1/1996
+, de 15 de enero, de Protección Jurídica del Menor, establece que:
+Los menores tienen derecho a buscar, recibir y utilizar la información adecuada a su desarrollo.
+Los padres o tutores y los poderes públicos velarán por que la información que reciban los menores sea veraz, plural y respetuosa con los principios constitucionales.
+Las administraciones públicas incentivarán la producción y difusión de materiales informativos y otros destinados a los menores, que respeten los criterios enunciados, al mismo tiempo que facilitarán el acceso de los menores a los servicios de información, documentación, bibliotecas y demás servicios I116culturales. En particular, velarán por que los medios de comunicación en sus mensajes dirigidos a menores promuevan los valores de igualdad, solidaridad y respeto a los demás, eviten imágenes de violencia, explotación en las relaciones interpersonales o que reflejen un trato degradante o sexista.
+La 
+Ley 17/2006, de la radio y la televisión de titularidad estatal, 
+establece que la programación del servicio público encomendada a la Corporación RTVE deberá atender especialmente a los colectivos sociales que requieran una atención específica a sus necesidades y demandas, como la infancia y la juventud.
+La 
+Ley 7/2010, General de la Comunicación Audiovisual, 
+de 31 de marzo,
+establece las obligaciones de los prestadores de servicios de comunicación audiovisual en relación a los menores, que merecen a juicio del legislador y de las instituciones europeas una protección especial.
+5.2.2. Horas y días de mayor presencia infantil
+Edades. 
+A los efectos de estas pautas son niños los menores de 15 años y adolescentes los que tienen una edad superior a 15 e inferior a 18. Niños y adolescentes integran el colectivo de menores de edad.
+Horarios.
+ El horario infantil se extiende desde las 6 hasta las 22 horas. Durante ese tiempo y por imperativo legal no se podrán emitir en RTVE programas, escenas o mensajes que puedan perjudicar el desarrollo físico, mental o moral de los menores y, en particular, programas que incluyan escenas de pornografía o violencia gratuita.
+Franjas reforzadas. 
+La Ley General de la Comunicación audiovisual establece tres franjas de protección reforzada para el público infantil, entendiendo por tal a los menores de trece años: entre las 8 y las 9 horas y entre las 17 y las 20 horas en días laborables y entre las 9 y las 12 horas sábados, domingos y fiestas de ámbito estatal. La franja de protección reforzada de sábados y domingos será de aplicación los días 1 y 6 de enero, Viernes Santo, 1 de mayo, 12 de octubre, 1 de noviembre y 6,8 y 25 de diciembre.
+5.2.3. Derechos del menor
+Derecho al honor, a la intimidad y a la propia imagen del menor 
+[1]
+a- Los menores tienen derecho al honor, a la intimidad personal y familiar y a la propia imagen. Este derecho comprende también la inviolabilidad del domicilio familiar y de la correspondencia, así como del secreto de las comunicaciones.
+b- La difusión de información o la utilización de imágenes o nombre de los menores en los medios de comunicación que puedan implicar una intromisión ilegítima en su intimidad, honra o reputación, o que sea contraria a sus intereses, determinará la intervención del Ministerio Fiscal, que instará de inmediato las medidas cautelares y de protección previstas en la Ley y solicitará las indemnizaciones que correspondan por los perjuicios causados.
+c- Se considera intromisión ilegítima en el derecho al honor, a la intimidad personal y familiar y a la propia imagen del menor, cualquier utilización de su imagen o su nombre en los medios de comunicación que pueda implicar menoscabo de su honra o reputación, o que sea contraria a sus intereses incluso si consta el consentimiento del menor o de sus representantes legales.
+Cuidado especial.
+ Los profesionales deberán tratar con especial cuidado toda información que afecte a menores, deben evitar difundir su nombre, imagen u otros datos que permitan su identificación en el contexto de hechos delictivos o emisiones que discutan su tutela o filiación así como cuando aparezcan como víctimas, testigos o inculpados, especialmente cuando se trate de asuntos de especial trascendencia social como es el caso de los delitos sexuales.
+Para que no se conozca su identidad, hay que evitar también la  identificación de sus padres o familia.
+Menores familiares de famosos. 
+Esta condición no implica en ningún caso una disminución de su derecho a la privacidad. En cuanto a los niños que son por sí mismos personajes públicos, la captación de imágenes que puedan perturbar su vida cotidiana no está en ningún caso justificada.
+[1] Artículo 4 Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor.
+5.2.4. Normas para la emisión de contenidos
+El Código de Autorregulación para la defensa de los derechos del menor en los contenidos audiovisuales, conexos, interactivos y de información en línea de la Corporación RTVE, aprobado por el Consejo de Administración en julio de 2010, establece una clasificación de contenidos por edades atendiendo a cuatro parámetros: comportamientos sociales, violencia, conflictividad y sexo. Así, en el ámbito de la Corporación RTVE se establecen las siguientes calificaciones orientadoras: 
+[1]
+Especialmente recomendados para la infancia.
+Para todos los públicos.
+No recomendados para menores de siete años.
+No recomendados para menores de trece años.
+No recomendados para menores de dieciocho años.
+No obstante, existen unas obligaciones comunes tanto en el horario de protección de menores como en las franjas de protección reforzada.
+[1] Se omiten las particularidades de cada franja así como los sistemas de señalización contemplados para cada una de ellas dado que el documento original está en Intranet, a disposición de todos los trabajadores de la Corporación RTVE.
+5.2.4.1  Principios de obligado cumplimiento dentro del horario de protección de menores (06 a 22 horas)
+El Código de Autorregulación para la defensa de los derechos del menor en los contenidos audiovisuales, conexos, interactivos y de información en línea de la Corporación RTVE, aprobado por el Consejo de Administración en julio de 2010, establece una clasificación de contenidos por edades atendiendo a cuatro parámetros: comportamientos sociales, violencia, conflictividad y sexo. Así, en el ámbito de la Corporación RTVE se establecen las siguientes calificaciones orientadoras: 
+[1]
+Especialmente recomendados para la infancia.
+Para todos los públicos.
+No recomendados para menores de siete años.
+No recomendados para menores de trece años.
+No recomendados para menores de dieciocho años.
+No obstante, existen unas obligaciones comunes tanto en el horario de protección de menores como en las franjas de protección reforzada.
+[1] Se omiten las particularidades de cada franja así como los sistemas de señalización contemplados para cada una de ellas dado que el documento original está en Intranet, a disposición de todos los trabajadores de la Corporación RTVE.
+5.2.4.2  Principios de obligado cumplimiento dentro de las franjas de protección reforzada (definidas en un párrafo anterior)
+a) Todos los contenidos que vayan a difundirse en las franjas de protección reforzada serán visionados y revisados previamente para garantizar su adecuación a la clasificación por edades.
+b) Idénticas cautelas se adoptarán con respecto a las autopromociones o avances de programación.
+c) En los canales generalistas y temáticos o de los servicios conexos, interactivos y de información en línea se incluirán, dentro de las franjas de protección reforzada, autopromociones o avances de programación que identifiquen la oferta de contenidos de la Corporación RTVE que de forma permanente desarrolla una protección activa y constante de los derechos del menor: Clan TVE y la página web infantil del portal RTVE.es.
+d) Atendiendo las especiales circunstancias de los periodos de vacaciones escolares, los responsables de la programación de las cadenas de RTVE mostrarán una especial sensibilidad y cuidado en la programación.
+e) En el supuesto de producirse acontecimientos de acusada relevancia informativa que motiven la emisión en las franjas de protección reforzada de imágenes o noticias no aconsejadas para los menores, se avisará a los telespectadores de la inadecuación de las mismas para el público infantil.
+5.2.4.3 Prohibiciones dentro del horario de protección (06 a 22 horas)
+a) No se podrá difundir el nombre, la imagen ni otros datos que permitan identificar a los menores en los casos en los que, con el consentimiento de los padres o tutores o en su ausencia, puedan quedar afectados su honor, su intimidad o su imagen, o simplemente ser contrarios a sus intereses.
+b) No se podrán divulgar los datos relativos a la filiación o a la adopción de menores de edad.
+c) No se emitirán imágenes ni menciones identificativas de menores como autores, testigos o víctimas de actos ilícitos.
+d) No se utilizarán imágenes ni menciones identificativas de menores con graves patologías o incapacidades con objeto propagandístico o en contra de su dignidad.
+e) No se mostrará a menores identificados consumiendo alcohol, tabaco o sustancias estupefacientes.
+f) No se entrevistará a menores identificados en situaciones de crisis (fugados de su casa, que hayan intentado el suicidio, instrumentalizados por adultos para el crimen, involucrados en la prostitución, con sus padres o familiares allegados implicados en procesos judiciales o recluidos en la cárcel, etc.).
+g) No se permitirá la participación de menores en los programas en los que se discuta sobre el otorgamiento de su tutela en favor de cualquiera de sus progenitores, sobre la conducta de los mismos, sobre violencia de género entre ellos o sobre violencia entre menores.
+h) No se utilizará a los menores en imitaciones de comportamientos adultos que resulten vejatorias.
+i) Los responsables de los programas no asociarán las circunstancias personales adversas de los menores de edad (malos tratos, enfermedades, desestructuración familiar, etc.) como rasgos esenciales de su identidad personal.
+5.2.4.4 Pautas para contenidos informativos que se emitan o se pongan a disposición de los usuarios en horario de protección (06 a 22 horas)
+a) Se evitará la emisión de imágenes de violencia, tratos vejatorios, consumo de cualquier tipo de drogas y sexo no necesarias para la comprensión de la noticia.
+b) Se evitará la emisión de secuencias particularmente crudas o brutales.
+c) En los casos de relevante valor social o informativo que justifiquen la emisión de las noticias o imágenes antes referidas, se avisará a los telespectadores de la inadecuación de las mismas para el público infantil.
+5.2.5. Participación de los menores en los contenidos de radio, televisión y servicios conexos, interactivos y de información en línea.
+a) Las emisiones o contenidos que cuenten con la presencia de menores de edad deben disponer del previo y preceptivo consentimiento de sus representantes legales así como del propio menor, siempre que lo permitan su edad, grado de madurez y circunstancias personales.
+b) En todo el proceso de autorización de la presencia de menores deberá respetarse la legislación relativa a protección de datos de carácter personal.
+c) Con el objetivo de que los menores de edad y sus representantes legales puedan autorizar con pleno conocimiento de causa su participación, los responsables de los contenidos deberán explicar, en términos comprensibles y con carácter previo a la grabación o emisión el objeto, el contexto y la temática del contenido en el que intervengan.
+Salvo en lo referido a las facultades de ordenación de las grabaciones, la participación de los menores de edad no se verá influida o condicionada en ningún momento por los responsables de los contenidos, salvo que esta presencia tenga por objeto el desarrollo de funciones actorales.
+d) Los menores de edad deben estar permanentemente acompañados por alguno de sus representantes legales o por una persona designada por éstos.
+e) Con la finalidad de garantizar y preservar el desarrollo físico, mental y moral de los menores de edad, los responsables de los programas deben evitar, en la participación de los menores de edad, la dramatización y banalización de conductas prohibidas por la legislación vigente y susceptibles de vulnerar los derechos de las personas reconocidos en la Constitución española. Asimismo, es necesario rehuir de situaciones que puedan causar a los menores de edad, entre otros, estados de agotamiento, estrés, miedo, angustia o crisis. En los casos en los que la participación de los menores de edad se realice en emisiones en directo, los presentadores de dichos programas deberán tener la capacidad de evitar y reconducir la posible existencia de las mencionadas situaciones.
+f) Los responsables de los programas deben ser extremadamente cuidadosos y, aunque se cuente con el previo consentimiento, no recurrir a la participación de menores de edad inmersos en situaciones especialmente sensibles y traumáticas, como malos tratos, enfermedades, desestructuración familiar, etc. Deben evitarse situaciones en las que, a pesar de contar con el previo consentimiento, se ponga en peligro a los menores de edad, se vean afectados su equilibrio físico y psíquico, y su intimidad.
+g) Una vez visionado el programa, los menores de edad o sus representantes legales podrán oponerse a la emisión de la participación de los menores, entre otros, en los casos en los que esa participación no se haya circunscrito al objeto, al contexto y a la temática previamente acordados o en los casos en que se hayan producido modificaciones sustanciales en la situación personal de los menores que hayan comportado la oposición de la participación del menor en el programa de televisión. Esa retractación deberá ser razonada y justificada por los representantes legales del menor ante los responsables de los programas.
+5.2.6. Menores y delincuencia
+Participación en delitos.
+ Cuando un menor sea protagonista de un delito, la obligación de los profesionales de RTVE es protegerlo, sea víctima, testigo o acusado. En el caso de un menor declarado culpable por un juez, se respetará escrupulosamente su derecho a la protección de su intimidad.
+Entrevistas a menores de edad relacionados con delitos.
+ Los profesionales de RTVE se abstendrán de entrevistar o grabar a menores de edad sobre temas relacionados con actividades delictivas o encuadradas en el ámbito de la privacidad 
+[1]
+.
+Si se considerara imprescindible mostrar el punto de vista de un menor, será necesario distorsionar la voz y desfigurar la imagen para evitar su reconocimiento.
+Protección de la identidad del menor.
+ No se revelará la identidad, la voz, la imagen ni cualquier dato que pueda identificar a un menor, especialmente si está acusado de un delito o si ha sido víctima de él. La protección de su identidad exige no aportar imágenes ni datos de sus padres o familiares.
+Protección en la web.
+ La protección de los menores en Internet es cometido principal de los padres y tutores y de modo subsidiario de los profesionales de RTVE.
+Datos
+de los menores.
+ Los datos de los menores obtenidos a través de Internet deben ser objeto de una especial protección para evitarles peligros.
+[1] Art.6 Código Deontológico FAPE.
+5.2.7. Imágenes permitidas
+Sí podrán difundirse imágenes de un menor cuando se trate de informaciones relativas al mundo infantil, como inauguraciones del curso escolar, desfiles de moda infantil, estrenos de películas o libros para niños, cabalgatas de Reyes, etc.
+Asimismo, no se considerará antijurídica la difusión de imágenes de menores en lugares públicos cuando aparezcan de manera casual o meramente accesoria a la información principal, siempre que no presenten aspectos negativos cuya asociación con la imagen del menor pueda serle perjudicial.
+También estará justificada la difusión de información veraz y de interés público pese a que afecte a un menor y aunque sea contraria a sus intereses, siempre que se empleen los medios precisos para garantizar su anonimato, tales como no incluir su nombre ni su imagen, distorsionar el rostro o no aportar datos periféricos que puedan llevar a su identificación. En todo caso, si dicha intromisión no está justificada o no se cumplen los requisitos de preservación exigidos, se considerará ilegítima, incluso aunque la difusión de esas imágenes cuente con el permiso del menor maduro o sus representantes legales, tal y como se establece en Artículo 4.3 de la Ley de Protección Jurídica del menor.
+5.2.8. Ideal corporal único
+Modelos físicos y de belleza. 
+RTVE no debe contribuir a propagar ningún modelo físico ideal dado el riesgo de que se convierta en patrón obsesivo para niños, niñas y adolescentes. Nuestra obligación es evitar la consolidación de un único modelo de belleza física como vía de éxito social y afectivo.
+Reflejar la diversidad. 
+Los profesionales de RTVE tienen la obligación de reflejar en los contenidos de los espacios y programas toda la diversidad de su audiencia, compuesta por personas de diverso sexo, edad, raza, color, complexión física, etc. Los modelos de belleza y atractivo que se deben proponer a la audiencia han de ser también variados y deben incluir a ambos sexos y a todas las edades, complexiones, etnias y colores. Los conceptos de triunfo y felicidad no deben vincularse a un prototipo único.
+5.3. Personas mayores 
+Volver al índice
+RTVE reflejará una imagen de las personas mayores que se corresponda con la realidad actual evitando los estereotipos.
+Consecuentemente, RTVE dedicará especial atención a las actividades sociales, políticas, culturales o de otra índole, impulsadas y realizadas por las personas mayores, desde una perspectiva no discriminatoria sino integradora de la vejez en el desarrollo de nuestra sociedad.
+5.4. La violencia 
+Volver al índice
+5.4.1. La violencia visible
+Especial atención requiere el tratamiento de los tipos de violencia más sensibles para los menores, en especial la violencia en lugares considerados seguros por ellos como el hogar o la escuela.
+5.4.2. Guerra
+Origen de la información. 
+En las informaciones sobre conflictos bélicos, se debe identificar siempre la fuente de la noticia con el fin de evitar la intoxicación interesada de uno u otro bando. Cuando una información no ha podido ser contrastada con fuentes independientes deberá indicarse siempre dicha circunstancia.
+Censura impuesta.
+ Si alguno de los protagonistas de la contienda impone alguna forma de censura sobre la el trabajo de los profesionales de RTVE es obligado hacerlo saber a la audiencia.
+Imágenes impactantes. 
+En las situaciones de conflicto bélico, las imágenes y sonidos de víctimas civiles y destrucción en general  suelen ser  material  incómodo para el bando contendiente responsable de  la operación que ha causado esas víctimas. Maniobras para impedir la difusión de sonidos e imágenes de especial crudeza o minimizar su  impacto en la opinión pública son habituales en situaciones de guerra. Teniendo en cuenta  dicha circunstancia, los profesionales de CRTVE mantendrán  el debido respeto a la dignidad de todas las  víctimas sin que ello suponga dejar de mostrar la realidad de la guerra en toda su crudeza.
+Identidad de las víctimas. 
+En el caso de tener que informar sobre combatientes españoles fallecidos en el curso de un conflicto armado o de una misión militar debemos asegurarnos de que su identidad ha sido previamente conocida por sus familiares más directos.
+5.5. Tratamiento de la violencia contra las mujeres 
+Volver al índice
+En la programación de RTVE no se incluirán, entre otros, contenidos que inciten a la violencia, así como a los comportamientos machistas, xenófobos, racistas u homófobos. RTVE prestará, por tanto, una atención preferente a cuantos contenidos estén relacionados con la violencia contra las mujeres y promoverá un compromiso activo en contra de la discriminación de la mujer y la violencia doméstica, evitando la transmisión de mensajes que puedan contribuir a crear en la sociedad sensación de impunidad ante estos delitos.
+Los malos tratos y la violencia contra las mujeres constituyen un atentado contra el derecho a la vida, la dignidad y la integridad física y psíquica de las víctimas.
+Son delitos que no pueden presentarse como un crimen pasional. Por todo ello, RTVE velará para que los contenidos referentes a esta materia tengan presentes las siguientes reflexiones y recomendaciones, basadas en los trabajos realizados por RTVE en colaboración con el Instituto de la Mujer 
+[1]
+:
+1. Evitar modelos de mujer que lesionen su dignidad. 
+Debe contribuirse a erradicar los estereotipos que atribuyen a las mujeres valores y funciones sociales inferiores a los de los hombres. En cambio, debe ampliarse la representación de las mujeres y mostrar su papel en el desarrollo cultural, político, económico y social.
+2. Respetar la identidad y el dolor de la víctima. 
+La víctima no puede ser mostrada sin su permiso ni en momentos de tensión emocional. Nunca se deben utilizar sonidos o imágenes “robados” de la víctima. Sólo se divulgará la imagen si es consentida, pero no al calor de los hechos, sino una vez recuperados la autoestima y el equilibrio emocional. Es necesario reflexionar sobre la conveniencia de mostrar los efectos de los malos tratos y sobre en qué medida puede incurrirse en el morbo. Divulgar las secuelas puede ser una buena herramienta de pedagogía social pero, en todo caso, debe prevalecer el respeto a la integridad moral de las víctimas.
+3. Identificar al agresor. 
+Es necesario recordar el deber de respetar la presunción de inocencia y, por tanto, extremar la cautela en esta cuestión, ya que un error de identidad puede provocar consecuencias irreparables. Sin embargo, sí es importante dejar claro quién es el agresor y quién la víctima. Y más importante aún es definir claramente cómo es el maltratador, su manera de actuar y su comportamiento público o privado, porque ello puede servir para que muchas mujeres puedan tomar conciencia de su situación de riesgo.
+4. No confundir el morbo e interés social. 
+La imagen debe respetar la dignidad de la persona. Los recursos estéticos y la narrativa habitual de los reportajes de sucesos no deben utilizarse en la realización de noticias sobre violencia contra las mujeres. Deben evitarse aquellos recursos de ocultación de las víctimas que den apariencia de criminalización: efecto mosaico, tiras en ojos, disfraces, distorsiones de voz… Se aconseja utilizar otros medios de estética menos agresiva: contraluces, juegos de sombras, voces en 
+OFF
+… En todo caso, el apoyo gráfico de la información debe respetar la dignidad de la persona.
+Igualmente, hay que evitar la reconstrucción de los hechos que abunde en detalles escabrosos o en primeros planos que provoquen el morbo o la conmiseración de la víctima. Las reconstrucciones son útiles cuando se utilizan con afán informativo y cuando son necesarias para la comprensión de los hechos. Los detalles e imágenes escabrosas no inducen al rechazo del maltrato en sí y, en cambio, lo que hacen es dar forma al espectáculo.
+La fabulación de los hechos, una recargada puesta en escena o la utilización de imágenes ficticias pueden contribuir a crear un enfoque irreal del problema.
+5. Extremar la precaución en el uso de fuentes y datos. 
+Los malos tratos domésticos no son un suceso sino que se enmarcan en un problema más amplio, el de la violencia contra las mujeres. Determinadas informaciones sobre desavenencias conyugales pueden ser erróneamente interpretadas e inducir a pensar que los malos tratos pueden ser consecuencia lógica de una situación de deterioro. Por el contrario, subrayar las buenas relaciones de la pareja es un argumento que podría avalar la hipótesis del arrebato pasional.
+6. Vigilar el uso de testimonios cercanos al agresor o a la víctima. 
+En muchos casos, se trata de testimonios inducidos por las preguntas de quien informa y entre personas que en ese momento pueden no ser conscientes de la trascendencia de sus declaraciones e incluso pueden ser parte interesada.
+Deben extremarse, además, las cautelas con aquellas personas que únicamente buscan notoriedad, presencia gratuita ante las cámaras, defensa interesada del agresor, o las que aportan detalles morbosos carentes de valor informativo.
+7. Lenguaje puramente informativo. 
+La utilización de un lenguaje violento desvirtúa las razones de la agresión. Expresiones como “certera puñalada”, “cadáver ensangrentado”, “cosida a cuchilladas”, “había una gran mancha de sangre”, etc. dirigen la atención a aspectos colaterales, incompatibles con los motivos reales de la agresión.
+8. El uso de adjetivos y de tópicos. 
+Se evitarán adjetivos, frases hechas y/o tópicos que puedan introducir ciertas dosis de frivolidad y de banalización. Datos o comentarios en apariencia inofensivos pueden tergiversar gravemente la información y desviar la atención de las verdaderas causas de la tragedia. Utilizar adjetivos como “celoso” o “bebedor” para definir al agresor nos acercan a la exculpación. Decir de la víctima, por ejemplo, que “era joven y guapa”, ”salía con amigas” o “tenía un amante” desvían el foco de lo verdaderamente importante y nos acercan a la disculpa o la comprensión del maltratador. Conviene obviar los comentarios que puedan desprestigiar a la víctima o desviar la atención.
+9. Evitar el efecto 
+narcotizante
+. 
+La difusión continuada de este tipo de informaciones puede generar en la audiencia un efecto 
+narcotizante
+. Para evitarlo, los profesionales deben plantearse tratamientos informativos diferentes y novedosos, evitando fórmulas del estilo de “un caso más”, “otro caso de…”, y sí remarcando, por ejemplo, los aspectos que podrían haberlo evitado.
+Otra sugerencia es aportar material de apoyo, que permita contextualizar la información, así como buscar ramificaciones del problema: salidas, nuevos proyectos, campañas, etc.
+10. Dar información útil. 
+Noticia es un caso de malos tratos con resultado de muerte, pero también lo son las deficientes actuaciones judiciales o policiales, los castigos ejemplares o las víctimas que han logrado rehacer su vida. Es importante completar la información sobre las circunstancias que rodean cada caso, los antecedentes policiales o judiciales, los incumplimientos –si los hay- de las medidas adoptadas o la asistencia recibida por la víctima, todo ello con el objetivo de alertar sobre los posibles riesgos futuros a que están expuestas las mujeres maltratadas.
+No obstante, hay que tener en cuenta la influencia que sobre otras víctimas puede ejercer un tratamiento alarmista de dichos riesgos, ya que disminuiría su confianza en el apoyo que pueda recibir su denuncia.
+Por otra parte, promover o participar en campañas de información y prevención ayuda a ubicar adecuadamente el problema.
+[1] “Mujer, violencia y medios de comunicación” (2002). “Representación de la violencia de género en los informativos de TVE” (2006).
+5.6. Terrorismo 
+Volver al índice
+5.6.1. El concepto
+Definiciones. 
+En 2005, la ONU estableció la siguiente definición del terrorismo: 
+Todo acto que obedezca a la intención de causar la muerte o daños corporales a civiles no combatientes, con el objetivo de intimidar a una población u obligar a un gobierno o a una organización internacional a realizar o abstenerse de realizar un acto.
+ El Tribunal Supremo considera también terroristas las organizaciones que amparan, justifican y apoyan a los grupos que practican la violencia de raíz política. Los profesionales de RTVE emplearán los términos 
+terrorismo
+ y 
+terrorista
+ exclusivamente para designar a las organizaciones así consideradas de modo oficial por la Unión Europea.
+5.6.2. Obligaciones y recomendaciones para los informadores
+Veracidad y precisión.
+ Una información objetiva sobre hechos y personas relacionadas con el terrorismo exige la aportación de todos los datos necesarios para que el receptor del mensaje tenga la exacta dimensión de lo que se trata. El horror de los atentados, la responsabilidad de quienes los cometen, las consecuencias de la violencia, deben ser puestas de manifiesto para evitar el efecto de apología indirecta de los contenidos informativos. No obstante, las actividades terroristas deben ser objeto de un tratamiento informativo especialmente riguroso y ajeno por completo a cualquier tipo de concesiones al sensacionalismo y a la especulación.
+Colisión de derechos.
+ Corresponde a los responsables y a los profesionales de RTVE establecer el adecuado autocontrol de la información, particularmente en caso de colisión entre las libertades y derechos de los ciudadanos a ser informados y el respeto a las actuaciones judiciales o policiales que el ordenamiento jurídico exige. Ninguna actuación de RTVE debe entorpecer la acción de la justicia.
+Todas las víctimas son inocentes. 
+Todas las víctimas son inocentes sean cuales sean las circunstancias en las que hayan sido atacadas o amenazadas. Es obligación de los profesionales de RTVE preservar todos sus derechos así como evitar cualquier aproximación a la justificación de los actos terroristas.
+Respeto a la intimidad y al dolor.
+ El tratamiento informativo de las víctimas del terrorismo, de su condición y estado debe hacerse con el mayor respeto a su situación e intimidad, así como al dolor de sus allegados. La emisión de imágenes y sonidos cuya dureza atente contra la intimidad de las víctimas o pueda herir la sensibilidad de los espectadores y oyentes debe ser evitada.
+Personas amenazadas.
+ Sólo está justificado informar sobre amenazas a personas o sobre la aparición de nombres propios en los materiales requisados a los terroristas cuando los interesados conozcan ya esas circunstancias y hayan autorizado a las fuerzas de seguridad su publicación.
+Datos ocultos. 
+Toda información, dato o imagen que pueda servir de guía o ayuda a los terroristas debe ser ocultada por los profesionales de RTVE.
+Entrevistas. 
+Las entrevistas a miembros de organizaciones terroristas y a políticos pertenecientes a grupos que justifican o no condenan la violencia sólo tienen cabida en RTVE en casos de muy especial interés informativo. RTVE empleará los procedimientos necesarios y conforme a la ley para evitar que sus medios sean utilizados para practicar apología del terrorismo.
+Falsas alarmas.
+ Las falsas alarmas son un instrumento de creación de pánico entre la población utilizado por los terroristas como parte de su estrategia. No se debe informar de ellas, ni siquiera después de comprobarse su falsedad, salvo que la magnitud y/o repercusión de los efectos las hayan convertido en un hecho noticioso.
+Materiales suministrados por terroristas.
+ Los profesionales de RTVE valorarán en cada caso, atendiendo a criterios estrictamente periodísticos y, por tanto, de interés público, la conveniencia de difundir o hacerse eco de declaraciones, comunicados o imágenes elaboradas por terroristas. En el supuesto de que dicha difusión se considere imprescindible, los profesionales de RTVE establecerán los medios necesarios para que el público no sólo conozca los mensajes difundidos por los terroristas sino también la valoración de los legítimos representantes de los ciudadanos y/o de las instituciones democráticas representativas de un estado de derecho. El cumplimiento del derecho a la información debe garantizar ese derecho al tiempo que evitar la divulgación de contenidos meramente propagandísticos de las organizaciones terroristas.
+Lenguaje.
+ El lenguaje es un elemento esencial en la correcta comunicación sobre el terrorismo. Frente al mimetismo terminológico con el lenguaje argumental de los terroristas, se debe contraponer un lenguaje que impida la justificación o dignificación de su actividad delictiva. Sin embargo, puede haber términos que ya hayan sido asumidos por los receptores de la información sin atribuirles carga positiva alguna; sólo en estos casos pueden utilizarse si no se encuentra un sinónimo eficaz.
+La Corporación RTVE velará por que en las informaciones referidas al terrorismo, en cualquiera de sus vertientes y procedencias, se extremen las precauciones con el fin de garantizar un adecuado uso del lenguaje y, a su vez, una información rigurosa y veraz.
+5.7. Concentraciones y manifestaciones 
+Volver al índice
+Despliegues desaconsejados.
+ La sola presencia de equipos móviles, micrófonos y cámaras en el escenario de un conflicto social o político puede modificar la realidad sobre la que tratan de informar e incluso servir de estímulo a los más violentos. Para cubrir informativamente un conflicto que amenaza desarrollar formas violentas es preciso establecer las cautelas necesarias con el fin de limitar los posibles efectos adversos.
+Cálculo de asistentes.
+ El número de participantes en una manifestación es parte esencial de su valor como protesta. Por ese motivo es necesario compulsar las fuentes más solventes en cada caso para ofrecer sus cálculos. En determinadas situaciones puede resultar necesario ofrecer un dato propio siempre que se haya elaborado sobre bases objetivas como la medición de planos y la toma de imágenes aéreas o generales.
+Imágenes de conjunto.
+ Las cámaras deben reflejar del modo más ajustado posible la importancia de la movilización y evitar cualquier recurso para aumentar o reducir su importancia numérica y su significado.
+Imágenes y sonidos ajenos.
+ En los mítines o concentraciones, los profesionales de RTVE no deben aceptar de modo acrítico los enfoques, tiros de cámara y otros elementos básicos de la imagen y el sonido propuestos por los organizadores o sus portavoces. Fijar el tono de la transmisión es cometido exclusivo de los profesionales de RTVE. Si se emplean imágenes o sonidos remitidos por los organizadores de mítines políticos o manifestaciones, debe aparecer su autoría de modo bien visible.
+5.8. Tragedias y catástrofes 
+Volver al índice
+Distanciamiento emocional. 
+Los
+profesionales que aborden la información sobre cualquier clase de tragedia o catástrofe deben evitar ser absorbidos por la corriente de emociones que generan e informar con la distancia exigible a un profesional de la información.
+Compromiso con las víctimas.
+ Ante situaciones como catástrofes y tragedias personales, los profesionales de RTVE extremarán su rigor con el fin de preservar los derechos de las víctimas y sus familiares a su intimidad y evitar la difusión de cualquier tipo de documento que pueda herir la sensibilidad tanto de las víctimas y sus familiares como la del público, en general.
+Respeto al dolor.
+ Los hechos serán tratados observando el mayor respeto al dolor e intimidad de las víctimas y sus familiares y se evitará toda actitud que pueda suponer presión o acoso a las víctimas y/o familiares de ellas para obtener declaraciones e imágenes.
+Sensacionalismo.
+ Los profesionales de RTVE deben evitar toda práctica encaminada a fomentar el culto de la emoción y a incrementar el dramatismo y/o la espectacularidad de sus contenidos:
+a- No podrán introducirse cámaras ni micrófonos en conversaciones privadas, incluidas las telefónicas.
+b- Debe evitarse la información rutinaria o superflua que no añada valor informativo o que pueda resultar lesiva para la privacidad de los afectados.
+c- Debe evitarse la inserción de testimonios que carezcan de valor informativos.
+d- Debe evitarse la propagación de especulaciones y rumores sobre las posibles causas de la tragedia a no ser que, siendo identificados como tales, supongan un elemento valioso y necesario para elaborar la información.
+e- Deben evitarse las autopromociones basadas en imágenes o sonidos procedentes de un hecho trágico.
+f- Debe vigilarse la inserción de imágenes con música u otros efectos que subrayen gratuitamente el dolor. Igualmente, se vigilará la reiteración de imágenes/sonidos y el uso de primeros planos y zooms sobre los afectados.
+Lenguaje inadecuado.
+ Una tragedia de gran magnitud y repercusión social obliga a vigilar el lenguaje de todos los contenidos de la programación a fin de evitar un dolor añadido a las víctimas. Formas de hablar y frases hechas que en otro momento serían inocuas pueden resultar inadecuadas e incluso perjudiciales para las víctimas y para el público en general.
+5.9. Violencia con animales 
+Volver al índice
+Imágenes evitables para los niños.
+ Los niños pueden ver con angustia la violencia ejercida sobre animales por lo que debemos evitársela por todos los medios. En las escenas de caza y las de la matanza doméstica de animales para la alimentación se deben evitar los aspectos más sangrientos, de manera que no se vea ni oiga el sufrimiento de los sacrificados.
+5.10. Delincuencia 
+Volver al índice
+5.10.1. Precauciones elementales
+Presunción de inocencia.
+ Todos los ciudadanos son inocentes mientras no hayan sido judicialmente condenados. Los profesionales de RTVE no deben contribuir de ninguna manera a culpar a quienes no hayan sido condenados aunque se trate de personas acusadas por la policía o el juez instructor. Los datos e imágenes referidos a los acusados deben evitar perjuicios irreversibles para ellos, especialmente en el caso de los menores.
+No alimentar el miedo. 
+La información sobre delincuencia y delincuentes puede tener efectos como el incremento del miedo por parte de la audiencia. Los profesionales de RTVE deben realizar su trabajo sin contribuir a crear o aumentar la alarma social.
+Derechos de las víctimas. 
+El derecho a la información de los ciudadanos sobre hechos delictivos y comportamientos antisociales tiene como límite principal el respeto a la dignidad y la intimidad de las víctimas. Debe respetarse el derecho de las víctimas de un delito a no serlo doblemente por causa de la publicidad de los hechos. El derecho de la víctima a no aparecer identificada como tal en un caso de delito debe primar sobre el derecho de los ciudadanos a ser informados.
+5.10.2. Delincuencia y familia
+Delitos en el ámbito familiar. 
+En los delitos cometidos por un familiar sobre otro resulta difícil evitar que sea identificada la víctima si se ofrecen los datos del delincuente y el tipo de delito. Cuando sea posible y no cree indefensión, es aconsejable evitar expresiones como incesto ya que señala inequívocamente quién es la víctima. Con la única finalidad de proteger a ésta se debe evitar la identificación del agresor con datos significativos.
+Violación. 
+En los casos de violación es obligatorio omitir el nombre de la víctima y todas las circunstancias que puedan identificarla de modo inequívoco.
+5.10.3. IDENTIFICACIÓN DE LOS AUTORES
+Presunto y supuesto. 
+Una persona es un 
+supuesto
+ delincuente cuando existen indicios de criminalidad pero no se le ha abierto causa judicial. En cambio, se debe emplear 
+presunto
+ cuando, por haber presunción de delito, se han abierto diligencias procesales, pero no hay fallo de la sentencia aún.
+Imputado.
+ Es la persona a la que se imputa un acto punible, aquella en la que recaen sospechas sobre la comisión de un hecho que tenga caracteres de delito. En el campo procesal penal también se le denomina 
+inculpado
+.
+Procesado. 
+Para hablar de 
+procesado
+ debe haberse dictado un auto de procesamiento contra el imputado.
+Acusado.
+ Podemos hablar de 
+acusado
+ cuando, una vez terminada la fase de instrucción, se pasa a celebrar juicio oral, calificándose su actuación y solicitándose una pena.
+Sospechoso.
+ La presunción de inocencia supone que toda persona es inocente hasta que exista una sentencia judicial que declare su culpabilidad. Si se comete un asesinato y la policía detiene a una persona, al decir 
+presunto asesino
+ estamos diciendo que esa persona es culpable salvo que se demuestre su inocencia. Además, esa forma de hablar hace que la opinión pública condene socialmente al detenido antes de ser juzgado. Por ello, se sugiere que se utilice 
+sospechoso.
+Identificación del delincuente.
+ Es nuestra obligación identificar suficientemente al presunto delincuente porque esos datos forman parte esencial del hecho sobre el que informamos. Sólo en caso de presuntos delincuentes menores de edad se debe eludir cualquier dato que permita la identificación inequívoca.
+Menores sujetos a tratamiento judicial.
+ Según la Ley del Menor, lo que cumplen las personas con una edad inferior a los 18 años son medidas (no penas); pueden por ello ser internados (no recluidos o encarcelados) en habitaciones (no celdas) en centros de menores (no reformatorios).
+Sectores sociales señalados. 
+En los delitos que provocan alarma social justificada, los profesionales de RTVE deben ser especialmente cuidadosos para no orientar la reacción de la opinión pública contra sectores sociales señalados con razón o sin ella como potencialmente peligrosos y evitar la creación y afianzamiento de estereotipos.
+Datos sensibles.
+ La condición social, profesión, etnia o color de piel, la procedencia y la orientación sexual del presunto delincuente nunca deben aparecer en primer término porque podría entenderse como causa del delito, lo que provocaría juicios de valor injustos y peligrosos. Tales datos pueden ser aportados, sin forzar su relevancia, como parte de la identidad del presunto delincuente.
+Derechos de los ex delincuentes.
+ Los delincuentes que han cumplido condena y no han reincidido han dejado de ser delincuentes a todos los efectos y son ciudadanos en plenitud de sus derechos. Publicar su nombre o imagen sin autorización no está justificado. En este sentido, debe vigilarse el uso de imágenes o testimonios de archivo.
+5.10.4. Riesgos de imitación
+Los delitos no deben resultar atractivos. 
+Las actividades delictivas o antisociales de las que informen los profesionales de RTVE no deben resultar nunca atractivas.
+Evitar el exceso de detalles. 
+La información sobre delitos puede generar casos de imitación por lo que es obligado evitar el exceso de detalles.
+5.10.5. Colaboradores y delincuencia
+Pagos prohibidos. 
+Si los delincuentes cuya colaboración en una información sobre delincuencia es considerada de gran interés reclaman a cambio alguna forma de pago en dinero o en especie, los profesionales de RTVE no deben consentirlo ya que está prohibido pagar por obtener cualquier clase de información.
+Testigos.
+ No se deben realizar ni, por tanto, publicar entrevistas con testigos sobre las pruebas que van a aportar al tribunal en un caso de delito si el proceso está iniciado y todavía no han testificado.
+Asistencia pactada a hechos delictivos. 
+Los profesionales de RTVE no deben establecer citas previas para asistir y grabar actos delictivos. La misma premisa es aplicable a los casos de comportamientos incívicos o antisociales como pueden ser actos de gamberrismo o consumo de alcohol en público por parte de menores.
+5.10.6. Demandas de jueces y policía
+Peticiones de parte. 
+Los profesionales de RTVE no deben facilitar a nadie materiales informativos propios que puedan ser utilizados como prueba en un litigio.
+Peticiones de Jueces. 
+Los jueces pueden reclamar material grabado, notas, teléfonos de contacto, correos electrónicos o cualquier otro medio de conexión entre los profesionales de RTVE y los delincuentes. La Dirección atenderá la petición en cada caso y procederá de la manera adecuada. En cualquier caso la Dirección comunicará la petición a la Asesoría Jurídica.
+Materiales no emitidos. 
+En condiciones ordinarias los materiales no emitidos deben mantenerse como materiales exclusivos de la actividad profesional pues no están disponibles para nadie si no media una orden judicial. Incluso esa orden se podrá impugnar si la entrega puede crear problemas a profesionales o colaboradores ocasionales y poner en peligro la obtención de nuevos materiales de interés público. Cabe la negativa también si el material no emitido revela la identidad de una fuente que ha exigido el anonimato.
+Salvedad de secreto. 
+En los casos en que quepa alegar el derecho al secreto profesional y de las fuentes informativas, los profesionales pueden negarse a facilitar datos, grabaciones y otros materiales a la policía judicial y a los jueces en los términos y con las consecuencias reflejados en las leyes.
+5.10.7. Materiales de archivo y delincuencia
+Peligro de banalización. 
+La emisión rutinaria de los materiales de archivo para ilustrar actividades delictivas o antisociales puede producir efectos indeseados como la banalización del delito.
+Materiales no intercambiables.
+ Ningún hecho delictivo es genérico, todos tienen sus características particulares, lo que impide emplear material de un caso para ilustrar otro por falta de materiales o por simple comodidad. Menos admisible es aún utilizar la imagen archivada de un delincuente para ilustrar un hecho delictivo en el que no ha participado.
+5.11. Juicios paralelos 
+Volver al índice
+Los profesionales de RTVE deben evitar que sus informaciones alimenten juicios paralelos a personas implicadas en un proceso judicial. Es legítimo que los medios de comunicación sigan de cerca las consecuencias de hechos que han captado la atención de la audiencia pero siempre sin desvirtuar su dimensión y veracidad. La amplitud, pormenores y lenguaje de cada seguimiento informativo deben ir en consonancia con la importancia real de la noticia y huir del interés morboso y/o desproporcionado.
+Políticos imputados. 
+Cuando el juez instructor o un tribunal implica a un cargo político en un delito, la obligación de RTVE es mantener informada a la audiencia sin alimentar un juicio paralelo. Esa exigencia es compatible con el mantenimiento de un debate equilibrado y plural sobre la significación política de los datos que se van conociendo y el modo en que el partido implicado actúa antes de que se dicte sentencia. La información y el debate sobre las responsabilidades políticas del implicado y su partido no suponen un juicio paralelo.
+Datos acusatorios.
+ Los profesionales de RTVE no deben incluir en sus informaciones datos que puedan llevar a la audiencia a condenar por anticipado a un presunto delincuente si no son parte sustancial de los hechos. Debe evitarse cualquier alusión a conductas y consumos que sin estar prohibidos por la ley se consideran socialmente negativos ya que pueden predisponer a un juicio previo injusto por parte de la audiencia.
+Programas de testimonios. 
+Los programas destinados a desmenuzar hechos que han causado impacto en la opinión pública mediante la aportación de testimonios más o menos cercanos a los protagonistas del conflicto pueden acarrear la puesta en marcha de juicios paralelos. Este tipo de formatos no tiene cabida en RTVE. Cuando la transcendencia de los hechos obligue a mantener en antena un asunto de actualidad, RTVE primará la intervención de expertos y autoridades en la materia.
+Denuncias particulares.
+ Las denuncias de los ciudadanos sólo serán tenidas en cuenta como posible materia informativa si el acusador las ha presentado ante las instancias judiciales. Si no media denuncia judicial, la obligación de los profesionales de RTVE es confirmar con pruebas la verdad de los hechos y sólo entonces hacerlos públicos.
+5.12. Tratamiento del suicidio 
+Volver al índice
+Especial sensibilidad.
+ Como pauta genérica, deben evitarse las informaciones e imágenes referidas a suicidios y autolesiones de gravedad y, más aún, cuando sus protagonistas sean niños o adolescentes. En RTVE, el suicidio debe considerarse un asunto especialmente sensible, tanto en los programas de actualidad como en los de ficción.
+Excepciones.
+ Sólo de forma excepcional y por razones muy justificadas se podrá citar el suicidio como causa de una muerte, especialmente cuando se trate de personalidades relevantes o cuando revelen un hecho social de interés general.
+Información responsable.
+ La responsabilidad debe implicar, entre otros aspectos, considerar los sentimientos de los parientes, evitar la descripción detallada del método de suicidio adoptado y tener en cuenta la sensibilidad del público receptor. Aunque pueda resultar relevante indicar cómo murió una persona, proporcionar demasiados detalles podría estimular a otras personas a probar esos métodos. Descripciones explícitas también pueden acentuar el desamparo de los familiares y allegados del difunto, particularmente el de los niños.
+Precauciones:
+Deben evitarse explicaciones simplistas y las basadas en la especulación
+No debe justificarse el suicidio con valores morales dignos de imitarse como el valor, amor, dignidad, honor, etc.
+No debe asociarse el suicidio a expresiones como éxito, salida, opción, solución, etc.
+5.13. Discapacidad y enfermedad 
+Volver al índice
+Discapacidad.
+ Nadie debe ser definido o presentado por una de sus cualidades o carencias. Debemos informar sobre las discapacidades importantes de una persona sólo si afecta de modo directo o indirecto al hecho o problema del que informamos. La discapacidad sólo debe aparecer en el título o el arranque de una información cuando sea la razón de su gravedad. Debe evitarse difundir percepciones estereotipadas, sesgadas o producto de los prejuicios sociales que pudieran subsistir.
+Eufemismos con sentido. 
+Existen palabras de uso común y sin sentido peyorativo que expresan y/o describen una carencia (ciego, sordo, manco, etc.) Es innecesario el empleo de eufemismos como invidente, persona con dificultades auditivas, etc., aunque su uso pueda ser recomendable, como expresiones sinónimas, para evitar reiteraciones.
+Discapacidad mental.
+ En el caso de discapacidades psíquicas, una forma de proteger los derechos de quienes las padecen consiste en nombrar la enfermedad y no describir con ella a quienes la padecen. Hay que hablar de 
+personas con síndrome Down
+ y nunca de 
+subnormales
+, de 
+enfermos de esquizofrenia
+ y nunca de 
+locos
+.
+Sucesos.
+ La enfermedad mental no tiene porqué estar directamente relacionada con la comisión de actos violentos. En sucesos violentos, no se debe prejuzgar que la enfermedad mental es la causante del hecho.
+Imágenes y testimonios desaconsejados.
+ Conviene evitar el uso de imágenes, testimonio o sonidos que transmitan aislamiento social o despierten compasión o rechazo. Por otra parte, muchas enfermedades mentales son invisibles; para ilustrar una noticia relacionada con ellas, no es lícito recurrir a imágenes de otras enfermedades parecidas con síntomas más visibles.
+Integración.
+ El derecho de acceso de las personas afectadas por discapacidades de cualquier tipo está garantizado en RTVE, lo que significa que sus profesionales están obligados a facilitar su integración y evitar cualquier forma de discriminación.
+5.14. Inmigración, racismo y xenofobia 
+Volve al índice
+RTVE debe evitar la superficialidad y las visiones estereotipadas cuando se aborden asuntos referidos a la inmigración, el racismo y la xenofobia. Para ello, aunque se informe de la vertiente jurídico-policial de estos asuntos (sucesos, muertes, etc.), debe fomentarse la presencia de informaciones que incidan en las cuestiones de fondo. Los profesionales de RTVE deben adoptar una actitud responsable y activa en el fomento de la convivencia y la promoción de valores éticos.
+5.14.1. Los nombres y el concepto
+Inmigran
+te. 
+Los profesionales de RTVE, cuando usen el término 
+inmigrante
+, deben evitar cualquier connotación peyorativa. Aunque sea correcto hablar de “la inmigración” como fenómeno social, cuando se aluda a personas concretas es preferible citarlas por su nacionalidad, es decir, un francés, un colombiano, una marroquí, etc. En el caso de inmigrantes que hayan obtenido la nacionalidad española debemos reconocer su condición de españoles aunque podamos añadir que se trata de españoles de origen francés, colombiano o marroquí, etc.
+Ilegales.
+ No cabe calificar de ilegal a un inmigrante dado que no es un delincuente ni un criminal, sino que simplemente puede encontrarse en una situación de irregularidad; en este caso, la infracción que comete no es un delito sino una infracción administrativa. 
+Irregular
+ es la forma más adecuada de referirse a esta situación. También es correcto referirnos a situaciones de este tipo utilizando expresiones como 
+persona sin papeles
+ o 
+persona indocumentada
+.
+5.14.2. Pautas para los profesionales de RTVE
+Inmigración y delincuencia. 
+Debe
+evitarse el vínculo entre inmigrantes y violencia, ilegalidad, delincuencia. Con frecuencia, los medios de comunicación se ocupan de los grupos étnicos minoritarios y de la población inmigrante con motivo de conflictos sociales protagonizados o sufridos por ellos. Aunque explícitamente no se relacione la delincuencia con la inmigración, su yuxtaposición habitual puede consolidar los prejuicios que relacionan un fenómeno social con otro.
+Datos
+eludibles. 
+Sólo cuando sea estrictamente necesario para comprender el sentido de una información es aconsejable citar datos personales de un ciudadano tales como el grupo étnico al que pertenece, el país de origen, el color y su confesión religiosa.
+Uso de imágenes y sonidos de archivo.
+ No deben utilizarse imágenes, fotografías o sonidos de archivo que no estén debidamente contextualizadas y que, en cambio, contribuyan a la fijación de estereotipos.
+Menores con los mismos derechos. 
+Debe cuidarse muy especialmente la imagen de los menores inmigrantes, sujetos de la misma protección legal debida a toda la infancia y la juventud.
+También informaciones positivas.
+ Los profesionales de RTVE deben diversificar los contenidos de las informaciones protagonizadas por inmigrantes a fin de que la audiencia conozca sus problemas y sus logros . La mejor forma de combatir prejuicios es mostrar su contribución al bienestar general y el enriquecimiento cultural y social que supone su presencia.
+Conflictos.
+ Cuando se produzca algún conflicto entre la población local y una persona o grupo de inmigrantes la obligación de los profesionales de RTVE es mantener la más absoluta imparcialidad y dar voz a todas las partes a fin de informar de modo veraz. Lo mismo deben hacer si el conflicto es entre inmigrantes de diversas proveniencias. En el caso de inmigrantes cuya estancia no sea legal y rehúyan comparecer ante cámaras y micrófonos, se deben buscar portavoces autorizados que comuniquen sus posiciones.
+Racismo en el deporte. 
+La reiteración de incidentes de tipo racista en el ámbito deportivo se puede convertir en un vehículo de expansión de actitudes racistas. Es obligación de los profesionales contribuir a su denuncia y favorecer su tratamiento como delitos.
+Uso adecuado del lenguaje.
+ Deben evitarse palabras y expresiones que, por un uso simplista y estereotipado, puedan perjudicar a todo un colectivo: avalancha, oleada, llegada masiva, alud, invasión, etc.
+5.14.3. La multiculturalidad y sus límites
+Derechos comunes.
+ La defensa del patrimonio cultural propio de los inmigrantes tiene su límite en los derechos reconocidos por la Constitución, que deben ser respetados por todos. Ninguna singularidad propia de grupos o etnias puede prevalecer sobre el ordenamiento jurídico vigente para cuantos viven en España.
+Integración.
+ Los profesionales de RTVE pueden y deben contribuir a la integración de los inmigrantes en la sociedad española. La integración no equivale a la pérdida de la identidad de los recién llegados sino que implica la interacción y convivencia de españoles e inmigrantes.
+5.15. Información sobre confesiones religiosas 
+Volver al índice
+Marco legal.
+ La aconfesionalidad del Estado consagrada por la Constitución de 1978 es el marco al que los medios públicos de RTVE deben ajustar su trabajo respecto de toda confesión religiosa.
+Igualdad. 
+Todas las creencias y prácticas religiosas deben ser tratadas en RTVE con el mismo respeto, atención e imparcialidad.
+Conocimiento.
+ Los profesionales de RTVE deben tener el suficiente conocimiento e información de todas las religiones presentes en su audiencia, sus cultos, lenguaje, santoral y calendario a fin de no ofender involuntariamente los sentimientos religiosos a quienes las profesan.
+Celebraciones.
+ Las celebraciones religiosas sólo son de interés para los medios de RTVE cuando representan parte del acerbo cultural de los españoles, de la mayoría o de las minorías, nunca por motivos confesionales.
+Crítica. 
+Las expresiones religiosas y los mensajes públicos de sus representantes son materia opinable y pueden ser sometidas a las valoraciones discrepantes sin faltar por ello al respeto.
+Iglesia Católica.
+ La confesión católica es la más seguida por la audiencia de RTVE. Las informaciones sobre opiniones, normas y actuaciones de la Iglesia Católica deben ser elaboradas con los mismos criterios que cualquier otro tipo de información.
+Proselitismo.
+ Ningún profesional de RTVE tiene derecho a utilizar su trabajo para expandir sus convicciones religiosas o la ausencia de ellas.
+5.16. Tabaco, alcohol y otras drogas 
+Volver al índice
+En la información sobre consumo de sustancias nocivas, permitidas o no por la ley, no debe animarse a su consumo.
+Niños.
+ En los programas destinados a los niños estos contenidos solo tienen razón de ser cuando se trate de prevenirles sobre los riesgos de estas sustancias.
+5.17. Seguridad vial 
+Volver al índice
+Respaldo.
+ Los profesionales de RTVE tienen la obligación de respaldar y difundir el respeto a las normas como uno de los pilares de la seguridad vial. La información periódica y realista sobre accidentes de carretera y sus causas así como sobre los riesgos y los efectos de una conducción temeraria es una contribución exigible a los medios públicos que componen RTVE. Asimismo, los programas de ficción y entretenimiento, dada su capacidad para difundir modelos sociales, pueden desempeñar una función promotora de la seguridad vial.
+Menú de navegación principal
+Noticias
+RTVE Play
+RNE Audio
+Play Noticias
+RTVE Participa
+Filmoteca
+Televisión
+Radio
+Deportes
+Tiempo
+Clan
+Laboratorio
+Menú de Televisión Española
+2° Dividendo Digital
+RTVE Botón Rojo
+Corresponsalías
+TVE Internacional
+TVE Catalunya
+TVE Canarias
+Teletexto
+Centros Territoriales
+TVE en directo
+Menú de Radio Nacional de España
+Radio Nacional
+Radio Clásica
+Radio 3
+Ràdio 4
+Radio 5
+Radio Exterior
+Podcast
+Frecuencias
+Menú de la Corporación RTVE
+Transparencia
+Sostenibilidad
+RTVE Comunicación
+Manual de estilo
+Código de autorregulación
+Derecho de acceso
+Ofertas de empleo
+RTVE 2030
+Defensora de la Audiencia
+Observatorio de Igualdad
+Observatorio de la Infancia y la Adolescencia
+Canal Ético
+Instituto RTVE
+Orquesta Sinfónica y Coro RTVE
+Dirección Comercial
+Impulsa Visión
+Perfil del Contratante
+Contratación audiovisuales
+Archivo RTVE
+Aviso legal
+Política de privacidad
+Política de cookies
+Política de WhatsApp
+Política de seguridad
+Accesibilidad
+Mapa web
+Contacto
+Normas de Participación
+©
+ Corporación de Radio y Televisión Española 2026

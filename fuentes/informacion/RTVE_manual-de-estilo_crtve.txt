@@ -1,0 +1,443 @@
+Manual de Estilo de RTVE — 1. CRTVE
+https://manualdeestilo.rtve.es/crtve/
+Leído el 2 de septiembre de 2026.
+
+AVISO SOBRE LA RUTA: el programa da la dirección en **http**, y por ahí el
+sitio responde 403. No es el servidor: es la política de salida de este
+entorno, que solo deja pasar https. Con **https** la misma dirección responde
+200 y sirve el manual entero. El manual está en ocho páginas, una por
+capítulo, y aquí va cada una en su fichero.
+
+Se recorta la navegación del portal y se conserva el cuerpo.
+
+0. Inicio
+1. CRTVE
+2. TVE
+3. RNE
+4. Medios Interactivos
+5. Cuestiones Sensibles
+6. El Lenguaje
+7. Anexos
+1.1. La información en CRTVE
+1.1.1. La información y el interés público
+1.1.2. Información y opinión. Espacios de opinión
+1.1.3. El respeto a la intimidad, al honor y a la propia imagen
+1.1.3.1. Los pilares del respeto
+1.1.3.2. La intimidad de las víctimas
+1.1.3.3. La intimidad de los famosos
+1.1.4. Fuentes informativas y credibilidad
+1.1.4.1. Autoría de los contenidos emitidos
+1.1.4.2. Identificación de las fuentes informativas
+1.1.4.3. Precauciones que debe adoptar el profesional de RTVE ante determinados materiales informativos
+1.1.4.4. La información propia
+1.1.4.5. Credibilidad
+1.1.4.6. Derecho de Rectificación
+1.1.4.7. Derecho de Réplica
+1.1.5. Tratamiento de personas e instituciones invitadas a participar en espacios de RTVE
+1.1.6. Información política
+1.1.7. Derecho de acceso
+1.1.7.1. Legitimación
+1.1.7.2. Competencia sobre la atribución de tiempos y horarios de emisión
+1.1.7.3. Modalidades de ejercicio
+1.1.7.4. Obligaciones de RTVE como consecuencia del ejercicio del derecho
+1.1.7.5. Límites al ejercicio del derecho
+1.1.8. Sondeos y encuestas
+1.1.9. Límites en el tratamiento de los hechos
+1.1.10. Límites en las relaciones de los profesionales de RTVE con marcas y empresas
+1.2. El entretenimiento, las artes y la cultura en CRTVE
+1.2.1. El entretenimiento en CRTVE
+1.2.1.1 Entretenimiento de calidad
+1.2.1.2. Ficción
+1.2.1.3. Programas infantiles
+1.2.1.4 Retransmisiones y programas deportivos
+1.2.1.5. Concursos
+1.2.1.6. Otros programas de entretenimiento
+1.1. La información en CRTVE 
+Volver al índice
+1.1.1. La información y el interés público
+La información de calidad es la principal razón de ser y la prioridad incuestionable de RTVE en todos sus medios, canales, soportes y géneros. Los profesionales de RTVE tienen el deber de ofrecer a los ciudadanos una información rigurosa, neutral, imparcial, plural e independiente de cualquier grupo político, económico o de presión.
+Estas obligaciones conciernen no sólo a los espacios informativos sino al conjunto de la programación y, dentro de ella, muy especialmente, a los considerados programas de actualidad. RTVE debe ser referencia informativa de la sociedad española no sólo por la calidad de sus productos informativos sino por la calidad de su información en todos los medios, géneros y formatos.
+Alcanzar estos estándares de calidad sólo es posible si los profesionales de RTVE acreditan día a día el dominio del lenguaje escrito y audiovisual y la capacidad de ofrecer, desde el conocimiento profundo de la actualidad, la reflexión y la especialización, una información rigurosa y de interés público.
+1.1.2. Información y opinión. Espacios de opinión
+Opinión e información deben estar claramente delimitadas
+[1]
+. Se observará siempre una clara distinción entre los hechos y las opiniones, evitando toda confusión entre ambas cosas, así como la difusión de conjeturas y rumores sin especificar claramente su condición de tales.
+[2]
+ Todas las opiniones y valoraciones que ofrezca RTVE deben estar claramente identificadas y diferenciadas del relato de los hechos. Este criterio es aplicable no solo a los espacios puramente informativos sino a todos aquellos en los que participen espectadores, oyentes y/o usuarios de medios interactivos.
+La Corporación RTVE y sus profesionales no adoptarán posicionamiento ideológico más allá de la defensa de los valores constitucionales
+[3]
+.
+Espacios de opinión
+RTVE habilitará en sus distintos medios espacios de opinión y debate en los que se reflejará la expresión plural y equilibrada de las distintas opiniones en torno a los asuntos de interés social. Los puntos de vista que se incluyan vendrán delimitados por la representación institucional, social o económica de los testimonios y por el interés informativo.
+[4]
+ Cuando una o más partes invitadas declinen su participación en un espacio de opinión se informará de ello a la audiencia.
+En estos espacios, los profesionales de RTVE evitarán cualquier tipo de posicionamiento y estarán obligados a mantener una actitud neutral y que favorezca un debate enriquecedor para el ciudadano.
+En aquellos espacios creados en cumplimiento del Derecho de Acceso de los grupos sociales y políticos significativos a la programación de RTVE, los profesionales de RTVE están obligados a utilizar los recursos oportunos en cada situación para no contribuir a difundir contenidos contrarios a los valores y principios constitucionales o que vulneren derechos fundamentales de terceros.
+[5]
+ La misma obligación es aplicable a los profesionales de RTVE que conduzcan o moderen espacios de participación ciudadana.
+La libertad de expresión no ampara en ninguna circunstancia el uso de expresiones insultantes, insinuaciones insidiosas, injuriosas o vejatorias.
+Los colaboradores que presten sus servicios a RNE, TVE y rtve.es deberán tener presente el cumplimiento del Estatuto de Información y de este Manual de Estilo.
+[1] Principios Básicos de Programación.
+[2] Artículo 9.1.Estatuto de Información de la Corporación RTVE.
+[3] Artículo 10-b Mandato-marco
+[4] Artículo 10-c Mandato Marco
+[5] Directrices básicas del Derecho de Acceso
+1.1.3. El respeto a la intimidad, al honor y a la propia imagen
+La Corporación RTVE garantizará el más escrupuloso respeto al derecho de todas las personas al honor, la intimidad personal y familiar y la propia imagen.
+1.1.3.1. Los pilares del respeto
+RTVE, cuando deba difundir información sobre situaciones dramáticas, deberá armonizar los intereses informativos con la obligación de evitar el dolor innecesario tanto a víctimas como a familiares.
+[1]
+Derecho a la información respetuosa.
+ Los profesionales de RTVE deben hacer su trabajo compaginando su derecho a la libertad de expresión con el derecho de los ciudadanos a no hacer pública su intimidad. Ese respeto ha de ser más escrupuloso cuando informen de hechos en los que se hayan producido víctimas.
+Límites.
+ La única excepción al derecho a la intimidad se produce cuando debemos informar sobre asuntos de interés público que justifican una intromisión en el ámbito privado de un ciudadano en los términos y condiciones que viene reiterando el Tribunal Constitucional.
+Interés público real.
+ Existe verdadero interés público cuando lo derechos a la seguridad, la salud, la convivencia, la igualdad jurídica o el bienestar de amplios sectores sociales pueden ser dañados por la conducta impropia de una persona o grupo que desea mantener oculta su actividad.
+Interés del público.
+ Una cosa es el interés público y otra el interés del público. El atractivo morboso que pueden suscitar determinados sucesos o la vida privada de personas con notoriedad pública no justifica la intromisión en la intimidad de los ciudadanos.
+[1] Artículo 14 Mandato-marco
+1.1.3.2. La intimidad de las víctimas
+Dolor privado.
+ El derecho a la intimidad debe ser especialmente respetado en los casos de sufrimiento y desgracia. El dolor de las víctimas es un sentimiento privado.
+Víctimas de desastres.
+ En las informaciones sobre desastres naturales, atentados, guerras o graves accidentes, los profesionales de RTVE deben hacer compatible la información veraz y clara con el derecho de las víctimas a no quedar expuestas a la mirada pública en los momentos más difíciles y dolorosos.
+Imágenes especialmente duras y/o dramáticas.
+ El uso de este tipo de imágenes se debe limitar a los casos en que tengan un alto valor informativo y su emisión sea necesaria para entender el alcance de lo sucedido. Reproducir imágenes o sonidos de gran impacto y/o violencia únicamente por su valor visual o auditivo no está justificado en RTVE. El recurso de avisar con antelación sobre el carácter violento de imágenes o sonidos no exime de la responsabilidad que conlleva la emisión de materiales prescindibles porque incluso puede atraer más la atención de la audiencia.
+Detalles.
+ Los primeros planos de personas heridas y cadáveres son siempre innecesarios, incluso si se trata de víctimas de atentados terroristas. Lo mismo cabe decir de las personas que estén sufriendo una situación de gran tensión. Debemos describir el horror sin causar más daño a sus víctimas.
+Honras fúnebres.
+ La cobertura informativa de funerales y entierros requerirá la autorización expresa de los familiares o allegados directos de los fallecidos.
+Desaparecidos.
+ En los casos de desapariciones, especialmente si se trata de adultos, es necesario comprobar qué hipótesis manejan las fuerzas de seguridad y otras fuentes cercanas con el fin de evitar una alarma general que resulte injustificada. Un alto porcentaje de las desapariciones son voluntarias. Debemos respetar el margen que se concede la policía antes de lanzar la alarma de la desaparición. En el caso de niños y ancianos, sin embargo, este plazo será mínimo dada la indefensión de los protagonistas, pero aún así ha de iniciarse el seguimiento informativo en colaboración con las fuerzas encargadas de la búsqueda.
+Materiales luctuosos de archivo.
+ El material de archivo de hechos en los que se hayan producido víctimas y que contenga imágenes y/o sonidos de dolor debe ser utilizado con especial cuidado a fin de no reavivar sentimientos de angustia en sus protagonistas. Especialmente delicada es la utilización de dicho material en programas recordatorios de los hechos como son, por ejemplo, los derivados de un aniversario. En estos casos, siempre que sea posible, se buscará la autorización de los afectados aunque la decisión de emitir o no dicho material corresponde a los responsables editoriales del programa.
+Custodia de datos privados.
+ Los profesionales de RTVE no pueden difundir ni entregar a terceros los datos de identidad (número de teléfono, domicilio, correo electrónico, etc.) facilitados por los protagonistas de informaciones, participantes en programas de radio o televisión o comunicantes a través de internet.
+Datos privados de menores.
+ En el caso de los datos facilitados por menores, el control debe ser aún más riguroso. No deben compartirse con nadie ni siquiera con permiso de padres y tutores.
+1.1.3.3. La intimidad de los famosos
+Intimidad y fama.
+ Las personas que han accedido a la notoriedad pública a través de cualquier medio legítimo tienen derecho a mantener su vida privada a salvo de cualquier intromisión. Todo medio empleado para forzar el derecho a la intimidad es ilegítimo y, por tanto, sus frutos no pueden servir de base para elaborar informaciones, programas de actualidad o de entretenimiento en RTVE.
+Materiales ajenos.
+ Las limitaciones a la libertad de información sobre personajes famosos o notorios se deben aplicar de igual manera a los materiales obtenidos por personas o entidades ajenas a RTVE como son productoras o ciudadanos privados.
+Acoso.
+ Los profesionales de RTVE no deben ejercer la práctica de someter a cerco a personas que gozan de notoriedad social a fin de buscar declaraciones u obtener imágenes no autorizadas aunque se encuentren en lugares públicos como la calle o un aeropuerto. La puerta del domicilio familiar debe considerarse a todos los efectos lugar privado y, por tanto, inaccesible para los profesionales sin el permiso expreso de su titular.
+Menores.
+ La relativa limitación de privacidad que implica la fama aceptada libremente sólo es aplicable a sus titulares, nunca a sus hijos menores. En cuanto a los menores que sean por sí mismos personajes públicos y notorios deben estar especialmente protegidos, lo que impide la captación y emisión de imágenes o testimonios que puedan perturbar su vida.
+1.1.4. Fuentes informativas y credibilidad
+RTVE difundirá únicamente informaciones fundamentadas. Las informaciones deberán ser contrastadas con un número suficiente de fuentes.
+[1]
+RTVE evitará difundir afirmaciones o datos imprecisos y sin base suficiente que puedan lesionar o menoscabar la dignidad de las personas y el derecho a su propia imagen o provocar daño o descrédito injustificado a instituciones públicas y privadas, así como la utilización de expresiones o calificativos injuriosos.
+[2]
+Se respetará el derecho de las personas a no proporcionar información ni responder a preguntas, sin perjuicio del deber de los informadores de proporcionar información de interés público a la ciudadanía.
+[3]
+.
+[1] Artículo 9 Estatuto de Información de la Corporación RTVE
+[2] Artículo 9.2. Estatuto de Información de la Corporación RTVE.
+[3] Artículo 9.8 Estatuto de Información de la Corporación RTVE.
+1.1.4.1. Autoría de los contenidos emitidos
+Con carácter general, la validez y veracidad de una noticia es responsabilidad del profesional o profesionales que la elaboran y de quienes autorizan su difusión, aunque los datos expuestos se atribuyan a una o diversas fuentes.
+1.1.4.2. Identificación de las fuentes informativas
+RTVE elaborará las informaciones, preferentemente, mediante el recurso a sus propias fuentes. Se identificarán claramente las fuentes cuando la credibilidad de la noticia lo exija o se trate de cuestiones polémicas o controvertidas.
+[1]
+Cuando la única manera de informar de un acontecimiento sea a través de un material audiovisual editado directamente por fuentes ajenas, se advertirá de su origen.
+[2]
+Deberá identificarse la autoría o procedencia, entre otros, de informes, estudios, datos estadísticos, sondeos, encuestas y aquellas noticias exclusivas de un medio de comunicación –ajeno a RTVE- y de las que nos hacemos eco.
+Expresiones como “según fuentes bien informadas” o “según hemos sabido” se usarán en circunstancias verdaderamente justificadas; de lo contrario, el abuso de tales expresiones puede restar valor a la noticia y acabar por mermar la credibilidad del medio. En ocasiones, pueden resultar útiles algunas elipsis que, al menos, orienten sobre la procedencia y la calidad de la fuente que ha suministrado el dato o la información: “fuentes fidedignas parlamentarias”, “altos cargos del Ministerio”, “personas próximas al Presidente”, “agentes que intervienen en la investigación”, etc.
+Se respetará el “off the record” cuando haya sido expresamente invocado, de acuerdo con la práctica usual. Se respetará el derecho de las fuentes informativas a permanecer en el anonimato cuando así se haya pactado.
+[3]
+ No obstante, el profesional de RTVE está obligado a buscar en otras fuentes que no exijan el anonimato la confirmación de la noticia o de los hechos de los que se trate.
+Con el fin de garantizar que la información que vaya a difundirse responde a los estándares de calidad y veracidad exigibles a RTVE, el responsable de un espacio/programa tiene derecho a preguntar sobre la solvencia e identidad de una fuente al informador que la utiliza. Si la fuente no acepta esta condición, el responsable del espacio podrá optar por difundirla o por impedir su difusión a tenor de la gravedad o relevancia del hecho informativo.
+[1] Artículo 9.4 Estatuto de Información de la Corporación RTVE.
+[2] Artículo 9.5 Estatuto de Información de la Corporación RTVE.
+[3] Artículo 9.7 Estatuto de Información de la Corporación RTVE.
+1.1.4.3. Precauciones que debe adoptar el profesional de RTVE ante determinados materiales informativos
+Información orientada.
+ La independencia de RTVE y la defensa de los derechos de los ciudadanos deben prevalecer sobre los intereses de entidades y personas públicas y privadas. Cuando las informaciones provengan de gabinetes y/o portavoces, los profesionales de RTVE deberán observar a qué intereses representan con el fin de rechazar cualquier intento de orientar la información.
+Comunicados y notas de prensa. 
+ RTVE no reproducirá el material facilitado por gabinetes de comunicación de entidades políticas, económicas, sociales o deportivas sin haberlo sometido a un adecuado tratamiento informativo. La información proveniente de comunicados y notas de prensa debe ser adaptada, en fondo y forma, a las características propias de los distintos medios y soportes de RTVE e identificada en su origen. Personas o entidades que sean aludidas en comunicados o notas de prensa tienen derecho a ofrecer su punto de vista en el mismo bloque informativo a requerimiento de los profesionales de RTVE.
+Convocatorias/Ruedas de prensa sin preguntas.
+ Si una fuente, pública o privada, ofrece una rueda de prensa y niega a los periodistas la posibilidad de formular preguntas, los profesionales de RTVE deberán comunicárselo a la audiencia.
+Material audiovisual remitido.
+ La reproducción íntegra de materiales audiovisuales remitidos por organismos públicos o privados sólo está justificada cuando los profesionales de RTVE carezcan de material audiovisual propio y su emisión responda a criterios de interés informativo. En todos los casos en los que se utilice material ajeno deberá reflejarse nítidamente su procedencia.
+Material descargado de Internet.
+ La utilización de imágenes o noticias distribuidas por terceros a través de Internet debe contar con la autorización de los responsables editoriales. En estos casos es necesario extremar la precaución ya que ese material audiovisual, entre otras circunstancias, puede generar derechos de autor o, incluso, ser falso.
+Material audiovisual en directo producido por fuentes ajenas interesadas.
+ RTVE no difundirá la señal en directo de acontecimientos de interés informativo que sea proporcionada por entidades interesadas. Esta práctica, habitual en partidos políticos, choca con el deber de RTVE de ofrecer a los ciudadanos una información rigurosa, neutral, imparcial, plural e independiente de cualquier grupo político, económico o de presión. RTVE deberá esforzarse en cada circunstancia para que la información ofrecida en directo sea captada y tratada con sus propios medios y personal técnicos. Cuando no sea posible se comunicará a la audiencia. En todos los casos, la emisión de cualquier material de procedencia ajena a RTVE deberá llevarse a cabo respetando las condiciones incluidas en la necesaria y previa cesión de derechos a esta Corporación.
+1.1.4.4. La información propia
+Anticipación
+. El interés por difundir una noticia antes que el resto de medios es legítimo y forma parte de las virtudes profesionales. No obstante, la anticipación debe estar precedida por el rigor y la certeza de lo difundido. Más aún, en aquellas informaciones especialmente trascendentes deberán extremarse las cautelas a fin de que la información que se emita esté debidamente contrastada.
+Seguimiento informativo.
+ Es obligación de los profesionales de RTVE ofrecer el seguimiento de una información relevante hasta que quede suficientemente clarificada en todos sus extremos, independientemente del tratamiento dispensado por el resto de los medios de comunicación.
+Investigación.
+ Las informaciones emitidas en los espacios informativos y/o programas de otra naturaleza que resulten fruto del periodismo de investigación deberán ser suficientemente demostrables. Aunque hubiera una fecha prevista para su emisión, no se difundirán informaciones ni programas de investigación basados en datos o hechos parcialmente probados. Tampoco se emitirán cuando se considere que no se aportan todas las perspectivas y/o enfoques necesarios para constituir una información completa, imparcial y equilibrada.
+Exclusivas.
+ Sólo tiene sentido hablar de “exclusiva” cuando se trate de noticias, testimonios sonoros o imágenes trascendentes para los ciudadanos u obtenidas en circunstancias especialmente adversas. Aunque sean de elaboración propia, no se ofrecerán informaciones con el sello de “exclusiva” si se trata de hechos de escasa relevancia social.
+Materiales de pago.
+ RTVE no compensará económicamente ni de ninguna otra forma a las personas o responsables de instituciones, organizaciones, empresas y otros colectivos afectados por una información cuya participación sea requerida por los profesionales para conocer su versión. Excepcionalmente, RTVE podrá pagar por material informativo ajeno a los titulares de los respectivos derechos conforme a su valor y a los usos del sector. En ningún caso RTVE pagará por material o contribuciones provenientes de fuentes implicadas en conductas delictivas.
+1.1.4.5. Credibilidad
+La credibilidad es objetivo sine qua non de todo producto informativo y, por tanto, máxima aspiración de RTVE. Para alcanzar este objetivo, los profesionales de RTVE tendrán en cuenta los siguientes factores que, entre otros, inciden en la credibilidad:
+Errores en las informaciones.
+ La credibilidad puede mermarse si se difunden datos erróneos y/o inexactos pero también si los errores son gramaticales u ortográficos, se emiten rótulos o gráficos erróneos o se producen fallos de pronunciación de nombres de personas, topónimos, etc.
+Falta de especialización.
+ La falta de especialización puede menoscabar la credibilidad. Así, ocurre con frecuencia que espectadores/oyentes/usuarios vinculados a áreas o temáticas específicas (médicos, economistas, abogados, etc.) critican el modo de informar –superficialidad, imprecisiones, estereotipos, etc.- sobre cuestiones referidas a su ámbito profesional. Parte de estas críticas puede superarse gracias a la especialización periodística y a un uso adecuado de la documentación y del lenguaje. Dicha especialización puede alcanzarse a través de cursos de formación continua.
+Ausencia de rectificaciones.
+ En toda actividad se pueden cometer errores pero los profesionales de RTVE deben discernir cuáles exigen una rectificación inmediata. Montar una “pieza” en muy poco tiempo, realizar un directo en circunstancias adversas o publicar en la web una noticia sin apenas tiempo para haberla revisado no son justificaciones que mitiguen la trascendencia del error. El espectador/oyente/usuario presupone la profesionalidad de quienes le informan. Se podrá decir o escribir, por error, que Las Tablas de Daimiel están en Guadalajara pero sólo se subsanará el error si se produce una rectificación rápida y en la que se precise que se encuentran en Ciudad Real; en caso contrario, se nos atribuirá una ignorancia impropia de nuestra condición.
+Falta de sensibilidad y prácticas poco éticas.
+ La difusión de imágenes y/o testimonios sonoros de origen no verificado o dudoso o cuya correspondencia con la información emitida no pueda probarse, el abuso de imágenes y/o sonidos de tragedias, el uso inapropiado de la cámara o el micrófono oculto y el tratamiento inadecuado de informaciones sobre sucesos o sobre menores son sólo algunos de los factores que pueden mermar la credibilidad.
+Mezcla de opinión/línea editorial e información.
+ Como se ha reflejado anteriormente, todas las opiniones y valoraciones que ofrezca RTVE deben estar claramente identificadas y diferenciadas del relato de los hechos. Del mismo modo, los profesionales de RTVE deben huir de un enfoque preconcebido de las noticias. La exigencia de separar la opinión de la información afecta tanto a la redacción de los textos informativos como a los elementos estéticos y de realización con que se difundan.
+Edición de material informativo.
+ Los profesionales de RTVE deben prestar especial cuidado en los procesos de edición del material informativo (imágenes, sonidos) para no cambiar el sentido ni el significado de los cortes o totales que se van a emitir. Cuando se acuerde grabar una entrevista, el entrevistado siempre deberá saber quién le hace la entrevista y si esta se emitirá íntegra o parcialmente (para sacar totales o cortes).
+1.1.4.6. Derecho de Rectificación
+La Corporación RTVE está sometida a los procedimientos contemplados en la Ley Orgánica 2/1984 Reguladora del Derecho de Rectificación sobre el derecho de toda persona, natural o jurídica, a rectificar las informaciones difundidas por la Corporación.
+[1]
+Se rectificarán con diligencia y con el tratamiento adecuado a las circunstancias aquellas informaciones que se hayan demostrado falsas o erróneas, sin eludir, si es necesario, la disculpa
+[2]
+ y sin necesidad de esperar a que lo soliciten las personas o instituciones afectadas. La rectificación se producirá, al menos, en el mismo ámbito y con la misma capacidad de difusión que hubiera tenido la información demostrada errónea o inexacta.
+Los errores que pudieran detectarse serán admitidos y corregidos, señalando con nitidez tanto la omisión o el error como su corrección.
+[3]
+ Cuando se considere oportuno, podrá explicarse a la audiencia los motivos que indujeron al error.
+[1] Artículo 28 Mandato-marco.
+[2] Artículo 9.6 Estatuto de Información de la Corporación RTVE.
+[3] Artículo 10.e Mandato-marco
+1.1.4.7. Derecho de Réplica
+Si se producen errores o inexactitudes que lesionen los intereses de personas o instituciones y estas reclaman su derecho de réplica, los profesionales de RTVE están obligados a respetarlo y acatarlo en los términos previstos por la Ley Orgánica 2/84.
+No obstante, los profesionales de RTVE ofrecerán el derecho de réplica antes de la emisión o publicación de una información cuando consideren que en ella existen datos o testimonios que pudieran lesionar intereses o perjudicar a terceros.
+Del mismo modo, cuando alguien formule acusaciones contra terceras personas, el profesional de RTVE reclamará al autor de dichas acusaciones pruebas que las demuestren. Si esto no fuera posible, el profesional de RTVE investigará por sus medios la veracidad de las acusaciones.
+1.1.5. Tratamiento de personas e instituciones invitadas a participar en espacios de RTVE
+Derecho a conocer las condiciones de su participación. Las personas e instituciones invitadas a participar en los espacios de RTVE serán informadas de las condiciones esenciales de su participación, entre ellas, si será emitida total o parcialmente y si será –en función del medio- en directo o diferido. Los invitados tienen derecho a conocer la identidad de otras personas invitadas, si las hubiera, al mismo espacio.
+Permisos y solicitudes de participación. Los profesionales de RTVE cursarán una petición por escrito cuando así lo requiera la persona o institución invitada y siempre que no se lesionen los derechos de los profesionales de RTVE.
+Permisos de grabación. Cuando una persona o institución requiera una solicitud o permiso para el acceso a sus instalaciones o al personal de las mismas, los profesionales de RTVE velarán para que no se vulneren sus derechos ni su libertad editorial con condiciones inaceptables.
+Selección de fragmentos de una intervención. En el supuesto de participaciones que vayan a ser editadas o emitidas parcialmente, serán exclusivamente los profesionales de RTVE quienes, en función de sus criterios profesionales, elijan libremente los fragmentos que serán emitidos. En cualquier caso, las declaraciones que se editen deben situarse en su contexto y reflejar lo que quiso decir el entrevistado. Los invitados no podrán imponer ninguna condición ni criterio, ni antes ni después de su participación.
+Preguntas pactadas y cuestionario previo. Los invitados que vayan a ser entrevistados en RTVE no tienen derecho a exigir cuestionario previo ni a pactar dicho cuestionario. Sí podrán, en cambio, solicitar ser informados sobre los asuntos genéricos objeto de la entrevista.
+Acceso previo a la emisión. Los invitados que hayan colaborado en algún espacio de RTVE no tienen derecho a leer, oír o visionar dicho espacio antes de su emisión o publicación salvo que, de modo excepcional, por la relevancia de los contenidos, se haya pactado lo contrario. Si se trata de contenidos que afectan a menores, dicho pacto sólo cabe hacerse con sus representantes legales.
+1.1.6. Información política
+Los profesionales de RTVE actuarán con absoluta independencia, sin que puedan recibir instrucciones, directrices o cualquier clase de indicación imperativa del Gobierno ni de la Administración General del Estado, grupos políticos, económicos, sociales u otras instituciones o entidades.
+[1]
+Informar sobre el Gobierno. Es coherente que la información sobre el Gobierno ocupe más tiempo y espacio que la información sobre otras entidades políticas porque sus actos y omisiones repercuten directamente en la vida de los ciudadanos y deben ser suficientemente difundidos y explicados. Sin embargo, esta obligación debe ser compatible con la actitud periodística que los profesionales de RTVE deben dispensar a todo tipo de información: investigación y comprobación de datos y, en este caso, búsqueda de respuestas/valoraciones de los partidos de la oposición y/o de los distintos grupos sociales.
+Informar sobre la actividad política. El deber de informar sobre la actividad política implica también su seguimiento crítico e independiente. La exigencia de calidad y veracidad obliga a los profesionales de RTVE a resaltar los elementos contradictorios y/o polémicos de la actualidad, denunciar las deficiencias de los servicios públicos y de sus administradores, profundizar en los casos de corrupción cuando los hubiera y contribuir al afianzamiento de una cultura democrática y participativa.
+Ruedas de prensa y declaraciones políticas. Los profesionales de RTVE deben ir más allá del “periodismo de declaraciones”. Incluir una declaración no siempre mejora una información. Los profesionales de RTVE deben ofrecer junto a esas declaraciones/opiniones, si fueran relevantes, las reacciones provocadas y los datos comprobados que permitan a la audiencia fijar su propia opinión.
+Identificación de políticos. Siempre que se informe sobre asuntos referidos a un cargo público, los profesionales de RTVE deben reflejar, junto a su identidad, el partido o fuerza electoral al que pertenece.
+[1] Artículo 10-a Mandato-marco.
+1.1.7. Derecho de acceso
+Como desarrollo del artículo 20.4 de la Constitución Española, la Ley 17/2006 de 5 de junio, de la radio y la televisión de titularidad estatal, establece que la Corporación RTVE asegurará en su programación la expresión de la pluralidad social, ideológica, política y cultural de la sociedad española.
+[1]
+ El derecho de acceso se aplicará de manera global, mediante la participación de los grupos sociales y políticos significativos, como fuentes y portadores de información y opinión, en el conjunto de la programación de RTVE y de forma directa mediante espacios específicos en la radio y televisión con formatos, tiempos y horarios diversos.
+El Consejo de Administración de la Corporación RTVE aprobó por unanimidad, en junio de 2007, las Directrices y el Reglamento que fijan los criterios que regulan la presencia, en la programación general y específica de TVE y RNE, de organizaciones sociales y políticas significativas.
+[2]
+ Las mismas pautas son igualmente aplicables a IRTVE.es
+De conformidad con los criterios establecidos por el Consejo de Administración, el ejercicio del derecho de acceso se concreta en dos grandes ejes:
+1. El derecho que asiste a todas las organizaciones y colectivos para hacerse oír en aquellas informaciones y contenidos que les aluden o vinculan directamente, así como en su condición de agentes de la actualidad.
+2. El reconocimiento del derecho que debe asegurar la presencia y expresión en RTVE de partidos políticos, organizaciones sindicales y empresariales, confesiones religiosas, asociaciones de consumidores o de interés amplio (ONG, benéficas, culturales…) y, en general, todo tipo de grupos políticos y sociales con personalidad jurídica, de acuerdo con su peso objetivo en la sociedad española.
+[1] Artículo 28
+[2] Asimismo, el artículo 27 del primer Mandato Marco de la Corporación, aprobado en diciembre de 2007, alude expresamente al ejercicio del derecho de acceso “entendido como la participación de los grupos políticos y sociales significativos”.
+1.1.7.1. Legitimación
+RTVE considera legitimados para el ejercicio del derecho de acceso a aquellos grupos sociales y políticos significativos que acrediten personalidad jurídica y representatividad social. A efectos de determinar esa legitimación, se exigirá acreditar debidamente la concurrencia de los siguientes requisitos:
+a) que su naturaleza sea política o social: grupos políticos, sindicatos de implantación estatal o autonómica, asociaciones empresariales, confesiones religiosas, asociaciones y entidades de interés social sin ánimo de lucro, con especial atención a aquellas que trabajen a favor de los colectivos más desfavorecidos.
+b) que estén válidamente constituidos y gocen de personalidad jurídica
+c) que merezcan el calificativo de significativos. 
+Para determinar el grado de significación o implantación social se atenderá a los siguientes criterios, que varían en función del tipo de grupo de que se trate:
+Fuera de los criterios establecidos en la legislación vigente sobre cesión de espacios gratuitos durante la celebración de campaña electoral o referéndum, a los grupos políticos se les aplicará el criterio de la representación parlamentaria obtenida en los últimos comicios de ámbito territorial estatal o, en su caso, autonómico que corresponda.
+A los grupos religiosos se les aplicará el criterio del “notorio arraigo” reconocido por el Ministerio de Justicia, al que se refiere el artículo 7 de la Ley Orgánica 7/1980, de 5 de julio, de Libertad Religiosa.
+Entre los sindicatos, tendrán la consideración de más representativos a nivel estatal y autonómico aquellos que cumplan las condiciones establecidas en los artículos 6 y 7 de la Ley Orgánica 1/1985, de 2 de agosto, de Libertad Sindical.
+Entre las asociaciones empresariales, serán consideradas más representativas aquellas que formen parte del Consejo Económico y Social.
+Para el resto de organizaciones sociales, los criterios utilizados a fin de determinar su grado de significación deberán combinar diversos elementos. Así, se tendrán en cuenta como criterios prioritarios el número demostrado de miembros, la declaración de utilidad pública y su pertenencia a Consejos y Federaciones de ámbito estatal y autonómico.
+Junto a esos criterios prioritarios se podrán considerar otros complementarios, como el número de proyectos financiados por la administración pública.
+1.1.7.2. Competencia sobre la atribución de tiempos y horarios de emisión
+El tiempo concedido para el ejercicio del derecho de acceso de los grupos políticos y sociales significativos deberá ser proporcional a su arraigo, implantación o reconocimiento social. En aquello no establecido en las leyes, los tiempos correspondientes a cada grupo serán aprobados por el Consejo de Administración a propuesta de las Direcciones de TVE y RNE.
+La concreta inserción de los espacios propios del derecho de acceso en la programación corresponderá a las Direcciones de TVE y RNE o aquellos en quienes deleguen.
+1.1.7.3. Modalidades de ejercicio
+El derecho de acceso tendrá ámbito estatal y autonómico, con atención a las diversas lenguas y culturas de España, quedando también garantizado en aquellas Comunidades Autónomas en las que exista una programación territorial específica.
+La Corporación RTVE determinará en cada caso la modalidad del derecho de acceso, que podrá ser de dos tipos:
+-De manera global, mediante la participación de los grupos sociales y políticos De manera global, mediante la participación de los grupos sociales y políticos significativos, como fuentes y portadores de información y opinión, en el conjunto de la programación de RTVE.
+-De manera directa, mediante espacios específicos en los distintos medios de RTVE con formatos diversos, tiempos y horarios, fijados por el Consejo de Administración de la Corporación y conforme a lo establecido en la legislación general audiovisual.
+1.1.7.4. Obligaciones de RTVE como consecuencia del ejercicio del derecho
+La producción de los espacios cedidos deberá realizarse con criterios profesionales, de calidad de producción y con el objetivo de ser a la par divulgativos e interesantes para un sector amplio del público. RTVE deberá garantizar esos mínimos de profesionalidad, calidad y adecuación a los objetivos arriba expresados.
+Los profesionales de RTVE encargados de la elaboración de contenidos de acceso trabajarán en colaboración con los colectivos sociales a fin de coordinar los criterios profesionales con los fines sociales perseguidos por la asociación.
+Los colectivos podrán contratar, a sus expensas, parte o la totalidad de sus espacios con productoras externas, quedando a salvo el derecho de RTVE a rechazar el producto final cuando no se ajuste a los criterios profesionales y estándares de calidad fijados por la Corporación.
+1.1.7.5. Límites al ejercicio del derecho
+El derecho de acceso, en cuanto concreción de las libertades de expresión e información, está afectado por los mismos límites a que están sujetas las citadas libertades. En consecuencia, las obligaciones derivadas para RTVE del ejercicio del derecho de acceso no se agotan en la cesión y, en su caso, producción gratuita de espacios a favor de los grupos titulares del derecho sino que, en su condición de servicio público, RTVE debe además garantizar que ese ejercicio sea legítimo.
+Por ello, la Corporación RTVE conocerá con carácter previo a su difusión los contenidos propuestos por los grupos, reservándose el derecho a no difundir aquellos que sean contrarios a los valores y principios constitucionales o que vulneren derechos fundamentales de terceros.
+1.1.8. Sondeos y encuestas
+Sondeos encargados por RTVE.
+ Los sondeos políticos realizados de modo científico por encargo de RTVE no representan su opinión ni la de sus profesionales sino la actitud de los ciudadanos en el momento en que les fueron planteadas las preguntas.
+Sondeos ajenos.
+ Se debe indicar siempre, de modo destacado y claro, la entidad que ha encargado un sondeo de cuyos resultados informamos.
+Datos del sondeo que deben facilitarse.
+ Las informaciones que se hagan eco de un sondeo deberán reflejar siempre la ficha técnica del mismo.
+Encuestas.
+ Las encuestas realizadas sin método científico no son sondeos de opinión ni, por tanto, permiten identificar tendencias.
+Encuestas de RTVE a la audiencia.
+ Las opiniones recogidas entre quienes siguen un programa, espacio o página web de RTVE carecen de validez científica y, en consecuencia, no se les debe dar tal valor.
+Expertos.
+ Los grupos y paneles de expertos invitados a analizar y opinar, incluso si han sido seleccionados en un riguroso intento de equilibrio, no representan a la opinión pública sino únicamente sus propias opiniones y así conviene hacerlo notar cada vez que se utilicen.
+Programas de opinión ciudadana. 
+Los ciudadanos invitados a participar en programas y espacios, incluso si han sido seleccionados en un riguroso intento de equilibrio, no representan a la opinión pública sino sólo sus propias opiniones y así conviene hacerlo notar cada vez que se utilicen. La audiencia debe expresarse con absoluta libertad en los medios de RTVE pero es obligación de sus profesionales evitar los excesos en el lenguaje y garantizar el respeto a todas las ideas que consagra la Constitución. En períodos electorales, la participación libre de la audiencia tiene como límite la prohibición de hacer campaña explícita a favor de un partido político.
+Opiniones de la calle. 
+Las opiniones de ciudadanos recogidas en la calle no representan tendencia alguna porque no guardan las necesarias proporciones con la opinión pública general. Pueden utilizarse para ilustrar las tendencias señaladas en sondeos de opinión o, con las debidas advertencias, para ilustrar una información sin ánimo de fijar las posiciones de la opinión pública.
+1.1.9. Límites en el tratamiento de los hechos
+Manipulación de sonidos y/o imágenes. 
+La manipulación de sonidos o imágenes por parte de un profesional de RTVE con el fin de modificar su verdadero contenido está estrictamente prohibida. También queda prohibido suplantar las voces o imágenes de los profesionales de RTVE.
+Respeto al anonimato.
+ La distorsión de imagen y/o voz es legítima sólo cuando se trata de garantizar el anonimato legítimo de una fuente o para proteger a menores y a las víctimas de delitos. En estos casos, la audiencia deberá ser advertida. Los sistemas empleados no deben distorsionar de manera ridícula o dañina voces e imágenes. Se recomienda no utilizar pitidos para distorsionar u ocultar voces. Para evitar posibles errores, los profesionales de RTVE se asegurarán de que el material sin distorsionar no quede archivado.
+Reconstrucción de hechos.
+ Cuando, en virtud de la trascendencia informativa, se considere necesario reconstruir los hechos de los que se informa, tal reconstrucción deberá ser advertida como tal y ser absolutamente escrupulosa con los datos probados con el fin de evitar que nadie resulte engañado sobre el valor de las imágenes o sonidos emitidos.
+Recreaciones de hipótesis sobre un hecho.
+ Cuando, en virtud de la trascendencia informativa, se considere necesario reconstruir las posibles causas o consecuencias de un hecho ocurrido o que esté previsto que ocurra, tal recreación deberá huir de especulaciones y rumores carentes de toda base fundada. En el caso de tragedias, sucesos y otros hechos vinculados con la salud o la seguridad pública, los profesionales de RTVE adoptarán las máximas precauciones para preservar la intimidad y el respeto al dolor de las víctimas así como para evitar que la recreación fomente elementos espectaculares o contribuya a generar alarma.
+Dramatizaciones.
+ Cuando, en virtud de la trascendencia informativa, se considere necesaria la dramatización con actores de hechos y sucesos de los que no se tienen imágenes y/o sonido reales, se deberá advertir de ello a la audiencia con la mayor claridad, de manera que la naturaleza de lo emitido resulte inequívoca. Los elementos ficticios incluidos en las dramatizaciones, tales como diálogos o atrezzo, deben estar basados en la realidad que se está describiendo y no apartarse de los datos conocidos a fin de garantizar la fidelidad a los hechos. No es aconsejable el uso de las dramatizaciones en programas informativos salvo que, excepcionalmente, resulte el único modo de ofrecer un mejor servicio a la audiencia.
+Ética en las reconstrucciones visuales. 
+La infografía, entendida como toda aplicación informática en diseño gráfico y animación, tiene entre sus funciones facilitar la comprensión de los hechos. Las reconstrucciones visuales de los hechos mediante infografía está sometida a los mismos criterios deontológicos que los señalados para las recreaciones y dramatizaciones.
+1.1.10. Límites en las relaciones de los profesionales de RTVE con marcas y empresas
+Información privilegiada.
+ Los profesionales de RTVE no utilizarán nunca en provecho propio informaciones privilegiadas obtenidas de forma confidencial en el ejercicio de su función. Tampoco participarán en la elaboración de informaciones que afecten a sus propios intereses o a los de sus familiares próximos.
+Regalos.
+ Los profesionales de RTVE no aceptarán retribuciones, gratificaciones o regalos de terceros, fuera de las atenciones de escaso valor consideradas comúnmente como expresión de cortesía, que pudieran buscar promover, orientar, influir o difundir informaciones u opiniones.
+A gastos pagados.
+ No se aceptarán viajes pagados por las fuentes informativas cuando dicha circunstancia pueda afectar a la imparcialidad de la información.
+Ocio.
+ Los profesionales dedicados a ofrecer al público propuestas de ocio sólo podrán aceptar servicios gratuitos o de bajo precio siempre que no condicionen el rigor ni la credibilidad de sus informaciones o comentarios.
+Información con efecto publicitario.
+ Una información puede tener efectos directos en la evaluación positiva o negativa de una marca por lo que nuestra obligación será evitar la aparición de logos reconocibles salvo que esté plenamente justificada por el interés informativo sobre un hecho, sea este positivo o negativo para la marca en cuestión.
+Publicidad encubierta. 
+Se evitará la difusión de publicidad encubierta que empresas, instituciones o particulares pretendan hacer pasar por informaciones.
+Productos dañinos.
+ Se informará sobre productos dañinos para la salud o la seguridad cuando las autoridades certifiquen el peligro.
+Ropa y atrezzo.
+ Se debe evitar la aparición de marcas, logos y diseños reconocibles en el mobiliario, en la ropa de los profesionales o en la decoración de los espacios.
+Enlaces en la web.
+ Los enlaces desde la web de RTVE con otras páginas de Internet que tengan contenido comercial deben estar justificados por su valor informativo. En tales casos se debe comprobar la relevancia del material ofrecido y su compatibilidad con los derechos de niños y adolescentes.
+La marca RTVE. 
+La única excepción a las limitaciones de uso de marcas y logos comerciales es la propia marca de RTVE, cuyo logotipo y productos (discos, libros, etc.) pueden aparecer en todo tipo de espacio sin otra exigencia que su interés para la audiencia.
+1.2. El entretenimiento, las artes y la cultura en CRTVE 
+Volver al inicio
+1.2.1. El entretenimiento en CRTVE
+1.2.1.1 Entretenimiento de calidad
+La Corporación RTVE presentará una oferta programática destinada al entretenimiento de calidad para todos los ciudadanos. Esta programación no podrá entrar en contradicción, en ningún caso, con los objetivos generales y las definiciones básicas que rigen la actividad de servicio público de RTVE 
+[1]
+Los profesionales de RTVE que trabajen en espacios de entretenimiento están obligados a ofrecer a los espectadores un ocio activo, crítico, imaginativo, culto, enriquecedor y divertido. El entretenimiento en RTVE debe huir de la vulgaridad y la banalidad y cultivar contenidos de calidad capaces de interesar a la gran mayoría, hechos con rigor profesional, creatividad y buen gusto.
+Contenidos prioritarios.
+ Los profesionales de RTVE dedicados a proporcionar entretenimiento a la audiencia deben primar en sus contenidos el conocimiento, la comunicación, la innovación, la imaginación, la capacidad de reflexión y el humor inteligente.
+Cuidado de las formas
+. Además de los contenidos, deberá extremarse la precaución en las formas empleadas en los espacios de entretenimiento. Los receptores de los programas de entretenimiento tienen derecho a exigir, al igual que en los espacios informativos, los niveles de calidad más altos.
+Creatividad.
+ Los profesionales de los espacios de entretenimiento promoverán contenidos y estilos innovadores, capaces de despertar el interés de los ciudadanos. Para ello, el principal activo es la creatividad. El entretenimiento en los medios de RTVE debe dotarse de un sello propio que le identifique.
+Innovación.
+ Los profesionales de los espacios de entretenimiento prestarán especial atención a las nuevas posibilidades tecnológicas, tanto en lo referido a contenidos como a formatos.
+Menores.
+ En los espacios de entretenimiento destinados a niños y adolescentes, los valores que deben primar, además de la diversión inteligente y el buen humor, son el apoyo a la creatividad, el fomento de una actitud crítica, el gusto por el trabajo en equipo, el estudio, el esfuerzo y los valores de libertad, igualdad, solidaridad y no violencia.
+[1] Artículo 24 Mandato-marco a la Corporación RTVE.
+1.2.1.2. Ficción
+La ficción producida para los medios de RTVE debe responder a criterios tan variados como el entretenimiento, la promoción del buen uso del lenguaje y de la creación audiovisual, la contribución al desarrollo y al seguimiento de la actividad cultural, la promoción de la industria relacionada con estas actividades, el descubrimiento de nuevos planteamientos y lenguajes y la divulgación de la historia o de determinadas situaciones sociales, entre otros. La ficción adquiere un valor singular cuando todo lo anterior contribuye a la reflexión en torno a los asuntos de interés general y/o al disfrute de unas propuestas creativas de calidad.
+Argumentos.
+ El acercamiento a las grandes obras de la literatura, la reflexión sobre aspectos sustanciales de la realidad española, sus conflictos, los cambios de costumbres, la divulgación de las artes y la ciencia y el conocimiento de sus máximos representantes son valores prioritarios dada su potencial contribución a la cultura contemporánea.
+Equilibrio.
+ La ficción, aunque no esté sometida a los términos que rigen la información en RTVE, debe también contener valores como la pluralidad, la representatividad y el respeto a las minorías.
+Respeto.
+ Las situaciones y personajes de los productos de ficción realizados por o para RTVE no pueden alimentar estereotipos perjudiciales para los sectores minoritarios o menos protegidos de la sociedad (ancianos, inmigrantes, discapacitados, enfermos, etc.).
+Pluralidad nacional.
+ Los productos de ficción pueden ser un medio de difusión de los modos de vivir y expresarse de las distintas comunidades que componen España. Los programadores de RTVE pueden contribuir a que ese conocimiento sea más profundo y real aplicando criterios de cercanía y rigor a los asuntos tratados, sin rebajar por eso su interés.
+Producción española, europea y latinoamericana.
+ Fomentar la calidad y el desarrollo de la producción española de cine y otras formas de la expresión audiovisual forma parte de las obligaciones de RTVE. También se prestará especial atención a la producción audiovisual de la Unión Europea y América Latina. Los profesionales de los medios públicos de RTVE tienen el deber de seguir de cerca y dar a conocer el trabajo de los creadores, especialmente el de los más jóvenes e innovadores, para acercarlos a las grandes audiencias. No obstante, esta obligación debe ser compatible con la de mantener un criterio independiente y valorar cada producto por su calidad intrínseca.
+1.2.1.3. Programas infantiles
+Objetivo.
+ Los programas dedicados a los niños y niñas tienen por objeto contribuir a su crecimiento y formación mediante una oferta de contenidos que motiven su curiosidad, su participación y su sentido de lo lúdico y del esfuerzo individual y en grupo. Entretenimiento y formación constituyen un binomio indisoluble en la programación dirigida al público infantil. Los contenidos de estos programas deberán seguir las orientaciones establecidas en el el Código de Autorregulación para la Defensa de los Derechos del Menor en los Contenidos Audiovisuales, Conexos, Interactivos y de Información, en línea con la Corporación RTVE, aprobado por el Consejo de Administración en julio de 2010.
+Valores.
+ Los niños deben aprender a través del juego que les proponen los programas de RTVE que el mejor modo de conseguir sus objetivos es el esfuerzo y la capacidad de acuerdo, no la imposición.
+Autoestima. 
+Los programas destinados a un público infantil y adolescente deben potenciar la autoestima de todos, no sólo la de los más cercanos a un modelo convencional de belleza, valor y éxito. La pluralidad de personajes de referencia debe incluir prototipos con los que puedan identificarse de forma satisfactoria y activa todos y cada uno de los espectadores, independientemente de su procedencia, sexo, religión, entorno familiar y características físicas.
+Participación activa.
+ Los más pequeños también tienen capacidad para atender propuestas acordes con su nivel de desarrollo intelectual. La programación infantil creada por RTVE debe estimular la participación activa pero sin olvidar que el público infantil y adolescente tiene derecho a que RTVE valore lo que ya saben.
+1.2.1.4 Retransmisiones y programas deportivos
+Deporte de competición.
+ Los espacios dedicados al deporte de competición son contenidos de gran relevancia, valorados por buena parte de la sociedad y con capacidad potencial para articular y cohesionar grupos, comunidades y naciones mediante el enfrentamiento limpio. Los profesionales que participan en la elaboración y emisión de estos contenidos tienen la misma obligación de perseguir la calidad, la innovación y la utilidad de su trabajo que el resto de los profesionales de RTVE.
+Los valores del deporte.
+ El interés en el seguimiento de las actividades deportivas alcanza una dimensión superior cuando contribuye a la difusión de los valores del deporte y promueve la práctica deportiva de los ciudadanos.
+Sólo deporte.
+ Los espectáculos y programas deportivos pueden ser un instrumento o un símbolo en beneficio de la cohesión social de la colectividad pero esto nunca debe suponer una reafirmación de la identidad frente a otros grupos, pueblos, países u otras aficiones.
+Deportes mayoritarios y minoritarios.
+ Los contenidos deportivos deben ajustarse en términos generales a las preferencias mayoritarias de la audiencia. Los deportes minoritarios así como los deportes practicados por personas con discapacidad tendrán la presencia adecuada; merecen atención especial y deben ser ofrecidos de manera atractiva como ejemplo de superación.
+Deporte y violencia. 
+Es obligación de los profesionales de los espacios deportivos de RTVE destacar la importancia del juego limpio en todos los deportes, tanto entre sus protagonistas como por parte del público, resaltar los aspectos lúdicos sobre los pasionales y contribuir al mantenimiento de un clima de competitividad sin violencia. Los profesionales de RTVE no deben ser tolerantes con las prácticas violentas y/o incívicas.
+Imparcialidad.
+ Los profesionales de RTVE deben mostrarse totalmente imparciales en lo referido a gustos y/o adhesiones a un equipo o a un deportista determinado. La única excepción puede darse en aquellos casos en los que un equipo o un deportista represente a España en una competición internacional. Incluso en estos casos la obligación de los profesionales será basar su trabajo y sus comentarios –cuando los haya- en los datos y hechos objetivamente contrastados.
+1.2.1.5. Concursos
+Valores que deben estar presentes.
+ Los concursos difundidos en RTVE deben tener fines y métodos de participación acordes con los principios que inspiran la actividad de la Corporación como son el fomento del conocimiento, el valor del esfuerzo, la creatividad y la habilidad de los concursantes. Los concursos no deben alentar valores negativos o de pura competitividad ni fomentar estereotipos o prejuicios.
+Reglamento publicado.
+ Las reglas de todos los concursos deben ser públicas y estar al alcance de quienes deseen consultarlas en rtve.es
+Premios y marcas comerciales.
+ La donación de premios procedente de marcas y/o entidades deberá estar sometida a las limitaciones establecidas en la Ley 8/2009, de 28 de agosto, de Financiación de la CRTVE.
+Premios en metálico.
+ Los premios en metálico están restringidos a concursos cuyos contendientes sean obligatoriamente mayores de 18 años. Además, los reglamentos de los concursos deberán reflejar de manera expresa qué tipo de impuestos -y en qué porcentaje o cuantía- deberán afrontar los ganadores.
+1.2.1.6. Otros programas de entretenimiento
+Programas de humor.
+ La promoción del buen humor es parte de los cometidos de un medio público de información y entretenimiento. En RTVE debe haber de manera habitual programas específicos de humor y, en general, todos los espacios de entretenimiento deben tener entre sus ingredientes esenciales la invitación a la sonrisa y a lo lúdico.
+Talk shows.
+ Los programas de debate y entrevistas con presencia de personajes de interés reconocido (
+talk shows
+) son espacios de entretenimiento que utilizan el interés de la actualidad y el atractivo de la fama como ingredientes fundamentales pero que no pretenden tener carácter de informativos. Sus valores deben ser la viveza, el ingenio, el sentido del humor, la pluralidad de prototipos sociales, el buen gusto y el respeto a todas las personas e instituciones. Los profesionales de RTVE deben evitar que estos programas, aunque tengan por protagonistas temas y personajes de interés efímero, alienten valores contrarios a los principios y obligaciones de RTVE, entre ellos, el del respeto a la intimidad, al honor y a la propia imagen.
+Menú de navegación principal
+Noticias
+RTVE Play
+RNE Audio
+Play Noticias
+RTVE Participa
+Filmoteca
+Televisión
+Radio
+Deportes
+Tiempo
+Clan
+Laboratorio
+Menú de Televisión Española
+2° Dividendo Digital
+RTVE Botón Rojo
+Corresponsalías
+TVE Internacional
+TVE Catalunya
+TVE Canarias
+Teletexto
+Centros Territoriales
+TVE en directo
+Menú de Radio Nacional de España
+Radio Nacional
+Radio Clásica
+Radio 3
+Ràdio 4
+Radio 5
+Radio Exterior
+Podcast
+Frecuencias
+Menú de la Corporación RTVE
+Transparencia
+Sostenibilidad
+RTVE Comunicación
+Manual de estilo
+Código de autorregulación
+Derecho de acceso
+Ofertas de empleo
+RTVE 2030
+Defensora de la Audiencia
+Observatorio de Igualdad
+Observatorio de la Infancia y la Adolescencia
+Canal Ético
+Instituto RTVE
+Orquesta Sinfónica y Coro RTVE
+Dirección Comercial
+Impulsa Visión
+Perfil del Contratante
+Contratación audiovisuales
+Archivo RTVE
+Aviso legal
+Política de privacidad
+Política de cookies
+Política de WhatsApp
+Política de seguridad
+Accesibilidad
+Mapa web
+Contacto
+Normas de Participación
+©
+ Corporación de Radio y Televisión Española 2026

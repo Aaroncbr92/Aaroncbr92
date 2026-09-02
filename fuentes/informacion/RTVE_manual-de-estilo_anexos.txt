@@ -1,0 +1,604 @@
+Manual de Estilo de RTVE — 7. Anexos
+https://manualdeestilo.rtve.es/anexos/
+Leído el 2 de septiembre de 2026.
+
+AVISO SOBRE LA RUTA: el programa da la dirección en **http**, y por ahí el
+sitio responde 403. No es el servidor: es la política de salida de este
+entorno, que solo deja pasar https. Con **https** la misma dirección responde
+200 y sirve el manual entero. El manual está en ocho páginas, una por
+capítulo, y aquí va cada una en su fichero.
+
+Se recorta la navegación del portal y se conserva el cuerpo.
+
+0. Inicio
+1. CRTVE
+2. TVE
+3. RNE
+4. Medios Interactivos
+5. Cuestiones Sensibles
+6. El Lenguaje
+7. Anexos
+7.1. Legislación, reglamentos y principios básicos del audiovisual
+7.2. Anexo Lexicográfico
+7.3. Protocolo y tratamientos
+7.4. Glosario de términos utilizados en el lenguaje televisivo
+7.5. Glosario de términos utilizados en el lenguaje radiofónico
+7.6. Glosario de términos utilizados en medios interactivos
+7.7. Recursos en Red
+7.8. Publicaciones del Instituto RTVE sobre informaciones sensibles
+7.1. Legislación, reglamentos y principios básicos del audiovisual 
+Volver al índice
+Código de Autorregulación para la Defensa de los Derechos del Menor en los Contenidos Audiovisuales, Conexos, Interactivos y de Información en Línea de la Corporación RTVE, aprobado por el Consejo de Administración de la Corporación RTVE el 23 de Julio de 2010.
+http://www.rtve.es/programas/RTVE/
+Real Decreto 691/2010, de 20 de mayo, por el que se regula la Televisión Digital Terrestre en alta definición.
+http://www.boe.es/boe/dias/2010/06/02/pdfs/BOE-A-2010-8784.pdf
+Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual.
+http://www.boe.es/boe/dias/2010/04/01/pdfs/BOE-A-2010-5292.pdf
+Proyecto de Ley General de la Comunicación Audiovisual publicado en el Boletín Oficial de las Cortes Generales, Serie A, Congreso de los Diputados de 23 de octubre de 2009.
+www.congreso.es/public_oficiales/L9/CONG/BOCG/A/A_045-01.PDF
+Ley 8/2009, de 28 de agosto, de financiación de la Corporación de Radio y Televisión Española.
+http://www.boe.es/boe/dias/2009/08/31/pdfs/BOE-A-2009-13988.pdf
+Real Decreto-ley 11/2009, de 13 de agosto, por el que se regula, para las concesiones de ámbito estatal, la prestación del servicio de televisión digital terrestre de pago mediante acceso condicional.
+http://www.boe.es/boe/dias/2009/08/15/pdfs/BOE-A-2009-13497.pdf
+Estatuto de Información de la Corporación RTVE, aprobado por el Consejo de Administración de la Corporación RTVE el 14 de mayo de 2008.
+http://www.rtve.es/programas/RTVE/
+Mandato marco a la Corporación RTVE previsto en el artículo 4 de la ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal aprobado por el pleno del congreso de los diputados en su sesión del día 11 de diciembre de 2007 y por el pleno del senado en su sesión del día 12 de diciembre de 2007.
+http://www.boe.es/boe/dias/2008/06/30/pdfs/A28833-28843.pdf
+Estatuto del Defensor del Espectador, Oyente y Usuario de Medios Interactivos, Aprobado por el Consejo de Administración de la Corporación RTVE el 29 de noviembre de 2007.
+http://www.rtve.es/contenidos/documentos/Estatuto_defensora.pdf
+Directrices Básicas y Reglamento del Derecho de Acceso a RTVE, aprobado por el Consejo de Administración de la Corporación RTVE en junio de 2007.
+www.rtve.es/derecho-acceso/
+Ley 55/2007, de 28 de diciembre, del Cine
+http://www.boe.es/boe/dias/2007/12/29/pdfs/A53686-53701.pdf
+Principios Básicos de Programación, aprobados por el Consejo de Administración de la Corporación RTVE el 13 de junio de 2007.
+http://www.rtve.es/contenidos/documentos/Principios_basicos_de_la_programacion_de_RTVE.pdf
+Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal.
+http://www.rtve.es/contenidos/documentos/Ley_radio_television_estatales.pdf
+Real Decreto 920/2006, de 28 de julio, por el que se aprueba el Reglamento general de prestación del servicio de difusión de radio y televisión por cable.
+http://www.boe.es/boe/dias/2006/09/02/pdfs/A31532-31538.pdf
+Real Decreto 946/2005, de 29 de julio, por el que se aprueba la incorporación de un nuevo canal analógico de televisión en el Plan técnico nacional de la televisión privada, aprobado por el Real Decreto 1362/1988, de 11 de noviembre.
+http://www.boe.es/boe/dias/2005/07/30/pdfs/A27016-27020.pdf
+Real Decreto 944/2005, de 29 de julio por el que se aprueba el plan técnico nacional de la televisión digital terrestre.
+http://www.boe.es/boe/dias/2005/07/30/pdfs/A27006-27014.pdf
+Ley 10/2005, de 14 de junio, de Medidas Urgentes para el Impulso de la Televisión Digital Terrestre, de Liberalización de la Televisión por Cable y de Fomento del Pluralismo.
+http://www.boe.es/boe/dias/2005/06/15/pdfs/A20562-20567.pdf
+Real Decreto 439/2004, Plan técnico nacional de televisión digital local.
+http://www.boe.es/boe/dias/2004/04/08/pdfs/A14694-14716.pdf
+Código de autorregulación sobre contenidos televisivos e infancia suscrito en diciembre de 2004 entre el Gobierno de España y los principales operadores de televisión.
+http://www.tvinfancia.es/default.htm
+Ley 22/1999, de 7 de junio, de Modificación de la Ley 25/1994, de 12 de julio, por la que se incorpora al Ordenamiento Jurídico Español la Directiva 89/552/CEE, sobre la coordinación de disposiciones legales, reglamentarias y administrativas de los Estados miembros, relativas al ejercicio de actividades de radiodifusión televisiva.
+http://www.boe.es/boe/dias/1999/06/08/pdfs/A21765-21774.pdf
+Ley 25/1994, de 12 de julio, Ley Televisión sin fronteras, por la que se incorpora al ordenamiento jurídico español la Directiva 89/552/CEE, sobre la coordinación de disposiciones legales, reglamentarias y administrativas de los estados miembros relativas al ejercicio de actividades de radiodifusión televisiva).
+http://www.boe.es/boe/dias/1994/07/13/pdfs/A22342-22348.pdf
+7.2. Anexo Lexicográfico 
+Volver al índice
+Ver 
+Recursos en Red
+.
+7.3. Protocolo y tratamientos 
+Volver al índice
+Ver 
+1.1.5. TRATAMIENTO DE PERSONAS E INSTITUCIONES INVITADAS A PARTICIPAR EN ESPACIOS DE RTVE
+.
+7.4. Glosario de términos utilizados en el lenguaje televisivo 
+Volver al índice
+16:9
+Relación de aspecto panorámico que predomina en la mayoría de los televisores de pantalla plana actuales. Mide la relación entre la anchura y la altura en las pantallas de televisión. Es el formato adoptado como parte del estándar de televisión en alta definición.
+Acceso Condicional
+Sistema que controla el acceso a los servicios de forma que sólo quien está suscrito pueda verlos. Se asocia con la tecnología necesaria para ofrecer suscripción a servicios pagados lo cual implica la encriptación de señales y el manejo de los abonados. El uso más común sería la Televisión de Pago.
+Ancho de banda 
+Medida, en frecuencia, del espectro utilizado o la capacidad de un determinado medio. Medida de capacidad de comunicación o velocidad de transmisión de datos de un circuito o canal.  Cantidad de información que puede transmitirse en un momento dado. Los sistemas de imágenes digitales suelen requerir grandes anchos de banda; por esta razón muchos sistemas de almacenamiento y transmisión recurren a técnicas de compresión para adaptar la señal reduciendo, por tanto, el ancho de banda.
+Apagón analógico
+Expresión aplicada al cese de las emisiones analógicas de los operadores de televisión. En España, el cese de las emisiones analógicas se produjo de forma progresiva y el proceso culminó el 3 de abril de 2010.
+Audimetría
+Sistema de medición de audiencia que se basa en técnicas estadísticas aplicadas a la información que se recoge diariamente de los hogares que forman la muestra representativa de la población a que hace referencia. La información se recoge a través de audímetros, que se conectan a los televisores y miden en cada momento lo que estos sintonizan en cada momento: vídeo, sintonizador de satélite, de cable… El panel español dispone actualmente de una muestra permanente de 4.500 hogares y está gestionado por la empresa Kantar Media.
+Broadcast
+Nivel de calidad mínimo que tiene que tener una señal de televisión para poder ser emitida. Estándar mínimo de calidad aceptado por las emisoras de televisión de todo el mundo y por sus organismos reguladores.
+Camcoder
+Cámara de vídeo portátil con funciones de grabación de vídeo y audio en algún tipo de soporte físico como por ejemplo cintas de vídeo o tarjetas de memoria.
+Chroma key
+Sistema electrónico para producir efectos en televisión; efecto especial que consiste en incrustar una imagen en el área ocupada por un determinado color.
+Ciclorama
+Decorado o telón de forma semicircular que sirve para dar la sensación de espacio ilimitado.
+Cobertura
+Ámbito geográfico, espacio o superficie en la que se pueden recibir las señales que se han transmitido por radiofrecuencia. Alcance de una emisión radioeléctrica.
+Codificación
+Acción de aplicar un código para transformar informaciones electrónicas para facilitar su tratamiento o su transformación. La codificación también se da en las imágenes digitales.
+Cuota (Share)
+Se define como el porcentaje de la audiencia  que cada emisora o programa consigue con respecto a las otras emisoras o cadenas.  Se da en tantos por ciento en relación al número de personas que ven la televisión en cada momento.
+DBS (direct broadcasting satellite)
+Satélite de difusión directa. Son satélites especialmente indicados para la difusión directa a los hogares de los canales de televisión. Sus emisiones están especialmente indicadas para poder recibirlas con antenas parabólicas de reducidas dimensiones. 
+Decodificación
+Proceso por el cual el elemento del sistema encargado de convertir la señal digital en señal analógica asigna un valor de intensidad eléctrica proporcional a cada valor numérico que le llega, reconstruyendo la señal analógica original para que pueda ser interpretada o transmitida por sistemas analógicos. También hace referencia al proceso mediante el que se reconstruye una señal audiovisual alterada técnicamente por parte del emisor para que no pueda ser recibida por un sistema audiovisual convencional; lo emplean los canales de televisión de pago.
+Decodificador
+Dispositivo independiente que recibe y decodifica la señal de televisión, de forma que pueda visualizarse en un televisor.La señal de origen puede estar encriptada (codificada, habitual en señales de pago) o emitirse en distinta tecnología (televisión digital para recepcionarse en televisores analógicos).
+Desaforar
+Encuadre de imagen donde la lente rebasa el objetivo que se desea tomar.
+Diafonía
+Escape de una señal de audio de un canal a otro en un sistema estéreo.
+Digitalización
+Proceso en virtud del cual se asignan valores numéricos, en función de su intensidad, a diferentes muestras de una onda eléctrica que contiene información de audio o video. También se conoce como codificación.
+Drop out
+Error de grabación por el que aparecen en pantalla rayas, puntos o nieve.
+DTH
+Direct To Home. Se refiere a la transmisión de señales de radio desde un satélite directamente al domicilio del usuario, por medio de una antena parabólica de pequeño tamaño. El servicio DTH más popular es la televisión por satélite.
+DTH (direct to home)
+Emisión de TV digital directa al hogar, vía satélite.
+DTV
+Televisión digital. Tecnología que está sustituyendo a los sistemas de televisión analógica. Utiliza ondas de radiofrecuencia que contienen información digitalmente codificada a fin de mejorar la calidad y eficiencia de imagen y sonido. La DTV cuenta con tres niveles de calidad de imagen: SDTV, EDTV y HDTV. Actualmente, es posible acceder a la Televisión Digital mediante las siguientes tecnologías: ondas terrestres, cable, satélite, ADSL y dispositivos móviles.
+DVB
+Digital Video Broadcasting. Organismo europeo que tiene como socios a empresas de la industria, programadores, difusores y otros miembros del sector audiovisual. Su objetivo es crear y unificar los estándares relacionados con la Televisión Digital en Europa (expandiéndose al resto del mundo).
+DVB-C
+Transmisión de contenidos DVB (video y aplicaciones) mediante redes de cable.
+DVB-S
+Transmisión de contenidos DVB mediante redes de satélite.
+DVB-T
+Transmisión de contenidos DVB mediante redes terrestres.
+DVD
+Disco Versátil Digital (Digital Versatile Disc). Soporte físico de almacenamiento de datos.
+Encriptado
+Proceso por el cual la señal pasa a estar codificada de forma que únicamente con ciertas claves sea posible descodificarla. Este procedimiento se realiza conforme a un algoritmo que es común a todos los países europeos con el objeto de obtener la compatibilidad entre descodificadores.
+ENG
+Producción electrónica de noticias (Electronic News Gathering). Término aplicado a un equipo portátil de pequeñas dimensiones con una cámara de TV con calidad broadcast, VTR y/o enlace de microondas, generalmente usado para noticias. Fue creado para distinguir entre producción de noticias en película y en cinta de vídeo (electrónica). También referido a equipos de edición portátiles o compatibles con el estudio.
+EPG
+Guía Electrónica de Programas (Electronic Program Guide). Guía en pantalla que ofrece señales de los programas del día y de días posteriores y que orienta al usuario en el momento de seleccionar un programa. También se denomina navegador. Con la ayuda del mando a distancia, el espectador accede a la EPG y puede disfrutar de características como los resúmenes de programas, la búsqueda por tema o canal, el acceso inmediato al programa seleccionado, el avisador y las funciones de control paterno.
+Fibra óptica
+Permite integrar por una misma vía servicios de telefonía, televisión, internet y datos. Su implantación ofrece innumerables ventajas: gran capacidad y velocidad e interactividad entre emisor y receptor.
+FPS
+Cuadros por segundo (Frames per second).
+Frame
+Una imagen completa al producirse el barrido entrelazado de dos campos. El equivalente en vídeo a un fotograma en cine.
+Gestor del Múltiple 
+(También Operador del Múltiple). Agente responsable de la gestión del ancho de banda del canal múltiple para TDT.
+Gobo
+Pieza negra de gran tamaño que se usa para impedir que la luz incida en grandes áreas del escenario.
+HD Ready o Monitor Listo
+Es una televisión cuyo monitor puede visualizar HDTV pero que no contiene sintonizador integrado, por lo que hay que comprarlo por separado.
+HDMI
+Siglas en inglés del Interfaz multimedia de alta definición (High Definition Multimedia Interface), que es un conector digital de alta calidad. A través de un cable HDMI se transmite, de forma digital, información de audio, vídeo y datos entre dos equipos digitales.
+HDTV
+Televisión de alta definición que aumenta el tamaño del campo visual, presenta casi el doble de líneas que los sistemas tradicionales y tiene el formato de pantalla de aspecto 16/9 frente al 4/3.
+Hispasat
+Sistema español de satélites. Su huella cubre la península ibérica, las Islas Canarias, el norte de África, América Central, América del Sur y una amplia zona de América del Norte.
+Infografía
+Aportación informativa realizada con elementos icónicos tipográficos que permite o facilita la comprensión de acontecimientos, acciones y hechos de la actualidad o de algunos de sus aspectos más significativos, y acompaña o sustituye al texto informativo.
+ITV
+Interactive Television
+LCD
+Pantalla de televisión muy delgada de cristal líquido. La imagen, sumamente clara y nítida, se genera a través de los impulsos eléctricos a los que se somete el cristal líquido que se encuentra entre las capas de vidrio.
+Led
+Diodo Emisor de Luz (Light Emitting Diode)
+.
+ Dispositivo de pequeño tamaño que se ilumina cuando circula por él una corriente eléctrica. Muy usado como indicador luminoso. Las ventajas de los diodos Led sobre las lámparas indicadoras comunes son su bajo consumo de energía, su mantenimiento casi nulo y su larga vida útil.
+Multicasting (Multitransmisión)
+Tecnología que permite que cada estación emisora digital separe su ancho de banda en dos o más canales individuales de programación y servicios de datos.
+Múltiplex o canal múltiple
+Señal compuesta para transmitir un canal o frecuencia radioeléctrica y que, al utilizar la tecnología digital, permite la incorporación de las señales correspondientes a varios canales de televisión y radio y de las señales correspondientes a varios servicios asociados y a servicios de comunicaciones electrónicas
+NLE
+Edición no lineal. El medio de grabación utilizado no es lineal – no es cinta. Se utiliza con frecuencia para describir un entorno de grabación en que hay acceso rápido (directo) a los “clips” fuente y al espacio de grabación – normalmente utilizando discos. El término se ha utilizado mucho asociado a sistemas de edición off-line que almacenan imágenes muy comprimidas, pero cada día aumenta el número de sistemas no lineales on-line.
+NTSC 
+Siglas en inglés del National Television System Comité, sistema de codificación y transmisión de televisión a color analógica desarrollado en Estados Unidos en los años 40 y que se emplea en la actualidad en USA, Canadá, México y Japón.
+Pago por visión (Pay per view)
+Programación televisiva por la cual los usuarios pagan por ver un programa específico, largometrajes, partidos de fútbol, individualmente en vez de pagar mensualidades.
+PAL
+Fase alternada en cada línea (Phase Alternating Line). Sistema de codificación para televisión en color ampliamente utilizado en Europa y en todo el mundo, casi siempre con el sistema de 625/50 líneas/campo.
+Píxel
+Abreviatura de “Picture cell”. Es el nombre con el que se denomina a una muestra de información de imagen. Es el elemento más pequeño de una imagen de televisión. A más píxeles en una imagen, mayor es la resolución.
+Plasma
+Pantallas de televisión que funcionan mediante la introducción de gas entre paneles de vidrio. Tienen mejor brillo que las pantallas LCD.
+Plataforma de televisión
+Operador de televisión que, a través de una marca comercial que lo identifica ante los usuarios, ofrece a éstos un conjunto de canales de televisión y/o de servicios interactivos.
+Post producción
+Conjunto de operaciones que se realizan después de la grabación de un programa de televisión destinadas a editar, titular, musicalizar, poner créditos y otros efectos a la señal de vídeo.
+Premium
+Canal de televisión o paquete de canales, de carácter especial por lo atractivo de su contenido, que se ofrece a quienes ya son abonados al paquete básico de una plataforma de televisión mediante un precio específico.
+Prime time
+Término inglés que se utiliza en programación para hablar del conjunto de emisiones de la parrilla que cubre la emisión principal de la noche y que corresponde a la hora de máxima audiencia de televisión. En España el prime time comienza a partir de las 20.30; en nuestro país se entiende como segundo horario de prime time las emisiones de sobremesa entre las 15:00 y las 16:00.
+Raccord
+Correspondencia, ajuste y continuidad de movimiento, ambiente, gestos, disposición de objetos y decorados entre un plano y el siguiente. Relación de continuidad entre un plano y su precedente y/o siguiente.
+Rating
+Término inglés que significa audiencia. Representa el número de personas que visionan un programa específico o que consume televisión durante un cierto periodo de tiempo. Se da en cantidades numéricas tipo millones de espectadores.
+Realidad virtual
+Término aplicado a la simulación de una realidad por medios mecánicos o electrónicos, que permite cierto grado de interacción con el usuario o espectador. Simulación de un ambiente que puede o no asemejarse a la realidad y que generalmente es en 3D. La realidad virtual tiende a destacar la posibilidad de simular el mundo real con una finalidad cognoscitiva. En cambio, la realidad artificial simula entornos y escenas inexistentes o imposibles porque incumplen leyes físicas a fin de explorar las potencialidades expresivas del medio más allá de sus capacidades reproductivas en relación con lo real.
+Resolución
+Es la cantidad de líneas y de píxeles que componen una imagen de televisión. Cuanto más alto es el número de líneas o de píxeles, la imagen es más nítida y detallada.
+RGB
+Abreviatura de la señal rojo, verde y azul; los colores primarios en TV. Tanto en cámaras como en telecines y en la mayoría de elementos de monitorización de un centro de producción se realiza en RGB.
+Salto de eje
+Se produce cuando no se respeta el eje imaginario que se establece entre dos personajes que interactúan o en la línea de desplazamiento de un personaje u objeto de la escena. Si en una conversación entre dos personajes colocamos una cámara a un lado del eje que une a los conversadores y otra cámara al otro, en el montaje se verá que ambos personajes, en lugar de mirarse uno al otro, miran ambos en la misma dirección.
+SECAM
+SECuencial A Memoria. Sistema de TV instaurado en Francia, Europa Oriental, el Magreb y algunos países de Oriente Próximo. Se envían las señales R-Y y B-Y de forma alternada, por lo que es necesaria una memoria para la síntesis de la señal de color. Estas señales se modulan en frecuencia La señal Y se envía en todas las líneas consiguiendo así la retrocompatibilidad.
+Servicios de la Sociedad de la Información:
+Nuevos servicios interactivos que pueden llegar a través del ordenador, del televisor o de otros medios (correo electrónico, acceso a Internet).  Según la Directiva 98/48/CE,  en su articulo 1 punto 2, se defino como  “todo servicio prestado normalmente a cambio de una remuneración, a distancia, por vía electrónica y a petición individual de un destinatario de servicios”. En este sentido, se considera “a distancia” un servicio prestado sin que las partes estén presentes simultáneamente; “por vía electrónica”, un servicio enviado des de la fuente y recibido por el destinatario mediante equipos electrónicos de tratamiento (incluida la compresión digital) y de registro de datos y que se transmite, canaliza y recibe enteramente por hilos, radio, medios ópticos o cualquier otro medio electromagnético; y “a petición individual de un destinatario de servicios”, un servicio prestado mediante transmisión de datos a petición individual”.
+Servicio Público:
+Tal y como se recoge en la 
+LEY 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal
+, es un servicio esencial para la comunidad y la cohesión de las sociedades democráticas que tienepor objeto la producción, edición y difusión de un conjunto de canales de radio y televisión con programaciones diversas y equilibradas para todo tipo de público, cubriendo todos los géneros y destinadas a satisfacer necesidades de información, cultura, educación y entretenimiento  de la sociedad española; difundir su identidad y diversidad culturales; impulsar la sociedad de la información;  promover el pluralismo, la participación y los demás valores constitucionales, garantizando el acceso de los grupos sociales y políticos significativos.
+Servicios Interactivos: 
+Interactive Broadcasting. Suponen la provisión de servicios, asociados o no a la programación tradicional, que requieren un canal de retorno para la comunicación con el proveedor de servicios.
+Simulcast
+Transmisión de la misma señal por dos medios de transmisión diferentes. Por ejemplo transmisión por satélite y transmisión por Internet. O también se considera simulcast la transmisión por el mismo medio de dos servicios diferentes como por ejemplo dos audio de la misma película, uno en versión castellano y otro en versión original.
+Sound track
+Banda internacional de sonido que contiene los ruidos, músicas y ambientes sonoros excepto los diálogos y voces.
+Target
+Es el público objetivo al que se dirige un producto o servicio. La definición del público objetivo suele contemplar tres tipos de criterios: sociodemográfico (sexo, edad, nivel de estudios), socioeconómico (ingresos, pautas de consumo, clase social) y psicográfico (personalidad, estilo de vida, sistema de valores).
+TDT
+Acrónimo empleado para denominar la televisión digital terrestre, la modalidad de televisión digital que se transmite por ondas hertzianas a través de antenas y enlaces terrestres.
+Web TV
+Sistema que permite la navegación por Internet a través del televisor convencional.
+Webcam
+Del inglés 
+Web camera
+, cámara para la red. Se trata de una pequeña cámara digital compatible con la red, que permite establecer videoconferencias.
+Webcasting
+Difusión de contenidos audiovisuales a través de la World Wide Web.
+7.5. Glosario de términos utilizados en el lenguaje radiofónico 
+Volver al índice
+Ambiente sonoro
+Conjunto de señales acústicas que recrean el marco y la atmósfera de un espacio o sección radiofónicos.
+Careta
+Señal sonora que sobre la sintonía o fondo musical incluye créditos, títulos fijos y otros textos sobre los contenidos de un espacio de radio.
+Cortinilla
+También llamada ráfaga, es la señal sonora que separa secciones, noticias o párrafos en un espacio radiofónico. En determinadas ocasiones cumple una función gramatical: si su duración es de 4 segundos equivale al punto y seguido; las de 8 segundos corresponden a un punto y aparte.
+Cuña
+Montaje breve, que puede incluir música, palabra y otros recursos sonoros, destinado a la venta de un producto comercial (cuña publicitaria); o a captar audiencia para un espacio de radio (cuña promocional).
+Otra modalidad de cuña es aquella que avanza algunos temas que se van a desarrollan en un espacio radiofónico. Recibe el nombre de cuña de contenido o, más coloquialmente, “píldora”.
+Declaraciones
+Expresiones orales de protagonistas o personas destacadas en los ámbitos político, económico y social, sobre asuntos de interés general.
+Entradilla
+Texto breve que, en programas y espacios informativos, busca captar la atención del oyente ante la noticia, entrevista o reportaje que se emite a continuación. Debe dar claves y avanzar los contenidos, pero no desarrollarlos.
+Entrevista
+Género informativo que, en su variante radiofónica, consiste en la emisión de preguntas y respuestas intercambiadas entre profesionales de una emisora y protagonistas de la actualidad o expertos en determinados temas.
+Golpe
+Efecto sonoro que sirve para acentuar un instante concreto de un espacio de radio. Puede incluir música, palabra y otros recursos. Se utiliza cuando se desea subrayar una situación, destacar a un personaje, etc.
+Guión de continuidad
+Escrito que recoge, con todos los detalles necesarios para su realización, el contenido de un programa de radio. Incluye textos de las locuciones del presentador, fuentes de sonido externas (conexiones, unidades móviles, etc.), recursos sonoros y las instrucciones técnicas para el control.
+Impresiones
+Expresiones orales que reflejan los puntos de vista de alguien sobre determinados hechos.
+Indicativo
+Montaje sonoro muy breve que identifica a una emisora ante el oyente. Incluye música, palabra y cualquier recurso radiofónico. Por ejemplo, Radio Cinco, todo noticias: la información al instante.
+La escaleta
+Esquema posterior a la elaboración del guión. Equivale a una pauta que refleja de forma precisa los datos que anteriormente eran sólo estimativos: temas, tiempos, pies o finales de frases y, ahora sí, indicaciones técnicas.
+Marco inmediato
+Concepto sociológico que define el entorno próximo (doméstico, familiar, laboral, etc.) de las personas.
+Microespacio
+Unidad temática de la programación de una emisora que, en tiempo breve y con estructura propia, trata sobre noticias, asuntos o personajes. Puede realizarse con todos los recursos técnicos y narrativos propios de los espacios de mayor duración.
+Pauta
+Esquema previo al guión que contiene la estructura de un espacio radiofónico. En él figuran los bloques temáticos y la duración estimada de cada uno de ellos, pero se excluyen textos de locución e instrucciones técnicas.
+Punto
+Recurso radiofónico que tiene la misma función que el indicativo, pero aplicado no a la emisora, sino a un espacio concreto de su programación. Por ejemplo, El ojo crítico: la información cultural en Radio Nacional de España.
+Radio convencional
+Emisora que alterna en su programación todo tipo de espacios y formatos radiofónicos. Su parrilla puede ser horizontal, cuando mantiene diariamente los mismos espacios a las mismas horas; o vertical, si hay una programación distinta cada día de la semana.
+Radio temática o monográfica
+Emisora cuya programación trata exclusivamente sobre una materia genérica (economía, deportes, música clásica, religión…) y utiliza variedad de formatos radiofónicos. Esta última característica la distingue de la radio-fórmula.
+Radio-fórmula
+Tipo de programación que se caracteriza por incluir contenidos similares en una parrilla diaria única. El término define también a las emisoras que poseen esa programación. Por lo general, suelen ser musicales y  tienen un esquema formal básico, que se repite durante todo el día.
+Rueda de corresponsales
+Rueda radiofónica cuyos participantes son los corresponsales y enviados especiales en el extranjero.
+Rueda de emisoras
+Rueda radiofónica en la que participan informadores de distintas delegaciones de una cadena. Normalmente gira en torno a un tema o noticia concretos.
+Rueda radiofónica
+Formato que consiste en conexiones simultáneas mediante múltiplex. Suele estar dirigida por un presentador que coordina, desde el estudio central, las intervenciones de los participaciones.
+Sección
+Cada uno de los apartados formales o temáticos en que se divide un espacio radiofónico.
+Sintonía
+Señal sonora, generalmente una melodía, que marca el comienzo y el final de un espacio radiofónico. Sirve para identificarlo entre los demás.
+Sondeo
+Encuesta, realizada por empresas demoscópicas o la propia emisora, para conocer el estado de opinión de la audiencia ante un asunto o noticia de actualidad.
+Testimonios
+Expresiones orales de los protagonistas o testigos de determinados acontecimientos que transmiten sus experiencias sobre los mismos.
+7.6. Glosario de términos utilizados en medios interactivos 
+Volver al índice
+ADSL
+(Asymmetric Digital Subscriber Line): Método de transmisión de datos a través de líneas telefónicas de cobre, que permiten velocidades de transferencia muy superiores. La transferencia de datos es asimétrica, ya que la velocidad para transferir datos desde el servidor a nuestro ordenador es mucho más rápida (1.544 Megabits/seg), que si transferimos datos desde nuestro ordenador a un servidor (128 Kilobits/seg). Mejora el rendimiento de la navegación WWW y la transferencia de ficheros desde un servidor.
+Avatar
+Es una representación gráfica, generalmente humana, que se asocia a un usuario (de videojuego, …) para su identificación
+Banner
+Anuncios publicitarios con enlaces al sitio de Internet al que se refieren. 
+Blog o Bitácora
+Publicación on line, periódicamente actualizada, que recopila cronológicamente textos o artículos de uno o varios autores, apareciendo primero el más reciente, donde el autor conserva siempre la libertad de dejar publicado lo que crea pertinente. Es propio de los blogs hacer un uso intensivo de los enlaces a otros blogs y páginas para ampliar información o citar fuentes. Suelen disponer de un sistema de comentarios que permiten a los lectores establecer una conversación con el autor y entre ellos acerca de lo publicado
+Boletín
+ Comunicaciones regulares vía e-mail dedicadas a un tema específico que requieren el consentimiento del destinatario para ser enviado. Algunos Newsletter permiten la inclusión de publicidad.
+Bot
+Bot: Herramientas  que acceden a los sitios web y reúnen referencias de su contenido para los índices de los buscadores.
+Buscadores
+Programas que permiten a los usuarios buscar información a través de Internet. En la WWW algunas de los más famosos son Google,Yahoo, etc.
+Caché
+Memoria volátil que permite mantener información duplicada de datos originales  que puede ser requerida en otro momento. Con esta memoria se evita repetir procesos y se acelera cada petición.
+Chat 
+Es una comunicación escrita realizada de manera instantánea a través de Internet entre dos o más personas.
+Cliente/Servidor
+Concepto que, en informática de redes, sirve para clasificar los ordenadores: los servidores almacenan información y la entregan a los clientes, que la solicitan. 
+Codec
+Se utilizan para comprimir el tamaño de archivos de audio,vídeo o de imágenes. Debido a que el tamaño de estos archivos comprimidos es menor, no requieren tanto ancho de banda cuando se envían o almacenanen un ordenador. El mismo codec que originalmente comprime un archivo debe utilizarse para descomprimirlo  y abrirlo.
+Cookie
+Fragmento de información que se almacena en el disco duro del visitante de una página web a través de su navegador, a petición del servidor de la página. .. Suelen utilizarse  para conocer las preferencias de los usuarios y para acceder a servidores que requieren de autenticación.
+Correo electrónico 
+(e-mail)
+Servicio de red que permite a los usuarios enviar y recibir mensajes rápidamente mediante sistemas de comunicación electrónicos
+Cortafuegos
+(Firewall). Mecanismo de seguridad en Internet frente a accesos no autorizados. Un firewall asegura que todas las comunicaciones entre los usuarios de dicha red e Internet se realicen conforme a las normas de seguridad de la organización o empresa que lo instala.
+Cracker
+Intruso. Persona que intenta acceder a un sistema informático sin autorización. A menudo tienen malas intenciones.
+Crawler 
+Programa diseñado para recorrer la web siguiendo los enlaces entre páginas. Esta es la forma habitual empleada por los principales buscadores para encontrar las páginas que posteriormente forman parte de sus bases de datos.
+Dirección IP
+Dirección única o número que indentifica nuestro ordenador en la red. Consta de cuatro números entre 0 y 255 separados por puntos (por ejemplo 200.132.5.45). 
+Dirección URL
+Dirección que identifica sitios web. Por ejemplo, www.rtve.es es la url del sitio web de RTVE.
+Dominio
+Es el sistema de identificación de direcciones en Internet. Existen dominios de organizaciones como los .com; dominios geográficos como .es que identifican el país de origen de la página; dominios de organizaciones no lucrativas como .org, etc.
+FAQS
+(Frequentry Asked Question): Preguntas y respuestas realizadas con mayor frecuencia, generalmente referidas a un tema específico.
+Feed (RSS)
+Medio de redifusión de contenidos de distintas webs, que se utiliza para suministrar información actualizada frecuentemente a sus suscriptores a través de los  agregadores RSS.
+Firmware
+Es el sistema operativo que incluye un dispositivo electrónico como un router, grabadoras de CD y DVD, reproductores de salón, etc. Contiene las diferentes funciones que hacen posible su funcionamiento.
+Freeware
+Software puesto a disposición de la comunidad por sus autores. Este tipo de programas pueden ser libremente distribuidos y utilizados sin necesidad de pago alguno.
+FTP
+Siglas de File Transfer Protocol, o protocolo de transferencia de ficheros, utilizado para tranferir éstos en redes que utilizan TCP/IP. Muy usado, por tanto, en Internet.
+GPRS
+(GPRS = General Packet Radio Service)Transmite y recibe datos en paquetes y ofrece una conexión permanente entre el dispositivo inalámbrico y la red.
+Grupo de noticias
+Son un medio de comunicación en el cual los usuarios leen y envían mensajes textuales a distintos tablones distribuidos entre servidores con la posibilidad de enviar y contestar a los mensajes.
+GSM
+Estándar paneuropeo del servicio de telefonía digital y celular.
+Gusano
+(worm): Programa informático que se autoduplica y autopropaga, arrastrándose de un equipo a otro a través de las conexiones de red
+Hacker
+Experto en redes y seguridad informática que accede a sistemas en los que no está autorizado. Aunque su definición es controvertida, la mayoría de las voces defienden que el acceso se realiza sin ánimo de causar daño y generalmente para aprender más y superarse a sí mismo.
+Hipertexto
+Concepto consistente en vincular varios documentos a través de palabras o frases comunes.
+Hipervínculo
+Es un elemento de un documento electrónico que hace referencia a otro recurso. Por ejemplo, otro documento o un punto específico del mismo o de otro documento.
+Home Page
+Es la página inicial de un sitio web, a través de la cual se puede acceder al resto de la información.
+HTML
+(HyperText Markup Language) Lenguaje estándar usado en internet, utilizado para la creación de documentos de hipertexto e hipermedia. Este lenguaje determina el modo en que el navegador recupera y muestra la información. Su  sucesor es el lenguaje XML.
+HTTP
+(HyperText Transmission Protocol) Protocolo para transferir archivos o documentos hipertexto a través de la red. Se basa en una arquitectura cliente/servidor.
+Interactividad
+Tipo de relación que hace que el comportamiento de un sistema modifique el comportamiento del otro. 
+Interfaz
+Conjunto de especificaciones permiten la conexión del ordenador con los periféricos de entrada y salida.
+Intranet
+Red de uso privado que emplea los mismos estándares y herramientas de Internet.
+IPTV
+Sistemas de distribución por subscripción de señales de televisión y/o vídeo usando conexiones de banda ancha sobre el protocolo IP.
+IRC 
+(Internet Relay Chat). Sistema de conversación multiusuario, en el que la gente se comunica por texto en grupo o en privado, de forma instantánea.
+ISP
+(Internet Service Provider) Proveedor de servicio de internet.
+LAN
+(Local Area Network). Grupo de ordenadores conectados entre sí (red) que se encuentran ubicados en un mismo lugar físico.
+Layer
+Formato publicitario flotante que se superpone al contenido de la página y que se mueve por la pantalla.
+Link
+Conexión electrónica entre dos sitios web. También conocido como enlace dinámico o hipervínculo.
+Lista de correo
+Lista de usuarios que reciben mensajes de correo electrónico sobre un tema específico con cierta regularidad y por voluntad propia
+Log o Registro
+ Archivo que hace un seguimiento de las conexiones de red.
+Medición interna
+Es la medición de tráfico de webs propias mediante un software prepararado para tales funciones.
+Navegador 
+Programa empleado para acceder a la información contenida en la World Wide Web. A menudo se le llama por su nombre en inglés, browser.
+Packet
+Paquetes de datos que se envían a travésde una red, que se reagrupan en el destino para ser visualizados.
+Página vista
+Número de veces que una página es totalmente descargada en el ordenador de un usuario.
+Palabra clave
+(Keyword). Palabra(s) específica(s) que el usuario introduce en un motor de búsqueda y que tiene como resultado una lista de sitios web relacionados con la palabra clave.
+Pasarela
+Dispositivo que conecta dos o más redes permitiendo que la información de una pase a otra según criterios predeterminados.
+Peer to Peer (P2P)
+Comunicación bilateral exclusiva entre dos personas a través de Internet para compartir información entre iguales
+Ping
+Herramienta para la verificación de direcciones de Internet. Se utiliza para comprobar si un equipo está activo en la red.
+Plug-in
+Programa de fácil instalación cuyo objetivo es ampliar las posibilidadesde visualización de una página web o un anuncio interactivo. Son muy utilizados en los navegadores para ampliar sus funcionalidades.
+Pop
+(Post Office Protocol o Protocolo de oficina postal). Protocolo empleado por el software de correo electrónico para extraer o recibir los mensajes de los servidores de correo en nuestro ordenador.
+Pop-up
+Tipo de formato publicitario flotante que aparece en la pantalla del usuario a través de una ventana independiente o sobre los contenidos de un sitio web. Los pop ups pueden resultar extremadamente eficaces para llamarla atención del usuario cuando carga una página. Se muestran en una ventana independiente y puede contener gráficos, lenguaje HTML, animaciones,audio, o una combinación de dichos tipos de archivos.
+Protocolo
+Conjunto de reglas uniformes que permiten la conexión entre dos ordenadores o sistemas de telecomunicaciones y la transmisiónde datos entre ellos. Los protocolos determinan la manera en que se transmite la información entre aparatos informáticos y redes; definen cuestiones como el control de errores y el método de compresión de datos, la manera en que el aparato emisor indica si ha enviado un mensaje y la forma en que el aparato receptor indica que ha recibido el mensaje. Algunos protocolos de Internet son TCP/IP, HTTP,FTP, y SMTP 
+RDSI 
+(Red Digital de Servicios Integrados) Sistema de transmisión de datos de gran éxito por la gran velocidad que permite (alrededor de los 64.000 bps). 
+Red Social en Internet
+Servicio dirigido a comunidades de usuarios en los que se pueden intercambiar fotos, archivos, aplicaciones, mensajes de texto y otro tipo de contenidos online. Las redes sociales son cada vez más populares y se han convertido en un excelente soporte publicitario y de marketing viral.
+Rich Media 
+ Son anuncios con los que los usuarios pueden interactuar (como oposición a los solamente animados) en un formato de página web. Pueden aparecer en formatos publicitarios tales como banners o botones, así como de transición (intersticiales) y en otras unidades “sobre la página” como anuncios flotantes.
+Sesión
+Secuencia de actividad en Internet realizada en un sitio por un usuario. En el caso de que éste no realice ninguna petición a un sitio durante un periodo concreto, el siguiente contenido o petición publicitaria se consideraría como el inicio de una nueva sesión.
+Shareware
+Software de distribución pública y gratuita pero no de uso gratuito. El autor establece un período de prueba después del cual pide una cuota de recuperación.
+Streaming
+Tecnología que permite el envío de secuencias de audio y vídeo a un ordenador desde un sitio web remoto, de modo que el usuario pueda ver y oir dichos archivos.
+T-commerce 
+Comercio electrónico ejecutable a travésde la televisión interactiva.
+UMTS 
+(Sistema Universal de Telecomunicaciones Móviles) Transmisión de datos (texto, voz digitalizada, vídeo, o combinación multimedia deéstos), mediante un ancho de banda amplio, que ofrece una serie de servicios a los usuarios de ordenadores y teléfonos móviles independientemente de su ubicación en el mundo.
+Usuario único
+Usuario o navegador único que accede a un sitio web o que recibe contenido único  como correo electrónico, boletines, interstitials y anuncios emergentes. 
+Visita
+Cada navegante que visite unapágina web
+VOD (Vídeo on Demand) 
+Servicio que permite a los usuarios seleccionar y ver  contenidos de vídeo
+WAP
+(Wireless Application Protocol o protocolo de aplicaciones inalámbricas) Es un estándar abierto internacional para aplicaciones que utilizan las comunicaciones inalámbricas, p.ej. acceso a servicios de Internet desde un teléfono móvil.
+Webhosting 
+Servicio que provee a los usuarios de Internet un sistema de almacenamiento de  información, imágenes, vídeo, o cualquier contenido accesible vía Web.
+Wikipedia
+Enciclopedia de contenido gratuito, multilenguaje, escrita por miles de voluntarios sin fines de lucro.
+WWW 
+(World Wide Web o telaraña mundial). Conjunto de sitios Web que se encuentran en Internet y a los que se accede a través de una dirección URL. 
+XML 
+(Extensible Markup Language) Sucesor más completo y dinámico del lenguaje estándar usado en internet, HTML. 
+7.7. Recursos en Red 
+Volver al índice
+Codigo Deontológico FAPE
+Centro Virtual Cervantes
+Gramática del Castellano
+Vademécum Diccionario de dudas del español (FUNDÉU)
+Directorio de diccionarios Universia
+Diccionarios de variantes del español
+WordReference
+Diccionarios.com
+Foreignworld
+Diccionario de inglés (Richmond)
+ (VOX)
+Onelook (Lista de diccionarios y glosarios)
+Pronunciación del Inglés
+Traductor De Google
+Traductor de Altavista
+Freetraslation
+UltraLingua
+Directorio de Diccionarios
+Catalán
+Euskera – Castellano – Euskera
+Vocabulario Castellano-Galego
+Gentilicios
+Proverbios, frases y refranes
+Sinónimos y antónimos
+Figuras retóricas
+Neologismos
+Terminómetro
+Toponimia gallega
+Toponimia vasca
+Guías de Comunicación
+Agenda de la Comunicación Moncloa
+Biografías
+Buscabiografías (ES)
+Biografíasyvidas
+Diccionario biográfico (ING)
+Biografíe (IT)
+BornToday(USA)
+Pseudónimos famosos
+Premios
+Premios Nobel
+Premios Pulitzer
+Premios Príncipe de Asturias
+Políticos y famosos
+Líderes del mundo desde 1945
+7.8. Publicaciones del Instituto RTVE sobre informaciones sensibles 
+Volver al índice
+PAUTAS COMUNES
+Palabras equívocas o malsonantes en España, Hispanoamérica y Filipinas 
+/ Manuel Criado del Val.- [Madrid]: IORTV, 1985. ISBN: 84-505-2572-1
+NIÑOS Y ADOLESCENTES
+Programas de televisión para preescolares y niños
+ / Pilar Cabrera.- Madrid: Instituto RTVE, 1985.- Publicado en serie: Estudios profesionales. Notas tomadas del seminario de la UER sobre Televisión escolar.
+Los niños y la televisión: encuesta sobre audiencias en programas de televisión 
+/ Jesús María Vázquez.- Madrid: Ministerio de Información y turismo, 1965.- Servicios de Formación de TVE.
+Dossier de prensa de TVE sobre los niños y la publicidad (Septiembre 1979 – Diciembre 1980) 
+/ Oficina de prensa de RTVE.-Madrid: TVE, 1980.
+Foro Nacional: Entorno Familiar, Menores, Educación y Televisión. Madrid, 7 de junio de 2004 
+/ Coordinadora del proyecto Virginia Martínez Marín; organizado por el Instituto RTVE, RTVE y la Dirección General de la Familia y la Infancia del Ministerio de Trabajo y Asuntos Sociales.
+Foro Nacional: Televisión, Videojuegos e Infancia en una Sociedad Multipantalla. Celebrado en el aula magna del IORTV el 23 de mayo de 2006 
+/ Coordinadora Virginia Martínez Marín; organizado por la Dirección General de la Familia y la Infancia del Ministerio de Trabajo y Asuntos Sociales en colaboración con el Instituto RTVE.
+Programación infantil de televisión: orientaciones y contenidos prioritarios 
+/ editores Miguel del Río Álvarez, Mariano Román Blas; coordinación técnica Virginia Martínez Marín.- Madrid, Instituto RTVE, [2005].D.L. M-28836-2005
+VIOLENCIA
+Perversiones televisivas: una aproximación a los nuevos géneros audiovisuales 
+/ Francisco R. Pastoriza.- Madrid: Instituto RTVE, 1997. ISBN: 84-88788-27-4
+TRATAMIENTO DE LA VIOLENCIA CONTRA LAS MUJERES
+Manual de información en género
+ / Instituto Oficial de Radio y Televisión; Ministerio de Trabajo y Asuntos Sociales; Instituto de la Mujer; Editora y asesora de contenidos Pilar López Díez; Coordinación general del proyecto Miguel Ángel Ortiz Sobrino; Coordinación técnica Juan Cuesta Rico y Virginia Martínez Marín.- Madrid: Instituto RTVE; RTVE, 2004. ISBN: 84-88788-55-X.
+Los medios de comunicación desde la perspectiva de género. Jornada celebrada en el Auditorio de RTVE, en Madrid el día 14 de Diciembre de 2005.
+ Ponencias: Inauguración: Dña. María Rosa Peris Cervera, Directora del Instituto de la Mujer y Don Miguel Ángel Ortiz Sobrino, Director del Instituto RTVE. Comunicación: Violencia de género: El estado de la cuestión.
+Representación de la violencia de género en los informativos de TVE: conclusiones
+ / Ministerio de Trabajo y Asuntos Sociales. Secretaría General de Políticas de Igualdad; Instituto de la Mujer en colaboración con Instituto RTVE y Dirección Gerencia de Comunicación y Relaciones Institucionales de RTVE.- Madrid: Instituto RTVE; Instituto de la Mujer, 2005.
+La violencia contra las mujeres desde la perspectiva de género en el programa “Tolerancia cero” de Radio 5
+ / Pilar López Díez.- [Madrid]: Instituto RTVE. RTVE, 2007. D.L. M 6684-2007
+TERRORISMO
+El periodismo audiovisual frente al terrorismo. Jornadas sobre Comunicación Audiovisual y Terrorismo, Universidad Menéndez Pelayo, Santander 29 y 30 de julio de 2002 
+/ Andrew Collman… [et al.];coordinación de la publicación Instituto RTVE.- [Madrid]: Consejo de Administración de RTVE, [2003]
+DISCAPACITADOS
+Impacto social de las nuevas tecnologías de la información en relación con la discapacidad 
+/ Ramón Puig de la Bellacasa. Publicado en: Prospectiva de la radio y televisión.- Madrid: Instituto RTVE, 1980.
+INMIGRACION, RACISMO Y XENOFOBIA
+Información, Derechos Humanos y Constitución 
+/ Eduardo Gorostiaga.- 1ª ed.- [Madrid]: Instituto RTVE, 1981. ISBN: 84-500-5057-X
+Información sobre confesiones religiosas ateísmo hoy 
+/ José Miguel Pero-Sanz Elorz.- Madrid: Planeta, 1975.-Biblioteca cultural RTVE; 9. ISBN: 84-287-8004-1
+El hombre y la política (Teología de la comunidad política) 
+/ Gonzalo Lobo Mendez.- Biblioteca cultural RTVE; 21. ISBN: 84-287-0344-2
+SEXO
+Sexo y televisión. Publicado en: Perversiones televisivas: una aproximación a los nuevos géneros audiovisuales
+ / Francisco R. Pastoriza.- Madrid: Instituto RTVE, 1997. ISBN: 84-88788-27-4
+“El sistema sexo / género”.
+ Publicado en: Manual de información en género / Instituto Oficial de Radio y Televisión; Ministerio de Trabajo y Asuntos Sociales; Instituto de la Mujer; Editora y asesora de contenidos Pilar López Díez; Coordinación general del proyecto Miguel Ángel Ortiz Sobrino; Coordinación técnica Juan Cuesta Rico y Virginia Martínez Marín.- Madrid: Instituto RTVE; RTVE, 2004. ISBN: 84-88788-55-X.
+TABACO, ALCOHOL Y OTRAS DROGAS
+El signo de nuestro tiempo: las drogas 
+/ Salvador Cervera Enguix.-Madrid: Magisterio español, 1975.- Biblioteca cultural RTVE; 5. ISBN: 84-265-8002-5
+Propuestas de actuación para el tratamiento de las informaciones sobre jóvenes y drogas.
+ Publicado en: Programación infantil de televisión: orientaciones y contenidos prioritarios / editores Miguel del Río Álvarez, Mariano Román Blas; coordinación técnica Virginia Martínez Marín.- Madrid: Instituto RTVE, [2005].D.L. M-28836-2005.
+Consumo de drogas, medios y percepción colectiva 
+/ Eusebio Mejías Valenzuela. Publicado en: Programación infantil de televisión: orientaciones y contenidos prioritarios / editores Miguel del Río Álvarez, Mariano Román Blas; coordinación técnica Virginia Martínez Marín.- Madrid: Instituto RTVE [2005].D.L. M-28836-2005.
+1er. Foro Jóvenes, Drogas y Comunicación
+ / RTVE en colaboración con el Instituto RTVE; Fundación de Ayuda contra la Drogadicción; Ministerio de Sanidad y Consumo.- Madrid: [s.l.], [2005].D.L. M 28836-2005
+Menú de navegación principal
+Noticias
+RTVE Play
+RNE Audio
+Play Noticias
+RTVE Participa
+Filmoteca
+Televisión
+Radio
+Deportes
+Tiempo
+Clan
+Laboratorio
+Menú de Televisión Española
+2° Dividendo Digital
+RTVE Botón Rojo
+Corresponsalías
+TVE Internacional
+TVE Catalunya
+TVE Canarias
+Teletexto
+Centros Territoriales
+TVE en directo
+Menú de Radio Nacional de España
+Radio Nacional
+Radio Clásica
+Radio 3
+Ràdio 4
+Radio 5
+Radio Exterior
+Podcast
+Frecuencias
+Menú de la Corporación RTVE
+Transparencia
+Sostenibilidad
+RTVE Comunicación
+Manual de estilo
+Código de autorregulación
+Derecho de acceso
+Ofertas de empleo
+RTVE 2030
+Defensora de la Audiencia
+Observatorio de Igualdad
+Observatorio de la Infancia y la Adolescencia
+Canal Ético
+Instituto RTVE
+Orquesta Sinfónica y Coro RTVE
+Dirección Comercial
+Impulsa Visión
+Perfil del Contratante
+Contratación audiovisuales
+Archivo RTVE
+Aviso legal
+Política de privacidad
+Política de cookies
+Política de WhatsApp
+Política de seguridad
+Accesibilidad
+Mapa web
+Contacto
+Normas de Participación
+©
+ Corporación de Radio y Televisión Española 2026

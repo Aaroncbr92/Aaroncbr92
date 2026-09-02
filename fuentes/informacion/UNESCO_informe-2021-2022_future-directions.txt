@@ -1,0 +1,52 @@
+Tendencias mundiales en libertad de expresión y desarrollo de los medios:
+Informe mundial 2021/2022 — sitio oficial del informe, publicado por la UNESCO
+https://www.unesco.org/reports/world-media-trends/2021/es/future-directions
+Leído el 2 de septiembre de 2026.
+
+AVISO SOBRE LA FUENTE: el PDF del informe que enlaza el programa —unesdoc.unesco.org,
+ark:/48223/pf0000379826_spa— **no se ha podido descargar**. Se probaron cinco rutas:
+el enlace del programa, el del visor de documentos, el del fichero .pdf.multi, la
+consulta con agente y cabeceras completas de navegador, y la navegación con un
+navegador real. Las cuatro primeras devuelven **403 con la página «Just a moment...»
+de Cloudflare**, que es un desafío de JavaScript y no un bloqueo del proxy; la quinta
+no llegó a salir, porque en este entorno el navegador no atraviesa el proxy.
+Lo que sí publica la UNESCO, y es lo que va aquí, es **el sitio oficial del propio
+informe en español**, con sus cuatro capítulos. Es documentación institucional —tercer
+nivel de la jerarquía del proyecto—, del mismo organismo que firma el informe, y
+sostiene lo que sostiene: sus cifras y sus formulaciones, no el texto íntegro.
+
+Capítulo: Mejores datos para una mejor comprensión
+
+Buscar
+Buscar
+Mejores datos para una mejor comprensión
+Principales tendencias
+El pujante ecosistema de datos nos brinda la oportunidad de comprender y apoyar mejor al sector de los medios de comunicación y a la libertad de expresión.
+Sin embargo, en los países y comunidades donde el periodismo está más en peligro, la salud del sistema informativo en cuestiones como la propiedad, el pluralismo, la independencia y la viabilidad suele ser una «caja negra».
+El panorama que se dibuja en el presente Informe de tendencias mundiales es preocupante. A pesar de que la comunidad mundial tiene cada vez más pruebas de la importancia de unos medios de comunicación libres, independientes, plurales y sostenibles en los que se garantice la seguridad de los periodistas, este bien común se ve amenazado por todos los frentes.
+Pero hay motivos para el optimismo, gracias a una oleada de esfuerzos para preservar la libertad de prensa y proteger la seguridad de los periodistas en todo el mundo.
+Ampliar y mejorar nuestra capacidad de entender las tendencias y las dificultades a las que se enfrentan el sector de los medios de comunicación y la libertad de expresión es un paso vital para fundamentar mejor las políticas y las soluciones.
+Para este informe, la UNESCO y Data-Pop Alliance han identificado, mapeado y analizado 160 fuentes de datos. Estos conjuntos de datos están ahora disponibles en un banco de datos público, alojado por la UNESCO.
+Mauricio Morales Duarte / UNESCO
+El pujante ecosistema de datos nos brinda la oportunidad de comprender y apoyar mejor al sector de los medios de comunicación y a la libertad de expresión. 
+Al captar las características, las tendencias y las pautas, los datos pueden utilizarse para determinar comportamientos, políticas y programas. Esto sienta las bases para que se produzcan cambios en el mundo real.
+Los esfuerzos del periodismo de datos, por ejemplo, han sacado a la luz la corrupción mundial, la evasión fiscal y el blanqueo de dinero. Otros usos de los datos con repercusión van desde el seguimiento de los progresos nacionales en la consecución de los Objetivos de Desarrollo Sostenible hasta la identificación de discursos de odio en la red.
+Sin embargo, en los países y comunidades donde el periodismo está más en peligro, la salud del sistema informativo en cuestiones como la propiedad, el pluralismo, la independencia y la viabilidad suele ser una «caja negra».
+El uso de los datos para fundamentar las políticas y las soluciones debe superar primero las importantes deficiencias en materia de disponibilidad, accesibilidad, utilización y estabilidad. Esto conlleva la ampliación de los ámbitos geográficos y temáticos de la producción de datos y la promoción de los principios de datos abiertos.
+Mejores datos para una mejor comprensión
+Tras examinar 160 fuentes de datos, el Informe identifica las deficiencias de datos prioritarias y presenta un marco centrado en las cuatro dimensiones siguientes:
+explore
+Disponibilidad
+¿Se dispone de datos relevantes, geográficamente diversos y de buena calidad?
+collections
+Accesibilidad
+¿En qué medida es fácil acceder a los datos y la información?
+topic
+Utilización
+¿Con qué facilidad se pueden utilizar y comparar los datos?
+timeline
+Estabilidad
+¿Es sostenible la producción y distribución de datos?
+Leer el informe completo
+Conozca más detalles y análisis sobre las dificultades a las que se enfrentan los medios de comunicación libres, independientes y plurales en todo el mundo, así como sobre las soluciones innovadoras con las que se trabaja para salvarlos.
+Leer el informe

@@ -1,0 +1,220 @@
+Manual de Estilo de RTVE — 3. RNE
+https://manualdeestilo.rtve.es/rne/
+Leído el 2 de septiembre de 2026.
+
+AVISO SOBRE LA RUTA: el programa da la dirección en **http**, y por ahí el
+sitio responde 403. No es el servidor: es la política de salida de este
+entorno, que solo deja pasar https. Con **https** la misma dirección responde
+200 y sirve el manual entero. El manual está en ocho páginas, una por
+capítulo, y aquí va cada una en su fichero.
+
+Se recorta la navegación del portal y se conserva el cuerpo.
+
+0. Inicio
+1. CRTVE
+2. TVE
+3. RNE
+4. Medios Interactivos
+5. Cuestiones Sensibles
+6. El Lenguaje
+7. Anexos
+3.1. Características del lenguaje radiofónico
+3.2. Los espacios informativos
+3.2.1. El boletín de noticias
+3.2.1.1. Presentación del boletín de noticias
+3.2.1.2. Equilibrio y ritmo del boletín
+3.2.2. Informativos principales: los diarios hablados
+3.3. Géneros informativos radiofónicos
+3.3.1. La noticia
+3.3.2. La crónica
+3.3.3. El reportaje
+3.3.4. El informe
+3.3.5. La entrevista
+3.4. Géneros de opinión
+3.4.1. El debate
+3.4.2. La tertulia
+3.4.3. El comentario
+3.4.4. La encuesta a pie de calle
+3.5. La retransmisión de acontecimientos informativos
+3.6. La participación del oyente en los espacios informativos
+3.7. El lenguaje en los textos informativos
+3.1. Características del lenguaje radiofónico 
+Volver al índice
+Las peculiaridades del medio radiofónico condicionan la expresión hablada. El periodista radiofónico debe ser consciente de la fugacidad del mensaje; el oyente no puede volver a escuchar lo que se está contando, no puede comprobar si ha entendido bien la información. Su única opción es escuchar el texto en el momento, en el orden, y con el ritmo que establece el locutor. Por tanto, escribir para la radio implica saber utilizar adecuadamente el principal instrumento del periodista, la palabra. Para ello, se tendrán en cuenta las características básicas del lenguaje hablado y sus exigencias:
+Claridad: se trata de hacer asequible la expresión porque existe el riesgo de interrumpir la asimilación mental de los mensajes si se adoptan códigos que requieren esfuerzos reflexivos y por tanto, tiempo de descodificación (comprensión)
+Lo concreto, en forma activa y presente. En radio son necesarias las formas que más “vitalizan” las imágenes y los relatos. En casos de equivalencia semántica, mejor las formas simples que las compuestas, el presente que el pasado, la frase activa que la pasiva.
+Brevedad. Las exigencias del tiempo, la necesidad de facilitar la asimilación y la fugacidad del mensaje obligan a la radio a construir mediante períodos y frases breves que aseguren la comprensión.
+El periodista radiofónico está obligado a dominar la ortografía, la morfología, la sintaxis y un vocabulario rico. Debe saber escribir y narrar pero además debe adaptar su escritura y narración al ritmo, cadencia y entonación requeridos en cada momento. A estas características debe unirse el matiz de la expresión personal. A través del micrófono, lo que se pierde desde el punto de vista plástico se gana en los matices de expresión exclusivos del sonido y en la posibilidad de testimonios personalizados a través de la voz; es lo que se puede denominar tono comunicativo, necesario tanto en informativos como en programas. La voz, la música, los efectos y el silencio son los elementos sonoros que determinan la capacidad expresiva. La armonía de todos ellos en torno a un contenido interesante será la que permita sostener el relato radiofónico. Así, captar la atención y el interés del público y hacerlo con la gramática adecuada al medio y al mensaje será la principal exigencia del periodista radiofónico.
+3.2. Los espacios informativos 
+Volver al índice
+3.2.1. El boletín de noticias
+La programación informativa se articula alrededor de dos formatos: los boletines horarios y los diarios informativos.
+El boletín horario es el eje de la continuidad informativa; por ello tiene una gran relevancia en la identificación de la cadena. Las prioridades informativas, la inmediatez de las noticias, el rigor, la pluralidad y el estilo comunicativo aportan las líneas clave de esa identidad. El boletín, de modo genérico, responde a la finalidad de recopilar las noticias más importantes, ofrecer noticias de última hora y avanzar los aspectos noticiosos que son objeto del interés informativo. De un modo más amplio, el boletín da cuenta de aquellos hechos más significativos ocurridos desde el anterior servicio informativo, amplía los datos de las noticias flash -en el caso de que las haya habido-, rescata algunas referencias acerca de las noticias más importantes difundidas en el reciente servicio principal y, finalmente, recuerda aquellos acontecimientos que están ocurriendo en el momento de la emisión y los que previsiblemente se producirán en el tiempo que media hasta el siguiente programa informativo.
+Aunque no deban tener la aspiración de cubrir ni en tiempo ni en profundidad la carga de información de los diarios hablados, las noticias más importantes deben tener cabida en todos los boletines. Cada boletín debe contemplarse como eslabón de una cadena informativa que muestra la apuesta informativa de la emisora, la que le da personalidad frente al resto de cadenas de radio e incluso de otros medios audiovisuales o interactivos. Esta cualidad obligará a actualizar todas las informaciones que se emitan en un boletín. Actualizar los contenidos supone aportar elementos que no sólo resalten la importancia de la noticia sino su inmediatez o su proyección de futuro.
+El boletín de noticias puede presentar diversos formatos; dependerá de factores como el número de voces, la capacidad de despliegue de medios, el grado de complejidad técnica y el estilo de redacción. Algunos boletines ofrecen únicamente una selección de noticias que se leen desde el estudio central. Otros, además de ello, hacen uso de conexiones de duración normalmente breve, ya sea con el exterior, ya con la red de emisoras locales y territoriales con el fin de que sean éstas quienes narren la noticia desde el lugar en que se ha producido. RNE debe ofrecer un modelo de referencia acorde con su capacidad técnica y profesional, con el rigor y la complejidad con que pretende ser reconocida por los oyentes.
+Cuando se decida incluir testimonios o cortes el objetivo será enriquecer la noticia. En este caso, deberá tenerse en cuenta la importancia del testimonio y su calidad sonora. El 
+corte
+ debe durar el tiempo imprescindible para que el mensaje emitido sea congruente, desarrolle una idea con principio y final y resulte radiofónicamente aceptable. Salvo excepciones, debe evitarse cortar un testimonio en 
+alto
+; existen recursos como el de bajar el sonido
+cuando se considera que el oyente ya se ha formado una idea de lo que estaba expresando el personaje en cuestión. En todos los casos, el oyente debe entender qué dicen todas y cada una de las voces que intervienen en el boletín
+3.2.1.1. Presentación del boletín de noticias
+Aunque existen varios modelos de presentación, el más común se basa en la figura de un locutor principal, encargado de suministrar los datos nuevos de cada una de las noticias mediante la lectura de lo que se denominan entradillas, transiciones o continuidades y/o de leer la noticia completa.
+El locutor principal puede apoyarse en otro locutor de estudio, una segunda voz, para la lectura de aquellas informaciones con desarrollo. El resto de participantes serán los periodistas de la red de emisoras o delegaciones de la cadena, los periodistas de la redacción central que se encuentren a esa hora “cubriendo” determinadas informaciones y, si los hubiera, los corresponsales en el extranjero. En cualquiera de los casos, es el conductor principal quien debe presentar el último hecho o introducir lo conocido hasta el momento y el resto de voces ampliarán o desarrollarán los ejes expuestos por el conductor principal.
+Lo habitual es establecer transiciones verbales entre noticias. Son las llamadas 
+transiciones, continuidades o entradillas
+, nombres que reciben las frases/párrafos que actúan como lazos o puentes entre una información concluida y la que sigue. Esta manera de encadenar las noticias entre sí otorga a la locución una aparente naturalidad ya que las noticias son narradas con esquemas similares a los utilizados en el lenguaje coloquial; sin embargo, existe el riesgo de incurrir en muletillas y tópicos o relaciones forzadas ajenas al rigor y a la lógica. Este tipo de transición o continuidad, en el que se vincula una noticia con la siguiente, sólo es posible cuando existen uno o más nexos entre ambas noticias. De lo contrario, estaríamos ante una continuidad forzada.
+3.2.1.2. Equilibrio y ritmo del boletín
+En la redacción del periodista radiofónico debe primar lo interesante y lo comprensible, tratado con los aspectos formales más adecuados al medio. Se pueden escribir noticias sumamente correctas pero, al mismo tiempo, poco radiofónicas por no haber sido pensadas según el lenguaje propio de la radio. Insertar un 
+corte
+ de voz o una ráfaga en uno u otro momento puede determinar que el boletín resulte más o menos ágil.
+Del mismo modo, la dimensión de cada noticia contribuirá a otorgar un ritmo concreto al boletín. Así, encadenar cuatro noticias de cincuenta segundos sin cortes de voz y leídas por una misma persona supone, en principio, obligar al oyente a realizar un verdadero esfuerzo de atención. Aunque es la actualidad la que debe determinar la pauta del boletín, dicha actualidad debe presentarse del modo más radiofónico y atractivo posible.
+3.2.2. Informativos principales: los diarios hablados
+Con duración amplia, el informativo principal desarrolla las noticias más importantes avanzadas en los boletines. Algunas orientaciones son:
+Intentar captar el interés combinando todos los géneros radiofónicos y todos los recursos de los Servicios Informativos
+Evitar piezas demasiado largas, de modo que se garantice el ritmo del espacio informativo y se promueva el interés del oyente.
+Evitar traducir la importancia de la noticia en una mayor longitud de las piezas. Su duración debe ajustarse siempre a una propuesta informativa atractiva y ágil.
+Cada noticia tendrá tantas piezas como sean necesarias para subrayar las claves de la noticia.
+3.3. Géneros informativos radiofónicos 
+Volver al índice
+3.3.1 La noticia
+Concebida como un hecho novedoso de interés general, difundido sonoramente con inmediatez y claridad, debe responder al qué, quién, cuándo, cómo, dónde y por qué con un lenguaje conciso y sencillo.
+El informador de RNE se comunicará con formas verbales en presente, subrayando la actualidad de la noticia y desechando los pretéritos hasta donde el sentido común recomiende. Empleará estructuras gramaticales sencillas renunciando a las que dificulten la comprensión de los mensajes radiofónicos.
+En cuanto al contenido, se evitará el excesivo volumen de datos. Se tendrá especial cuidado de no ser prolijos en cifras, siglas o nombres poco conocidos. Si la magnitud de una cifra dificulta la comprensión de una noticia, se valorará el uso de comparaciones que faciliten su comprensión.
+3.3.2 La crónica
+Es una representación sonora de la realidad en la que el periodista realiza la narración desde el lugar de los hechos, desde donde describe, cuenta y contextualiza los acontecimientos aportando un estilo personal.
+En cuanto a recursos, la crónica se articula habitualmente a través del monólogo, priorizando el valor de la propia palabra, las voces grabadas de los protagonistas y los sonidos que puedan reforzar la representación sonora de la realidad.
+El informador debe garantizar rigor expositivo y técnico, planificar el contenido y la estructura de la presentación, aún cuando se elabore una crónica mientras los hechos se están produciendo.
+El texto de la crónica tiene que adoptar un estilo oral: elaborado no para ser leído sino para ser contado con un lenguaje sencillo y claro en el que cada palabra ayude a entender lo más directamente posible el hecho que se pretende contar.
+La celeridad que puede rodear la elaboración de una crónica no impedirá que el informador limite su aportación a juicios que tengan reflejo en los he­chos acaecidos, evitando sentenciar, calificar, enjuiciar o descalifi­car. Los elementos valorativos de la crónica deben ser justificados por el periodista.
+Es recomendable no terminar la crónica con un testimonio o corte.
+3.3.3 El reportaje
+Es un género radiofónico que pretende narrar y describir hechos y acciones de interés para el oyente, proporcionando un contexto de interpretación y análisis amplio, profundo, con la utilización de múltiples fuentes. Es un género flexible y creativo, que puede combinar todos los elementos que constituyen el lenguaje radiofónico.
+Las temáticas y enfoques no estarán estrictamente vinculados con la inmediatez. Su duración y ubicación serán flexibles dependiendo de la ambición del propio reportaje.
+Su emisión se produce cuando ya se han difundido los elementos esenciales del hecho noticioso, de modo que se cuidará especialmente su apertura y presentación para provocar el interés de unos oyentes que ya conocen los datos básicos de la noticia. Se ofrecerá un enfoque original, la divulgación de aspectos novedosos sobre hechos ya conocidos, la búsqueda de detalles reveladores y un estilo creativo y especialmente atractivo. Contemplará los datos, las posibles narraciones, los diferentes argumentos, los testimonios de los protagonistas, los intereses contrapuestos, las consecuencias y las distintas interpretaciones que se han encontrado durante la preparación y la elaboración del reportaje. Todos estos elementos y, si fuera necesario, una correcta selección de sonidos de apoyo se integrarán a través de un montaje adecuado.
+3.3.4 El informe
+Es la exposición detallada de un tema de actualidad mediante datos no solo recientes, sino también retrospectivos y complementarios. Explica de forma neutra el cómo y el por qué, las causas y las consecuencias de los hechos analizados para su mejor comprensión por parte del oyente. Es un género de explicación, una narración lineal que amplía la noticia.
+Es un género de monólogo en el que su fuerza radica en la sencillez. El informador debe ofrecer un informe claro y directo, no debe verter opiniones personales, aunque sí puede recoger testimonios sonoros de personas que, de una u otra manera, son protagonistas de la noticia.
+3.3.5 La entrevista
+(Ver capítulo 2.3.1: La entrevista)
+En la entrevista radiofónica el diálogo entre entrevistador y entrevistado se complementa con un conjunto de datos audibles que el oyente recibe como elemento comunicativo y que reflejan la riqueza expresiva del medio. La voz, la entonación, la cadencia, los climas y actitudes que se perciben a través del sonido, etc. desempeñan una función determinante en la comprensión e interpretación que el oyente hace de la entrevista, hasta el punto de condicionar el discurso del entrevistado.
+3.4. Géneros de opinión 
+Volver al índice
+En su condición de servicio público, RNE debe suministrar todas las informaciones, datos, claves y análisis necesarios para que la opinión pública tenga una idea cabal de cuanto pasa a su alrededor. Debe ofrecer espacios de debate que estimulen la reflexión, el conocimiento de la realidad, la actitud crítica y la participación ciudadana en los términos recogidos en los Principios Generales de Servicio Público 
+[1] 
+y en los Principios Básicos de la Programación de la Corporación RTVE.
+RNE no tiene más opinión propia que la que se deriva de estos principios básicos, que buscan satisfacer las necesidades informativas, culturales, educativas y de entretenimiento de la sociedad española desde la promoción del pluralismo, la participación y los valores constitucionales, garantizando el acceso a los grupos sociales y políticos significativos.
+En el ejercicio de la actividad informativa, RNE debe diferenciar con claridad lo que es información y lo que es opinión. Debe garantizar a los ciudadanos una información objetiva, veraz, plural e independiente de cualquier grupo político, económico o de presión, y apuntar con total nitidez la fuente de las opiniones difundidas.
+[1]
+ Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal
+3.4.1 El debate
+Es un género de alta eficacia el que voces distintas aportan puntos de vista diferentes o contrapuestos sobre un tema y su problemática.
+El profesional de RNE presentará las distintas facetas del asunto a debate para trasladar al oyente, de forma ordenada, las distintas posturas y los diferentes argumentos. Debe mantener la iniciativa del debate con intervenciones breves y con criterios de actualidad, interés, equilibrio y representatividad.
+Desde el punto de vista técnico, se asegurará la claridad óptima en su difusión, garantizando las mismas condiciones de sonido para todos los participantes, aunque intervengan desde distintos puntos geográficos.
+3.4.2 La tertulia
+La tertulia aporta riqueza expresiva, análisis y una personalización muy intensa en los mensajes transmitidos, para lo que resulta esencial contar con un grupo plural de participantes.
+En RNE la tertulia exige una selección plural y equilibrada de sus participantes. Los tertulianos deben expresarse siempre conforme a los valores democráticos y modos respetuosos que son característicos de RNE. Deberán escuchar y dialogar, asentir o discrepar con respeto.
+El moderador será el responsable de velar por el cumplimiento de los valores de RNE. También controlará el desarrollo de la propia tertulia, evitará digresiones o intervenciones demasiado largas y prolijas, denunciará y controlará las faltas de respeto o salidas de tono por parte de los participantes y, especialmente, se ocupará de centrar la discusión sobre temas realmente relevantes para el interés general.
+La tertulia es una fórmula muy implantada en la radio española y que tiene un indudable peso en la formación de la opinión pública. Sin embargo, es necesario contar con tertulianos que, por las exigencias del género, posean un amplio conocimiento de todos los ámbitos de la actualidad y la necesaria destreza para ofrecer argumentos con el debido rigor.
+RNE está obligada a cuidar el género de la tertulia mediante todas las fórmulas a su alcance y, en todo caso, los moderadores están obligados a exigir a los tertulianos explicaciones en profundidad sobre sus aseveraciones y a reclamar responsabilidades o rectificaciones a quienes atenten contra los derechos de terceros.
+Los tertulianos, invitados o colaboradores deberán tener presente en todo momento los principios deontológicos recogidos en el Estatuto de Información.
+3.4.3 El comentario
+Como interpretación valorativa sobre la actualidad, el comentario se presenta en forma de monólogo breve sin otro complemento sonoro que el texto elaborado por el propio comentarista.
+En RNE se explicitará la autoría del comentario, se aclarará que única y exclusivamente responde a la opinión y al punto de vista del propio comentarista.
+3.4.4. La encuesta a pie de calle
+Se recurrirá a la encuesta cuando se quiera tomar el pulso a la opinión pública sobre algún tema de actualidad. A diferencia de los sondeos, encargados por RTVE u otras empresas (en cuyo caso hay que citarlas), las encuestas a pie de calle carecen de valor estadístico. Por tanto, se incluirán en los programas o espacios informativos de RNE como ilustración sonora, sin extraer conclusiones.
+Aunque la encuesta carezca de valor estadístico, el profesional procurará tomar una muestra de entrevistados que, por su condición socio demográfica, forme parte del público objeto de estudio.
+No deben usarse micrófonos ocultos ni grabar por teléfono sin previo aviso, salvo en casos muy excepcionales como la demostración de prácticas delictivas que afectan al interés público. Cuando se den esas circunstancias, la decisión de grabar será adoptada por la Dirección, con el consejo de sus asesores jurídicos.
+Las preguntas serán sencillas, de fácil comprensión, sin que contengan de manera implícita la respuesta. Salvo encuestas especiales, el enunciado debe ser lo suficientemente abierto para que las personas encuestadas expresen una opinión y, en consecuencia, se consigan respuestas significativas e interesantes.
+Todas las respuestas son susceptibles de salir en RNE, aunque se excluirán aquellas que atenten contra los valores constitucionales o profieran expresiones groseras e injuriantes.
+3.5 La retransmisión de acontecimientos informativos 
+Volver al índice
+En la retransmisión de un evento, el profesional radiofónico debe amoldarse al transcurrir del acontecimiento. Generalmente se emplean formas de retórica especiales y se recurre a la improvisación al tratarse de un formato sin guión. El informador debe mostrar habilidad para observar todo lo que acontece y transmitirlo con riqueza de detalles.
+Podrá cubrir espacios muertos con entrevistas, recurrir a material de archivo, aprovechará para dar el indicativo de la emisora entre turnos de palabra, resumirá en titulares las intervenciones o los acontecimientos ya narrados para evitar silencios.
+3.6. La participación del oyente en los espacios informativos 
+Volver al índice
+El oyente tiene formas diferentes para acceder a RNE. Como miembros de asociaciones o grupos, su acceso se regirá por las Directrices básicas del Derecho de Acceso, que considera legitimados para el ejercicio de este derecho a aquellos grupos sociales y políticos significativos que acrediten personalidad jurídica y representatividad social.
+Como particular, el oyente podrá participar en aquellos programas donde se pida su intervención a través de los procedimientos que en cada caso se determinen (teléfono, correo electrónico, sms, etc.)
+El responsable de cada espacio velará para que la libre expresión de las ideas no vulnere los principios garantizados por la Constitución ni derechos fundamentales de terceros. Regulará el acceso mediante normas que garanticen el cumplimiento de las normas básicas de educación, sentido común y civismo. Asimismo, deberá retirar el uso de la palabra a quien se exprese con insultos y términos soeces.
+3.7. El lenguaje en los textos informativos 
+Volver al índice
+La elaboración de textos y noticias para los espacios de RNE deberá ajustarse a las características del lenguaje radiofónico así como a las normas comunes sobre el lenguaje en RTVE que se detallan en el capítulo VI de este Manual de Estilo. No obstante, se observarán algunas recomendaciones básicas:
+Expresiones grandilocuentes:
+ el lenguaje radiofónico está reñido con la ampulosidad, pues dificulta que el mensaje llegue al mayor número de oyentes.
+Adverbios temporales en el inicio
+. Debe evitarse empezar una noticia con el adverbio temporal “ayer”.
+Demostrativos:
+ hay que restringir el uso de los demostrativos 
+éste, ése 
+y 
+aquél
+. El oyente no puede volver atrás en la frase para averiguar a qué sustantivos reemplazan.
+Empleo de jerga especializada:
+ el uso de jerga política, científica, literaria y de cualquier otro colectivo profesional debe estar suficientemente justificado. Es necesario 
+traducir 
+esos términos a palabras que sean fácilmente comprensibles por una audiencia heterogénea.
+Emisiones de Radio Exterior de España:
+ por ir dirigidas a países extranjeros, de manera especial a la comunidad iberoamericana, exigen un lenguaje y desarrollo informativo diferente. No sólo hay que dar más datos sobre personas cosas y lugares, ya sabidos por el oyente español, sino que debe vigilarse el uso de palabras que en aquellos países tengan un doble sentido.
+Menú de navegación principal
+Noticias
+RTVE Play
+RNE Audio
+Play Noticias
+RTVE Participa
+Filmoteca
+Televisión
+Radio
+Deportes
+Tiempo
+Clan
+Laboratorio
+Menú de Televisión Española
+2° Dividendo Digital
+RTVE Botón Rojo
+Corresponsalías
+TVE Internacional
+TVE Catalunya
+TVE Canarias
+Teletexto
+Centros Territoriales
+TVE en directo
+Menú de Radio Nacional de España
+Radio Nacional
+Radio Clásica
+Radio 3
+Ràdio 4
+Radio 5
+Radio Exterior
+Podcast
+Frecuencias
+Menú de la Corporación RTVE
+Transparencia
+Sostenibilidad
+RTVE Comunicación
+Manual de estilo
+Código de autorregulación
+Derecho de acceso
+Ofertas de empleo
+RTVE 2030
+Defensora de la Audiencia
+Observatorio de Igualdad
+Observatorio de la Infancia y la Adolescencia
+Canal Ético
+Instituto RTVE
+Orquesta Sinfónica y Coro RTVE
+Dirección Comercial
+Impulsa Visión
+Perfil del Contratante
+Contratación audiovisuales
+Archivo RTVE
+Aviso legal
+Política de privacidad
+Política de cookies
+Política de WhatsApp
+Política de seguridad
+Accesibilidad
+Mapa web
+Contacto
+Normas de Participación
+©
+ Corporación de Radio y Televisión Española 2026

@@ -1,0 +1,1146 @@
+Directiva (UE) 2018/1808 del Parlamento Europeo y del Consejo, de 14 de noviembre
+de 2018, por la que se modifica la Directiva 2010/13/UE (Directiva de servicios de
+comunicación audiovisual) — DO L 303 de 28.11.2018, p. 69
+https://publications.europa.eu/resource/celex/32018L1808  (CELEX 32018L1808)
+Leído el 2 de septiembre de 2026.
+
+El PDF oficial que enlaza el programa, servido por el BOE en
+https://www.boe.es/doue/2018/303/L00069-00092.pdf, está guardado al lado como
+DOUE_directiva-2018-1808.pdf (24 páginas).
+
+L_2018303ES.01006901.xml
+
+28.11.2018   
+
+ES
+
+Diario Oficial de la Unión Europea
+
+L 303/69
+
+DIRECTIVA (UE) 2018/1808 DEL PARLAMENTO EUROPEO Y DEL CONSEJO
+
+de 14 de noviembre de 2018
+
+por la que se modifica la Directiva 2010/13/UE sobre la coordinación de determinadas disposiciones legales, reglamentarias y administrativas de los Estados miembros relativas a la prestación de servicios de comunicación audiovisual (Directiva de servicios de comunicación audiovisual), habida cuenta de la evolución de las realidades del mercado
+
+EL PARLAMENTO EUROPEO Y EL CONSEJO DE LA UNIÓN EUROPEA,
+
+Visto el Tratado de Funcionamiento de la Unión Europea, y en particular su artículo 53, apartado 1, y su artículo 62,
+
+Vista la propuesta de la Comisión Europea,
+
+Previa transmisión del proyecto de acto legislativo a los Parlamentos nacionales,
+
+Visto el dictamen del Comité Económico y Social Europeo (1),
+
+Visto el dictamen del Comité de las Regiones (2),
+
+De conformidad con el procedimiento legislativo ordinario (3),
+
+Considerando lo siguiente:
+
+(1)
+
+La última modificación sustancial de la Directiva 89/552/CEE del Consejo (4), posteriormente codificada por la Directiva 2010/13/UE del Parlamento Europeo y del Consejo (5), se llevó a cabo en 2007 con la adopción de la Directiva 2007/65/CE del Parlamento Europeo y del Consejo (6). Desde entonces, el mercado de los servicios de comunicación audiovisual ha evolucionado de forma significativa y rápida, debido a la convergencia actual entre la televisión y los servicios de internet. Los avances técnicos han hecho posibles nuevos tipos de servicios y experiencias de los usuarios. Los hábitos de visionado, en particular los de las generaciones más jóvenes, han cambiado significativamente. Aunque la pantalla de la televisión siga siendo un dispositivo importante para compartir experiencias audiovisuales, muchos espectadores se han decantado por otros dispositivos portátiles para ver contenidos audiovisuales. Los contenidos televisivos tradicionales siguen representando un porcentaje importante del tiempo de visionado diario medio.
+
+No obstante, los nuevos tipos de contenidos, como los vídeos cortos o el contenido generado por los usuarios, han adquirido mayor importancia y los nuevos prestadores, incluidos los de servicios de vídeo a petición y las plataformas de intercambio de vídeos, están ya bien asentados. Esta convergencia de medios requiere un marco jurídico actualizado que refleje la evolución del mercado y que permita lograr un equilibrio entre el acceso a los servicios de contenidos en línea, la protección del consumidor y la competencia.
+
+(2)
+
+El 6 de mayo de 2015, la Comisión adoptó una Comunicación titulada «Una Estrategia para el Mercado Único Digital de Europa», en la que anunciaba una revisión de la Directiva 2010/13/UE.
+
+(3)
+
+La Directiva 2010/13/UE debe seguir siendo aplicable únicamente a aquellos servicios cuyo objeto principal es suministrar programas con el fin de informar, entretener o educar. Debería también considerarse que se cumple el requisito del objetivo principal si el servicio tiene una forma y contenido audiovisuales disociables de la actividad principal del prestador de servicios, como las partes autónomas de los periódicos en línea que ofrecen programas audiovisuales o vídeos generados por usuarios, cuando dichas partes puedan considerarse disociables de su actividad principal. Se debe considerar que un servicio constituye un mero complemento indisociable de la actividad principal en función de la relación entre la oferta audiovisual y la actividad principal, como facilitar noticias por escrito. Como tales, los canales o cualquier otro servicio audiovisual que estén bajo la responsabilidad editorial de un prestador pueden constituir servicios de comunicación audiovisual en sí mismos, aunque se ofrezcan a través de una plataforma de intercambio de vídeos, que se caracteriza por la ausencia de responsabilidad editorial. En tales casos, corresponderá a los prestadores con responsabilidad editorial cumplir lo dispuesto en la Directiva 2010/13/UE.
+
+(4)
+
+Los servicios de intercambio de vídeos a través de plataforma ponen a disposición contenidos audiovisuales a los que accede cada vez más el público en general y los jóvenes en particular. Esta circunstancia también concurre respecto de los servicios de medios sociales, que se han convertido en un importante medio para compartir información, entretener y educar, en particular mediante el acceso a programas y a vídeos generados por usuarios. Estos servicios de medios sociales deben incluirse en el ámbito de aplicación de la Directiva 2010/13/UE porque compiten por la misma audiencia e ingresos que los servicios de comunicación audiovisual. Además, esos servicios también tienen un impacto considerable, ya que ofrecen a los usuarios la posibilidad de conformar las opiniones de otros usuarios e influir en ellas. Por tanto, a fin de proteger a los menores de contenidos nocivos y a todos los ciudadanos de la incitación al odio, la violencia y el terrorismo, se debe aplicar a dichos servicios la Directiva 2010/13/UE en la medida en que cumplan la definición de «servicio de intercambio de vídeos a través de plataforma» (también denominado, «plataforma de intercambio de vídeos»).
+
+(5)
+
+A pesar de que el objetivo de la Directiva 2010/13/UE no es regular los servicios de medios sociales como tales, sí debe aplicarse a aquellos servicios de medios sociales cuya oferta de programas y vídeos generados por usuarios constituya una funcionalidad esencial de dicho servicio. La oferta de programas y vídeos generados por usuarios puede considerarse una funcionalidad esencial de los servicios de medios sociales siempre que el contenido audiovisual no sea meramente accesorio o constituya una parte mínima de las actividades de dicho servicio de medios sociales. Con el fin de garantizar la claridad, la eficacia y la coherencia en la aplicación, la Comisión, en caso de ser necesario y previa consulta al Comité de contacto, debe publicar directrices sobre la aplicación práctica del criterio de la funcionalidad esencial que figura en la definición de «servicio de intercambio de vídeos a través de plataforma». Estas directrices deben redactarse teniendo debidamente en cuenta los objetivos de interés público general que deben alcanzarse con las medidas que han de tomar los prestadores de plataformas de intercambio de vídeos y el derecho a la libertad de expresión.
+
+(6)
+
+Cuando una parte disociable de un servicio constituya un servicio de intercambio de vídeos a través de plataforma a efectos de la Directiva 2010/13/UE, solo a esa parte debe ser aplicable dicha Directiva y únicamente en lo que respecta a los programas y los vídeos generados por usuarios. Los vídeos cortos incluidos en el contenido editorial de las versiones electrónicas de periódicos y revistas y las imágenes animadas como los ficheros gráficos GIF deben quedar excluidos del ámbito de aplicación de la Directiva 2010/13/UE. La definición de «servicio de intercambio de vídeos a través de plataforma» no debe abarcar actividades no económicas, como la prestación de contenido audiovisual en sitios web privados y en comunidades de intereses no comerciales.
+
+(7)
+
+Con el fin de garantizar la aplicación efectiva de la Directiva 2010/13/UE, resulta fundamental que los Estados miembros establezcan y mantengan unos registros actualizados de los prestadores de servicios de comunicación y de los prestadores de plataformas de intercambio de vídeos sujetos a su jurisdicción y compartan periódicamente estos registros con sus autoridades y organismos reguladores independientes competentes y con la Comisión. Estos registros deben incluir información sobre los criterios en los que se basa la jurisdicción.
+
+(8)
+
+Determinar la jurisdicción exige evaluar las situaciones de hecho sobre la base de los criterios establecidos en la Directiva 2010/13/UE. La evaluación de tales situaciones de hecho puede dar lugar a resultados contradictorios. En el marco de la aplicación de los procedimientos de cooperación previstos en dicha Directiva, es importante que la Comisión pueda basar sus conclusiones en datos fiables. El Grupo de Entidades Reguladoras Europeas para los Servicios de Comunicación Audiovisual (ERGA) debe, por lo tanto, estar facultado para emitir informes en materia de jurisdicción a petición de la Comisión. Cuando, en el marco de la aplicación de esos procedimientos de cooperación, la Comisión decida consultar al ERGA, debe informar al Comité de contacto, en particular sobre notificaciones recibidas de los Estados miembros con arreglo a esos procedimientos de cooperación y sobre el informe del ERGA.
+
+(9)
+
+Los procedimientos y condiciones para restringir la libertad de prestación y recepción de servicios de comunicación audiovisual deben ser los mismos tanto para los servicios lineales como para los no lineales.
+
+(10)
+
+De conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea (en lo sucesivo, «Tribunal de Justicia»), es posible restringir la libertad de prestación de servicios garantizada por el Tratado por razones imperiosas de interés general, como alcanzar un nivel elevado de protección de los consumidores, a condición de que dichas restricciones estén justificadas y sean proporcionadas y necesarias. Por tanto, un Estado miembro debe poder adoptar determinadas medidas para garantizar que se respete su normativa sobre protección de los consumidores que no se incluyan en los ámbitos coordinados por la Directiva 2010/13/UE. Las medidas adoptadas por un Estado miembro para aplicar su régimen nacional de protección de los consumidores, incluidas las relacionadas con la publicidad de los juegos de azar, necesitarían estar justificadas, ser proporcionadas con respecto al objetivo perseguido y ser necesarias tal como exige la jurisprudencia del Tribunal de Justicia. En cualquier caso, un Estado miembro receptor no puede adoptar medidas que puedan impedir la retransmisión en su territorio de emisiones de televisión procedentes de otro Estado miembro.
+
+(11)
+
+Cuando un Estado miembro notifique a la Comisión que un prestador del servicio de comunicación se ha establecido bajo la jurisdicción de un Estado miembro con el fin de eludir las normas más estrictas en los ámbitos coordinados por la Directiva 2010/13/UE, que serían aplicables a dicho prestador de haberse establecido en el Estado miembro notificador, debe aportar pruebas fiables y debidamente documentadas a tal efecto. Dichas pruebas especificarán una serie de hechos que permitan corroborar dicha elusión razonablemente.
+
+(12)
+
+En su Comunicación al Parlamento Europeo y al Consejo sobre «Legislar mejor para obtener mejores resultados – Un programa de la UE», la Comisión hizo hincapié en que, al estudiar las soluciones políticas, tendría en cuenta medios tanto reglamentarios como no reglamentarios, siguiendo el modelo de la Comunidad de Prácticas y los principios para una mejor autorregulación y corregulación. Se ha demostrado que varios códigos de conducta establecidos en los ámbitos coordinados por la Directiva 2010/13/UE están bien concebidos, en consonancia con los principios para una mejor autorregulación y corregulación. La existencia de un mecanismo legislativo de protección se consideró un importante factor de éxito a la hora de promover el cumplimiento de un código de autorregulación o de corregulación. Es igualmente importante que tales códigos establezcan objetivos y metas específicos que permitan un seguimiento y una evaluación periódicos, transparentes e independientes de los objetivos de los códigos de conducta. Los códigos de conducta también deben prever los medios para una aplicación efectiva. Los códigos de autorregulación o corregulación adoptados en los ámbitos coordinados por la Directiva 2010/13/UE deben ajustarse a estos principios.
+
+(13)
+
+La experiencia ha demostrado que tanto los instrumentos de autorregulación como los de corregulación, aplicados de acuerdo con las distintas tradiciones jurídicas de los Estados miembros, pueden desempeñar un importante papel a la hora de otorgar un alto grado de protección a los consumidores. Las medidas para alcanzar los objetivos de interés general en el sector de los servicios emergentes de comunicación audiovisual resultarían más eficaces si se adoptan con el apoyo activo de los propios prestadores de servicios.
+
+(14)
+
+La autorregulación constituye un tipo de iniciativa voluntaria que permite a los operadores económicos, interlocutores sociales, organizaciones no gubernamentales y asociaciones en general adoptar directrices entre sí y para sí. Son responsables del desarrollo de estas directrices, así como del seguimiento y aplicación de su cumplimiento. Los Estados miembros deben, con arreglo a sus respectivas tradiciones jurídicas, reconocer el cometido que puede desempeñar la autorregulación efectiva como complemento de los mecanismos legislativos, judiciales y administrativos vigentes y su valiosa contribución con vistas a la consecución de los objetivos de la Directiva 2010/13/UE. No obstante, si bien la autorregulación puede ser un método complementario para aplicar ciertas disposiciones de la Directiva 2010/13/UE, en modo alguno puede sustituir a las obligaciones del poder legislativo nacional. La corregulación, en su mínima expresión, proporciona un «vínculo jurídico» entre la autorregulación y el poder legislativo nacional, con arreglo a las tradiciones jurídicas de los Estados miembros. En la corregulación, la función regulatoria se reparte entre las partes interesadas y el gobierno o las autoridades u organismos reguladores nacionales. La función de las autoridades públicas correspondientes incluye el reconocimiento del sistema de corregulación, el control de sus procesos y la financiación del sistema. La corregulación debe preservar la posibilidad de intervención estatal en el caso de que no se realicen sus objetivos. Sin perjuicio de las obligaciones formales de los Estados miembros en lo relativo a la incorporación a la legislación nacional, la Directiva 2010/13/UE anima a la utilización de la autorregulación y la corregulación. Esto no obliga a los Estados miembros a crear regímenes de autorregulación o corregulación, o ambos, ni afecta a las iniciativas de corregulación ya implantadas en los Estados miembros y que funcionan de forma efectiva o las pone en peligro.
+
+(15)
+
+La transparencia de la propiedad de los medios de comunicación está directamente vinculada a la libertad de expresión, piedra angular de los sistemas democráticos. La información relativa a la estructura de propiedad de los prestadores de servicios de comunicación, cuando dicha propiedad se traduce en el control o el ejercicio de una influencia significativa sobre el contenido de los servicios prestados, permite al usuario formarse un juicio fundado sobre ese contenido. Los Estados miembros deben poder determinar si, y en qué medida, la información sobre la estructura de propiedad del prestador de un servicio de comunicación debe ser accesible al usuario, siempre que se respeten en lo esencial los derechos y libertades fundamentales correspondientes y que estas medidas sean necesarias y proporcionadas.
+
+(16)
+
+Dadas las características específicas de los servicios de comunicación audiovisual y, en especial, su incidencia en las opiniones de las personas, los usuarios tienen un interés legítimo en saber quién es responsable de su contenido. Con el fin de reforzar la libertad de expresión y, por ende, promover el pluralismo de los medios de comunicación y evitar conflictos de intereses, es importante que los Estados miembros velen por que los usuarios tengan un acceso fácil y directo en todo momento a la información acerca de los prestadores de servicios de comunicación. Corresponde a cada Estado miembro decidir, en particular por lo que respecta a la información que pueda facilitarse sobre la estructura de la propiedad y los titulares reales.
+
+(17)
+
+Con el fin de garantizar la coherencia y la seguridad jurídica a las empresas y las autoridades de los Estados miembros, el concepto de «incitación a la violencia o al odio» debe entenderse, en la medida que corresponda, en el sentido que le atribuye la Decisión marco 2008/913/JAI del Consejo (7).
+
+(18)
+
+Teniendo en cuenta la evolución de los medios por los cuales se difunde el contenido a través de las redes de comunicaciones electrónicas, es importante proteger al público en general frente a la incitación al terrorismo. La Directiva 2010/13/UE debe, por tanto, garantizar que los servicios de comunicación audiovisual no contengan ninguna provocación pública a la comisión de un delito de terrorismo. Con el fin de garantizar la coherencia y la seguridad jurídica a las empresas y las autoridades de los Estados miembros, el concepto de «provocación pública a la comisión de un delito de terrorismo» debe entenderse en el sentido que le atribuye la Directiva (UE) 2017/541 del Parlamento Europeo y del Consejo (8).
+
+(19)
+
+Con el fin de facultar a los espectadores, incluidos los padres y menores de edad, para que adopten decisiones con conocimiento de causa acerca de los contenidos que se ven, es necesario que los prestadores de servicios de comunicación faciliten información suficiente acerca de los contenidos que puedan perjudicar el desarrollo físico, mental o moral de los menores. Tal información podría transmitirse, por ejemplo, mediante un sistema de descriptores de contenidos, una advertencia acústica, un símbolo visual o cualquier otro medio técnico que describa la naturaleza del contenido.
+
+(20)
+
+Las medidas adecuadas para la protección de los menores aplicables a los servicios de radiodifusión televisiva deben aplicarse también a los servicios de comunicación audiovisual a petición. Así debería aumentarse el nivel de protección. El enfoque de armonización mínima permite a los Estados miembros desplegar un mayor grado de protección frente a contenidos que puedan perjudicar el desarrollo físico, mental o moral de los menores. Los contenidos más nocivos que puedan perjudicar el desarrollo físico, mental o moral de los menores, sin constituir necesariamente una infracción penal, deben someterse a las medidas más estrictas como el cifrado y un control parental eficaz, sin perjuicio de que los Estados miembros adopten medidas más estrictas.
+
+(21)
+
+El Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo (9) reconoce que los niños merecen una protección específica en el tratamiento de sus datos personales. El establecimiento de mecanismos de protección de los niños por parte de los prestadores de servicios de comunicación lleva inevitablemente al tratamiento de datos personales de menores. Puesto que dichos mecanismos tienen como objetivo proteger a los niños, no se deben utilizar con fines comerciales los datos personales de los menores tratados en el marco de las medidas técnicas de protección de los menores.
+
+(22)
+
+La garantía del acceso al contenido audiovisual es una condición indispensable en el marco de los compromisos asumidos en virtud de la Convención de las Naciones Unidas sobre los derechos de las personas con discapacidad. En el contexto de la Directiva 2010/13/UE, el término «personas con discapacidad» debe interpretarse a la luz de la naturaleza de los servicios cubiertos por dicha Directiva, que son servicios de comunicación audiovisual. El derecho de las personas con discapacidad y de las personas de edad avanzada a participar e integrarse en la vida social y cultural de la Unión está vinculado a la prestación de unos servicios de comunicación audiovisual accesibles. Por consiguiente, los Estados miembros deben garantizar, sin dilaciones indebidas, que los prestadores de servicios de comunicación audiovisual sujetos a su jurisdicción fomenten activamente la accesibilidad de sus contenidos a las personas con discapacidad, en particular de tipo visual o auditivo. Los requisitos de accesibilidad deben satisfacerse a través de un proceso progresivo y continuo, sin obviar a su vez las dificultades prácticas inevitables que podrían impedir una accesibilidad total, como los programas o los acontecimientos retransmitidos en directo. Para medir los avances realizados por los prestadores de servicios de comunicación para que sus servicios sean progresivamente accesibles a las personas con discapacidad visual o auditiva, los Estados miembros deben solicitar a los prestadores de servicios de comunicación establecidos en su territorio que les informen periódicamente al respecto.
+
+(23)
+
+La accesibilidad de los servicios de comunicación audiovisual en virtud de la Directiva 2010/13/UE debe incluir, entre otros elementos, el lenguaje de signos, el subtitulado para las personas sordas y con dificultades auditivas, los subtítulos hablados y la descripción acústica. No obstante, dicha Directiva no cubre las características o los servicios que proporcionan acceso a los servicios de comunicación audiovisual ni cubre las características de accesibilidad de las guías electrónicas de programas. Por tanto, dicha Directiva se entiende sin perjuicio de cualquier normativa de la Unión que tenga como objetivo armonizar la accesibilidad de los servicios que proporcionan acceso a los servicios de comunicación audiovisual, como sitios web, aplicaciones en línea y guías electrónicas de programas, o el suministro de información sobre accesibilidad, y en formatos accesibles.
+
+(24)
+
+En algunos casos, puede que no sea posible comunicar información de emergencia de forma accesible a las personas con discapacidad. No obstante, tales circunstancias excepcionales no deben ser óbice para que la información de emergencia se haga pública a través de servicios de comunicación audiovisual.
+
+(25)
+
+La Directiva 2010/13/UE debe entenderse sin perjuicio de la facultad de los Estados miembros de imponer obligaciones para garantizar la adecuada prominencia de los contenidos de interés general con arreglo a objetivos de interés general definidos, tales como el pluralismo de los medios de comunicación, la libertad de expresión y la diversidad cultural. Tales obligaciones solo deben imponerse cuando sean necesarias para alcanzar objetivos de interés general claramente definidos por los Estados miembros de conformidad con el Derecho de la Unión. En los casos en que los Estados miembros decidan imponer normas sobre qué se considera una prominencia adecuada, deben limitarse a imponer obligaciones proporcionadas a las empresas, por razones legítimas de orden público.
+
+(26)
+
+A fin de proteger la responsabilidad editorial de los prestadores de servicios de comunicación y la cadena de valor añadido audiovisual, es indispensable poder garantizar la integridad de los programas y servicios de comunicación audiovisual de los prestadores de servicios de comunicación. Los programas y servicios de comunicación audiovisual no deben transmitirse con recortes, alteraciones, interrupciones ni superposiciones con fines comerciales, sin el consentimiento explícito del prestador de servicios de comunicación. Los Estados miembros deben garantizar que las superposiciones iniciadas o autorizadas por el destinatario del servicio para uso estrictamente privado, como, por ejemplo, las superposiciones resultantes de los servicios de comunicaciones individuales, no necesiten el consentimiento del prestador del servicio de comunicación. No se incluyen los elementos de control de la interfaz de usuario que sean necesarios para el funcionamiento del dispositivo o la navegación por el programa, como barras de volumen, funciones de búsqueda, menús de navegación o listas de canales. Tampoco se incluyen las superposiciones legítimas, como las advertencias, la información de interés público, los subtítulos o las comunicaciones comerciales del prestador del servicio de comunicación. Sin perjuicio del artículo 3, apartado 3, del Reglamento (UE) 2015/2120 del Parlamento Europeo y del Consejo (10), tampoco se incluyen las técnicas de compresión de datos que reduzcan el tamaño de un fichero de datos ni otras técnicas para adaptar un servicio a los medios de distribución (como la resolución y la codificación), sin dar lugar a ninguna modificación del contenido.
+
+Deben imponerse medidas para proteger la integridad de los programas y los servicios de comunicación audiovisual cuando sean necesarias para alcanzar objetivos de interés general claramente definidos por los Estados miembros de conformidad con el Derecho de la Unión. Dichas medidas deben imponer a las empresas obligaciones proporcionadas, por razones legítimas de orden público.
+
+(27)
+
+A excepción del patrocinio y el emplazamiento de producto, las comunicaciones comerciales audiovisuales relativas a bebidas alcohólicas en los servicios de comunicación audiovisual a petición deben cumplir los criterios aplicables a la publicidad televisada y a la televenta de bebidas alcohólicas que establece la Directiva 2010/13/UE. Los criterios más detallados aplicables a la publicidad televisada y a la televenta de bebidas alcohólicas quedan limitados a los anuncios publicitarios, que, por su naturaleza, están separados del programa, y, por tanto, excluyen otras comunicaciones comerciales relacionadas con el programa o que son parte integrante de este, como el patrocinio y el emplazamiento de producto. Por consiguiente, esos criterios no deben aplicarse al patrocinio y el emplazamiento de producto en los servicios de comunicación audiovisual a petición.
+
+(28)
+
+Existen directrices nutricionales ampliamente reconocidas a nivel nacional e internacional, tales como el modelo de perfiles nutricionales de la Oficina Regional para Europa de la Organización Mundial de la Salud, que permiten diferenciar los alimentos sobre la base de su composición nutricional en el contexto de la publicidad televisiva dirigida a los niños. Debe alentarse a los Estados miembros a garantizar que la autorregulación y la corregulación, incluidos los códigos de conducta, se utilicen para reducir efectivamente la exposición de los niños a las comunicaciones comerciales audiovisuales relativas a alimentos y bebidas con alto contenido en sal, azúcares, grasa, grasas saturadas o ácidos grasos trans, o que no se ajustan por otros conceptos a estas directrices nutricionales nacionales o internacionales.
+
+(29)
+
+De igual modo, debe alentarse a los Estados miembros a garantizar el uso de los códigos de conducta de autorregulación y corregulación para reducir efectivamente la exposición de los niños y los menores a las comunicaciones comerciales audiovisuales relativas a bebidas alcohólicas. Existen algunos sistemas de autorregulación o corregulación a nivel nacional y de la Unión cuyo fin es la comercialización responsable de las bebidas alcohólicas, en particular en las comunicaciones comerciales audiovisuales. Conviene fomentar aún más dichos sistemas, en particular los destinados a garantizar que las comunicaciones comerciales audiovisuales relativas a bebidas alcohólicas vayan acompañadas de mensajes sobre consumo responsable.
+
+(30)
+
+Es importante que los menores estén eficazmente protegidos de la exposición a las comunicaciones comerciales audiovisuales relativas a la promoción de los juegos de azar. En este contexto, existen varios sistemas de autorregulación o corregulación a nivel nacional y de la Unión para la promoción del juego de azar responsable, también en las comunicaciones comerciales audiovisuales.
+
+(31)
+
+Con el fin de eliminar los obstáculos a la libre circulación de los servicios transfronterizos dentro de la Unión, es necesario garantizar la eficacia de las medidas de autorregulación y corregulación destinadas, en particular, a proteger a los consumidores o la salud pública.
+
+(32)
+
+El mercado de la radiodifusión televisiva ha evolucionado y, por tanto, es necesaria una mayor flexibilidad por lo que se refiere a las comunicaciones comerciales audiovisuales y, en particular, a las normas cuantitativas para los servicios de comunicación audiovisual lineales y al emplazamiento de producto. La aparición de nuevos servicios, incluso sin publicidad, ha conllevado una mayor libertad de elección para los espectadores, que pueden pasar fácilmente a ofertas alternativas.
+
+(33)
+
+La liberalización del emplazamiento de producto no ha aportado el esperado despegue de esta forma de comunicación comercial audiovisual. En particular, la prohibición general de emplazamiento de producto, aun con algunas excepciones, no ha dado seguridad jurídica a los prestadores de servicios de comunicación. Así pues, debe permitirse el emplazamiento de producto en todos los servicios de comunicación audiovisual y plataformas de intercambio de vídeos, con determinadas excepciones.
+
+(34)
+
+El emplazamiento de producto no debe autorizarse en los programas de noticias y actualidad, los programas de asuntos del consumidor, los programas religiosos ni en los programas infantiles. En particular, está demostrado que el emplazamiento de producto y la publicidad incorporada pueden afectar al comportamiento de los niños, ya que estos a menudo no son capaces de reconocer los contenidos comerciales. Por consiguiente, es necesario mantener la prohibición del emplazamiento de producto en programas infantiles. Los programas de asuntos del consumidor ofrecen asesoramiento a los espectadores o incluyen análisis sobre la compra de productos y servicios. Permitir el emplazamiento de producto en dichos programas desdibujaría la distinción entre publicidad y contenido editorial de cara a los espectadores que pueden esperar en dichos programas un análisis genuino y leal de los productos o servicios.
+
+(35)
+
+Los prestadores de servicios de comunicación audiovisual a petición deben promover la producción y distribución de las obras europeas, garantizando que sus catálogos contengan un porcentaje mínimo de obras europeas y que se conceda a estas suficiente prominencia. Debería promoverse el etiquetado de los metadatos de contenido audiovisual que permite calificar una obra como europea para conseguir que tales metadatos estén a disposición de los prestadores de servicios de comunicación. La prominencia implica la promoción de obras europeas mediante la facilitación del acceso a las mismas. Dicha prominencia puede garantizarse de formas diversas, como por ejemplo creando una sección dedicada a obras europeas a la que se pueda acceder a través de la página web inicial del servicio, la posibilidad de buscar obras europeas en la herramienta de búsqueda disponible como parte de ese servicio, la utilización de obras europeas en las campañas de ese servicio o promover un porcentaje mínimo de obras europeas en el catálogo de ese servicio, por ejemplo utilizando anuncios o instrumentos similares.
+
+(36)
+
+A fin de garantizar unos niveles suficientes de inversión en obras europeas, los Estados miembros deben poder imponer obligaciones financieras a los prestadores de servicios de comunicación establecidos en su territorio. Estas obligaciones pueden adoptar la forma de contribuciones directas a la producción y adquisición de derechos de obras europeas. Los Estados miembros también pueden imponer tasas, con destino a un fondo, sobre la base de los ingresos generados por los servicios de comunicación audiovisual que se ofrecen en su territorio y van dirigidos a él. La presente Directiva precisa que, dado el vínculo directo existente entre las obligaciones financieras y las políticas culturales de cada Estado miembro, se permite a un Estado miembro imponer igualmente tales obligaciones a los prestadores de servicios de comunicación establecidos en otro Estado miembro que se dirijan a su territorio. En este caso, solo deben imponerse obligaciones financieras sobre los ingresos generados a través de la audiencia del Estado miembro de recepción. Los prestadores de servicios de comunicación que estén obligados a contribuir a planes de financiación de obras cinematográficas en un Estado miembro de recepción deben estar en condiciones de beneficiarse, de forma no discriminatoria y aun cuando no estén establecidos en dicho Estado miembro, de la ayuda disponible, en el marco de los correspondientes planes de financiación de obras cinematográficas, para los prestadores de servicios de comunicación.
+
+(37)
+
+Los organismos de radiodifusión invierten en la actualidad más en obras audiovisuales europeas que los prestadores de servicios de comunicación audiovisual a petición. Por lo tanto, en caso de que un Estado miembro opte por imponer una obligación financiera a un organismo de radiodifusión televisiva que dependa de la jurisdicción de otro Estado miembro, deben tenerse en cuenta las contribuciones directas a la producción y adquisición de derechos de obras europeas, en particular las coproducciones realizadas por dicho organismo, respetando debidamente el principio de proporcionalidad. Ello se entiende sin perjuicio de la competencia de los Estados miembros para determinar, de conformidad con su política cultural y con arreglo a la normativa sobre ayudas estatales, el nivel de contribuciones financieras que deben pagar los prestadores de servicios de comunicación sujetos a su jurisdicción.
+
+(38)
+
+A la hora de evaluar, caso por caso, si un servicio de comunicación audiovisual a petición establecido en otro Estado miembro se dirige a una audiencia situada en su territorio, un Estado miembro debe remitirse a indicadores tales como la publicidad u otras promociones dirigidas específicamente a clientes de su territorio, la lengua principal del servicio o la existencia de contenidos o comunicaciones comerciales destinadas específicamente a la audiencia del Estado miembro de recepción.
+
+(39)
+
+Cuando un Estado miembro imponga a los prestadores de servicios de comunicación contribuciones financieras, estas deben procurar una promoción suficiente de las obras europeas y, al mismo tiempo, evitar el riesgo de doble imposición para dichos prestadores de servicios de comunicación. De este modo, si el Estado miembro en que está establecido el prestador de servicios de comunicación impone tal contribución financiera, debe tener en cuenta las eventuales contribuciones financieras impuestas por los Estados miembros de recepción.
+
+(40)
+
+A fin de garantizar que las obligaciones relativas a la promoción de las obras europeas no socaven el desarrollo del mercado y permitir la entrada de nuevos operadores en el mercado, los prestadores con escasa presencia en el mercado no deben estar sujetos a tales requisitos. Este es el caso, en particular, de los prestadores con un bajo volumen de negocios o una baja audiencia. La baja audiencia puede determinarse, por ejemplo, basándose en el tiempo de visionado o en las ventas, dependiendo de la naturaleza del servicio, mientras que la determinación del bajo volumen de negocios debe tener en cuenta las distintas dimensiones de los mercados audiovisuales de los Estados miembros. También podría resultar inadecuado exigir tales requisitos cuando resultasen impracticables o injustificados, dado el tema o la naturaleza de los servicios de comunicación audiovisual.
+
+(41)
+
+Es importante que los organismos de radiodifusión televisiva disfruten de una mayor flexibilidad y que puedan decidir cuándo programan los anuncios, a fin de maximizar la demanda de los anunciantes y el flujo de espectadores. No obstante, también es necesario mantener un nivel suficiente de protección de los consumidores a este respecto, dado que un grado mayor de flexibilidad podría exponer a los telespectadores a una publicidad excesiva en las horas de mayor audiencia. Por consiguiente, se deben aplicar límites específicos en los tramos horarios comprendidos entre las 06.00 y las 18.00 y entre las 18.00 y las 24.00.
+
+(42)
+
+Los marcos neutros separan el contenido editorial de los anuncios de publicidad televisiva o de televenta, así como los distintos anuncios publicitarios entre sí. Permiten al telespectador distinguir claramente cuándo termina un tipo de contenido audiovisual y cuándo empieza otro. Es necesario aclarar que los marcos neutros están excluidos del límite cuantitativo establecido para la publicidad televisiva. El motivo de tal exclusión obedece a la necesidad de garantizar que el tiempo utilizado en los marcos neutros no tenga repercusión en el tiempo utilizado para la publicidad y que los ingresos generados por esta no se vean negativamente afectados.
+
+(43)
+
+El tiempo de difusión asignado a los anuncios realizados por el organismo de radiodifusión televisiva en relación con sus propios programas y con los productos conexos directamente derivados de esos programas, o asignado a anuncios de servicio público y a llamamientos de carácter benéfico difundidos gratuitamente, exceptuando los costes generados por la transmisión de dichos llamamientos, no debe incluirse en los límites máximos del tiempo de transmisión que puede asignarse a la publicidad televisiva y a la televenta. Además, muchos organismos de radiodifusión televisiva forman parte de grandes grupos de radiodifusión y efectúan anuncios no solo en relación con sus propios programas y los productos accesorios derivados directamente de dichos programas, sino también en relación con los programas y servicios de comunicación audiovisual de otras entidades pertenecientes al mismo grupo de radiodifusión. El tiempo de difusión asignado a dichos anuncios tampoco debe incluirse en el tiempo máximo de transmisión que puede dedicarse a la publicidad televisiva y a la televenta.
+
+(44)
+
+Los prestadores de plataformas de intercambio de vídeos a quienes se aplica la Directiva 2010/13/UE prestan servicios de la sociedad de la información en el sentido de la Directiva 2000/31/CE del Parlamento Europeo y del Consejo (11). Dichos prestadores están, por tanto, sujetos a las disposiciones en materia de mercado interior contenidas en dicha Directiva, si están establecidos en un Estado miembro. Conviene velar por que también se apliquen las mismas normas a los prestadores de plataformas de intercambio de vídeos que no estén establecidos en un Estado miembro, con objeto de garantizar la eficacia de las medidas para proteger a los menores y al público en general contenidas en la Directiva 2010/13/UE y garantizar lo más posible la igualdad de oportunidades, en la medida en que dichos prestadores tengan una empresa matriz o una filial establecida en un Estado miembro, o cuando formen parte de un grupo y otra empresa de ese grupo esté establecida en un Estado miembro. Por consiguiente, las definiciones establecidas en la Directiva 2010/13/UE deben basarse en principios y garantizar que las empresas no puedan autoexcluirse del ámbito de aplicación de dicha Directiva mediante la creación de una estructura de grupo que incluya múltiples capas de empresas establecidas dentro o fuera de la Unión. La Comisión debe ser informada de los prestadores sujetos a la jurisdicción de cada Estado miembro en virtud de las normas en materia de establecimiento contenidas en la Directiva 2000/31/CE y en la Directiva 2010/13/UE.
+
+(45)
+
+Existen nuevos retos, en particular en relación con las plataformas de intercambio de vídeos en que los usuarios, en especial los menores, consumen contenidos audiovisuales cada vez en mayor medida. En este contexto, suscitan creciente preocupación los contenidos nocivos y la incitación al odio que aparecen en los servicios de intercambio de vídeos a través de plataforma. A fin de proteger de dichos contenidos a los menores y al público en general, es necesario establecer normas proporcionadas sobre estas cuestiones.
+
+(46)
+
+Las comunicaciones comerciales de los servicios de intercambio de vídeos a través de plataforma ya están reguladas por la Directiva 2005/29/CE del Parlamento Europeo y del Consejo (12), que prohíbe las prácticas comerciales desleales de las empresas en sus relaciones con los consumidores, como las prácticas agresivas y engañosas que se producen en los servicios de la sociedad de la información.
+
+Por lo que se refiere a las comunicaciones comerciales relativas al tabaco y los productos relacionados en las plataformas de intercambio de vídeos, las prohibiciones en vigor previstas en la Directiva 2003/33/CE del Parlamento Europeo y del Consejo (13), así como las prohibiciones aplicables a las comunicaciones comerciales relativas a los cigarrillos electrónicos y envases de recarga con arreglo a la Directiva 2014/40/UE del Parlamento Europeo y del Consejo (14), garantizan una protección suficiente de los consumidores contra el tabaco y otros productos relacionados. Puesto que los usuarios recurren cada vez más a las plataformas de intercambio de vídeos para acceder a contenidos audiovisuales, es necesario garantizar un nivel suficiente de protección de los consumidores armonizando las normas sobre comunicaciones comerciales audiovisuales en su justa medida entre todos los prestadores. Por consiguiente, es importante que las comunicaciones comerciales audiovisuales en las plataformas de intercambio de vídeos estén claramente identificadas y respeten una serie de requisitos cualitativos básicos.
+
+(47)
+
+Una parte significativa de los contenidos puestos a disposición en una plataforma de intercambio de vídeos no están bajo la responsabilidad editorial del prestador de dicho servicio. No obstante, esos prestadores suelen determinar la organización de los contenidos, a saber, programas, vídeos generados por usuarios y comunicaciones comerciales audiovisuales, incluso por medios o algoritmos automáticos. Por tanto, se debe exigir a esos prestadores que tomen las medidas adecuadas para proteger a los menores de contenidos que puedan afectar a su desarrollo físico, mental o moral. También se les debe exigir que tomen las medidas adecuadas para proteger al público en general de contenidos que inciten a la violencia o al odio contra un grupo o miembros de un grupo por los motivos mencionados en el artículo 21 de la Carta de Derechos Fundamentales de la Unión Europea (en lo sucesivo, «Carta»), o de la difusión de contenido que constituya una infracción penal según el Derecho de la Unión.
+
+(48)
+
+Habida cuenta de la naturaleza de la relación de los prestadores con los contenidos puestos a disposición en las plataformas de intercambio de vídeos, las medidas adecuadas para proteger a los menores y al público en general deben guardar relación con la organización de los contenidos, y no con los contenidos como tales. Por consiguiente, los requisitos al respecto establecidos en la Directiva 2010/13/UE deben aplicarse sin perjuicio de lo dispuesto en los artículos 12 a 14 de la Directiva 2000/31/CE, que dispone una exención de la responsabilidad por la información ilícita transmitida, o almacenada de forma automática, transitoria y temporal, o almacenada por algunos prestadores de servicios de la sociedad de la información. Cuando se presten los servicios enumerados en los artículos 12 a 14 de la Directiva 2000/31/CE, dichos requisitos también deben aplicarse sin perjuicio de lo dispuesto en el artículo 15 de dicha Directiva, que impide que se impongan a los prestadores obligaciones generales de supervisión de tal información y de realizar búsquedas activas de hechos o circunstancias que indiquen actividades ilícitas, sin afectar no obstante a las obligaciones de supervisión en casos específicos y, en particular, a las solicitudes de las autoridades nacionales formuladas de conformidad con el Derecho nacional.
+
+(49)
+
+Al aplicar las medidas apropiadas que deban adoptarse con arreglo a la Directiva 2010/13/UE, conviene implicar a los prestadores de plataformas de intercambio de vídeos en la medida de lo posible. Por lo tanto, debe fomentarse la corregulación. También debe seguir siendo posible que los prestadores de plataformas de intercambio de vídeos adopten medidas más estrictas con carácter voluntario, de conformidad con el Derecho de la Unión y respetando la libertad de expresión y de información y el pluralismo de los medios de comunicación.
+
+(50)
+
+El derecho a la tutela judicial efectiva y el derecho a un juicio justo forman parte de los derechos fundamentales establecidos en el artículo 47 de la Carta. Por consiguiente, las disposiciones de la Directiva 2010/13/UE no deben interpretarse en el sentido de que suponen un impedimento a que las partes ejerzan sus derechos de acceso al sistema judicial.
+
+(51)
+
+A la hora de adoptar las medidas oportunas para proteger a los menores de los contenidos nocivos y al público en general de los contenidos que inciten a la violencia, al odio o al terrorismo de conformidad con la Directiva 2010/13/UE, debe buscarse un cuidadoso equilibrio con los derechos fundamentales aplicables, consagrados en la Carta. Están afectados, en particular y según el caso, el derecho al respeto de la vida privada y familiar y la protección de los datos de carácter personal, la libertad de expresión y de información, la libertad de empresa, la prohibición de discriminación y los derechos del niño.
+
+(52)
+
+El Comité de contacto tiene por objetivo facilitar una aplicación efectiva de la Directiva 2010/13/UE y debe ser consultado periódicamente sobre cualquier problema de orden práctico derivado de su aplicación. La labor del Comité de contacto no debe limitarse a las cuestiones de política audiovisual actuales, sino que también debe abarcar la correspondiente evolución del sector. Está formado por representantes de las autoridades competentes de los Estados miembros. Se anima a los Estados miembros a que, en el momento de nombrar a sus representantes, fomenten la paridad entre sexos en la composición del Comité de contacto.
+
+(53)
+
+Los Estados miembros deben asegurarse de que sus autoridades u organismos reguladores nacionales sean jurídicamente distintos del gobierno. Sin embargo, esto no debe impedir a los Estados miembros ejercer la supervisión de conformidad con su Derecho constitucional nacional. Conviene considerar que las autoridades u organismos reguladores nacionales han alcanzado el grado de independencia necesario si tales autoridades u organismos, incluidos los que se constituyen como autoridades u organismos públicos, son funcional y efectivamente independientes de sus respectivos gobiernos y de cualquier otro organismo público o privado. Esto se considera esencial para garantizar la imparcialidad de las decisiones adoptadas por una autoridad u organismo regulador nacional. El requisito de independencia debe entenderse sin perjuicio de la posibilidad de que los Estados miembros establezcan autoridades reguladoras que se encarguen de supervisar diversos sectores, como los sectores audiovisual y de telecomunicaciones. Las autoridades u organismos reguladores nacionales deben contar con las potestades coercitivas y los recursos necesarios para el desempeño de sus funciones, en cuanto a personal, conocimientos técnicos y medios financieros. Las actividades de las autoridades u organismos reguladores nacionales establecidas con arreglo a la Directiva 2010/13/UE deben garantizar el respeto de los objetivos de pluralismo de los medios de comunicación, diversidad cultural, protección de los consumidores, correcto funcionamiento del mercado interior y fomento de una competencia leal.
+
+(54)
+
+Puesto que uno de los objetivos de los servicios de comunicación audiovisual es servir a los intereses de las personas y configurar la opinión pública, es esencial que dichos servicios sean capaces de informar a las personas y a la sociedad de la manera más completa posible y con el más alto nivel de variedad. Solo se puede alcanzar ese objetivo si las decisiones editoriales se mantienen al margen de toda interferencia o influencia de las autoridades u organismos reguladores nacionales que sobrepase la mera aplicación de la legislación y no sirva para salvaguardar un derecho protegido jurídicamente que debe ser protegido con independencia de una opinión particular.
+
+(55)
+
+Deben existir mecanismos de recurso eficaces a nivel nacional. El organismo de apelación correspondiente debe ser independiente de las partes implicadas. Dicho organismo puede ser un tribunal. El procedimiento de recurso debe entenderse sin perjuicio de la división de competencias en el seno de los ordenamientos jurídicos nacionales.
+
+(56)
+
+Con vistas a garantizar una aplicación coherente del marco regulador del sector audiovisual de la Unión en todos los Estados miembros, la Comisión creó el ERGA mediante su Decisión de 3 de febrero de 2014 (15). La función del ERGA consiste en prestar asesoramiento técnico a la Comisión en su labor de garantizar la aplicación coherente de la Directiva 2010/13/UE en todos los Estados miembros y facilitar la cooperación entre las autoridades u organismos reguladores nacionales, así como entre estas autoridades u organismos y la Comisión.
+
+(57)
+
+El ERGA ha contribuido positivamente a la coherencia de la práctica reguladora y ha proporcionado asesoramiento de alto nivel a la Comisión en cuestiones relacionadas con la aplicación. Procede incluir en la Directiva 2010/13/UE el reconocimiento formal y el refuerzo de su papel. Por consiguiente, conviene establecer el ERGA en virtud de dicha Directiva.
+
+(58)
+
+La Comisión debe tener la posibilidad de consultar al ERGA sobre cualquier asunto relativo a los servicios de comunicación audiovisual y a las plataformas de intercambio de vídeos. El ERGA debe asistir a la Comisión aportando conocimientos y asesoramiento técnicos y facilitando el intercambio de mejores prácticas, también sobre los códigos de conducta para la autorregulación y la corregulación. En particular, la Comisión debe consultar al ERGA en la aplicación de la Directiva 2010/13/UE, con el fin de facilitar su aplicación convergente. A petición de la Comisión, el ERGA debe emitir informes no vinculantes sobre la jurisdicción, sobre las medidas derogatorias del principio de libertad de recepción y sobre las medidas relacionadas con la elusión de la jurisdicción. Además, el ERGA debe poder prestar asesoramiento técnico sobre cualquier cuestión de carácter normativo relacionada con el marco de los servicios de comunicación audiovisual, en particular en el ámbito de la incitación al odio y la protección de los menores, así como sobre el contenido de las comunicaciones comerciales audiovisuales de alimentos con alto contenido en grasas, sal o sodio y azúcares.
+
+(59)
+
+La «alfabetización mediática» abarca las competencias, los conocimientos y las capacidades de comprensión que permiten a los ciudadanos utilizar con eficacia y seguridad los medios. A fin de que los ciudadanos puedan acceder a la información y utilizar, analizar de manera crítica y crear contenidos mediáticos de un modo responsable y seguro, los ciudadanos deben poseer capacidades de alfabetización mediática avanzadas. La alfabetización mediática no debe limitarse al aprendizaje de herramientas y tecnologías, sino que también debe tener el fin de aportar a los ciudadanos el pensamiento crítico necesario para discernir, analizar realidades complejas y reconocer la diferencia entre opiniones y hechos. Por consiguiente, es necesario que tanto los prestadores de servicios de comunicación como los prestadores de plataformas de intercambio de vídeos, en cooperación con todas las partes interesadas, promuevan el desarrollo de la alfabetización mediática en todos los sectores de la sociedad para los ciudadanos de todas las edades y para todos los medios y que se sigan de cerca los avances a ese respecto.
+
+(60)
+
+La Directiva 2010/13/UE se entiende sin perjuicio de la obligación de los Estados miembros de respetar y proteger la dignidad humana. Respeta los derechos fundamentales y observa los principios reconocidos, en particular, por la Carta. En particular, la Directiva 2010/13/UE pretende garantizar el pleno respeto de los derechos a la libertad de expresión, a la libertad de empresa y a la tutela judicial efectiva, y promover la aplicación de los derechos del niño consagrados en la Carta.
+
+(61)
+
+Cualquier medida adoptada por los Estados miembros en virtud de la Directiva 2010/13/UE debe respetar la libertad de expresión e información y el pluralismo de los medios de comunicación, así como la diversidad cultural y lingüística, de conformidad con la Convención de la Unesco sobre la protección y promoción de la diversidad de las expresiones culturales.
+
+(62)
+
+El derecho a acceder a los programas de actualidad política resulta esencial para proteger la libertad fundamental de recibir información y garantizar una protección completa y adecuada de los intereses de los espectadores de la Unión. Dada la creciente importancia de los servicios de comunicación audiovisual para las sociedades y la democracia, la radiodifusión de noticiarios políticos debería ofrecerse, en la mayor medida posible, y sin perjuicio de la normativa sobre derechos de autor, con carácter transfronterizo en la Unión.
+
+(63)
+
+La Directiva 2010/13/UE no afecta a las normas de Derecho internacional privado, en particular a las que regulan la competencia judicial de los tribunales y al Derecho aplicable a las obligaciones contractuales y extracontractuales.
+
+(64)
+
+De conformidad con la Declaración política conjunta, de 28 de septiembre de 2011, de los Estados miembros y de la Comisión sobre los documentos explicativos (16), los Estados miembros se han comprometido a adjuntar a la notificación de las medidas de transposición, cuando esté justificado, uno o varios documentos que expliquen la relación entre los elementos de una directiva y las partes correspondientes de los instrumentos nacionales de transposición. Por lo que respecta a la presente Directiva, el legislador considera que la transmisión de dichos documentos está justificada.
+
+(65)
+
+Por lo tanto, procede modificar la Directiva 2010/13/UE en consecuencia.
+
+HAN ADOPTADO LA PRESENTE DIRECTIVA:
+
+Artículo 1
+
+La Directiva 2010/13/UE se modifica como sigue:
+
+1)
+
+En el artículo 1, el apartado 1 se modifica como sigue:
+
+a)
+
+la letra a) se sustituye por el texto siguiente:
+
+«a)   “servicio de comunicación audiovisual”: 
+
+i)
+
+un servicio, tal como lo definen los artículos 56 y 57 del Tratado de Funcionamiento de la Unión Europea, cuya finalidad principal propia o de una de sus partes disociables consiste en ofrecer programas al público en general, bajo la responsabilidad editorial de un prestador de servicios de comunicación, con objeto de informar, entretener o educar, a través de redes de comunicaciones electrónicas tal como las define el artículo 2, letra a), de la Directiva 2002/21/CE; este servicio de comunicación audiovisual es bien una emisión televisiva según la definición de la letra e) del presente apartado, bien un servicio de comunicación audiovisual a petición según la definición de la letra g) del presente apartado,
+
+ii)
+
+comunicación comercial audiovisual;»;
+
+b)
+
+se inserta la letra siguiente:
+
+«a bis)   “servicio de intercambio de vídeos a través de plataforma” o “plataforma de intercambio de vídeos”: un servicio, tal como lo definen los artículos 56 y 57 del Tratado de Funcionamiento de la Unión Europea, cuya finalidad principal propia o de una de sus partes disociables o cuya funcionalidad esencial consiste en ofrecer al público en general programas, vídeos generados por usuarios o ambas cosas, sobre los que no tiene responsabilidad editorial el prestador de la plataforma, con objeto de informar, entretener o educar, a través de redes de comunicaciones electrónicas tal como se definen en el artículo 2, letra a), de la Directiva 2002/21/CE, y cuya organización determina el prestador de la plataforma de intercambio de vídeos, entre otros medios con algoritmos automáticos, en particular mediante la presentación, el etiquetado y la secuenciación;»;
+
+c)
+
+la letra b) se sustituye por el texto siguiente:
+
+«b)   “programa”: un conjunto de imágenes en movimiento, con o sin sonido, que constituye un elemento unitario, con independencia de su duración, dentro de un horario de programación o de un catálogo elaborado por un prestador de servicios de comunicación, incluidos los largometrajes, los vídeos cortos, las manifestaciones deportivas, las comedias de situación, los documentales, los programas infantiles y las obras de teatro originales;»;
+
+d)
+
+se insertan las letras siguientes:
+
+«b bis)   “vídeo generado por usuarios”: un conjunto de imágenes en movimiento, con o sin sonido, que constituye un elemento unitario, con independencia de su duración, creado por un usuario y subido a una plataforma de intercambio de vídeos por dicho usuario o por cualquier otro;
+
+b ter)   “decisión editorial”: una decisión que se adopta periódicamente con el fin de ejercer la responsabilidad editorial y que está vinculada a la gestión diaria del servicio de comunicación audiovisual;»;
+
+e)
+
+se inserta la letra siguiente:
+
+«d bis)   “prestador de plataforma de intercambio de vídeos”: la persona física o jurídica que presta un servicio de intercambio de vídeos a través de plataforma;»;
+
+f)
+
+la letra h) se sustituye por el texto siguiente:
+
+«h)   “comunicación comercial audiovisual”: las imágenes con o sin sonido destinadas a promocionar, de manera directa o indirecta, los bienes, servicios o imagen de una persona física o jurídica dedicada a una actividad económica; estas imágenes acompañan o se incluyen en un programa o en un vídeo generado por usuarios a cambio de una remuneración o contraprestación similar, o bien con fines de autopromoción. La publicidad televisiva, el patrocinio, la televenta y el emplazamiento de producto son, entre otras, formas de comunicación comercial audiovisual;»;
+
+g)
+
+la letra k) se sustituye por el texto siguiente:
+
+«k)   “patrocinio”: cualquier contribución que una empresa pública o privada o una persona física no vinculada a la prestación de servicios de comunicación audiovisual o de servicios de intercambio de vídeos a través de plataforma, ni a la producción de obras audiovisuales haga a la financiación de servicios de comunicación audiovisual, de plataformas de intercambio de vídeos o de vídeos generados por usuarios o de programas, con la finalidad de promocionar su nombre, marca, imagen, actividades o productos;»;
+
+h)
+
+la letra m) se sustituye por el texto siguiente:
+
+«m)   “emplazamiento de producto”: toda forma de comunicación comercial audiovisual consistente en incluir o referirse a un producto, servicio o marca comercial de manera que figure en un programa o en un vídeo generado por usuarios, a cambio de una remuneración o contraprestación similar;».
+
+2)
+
+El título del capítulo II se sustituye por el texto siguiente:
+
+«
+DISPOSICIONES GENERALES PARA LOS SERVICIOS DE COMUNICACIÓN AUDIOVISUAL
+».
+
+3)
+
+El artículo 2 se modifica como sigue:
+
+a)
+
+en el apartado 3, la letra b) se sustituye por el texto siguiente:
+
+«b)
+
+si el prestador de un servicio de comunicación tiene su sede central en un Estado miembro pero las decisiones editoriales sobre el servicio de comunicación audiovisual se toman en otro Estado miembro, se considerará que dicho prestador está establecido en el Estado miembro en que trabaje una parte significativa del personal que realiza la actividad de programación del servicio de comunicación audiovisual. En caso de que una parte significativa del personal que realiza la actividad de programación del servicio de comunicación audiovisual trabaje en cada uno de esos Estados miembros, se considerará que el prestador del servicio de comunicación está establecido en el Estado miembro en que tenga su sede central. En caso de que una parte significativa del personal que realiza la actividad de programación del servicio de comunicación audiovisual no trabaje en ninguno de esos Estados miembros, se considerará que el prestador del servicio de comunicación está establecido en el Estado miembro en el que inició por primera vez su actividad, de conformidad con el ordenamiento jurídico de ese Estado miembro, siempre que mantenga un vínculo estable y efectivo con la economía de ese Estado miembro;»;
+
+b)
+
+se insertan los apartados siguientes:
+
+«5 bis.   Los Estados miembros velarán por que los prestadores de servicios de comunicación informen a las autoridades u organismos reguladores nacionales competentes de cualquier cambio que pueda afectar a la determinación de la jurisdicción con arreglo a lo dispuesto en los apartados 2, 3 y 4.
+
+5 ter.   Los Estados miembros establecerán y mantendrán actualizada una lista de los prestadores de servicios de comunicación sujetos a su jurisdicción e indicarán en cuáles de los criterios establecidos en los apartados 2 a 5 se basa su jurisdicción. Los Estados miembros comunicarán esa lista, y sus actualizaciones, a la Comisión.
+
+La Comisión velará por que esas listas estén disponibles en una base de datos centralizada. En caso de incoherencia entre las listas, la Comisión se pondrá en contacto con los Estados miembros correspondientes para encontrar una solución. La Comisión velará por que las autoridades u organismos reguladores nacionales tengan acceso a esa base de datos. La Comisión hará pública la información de la base de datos.
+
+5 quater.   Cuando, al aplicar los artículos 3 o 4, los Estados miembros interesados no lleguen a un acuerdo sobre qué Estado miembro tiene jurisdicción, someterán el asunto a la atención de la Comisión sin dilaciones indebidas. La Comisión podrá solicitar al Grupo de Entidades Reguladoras Europeas para los Servicios de Comunicación Audiovisual (ERGA) que emita un informe sobre el asunto, de conformidad con el artículo 30 ter, apartado 3, letra d). El ERGA emitirá tal informe en un plazo de quince días laborables a partir de la presentación de la solicitud de la Comisión. La Comisión mantendrá debidamente informado al Comité de contacto que se establece en el artículo 29.
+
+Cuando la Comisión adopte una decisión con arreglo al artículo 3, apartados 2 o 3, o al artículo 4, apartado 5, decidirá también qué Estado miembro tiene jurisdicción.».
+
+4)
+
+El artículo 3 se sustituye por el texto siguiente:
+
+«Artículo 3
+
+1.   Los Estados miembros garantizarán la libertad de recepción y no obstaculizarán las retransmisiones en su territorio de los servicios de comunicación audiovisual procedentes de otros Estados miembros por motivos inherentes a los ámbitos coordinados por la presente Directiva.
+
+2.   Cualquier Estado miembro podrá establecer, con carácter provisional, excepciones en relación con el apartado 1 del presente artículo en caso de que un servicio de comunicación audiovisual ofrecido por un prestador de servicios de comunicación sujeto a la jurisdicción de otro Estado miembro infrinja de manera manifiesta, seria y grave lo dispuesto en el artículo 6, apartado 1, letra a), o el artículo 6 bis, apartado 1, o vaya en detrimento o presente un riesgo serio y grave de ir en detrimento de la salud pública.
+
+La excepción a que se refiere el párrafo primero deberá cumplir las condiciones siguientes:
+
+a)
+
+durante los 12 meses anteriores, el prestador del servicio de comunicación ya haya actuado al menos en dos ocasiones previas de una o más de las formas indicadas en el párrafo primero;
+
+b)
+
+el Estado miembro de que se trate haya notificado por escrito al prestador del servicio de comunicación, al Estado miembro que tiene jurisdicción sobre dicho prestador y a la Comisión las infracciones alegadas y las medidas proporcionadas que tienen intención de adoptar en caso de que se vuelva a cometer una infracción similar;
+
+c)
+
+el Estado miembro de que se trate haya respetado el derecho de defensa del prestador del servicio de comunicación de que se trate y, en particular, le haya dado la oportunidad de expresar su opinión sobre las infracciones alegadas, y
+
+d)
+
+las consultas con el Estado miembro que tiene jurisdicción sobre el prestador del servicio de comunicación y con la Comisión no hayan desembocado en un arreglo amistoso en un plazo de un mes a partir de la notificación indicada en la letra b).
+
+En un plazo de tres meses a partir de la notificación de las medidas adoptadas por el Estado miembro de que se trate y tras haber solicitado al ERGA que emita un informe de conformidad con el artículo 30 ter, apartado 3, letra d), la Comisión adoptará una decisión sobre la compatibilidad de dichas medidas con el Derecho de la Unión. La Comisión mantendrá al Comité de contacto debidamente informado. Si la Comisión decidiera que dichas medidas no son compatibles con el Derecho de la Unión, pedirá al Estado miembro de que se trate que ponga fin urgentemente a las medidas en cuestión.
+
+3.   Cualquier Estado miembro podrá establecer, con carácter provisional, excepciones en relación con el apartado 1 del presente artículo en caso de que un servicio de comunicación audiovisual ofrecido por un prestador de servicios de comunicación sujeto a la jurisdicción de otro Estado miembro infrinja de manera manifiesta, seria y grave lo dispuesto en el artículo 6, apartado 1, letra b), o vaya en detrimento o presente un riesgo serio y grave de ir en detrimento de la seguridad pública, incluida la salvaguarda de la seguridad y defensa nacionales.
+
+La excepción a que se refiere el párrafo primero estará sujeta a que se cumplan las condiciones siguientes:
+
+a)
+
+que durante los 12 meses anteriores la infracción mencionada en el párrafo primero se haya cometido al menos en una ocasión,
+
+y
+
+b)
+
+que el Estado miembro de que se trate haya notificado por escrito al prestador del servicio de comunicación, al Estado miembro que tiene jurisdicción sobre tal prestador y a la Comisión la infracción alegada y las medidas proporcionadas que tienen la intención de adoptar en caso de que se vuelva a cometer una infracción similar.
+
+El Estado miembro de que se trate respetará el derecho de defensa del prestador del servicio de comunicación de que se trate y, en particular, le brindará la oportunidad de expresar su opinión sobre las infracciones alegadas.
+
+En un plazo de tres meses a partir de la notificación de las medidas adoptadas por el Estado miembro de que se trate y tras haber solicitado al ERGA que emita un informe de conformidad con el artículo 30 ter, apartado 3, letra d), la Comisión adoptará una decisión sobre si dichas medidas son compatibles con el Derecho de la Unión. La Comisión mantendrá al Comité de contacto debidamente informado. Si la Comisión decidiera que dichas medidas no son compatibles con el Derecho de la Unión, exigirá al Estado miembro de que se trate que ponga fin urgentemente a las medidas en cuestión.
+
+4.   Los apartados 2 y 3 se entenderán sin perjuicio de la aplicación de cualquier procedimiento, medida o sanción frente a las infracciones en cuestión en el Estado miembro que tenga jurisdicción sobre el prestador de servicios de comunicación de que se trate.
+
+5.   En casos urgentes, los Estados miembros podrán establecer, como máximo un mes después de haberse producido la infracción alegada, excepciones a las condiciones fijadas en el apartado 3, letras a) y b). Cuando así ocurra, las medidas adoptadas se notificarán en el plazo más breve posible a la Comisión y al Estado miembro a cuya jurisdicción esté sujeto el prestador de servicios, indicando las razones de la urgencia según el Estado miembro. La Comisión examinará en el plazo más breve posible la compatibilidad de las medidas notificadas con el Derecho de la Unión. Si la Comisión llegase a la conclusión de que las medidas son incompatibles con el Derecho de la Unión, exigirá al Estado miembro de que se trate que ponga fin urgentemente a esas medidas.
+
+6.   Si la Comisión careciese de la información necesaria para adoptar una decisión con arreglo a los apartados 2 o 3, pedirá al Estado miembro de que se trate, en el plazo de un mes a partir de la recepción de la notificación, toda la información necesaria para tomar esa decisión. El plazo en el que la Comisión debe adoptar la decisión quedará suspendido hasta que el Estado miembro haya presentado dicha información necesaria. En cualquier caso, la suspensión de dicho plazo no podrá durar más de un mes.
+
+7.   Los Estados miembros y la Comisión intercambiarán periódicamente sus experiencias y mejores prácticas en relación con el procedimiento establecido en el presente artículo en el marco del Comité de contacto y del ERGA.».
+
+5)
+
+El artículo 4 se sustituye por el texto siguiente:
+
+«Artículo 4
+
+1.   Los Estados miembros tendrán la facultad de exigir a los prestadores de servicios de comunicación sujetos a su jurisdicción el cumplimiento de normas más estrictas o detalladas en los ámbitos coordinados por la presente Directiva, siempre y cuando dichas normas sean conformes al Derecho de la Unión.
+
+2.   Cuando un Estado miembro:
+
+a)
+
+haya ejercido la facultad que se menciona en el apartado 1 para adoptar medidas más estrictas o detalladas de interés público general, y
+
+b)
+
+considere que un prestador del servicio de comunicación sujeto a la jurisdicción de otro Estado miembro ofrece un servicio de comunicación audiovisual dirigido total o principalmente a su territorio,
+
+podrá pedir al Estado miembro que tenga jurisdicción que aborde los problemas detectados respecto del presente apartado. Los dos Estados miembros cooperarán lealmente y rápidamente con objeto de lograr una solución mutuamente satisfactoria.
+
+Tras recibir una petición justificada con arreglo al párrafo primero, el Estado miembro que tenga jurisdicción solicitará al prestador del servicio de comunicación que cumpla las normas de interés público general pertinentes. El Estado miembro que tenga jurisdicción informará periódicamente al Estado miembro peticionario acerca de las medidas adoptadas para abordar los problemas detectados. En un plazo de dos meses a partir de la recepción de la petición, el Estado miembro que tenga jurisdicción informará de los resultados obtenidos al Estado miembro peticionario y a la Comisión y expondrá los motivos de aquellos casos en que no se haya podido encontrar una solución.
+
+Cualquiera de los dos Estados miembros podrá invitar en cualquier momento al Comité de contacto a examinar el caso.
+
+3.   El Estado miembro de que se trate podrá adoptar medidas adecuadas en contra del prestador de servicios de comunicación implicado cuando:
+
+a)
+
+considere que el resultado logrado mediante la aplicación del apartado 2 no es satisfactorio, y
+
+b)
+
+haya aportado pruebas que demuestren que el prestador de servicios de comunicación en cuestión se ha establecido bajo la jurisdicción de otro Estado miembro para eludir las normas más estrictas, en los ámbitos coordinados por la presente Directiva, que le serían aplicables de haberse establecido en el Estado miembro de que se trate; dichas pruebas deben permitir corroborar razonablemente la elusión, sin necesidad de probar que el prestador de servicios de comunicación tiene intención de eludir esas normas más estrictas.
+
+Dichas medidas serán objetivamente necesarias, se aplicarán de manera no discriminatoria y serán proporcionadas a los objetivos que se persiguen.
+
+4.   Cualquier Estado miembro podrá tomar medidas con arreglo al apartado 3 solo cuando se reúnan las condiciones siguientes:
+
+a)
+
+dicho Estado miembro ha notificado a la Comisión y al Estado miembro en el que esté establecido el prestador de servicios de comunicación su intención de adoptar dichas medidas, al tiempo que justifica los motivos en los que basa su decisión;
+
+b)
+
+dicho Estado miembro ha respetado el derecho de defensa del prestador de servicios de comunicación de que se trate y, en particular, le ha dado la oportunidad de expresar su opinión sobre la elusión alegada y las medidas que el Estado miembro notificador se propone adoptar, y
+
+c)
+
+la Comisión ha decidido, tras haber solicitado al ERGA que emita un informe de conformidad con el artículo 30 ter, apartado 3, letra d), que las medidas son compatibles con el Derecho de la Unión, y, en particular, que las apreciaciones realizadas por el Estado miembro que las adopta en virtud de los apartados 2 y 3 del presente artículo están correctamente fundamentadas; la Comisión mantendrá al Comité de contacto debidamente informado.
+
+5.   En un plazo de tres meses a partir de la notificación indicada en el apartado 4, letra a), la Comisión adoptará la decisión sobre si dichas medidas son compatibles con el Derecho de la Unión. Si la Comisión decidiera que dichas medidas no son compatibles con el Derecho de la Unión, pedirá al Estado miembro de que se trate que se abstenga de adoptar las medidas previstas.
+
+Si la Comisión careciese de la información necesaria para adoptar la decisión con arreglo al párrafo primero, pedirá al Estado miembro de que se trate, en el plazo de un mes a partir de la recepción de la notificación, toda la información necesaria para tomar esa decisión. El plazo en el que la Comisión debe adoptar la decisión quedará suspendido hasta que el Estado miembro haya presentado dicha información necesaria. En cualquier caso, la suspensión de dicho plazo no podrá durar más de un mes.
+
+6.   Los Estados miembros, en el marco de su normativa nacional y aplicando las medidas adecuadas, velarán por que los prestadores de servicios de comunicación sujetos a su jurisdicción cumplan efectivamente la presente Directiva.
+
+7.   La Directiva 2000/31/CE se aplicará plenamente, excepto cuando se disponga otra cosa en la presente Directiva. En caso de conflicto entre la Directiva 2000/31/CE y la presente Directiva, prevalecerá la presente Directiva, excepto cuando esta disponga otra cosa.».
+
+6)
+
+Se inserta el artículo siguiente:
+
+«Artículo 4 bis
+
+1.   Los Estados miembros animarán a que se use la corregulación y se promueva la autorregulación mediante códigos de conducta adoptados a nivel nacional en los ámbitos coordinados por la presente Directiva en la medida permitida por sus ordenamientos jurídicos. Dichos códigos deberán:
+
+a)
+
+gozar de amplia aceptación entre los principales interesados en los Estados miembros de que se trate;
+
+b)
+
+exponer de manera clara e inequívoca sus objetivos;
+
+c)
+
+prever un seguimiento y evaluación periódicos, transparentes e independientes de la consecución de los objetivos perseguidos, y
+
+d)
+
+prever los medios para una aplicación efectiva, incluidas unas sanciones efectivas y proporcionadas.
+
+2.   Los Estados miembros y la Comisión podrán fomentar la autorregulación mediante códigos de conducta de la Unión elaborados por los prestadores de servicios de comunicación, los prestadores de plataformas de intercambio de vídeos o las organizaciones que los representen, en cooperación, en caso necesario, con otros interesados como la industria, el comercio o las asociaciones u organizaciones profesionales o de consumidores. Dichos códigos deberán gozar de amplia aceptación entre los principales interesados en el ámbito de la Unión y cumplir lo dispuesto en el apartado 1, letras b) a d). Los códigos de conducta de la Unión se entenderán sin perjuicio de los códigos de conducta nacionales.
+
+La Comisión, en cooperación con los Estados miembros, facilitará la elaboración de códigos de conducta de la Unión cuando proceda, de conformidad con los principios de subsidiariedad y proporcionalidad.
+
+Los signatarios de los códigos de conducta de la Unión presentarán los proyectos de esos códigos y sus modificaciones a la Comisión. La Comisión consultará al Comité de contacto sobre dichos proyectos de códigos o modificaciones.
+
+La Comisión pondrá los códigos de conducta de la Unión a disposición del público y podrá darles la publicidad adecuada.
+
+3.   Los Estados miembros seguirán teniendo la facultad de exigir a los prestadores de servicios de comunicación sujetos a su jurisdicción el cumplimiento de normas más detalladas o estrictas de conformidad con la presente Directiva y el Derecho de la Unión, en particular cuando sus autoridades u organismos reguladores nacionales independientes lleguen a la conclusión de que un código de conducta o partes del mismo han demostrado no ser suficientemente eficaces. Los Estados miembros comunicarán a la Comisión esas normas, sin dilaciones indebidas.».
+
+7)
+
+El título del capítulo III se sustituye por el texto siguiente:
+
+«
+DISPOSICIONES APLICABLES A LOS SERVICIOS DE COMUNICACIÓN AUDIOVISUAL
+».
+
+8)
+
+El artículo 5 se sustituye por el texto siguiente:
+
+«Artículo 5
+
+1.   Cada Estado miembro velará por que cada prestador de servicios de comunicación sujeto a su jurisdicción ponga a disposición de los receptores del servicio, de manera fácil, directa y permanente, al menos la siguiente información:
+
+a)
+
+su nombre;
+
+b)
+
+dirección geográfica donde está establecido;
+
+c)
+
+señas que permitan ponerse en contacto rápidamente y establecer una comunicación directa y efectiva con él, incluida su dirección de correo electrónico o sitio web;
+
+d)
+
+el Estado miembro que tenga jurisdicción sobre él y las autoridades u organismos reguladores o los organismos supervisores competentes.
+
+2.   Los Estados miembros podrán adoptar disposiciones legislativas que establezcan que, además de la información mencionada en el apartado 1, los prestadores de servicios de comunicación sujetos a su jurisdicción deben facilitar información relativa a su estructura de propiedad, incluidos los titulares reales. Dichas disposiciones respetarán los derechos fundamentales pertinentes, como por ejemplo la intimidad personal y familiar de los titulares reales. Dichas disposiciones deberán ser necesarias y proporcionadas y perseguir un objetivo de interés general.».
+
+9)
+
+El artículo 6 se sustituye por el texto siguiente:
+
+«Artículo 6
+
+1.   Sin perjuicio de la obligación de los Estados miembros de respetar y proteger la dignidad humana, los Estados miembros garantizarán, aplicando las medidas idóneas, que los servicios de comunicación audiovisual ofrecidos por prestadores de servicios de comunicación sujetos a su jurisdicción no contengan:
+
+a)
+
+incitación a la violencia o al odio dirigidos contra un grupo de personas o un miembro de un grupo por cualquiera de los motivos mencionados en el artículo 21 de la Carta;
+
+b)
+
+provocación pública a la comisión de un delito de terrorismo según se regula en el artículo 5 de la Directiva (UE) 2017/541.
+
+2.   Las medidas adoptadas a los efectos del presente artículo deberán ser necesarias y proporcionadas y respetar los derechos y observar los principios establecidos en la Carta.».
+
+10)
+
+Se inserta el artículo siguiente:
+
+«Artículo 6 bis
+
+1.   Los Estados miembros adoptarán las medidas adecuadas para velar por que los servicios de comunicación audiovisual ofrecidos por prestadores de servicios de comunicación sujetos a su jurisdicción que puedan perjudicar el desarrollo físico, mental o moral de los menores solo sean accesibles de un modo que garantice que, normalmente, dichos menores no los verán ni oirán. Dichas medidas podrán incluir la elección de la hora de emisión, instrumentos de verificación de la edad u otras medidas técnicas. Deberán ser proporcionadas al perjuicio potencial del programa.
+
+Los contenidos más nocivos, como la violencia gratuita y la pornografía, estarán sujetos a las medidas más estrictas.
+
+2.   Los datos personales de menores recogidos o generados de otro modo por prestadores de servicios de comunicación de conformidad con el apartado 1 no podrán ser tratados con fines comerciales, como la mercadotecnia directa, la elaboración de perfiles o la publicidad personalizada basada en el comportamiento.
+
+3.   Los Estados miembros velarán por que los prestadores de servicios de comunicación faciliten información suficiente a los espectadores sobre los contenidos que puedan perjudicar el desarrollo físico, mental o moral de los menores. A tal efecto, los prestadores de servicios de comunicación utilizarán un sistema que describa la naturaleza potencialmente perjudicial del contenido de un servicio de comunicación audiovisual.
+
+A efectos de la aplicación del presente apartado, los Estados miembros animarán a que se use la corregulación como dispone el artículo 4 bis, apartado 1.
+
+4.   La Comisión animará a los prestadores de servicios de comunicación a intercambiar mejores prácticas en materia de códigos de conducta para la corregulación. Los Estados miembros y la Comisión podrán fomentar la autorregulación, a los efectos del presente artículo, mediante los códigos de conducta de la Unión a que se refiere el artículo 4 bis, apartado 2.».
+
+11)
+
+El artículo 7 se sustituye por el texto siguiente:
+
+«Artículo 7
+
+1.   Los Estados miembros garantizarán, sin dilaciones indebidas, que los servicios ofrecidos por los prestadores de servicios de comunicación sujetos a su jurisdicción mejoren de forma continua y progresiva su accesibilidad para las personas con discapacidad mediante medidas proporcionadas.
+
+2.   Los Estados miembros velarán por que los prestadores de servicios de comunicación informen con regularidad a las autoridades u organismos reguladores nacionales acerca de la aplicación de las medidas a que se refiere el apartado 1. A más tardar el 19 de diciembre de 2022, y posteriormente cada tres años, los Estados miembros informarán a la Comisión sobre la aplicación del apartado 1.
+
+3.   Los Estados miembros animarán a los prestadores de servicios de comunicación a desarrollar planes de accesibilidad para aumentar de forma continua y progresiva la accesibilidad de sus servicios para las personas con discapacidad. Dichos planes se comunicarán a las autoridades u organismos reguladores nacionales.
+
+4.   Cada Estado miembro pondrá a disposición del público para su consulta en línea un único punto de contacto, de fácil acceso incluso por parte de las personas con discapacidad, para facilitar información y recibir quejas sobre las cuestiones de accesibilidad a que se refiere el presente artículo.
+
+5.   Los Estados miembros velarán por que la información relativa a situaciones de emergencia, incluyendo las comunicaciones y anuncios públicos en situaciones de catástrofes naturales, que se haga pública a través de servicios de comunicación audiovisual, se facilite de una manera que sea accesible a las personas con discapacidad.».
+
+12)
+
+Se insertan los artículos siguientes:
+
+«Artículo 7 bis
+
+Los Estados miembros podrán adoptar medidas para garantizar la adecuada prominencia de los servicios de comunicación audiovisual de interés general.
+
+Artículo 7 ter
+
+Los Estados miembros adoptarán medidas adecuadas y proporcionadas para garantizar que, sin el consentimiento expreso de los prestadores de servicios de comunicación, los servicios de comunicación audiovisual ofrecidos por dichos prestadores no sean objeto de superposiciones con fines comerciales ni de modificaciones.
+
+A los efectos del presente artículo, los Estados miembros especificarán los detalles normativos, incluidas las excepciones, en particular, en relación con la salvaguardia de los intereses legítimos de los usuarios, teniendo en cuenta los intereses legítimos de los prestadores de servicios de comunicación que inicialmente prestaban los servicios de comunicación audiovisual.».
+
+13)
+
+El artículo 9 se sustituye por el texto siguiente:
+
+«Artículo 9
+
+1.   Los Estados miembros velarán por que las comunicaciones comerciales audiovisuales realizadas por prestadores sujetos a su jurisdicción cumplan los siguientes requisitos:
+
+a)
+
+las comunicaciones comerciales audiovisuales deberán ser fácilmente reconocibles como tales; queda prohibida la comunicación comercial audiovisual encubierta;
+
+b)
+
+las comunicaciones comerciales audiovisuales no utilizarán técnicas subliminales;
+
+c)
+
+las comunicaciones comerciales audiovisuales no podrán:
+
+i)
+
+atentar contra el respeto a la dignidad humana,
+
+ii)
+
+incluir o fomentar cualquier discriminación por razón de sexo, raza u origen étnico, nacionalidad, religión o creencia, discapacidad, edad u orientación sexual,
+
+iii)
+
+fomentar comportamientos nocivos para la salud o la seguridad,
+
+iv)
+
+fomentar conductas gravemente nocivas para la protección del medio ambiente;
+
+d)
+
+queda prohibida cualquier forma de comunicación comercial audiovisual aplicada a los cigarrillos y demás productos del tabaco, así como la destinada a promocionar los cigarrillos electrónicos y sus envases de recarga;
+
+e)
+
+las comunicaciones comerciales audiovisuales relativas a bebidas alcohólicas no podrán dirigirse específicamente a menores ni fomentar el consumo inmoderado de esas bebidas;
+
+f)
+
+queda prohibida la comunicación comercial audiovisual para productos medicinales específicos y tratamientos médicos que solo puedan obtenerse mediante receta en el Estado miembro a cuya jurisdicción esté sujeto el prestador del servicio de comunicación;
+
+g)
+
+las comunicaciones audiovisuales comerciales no podrán producir perjuicio físico, psíquico o moral a los menores; en consecuencia, no incitarán directamente a los menores a la compra o arrendamiento de productos o servicios aprovechando su inexperiencia o credulidad, ni los animarán directamente a que persuadan a sus padres o terceros para que compren los bienes o servicios publicitados, ni explotarán la especial confianza que depositan en sus padres, profesores u otras personas, ni mostrarán sin motivo justificado a menores en situaciones peligrosas.
+
+2.   Las comunicaciones comerciales audiovisuales relativas a bebidas alcohólicas en servicios de comunicación audiovisual a petición, con excepción del patrocinio y el emplazamiento de producto, cumplirán los criterios establecidos en el artículo 22.
+
+3.   Los Estados miembros animarán a que se use la corregulación y se fomente la autorregulación mediante códigos de conducta como dispone el artículo 4 bis, apartado 1, en relación con las comunicaciones comerciales audiovisuales inadecuadas de bebidas alcohólicas. Estos códigos tendrán por objetivo reducir eficazmente la exposición de los menores a las comunicaciones comerciales audiovisuales relativas a bebidas alcohólicas.
+
+4.   Los Estados miembros animarán a que se use la corregulación y se fomente la autorregulación mediante códigos de conducta como dispone el artículo 4 bis, apartado 1, en relación con las comunicaciones comerciales audiovisuales inadecuadas, que acompañen o se incluyan en programas infantiles, de alimentos o bebidas que contengan nutrientes o sustancias con un efecto nutricional o fisiológico, en particular grasas, ácidos grasos trans, sal o sodio y azúcares, de los cuales se desaconseja una ingesta excesiva en la dieta general.
+
+Estos códigos tendrán por objeto reducir eficazmente de la exposición de los niños a las comunicaciones comerciales audiovisuales relativas a esos alimentos y bebidas. Procurarán que dichas comunicaciones comerciales audiovisuales no destaquen las cualidades positivas de sus aspectos nutricionales.
+
+5.   Los Estados miembros y la Comisión podrán fomentar la autorregulación, a los efectos del presente artículo, mediante códigos de conducta de la Unión como dispone el artículo 4 bis, apartado 2.».
+
+14)
+
+El artículo 10 se modifica como sigue:
+
+a)
+
+el apartado 2 se sustituye por el texto siguiente:
+
+«2.   Los servicios de comunicación audiovisual o los programas no podrán estar patrocinados por empresas cuya actividad principal sea la fabricación o venta de cigarrillos y demás productos del tabaco, así como de cigarrillos electrónicos y sus envases de recarga.»;
+
+b)
+
+el apartado 4 se sustituye por el texto siguiente:
+
+«4.   No se patrocinarán los noticiarios ni los programas informativos de actualidad. Los Estados miembros podrán prohibir el patrocinio de los programas infantiles. Los Estados miembros podrán optar por prohibir que se muestre el logotipo de un patrocinador en programas infantiles, documentales y programas religiosos.».
+
+15)
+
+El artículo 11 se sustituye por el texto siguiente:
+
+«Artículo 11
+
+1.   Lo dispuesto en el presente artículo se aplicará solamente a los programas producidos con posterioridad al 19 de diciembre de 2009.
+
+2.   El emplazamiento de producto estará autorizado en todos los servicios de comunicación audiovisual, excepto en los programas de noticias y actualidad, los programas de asuntos del consumidor, los programas religiosos y los programas infantiles.
+
+3.   Los programas que contengan emplazamiento de producto deberán cumplir los requisitos siguientes:
+
+a)
+
+bajo ninguna circunstancia se podrá influir en su contenido ni en la organización de su horario de programación (en el caso de la radiodifusión televisiva) ni en la de su catálogo (en el caso de los servicios de comunicación audiovisual a petición) de una manera que afecte a la responsabilidad e independencia editorial del prestador del servicio de comunicación;
+
+b)
+
+no incitarán directamente a la compra o arrendamiento de bienes o servicios, en particular, mediante referencias de promoción concretas a dichos bienes o servicios;
+
+c)
+
+no darán una prominencia indebida a los productos de que se trate;
+
+d)
+
+se informará claramente a los espectadores de la existencia de emplazamiento de producto mediante una identificación adecuada al principio y al final del programa, así como cuando el programa se reanude tras una pausa publicitaria, con el fin de evitar toda confusión al espectador.
+
+Los Estados miembros podrán no exigir el requisito establecido en la letra d) excepto para los programas producidos o encargados por un prestador del servicio de comunicación o por una empresa filial de este último.
+
+4.   En cualquier caso, los programas no podrán contener emplazamiento de los productos siguientes:
+
+a)
+
+cigarrillos y demás productos del tabaco, así como cigarrillos electrónicos y sus envases de recarga, o emplazamiento de producto de empresas cuya principal actividad sea la fabricación o venta de esos productos;
+
+b)
+
+medicamentos o tratamientos médicos específicos que solo puedan obtenerse mediante receta en el Estado miembro a cuya jurisdicción esté sujeto el prestador del servicio de comunicación.».
+
+16)
+
+Se suprime el título del capítulo IV.
+
+17)
+
+Se suprime el artículo 12.
+
+18)
+
+El artículo 13 se sustituye por el texto siguiente:
+
+«Artículo 13
+
+1.   Los Estados miembros velarán por que los prestadores de servicios de comunicación audiovisual a petición sujetos a su jurisdicción dispongan de un porcentaje de al menos el 30 % de obras europeas en sus catálogos y garanticen la prominencia de dichas obras.
+
+2.   Cuando los Estados miembros exijan a los prestadores de servicios de comunicación sujetos a su jurisdicción una contribución financiera a la producción de obras europeas, en particular mediante inversiones directas en contenidos y aportaciones a fondos nacionales, podrán asimismo exigir a los prestadores de servicios de comunicación dirigidos a audiencias situadas en sus territorios pero establecidos en otros Estados miembros que realicen dichas contribuciones, que deberán ser proporcionadas y no discriminatorias.
+
+3.   En el caso mencionado en el apartado 2, las contribuciones financieras se basarán exclusivamente en los ingresos obtenidos en los Estados miembros de recepción. Si el Estado miembro en que está establecido el prestador impone dicha contribución financiera, tendrá en cuenta las eventuales contribuciones financieras impuestas por los Estados miembros de recepción. Cualquier contribución financiera deberá ajustarse al Derecho de la Unión, en particular a la normativa sobre ayudas estatales.
+
+4.   A más tardar el 19 de diciembre de 2021, y posteriormente cada dos años, los Estados miembros informarán a la Comisión sobre la aplicación de los apartados 1 y 2.
+
+5.   Basándose en la información facilitada por los Estados miembros y en un estudio independiente, la Comisión informará al Parlamento Europeo y al Consejo sobre la aplicación de los apartados 1 y 2, teniendo en cuenta la evolución del mercado, el desarrollo tecnológico y el objetivo de la diversidad cultural.
+
+6.   La obligación impuesta en virtud del apartado 1 y el requisito relativo a los prestadores de servicios de comunicación dirigidos a audiencias de otros Estados miembros establecido en el apartado 2 no se aplicarán a los prestadores de servicios de comunicación con un bajo volumen de negocios o una baja audiencia. Los Estados miembros también podrán dejar de exigir dichas obligaciones o requisitos en los casos en que resulten impracticables o injustificados en razón de la naturaleza o del tema de los servicios de comunicación audiovisual.
+
+7.   La Comisión elaborará directrices relativas al cálculo de la proporción de obras europeas a que se refiere el apartado 1 y en lo que respecta a la definición de los términos de baja audiencia y bajo volumen de negocios que figuran en el apartado 6, previa consulta con el Comité de contacto.».
+
+19)
+
+En el artículo 19, el apartado 2 se sustituye por el texto siguiente:
+
+«2.   Se permitirán los anuncios aislados de publicidad televisiva y de televenta en el caso de los acontecimientos deportivos. Los anuncios aislados de publicidad televisiva y de televenta constituirán la excepción, salvo en el caso de las transmisiones de acontecimientos deportivos.».
+
+20)
+
+En el artículo 20, el apartado 2 se sustituye por el texto siguiente:
+
+«2.   La transmisión de películas realizadas para la televisión (con exclusión de las series, los seriales y los documentales), obras cinematográficas y programas informativos podrá ser interrumpida por publicidad televisiva y por televenta una vez por cada período previsto de treinta minutos como mínimo. La transmisión de programas infantiles podrá ser interrumpida por publicidad televisiva una vez por cada período previsto de treinta minutos como mínimo, siempre y cuando la duración prevista del programa sea superior a treinta minutos. Se prohíbe la transmisión de televenta durante los programas infantiles. No se insertará publicidad televisiva ni televenta durante los servicios religiosos.».
+
+21)
+
+El artículo 23 se sustituye por el texto siguiente:
+
+«Artículo 23
+
+1.   La proporción de anuncios de publicidad televisiva y de anuncios de televenta en el período comprendido entre las 6.00 y las 18.00 horas no excederá del 20 % de dicho período. La proporción de anuncios de publicidad televisiva y de anuncios de televenta en el período comprendido entre las 18.00 y las 24.00 horas no excederá del 20 % de dicho período.
+
+2.   El apartado 1 no se aplicará:
+
+a)
+
+a los anuncios realizados por el organismo de radiodifusión televisiva en relación con sus propios programas y los productos accesorios directamente derivados de dichos programas, o con los programas y servicios de comunicación audiovisual procedentes de otras entidades pertenecientes al mismo grupo de radiodifusión;
+
+b)
+
+a los anuncios de patrocinio;
+
+c)
+
+al emplazamiento de producto;
+
+d)
+
+a los marcos neutrales entre el contenido editorial y los anuncios de publicidad televisiva o de televenta, y entre los distintos anuncios.».
+
+22)
+
+Se suprime el capítulo VIII.
+
+23)
+
+Se inserta el capítulo siguiente:
+
+«CAPÍTULO IX BIS
+
+DISPOSICIONES APLICABLES A LOS SERVICIOS DE INTERCAMBIO DE VÍDEOS A TRAVÉS DE PLATAFORMA
+
+Artículo 28 bis
+
+1.   A los efectos de la presente Directiva, el prestador de plataforma de intercambio de vídeos establecido en el territorio de un Estado miembro en el sentido del artículo 3, apartado 1, de la Directiva 2000/31/CE, estará sujeto a la jurisdicción de dicho Estado miembro.
+
+2.   El prestador de plataforma de intercambio de vídeos que no esté establecido en el territorio de un Estado miembro de conformidad con el apartado 1 se considerará establecido en el territorio de un Estado miembro a efectos de la presente Directiva cuando dicho prestador:
+
+a)
+
+tenga una empresa matriz o una empresa filial establecida en el territorio de ese Estado miembro, o
+
+b)
+
+forme parte de un grupo y otra empresa de ese grupo esté establecida en el territorio de ese Estado miembro.
+
+A efectos del presente artículo se entenderá por:
+
+a)   “sociedad matriz”: una sociedad que controla una o varias empresas filiales;
+
+b)   “empresa filial”: una empresa controlada por una sociedad matriz, incluidas las empresas filiales de una empresa matriz de mayor jerarquía;
+
+c)   “grupo”: una empresa matriz, todas sus empresas filiales y todas las demás empresas que tengan vínculos organizativos, económicos y jurídicos con ellas.
+
+3.   A efectos de la aplicación del apartado 2, cuando la empresa matriz, la empresa filial o las demás empresas del grupo estén establecidas en distintos Estados miembros, se considerará que el prestador de plataforma de intercambio de vídeos está establecido en el Estado miembro en el que esté establecida su empresa matriz o, en su defecto, en el Estado miembro en el que esté establecida su empresa filial o, en su defecto, en el Estado miembro en el que esté establecida la otra empresa del grupo.
+
+4.   A efectos de la aplicación del apartado 3, cuando existan varias empresas filiales y cada una de ellas esté establecida en un Estado miembro diferente, se considerará que el prestador de plataforma de intercambio de vídeos está establecido en el Estado miembro en el que una de las empresas filiales inició su actividad en primer lugar, siempre que mantenga una relación estable y efectiva con la economía de dicho Estado miembro.
+
+Cuando existan varias otras empresas que formen parte del grupo y cada una de ellas esté establecida en un Estado miembro diferente, se considerará que el prestador de plataforma de intercambio de vídeos está establecido en el Estado miembro en el que una de dichas empresas haya iniciado su actividad en primer lugar, siempre que mantenga una relación estable y efectiva con la economía de dicho Estado miembro.
+
+5.   A los efectos de la presente Directiva, el artículo 3 y los artículos 12 a 15 de la Directiva 2000/31/CE se aplicarán a los prestadores de plataformas de intercambio de vídeos que se consideren establecidos en un Estado miembro de conformidad con el apartado 2 del presente artículo.
+
+6.   Los Estados miembros establecerán y mantendrán actualizada la lista de los prestadores de plataformas de intercambio de vídeos establecidos en su territorio o que se consideren establecidos en su territorio e indicarán en cuáles de los criterios establecidos en los apartados 1 a 4 se basa su jurisdicción. Los Estados miembros comunicarán esa lista, incluyendo sus actualizaciones, a la Comisión.
+
+La Comisión velará por que dichas listas estén disponibles en una base de datos centralizada. En caso de incoherencia entre las listas, la Comisión se pondrá en contacto con los Estados miembros correspondientes para encontrar una solución. La Comisión velará por que las autoridades u organismos nacionales reguladores tengan acceso a esa base de datos. La Comisión hará pública la información de la base de datos.
+
+7.   Cuando, al aplicar el presente artículo, los Estados miembros interesados no lleguen a un acuerdo sobre qué Estado miembro tiene jurisdicción, someterán la cuestión a la Comisión sin dilaciones indebidas. La Comisión podrá solicitar al ERGA que emita un informe sobre la cuestión, de conformidad con el artículo 30 ter, apartado 3, letra d). El ERGA emitirá el referido informe en un plazo de quince días laborables a partir de la presentación de la solicitud de la Comisión. La Comisión mantendrá al Comité de contacto debidamente informado.
+
+Artículo 28 ter
+
+1.   Sin perjuicio de lo dispuesto en los artículos 12 a 15 de la Directiva 2000/31/CE, los Estados miembros velarán por que los prestadores de plataformas de intercambio de vídeos sujetos a su jurisdicción adopten las medidas adecuadas para proteger:
+
+a)
+
+a los menores de los programas, los vídeos generados por usuarios y las comunicaciones comerciales audiovisuales que puedan perjudicar su desarrollo físico, mental o moral, de conformidad con el artículo 6 bis, apartado 1;
+
+b)
+
+al público en general de los programas, los vídeos generados por usuarios y las comunicaciones comerciales audiovisuales que inciten a la violencia o al odio dirigidos contra un grupo de personas o un miembro de un grupo por cualquiera de los motivos mencionados en el artículo 21 de la Carta;
+
+c)
+
+al público en general de los programas, los vídeos generados por usuarios y las comunicaciones comerciales audiovisuales que incluyan contenidos cuya difusión constituya una infracción penal según el Derecho de la Unión, a saber, la provocación pública a la comisión de un delito de terrorismo que se regula en el artículo 5 de la Directiva (UE) 2017/541, infracciones relacionadas con la pornografía infantil reguladas en el artículo 5, apartado 4, de la Directiva 2011/93/UE del Parlamento Europeo y del Consejo (*1) y delitos de carácter racista y xenófobo regulados en el artículo 1 de la Decisión marco 2008/913/JAI.
+
+2.   Los Estados miembros velarán por que los prestadores de plataformas de intercambio de vídeos sujetos a su jurisdicción cumplan los requisitos establecidos en el artículo 9, apartado 1, en lo que se refiere a las comunicaciones comerciales audiovisuales que sean comercializadas, vendidas u organizadas por dichos prestadores.
+
+Los Estados miembros velarán por que los prestadores de plataformas de intercambio de vídeos sujetos a su jurisdicción tomen las medidas adecuadas para el cumplimiento de los requisitos establecidos en el artículo 9, apartado 1, en lo que se refiere a las comunicaciones comerciales audiovisuales que no sean comercializadas, vendidas u organizadas por dichos prestadores, teniendo en cuenta el control limitado que ejercen dichas plataformas de intercambio de vídeos sobre esas comunicaciones comerciales audiovisuales.
+
+Los Estados miembros velarán por que los prestadores de plataformas de intercambio de vídeos informen claramente a los usuarios cuando los programas y vídeos generados por usuarios contengan comunicaciones comerciales audiovisuales, siempre que dichas comunicaciones hayan sido declaradas con arreglo al apartado 3, párrafo tercero, letra c), o que el prestador tenga conocimiento de ese hecho.
+
+Los Estados miembros animarán a que se use la corregulación y se fomente la autorregulación mediante códigos de conducta elaborados con arreglo a lo dispuesto en el artículo 4 bis, apartado 1, que tienen por objeto reducir eficazmente la exposición de los niños a las comunicaciones comerciales audiovisuales relativas a alimentos y bebidas que contengan nutrientes o sustancias con un efecto nutricional o fisiológico, en particular grasas, ácidos grasos trans, sal o sodio y azúcares, de los cuales se desaconseja una ingesta excesiva en la dieta general. Estos códigos dispondrán que dichas comunicaciones comerciales audiovisuales no destaquen las cualidades positivas de sus aspectos nutricionales.
+
+3.   A efectos de los apartados 1 y 2, las medidas adecuadas se determinarán a la luz de la naturaleza del contenido en cuestión, de los perjuicios que puede ocasionar, de las características de la categoría de personas que debe protegerse, así como de los derechos e intereses legítimos en juego, incluidos los de los prestadores de plataformas de intercambio de vídeos y los usuarios que hayan creado o subido el contenido, así como del interés público.
+
+Los Estados miembros velarán por que los prestadores de plataformas de intercambio de vídeos sujetos a su jurisdicción apliquen esas medidas. Dichas medidas deberán ser viables y proporcionadas, teniendo en cuenta el tamaño del servicio de intercambio de vídeos a través de plataforma y la naturaleza del servicio que se presta. Dichas medidas no derivarán en medidas de control previo ni en el filtrado de los contenidos subidos que no se ajusten al artículo 15 de la Directiva 2000/31/CE. A los efectos de la protección de los menores dispuesta en el apartado 1, letra a), del presente artículo, los contenidos más nocivos estarán sujetos a las medidas más estrictas de control de acceso.
+
+Dichas medidas consistirán, según corresponda, en:
+
+a)
+
+incluir y poner en práctica en las cláusulas de condiciones del servicio de las plataformas de intercambio de vídeos los requisitos mencionados en el apartado 1;
+
+b)
+
+incluir y poner en práctica en las cláusulas de condiciones del servicio de las plataformas de intercambio de vídeos los requisitos establecidos en el artículo 9, apartado 1, para las comunicaciones comerciales audiovisuales que no sean comercializadas, vendidas u organizadas por los prestadores de plataformas de intercambio de vídeos;
+
+c)
+
+disponer de una funcionalidad para que los usuarios que suban vídeos generados por usuarios declaren si a su entender, o hasta donde cabe razonablemente esperar que llega su entendimiento, dichos vídeos contienen comunicaciones audiovisuales comerciales;
+
+d)
+
+establecer y operar mecanismos transparentes y de fácil uso que permitan a los usuarios de plataformas de intercambio de vídeos notificar o indicar al correspondiente prestador de plataforma de intercambio de vídeos los contenidos a que se refiere el apartado 1 ofrecidos en su plataforma;
+
+e)
+
+establecer y operar sistemas a través de los cuales los prestadores de plataformas de intercambio de vídeos expliquen a los usuarios de dichas plataformas qué curso se ha dado a las notificaciones e indicaciones a que se refiere la letra d);
+
+f)
+
+establecer y operar sistemas de verificación de la edad para los usuarios de las plataformas de intercambio de vídeos con respecto a los contenidos que puedan perjudicar el desarrollo físico, mental o moral de los menores;
+
+g)
+
+establecer y aplicar sistemas de fácil uso que permitan a los usuarios de las plataformas de intercambio de vídeos calificar los contenidos a que se refiere el apartado 1;
+
+h)
+
+facilitar sistemas de control parental que estén controlados por el usuario final con respecto a los contenidos que puedan perjudicar el desarrollo físico, mental o moral de los menores;
+
+i)
+
+establecer y aplicar procedimientos transparentes, eficaces y de fácil uso para el tratamiento y la resolución de reclamaciones de usuarios a los prestadores de plataformas de intercambio de vídeos, en relación con la aplicación de las medidas a que se refieren las letras d) a h);
+
+j)
+
+facilitar medidas y herramientas eficaces de alfabetización mediática y poner en conocimiento de los usuarios la existencia de esas medidas y herramientas.
+
+Los datos personales de menores recogidos o generados de otro modo por prestadores de plataformas de intercambio de vídeos de conformidad con el párrafo tercero, letras f) y h), no podrán ser tratados con fines comerciales, como, por ejemplo, mercadotecnia directa, elaboración de perfiles o publicidad personalizada basada en el comportamiento.
+
+4.   A efectos de la aplicación de las medidas a que se refieren los apartados 1 y 3 del presente artículo, los Estados miembros animarán a que se use la corregulación como dispone el artículo 4 bis, apartado 1.
+
+5.   Los Estados miembros establecerán los mecanismos necesarios para evaluar la idoneidad de las medidas a que se refiere el apartado 3 adoptadas por los prestadores de plataformas de intercambio de vídeos. Los Estados miembros confiarán la evaluación de dichas medidas a las autoridades u organismos reguladores nacionales.
+
+6.   Los Estados miembros podrán imponer a los prestadores de plataformas de intercambio de vídeos medidas más detalladas o estrictas que las mencionadas en el apartado 3 del presente artículo. Cuando adopten tales medidas, los Estados miembros cumplirán los requisitos establecidos por el Derecho de la Unión aplicable, tales como los establecidos por los artículos 12 a 15 de la Directiva 2000/31/CE o el artículo 25 de la Directiva 2011/93/UE.
+
+7.   Los Estados miembros velarán por que existan mecanismos de resolución extrajudicial para la solución de litigios entre los usuarios y los prestadores de plataformas de intercambio de vídeos relativos a la aplicación de los apartados 1 y 3. Tales mecanismos permitirán la resolución imparcial de los litigios y no privarán al usuario de la protección jurídica que reconozca el Derecho nacional.
+
+8.   Los Estados miembros velarán por que los usuarios puedan hacer valer sus derechos ante los tribunales en relación con los prestadores de plataformas de intercambio de vídeos, de conformidad con los apartados 1 y 3.
+
+9.   La Comisión instará a los prestadores de plataformas de intercambio de vídeos a que intercambien las mejores prácticas en materia de códigos de conducta para la corregulación a que se refiere el apartado 4.
+
+10.   Los Estados miembros y la Comisión podrán fomentar la autorregulación mediante los códigos de conducta de la Unión a que se refiere el artículo 4 bis, apartado 2.
+
+(*1)  Directive 2011/93/EU of the European Parliament and of the Council of 13 December 2011 on combating the sexual abuse and sexual exploitation of children and child pornography, and replacing Council Framework Decision 2004/68/JHA (OJ L 335, 17.12.2011, p. 1).»;"
+
+24)
+
+El título del capítulo XI se sustituye por el texto siguiente:
+
+«
+AUTORIDADES Y ORGANISMOS REGULADORES DE LOS ESTADOS MIEMBROS
+».
+
+25)
+
+El artículo 30 se sustituye por el texto siguiente:
+
+«Artículo 30
+
+1.   Cada Estado miembro designará una o más autoridades u organismos reguladores nacionales o ambos. Los Estados miembros velarán por que sean jurídicamente distintos de los órganos gubernamentales y funcionalmente independientes de sus respectivos gobiernos o de cualquier otra entidad pública o privada. Esta circunstancia se entenderá sin perjuicio de la posibilidad de que los Estados miembros establezcan autoridades reguladoras que supervisen varios sectores distintos.
+
+2.   Los Estados miembros velarán por que las autoridades u organismos reguladores nacionales ejerzan sus competencias con imparcialidad y transparencia y con arreglo a los objetivos de la presente Directiva, en particular el pluralismo de los medios de comunicación, la diversidad cultural y lingüística, la protección de los consumidores, la accesibilidad, la no discriminación, el correcto funcionamiento del mercado interior y la promoción de la competencia leal.
+
+Las autoridades u organismos reguladores nacionales no solicitarán ni aceptarán instrucciones de ningún otro organismo en relación con el ejercicio de las tareas que les asigne la normativa nacional por la que se aplique el Derecho de la Unión. Esto no impedirá su supervisión de conformidad con el Derecho constitucional nacional.
+
+3.   Los Estados miembros velarán por que las competencias y facultades de las autoridades u organismos reguladores nacionales, así como los medios por los que rendirán cuentas, estén claramente definidos por la ley.
+
+4.   Los Estados miembros velarán por que las autoridades u organismos reguladores nacionales dispongan de adecuados recursos financieros y humanos y potestades coercitivas para desempeñar sus funciones con eficacia y contribuir a la labor del ERGA. Los Estados miembros velarán por que se proporcione a las autoridades u organismos reguladores nacionales sus propios presupuestos anuales, que se harán públicos.
+
+5.   Los Estados miembros fijarán en el Derecho nacional las condiciones y procedimientos para el nombramiento y cese de los responsables de las autoridades u organismos reguladores nacionales o de los miembros del órgano colegiado que desempeñe dicha función, incluida la duración del mandato. Los procedimientos serán transparentes y no discriminatorios, y garantizarán el grado de independencia requerido. El responsable de una autoridad u organismo regulador nacional o los miembros del órgano colegiado que desempeñe dicha función dentro de una autoridad u organismo regulador nacional podrán ser cesados en caso de que dejen de cumplir las condiciones requeridas para el ejercicio de sus funciones, establecidas de antemano a nivel nacional. Cualquier decisión de cese deberá estar debidamente justificada, se notificará previamente y se hará pública.
+
+6.   Los Estados miembros velarán por que existan vías de recurso eficaces a nivel nacional. El órgano de recurso, que podrá ser un tribunal, será independiente de las partes interesadas en el recurso.
+
+En tanto no se resuelva el recurso, la decisión de la autoridad u organismo regulador nacional seguirá siendo válida, salvo que se concedan medidas cautelares con arreglo al Derecho nacional.».
+
+26)
+
+Se insertan los artículos siguientes:
+
+«Artículo 30 bis
+
+1.   Los Estados miembros velarán por que las autoridades u organismos reguladores nacionales tomen las medidas necesarias para intercambiar mutuamente y con la Comisión la información necesaria para la aplicación de la presente Directiva, en particular sus artículos 2, 3 y 4.
+
+2.   En el contexto del intercambio de información en virtud del apartado 1, cuando las autoridades u organismos reguladores nacionales reciban información de un prestador de servicios de comunicación sujeto a su jurisdicción de que prestará un servicio total o principalmente dirigido a la audiencia de otro Estado miembro, la autoridad u organismo regulador nacional competente del Estado miembro que tenga jurisdicción informará a la autoridad u organismo regulador nacional del Estado miembro de recepción.
+
+3.   Si la autoridad u organismo regulador de un Estado miembro a cuyo territorio se dirige un prestador de servicios de comunicación que está sujeto a la jurisdicción de otro Estado miembro envía una solicitud relativa a las actividades de dicho prestador a la autoridad u organismo regulador del Estado miembro que tiene jurisdicción sobre él, esta última autoridad u organismo regulador hará todo lo posible para dar curso a la solicitud en un plazo de dos meses, sin perjuicio de otros plazos más estrictos aplicables en virtud de la presente Directiva. Cuando así se le solicite, la autoridad u organismo regulador del Estado miembro de recepción proporcionará a la autoridad u organismo regulador del Estado miembro a cuya jurisdicción esté sujeto el prestador toda la información que le pueda ayudar a dar curso a la solicitud.
+
+Artículo 30 ter
+
+1.   Queda establecido el Grupo de Entidades Reguladoras Europeas para los Servicios de Comunicación Audiovisual (ERGA).
+
+2.   El ERGA estará integrado por representantes de las autoridades u organismos reguladores nacionales en el ámbito de los servicios de comunicación audiovisual que tengan la responsabilidad primaria de la supervisión de los servicios de comunicación audiovisual o, en los casos en que no exista una autoridad u organismo regulador nacional, por otros representantes elegidos a través de sus propios procedimientos. Participará en las reuniones del ERGA un representante de la Comisión.
+
+3.   Los cometidos del ERGA serán los siguientes:
+
+a)
+
+prestar asesoramiento técnico a la Comisión en:
+
+—
+
+su misión de garantizar la aplicación coherente de la presente Directiva en todos los Estados miembros,
+
+—
+
+cuestiones relacionadas con los servicios de comunicación audiovisual dentro de sus competencias;
+
+b)
+
+intercambiar experiencias y mejores prácticas sobre la aplicación del marco regulador de los servicios de comunicación audiovisual, en particular en lo que respecta a la accesibilidad y a la alfabetización mediática;
+
+c)
+
+cooperar y facilitar a sus miembros la información necesaria para la aplicación de la presente Directiva, en particular en lo que se refiere a los artículos 3, 4 y 7;
+
+d)
+
+emitir informes, a petición de la Comisión, sobre los aspectos técnicos y fácticos de las cuestiones que figuran en el artículo 2, apartado 5 quater, el artículo 3, apartados 2 y 3, el artículo 4, apartado 4, letra c), y el artículo 28 bis, apartado 7.
+
+4.   El ERGA adoptará su reglamento interno.».
+
+27)
+
+El artículo 33 se sustituye por el texto siguiente:
+
+«Artículo 33
+
+La Comisión supervisará la aplicación de la presente Directiva por los Estados miembros.
+
+A más tardar el 19 de diciembre de 2022, y posteriormente cada tres años, la Comisión presentará al Parlamento Europeo, al Consejo y al Comité Económico y Social Europeo un informe sobre la aplicación de la presente Directiva.
+
+A más tardar el 19 de diciembre de 2026, la Comisión presentará al Parlamento Europeo y al Consejo una evaluación posterior del impacto de la presente Directiva y su valor añadido, acompañada en su caso por propuestas para su revisión.
+
+La Comisión mantendrá debidamente informados al Comité de contacto y al ERGA en lo que atañe al trabajo y actividades del otro.
+
+La Comisión garantizará que se comunique al Comité de contacto y al ERGA la información recibida de los Estados miembros relativa a cualquier medida que estos hayan adoptado en los ámbitos coordinados por la presente Directiva.».
+
+28)
+
+Se inserta el artículo siguiente:
+
+«Artículo 33 bis
+
+1.   Los Estados miembros promoverán y tomarán medidas para el desarrollo de las capacidades de alfabetización mediática.
+
+2.   A más tardar el 19 de diciembre de 2022, y posteriormente cada tres años, los Estados miembros informarán a la Comisión acerca de la aplicación del apartado 1.
+
+3.   La Comisión, previa consulta al Comité de contacto, emitirá orientaciones sobre el ámbito de esos informes.».
+
+Artículo 2
+
+1.   Los Estados miembros pondrán en vigor a más tardar el 19 de septiembre de 2020 las disposiciones legales, reglamentarias y administrativas necesarias para dar cumplimiento a lo establecido en la presente Directiva. Comunicarán inmediatamente a la Comisión el texto de dichas disposiciones.
+
+Cuando los Estados miembros adopten dichas disposiciones, estas incluirán una referencia a la presente Directiva o irán acompañadas de dicha referencia en su publicación oficial. Los Estados miembros establecerán las modalidades de la mencionada referencia.
+
+2.   Los Estados miembros comunicarán a la Comisión el texto de las principales disposiciones de Derecho interno que adopten en el ámbito regulado por la presente Directiva.
+
+Artículo 3
+
+La presente Directiva entrará en vigor a los veinte días de su publicación en el Diario Oficial de la Unión Europea.
+
+Artículo 4
+
+Los destinatarios de la presente Directiva son los Estados miembros.
+
+Hecho en Estrasburgo, el 14 de noviembre de 2018.
+
+Por el Parlamento Europeo
+
+El Presidente
+
+A. TAJANI
+
+Por el Consejo
+
+La Presidenta
+
+K. EDTSTADLER
+
+(1)  
+DO C 34 de 2.2.2017, p. 157.
+
+(2)  
+DO C 185 de 9.6.2017, p. 41.
+
+(3)  Posición del Parlamento Europeo de 2 de octubre de 2018 (pendiente de publicación en el Diario Oficial) y Decisión del Consejo de 6 de noviembre de 2018.
+
+(4)  Directiva 89/552/CEE del Consejo, de 3 de octubre de 1989, sobre la coordinación de determinadas disposiciones legales, reglamentarias y administrativas de los Estados Miembros relativas al ejercicio de actividades de radiodifusión televisiva (DO L 298 de 17.10.1989, p. 23).
+
+(5)  Directiva 2010/13/UE del Parlamento Europeo y del Consejo, de 10 de marzo de 2010, sobre la coordinación de determinadas disposiciones legales, reglamentarias y administrativas de los Estados miembros relativas a la prestación de servicios de comunicación audiovisual (Directiva de servicios de comunicación audiovisual) (DO L 95 de 15.4.2010, p. 1).
+
+(6)  Directiva 2007/65/CE del Parlamento Europeo y del Consejo, de 11 de diciembre de 2007, por la que se modifica la Directiva 89/552/CEE del Consejo sobre la coordinación de determinadas disposiciones legales, reglamentarias y administrativas de los Estados miembros relativas al ejercicio de actividades de radiodifusión televisiva (DO L 332 de 18.12.2007, p. 27).
+
+(7)  Decisión marco 2008/913/JAI del Consejo, de 28 de noviembre de 2008, relativa a la lucha contra determinadas formas y manifestaciones de racismo y xenofobia mediante el Derecho penal (DO L 328 de 6.12.2008, p. 55).
+
+(8)  Directiva (UE) 2017/541 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017, relativa a la lucha contra el terrorismo y por la que se sustituye la Decisión marco 2002/475/JAI del Consejo y se modifica la Decisión 2005/671/JAI del Consejo (DO L 88 de 31.3.2017, p. 6).
+
+(9)  Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) (DO L 119 de 4.5.2016, p. 1).
+
+(10)  Reglamento (UE) 2015/2120 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2015, por el que se establecen medidas en relación con el acceso a una internet abierta y se modifica la Directiva 2002/22/CE relativa al servicio universal y los derechos de los usuarios en relación con las redes y los servicios de comunicaciones electrónicas y el Reglamento (UE) n.o 531/2012 relativo a la itinerancia en las redes públicas de comunicaciones móviles en la Unión (DO L 310 de 26.11.2015, p. 1).
+
+(11)  Directiva 2000/31/CE del Parlamento Europeo y del Consejo, de 8 de junio de 2000, relativa a determinados aspectos jurídicos de los servicios de la sociedad de la información, en particular el comercio electrónico en el mercado interior (Directiva sobre el comercio electrónico) (DO L 178 de 17.7.2000, p. 1).
+
+(12)  Directiva 2005/29/CE del Parlamento Europeo y del Consejo, de 11 de mayo de 2005, relativa a las prácticas comerciales desleales de las empresas en sus relaciones con los consumidores en el mercado interior, que modifica la Directiva 84/450/CEE del Consejo, las Directivas 97/7/CE, 98/27/CE y 2002/65/CE del Parlamento Europeo y del Consejo y el Reglamento (CE) n.o 2006/2004 del Parlamento Europeo y del Consejo («Directiva sobre las prácticas comerciales desleales») (DO L 149 de 11.6.2005, p. 22).
+
+(13)  Directiva 2003/33/CE del Parlamento Europeo y del Consejo, de 26 de mayo de 2003, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de publicidad y de patrocinio de los productos del tabaco (DO L 152 de 20.6.2003, p. 16).
+
+(14)  Directiva 2014/40/UE del Parlamento Europeo y del Consejo, de 3 de abril de 2014, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de fabricación, presentación y venta de los productos del tabaco y los productos relacionados y por la que se deroga la Directiva 2001/37/CE (DO L 127 de 29.4.2014, p. 1).
+
+(15)  Decisión C(2014) 462 final de la Comisión, de 3 de febrero de 2014, por la que se establece un Grupo de entidades reguladoras europeas para los servicios de los medios de comunicación audiovisuales.
+
+(16)  
+DO C 369 de 17.12.2011, p. 14.

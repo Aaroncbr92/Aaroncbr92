@@ -1,0 +1,251 @@
+Manual de Estilo de RTVE — 4. Medios Interactivos
+https://manualdeestilo.rtve.es/medios-interactivos/
+Leído el 2 de septiembre de 2026.
+
+AVISO SOBRE LA RUTA: el programa da la dirección en **http**, y por ahí el
+sitio responde 403. No es el servidor: es la política de salida de este
+entorno, que solo deja pasar https. Con **https** la misma dirección responde
+200 y sirve el manual entero. El manual está en ocho páginas, una por
+capítulo, y aquí va cada una en su fichero.
+
+Se recorta la navegación del portal y se conserva el cuerpo.
+
+0. Inicio
+1. CRTVE
+2. TVE
+3. RNE
+4. Medios Interactivos
+5. Cuestiones Sensibles
+6. El Lenguaje
+7. Anexos
+Estas normas y recomendaciones son de obligado cumplimiento tanto para los profesionales de Medios Interactivos de RTVE como para el resto de profesionales de la Corporación que colaboren o elaboren contenidos en cualquier ámbito informativo o de entretenimiento para las diferentes webs y dispositivos interactivos.
+4.1. El lenguaje informativo en los medios interactivos
+4.2. Acceso a las informaciones de RTVE a través de otras webs y pantallas
+4.3. Características fundamentales de la información en RTVE.ES
+4.4 El enlace
+4.5. La estructura de la noticia
+4.6. La última hora
+4.7. La participación
+4.1. El lenguaje informativo en los medios interactivos 
+Volver al índice
+El lenguaje multimedia, es decir, la combinación de texto, vídeos, audios, fotos, aplicaciones e interacción con los usuarios marca la forma de contar las noticias en los medios interactivos.
+Para desarrollar su labor informativa, iRTVE cuenta con los contenidos audiovisuales procedentes de TVE y RNE, así como con los elaborados por su propia redacción.
+La prioridad informativa de los profesionales de iRTVE será contar lo antes posible un hecho considerado noticioso. La información se irá construyendo en colaboración con los equipos informativos de TVE y RNE, enriqueciendo y publicando conforme se vayan conociendo los hechos.
+La velocidad del medio no impide la primera obligación de todo periodista en RTVE: confirmar la veracidad de aquello que se va a contar.
+Además de contar la última hora, el periodista de rtve.es deberá ofrecer todos los elementos que faciliten el análisis y la comprensión de la información por parte de los usuarios.
+No sólo tendrá que ofrecer el qué de la noticia sino también los porqués y elegir en cada momento la mejor forma para contarlo: con texto, imagen, sonido, mapas o una combinación de todo ello.
+El informador debe saber que al otro lado de las múltiples pantallas a través de las cuales se sirve su información hay un ciudadano activo que quiere participar en la información, que la comparte con otros, que opina y que puede aportar elementos interesantes para la confección de la noticia. En general, el usuario de medios interactivos utiliza los contenidos de formas muy diferentes a las que hasta ahora se hacía en los medios tradicionales.
+Los usuarios mantienen una actitud de urgencia ante la pantalla. Quieren informarse cuanto antes de lo esencial de una noticia y deciden por sí mismos cuándo y cuánto quieren profundizar.
+Además, una misma información podrá ser consumida en diversas pantallas: ordenador, móvil, videoconsola, televisión, etc. y deberá estar adaptada a cada una de ellas.
+Cada una de las piezas que componen una información (textos, vídeos, audios, mapas, fotos, infografías, enlaces, etc.) debe poder consultarse de forma independiente y tener sentido e interés por sí mismas, ya que son susceptibles de ser enlazadas por buscadores y otras webs por separado.
+4.2. Acceso a las informaciones de RTVE a través de otras webs y pantallas 
+Volver al índice
+Los usuarios acceden a nuestra información tanto desde la portada de rtve.es como a través de buscadores, redes sociales, blogs y otras páginas web.
+Los periodistas de RTVE trabajan siempre para personas; por ello hay que pensar tanto en facilitar la vida de los ciudadanos que acceden a nuestras noticias a través de una de nuestras portadas como a los que entran a través de un buscador u otra página web.
+En rtve.es se podrán realizar dos titulares por información, uno para la noticia que deberá ser descriptivo de lo más importante de la información, para facilitar su aparición en buscadores, y otro, para la portada, que será atractivo y buscará llamar la atención del internauta sobre la información.
+Se evitarán aquellos lenguajes de programación que dificulten el enlace desde otras webs o la accesibilidad de los buscadores, puesto que éstos suponen una ventana esencial en Internet para el acceso a las informaciones y contenidos de RTVE.
+Hay que facilitar la labor de los buscadores a través de la correcta información y documentación de los elementos audiovisuales con textos y tags.
+4.3. Características fundamentales de la información en RTVE.ES 
+Volver al índice
+La web de RTVE, por su propia naturaleza, da especial relevancia al contenido audiovisual. No obstante, en internet, el texto sigue siendo el hilo conductor de la navegación.
+Internet es multimedia, lo que permite elegir en cada momento el formato más adecuado para contar una historia.
+4.3.1 Características fundamentales de los textos en Internet.
+Deberán captar el interés del usuario desde el titular y la entradilla con un lenguaje directo y riguroso, así como con enlaces relacionados, vídeos, audios y otros elementos multimedia.
+Los lectores escanean la pantalla, por lo que la información debe ser concisa y los párrafos, cortos. Aunque internet es infinito, la paciencia del internauta no.
+La concatenación de adjetivos y la excesiva utilización de subordinadas sólo demuestra la impericia del periodista. Una idea por párrafo es suficiente.
+La selección de enlaces internos y externos es tan importante como la información producida. El periodista de rtve.es los cuidará especialmente.
+Las informaciones enInternet son accesibles desde cualquier lugar del mundo y en cualquier momento, por lo que habrá que contextualizarlas para que sean inteligibles por todos los usuarios, vengan del país que vengan.
+Se procurará la inclusión de documentos originales para permitir profundizar en la información (ejemplo: sentencias o leyes a las que se refiera la noticia) en texto o audiovisual.
+4.3.2 Características fundamentales de vídeos, audios en rtve.es
+ El vídeo y el audio en rtve.es puede ser bien el formato único elegido para contar una noticia o bien piezas que apoyan una información compuesta por otros elementos.
+Los vídeos y audios incluidos en una noticia preferiblemente ofrecerán el corte o documento concreto que ilustra y complementa a los demás elementos de la información.
+Podrán ser videos emitidos por TVE y audios de RNE o elaborados por los profesionales de Medios Interactivos.
+Antes de usar videos que circulan por internet sobre hechos noticiosos se comprobará su autenticidad.
+Se evitarán los videos de recurso.
+4.3.3 Características fundamentales de las fotografías en rtve.es:
+Deberán estar bien tratadas pero no podrán manipularse en ningún caso, ni siquiera invertirse.
+La foto contará con un pie informativo y conciso y estará firmada. En el caso de fotogalerías los pies informativos podrán ser más extensos. Si se utilizan fotos de archivo se hará constar, también en portada.
+Se velarán los rostros de los Cuerpos y Fuerzas de Seguridad del Estado y detenidos menores de edad.
+4.4 El enlace 
+Volver al índice
+Seleccionar y recomendar aquellas webs que documentan, profundizan y completan una información es parte del trabajo del periodista.
+Tanto los enlaces internos como externos aparecerán en el cuerpo de la noticia o en el área específica destinada a enlaces externos o noticias relacionadas. Estas últimas se refieren siempre a noticias de rtve.es
+• Deberá darse crédito a la información procedente de otro medio o web no sólo citando al medio, sino enlazándolo directamente. En estos casos no se realizará enlace al medio en genérico sino a la noticia específica. Ejemplo: una noticia del diario The Guardian de la que nos hacemos eco irá enlazada a la noticia concreta, no al medio general. También será enlazado si es noticia por sí mismo.
+• Es preferible enlazar a webs en castellano, pero se podrá hacer enlaces a medios en otros idiomas.
+• Los enlaces a documentos que no sean HTML (pdf, vídeos, etc.) deberán también especificarse (ejemplo: (pdf)).
+• El profesional de rtve.es deberá comprobar fehacientemente que el enlace seleccionado y publicado corresponde con la información.
+4.4.1. Tipos de enlaces
+• Internos. Remiten a otros contenidos de nuestra web.
+• Externos. Conducen a otras páginas web para proporcionar al usuario de rtve.es una información extra con enlaces interesantes a otros medios, instituciones, organismos, etc…
+• Tanto los enlaces internos como externos a parecerán en el cuerpo de la noticia o en el área específica destinada e enlaces externos o noticias relacionadas. Estas últimas se refieren siempre a noticias de rtve.es.
+4.4.2. Cómo enlazar
+• No hay que incluir enlaces que no aporten nada.
+• Hay que subrayar las palabras adecuadas para que el lector sepa dónde va a ir antes de pinchar.
+• Los enlaces no tienen que ser excesivamente largos para no manchar el texto con el subrayado.
+4.5. La estructura de la noticia 
+Volver al índice
+Por noticia entenderemos cualquier documento informativo publicado en la web, con independencia del género periodístico al que pertenezca.
+Los párrafos de la noticia deben ser cortos y habrá que evitar en lo posible las informaciones muy extensas. Es preferible dividir la información en varias capas de profundidad a las que el usuario pueda ir accediendo si está interesado.
+Es mejor abusar del punto y aparte que de las oraciones subordinadas.
+La noticia se crea habitualmente para su publicación inmediata y se refiere por regla general a asuntos que acaban de suceder e incluso muchas veces ni siquiera han concluido.
+Usaremos siempre los tiempos verbales que más acerquen la historia al lector. Por regla general, el pretérito perfecto y el presente de indicativo. Se combinarán con los tiempos que correspondan en el caso de que las noticias que se acaban de producir se refieran a asuntos pasados o futuros.
+Ejemplos:
+• Sí: “El accidente ha colapsado las vías de acceso a la capital, que siguen cortadas”.
+• No: “El accidente colapsó las vías de acceso a la capital, que siguen cortadas”
+• Sí: “Renfe suspende su compromiso de puntualidad a causa del temporal que azota la península. Las vías continúan colapsadas por la nieve”
+• No: “Renfe suspendió su compromiso de puntualidad a causa del temporal que azota la península. Las vías continúan colapsadas por la nieve”
+No se usarán nunca los adverbios de tiempo ‘hoy’, ‘ayer’ o ‘mañana’ sin una especificación de la fecha concreta a la que nos referimos, dado que la noticia podrá ser consultada mucho tiempo después. En su lugar utilizaremos expresiones como “este jueves”, “la madrugada del lunes”, etc…
+Elementos de la noticia:
+Titular:
+ Es el elemento más importante de la noticia, pues gran parte de los usuarios se contentarán con su lectura. El titular contiene los datos básicos de la información. Ha de ser lo suficientemente atractivo para suscitar el interés del usuario y lo bastante descriptivo como para que los buscadores de internet puedan encontrarlo. Deberemos, por tanto, usar los titulares más creativos en las portadas sin caer en el amarillismo y los puramente descriptivos en el interior de las noticias. El titular tiene que contener siempre el o los elementos más importantes de la información, debe entenderse por sí mismo, debe huir de equívocos, aportar datos exactos y no jugar al engaño con el lector. El titular irá cambiando a medida que se vayan conociendo más datos de la información, pero en cualquier caso no deberá perderse la esencia de la noticia para poder enlazarla más adelante.
+Los titulares, tanto de portada como de las informaciones, no pueden quedar con líneas volanderas o viudas.
+Las claves:
+ Las claves o “bolitos” resumen los datos más importantes. Sirven para indicar las novedades que se han producido. Son de una línea y no llevan punto y final. Su número dependerá del diseño, pero no se abusará de ellas.
+Entradilla:
+ La entradilla debe desarrollar el titular y completar la tesis que plantea con los datos. Las entradillas no pueden limitarse a repetir el titular sin aportar más información y deben invitar al usuario a seguir leyendo.
+Cuerpo de la noticia:
+ El cuerpo de la noticia sirve para completar la información. Se deberá incorporar al cuerpo de la noticia un párrafo que la ponga en contexto y ayude a comprenderla.
+La noticia de rtve.es ha de evitar siempre los sobreentendidos y ofrecer al lector datos que sirvan para ubicarla, especialmente en el caso de informaciones que se prolongan en el tiempo.
+Los párrafos han de ser cortos; para acortar la dimensión de la noticia, se evitarán circunloquios y la reiteración de ideas.
+Es preferible emplear varias piezas vinculadas entre sí que una demasiado larga.
+Firma:
+ Los textos que se publiquen en rtve.es deberán ir siempre firmados, pues implica atribución de responsabilidades. La firma será de una agencia cuando la información que proporcione se publique sin edición; de rtve.es cuando ésta haya sido editada y del periodista que haya elaborado la información cuando así corresponda. Cuando el redactor haya empleado información de agencias u otro medio para elaborar su noticia se hará constar en el texto.
+Elementos visuales
+: Además de los elementos multimedia que componen una noticia en rtve.es, la información debe apoyarse en elementos gráficos que guíen al usuario en la lectura. Así, el periodista podrá servirse de las negritas, los ladillos y las citas textuales u otros elementos a su alcance para facilitar el “escaneo” de la página en la que muchas veces se convierte la lectura en internet.
+• Negritas. Sirven para resaltar las palabras clave y guían la lectura. Viendo el titular, los bolitos, las negritas y los ladillos, el usuario debe tener una idea clara de lo que le estamos contando. No se deben repetir las mismas palabras, ni se debe poner en negrita una frase o un párrafo entero porque se mancha el texto.
+• Ladillos. Se usan para dividir el texto y ayudar al lector a buscar datos o asuntos concretos. Deben ser breves y muy informativos.
+• Citas. Son frases textuales que se destacan dentro de la noticia. Deben ser breves y colocarse al lado del párrafo que las contiene.
+4.6. La última hora 
+Volver al índice
+Bien sea una noticia esperada o un acontecimiento que altere el ritmo del día, rtve.es se volcará en la información relevante de última hora. Los informadores de rtve.es serán especialmente cuidadosos con los datos que se proporcionan en casos sensibles como accidentes de gran magnitud, catástrofes, fallecimientos de personajes relevantes, atentados terroristas o cualquier otro acontecimiento de esta naturaleza. rtve.es ofrecerá solamente datos contrastados y fiables y en ningún caso se difundirán sospechas o rumores ni se alentará el alarmismo.
+La información será actualizada a medida que se vaya produciendo y así se hará constar para conocimiento del lector.
+Rtve.es pondrá a disposición de los usuarios todos los elementos a su alcance para hacerles llegar la información. De forma prioritaria, se incorporarán los contenidos de los servicios informativos de Televisión Española y Radio Nacional de España.
+Géneros
+Los géneros periodísticos también se han adaptado a las nuevas tecnologías y a los habituales se añaden algunos otros con particularidades propias.
+● 
+Noticia:
+ Es el relato de un acontecimiento concreto que responde a las 5 ‘w’ y que contiene además elementos de contexto para situar al lector.
+● 
+Entrevistas:
+ Un personaje relevante responde a cuestiones planteadas por el periodista con el objetivo de obtener información o conocer su opinión sobre un hecho concreto sobre el que el entrevistado esté especializado. Las preguntas deberán ser relevantes, no deberán contener la respuesta, deberán ser claras y concretas (para evitar respuestas vagas que no aporten valor) y obviarán en todo momento la postura del entrevistador. El periodista que realice la entrevista deberá mantenerse en un segundo plano en la transcripción de la charla, evitará la primera persona y será riguroso a la hora de plasmar preguntas y respuestas.
+● 
+Encuentros digitales:
+ Un personaje relevante responde a cuestiones planteadas por los usuarios.
+● 
+Reportaje:
+ Un hecho relevante, de actualidad y de interés para los ciudadanos se convierte en reportaje cuando se aborda la cuestión desde un punto de vista más amplio. Es fundamental que el reportaje recoja las voces y/o posturas de todas las partes implicadas. Un reportaje en rtve.es deberá utilizar todos los elementos multimedia al alcance del redactor.
+● 
+Blog:
+ El blog es el medio preferido para buscar una voz más personal y directa en internet. La información, el análisis y el punto de vista de su autor podrán ser expresados libremente siempre que se respeten las reglas deontológicas recogidas en este Manual de estilo concernientes a todos los trabajadores de la Corporación RTVE. A ellas tendrá que someterse también cualquier persona ajena a la Corporación quien, por su relevancia o su conocimiento de un tema en concreto, posea un blog bajo la cabecera de rtve.es. El autor del blog deberá facilitar y animar la participación a través de sus artículos. Jamás podrá utilizarse un blog preferentemente para anunciar los contenidos de un programa, hay otras fórmulas para ello mucho más indicadas.
+● 
+Minuto a minuto:
+ Es el relato en formato texto y en tiempo real de un acontecimiento de relevancia. El redactor cuenta qué está ocurriendo a medida que deja constancia del momento en el que se produce. Se utiliza de forma habitual en las retransmisiones deportivas pero se emplea también en momentos de gran trascendencia o relevancia informativa para satisfacer la demanda de información de los usuarios de forma clara y concisa. No sustituye a la retransmisión en vídeo o audio en directo, la complementa. El periodista deberá contar no sólo qué ocurre sino todos los detalles que el lector no puede ver. Tratará de ‘trasladarlo’ al lugar en el que ocurran los hechos.
+En el minuto a minuto, las informaciones más recientes se irán colocando encima de las más antiguas de forma que el lector que entre en la pieza vea en primer lugar la última hora. Debe citarse la fuente de cada uno de los datos que se vayan introduciendo.
+El titular se irá cambiando con los datos más importantes que incluyamos, no con cada uno.
+El minuto a minuto estará enlazado a las piezas más amplias que realicemos sobre el hecho. Podrá llevar vídeos, audios y fotografías relevantes para la información.
+Ejemplo:
+- 13.06 h. Comienza la ceremonia. El presidente Obama no lleva papeles. Ofrecerá su discurso de memoria.
+- 13.05 h. El presidente de la Academia da la bienvenida a los presentes en la ceremonia. Muchos rostros conocidos, entre ellos el del actor Will Smith.
+- 13.02 h. Hay mucha expectación acerca del discurso que ofrecerá el presidente estadounidense. Las agencias de noticias ‘filtran’ algunos extractos y aseguran que ofrecerá el Nobel a la oposición iraní.
+- 13.00 h. Obama se dirige al estrado. Comienza su discurso. El silencio es sobrecogedor en el City Hall de Oslo. Sus primeras palabras: “Recibo este honor con profunda gratitud y gran humildad”.
+4.7. La participación 
+Volver al índice
+Facilitar la participación ciudadana y el debate público no sólo en rtve.es sino en todos los medios de la Corporación (TVE y RNE) es una de los principales mandatos de RTVE y, muy especialmente, de los profesionales de Medios Interactivos.
+La participación de los ciudadanos se realiza de diversas formas y cambia de forma constante gracias a los avances de la tecnología.
+Será obligación de todos los profesionales de rtve.es conocer y saber utilizar las diferentes redes sociales para entender cómo funcionan y facilitar la adaptación de la Corporación a los intereses y necesidades de nuestros usuarios.
+Comentarios
+Los comentarios en rtve.es tienen que ser uno de los sistemas de participación, pero no el único ni el más importante. Sólo se habilitarán cuando añadan interés a la noticia. Jamás será una medida de éxito de una información el número de comentarios, sino su importancia y capacidad de aportar ideas y opiniones diversas.
+En rtve.es podremos optar por varios modelos de publicación de comentarios, siempre incluyendo la moderación por parte de un equipo de moderadores, y elegiremos uno u otro siguiendo las siguientes consideraciones:
+* Moderación previa.
+* Moderación posterior.
+Normas de participación para los usuarios
+Todo debate, incluso el virtual, debe tener unas reglas, unos mínimos que permitan que las discusiones se mantengan dentro de los márgenes de la educación y el sentido común. Para ello, se han establecido unas normas básicas en las que el equipo de moderadores de rtve.es se apoyará para decidir si un comentario o contenido enviado por los usuarios se publica en la web. Estas normas son publicadas en la web para que el usuario sea consciente de que existen límites y dónde se encuentran.
+1. No se admitirán comentarios o contenidos que incluyan insultos,
+difamaciones, amenazas o vejaciones.
+2. Tampoco se permitirán comentarios o contenidos que se consideren
+obscenos, racistas o xenófobos.
+3. No se permitirán los contenidos que promuevan actividades ilegales
+(pornografía infantil, terrorismo, etc.) o inciten a la violencia.
+4. No se admitirán mensajes que estén destinados a interrumpir la conversación. Se considerarán como molestos aquellos mensajes repetidos o que sólo incluyan repeticiones de caracteres o enlaces a webs.
+5. Contenido promocional o publicitario: no se admitirán comentarios o
+contenidos que sean directa o indirectamente publicitario o de promoción sobre un producto o marca.
+6. Los contenidos que se envíen desde robots informáticos con la intención de generar ruido serán considerados spam y se eliminarán.
+7. Si se demuestra que un usuario ha suplantado la identidad de otro será motivo suficiente para no permitir la publicación del contenido enviado por dicho usuario.
+Encuestas
+Las encuestas permiten medir de forma cuantitativa, además de cualitativa, el interés de los usuarios por determinados temas. Por regla general, abriremos las encuestas en temas sociales, debates de actualidad, propuestas ciudadanas, etc. Sólo reflejan la opinión de aquellos internautas que han decidido participar en la misma y no puede ser considerada un sondeo científico.
+La forma de redactar las preguntas de las encuestas, al igual que el resto de contenidos de participación, debe ser directo, sin rodeos y no puede dirigir la opinión del usuario hacia una de las respuestas. Las preguntas deben ir dirigidas directamente al internauta.
+Al igual que la pregunta, también el estilo de las opciones debe ser directo. Las respuestas posibles serán un mínimo de dos, aunque siempre es deseable dar una tercera opción, es decir, plantear un sí, un no y un depende. Las opciones no podrán ser solamente “si” o solamente “no”, deberán tener un mínimo desarrollo que ayude al usuario a identificarse con la opción de manera más clara. Las respuestas deben mostrar variedad en las opiniones.
+Las encuestas llevarán por regla general activada la opción de comentarios. De esta manera conseguiremos medir cuantitativamente la opinión de nuestros usuarios y daremos la opción de recoger su opinión más elaborada, con argumentos que justifiquen el voto que han emitido.
+Encuentros digitales
+Las entrevistas digitales permiten a los usuarios acceder a preguntar a personajes o protagonistas de la actualidad.
+Los encuentros se gestionan y controlan desde el área de Participación de rtve.es con la intención de ofrecer la máxima variedad posible al usuario. Para ello, se establecerán calendarios que permitan al usuario encontrar de manera habitual encuentros digitales con políticos, empresarios, actores, actrices, escritores, directores de cine, guionistas, músicos, futbolistas, atletas, presentadores de televisión, profesionales, etc.
+Será obligación del periodista de rtve.es repreguntar a los entrevistados para evitar que eludan las preguntas de los internautas o instar a la aclaración de respuestas.
+Redes sociales
+RTVE debe estar allí donde se encuentren los ciudadanos, por lo que debe ser activa en las redes sociales.
+Normas de integración en redes sociales
+El objetivo de trabajar con ellas es conseguir la máxima visibilidad de nuestros contenidos e informaciones, dado que los usuarios las utilizan cada vez más como el punto de inicio de su navegación. Es decir, se trata de aprovechar las redes sociales como plataforma para que sus usuarios vengan a nuestra propia página web y conozcan nuestros contenidos.
+El centro de la actividad de un programa en internet debe ser siempre rtve.es y la red social será utilizada como plataforma de mayor proyección de los contenidos creados para esta web.
+En general, el requisito para tener una página en una red social es tener algún contenido en la web de rtve.es (un blog, un podcast, una web oficial) directamente gestionada por el personal del programa.
+Menú de navegación principal
+Noticias
+RTVE Play
+RNE Audio
+Play Noticias
+RTVE Participa
+Filmoteca
+Televisión
+Radio
+Deportes
+Tiempo
+Clan
+Laboratorio
+Menú de Televisión Española
+2° Dividendo Digital
+RTVE Botón Rojo
+Corresponsalías
+TVE Internacional
+TVE Catalunya
+TVE Canarias
+Teletexto
+Centros Territoriales
+TVE en directo
+Menú de Radio Nacional de España
+Radio Nacional
+Radio Clásica
+Radio 3
+Ràdio 4
+Radio 5
+Radio Exterior
+Podcast
+Frecuencias
+Menú de la Corporación RTVE
+Transparencia
+Sostenibilidad
+RTVE Comunicación
+Manual de estilo
+Código de autorregulación
+Derecho de acceso
+Ofertas de empleo
+RTVE 2030
+Defensora de la Audiencia
+Observatorio de Igualdad
+Observatorio de la Infancia y la Adolescencia
+Canal Ético
+Instituto RTVE
+Orquesta Sinfónica y Coro RTVE
+Dirección Comercial
+Impulsa Visión
+Perfil del Contratante
+Contratación audiovisuales
+Archivo RTVE
+Aviso legal
+Política de privacidad
+Política de cookies
+Política de WhatsApp
+Política de seguridad
+Accesibilidad
+Mapa web
+Contacto
+Normas de Participación
+©
+ Corporación de Radio y Televisión Española 2026

@@ -1,0 +1,103 @@
+Manual de Estilo de RTVE — 0. Inicio (portada e introducción)
+https://manualdeestilo.rtve.es/
+Leído el 2 de septiembre de 2026.
+
+AVISO SOBRE LA RUTA: el programa da la dirección en **http**, y por ahí el
+sitio responde 403. No es el servidor: es la política de salida de este
+entorno, que solo deja pasar https. Con **https** responde 200.
+
+Se recorta la navegación del portal y se conserva el cuerpo.
+
+0. Inicio
+1. CRTVE
+2. TVE
+3. RNE
+4. Medios Interactivos
+5. Cuestiones Sensibles
+6. El Lenguaje
+7. Anexos
+La principal razón de ser de RTVE es el derecho de todos los ciudadanos a disponer de una información veraz e independiente. Además, el acceso gratuito al disfrute de un ocio enriquecedor en el ámbito doméstico es un derecho de los ciudadanos, que reclaman de los medios públicos programas y espacios entretenidos, dignos y estimuladores de una visión crítica y participativa. Satisfacer esos derechos de los españoles es una obligación de los profesionales de RTVE. Asimismo, la participación de los espectadores, oyentes y usuarios de los servicios interactivos de la Corporación en la programación y los espacios de RTVE es expresión del derecho general a la participación de los ciudadanos en la vida pública. Los profesionales de RTVE tienen el compromiso de ofrecer al conjunto de la ciudadanía contenidos que impulsen la libertad de opinión, el espíritu crítico, la convivencia y la cohesión de ciudadanos y comunidades como miembros de un espacio democrático compartido.
+En conclusión, la independencia, calidad y la pluralidad de los contenidos y la atención a los intereses de toda la sociedad determinan el valor social de CRTVE, todo ello combinado, al mismo nivel de exigencia, con un alto índice de audiencia, pues un servicio público sólo cumple debidamente su función cuando alcanza al mayor número de ciudadanos posible.
+Este MANUAL DE ESTILO DE LA CORPORACIÓN RTVE obedece a las directrices que emanan del marco legal de la Corporación RTVE, los principios irrenunciables de RTVE y las responsabilidades sociales y profesionales derivados de la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, y de los textos que la desarrollan y complementan, incluidas la Ley 8/2009, de 28 de agosto, de financiación de la Corporación de Radio y Televisión Española y la Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual
+.
+ Estas directrices se dirigen a cuantos profesionales presten sus servicios en RTVE y afectan al conjunto de la programación emitida y de los servicios ofrecidos en todos y cada uno de los medios, canales y soportes de RTVE.
+El presente texto detalla una serie de pautas y recomendaciones, cuya finalidad es orientar hacia el máximo rigor periodístico el trabajo de los profesionales no sólo de la información sino de todos los ámbitos, géneros y formatos presentes en la programación de RTVE. En tal sentido, se considera primordial ofrecer un adecuado tratamiento mediático de determinados asuntos sociales considerados especialmente sensibles: violencia de género, inmigración, información sobre sucesos y catástrofes, tratamiento de hechos con presencia de menores, etc. Para la redacción de este apartado se han tenido en cuenta, entre otros, los trabajos y publicaciones del Instituto RTVE.
+Al mismo tiempo, el carácter de servicio público de la Corporación RTVE obliga, más si cabe, a extremar el buen uso del idioma utilizado. Dado el papel crucial que los medios de comunicación desempeñan en la defensa o deterioro de la lengua, la Corporación RTVE establece de este modo algunos criterios de corrección lingüística con el fin de promover tanto la pureza como la riqueza del idioma.
+En este MANUAL DE ESTILO DE LA CORPORACIÓN RTVE subyacen tanto los preceptos que constituyen el marco legal de RTVE como los planteamientos nucleares de los Principios Básicos de Programación, el Estatuto de Información de la Corporación RTVE 
+[1]
+, el Estatuto del Defensor del Espectador, Oyente y Usuario de Medios Interactivos 
+[2]
+, las Directrices Básicas y Reglamento del Derecho de Acceso a RTVE 
+[3]
+ y el 
+Código de Autorregulación
+ para la Defensa de los Derechos del Menor en los Contenidos Audiovisuales, Conexos, Interactivos y de Información 
+[4]
+ ,documentos todos ellos aprobados por el Consejo de Administración de RTVE. Sin embargo, es imprescindible advertir que el presente documento no es un compendio ni exime de la obligación de conocer y acatar cuantas obligaciones se derivan de los textos legales vigentes.
+[1] Refrendado por los profesionales de la información el 18 de abril de 2008, el Consejo de Administración aprobó el Estatuto de la Información el 14 de mayo de 2008.
+[2] Aprobado por el Consejo de Administración el 29 de noviembre de 2007.
+[3] El Consejo de Administración de la Corporación RTVE aprobó por unanimidad en junio de 2007 las Directrices y el Reglamento del Derecho de Acceso. El 1 de enero de 2009 la Corporación RTVE puso en marcha el procedimiento para el ejercicio del derecho de acceso de grupos sociales y políticos significativos, en cumplimiento de su función de servicio público y como mecanismo de garantía del pluralismo en los contenidos de la Corporación.
+[4] Aprobado por el Consejo de Administración el 23 de Julio de 2010
+Menú de navegación principal
+Noticias
+RTVE Play
+RNE Audio
+Play Noticias
+RTVE Participa
+Filmoteca
+Televisión
+Radio
+Deportes
+Tiempo
+Clan
+Laboratorio
+Menú de Televisión Española
+2° Dividendo Digital
+RTVE Botón Rojo
+Corresponsalías
+TVE Internacional
+TVE Catalunya
+TVE Canarias
+Teletexto
+Centros Territoriales
+TVE en directo
+Menú de Radio Nacional de España
+Radio Nacional
+Radio Clásica
+Radio 3
+Ràdio 4
+Radio 5
+Radio Exterior
+Podcast
+Frecuencias
+Menú de la Corporación RTVE
+Transparencia
+Sostenibilidad
+RTVE Comunicación
+Manual de estilo
+Código de autorregulación
+Derecho de acceso
+Ofertas de empleo
+RTVE 2030
+Defensora de la Audiencia
+Observatorio de Igualdad
+Observatorio de la Infancia y la Adolescencia
+Canal Ético
+Instituto RTVE
+Orquesta Sinfónica y Coro RTVE
+Dirección Comercial
+Impulsa Visión
+Perfil del Contratante
+Contratación audiovisuales
+Archivo RTVE
+Aviso legal
+Política de privacidad
+Política de cookies
+Política de WhatsApp
+Política de seguridad
+Accesibilidad
+Mapa web
+Contacto
+Normas de Participación
+©
+ Corporación de Radio y Televisión Española 2026

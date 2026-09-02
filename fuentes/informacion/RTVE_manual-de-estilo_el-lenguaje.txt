@@ -1,0 +1,699 @@
+Manual de Estilo de RTVE — 6. El Lenguaje
+https://manualdeestilo.rtve.es/el-lenguaje/
+Leído el 2 de septiembre de 2026.
+
+AVISO SOBRE LA RUTA: el programa da la dirección en **http**, y por ahí el
+sitio responde 403. No es el servidor: es la política de salida de este
+entorno, que solo deja pasar https. Con **https** la misma dirección responde
+200 y sirve el manual entero. El manual está en ocho páginas, una por
+capítulo, y aquí va cada una en su fichero.
+
+Se recorta la navegación del portal y se conserva el cuerpo.
+
+0. Inicio
+1. CRTVE
+2. TVE
+3. RNE
+4. Medios Interactivos
+5. Cuestiones Sensibles
+6. El Lenguaje
+7. Anexos
+El Mandato-marco a la Corporación RTVE establece que la promoción y difusión nacional e internacional del castellano será un objetivo esencial de la Corporación RTVE, así como el apoyo al resto de las lenguas cooficiales. Añade que la utilización correcta de todas ellas es una exigencia fundamental y especifica que RTVE será especialmente escrupulosa en el respeto a la toponimia conforme a la legalidad vigente. 
+[1]
+Los profesionales se enfrentan a numerosas posibilidades a la hora de redactar los textos periodísticos. Sin embargo, en el ejercicio de la profesión es frecuente que la exigencia de rigor se circunscriba más a la exactitud de los datos que a la corrección lingüística y gramatical en la manera de expresarlos.
+Uno de los requisitos de todo mensaje periodístico es que resulte comprensible. Por tanto, todo profesional de RTVE debe hacerse entender. Las condiciones de claridad, precisión y brevedad son inherentes en la redacción de los textos periodísticos, pero siempre desde el correcto uso de los idiomas. Un idioma vivo está en perpetua evolución y precisamente el lenguaje empleado en los medios de comunicación constituye uno de los factores cruciales de ese cambio permanente. Los ciudadanos consideran que lo oído en los medios audiovisuales de prestigio es lo correcto. Esa responsabilidad debe estimular a los profesionales de RTVE a emplear la lengua/las lenguas de la forma más apropiada. 
+Los profesionales de RTVE deben poner los medios necesarios para que sus trabajos periodísticos respeten las normas de la lengua. Para ello, RTVE establecerá los mecanismos adecuados, entre ellos los acuerdos y convenios de colaboración con instituciones dedicadas al cuidado de la lengua. Los profesionales de RTVE deben poseer el conocimiento necesario para garantizar una correcta escritura y pronunciación de nombres, topónimos o expresiones básicas en cualquiera de los idiomas españoles.
+Las siguientes páginas recuerdan preceptos básicos del lenguaje periodístico e incluyen tanto recomendaciones como la identificación de algunas carencias y errores que pueden alcanzar al espectador, oyente y usuario de los medios interactivos de RTVE.
+[1] Articulo 18.
+6.1. Características esenciales del lenguaje periodístico
+6.2. El orden de las palabras y de las frases. Hipérbaton y elipsis
+6.3. El sonido de lo que se pronuncia
+6.3.1. Puntuación
+6.3.2. Cacofonía y rima
+6.4. El género
+6.4.1. Comunes, epicenos y ambiguos
+6.4.2. El masculino para ambos sexos
+6.4.3. Profesiones, cargos y títulos
+6.4.4. Nombres de países y ciudades
+6.4.5. Abreviaturas, siglas y acrónimos
+6.5. Los verbos
+6.5.1. Usos erróneos del infinitivo
+6.5.2. El gerundio. Normas de uso
+6.5.3. Condicional con valor de posibilidad
+6.5.4. Perífrasis verbales innecesarias
+6.5.5. Uso de adjetivos y adverbios
+6.5.6. Errores de concordancia de género y número
+6.5.7. Estilo directo e indirecto
+6.5.8. El empobrecimiento del lenguaje 
+[1]
+6.5.8.1. Frases hechas
+6.5.8.2. Redundancias
+6.5.8.3. Muletillas
+6.5.8.4. Reiteraciones innecesarias
+6.5.8.5. Laísmo y leísmo
+6.5.8.6. Extranjerismos
+6.5.8.7. Lenguaje ofensivo y/o soez
+6.5.8.8. Eufemismos
+6.5.8.9. Nombres y topónimos
+6. 5.8.10. Idiomas extranjeros
+6.5.8.11. Tratamientos
+6.5.8.12. Advertencias para la escritura de textos que serán leídos por el espectador y/o usuario de medios interactivos 
+[1]
+6.5.8.13. Impropiedades léxicas y usos erróneos del lenguaje
+6.1. Características esenciales del lenguaje periodístico 
+Volver al índice
+Claridad.
+ La claridad del mensaje se consigue únicamente empleando un lenguaje que sea comprensible para todos, sin distinción de niveles de formación y culturales. Debe estar construido mediante estructuras gramaticales simples (“sujeto, verbo, complemento”). El lenguaje periodístico en los medios audiovisuales puede ser imaginativo pero nunca complejo por lo que salvo excepciones, deben evitar las figuras retóricas y las estructuras gramaticales propias de la escritura literaria.
+Precisión. 
+El lenguaje en los medios audiovisuales debe ser preciso a fin de expresar sólo lo que se pretende decir y no dar margen para interpretaciones erróneas. Los profesionales de la información de RTVE deben evitar, siempre que sea posible, expresiones vagas en materia de cantidad, tales como 
+varios, algunos
+, etc.
+Brevedad.
+ Las frases cortas y construidas de modo directo son las más eficaces para transmitir una idea. La construcción ocasional de oraciones subordinadas tiene como fin evitar la monotonía de un lenguaje demasiado lacónico.
+Verbos de acción.
+ Los verbos que expresan acción atraen más la atención y, si están bien escogidos, expresan con más precisión lo que se quiere comunicar. Es conveniente evitar los verbos estáticos (ser, estar) si se puede expresar la misma idea con un verbo de movimiento.
+Informar en positivo.
+ El mensaje resulta más claro si se construye en positivo. Siempre que sea posible, deben evitarse las frases negativas. Por idéntico motivo, se prefieren verbos en positivo como, por ejemplo, “rechazar” en lugar de “no admitir” o “prohibir” en lugar de “no autorizar”.
+6.2. El orden de las palabras y de las frases. Hipérbaton y elipsis. 
+Volver al índice
+Aunque el orden lógico de la frase, sujeto + verbo + predicado, sea la estructura recomendada, es habitual que en determinados textos se altere dicha estructura con el fin de provocar la atención.
+Un recurso muy utilizado, especialmente en las entradillas de estudio en el medio televisión, es el 
+hipérbaton 
+(invertir el orden que en el discurso tienen habitualmente las palabras). En ocasiones, lo que el periodista desea destacar no es el sujeto sino algún dato sustancial de la noticia, las consecuencias del hecho del que se informa o el modo en que se ha producido. Son las primeras palabras de la frase las que contienen mayor carga informativa y capacidad de reclamo.
+Ejemplo: 
+Más de cien cartas de extorsión, en las que se piden cantidades de hasta 100.000 euros, han sido recibidas en los últimos dos meses por empresarios vascos y navarros.
+Ejemplo: 
+Cuatrocientos treinta inmigrantes que viajaban en tres cayucos han sido interceptados en aguas canarias por patrulleras de la Guardia Civil.
+Otra figura muy usada es la 
+elipsis
+, consistente en omitir en la oración una o más palabras, necesarias para la recta construcción gramatical, pero no para que resulte claro el sentido. En los textos periodísticos podremos omitir el sujeto o el verbo e incluso ambos. Es muy común prescindir del sujeto en la primera frase de una entradilla para generar interés sobre la base de alguno de los elementos del predicado.
+Ejemplo de elipsis de sujeto: 
+Quería cuanto antes su oportunidad de revancha frente a Federer y la va a tener. Rafael Nadal jugará el próximo domingo la final de Roland Garros.
+Hay veces que el periodista puede optar por “romper” una regla de oro en la redacción de textos periodísticos: empezar con la noticia. En el siguiente ejemplo de entradilla el espectador tiene que esperar hasta la tercera frase para saber a qué se refiere el presentador. Lo principal y más noticiable es la ruptura del alto el fuego permanente; sin embargo, se pospone el momento de comunicar el hecho principal y se opta por crear suspense y expectación anteponiendo elementos circunstanciales y, por tanto, aplazando la aparición del sujeto y de la noticia. Este ejemplo solo es posible si el espectador conoce ya la noticia principal, bien porque ha sido facilitada en la apertura del informativo o en los titulares:
+Ejemplo de elipsis de sujeto: 
+A pocos ha pillado por sorpresa. Algunos medios de comunicación lo venían anticipando en los últimos días.
+La banda terrorista ETA ha dado por terminado el alto el fuego permanente.
+En otros casos, el éxito de la elipsis depende enteramente de la imagen, de modo que solo la conjunción texto-imagen permitirá al espectador completar el mensaje y comprender plenamente el significado de la frase.
+Ejemplo de elipsis supeditada a la imagen:
+ Quiere más dinero para las guerras de Irak y Afganistán… Así lo pedía ayer en el Congreso, en la presentación del proyecto de presupuestos para 2008. George Bush pretende aumentar los gastos de defensa y energía a cambio de recortar los programas sociales. (
+párrafo leído sobre imágenes de George W. Bush en el Congreso
+)
+En el siguiente ejemplo, la elipsis aparece además unida al llamado 
+estilo telegráfico
+, lo que constituye un doble recurso. La brevedad de las frases y la elisión del sujeto 
+crean un gran ritmo narrativo:
+Ejemplo de elipsis supeditada a la imagen: 
+Llevan días achicando agua y mirando al cielo. Jamás había ocurrido nada igual. Casas, campos, animales. La ayuda internacional todavía no llega. Las lluvias torrenciales han dejado un paisaje desolador en el norte de Sri Lanka. (
+Párrafo leído sobre imágenes de personas con cubos de agua, campos y pueblos inundados
+).
+6.3. El sonido de lo que se pronuncia 
+Volver al índice
+6.3.1. Puntuación
+El texto de los informativos de radio y televisión se escribe para ser leído en voz alta, bien por el autor o por otra voz. Los profesionales de RTVE deben evitar expresiones confusas, mala dicción, entonaciones forzadas, 
+esdrujulear
+, cortes en la secuencia fónica, acentos en preposiciones, etc. Todo eso conduce a ritmos y formas de lectura que, aunque puedan estar aceptados en el medio, nada tienen que ver con el idioma español.
+La frase debe ser escrita de forma clara, sencilla y pronunciarse correctamente, con las pausas oportunas después de los puntos y comas. Tan importante es puntuar adecuadamente como que la lectura se ajuste a esa puntuación. Las pausas en la lectura deben coincidir con las necesidades de respiración. Es habitual que presentadores e informadores en general puntúen o adapten los textos a su estilo de lectura, estableciendo pausas innecesarias que incluso pueden llegar a alterar o dificultar la comprensión del texto.
+Ejemplo de error de puntuación: 
+Una sacudida en Oriente, genera la duda mundial ya que podría tratarse de una segunda prueba nuclear.
+Comentario:
+ Existe una coma donde no debe haberla. La ubicación de una pausa entre el sujeto y el verbo no es correcta gramaticalmente.
+Ejemplo de error de puntuación: 
+El ex ministro de defensa, José Bono, ni confirma, ni desmiente su interés por la alcaldía de Madrid.
+Comentario: 
+Existe una coma de más, detrás de “confirma”. Si es interpretada correctamente por quien la lee, resultará una lectura entrecortada, carente del ritmo adecuado.
+Ejemplo de error de puntuación: 
+Esta vez no ocurrió lo mismo que contra Eslovaquia, la selección de España sub-21 no fue capaz de remontar los dos goles a Italia.
+Comentario: 
+Una lectura literal daría lugar a un error, ya que, en lugar de coma, debe figurar un punto.
+Ejemplo de error de puntuación: 
+Lo dicho por Rivera y, por extensión de Ciutadans, es que su candidatura ha salido más que airosa de los comicios.
+Comentario: 
+La lectura literal de lo que está escrito nos llevaría a cometer un error. La coma situada tras “Ciutadans” debería ubicarse tras la palabra “extensión”.
+6.3.2. Cacofonía y rima
+Rimas y cacofonías suelen ser consecuencia de la falta de revisión de los textos. Solo en casos excepcionales pueden concebirse como un recurso expresivo para un texto informativo. La cacofonía es, según la Academia Española, la disonancia que resulta de la inarmónica combinación de los elementos acústicos de la palabra. Se considera una cacofonía el uso de adverbios acabados en “mente” y de verbos con un mismo tiempo de forma continuada, palabras terminadas en “ción”, “dad” y aquellas que empiezan por un mismo prefijo o sílaba.
+Ejemplo de cacofonía: 
+La 
+colaboración
+ de las instituciones en la 
+fijación
+ de objetivos comunes es la 
+condición
+ exigida por el principal partido de la 
+región
+.
+Ejemplo de rima: 
+Los partidos de cuartos que todavía no se han 
+disputado
+ se jugarán una vez que el comité se haya
+pronunciado
+.
+6.4. El género 
+Volver al índice
+En español, lo habitual es que exista una forma específica para cada uno de los dos géneros gramaticales, en función de cada sexo. En bastantes casos se forman añadiendo un sufijo a la raíz (gato/gata), pero en otros la raíz de la palabra es distinta (hombre/mujer). También existen muchos sustantivos con una forma única que designan seres de uno u otro sexo; son los llamados “comunes”, los “epicenos” y los “ambiguos”.
+6.4.1. Comunes, epicenos y ambiguos
+Comunes. Tienen la misma forma para los dos géneros gramaticales. Son los artículos y los adjetivos los que determinan el género: el/la pianista; ese/esa psiquiatra; un buen/una buena profesional.
+Epicenos. Su forma es única y pueden ser masculinos (personaje, vástago, tiburón, lince) o femeninos (persona, víctima, hormiga, perdiz). En este caso, la concordancia depende del género gramatical del sustantivo, no del sexo del referente; así, debe decirse La víctima, un hombre joven, fue trasladada al hospital más cercano.
+Ambiguos. Admiten su uso en uno u otro género, sin que ello implique cambios de significado: el/la armazón, el/la dracma, el/la mar, el/la vodka. De los sustantivos ambiguos, solo ánade y cobaya designan seres animados.
+6.4.2. El masculino para ambos sexos
+El masculino gramatical de los sustantivos que designan seres animados se emplea para referirse a los de sexo masculino, pero también a la especie, sin distinción de sexos: El hombre es el único animal racional; el gato es un buen animal de compañía. Lo mismo ocurre cuando se emplean en plural: Los hombres prehistóricos se vestían con pieles de animales; en mi barrio hay muchos gatos. Solo es necesario explicitar los dos géneros cuando la oposición de sexos es relevante: La proporción de alumnos y alumnas en las aulas se ha ido invirtiendo progresivamente.
+Para referirse a colectivos mixtos, se ha extendido entre los políticos y algunos periodistas la costumbre de mencionar ambos sexos (los alumnos y las alumnas), la de recurrir a soluciones artificiosas (los y las alumnas) e incluso las de utilizar en publicaciones el símbolo de la arroba (alumn@s), que no es un signo lingüístico. Aunque parezca “políticamente correcto”, es una incorrección gramatical que, en casos extremos, llevaría a redacciones absurdas: Algunos y algunas alumnos y alumnas son extranjeros y extranjeras, principalmente rumanos y rumanas y chinos y chinas.
+6.4.3. Profesiones, cargos y títulos
+Atendiendo a criterios morfológicos, se pueden establecer las siguientes formas:
+a) Aquellos cuya forma masculina acaba en –o forman el femenino sustituyendo esta vocal por una –a (bombera, médica, ministra), aunque hay excepciones, como testigo o los sustantivos que proceden de acortamientos como otorrino, que funcionan como comunes. En algunos casos el femenino presenta la terminación culta –isa (diaconisa) y excepcionalmente hay voces (vampiro/vampiresa).
+b) Los que acaban en –a suelen ser comunes (astronauta, cineasta), así como los formados con el sufijo –ista (pianista, taxista). Excepcionalmente, de modista se ha generado modisto.
+c) Los que acaban en –e tienden a funcionar como comunes (conserje). Algunos tienen formas femeninas específicas con los sufijos –esa, -isa o –ina (/alcaldesa,   sacerdotisa, heroína). En algunos casos se han generado femeninos en –a (dependienta).
+d) Los que terminan en –i o en –u funcionan también como comunes (maniquí, gurú).
+e) En cuanto a los terminados en – y, el femenino de rey es reina, mientras que los que toman modernamente esta terminación funcionan como comunes: el/la yoquey.
+f) Los que acaban en –or forman el femenino añadiendo una –a (escritor/escritora), y en algunos casos la terminación –triz (actor/actriz).
+g) Los que acaban en –ar (militar), -er (chofer), -ir, (faquir) o –ur (augur), funcionan hoy normalmente como comunes, aunque existen formas femeninas acabadas en –esa o en –a, de un uso poco común (choferesa, bachillera).
+h) Los agudos acabados en –n y en –s forman normalmente el femenino añadiendo una –a (bailarín/bailarina, dios/diosa), excepto barón (baronesa) e histrión (histrionisa). Otras excepciones son rehén y edecán, que son comunes. Las palabras llanas acabadas en –n y en –s también funcionan como comunes (el/la barman).
+i) los que acaban en –l o –z tienen a funcionar como comunes (corresponsal, portavoz), aunque algunos han desarrollado un femenino en –a (concejala, jueza).
+j) Independientemente de su terminación, son comunes los nombres de grados militares (cabo, teniente, etc), los que designan al músico por el instrumento que   toca (batería, contrabajo), y los sustantivos compuestos que designan personas (mandamás, cazatalentos).
+k) Cuando el nombre de una profesión o cargo está formado por un sustantivo y un adjetivo, ambos elementos deben ir en masculino o femenino dependiendo del sexo del referente (la primera ministra).
+Siguiendo las indicaciones de la Fundéu, se recomienda que los nombres comunes en cuanto al género, como juez o piloto, se utilicen tanto para hombre como para mujer. De esta forma se preferirá el juez/la juez, aunque esté reconocido el término jueza. En el resto de profesiones se usará el femenino aceptado por la RAE: médico/médica, abogado/abogada, ingeniero/ingeniera, arquitecto/arquitecta, etc.
+6.4.4. Nombres de países y ciudades
+El género de países y ciudades depende sobre todo de la terminación. En general, los nombres de países que terminan en –a átona concuerdan en femenino (“La vieja España), mientras que los terminados en –a tónica o en otra vocal y en consonante, suelen concordar en masculino (“El México de hoy”).
+De igual forma, las ciudades que terminan en –a suelen concordar en femenino (“La Córdoba romana”), mientras que las que terminan en otra vocal o en consonante suelen concordar en masculino, aunque casi siempre es posible la concordancia en femenino. También admiten los dos géneros cuando se anteponen todo y toda (“Todo/toda Madrid salió a la calle para celebrar la victoria”).
+6.4.5. Abreviaturas, siglas y acrónimos
+El género de las abreviaturas concuerda generalmente con el de la palabra que se abrevia (el licenciado/ el lcdo; la licenciada/ la Lcda..). En el caso de las siglas y los acrónimos, adoptan normalmente el género de la palabra principal de la denominación completa: el PSOE / el Partido Socialista Obrero Español; el teleñeco, de televisión y muñeco.
+6.5. Los verbos 
+Volver al índice
+6.5.1. Usos erróneos del infinitivo
+El infinitivo se define como forma verbal no personal porque carece de perspectiva temporal y no es susceptible de accidentes (género, número, modo, aspecto, etc.). Posee una doble naturaleza, dado que puede construir indistintamente sintagmas verbales y nominales.
+Funciones:
+Sujeto: 
+Querer
+ es poder
+Atributo: Querer es 
+poder
+Complemento predicativo: Te vi
+ llegar
+Complemento directo: Quiero 
+comprar
+ un coche
+Complemento indirecto: Dedicó su vida a 
+hacer
+ el bien
+Suplemento: Trató de 
+enviar
+ una carta inmediatamente
+Complemento circunstancial: Lo comprendió todo al 
+hablar
+ con él
+Complemento del nombre: Me gusta su manera de 
+vestir
+Complemento del adjetivo: Es difícil de 
+conocer
+Complemento del adverbio: Se marchó después de 
+saludar
+ a todos
+Usos correctos:
+En los casos anteriores, en oraciones complejas
+Como verbo principal de una perífrasis
+En órdenes generalizadas: No 
+fumar
+; 
+girar
+ a la derecha; ¡a 
+comer
+¡
+Usos incorrectos:
+Cuando sustituye a la segunda persona del plural del imperativo: 
+¡Callar¡
+ (en lugar de callaos)
+El infinitivo de generalización por omisión de un verbo de intención o un verbo en forma personal: 
+ante todo, decirles que….., recordar por último que…., insistir que….
+Cuando se usa la construcción a + infinitivo, lo cual constituye un galicismo: 
+asuntos a tratar, temas a debatir, tareas a realizar
+, etc. No obstante, hay casos en los que esta construcción es admitida, como se verá más adelante.
+Cuando el infinitivo funciona como verbo principal y va al principio de una frase nos encontramos con el llamado 
+infinitivo introductorio
+ o 
+infinitivo fático
+. El infinitivo en ningún caso debe usarse como verbo principal de una oración, aunque es algo que sucede con frecuencia en los medios de comunicación.
+Este uso del infinitivo se da principalmente con los llamados “verbos de decir”, entre los que se encuentran, además de 
+decir
+, otros verbos como 
+expresar, recordar, destacar, añadir, informar, manifestar, indicar, señalar, afirmar, declarar
+, etc. Por tanto, es incorrecto pronunciar frases como “Informarles de que se ha cancelado la visita del Primer Ministro ruso”, “Destacar la gran actuación del delantero Llorente” o “Por último, recordar que mañana conoceremos los datos del paro”. En estos casos, lo correcto es “Les informamos de que…” , “Hay que destacar la gran actuación…”, “Por último, les recordamos que mañana…”.
+Sustantivo 
++ 
+a
++ 
+infinitivo:
+asuntos a tratar, problemas a resolver
+La RAE considera que en el ámbito de la economía están ya consolidadas expresiones como 
+cantidad a ingresar 
+y
+ cantidad a deducir. 
+Ocurre lo mismo en el terreno administrativo y periodístico con expresiones como 
+temas a tratar,
+problemas a resolver, ejemplo a seguir,
+ etc. El uso de esta construcción, que es un galicismo, es frecuente cuando funciona como sujeto o como atributo en oraciones copulativas: 
+Los temas a tratar son dos; Esas son las cuestiones a dilucidar. 
+La RAE recuerda que en español solo son aceptables en algunos casos, por lo que recomienda atender las siguientes orientaciones:
+a) 
+Si la preposición 
+a
+ admite su sustitución por las preposiciones 
+por
+ o 
+para,
+ o el relativo 
+que,
+ sin que sea necesario cambiar la estructura de la construcción y sin que cambie el significado, debe desecharse la construcción galicada: 
+Tenemos dos asuntos a tratar
+ (mejor
+ Tenemos dos asuntos que tratar
+); 
+No hay más asuntos a discutir 
+(mejor
+ No hay más asuntos que/por/para discutir
+). Con respecto al uso de 
+por
+ en lugar de 
+a,
+ es necesario señalar que la construcción con 
+por
+ posee un matiz significativo adicional; así, no es exactamente lo mismo 
+cantidad por pagar
+ que 
+cantidad a pagar: cantidad por pagar
+ es ‘cantidad que queda todavía por pagar’, e implica que se han satisfecho otros pagos anteriormente, mientras que 
+cantidad a pagar
+ es, simplemente, ‘cantidad que hay que pagar’.
+b) 
+El verbo en infinitivo debe ser transitivo, pues en tales construcciones el infinitivo tiene valor pasivo; por tanto, no son admisibles oraciones como 
+El lugar a pelear será las Vegas
+ (pues no se dice 
+pelear un lugar, 
+sino
+ en un lugar
+); 
+La cuestión a hablar en la reunión es de escasa importancia
+ (pues no se dice 
+hablar una cuestión, 
+sino
+ de
+ o
+ sobre una cuestión
+).
+c) 
+El infinitivo debe estar en forma activa, puesto que los infinitivos de estas construcciones ya tienen valor pasivo: 
+El tema a ser tratado presenta dificultades 
+(correcto: 
+El tema a tratar
+).
+d) 
+Son normales estas construcciones con sustantivos abstractos como 
+asunto, tema, ejemplo, cuestión, aspecto, punto, cantidad, problema
+ y otros similares, y con verbos del tipo de 
+realizar
+ (se evita 
+hacer
+ por razones de cacofonía con la preposición 
+a: tareas a hacer
+), 
+ejecutar, tratar, comentar, dilucidar, resolver, tener en cuenta, considerar, ingresar, deducir, desgravar, descontar, 
+etc. Pero no deben extenderse a otro tipo de enunciados, con otros verbos en infinitivo y con sustantivos que no sean abstractos: 
+Los ladrillos a poner están en la furgoneta; Los libros a leer se encuentran en la mesa
+.
+e) 
+En muchos casos, el uso de esta construcción es superfluo y, por tanto, evitable; así, en una oración como 
+Juan es un ejemplo a seguir para todos nosotros,
+ la secuencia de infinitivo 
+a seguir
+ es prescindible: 
+Juan es un ejemplo para todos nosotros
+.
+6.5.2. El gerundio. Normas de uso.
+El gerundio es una forma verbal impersonal que expresa simultaneidad o anterioridad de la acción con el tiempo en que se habla. Las 
+normas básicas
+ de uso son las siguientes:
+En la mayoría de los casos, el sujeto del gerundio debe coincidir con el sujeto de la oración principal
+Correcto:
+El ponente defendió sus conclusiones apoyándose en los datos ministeriales
+ (es el mismo sujeto, el ponente, quien defiende y se apoya).
+Incorrecto: 
+Nos encontramos a los diputados bromeando en el hemiciclo
+ (el sujeto es “nosotros” pero el gerundio se refiere a los diputados). La ambigüedad se eliminaría si dijéramos: Nos encontramos a los diputados, que estaban bromeando en el hemiciclo.
+La acción del gerundio debe ser anterior o simultánea a la del verbo principal. Por tanto, debe evitarse el llamado gerundio de posterioridad.
+Correcto: 
+El otro día cogimos un resfriado andando bajo la lluvia sin paraguas
+ (el sujeto concuerda –nosotros- y ambas acciones son simultáneas –andar y coger un resfriado-)
+Incorrecto: 
+La víctima fue agredida en su casa, muriendo horas después en el hospital
+. Es el llamado gerundio de posterioridad. Lo correcto sería: la víctima fue agredida en su casa y murió horas después en el hospital.
+Incorrecto: 
+El nuevo titular de Justicia ingresó en la universidad en 1970, graduándose cinco años después.
+(Graduarse es posterior a ingresar en la universidad.)
+La acción que expresa el gerundio debe interpretarse como una circunstancia (de tiempo, modo o condición) de la acción del verbo principal. Es decir, la función del gerundio es siempre de complemento circunstancial. El uso del gerundio será correcto si expresa en qué momento, de qué modo, por qué motivo o con qué condición se da la acción principal. Ejemplos correctos:
+Eduardo ha aprobado las matemáticas 
+copiando
+Harás bien 
+poniendo
+ un candado en la bicicleta
+El gerundio es un modificador del verbo y, por tanto, no puede calificar a un sustantivo.
+Incorrecto:
+ El Gobierno ha aprobado un decreto 
+regulando
+ las importaciones asiáticas.
+6.5.3. Condicional con valor de posibilidad
+El origen de este condicional es francés y también se denomina condicional de rumor o condicional de precaución. No se recomienda su uso en textos periodísticos. Según los casos, la Fundéu (Fundación del Español Urgente) recomienda sustituir este tipo de condicional por otras fórmulas conjeturales, como 
+según dicen, posiblemente, se cree que
+, etcétera.
+Por otra parte, si algo espera el espectador/oyente/lector de un medio informativo son noticias y certidumbres, no lo contrario. El empleo del condicional de posibilidad hay que reservarlo para situaciones excepcionales, dado que genera incertidumbre. Piénsese además que basar una información en una mera hipótesis puede causar un daño difícilmente reparable.
+Habrá ocasiones en que citar la fuente permita prescindir del condicional y reforzar la certidumbre y/o la calidad de los datos expuestos.
+Ejemplo: 
+La familia del presunto estafador 
+se habría embolsado
+ 200.000 euros.
+Sugerencia:
+ Según fuentes policiales, la familia del presunto estafador se ha embolsado 200.000 euros.
+6.5.4. Perífrasis verbales innecesarias
+La perífrasis verbal es la unión de dos verbos que funcionan conjuntamente como núcleo del predicado; de ellos, el auxiliar, que es el que se conjuga, aporta las marcas gramaticales de tiempo, número y persona, además de algunos matices significativos, como obligación, reiteración, duración, etc.; y el principal o auxiliado, que aparece en una forma no personal (infinitivo, gerundio o participio), aporta el significado léxico principal: tenemos que marcharnos a casa; he vuelto a leer tu novela; tu hermano sigue durmiendo.
+El problema surge cuando la perífrasis no cumple ninguna función y se constituye en un innecesario alargamiento del verbo. Este tipo de perífrasis se ha convertido en una moda periodística que solo contribuye a dilatar la frase sin aportar más significados o matices, dado que en la mayoría de los casos se puede expresar lo mismo con menos palabras:
+Ejemplo: 
+Hoy hemos querido acercarnos a las costas levantinas. Nuestros reporteros han comprobado cómo el buen tiempo ha transformado playas hasta ayer desiertas.
+Sugerencia:
+ Hoy nos hemos acercado a las costas levantinas.
+Ejemplo: 
+Hemos podido ver cómo a primera hora de la tarde salía del hospital.
+Sugerencia: 
+Hemos visto cómo a primera hora de la tarde salía del hospital.
+Ejemplo: 
+Según hemos podido saber
+Sugerencia: 
+Según hemos sabido o, simplemente, hemos sabido
+6.5.5. Uso de adjetivos y adverbios
+Es aconsejable acotar el uso de adjetivos y adverbios en los textos informativos y utilizarlos únicamente cuando tengan pleno sentido, es decir, cuando contribuyan a describir o definir cualidades que enriquezcan la información o los datos en que se sustenta. Los adjetivos deben servir para explicar mejor los hechos, no para expresar valoraciones.
+Tanto los adjetivos superlativos como los adverbios en
+”mente” 
+son de uso común en los textos periodísticos (muy frecuente en la información deportiva) y pocas veces mejoran la calidad de la noticia. Lejos de aportar más información, pueden acabar convirtiéndose en un tópico.
+6.5.6. Errores de concordancia de género y número
+Cuando existen varios elementos que preceden al verbo, los periodistas a veces aplican la concordancia con el elemento más próximo al núcleo del sintagma verbal. Sin embargo, la concordancia debe efectuarse con el sujeto, aunque esté muy separado del verbo.
+Ejemplo: 
+La patronal bancaria ha afirmado que nos encontramos en el mes con el índice de impagos más 
+elevados
+ de los últimos tres años.
+Con frecuencia se plantean dudas sobre si usar singular o plural cuando aparece la estructura 
+Sujeto de cuantificador
+ + de + 
+sustantivo en plural.
+ Los sustantivos cuantificadores son aquellos que, siendo singulares, designan una pluralidad de seres de cualquier clase; la clase se especifica mediante un complemento con 
+de
+ cuyo núcleo es, normalmente, un sustantivo en plural: 
+la mitad de los animales,
+la mayoría de los profesores, el resto de los libros, el diez por ciento de los votantes, un grupo de alumnos, infinidad de amigos, multitud de problemas,
+ etc. La mayor parte de estos cuantificadores admiten la concordancia con el verbo tanto en singular como en plural, dependiendo de si se juzga como núcleo del sujeto el cuantificador singular o el sustantivo en plural que especifica su referencia, siendo mayoritaria, en general, la concordancia en plural. Por tanto, es correcto escribir  
+“la mayoría de médicos ha secundado el paro” y también lo es “la mayoría de médicos han secundado el paro”. 
+Lo mismo ocurre con otros casos como “
+Una veintena de personas aclamaba/aclamaban al futbolista”
+; sin embargo, cuando el verbo lleva un atributo o un complemento predicativo, solo es normal la concordancia en plural: 
+“La mayoría de estos animales son muy lentos”,”La inmensa mayoría de los hoteles de la zona estaban vacíos”
+. Los sustantivos cuantificadores que se usan sin determinante (
+infinidad, cantidad, multitud)
+ establecen la concordancia obligatoriamente en plural, pues, en realidad, forman con la preposición 
+de
+ una locución que determina al sustantivo plural, que es el verdadero núcleo del sujeto: 
+“Infinidad de vecinos acudieron a la concentración”, “Cantidad de grupos salieron a buscar al niño desaparecido”.
+Por otra parte, 
+siempre debe mantenerse la concordancia de género de los números cardinales (un, una) con los sustantivos a los que acompañan. Lo correcto es “veintiuna personas” o “sesenta y una mujeres”. Es incorrecto “veintiún personas” o “sesenta y un mujeres”. En cambio, si aparece el cuantificador “mil”, los cardinales pueden concordar tanto con “mil” como con el sustantivo; es correcto decir tanto “veintiún mil personas” como “veintiuna mil personas”.
+6.5.7. Estilo directo e indirecto
+En el estilo directo se reproduce textualmente una frase de un protagonista. Se trata de un recurso que, tanto en radio como en televisión, debe utilizarse excepcionalmente, de modo acorde con la trascendencia de lo dicho por el protagonista y, preferiblemente, precedido de una frase explicativa o justificativa en la que quede claro quién es el autor de la cita. Si no existe una frase que anteceda a la cita, el espectador/oyente tenderá a atribuir al presentador o periodista la autoría de lo que está diciendo. Aunque es habitual escuchar una entradilla cuya primera frase es una cita, el recurso deja de serlo cuando se abusa de él:
+Ejemplo de estilo directo:
+ “Las nuevos precios de los aparcamientos son un engaño”. Lo dice la Organización de Consumidores y Usuarios una semana después de la entrada en vigor de las tarifas por minuto.
+En cualquiera de los casos, podrá ser un recurso válido siempre que la cita y las frases anterior/posterior seas leídas/entonadas adecuadamente.
+Es más común el uso del estilo indirecto, en la televisión y la radio, normalmente asociado a verbos como “decir”, “afirmar”, “añadir”, etc. Precisamente uno de los riesgos de este estilo es incurrir en el abuso de los verbos citados. Otro peligro del estilo indirecto es no aclarar la autoría de una frase literal. En el siguiente ejemplo de estilo indirecto es probable que el espectador/oyente entienda que se trata de una frase literal pronunciada por el Presidente del Gobierno. No obstante, aunque resulte obvio decirlo, el espectador/oyente no ve el entrecomillado; por tanto, el periodista deberá valorar en qué ocasiones conviene recalcar que se trata de palabras literales. Si la cita forma parte de una entradilla de estudio en el medio televisión, la lectura del presentador (en estos casos es frecuente que el presentador deje de mirar a la cámara y baje la mirada al papel) será definitiva para que el espectador entienda que se trata de una frase literal:
+Ejemplo de estilo indirecto: 
+El presidente del Gobierno ha dicho que el de la paz es “un camino que sólo puede iniciarse y recorrerse en la renuncia completa a la violencia”.
+En la web, cuando se utiliza el estilo directo se reproduce textualmente lo ha que ha dicho una persona entre comillas. Hay tres formas diferentes de hacerlo. Ejemplo:
+a)    Alguien ha dicho: “…”
+El actor Luis Tosar ha afirmado tras recibir el Goya por 
+Celda 211
+: “Yo la mayor alegría de la noche ya me la he llevado hace un rato y ahora estoy un poco de bajón”.
+b)    “…”, ha dicho alguien
+“Yo la mayor alegría de la noche ya me la he llevado hace un rato y ahora estoy un poco de bajón”, ha afirmado el actor Luis Tosar tras recibir el Goya por 
+Celda 211
+.
+c)    “…” – ha dicho alguien – “…”.
+“Yo la mayor alegría de la noche” – ha dicho Luis Tosar tras recoger su Goya – “ya me la he llevado hace un rato y ahora estoy un poco de bajón”.
+En el estilo indirecto, lo dicho por el protagonista se cuenta en una subordinada introducida por ‘que’. En este caso hay que tener en cuenta el cambio en los tiempos verbales y de determinados pronombres. En este ejemplo, algunas de las expresiones pueden ir entrecomilladas.
+- 
+Correcto:
+ El actor Luis Tosar ha asegurado que la “mayor alegría de la noche” ya se la ha llevado hace un rato y que ahora está “un poco de bajón”.
+- 
+Incorrecto:
+ Tras recibir el Goya por Celda 211, el actor Luis Tosar ha afirmado que “la mayor alegría de la noche ya me la he llevado hace un rato y ahora estoy un poco de bajón”.
+6.5.8. El empobrecimiento del lenguaje 
+[1]
+El empobrecimiento del lenguaje
+[1] Se remite a la lectura de la nueva edición de la Ortografía de la lengua española, presentada el 16 de diciembre de 2010.
+6.5.8.1. Frases hechas
+Se trata de expresiones cuya utilización se recomienda acotar. Usadas adecuadamente pueden servir como fórmula de acercamiento al espectador/oyente pero debemos valorar, especialmente en los informativos, si pueden provocar sensación de escasez de recursos. Aquí se reflejan algunas de las más utilizadas:
+Las reacciones no se han hecho esperar, una de cal y otra de arena, la realidad supera a la ficción, cálidos aplausos, discusión bizantina, solución de continuidad, libro eminentemente práctico, depurar responsabilidades, espectáculo dantesco, pavoroso incendio, dar luz verde, apostar por algo, quitar hierro al asunto, estar a la vuelta de la esquina, la hora de la verdad, vuelta de tuerca, tomarse la justicia por su mano, apretada agenda, pisar el acelerador, dar el primer paso, un baño de masas, con el agua al cuello, quedarse en blanco, poner en valor, una papeleta difícil, plan de choque, el filo de la navaja, a vida o muerte, un jarro de agua fría, un alto en el camino, poner el dedo en la llaga, poner en tela de juicio, poner encima de la mesa, golpe de timón, tener asignaturas pendientes, abrir una puerta a la esperanza, etc.
+6.5.8.2. Redundancias
+Constituyen un alargamiento innecesario del sustantivo o del verbo con elementos insertos en la propia definición del sustantivo o verbo. Por tanto, todas ellas son prescindibles en los textos informativos:
+Acceso de entrada, accidente fortuito, horas del día, meses del año, crespón negro, actualmente en vigor, vigente en la actualidad, garantía absoluta, aterido de frío, tiritar de frío, base fundamental, beber líquidos, bifurcarse en dos direcciones, comunicar en una carta por escrito, conocer por primera vez, erario público, funcionario público, experiencia anterior, falso pretexto, opinión personal, favorito a priori, hablar tres idiomas distintos, conclusión final, resumir brevemente, prever con antelación, chico joven, estafeta de correos, lapso de tiempo, prefijado de antemano, proyecto de futuro, plan futuro, peluca postiza, jóvenes cachorros, partitura musical, saludo de bienvenida, veredicto final, volver a repetir, tubo hueco, etc.
+6.5.8.3. Muletillas
+La “muletilla” se define como 
+voz o frase que se repite mucho por hábito
+. Es comprensible que en una intervención en directo o con muy poco tiempo de preparación, el periodista pronuncie alguna muletilla propia del habla coloquial. Sin embargo, el espectador/oyente no tiene por qué saber en qué condiciones trabaja el periodista y, por tanto, está en su derecho de exigir la máxima corrección en el fondo y en la forma. Por tanto, conviene evitar muletillas como 
+“parece que”, “eso sí”, “un poco”, “y es que”, “por cierto”
+ etc. Hay casos en que, además, la muletilla es incorrecta: 
+“escasas horas”, “escasos minutos”, “punto y final”,
+ etc.
+6.5.8.4. Reiteraciones innecesarias
+El lenguaje de los medios audiovisuales, a diferencia del escrito, puede y debe incluir la reiteración de algunos elementos esenciales de la información, siempre de forma prudente, porque la audiencia de la radio y la televisión no puede volver atrás en su busca si no los retuvo en la primera enunciación. No obstante, debe evitarse toda reiteración innecesaria como la que se produce cuando el presentador de un programa lee en la entradilla los mismos datos y hasta las mismas expresiones que aparecen en la 
+pieza 
+que le sigue.
+6.5.8.5. Laísmo y leísmo
+El laísmo consiste en emplear como complemento indirecto el pronombre femenino 
+la(s)
+ (que sólo debe ser usado como complemento directo) en lugar de 
+le(s)
+: 
+Las llevé flores
+ constituye laísmo. Lo correcto sería 
+Les llevé flores
+ (a ellas)”.
+Se comete leísmo cuando se usa 
+le(s)
+ como complemento directo en lugar de 
+lo
+, para el masculino singular o neutro, de animal o cosa. 
+Compré el coche
+, 
+le compré
+ estaría mal dicho. Lo correcto sería 
+lo compré
+.En el caso de masculino de persona se puede usar tanto 
+lo
+ como 
+le
+: 
+Le llamé
+ o 
+lo llamé
+ (a mi marido).
+6.5.8.6. Extranjerismos
+Los profesionales de RTVE deben contribuir a frenar la invasión de palabras de otros idiomas, especialmente del inglés, y utilizar vocablos españoles siempre que exista una palabra que signifique lo mismo. La excepción son aquellas palabras extranjeras que llevan aparejado un significado que se perdería en caso de ser traducidas: harakiri, green, penalty, rock, geisha, kamikaze, etc. En tales casos la pronunciación será la de los idiomas de origen.
+6.5.8.7. Lenguaje ofensivo y/o soez
+La audiencia rechaza la utilización de palabras malsonantes, expresiones de contenido explícitamente sexual y blasfemias. Los profesionales de RTVE evitarán su uso incluso en contextos coloquiales.
+Entre las expresiones ofensivas debemos incluir, además de las palabras soeces y las blasfemias, las de contenido racial, sexista, homófobo o despectivas para los discapacitados.
+No se deberá utilizar el término pornografía infantil sino pornografía donde se abuse de menores.
+6.5.8.8. Eufemismos
+La Real Academia Española define el eufemismo como 
+manifestación suave o decorosa de ideas cuya recta y franca expresión sería dura o malsonante
+. Sin embargo, este es solo uno de los tipos de eufemismos, ya que las finalidades pueden ser diversas: no herir sensibilidades, adornar o tapar una realidad, instigar, etc.
+La práctica de determinados eufemismos ayuda a mantener la imagen de un determinado grupo social o político pero además contribuye a que los periodistas favorezcan su propia imagen ante estos grupos generadores de informaciones, respetando la literalidad de las declaraciones de las fuentes.
+El eufemismo también puede responder a la línea editorial del medio. Algunos ejemplos de eufemismo son: impuesto revolucionario (extorsión o chantaje), detención ilegal (secuestro), ejecución (asesinato), confrontación (pelea), interrupción del embarazo (aborto), estado de embriaguez (borracho), quitarse la vida (suicidarse), restos mortales (cadáver), tercera edad (vejez), residuos sólidos urbanos (basura), centro penitenciario (cárcel), interno (preso), etc.
+El campo bélico ha sido y es fuente de constantes eufemismos: actividad armada, acción militar, operación de castigo, solución quirúrgica, ataque selectivo, daños colaterales, circunstancias violentas, neutralizar, dialéctica militar, limpieza étnica, etc.
+Otros ámbitos favorecedores del eufemismo son la política y la economía: gestos de distensión, medidas de presión, política de gestos, consulta al pueblo (referéndum), racionalización de plantilla, regulación de empleo, excedente laboral, desempleado, desfavorecido, país en vías de desarrollo, zona deprimida, reubicación, deslocalización, actualización de precios/tarifas, crecimiento negativo, desaceleración, sobredimensionar, resituarse, etc.
+Los profesionales de RTVE deberán valorar en cada caso si el uso de un determinado eufemismo puede lesionar el rigor, la veracidad y credibilidad de un texto periodístico. Asimismo, se deberá tener en cuenta que existen eufemismos muy arraigados en nuestro vocabulario y que han sido ampliamente aceptados y que, en otros casos, el eufemismo responde al objetivo de encontrar un modo diferente de decir aquello que pretendemos decir, en pro de un correcto uso del lenguaje y de la ética profesional.
+6.5.8.9. Nombres y topónimos
+Nombres propios
+La elección de idioma para el nombre propio es derecho exclusivo de cada ciudadano. Los profesionales de de RTVE deben respetar la lengua en que cada persona prefiera ser nombrada y hacerlo con una pronunciación correcta.
+Topónimos
+Un topónimo puede tener varias expresiones en atención a la diversidad idiomática de la comunidad en que se encuentra y a la tradición. Las localidades que sólo tengan un nombre legal deben ser nombradas por él aunque no sea la forma tradicional por la que es conocida fuera de la comunidad a la que pertenezca. Es el caso de algunas ciudades (Girona, Lleida, A Coruña, etc.) que por mandato legal deben ser nombradas sólo en el idioma vernáculo. Cuando una localidad posea oficialmente más de un nombre debido al bilingüismo oficial de la comunidad en la que se encuentra, los profesionales de RTVE deberán emplear el más utilizado por su audiencia. No se debe nombrar una localidad con dos nombres en paridad de valor (Vitoria-Gasteiz fuera del País Vasco ha de citarse como Vitoria) pero se debe respetar en boca de terceros.
+Topónimos compartidos
+Los nombres de los ríos, montes, desiertos, sistemas montañosos o cualquier otro tipo de accidente geográfico que tengan expresión en varios idiomas porque forman parte de dos o más comunidades deben ser nombrados en castellano en los medios de RTVE.
+Subtítulos y doblaje
+Cuando una persona invitada a participar en una información o un programa utiliza un idioma español que no sea el castellano hay que garantizar que la audiencia entiende sus palabras pero se le debe permitir escuchar algo de la versión original porque el modo de expresarse y las modulaciones de la voz son parte del mensaje y de la personalidad del que habla. Lo más respetuoso es el subtitulado que permite escuchar el original y entender su significado. En la radio es preciso que sea audible la versión original al comienzo y al final de la frase seleccionada aunque se doble la totalidad. En el caso de los idiomas extranjeros las intervenciones se ofrecerán dobladas al castellano.
+6. 5.8.10. Idiomas extranjeros
+Se procurará unificar los criterios de pronunciación de palabras extranjeras.
+Como norma general se utilizará la pronunciación de la lengua original o la más aproximada a ella, excepto en aquellos casos en los que existe una versión admitida y asentada en castellano. Así, decimos Londres, no London, Nueva York, no New York, Florencia, no Firenze.
+Las dudas surgen cuando se trata de vocablos en lenguas con alfabetos distintos del nuestro y cuya trascripción al alfabeto latino proviene de otro idioma, generalmente el inglés, diferente del español, lo que puede conducir a error respecto a su pronunciación en la lengua original. Por ejemplo. El sonido Y (y griega) en español se transcribe en inglés como J, mientras que el sonido de la J española se transcribe en inglés como Kh. Así, encontraremos Jenín cuando debe pronunciarse Yenín, o Khartum por Jartum o Khemer por Jémer.
+Dado que la casuística es muy amplia y que la dinámica de la actualidad informativa introduce constantemente nuevos nombres en lenguas extranjeras cuyas correcta pronunciación puede resultar dudosa, se recomienda mantener una actitud vigilante mediante la consulta a organismos o personas expertas en el tema, siempre con el objetivo de respetar al máximo el idioma de referencia y unificar los criterios de pronunciación para los profesionales de CRTVE.
+Nombres nuevos
+Los países o ciudades que han decidido cambiar su nombre en el proceso de descolonización tienen el derecho a que los profesionales de RTVE respeten su decisión. Por eso debemos decir Mumbay o Burma y no Bombay o Birmania, aunque sea conveniente citar al menos una vez la antigua denominación para quienes todavía no dominen la nueva.
+Países con pronombre
+Tradicionalmente el castellano, siguiendo al francés, anteponía al nombre de algunos países y regiones un pronombre: la India, la China, la Toscana… Los profesionales de RTVE solo deben mantener el pronombre en muy contados casos como la India, el Reino Unido o las regiones que siempre lo han llevado (la Provenza, el Algarve, la Toscana…)
+6.5.8.11. Tratamientos
+Protocolo
+El tratamiento de las personas en RTVE debe huir de toda forma protocolaria  anticuada. El cargo de una persona sólo debe enunciarse al presentarla por primera vez y no ha de acompañar a su nombre y apellidos a lo largo de la información.
+Don/Doña
+El tratamiento de don y doña está en desuso en el periodismo español aunque se siga empleando en otros idiomas y en el español de América Latina. Los profesionales de RTVE deben eludir el tratamiento de don y doña en todos los casos. También deben evitar el tratamiento tradicional de los miembros del clero (reverendo, padre, sor, hermana, monseñor, etc.) y de dignidades académicas (excelentísimo, ilustrísimo, magnífico, doctor, etc.).
+Familia Real
+La única excepción a la pérdida general del tratamiento de respeto es la Familia Real española cuyos miembros mantienen el don o doña antes del nombre propio si éste no va precedido de su rango como rey, reina, príncipe o infante. Diremos “Don Juan Carlos” o el “Rey Juan Carlos”, pero no “el Rey don Juan Carlos”. Por otra parte, es incorrecto el uso de la palabra 
+monarcas
+ para designar al rey y a su mujer; solo el rey es el monarca. Añade la Fundéu que los términos 
+monarca
+ y 
+soberano
+ (que ejerce la autoridad suprema) equivalen siempre a 
+rey
+ (jefe de Estado); todo rey es siempre jefe de Estado y, por consiguiente, monarca y soberano. Por el contrario, una reina no siempre es jefa de Estado y, por tanto, únicamente es soberana y monarca si ejerce la autoridad suprema del país.
+Nombres propios
+La primera vez que se cita a una persona debe hacerse con su nombre y apellido (el segundo, sólo si es necesario para identificarla plenamente) además del cargo o función, incluso en el caso de las más conocidas como puedan ser el Rey o el presidente del Gobierno. En las sucesivas citas bastará con el apellido, precedido del tratamiento de señor o señora.
+Tratamiento del público
+Los oyentes, telespectadores o lectores de los medios de RTVE tienen derecho a ser tratados siempre de usted. Sólo se puede tutear al público en los programas destinados a niños y jóvenes.
+Los entrevistados
+Con independencia de su rango, todos los invitados a participar serán tratados de usted aunque la audiencia sepa que existe un alto grado de confianza entre el profesional de RTVE y el invitado. La única excepción pueden ser deportistas y personajes de la cultura y/o espectáculo que disfruten de gran popularidad.
+6.5.8.12. Advertencias para la escritura de textos que serán leídos por el espectador y/o usuario de medios interactivos 
+[1]
+Acentuación gráfica de las letras mayúsculas:
+Recuerda la Real Academia Española que la acentuación gráfica de las letras mayúsculas no es opcional, sino obligatoria, y afecta a cualquier tipo de texto. Las únicas mayúsculas que no se acentúan son las que forman parte de las siglas (
+CIA)
+.
+Por tanto, las letras mayúsculas deben escribirse con tilde si les corresponde llevarla según las reglas de acentuación gráfica del español, tanto si se trata de palabras escritas totalmente con mayúsculas como si se trata únicamente de la mayúscula inicial:
+Su hijo se llama Ángel
+ADMISIÓN
+ATENCIÓN, POR FAVOR.
+Mayúscula o minúscula en meses, días de la semana y estaciones:
+Salvo que la mayúscula venga exigida por la puntuación (a comienzo de texto o después de punto), los nombres de los días de la semana, de los meses y de las estaciones del año se escriben en español con minúscula inicial:
+Falleció el pasado martes, 23 de septiembre.
+Barcelona, 6 de octubre de 2008.
+Un otoño sin agua.
+Solo se inician con mayúscula cuando forman parte de nombres que exigen la escritura de sus componentes con mayúscula inicial, como ocurre con los nombres de festividades, fechas o acontecimientos históricos, vías urbanas, edificios, etc.: 
+Viernes Santo, Primavera de Praga, plaza del Dos de Mayo, Hospital Doce de Octubre.
+Uso del punto:
+Los títulos y subtítulos de libros, artículos, capítulos, obras de arte, etc., cuando aparecen aislados, no llevan punto final:
+La sombra del viento
+La Venus del Espejo
+Uso del guion:
+Como norma general, los prefijos y elementos compositivos se escriben junto a la palabra a la que se unen, sin guion intermedio: 
+antidisturbios, subcomité, posguerra, preselección, superdivertido, interestatal, electroimán, etc.
+Solo se escribe guion intermedio si la palabra base comienza por mayúscula o se trata de una sigla: 
+anti-OTAN, pos-Maastricht.
+Si se anteponen a una palabra dos prefijos coordinados, el primero de ellos se escribe aislado y con guion, para indicar su condición de prefijo y evitar al mismo tiempo la repetición de la palabra base:
+Estas medidas han de aplicarse durante el pre- y el posoperatorio
+El guion también se usa para asociar los dos elementos que integran algunas palabras compuestas (
+estudio físico-químico
+)
+.
+ Igualmente, sirve para relacionar palabras, al modo de una conjunción (
+Se mantiene la relación calidad-precio
+), y también para unir números entre sí o números con palabras, abreviaturas, siglas, etc.:
+págs. 33-35.
+Zaragoza-08.
+Carretera N-303.
+El prefijo “ex”:
+La nueva Ortografía de la lengua española homologa la partícula “ex” al resto de los prefijos, lo que supone un cambio en la norma. El prefijo “ex” se escribirá unido a la base cuando esta sea una palabra simple (expresidente, exmarido) y separado cuando la base esté integrada por varias palabras (ex general de división, ex teniente de alcalde). En ningún caso debe usarse guion; por tanto, no es correcto escribir ex-presidente ni ex-consejero.
+Uso de comillas:
+Entre los diversos usos recogidos en la “Ortografía de la lengua española”, aquí se reflejan algunos habituales en la escritura de rótulos. Así, se utilizan comillas en los siguientes casos:
+-Para reproducir citas textuales de cualquier extensión.
+-Para indicar que una palabra o expresión es impropia, vulgar o de otra lengua, o que se utiliza irónicamente o con un sentido especial:
+Dijo que había dormido a la “interperie”
+La “boiserie” se vendió por mil euros
+En la cárcel mantuvo sus “negocios”
+-Para citar títulos de artículos, poemas, cuadros, etc.:
+Pronunció una conferencia titulada “La energía del futuro”
+-Para citar cualquier parte dependiente de una publicación o creación más amplia: título de un artículo, un poema, el capítulo de un libro, un reportaje, una canción etc…También para los nombres de los cuadros y las esculturas.
+-Cuando reproduzcamos en un titular o en un ladillo un elemento que en el cuerpo de la noticia lleva comillas dobles.
+Uso de la cursiva:
+Se utilizará la cursiva en los siguientes casos:
+-Con los neologismos.
+-Los alias y los apodos cuando van acompañados del nombre propio. Si van solos, se pondrán en letra redonda. Por ejemplo: “La Policía ha detenido a Mikel Garikoitz Aspiazu, 
+Txeroki
+, en Francia” o bien “La Policía ha detenido a Txeroki en Francia”.
+-Nombres de periódicos, revistas, libros, películas, obras de teatro, discos, nombre de exposiciones, etc”.
+Números:
+- Se escribirán con letra los números de una sola cifra, del cero al nueve, y los quebrados. Para el resto, incluidos los números con decimales inferiores a 10, se utilizará el guarismo. Si hablamos de medidas se dirá 6 metros y no seis metros.
+- Cuando hablemos de millones no hará falta poner todas las cifras: 30 millones, 78 millones…
+Porcentajes:
+En el caso de los porcentajes, se escribirá el número seguido del símbolo %.
+Horas:
+Cuando se use el sistema de 24 horas, se utilizará el punto y no los dos puntos. Se escribirá 12.35, no 12:35.
+Cuando se esté informando sobre un hecho en otro país, será necesario poner la hora local y la “hora peninsular española”, no la GMT.
+Moneda:
+Todas las cantidades de dinero deberán ser convertidas a euros aunque se podrá poner entre paréntesis la moneda originaria.
+Cargos, instituciones y organismos:
+El nombre del cargo se escribe en minúscula y la institución o el organismo en mayúscula. Se escribirá 
+el ministro
+ y, cuando aludamos a la institución, el 
+Ministerio de Fomento
+. Por otra parte, se remite a la lectura de la nueva Ortografía de la lengua española para conocer el uso de mayúsculas o minúsculas en otros casos. Una de las novedades es que los sustantivos que designen títulos nobiliarios y cargos deben escribirse con minúscula inicial (rey, papa, etc.).
+Nombres de operaciones y casos:
+En las operaciones policiales o militares, tanto el término 
+operación
+ como el nombre propio que se le haya dado irán en mayúscula y en letra redonda. Ejemplo: Operación Astapa. En cuanto a las investigaciones judiciales, la palabra 
+caso
+ irá en minúscula como un nombre propio y el segundo elemento en mayúscula. La Fundéu recomienda escribir ambos términos en cursiva. Ejemplo: 
+caso Faisán.
+[1] Se remite a la lectura de la nueva edición de la Ortografía de la lengua española, presentada el 16 de diciembre de 2010. El texto introduce novedades que afectan especialmente a la redacción de rótulos y de textos en medios interactivos.
+6.5.8.13. Impropiedades léxicas y usos erróneos del lenguaje
+Es frecuente el uso de vocablos y expresiones con un significado que no se corresponde con ninguno de los recogidos por la Real Academia Española. Los profesionales de RTVE tienen la obligación de conocer y respetar los usos idiomáticos admitidos así como los cambios que, en virtud de la evolución del habla y de los usos, acepte la Real Academia Española. En este sentido, se sugiere aprovechar, entre otros, los recursos de la Fundación del Español Urgente, en cuyo Patronato están presentes la Real Academia Española, el Instituto Cervantes y la Fundación San Millán de la Cogolla.
+Menú de navegación principal
+Noticias
+RTVE Play
+RNE Audio
+Play Noticias
+RTVE Participa
+Filmoteca
+Televisión
+Radio
+Deportes
+Tiempo
+Clan
+Laboratorio
+Menú de Televisión Española
+2° Dividendo Digital
+RTVE Botón Rojo
+Corresponsalías
+TVE Internacional
+TVE Catalunya
+TVE Canarias
+Teletexto
+Centros Territoriales
+TVE en directo
+Menú de Radio Nacional de España
+Radio Nacional
+Radio Clásica
+Radio 3
+Ràdio 4
+Radio 5
+Radio Exterior
+Podcast
+Frecuencias
+Menú de la Corporación RTVE
+Transparencia
+Sostenibilidad
+RTVE Comunicación
+Manual de estilo
+Código de autorregulación
+Derecho de acceso
+Ofertas de empleo
+RTVE 2030
+Defensora de la Audiencia
+Observatorio de Igualdad
+Observatorio de la Infancia y la Adolescencia
+Canal Ético
+Instituto RTVE
+Orquesta Sinfónica y Coro RTVE
+Dirección Comercial
+Impulsa Visión
+Perfil del Contratante
+Contratación audiovisuales
+Archivo RTVE
+Aviso legal
+Política de privacidad
+Política de cookies
+Política de WhatsApp
+Política de seguridad
+Accesibilidad
+Mapa web
+Contacto
+Normas de Participación
+©
+ Corporación de Radio y Televisión Española 2026
