@@ -9,7 +9,7 @@
 | **Fuente** | Cinco rúbricas sobre **once fuentes**: Ley 31/1995, RD 488/1997, RD 486/1997, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015 y documentación técnica del INSST |
 | **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-1997-8669` · `BOE-A-1997-8671` · `BOE-A-2001-11881` · `BOE-A-2002-18099` · `BOE-A-2004-21216` · `BOE-A-2015-11724` · `BOE-A-2017-6606`. La **documentación técnica del INSST** no tiene identificador del BOE: se cita por su título en cada epígrafe |
 | **Redacción que se estudia** | Las **normas**, en su redacción vigente el **21/12/2022**. La **documentación técnica del INSST**, en su **edición publicada**, indicada caso por caso |
-| **Extensión** | **11.811 palabras** |
+| **Extensión** | **11.819 palabras** |
 
 <!-- /portada -->
 
@@ -965,9 +965,10 @@ definidas como tales en los reglamentos electrotécnicos.»** Y el reglamento el
 **«muy baja tensión»**: **hasta 50 V en corriente alterna y hasta 75 V en corriente continua**,
 con el ejemplo de **las redes informáticas y similares**.
 
-**El interruptor diferencial, que se pregunta y está en los dos sitios.** La **ITC-BT-24** de
-ese mismo reglamento —«Instalaciones interiores o receptoras. Protección contra los contactos
-directos e indirectos»— lo coloca **en los dos capítulos**, y por eso la pregunta admite una
+**El interruptor diferencial, que se pregunta y está en los dos sitios.** La **instrucción
+técnica complementaria (ITC) BT-24** de ese mismo reglamento de **baja tensión (BT)**
+—«Instalaciones interiores o receptoras. Protección contra los contactos directos e
+indirectos»— lo coloca **en los dos capítulos**, y por eso la pregunta admite una
 respuesta que a primera vista parece equivocada:
 
 - **Como protección contra contactos DIRECTOS**, en el apartado **3.5, «Protección

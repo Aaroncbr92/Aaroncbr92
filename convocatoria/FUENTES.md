@@ -27,15 +27,30 @@ se deducen: se han resuelto contra el BOE, y el acceso se ha probado uno a uno.
 | Producción 17 | LOPDGDD 3/2018 | `BOE-A-2018-16673` | consolidado, API |
 | Información 4 | Código de autorregulación de derechos del menor de RTVE | PDF en rtve.es | descarga bien |
 | Información 5 | RDL 4/2018 | `BOE-A-2018-8577` | consolidado, API |
-| Información 6 | Manual de estilo de RTVE | manualdeestilo.rtve.es | **403, no se descarga** |
+| Información 6 | Manual de estilo de RTVE | manualdeestilo.rtve.es | **descargado** (ocho capítulos, ~48.000 palabras) |
 | Información 7 | Directiva UE 2018/1808 | DOUE L 303, vía BOE | descarga bien |
 | Información 8 | Resolución del PE de 25/11/2020 | CELEX 52020IP0320 | descarga bien |
-| Información 9 | Informe mundial UNESCO 2021/2022 | unesdoc.unesco.org | **403, no se descarga** |
+| Información 9 | Informe mundial UNESCO 2021/2022 | unesdoc.unesco.org | **403 de verdad**; se usa el micrositio oficial del informe |
 | Información 10 | Carta ética mundial para periodistas (FIP) | PDF en ifj.org | descarga bien |
 
-Las dos fuentes en 403 lo devuelven también con navegador simulado: es bloqueo
-del servidor, no del proxy. Hay que conseguirlas por otra vía antes de escribir
-esos dos temas.
+**Esta tabla dijo durante días que las dos daban 403 «del servidor, no del
+proxy». Sólo una lo daba, y la conclusión era la equivocada.**
+
+- **El Manual de estilo se descarga bien**, y está entero en
+  `fuentes/informacion/`. Su 403 **no venía del servidor**: el programa da la
+  dirección en `http://` y la política de salida de este entorno sólo deja pasar
+  `https`. Cambiar el esquema bastó. Estuvo dado por imposible desde la primera
+  revisión de fuentes.
+- **El informe de la UNESCO sí está bloqueado de verdad**: `unesdoc.unesco.org`
+  responde con un desafío de JavaScript de Cloudflare, que un cliente sin
+  navegador no resuelve. Se probaron cinco caminos y ninguno abre. **El tema 9 se
+  escribe contra el micrositio oficial del propio informe**, que publica sus
+  capítulos en página web, y **declara las dos preguntas que ese micrositio no
+  sostiene**.
+
+De ahí sale la regla que dejó este bloque: **un 403 no dice quién bloquea.**
+Antes de anotar una fuente como cerrada hay que separar el bloqueo del servidor
+del de la red por la que se sale.
 
 ## El programa cita una foto de las normas que ya no es la vigente
 

@@ -992,7 +992,7 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
 
 - **2026-09-02 · El tema que estaba escrito y no se imprimía en ninguna parte.** Al resumir lo
   hecho salió un hueco que ninguna herramienta avisaba: **el tema de prevención del específico
-  —11 811 palabras, 31 preguntas, verificado y cerrado desde el 30 de agosto— no estaba en ningún
+  —11.819 palabras, 31 preguntas, verificado y cerrado desde el 30 de agosto— no estaba en ningún
   volumen**. Es el **18 de Producción, el 7 de Documentación y el 11 de Información y
   Contenidos**, y los tres libros salían con un tema menos del que dice su Anexo 2.
   **Por qué no lo cazó nadie**: `libro.py` construía la ruta de cada tema como
@@ -1024,3 +1024,23 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   **No afectan al temario** —puntúan la fase de concurso— y por eso llevaban ahí tres días sin que
   nadie los echase de menos. Se guardan igual, con las dos cifras de cabecera **comprobadas en el
   texto descargado y no en el resumen del buscador**, que es de donde salían al escribirlas.
+
+- **2026-09-02 · Una corrección posterior al informe deja el informe mintiendo.** Al repasar si
+  quedaba algo abierto, la lente de prosa dio **diez siglas** en el tema de prevención y su informe
+  de refutación declaraba **siete**. Las tres nuevas habían entrado con la corrección del 30 de
+  agosto —la del interruptor diferencial y la ITC-BT-24—, hecha **después** de escribir el informe
+  y sin volver a pasar las lentes.
+  **Dos eran ruido conocido y una era real.** El tema escribía «la **ITC-BT-24** de ese mismo
+  reglamento» y **glosaba su título pero no sus siglas**: quien no venga de instalaciones
+  eléctricas no sabe que está leyendo una *instrucción técnica complementaria* del reglamento de
+  *baja tensión*. Desarrolladas las dos dentro de la frase, en su primera aparición.
+  **La regla que queda**: **un tema ya refutado que se toca vuelve a la lente**, aunque el cambio
+  venga de una fuente buena y parezca cerrado. El informe es una foto, y una corrección la
+  desactualiza sin avisar.
+
+- **2026-09-02 · La ficha de fuentes seguía dando por bloqueado lo que ya estaba descargado.**
+  `convocatoria/FUENTES.md` marcaba el **Manual de estilo** y el **informe de la UNESCO** como
+  «403, no se descarga», y concluía que las dos eran **«bloqueo del servidor, no del proxy»**.
+  **Sólo una lo era**, y la conclusión estaba escrita en plural. El manual se descarga entero sin
+  más que pedirlo por `https`; el informe sí está tras un desafío de Cloudflare. La ficha ya lo
+  dice separado, con la regla delante: **un 403 no dice quién bloquea**.

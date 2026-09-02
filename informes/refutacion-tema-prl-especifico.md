@@ -143,6 +143,20 @@ detector: **BC** (agente extintor), **DN** (diámetro nominal), **ISO** y **UNE*
 normalización), **OCRA** (nombre de un método), **NO** en mayúscula por énfasis y **LGSS**, que
 sí se presenta pero con una fórmula que el detector no reconoce.
 
+**Repasado el 2026-09-02, al meter el tema en los tres volúmenes: eran diez, no siete, y una era
+de verdad.** Las tres nuevas entraron con la corrección del 30 de agosto —la del interruptor
+diferencial— y con ella el epígrafe 4.8, que el informe ya no volvió a mirar. **EN** es ruido de
+la misma familia que ISO y UNE: va dentro de la designación de una norma, «EN ISO 9241-410:2008».
+**ITC** y **BT** no lo eran: el tema escribía «la ITC-BT-24 de ese mismo reglamento» y
+**glosaba su título pero no sus siglas**, de modo que quien no venga de instalaciones eléctricas
+no sabe que está leyendo una *instrucción técnica complementaria* del reglamento de *baja
+tensión*. Se han desarrollado las dos en su primera aparición, dentro de la frase.
+
+**La lección es de método, no de contenido**: una corrección posterior al informe **deja el
+informe mintiendo**, y aquí lo dejó dando siete donde había diez. Cuando se toca un tema ya
+refutado, hay que volver a pasarle las lentes, aunque el cambio venga de una fuente buena y
+parezca cerrado.
+
 **El esquema son 2.937 palabras y 107 líneas de contenido.** En **líneas está por debajo** de la
 referencia del apartado 9 del manual —unas 130—; en **palabras, un 47 % por encima** de las
 2.000. Y queda **muy por debajo del de la Ley 31/1995**, que se va a 3.966. La diferencia no es
