@@ -1,0 +1,18 @@
+Fichas de programas del catálogo público de RTVE Play
+https://www.rtve.es/api/programas.json (catálogo completo: 4.623 programas)
+Leído el 3 de septiembre de 2026.
+
+Se recogen las fichas de los tres programas que el examen ofrece como opciones
+falsas frente a «Vivir cada día», para poder decir qué es cada uno.
+
+Título: Sobre el terreno (1974-1981)
+Página: https://www.rtve.es/play/videos/sobre-el-terreno-1974-1981/
+Sinopsis: Programa de información sobre la actualidad deportiva, con entrevistas, reportajes y noticias presentadas desde los estudios de Barcelona.
+
+Título: La segunda oportunidad
+Página: https://www.rtve.es/play/videos/la-segunda-oportunidad/
+Sinopsis: Serie que tenía como principal objetivo concienciar a los conductores para reducir los accidentes de tráfico.
+
+Título: Conozca usted España
+Página: https://www.rtve.es/play/videos/conozca-usted-espana/
+Sinopsis: Serie concebida para promocionar el turismo en España. Cada programa está dedicado a una ciudad o región española en la que una celebridad local sirve de guía.

@@ -667,3 +667,27 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   en esta ley no ha cambiado ni una palabra desde su publicación, y lo diferido era la
   **exigibilidad**. El programa lo respalda al citar el «texto inicial». En el volcado al
   corte esos bloques llevan **aviso expreso**, y el tema explica la distinción.
+
+- **2026-09-03 · La lente de exactitud no veía las citas repartidas en dos renglones.** Su
+  expresión buscaba las negritas **sin `re.S`**, de modo que el punto no cruzaba el salto de línea:
+  una cita larga —que en estos temas ocupa casi siempre tres o cuatro renglones— **no salía como no
+  literal, salía como si no existiera**. Se descubrió porque el primer tema de Documentación devolvió
+  «0 negritas comprobadas» sobre una ley que citaba entera. Corregido, el recuento sube en **todos**
+  los temas cerrados con norma articulada: la Constitución pasa de **475 a 819** negritas
+  comprobadas, la Ley 31/1995 de **557 a 858**, la Ley 13/2022 de **276 a 427** y la propiedad
+  intelectual de **412 a 641**. Es decir, **en el tema de la Constitución había 344 citas que nunca
+  se habían mirado**. Se pasó después por todos los temas cerrados una comprobación dirigida —cada
+  negrita **dentro de comillas angulares**, contra el texto de sus normas— y **no apareció ninguna
+  cita alterada**: lo recién visible es comentario en negrita, no citas. Está contado en
+  `informes/refutacion-documentacion-tema-01.md`.
+
+- **2026-09-03 · Empieza el bloque específico de Documentación, y su tema 1 deja tres reglas.**
+  Primera: **una fuente puede estar dada por leída sin estarlo**. El inventario de fuentes daba por
+  verificado el «Teatro Monumental» en la portada de la Orquesta y Coro, y al comprobarlo contra el
+  fichero guardado **la palabra no aparecía**; se cerró con el programa de conciertos de la propia
+  agrupación. Segunda: **cuando la fuente natural es la parte interesada, se busca fuera**. La fecha
+  de La 2 no está en ninguna página de RTVE, y sí en una nota de prensa del portal público de
+  televisión digital, que además explica el apodo «UHF» que usa el enunciado. Tercera: **un catálogo
+  completo es una ruta**. Para «Cita con Pilar» se descargaron las **4.623 fichas** que RTVE publica
+  y se buscaron una a una; el programa no está, y por eso ese año se marca como apoyado sólo en la
+  plantilla.

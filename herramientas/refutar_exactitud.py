@@ -154,7 +154,12 @@ def main():
         cuerpo = " ".join(arts.get(n, "") for n in nums)
         if not cuerpo:
             continue
-        for negrita in re.findall(r"\*\*(.+?)\*\*", bloque):
+        # sin re.S el punto no cruza el salto de línea, y una cita en negrita
+        # repartida en dos renglones —que es lo normal cuando el tema va a
+        # ancho de columna— no la ve nadie: no sale como no literal, sale como
+        # si no existiera. Un tema con las citas largas sin comprobar da un
+        # recuento bajo y limpio, que es el fallo del apartado 10 del manual
+        for negrita in re.findall(r"\*\*(.+?)\*\*", bloque, re.S):
             frag = limpia(negrita)
             if len(frag.split()) < 3:       # una o dos palabras no dice nada
                 continue
