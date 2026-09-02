@@ -767,3 +767,28 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   texto de la fuente**. Se cita en inglés y se traduce fuera. Y un segundo caso del mismo linaje: una
   cita de un artículo de revista **llevaba el encabezado de página incrustado** por la extracción del
   PDF, y el borrador lo había quitado en silencio. Ahora va con puntos suspensivos y una nota.
+
+- **2026-09-03 · La lente de prosa miraba el sitio equivocado.** Para saber si una sigla está
+  presentada mira los 130 caracteres anteriores a su primera aparición, y localizaba esa aparición
+  **con una búsqueda de trozo, no de palabra**: encontraba «SI» dentro de «MÚSICA» y «RD» dentro de
+  «BORDER», de modo que **comprobaba la presentación donde la sigla no está** y el aviso se volvía
+  **incorregible**. Corregida con límites de palabra: en el tema 6 de Documentación pasó de **trece
+  avisos a uno**, y en el resto del proyecto **destapó avisos que un paréntesis mal situado daba por
+  resueltos**. Casi todos son falsos positivos —mayúsculas de énfasis, trozos de «CC.AA.» y
+  «NO-DO»—; uno era real y se corrigió; **quedan cuatro en un tema del bloque general**, anotados en
+  `PENDIENTES.md` porque ese volumen ya está impreso.
+
+- **2026-09-03 · Cuarenta preguntas de «actualidad», y quince tenían documento.** El punto 6 de
+  Documentación no acota nada —nueve materias separadas por puntos— y parecía condenado a la
+  plantilla. Tratando cada pregunta como **un dato que comprobar**, **quince quedaron atadas a un
+  documento y nueve de ellas al BOE**. La ruta nueva es **el sumario diario del BOE por su API de
+  datos abiertos**, que localiza nombramientos y decretos —que no están en la legislación
+  consolidada— cuando se sabe la fecha aproximada. Y el caso más instructivo: **la sede de la Corte
+  Penal Internacional se resolvió con derecho español**, porque su sitio responde «prohibido» y
+  España publicó el Estatuto de Roma en el BOE, en español.
+
+- **2026-09-03 · Cuando la respuesta no está en la norma, puede estar el descarte.** El curio no
+  aparece en el real decreto español de unidades, porque no es unidad del sistema internacional. Pero
+  el real decreto **define las tres opciones falsas** —amperio, kelvin y newton— como unidades de
+  otras magnitudes, y dice que la unidad del sistema para esta magnitud es el becquerel. **Un
+  descarte completo vale tanto como una cita**, y así se marca.

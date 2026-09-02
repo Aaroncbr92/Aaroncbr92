@@ -52,10 +52,16 @@ def main():
     for sigla in sorted(set(re.findall(r"\b([A-Z]{2,6})\b", tema))):
         if ROMANOS.match(sigla) or sigla in CONOCIDAS:
             continue
-        i = tema.find(sigla)
+        # buscar la sigla como palabra, no como trozo: `find` la encuentra dentro
+        # de otra palabra —«RD» dentro de «BORDER», «SI» dentro de «MÚSICA»— y
+        # entonces se comprueba la presentación en un sitio del tema donde la
+        # sigla no está, de modo que un aviso correcto se vuelve incorregible
+        m = re.search(r"\b%s\b" % re.escape(sigla), tema)
+        i = m.start() if m else -1
         # «Directiva 2007/65/CE» no es una sigla del tema: es el nombre de la norma
         while i > 0 and tema[i - 1] == "/":
-            i = tema.find(sigla, i + 1)
+            m = re.search(r"\b%s\b" % re.escape(sigla), tema[i + 1:])
+            i = i + 1 + m.start() if m else -1
         if i < 0:
             continue
         antes = tema[max(0, i - 130):i]

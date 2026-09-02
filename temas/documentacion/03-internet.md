@@ -10,14 +10,15 @@
 | **Identificador** | `BOE-A-2015-8338` · `BOE-A-2020-4112` · `EBU Tech 3293 v.1.10` · RDF Primer del **W3C** |
 | **Redacción que se estudia** | El **real decreto en su texto vigente al 21/12/2022**, la **sentencia tal como la publicó el BOE**, la especificación en su **versión 1.10, de abril de 2020**, y las páginas **tal como estaban el 03/09/2026** |
 | **Aviso sobre las fuentes** | De sus **8 preguntas**, **6 se verifican en documento**: dos en el BOE, una en la especificación de la Unión Europea de Radiodifusión, una en la documentación del W3C y dos en la ayuda de los propios buscadores. Las **2 restantes** —la expresión booleana y el año de una red social— se apoyan **sólo en la plantilla oficial**, y van marcadas |
-| **Extensión** | **4.659 palabras** |
+| **Extensión** | **4.672 palabras** |
 
 <!-- /portada -->
 
 **El enunciado de este punto es el más cargado de siglas de todo el programa, y conviene traerlas
 presentadas.** Son el consorcio que normaliza la web (**W3C**), el sistema simple de organización del
 conocimiento (**SKOS**), el marco de descripción de recursos (**RDF**), el lenguaje de ontologías web
-(**OWL**), el conjunto de metadatos de la Unión Europea de Radiodifusión (**EBUCore**), el modelo
+(**OWL**), el conjunto de metadatos de la unión europea de radiodifusión, que se nombra con sus siglas
+inglesas (**EBU**) y da nombre al conjunto (**EBUCore**), el modelo
 conceptual de datos por clases (**CCDM**) y el contenido generado por el usuario (**UGC**). Aparecen
 además, en el cuerpo del tema, el lenguaje de marcado extensible (**XML**), el localizador uniforme
 de recursos (**URL**) y el protocolo de transferencia de hipertexto (**HTTP**), que son las tres

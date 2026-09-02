@@ -1,0 +1,39 @@
+Preceptos del BOE usados en el tema 6 del específico de Documentación.
+Volcados con `herramientas/boe.py precepto --fecha 20221221` el 3 de septiembre de 2026.
+
+========== Estatuto de Roma de la Corte Penal Internacional, artículo 3
+Norma: BOE-A-2002-10139 · bloque a3
+
+Artículo 3. Sede de la Corte.
+1. La sede de la Corte estará en La Haya, Países Bajos («el Estado anfitrión»).
+2. La Corte concertará con el Estado anfitrión un acuerdo relativo a la sede que deberá aprobar la Asamblea de los Estados Partes y concluir luego el Presidente de la Corte en nombre de ésta.
+3. La Corte podrá celebrar sesiones en otro lugar cuando lo considere conveniente, de conformidad con lo dispuesto en el presente Estatuto.
+
+
+========== Ley 46/1998, sobre introducción del euro, artículo 23
+Norma: BOE-A-1998-29216 · bloque a23
+
+Artículo 23. Utilización exclusiva de la unidad de cuenta euro.
+A partir del 1 de enero del año 2002, el sistema monetario empleará exclusivamente el euro como unidad de cuenta. Todos los nuevos instrumentos jurídicos que expresen importes monetarios en la unidad de cuenta del sistema monetario emplearán la unidad de cuenta euro con arreglo a lo dispuesto en el artículo 3 de esta Ley.
+
+
+========== Ley 46/1998, sobre introducción del euro, artículo 24
+Norma: BOE-A-1998-29216 · bloque a24
+
+Artículo 24. El canje hasta el 30 de junio de 2002.
+Uno. Desde el 1 de enero hasta el 30 de junio del año 2002, se efectuará el canje de billetes y monedas en pesetas por billetes y monedas en euros con arreglo al tipo de conversión y a la aplicación, en su caso, de las normas de redondeo contenidas en el artículo 11 de esta Ley.
+Dos. El canje se realizará por el Banco de España, bancos, cajas de ahorro y cooperativas de crédito.
+Tres. Sólo se podrá entregar billetes y monedas denominadas en euros contra la entrega de billetes y monedas denominadas en pesetas sin que se puedan admitir canjes inversos.
+Cuatro. El canje es gratuito. Queda prohibido el cobro de cualquier tipo de gasto, suplido, comisión, precio o concepto análogo en relación con este canje.
+Cinco. La actividad de canje a que se refiere este artículo se entenderá incluida entre las reservadas a las entidades de crédito por el artículo 28.2 de la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito, siendo de aplicación lo dispuesto en el artículo 29 de la misma a quienes ofrezcan o efectúen operaciones de canje en infracción de dicha reserva legal.
+
+
+========== Constitución Española, artículo 57
+Norma: BOE-A-1978-31229 · bloque a57
+
+Artículo 57
+1. La Corona de España es hereditaria en los sucesores de S. M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica. La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos.
+2. El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España.
+3. Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España.
+4. Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales, quedarán excluidas en la sucesión a la Corona por sí y sus descendientes.
+5. Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por una ley orgánica.

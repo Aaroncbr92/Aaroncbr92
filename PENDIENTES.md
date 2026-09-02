@@ -325,3 +325,25 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
   su respuesta oficial.**
   **La lección**: se dio por agotado un camino tras probar cuatro modos del mismo lector,
   cuando lo que había que cambiar no era el modo sino **qué se le daba a leer**.
+
+---
+
+## Cuatro siglas sin presentar en el tema 7 del bloque general
+
+- **Detectado el 2026-09-03**, al corregir la lente de prosa. Buscaba la primera aparición de
+  cada sigla **como trozo y no como palabra**, de modo que la encontraba dentro de otra
+  —«SI» dentro de «MÚSICA», «RD» dentro de «BORDER»— y comprobaba la presentación en un punto
+  del tema donde la sigla no está. Corregida la lente con límites de palabra, **aparecieron
+  avisos que antes quedaban tapados**.
+- **Qué queda**: en `temas/general/07-ley-13-2022.md` hay **cuatro siglas realmente sin
+  presentar** —la de la comisión que informa los reglamentos, la de la federación de fútbol, la
+  de la copa femenina de tenis y la de la interfaz por la que se volcó la norma—. Los demás
+  avisos de los otros temas son **falsos positivos**: palabras en mayúsculas usadas como
+  énfasis, y trozos de «CC.AA.» y «NO-DO».
+- **Por qué no se toca ahora**: ese tema está impreso en `libro-general.pdf`, ya entregado.
+  Cambiar el texto sin regenerar el volumen dejaría el fichero y el libro desalineados.
+- **Qué haría falta**: presentar las cuatro siglas con su desarrollo entre paréntesis
+  —comprobando cada desarrollo en la propia norma, que es donde están— y **regenerar los tres
+  formatos del volumen general** en la misma pasada.
+- **Gravedad**: menor. No hay ningún dato equivocado; hay cuatro siglas que el lector tiene
+  que deducir del contexto.
