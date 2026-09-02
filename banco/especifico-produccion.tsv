@@ -1,0 +1,18 @@
+# Reparto a mano de las preguntas del bloque específico de Producción (Asistencia)
+# entre los 18 temas del Anexo 2. Una fila por pregunta clasificada; lo que no
+# tiene fila todavía no se ha repartido, y el generador lo cuenta.
+#
+# origen  = nombre del cuadernillo, sin extensión
+# nº      = número de la pregunta dentro del cuadernillo
+# tema    = número del tema del temario específico (dos dígitos)
+# motivo  = por qué va ahí; el artículo o la rúbrica que la contesta
+origen	nº	tema	motivo
+77_preguntas_produccion_asist	13	02	Art. 87: autores de la obra audiovisual
+77_preguntas_produccion_asist	31	02	Art. 37 bis.1: definición de obra huérfana
+77_preguntas_produccion_asist	46	02	Art. 17: las cuatro modalidades del derecho de explotación
+77_preguntas_produccion_asist	56	02	Art. 14.6.º: retirada de la obra del comercio previa indemnización
+77_preguntas_produccion_asist	79	02	Art. 128: 25 años de la mera fotografía (el enunciado cita el 26 por error)
+77_preguntas_produccion_asist	85	02	Art. 11.1.º: las traducciones son obra derivada
+78_preguntas_produccion_asist_2_llamamiento	2	02	Art. 2: contenido de la propiedad intelectual
+78_preguntas_produccion_asist_2_llamamiento	34	02	Art. 26: vida del autor más setenta años
+78_preguntas_produccion_asist_2_llamamiento	51	02	Art. 43.2: cinco años y país de la cesión (opciones c y d idénticas)

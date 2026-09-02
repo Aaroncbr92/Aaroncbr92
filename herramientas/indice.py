@@ -79,15 +79,27 @@ def portada(ruta, fila, palabras):
     informe que verificó el tema. Esas dos filas estaban aquí y se quitaron; el
     rastro de la verificación vive en los informes, que es donde toca.
     """
+    # el bloque común lo estudian las tres ocupaciones tipo; un tema del
+    # específico, solo la suya. La columna «sirve» lo dice cuando hace falta y
+    # se queda vacía cuando vale el reparto de siempre
     filas = [
         ("Bloque", fila["bloque"]),
-        ("Sirve para", "**Producción (Asistencia)** · **Documentación** · "
+        ("Sirve para", fila.get("sirve") or
+                       "**Producción (Asistencia)** · **Documentación** · "
                        "**Información y Contenidos**"),
         ("Fuente", fila["norma"]),
         ("Identificador", fila["identificador"]),
         ("Redacción que se estudia", fila["redaccion"]),
-        ("Extensión", "**%s palabras**" % format(palabras, ",d").replace(",", ".")),
     ]
+    # un tema puede apoyarse en una segunda norma que el enunciado no cita; la
+    # columna «extra» añade esas filas sin tener que tocar este código otra vez
+    for par in (fila.get("extra") or "").split(" | "):
+        if "=" in par:
+            k, _, v = par.partition("=")
+            filas.append((k.strip(), v.strip()))
+    filas.append(
+        ("Extensión", "**%s palabras**" % format(palabras, ",d").replace(",", "."))
+    )
     # y se comprueba que no se cuele ninguna ruta del proyecto en lo que el
     # opositor va a leer
     for k, v in filas:

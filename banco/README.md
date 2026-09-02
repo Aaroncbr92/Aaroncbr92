@@ -22,6 +22,24 @@ entre ocupaciones: está comprobado en `informes/preguntas-repetidas.md`.
 Se regenera con `herramientas/banco.py`. **Las correcciones no se hacen sobre
 estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
+## Y el banco del bloque **específico**
+
+| Fichero | Materia | Preguntas |
+|---|---|---|
+| `produccion-02.md` | Producción (Asistencia) · tema 2 · propiedad intelectual | 9 |
+
+Se regenera con `herramientas/banco_especifico.py`, y **el reparto se escribe a
+mano** en `especifico-produccion.tsv`, una fila por pregunta y con el motivo al
+lado. No se clasifica por palabras clave, y no por comodidad: las preguntas del
+específico hablan de *beauty shot*, del cuaderno ATA o de SMPTE 2110, y muchas
+podrían caer en dos temas a la vez. Una regla automática sobre eso no da un
+reparto discutible, da **uno falso que nadie va a revisar**.
+
+El script avisa de las **filas que ya no casan con ninguna pregunta** y cuenta
+**cuántas preguntas específicas quedan sin repartir**: de las **129** de los dos
+cuadernillos de Producción (Asistencia), **9 repartidas y 120 pendientes**. Esa
+cifra es la que mide lo que falta de la Fase B, y es la que no aparece sola.
+
 **Para qué sirve.** El apartado 7 del manual manda cerrar cada tema comprobando
 que entre diez y quince preguntas del estilo real se contestan con el cuerpo del
 tema delante. Aquí no hace falta inventarlas: hay 505 reales, todas con su respuesta

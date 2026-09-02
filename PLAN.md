@@ -71,6 +71,15 @@ donde un manual genérico no le sirve de nada:
 **Fase B — los específicos**, temario por temario. Documentación es el más corto
 (6) e Información el más entrelazado con el general.
 
+**Y dentro de cada temario específico, no en el orden del Anexo 2.** Medido sobre los
+dos cuadernillos de Producción (Asistencia): de las **129 preguntas** del bloque
+específico, **sólo 15 citan una norma del BOE**, y las quince caen en **dos temas**,
+el 2 (propiedad intelectual) y el 17 (protección de datos). Por eso el orden es:
+primero los que tienen norma detrás, que se escriben con el método entero; después
+los que no la tienen, cuya documentación hay que reunir antes de escribir una línea.
+La jerarquía de fuentes que se aplica en esos, declarada y con sus cautelas, está en
+`informes/fuentes-del-especifico-2026-09-02.md`.
+
 Dentro de cada fase, **de dos en dos**: dos temas por tanda es lo que aguanta una
 sesión sin perderse a mitad.
 
@@ -80,6 +89,11 @@ sesión sin perderse a mitad.
 escenografía, el estudio de televisión, los soportes, MAM/PAM/DAM, la IA aplicada
 a contenidos. Ahí no hay artículo que citar y la regla de «cada dato con su
 precepto detrás» no se puede aplicar igual.
+
+**Corregido el 2026-09-02, y por lo bajo**: no es media docena de temas, son **quince
+de los diecisiete** del específico de Producción (Asistencia), y **114 de las 129
+preguntas reales**. La diferencia importa porque cambia el tratamiento de excepción
+en tratamiento por defecto.
 
 Lo que hago en esos: se sustituye el precepto por una fuente citable y estable
 —norma técnica, documento de la UER/EBU, documentación del propio RTVE, manual

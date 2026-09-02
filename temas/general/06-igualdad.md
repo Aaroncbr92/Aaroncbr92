@@ -8,7 +8,7 @@
 | **Sirve para** | **Producción (Asistencia)** · **Documentación** · **Información y Contenidos** |
 | **Fuente** | II Plan de Igualdad de RTVE (2022-2026) y Guía de Igualdad de RTVE (2020) |
 | **Identificador** | **Sin identificador del BOE**: son documentos internos de RTVE |
-| **Redacción que se estudia** | Las **ediciones publicadas por RTVE**, versionadas en `fuentes/igualdad/` junto con su transcripción |
+| **Redacción que se estudia** | Las **ediciones publicadas por RTVE**: el **II Plan de Igualdad 2022-2026** y la **Guía de Igualdad de 2020**, leídas en su texto íntegro |
 | **Extensión** | **10.042 palabras** |
 
 <!-- /portada -->

@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-08-30
+**Última actualización:** 2026-09-02
 
 ## Qué es esto
 
@@ -169,6 +169,40 @@ en Documentación y en Producción (Asistencia).
       que va **dentro de una frase** se queda solo con su frase. El primer intento —descartar
       todos los marcadores de dentro de frase— dejó **catorce artículos del tema 7 sin mirar**,
       y se detectó porque **la cifra de negritas comprobadas bajó al «arreglarlo»**.
+- [x] **Fase B arrancada. Tema 2 del específico de Producción (Asistencia)** —derechos de
+      autor, Ley de Propiedad Intelectual y redes sociales— **cerrado**: 15.300 palabras sobre
+      dos fuentes volcadas a la fecha de corte, el texto refundido `BOE-A-1996-8930` y el
+      **Libro cuarto** del RDL 24/2021 (`BOE-A-2021-17910`), que es donde está el régimen de
+      las plataformas y **no** en la ley que cita el enunciado. Las **nueve** preguntas reales
+      de la materia se contestan con el tema delante
+      (`informes/cobertura-produccion-tema-02.md`), y las cuatro lentes dejaron **once
+      correcciones aplicadas** (`informes/refutacion-produccion-tema-02.md`). Con su **esquema
+      de repaso**, 4.432 palabras y 117 líneas de telegrama, en el rango del de la Constitución
+      y sin crecer en proporción al tema.
+- [x] **Comprobado que el enunciado y la fecha de corte coinciden en este tema**: la última
+      reforma del texto refundido anterior al 21/12/2022 es la del **artículo 177**, publicada
+      el **30 de marzo de 2022**, que es literalmente el «texto consolidado BOE 30 de marzo de
+      2022» que cita el Anexo 2. Entre esa fecha y el corte la ley no se volvió a tocar.
+- [x] **Medido de qué se puede escribir el bloque específico**
+      (`informes/fuentes-del-especifico-2026-09-02.md`): de las **129 preguntas** específicas
+      de los dos cuadernillos de Producción (Asistencia), **sólo 15 citan una norma del BOE**,
+      y las quince caen en **dos temas**. Las otras **114** son jerga del oficio, normas
+      técnicas (SMPTE, UIT-R), documentación de viaje (cuaderno ATA, MCO) y fichas de
+      fabricante. **Sobre ellas las lentes por artículo devuelven «0 comprobadas, 0
+      hallazgos»**, que es el fallo del apartado 10 del manual. Declarada una **jerarquía de
+      fuentes de cinco niveles**, con la plantilla oficial como último recurso y con sus
+      cautelas escritas.
+- [x] `herramientas/banco_especifico.py`: el banco del bloque específico. **El reparto se
+      escribe a mano**, en `banco/especifico-<ocupacion>.tsv` y con columna de motivo, porque
+      clasificar por palabras clave preguntas sobre *beauty shot* o SMPTE 2110 no da un reparto
+      discutible sino uno falso que nadie revisa. El script avisa de las **filas huérfanas** y
+      cuenta **las preguntas específicas que todavía no se han repartido**, que es la cifra que
+      no aparece sola.
+- [x] **La ficha de portada admite ahora ocupación propia y normas complementarias**
+      (columnas `sirve` y `extra` de `herramientas/portadas.tsv`): un tema del específico lo
+      estudia una sola ocupación, no las tres. De paso se corrigieron las **dos fichas que
+      citaban rutas del proyecto** —la de Igualdad y la del PRL del específico—, que el propio
+      `indice.py` venía avisando sin que nadie lo aplicara.
 - [x] Ley 17/2006 y Ley 5/2017 volcadas a `fuentes/`, en la redacción de hoy y en
       la del corte 21/12/2022. Entre una y otra cambian **11 bloques** de la Ley
       17/2006: arts. 4, 10, 11, 12, 15, 16, 20 y 24 y tres disposiciones
@@ -199,6 +233,17 @@ en Documentación y en Producción (Asistencia).
 - [ ] **Fase B: los tres temarios específicos.** Documentación es el más corto (6 temas),
       Producción (Asistencia) el más largo (17) e Información y Contenidos el más entrelazado
       con el general (10). El orden y el tratamiento de los temas sin norma detrás, en `PLAN.md`.
+      **Hecho el tema 2 de Producción**; el 18 ya venía hecho como tema de PRL común.
+      **Siguiente**: el **tema 17, protección de datos** (Ley Orgánica 3/2018), que es el otro
+      que tiene norma del BOE detrás y con el que se cierran los quince únicos casos en que el
+      método funciona entero.
+- [ ] **Reunir la documentación de los quince temas de Producción sin norma detrás** antes de
+      escribirlos: normas SMPTE y recomendaciones UIT-R nombradas en el examen, el cuaderno ATA
+      y el MCO, y las fichas de los modelos concretos que las preguntas citan. Sin ese material
+      no se puede empezar a redactar sin inventar.
+- [ ] **Un volumen imprimible del bloque específico.** `herramientas/libro.py` tiene hoy la
+      lista de los ocho temas del general escrita dentro; para el específico hace falta que la
+      lista salga del programa y no del código.
 
 ## Qué comprobación pasa por qué material
 
@@ -216,6 +261,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 7 · Ley 13/2022 | sí | sí | sí | sí | sí | sí, con 11 salvedades declaradas | 34 de 34 enteras |
 | General 8 · Ley 31/1995 | sí | sí | sí | sí | sí | sí, con 3 falsos positivos declarados | 49 de 52 enteras, 2 a medias |
 | PRL del específico (P18/D7/I11) | sí | sí | sí | sí | sí | sí, limpia | 35 de 40 enteras, 1 con matiz, 5 fuera de tema |
+| Producción 2 · Propiedad intelectual | sí | sí | sí | sí | sí | sí, 13 falsos positivos declarados | 9 de 9 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

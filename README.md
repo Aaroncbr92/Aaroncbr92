@@ -18,6 +18,8 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `herramientas/libro.py` | Arma el **bloque general en un volumen imprimible**: ficha, cuerpo, esquema y preguntas reales de cada tema, y las respuestas al final. |
 | `herramientas/pdf.py` | Convierte ese volumen en PDF con el Chromium del entorno. |
 | `esquemas/` | Un esqueleto de repaso por tema. Estilo telegrama, con el artículo delante de cada línea. |
+| `herramientas/banco.py` | Arma el banco de preguntas del **bloque común**, clasificando por materia. |
+| `herramientas/banco_especifico.py` | El del **bloque específico**, aplicando un reparto escrito a mano y avisando de lo que falta por repartir. |
 | `banco/` | Preguntas reales de convocatorias anteriores con su respuesta oficial. |
 | `ESTADO.md` | Qué hay hecho, qué falta, dónde vive cada cosa. |
 | `PENDIENTES.md` | Cuaderno de hallazgos, se anote o no se corrija en el momento. |
@@ -41,6 +43,10 @@ python3 herramientas/indice.py temas/general/07-*.md    # uno
 
 # volumen imprimible del bloque general
 python3 herramientas/libro.py && python3 herramientas/pdf.py
+
+# bancos de preguntas
+python3 herramientas/banco.py                           # bloque común
+python3 herramientas/banco_especifico.py                # Producción (Asistencia)
 ```
 
 Lo que hace por ti en cada precepto:
