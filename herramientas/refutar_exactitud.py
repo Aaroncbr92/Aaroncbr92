@@ -118,9 +118,16 @@ def trozos(tema):
     # "Art. 104" cuenta igual que "Artículo 104": si solo se reconoce la forma
     # larga, los artículos abreviados no abren bloque y sus negritas se
     # comprueban contra el artículo anterior, que es el error de atribución
+    # «Artículo 53.1.b)» es el artículo 53: el apartado y la letra no cambian de
+    # artículo. Anclarlo sólo cuando el número va suelto dejaba **sin mirar** un
+    # tema entero escrito con la cita completa —el del contrato de trabajo
+    # devolvía «0 negritas comprobadas»—, y una lente que devuelve cero no dice
+    # que esté limpio: dice que no ha mirado. El apartado se consume y se
+    # descarta; el ordinal «1.º» sigue fuera, que ése sí es otra forma de citar
     marcas = list(re.finditer(
-        r"(?:\*\*|(?m:^)#{2,4} )(?:[Aa]rtículos?|[Aa]rts?\.) ?(\d+)(?!\.\d|\.[ºª])"
-        r"( bis| ter| quáter| quinquies)?(?: y (\d+))?(?: a (\d+))?[.,: *]", tema))
+        r"(?:\*\*|(?m:^)#{2,4} )(?:[Aa]rtículos?|[Aa]rts?\.) ?(\d+)(?!\.[ºª])"
+        r"( bis| ter| quáter| quinquies)?(?:\.\d+)*(?:\.[a-z]\))?"
+        r"(?: y (\d+))?(?: a (\d+))?[.,: *]", tema))
     # el bloque de un artículo termina en el siguiente artículo, en el siguiente
     # encabezado o en la siguiente raya: si no se acota, el último artículo se
     # traga el resto del tema y todo lo de después sale marcado como suyo
@@ -129,8 +136,14 @@ def trozos(tema):
     # un tema cita artículos de otras normas ("el artículo 4 de la Ley 17/2006").
     # Si esas remisiones abren bloque, el bloque se llena con texto ajeno y la
     # comprobación se hace contra el artículo equivocado
+    # y no sólo «de la Ley»: un tema de la Ley 31/1995 que dice «el artículo 40 de
+    # la Constitución» abría un bloque que se tragaba media introducción y la
+    # comprobaba contra un artículo ajeno. No da error: **atribuye mal**
     marcas = [m for m in marcas
-              if not re.match(r"[^.]{0,40}?\bde la [Ll]ey\b", tema[m.end():m.end() + 60])]
+              if not re.match(r"[^.]{0,40}?\b(?:de la [Ll]ey|de la Constituci[óo]n|"
+                              r"del [RE]?e?glamento|del Estatuto|del Convenio|del C[óo]digo|"
+                              r"del Reglamento|de la Directiva)\b",
+                              tema[m.end():m.end() + 60])]
     for m, fin in zip(marcas, limites(tema, marcas, cortes)):
         # las claves son cadenas porque "32 bis" es un artículo y no un número
         if m.group(4):

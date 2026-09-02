@@ -1044,3 +1044,21 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   **Sólo una lo era**, y la conclusión estaba escrita en plural. El manual se descarga entero sin
   más que pedirlo por `https`; el informe sí está tras un desafío de Cloudflare. La ficha ya lo
   dice separado, con la regla delante: **un 403 no dice quién bloquea**.
+
+- **2026-09-02 · La lente de exactitud estaba ciega para los artículos citados con su apartado.** El
+  tema 2 de Gestión Administrativa devolvió **«0 negritas comprobadas»**, y no era que estuviera
+  limpio: es que **la lente no miró nada**. Su patrón anclaba en «**Artículo 53**» y **no en
+  «Artículo 53.1.b)»**, que es como se cita una ley laboral, por apartado y letra. Corregida para
+  que el apartado y la letra se consuman sin cambiar de artículo —el ordinal «1.º» sigue fuera—, la
+  segunda pasada comprobó **68 negritas y marcó 14**, todas reales: cuatro glosas en negrita y
+  **diez citas casi literales**, dos de ellas con el cambio de modo verbal ya fichado —«carece» por
+  «carezcan», «con periodos» por «tengan periodos»—.
+  **Y salió un segundo defecto, de atribución.** El filtro que impide abrir bloque en «el artículo 4
+  **de la Ley** 17/2006» no cubría «de la Constitución», «del Reglamento», «del Estatuto», «del
+  Convenio», «del Código» ni «de la Directiva»: en el tema 8 del general eso hacía que media
+  introducción se comprobase **contra el artículo 40 de la Constitución**. No daba error: atribuía
+  mal.
+  **Pasada la lente arreglada por los nueve temas con norma consolidada detrás**, las cifras suben
+  poco y lo nuevo es de la familia ya declarada en sus informes —rótulos y énfasis del propio tema—.
+  Es la tercera vez que el apartado 10 del manual acierta: **una comprobación que devuelve cero no
+  dice que esté limpio, dice que no ha mirado**.
