@@ -7,8 +7,8 @@ donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 - **Preguntas de la materia**: **9**.
 - **Contestadas con el tema delante**: **9**.
 - **Lagunas que hubo que cerrar**: **una**, la de los modelos de interoperabilidad (abajo).
-- **Preguntas verificadas en la fuente**: **5 de 9** —cuatro en norma internacional y una en la ley
-  del patrimonio—.
+- **Preguntas verificadas en la fuente**: **6 de 9** —cuatro en norma internacional, una en la ley
+  del patrimonio y una en un artículo firmado por la responsable del Fondo Documental de RTVE—.
 
 ## Una por una
 
@@ -20,7 +20,7 @@ donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 | 09 · 44 | d | Sólo la plantilla oficial | **Plantilla** | 2.4 |
 | 09 · 45 | a | Sólo la plantilla oficial | **Plantilla** | 2.2 |
 | 09 · 70 | b | «The ISWC (International Standard Musical Work Code) is a unique, permanent and internationally recognized reference number» | **ISO 15707** y portada del ISWC | 4 |
-| 09 · 73 | a | Sólo la plantilla oficial | **Plantilla** | 5 |
+| 09 · 73 | a | «Se ha puesto en marcha la llamada Redacción Digital, un conjunto de aplicaciones informáticas de AVID […] para la ingesta, producción y archivo de contenidos» | Plantilla (**artículo del Fondo Documental de RTVE** para lo que es en la casa) | 5 |
 | 09 · 80 | d | «En ningún caso se podrán destruir tales documentos en tanto subsista su valor probatorio» | Plantilla (**Ley 16/1985** para el marco) | 2.1 |
 | 09 · 84 | d | «Thesauri and interoperability with other vocabularies» | **ISO 25964**, título oficial | 3.2 |
 
@@ -96,10 +96,33 @@ desarrollan igual, y con fuente:
   XML de intercambio**, y define **metadatos**, **indización**, **recuperación de información** e
   **interoperabilidad**. Son las definiciones que un tribunal puede pedir el año que viene.
 
+## La cuarta pregunta sin norma, cerrada más tarde
+
+**La de la «redacción digital» se cerró al escribir otro tema.** Al reunir las fuentes del tema 5
+—centros de documentación audiovisual— apareció un artículo de revista profesional firmado por **la
+responsable del Fondo Documental de RTVE**, y en él está la frase que la pregunta necesita: «**En
+2009 en los Servicios Informativos** […] **y más tarde, en 2013, en Programas no informativos, se ha
+puesto en marcha la llamada Redacción Digital, un conjunto de aplicaciones informáticas de AVID
+(NewsCutter, iNews, Assist, Access, etc.) para la ingesta, producción y archivo de contenidos**».
+
+**Da las tres cosas que la pregunta pide**: que es **un conjunto de aplicaciones informáticas**, no
+un arte de escribir; que llegó **antes a informativos y después a programas no informativos**, que es
+lo que el enunciado subraya; y **para qué sirve** —ingesta, producción y archivo—, que es lo que la
+opción correcta resume como centralizar el control del sistema.
+
+**Y la frase siguiente explica por qué esta pregunta está en un examen de documentación**: la
+Redacción Digital «**ha situado a los documentalistas en el corazón de la producción de
+contenidos**».
+
+**Se hace constar el nivel con exactitud**: es **un artículo de revista profesional**, no una
+publicación institucional de la Corporación, aunque lo firme quien dirige ese fondo.
+
 ## Lo que este tema deja dicho que no puede sostener
 
-- **Cuatro de las nueve respuestas se apoyan sólo en la plantilla oficial.** Los términos se han
+- **Tres de las nueve respuestas se apoyan sólo en la plantilla oficial.** Los términos se han
   buscado en todo el corpus del proyecto y ninguno aparece en norma.
+- **La redacción digital no está definida en ninguna norma**: lo que el tema dice de ella sale de un
+  artículo profesional.
 - **La norma de resúmenes, ISO 214, no se ha podido consultar**: de pago y sin muestra, comprobado
   con agente de usuario de navegador en el catálogo de ISO y en dos tiendas nacionales.
 - **De las normas ISO sólo se ha leído la muestra oficial**, no el texto íntegro. El tema **no cita

@@ -1,0 +1,1070 @@
+IASA-TC 03, «The Safeguarding of the Audiovisual Heritage: Ethics, Principles and
+Preservation Strategy», 4.ª edición, 2017, edición web de la Asociación Internacional
+de Archivos Sonoros y Audiovisuales (IASA).
+https://www.iasa-web.org/tc03/ethics-principles-preservation-strategy
+Leídas el 3 de septiembre de 2026 las secciones 3, 4, 5 y 6.
+
+========== https://www.iasa-web.org/tc03/3-instability-and-vulnerability-audio-carriers
+You are here
+Home
+›
+The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy (web edition)
+3. The instability and vulnerability of audiovisual carriers
+For traditional paper and film-based documents, the long-term preservation of the original carrier is, with a few exceptions, generally feasible. Printed or handwritten text as well as film-based documents may remain fully human-readable even when damaged, whereas the continuous, time-based nature of audiovisual documents means that any compromise in the integrity of the document will result in the loss of information.
+In addition, audiovisual carriers are generally more vulnerable than conventional text documents to damage caused by poor handling, poorly maintained equipment or by poor storage. Many audiovisual carriers, especially magnetic recordings, laminated instantaneous discs, and nitrate film, have relatively short life expectancies due to their physical composition. Whereas script has a high level of redundancy, which keeps text documents often readable even in damaged condition, audiovisual documents are representations of physical facts or processes: their redundancy is low, as each detail is potential information that must be preserved, which calls for highest possible integrity standards.
+These factors have led to the development of a wide range of best practices for the storage and cleaning of carriers, and for the transfer of content to digital file-based formats. Passive preservation is discussed in detail in IASA-TC 05:
+Handling and Storage of Audio and Video Carriers
+.
+Due to the high density of information, digital carriers are generally more vulnerable to loss of information through damage than analogue carriers. Life expectancy concerns particularly arise in the case of the storage media used in most computer-based storage and data management systems. Their useful life is generally short—from three to ten years—due to a combination of system and storage-media-format obsolescence, as well as risks related to the high density of the data carried by data-storage media.
+Comment:
+High data density and the risk of data loss is a particular concern for digital video carriers containing Metal Evaporated (ME) tape.
+The level of risk to a carrier will depend in part upon its vulnerability to decay or damage. It also depends upon the storage conditions under which the carrier has been held, upon the quality and maintenance of replay equipment, and upon the professional skills of the operator.
+Digital carriers will fail without warning, and without the audible or visible clues of gradual degradation that analogue carriers present. Damage to a digital carrier’s logical structure may also render the content inaccessible.
+‹ 2. Primary and secondary information
+up
+4. Obsolescence of formats ›
+Printer-friendly version
+BACK TO TOP
+Main menu
+Home
+About
+Activities
+Branches
+Code of Conduct
+Code of Ethics
+Committees
+Ambassador Committee
+Discography Committee
+International Bibliography of Discographies
+Diversity, Equity and Inclusion Committee
+Organising Knowledge Committee
+Technical Committee
+Training & Education Committee
+IASA Preservation Training Programme
+IASA Preservation Training Programme: videos
+Tutorials and Workshops offered by IASA
+Broadcast Archives Section
+Research Collections with Cold War-era Radio Materials
+National Archives Section
+Research Archives Section
+Constitution
+Executive Board
+Executive Board elections
+Election 2023
+Election 2026
+Previous Board members
+History
+Mailing list
+Membership
+Join IASA
+Membership categories and benefits
+Membership payments
+Membership rates
+Sustaining Members
+Application Form
+FAQ - Frequently Asked Questions
+Conferences
+Future Conferences
+Past Conferences
+Conference photo galleries
+Conference planning
+1. About these Guidelines
+2. Introduction to IASA conferences
+3. Conference dates and duration
+4. Joint conferences and solo conferences
+5. Conference organizers’ responsibilities
+5.1 IASA EB procedure
+5.2 Summary of conference responsibilities
+5.3 Guidance for the local host
+6. Conference planning committees and organization
+7. Programme structure and content
+8. Guidelines for chairpersons and speakers
+9. Financial assistance for speakers
+10. Payment of conference fees
+11. Wrap-up
+Appendix 1: Planning timeline
+Appendix 2: Example of conference budget
+Publications
+IASA Journal
+IASA Special and Technical Publications
+An Archive Approach to Oral History
+Ethical Principles for Sound & AV Archives
+IASA Cataloguing Rules
+Selection Criteria
+Selection in Sound Archives
+Sound Archives - Establishment & Development
+TC 03 Safeguarding the Audio Heritage
+TC 04 Production and Preservation of Digital Audio Objects
+TC 05 Handling & Storage of AV Carriers
+TC 06: Guidelines for the Preservation of Video Recordings
+Guidelines for IASA Publications Translation
+Awards
+Honorary Members
+IASA Award of Recognition
+Research Grant
+Travel Awards
+Carl Fleischhauer Award
+Dietrich Schüller Award for Audiovisual Training
+Lars Gaustad Award
+Policies
+Copyright
+National Discography
+Legal Deposit
+Audiovisual Legal Deposit register
+AV legal deposit questionnaire
+Technical Guidelines
+Links
+Europeana
+Europeana Sounds Task Force
+CCAAA
+Joint Technical Symposium
+Training events
+Magnetic Tape Alert Project
+UNESCO
+World Day for Audiovisual Heritage
+Search form
+Search
+IASA conference
+I
+ASA 57th Annual Conference
+Want to join IASA?
+Learn more about IASA
+IASA activities
+Want to join?
+Membership categories
+Membership rates
+Application form
+Member login
+Username
+*
+Password
+*
+Request new password
+Quick links
+Contact
+FAQ
+Mailing list
+Committees & Sections
+Shop
+Events listing
+@iasa_web
+Facebook page
+Facebook group
+Instagram
+Videos
+Latest forum posts
+American Folklife Center archivist posting
+Checksums
+AFC Position Announcement: Archives Director
+More
+© International Association of Sound and Audiovisual Archives (IASA)
+Translation not permitted without consent of IASA Executive Board
+PRIVACY AND COOKIES
+|
+TERMS OF USE
+|
+CODE OF CONDUCT
+|
+CONTACT US
+|
+SITE MAP
+
+========== https://www.iasa-web.org/tc03/4-obsolescence-formats
+You are here
+Home
+›
+The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy (web edition)
+4. Obsolescence of formats
+No format, whether carrier-based or file-based, will be playable forever, and for some the end is in sight. Since the 1990s there has been a clear shift away from carrier-based formats that store content in a manner specific to a particular physical medium, towards file formats, storing content as data in a computer environment. This market-driven obsolescence of formats obliges us to acknowledge that the window of opportunity for digitally preserving carrier-based content is finite. Beyond a certain point, the maintenance of obsolete replay systems will become unaffordable, and so our access to content held on certain media will cease.
+The actual time available in which to digitally reformat carrier-based content may be extended somewhat, through careful stockpiling of equipment, spare parts, service manuals and other accessories that have been or shortly will be discontinued, and through the careful retention of maintenance and operational skills. It will also vary according to format, but ultimately it is finite. As of 2016, it is widely accepted within the global audiovisual archival community that we have between 10 and 15 years in which to digitally preserve all carrierbased audiovisual content held on magnetic media. Indeed, for some magnetic-based formats such as MII video, retrieval of the content is already practically impossible. Therefore, by around 2030, digitisation of even the most common magnetic media may be beyond the reach of most archives. For other formats the timescale may be longer or shorter.
+For file-based content, obsolescence of the physical carrier format, the operating system or specific coding or file wrapper formats may endanger either the bits themselves or the ability to meaningfully interpret the bits. However, the fact that these problems are common to all modern industry makes them easier to manage than individual legacy audiovisual formats driven by specialist consumer markets.
+‹ 3. The instability and vulnerability of audiovisual carriers
+up
+5. Safeguarding the information ›
+Printer-friendly version
+BACK TO TOP
+Main menu
+Home
+About
+Activities
+Branches
+Code of Conduct
+Code of Ethics
+Committees
+Ambassador Committee
+Discography Committee
+International Bibliography of Discographies
+Diversity, Equity and Inclusion Committee
+Organising Knowledge Committee
+Technical Committee
+Training & Education Committee
+IASA Preservation Training Programme
+IASA Preservation Training Programme: videos
+Tutorials and Workshops offered by IASA
+Broadcast Archives Section
+Research Collections with Cold War-era Radio Materials
+National Archives Section
+Research Archives Section
+Constitution
+Executive Board
+Executive Board elections
+Election 2023
+Election 2026
+Previous Board members
+History
+Mailing list
+Membership
+Join IASA
+Membership categories and benefits
+Membership payments
+Membership rates
+Sustaining Members
+Application Form
+FAQ - Frequently Asked Questions
+Conferences
+Future Conferences
+Past Conferences
+Conference photo galleries
+Conference planning
+1. About these Guidelines
+2. Introduction to IASA conferences
+3. Conference dates and duration
+4. Joint conferences and solo conferences
+5. Conference organizers’ responsibilities
+5.1 IASA EB procedure
+5.2 Summary of conference responsibilities
+5.3 Guidance for the local host
+6. Conference planning committees and organization
+7. Programme structure and content
+8. Guidelines for chairpersons and speakers
+9. Financial assistance for speakers
+10. Payment of conference fees
+11. Wrap-up
+Appendix 1: Planning timeline
+Appendix 2: Example of conference budget
+Publications
+IASA Journal
+IASA Special and Technical Publications
+An Archive Approach to Oral History
+Ethical Principles for Sound & AV Archives
+IASA Cataloguing Rules
+Selection Criteria
+Selection in Sound Archives
+Sound Archives - Establishment & Development
+TC 03 Safeguarding the Audio Heritage
+TC 04 Production and Preservation of Digital Audio Objects
+TC 05 Handling & Storage of AV Carriers
+TC 06: Guidelines for the Preservation of Video Recordings
+Guidelines for IASA Publications Translation
+Awards
+Honorary Members
+IASA Award of Recognition
+Research Grant
+Travel Awards
+Carl Fleischhauer Award
+Dietrich Schüller Award for Audiovisual Training
+Lars Gaustad Award
+Policies
+Copyright
+National Discography
+Legal Deposit
+Audiovisual Legal Deposit register
+AV legal deposit questionnaire
+Technical Guidelines
+Links
+Europeana
+Europeana Sounds Task Force
+CCAAA
+Joint Technical Symposium
+Training events
+Magnetic Tape Alert Project
+UNESCO
+World Day for Audiovisual Heritage
+Search form
+Search
+IASA conference
+I
+ASA 57th Annual Conference
+Want to join IASA?
+Learn more about IASA
+IASA activities
+Want to join?
+Membership categories
+Membership rates
+Application form
+Member login
+Username
+*
+Password
+*
+Request new password
+Quick links
+Contact
+FAQ
+Mailing list
+Committees & Sections
+Shop
+Events listing
+@iasa_web
+Facebook page
+Facebook group
+Instagram
+Videos
+Latest forum posts
+American Folklife Center archivist posting
+Checksums
+AFC Position Announcement: Archives Director
+More
+© International Association of Sound and Audiovisual Archives (IASA)
+Translation not permitted without consent of IASA Executive Board
+PRIVACY AND COOKIES
+|
+TERMS OF USE
+|
+CODE OF CONDUCT
+|
+CONTACT US
+|
+SITE MAP
+
+========== https://www.iasa-web.org/tc03/6-selection-best-copy-and-carrier-restoration
+You are here
+Home
+›
+The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy (web edition)
+6. Selection of best copy and carrier restoration
+An archive may possess multiple copies of certain content, perhaps including commercial audio recordings or motion picture films. Where holdings include more than one copy, the best example should be selected before reformatting its content. In the case of magnetically recorded or file-based sound or video recordings, an archive or production house may hold multiple versions for different purposes, e.g., a master version and a copy made for some form of distribution. Here again, care should be taken to select the most appropriate copy prior to reformatting. Additionally, cautious and appropriate cleaning and restoration procedures may be necessary to optimise signal retrieval and reproduction.
+Comment:
+With mass replicated carriers—specifically mechanical and optical carriers—the replay quality of different copies may vary considerably because of the way that they have previously been handled and stored. It may therefore be advantageous to extend the search for the best copies to other collections on a national or even international scale (see section 16).
+Non-replicated recordings may often be available in two or more versions. For example, a recording held on its original carrier (tape, cassette, film etc.) may also have been copied to an archival master. While the archival master (or subsequent generation copy in general) may often be in better physical condition, it may be of inferior signal quality due to poorer earlier transfer technology and the unavoidable signal degradation caused by the analogue copying process. Consequently, the signal quality of the various available copies must be compared.
+Appropriate cleaning and restoration procedures can significantly improve signal retrieval. However, utmost care must be taken to balance any potential benefits against the risk of further deterioration, caused by subjecting fragile or deteriorating carriers to such procedures. It is good practice to minimise the handling of carriers at all times.
+Some carriers may be so heavily deteriorated that even an attempt to replay them might place their content at risk. In such cases, a careful and informed evaluation needs to be made between the likelihood of damage through replay immediately, or through delaying replay until a less risky replay technology becomes available.
+‹ 5. Safeguarding the information
+up
+7. Optimal signal retrieval from original carriers ›
+Printer-friendly version
+BACK TO TOP
+Main menu
+Home
+About
+Activities
+Branches
+Code of Conduct
+Code of Ethics
+Committees
+Ambassador Committee
+Discography Committee
+International Bibliography of Discographies
+Diversity, Equity and Inclusion Committee
+Organising Knowledge Committee
+Technical Committee
+Training & Education Committee
+IASA Preservation Training Programme
+IASA Preservation Training Programme: videos
+Tutorials and Workshops offered by IASA
+Broadcast Archives Section
+Research Collections with Cold War-era Radio Materials
+National Archives Section
+Research Archives Section
+Constitution
+Executive Board
+Executive Board elections
+Election 2023
+Election 2026
+Previous Board members
+History
+Mailing list
+Membership
+Join IASA
+Membership categories and benefits
+Membership payments
+Membership rates
+Sustaining Members
+Application Form
+FAQ - Frequently Asked Questions
+Conferences
+Future Conferences
+Past Conferences
+Conference photo galleries
+Conference planning
+1. About these Guidelines
+2. Introduction to IASA conferences
+3. Conference dates and duration
+4. Joint conferences and solo conferences
+5. Conference organizers’ responsibilities
+5.1 IASA EB procedure
+5.2 Summary of conference responsibilities
+5.3 Guidance for the local host
+6. Conference planning committees and organization
+7. Programme structure and content
+8. Guidelines for chairpersons and speakers
+9. Financial assistance for speakers
+10. Payment of conference fees
+11. Wrap-up
+Appendix 1: Planning timeline
+Appendix 2: Example of conference budget
+Publications
+IASA Journal
+IASA Special and Technical Publications
+An Archive Approach to Oral History
+Ethical Principles for Sound & AV Archives
+IASA Cataloguing Rules
+Selection Criteria
+Selection in Sound Archives
+Sound Archives - Establishment & Development
+TC 03 Safeguarding the Audio Heritage
+TC 04 Production and Preservation of Digital Audio Objects
+TC 05 Handling & Storage of AV Carriers
+TC 06: Guidelines for the Preservation of Video Recordings
+Guidelines for IASA Publications Translation
+Awards
+Honorary Members
+IASA Award of Recognition
+Research Grant
+Travel Awards
+Carl Fleischhauer Award
+Dietrich Schüller Award for Audiovisual Training
+Lars Gaustad Award
+Policies
+Copyright
+National Discography
+Legal Deposit
+Audiovisual Legal Deposit register
+AV legal deposit questionnaire
+Technical Guidelines
+Links
+Europeana
+Europeana Sounds Task Force
+CCAAA
+Joint Technical Symposium
+Training events
+Magnetic Tape Alert Project
+UNESCO
+World Day for Audiovisual Heritage
+Search form
+Search
+IASA conference
+I
+ASA 57th Annual Conference
+Want to join IASA?
+Learn more about IASA
+IASA activities
+Want to join?
+Membership categories
+Membership rates
+Application form
+Member login
+Username
+*
+Password
+*
+Request new password
+Quick links
+Contact
+FAQ
+Mailing list
+Committees & Sections
+Shop
+Events listing
+@iasa_web
+Facebook page
+Facebook group
+Instagram
+Videos
+Latest forum posts
+American Folklife Center archivist posting
+Checksums
+AFC Position Announcement: Archives Director
+More
+© International Association of Sound and Audiovisual Archives (IASA)
+Translation not permitted without consent of IASA Executive Board
+PRIVACY AND COOKIES
+|
+TERMS OF USE
+|
+CODE OF CONDUCT
+|
+CONTACT US
+|
+SITE MAP
+
+========== https://www.iasa-web.org/tc03/5-safeguarding-information
+You are here
+Home
+›
+The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy (web edition)
+5. Safeguarding the information
+a. By preservation of the carrier
+Although the life of audiovisual carriers cannot be extended indefinitely, efforts must be made to preserve carriers in useable condition for as long as is feasible.
+For carrier-based content, preservation of the carrier requires storage in an environment suited to the purpose, separating primary and secondary information sources where appropriate, and performing routine maintenance and cleaning as needed. Maintenance includes the regular checking of reference signals and frames, if available, on analogue carriers, and regular checking of the data integrity of digital carriers. In addition, the equipment used for handling and replay must meet the physical requirements of the carriers. Preservation includes minimising the use of original copies by making access copies available.
+b. By subsequent copying of the information
+Because the life expectancy of carriers and the availability of hardware are limited, the preservation of the document in the long term can only be achieved by copying the contents to new carriers/systems while this remains possible.
+In the analogue domain, primary information suffers an increase in degradation each time it is copied. Only the digital domain offers the possibility, when done diligently, of lossless copying when refreshing or migrating recordings (see section 12). For the long-term preservation of primary information held on an analogue carrier it is necessary, therefore, to first transfer it to the digital domain.
+Separating the primary information from the original carrier raises the question of future authentication of the sound and images. Future users may only have access to an audiovisual document in the form of a file-based copy; in this event, the importance of adequate secondary or contextual information increases. Secondary information held visually on tape boxes, disc sleeves or labels may be best captured and retained in associated image files, in which case this information should be documented and reproduced according to recognised archival standards for generating such content. Other types of secondary information such as descriptions of the original format may take the form of preservation metadata, and so should be recorded in a systematic manner, and be made accessible together with the primary information (see section 14). By this means, future users can be better assured of the authenticity of the document.
+‹ 4. Obsolescence of formats
+up
+6. Selection of best copy and carrier restoration ›
+Printer-friendly version
+BACK TO TOP
+Main menu
+Home
+About
+Activities
+Branches
+Code of Conduct
+Code of Ethics
+Committees
+Ambassador Committee
+Discography Committee
+International Bibliography of Discographies
+Diversity, Equity and Inclusion Committee
+Organising Knowledge Committee
+Technical Committee
+Training & Education Committee
+IASA Preservation Training Programme
+IASA Preservation Training Programme: videos
+Tutorials and Workshops offered by IASA
+Broadcast Archives Section
+Research Collections with Cold War-era Radio Materials
+National Archives Section
+Research Archives Section
+Constitution
+Executive Board
+Executive Board elections
+Election 2023
+Election 2026
+Previous Board members
+History
+Mailing list
+Membership
+Join IASA
+Membership categories and benefits
+Membership payments
+Membership rates
+Sustaining Members
+Application Form
+FAQ - Frequently Asked Questions
+Conferences
+Future Conferences
+Past Conferences
+Conference photo galleries
+Conference planning
+1. About these Guidelines
+2. Introduction to IASA conferences
+3. Conference dates and duration
+4. Joint conferences and solo conferences
+5. Conference organizers’ responsibilities
+5.1 IASA EB procedure
+5.2 Summary of conference responsibilities
+5.3 Guidance for the local host
+6. Conference planning committees and organization
+7. Programme structure and content
+8. Guidelines for chairpersons and speakers
+9. Financial assistance for speakers
+10. Payment of conference fees
+11. Wrap-up
+Appendix 1: Planning timeline
+Appendix 2: Example of conference budget
+Publications
+IASA Journal
+IASA Special and Technical Publications
+An Archive Approach to Oral History
+Ethical Principles for Sound & AV Archives
+IASA Cataloguing Rules
+Selection Criteria
+Selection in Sound Archives
+Sound Archives - Establishment & Development
+TC 03 Safeguarding the Audio Heritage
+TC 04 Production and Preservation of Digital Audio Objects
+TC 05 Handling & Storage of AV Carriers
+TC 06: Guidelines for the Preservation of Video Recordings
+Guidelines for IASA Publications Translation
+Awards
+Honorary Members
+IASA Award of Recognition
+Research Grant
+Travel Awards
+Carl Fleischhauer Award
+Dietrich Schüller Award for Audiovisual Training
+Lars Gaustad Award
+Policies
+Copyright
+National Discography
+Legal Deposit
+Audiovisual Legal Deposit register
+AV legal deposit questionnaire
+Technical Guidelines
+Links
+Europeana
+Europeana Sounds Task Force
+CCAAA
+Joint Technical Symposium
+Training events
+Magnetic Tape Alert Project
+UNESCO
+World Day for Audiovisual Heritage
+Search form
+Search
+IASA conference
+I
+ASA 57th Annual Conference
+Want to join IASA?
+Learn more about IASA
+IASA activities
+Want to join?
+Membership categories
+Membership rates
+Application form
+Member login
+Username
+*
+Password
+*
+Request new password
+Quick links
+Contact
+FAQ
+Mailing list
+Committees & Sections
+Shop
+Events listing
+@iasa_web
+Facebook page
+Facebook group
+Instagram
+Videos
+Latest forum posts
+American Folklife Center archivist posting
+Checksums
+AFC Position Announcement: Archives Director
+More
+© International Association of Sound and Audiovisual Archives (IASA)
+Translation not permitted without consent of IASA Executive Board
+PRIVACY AND COOKIES
+|
+TERMS OF USE
+|
+CODE OF CONDUCT
+|
+CONTACT US
+|
+SITE MAP
+
+========== https://www.iasa-web.org/tc03/10-digital-target-formats-and-resolution
+You are here
+Home
+›
+The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy (web edition)
+10. Digital target formats and accuracy
+As with all forms of digital technology, digital coding schemes are subject to ongoing development. As such, discussion around the most appropriate formats for preservation will also continue to evolve. Irrespective of the options available however, several principles can be applied in choosing target formats.
+File-based formats offer greater data security and integrity monitoring capability than do carrier-based formats containing data streams such as DAT, audio CD or Digital Betacam.
+When transferring digital carrier-based content (for example from DAT or DV cassette formats) the resultant file must, when deemed appropriate, retain the coding scheme of the original data stream. Where this is not appropriate, for example where a lossy and proprietary coding scheme has been used (see section 11), a coding scheme should be chosen which preserves the integrity of the original.
+An essential requirement of any archival file format is that coding schemes used for preservation purposes be openly defined, and not proprietary to a limited number of manufacturers.
+Where there is little or no consensus throughout the archival community on the choice of target format for a given purpose, a repository must choose a format for which they can be at least relatively confident of their own ability to support it sustainably. This would require sufficient available resource including expertise, as well as ongoing wider industry support for the format.
+A repository must ensure that a chosen target format will retain the minimum required combination of primary and secondary information.
+Comment:
+Preservation master recordings are generally carried by a target format that consists of a single file, in which a container (wrapper) carries the primary sound or sound-and-picture information, together with secondary information like captions, subtitles, timecode, and other ancillary data. In some cases, however, the secondary information may be carried in what are sometimes called “sidecar” files. This approach is not uncommon for subtitles or captions, and may be used for such corollary materials as record labels.
+For audio, the Broadcast WAVE (BWF) format has become a de-facto standard. This format is officially recommended by the Technical Committee (see IASA-TC 04, 6.1.2.1). Broadcast WAVE files, like all WAVE files, cannot exceed 4GB in size, and are limited to mono or two-channel stereo recordings. To accommodate greater amounts of audio data and multiple audio channels, the European Broadcast Union has defined the RF64 BWF file, with a maximum file size of approximately 16 exabytes and up to 18 channels.
+For digitisation of original analogue audio recordings, IASA recommends a minimum digital resolution of 48 kHz sampling rate at 24 bit word length, using linear pulse code modulation (LPCM) encoding. In heritage/memory institutions a resolution of 96 kHz / 24 bit has become widely adopted. Better transfers of the unintended parts of a sound document now (see section 8) will make the future removal of these artefacts by digital signal processing easier when making access copies. Because of the transient character of consonants, speech recordings must be treated like music recordings.
+When primary information on disc and cylinder sound recordings are captured by non-contact optical scanning techniques, the scanning data itself may comprise the main element in the preservation master file, rather than a subsequently derived conventional audio bitstream.
+In memory institutions, target formats for moving image preservation masters are in the early phases of implementation. For video, several institutions have been using a variant of the MXF wrapper standardised by SMPTE, with the picture signal encoded as lossless-compressed JPEG 2000. Meanwhile, other institutions are moving forward with the FFV1 lossless encoding, carrying the picture signal and accompanying soundtracks in wrappers such as QuickTime, Matroska, or AVI.
+The most frequently selected target format for memory institution motion picture film scanning is DPX, standardised by SMPTE. At the same time, some archives are exploring approaches that will permit the carriage of synchronised sound and picture signals in the same wrapper, and/or the ability to incorporate additional colour and tonal data. These explorations entail the reformatting of the initially captured DPX picture signals (and soundtracks) into preservation master formats like those selected for video, e.g., lossless JPEG 2000 in MXF or FFV1 picture in QuickTime or Matroska.
+In some circumstances it may not practically be possible to migrate audiovisual content. This could be due to specific integral functionality as encountered in video games for example, or the use of copy protection technology. Future access (and thus preservation) may therefore depend on the emulation of the original operating systems and/or application software.
+Archives may acquire material in file-based forms, whose transcoding to archival formats may result in irreversible changes being made to the representation of the content. In such cases, authenticity and the promise of better transcoding methods in the future must be considered. The archive may choose to retain the original (as-acquired) file, as well as the transcoded version that is considered a better bet for long-term playability, or simply to transcode, retain the new copies, and delete the originals. The latter option may apply particularly in “edge” cases such as video clips that have been gathered as a part of a Web harvesting project.
+In the very long term, further migration from any given format would seem inevitable. Therefore, as far as is possible, a repository must aim to ensure that future migration from any chosen target format will equally preserve this information.
+‹ 9. Preservation of carriers and replay systems after transfer
+up
+11. Data compression and data reduction ›
+Printer-friendly version
+BACK TO TOP
+Main menu
+Home
+About
+Activities
+Branches
+Code of Conduct
+Code of Ethics
+Committees
+Ambassador Committee
+Discography Committee
+International Bibliography of Discographies
+Diversity, Equity and Inclusion Committee
+Organising Knowledge Committee
+Technical Committee
+Training & Education Committee
+IASA Preservation Training Programme
+IASA Preservation Training Programme: videos
+Tutorials and Workshops offered by IASA
+Broadcast Archives Section
+Research Collections with Cold War-era Radio Materials
+National Archives Section
+Research Archives Section
+Constitution
+Executive Board
+Executive Board elections
+Election 2023
+Election 2026
+Previous Board members
+History
+Mailing list
+Membership
+Join IASA
+Membership categories and benefits
+Membership payments
+Membership rates
+Sustaining Members
+Application Form
+FAQ - Frequently Asked Questions
+Conferences
+Future Conferences
+Past Conferences
+Conference photo galleries
+Conference planning
+1. About these Guidelines
+2. Introduction to IASA conferences
+3. Conference dates and duration
+4. Joint conferences and solo conferences
+5. Conference organizers’ responsibilities
+5.1 IASA EB procedure
+5.2 Summary of conference responsibilities
+5.3 Guidance for the local host
+6. Conference planning committees and organization
+7. Programme structure and content
+8. Guidelines for chairpersons and speakers
+9. Financial assistance for speakers
+10. Payment of conference fees
+11. Wrap-up
+Appendix 1: Planning timeline
+Appendix 2: Example of conference budget
+Publications
+IASA Journal
+IASA Special and Technical Publications
+An Archive Approach to Oral History
+Ethical Principles for Sound & AV Archives
+IASA Cataloguing Rules
+Selection Criteria
+Selection in Sound Archives
+Sound Archives - Establishment & Development
+TC 03 Safeguarding the Audio Heritage
+TC 04 Production and Preservation of Digital Audio Objects
+TC 05 Handling & S
+
+========== https://www.iasa-web.org/tc03/11-data-reduction
+You are here
+Home
+›
+The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy (web edition)
+11. Data compression and data reduction
+For long-term preservation purposes, target formats employing data reduction (often called, incorrectly, data “compression”) should not be used when encoding from original analogue or linear digital recordings. Such so-called “lossy codecs” based on perceptual coding result in the irretrievable loss of parts of the primary information. The results of such data reduction may sound and look identical or very similar to the unreduced linear signal, but further use of the data-reduced signal will be much more likely to result in degradation of the primary content.
+While there is no objection in principle to the use of lossless (fully reversible) compression, any resultant saving in storage costs would need to be offset against the increased risk that the tools required to decode the files might be unavailable or insufficiently supported in the future. Both lossy and lossless data compression schemes produce data streams that are more susceptible to minor read errors than are linear encoded streams, and therefore the content of those compressed streams is more likely to be corrupted to a much larger extent by those errors than a linear encoded stream would be.
+This archival principle should also be applied, whenever possible, to the creation of original recordings made with the intention of being archived. However, if content comes to an archive having been recorded in a data reduced, non-linear format however, it must be preserved faithfully as-is.
+Comment:
+Data reduction is a powerful tool in the dissemination of audiovisual content. Its use for preservation, however, is counter to the ethical principle of preserving as much of the primary information as possible. Data reduction does not permit the restoration of the signal to its original condition and will, in addition, limit the further use of the recording because of the artefacts generated when cascading perceptually coded material, for example, in the making of a new programme incorporating the original sounds and images.
+Because of the sheer amount of data required to store digital video signals, the use of data reduction for production formats has been and remains widespread. Ideally, non-linear encoding formats should be preserved in their original form. A major problem may arise however, when the format of origination is of a proprietary character such as the MiniDisc and DVCAM (see IASA-TC 04, 5.5.12.1; IASA-TC 06). The primary information of such recordings may be logically migrated to a preservation supported format, or the coding may be kept as-is. This will often be the decision of the archives digital preservation policies.
+‹ 10. Digital target formats and accuracy
+up
+12. Data management: archiving principles in a file-based environment ›
+Printer-friendly version
+BACK TO TOP
+Main menu
+Home
+About
+Activities
+Branches
+Code of Conduct
+Code of Ethics
+Committees
+Ambassador Committee
+Discography Committee
+International Bibliography of Discographies
+Diversity, Equity and Inclusion Committee
+Organising Knowledge Committee
+Technical Committee
+Training & Education Committee
+IASA Preservation Training Programme
+IASA Preservation Training Programme: videos
+Tutorials and Workshops offered by IASA
+Broadcast Archives Section
+Research Collections with Cold War-era Radio Materials
+National Archives Section
+Research Archives Section
+Constitution
+Executive Board
+Executive Board elections
+Election 2023
+Election 2026
+Previous Board members
+History
+Mailing list
+Membership
+Join IASA
+Membership categories and benefits
+Membership payments
+Membership rates
+Sustaining Members
+Application Form
+FAQ - Frequently Asked Questions
+Conferences
+Future Conferences
+Past Conferences
+Conference photo galleries
+Conference planning
+1. About these Guidelines
+2. Introduction to IASA conferences
+3. Conference dates and duration
+4. Joint conferences and solo conferences
+5. Conference organizers’ responsibilities
+5.1 IASA EB procedure
+5.2 Summary of conference responsibilities
+5.3 Guidance for the local host
+6. Conference planning committees and organization
+7. Programme structure and content
+8. Guidelines for chairpersons and speakers
+9. Financial assistance for speakers
+10. Payment of conference fees
+11. Wrap-up
+Appendix 1: Planning timeline
+Appendix 2: Example of conference budget
+Publications
+IASA Journal
+IASA Special and Technical Publications
+An Archive Approach to Oral History
+Ethical Principles for Sound & AV Archives
+IASA Cataloguing Rules
+Selection Criteria
+Selection in Sound Archives
+Sound Archives - Establishment & Development
+TC 03 Safeguarding the Audio Heritage
+TC 04 Production and Preservation of Digital Audio Objects
+TC 05 Handling & Storage of AV Carriers
+TC 06: Guidelines for the Preservation of Video Recordings
+Guidelines for IASA Publications Translation
+Awards
+Honorary Members
+IASA Award of Recognition
+Research Grant
+Travel Awards
+Carl Fleischhauer Award
+Dietrich Schüller Award for Audiovisual Training
+Lars Gaustad Award
+Policies
+Copyright
+National Discography
+Legal Deposit
+Audiovisual Legal Deposit register
+AV legal deposit questionnaire
+Technical Guidelines
+Links
+Europeana
+Europeana Sounds Task Force
+CCAAA
+Joint Technical Symposium
+Training events
+Magnetic Tape Alert Project
+UNESCO
+World Day for Audiovisual Heritage
+Search form
+Search
+IASA conference
+I
+ASA 57th Annual Conference
+Want to join IASA?
+Learn more about IASA
+IASA activities
+Want to join?
+Membership categories
+Membership rates
+Application form
+Member login
+Username
+*
+Password
+*
+Request new password
+Quick links
+Contact
+FAQ
+Mailing list
+Committees & Sections
+Shop
+Events listing
+@iasa_web
+Facebook page
+Facebook group
+Instagram
+Videos
+Latest forum posts
+American Folklife Center archivist posting
+Checksums
+AFC Position Announcement: Archives Director
+More
+© International Association of Sound and Audiovisual Archives (IASA)
+Translation not permitted without consent of IASA Executive Board
+PRIVACY AND COOKIES
+|
+TERMS OF USE
+|
+CODE OF CONDUCT
+|
+CONTACT US
+|
+SITE MAP
+
+========== https://www.iasa-web.org/tc03/13-digital-mass-storage-systems
+You are here
+Home
+›
+The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation Strategy (web edition)
+13. Storage of files for the long term
+Infrastructure permitting automated checking of data integrity, media migration, and, finally, format migration with a minimum use of manpower is now in regular use within the archival community (see IASA-TC 04, 6.2). At the time of writing, these range from small-scale systems of around 16 TB to petabyte size repositories. Such management software exists both as expensive proprietary solutions and as freeware. Even if an archive decides such a system is beyond its means, it should not postpone digitisation, but consider using discrete data carriers such as data tapes or HDDs for offline storage, and initiate manual checking procedures.
+Responsible preservation of digital data requires systems and a technical infrastructure, the monitoring of the condition of files, and the existence of plans for media migration and format migration. All of these topics and more are discussed in standards associated with the Open Archival Information System (OAIS) Reference Model (ISO 14721) and in documents pertaining to Trusted Digital Repositories (ISO 16363).
+Comment:
+While the cost of hardware and software for long term preservation is within reach of many audiovisual archives, the archive must ensure that it possesses the knowledge base required to run and maintain such a system. In manual approaches, as opposed to automated storage systems, the lower cost of hardware and software has to be offset against a considerably increased requirement for labour, with all its implications in terms of risk to the carriers and staff costs (see IASA-TC 04, 6.5).
+‹ 12. Data management: archiving principles in a file-based environment
+up
+14. Preservation metadata ›
+Printer-friendly version
+BACK TO TOP
+Main menu
+Home
+About
+Activities
+Branches
+Code of Conduct
+Code of Ethics
+Committees
+Ambassador Committee
+Discography Committee
+International Bibliography of Discographies
+Diversity, Equity and Inclusion Committee
+Organising Knowledge Committee
+Technical Committee
+Training & Education Committee
+IASA Preservation Training Programme
+IASA Preservation Training Programme: videos
+Tutorials and Workshops offered by IASA
+Broadcast Archives Section
+Research Collections with Cold War-era Radio Materials
+National Archives Section
+Research Archives Section
+Constitution
+Executive Board
+Executive Board elections
+Election 2023
+Election 2026
+Previous Board members
+History
+Mailing list
+Membership
+Join IASA
+Membership categories and benefits
+Membership payments
+Membership rates
+Sustaining Members
+Application Form
+FAQ - Frequently Asked Questions
+Conferences
+Future Conferences
+Past Conferences
+Conference photo galleries
+Conference planning
+1. About these Guidelines
+2. Introduction to IASA conferences
+3. Conference dates and duration
+4. Joint conferences and solo conferences
+5. Conference organizers’ responsibilities
+5.1 IASA EB procedure
+5.2 Summary of conference responsibilities
+5.3 Guidance for the local host
+6. Conference planning committees and organization
+7. Programme structure and content
+8. Guidelines for chairpersons and speakers
+9. Financial assistance for speakers
+10. Payment of conference fees
+11. Wrap-up
+Appendix 1: Planning timeline
+Appendix 2: Example of conference budget
+Publications
+IASA Journal
+IASA Special and Technical Publications
+An Archive Approach to Oral History
+Ethical Principles for Sound & AV Archives
+IASA Cataloguing Rules
+Selection Criteria
+Selection in Sound Archives
+Sound Archives - Establishment & Development
+TC 03 Safeguarding the Audio Heritage
+TC 04 Production and Preservation of Digital Audio Objects
+TC 05 Handling & Storage of AV Carriers
+TC 06: Guidelines for the Preservation of Video Recordings
+Guidelines for IASA Publications Translation
+Awards
+Honorary Members
+IASA Award of Recognition
+Research Grant
+Travel Awards
+Carl Fleischhauer Award
+Dietrich Schüller Award for Audiovisual Training
+Lars Gaustad Award
+Policies
+Copyright
+National Discography
+Legal Deposit
+Audiovisual Legal Deposit register
+AV legal deposit questionnaire
+Technical Guidelines
+Links
+Europeana
+Europeana Sounds Task Force
+CCAAA
+Joint Technical Symposium
+Training events
+Magnetic Tape Alert Project
+UNESCO
+World Day for Audiovisual Heritage
+Search form
+Search
+IASA conference
+I
+ASA 57th Annual Conference
+Want to join IASA?
+Learn more about IASA
+IASA activities
+Want to join?
+Membership categories
+Membership rates
+Application form
+Member login
+Username
+*
+Password
+*
+Request new password
+Quick links
+Contact
+FAQ
+Mailing list
+Committees & Sections
+Shop
+Events listing
+@iasa_web
+Facebook page
+Facebook group
+Instagram
+Videos
+Latest forum posts
+American Folklife Center archivist posting
+Checksums
+AFC Position Announcement: Archives Director
+More
+© International Association of Sound and Audiovisual Archives (IASA)
+Translation not permitted without consent of IASA Executive Board
+PRIVACY AND COOKIES
+|
+TERMS OF USE
+|
+CODE OF CONDUCT
+|
+CONTACT US
+|
+SITE MAP

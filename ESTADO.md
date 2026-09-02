@@ -747,3 +747,23 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   porque tiene que medirla, y la llama «Who Spoke When»— y **el anuncio de quien fabricó el sistema**.
   **Las lentes por artículo no se ejecutan** sobre un tema sin articulado: devolverían un cero limpio,
   que es peor que no ejecutarlas, y así consta en su informe.
+
+- **2026-09-03 · Un sitio que bloquea la navegación puede servir los ficheros, y ya son dos.** La
+  unión de radiodifusión responde **403** en casi todas sus páginas, pero su **directorio de
+  documentos técnicos sirve los PDF**. Por esa puerta se han recuperado la especificación de
+  metadatos (tema 3) y la del formato de audio de radiodifusión (tema 5). **Dos veces ya no es
+  casualidad**: queda anotada como ruta del proyecto.
+
+- **2026-09-03 · El corpus no se cierra tema a tema.** Una fuente reunida para el **tema 5** —el
+  artículo de la responsable del Fondo Documental de RTVE— contestó, en el mismo párrafo, **una
+  pregunta del tema 2** que se había dado por apoyada sólo en la plantilla: la de la «redacción
+  digital». El tema 2 se reabrió para incorporarla. **Regla: cuando entra una fuente institucional
+  nueva, se releen los temas anteriores**, porque lo que habla de la propia casa contesta lo que
+  ninguna norma internacional podía.
+
+- **2026-09-03 · Traducir dentro de las comillas es inventar la cita.** El borrador del tema 5
+  entrecomillaba en español dos instrucciones de manejo de soportes que la fuente da en inglés. La
+  traducción era fiel y el sentido no cambiaba, y aun así **las comillas decían que aquello era el
+  texto de la fuente**. Se cita en inglés y se traduce fuera. Y un segundo caso del mismo linaje: una
+  cita de un artículo de revista **llevaba el encabezado de página incrustado** por la extracción del
+  PDF, y el borrador lo había quitado en silencio. Ahora va con puntos suspensivos y una nota.

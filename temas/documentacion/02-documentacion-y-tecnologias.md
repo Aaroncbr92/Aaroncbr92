@@ -9,8 +9,8 @@
 | **Fuente** | **Sin norma en el enunciado**, y con dos clases de fuente detrás: las **normas ISO del comité de información y documentación** —**ISO 25964** para los tesauros y los códigos normalizados de identificación— y la **Ley 16/1985 del Patrimonio Histórico Español**, que es la que define en el BOE qué es un documento y qué puede destruirse |
 | **Identificador** | `ISO 25964-1:2011` · `ISO 25964-2:2013` · `ISO 15707:2022` · `BOE-A-1985-12534` |
 | **Redacción que se estudia** | Las **normas ISO en la edición que se cita en cada caso**, leídas en **su muestra oficial** el **03/09/2026**, y la **ley en su texto vigente al 21/12/2022** |
-| **Aviso sobre las fuentes** | De sus **9 preguntas**, **4 tienen norma internacional detrás**, leída en la muestra oficial del propio documento, y **1 más se apoya en la ley del patrimonio**. Las **4 restantes** —el modelo probabilístico, el resumen indicativo, la curación de contenidos y la redacción digital— se apoyan **sólo en la plantilla oficial**, y van marcadas. **El texto íntegro de las normas ISO es de pago**, y aquí se dice qué parte se ha podido leer |
-| **Extensión** | **4.850 palabras** |
+| **Aviso sobre las fuentes** | De sus **9 preguntas**, **4 tienen norma internacional detrás**, leída en la muestra oficial del propio documento; **1 más se apoya en la ley del patrimonio** y **otra en un artículo firmado por la responsable del Fondo Documental de RTVE**. Las **3 restantes** —el modelo probabilístico, el resumen indicativo y la curación de contenidos— se apoyan **sólo en la plantilla oficial**, y van marcadas. **El texto íntegro de las normas ISO es de pago**, y aquí se dice qué parte se ha podido leer |
+| **Extensión** | **5.221 palabras** |
 
 <!-- /portada -->
 
@@ -42,7 +42,8 @@ dice de cuál sale cada dato.
 | **1 · Norma del BOE** | La **Ley 16/1985 del Patrimonio Histórico Español**: qué es **un documento**, qué forma parte del **Patrimonio Documental** —RTVE incluida— y **qué no se puede destruir** |
 | **2 · Organismo de normalización** | **ISO 25964-1:2011** —precoordinación y postcoordinación, vocabulario controlado, indización, recuperación—; **ISO 25964-2:2013** —los **modelos estructurales** de interoperabilidad—; **ISO 15707:2022** —el **ISWC**— y la designación exacta de los demás códigos |
 | **3 · Documentación institucional** | La **página oficial de ISO 25964** alojada por **NISO**, secretaría del comité, y la del **Centro Internacional del ISSN**, que publica la lista de códigos normalizados con su número de norma |
-| **5 · La plantilla oficial** | El **modelo probabilístico** y el teorema de Bayes, el **resumen indicativo**, la **curación de contenidos** y la **redacción digital**. Van marcados |
+| **4 · Documentación profesional de la casa** | Un **artículo firmado por la responsable del Fondo Documental de RTVE**, que describe qué es la **Redacción Digital** en la Corporación y cuándo se implantó |
+| **5 · La plantilla oficial** | El **modelo probabilístico** y el teorema de Bayes, el **resumen indicativo** y la **curación de contenidos**. Van marcados |
 
 ---
 
@@ -412,12 +413,30 @@ el control** del software y del hardware. Las otras dos opciones falsas —dise�
 aplicaciones móviles, edición de vídeo para plataformas— **ni siquiera juegan**: son oficios
 distintos.
 
-**Y el matiz de «no informativos» tiene sentido**: en informativos, ese sistema tiene nombre propio
-y está estandarizado en la industria; en programas no informativos la instalación es **el mismo
-concepto sin ese nombre**, y de ahí que la pregunta pida la definición genérica.
+**Y lo que hace redonda a esta pregunta es que habla de la propia casa.** La responsable del Fondo
+Documental de RTVE describió el despliegue en un artículo de revista profesional, donde nombra al
+fabricante de esas aplicaciones sólo con sus iniciales (el artículo no las desarrolla, y este tema
+tampoco se las inventa): **AVID**. La cita, entera: «**En 2009 en los Servicios Informativos** […] **y más tarde, en 2013, en Programas no
+informativos, se ha puesto en marcha la llamada Redacción Digital, un conjunto de aplicaciones
+informáticas de AVID (NewsCutter, iNews, Assist, Access, etc.) para la ingesta, producción y archivo
+de contenidos que ha situado a los documentalistas en el corazón de la producción de contenidos**».
 
-**Nivel de la fuente**: **plantilla oficial**. La expresión se ha buscado en todo el corpus reunido
-—normas ISO, convenio colectivo, leyes audiovisuales— y **no aparece definida en ninguna**.
+**Ahí está todo lo que la pregunta necesita, y en el orden en que lo pregunta**: es **un conjunto de
+aplicaciones informáticas**, no un arte de escribir; se implantó **antes en informativos y después en
+programas no informativos** —de ahí el «no informativos» del enunciado—; y sirve para **ingesta,
+producción y archivo**, que es lo que la opción correcta resume como «centralizar el control de
+todos los elementos del sistema».
+
+**Y la última frase de la cita es la que explica por qué esta pregunta está en un examen de
+documentación**: la Redacción Digital «**ha situado a los documentalistas en el corazón de la
+producción de contenidos**». No es una herramienta que el documentalista consulte al final: es
+aquella en la que trabaja mientras el programa se hace.
+
+**Nivel de la fuente**: **plantilla oficial para la formulación**, y **artículo profesional firmado
+por la responsable del Fondo Documental de RTVE** para lo que la Redacción Digital es en la casa.
+Conviene ser exacto: **no es una publicación institucional de la Corporación**, es un artículo de
+revista escrito por quien dirige ese fondo, y así se cita. La expresión **no aparece definida en
+ninguna norma** del corpus reunido.
 
 ---
 
@@ -433,7 +452,7 @@ Nueve preguntas. Todas se contestan con el tema delante:
 | Difusión | La **curación de contenidos** es seleccionar y compilar para agregar valor y difundir | Plantilla oficial |
 | Análisis | El resumen más breve es el **indicativo** | Plantilla oficial |
 | Identificación | El código de obras musicales es el **ISWC** | **ISO 15707** y página oficial del ISWC |
-| Tecnologías | La **redacción digital** es el conjunto de aplicaciones que centralizan el control | Plantilla oficial |
+| Tecnologías | La **redacción digital** es el conjunto de aplicaciones que centralizan el control | Plantilla (**artículo del Fondo Documental de RTVE** para lo que es en la casa) |
 | Proceso documental | La **selección** busca los documentos de mayor valor patrimonial y utilidad | Plantilla oficial (**Ley 16/1985** para el marco) |
 | Normalización | «Tesauros e interoperabilidad con otros vocabularios» es la **ISO 25964** | **ISO 25964**, título oficial |
 
@@ -470,6 +489,10 @@ probatorio**.
   **ISO 2709**.
 - **Portada del ISWC**, sistema gestionado por la confederación internacional de sociedades de
   autores y compositores, leída el **3 de septiembre de 2026**: la definición del código.
+- **Virginia Bazán Gil (Radiotelevisión Española), «La memoria colectiva: contenidos para el recuerdo,
+  del archivo a la Web de RTVE»**, revista *Métodos de Información*, II época, volumen 5, número 8,
+  descargado el **3 de septiembre de 2026**: la descripción de la **Redacción Digital** y las fechas
+  de su implantación en informativos y en programas no informativos.
 - **Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español**, `BOE-A-1985-12534`, **texto
   vigente al 21 de diciembre de 2022**: los artículos **cuarenta y nueve** —documento y Patrimonio
   Documental—, **cincuenta y cinco** —exclusión y eliminación—, **cincuenta y siete** —consulta— y
@@ -479,9 +502,11 @@ probatorio**.
 
 **Lo que este tema no puede sostener, y por eso lo dice:**
 
-- **Cuatro de las nueve respuestas se apoyan sólo en la plantilla oficial**: el modelo probabilístico,
-  el resumen indicativo, la curación de contenidos y la redacción digital. Los términos se han
-  buscado en todo el corpus del proyecto y **ninguno aparece en norma**.
+- **Tres de las nueve respuestas se apoyan sólo en la plantilla oficial**: el modelo probabilístico,
+  el resumen indicativo y la curación de contenidos. Los términos se han buscado en todo el corpus
+  del proyecto y **ninguno aparece en norma**.
+- **La redacción digital no está definida en ninguna norma**, y lo que el tema dice de ella sale de
+  un **artículo de revista profesional**, no de una publicación institucional de la Corporación.
 - **La norma que clasifica los resúmenes, ISO 214, no se ha podido consultar.** El catálogo de ISO
   responde «prohibido» a toda consulta automática, y la norma se vende sin muestra. Comprobado con
   agente de usuario de navegador.

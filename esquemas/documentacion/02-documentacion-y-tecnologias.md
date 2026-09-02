@@ -3,11 +3,11 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[25964-1]` y `[25964-2]` = muestra oficial de
 la norma de tesauros · `[15707]` = muestra oficial de la norma del código de obras musicales ·
 `[NISO]` = página oficial de ISO 25964 · `[ISSN]` = lista de códigos del Centro Internacional del
-ISSN · `[L16/85]` = Ley del Patrimonio Histórico Español · `[uso]` = plantilla oficial, **sin norma
-leída**.
+ISSN · `[L16/85]` = Ley del Patrimonio Histórico Español · `[RTVE]` = artículo de la responsable del Fondo
+Documental de RTVE · `[uso]` = plantilla oficial, **sin norma leída**.
 
 **Cabecera.** **9 preguntas** · **4 con norma internacional**, **1 con la ley del patrimonio detrás**,
-**4 sólo con plantilla**. **El texto íntegro de las normas ISO es de pago**: se ha leído **su muestra
+**1 con artículo de la casa**, **3 sólo con plantilla**. **El texto íntegro de las normas ISO es de pago**: se ha leído **su muestra
 oficial**, que trae portada, índice, introducción, objeto y parte de las definiciones.
 
 <!-- indice -->
@@ -33,7 +33,7 @@ oficial**, que trae portada, índice, introducción, objeto y parte de las defin
 | Curación de contenidos | **Seleccionar y compilar, agregar valor, difundir** | `[uso]` |
 | Resumen más breve | **Indicativo** | `[uso]` |
 | Código de obras musicales | **ISWC** | `[15707]` |
-| Redacción digital | **Aplicaciones que centralizan el control** | `[uso]` |
+| Redacción digital | **Aplicaciones que centralizan el control** | `[uso]` + `[RTVE]` |
 | Objetivo de la selección | **Mayor valor patrimonial y utilidad** | `[uso]` + `[L16/85]` |
 | «Tesauros e interoperabilidad…» | **ISO 25964** | `[NISO]` |
 
@@ -131,6 +131,15 @@ oficial**, que trae portada, índice, introducción, objeto y parte de las defin
 
 - `[uso]` · **REDACCIÓN DIGITAL = «conjunto de aplicaciones que centralizan el control de todos los
   elementos de software y hardware del sistema».**
+- `[RTVE]` · **Y la casa lo cuenta.** La responsable del Fondo Documental de RTVE, en artículo de
+  revista profesional: «**En 2009 en los Servicios Informativos** […] **y más tarde, en 2013, en
+  Programas no informativos, se ha puesto en marcha la llamada Redacción Digital, un conjunto de
+  aplicaciones informáticas de AVID (NewsCutter, iNews, Assist, Access, etc.) para la ingesta,
+  producción y archivo de contenidos que ha situado a los documentalistas en el corazón de la
+  producción de contenidos**».
+- **TRES COSAS EN UNA CITA**: es **un conjunto de aplicaciones informáticas** · llegó **antes a
+  informativos (2009) y después a no informativos (2013)** —de ahí el enunciado— · sirve para
+  **ingesta, producción y archivo**.
 - **DOS SENTIDOS, y el examen usa el segundo**: **escritura** —«arte de crear y adaptar textos para
   medios digitales», que es la opción falsa **del diccionario**— y **instalación** —«la redacción»
   como **el sitio y el sistema donde se produce**, igual que «la redacción del telediario»—.

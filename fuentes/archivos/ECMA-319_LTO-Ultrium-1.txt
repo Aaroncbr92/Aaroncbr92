@@ -1,0 +1,1617 @@
+Norma ECMA-319 (junio de 2001) · «Data Interchange on 12,7 mm 384-Track Magnetic
+Tape Cartridges – Ultrium-1 Format»
+https://ecma-international.org/wp-content/uploads/ECMA-319_1st_edition_june_2001.pdf
+Descargada el 3 de septiembre de 2026. Se conserva el frontal del documento.
+
+ 
+Standard ECMA-319 
+June 2001 
+Standardizing Information and Communication Systems 
+Phone: +41 22 849.60.00 - Fax: +41 22 849.60.01 - URL: http://www.ecma.ch - Internet: helpdesk@ecma.ch 
+Data Interchange on 12,7 mm 
+384-Track Magnetic Tape 
+Cartridges – Ultrium-1 Format 
+. 
+Standard ECMA-319 
+June 2001 
+Standardizing Information and Communication Systems 
+Phone: +41 22 849.60.00 - Fax: +41 22 849.60.01 - URL: http://www.ecma.ch - Internet: helpdesk@ecma.ch 
+M B O E C M A - 3 1 9 . d o c 1 2 - 0 7 - 0 1 
+Data Interchange on 12,7 mm 
+384-Track Magnetic Tape 
+Cartridges – Ultrium-1 Format 
+. 
+Brief History 
+Technical Committee ECMA TC17 has produced a series of ECMA Standards for magnetic tape cassettes and 
+cartridges of different widths, e.g. 12,7 mm, 8 mm, 6,35 mm and 3,81 mm. In each series, the new standards 
+correspond to specific types of application and different user requirements. Enhanced and new media correspond also 
+to advancements in drive technology. The series of such cartridges with a magnetic tape of 12,7 mm width and 
+longitudinally recorded tracks comprises the following standards. 
+ECMA-120 (1993) : 
+Data Interchange on 12,7 mm 18-Track Magnetic Tape Cartridges 
+ISO 9661 
+ECMA-152 (1993) : 
+Data Interchange on 12,7 mm 18-Track Magnetic Tape Cartridges - Extended Format 
+ISO/IEC 11559 
+ECMA-182 (1992) : 
+Data Interchange on 12,7 mm 48-Track Magnetic Tape Cartridges - DLT 1 Format - 
+ISO/IEC 13421 
+ECMA-196 (1993) : 
+Data Interchange on 12,7 mm 36-Track Magnetic Tape Cartridges 
+ISO/IEC 14251 
+ECMA-197 (1993) : 
+Data Interchange on 12,7 mm 112-Track Magnetic Tape Cartridges - DLT 2 Format - 
+ISO/IEC 13962 
+ECMA-209 (1994) : 
+Data Interchange on 12,7 mm 128-Track Magnetic Tape Cartridges - DLT 3 Format 
+ISO/IEC 14833 
+ECMA-231 (1995) : 
+Data Interchange on 12,7 mm 128-Track Magnetic Tape Cartridges - DLT 4 Format 
+ISO/IEC 15305 
+ECMA-258 (1997) : 
+Data Interchange on 12,7 mm 128-Track Magnetic Tape Cartridges - DLT 3-XT Format 
+ISO/IEC 15895 
+ECMA-259 (1997) : 
+Data Interchange on 12,7 mm 208-Track Magnetic Tape Cartridges - DLT 5 Format 
+ISO/IEC 15896 
+ECMA-278(1998) : 
+Data Interchange on 12,7 mm 128-track Magnetic Tape Cartridges 
+ISO/IEC 17913 
+Parallel Serpentine Format 
+ECMA-286 (1999) : 
+Data Interchange on 12,7 mm 208-Track Magnetic Tape Cartridges - DLT 6 Format 
+ISO/IEC 16382 
+ECMA-320 (2001) : 
+Data Interchange on 12,7 mm 448-Track Magnetic Tape Cartridges - SDLT1 Format 
+This ECMA Standard ECMA-319 describes a cartridge containing magnetic tape 12,65 mm wide and a recording 
+format. This cartridge and format is the first in a family of linearly recorded 12,65 mm tape cartridges. Four types of 
+cartridges are defined, containing tapes of different lengths. 
+The primary differences between this Standard and previous linearly recorded Standards are a greater number of 
+recorded tracks, a higher linear recording density, and a timing based servo for improved track following. Together 
+these provide the ability to achieve significant improvements in cartridge capacity. This format, when recorded on a 
+609-metre tape, will provide a storage capacity of 100 Gbytes of uncompressed user data, or typically 200 Gbytes of 
+compressed user data. 
+All ECMA Standards listed above have been adopted by ISO/IEC as International Standards. The present ECMA 
+Standard will also be contributed to ISO/IEC for adoption as an International Standard under the fast-track procedure. 
+This Standard has been adopted by the ECMA General Assembly of June 2001. 
+- i - 
+Table of contents 
+Page 
+Section 1 - General 
+1 
+1 
+Scope 
+1 
+2 
+Conformance 
+1 
+2.1 
+Magnetic tape cartridge 
+1 
+2.2 
+Generating system 
+1 
+2.3 
+Receiving system 
+1 
+3 
+References 
+1 
+4 
+Definitions 
+2 
+4.1 
+Access Point 
+2 
+4.2 
+algorithm 
+2 
+4.3 
+algorithmically processed data 
+2 
+4.4 
+a.c. erase 
+2 
+4.5 
+Average Signal Amplitude 
+2 
+4.6 
+back surface 
+2 
+4.7 
+Beginning of Tape (BOT) 
+2 
+4.8 
+Beginning of Wrap (BOW) 
+2 
+4.9 
+bit 
+2 
+4.10 
+bit cell 
+2 
+4.11 
+Broad Band Signal-to-Noise Ratio (BBSNR) 
+2 
+4.12 
+byte 
+2 
+4.13 
+cartridge 
+2 
+4.14 
+Channel bit 
+2 
+4.15 
+Codeword 
+2 
+4.16 
+Codeword Pair 
+3 
+4.17 
+Codeword Quad (CQ) 
+3 
+4.18 
+CQ Set 
+3 
+4.19 
+cyclic redundancy check (CRC) character 
+3 
+4.20 
+Data Set 
+3 
+4.21 
+Data Set Information Table (DSIT) 
+3 
+4.22 
+End of Data (EOD) 
+3 
+4.23 
+End of Tape (EOT) 
+3 
+4.24 
+End of Wrap (EOW) 
+3 
+4.25 
+Error Correcting Code (ECC) 
+3 
+4.26 
+File Mark 
+3 
+4.27 
+flux transition position 
+3 
+4.28 
+flux transition spacing 
+3 
+4.29 
+forward tape motion 
+3 
+4.30 
+header 
+3 
+4.31 
+Housekeeping Data Set 
+3 
+4.32 
+logical forward 
+3 
+4.33 
+logical reverse 
+3 
+4.34 
+Logical Point 
+3 
+- ii - 
+4.35 
+magnetic tape 
+4 
+4.36 
+Master Standard Reference Tape (MSRT) 
+4 
+4.37 
+LTO Cartridge Memory (LTO CM) 
+4 
+4.38 
+Optimum Recording Current 
+4 
+4.39 
+physical end of tape 
+4 
+4.40 
+physical forward 
+4 
+4.41 
+physical reverse 
+4 
+4.42 
+pre-record condition 
+4 
+4.43 
+processed data 
+4 
+4.44 
+Processed Record 
+4 
+4.45 
+Processing (Compression) 
+4 
+4.46 
+Protected Record 
+4 
+4.47 
+Record 
+4 
+4.48 
+recorded element 
+4 
+4.49 
+Reference Recording Current 
+4 
+4.50 
+Reprocessing (Decompression) 
+5 
+4.51 
+reverse tape motion 
+5 
+4.52 
+run length limited encoding (RLL) 
+5 
+4.53 
+Secondary Standard Reference Tape (SSRT) 
+5 
+4.54 
+servo acquisition region 
+5 
+4.55 
+Standard Reference Amplitude (SRA) 
+5 
+4.56 
+Symbol 
+5 
+4.57 
+Synchronised Codeword Quad (SCQ) 
+5 
+4.58 
+Test Recording Density (TRD) 
+5 
+4.59 
+wrap 
+5 
+4.60 
+write equalisation 
+5 
+4.61 
+(1,7) RLL code 
+5 
+5 
+Conventions and notations 
+6 
+5.1 
+Representation of numbers 
+6 
+5.2 
+Dimensions 
+6 
+5.3 
+Names 
+6 
+5.4 
+Alphanumeric string encoding 
+6 
+6 
+Acronyms 
+6 
+7 
+Environment and safety 
+7 
+7.1 
+Cartridge and tape testing environment 
+7 
+7.2 
+Cartridge operating environment 
+7 
+7.3 
+Cartridge storage environment 
+7 
+7.4 
+Tape tension 
+7 
+7.5 
+Safety 
+7 
+7.6 
+Flammability 
+7 
+7.7 
+Transportation 
+7 
+Section 2 - Requirements for the Cartridge 
+8 
+8 
+Dimensional and Mechanical Characteristics of the Cartridge 
+8 
+8.1 
+Elements of the cartridge 
+8 
+8.2 
+Reference Planes of the case 
+8 
+8.3 
+Dimensions of the case 
+8 
+8.3.1 
+Overall dimension 
+9 
+8.3.2 
+Reference points for reference planes 
+9 
+8.3.3 
+Positioning notches 
+10 
+8.3.4 
+Handling notches 
+11 
+- iii - 
+8.3.5 
+Mis-insertion protection 
+11 
+8.3.6 
+Stacking features 
+11 
+8.3.7 
+Label area of the rear side 
+12 
+8.3.8 
+Central window 
+12 
+8.3.9 
+Sliding door 
+12 
+8.3.10 
+Case opening 
+13 
+8.4 
+Write-inhibit mechanism 
+13 
+8.5 
+Flexibility of the case 
+13 
+8.5.1 
+Requirements 
+13 
+8.5.2 
+Procedure 
+13 
+8.6 
+Tape reel 
+14 
+8.6.1 
+Locking mechanism 
+14 
+8.6.2 
+Axis of rotation of the reel 
+14 
+8.6.3 
+Reel flanges 
+14 
+8.6.4 
+Metallic insert 
+15 
+8.6.5 
+Toothed rim 
+15 
+8.6.6 
+Hub of the reel 
+15 
+8.6.7 
+Relative positions of hub and case 
+15 
+8.6.8 
+Characteristics of the toothed rim 
+16 
+8.7 
+Magnetic tape 
+17 
+8.7.1 
+Tape wind 
+17 
+8.7.2 
+Wind tension 
+17 
+8.7.3 
+Circumference of the tape reel 
+17 
+8.7.4 
+Moment of inertia 
+17 
+8.8 
+Leader pin assembly 
+17 
+8.8.1 
+Leader pin assembly dimensions 
+17 
+8.8.2 
+Leader tape attachment to leader pin assembly 
+18 
+8.8.3 
+Latching the leader pin assembly in the case 
+18 
+8.8.4 
+Mechanism and tape exit keepout area 
+19 
+8.9 
+LTO CM 
+19 
+8.10 
+Areas reserved for cartridge presence sensing 
+19 
+8.11 
+Handling grips and insertion indicator 
+20 
+8.11.1 
+Side grips 
+20 
+8.11.2 
+Insertion indicator 
+20 
+8.11.3 
+Top grip 
+20 
+8.11.4 
+Bottom grip 
+20 
+8.12 
+Pad Printing Areas 
+21 
+8.13 
+Opacity 
+21 
+Section 3 - Requirements for the Unrecorded Tape 
+37 
+9 
+Mechanical, physical and dimensional characteristics of the tape 
+37 
+9.1 
+Materials 
+37 
+9.2 
+Tape length 
+37 
+9.2.1 
+Length of magnetic tape 
+37 
+9.2.2 
+Length of leader tape 
+37 
+9.2.3 
+Length of splicing tape 
+37 
+9.3 
+Tape Width 
+37 
+9.3.1 
+Width of magnetic tape 
+37 
+9.3.2 
+Width of leader tape 
+37 
+9.3.3 
+Width of splicing tape 
+37 
+9.3.4 
+Procedure 
+38 
+9.4 
+Tape Thickness 
+38 
+- iv - 
+9.4.1 
+Procedure 
+38 
+9.5 
+Longitudinal curvature 
+38 
+9.5.1 
+Procedure 
+38 
+9.6 
+Edge Quality 
+38 
+9.6.1 
+Edge deviation 
+38 
+9.7 
+Tape flatness 
+39 
+9.7.1 
+Cupping 
+40 
+9.7.2 
+Curl/Twist 
+40 
+9.8 
+Coating adhesion 
+40 
+9.8.1 
+Procedure 
+40 
+9.9 
+Layer-to-layer adhesion 
+41 
+9.9.1 
+Requirement 
+41 
+9.9.2 
+Procedure 
+41 
+9.10 
+Coefficient of friction 
+42 
+9.10.1 
+Requirement 
+42 
+9.10.2 
+Procedure for the measurement of the dynamic friction between the magnetic 
+surface and the back surface 
+42 
+9.10.3 
+Procedure for the measurement of the dynamic friction between the back surface 
+and SS-310 stainless steel 
+43 
+9.10.4 
+Procedure for the measurement of the dynamic friction between the magnetic 
+surface and AlO 2/TiC ceramic 
+43 
+9.11 
+Surface quality 
+43 
+9.11.1 
+Surface roughness 
+43 
+9.12 
+Abrasivity 
+43 
+9.13 
+Tensile strength 
+44 
+9.13.1 
+Breaking strength 
+44 
+9.13.2 
+Offset yield strength 
+44 
+9.14 
+Longitudinal compliance 
+44 
+9.14.1 
+Procedure 
+44 
+9.15 
+Residual elongation 
+44 
+9.15.1 
+Requirement 
+44 
+9.15.2 
+Procedure 
+44 
+9.16 
+Flexural rigidity 
+45 
+9.16.1 
+Requirement 
+45 
+9.16.2 
+Procedure 
+45 
+9.17 
+Transverse dimensional stability 
+45 
+9.18 
+Electrical resistance of coated surfaces 
+45 
+9.18.1 
+Requirement 
+45 
+9.18.2 
+Procedure 
+45 
+10 
+Magnetic Recording Characteristics 
+46 
+10.1 
+General 
+46 
+10.2 
+Test conditions 
+46 
+10.3 
+Optimum Recording Current 
+46 
+10.4 
+Signal amplitude 
+46 
+10.5 
+Resolution 
+46 
+10.6 
+Overwrite 
+47 
+10.6.1 
+Requirement 
+47 
+10.7 
+Ease of erasure 
+47 
+10.8 
+Broad Band Signal-to-Noise Ratio 
+47 
+- v - 
+10.8.1 
+Requirement 
+47 
+10.9 
+Tape quality 
+47 
+10.9.1 
+Missing pulses 
+47 
+10.9.2 
+Missing pulse zone 
+47 
+Section 4 - Requirements for an Interchanged Tape 
+48 
+11 
+Method of recording servo bands 
+48 
+11.1 
+General 
+48 
+11.2 
+Servo bands 
+48 
+11.2.1 
+Servo stripes 
+48 
+11.2.2 
+Servo bursts 
+48 
+11.2.3 
+Servo frames 
+49 
+11.2.4 
+Servo signal amplitude 
+50 
+11.2.5 
+Servo signal polarity 
+50 
+11.2.6 
+Servo defects 
+51 
+11.3 
+Servo frame encoding 
+51 
+11.3.1 
+Method of encoding position and manufacturer's data 
+51 
+11.3.2 
+LPOS word construction 
+53 
+11.3.3 
+Tape manufacturer encoding 
+54 
+11.3.4 
+Cross tape identification 
+56 
+11.4 
+Servo band location 
+56 
+11.5 
+Servo band pitch 
+56 
+11.6 
+Nominal servo locations 
+56 
+11.7 
+Long-term average servo location 
+56 
+12 
+Method of recording data tracks 
+57 
+12.1 
+Physical recording density 
+57 
+12.2 
+Nominal bit cell length 
+57 
+12.3 
+Long-term average bit cell length 
+57 
+12.4 
+Short-term Average Bit Cell Length (STA) 
+57 
+12.5 
+Rate of change of the STA 
+57 
+12.6 
+Bit shift 
+57 
+12.7 
+Recording performance test conditions 
+57 
+12.8 
+Track sequence addressing 
+57 
+12.9 
+Location of data tracks 
+58 
+12.10 
+Track width 
+59 
+12.11 
+Adjacent track pitch 
+59 
+12.12 
+Azimuth 
+59 
+12.13 
+Total character skew 
+59 
+12.14 
+Channel Layout 
+59 
+13 
+Format 
+60 
+13.1 
+General 
+60 
+13.2 
+Protected Record 
+61 
+13.3 
+Processed Protected Record Sequence 
+62 
+13.3.1 
+Control Symbols 
+62 
+13.3.2 
+End Marker 
+63 
+13.3.3 
+Access Points 
+63 
+13.3.4 
+Alignment and append points 
+64 
+13.4 
+Data Set 
+64 
+13.4.1 
+Format Identification Data Set (FID) 
+64 
+13.4.2 
+User Data Set 
+65 
+- vi - 
+13.4.3 
+EOD Data Set 
+65 
+13.4.4 
+Housekeeping Data Set 
+65 
+13.5 
+Data Set Information Table (DSIT) 
+66 
+13.5.1 
+Drive Manufacturer Use 
+66 
+13.5.2 
+Drive Manufacturer Use C1 
+66 
+13.5.3 
+Reserved 
+67 
+13.5.4 
+Drive Manufacturer's Identity 
+67 
+13.5.5 
+Data Set number 
+67 
+13.5.6 
+Valid Data Length 
+67 
+13.5.7 
+Access Point Offset 
+67 
+13.5.8 
+Total Records 
+68 
+13.5.9 
+Total File Marks 
+68 
+13.5.10 Record Count 
+68 
+13.5.11 File Mark Count 
+69 
+13.5.12 Thread Count 
+69 
+13.5.13 Data Set Type 
+70 
+13.5.14 Data Set Flags 
+70 
+13.5.15 Thread Write Pass 
+70 
+13.5.16 Tape Write Pass 
+70 
+13.6 
+ECC 
+71 
+13.6.1 
+Sub Data Set 
+71 
+13.6.2 
+C1 Sub Data Set 
+71 
+13.6.3 
+ECC Encoded Sub Data Set 
+72 
+13.6.4 
+Codeword Pair designation 
+74 
+13.7 
+Codeword Quads (CQ) 
+74 
+13.7.1 
+Codeword Pair Header 
+74 
+13.7.2 
+First Codeword Pair 
+76 
+13.7.3 
+Second Codeword Pair 
+76 
+13.8 
+Allocation of CQs to Logical Tracks 
+76 
+13.9 
+Data randomisation 
+77 
+13.10 
+RLL encoding 
+78 
+14 
+Recording of data on tape 
+78 
+14.1 
+Synchronised Data Set 
+78 
+14.1.1 
+Data Set Separator (DSS) 
+79 
+14.1.2 
+VFO Field 1 
+79 
+14.1.3 
+VFO Field 2 
+79 
+14.1.4 
+Synchronised Codeword Quad (SCQ) 
+79 
+14.2 
+Write equalisation bit encoding 
+80 
+14.3 
+Writing cells on tape 
+81 
+15 
+Regions on tape 
+81 
+15.1 
+Logical Points and regions 
+81 
+15.2 
+Calibration Region 
+82 
+15.3 
+User Data Region 
+83 
+15.4 
+Interrupted Data Sets 
+83 
+15.5 
+Repeated CQ Sets 
+83 
+15.6 
+Amble CQs 
+84 
+15.7 
+Beginning of Wrap (BOW) 
+84 
+15.8 
+End of Wrap (EOW) 
+84 
+15.9 
+Appending and Overwriting 
+84 
+15.10 
+Servo Tracking Faults 
+85 
+- vii - 
+Annexes 
+Page 
+A - Measurement of Bit Shift 
+87 
+B - Measurement of Broad Band Signal-to-Noise Ratio 
+89 
+C - Tape Abrasivity Measurement Procedure 
+91 
+D - LTO Cartridge Memory 
+95 
+E - Flexural Rigidity Procedure 
+117 
+F - LTO CM Electrical Surface 
+119 
+G - Recommendation for transportation 
+137 
+H - Inhibitor Tape 
+139 
+I - Vendor Code Lists 
+141 
+Section 1 - General 
+1 
+Scope 
+This ECMA Standard specifies the physical and magnetic characteristics of magnetic tape cartridges, using 
+magnetic tape 12,65 mm wide so as to provide physical interchange of such cartridges between drives. It also 
+specifies the quality of the recorded signals, the recording method and the recorded format, thereby allowing 
+data interchange between drives by means of such cartridges. The format supports variable length Logical 
+Records, high speed search, and the use of a registered algorithm for data compression. 
+This ECMA Standard specifies four types of cartridges depending on the length of tape contained in the case. 
+These four types are referred to as Type A, Type B, Type C and Type D; their nominal capacity is 
+100 Gbytes, 50 Gbytes, 30 Gbytes and 10 Gbytes, respectively. 
+NOTE 
+One Gbyte contains 1 000 000 000 bytes. 
+Information interchange between systems also requires, at a minimum, agreement between the interchange 
+parties upon the interchange code(s) and the specification of the structure and labeling of the information on 
+the interchanged cartridge. 
+This ECMA Standard shall be used only in conjunction with ECMA-321. 
+Together with a standard for volume and file structure, e.g. Standard ECMA-13, this document provides for 
+full data interchange between data processing systems. 
+2 
+Conformance 
+2.1 
+Magnetic tape cartridge 
+A tape cartridge shall be in conformance with this ECMA Standard if it meets all the mandatory 
+requirements specified herein. The tape requirements shall be satisfied throughout the extent of the tape. 
+2.2 
+Generating system 
+A system generating a magnetic tape cartridge for interchange shall be in conformance with this ECMA 
+Standard if all the recordings that it makes meet the mandatory requirements of this ECMA Standard. 
+2.3 
+Receiving system 
+A system receiving a magnetic tape cartridge for interchange shall be in conformance with this ECMA 
+Standard if it is able to handle any recording made on the tape according to this ECMA Standard. 
+3 
+References 
+ECMA-13:1985 
+File Structure and Labelling of Magnetic Tapes for Information Interchange 
+ECMA-287:1999 
+Safety of Electronic Equipment 
+ECMA-321:2001 
+Streaming Lossless Data Compression Algorithm – (SLDC) 
+ISO/R527:1966 
+Plastics Determination of Tensile Properties 
+ISO/IEC 646:1991 
+Information Technology - 7-bit Coded Character Set for Information Interchange 
+ISO 3574:1999 
+Cold-Reduced Carbon Steel Sheet of Commercial and Drawing Qualities 
+ISO 4287:1997 
+Geometrical Product Specification (GPS) - Surface Texture: Profile Method - Terms, 
+Definitions, and Surface Texture Parameters 
+ISO/IEC 11576:1994 
+Information Technology - Procedure for the Registration of Algorithms for the 
+Lossless Compression of Data 
+ISO/IEC 14443-2:2000 Identification Cards - Contactless Integrated Circuit(s) Cards -- Proximity Cards -- 
+Part 2 
+- 2 - 
+ASTM D4065-95:1995 Standard Practice for Determining and Reporting Dynamic Mechanical Properties of 
+Plastics 
+ASTM D4092-96:1996 Standard Terminology Related to Dynamic Mechanical Measurements on Plastics 
+4 
+Definitions 
+For the purpose of this Standard the following definitions apply. 
+4.1 
+Access Point 
+A point, at the start of a sequence of Processed Records, at which the presentation of Symbols to a 
+reprocessing algorithm is required to start at a known state to enable recovery, regardless of whether the 
+data of interest in a retrieval operation starts at that point or at a subsequent point. 
+4.2 
+algorithm 
+A set of rules for transforming the logical representation of data. 
+4.3 
+algorithmically processed data 
+Data that has been processed by a defined processing algorithm. 
+4.4 
+a.c. erase 
+A process of erasure utilising alternating fields of decaying level. 
+4.5 
+Average Signal Amplitude 
+The average peak-to-peak value of the output signal from the read head at the fundamental frequency of the 
+specified physical recording density over a minimum of 25,4 mm of track, exclusive of missing pulses. 
+4.6 
+back surface 
+The surface of the tape opposite to the magnetic coating which is used to record data. 
+4.7 
+Beginning of Tape (BOT) 
+The reference point on the tape nearest to the leader pin assembly. 
+4.8 
+Beginning of Wrap (BOW) 
+The Logical Point that indicates the beginning of a wrap: LP3 for forward wraps, LP4 for reverse wraps. 
+4.9 
+bit 
+A single digit in the binary number system, a ZERO or a ONE. 
+4.10 
+bit cell 
+A distance along the track between adjacent RLL encoded bits. 
+4.11 
+Broad Band Signal-to-Noise Ratio (BBSNR) 
+The average read signal power divided by the average integrated broad band (floor) RMS noise power and 
+expressed in dB. 
+4.12 
+byte 
+An ordered set of eight bits (12 Channel bits) that are acted on as a unit. 
+4.13 
+cartridge 
+A case holding a single supply reel of magnetic tape and leader tape with an attached leader pin assembly at 
+the BOT end. 
+4.14 
+Channel bit 
+A bit output from RLL channel encoding. 
+4.15 
+Codeword 
+A set of bytes containing data and the ECC bytes calculated on that data. 
+- 3 - 
+4.16 
+Codeword Pair 
+An interleaved pair of Codewords. 
+4.17 
+Codeword Quad (CQ) 
+A set of two Codeword Pairs. 
+4.18 
+CQ Set 
+A group of CQs that are written at the same time, i.e. one on each of the active tracks. 
+4.19 
+cyclic redundancy check (CRC) character 
+A mathematically computed code which yields check bytes used for the detection of errors. 
+4.20 
+Data Set 
+The smallest complete unit of information written to, or received from, the tape. 
+4.21 
+Data Set Information Table (DSIT) 
+A table within a Data Set which describes the content of the Data Set. 
+4.22 
+End of Data (EOD) 
+The point on the tape at the end of the last valid Data Set recorded on tape. 
+4.23 
+End of Tape (EOT) 
+The point on a track farthest from BOT up to which recording is allowed. 
+4.24 
+End of Wrap (EOW) 
+The Logical Point that indicates the end of a wrap: LP4 for forward wraps, LP3 for reverse wraps. 
+4.25 
+Error Correcting Code (ECC) 
+A mathematically computed code which yields check bytes used for the detection and correction of errors. 
+4.26 
+File Mark 
+A recorded element requested to be written (or read) by the host that is typically used to mark 
+organisational boundaries in a serial file structure, such as directory boundaries. 
+4.27 
+flux transition position 
+The point on the magnetic tape that exhibits the maximum free-space flux density normal to the tape 
+surface. 
+4.28 
+flux transition spacing 
+The distance along a track between successive flux transitions. 
+4.29 
+forward tape motion 
+The tape is moving forward when it is leaving the reel in the cartridge and being wound onto the reel in the 
+mechanism. 
+4.30 
+header 
+Data that is prefixed to a data entity to provide identification and checking. 
+4.31 
+Housekeeping Data Set 
+A Data Set which contains no user data and which is identified as such by the values in the data fields 
+therein. 
+4.32 
+logical forward 
+The direction of tape motion toward End of Wrap. 
+4.33 
+logical reverse 
+The direction of tape motion away from End of Wrap. 
+4.34 
+Logical Point 
+Defined bound where regions of the tape begin or end. 
+- 4 - 
+4.35 
+magnetic tape 
+A tape that accepts and retains magnetic signals intended for input, output, and storage of data for 
+information processing. 
+4.36 
+Master Standard Reference Tape (MSRT) 
+A tape selected as the standard for reference recording current, signal amplitude, resolution, BBSNR, 
+overwrite ratio, servo signal amplitude, and servo signal polarity. 
+NOTE 
+A Master Standard Reference Tape has been established at Ladas and Parry. 
+4.37 
+LTO Cartridge Memory (LTO CM) 
+A contactless storage device that is mounted in the case, and which can be used to hold information about 
+that specific cartridge, the tape in the cartridge, and the data on the tape. 
+4.38 
+Optimum Recording Current 
+1,15 times the minimum current which, when applied to a magnetic tape, will cause the average signal 
+amplitude to equal 95 % of the maximum average signal amplitude when recorded at density TRD1. 
+4.39 
+physical end of tape 
+Position of the tape farthest from the leader pin assembly at which the tape is cut and wrapped onto the hub 
+during manufacture. 
+4.40 
+physical forward 
+The direction of tape motion from BOT to EOT. This will be logical forward for even numbered wraps. 
+4.41 
+physical reverse 
+The direction of tape motion from EOT to BOT. This will be logical forward for odd numbered wraps. 
+4.42 
+pre-record condition 
+A tape cartridge that has been a.c. erased and subsequently servo-written in preparation for data recording 
+is in a pre-record condition. 
+4.43 
+processed data 
+A sequence of Symbols which results from the application of processing to data. 
+Data that has been processed by an algorithm. 
+4.44 
+Processed Record 
+A sequence of Symbols which results from the application of processing to a Protected Record. 
+4.45 
+Processing (Compression) 
+The use of an algorithm to transform host data into Symbols. 
+4.46 
+Protected Record 
+A Record with a 4-byte CRC added to the end. The CRC is checked during the deformatting process to 
+ensure that the Record is uncorrupted. 
+4.47 
+Record 
+A Record is the smallest distinct set of data bytes supplied, e.g. from a host, for processing and recording 
+by a tape drive system, and the smallest distinct set of data to be read from tape, reprocessed and made 
+available, e.g. to a host, by a tape drive system. 
+4.48 
+recorded element 
+A File Mark or Record. 
+4.49 
+Reference Recording Current 
+The Optimum Recording Current of the Master Standard Reference Tape. 
+- 5 - 
+4.50 
+Reprocessing (Decompression) 
+The use of an algorithm to transform Symbols into data as required by the host. 
+4.51 
+reverse tape motion 
+The tape is moving in reverse when it is leaving the reel in the mechanism and being wound onto the reel in 
+the cartridge. 
+4.52 
+run length limited encoding (RLL) 
+An algorithmic process applied to an arbitrary input binary sequence that produces an output binary 
+sequence that has a specified minimum number of ZEROs between ONEs, and a specified maximum 
+number of ZEROs between ONEs. 
+4.53 
+Secondary Standard Reference Tape (SSRT) 
+A tape, the performance of which is known and stated in relation to that of the Master Standard Reference 
+Tape. 
+NOTE 
+Secondary Standard Reference Tapes can be ordered as "Ultrium Format Specification Generation 1 
+SSRT" from Ladas and Parry, 5670 Wilshire Blvd., 21st Floor, Los Angeles, CA 90036. In principle such 
+tapes will be available for a period of 10 years from the publication of the first edition of this ECMA 
+Standard. However, by agreement between ECMA and Ladas and Parry, this period may be shortened or 
+extended to take account of demands for such SSRTs. 
+It is intended that these SSRTs be used for calibrating tertiary reference tapes for use in routine 
+calibration. 
+4.54 
+servo acquisition region 
+A region on tape that may be used by the servo circuitry. 
+4.55 
+Standard Reference Amplitude (SRA) 
+The average signal amplitude from the Master Standard Reference Tape when it is recorded with the 
+Reference Recording Current at density TRD1. Traceability to the Standard Reference Amplitude is 
+provided by the calibration factors supplied with each Secondary Standard Reference Tape. 
+4.56 
+Symbol 
+An associated string of bits generated by a processing (compression) algorithm, which represents a byte of 
+data, a string of bytes of data, or control information. 
+4.57 
+Synchronised Codeword Quad (SCQ) 
+A serial bit stream formed by inserting synchronisation patterns into an RLL encoded Codeword Quad. 
+4.58 
+Test Recording Density (TRD) 
+The recording density at which specific tests are performed. There are three test recording densities: TRD1, 
+TRD2 and TRD3. See 12.1. 
+4.59 
+wrap 
+A track group recorded in the physical forward or physical reverse direction. 
+4.60 
+write equalisation 
+An algorithmic process that linearly transforms an input binary sequence into another binary sequence. 
+4.61 
+(1,7) RLL code 
+A run length limited encoding scheme the output of which has no fewer than one ZERO between ONEs and 
+no more than seven ZEROs between ONEs. 
+- 6 - 
+5 
+Conventions and notations 
+5.1 
+Representation of numbers 
+The following conventions and notations apply in this ECMA Standard unless otherwise stated. 
+− A measured value is rounded off to the least significant digit of the corresponding specified value. It 
+implies that a specified value of 1,26 with a positive tolerance +0,01, and a negative tolerance -0,02 
+allows a range of measured values from 1,235 to 1,275. 
+− In each block and in each field the bytes shall be arranged with Byte 0, the most significant, first. 
+Within each byte the bits shall be arranged with Bit 7, the most significant, first and Bit 0, the least 
+significant bit, last. 
+− Letters and digits in parentheses represent numbers in hexadecimal notation. 
+− The setting of bits is denoted by ZERO or ONE. 
+− Numbers in binary notation and bit patterns are represented by strings of digits 0 and 1 shown with the 
+most significant bit to the left. Within such strings, X may be used to indicate that the setting of a bit is 
+not specified within the string. 
+5.2 
+Dimensions 
+Unless otherwise stated, all dimensions in the figures are in millimetres with a tolerance of ± 0,50 mm. 
+5.3 
+Names 
+The names of basic elements, e.g. specific fields, are written with a capital initial letter. 
+5.4 
+Alphanumeric string encoding 
+Unless otherwise stated, all alphanumeric strings shall be encoded using ISO/IEC 646. 
+6 
+Acronyms 
+ACN 
+Absolute CQ Sequence Number 
+BOT 
+Beginning of Tape 
+BBSNR 
+Broad Band Signal-to-Noise Ratio 
+BOW 
+Beginning of Wrap mark 
+CRC 
+Cyclic Redundancy Check character 
+DSIT 
+Data Set Information Table 
+ECC 
+Error-Correcting Code 
+EOD 
+End of Data 
+EOT 
+End of Tape 
+EOW 
+End of Wrap mark 
+FID 
+Format Identification Data Set 
+LPn 
+Logical Point, where n = 0 to 7 
+LPOS 
+Longitudinal Position 
+lsb 
+Least Signicant Bit 
+LSB 
+Least Significant Byte 
+msb 
+Most Significant Bit 
+MSB 
+Most Significant Byte 
+MSRT 
+Master Standard Reference Tape 
+RLL 
+Run Length Limited 
+RWW 
+Read-While-Write 
+SCQ 
+Synchronised Codeword Quad 
+SNR 
+Signal-to-Noise Ratio 
+SRA 
+Standard Reference Amplitude 
+SSRT 
+Secondary Standard Reference Tape 
+TRD 
+Test Recording Density 
+- 7 - 
+7 
+Environment and safety 
+The conditions specified below refer to the ambient conditions immediately surrounding the cartridge. 
+7.1 
+Cartridge and tape testing environment 
+Unless otherwise stated, tests and measurements made on the cartridge and tape to check the requirements 
+of this ECMA Standard shall be carried out under the following conditions: 
+− temperature: 
+23 °C ± 2 °C 
+− relative humidity: 
+40 % to 60 % 
+− conditioning before testing: 
+24 h min. 
+7.2 
+Cartridge operating environment 
+Cartridges used for data interchange shall be capable of operating under the following conditions: 
+− temperature: 
+10 °C to 45 °C 
+− relative humidity: 
+10 % to 80 % 
+− wet bulb temperature: 
+26 °C max. 
+NOTE 
+Local tape temperature in excess of 52 °C may cause permanent tape damage. 
+If during storage and/or transportation a cartridge has been exposed to conditions outside the above values, 
+it shall be conditioned before use by exposure to the operating environment for a time equal to, or greater 
+than, the time away from the operating environment up to a maximum of 24 h. There shall be no deposit of 
+moisture on or in the cartridge. 
+7.3 
+Cartridge storage environment 
+Cartridges shall be stored under the following conditions: 
+− temperature: 
+16 °C to 32 °C 
+− relative humidity: 
+20 % to 80 % 
+− wet bulb temperature: 
+26 °C max. 
+The stray magnetic field at any point on the tape shall not exceed 4 000 A/m. There shall be no deposit of 
+moisture on or in the cartridge. 
+7.4 
+Tape tension 
+The tape between LP1 and LP6 shall not be subjected to a tension higher than 2,0 N under any 
+circumstance. Outside of this area the tape shall not be subjected to a tension higher than 6,0 N. 
+7.5 
+Safety 
+The cartridge and its components shall satisfy the requirements of ECMA-287 when used in the intended 
+manner or in any foreseeable use in an information processing system. 
+7.6 
+Flammability 
+The cartridge as an assembly shall be constructed such that, if ignited from a match flame, and when so 
+ignited does not continue to burn in a still carbon dioxide atmosphere. 
+7.7 
+Transportation 
+Recommended limits for the environments to which a cartridge may be subjected during transportation, and 
+the precautions to be taken to minimise the possibility of damage, are provided in annex G. 
+- 8 - 
+Section 2 - Requirements for the Cartridge 
+8 
+Dimensional and Mechanical Characteristics of the Cartridge 
+8.1 
+Elements of the cartridge 
+The tape cartridge shall consist of the following elements: 
+− a case 
+− positioning notches 
+− handling notches 
+− a write-inhibit mechanism 
+− a reel for magnetic tape 
+− a locking mechanism for the reel 
+− a magnetic tape wound on the hub of the reel 
+− a leader pin 
+− a parking mechanism for the leader pin 
+− a sliding door 
+− a cartridge memory 
+− handling features 
+Dimensional characteristics are specified for those parameters deemed mandatory for interchange and 
+compatible use of the cartridge. Where there is freedom of design, only the functional characteristics of the 
+elements described are indicated. In the figures a typical implementation is represented in third angle 
+projection. 
+Figure 1 : General view of the cartridge 
+Figure 2 : View of the Reference Planes A, B and C 
+Figure 3 : Bottom side 
+Figure 4 : Top side 
+Figure 5 : Rear side 
+Figure 6 : Front side 
+Figure 7 : Right side 
+Figure 8 : Left side with access door open 
+Figure 9 : Locking pad features in the reel 
+Figure 10 : Cross-section of the hub/brake assembly in the in-hand position 
+Figure 11 : Enlarged partial view from figure 10 
+Figure 12 : Cross-section of the hub/brake assembly in the cartridge-in-drive position 
+Figure 13 : Cross-section as viewed toward centre of reel through the teeth at diameter 37,50 mm 
+Figure 14 : Cross-section of a tooth part 
+Figure 15 : Leader pin assembly with attached tape seen from the top and from the side 
+Figure 16 : Leader pin assembly in parked position and detail of the door in closed position 
+Figure 17 : Leader pin assembly in parked position and door in open position, viewed from the left side 
+Figure 18 : Location of the LTO CM 
+Figure 19 : Handling grips and cartridge insertion indicator 
+8.2 
+Reference Planes of the case (figure 2) 
+Where they are purely descriptive, the dimensions are referred to three orthogonal reference planes – A, B, 
+and C. Where the dimensions are related to the position of the cartridge in the drive, they may be 
+referenced to Plane P. 
+Three locating areas A1, A2, and A3 shall be in Plane A. Plane B is perpendicular to Plane A and passes 
+through the centre of locating hole B1 and the centreline of locating slot B2. Plane C is perpendicular to 
+Planes A and B and passes through the centre of locating hole B1. 
+8.3 
+Dimensions of the case 
+The dimensions of the case shall be measured in the Test Environment. The dimensions of the case in any 
+operating environment can be derived from the dimensions specified in this clause. 
+- 9 - 
+8.3.1 
+Overall dimension (figures 4, 6, 8) 
+The length of the case shall be 
+l1 = 102,00 mm ± 0,30 mm 
+The width of the case shall be 
+l2 = 105,40 mm ± 0,30 mm 
+The height of the case shall be 
+l3 = 21,50 mm ± 0,25 mm 
+The height of the stacking features is not included in l3. 
+The case shall have general radii for vertical edges and horizontal edges. 
+The radius of the specified vertical edges shall be 
+r1 = 2,00 mm ± 0,50 mm 
+The radius of the specified horizontal edges shall be 
+r2 = 1,00 mm ± 0,50 mm 
+All other features shall have general radii of 0,50 mm max. 
+8.3.2 
+Reference points for reference planes (figure 3) 
+The locating areas A1, A2, and A3 shall be flush with the bottom of the cartridge. The locating area A4 
+shall be within 0,25 mm from Plane A in the free state. These locating areas shall be non-textured to 
+allow accurate locating of the cartridge on reference points in the mechanism and handling equipment. 
+The size and location of the four locating areas, A1, A2, A3, and A4 (see figure 3), are specified as 
+follows. 
+The centre of locating area A1 is on the intersection of Planes B and C, thus its position is specified by 
+l4 = 20,50 mm ± 0,20mm 
+l5 = 11,45 mm ± 0,20 mm 
+Its diameter shall be 
+d1 = 7,80 mm min. 
+The locating area A2 presents an oval area. The length shall be 
+l6 = 1,80 mm min. 
+The radius at the end of the oval shall be 
+r3 = 3,80 mm min. 
+The centre of locating area A2 is on Plane B at a distance 
+l7 = 86,15 mm ± 0,25mm 
+from Plane C. 
+The position of the rectangular locating area A3 shall be 
+l8 = 13,75 mm min. 
+l9 = 4,75 mm min. 
+The position of the rectangular locating area A4 shall be 
+l10 = 13,75 mm min. 
+l11 = 4,75 mm min. 
+- 10 - 
+The position of the locating features B1 and B2 for Plane B shall be specified as follows. 
+B1 shall be centred within locating area A1. It shall be a square hole of side 
+l12 = 3,00 mm ± 0,08mm 
+with rounded corners with a maximum radius of 1,00 mm. 
+B2 shall be centred within location area A2. It shall be a slot of side 
+l12 = 3,00 mm ± 0,08 mm 
+Both B1 and B2 shall have a depth specified by 
+l13 = 5,00 mm min. 
+8.3.3 
+Positioning notches (figures 3, 6, 7) 
+There shall be three positioning notches, open toward the bottom side, and one secondary datum area on 
+the front of the cartridge. Where surfaces have draft angle, dimensions shall be controlled at Plane A 
+(except as noted), and the angle shall be 0° 45' nominal. 
+The location of the centre of the V-shaped notch shall be specified by 
+l14 = 81,95 mm ± 0,15 mm 
+l15 = 15,47 mm ± 0,15 mm 
+Its radius at the bottom shall be 
+r4 = 1,50 mm max. 
+Its opening shall be 
+α1 = 60° ± 1° 
+The depth of the V-shaped notch shall be 
+l16 = 8,90 mm min. 
+This notch position is measured with a 3,50 mm spherical probe, 3,0 mm above Plane A. 
+The dimensions of the two side notches shall be specified as follows. 
+Their dimension shall be 
+l17 = 47,50 mm ± 0,15 mm 
+The length of the notches shall be 
+l18 = 5,00 mm ± 0,15 mm 
+The width of the notches shall be 
+l19 = 2,80 mm min. 
+The depth of the notches shall be 
+l20 = 8,70 mm min. 
+The secondary datum area on the front of the cartridge shall be specified by 
+l300 = 8,00 mm min. 
+l301 = 7,50 mm max. 
+l302 = 13,50 mm min. 
+This surface may have draft from Plane A and shall be located at a distance from Plane B by 
+l303 = 20,36 mm ± 0,10 mm 
+when measured with a spherical probe, 3,0 mm above Plane A. 
+- 11 - 
+8.3.4 
+Handling notches (figures 3, 4, 7) 
+There shall be three notches used for handling. They shall be specified as follows: 
+The dimensions of the bottom notches shall be 
+l21 = 81,00 mm ± 0,25 mm 
+l22 = 82,00 mm ± 0,25 mm 
+l23 = 6,00 mm ± 0,25 mm 
+The width of the bottom notches shall be 
+l9 = 4,75 mm min. 
+The depth of the bottom notches shall be 
+l20 = 8,70 mm min. 
+The dimensions of the side notch shall be 
+l24 = 6,00 mm ± 0,50 mm 
+l25 = 18,00 mm ± 0,50 mm 
+α2 = 30° ± 2° 
+α3 = 60° ± 2° 
+l26 = 2,25 mm ± 0,50 mm 
+l27 = 10,75 mm ± 0,50 mm 
+8.3.5 
+Mis-insertion protection (figures 4, 6) 
+The cartridge shall have a cut-out in the front side of the case to prevent the cartridge from being 
+inserted into the drive in the wrong orientation. This feature further prevents the use of unsuitable 
+cartridges of similar, but not identical, construction. 
+The depth of the notch shall be 
+l28 = 5,00 mm ± 0,25 mm 
+The surface it forms shall be defined by l29 = 16,80 mm nominal and the tangent to an arc r5 = 51,50 mm 
+nominal with the same centre as the central window as described in 8.3.8. The actual surface shall be 
+within 0,50 mm of this nominal geometry. 
+8.3.6 
+Stacking features (figures 3, 4, 5, 8) 
+The bottom side of the case shall have four parallel stacking ribs. The dimensions shall be 
+l30 = 3,00 mm ± 0,20 mm 
+l31 = 67,45 mm ± 0,20 mm 
+l32 = 6,00 mm ± 0,20 mm 
+l108 = 1,20 mm max. 
+l 200 = 50,00 mm ± 0,30 mm 
+The corners shall have a radius 
+r6 = 0,60 mm min. 
+The height shall be defined by 
+l33 = 0,50 mm ± 0,15 mm (measured locally around each pad) 
+The top side of the case shall have recess areas for the stacking ribs to fit into. The dimensions shall be 
+l34 = 67,45 mm ± 0,30 mm 
+l35 = 6,60 mm ± 0,30 mm 
+- 12 - 
+l36 = 4,30 mm ± 0,30 mm 
+l 201 = 50,00 mm ± 0,30 mm 
+The depth of the recess areas shall be 
+l37 = 0,85 mm min. (measured locally around each recess) 
+The radii of the recess areas shall be 
+r7 = 0,35 mm max. 
+8.3.7 
+Label area of the rear side (figure 5) 
+There shall be one label area on the rear side of the case. 
+The distance of the bottom edge of the label area from the bottom side of the case shall be 
+l38 = 2,00 mm ± 0,25 mm 
+It shall be recessed from the rear side by 0,20 mm min. and 0,50 mm max. 
+The radii of the corners shall be 
+r8 = 1,25 mm max. 
+The distance of the edge of the label area from the left side of the case shall be 
+l40 = 7,50 mm ± 0,25 mm 
+The width of the label area shall be 
+l41 = 80,00 mm ± 0,35 mm 
+The top of the label area shall be 
+l42 = 19,50 mm ± 0,35 mm 
+8.3.8 
+Central window (figure 3) 
+The bottom side of the case shall have a central window to allow penetration of the drive spindle into the 
+hub. 
+Its diameter shall be 
+d3 = 40,00 mm min. 
+Its centre shall be defined by 
+l43 = 42,45 mm ± 0,15 mm 
+l44 = 30,50 mm ± 0,15 mm 
+8.3.9 
+Sliding door (figures 8, 16) 
+On the left side of the cartridge, there shall be a door that slides toward the rear of the cartridge when 
+opened. This door shall be held in place by features internal to the case. The force required to slide the 
+door fully open shall be no greater than 1,30 N at l50 dimension. The cartridge means to close the door 
+shall provide a minimum of 0,20 N closing force at the fully closed position. 
+The door shall have a feature for opening as detailed with the following dimensions 
+l250 = 10,00 mm min. 
+r9 = 0,50 mm ± 0,25 mm 
+l46 = 0,75 mm max. (no protrusion beyond cartridge case) 
+l47 = 0,60 mm ± 0,25 mm 
+l48 = 2,95 mm min. 
+The door shall provide protection on one side of the cartridge and when in the open position, the door 
+shall provide the opening as outlined in 8.3.10. 
+- 13 - 
+8.3.10 
+Case opening (figures 8, 16) 
+The case shall have an opening that is visible when the door is in the open position. This opening is 
+where the leader pin assembly is seated. 
+The opening shall be defined by 
+ l45 = 12,50 mm ± 0,25 mm (located with respect to the centreline shown) 
+l49 = 17,20 mm min. 
+l50 = 4,00 mm min. 
+r10 = 2,50 mm max. 
+r11 = 1,00 mm ± 0,25 mm 
+8.4 
+Write-inhibit mecha

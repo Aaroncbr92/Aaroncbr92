@@ -1,0 +1,441 @@
+«Metadatado automático en el Archivo de RTVE», Carmen Pérez Cernuda y Virginia
+Bazán Gil, Dirección de Estrategia Tecnológica y Fondo Documental de RTVE,
+presentación alojada por la Cátedra RTVE de la Universidad de Zaragoza.
+https://catedrartve.unizar.es/docs/Presentacion-RTVE.pdf
+Descargada el 3 de septiembre de 2026.
+
+Metadatado
+automático en 
+el Archivo de 
+RTVE
+Carmen Pérez Cernunda y Virginia 
+Bazán-Gil
+RTVE
+Misión del Fondo 
+Documental RTVE
+• Preservar los archivos de RTVE
+• Garantizarla accesibilidad
+del patrimonioaudiovisual de 
+la corporación
+•
+Facilitar la puesta en valor 
+de los contenidospara 
+la producción y 
+la comercialización.
+En la última década
+La digitalización de los procesos productivos en RTVE y la digitalización de los archivos de 
+RNE y TVE ha permitido
+Un fácil acceso de los usuarios a los fondos de forma rápida y sencilla
+El incremento en el uso para la producción de nuevos contenidos, la reemisión, 
+comercialización y difusión a través de nuevas plataformas.
+Se considera necesario actualizarlos 
+procesos de trabajo profundizando en
+la automatización a través de la 
+implantaciónde nuevas herramientas
+basadasen IA.
+Dirección de 
+Estrategía
+Tecnológica
+Fondo Documental 
+RTVE
+Cátedra Universidad d
+e Zaragoza
+Objetivos del proyecto
+• Análisis automático de más de 
+11.000 horas de video en 1 año.
+• Preparar ARCA 3.0 
+para recibir metadatos externos,
+independientemente del proveedor
+de IA.
+Funcionalidades 
+requeridas: 
+audio
+Transcripción de audios a texto, debidamente 
+puntuado, capitalizado y con reconocimiento de 
+hablantes.
+Reconocimiento de entidades nombradas o extracción 
+de entidades: identificar y clasificar en categorías 
+predefinidas como personas, organizaciones, lugares, 
+fechas, etc.
+Extracción de palabras clave
+Clasificación automática de contenido
+Funcionalidades requeridas: video
+Extracción de caracteres 
+alfanuméricos en imagen, en 
+forma de rótulos y/o 
+subtítulos.
+Reconocimiento facial y de 
+identidad
+Identificación de objetos y 
+reconocimiento de escenas.
+Reconocimiento de logos y 
+marcas
+Cronología del 
+proyecto
+• 4 meses configuración y desarrollo (Fase I)
+• 12 meses de servicio (Fase II) prorrogable 
+un año más
+Duración Proyecto:
+• 1 Mayo de 2021 (Fase I)
+• Se acordó un mes más para configuración
+Inicio contrato. Fase I:
+• 1 octubre 21 – finaliza 30 de septiembre 
+2022
+• Aprobada prórroga hasta septiembre 23
+Inicio Servicio. Fase II:
+Áreas
+implicadas
+en el
+proyecto
+• Innovación
+• Fondo Documental
+• Sistemas
+•
+Desarrollo de Aplicaciones
+•
+Comunicaciones
+ARCA
+BBDD
+VIDEO
+LR
+Archivo RTVE
+¿Cómo es?
+• Librería
+• Sistema discos duros
+• Sistema de control
+• Gestor Documental: ARCA
+La herramienta usada por 
+documentalistas
+BBDD con metadatos asociados a 
+la media
+Ficheros LR: H264 a 1,5Mbps
+hasta 8 canales de audio
+INTEGRADOR
+SERVICIO 1
+SERVICIO 2
+XML
+MEDIA
+FF.DD.
+SERVICIO 3
+XML’s
+TRANSCODIFICADOR
+TRANSCODIFICADOR
+CONTROL DE CALIDAD
+ARCA
+ARQUITECTURA
+Expediente Metadatado automático
+INTEG
+RADO
+R
+SERVI
+CIO 1
+SERVICIO 
+2
+XML
+SERVI
+CIO 3
+X
+M
+L’
+s
+TRANSCOD
+IFICADOR
+TRANSCOD
+IFICADOR
+CONTRO
+L DE 
+CALIDAD
+ARCA
+FF.DD
+MEDIA
+Envío a VSN
+Descarga en FTP
+Selección Media
+Documentación
+Automatizado
+Automatizado
+ARCA
+ARCA
+Automatizado
+Puede ser uno o 
+varios archivos
+Permite selección 
+de tratamiento: 
+solo audio o 
+audio+vídeo
+Para cada contenido: Fichero 
+media + XML con 
+información sobre:
+•
+Tipo de Media
+•
+Audio…
+•
+Tratamiento seleccionado
+Cada hora se 
+envía todo lo que 
+ha llegado al FTP 
+desde el último 
+envío y se borra el 
+fichero del FTP
+Quien ?
+Herramienta ?
+Inicio del proceso: en RTVE
+VIDEO
+LR
+INTEGRADOR
+SERVICIO 1
+SERVICIO 2
+XML
+SERVICIO 3
+X
+M
+L’
+s
+TRANSCODI
+FICADOR
+TRANSCODI
+FICADOR
+CONTROL 
+CALIDAD
+ARCA
+FF.DD
+VSN
+Etiqmedia
+VSN
+24 horas
+Audio
+•
+STT, 
+•
+diarización,
+•
+Puntuación y 
+capitalización
+•
+Segmentación hablantes
+•
+Reconocimiento 
+entidades…
+•
+Palabras clave
+•
+Clasificación
+www
+Tratamiento de la media
+XML
+MEDIA
+XML’s
+Transcodificamedia
+Interpreta XML 
+recibido 
+Generadatos para 
+enviar a Etiqmedia
+Une información de 
+Etiqmedia a los 
+ficheros de media. 
+Quedan listos para 
+control calidad
+DATOS
+40 horas/dia (lunes a viernes)
+Selecciona:
+• Modelo de lenguaje
+• Canal audio a analizar
+Aplica AI basada en 
+redes neuronales y 
+otras tecnologías para 
+procesado de la media
+Genera XML con datos
+MEDIA
+INTEGRADOR
+SERVICIO 1
+SERVICIO 2
+XML
+SERVICIO 3
+TRANSCODI
+FICADOR
+TRANSCODI
+FICADOR
+ARCA
+CONTROL 
+CALIDAD
+VSN
+Revisar y editar 
+Control de calidad:
+VSNExplorer
+RTVE
+Dashboard
+Texto
+Entidades, 
+palabras clave…
+Validar o no resultados
+Estado de los archivos: 
+validados o no, con o sin 
+metadata, con error…
+Cálculos de WER, entidades, 
+palabras clave, etc
+modificados… 
+Generar Excel
+Hacer filtrados por fecha…
+XML’s
+Herramienta fundamental
+Conocer puntos fuertes y débiles
+“Tunear” resultados a nuestra forma de 
+trabajo
+Permite garantizar la calidad de los 
+metadatos que llegan a RTVE
+Control de calidad
+INTEGRADOR
+SERVICIO 1
+SERVICIO 2
+XML
+SERVICIO 3
+TRANSCODI
+FICADOR
+TRANSCODI
+FICADOR
+CONTROL 
+CALIDAD
+ARCA
+FF.DD
+XML
+RTVE
+(FTP)
+VSN
+RTVE
+ARCA
+Automatizado
+Automatizado
+Proceso
+Una vez al día en 
+horario programado
+Ficheros XML 
+Algoritmo automatiza 
+envío
+También todo lo 
+generado por motor AI
+Sirve de enlace entre 
+RTVE y VSN
+Lo que llegue cada día 
+se envía a ARCA
+Incorpora en una 
+pestaña dedicada a IA 
+todos los datos 
+recibidos
+Almacena ficheros 
+recibidos
+Envío metadatos a RTVE
+Material seleccionado para el proyecto 
+•Altas manuales realizadas por documentalistas
+•Cargas automáticas con información procedente de los soportes.
+Contenidos con metadatos identificativos mínimos (título, serie, fecha de producción)
+•Deportes, cine, política, actualidad social, música, historia, literatura.
+Cobertura temática variada
+•Desde los años 60 a 2010 (impacto sobre los procesos)
+Cobertura cronológica muy amplia
+•concursos, reportajes, magazines
+Distintos formatos de programas
+Limitaciones 
+en la 
+selección
+• Selección apriorística: se buscan contenidos con un alto % 
+de audio.
+• Información insuficiente o inexacta.
+• Conocimiento de la tecnología adquirido en laboratorio 
+(RTVE Iberspeech Challenge).
+Limitaciones en la selección:
+• Conocimiento adquirido en el proceso de validación
+• La revisión previa de los contenidos antes de ser enviados.
+Nuevos criterios para la selección basados en
+Modelos de 
+análisis definidos
+• Proceso automático basado en los metadatos incluidos en el 
+XML que se envía a VSN con el mp4.
+• Tipo de contenidos:
+•
+Informativos
+•
+Programas
+• Número de hablantes esperado
+•
+1/10
+•
+1/20
+•
+1/50
+Revista de actualidad + 
+Medio ambiente = 
+Programas 1/50
+Revista de actualidad + 
+Cultura = Programas 1/50
+Informativo = 
+Informativos 1/50
+Entrevista + Política 
+= Informativos 1/10
+Modelos de 
+validación
+• Se aplica a programas con buenos resultados tras un testeo
+• Programas bien estructurados, con predominio de locución 
+profesional, en emisión actualmente o emitidos en los últimos 
+5 años.
+• Nivel de confianza del 75%
+Automático
+• Se revisa un 50% de los contenidos de una misma serie. Cuando 
+se valida el 70% todo el "paquete" de horas queda validado.
+• Algunos contenidos se automatizan tras un tiempo.
+• Nivel de confianza en ARCA del 80%
+Semi-automático
+• Se aplica a contenidos especialmente relevantes o complejos.
+• Nivel de confianza del 90%
+Manual
+Criterios de 
+validación
+¿Es posible recuperar el contenido 
+por sus elementos más relevantes?
+En una búsqueda sobre un tema 
+determinado ¿Sería pertinente la 
+recuperación de este documento?
+El tiempo que hay que invertir en 
+corregir/añadir entidades, palabras 
+clave, categorías no es excesivo.
+Algunas conclusiones
+La calidad de la transcripción 
+está condicionada por factores 
+como: ruido ambiente, música,
+claridad en la dicción, distintos 
+acentos, idiomas.
+La segmentación debe 
+establecer fronteras claras 
+entre hablantes y asignar de 
+forma correcta cada segmento 
+de voz a un hablante concreto. 
+No es un problema resuelto.
+No tenemos capacidad para 
+influir en el rendimiento del 
+sistema, solo en la 
+selección previa del material 
+que procesamos.
+Se espera un mejor 
+rendimiento del sistema 
+en palabras clave, entidades y 
+clasificación.
+El estado actual de la 
+tecnología marca los límites del 
+proyecto.
+Conclusiones
+•
+Limitaciones relacionadas con la 
+licitación 
+https://licitaciones.rtve.es/
+– Contrato con el proveedor en 
+el que se establecen las 
+condiciones del servicio.
+– Funcionalidades e idiomas.
+•
+Limitaciones relacionadas con la 
+integración de los datos
+– Desarrollos en ARCA 3.0
+•
+Limitaciones relacionadas con la 
+tecnología
+El futuro

@@ -1,0 +1,282 @@
+«Advanced Audio Coding (MPEG-4)», Sustainability of Digital Formats,
+Biblioteca del Congreso de los Estados Unidos
+https://www.loc.gov/preservation/digital/formats/fdd/fdd000114.shtml
+Leída el 3 de septiembre de 2026.
+
+Advanced Audio Coding (MPEG-4)
+Digital Preservation Home
+|
+Digital Formats Home
+Sustainability of Digital Formats: Planning for Library of Congress Collections
+Introduction
+|
+Sustainability Factors
+|
+Content Categories
+| 
+Format Descriptions
+|
+Contact
+Printer-friendly version
+-->
+Format Description Categories
+>>
+Browse Alphabetical List
+Advanced Audio Coding (MPEG-4)
+>> Back
+Table of Contents
+Identification and description
+Local use
+Sustainability factors
+Quality and functionality factors
+File type signifiers
+Notes
+Format specifications
+Useful references
+Format Description Properties
+ID: fdd000114
+Short name: AAC_MP4
+Content categories:
+sound
+Format Category:
+encoding
+Other facets:
+unitary, binary, sampled
+Last significant FDD update:
+2022-04-28
+Draft status: Full
+Identification and description
+Full name
+ISO/IEC 14496-3:2001. Information technology -- Coding of audio-visual objects -- Part 3: Audio. Formal name for the relevant part of the MPEG-4 standard; note that this part covers several types of audio coding including Advanced Audio Coding. Common name: AAC.
+Description
+Perceptual audio encoding format designed for efficient distribution of sound files over moderate bandwidth connections; may be used at higher data rates for better fidelity. AAC_MP4 compression is a further refinement of
+AAC_MP2
+. AAC_MP4 is an object-based coding standard; decoders for AAC_MP2 may not be able to read AAC_MP4.
+The specification defines various object types and profiles; see
+Notes
+. Video-capable iPods and iPhones specify video files for which the audio appears to be audio-
+object
+-limited rather than profile-compliant; see
+AAC_MP4_LC
+. The compiler of this page welcomes
+comments
+on this detail.
+Production phase
+Generally used for final-state, end-user delivery.
+Relationship to other formats
+Has subtype
+Various AAC_MP4 profiles, not documented at this time; see
+Notes
+.
+Has subtype
+AAC_MP4_LC
+,
+AAC Low Complexity Object
+Used by
+MP4_FF_2_AAC
+,
+MPEG-4 File Format, V.2, with Advanced Audio Coding
+Used by
+QTA_AAC
+,
+QuickTime AAC
+Used by
+MP4_FF_2_V
+,
+MPEG-4 File Format, Version 2, with Visual Coding
+Used by
+MP4_FF_2_AVC
+,
+MPEG-4 File Format, Version 2, with Advanced Video Coding
+Used by
+MP4_FF_2_AVC_BP
+,
+MPEG-4 File Format, V.2, with AVC, Baseline Profile
+Used by
+MP4_FF_2_AVC_MP
+,
+MPEG-4 File Format, V.2, with AVC, Main Profile
+Used by
+MP4_FF_2_AVC_EP
+,
+MPEG-4 File Format, V.2, with AVC, Extended Profile
+Used by
+MP4_FF_2_AVC_HP
+,
+MPEG-4 File Format, V.2, with AVC, High Profile
+Used by
+MP4_FF_2_AVC_H10P
+,
+MPEG-4 File Format, V.2, with AVC, High 10 Profile
+Used by
+MP4_FF_2_AVC_H422P
+,
+MPEG-4 File Format, V.2, with AVC, High 4:2:2 Profile
+Used by
+MP4_FF_2_AVC_H444P
+,
+MPEG-4 File Format, V.2, with AVC, High 4:4:4 Profile
+Used by
+MP4_FF_AVCE_AVCE
+,
+MPEG-4 File Format for AVC (Ext), with Non-FRExt Extended AVC Coding
+Used by
+CAF
+,
+Apple Core Audio Format
+Used by
+Other file or wrapper formats, not documented at this time
+Affinity to
+USAC
+,
+Unified Speech and Audio Coding
+Local use
+LC experience or existing holdings
+None
+LC preference
+See the Library of Congress Recommended Formats Statement for format preferences for
+audio works
+.
+Sustainability factors
+Disclosure
+Open standard. Developed through ISO technical program
+JTC 1/SC 29
+for coding of audio, picture, multimedia and hypermedia information by Working Group 11 (WG11) aka the Moving Picture Experts Group (
+MPEG
+).
+Documentation
+ISO/IEC 14496-3:2001. Information technology -- Coding of audio-visual objects -- Part 3: Audio. Later editions were published in 2005 and 2009; these have not yet been assessed for this description. See also
+MP4_FF_2
+.
+Adoption
+Some adoption for World Wide Web dissemination and playback on specialized devices.
+QTA_AAC
+, QuickTime AAC, is used in Apple's iTunes service. Software tools exist for encoding and decoding.
+Licensing and patents
+Royalties are due on the sale of AAC encoders and/or decoders; no use-based fees; information at
+Via Licensing
+. Page available via an Internet Archive capture from April 4, 2016.
+Transparency
+Depends upon algorithms and tools to read; requires sophistication to build tools.
+Self-documentation
+Technical (coding) information is contained in the headers for the "frames" that make up the bitstream. See also
+MP4_FF_2
+.
+External dependencies
+Surround sound requires appropriate amplifier and loudspeakers or headphone.
+Technical protection considerations
+See
+MP4_FF_2
+.
+Quality and functionality factors
+Sound
+Normal rendering
+Good support.
+Fidelity (high audio resolution)
+Moderate to good, given that this is a format for compression. All commentators state that at a given data rate, the quality of AAC_MP4 surpasses
+AAC_MP2
+and is significantly better than
+MP3_ENC
+.
+Multiple channels
+AAC has provision for up to 48 channels, and supports 5.1 (and 7.1?) surround sound.
+Support for user-defined sounds, samples, and patches
+Not investigated at this time.
+Functionality beyond normal rendering
+Not investigated at this time.
+File type signifiers and format identifiers
+Tag
+Value
+Note
+Filename extension
+aac
+Used for raw bitstream;
+The File Extension Source
+associates the
+aac
+extension with
+AAC_ADIF
+, the file format for MPEG-2 AAC. In any case, most AAC files carry an extension that depends upon the selected wrapper; for example, see
+MP4_FF_2
+(mp4, m4a) and
+QTA_AAC
+(m4p).
+Internet Media Type
+See note.
+Depends upon wrapper; for example, see
+MP4_FF_2
+and
+QTA_AAC
+.
+Internet Media Type
+audio/mp4
+For MP4 File with Audio but without Visual Presentati From IANA and
+RFC 4337
+, MIME Type Registration for MPEG-4
+Pronom PUID
+See note.
+No PRONOM PUID as of April 2022
+Wikidata Title ID
+Q337594
+See
+https://www.wikidata.org/wiki/Q337594
+.
+Does not distinguish between profiles of AAC (so covers both MPEG-2 and MPEG-4)
+Notes
+General
+The sets of options in AAC_MP4 are more extensive than those provided in the specification for AAC_MP2. Eight profiles are associated with AAC_MP4 audio, each of which may present sound at various
+levels
+:
+Speech Audio Profile
+Synthetic Audio Profile
+Scalable Audio Profile
+Main Audio Profile
+High Quality Audio Profile
+Low Delay Audio Profile
+Natural Audio Profile
+Mobile Audio Internet Working Profile
+These profiles are described in the specification on pages 15-20. In a given file, the profile and the level chosen for use are indicated by embedded metadata, not documented at this time. The profiles are associated with
+audio objects
+.
+Additional profiles are listed in the Wikipedia article
+Advanced Audio Coding
+(consulted October 22, 2014): AAC Profile (defined 2003), High Efficiency AAC Profile (2003), and High Efficiency AAC v2 Profile (2006).
+There is an AAC_MP4 object called
+Low Complexity
+(
+AAC_MP4_LC
+), which is comparable to the
+AAC_MP2
+Low Complexity
+profile
+. The compiler of this page seeks more information about this matter;
+Comments welcome
+.
+History
+Format specifications
+ISO/IEC 14496-3:2001 Information technology -- Coding of audio-visual objects -- Part 3: Audio. (Note: later editions from 2005 and 2009 have also been published.)
+Useful references
+URLs
+MPEG-2/MPEG-4 AAC
+(http://www.mp3-tech.org/aac.html). Page from MP3-tech.org
+"MP3 and AAC Explained" is a 1999 article by Karlheinz Brandenburg, Fraunhofer Institute, Erlangen, Germany. It has good detail but with a focus on
+AAC_MP2
+.
+MP3 and AAC Explained
+(https://www.iis.fraunhofer.de/content/dam/iis/de/doc/ame/conference/AES-17-Conference_mp3-and-AAC-explained_AES17.pdf). As published in proceedings of the 17th AES International Conference on High Quality Audio Coding, 1999, Sept 2-5.
+AAC-LC: High performance music distribution - Fraunhofer Institute
+(https://www.iis.fraunhofer.de/en/ff/amm/broadcast-streaming/aaclc.html).
+AAC-LC - Fraunhofer Institute
+(https://web.archive.org/web/20141006175539/http://www.iis.fraunhofer.de/en/ff/amm/prod/audiocodec/audiocodecs/aaclc.html). A previous version of the above page from the Fraunhofer Institute, as it appeared on October 6, 2014. Available via Internet Archive.
+M4A.COM, formerly a site with resources for users
+(https://web.archive.org/web/20120207213839/http://www.m4a.com/). Link via Internet Archive.
+Wikipedia article "MPEG-4 Part 3"
+(https://en.wikipedia.org/wiki/MPEG-4_Part_3).
+Wikipedia article "Advanced Audio Coding"
+(https://en.wikipedia.org/wiki/Advanced_Audio_Coding).
+Wikidata entry for Q337594
+(https://www.wikidata.org/wiki/Q337594). Information in Wikidata about AAC. Wikidata Title ID: Q337594.
+Last Updated: 03/26/2024
+Digital Preservation Home
+|
+Digital Formats Home

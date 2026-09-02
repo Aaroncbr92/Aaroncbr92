@@ -88,10 +88,24 @@ internacional del ISWC y se refundió un encabezado del anexo. **Ninguno toca lo
 pregunta**, y **el título del código es el mismo en las dos ediciones**. El tema lo cuenta en vez de
 callarlo.
 
+## Una pregunta que se cerró después, escribiendo otro tema
+
+Este informe se cerró con **cuatro preguntas apoyadas sólo en la plantilla**. Al reunir las fuentes
+del **tema 5** apareció un artículo de revista profesional firmado por **la responsable del Fondo
+Documental de RTVE** que describe la **Redacción Digital** con nombre, fechas y función, y **la
+cuarta dejó de estar suelta**.
+
+**Se anota aquí porque enseña algo del método**: el corpus de un bloque **no se cierra tema a tema**.
+Una fuente reunida para el punto 5 contestó una pregunta del punto 2, y lo hizo porque **habla de la
+propia casa**, que es lo que ninguna norma internacional podía hacer. Conviene, por tanto, **releer
+los temas anteriores cada vez que entra una fuente institucional nueva**.
+
 ## Lo que este tema no puede sostener
 
-- **Cuatro de nueve respuestas se apoyan sólo en la plantilla**: modelo probabilístico, resumen
-  indicativo, curación de contenidos y redacción digital.
+- **Tres de nueve respuestas se apoyan sólo en la plantilla**: modelo probabilístico, resumen
+  indicativo y curación de contenidos.
+- **La redacción digital no está en ninguna norma**: lo que se dice de ella sale de un **artículo de
+  revista profesional**, no de una publicación institucional de la Corporación.
 - **ISO 214, la norma de resúmenes, no se ha podido consultar**: de pago y sin muestra, con la regla
   del proyecto aplicada.
 - **De las normas ISO sólo se ha leído la muestra oficial.** El tema no cita ni una línea que no esté

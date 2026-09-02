@@ -1,0 +1,463 @@
+Virginia Bazán Gil (Radiotelevisión Española), «La memoria colectiva: contenidos
+para el recuerdo, del archivo a la Web de RTVE», Métodos de Información (MEI),
+II época, vol. 5, n.º 8.
+https://dialnet.unirioja.es/descarga/articulo/5030146.pdf
+Descargado el 3 de septiembre de 2026.
+
+AVISO: es un artículo de revista profesional firmado por la responsable del Fondo
+Documental de RTVE, no una publicación institucional de la Corporación. Se cita
+como tal.
+
+MEI, II, Vol. 5, nº 8, pág. 5 
+La memoria colectiva: contenidos para el 
+recuerdo, del archivo a la Web de RTVE 
+Virginia Bazán Gil 
+Radiotelevisión Española 
+Resumen 
+“La cabina” (1972) de Antonio Mercero, “El Asfalto” (1966) de las “Historias para 
+no dormir” de Narciso Ibáñez Serrador, las aplaudidas representaciones teatrales 
+de Estudio 1 (1963-1983), o la serie “El Quijote” (1991) de Manuel Gutiérrez 
+Aragón, son sólo algunos ejemplos de clásicos televisivos que conforman la 
+memoria colectiva de varias generaciones de españoles. Junto a estos títulos, 
+nuevos programas como “Cachitos de hierro y Cromo”, “Viaje al centro de la tele” 
+o “¿Te acuerdas?” tratan de poner en valor el fondo histórico de TVE. Todos ellos 
+comparten espacio común, el Archivo de RTVE en la web. Formado por miles de 
+horas de emisión y en constante crecimiento desde septiembre de 2008, es el 
+escaparate de un importante trabajo de recuperación de los fondos históricos de 
+TVE en el que trabajan, de forma coordinada, las distintas unidades que integran 
+el Fondo Documental TVE con la colaboración de las áreas de Sistemas, Medios 
+TVE e Interactivos. Se describen los procesos documentales implicados y las 
+herramientas tecnológicas necesarias para trasladar el patrimonio audiovisual de 
+TVE del archivo a la web. 
+Palabras clave 
+Patrimonio audiovisual; Archivos audiovisuales; Fondo Documental TVE; 
+Archivo RTVE en la Web; Accesibilidad; Programas de Televisión; Digitalización. 
+Abstract 
+The TVE historical documentary collection importance is reflected not only on 
+television classic works that composes the collective memory from several 
+spaniard generations; - such as “La cabina” (1972) by Antonio Mercero, “El 
+Asfalto” 
+(1966) 
+from 
+the 
+“Historias 
+para 
+no 
+dormir” 
+series 
+by 
+NarcisoIbañezSerrador, the highly praised “Estudio 1”’s theater performances 
+(broadcast from 1963 to 1983) or the miniseries version of “El Quijote” (1991) by 
+Manuel Gutierrez Aragon, etc…- but also on fresh baked programs concerning 
+TVE history or past features like “Cachitos de hierro y cromo”, “Viaje al centro de 
+la tele” and “¿Teacuerdas?”. Every above mentioned program group is included 
+on the RTVE Archive website which was created on September 2008 and has not 
+given up improving since then. It offers thousands of broadcast hours thanks to 
+the common and wide ranging efforts to recover the TVE historical documentary 
+collection made by the different TVE Documentation Centers working side by 
+side with InteractiveResources and Systems. The documentary stages of making 
+the TVE Audiovisual Heritage available on the web, as well as the technological 
+tools used, are hereafter detailed. 
+Keywords 
+Audiovisual heritage; Audiovisual archives; Fondo Documental TVE; RTVE 
+Archive website; TV Programs; Digitisation. 
+Bazán Gil , Virginia. “La memoria colectiva: contenidos para el recuerdo, del archivo a la Web de RTVE ”. En: Métodos 
+de información (MEI), II Época, Vol. 5, nº 8, 2014, pp. 5-16. 
+DOI: http://dx.doi.org/10.5557/IIMEI5-N8-005016 
+MEI 
+II, vol. 5 
+nº 8 
+Recibido el 
+14-05-2014 
+Aceptado en 
+19-06-2014 
+MEI, II, Vol. 5, nº 8, pág. 6 
+1.-La memoria colectiva: recuperando clásicos de la televisión 
+“La Cabina” (1972), dirigida y realizada por Antonio Mercero en 1972, con 
+guion del propio director y José Luis Garci, es, en palabras de Jordi Costa 
+(Singular.es 2010),“un brutal relato de terror con apuntes de ciencia ficción y 
+alto poder simbólico”. En este mediometraje, José Luis López Vázquez 
+interpreta a un hombre común atrapado en una cabina telefónica ante la mirada 
+de sus conciudadanos: personas que se debaten entre la contemplación ociosa y 
+la imposibilidad de liberarlo. Este clásico televisivo dejó una huella imborrable 
+en los espectadores de la época y se convirtió en la primera producción de TVE 
+galardonada con un premio Emmy. Seis años antes del estreno de “La Cabina”, 
+en 1966, Narciso Ibáñez Serrador retrataba en “El asfalto” (1966), el último de 
+sus guiones para la serie “Historias para no dormir”, un terror similar, la 
+soledad de otro hombre común atrapado en el asfalto de una gran ciudad. “El 
+Asfalto”, emitido por primera vez en junio de 1966, obtuvo el premio “Ninfa de 
+oro” al mejor guion en el V Festival de Televisión de Montercarlo. Este y otros 
+títulos como “Los miserables” (1971), “El idiota” (1976), “Don Juan 
+Tenorio” (Estudio 1, 1966) O “Doce hombres sin piedad” (Estudio 1, 1973) 
+representaciones teatrales emitidas en el mítico espacio “Estudio 1”, “Segunda 
+Enseñanza” (1986) de Ana Diosdado o “El Quijote” (1991) de Manuel 
+Gutiérrez Aragón, constituyen algunos ejemplos de los miles de contenidos 
+que conserva el Archivo de Programas TVE y que desde 2008 se están 
+poniendo a disposición de todos los ciudadanos a través de la Web. 
+El archivo de RTVE en la Web (2014a) es una clara apuesta por el acceso 
+abierto al patrimonio documental de TVE y un ejemplo de cómo los archivos 
+audiovisuales pueden ponerse en valor y darse a conocer entre los usuarios 
+(Hidalgo, 2013). Detrás de este magnífico escaparate existe una importante 
+labor de transformación y digitalización del fondo histórico que no sólo 
+pretende garantizar su conservación, sino que también persigue mejorar su 
+accesibilidad y optimizar su explotación económica. Se trata, sin lugar a dudas 
+del proyecto de digitalización de mayor envergadura que se ha realizado en 
+España hasta nuestros días (López de Quintana, 2013). 
+El proyecto de digitalización debe entenderse en el contexto del profundo 
+cambio tecnológico que las áreas de documentación de TVE han 
+experimentado en la última década. 
+En 2009 en los Servicios Informativos (Muñoz de la Peña, Meana et al., 
+2014) y más tarde, en 2013, en Programas no informativos, se ha puesto en 
+marcha la llamada Redacción Digital, un conjunto de aplicaciones informáticas 
+de AVID (NewsCutter, iNews, Assist, Access, etc.) para la ingesta, producción 
+y archivo de contenidos que ha situado a los documentalistas en el corazón de 
+la producción de contenidos. 2010 es el año de la sustitución de SIRTEX por 
+MEI, II, Vol. 5, nº 8, pág. 7 
+un nuevo gestor documental, ARCA (Archivo y Recuperación de Contenidos 
+Audiovisuales), capaz de gestionar contenidos multimedia y, 2011, supone la 
+integración del sistema de gestión de cintas (GMS) en ARCA y el punto y final 
+de la migración de las cerca de 40 bases de datos documentales que, con 
+estructuras distintas y criterios de selección, análisis e indización dispares 
+habían coexistido hasta el momento (Bazán, 2013). 
+Son también hitos relevantes, desde el punto de vista tecnológico, la 
+integración, mediante pasarelas, de ARCA con las distintas áreas de negocio de 
+la Corporación RTVE: Emisiones, Interactivos y Comercial así como con la 
+Redacción Digital con el fin de optimizar el archivado y restauración de los 
+contenidos generados en la producción digital. En un futuro inmediato se va a 
+abordar la integración del gestor documental con SGCE (Sistema de Gestión 
+de la Continuidad y de la Emisión) que facilitará la ingesta directa de los 
+programas emitidos en formato digital así como la descarga de los documentos 
+con metadatos asociados a la emisión. 
+Este cambio tecnológico ha traído consigo no sólo nuevas herramientas de 
+trabajo sino también nuevos procedimientos y nuevas competencias 
+profesionales como la gestión de contenidos en los sistemas de producción 
+digital (Giménez-Rayo y Guallar, 2014; Meana, Muñoz de la Peña et al., 
+2010). 
+En este contexto, y de la mano de algunos clásicos de la pequeña pantalla, 
+vamos a recorrer los procesos documentales que se llevan a cabo en el Fondo 
+Documental de TVE (Prado del Rey), dependiente de la Dirección de 
+Contenidos de TVE, para la recuperación, selección, análisis documental de los 
+contenidos, preservación y digitalización y de la relación de este trabajo con la 
+publicación de contenidos el Archivo de RTVE en la Web. 
+2.- Selección de contenidos y gestión de soportes 
+“La Cabina” (1972), estrenada en la Primera Cadena de Televisión Española en 
+diciembre de 1972, se ha reemitido hasta en una veintena de ocasiones en los 
+distintos canales de TVE y ha sido objeto de análisis en numerosos programas: 
+el último de ellos “La mitad invisible” (2011). El hecho de ser un título 
+imprescindible en la filmografía de Antonio Mercero explica la proliferación de 
+múltiples soportes en distintos formatos, como son cine 35mm cine 16mm, D3, 
+Video 2Pulgadas, BetacamSP, IMX, SX, Betacam Digital y XDCAM HD. 
+La gestión de estas copias y la selección de los soportes más adecuados para 
+la preservación y posterior digitalización es una tarea que, por el momento, 
+sigue consumiendo importantes recursos en el Fondo Documental de TVE. Se 
+trata de una labor importante que se realiza de forma coordinada entre las 
+MEI, II, Vol. 5, nº 8, pág. 8 
+Unidades de Difusión, Préstamo y Conservación y la Unidad de Tratamiento 
+Documental y que se fundamenta en criterios esencialmente técnicos como son 
+el origen de la grabación (cine, grabaciones analógicas o digitales), la 
+disposición de los audios (sonidos separados frente a sonidos mezclados), la 
+resolución de la imagen (alta definición frente a definición estándar), o la 
+relación de aspecto (16:9 frente a 4:3). 
+Resolución de imagen y relación de aspecto son, sin duda, los principales 
+factores de obsolescencia tecnológica que afectan en la actualidad a los archivos 
+audiovisuales (López de Quintana, 2013) y que determinan en gran medida las 
+políticas de selección y conservación de los contenidos. En este contexto el 
+proceso de digitalización permite la selección del material original de mejor 
+calidad para la obtención de copias que cumplan algunos estándares 
+importantes para la comercialización, como la presencia de sonido internacional 
+y una relación de aspecto 16:9 ajustada a los actuales cánones de producción 
+audiovisual. 
+3.-Recuperación del material cine y transformación de formatos 
+En el caso de las series históricas, por ejemplo “La forja de un rebelde” (1989), 
+“Teresa de Jesús“(1984) o “Historias de Juan Español” (1972),cuando existe 
+material original cine, y siempre que su estado de conservación permita 
+obtener una copia de calidad en HD (alta definición), se opta por la 
+recuperación y telecinado de este material antes que de las copias procedentes 
+de vídeo. 
+Se trata de un proceso muy laborioso que se inicia en el archivo con la 
+identificación de todos los materiales disponibles (imagen y sonido). Los rollos 
+se limpian con líquidos específicos, se examinan para comprobar si faltan 
+fotogramas o sonido, se repasan los empalmes y se comprueba la sincronía de 
+audio y video. El material consolidado se envía a las cabinas de telecine donde 
+la película es procesada para obtener un fichero digital que se almacenará en 
+un disco XDCAM HD. 
+Los operadores de cine trabajan, además de con el negativo original cuando 
+este se conserva, con copias estándar (realizadas para la exhibición pública) y 
+con copias posteriores en formato de video que toman como referencia para 
+igualar el contraste, la luminosidad y color de cada uno de los planos. Tras 
+visionar y ajustar de manera básica la luz y el color en el telecine los 
+operadores obtienen un fichero que se ingesta en una caché de almacenamiento 
+donde se corrige mediante el controlador Baselight (FilmLight, 2014):un 
+corrector de color que permite realizar ajustes mucho más precisos sin 
+manipular el soporte original. Los defectos característicos de la película, como 
+el grano o los arañazos se pueden corregir mediante un “corrector de ruido”. 
+MEI, II, Vol. 5, nº 8, pág. 9 
+Por último el fichero se vuelca en discos XDCAM HD que se depositan en el 
+archivo hasta su análisis documental en el gestor ARCA. 
+El Fondo Documental de TVE cuenta en la actualidad con 3 telecines que 
+trabajan en dos turnos de 7 horas. Por ellos han pasado títulos como “La 
+regenta” (1994), “La plaza del diamante” (1982) o “Curro Jiménez”(1975), series 
+que han sido sometidas a un proceso muy similar al que la BBC Studios and 
+Postproduction(2014) y Wood (2014), colorista del equipo, describen para la 
+recuperación de la serie “The Professionals”. 
+De “La cabina” rodada originalmente en 35mm color se conservan en el 
+archivo24 latas entre: mezclas de sonido y sonido internacional en soporte 
+35mm magnético separado (SepMag), copia estándar 35mm, copia estándar 
+35mm con subtítulos en portugués, copia estándar 16mm, negativo de imagen 
+y de sonido. Los negativos, tanto de imagen como de sonido (mezclas), se 
+utilizaron para obtener copias HD con relación de aspecto 16:9 Pillarboxa la 
+que posteriormente se insertó el sonido internacional. 
+Desde la década de los 70 del siglo XX se han generado en función del 
+cambio tecnológico y de las necesidades de producción, emisión y 
+comercialización, múltiples copias en distintos soportes de video (1Pulgada, 
+2Pulgadas y U-matic) que eran, tecnológicamente obsoletas a finales de la 
+década de los 90. En 2002 se inició en el Fondo Documental de TVE de forma 
+sistemática la transformación de estos soportes a otros tecnológicamente útiles 
+al tiempo que se actualizaba su análisis en las bases documentales. Este 
+proyecto se concentró en la Unidad del Proyecto de Transformación y 
+Digitalización y supuso la transformación de 70.000 soportes con contenidos 
+de programas no informativos. 
+“La cabina” se ha repicado hasta en 10soportesdistintos (1 Pulgada, 2 
+Pulgadas, Digital D3,Betacam SP, IMX y Betacam Digital) de los que solo se 
+conservan para su archivo definitivo y digitalización los obtenidos del negativo 
+de cine. Además de esas copias existen en el archivo otras cintas (hasta 9 entre 
+Betacam SP e IMX), a menudo grabaciones de la emisión, que incluyen además 
+presentaciones o entrevistas a sus principales protagonistas en distintos 
+programas, el propio mediometraje y que merecen mención aparte. 
+El Fondo Documental de TVE conserva, en la actualidad, cerca de 240.000 
+latas de cine procedentes de los archivos de Prado del Rey y de Arganda y se 
+ocupó hasta 2012 de la conservación de 66.000 latas del Archivo Histórico de 
+No-Do hasta su traslado al Centro de Conservación de Filmoteca Española. 
+Los trabajos de recuperación de estos fondos comenzaron a realizarse de forma 
+sistemática, con recursos técnicos y humanos propios del Fondo Documental 
+MEI, II, Vol. 5, nº 8, pág. 10 
+en 2004. Hasta mayo de 2014 se han recuperado 5762 contenidos 
+correspondientes a programas no informativos lo que supone un total de 
+16.812 latas. 
+4.- El análisis documental y la gestión de soportes 
+El Centro de Documentación de TVE, origen del actual Fondo Documental de 
+TVE, se creó en 1981 pero no fue hasta 1983 cuando se inició de forma 
+sistemática el tratamiento automatizado de los fondos. La base documental de 
+Programas 
+contiene 
+en 
+la 
+actualidad 
+más 
+de 
+218.800 
+registros 
+correspondientes a programas no informativos de producción propia emitidos o 
+brutos rodados para la producción de programas y cerca de 97.000 registros 
+correspondientes a programas de producción ajena ya emitidos. 
+Tiene un crecimiento medio anual cercano a los 26.000 registros. En los 30 
+años de historia de esta base no sólo se han modificado las normas de análisis 
+documental, originalmente muy apegadas a las prácticas catalográficas 
+bibliotecarias, para adaptarse a las necesidades de la producción audiovisual, 
+sino que se ha modificado la propia estructura de campos para adecuarla a los 
+estándares de la unión Europea de Radiodifusión (UER/EBU) y se ha 
+integrado, con el resto de las bases documentales de RTVE en un entorno 
+común. 
+Desde octubre de 2010el análisis documental de los programas emitidos y la 
+actualización de los metadatos descriptivos de los contenidos que forman parte 
+del fondo histórico se realiza en el gestor documental ARCA. Se trata de un 
+sistema SOA (Service Oriented Architecture) formado por un gestor 
+documental (Filenet de IBM), un motor de búsqueda (Autonomy) y un gestor 
+multimedia (Tarsys de Tedial). ARCA integra la gestión de soportes 
+(adquisiciones, altas de grabación, préstamos y traslados entre videotecas), la 
+consulta de los datos de la emisión y el acceso a los contenidos multimedia y a 
+los metadatos que los describen. 
+Desde el punto de vista del análisis documental la digitalización permite 
+descubrir “nuevos contenidos” especialmente cuando se trata de programas 
+rodados originalmente en cine de los que apenas se conservaba información 
+procedente de catálogos manuales o de los que, por distintos motivos, solo 
+quedaba constancia en el sistema de gestión de soportes (GMS). A menudo, 
+como es el caso de “La cabina” nos encontramos con materiales 
+complementarios a sus distintas emisiones como son presentaciones, 
+entrevistas, etc. Ejemplos de esto son: la presentación realizada por Antonio 
+Mercero y José Luis López Vázquez en “El Voltio” en 1972, el coloquio en el 
+programa “Teleforum” de 1992 en el que ambos intervinieron o la entrevista 
+realizada a Mercero para el espacio “Festival TV” con motivo de la reemisión 
+MEI, II, Vol. 5, nº 8, pág. 11 
+de la cinta en 1981. 
+En otras ocasiones, podemos encontrarnos ante versiones de un mismo 
+contenido: versiones resumidas o extendidas, versiones subtituladas o dobladas 
+a otros idiomas o versiones con distintos montaje cuyas peculiaridades deben 
+describirse de manera detallada para facilitar su recuperación en la base 
+documental. En la Unidad de Tratamiento Documental se establecen los 
+niveles de análisis en función del tipo de material del que se trate, se dan de alta 
+nuevos registros o se completan los ya existentes con datos relativos a la 
+producción y los derechos de explotación, se realiza una descripción del 
+contenido, se proporcionan puntos de acceso alternativos mediante 
+descriptores y se marcan el inicio y duración de la grabación para facilitar la 
+digitalización del contenido. 
+5.-El proyecto de digitalización del fondo histórico 
+Una vez que se ha realizado la orden de retirada de servicio de los soportes 
+obsoletos y que se han identificado y analizado documentalmente los soportes 
+de preservación, se inicia la digitalización de los contenidos para su 
+conservación definitiva y su almacenamiento en la librería o sistema de 
+almacenamiento robotizado. 
+El proceso de digitalización comienza y finaliza en ARCA. En este proceso 
+se pueden identificar dos fases: el procesamiento del soporte, es decir su 
+traslado desde el archivo a las cabinas de digitalización para obtener un fichero 
+MXF y el procesamiento de la media o los diferentes flujos a los que es 
+sometido el fichero como son la transcodificación y normalización, la 
+aplicación de controles de calidad y, por último, el archivado en el sistema de 
+almacenamiento robotizado para que la media esté disponible en ARCA. 
+El gestor documental permite seleccionar un soporte o grupo de soportes 
+que son “enviados” a la aplicación de digitalización (DIGIFO) desarrollada por 
+el área de Sistemas de RTVE, en este punto se establecen los controles de 
+calidad (Quality Controls) automáticos o manuales que se aplicarán en la fase 
+de procesamiento de la media. Una vez que se han generado los distintos lotes 
+en la aplicación, el personal de la videoteca prepara las valijas para su traslado a 
+las cabinas de digitalización al tiempo que se genera un fichero XML con los 
+metadatos necesarios para la digitalización de los soportes. 
+Los XML se procesan y son dados de alta en Ficus, aplicación BPM 
+(Business Process Manager) que permite definir, ejecutar y realizar el 
+seguimiento de todos flujos de trabajo (Tedial, 2014a) y la media se obtiene 
+mediante Capture (Tedial, 2014b) una aplicación que permite obtener los 
+ficheros de audio y video y convertirlos a un formato digital determinado. 
+MEI, II, Vol. 5, nº 8, pág. 12 
+Esta primera fase se da por concluida cuando las cintas o discos son 
+devueltos a la videoteca. Los ficheros MXF se almacenan en una carpeta donde 
+los gestores de contenidos realizan un primer control de calidad, después son 
+movidos a una chacé de entrada donde comienza su procesamiento. La media 
+en alta se normaliza (MXF), se transcodifica para obtener un fichero en baja 
+(QT), se genera un storyboard y finalmente se somete a los controles de calidad 
+definidos en la primera fase. 
+Estos controles pueden ser automáticos (Cerify) o manuales que permiten la 
+edición de la media en baja resolución (Ficus) o en alta resolución (Edius), en 
+función de la relevancia del material y del estado de conservación de los 
+soportes originales. Por último, la media se almacena en la librería o sistema de 
+almacenamiento robotizado. Cuando este proceso llega a su fin los usuarios 
+pueden reproducir en streaming los contenidos a través de un reproductor de 
+contenidos multimedia (player) integrado en ARCA. 
+Desde el reproductor multimedia se puede realizar un visionado rápido de la 
+imagen a través de un storyboard, acceder a puntos concretos de la media o 
+generar EDL’s (EditDecisionList) con una selección de planos para su 
+restauración y uso en la Redacción Digital como material de Archivo. A partir 
+del fichero QT (Quick Time) se pueden obtener transcripciones del audio a 
+texto (Speech to text) de los rótulos a texto (OCR) o generar el subtitulado de 
+programas. 
+ARCA se integra con las distintas áreas de negocio como Emisiones, 
+Comercial, Redacción Digital e Interactivos a través de distintas pasarelas que 
+permiten, a cada una de estas áreas, utilizar la media con distintos propósitos: 
+emisión, comercialización, mejorar la accesibilidad de los productos de TVE o 
+reutilizar las imágenes como recursos de Archivo. 
+Hasta mayo de 2014 se han digitalizado más de 285.000 contenidos, de los 
+que cerca de 276.500 son accesibles a través del gestor documental ARCA. 
+Actualmente están disponibles 192.500 horas de imágenes de programas no 
+informativos, lo que supone algo más de 5.000 Terabytes almacenados en 
+cintas de datos LT04. 
+6.- El archivo de RTVE en la web 
+En septiembre de 2008 RTVE estrena en su web el Archivo de RTVE (2014a), 
+un espacio para la nostalgia y una apuesta decidida por el acceso abierto a su 
+patrimonio audiovisual. El archivo de RTVE en la web, que alcanzó entre 
+marzo y agosto de 2013 los 200.000 visitantes mensuales, proporciona acceso 
+a miles de horas de imágenes para el recuerdo y es el principal escaparate de la 
+labor de recuperación de los fondos históricos que se está realizando en TVE. 
+MEI, II, Vol. 5, nº 8, pág. 13 
+Su portada se actualiza semanalmente con contenidos sugeridos en gran 
+medida por los propios internautas, quienes a través de la sección “El archivo 
+histórico poco a poco” (Archivo RTVE, 2014b) hacen llegar sus peticiones al 
+equipo del área de Interactivos que se ocupa de su gestión. El archivo de 
+RTVE en la web proporciona también acceso a muchos de los programas que 
+en los últimos años, y con distintos enfoques, han puesto en valor el legado 
+audiovisual de TVE. De entre ellos podemos destacar “¿Te acuerdas?” (2007), 
+el que más tiempo permaneció en antena. 
+Fue un proyecto de un grupo de profesionales de los Servicios Informativos 
+que pretendía mirar “con los ojos de hoy a temas del pasado que estuvieron en 
+el candelero” y que pudimos ver en el Telediario del fin de semana entre enero 
+de 2007 y septiembre de 2012.También “Cachitos de hierro y Cromo” (2011), 
+una “muestra musical sin complejos del legado sonoro de RTVE” realizado por 
+la 2 de TVE y Radio 3 y que volverá a la parrilla de emisión en septiembre, o 
+“Viaje al Centro de la Tele” (2013), “algunas de las mejores imágenes que TVE 
+ha mostrado en las últimas décadas”, un viaje televisivo del que se están 
+preparando nuevas entregas para el verano de 2014. 
+Desde marzo de 2013la incorporación de nuevos materiales al Archivo de 
+RTVE en la web se realiza a través de la pasarela de Medios Interactivos. Los 
+contenidos seleccionados se descargan en el CMS (Content Management 
+System) de la Web de RTVE.es, la media se transcodifica a MP3 y se informa 
+el video con una capa de metadatos descriptivos (título, título corto, fecha de 
+emisión original, sinopsis, etc.). 
+Se seleccionan, además, las imágenes en miniatura tanto para pantallas como 
+para dispositivos portátiles. Finalmente, se elige la categoría de archivo, un 
+requisito fundamental para la adecuada visualización de los contenidos en las 
+distintas secciones de la web, lo que permite actualizar de manera automática 
+los contenidos de las series de programas en RTVE a la Carta con nuevos 
+títulos. 
+De esta forma finaliza un proceso laborioso que comienza en el archivo y que 
+implica la selección de contenidos, la gestión de los soportes que los contienen, 
+la transformación y digitalización de los soportes y la actualización de los 
+metadatos que los describen y en el que están implicadas las áreas de 
+Documentación, Sistemas y Medios Interactivos. 
+7.- Bibliografía 
+BAZÁN GIL, V. (2013). Documentación (in)visible: de la librería a la pantalla, ponencia 
+presentada en 6as Jornadas Archivando. 6-7 Noviembre, León. 
+MEI, II, Vol. 5, nº 8, pág. 14 
+BBC Studios and Postproduction (2014). TheProfessionals [en línea]. [Consulta: 10 de mayo de 
+2014]. Disponible en: 
+<www.bbcstudiosandpostproduction.com/our-work/the-sweeney/?
+case_study_category=digital-media-services> 
+Cachitos de hierro y cromo (2011). [en línea] [Consulta: 10 de mayo de 2014]. Disponible en: 
+<www.rtve.es/television/20130904/cahitos-hierro-cromo/744760.shtml> 
+Curro Jiménez (1975). [en línea] [Consulta: 6 de mayo de 2014]. Disponible: 
+<www.rtve.es/television/curro-jimenez/> 
+El idiota (1976). [en línea] [Consulta: 6 de mayo de 2014]. Disponible en: 
+<www.rtve.es/alacarta/videos/el-idiota/> 
+El Quijote (1991). [en línea] [Consulta: 6 de mayo de 2014]. Disponible en: 
+<www.rtve.es/television/el-quijote/> 
+ESTUDIO 1 (1963). Doce hombres sin piedad [en línea]. [Consulta: 13 de mayo de 2014]. 
+Disponible en: 
+<http://www.rtve.es/alacarta/videos/television/estudio-doce-hombres-sin-piedad/867545/> 
+ESTUDIO 1 (1966). Don Juan Tenorio. [Consulta: 13 de mayo de 2014]. Disponible en: 
+<http://www.rtve.es/alacarta/videos/estudio-1/estudio-1-don-juan-tenorio/1449057/> 
+FILMLIGHT (2014). Baselight [en línea] [Consulta: 13 de mayo de 2014]. Disponible en: 
+<www.filmlight.ltd.uk/products/baselight/overview_bl.php> 
+GIMÉNEZ RAYO, M. y GUALLAR, J. (2014). Centros de documentación en televisión y 
+productos documentales. El profesional de la información, enero-febrero, v. 23, n. 1, pp. 13-25. 
+HIDALGO GOYANES, P. (2013) Prevenir la amnesia colectiva: el acceso público a los archivos 
+de televisión [en línea], Documentación de las ciencias de la información, v. 36, pp. 143-166. 
+[Consulta: 24 de abril de 2014]. Disponible en: 
+<http://revistas.ucm.es/index.php/DCIN/article/view/42946/40764> 
+Historias de Juan Español (1972). [en línea] [Consulta: 13 de mayo de 2014]. Disponible en: 
+<www.rtve.es/alacarta/videos/historias-de-juan-espanol/> 
+Historias para no dormir (1966). El asfalto [en línea]. [Consulta: 24 de abril de 2014]. 
+Disponible en: 
+<http://www.rtve.es/alacarta/videos/historias-para-no-dormir/historias-para-dormir-
+asfalto/1107620/> 
+La cabina (1972). [en línea][Consulta: 24 de abril de 2014]Disponible en: 
+<http://www.rtve.es/alacarta/videos/cine-en-el-archivo-de-rtve/cabina-integra-presentacion-
+mercero-lopez-vazquez/393271/> 
+La forja de un rebelde (1989). [Consulta: 6 de mayo de 2014]. Disponible en: 
+<www.rtve.es/television/forja-rebelde> 
+La plaza del Diamante (1982). [Consulta: 6 de mayo de 2014]. Disponible en: 
+<www.rtve.es/television/plaza-diamante> 
+MEI, II, Vol. 5, nº 8, pág. 15 
+MUÑOZ DE LA PEÑA COSTERO, P., MEANA ALONSO, S. y SÁEZ CARRERAS, S. 
+(2014).Cinco años de experiencia digital en los Servicios Informativos de TVE: una nueva ges-
+tión de contenidos. El profesional de la información, enero-febrero, v. 23, n. 1, pp. 72-79. 
+RTVE (2014). Archivo RTVE [sitio web]. [Consulta: 6 de mayo de 2014]. Disponible en: 
+<www.rtve.es/archivo> 
+Segunda Enseñanza (1986). [Consulta: 13 de mayo de 2014]. Disponible en: 
+<www.rtve.es/alacarta/videos/segunda-ensenanza> 
+Singular.es (2010). La cabina. [Consulta: 24 de abril de 2014]. Disponible en: 
+<www.rtve.es/alacarta/videos/singulares/singulares-cabina/967657/> 
+TEDIAL (2014a). Ficus Product Overview. [Consulta: 10 de mayo de 2014]. Disponible en: 
+<http://www.tedial.com/products/ficus/product-overview> 
+TEDIAL (2014b) Capture Product Overview.[Consulta: 10 de mayo de 2014]. Disponible en: 
+<http://www.tedial.com/products/capture/product-overview> 
+Teresa de Jesús (1984). [Consulta: 13 de mayo de 2014]. Disponible en: 
+<www.rtve.es/alacarta/videos/teresa-de-jesus/> 
+RTVE (2014a). Archivo RTVE [sitio web]. [Consulta: 13 de mayo de 2014]. Disponible en: 
+<www.rtve.es/archivo/> 
+RTVE (2014b). El archivo histórico, poco a poco. [Consulta: 13 de mayo de 2014].Disponible 
+en: 
+<www.rtve.es/rtve/20080901/sumergete-archivo-rtve/165188.shtml> 
+Viaje al centro de la tele (2013) .[Consulta: 9 de mayo de 2014]. Disponible en: 
+<www.rtve.es/alacarta/videos/viaje-al-centro-de-la-tele> 
+Te acuerdas (2007). [Consulta: 9 de mayo de 2014]. Disponible en: 
+<www.rtve.es/television/te-acuerdas/> 
+WOOD, J.(2014). A profesional Restoration. [Consulta: 9 de mayo de 2014]. Disponible en: 
+<http://networkonair.com/features/2014/03/21/a-professional-restoration/> 
+MEI, II, Vol. 5, nº 8, pág. 16 
