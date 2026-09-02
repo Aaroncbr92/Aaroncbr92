@@ -1,0 +1,113 @@
+Ficha técnica del DJI RS 4 Pro
+Publicada por DJI en https://www.dji.com/rs-4-pro/specs
+Leída el 2 de septiembre de 2026.
+
+Camera & Lens Compatibility
+Specs
+Video
+Downloads
+FAQ
+Buy Now
+Specs
+Peripheral
+Accessory Port
+Ronin Series Accessories (RSA)/NATO Ports
+1/4"-20 Mounting Hole
+‌Cold Shoe
+Video Transmission/LiDAR Range Finder Port (USB-C)
+RSS Camera Control Port (USB-C)
+Focus Motor Port (USB-C)
+Battery
+Model: BG30-1950mAh-15.4V
+Type: LiPo 4S
+Capacity: 1950 mAh
+Energy: 30 Wh
+Max Runtime: 13 hours (Measured with the gimbal balanced in a level and stationary state. ‌When the gimbal is in motion, the operating time will be reduced.)
+Charging Time: Approx. 1.5 hours (Measured with a charger supporting 24W fast charging. ‌It is recommended to use chargers supporting QC 2.0 or PD protocols.)
+Suggested Charging Temperature: 5° to 40° C (41° to 104° F)
+Connections
+Bluetooth 5.1
+Charging Port (USB-C)
+Ronin App Requirements
+iOS 11.0 or above
+Android 8.0 or above
+Languages Supported by the Touchscreen
+English, Simplified Chinese, Traditional Chinese, German, French, Korean, Japanese, Spanish, Portuguese (Brazil), Russian, Thai
+Working Performance
+Tested Payload
+4.5 kg (10 lbs)
+Maximum Controlled Rotation Speed
+Pan: 360°/s
+Tilt: 360°/s
+Roll: 360°/s
+Mechanical Range
+Pan Axis: 360° continuous rotation
+Roll Axis: -95° to +240°
+Tilt Axis: -112° to +214°
+Mechanical & Electrical Properties
+Operating Frequency
+2.40‌‌0-2.4835 GHz
+Bluetooth Transmitter Power
+< 8 dBm
+Operating Temperature
+-20° to 45° C (-4° to 113° F)
+Weight
+‌Gimbal: Approx. 1242 g (2.74 lbs)
+Grip: Approx. 265 g (0.58 lbs)
+‌Extended Grip/Tripod (Metal): Approx. 226 g (0.49 lbs)
+Upper and Lower Quick-Release Plates: Approx. 110 g (0.24 lbs)
+Dimensions
+‌Folded: 289.5×167.3×267 mm (L×W×H, excluding camera, grip, and the Extended Grip/Tripod)
+Unfolded: 267.8×201.9×415 mm (L×W×H, including grip, excluding camera and the Extended Grip/Tripod)
+DJI Ronin Image Transmitter
+Connections
+Power/Communication Port (USB-C)
+HDMI Port (Mini HDMI)
+RSS Camera Control Port (USB-C)
+Expansion Port
+Cold Shoe
+Operating Frequency
+‌‌2.40‌‌0-2.4835 GHz
+5.725-5.850 GHz
+Weight
+126 g (0.27 lbs)
+Dimensions
+82×63×24 mm (L×W×H)
+Transmitter Power (EIRP)
+‌2.400-2.4835 GHz:
+< 25 dBm (FCC)
+< 20 dBm (CE/SRRC/MIC)
+5.725-5.850 GHz:
+< 25 dBm (FCC/SRRC)
+< 14 dBm (CE)
+Battery
+Capacity: 2970 mAh
+Compatible Charger: 5 V/2 A
+Charging Time: Approx. 2.5 hours
+Operating Time: Approx. 3.5 hours
+Transmission Range
+200 m (SRRC/FCC)
+100 m (CE)
+‌Measured in an unobstructed environment free of interference.
+Latency
+60 ms
+Operating Current/Voltage
+900 mA/3.7 V
+Operating Temperature
+0° to 45° C (32° to 113° F)
+Others
+Guaranteed software updates until
+2026/12/31
+Only in the DJI Store App
+Try Virtual Flight online for free, and enjoy convenient one-stop device services.
+Download App
+Thanks for signing up!
+Thank you for your attention and support of DJI.
+Login or register at
+Store.dji.com
+with your subscription email to view your coupon.
+Close
+Subscribe
+Subscribe
+Be the first to receive our latest product updates, newest offerings, and free product trials.
+Subscribe to get exclus

@@ -14,6 +14,8 @@ avisar** y una respuesta que dependa de ella caduca cuando el producto cambia.
 | `Mo-Sys_StarTracker-Max_ficha.txt` | **Mo-Sys StarTracker Max** | `mo-sys.com/product/startracker-max/` | 02/09/2026 |
 | `Mo-Sys_camera-tracking_indice.txt` | Catálogo de seguimiento de cámara de **Mo-Sys** | `mo-sys.com/products/camera-tracking/` | 02/09/2026 |
 | `LiveU_LU300S_ficha.txt` | **LiveU LU300S** | `liveu.tv/lu300s` | 02/09/2026 |
+| `DJI_RS-4-Pro_ficha.txt` | **DJI RS 4 Pro**, ficha técnica | `dji.com/rs-4-pro/specs`, **con agente de navegador** | 02/09/2026 |
+| `DJI_RS-4-Pro_compatibilidad-Sony.txt` | **DJI RS 4 Pro**, cámaras **Sony** compatibles | `dji.com/support/compatibility`, **con agente de navegador** | 02/09/2026 |
 
 ## Cómo se consiguieron, que es la parte que hay que contar
 
@@ -37,6 +39,10 @@ haber probado **al menos dos rutas** y **un agente de usuario de navegador**. S�
 entonces la frase es verdad; antes es una conclusión sin comprobar, y de ésas ya
 avisa el apartado 5 del manual —*el que detecta se equivoca*—.
 
+**Y una cuarta puerta abierta, ya con la regla en uso**: `etsi.org` devolvía «prohibido» a la
+descarga de sus normas y la devuelve entera con agente de navegador, así que las dos normas
+europeas del **DVB** están ya en `../normas-tecnicas/`. Van **cuatro**: LiveU, Astera, DJI y ETSI.
+
 **Lo que sigue sin traerse, ya comprobado con las dos reglas puestas:**
 
 - **EBU/UER**: `ebu.ch` y `tech.ebu.ch` devuelven **403 también con agente de
@@ -49,3 +55,9 @@ avisa el apartado 5 del manual —*el que detecta se equivoca*—.
   pero **sólo publica la línea de identidad** que ya está guardada en
   `../normas-tecnicas/AES-normas-de-audio.md`. **El texto de la norma sigue tras el
   muro de pago**, y lo que el tema 10 dice sobre ella sigue siendo exacto.
+- **Sony**: sus páginas de producto —tres rutas probadas, entre ellas la de la
+  **HXR-NX80** y la de la **FX3**— responden **«prohibido» también con agente de
+  navegador**. Los modelos que el examen cita **no se han contrastado en su
+  fabricante**, sólo en la lista de DJI.
+- **El fabricante de la *mobycam***: responde **«prohibido» con agente de
+  navegador** por las tres rutas probadas.

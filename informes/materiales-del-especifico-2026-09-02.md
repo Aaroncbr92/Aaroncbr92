@@ -221,15 +221,16 @@ la próxima convocatoria cambia de proveedor.
 
 ## Lo siguiente
 
-1. **Escribir los doce temas que quedan**, por peso de examen: **13** (exteriores,
-   7), **1**, **3**, **7**, **8**, **12**, **14** y **15** (6 cada uno), **6** (4),
-   **5** y **16** (3) y **4** (2). *(El **11** ya está cerrado.)*
+1. **Escribir los once temas que quedan**, por peso de examen: **1**, **3**, **7**,
+   **8**, **12**, **14** y **15** (6 cada uno), **6** (4), **5** y **16** (3) y **4**
+   (2). *(El **9**, el **10**, el **11**, el **13**, el **2** y el **17** ya están
+   cerrados.)*
 2. **Tirar del hilo del BOE para el tema 15** antes de resignarse: Ley 46/1983,
    Ley 10/1998 y Ley 7/2010 pueden sostener FORTA y UTECA.
-3. ~~Probar **ETSI** para el DVB~~ → **hecho, y estaba abierto**: las normas
-   **EN 300 744** y **EN 302 755** se descargaron con un agente de navegador. Quedan
-   las **fichas de Sony (HXR-NX80) y DJI (RS 4 Pro)**, que se probarán con la misma
-   regla antes de escribir el tema de exteriores.
+3. ~~Probar **ETSI** para el DVB~~ y ~~las fichas de **Sony** y **DJI**~~ →
+   **hecho**. El ETSI y **DJI** estaban abiertos con agente de navegador; **Sony** y
+   el fabricante de la **mobycam** están cerrados de verdad, comprobado con la regla
+   puesta.
 
 ## Tercera actualización del mismo día: el tema 11, escrito
 
@@ -254,3 +255,15 @@ puertas dadas por cerradas**.
 **Lo que sigue sin fuente en este tema**: la altitud de **36.000 km** de la órbita geoestacionaria
 —la recomendación da las otras dos de la escala, no ésa—, el **streaming**, la **señal Pool** y
 cuál de los seis datos de acceso a una señal por satélite es el imprescindible.
+
+## Cuarta actualización del mismo día: el tema 13, escrito
+
+**Cerrado con 2.946 palabras**, esquema e informes. Es **el primero que estrena el tercer nivel de
+esta misma jerarquía**: `fuentes/institucionales/`, con el **AIP de España, sección ENR 5.1**,
+publicado por **ENAIRE**. Hizo falta porque el reglamento del aire define **qué es** una zona
+peligrosa pero **no dice con qué letras se rotula**, y sin eso la etiqueta **LED** del enunciado se
+quedaba sin explicar.
+
+**El recuento de fuentes recuperadas por la regla del agente de navegador va por cuatro**: LiveU,
+Astera, ETSI y DJI. Y hay **dos cerradas de verdad**, comprobadas con la regla puesta: **Sony** y
+el fabricante de la **mobycam**.

@@ -291,6 +291,32 @@ en Documentación y en Producción (Asistencia).
       mira **las negritas**, así que **una cifra en texto corriente pasa por delante sin sonar**.
       Los **36.000 km** de la órbita geoestacionaria son ese caso: se detectaron a mano, buscando
       en la recomendación las tres altitudes de la escala y viendo que sólo hay dos.
+- [x] **Tema 13 del específico de Producción (Asistencia)** —equipos técnicos de exteriores—
+      **cerrado**: 2.946 palabras, con esquema de repaso. Es **un tema partido en dos**: las **tres
+      preguntas del dron y del estabilizador** se contestan con documento delante —**Reglamento
+      (UE) 2019/947**, **reglamento del aire (SERA)**, **RD 1036/2017**, **AIP de España** y la
+      **lista de compatibilidad de DJI**—, y las **cuatro de vocabulario** —*beauty shot*, *TV
+      compound*, *mobycam*, *mojo*— **no tienen más autoridad que la plantilla**, y van marcadas.
+- [x] **Estrenado el tercer nivel de la jerarquía de fuentes**, que estaba declarado desde el
+      informe de fuentes y **no se había usado ni una vez**: `fuentes/institucionales/`, con el
+      **AIP de España, sección ENR 5.1**, publicado por **ENAIRE**. Hacía falta porque el
+      reglamento del aire define **qué es** una zona peligrosa pero **no dice con qué letras se
+      rotula**: quien clasifica el espacio aéreo en **P**, **R** y **D** y numera las zonas
+      peligrosas españolas **LED1, LED2…** es el AIP. **Dos fuentes para una pregunta**, y con las
+      dos se contesta sin memorizar nada suelto.
+- [x] **Corregida una atribución falsa antes de publicarla**: el primer borrador del tema 13 daba
+      por dicho en el reglamento europeo que el operador de dron se registra **ante AESA**. El
+      reglamento dice «**el Estado miembro**» y **no nombra a AESA**; el nombre lo pone el
+      **RD 1036/2017**, artículo 6.1. La respuesta se parte en dos y **se enseña la costura**.
+- [x] **Una cifra huérfana que era una comprobación positiva.** La lente marcó los **350 gramos**
+      como cifra sin fuente, y eso era justo lo que el tema afirmaba: **ese umbral no existe en
+      ninguna norma** —el reglamento maneja **250 g**—. Queda anotado que la lente **no dice «esta
+      cifra está mal», dice «esta cifra no está en tus fuentes»**, y que a veces eso es la prueba
+      que se buscaba.
+- [x] **Cuarta fuente recuperada con la regla del agente de navegador: DJI.** Y dos que **sí están
+      cerradas de verdad**, comprobadas con la regla puesta: las páginas de producto de **Sony** y
+      la del fabricante de la **mobycam**, que responden «prohibido» también con agente de
+      navegador.
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -405,6 +431,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 10 · Imagen y sonido | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 17 de 17 enteras |
 | Producción 9 · Escenografía e iluminación | sí | sí | sí | sí | sí, dos veces | sí, limpia (lente de documento) | 20 de 20 enteras |
 | Producción 11 · Transmisión de señal | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 10 de 10 enteras |
+| Producción 13 · Equipos de exteriores | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 7 de 7 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

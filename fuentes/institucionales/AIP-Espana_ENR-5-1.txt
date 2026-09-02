@@ -1,0 +1,263 @@
+ZONAS PROHIBIDAS, RESTRINGIDAS, PELIGROSAS Y DE PROTECCIÓN DE PLANES DE VUELO. 
+ ESPACIOS AÉREOS TEMPORALMENTE RESERVADOS Y SEGREGADOS. 
+PROHIBITED, RESTRICTED AND DANGER AREAS AND FLIGHT PLAN BUFFER ZONES. 
+ TEMPORARY RESERVED AND SEGREGATED AREAS.
+GENERALITIES 
+Any airspace which may contain a potential danger to 
+aircraft operations and/or temporarily or permanently 
+restrict civil aircraft operations is classified as: 
+DEFINITIONS 
+Prohibited area (P) 
+An airspace of defined dimensions, above the land areas or 
+territorial waters of Spain, within which the flight of aircraft is 
+prohibited, except Spanish State flights duly authorised by 
+the Ministerio de Defensa (Ministry of Defence). 
+No aircraft shall fly in a prohibited area (P) without obtaining 
+the required permission from the Spanish State. 
+Restricted area (R) 
+An airspace of defined dimensions, above the land areas or 
+territorial waters of Spain, within which the flight of aircraft is 
+restricted in accordance with certain specified conditions, 
+except Spanish State aircraft when so required in the 
+performance of their duties or for emergency reasons. 
+No aircraft shall fly in a restricted area (R) without meeting 
+the established restrictions, unless permission has been 
+obtained from the competent authority. 
+Note: The interior waters and, only when specified, territorial 
+waters corresponding to these areas shall be 
+considered prohibited or restricted. 
+Danger area (D) 
+An airspace of defined dimensions within which activities 
+dangerous to the flight of aircraft may exist at specified 
+times. 
+Before starting a flight that affects a danger area (D), the pilot 
+shall obtain all the necessary information of its activities, and 
+the hours during which they will take place. 
+Manageable D and R areas 
+Military areas which, while maintaining their current D or R 
+status, may be managed by the AMC during the periods 
+published in section ENR 5.1. 
+Temporary Danger Area (TDA) 
+A defined volume of airspace in which activities hazardous to 
+aircraft flights may occur within specified periods of time and 
+which cannot be associated in advance with activation 
+periods with a pre-established duration, regularity or location, 
+and which is in place for six months or less. 
+Temporary reserved area (TRA) 
+A defined volume of airspace normally under the jurisdiction 
+of one aviation authority and temporarily reserved, by 
+common agreement, for the specific use by another 
+aeronautical activity and through which other traffic may be 
+allowed to transit, under ATC clearance.
+GENERALIDADES 
+Todo espacio aéreo en el cual pudiera existir un peligro 
+potencial para la operación de aeronaves y/o restringirse 
+temporal o permanentemente la operación de aeronaves 
+civiles se clasifica en: 
+DEFINICIONES 
+Zona prohibida (P) 
+Espacio aéreo de dimensiones definidas sobre el territorio o 
+las aguas jurisdiccionales de España, dentro del cual está 
+prohibido el vuelo de aeronaves, excepto las españolas de 
+estado debidamente autorizadas por el Ministerio de 
+Defensa. 
+Ninguna aeronave volará en una zona prohibida (P) sin haber 
+obtenido el preceptivo permiso del Estado español. 
+Zona restringida (R) 
+Espacio aéreo de dimensiones definidas sobre el territorio o 
+las aguas jurisdiccionales de España, dentro del cual está 
+restringido el vuelo de las aeronaves de acuerdo con 
+determinadas condiciones especificadas, excepto las 
+aeronaves españolas de estado cuando así lo exija el 
+cumplimiento de su
+
+[...]
+
+ZONAS PELIGROSAS // DANGER AREAS
+IDENTIFICACIÓN Y NOMBRE - Límites laterales 
+IDENTIFICATION AND NAME - Lateral limits
+Límite superior 
+Upper limit 
+Límite inferior 
+Lower limit
+Observaciones (Hora de actividad, tipo de 
+restricción, naturaleza del riesgo, riesgo de 
+interceptación). 
+Remarks (Time of activity, type of restriction, nature 
+of hazard, risk of interception). 
+LED1 CERRO MURIANO (Córdoba) 
+380400N 0045100W; 380500N 0044800W; 
+380300N 0044200W; 380000N 0044600W; 
+380400N 0045100W. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LED2 EL TELENO (León) 
+422049N 0062332W; 422800N 0061100W; 
+422300N 0060200W; 421759N 0061656W; 
+422049N 0062332W. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GCD3 PÁJARA (Fuerteventura) 
+282050N 0141300W; 282050N 0140920W; 
+281520N 0140920W; 281420N 0141300W; 
+282050N 0141300W. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LED4 ALIJARES (Toledo) 
+395200N 0040100W; 395200N 0035900W; 
+394900N 0035900W; 394900N 0040100W; 
+395200N 0040100W. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LED6 BATERÍAS (Segovia) 
+405200N 0040200W; 405200N 0040700W; 
+405600N 0040700W; 405600N 0040200W; 
+405200N 0040200W. 
+ 
+ 
+FL180 
+SFC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FL200 
+SFC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6500 ft ALT 
+SFC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11000 ft ALT 
+SFC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10000 ft ALT 
+SFC 
+ 
+ 
+ 
+Ejercicios de tiro terrestre, tiro aire-tierra y 
+bombardeo // Ground firing, surface-to-air firing 
+and bombing exercises. 
+Área reservable H24. La reserva del área se 
+comunica mediante el plan de utilización del 
+espacio aéreo y sus actualizaciones 
+(AUP/UUP). // H24 reservable area. Area 
+reservation is notified by the airspace use plan 
+and its updates (AUP/UUP). 
+Otras actividades anunciadas por NOTAM // 
+Other activities announced by NOTAM. 
+Coordinación con // Coordination with: 
+SEVILLA ACC. 
+Ministerio 
+de 
+Defensa. 
+Mando 
+de 
+Adiestramiento y Doctrina. 
+E-mail: CMTMURIANO@mde.es.  
+TEL: +34-957 358 317. 
+ 
+ 
+ 
+Ejercicios tiro terrestre y tierra-aire // Ground 
+and surface-to-air firing exercises. 
+MON, TUE & FRI: 0700-1700 
+WED & THU: 0700-1700 & 1800-2200 
+Ministerio 
+de 
+Defensa. 
+Mando 
+de 
+Adiestramiento y Doctrina. 
+E-mail: cmt_teleno@mde.es  
+TEL: +34-987 638 603. 
+ 
+ 
+Ejercicios tiro terrestre, naval y aire-tierra // 
+Ground, naval and air-to-ground firing 
+exercises. 
+Permanente // Permanent. 
+Otras actividades anunciadas por NOTAM // 
+Other activities announced by NOTAM. 
+Ampliación del límite superior anunciado por 
+NOTAM // Upper limit extension announced by 
+NOTAM. 
+Coordinación con // Coordination with: 
+CANA
