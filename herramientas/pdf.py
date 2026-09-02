@@ -31,7 +31,11 @@ from reportlab.pdfgen import canvas
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENCABEZADO = "TOAC – Temarios de Oposiciones"
-PIE_DERECHA = "Oposiciones RTVE – Temario General"
+# El pie de página lo pone cada volumen: el general y el específico no se
+# llaman igual, y un pie equivocado en doscientas páginas es de los errores que
+# nadie relee. Se lee del propio HTML, que lo escribe `libro.py`, y sólo si no
+# está se usa el del temario general.
+PIE_POR_DEFECTO = "Oposiciones RTVE – Temario General"
 TINTA = HexColor("#5a6b86")
 A4 = (595.28, 841.89)
 VUELTAS = 4
@@ -73,7 +77,7 @@ def numera_indice(html, paginas):
     return re.sub(r'<span class="ip" data-ref="([^"]+)">[^<]*</span>', pon, html)
 
 
-def adorna(entrada, portada_limpia=True):
+def adorna(entrada, pie=PIE_POR_DEFECTO, portada_limpia=True):
     """Dibuja encabezado y pie encima de cada página, menos en la portada.
 
     Se clona el documento entero en vez de ir añadiendo páginas sueltas: así se
@@ -94,7 +98,7 @@ def adorna(entrada, portada_limpia=True):
             c.drawRightString(A4[0] - 51, A4[1] - 38, ENCABEZADO)
             c.setFont("Times-Roman", 8.5)
             c.drawString(51, 34, "Página %d de %d" % (n, total))
-            c.drawRightString(A4[0] - 51, 34, PIE_DERECHA)
+            c.drawRightString(A4[0] - 51, 34, pie)
         c.showPage()
     c.save()
     buf.seek(0)
@@ -154,7 +158,11 @@ def main():
             html = numera_indice(fuente, paginas)
         navegador.close()
 
-    escritor = adorna(crudo)
+    # el pie va escrito en el HTML por libro.py, en un comentario, para que el
+    # PDF no tenga que adivinar de qué volumen se trata
+    m = re.search(r"<!-- pie: (.+?) -->", fuente)
+    pie = m.group(1) if m else PIE_POR_DEFECTO
+    escritor = adorna(crudo, pie)
     marcadores(escritor, [(nivel, num, tit, paginas.get(anc))
                           for nivel, anc, num, tit in indice_del_html(html)])
     paginas_totales = len(escritor.pages)

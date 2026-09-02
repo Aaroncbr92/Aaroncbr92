@@ -476,6 +476,25 @@ en Documentación y en Producción (Asistencia).
       misma frase dicha dos veces —«las páginas de EFE y de Reuters no se han podido consultar»—, y
       al reescribir la segunda salió información nueva: **cuál de las cuatro agencias sí se pudo
       leer y qué respondió cada una de las otras tres**.
+- [x] **El bloque específico de Producción (Asistencia), entregado como volumen imprimible**:
+      `libro-produccion.pdf` —**221 páginas**, con encabezado, pie, «Página X de Y» e índice
+      paginado y navegable— y `libro-produccion.docx`. **Diecisiete temas, diecisiete esquemas de
+      repaso y las 123 preguntas reales**, con las respuestas al final del volumen.
+- [x] **`libro.py`, `word.py` y `pdf.py` sirven ya para los dos bloques sin duplicar código.** Todo
+      lo que cambia entre el general y el específico —qué temas, de qué carpeta, cómo se titula el
+      volumen, qué pie lleva y qué avisos se imprimen con las respuestas— vive en un solo
+      diccionario, `BLOQUES`. **Un volumen escrito dos veces se desincroniza a la primera
+      corrección**, y cuando lleguen Documentación e Información y Contenidos bastará con añadir
+      una entrada.
+- [x] **Comprobado que el cambio no toca el volumen general**: regenerado con la herramienta nueva,
+      su `.docx` sale con **exactamente los mismos 5.577 párrafos** salvo una frase que se
+      generalizó a propósito, y su `.html` sólo difiere en dónde parte los renglones.
+- [x] **El apéndice de respuestas del específico avisa de cinco enunciados defectuosos.** A
+      diferencia del general, aquí **ninguna respuesta oficial está mal**; lo que está mal son
+      **cinco enunciados**: el de la realidad aumentada, con los términos invertidos; el que pide
+      lo que «la DCI 4K estandariza para televisión»; el que fecha la ley de televisión privada en
+      1998; el de las 24 imágenes por segundo, cuyo distractor descartado **no es falso**; y el del
+      Titan Tube, cuya «marca comercial alemana» sí está comprobada. Van impresos con su respuesta.
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III

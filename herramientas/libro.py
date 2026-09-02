@@ -15,8 +15,15 @@ con el índice; en papel hay que decidir un orden y sostenerlo. El de aquí:
      autoevaluación posible; y separadas caben las advertencias sobre las
      plantillas oficiales que están mal, que en la misma página serían ruido.
 
-Uso:  libro.py [salida.html]
-      python3 herramientas/libro.py && python3 herramientas/pdf.py
+El mismo armazón sirve para los dos bloques —el general y el específico de
+Producción (Asistencia)—, que se diferencian en qué temas llevan, de qué carpeta
+salen y qué avisos hay que imprimir con las respuestas. Todo eso está en
+`BLOQUES`, y **no se duplica el código**: un volumen escrito dos veces se
+desincroniza a la primera corrección.
+
+Uso:  libro.py [general|produccion] [salida.html]
+      python3 herramientas/libro.py general    && python3 herramientas/pdf.py
+      python3 herramientas/libro.py produccion && python3 herramientas/pdf.py libro-produccion.html
 """
 import glob
 import html
@@ -30,23 +37,22 @@ from markdown_it import MarkdownIt
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CORTE = "21 de diciembre de 2022"
 
-# Orden del programa oficial. Los temas 2 y 3 comparten banco de preguntas, así
-# que el juego va detrás del 3, que es el corto y el que depende del 2.
-TEMAS = [
-    ("01-constitucion-espanola", "g1"),
-    ("02-ley-17-2006", None),
-    ("03-ley-5-2017", "g2-g3"),
-    ("04-ley-8-2009", "g4"),
-    ("05-convenio-colectivo", "g5"),
-    ("06-igualdad", "g6"),
-    ("07-ley-13-2022", "g7"),
-    ("08-ley-31-1995", "g8"),
-]
+# Los dos bloques. Cada uno dice **de dónde salen sus temas**, **cómo se
+# presenta el volumen** y **qué avisos van con las respuestas**. Cuando el
+# temario crezca —Documentación e Información y Contenidos—, se añade una
+# entrada aquí y no se toca nada más.
+#
+# En el general, los temas 2 y 3 comparten banco de preguntas, así que el juego
+# va detrás del 3, que es el corto y el que depende del 2.
+#
+# «avisos» recoge lo que hay que imprimir junto a la respuesta de una pregunta
+# concreta. En el general son **erratas de la plantilla oficial**: respuestas
+# dadas por buenas que la norma desmiente. En el específico no hay ninguna
+# errata de respuesta, pero sí **enunciados defectuosos**, que engañan igual y
+# se avisan igual. Un volumen que copia la plantilla sin avisar enseña mal justo
+# lo que el opositor va a memorizar.
 
-# Erratas comprobadas de las plantillas oficiales, documentadas en PENDIENTES.md.
-# Se imprimen con la pregunta y con la respuesta, porque un volumen que copia la
-# plantilla sin avisar enseña mal justo lo que el opositor va a memorizar.
-ERRATAS = {
+ERRATAS_GENERAL = {
     "81_preguntas_produccion · nº 32":
         "La plantilla da <b>b) Título segundo</b>. Es <b>a) Título primero</b>: los derechos y "
         "deberes fundamentales son el Título I (arts. 10 a 55); el Título II es el de la Corona.",
@@ -57,6 +63,103 @@ ERRATAS = {
         "La plantilla da <b>c) 4</b>. Son <b>b) 3</b>: el art. 35.2 de la Ley 31/1995 asigna "
         "3 Delegados de 101 a 500 trabajadores; el 4 es el tramo de 501 a 1.000.",
 }
+
+AVISOS_PRODUCCION = {
+    "77_preguntas_produccion_asist · nº 78":
+        "<b>El enunciado tiene los términos invertidos.</b> Pide la tecnología de «superponer una "
+        "imagen real sobre el entorno virtual», y la realidad aumentada superpone <b>lo virtual "
+        "sobre lo real</b>. La respuesta oficial es la única posible entre las cuatro opciones; "
+        "quien intente razonar el enunciado al pie de la letra se bloquea.",
+    "78_preguntas_produccion_asist_2_llamamiento · nº 29":
+        "<b>El enunciado mezcla cine y televisión.</b> Pide lo que «la DCI 4K estandariza para "
+        "televisión», y la iniciativa de cine digital estandariza <b>cine</b>: su 4K es "
+        "<b>4 096 × 2 160</b>. El 4K de televisión es <b>3 840 × 2 160</b>, que es lo que el "
+        "propio enunciado remata pidiendo, «en UHD 16:9».",
+    "77_preguntas_produccion_asist · nº 61":
+        "<b>El distractor c) no es falso.</b> La Recomendación UIT-R BT.2100-1 incluye <b>24</b> "
+        "y 24/1,001 entre sus frecuencias de trama de televisión. Lo que decide la pregunta es la "
+        "palabra <b>«tradicionalmente»</b>: las 24 imágenes por segundo vienen del cine "
+        "fotoquímico.",
+    "77_preguntas_produccion_asist · nº 81":
+        "<b>El enunciado fecha mal una ley y cita otra derogada.</b> La ley de televisión privada "
+        "es la <b>Ley 10/1988, de 3 de mayo</b> —el día y el mes del enunciado coinciden; el año, "
+        "no—; y la <b>Ley 7/2010</b> está derogada por la disposición derogatoria única de la "
+        "Ley 13/2022.",
+    "77_preguntas_produccion_asist · nº 44":
+        "<b>La opción correcta dice «marca comercial alemana».</b> Lo alemán está comprobado: el "
+        "informe de ensayo de seguridad fotobiológica del Titan Tube identifica al solicitante "
+        "como <b>Astera LED Technology GmbH, de Múnich</b>.",
+}
+
+BLOQUES = {
+    "general": dict(
+        carpeta="general",
+        rotulo="Temario general",
+        titulo="Temario general",
+        subtitulo="Los ocho temas comunes a Producción (Asistencia),<br>"
+                  "Documentación e Información y Contenidos",
+        pie="Oposiciones RTVE – Temario General",
+        avisos=ERRATAS_GENERAL,
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[
+            ("01-constitucion-espanola", "g1"),
+            ("02-ley-17-2006", None),
+            ("03-ley-5-2017", "g2-g3"),
+            ("04-ley-8-2009", "g4"),
+            ("05-convenio-colectivo", "g5"),
+            ("06-igualdad", "g6"),
+            ("07-ley-13-2022", "g7"),
+            ("08-ley-31-1995", "g8"),
+        ],
+        aviso_respuestas="<b>Tres respuestas oficiales están mal</b> y van avisadas debajo de su "
+                         "tabla: el volumen enseña la norma, no la plantilla.",
+        aviso_portada="<p><b>Tres respuestas oficiales de 2024 están mal.</b> Van marcadas una a "
+                      "una en el apéndice, con el precepto que las desmiente. El temario enseña "
+                      "la norma, no la plantilla.</p>",
+    ),
+    "produccion": dict(
+        carpeta="produccion",
+        rotulo="Temario específico · Producción (Asistencia)",
+        titulo="Temario específico",
+        subtitulo="Los diecisiete temas de <b>Producción (Asistencia)</b>",
+        pie="Oposiciones RTVE – Producción (Asistencia)",
+        avisos=AVISOS_PRODUCCION,
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), "produccion-%02d" % n) for n, base in [
+            (1, "la-produccion"), (2, "propiedad-intelectual"), (3, "el-guion"),
+            (4, "el-desglose"), (5, "localizacion"), (6, "plan-y-orden-de-trabajo"),
+            (7, "equipos-humanos"), (8, "formatos-y-soportes"),
+            (9, "escenografia-e-iluminacion"), (10, "imagen-y-sonido"),
+            (11, "transmision-de-senal"), (12, "el-estudio"),
+            (13, "equipos-de-exteriores"), (14, "documentacion-internacional"),
+            (15, "organismos"), (16, "gestion-de-servicios"),
+            (17, "proteccion-de-datos"),
+        ]],
+        aviso_respuestas="<b>Ninguna respuesta oficial de este bloque está mal</b>, pero "
+                         "<b>cinco enunciados sí lo están</b> —uno con los términos invertidos, "
+                         "otro que mezcla cine y televisión, otro con una ley mal fechada—: van "
+                         "avisados debajo de su tabla.",
+        aviso_portada="<p><b>Ninguna respuesta oficial de este bloque está mal, pero cinco "
+                      "enunciados sí.</b> Uno invierte los términos, otro mezcla cine y "
+                      "televisión, otro fecha mal una ley y cita otra derogada, y en otro el "
+                      "distractor descartado <i>no es falso</i>. Van marcados uno a uno en el "
+                      "apéndice. El temario contesta lo que corrige el tribunal <b>y dice dónde "
+                      "está la costura</b>.</p>",
+    ),
+}
+
+# La portada dice «Ocho temas», no «8 temas»: en una portada las cifras bajas se
+# escriben con letra. Con dos bloques hay que generarlo, y no hace falta más que
+# los números que este temario puede tener.
+LETRA = {2: "Dos", 3: "Tres", 4: "Cuatro", 5: "Cinco", 6: "Seis", 7: "Siete",
+         8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 17: "Diecisiete"}
+
+
+def con_letra(n):
+    return LETRA.get(n, str(n))
+
 
 md = MarkdownIt("commonmark").enable("table").enable("strikethrough")
 
@@ -281,11 +384,16 @@ table.claves td { background:#fff; font-weight:bold; }
 
 
 def main():
-    salida = sys.argv[1] if len(sys.argv) > 1 else "libro-general.html"
+    argv = sys.argv[1:]
+    clave = argv[0] if argv and argv[0] in BLOQUES else "general"
+    argv = argv[1:] if argv and argv[0] in BLOQUES else argv
+    B = BLOQUES[clave]
+    salida = argv[0] if argv else "libro-%s.html" % clave
+    TEMAS = [list(x) for x in B["temas"]]
 
     partes, indice_gral, total_preg = [], [], 0
-    for i, (base, banco) in enumerate(TEMAS, 1):
-        crudo = sin_marcas(lee("temas/general/%s.md" % base))
+    for i, (base, banco) in enumerate(B["temas"], 1):
+        crudo = sin_marcas(lee("temas/%s/%s.md" % (B["carpeta"], base)))
         titulo = re.search(r"(?m)^# (.+)$", crudo).group(1)
         cuerpo = re.sub(r"(?m)^# .+$\n", "", crudo, count=1)
         # fuera el índice del propio tema: el volumen lleva el suyo
@@ -296,7 +404,7 @@ def main():
             ficha = md.render(mt.group(1))
             resto = cuerpo[mt.end():]
 
-        esquema = sin_marcas(lee("esquemas/general/%s.md" % base))
+        esquema = sin_marcas(lee("esquemas/%s/%s.md" % (B["carpeta"], base)))
         esquema = re.sub(r"(?m)^# .+$\n", "", esquema, count=1)
         esquema = re.sub(r"## Índice\n.*?(?=\n## )", "", esquema, flags=re.S)
 
@@ -304,7 +412,7 @@ def main():
         indice_gral.append((i, titulo, entradas))
 
         bloque = ['<section class="tema" id="tema-%d">' % i]
-        bloque.append('<p class="rotulo">Temario general</p>')
+        bloque.append('<p class="rotulo">%s</p>' % html.escape(B["rotulo"]))
         bloque.append("<h1>TEMA %d – %s</h1>"
                       % (i, html.escape(titulo.split("·", 1)[-1].strip())))
         if ficha:
@@ -323,7 +431,7 @@ def main():
             bloque.append("".join(pinta_pregunta(n, e)
                                   for n, (_, e, _) in enumerate(ps, 1)))
             bloque.append("</section>")
-            TEMAS[i - 1] = (base, banco, ps)
+            TEMAS[i - 1] = [base, banco, ps]
         bloque.append("</section>")
         partes.append("\n".join(bloque))
 
@@ -332,8 +440,7 @@ def main():
             '<h1>Respuestas oficiales</h1>',
             "<p>La respuesta es la de la <b>plantilla oficial</b> del examen, y el número "
             "es el que la pregunta lleva impreso en su tema. "
-            "<b>Tres respuestas oficiales están mal</b> y van avisadas debajo de su tabla: "
-            "el volumen enseña la norma, no la plantilla.</p>"]
+            + B["aviso_respuestas"] + "</p>"]
     for i, t in enumerate(TEMAS, 1):
         if len(t) < 3:
             continue
@@ -343,8 +450,8 @@ def main():
         # la respuesta se busca por el número con el que la pregunta está impresa;
         # el cuadernillo del que salió ya no se imprime, que al opositor no le dice nada
         sueltas = [(n, r) for n, (_, _, r) in enumerate(ps, 1)]
-        erratas = [(n, ERRATAS[ident]) for n, (ident, _, _) in enumerate(ps, 1)
-                   if ident in ERRATAS]
+        erratas = [(n, B["avisos"][ident]) for n, (ident, _, _) in enumerate(ps, 1)
+                   if ident in B["avisos"]]
         filas, POR_FILA = [], 10
         for a in range(0, len(sueltas), POR_FILA):
             trozo = sueltas[a:a + POR_FILA]
@@ -353,7 +460,8 @@ def main():
                             "".join("<td>%s</td>" % html.escape(r) for _, r in trozo)))
         resp.append('<table class="claves">%s</table>' % "".join(filas))
         for n, texto in erratas:
-            resp.append('<div class="errata"><b>Ojo con la %d:</b> %s</div>' % (n, texto))
+            resp.append('<div class="%s"><b>%s %d:</b> %s</div>'
+                        % (B["clase_aviso"], B["rotulo_aviso"], n, texto))
     resp.append("</section>")
 
     ig = []
@@ -364,15 +472,15 @@ def main():
             ig.append(linea_indice(nivel, numero, titulo, ancla))
 
     doc = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
-<title>Temario general · Oposiciones RTVE</title><style>{CSS}</style></head><body>
+<!-- pie: {B["pie"]} -->
+<title>{B["titulo"]} · Oposiciones RTVE</title><style>{CSS}</style></head><body>
 <section class="portada-vol">
   <p class="rotulo">Oposiciones RTVE · convocatorias 1/2022 y 3/2022</p>
-  <h1>Temario general</h1>
-  <p class="sub">Los ocho temas comunes a Producción (Asistencia),<br>
-     Documentación e Información y Contenidos</p>
+  <h1>{B["titulo"]}</h1>
+  <p class="sub">{B["subtitulo"]}</p>
   <div class="meta">
     Redacción vigente a <b>{CORTE}</b><br>
-    Ocho temas · ocho esquemas de repaso · <b>{total_preg}</b> preguntas reales de examen<br>
+    {con_letra(len(TEMAS))} temas · {con_letra(len(TEMAS)).lower()} esquemas de repaso · <b>{total_preg}</b> preguntas reales de examen<br>
     Generado el {date.today().strftime('%d/%m/%Y')}
   </div>
 </section>
@@ -389,8 +497,7 @@ marcados como <i>notas de actualización</i>, y <b>no es materia examinable</b>.
 repasar, que va detrás y no delante a propósito; y las <b>preguntas reales</b> de los
 cuadernillos de 2024, para comprobar si el tema se sostiene. <b>Las respuestas están al final
 del volumen</b>, no junto a la pregunta: con la respuesta a la vista no hay autoevaluación.</p>
-<p><b>Tres respuestas oficiales de 2024 están mal.</b> Van marcadas una a una en el apéndice,
-con el precepto que las desmiente. El temario enseña la norma, no la plantilla.</p>
+{B["aviso_portada"]}
 <p><b>Las preguntas se imprimen tal como salieron del examen</b>, sin más limpieza que
 quitarles el pie de página. Son transcripciones de los cuadernillos oficiales y traen sus
 costuras: alguna arrastra una letra mal reconocida. <b>Están leídas una a una</b> y colocadas
@@ -408,7 +515,7 @@ trazabilidad de cada tema.</p>
 
     # si una errata deja de casar con su pregunta, desaparece del apéndice sin
     # decir nada: el volumen volvería a dar por buena una plantilla que está mal
-    sueltas = set(ERRATAS) - {i for t in TEMAS if len(t) > 2 for i, _, _ in t[2]}
+    sueltas = set(B["avisos"]) - {i for t in TEMAS if len(t) > 2 for i, _, _ in t[2]}
     if sueltas:
         print("  ! erratas sin pregunta a la que pegarse: %s" % ", ".join(sorted(sueltas)))
 

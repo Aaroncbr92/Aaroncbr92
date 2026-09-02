@@ -50,15 +50,19 @@ from docx.shared import Cm, Pt, RGBColor
 from markdown_it import MarkdownIt
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from libro import (CORTE, ERRATAS, RAIZ, TEMAS, lee, numera, ordena_opciones,
+from libro import (BLOQUES, CORTE, RAIZ, con_letra, lee, numera, ordena_opciones,
                    preguntas, sin_marcas)
+
+# El bloque que se está componiendo. Lo fija main() a partir del argumento, y
+# vive en un módulo aparte porque media docena de funciones lo necesitan y
+# pasarlo por parámetro a todas ensuciaría sus firmas sin ganar nada.
+B = BLOQUES["general"]
 
 md = MarkdownIt("commonmark").enable("table").enable("strikethrough")
 
 GRIS = RGBColor(0x66, 0x66, 0x66)
 TINTA = RGBColor(0x5A, 0x6B, 0x86)
 ENCABEZADO = "TOAC – Temarios de Oposiciones"
-PIE_DERECHA = "Oposiciones RTVE – Temario General"
 NEGRO = RGBColor(0x11, 0x11, 0x11)
 
 
@@ -186,7 +190,7 @@ def cabecera_y_pie(doc):
     campo(pie, " PAGE ")
     pie.add_run(" de ")
     campo(pie, " NUMPAGES ")
-    pie.add_run("\t" + PIE_DERECHA)
+    pie.add_run("\t" + B["pie"])
 
 
 def prepara(doc):
@@ -412,7 +416,7 @@ def salto(doc):
 # ── el volumen ───────────────────────────────────────────────────────────────
 
 def parte_tema(doc, numero, base, banco):
-    crudo = sin_marcas(lee("temas/general/%s.md" % base))
+    crudo = sin_marcas(lee("temas/%s/%s.md" % (B["carpeta"], base)))
     titulo = re.search(r"(?m)^# (.+)$", crudo).group(1)
     cuerpo = re.sub(r"(?m)^# .+$\n", "", crudo, count=1)
     cuerpo = re.sub(r"## Índice\n.*?(?=\n## )", "", cuerpo, flags=re.S)
@@ -424,7 +428,7 @@ def parte_tema(doc, numero, base, banco):
 
     resto, _ = numera(resto, numero)
     salto(doc)
-    doc.add_paragraph("Temario general", style="Rótulo")
+    doc.add_paragraph(B["rotulo"], style="Rótulo")
     doc.add_paragraph("TEMA %d – %s" % (numero, titulo.split("·", 1)[-1].strip()),
                       style="Heading 1")
     if ficha:
@@ -438,7 +442,7 @@ def parte_tema(doc, numero, base, banco):
         doc.add_paragraph(style="Normal")
     vuelca(doc, resto)
 
-    esquema = sin_marcas(lee("esquemas/general/%s.md" % base))
+    esquema = sin_marcas(lee("esquemas/%s/%s.md" % (B["carpeta"], base)))
     esquema = re.sub(r"(?m)^# .+$\n", "", esquema, count=1)
     esquema = re.sub(r"## Índice\n.*?(?=\n## )", "", esquema, flags=re.S)
     salto(doc)
@@ -479,16 +483,38 @@ def pinta_pregunta(doc, n, enunciado):
 def portada(doc, total_preg, cuantos):
     doc.add_paragraph("Oposiciones RTVE · convocatorias 1/2022 y 3/2022",
                       style="Portada rótulo")
-    doc.add_paragraph("Temario general", style="Title")
-    doc.add_paragraph("Los ocho temas comunes a Producción (Asistencia), "
-                      "Documentación e Información y Contenidos", style="Subtitle")
-    cuerpo = ("Ocho temas · ocho esquemas de repaso" if cuantos == 8 else
-              "Tema %d de ocho, con su esquema de repaso"
-              % cuantos if cuantos == 1 else "%d de los ocho temas" % cuantos)
+    doc.add_paragraph(B["titulo"], style="Title")
+    doc.add_paragraph(re.sub(r"</?b>|<br>", " ", B["subtitulo"]).replace("  ", " ").strip(),
+                      style="Subtitle")
+    todos = len(B["temas"])
+    cuerpo = ("%s temas · %s esquemas de repaso"
+              % (con_letra(todos), con_letra(todos).lower()) if cuantos == todos else
+              "Tema %d de %s, con su esquema de repaso"
+              % (cuantos, con_letra(todos).lower()) if cuantos == 1 else
+              "%d de los %s temas" % (cuantos, con_letra(todos).lower()))
     for l in ("Redacción vigente a %s" % CORTE,
               "%s · %d preguntas reales de examen" % (cuerpo, total_preg),
               "Generado el %s" % date.today().strftime("%d/%m/%Y")):
         doc.add_paragraph(l, style="Portada dato")
+
+
+def _troceado(html_):
+    """Parte el aviso del bloque en (texto, negrita), que es lo que Word necesita.
+
+    El aviso está escrito una sola vez, en `libro.py`, y de ahí lo toman los dos
+    formatos: el HTML lo imprime tal cual y aquí se le quitan las etiquetas y se
+    convierten sus negritas en tramos. Escribirlo dos veces sería garantizar que
+    un día digan cosas distintas.
+    """
+    import re as _re
+    crudo = _re.sub(r"</?p>", "", html_).strip()
+    fuera = []
+    for trozo in _re.split(r"(<b>.*?</b>|<i>.*?</i>)", crudo, flags=_re.S):
+        if not trozo:
+            continue
+        negrita = trozo.startswith("<b>")
+        fuera.append((_re.sub(r"</?[bi]>", "", trozo), negrita))
+    return fuera
 
 
 def aviso(doc):
@@ -509,13 +535,11 @@ def aviso(doc):
           "propósito; y las preguntas reales de los cuadernillos de 2024, para comprobar "
           "si el tema se sostiene. Las respuestas están al final del volumen, no junto a "
           "la pregunta: con la respuesta a la vista no hay autoevaluación.", False)],
-        [("Tres respuestas oficiales de 2024 están mal.", True),
-         (" Van marcadas una a una en el apéndice, con el precepto que las desmiente. El "
-          "temario enseña la norma, no la plantilla.", False)],
+        _troceado(B["aviso_portada"]),
         [("Las preguntas se imprimen tal como salieron del cuadernillo", True),
          (", sin más limpieza que quitarles el pie de página. Están leídas una a una: las "
           "que la clasificación por palabras clave había puesto en el tema que no les "
-          "tocaba —o que no son del temario general— se recolocaron contra la fuente.",
+          "tocaba —o que no son de este bloque— se recolocaron contra la fuente.",
           False)],
         [("Nada de aquí se ha escrito de memoria.", True),
          (" Cada dato se ha leído en el texto consolidado del BOE en su redacción a la "
@@ -581,10 +605,10 @@ def respuestas(doc, hechos):
             filas.append([md.parse("**%s**" % r)[1] for _, r in trozo])
         escribe_tabla(doc, filas, False, alterna=True)
         for n, (ident, _, _) in enumerate(ps, 1):
-            if ident in ERRATAS:
+            if ident in B["avisos"]:
                 p = doc.add_paragraph(style="Aviso")
-                p.add_run("Ojo con la %d: " % n).bold = True
-                p.add_run(re.sub(r"</?b>", "", ERRATAS[ident]))
+                p.add_run("%s %d: " % (B["rotulo_aviso"], n)).bold = True
+                p.add_run(re.sub(r"</?b>|</?i>", "", B["avisos"][ident]))
                 _recuadra(p)
 
 
@@ -649,8 +673,12 @@ def muestrario(doc):
 
 
 def main():
+    global B
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    salida = args[0] if args else "libro-general.docx"
+    clave = args[0] if args and args[0] in BLOQUES else "general"
+    args = args[1:] if args and args[0] in BLOQUES else args
+    B = BLOQUES[clave]
+    salida = args[0] if args else "libro-%s.docx" % clave
     quiere = None
     for a in sys.argv[1:]:
         if a.startswith("--temas"):
@@ -658,12 +686,12 @@ def main():
             quiere = {int(x) for x in re.findall(r"\d+", valor)}
 
     doc = prepara(Document())
-    elegidos = [(i, base, banco) for i, (base, banco) in enumerate(TEMAS, 1)
+    elegidos = [(i, base, banco) for i, (base, banco) in enumerate(B["temas"], 1)
                 if quiere is None or i in quiere]
 
     entradas, hechos, total = [], [], 0
     for numero, base, _ in elegidos:
-        crudo = sin_marcas(lee("temas/general/%s.md" % base))
+        crudo = sin_marcas(lee("temas/%s/%s.md" % (B["carpeta"], base)))
         titulo = re.search(r"(?m)^# (.+)$", crudo).group(1)
         cuerpo = re.sub(r"## Índice\n.*?(?=\n## )", "", crudo, flags=re.S)
         entradas.append((numero, titulo, re.findall(r"(?m)^## (.+)$", cuerpo)))
