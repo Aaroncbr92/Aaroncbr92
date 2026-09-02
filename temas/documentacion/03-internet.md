@@ -8,7 +8,7 @@
 | **Sirve para** | **Documentación** |
 | **Fuente** | **Sin norma en el enunciado**, y con las cuatro clases de fuente del proyecto detrás: el **Real Decreto 635/2015** del depósito legal en línea y la **Sentencia 27/2020 del Tribunal Constitucional**, las dos publicadas en el BOE; la especificación **EBU Tech 3293** y la documentación del **W3C**; y las páginas de ayuda de los propios buscadores |
 | **Identificador** | `BOE-A-2015-8338` · `BOE-A-2020-4112` · `EBU Tech 3293 v.1.10` · RDF Primer del **W3C** |
-| **Redacción que se estudia** | El **real decreto en su texto vigente al 21/12/2022**, la **sentencia tal como la publicó el BOE**, la especificación en su **versión 1.10, de abril de 2020**, y las páginas **tal como estaban el 03/09/2026** |
+| **Redacción que se estudia** | El **real decreto en su texto vigente al 21/12/2022**, la **sentencia tal como la publicó el BOE**, la especificación en su **versión 1.10, de abril de 2020**, y las páginas **tal como estaban el 02/09/2026** |
 | **Aviso sobre las fuentes** | De sus **8 preguntas**, **6 se verifican en documento**: dos en el BOE, una en la especificación de la Unión Europea de Radiodifusión, una en la documentación del W3C y dos en la ayuda de los propios buscadores. Las **2 restantes** —la expresión booleana y el año de una red social— se apoyan **sólo en la plantilla oficial**, y van marcadas |
 | **Extensión** | **4.672 palabras** |
 

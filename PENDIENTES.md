@@ -328,7 +328,7 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 
 ---
 
-## Cuatro siglas sin presentar en el tema 7 del bloque general
+## Cuatro siglas sin presentar en el tema 7 del bloque general — cerrado el 2026-09-02
 
 - **Detectado el 2026-09-02**, al corregir la lente de prosa. Buscaba la primera aparición de
   cada sigla **como trozo y no como palabra**, de modo que la encontraba dentro de otra
@@ -340,10 +340,20 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
   de la copa femenina de tenis y la de la interfaz por la que se volcó la norma—. Los demás
   avisos de los otros temas son **falsos positivos**: palabras en mayúsculas usadas como
   énfasis, y trozos de «CC.AA.» y «NO-DO».
-- **Por qué no se toca ahora**: ese tema está impreso en `libro-general.pdf`, ya entregado.
-  Cambiar el texto sin regenerar el volumen dejaría el fichero y el libro desalineados.
-- **Qué haría falta**: presentar las cuatro siglas con su desarrollo entre paréntesis
-  —comprobando cada desarrollo en la propia norma, que es donde están— y **regenerar los tres
-  formatos del volumen general** en la misma pasada.
-- **Gravedad**: menor. No hay ningún dato equivocado; hay cuatro siglas que el lector tiene
-  que deducir del contexto.
+- **Aplicado el 2026-09-02**, aprovechando que el volumen general **había que reimprimirlo de
+  todos modos**: al repartir el bloque de Información y Contenidos volvieron dos preguntas al
+  banco del III Convenio, y el general pasó de **479 a 481** preguntas. Desaparecida la razón
+  para aplazarlo, se aplicó:
+  - **CNMC**: la ley **nunca usa la sigla** —escribe siempre «Comisión Nacional de los Mercados
+    y la Competencia»—, así que la sigla es del tema y se presenta en su primera aparición, la
+    del artículo 54 de los contratos-programa.
+  - **API**: «Volcada la norma entera desde la **interfaz de programación (API)** de legislación
+    consolidada».
+  - **RFEF** y **FED**: aquí no se podía presentar dentro de la frase, porque **las dos van
+    dentro de la cita literal del artículo 146.3** —«Primera División femenina RFEF», «Copa
+    Davis y Copa FED»— y **la ley no las desarrolla**. Se presentan **antes de la cita**, con esa
+    advertencia: la de la Real Federación Española de Fútbol y la de la antigua Copa Federación
+    de tenis. Meter el desarrollo dentro de las comillas habría sido reescribir la ley.
+- **Regenerados los tres formatos** del volumen general en la misma pasada: 254 páginas.
+- **Gravedad**: menor, y era menor. No había ningún dato equivocado; había cuatro siglas que el
+  lector tenía que deducir del contexto.

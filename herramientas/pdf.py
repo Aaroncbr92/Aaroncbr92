@@ -137,7 +137,14 @@ def indice_del_html(html):
 
 def main():
     entrada = sys.argv[1] if len(sys.argv) > 1 else "libro-general.html"
-    salida = sys.argv[2] if len(sys.argv) > 2 else "libro-general.pdf"
+    # el destino por defecto sale **del fichero de entrada**, no de un nombre
+    # fijo. Con `libro-general.pdf` de constante, componer el volumen de
+    # Documentación con un solo argumento escribía el general encima, y el
+    # script lo anunciaba como éxito: «libro-general.pdf · 96 páginas», que es
+    # el aviso mirando hacia otro lado
+    salida = sys.argv[2] if len(sys.argv) > 2 else re.sub(r"\.html$", ".pdf", entrada)
+    if not salida.endswith(".pdf"):
+        sys.exit("el destino tiene que ser un .pdf, y es %r" % salida)
     fuente = open(os.path.join(RAIZ, entrada), encoding="utf-8").read()
     anclas = re.findall(r'<div class="ii n\d"><a href="#([^"]+)"', fuente)
     trabajo = os.path.join(RAIZ, entrada[:-5] + "-paginado.html")

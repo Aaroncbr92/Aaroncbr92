@@ -8,7 +8,7 @@
 | **Sirve para** | **Documentación** |
 | **Fuente** | **Sin norma en el enunciado**, pero con norma detrás en sus dos fechas grandes: el **Real Decreto 895/1988**, que acuerda la fusión de las dos radios públicas, y la **Ley 17/2006**, que crea la Corporación y ordena su estructura territorial. La historia de los programas se apoya en el **archivo de la propia RTVE** |
 | **Identificador** | `BOE-A-1988-19445` · `BOE-A-2004-7529` · `BOE-A-2006-9958` · fichas de **RTVE Play** y páginas de **rtve.es** |
-| **Redacción que se estudia** | El **real decreto de 1988 tal como lo publicó el BOE**, la **Ley 17/2006 en su texto vigente al 21/12/2022** y las páginas de RTVE **tal como estaban el 03/09/2026** |
+| **Redacción que se estudia** | El **real decreto de 1988 tal como lo publicó el BOE**, la **Ley 17/2006 en su texto vigente al 21/12/2022** y las páginas de RTVE **tal como estaban el 02/09/2026** |
 | **Aviso sobre las fuentes** | De sus **11 preguntas**, **10 se han podido verificar en documento**: dos en el BOE, siete en páginas de RTVE y una en una nota de prensa del portal público de televisión digital. La **undécima** —el año de «Cita con Pilar»— se apoya **sólo en la plantilla oficial**: el programa **no figura en el catálogo de RTVE Play**, y va marcado |
 | **Extensión** | **4.720 palabras** |
 

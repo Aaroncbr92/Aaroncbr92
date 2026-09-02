@@ -1,7 +1,7 @@
 # Esquema · Tema 1 del específico de Documentación · Historia de RTVE
 
 Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = norma publicada en el Boletín ·
-`[RTVE]` = página o ficha de la propia casa, leída el 03/09/2026 · `[GOB]` = nota de prensa del
+`[RTVE]` = página o ficha de la propia casa, leída el 02/09/2026 · `[GOB]` = nota de prensa del
 portal público de televisión digital · `[uso]` = plantilla oficial, **sin documento detrás**.
 
 **Cabecera.** Enunciado: «HISTORIA DE RTVE: orígenes, desarrollo y estructura territorial» ·

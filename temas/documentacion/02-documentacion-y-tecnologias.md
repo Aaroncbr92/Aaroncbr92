@@ -8,7 +8,7 @@
 | **Sirve para** | **Documentación** |
 | **Fuente** | **Sin norma en el enunciado**, y con dos clases de fuente detrás: las **normas ISO del comité de información y documentación** —**ISO 25964** para los tesauros y los códigos normalizados de identificación— y la **Ley 16/1985 del Patrimonio Histórico Español**, que es la que define en el BOE qué es un documento y qué puede destruirse |
 | **Identificador** | `ISO 25964-1:2011` · `ISO 25964-2:2013` · `ISO 15707:2022` · `BOE-A-1985-12534` |
-| **Redacción que se estudia** | Las **normas ISO en la edición que se cita en cada caso**, leídas en **su muestra oficial** el **03/09/2026**, y la **ley en su texto vigente al 21/12/2022** |
+| **Redacción que se estudia** | Las **normas ISO en la edición que se cita en cada caso**, leídas en **su muestra oficial** el **02/09/2026**, y la **ley en su texto vigente al 21/12/2022** |
 | **Aviso sobre las fuentes** | De sus **9 preguntas**, **4 tienen norma internacional detrás**, leída en la muestra oficial del propio documento; **1 más se apoya en la ley del patrimonio** y **otra en un artículo firmado por la responsable del Fondo Documental de RTVE**. Las **3 restantes** —el modelo probabilístico, el resumen indicativo y la curación de contenidos— se apoyan **sólo en la plantilla oficial**, y van marcadas. **El texto íntegro de las normas ISO es de pago**, y aquí se dice qué parte se ha podido leer |
 | **Extensión** | **5.221 palabras** |
 

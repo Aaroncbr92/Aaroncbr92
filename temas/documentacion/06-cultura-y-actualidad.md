@@ -8,7 +8,7 @@
 | **Sirve para** | **Documentación** |
 | **Fuente** | **No hay una fuente, hay cuarenta preguntas.** Lo que sí hay es **un método**: para cada dato se busca **el documento que lo fija** —el BOE cuando es una norma o un nombramiento, la página del propio organismo cuando es una institución, el glosario oficial cuando es un término científico— y **se dice cuándo no se ha encontrado** |
 | **Identificador** | `BOE-A-2002-10139` · `BOE-A-1998-29216` · `BOE-A-2010-18683` · `BOE-A-2010-19462` · `BOE-A-2022-7653` · `BOE-A-1975-23743` · `BOE-A-2014-6476` · `BOE-A-1978-31229` · `BOE-A-2010-927` |
-| **Redacción que se estudia** | Las **normas en su texto vigente al 21/12/2022**, los **nombramientos y decretos en su texto original publicado** y las **páginas institucionales tal como estaban el 03/09/2026** |
+| **Redacción que se estudia** | Las **normas en su texto vigente al 21/12/2022**, los **nombramientos y decretos en su texto original publicado** y las **páginas institucionales tal como estaban el 02/09/2026** |
 | **Aviso sobre las fuentes** | **Es el punto más preguntado del cuadernillo —40 de las 96 preguntas— y el más desigual.** **15 de sus 40 respuestas se han podido verificar en documento**: nueve en el BOE y seis en páginas de organismos oficiales. Las **25 restantes** se apoyan **sólo en la plantilla oficial**, y **van marcadas una a una**. Aquí no hay temario que estudiar: hay **datos que comprobar** |
 | **Extensión** | **6.461 palabras** |
 

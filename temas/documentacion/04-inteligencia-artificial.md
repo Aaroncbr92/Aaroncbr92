@@ -8,7 +8,7 @@
 | **Sirve para** | **Documentación** |
 | **Fuente** | **Sin norma en el enunciado, y sin norma en el BOE.** Las dos preguntas que tienen fuente se apoyan en el **instituto nacional de normas y tecnología de los Estados Unidos**, que define la tarea de diarización en sus evaluaciones, y en el **blog oficial de Google**, que anunció el modelo de lenguaje que la otra pregunta nombra |
 | **Identificador** | Evaluación **Rich Transcription** del **NIST** · anuncio oficial de **Google** de 25/10/2019 · artículo **arXiv 1810.04805** |
-| **Redacción que se estudia** | Las páginas y documentos **tal como estaban el 03/09/2026** |
+| **Redacción que se estudia** | Las páginas y documentos **tal como estaban el 02/09/2026** |
 | **Aviso sobre las fuentes** | **Es el tema con menos respaldo documental del bloque, y el más corto.** De sus **4 preguntas**, **2 tienen documento detrás**; las **2 restantes** —el módulo generativo prosódico y el recuento de palabras— se apoyan **sólo en la plantilla oficial**, y van marcadas. **No hay norma publicada** que defina estos términos: se ha buscado en todo el corpus del proyecto |
 | **Extensión** | **2.664 palabras** |
 

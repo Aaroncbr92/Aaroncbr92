@@ -679,6 +679,12 @@ def main():
     args = args[1:] if args and args[0] in BLOQUES else args
     B = BLOQUES[clave]
     salida = args[0] if args else "libro-%s.docx" % clave
+    # el primer argumento es la **clave del bloque**, no un fichero. Pasarle un
+    # `libro-documentacion.html` no daba error: lo tomaba por nombre de salida y
+    # guardaba un .docx **encima del HTML del volumen**
+    if not salida.endswith(".docx"):
+        sys.exit("el destino tiene que ser un .docx, y es %r.\n"
+                 "El primer argumento es el bloque: %s" % (salida, " | ".join(BLOQUES)))
     quiere = None
     for a in sys.argv[1:]:
         if a.startswith("--temas"):

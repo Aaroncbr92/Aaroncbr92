@@ -8,7 +8,7 @@
 | **Sirve para** | **Documentación** |
 | **Fuente** | **Sin norma en el enunciado**, y con **el respaldo documental más completo del bloque**: tres especificaciones técnicas —**SMPTE ST 377-1**, **EBU Tech 3285** y **ECMA-319**—, la recomendación profesional de preservación **IASA-TC 03**, dos descripciones de formato de la **Biblioteca del Congreso**, la página del **servicio audiovisual de la Comisión Europea**, la del fabricante del sistema que se pregunta y un artículo firmado por la **responsable del Fondo Documental de RTVE** |
 | **Identificador** | `SMPTE ST 377-1:2019` · `EBU Tech 3285 v2.0` · `ECMA-319 (2001)` · `IASA-TC 03, 4.ª ed., 2017` |
-| **Redacción que se estudia** | Cada especificación **en la edición que se cita**, y las páginas **tal como estaban el 03/09/2026** |
+| **Redacción que se estudia** | Cada especificación **en la edición que se cita**, y las páginas **tal como estaban el 02/09/2026** |
 | **Aviso sobre las fuentes** | **Es el único tema del bloque con las diez preguntas verificadas en documento.** Ninguna se apoya sólo en la plantilla. A cambio, **ninguna de sus fuentes está en el BOE**: son especificaciones de organismos de normalización, recomendaciones profesionales y documentación de quien fabrica o explota los sistemas |
 | **Extensión** | **5.008 palabras** |
 

@@ -805,7 +805,7 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   menos fuentes tiene, y no por descuido**: su materia no tiene norma publicada.
 
 - **2026-09-02 · Las fechas de esta sección iban un día adelantadas.** Dieciséis entradas y una
-  del cuaderno de pendientes decían **2026-09-03** en un trabajo que los commits fechan el **2**.
+  del cuaderno de pendientes decían **2026-09-02** en un trabajo que los commits fechan el **2**.
   Corregidas todas. No cambia ningún dato del temario, pero un histórico con la fecha mal es un
   histórico que no se puede cruzar con nada.
 
@@ -848,3 +848,26 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   tienen ni una pregunta**: sus temas se escribirán contra la norma y el documento, sin banco que
   los respalde, y su informe de cobertura lo dirá. Dos tercios del bloque son actualidad, que es
   justo la materia que no se estudia en una norma sino que se comprueba dato a dato.
+
+- **2026-09-02 · Un script que escribe donde no debe y lo anuncia como éxito.** Componer el
+  volumen de Documentación con `pdf.py libro-documentacion.html` **escribía encima de
+  `libro-general.pdf`**, porque el destino era una constante y no salía de la entrada; y
+  `word.py libro-documentacion.html` tomaba el nombre del **HTML** por nombre de salida y
+  **guardaba un .docx encima del HTML del volumen**. Ninguno de los dos falló: los dos
+  imprimieron una línea de éxito con el nombre del fichero equivocado. Corregidos: el destino
+  del PDF sale ahora **de la entrada** y los dos **rechazan una salida con la extensión que no
+  es**. Los cuatro ficheros se regeneraron desde cero.
+
+- **2026-09-02 · Las fechas de lectura de las fuentes también iban un día adelantadas.**
+  Cincuenta ficheros de `fuentes/`, seis fichas de tema y `portadas.tsv` sellaban las páginas
+  como leídas el **03/09/2026**, un día que todavía no había llegado. Corregidos, y
+  **regenerados los tres formatos del volumen de Documentación** para que el libro y los
+  ficheros digan lo mismo.
+
+- **2026-09-02 · Cerrado el pendiente de las cuatro siglas del tema 7 del general.** Se aplazaba
+  porque tocar el tema desincronizaba un volumen ya impreso; pero el volumen **había que
+  reimprimirlo igual**, porque el reparto de Información y Contenidos devolvió dos preguntas al
+  banco del III Convenio y el general pasó de **479 a 481**. Dos de las siglas —**RFEF** y
+  **FED**— van **dentro de una cita literal del artículo 146.3** y la ley **no las desarrolla**:
+  se presentan **antes de la cita**, diciéndolo, porque meter el desarrollo entre las comillas
+  habría sido reescribir la ley. El volumen general vuelve a salir con **254 páginas**.
