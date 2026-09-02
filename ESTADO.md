@@ -317,6 +317,18 @@ en Documentación y en Producción (Asistencia).
       cerradas de verdad**, comprobadas con la regla puesta: las páginas de producto de **Sony** y
       la del fabricante de la **mobycam**, que responden «prohibido» también con agente de
       navegador.
+- [x] **Tema 1 del específico de Producción (Asistencia)** —la producción: sistemas y métodos—
+      **cerrado**: 2.133 palabras, con esquema de repaso. Entró en el reparto como **vocabulario
+      puro sin fuente**, y resultó tener **dos preguntas con norma literal detrás**: el
+      **artículo 8 del III Convenio Colectivo de la Corporación RTVE** recoge las definiciones de
+      **producción interna, mixta y ajena** aprobadas por la comisión de producción interna, y la
+      de **ajena** es **palabra por palabra la respuesta oficial**; el mismo artículo, al definir
+      la interna, **enumera las tres fases** y contesta la otra pregunta.
+- [x] **Regla nueva, hermana de la del agente de navegador**: antes de escribir «esto es
+      vocabulario sin norma», **hay que buscar el término en las fuentes que ya están en casa**.
+      Son ocho leyes, un convenio y una docena de normas técnicas; la búsqueda cuesta un minuto y
+      **ya ha pagado**. Una conclusión negativa sin comprobar cierra la búsqueda igual que un
+      «no se ha podido consultar» sin comprobar.
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -432,6 +444,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 9 · Escenografía e iluminación | sí | sí | sí | sí | sí, dos veces | sí, limpia (lente de documento) | 20 de 20 enteras |
 | Producción 11 · Transmisión de señal | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 10 de 10 enteras |
 | Producción 13 · Equipos de exteriores | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 7 de 7 enteras |
+| Producción 1 · La producción | sí | sí | sí | sí | sí | sí, 1 salvedad de cobertura declarada | 6 de 6 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
