@@ -1,0 +1,32 @@
+«Acotar las búsquedas de Google», Ayuda de Búsqueda de Google
+https://support.google.com/websearch/answer/2466433?hl=es
+Leída el 3 de septiembre de 2026.
+
+Operadores
+Para acotar los resultados de formas específicas, puedes utilizar operadores especiales en la búsqueda. No incluyas espacios entre el operador y el término de búsqueda. La búsqueda [ site:elmundo.es ] funciona, pero la búsqueda [ site: elmundo.es ], no. Estos son algunos de los operadores más populares:
+Para buscar una concordancia exacta de una palabra o una frase: escribe una palabra o una frase entre comillas "" .
+Por ejemplo, [ "el edificio más alto" ].
+Para buscar resultados de un sitio específico: escribe site: delante de un sitio o de un dominio.
+Por ejemplo, [ site:youtube.com vídeos de gatos ].
+Para excluir palabras de la búsqueda: escribe - delante de la palabra que quieras excluir.
+Por ejemplo, [ velocidad jaguar -coche ].
+Para buscar documentos que se hayan actualizado por última vez antes de una fecha concreta: escribe before: delante de un año o una fecha específica.
+Por ejemplo, [ descubrimiento astronómico before:2025/11/01 ] o [ vengadores endgame before:2019 ].
+Para buscar documentos que se hayan actualizado por última vez después de una fecha concreta: escribe after: delante de un año o una fecha específica.
+Por ejemplo, [ descubrimientos astronómicos after:2026/03/10 ] o [ vengadores endgame after:2020 ].
+Para buscar documentos que se hayan actualizado por última vez en un periodo concreto: combina los operadores before: y after: .
+Por ejemplo, [ vengadores endgame after:2019-03-01 before:2019-03-05 ]
+Para encontrar documentos de un tipo de archivo concreto: escribe filetype: delante del tipo de archivo.
+Por ejemplo, [ efecto fotoeléctrico publicación filetype:pdf ]
+Resultados relacionados
+Después de hacer clic en un resultado web y volver a los resultados de búsqueda, es posible que veas más resultados relacionados añadidos al que se generó originalmente. Estos resultados añadidos están relacionados con el resultado web en el que has hecho clic.
+Búsquedas relacionadas
+Después de hacer una búsqueda, encontrarás búsquedas relacionadas con lo que hayas buscado en un principio. Las búsquedas relacionadas se generan automáticamente en función de lo que nuestros sistemas entienden sobre cómo hacen las búsquedas los usuarios.
+Ajustes
+En la Búsqueda de Google, puedes usar ajustes que te permiten buscar coincidencias con ciertos tipos de contenido o quitarlos:
+Puedes filtrar los resultados de la Búsqueda de Google por diferentes idiomas con el filtro de idioma de los resultados .
+Puedes filtrar contenido explícito de tus resultados con Búsqueda Segura .
+Recursos relacionados
+Usar el filtro de idioma de los resultados para la Búsqueda de Google
+Recibir notificaciones y actualizaciones sobre productos que sigues en Google
+Esta página puede incluir contenido traducido con tecnología de IA. Las traducciones generadas por IA pueden contener errores. ¿Te ha resultado útil esta información? ¿Cómo podemos mejorar esta página? Sí No Enviar ¿Necesitas más ayuda? Prueba estos pasos: Publicar en la comunidad de ayuda Obtener respuestas de los miembros de la comunidad true Ayuda 1 de 22 Hacer contribuciones en la Búsqueda de Google 2 de 22 Gestionar la calculadora, el conversor de unidades y los códigos de color 3 de 22 Seguir y comparar valores 4 de 22 Acotar las búsquedas de Google 5 de 22 Guardar enlaces, imágenes y más 6 de 22 Crear una alerta 7 de 22 Accesibilidad en la Búsqueda de Google 8 de 22 Discover food ordering with Google 9 de 22 Buscar programas, series y películas en Google 10 de 22 Sugerir cambios en un sitio de los resultados de búsqueda 11 de 22 Saber qué canción está sonando cerca de ti 12 de 22 Abrir páginas traducidas en la Búsqueda 13 de 22 Buscar libros en Google 14 de 22 Gestionar las colecciones y los elementos guardados 15 de 22 Usar el filtro de idioma de los resultados para la Búsqueda de Google 16 de 22 API Search Researcher Results 17 de 22 Search Researcher Program 18 de 22 Usar Google Finance basado en IA en la Búsqueda 19 de 22 Usar Google Lens mientras ves un Short de YouTube 20 de 

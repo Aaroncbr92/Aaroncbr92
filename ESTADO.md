@@ -715,3 +715,25 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   searching»: los números remiten al apartado donde define cada término. El borrador los había
   limpiado por estética, y la comprobación de citas entrecomilladas marcó **cuatro definiciones**
   como no literales. **Los paréntesis son parte del texto**: se reponen, y el tema explica qué son.
+
+- **2026-09-03 · Un sitio cerrado puede tener una puerta abierta, y hay que probarla.** La
+  especificación **EBUCore** parecía inalcanzable: la organización que la publica bloquea su sitio, y
+  así constaba ya en el bloque de Producción. Cinco rutas devolvieron «prohibido» o «no existe»; **la
+  sexta —el PDF servido directamente desde el subdominio técnico— devolvió 54 páginas**. Con el
+  documento delante, las tres opciones falsas de la pregunta se desmienten **con frases suyas**, una
+  de ellas una pregunta frecuente que parece escrita contra el examen. La regla del proyecto se
+  amplía: **cuando el sitio bloquea, se prueba el fichero**.
+
+- **2026-09-03 · Dónde se para una comprobación.** El año de lanzamiento de una red social tenía
+  fuente documental evidente —el folleto de salida a bolsa, en el archivo del regulador de mercados
+  estadounidense—, y ese archivo **exige identificarse con un correo de contacto** en cada consulta
+  automática. La única dirección disponible es la del usuario del proyecto, y **no se envía la
+  dirección de una persona a un servicio ajeno para resolver una pregunta de examen**. El dato se
+  recoge de la plantilla y va marcado, con la razón escrita.
+
+- **2026-09-03 · Las dos lentes se avisan la una a la otra.** Un criterio del archivo web estaba
+  atribuido al artículo 7 del Real Decreto 635/2015 y era **del artículo 6**. La lente de exactitud lo
+  marcó como cita **no literal** —la buscaba en el artículo equivocado— y la de modo avisó de una
+  **salvedad del artículo 7 que el tema no recogía**, que es lo que ocurre cuando se cita un artículo
+  sin haberlo leído entero. Corregida la atribución, **el tema mejoró**: el artículo 7 aportaba los
+  «procedimientos de selección y captura» y la **frecuencia**, que son las palabras del modelo mixto.

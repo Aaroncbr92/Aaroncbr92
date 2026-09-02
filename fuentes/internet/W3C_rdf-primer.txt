@@ -1,0 +1,197 @@
+RDF Primer, borrador de trabajo del W3C publicado en su repositorio de edición
+https://w3c.github.io/rdf-primer/spec/
+Leído el 3 de septiembre de 2026.
+
+AVISO: es la edición de trabajo de RDF 1.2. www.w3.org responde 403 a toda
+consulta automática, también con agente de navegador, de modo que no se ha
+podido leer la Recomendación RDF 1.1 vigente a la fecha de corte. Lo que este
+documento sostiene —el desarrollo de la sigla y su relación con los datos
+enlazados— no cambia entre las dos versiones, y el propio texto lo dice al
+remitir los cambios a un documento aparte.
+
+Introduction
+The Resource Description Framework (RDF) is a framework for
+expressing information about
+resources .
+Resources
+can be anything, including documents, people, physical objects, and abstract
+concepts.
+RDF is intended for situations in which information on the Web needs to
+be processed by applications, rather than being only displayed to
+people. RDF provides a common framework for expressing this
+information so it can be exchanged between applications without
+loss of meaning. Since it is a common framework, application
+designers can leverage the availability of common RDF parsers and
+processing tools. The ability to exchange information between
+different applications means that the information may be made
+available to applications other than those for which it was
+originally created.
+In particular RDF can be used to publish and interlink data on the Web.
+For example, retrieving http://www.example.org/bob#me
+could provide data about Bob, including the fact that he
+knows Alice, as identified by her IRI (an IRI is an "Internationalized
+Resource Identifier"; see for details).
+Retrieving Alice's IRI could then provide more data about her, including links
+to other datasets for her friends, interests, etc. A person or
+an automated process can then follow such links and aggregate data about these
+various things. Such uses of RDF are often
+qualified as Linked Data [[LINKED-DATA]].
+This document is not normative and does not give a complete
+account of RDF 1.2. Normative
+specifications of RDF can be found in the following documents:
+A document describing the basic concepts underlying RDF, as
+well as abstract syntax ("RDF Concepts and Abstract Syntax")
+[[RDF12-CONCEPTS]]
+A document describing the formal model-theoretic semantics
+of RDF ("RDF Semantics") [[RDF12-SEMANTICS]]
+Specifications of serialization formats for RDF:
+Turtle [[RDF12-TURTLE]] and TriG [[RDF12-TRIG]]
+JSON-LD [[JSON-LD11]] (JSON based)
+RDFa [[RDFA-PRIMER]] (for HTML embedding)
+N-Triples [[RDF12-N-TRIPLES]] and N-Quads [[RDF12-N-QUADS]]
+(line-based exchange formats)
+RDF/XML [[RDF12-XML]] (the original 2004 syntax, updated
+for RDF 1.2)
+A document describing RDF Schema [[RDF12-SCHEMA]], which
+provides a data-modeling vocabulary for RDF data.
+Why Use RDF?
+The following illustrates various different uses of RDF, aimed
+at different communities of practice.
+Adding machine-readable information to Web pages using, for example,
+the popular schema.org
+vocabulary, enabling them to be displayed
+in an enhanced format on search engines or to be processed automatically
+by third-party applications.
+Enriching a dataset by linking it to third-party
+datasets. For example, a dataset about
+paintings could be enriched by linking them to the corresponding
+artists in Wikidata ,
+therefore giving access to a wide range of information about
+them and related resources.
+Interlinking API feeds, making sure that clients can easily
+discover how to access more information.
+Using the datasets currently published as Linked Data
+[[LINKED-DATA]], for example
+building aggregations of data around specific topics.
+Building distributed social networks by interlinking RDF
+descriptions of people
+across multiple Web sites.
+Providing a standards-compliant way for exchanging data
+between databases.
+Interlinking various datasets within an organisation,
+enabling cross-dataset queries to
+be performed using SPARQL [[SPARQL12-CONCEPTS]].
+RDF Data Model
+Triples
+RDF allows us to make statements about resources.
+The format of these statements is simple. A statement always
+has the following structure:
+<subject> <predicate> <object>
+The subject represents the resource we like to
+make a statement about. The predicate represents
+a property of the subject. The
+object represents a value of the property
+for this subject. Because RDF statements consist of three elements they are called
+triples .
+-->
+An RDF statement expresses a relationship between two resources.
+The subject and the object
+represent the two resources being
+related; the predicate represents the nature of their
+relationship. The relationship is phrased in a directional way
+(from subject to object) and is called in RDF a
+property . Because RDF statements consist of
+three elements they are called triples .
+Here are examples of RDF triples (informally expressed in pseudocode):
+<Bob> <is a> <person>.
+<Bob> <is a friend of> <Alice>.
+<Bob> <is born on> <the 4th of July 1990>.
+<Bob> <is interested in> <the Mona Lisa>.
+<the Mona Lisa> <was created by> <Leonardo da Vinci>.
+<the video 'La Joconde à Washington'> <is about> <the Mona Lisa>.
+The same resource is often referenced in multiple triples. In the example above,
+Bob is the subject of four triples, and the Mona Lisa is the subject of
+one and the object of two triples. This ability to have the same resource be
+in the subject position of one triple and the object position of another
+makes it possible to find connections between triples, which is an
+important part of RDF's power.
+A set of triples is called a graph .
+We can visualize a set of triples as a connected graph.
+Graphs consist of nodes and arcs. The subjects and
+objects of the triples make up the nodes in the graph; the
+predicates form the arcs. Fig. 1
+shows the graph resulting from the sample triples.
+Informal graph of the sample triples
+Once you have a graph like this you can use SPARQL [[SPARQL12-CONCEPTS]] to
+query for e.g. people interested in paintings by Leonardo da
+Vinci.
+The RDF Data Model is described in this section
+in the form of an "abstract syntax", i.e. a data model that is independent of a
+particular concrete syntax (the syntax used to represent triples stored in
+text files). Different concrete syntaxes may
+produce exactly the same graph from the perspective of the
+abstract syntax. The semantics of RDF graphs [[RDF12-SEMANTICS]] are defined in
+terms of this abstract syntax. Concrete RDF syntax is introduced
+later in .
+In the next four subsections, we discuss the four kinds of
+RDF term
+that occur in triples: IRIs, literals, blank nodes, and triple terms.
+IRIs
+The abbreviation IRI is short for "Internationalized Resource
+Identifier". An IRI
+identifies a resource. The URLs (Uniform Resource Locators) that
+people use as Web addresses are one form of IRI. Other forms of IRI
+provide an identifier for a resource without implying its location
+or how to access it. The notion of IRI is a
+generalization of URI (Uniform Resource Identifier), allowing
+non-ASCII characters to be used in the IRI character string. IRIs are specified
+in RFC 3987 [[RFC3987]].
+IRIs can appear in all three positions of a triple.
+As mentioned, IRIs are used to identify resources such as documents,
+people, physical objects, and abstract concepts.
+For example, the IRI for Leonardo da Vinci in DBpedia is:
+http://dbpedia.org/resource/Leonardo_da_Vinci
+The IRI for an INA video about the Mona Lisa entitled 'La Joconde à Washington' in Europeana is:
+http://data.europeana.eu/item/04802/243FA8618938F4117025F17A8B813C5F9AA4D619
+IRIs are global identifiers, so other people can re-use this
+IRI to identify the same thing. For example, the following IRI is
+used by many people as an RDF property to state an acquaintance
+relationship between people:
+http://xmlns.com/foaf/0.1/knows
+RDF is agnostic about what the IRI represents. However,
+IRIs may be given meaning by particular vocabularies or
+conventions. For example,
+DBpedia uses IRIs of the form
+http://dbpedia.org/resource/Name to denote the thing
+described by the corresponding Wikipedia article.
+Literals
+Literals
+are used to encode values, rather than identifying them by IRIs. Examples
+of literals include strings such as `"La Joconde"`, dates formatted
+according to ISO-8601 such as `1990-07-04`, and numbers such as `3.14159`.
+Literals are always associated with a
+datatype , enabling them to
+be parsed and interpreted correctly.
+Strings can optionally be associated with a language tag ;
+for example, to clarify that the name "Leonardo da Vinci" is the English
+version of his name, the string can be associated with the en
+language tag, "Léonard de Vinci" with the fr language tag (French),
+and "李奥纳多·达·文西" with the zh language tag (Chinese).
+Such literals are called
+language-tagged strings .
+Strings may also optionally be associated with an initial base
+direction , with a value of either ltr or rtl
+(for left-to-right and right-to-left, respectively); for example, the English
+title HTML & CSS: Designing and Creating Websites ,
+associated with the en language tag and recognized as written
+from left to right, would in an Arabic translation be written from right to
+left, as:
+HTML و CSS: تصميم و إنشاء مواقع الويب ,
+when associated with the ar language tag and the
+rtl initial text direction. Such literals are called
+directional language-tagged strings .
+Base direction is used to assist in
+[=Unicode Bidirectional Algorithm|BIDI=] [[?I18N-Glossary]] processing.
+Without the initial base direction, the example title above would incorrectly render
+as:
+HTML و CSS: ت
