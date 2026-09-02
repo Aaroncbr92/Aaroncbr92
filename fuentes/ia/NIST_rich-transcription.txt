@@ -1,0 +1,50 @@
+«Rich Transcription Evaluation», Instituto Nacional de Normas y Tecnología (NIST)
+de los Estados Unidos, Grupo de Multimodal Information
+https://www.nist.gov/itl/iad/mig/rich-transcription-evaluation
+Leída el 3 de septiembre de 2026.
+
+Rich Transcription Evaluation
+NIST has a long history of conducting Automatic Speech Recognition before RT began. This ASR history graph gives a summary of the tests run prior to RT as well as include more recent results:
+The Rich Transcription 2002 Evaluation (RT-02), the first in the RT evaluation series, was implemented in April 2002. It included STT tasks for broadcast news speech, conversational telephone speech, and meeting room speech in English. The evaluation also included one MDE task speaker diarization for broadcast news and conversational telephone speech also in English.
+The Rich Transcription Spring 2003 Evaluation (RT-03S), implemented in March-April 2003, focused on STT tasks. The STT tasks not only included the different data domains but also extended to different languages in addition to English. Unlike the RT-02 STT tasks, the RT-03S STT tasks did not include the meeting data domain because that domain was moved to another RT evaluation. The RT-03S evaluation also included one MDE task, "Who Spoke When" speaker diarization for broadcast news speech and conversational telephone speech in English.
+The Rich Transcription Fall 2003 Evaluation (RT-03F) , implemented in October 2003, focused on MDE tasks. The MDE tasks included "Who Said What" speaker diarization, sentence boundary detection, and disfluencies detection for broadcast news speech and conversational telephone speech in English.
+The Rich Transcription Spring 2004 Evaluation (RT-04S) was implemented in 2004. It included separate STT and MDE tasks as well as integrated STT and MDE tasks for the various domains and languages.
+The Rich Transcription Fall 2004 Evaluation (RT-04F), implemented in October 2004, included STT tasks for broadcast news speech and conversational telephone speech in English, Mandarin, and Arabic and MDE tasks also for broadcast news speech and conversational telephone speech but only for English.
+The Rich Transcription Spring 2005 Evaluation (RT-05F) focused on the English Meeting Domain speech. There were four evaluation tasks: STT, MDE Speaker Diarization, MDE Speech Activity Detection, and MDE Source Localization. The cross site evaluation corpora included "conference" room meetings and "lecture" room meetings.
+The Rich Transcription Spring 2006 Meeting Recognition focused on the English Meeting speech. There were three evaluation task supported, STT, MDE Speaker Diarization, and Speech Activity Detection.
+The Rich Transcription Spring 2007 Meeting Recognition focused on the English Meeting speech. There were three evaluation task supported, STT,MDE Speaker Diarization, and a new task Speaker Attributed STT.
+The Rich Transcription 2009 Meeting Recognition focused on the English Meeting speech. There were three evaluation task supported, STT,MDE Speaker Diarization, and Speaker Attributed STT.
+The Rich Transcription evaluation series is sponsored by NIST and is open to all interested participants.
+The Rich Transcription evaluation series promotes and gauges advances in the state-of-the-art in several automatic speech recognition technologies. The goal of the evaluation series is to create recognition technologies that will produce transcriptions which are more readable by humans and more useful for machines. As such, a set of research tasks has been defined which are broadly categorized as either Speech-to-Text Transcription (STT) tasks and Metadata Extraction (MDE) tasks.
+Wireless (RF) , Information technology , Biometrics , Data and informatics , Metrology and Standards
+Created December 2, 2009, Updated August 22, 2022
+Was this page helpful?
+HEADQUARTERS
+100 Bureau Drive
+Gaithersburg, MD 20899
+301-975-2000
+Webmaster | Contact Us | Our Other Offices
+X.com
+Facebook
+LinkedIn
+Instagram
+YouTube
+Giphy
+RSS Feed
+Mailing List
+How are we doing?
+Feedback
+Site Privacy
+Accessibility
+Privacy Program
+Copyright & Disclaimers
+Vulnerability Disclosure
+No Fear Act Policy
+FOIA
+Environmental Policy
+Scientific Integrity
+Information Quality Standards
+Commerce.gov
+Science.gov
+USA.gov
+Vote.gov

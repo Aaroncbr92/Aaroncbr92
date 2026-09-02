@@ -737,3 +737,13 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   **salvedad del artículo 7 que el tema no recogía**, que es lo que ocurre cuando se cita un artículo
   sin haberlo leído entero. Corregida la atribución, **el tema mejoró**: el artículo 7 aportaba los
   «procedimientos de selección y captura» y la **frecuencia**, que son las palabras del modelo mixto.
+
+- **2026-09-03 · Cuando la materia no tiene norma, eso es el hallazgo.** El tema 4 de Documentación
+  —inteligencia artificial— tiene **4 preguntas y 2 fuentes**, la proporción más baja del bloque. Se
+  probaron **cinco puertas** y se abrieron dos: no hay norma en el BOE que defina la diarización, ni
+  recomendación que describa los módulos de un sintetizador, ni definición de «palabra token» en las
+  normas de vocabulario documental. Las dos que sí valen son de clases distintas y así se marcan: **un
+  programa público de evaluación** —el instituto de normas de los Estados Unidos define la tarea
+  porque tiene que medirla, y la llama «Who Spoke When»— y **el anuncio de quien fabricó el sistema**.
+  **Las lentes por artículo no se ejecutan** sobre un tema sin articulado: devolverían un cero limpio,
+  que es peor que no ejecutarlas, y así consta en su informe.
