@@ -39,6 +39,15 @@ DATOS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "portadas.tsv")
 P_INI, P_FIN = "<!-- portada -->", "<!-- /portada -->"
 I_INI, I_FIN = "<!-- indice -->", "<!-- /indice -->"
 
+# Rutas del repositorio que no deben aparecer en lo que lee quien estudia. La
+# comprobación estaba **sólo sobre la ficha**, y por eso no vio nada cuando seis
+# temas seguidos empezaron a citar `fuentes/…` y `herramientas/…` **en el
+# cuerpo**: la ruta de un fichero no es una fuente —la fuente es el documento,
+# con su título, su fecha y su dirección pública— y quien estudia no tiene el
+# repositorio delante. Dónde lo guarda el proyecto es asunto de los informes
+RUTA_PROYECTO = re.compile(r"(?:esquemas|informes|fuentes|herramientas|banco|convocatoria)/"
+                           r"|\bESTADO\.md\b|\bPENDIENTES\.md\b")
+
 
 def ancla(texto, vistos):
     """Anclaje al estilo de GitHub, con el sufijo de los repetidos."""
@@ -103,7 +112,7 @@ def portada(ruta, fila, palabras):
     # y se comprueba que no se cuele ninguna ruta del proyecto en lo que el
     # opositor va a leer
     for k, v in filas:
-        if re.search(r"(?:esquemas|informes|fuentes|herramientas|banco)/", str(v)):
+        if RUTA_PROYECTO.search(str(v)):
             print("  ! %s: la fila «%s» cita una ruta del proyecto" % (ruta, k))
 
     salida = [P_INI, "", "|  |  |", "| --- | --- |"]
@@ -171,6 +180,10 @@ def main():
         if ruta in filas:
             texto = mete(texto, portada(ruta, filas[ruta], palabras), P_INI, P_FIN)
         open(ruta, "w", encoding="utf-8").write(texto)
+        # la misma comprobación, sobre el cuerpo entero y no sólo sobre la ficha
+        for m in RUTA_PROYECTO.finditer(cuerpo(texto)):
+            print("  ! %s: el cuerpo cita una ruta del proyecto: «%s»"
+                  % (ruta, cuerpo(texto)[m.start():m.start() + 40].split()[0]))
         print("· %-42s %5d palabras · %2d epígrafes%s"
               % (ruta, palabras, len(epigrafes(texto)),
                  "" if ruta in filas else "  (sin portada: es un esquema)"))
