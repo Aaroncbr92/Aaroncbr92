@@ -6,7 +6,7 @@ redacción vigente al **21 de diciembre de 2022**.
 
 ## Lente de exactitud
 
-379 negritas troceadas por artículo y contrastadas con su precepto. Las que no salen literales se
+**411 negritas** troceadas por artículo y contrastadas con su precepto. Las que no salen literales se
 revisaron a mano una por una: **todas resultaron ser paráfrasis legítimas o rótulos propios del
 tema** (encabezados de tabla, etiquetas como «Grabación técnica» o «Efecto de la retirada
 voluntaria», y comentarios del tipo «el productor no es autor», que es una conclusión del artículo
@@ -65,3 +65,21 @@ por separado contra el propio volcado y contra la tabla de redacciones.
 
 Las cuatro lentes se volvieron a correr después de las once correcciones. Prosa, limpia. Exactitud
 y modo, sin hallazgos nuevos. Documento, las mismas cuatro cifras de metadatos.
+
+## Una tercera pasada, el 2026-09-02, con una corrección de cobertura
+
+Al escribir el tema 17 se descubrió que **la lente no reconoce como marcador un número de artículo
+suelto en negrita al principio de una fila de tabla**: reconoce «**Artículo 87**» y «**Art. 87**»,
+pero no «**87**». La tabla del epígrafe 15 de este tema —la de los datos preguntados— tenía la
+primera columna escrita así, de modo que **sus negritas no se estaban comprobando contra ningún
+artículo**. No daba error: sencillamente no aparecían.
+
+Arreglado escribiendo la columna como «**Art. 87**», que además se lee mejor, y separando el
+apartado del número donde lo había —«**Art. 14**, apartado 6.º» en vez de «**Art. 14.6.º**»—,
+porque el marcador tampoco admite el apartado pegado. La firma del arreglo es inequívoca: las
+**negritas comprobadas suben de 379 a 411**. Eran **treinta y dos afirmaciones del tema que ninguna
+lente había mirado**.
+
+Revisadas las que la lente marca ahora como no literales en ese epígrafe: **todas son resúmenes en
+palabras propias de datos que el cuerpo del tema ya recoge literales**, o comentarios sobre las dos
+erratas de los cuadernillos. **Ninguna afirmación nueva que corregir.**

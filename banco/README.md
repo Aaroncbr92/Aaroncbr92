@@ -27,6 +27,7 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 | Fichero | Materia | Preguntas |
 |---|---|---|
 | `produccion-02.md` | Producción (Asistencia) · tema 2 · propiedad intelectual | 9 |
+| `produccion-17.md` | Producción (Asistencia) · tema 17 · protección de datos | 5 |
 
 Se regenera con `herramientas/banco_especifico.py`, y **el reparto se escribe a
 mano** en `especifico-produccion.tsv`, una fila por pregunta y con el motivo al
@@ -37,7 +38,7 @@ reparto discutible, da **uno falso que nadie va a revisar**.
 
 El script avisa de las **filas que ya no casan con ninguna pregunta** y cuenta
 **cuántas preguntas específicas quedan sin repartir**: de las **129** de los dos
-cuadernillos de Producción (Asistencia), **9 repartidas y 120 pendientes**. Esa
+cuadernillos de Producción (Asistencia), **14 repartidas y 115 pendientes**. Esa
 cifra es la que mide lo que falta de la Fase B, y es la que no aparece sola.
 
 **Para qué sirve.** El apartado 7 del manual manda cerrar cada tema comprobando

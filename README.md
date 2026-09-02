@@ -13,6 +13,7 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `metodo/MANUAL.md` | El método. Se lee entero antes de tocar un tema. |
 | `metodo/ENCARGOS.md` | Cláusulas de encargo y catálogo de errores, para pegar en cada fase. |
 | `herramientas/boe.py` | Lector de legislación consolidada del BOE. |
+| `herramientas/doue.py` | Lector de normas de la Unión Europea publicadas por el BOE, con sus correcciones de errores. El texto no está consolidado, y lo dice. |
 | `herramientas/refutar_*.py` | Las cuatro lentes de refutación: exactitud, modo verbal y salvedades, prosa, y contraste contra documento sin articulado. |
 | `herramientas/indice.py` | Genera la **portada** y el **índice** de cada tema, y comprueba que las rutas que citan existen. Se vuelve a pasar cuantas veces haga falta. |
 | `herramientas/libro.py` | Arma el **bloque general en un volumen imprimible**: ficha, cuerpo, esquema y preguntas reales de cada tema, y las respuestas al final. |
@@ -36,6 +37,7 @@ las reformas cruzadas y los identificadores irregulares.
 herramientas/boe.py indice   BOE-A-2006-9958            # índice real de bloques
 herramientas/boe.py buscar   BOE-A-2006-9958 "artículo 43"
 herramientas/boe.py precepto BOE-A-2006-9958 a11        # cadena + redacción vigente
+herramientas/doue.py DOUE-L-2016-80807 fuentes/          # un reglamento europeo
 
 # portada e índice de todos los temas, regenerables
 python3 herramientas/indice.py                          # todos

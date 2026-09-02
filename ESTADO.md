@@ -179,6 +179,30 @@ en Documentación y en Producción (Asistencia).
       correcciones aplicadas** (`informes/refutacion-produccion-tema-02.md`). Con su **esquema
       de repaso**, 4.432 palabras y 117 líneas de telegrama, en el rango del de la Constitución
       y sin crecer en proporción al tema.
+- [x] **Tema 17 del específico de Producción (Asistencia)** —Ley de Protección de Datos—
+      **cerrado**: 13.282 palabras sobre **dos normas**, la LO 3/2018 (`BOE-A-2018-16673`) y el
+      **Reglamento (UE) 2016/679**, que hizo falta traer entero porque la ley orgánica **no repite
+      lo que el Reglamento dice** y remite a él en casi todos sus artículos. Las **cinco**
+      preguntas reales se contestan con el tema delante
+      (`informes/cobertura-produccion-tema-17.md`), y las lentes dejaron **nueve correcciones
+      aplicadas** más dos arreglos de herramienta
+      (`informes/refutacion-produccion-tema-17.md`). Con esquema de repaso.
+- [x] `herramientas/doue.py`: lector de **normas de la Unión Europea publicadas por el BOE** en su
+      sección del Diario Oficial. Trocea el articulado con la misma forma que espera `boe.py`, para
+      que las lentes trabajen sobre un reglamento europeo igual que sobre una ley española;
+      **recoge las correcciones de errores** que el BOE enlaza y las guarda enteras; y **dice en la
+      cabecera que el texto no está consolidado**. Hacía falta porque `boe.py` sólo sirve para
+      legislación española consolidada, y el Reglamento no lo es: sus **dos correcciones de
+      errores** son documentos aparte que nadie incorpora al texto.
+- [x] **Dos fallos de cobertura destapados y corregidos** al escribir este tema, los dos del
+      apartado 10 del manual:
+      **(a)** `refutar_modo.py` traía **«habrá de» en singular y no en plural**, así que marcaba
+      como cambio de modo verbal el artículo 89.1 de la LO 3/2018, que dice «**habrán de
+      informar**». Corregido y repasados los temas cerrados: no movió ninguna cifra.
+      **(b)** Los **artículos 80 a 86** iban en una tabla cuya primera columna era un **número
+      suelto en negrita**, que la lente no reconoce como marcador: **siete artículos se
+      contrastaban contra el artículo 79** y no daba error, daba dieciocho «no literales» que
+      parecían ruido. Arreglado escribiendo la columna como `**Art. 80**`.
 - [x] **Comprobado que el enunciado y la fecha de corte coinciden en este tema**: la última
       reforma del texto refundido anterior al 21/12/2022 es la del **artículo 177**, publicada
       el **30 de marzo de 2022**, que es literalmente el «texto consolidado BOE 30 de marzo de
@@ -233,10 +257,10 @@ en Documentación y en Producción (Asistencia).
 - [ ] **Fase B: los tres temarios específicos.** Documentación es el más corto (6 temas),
       Producción (Asistencia) el más largo (17) e Información y Contenidos el más entrelazado
       con el general (10). El orden y el tratamiento de los temas sin norma detrás, en `PLAN.md`.
-      **Hecho el tema 2 de Producción**; el 18 ya venía hecho como tema de PRL común.
-      **Siguiente**: el **tema 17, protección de datos** (Ley Orgánica 3/2018), que es el otro
-      que tiene norma del BOE detrás y con el que se cierran los quince únicos casos en que el
-      método funciona entero.
+      **Hechos los temas 2 y 17 de Producción**; el 18 ya venía hecho como tema de PRL común.
+      **Con eso se cierran los dos únicos temas del específico de Producción que tienen norma del
+      BOE detrás**, y con ellos las 15 de las 129 preguntas en que el método funciona entero.
+      **Siguiente**: los quince restantes, que hay que documentar antes de escribir.
 - [ ] **Reunir la documentación de los quince temas de Producción sin norma detrás** antes de
       escribirlos: normas SMPTE y recomendaciones UIT-R nombradas en el examen, el cuaderno ATA
       y el MCO, y las fichas de los modelos concretos que las preguntas citan. Sin ese material
@@ -262,6 +286,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 8 · Ley 31/1995 | sí | sí | sí | sí | sí | sí, con 3 falsos positivos declarados | 49 de 52 enteras, 2 a medias |
 | PRL del específico (P18/D7/I11) | sí | sí | sí | sí | sí | sí, limpia | 35 de 40 enteras, 1 con matiz, 5 fuera de tema |
 | Producción 2 · Propiedad intelectual | sí | sí | sí | sí | sí | sí, 13 falsos positivos declarados | 9 de 9 enteras |
+| Producción 17 · Protección de datos | sí | sí | sí | sí | sí | sí, 6 falsos positivos declarados | 5 de 5 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

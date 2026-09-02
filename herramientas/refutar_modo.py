@@ -21,7 +21,12 @@ import unicodedata
 PODER = r"\b(podr[áa]n?|puede[n]?|pueda[n]?|pudiera[n]?|potestativ\w+|facultad\w*)\b"
 # "están obligados a" es tan imperativo como "deberán", y sin él la lente daba
 # por impuesto lo que la norma sí impone (art. 98 de la Ley 13/2022)
-DEBER = r"\b(deber[áa]n?|debe[n]?|deba[n]?|debiendo|obligator\w+|obligad[oa]s?|exigir[áa]|requerir[áa]|habr[áa] de|ha de|han de)\b"
+# "habrán de informar" es tan imperativo como "deberán", y el patrón solo traía
+# el singular "habrá de": el artículo 89.1 de la LO 3/2018 usa el plural y la
+# lente daba por cambiado el modo verbal donde el tema decía justo lo que dice
+# la norma. Un falso positivo constante enseña a no mirar la lista (manual, 10)
+DEBER = (r"\b(deber[áa]n?|debe[n]?|deba[n]?|debiendo|obligator\w+|obligad[oa]s?"
+         r"|exigir[áa]n?|requerir[áa]n?|habr[áa]n? de|ha de|han de|hubieran? de)\b")
 SALVO = r"\b(salvo|excepto|a excepci[oó]n|sin perjuicio|no obstante)\b"
 
 

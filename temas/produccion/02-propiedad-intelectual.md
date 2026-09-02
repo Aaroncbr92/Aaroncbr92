@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-1996-8930` · BOE núm. 97, de 22/04/1996 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**, que **coincide exactamente con la que cita el enunciado**: la última reforma anterior al corte se publicó el **30 de marzo de 2022** y afectó a un solo artículo, el 177 |
 | **Norma complementaria** | Real Decreto-ley 24/2021, de 2 de noviembre, **Libro cuarto** (`BOE-A-2021-17910`), para la parte de plataformas y redes sociales |
-| **Extensión** | **15.300 palabras** |
+| **Extensión** | **15.313 palabras** |
 
 <!-- /portada -->
 
@@ -1511,15 +1511,15 @@ memorizable:
 
 | Artículo | Dato preguntado |
 |---|---|
-| **2** | La redacción literal: derechos **personales y patrimoniales**, **plena disposición** y **derecho exclusivo a la explotación**, **sin más limitaciones que las establecidas en la Ley** |
-| **11** | Cuál de cuatro creaciones es **obra derivada**: la **traducción** (art. 11.1.º), frente a coreografías, pantomimas y proyectos de obras arquitectónicas, que son del art. 10 |
-| **14.6.º** | Que el autor **sí puede retirar la obra del comercio**, por **cambio de sus convicciones intelectuales o morales**, y **previa indemnización** de daños y perjuicios a los titulares de derechos de explotación |
-| **17** | Las **cuatro modalidades** del derecho de explotación: **reproducción, distribución, comunicación pública y transformación** |
-| **26** | **Toda la vida del autor y setenta años** después de su muerte o declaración de fallecimiento |
-| **37 bis** | La **definición de obra huérfana**: titulares **no identificados o, de estarlo, no localizados** pese a una **previa búsqueda diligente** |
-| **43.2** | **Cinco años** a falta de mención del tiempo, y **el país en el que se realice la cesión** a falta de mención del ámbito territorial |
-| **87** | Autores de la obra audiovisual: **director-realizador, guionista y autor de la música** creada especialmente para ella |
-| **128** | **Veinticinco años** desde el 1 de enero del año siguiente a la fecha de realización, para la **mera fotografía** |
+| **Art. 2** | La redacción literal: derechos **personales y patrimoniales**, **plena disposición** y **derecho exclusivo a la explotación**, **sin más limitaciones que las establecidas en la Ley** |
+| **Art. 11** | Cuál de cuatro creaciones es **obra derivada**: la **traducción** (art. 11.1.º), frente a coreografías, pantomimas y proyectos de obras arquitectónicas, que son del art. 10 |
+| **Art. 14**, apartado 6.º | Que el autor **sí puede retirar la obra del comercio**, por **cambio de sus convicciones intelectuales o morales**, y **previa indemnización** de daños y perjuicios a los titulares de derechos de explotación |
+| **Art. 17** | Las **cuatro modalidades** del derecho de explotación: **reproducción, distribución, comunicación pública y transformación** |
+| **Art. 26** | **Toda la vida del autor y setenta años** después de su muerte o declaración de fallecimiento |
+| **Art. 37 bis** | La **definición de obra huérfana**: titulares **no identificados o, de estarlo, no localizados** pese a una **previa búsqueda diligente** |
+| **Art. 43**, apartado 2 | **Cinco años** a falta de mención del tiempo, y **el país en el que se realice la cesión** a falta de mención del ámbito territorial |
+| **Art. 87** | Autores de la obra audiovisual: **director-realizador, guionista y autor de la música** creada especialmente para ella |
+| **Art. 128** | **Veinticinco años** desde el 1 de enero del año siguiente a la fecha de realización, para la **mera fotografía** |
 
 **Dos advertencias sobre el enunciado de esas preguntas**, porque quien estudie sólo por el
 enunciado se despista. Los cuadernillos abrevian la Ley de Propiedad Intelectual (**LPI**):

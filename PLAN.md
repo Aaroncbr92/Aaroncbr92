@@ -78,7 +78,8 @@ el 2 (propiedad intelectual) y el 17 (protección de datos). Por eso el orden es
 primero los que tienen norma detrás, que se escriben con el método entero; después
 los que no la tienen, cuya documentación hay que reunir antes de escribir una línea.
 La jerarquía de fuentes que se aplica en esos, declarada y con sus cautelas, está en
-`informes/fuentes-del-especifico-2026-09-02.md`.
+`informes/fuentes-del-especifico-2026-09-02.md`. **Los dos primeros ya están hechos**: el tema 2,
+propiedad intelectual, y el 17, protección de datos.
 
 Dentro de cada fase, **de dos en dos**: dos temas por tanda es lo que aguanta una
 sesión sin perderse a mitad.
