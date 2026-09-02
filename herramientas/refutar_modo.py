@@ -166,11 +166,17 @@ def bloques(tema):
 def main():
     # fuera la portada y el índice: son envoltorio, no afirmaciones del tema
     tema = sin_envoltorio(open(sys.argv[1], encoding="utf-8").read())
-    arts = articulos(open(sys.argv[2], encoding="utf-8").read())
+    # varias fuentes, por lo mismo que en la lente de exactitud: un tema puede
+    # descansar en dos normas con artículos del mismo número, y comparar contra
+    # la que no toca no da error, **inventa un hallazgo** —el artículo 35 del
+    # reglamento de afiliación contra el artículo 35 de la ley, que habla de
+    # actas de liquidación—. Se juntan los textos de todas las fuentes que
+    # tengan ese número: la salvedad se da por recogida si está en alguna
+    fuentes = [articulos(open(f, encoding="utf-8").read()) for f in sys.argv[2:]]
     hallazgos = 0
     for nums, texto in sorted(bloques(tema).items()):
-        fuente = " ".join(arts[n] for n in nums if n in arts)
-        if not fuente:
+        fuente = " ".join(a[n] for a in fuentes for n in nums if n in a)
+        if not fuente.strip():
             continue
         n = ",".join(nums)
         f_poder, f_deber = bool(re.search(PODER, fuente)), bool(re.search(DEBER, fuente))

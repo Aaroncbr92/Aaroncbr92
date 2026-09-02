@@ -6,7 +6,7 @@ el tema por artículos, saca las negritas de cada trozo y busca cada una en el
 texto del artículo correspondiente. Lo que no aparece se imprime para mirarlo a
 mano: puede ser una paráfrasis legítima, o puede ser una invención.
 
-Uso:  refutar_exactitud.py <tema.md> <fuente.md>
+Uso:  refutar_exactitud.py <tema.md> <fuente.md> [<fuente2.md> ...]
 """
 import re
 import sys
@@ -35,8 +35,17 @@ def articulos(fuente):
     # artículo no entra en el diccionario, no se comprueba nunca y además su
     # texto en el tema se contrasta contra el artículo 32, que dice otra cosa.
     # Un artículo que no se mira sale impecable (manual, apartado 10)
+    # **El corte del bloque va anclado al principio de renglón, no a un salto de
+    # línea suelto.** Un artículo que al corte todavía no estaba en vigor se
+    # vuelca **con su aviso y sin cuerpo**, y entonces el `\n\n` que cierra el
+    # aviso es el mismo que precede al artículo siguiente: con `(?=\n## )` el
+    # cuerpo vacío no cerraba y la expresión seguía tragando **hasta el
+    # artículo de después**, que quedaba sin entrar en el diccionario y con su
+    # texto atribuido al que estaba en vacatio. En la Ley General de la
+    # Seguridad Social eso hacía desaparecer el artículo 20 detrás del 19 bis.
+    # No daba error: **la lente decía que una cita literal no lo era**
     patron = (r"^## \[[^\]]+\] Artículo (\d+(?: bis| ter| quáter| quinquies)?)$"
-              r"\n\n_.*?_\n\n(.*?)(?=\n## |\Z)")
+              r"\n\n_.*?_\n\n(.*?)(?=^## |\Z)")
     # un tratado con anexos numera desde 1 dentro de cada anexo, así que
     # "Artículo 1" aparece muchas veces. Con un diccionario que sobrescribe,
     # sólo sobrevive el último y todo lo demás se contrasta **contra el
@@ -159,13 +168,22 @@ def trozos(tema):
 def main():
     # fuera la portada y el índice: son envoltorio, no afirmaciones del tema
     tema = sin_envoltorio(open(sys.argv[1], encoding="utf-8").read())
-    fuente = open(sys.argv[2], encoding="utf-8").read()
-    arts = articulos(fuente)
+    # **Varias fuentes, no una.** Un tema puede descansar en dos normas
+    # consolidadas —el de Seguridad Social, en la ley y en su reglamento de
+    # afiliación—, y entonces hay **artículos con el mismo número en las dos**:
+    # el 16 y el 32 existen en ambas. Comparando contra una sola, las citas de la
+    # otra salen todas como «no literales» —ruido que tapa los hallazgos de
+    # verdad— y, peor, una cita puede compararse **contra el artículo homónimo de
+    # la norma equivocada**, que no da error: atribuye mal. Se admiten todas las
+    # fuentes que haga falta y la negrita se da por buena si aparece **en
+    # alguna**: el tema la ha citado de una de las normas que cita
+    fuentes = [articulos(open(f, encoding="utf-8").read()) for f in sys.argv[2:]]
 
     total = sospechosas = 0
     for nums, bloque in trozos(tema):
-        cuerpo = " ".join(arts.get(n, "") for n in nums)
-        if not cuerpo:
+        cuerpos = [" ".join(a.get(n, "") for n in nums) for a in fuentes]
+        cuerpos = [c for c in cuerpos if c.strip()]
+        if not cuerpos:
             continue
         # sin re.S el punto no cruza el salto de línea, y una cita en negrita
         # repartida en dos renglones —que es lo normal cuando el tema va a
@@ -179,7 +197,7 @@ def main():
             if frag.startswith("articulo"):  # el propio encabezado
                 continue
             total += 1
-            if frag not in cuerpo:
+            if not any(frag in c for c in cuerpos):
                 sospechosas += 1
                 print("art. %-14s %s" % (",".join(nums), negrita))
     print()
