@@ -13,6 +13,8 @@ se leyó**.
 | `AIP-Espana_ENR-5-1.pdf` y `.txt` | **AIP España, sección ENR 5.1**, «Zonas prohibidas, restringidas, peligrosas y de protección de planes de vuelo» | **ENAIRE**, proveedor de servicios de navegación aérea | 02/09/2026 |
 | `Camara-de-Espana_cuaderno-ATA.txt` | Ficha del trámite **«Cuaderno de admisión temporal de mercancías – ATA»** | **Cámara de Comercio de España** | 02/09/2026 |
 | `Camara-de-Espana_ATA-fichas-pais.txt` | **«Fichas país»**: los **82 territorios** que admiten cuadernos ATA. Documento fechado el **20/08/2026** | **Cámara de Comercio de España** | 02/09/2026 |
+| `FORTA_quienes-somos.txt` | «**Quiénes somos**»: el nombre completo de la federación y **sus doce organismos** | **FORTA** | 02/09/2026 |
+| `UTECA_portada.txt` | Portada: «**Televisión Comercial en Abierto**» | **UTECA** | 02/09/2026 |
 
 ## Por qué hacía falta
 

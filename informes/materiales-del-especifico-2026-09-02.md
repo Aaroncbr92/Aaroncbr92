@@ -221,14 +221,16 @@ la próxima convocatoria cambia de proveedor.
 
 ## Lo siguiente
 
-1. **Escribir los cinco temas que quedan**, por peso de examen: **15** (6), **6**
-   (4), **5** y **16** (3) y **4** (2).
-   *(Cerrados: **1**, **2**, **3**, **7**, **8**, **9**, **10**, **11**, **12**, **13**, **14** y **17**.)* Y en cada
+1. **Escribir los cuatro temas que quedan**, por peso de examen: **6** (4), **5** y
+   **16** (3) y **4** (2).
+   *(Cerrados: **1**, **2**, **3**, **7**, **8**, **9**, **10**, **11**, **12**, **13**, **14**, **15** y **17**.)* Y en cada
    uno, **buscar el vocabulario en las fuentes que ya están en casa antes de darlo por
    huérfano**: el tema 1 tenía dos preguntas con norma literal en el propio convenio, y
    el tema 3 **ninguna, comprobado término a término**.
-2. **Tirar del hilo del BOE para el tema 15** antes de resignarse: Ley 46/1983,
-   Ley 10/1998 y Ley 7/2010 pueden sostener FORTA y UTECA.
+2. ~~**Tirar del hilo del BOE para el tema 15**~~ → **hecho, y el hilo era otro**:
+   FORTA y UTECA se sostienen con **sus propias páginas**, no con leyes; y de las
+   dos leyes que el enunciado citaba, una **está mal fechada** —es la **Ley
+   10/1988**, no la 10/1998— y la otra **está derogada** por la Ley 13/2022.
 3. ~~Probar **ETSI** para el DVB~~ y ~~las fichas de **Sony** y **DJI**~~ →
    **hecho**. El ETSI y **DJI** estaban abiertos con agente de navegador; **Sony** y
    el fabricante de la **mobycam** están cerrados de verdad, comprobado con la regla

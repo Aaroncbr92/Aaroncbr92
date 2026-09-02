@@ -428,6 +428,31 @@ en Documentación y en Producción (Asistencia).
       territorios**, con **Irán** y sin los otros tres. **Regla nueva: cuando una pregunta depende
       de una lista que cambia, el tratado no es la fuente; la fuente es el registro vivo, y se cita
       con su fecha.**
+- [x] **Tema 15 del específico de Producción (Asistencia)** —organismos nacionales e
+      internacionales de televisión— **cerrado**: 2.326 palabras, con esquema de repaso. **Tema
+      partido por dónde deja leer cada organización**: **FORTA** y **UTECA** publican quiénes son
+      —la primera da hasta **sus doce organismos**— y sus dos preguntas quedan documentadas; **la
+      Unión Europea de Radiodifusión no deja leer nada**, y **sus tres preguntas —sede, tasa y
+      Euroradio 2SEE— se recogen de la plantilla sin verificar**. No es pereza: **el examen
+      pregunta el detalle interno de una organización que no publica accesiblemente su
+      información**, y el tema lo dice en vez de rellenar el hueco con plausibilidad.
+- [x] **La regla del agente de navegador, esta vez sin premio, y eso también es resultado.** Se
+      probaron **seis rutas** del sitio de la UER —portada, página institucional, contacto, portal
+      técnico, servicio de Eurovisión y cuatro rutas a sus estatutos— más dos caminos indirectos
+      para la sede —**registro mercantil suizo**, que exige credenciales, y **registro cantonal de
+      Ginebra**, que devuelve «no encontrado»—. **Nada.** La declaración se sostiene.
+- [x] **Dos errores del enunciado del examen, comprobados**: cita «la **Ley 10/1998** de 3 de mayo
+      de televisión privada» y esa ley es la **Ley 10/1988, de 3 de mayo** —`BOE-A-1988-11073`; el
+      día y el mes coinciden, el año no—; y la **Ley 7/2010** que invoca **está derogada** por la
+      disposición derogatoria única de la Ley 13/2022.
+- [x] **Una pregunta que se contesta leyendo las opciones**: la 78·33 ofrece **EBU** y **UER**, que
+      son **el mismo organismo con dos nombres**. En elección única **no puede haber dos respuestas
+      correctas**, luego ninguna de las dos lo es; y FORTA ya estaba descartada por la otra pregunta
+      del tema. **Queda ENEX, y se acierta sin saber qué es.**
+- [x] **Tercer caso de cifra huérfana que es comprobación positiva**: la lente marcó **1998**, que
+      es **el año equivocado del enunciado**, citado por el tema para señalarlo. **La lista de
+      huérfanas se lee en dos columnas: las que faltan por descuido y las que faltan porque el tema
+      dice que faltan.**
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -549,6 +574,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 8 · Formatos y soportes | sí | sí | sí | sí | sí | sí, limpia (9 huérfanas, todas metadatos o negaciones) | 6 de 6 enteras |
 | Producción 12 · El estudio | sí | sí | sí | sí | sí | sí, limpia (2 huérfanas, metadatos) | 6 de 6 enteras |
 | Producción 14 · Documentación internacional | sí | sí | sí | sí | sí | sí, limpia (0 huérfanas; lentes arregladas) | 6 de 6 enteras |
+| Producción 15 · Organismos | sí | sí | sí | sí | sí | sí, limpia (3 respuestas sin verificar, declaradas) | 6 de 6 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
