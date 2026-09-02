@@ -16,6 +16,7 @@ avisar** y una respuesta que dependa de ella caduca cuando el producto cambia.
 | `LiveU_LU300S_ficha.txt` | **LiveU LU300S** | `liveu.tv/lu300s` | 02/09/2026 |
 | `DJI_RS-4-Pro_ficha.txt` | **DJI RS 4 Pro**, ficha técnica | `dji.com/rs-4-pro/specs`, **con agente de navegador** | 02/09/2026 |
 | `DJI_RS-4-Pro_compatibilidad-Sony.txt` | **DJI RS 4 Pro**, cámaras **Sony** compatibles | `dji.com/support/compatibility`, **con agente de navegador** | 02/09/2026 |
+| `Autocue_portada.txt` | **Autocue**, portada de la marca | `autocue.com`, **con agente de navegador** | 02/09/2026 |
 
 ## Cómo se consiguieron, que es la parte que hay que contar
 
@@ -61,3 +62,12 @@ europeas del **DVB** están ya en `../normas-tecnicas/`. Van **cuatro**: LiveU, 
   fabricante**, sólo en la lista de DJI.
 - **El fabricante de la *mobycam***: responde **«prohibido» con agente de
   navegador** por las tres rutas probadas.
+- **Avid**, para el **iNEWS Command**: **ocho rutas probadas** con agente de
+  navegador —página de producto en dos formas, catálogo, versión en español, dos
+  documentos de soporte y la base de conocimiento— y todas devuelven «prohibido» o
+  «no encontrado».
+
+**Recuento del proyecto**: **cinco fuentes recuperadas** por la regla del agente de
+navegador —**LiveU**, **Astera**, **ETSI**, **DJI** y **Autocue**— y **cuatro
+cerradas de verdad, comprobadas con la regla puesta** —**UER**, **DCI**, **Sony** y
+**Avid**—.

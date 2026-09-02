@@ -221,9 +221,9 @@ la próxima convocatoria cambia de proveedor.
 
 ## Lo siguiente
 
-1. **Escribir los siete temas que quedan**, por peso de examen: **12**, **14** y
-   **15** (6 cada uno), **6** (4), **5** y **16** (3) y **4** (2).
-   *(Cerrados: **1**, **2**, **3**, **7**, **8**, **9**, **10**, **11**, **13** y **17**.)* Y en cada
+1. **Escribir los seis temas que quedan**, por peso de examen: **14** y **15** (6
+   cada uno), **6** (4), **5** y **16** (3) y **4** (2).
+   *(Cerrados: **1**, **2**, **3**, **7**, **8**, **9**, **10**, **11**, **12**, **13** y **17**.)* Y en cada
    uno, **buscar el vocabulario en las fuentes que ya están en casa antes de darlo por
    huérfano**: el tema 1 tenía dos preguntas con norma literal en el propio convenio, y
    el tema 3 **ninguna, comprobado término a término**.

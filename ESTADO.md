@@ -384,6 +384,22 @@ en Documentación y en Producción (Asistencia).
       de exteriores—: la lente marcó **4 096** y **3 840 × 2 150** como cifras sin fuente, y eso era
       justo lo que el tema afirmaba de las dos. **Cuando el tema cita una cifra para negarla, la
       lente la marca, y esa marca es la prueba.**
+- [x] **Tema 12 del específico de Producción (Asistencia)** —el estudio de televisión— **cerrado**:
+      2.098 palabras, con esquema de repaso. **Cinco de sus seis preguntas se apoyan sólo en la
+      plantilla** —los seis términos se buscaron en todo el corpus y no aparece ninguno—, y la
+      sexta se salvó con **una ficha de fabricante encontrada con la regla del agente de
+      navegador**: la portada de **Autocue** se titula «Autocue®: Innovating Prompting Since 1955»
+      y **llama «teleprompters» a sus propios aparatos**, lo que convierte la respuesta «no se
+      diferencian en nada» de dato que hay que creerse en **algo comprobable**: no son dos
+      aparatos, son **un aparato y una marca**.
+- [x] **Recuento de fuentes, al día**: **cinco recuperadas** con la regla del agente de navegador
+      —LiveU, Astera, ETSI, DJI y Autocue— y **cuatro cerradas de verdad, comprobadas con la regla
+      puesta** —UER, DCI, Sony y Avid, esta última con **ocho rutas probadas**—.
+- [x] **Una lección menor sobre cómo se corre la lente de documento**: la primera pasada del tema 12
+      devolvió **once cifras huérfanas**, y ninguna era un error: eran **designaciones de normas que
+      el tema sólo menciona de pasada** y cuyas fuentes no se le habían pasado a la lente. Corregido
+      el conjunto de fuentes, quedaron **dos**, las dos metadatos. **Cuando la lista de huérfanas
+      incluye designaciones de normas, el problema está en qué se le ha dado a comparar.**
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -503,6 +519,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 3 · El guion | sí | sí | sí | sí | sí | sí, limpia (0 de 6 con norma, declarado) | 6 de 6 enteras |
 | Producción 7 · Equipos humanos | sí | sí | sí | sí | sí | sí, limpia (1 tensión con el convenio declarada) | 6 de 6 enteras |
 | Producción 8 · Formatos y soportes | sí | sí | sí | sí | sí | sí, limpia (9 huérfanas, todas metadatos o negaciones) | 6 de 6 enteras |
+| Producción 12 · El estudio | sí | sí | sí | sí | sí | sí, limpia (2 huérfanas, metadatos) | 6 de 6 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
