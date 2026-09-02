@@ -1,0 +1,3132 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendación  UIT-R  BT.601-7 
+(03/2011) 
+ 
+Parámetros de codificación de televisión 
+digital para estudios con formatos 
+de imagen normal 4:3 y de 
+pantalla ancha 16:9 
+ 
+ 
+ 
+ 
+Serie BT 
+Servicio de radiodifusión 
+(televisión) 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+Rec.  UIT-R  BT.601-7 
+Prólogo 
+El Sector de Radiocomunicaciones tiene como cometido garantizar la utilización racional, equitativa, eficaz y económica 
+del espectro de frecuencias radioeléctricas por todos los servicios de radiocomunicaciones, incluidos los servicios por 
+satélite, y realizar, sin limitación de gamas de frecuencias, estudios que sirvan de base para la adopción de las 
+Recomendaciones UIT-R. 
+Las Conferencias Mundiales y Regionales de Radiocomunicaciones y las Asambleas de Radiocomunicaciones, con la 
+colaboración de las Comisiones de Estudio, cumplen las funciones reglamentarias y políticas del Sector de 
+Radiocomunicaciones. 
+Política sobre Derechos de Propiedad Intelectual (IPR) 
+La política del UIT-R sobre Derechos de Propiedad Intelectual se describe en la Política Común de Patentes 
+UIT-T/UIT-R/ISO/CEI a la que se hace referencia en la Resolución UIT-R 1. Los formularios que deben utilizarse en la 
+declaración sobre patentes y utilización de patentes por los titulares de las mismas figuran en la dirección web 
+http://www.itu.int/ITU-R/go/patents/es, donde también aparecen las Directrices para la implementación de la Política 
+Común de Patentes UIT-T/UIT-R/ISO/CEI y la base de datos sobre información de patentes del UIT-R sobre este asunto. 
+ 
+ 
+Series de las Recomendaciones UIT-R  
+(También disponible en línea en  http://www.itu.int/publ/R-REC/es) 
+Series 
+Título 
+BO 
+Distribución por satélite 
+BR 
+Registro para producción, archivo y reproducción; películas en televisión 
+BS 
+Servicio de radiodifusión (sonora) 
+BT 
+Servicio de radiodifusión (televisión) 
+F 
+Servicio fijo 
+M 
+Servicios móviles, de radiodeterminación, de aficionados y otros servicios por satélite conexos 
+P 
+Propagación de las ondas radioeléctricas 
+RA 
+Radioastronomía 
+RS 
+Sistemas de detección a distancia 
+S 
+Servicio fijo por satélite 
+SA 
+Aplicaciones espaciales y meteorología 
+SF 
+Compartición de frecuencias y coordinación entre los sistemas del servicio fijo por satélite y del 
+servicio fijo 
+SM 
+Gestión del espectro 
+SNG 
+Periodismo electrónico por satélite 
+TF 
+Emisiones de frecuencias patrón y señales horarias 
+V 
+Vocabulario y cuestiones afines 
+ 
+Nota: Esta Recomendación UIT-R fue aprobada en inglés conforme al procedimiento detallado en la  
+Resolución UIT-R 1. 
+ 
+Publicación electrónica 
+Ginebra, 2022 
+ 
+© UIT 2022 
+Reservados todos los derechos. Ninguna parte de esta publicación puede reproducirse por ningún procedimiento sin previa autorización 
+escrita por parte de la UIT. 
+ 
+
+ 
+Rec.  UIT-R  BT.601-7 
+1 
+RECOMENDACIÓN  UIT-R  BT.601-7* 
+Parámetros de codificación de televisión digital para estudios con formatos 
+de imagen normal 4:3 y de pantalla ancha 16:91 
+(Cuestión UIT-R 1/6) 
+(1982-1986-1990-1992-1994-1995-2007-2011) 
+Cometido 
+En esta Recomendación también se consideran las características de estructuras de elementos (píxel) que 
+constituyen una imagen de televisión digital entrelazada de 525 ó 565 líneas. 
+Esta Recomendación especifica los métodos de codificación digital de señales vídeo. Se utiliza una misma 
+velocidad de muestreo de 13,5 MHz para los formatos de imagen de 4:3 y de 16:9, con funcionamiento 
+adecuado en los actuales sistemas de transmisión. 
+Palabras clave 
+Codificación digital, diferencia de color, imagen de televisión digital, televisión de definición 
+convencional 
+La Asamblea de Radiocomunicaciones de la UIT, 
+considerando 
+a) 
+que las normas de televisión digital para estudios que cuentan con el mayor número de 
+valores de parámetros significativos comunes a los sistemas de 525 y 625 líneas presentan claras 
+ventajas para los organismos de radiodifusión y los productores de programas de televisión; 
+b) 
+que un método digital compatible en todo el mundo posibilitará el desarrollo de equipos con 
+muchas características comunes, permitirá economías de explotación y facilitará el intercambio 
+internacional de programas; 
+c) 
+que conviene disponer de una familia ampliable de normas compatibles de codificación 
+digital; los niveles de dicha familia podrían corresponder a diferentes niveles de calidad y formatos, 
+facilitar el tratamiento adicional requerido por las actuales técnicas de producción y tener en cuenta 
+las necesidades futuras; 
+d) 
+que un sistema basado en la codificación de las componentes puede satisfacer estos objetivos 
+deseables; 
+e) 
+que la coincidencia en el espacio de las muestras que representan las señales de luminancia 
+y de diferencia de color (o, en su caso, las señales de rojo, verde y azul) facilita el tratamiento de las 
+señales componentes digitales que requieren las actuales técnicas de producción, 
+recomienda 
+que se empleen los siguientes parámetros como base para las normas de codificación digital para 
+estudios de televisión en aquellas zonas del mundo que utilizan tanto sistemas de 525 líneas como de 
+625 líneas. 
+ 
+*  La Comisión de Estudio 6 de Radiocomunicaciones introdujo en noviembre de 2014 y marzo de 2017 
+modificaciones de redacción en esta Recomendación, de conformidad con la Resolución UIT-R 1. 
+1  Televisión de definición convencional. 
+
+2 
+Rec.  UIT-R  BT.601-7 
+1 
+Familia ampliable de normas compatibles de codificación digital 
+1.1 
+La codificación digital debe permitir el establecimiento y la evolución de una familia 
+ampliable de normas compatibles de codificación digital. Debería ser posible la comunicación entre 
+las normas de esta familia. 
+1.2 
+La codificación digital debe basarse en el empleo de una señal de luminancia y de dos señales 
+de diferencia de color (o, en su caso, señales de rojo, verde y azul). 
+1.3 
+Deben controlarse las características espectrales de las señales para evitar el solape de los 
+diferentes espectros, conservando al mismo tiempo la respuesta en la banda de paso. Las 
+características de los filtros se muestran en el Apéndice 2. 
+2 
+Especificaciones aplicables a cualquier norma de esta familia 
+2.1 
+Las estructuras de muestreo deben ser estáticas en el espacio. Este es el caso, por ejemplo, 
+de la estructura de muestreo ortogonal especificada en la presente Recomendación. 
+2.2 
+Si las muestras representan la señal de luminancia y dos señales simultáneas de diferencia de 
+color, cada par de muestras de diferencia de color deben tener igual ubicación en el espacio. Si se 
+utilizan muestras que representan las señales de rojo, verde y azul, deben tener igual ubicación en el 
+espacio. 
+2.3 
+La norma digital adoptada para cada norma de esta familia debe hacer posible la aceptación 
+y aplicación a nivel mundial en la explotación; una condición para lograr este objetivo es que, en cada 
+norma de esta familia, el número especificado de muestras por línea para los sistemas de 525 y 625 
+líneas sea compatible. (De ser posible, conviene que haya un número igual de muestras por línea.) 
+2.4 
+En las aplicaciones de estas especificaciones, el contenido de las palabras digitales se expresa 
+tanto en forma decimal como hexadecimal, designadas respectivamente por los sufijos «d» y «h». 
+Para evitar confusiones entre las representaciones de 8 bits y 10 bits, los ocho bits más significativos 
+se consideran parte entera, mientras que los dos bits adicionales, de existir, se consideran partes 
+fraccionarias. 
+Por ejemplo, la configuración de bits 10010001 se expresaría mediante 145d ó 91h, y la configuración 
+1001000101, mediante 145,25d ó 91,4h. 
+Cuando no aparece ninguna parte fraccionaria, debe suponerse que el valor binario es 00. 
+2.5 
+Definición de las señales digitales Y, CR, CB, partiendo de las señales (analógicas) 
+primarias ER , EG y EB  
+Para definir las señales Y, CR, CB, se describen aquí las reglas de construcción de esas señales 
+partiendo de las señales analógicas primarias con precorrección gamma ER , EG , EB. Esta construcción 
+encadena las tres etapas descritas más adelante en los § 2.5.1, 2.5.2 y 2.5.3, y se da a título de ejemplo. 
+En la realización práctica hay otros métodos de construcción que, aplicados a esas señales primarias 
+o a otras señales analógicas o digitales, pueden conducir a resultados idénticos. En el § 2.5.4 se da un 
+ejemplo. 
+2.5.1 
+Construcción de las señales de luminancia (EY ) y de diferencia de color (ER – EY ) y 
+(EB – EY ) 
+La construcción de las señales de luminancia y de diferencia de color es la siguiente: 
+ 
+ 
+ 
+B
+G
+R
+Y
+E
+E
+E
+E
+
++
+
++
+
+=
+
+114
+,0
+587
+,0
+299
+,0
+ 
+
+ 
+Rec.  UIT-R  BT.601-7 
+3 
+por lo tanto:  
+ 
+(
+)
+0,299
+0,587
+0,114
+0,701
+0,587
+0,114
+R
+Y
+R
+R
+G
+B
+R
+G
+B
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
+
+
+
+
+
+
+
+
+−
+=
+−
+−
+−
+=
+−
+−
+ 
+y 
+ 
+B
+G
+R
+B
+G
+R
+B
+Y
+B
+E
+E
+E
+E
+E
+E
+E
+E
+E
+
++
+
+−
+
+−
+=
+
+−
+
+−
+
+−
+
+=
+
+−
+
+886
+,0
+587
+,0
+299
+,0
+114
+,0
+587
+,0
+299
+,0
+)
+(
+ 
+ 
+Suponiendo que los valores de las señales están normalizados a la unidad (por ejemplo, niveles 
+máximos de 1,0 V), los valores que se obtienen para los colores blanco, negro, los colores primarios 
+saturados y sus complementarios se muestran en el Cuadro 1. 
+CUADRO 1 
+Valores de las señales normalizados 
+Condición 
+ER 
+EG 
+EB 
+EY 
+ER – EY 
+EB – EY 
+Blanco 
+Negro 
+ 
+1,0 
+ 
+0 
+ 
+1,0 
+ 
+0 
+ 
+1,0 
+ 
+0 
+ 
+1,0 
+ 
+0 
+ 
+0 
+ 
+0 
+ 
+0 
+ 
+0 
+Rojo 
+Verde 
+Azul 
+ 
+1,0 
+ 
+0 
+ 
+0 
+ 
+0 
+ 
+1,0 
+ 
+0 
+ 
+0 
+ 
+0 
+ 
+1,0 
+ 
+0,299 
+ 
+0,587 
+ 
+0,114 
+– 
+0,701 
+ 
+– 0,587 
+ 
+– 0,114 
+ 
+– 0,299 
+ 
+– 0,587 
+ 
+0,886 
+Amarillo 
+Cian 
+Magenta 
+ 
+1,0 
+ 
+0 
+ 
+1,0 
+ 
+1,0 
+ 
+1,0 
+ 
+0 
+ 
+0 
+ 
+1,0 
+ 
+1,0 
+ 
+0,886 
+ 
+0,701 
+ 
+0,413 
+ 
+0,114 
+ 
+– 0,701 
+ 
+0,587 
+ 
+– 0,886 
+ 
+0,299 
+ 
+0,587 
+ 
+2.5.2 
+Construcción de las señales de diferencia de color renormalizadas (ECR  y ECB   ) 
+Aunque los valores de EY están ya comprendidos en la gama de 1,0 a 0, los de (ER – EY ) se sitúan en 
+la gama de + 0,701 a – 0,701, y los de (EB – EY ) en la gama de + 0,886 a – 0,886. Para renormalizar 
+respecto a la unidad la gama de las señales de diferencia de color (es decir, de + 0,5 a – 0,5), se pueden 
+calcular las señales renormalizadas de diferencia de color rojo y azul de la siguiente manera: 
+ 
+ 
+402
+,1
+114
+,0
+587
+,0
+701
+,0
+402
+,1
+B
+G
+R
+Y
+R
+C
+E
+E
+E
+E
+E
+E
+R
+
+−
+
+−
+
+=
+
+−
+
+=
+
+ 
+y 
+ 
+ 
+772
+,1
+886
+,0
+587
+,0
+299
+,0
+772
+,1
+B
+G
+R
+Y
+B
+C
+E
+E
+E
+E
+E
+E
+B
+
++
+
+−
+
+−
+=
+
+−
+
+=
+
+ 
+Los símbolos 
+R
+C
+E
+ and 
+B
+C
+E
+ se utilizarán únicamente para denominar las señales de diferencia de 
+color renormalizadas, es decir, las señales que poseen la misma amplitud nominal cresta a cresta que 
+la señal de luminancia EY que de esta forma se designa señal de referencia. 
+
+4 
+Rec.  UIT-R  BT.601-7 
+2.5.3 
+Cuantificación 
+En el caso de una codificación binaria de 8 bits o de 10 bits con cuantificación uniforme, se 
+especifican 28 ó 210, es decir, 256 ó 1 024 niveles de cuantificación equidistantes, con lo que la gama 
+de números binarios disponibles va de 0000 0000 a 1111 1111 (00 a FF en la notación hexadecimal) 
+o de 0000 0000 00 a 1111 1111 11 (00,0h a FF,Ch en notación hexadecimal) siendo los números 
+decimales equivalentes 0,00d a 255,75d. 
+En esta Recomendación, los niveles 0,00d y 255,75d se reservan para datos de sincronización, en tanto 
+que los niveles 1,00d a 254,75d se utilizan para vídeo. 
+Dado que la señal de luminancia sólo va a ocupar 220 (8 bits) u 877 (10 bits) niveles, para 
+proporcionar márgenes de trabajo y que el negro se encuentre en el nivel 16,00d, el valor decimal de 
+la señal de luminancia cuantificada, Y es: 
+ 
+ 
+(
+)
+
+D
+D
+E
+Y
+Y
+/
+16
+219
+int
+
++
+
+=
+ 
+donde D puede valer 1 ó 4, dependiendo de si se trata de cuantificación de 8 o de 10 bits, 
+respectivamente. El operador int( ) devuelve el valor 0 para las fracciones de 0 a 0,4999… y el 
+valor +1 para las fracciones de 0,5 a 0,999…, es decir, redondea al entero superior las fracciones 
+mayores que 0,5. 
+Análogamente, como las señales de diferencias de color van a ocupar 225 (8 bits) o 897 (10 bits) 
+niveles y como el nivel 0 va a ser el nivel 128,00d, los valores decimales de las señales cuantificadas 
+de diferencia de color, CR y CB, son: 
+ 
+ 
+(
+)
+
+D
+D
+E
+C
+R
+C
+R
+/
+128
+224
+int
+
++
+
+=
+ 
+y 
+ 
+ 
+(
+)
+
+D
+D
+E
+C
+B
+C
+B
+/
+128
+224
+int
+
++
+
+=
+ 
+Los equivalentes digitales se denominan Y, CR y CB. 
+2.5.4 
+Construcción de Y, CR , CB mediante la cuantificación de ER , EG , EB 
+Cuando las componentes se obtienen directamente de las señales componentes con corrección gamma 
+ER , EG  y EB  o se generan directamente en forma digital, la cuantificación y la codificación serán 
+equivalentes a: 
+ 
+ 
+ 
+𝐸𝑅𝐷
+′ (en forma digital) = int (
+)
+
+D
+D
+ER
+/
+16
+219
+
++
+
+ 
+ 
+ 
+D
+G
+E
+ (en forma digital) = int (
+)
+
+D
+D
+EG
+/
+16
+219
+
++
+
+ 
+ 
+ 
+D
+B
+E
+ (en forma digital) = int (
+)
+
+D
+D
+EB
+/
+16
+219
+
++
+
+ 
+ 
+Por consiguiente: 
+ 
+ 
+=
+Y
+int (
+)
+
+D
+D
+E
+E
+E
+D
+D
+D
+B
+G
+R
+/
+114
+,0
+587
+,0
+299
+,0
+
+
++
+
++
+
+ 
+ 
+ 
+int
+D
+D
+E
+k
+E
+k
+E
+k
+D
+D
+D
+B
+m
+Y
+G
+m
+Y
+R
+m
+Y
+/
+2
+2
+2
+3
+2
+1
+
+
+
+
+
+
+
+
+
++
+
+
++
+
+
+ 
+ 
+ 
+=
+R
+C
+int
+D
+D
+E
+E
+E
+D
+D
+D
+B
+G
+R
+/
+128
+219
+224
+402
+,1
+114
+,0
+587
+,0
+701
+,0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+−
+
+−
+
+ 
+
+ 
+Rec.  UIT-R  BT.601-7 
+5 
+ 
+ 
+int
+D
+D
+E
+k
+E
+k
+E
+k
+D
+D
+D
+B
+m
+CR
+G
+m
+CR
+R
+m
+CR
+/
+128
+2
+2
+2
+3
+2
+1
+
+
+
+
+
+
+
++
+
+
+
+
+
+
++
+
+
++
+
+
+ 
+ 
+ 
+=
+B
+C
+int
+D
+D
+E
+E
+E
+D
+D
+D
+B
+G
+R
+/
+128
+219
+224
+772
+,1
+886
+,0
+587
+,0
+299
+,0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
++
+
+−
+
+−
+ 
+ 
+ 
+int
+D
+D
+E
+k
+E
+k
+E
+k
+D
+D
+D
+B
+m
+CB
+G
+m
+CB
+R
+m
+CB
+/
+128
+2
+2
+2
+3
+2
+1
+
+
+
+
+
+
+
++
+
+
+
+
+
+
++
+
+
++
+
+
+ 
+donde k y m son los coeficientes enteros y las longitudes en bits de los coeficientes enteros, 
+respectivamente. Los coeficientes enteros de las ecuaciones de luminancia y de diferencia de color 
+deberían calcularse de conformidad con el Anexo 2. 
+CUADRO 2 
+Coeficientes enteros de las ecuaciones de luminancia y de diferencia de color 
+Bits del 
+coeficiente 
+Denominador 
+Luminancia Y 
+Diferencia de color CR 
+Diferencia de color CB 
+m 
+2m 
+kY1 
+kY2 
+kY3 
+kCR1 
+kCR2 
+kCR3 
+kCB1 
+kCB2 
+kCB3 
+8 
+256 
+77 
+150 
+29 
+131 
+–110 
+–21 
+–44 
+–87 
+131 
+9 
+512 
+153 
+301 
+58 
+262 
+–219 
+–43 
+–88 
+–174 
+262 
+10 
+1 024 
+306 
+601 
+117 
+524 
+–439 
+–85 
+–177 
+–347 
+524 
+11 
+2 048 
+612 
+1 202 
+234 
+1 047 
+–877 
+–170 
+–353 
+–694 
+1 047 
+12 
+4 096 
+1 225 
+2 404 
+467 
+2 095 
+–1754 
+–341 
+–707 
+–1 388 
+2 095 
+13 
+8 192 
+2 449 
+4 809 
+934 
+4 189 
+–3 508 
+–681 
+–1 414 
+–2 776 
+4 190 
+14 
+16 384 
+4 899 
+9 617 
+1 868 
+8 379 
+–7 016 
+–1 363 
+–2 828 
+–5 551 
+8 379 
+15 
+32 768 
+9 798 
+19 235 
+3 735 
+16 758 
+–14 033 
+–2 725 
+–5 655 
+–11 103 
+16 758 
+16 
+65 536 
+19 595 
+38 470 
+7 471 
+33 516 
+–28 066 
+–5 450 
+–11 311 
+–22 205 
+33 516 
+NOTA 1 – Los números en negritas indican que el valor se cambió del entero más cercano, mediante optimización. 
+ 
+Para obtener las componentes 4:2:2 Y, CR, CB, debe efectuarse el filtrado de paso bajo y el 
+submuestreo en las señales 4:4:4 CR, CB anteriormente descritas. Conviene tomar nota de que podría 
+haber ligeras diferencias entre las componentes CR, CB, obtenidas de este modo y las obtenidas por 
+filtrado analógico antes del muestreo. 
+2.5.5 
+Limitación de las señales Y, CR , CB 
+La codificación digital en forma de señales Y, CR, CB permite representar una gama notablemente 
+mayor de valores de señal, que pueden sustentarse por las gamas correspondientes de las señales R, 
+G, B. Debido a ello y como resultado de la generación electrónica de la imagen o el tratamiento 
+electrónico de la señal, se pueden producir señales Y, CR, CB que, aunque individualmente sean 
+válidas, darían lugar a valores fuera de gama al convertirlas en señales R, G, B. Es a la vez más 
+conveniente y más eficaz evitar esta circunstancia aplicando una limitación a las señales Y, CR, CB en 
+lugar de esperar a que las señales se encuentren en la forma R, G, B. Además, la limitación puede 
+aplicarse de manera que se mantengan los valores de luminancia y tonalidad, reduciendo al mínimo 
+la degradación subjetiva, a costa únicamente de la saturación. 
+
+6 
+Rec.  UIT-R  BT.601-7 
+2.6 
+Característica de color y transferencia optoelectrónica2 
+ 
+Punto 
+Características 
+Parámetro 
+625 
+525 
+2.6.1 
+Coordenadas de cromaticidad, CIE 1931(1) 
+x 
+y 
+x 
+y 
+ 
+ 
+ 
+ 
+Rojo 
+0,640 
+0,330 
+0,630 
+0,340 
+ 
+ 
+ 
+ 
+Verde 
+0,290 
+0,600 
+0,310 
+0,595 
+ 
+ 
+ 
+ 
+Azul 
+ 
+ 
+primarios 
+0,150 
+0,060 
+0,155 
+0,070 
+2.6.2 
+Cromaticidad supuesta para señales primarias 
+iguales – Referencia: blanco 
+D65 
+x 
+y 
+ 
+ER = EG = EB 
+0,3127 
+0,3290 
+2.6.3 
+Características de transferencia optoelectrónica 
+antes de la precorrección no lineal 
+Se supone lineal 
+2.6.4 
+Característica global de transferencia 
+optoelectrónica en la fuente3 
+E = (1,099 L0,45 – 0,099) para 1,00  L  0,018 
+E = 4,500 L para 0,018  L  0 
+donde: 
+L: luminancia de la imagen 0  L  1 en colorimetría  convencional  
+E: señal eléctrica correspondiente 
+(1) 
+Las coordenadas de cromaticidad especificadas son las que actualmente utilizan los sistemas convencionales de 625 y 
+525 líneas. 
+ 
+3 
+Miembros de la familia  
+Se definen los siguientes miembros de la familia de normas: 
+– 
+4:2:2 para sistemas con formato 4:3, y con formato de pantalla ancha 16:9 cuando es 
+necesario mantener la misma anchura de banda de la señal análoga y la misma velocidad 
+digital para ambos formatos. 
+– 
+4:4:44 para sistemas con formato 4:3 y 16:9 con resolución de color más alta. 
+ 
+2 Actualmente, en algunos casos cuando los programas producidos en TVAD se difunden en TV de definición 
+convencional, su mapa de pixeles TVAD se reorganiza en un mapa de pixeles de TV de definición 
+convencional sin cambiar la colorimetría del programa original. 
+3 En la producción típica real, la función de codificación de las fuentes de imagen se ajusta para que la imagen 
+final tenga la apariencia deseada, vista en un monitor de referencia con la función de descodificación de 
+referencia de la Recomendación UIT-R BT.1886, en el entorno de visualización de referencia definido en 
+la Recomendación UIT-R BT.2035. Aunque algunos de los parámetros de la lista de la Recomendación 
+UIT-R BT.2035 están destinados al visionado de señal TVAD, deben utilizarse distancias de visionado a 
+escala para señales de TV de definición convencional. 
+4 En el caso de las normas 4:4:4 de esta familia, las señales muestreadas pueden ser las señales de luminancia 
+y de diferencia de color (o las señales rojo, verde y azul cuando se utilizan). 
+
+ 
+Rec.  UIT-R  BT.601-7 
+7 
+Anexo 1 
+ 
+Parámetros de codificación para esta familia de normas 
+1 
+Valores de los parámetros de codificación para la norma 4:2:2  
+La especificación (véase el Cuadro 3) es aplicable a la norma de relación 4:2:2, que ha de utilizarse 
+para la interfaz digital normalizada entre los equipos digitales principales de estudio y para el 
+intercambio internacional de programas de televisión digital con formato 4:3 o de pantalla ancha 16:9 
+cuando es necesario mantener la misma anchura de banda y la misma velocidad digital. 
+CUADRO 3 
+Parámetros 
+Sistemas de 525 líneas 
+60/1,001 tramas/s 
+Sistemas de 625 líneas 
+50 tramas/s 
+1) Señales codificadas: Y, CR, CB 
+Estas señales se obtienen a partir de señales con precorrección gamma, es decir: 
+EY, ER – EY , EB – EY (véase el § 2.5) 
+2) Número de muestras por línea 
+ 
+completa:  
+ 
+– 
+señal de luminancia (Y) 
+ 
+– 
+cada señal de diferencia de 
+ 
+ 
+color (CR, CB) 
+ 
+ 
+858 
+429 
+ 
+ 
+864 
+432 
+3) Estructura de muestreo 
+Ortogonal, repetitiva en cada línea, en cada trama y en cada imagen. Las muestras de 
+las señales CR y CB coinciden en el espacio con las muestras impares (1a, 3a, 5a, 
+etc.) de la señal Y en cada línea 
+4) Frecuencia de muestreo: 
+ 
+– 
+señal de luminancia 
+ 
+– 
+cada señal de diferencia de color 
+ 
+13,5 MHz 
+16,75 MHz 
+La tolerancia para las frecuencias de muestreo debe coincidir con la tolerancia para 
+las frecuencias de línea de la norma de televisión en color que corresponda 
+5) Forma de codificación 
+MIC con cuantificación uniforme, 8 ó 10 bits por muestra para la señal de luminancia 
+y para cada señal de diferencia de color 
+6) Número de muestras por línea 
+ 
+activa digital: 
+ 
+– 
+señal de luminancia 
+ 
+– 
+cada señal de diferencia de color 
+ 
+ 
+720 
+360 
+7) Relación de temporización 
+ 
+horizontal analógico-digital: 
+ 
+– 
+desde el final de la línea 
+ 
+ 
+activa digital hasta OH 
+16 periodos del reloj de luminancia 
+12 periodos del reloj de luminancia 
+8) Correspondencia entre los  niveles de 
+la señal de vídeo y  los niveles de las 
+señales de cuantificación: 
+– 
+escala 
+– 
+señal de luminancia 
+– 
+cada señal de diferencia de color 
+(Véase el § 2.4) (los valores se encuentran en forma decimal) 
+ 
+ 
+0,00d a 255,75d 
+220 (8 bits) o 877 (10 bits) niveles de cuantificación; el nivel de negro corresponde 
+al nivel 16,00d y el nivel de blanco de cresta corresponde al nivel 235,00d. El nivel 
+de la señal puede ocasionalmente sobrepasar el nivel 235,00d o estar por debajo del 
+nivel 16,00d. 
+225 (8 bits) o 897 (10 bits) niveles de cuantificación en la parte central de la escala de 
+cuantificación: la señal cero corresponde al nivel 128,00d. El nivel de la señal puede 
+ocasionalmente sobrepasar el nivel 240,00d o estar por debajo del nivel 16,00d. 
+9) Uso de palabras de código 
+Las palabras de código que corresponden a los niveles de cuantificación 0,00d y 
+255,75d se utilizan exclusivamente para sincronización. Los niveles 1,00d a 254,75d 
+están disponibles para vídeo. Cuando se trabaja con palabras de 8 bits en sistemas 
+de 10 bits, se agregan dos bits menos significativos (ceros) al final de las palabras 
+de 8 bits. 
+ 
+
+8 
+Rec.  UIT-R  BT.601-7 
+2 
+Valores de los parámetros de codificación para la norma 4:4:4  
+La siguiente especificación, indicada en el Cuadro 4, es aplicable a la norma de relación 4:4:4 
+adecuada para equipos de fuente de señales de televisión y aplicaciones de tratamiento de señales de 
+vídeo de alta calidad. 
+CUADRO 4 
+Parámetros 
+Sistemas de 525 líneas 
+60/1,001 tramas/s 
+Sistemas de 625 líneas 
+50 tramas/s 
+1) Señales codificadas: Y, CR, CB o 
+R, G, B 
+Estas señales se obtienen a partir de señales con precorrección gamma, es decir: 
+EY , ER – EY , EB – EY o ER , EG , EB 
+2) Número de muestras por línea 
+completa para cada señal 
+858 
+864 
+3) Estructura de muestreo 
+Ortogonal, repetitiva en cada línea, en cada trama y en cada imagen. Las tres estructuras 
+de muestreo deben ser coincidentes tanto entre sí como con la estructura de muestreo de 
+luminancia del nivel de relación 4:2:2 
+4) Frecuencia de muestreo para cada 
+señal 
+13,5 MHz 
+5) Forma de codificación 
+MIC con cuantificación uniforme, 8 ó 10 bits por muestra 
+6) Duración de la línea activa digital 
+expresada en número de muestras 
+720 
+7) Relación de sincronización 
+horizontal analógica a digital:  
+ 
+– 
+desde el final de la línea activa 
+ 
+ 
+hasta OH 
+16 periodos de reloj 
+12 periodos de reloj 
+8) Correspondencia entre los niveles 
+de la señal de vídeo y el nivel de 
+cuantificación de cada muestra: 
+ 
+– 
+escala 
+ 
+– 
+señales R, G, B o señal de 
+ 
+ 
+luminancia(1) 
+ 
+– 
+cada señal de diferencia de 
+ 
+ 
+color(1) 
+(Véase el § 3.4) (los valores se encuentran en forma decimal) 
+ 
+0,00d a 255,75d 
+220 (8 bits) u 877 (10 bits) niveles de cuantificación; el nivel de negro corresponde 
+al nivel 16,00d y el nivel de blanco de cresta corresponde al nivel 235,00d. El nivel 
+de la señal puede ocasionalmente sobrepasar el nivel 235,00d o estar por debajo del 
+nivel 16,00d. 
+225 (8 bits) u 897 (10 bits) niveles de cuantificación en la parte central de la escala de 
+cuantificación: la señal cero corresponde al nivel 128,00d. El nivel de la señal puede 
+ocasionalmente sobrepasar el nivel 240,00d o estar por debajo del nivel 16,00d. 
+9) Uso de palabras de código 
+Las palabras de código que corresponden a los niveles de cuantificación 0,00d y 255,75d 
+se utilizan exclusivamente para sincronización. Los niveles 1,00d a 254,75d están 
+disponibles para vídeo. 
+Cuando se trabaja con palabras de 8 bits en sistemas de 10 bits, se agregan dos bits 
+menos significativos (ceros) al final de las palabras de 8 bits. 
+(1) 
+Si se utiliza. 
+ 
+
+ 
+Rec.  UIT-R  BT.601-7 
+9 
+Apéndice 1 
+al Anexo 1 
+ 
+Definición de las señales utilizadas en las normas de codificación digital 
+1 
+Relación entre la línea activa digital y la referencia analógica de sincronismo 
+La relación entre las muestras de luminancia de la línea activa digital y la referencia analógica de 
+sincronismo se indica en las siguientes figuras: 
+– 
+Figura 1 para sistemas de 625 líneas. 
+– 
+Figura 2 para sistemas de 525 líneas. 
+En esas Figuras, el punto de muestreo aparece al comienzo de cada bloque. 
+Los números respectivos de muestras de diferencia de color en la norma 4:2:2 se pueden obtener 
+dividiendo el número de muestras de luminancia por 2. Los números (12,132) y (16,122) se 
+escogieron para disponer simétricamente la línea activa digital con respecto a las variaciones 
+permitidas. No forman parte de la especificación de la línea digital y sólo se refieren a interfaces 
+analógicos. 
+FIGURA 1 
+ 
+BT.601-01
+16:9 ó 4:3 a 13,5 MHz
+Línea analógica  – 1
+n
+Línea analógica n
+OH
+625
+Supresión digital
+12 T
+132 T
+T : periodo de muestreo de luminancia
+Muestras de luminancia
+4:2:2, 
+   crominancia
+Muestras de 
+CR
+B
+4:2:2, Muestras de
+C crominancia
+Línea digital n – 1
+Línea digitaln
+717
+718
+719
+720
+721
+730
+731
+732
+733
+862
+863
+0
+1
+2
+359
+360
+365
+366
+431
+0
+1
+0
+1
+359
+360
+365
+366
+491
+ 
+
+10 
+Rec.  UIT-R  BT.601-7 
+FIGURA 2 
+ 
+BT.601-02
+16:9 ó 4:3 a 13,5 MHz
+Línea analógica  – 1
+n
+Línea analógican
+OH
+525
+Línea digital  – 1
+n
+Línea digital n
+Supresión digital
+16 T
+122 T
+T : periodo de muestreo de luminancia
+Muestras de luminancia
+4:2:2, Muestras de
+   crominancia
+CR
+B
+4:2:2, Muestras de
+   crominancia
+C
+717
+718
+719
+720
+721
+734
+735
+736
+737
+856
+857
+0
+1
+2
+359
+360
+367
+368
+428
+0
+1
+0
+1
+359
+360
+367
+368
+428
+ 
+ 
+ 
+ 
+
+ 
+Rec.  UIT-R  BT.601-7 
+11 
+Apéndice 2 
+al Anexo 1 
+ 
+Características de filtrado 
+1 
+Indicaciones para la realización práctica de los filtros 
+En las propuestas para los filtros utilizados en los procesos de codificación y decodificación, se ha 
+supuesto que se introduce la corrección de la característica (sen x / x) en los filtros que van a 
+continuación de la conversión digital-analógica. Las tolerancias en la banda de paso del filtro, más el 
+corrector de (sen x / x), más la característica teórica (sen x / x) deben ser las mismas que las que se 
+aplican únicamente a los filtros. Esto se logra más fácilmente si, en el proceso de diseño, el filtro, el 
+corrector de (sen x / x) y el ecualizador de retardo se consideran una sola unidad. 
+Los retardos totales debidos al filtrado y a la codificación de las componentes de luminancia y de 
+diferencia de color deben ser los mismos. El retardo en el filtro de diferencia de color (véanse las 
+Fig. 4a) y Fig. 4b)) es el doble del correspondiente al filtro de luminancia (véanse las Fig. 3a) y 
+Fig. 3b)). Como resulta difícil igualar estos retardos utilizando redes analógicas de retardo sin exceder 
+las tolerancias de la banda de paso, se recomienda igualar el conjunto de las diferencias de retardo 
+(en múltiplos enteros del periodo de muestreo) en el dominio digital. Al corregir cualquier resto, debe 
+observarse que el circuito de muestreo y mantenimiento del decodificador introduce un retardo 
+uniforme igual a la mitad del periodo de muestreo. 
+Se reconoce que las tolerancias en la banda de paso para el rizado de amplitud y el retardo de grupo 
+son muy estrictas. El estado actual de los estudios indica que es necesario que se pueda llevar a cabo 
+un número significativo de operaciones de codificación y decodificación en cascada sin sacrificar la 
+calidad potencialmente elevada de la norma de codificación 4:2:2. Debido a las limitaciones de las 
+características de los equipos de medición actualmente disponibles, puede que los fabricantes tengan 
+dificultades para verificar de forma económica el cumplimiento de las tolerancias de cada uno de los 
+filtros durante la producción. No obstante, es posible diseñar filtros de forma que se cumplan las 
+características especificadas en la práctica, y se pide a los fabricantes que hagan todos los esfuerzos 
+posibles, durante el proceso de fabricación, para que el ajuste de cada filtro cumpla las máscaras 
+correspondientes. 
+Las especificaciones indicadas en este Apéndice 2 se elaboraron con la idea de mantener en la medida 
+de lo posible el contenido espectral de las señales Y, CR, CB a través de la cadena de señales 
+componentes. Sin embargo, se reconoce que la característica espectral de la diferencia de color debe 
+conformarse mediante un filtro de corte progresivo lento insertado en los monitores de imagen o al 
+final de la cadena de señales componentes. 
+ 
+
+12 
+Rec.  UIT-R  BT.601-7 
+FIGURA 3 
+Plantilla del filtro para la señal de luminancia, RGB o de diferencia de color 4:4:4 
+BT.601-03
+Frecuencia  (MHz)
+a) Máscara de la característica de pérdida de inserción en función de la frecuencia
+Frecuencia (MHz)
+Frecuencia (MHz)
+b) Tolerancia para el rizado en la banda de paso
+5,75
+13,5
+6,75
+5,75
+5,75
+5,5
+0,01 0,05
+0,1 dB
+0,05
+– 0,05
+c) Tolerancia para el retardo de grupo en la banda de paso
+Nota 1 – Los valores más bajos de la escala de ordenadas en b) y c) corresponden a 1 kHz (en vez de 0 MHz).
+50
+40
+30
+20
+10
+0
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+12 dB
+40 dB
+0
+1
+2
+3
+4
+5
+6
+0
+1
+2
+3
+4
+5
+6
+0
+0
+5
+– 5
+(dB)
+(dB)
+2 ns
+(ns)
+4 ns 6 ns
+ 
+
+ 
+Rec.  UIT-R  BT.601-7 
+13 
+FIGURA 4 
+Plantilla del filtro para la señal de diferencia de color 4:2:2 
+BT.601-04
+6,75
+3,375
+2,75
+2,75
+2,75
+0,1
+0,05
+– 0,05
+– 0,1
+Frecuencia  (MHz)
+a) Máscara de la característica de pérdida de inserción en función de la frecuencia
+Frecuencia (MHz)
+Frecuencia (MHz)
+b) Tolerancia para el rizado en la banda de paso
+0,02
+c) Tolerancia para el retardo de grupo en la banda de paso
+Nota 1 – Los valores más bajos de la escala de ordenadas en b) y c) corresponden a 1 kHz (en vez de 0 MHz).
+0,1 dB
+8 ns 12 ns 24 ns
+Frecuencia correspondiente
+a una pérdida de 3 dB
+1
+2
+3
+0
+0
+1
+2
+3
+0
+20
+10
+– 10
+– 20
+50
+40
+30
+20
+10
+0
+6 dB
+40 dB
+0
+1
+2
+3
+4
+5
+6
+7
+(dB)
+(dB)
+4 ns
+(ns)
+ 
+
+14 
+Rec.  UIT-R  BT.601-7 
+FIGURA 5 
+Plantilla del filtro digital para la conversión de frecuencia de muestreo de señales 
+de diferencia de color de relación 4:4:4: a señales de relación 4.2:2 
+BT.601-05
+2,75
+0,1
+0,5
+– 0,5
+– 0,1
+Frecuencia (MHz)
+a) Máscara de característica de pérdida de inserción en función de la frecuencia
+Frecuencia (MHz)
+b) Tolerancia para el rizado en la banda de paso
+0,1 dB
+2,75
+3,375
+6,25
+6,75
+ Véase Nota 3
+0
+1
+2
+3
+4
+5
+6
+7
+0
+55 dB
+6 dB
+0
+1
+2
+3
+50
+40
+30
+20
+10
+0
+60
+(dB)
+(dB)
+Notas relativas a las Figs. 3, 4 y 5:
+Nota 1 – El rizado y el retardo de grupo se especifican respecto de sus valores a 1 kHz. Las líneas continuas representan
+los límites prácticos y las líneas de trazo discontinuo indican los límites sugeridos para el diseño teórico.
+Nota 2 – En el filtro digital, los límites prácticos y de diseño son los mismos. La distorsión de retardo es cero, por
+diseño.
+Nota 3 – En el filtro digital (Fig. 5), la característica de amplitud en función de la frecuencia (en escalas lineales) debe
+ser asimétrica respecto del punto de amplitud mitad, como se indica en la Figura.
+Nota 4 – En las propuestas para los filtros utilizados en los procesos de codificación y decodificación, se ha supuesto
+que se introduce la corrección de la característica (sen x/x) del circuito de muestreo y retención en los filtros que van a
+continuación de la conversión digital-analógica.
+ 
+ 
+
+ 
+Rec.  UIT-R  BT.601-7 
+15 
+Anexo 2 
+ 
+Obtención de los coeficientes enteros de las ecuaciones de la luminancia 
+y la diferencia de color para el sistema de gama de color convencional 
+Los sistemas digitales pueden introducir errores de cálculo en las señales de luminancia y de 
+diferencia de color debido al número finito de bits de los coeficientes de la ecuación. Además, las 
+señales de luminancia y de diferencia de color pueden adoptar valores ligeramente distintos, 
+dependiendo de la secuencia de procesamiento de la señal, es decir, de la discrepancia entre las señales 
+cuantificadas después del proceso matricial analógico y las señales con proceso matricial digital 
+después de la cuantificación de las señales RGB. Para minimizar dichos errores y las discrepancias 
+existentes, deben optimizarse los coeficientes enteros de las ecuaciones digitales. A continuación se 
+indica el procedimiento de optimización y los coeficientes enteros resultantes para diversas longitudes 
+binarias. 
+1 
+Ecuaciones digitales 
+En lo que sigue, m y n indican las longitudes binarias de los coeficientes enteros y de las señales 
+digitales, respectivamente. 
+A continuación se indica la ecuación digital de la luminancia para el sistema de gama de color 
+convencional: 
+ 
+ 
+
+
+B
+G
+R
+Y
+D
+D
+D
+D
+
++
+
++
+
+=
+
+114
+,0
+587
+,0
+299
+,0
+ 
+INT
+ 
+(1) 
+ 
+ 
+
+
+
+
+
+
++
+
+
++
+
+
+=
+B
+m
+Y
+G
+m
+Y
+R
+m
+Y
+D
+r
+D
+r
+D
+r
+2
+2
+2
+ 
+INT
+3
+2
+1
+ 
+(2) 
+ 
+ 
+
+
+
+
+
+
++
+
+
++
+
+
+
+B
+m
+Y
+G
+m
+Y
+R
+m
+Y
+D
+k
+D
+k
+D
+k
+2
+2
+2
+ 
+INT
+3
+2
+1
+ 
+(3) 
+siendo r' y k' los valores reales de los coeficientes y de los coeficientes enteros, respectivamente, 
+indicados a continuación: 
+m
+Yr
+2
+299
+,0
+1
+
+=
+
+ 
+
+
+1
+1
+ 
+INT
+Y
+Y
+r
+k
+
+=
+
+ 
+ 
+m
+Yr
+2
+587
+,0
+2
+
+=
+
+ 
+
+
+2
+2
+ 
+INT
+Y
+Y
+r
+k
+
+=
+
+ 
+ 
+m
+Yr
+2
+114
+,0
+3
+
+=
+
+ 
+
+
+3
+3
+ 
+INT
+Y
+Y
+r
+k
+
+=
+
+ 
+A continuación se describen las ecuaciones digitales de la diferencia de color para el sistema de gama 
+de color convencional: 
+ 
+ 
+ 
+
+
+
+
++
+
+
++
+
+−
+
+−
+=
+
+−1
+2
+219
+224
+772
+,1
+886
+,0
+587
+,0
+299
+,0
+ 
+INT
+n
+B
+G
+R
+CB
+D
+D
+D
+D
+ 
+(4) 
+ 
+ 
+
+
+
+
++
+
+
++
+
+
++
+
+
+=
+−1
+3
+2
+1
+2
+2
+2
+2
+ 
+INT
+n
+B
+m
+CB
+G
+m
+CB
+R
+m
+CB
+D
+r
+D
+r
+D
+r
+ 
+(5) 
+ 
+ 
+
+
+
+
++
+
+
++
+
+
++
+
+
+
+−1
+3
+2
+1
+2
+2
+2
+2
+ 
+INT
+n
+B
+m
+CB
+G
+m
+CB
+R
+m
+CB
+D
+k
+D
+k
+D
+k
+ 
+(6) 
+
+16 
+Rec.  UIT-R  BT.601-7 
+ 
+ 
+
+
+
+
++
+
+
+−
+
+−
+
+=
+
+−1
+2
+219
+224
+402
+,1
+114
+,0
+587
+,0
+701
+,0
+ 
+INT
+ 
+n
+B
+G
+R
+CR
+D
+D
+D
+D
+ 
+(7) 
+ 
+ 
+
+
+
+
++
+
+
++
+
+
++
+
+
+=
+−1
+3
+2
+1
+2
+2
+2
+2
+ 
+INT
+n
+B
+m
+CR
+G
+m
+CR
+R
+m
+CR
+D
+r
+D
+r
+D
+r
+ 
+(8) 
+ 
+ 
+
+
+
+
++
+
+
++
+
+
++
+
+
+
+−1
+3
+2
+1
+2
+2
+2
+2
+ 
+INT
+n
+B
+m
+CR
+G
+m
+CR
+R
+m
+CR
+D
+k
+D
+k
+D
+k
+ 
+(9) 
+siendo: 
+m
+CB
+r
+2
+219
+224
+772
+,1
+299
+,0
+1
+
+
+−
+=
+
+ 
+
+
+1
+1
+ 
+INT
+CB
+CB
+r
+k
+
+=
+
+ 
+m
+CB
+r
+2
+219
+224
+772
+,1
+587
+,0
+2
+
+
+−
+=
+
+ 
+
+
+2
+2
+ 
+INT
+CB
+CB
+r
+k
+
+=
+
+ 
+m
+CB
+r
+2
+219
+224
+772
+,1
+886
+,0
+3
+
+
+=
+
+ 
+
+
+3
+3
+ 
+INT
+CB
+CB
+r
+k
+
+=
+
+ 
+m
+CR
+r
+2
+219
+224
+402
+,1
+701
+,0
+1
+
+
+=
+
+ 
+
+
+1
+1
+ 
+INT
+CR
+CR
+r
+k
+
+=
+
+ 
+m
+CR
+r
+2
+219
+224
+402
+,1
+587
+,0
+2
+
+
+−
+=
+
+ 
+
+
+2
+2
+ 
+INT
+CR
+CR
+r
+k
+
+=
+
+ 
+m
+CR
+r
+2
+219
+224
+402
+,1
+114
+,0
+3
+
+
+−
+=
+
+ 
+
+
+3
+3
+ 
+INT
+CR
+CR
+r
+k
+
+=
+
+ 
+ 
+2 
+Procedimiento de optimización  
+La ecuación (3) muestra la expresión matricial digital de la señal de luminancia que incluye los errores 
+de cálculo debidos a la longitud binaria finita de los coeficientes enteros. Cuando aumenta la longitud 
+binaria de los coeficientes, el argumento (el valor entre [ ]) de la ecuación (3) se aproxima al de la 
+ecuación (2), lo que se traduce en una reducción de los errores o las discrepancias entre ecuaciones. 
+Por tanto, la diferencia entre los argumentos de las ecuaciones (2) y (3) puede considerarse como una 
+medida de la optimización de los coeficientes enteros. Como la diferencia de los argumentos depende 
+de las señales RGB de entrada, la optimización de «error mínimo cuadrático» se define como aquella 
+en que los coeficientes enteros se ajustan de forma que la suma de las diferencias cuadráticas de todas 
+las entradas adquiere el valor mínimo, es decir, la que minimiza el valor de la ecuación (10). 
+ 
+ 
+2
+los
+todos
+para
+3
+2
+1
+3
+2
+1
+2
+2
+2
+2
+2
+2
+ε
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+
+
++
+
+
+−
+
+
+
+
+
+
++
+
+
++
+
+
+=
+
+RGB
+B
+m
+Y
+G
+m
+Y
+R
+m
+Y
+B
+m
+Y
+G
+m
+Y
+R
+m
+Y
+Y
+D
+r
+D
+r
+D
+r
+D
+k
+D
+k
+D
+k
+ 
+(10) 
+ 
+Además de dar el error cuadrático mínimo, esta optimización de mínimos cuadrados minimiza 
+automáticamente el error máximo que se produce en un color de entrada particular (combinación 
+particular de señales RGB de entrada) así como la discrepancia entre las diferentes secuencias de 
+procesamiento de la señal (formación matricial analógica y matricial digital). 
+
+ 
+Rec.  UIT-R  BT.601-7 
+17 
+El procedimiento de optimización es el siguiente: 
+Paso 1: Se toma como valor inicial de cada coeficiente entero Yj
+r (j = 1, 2, 3) el entero más próximo 
+al valor real del coeficiente Yj
+r; 
+Paso 2: Con los coeficientes enteros iniciales se calculan los errores cuadráticos o suma de 
+diferencias cuadráticas (ecuación (10)) con la gama de señales RGB de entrada, por ejemplo, de 16 a 
+235 para un sistema de 8 bits (en el § 3 se describe un método sencillo de cálculo sin utilizar el 
+sumatorio); 
+Paso 3: Se examinan los errores cuadráticos al aumentar/disminuir en uno cada coeficiente entero. 
+Es preciso evaluar el total de 27 (=33) combinaciones, porque cada coeficiente puede adoptar tres 
+valores, es decir, el valor aumentado, el disminuido y el idéntico al valor inicial. 
+Paso 4: Se selecciona la combinación de coeficientes que da el error cuadrático mínimo. Esta 
+combinación es la resultante optimizada. 
+Se aplica el mismo procedimiento a las ecuaciones de diferencia de color, utilizando las fórmulas (11) 
+y (12). 
+ 
+ 
+ 
+
+
+
+
+
+
+
++
+
+
++
+
+
++
+
+
+=
+
+−
+RGB
+n
+B
+m
+CB
+G
+m
+CB
+R
+m
+CB
+CB
+D
+k
+D
+k
+D
+k
+los
+todos
+para
+1
+3
+2
+1
+2
+2
+2
+2
+ε
+ 
+ 
+ 
+ 
+2
+1
+3
+2
+1
+2
+2
+2
+2
+
+
+
+
+
+
+
++
+
+
++
+
+
++
+
+
+−
+−
+n
+B
+m
+CB
+G
+m
+CB
+R
+m
+CB
+D
+r
+D
+r
+D
+r
+ 
+(11) 
+ 
+ 
+
+
+
+
+
+
+
++
+
+
++
+
+
++
+
+
+=
+
+−
+RGB
+n
+B
+m
+CR
+G
+m
+CR
+R
+m
+CR
+CR
+D
+k
+D
+k
+D
+k
+los
+todos
+para
+1
+3
+2
+1
+2
+2
+2
+2
+ε
+ 
+ 
+ 
+ 
+2
+1
+3
+2
+1
+2
+2
+2
+2
+
+
+
+
+
+
++
+
+
++
+
+
++
+
+
+−
+−
+n
+B
+m
+CR
+G
+m
+CR
+R
+m
+CR
+D
+r
+D
+r
+D
+r
+ 
+(12) 
+3 
+Método de cálculo simple para la suma de las diferencias cuadráticas 
+Expresando la diferencia entre los coeficientes enteros y reales como ij = k'ij – r'ij, y las señales RGB 
+digitales como Xj, la suma de las diferencias cuadráticas de las ecuaciones (10)-(12) puede escribirse 
+de la siguiente manera: 
+ 
+ 
+(
+)
+2
+3
+3
+2
+2
+1
+1
+1
+2
+3
+2
+1
+ε
+
+=
+=
+=
+
++
+
++
+
+=
+
+H
+L
+X
+H
+L
+X
+H
+L
+X
+i
+i
+i
+m
+i
+X
+X
+X
+ 
+(13) 
+ 
+en la que L y H indican los límites inferior y superior de la gama de señales de entrada, 
+respectivamente, para la que hay que optimizar los coeficientes enteros. 
+Como L y H son constantes en el sistema digital considerado, los sumatorios de Xj son también 
+constantes. La ecuación (13) puede expresarse en función únicamente de ij. 
+ 
+ 
+(
+)
+(
+)
+
+
+1
+3
+3
+2
+2
+1
+2
+2
+3
+2
+2
+2
+1
+1
+2
+2
+1
+i
+i
+i
+i
+i
+i
+i
+i
+i
+m
+i
+N
+N
+
+
++
+
+
++
+
+
++
+
++
+
++
+
+=
+
+ 
+(14) 
+
+18 
+Rec.  UIT-R  BT.601-7 
+siendo: 
+ 
+ 
+
+
+
+
+
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+=
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+X
+X
+X
+N
+1
+2
+3
+1
+3
+2
+2
+3
+1
+2
+1
+2
+1
+2
+1
+1
+ 
+ 
+ 
+ 
+}
+6
+/)1
+2
+(
+)1
+(
+6
+/)1
+2
+(
+)1
+(
+{
+)1
+(
+2
+−
+−
+−
++
++
++
+−
+=
+L
+L
+L
+H
+H
+H
+L
+H
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+=
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+H
+L
+X
+X
+X
+X
+X
+X
+X
+N
+2
+3
+1
+1
+2
+3
+3
+1
+2
+1
+3
+3
+2
+2
+1
+2
+ 
+ 
+ 
+ 
+2
+}
+2
+/
+)1
+(
+2
+/)1
+(
+{
+)1
+(
+L
+L
+H
+H
+L
+H
+−
+−
++
++
+−
+=
+ 
+ 
+Así pues, el cálculo de los errores cuadráticos de las ecuaciones (10)-(12) puede efectuarse 
+sencillamente mediante la ecuación (14). 
+ 
+______________ 
+ 

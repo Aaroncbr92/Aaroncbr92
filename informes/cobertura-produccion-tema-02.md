@@ -4,16 +4,25 @@
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 
 - **Tema**: Derechos de autor. Ley de Propiedad Intelectual. Redes sociales.
-- **Preguntas de la materia en los dos cuadernillos de Producción (Asistencia)**: **9**.
-- **Contestadas con el tema delante**: **9**.
-- **Lagunas que hubo que cerrar**: **ninguna**. El tema se escribió después de leer las nueve
-  preguntas, así que los nueve preceptos entraron desde el primer borrador.
+- **Preguntas de la materia en los dos cuadernillos de Producción (Asistencia)**: **10**.
+- **Contestadas con el tema delante**: **10**.
+- **Lagunas que hubo que cerrar**: **ninguna**. El tema se escribió después de leer las preguntas,
+  así que los preceptos entraron desde el primer borrador.
+
+**Nota del 2026-09-02.** Al repartir a mano las 129 preguntas del bloque específico apareció una
+**décima** de esta materia que la primera pasada no había visto: la **77 · 30**, «en una producción
+interna, ¿qué derechos tiene la CRTVE?», cuya respuesta oficial es **los derechos de explotación**.
+No la reconoció ninguna palabra clave porque **no nombra la ley ni ningún artículo**: habla de
+«producción interna» y de «la CRTVE». La contesta el **artículo 88.1**, que el tema ya recogía, así
+que **no hubo que ampliar nada**; pero enseña que el reparto por palabras clave se deja preguntas
+que sí son de la materia, y es la razón de que el bloque específico se reparta a mano.
 
 ## Una por una
 
 | Cuadernillo | Nº | Respuesta oficial | Precepto que la contesta | Epígrafe del tema |
 |---|---|---|---|---|
 | 77 · Producción (Asistencia) | 13 | c | Art. 87 | 9.1 |
+| 77 · Producción (Asistencia) | 30 | c | Art. 88.1 | 9.2 |
 | 77 · Producción (Asistencia) | 31 | d | Art. 37 bis.1 | 7.4 |
 | 77 · Producción (Asistencia) | 46 | a | Art. 17 | 4.1 |
 | 77 · Producción (Asistencia) | 56 | b | Art. 14.6.º | 3 |
@@ -43,11 +52,12 @@ entran en la lista de erratas que el volumen imprime junto a la pregunta.
 
 ## Lo que este tema cubre y el examen no preguntó
 
-El reparto de las nueve preguntas cubre casi todo el Libro I y toca el Libro II sólo por el
-artículo 128. Quedan sin preguntar, y son material natural para este puesto:
+El reparto de las diez preguntas cubre casi todo el Libro I, entra en el Título VI por los
+artículos 87 y 88, y toca el Libro II sólo por el artículo 128. Quedan sin preguntar, y son
+material natural para este puesto:
 
-- **Artículos 88 a 93**: presunción de cesión al productor, remuneración por exhibición con precio
-  de entrada, versión definitiva y prohibición de destruir el soporte original.
+- **Artículos 89 a 93**: cesión de la obra preexistente, remuneración por exhibición con precio de
+  entrada, versión definitiva y prohibición de destruir el soporte original.
 - **Artículo 120**: la diferencia entre **obra audiovisual** y **grabación audiovisual**.
 - **Artículo 124**: las fotografías del proceso de producción.
 - **Artículo 36.3**: la grabación técnica de la entidad radiodifusora.

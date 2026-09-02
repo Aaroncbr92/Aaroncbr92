@@ -79,11 +79,21 @@ def articulado(t):
     """[(nº, título, cuerpo)] del articulado."""
     ini = t.find("TEXTO ORIGINAL")
     t = t[ini:] if ini > 0 else t
-    marcas = list(re.finditer(r"(?m)^Artículo (\d+)\.\s*(.*)$", t))
+    # el DOUE no titula siempre igual. El RGPD escribe «Artículo 1. Objeto.» en
+    # una línea; el reglamento de los drones deja «Artículo 1» solo y pone el
+    # título en la línea siguiente. Con un patrón que exigiera el punto, el
+    # segundo daba **cero artículos**: aquí eso se ve porque el volcado avisa y
+    # se para, pero un patrón más laxo lo habría dejado pasar en silencio
+    marcas = list(re.finditer(r"(?m)^Artículo (\d+)(?:\.\s*(.*))?$", t))
     fuera = []
     for i, m in enumerate(marcas):
         fin = marcas[i + 1].start() if i + 1 < len(marcas) else len(t)
-        fuera.append((m.group(1), m.group(2).strip(), t[m.end():fin].strip()))
+        cuerpo = t[m.end():fin].strip()
+        titulo = (m.group(2) or "").strip()
+        if not titulo and cuerpo:
+            titulo, _, cuerpo = cuerpo.partition("\n")
+            titulo, cuerpo = titulo.strip(), cuerpo.strip()
+        fuera.append((m.group(1), titulo, cuerpo))
     return fuera
 
 
@@ -116,6 +126,16 @@ def main(ident, destino):
             fh.write("Artículo %s. %s\n%s\n\n" % (n, tit, cuerpo))
     print("%s · %d artículos · %d correcciones de errores"
           % (ruta, len(arts), len(corr)))
+    # un tratado numera desde 1 dentro de cada anexo, así que «Artículo 1»
+    # aparece muchas veces. Las lentes indexan por número y se quedarían solo
+    # con el último, comprobando el resto contra el artículo equivocado sin
+    # dar ningún error (manual, apartado 10)
+    repes = sorted({n for n, _, _ in arts if [x for x, _, _ in arts].count(n) > 1},
+                   key=int)
+    if repes:
+        print("  ! %d números de artículo se repiten (%s...): el documento "
+              "numera por anexos.\n    Las lentes por artículo NO sirven sobre "
+              "este volcado; usa la de documento." % (len(repes), ", ".join(repes[:8])))
 
     for ref, _ in corr:
         c = texto_plano(traer(WEB + ref))

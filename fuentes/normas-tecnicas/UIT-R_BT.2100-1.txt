@@ -1,0 +1,1635 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendación  UIT-R  BT.2100-1 
+(06/2017) 
+ 
+Valores de los parámetros de imagen 
+de los sistemas de televisión 
+de elevada gama dinámica 
+para la producción y el intercambio 
+internacional de programas 
+ 
+ 
+ 
+ 
+Serie BT 
+Servicio de radiodifusión 
+(televisión) 
+ 
+ 
+ 
+ 
+
+ii 
+Rec.  UIT-R  BT.2100-1 
+Prólogo 
+El Sector de Radiocomunicaciones tiene como cometido garantizar la utilización racional, equitativa, eficaz y económica 
+del espectro de frecuencias radioeléctricas por todos los servicios de radiocomunicaciones, incluidos los servicios por 
+satélite, y realizar, sin limitación de gamas de frecuencias, estudios que sirvan de base para la adopción de las 
+Recomendaciones UIT-R. 
+Las Conferencias Mundiales y Regionales de Radiocomunicaciones y las Asambleas de Radiocomunicaciones, con la 
+colaboración de las Comisiones de Estudio, cumplen las funciones reglamentarias y políticas del Sector de 
+Radiocomunicaciones. 
+Política sobre Derechos de Propiedad Intelectual (IPR) 
+La política del UIT-R sobre Derechos de Propiedad Intelectual se describe en la Política Común de Patentes 
+UIT-T/UIT-R/ISO/CEI a la que se hace referencia en el Anexo 1 a la Resolución UIT-R 1. Los formularios que deben 
+utilizarse en la declaración sobre patentes y utilización de patentes por los titulares de las mismas figuran en la dirección 
+web http://www.itu.int/ITU-R/go/patents/es, donde también aparecen las Directrices para la implementación de la Política 
+Común de Patentes UIT-T/UIT-R/ISO/CEI y la base de datos sobre información de patentes del UIT-R sobre este asunto. 
+ 
+ 
+Series de las Recomendaciones UIT-R  
+(También disponible en línea en  http://www.itu.int/publ/R-REC/es) 
+Series 
+Título 
+BO 
+Distribución por satélite 
+BR 
+Registro para producción, archivo y reproducción; películas en televisión 
+BS 
+Servicio de radiodifusión (sonora) 
+BT 
+Servicio de radiodifusión (televisión) 
+F 
+Servicio fijo 
+M 
+Servicios móviles, de radiodeterminación, de aficionados y otros servicios por satélite conexos 
+P 
+Propagación de las ondas radioeléctricas 
+RA 
+Radioastronomía 
+RS 
+Sistemas de detección a distancia 
+S 
+Servicio fijo por satélite 
+SA 
+Aplicaciones espaciales y meteorología 
+SF 
+Compartición de frecuencias y coordinación entre los sistemas del servicio fijo por satélite y del 
+servicio fijo 
+SM 
+Gestión del espectro 
+SNG 
+Periodismo electrónico por satélite 
+TF 
+Emisiones de frecuencias patrón y señales horarias 
+V 
+Vocabulario y cuestiones afines 
+ 
+Nota: Esta Recomendación UIT-R fue aprobada en inglés conforme al procedimiento detallado en la  
+Resolución UIT-R 1. 
+ 
+Publicación electrónica 
+Ginebra, 2018 
+ 
+ UIT 2018 
+Reservados todos los derechos. Ninguna parte de esta publicación puede reproducirse por ningún procedimiento sin previa autorización 
+escrita por parte de la UIT. 
+ 
+
+ 
+Rec.  UIT-R  BT.2100-1 
+1 
+RECOMENDACIÓN  UIT-R  BT.2100-11 
+Valores de los parámetros de imagen de los sistemas de televisión  
+de elevada gama dinámica para la producción y el intercambio 
+internacional de programas 
+(2016-2017) 
+Cometido 
+La televisión de elevada gama dinámica (HDR-TV) ofrece a los espectadores una experiencia visual mejorada 
+proporcionando imágenes generadas para que se vean correctamente en pantallas con más brillo, lo que aporta 
+realces mucho más brillantes y mayor detalle en las zonas oscuras. La presente Recomendación especifica los 
+parámetros de imagen HDR-TV para su uso en producción e intercambio internacional de programas mediante 
+los métodos de cuantización perceptiva (PQ) e híbrido Log-Gamma (HLG). 
+Palabras clave 
+Elevada gama dinámica, HDR, televisión, HDR-TV, parámetros de los sistemas de imagen, 
+producción de televisión, intercambio internacional de programas, amplia gama de colores, 
+cuantización perceptiva, PQ, híbrido log gamma, HLG 
+La Asamblea de Radiocomunicaciones de la UIT, 
+considerando 
+a) 
+que los formatos de imagen de televisión digital para la televisión de alta definición (TVAD) 
+y televisión de ultraalta definición (TVUAD) se especifican en las Recomendaciones UIT-R BT.709 
+y BT.2020; 
+b) 
+que estos formatos de imagen de televisión están limitados por la gama dinámica de imagen 
+que pueden proporcionar debido a su dependencia de las características de los tubos de rayos 
+catódicos (CRT) tradicionales que limitan el brillo de la imagen y los detalles en las zonas oscuras; 
+c) 
+que las pantallas de televisión modernas son capaces de reproducir imágenes a mayores 
+luminancias y mayor relación de contraste y una gama de colores más amplia que los utilizados en la 
+producción de programas convencional; 
+d) 
+que los espectadores esperan que los futuros sistemas de televisión ofrezcan características 
+mejores que los actuales sistemas TVAD y TVUAD en términos de sensación más realista, mayor 
+transparencia en el mundo real e información visual más precisa; 
+e) 
+que se ha informado que la HDR-TV mejora la experiencia visual del telespectador de 
+imágenes de televisión; 
+f) 
+que la HDR-TV proporciona una mejora «notable» de la experiencia del observador al 
+aumentar sustancialmente el brillo y los detalles en los relieves y en objetos reflectantes difusos, 
+aportando además un mayor detalle en las zonas oscuras; 
+g) 
+que la combinación de una gama dinámica y de una gama de color ampliadas dota a la HDR 
+TV con una amplitud de color notablemente mayor; 
+                                                 
+1 Los valores revisados de los parámetros que figuran en este Documento han de compararse con los incluidos 
+en la anterior versión publicada de esta Recomendación. 
+
+2 
+Rec.  UIT-R  BT.2100-1 
+h) 
+que los formatos de imagen de HDR-TV deben tener, según proceda, cierta compatibilidad 
+con los flujos de trabajo e infraestructuras existentes; 
+i) 
+que es preciso definir un entorno de observación de referencia de los formatos de imagen de 
+la HDR-TV que incluya los parámetros de las pantallas, 
+considerando además 
+que, debido al rápido desarrollo de las tecnologías de elevada gama dinámica, la UIT puede desear 
+en breve tomar en consideración actualizaciones y mejoras de la presente Recomendación, 
+reconociendo 
+que el Informe UIT-R BT.2390 incluye mucha información sobre los dos métodos para conseguir una 
+televisión de elevada gama dinámica, 
+recomienda 
+que, para la producción y el intercambio internacional de programas de la HDR-TV, se utilicen las 
+especificaciones de cuantización perceptiva (PQ) e híbrida Log-Gamma (HLG) de la presente 
+Recomendación. 
+NOTA – La especificación de cuantización perceptiva (Perceptual Quantization (PQ)) obtiene una 
+gama muy amplia de niveles de brillo para una profundidad de bit determinada utilizando una función 
+de transferencia no lineal con ajuste fino para adaptarse a la visión humana. La especificación híbrida 
+Log-Gamma (HLG) ofrece cierto grado de compatibilidad con las pantallas tradicionales al ajustarse 
+más estrechamente a las curvas de transferencia de televisión establecidas anteriormente. En el 
+Informe UIT-R BT.2390 puede encontrarse información adicional sobre la PQ y la HLG, la 
+conversión entre ellas y la compatibilidad con sistemas anteriores. 
+CUADRO 1 
+Características espaciales y temporales de la imagen 
+Parámetro 
+Valores 
+Forma del contenedor1a de imagen 
+16:9 
+Cómputo1b de píxeles del contenedor 
+Horizontal × vertical 
+7 680 × 4 320 
+3 840 × 2 160 
+1 920 × 1 080 
+Muestreo reticular 
+Ortogonal 
+Formato de imagen de píxel 
+1:1 (píxeles cuadrados) 
+Orden de píxeles 
+Los píxeles se ordenan de izquierda a derecha en cada fila y las 
+filas se ordenan de arriba a abajo 
+Frecuencia de trama (Hz) 
+120, 120/1,001, 100, 60, 60/1,001, 50, 30, 30/1,001, 25, 24, 24/1,001 
+Formato de imagen 
+Progresiva 
+NOTA 1a – El contenedor se utiliza para definir las restricciones horizontales y verticales del formato de 
+imagen. 
+NOTA 1b – Para la producción se debe utilizar el formato de imagen de mayor resolución disponible. Se 
+reconoce que en muchos casos la producción de alta resolución estará inframuestreada a formatos de menor 
+resolución para su distribución. Es bien sabido que efectuar la producción en un formato de mayor resolución 
+para luego hacer electrónicamente un muestreo de menor resolución para su distribución da lugar a una calidad 
+superior que producir con la misma resolución que la utilizada para la distribución. 
+ 
+
+ 
+Rec.  UIT-R  BT.2100-1 
+3 
+CUADRO 2 
+Colorimetría del sistema 
+Parámetro 
+Valores 
+Espectro óptico 
+(para información) 
+Coordenadas de cromaticidad  
+(CIE, 1931) 
+x 
+y 
+Colores 
+primarios 
+Rojo primario (R) 
+Monocromático 630 nm 
+0,708 
+0,292 
+Verde primario (G) 
+Monocromático 532 nm 
+0,170 
+0,797 
+Azul primario (B) 
+Monocromático 467 nm 
+0,131 
+0,046 
+Blanco de referencia 
+D65 según 
+ISO 11664-2:2007 
+0,3127 
+0,3290 
+Funciones de armonización del color 
+CIE 1931 
+ 
+El Cuadro 3 especifica los parámetros para establecer un entorno de visualización de referencia para 
+la observación crítica de parte de programas o de programas completos de HDR que pueden 
+proporcionar resultados repetibles de una instalación a otra cuando se observa el mismo material. Las 
+instalaciones de visualización pueden ser y continuarán siendo establecidas de muchas formas por 
+entidades implicadas en la edición, la corrección del color, las pruebas, etc., y las especificaciones 
+que figuran en este Cuadro no tiene por objeto sugerir la necesidad de establecer una uniformidad 
+absoluta en dichas instalaciones. 
+CUADRO 3 
+Entorno de visualización de referencia para la observación crítica de programas de HDR 
+Parámetro 
+Valores 
+Entorno y periferia3a 
+Gris neutro de D65 
+Luminancia del entorno 
+5 cd/m2 
+Luminancia de la periferia 
+≤ 5 cd/m2 
+Iluminación ambiente 
+Evitar que la luz incida en la pantalla 
+Distancia de observación3b 
+Para el formato 1 920 × 1 080: 3,2 alturas de imagen 
+Para el formato 3 840 × 2 160: de 1,6 a 3,2 alturas de imagen 
+Para el formato 7 680 × 4 320: de 0,8 a 3,2 alturas de imagen 
+Luminancia de cresta en la pantalla3c 
+≥ 1 000 cd/m2 
+Luminancia mínima de la pantalla 
+(nivel de negro)3d 
+≤ 0,005 cd/m2 
+NOTA 3a – El «entorno» es la zona que rodea el dispositivo de visualización y que puede afectar a la 
+adaptación del ojo, normalmente una pared o una cortina. Por «periferia» se entiende el resto del entorno 
+físico. 
+NOTA 3b – Cuando la evaluación de la imagen se refiere a la resolución, se utilizará el valor menor de la 
+distancia de observación. Cuando no se evalúe la resolución se puede utilizar cualquier distancia de 
+observación de la gama indicada. 
+NOTA 3c – No implica que haya que conseguir este nivel de luminancia en toda la pantalla en blanco sino 
+más bien en pequeñas zonas destacadas. 
+NOTA 3d – El valor real de negro se fijaría mediante una señal «PLUGE» (en fase de elaboración) que puede 
+diferir del valor indicado. 
+ 
+
+4 
+Rec.  UIT-R  BT.2100-1 
+Los Cuadros 4 y 5 describen las funciones de transferencia para los formatos PQ y HLG, 
+respectivamente. La producción y presentación de televisión de elevada gama dinámica debe ser 
+coherente en el uso de las funciones de transferencia de un sistema a otro para no mezclarlos. El 
+Anexo informativo 2 proporciona información sobre ecuaciones alternativas que podrían facilitar la 
+implementación de esas funciones de transferencia. 
+CUADRO 4 
+Funciones de transferencia de referencia no lineales para el sistema PQ  
+Parámetro 
+Valores 
+Señal de entrada para la 
+función de transferencia 
+electroóptica de PQ (EOTF) 
+Valor codificado de PQ no lineal. 
+La EOTF establece la correspondencia entre la señal PQ no lineal y la luz 
+de la pantalla. 
+EOTF4a de PQ de referencia 
+
+
+
+
+
+1
+2
+2
+1
+1
+3
+2
+1
+1
+0,
+máx
+10000
+EOTF
+m
+m
+m
+D
+E
+c
+c
+c
+E
+Y
+Y
+E
+F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+donde: 
+E' indica un valor de color no lineal {R', G', B'} o { L', M', S'} en el 
+espacio PQ [0,1] 
+FD es la luminancia de un componente lineal presentado {RD, GD, BD} o 
+YD o ID, en cd/m2.4b 
+De forma que, cuando R' = G' = B', el pixel presentado es acromático. 
+Y indica el valor lineal normalizado de color, en la gama [0:1] 
+m1 = 2610/16384 = 0,1593017578125 
+m2 = 2523/4096  128 = 78,84375 
+c1 = 3424/4096 = 0,8359375 = c3 − c2 + 1 
+c2 = 2413/4096  32 = 18,8515625 
+c3 = 2392/4096  32 = 18,6875 
+Señal de entrada a la función 
+de transferencia de PQ 
+optoóptica (OOTF) 
+Luz lineal de la escena. 
+La OOTF establece la correspondencia entre la luz lineal relativa de la 
+escena y la luz lineal de la pantalla. 
+OOTF de PQ de referencia 
+FD = OOTF[E] = G1886 [G709[E]] 
+donde: 
+E = {RS, GS, BS, YS, o IS} es la señal determinada por la luz de la escena, 
+extrapolada por la exposición de la cámara 
+Los valores de E, RS, GS, BS, YS, IS están en la gama [0:1]4c 
+E′ es una representación no lineal de E 
+FD es la luminancia de un componente lineal presentado (RD, GD, BD; YD; 
+o ID) 
+FD = G1886 [ G709[E]] = G1886 E′ 
+E′ = G709[E] = 1,099 (59,5208 E)0,45 – 0,099 para 1 > E > 0,0003024 
+ 
+ 
+ 
+     = 267,84 E  
+ 
+ 
+ 
+ 
+ 
+para 0,0003024 ≥ E ≥ 0 
+FD = G1886[E'] = 100 E′ 2,4 
+Señal de entrada a la 
+función de transferencia 
+optoelectrónica de PQ 
+(OETF) 
+Luz lineal de la escena. 
+La OETF establece la correspondencia entre la luz lineal relativa de la 
+escena y el valor de la señal de PQ no lineal. 
+ 
+
+ 
+Rec.  UIT-R  BT.2100-1 
+5 
+CUADRO 4 (fin) 
+Parámetro 
+Valores 
+OETF de PQ de referencia 
+El uso de esta OETF 
+representará a la OOTF de 
+referencia cuando se presente 
+en un monitor que utilice la 
+EOTF de referencia 
+
+
+
+
+
+
+D
+F
+E
+E
+E
+1
+1
+EOTF
+OOTF
+EOTF
+OETF
+
+
+
+
+
+
+ 
+donde: 
+
+
+10000
+1
+EOTF
+2
+1
+1
+3
+2
+1
+1
+D
+m
+m
+m
+D
+F
+Y
+Y
+c
+Y
+c
+c
+F
+
+
+
+
+
+
+
+
+
+
+
+ 
+E′ es la señal no lineal resultante (R', G', B') en la gama [0:1] 
+FD, E, son los valores especificados en la función de transferencia 
+optoóptica. 
+m1, m2, c1, c2, c3 son los valores especificados en la función de 
+transferencia electroóptica.
+NOTA 4a – Cuando sea necesario hacer la conversión entre la representación no lineal y las representaciones 
+lineales debe utilizarse esta misma no linealidad (y su inversa). 
+NOTA 4b – En la presente Recomendación, hacer referencia a la luminancia de un único componente de color 
+(RD, GD, BD) implica la luminancia de una señal acromática equivalente en la que los tres componentes de 
+color tienen el mismo valor. 
+NOTA 4c – En función de la gama de exposición de la cámara, puede ser conveniente ofrecer una gama de 
+luminancia más estrecha de lo que se puede representar con PQ. Esto puede lograrse adaptando la gama de 
+exposición lineal 0-1 bruta de la cámara a una gama más limitada antes de aplicar la OOTF. 
+ 
+CUADRO 5 
+Función de transferencia no lineal de referencia 
+del sistema híbrido Log-Gamma (HLG) 
+Parámetro 
+Valores 
+Señal de entrada a la OETF 
+HLG 
+Luz lineal de la escena. 
+La OETF establece la correlación entre la luz lineal relativa de la escena y 
+el valor de la señal no lineal.
+OETF5a HLG de referencia 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+12
+ln
+0
+3
+OETF
+12
+1
+12
+1
+E
+c
+b
+E
+a
+E
+E
+E
+E
+ 
+donde: 
+E es la señal para cada componente de color {RS, GS, BS} relativa a la luz 
+lineal y extrapolada por la exposición de la cámara, normalizada en la 
+gama [0:1]. 
+E′ es la señal no lineal resultante {R', G', B'} en la gama [0:1]. 
+a = 0,17883277, 
+a
+b
+4
+1
+
+, 
+
+
+a
+a
+c
+4
+ln
+5.0
+
+
+
+5b 
+Señal de entrada a la OETF 
+HLG 
+Valor codificado de la HLG no lineal. 
+La EOTF establece la correlación entre la señal no lineal HLG y la luz de 
+la pantalla. 
+ 
+
+6 
+Rec.  UIT-R  BT.2100-1 
+CUADRO 5 (cont.) 
+Parámetro 
+Valores 
+EOTF de referencia de HLG 
+
+
+
+
+E
+E
+FD
+
+
+
+1
+OETF
+OOTF
+OOTF
+ 
+Por tanto, 
+β
+β
+β
+1
+γ
+1
+γ
+1
+γ
+
+
+
+
+
+
+
+
+
+
+
+
+S
+S
+D
+S
+S
+D
+S
+S
+D
+B
+Y
+B
+G
+Y
+G
+R
+Y
+R
+ 
+donde: 
+RS, GS, BS son las señales de la luz lineal de la escena, E, para cada 
+componente de color normalizado en la gama [0:1]. 
+
+
+
+
+
+
+
+B
+B
+W
+S
+S
+S
+S
+L
+L
+L
+B
+G
+R
+Y
+E
+b
+a
+c
+E
+E
+E
+E
+E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+β
+α
+0593
+.0
+6780
+.0
+2627
+.0
+1
+12
+/
+}
+/
+{exp
+0
+3
+/
+OETF
+2
+1
+2
+1
+2
+1
+ 
+y: 
+FD es la luminancia de un componente lineal presentado {RD, GD, o BD}, 
+en cd/m2.5c 
+RD, GD, BD representan la luz expuesta para cada componente de color 
+en cd/m2, de manera que cuando R’ = G’ = B’, el píxel es acromático. 
+ = 1,2 para la luminancia de cresta nominal de la pantalla de 
+1 000 cd/m2.5d, 5e, 5f 
+E′ es la señal no lineal {R', G', B'} definida para la OETF.5g 
+Los valores de los parámetros a, b y c son los definidos para la OETF. 
+La OOTF se define a continuación. 
+LW es la luminancia de cresta nominal de la pantalla en cd/m2 para los 
+píxeles acromáticos. 
+LB es la luminancia de la pantalla para el negro en cd/m2. 
+La gama nominal de señal de E, RS, GS, BS y YS es [0:1]. 
+Señal HLG de entrada a la 
+OOTF 
+Luz lineal de la escena. 
+La OOTF establece la correspondencia entre la luz lineal relativa de la 
+escena y la luz lineal de la pantalla. 
+ 
+
+ 
+Rec.  UIT-R  BT.2100-1 
+7 
+CUADRO 5 (fin) 
+Parámetro 
+Valores 
+OOTF de referencia de 
+HLG5h 
+
+S
+S
+S
+s
+S
+S
+D
+S
+S
+D
+S
+S
+D
+S
+D
+B
+G
+R
+Y
+B
+Y
+B
+G
+Y
+G
+R
+Y
+R
+E
+Y
+E
+F
+0593
+,0
+6780
+,0
+2627
+,0
+β
+α
+β
+α
+β
+α
+β
+α
+OOTF
+1
+γ
+1
+γ
+1
+γ
+1
+γ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+donde: 
+FD es la luminancia de un componente lineal presentado {RD, GD, o BD}, 
+en cd/m2. 
+{RD, GD, o BD} son los definidos para la EOTF de referencia de HLG. 
+E es la señal de cada componente de color {Rs, Gs, Bs} proporcional a la luz 
+lineal de la escena y extrapolada por la exposición de la cámara, 
+normalizada en la gama [0:1]. 
+YS es la luminancia lineal de la escena normalizada. 
+α, β y γ son las definidas en la EOTF.
+NOTA 5a – Se debe utilizar la inversa de esta no linealidad cuando sea preciso realizar la conversión entre la 
+representación no lineal y la representación lineal de la luz de la escena.  
+NOTA 5b – Los valores calculados de b y c son b = 0,28466892, c = 0,55991073. 
+NOTA 5c – Cuando en esta Recomendación se hace referencia a la luminancia de un componente 
+monocromático (RD, GD, BD), se entiende la luminancia de una señal acromática equivalente donde los tres 
+componentes cromáticos tienen el mismo valor. 
+NOTA 5d – Esta EOTF aplica gamma al componente de luminancia de la señal, aunque algunas pantallas 
+clásicas pueden aplicar gamma independientemente de los componentes de color. Este tipo de pantallas hacen 
+una aproximación de esta OOTF de referencia. 
+NOTA 5e – Para pantallas con luminancias de cresta nominales (LW) superiores a 1 000 cd/m2, o cuando se 
+reduce la luminancia de cresta nominal efectiva mediante el uso del control de contraste, el valor gamma del 
+sistema se debe ajustar de conformidad con la formula siguiente, que se puede redondear a los tres dígitos 
+significativos: 
+
+
+1000
+Log
+0,42
+2,1
+γ
+10
+W
+L
+
+
+ 
+NOTA 5f – El valor gamma del sistema se puede reducir cuando existen fondos y entornos más brillantes. 
+NOTA 5g – Durante la fase de producción, es probable que los valores de la señal superen la gama de 
+E′ = [0,0 : 1,0], lo que proporciona cierto margen y evita la degradación de la señal durante el procesamiento 
+en cascada. Estos valores de E′, por debajo de 0,0 o superiores a 1,0, no deben limitarse durante la producción 
+y el intercambio. 
+No se limitarán los valores por debajo de 0,0 en las pantallas de referencia (aunque representen luz «negativa») 
+para permitir fijar adecuadamente el nivel de negro de la señal (LB) mediante las señales de prueba 
+denominadas «PLUGE». 
+NOTA 5h – La inversa de la OOTF de HLG se deriva de la siguiente manera:  
+
+
+
+
+
+
+D
+D
+D
+D
+D
+D
+S
+D
+D
+S
+D
+D
+S
+B
+G
+R
+Y
+B
+Y
+B
+G
+Y
+G
+R
+Y
+R
+0593
+.0
+6780
+.0
+2627
+.0
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+A efectos de procesamiento cuando la pantalla real no se conoce, α puede ponerse a 1,0 cd/m2 y β a 0,0 cd/m2. 
+ 
+
+8 
+Rec.  UIT-R  BT.2100-1 
+Los Cuadros 6 y 7 describen diferentes representaciones de la luminancia y de la señal diferencia de 
+color, adecuadas para el submuestreo del color, y/o de la codificación de fuente. Habitualmente se 
+utiliza el formato de luminancia no constante (NCL) que se considera por defecto. El formato de 
+intensidad constante (CI) se ha introducido recientemente en la presente Recomendación y no debería 
+utilizarse para el intercambio de programas a menos que todas las partes así lo acuerden.  
+CUADRO 6 
+Formato de señal de luminancia no constante Y'C'BC'R6a 
+Parámetro 
+Valores de PQ 
+Valores de HLG 
+Derivación de R', G', B' 
+{R', G', B'}=EOTF−1(FD) 
+donde FD = {RD, GD, BD} 
+{R', G', B'}=OETF(E) 
+donde E = {RS, GS, BS} 
+Derivación de Y' 
+Y' = 0,2627R' + 0,6780G' + 0,0593B' 
+Derivación de las señales diferencia 
+de color 
+4746
+,1
+8814
+,1
+Y'
+R'
+C
+Y'
+B'
+C
+R
+B
+
+
+
+
+
+
+ 
+NOTA 6a – Por coherencia con el uso previo de la terminología, Y', C'B y C'R emplean apóstrofos que indican 
+que provienen de Y, B y R no lineales.
+ 
+CUADRO 7 
+Formato de señal de intensidad constante ICTCP7a, 7b 
+Parámetro 
+Valores de PQ 
+Valores de HLG 
+Espacio de color de L, M, S 
+
+
+
+
+
+4096
+3688
+309
+99
+4096
+462
+2951
+683
+4096
+262
+2146
+1688
+B
+G
+R
+S
+B
+G
+R
+M
+B
+G
+R
+L
+
+
+
+
+
+
+
+
+
+ 
+Derivación de L', M', S' 7c 
+{L', M', S'}=EOTF–1(FD) 
+donde FD = {LD, MD, SD} 
+{L', M', S'}=OETF(E) 
+donde E = {LS, MS, SS} 
+Derivación de I 
+I = 0,5L' + 0,5M' 
+Derivación de las señales diferencia 
+de color 
+
+
+
+4096
+543
+17390
+17933
+4096
+7003
+13613
+6610
+S'
+M'
+L'
+C
+S'
+M'
+L'
+C
+P
+T
+
+
+
+
+
+
+ 
+NOTA 7a – Los símbolos I, CT y CP recientemente introducidos no emplean apóstrofos para simplificar la 
+notación. 
+NOTA 7b – Los colores se deben limitar al triangulo definido por los colores primarios RGB del Cuadro 2. 
+NOTA 7c – Los subíndices D y S se refieren a la luz de la pantalla y de la escena, respectivamente.  
+ 
+
+ 
+Rec.  UIT-R  BT.2100-1 
+9 
+CUADRO 8 
+Submuestreo de colores 
+Parámetro 
+Valores 
+Señal codificada 
+R', G', B' o Y', C'B, C'R, o I, CT, CP 
+Muestreo reticular 
+– R', G', B', Y', I 
+Ortogonal con repetición por línea y por imagen en la misma posición. 
+Muestreo reticular 
+– C'B, C'R, CT, CP 
+Ortogonal con repetición por línea y por imagen en la misma posición respectiva. 
+La primera (arriba a la izquierda) muestra está en la misma posición que las 
+primeras muestras Y' o I. 
+Sistema 4:4:4 
+Sistema 4:2:2 
+Sistema 4:2:0 
+Cada una tiene el mismo 
+número de muestras 
+horizontales que el 
+componente Y' o I. 
+Submuestreo horizontal 
+por factor dos con 
+respecto al 
+componente Y' o I. 
+Submuestreo horizontal y 
+vertical por factor dos 
+con respecto al 
+componente Y' o I. 
+ 
+El Cuadro 9 describe dos representaciones de señal diferentes, «reducida» y «completa». 
+Habitualmente se utiliza la representación de gama reducida que se considera por defecto. La 
+representación de gama completa se ha introducido recientemente en la presente Recomendación y 
+no debe utilizarse para el intercambio de programas a menos que todas las partes así lo acuerden. 
+CUADRO 9 
+Representación digital de números enteros de 10 y 12 bits 
+Parámetro 
+Valores 
+Señal codificada 
+R', G', B' o Y', C'B, C'R, , o I, CT, CP 
+Formato de codificación 
+n = 10, 12 bits por componente 
+Cuantización de R', G', B', Y', I 
+(los valores resultantes que 
+rebasen la gama de datos de 
+vídeo deben limitarse a la gama 
+de datos de vídeo) 
+Gama reducida 
+Gama completa 
+D = Round [(219  E′ + 16)  2n−8] 
+D = Round [(2n-1)  E′] 
+Cuantización de C'B, C'R, CT, CP 
+(los valores resultantes que 
+rebasen la gama de datos de 
+vídeo deben limitarse a la gama 
+de datos de vídeo) 
+D = Round [(224  E′ + 128)  2n−8] 
+D = Round [(2n-1)  E′ +2n-1] 
+Niveles de cuantización 
+Codificación 
+de 10 bits 
+Codificación 
+de 12 bits 
+Codificación 
+de 10 bits 
+Codificación 
+de 12 bits 
+Negro 
+ 
+(R' = G' = B' = Y' = I = 0) 
+ 
+DR', DG', DB', DY', DI 
+64 
+256 
+0 
+0 
+Cresta nominal 
+ 
+(R' = G' = B' = Y' = I = 1) 
+ 
+DR', DG', DB', DY', DI 
+940 
+3 760 
+1 023 
+4 095 
+ 
+
+10 
+Rec.  UIT-R  BT.2100-1 
+CUADRO 9 (fin) 
+Parámetro 
+Valores 
+Acromático 
+ 
+(C'B = C'R = 0) 
+ 
+DC'B, DC'R, DCT, DCP 
+512 
+2 048 
+512 
+2 048 
+Cresta nominal 
+ 
+(C'B = C'R = +0,5) 
+ 
+DC'B, DC'R, DCT, DCP 
+960 
+3 840 
+1 023 
+4 095 
+Cresta nominal 
+ 
+(C'B = C'R = -0,5) 
+ 
+DC'B, DC'R, DCT, DCP 
+64 
+256 
+1 
+1 
+Gama de datos de vídeo9a, 9b 
+4 a 1 019 
+16 a 4 079 
+0 a 1 023 
+0 a 4 095
+Donde: 
+ 
+Round( x ) = Sign( x ) * Floor( | x | + 0.5 ) 
+ 
+Floor( x ) = el mayor entero igual o inferior a x 
+ 
+Sign( x ) = 
+
+
+
+
+
+
+
+0
+;
+1
+0
+;
+0
+0
+;
+1
+x
+x
+x
+ 
+NOTA 9a – Las señales de gama estrecha se pueden ampliar por debajo del negro (subnegros) y pueden 
+superar los valores de cresta nominales (superblancos) pero no deben exceder la gama de datos de vídeo. 
+NOTA 9b – Algunas interfaces de imagen digitales reservan valores digitales, por ejemplo, para la 
+información de temporización, de manera que la gama de vídeo permitida de esas interfaces es más estrecha 
+que la gama de vídeo de la señal de gama completa. La adaptación de las imágenes de gama completa a estas 
+interfaces dependerá de la aplicación. 
+ 
+El Cuadro 10 introduce una representación de señal de punto flotante de 16 bits. Actualmente, no 
+existen interfaces en tiempo real para este formato. Está previsto el uso inicial de este formato en 
+intercambio de datos y flujos de trabajo basados en ficheros. 
+CUADRO 10 
+Representación de señales de punto flotante (FP) 
+Parámetro 
+Valores 
+Representación de la señal 
+R, G, B lineal 
+Codificación de la señal 
+Punto flotante de16 bits según la norma IEEE 754-2008 
+Normalización para señales 
+con respecto a la pantalla 
+R = G = B = 1,0 supone 1,0 cd/m2 en la pantalla de referencia 
+Normalización para señales 
+con respecto a la escena 
+R = G = B = 1,0 representa el nivel máximo de blanco difuso 
+ 
+
+ 
+Rec.  UIT-R  BT.2100-1 
+11 
+Anexo 1 
+(Informativo) 
+ 
+Relación entre la OETF, la EOTF y la OOTF 
+La presente Recomendación utiliza de manera generalizada los términos siguientes: 
+OETF: función de transferencia optoelectrónica, que transforma la luz lineal de la escena en la señal 
+de vídeo, normalmente en el interior de una cámara. 
+EOTF: función de transferencia electroóptica, que transforma la señal de vídeo en la luz lineal de la 
+pantalla. 
+OOTF: función de transferencia optoóptica que cumple el cometido de aplicar las «opciones de 
+reproducción». 
+Estas funciones están relacionadas, por lo que solo dos de las tres son independientes. Se puede 
+calcular una de ellas a partir de las otras dos. Esta sección explica cómo surgieron en los sistemas de 
+televisión y cómo están relacionadas. 
+En los sistemas de televisión, la luz que se muestra no tiene una relación lineal con la luz capturada 
+por la cámara. Para ello se aplica una no linealidad global, la OOTF. La OOTF de «referencia» 
+compensa la diferencia en la percepción tonal entre el entorno de la cámara y el de la pantalla. La 
+especificación y el uso de una «OOTF de referencia» permiten la reproducción coherente de la imagen 
+de extremo a extremo, lo que es importante en la producción de televisión. 
+BT.2100 Ann1-01
+-
+Luz en la pantalla
+de referencia
+Luz de
+la escena
+OOTF de referencia
+OOTF de referencia
+ 
+Para mejorar la imagen se pueden realizar ajustes artísticos que alteran la OOTF, por lo que se puede 
+denominar «OOTF artística». Estos ajustes artísticos se pueden introducir antes o después de la OOTF 
+de referencia. 
+
+12 
+Rec.  UIT-R  BT.2100-1 
+BT.2100-Ann1 02
+-
+Luz en la pantalla
+de referencia
+Luz de la
+escena
+OOTF de referencia
+OOTF artística 
+o bien
+Luz de la
+escena
+Luz en la pantalla
+de referencia
+OOTF de referencia
+A
+s
+justes artístico
+Ajustes artísticos
+ 
+Generalmente la OOTF es una concatenación de la OETF, los ajustes artísticos y la EOTF. 
+BT.2100-Ann1 03
+-
+Luz en la
+pantalla
+OETF
+Luz de la
+escena
+OOTF artística
+Ajustes artísticos
+EOTF
+ 
+El sistema PQ se diseñó mediante el modelo que se muestra a continuación, en el que la OOTF se 
+considera incluida en la cámara (o atribuida al proceso de producción). 
+BT.2100-Ann1 04
+-
+Luz en la
+pantalla
+OOTF
+Luz de la
+escena
+Codificación
+Decodificación
+EOTF
+EOTF
+inversa
+OETF
+Cámara
+Señal
+Pantalla
+ 
+El sistema HLG se diseñó mediante el modelo que se muestra a continuación, en el que la OOTF se 
+considera incluida en la pantalla. 
+
+ 
+Rec.  UIT-R  BT.2100-1 
+13 
+BT.2100-Ann1 05
+-
+Luz en la
+pantalla
+OETF
+Luz de la
+escena
+Codificación
+Decodificación
+OOTF
+OETF
+inversa
+EOTF
+Cámara
+Señal
+Pantalla
+ 
+Solo dos de las tres no linealidades, la OETF, la EOTF y la OOTF, son independientes. En notación 
+funcional (los subíndices indican el componente de color): 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+B
+G
+R
+B
+G
+R
+B
+G
+R
+B
+G
+R
+B
+G
+R
+B
+G
+R
+B
+B
+B
+G
+G
+G
+R
+R
+R
+,
+,
+OETF
+EOTF
+,
+,
+OOTF
+,
+,
+OETF
+EOTF
+,
+,
+OOTF
+,
+,
+OETF
+EOTF
+,
+,
+OOTF
+
+
+
+ 
+Esto resulta más claro cuando la concatenación se representa mediante el símbolo . Con esta 
+notación se obtienen las siguientes tres relaciones entre estas tres no linealidades: 
+1
+1
+1
+1
+1
+1
+1
+1
+1
+OOTF
+EOTF
+OETF
+OETF
+OOTF
+EOTF
+OETF
+EOTF
+OOTF
+EOTF
+OOTF
+OETF
+OOTF
+OETF
+EOTF
+EOTF
+OETF
+OOTF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+El planteamiento PQ viene definido por su EOTF. Para PQ, la OETF se puede obtener a partir de la 
+OOTF utilizando la tercera línea de las ecuaciones anteriores. De la misma manera, el planteamiento 
+HLG viene definido por su OETF. Para HLG, la EOTF se puede obtener a partir de la OOTF 
+utilizando la segunda línea de las ecuaciones anteriores. 
+ 
+Anexo 2 
+(Informativo) 
+ 
+Representación paramétrica de las funciones de transferencia 
+electroópticas y optoelectrónicas 
+Este Anexo junto con los conjuntos de parámetros correspondientes facilita la implementación de las 
+funciones de transferencia optoelectrónicas de referencia (OETF) así como de las funciones de 
+transferencia electroópticas de referencia (EOTF) de la presente Recomendación. 
+Una EOTF se puede representar mediante la ecuación (1): 
+ 
+ 
+
+
+
+n
+s
+m
+V
+st
+m
+V
+c
+V
+L
+/
+1
+
+
+
+
+
+
+
+
+
+ 
+(1) 
+
+14 
+Rec.  UIT-R  BT.2100-1 
+donde: 
+ 
+V: 
+valor de color no lineal 
+ 
+L: 
+valor de color lineal correspondiente. 
+El conjunto de parámetros {s, t, c, n, m} se puede fijar en función de la aplicación deseada. 
+Una OETF se puede representar mediante la ecuación (2): 
+ 
+ 
+
+m
+st
+L
+c
+sL
+L
+V
+n
+n
+
+
+
+
+ 
+(2) 
+Cabe destacar que si se adjudican valores idénticos a los parámetros s, t, c, n y m en las ecuaciones (1) 
+y (2), entonces L(V) y V(L) serán la inversa matemática la una de la otra. 
+En determinadas aplicaciones resulta útil normalizar V en las ecuaciones (1) y (2) conforme a la 
+ecuación (3): 
+ 
+ 
+m
+k
+p
+V
+V
+
+
+
+ˆ
+ 
+(3) 
+donde: 
+ 
+V: 
+valor de color no lineal 
+ 
+Vˆ : 
+valor de color no lineal normalizado que sustituye a V en las ecuaciones (1) y (2). 
+Los parámetros k y p se pueden fijar en función de la aplicación deseada. 
+En determinadas aplicaciones resulta útil normalizar L en las ecuaciones (1) y (2) conforme a la 
+ecuación (4): 
+ 
+ 
+a
+b
+L
+L
+
+
+ˆ
+ 
+(4) 
+donde: 
+ 
+L: 
+valor de color no lineal 
+ 
+Lˆ : 
+valor de color no lineal normalizado que sustituye a L en las ecuaciones (1) y (2). 
+Los parámetros a y b se pueden fijar en función de la aplicación deseada. 
+Con estas ecuaciones puede crearse una implementación real especificando los valores de cada uno 
+de los parámetros. Por ejemplo, puede reproducirse una señal normalizada lineal, en cuyo caso los 
+parámetros para la ecuación (3) serán: p=m=0 y k=1. Los parámetros para la ecuación (4) serán 
+entonces: a = 1 y b = 0. Puede implementarse un par de OETF y EOTF con un gamma de sistema de 
+1,0, como punto de partida, utilizando las ecuaciones (1) y (2) con los parámetros 𝑠= 1,  
+t = m = 0,2701, c = −0,0729, n = 0,4623. 
+ 
+______________ 
+ 

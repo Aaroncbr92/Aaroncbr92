@@ -1,6 +1,6 @@
 # Producción (Asistencia) · Tema 2 · Derechos de autor. Ley de Propiedad Intelectual. Redes sociales
 
-9 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+10 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -14,6 +14,18 @@ a) Al operador de cámara y al técnico de sonido.
 b) Al productor de la obra.
 c) Al director, guionista, y autor de la partitura.
 d) A los actores de la obra.
+```
+
+---
+
+**77_preguntas_produccion_asist · nº 30 · respuesta: c**
+
+```
+30. En una producción interna, qué derechos tiene la CRTVE?
+a) Los derechos de archivo.
+b) Los derechos de publicación en redes.
+c) Los derechos de explotación.
+d) Los derechos de divulgación.
 ```
 
 ---

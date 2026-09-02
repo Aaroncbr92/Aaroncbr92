@@ -1,6 +1,6 @@
 # PRL específico · Prevención en el temario específico (Producción 18 · Documentación 7 · Información y Contenidos 11)
 
-29 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+30 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -408,6 +408,21 @@ a) Es aquel que se produce dentro de las dependencias de un lugar de trabajo.
 b) Es aquel que se produce en el extranjero.
 c) Es el que se produce entre el domicilio del trabajador y su lugar de trabajo y viceversa.
 d) Es aquel que se produce fuera de la jornada laboral.
+```
+
+---
+
+**78_preguntas_produccion_asist_2_llamamiento · nº 16 · respuesta: d**
+
+```
+16. Síndrome del túnel carpiano:
+a)
+b)
+c)
+Inflamación de los tendones en el hombro.
+Inflamación de los tendones de la parte externa del codo.
+Inflamación de los tendones en la parte interna del codo.
+d) Compresión del nervio mediano en la muñeca a causa del uso repetitivo de ciertos músculos.
 ```
 
 ---

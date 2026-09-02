@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-1996-8930` · BOE núm. 97, de 22/04/1996 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**, que **coincide exactamente con la que cita el enunciado**: la última reforma anterior al corte se publicó el **30 de marzo de 2022** y afectó a un solo artículo, el 177 |
 | **Norma complementaria** | Real Decreto-ley 24/2021, de 2 de noviembre, **Libro cuarto** (`BOE-A-2021-17910`), para la parte de plataformas y redes sociales |
-| **Extensión** | **15.313 palabras** |
+| **Extensión** | **15.364 palabras** |
 
 <!-- /portada -->
 
@@ -1504,7 +1504,7 @@ que aquí se afirma sobre redes sociales sale de los dos textos citados y de nin
 
 ## 15. Los datos que el examen ha preguntado
 
-Los dos cuadernillos de Producción (Asistencia) de la convocatoria contienen **nueve preguntas**
+Los dos cuadernillos de Producción (Asistencia) de la convocatoria contienen **diez preguntas**
 sobre esta materia. Todas se contestan con el tema delante, y todas apuntan a datos que ya están
 arriba. Se recogen aquí ordenadas por artículo, porque enseñan qué es lo que el tribunal considera
 memorizable:
@@ -1519,6 +1519,7 @@ memorizable:
 | **Art. 37 bis** | La **definición de obra huérfana**: titulares **no identificados o, de estarlo, no localizados** pese a una **previa búsqueda diligente** |
 | **Art. 43**, apartado 2 | **Cinco años** a falta de mención del tiempo, y **el país en el que se realice la cesión** a falta de mención del ámbito territorial |
 | **Art. 87** | Autores de la obra audiovisual: **director-realizador, guionista y autor de la música** creada especialmente para ella |
+| **Art. 88** | Qué derechos tiene la Corporación en una **producción interna**: los **derechos de explotación**, que el contrato de producción presume cedidos en exclusiva al productor |
 | **Art. 128** | **Veinticinco años** desde el 1 de enero del año siguiente a la fecha de realización, para la **mera fotografía** |
 
 **Dos advertencias sobre el enunciado de esas preguntas**, porque quien estudie sólo por el
@@ -1534,12 +1535,13 @@ enunciado se despista. Los cuadernillos abrevian la Ley de Propiedad Intelectual
   país en el que se realice la cesión»—. Es una errata de impresión que no cambia la respuesta: la
   correcta es la a).
 
-**Lo que no se ha preguntado y conviene no descuidar.** El reparto de las nueve preguntas cubre el
-Libro I casi entero y toca el Libro II sólo por el artículo 128. Quedan sin tocar, y son material
-natural de examen para este puesto, los **artículos 88 a 93** (presunción de cesión al productor,
-remuneración por exhibición, versión definitiva), el **artículo 120** (grabación audiovisual frente
-a obra audiovisual), el **artículo 124** (fotos de rodaje) y el **artículo 36.3** (grabación
-técnica de la entidad radiodifusora).
+**Lo que no se ha preguntado y conviene no descuidar.** El reparto de las diez preguntas cubre el
+Libro I casi entero, entra en el Título VI por los artículos 87 y 88, y toca el Libro II sólo por
+el artículo 128. Quedan sin tocar, y son material natural de examen para este puesto, los
+**artículos 89 a 93** (cesión de la obra preexistente, remuneración por exhibición con precio de
+entrada, versión definitiva y prohibición de destruir el soporte original), el **artículo 120**
+(grabación audiovisual frente a obra audiovisual), el **artículo 124** (fotos de rodaje) y el
+**artículo 36.3** (grabación técnica de la entidad radiodifusora).
 
 ---
 
@@ -1581,6 +1583,6 @@ técnica de la entidad radiodifusora).
   (créditos por la cesión de derechos de explotación), **artículo 142** (procedimiento) y la
   **disposición adicional tercera**.
 - **Avisos del BOE sobre esta norma**: **ninguno** a la fecha de corte.
-- **Cobertura del examen**: las **nueve** preguntas de esta materia de los dos cuadernillos de
-  Producción (Asistencia) se han contestado con el tema delante, y las **nueve** tienen su respuesta
+- **Cobertura del examen**: las **diez** preguntas de esta materia de los dos cuadernillos de
+  Producción (Asistencia) se han contestado con el tema delante, y las **diez** tienen su respuesta
   en el texto. No quedó ninguna laguna que cerrar.

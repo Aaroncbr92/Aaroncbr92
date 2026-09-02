@@ -58,15 +58,17 @@ en Documentación y en Producción (Asistencia).
 - [x] Comprobado que **las preguntas se repiten**: entre ocupaciones de la misma
       convocatoria y entre convocatorias, a veces palabra por palabra
       (`informes/preguntas-repetidas.md`).
-- [x] **`banco/`: 505 preguntas reales** —476 del bloque común y 29 del tema de
-      prevención del específico—, **todas con su respuesta oficial**.
+- [x] **`banco/`: 510 preguntas reales** —480 del bloque común y 30 del tema de
+      prevención del específico—, **todas con su respuesta oficial**. Y aparte,
+      **123 del bloque específico de Producción (Asistencia)**, también todas con
+      respuesta oficial.
       Sustituye a las preguntas inventadas del apartado 7 del manual.
 - [x] **El volumen, listo para el opositor** (`informes/mejoras-formato-2026-08-30.md`):
       sin una sola referencia a ficheros del proyecto, con **encabezado y pie**
       —portada limpia—, **índice a tres niveles con número de página y clicable**
       en PDF y en Word, **marcadores** en el PDF, cuerpo justificado y preguntas
       sin la línea de procedencia.
-- [x] **Las 505 preguntas tienen respuesta oficial.** Las tres plantillas cuyo PDF
+- [x] **Las preguntas del banco tienen todas respuesta oficial.** Las tres plantillas cuyo PDF
       no lleva tabla de caracteres se leen **celda a celda**
       (`herramientas/plantilla_ocr.py`), contrastadas contra la imagen y contra
       preguntas repetidas. **El cuaderno de pendientes queda vacío.**
@@ -207,6 +209,35 @@ en Documentación y en Producción (Asistencia).
       reforma del texto refundido anterior al 21/12/2022 es la del **artículo 177**, publicada
       el **30 de marzo de 2022**, que es literalmente el «texto consolidado BOE 30 de marzo de
       2022» que cita el Anexo 2. Entre esa fecha y el corte la ley no se volvió a tocar.
+- [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
+      (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
+      diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
+      Convenio, una del PRL del específico y una de la derogada Ley 7/2010, que queda fuera—.
+      **Todas tienen respuesta oficial.** El reparto deja ver dónde está el examen: **el tema 9,
+      escenografía e iluminación, con 20 preguntas, y el 10, imagen y sonido, con 17, son casi un
+      tercio del bloque**.
+- [x] **`banco_especifico.py` cuenta bien lo que falta.** Contaba como pendiente del específico
+      toda pregunta que ninguna palabra clave reconociera, **incluidas las que ya estaban
+      repartidas a mano en `reclasificadas.tsv`**: trabajo hecho que la cuenta pedía dos veces.
+      Ahora lee las dos actas.
+- [x] **Material reunido para los quince temas que quedan**
+      (`informes/materiales-del-especifico-2026-09-02.md`), con inventario tema por tema de lo
+      conseguido y lo que no:
+      **del BOE** —RD 2032/2009 de unidades legales de medida (`BOE-A-2010-927`), Reglamento (UE)
+      2019/947 de drones (`DOUE-L-2019-81004`), reglamento del aire SERA (`DOUE-L-2012-81859`),
+      Convenio de Estambul sobre importación temporal, que es el del cuaderno ATA
+      (`BOE-A-1997-21711`), y RD 1036/2017 (`BOE-A-2017-15721`)—;
+      **de organismos de normalización** (`fuentes/normas-tecnicas/`) —**Recomendación UIT-R
+      BT.2100-1 (06/2017)** y **UIT-R BT.601-7 (03/2011)**, las dos en español y en la edición que
+      cita el examen, y el **índice de la familia SMPTE ST 2110** con los títulos oficiales de cada
+      parte—.
+      **No se han podido traer**, y queda dicho: DCI, EBU/UER (403), AES10, y las fichas de
+      LiveU, Sony, DJI, Astera y Mo-sys.
+- [x] **`herramientas/doue.py`, dos arreglos que salieron de usarlo con otras normas**: el patrón
+      de artículos solo reconocía «Artículo 1. Objeto.» en una línea y **devolvía cero artículos**
+      con los reglamentos que dejan el título en la línea siguiente; y ahora **avisa cuando los
+      números de artículo se repiten** —un tratado numera desde 1 en cada anexo, y las lentes por
+      artículo se quedarían solo con el último sin dar ningún error—.
 - [x] **Medido de qué se puede escribir el bloque específico**
       (`informes/fuentes-del-especifico-2026-09-02.md`): de las **129 preguntas** específicas
       de los dos cuadernillos de Producción (Asistencia), **sólo 15 citan una norma del BOE**,
@@ -261,10 +292,12 @@ en Documentación y en Producción (Asistencia).
       **Con eso se cierran los dos únicos temas del específico de Producción que tienen norma del
       BOE detrás**, y con ellos las 15 de las 129 preguntas en que el método funciona entero.
       **Siguiente**: los quince restantes, que hay que documentar antes de escribir.
-- [ ] **Reunir la documentación de los quince temas de Producción sin norma detrás** antes de
-      escribirlos: normas SMPTE y recomendaciones UIT-R nombradas en el examen, el cuaderno ATA
-      y el MCO, y las fichas de los modelos concretos que las preguntas citan. Sin ese material
-      no se puede empezar a redactar sin inventar.
+- [ ] **Escribir los quince temas que quedan de Producción**, empezando por el **10** —el mejor
+      servido de fuentes ya en casa— y el **9**, que es el más pesado. El inventario de lo que
+      necesita cada uno está en `informes/materiales-del-especifico-2026-09-02.md`.
+- [ ] **Rematar el material que falta**: probar la **ISO 3382** para el RT60, la **AES10** para
+      MADI, las normas **ETSI** del DVB, y tirar del hilo del BOE para el tema 15 —Ley 46/1983,
+      Ley 10/1998 y Ley 7/2010— antes de dar por perdidos FORTA y UTECA.
 - [ ] **Un volumen imprimible del bloque específico.** `herramientas/libro.py` tiene hoy la
       lista de los ocho temas del general escrita dentro; para el específico hace falta que la
       lista salga del programa y no del código.
@@ -285,7 +318,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | General 7 · Ley 13/2022 | sí | sí | sí | sí | sí | sí, con 11 salvedades declaradas | 34 de 34 enteras |
 | General 8 · Ley 31/1995 | sí | sí | sí | sí | sí | sí, con 3 falsos positivos declarados | 49 de 52 enteras, 2 a medias |
 | PRL del específico (P18/D7/I11) | sí | sí | sí | sí | sí | sí, limpia | 35 de 40 enteras, 1 con matiz, 5 fuera de tema |
-| Producción 2 · Propiedad intelectual | sí | sí | sí | sí | sí | sí, 13 falsos positivos declarados | 9 de 9 enteras |
+| Producción 2 · Propiedad intelectual | sí | sí | sí | sí | sí | sí, 13 falsos positivos declarados | 10 de 10 enteras |
 | Producción 17 · Protección de datos | sí | sí | sí | sí | sí | sí, 6 falsos positivos declarados | 5 de 5 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del

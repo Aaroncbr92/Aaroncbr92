@@ -27,7 +27,7 @@ from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from calibrar import preguntas, clasifica, MATERIAS
-from banco import plantilla, sin_pie, sin_ecos
+from banco import plantilla, sin_pie, sin_ecos, reclasificadas
 
 DIR = "convocatoria/examenes"
 SALIDA = "banco"
@@ -72,6 +72,7 @@ def main(ocupacion, titulos):
     # «produccion_asist» y el acta, «produccion»
     corta = ocupacion.split("_")[0]
     filas = reparto(corta)
+    comun = reclasificadas()
     portema = defaultdict(list)
     usadas, sinfila = set(), []
     for cuad, plant in cuadernillos(ocupacion):
@@ -82,8 +83,13 @@ def main(ocupacion, titulos):
             if clave not in filas:
                 # las del bloque común no son de este banco: van en el del
                 # temario general, y contarlas aquí como pendientes daría una
-                # cifra de trabajo que no existe
-                if clasifica(cuerpo, MATERIAS) is None:
+                # cifra de trabajo que no existe. Ojo: no basta con la
+                # clasificación por palabras clave. Una pregunta del bloque
+                # común repartida **a mano** en `reclasificadas.tsv` no la
+                # reconoce ninguna palabra clave, así que seguía contando como
+                # pendiente del específico: trabajo que ya estaba hecho y que
+                # esta cuenta pedía dos veces
+                if clasifica(cuerpo, MATERIAS) is None and clave not in comun:
                     sinfila.append(clave)
                 continue
             usadas.add(clave)
@@ -119,8 +125,32 @@ def main(ocupacion, titulos):
 
 
 TITULOS = {
+    "01": "Producción (Asistencia) · Tema 1 · La producción: sistemas y métodos. "
+          "Organización de la producción",
     "02": "Producción (Asistencia) · Tema 2 · Derechos de autor. "
           "Ley de Propiedad Intelectual. Redes sociales",
+    "03": "Producción (Asistencia) · Tema 3 · El guion",
+    "04": "Producción (Asistencia) · Tema 4 · El desglose",
+    "05": "Producción (Asistencia) · Tema 5 · Localización",
+    "06": "Producción (Asistencia) · Tema 6 · Organización de la producción, "
+          "plan de trabajo y orden de trabajo",
+    "07": "Producción (Asistencia) · Tema 7 · Equipos humanos: equipos técnicos "
+          "y artísticos",
+    "08": "Producción (Asistencia) · Tema 8 · Formatos y soportes",
+    "09": "Producción (Asistencia) · Tema 9 · Escenografía e iluminación. "
+          "Nuevas tendencias",
+    "10": "Producción (Asistencia) · Tema 10 · Imagen y sonido: captación y "
+          "tratamiento",
+    "11": "Producción (Asistencia) · Tema 11 · Medios de transmisión de señal, "
+          "envío de imágenes y comunicaciones",
+    "12": "Producción (Asistencia) · Tema 12 · El estudio de televisión",
+    "13": "Producción (Asistencia) · Tema 13 · Equipos técnicos de exteriores",
+    "14": "Producción (Asistencia) · Tema 14 · Documentación internacional para "
+          "desplazamientos de equipos técnicos y humanos",
+    "15": "Producción (Asistencia) · Tema 15 · Organismos nacionales e "
+          "internacionales de televisión",
+    "16": "Producción (Asistencia) · Tema 16 · Gestión de servicios varios. "
+          "Agencias, proveedores, particulares",
     "17": "Producción (Asistencia) · Tema 17 · Ley de Protección de Datos",
 }
 
