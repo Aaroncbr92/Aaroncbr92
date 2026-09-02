@@ -329,6 +329,19 @@ en Documentación y en Producción (Asistencia).
       Son ocho leyes, un convenio y una docena de normas técnicas; la búsqueda cuesta un minuto y
       **ya ha pagado**. Una conclusión negativa sin comprobar cierra la búsqueda igual que un
       «no se ha podido consultar» sin comprobar.
+- [x] **Tema 3 del específico de Producción (Asistencia)** —el guion— **cerrado**: 2.226 palabras,
+      con esquema de repaso. Es **el tema con peor respaldo documental de todo el temario**:
+      **ninguna de sus 6 preguntas tiene norma detrás**. Y la declaración está **comprobada**, no
+      supuesta: los seis términos se buscaron en todas las fuentes volcadas; **cinco no aparecen ni
+      una vez** y el sexto, «secuencia», sólo dentro de «en consecuencia» o «secuenciación». El
+      único apoyo normativo es el **artículo 87 de la Ley de Propiedad Intelectual**, y **no
+      contesta ninguna pregunta**.
+- [x] **Un cero de la lente que era un fallo de redacción, no de la herramienta.** La lente de
+      exactitud devolvió **0 comprobadas** sobre el tema 3, que es el resultado engañoso del
+      apartado 10. La causa: el tema citaba «**en su artículo 87**» **dentro de una frase**, y la
+      lente sólo da su propia frase a los marcadores interiores para que una remisión no arrastre
+      texto ajeno. Reescrito para que **el marcador abra párrafo**, pasó de **0 a 4 comprobadas**.
+      **Cuando una lente devuelve cero, la primera sospecha es que no ha mirado.**
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -445,6 +458,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 11 · Transmisión de señal | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 10 de 10 enteras |
 | Producción 13 · Equipos de exteriores | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 7 de 7 enteras |
 | Producción 1 · La producción | sí | sí | sí | sí | sí | sí, 1 salvedad de cobertura declarada | 6 de 6 enteras |
+| Producción 3 · El guion | sí | sí | sí | sí | sí | sí, limpia (0 de 6 con norma, declarado) | 6 de 6 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
