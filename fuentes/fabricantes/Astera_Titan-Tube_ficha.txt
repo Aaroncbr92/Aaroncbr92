@@ -1,0 +1,79 @@
+Titan Tube is the ultimate LED tube for filmmakers, studios, event technicians and any creative person. It emits powerful, tunable whites with ultra-high color rendering as well as colored light which can be applied to individual pixels or the whole tube. The tube offers unlimited range of usage; indoor or outdoor, AC-powered or on battery, on the go with the AsteraApp, with wired or wireless DMX.
+App
+Wireless DMX
+Max. 20h
+IP65
+Watch full product video
+Model Comparison
+Dimensions
+Ø42 mm x 550 mm | Ø1.6” x H21.7”
+Ø42 mm x 1035 mm | Ø1.6” x H40.7”
+Ø42 mm x 2031 mm | Ø1.6” x 79.9”
+LED Engine
+Titan LED Engine (RGBMintAmber)
+Titan LED Engine (RGBMintAmber)
+Titan LED Engine (RGBMintAmber)
+Total LED Power
+36 W
+72 W
+144 W
+LED Power Draw
+24 W
+48 W
+92 W
+Light Output*
+1340 lm
+2900 lm
+5800 lm
+Pixel
+8
+16
+32
+CRI(Ra)/TLCI 3200-6500k*
+≥96
+≥96
+≥96
+Wired DMX
+Yes
+Yes
+Yes
+CRMX Receiver
+Built-in
+Built-in
+Built-in
+IP Rating
+IP65
+IP65
+IP65
+*Typical values
+Mounting accessories
+TubeStand
+Tripod with M5 thread to set up your tube vertically. Can be folded for storage. Compatible with Titan Tube, Helios Tube, AX1 PixelTube.
+More about TubeStand
+TubeHolder
+Essential grip to mount tubes. Connect Astera’s BabyPin to the backside 1/4"-20 thread to insert it into Super Clamps and Gobo Heads. Comes with pin to keep it securely locked.
+More about TubeHolder
+EyeBolt
+EyeBolt with M5 thread that works with Astera’s tubes and a wide range of other Astera products. Also used as safety mounting point for tubes.
+More about EyeBolt
+WingPlate
+Mounting plate to attach a tube to a single mounting point. Also used to connect 2 tubes to form a line, triangle, square etc. Front side of WingPlate takes 2 TubeHolders (included with each tube), backside has a 1/4"-20 thread for Astera’s BabyPin.
+More about WingPlate
+CrossPlate
+Up to four WingPlates can be attached in parallel to one CrossPlate to create a 4bank or panel effect. A Baby Pin is welded to the CrossPlate’s backside for a reliable grip.
+More about CrossPlate
+How to control
+App Control
+Wireless DMX
+Wired DMX
+On your light
+AsteraApp offers intuitive and fast control of complex lighting setups and is also used for preparation and monitoring of our lights.
+AsteraApp Features
+Connect Lights to App
+All Astera lights contain a wireless DMX module by LumenRadio, enabling them to be controlled by CRMX and W-DMX transmitters alongside other wireless fixtures. The AsteraBox has built-in CRMX and can be used to transmit DMX data to your lights.
+More about AsteraBox
+Connect power and DMX, Artnet or sACN to an Astera PowerBox. Then, connect your lights with a Power/Data combination cable.
+More about Titan PowerBox
+The control panel offers intuitive control over your light. Dedicated buttons offer swift control over brightness and HSI colors.
+Built-in Battery
+Titan Tube has a powerful built-in battery. With our “seamless runtime” technology, it can be set to a specific length of time to ensure that your lights won’t run out of battery while still get

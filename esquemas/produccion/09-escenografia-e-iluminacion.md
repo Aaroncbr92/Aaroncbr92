@@ -3,12 +3,12 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[2032]` = RD 2032/2009, unidades legales
 de medida · `[REBT]` = Reglamento electrotécnico para baja tensión (RD 842/2002), ITC-BT-24 ·
 `[601]` = Recomendación UIT-R BT.601-7 (03/2011) · `[fís]` = física demostrable · `[uso]` = uso
-profesional y plantilla oficial, **sin norma leída** · `[marca]` = **nombre comercial, ficha del
-fabricante NO consultada**.
+profesional y plantilla oficial, **sin norma leída** · `[ficha]` = **ficha del fabricante, leída el
+02/09/2026** · `[marca]` = **nombre comercial sin ficha**.
 
 **Cabecera.** Enunciado **sin norma**: «ESCENOGRAFÍA E ILUMINACIÓN. Nuevas tendencias» · **20
-preguntas**, la **materia más preguntada** del bloque específico, **una de cada seis** · **sólo 4
-tienen norma detrás**; 16 se apoyan en la plantilla oficial.
+preguntas**, la **materia más preguntada** del bloque específico, **una de cada seis** · **4 con
+norma detrás**, **3 con ficha de fabricante**, **13 sólo con la plantilla oficial**.
 
 <!-- indice -->
 
@@ -129,20 +129,27 @@ tienen norma detrás**; 16 se apoyan en la plantilla oficial.
 
 ## Las marcas que pregunta el examen
 
-- `[marca]` · **STAR TRACKER**: tracking óptico con **un sensor en la cámara apuntando al TECHO**
-  del plató, que lee marcas distribuidas allí. Distractores verosímiles: *Red Spy*, *Fly Tracker*,
-  *Sky Tracker* — **no se descartan razonando**, hay que saber el nombre.
-- `[marca]` · **MO-SYS**: el sistema que hay que tener instalado para usar **realidad aumentada** en
-  el estudio.
+- `[ficha]` · **MO-SYS ES LA CASA; STARTRACKER, EL APARATO.** Mo-Sys **inventó** el seguimiento
+  óptico por marcadores y su producto es el **StarTracker**. El examen pregunta **dos veces por el
+  mismo fabricante**: una por el producto y otra por la empresa.
+- `[ficha]` · **STAR TRACKER**: **estrellas retrorreflectantes** pegadas al **TECHO** —o pared, o
+  suelo— que lee **un sensor montado en la cámara**. Seguimiento **absoluto** y **«de dentro hacia
+  fuera»** (*inside-out*): **no lo tapa nadie al pasar**. Distractores: *Red Spy*, *Fly Tracker*,
+  *Sky Tracker*, que **no existen**.
+- `[ficha]` · **MO-SYS**: el sistema que hay que tener instalado para usar **realidad aumentada** en
+  el estudio. La ficha lo confirma: sirve **para croma y para pantalla LED**, y entrega **6 ejes más
+  zoom y enfoque**.
 - `[marca]` · **ORAD**, sistema de **patrones**, ventaja sobre el de **sensores**: **la cámara se
   mueve en horizontal y en vertical, y se puede usar AL HOMBRO**. Razón: los patrones dejan la
   cámara libre; los sensores la atan a un soporte instrumentado. Falsos: sólo horizontal, no
-  retardar la imagen, ordenadores menos potentes.
-- `[marca]` · **ASTERA TITAN TUBE**: **tubos LED** de marca comercial, autónomos, **sin cableado**.
-  Falsos: **balastos y cebadores** (luz de descarga) · **bastidores** (rigidez del decorado) ·
-  **viseras / barndoors** (aletas de recorte).
-- **Las cuatro fichas de fabricante NO se han podido consultar.** Es la parte más débil del temario
-  específico: si cambian de marca, **estas respuestas caducan**.
+  retardar la imagen, ordenadores menos potentes. **Es la única sin ficha: la más frágil del tema.**
+- `[ficha]` · **ASTERA TITAN TUBE**: **tubos LED** de marca comercial **alemana** —el informe de
+  seguridad fotobiológica identifica a **Astera LED Technology GmbH, Múnich**—, **con red o con
+  batería**, gobernados por **DMX por cable o por radio**, **dentro o fuera**. Por eso **sin
+  cableado**. Falsos: **balastos y cebadores** (luz de descarga) · **bastidores** (rigidez del
+  decorado) · **viseras / barndoors** (aletas de recorte).
+- **Aviso permanente del cuarto nivel**: una ficha **cambia sin avisar**. Si el producto se retira o
+  el tribunal cambia de marca, **estas respuestas caducan** aunque el tema siga escrito igual.
 
 ## Lo que se ha preguntado
 
@@ -155,8 +162,9 @@ tienen norma detrás**; 16 se apoyan en la plantilla oficial.
   **utilería = mobiliario y enseres** · **props → departamento de Arte** · **alzado = visión
   lateral** · **banner = marca o logo** · **un decorado, varios sets** · **RV = 360º** ·
   **realidad aumentada**.
-- `[marca]` **Star Tracker** (sensor al techo) · **Mo-sys** (RA en estudio) · **ORAD** (horizontal
-  y vertical, al hombro) · **Astera Titan Tube** (tubos LED).
+- `[ficha]` **Star Tracker** (sensor al techo) · **Mo-sys** (RA en estudio) · **Astera Titan Tube**
+  (tubos LED).
+- `[marca]` **ORAD** (horizontal y vertical, al hombro) — **sin ficha**.
 - **Lo que sale gratis y aún no ha caído**: **candela** y **lux** con sus definiciones · los otros
   dos pares de complementarios, **amarillo/azul** y **cian/rojo** · **planta** y **plano de
   cámaras**.

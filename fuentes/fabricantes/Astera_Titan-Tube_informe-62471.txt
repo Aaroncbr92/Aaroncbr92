@@ -1,0 +1,64 @@
+                                                                      Report No.: 2602T58190E-SF 
+                                                                Page 1 of 19                                 TRF-SF- IEC/EN 62471 V1.0 
+TEST REPORT 
+IEC 62471:2006 and EN 62471:2008
+Photobiological safety of lamps and lamp systems 
+Report reference No . ....................... : 2602T58190E-SF 
+Compiled by (+ signature)  ............... : Engineer: Max Li 
+Approved by (+ signature)  ............... : Team Leader: Harrison Huang 
+Date of issue  .................................... : 2026-05-29 
+Testing laboratory  ............................ : Bay Area Compliance Laboratories Corp. (Dongguan) 
+Address  ........................................... : No.12, Pulong East 1st Road, Tangxia Town, Dongguan, 
+Guangdong, China 
+Testing location  ............................... : Same as above 
+Applicant  .......................................... : Astera LED Technology GmbH 
+Address  ........................................... : Schatzbogen 60, 81829 Munich, Germany 
+Standard ........................................... : IEC 62471:2006 
+EN 62471:2008 
+Test sample(s) received...................: 2026-05-14 
+Test in period....................................: 2026-05-18 
+Procedure deviation  ........................ : N.A. 
+Non-standard test method  ............... : N.A. 
+Type of test object  ........................... : Titan Tube BTB 
+Trademark  ....................................... : N.A. 
+Model/type reference  ....................... : FP1-BTB 
+Manufacturer.................... ................ : Astera Manufacturing Limited 
+101, 201, 301, 401, 501, Bldg. 3, CLT Science & Technology Park, 
+No. 7, GanLiliu Road, Jihua subdistrict, Longgang District, 
+Shenzhen, Guangdong Province, P.R. China 
+Rating ............................................... : Input: 24VDC, 2.0A, 48W. 
+Copy of marking plate: 
+None 
+
+                                                                      Report No.: 2602T58190E-SF 
+ 
+                                                                Page 2 of 19                                 TRF-SF- IEC/EN 62471 V1.0 
+Test item particulars 
+Tested lamp .................................................................:Titan Tube BTB 
+Tested lamp system .....................................................:N.A. 
+ 
+Lamp classification group..........................................:Exempt Group 
+Lamp cap .....................................................................:N.A. 
+Bulb...............................................................................:N.A. 
+Rated of the lamp .........................................................:See rating 
+Furthermore marking on the lamp.................................:N.A. 
+Seasoning of lamps accordingEN standard ................: No seasoning 
+Temperature by measurement......................................:24.1°C 
+Information for safety use..............................................:N.A. 
+ 
+ 
+Possible test case verdicts: 
+-test case does not apply to the test object.................:N(.A.) 
+-test object does meet the requirement.......................:P(ass) 
+-test object does not meet the requirement.................:F(ail) 
+ 
+General remarks: 
+The test results presented in this report relate only to the object tested. 
+This report shall not be reproduced, except in full, without the written approval of the Issuing testing 
+laboratory. 
+"(See Enclosure #)" refers to additional information appended to the report. 
+"(See appended table)" refers to a table appended to the report. 
+Throughout this report a point is used as the decimal separator. 
+ 
+Remark:
+Appendix A - EUT photos

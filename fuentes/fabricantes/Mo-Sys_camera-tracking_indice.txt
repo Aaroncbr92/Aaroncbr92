@@ -1,0 +1,44 @@
+Camera Tracking
+← Back to Products
+Mo-Sys camera tracking systems for Virtual Production, VFX and live broadcast combine ‘absolute’ marker-based tracking (StarTracker), vSLAM support solutions, and precision encoder technology to deliver accurate, real-time tracking. Supporting AR graphics workflows and in-camera VFX, these real-time tracking systems integrate seamlessly with render engines, LED volumes, and studio pipelines. Built for reliability and scalability, Mo-Sys solutions ensure consistent, high-quality camera tracking across virtual studios and live production environments.
+Camera Tracking
+StarTracker Max
+The world’s best-selling 'absolute' camera tracking solution for broadcast, cinematic and Virtual Production
+View Product
+Camera Tracking
+StarTracker Mini
+Mo-Sys’ industry-leading accuracy and reliability in an ultra-compact form for smaller shooting spaces
+View Product
+Camera Tracking
+VisionMax
+A fallback solution to support StarTracker Max’s continuous tracking in unmapped environments
+View Product
+Camera Tracking
+StarTracker Wireless Kit
+Unrestricted motion for more dynamic tracked-camera shooting
+View Product
+Camera Tracking
+4-axis Encoder Kit
+Bolt-on encoding kit for Jimmy Jib and other cranes
+View Product
+Camera Tracking
+e-Sensor
+Highly integrated tracking head for VR and AR.
+View Product
+Camera Tracking
+StarTracker Grass Valley Integration
+Mo-Sys and Grass Valley collaborated to produce the first fully integrated camera for virtual studios and augmented broadcast graphics.
+View Product
+Camera Tracking
+StarTracker Sony Integration
+Mo-Sys' most accurate Virtual Production tracking solution for Sony HDC-3500
+View Product
+Camera Tracking
+StarTracker PTZ
+The Mo-Sys StarTracker PTZ is an add-on for the new generation of 4K PTZ cameras from Canon, Panasonic and Sony which adds 4 axes of camera tracking (X,Y,Z & roll) to reveal the full 3D space of your virtual studio.
+View Product
+FAQs
+Can Mo-Sys camera tracking be used for green screen virtual production?
+Yes, the same StarTracker tracking technology used for LED volumes also supports green screen virtual production. In a greenscreen virtual production setup, camera tracking data tells the compositing software how to move and scale the digital background to match the live camera, so the composite holds together even as the camera pans, tilts, or moves through the space. Mo-Sys tracking works the same way whether the final output is composited live or displayed on an LED wall, giving productions flexibility to choose the workflow that fits their space and budget.
+Does Mo-Sys camera tracking work for VFX and visual effects production beyond live broadcast?
+Yes, Mo-Sys camera tracking is used well beyond live broadcast, supporting film, commercials, and other VFX-heavy productions. Recorded StarTracker data can be exported with an FBX file for use in Maya and other post-production tools, giving visual effects teams accurate camera and lens data to match CG elements to the plate. This mak

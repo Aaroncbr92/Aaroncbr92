@@ -6,11 +6,11 @@
 | --- | --- |
 | **Bloque** | Temario específico · Producción (Asistencia) · punto 9 |
 | **Sirve para** | **Producción (Asistencia)** |
-| **Fuente** | **Sin norma en el enunciado.** Se apoya en el **RD 2032/2009** de unidades de medida, en el **Reglamento electrotécnico para baja tensión** y en la **Recomendación UIT-R BT.601-7**; el resto es vocabulario de oficio y marcas comerciales, y el tema lo marca |
-| **Identificador** | `BOE-A-2010-927` · `BOE-A-2002-18099` · `UIT-R BT.601-7` |
-| **Redacción que se estudia** | Los **reales decretos en su texto vigente al 21/12/2022** y la recomendación en su **edición 03/2011** |
-| **Aviso sobre las fuentes** | **Es el tema más preguntado del bloque, y el peor servido**: de sus **20 preguntas**, sólo **4 tienen norma detrás**. Las otras dieciséis son **vocabulario profesional y marcas comerciales**, y van marcadas una a una |
-| **Extensión** | **3.970 palabras** |
+| **Fuente** | **Sin norma en el enunciado.** Se apoya en el **RD 2032/2009** de unidades de medida, en el **Reglamento electrotécnico para baja tensión**, en la **Recomendación UIT-R BT.601-7** y en las **fichas de Astera y de Mo-Sys**; el resto es vocabulario de oficio, y el tema lo marca |
+| **Identificador** | `BOE-A-2010-927` · `BOE-A-2002-18099` · `UIT-R BT.601-7` · fichas de **Astera** y **Mo-Sys** |
+| **Redacción que se estudia** | Los **reales decretos en su texto vigente al 21/12/2022**, la recomendación en su **edición 03/2011** y las fichas **tal como estaban el 02/09/2026** |
+| **Aviso sobre las fuentes** | **Es el tema más preguntado del bloque, y el peor servido**: de sus **20 preguntas**, **4 tienen norma detrás** y **3 más, ficha de fabricante leída**. Las **trece restantes** son **vocabulario profesional**, y van marcadas una a una |
+| **Extensión** | **4.590 palabras** |
 
 <!-- /portada -->
 
@@ -26,13 +26,13 @@ lo dice de entrada, y marca el nivel de cada afirmación:
 |---|---|
 | **1 · Norma del BOE** | El **real decreto (RD) 2032/2009**, unidades legales de medida, para el **lumen**, el **lux**, la **candela** y el **kelvin**. El **Reglamento electrotécnico para baja tensión** (Real Decreto 842/2002) y su **ITC-BT-24**, para la protección contra contactos indirectos que hay detrás de la toma de tierra |
 | **2 · Organismo de normalización** | La recomendación del Sector de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones (**UIT-R**), la **BT.601-7**, cuyo cuadro de valores normalizados fija **qué primarios componen cada color** de la mezcla aditiva |
-| **4 · Documentación de fabricante** | Los nombres comerciales que el examen cita: **Astera Titan Tube**, **Mo-sys**, **Star Tracker** y (así lo escribe la plantilla, sin desarrollarlo) **ORAD**. **No se han podido consultar sus fichas**; lo que se dice de ellos sale de la plantilla |
+| **4 · Documentación de fabricante** | Las fichas de **Astera** —incluido el **informe de ensayo de seguridad fotobiológica** (norma **62471**) del Titan Tube— y de **Mo-Sys**, leídas el **2 de septiembre de 2026**. Sostienen tres de las cuatro preguntas de marca. La cuarta, la del sistema de patrones (así lo escribe la plantilla, sin desarrollarlo) **ORAD**, sigue **sin ficha** |
 | **5 · La plantilla oficial** | El vocabulario del oficio: **tronera**, **limbo**, **forillo**, **alzado**, **utilería**, **props**, **practicable**, **banner**, **dimmer** y la escenografía virtual. Va marcado |
 
-**Dicho sin rodeos**: de las veinte preguntas, **cuatro tienen norma detrás**. Las otras dieciséis
-son **vocabulario profesional y marcas comerciales**, y este tema **no las disfraza de dato
-normativo**. Se recogen porque el tribunal ya las ha dado por correctas dos veces, que es la única
-autoridad disponible cuando no hay norma.
+**Dicho sin rodeos**: de las veinte preguntas, **cuatro tienen norma detrás** y **tres más, ficha
+de fabricante**. Las **trece restantes** son **vocabulario profesional**, y este tema **no las
+disfraza de dato normativo**. Se recogen porque el tribunal ya las ha dado por correctas dos veces,
+que es la única autoridad disponible cuando no hay norma.
 
 ---
 
@@ -314,32 +314,55 @@ está la cámara y hacia dónde mira**, y con qué óptica: si la cámara se mue
 se mueve en consecuencia, el efecto se cae. A eso se dedican los sistemas de **tracking** o
 seguimiento, y el examen pregunta por tres marcas.
 
-**Lo que se puede afirmar, y de dónde sale.** Estas tres respuestas vienen de la **plantilla
-oficial** y de nada más: **las fichas de los fabricantes no se han podido consultar**. Se recogen
-con el nivel marcado:
-
 | Pregunta | Respuesta oficial |
 |---|---|
 | Sistema de tracking óptico formado por **un sensor instalado en la cámara apuntando hacia el techo del plató** | **Star Tracker** |
 | Para usar realidad aumentada en el estudio hay que tener instalado el sistema… | **Mo-sys** |
 | Ventaja del sistema de **patrones ORAD** sobre el que usa sensores | **Que la cámara puede moverse en el plano horizontal y vertical, y es posible usarla al hombro** |
 
-De las tres, la única que se puede razonar es la tercera: un sistema basado en **reconocer
-patrones** en el techo o en el decorado deja la cámara **libre** —puede ir al hombro, moverse en
-los dos planos—, mientras que uno basado en **sensores mecánicos** en la cabeza y el pedestal
-**ata la cámara a un soporte instrumentado**. Las opciones falsas hablan de movimiento **sólo
-horizontal**, de no tener que retardar la imagen y de necesitar ordenadores menos potentes.
+**Las dos primeras son la misma casa, y eso es lo que ordena la materia.** La ficha de **Mo-Sys**
+—leída en su catálogo de seguimiento de cámara— dice que la empresa **inventó el seguimiento óptico
+de cámara basado en marcadores** y que **el producto resultante se llama StarTracker**, «la solución
+de seguimiento absoluto más vendida del mundo para *broadcast* y cine». De modo que el examen
+pregunta **dos veces por el mismo fabricante**: una por el nombre del producto y otra por el de la
+empresa. Quien sepa que **Mo-Sys es la casa y StarTracker el aparato** contesta las dos.
 
-**El *Star Tracker* responde a la misma idea**: un sensor que mira al techo y lee marcas
-distribuidas allí para saber en todo momento dónde está. Los tres distractores —*Red Spy*, *Fly
-Tracker*, *Sky Tracker*— son nombres verosímiles construidos sobre el mismo patrón, y **no hay
-manera de descartarlos razonando**: hay que conocer el nombre.
+**Y la ficha confirma el enunciado.** El sistema se llama así porque el plató se siembra de
+«**estrellas**»: **pegatinas retrorreflectantes montadas en el techo** —o en la pared, o en el
+suelo, o marcas digitales sobre una pantalla de diodos emisores de luz (LED)—, que un **sensor
+montado en la cámara** lee para calcular su posición. Es lo que Mo-Sys llama seguimiento
+**«de dentro hacia fuera»** (*inside-out*) y **absoluto**: la cámara mira las marcas, en lugar de
+ser mirada desde fuera, y por eso **no la tapa nadie al pasar por delante**. La ficha añade que el
+sistema entrega los seis ejes más el zoom y el enfoque, y que sirve **tanto para croma como para
+pantallas LED**, que es la razón de que la otra pregunta lo asocie a la realidad aumentada.
+
+Los tres distractores del *Star Tracker* —*Red Spy*, *Fly Tracker*, *Sky Tracker*— son nombres
+verosímiles construidos sobre el mismo patrón, pero ya **no hace falta descartarlos de memoria**:
+el que existe es el que fabrica Mo-Sys, y el enunciado describe su ficha palabra por palabra.
+
+**La tercera sigue sin ficha.** De **ORAD** no se ha encontrado documentación de fabricante, así que
+esa respuesta se apoya sólo en la plantilla oficial. Se puede, eso sí, razonar: un sistema basado en
+**reconocer patrones** en el techo o en el decorado deja la cámara **libre** —puede ir al hombro,
+moverse en los dos planos—, mientras que uno basado en **sensores mecánicos** en la cabeza y el
+pedestal **ata la cámara a un soporte instrumentado**. Es exactamente la ventaja que Mo-Sys reclama
+para su propio sistema de marcadores, lo que refuerza el razonamiento sin sustituir a la ficha que
+falta. Las opciones falsas hablan de movimiento **sólo horizontal**, de no tener que retardar la
+imagen y de necesitar ordenadores menos potentes.
 
 ### 3.4 El material de iluminación que el examen cita por marca
 
-**Astera Titan Tube**: la respuesta oficial es que son **tubos de diodo emisor de luz (LED) de una marca
-comercial**. Son tubos autónomos, con batería y control inalámbrico, muy usados en plató y en
-exteriores porque **no necesitan cableado**.
+**Astera Titan Tube**: la respuesta oficial es que son **tubos de diodo emisor de luz (LED) de una
+marca comercial alemana**, y **la ficha del fabricante lo confirma entero**. Astera los presenta
+como «**el tubo LED definitivo** para cineastas, estudios y técnicos de eventos»: emiten blancos
+regulables de altísima reproducción cromática y color aplicable **píxel a píxel**, funcionan
+**dentro o fuera**, **con red o con batería**, y se gobiernan por **multiplexado digital**
+(*digital multiplex*), **DMX**, **por cable o por radio**, desde una aplicación. De ahí que en plató y en exteriores **no necesiten cableado**.
+
+Lo **alemán** de la respuesta también tiene papel: el informe de ensayo de la Comisión
+Electrotécnica Internacional (**IEC**) y de su gemela europea, la norma **62471**, «**seguridad
+fotobiológica de las lámparas y de los sistemas de lámparas**», que la propia Astera publica,
+identifica al solicitante como **Astera LED Technology GmbH, Schatzbogen 60, 81829 Múnich,
+Alemania**.
 
 Las tres opciones falsas describen otros tres elementos reales del oficio, y conviene reconocerlos
 porque pueden caer al revés en otra convocatoria:
@@ -351,10 +374,10 @@ porque pueden caer al revés en otra convocatoria:
 - **Aletas metálicas negras con bisagras que se fijan al frente de un aparato de iluminación** →
   son las **viseras** o *barndoors*.
 
-**Nivel de la fuente**: **cuarto**, documentación de fabricante, y **ni siquiera eso**: la ficha
-de Astera no se ha podido descargar. Lo único que sostiene esta respuesta es la plantilla oficial.
-Es, junto con las tres de tracking, **la parte más débil de todo el temario específico**, y el
-tema prefiere decirlo a fingir solidez.
+**Nivel de la fuente**: **cuarto**, documentación de fabricante, **leída y guardada** el 2 de
+septiembre de 2026. Con la cautela que ese nivel arrastra siempre:
+**una ficha cambia sin avisar**, y si Astera retira el producto o el tribunal cambia de marca, la
+respuesta caduca aunque el tema siga escrito igual.
 
 ---
 
@@ -381,18 +404,22 @@ delante:
 | Virtual | Un **decorado** puede tener **varios sets** | Plantilla oficial |
 | Virtual | La **realidad virtual** abarca **360 grados** | Plantilla oficial |
 | Virtual | Mezclar real y virtual en el mismo plano: **realidad aumentada** | Plantilla oficial |
-| Virtual | Tracking con **sensor apuntando al techo**: **Star Tracker** | Plantilla oficial |
-| Virtual | Sistema para realidad aumentada en estudio: **Mo-sys** | Plantilla oficial |
+| Virtual | Tracking con **sensor apuntando al techo**: **Star Tracker** | **Ficha de Mo-Sys** |
+| Virtual | Sistema para realidad aumentada en estudio: **Mo-sys** | **Ficha de Mo-Sys** |
 | Virtual | Ventaja de **ORAD**: movimiento **horizontal y vertical**, y **cámara al hombro** | Plantilla oficial |
-| Iluminación | **Astera Titan Tube**: **tubos LED** de marca comercial | Plantilla oficial |
+| Iluminación | **Astera Titan Tube**: **tubos LED** de marca comercial alemana | **Ficha de Astera** |
 
-**Cuatro de las veinte tienen norma o recomendación detrás. Dieciséis, no.** Es la proporción real
-de este tema, y verla escrita vale más que un tema que aparente uniformidad.
+**Cuatro de las veinte tienen norma o recomendación detrás; tres más, ficha de fabricante leída;
+trece, sólo la plantilla oficial.** Es la proporción real de este tema, y verla escrita vale más
+que un tema que aparente uniformidad.
 
 **Lo que no se ha preguntado y sale gratis de las mismas fuentes**: la **candela** y el **lux** con
 sus definiciones del real decreto —son los distractores de la pregunta del lumen, y pueden ser la
 pregunta la próxima vez—; los otros dos pares de **complementarios** —amarillo/azul y cian/rojo—;
-y la pareja **planta / plano de cámaras**, que acompaña al alzado en la misma documentación.
+la pareja **planta / plano de cámaras**, que acompaña al alzado en la misma documentación; y, de las
+fichas de fabricante, que **Mo-Sys es la casa y StarTracker el producto**, que sus marcas son
+**estrellas retrorreflectantes** y que su seguimiento es **«de dentro hacia fuera»**, además de las
+tres longitudes del **Titan Tube** y su gobierno por **DMX inalámbrico**.
 
 ---
 
@@ -406,16 +433,29 @@ y la pareja **planta / plano de cámaras**, que acompaña al alzado en la misma 
   ya volcado para el tema de prevención.
 - **Recomendación UIT-R BT.601-7 (03/2011)**, **cuadro 1**, «Valores de las señales normalizados»,
   para la composición de **amarillo, cian y magenta** a partir de los primarios.
+- **Ficha de Mo-Sys**, catálogo de seguimiento de cámara y página del **StarTracker Max**, leídas el
+  **2 de septiembre de 2026**. De ahí salen que **Mo-Sys es el fabricante del StarTracker**, las **estrellas retrorreflectantes de techo, pared o suelo**, el
+  **sensor montado en la cámara** y el seguimiento **absoluto «de dentro hacia fuera»**.
+- **Ficha de Astera** del **Titan Tube**, más el **informe de ensayo de seguridad fotobiológica**
+  —norma **62471**— que la propia Astera publica, leídos el mismo día. De ahí salen que son
+  **tubos LED**, que funcionan **con red o con batería** y con **DMX** por cable o inalámbrico, y que
+  el solicitante del ensayo es **Astera LED Technology GmbH, de Múnich (Alemania)**.
 
 **Lo que este tema no puede sostener, y por eso lo dice en vez de disimularlo:**
 
-- **Dieciséis de las veinte respuestas se apoyan en la plantilla oficial y en el uso profesional.**
+- **Trece de las veinte respuestas se apoyan en la plantilla oficial y en el uso profesional.**
   No hay norma que defina una tronera, un limbo o un alzado, y no la hay porque no tiene por qué
   haberla: es vocabulario de oficio.
-- **Cuatro respuestas dependen de nombres comerciales** —Astera Titan Tube, Mo-sys, Star Tracker y
-  ORAD— **cuyas fichas no se han podido consultar**: los servidores de los fabricantes devolvieron
-  error en las rutas probadas. Son el punto más débil de todo el temario específico. Si en una
-  convocatoria futura cambian de marca, **estas cuatro respuestas caducan**, y conviene saberlo.
+- **Tres respuestas dependen de fichas de fabricante**, que **sí se han leído** pero que **cambian
+  sin avisar**: si Astera o Mo-Sys retiran el producto, o el tribunal cambia de marca, esas tres
+  caducan aunque el tema siga escrito igual. Es la cautela propia del cuarto nivel, no una excusa.
+- **De ORAD no se ha encontrado ficha.** Esa respuesta se sostiene sólo en la plantilla oficial, y
+  es la más frágil del tema.
+- **Y una advertencia sobre cómo se llegó hasta aquí.** La primera versión de este tema decía que
+  ninguna de las cuatro fichas se había podido consultar. **Era falso, y el error era del método,
+  no del fabricante**: una respondía «no encontrado» porque la ruta probada estaba mal, y otra
+  respondía «prohibido» porque el servidor filtra por agente de usuario. La lección vale para todo
+  lo que queda: **un error del servidor no es la prueba de que un documento no exista**.
 - **El enunciado de la pregunta sobre realidad aumentada tiene los términos invertidos**: dice
   «superponer una imagen real sobre el entorno virtual» cuando la realidad aumentada superpone lo
   virtual sobre lo real. El tema **recoge la respuesta oficial y señala el error**, porque quien

@@ -238,11 +238,27 @@ en Documentación y en Producción (Asistencia).
       física para la transmisión de la luz—. **Las dieciséis restantes se apoyan en la plantilla
       oficial y el uso profesional, y el tema lo marca una a una y lo dice en su portada.** Las
       veinte se contestan con el tema delante (`informes/cobertura-produccion-tema-09.md`).
-- [x] **Declarado el punto más débil de todo el temario**: **cuatro respuestas dependen de nombres
-      comerciales** —Astera Titan Tube, Mo-sys, Star Tracker y ORAD— **cuyas fichas de fabricante
-      no se han podido consultar**, y tres de ellas **no se pueden razonar**: los distractores del
-      *Star Tracker* están construidos sobre el mismo patrón. Si la próxima convocatoria cambia de
-      proveedor, esas respuestas caducan, y el tema lo advierte.
+- [x] **Corregido un fallo de método que había cerrado tres fuentes buenas.** El tema 9 se cerró
+      declarando que **las cuatro fichas de fabricante no se habían podido consultar**. Al empezar
+      el tema siguiente se volvió a intentar y **tres estaban disponibles todo el tiempo**: la ruta
+      de LiveU estaba mal escrita (`/products/lu300s` da error; `/lu300s`, no) y Astera **filtra
+      por agente de usuario** (devuelve «prohibido» a la petición automática y la página entera a
+      un agente de navegador). **Una conclusión negativa es la más cara de todas, porque cierra la
+      búsqueda**: nadie vuelve a mirar donde ya está escrito que no hay nada.
+      **Regla nueva, aplicable a todo lo que queda**: antes de escribir «no se ha podido
+      consultar», dos rutas y un agente de navegador. Con la regla puesta se recomprobaron las tres
+      que seguían declaradas inalcanzables y **esta vez la declaración se sostiene**: la **UER**
+      responde «prohibido» también con agente de navegador, **DCI** es una aplicación de JavaScript
+      que no sirve documentos por ruta estática, y de la **AES10** sólo hay la línea de identidad.
+- [x] **Tema 9 rehecho con las fichas que sí existen** (`fuentes/fabricantes/`, con su README):
+      **Mo-Sys resultó ser el fabricante del StarTracker**, de modo que el examen **pregunta dos
+      veces por el mismo fabricante**; el enunciado del «sensor apuntando al techo» resultó ser
+      **la ficha palabra por palabra** —estrellas retrorreflectantes, seguimiento absoluto «de
+      dentro hacia fuera»—; y el adjetivo «**alemana**» de la respuesta del Titan Tube, que la
+      primera versión había quitado por no poder confirmarlo, **tiene documento**: el informe de
+      ensayo de seguridad fotobiológica identifica a **Astera LED Technology GmbH, de Múnich**.
+      El tema pasa de «4 con norma, 16 con la plantilla» a **4 con norma, 3 con ficha, 13 con la
+      plantilla**. **Sólo ORAD sigue sin ficha**, y es la respuesta más frágil del bloque.
 - [x] **Señalado un enunciado invertido del examen** (77 · 78): pide la tecnología de «superponer
       una imagen real sobre el entorno virtual» cuando la realidad aumentada superpone **lo virtual
       sobre lo real**. El tema contesta lo que el tribunal corrige —realidad aumentada— **y avisa
@@ -366,7 +382,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 2 · Propiedad intelectual | sí | sí | sí | sí | sí | sí, 13 falsos positivos declarados | 10 de 10 enteras |
 | Producción 17 · Protección de datos | sí | sí | sí | sí | sí | sí, 6 falsos positivos declarados | 5 de 5 enteras |
 | Producción 10 · Imagen y sonido | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 17 de 17 enteras |
-| Producción 9 · Escenografía e iluminación | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 20 de 20 enteras |
+| Producción 9 · Escenografía e iluminación | sí | sí | sí | sí | sí, dos veces | sí, limpia (lente de documento) | 20 de 20 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

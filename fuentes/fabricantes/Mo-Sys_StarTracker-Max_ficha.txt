@@ -1,0 +1,80 @@
+StarTracker Max
+← Back to Camera Tracking
+StarTracker Max leverages improved hardware and algorithms to produce our most accurate tracking solution to date.
+Download Brochure
+Make an Enquiry
+Overview
+Tech Specs
+Accessories
+FAQs
+Technical Specifications
+Max Ceiling Height
+16+m
+Max Studio Space
+100 x 100 m (no explicit limit)
+Tracking Stars Configuration
+Ceiling, wall or floor mounted retro-reflective stickers or digital LED wall markers
+Sensor Unit Dimensions
+4 x 4 x 9 cm
+Processor Unit Dimensions
+11 x 8 x 5 cm
+Weight (Sensor/Processor)
+250g / 450g
+Power
+12-24V via D-Tap
+Data Output
+Mo-Sys F4 / FreeD / OpenTrackIO over IP
+Accessories
+Broadcast Robotics
+e-Crane
+Fully encoded crane – designed for virtual production
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Images
+Videos
+Next generation high-resolution tracking
+Mo-Sys invented 'simple-to-use' marker-based optical camera tracking for Virtual Production. The resulting product, StarTracker, became the world's best-selling absolute tracking solution for broadcast and cinematic. StarTracker Max features redesigned and miniaturized hardware which leverages Mo-Sys improved algorithm to produce Mo-Sys' most accurate tacking solution to date.
+Set-and-forget professional tracking
+StarTracker Max auto alignment technology simplifies set-up and ensures ultra-precise studio calibration. Once set-up, StarTracker Max is fully autonomous with no need for costly, time-consuming daily re-calibration. With rapid star map discovery, a user-friendly interface (web browser-based) and simple D-Tap power inlet, StarTracker Max is the industry standard for set-and-forget professional tracking.
+Superior tracking capabilities
+StarTracker Max delivers 6-axis tracking with lens zoom and focus for precision blending of photo realistic 3D virtual graphics with the real-world scenes and objects. Its 130-degree field of view sensor enables tracking even on a camera pointing straight down, with zero drift accumulation and ultra-fast star map discovery.
+Unrivalled pedigree
+It's a StarTracker! Designed and manufactured in the UK to the same exacting standards as all of our world-leading Virtual Production solutions, StarTracker Max is built on a trusted legacy of StarTracker technology, delivering greatest tracking accuracy available.
+Web-Browser User Interface
+The browser-based UI minimizes the need for on-board monitors and supports the set up and control of multiple StarTracker systems across the studio from a single mobile device. It features easy-to-use wizard processes for tasks such as map creation and auto-aligner and is compatible with browser-based auto-translation tools for multi-language support.
+Standard setup functions can be accessed using any common web-browser, such as Chrome, Firefox, Safari, Opera or Edge, by logging into the StarTracker unit’s IP address (http) via the tracking ethernet network or hotspot (USB Wi-Fi connector required), without the need for internet access.
+Maximum versatility
+StarTracker Max is optimized for use in studio spaces up to 100 x 100m with no explicit upper limit, and ceiling heights >16m with appropriately sized and spaced stars.
+Immune to occlusion and blind spotting often experienced by 'outside-in' tracking systems, StarTracker Max provides absolute 'inside-out' tracking.
+Furthermore, when powered from the camera or battery (typical power draw only 20 W), and combined with the Mo-Sys Wireless Kit allows for untethered camera setups.
+FAQs
+Can StarTracker Max be used for both greenscreen virtual production and tracking systems for LED walls?
+Yes, StarTracker Max is equally at home in green screen virtual production studios and LED wall virtual production stages, thanks to its flexible star configuration options and wide 130-degree field of view sensor. You can mount tracking stars on ceilings, walls or floors, or use LED wall markers, allowing a single camera tracking system to serve mixed environments where greenscreen, practical sets and LED volumes coexist.
+How does StarTracker Max achieve absolute camera tracking with low latency for LED wall virtual production?
+StarTracker Max uses retro-reflective ceiling, wall or floor markers - or digital LED wall markers - to calculate true 6-axis camera position and rotation, including zoom and focus, delivering low latency camera tracking data over IP (Mo-Sys F4, FreeD, OpenTrackIO) into real-time render engines such as Unreal Engine. Because it provides absolute camera tracking with zero drift accumulation, it maintains consistent alignment between the tracked camera and LED wall content throughout long takes and complex virtual production camera moves.
+How does StarTracker Max integrate into high-end virtual production camera tracking workflows with robotics and cranes?
+StarTracker Max’s absolute optical camera tracking can be combined with Mo-Sys encoder solutions and broadcast robotics to deliver complete camera tracking systems for virtual production, enabling precise AR graphics and VFX with jibs, cranes and pedestals. Its compatibility with large studio spaces, LED wall markers and green screen workflows makes it a central tracking hub for complex multi-axis virtual production camera tracking setups.
+How does StarTracker Max simplify Unreal Engine camera tracking setup for virtual production stages?
+StarTracker Max outputs standard tracking protocols over IP so it integrates directly with Unreal Engine camera tracking setups, feeding real-time camera tracking data including position, rotation, zoom and focus into your virtual production workflow. Its auto alignment technology and browser-based user interface provide guided calibration wizards that streamline Unreal Engine camera tracking configuration for LED walls, broadcast graphics and AR graphics pipelines.
+How does the auto alignment feature improve a virtual production workflow using StarTracker Max?
+Auto alig

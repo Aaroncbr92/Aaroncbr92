@@ -1,0 +1,46 @@
+Compact 5G, 4K 10-bit HDR unit for live streaming on-the-go
+The most powerful small-sized portable 5G video transmission solution for broadcast operations and live coverage on-the-go. Providing reliable 4K 10-bit HDR broadcast-grade video over 5G and other cellular/IP networks at a fraction of the cost.
+Get in touch
+LU300S_Datasheet
+Mission-critical IP bonding in a small form-factor
+Weighing just over 900 g (2 lb), the LU300S offers resilient bonding in a compact and lightweight portable unit! Supporting up to 30 Mbps, the unit combines up to six IP connections: 4 cellular, WiFi and LAN, based on LiveU’s patented HEVC bonding technology.
+IP connections
+Mpbs
+Native 5G field unit for extra reliability
+With built-in 5G support, the LU300S delivers the highest bandwidth and ultra-low latency. The unit supports up to 4 x 5G/4G cellular connections: two internal dual-SIM modems with high-efficiency antennas as well as two external modems. Powered by LiveU’s dedicated Reliable Transport protocol LRT™, the LU300S offers rock-solid reliability in the most challenging scenarios.
+Broadcast-grade video quality
+Increase viewership and engage your audience by covering more live events in the highest video quality. The LU300S allows you to reliably transmit up to
+4Kp60 10-bit
+HDR
+transmission over 12G-SDI or HDMI for optimal color depth and richness. Supporting richer audio production, the unit supports up to
+eight audio channels
+for wider mixing options.
+Audio Channels
+Resolution
+Designed for on-the-go productions
+We know what it takes to produce live, and we took it all into consideration when applying a ruggedized design to the LU300S – dedicated for high-intensity environments. Your field crew will enjoy maximum production convenience with an intuitive interface and 2.2″ display as well as multiple carrying options (camera mount, cross-shoulder pack and belt pack), integrated easily with other broadcasting accessories.
+Built for Sony camera workflows
+Fast, reliable, fully automated.
+The same bonded connectivity that powers your live transmissions now works for Sony file workflows too. Add the RXS connection license and get footage to your newsroom while your crew is still in the field – no extra LiveU hardware, no manual steps.
+Monitor and manage all file transfers directly in LiveU Central, alongside your existing live workflows.
+Rich Remote Production Tools
+Make your production more efficient with our remote production tools, seamlessly integrated with the LU300S to ensure the most professionally-produced live broadcasts.
+Tally Light
+Audio Connect
+IP Pipe
+Tally Light
+Ensure professionally-produced and smoothly-run live broadcasts from anywhere. LiveU’s Tally Light enables field reporters and camera operators to know instantly when they’re live on air.
+Learn More
+Audio Connect
+LiveU Audio Connect offers high-quality and reliable cloud-based audio solutions, enabling news anchors and producers in the station to communicate easily with camera operators and talent in the field.
+Learn More
+IP Pipe
+LiveU IP Pipe lets you gain remote control over a wide variety of network-based equipment, including robotic and PTZ cameras, Camera Control Units (CCUs), and IP-based intercom. As a result, the solution allows you to enhance your remote production set-up and reduce costs.
+Learn More
+High-speed internet on-the-go
+Stay connected in the field with wireless high-speed broadband on-the-go. The LU300S can work in a DataBridge mode, allowing you to boost productivity, leveraging multiple networks, including cellular, WiFi and Ethernet, for generic internet connectivity in the field.
+Read more
+End-to-end remote production workflow
+Benefit from an end-to-end workflow, through the cloud, on one single platform. Leveraging LiveU’s complete product portfolio, the LU300S integrates seamlessly with LiveU’s cloud-based management, distribution and orchestration solutions and SmartData service.
+Related case studies
+Blaze Streaming Media manages countrywide live 

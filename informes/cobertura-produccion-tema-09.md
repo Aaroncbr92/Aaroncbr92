@@ -9,8 +9,9 @@ donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 - **Contestadas con el tema delante**: **20**.
 - **Lagunas que hubo que cerrar**: **ninguna**. El tema se escribió después de leer las veinte
   preguntas con su respuesta oficial.
-- **Preguntas con norma o recomendación detrás**: **4**. Las otras dieciséis se apoyan en la
-  plantilla oficial y en el uso profesional, y **el tema lo marca una a una**.
+- **Preguntas con norma o recomendación detrás**: **4**. **Tres más** tienen **ficha de fabricante
+  leída**. Las **trece restantes** se apoyan en la plantilla oficial y en el uso profesional, y
+  **el tema lo marca una a una**.
 
 ## Una por una
 
@@ -19,7 +20,7 @@ donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 | 77 · 14 | d | Un decorado alberga varios sets; es jerarquía, no naturaleza | Plantilla oficial | 3.1 |
 | 77 · 16 | d | La realidad virtual abarca 360 grados | Plantilla oficial | 3.2 |
 | 77 · 32 | c | Los patrones dejan la cámara libre; los sensores la atan al soporte | Plantilla oficial | 3.3 |
-| 77 · 44 | c | Astera Titan Tube: tubos LED de marca comercial | Plantilla oficial | 3.4 |
+| 77 · 44 | c | Astera Titan Tube: tubos LED de marca comercial alemana | **Ficha de Astera** e informe 62471 | 3.4 |
 | 77 · 72 | c | Tronera: abertura para introducir equipos de grabación | Plantilla oficial | 2.1 |
 | 77 · 78 | d | Realidad aumentada: mezcla lo real y lo virtual en el mismo plano | Plantilla oficial | 3.2 |
 | 77 · 86 | d | Transmisión: atraviesa un cuerpo no opaco y sale por el otro lado | Física | 1.3 |
@@ -29,8 +30,8 @@ donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 | 78 · 18 | a | Destellos breves y repetidos: movimiento lento o congelado | Uso profesional | 1.5 |
 | 78 · 20 | c | Utilería: mobiliario y enseres de la puesta en escena | Plantilla oficial | 2.1 |
 | 78 · 22 | d | Alzado: visión lateral a escala del decorado | Plantilla oficial | 2.2 |
-| 78 · 30 | c | Mo-sys, el sistema para realidad aumentada en estudio | Plantilla oficial | 3.3 |
-| 78 · 39 | c | Star Tracker: sensor en la cámara apuntando al techo | Plantilla oficial | 3.3 |
+| 78 · 30 | c | Mo-sys, el sistema para realidad aumentada en estudio | **Ficha de Mo-Sys** | 3.3 |
+| 78 · 39 | c | Star Tracker: sensor en la cámara que lee estrellas del techo | **Ficha de Mo-Sys** | 3.3 |
 | 78 · 40 | b | Toma de tierra cuando el practicable soporta equipos eléctricos | **RD 842/2002**, ITC-BT-24, cap. 4 + práctica | 2.3 |
 | 78 · 41 | b | Banner: pieza sólida con marca o logo acoplada al practicable | Plantilla oficial | 2.1 |
 | 78 · 58 | a | El flujo luminoso se mide en lúmenes (cd · sr) | **RD 2032/2009** | 1.1 |
@@ -70,18 +71,50 @@ convencional de 50 V** en alterna. De ahí a un practicable hay un paso que **da
 reglamento**: en cuanto la tarima soporta equipo eléctrico, su estructura puede convertirse en una
 masa. El tema **separa las dos mitades** y dice cuál es cuál.
 
+## Las tres que dependían de una marca, y ahora tienen ficha
+
+Este apartado no estaba en la primera versión del informe, y por eso importa. La primera versión de
+este tema declaró que **ninguna de las cuatro fichas de fabricante se había podido consultar**, y
+sobre esa base marcó las cuatro respuestas como sostenidas sólo por la plantilla. **Era falso en tres
+de los cuatro casos**, y el error no era del fabricante: era del método. Está contado en
+`fuentes/fabricantes/README.md` y resumido en el informe de refutación.
+
+Lo que las fichas añaden, y que cambia cómo se estudian estas tres preguntas:
+
+**1. Mo-Sys y Star Tracker son la misma casa (78 · 30 y 78 · 39).** El catálogo de seguimiento de
+cámara de Mo-Sys dice que la empresa **inventó el seguimiento óptico basado en marcadores** y que el
+producto resultante **es el StarTracker**. El examen, por tanto, **pregunta dos veces por el mismo
+fabricante**: una por el nombre del aparato y otra por el de la empresa. Antes eran dos nombres
+sueltos que había que memorizar por separado; ahora son **una sola cosa que se entiende**.
+
+**2. El enunciado del sensor al techo es la ficha, palabra por palabra (78 · 39).** El sistema se
+llama así porque el plató se siembra de «**estrellas**»: **pegatinas retrorreflectantes montadas en
+el techo** —también en pared o suelo, o marcas digitales sobre pantalla LED— que **un sensor montado
+en la cámara** lee para calcular su posición. Mo-Sys lo llama seguimiento **absoluto** y **«de dentro
+hacia fuera»**, e insiste en que por eso **nadie lo tapa al pasar por delante**. Los tres
+distractores —*Red Spy*, *Fly Tracker*, *Sky Tracker*— siguen sin existir, pero **ya no hace falta
+memorizar cuál es el bueno**: el bueno es el que describe la ficha.
+
+**3. Lo «alemán» del Titan Tube tiene documento (77 · 44).** La opción correcta dice «tubos LED de
+iluminación de una marca comercial **alemana**», y la primera versión de este tema **se detuvo antes
+del adjetivo** porque no lo podía confirmar. Ahora sí: el **informe de ensayo de seguridad
+fotobiológica** —norma **62471**— que la propia Astera publica identifica al solicitante como
+**Astera LED Technology GmbH, Schatzbogen 60, 81829 Múnich, Alemania**. Y la ficha del producto
+confirma el resto de lo que el tema decía por oficio: **tubo LED**, **con red o con batería**,
+gobernado por **DMX por cable o por radio**, **dentro o fuera**.
+
+**La que sigue sin ficha es ORAD**, y con ella la advertencia se mantiene entera.
+
 ## Lo que este tema deja dicho que no puede sostener
 
-- **Dieciséis de las veinte respuestas no tienen norma detrás.** Doce son **vocabulario del
+- **Trece de las veinte respuestas no tienen norma ni ficha detrás.** Son **vocabulario del
   oficio** —tronera, limbo, forillo, alzado, utilería, props, practicable, banner, dimmer, set y
   decorado, realidad virtual y aumentada— y no la tienen porque no tiene por qué haberla. Se
   recogen porque **el tribunal ya las ha dado por correctas** y con esa autoridad se estudian.
-- **Cuatro respuestas dependen de nombres comerciales** —**Astera Titan Tube**, **Mo-sys**,
-  **Star Tracker** y **ORAD**— **cuyas fichas de fabricante no se han podido consultar**: los
-  servidores devolvieron error en todas las rutas probadas. Son **el punto más débil de todo el
-  temario específico**. Tres de ellas, además, **no se pueden razonar**: los distractores del
-  *Star Tracker* —*Red Spy*, *Fly Tracker*, *Sky Tracker*— están construidos sobre el mismo patrón
-  y sólo se descartan sabiendo el nombre.
+- **Tres respuestas dependen de fichas de fabricante que sí se han leído** —**Astera Titan Tube**,
+  **Mo-sys** y **Star Tracker**—, con la cautela permanente del cuarto nivel: **una ficha cambia
+  sin avisar**.
+- **Una respuesta depende de un nombre comercial sin ficha**: **ORAD**. Es la más frágil del tema.
 - **El enunciado de la 77 · 78 tiene los términos invertidos.** Dice «superponer una imagen real
   sobre el entorno virtual» cuando la realidad aumentada superpone **lo virtual sobre lo real**.
   La respuesta oficial —realidad aumentada— es la única posible entre las cuatro opciones, pero
