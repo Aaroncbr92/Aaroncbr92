@@ -358,6 +358,32 @@ en Documentación y en Producción (Asistencia).
       y la fuente no coinciden del todo —el enunciado invertido de la realidad aumentada, el MPEG-2
       del DVB, el mando del escenógrafo sobre vestuario frente a la clasificación del convenio—,
       **se contesta como corrige el tribunal y se escribe la discrepancia al lado**.
+- [x] **Tema 8 del específico de Producción (Asistencia)** —formatos y soportes— **cerrado**: 2.734
+      palabras, con esquema de repaso. **Tres de sus seis preguntas tienen norma o recomendación
+      detrás**: la **UIT-R BT.2100-1** da la definición literal del **HDR** —«realces mucho más
+      brillantes y mayor detalle en las zonas oscuras»— y los **tres cómputos de píxeles del
+      contenedor**, y el **Plan Técnico Nacional de la TDT** exige **2 160 líneas activas** en
+      ultraalta definición. Las tres restantes —**SxS Pro**, **internegativo** y el origen de las
+      **24 imágenes por segundo**— se apoyan sólo en la plantilla.
+- [x] **Un distractor que resultó no ser falso, y obligó a reescribir un epígrafe.** La opción c)
+      de la pregunta de las 24 imágenes por segundo dice que es «un estándar temporal opcional que
+      se utiliza en televisión», y **la recomendación incluye 24 y 24/1,001 entre sus frecuencias
+      de trama**. La pregunta no se decide por verdad o falsedad, sino por **cuál de dos
+      afirmaciones ciertas contesta lo preguntado**, y lo decide una palabra: **«tradicionalmente»**.
+      El tema reconoce que el distractor es bueno y **explica la regla que lo desempata**, en lugar
+      de simplificarlo hasta que parezca malo.
+- [x] **Señalado otro enunciado confundido del examen**: pide «lo que la **DCI 4K** estandariza
+      **para televisión**», y la DCI **estandariza cine**: su 4K es **4 096 × 2 160**, no
+      **3 840 × 2 160**. El tema contesta lo que el tribunal corrige **y enfrenta las dos normas en
+      una tabla**.
+- [x] **La especificación DCI, recomprobada con cinco rutas y agente de navegador: sigue cerrada.**
+      Su servidor responde pero es **una aplicación de JavaScript que no sirve documentos por ruta
+      estática**. La cifra 4 096 × 2 160 queda **declarada sin respaldo en el propio párrafo donde
+      se usa**, no sólo en la trazabilidad.
+- [x] **Segundo caso de cifra huérfana que es comprobación positiva** —tras los 350 gramos del tema
+      de exteriores—: la lente marcó **4 096** y **3 840 × 2 150** como cifras sin fuente, y eso era
+      justo lo que el tema afirmaba de las dos. **Cuando el tema cita una cifra para negarla, la
+      lente la marca, y esa marca es la prueba.**
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -476,6 +502,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 1 · La producción | sí | sí | sí | sí | sí | sí, 1 salvedad de cobertura declarada | 6 de 6 enteras |
 | Producción 3 · El guion | sí | sí | sí | sí | sí | sí, limpia (0 de 6 con norma, declarado) | 6 de 6 enteras |
 | Producción 7 · Equipos humanos | sí | sí | sí | sí | sí | sí, limpia (1 tensión con el convenio declarada) | 6 de 6 enteras |
+| Producción 8 · Formatos y soportes | sí | sí | sí | sí | sí | sí, limpia (9 huérfanas, todas metadatos o negaciones) | 6 de 6 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
