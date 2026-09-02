@@ -91,6 +91,12 @@ tres ocupaciones y está en `prl-especifico.md`—.
 mitad de sus preguntas —cuarenta de ochenta y dos— son de **cultura y actualidad**,
 un epígrafe que no se estudia en una norma sino que se comprueba dato a dato.
 
+**Y se comprobó.** De esas cuarenta, **quince quedaron atadas a un documento**
+—nueve al BOE— y las **veinticinco restantes** van marcadas como apoyadas sólo en
+la plantilla, listadas juntas en el propio tema. En el conjunto del bloque, **56
+de las 82 preguntas se verifican en fuente**, y el tema 5 es el único del proyecto
+con **todas** sus preguntas verificadas.
+
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al
 lado. No se clasifica por palabras clave, y no por comodidad: las preguntas del

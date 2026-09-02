@@ -91,6 +91,21 @@ AVISOS_PRODUCCION = {
         "como <b>Astera LED Technology GmbH, de Múnich</b>.",
 }
 
+AVISOS_DOCUMENTACION = {
+    "09_preguntas_documentacion · nº 11":
+        "<b>La opción correcta empieza un día tarde.</b> El Real Decreto 1673/2010 se publicó en el "
+        "«BOE» núm. 295, de <b>4 de diciembre de 2010</b>, y entró en vigor «en el instante de su "
+        "publicación»: el estado de alarma corrió desde <b>el 4</b>, no desde el 5. La fecha final "
+        "sí es literal —el Real Decreto 1717/2010 lo prorroga «hasta las 24 horas del día 15 de "
+        "enero de 2011»—, y la opción sigue siendo la única posible de las cuatro.",
+    "09_preguntas_documentacion · nº 47":
+        "<b>El enunciado desarrolla las siglas y la norma no.</b> La norma ECMA-319, que es la que "
+        "define el formato, se titula «Data Interchange on 12,7 mm 384-Track <b>Magnetic Tape "
+        "Cartridges</b> – Ultrium-1 Format» y usa las siglas sin explicarlas. El desarrollo entre "
+        "paréntesis es del tribunal; lo que la norma sí dice es que es <b>cinta magnética</b>.",
+}
+
+
 BLOQUES = {
     "general": dict(
         carpeta="general",
@@ -147,6 +162,31 @@ BLOQUES = {
                       "distractor descartado <i>no es falso</i>. Van marcados uno a uno en el "
                       "apéndice. El temario contesta lo que corrige el tribunal <b>y dice dónde "
                       "está la costura</b>.</p>",
+    ),
+    "documentacion": dict(
+        carpeta="documentacion",
+        rotulo="Temario específico · Documentación",
+        titulo="Temario específico",
+        subtitulo="Los seis temas de <b>Documentación</b>",
+        pie="Oposiciones RTVE – Documentación",
+        avisos=AVISOS_DOCUMENTACION,
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), "documentacion-%02d" % n) for n, base in [
+            (1, "historia-de-rtve"), (2, "documentacion-y-tecnologias"),
+            (3, "internet"), (4, "inteligencia-artificial"),
+            (5, "centros-de-documentacion"), (6, "cultura-y-actualidad"),
+        ]],
+        aviso_respuestas="<b>Ninguna respuesta oficial de este bloque está mal</b>, pero "
+                         "<b>dos enunciados cojean</b> —uno fecha el estado de alarma un día "
+                         "tarde, otro desarrolla unas siglas que la norma no desarrolla—: van "
+                         "avisados debajo de su tabla.",
+        aviso_portada="<p><b>Ninguna respuesta oficial de este bloque está mal.</b> Lo que sí "
+                      "hay es <b>desigualdad de fuentes</b>, y el temario la dice: hay un tema "
+                      "con las diez preguntas verificadas en documento y otro con cuarenta "
+                      "preguntas de las que <b>quince</b> tienen documento y <b>veinticinco</b> "
+                      "se apoyan sólo en la plantilla. Cada respuesta lleva <b>el nivel de su "
+                      "fuente</b> escrito al lado.</p>",
     ),
 }
 

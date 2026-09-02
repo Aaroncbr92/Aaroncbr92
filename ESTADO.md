@@ -792,3 +792,14 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   el real decreto **define las tres opciones falsas** —amperio, kelvin y newton— como unidades de
   otras magnitudes, y dice que la unidad del sistema para esta magnitud es el becquerel. **Un
   descarte completo vale tanto como una cita**, y así se marca.
+
+- **2026-09-03 · Cerrado el bloque específico de Documentación.** Seis temas, seis esquemas, doce
+  informes y **82 preguntas contestadas con el tema delante**. El volumen imprimible sale en
+  `libro-documentacion.pdf` —**96 páginas**—, con sus versiones en Word y HTML. **Ninguna respuesta
+  oficial de este bloque está mal**; **dos enunciados cojean** y van avisados en el apéndice: uno
+  fecha el estado de alarma de 2010 un día tarde —el real decreto se publicó el **4** de diciembre y
+  entró en vigor «en el instante de su publicación»— y otro desarrolla unas siglas que la norma que
+  las define **no desarrolla**.
+  **El saldo de fuentes del bloque**: de las 82 preguntas, **56 se verifican en documento**. El
+  tema 5 es **el único tema del proyecto con todas sus preguntas verificadas**; el tema 4 es **el que
+  menos fuentes tiene, y no por descuido**: su materia no tiene norma publicada.
