@@ -342,6 +342,22 @@ en Documentación y en Producción (Asistencia).
       lente sólo da su propia frase a los marcadores interiores para que una remisión no arrastre
       texto ajeno. Reescrito para que **el marcador abra párrafo**, pasó de **0 a 4 comprobadas**.
       **Cuando una lente devuelve cero, la primera sospecha es que no ha mirado.**
+- [x] **Tema 7 del específico de Producción (Asistencia)** —equipos humanos— **cerrado**: 2.258
+      palabras, con esquema de repaso. La regla del tema 1 volvió a pagar, **pero a medias, y hay
+      que decir en qué mitad**: el **artículo 38 del III Convenio** da **los trece ámbitos
+      ocupacionales** y su **anexo VIII** las **ocupaciones tipo**, lo que **prueba que vestuario,
+      decorados, realización y documentación son ámbitos distintos** —el supuesto sobre el que dos
+      preguntas están construidas—; pero **ninguno de los seis oficios está nombrado en el
+      convenio**, buscados uno a uno. **La fuente sostiene el armazón de la pregunta, no la
+      respuesta**, y el tema lo escribe tres veces para que no se pierda al resumir.
+- [x] **Regla de escritura, no de herramienta, tras el segundo cero de lente en dos temas**: cuando
+      un tema cite un artículo, **el marcador tiene que abrir el párrafo**. Enterrado en una
+      subordinada —«en su artículo 38…»—, la lente sólo mira esa frase y **la cita que viene detrás
+      no se comprueba y no se queja**. Corregido, el tema 7 pasó de **2 a 12 negritas comprobadas**.
+- [x] **Enunciada como práctica constante lo que ya se venía haciendo**: cuando la respuesta oficial
+      y la fuente no coinciden del todo —el enunciado invertido de la realidad aumentada, el MPEG-2
+      del DVB, el mando del escenógrafo sobre vestuario frente a la clasificación del convenio—,
+      **se contesta como corrige el tribunal y se escribe la discrepancia al lado**.
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -459,6 +475,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 13 · Equipos de exteriores | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 7 de 7 enteras |
 | Producción 1 · La producción | sí | sí | sí | sí | sí | sí, 1 salvedad de cobertura declarada | 6 de 6 enteras |
 | Producción 3 · El guion | sí | sí | sí | sí | sí | sí, limpia (0 de 6 con norma, declarado) | 6 de 6 enteras |
+| Producción 7 · Equipos humanos | sí | sí | sí | sí | sí | sí, limpia (1 tensión con el convenio declarada) | 6 de 6 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
