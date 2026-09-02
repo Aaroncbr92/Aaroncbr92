@@ -30,17 +30,33 @@ def articulos(fuente):
     # Si no se normaliza, el patrón no reconoce ni un artículo y la lente
     # devuelve "0 comprobadas, 0 no literales": un tema sin revisar que se
     # lee como impecable (manual, apartado 10)
-    fuente = re.sub(r"[              　]", " ", fuente)
+    fuente = re.sub(r"[\u00a0\u2002\u2003\u2009\u202f\u3000]", " ", fuente)
     # "Artículo 32 bis" no acaba en dígito: con un patrón anclado en \d+$ ese
     # artículo no entra en el diccionario, no se comprueba nunca y además su
     # texto en el tema se contrasta contra el artículo 32, que dice otra cosa.
     # Un artículo que no se mira sale impecable (manual, apartado 10)
     patron = (r"^## \[[^\]]+\] Artículo (\d+(?: bis| ter| quáter| quinquies)?)$"
               r"\n\n_.*?_\n\n(.*?)(?=\n## |\Z)")
+    # un tratado con anexos numera desde 1 dentro de cada anexo, así que
+    # "Artículo 1" aparece muchas veces. Con un diccionario que sobrescribe,
+    # sólo sobrevive el último y todo lo demás se contrasta **contra el
+    # artículo equivocado sin dar ningún error** (manual, apartado 10). Se
+    # guardan todas las versiones juntas y se avisa: así una cita literal de
+    # cualquiera de ellas cuenta como encontrada, y quien lea el informe sabe
+    # que la atribución por número no es fiable en esta fuente
     for m in re.finditer(patron, fuente, re.S | re.M):
-        fuera[m.group(1)] = limpia(m.group(2))
-    return fuera
-
+        fuera.setdefault(m.group(1), []).append(limpia(m.group(2)))
+    repes = sorted((n for n, v in fuera.items() if len(v) > 1), key=len)
+    if repes:
+        print("AVISO: la fuente repite estos números de artículo —%s—."
+              % ", ".join(repes))
+        print("       Numera desde 1 en cada anexo o parte, así que **la"
+              " atribución por número no es fiable**:")
+        print("       se comprueba contra la suma de todas las versiones y no"
+              " contra una sola. Para esta fuente, la lente de documento dice"
+              " más.")
+        print()
+    return {n: " ".join(v) for n, v in fuera.items()}
 
 def abre_bloque(tema, i):
     """¿El marcador de la posición i abre epígrafe, o va dentro de una frase?

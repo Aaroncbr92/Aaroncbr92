@@ -11,6 +11,8 @@ se leyó**.
 | Fichero | Documento | Emisor | Leído |
 |---|---|---|---|
 | `AIP-Espana_ENR-5-1.pdf` y `.txt` | **AIP España, sección ENR 5.1**, «Zonas prohibidas, restringidas, peligrosas y de protección de planes de vuelo» | **ENAIRE**, proveedor de servicios de navegación aérea | 02/09/2026 |
+| `Camara-de-Espana_cuaderno-ATA.txt` | Ficha del trámite **«Cuaderno de admisión temporal de mercancías – ATA»** | **Cámara de Comercio de España** | 02/09/2026 |
+| `Camara-de-Espana_ATA-fichas-pais.txt` | **«Fichas país»**: los **82 territorios** que admiten cuadernos ATA. Documento fechado el **20/08/2026** | **Cámara de Comercio de España** | 02/09/2026 |
 
 ## Por qué hacía falta
 
@@ -28,3 +30,19 @@ AIP— la pregunta se contesta entera y sin memorizar nada suelto.
 y la cabecera del listado de zonas peligrosas—, porque el documento completo son
 cuarenta y dos páginas de coordenadas que este temario no necesita. El PDF entero
 está guardado al lado.
+
+## Y una segunda razón, que salió del tema 14
+
+La pregunta por el territorio en que hace falta el **cuaderno ATA** tenía fuente de primer nivel
+—el **Convenio de Estambul**, publicado en el BOE— y **esa fuente decía lo contrario que la
+respuesta oficial**: su relación de estados parte, de **1997**, **no incluye a Irán** e incluye a
+**Ghana como firmante sin ratificar**.
+
+No era un error del tribunal: era **una lista caducada**. El sistema ATA ha crecido treinta años, y
+quien lleva la lista viva es **la Cámara de Comercio**, cuyo documento de «fichas país» —fechado el
+**20 de agosto de 2026**— recoge **82 territorios**, **Irán entre ellos** y **sin Ghana, Argentina
+ni Liberia**.
+
+**La regla que queda**: cuando una pregunta depende de **una lista que cambia** —países, organismos,
+marcas, modelos—, **el tratado no es la fuente: la fuente es el registro vivo, y se cita con su
+fecha**.

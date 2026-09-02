@@ -400,6 +400,34 @@ en Documentación y en Producción (Asistencia).
       el tema sólo menciona de pasada** y cuyas fuentes no se le habían pasado a la lente. Corregido
       el conjunto de fuentes, quedaron **dos**, las dos metadatos. **Cuando la lista de huérfanas
       incluye designaciones de normas, el problema está en qué se le ha dado a comparar.**
+- [x] **Tema 14 del específico de Producción (Asistencia)** —documentación internacional para
+      desplazamientos— **cerrado**: 2.521 palabras, con esquema de repaso. **Cuatro de sus seis
+      preguntas son sobre el cuaderno ATA**, y las cuatro se contestan con documento delante: el
+      **Convenio relativo a la importación temporal, hecho en Estambul** —anexo A, artículos 1, 5.1
+      y 6— y las **fichas de la Cámara de Comercio de España**. Las dos restantes —el bono de
+      exceso de equipaje y la tarjeta de prensa de Israel— se apoyan sólo en la plantilla, **y sus
+      fuentes están cerradas**, comprobado con la regla del proyecto.
+- [x] **Arreglado un fallo de las lentes que este tema destapó, y que no daba ningún error.**
+      `refutar_exactitud.py` y `refutar_modo.py` indexaban la fuente **por número de artículo**, con
+      un diccionario que sobrescribe. El **Convenio de Estambul no es una ley: es un tratado con
+      anexos, y cada anexo numera desde 1** —hay **quince «Artículo 1»**—, así que sólo sobrevivía
+      el último y **todo lo demás se contrastaba contra el artículo equivocado, en silencio**. Es
+      el fallo del apartado 10, y la misma trampa que `herramientas/doue.py` ya evitaba con un aviso
+      de números repetidos **que a las lentes se les había olvidado poner**. Ahora **guardan todas
+      las versiones y las comprueban juntas**, y **avisan por escrito** de que la atribución por
+      número no es fiable en esa fuente. Las no literales del tema 14 bajaron de **34 a 25**: nueve
+      eran falsos positivos.
+- [x] **Comprobado que el arreglo no mueve ninguna cifra anterior**: se revisaron todas las fuentes
+      volcadas y **sólo el Convenio de Estambul repite números de artículo**. Ningún tema anterior
+      lo usaba con las lentes por artículo.
+- [x] **Una fuente de primer nivel que decía lo contrario, y cómo se resolvió.** La relación de
+      **estados parte** que el BOE publicó con el Convenio de Estambul —**de 1997**— **no incluye a
+      Irán** e incluye a **Ghana como firmante sin ratificar**, justo al revés de la respuesta
+      oficial. No era un error del tribunal: era **una lista caducada**. La lista viva la lleva la
+      **Cámara de Comercio**, y en su documento fechado el **20/08/2026** están los **82
+      territorios**, con **Irán** y sin los otros tres. **Regla nueva: cuando una pregunta depende
+      de una lista que cambia, el tratado no es la fuente; la fuente es el registro vivo, y se cita
+      con su fecha.**
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -520,6 +548,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 7 · Equipos humanos | sí | sí | sí | sí | sí | sí, limpia (1 tensión con el convenio declarada) | 6 de 6 enteras |
 | Producción 8 · Formatos y soportes | sí | sí | sí | sí | sí | sí, limpia (9 huérfanas, todas metadatos o negaciones) | 6 de 6 enteras |
 | Producción 12 · El estudio | sí | sí | sí | sí | sí | sí, limpia (2 huérfanas, metadatos) | 6 de 6 enteras |
+| Producción 14 · Documentación internacional | sí | sí | sí | sí | sí | sí, limpia (0 huérfanas; lentes arregladas) | 6 de 6 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de
