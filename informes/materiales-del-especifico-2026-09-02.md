@@ -206,12 +206,24 @@ De las **17 preguntas** del tema, **7 tienen norma o recomendación detrás** y 
 otras **10 se apoyan en la plantilla oficial y en el uso profesional**, marcado una
 a una. Es exactamente la proporción que este informe anticipaba.
 
+## Segunda actualización del mismo día: el tema 9, escrito
+
+**Cerrado con 3.970 palabras**, esquema e informes. Lo que este informe anticipaba
+se cumplió al pie de la letra: de las **20 preguntas**, **4 tienen norma detrás**
+—**RD 2032/2009** para el lumen, **ITC-BT-24** del RD 842/2002 para la toma de
+tierra, **cuadro 1 de la UIT-R BT.601-7** para el complementario del magenta, y
+física demostrable para la transmisión de la luz— y **16 se apoyan en la plantilla
+oficial**. El tema **lo dice en su portada** en lugar de aparentar uniformidad.
+
+**Las cuatro fichas de fabricante siguen sin traerse**, y ya no se van a esperar:
+las respuestas se recogen con el nivel marcado y con el aviso de que **caducan** si
+la próxima convocatoria cambia de proveedor.
+
 ## Lo siguiente
 
-1. **Escribir el tema 9**, el más pesado —20 preguntas—, aceptando que dos de sus
-   tres bloques irán al cuarto y quinto nivel de la jerarquía, dicho en el propio
-   tema. Tiene ya en casa el **RD 2032/2009** para las unidades de luz y el **RD
-   842/2002** para la toma de tierra de los practicables.
+1. **Escribir los trece temas que quedan**, por peso de examen: **11** (transmisión
+   de señal, 10), **13** (exteriores, 7), **1**, **3**, **7**, **8**, **12**, **14**
+   y **15** (6 cada uno), **6** (4), **5** y **16** (3) y **4** (2).
 2. **Tirar del hilo del BOE para el tema 15** antes de resignarse: Ley 46/1983,
    Ley 10/1998 y Ley 7/2010 pueden sostener FORTA y UTECA.
 3. Probar **ETSI** para el DVB y las **fichas de fabricante** restantes una a una,

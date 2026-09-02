@@ -229,6 +229,31 @@ en Documentación y en Producción (Asistencia).
 - [x] **Quitadas del tema 10 dos cifras que no tenían fuente** —las frecuencias de muestreo de
       audio de estudio—: eran correctas y habrían pasado desapercibidas, pero **no estaban
       comprobadas** y ninguna pregunta las pedía. Apartado 1 del manual aplicado tal cual.
+- [x] **Tema 9 del específico de Producción (Asistencia)** —escenografía e iluminación, nuevas
+      tendencias— **cerrado**: 3.970 palabras, con esquema de repaso. Es **el tema más preguntado
+      de todo el bloque específico** —**20 de las 123**, una de cada seis— y **el peor servido de
+      fuentes**: sólo **cuatro preguntas tienen norma detrás** —el **RD 2032/2009** para el lumen,
+      la **ITC-BT-24** del Reglamento electrotécnico para baja tensión para la toma de tierra del
+      practicable, el **cuadro 1 de la UIT-R BT.601-7** para el complementario del magenta y la
+      física para la transmisión de la luz—. **Las dieciséis restantes se apoyan en la plantilla
+      oficial y el uso profesional, y el tema lo marca una a una y lo dice en su portada.** Las
+      veinte se contestan con el tema delante (`informes/cobertura-produccion-tema-09.md`).
+- [x] **Declarado el punto más débil de todo el temario**: **cuatro respuestas dependen de nombres
+      comerciales** —Astera Titan Tube, Mo-sys, Star Tracker y ORAD— **cuyas fichas de fabricante
+      no se han podido consultar**, y tres de ellas **no se pueden razonar**: los distractores del
+      *Star Tracker* están construidos sobre el mismo patrón. Si la próxima convocatoria cambia de
+      proveedor, esas respuestas caducan, y el tema lo advierte.
+- [x] **Señalado un enunciado invertido del examen** (77 · 78): pide la tecnología de «superponer
+      una imagen real sobre el entorno virtual» cuando la realidad aumentada superpone **lo virtual
+      sobre lo real**. El tema contesta lo que el tribunal corrige —realidad aumentada— **y avisa
+      del error**, porque quien razone bien se bloquea ahí.
+- [x] **Un dato sin fuente colado en una corrección de estilo, cazado a tiempo.** Al glosar la
+      sigla ORAD se escribió «hoy integrado en Avid», que **no sale de ninguna fuente leída**: un
+      dato de memoria metido en un arreglo de forma, que es donde menos se mira. Lección:
+      **una corrección de forma introduce datos sin fuente igual que una redacción nueva.**
+- [x] **Buscados y eliminados los homóglifos.** Una **«а» cirílica** se había colado en la palabra
+      «visera» del tema 9. No la marca ninguna lente, el texto se ve idéntico y rompe cualquier
+      búsqueda. Comprobación que conviene repetir en cada tema nuevo.
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -341,6 +366,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | Producción 2 · Propiedad intelectual | sí | sí | sí | sí | sí | sí, 13 falsos positivos declarados | 10 de 10 enteras |
 | Producción 17 · Protección de datos | sí | sí | sí | sí | sí | sí, 6 falsos positivos declarados | 5 de 5 enteras |
 | Producción 10 · Imagen y sonido | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 17 de 17 enteras |
+| Producción 9 · Escenografía e iluminación | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 20 de 20 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

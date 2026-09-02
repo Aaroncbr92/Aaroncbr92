@@ -10,7 +10,7 @@
 | **Identificador** | `UIT-R BT.601-7` · `UIT-R BT.2100-1` · `BOE-A-2010-927` · `BOE-A-2007-18400` |
 | **Redacción que se estudia** | Las **recomendaciones UIT-R en la edición que cita el examen** —BT.601-7 de 03/2011 y BT.2100-1 de 06/2017—, y los **reales decretos en su texto vigente al 21/12/2022** |
 | **Jerarquía de fuentes** | **Cinco niveles declarados**, del BOE a la plantilla oficial. El tema marca el nivel de cada afirmación, y **siete de las diecisiete preguntas tienen norma detrás** |
-| **Extensión** | **5.228 palabras** |
+| **Extensión** | **5.260 palabras** |
 
 <!-- /portada -->
 
@@ -108,7 +108,9 @@ recordar que el teleobjetivo «recorta» el fondo y lo funde**.
 
 ### 1.2 Las cualidades de la luz que intervienen en la captación
 
-Cuatro comportamientos de la luz al encontrarse con un cuerpo, que conviene no confundir:
+Cuatro comportamientos de la luz al encontrarse con un cuerpo, que conviene no confundir. **La
+pregunta que el examen hace sobre ellos se cuenta en el tema 9**, donde vive la iluminación; aquí
+se recogen porque sin ellos no se entiende qué llega al objetivo:
 
 - **Reflexión**: la luz **rebota** en la superficie y vuelve al mismo medio.
 - **Absorción**: la superficie **retiene** parte de la energía luminosa, y de ahí que un cuerpo se
@@ -504,7 +506,7 @@ iluminación—. Las diecisiete se contestan con el tema delante:
 | Materia | Dato preguntado | Nivel de la fuente |
 |---|---|---|
 | Óptica | A **mayor distancia focal, menor profundidad de campo** | Física |
-| Luz | La luz que **atraviesa** una superficie no opaca: **transmisión** | Física |
+| Sonido | **N-1**: el programa **menos la propia aportación** del reportero | Plantilla oficial |
 | Vídeo | **Luminancia** es **la señal en blanco y negro** | UIT-R BT.601-7 |
 | Vídeo | **4:2:2**: por cada cuatro muestras de luminancia, **dos de diferencia de color rojo y dos de azul** | UIT-R BT.601-7 |
 | Vídeo | **BT.2100-1**: el muestreo reticular es **ortogonal** | UIT-R BT.2100-1 |
