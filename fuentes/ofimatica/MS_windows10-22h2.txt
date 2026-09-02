@@ -1,0 +1,80 @@
+Windows 10 Home y Pro - Microsoft Lifecycle | Microsoft Learn 
+ Leer en inglés 
+ Agregar 
+ Añadir a Planes 
+ Imprimir 
+ Windows 10 Home y Pro
+ Windows 10 Home y Pro se rige por la Directiva de ciclo de vida moderno .
+ Esto se aplica a las siguientes ediciones: Home, Pro, Pro Education, Pro for Workstations
+ Importante
+ Windows 10 llegará al fin de soporte el 14 de octubre de 2025. La versión actual, 22H2, será la versión final de Windows 10 y todas las ediciones seguirán siendo compatibles con las versiones de actualización de seguridad mensuales hasta esa fecha. Las versiones de LTSC existentes seguirán recibiendo actualizaciones más allá de esa fecha en función de sus ciclos de vida específicos.
+ Las fechas de soporte técnico se muestran en la zona horaria del Pacífico: Redmond, Washington (Estados Unidos).
+ Fechas de soporte técnico
+ Lista
+ Fecha de inicio
+ Fecha de retirada
+ Windows 10 Home y Pro
+ 7/29/2015 8:00:00 AM 
+ 10/15/2025 6:59:59 AM 
+ Versiones
+ Versión
+ Fecha de inicio
+ Fecha de finalización
+ Version 22H2
+ 10/18/2022 8:00:00 AM 
+ 10/15/2025 6:59:59 AM 
+ Version 21H2
+ 11/16/2021 8:00:00 AM 
+ 6/14/2023 6:59:59 AM 
+ Version 21H1
+ 5/18/2021 8:00:00 AM 
+ 12/14/2022 6:59:59 AM 
+ Version 20H2
+ 10/20/2020 8:00:00 AM 
+ 5/11/2022 6:59:59 AM 
+ Version 2004
+ 5/27/2020 8:00:00 AM 
+ 12/15/2021 6:59:59 AM 
+ Version 1909
+ 11/12/2019 8:00:00 AM 
+ 5/12/2021 6:59:59 AM 
+ Version 1903
+ 5/21/2019 8:00:00 AM 
+ 12/9/2020 6:59:59 AM 
+ Version 1809
+ 11/13/2018 8:00:00 AM 
+ 11/11/2020 6:59:59 AM 
+ Version 1803
+ 4/30/2018 8:00:00 AM 
+ 11/13/2019 6:59:59 AM 
+ Version 1709
+ 10/17/2017 8:00:00 AM 
+ 4/10/2019 6:59:59 AM 
+ Version 1703
+ 4/11/2017 8:00:00 AM 
+ 10/10/2018 6:59:59 AM 
+ Version 1607
+ 8/2/2016 8:00:00 AM 
+ 4/11/2018 6:59:59 AM 
+ Version 1511
+ 11/10/2015 8:00:00 AM 
+ 10/11/2017 6:59:59 AM 
+ Version 1507
+ 7/29/2015 8:00:00 AM 
+ 5/10/2017 6:59:59 AM 
+ Vínculos
+ Windows as a Service (WaaS) 
+ Preguntas frecuentes sobre el ciclo de vida: productos de Windows 
+ Información de producto 
+ Windows 10 Enterprise y Education 
+ Windows 10 IoT Enterprise 
+ Guía de migración 
+ Nota:
+ Pro for Workstation fue publicado por primera vez con la versión 1709.
+ Nota:
+ A menos que se aplacen, las actualizaciones de características subsiguientes de Windows 10 se pueden instalar antes de la fecha de finalización de soporte estándar indicada.
+ Ediciones
+ Home
+ Pro
+ Pro Education
+ Pro for Workstations

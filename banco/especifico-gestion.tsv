@@ -1,0 +1,101 @@
+# Reparto a mano de las preguntas del bloque específico de GESTIÓN.
+#
+# Un cuadernillo: `15_preguntas_gestion`, 108 preguntas —90 principales y 18 de
+# reserva—, el examen más largo del proyecto. 81 son del específico y 27 del
+# bloque común.
+#
+# **Dos cuadernillos con «gestion» en el nombre no son de esta ocupación** y van
+# descartados enteros abajo, con su motivo: los de Gestión Abogado/a, que es otra
+# ocupación tipo con su propio Anexo 2 —su bloque específico pregunta por
+# propiedad intelectual, RGPD y Ley General de Comunicación Audiovisual, que no
+# están en el temario de Gestión—.
+#
+# **Cinco de los treinta puntos del programa no tienen ni una pregunta**: el 1
+# (Estatuto de los Trabajadores como norma entera, que sí sostiene los puntos 4 a
+# 8), el 2 (delimitación del trabajo por cuenta ajena), el 10 (el Presupuesto),
+# el 23 (retribución de los recursos humanos) y el 30 (Excel avanzado). El
+# reparto no inventa un banco donde no lo hay.
+origen	numero	tema	motivo
+15_preguntas_gestion	87	03	Sucesión de convenios: qué deroga el posterior
+15_preguntas_gestion	102	03	Entrada en vigor de los convenios: artículo 90 del ET
+15_preguntas_gestion	5	04	Contratos de duración determinada tras el RDL 32/2021
+15_preguntas_gestion	14	04	Extinción del contrato y derecho a indemnización
+15_preguntas_gestion	22	04	Causas del contrato de duración determinada
+15_preguntas_gestion	23	04	Duración máxima del contrato eventual por circunstancias de la producción
+15_preguntas_gestion	27	04	Despido disciplinario: cuál NO es causa
+15_preguntas_gestion	30	04	Pactos de horas complementarias en el contrato a tiempo parcial
+15_preguntas_gestion	31	04	Período de prueba de quien ya tuvo contrato en otra ocupación tipo
+15_preguntas_gestion	65	04	Norma básica que consultar para un despido
+15_preguntas_gestion	76	04	Contrato de sustitución por permiso de lactancia
+15_preguntas_gestion	25	05	Modificación sustancial sin derecho a rescindir con indemnización
+15_preguntas_gestion	64	05	Qué afecta a las condiciones sustanciales de trabajo
+15_preguntas_gestion	75	05	Movilidad funcional fuera del grupo profesional: artículo 39.2
+15_preguntas_gestion	93	05	A quién se notifica la modificación sustancial individual
+15_preguntas_gestion	15	06	Descanso mínimo entre jornadas
+15_preguntas_gestion	72	06	Jornada máxima ordinaria: artículo 34
+15_preguntas_gestion	7	07	Parte inembargable del salario mínimo
+15_preguntas_gestion	26	07	Quién paga las cargas fiscales y de Seguridad Social del trabajador
+15_preguntas_gestion	41	07	Qué NO tiene en cuenta el Gobierno al fijar el SMI: artículo 27
+15_preguntas_gestion	57	07	Plazo del derecho de preferencia del crédito salarial
+15_preguntas_gestion	61	07	Cuantía embargable de un salario de 1.800 € por catorce pagas
+15_preguntas_gestion	66	07	Qué se considera salario
+15_preguntas_gestion	83	08	Prescripción de las faltas muy graves: enunciado y opciones no casan
+15_preguntas_gestion	6	09	Falta muy grave del artículo 58 de la LO 7/2021, que el temario no cita
+15_preguntas_gestion	40	09	Edad del consentimiento del menor
+15_preguntas_gestion	59	09	Videovigilancia: plazo de supresión del artículo 22
+15_preguntas_gestion	89	09	Prescripción de las infracciones graves de la LO 7/2021, que el temario no cita
+15_preguntas_gestion	98	09	Ministerio por el que la AEPD se relaciona con el Gobierno
+15_preguntas_gestion	100	09	Qué significa RGPD
+15_preguntas_gestion	44	11	Provisión por una reclamación judicial al cierre del ejercicio
+15_preguntas_gestion	54	11	Principio de devengo
+15_preguntas_gestion	79	11	Naturaleza de las provisiones en el PGC
+15_preguntas_gestion	49	12	Libros de contabilidad más importantes
+15_preguntas_gestion	101	12	Qué documento NO integra las cuentas anuales
+15_preguntas_gestion	19	13	En qué parte del balance figuran las existencias
+15_preguntas_gestion	80	13	Dónde figuran las fuentes de financiación
+15_preguntas_gestion	95	13	Criterio de ordenación de las masas patrimoniales de activo
+15_preguntas_gestion	106	13	Cómo se ordenan activo y pasivo en el balance
+15_preguntas_gestion	73	14	Pérdida latente en una cuenta corriente en libras
+15_preguntas_gestion	97	14	Qué recoge la cuenta «Gastos anticipados»
+15_preguntas_gestion	1	15	Qué es una amortización
+15_preguntas_gestion	37	17	Tipos de centro de coste
+15_preguntas_gestion	39	17	Qué aporta la contabilidad de costes a la financiera
+15_preguntas_gestion	55	17	Los tres elementos del coste de producción
+15_preguntas_gestion	105	17	Para qué sirven los criterios de reparto
+15_preguntas_gestion	13	18	Confirming: instrumento de pago a proveedores
+15_preguntas_gestion	46	18	Función principal de la tesorería
+15_preguntas_gestion	24	19	Fondo de maniobra y estabilidad financiera
+15_preguntas_gestion	32	19	Qué indicador es el EBITDA
+15_preguntas_gestion	104	19	Cálculo de la rentabilidad económica
+15_preguntas_gestion	107	19	Definición del fondo de maniobra
+15_preguntas_gestion	3	20	Clases de prorrata del IVA
+15_preguntas_gestion	84	20	Territorio de España donde no se aplica el IVA
+15_preguntas_gestion	103	20	Qué recoge la cuenta «Hacienda Pública, IVA soportado»
+15_preguntas_gestion	29	21	Qué NO es función del control de gestión
+15_preguntas_gestion	16	22	Base reguladora de la incapacidad permanente por enfermedad común
+15_preguntas_gestion	9	24	Qué computa en la base de cotización del recibo salarial
+15_preguntas_gestion	11	24	Cuál NO es una percepción salarial
+15_preguntas_gestion	17	24	Periodicidad de los certificados de retenciones
+15_preguntas_gestion	34	24	Qué no aparece en los devengos de una nómina
+15_preguntas_gestion	35	24	Qué complemento es no salarial
+15_preguntas_gestion	42	24	Tipo de cotización por desempleo del trabajador indefinido
+15_preguntas_gestion	74	24	Plazo para firmar el finiquito
+15_preguntas_gestion	8	25	Características de un buen liderazgo
+15_preguntas_gestion	18	25	La tecnoestructura en Mintzberg
+15_preguntas_gestion	33	25	Las cinco partes de la organización de Mintzberg
+15_preguntas_gestion	56	25	Factor higiénico en Herzberg
+15_preguntas_gestion	69	25	Jerarquía de la pirámide de Maslow
+15_preguntas_gestion	91	25	Las tres necesidades de McClelland
+15_preguntas_gestion	63	26	Qué es el modelo 360º
+15_preguntas_gestion	67	26	Qué NO sirve para evaluar el desempeño
+15_preguntas_gestion	50	27	Qué hace el equipo de producción en televisión
+15_preguntas_gestion	71	27	Característica típica de un servicio VoD
+15_preguntas_gestion	92	27	Fase en la que se elabora el presupuesto
+15_preguntas_gestion	10	28	Rédito trimestral equivalente en capitalización simple
+15_preguntas_gestion	48	28	Cómo se calcula el VAN
+15_preguntas_gestion	82	28	Fórmula del descuento comercial
+15_preguntas_gestion	99	28	Años para triplicar un capital al 2,5 % simple semestral
+15_preguntas_gestion	12	29	Varianza y desviación típica de tres rendimientos
+15_preguntas_gestion	38	29	Qué describe mejor la mediana
+17_preguntas_gestion_abogado_a	*	fuera	Gestión Abogado/a es otra ocupación tipo, con su propio Anexo 2: su específico pregunta por propiedad intelectual, RGPD y Ley 13/2022
+19_preguntas_gestion_abogado_b	*	fuera	Segundo llamamiento del mismo examen de Gestión Abogado/a

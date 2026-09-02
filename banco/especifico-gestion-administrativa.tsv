@@ -1,0 +1,96 @@
+# Reparto a mano de las preguntas del bloque específico de GESTIÓN ADMINISTRATIVA.
+#
+# Un cuadernillo: `23_preguntas_gea`, 96 preguntas, prueba del 26 de enero de
+# 2025 —es la más tardía de todo el proyecto; las otras cuatro ocupaciones se
+# examinaron en octubre y noviembre de 2024—.
+#
+# **Su plantilla estaba sin leer.** El PDF lleva la fuente incrustada sin tabla
+# de caracteres, como las tres que ya arregló `herramientas/plantilla_ocr.py`;
+# pasada esa herramienta, salen las 96 respuestas. Es la cuarta plantilla que
+# recupera y la primera de una ocupación nueva.
+#
+# 75 preguntas son del específico y 21 del bloque común, que van a su banco por
+# palabras clave y no se repiten aquí.
+#
+# El reparto no es discutible en casi ningún caso, y por una razón que conviene
+# dejar escrita: **este temario separa lo que otros mezclan**. El contrato de
+# trabajo es el punto 2 y la nómina el 4, así que una pregunta sobre el finiquito
+# va al 4 aunque hable de extinción, y una sobre el preaviso al 2 aunque hable de
+# dinero. La regla que se ha seguido: **manda el objeto de la pregunta, no la
+# materia de la que cuelga**.
+origen	numero	tema	motivo
+23_preguntas_gea	24	01	Firma electrónica reconocida: autenticidad e integridad del archivo digital
+23_preguntas_gea	28	01	Qué caracteriza a un documento público
+23_preguntas_gea	41	01	Sistema de gestión documental
+23_preguntas_gea	56	01	Criterios de ordenación de archivos
+23_preguntas_gea	62	01	Partes del documento administrativo y su orden
+23_preguntas_gea	90	01	Forma de los actos administrativos
+23_preguntas_gea	95	01	Clases de registro
+23_preguntas_gea	21	02	Indemnización del despido objetivo por causas económicas
+23_preguntas_gea	25	02	Umbrales del despido colectivo
+23_preguntas_gea	26	02	Preaviso en la extinción por voluntad del trabajador
+23_preguntas_gea	30	02	Definición del contrato formativo
+23_preguntas_gea	31	02	Contratos temporales: características
+23_preguntas_gea	49	02	Causas de suspensión del contrato: cuál NO lo es
+23_preguntas_gea	60	02	Contenido obligatorio del contrato por escrito
+23_preguntas_gea	94	02	Modalidad para jóvenes desempleados menores de 30 años
+23_preguntas_gea	1	03	A quién corresponde la obligación de cotizar
+23_preguntas_gea	42	03	Plazos de las altas y bajas en la Seguridad Social
+23_preguntas_gea	44	03	Obligaciones de cotización y prestaciones cubiertas
+23_preguntas_gea	46	03	Qué es la base de cotización
+23_preguntas_gea	52	03	Cálculo de la prestación por incapacidad
+23_preguntas_gea	57	03	Falta de alta: alta de oficio
+23_preguntas_gea	70	03	Qué es una contingencia profesional
+23_preguntas_gea	82	03	Qué base se usa para calcular las cotizaciones
+23_preguntas_gea	85	03	Base de cotización: definición y determinación
+23_preguntas_gea	5	04	Qué significa devengo en una nómina
+23_preguntas_gea	13	04	De qué depende el porcentaje de retención del IRPF
+23_preguntas_gea	18	04	Devengo extrasalarial: las dietas por desplazamiento
+23_preguntas_gea	22	04	Remuneraciones extrasalariales ante la cotización y el IRPF
+23_preguntas_gea	51	04	Tope de las percepciones salariales en especie
+23_preguntas_gea	63	04	Qué concepto de la nómina es extrasalarial
+23_preguntas_gea	72	04	Recibos de finiquito: características
+23_preguntas_gea	77	04	Qué se considera salario
+23_preguntas_gea	11	05	Grupo 6 del cuadro de cuentas
+23_preguntas_gea	17	05	Qué comprenden las cuentas anuales
+23_preguntas_gea	20	05	Cuántos grupos tiene el cuadro de cuentas
+23_preguntas_gea	29	05	Marco conceptual, artículo 4: elementos de las cuentas anuales
+23_preguntas_gea	32	05	Qué documento NO forma parte de las cuentas anuales
+23_preguntas_gea	35	05	Definición del valor en libros
+23_preguntas_gea	39	05	De qué se compone el balance de situación
+23_preguntas_gea	59	05	Cuándo se puede formular balance y memoria abreviados
+23_preguntas_gea	66	05	Principio de devengo
+23_preguntas_gea	68	05	Cuentas anuales no obligatorias en el modelo abreviado
+23_preguntas_gea	75	05	Qué contiene el cuadro de cuentas del PGC
+23_preguntas_gea	84	05	Quinta parte, grupo 1: financiación básica
+23_preguntas_gea	87	05	Qué es un asiento contable
+23_preguntas_gea	93	05	Tercera parte: normas de elaboración de las cuentas anuales
+23_preguntas_gea	96	05	Dónde figuran las deudas con terceros
+23_preguntas_gea	2	06	Capitalización compuesta: 100 € al 10 % tres años
+23_preguntas_gea	9	06	Capitalización simple: despejar el capital inicial
+23_preguntas_gea	12	06	Qué son las rentas variables
+23_preguntas_gea	23	06	Capitalización simple: 5.000 € al 6 % tres años
+23_preguntas_gea	37	06	Capitalización simple: 2.400 € al 10 % diez años
+23_preguntas_gea	38	06	Qué es la amortización de un préstamo
+23_preguntas_gea	43	06	Cuota de amortización constante del año 2
+23_preguntas_gea	47	06	Qué pasa al final en la amortización americana
+23_preguntas_gea	69	06	Cuál es una operación financiera compuesta
+23_preguntas_gea	86	06	Qué es una renta constante
+23_preguntas_gea	14	07	Qué caracteriza a una muestra aleatoria
+23_preguntas_gea	16	07	Variable cuantitativa discreta
+23_preguntas_gea	36	07	Probabilidad del suceso seguro
+23_preguntas_gea	40	07	Mediana de cuatro edades
+23_preguntas_gea	45	07	La moda de trece calificaciones
+23_preguntas_gea	55	07	El rango de cuatro valores
+23_preguntas_gea	65	07	Afirmación correcta sobre la probabilidad
+23_preguntas_gea	71	07	Variables estadísticas: afirmación correcta
+23_preguntas_gea	78	07	Cuál es una medida de tendencia central
+23_preguntas_gea	79	07	Mediana de diez datos
+23_preguntas_gea	83	07	Mediana de ocho datos
+23_preguntas_gea	54	08	Pharming: sitio web falsificado
+23_preguntas_gea	58	08	Qué es una brecha de seguridad
+23_preguntas_gea	67	09	Atajo de teclado para pegar
+23_preguntas_gea	34	10	Qué hace falta para conectar una red doméstica a internet
+23_preguntas_gea	15	11	Outlook 2019: atajo de Reenviar
+23_preguntas_gea	80	11	Word: estructura jerárquica con listas y viñetas
+23_preguntas_gea	76	12	Teams: permisos de un canal privado

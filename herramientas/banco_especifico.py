@@ -39,7 +39,7 @@ SALIDA = "banco"
 # y el acta y el banco, `informacion`. Sin esta tabla la ocupación no casa con
 # ningún cuadernillo y el script no falla: reparte cero preguntas y lo dice sin
 # alarma, que es la forma más silenciosa de dar un bloque por hecho
-MARCA = {"informacion": "iyc"}
+MARCA = {"informacion": "iyc", "gestion-administrativa": "gea"}
 
 
 def reparto(ocupacion):
@@ -75,6 +75,17 @@ def cuadernillos(ocupacion):
             continue
         if ocupacion not in f:
             continue
+        # un cuadernillo con la fuente incrustada sin tabla de caracteres tiene
+        # **dos ficheros**: el `.txt` ilegible —«(cid:12)(cid:13)…»— y la
+        # transcripción por OCR al lado. Leer los dos cuenta el mismo examen dos
+        # veces, y lo hace **sin dar ningún error**: el ilegible aporta unas
+        # cuantas «preguntas» que no casan con ninguna fila del acta y engordan
+        # la cifra de pendientes. Le pasó a Gestión, que daba 63 sin clasificar
+        # sobre un cuadernillo de 108. Vale la misma regla que en `banco.py`:
+        # donde hay OCR, el original no se lee
+        if not f.endswith(".ocr.txt") and os.path.exists(
+                os.path.join(DIR, f[:-4] + ".ocr.txt")):
+            continue
         base = f[:-4]
         # la plantilla es el fichero siguiente por número: 77 -> 79 aquí no vale,
         # así que se busca por el sufijo del nombre, que es el que las empareja
@@ -96,8 +107,12 @@ def main(ocupacion, titulos):
     portema = defaultdict(list)
     usadas, sinfila, descartados = set(), [], []
     for cuad, plant in cuadernillos(ocupacion):
-        if os.path.basename(cuad)[:-4] in enteros:
-            descartados.append(os.path.basename(cuad)[:-4])
+        # el acta nombra el cuadernillo, no el fichero: `17_preguntas_...` y no
+        # `17_preguntas_....ocr`. Sin quitar el sufijo, un cuadernillo leído por
+        # OCR no casaba con su fila de descarte y **volvía a entrar entero**
+        nombre = re.sub(r"\.ocr$", "", os.path.basename(cuad)[:-4])
+        if nombre in enteros:
+            descartados.append(nombre)
             continue
         respuestas = plantilla(plant) if plant else {}
         origen = re.sub(r"\.ocr$", "", os.path.basename(cuad)[:-4])
@@ -192,6 +207,51 @@ TITULOS = {
     "05": "Documentación · Tema 5 · Centros de documentación en medios de "
           "comunicación audiovisual",
     "06": "Documentación · Tema 6 · Cultura y actualidad nacional e internacional",
+ },
+ "gestion": {
+    "03": "Gestión · Tema 3 · Los convenios colectivos de trabajo",
+    "04": "Gestión · Tema 4 · El contrato de trabajo",
+    "05": "Gestión · Tema 5 · Modificación de las condiciones del contrato",
+    "06": "Gestión · Tema 6 · Tiempo de trabajo",
+    "07": "Gestión · Tema 7 · El salario",
+    "08": "Gestión · Tema 8 · Derechos y deberes de empresarios y trabajadores",
+    "09": "Gestión · Tema 9 · Protección de datos personales y garantía de los "
+          "derechos digitales",
+    "11": "Gestión · Tema 11 · El modelo contable español y el Plan General de "
+          "Contabilidad",
+    "12": "Gestión · Tema 12 · El proceso contable y las cuentas anuales",
+    "13": "Gestión · Tema 13 · El patrimonio y el balance de situación",
+    "14": "Gestión · Tema 14 · Gastos e ingresos, tesorería, existencias y "
+          "acreedores",
+    "15": "Gestión · Tema 15 · El inmovilizado material y su amortización",
+    "17": "Gestión · Tema 17 · Los costes de producción y la contabilidad de costes",
+    "18": "Gestión · Tema 18 · La función de tesorería en la empresa",
+    "19": "Gestión · Tema 19 · La información financiera de las empresas",
+    "20": "Gestión · Tema 20 · Impuesto sobre el Valor Añadido",
+    "21": "Gestión · Tema 21 · Planificación estratégica y control de gestión",
+    "22": "Gestión · Tema 22 · Seguridad Social",
+    "24": "Gestión · Tema 24 · Nómina",
+    "25": "Gestión · Tema 25 · La empresa como organización",
+    "26": "Gestión · Tema 26 · La gestión por competencias",
+    "27": "Gestión · Tema 27 · El proceso de producción en televisión",
+    "28": "Gestión · Tema 28 · Matemática financiera",
+    "29": "Gestión · Tema 29 · Estadística descriptiva básica",
+ },
+ "gestion-administrativa": {
+    "01": "Gestión Administrativa · Tema 1 · Gestión administrativa: documento, "
+          "acto administrativo, registro y archivo",
+    "02": "Gestión Administrativa · Tema 2 · El contrato de trabajo",
+    "03": "Gestión Administrativa · Tema 3 · Seguridad Social",
+    "04": "Gestión Administrativa · Tema 4 · Nóminas",
+    "05": "Gestión Administrativa · Tema 5 · Contabilidad y Plan General de "
+          "Contabilidad",
+    "06": "Gestión Administrativa · Tema 6 · Matemática financiera básica",
+    "07": "Gestión Administrativa · Tema 7 · Probabilidad y estadística",
+    "08": "Gestión Administrativa · Tema 8 · Ofimática y proceso de la información",
+    "09": "Gestión Administrativa · Tema 9 · El entorno Microsoft Windows 10",
+    "10": "Gestión Administrativa · Tema 10 · La red Internet",
+    "11": "Gestión Administrativa · Tema 11 · Herramientas Microsoft Office 2019",
+    "12": "Gestión Administrativa · Tema 12 · Microsoft Teams",
  },
  "informacion": {
     "01": "Información y Contenidos · Tema 1 · Actualidad nacional e "

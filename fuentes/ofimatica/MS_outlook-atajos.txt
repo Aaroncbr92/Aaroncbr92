@@ -1,0 +1,1994 @@
+Métodos abreviados de teclado para Outlook | Microsoft Support 
+ Saltar al contenido principal 
+ Iniciar sesión con Microsoft
+ Iniciar sesión o crear una cuenta
+ Hola:
+ Seleccione una cuenta diferente.
+ Tiene varias cuentas
+ Elija la cuenta con la que desea iniciar sesión.
+ Métodos abreviados de teclado para Outlook
+ Se aplica a Outlook para Microsoft 365 Outlook 2024 Outlook 2021 Outlook 2019 Outlook 2016 Outlook.com Nuevo Outlook para Windows Outlook para iOS Outlook en la web para Exchange Server 2016 Outlook en la web para Exchange Server 2019 Outlook Web App 
+ Para muchos usuarios, usar un teclado externo con métodos abreviados de teclado para Outlook permite trabajar con mayor eficiencia. Los métodos abreviados de teclado pueden resultar más fáciles que una pantalla táctil y son una alternativa esencial al uso del ratón.
+ Importante
+ Los pasos pueden ser diferentes entre Outlook nuevo y clásico para Windows. Para determinar qué versión de Outlook está usando, busque Configuración en la cinta de opciones. Si no hay ninguna opción de Configuración , siga los pasos de la pestaña Outlook clásico . Si aparece la opción Configuración , seleccione la pestaña Nuevo Outlook .
+ Nuevo Outlook 
+ Outlook clásico 
+ Outlook en la web 
+ Nota
+ Los métodos abreviados de teclado de este tema hacen referencia a la distribución del teclado de España. Es posible que las teclas de otras distribuciones no se correspondan exactamente con las teclas de un teclado de España.
+ Un signo más (+) en un método abreviado de teclado significa que necesita presionar varias teclas al mismo tiempo.
+ Un signo de coma (,) en un método abreviado de teclado significa que necesita presionar varias teclas en orden.
+ En este artículo se describen los métodos abreviados de teclado en el nuevo Outlook para Windows. Aunque muchos de los métodos abreviados son los mismos que en Outlook clásico, existen algunas diferencias.
+ Recomendación
+ Para encontrar rápidamente un acceso directo en este artículo, presione Ctrl + +F y, después, escriba los términos de búsqueda.
+ Contenido
+ Métodos abreviados de teclado más usados 
+ Editar texto 
+ Dar formato al texto 
+ Métodos abreviados de teclado de correo 
+ Usar el panel Carpeta 
+ Usar el mensaje y la lista de lectura 
+ Usar la lista de mensajes 
+ Usar la lista de lectura 
+ Método abreviado de teclado del calendario 
+ Métodos abreviados de teclado de Contactos (People) 
+ Usar métodos abreviados de teclado para agregar marcas de énfasis y caracteres especiales 
+ Vocales con acentos 
+ Puntuación, consonantes y vocales especiales 
+ Caracteres especiales 
+ Métodos abreviados de teclado más usados
+ Esta tabla enumera los métodos abreviados de teclado que se usan con más frecuencia en el nuevo Outlook
+ Para ello
+ Presione
+ Crear un nuevo mensaje o evento de calendario.
+ Ctrl+N
+ Abrir el mensaje seleccionado en una nueva ventana.
+ Mayús+Entrar
+ Eliminar mensaje o elemento.
+ Suprimir
+ Reenviar mensaje.
+ Ctrl+F
+ Ir a Calendario .
+ Ctrl+2
+ Seleccione la opción Responder a todos .
+ Ctrl+Mayús+R
+ Responder mensaje de correo.
+ Ctrl+D
+ Enviar un mensaje de correo electrónico.
+ Ctrl+Entrar
+ Abrir botones de expansión.
+ Alt+flecha abajo
+ Abrir métodos abreviados de teclado.
+ Signo de interrogación (?)
+ Keytips.
+ Alt
+ Principio de página 
+ Editar texto
+ Los métodos abreviados de teclado de edición de texto en el nuevo Outlook son los mismos que los de otros productos de Microsoft.
+ Para realizar esta acción
+ Presione
+ Copiar la selección en el Portapapeles.
+ Ctrl+C
+ Cortar el texto seleccionado.
+ Ctrl+X
+ Eliminar el texto seleccionado o los caracteres situados a la izquierda del cursor.
+ Retroceso
+ Eliminar la palabra a la izquierda del cursor, pero no el espacio antes de dicha palabra
+ Ctrl+Retroceso
+ Insertar un hipervínculo.
+ Ctrl+Alt+K
+ Pegar el contenido del Portapapeles en la ubicación actual.
+ Ctrl+V
+ Deshacer la acción más reciente
+ Ctrl+Y
+ Repetir la acción más reciente
+ Ctrl+Z
+ Principio de página 
+ Dar formato al texto
+ Los métodos abreviados de teclado de formato de texto en el nuevo Outlook son los mismos que los de otros productos de Microsoft.
+ Para realizar esta acción
+ Presione
+ Aplicar el formato de negrita.
+ Ctrl+N
+ Aplicar el formato de cursiva.
+ Ctrl+K
+ Subrayar texto.
+ Ctrl+S
+ Volver al principio 
+ Métodos abreviados de teclado de correo en el nuevo Outlook
+ Usar el panel Carpeta
+ Para realizar esta acción
+ Presione
+ Ir al panel Carpeta .
+ Ctrl+Y
+ Salto rápido al nombre de la carpeta
+ Cualquier clave alfanumérica
+ Contraer la sección seleccionada.
+ Flecha izquierda
+ Expandir la sección seleccionada.
+ Flecha derecha
+ Volver al principio 
+ Usar el mensaje y la lista de lectura
+ Los métodos abreviados de teclado para el nuevo Outlook en la tabla siguiente se pueden usar para realizar la misma acción tanto en la lista de mensajes como en la lista de lectura.
+ Para realizar esta acción
+ Presione
+ Eliminar el mensaje seleccionado.
+ Suprimir
+ Marcar la conversación o el mensaje seleccionados como leídos.
+ Ctrl+Q
+ Marcar la conversación o el mensaje seleccionados como no leídos.
+ Ctrl+S
+ Eliminar permanentemente el mensaje o elemento seleccionado.
+ Mayús+Supr
+ Marcar un mensaje o cambiar el estado de un mensaje marcado a completado.
+ Insertar
+ Cancelar una búsqueda.
+ Esc
+ Ir al mensaje siguiente
+ Ctrl+>
+ Ir al mensaje anterior
+ Ctrl+<
+ Volver al principio 
+ Usar la lista de mensajes
+ Los métodos abreviados de teclado para el nuevo Outlook en la tabla siguiente son específicos de la lista de mensajes.
+ Para realizar esta acción
+ Presionar
+ Seleccionar el mensaje actual y el siguiente de la lista. Se usa para seleccionar varios mensajes contiguos.
+ Mayús+Flecha hacia abajo
+ Seleccionar el mensaje actual y el anterior de la lista. Se usa para seleccionar varios mensajes contiguos.
+ Mayús+Flecha hacia arriba
+ Seleccionar el primer mensaje de la carpeta.
+ Inicio o Ctrl+Inicio
+ Principio de página 
+ Usar la lista de lectura
+ Los métodos abreviados de teclado para el nuevo Outlook en la tabla siguiente son específicos de la lista de lectura.
+ Para realizar esta acción
+ Presione
+ Cerrar un mensaje nuevo.
+ Esc
+ Crear un mensaje nuevo.
+ Ctrl+N
+ Reenviar un mensaje seleccionado.
+ Ctrl+F
+ Ir al final de una conversación o un mensaje.
+ Fin
+ Ir al principio de una conversación o un mensaje.
+ Inicio
+ Bajar una página para conversaciones o mensajes de dos o más páginas.
+ Página abajo
+ Subir una página para conversaciones o mensajes de dos o más páginas.
+ Página arriba
+ Responder al mensaje seleccionado.
+ Ctrl+D
+ Responder al remitente y a todos los destinatarios del mensaje seleccionado.
+ Ctrl+Mayús+R
+ Enviar un mensaje.
+ Ctrl+Entrar
+ Principio de página 
+ Calendar métodos abreviados de teclado en el nuevo Outlook
+ Nota
+ Los métodos abreviados de teclado para la Calendar en Teams y Outlook son los mismos. Para ver los métodos abreviados de Teams, vaya a [Métodos abreviados de teclado para Microsoft Teams](.. /teams/keyboard-shortcuts-for-microsoft-teams.md.
+ Si usa Outlook en un equipo Mac, vaya a Métodos abreviados de teclado en Outlook para Mac . 
+ Para realizar esta acción
+ Presionar
+ Abrir la vista calendario.
+ Ctrl+2
+ Crear un elemento de calendario
+ Ctrl+N
+ Abrir el elemento seleccionado
+ Entrar
+ Eliminar el elemento seleccionado
+ Suprimir
+ Cambie la vista para incluir hoy.
+ Sin acceso directo
+ En la vista Día, ir al día anterior. En las vistas Semana y Semana laboral, ir a la semana anterior. En la vista Mes, ir al mes anterior.
+ Días en movimiento: Ctrl+Alt+Tecla de dirección izquierda Mover semanas: Alt+Tecla de dirección abajo Movimiento de meses: Alt+Av Pág
+ En la vista Día, ir al día siguiente. En las vistas Semana y Semana laboral, ir a la semana siguiente. En la vista Mes, ir al mes siguiente.
+ Días en movimiento: Ctrl+Alt+Tecla de dirección derecha Mover semanas: Alt+Tecla de dirección arriba Movimiento de meses: Alt+Re Pág
+ Vaya al panel anterior de la vista calendario.
+ Sin acceso directo
+ Vaya al panel siguiente de la vista calendario.
+ Sin acceso directo
+ Mover el cursor a una región distinta del calendario
+ F6 o Ctrl+Mayús+TAB
+ Ir al evento siguiente o al área siguiente de la vista actual
+ Tecla TAB
+ Ir a un evento o área anterior de la vista actual.
+ Mayús+Tab
+ Ir al siguiente periodo de tiempo.
+ Ctrl + Alt + Flecha derecha
+ Ir al periodo de tiempo anterior.
+ Ctrl + Alt + Flecha izquierda
+ Ir a Hoy
+ Alt+Mayús+Y/Inicio
+ Mover el cursor a una región distinta del calendario
+ Sin acceso directo
+ Cambiar a la vista Día.
+ Ctrl+Alt+1
+ Cambiar a la vista Semana completa.
+ Ctrl+Alt+2/Alt+"-"
+ Cambiar a la vista Mes.
+ Ctrl+Alt+4/Alt+"="
+ Cambiar a la vista Semana laboral.
+ Ctrl+Alt+2
+ Cambiar a la vista de tres días.
+ Alt+3
+ Vista de lista.
+ Sin acceso directo
+ Invitar a los asistentes.
+ CTRL+N (Crear nuevo evento)
+ Principio de página 
+ Métodos abreviados de teclado de Contactos (Personas)
+ La vista People es la libreta de direcciones de Outlook donde se almacenan los contactos personales y donde puede abrir cualquier libreta de direcciones que se haya configurado para su organización. Las vistas Correo , Calendar, Copiloto y People funcionan de forma conjunta para que pueda enviar fácilmente correo y programar citas con las personas más importantes.
+ Para realizar esta acción
+ Presione
+ Vaya a Mail .
+ Ctrl+1
+ Ir a Calendario .
+ Ctrl+2
+ Vaya a Copilot .
+ Ctrl+3
+ Vaya a People .
+ Ctrl+4
+ Crear un contacto o una lista de contactos.
+ Eliminar o Ctrl+D
+ Crear un contacto.
+ Ctrl+N
+ Buscar un contacto.
+ Ctrl+E
+ Descartar contacto.
+ Esc
+ Guardar un contacto o una lista de contactos.
+ Ctrl+G
+ Seleccionar todos los contactos o listas de contactos.
+ Ctrl+E
+ Anular la selección de todos los contactos o listas de contactos.
+ Esc
+ Editar un contacto o una lista de contactos.
+ Mayús+E
+ Bajar en la lista de contactos o en la lista de centros.
+ Flecha hacia abajo
+ Subir en la lista de contactos o en la lista de centros.
+ Flecha hacia arriba
+ Crear una lista de contactos.
+ Ctrl+Q
+ Mostrar la lista de métodos abreviados de teclado People .
+ Mayús+Signo de interrogación (?)
+ Mover el foco a la pestaña Inicio .
+ Alt, H
+ Mover el foco a la pestaña Vista .
+ Alt, V
+ Principio de página  
+ Usar métodos abreviados de teclado para agregar acentos y caracteres especiales para el nuevo Outlook
+ Para agregar acentos o caracteres especiales en el nuevo Outlook, use el teclado numérico del teclado externo con la tecla Bloq Num activada.
+ Mantenga presionado Alt .
+ Escriba el código numérico en el panel numérico y suelte Alt .
+ Principio de página  
+ Vocales con acentos
+ En la tabla siguiente se enumeran las vocales con acentos y el código Alternativo para ellas en el nuevo Outlook.
+ Vocal mayúscula con acento grave
+ Presione
+ À
+ 0192
+ È
+ 0200
+ Ì
+ 0204
+ Ò
+ 0210
+ Ù
+ 0217
+ Volver al principio  
+ Vocal minúscula con acento grave
+ Presione
+ à
+ 0224
+ è
+ 0232
+ ì
+ 0236
+ ò
+ 0242
+ ù
+ 0249
+ Principio de página  
+ Vocal mayúscula con acento agudo
+ Presionar
+ Á
+ 0193
+ É
+ 0201
+ Í
+ 0205
+ Ó
+ 0211
+ Ú
+ 0218
+ Ý
+ 0221
+ Volver al principio  
+ Vocal minúscula con acento agudo
+ Presionar
+ á
+ 0224
+ é
+ 0233
+ í
+ 0237
+ ó
+ 0243
+ ú
+ 0250
+ ý
+ 0253
+ Volver al principio  
+ Vocal mayúscula con acento circunflejo
+ Presionar
+ Â
+ 0194
+ Ê
+ 0202
+ Î
+ 0206
+ Ô
+ 0212
+ Û
+ 0219
+ Principio de página  
+ Vocal minúscula con acento circunflejo
+ Presione
+ â
+ 0226
+ ê
+ 0234
+ î
+ 0238
+ ô
+ 0244
+ û
+ 0251
+ Principio de página  
+ Vocal mayúscula con tilde
+ Pulse
+ Ã
+ 0195
+ Ñ
+ 0209
+ Õ
+ 0213
+ Principio de página  
+ Vocal minúscula con tilde
+ Presione
+ ã
+ 0227
+ ñ
+ 0241
+ õ
+ 0245
+ Principio de página  
+ Vocal mayúscula con acento umlaut
+ Presione
+ Ä
+ 0196
+ Ë
+ 0203
+ Ï
+ 0207
+ Ö
+ 0214
+ Ü
+ 0220
+ Ÿ
+ 0159
+ Principio de página  
+ Vocal minúscula con acento umlaut
+ Presione
+ ä
+ 0228
+ ë
+ 0235
+ ï
+ 0239
+ ö
+ 0246
+ ü
+ 0252
+ ÿ
+ 0255
+ Principio de página 
+ Puntuación, consonantes y vocales especiales
+ Marca, letra, símbolo o carácter
+ Presione
+ Exclamación de apertura (¡)
+ 0161
+ Interrogación de apertura (¿)
+ 0191
+ C-cedilla mayúscula (Ç)
+ 0199
+ C-cedilla minúscula (ç)
+ 0231
+ Diptongo OE mayúscula (Œ)
+ 0140
+ Diptongo oe minúscula (œ)
+ 0156
+ Eszett o ss (ß)
+ 0223
+ Indicador ordinal masculino o símbolo de grado (º)
+ 0186
+ Indicador ordinal femenino (ª)
+ 0170
+ O mayúscula con trazo (Ø)
+ 0216
+ O minúscula con trazo (ø)
+ 0248
+ A mayúscula con sobreanillo, anillo A (Å)
+ 0197
+ A minúscula con sobreanillo, A-ring (å)
+ 0229
+ Diptongo AE mayúscula o mayúscula ash (Æ)
+ 0198
+ Diptongo ae minúscula o minúscula ash (æ)
+ 0230
+ Thorn mayúscula (Þ)
+ 0222
+ Thorn minúscula (þ)
+ 0254
+ Eth mayúscula (Ð)
+ 0208
+ Eth minúscula (ð)
+ 0240
+ Doble comilla angular izquierda («)
+ 0171
+ Doble comilla angular derecha (»)
+ 0187
+ Comilla simple angular izquierda (‹)
+ 0139
+ Comilla simple angular derecha (›)
+ 0155
+ S mayúscula con carón (Š)
+ 0138
+ S minúscula con carón (š)
+ 0154
+ Z mayúscula con carón (Ž)
+ 0142
+ Z minúscula con carón (ž)
+ 0158
+ Volver al principio 
+ Caracteres especiales
+ Carácter
+ Presione
+ Símbolo de cent ¢
+ 0162
+ Símbolo de copyright ©
+ 0169
+ Símbolo de daga †
+ 0134
+ Símbolo de daga doble o diesis ‡
+ 0135
+ Signo de libra £
+ 0163
+ Signo de euro €
+ 0128
+ Signo de yen ¥
+ 0165
+ Signo de función ƒ
+ 0131
+ Signo de moneda ¤
+ 0164
+ Símbolo de marca registrada ®
+ 0174
+ Símbolo de marca comercial ™
+ 0153
+ Viñeta •
+ 0149
+ Guion corto –
+ 0151
+ Guion largo —
+ 0150
+ Signo de sección §
+ 0167
+ Signo de párrafo o calderón ¶
+ 0182
+ Volver al principio 
+ Vea también
+ Usar un lector de pantalla para explorar y desplazarse en Correo de Outlook 
+ Usar un lector de pantalla para explorar y desplazarse en Calendario de Outlook 
+ Usar un lector de pantalla para explorar y navegar por la aplicación Contactos 
+ Tareas básicas al usar un lector de pantalla con el correo electrónico en Outlook 
+ Tareas básicas al usar un lector de pantalla con el calendario en Outlook 
+ Soporte técnico del lector de pantalla para Outlook 
+ Nota
+ Los métodos abreviados de teclado de este tema para la versión clásica de Outlook hacen referencia a la distribución del teclado de España. Es posible que las teclas de otras distribuciones no se correspondan exactamente con las teclas de un teclado de España.
+ Un signo más (+) en un método abreviado de teclado significa que necesita presionar varias teclas al mismo tiempo.
+ Un signo de coma (,) en un método abreviado de teclado significa que necesita presionar varias teclas en orden.
+ En esta sección se describen los métodos abreviados de teclado de la versión clásica de Outlook para Windows.
+ Recomendación
+ Para encontrar rápidamente un método abreviado de teclado en este artículo, puede usar la Búsqueda. Presione Ctrl + +F y, después, escriba las palabras de búsqueda.
+ Contenido
+ Métodos abreviados de teclado más usados 
+ Accesos directos para la navegación básica 
+ Crear un elemento o archivo 
+ Dar formato al texto 
+ Usar la búsqueda 
+ Imprimir elementos 
+ Usar marcas 
+ Usar categorías de color 
+ Métodos abreviados de teclado de correo 
+ Calendar métodos abreviados de teclado 
+ People métodos abreviados de teclado 
+ Métodos abreviados de teclado de Word 
+ Abrir el Editor de Visual Basic 
+ Reproducir macros 
+ Trabajar con grupos de elementos 
+ Métodos abreviados de teclado más usados
+ En esta tabla se enumeran los métodos abreviados de teclado que se usan con más frecuencia en la versión clásica de Outlook.
+ Para ello
+ Pulse
+ Cerrar una ventana o un menú.
+ Esc
+ Ir a la pestaña Inicio .
+ Alt, H
+ Crear un mensaje nuevo.
+ Ctrl+Mayús+M
+ Enviar un mensaje.
+ Alt+S
+ Insertar un archivo.
+ Alt+N, A, F
+ Nueva tarea
+ Ctrl+Mayús+K
+ Eliminar un elemento (cuando está seleccionado un mensaje, una tarea o una reunión).
+ Suprimir
+ Búsqueda de un elemento.
+ Ctrl+E o F3
+ Responder a un mensaje
+ Alt+H, R, P o Ctrl+R
+ Reenviar un mensaje.
+ Alt+H, F, W o Ctrl+F
+ Seleccione la opción Responder a todos .
+ Alt+H, R, A o Ctrl+Mayús+R
+ Copiar un elemento.
+ Ctrl+C o Ctrl+Insertar 
+ Nota: Ctrl+Insertar no está disponible en el panel de lectura .
+ Ir a la pestaña Enviar y recibir .
+ Alt, J, S
+ Ir a Calendario.
+ Ctrl+2
+ Crear una cita.
+ Ctrl+Mayús+A
+ Mover un elemento a una carpeta.
+ Alt+H, M, V y seleccionar una carpeta de la lista
+ Abrir el cuadro de diálogo Guardar como en la pestaña Datos adjuntos .
+ Alt, J, A, 2, A, V
+ Comprobar si hay nuevos mensajes.
+ Ctrl+M o F9
+ Volver al principio 
+ Accesos directos para la navegación básica
+ Nota
+ Las claves numéricas corresponden a diferentes vistas, pero pueden cambiar en función de la configuración de la aplicación en la versión clásica de Outlook.
+ Para
+ Presione
+ Cambiar a la vista Correo .
+ Ctrl+1
+ Cambiar a la vista Calendario .
+ Ctrl+2
+ Cambiar a la vista Copilot .
+ Ctrl+3
+ Cambiar a la vista People .
+ Ctrl+4
+ Cambie a To Do .
+ Ctrl+5
+ Cambiar al panel del Explorador de la organización.
+ Ctrl+6
+ Cambiar a Loop .
+ Ctrl+7
+ Abra Tareas .
+ Ctrl+8
+ Abrir la Libreta de direcciones .
+ Ctrl+Mayús+B
+ Vaya a la página anterior.
+ Alt+B o Alt+Tecla de dirección izquierda
+ Ir a la vista siguiente.
+ Alt+flecha derecha
+ Cambiar al mensaje abierto siguiente.
+ Ctrl+Punto (.)
+ Cambiar al mensaje abierto anterior.
+ Ctrl+coma (,)
+ Desplazarse entre el panel de carpetas , la ventana clásica principal de Outlook, el panel de lectura y la barra de To-Do .
+ Ctrl+Mayús+Tecla Tab o Mayús+Tecla Tab
+ Desplazarse entre la ventana clásica de Outlook, los paneles más pequeños del panel de carpetas , el panel de lectura y las secciones de la barra de To-Do .
+ Tecla TAB o F6
+ Desplazarse entre la cinta de opciones y el calendario.
+ F6
+ Mostrar las teclas de acceso en la cinta de opciones.
+ Alt o F6
+ Muestra la información sobre herramientas del elemento de la cinta de opciones que está actualmente en el foco.
+ Ctrl+Shift+F10
+ Abrir botones de expansión.
+ Alt+flecha abajo
+ Desplazarse por las líneas de encabezados de mensajes en el panel Carpeta o en un mensaje abierto.
+ Ctrl+Tab
+ Desplazarse entre el panel Navegación y el calendario.
+ Ctrl+Tab
+ Desplazarse por el panel Carpeta .
+ Teclas de dirección
+ Ir a otra carpeta.
+ Ctrl+Y
+ Ir al cuadro de búsqueda .
+ F3 o Ctrl+E
+ En el panel Lectura , ir al mensaje anterior.
+ Alt+Tecla de dirección arriba o Ctrl+Coma (,) o Alt+Página anterior
+ En el panel Lectura , avanzar página a página por el texto.
+ Barra espaciadora
+ En el panel Lectura , retroceder página a página por el texto.
+ Mayús+barra espaciadora
+ Expandir o contraer un grupo de la lista de mensajes de correo electrónico.
+ Tecla de flecha de dirección izquierda o derecha, respectivamente
+ Volver a la vista anterior en la ventana clásica principal de Outlook.
+ Alt+B o Alt+Tecla de dirección izquierda
+ Avanzar a la vista siguiente en la ventana clásica principal de Outlook.
+ Alt+flecha derecha
+ Seleccionar la Barra de información y, si está disponible, mostrar el menú de comandos.
+ Ctrl+Mayús+W
+ Mostrar la barra Tareas pendientes (ojear).
+ Alt+V, B y después C para Calendario, P para Contactos, T para Tareas u O para Desactivado
+ Volver al principio 
+ Ir a la cinta de opciones
+ Para realizar esta acción
+ Pulse
+ Abra la pestaña Inicio .
+ ALT+H
+ Abrir el menú Archivo .
+ Alt+F
+ Abrir la pestaña Enviar y recibir .
+ Alt+J, S
+ Abrir la pestaña Carpeta .
+ Alt+O
+ Abrir la pestaña Vista .
+ Alt+V
+ Abrir la pestaña Buscar .
+ Ctrl+E
+ Ir al campo de búsqueda Información .
+ Alt+Q
+ Principio de página 
+ Crear un elemento o archivo en la versión clásica de Outlook
+ Para
+ Presione
+ Crear una cita.
+ Ctrl+Mayús+A
+ Crear un contacto.
+ Ctrl+Mayús+C
+ Crear un grupo de contactos.
+ Ctrl+Mayús+L
+ Crear un fax.
+ Ctrl+Mayús+X
+ Crear una carpeta.
+ Ctrl+Mayús+E
+ Crear una convocatoria de reunión.
+ Ctrl+Mayús+Q
+ Cree un mensaje.
+ Ctrl+Mayús+M
+ Crear una nota.
+ Ctrl+Mayús+N
+ Crear un documento de Microsoft Office.
+ Ctrl+Mayús+H
+ Publicar en la carpeta seleccionada.
+ Ctrl+Mayús+S
+ Publicar una respuesta en la carpeta seleccionada.
+ Ctrl+T
+ Crear una carpeta Búsqueda .
+ Ctrl+Mayús+P
+ Crear una tarea.
+ Ctrl+Mayús+K
+ Volver al principio 
+ Dar formato al texto
+ En esta tabla se enumeran los métodos abreviados de teclado para dar formato al texto en mensajes de correo electrónico, citas o invitaciones a reuniones en la versión clásica de Outlook.
+ Para realizar esta acción
+ Presione
+ Mostrar la pestaña Formato de texto en la cinta de opciones.
+ Alt+O
+ Mostrar el cuadro de diálogo Fuente .
+ Ctrl+Mayús+P
+ Cambiar el uso de mayúsculas y minúsculas de la primera letra en una palabra o línea seleccionada.
+ Mayús+F3
+ Alternar las mayúsculas y minúsculas del texto seleccionado entre versalitas y todo mayúsculas.
+ Ctrl+Mayús+K
+ Aplicar el formato de negrita.
+ Ctrl+N
+ Agregar una lista con viñetas
+ Ctrl+Mayús+L
+ Aplicar el formato de cursiva.
+ Ctrl+K
+ Aumentar sangría.
+ Ctrl+T
+ Disminuir sangría.
+ Ctrl+Mayús+T
+ Justificar el texto en el centro.
+ Ctrl+E
+ Subrayar texto.
+ Ctrl+S
+ Aumentar el tamaño de fuente.
+ Ctrl+corchete de cierre (]) o Ctrl+Mayús+signo mayor que (>)
+ Disminuir el tamaño de fuente.
+ Ctrl+corchete de apertura ([) o Ctrl+Mayús+signo menor que (<)
+ Cortar una selección.
+ Ctrl+X o Mayús+Supr
+ Copie una selección.
+ Ctrl+C o Ctrl+Insertar 
+ Nota: Ctrl+Insertar no está disponible en el panel de lectura .
+ Pegar la selección copiada o recortada.
+ Ctrl+V o Mayús+Insertar
+ Borrar el formato.
+ Ctrl+Mayús+Z o Ctrl+Barra espaciadora
+ Borrar la siguiente palabra.
+ Ctrl+Mayús+H
+ Justificar texto (estirar un párrafo para que vaya de margen a margen).
+ Ctrl+Mayús+J
+ Aplicar estilos.
+ Ctrl+Mayús+S
+ Crear una sangría francesa.
+ Ctrl+T
+ Insertar un hipervínculo.
+ Ctrl+Alt+K
+ Alinear un párrafo a la izquierda.
+ Ctrl+Q
+ Alinear un párrafo a la derecha.
+ Ctrl+D
+ Reducir una sangría francesa.
+ Ctrl+Mayús+T
+ Quitar el formato de párrafo.
+ Ctrl+Q
+ Principio de página 
+ Usar la búsqueda en la versión clásica de Outlook
+ Para
+ Pulse
+ Ir al campo Búsqueda para buscar un mensaje u otro elemento.
+ Ctrl+E o F3
+ Borrar los resultados de la búsqueda.
+ Esc
+ Expandir la búsqueda para incluir Todos los elementos de correo , Todos los elementos del Calendarios o Todos los elementos de contactos , dependiendo del módulo en el que se encuentre.
+ Ctrl+Alt+A
+ Utilizar Búsqueda avanzada .
+ Ctrl+Mayús+F
+ Crear una carpeta Búsqueda .
+ Ctrl+Mayús+P
+ Buscar un texto en un elemento abierto.
+ F4
+ Buscar y reemplazar texto, símbolos o algún comando de formato cuando se encuentra en el panel Lectura o en un elemento abierto.
+ Ctrl+H
+ Expandir una búsqueda para incluir elementos de la carpeta actual.
+ Ctrl+Alt+K
+ Expandir una búsqueda para incluir subcarpetas.
+ Ctrl+Alt+Z
+ Principio de página 
+ Imprimir elementos en la versión clásica de Outlook
+ Para
+ Presione
+ Abrir la página Imprimir en el menú Archivo .
+ Alt+F, P
+ Imprimir un elemento desde una ventana abierta.
+ Alt+F, P, P
+ Abrir el cuadro de diálogo Configurar página en Imprimir página.
+ Alt+S o Alt+U
+ Seleccionar una impresora en la página Imprimir .
+ Alt+F, P, I
+ Abrir el cuadro de diálogo Opciones de impresión .
+ Alt+F, P, R
+ Volver al principio 
+ Usar marcas
+ Para realizar esta acción
+ Presione
+ Abrir el cuadro de diálogo de marca Marcar mensaje para seguimiento para asignar una marca.
+ Ctrl+Mayús+G
+ Volver al principio 
+ Usar categorías de color
+ Para realizar esta acción
+ Presione
+ Eliminar la categoría seleccionada en la lista del cuadro de diálogo Categorías de color .
+ Alt+D
+ Volver al principio 
+ Métodos abreviados de teclado de correo en la versión clásica de Outlook
+ Para
+ Presione
+ Cambiar a Bandeja de entrada .
+ Ctrl+Mayús+I
+ Cambiar a Bandeja de salida .
+ Ctrl+Mayús+O
+ Comprobar nombres.
+ Ctrl+Alt+K
+ Enviar un mensaje.
+ Alt+S
+ Responder a un mensaje
+ Ctrl+D
+ Seleccione la opción Responder a todos .
+ Ctrl+Mayús+R
+ Responder con una convocatoria de reunión.
+ Ctrl+Alt+R
+ Reenviar un mensaje.
+ Ctrl+F
+ Marcar un mensaje como correo deseado.
+ Ctrl+Alt+J
+ Mostrar el contenido externo bloqueado (en un mensaje).
+ Ctrl+Mayús+I
+ Enviar a una carpeta.
+ Ctrl+Mayús+S
+ Aplicar el estilo Normal .
+ Ctrl+Mayús+N
+ Comprobar si hay nuevos mensajes.
+ Ctrl+M o F9
+ Ir al mensaje anterior.
+ Flecha hacia arriba
+ Ir al mensaje siguiente.
+ Flecha hacia abajo
+ Crear un mensaje (desde la vista Correo ).
+ Ctrl+N
+ Crear un mensaje (desde cualquier vista de Outlook).
+ Ctrl+Mayús+M
+ Abrir un mensaje recibido
+ Ctrl+A
+ Eliminar o ignorar una conversación.
+ Ctrl+Mayús+D
+ Abrir la Libreta de direcciones .
+ Ctrl+Mayús+B
+ Agregar una marca rápida a un mensaje sin abrir.
+ Insertar
+ Mostrar el cuadro de diálogo Marcar mensaje para seguimiento .
+ Ctrl+Mayús+G
+ Marcar un mensaje como leído.
+ Ctrl+Q
+ Marcar un mensaje como no leído.
+ Ctrl+S
+ Abrir Información sobre correo en el mensaje compuesto.
+ Ctrl+Alt+P
+ Buscar o reemplazar texto.
+ F4
+ Buscar el siguiente elemento.
+ Mayús+F4
+ Enviar un mensaje.
+ Ctrl+Entrar
+ Imprimir un elemento.
+ Ctrl+P
+ Reenviar un mensaje como un archivo adjunto.
+ Ctrl+Alt+F
+ Mostrar las propiedades del elemento seleccionado.
+ Alt+Entrar
+ Marcar un elemento para descargarlo.
+ Ctrl+Alt+M
+ Comprobar el estado Marcar para descargar .
+ Alt+J, S, M, T
+ Mostrar el progreso de Enviar y recibir .
+ Alt+J, S, P (cuando Enviar y recibir está en curso)
+ Guardar un elemento.
+ Ctrl+G
+ Abrir el cuadro de diálogo Guardar como .
+ F12
+ Volver al principio 
+ Usar el panel Carpeta
+ Para realizar esta acción
+ Presione
+ Desplazarse por el panel Carpeta .
+ Flecha hacia arriba y flecha hacia abajo
+ Ir a la Lista de mensajes desde el panel Carpeta .
+ Barra espaciadora o Entrar
+ Cree una carpeta nueva.
+ Mayús+F10, V
+ Expandir un grupo o carpeta seleccionado con subcarpetas.
+ Flecha derecha
+ Contraer un grupo o carpeta seleccionado con subcarpetas.
+ Flecha izquierda
+ Abrir un elemento seleccionado en el panel Carpeta .
+ Barra espaciadora o Entrar
+ Cambiar el nombre de una carpeta seleccionada en la lista de carpetas.
+ F2
+ Eliminar una carpeta seleccionada de la lista (las carpetas predeterminadas, como Bandeja de entrada , Bandeja de salida , Borradores y Elementos enviados , no se pueden eliminar).
+ Mayús+F10, E
+ Para ir a una carpeta, escriba la primera letra del nombre de la carpeta. Por ejemplo, para ir a la carpeta Borradores , escriba 'd'. Si hay varias carpetas que empiezan con la misma letra, repita la letra hasta que llegue a la carpeta que quiera.
+ La primera letra de un nombre de carpeta
+ Volver al principio 
+ Usar la lista de mensajes en la versión clásica de Outlook
+ Para
+ Presione
+ Bajar y subir en la lista de mensajes.
+ Teclas de flecha abajo y arriba
+ Ir al último elemento de la pantalla.
+ Página abajo
+ Ir al primer elemento de la pantalla.
+ Página arriba
+ Extender o reducir en un elemento la lista de elementos seleccionados.
+ Mayús+Tecla de dirección arriba o Mayús+Tecla de dirección abajo
+ Ir al elemento siguiente o anterior sin extender la selección.
+ Ctrl+Tecla de dirección arriba o Ctrl+Tecla de dirección abajo
+ Seleccionar o cancelar una selección del elemento activo.
+ Ctrl+Barra espaciadora
+ Expandir grupos de mensajes (por ejemplo, La semana pasada).
+ Flecha derecha
+ Contraer grupos de mensajes (por ejemplo, La semana pasada).
+ Flecha izquierda
+ Seleccionar varios mensajes adyacentes.
+ Mayús+Tecla de dirección abajo o arriba
+ Seleccionar varios mensajes no adyacentes.
+ Ctrl+Tecla de dirección arriba o abajo y, después, para seleccionar cada mensaje, presione la barra espaciadora
+ Mover un mensaje una carpeta.
+ Ctrl+Mayús+V
+ Agregar seguimiento o marcar rápido un mensaje.
+ Mayús+F10, U, T (en Narrador, Insertar)
+ Agregar una marca personalizada a un mensaje.
+ Ctrl+Mayús+G
+ Marcar un mensaje como correo no deseado o correo deseado.
+ Mayús+F10, J, la tecla de flecha arriba o abajo y, a continuación, Entrar
+ Marcar un mensaje como leído.
+ Ctrl+Q
+ Marcar un mensaje como no leído.
+ Ctrl+S
+ Marcar un elemento para descargar.
+ Alt, J, S, M, T
+ Marcar un elemento para descargar una copia.
+ Alt, J, S, M, C
+ Desmarcar un elemento para descargar.
+ Alt, J, S, U, U
+ Desmarcar todos los elementos para descargar.
+ Alt, J, S, U, K
+ Eliminar un mensaje.
+ Alt+O, D+1
+ Omitir un mensaje.
+ Alt+H, X
+ Responder a un mensaje
+ Alt+U, R, P
+ Seleccione la opción Responder a todos .
+ ALT+U, R, A
+ Reenviar un mensaje.
+ ALT+U, F, W
+ Abra un mensaje.
+ Entrar
+ Muestra un menú de contenido bloqueado.
+ Ctrl+Mayús+W
+ Descargar imágenes bloqueadas.
+ Ctrl+Mayús+W, I
+ Mostrar propiedades de correo electrónico.
+ Alt+Entrar
+ Enviar a una carpeta.
+ Ctrl+Mayús+S
+ Copiar elemento en una carpeta.
+ Ctrl+Mayús+Y
+ Imprimir un mensaje.
+ Ctrl+P
+ Establecer la frecuencia con la que Outlook comprueba los mensajes nuevos.
+ Ctrl+Alt+S
+ Establecer las opciones de correo no deseado.
+ Alt+H, J, O
+ Volver al principio 
+ Usar el panel de lectura en la versión clásica de Outlook
+ Para realizar esta acción
+ Presione
+ Ir al mensaje anterior.
+ Alt+Tecla de dirección arriba o Ctrl+Coma (,) o Alt+Página anterior
+ Avanzar una página por el texto.
+ Barra espaciadora
+ Retroceder una página por el texto.
+ Mayús+barra espaciadora
+ Ir al siguiente campo.
+ Tecla TAB
+ Ir al campo anterior.
+ Mayús+Tab
+ Ir al vínculo siguiente o anterior.
+ Tecla Tab o Mayús+Tab
+ Ir al botón Responder .
+ Alt+R
+ En un mensaje de correo electrónico, seleccione la barra de información y, si está disponible, muestre el menú de opciones. La barra de información aparece en mensajes que contienen información adicional, por ejemplo, sobre reuniones en conflicto y es necesario tomar medidas. Si está disponible, la barra de información se muestra en el mensaje debajo del asunto y el remitente.
+ Ctrl+Mayús+W
+ Cerrar el menú de Barra de información .
+ Esc
+ Principio de página 
+ Buscar nuevos correos electrónicos y enviar mensajes salientes (enviar y recibir) en la versión clásica de Outlook
+ Para realizar esta acción
+ Presione
+ Iniciar una acción de enviar y recibir para todos los grupos Enviar y recibir definidos con la opción Incluir este grupo en Enviar y recibir (F9) seleccionada. Esto puede incluir encabezados, elementos completos, carpetas específicas, elementos con un tamaño menor que el especificado o cualquier otra combinación que se defina.
+ Alt+J, S, G
+ Iniciar la acción de Enviar y recibir en la carpeta actual recuperando elementos completos (encabezado, elemento y datos adjuntos).
+ Mayús+F9
+ Iniciar una acción de enviar y recibir.
+ Alt+J, S, S
+ Definir grupos Enviar y recibir .
+ Ctrl+Alt+S
+ Volver al principio 
+ Calendar métodos abreviados de teclado en la versión clásica de Outlook
+ Nota
+ Los métodos abreviados de teclado para la Calendar en Teams y Outlook son los mismos. Para ver los métodos abreviados de Teams, vaya a Métodos abreviados de teclado para Microsoft Teams .
+ Para realizar esta acción
+ Presione
+ Crear una cita (desde la vista Calendario ).
+ Ctrl+N
+ Crear una cita (desde cualquier vista de Outlook).
+ Ctrl+Mayús+A
+ Crear una convocatoria de reunión.
+ Ctrl+Mayús+Q o Alt+H, M, R
+ Abrir el menú Nuevos elementos para seleccionar el elemento que desea crear.
+ Alt+O, N+N
+ Reenviar una cita o una reunión.
+ Alt+H, F, W o Ctrl+F
+ Responder a todos los convocados a una reunión con un mensaje.
+ Ctrl+D
+ Seleccione la opción Responder a todos .
+ Ctrl+Mayús+R
+ Mostrar un día en el calendario.
+ Alt+1
+ Mostrar dos días en el calendario.
+ Alt+2
+ Mostrar tres días en el calendario.
+ Alt+3
+ Mostrar cuatro días en el calendario.
+ Alt+4
+ Mostrar cinco días en el calendario.
+ Alt+5
+ Mostrar seis días en el calendario.
+ Alt+6
+ Mostrar siete días en el calendario.
+ Alt+7
+ Mostrar ocho días en el calendario.
+ Alt+8
+ Mostrar nueve días el calendario.
+ Alt+9
+ Mostrar diez días en el calendario.
+ Alt+0
+ Mostrar el día de hoy en el calendario.
+ Alt+H, O, D
+ Mostrar la vista diaria.
+ Alt+O1+D+D o Ctrl+Alt+1
+ Mostrar los siete días siguientes.
+ Alt+H, X
+ Ir a una fecha.
+ Ctrl+G o Alt+H+L
+ Cambiar a la vista Mes .
+ Alt+signo igual o Ctrl+Alt+4
+ Ir al día siguiente.
+ Ctrl+Tecla de flecha derecha
+ Ir a la semana siguiente.
+ Alt+flecha abajo
+ Ir al mes siguiente.
+ Alt+Av Pág
+ Ir al día anterior.
+ Ctrl+Tecla de flecha izquierda
+ Ir a la semana anterior.
+ Alt+tecla de dirección arriba
+ Ir al mes anterior.
+ Alt+Re Pág
+ Ir al final de la semana.
+ Alt+Inicio
+ Ir al principio de la semana.
+ Alt+Fin
+ Cambiar a la vista Semana completa .
+ Alt+signo menos (-) o Ctrl+Alt+3
+ Cambiar a la vista Semana laboral .
+ Ctrl+Alt+2
+ Ir a la cita anterior.
+ Ctrl+Coma (,) o Ctrl+Mayús+Coma (,)
+ Ir a la siguiente cita.
+ Ctrl+Punto (.) o Ctrl+Mayús+Punto (.)
+ Establecer la periodicidad de una cita o reunión abierta.
+ Ctrl+G
+ Abrir una cita cuando se muestra el aviso.
+ Alt+O
+ Abrir la ventana de avisos.
+ Alt+V, M
+ Posponer el recordatorio.
+ Alt+S
+ Descartar el recordatorio.
+ Alt+D
+ Asignar un sonido a un aviso.
+ Alt+F, T, A y, a continuación, Alt+P. Presione la tecla TAB para desplazarse hasta el botón Examinar y presione Entrar . En el cuadro de diálogo Archivo de sonido del aviso , escriba o seleccione el nombre del archivo de sonido que quiera usar.
+ Saltar a Búsqueda.
+ Ctrl+E
+ Mostrar la programación seleccionada en un diseño horizontal si desea comparar calendarios para programar reuniones.
+ Alt+H, S, V o Ctrl+Alt+5
+ Agregar calendarios compartidos desde sus contactos o crear un calendario nuevo.
+ Alt+H, O, C
+ Crear un grupo de calendarios o agregar calendario de departamento.
+ Alt+H, C, G
+ Enviar por correo electrónico un calendario seleccionado a un contacto.
+ Alt+H, E
+ Compartir un calendario con otros usuarios.
+ Alt+H, S, C
+ Publicar un calendario en línea.
+ Alt+H, P, O
+ Ver y editar los permisos de uso compartido de una carpeta.
+ Alt+H, F, P
+ Buscar contactos.
+ Alt+O1, B+B
+ Abrir la Libreta de direcciones.
+ Alt+H, A, B
+ Abrir el cuadro de diálogo Opciones de Outlook para calendarios.
+ Alt+H, C, O
+ Si la información del elemento actualmente seleccionado está abreviada o no se lee en su totalidad, active la información de Microsoft Active Accessibility (MSAA). MSAA proporciona más información a JAWS para que se pueda leer toda la información.
+ Alt+Ctrl+Mayús+M
+ Abrir el asistente para programación de calendarios desde la ventana de la reunión.
+ Alt+P
+ Volver al principio 
+ Usar la vista día/semana/mes
+ Para realizar esta acción
+ Presione
+ Ver de uno a nueve días.
+ Alt+tecla del número de días
+ Ver 10 días.
+ Alt+0 (cero)
+ Cambiar a la vista Semana .
+ Alt+signo menos (-)
+ Cambiar a la Mes .
+ Alt+signo igual (=)
+ Desplazarse entre la vista Calendario , el Cuadro de tareas y la lista Carpeta .
+ Ctrl+TAB o F6
+ Seleccionar la cita anterior.
+ Mayús+Tab
+ Ir al día anterior.
+ Flecha izquierda
+ Ir al día siguiente.
+ Flecha derecha
+ Ir al mismo día de la semana siguiente.
+ Alt+flecha abajo
+ Ir al mismo día de la semana anterior.
+ Alt+tecla de dirección arriba
+ Volver al principio 
+ Usar la vista de un solo día
+ Para realizar esta acción
+ Presione
+ Seleccionar la hora a la que comienza el día de trabajo.
+ Inicio
+ Seleccionar la hora a la que termina el día de trabajo.
+ Fin
+ Seleccionar el bloque de tiempo anterior.
+ Flecha hacia arriba
+ Seleccionar el bloque de tiempo siguiente.
+ Flecha hacia abajo
+ Seleccionar el bloque de tiempo de la parte superior de la página.
+ Página arriba
+ Seleccionar el bloque de tiempo de la parte inferior de la página.
+ Página abajo
+ Extender o reducir el tiempo seleccionado.
+ Mayús+Tecla de dirección arriba o Mayús+Tecla de dirección abajo
+ Ir al mismo día de la semana siguiente.
+ Alt+flecha abajo
+ Ir al mismo día de la semana anterior.
+ Alt+tecla de dirección arriba
+ Volver al principio 
+ Usar la vista Semana
+ Para realizar esta acción
+ Presione
+ Ir al principio de la jornada laboral del día seleccionado.
+ Inicio
+ Ir al final de la jornada laboral del día seleccionado.
+ Fin
+ Retroceder una página en la vista del día seleccionado.
+ Página arriba
+ Avanzar una página en la vista del día seleccionado.
+ Página abajo
+ Cambiar la duración del bloque de tiempo seleccionado.
+ Mayús+Tecla de flecha izquierda, Mayús+Tecla de flecha derecha, Mayús+Tecla de flecha arriba, Mayús+Tecla de flecha abajo, Mayús+Inicio o Mayús+Fin
+ Volver al principio 
+ Usar la vista Mes
+ Para realizar esta acción
+ Presione
+ Ir al primer día de la semana.
+ Inicio
+ Ir al mismo día de la semana en la página anterior.
+ Página arriba
+ Ir al mismo día de la semana en la página siguiente.
+ Página abajo
+ Principio de página 
+ Usar la vista Navegador de fechas
+ Para realizar esta acción
+ Presione
+ Ir al primer día de la semana actual.
+ Alt+Inicio
+ Ir al último día de la semana actual.
+ Alt+Fin
+ Ir al mismo día de la semana anterior.
+ Alt+tecla de dirección arriba
+ Ir al mismo día de la semana siguiente.
+ Alt+flecha abajo
+ Principio de página 
+ People métodos abreviados de teclado en la versión clásica de Outlook
+ Para realizar esta acción
+ Presione
+ Marcar una nueva llamada a un contacto.
+ Ctrl+Mayús+D
+ Buscar un contacto.
+ F3 o Ctrl+E
+ Escribir un nombre en Buscar en las libretas de direcciones .
+ F11
+ En la vista de tabla o de lista de los contactos, ir al primer contacto que empieza por una letra determinada.
+ Mayús, seguido de una letra
+ Seleccionar todos los contactos.
+ Ctrl+E
+ Crear un mensaje con el contacto seleccionado como asunto.
+ Ctrl+F
+ Crear un contacto (desde Contactos ).
+ Ctrl+N
+ Crear un contacto (desde cualquier vista de Outlook).
+ Ctrl+Mayús+C
+ Abrir un formulario de contacto para el contacto seleccionado.
+ Ctrl+O
+ Crear un grupo de contactos.
+ Ctrl+Mayús+L
+ Abrir el cuadro de diálogo Imprimir .
+ Ctrl+P
+ Actualizar una lista de contacto de miembros del grupo.
+ F5
+ Ir a otra carpeta.
+ Ctrl+Y
+ Abrir la Libreta de direcciones .
+ Ctrl+Mayús+B
+ Utilizar Búsqueda avanzada .
+ Ctrl+Mayús+F
+ Con un contacto abierto, abre el siguiente contacto de la lista.
+ Ctrl+Mayús+Punto (.)
+ Buscar un contacto en Favoritos .
+ F11
+ Cerrar un contacto.
+ Esc
+ Enviar un fax al contacto seleccionado.
+ Ctrl+Mayús+X
+ Abrir el cuadro de diálogo Comprobar la dirección .
+ Alt+D
+ En un formulario de contacto, en la sección Internet, mostrar la información de Correo electrónico 1 .
+ Alt+Mayús+1
+ En un formulario de contacto, en la sección Internet, mostrar la información de Correo electrónico 2 .
+ Alt+Mayús+2
+ En un formulario de contacto, en la sección Internet, mostrar la información de Correo electrónico 3 .
+ Alt+Mayús+3
+ Volver al principio 
+ Usar las tarjetas de presentación o la vista de dirección en la versión clásica de Outlook
+ Para realizar esta acción
+ Presione
+ Seleccionar una tarjeta específica en la lista.
+ Escribir una o más letras del nombre con el que está archivada la tarjeta o el nombre del campo que se use para ordenar
+ Seleccionar la tarjeta anterior.
+ Flecha hacia arriba
+ Seleccionar la tarjeta siguiente.
+ Flecha hacia abajo
+ Seleccionar la primera tarjeta de la lista.
+ Inicio
+ Seleccionar la última tarjeta de la lista.
+ Fin
+ Seleccionar la primera tarjeta de la página actual.
+ Página arriba
+ Seleccionar la primera tarjeta de la página siguiente.
+ Página abajo
+ Seleccionar la tarjeta más cercana de la columna siguiente.
+ Flecha derecha
+ Seleccionar la tarjeta más cercana de la columna anterior.
+ Flecha izquierda
+ Seleccionar o eliminar la selección de la tarjeta activa.
+ Ctrl+Barra espaciadora
+ Extender la selección a la tarjeta anterior y eliminar la selección de las tarjetas a partir del punto de inicio.
+ Mayús+Flecha hacia arriba
+ Extender la selección a la tarjeta siguiente y eliminar la selección de las tarjetas antes del punto de inicio.
+ Mayús+Flecha hacia abajo
+ Extender la selección a la tarjeta anterior sin tener en cuenta el punto de inicio.
+ Ctrl+Mayús+Tecla de flecha arriba
+ Extender la selección a la tarjeta siguiente sin tener en cuenta el punto de inicio.
+ Ctrl+Mayús+Flecha hacia abajo
+ Extender la selección a la primera tarjeta de la lista.
+ Mayús+Inicio
+ Extender la selección a la última tarjeta de la lista.
+ Mayús+Fin
+ Extender la selección a la primera tarjeta de la página anterior.
+ Mayús+Re Pág
+ Extender la selección a la última tarjeta de la última página.
+ Mayús+Av Pág
+ Volver al principio 
+ Métodos abreviados en el cuadro de diálogo Editar tarjetas de presentación en la versión clásica de Outlook
+ Para realizar esta acción
+ Presione
+ Abrir la lista de menú Agregar .
+ Alt+A
+ Seleccionar texto en el cuadro Etiqueta cuando está seleccionado el campo con una etiqueta asignada.
+ Alt+B
+ Abrir el cuadro de diálogo Agregar imagen de tarjeta .
+ Alt+C
+ Colocar el cursor al principio del campo de texto Editar .
+ Alt+E
+ Ir al cuadro Campos y selecciónelo.
+ Alt+F
+ Seleccionar el menú Alinear imagen .
+ Alt+G
+ Seleccionar la paleta de colores para el fondo.
+ Alt+K, Entrar
+ Seleccione el menú Diseño .
+ Alt+L
+ Quitar un campo seleccionado del cuadro Campos .
+ Alt+R
+ Volver al principio 
+ Desplazarse entre los campos de una tarjeta de presentación abierta en la versión clásica de Outlook
+ Para usar las teclas siguientes, asegúrese de que se ha seleccionado un campo de una tarjeta.
+ Para realizar esta acción
+ Presione
+ Desplazarse al campo siguiente y controlar.
+ Tecla Tab
+ Desplazarse al campo anterior y controlar.
+ Mayús+Tab
+ Cerrar la tarjeta activa.
+ Entrar o Esc
+ Volver al principio 
+ Moverse entre caracteres en un campo de tarjeta de presentación en la versión clásica de Outlook
+ Para usar las teclas siguientes, asegúrese de que se ha seleccionado un campo de una tarjeta o que el foco se encuentra en el campo.
+ Para realizar esta acción
+ Presione
+ Agregar una línea a un campo de varias líneas.
+ Entrar
+ Ir al principio de la línea.
+ Inicio
+ Ir al final de la línea.
+ Fin
+ Desplazarse hasta el principio de un campo de varias líneas.
+ Página arriba
+ Desplazarse hasta el final de un campo de varias líneas.
+ Página abajo
+ Desplazarse hasta la línea anterior en un campo de varias líneas.
+ Flecha hacia arriba
+ Desplazarse hasta la línea siguiente en un campo de varias líneas.
+ Flecha hacia abajo
+ Desplazarse hasta el carácter anterior dentro de un campo.
+ Flecha izquierda
+ Desplazarse hasta el carácter siguiente dentro de un campo.
+ Flecha derecha
+ Principio de página 
+ Métodos abreviados de teclado de Tareas en la versión clásica de Outlook
+ Para realizar esta acción
+ Pulse
+ Aceptar una solicitud de tarea.
+ Ctrl+C
+ Rechazar una solicitud de tarea.
+ Ctrl+D
+ Busca una tarea u otro elemento.
+ Ctrl+E
+ Abrir el cuadro de diálogo Ir a la carpeta .
+ Ctrl+Y
+ Cree una tarea en la vista Tareas .
+ Ctrl+N
+ Crear una tarea desde cualquier vista Outlook.
+ Ctrl+Mayús+K
+ Abrir el elemento seleccionado
+ Ctrl+O
+ Imprimir el elemento seleccionado.
+ Ctrl+P
+ Seleccionar todos los elementos.
+ Ctrl+A
+ Eliminar un elemento seleccionado.
+ Ctrl+D
+ Reenviar una tarea como datos adjuntos.
+ Ctrl+F
+ Crear una solicitud de tarea.
+ Ctrl+Mayús+Alt+U
+ Cambiar entre el panel Carpeta , la lista Tareas y la barra Tareas pendientes .
+ F6
+ Deshacer la última acción.
+ Ctrl+Z
+ Marcar un elemento o marca como completado.
+ Insertar
+ Volver al principio 
+ Usar la vista Escala de tiempo cuando se selecciona un elemento en la versión clásica de Outlook
+ Para realizar esta acción
+ Presione
+ Seleccionar el elemento anterior.
+ Flecha izquierda
+ Seleccionar el elemento siguiente.
+ Flecha derecha
+ Seleccionar varios elementos adyacentes.
+ Mayús + tecla de flecha derecha o izquierda
+ Seleccionar varios elementos no adyacentes.
+ Ctrl+Tecla de flecha izquierda+Barra espaciadora o Ctrl+Tecla de flecha derecha+Barra espaciadora
+ Abrir los elementos seleccionados.
+ Entrar
+ Seleccionar el primer elemento de la escala de tiempo (si los elementos no están agrupados) o el primer elemento del grupo.
+ Inicio
+ Seleccionar el último elemento de la escala de tiempo (si los elementos no están agrupados) o el último elemento del grupo.
+ Fin
+ Mostrar (sin seleccionar) el primer elemento de la escala de tiempo (si los elementos no están agrupados) o el primer elemento del grupo.
+ Ctrl+Inicio
+ Mostrar (sin seleccionar) el último elemento de la escala de tiempo (si los elementos no están agrupados) o el último elemento del grupo.
+ Ctrl+Fin
+ Principio de página 
+ Usar la vista Escala de tiempo cuando se selecciona un grupo en la versión clásica de Outlook
+ Para realizar esta acción
+ Presione
+ Expandir el grupo.
+ Entrar o Tecla de dirección derecha
+ Contraer el grupo.
+ Entrar o Tecla de dirección izquierda
+ Seleccionar el grupo anterior.
+ Flecha hacia arriba
+ Seleccionar el grupo siguiente.
+ Flecha hacia abajo
+ Seleccionar el primer grupo de la escala de tiempo.
+ Inicio
+ Seleccionar el último grupo de la escala de tiempo.
+ Fin
+ Seleccionar el primer elemento de la pantalla en un grupo expandido o el primer elemento de fuera de la pantalla a la derecha.
+ Flecha derecha
+ Volver al principio 
+ Usar la vista Escala de tiempo cuando se selecciona una unidad de tiempo en la escala de tiempo para días
+ Para realizar esta acción
+ Presione
+ Desplazarse hacia atrás en incrementos de tiempo iguales a los que se muestran en la escala de tiempo.
+ Flecha izquierda
+ Desplazarse hacia delante en incrementos de tiempo iguales a los que se muestran en la escala de tiempo.
+ Flecha derecha
+ Cambiar entre la vista activa, la barra Tareas pendientes , la búsqueda y volver a la vista activa.
+ Tecla Tab y Mayús+Tab
+ Volver al principio 
+ Abrir el Editor de Visual Basic
+ Para realizar esta acción
+ Presione
+ Abrir el Editor de Visual Basic .
+ Alt+F11
+ Volver al principio 
+ Reproducir macros
+ Para realizar esta acción
+ Presione
+ Reproducir una macro.
+ Alt+F8
+ Volver al principio 
+ Trabajar con grupos de elementos
+ Para realizar esta acción
+ Presione
+ Expandir un solo grupo seleccionado.
+ Flecha derecha
+ Contraer un solo grupo seleccionado.
+ Flecha izquierda
+ Seleccionar el grupo anterior.
+ Flecha hacia arriba
+ Seleccionar el grupo siguiente.
+ Flecha hacia abajo
+ Seleccionar el primer grupo.
+ Inicio
+ Seleccionar el último grupo.
+ Fin
+ Seleccionar el primer elemento de la pantalla en un grupo expandido o el primer elemento de fuera de la pantalla a la derecha.
+ Flecha derecha
+ Principio de página 
+ Vea también
+ Usar un lector de pantalla para explorar y desplazarse en Correo de Outlook 
+ Usar un lector de pantalla para explorar y desplazarse en Calendario de Outlook 
+ Tareas básicas al usar un lector de pantalla con el correo electrónico en Outlook 
+ Tareas básicas al usar un lector de pantalla con el calendario en Outlook 
+ Soporte técnico del lector de pantalla para Outlook 
+ En esta sección se describen los métodos abreviados de teclado de Outlook en la Web y Outlook.com.
+ Nota
+ En Outlook en la Web y Outlook.com, puede usar los métodos abreviados de teclado de Outlook.com, Yahoo Mail, Gmail o Outlook. En este artículo se describen los métodos abreviados de teclado disponibles si elige Outlook. Para obtener instrucciones sobre cómo cambiar la versión del acceso directo, vaya a Cambiar la versión de los métodos abreviados de teclado .
+ Para encontrar rápidamente un método abreviado de teclado en este artículo, puede usar la Búsqueda. Presione Ctrl + +F y, después, escriba las palabras de búsqueda.
+ La acción que realiza un método abreviado de teclado puede ser específica del área o la vista en la que está trabajando, a pesar de que incluya nombres de tecla y combinaciones de teclas conocidos.
+ En este tema
+ Cambiar la versión de los métodos abreviados de teclado 
+ Métodos abreviados de teclado más usados 
+ Editar texto 
+ Dar formato al texto 
+ Métodos abreviados de teclado de correo 
+ Usar el panel Carpeta 
+ Usar el mensaje y la lista de lectura 
+ Usar la lista de mensajes 
+ Usar la lista de lectura 
+ Calendar métodos abreviados de teclado 
+ Usar formularios de calendario 
+ Métodos abreviados de teclado de la aplicación Contactos 
+ Usar métodos abreviados de teclado para agregar marcas de énfasis y caracteres especiales 
+ Vocales con acentos 
+ Puntuación, consonantes y vocales especiales 
+ Caracteres especiales 
+ Cambiar la versión de los métodos abreviados de teclado
+ En Outlook en la Web y Outlook.com, puede elegir qué métodos abreviados de teclado desea usar: Outlook.com, Yahoo Mail, Gmail o Outlook. Como alternativa, puede desactivar los métodos abreviados de teclado.
+ Para ver una lista completa de los métodos abreviados de teclado que están disponibles en la versión que elija, presione Mayús + ? (Signo de interrogación)en el teclado.
+ En Outlook.com y la nueva Outlook en la Web, seleccione Configuración > general >. En Métodos abreviados de teclado , seleccione la opción que desee y, a continuación, seleccione Guardar .
+ En la Outlook en la Web clásica, seleccione > Correo > Métodos abreviados de teclado generales >. Seleccione la opción que desee y, a continuación, seleccione Guardar .
+ Métodos abreviados de teclado más usados
+ En esta tabla se enumeran los métodos abreviados de teclado que se usan con más frecuencia en Outlook en la Web y Outlook.com.
+ Para ello
+ Presione
+ Crear un nuevo mensaje o evento de calendario.
+ N
+ Abrir el mensaje seleccionado en una nueva ventana.
+ Mayús+Entrar
+ Mover el mensaje a la carpeta Archivo .
+ E
+ Eliminar mensaje o elemento.
+ Suprimir
+ Reenviar mensaje.
+ Ctrl+Mayús+F o Mayús+F
+ Ir al calendario.
+ Ctrl+Mayús+2
+ Seleccione la opción Responder a todos .
+ Ctrl+Mayús+R o Mayús+R
+ Responder mensaje de correo.
+ Ctrl+R o R
+ Enviar mensaje de correo electrónico.
+ Ctrl+Entrar
+ Cómo utilizar la búsqueda.
+ Alt+Q
+ Abrir botones de expansión.
+ Alt+flecha abajo
+ Principio de página 
+ Editar texto
+ Los métodos abreviados de teclado de edición de texto de Outlook en la Web y Outlook.com son los mismos que se usan en otros productos de Microsoft.
+ Para realizar esta acción
+ Presione
+ Copiar la selección en el Portapapeles.
+ Ctrl+C
+ Cortar el texto seleccionado.
+ Ctrl+X
+ Eliminar el texto seleccionado o los caracteres situados a la izquierda del cursor.
+ Retroceso
+ Eliminar la palabra a la izquierda del cursor, pero no el espacio antes de dicha palabra
+ Ctrl+Retroceso
+ Insertar un hipervínculo.
+ Ctrl+Alt+K
+ Pegar el contenido del Portapapeles en la ubicación actual.
+ Ctrl+V
+ Deshacer la acción más reciente
+ Ctrl+Y
+ Repetir la acción más reciente
+ Ctrl+Z
+ Alternar entre insertar y sobrescribir texto.
+ Insertar
+ Volver al principio 
+ Dar formato al texto
+ Los métodos abreviados de teclado de formato de texto de Outlook en la Web y Outlook.com son los mismos que se usan en otros productos de Microsoft.
+ Para realizar esta acción
+ Presione
+ Aplicar el formato de negrita.
+ Ctrl+N
+ Aplicar el formato de cursiva.
+ Ctrl+K
+ Subrayar texto.
+ Ctrl+S
+ Volver al principio 
+ Métodos abreviados de teclado de correo
+ Usar el panel Carpeta
+ Para realizar esta acción
+ Presionar
+ Contraer la sección seleccionada.
+ Flecha izquierda
+ Expandir la sección seleccionada.
+ Flecha derecha
+ Volver al principio 
+ Usar el mensaje y la lista de lectura
+ Los métodos abreviados de teclado de la tabla siguiente se pueden usar para realizar la misma acción tanto en la lista de mensajes como en la lista de lectura.
+ Para realizar esta acción
+ Presione
+ Eliminar el mensaje seleccionado.
+ Suprimir
+ Marcar la conversación o el mensaje seleccionados como leídos.
+ Ctrl+Q o Q
+ Marcar la conversación o el mensaje seleccionados como no leídos.
+ Ctrl+U o U
+ Eliminar permanentemente el mensaje o elemento seleccionado.
+ Mayús+Supr
+ Marcar un mensaje o cambiar el estado de un mensaje marcado a completado.
+ Insertar
+ Cancelar una búsqueda.
+ Esc
+ Volver al principio 
+ Usar la lista de mensajes
+ Los métodos abreviados de teclado de la tabla siguiente son específicos de la lista de mensajes.
+ Para realizar esta acción
+ Presionar
+ Seleccionar el mensaje actual y el siguiente de la lista. Se usa para seleccionar varios mensajes contiguos.
+ Mayús+Flecha hacia abajo
+ Seleccionar el mensaje actual y el anterior de la lista. Se usa para seleccionar varios mensajes contiguos.
+ Mayús+Flecha hacia arriba
+ Seleccionar el primer mensaje de la carpeta.
+ Inicio o Ctrl+Inicio
+ Principio de página 
+ Usar la lista de lectura
+ Los métodos abreviados de teclado de la tabla siguiente son específicos de la lista de lectura.
+ Para realizar esta acción
+ Presione
+ Cerrar un mensaje nuevo.
+ Esc
+ Crear un mensaje nuevo.
+ N
+ Reenviar un mensaje seleccionado.
+ Ctrl+Mayús+F o Mayús+F
+ Ir al final de una conversación o un mensaje.
+ Fin o Ctrl+Fin
+ Ir al principio de una conversación o un mensaje.
+ Inicio o Ctrl+Inicio
+ Bajar una página para conversaciones o mensajes de dos o más páginas.
+ Página abajo
+ Subir una página para conversaciones o mensajes de dos o más páginas.
+ Página arriba
+ Responder al mensaje seleccionado.
+ Ctrl+R o R
+ Responder al remitente y a todos los destinatarios del mensaje seleccionado.
+ Ctrl+Mayús+R o Mayús+R
+ Enviar un mensaje.
+ Ctrl+Entrar
+ Principio de página 
+ Métodos abreviados de teclado del calendario
+ Nota
+ Los métodos abreviados de teclado para la Calendar en Teams y Outlook son los mismos. Para ver los métodos abreviados de Teams, vaya a Métodos abreviados de teclado para Microsoft Teams . 
+ Si usa Outlook en un equipo Mac, vaya a Métodos abreviados de teclado en Outlook para Mac .
+ Para realizar esta acción
+ Presionar
+ Ir al calendario.
+ Ctrl+Mayús+2
+ Crear un elemento de calendario
+ N
+ Abrir el elemento seleccionado
+ Entrar
+ Eliminar el elemento seleccionado
+ Suprimir
+ Cambie la vista para incluir hoy.
+ Sin acceso directo
+ En la vista Día, ir al día anterior. En las vistas Semana y Semana laboral, ir a la semana anterior. En la vista Mes, ir al mes anterior.
+ Días en movimiento= Ctrl+Alt+Tecla de dirección izquierda Mover semanas= Alt+Tecla de dirección abajo Mover meses= Alt+Av Pág
+ En la vista Día, ir al día siguiente. En las vistas Semana y Semana laboral, ir a la semana siguiente. En la vista Mes, ir al mes siguiente.
+ Días en movimiento= Ctrl+Alt+Tecla de dirección derecha Semanas en movimiento= Alt+Tecla de dirección arriba Mover meses= Alt+Re Pág
+ Vaya al panel anterior de la vista calendario.
+ Sin acceso directo
+ Vaya al panel siguiente de la vista calendario.
+ Sin acceso directo
+ Mover el cursor a una región distinta del calendario
+ CTRL + F6 o CTRL + Mayús + F6
+ Ir al evento siguiente o al área siguiente de la vista actual
+ Tecla TAB
+ Ir a un evento o área anterior de la vista actual.
+ Mayús+Tab
+ Ir al siguiente periodo de tiempo.
+ Mayús+Flecha derecha
+ Ir al periodo de tiempo anterior.
+ Mayús+Flecha izquierda
+ Ir a Hoy
+ Alt+Mayús+Y
+ Mover el cursor a una región distinta del calendario
+ Sin acceso directo
+ Cambiar a la vista Día.
+ Mayús+Alt+1
+ Cambiar a la vista Semana completa.
+ Mayús+Alt+3
+ Cambiar a la vista Mes.
+ Mayús+Alt+4
+ Cambiar a la vista Semana laboral.
+ Mayús+Alt+2
+ Cambiar a la vista de tres días.
+ Sin acceso directo
+ Vista de lista.
+ Sin acceso directo
+ Invitar a los asistentes.
+ N (Crear nuevo evento)
+ Principio de página 
+ Usar formularios de calendario
+ Para realizar esta acción
+ Presione
+ Guardar una cita
+ Ctrl+G
+ Enviar una reunión
+ Ctrl+Entrar o Alt+S
+ Principio de página 
+ Métodos abreviados de teclado de la aplicación Contactos
+ La aplicación People es la libreta de direcciones de Outlook en la Web donde se almacenan sus contactos personales y donde puede abrir cualquier libreta de direcciones que se haya configurado para su organización. Las aplicaciones People , Correo , Copilot y Calendar funcionan juntas para que pueda enviar fácilmente correo y programar citas con sus contactos más importantes. Para más información sobre la aplicación People , vaya a Usar un lector de pantalla para explorar y navegar por la aplicación Contactos .
+ Para realizar esta acción
+ Presione
+ Vaya a Mail .
+ Ctrl+Mayús+1
+ Ir a Calendario .
+ Ctrl+Mayús+2
+ Vaya a Copilot .
+ Ctrl+Mayús+3
+ Vaya a People .
+ Ctrl+Mayús+4
+ Crear un contacto o una lista de contactos.
+ Suprimir
+ Crear un contacto.
+ Mayús+N
+ Buscar un contacto.
+ Alt+Q
+ Descartar los cambios al editar un contacto.
+ Esc
+ Guardar un contacto o una lista de contactos.
+ Ctrl+G
+ Seleccionar todos los contactos o listas de contactos.
+ Ctrl+E
+ Anular la selección de todos los contactos o listas de contactos.
+ Esc
+ Editar un contacto o una lista de contactos.
+ Mayús+E
+ Bajar en la lista de contactos o centros.
+ Flecha hacia abajo
+ Subir en la lista de contactos o centros.
+ Flecha hacia arriba
+ Crear una lista de contactos.
+ Mayús+L
+ Mostrar la lista de métodos abreviados de teclado People .
+ Mayús+Signo de interrogación (?)
+ Mover el foco a la cinta de opciones.
+ Alt Period (.)
+ Mover el foco a la pestaña Inicio .
+ Alt+H
+ Mover el foco a la pestaña Vista .
+ Alt+V
+ Avanzar al área, botón, vínculo u opción siguiente de un cuadro de diálogo, o cerrar un menú.
+ Tecla TAB
+ Volver al área, botón o vínculo anterior.
+ Mayús+Tab
+ Seleccionar contactos adicionales cuando ya haya seleccionado un contacto.
+ Mayús+Tecla de dirección abajo o arriba y, a continuación, barra espaciadora
+ Desplazarse de una opción a otra y seleccionarla en un menú.
+ Flecha arriba o flecha abajo
+ Activar o desactivar la casilla de un contacto en una lista de contactos o una opción de un cuadro de diálogo.
+ Barra espaciadora
+ Desactivar todas las selecciones de una página y actualizar esa página en el explorador web.
+ Mayús+F5
+ Activar un botón o vínculo o abrir un menú.
+ Entrar
+ Abrir el menú contextual cuando se seleccione un contacto.
+ Mayús+F10
+ Cerrar un cuadro de diálogo.
+ Esc
+ Principio de página  
+ Usar métodos abreviados de teclado para agregar marcas de énfasis y caracteres especiales
+ Para agregar acentos o caracteres especiales, use el panel numérico de su teclado externo con Bloq Num activado.
+ Mantenga presionado Alt .
+ Escriba el código numérico en el panel numérico y suelte Alt .
+ Recomendación
+ Para escribir caracteres especiales en un equipo Mac, presione la barra espaciadora de Control de + comandos +.
+ Principio de página  
+ Vocales con acentos
+ En la tabla siguiente se enumeran las vocales acentuadas y su código Alt.
+ Vocal mayúscula con acento grave
+ Presione
+ À
+ 0192
+ È
+ 0200
+ Ì
+ 0204
+ Ò
+ 0210
+ Ù
+ 0217
+ Volver al principio  
+ Vocal minúscula con acento grave
+ Presione
+ à
+ 0224
+ è
+ 0232
+ ì
+ 0236
+ ò
+ 0242
+ ù
+ 0249
+ Principio de página  
+ Vocal mayúscula con acento agudo
+ Presionar
+ Á
+ 0193
+ É
+ 0201
+ Í
+ 0205
+ Ó
+ 0211
+ Ú
+ 0218
+ Ý
+ 0221
+ Volver al principio  
+ Vocal minúscula con acento agudo
+ Presionar
+ á
+ 0224
+ é
+ 0233
+ í
+ 0237
+ ó
+ 0243
+ ú
+ 0250
+ ý
+ 0253
+ Volver al principio  
+ Vocal mayúscula con acento circunflejo
+ Presionar
+ Â
+ 0194
+ Ê
+ 0202
+ Î
+ 0206
+ Ô
+ 0212
+ Û
+ 0219
+ Principio de página  
+ Vocal minúscula con acento circunflejo
+ Presione
+ â
+ 0226
+ ê
+ 0234
+ î
+ 0238
+ ô
+ 0244
+ û
+ 0251
+ Principio de página  
+ Vocal mayúscula con tilde
+ Pulse
+ Ã
+ 0195
+ Ñ
+ 0209
+ Õ
+ 0213
+ Principio de página  
+ Vocal minúscula con tilde
+ Presione
+ ã
+ 0227
+ ñ
+ 0241
+ õ
+ 0245
+ Principio de página  
+ Vocal mayúscula con acento umlaut
+ Presione
+ Ä
+ 0196
+ Ë
+ 0203
+ Ï
+ 0207
+ Ö
+ 0214
+ Ü
+ 0220
+ Ÿ
+ 0159
+ Principio de página  
+ Vocal minúscula con acento umlaut
+ Presione
+ ä
+ 0228
+ ë
+ 0235
+ ï
+ 0239
+ ö
+ 0246
+ ü
+ 0252
+ ÿ
+ 0255
+ Principio de página 
+ Puntuación, consonantes y vocales especiales
+ Marca, letra, símbolo o carácter
+ Presione
+ Exclamación de apertura (¡)
+ 0161
+ Interrogación de apertura (¿)
+ 0191
+ C-cedilla mayúscula (Ç)
+ 0199
+ C-cedilla minúscula (ç)
+ 0231
+ Diptongo OE mayúscula (Œ)
+ 0140
+ Diptongo oe minúscula (œ)
+ 0156
+ Eszett o ss (ß)
+ 0223
+ Indicador ordinal masculino o símbolo de grado (º)
+ 0186
+ Indicador ordinal femenino (ª)
+ 0170
+ O mayúscula con trazo (Ø)
+ 0216
+ O minúscula con trazo (ø)
+ 0248
+ A mayúscula con sobreanillo, anillo A (Å)
+ 0197
+ A minúscula con sobreanillo, A-ring (å)
+ 0229
+ Diptongo AE mayúscula o mayúscula ash (Æ)
+ 0198
+ Diptongo ae minúscula o minúscula ash (æ)
+ 0230
+ Thorn mayúscula (Þ)
+ 0222
+ Thorn minúscula (þ)
+ 0254
+ Eth mayúscula (Ð)
+ 0208
+ Eth minúscula (ð)
+ 0240
+ Doble comilla angular izquierda («)
+ 0171
+ Doble comilla angular derecha (»)
+ 0187
+ Comilla simple angular izquierda (‹)
+ 0139
+ Comilla simple angular derecha (›)
+ 0155
+ S mayúscula con carón (Š)
+ 0138
+ S minúscula con carón (š)
+ 0154
+ Z mayúscula con carón (Ž)
+ 0142
+ Z minúscula con carón (ž)
+ 0158
+ Volver al principio 
+ Caracteres especiales
+ Carácter
+ Presione
+ Símbolo de cent ¢
+ 0162
+ Símbolo de copyright ©
+ 0169
+ Símbolo de daga †
+ 0134
+ Símbolo de daga doble o diesis ‡
+ 0135
+ Signo de libra £
+ 0163
+ Signo de euro €
+ 0128
+ Signo de yen ¥
+ 0165
+ Signo de función ƒ
+ 0131
+ Signo de moneda ¤
+ 0164
+ Símbolo de marca registrada ®
+ 0174
+ Símbolo de marca comercial ™
+ 0153
+ Viñeta •
+ 0149
+ Guion corto –
+ 0151
+ Guion largo —
+ 0150
+ Signo de sección §
+ 0167
+ Signo de párrafo o calderón ¶
+ 0182
+ Volver al principio 
+ Vea también
+ Métodos de teclado abreviado en Outlook para Mac 
+ Tareas básicas al usar un lector de pantalla con el correo electrónico en Outlook 
+ Tareas básicas al usar un lector de pantalla con el calendario en Outlook 
+ Usar un lector de pantalla para explorar y desplazarse en Correo de Outlook 
+ Usar un lector de pantalla para explorar y desplazarse en Calendario de Outlook 
+ Usar un lector de pantalla para explorar y navegar por la aplicación Contactos 
+ Soporte técnico del lector de pantalla para Outlook 
+ Soporte técnico para los clientes con discapacidades
+ Microsoft desea proporcionar la mejor experiencia posible a todos nuestros clientes. Si tienes alguna discapacidad o preguntas relacionadas con la accesibilidad, ponte en contacto con Answer Desk Accesibilidad de Microsoft para obtener asistencia técnica. El equipo de soporte técnico de Answer Desk Accesibilidad está preparado para usar muchas tecnologías de asistencia conocidas y puede ofrecer asistencia en lenguaje de signos en inglés, español, francés y estadounidense. Vaya al sitio de Answer Desk Accesibilidad de Microsoft para saber los detalles de contacto de su región.
+ Si eres un usuario gubernamental, comercial o empresarial, ponte en contacto con Answer Desk Accesibilidad de la empresa .
+ ¿Te resultó útil esta información?
+ Sí 
+ No 
+ Thank you! Any more feedback for Microsoft? 
+ Can you help us improve? (Send feedback to Microsoft so we can help.)
+ How satisfied are you with the translation quality? 
+ What affected your experience? 
+ Resolved my issue 
+ Clear instructions 
+ Easy to follow 
+ No jargon 
+ Pictures helped 
+ Translation quality 
+ Didn't match my screen 
+ Incorrect instructions 
+ Too technical 
+ Not enough information 
+ Not enough pictures 
+ Translation quality 
+ Any additional feedback? (Optional) 
+ Submit feedback 
+ By pressing submit, your feedback will be used to improve Microsoft products and services. 
+ Your IT admin will be able to collect this data. 
+ Privacy Statement. 
+ ¡Gracias por sus comentarios!
+ ×
