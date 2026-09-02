@@ -256,15 +256,15 @@ efecto en «**one in 10 searches**».
 ## 5. Trazabilidad
 
 - **«Rich Transcription Evaluation»**, del instituto nacional de normas y tecnología de los Estados
-  Unidos, grupo de información multimodal, leída el **3 de septiembre de 2026**: la serie de
+  Unidos, grupo de información multimodal, leída el **2 de septiembre de 2026**: la serie de
   evaluaciones desde 2002 y las dos tareas de diarización, «**Who Spoke When**» y «**Who Said
   What**».
 - **«Understanding searches better than ever before»**, blog oficial de Google, publicado el **25 de
-  octubre de 2019** y leído el **3 de septiembre de 2026**: el desarrollo de las siglas del modelo,
+  octubre de 2019** y leído el **2 de septiembre de 2026**: el desarrollo de las siglas del modelo,
   la explicación de los transformadores y del contexto bidireccional, y su efecto declarado en el
   buscador.
 - **Ficha del artículo «BERT: Pre-training of Deep Bidirectional Transformers for Language
-  Understanding»**, arXiv 1810.04805, leída el **3 de septiembre de 2026**: el resumen, con el
+  Understanding»**, arXiv 1810.04805, leída el **2 de septiembre de 2026**: el resumen, con el
   desarrollo de las siglas y la descripción del condicionamiento conjunto por contexto izquierdo y
   derecho.
 

@@ -1,5 +1,5 @@
 Preceptos del BOE usados en el tema 6 del específico de Documentación.
-Volcados con `herramientas/boe.py precepto --fecha 20221221` el 3 de septiembre de 2026.
+Volcados con `herramientas/boe.py precepto --fecha 20221221` el 2 de septiembre de 2026.
 
 ========== Estatuto de Roma de la Corte Penal Internacional, artículo 3
 Norma: BOE-A-2002-10139 · bloque a3

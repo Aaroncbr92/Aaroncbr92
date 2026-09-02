@@ -1,7 +1,7 @@
 Ficha del artículo «BERT: Pre-training of Deep Bidirectional Transformers for
 Language Understanding», arXiv 1810.04805
 https://arxiv.org/abs/1810.04805
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 [1810.04805] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 Skip to main content

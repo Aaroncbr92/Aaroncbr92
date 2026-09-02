@@ -1,6 +1,6 @@
 Documentos del BOE usados en el tema 6 del específico de Documentación.
 No son legislación consolidada: se citan por su texto original publicado.
-Descargados el 3 de septiembre de 2026.
+Descargados el 2 de septiembre de 2026.
 
 ========== Real Decreto 1673/2010, de 4 de diciembre — declaración del estado de alarma
 BOE-A-2010-18683 · https://www.boe.es/diario_boe/txt.php?id=BOE-A-2010-18683
@@ -467,7 +467,7 @@ de Manoteras, 54 - 28050 Madrid
 
 ========== Títulos tomados del sumario del BOE (búsqueda por fecha)
 Fuente: API de datos abiertos del BOE, sumarios de 27 y 28 de febrero de 1976,
-consultados el 3 de septiembre de 2026.
+consultados el 2 de septiembre de 2026.
 
 BOE-A-1976-4486 | Orden de 23 de febrero de 1976 por la que se dispone la publicación del acuerdo del Consejo de Ministros sobre concesión de facilidades crediticias en favor de los españoles que trasladen su residencia
 BOE-A-1976-4582 | Orden de 27 de enero de 1976 por la que se dispone pase a la situación de retirado el personal indígena de la Policía Territorial del Gobierno General de Sahara que se menciona

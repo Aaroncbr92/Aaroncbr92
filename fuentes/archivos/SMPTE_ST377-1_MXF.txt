@@ -1,7 +1,7 @@
 SMPTE ST 377-1:2019 · «Material Exchange Format (MXF) — File Format Specification»
 Aprobada el 28 de noviembre de 2019.
 https://pub.smpte.org/doc/st377-1/20191128-pub/st377-1-2019.pdf
-Descargada el 3 de septiembre de 2026. Se conserva el frontal del documento —índice,
+Descargada el 2 de septiembre de 2026. Se conserva el frontal del documento —índice,
 objeto, acrónimos e introducción, hasta el final de la cláusula 5—; el cuerpo técnico
 se omite por tamaño.
 

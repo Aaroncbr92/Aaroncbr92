@@ -456,30 +456,30 @@ la Unión Europea**.
 ## 7. Trazabilidad
 
 - **SMPTE ST 377-1:2019**, «Material Exchange Format (MXF) — File Format Specification», aprobada el
-  **28 de noviembre de 2019**, descargada de la biblioteca pública de la sociedad el **3 de
+  **28 de noviembre de 2019**, descargada de la biblioteca pública de la sociedad el **2 de
   septiembre de 2026**: el objeto, la introducción y la descripción de la estructura del fichero.
 - **EBU Tech 3285**, «Specification of the Broadcast Wave Format (BWF)», **versión 2.0, Ginebra, mayo
-  de 2011**, descargada el **3 de septiembre de 2026**: el resumen y el historial de versiones.
+  de 2011**, descargada el **2 de septiembre de 2026**: el resumen y el historial de versiones.
 - **Norma ECMA-319**, **junio de 2001**, «Data Interchange on 12,7 mm 384-Track Magnetic Tape
-  Cartridges – Ultrium-1 Format», descargada el **3 de septiembre de 2026**: el título, la reseña
+  Cartridges – Ultrium-1 Format», descargada el **2 de septiembre de 2026**: el título, la reseña
   histórica de la familia de cartuchos y la lista de definiciones.
 - **IASA-TC 03**, «The Safeguarding of the Audiovisual Heritage: Ethics, Principles and Preservation
   Strategy», **cuarta edición, 2017**, edición web de la asociación internacional de archivos sonoros
-  y audiovisuales, leída el **3 de septiembre de 2026**: las secciones **3** —inestabilidad de los
+  y audiovisuales, leída el **2 de septiembre de 2026**: las secciones **3** —inestabilidad de los
   soportes—, **4** —obsolescencia—, **5** —salvaguarda—, **6** —selección de la mejor copia—, **10**
   —formatos de destino—, **11** —reducción de datos— y **13** —almacenamiento a largo plazo—.
 - **«Advanced Audio Coding (MPEG-4)»**, descripción de formato de la Biblioteca del Congreso de los
-  Estados Unidos, leída el **3 de septiembre de 2026**: la designación completa de la norma y la
+  Estados Unidos, leída el **2 de septiembre de 2026**: la designación completa de la norma y la
   descripción del formato.
 - **«Care, Handling, and Storage of Audio Visual Materials»**, Biblioteca del Congreso de los Estados
-  Unidos, leída el **3 de septiembre de 2026**: las reglas de manejo por soporte y las notas
+  Unidos, leída el **2 de septiembre de 2026**: las reglas de manejo por soporte y las notas
   bibliográficas sobre el síndrome de la cinta pegajosa y su causa.
-- **Página del producto «Dalet Galaxy five»**, del fabricante, leída el **3 de septiembre de 2026**:
+- **Página del producto «Dalet Galaxy five»**, del fabricante, leída el **2 de septiembre de 2026**:
   la descripción del sistema y de sus bloques.
 - **Virginia Bazán Gil (Radiotelevisión Española), «La memoria colectiva: contenidos para el
   recuerdo, del archivo a la Web de RTVE»**, revista *Métodos de Información*, II época, volumen 5,
-  número 8, descargado el **3 de septiembre de 2026**: la cronología del gestor documental de la casa.
-- **«About us»**, portal audiovisual de la Comisión Europea, leída el **3 de septiembre de 2026**: la
+  número 8, descargado el **2 de septiembre de 2026**: la cronología del gestor documental de la casa.
+- **«About us»**, portal audiovisual de la Comisión Europea, leída el **2 de septiembre de 2026**: la
   definición del servicio de información televisiva de la Unión.
 
 **Lo que este tema no puede sostener, y por eso lo dice:**

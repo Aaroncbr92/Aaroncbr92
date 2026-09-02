@@ -435,18 +435,18 @@ programas entre 1982 y 1988**.
   los planes de emergencia en su apartado 5—, el **artículo 7**
   —estructura de la Corporación y estructura territorial— y las disposiciones transitorias primera,
   segunda y quinta —convivencia, sucesión y extinción del Ente Público—.
-- **Fichas del archivo de RTVE**, leídas el **3 de septiembre de 2026**: NO-DO, «Un, dos, tres»,
+- **Fichas del archivo de RTVE**, leídas el **2 de septiembre de 2026**: NO-DO, «Un, dos, tres»,
   «Vivir cada día», «Más allá», y las de «Sobre el terreno», «Conozca usted España» y «La segunda
   oportunidad», tomadas del catálogo público de programas.
-- **Páginas corporativas de RTVE**, leídas el **3 de septiembre de 2026**: la de áreas de actividad
+- **Páginas corporativas de RTVE**, leídas el **2 de septiembre de 2026**: la de áreas de actividad
   —fechas de TVE, de RNE, de la web, del Coro y de la Orquesta, y relación de canales y emisoras—, la
   de centros territoriales, la de corresponsales, la del Lab y la de la Orquesta y Coro con su
   programa de conciertos.
 - **Noticia de RTVE.es sobre Mayra Gómez-Kemp**, publicada el **13 de octubre de 2024** y leída el
-  **3 de septiembre de 2026**: su lugar de nacimiento y los años en que presentó el concurso.
+  **2 de septiembre de 2026**: su lugar de nacimiento y los años en que presentó el concurso.
 - **Nota de prensa «La 2 de TVE cumple 59 años de emisiones»**, del portal público de televisión
   digital de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, publicada el
-  **17 de noviembre de 2025** y leída el **3 de septiembre de 2026**: la fecha de inicio de las
+  **17 de noviembre de 2025** y leída el **2 de septiembre de 2026**: la fecha de inicio de las
   emisiones del segundo canal y el porqué del nombre UHF.
 
 **Lo que este tema no puede sostener, y por eso lo dice:**

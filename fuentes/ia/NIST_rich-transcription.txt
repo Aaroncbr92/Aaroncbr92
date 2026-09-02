@@ -1,7 +1,7 @@
 «Rich Transcription Evaluation», Instituto Nacional de Normas y Tecnología (NIST)
 de los Estados Unidos, Grupo de Multimodal Information
 https://www.nist.gov/itl/iad/mig/rich-transcription-evaluation
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 Rich Transcription Evaluation
 NIST has a long history of conducting Automatic Speech Recognition before RT began. This ASR history graph gives a summary of the tests run prior to RT as well as include more recent results:

@@ -1,6 +1,6 @@
 Fichas de programas del catálogo público de RTVE Play
 https://www.rtve.es/api/programas.json (catálogo completo: 4.623 programas)
-Leído el 3 de septiembre de 2026.
+Leído el 2 de septiembre de 2026.
 
 Se recogen las fichas de los tres programas que el examen ofrece como opciones
 falsas frente a «Vivir cada día», para poder decir qué es cada uno.

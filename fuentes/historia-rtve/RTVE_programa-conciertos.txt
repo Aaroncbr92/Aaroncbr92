@@ -1,6 +1,6 @@
 Programa de conciertos de la Orquesta y Coro de RTVE
 https://www.rtve.es/orquesta-coro/programa-conciertos/
-Leído el 3 de septiembre de 2026.
+Leído el 2 de septiembre de 2026.
 
 Se recorta el listado: se conservan las primeras entradas del programa, que dan
 el lugar de celebración de los conciertos de temporada.

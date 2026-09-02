@@ -1,6 +1,6 @@
 Página oficial de ISO 25964, alojada por NISO, secretaría del ISO/TC46/SC9
 https://www.niso.org/schemas/iso25964
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 ISO 25964 – the international standard for thesauri and interoperability with other vocabularies
 This is the official website for information about ISO 25964, hosted by NISO, the TC46/SC9 Secretariat.

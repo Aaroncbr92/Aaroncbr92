@@ -1,6 +1,6 @@
 Portada de ISWC, sistema gestionado por CISAC
 https://www.iswc.org/
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 Descripción que la propia página declara:
 The ISWC (International Standard Musical Work Code) is a unique, permanent and internationally recognized reference number for the identification of musical works.

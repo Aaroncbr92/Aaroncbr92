@@ -470,28 +470,28 @@ probatorio**.
 ## 7. Trazabilidad
 
 - **ISO 25964-1:2011**, «Information and documentation — Thesauri and interoperability with other
-  vocabularies — Part 1: Thesauri for information retrieval», **muestra oficial** leída el **3 de
+  vocabularies — Part 1: Thesauri for information retrieval», **muestra oficial** leída el **2 de
   septiembre de 2026**: el objeto, el índice completo y los términos y definiciones **2.1 a 2.47**,
   entre ellos concepto, vocabulario controlado, documento, indización, recuperación de información,
   interoperabilidad, metadatos, tesauro multilingüe, **postcoordinación** y **precoordinación**.
 - **ISO 25964-2:2013**, «… — Part 2: Interoperability with other vocabularies», **muestra oficial**
-  leída el **3 de septiembre de 2026**: el objeto, la introducción, el índice completo —con la
+  leída el **2 de septiembre de 2026**: el objeto, la introducción, el índice completo —con la
   **cláusula 6 y sus apartados 6.2 a 6.6**— y los términos y definiciones **3.1 a 3.54**.
 - **ISO 15707:2022**, «Information and documentation — International Standard Musical Work Code
-  (ISWC)», **segunda edición, diciembre de 2022**, **muestra oficial** leída el **3 de septiembre de
-  2026**: el prólogo con los cambios respecto de la edición de 2001, la introducción, el objeto y la
+  (ISWC)», **segunda edición, diciembre de 2022**, **muestra oficial** leída el **2 de septiembre de
+**: el prólogo con los cambios respecto de la edición de 2001, la introducción, el objeto y la
   construcción del código.
-- **Página oficial de ISO 25964**, alojada por **NISO**, secretaría del ISO/TC46/SC9, leída el **3 de
+- **Página oficial de ISO 25964**, alojada por **NISO**, secretaría del ISO/TC46/SC9, leída el **2 de
   septiembre de 2026**: el resumen de las dos partes, la sustitución de ISO 2788 y ISO 5964 y los
   índices abreviados de ambas partes.
-- **«ISSN, a standardised code»**, Centro Internacional del ISSN, leída el **3 de septiembre de
-  2026**: la designación exacta de **ISO 2108, ISO 3297, ISO 3901 e ISO 10957** y la descripción de
+- **«ISSN, a standardised code»**, Centro Internacional del ISSN, leída el **2 de septiembre de
+**: la designación exacta de **ISO 2108, ISO 3297, ISO 3901 e ISO 10957** y la descripción de
   **ISO 2709**.
 - **Portada del ISWC**, sistema gestionado por la confederación internacional de sociedades de
-  autores y compositores, leída el **3 de septiembre de 2026**: la definición del código.
+  autores y compositores, leída el **2 de septiembre de 2026**: la definición del código.
 - **Virginia Bazán Gil (Radiotelevisión Española), «La memoria colectiva: contenidos para el recuerdo,
   del archivo a la Web de RTVE»**, revista *Métodos de Información*, II época, volumen 5, número 8,
-  descargado el **3 de septiembre de 2026**: la descripción de la **Redacción Digital** y las fechas
+  descargado el **2 de septiembre de 2026**: la descripción de la **Redacción Digital** y las fechas
   de su implantación en informativos y en programas no informativos.
 - **Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español**, `BOE-A-1985-12534`, **texto
   vigente al 21 de diciembre de 2022**: los artículos **cuarenta y nueve** —documento y Patrimonio

@@ -644,7 +644,7 @@ del banco central y el nombre del curio.
 - **Real Decreto 2032/2009, de 30 de diciembre**, de unidades legales de medida, `BOE-A-2010-927`,
   **texto vigente al 21 de diciembre de 2022**: las definiciones del amperio y el kelvin, el ejemplo
   del newton y la regla del becquerel.
-- **Páginas institucionales leídas el 3 de septiembre de 2026**: el comité ejecutivo del **Banco
+- **Páginas institucionales leídas el 2 de septiembre de 2026**: el comité ejecutivo del **Banco
   Central Europeo**; «About the Fed», de la **Reserva Federal**; los contactos del **Banco Europeo de
   Inversiones**; «Tasks & Mission», de la **agencia europea de fronteras**; «Who we are», de la
   **Unión por el Mediterráneo**; las entradas «Chromosome» y «CRISPR» del glosario del **instituto

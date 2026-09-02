@@ -55,7 +55,7 @@ describe la primera, y sin la segunda delante era fácil escribir una definició
 
 La **biblioteca de recomendaciones de la unión internacional de telecomunicaciones** respondió sin
 problema el 2 de septiembre de 2026, cuando se descargaron de ella **cinco recomendaciones** para el
-bloque de Producción. El 3 de septiembre **devolvió respuesta vacía a las tres consultas** hechas,
+bloque de Producción. El 2 de septiembre **devolvió respuesta vacía a las tres consultas** hechas,
 sobre una recomendación distinta.
 
 **Se anota tal cual, sin interpretarlo**: no se sabe si es un corte pasajero o un bloqueo. Lo que

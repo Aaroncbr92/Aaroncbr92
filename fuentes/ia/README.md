@@ -20,7 +20,7 @@ que medirlas, y **los anuncios técnicos de quien construye los sistemas**.
 - **Ninguna norma sobre la arquitectura de un sintetizador de voz.** La
   biblioteca de recomendaciones de la unión internacional de telecomunicaciones
   —de la que sí se descargaron recomendaciones para el bloque de Producción—
-  **no respondió a ninguna de las tres consultas** hechas el 3 de septiembre de
+  **no respondió a ninguna de las tres consultas** hechas el 2 de septiembre de
   2026, y la recomendación del consorcio de la web sobre marcado de síntesis de
   voz responde «prohibido», igual que el resto de su sitio. Comprobado con agente
   de usuario de navegador.

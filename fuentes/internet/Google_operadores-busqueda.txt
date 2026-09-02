@@ -1,6 +1,6 @@
 «Acotar las búsquedas de Google», Ayuda de Búsqueda de Google
 https://support.google.com/websearch/answer/2466433?hl=es
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 Operadores
 Para acotar los resultados de formas específicas, puedes utilizar operadores especiales en la búsqueda. No incluyas espacios entre el operador y el término de búsqueda. La búsqueda [ site:elmundo.es ] funciona, pero la búsqueda [ site: elmundo.es ], no. Estos son algunos de los operadores más populares:

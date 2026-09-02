@@ -423,13 +423,13 @@ escrito, pero sí inequívoco**.
   amparo 1369-2017, publicada como `BOE-A-2020-4112` en el BOE núm. 84, de **26 de marzo de 2020**:
   la síntesis, el resumen y los fundamentos sobre el consentimiento y las redes sociales.
 - **EBU Tech 3293, «EBU Core Metadata Set (EBUCore) Specification», versión 1.10**, Ginebra, **abril
-  de 2020**, descargada el **3 de septiembre de 2026**: la introducción, la sección de
+  de 2020**, descargada el **2 de septiembre de 2026**: la introducción, la sección de
   personalización y extensiones y el apartado dedicado al elemento «part».
 - **RDF Primer del W3C**, edición de trabajo publicada en el repositorio de edición del consorcio,
-  leída el **3 de septiembre de 2026**: la definición de RDF y su relación con los datos enlazados.
-- **«Acotar las búsquedas de Google»**, ayuda oficial de Búsqueda de Google, leída el **3 de
+  leída el **2 de septiembre de 2026**: la definición de RDF y su relación con los datos enlazados.
+- **«Acotar las búsquedas de Google»**, ayuda oficial de Búsqueda de Google, leída el **2 de
   septiembre de 2026**: la lista de operadores, el de tipo de fichero y la regla de los espacios.
-- **«!Bangs»**, página oficial de DuckDuckGo, leída el **3 de septiembre de 2026**: qué son los
+- **«!Bangs»**, página oficial de DuckDuckGo, leída el **2 de septiembre de 2026**: qué son los
   bangs, el ejemplo, su antigüedad y la advertencia sobre la política del sitio de destino.
 
 **Lo que este tema no puede sostener, y por eso lo dice:**

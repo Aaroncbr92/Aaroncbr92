@@ -2,7 +2,7 @@ Páginas institucionales usadas en el tema 6 del específico de Documentación.
 
 ========== Comité Ejecutivo del Banco Central Europeo
 https://www.ecb.europa.eu/ecb/orga/decisions/eb/html/index.en.html
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
  YEAR
 Suggestions
@@ -123,7 +123,7 @@ Modify
 
 ========== «Tasks & Mission», Agencia Europea de la Guardia de Fronteras y Costas
 https://www.frontex.europa.eu/about-frontex/who-we-are/tasks-mission/
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 Frontex, the European Border and Coast Guard Agency, supports EU
 Member States and Schengen-associated countries in the management 
@@ -203,7 +203,7 @@ Together with EU Member States, we ensure safe and
 
 ========== «Who we are», Unión por el Mediterráneo
 https://ufmsecretariat.org/who-we-are/
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 The Union for the Mediterranean is an intergovernmental institution bringing together the European Union Member States and 16 countries from the Southern and Eastern shores of the Mediterranean to promote dialogue and cooperation.
 OVERVIEW
@@ -323,7 +323,7 @@ The Me
 
 ========== «About the Fed», Junta de Gobernadores de la Reserva Federal
 https://www.federalreserve.gov/aboutthefed.htm
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 The Federal Reserve, the central bank of the United States, provides
 the nation with a safe, flexible, and stable monetary and financial
@@ -498,7 +498,7 @@ Meet the Research
 
 ========== «Chromosome», glosario del Instituto Nacional de Investigación del Genoma Humano
 https://www.genome.gov/genetics-glossary/Chromosome
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 Chromosomes are threadlike structures made of protein and a single molecule of DNA that serve to carry the genomic information from cell to cell. In plants and animals (including humans), chromosomes reside in the nucleus of cells. Humans have 22 pairs of numbered chromosomes (autosomes) and one pair of sex chromosomes (XX or XY), for a total of 46. Each pair contains two chromosomes, one coming from each parent, which means that children inherit half of their chromosomes from their mother and half from their father. Chromosomes can be seen through a microscope when the nucleus dissolves during cell division. 
 Narration
@@ -538,7 +538,7 @@ HHS Vulnerability Disclosure
 
 ========== «CRISPR», glosario del Instituto Nacional de Investigación del Genoma Humano
 https://www.genome.gov/genetics-glossary/CRISPR
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 CRISPR (short for “clustered regularly interspaced short palindromic repeats”) is a technology that research scientists use to selectively modify the DNA of living organisms. CRISPR was adapted for use in the laboratory from naturally occurring genome editing systems found in bacteria.
 Narration
@@ -571,7 +571,7 @@ HHS Vulnerability Disclosure
 
 ========== Contactos del Banco Europeo de Inversiones
 https://www.eib.org/en/about/contact/index.htm
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 EIB Switchboard:
 Contact a member of staff in a specific service
@@ -634,7 +634,7 @@ Jobs@
 
 ========== Portada del festival Sónar
 https://sonar.es/es
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 Sónar - 18.19.20 Junio 2026
 Sónar en el mundo
@@ -677,7 +677,7 @@ Copyright © Advanced Music SL 2026
 
 ========== Museo Egipcio y Colección de Papiros, Museos Estatales de Berlín
 https://www.smb.museum/en/museums-institutions/aegyptisches-museum-und-papyrussammlung/home/
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 Bust of Nefertiti
 © Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung / Sandra Steiß
@@ -758,7 +758,7 @@ This website uses cookies. Those have two functions: On the one hand they are pr
 
 ========== Portada del Neues Museum, Museos Estatales de Berlín
 https://www.smb.museum/en/museums-institutions/neues-museum/home/
-Leída el 3 de septiembre de 2026.
+Leída el 2 de septiembre de 2026.
 
 u Berlin, Museum für Vor- und Frühgeschichte / Claudia Plamp
 Prehistory and early history
