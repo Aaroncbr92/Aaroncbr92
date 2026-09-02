@@ -15,6 +15,16 @@ cuadro 3**», que es lo que se puede comprobar y lo que el tribunal cita.
 | `UIT-R_BT.2100-1.pdf` y `.txt` | **Recomendación UIT-R BT.2100-1**, «Valores de los parámetros de imagen de los sistemas de televisión de elevada gama dinámica para la producción y el intercambio internacional de programas» | **06/2017** | Biblioteca pública de la UIT, `itu.int`, **versión en español** | 02/09/2026 |
 | `UIT-R_BT.601-7.pdf` y `.txt` | **Recomendación UIT-R BT.601-7**, «Parámetros de codificación de televisión digital para estudios con formatos de imagen normal 4:3 y de pantalla ancha 16:9» | **03/2011** | Biblioteca pública de la UIT, `itu.int`, **versión en español** | 02/09/2026 |
 | `SMPTE-ST-2110-indice.md` | Familia **SMPTE ST 2110**, índice con los títulos oficiales de cada parte | Índice vivo | Biblioteca abierta de la SMPTE, `pub.smpte.org/doc/2110/` | 02/09/2026 |
+| `AES-normas-de-audio.md` | La frase de la **AES** que identifica **AES3**, **AES10 (MADI)**, **AES14** y **AES67** | Página viva | `aes.org/publications/standards/` | 02/09/2026 |
+
+**Y una advertencia que salió de usarlas.** Al leer el cuadro 3 de la BT.601-7, la extracción
+automática de texto devolvía «**16,75 MHz**» donde la recomendación dice **6,75 MHz**: el «1»
+venía pegado de la fila superior. Se detectó porque **no cuadraba con el resto del cuadro** —720
+muestras de luminancia frente a 360 de cada diferencia de color exigen la mitad exacta de
+frecuencia— y **se confirmó recortando esa celda del PDF y ampliándola para leerla a ojo**.
+
+**Con una norma técnica en PDF, el texto extraído no es la fuente; la página lo es.** Los ficheros
+`.txt` de esta carpeta están para buscar; **la cifra que se publique hay que verla en el PDF**.
 
 ## Por qué justamente éstas
 
@@ -41,7 +51,9 @@ contestar sin inventar:
   examen queda **sin fuente de primer o segundo nivel**.
 - **EBU/UER**. `ebu.ch` responde **403** a cualquier petición automática. Ni los
   estatutos ni la sede ni el régimen de cuotas se han podido leer en su fuente.
-- **AES10 (MADI)**. El buscador de normas de la AES no responde.
+- **AES10 (MADI)**, su **texto**. El buscador de normas de la AES devuelve 404 y el documento
+  está tras un muro de pago. Lo que **sí** se consiguió es la **identidad** de la norma, publicada
+  por la propia AES: está en `AES-normas-de-audio.md`, con lo que se puede afirmar y lo que no.
 - **Fichas de fabricante**: LiveU (LU300S), Sony (HXR-NX80), DJI (RS 4 Pro),
   Astera (Titan Tube), Mo-sys. Las páginas de producto devuelven 404 en las rutas
   probadas.

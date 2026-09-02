@@ -209,6 +209,26 @@ en Documentación y en Producción (Asistencia).
       reforma del texto refundido anterior al 21/12/2022 es la del **artículo 177**, publicada
       el **30 de marzo de 2022**, que es literalmente el «texto consolidado BOE 30 de marzo de
       2022» que cita el Anexo 2. Entre esa fecha y el corte la ley no se volvió a tocar.
+- [x] **Tema 10 del específico de Producción (Asistencia)** —imagen y sonido: captación y
+      tratamiento— **cerrado**: 5.228 palabras, con esquema de repaso. Es **el primer tema del
+      proyecto sin norma jurídica detrás**, y por eso el primero que aplica entera la jerarquía de
+      fuentes: **siete de sus diecisiete preguntas tienen norma o recomendación**
+      —**UIT-R BT.601-7**, **UIT-R BT.2100-1**, **RD 2032/2009** y el **DB-HR** del Código
+      Técnico— y **las diez restantes se apoyan en la plantilla oficial y el uso profesional,
+      marcado una a una**. Las diecisiete se contestan con el tema delante
+      (`informes/cobertura-produccion-tema-10.md`).
+- [x] **Dos fuentes más, encontradas al escribirlo**: la definición del **tiempo de reverberación**
+      —caída de **60 dB**— no necesitaba la ISO 3382, está en el **anejo de terminología del
+      DB-HR** publicado en el BOE (`BOE-A-2007-18400`); y la **AES**, aunque no deja leer la
+      AES10, publica la frase que identifica **MADI = AES10**.
+- [x] **Cazado un error de la fuente, no del tema**: la extracción de texto del PDF de la
+      BT.601-7 daba «**16,75 MHz**» donde la recomendación dice **6,75 MHz**. Saltó porque no
+      cuadraba con el resto del cuadro —720 frente a 360 muestras—, y se confirmó **recortando y
+      ampliando esa celda del PDF para leerla a ojo**. Con una norma técnica en PDF, **el texto
+      extraído no es la fuente; la página lo es**.
+- [x] **Quitadas del tema 10 dos cifras que no tenían fuente** —las frecuencias de muestreo de
+      audio de estudio—: eran correctas y habrían pasado desapercibidas, pero **no estaban
+      comprobadas** y ninguna pregunta las pedía. Apartado 1 del manual aplicado tal cual.
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
       (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
@@ -292,9 +312,9 @@ en Documentación y en Producción (Asistencia).
       **Con eso se cierran los dos únicos temas del específico de Producción que tienen norma del
       BOE detrás**, y con ellos las 15 de las 129 preguntas en que el método funciona entero.
       **Siguiente**: los quince restantes, que hay que documentar antes de escribir.
-- [ ] **Escribir los quince temas que quedan de Producción**, empezando por el **10** —el mejor
-      servido de fuentes ya en casa— y el **9**, que es el más pesado. El inventario de lo que
-      necesita cada uno está en `informes/materiales-del-especifico-2026-09-02.md`.
+- [ ] **Escribir los catorce temas que quedan de Producción.** **Hecho el 10**; el siguiente es
+      el **9**, el más pesado, con 20 preguntas. El inventario de lo que necesita cada uno está en
+      `informes/materiales-del-especifico-2026-09-02.md`.
 - [ ] **Rematar el material que falta**: probar la **ISO 3382** para el RT60, la **AES10** para
       MADI, las normas **ETSI** del DVB, y tirar del hilo del BOE para el tema 15 —Ley 46/1983,
       Ley 10/1998 y Ley 7/2010— antes de dar por perdidos FORTA y UTECA.
@@ -320,6 +340,7 @@ escribe. Se rellena desde los ficheros de `informes/`, no de memoria.
 | PRL del específico (P18/D7/I11) | sí | sí | sí | sí | sí | sí, limpia | 35 de 40 enteras, 1 con matiz, 5 fuera de tema |
 | Producción 2 · Propiedad intelectual | sí | sí | sí | sí | sí | sí, 13 falsos positivos declarados | 10 de 10 enteras |
 | Producción 17 · Protección de datos | sí | sí | sí | sí | sí | sí, 6 falsos positivos declarados | 5 de 5 enteras |
+| Producción 10 · Imagen y sonido | sí | sí | sí | sí | sí | sí, limpia (lente de documento) | 17 de 17 enteras |
 
 **El tema 1 está cerrado**, con su esquema en `esquemas/general/`. La lista del
 apartado 13 del manual, repasada punto por punto, está al final de

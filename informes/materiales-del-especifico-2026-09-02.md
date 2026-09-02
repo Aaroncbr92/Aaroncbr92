@@ -28,7 +28,7 @@ así se reparten:
 | Tema | Preguntas | Estado |
 |---|---|---|
 | 9 · Escenografía e iluminación | **20** | Por escribir |
-| 10 · Imagen y sonido | **17** | Por escribir |
+| 10 · Imagen y sonido | **17** | **Escrito** |
 | 2 · Propiedad intelectual | 10 | **Escrito** |
 | 11 · Medios de transmisión de señal | 10 | Por escribir |
 | 13 · Equipos técnicos de exteriores | 7 | Por escribir |
@@ -179,13 +179,40 @@ Dos anclas que sí existen y hay que aprovechar:
   llega al detalle de «figurinista» o «forillista», pero sitúa el marco.
 - El **artículo 38 del mismo convenio**, con los **trece ámbitos ocupacionales**.
 
+## Actualización del mismo día: el tema 10, escrito
+
+**Hecho el primero de los quince.** Al escribirlo aparecieron dos fuentes más y se
+cerró una duda del inventario:
+
+- **El tiempo de reverberación no necesitaba la ISO 3382.** La definición —caída
+  de **60 dB**— está publicada en el BOE: es el **anejo de terminología del
+  Documento Básico DB-HR** del Código Técnico de la Edificación, aprobado por el
+  **Real Decreto 1371/2007** (`BOE-A-2007-18400`). Guardado el extracto en
+  `fuentes/corte-20221221/BOE-A-2007-18400.preceptos.md`, con los dos avisos que
+  hay que dar: **regula edificios, no platós**, y es **el texto de 2007**, cuyas
+  dos modificaciones se han revisado y **no tocan esta definición**.
+- **La AES10 sigue tras un muro de pago**, pero la **propia AES** publica en la
+  presentación de sus normas la frase que basta para lo que el examen pregunta:
+  «AES3 (2-channel digital audio), **AES10 (MADI)**, AES14…». Guardada en
+  `fuentes/normas-tecnicas/AES-normas-de-audio.md`, con lo que **sí** y lo que
+  **no** se puede afirmar con ella.
+- **Un error de extracción, cazado y corregido.** El texto sacado del PDF de la
+  BT.601-7 daba «16,75 MHz» donde la recomendación dice **6,75 MHz**. Saltó porque
+  no cuadraba con el resto del cuadro, y **se confirmó recortando y ampliando esa
+  celda para leerla a ojo**. Lección para este nivel de la jerarquía: **con una
+  norma técnica en PDF, el texto extraído no es la fuente; la página lo es**.
+
+De las **17 preguntas** del tema, **7 tienen norma o recomendación detrás** y las
+otras **10 se apoyan en la plantilla oficial y en el uso profesional**, marcado una
+a una. Es exactamente la proporción que este informe anticipaba.
+
 ## Lo siguiente
 
-1. **Escribir el tema 10**, que es el que más preguntas tiene con fuente ya en
-   casa, y de paso probar la **ISO 3382** y la **AES10**.
-2. **Escribir el tema 9**, el más pesado, aceptando que dos de sus tres bloques
-   irán al cuarto y quinto nivel de la jerarquía, dicho en el propio tema.
-3. **Tirar del hilo del BOE para el tema 15** antes de resignarse: Ley 46/1983,
+1. **Escribir el tema 9**, el más pesado —20 preguntas—, aceptando que dos de sus
+   tres bloques irán al cuarto y quinto nivel de la jerarquía, dicho en el propio
+   tema. Tiene ya en casa el **RD 2032/2009** para las unidades de luz y el **RD
+   842/2002** para la toma de tierra de los practicables.
+2. **Tirar del hilo del BOE para el tema 15** antes de resignarse: Ley 46/1983,
    Ley 10/1998 y Ley 7/2010 pueden sostener FORTA y UTECA.
-4. Probar **ETSI** para el DVB y las **fichas de fabricante** restantes una a una,
+3. Probar **ETSI** para el DVB y las **fichas de fabricante** restantes una a una,
    y anotar el resultado aquí mismo.
