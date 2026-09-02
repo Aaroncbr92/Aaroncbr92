@@ -1,0 +1,197 @@
+Fuentes del tema 5 del específico de Información y Contenidos: el Real Decreto-ley
+4/2018 en su texto original y la sentencia que anuló dos de sus piezas. El texto
+consolidado a la fecha de corte está en `../corte-20221221/BOE-A-2018-8577.md`.
+
+========== Real Decreto-ley 4/2018, de 22 de junio — TEXTO ORIGINAL PUBLICADO
+BOE-A-2018-8577 · https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-8577
+Descargado el 2 de septiembre de 2026.
+
+POR QUÉ HACE FALTA EL ORIGINAL: el texto consolidado dice «(Anulado)» donde
+estaban el apartado 3 del artículo único y la disposición final primera. Para
+contar qué se anuló hay que leer lo que decían, y eso sólo está en el original.
+
+DISPONGO:
+Artículo único.
+1. Hasta el nombramiento de los miembros del Consejo de Administración de la Corporación RTVE y del Presidente de la Corporación RTVE y del Consejo de acuerdo con lo previsto en las disposiciones transitorias de la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, para recuperar la independencia de la Corporación RTVE y el pluralismo en la elección parlamentaria de sus órganos, las Cortes Generales elegirán a los consejeros que deberán sustituir a aquellos cuyo mandato ha expirado conforme a lo previsto en el presente real decreto-ley.
+Las Cámaras elegirán en el plazo de quince días naturales desde la entrada en vigor del presente real decreto ley, a los diez consejeros previstos en el apartado 1 del artículo 10 de la Ley 17/2006, de 5 junio, de la radio y la televisión de titularidad estatal y, de acuerdo con el reparto entre las Cámaras, previsto en el apartado 1 del artículo 11 de la misma ley.
+Asimismo, una vez elegidos los consejeros, el Congreso de los Diputados designará, en el mismo plazo de quince días naturales, al consejero que desempeñará el cargo de Presidente de la Corporación RTVE y del Consejo, en el caso de que haya finalizado el mandato del mismo.
+2. La mayoría necesaria en la elección de los consejeros y, en su caso, del Presidente regulada en el presente artículo, será la prevista en el párrafo segundo de la disposición transitoria primera de la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, para recuperar la independencia de la Corporación RTVE y el pluralismo en la elección parlamentaria de sus órganos, con excepción del plazo previsto para la segunda votación, en el caso de no alcanzarse la mayoría de dos tercios en la primera votación. En ese supuesto, el plazo será de cuarenta y ocho horas y la propuesta de candidatura deberá obtener la mayoría absoluta, así como proceder de, al menos, la mitad de los grupos parlamentarios de la Cámara que corresponda.
+3. Transcurrido el plazo de quince días naturales previsto en el párrafo segundo del apartado 1, si el Senado no hubiera elegido a los consejeros que le corresponden, el Congreso de los Diputados podrá, excepcionalmente y en el plazo de diez días naturales adicionales, proceder a la elección de estos. Dicha elección respetará las candidaturas que, en su caso, ya se hubieran presentado en el Senado.
+4. El mandato de los consejeros y del Presidente elegidos de acuerdo con lo previsto en este artículo finalizará cuando sean nombrados los consejeros y el Presidente por el procedimiento previsto en las disposiciones transitorias de la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, para recuperar la independencia de la Corporación RTVE y el pluralismo en la elección parlamentaria de sus órganos
+5. Los consejeros y, en su caso, el Presidente elegidos de acuerdo con lo previsto en este artículo podrán ser renovados.
+6. Transcurrido el plazo de quince días naturales al que se refiere el apartado 1 o cualquier otro plazo referido al Congreso de los Diputados en este artículo, si dicha Cámara no hubiera procedido a la elección de los consejeros que le corresponden, el Gobierno propondrá el nombramiento de un administrador provisional único para la Corporación, que será sometido al Pleno del Congreso de los Diputados. La elección de dicho administrador en el Pleno del Congreso de los Diputados requerirá la obtención de la mayoría de dos tercios en primera votación. En el caso de no alcanzarse dicha mayoría, la propuesta será sometida de nuevo al Pleno de la Cámara, en el plazo de cuarenta y ocho horas. En esta segunda votación, la mayoría necesaria será la mayoría absoluta del Congreso de los Diputados.
+El administrador provisional único se encargará de la administración y representación de la Corporación hasta que se produzcan los nombramientos de los consejeros de acuerdo con la normativa a la que se refiere la disposición transitoria segunda de la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, para recuperar la independencia de la Corporación RTVE y el pluralismo en la elección parlamentaria de sus órganos. En el ejercicio de sus funciones, ostentará las competencias que la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, atribuye al Consejo de Administración y al Presidente de la Corporación RTVE y del Consejo.
+Disposición final primera.
+La disposición transitoria segunda de la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, para recuperar la independencia de la Corporación RTVE y el pluralismo en la elección parlamentaria de sus órganos, queda redactada del siguiente modo:
+1. Las Cortes Generales aprobarán, en el plazo de los tres meses siguientes a la entrada en vigor de esta Ley, la normativa que contemple la selección de los miembros del Consejo de Administración y del Presidente de la Corporación RTVE y del Consejo por concurso público con la participación de un Comité de Expertos.
+El Comité de Expertos estará compuesto por personas de reconocida competencia profesional, docente o investigadora en el ámbito de la comunicación y con experiencia acreditada en el mismo no inferior a diez años. Se respetará el principio de presencia equilibrada de mujeres y hombres.
+Los miembros del Comité de Expertos serán designados en una sesión de la Comisión Mixta de Control Parlamentario de la Corporación RTVE y sus Sociedades en el plazo de diez días desde la convocatoria del concurso. Cada Grupo Parlamentario con al menos un representante en la Comisión Mixta podrá designar a una persona para su nombramiento como experto. Adicionalmente, cada miembro de la Comisión Mixta podrá proponer la designación de otra persona, siendo nombradas aquellas que hayan sido propuestas, al menos, por cuatro miembros.
+En el caso de renuncia por parte de alguna de las personas designadas, el Comité se constituirá con aquellas que hubieran aceptado el nombramiento.
+Este Comité hará públicos sus informes de evaluación y serán remitidos a la Comisión competente para la correspondiente audiencia de los candidatos.
+2. Una vez emitido el informe por parte del Comité de Expertos, se convocará la Comisión del Congreso de los Diputados que resulte competente para realizar las comparecencias previstas en la ley. Tras la elección de los vocales en el Pleno del Congreso de los Diputados, se procederá a la convocatoria de la Comisión competente del Senado para realizar las comparecencias de los candidatos que no hubieran sido elegidos por el Pleno del Congreso de los Diputados. A continuación, y, de acuerdo con el Reglamento del Senado, se procederá a la votación en el Pleno de la Cámara.
+3. En tanto no se elijan los Consejeros y el Presidente de acuerdo con la normativa contemplada en los apartados anteriores, la elección y las comparecencias previstas en el artículo 11 de la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, se llevarán a cabo con arreglo al procedimiento vigente.
+Disposición final segunda. Entrada en vigor.
+Este real decreto-ley entrará en vigor el día de su publicación en el «Boletín Oficial del Estado».
+Dado en Madrid, el 22 de junio de 2018.
+FELIPE R.
+El Presidente del Gobierno,
+PEDRO SÁNCHEZ PÉREZ-CASTEJÓN
+Análisis
+ANÁLISIS
+Rango: Real Decreto-ley
+Fecha de disposición: 22/06/2018
+Fecha de publicación: 23/06/2018
+Fecha de entrada en vigor: 23/06/2018
+Referencias posteriores
+Criterio de ordenación:
+por contenido
+por fecha
+SE DECLARA:
+en el Recurso 4129/2018, la pérdida sobrevenida del objeto, en los términos del fj 2 a), en relación al art. único. 3 y la disposición final 1, por Sentencia 45/2023, de 10 de mayo (Ref. 
+BOE-A-2023-13956
+).
+en el Recurso 3883/20218, la inconstitucionalidad y nulidad del art. único.3 con los efectos del fj 4.c) y la disposición final 1 con los efectos del fj 3, por Sentencia 134/2021, de 24 de junio (Ref. 
+BOE-A-2021-13018
+).
+SE PUBLICA Acuerdo de convalidación, por Resolución de 4 de julio de 2018 (Ref. 
+BOE-A-2018-9704
+).
+Referencias anteriores
+MODIFICA la disposición transitoria 2 de la Ley 5/2017, de 29 de septiembre (Ref. 
+BOE-A-2017-11091
+).
+DE CONFORMIDAD con la Ley 17/2006, de 5 de junio (Ref. 
+BOE-A-2006-9958
+).
+Materias
+Comités consultivos
+Cortes Generales
+Nombramientos
+Organización de la Administración del Estado
+Radiotelevisión Española
+Representación
+Sociedades públicas
+========== Sentencia del Tribunal Constitucional 134/2021, de 24 de junio
+BOE-A-2021-13018 · https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-13018
+Descargada el 2 de septiembre de 2026. Se recortan el fallo y los dos pasajes de
+los fundamentos jurídicos que lo razonan.
+
+FALLO
+En atención a todo lo expuesto, el Tribunal Constitucional, POR LA AUTORIDAD QUE LE CONFIERE LA CONSTITUCIÓN DE LA NACIÓN ESPAÑOLA,
+Ha decidido
+Estimar parcialmente el recurso de inconstitucionalidad interpuesto por más de cincuenta diputados del Grupo Parlamentario Popular en el Congreso de los Diputados y, en consecuencia:
+1.º Declarar inconstitucional y nula la disposición final primera del Real Decreto-ley 4/2018, de 22 de junio, por el que se concreta, con carácter urgente, el régimen jurídico aplicable a la designación del consejo de administración de la Corporación RTVE y de su presidente, con los efectos previstos en el fundamento jurídico tercero.
+2.º Declarar inconstitucional y nulo el apartado tercero, del artículo único del Real Decreto-ley 4/2018, de 22 de junio, por el que se concreta, con carácter urgente, el régimen jurídico aplicable a la designación del consejo de administración de la Corporación RTVE y de su presidente, con los efectos previstos en el fundamento jurídico cuatro c).
+3.º Desestimar el recurso en todo lo demás.
+Publíquese esta sentencia en el «Boletín Oficial del Estado».
+Dada en Madrid, a veinticuatro de junio de dos mil veintiuno.–Juan José González Rivas.–Encarnación Roca Trías.–Andrés Ollero Tassara.–Santiago Martínez-Vares García.–Juan Antonio Xiol Ríos.–Antonio Narváez Rodríguez.–Alfredo Montoya Melgar.–Ricardo Enríquez Sancho.–Cándido Conde-Pumpido Tourón.–María Luisa Balaguer Callejón.–Firmado y rubricado.
+Voto particular que for
+[…]
+la razón anteriormente expresada, pues su contenido está dirigido a detallar o precisar aspectos puntuales de la preexistente regulación de la disposición transitoria segunda de la Ley 5/2017 y no se refiere al procedimiento excepcional al que se dedica el art. único, precisamente para desplazar, siquiera provisionalmente, al previsto en la citada disposición transitoria segunda.
+La conclusión es, por tanto, la misma que, para un caso similar, ya se alcanzó en la STC 61/2018, FJ 6, en la que se afirmó que «[p]uesto que "la causa justificativa del Decreto-ley –la situación de extraordinaria y urgente necesidad– ha de ser explicitada por el propio Gobierno" (STC 125/2016, de 7 de julio, FJ 2), su carencia determina que no podamos apreciar la concurrencia del presupuesto habilitante que los diputados recurrentes niegan, el Gobierno no acredita y este tribunal no puede presumir».
+Por tanto, debemos declarar la inconstitucionalidad y nulidad de la disposición final primera del Real Decreto-ley 4/2018 por vulnerar el art. 86.1 CE. Ahora bien, los efectos de este pronunciamiento son meramente declarativos.
+La disposición declarada inconstitucional modificaba, como se ha expuesto previamente, la disposición transitoria segunda de la Ley 5/2017, de 29 de septiembre, que se limitaba a prever, en su apartado primero, que las Cortes Generales aprobarían «en el plazo de los tres meses siguientes a la entrada en vigor de esta Ley, la normativa que contemple la selección de los miembros del consejo de administración y del presidente de la Corporación RTVE por concurso público con la participación de un comité de expertos designados por los grupos parlamentarios. Este Comité hará públicos sus informes de evaluación y serán remitidos a la comisión competente para la correspondiente audi
+[…]
+[NO ENCONTRADO]
+[…]
+ceso. En el caso del apartado tercero, la previsión subsidiaria de nombramiento por el Congreso de los cuatro miembros del consejo de administración que corresponde designar al Senado, hace que el legislador de urgencia prive al Senado de su potestad de designación y, con ello, de una de las manifestaciones del control que dicha Cámara ha de desarrollar en cumplimiento del art. 20.3 CE. Esta modificación altera de modo sustantivo uno de los elementos esenciales del control parlamentario de la Corporación RTVE, esto es, que en la designación de los miembros de su consejo de administración concurran ambas cámaras, tal como, por otra parte, se regula en la Ley 17/2006 y en los actos parlamentarios que la han desarrollado, lo que, por implicar «afectación» en el sentido que a este concepto le atribuye la doctrina constitucional, está vedado a esta modalidad de disposición con fuerza de ley.
+Se prescinde del Senado, cuando se trata de una de las facultades que encuentran su fundamento último, no solo en el art. 20.3 CE, sino también en la garantía del pluralismo político en tanto que valor superior del ordenamiento. Se cuestiona con ello la defensa del interés público atribuido a las Cortes Generales en general y, en particular al Senado, en el ejercicio de la función de control a la que se refiere el art. 20.3 CE, lo que debe llevar a apreciar la infracción del límite material del art. 86.1 CE que había sido alegada por los recurrentes.
+En consecuencia, el apartado tercero del art. único del Real Decreto-ley 4/2018 es inconstitucional y nulo. Los efectos de este pronunciamiento, tal y como se estableció en relación con la disposición final, son meramente declarativos, por una razón adicional. El apartado primero del artículo único del Decreto-ley impugnado dispone en su primer párrafo, que «hasta el nombramiento de los miembros del consejo de administración de la Corporación RTVE y del presidente de la Corporación RTVE y del consejo de acuerdo con lo previsto en las disposiciones transitorias de la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley 17/2006
+[…]
+n del excepcional y provisional procedimiento de designación que se contiene en el art. único, a fin de permitir la inmediata constitución de los órganos rectores de la Corporación. Pero específicamente sobre la disposición final primera no hay conexión de sentido, ni se vincula a la razón anteriormente expresada, pues su contenido está dirigido a detallar o precisar aspectos puntuales de la preexistente regulación de la disposición transitoria segunda de la Ley 5/2017 y no se refiere al procedimiento excepcional al que se dedica el art. único, precisamente para desplazar, siquiera provisionalmente, al previsto en la citada disposición transitoria segunda.
+La conclusión es, por tanto, la misma que, para un caso similar, ya se alcanzó en la STC 61/2018, FJ 6, en la que se afirmó que «[p]uesto que "la causa justificativa del Decreto-ley –la situación de extraordinaria y urgente necesidad– ha de ser explicitada por el propio Gobierno" (STC 125/2016, de 7 de julio, FJ 2), su carencia determina que no podamos apreciar la concurrencia del presupuesto habilitante que los diputados recurrentes niegan, el Gobierno no acredita y este tribunal no puede presumir».
+Por tanto, debemos declarar la inconstitucionalidad y nulidad de la disposición final primera del Real Decreto-ley 4/2018 por vulnerar el art. 86.1 CE. Ahora bien, los efectos de este pronunciamiento son meramente declarativos.
+La disposición declarada inconstitucional modificaba, como se ha expuesto previamente, la disposición transitoria segunda de la Ley 5/2017, de 29 de septiembre, que se limitaba a prever, en su apartado primero, que las Cortes Generales aprobarían «en el plazo de los tres meses siguientes a la entrada en vigor de esta Ley, la normativa que contemple la selección de los miembros del consejo de admini
+[…]
+erno y arts. 112 a 114 respecto a la cuestión de confianza y la moción de censura, y, por lo que hace al Senado, art. 155 en punto a la autorización al Gobierno a la que se refiere el mencionado precepto constitucional) y, en otras ocasiones, de la legislación aplicable al caso concreto. La propia Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, residencia determinadas atribuciones relacionadas con las que ahora se discuten en una de las Cámaras, el Congreso de los Diputados. Así sucede, por ejemplo, con la apreciación de las causas de cese de los consejeros previstas en el art. 13.1, apartados c) (separación a propuesta del consejo de administración, por causa de incapacidad permanente para el ejercicio del cargo, condena firme por cualquier delito doloso, incompatibilidad sobrevenida, o por acuerdo motivado) y d) (decisión del Congreso de los Diputados), en ambos casos por mayoría de dos tercios, o con la designación del consejero que ha de ser nombrado presidente del consejo de administración de la Corporación RTVE (art. 17).
+Atendiendo a lo anterior, la diferencia que la norma establece respecto a las atribuciones de ambas cámaras en punto al nombramiento del administrador único, en el apartado sexto del art. único no puede tacharse de inconstitucional, por cuanto entra dentro del margen de configuración del legislador al que compete regular la intervención de las Cortes Generales en esta designación. La Constitución remite a la ley la regul
+
+========== Ley 17/2006 — preceptos que el RDL 4/2018 invoca
+Volcados con `herramientas/boe.py` el 2 de septiembre de 2026, redacción vigente
+al 21 de diciembre de 2022.
+
+---------- a10
+REDACCIÓN APLICABLE, vigente a 20221221 (vigencia 20171001, publicada 20170930, por BOE-A-2017-11091)
+------------------------------------------------------------------------
+Artículo 10. Composición.
+1. El Consejo de Administración de la Corporación RTVE estará compuesto por diez miembros, todos ellos personas con suficiente cualificación y experiencia profesional, respetando el principio de presencia equilibrada de mujeres y hombres en su composición, tal y como establece la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+2. Los acuerdos del Consejo de Administración se adoptarán por mayoría de sus miembros, salvo en los supuestos en que se exija mayoría cualificada por la presente Ley o por los estatutos sociales.
+
+---------- a11
+REDACCIÓN APLICABLE, vigente a 20221221 (vigencia 20171001, publicada 20170930, por BOE-A-2017-11091)
+------------------------------------------------------------------------
+Artículo 11. Elección.
+1. Los miembros del Consejo de Administración serán elegidos por las Cortes Generales, a razón de seis por el Congreso de los Diputados y cuatro por el Senado.
+2. (Suprimido).
+3. Los candidatos propuestos deberán comparecer previamente en audiencia pública en el Congreso y el Senado, en la forma que reglamentariamente se determine, con el fin de que ambas Cámaras puedan informarse de su idoneidad para el cargo. Su elección requerirá una mayoría de dos tercios de la Cámara correspondiente.
+4. El Congreso de los Diputados designará, de entre los diez consejeros electos, al que desempeñará el cargo de Presidente de la Corporación RTVE y del Consejo. Tal designación requerirá una mayoría de dos tercios de la Cámara.
+5. No serán elegibles como miembros del Consejo de Administración de la Corporación RTVE los cesados en los supuestos previstos en el artículo 13 de esta Ley.
+
+---------- a12
+REDACCIÓN APLICABLE, vigente a 20221221 (vigencia 20171001, publicada 20170930, por BOE-A-2017-11091)
+------------------------------------------------------------------------
+Artículo 12. Mandato.
+1. El mandato de los consejeros será de seis años contados desde su nombramiento. Este mandato no será renovable. Agotado el mandato, los consejeros salientes continuarán en sus funciones hasta el nombramiento de los nuevos.
+2. Si durante el periodo de sus respectivos mandatos se produjera el cese de alguno de los miembros del Consejo de Administración, las personas designadas para sustituirles lo serán por el tiempo que reste del mandato de su antecesor. Las vacantes deberán ser cubiertas por las Cámaras a propuesta de los grupos parlamentarios.
+3. El Consejo de Administración se renovará parcialmente por mitades, cada tres años, por cuotas iguales en razón del origen de su propuesta.
+
+---------- a13
+REDACCIÓN APLICABLE, vigente a 20221221 (vigencia 20060607, publicada 20060606, por BOE-A-2006-9958)
+------------------------------------------------------------------------
+Artículo 13. Cese.
+1. Los consejeros cesarán en su cargo por:
+a) Renuncia expresa notificada fehacientemente a la Corporación RTVE.
+b) Expiración del término de su mandato.
+c) Separación aprobada por el Congreso de los Diputados por mayoría de dos tercios, a propuesta del Consejo de Administración, por causa de incapacidad permanente para el ejercicio del cargo, condena firme por cualquier delito doloso, incompatibilidad sobrevenida, o por acuerdo motivado. La formulación de la propuesta por el Consejo de Administración requerirá una mayoría de dos tercios de sus miembros y exigirá la previa instrucción de un expediente.
+d) Decisión del Congreso de los Diputados por mayoría de dos tercios de sus miembros.
+2. Todos los miembros del Consejo de Administración cesarán en el caso de:
+a) Que concurra causa de reducción obligatoria del capital social por pérdidas de conformidad con lo establecido en el Real Decreto Legislativo 1564/1989, de 22 de diciembre, por el que se aprueba el texto refundido de la Ley de Sociedades Anónimas.
+b) Que como consecuencia de pérdidas quede reducido el patrimonio a una cantidad inferior a la mitad del capital social.
+c) Que de la liquidación del presupuesto anual de la corporación RTVE se constate la concurrencia de las siguientes circunstancias:
+i. Un empeoramiento del resultado presupuestado con una desviación igual o superior al 10% de la compensación aprobada por la prestación del servicio público.
+ii. La existencia de una desviación presupuestaria por exceso igual o superior al 10 % de las cifras aprobadas para el total de las dotaciones tanto del presupuesto de explotación como del presupuesto de capital, excluidos del cómputo del primero los impuestos y los resultados, y del segundo la variación del capital circulante.
+En los supuestos de cese del Consejo de Administración previstos en este apartado, la Junta general de accionistas designará un administrador único que se hará cargo de la gestión ordinaria de la Corporación RTVE hasta el momento de la constitución de un nuevo Consejo de Administración elegido por las Cortes Generales.
+
+---------- a17
+REDACCIÓN APLICABLE, vigente a 20221221 (vigencia 20060607, publicada 20060606, por BOE-A-2006-9958)
+------------------------------------------------------------------------
+Artículo 17. El Presidente del Consejo de Administración y de la Corporación RTVE.
+1. El Consejo de Administración de la Corporación nombrará como Presidente al consejero designado para tal cargo por el Congreso de los Diputados de conformidad con lo dispuesto en el artículo 11.4.
+Sin perjuicio de las especialidades que se establezcan, al Presidente le será aplicable el estatuto personal previsto en esta Ley para los consejeros. El cese del Presidente se regirá por lo dispuesto en el artículo 13.
+2. El Presidente del Consejo de Administración asumirá la representación institucional del Consejo y de la Corporación RTVE, además de las atribuciones que le confieran la presente ley y los estatutos sociales.
+3. El Presidente convocará las reuniones del Consejo de Administración de conformidad con lo previsto en los estatutos sociales y tendrá voto dirimente en caso de empate.
+
+
+========== Ley 5/2017 — disposiciones transitorias que el RDL 4/2018 invoca y modifica
+Volcadas con `herramientas/boe.py` el 2 de septiembre de 2026, redacción vigente
+al 21 de diciembre de 2022.
+ATENCIÓN: la disposición transitoria segunda conserva EN EL TEXTO CONSOLIDADO la
+redacción que le dio la disposición final primera del RDL 4/2018, ANULADA por la
+STC 134/2021, y el BOE lo advierte con una nota al pie del precepto.
+
+---------- dt
+REDACCIÓN APLICABLE, vigente a 20221221 (vigencia 20171001, publicada 20170930, por BOE-A-2017-11091)
+------------------------------------------------------------------------
+Disposición transitoria primera.
+Con el fin de adaptar la composición del número de miembros del Consejo de Administración de la Corporación RTVE a lo dispuesto en la presente Ley, se procederá en el plazo previsto en la disposición transitoria segunda y tras la posterior aprobación de la normativa correspondiente, a la selección primero de los candidatos y a la posterior elección de un nuevo Consejo de Administración y de un nuevo Presidente de la Corporación RTVE y del Consejo.
+Para esta elección de los nuevos cargos, si en una primera votación no se alcanzare la mayoría de dos tercios, estos podrán ser elegidos por mayoría absoluta en votación posterior efectuada en un plazo no inferior a quince días y siempre que su candidatura hubiera sido propuesta por, al menos, la mitad de los grupos parlamentarios de la Cámara que corresponda.
+
+---------- dt-2
+REDACCIÓN APLICABLE, vigente a 20221221 (vigencia 20210731, publicada 20210731, por BOE-A-2021-13018)
+------------------------------------------------------------------------
+Disposición transitoria segunda.
+1. Las Cortes Generales aprobarán, en el plazo de los tres meses siguientes a la entrada en vigor de esta Ley, la normativa que contemple la selección de los miembros del Consejo de Administración y del Presidente de la Corporación RTVE y del Consejo por concurso público con la participación de un Comité de Expertos.
+El Comité de Expertos estará compuesto por personas de reconocida competencia profesional, docente o investigadora en el ámbito de la comunicación y con experiencia acreditada en el mismo no inferior a diez años. Se respetará el principio de presencia equilibrada de mujeres y hombres.
+Los miembros del Comité de Expertos serán designados en una sesión de la Comisión Mixta de Control Parlamentario de la Corporación RTVE y sus Sociedades en el plazo de diez días desde la convocatoria del concurso. Cada Grupo Parlamentario con al menos un representante en la Comisión Mixta podrá designar a una persona para su nombramiento como experto. Adicionalmente, cada miembro de la Comisión Mixta podrá proponer la designación de otra persona, siendo nombradas aquellas que hayan sido propuestas, al menos, por cuatro miembros.
+En el caso de renuncia por parte de alguna de las personas designadas, el Comité se constituirá con aquellas que hubieran aceptado el nombramiento.
+Este Comité hará públicos sus informes de evaluación y serán remitidos a la Comisión competente para la correspondiente audiencia de los candidatos.
+2. Una vez emitido el informe por parte del Comité de Expertos, se convocará la Comisión del Congreso de los Diputados que resulte competente para realizar las comparecencias previstas en la ley. Tras la elección de los vocales en el Pleno del Congreso de los Diputados, se procederá a la convocatoria de la Comisión competente del Senado para realizar las comparecencias de los candidatos que no hubieran sido elegidos por el Pleno del Congreso de los Diputados. A continuación, y, de acuerdo con el Reglamento del Senado, se procederá a la votación en el Pleno de la Cámara.
+3. En tanto no se elijan los Consejeros y el Presidente de acuerdo con la normativa contemplada en los apartados anteriores, la elección y las comparecencias previstas en el artículo 11 de la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, se llevarán a cabo con arreglo al procedimiento vigente.
+Téngase en cuenta la declaración de inconstitucionalidad y nulidad, con los efectos previstos en el fundamento jurídico 3º, de la disposición final 1 del Real Decreto-ley 4/2018, de 22 de junio, que dio la redacción a esta disposición, Ref. BOE-A-2018-8577#df por la Sentencia del TC 134/2021, de 24 de junio. Ref. BOE-A-2021-13018
+
+---------- dt-3
+REDACCIÓN APLICABLE, vigente a 20221221 (vigencia 20171001, publicada 20170930, por BOE-A-2017-11091)
+------------------------------------------------------------------------
+Disposición transitoria tercera.
+No obstante lo dispuesto en el apartado 1 del artículo 12 de la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, y solo para la primera elección conforme al nuevo procedimiento establecido, los consejeros podrán ser renovados.
+
