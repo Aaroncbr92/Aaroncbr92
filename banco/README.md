@@ -1,6 +1,6 @@
 # Banco de preguntas del bloque común
 
-**510 preguntas reales** —480 del temario general y 30 del tema de prevención del
+**509 preguntas reales** —479 del temario general y 30 del tema de prevención del
 específico— sacadas de los cuadernillos de la convocatoria 1/2022 (pruebas de
 octubre y noviembre de 2024), **todas con la respuesta de la plantilla oficial**.
 
@@ -10,7 +10,7 @@ entre ocupaciones: está comprobado en `informes/preguntas-repetidas.md`.
 
 | Fichero | Materia | Preguntas |
 |---|---|---|
-| `g1.md` | Constitución | 117 |
+| `g1.md` | Constitución | 116 |
 | `g2-g3.md` | Ley 17/2006 y Ley 5/2017 | 53 |
 | `g4.md` | Ley 8/2009, financiación | 35 |
 | `g5.md` | III Convenio Colectivo | 118 |
@@ -32,13 +32,25 @@ regenerarlos. La lección es del apartado 10 del manual: **un total correcto no
 prueba que sus sumandos lo sean**, y la cifra que se publica hay que sacarla de
 contar, no de copiar.
 
+Y una salió el **2026-09-03**, al repartir el bloque específico de
+**Documentación**: la pregunta 26 de su cuadernillo —la doctrina del Tribunal
+Constitucional sobre el contenido generado por los usuarios en redes sociales—.
+La clasificación por palabras clave la había puesto en Constitución, y **el propio
+informe del tema 1 ya la declaraba «fuera del tema, con razón»**; pero seguía
+imprimiéndose en el volumen general. Ahora está donde le toca: en el punto 3.8 del
+temario de Documentación, «redes sociales y contenido generado por el usuario».
+
 Se regenera con `herramientas/banco.py`. **Las correcciones no se hacen sobre
 estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 ## Y el banco del bloque **específico**
 
-**123 preguntas**, repartidas entre los diecisiete temas del Anexo 2 de Producción
-(Asistencia) y **todas con su respuesta oficial**.
+Hay uno por ocupación tipo. Los dos que existen suman **205 preguntas**, todas con
+su respuesta oficial.
+
+### Producción (Asistencia)
+
+**123 preguntas**, repartidas entre los diecisiete temas de su Anexo 2.
 
 | Fichero | Tema | Preguntas |
 |---|---|---|
@@ -60,8 +72,27 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 | `produccion-16.md` | 16 · Gestión de servicios varios | 3 |
 | `produccion-17.md` | 17 · Protección de datos | 5 |
 
-Se regenera con `herramientas/banco_especifico.py`, y **el reparto se escribe a
-mano** en `especifico-produccion.tsv`, una fila por pregunta y con el motivo al
+### Documentación
+
+**82 preguntas** del cuadernillo de octubre de 2024, repartidas entre los **seis
+temas** de su Anexo 2 —el séptimo, el de prevención, es el que ya comparten las
+tres ocupaciones y está en `prl-especifico.md`—.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `documentacion-01.md` | 1 · Historia de RTVE | 11 |
+| `documentacion-02.md` | 2 · Documentación y tecnologías de la información | 9 |
+| `documentacion-03.md` | 3 · Internet | 8 |
+| `documentacion-04.md` | 4 · Inteligencia artificial | 4 |
+| `documentacion-05.md` | 5 · Centros de documentación audiovisual | 10 |
+| `documentacion-06.md` | 6 · Cultura y actualidad | **40** |
+
+**El reparto de este cuadernillo es el más desequilibrado del proyecto**: casi la
+mitad de sus preguntas —cuarenta de ochenta y dos— son de **cultura y actualidad**,
+un epígrafe que no se estudia en una norma sino que se comprueba dato a dato.
+
+Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
+escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al
 lado. No se clasifica por palabras clave, y no por comodidad: las preguntas del
 específico hablan de *beauty shot*, del cuaderno ATA o de SMPTE 2110, y muchas
 podrían caer en dos temas a la vez. Una regla automática sobre eso no da un

@@ -1,0 +1,105 @@
+# Reparto a mano de las preguntas del bloque específico de DOCUMENTACIÓN.
+#
+# El cuadernillo es `09_preguntas_documentacion`, de octubre de 2024, con 96
+# preguntas y plantilla completa. Quince son del bloque **común** —Constitución,
+# Ley 17/2006, Ley 8/2009, convenio, igualdad y prevención— y no entran aquí:
+# están en `banco/g*.md` y en `banco/prl-especifico.md`.
+#
+# Las 81 restantes son del específico y se reparten entre los seis temas del
+# Anexo 2 (el séptimo, el de prevención, es el que ya comparten las tres
+# ocupaciones). El reparto se ha hecho **leyendo las 96 preguntas una a una**
+# con su respuesta oficial delante, y cada fila lleva su motivo.
+#
+# Dos preguntas venían del bloque común y vuelven aquí:
+#   · la 24 y la 75, que `reclasificadas.tsv` ya había sacado del banco general
+#     por no ser de ninguna de sus leyes;
+#   · la 26, que el propio informe del tema 1 del general declaraba «fuera del
+#     tema, con razón» y que sin embargo seguía imprimiéndose en su volumen.
+#
+# tema: 01 historia de RTVE · 02 documentación y tecnologías · 03 internet
+#       04 inteligencia artificial · 05 centros de documentación · 06 cultura y
+#       actualidad
+#
+origen	nº	tema	motivo
+09_preguntas_documentacion	17	01	«Un, dos, tres» empieza en 1972: programación histórica de TVE
+09_preguntas_documentacion	18	01	Fusión de RNE con Radio Cadena Española: desarrollo de la radio pública
+09_preguntas_documentacion	19	01	El NODO empieza en 1943: orígenes del noticiario y del fondo audiovisual
+09_preguntas_documentacion	24	01	Qué presidencia transformó el Ente Público en Corporación
+09_preguntas_documentacion	33	01	Teatro Monumental: sede de la Orquesta y Coro de RTVE
+09_preguntas_documentacion	42	01	Lab RTVE: qué tipo de laboratorio es
+09_preguntas_documentacion	43	01	«Más allá», serie de TVE de 1976 a 1981
+09_preguntas_documentacion	52	01	Presentadora de «Un, dos, tres»: programación histórica de TVE
+09_preguntas_documentacion	69	01	«Cita con Pilar», programa de RNE
+09_preguntas_documentacion	82	01	«Vivir cada día», docudramas de TVE de 1978 a 1988
+09_preguntas_documentacion	83	01	La 2 empieza a emitir con regularidad en 1966
+09_preguntas_documentacion	3	02	Qué clase de lenguaje documental es un tesauro
+09_preguntas_documentacion	34	02	Modelo probabilístico de recuperación: se basa en el teorema de Bayes
+09_preguntas_documentacion	35	02	Modelo de interoperabilidad para un tesauro multilingüe nuevo
+09_preguntas_documentacion	44	02	Curación de contenidos: fase de difusión del proceso documental
+09_preguntas_documentacion	45	02	Resumen indicativo: fase de análisis del proceso documental
+09_preguntas_documentacion	70	02	ISWC: identificador normalizado de obras musicales
+09_preguntas_documentacion	73	02	Redacción digital: tecnologías de la información en el proceso documental
+09_preguntas_documentacion	80	02	Objetivo de la selección documental: primera fase del proceso
+09_preguntas_documentacion	84	02	ISO 25964, tesauros e interoperabilidad con otros vocabularios
+09_preguntas_documentacion	16	03	Operadores booleanos en un buscador
+09_preguntas_documentacion	25	03	Los datos enlazados se basan en RDF
+09_preguntas_documentacion	26	03	Contenido generado por el usuario en redes sociales: cuándo se puede usar
+09_preguntas_documentacion	46	03	Operador filetype de Google
+09_preguntas_documentacion	77	03	Año de lanzamiento de Twitter: redes sociales
+09_preguntas_documentacion	85	03	EBUCore: modelo de metadatos
+09_preguntas_documentacion	86	03	Archivo de la Web Española: qué recopila y con qué modelo
+09_preguntas_documentacion	96	03	DuckDuckGo y sus atajos: buscadores
+09_preguntas_documentacion	36	04	Síntesis de voz: la que tiene módulo generativo prosódico
+09_preguntas_documentacion	37	04	Palabras token frente a palabras tipo: procesamiento del lenguaje natural
+09_preguntas_documentacion	79	04	Diarización: segmentar el audio por hablante
+09_preguntas_documentacion	88	04	BERT: modelo de lenguaje de Google para entender las búsquedas
+09_preguntas_documentacion	9	05	MXF: contenedor de vídeo y audio con metadatos
+09_preguntas_documentacion	27	05	AAC: codificación de audio con pérdidas
+09_preguntas_documentacion	28	05	Sticky Shed Syndrome: conservación de la cinta magnética
+09_preguntas_documentacion	47	05	LTO: almacenamiento en cinta magnética
+09_preguntas_documentacion	71	05	BWF: formato recomendado por la UER que integra metadatos en el fichero
+09_preguntas_documentacion	74	05	IASA-TC 03: el principal desafío de la preservación audiovisual
+09_preguntas_documentacion	75	05	IASA-TC 03: criterio para elegir la mejor copia
+09_preguntas_documentacion	76	05	Dalet Galaxy: sistema de gestión de la producción de noticias
+09_preguntas_documentacion	78	05	Modelo de datos único del gestor documental del Archivo RTVE
+09_preguntas_documentacion	89	05	EBS: servicio audiovisual institucional de la UE, fuente para el archivo
+09_preguntas_documentacion	2	06	Sede de la Corte Penal Internacional
+09_preguntas_documentacion	4	06	Dirección del CNI en el segundo semestre de 2022
+09_preguntas_documentacion	5	06	Presidencia del Banco Central Europeo en 2022
+09_preguntas_documentacion	6	06	Partido de Giorgia Meloni
+09_preguntas_documentacion	8	06	País en el que fue abatido Bin Laden
+09_preguntas_documentacion	10	06	Periodo de actividad del GRAPO
+09_preguntas_documentacion	11	06	Periodo del estado de alarma en toda España
+09_preguntas_documentacion	12	06	Elecciones celebradas en España en 2022
+09_preguntas_documentacion	13	06	Cargo de Pablo Hernández de Cos en 2022
+09_preguntas_documentacion	14	06	Empresa que desarrolla el cohete Miura 1
+09_preguntas_documentacion	15	06	Fecha de la exhumación de Francisco Franco
+09_preguntas_documentacion	20	06	Ministerio de Fraga Iribarne tras la muerte de Franco
+09_preguntas_documentacion	21	06	Entrada en circulación del euro en España
+09_preguntas_documentacion	22	06	Fecha del movimiento 15-M
+09_preguntas_documentacion	23	06	Inicio de la erupción de La Palma
+09_preguntas_documentacion	29	06	Ciudad de la Semana de Música Religiosa
+09_preguntas_documentacion	30	06	Goya 2022 a la mejor dirección
+09_preguntas_documentacion	31	06	Premio Princesa de Asturias de las Artes de 1994, pianista
+09_preguntas_documentacion	32	06	Fecha del inicio de la invasión de Ucrania
+09_preguntas_documentacion	38	06	Pareja protagonista de «Casablanca»
+09_preguntas_documentacion	39	06	Pares de cromosomas del genoma humano
+09_preguntas_documentacion	40	06	Territorio africano del que España se retiró en 1976
+09_preguntas_documentacion	41	06	Unidad de medida de la radiactividad
+09_preguntas_documentacion	48	06	Siglas FED
+09_preguntas_documentacion	49	06	Tercera persona en la línea de sucesión al trono
+09_preguntas_documentacion	50	06	Para qué se usa la tecnología CRISPR
+09_preguntas_documentacion	53	06	Año del primer Grand Slam de Rafael Nadal
+09_preguntas_documentacion	54	06	Cantante nacida en Colombia
+09_preguntas_documentacion	64	06	Presidencia de Colombia desde agosto de 2022
+09_preguntas_documentacion	65	06	Ciudad del festival Sónar
+09_preguntas_documentacion	66	06	Líder Supremo de Irán desde 1989
+09_preguntas_documentacion	67	06	Qué es Frontex
+09_preguntas_documentacion	68	06	Museo que conserva el busto de Nefertiti
+09_preguntas_documentacion	72	06	Primera atleta española en unos Juegos Olímpicos
+09_preguntas_documentacion	81	06	Disciplina de Annie Leibovitz
+09_preguntas_documentacion	87	06	Organización que agrupa a la UE y a dieciséis países mediterráneos
+09_preguntas_documentacion	90	06	Año de la abdicación de Juan Carlos I
+09_preguntas_documentacion	91	06	Fecha de la quiebra de Lehman Brothers
+09_preguntas_documentacion	92	06	Sede del Banco Europeo de Inversiones
+09_preguntas_documentacion	93	06	Presidencia de la República Italiana desde 2015

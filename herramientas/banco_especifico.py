@@ -18,7 +18,8 @@ lo aplica. Y avisa de dos cosas que, si no se avisan, no dan ningún error:
     del bloque específico, y todavía no se han repartido. Ésa es la cuenta de
     lo que falta, y es la que no aparece sola.
 
-Uso:  banco_especifico.py produccion
+Uso:  banco_especifico.py produccion_asist
+      banco_especifico.py documentacion
 """
 import os
 import re
@@ -124,7 +125,10 @@ def main(ocupacion, titulos):
             print("  ! %s nº %d" % h)
 
 
+# Los títulos con los que se encabeza cada fichero del banco. Uno por ocupación,
+# porque el reparto es distinto y los temas no se llaman igual.
 TITULOS = {
+ "produccion": {
     "01": "Producción (Asistencia) · Tema 1 · La producción: sistemas y métodos. "
           "Organización de la producción",
     "02": "Producción (Asistencia) · Tema 2 · Derechos de autor. "
@@ -152,7 +156,20 @@ TITULOS = {
     "16": "Producción (Asistencia) · Tema 16 · Gestión de servicios varios. "
           "Agencias, proveedores, particulares",
     "17": "Producción (Asistencia) · Tema 17 · Ley de Protección de Datos",
+ },
+ "documentacion": {
+    "01": "Documentación · Tema 1 · Historia de RTVE: orígenes, desarrollo y "
+          "estructura territorial",
+    "02": "Documentación · Tema 2 · Documentación y tecnologías de la información",
+    "03": "Documentación · Tema 3 · Internet",
+    "04": "Documentación · Tema 4 · Inteligencia artificial aplicada a contenidos "
+          "sonoros y audiovisuales",
+    "05": "Documentación · Tema 5 · Centros de documentación en medios de "
+          "comunicación audiovisual",
+    "06": "Documentación · Tema 6 · Cultura y actualidad nacional e internacional",
+ },
 }
 
 if __name__ == "__main__":
-    main(sys.argv[1] if len(sys.argv) > 1 else "produccion_asist", TITULOS)
+    ocupacion = sys.argv[1] if len(sys.argv) > 1 else "produccion_asist"
+    main(ocupacion, TITULOS[ocupacion.split("_")[0]])
