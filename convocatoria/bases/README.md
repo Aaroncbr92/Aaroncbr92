@@ -15,6 +15,8 @@ CDN. Junto a cada PDF está su transcripción `.txt`.
 | `1-2022_bases_generales_sin_anexos.pdf` | 1/2022 | — | bases generales, versión sin anexos |
 | `1-2022_bases_generales_anexo-5.pdf` | 1/2022 | — | anexo 5: baremo de méritos de los procesos de estabilización (apartados 6 y 7) |
 | `1-2022_bases_generales_anexo-6.pdf` | 1/2022 | — | anexo 6: baremo de méritos de las tasas de reposición ordinarias (apartado 8) |
+| `1-2022_gestion_administrativa.pdf` | 1/2022 | Gestión Administrativa | libre |
+| `1-2022_gestion.pdf` | 1/2022 | Gestión | libre |
 
 Las bases generales vienen de la sección sindical de CGT
 (<https://www.cgtrtve.org/files/bases_generales_1-2022_adaptadas-sin-anexos.pdf>)
@@ -40,6 +42,11 @@ prepara el temario suele querer saber cuánto pesa lo que ya trae hecho.
 Las de 1/2022 llevan la coletilla «adaptadas tras el acuerdo transaccional
 homologado por la Sala de lo Social de la Audiencia Nacional en los autos de
 conflicto colectivo 154/2023».
+
+**Las dos últimas no son de ocupaciones que preparemos todavía**: se descargaron
+el 2026-09-02 para decidir cuál escribir después, y el razonamiento está en
+`informes/mercado-ocupaciones-2026-09-02.md`. Vienen de la sección sindical de USO
+en RTVE, que las publica ocupación por ocupación.
 
 ## Lo que sacamos de ellas
 
