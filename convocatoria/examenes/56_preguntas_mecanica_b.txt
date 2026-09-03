@@ -1,2156 +1,659 @@
 Ocupación tipo
-
 MECÁNICA DE EQUIPOS E INSTALACIONES
-
 INSTRUCCIONES
-
 Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
-
 La prueba está compuesta por 96 preguntas (80 preguntas principales más 16 preguntas de
 reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
 preguntas principales fuera anulada), debiendo contemplar todas.
-
 Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
 solo elegir UNA de las cuatro opciones.
-
 El sistema de valoración será el siguiente:
-
 Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
-
 Cada pregunta no contestada, contestada de forma distinta a la indicada en las
 instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
-
 Cada pregunta con contestación errónea penaliza 1/3 punto.
-
 Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
-
-Recuerde anotar
-las respuestas en su HOJA DE RESPUESTAS y en la columna
+Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna
 correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
 ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
 instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
 marca o señal distinta de las necesarias para contestar el ejercicio.
-
 Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
 anteriormente facilitadas.
-
 Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
 abandonar la prueba.
-
 Tiempo máximo: 120 minutos.
-
 Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
-                No se permite la reproducción total o parcial de este cuestionario.
+No se permite la reproducción total o parcial de este cuestionario.
 
-1.-
 
-¿Cuál de los siguientes ensayos de materiales es un ensayo de dureza?
-
-a)
-
-Brinell.
-
-b)
-
-Rovels.
-
-c)
-
-Stigers.
-
-d)
-
-Young.
-
-2.-
-
-Según el III Convenio Colectivo de RTVE, ¿en qué situaciones se puede disfrutar del
+1.- ¿Cuál de los siguientes ensayos de materiales es un ensayo de dureza?
+a) Brinell.
+b) Rovels.
+c) Stigers.
+d) Young.
+2.- Según el III Convenio Colectivo de RTVE, ¿en qué situaciones se puede disfrutar del
 permiso por cuidado del lactante?
-
-a)
-
-1 día.
-
-b)
-
-4 días.
-
-c)
-
-3 días.
-
-d)
-
-2 días.
-
-3.-
-
-En una maquina o equipo, un defecto en un elemento es:
-
-a)
-
-Una avería que se produce cada vez que concurren condiciones de utilización
+a) 1 día.
+b) 4 días.
+c) 3 días.
+d) 2 días.
+3.- En una maquina o equipo, un defecto en un elemento es:
+a) Una avería que se produce cada vez que concurren condiciones de utilización
 particulares.
+b) Una imperfección que puede originar un fallo.
+c) Una avería temporal cuya manifestación se repite.
+d) Un conjunto de circunstancias que generan un fallo.
 
-b)
-
-Una imperfección que puede originar un fallo.
-
-c)
-
-Una avería temporal cuya manifestación se repite.
-
-d)
-
-Un conjunto de circunstancias que generan un fallo.
-
-Página: 1 de 34
-
-4.-
-
-A la vista del despiece mostrado en la imagen indique qué función es la que podría
+4.- A la vista del despiece mostrado en la imagen indique qué función es la que podría
 realizar el conjunto una vez montado:
+a) Un soporte en H regulable en los ejes Y y Z.
+b) Un calzo en V regulable en el eje Z.
+c) Un tacón regulable en los ejes X y Z.
+d) Un anclaje en cola de milano según el eje Y.
+5.- ¿Para qué utilizaremos una fresa de perfil constante?
+a) Para mecanizar chaveteros.
+b) Para planificar formas especiales.
+c) Para mecanizar ranurados.
+d) Para tallar engranajes.
 
-a)
-
-Un soporte en H regulable en los ejes Y y Z.
-
-b)
-
-Un calzo en V regulable en el eje Z.
-
-c)
-
-Un tacón regulable en los ejes X y Z.
-
-d)
-
-Un anclaje en cola de milano según el eje Y.
-
-5.-
-
-¿Para qué utilizaremos una fresa de perfil constante?
-
-a)
-
-Para mecanizar chaveteros.
-
-b)
-
-Para planificar formas especiales.
-
-c)
-
-Para mecanizar ranurados.
-
-d)
-
-Para tallar engranajes.
-
-Página: 2 de 34
-
-6.-
-
-De las maniobras de torno representadas en las figuras indique cuales son las
+6.- De las maniobras de torno representadas en las figuras indique cuales son las
 denominadas como mandrinado y tronzado.
-
-a)
-
-2 y 4
-
-b)
-
-1 y 6
-
-c)
-
-1, 7 y 5
-
-d)
-
-3 y 5
-
-7.-
-
-En dibujo técnico, ¿cuál es la definición de PLANTA?.
-
-a)
-
-Es la vista superior de la pieza que se proyecta.
-
-b)
-
-Es la vista lateral de la pieza que se proyecta.
-
-c)
-
-d)
-
-Es la vista frontal de la pieza que se proyecta y la que va a marcar la correcta
+a) 2 y 4
+b) 1 y 6
+c) 1, 7 y 5
+d) 3 y 5
+7.- En dibujo técnico, ¿cuál es la definición de PLANTA?.
+a) Es la vista superior de la pieza que se proyecta.
+b) Es la vista lateral de la pieza que se proyecta.
+c) Es la vista frontal de la pieza que se proyecta y la que va a marcar la correcta
 interpretación de la pieza.
-
-Es la representación en perspectiva de la pieza a mano alzada marcando así la correcta
+d) Es la representación en perspectiva de la pieza a mano alzada marcando así la correcta
 interpretación de la pieza.
-
-8.-
-
-La fundición que presenta todo o gran parte de su carbono en forma de grafito laminar,
+8.- La fundición que presenta todo o gran parte de su carbono en forma de grafito laminar,
 es:
+a) Fundición blanca.
+b) Fundición atruchada.
+c) Fundición gris.
+d) Fundición negra.
 
-a)
-
-Fundición blanca.
-
-b)
-
-Fundición atruchada.
-
-c)
-
-Fundición gris.
-
-d)
-
-Fundición negra.
-
-Página: 3 de 34
-
-9.-
-
-¿Cuál de las siguientes prácticas NO ES RECOMENDABLE en la colocación de la
+9.- ¿Cuál de las siguientes prácticas NO ES RECOMENDABLE en la colocación de la
 herramienta de corte en el torno ya que podrían producirse accidentes, deterioro de la
 pieza trabajada o deterioro de la propia herramienta de corte?
-
-a)
-
-b)
-
-c)
-
-Se coloca una pletina de acero semiduro entre herramienta y tornillos para proteger la
+a) Se coloca una pletina de acero semiduro entre herramienta y tornillos para proteger la
 torreta cuando la herramienta no es suficientemente robusta.
-
-El voladizo de la cabeza cortante tiene una longitud saliente de una vez y media el
+b) El voladizo de la cabeza cortante tiene una longitud saliente de una vez y media el
 espesor de la cuchilla.
-
-La posición del filo respecto del centro de la pieza es ligeramente bajo, no mayor del 5%
+c) La posición del filo respecto del centro de la pieza es ligeramente bajo, no mayor del 5%
 del diámetro de la pieza.
-
-d)
-
-La herramienta está colocada en la parte posterior de la torreta sin posibilidad de girar.
-
-10.-
-
-¿Para qué utilizaríamos un mármol?
-
-a)
-
-Para la fijación de piezas en la fresadora.
-
-b)
-
-Para realizar trabajos de trazado.
-
-c)
-
-Para realizar dibujos a mano alzada.
-
-d)
-
-Para trabajos de control de calidad.
-
-11.-
-
-¿Cuál de los siguientes materiales abrasivos es el más utilizado para fabricar piedras de
+d) La herramienta está colocada en la parte posterior de la torreta sin posibilidad de girar.
+10.- ¿Para qué utilizaríamos un mármol?
+a) Para la fijación de piezas en la fresadora.
+b) Para realizar trabajos de trazado.
+c) Para realizar dibujos a mano alzada.
+d) Para trabajos de control de calidad.
+11.- ¿Cuál de los siguientes materiales abrasivos es el más utilizado para fabricar piedras de
 esmeril?
+a) Diamante.
+b) Carburo de silicio.
+c) Óxido de aluminio.
+d) Nitruro de boro cúbico.
+12.- El bronce está compuesto por una aleación de:
+a) Estaño y zinc.
+b) Cobre y estaño.
+c) Cobre y zinc.
+d) El bronce es una materia pura.
+13.- Por su estructura, ¿cómo se pueden clasificar las mordazas en una fresadora universal?.
+a) Sencillas, magnéticas y neumáticas.
+b) Sencillas, giratorias y universales.
+c) Giratorias y magnéticas.
+d) Universales y neumáticas.
 
-a)
-
-Diamante.
-
-b)
-
-Carburo de silicio.
-
-c)
-
-Óxido de aluminio.
-
-d)
-
-Nitruro de boro cúbico.
-
-12.-
-
-El bronce está compuesto por una aleación de:
-
-a)
-
-Estaño y zinc.
-
-b)
-
-Cobre y estaño.
-
-c)
-
-Cobre y zinc.
-
-d)
-
-El bronce es una materia pura.
-
-13.-
-
-Por su estructura, ¿cómo se pueden clasificar las mordazas en una fresadora universal?.
-
-a)
-
-Sencillas, magnéticas y neumáticas.
-
-b)
-
-Sencillas, giratorias y universales.
-
-c)
-
-Giratorias y magnéticas.
-
-d)
-
-Universales y neumáticas.
-
-Página: 4 de 34
-
-14.-
-
-¿Cómo se llama el conjunto mecánico mostrado en la imagen, perteneciente a un torno
+14.- ¿Cómo se llama el conjunto mecánico mostrado en la imagen, perteneciente a un torno
 convencional?
-
-a)
-
-Bancada.
-
-b)
-
-Sistema de roscado.
-
-c)
-
-Cabezal.
-
-d)
-
-Delantal.
-
-15.-
-
-¿Qué mecanismo de los siguientes permite obtener cualquier tipo de movimiento de
+a) Bancada.
+b) Sistema de roscado.
+c) Cabezal.
+d) Delantal.
+15.- ¿Qué mecanismo de los siguientes permite obtener cualquier tipo de movimiento de
 forma simple, con bajo coste, pocas piezas y en espacio reducido?
-
-a)
-
-Un tornillo sinfín.
-
-b)
-
-Un mecanismo de trinquete.
-
-c)
-
-Una leva.
-
-d)
-
-Un seguidor mecánico.
-
-16.-
-
-Indique, de los siguientes instrumentos, el que NO ES utilizado en una operación de
+a) Un tornillo sinfín.
+b) Un mecanismo de trinquete.
+c) Una leva.
+d) Un seguidor mecánico.
+16.- Indique, de los siguientes instrumentos, el que NO ES utilizado en una operación de
 trazado
-
-a)
-
-Escuadra.
-
-b)
-
-Micrómetro.
-
-c)
-
-Granete.
-
-d)
-
-Gramil.
-
-17.-
-
-¿Qué tres variables principales intervienen en el mecanizado de una pieza en una
+a) Escuadra.
+b) Micrómetro.
+c) Granete.
+d) Gramil.
+17.- ¿Qué tres variables principales intervienen en el mecanizado de una pieza en una
 máquina-herramienta?
+a) Velocidad de avance, velocidad de corte y material de la herramienta de corte.
+b) Profundidad de corte, velocidad de avance y velocidad de corte.
+c) Velocidad de corte, profundidad de corte y ángulos de corte de la herramienta.
+d) Velocidad de corte, velocidad de avance y desprendimiento de viruta.
 
-a)
-
-Velocidad de avance, velocidad de corte y material de la herramienta de corte.
-
-b)
-
-Profundidad de corte, velocidad de avance y velocidad de corte.
-
-c)
-
-Velocidad de corte, profundidad de corte y ángulos de corte de la herramienta.
-
-d)
-
-Velocidad de corte, velocidad de avance y desprendimiento de viruta.
-
-Página: 5 de 34
-
-18.-
-
-El tamaño de una lima se define por:
-
-a)
-
-La longitud del cuerpo de la lima más su espiga.
-
-b)
-
-La longitud del cuerpo de la lima.
-
-c)
-
-La longitud del cuerpo de la lima más su mango.
-
-d)
-
-La longitud del cuerpo de la lima más su punta.
-
-19.-
-
-¿A cuál de las siguientes figuras corresponde el despliegue?
-
-a)
-
-A.
-
-b)
-
-B.
-
-c)
-
-C.
-
-d)
-
-D.
-
-20.-
-
-¿Qué herramienta se utiliza para sacar pasadores elásticos?
-
-a)
-
-Alicates de puntas finas.
-
-b)
-
-Broca bimetal.
-
-c)
-
-Botador.
-
-d)
-
-Destornillador de impacto.
-
-21.-
-
-¿Qué es el ángulo útil en una herramienta de corte?.
-
-a)
-
-El ángulo que forma la superficie de desprendimiento con la perpendicular a la
+18.- El tamaño de una lima se define por:
+a) La longitud del cuerpo de la lima más su espiga.
+b) La longitud del cuerpo de la lima.
+c) La longitud del cuerpo de la lima más su mango.
+d) La longitud del cuerpo de la lima más su punta.
+19.- ¿A cuál de las siguientes figuras corresponde el despliegue?
+a) A.
+b) B.
+c) C.
+d) D.
+20.- ¿Qué herramienta se utiliza para sacar pasadores elásticos?
+a) Alicates de puntas finas.
+b) Broca bimetal.
+c) Botador.
+d) Destornillador de impacto.
+21.- ¿Qué es el ángulo útil en una herramienta de corte?.
+a) El ángulo que forma la superficie de desprendimiento con la perpendicular a la
 superficie de la pieza.
+b) El ángulo que forma la superficie de incidencia con la superficie trabajada de la pieza.
+c) El ángulo que forma la superficie de incidencia con la de desprendimiento.
+d) El ángulo que forma la superficie de desprendimiento.
 
-b)
-
-El ángulo que forma la superficie de incidencia con la superficie trabajada de la pieza.
-
-c)
-
-El ángulo que forma la superficie de incidencia con la de desprendimiento.
-
-d)
-
-El ángulo que forma la superficie de desprendimiento.
-
-Página: 6 de 34
-
-22.-
-
-¿Cuál de las siguientes denominaciones corresponde a la plaquita de torneado de la
+22.- ¿Cuál de las siguientes denominaciones corresponde a la plaquita de torneado de la
 imagen?.
-
-a)
-
-VNMG.
-
-b)
-
-CNMG.
-
-c)
-
-DNMG.
-
-d)
-
-WNMG.
-
-23.-
-
-Para sistemas de ajuste de agujero base, ¿con qué tolerancia podremos modificar el tipo
+a) VNMG.
+b) CNMG.
+c) DNMG.
+d) WNMG.
+23.- Para sistemas de ajuste de agujero base, ¿con qué tolerancia podremos modificar el tipo
 de ajuste?
-
-a)
-
-Con la tolerancia del agujero.
-
-b)
-
-Con la tolerancia del agujero y del eje.
-
-c)
-
-Con la tolerancia del eje.
-
-d)
-
-Con la tolerancia de la pieza.
-
-24.-
-
-¿Es necesaria la lubricación para realizar un escariado en un agujero cuyo material es de
+a) Con la tolerancia del agujero.
+b) Con la tolerancia del agujero y del eje.
+c) Con la tolerancia del eje.
+d) Con la tolerancia de la pieza.
+24.- ¿Es necesaria la lubricación para realizar un escariado en un agujero cuyo material es de
 bronce?
-
-a)
-
-Sí, es necesario aceite de corte.
-
-b)
-
-Sí, es necesaria taladrina.
-
-c)
-
-No, no es necesario.
-
-d)
-
-Sí, es necesaria cualquier lubricación.
-
-25.-
-
-Según el Convenio Colectivo de la Corporación RTVE “La inasistencia al trabajo,
+a) Sí, es necesario aceite de corte.
+b) Sí, es necesaria taladrina.
+c) No, no es necesario.
+d) Sí, es necesaria cualquier lubricación.
+25.- Según el Convenio Colectivo de la Corporación RTVE “La inasistencia al trabajo,
 injustificada o sin autorización, de un día durante el periodo de un mes” ¿Será
 considerada cómo?
+a) Falta muy grave.
+b) Falta grave.
+c) Falta leve.
+d) Imprudencia laboral.
 
-a)
-
-Falta muy grave.
-
-b)
-
-Falta grave.
-
-c)
-
-Falta leve.
-
-d)
-
-Imprudencia laboral.
-
-Página: 7 de 34
-
-26.-
-
-La unión realizada a través de un tornillo, ¿Qué tipo de unión será?.
-
-a)
-
-Unión por adherencia.
-
-b)
-
-Unión por bloqueo.
-
-c)
-
-Unión por pasadores.
-
-d)
-
-Unión por acoplamiento.
-
-27.-
-
-Respecto a la figura de la imagen, indique si alguna de las vistas tiene algún error.
-
-a)
-
-Hay 1 vista errónea.
-
-b)
-
-Hay 2 vistas erróneas.
-
-c)
-
-Hay 3 vistas erróneas.
-
-d)
-
-Todas las vistas son correctas.
-
-28.-
-
-En los ensayos de tracción se define como límite de elasticidad práctica, la tensión
+26.- La unión realizada a través de un tornillo, ¿Qué tipo de unión será?.
+a) Unión por adherencia.
+b) Unión por bloqueo.
+c) Unión por pasadores.
+d) Unión por acoplamiento.
+27.- Respecto a la figura de la imagen, indique si alguna de las vistas tiene algún error.
+a) Hay 1 vista errónea.
+b) Hay 2 vistas erróneas.
+c) Hay 3 vistas erróneas.
+d) Todas las vistas son correctas.
+28.- En los ensayos de tracción se define como límite de elasticidad práctica, la tensión
 unitaria que produce una deformación permanente en la probeta del:
+a) 0,001 %.
+b) 0,003 %.
+c) 0,005 %.
+d) 0,02 %.
 
-a)
-
-0,001 %.
-
-b)
-
-0,003 %.
-
-c)
-
-0,005 %.
-
-d)
-
-0,02 %.
-
-Página: 8 de 34
-
-29.-
-
-Las condiciones óptimas para la obtención de una pieza por moldeo son:
-
-a)
-
-Colada directa sobre molde con aristas vivas a baja velocidad de enfriamiento.
-
-b)
-
-c)
-
-Colada por
+29.- Las condiciones óptimas para la obtención de una pieza por moldeo son:
+a) Colada directa sobre molde con aristas vivas a baja velocidad de enfriamiento.
+b) Colada por la base sobre molde de aristas redondeadas a alta velocidad de
 enfriamiento.
-
-la base sobre molde de aristas redondeadas a alta velocidad de
-
-Colada escalonada sobre molde de aristas redondeadas a baja velocidad de
+c) Colada escalonada sobre molde de aristas redondeadas a baja velocidad de
 enfriamiento.
-
-d)
-
-Colada por el costado sobre molde con aristas vivas a baja velocidad de enfriamiento.
-
-30.-
-
-En una rueda de dientes rectos, ¿a qué se denomina “módulo”?
-
-a)
-
-A la longitud de la circunferencia primitiva correspondiente a un diente y un vano
+d) Colada por el costado sobre molde con aristas vivas a baja velocidad de enfriamiento.
+30.- En una rueda de dientes rectos, ¿a qué se denomina “módulo”?
+a) A la longitud de la circunferencia primitiva correspondiente a un diente y un vano
 consecutivos.
-
-b)
-
-A la relación entre la circunferencia de cabeza y la circunferencia de pie.
-
-c)
-
-A la parte del diente que queda dentro del diámetro primitivo.
-
-d)
-
-A la relación entre el diámetro primitivo de la rueda en milímetros y el número de
+b) A la relación entre la circunferencia de cabeza y la circunferencia de pie.
+c) A la parte del diente que queda dentro del diámetro primitivo.
+d) A la relación entre el diámetro primitivo de la rueda en milímetros y el número de
 dientes.
-
-31.-
-
-La Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal establece
+31.- La Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal establece
 en su artículo 3 (encomienda del servicio público de radio y televisión) que, en el
-la Corporación RTVE deberá (señale la
-ejercicio de su función de servicio público,
+ejercicio de su función de servicio público, la Corporación RTVE deberá (señale la
 afirmación INCORRECTA):
-
-a)
-
-Facilitar el debate democrático y la libre expresión de opiniones.
-
-b)
-
-c)
-
-Apoyar y atender la integración de grupos sociales con necesidades específicas
+a) Facilitar el debate democrático y la libre expresión de opiniones.
+b) Apoyar y atender la integración de grupos sociales con necesidades específicas
 solamente cuando constituyan mayorías.
-
-intercambio de la información y el conocimiento mutuo entre los
-Impulsar el
+c) Impulsar el intercambio de la información y el conocimiento mutuo entre los
 ciudadanos de los Estados miembros de la Unión Europea como espacio común de
 convivencia.
+d) Velar por la conservación de los archivos históricos audiovisuales.
+32.- Si sometemos una pieza a un tratamiento termoquímico de nitruración, se consigue:
+a) Menor dureza superficial.
+b) Mayor dureza superficial.
+c) La misma dureza que un recocido, pero aumentando sus propiedades.
+d) La misma dureza que un revenido, pero aumentando otras propiedades.
+33.- ¿Cuál es la base principal de un fluido de corte refrigerante?
+a) Aceite.
+b) Agua.
+c) Petróleo.
+d) Jabón.
 
-d)
-
-Velar por la conservación de los archivos históricos audiovisuales.
-
-32.-
-
-Si sometemos una pieza a un tratamiento termoquímico de nitruración, se consigue:
-
-a)
-
-Menor dureza superficial.
-
-b)
-
-Mayor dureza superficial.
-
-c)
-
-La misma dureza que un recocido, pero aumentando sus propiedades.
-
-d)
-
-La misma dureza que un revenido, pero aumentando otras propiedades.
-
-33.-
-
-¿Cuál es la base principal de un fluido de corte refrigerante?
-
-a)
-
-Aceite.
-
-b)
-
-Agua.
-
-c)
-
-Petróleo.
-
-d)
-
-Jabón.
-
-Página: 9 de 34
-
-34.-
-
-Indique la fórmula para calcular diámetro de una broca para realizar una rosca Whitworth
-
-a)
-
-Ø broca = Ø nominal-(1,28 x paso).
-
-b)
-
-Ø broca = Ø nominal – paso.
-
-c)
-
-Ø Broca = (Ø nominal x 1,28) - paso .
-
-d)
-
-Ø broca = (Ø nominal x 1,28) + paso.
-
-35.-
-
-Analice las figuras de la imagen y sus vistas correspondientes e indique si detecta algún
+34.- Indique la fórmula para calcular diámetro de una broca para realizar una rosca Whitworth
+a) Ø broca = Ø nominal-(1,28 x paso).
+b) Ø broca = Ø nominal – paso.
+c) Ø Broca = (Ø nominal x 1,28) - paso .
+d) Ø broca = (Ø nominal x 1,28) + paso.
+35.- Analice las figuras de la imagen y sus vistas correspondientes e indique si detecta algún
 error en ellas.
-
-a)
-
-Todas las vistas se corresponden correctamente con sus piezas.
-
-b)
-
-Las vistas de la pieza mostrada en la figura 1 tienen un error.
-
-c)
-
-Las vistas de la pieza mostrada en la figura 2 tienen un error.
-
-d)
-
-Ambas figuras tienen errores en sus vistas.
-
-36.-
-
-Cuando tenemos que mecanizar una pieza realizada en fundición gris, ¿qué tipo de
+a) Todas las vistas se corresponden correctamente con sus piezas.
+b) Las vistas de la pieza mostrada en la figura 1 tienen un error.
+c) Las vistas de la pieza mostrada en la figura 2 tienen un error.
+d) Ambas figuras tienen errores en sus vistas.
+36.- Cuando tenemos que mecanizar una pieza realizada en fundición gris, ¿qué tipo de
 refrigeración utilizaríamos para mecanizarla?.
+a) Aceite de corte.
+b) Petróleo.
+c) Taladrina verde.
+d) En seco.
 
-a)
-
-Aceite de corte.
-
-b)
-
-Petróleo.
-
-c)
-
-Taladrina verde.
-
-d)
-
-En seco.
-
-Página: 10 de 34
-
-37.-
-
-Leonardo da Vinci (1452-1519) fue un polímata versado en multitud de disciplinas tanto
+37.- Leonardo da Vinci (1452-1519) fue un polímata versado en multitud de disciplinas tanto
 de las artes como de las ciencias. Inventó e ideó numerosos dispositivos y aparatos,
 aunque con las tecnologías de la época no pudieran fabricarse. La figura 1 muestra uno
 de sus dibujos de máquinas. Si en la parte superior giratoria marcada por la flecha
 blanca, se fijan unas aspas de ventilador como las sobreimpresas en el dibujo, describa
 el funcionamiento del sistema cuando la polea B, solidaria con el eje A, gire según el
 sentido indicado por la flecha (en sentido horario).
+a) Las aspas giran en sentido antihorario moviendo el aire hacia arriba.
+b) Las aspas giran en sentido horario moviendo el aire hacia arriba.
+c) Las aspas giran en sentido horario moviendo el aire hacia abajo.
+d) Las aspas giran en sentido antihorario moviendo el aire hacia abajo.
+38.- Indicar característica de los materiales cerámicos:
+a) Alta tenacidad.
+b) Poca fragilidad.
+c) Alto punto de fusión.
+d) Poca resistencia a la corrosión.
 
-a)
-
-Las aspas giran en sentido antihorario moviendo el aire hacia arriba.
-
-b)
-
-Las aspas giran en sentido horario moviendo el aire hacia arriba.
-
-c)
-
-Las aspas giran en sentido horario moviendo el aire hacia abajo.
-
-d)
-
-Las aspas giran en sentido antihorario moviendo el aire hacia abajo.
-
-38.-
-
-Indicar característica de los materiales cerámicos:
-
-a)
-
-Alta tenacidad.
-
-b)
-
-Poca fragilidad.
-
-c)
-
-Alto punto de fusión.
-
-d)
-
-Poca resistencia a la corrosión.
-
-Página: 11 de 34
-
-39.-
-
-En una transmisión formada por una rueda dentada con un tornillo sin fin, ¿cuál de estas
+39.- En una transmisión formada por una rueda dentada con un tornillo sin fin, ¿cuál de estas
 afirmaciones es correcta?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Es una transmisión usada en las transmisiones orbitales para aumentar la velocidad de
+a) Es una transmisión usada en las transmisiones orbitales para aumentar la velocidad de
 los ejes.
-
-La relación de velocidad del tornillo sin fin respecto a la rueda dentada es siempre de ½,
+b) La relación de velocidad del tornillo sin fin respecto a la rueda dentada es siempre de ½,
 y el par transmitido es la mitad también.
-
-El par transmitido por la rueda dentada al tornillo sin fin, genera una velocidad de giro al
+c) El par transmitido por la rueda dentada al tornillo sin fin, genera una velocidad de giro al
 tornillo sin fin con una reducción respecto a la de la rueda.
-
-El par transmitido por el tornillo sin fin a la rueda dentada, genera una velocidad de giro
+d) El par transmitido por el tornillo sin fin a la rueda dentada, genera una velocidad de giro
 a la rueda dentada, con una reducción respecto a la del tornillo.
-
-40.-
-
-Tenemos dos elementos solubles que forman parte del mismo edificio cristalino en
+40.- Tenemos dos elementos solubles que forman parte del mismo edificio cristalino en
 estado sólido. ¿A cuál de ellos se denomina disolvente?:
-
-a)
-
-Siempre al que entra en mayor proporción, independientemente de la red cristalina que
+a) Siempre al que entra en mayor proporción, independientemente de la red cristalina que
 posean.
+b) Al que conserve su red cristalina, aunque esté en menor proporción.
+c) Al que entra en menor proporción, teniendo ambos la misma red cristalina.
+d) Siempre al que entra en menor proporción, aunque no conserve su red cristalina.
+41.- ¿Cuál de los siguientes NO ES un elemento característico de la lima?
+a) La forma.
+b) El picado.
+c) El módulo de diente.
+d) El grado de corte.
 
-b)
-
-Al que conserve su red cristalina, aunque esté en menor proporción.
-
-c)
-
-Al que entra en menor proporción, teniendo ambos la misma red cristalina.
-
-d)
-
-Siempre al que entra en menor proporción, aunque no conserve su red cristalina.
-
-41.-
-
-¿Cuál de los siguientes NO ES un elemento característico de la lima?
-
-a)
-
-La forma.
-
-b)
-
-El picado.
-
-c)
-
-El módulo de diente.
-
-d)
-
-El grado de corte.
-
-Página: 12 de 34
-
-42.-
-
-En los platós de televisión se emplean aparatos llamados pedestales para el trabajo de
+42.- En los platós de televisión se emplean aparatos llamados pedestales para el trabajo de
 las cámaras de televisión. Indique qué función o funciones realiza la pieza circular
 marcada con una flecha en la imagen.
+a) Sirve para realizar suavemente el giro de la cámara durante la grabación.
+b) Con ella se posiciona la cámara en altura y se dirigen las ruedas del pedestal.
+c) Sirve para empujar el pedestal cuando la cámara está montada.
+d) Con ella se dirige el pedestal, se gira la cámara y se la posiciona en altura.
+43.- Se denomina acero inoxidable a:
+a) Cualquier tipo de acero al carbono con un baño de niquel de dos micras.
+b) La aleación de hierro con un contenido de aluminio >10,5% y de carbono <1,2%.
+c) La aleación de hierro con un contenido de cromo >10,5% y de carbono <1,2%.
+d) Los aceros que no se oxidan cuando llueve.
 
-a)
-
-Sirve para realizar suavemente el giro de la cámara durante la grabación.
-
-b)
-
-Con ella se posiciona la cámara en altura y se dirigen las ruedas del pedestal.
-
-c)
-
-Sirve para empujar el pedestal cuando la cámara está montada.
-
-d)
-
-Con ella se dirige el pedestal, se gira la cámara y se la posiciona en altura.
-
-43.-
-
-Se denomina acero inoxidable a:
-
-a)
-
-Cualquier tipo de acero al carbono con un baño de niquel de dos micras.
-
-b)
-
-La aleación de hierro con un contenido de aluminio >10,5% y de carbono <1,2%.
-
-c)
-
-La aleación de hierro con un contenido de cromo >10,5% y de carbono <1,2%.
-
-d)
-
-Los aceros que no se oxidan cuando llueve.
-
-Página: 13 de 34
-
-44.-
-
-De la pieza representada a continuación, ¿Cuál sería la vista que representa el alzado?
-
-a)
-
-A.
-
-b)
-
-B.
-
-c)
-
-C.
-
-d)
-
-D.
-
-45.-
-
-las reglas de las designaciones
-La norma UNE 36 009 tiene por objeto fijar
+44.- De la pieza representada a continuación, ¿Cuál sería la vista que representa el alzado?
+a) A.
+b) B.
+c) C.
+d) D.
+45.- La norma UNE 36 009 tiene por objeto fijar las reglas de las designaciones
 convencionales de los aceros por medio de cifras, letras y signos. ¿A qué tipo de acero
 reserva la designación cuyos dos primeros símbolos son “F3”?:
+a) Aceros inoxidables.
+b) Aceros para uso general en construcción.
+c) Aceros no aleados para uso general.
+d) Aceros para usos especiales.
 
-a)
-
-Aceros inoxidables.
-
-b)
-
-Aceros para uso general en construcción.
-
-c)
-
-Aceros no aleados para uso general.
-
-d)
-
-Aceros para usos especiales.
-
-Página: 14 de 34
-
-46.-
-
-De los triscados que aparecen en la imagen inferior ¿Cuál de ellos es el más usado en
+46.- De los triscados que aparecen en la imagen inferior ¿Cuál de ellos es el más usado en
 una sierra de cinta?
-
-a)
-
-Recto.
-
-b)
-
-Onda.
-
-c)
-
-Inclinado.
-
-d)
-
-Corte negativo.
-
-47.-
-
-Tenemos una lima de relojero con la siguiente forma de perfil: ¿Qué tipo de lima es según
+a) Recto.
+b) Onda.
+c) Inclinado.
+d) Corte negativo.
+47.- Tenemos una lima de relojero con la siguiente forma de perfil: ¿Qué tipo de lima es según
 su perfil?.
+a) De cuchillo.
+b) Triangular.
+c) De espada.
+d) Lenticular.
 
-a)
-
-De cuchillo.
-
-b)
-
-Triangular.
-
-c)
-
-De espada.
-
-d)
-
-Lenticular.
-
-Página: 15 de 34
-
-48.-
-
-La inasistencia al trabajo, injustificado o sin autorización, de un día durante el período de
+48.- La inasistencia al trabajo, injustificado o sin autorización, de un día durante el período de
 un mes. Se considera:
-
-a)
-
-Falta muy grave.
-
-b)
-
-Falta grave.
-
-c)
-
-Falta leve.
-
-d)
-
-No se considera falta, si se compensa en el cómputo horario del mes.
-
-49.-
-
-En un torno de sobremesa se elije para el bloque del motor (1) una polea de 12
+a) Falta muy grave.
+b) Falta grave.
+c) Falta leve.
+d) No se considera falta, si se compensa en el cómputo horario del mes.
+49.- En un torno de sobremesa se elije para el bloque del motor (1) una polea de 12
 centímetros de diámetro y en el eje del portabrocas (2) se elije una polea de 18
 centímetros de diámetro. Según el índice de transmisión seleccionado, indique cuál será
 la velocidad de giro de la broca en la realización del taladro si la velocidad del motor es
 de 900 r.p.m.
+a) 450 r.p.m.
+b) 1200 r.p.m.
+c) 600 r.p.m.
+d) 900 r.p.m.
+50.- ¿Qué tipo de machos se utiliza para roscar un agujero ciego?
+a) Macho de maquina.
+b) Macho recto.
+c) Macho helicoidal.
+d) Juego de machos.
 
-a)
-
-450 r.p.m.
-
-b)
-
-1200 r.p.m.
-
-c)
-
-600 r.p.m.
-
-d)
-
-900 r.p.m.
-
-50.-
-
-¿Qué tipo de machos se utiliza para roscar un agujero ciego?
-
-a)
-
-Macho de maquina.
-
-b)
-
-Macho recto.
-
-c)
-
-Macho helicoidal.
-
-d)
-
-Juego de machos.
-
-Página: 16 de 34
-
-51.-
-
-Según la representación por planos concurrentes, analice la figura y su planta e indique
+51.- Según la representación por planos concurrentes, analice la figura y su planta e indique
 qué plano es el representado.
+a) Es el corte A-B
+b) Es el corte A-C
+c) Es el corte B-C
+d) No es un corte, es la sección del plano A-B
+52.- ¿Qué tipo de cono es el utilizado en el contrapunto de un torno?.
+a) Cono ISO.
+b) Cono DIN.
+c) Cono MORSE.
+d) Cono BT.
 
-a)
-
-Es el corte A-B
-
-b)
-
-Es el corte A-C
-
-c)
-
-Es el corte B-C
-
-d)
-
-No es un corte, es la sección del plano A-B
-
-52.-
-
-¿Qué tipo de cono es el utilizado en el contrapunto de un torno?.
-
-a)
-
-Cono ISO.
-
-b)
-
-Cono DIN.
-
-c)
-
-Cono MORSE.
-
-d)
-
-Cono BT.
-
-Página: 17 de 34
-
-53.-
-
-En la imagen se puede apreciar una pieza mecanizada en un torno, ¿Podría indicar qué
+53.- En la imagen se puede apreciar una pieza mecanizada en un torno, ¿Podría indicar qué
 tipo de operación estaría indicando la letra “C”?
+a) Punteado.
+b) Moleteado.
+c) Ranurado.
+d) Refrentado.
 
-a)
-
-Punteado.
-
-b)
-
-Moleteado.
-
-c)
-
-Ranurado.
-
-d)
-
-Refrentado.
-
-Página: 18 de 34
-
-54.-
-
-En el dispositivo mecánico de la imagen indique qué función realiza el elemento señalado
+54.- En el dispositivo mecánico de la imagen indique qué función realiza el elemento señalado
 por la flecha:
+a) Es un gatillo.
+b) Es una lengüeta de resistencia regulada por el resorte R.
+c) Es un bulón movido por el resorte R.
+d) Es un trinquete.
+55.- ¿Cuál de los siguientes materiales NO se utiliza en la fabricación de muelas de esmeril?
+a) Cuarzo.
+b) Corindón.
+c) Carbonato de magnesio.
+d) Carburo de silicio.
 
-a)
-
-Es un gatillo.
-
-b)
-
-Es una lengüeta de resistencia regulada por el resorte R.
-
-c)
-
-Es un bulón movido por el resorte R.
-
-d)
-
-Es un trinquete.
-
-55.-
-
-¿Cuál de los siguientes materiales NO se utiliza en la fabricación de muelas de esmeril?
-
-a)
-
-Cuarzo.
-
-b)
-
-Corindón.
-
-c)
-
-Carbonato de magnesio.
-
-d)
-
-Carburo de silicio.
-
-Página: 19 de 34
-
-56.-
-
-¿Qué operación de mecanizado se está realizando en la imagen inferior?
-
-a)
-
-Cilindrado.
-
-b)
-
-Tronzado y Ranurado.
-
-c)
-
-Refrentado.
-
-d)
-
-Moleteado.
-
-57.-
-
-De los siguientes tratamientos térmicos, ¿cuál de ellos no cambia la composición de un
+56.- ¿Qué operación de mecanizado se está realizando en la imagen inferior?
+a) Cilindrado.
+b) Tronzado y Ranurado.
+c) Refrentado.
+d) Moleteado.
+57.- De los siguientes tratamientos térmicos, ¿cuál de ellos no cambia la composición de un
 acero?
-
-a)
-
-Revenido.
-
-b)
-
-Cementación.
-
-c)
-
-Sulfinización.
-
-d)
-
-Nitruración.
-
-58.-
-
-Para realizar el corte de una chapa de acero al carbono mediante oxicorte y una vez que
+a) Revenido.
+b) Cementación.
+c) Sulfinización.
+d) Nitruración.
+58.- Para realizar el corte de una chapa de acero al carbono mediante oxicorte y una vez que
 tenemos el metal incandescente (unos 900 grados) la operación es:
+a) Abrir la llave de oxigeno adicional.
+b) Cerrar parcialmente la llave del oxígeno.
+c) Abrir la llave del acetileno adicional.
+d) Cerrar parcialmente la llave del acetileno.
 
-a)
-
-Abrir la llave de oxigeno adicional.
-
-b)
-
-Cerrar parcialmente la llave del oxígeno.
-
-c)
-
-Abrir la llave del acetileno adicional.
-
-d)
-
-Cerrar parcialmente la llave del acetileno.
-
-Página: 20 de 34
-
-59.-
-
-El artículo 122 de la Constitución Española, establece que los miembros del Consejo
+59.- El artículo 122 de la Constitución Española, establece que los miembros del Consejo
 General del Poder Judicial estarán integrados por: un presidente y veinte miembros, por
 un periodo de:
-
-a)
-
-4 años.
-
-b)
-
-5 años.
-
-c)
-
-6 años.
-
-d)
-
-7 años.
-
-60.-
-
-¿Cuándo se percibe el complemento de polivalencia?, según el Convenio III de RTVE.
-
-a)
-
-Cuando se haya de realizar actividades o funciones de coordinación o mando funcional
+a) 4 años.
+b) 5 años.
+c) 6 años.
+d) 7 años.
+60.- ¿Cuándo se percibe el complemento de polivalencia?, según el Convenio III de RTVE.
+a) Cuando se haya de realizar actividades o funciones de coordinación o mando funcional
 u operativo, o se le exija una responsabilidad de cualificada complejidad que, sin
 corresponder al mando orgánico, exceda del normal exigible por sus retribuciones
 básicas.
-
-b)
-
-Cuando se le encomiende la realización de funciones correspondientes a distintos
+b) Cuando se le encomiende la realización de funciones correspondientes a distintos
 ámbitos ocupacionales dentro del mismo grupo profesional.
-
-c)
-
-Cuando se ha de tener flexibilidad horaria.
-
-d)
-
-Cuando se debe realizar actividades y responsabilidades que se adicionan a las
+c) Cuando se ha de tener flexibilidad horaria.
+d) Cuando se debe realizar actividades y responsabilidades que se adicionan a las
 derivadas de las retribuciones básicas, inherentes al ejercicio de mando orgánico.
+61.- ¿Qué herramienta podemos contemplar en la imagen?
+a) Punta de trazar.
+b) Botador.
+c) Granete automático.
+d) Punzón manual.
 
-61.-
-
-¿Qué herramienta podemos contemplar en la imagen?
-
-a)
-
-Punta de trazar.
-
-b)
-
-Botador.
-
-c)
-
-Granete automático.
-
-d)
-
-Punzón manual.
-
-Página: 21 de 34
-
-62.-
-
-Según la imagen inferior, ¿qué letra griega se corresponde con el ángulo de incidencia de
+62.- Según la imagen inferior, ¿qué letra griega se corresponde con el ángulo de incidencia de
 la herramienta de corte qué se observa?
+a) β (Beta).
+b) α (Alfa).
+c) δ (Delta).
+d) ϒ (Gamma).
+63.- ¿A qué sistema pertenecerá una rosca cuyo ángulo del flanco es de 55º?
+a) Sistema métrico.
+b) Sistema Whitworth.
+c) Sistema ISO.
+d) Sistema Sellers.
+64.- La Guía de Igualdad de RTVE fue aprobada por:
+a) El Consejo de Administración.
+b) El Instituto de RTVE.
+c) El Observatorio de Igualdad.
+d) El Presidente interino.
+65.- ¿Qué característica tienen los polímeros?
+a) Alta rigidez.
+b) Alta densidad.
+c) Baja conductividad eléctrica.
+d) Baja moldeabilidad.
 
-a)
-
-β (Beta).
-
-b)
-
-α (Alfa).
-
-c)
-
-δ (Delta).
-
-d)
-
-ϒ (Gamma).
-
-63.-
-
-¿A qué sistema pertenecerá una rosca cuyo ángulo del flanco es de 55º?
-
-a)
-
-Sistema métrico.
-
-b)
-
-Sistema Whitworth.
-
-c)
-
-Sistema ISO.
-
-d)
-
-Sistema Sellers.
-
-64.-
-
-La Guía de Igualdad de RTVE fue aprobada por:
-
-a)
-
-El Consejo de Administración.
-
-b)
-
-El Instituto de RTVE.
-
-c)
-
-El Observatorio de Igualdad.
-
-d)
-
-El Presidente interino.
-
-65.-
-
-¿Qué característica tienen los polímeros?
-
-a)
-
-Alta rigidez.
-
-b)
-
-Alta densidad.
-
-c)
-
-Baja conductividad eléctrica.
-
-d)
-
-Baja moldeabilidad.
-
-Página: 22 de 34
-
-66.-
-
-Tenemos la siguiente definición: “Capacidad para soportar esfuerzos, golpes o impactos
+66.- Tenemos la siguiente definición: “Capacidad para soportar esfuerzos, golpes o impactos
 que tienden a deformar los materiales” ¿A qué propiedad física se refiere?
-
-a)
-
-Dureza.
-
-b)
-
-Tenacidad.
-
-c)
-
-Elasticidad.
-
-d)
-
-Ductilidad.
-
-67.-
-
-Para la subida de cargas se ha instalado el dispositivo de la figura. Indique que fuerza
+a) Dureza.
+b) Tenacidad.
+c) Elasticidad.
+d) Ductilidad.
+67.- Para la subida de cargas se ha instalado el dispositivo de la figura. Indique que fuerza
 debe realizar el motor para elevar una carga que ejerce una fuerza de 120 Newton.
+a) 120 N
+b) 60 N
+c) 40 N
+d) 30N
 
-a)
+68.- ¿Qué tipo de máquina-herramienta se puede ver en la imagen?
+a) Torno al aire.
+b) Mandrinadora.
+c) Brochadora.
+d) Lapeadora.
 
-120 N
-
-b)
-
-60 N
-
-c)
-
-40 N
-
-d)
-
-30N
-
-Página: 23 de 34
-
-68.-
-
-¿Qué tipo de máquina-herramienta se puede ver en la imagen?
-
-a)
-
-Torno al aire.
-
-b)
-
-Mandrinadora.
-
-c)
-
-Brochadora.
-
-d)
-
-Lapeadora.
-
-Página: 24 de 34
-
-69.-
-
-Según las partes del torno señaladas por las flechas numeradas, indique qué tipo de
+69.- Según las partes del torno señaladas por las flechas numeradas, indique qué tipo de
 movimiento aportan esos elementos en cualquiera de las aplicaciones y trabajos de
 mecanizado realizados con la máquina.
-
-a)
-
-El 1 movimiento transversal, y el 5 movimiento longitudinal.
-
-b)
-
-El 1 movimiento transversal, y el 3, 4 y 5 movimiento longitudinal.
-
-c)
-
-El 1 y 2 movimiento longitudinal, y el 5 movimiento transversal.
-
-d)
-
-El 1 el movimiento transversal y el 3 el movimiento longitudinal.
-
-70.-
-
-¿Qué perro de arrastre, de los abajo indicados, es el más adecuado para realizar trabajos
+a) El 1 movimiento transversal, y el 5 movimiento longitudinal.
+b) El 1 movimiento transversal, y el 3, 4 y 5 movimiento longitudinal.
+c) El 1 y 2 movimiento longitudinal, y el 5 movimiento transversal.
+d) El 1 el movimiento transversal y el 3 el movimiento longitudinal.
+70.- ¿Qué perro de arrastre, de los abajo indicados, es el más adecuado para realizar trabajos
 de precisión?
-
-a)
-
-Con abrazadera de seguridad.
-
-b)
-
-Con abrazadera normalizada.
-
-c)
-
-De cola doblada.
-
-d)
-
-De cola recta.
-
-71.-
-
-Si disponemos de un torno, en el que el control de los movimientos de la herramienta y
+a) Con abrazadera de seguridad.
+b) Con abrazadera normalizada.
+c) De cola doblada.
+d) De cola recta.
+71.- Si disponemos de un torno, en el que el control de los movimientos de la herramienta y
 del resto de operaciones son realizadas por un autómata programable gobernado por un
 ordenador, ¿qué tipo de torno será?
+a) Torno copiador.
+b) Torno revolver.
+c) Torno CNC.
+d) Torno automático.
 
-a)
-
-Torno copiador.
-
-b)
-
-Torno revolver.
-
-c)
-
-Torno CNC.
-
-d)
-
-Torno automático.
-
-Página: 25 de 34
-
-72.-
-
-De las imágenes que puedes observar, ¿Cuál de ellas representa el picado de una lima
+72.- De las imágenes que puedes observar, ¿Cuál de ellas representa el picado de una lima
 escofina?
-
-a)
-
-Derecha.
-
-b)
-
-Centro.
-
-c)
-
-Izquierda.
-
-d)
-
-Ninguna se corresponde con una lima escofina.
-
-73.-
-
-Para la extracción de un anillo de retención de un eje se utilizará:
-
-a)
-
-Alicate de puntas para anillos internos.
-
-b)
-
-Extractor para retenes.
-
-c)
-
-Alicate de puntas para anillos exteriores.
-
-d)
-
-Alicate vise-grip.
-
-74.-
-
-Se entiende por “trabajos en altura” aquellos que se ejecutan en un lugar por encima del
-la superficie sobre la que puede caer la
-nivel de referencia, entendiendo como tal
+a) Derecha.
+b) Centro.
+c) Izquierda.
+d) Ninguna se corresponde con una lima escofina.
+73.- Para la extracción de un anillo de retención de un eje se utilizará:
+a) Alicate de puntas para anillos internos.
+b) Extractor para retenes.
+c) Alicate de puntas para anillos exteriores.
+d) Alicate vise-grip.
+74.- Se entiende por “trabajos en altura” aquellos que se ejecutan en un lugar por encima del
+nivel de referencia, entendiendo como tal la superficie sobre la que puede caer la
 persona trabajadora y ocasionarle daños personales. ¿A partir de cuántos metros sobre
 este nivel de referencia se requiere el uso de protección contra caídas de altura?:
+a) 3,5 m.
+b) 3 m.
+c) 2,5 m.
+d) 2 m.
 
-a)
-
-3,5 m.
-
-b)
-
-3 m.
-
-c)
-
-2,5 m.
-
-d)
-
-2 m.
-
-Página: 26 de 34
-
-75.-
-
-En función de la imagen del equipo de soldadura por arco eléctrico y de las tres muestras
+75.- En función de la imagen del equipo de soldadura por arco eléctrico y de las tres muestras
 de soldadura, indique qué configuración de corriente/polaridad se está empleando y cual
 será la muestra que soldadura que se obtiene con ella.
-
-a)
-
-Se suelda con corriente alterna y se obtiene la muestra 3.
-
-b)
-
-Se suelda con corriente continua en polaridad directa y se obtiene la muestra 2.
-
-c)
-
-Se suelda con corriente continua en polaridad invertida y se obtiene la muestra 2.
-
-d)
-
-Se suelda con corriente continua en polaridad directa y se obtiene la muestra 1
-
-76.-
-
-Atendiendo a su estructura, ¿cómo pueden clasificarse las mordazas en una fresadora
+a) Se suelda con corriente alterna y se obtiene la muestra 3.
+b) Se suelda con corriente continua en polaridad directa y se obtiene la muestra 2.
+c) Se suelda con corriente continua en polaridad invertida y se obtiene la muestra 2.
+d) Se suelda con corriente continua en polaridad directa y se obtiene la muestra 1
+76.- Atendiendo a su estructura, ¿cómo pueden clasificarse las mordazas en una fresadora
 universal?
-
-a)
-
-Sencillas, giratorias y universales.
-
-b)
-
-Giratorias.
-
-c)
-
-Universales y neumáticas.
-
-d)
-
-Giratorias y magnéticas.
-
-77.-
-
-Queremos fabricar un hexágono utilizando un aparato divisor universal con una
+a) Sencillas, giratorias y universales.
+b) Giratorias.
+c) Universales y neumáticas.
+d) Giratorias y magnéticas.
+77.- Queremos fabricar un hexágono utilizando un aparato divisor universal con una
 constante de 40 y con los siguientes círculos de agujeros: Cara A: 17, 21, 23, 25, 27, 30,
 34, 38, 42, 46, 49, 53 y 58Cara B: 28, 35, 37, 39, 41, 43, 47, 51, 54, 57, 59, 62 y 66.
 Calcule cuantas vueltas, agujeros y que círculo de agujeros tendríamos que utilizar, para
 fabricar nuestro hexágono:
+a) 6 vueltas y 21 agujeros en el círculo de 38.
+b) 6 vueltas y 15 agujeros en el círculo de 39.
+c) 6 vueltas y 6 agujeros en el círculo de 42.
+d) 6 vueltas y 14 agujeros en el círculo de 21.
 
-a)
+78.- Una rectificadora sin centros se utilizará principalmente para:
+a) Rectificar superficies planas que requieren de una gran precisión.
+b) Rectificar piezas largas cilíndricas y de pequeño diámetro.
+c) Rectificar piezas con perfiles especiales.
+d) Rectificar levas.
 
-6 vueltas y 21 agujeros en el círculo de 38.
-
-b)
-
-6 vueltas y 15 agujeros en el círculo de 39.
-
-c)
-
-6 vueltas y 6 agujeros en el círculo de 42.
-
-d)
-
-6 vueltas y 14 agujeros en el círculo de 21.
-
-Página: 27 de 34
-
-78.-
-
-Una rectificadora sin centros se utilizará principalmente para:
-
-a)
-
-Rectificar superficies planas que requieren de una gran precisión.
-
-b)
-
-Rectificar piezas largas cilíndricas y de pequeño diámetro.
-
-c)
-
-Rectificar piezas con perfiles especiales.
-
-d)
-
-Rectificar levas.
-
-Página: 28 de 34
-
-79.-
-
-La rueda de un molino aprovecha la energía hidráulica para el movimiento de unas
+79.- La rueda de un molino aprovecha la energía hidráulica para el movimiento de unas
 máquinas. Indique en qué sentido (visto desde la posición de la flecha) girarán la piedra
 de afilar y el generador eléctrico.
-
-a)
-
-Ambos elementos girarán en sentido horario.
-
-b)
-
-La piedra girará en sentido horario y el generador antihorario.
-
-c)
-
-El generador girará en sentido horario y la piedra en sentido antihorario.
-
-d)
-
-Ambos elementos girarán en sentido antihorario.
-
-80.-
-
-Según el Estatuto de los trabajadores y el Convenio III de RTVE, ¿Cuál es el número
+a) Ambos elementos girarán en sentido horario.
+b) La piedra girará en sentido horario y el generador antihorario.
+c) El generador girará en sentido horario y la piedra en sentido antihorario.
+d) Ambos elementos girarán en sentido antihorario.
+80.- Según el Estatuto de los trabajadores y el Convenio III de RTVE, ¿Cuál es el número
 máximo de horas extras a poder realizar, anualmente?.
-
-a)
-
-b)
-
-c)
-
-d)
-
-Máximo de 80 horas anuales, computando las horas compensadas dentro de los 4
+a) Máximo de 80 horas anuales, computando las horas compensadas dentro de los 4
 meses desde su realización.
-
-No hay máximo de horas anuales, pero la mitad de horas han de ser compensadas con
+b) No hay máximo de horas anuales, pero la mitad de horas han de ser compensadas con
 horas de descanso, en el plazo de cuatro meses desde su generación.
-
-Máximo de 80 horas anuales, sin computar las horas compensadas dentro de los 4
+c) Máximo de 80 horas anuales, sin computar las horas compensadas dentro de los 4
 meses desde su generación.
-
-Máximo de 80 horas anuales, sin computar las horas compensadas dentro del año
+d) Máximo de 80 horas anuales, sin computar las horas compensadas dentro del año
 desde su generación.
 
-Página: 29 de 34
-
-81.-
-
-En la imagen se pueden apreciar dos engranajes girando, si el engranaje 1 tiene 20
+81.- En la imagen se pueden apreciar dos engranajes girando, si el engranaje 1 tiene 20
 dientes y el engranaje 2 tiene 12 dientes ¿A qué velocidad girará el engranaje 2 cuando el
 engranaje 1 gire a 150 revoluciones por minuto?
-
-a)
-
-200 RPM.
-
-b)
-
-225 RPM.
-
-c)
-
-250 RPM.
-
-d)
-
-275 RPM.
-
-82.-
-
-¿Qué número de cono morse le corresponde a una broca de mango cónico de 15 a 23
+a) 200 RPM.
+b) 225 RPM.
+c) 250 RPM.
+d) 275 RPM.
+82.- ¿Qué número de cono morse le corresponde a una broca de mango cónico de 15 a 23
 mm?
+a) 1.
+b) 2.
+c) 3.
+d) 4.
 
-a)
-
-1.
-
-b)
-
-2.
-
-c)
-
-3.
-
-d)
-
-4.
-
-Página: 30 de 34
-
-83.-
-
-¿Cuál de los siguientes métodos es el más apropiado para mecanizar un cono de gran
+83.- ¿Cuál de los siguientes métodos es el más apropiado para mecanizar un cono de gran
 longitud en un torno paralelo?
-
-a)
-
-Mediante el empleo de una herramienta afilada según el ángulo que queremos realizar.
-
-b)
-
-Inclinando el carro superior o charriot, también llamado carro orientable.
-
-c)
-
-Usando un plato de garras independientes.
-
-d)
-
-Descentrando el contrapunto y torneado con sujeción entre puntos.
-
-84.-
-
-¿A qué característica dinámica de una máquina de soldar tipo “inverter” se está
+a) Mediante el empleo de una herramienta afilada según el ángulo que queremos realizar.
+b) Inclinando el carro superior o charriot, también llamado carro orientable.
+c) Usando un plato de garras independientes.
+d) Descentrando el contrapunto y torneado con sujeción entre puntos.
+84.- ¿A qué característica dinámica de una máquina de soldar tipo “inverter” se está
 refiriendo la siguiente definición?: “Si el electrodo se queda pegado, automáticamente la
 máquina corta la corriente. Con esta función se evita la rotura del electrodo”.
-
-a)
-
-Hot-Start.
-
-b)
-
-Anti-Stick.
-
-c)
-
-Arc-Force.
-
-d)
-
-Hard-Stone.
-
-85.-
-
-El laton es:
-
-a)
-
-Una aleación de cobre y zinc.
-
-b)
-
-Una aleación de cobre y estaño.
-
-c)
-
-Unmaterial ferrítico.
-
-d)
-
-Una aleación de estaño y zinc.
-
-86.-
-
-En el montaje de la herramienta de corte en el torno, la altura de la cuchilla y el ángulo de
+a) Hot-Start.
+b) Anti-Stick.
+c) Arc-Force.
+d) Hard-Stone.
+85.- El laton es:
+a) Una aleación de cobre y zinc.
+b) Una aleación de cobre y estaño.
+c) Unmaterial ferrítico.
+d) Una aleación de estaño y zinc.
+86.- En el montaje de la herramienta de corte en el torno, la altura de la cuchilla y el ángulo de
 colocación influyen en el corte. Si la pieza es delicada y tiende a doblarse es conveniente
 reducir los esfuerzos radiales. Para ello, ¿cómo debería ser el ángulo de colocación?:
-
-a)
-
-De 45º.
-
-b)
-
-Mayor de 45º.
-
-c)
-
-Menor de 45º.
-
-d)
-
-No influye el ángulo de colocación sino la altura del filo de la cuchilla por encima del
+a) De 45º.
+b) Mayor de 45º.
+c) Menor de 45º.
+d) No influye el ángulo de colocación sino la altura del filo de la cuchilla por encima del
 centro de la pieza.
-
-87.-
-
-¿Cuál es el tratamiento termoquímico más adecuado para obtener piezas resistentes al
+87.- ¿Cuál es el tratamiento termoquímico más adecuado para obtener piezas resistentes al
 desgaste y a los golpes?.
+a) Pasivación
+b) Cementación.
+c) Nitrurado.
+d) Carburación.
 
-a)
-
-Pasivación
-
-b)
-
-Cementación.
-
-c)
-
-Nitrurado.
-
-d)
-
-Carburación.
-
-Página: 31 de 34
-
-88.-
-
-¿Qué es un mando sensitivo en una máquina herramienta?
-
-a)
-
-b)
-
-Un conjunto de componentes para garantizar la función de parada de emergencia de
+88.- ¿Qué es un mando sensitivo en una máquina herramienta?
+a) Un conjunto de componentes para garantizar la función de parada de emergencia de
 forma manual por un operario.
-
-Un dispositivode mando que autoriza el funcionamiento de la maquina mientras es
+b) Un dispositivode mando que autoriza el funcionamiento de la maquina mientras es
 accionado y la detiene cuando deja de accionarse.
-
-c)
-
-Un mando que no se puede accionar con guantes.
-
-d)
-
-Un mando de marcha de impulsos.
-
-89.-
-
-Según el artículo 62 de la Constitución Española ¿A quién corresponde sancionar y
+c) Un mando que no se puede accionar con guantes.
+d) Un mando de marcha de impulsos.
+89.- Según el artículo 62 de la Constitución Española ¿A quién corresponde sancionar y
 promulgar las leyes?
-
-a)
-
-Al presidente del Gobierno.
-
-b)
-
-Al Rey.
-
-c)
-
-Al Consejo de Ministros.
-
-d)
-
-Al Congreso de los Diputados.
-
-90.-
-
-Tenemos que montar un cabezal tipo “Huré”. ¿En qué máquina-herramienta de las que
+a) Al presidente del Gobierno.
+b) Al Rey.
+c) Al Consejo de Ministros.
+d) Al Congreso de los Diputados.
+90.- Tenemos que montar un cabezal tipo “Huré”. ¿En qué máquina-herramienta de las que
 figuran en las respuestas realizaría su montaje?
-
-a)
-
-Torno paralelo.
-
-b)
-
-Taladro de bandera.
-
-c)
-
-Fresadora universal.
-
-d)
-
-Lapeadora.
-
-91.-
-
-¿Qué podemos afirmar del módulo de un engranaje?
-
-a)
-
-Es la relación entre el Ø primitivo y el numero de dientes de las ruedas.
-
-b)
-
-Es el resultado de multiplicar la longitud del diente por el paso.
-
-c)
-
-No debe coincidir entre las ruedas que engranan entre si.
-
-d)
-
-Modulo es igual al Øexterior/nº dientes(Z)..
-
-92.-
-
-El Plan de Igualdad de la Corporación de RTVE realiza la siguiente definición: “La
+a) Torno paralelo.
+b) Taladro de bandera.
+c) Fresadora universal.
+d) Lapeadora.
+91.- ¿Qué podemos afirmar del módulo de un engranaje?
+a) Es la relación entre el Ø primitivo y el numero de dientes de las ruedas.
+b) Es el resultado de multiplicar la longitud del diente por el paso.
+c) No debe coincidir entre las ruedas que engranan entre si.
+d) Modulo es igual al Øexterior/nº dientes(Z)..
+92.- El Plan de Igualdad de la Corporación de RTVE realiza la siguiente definición: “La
 situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en
 atención a su sexo, de manera menos favorable que otra en situación comparable.” ¿A
 qué situación se está refiriendo?
+a) Discriminación directa por razón de sexo.
+b) Discriminación indirecta por razón de sexo.
+c) Acoso por razón de sexo.
+d) Acoso sexual.
 
-a)
-
-Discriminación directa por razón de sexo.
-
-b)
-
-Discriminación indirecta por razón de sexo.
-
-c)
-
-Acoso por razón de sexo.
-
-d)
-
-Acoso sexual.
-
-Página: 32 de 34
-
-93.-
-
-¿Cuál es el valor fundamental de un engranaje y punto de partida para el cálculo de
+93.- ¿Cuál es el valor fundamental de un engranaje y punto de partida para el cálculo de
 transmisiones?.
-
-a)
-
-El módulo.
-
-b)
-
-El diámetro primitivo.
-
-c)
-
-El número de dientes.
-
-d)
-
-El paso.
-
-94.-
-
-¿Qué se entiende como mandrinar en una fresadora?
-
-a)
-
-Es la operación de reglaje de la cuchilla para dar profundidad.
-
-b)
-
-Es la operación de mecanizado exterior de un cilindro.
-
-c)
-
-Equivale a la operación de mecanizado o torneado de cilindros interiores.
-
-d)
-
-Equivale al mecanizado hexagonal de una pieza.
-
-95.-
-
-En la imagen podemos observar un accesorio de una máquina-herramienta. Indique que
+a) El módulo.
+b) El diámetro primitivo.
+c) El número de dientes.
+d) El paso.
+94.- ¿Qué se entiende como mandrinar en una fresadora?
+a) Es la operación de reglaje de la cuchilla para dar profundidad.
+b) Es la operación de mecanizado exterior de un cilindro.
+c) Equivale a la operación de mecanizado o torneado de cilindros interiores.
+d) Equivale al mecanizado hexagonal de una pieza.
+95.- En la imagen podemos observar un accesorio de una máquina-herramienta. Indique que
 accesorio es:
+a) Mandril de torno.
+b) Torreta para torno de cambio rápido.
+c) Torreta de potencia para torno.
+d) Portaherramientas axial motorizado.
 
-a)
-
-Mandril de torno.
-
-b)
-
-Torreta para torno de cambio rápido.
-
-c)
-
-Torreta de potencia para torno.
-
-d)
-
-Portaherramientas axial motorizado.
-
-Página: 33 de 34
-
-96.-
-
-¿Cómo se llama el instrumento qué podemos observar en la imagen?
-
-a)
-
-Pie de rey.
-
-b)
-
-Goniómetro.
-
-c)
-
-Marcador de líneas con trusquín.
-
-d)
-
-Gramil.
-
-Página: 34 de 34
-
-
+96.- ¿Cómo se llama el instrumento qué podemos observar en la imagen?
+a) Pie de rey.
+b) Goniómetro.
+c) Marcador de líneas con trusquín.
+d) Gramil.

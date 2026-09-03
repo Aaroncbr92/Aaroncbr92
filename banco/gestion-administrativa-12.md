@@ -9,22 +9,17 @@ no se pudo emparejar.
 **23_preguntas_gea · nº 76 · respuesta: c**
 
 ```
-76.-
-En Microsoft Teams, ¿cómo se gestionan los permisos en un equipo cuando se crea un
+76.- En Microsoft Teams, ¿cómo se gestionan los permisos en un equipo cuando se crea un
 canal privado?
-a)
-b)
-c)
-Solo los propietarios del equipo pueden agregar miembros a un canal privado, pero los
+a) Solo los propietarios del equipo pueden agregar miembros a un canal privado, pero los
 miembros de dicho canal tienen la capacidad de invitar a otras personas al canal sin
 restricciones.
-Los canales privados deben ser creados por administradores globales, y solo los
+b) Los canales privados deben ser creados por administradores globales, y solo los
 administradores pueden gestionar los permisos dentro del canal.
-Los propietarios del equipo pueden crear un canal privado y asignar miembros a él, pero
+c) Los propietarios del equipo pueden crear un canal privado y asignar miembros a él, pero
 los miembros del canal privado, no pueden agregar a otros miembros ni modificar los
 permisos de acceso.
-d)
-Los miembros de un canal privado, pueden cambiar el tipo de canal de privado a
+d) Los miembros de un canal privado, pueden cambiar el tipo de canal de privado a
 estándar, si consideran que hay más personas que deberían tener acceso al contenido.
 ```
 

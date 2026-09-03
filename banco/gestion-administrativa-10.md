@@ -9,16 +9,11 @@ no se pudo emparejar.
 **23_preguntas_gea · nº 34 · respuesta: c**
 
 ```
-34.-
-¿Qué componente es esencial para establecer una conexión a internet en una red
+34.- ¿Qué componente es esencial para establecer una conexión a internet en una red
 doméstica?
-a)
-Un proyector.
-b)
-Un servidor web.
-c)
-Un módem o router.
-d)
-Un sistema operativo.
+a) Un proyector.
+b) Un servidor web.
+c) Un módem o router.
+d) Un sistema operativo.
 ```
 

@@ -9,15 +9,10 @@ no se pudo emparejar.
 **23_preguntas_gea · nº 67 · respuesta: a**
 
 ```
-67.-
-¿Con qué comando se puede pegar?
-a)
-Ctrl+v.
-b)
-Ctrl+c.
-c)
-Ctrl+b.
-d)
-Ctrl+x.
+67.- ¿Con qué comando se puede pegar?
+a) Ctrl+v.
+b) Ctrl+c.
+c) Ctrl+b.
+d) Ctrl+x.
 ```
 

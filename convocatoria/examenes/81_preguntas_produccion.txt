@@ -1,1193 +1,428 @@
 Ocupación tipo
-
 PRODUCCIÓN
-
 INSTRUCCIONES
-
 Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
-
 La prueba está compuesta por 96 preguntas (80 preguntas principales más 16 preguntas de
 reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
 preguntas principales fuera anulada), debiendo contemplar todas.
-
 Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
 solo elegir UNA de las cuatro opciones.
-
 El sistema de valoración será el siguiente:
-
 Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
-
 Cada pregunta no contestada, contestada de forma distinta a la indicada en las
 instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
-
 Cada pregunta con contestación errónea penaliza 1/3 punto.
-
 Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
-
-Recuerde anotar
-las respuestas en su HOJA DE RESPUESTAS y en la columna
+Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna
 correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
 ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
 instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
 marca o señal distinta de las necesarias para contestar el ejercicio.
-
 Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
 anteriormente facilitadas.
-
 Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
 abandonar la prueba.
-
 Tiempo máximo: 120 minutos.
-
 Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
-                No se permite la reproducción total o parcial de este cuestionario.
+No se permite la reproducción total o parcial de este cuestionario.
 
-1.-
 
-Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en el
+1.- Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en el
 contexto de la organización del trabajo, ¿qué medida debe tomar el empresario para
 prevenir los riesgos laborales derivados de la monotonía e intensidad del trabajo?
-
-a)
-
-b)
-
-c)
-
-d)
-
-El empresario debe realizar un estudio de carga mental en todos los puestos de trabajo
+a) El empresario debe realizar un estudio de carga mental en todos los puestos de trabajo
 de la empresa, sin importar la naturaleza del trabajo.
-
-El empresario tiene la obligación de organizar el trabajo de forma que se garantice una
+b) El empresario tiene la obligación de organizar el trabajo de forma que se garantice una
 adecuada distribución de las tareas, evitando la monotonía y la sobrecarga física y
 psíquica de los trabajadores.
-
-La ley permite que la monotonía e intensidad del trabajo sean ignoradas si la empresa
+c) La ley permite que la monotonía e intensidad del trabajo sean ignoradas si la empresa
 demuestra que no hay incidencias de accidentes laborales relacionadas con esos
 factores.
-
-El empresario puede delegar la responsabilidad de gestionar la monotonía e intensidad
+d) El empresario puede delegar la responsabilidad de gestionar la monotonía e intensidad
 del trabajo a los supervisores directos de los trabajadores, sin necesidad de un plan
 formal.
-
-2.-
-
-¿Cuál de estos términos NO corresponde a un sistema de transmisión de imágenes?
-
-a)
-
-Avid comand.
-
-b)
-
-FTTH.
-
-c)
-
-Mochila 4 g.
-
-d)
-
-DSNG.
-
-3.-
-
-Desde el control central:
-
-a)
-
-Se coordinan todas las señales de audio y video que se pueden manejar en una
+2.- ¿Cuál de estos términos NO corresponde a un sistema de transmisión de imágenes?
+a) Avid comand.
+b) FTTH.
+c) Mochila 4 g.
+d) DSNG.
+3.- Desde el control central:
+a) Se coordinan todas las señales de audio y video que se pueden manejar en una
 estación de televisión.
-
-b)
-
-Se coordinan solamente las señales exteriores que llegan a la estación de televisión.
-
-c)
-
-Se controlan solamente las emisiones en directo.
-
-d)
-
-Se coordinan solamente las señales de intercambio entre televisiones y las emisiones
+b) Se coordinan solamente las señales exteriores que llegan a la estación de televisión.
+c) Se controlan solamente las emisiones en directo.
+d) Se coordinan solamente las señales de intercambio entre televisiones y las emisiones
 en directo.
-
-4.-
-
-¿La Ley General de Comunicación Audiovisual recoge el derecho a la diversidad cultural y
+4.- ¿La Ley General de Comunicación Audiovisual recoge el derecho a la diversidad cultural y
 lingüística?
-
-a)
-
-No, ese derecho sólo queda recogido en las normativas autonómicas
-
-b)
-
-La ley sólo contempla el derecho a la diversidad lingüística
-
-c)
-
-Sí, es un derecho recogido en dicha ley
-
-d)
-
-La ley sólo contempla el derecho a la diversidad cultural
-
+a) No, ese derecho sólo queda recogido en las normativas autonómicas
+b) La ley sólo contempla el derecho a la diversidad lingüística
+c) Sí, es un derecho recogido en dicha ley
+d) La ley sólo contempla el derecho a la diversidad cultural
 Página: 1 de 25
 
-5.-
-
-Según la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal,
+5.- Según la Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal,
 ¿quién tiene la responsabilidad de garantizar la independencia editorial y la imparcialidad
 en los medios públicos de titularidad estatal?
-
-a)
-
-El Gobierno de España.
-
-b)
-
-El Parlamento Europeo.
-
-c)
-
-El Consejo de Administración de la entidad pública.
-
-d)
-
-El Tribunal Supremo.
-
-6.-
-
-Los micrófonos omnidireccionales son recomendables para:
-
-a)
-
-Rechazar el ruido de fondo.
-
-b)
-
-La captación de sonidos lejanos.
-
-c)
-
-La exclusión máxima del ruido mecánico generado por el viento.
-
-d)
-
-La captación de sonido en una sola dirección.
-
-7.-
-
-En la Ley de Propiedad Intelectual, Real Decreto 1/1996, del 12 de abril,
+a) El Gobierno de España.
+b) El Parlamento Europeo.
+c) El Consejo de Administración de la entidad pública.
+d) El Tribunal Supremo.
+6.- Los micrófonos omnidireccionales son recomendables para:
+a) Rechazar el ruido de fondo.
+b) La captación de sonidos lejanos.
+c) La exclusión máxima del ruido mecánico generado por el viento.
+d) La captación de sonido en una sola dirección.
+7.- En la Ley de Propiedad Intelectual, Real Decreto 1/1996, del 12 de abril, las obras
 radiofónicas…
-
-las obras
-
-a)
-
-NO se contemplan.
-
-b)
-
-NO se consideran obras audiovisuales.
-
-c)
-
-d)
-
-Tienen una duración de derechos de explotación menor que la de las obras
+a) NO se contemplan.
+b) NO se consideran obras audiovisuales.
+c) Tienen una duración de derechos de explotación menor que la de las obras
 cinematográficas.
-
-Tienen el mismo tratamiento que las obras cinematográficas y demás obras
+d) Tienen el mismo tratamiento que las obras cinematográficas y demás obras
 audiovisuales.
-
-8.-
-
-Una EDL es:
-
-a)
-
-Una lista de todos los parámetros que conforman una edición específica.
-
-b)
-
-Un parámetro que indica el retardo con que se produce un efecto en una edición
+8.- Una EDL es:
+a) Una lista de todos los parámetros que conforman una edición específica.
+b) Un parámetro que indica el retardo con que se produce un efecto en una edición
 determinada.
-
-c)
-
-Una lista con algunos parámetros que conforman una edición específica.
-
-d)
-
-El clasificador que ordena las ediciones de cada montaje realizado.
-
-9.-
-
-¿Cuál es la función principal del "productor ejecutivo" en una producción audiovisual?
-
-a)
-
-Controlar la dirección del programa.
-
-b)
-
-Supervisar la correcta actuación de los actores.
-
-c)
-
-Organizar los recursos financieros y logísticos de la producción.
-
-d)
-
-Realizar la edición final del proyecto audiovisual.
-
+c) Una lista con algunos parámetros que conforman una edición específica.
+d) El clasificador que ordena las ediciones de cada montaje realizado.
+9.- ¿Cuál es la función principal del "productor ejecutivo" en una producción audiovisual?
+a) Controlar la dirección del programa.
+b) Supervisar la correcta actuación de los actores.
+c) Organizar los recursos financieros y logísticos de la producción.
+d) Realizar la edición final del proyecto audiovisual.
 Página: 2 de 25
 
-10.-
-
-¿Qué proceso es parte de la postproducción en un proyecto audiovisual?
-
-a)
-
-Diseño de escenografía.
-
-b)
-
-Rodaje de escenas.
-
-c)
-
-Grabación de sonido en set.
-
-d)
-
-Edición de imagen y sonido.
-
-11.-
-
-¿Qué es un chyron?
-
-a)
-
-Un sistema de emisión de videos.
-
-b)
-
-Un sistema de ingesta de imágenes.
-
-c)
-
-Un título superpuesto generalmente en la parte inferior de una imagen de video.
-
-d)
-
-Un efecto de encadenado de imágenes.
-
-12.-
-
-¿Cuál es la manera habitual de gestionar los incumplimientos de un contrato de
+10.- ¿Qué proceso es parte de la postproducción en un proyecto audiovisual?
+a) Diseño de escenografía.
+b) Rodaje de escenas.
+c) Grabación de sonido en set.
+d) Edición de imagen y sonido.
+11.- ¿Qué es un chyron?
+a) Un sistema de emisión de videos.
+b) Un sistema de ingesta de imágenes.
+c) Un título superpuesto generalmente en la parte inferior de una imagen de video.
+d) Un efecto de encadenado de imágenes.
+12.- ¿Cuál es la manera habitual de gestionar los incumplimientos de un contrato de
 producción audiovisual?
-
-a)
-
-Cauce judicial, de manera inmediata.
-
-b)
-
-Cláusulas de arbitraje.
-
-c)
-
-Renegociación del contrato adaptada a la nueva situación.
-
-d)
-
-Sanciones económicas unilaterales.
-
-13.-
-
-En televisión, a la franja horaria posterior al prime-time, se la denomina:
-
-a)
-
-Late-night.
-
-b)
-
-Last-time.
-
-c)
-
-After-time.
-
-d)
-
-Afternoon-time.
-
-14.-
-
-A la hora de elegir una localización, ¿qué es fundamental considerar para asegurarnos el
+a) Cauce judicial, de manera inmediata.
+b) Cláusulas de arbitraje.
+c) Renegociación del contrato adaptada a la nueva situación.
+d) Sanciones económicas unilaterales.
+13.- En televisión, a la franja horaria posterior al prime-time, se la denomina:
+a) Late-night.
+b) Last-time.
+c) After-time.
+d) Afternoon-time.
+14.- A la hora de elegir una localización, ¿qué es fundamental considerar para asegurarnos el
 correcto funcionamiento del equipo técnico?
-
-a)
-
-Presupuesto.
-
-b)
-
-Proximidad a puntos de interés.
-
-c)
-
-Proximidad a zonas turísticas.
-
-d)
-
-Requisitos eléctricos.
-
+a) Presupuesto.
+b) Proximidad a puntos de interés.
+c) Proximidad a zonas turísticas.
+d) Requisitos eléctricos.
 Página: 3 de 25
 
-15.-
-
-Según lo establecido en la Ley 13/2022, de 7 de julio, General de Comunicación
+15.- Según lo establecido en la Ley 13/2022, de 7 de julio, General de Comunicación
 Audiovisual, ¿cuál de las siguientes afirmaciones describe correctamente las
 restricciones impuestas a una persona física o jurídica en cuanto al control de licencias
 para la prestación de servicios de comunicación audiovisual radiofónicos mediante
 ondas hertzianas terrestres en un ámbito de cobertura determinado?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Una persona física o jurídica puede controlar directamente hasta el 60% de las licencias
+a) Una persona física o jurídica puede controlar directamente hasta el 60% de las licencias
 en un ámbito de cobertura determinado, siempre que no exceda de siete licencias en
 total en dicho ámbito.
-
-Una persona física o jurídica no puede adquirir participaciones o derechos de voto que
+b) Una persona física o jurídica no puede adquirir participaciones o derechos de voto que
 le permitan el control directo o indirecto de más del 50% de las licencias para prestar
-radiofónicos mediante ondas hertzianas
-servicios de comunicación audiovisual
+servicios de comunicación audiovisual radiofónicos mediante ondas hertzianas
 terrestres que coincidan sustancialmente en su ámbito.
-
-Una persona física o jurídica puede controlar indirectamente hasta el 55% de las
+c) Una persona física o jurídica puede controlar indirectamente hasta el 55% de las
 licencias en un ámbito de cobertura determinado, siempre que no exceda de cinco
 licencias en total en dicho ámbito.
-
-Una persona física o jurídica no puede adquirir participaciones o derechos de voto que
+d) Una persona física o jurídica no puede adquirir participaciones o derechos de voto que
 le permitan el control directo o indirecto de más del 40% de las licencias para prestar
-servicios de comunicación audiovisual
-radiofónicos mediante ondas hertzianas
+servicios de comunicación audiovisual radiofónicos mediante ondas hertzianas
 terrestres en un ámbito de cobertura determinado.
-
-16.-
-
-La provisión de puestos de trabajo en la Corporación RTVE responde a los principios
+16.- La provisión de puestos de trabajo en la Corporación RTVE responde a los principios
 señalados en el convenio colectivo vigente. ¿Cuál de las siguientes opciones NO es uno
 de estos principios?
-
-a)
-
-Publicidad, igualdad, mérito y capacidad.
-
-b)
-
-Idoneidad o mejor adecuación del candidato a los requerimientos profesionales de
+a) Publicidad, igualdad, mérito y capacidad.
+b) Idoneidad o mejor adecuación del candidato a los requerimientos profesionales de
 cada plaza.
-
-c)
-
-Incorporación preferente de colectivos en riesgo de exclusión.
-
-d)
-
-Participación de la representación de las personas trabajadoras en las pruebas
+c) Incorporación preferente de colectivos en riesgo de exclusión.
+d) Participación de la representación de las personas trabajadoras en las pruebas
 selectivas que se realicen.
-
-17.-
-
-¿Qué es el looping o ADR?
-
-a)
-
-Proceso por el que se fusionan o combinan varias pistas sonoras.
-
-b)
-
-Sonido que pertenece al entorno natural que se visualiza en imagen.
-
-c)
-
-Ventana de un sistema no lineal de montaje que muestra una disposición cronológica.
-
-d)
-
-Creación y sustitución de sincronía de labiales en postproducción de sonido.
-
+17.- ¿Qué es el looping o ADR?
+a) Proceso por el que se fusionan o combinan varias pistas sonoras.
+b) Sonido que pertenece al entorno natural que se visualiza en imagen.
+c) Ventana de un sistema no lineal de montaje que muestra una disposición cronológica.
+d) Creación y sustitución de sincronía de labiales en postproducción de sonido.
 Página: 4 de 25
 
-18.-
-
-¿Cómo se llama el lugar donde se aparcan las UU.MM y demás vehículos necesarios para
+18.- ¿Cómo se llama el lugar donde se aparcan las UU.MM y demás vehículos necesarios para
 la retrasmisión de un evento?
-
-a)
-
-Parking compound.
-
-b)
-
-U.M. garage place.
-
-c)
-
-TV compound.
-
-d)
-
-Compound U.M. parking.
-
-19.-
-
-¿Qué artículo de la Constitución Española recoge que sólo se podrá acordar el secuestro
+a) Parking compound.
+b) U.M. garage place.
+c) TV compound.
+d) Compound U.M. parking.
+19.- ¿Qué artículo de la Constitución Española recoge que sólo se podrá acordar el secuestro
 de publicaciones, grabaciones y otros medios de información en virtud de resolución
 judicial?
-
-a)
-
-Artículo 19.
-
-b)
-
-Artículo 20.1. a).
-
-c)
-
-Artículo 44.
-
-d)
-
-Artículo 20.5.
-
-20.-
-
-En iluminación, la referencia en la escala Kelvin, ¿dónde se sitúa?
-
-a)
-
-En la luz de día.
-
-b)
-
-En 5.500ºK.
-
-c)
-
-En 3.200ºK.
-
-d)
-
-En 2.500ºK.
-
-21.-
-
-Se ha planificado una grabación en el Monte del Pardo (Madrid). ¿A qué organismo se
+a) Artículo 19.
+b) Artículo 20.1. a).
+c) Artículo 44.
+d) Artículo 20.5.
+20.- En iluminación, la referencia en la escala Kelvin, ¿dónde se sitúa?
+a) En la luz de día.
+b) En 5.500ºK.
+c) En 3.200ºK.
+d) En 2.500ºK.
+21.- Se ha planificado una grabación en el Monte del Pardo (Madrid). ¿A qué organismo se
 debe pedir permiso previo?
-
-a)
-
-A Patrimonio Nacional.
-
-b)
-
-A la Consejería de Medio Ambiente de la Comunidad de Madrid.
-
-c)
-
-Al Ayuntamiento de Madrid.
-
-d)
-
-No es necesario pues se trata de un espacio público.
-
-22.-
-
-En la Guía de Igualdad de la Corporación RTVE, para la narración informativa sobre la
+a) A Patrimonio Nacional.
+b) A la Consejería de Medio Ambiente de la Comunidad de Madrid.
+c) Al Ayuntamiento de Madrid.
+d) No es necesario pues se trata de un espacio público.
+22.- En la Guía de Igualdad de la Corporación RTVE, para la narración informativa sobre la
 violencia contra las mujeres, se aconseja:
-
-a)
-
-Utilizar comparaciones frívolas.
-
-b)
-
-Utilizar lenguaje violento para describir las agresiones.
-
-c)
-
-Utilizar narrativas propias de reportajes de sucesos.
-
-d)
-
-Evitar todo amarillismo.
-
+a) Utilizar comparaciones frívolas.
+b) Utilizar lenguaje violento para describir las agresiones.
+c) Utilizar narrativas propias de reportajes de sucesos.
+d) Evitar todo amarillismo.
 Página: 5 de 25
 
-23.-
-
-¿Cuál es la altura mínima de una barandilla de un practicable cuya distancia al suelo sea
+23.- ¿Cuál es la altura mínima de una barandilla de un practicable cuya distancia al suelo sea
 mayor o igual a 55 cms y menor de 6 metros?
-
-a)
-
-95 cms.
-
-b)
-
-80 cms.
-
-c)
-
-100 cms.
-
-d)
-
-90 cms.
-
-24.-
-
-Los contratos de suministros o servicios tendrán consideración de contrato menor
+a) 95 cms.
+b) 80 cms.
+c) 100 cms.
+d) 90 cms.
+24.- Los contratos de suministros o servicios tendrán consideración de contrato menor
 cuando su valor estimado, sin perjuicio de lo dispuesto en relación con las obras,
 servicios y suministros centralizados en el ámbito estatal, sea inferior a:
-
-a)
-
-15.000 euros.
-
-b)
-
-40.000 euros.
-
-c)
-
-3.000 euros.
-
-d)
-
-60.000 euros
-
-25.-
-
-La función de un embebedor situado en un control central técnico de televisión es:
-
-a)
-
-Multiplexar señales procedentes de una señal satélite.
-
-b)
-
-Extraer o insertar audios en una señal de vídeo.
-
-c)
-
-Multiplexar señales procedentes de codificadores ip.
-
-d)
-
-Enrutar señales hacia los controles de realización.
-
-26.-
-
-Nuestro departamento de caracterización nos solicita un pincel biselado, el principal uso
+a) 15.000 euros.
+b) 40.000 euros.
+c) 3.000 euros.
+d) 60.000 euros
+25.- La función de un embebedor situado en un control central técnico de televisión es:
+a) Multiplexar señales procedentes de una señal satélite.
+b) Extraer o insertar audios en una señal de vídeo.
+c) Multiplexar señales procedentes de codificadores ip.
+d) Enrutar señales hacia los controles de realización.
+26.- Nuestro departamento de caracterización nos solicita un pincel biselado, el principal uso
 del mismo es:
-
-a)
-
-Aplicación de correctores en las ojeras.
-
-b)
-
-Cubrir manchas en la piel.
-
-c)
-
-Maquillaje de ojos y cejas.
-
-d)
-
-Aplicación de polvos sueltos y bronceadores.
-
-27.-
-
-¿A qué departamento pertenece la figura del gaffer?
-
-a)
-
-Sonido.
-
-b)
-
-Operación de cámaras.
-
-c)
-
-Escenografía.
-
-d)
-
-Iluminación.
-
+a) Aplicación de correctores en las ojeras.
+b) Cubrir manchas en la piel.
+c) Maquillaje de ojos y cejas.
+d) Aplicación de polvos sueltos y bronceadores.
+27.- ¿A qué departamento pertenece la figura del gaffer?
+a) Sonido.
+b) Operación de cámaras.
+c) Escenografía.
+d) Iluminación.
 Página: 6 de 25
 
-28.-
-
-Un objetivo zoom es de:
-
-a)
-
-Foco fijo.
-
-b)
-
-Iris fijo.
-
-c)
-
-Focal variable.
-
-d)
-
-Focal fija.
-
-29.-
-
-¿Qué medida preventiva es más efectiva para reducir los trastornos musculoesqueléticos
+28.- Un objetivo zoom es de:
+a) Foco fijo.
+b) Iris fijo.
+c) Focal variable.
+d) Focal fija.
+29.- ¿Qué medida preventiva es más efectiva para reducir los trastornos musculoesqueléticos
 en el lugar de trabajo?
-
-a)
-
-Aumentar
+a) Aumentar la jornada laboral para que los empleados terminen sus tareas más
 rápidamente.
-
-la jornada laboral para que los empleados terminen sus tareas más
-
-b)
-
-Realizar pausas activas y ejercicios de estiramiento durante la jornada laboral.
-
-c)
-
-Reducir el número de horas de descanso entre turnos.
-
-d)
-
-Mantener una postura fija durante la jornada de trabajo.
-
-30.-
-
-Según el artículo 38 del III Convenio Colectivo de la Corporación de Radio Televisión
+b) Realizar pausas activas y ejercicios de estiramiento durante la jornada laboral.
+c) Reducir el número de horas de descanso entre turnos.
+d) Mantener una postura fija durante la jornada de trabajo.
+30.- Según el artículo 38 del III Convenio Colectivo de la Corporación de Radio Televisión
 Española. ¿Cuál de los siguientes ámbitos ocupacionales NO está específicamente
 contemplado en el mismo?
-
-a)
-
-Producción.
-
-b)
-
-Servicios corporativos.
-
-c)
-
-Operador de cámara.
-
-d)
-
-Técnica.
-
-31.-
-
-En el III Convenio Colectivo de la Corporación RTVE, en el artículo 41, se dice que la
+a) Producción.
+b) Servicios corporativos.
+c) Operador de cámara.
+d) Técnica.
+31.- En el III Convenio Colectivo de la Corporación RTVE, en el artículo 41, se dice que la
 regulación del tiempo de trabajo comprende:
-
-a)
-
-Dos elementos: jornada y horario.
-
-b)
-
-Tres elementos: jornada, horario y vacaciones.
-
-c)
-
-Un elemento: jornada laboral.
-
-d)
-
-Cuatro elementos: jornada, horario, vacaciones y festivos.
-
-32.-
-
-¿Qué Título de la Constitución recoge los derechos y libertades de los ciudadanos
+a) Dos elementos: jornada y horario.
+b) Tres elementos: jornada, horario y vacaciones.
+c) Un elemento: jornada laboral.
+d) Cuatro elementos: jornada, horario, vacaciones y festivos.
+32.- ¿Qué Título de la Constitución recoge los derechos y libertades de los ciudadanos
 españoles?
-
-a)
-
-Titulo primero.
-
-b)
-
-Titulo segundo.
-
-c)
-
-Titulo tercero.
-
-d)
-
-Titulo cuarto.
-
+a) Titulo primero.
+b) Titulo segundo.
+c) Titulo tercero.
+d) Titulo cuarto.
 Página: 7 de 25
 
-33.-
-
-Según el artículo 72 de la Ley de protección de datos, se considera infracción muy grave:
-
-a)
-
-b)
-
-c)
-
-d)
-
-El tratamiento de datos personales de un menor de edad sin recabar su consentimiento,
+33.- Según el artículo 72 de la Ley de protección de datos, se considera infracción muy grave:
+a) El tratamiento de datos personales de un menor de edad sin recabar su consentimiento,
 cuando tenga capacidad para ello, o el del titular de su patria potestad o tutela,
 conforme al artículo 8 del Reglamento (UE) 2016/679.
-
-La utilización de los datos para una finalidad que no sea compatible con la finalidad
+b) La utilización de los datos para una finalidad que no sea compatible con la finalidad
 para la cual fueron recogidos, sin contar con el consentimiento del afectado o con una
 base legal para ello.
-
-incumplimiento de la obligación de informar al afectado, cuando así
-
-lo haya
-El
+c) El incumplimiento de la obligación de informar al afectado, cuando así lo haya
 solicitado, de los destinatarios a los que se hayan comunicado los datos personales
 rectificados, suprimidos o respecto de los que se ha limitado el tratamiento.
-
-El incumplimiento de la obligación de notificación relativa a la rectificación o supresión
+d) El incumplimiento de la obligación de notificación relativa a la rectificación o supresión
 de datos personales o la limitación del tratamiento exigida por el artículo 19 del
 Reglamento (UE) 2016/679.
-
-34.-
-
-¿Cómo se denomina el enlace de subida de una señal a satélite?
-
-a)
-
-Downlink.
-
-b)
-
-Uplink.
-
-c)
-
-Modulación en fase.
-
-d)
-
-Simplex.
-
-35.-
-
-¿Qué derecho garantiza la Constitución Española en relación con los medios de
+34.- ¿Cómo se denomina el enlace de subida de una señal a satélite?
+a) Downlink.
+b) Uplink.
+c) Modulación en fase.
+d) Simplex.
+35.- ¿Qué derecho garantiza la Constitución Española en relación con los medios de
 comunicación?
-
-a)
-
-Derecho a la información veraz.
-
-b)
-
-Derecho a la comunicación audiovisual.
-
-c)
-
-Derecho a la privacidad de la información.
-
-d)
-
-Derecho a la protección de contenido privado.
-
-36.-
-
-En la Ley 13/2022 de 7 de julio, General de Comunicación Audiovisual, su artículo 7
+a) Derecho a la información veraz.
+b) Derecho a la comunicación audiovisual.
+c) Derecho a la privacidad de la información.
+d) Derecho a la protección de contenido privado.
+36.- En la Ley 13/2022 de 7 de julio, General de Comunicación Audiovisual, su artículo 7
 determina:
-
-a)
-
-b)
-
-c)
-
-d)
-
-Se garantiza el derecho a los ciudadanos a ser informados de los acontecimientos de
+a) Se garantiza el derecho a los ciudadanos a ser informados de los acontecimientos de
 interés general.
-
-La autoridad audiovisual competente incentivará buenas prácticas en materia de
+b) La autoridad audiovisual competente incentivará buenas prácticas en materia de
 conciliación.
-
-La comunicación audiovisual será respetuosa con los derechos reconocidos en favor
+c) La comunicación audiovisual será respetuosa con los derechos reconocidos en favor
 de terceros de acuerdo con la Ley de Propiedad Intelectual.
-
-La comunicación audiovisual favorecerá una imagen ajustada, respetuosa, apreciativa,
+d) La comunicación audiovisual favorecerá una imagen ajustada, respetuosa, apreciativa,
 inclusiva, y libres de estereotipos a las personas con discapacidad.
-
 Página: 8 de 25
 
-37.-
-
-¿En un directo de un informativo, qué significa el envío del N-1 al redactor por el
+37.- ¿En un directo de un informativo, qué significa el envío del N-1 al redactor por el
 pinganillo?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Es la señal de retorno de audio del programa, que se le envía al redactor a su pinganillo,
+a) Es la señal de retorno de audio del programa, que se le envía al redactor a su pinganillo,
 incluyendo lo que él dice durante el directo.
-
-Es la señal de retorno de audio del programa, que se le envía al redactor a su pinganillo,
+b) Es la señal de retorno de audio del programa, que se le envía al redactor a su pinganillo,
 exceptuando su propia voz.
-
-Es la señal de retorno de audio del programa, que se le envía al redactor a su pinganillo,
+c) Es la señal de retorno de audio del programa, que se le envía al redactor a su pinganillo,
 incluyendo las órdenes del realizador y su propia voz.
-
-Es la señal de retorno de audio del programa, que se le envía al redactor a su pinganillo,
+d) Es la señal de retorno de audio del programa, que se le envía al redactor a su pinganillo,
 exceptuando las órdenes del realizador pero dejando que se escuche a sí mismo.
-
-38.-
-
-¿Con qué modelo de mochilas de la marca LiveU, podemos enviar hasta 4 señales de alta
+38.- ¿Con qué modelo de mochilas de la marca LiveU, podemos enviar hasta 4 señales de alta
 resolución sincronizadas?
-
-a)
-
-LU 900.
-
-b)
-
-LU 600.
-
-c)
-
-LU 800.
-
-d)
-
-Con ninguno, en la actualidad es imposible este tipo de prestación.
-
-39.-
-
-La Corporación RTVE contratará un seguro especial por fallecimiento para aquellas
+a) LU 900.
+b) LU 600.
+c) LU 800.
+d) Con ninguno, en la actualidad es imposible este tipo de prestación.
+39.- La Corporación RTVE contratará un seguro especial por fallecimiento para aquellas
 personas trabajadoras que por motivos laborales tengan que desplazarse a zonas de
 conflicto bélico, catástrofes naturales o similares. ¿Qué indemnización mínima tendrá
 ese seguro especial (sin tener en cuenta posibles incrementos por IPC una vez que se
 abra la licitación del nuevo concurso)?
-
-a)
-
-Una indemnización mínima de 120.000 €.
-
-b)
-
-Una indemnización mínima de  60.101,22 €.
-
-c)
-
-Una indemnización mínima de 220.000 €.
-
-d)
-
-Una indemnización mínima de 120.202,44 €.
-
-40.-
-
-¿Qué normativa y procedimiento se deben seguir para obtener los permisos necesarios
+a) Una indemnización mínima de 120.000 €.
+b) Una indemnización mínima de  60.101,22 €.
+c) Una indemnización mínima de 220.000 €.
+d) Una indemnización mínima de 120.202,44 €.
+40.- ¿Qué normativa y procedimiento se deben seguir para obtener los permisos necesarios
 para realizar un rodaje con dron comercial en España, de acuerdo con la legislación
 actual?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Solo se necesita la autorización de la AESA si el dron va a volar en zonas urbanas, sin
+a) Solo se necesita la autorización de la AESA si el dron va a volar en zonas urbanas, sin
 necesidad de cumplir con límites de altitud o restricciones adicionales.
-
-Es obligatorio obtener una autorización de la AESA antes del rodaje, proporcionando un
+b) Es obligatorio obtener una autorización de la AESA antes del rodaje, proporcionando un
 plan detallado de seguridad y cumpliendo con las normas de altitud, zonas de vuelo
 restringidas, y el registro del dron según el Reglamento (UE) 2019/947.
-
-No es necesario ningún permiso para el uso de drones en producciones
+c) No es necesario ningún permiso para el uso de drones en producciones
 cinematográficas, ya que se considera una actividad cultural no regulada por la AESA.
-
-Los permisos solo se requieren si el dron se utiliza en exteriores durante la noche, pero
+d) Los permisos solo se requieren si el dron se utiliza en exteriores durante la noche, pero
 no para rodajes diurnos en zonas rurales.
-
 Página: 9 de 25
 
-41.-
-
-En una producción de televisión en exteriores, ¿cómo afecta la utilización de un sistema
+41.- En una producción de televisión en exteriores, ¿cómo afecta la utilización de un sistema
 de "Multi-Camera Remote Production" (MCRP) a la logística, coordinación y eficiencia
 operativa durante un evento en directo, y cuáles son las principales dificultades técnicas
 que deben abordarse para garantizar la sincronización perfecta de todas las cámaras sin
 introducir retardos perceptibles o problemas de calidad en la señal?
-
-a)
-
-b)
-
-c)
-
-d)
-
-El sistema MCRP requiere que las cámaras estén equipadas con unidades de grabación
-autónomas,
-lo que reduce la necesidad de conectividad de red, pero introduce
+a) El sistema MCRP requiere que las cámaras estén equipadas con unidades de grabación
+autónomas, lo que reduce la necesidad de conectividad de red, pero introduce
 problemas de sincronización de las señales, lo que puede generar variaciones en la
 calidad de las imágenes entre las cámaras durante la transmisión en vivo.
-
-El sistema MCRP permite el control remoto de las cámaras a través de sistemas de
+b) El sistema MCRP permite el control remoto de las cámaras a través de sistemas de
 transmisión por ADSL, pero su principal desafío es la congestión de la red en eventos
 con alta afluencia de público, lo que puede generar retrasos significativos y pérdida de
 señal durante la transmisión en directo.
-
-El sistema MCRP permite la centralización de las cámaras, facilitando la coordinación
+c) El sistema MCRP permite la centralización de las cámaras, facilitando la coordinación
 de los operadores desde un control remoto, pero su implementación requiere de
-enlaces de fibra óptica de baja latencia,
-lo que puede generar dificultades en
+enlaces de fibra óptica de baja latencia, lo que puede generar dificultades en
 ubicaciones donde la infraestructura de red no es adecuada o no existe.
-
-El sistema MCRP es ventajoso porque facilita la sincronización entre cámaras de forma
+d) El sistema MCRP es ventajoso porque facilita la sincronización entre cámaras de forma
 automática, pero presenta problemas de calidad de imagen debido a las limitaciones de
 las cámaras remotas, que no pueden realizar ajustes manuales en tiempo real para
 adaptarse a los cambios de luz o movimiento.
-
-42.-
-
-En televisión llamamos biblia …
-
-a)
-
-Al guion literario.
-
-b)
-
-A la memoria del proyecto.
-
-c)
-
-A la relación de secuencias ordenadas narrativamente.
-
-d)
-
-Al story line.
-
-43.-
-
-De acuerdo al art. 36. Competencias y facultades de los Delegados de Prevención (Ley
+42.- En televisión llamamos biblia …
+a) Al guion literario.
+b) A la memoria del proyecto.
+c) A la relación de secuencias ordenadas narrativamente.
+d) Al story line.
+43.- De acuerdo al art. 36. Competencias y facultades de los Delegados de Prevención (Ley
 31/1995 de Prevención de Riesgos Laborales) NO es competencia de los delegados de
 prevención:
-
-a)
-
-Colaborar con la dirección de la empresa en la mejora de la acción preventiva.
-
-b)
-
-c)
-
-d)
-
-Ejercer una labor de vigilancia y control sobre el cumplimiento de la normativa de
+a) Colaborar con la dirección de la empresa en la mejora de la acción preventiva.
+b) Ejercer una labor de vigilancia y control sobre el cumplimiento de la normativa de
 prevención de riesgos laborales.
-
-Promover y fomentar la cooperación de los trabajadores en la ejecución de la normativa
+c) Promover y fomentar la cooperación de los trabajadores en la ejecución de la normativa
 sobre prevención de riesgos laborales.
-
-Promover iniciativas sobre métodos y procedimientos para la efectiva prevención de los
+d) Promover iniciativas sobre métodos y procedimientos para la efectiva prevención de los
 riesgos.
-
 Página: 10 de 25
 
-44.-
-
-¿Qué es un guion técnico?
-
-a)
-
-Un guion donde se detallan los diálogos de los personajes.
-
-b)
-
-Un guion que describe las acciones, tomas y planos que se utilizarán en la producción.
-
-c)
-
-Un guion que describe técnicamente qué tiene que hacer cada actor.
-
-d)
-
-Un guion que incluye la música y los efectos sonoros de la obra.
-
-45.-
-
-El acoso psicológico en el ámbito laboral se denomina:
-
-a)
-
-Burn Out.
-
-b)
-
-Bullyng.
-
-c)
-
-Burnning.
-
-d)
-
-Moobing.
-
-46.-
-
-¿Cuál de las siguientes afirmaciones describe con mayor precisión la transformación de
+44.- ¿Qué es un guion técnico?
+a) Un guion donde se detallan los diálogos de los personajes.
+b) Un guion que describe las acciones, tomas y planos que se utilizarán en la producción.
+c) Un guion que describe técnicamente qué tiene que hacer cada actor.
+d) Un guion que incluye la música y los efectos sonoros de la obra.
+45.- El acoso psicológico en el ámbito laboral se denomina:
+a) Burn Out.
+b) Bullyng.
+c) Burnning.
+d) Moobing.
+46.- ¿Cuál de las siguientes afirmaciones describe con mayor precisión la transformación de
 los géneros televisivos en la cobertura de los Juegos Olímpicos en la era digital,
 considerando los impactos del big data, la inteligencia artificial y la interactividad en la
 producción de contenidos deportivos?
-
-a)
-
-b)
-
-c)
-
-d)
-
-La incorporación del big data y la inteligencia artificial en la cobertura televisiva de los
+a) La incorporación del big data y la inteligencia artificial en la cobertura televisiva de los
 Juegos Olímpicos ha dado lugar a un nuevo género de análisis predictivo deportivo en
 tiempo real, que ha reemplazado en gran medida el formato tradicional de la narración
 en directo, disminuyendo la necesidad de comentaristas humanos y alterando la
 percepción del espectador sobre la espontaneidad de la competición.
-
-La convergencia mediática ha potenciado la coexistencia de múltiples géneros
-televisivos en la cobertura olímpica, desde el documental
-inmersivo hasta la
+b) La convergencia mediática ha potenciado la coexistencia de múltiples géneros
+televisivos en la cobertura olímpica, desde el documental inmersivo hasta la
 gamificación de la audiencia, permitiendo experiencias interactivas que personalizan la
 forma en que cada espectador accede al contenido, sin sustituir completamente el
 formato de transmisión en directo.
-
-A pesar del auge de las plataformas digitales, la cobertura televisiva de los Juegos
+c) A pesar del auge de las plataformas digitales, la cobertura televisiva de los Juegos
 Olímpicos sigue basándose mayoritariamente en los géneros tradicionales, ya que el
 consumo en tiempo real de las competiciones continúa siendo el principal atractivo del
-evento,
-lo que ha limitado la implementación de narrativas transmedia y el uso de
+evento, lo que ha limitado la implementación de narrativas transmedia y el uso de
 formatos interactivos avanzados.
-
-La fragmentación de las audiencias provocada por la multiplicidad de plataformas y
+d) La fragmentación de las audiencias provocada por la multiplicidad de plataformas y
 formatos ha generado una crisis de identidad en la cobertura televisiva de los Juegos
 Olímpicos, diluyendo la narrativa central del evento y restando importancia a la
 contextualización histórica y emocional de las competiciones, en favor de un consumo
 más inmediato y fragmentado.
-
 Página: 11 de 25
 
-47.-
-
-El travelling de corto recorrido que se utiliza sobre todo con cámaras reflex para hacer
+47.- El travelling de corto recorrido que se utiliza sobre todo con cámaras reflex para hacer
 suaves desplazamientos se denomina:
-
-a)
-
-Gimbal.
-
-b)
-
-Slider.
-
-c)
-
-Polecam.
-
-d)
-
-Wescam.
-
-48.-
-
-Un story-board es:
-
-a)
-
-Un video musical.
-
-b)
-
-Un dibujo en planta del guion técnico.
-
-c)
-
-Un dibujo plano a plano del guion técnico.
-
-d)
-
-Un dibujo de los ensayos.
-
-49.-
-
-La figura del ambientador musical es la pieza clave en una gran parte de programas y
+a) Gimbal.
+b) Slider.
+c) Polecam.
+d) Wescam.
+48.- Un story-board es:
+a) Un video musical.
+b) Un dibujo en planta del guion técnico.
+c) Un dibujo plano a plano del guion técnico.
+d) Un dibujo de los ensayos.
+49.- La figura del ambientador musical es la pieza clave en una gran parte de programas y
 documentales durante la fase de:
-
-a)
-
-Fase de etalonaje.
-
-b)
-
-Durante la emisión.
-
-c)
-
-Fase de postproducción.
-
-d)
-
-Fase de preproducción.
-
+a) Fase de etalonaje.
+b) Durante la emisión.
+c) Fase de postproducción.
+d) Fase de preproducción.
 Página: 12 de 25
 
-50.-
-
-En el marco de la Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, la
+50.- En el marco de la Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual, la
 regulación de los servicios de comunicación audiovisual a demanda (VOD, Video On
 Demand) ha generado un debate sobre la igualdad competitiva entre los servicios
 tradicionales de televisión y las nuevas plataformas digitales, así como sobre la
@@ -1196,1135 +431,419 @@ las disposiciones de esta ley en relación con las obligaciones de financiación
 europea y la supervisión regulatoria de estos servicios, ¿cuál de las siguientes
 afirmaciones es correcta en virtud del texto inicial publicado en el BOE el 8 de julio de
 2022?
-
-a)
-
-b)
-
-c)
-
-d)
-
-La Ley 13/2022 establece que los prestadores de servicios de comunicación
+a) La Ley 13/2022 establece que los prestadores de servicios de comunicación
 audiovisual a demanda con sede en España deben destinar al menos el 10% de sus
 ingresos brutos generados en el territorio nacional a la financiación anticipada de obras
 audiovisuales europeas, y al menos la mitad de esta obligación debe dirigirse a
 producciones en lenguas oficiales distintas del castellano en sus respectivas
 comunidades autónomas.
-
-La normativa impone a los prestadores de servicios de comunicación audiovisual a
+b) La normativa impone a los prestadores de servicios de comunicación audiovisual a
 demanda que operen en España, aunque no tengan sede en el país, la obligación de
 cumplir con una cuota mínima del 30% de obras europeas en sus catálogos, de las
 cuales al menos un 50% deben ser producciones en lenguas oficiales del Estado
 español, estableciendo un régimen sancionador para aquellos operadores que no
 garanticen la prominencia de estos contenidos en sus plataformas.
-
-La Ley 13/2022 mantiene el principio de no discriminación en el mercado audiovisual
+c) La Ley 13/2022 mantiene el principio de no discriminación en el mercado audiovisual
 europeo, permitiendo que las plataformas de vídeo a demanda con sede en otros
 Estados miembros de la UE puedan operar en España sin estar sujetas a las
 obligaciones de financiación anticipada de obra europea ni a cuotas mínimas de
 contenido local, en cumplimiento del principio de libre prestación de servicios dentro
 del Espacio Económico Europeo.
-
-La normativa establece una obligación diferenciada de contribución a la financiación de
+d) La normativa establece una obligación diferenciada de contribución a la financiación de
 obra audiovisual europea para los servicios de comunicación audiovisual a demanda
 con sede en España y para aquellos que, aunque tengan sede en otro Estado miembro
 de la UE, operen en territorio español. En este último caso, deberán destinar al menos el
 5% de sus ingresos brutos generados en España a la producción de obra europea,
-porcentaje que se incrementa hasta el 6% si
-la plataforma supera un umbral de
+porcentaje que se incrementa hasta el 6% si la plataforma supera un umbral de
 ingresos determinado por la autoridad reguladora.
-
-51.-
-
-En el III Convenio Colectivo de la Corporación RTVE, se distingue entre dos grupos
+51.- En el III Convenio Colectivo de la Corporación RTVE, se distingue entre dos grupos
 profesionales. La diferencia entre el Grupo 1 y el Grupo 2 es:
-
-a)
-
-El horario laboral.
-
-b)
-
-El ámbito ocupacional.
-
-c)
-
-El nivel de formación académica.
-
-d)
-
-La antigüedad laboral en la CRTVE.
-
+a) El horario laboral.
+b) El ámbito ocupacional.
+c) El nivel de formación académica.
+d) La antigüedad laboral en la CRTVE.
 Página: 13 de 25
 
-52.-
-
-¿En qué año se fundó la Federación de Organismos de Radio y Televisión Autonómicos?
-
-a)
-
-1985.
-
-b)
-
-1989.
-
-c)
-
-1990.
-
-d)
-
-1992.
-
-53.-
-
-¿Qué es un Plan de Trabajo?
-
-a)
-
-Es un calendario donde se fijan las necesidades de rodaje o grabación.
-
-b)
-
-Relación de secuencias ordenadas según la acción.
-
-c)
-
-Relación de planos en una secuencia.
-
-d)
-
-Listado de elementos de ambientación necesarios para la grabación.
-
-54.-
-
-Según el art. 6 Ley 8/2009 de financiación de la Corporación de Radio y Televisión
+52.- ¿En qué año se fundó la Federación de Organismos de Radio y Televisión Autonómicos?
+a) 1985.
+b) 1989.
+c) 1990.
+d) 1992.
+53.- ¿Qué es un Plan de Trabajo?
+a) Es un calendario donde se fijan las necesidades de rodaje o grabación.
+b) Relación de secuencias ordenadas según la acción.
+c) Relación de planos en una secuencia.
+d) Listado de elementos de ambientación necesarios para la grabación.
+54.- Según el art. 6 Ley 8/2009 de financiación de la Corporación de Radio y Televisión
 Española, NO se computarán a efectos del cálculo de aportación prevista por los
 prestadores de servicio de comunicación audiovisual televisivo y por los prestadores de
 intercambios de vídeos a través de plataforma, los ingresos brutos obtenidos por:
-
-a)
-
-b)
-
-c)
-
-El rendimiento de obras audiovisuales objeto de financiación anticipada prevista en el
+a) El rendimiento de obras audiovisuales objeto de financiación anticipada prevista en el
 título VI de la Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual.
-
-Alquiler y venta a usuarios finales de equipos descodificadores necesarios para el
+b) Alquiler y venta a usuarios finales de equipos descodificadores necesarios para el
 visionado de contenidos audiovisuales.
-
-Ingresos por comisiones de intermediación en la venta de producción a otros
+c) Ingresos por comisiones de intermediación en la venta de producción a otros
 prestadores de comunicaciones electrónicas o a otros prestadores del servicio de
 comunicación audiovisual.
-
-d)
-
-Cuotas de inscripción, suscripción, prepago o pago por visión directa satisfechos por
+d) Cuotas de inscripción, suscripción, prepago o pago por visión directa satisfechos por
 usuarios finales.
-
-55.-
-
-Las siglas UER y EBU se refieren a:
-
-a)
-
-Organismos diferentes de televisión.
-
-b)
-
-El mismo organismo.
-
-c)
-
-Un organismo de televisión europeo (UER) y el otro norteamericano (EBU).
-
-d)
-
-Dos asociaciones de televidentes.
-
-56.-
-
-Según el artículo 5 de la Ley 17 / 2006, de 5 de junio, de la radio y la televisión de
+55.- Las siglas UER y EBU se refieren a:
+a) Organismos diferentes de televisión.
+b) El mismo organismo.
+c) Un organismo de televisión europeo (UER) y el otro norteamericano (EBU).
+d) Dos asociaciones de televidentes.
+56.- Según el artículo 5 de la Ley 17 / 2006, de 5 de junio, de la radio y la televisión de
 titularidad estatal, el capital social de la Corporación RTVE será:
-
-a)
-
-Íntegramente estatal.
-
-b)
-
-Al menos un 50% estatal.
-
-c)
-
-Estatal al 25%.
-
-d)
-
-Capital social de la SEPI en un 75% y otra procedencia hasta un 25%.
-
+a) Íntegramente estatal.
+b) Al menos un 50% estatal.
+c) Estatal al 25%.
+d) Capital social de la SEPI en un 75% y otra procedencia hasta un 25%.
 Página: 14 de 25
 
-57.-
-
-¿Cuál de los siguientes formatos televisivos pertenece a la categorización que establece
+57.- ¿Cuál de los siguientes formatos televisivos pertenece a la categorización que establece
 Michelle Hilmes?
-
-a)
-
-Series importadas.
-
-b)
-
-Informativos diarios.
-
-c)
-
-Programas religiosos.
-
-d)
-
-Programas de debate deportivo.
-
-58.-
-
-¿Cuál de los siguientes factores tienen en consideración las aseguradoras al evaluar los
+a) Series importadas.
+b) Informativos diarios.
+c) Programas religiosos.
+d) Programas de debate deportivo.
+58.- ¿Cuál de los siguientes factores tienen en consideración las aseguradoras al evaluar los
 riesgos y calcular las primas en las producciones audiovisuales?
-
-a)
-
-La fama de los actores.
-
-b)
-
-El calendario.
-
-c)
-
-Las localizaciones.
-
-d)
-
-La complejidad del proyecto.
-
-59.-
-
-¿Cómo se eligen los miembros del Consejo de Administración de RTVE?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Los miembros del Consejo de Administración serán elegidos por las Cortes Generales,
+a) La fama de los actores.
+b) El calendario.
+c) Las localizaciones.
+d) La complejidad del proyecto.
+59.- ¿Cómo se eligen los miembros del Consejo de Administración de RTVE?
+a) Los miembros del Consejo de Administración serán elegidos por las Cortes Generales,
 a razón de cuatro por el Congreso de los Diputados y seis por el Senado.
-
-Los miembros del Consejo de Administración serán elegidos por las Cortes Generales,
+b) Los miembros del Consejo de Administración serán elegidos por las Cortes Generales,
 a razón de cinco por el Congreso de los Diputados y cinco por el Senado.
-
-Los miembros del Consejo de Administración serán elegidos por las Cortes Generales,
+c) Los miembros del Consejo de Administración serán elegidos por las Cortes Generales,
 a razón de seis por el Congreso de los Diputados y cuatro por el Senado.
-
-Los miembros del Consejo de Administración serán elegidos por las Cortes Generales,
+d) Los miembros del Consejo de Administración serán elegidos por las Cortes Generales,
 a razón de dos por el Congreso de los Diputados y tres por el Senado.
-
-60.-
-
-¿Qué tipo de micrófonos necesitan alimentación phantom?
-
-a)
-
-Micrófono de bobina móvil o dinámico.
-
-b)
-
-Micrófono de cinta.
-
-c)
-
-Micrófono de condensador o electroestático.
-
-d)
-
-Micrófono piezoeléctrico o de cristal.
-
-61.-
-
-Según el
+60.- ¿Qué tipo de micrófonos necesitan alimentación phantom?
+a) Micrófono de bobina móvil o dinámico.
+b) Micrófono de cinta.
+c) Micrófono de condensador o electroestático.
+d) Micrófono piezoeléctrico o de cristal.
+61.- Según el III Convenio Colectivo de RTVE, ¿qué se garantiza a los trabajadores en
 términos de igualdad?
-
-III Convenio Colectivo de RTVE, ¿qué se garantiza a los trabajadores en
-
-a)
-
-Exclusividad en la designación de puestos de alta dirección.
-
-b)
-
-La contratación de personal extranjero sin limitaciones.
-
-c)
-
-Discriminación positiva en puestos ejecutivos.
-
-d)
-
-Igualdad de salario entre hombres y mujeres.
-
+a) Exclusividad en la designación de puestos de alta dirección.
+b) La contratación de personal extranjero sin limitaciones.
+c) Discriminación positiva en puestos ejecutivos.
+d) Igualdad de salario entre hombres y mujeres.
 Página: 15 de 25
 
-62.-
-
-Según el Real Decreto Legislativo 1/1996, de 12 de abril, ¿qué tipo de obras están
+62.- Según el Real Decreto Legislativo 1/1996, de 12 de abril, ¿qué tipo de obras están
 protegidas por la Ley de Propiedad Intelectual, siempre que sean originales?
-
-a)
-
-Solo las obras publicadas en formato físico.
-
-b)
-
-Solo las obras que hayan sido registradas oficialmente.
-
-c)
-
-Todas las obras de creación intelectual que sean originales.
-
-d)
-
-Solo las obras que estén asociadas a un contrato de cesión de derechos.
-
-63.-
-
-En 2021, RTVE implementó una innovación en su cobertura informativa para mejorar la
+a) Solo las obras publicadas en formato físico.
+b) Solo las obras que hayan sido registradas oficialmente.
+c) Todas las obras de creación intelectual que sean originales.
+d) Solo las obras que estén asociadas a un contrato de cesión de derechos.
+63.- En 2021, RTVE implementó una innovación en su cobertura informativa para mejorar la
 accesibilidad de los contenidos para personas con discapacidad. ¿Qué medida adoptaron
 y cómo impactó esta innovación en la experiencia de los usuarios?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Implementación de subtítulos automáticos generados por
-inteligencia artificial,
+a) Implementación de subtítulos automáticos generados por inteligencia artificial,
 mejorando la accesibilidad de los informativos para personas con dificultades auditivas
 en tiempo real.
-
-Incorporación de traductores de lenguaje de señas en tiempo real durante los
+b) Incorporación de traductores de lenguaje de señas en tiempo real durante los
 informativos, proporcionando una mejor integración para personas con discapacidad
 auditiva.
-
-Creación de un canal exclusivo para personas con discapacidad visual, donde los
+c) Creación de un canal exclusivo para personas con discapacidad visual, donde los
 informativos eran narrados en su totalidad para un público con dificultades de visión.
-
-Introducción de una función interactiva que permitía a los usuarios personalizar los
+d) Introducción de una función interactiva que permitía a los usuarios personalizar los
 subtítulos, ajustándolos a su ritmo de lectura y a sus necesidades visuales.
-
 Página: 16 de 25
 
-64.-
-
-De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
+64.- De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos
 Personales y Garantía de los Derechos Digitales, ¿qué obligación tienen los equipos
 técnicos de televisión cuando se utilizan cámaras de videovigilancia en un espacio
 público para grabar un evento y se recogen datos personales, tales como imágenes y
 sonidos de los ciudadanos que no han dado su consentimiento explícito para ser
 grabados?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Los equipos técnicos de televisión tienen la obligación de informar a los ciudadanos de
+a) Los equipos técnicos de televisión tienen la obligación de informar a los ciudadanos de
 que están siendo grabados mediante un sistema de carteles visibles en el área de
 grabación, pero no es necesario obtener el consentimiento explícito de los individuos
 para grabaciones de corta duración si se trata de un evento público con fines
 informativos.
-
-En el caso de que se utilicen cámaras de videovigilancia en espacios públicos, los
+b) En el caso de que se utilicen cámaras de videovigilancia en espacios públicos, los
 equipos técnicos de televisión deben obtener siempre el consentimiento explícito de
 cada individuo grabado, incluso si la grabación es incidental y no tiene un propósito
 directo relacionado con la persona.
-
-Los equipos técnicos de televisión pueden grabar en espacios públicos sin ningún tipo
+c) Los equipos técnicos de televisión pueden grabar en espacios públicos sin ningún tipo
 de consentimiento si las grabaciones se destinan exclusivamente a fines comerciales,
 como la venta de las imágenes o la creación de contenido para programas de
 entretenimiento.
-
-La Ley Orgánica 3/2018 no obliga a los equipos técnicos de televisión a obtener el
+d) La Ley Orgánica 3/2018 no obliga a los equipos técnicos de televisión a obtener el
 consentimiento explícito ni a proporcionar información sobre la grabación cuando se
 utilicen cámaras de videovigilancia en espacios públicos, siempre y cuando las
 grabaciones se destinen exclusivamente a fines de seguridad pública y no sean para
 difundir contenido mediático.
-
-65.-
-
-Al utilizar el recurso de focalización interna en un guion:
-
-a)
-
-El espectador tiene la misma información que el personaje.
-
-b)
-
-El espectador tiene menos información que el personaje.
-
-c)
-
-El espectador tiene más información que el personaje.
-
-d)
-
-Este recurso no afecta al nivel de información que recibe el espectador.
-
-66.-
-
-Un/a figurinista:
-
-a)
-
-Trabaja con el regidor, es ayudante de realización.
-
-b)
-
-Pertenece a la categoría de documentación.
-
-c)
-
-Pertenece al departamento de efectos.
-
-d)
-
-Pertenece al equipo de vestuario.
-
+65.- Al utilizar el recurso de focalización interna en un guion:
+a) El espectador tiene la misma información que el personaje.
+b) El espectador tiene menos información que el personaje.
+c) El espectador tiene más información que el personaje.
+d) Este recurso no afecta al nivel de información que recibe el espectador.
+66.- Un/a figurinista:
+a) Trabaja con el regidor, es ayudante de realización.
+b) Pertenece a la categoría de documentación.
+c) Pertenece al departamento de efectos.
+d) Pertenece al equipo de vestuario.
 Página: 17 de 25
 
-67.-
-
-Si necesitamos utilizar imágenes de una película de 1970, para elaborar una noticia,
-
-a)
-
-Debemos pedir permiso al productor de la película o sus herederos en su defecto.
-
-b)
-
-Podemos utilizarlas solo si el tema de la noticia está relacionado con la película.
-
-c)
-
-Necesitamos permiso de la academia de cine.
-
-d)
-
-Podemos utilizarlas sin coste ya que han pasado más de cincuenta años.
-
-68.-
-
-¿Cuál es el objetivo principal del II Plan de Igualdad de RTVE?
-
-a)
-
-Garantizar la igualdad de trato y oportunidades entre mujeres y hombres.
-
-b)
-
-Aumentar la producción de contenido en igualdad de género.
-
-c)
-
-Reducción de costes laborales según el género.
-
-d)
-
-Crear programas de formación para ejecutivas femeninas.
-
-69.-
-
-Según el artículo 34 de la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley
+67.- Si necesitamos utilizar imágenes de una película de 1970, para elaborar una noticia,
+a) Debemos pedir permiso al productor de la película o sus herederos en su defecto.
+b) Podemos utilizarlas solo si el tema de la noticia está relacionado con la película.
+c) Necesitamos permiso de la academia de cine.
+d) Podemos utilizarlas sin coste ya que han pasado más de cincuenta años.
+68.- ¿Cuál es el objetivo principal del II Plan de Igualdad de RTVE?
+a) Garantizar la igualdad de trato y oportunidades entre mujeres y hombres.
+b) Aumentar la producción de contenido en igualdad de género.
+c) Reducción de costes laborales según el género.
+d) Crear programas de formación para ejecutivas femeninas.
+69.- Según el artículo 34 de la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley
 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal, ¿qué se considera
 una producción propia desde el punto de vista de su naturaleza jurídica?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Aquella en que la Corporación RTVE participa con un porcentaje contractualmente
+a) Aquella en que la Corporación RTVE participa con un porcentaje contractualmente
 delimitado, bien sea en la producción, en la explotación de derechos o en ambas.
-
-Es aquella en la que la Corporación RTVE posee el 100 % de los derechos de
+b) Es aquella en la que la Corporación RTVE posee el 100 % de los derechos de
 explotación. La producción propia tiene que ser producción solo interna.
-
-Es aquella en la que la Corporación RTVE posee el 100 % de los derechos de
+c) Es aquella en la que la Corporación RTVE posee el 100 % de los derechos de
 explotación. La producción propia puede ser producción interna o externa.
-
-Es aquella en la que la Corporación RTVE posee el 100 % de los derechos de
+d) Es aquella en la que la Corporación RTVE posee el 100 % de los derechos de
 comunicación. La producción propia puede ser producción interna o externa.
-
-70.-
-
-El objetivo primordial a la hora de plantearse la realización del plan de rodaje en una
+70.- El objetivo primordial a la hora de plantearse la realización del plan de rodaje en una
 ficción es:
-
-a)
-
-La obtención de la máxima economía de tiempo.
-
-b)
-
-La continuidad narrativa de la historia.
-
-c)
-
-La preservación del orden de las secuencias dramáticas.
-
-d)
-
-Establecer las escenas de acción más complejas del guión.
-
-71.-
-
-¿Qué es una cabeza caliente en tv?
-
-a)
-
-Un dispositivo similar a la grúa, pero más ligero.
-
-b)
-
-Un dispositivo similar a la grúa, pero sin operador.
-
-c)
-
-Un dispositivo similar a la grúa, pero más grande.
-
-d)
-
-Una rotula para trípode de fricción muy suave.
-
+a) La obtención de la máxima economía de tiempo.
+b) La continuidad narrativa de la historia.
+c) La preservación del orden de las secuencias dramáticas.
+d) Establecer las escenas de acción más complejas del guión.
+71.- ¿Qué es una cabeza caliente en tv?
+a) Un dispositivo similar a la grúa, pero más ligero.
+b) Un dispositivo similar a la grúa, pero sin operador.
+c) Un dispositivo similar a la grúa, pero más grande.
+d) Una rotula para trípode de fricción muy suave.
 Página: 18 de 25
 
-72.-
-
-¿Qué asociación profesional española tiene como fin fomentar la presencia igualitaria y
+72.- ¿Qué asociación profesional española tiene como fin fomentar la presencia igualitaria y
 equilibrada de mujeres del sector en el medio audiovisual?
-
-a)
-
-CIMA.
-
-b)
-
-DAMA.
-
-c)
-
-AISGE.
-
-d)
-
-ACTV.
-
-73.-
-
-La ley 31/1995 de prevención de riesgos laborales, de 8 de noviembre, en su artículo 19,
+a) CIMA.
+b) DAMA.
+c) AISGE.
+d) ACTV.
+73.- La ley 31/1995 de prevención de riesgos laborales, de 8 de noviembre, en su artículo 19,
 referente a la formación en materia preventiva de los trabajadores, dice que el
 empresario deberá garantizar esta:
-
-a)
-
-Impartiéndola en cualquier horario adecuado al funcionamiento de la empresa.
-
-b)
-
-Impartiéndola en el horario de trabajo o, en su defecto, en otro, pero descontando el
+a) Impartiéndola en cualquier horario adecuado al funcionamiento de la empresa.
+b) Impartiéndola en el horario de trabajo o, en su defecto, en otro, pero descontando el
 tiempo invertido de la jornada de trabajo.
-
-c)
-
-Impartiéndola solo durante la jornada laboral.
-
-d)
-
-Impartiéndola en horario de fin de semana.
-
-74.-
-
-¿A quién corresponden las competencias para entregar licencias para la prestación de
+c) Impartiéndola solo durante la jornada laboral.
+d) Impartiéndola en horario de fin de semana.
+74.- ¿A quién corresponden las competencias para entregar licencias para la prestación de
 servicios de comunicación audiovisual televisivos mediante ondas hertzianas terrestres
 de ámbito autonómico y local?
-
-a)
-
-A las Comunidades Autónomas.
-
-b)
-
-Al Gobierno Central.
-
-c)
-
-A los Ayuntamientos y Corporaciones Municipales.
-
-d)
-
-Al Consejo Audiovisual Nacional.
-
-75.-
-
-¿Cuál de las siguientes afirmaciones es correcta respecto a la Ley de Protección de
+a) A las Comunidades Autónomas.
+b) Al Gobierno Central.
+c) A los Ayuntamientos y Corporaciones Municipales.
+d) Al Consejo Audiovisual Nacional.
+75.- ¿Cuál de las siguientes afirmaciones es correcta respecto a la Ley de Protección de
 Datos Personales?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Los datos personales pueden ser recopilados y utilizados sin el consentimiento del
+a) Los datos personales pueden ser recopilados y utilizados sin el consentimiento del
 titular si la empresa considera que son necesarios para su actividad económica.
-
-La Ley de Protección de Datos prohíbe la recopilación de datos personales, incluso si el
+b) La Ley de Protección de Datos prohíbe la recopilación de datos personales, incluso si el
 titular da su consentimiento.
-
-La Ley de Protección de Datos garantiza que los datos personales solo se recojan con
+c) La Ley de Protección de Datos garantiza que los datos personales solo se recojan con
 el consentimiento explícito e informado del titular.
-
-Los datos personales pueden ser tratados sin restricciones si la persona es mayor de
+d) Los datos personales pueden ser tratados sin restricciones si la persona es mayor de
 18 años.
-
 Página: 19 de 25
 
-76.-
-
-¿Cuál es el principal beneficio de integrar el sistema CuePilot en una producción de
+76.- ¿Cuál es el principal beneficio de integrar el sistema CuePilot en una producción de
 televisión en directo, especialmente cuando se implementa junto con otros sistemas de
 automatización como el control de cámaras remotas y el sistema de audio digital, y cómo
 mejora la interacción entre los operadores técnicos y el director de producción en
 entornos de emisión complejos?
-
-a)
-
-b)
-
-c)
-
-d)
-
-CuePilot facilita la creación de guiones automatizados para producciones en directo,
+a) CuePilot facilita la creación de guiones automatizados para producciones en directo,
 pero su principal limitación es que no permite la coordinación directa con el equipo de
 cámaras ni con los sistemas de control de audio en tiempo real, lo que reduce su
 eficacia en entornos de alta complejidad.
-
-CuePilot permite la automatización del flujo de trabajo de producción en vivo,
+b) CuePilot permite la automatización del flujo de trabajo de producción en vivo,
 sincronizando las acciones de los equipos técnicos, como cámaras y audio, y
 facilitando una comunicación más eficiente entre el director y los operadores, lo que
 optimiza la ejecución de la emisión en tiempo real sin la necesidad de intervención
 manual constante.
-
-CuePilot solo se utiliza en la automatización de los gráficos en una transmisión,
+c) CuePilot solo se utiliza en la automatización de los gráficos en una transmisión,
 permitiendo la secuenciación de imágenes y transiciones visuales, pero carece de
 integración con los sistemas de control de cámaras y audio, por lo que no mejora la
 coordinación de los equipos técnicos en una emisión en directo.
-
-CuePilot es una herramienta que se usa para gestionar contenido pregrabado y emitirlo
+d) CuePilot es una herramienta que se usa para gestionar contenido pregrabado y emitirlo
 de forma automática durante una transmisión en directo, pero no está diseñado para
 interactuar con los sistemas de cámaras, audio o control en tiempo real durante las
 producciones complejas, limitando su uso a emisiones de baja interacción.
-
-77.-
-
-En las obras anónimas o seudónimas los derechos de la propiedad intelectual, según
+77.- En las obras anónimas o seudónimas los derechos de la propiedad intelectual, según
 Real Decreto Legislativo 1/1996 12 de abril, corresponden a:
-
-a)
-
-Descendientes directos.
-
-b)
-
-A la persona natural o jurídica que la saque a la luz, con el consentimiento del autor
+a) Descendientes directos.
+b) A la persona natural o jurídica que la saque a la luz, con el consentimiento del autor
 mientras este no revele su identidad.
-
-c)
-
-A la editorial u organismo que la publicite.
-
-d)
-
-Al Estado.
-
-78.-
-
-¿A partir de qué hora de fin de tarea tiene derecho el trabajador a cobrar el porcentaje de
+c) A la editorial u organismo que la publicite.
+d) Al Estado.
+78.- ¿A partir de qué hora de fin de tarea tiene derecho el trabajador a cobrar el porcentaje de
 dieta correspondiente a la cena?
-
-a)
-
-21:00.
-
-b)
-
-21:45.
-
-c)
-
-22:30.
-
-d)
-
-23:00.
-
+a) 21:00.
+b) 21:45.
+c) 22:30.
+d) 23:00.
 Página: 20 de 25
 
-79.-
-
-¿Qué es la sinopsis argumental?
-
-a)
-
-Un resumen de la historia, sin entrar en detalles.
-
-b)
-
-Una síntesis de la historia que revela cuándo y dónde sucede la historia.
-
-c)
-
-Es una síntesis de la historia, que nos revela su cuándo, dónde y el desarrollo de la
+79.- ¿Qué es la sinopsis argumental?
+a) Un resumen de la historia, sin entrar en detalles.
+b) Una síntesis de la historia que revela cuándo y dónde sucede la historia.
+c) Es una síntesis de la historia, que nos revela su cuándo, dónde y el desarrollo de la
 acción. Qué y a quién sucede.
-
-d)
-
-Relación de las secuencias ordenadas narrativamente.
-
-80.-
-
-De acuerdo a la Ley de Propiedad intelectual, la duración de los derechos de explotación
+d) Relación de las secuencias ordenadas narrativamente.
+80.- De acuerdo a la Ley de Propiedad intelectual, la duración de los derechos de explotación
 de los productores de las grabaciones audiovisuales es de:
-
-a)
-
-50 años a computar desde el 1 de enero del año en que se realizó.
-
-b)
-
-70 años a computar desde el 1 de enero del año en que se realizó.
-
-c)
-
-50 años a computar desde el 1 de enero del año siguiente a su realización.
-
-d)
-
-70 años a computar desde el 1 de enero del año siguiente a su realización.
-
-81.-
-
-¿Cuál es el principal problema que puede provocar el vestuario con prendas de rayas
+a) 50 años a computar desde el 1 de enero del año en que se realizó.
+b) 70 años a computar desde el 1 de enero del año en que se realizó.
+c) 50 años a computar desde el 1 de enero del año siguiente a su realización.
+d) 70 años a computar desde el 1 de enero del año siguiente a su realización.
+81.- ¿Cuál es el principal problema que puede provocar el vestuario con prendas de rayas
 estrechas, estampados pequeños o espigas?
-
-a)
-
-Se saturan con la iluminación produciendo reflejos en superficies próximas.
-
-b)
-
-Los estampados demasiado pequeños pueden confundirse con el fondo.
-
-c)
-
-Si son estampados en colores claros puede comerse toda la luz y envejecer al
+a) Se saturan con la iluminación produciendo reflejos en superficies próximas.
+b) Los estampados demasiado pequeños pueden confundirse con el fondo.
+c) Si son estampados en colores claros puede comerse toda la luz y envejecer al
 presentador o presentadora.
-
-d)
-
-Pueden causar “moiré”, cruces de colores y vibraciones.
-
-82.-
-
-¿Quién preside actualmente la Academia de la Televisión y de las Ciencias y Artes del
+d) Pueden causar “moiré”, cruces de colores y vibraciones.
+82.- ¿Quién preside actualmente la Academia de la Televisión y de las Ciencias y Artes del
 Audiovisual?
-
-a)
-
-José Pablo López.
-
-b)
-
-María Escario.
-
-c)
-
-María Casado.
-
-d)
-
-Manuel Campo Vidal.
-
-83.-
-
-¿Cuál de las siguientes afirmaciones sobre los accidentes in itinere es correcta en
+a) José Pablo López.
+b) María Escario.
+c) María Casado.
+d) Manuel Campo Vidal.
+83.- ¿Cuál de las siguientes afirmaciones sobre los accidentes in itinere es correcta en
 relación con las medidas preventivas incluida de forma indirecta en la ley 31/1995 ?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Los accidentes in itinere no son considerados accidentes laborales y, por tanto, no
+a) Los accidentes in itinere no son considerados accidentes laborales y, por tanto, no
 requieren medidas preventivas.
-
-Las medidas preventivas para accidentes in itinere incluyen garantizar que los
+b) Las medidas preventivas para accidentes in itinere incluyen garantizar que los
 empleados utilicen medios de transporte seguros y estén informados de las rutas de
 acceso al lugar de trabajo.
-
-Los accidentes in itinere solo se cubren si ocurren durante las horas de trabajo, sin
+c) Los accidentes in itinere solo se cubren si ocurren durante las horas de trabajo, sin
 importar el medio de transporte utilizado.
-
-Los accidentes in itinere no deben ser comunicados al empleador, ya que son ajenos a
+d) Los accidentes in itinere no deben ser comunicados al empleador, ya que son ajenos a
 las condiciones de trabajo.
-
 Página: 21 de 25
 
-84.-
-
-¿Cuál es la unidad utilizada para medir la luminosidad?
-
-a)
-
-Lux.
-
-b)
-
-Lumen.
-
-c)
-
-Vatio.
-
-d)
-
-Ohmio.
-
-85.-
-
-La resolución espacial de la imagen televisiva en Full HD es de:
-
-a)
-
-7.680 x 4.320 pixeles.
-
-b)
-
-1.920 x 1.080 pixeles.
-
-c)
-
-1.270 x 720 pixeles.
-
-d)
-
-720 x 575 pixeles.
-
-86.-
-
-Según recoge la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley 17/2006,
+84.- ¿Cuál es la unidad utilizada para medir la luminosidad?
+a) Lux.
+b) Lumen.
+c) Vatio.
+d) Ohmio.
+85.- La resolución espacial de la imagen televisiva en Full HD es de:
+a) 7.680 x 4.320 pixeles.
+b) 1.920 x 1.080 pixeles.
+c) 1.270 x 720 pixeles.
+d) 720 x 575 pixeles.
+86.- Según recoge la Ley 5/2017, de 29 de septiembre, por la que se modifica la Ley 17/2006,
 de 5 de junio, de la radio y la televisión de titularidad estatal:
-
-a)
-
-b)
-
-c)
-
-d)
-
-El Congreso de los Diputados designará, de entre los doce consejeros electos, al que
+a) El Congreso de los Diputados designará, de entre los doce consejeros electos, al que
 desempeñará el cargo de Presidente de la Corporación RTVE y del Consejo. Tal
 designación requerirá una mayoría de dos tercios de la Cámara.
-
-El Congreso de los Diputados designará, de entre los diez consejeros electos, al que
+b) El Congreso de los Diputados designará, de entre los diez consejeros electos, al que
 desempeñará el cargo de Presidente de la Corporación RTVE y del Consejo. Tal
 designación requerirá una mayoría de dos tercios de la Cámara.
-
-El Congreso de los Diputados designará, de entre los doce consejeros electos, al que
+c) El Congreso de los Diputados designará, de entre los doce consejeros electos, al que
 desempeñará el cargo de Presidente de la Corporación RTVE y del Consejo. Tal
 designación requerirá una mayoría de tres quintos de la Cámara.
-
-El Congreso de los Diputados designará, de entre los diez consejeros electos, al que
+d) El Congreso de los Diputados designará, de entre los diez consejeros electos, al que
 desempeñará el cargo de Presidente de la Corporación RTVE y del Consejo. Tal
 designación requerirá una mayoría de cuatro quintos de la Cámara.
-
-87.-
-
-En iluminación, el sistema TTL se refiere a:
-
-a)
-
-Técnica de medición de la luz incidente por medio de fotómetro.
-
-b)
-
-Técnica de medición de la luz reflejada por medio de fotómetro.
-
-c)
-
-Técnica de medición de la luz a través de la lente de una cámara.
-
-d)
-
-Lectura de la luz por medio de spótmetro.
-
+87.- En iluminación, el sistema TTL se refiere a:
+a) Técnica de medición de la luz incidente por medio de fotómetro.
+b) Técnica de medición de la luz reflejada por medio de fotómetro.
+c) Técnica de medición de la luz a través de la lente de una cámara.
+d) Lectura de la luz por medio de spótmetro.
 Página: 22 de 25
 
-88.-
-
-Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuál de las
+88.- Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿cuál de las
 siguientes afirmaciones sobre la subcontratación en los contratos públicos es correcta?
-
-a)
-
-b)
-
-c)
-
-d)
-
-La subcontratación solo está permitida cuando el contratista principal no dispone de
+a) La subcontratación solo está permitida cuando el contratista principal no dispone de
 recursos suficientes para ejecutar la totalidad del contrato, sin necesidad de aprobación
 previa por parte de la administración contratante.
-
-Los contratistas pueden subcontratar hasta el 50% del valor del contrato sin necesidad
+b) Los contratistas pueden subcontratar hasta el 50% del valor del contrato sin necesidad
 de obtener autorización expresa por parte de la administración pública, siempre que la
 subcontratación no afecte al objeto principal del contrato.
-
-La subcontratación está prohibida en todos los contratos públicos que superen los 5
+c) La subcontratación está prohibida en todos los contratos públicos que superen los 5
 millones de euros, debido a la necesidad de garantizar la competencia directa entre los
 adjudicatarios principales.
-
-Los contratistas deberán informar a la administración contratante sobre la
-subcontratación solo cuando ésta supere el 30% del
-importe total del contrato, y
+d) Los contratistas deberán informar a la administración contratante sobre la
+subcontratación solo cuando ésta supere el 30% del importe total del contrato, y
 siempre deben obtener la aprobación expresa de la administración antes de llevarla a
 cabo.
-
-89.-
-
-Según expresa el artículo 9.1. f) de la Ley 8/2009, de 28 de agosto, de financiación de la
+89.- Según expresa el artículo 9.1. f) de la Ley 8/2009, de 28 de agosto, de financiación de la
 Corporación de Radio y Televisión Española que versa sobre las obligaciones adicionales
 de servicio público de RTVE:
-
-a)
-
-b)
-
-c)
-
-d)
-
-Al menos un 60% de la franja de máxima audiencia de sus canales principales estará
-compuesta por
-largometrajes y cortometrajes cinematográficos, películas para
+a) Al menos un 60% de la franja de máxima audiencia de sus canales principales estará
+compuesta por largometrajes y cortometrajes cinematográficos, películas para
 televisión, documentales, series y programas informativos, culturales y de actualidad
 elaborados por la industria audiovisual europea.
-
-Al menos un 60% de la franja de máxima audiencia de sus canales principales estará
-compuesta por
-largometrajes y cortometrajes cinematográficos, películas para
+b) Al menos un 60% de la franja de máxima audiencia de sus canales principales estará
+compuesta por largometrajes y cortometrajes cinematográficos, películas para
 televisión y documentales elaborados por la industria audiovisual europea.
-
-Al menos un 50% de la franja de máxima audiencia de sus canales principales estará
-compuesta por
-largometrajes y cortometrajes cinematográficos, películas para
+c) Al menos un 50% de la franja de máxima audiencia de sus canales principales estará
+compuesta por largometrajes y cortometrajes cinematográficos, películas para
 televisión y documentales elaborados por la industria audiovisual europea.
-
-Al menos un 25% de la franja de máxima audiencia de sus canales principales estará
-largometrajes y cortometrajes cinematográficos, películas para
-compuesta por
+d) Al menos un 25% de la franja de máxima audiencia de sus canales principales estará
+compuesta por largometrajes y cortometrajes cinematográficos, películas para
 televisión, documentales, series y programas informativos elaborados por la industria
 audiovisual europea.
-
-90.-
-
-¿Qué es el break-down?
-
-a)
-
-El material de atrezzo que se utiliza para simular rotura de cristales.
-
-b)
-
-Un soporte de iluminación utilizado principalmente en exteriores.
-
-c)
-
-El desglose de guion.
-
-d)
-
-El tiempo de descanso obligatorio entre jornadas.
-
+90.- ¿Qué es el break-down?
+a) El material de atrezzo que se utiliza para simular rotura de cristales.
+b) Un soporte de iluminación utilizado principalmente en exteriores.
+c) El desglose de guion.
+d) El tiempo de descanso obligatorio entre jornadas.
 Página: 23 de 25
 
-91.-
-
-Según el artículo 149 de la Constitución Española,
+91.- Según el artículo 149 de la Constitución Española, la legislación sobre propiedad
 intelectual e industrial es:
-
-la legislación sobre propiedad
-
-a)
-
-Competencia exclusiva del Estado.
-
-b)
-
-Competencia de las Comunidades Autónomas.
-
-c)
-
-Competencia del Estado y transferida a las Comunidades Autónomas históricas
+a) Competencia exclusiva del Estado.
+b) Competencia de las Comunidades Autónomas.
+c) Competencia del Estado y transferida a las Comunidades Autónomas históricas
 (Andalucía, Cataluña, Galicia, País Vasco).
-
-d)
-
-Competencia de la OEPM (Oficina Española de Patentes y Marcas).
-
-92.-
-
-La luz llave es:
-
-a)
-
-La luz predominante que se coloca normalmente en posición frontal y cruzada.
-
-b)
-
-La luz que se coloca para separar las figuras del fondo.
-
-c)
-
-La luz que se coloca para iluminar los segundos términos.
-
-d)
-
-La luz que se coloca sobre el decorado e ilumina toda la escena.
-
-93.-
-
-Según la Ley 3/1995 de 8 de noviembre de Prevención de Riesgos Laborales, se debe
+d) Competencia de la OEPM (Oficina Española de Patentes y Marcas).
+92.- La luz llave es:
+a) La luz predominante que se coloca normalmente en posición frontal y cruzada.
+b) La luz que se coloca para separar las figuras del fondo.
+c) La luz que se coloca para iluminar los segundos términos.
+d) La luz que se coloca sobre el decorado e ilumina toda la escena.
+93.- Según la Ley 3/1995 de 8 de noviembre de Prevención de Riesgos Laborales, se debe
 constituir un Comité de Seguridad y Salud Laboral en todas las empresas o centros de
 trabajo que tengan:
-
-a)
-
-50 o más trabajadores.
-
-b)
-
-40 o más trabajadores.
-
-c)
-
-60 o más trabajadores.
-
-d)
-
-45 o más trabajadores.
-
-94.-
-
-La principal aplicación del efecto Haas en el mundo audiovisual es:
-
-a)
-
-b)
-
-c)
-
-d)
-
-Los sistemas HDR basados en la mayor capacidad del ojo humano de distinguir
+a) 50 o más trabajadores.
+b) 40 o más trabajadores.
+c) 60 o más trabajadores.
+d) 45 o más trabajadores.
+94.- La principal aplicación del efecto Haas en el mundo audiovisual es:
+a) Los sistemas HDR basados en la mayor capacidad del ojo humano de distinguir
 múltiples rangos lumínicos.
-
-Los sistemas de compresión de sonido MP3 basados en la imperceptibilidad de
+b) Los sistemas de compresión de sonido MP3 basados en la imperceptibilidad de
 determinadas frecuencias.
-
-Los sistemas de sonido envolvente; Dolby ProLogic, THX, Dts, etc...basados en el efecto
+c) Los sistemas de sonido envolvente; Dolby ProLogic, THX, Dts, etc...basados en el efecto
 de prioridad.
-
-Los sistemas de compresión de imagen MPEG basados en las limitaciones de la
+d) Los sistemas de compresión de imagen MPEG basados en las limitaciones de la
 percepción humana del color.
-
-95.-
-
-La validez de un cuaderno ATA es de:
-
-a)
-
-24 meses.
-
-b)
-
-12 meses.
-
-c)
-
-6 meses.
-
-d)
-
-A negociar en cada viaje.
-
+95.- La validez de un cuaderno ATA es de:
+a) 24 meses.
+b) 12 meses.
+c) 6 meses.
+d) A negociar en cada viaje.
 Página: 24 de 25
 
-96.-
-
-Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, ¿a qué
+96.- Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, ¿a qué
 órgano corresponde la promoción y realización de actividades de formación,
 información, investigación, estudio y divulgación en materia de prevención de riesgos
 laborales?
-
-a)
-
-Coordinación de actividades empresariales.
-
-b)
-
-Comité de Seguridad y Salud.
-
-c)
-
-Instituto Nacional de Seguridad e Higiene en el Trabajo.
-
-d)
-
-Inspección de Trabajo y Seguridad Social.
-
+a) Coordinación de actividades empresariales.
+b) Comité de Seguridad y Salud.
+c) Instituto Nacional de Seguridad e Higiene en el Trabajo.
+d) Inspección de Trabajo y Seguridad Social.
 Página: 25 de 25
-
-

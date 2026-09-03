@@ -1,2097 +1,611 @@
 Ocupación tipo
-
 Técnica Informática
-
 INSTRUCCIONES
-
 Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
-
 La prueba está compuesta por 96 preguntas (80 preguntas principales más 16 preguntas de
 reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
 preguntas principales fuera anulada), debiendo contemplar todas.
-
 Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
 solo elegir UNA de las cuatro opciones.
-
 El sistema de valoración será el siguiente:
-
 Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
-
 Cada pregunta no contestada, contestada de forma distinta a la indicada en las
 instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
-
 Cada pregunta con contestación errónea penaliza 1/3 punto.
-
 Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
-
-Recuerde anotar
-las respuestas en su HOJA DE RESPUESTAS y en la columna
+Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna
 correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
 ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
 instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
 marca o señal distinta de las necesarias para contestar el ejercicio.
-
 Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
 anteriormente facilitadas.
-
 Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
 abandonar la prueba.
-
 Tiempo máximo: 120 minutos.
-
 Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
-                No se permite la reproducción total o parcial de este cuestionario.
+No se permite la reproducción total o parcial de este cuestionario.
 
-1.-
 
-¿Cuál de las siguientes NO es una ventaja de utilizar XML?
-
-a)
-
-Es fácilmente entendible por máquinas y personas.
-
-b)
-
-Facilita el intercambio de datos entre diferentes sistemas.
-
-c)
-
-Tiene una sintaxis muy rígida y poco flexible.
-
-d)
-
-Es extensible y personalizable.
-
-2.-
-
-la
-Según la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales,
+1.- ¿Cuál de las siguientes NO es una ventaja de utilizar XML?
+a) Es fácilmente entendible por máquinas y personas.
+b) Facilita el intercambio de datos entre diferentes sistemas.
+c) Tiene una sintaxis muy rígida y poco flexible.
+d) Es extensible y personalizable.
+2.- Según la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, la
 participación de los trabajadores en las cuestiones relacionadas con la prevención de
 riesgos en el trabajo, se canalizará a través de sus representantes y de la representación
 especializada:
-
-a)
-
-En las empresas o centros de trabajo que cuenten con cinco o más trabajadores.
-
-b)
-
-En las empresas o centros de trabajo que cuenten con seis o más trabajadores.
-
-c)
-
-En las empresas o centros de trabajo que cuenten con algún trabajador.
-
-d)
-
-En las empresas o centros de trabajo que cuenten con, al menos, diez trabajadores.
-
-3.-
-
-¿Cuál de los siguientes procesos de ITIL v3 NO forma parte de la Operación del Servicio?
-
-a)
-
-Gestión de incidentes
-
-b)
-
-Gestión del cambio
-
-c)
-
-Gestión de problemas
-
-d)
-
-Gestión de accesos
-
-4.-
-
-¿Qué pseudoclase de CSS permite seleccionar los elementos pares?
-
-a)
-
-:even.
-
-b)
-
-:is(even).
-
-c)
-
-:nth-child(2n).
-
-d)
-
-:even().
-
-5.-
-
-¿En cuál de los siguientes lenguajes orientados a objetos no es posible instanciar una
+a) En las empresas o centros de trabajo que cuenten con cinco o más trabajadores.
+b) En las empresas o centros de trabajo que cuenten con seis o más trabajadores.
+c) En las empresas o centros de trabajo que cuenten con algún trabajador.
+d) En las empresas o centros de trabajo que cuenten con, al menos, diez trabajadores.
+3.- ¿Cuál de los siguientes procesos de ITIL v3 NO forma parte de la Operación del Servicio?
+a) Gestión de incidentes
+b) Gestión del cambio
+c) Gestión de problemas
+d) Gestión de accesos
+4.- ¿Qué pseudoclase de CSS permite seleccionar los elementos pares?
+a) :even.
+b) :is(even).
+c) :nth-child(2n).
+d) :even().
+5.- ¿En cuál de los siguientes lenguajes orientados a objetos no es posible instanciar una
 clase?
+a) C#
+b) C++
+c) Java
+d) Python
 
-a)
-
-C#
-
-b)
-
-C++
-
-c)
-
-Java
-
-d)
-
-Python
-
-Página: 1 de 19
-
-6.-
-
-Se quiere interconectar las redes de dos edificios, separados una distancia de 5 Km, sin
+6.- Se quiere interconectar las redes de dos edificios, separados una distancia de 5 Km, sin
 utilizar ningún dispositivo electrónico intermedio. El ancho de banda deseado de la
 interconexión es de 1 Gbps. ¿Qué medio de transmisión sería el adecuado?
-
-a)
-
-Fibra óptica multimodo.
-
-b)
-
-Fibra óptica monomodo.
-
-c)
-
-Cable de par trenzado no apantallado (UTP).
-
-d)
-
-Cable de par trenzado apantallado (STP).
-
-7.-
-
-No es un Sistema de Gestión de Bases de Datos (SGBD):
-
-a)
-
-Apache TomCat.
-
-b)
-
-MySQL.
-
-c)
-
-MariaDB.
-
-d)
-
-PostgreSQL.
-
-8.-
-
-De acuerdo con la normativa vigente en materia de protección de datos personales, ¿qué
-tiempo de
-plazo máximo de conservación define el “principio de limitación del
+a) Fibra óptica multimodo.
+b) Fibra óptica monomodo.
+c) Cable de par trenzado no apantallado (UTP).
+d) Cable de par trenzado apantallado (STP).
+7.- No es un Sistema de Gestión de Bases de Datos (SGBD):
+a) Apache TomCat.
+b) MySQL.
+c) MariaDB.
+d) PostgreSQL.
+8.- De acuerdo con la normativa vigente en materia de protección de datos personales, ¿qué
+plazo máximo de conservación define el “principio de limitación del tiempo de
 conservación”?
+a) 2 años
+b) 5 años
+c) 10 años
+d) Debe limitarse en el tiempo al logro de los fines que persigue el tratamiento.
+9.- ¿Cuál es el rango de direcciones IP privadas de clase A?
+a) 10.0.0.0 a 10.255.255.255
+b) 10.0.0.0 a 10.0.0.255
+c) 172.16.0.0 a 172.31.255.255
+d) 192.168.0.0 a 192.168.255.255
+10.- ¿Cuál de las siguientes bases de datos no es relacional?
+a) MySQL.
+b) H2.
+c) SQL Server.
+d) MongoDB.
 
-a)
-
-2 años
-
-b)
-
-5 años
-
-c)
-
-10 años
-
-d)
-
-Debe limitarse en el tiempo al logro de los fines que persigue el tratamiento.
-
-9.-
-
-¿Cuál es el rango de direcciones IP privadas de clase A?
-
-a)
-
-10.0.0.0 a 10.255.255.255
-
-b)
-
-10.0.0.0 a 10.0.0.255
-
-c)
-
-172.16.0.0 a 172.31.255.255
-
-d)
-
-192.168.0.0 a 192.168.255.255
-
-10.-
-
-¿Cuál de las siguientes bases de datos no es relacional?
-
-a)
-
-MySQL.
-
-b)
-
-H2.
-
-c)
-
-SQL Server.
-
-d)
-
-MongoDB.
-
-Página: 2 de 19
-
-11.-
-
-¿Qué dispositivo hardware de los siguientes se considera como un dispositivo de entrada/
+11.- ¿Qué dispositivo hardware de los siguientes se considera como un dispositivo de entrada/
 salida?
-
-a)
-
-El teclado.
-
-b)
-
-El monitor.
-
-c)
-
-El disco duro.
-
-d)
-
-La impresora.
-
-12.-
-
-¿Cuál de las siguientes sentencias SQL pertenece a la categoría de DDL?
-
-a)
-
-SELECT
-
-b)
-
-CREATE
-
-c)
-
-DELETE
-
-d)
-
-UPDATE
-
-13.-
-
-En SQL, ¿cómo se seleccionan todos los registros de una tabla?
-
-a)
-
-SELECT * FROM nombreTabla;
-
-b)
-
-SELECT all FROM nombreTabla;
-
-c)
-
-SELECT FROM nombreTabla;
-
-d)
-
-SELECT any FROM nombreTabla;
-
-14.-
-
-¿Qué puerto utiliza el protocolo ligero de acceso a directorios (LDAP)?
-
-a)
-
-399
-
-b)
-
-389
-
-c)
-
-289
-
-d)
-
-209
-
-15.-
-
-¿Qué nivel de seguridad se considera que tiene una red DMZ (zona desmilitarizada),
+a) El teclado.
+b) El monitor.
+c) El disco duro.
+d) La impresora.
+12.- ¿Cuál de las siguientes sentencias SQL pertenece a la categoría de DDL?
+a) SELECT
+b) CREATE
+c) DELETE
+d) UPDATE
+13.- En SQL, ¿cómo se seleccionan todos los registros de una tabla?
+a) SELECT * FROM nombreTabla;
+b) SELECT all FROM nombreTabla;
+c) SELECT FROM nombreTabla;
+d) SELECT any FROM nombreTabla;
+14.- ¿Qué puerto utiliza el protocolo ligero de acceso a directorios (LDAP)?
+a) 399
+b) 389
+c) 289
+d) 209
+15.- ¿Qué nivel de seguridad se considera que tiene una red DMZ (zona desmilitarizada),
 también llamada red perimetral?:
-
-a)
-
-Más segura que las redes internas y que las redes externas.
-
-b)
-
-Menos segura que las redes internas y que las redes externas.
-
-c)
-
-Menos segura que las redes internas, pero más segura que las redes externas.
-
-d)
-
-Más segura que las redes internas, pero menos segura que las redes externas.
-
-16.-
-
-En los sistemas operativos Microsoft Windows, ¿cuál de las siguientes extensiones está
+a) Más segura que las redes internas y que las redes externas.
+b) Menos segura que las redes internas y que las redes externas.
+c) Menos segura que las redes internas, pero más segura que las redes externas.
+d) Más segura que las redes internas, pero menos segura que las redes externas.
+16.- En los sistemas operativos Microsoft Windows, ¿cuál de las siguientes extensiones está
 asociada a un archivo que contiene un instalador de una aplicación?
+a) xml
+b) msi
+c) html
+d) doc
 
-a)
-
-xml
-
-b)
-
-msi
-
-c)
-
-html
-
-d)
-
-doc
-
-Página: 3 de 19
-
-17.-
-
-Es el conjunto de datos o información que se ingresa dentro de una tabla:
-
-a)
-
-Datos.
-
-b)
-
-Informaciones.
-
-c)
-
-Textos.
-
-d)
-
-Registros.
-
-18.-
-
-¿Qué tipo de lenguaje es Python en el contexto de la POO?
-
-a)
-
-Es un lenguaje solo orientado a objetos.
-
-b)
-
-Es solo compatible con programación imperativa.
-
-c)
-
-No es compatible con POO.
-
-d)
-
-Es compatible con POO y programación imperativa, entre otras.
-
-19.-
-
-El comando pwd en el sistema operativo Unix/Linux sirve para:
-
-a)
-
-Cambiar la contraseña de un usuario.
-
-b)
-
-Apagar, reiniciar o programar el apagado o reinicio del sistema de manera controlada.
-
-c)
-
-Mostrar los procesos en ejecución en tiempo real, así como el uso de CPU y memoria.
-
-d)
-
-Mostrar la ruta completa del directorio de trabajo actual.
-
-20.-
-
-Relativo a un JWT, ¿cuál de las siguientes afirmaciones es correcta?
-
-a)
-
-Revocar el contenido relacionado con la autenticación y autorización es más mucho
+17.- Es el conjunto de datos o información que se ingresa dentro de una tabla:
+a) Datos.
+b) Informaciones.
+c) Textos.
+d) Registros.
+18.- ¿Qué tipo de lenguaje es Python en el contexto de la POO?
+a) Es un lenguaje solo orientado a objetos.
+b) Es solo compatible con programación imperativa.
+c) No es compatible con POO.
+d) Es compatible con POO y programación imperativa, entre otras.
+19.- El comando pwd en el sistema operativo Unix/Linux sirve para:
+a) Cambiar la contraseña de un usuario.
+b) Apagar, reiniciar o programar el apagado o reinicio del sistema de manera controlada.
+c) Mostrar los procesos en ejecución en tiempo real, así como el uso de CPU y memoria.
+d) Mostrar la ruta completa del directorio de trabajo actual.
+20.- Relativo a un JWT, ¿cuál de las siguientes afirmaciones es correcta?
+a) Revocar el contenido relacionado con la autenticación y autorización es más mucho
 más sencillo que hacerlo mediante cookies.
-
-b)
-
-Consta de tres partes separadas por un punto.
-
-c)
-
-Su uso está restringido a la autenticación y autorización entre el cliente y el servidor.
-
-d)
-
-Su uso está restringido a la autenticación y autorización entre servidores.
-
-21.-
-
-Según el II Plan para la Igualdad entre Mujeres y Hombres en la Corporación RTVE
+b) Consta de tres partes separadas por un punto.
+c) Su uso está restringido a la autenticación y autorización entre el cliente y el servidor.
+d) Su uso está restringido a la autenticación y autorización entre servidores.
+21.- Según el II Plan para la Igualdad entre Mujeres y Hombres en la Corporación RTVE
 (2022-2026), la Comisión de Igualdad constituida el 17 de febrero de 2009, está formada
 por:
-
-a)
-
-6 representantes de la dirección, 6 representantes de la parte social y 1 representante
+a) 6 representantes de la dirección, 6 representantes de la parte social y 1 representante
 del Consejo de Informativos.
-
-b)
-
-7 representantes de la dirección y 7 representantes de la parte social.
-
-c)
-
-d)
-
-4 representantes de la Dirección de Bienestar Laboral,
+b) 7 representantes de la dirección y 7 representantes de la parte social.
+c) 4 representantes de la Dirección de Bienestar Laboral, Igualdad y Diversidad y 7
 representantes de la parte social.
-
-Igualdad y Diversidad y 7
-
-6 representantes de la dirección, 5 representantes de la parte social y 2 representantes
+d) 6 representantes de la dirección, 5 representantes de la parte social y 2 representantes
 de la comisión permanente de igualdad del Senado.
 
-Página: 4 de 19
-
-22.-
-
-¿Cuál de las siguientes NO es una capa del modelo OSI (Interconexión de Sistemas
+22.- ¿Cuál de las siguientes NO es una capa del modelo OSI (Interconexión de Sistemas
 Abiertos)?
-
-a)
-
-Transporte.
-
-b)
-
-Inalámbrica.
-
-c)
-
-Sesión.
-
-d)
-
-Aplicación.
-
-23.-
-
-¿Qué extensión de los certificados X.509 permite cubrir múltiples dominios web con un
+a) Transporte.
+b) Inalámbrica.
+c) Sesión.
+d) Aplicación.
+23.- ¿Qué extensión de los certificados X.509 permite cubrir múltiples dominios web con un
 único certificado HTTPS?
-
-a)
-
-SNI.
-
-b)
-
-SAN.
-
-c)
-
-Host.
-
-d)
-
-VirtualHost.
-
-24.-
-
-¿Cuál de las siguientes instrucciones SQL se usa para contar el número de registros que
+a) SNI.
+b) SAN.
+c) Host.
+d) VirtualHost.
+24.- ¿Cuál de las siguientes instrucciones SQL se usa para contar el número de registros que
 contiene una tabla?
+a) SELECT COUNT(*) FROM tabla.
+b) SELECT ROWS() FROM tabla.
+c) SELECT SUM(*) FROM tabla.
+d) SELECT MAX(*) FROM tabla.
+25.- ¿Qué instrucción muestra los permisos extendidos (ACLs) de un archivo en Linux?
+a) ls -acl.
+b) sysctl.
+c) getfacl.
+d) systemctl.
+26.- ¿Cuál es el puerto estándar utilizado por HTTP?
+a) 25
+b) 443
+c) 80
+d) 8080
 
-a)
-
-SELECT COUNT(*) FROM tabla.
-
-b)
-
-SELECT ROWS() FROM tabla.
-
-c)
-
-SELECT SUM(*) FROM tabla.
-
-d)
-
-SELECT MAX(*) FROM tabla.
-
-25.-
-
-¿Qué instrucción muestra los permisos extendidos (ACLs) de un archivo en Linux?
-
-a)
-
-ls -acl.
-
-b)
-
-sysctl.
-
-c)
-
-getfacl.
-
-d)
-
-systemctl.
-
-26.-
-
-¿Cuál es el puerto estándar utilizado por HTTP?
-
-a)
-
-25
-
-b)
-
-443
-
-c)
-
-80
-
-d)
-
-8080
-
-Página: 5 de 19
-
-27.-
-
-¿Qué relación de aspecto de vídeo se considera panorámica y es utilizada en la mayoría
+27.- ¿Qué relación de aspecto de vídeo se considera panorámica y es utilizada en la mayoría
 de pantallas modernas?
-
-a)
-
-La relación de aspecto 4:3.
-
-b)
-
-La relación de aspecto 1:1.
-
-c)
-
-La relación de aspecto 16:9.
-
-d)
-
-La relación de aspecto 5:4.
-
-28.-
-
-¿De cuántos bits consta una dirección IPv6?
-
-a)
-
-32
-
-b)
-
-64
-
-c)
-
-128
-
-d)
-
-192
-
-29.-
-
-¿Según el artículo 15 de la ley 31/1995, de 8 de noviembre, de Prevención de Riesgos
+a) La relación de aspecto 4:3.
+b) La relación de aspecto 1:1.
+c) La relación de aspecto 16:9.
+d) La relación de aspecto 5:4.
+28.- ¿De cuántos bits consta una dirección IPv6?
+a) 32
+b) 64
+c) 128
+d) 192
+29.- ¿Según el artículo 15 de la ley 31/1995, de 8 de noviembre, de Prevención de Riesgos
 Laborales, cuál de los siguientes supuestos es un principio de acción preventiva?
-
-a)
-
-Combatir los riesgos a medida que ocurran accidentes.
-
-b)
-
-Adoptar medidas que antepongan la protección individual a la colectiva.
-
-c)
-
-Que los trabajadores por su cuenta, adopten ellos mismos,
+a) Combatir los riesgos a medida que ocurran accidentes.
+b) Adoptar medidas que antepongan la protección individual a la colectiva.
+c) Que los trabajadores por su cuenta, adopten ellos mismos, las medidas que crean
 necesarias.
-
-las medidas que crean
-
-d)
-
-Sustituir lo peligroso por lo que entrañe poco o ningún peligro.
-
-30.-
-
-¿Qué conjunto de estándares de la SMPTE establece la norma para la transmisión de
+d) Sustituir lo peligroso por lo que entrañe poco o ningún peligro.
+30.- ¿Qué conjunto de estándares de la SMPTE establece la norma para la transmisión de
 audio, video y datos auxiliares asociados a la media sobre redes IP?
-
-a)
-
-SMPTE 2001
-
-b)
-
-SMPTE 2100
-
-c)
-
-SMPTE 2010
-
-d)
-
-SMPTE 2110
-
-31.-
-
-Relativo a la metodología SCRUM: ¿Cuál de las siguientes características es propia de un
+a) SMPTE 2001
+b) SMPTE 2100
+c) SMPTE 2010
+d) SMPTE 2110
+31.- Relativo a la metodología SCRUM: ¿Cuál de las siguientes características es propia de un
 sprint?
-
-a)
-
-Los requisitos de un sprint son variables durante el mismo.
-
-b)
-
-El resultado de un sprint es un producto que, potencialmente, se puede entregar.
-
-c)
-
-Tiene una duración fija durante todo el proyecto, de un mínimo de 4 semanas.
-
-d)
-
-Durante el sprint, los Developer se reúnen diariamente con el Product Owner y el Scrum
+a) Los requisitos de un sprint son variables durante el mismo.
+b) El resultado de un sprint es un producto que, potencialmente, se puede entregar.
+c) Tiene una duración fija durante todo el proyecto, de un mínimo de 4 semanas.
+d) Durante el sprint, los Developer se reúnen diariamente con el Product Owner y el Scrum
 Master.
 
-Página: 6 de 19
-
-32.-
-
-¿Para qué sirve el protocolo SNMP?
-
-a)
-
-Para enviar correos electrónicos.
-
-b)
-
-Para transferir ficheros de forma segura.
-
-c)
-
-Para intercambiar información de administración entre dispositivos de red y poder
+32.- ¿Para qué sirve el protocolo SNMP?
+a) Para enviar correos electrónicos.
+b) Para transferir ficheros de forma segura.
+c) Para intercambiar información de administración entre dispositivos de red y poder
 monitorizarlos.
-
-d)
-
-Para la sincronización horaria de equipos y dispositivos.
-
-33.-
-
-Cuál de las siguientes es la dirección de loopback IPv6:
-
-a)
-
-::/0
-
-b)
-
-::1/128
-
-c)
-
-fe81::/1
-
-d)
-
-ffff:/1
-
-34.-
-
-En Windows 11, ¿qué comando muestra las conexiones TCP activas?
-
-a)
-
-services.msc
-
-b)
-
-netstat
-
-c)
-
-tracert
-
-d)
-
-conexionList
-
-35.-
-
-¿Qué protocolo se usa para el intercambio de información de encaminamiento entre
+d) Para la sincronización horaria de equipos y dispositivos.
+33.- Cuál de las siguientes es la dirección de loopback IPv6:
+a) ::/0
+b) ::1/128
+c) fe81::/1
+d) ffff:/1
+34.- En Windows 11, ¿qué comando muestra las conexiones TCP activas?
+a) services.msc
+b) netstat
+c) tracert
+d) conexionList
+35.- ¿Qué protocolo se usa para el intercambio de información de encaminamiento entre
 diferentes sistemas autónomos (AS) de Internet haciendo uso de los números de
 sistemas autónomos (ASN) asignados por la IANA?
-
-a)
-
-BGP.
-
-b)
-
-RIPv1.
-
-c)
-
-RIPv2.
-
-d)
-
-OSPF.
-
-36.-
-
-La técnica de seguridad informática que se basa en la ejecución de programas o
+a) BGP.
+b) RIPv1.
+c) RIPv2.
+d) OSPF.
+36.- La técnica de seguridad informática que se basa en la ejecución de programas o
 aplicaciones en un espacio virtual limitado, en el cual se pueden controlar todos los
 procesos sin que afecten al resto del equipo, se denomina:
+a) ITIL.
+b) Phising.
+c) Sandboxing.
+d) Sniffer.
 
-a)
-
-ITIL.
-
-b)
-
-Phising.
-
-c)
-
-Sandboxing.
-
-d)
-
-Sniffer.
-
-Página: 7 de 19
-
-37.-
-
-¿Qué tecnología se implementó en Windows 7 para prevenir el robo de información
+37.- ¿Qué tecnología se implementó en Windows 7 para prevenir el robo de información
 mediante la extracción física del disco?
-
-a)
-
-BitLocker Drive Encryption.
-
-b)
-
-TPM.
-
-c)
-
-EFS.
-
-d)
-
-WPA3.
-
-38.-
-
-¿Qué lenguaje de programación incluye conceptos como clases, objetos o herencia,
+a) BitLocker Drive Encryption.
+b) TPM.
+c) EFS.
+d) WPA3.
+38.- ¿Qué lenguaje de programación incluye conceptos como clases, objetos o herencia,
 considerados esenciales en la programación orientada a objetos?
-
-a)
-
-C.
-
-b)
-
-SQL.
-
-c)
-
-JSON.
-
-d)
-
-Java.
-
-39.-
-
-¿Qué dispositivo de seguridad es un WAF?
-
-a)
-
-Wide Area Firewall
-
-b)
-
-Web Application Filter
-
-c)
-
-Wide Area Filter
-
-d)
-
-Web Application Firewall
-
-40.-
-
-¿Qué elemento se utiliza en HTML5 para reproducir audio sin recurrir a plugins?
-
-a)
-
-La etiqueta “music”.
-
-b)
-
-La etiqueta “audio”.
-
-c)
-
-La etiqueta “sound”.
-
-d)
-
-La etiqueta “player”.
-
-41.-
-
-¿Qué comando permite ver los procesos en ejecución en Linux?
-
-a)
-
-ls
-
-b)
-
-top
-
-c)
-
-pwd
-
-d)
-
-grep
-
-42.-
-
-¿Cuántos pares de cobre se utilizan en 1000BASE-T con cableado de categoría 6 a 1000
+a) C.
+b) SQL.
+c) JSON.
+d) Java.
+39.- ¿Qué dispositivo de seguridad es un WAF?
+a) Wide Area Firewall
+b) Web Application Filter
+c) Wide Area Filter
+d) Web Application Firewall
+40.- ¿Qué elemento se utiliza en HTML5 para reproducir audio sin recurrir a plugins?
+a) La etiqueta “music”.
+b) La etiqueta “audio”.
+c) La etiqueta “sound”.
+d) La etiqueta “player”.
+41.- ¿Qué comando permite ver los procesos en ejecución en Linux?
+a) ls
+b) top
+c) pwd
+d) grep
+42.- ¿Cuántos pares de cobre se utilizan en 1000BASE-T con cableado de categoría 6 a 1000
 Mbps en full duplex?
+a) Un par para transmisión y otro par para recepción.
+b) Un par para transmisión y recepción simultánea.
+c) Dos pares para transmisión y dos pares para recepción.
+d) Cuatro pares para transmisión y recepción simultánea.
 
-a)
-
-Un par para transmisión y otro par para recepción.
-
-b)
-
-Un par para transmisión y recepción simultánea.
-
-c)
-
-Dos pares para transmisión y dos pares para recepción.
-
-d)
-
-Cuatro pares para transmisión y recepción simultánea.
-
-Página: 8 de 19
-
-43.-
-
-Si tenemos dos puertos de un conmutador (switch) de red configurados como puertos de
+43.- Si tenemos dos puertos de un conmutador (switch) de red configurados como puertos de
 acceso de la misma VLAN, y en cada uno conectamos un ordenador, ambos ordenadores:
-
-a)
-
-Estarán en el mismo dominio de difusión (broadcast) y en el mismo dominio de colisión.
-
-b)
-
-c)
-
-Estarán en el mismo dominio de difusión (broadcast), pero en distinto dominio de
+a) Estarán en el mismo dominio de difusión (broadcast) y en el mismo dominio de colisión.
+b) Estarán en el mismo dominio de difusión (broadcast), pero en distinto dominio de
 colisión.
-
-Estarán en distinto dominio de difusión (broadcast), pero en el mismo dominio de
+c) Estarán en distinto dominio de difusión (broadcast), pero en el mismo dominio de
 colisión.
-
-d)
-
-Estarán en distinto dominio de difusión (broadcast) y en distinto dominio de colisión.
-
-44.-
-
-En un fichero de audio codificado en PCM lineal con una frecuencia de muestreo de 48
+d) Estarán en distinto dominio de difusión (broadcast) y en distinto dominio de colisión.
+44.- En un fichero de audio codificado en PCM lineal con una frecuencia de muestreo de 48
 kHz, ¿cuál es el límite superior de las frecuencias que puede contener?
-
-a)
-
-48 KHz
-
-b)
-
-96 KHz
-
-c)
-
-24 KHz
-
-d)
-
-Depende de la resolución de cuantificación (número de bits por muestra).
-
-45.-
-
-Indica cuál de las siguientes direcciones IPv4 es una dirección pública de clase C:
-
-a)
-
-10.50.100.62
-
-b)
-
-192.168.150.86
-
-c)
-
-201.55.23.147
-
-d)
-
-146.34.207.39
-
-46.-
-
-En la arquitectura cliente-servidor, ¿qué lenguaje se ejecuta únicamente en el lado del
+a) 48 KHz
+b) 96 KHz
+c) 24 KHz
+d) Depende de la resolución de cuantificación (número de bits por muestra).
+45.- Indica cuál de las siguientes direcciones IPv4 es una dirección pública de clase C:
+a) 10.50.100.62
+b) 192.168.150.86
+c) 201.55.23.147
+d) 146.34.207.39
+46.- En la arquitectura cliente-servidor, ¿qué lenguaje se ejecuta únicamente en el lado del
 servidor?:
+a) JavaScript
+b) PHP
+c) HTML
+d) VBScript
+47.- En el lenguaje SQL: SELECT, INSERT, UPDATE y DELETE son las sentencias básicas del…
+a) DML
+b) DDL
+c) Control de transacciones
+d) Control de autorización
 
-a)
-
-JavaScript
-
-b)
-
-PHP
-
-c)
-
-HTML
-
-d)
-
-VBScript
-
-47.-
-
-En el lenguaje SQL: SELECT, INSERT, UPDATE y DELETE son las sentencias básicas del…
-
-a)
-
-DML
-
-b)
-
-DDL
-
-c)
-
-Control de transacciones
-
-d)
-
-Control de autorización
-
-Página: 9 de 19
-
-48.-
-
-JSON es el acrónimo de:
-
-a)
-
-Java’s Object Notation.
-
-b)
-
-JavaScript Online Notation.
-
-c)
-
-JavaScript Object Nomination.
-
-d)
-
-JavaScript Object Notation.
-
-49.-
-
-¿Desde qué año es vigente el II Plan de Igualdad entre Mujeres y Hombres en la
+48.- JSON es el acrónimo de:
+a) Java’s Object Notation.
+b) JavaScript Online Notation.
+c) JavaScript Object Nomination.
+d) JavaScript Object Notation.
+49.- ¿Desde qué año es vigente el II Plan de Igualdad entre Mujeres y Hombres en la
 Corporación RTVE?
-
-a)
-
-2021.
-
-b)
-
-2022.
-
-c)
-
-2023.
-
-d)
-
-2024.
-
-50.-
-
-¿Qué propiedad CSS establece el tipo de alineación horizontal del texto dentro de un
+a) 2021.
+b) 2022.
+c) 2023.
+d) 2024.
+50.- ¿Qué propiedad CSS establece el tipo de alineación horizontal del texto dentro de un
 elemento?
-
-a)
-
-text-justify.
-
-b)
-
-text-align.
-
-c)
-
-horizontal-justify.
-
-d)
-
-justify.
-
-51.-
-
-¿Qué lenguaje describe la interfaz (operaciones, mensajes y tipos de datos) de un
+a) text-justify.
+b) text-align.
+c) horizontal-justify.
+d) justify.
+51.- ¿Qué lenguaje describe la interfaz (operaciones, mensajes y tipos de datos) de un
 servicio web SOAP?
+a) WSDL.
+b) XSD.
+c) XML.
+d) REST.
+52.- ¿En qué generación se comenzaron a usar los circuitos integrados?
+a) Primera.
+b) Segunda.
+c) Tercera.
+d) Cuarta.
 
-a)
-
-WSDL.
-
-b)
-
-XSD.
-
-c)
-
-XML.
-
-d)
-
-REST.
-
-52.-
-
-¿En qué generación se comenzaron a usar los circuitos integrados?
-
-a)
-
-Primera.
-
-b)
-
-Segunda.
-
-c)
-
-Tercera.
-
-d)
-
-Cuarta.
-
-Página: 10 de 19
-
-53.-
-
-El software que conecta dos aplicaciones para compartir recursos de proceso de datos,
+53.- El software que conecta dos aplicaciones para compartir recursos de proceso de datos,
 se conoce como:
-
-a)
-
-Firmware
-
-b)
-
-Middleware
-
-c)
-
-Interfaz de usuario
-
-d)
-
-Shareware
-
-54.-
-
-¿Cuál de los siguientes es un protocolo de encaminamiento externo?
-
-a)
-
-Telnet.
-
-b)
-
-BGP.
-
-c)
-
-OSPF.
-
-d)
-
-RIP.
-
-55.-
-
-Un programa escrito en Java puede ejecutarse en cualquier plataforma porque:
-
-a)
-
-La máquina virtual de Java (JVM) interpreta el programa para cada sistema operativo.
-
-b)
-
-El API de Java ha sido diseñada con ese fin.
-
-c)
-
-El lenguaje Java deriva de C/C++.
-
-d)
-
-Java es un lenguaje interpretado.
-
-56.-
-
-¿Qué metodología propia del Ministerio de Hacienda y Función Pública en España se
+a) Firmware
+b) Middleware
+c) Interfaz de usuario
+d) Shareware
+54.- ¿Cuál de los siguientes es un protocolo de encaminamiento externo?
+a) Telnet.
+b) BGP.
+c) OSPF.
+d) RIP.
+55.- Un programa escrito en Java puede ejecutarse en cualquier plataforma porque:
+a) La máquina virtual de Java (JVM) interpreta el programa para cada sistema operativo.
+b) El API de Java ha sido diseñada con ese fin.
+c) El lenguaje Java deriva de C/C++.
+d) Java es un lenguaje interpretado.
+56.- ¿Qué metodología propia del Ministerio de Hacienda y Función Pública en España se
 basa en normas como ISO/IEC 12207 y 15504?
-
-a)
-
-Agile.
-
-b)
-
-Scrum.
-
-c)
-
-MÉTRICA V3.
-
-d)
-
-Kanban.
-
-57.-
-
-¿De cuántas capas consta la pila de protocolos TCP/IP?
-
-a)
-
-2
-
-b)
-
-4
-
-c)
-
-6
-
-d)
-
-7
-
-58.-
-
-¿Qué hace el Control de Cuentas de Usuario, User Account Control o UAC de Windows?
-
-a)
-
-Aplica las directivas de grupo que le corresponden al usuario.
-
-b)
-
-Comprueba si la contraseña de algún usuario ha caducado.
-
-c)
-
-d)
-
-Notifica y pide confirmación al usuario cuando se van a realizar cambios que requieren
+a) Agile.
+b) Scrum.
+c) MÉTRICA V3.
+d) Kanban.
+57.- ¿De cuántas capas consta la pila de protocolos TCP/IP?
+a) 2
+b) 4
+c) 6
+d) 7
+58.- ¿Qué hace el Control de Cuentas de Usuario, User Account Control o UAC de Windows?
+a) Aplica las directivas de grupo que le corresponden al usuario.
+b) Comprueba si la contraseña de algún usuario ha caducado.
+c) Notifica y pide confirmación al usuario cuando se van a realizar cambios que requieren
 privilegios administrativos.
-
-Comprueba los permisos NTFS de carpetas y archivos cuando el usuario intenta
+d) Comprueba los permisos NTFS de carpetas y archivos cuando el usuario intenta
 acceder a ellos.
 
-Página: 11 de 19
-
-59.-
-
-En JavaScript, ¿qué tipo de lógica de programación utilizan los WebSockets para notificar
+59.- En JavaScript, ¿qué tipo de lógica de programación utilizan los WebSockets para notificar
 actividades como recepción de mensajes, gestión de errores y cierre de conexión?
-
-a)
-
-Eventos ("addEventListener()") y excepciones (try / catch / finally).
-
-b)
-
-Retrollamadas ("onmessage()", etc) y excepciones (try / catch / finally).
-
-c)
-
-Retrollamadas ("onmessage()", etc) y promesas ("then()", "catch()" y "finally()").
-
-d)
-
-Eventos ("addEventListener()") y retrollamadas ("onmessage()", etc).
-
-60.-
-
-¿Cuál es el número de puerto estándar que utiliza el protocolo HTTPS?
-
-a)
-
-80
-
-b)
-
-8080
-
-c)
-
-443
-
-d)
-
-8443
-
-61.-
-
-El lenguaje de descripción de servicios web es:
-
-a)
-
-WSDL
-
-b)
-
-WSLD
-
-c)
-
-WML
-
-d)
-
-W3CC
-
-62.-
-
-Si la entrada DNS www.dominio.es de tipo A tiene un TTL de 60, ¿teóricamente cuál sería
+a) Eventos ("addEventListener()") y excepciones (try / catch / finally).
+b) Retrollamadas ("onmessage()", etc) y excepciones (try / catch / finally).
+c) Retrollamadas ("onmessage()", etc) y promesas ("then()", "catch()" y "finally()").
+d) Eventos ("addEventListener()") y retrollamadas ("onmessage()", etc).
+60.- ¿Cuál es el número de puerto estándar que utiliza el protocolo HTTPS?
+a) 80
+b) 8080
+c) 443
+d) 8443
+61.- El lenguaje de descripción de servicios web es:
+a) WSDL
+b) WSLD
+c) WML
+d) W3CC
+62.- Si la entrada DNS www.dominio.es de tipo A tiene un TTL de 60, ¿teóricamente cuál sería
 el tiempo máximo que tardaría en propagarse hasta los clientes un cambio del contenido
 del registro?
-
-a)
-
-Un minuto.
-
-b)
-
-Una hora.
-
-c)
-
-Un día y 12 horas.
-
-d)
-
-De 24 horas a 48 horas.
-
-63.-
-
-¿Cuál es el estándar de interoperabilidad establecido por la Audio Engineering Society
+a) Un minuto.
+b) Una hora.
+c) Un día y 12 horas.
+d) De 24 horas a 48 horas.
+63.- ¿Cuál es el estándar de interoperabilidad establecido por la Audio Engineering Society
 para trabajar con señales de audio sobre IP y redes Ethernet?
+a) AES65
+b) AES66
+c) AES67
+d) AES68
 
-a)
-
-AES65
-
-b)
-
-AES66
-
-c)
-
-AES67
-
-d)
-
-AES68
-
-Página: 12 de 19
-
-64.-
-
-¿Qué se utiliza en la codificación de los formatos de audio FLAC y ALAC?
-
-a)
-
-Codificación perceptual.
-
-b)
-
-Compresión de dinámica.
-
-c)
-
-Compresión con pérdida (lossy).
-
-d)
-
-Compresión sin pérdida (lossless).
-
-65.-
-
-¿Cuál es la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos
+64.- ¿Qué se utiliza en la codificación de los formatos de audio FLAC y ALAC?
+a) Codificación perceptual.
+b) Compresión de dinámica.
+c) Compresión con pérdida (lossy).
+d) Compresión sin pérdida (lossless).
+65.- ¿Cuál es la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos
 Digitales?
-
-a)
-
-Ley Orgánica 3/2018, de 5 de diciembre.
-
-b)
-
-Ley Orgánica 3/2019, de 5 de diciembre.
-
-c)
-
-Ley Orgánica 5/2018, de 5 de diciembre.
-
-d)
-
-Ley Orgánica 5/2018, de 15 de diciembre.
-
-66.-
-
-En JavaScript en un documento HTML, ¿cuál es el objeto global que actúa como ámbito
+a) Ley Orgánica 3/2018, de 5 de diciembre.
+b) Ley Orgánica 3/2019, de 5 de diciembre.
+c) Ley Orgánica 5/2018, de 5 de diciembre.
+d) Ley Orgánica 5/2018, de 15 de diciembre.
+66.- En JavaScript en un documento HTML, ¿cuál es el objeto global que actúa como ámbito
 global para las variables creadas y en el que los elementos del DOM son accesibles por
 su id?
-
-a)
-
-window.
-
-b)
-
-document.
-
-c)
-
-global.
-
-d)
-
-body.
-
-67.-
-
-Señala cuál de los siguientes protocolos pertenece a la capa de transporte (capa 4) del
+a) window.
+b) document.
+c) global.
+d) body.
+67.- Señala cuál de los siguientes protocolos pertenece a la capa de transporte (capa 4) del
 modelo OSI:
+a) Ethernet.
+b) TCP.
+c) IP.
+d) HTTP.
+68.- ¿Cuál es el tipo del cual heredan todos los tipos de dato de la plataforma .NET?
+a) System.Class
+b) System.ValueType
+c) System.Type
+d) System.Object
 
-a)
-
-Ethernet.
-
-b)
-
-TCP.
-
-c)
-
-IP.
-
-d)
-
-HTTP.
-
-68.-
-
-¿Cuál es el tipo del cual heredan todos los tipos de dato de la plataforma .NET?
-
-a)
-
-System.Class
-
-b)
-
-System.ValueType
-
-c)
-
-System.Type
-
-d)
-
-System.Object
-
-Página: 13 de 19
-
-69.-
-
-De las siguientes afirmaciones referidas a interfaces de vídeo, señala cuál es
+69.- De las siguientes afirmaciones referidas a interfaces de vídeo, señala cuál es
 INCORRECTA:
-
-a)
-
-DVI puede transportar señal de vídeo tanto analógica como digital.
-
-b)
-
-HDMI puede transportar señal de vídeo tanto analógica como digital.
-
-c)
-
-HDMI puede transportar también señal de audio.
-
-d)
-
-El conector DisplayPort de tamaño completo puede tener un mecanismo de retención
+a) DVI puede transportar señal de vídeo tanto analógica como digital.
+b) HDMI puede transportar señal de vídeo tanto analógica como digital.
+c) HDMI puede transportar también señal de audio.
+d) El conector DisplayPort de tamaño completo puede tener un mecanismo de retención
 para evitar su desconexión accidental.
-
-70.-
-
-¿Qué direcciones utilizan los enrutadores (router) para enviar paquetes de datos
+70.- ¿Qué direcciones utilizan los enrutadores (router) para enviar paquetes de datos
 correctamente?
-
-a)
-
-Dirección MAC.
-
-b)
-
-Dirección SMB.
-
-c)
-
-Dirección física.
-
-d)
-
-Dirección IP.
-
-71.-
-
-¿Qué protocolo fue creado por Netscape en 1994 para asegurar la navegación web?
-
-a)
-
-DNS
-
-b)
-
-HTTPS
-
-c)
-
-FTP
-
-d)
-
-CSMA/CD
-
-72.-
-
-¿Qué función tiene el Gestor de E/S (I/O Manager) en un Sistema Operativo?
-
-a)
-
-Realizar operaciones aritmético-lógicas.
-
-b)
-
-Permitir la comunicación entre dispositivos y subsistemas del modo usuario.
-
-c)
-
-Administrar procesos del sistema operativo.
-
-d)
-
-Controlar la red.
-
-73.-
-
-¿Qué marco de trabajo de JavaScript basado en componentes es conocido por su
+a) Dirección MAC.
+b) Dirección SMB.
+c) Dirección física.
+d) Dirección IP.
+71.- ¿Qué protocolo fue creado por Netscape en 1994 para asegurar la navegación web?
+a) DNS
+b) HTTPS
+c) FTP
+d) CSMA/CD
+72.- ¿Qué función tiene el Gestor de E/S (I/O Manager) en un Sistema Operativo?
+a) Realizar operaciones aritmético-lógicas.
+b) Permitir la comunicación entre dispositivos y subsistemas del modo usuario.
+c) Administrar procesos del sistema operativo.
+d) Controlar la red.
+73.- ¿Qué marco de trabajo de JavaScript basado en componentes es conocido por su
 eficacia en la creación de aplicaciones web de página única (SPA)?
+a) Laravel.
+b) Spring.
+c) Angular.
+d) jQuery.
 
-a)
-
-Laravel.
-
-b)
-
-Spring.
-
-c)
-
-Angular.
-
-d)
-
-jQuery.
-
-Página: 14 de 19
-
-74.-
-
-¿Qué es una Java Server Page (JSP) en J2EE?
-
-a)
-
-Una tecnología que permite crear páginas web dinámicas usando código Java.
-
-b)
-
-Un sistema de gestión de bases de datos.
-
-c)
-
-Un protocolo de comunicación para el intercambio de información entre el navegador y
+74.- ¿Qué es una Java Server Page (JSP) en J2EE?
+a) Una tecnología que permite crear páginas web dinámicas usando código Java.
+b) Un sistema de gestión de bases de datos.
+c) Un protocolo de comunicación para el intercambio de información entre el navegador y
 el servidor.
-
-d)
-
-Un framework para testing.
-
-75.-
-
-¿Qué significan las siglas JDK?
-
-a)
-
-Java Developer Knowledge
-
-b)
-
-Java Development Knowledge
-
-c)
-
-Java Developer Kit
-
-d)
-
-Java Development Kit
-
-76.-
-
-La métrica de un enrutador:
-
-a)
-
-b)
-
-c)
-
-Distintos caminos hacia un mismo enrutador tendrán siempre la misma métrica porque
+d) Un framework para testing.
+75.- ¿Qué significan las siglas JDK?
+a) Java Developer Knowledge
+b) Java Development Knowledge
+c) Java Developer Kit
+d) Java Development Kit
+76.- La métrica de un enrutador:
+a) Distintos caminos hacia un mismo enrutador tendrán siempre la misma métrica porque
 el destino final es el mismo.
-
-Es la distancia en metros del medio de transmisión, desde el enrutador al siguiente
+b) Es la distancia en metros del medio de transmisión, desde el enrutador al siguiente
 equipo destino, ya sea otro enrutador o un “host”.
-
-En ningún caso los enrutadores utilizan la métrica, solo lo usan los equipos clientes que
+c) En ningún caso los enrutadores utilizan la métrica, solo lo usan los equipos clientes que
 inician la comunicación.
-
-d)
-
-Se utiliza para calcular el mejor trayecto hacia un destino disponible.
-
-77.-
-
-Un usuario está conectado con su ordenador a Internet a través de una red WLAN abierta
+d) Se utiliza para calcular el mejor trayecto hacia un destino disponible.
+77.- Un usuario está conectado con su ordenador a Internet a través de una red WLAN abierta
 de un lugar público. En el ordenador, ha establecido una conexión VPN por software para
 acceder a la red de su empresa, y está accediendo mediante el navegador web a la
 Intranet de dicha empresa. ¿Podría otro usuario conectado a la misma red inalámbrica,
 mediante un software analizador de paquetes (sniffer), espiar su actividad en la Intranet?
-
-a)
-
-Solamente si el protocolo usado para la navegación web es http y no https.
-
-b)
-
-Sí, tanto si el protocolo usado en la navegación web es http como si es https.
-
-c)
-
-d)
-
-No, tanto si el protocolo usado en la navegación web es http como si es https, porque el
+a) Solamente si el protocolo usado para la navegación web es http y no https.
+b) Sí, tanto si el protocolo usado en la navegación web es http como si es https.
+c) No, tanto si el protocolo usado en la navegación web es http como si es https, porque el
 tráfico en la WLAN está encriptado.
-
-No, tanto si el protocolo usado en la navegación web es http como si es https, porque el
+d) No, tanto si el protocolo usado en la navegación web es http como si es https, porque el
 tráfico a través de la VPN está encriptado.
+78.- ¿Cuál es la función principal de XPath?
+a) Transformar documentos XML en otros formatos (HTML, PDF).
+b) Consultar y seleccionar nodos dentro de un documento XML.
+c) Validar la estructura de un documento XML.
+d) Definir la estructura de un documento XML.
 
-78.-
-
-¿Cuál es la función principal de XPath?
-
-a)
-
-Transformar documentos XML en otros formatos (HTML, PDF).
-
-b)
-
-Consultar y seleccionar nodos dentro de un documento XML.
-
-c)
-
-Validar la estructura de un documento XML.
-
-d)
-
-Definir la estructura de un documento XML.
-
-Página: 15 de 19
-
-79.-
-
-¿Qué destino tienen los ingresos que superen el coste neto de servicio público prestado
+79.- ¿Qué destino tienen los ingresos que superen el coste neto de servicio público prestado
 por RTVE según la ley 8/2009 de Financiación de la Corporación de Radio y Televisión
 Española?
-
-a)
-
-Reducir las compensaciones estatales.
-
-b)
-
-Destinarlos a gastos corrientes de la Corporación.
-
-c)
-
-Crear un fondo de reserva.
-
-d)
-
-Invertir en publicidad.
-
-80.-
-
-¿Qué tipo de tráfico de red requiere QoS?
-
-a)
-
-Correo electrónico.
-
-b)
-
-Videoconferencia.
-
-c)
-
-Compras en línea.
-
-d)
-
-Descargas de software.
-
-81.-
-
-¿Cuál de los siguientes es un tipo de datos estructurado, dinámico y NO lineal?
-
-a)
-
-Cola.
-
-b)
-
-Pila.
-
-c)
-
-Árbol.
-
-d)
-
-Lista.
-
-82.-
-
-¿Cuál de las siguientes opciones NO es un gestor de dependencias de paquetes Java?
-
-a)
-
-Maven.
-
-b)
-
-Gradle.
-
-c)
-
-Composer.
-
-d)
-
-Ivy.
-
-83.-
-
-¿Cuál es el nombre por el que se conoce a la implementación de Microsoft del protocolo
+a) Reducir las compensaciones estatales.
+b) Destinarlos a gastos corrientes de la Corporación.
+c) Crear un fondo de reserva.
+d) Invertir en publicidad.
+80.- ¿Qué tipo de tráfico de red requiere QoS?
+a) Correo electrónico.
+b) Videoconferencia.
+c) Compras en línea.
+d) Descargas de software.
+81.- ¿Cuál de los siguientes es un tipo de datos estructurado, dinámico y NO lineal?
+a) Cola.
+b) Pila.
+c) Árbol.
+d) Lista.
+82.- ¿Cuál de las siguientes opciones NO es un gestor de dependencias de paquetes Java?
+a) Maven.
+b) Gradle.
+c) Composer.
+d) Ivy.
+83.- ¿Cuál es el nombre por el que se conoce a la implementación de Microsoft del protocolo
 LDAP?
+a) Office365
+b) Microsoft EntraID
+c) Directorio Activo
+d) Microsoft LDAP
+84.- ¿Cuál de las siguientes opciones es un gestor de dependencias de paquetes Python?
+a) Composer.
+b) PIP.
+c) Django.
+d) PyManager.
 
-a)
-
-Office365
-
-b)
-
-Microsoft EntraID
-
-c)
-
-Directorio Activo
-
-d)
-
-Microsoft LDAP
-
-84.-
-
-¿Cuál de las siguientes opciones es un gestor de dependencias de paquetes Python?
-
-a)
-
-Composer.
-
-b)
-
-PIP.
-
-c)
-
-Django.
-
-d)
-
-PyManager.
-
-Página: 16 de 19
-
-85.-
-
-En la metodología ITIL, ¿cuál es el PRINCIPAL uso de un calendario de cambios?
-
-a)
-
-Planificar cambios y ayudar a evitar conflictos.
-
-b)
-
-Gestionar cambios de emergencia.
-
-c)
-
-Respaldar la gestión de incidentes y la planificación de la mejora.
-
-d)
-
-Gestionar cambios estándar.
-
-86.-
-
-Struts es un framework basado en el patrón de arquitectura de software:
-
-a)
-
-Modelo-Vista-Controlador.
-
-b)
-
-Cliente-Servidor.
-
-c)
-
-De Capas.
-
-d)
-
-Maestro-Esclavo.
-
-87.-
-
-La Constitución Española, en su artículo 97 dice que:
-
-a)
-
-b)
-
-El Gobierno dirige la política interior y exterior,
+85.- En la metodología ITIL, ¿cuál es el PRINCIPAL uso de un calendario de cambios?
+a) Planificar cambios y ayudar a evitar conflictos.
+b) Gestionar cambios de emergencia.
+c) Respaldar la gestión de incidentes y la planificación de la mejora.
+d) Gestionar cambios estándar.
+86.- Struts es un framework basado en el patrón de arquitectura de software:
+a) Modelo-Vista-Controlador.
+b) Cliente-Servidor.
+c) De Capas.
+d) Maestro-Esclavo.
+87.- La Constitución Española, en su artículo 97 dice que:
+a) El Gobierno dirige la política interior y exterior, la Administración civil y militar y la
 defensa del Estado.
-
-la Administración civil y militar y la
-
-El Gobierno dirige la política interior y exterior, la Administración civil y militar y el Rey la
+b) El Gobierno dirige la política interior y exterior, la Administración civil y militar y el Rey la
 defensa del Estado.
-
-c)
-
-El rey sanciona y promulga las leyes.
-
-d)
-
-El Gobierno dirige la política interior, exterior y la Administración civil y el Rey la
+c) El rey sanciona y promulga las leyes.
+d) El Gobierno dirige la política interior, exterior y la Administración civil y el Rey la
 Administración militar y la defensa del Estado.
-
-88.-
-
-¿Cuál es la edad mínima para que un menor pueda otorgar su consenimiento para el
+88.- ¿Cuál es la edad mínima para que un menor pueda otorgar su consenimiento para el
 tratamiento de sus datos personales según la Ley Orgánica 3/2018, de 5 de diciembre, de
 Protección de datos Personales y garantía de los derechos digitales?
+a) 18 años.
+b) 12 años.
+c) 16 años.
+d) 14 años.
+89.- ¿Qué es un DTD en XML?
+a) Un tipo de elemento XML.
+b) Una definición de tipo de documento.
+c) Una herramienta de edición XML.
+d) Un lenguaje de programación.
 
-a)
-
-18 años.
-
-b)
-
-12 años.
-
-c)
-
-16 años.
-
-d)
-
-14 años.
-
-89.-
-
-¿Qué es un DTD en XML?
-
-a)
-
-Un tipo de elemento XML.
-
-b)
-
-Una definición de tipo de documento.
-
-c)
-
-Una herramienta de edición XML.
-
-d)
-
-Un lenguaje de programación.
-
-Página: 17 de 19
-
-90.-
-
-¿Cuál es la función del kernel en un sistema operativo Unix/Linux?
-
-a)
-
-Controlar los procesos, la memoria y la administración de dispositivos.
-
-b)
-
-Gestionar la interfaz gráfica.
-
-c)
-
-Proporcionar servicios de red, como TCP/IP.
-
-d)
-
-Facilitar la comunicación entre usuarios a través de terminales.
-
-91.-
-
-Las dimensiones de la seguridad que contempla el Esquema Nacional de Seguridad son
+90.- ¿Cuál es la función del kernel en un sistema operativo Unix/Linux?
+a) Controlar los procesos, la memoria y la administración de dispositivos.
+b) Gestionar la interfaz gráfica.
+c) Proporcionar servicios de red, como TCP/IP.
+d) Facilitar la comunicación entre usuarios a través de terminales.
+91.- Las dimensiones de la seguridad que contempla el Esquema Nacional de Seguridad son
 Disponibilidad, Integridad, Confidencialidad, Trazabilidad y:
-
-a)
-
-Autenticidad
-
-b)
-
-Autoridad
-
-c)
-
-Legitimidad
-
-d)
-
-Responsabilidad
-
-92.-
-
-En Programación Orientada a Objetos, ¿qué significa sobrecargar (overload) un método?
-
-a)
-
-Editarlo para modificar su comportamiento.
-
-b)
-
-Cambiarle el nombre dejándolo con la misma funcionalidad.
-
-c)
-
-Crear un método con el mismo nombre, pero diferentes argumentos.
-
-d)
-
-Añadirle funcionalidades a un método.
-
-93.-
-
-Para ver las dependencias de un servicio en Windows:
-
-a)
-
-b)
-
-c)
-
-En el cuadro de búsqueda de la barra de tareas, escribimos "servicios y dependencias" y
+a) Autenticidad
+b) Autoridad
+c) Legitimidad
+d) Responsabilidad
+92.- En Programación Orientada a Objetos, ¿qué significa sobrecargar (overload) un método?
+a) Editarlo para modificar su comportamiento.
+b) Cambiarle el nombre dejándolo con la misma funcionalidad.
+c) Crear un método con el mismo nombre, pero diferentes argumentos.
+d) Añadirle funcionalidades a un método.
+93.- Para ver las dependencias de un servicio en Windows:
+a) En el cuadro de búsqueda de la barra de tareas, escribimos "servicios y dependencias" y
 se nos abre al consola de servicios, en la que aparece en columnas, los servicios, la
 descripción, el estado y las dependencias asociadas al servicio.
-
-Vamos a “inicio -> sistema -> servicios”. Aquí nos aparece el listado en columnas de los
+b) Vamos a “inicio -> sistema -> servicios”. Aquí nos aparece el listado en columnas de los
 servicios, el estado y las dependencias asociadas.
-
-Dentro de la consola de administración de equipos y servicios, vamos a servicios y
+c) Dentro de la consola de administración de equipos y servicios, vamos a servicios y
 buscamos el servicio en cuestión. Aquí, con el botón derecho del ratón marcamos
 propiedades y dentro de esta ventana nos aparece una pestaña con las dependencias.
-
-d)
-
-Desde el “PowerShell” ejecutamos el comando get-service, obteniendo el
+d) Desde el “PowerShell” ejecutamos el comando get-service, obteniendo el listado de
 servicios, número de proceso, número de proceso padre y procesos dependientes.
+94.- ¿Cuál de las siguientes opciones es un gestor de dependencias de paquetes PHP?
+a) Maven.
+b) PECL.
+c) YUM.
+d) Composer.
 
-listado de
-
-94.-
-
-¿Cuál de las siguientes opciones es un gestor de dependencias de paquetes PHP?
-
-a)
-
-Maven.
-
-b)
-
-PECL.
-
-c)
-
-YUM.
-
-d)
-
-Composer.
-
-Página: 18 de 19
-
-95.-
-
-¿Cuál de las siguientes rutas UNC (Universal Naming Convention) de acceso a recursos
+95.- ¿Cuál de las siguientes rutas UNC (Universal Naming Convention) de acceso a recursos
 de red NO es correcta?
-
-a)
-
-\\SRV7\Repositorio\Video.mp4
-
-b)
-
-\\SRV7\C$\Repositorio\Video.mp4
-
-c)
-
-\\SRV7\C:\Repositorio\Video.mp4
-
-d)
-
-\\192.168.100.7\Repositorio\Video.mp4
-
-96.-
-
-Cuál de los siguientes es un algoritmo criptográfico simétrico:
-
-a)
-
-RSA.
-
-b)
-
-IDEA.
-
-c)
-
-Diffie-Hellman.
-
-d)
-
-Cifrado ElGamal.
-
-Página: 19 de 19
-
-
+a) \\SRV7\Repositorio\Video.mp4
+b) \\SRV7\C$\Repositorio\Video.mp4
+c) \\SRV7\C:\Repositorio\Video.mp4
+d) \\192.168.100.7\Repositorio\Video.mp4
+96.- Cuál de los siguientes es un algoritmo criptográfico simétrico:
+a) RSA.
+b) IDEA.
+c) Diffie-Hellman.
+d) Cifrado ElGamal.

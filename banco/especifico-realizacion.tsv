@@ -18,6 +18,13 @@
 # **Y dos preguntas se salen del programa**, marcadas en su motivo: la historia
 # de la primera emisión televisada española y la entidad de gestión de derechos
 # de autor. Ninguna de las dos materias está en el Anexo 2 de esta ocupación.
+# **Ojo con el nombre.** Los cuadernillos `66_preguntas_realizacion_a` y
+# `68_preguntas_realizacion_b` son de la ocupación tipo de **Realización**, que
+# tiene su propio Anexo 2 y no está en este proyecto. Casaban por subcadena con
+# esta ocupación y sus 240 preguntas entraban aquí **como pendientes**: el banco
+# decía «209 repartidas de 439, quedan 230 sin clasificar» y no faltaba ninguna.
+# El generador los separa por nombre exacto.
+#
 origen	numero	tema	motivo
 60_preguntas_realizacion_asist	112	01	Historia de la televisión en España: no está en el Anexo 2 de esta ocupación
 62_preguntas_realizacion_asist_2_llamamiento	21	01	Tratamiento del programa dramático: género televisivo

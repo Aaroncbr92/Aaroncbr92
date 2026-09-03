@@ -22,16 +22,11 @@ d) su tamaño de debe ser proporcional a la mesa de trabajo.
 **13_preguntas_fx · nº 29 · respuesta: c**
 
 ```
-29.-
-¿Qué situación define un accidente "in itinere"?
-a)
-Un accidente mientras se realiza una reparación en el trabajo
-b)
-Un incidente durante el descanso, dentro del recinto laboral
-c)
-Un accidente ocurrido al desplazarse desde el domicilio al lugar de trabajo
-d)
-Un accidente durante el teletrabajo
+29.- ¿Qué situación define un accidente "in itinere"?
+a) Un accidente mientras se realiza una reparación en el trabajo
+b) Un incidente durante el descanso, dentro del recinto laboral
+c) Un accidente ocurrido al desplazarse desde el domicilio al lugar de trabajo
+d) Un accidente durante el teletrabajo
 ```
 
 ---
@@ -39,16 +34,11 @@ Un accidente durante el teletrabajo
 **13_preguntas_fx · nº 39 · respuesta: b**
 
 ```
-39.-
-¿Qué tipo de extintor se usa con equipos eléctricos?
-a)
-Agua.
-b)
-Polvo o Co2.
-c)
-Espuma.
-d)
-Arena.
+39.- ¿Qué tipo de extintor se usa con equipos eléctricos?
+a) Agua.
+b) Polvo o Co2.
+c) Espuma.
+d) Arena.
 ```
 
 ---
@@ -56,16 +46,11 @@ Arena.
 **13_preguntas_fx · nº 48 · respuesta: d**
 
 ```
-48.-
-¿En qué situación es más adecuado utilizar un extintor de polvo en lugar de uno de CO?
-a)
-En un incendio en un equipo eléctrico en funcionamiento
-b)
-En un espacio cerrado con personas
-c)
-En un incendio de líquidos inflamables en espacio cerrado sin ventilación
-d)
-En un incendio de materiales sólidos como madera o papel en exteriores
+48.- ¿En qué situación es más adecuado utilizar un extintor de polvo en lugar de uno de CO ?
+a) En un incendio en un equipo eléctrico en funcionamiento
+b) En un espacio cerrado con personas
+c) En un incendio de líquidos inflamables en espacio cerrado sin ventilación
+d) En un incendio de materiales sólidos como madera o papel en exteriores
 ```
 
 ---
@@ -73,28 +58,13 @@ En un incendio de materiales sólidos como madera o papel en exteriores
 **23_preguntas_gea · nº 6 · respuesta: c**
 
 ```
-6.-
-estructuras
-¿Qué
+6.- ¿Qué estructuras corporales pueden verse afectadas por los trastornos
 musculoesqueléticos (TME) de origen laboral?
-corporales
-pueden
-verse
-afectadas
-por
-los
-trastornos
-a)
-Sólo los músculos.
-b)
-Músculos, articulaciones y tendones.
-c)
-Músculos, articulaciones,
+a) Sólo los músculos.
+b) Músculos, articulaciones y tendones.
+c) Músculos, articulaciones, tendones, ligamentos, nervios, huesos y el sistema
 circulatorio.
-tendones,
-ligamentos, nervios, huesos y el sistema
-d)
-Sólo los huesos y el sistema circulatorio.
+d) Sólo los huesos y el sistema circulatorio.
 ```
 
 ---
@@ -102,17 +72,12 @@ Sólo los huesos y el sistema circulatorio.
 **23_preguntas_gea · nº 19 · respuesta: b**
 
 ```
-19.-
-¿Cuál de los siguientes factores de riesgo está más asociado con los trastornos
+19.- ¿Cuál de los siguientes factores de riesgo está más asociado con los trastornos
 musculoesqueléticos en la extremidad superior?
-a)
-Exposición a ruidos fuertes.
-b)
-Movimientos repetitivos.
-c)
-Trabajo en ambientes fríos.
-d)
-Exposición a sustancias químicas.
+a) Exposición a ruidos fuertes.
+b) Movimientos repetitivos.
+c) Trabajo en ambientes fríos.
+d) Exposición a sustancias químicas.
 ```
 
 ---
@@ -120,20 +85,15 @@ Exposición a sustancias químicas.
 **23_preguntas_gea · nº 48 · respuesta: a**
 
 ```
-48.-
-Entre los factores de riesgo biomecánicos que pueden dar lugar a la aparición de los
+48.- Entre los factores de riesgo biomecánicos que pueden dar lugar a la aparición de los
 trastornos musculoesqueléticos (TME) de origen laboral, se encuentran una serie de
 movimientos que pueden suponer un riesgo si se realizan de manera repetida, ¿a cuáles
 nos referimos?
-a)
-Movimientos de pronosupinación de antebrazos o muñecas, extensiones y flexiones de
+a) Movimientos de pronosupinación de antebrazos o muñecas, extensiones y flexiones de
 muñeca, desviaciones radiales o cubitales.
-b)
-Movimientos de piernas y pies.
-c)
-Movimientos de cabeza y cuello.
-d)
-Movimientos de abdomen y pecho.
+b) Movimientos de piernas y pies.
+c) Movimientos de cabeza y cuello.
+d) Movimientos de abdomen y pecho.
 ```
 
 ---
@@ -141,17 +101,12 @@ Movimientos de abdomen y pecho.
 **23_preguntas_gea · nº 61 · respuesta: c**
 
 ```
-61.-
-¿Qué es un accidente de trabajo “in misión”?
-a)
-El que ocurre durante el tiempo de descanso en el hogar del trabajador.
-b)
-El que ocurre mientras el trabajador está realizando su labor habitual en la empresa.
-c)
-El que ocurre mientras el trabajador está llevando a cabo tareas relacionadas con su
+61.- ¿Qué es un accidente de trabajo “in misión”?
+a) El que ocurre durante el tiempo de descanso en el hogar del trabajador.
+b) El que ocurre mientras el trabajador está realizando su labor habitual en la empresa.
+c) El que ocurre mientras el trabajador está llevando a cabo tareas relacionadas con su
 trabajo, pero fuera de su lugar habitual de trabajo.
-d)
-El que sucede durante el trayecto del trabajador hacia su lugar de trabajo.
+d) El que sucede durante el trayecto del trabajador hacia su lugar de trabajo.
 ```
 
 ---
@@ -159,16 +114,11 @@ El que sucede durante el trayecto del trabajador hacia su lugar de trabajo.
 **23_preguntas_gea · nº 70 · respuesta: b**
 
 ```
-70.-
-¿Qué se considera una contingencia profesional?
-a)
-Una enfermedad derivada de causas ajenas al trabajo.
-b)
-Un accidente que ocurre durante el desplazamiento al trabajo (in itinere).
-c)
-La incapacidad temporal causada por motivos personales.
-d)
-La jubilación anticipada.
+70.- ¿Qué se considera una contingencia profesional?
+a) Una enfermedad derivada de causas ajenas al trabajo.
+b) Un accidente que ocurre durante el desplazamiento al trabajo (in itinere).
+c) La incapacidad temporal causada por motivos personales.
+d) La jubilación anticipada.
 ```
 
 ---
@@ -176,16 +126,11 @@ La jubilación anticipada.
 **23_preguntas_gea · nº 88 · respuesta: a**
 
 ```
-88.-
-¿En qué normativa se considera el accidente de trabajo “in itinere” como tal?
-a)
-En el artículo 156 del RD Legislativo 8/2015 Ley General de la Seguridad Social.
-b)
-En el artículo 6 del del RD 488/1997 sobre disposiciones mínimas de seguridad y salud.
-c)
-En el artículo 22 de la Ley 31/1995 de prevención de Riesgos Laborales.
-d)
-En el artículo 2 del RDL 16/2022 para la mejora de las condiciones de trabajo.
+88.- ¿En qué normativa se considera el accidente de trabajo “in itinere” como tal?
+a) En el artículo 156 del RD Legislativo 8/2015 Ley General de la Seguridad Social.
+b) En el artículo 6 del del RD 488/1997 sobre disposiciones mínimas de seguridad y salud.
+c) En el artículo 22 de la Ley 31/1995 de prevención de Riesgos Laborales.
+d) En el artículo 2 del RDL 16/2022 para la mejora de las condiciones de trabajo.
 ```
 
 ---
@@ -206,17 +151,12 @@ d) La fatiga mental junto con el estrés.
 **36_preguntas_ing_sup_industrial · nº 45 · respuesta: a**
 
 ```
-45.-
-¿Cuál es uno de los principales riesgos asociados al uso prolongado de pantallas de
+45.- ¿Cuál es uno de los principales riesgos asociados al uso prolongado de pantallas de
 visualización de datos (PVD)?
-a)
-Dolores muscoesquléticos.
-b)
-Problemas respiratorios
-c)
-Hipertensión arterial.
-d)
-Pérdida de visión nocturna.
+a) Dolores muscoesquléticos.
+b) Problemas respiratorios
+c) Hipertensión arterial.
+d) Pérdida de visión nocturna.
 ```
 
 ---
@@ -224,18 +164,13 @@ Pérdida de visión nocturna.
 **40_preguntas_ing_sup_informatica · nº 1 · respuesta: d**
 
 ```
-1.-
-¿Cómo se denomina al accidente laboral ocurrido al trabajador por el desempeño de su
+1.- ¿Cómo se denomina al accidente laboral ocurrido al trabajador por el desempeño de su
 trabajo en un lugar distinto al lugar de trabajo habitual y no producido en el trayecto de ir
 o venir al puesto habitual de trabajo desde su domicilio?
-a)
-Laborem exercens.
-b)
-In itinere.
-c)
-Laborem in situ.
-d)
-In mision
+a) Laborem exercens.
+b) In itinere.
+c) Laborem in situ.
+d) In mision
 ```
 
 ---
@@ -269,16 +204,11 @@ d) Un accidente que ocurre durante una pausa para el almuerzo fuera de la empres
 **33_preguntas_iyc_2_llamamiento · nº 32 · respuesta: b**
 
 ```
-32.-
-¿Qué son los accidentes 'in itinere'?
-a)
-Los que ocurren mientras se realizan las tareas laborales.
-b)
-Los que ocurren en el camino de ida y vuelta al trabajo.
-c)
-Los que se producen dentro del centro de trabajo.
-d)
-Los que se producen a menos de 30 kilómetros del centro de trabajo.
+32.- ¿Qué son los accidentes 'in itinere'?
+a) Los que ocurren mientras se realizan las tareas laborales.
+b) Los que ocurren en el camino de ida y vuelta al trabajo.
+c) Los que se producen dentro del centro de trabajo.
+d) Los que se producen a menos de 30 kilómetros del centro de trabajo.
 ```
 
 ---
@@ -286,16 +216,11 @@ Los que se producen a menos de 30 kilómetros del centro de trabajo.
 **46_preguntas_iyc_radio_clasica · nº 102 · respuesta: d**
 
 ```
-102.-
-La iluminación de los lugares de trabajo deberá permitir que:
-a)
-Los trabajadores puedan hablar por teléfono.
-b)
-Los trabajadores puedan utilizar los equipos que tienen cerca.
-c)
-Los trabajadores puedan leer.
-d)
-Los trabajadores dispongan de condiciones de visibilidad adecuadas para poder
+102.- La iluminación de los lugares de trabajo deberá permitir que:
+a) Los trabajadores puedan hablar por teléfono.
+b) Los trabajadores puedan utilizar los equipos que tienen cerca.
+c) Los trabajadores puedan leer.
+d) Los trabajadores dispongan de condiciones de visibilidad adecuadas para poder
 circular por los mismos y desarrollar en ellos sus actividades sin riesgo para su
 seguridad y salud.
 ```
@@ -317,16 +242,11 @@ d) No es un sistema de protección. Es solo un interruptor general.
 **54_preguntas_mecanica_a · nº 34 · respuesta: c**
 
 ```
-34.-
-¿Qué agente extintor es el más adecuado para sofocar el fuego en un cuadro eléctrico?
-a)
-Polvo químico seco.
-b)
-Espuma.
-c)
-Dióxido de carbono (CO2).
-d)
-Agua.
+34.- ¿Qué agente extintor es el más adecuado para sofocar el fuego en un cuadro eléctrico?
+a) Polvo químico seco.
+b) Espuma.
+c) Dióxido de carbono (CO2).
+d) Agua.
 ```
 
 ---
@@ -334,19 +254,13 @@ Agua.
 **81_preguntas_produccion · nº 29 · respuesta: b**
 
 ```
-29.-
-¿Qué medida preventiva es más efectiva para reducir los trastornos musculoesqueléticos
+29.- ¿Qué medida preventiva es más efectiva para reducir los trastornos musculoesqueléticos
 en el lugar de trabajo?
-a)
-Aumentar
+a) Aumentar la jornada laboral para que los empleados terminen sus tareas más
 rápidamente.
-la jornada laboral para que los empleados terminen sus tareas más
-b)
-Realizar pausas activas y ejercicios de estiramiento durante la jornada laboral.
-c)
-Reducir el número de horas de descanso entre turnos.
-d)
-Mantener una postura fija durante la jornada de trabajo.
+b) Realizar pausas activas y ejercicios de estiramiento durante la jornada laboral.
+c) Reducir el número de horas de descanso entre turnos.
+d) Mantener una postura fija durante la jornada de trabajo.
 ```
 
 ---
@@ -354,21 +268,16 @@ Mantener una postura fija durante la jornada de trabajo.
 **81_preguntas_produccion · nº 83 · respuesta: b**
 
 ```
-83.-
-¿Cuál de las siguientes afirmaciones sobre los accidentes in itinere es correcta en
+83.- ¿Cuál de las siguientes afirmaciones sobre los accidentes in itinere es correcta en
 relación con las medidas preventivas incluida de forma indirecta en la ley 31/1995 ?
-a)
-b)
-c)
-d)
-Los accidentes in itinere no son considerados accidentes laborales y, por tanto, no
+a) Los accidentes in itinere no son considerados accidentes laborales y, por tanto, no
 requieren medidas preventivas.
-Las medidas preventivas para accidentes in itinere incluyen garantizar que los
+b) Las medidas preventivas para accidentes in itinere incluyen garantizar que los
 empleados utilicen medios de transporte seguros y estén informados de las rutas de
 acceso al lugar de trabajo.
-Los accidentes in itinere solo se cubren si ocurren durante las horas de trabajo, sin
+c) Los accidentes in itinere solo se cubren si ocurren durante las horas de trabajo, sin
 importar el medio de transporte utilizado.
-Los accidentes in itinere no deben ser comunicados al empleador, ya que son ajenos a
+d) Los accidentes in itinere no deben ser comunicados al empleador, ya que son ajenos a
 las condiciones de trabajo.
 ```
 
@@ -449,17 +358,12 @@ d) Compresión del nervio mediano en la muñeca a causa del uso repetitivo de ci
 **66_preguntas_realizacion_a · nº 88 · respuesta: b**
 
 ```
-88.-
-Según el Real Decreto 488/1997sobre pantallas de visualización. ¿Cuál es la distancia
+88.- Según el Real Decreto 488/1997sobre pantallas de visualización. ¿Cuál es la distancia
 mínima recomendada para situar la pantalla hasta los ojos del usuario?
-a)
-500mm.
-b)
-400mm.
-c)
-350mm.
-d)
-600mm.
+a) 500mm.
+b) 400mm.
+c) 350mm.
+d) 600mm.
 ```
 
 ---
@@ -467,8 +371,8 @@ d)
 **60_preguntas_realizacion_asist · nº 61 · respuesta: b**
 
 ```
-61. ¿Cuál  es una de las principales causas de la fatiga visual en los trabajadores que utilizan pantallas de
-visualización,  según la Guía Técnica del RD 488/1997?
+61. ¿Cuál es una de las principales causas de la fatiga visual en los trabajadores que utilizan pantallas de
+visualización, según la Guía Técnica del RD 488/1997?
 a) Mala calidad de la pantalla.
 b) Ajustes frecuentes del ojo a diferentes distancias.
 c) Exceso de brillo en la pantalla.

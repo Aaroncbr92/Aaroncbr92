@@ -1,2474 +1,773 @@
 Ocupación tipo
-
 REALIZACIÓN
-
 INSTRUCCIONES
-
 Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
-
 La prueba está compuesta por 120 preguntas (100 preguntas principales más 20 preguntas de
 reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de las
 preguntas principales fuera anulada), debiendo contemplar todas.
-
 Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta; debe
 solo elegir UNA de las cuatro opciones.
-
 El sistema de valoración será el siguiente:
-
 Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
-
 Cada pregunta no contestada, contestada de forma distinta a la indicada en las
 instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
-
 Cada pregunta con contestación errónea penaliza 1/3 punto.
-
 Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
-
-Recuerde anotar
-las respuestas en su HOJA DE RESPUESTAS y en la columna
+Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna
 correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
 ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
 instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
 marca o señal distinta de las necesarias para contestar el ejercicio.
-
 Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
 anteriormente facilitadas.
-
 Le recordamos que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
 abandonar la prueba.
-
 Tiempo máximo: 180 minutos.
-
 Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
-                No se permite la reproducción total o parcial de este cuestionario.
+No se permite la reproducción total o parcial de este cuestionario.
 
-1.-
 
-¿Cuál de estas características NO es de una cámara PTZ?
-
-a)
-
-Permite movimientos de panorámica vertical, horizontal y zoom.
-
-b)
-
-Sólo se pueden controlar por ordenador.
-
-c)
-
-Pueden realizar autotracking de voz y audio.
-
-d)
-
-Se puede controlar a kilómetros de distancia.
-
-2.-
-
-El otorgamiento de licencias para la prestación del servicio de comunicación audiovisual
+1.- ¿Cuál de estas características NO es de una cámara PTZ?
+a) Permite movimientos de panorámica vertical, horizontal y zoom.
+b) Sólo se pueden controlar por ordenador.
+c) Pueden realizar autotracking de voz y audio.
+d) Se puede controlar a kilómetros de distancia.
+2.- El otorgamiento de licencias para la prestación del servicio de comunicación audiovisual
 televisivo mediante ondas hertzianas terrestres de ámbito estatal corresponde a:
-
-a)
-
-El Ministerio de Economía, Comercio y Empresa.
-
-b)
-
-La Secretaría de Telecomunicaciones.
-
-c)
-
-El Consejo de Ministros.
-
-d)
-
-El Congreso de los diputados.
-
-3.-
-
-¿Cuántos artículos tiene la Constitución Española?
-
-a)
-
-155.
-
-b)
-
-165.
-
-c)
-
-169.
-
-d)
-
-160.
-
-4.-
-
-Según Robert McKee, una historia que progresa hasta el límite de la experiencia humana
+a) El Ministerio de Economía, Comercio y Empresa.
+b) La Secretaría de Telecomunicaciones.
+c) El Consejo de Ministros.
+d) El Congreso de los diputados.
+3.- ¿Cuántos artículos tiene la Constitución Española?
+a) 155.
+b) 165.
+c) 169.
+d) 160.
+4.- Según Robert McKee, una historia que progresa hasta el límite de la experiencia humana
 en profundidad y alcance en sus conflictos:
-
-a)
-
-b)
-
-c)
-
-d)
-
-Debe contener personajes positivos, que encuentren de forma inmediata la simpatía del
+a) Debe contener personajes positivos, que encuentren de forma inmediata la simpatía del
 espectador, utilizando para ello figuras arquetípicas reconocibles en cualquier cultura.
-
-itinerario mítico marcado por el viaje del héroe, atendiendo a una
-Debe seguir el
+b) Debe seguir el itinerario mítico marcado por el viaje del héroe, atendiendo a una
 búsqueda personal en la que el protagonista pase de una situación inicial de ignorancia
 a una final de sabiduría.
-
-Debe avanzar a lo largo de un patrón que incluya el valor principal de la historia, su
+c) Debe avanzar a lo largo de un patrón que incluya el valor principal de la historia, su
 contrario, su antónimo y la negación de la negación.
-
-Ha de basar su argumento en temáticas atractivas para la audiencia del momento,
+d) Ha de basar su argumento en temáticas atractivas para la audiencia del momento,
 siguiendo investigaciones de mercado, sondeos, encuestas y análisis de Big Data de los
 seguimientos en las plataformas.
+5.- ¿Cómo se llama el montaje posterior a la grabación?
+a) Edit Media.
+b) News Cutter.
+c) Postproducción.
+d) Media Central.
 
-5.-
-
-¿Cómo se llama el montaje posterior a la grabación?
-
-a)
-
-Edit Media.
-
-b)
-
-News Cutter.
-
-c)
-
-Postproducción.
-
-d)
-
-Media Central.
-
-Página: 1 de 31
-
-6.-
-
-¿Con cuál de estos equipos podrías hacer un chroma para producción en tiempo real?
-
-a)
-
-Davinci.
-
-b)
-
-Infinity set.
-
-c)
-
-After Effects.
-
-d)
-
-Nuke.
-
-7.-
-
-¿Cuál es el estándar 4K UHDV con escala de 16:9?
-
-a)
-
-4096×2160.
-
-b)
-
-5120×4096.
-
-c)
-
-3840×2160.
-
-d)
-
-7680×4800.
-
-8.-
-
-La frecuencia de fps utilizada en el sistema NTSC es de:
-
-a)
-
-23,98.
-
-b)
-
-48.
-
-c)
-
-29,97.
-
-d)
-
-25.
-
-9.-
-
-¿En qué puesto es prioritario trabajar con un monitor de grado 1?
-
-a)
-
-En el puesto del realizador, concretamente en el monitor de señal de previo y programa.
-
-b)
-
-En el puesto del realizador, concretamente en el monitor de las señales de todas las
+6.- ¿Con cuál de estos equipos podrías hacer un chroma para producción en tiempo real?
+a) Davinci.
+b) Infinity set.
+c) After Effects.
+d) Nuke.
+7.- ¿Cuál es el estándar 4K UHDV con escala de 16:9?
+a) 4096×2160.
+b) 5120×4096.
+c) 3840×2160.
+d) 7680×4800.
+8.- La frecuencia de fps utilizada en el sistema NTSC es de:
+a) 23,98.
+b) 48.
+c) 29,97.
+d) 25.
+9.- ¿En qué puesto es prioritario trabajar con un monitor de grado 1?
+a) En el puesto del realizador, concretamente en el monitor de señal de previo y programa.
+b) En el puesto del realizador, concretamente en el monitor de las señales de todas las
 cámaras.
-
-c)
-
-En los visores de las cámaras.
-
-d)
-
-En el puesto de CCU.
-
-10.-
-
-El acrónimo FOH, según su termino en inglés, en el ámbito de la industria audiovisual
+c) En los visores de las cámaras.
+d) En el puesto de CCU.
+10.- El acrónimo FOH, según su termino en inglés, en el ámbito de la industria audiovisual
 hace referencia a:
-
-a)
-
-La zona destinada a los diferentes controles técnicos frente al escenario.
-
-b)
-
-c)
-
-d)
-
-El espacio donde se ubican los camerinos y las áreas de descanso del personal técnico
+a) La zona destinada a los diferentes controles técnicos frente al escenario.
+b) El espacio donde se ubican los camerinos y las áreas de descanso del personal técnico
 y artístico.
-
-El área tras el escenario donde se realiza la preparación técnica de los diferentes
+c) El área tras el escenario donde se realiza la preparación técnica de los diferentes
 equipos técnicos, artísticos y humanos.
-
-Un término utilizado exclusivamente para describir la mesa de iluminación principal de
+d) Un término utilizado exclusivamente para describir la mesa de iluminación principal de
 un espectáculo.
 
-Página: 2 de 31
-
-11.-
-
-Para la realización de una etapa de una vuelta ciclista, disponemos de los siguientes
+11.- Para la realización de una etapa de una vuelta ciclista, disponemos de los siguientes
 medios móviles de producción: 3 motos y 1 helicóptero wescam. Al comienzo de un
 puerto de montaña , durante la parte intermedia de la etapa, se han formado cuatro
 grupos de corredores. Grupo 1, cabeza de carrera. Grupo 2, grupo perseguidor. Grupo 3,
 grupo del líder. Grupo 4, pelotón. Para una correcta narración de la carrera, ¿dónde
 deberían estar situadas las motos y el helicóptero?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Moto 1 con el grupo de cabeza de carrera. Moto 2 con el grupo perseguidor. Moto 3 con
+a) Moto 1 con el grupo de cabeza de carrera. Moto 2 con el grupo perseguidor. Moto 3 con
 el grupo del líder. Helicóptero con el pelotón.
-
-Moto 1 con el grupo de cabeza de carrera. Moto 2 con el grupo perseguidor. Moto 3 en
+b) Moto 1 con el grupo de cabeza de carrera. Moto 2 con el grupo perseguidor. Moto 3 en
 la cabeza del pelotón. Helicóptero con el grupo del líder.
-
-Moto 1 con el grupo de cabeza de carrera. Moto 2 con el grupo del líder. Moto 3 en la
+c) Moto 1 con el grupo de cabeza de carrera. Moto 2 con el grupo del líder. Moto 3 en la
 cola del pelotón. Helicóptero con el pelotón.
-
-Moto 1 con el grupo de cabeza de carrera. Moto 2 con el grupo perseguidor. Moto 3 en
+d) Moto 1 con el grupo de cabeza de carrera. Moto 2 con el grupo perseguidor. Moto 3 en
 la cabeza del pelotón. Helicóptero con el pelotón.
-
-12.-
-
-Un talk-show es:
-
-a)
-
-El equivalente en radio a un podcast.
-
-b)
-
-Un programa estelar que se emite en prime time.
-
-c)
-
-Un concurso de talentos.
-
-d)
-
-Un género basado en entrevistas.
-
-13.-
-
-Trabajando en un bin en Avid Media Composer, con el modo de visualización en FRAME
+12.- Un talk-show es:
+a) El equivalente en radio a un podcast.
+b) Un programa estelar que se emite en prime time.
+c) Un concurso de talentos.
+d) Un género basado en entrevistas.
+13.- Trabajando en un bin en Avid Media Composer, con el modo de visualización en FRAME
 ¿Es posible modificar la imagen que identifica cada clip de video?
-
-a)
-
-No. La imagen mostrada es el primer frame de cada clip.
-
-b)
-
-c)
-
-No. Avid Media Composer no permite mostrar ninguna imagen previa de los clips
+a) No. La imagen mostrada es el primer frame de cada clip.
+b) No. Avid Media Composer no permite mostrar ninguna imagen previa de los clips
 dentro del bin en ese modo de visualización.
-
-Si. Se puede elegir que imagen muestra cada clip pulsando el botón derecho sobre el
-introduciendo el time code
-clip correspondiente y seleccionando Pre-view Frame,
+c) Si. Se puede elegir que imagen muestra cada clip pulsando el botón derecho sobre el
+clip correspondiente y seleccionando Pre-view Frame, introduciendo el time code
 correspondiente al frame que se desea identifique el clip.
-
-d)
-
-Si. Se puede elegir que imagen muestra cada clip pulsando play sobre el clip
+d) Si. Se puede elegir que imagen muestra cada clip pulsando play sobre el clip
 correspondiente y parando en el frame que se desea identifique el clip.
-
-14.-
-
-En qué consiste la confusión tonal.
-
-a)
-
-Varios elementos importantes del cuadro se mezclan o superponen perdiendo su
+14.- En qué consiste la confusión tonal.
+a) Varios elementos importantes del cuadro se mezclan o superponen perdiendo su
 identidad.
-
-b)
-
-Se mezclan colores fríos con los colores cálidos.
-
-c)
-
-Coincide algún color con su complementario.
-
-d)
-
-Variación del
+b) Se mezclan colores fríos con los colores cálidos.
+c) Coincide algún color con su complementario.
+d) Variación del tamaño aparente de los objetos debido a su distancia relativa al
 observador.
 
-tamaño aparente de los objetos debido a su distancia relativa al
-
-Página: 3 de 31
-
-15.-
-
-En la retransmisión de un desfile de las Fuerzas Armadas queremos instalar una cámara
+15.- En la retransmisión de un desfile de las Fuerzas Armadas queremos instalar una cámara
 con operador en un practicable con una altura de 3 m, conforme al RD 486/1997, por el
 que se establecen las disposiciones mínimas de seguridad y salud en los lugares de
 trabajo:
-
-a)
-
-b)
-
-c)
-
-d)
-
-El área de la plataforma será de 2 metros cuadrados aproximadamente y se protegerá
+a) El área de la plataforma será de 2 metros cuadrados aproximadamente y se protegerá
 necesariamente con barandillas de altura no inferior a 90 cm.
-
-El área de la plataforma será de 3 metros cuadrados aproximadamente y se protegerá
+b) El área de la plataforma será de 3 metros cuadrados aproximadamente y se protegerá
 necesariamente con barandillas de altura no inferior a 1 m.
-
-El área de la plataforma será de 4 metros cuadrados aproximadamente y se protegerá
+c) El área de la plataforma será de 4 metros cuadrados aproximadamente y se protegerá
 necesariamente con barandillas de altura no inferior a 90 cm.
-
-El área de la plataforma será de 4 metros cuadrados aproximadamente y se protegerá
+d) El área de la plataforma será de 4 metros cuadrados aproximadamente y se protegerá
 necesariamente con barandillas de altura no inferior a 1 m.
-
-16.-
-
-Durante la cobertura de un partido de fútbol, ¿a qué llamamos “Superflash”?
-
-a)
-
-Al plano corto que se da de los entrenadores antes del comienzo del partido.
-
-b)
-
-A la cámara situada al lado de la portería, junto a los fotógrafos.
-
-c)
-
-A una entrevista que se realiza a pie de campo tras la finalización del partido.
-
-d)
-
-Insertar brevemente un plano del palco de autoridades durante el partido.
-
-17.-
-
-¿Qué hace que DOLBY ATMOS sea diferente de otros sistemas de sonido envolvente?
-
-a)
-
-Usa canales de audio fijos para distribuir el sonido.
-
-b)
-
-c)
-
-d)
-
-Comprime la señal y cuenta con hasta 6 canales reales de audio: 5 de rango completo y
+16.- Durante la cobertura de un partido de fútbol, ¿a qué llamamos “Superflash”?
+a) Al plano corto que se da de los entrenadores antes del comienzo del partido.
+b) A la cámara situada al lado de la portería, junto a los fotógrafos.
+c) A una entrevista que se realiza a pie de campo tras la finalización del partido.
+d) Insertar brevemente un plano del palco de autoridades durante el partido.
+17.- ¿Qué hace que DOLBY ATMOS sea diferente de otros sistemas de sonido envolvente?
+a) Usa canales de audio fijos para distribuir el sonido.
+b) Comprime la señal y cuenta con hasta 6 canales reales de audio: 5 de rango completo y
 un canal adicional para efectos de baja frecuencia.
-
-Emplea un enfoque basado en objetos de audio, permitiendo una distribución precisa e
+c) Emplea un enfoque basado en objetos de audio, permitiendo una distribución precisa e
 independiente del sonido en un espacio tridimensional.
-
-Desarrolla una normativa que tiene en cuenta no sólo el sonido, sino aspectos
+d) Desarrolla una normativa que tiene en cuenta no sólo el sonido, sino aspectos
 concretos del diseño de las salas en cuanto a proyección acústica y comodidad de los
 espectadores.
-
-18.-
-
-¿Qué es un logline?
-
-a)
-
-Es un texto breve (35-45 palabras) donde se cuenta de que trata un guion.
-
-b)
-
-Es un resumen de, aproximadamente, una página donde se resume el guion.
-
-c)
-
-Es un texto donde, en cinco frases, se resume el guion en tres actos: planteamiento,
+18.- ¿Qué es un logline?
+a) Es un texto breve (35-45 palabras) donde se cuenta de que trata un guion.
+b) Es un resumen de, aproximadamente, una página donde se resume el guion.
+c) Es un texto donde, en cinco frases, se resume el guion en tres actos: planteamiento,
 nudo y desenlace.
+d) Es la parte de diálogos de un guion.
 
-d)
-
-Es la parte de diálogos de un guion.
-
-Página: 4 de 31
-
-19.-
-
-¿En qué siglo se acuñó el término copyright?
-
-a)
-
-XX.
-
-b)
-
-XIX.
-
-c)
-
-XVIII.
-
-d)
-
-XVII.
-
-20.-
-
-¿El tamaño físico de una imagen medida en pixels se llama?
-
-a)
-
-Escala.
-
-b)
-
-Proporción.
-
-c)
-
-Clave.
-
-d)
-
-Resolución.
-
-21.-
-
-En cine ¿cuál es la primera fase plenamente literaria?
-
-a)
-
-Guión literario.
-
-b)
-
-Guión técnico.
-
-c)
-
-Argumento.
-
-d)
-
-Sinopsis.
-
-22.-
-
-¿Qué es un barrido?
-
-a)
-
-Una panorámica muy rápida.
-
-b)
-
-Un sonido distorsionado.
-
-c)
-
-Un efecto blur.
-
-d)
-
-Un travelling lateral.
-
-23.-
-
-Según Noël Burch el “decoupage” o guion técnico es:
-
-a)
-
-El storyboard.
-
-b)
-
-La última fase del guion, que incluye las localizaciones, los actores que aparecen en
+19.- ¿En qué siglo se acuñó el término copyright?
+a) XX.
+b) XIX.
+c) XVIII.
+d) XVII.
+20.- ¿El tamaño físico de una imagen medida en pixels se llama?
+a) Escala.
+b) Proporción.
+c) Clave.
+d) Resolución.
+21.- En cine ¿cuál es la primera fase plenamente literaria?
+a) Guión literario.
+b) Guión técnico.
+c) Argumento.
+d) Sinopsis.
+22.- ¿Qué es un barrido?
+a) Una panorámica muy rápida.
+b) Un sonido distorsionado.
+c) Un efecto blur.
+d) Un travelling lateral.
+23.- Según Noël Burch el “decoupage” o guion técnico es:
+a) El storyboard.
+b) La última fase del guion, que incluye las localizaciones, los actores que aparecen en
 cada secuencia y en cada plano, sus movimientos en el espacio y las ópticas con que
 se rueda cada toma.
-
-c)
-
-La descomposición de la trama en acciones susceptibles de ser rodadas.
-
-d)
-
-No solo una fase del film o una operación téc nica, sino la convergencia de un desglose
+c) La descomposición de la trama en acciones susceptibles de ser rodadas.
+d) No solo una fase del film o una operación téc nica, sino la convergencia de un desglose
 del espacio, realizado en el momento del rodaje, con una descomposición del tiempo
 ejecutado en el montaje.
 
-Página: 5 de 31
-
-24.-
-
-La escala diatónica:
-
-a)
-
-Es la formada por siete notas consecutivas separadas por un tono.
-
-b)
-
-c)
-
-Es la formada por siete notas de la misma duración y con dinámica creciente en el
+24.- La escala diatónica:
+a) Es la formada por siete notas consecutivas separadas por un tono.
+b) Es la formada por siete notas de la misma duración y con dinámica creciente en el
 interior de una octava.
-
-Es la formada por las siete notas consecutivas fundamentales de la tonalidad,
+c) Es la formada por las siete notas consecutivas fundamentales de la tonalidad,
 separadas entre sí por intervalos de segunda.
-
-d)
-
-Es la formada por doce notas consecutivas separadas entre sí por semitonos.
-
-25.-
-
-¿Cuál es la principal finalidad de preparar un montaje preliminar?
-
-a)
-
-Elaborar una continuidad comprensible y fluida.
-
-b)
-
-Elaborar una EDL.
-
-c)
-
-Elaborar el descarte de planos con DROP OUT.
-
-d)
-
-Elaborar una programación de efectos.
-
-26.-
-
-Brecht destacó tanto en la labor del actor como en la del trabajo sobre el texto y la puesta
+d) Es la formada por doce notas consecutivas separadas entre sí por semitonos.
+25.- ¿Cuál es la principal finalidad de preparar un montaje preliminar?
+a) Elaborar una continuidad comprensible y fluida.
+b) Elaborar una EDL.
+c) Elaborar el descarte de planos con DROP OUT.
+d) Elaborar una programación de efectos.
+26.- Brecht destacó tanto en la labor del actor como en la del trabajo sobre el texto y la puesta
 en escena:
-
-a)
-
-b)
-
-c)
-
-d)
-
-El cuidado de la retórica teatral encuadrando el gesto del actor en el contexto social y el
+a) El cuidado de la retórica teatral encuadrando el gesto del actor en el contexto social y el
 respeto por los cánones de la representación.
-
-Que en todos los casos se hiciera una crítica social y una propaganda clara del
+b) Que en todos los casos se hiciera una crítica social y una propaganda clara del
 pensamiento socialista.
-
-La identificación del actor con el personaje y la empatía emocional del espectador con
+c) La identificación del actor con el personaje y la empatía emocional del espectador con
 la obra (efecto V).
-
-El trabajo de distanciamiento con relación a la emoción y la ruptura de posibles
+d) El trabajo de distanciamiento con relación a la emoción y la ruptura de posibles
 identificaciones, para que sobre todo se dé en el hecho teatral una reflexión crítica.
+27.- Decimos que utilizamos la focalización cero en una narración cuando:
+a) Un narrador omnisciente lo sabe todo sobre los personajes.
+b) El punto de vista lo muestra un personaje secundario.
+c) El espectador sabe más que los personajes.
+d) El protagonista es quien narra los acontecimientos.
 
-27.-
-
-Decimos que utilizamos la focalización cero en una narración cuando:
-
-a)
-
-Un narrador omnisciente lo sabe todo sobre los personajes.
-
-b)
-
-El punto de vista lo muestra un personaje secundario.
-
-c)
-
-El espectador sabe más que los personajes.
-
-d)
-
-El protagonista es quien narra los acontecimientos.
-
-Página: 6 de 31
-
-28.-
-
-¿Qué tamaños de plano de los invitados/as sentados frente a la cámara 2 podrías
+28.- ¿Qué tamaños de plano de los invitados/as sentados frente a la cámara 2 podrías
 obtener usando un objetivo CANON HJ17x HD?
+a) PP, PMC, PM, PG.
+b) PMC, PM, PG.
+c) PP, PMC, PM.
+d) PPP, PP, PMC, PM.
 
-a)
-
-PP, PMC, PM, PG.
-
-b)
-
-PMC, PM, PG.
-
-c)
-
-PP, PMC, PM.
-
-d)
-
-PPP, PP, PMC, PM.
-
-Página: 7 de 31
-
-29.-
-
-Durante una emisión en directo el mezclador ha iniciado un timeline con la siguiente
+29.- Durante una emisión en directo el mezclador ha iniciado un timeline con la siguiente
 secuencia: PRESENTADORA  ---- Gafas 50/50 ----- Gafas 20/60/20 "DEBATE"
 Antes de pasar a Gafas 20/60/20 "DEBATE", ¿podrías reposicionar la señal del exterior
 dentro de la gafa?
-
-a)
-
-No, al ser un efecto preprogramado en un timeline, no puedo una vez que se ha lanzado.
-
-b)
-
-No. Necesitaría un tiempo que no tengo en una emisión en directo.
-
-c)
-
-Sí, siempre y cuando tenga el canal de DVE necesario para ello.
-
-d)
-
-Sí, nunca hay problema para reajustar un timeline.
-
-30.-
-
-¿Cuál de las siguientes afirmaciones define las características del protocolo de
+a) No, al ser un efecto preprogramado en un timeline, no puedo una vez que se ha lanzado.
+b) No. Necesitaría un tiempo que no tengo en una emisión en directo.
+c) Sí, siempre y cuando tenga el canal de DVE necesario para ello.
+d) Sí, nunca hay problema para reajustar un timeline.
+30.- ¿Cuál de las siguientes afirmaciones define las características del protocolo de
 seguimiento de cámara Mo-Sys en entornos de producción de televisión y cine?
-
-a)
-
-Es un protocolo de seguimiento utilizado mayoritariamente con drones en tiempo real.
-
-b)
-
-Se limita a aplicaciones de seguimiento de sujetos humanos.
-
-c)
-
-d)
-
-Permite una integración precisa de gráficos en tiempo real en entornos virtuales y
+a) Es un protocolo de seguimiento utilizado mayoritariamente con drones en tiempo real.
+b) Se limita a aplicaciones de seguimiento de sujetos humanos.
+c) Permite una integración precisa de gráficos en tiempo real en entornos virtuales y
 aumentados.
-
-Permite la integración de gráficos en producciones de estudio gracias a la transmisión
+d) Permite la integración de gráficos en producciones de estudio gracias a la transmisión
 de datos de seguimiento mediante Bluetooth.
-
-31.-
-
-Con un mezclador que no tenga posibilidad de incrustar keys, ¿tenemos alguna opción de
+31.- Con un mezclador que no tenga posibilidad de incrustar keys, ¿tenemos alguna opción de
 trabajar sobre un decorado virtual en tiempo real?
-
-a)
-
-Sí, teniendo la señal de cámara en el motor de render y un software que realice esa
+a) Sí, teniendo la señal de cámara en el motor de render y un software que realice esa
 incrustación.
-
-b)
-
-No, no se puede incrustar nada si el mezclador no tiene opción de key.
-
-c)
-
-Sí, siempre y cuando la señal llegue sincronizada al mezclador.
-
-d)
-
-Sí, el chroma no se realiza por key.
-
-32.-
-
-¿El momento de discusión y análisis, después de la escritura del primer guión se conoce
+b) No, no se puede incrustar nada si el mezclador no tiene opción de key.
+c) Sí, siempre y cuando la señal llegue sincronizada al mezclador.
+d) Sí, el chroma no se realiza por key.
+32.- ¿El momento de discusión y análisis, después de la escritura del primer guión se conoce
 como?
+a) Exposición de motivos.
+b) Espejo.
+c) Guerra del papel.
+d) Mesa italiana.
 
-a)
-
-Exposición de motivos.
-
-b)
-
-Espejo.
-
-c)
-
-Guerra del papel.
-
-d)
-
-Mesa italiana.
-
-Página: 8 de 31
-
-33.-
-
-¿Qué es un PFL en una consola de mezcla de audio?
-
-a)
-
-Una función para escuchar una señal antes de que pase por el ecualizador.
-
-b)
-
-Un modo para escuchar una señal antes de que pase por el fader de volumen.
-
-c)
-
-Una herramienta para monitorear la frecuencia de salida.
-
-d)
-
-Un sistema para grabar directamente desde el micrófono al monitor.
-
-34.-
-
-Cuando en un guion de cine o ficción se detalla el idiolecto de un personaje, ¿a qué hace
+33.- ¿Qué es un PFL en una consola de mezcla de audio?
+a) Una función para escuchar una señal antes de que pase por el ecualizador.
+b) Un modo para escuchar una señal antes de que pase por el fader de volumen.
+c) Una herramienta para monitorear la frecuencia de salida.
+d) Un sistema para grabar directamente desde el micrófono al monitor.
+34.- Cuando en un guion de cine o ficción se detalla el idiolecto de un personaje, ¿a qué hace
 referencia?
-
-a)
-
-b)
-
-A las circunstancias (materiales o abstractas) que se producen alrededor de un
+a) A las circunstancias (materiales o abstractas) que se producen alrededor de un
 personaje cuando este cambia de idea u opinión en una secuencia.
-
-A lo que ese personaje quiere decir sin decirlo, es decir, lo que está pensando más allá
+b) A lo que ese personaje quiere decir sin decirlo, es decir, lo que está pensando más allá
 de lo que estén diciendo sus palabras, que pueden ser o no coincidentes con su
 idiolecto.
-
-c)
-
-Al conjunto de rasgos propios de la forma de expresarse de ese personaje, que incluye
+c) Al conjunto de rasgos propios de la forma de expresarse de ese personaje, que incluye
 vocabulario, sintaxis, uso de jerga, entonación, etc.
-
-d)
-
-A nada porque ese término no existe.
-
-35.-
-
-¿De quién es la banda sonora de la película titulada en español “Los odiosos ocho"?
-
-a)
-
-Bernard Herrmann.
-
-b)
-
-Enio Morricone
-
-c)
-
-Hans Zimmer.
-
-d)
-
-John Barry.
-
-36.-
-
-En una grabación en un estudio de un/a cantante…
-
-a)
-
-El sonido es la voz que emite el cantante y el audio la señal que procesa el micrófono.
-
-b)
-
-El audio es la voz que emite el cantante y el sonido la señal que procesa el micrófono.
-
-c)
-
-La voz del cantante y la señal que procesa el micro son tanto audio como sonido. Son
+d) A nada porque ese término no existe.
+35.- ¿De quién es la banda sonora de la película titulada en español “Los odiosos ocho"?
+a) Bernard Herrmann.
+b) Enio Morricone
+c) Hans Zimmer.
+d) John Barry.
+36.- En una grabación en un estudio de un/a cantante…
+a) El sonido es la voz que emite el cantante y el audio la señal que procesa el micrófono.
+b) El audio es la voz que emite el cantante y el sonido la señal que procesa el micrófono.
+c) La voz del cantante y la señal que procesa el micro son tanto audio como sonido. Son
 sinónimos.
-
-d)
-
-El sonido se grabará en pista 1 y el audio en pista 2.
-
-37.-
-
-En el panel de intercom del realizador de la señal internacional de una retransmisión de
+d) El sonido se grabará en pista 1 y el audio en pista 2.
+37.- En el panel de intercom del realizador de la señal internacional de una retransmisión de
 atletismo, ¿cuál de los siguientes puntos de intercom no sería necesario?
+a) Control técnico.
+b) Grafismo.
+c) Director de competición.
+d) Continuidad.
 
-a)
-
-Control técnico.
-
-b)
-
-Grafismo.
-
-c)
-
-Director de competición.
-
-d)
-
-Continuidad.
-
-Página: 9 de 31
-
-38.-
-
-¿Qué es la cuarta pared en televisión?
-
-a)
-
-La pared física opuesta al frontal del decorado.
-
-b)
-
-La pared invisible imaginaria que está frente al escenario.
-
-c)
-
-La pared, construida con material más frágil, usada cuando debe romperse la pared
+38.- ¿Qué es la cuarta pared en televisión?
+a) La pared física opuesta al frontal del decorado.
+b) La pared invisible imaginaria que está frente al escenario.
+c) La pared, construida con material más frágil, usada cuando debe romperse la pared
 principal de un escenario.
-
-d)
-
-La pared que está en un segundo término del decorado principal.
-
-39.-
-
-Los derechos de explotación de la obra en España, según lo dispuesto en el artículo 26
+d) La pared que está en un segundo término del decorado principal.
+39.- Los derechos de explotación de la obra en España, según lo dispuesto en el artículo 26
 de la Ley de Propiedad Intelectual, durarán toda la vida del autor y un máximo de:
-
-a)
-
-Cincuenta años después de su muerte o declaración de fallecimiento.
-
-b)
-
-Sesenta años después de su muerte o declaración de fallecimiento.
-
-c)
-
-Setenta años después de su muerte o declaración de fallecimiento.
-
-d)
-
-Ochenta años después de su muerte o declaración de fallecimiento.
-
-40.-
-
-¿Qué equipo hace la distribución de una señal 4k a las diferentes pantallas de un estudio?
-
-a)
-
-Los senders o electrónica de las pantallas.
-
-b)
-
-El sistema de pantallas que se emplee (orad, prime, vizrt, etc,).
-
-c)
-
-El pixel map.
-
-d)
-
-La matriz de control central.
-
-41.-
-
-La cámara máster en una realización de tenis debe posicionarse:
-
-a)
-
-A un lado del eje atendiendo a la regla de los 180º.
-
-b)
-
-c)
-
-d)
-
-Colocamos dos cámaras en el eje de acción y las alternamos dependiendo de quien
+a) Cincuenta años después de su muerte o declaración de fallecimiento.
+b) Sesenta años después de su muerte o declaración de fallecimiento.
+c) Setenta años después de su muerte o declaración de fallecimiento.
+d) Ochenta años después de su muerte o declaración de fallecimiento.
+40.- ¿Qué equipo hace la distribución de una señal 4k a las diferentes pantallas de un estudio?
+a) Los senders o electrónica de las pantallas.
+b) El sistema de pantallas que se emplee (orad, prime, vizrt, etc,).
+c) El pixel map.
+d) La matriz de control central.
+41.- La cámara máster en una realización de tenis debe posicionarse:
+a) A un lado del eje atendiendo a la regla de los 180º.
+b) Colocamos dos cámaras en el eje de acción y las alternamos dependiendo de quien
 tenga el saque.
-
-En el eje de acción y a una altura suficiente en la que no haya confusión entre la línea de
+c) En el eje de acción y a una altura suficiente en la que no haya confusión entre la línea de
 saque y la cinta de red.
-
-En una de las esquinas en la que confluyen la línea de fondo y la lateral para tener una
+d) En una de las esquinas en la que confluyen la línea de fondo y la lateral para tener una
 buena perspectiva del juego y darle profundidad.
+42.- ¿Qué es un teradek?
+a) Un software de videoconferencia.
+b) Un servidor de alta capacidad con función de airplay.
+c) Un transmisor de video inalámbrico.
+d) Fibra de alta velocidad usada entre centros territoriales en RTVE.
 
-42.-
-
-¿Qué es un teradek?
-
-a)
-
-Un software de videoconferencia.
-
-b)
-
-Un servidor de alta capacidad con función de airplay.
-
-c)
-
-Un transmisor de video inalámbrico.
-
-d)
-
-Fibra de alta velocidad usada entre centros territoriales en RTVE.
-
-Página: 10 de 31
-
-43.-
-
-¿Quién descompuso por primera vez un rayo de luz blanca en su espectro colorimétrico?
-
-a)
-
-J.C. Maxwell.
-
-b)
-
-Isaac Newton.
-
-c)
-
-Hermann Grassmann.
-
-d)
-
-Thomas Young.
-
-44.-
-
-¿Qué es un IFB de audio en producción de televisión en vivo?
-
-a)
-
-Un dispositivo para controlar la intensidad del audio en los micrófonos.
-
-b)
-
-Un sistema de intercomunicación para el equipo de cámaras.
-
-c)
-
-Un sistema de retorno de audio.
-
-d)
-
-Un tipo de procesador dinámico para mejorar la señal de audio.
-
-45.-
-
-¿Qué película tiene el récord de nominaciones a los Premios Goya?
-
-a)
-
-Días contados.
-
-b)
-
-La niña de tus ojos.
-
-c)
-
-El 47.
-
-d)
-
-El buen patrón.
-
-46.-
-
-Un punto común entre la interpretación actoral y el montaje está en:
-
-a)
-
-El haber sido desarrolladas ambas por la escuela soviética a partir de las experiencias
+43.- ¿Quién descompuso por primera vez un rayo de luz blanca en su espectro colorimétrico?
+a) J.C. Maxwell.
+b) Isaac Newton.
+c) Hermann Grassmann.
+d) Thomas Young.
+44.- ¿Qué es un IFB de audio en producción de televisión en vivo?
+a) Un dispositivo para controlar la intensidad del audio en los micrófonos.
+b) Un sistema de intercomunicación para el equipo de cámaras.
+c) Un sistema de retorno de audio.
+d) Un tipo de procesador dinámico para mejorar la señal de audio.
+45.- ¿Qué película tiene el récord de nominaciones a los Premios Goya?
+a) Días contados.
+b) La niña de tus ojos.
+c) El 47.
+d) El buen patrón.
+46.- Un punto común entre la interpretación actoral y el montaje está en:
+a) El haber sido desarrolladas ambas por la escuela soviética a partir de las experiencias
 de Lev Kuleshov.
-
-b)
-
-La organización técnica necesaria tanto en el trabajo del actor como en el del montador.
-
-c)
-
-El haber sido desarrolladas ambas por la escuela soviética a partir de las experiencias
+b) La organización técnica necesaria tanto en el trabajo del actor como en el del montador.
+c) El haber sido desarrolladas ambas por la escuela soviética a partir de las experiencias
 del cineasta Sergei M. Eisenstein y del director escénico Vajtangov.
+d) Estar fundamentadas ambas en la relación motivación/intención.
+47.- ¿Cuál es el máximo número de pistas de audio que puede manejar Dolby Atmos?
+a) 32 pistas.
+b) 64 pistas.
+c) 128 pistas.
+d) 256 pistas.
 
-d)
-
-Estar fundamentadas ambas en la relación motivación/intención.
-
-47.-
-
-¿Cuál es el máximo número de pistas de audio que puede manejar Dolby Atmos?
-
-a)
-
-32 pistas.
-
-b)
-
-64 pistas.
-
-c)
-
-128 pistas.
-
-d)
-
-256 pistas.
-
-Página: 11 de 31
-
-48.-
-
-Según la planta de la imagen ¿Cuáles son las cámaras que llevan teleobjetivo?
-
-a)
-
-Cámaras 1, 5 y 8.
-
-b)
-
-Cámaras 2 y 7.
-
-c)
-
-Cámaras 3 y 6.
-
-d)
-
-Cámaras 3, 6 y 7.
-
-49.-
-
-En el contexto de una gran producción de un partido de fútbol internacional, que se
+48.- Según la planta de la imagen ¿Cuáles son las cámaras que llevan teleobjetivo?
+a) Cámaras 1, 5 y 8.
+b) Cámaras 2 y 7.
+c) Cámaras 3 y 6.
+d) Cámaras 3, 6 y 7.
+49.- En el contexto de una gran producción de un partido de fútbol internacional, que se
 entiende por un EVS multichannel feed.
-
-a)
-
-Un plugin de EVS para el análisis de las jugadas.
-
-b)
-
-c)
-
-d)
-
-Un feed por el que el Host Broadcaster entrega numerosas repeticiones de las jugadas
+a) Un plugin de EVS para el análisis de las jugadas.
+b) Un feed por el que el Host Broadcaster entrega numerosas repeticiones de las jugadas
 más importantes.
-
-Una opción de estar en red con los EVS del Host Broadcaster para poder utilizar sus
+c) Una opción de estar en red con los EVS del Host Broadcaster para poder utilizar sus
 clips.
-
-Una pantalla multiview para ver varias cámaras del Host Broadcaster a través de un
+d) Una pantalla multiview para ver varias cámaras del Host Broadcaster a través de un
 único feed.
 
-Página: 12 de 31
-
-50.-
-
-¿Quién es el autor/autora de las fotografías de la imagen?
-
-a)
-
-Chema Madoz.
-
-b)
-
-Cristina García Rodero.
-
-c)
-
-Ouka Leele.
-
-d)
-
-Alberto García-Alix.
-
-51.-
-
-Puede plantear una queja o denuncia relativa a acoso sexual o acoso por razón de sexo
+50.- ¿Quién es el autor/autora de las fotografías de la imagen?
+a) Chema Madoz.
+b) Cristina García Rodero.
+c) Ouka Leele.
+d) Alberto García-Alix.
+51.- Puede plantear una queja o denuncia relativa a acoso sexual o acoso por razón de sexo
 con arreglo al procedimiento del II Plan de Igualdad:
-
-a)
-
-Únicamente las personas afectadas por esa situación de acoso.
-
-b)
-
-Únicamente las personas afectadas por esa situación de acoso que cuenten con una
+a) Únicamente las personas afectadas por esa situación de acoso.
+b) Únicamente las personas afectadas por esa situación de acoso que cuenten con una
 denuncia presentada ante la autoridad competente.
+c) Los responsables inmediatos de los trabajadores implicados.
+d) Cualquier persona que tenga conocimiento de situaciones de acoso.
+52.- ¿Cuál de estas funciones NO es una función de los diálogos?
+a) Hacer avanzar la acción.
+b) Establecer las relaciones entre personajes.
+c) Desarrollar conflictos y describir estados de ánimo.
+d) Describir el entorno.
+53.- ¿Cuál de las siguientes respuestas NO es un soporte de grabación?
+a) Tarjeta SXS.
+b) Disco XDCAM.
+c) Tarjeta SWS.
+d) Tarjeta P2.
 
-c)
-
-Los responsables inmediatos de los trabajadores implicados.
-
-d)
-
-Cualquier persona que tenga conocimiento de situaciones de acoso.
-
-52.-
-
-¿Cuál de estas funciones NO es una función de los diálogos?
-
-a)
-
-Hacer avanzar la acción.
-
-b)
-
-Establecer las relaciones entre personajes.
-
-c)
-
-Desarrollar conflictos y describir estados de ánimo.
-
-d)
-
-Describir el entorno.
-
-53.-
-
-¿Cuál de las siguientes respuestas NO es un soporte de grabación?
-
-a)
-
-Tarjeta SXS.
-
-b)
-
-Disco XDCAM.
-
-c)
-
-Tarjeta SWS.
-
-d)
-
-Tarjeta P2.
-
-Página: 13 de 31
-
-54.-
-
-Un desarrollo próximo al guión sin abordar los diálogos, es ...
-
-a)
-
-Una sinopsis.
-
-b)
-
-Una escaleta.
-
-c)
-
-Un guión de ensayos.
-
-d)
-
-Un argumento.
-
-55.-
-
-¿Cómo definirías traspunte?
-
-a)
-
-Costura que se utiliza para unir dos piezas sin ver las puntadas.
-
-b)
-
-Persona que avisa a cada actor cuando ha de salir a escena.
-
-c)
-
-Inicio de diálogo marcado en un guion tras el planteamiento de una escena.
-
-d)
-
-Telas que se encuentran a los lados del escenario y evitan que el público vea a los
+54.- Un desarrollo próximo al guión sin abordar los diálogos, es ...
+a) Una sinopsis.
+b) Una escaleta.
+c) Un guión de ensayos.
+d) Un argumento.
+55.- ¿Cómo definirías traspunte?
+a) Costura que se utiliza para unir dos piezas sin ver las puntadas.
+b) Persona que avisa a cada actor cuando ha de salir a escena.
+c) Inicio de diálogo marcado en un guion tras el planteamiento de una escena.
+d) Telas que se encuentran a los lados del escenario y evitan que el público vea a los
 actores.
-
-56.-
-
-“Contact“, dirigida por Robert Zemeckis, es la adaptación de una novela escrita por:
-
-a)
-
-Carl Sagan.
-
-b)
-
-Isaac Asimov.
-
-c)
-
-Stephen King.
-
-d)
-
-Arthur C. Clarke.
-
-57.-
-
-¿Quién dirigió la Orquesta Filarmónica de Viena en el concierto de año nuevo el año
+56.- “Contact“, dirigida por Robert Zemeckis, es la adaptación de una novela escrita por:
+a) Carl Sagan.
+b) Isaac Asimov.
+c) Stephen King.
+d) Arthur C. Clarke.
+57.- ¿Quién dirigió la Orquesta Filarmónica de Viena en el concierto de año nuevo el año
 2024?
+a) Christian Thielemann.
+b) Gustavo Dudamel.
+c) Andris Nelsons.
+d) Riccardo Muti.
+58.- ¿Existe eje en ésta imagen?
+a) No, pues no hay acción, solo es un objeto.
+b) Si, hay eje en el mástil.
+c) No, no hay personas ni miradas entre ellas.
+d) Si, existe eje de movimiento.
 
-a)
-
-Christian Thielemann.
-
-b)
-
-Gustavo Dudamel.
-
-c)
-
-Andris Nelsons.
-
-d)
-
-Riccardo Muti.
-
-58.-
-
-¿Existe eje en ésta imagen?
-
-a)
-
-No, pues no hay acción, solo es un objeto.
-
-b)
-
-Si, hay eje en el mástil.
-
-c)
-
-No, no hay personas ni miradas entre ellas.
-
-d)
-
-Si, existe eje de movimiento.
-
-Página: 14 de 31
-
-59.-
-
-Cuando definimos un sonido como grave o agudo, ¿a cual de sus características físicas
+59.- Cuando definimos un sonido como grave o agudo, ¿a cual de sus características físicas
 nos estamos refiriendo?
-
-a)
-
-Timbre.
-
-b)
-
-Intensidad.
-
-c)
-
-Volumen.
-
-d)
-
-Tono.
-
-60.-
-
-Si en una lista de petición de material lees el término “astera”, ¿qué se está solicitando?
-
-a)
-
-Bandeja para colocar tartas y pasteles protegidos con una campana de cristal.
-
-b)
-
-Microfonía omnidireccional para plató que recoge el sonido ambiente del público.
-
-c)
-
-Equipo de iluminación led con baterías y control remoto.
-
-d)
-
-Solución líquida para aplicar en los suelos de los decorados que hace que éste no
+a) Timbre.
+b) Intensidad.
+c) Volumen.
+d) Tono.
+60.- Si en una lista de petición de material lees el término “astera”, ¿qué se está solicitando?
+a) Bandeja para colocar tartas y pasteles protegidos con una campana de cristal.
+b) Microfonía omnidireccional para plató que recoge el sonido ambiente del público.
+c) Equipo de iluminación led con baterías y control remoto.
+d) Solución líquida para aplicar en los suelos de los decorados que hace que éste no
 resbale.
-
-61.-
-
-En un entorno de audio digital, ¿qué describe la frecuencia de muestreo?
-
-a)
-
-La cantidad de bits utilizados para codificar cada muestra.
-
-b)
-
-El número de valores tomados por segundo para digitalizar una señal de audio.
-
-c)
-
-La relación entre señal y ruido en un archivo digital.
-
-d)
-
-La latencia introducida en un sistema de grabación.
-
-62.-
-
-A nivel de imagen, ¿qué modificamos si incrementamos la ganancia de una cámara?
-
-a)
-
-Habrá más luz.
-
-b)
-
-Habrá más definición.
-
-c)
-
-Habrá menos ruido.
-
-d)
-
-Habrá más ruido.
-
-63.-
-
-¿Qué es un plot en una obra?
-
-a)
-
-El inicio de la historia.
-
-b)
-
-El nudo de la historia.
-
-c)
-
-El desenlace de la historia.
-
-d)
-
-La trama de la historia.
-
-64.-
-
-¿Cuál de estas afirmaciones es cierta entre los conceptos “toma y plano”?
-
-a)
-
-La toma es la parte del plano que se incorpora en el discurso narrativo.
-
-b)
-
-El plano es la parte de la toma que se incorpora en el discurso narrativo.
-
-c)
-
-La toma es la unidad básica y elemental de la narración y el plano es una relación de
+61.- En un entorno de audio digital, ¿qué describe la frecuencia de muestreo?
+a) La cantidad de bits utilizados para codificar cada muestra.
+b) El número de valores tomados por segundo para digitalizar una señal de audio.
+c) La relación entre señal y ruido en un archivo digital.
+d) La latencia introducida en un sistema de grabación.
+62.- A nivel de imagen, ¿qué modificamos si incrementamos la ganancia de una cámara?
+a) Habrá más luz.
+b) Habrá más definición.
+c) Habrá menos ruido.
+d) Habrá más ruido.
+63.- ¿Qué es un plot en una obra?
+a) El inicio de la historia.
+b) El nudo de la historia.
+c) El desenlace de la historia.
+d) La trama de la historia.
+64.- ¿Cuál de estas afirmaciones es cierta entre los conceptos “toma y plano”?
+a) La toma es la parte del plano que se incorpora en el discurso narrativo.
+b) El plano es la parte de la toma que se incorpora en el discurso narrativo.
+c) La toma es la unidad básica y elemental de la narración y el plano es una relación de
 tomas.
+d) La toma y el plano tienen la misma duración.
 
-d)
-
-La toma y el plano tienen la misma duración.
-
-Página: 15 de 31
-
-65.-
-
-El rango dinámico de una imagen digital es:
-
-a)
-
-b)
-
-c)
-
-La capacidad de la imagen de reproducir el movimiento con mayor precisión,
+65.- El rango dinámico de una imagen digital es:
+a) La capacidad de la imagen de reproducir el movimiento con mayor precisión,
 aumentando la tasa de fotogramas por segundo y la frecuencia de muestreo de la
 imagen.
-
-La capacidad de la imagen muestreada de representar correctamente el contraste, las
+b) La capacidad de la imagen muestreada de representar correctamente el contraste, las
 altas luces y las sombras profundas.
-
-El incremento de la cuantificación espacial y temporal para obtener imágenes de mayor
+c) El incremento de la cuantificación espacial y temporal para obtener imágenes de mayor
 definición.
-
-d)
-
-El incremento del contraste entre las altas luces y las sombras profundas.
-
-66.-
-
-¿Cuál es la profundidad de color mínima en los equipos profesionales de imagen?
-
-a)
-
-4 bits.
-
-b)
-
-8 bits.
-
-c)
-
-16 bits.
-
-d)
-
-32 bits.
-
-67.-
-
-¿Qué función tiene el confidente en un panel de intercom?
-
-a)
-
-Permite la grabación de todas las conversaciones de un intercom.
-
-b)
-
-Facilita la conexión entre varios puntos de comunicación de forma simultánea.
-
-c)
-
-Permite escuchar permanentemente uno de los puntos del intercom.
-
-d)
-
-Permite silenciar todo el panel de intercom salvo un punto que seleccionemos.
-
-68.-
-
-¿Qué entendemos por estabilización pasiva?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Es la capacidad de mantener fija la orientación de la cámara a través de las fricciones
+d) El incremento del contraste entre las altas luces y las sombras profundas.
+66.- ¿Cuál es la profundidad de color mínima en los equipos profesionales de imagen?
+a) 4 bits.
+b) 8 bits.
+c) 16 bits.
+d) 32 bits.
+67.- ¿Qué función tiene el confidente en un panel de intercom?
+a) Permite la grabación de todas las conversaciones de un intercom.
+b) Facilita la conexión entre varios puntos de comunicación de forma simultánea.
+c) Permite escuchar permanentemente uno de los puntos del intercom.
+d) Permite silenciar todo el panel de intercom salvo un punto que seleccionemos.
+68.- ¿Qué entendemos por estabilización pasiva?
+a) Es la capacidad de mantener fija la orientación de la cámara a través de las fricciones
 de un soporte.
-
-Es la capacidad de mantener fija la orientación de la cámara a través de los medios
+b) Es la capacidad de mantener fija la orientación de la cámara a través de los medios
 electrónicos y mecánicos de un soporte.
-
-Es la capacidad de mantener fija la orientación de la cámara a través de los medios
+c) Es la capacidad de mantener fija la orientación de la cámara a través de los medios
 electrónicos de un soporte.
-
-Es la capacidad de mantener fija la orientación de la cámara a través de los medios
+d) Es la capacidad de mantener fija la orientación de la cámara a través de los medios
 mecánicos de un soporte.
 
-Página: 16 de 31
-
-69.-
-
-¿Cuál es la principal diferencia entre la realidad aumentada (RA) y la realidad virtual (RV)
+69.- ¿Cuál es la principal diferencia entre la realidad aumentada (RA) y la realidad virtual (RV)
 en aplicaciones de transmisión (broadcast)?
-
-a)
-
-b)
-
-c)
-
-d)
-
-La realidad aumentada (RA) permite a los espectadores interactuar con elementos
+a) La realidad aumentada (RA) permite a los espectadores interactuar con elementos
 virtuales en tiempo real dentro de una transmisión en directo, mientras que la realidad
 virtual (RV) sustituye completamente al entorno de la transmisión por un entorno virtual.
-
-La realidad virtual (RV) sólo se utiliza para la creación de gráficos en 3D para
+b) La realidad virtual (RV) sólo se utiliza para la creación de gráficos en 3D para
 transmisiones en directo, mientras que la realidad aumentada (RA) se limita a la
 proyección de textos.
-
-La realidad aumentada (RA) sustituye completamente el contenido de la transmisión
+c) La realidad aumentada (RA) sustituye completamente el contenido de la transmisión
 por elementos virtuales, mientras que la realidad virtual (RV) sólo añade pequeños
 elementos virtuales al contenido real.
-
-La realidad virtual
-(RV) permite la integración de imágenes de drones en las
+d) La realidad virtual (RV) permite la integración de imágenes de drones en las
 transmisiones, mientras que la realidad aumentada (RA) no puede integrar contenido de
 drones.
-
-70.-
-
-La conexión a internet de una mochila de transmisión 3G/4G se puede realizar:
-
-a)
-
-Exclusivamente a través de tarjetas SIM de telefonía móvil.
-
-b)
-
-Exclusivamente a través una red WIFI.
-
-c)
-
-Exclusivamente a través de Lan Ethernet y de tarjetas SIM de telefonía móvil.
-
-d)
-
-A través de tarjetas SIM de telefonía móvil, una red WIFI y Lan Ethernet.
-
-71.-
-
-¿Qué es un rider técnico?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Documento para el departamento de imagen con todos los detalles específicos y
+70.- La conexión a internet de una mochila de transmisión 3G/4G se puede realizar:
+a) Exclusivamente a través de tarjetas SIM de telefonía móvil.
+b) Exclusivamente a través una red WIFI.
+c) Exclusivamente a través de Lan Ethernet y de tarjetas SIM de telefonía móvil.
+d) A través de tarjetas SIM de telefonía móvil, una red WIFI y Lan Ethernet.
+71.- ¿Qué es un rider técnico?
+a) Documento para el departamento de imagen con todos los detalles específicos y
 materiales que se necesitan a nivel de cámaras e iluminación.
-
-Documento para el departamento de sonido con todos los detalles específicos y
+b) Documento para el departamento de sonido con todos los detalles específicos y
 materiales para un evento o actuación musical.
-
-Persona cuyo cometido es instalar todos aquellos elementos técnicos de imagen
+c) Persona cuyo cometido es instalar todos aquellos elementos técnicos de imagen
 necesarios para una actuación musical.
-
-Persona cuyo cometido es instalar todos aquellos elementos de sonido necesarios
+d) Persona cuyo cometido es instalar todos aquellos elementos de sonido necesarios
 para un rodaje o directo.
-
-72.-
-
-¿Qué es un macro?
-
-a)
-
-Es un mezclador ligero usado, fundamentalmente, en eventos con 3 cámaras como
+72.- ¿Qué es un macro?
+a) Es un mezclador ligero usado, fundamentalmente, en eventos con 3 cámaras como
 máximo.
-
-b)
-
-Es el botón del mezclador cuya única función es ampliar una imagen.
-
-c)
-
-Es el aparato asociado a un mezclador donde se almacenan todos los efectos de éste.
-
-d)
-
-Son las instrucciones que le solicitamos a un mezclador para hacer una serie de pasos
+b) Es el botón del mezclador cuya única función es ampliar una imagen.
+c) Es el aparato asociado a un mezclador donde se almacenan todos los efectos de éste.
+d) Son las instrucciones que le solicitamos a un mezclador para hacer una serie de pasos
 con solo apretar un botón.
 
-Página: 17 de 31
-
-73.-
-
-¿Qué tipo de objetivo estaremos usando si decimos que tiene un ángulo de visión entre
+73.- ¿Qué tipo de objetivo estaremos usando si decimos que tiene un ángulo de visión entre
 60º y 25º?
-
-a)
-
-Teleobjetivo.
-
-b)
-
-Angular.
-
-c)
-
-Normal.
-
-d)
-
-Super teleobjetivo.
-
-74.-
-
-El primer Premio Goya Internacional fue otorgado a:
-
-a)
-
-Benicio del Toro.
-
-b)
-
-Sigourney Weaver.
-
-c)
-
-Cate Blanchett.
-
-d)
-
-Harison Ford.
-
-75.-
-
-¿De dónde procede normalmente el código de tiempo lineal (LTC) que se utiliza para
+a) Teleobjetivo.
+b) Angular.
+c) Normal.
+d) Super teleobjetivo.
+74.- El primer Premio Goya Internacional fue otorgado a:
+a) Benicio del Toro.
+b) Sigourney Weaver.
+c) Cate Blanchett.
+d) Harison Ford.
+75.- ¿De dónde procede normalmente el código de tiempo lineal (LTC) que se utiliza para
 sincronizar diferentes departamentos de producción en una realización con CuePilot?
-
-a)
-
-Del ordenador que opera el ayudante de realización en el control.
-
-b)
-
-Del departamento de audio.
-
-c)
-
-Del mezclador de imagen.
-
-d)
-
-Del departamento de iluminación.
-
-76.-
-
-¿Qué es un BEAT o golpe de efecto?
-
-a)
-
-Cualquier suceso, incidente o peripecia inesperada que provoca en el espectador una
+a) Del ordenador que opera el ayudante de realización en el control.
+b) Del departamento de audio.
+c) Del mezclador de imagen.
+d) Del departamento de iluminación.
+76.- ¿Qué es un BEAT o golpe de efecto?
+a) Cualquier suceso, incidente o peripecia inesperada que provoca en el espectador una
 emoción que provoca su empatía.
-
-b)
-
-Un incidente que proyecta la trama hacia el desenlace.
-
-c)
-
-d)
-
-Un intercambio de una acción y una reacción que se produce en el comportamiento de
+b) Un incidente que proyecta la trama hacia el desenlace.
+c) Un intercambio de una acción y una reacción que se produce en el comportamiento de
 un personaje.
-
-Un recurso a evitar que busca la atención del espectador a través de un impacto
+d) Un recurso a evitar que busca la atención del espectador a través de un impacto
 primario y de lances patéticos.
+77.- Un Chroma Key se puede hacer con…
+a) Cualquier color.
+b) Solo con el color azul.
+c) Solo con el color verde.
+d) Solo con los colores azul y verde.
 
-77.-
-
-Un Chroma Key se puede hacer con…
-
-a)
-
-Cualquier color.
-
-b)
-
-Solo con el color azul.
-
-c)
-
-Solo con el color verde.
-
-d)
-
-Solo con los colores azul y verde.
-
-Página: 18 de 31
-
-78.-
-
-¿Quién es el responsable de entrar y sacar invitados en el plató durante el programa
+78.- ¿Quién es el responsable de entrar y sacar invitados en el plató durante el programa
 cuando recibe la orden del realizador?
-
-a)
-
-El coordinador de invitados.
-
-b)
-
-El ayudante de producción.
-
-c)
-
-El regidor.
-
-d)
-
-El ayudante de realización.
-
-79.-
-
-¿Cuál de las siguientes afirmaciones describe correctamente el género televisivo sitcom?
-
-a)
-
-Es un tipo de serie basada en la improvisación de los actores, sin guion predefinido.
-
-b)
-
-c)
-
-d)
-
-Es un tipo de serie de larga duración, con tramas melodramáticas, giros argumentales
+a) El coordinador de invitados.
+b) El ayudante de producción.
+c) El regidor.
+d) El ayudante de realización.
+79.- ¿Cuál de las siguientes afirmaciones describe correctamente el género televisivo sitcom?
+a) Es un tipo de serie basada en la improvisación de los actores, sin guion predefinido.
+b) Es un tipo de serie de larga duración, con tramas melodramáticas, giros argumentales
 extremos y personajes que enfrentan constantes conflictos emocionales y sociales.
 Grabada normalmente en decorados fijos y que suele tener público en vivo.
-
-Es un tipo de serie que se centra en un grupo fijo de personajes en situaciones cómicas
+c) Es un tipo de serie que se centra en un grupo fijo de personajes en situaciones cómicas
 recurrentes con episodios autoconclusivos aunque algunas incorporan continuidad
 narrativa a lo largo de la serie. Grabada normalmente en decorados fijos y que suele
 tener público en vivo.
-
-Es un tipo de serie que suele abordar temas como amores imposibles, traiciones,
+d) Es un tipo de serie que suele abordar temas como amores imposibles, traiciones,
 secretos familiares y conflictos emocionales intensos. Con una duración extensa que
 permite un desarrollo detallado de la historia y los personajes, manteniendo al público
 enganchado por largos períodos de tiempo.
-
-80.-
-
-¿Cómo se llama el término creado por Alfred Hitchcock para describir al elemento de
+80.- ¿Cómo se llama el término creado por Alfred Hitchcock para describir al elemento de
 curiosidad dramática que hace avanzar la trama, aunque en realidad NO tenga la mayor
 relevancia en ella? Es decir, un “elemento excusa” que es de vital importancia para los
 personajes pero que NO tiene ninguna importancia en el desenlace narrativo.
-
-a)
-
-MacGuffin.
-
-b)
-
-Time bomb lie.
-
-c)
-
-W.I.T.
-
-d)
-
-Bullshit.
-
-81.-
-
-Con “storyworld” nos referimos a:
-
-a)
-
-Un storyboard que desarrolla de forma geográfica la trama de una película o serie.
-
-b)
-
-c)
-
-d)
-
-La parte de la biblia de un proyecto audiovisual que se refiere a la descripción de los
+a) MacGuffin.
+b) Time bomb lie.
+c) W.I.T.
+d) Bullshit.
+81.- Con “storyworld” nos referimos a:
+a) Un storyboard que desarrolla de forma geográfica la trama de una película o serie.
+b) La parte de la biblia de un proyecto audiovisual que se refiere a la descripción de los
 espacios en que se desarrollan las tramas de este.
-
-Una técnica que implica que las personas usuarias participen en un universo ficticio y
+c) Una técnica que implica que las personas usuarias participen en un universo ficticio y
 que sirve para crear cualquier tipo de contexto: ya sea de ficción, de una marca o de una
 cultura o nación.
-
-Una herramienta creada específicamente por el showrunner de una serie una vez
+d) Una herramienta creada específicamente por el showrunner de una serie una vez
 desarrollado el guion y que sirve para armonizar el trabajo de todos los departamentos
 de producción y creación que intervienen en esta en relación con los ambientes y
 decorados que intervienen en esta.
 
-Página: 19 de 31
-
-82.-
-
-¿Quién es el responsable del control general de un proyecto informativo en televisión?
-
-a)
-
-El productor ejecutivo.
-
-b)
-
-El realizador.
-
-c)
-
-El editor de contenidos.
-
-d)
-
-El redactor jefe.
-
-83.-
-
-¿Qué efecto se produce en las cámaras con CCD cuando se pierde detalle por
+82.- ¿Quién es el responsable del control general de un proyecto informativo en televisión?
+a) El productor ejecutivo.
+b) El realizador.
+c) El editor de contenidos.
+d) El redactor jefe.
+83.- ¿Qué efecto se produce en las cámaras con CCD cuando se pierde detalle por
 contaminación de información entre diodos vecinos?
+a) Perla.
+b) Blooming.
+c) Smear.
+d) Moiré.
+84.- En un plano secuencia, ¿puedes saltarte el eje?
+a) Nunca porque solo puedes saltártelo cuando hay un cambio de plano.
+b) Depende de si es un plano fijo o en movimiento.
+c) Depende del movimiento escénico.
+d) Sí, si los personajes se cruzan.
+85.- El orden de los procesos en una producción audiovisual son, por este orden…
+a) Preproducción, desarrollo, rodaje o producción y postproducción.
+b) Desarrollo, preproducción, rodaje o producción y postproducción.
+c) Preproducción, rodaje o producción, desarrollo y postproducción.
+d) Varía dependiendo del tipo de programa que vaya a realizarse.
+86.- ¿Cómo se crea un ritmo analítico?
+a) Con planos muy cortos y muy numerosos.
+b) Con planos largos y poco numerosos.
+c) Con planos cada vez más breves.
+d) Con planos breves o largos, sin tonalidad especial.
 
-a)
-
-Perla.
-
-b)
-
-Blooming.
-
-c)
-
-Smear.
-
-d)
-
-Moiré.
-
-84.-
-
-En un plano secuencia, ¿puedes saltarte el eje?
-
-a)
-
-Nunca porque solo puedes saltártelo cuando hay un cambio de plano.
-
-b)
-
-Depende de si es un plano fijo o en movimiento.
-
-c)
-
-Depende del movimiento escénico.
-
-d)
-
-Sí, si los personajes se cruzan.
-
-85.-
-
-El orden de los procesos en una producción audiovisual son, por este orden…
-
-a)
-
-Preproducción, desarrollo, rodaje o producción y postproducción.
-
-b)
-
-Desarrollo, preproducción, rodaje o producción y postproducción.
-
-c)
-
-Preproducción, rodaje o producción, desarrollo y postproducción.
-
-d)
-
-Varía dependiendo del tipo de programa que vaya a realizarse.
-
-86.-
-
-¿Cómo se crea un ritmo analítico?
-
-a)
-
-Con planos muy cortos y muy numerosos.
-
-b)
-
-Con planos largos y poco numerosos.
-
-c)
-
-Con planos cada vez más breves.
-
-d)
-
-Con planos breves o largos, sin tonalidad especial.
-
-Página: 20 de 31
-
-87.-
-
-La UHD se basa en:
-
-a)
-
-b)
-
-c)
-
-d)
-
-Desarrollar la HDR (High Dinamic Range) dentro del espacio de color 20:20 y con una
+87.- La UHD se basa en:
+a) Desarrollar la HDR (High Dinamic Range) dentro del espacio de color 20:20 y con una
 profundidad de color de más de 10 bits.
-
-La utilización de una definición de la imagen cada vez más amplia, que suponen mayor
+b) La utilización de una definición de la imagen cada vez más amplia, que suponen mayor
 resolución vertical: 8K, 16K, etc.
-
-La utilización de códec más eficientes y siempre compatibles entre si en las sucesivas
+c) La utilización de códec más eficientes y siempre compatibles entre si en las sucesivas
 versiones de UHD que se produzcan.
-
-Aumentar
-la resolución espacial,
+d) Aumentar la resolución espacial, la resolución temporal, el rango dinámico, la
 cuantificación y el espacio de color.
-
-la resolución temporal, el
-
-rango dinámico,
-
-la
-
-88.-
-
-Según el Real Decreto 488/1997sobre pantallas de visualización. ¿Cuál es la distancia
+88.- Según el Real Decreto 488/1997sobre pantallas de visualización. ¿Cuál es la distancia
 mínima recomendada para situar la pantalla hasta los ojos del usuario?
+a) 500mm.
+b) 400mm.
+c) 350mm.
+d) 600mm.
+89.- ¿Qué clase de eje se crea por las miradas de los personajes de una escena?
+a) Eje óptico.
+b) Eje de cámara.
+c) Eje de acción.
+d) Eje escénico.
+90.- Cuando introducimos un delay a una señal de audio, estamos:
+a) Modificando la frecuencia de una señal.
+b) Adelantando la señal de video.
+c) Modificando la intensidad de una señal.
+d) Modificando la señal en el tiempo.
 
-a)
-
-500mm.
-
-b)
-
-400mm.
-
-c)
-
-350mm.
-
-d)
-
-600mm.
-
-89.-
-
-¿Qué clase de eje se crea por las miradas de los personajes de una escena?
-
-a)
-
-Eje óptico.
-
-b)
-
-Eje de cámara.
-
-c)
-
-Eje de acción.
-
-d)
-
-Eje escénico.
-
-90.-
-
-Cuando introducimos un delay a una señal de audio, estamos:
-
-a)
-
-Modificando la frecuencia de una señal.
-
-b)
-
-Adelantando la señal de video.
-
-c)
-
-Modificando la intensidad de una señal.
-
-d)
-
-Modificando la señal en el tiempo.
-
-Página: 21 de 31
-
-91.-
-
-Teniendo en cuenta que la altura del presentador es 1m 73 cm y la posición en la que se
+91.- Teniendo en cuenta que la altura del presentador es 1m 73 cm y la posición en la que se
 encuentra, marcada en la planta del decorado adjunta, ¿Cuál es la altura a la que quedaría
 el borde de la cabeza del presentador?
+a) Aproximadamente 173 cm.
+b) Aproximadamente 253 cm.
+c) Aproximadamente 263 cm.
+d) Aproximadamente 273 cm.
 
-a)
-
-Aproximadamente 173 cm.
-
-b)
-
-Aproximadamente 253 cm.
-
-c)
-
-Aproximadamente 263 cm.
-
-d)
-
-Aproximadamente 273 cm.
-
-Página: 22 de 31
-
-92.-
-
-Estás realizando una grabación de una gala en un plató de Prado del Rey y necesitas
+92.- Estás realizando una grabación de una gala en un plató de Prado del Rey y necesitas
 ampliar el horario, ¿a quién le haces la solicitud para continuar grabando?
-
-a)
-
-Al coordinador de estudio.
-
-b)
-
-Al productor.
-
-c)
-
-Al equipo técnico.
-
-d)
-
-Se continua con la grabación hasta que el realizador lo indique.
-
-93.-
-
-¿Qué tipo de conector identificas en la imagen?
-
-a)
-
-Canon.
-
-b)
-
-VGA.
-
-c)
-
-BNC.
-
-d)
-
-Jack.
-
-94.-
-
-Un cangrejo es:
-
-a)
-
-Un soporte extensible acoplado al trípode para evitar que resbale.
-
-b)
-
-El arnés que permite al operador sujetar la cámara a su cuerpo.
-
-c)
-
-Una ventosa que permite adherir cámaras ligeras a una superficie lisa.
-
-d)
-
-La columna central neumática que hace de soporte y se fija sobre una base.
-
-95.-
-
-¿Cuándo nace VerificaRTVE como herramienta para luchar contra los bulos y la
+a) Al coordinador de estudio.
+b) Al productor.
+c) Al equipo técnico.
+d) Se continua con la grabación hasta que el realizador lo indique.
+93.- ¿Qué tipo de conector identificas en la imagen?
+a) Canon.
+b) VGA.
+c) BNC.
+d) Jack.
+94.- Un cangrejo es:
+a) Un soporte extensible acoplado al trípode para evitar que resbale.
+b) El arnés que permite al operador sujetar la cámara a su cuerpo.
+c) Una ventosa que permite adherir cámaras ligeras a una superficie lisa.
+d) La columna central neumática que hace de soporte y se fija sobre una base.
+95.- ¿Cuándo nace VerificaRTVE como herramienta para luchar contra los bulos y la
 desinformación?
+a) 2020.
+b) 2021.
+c) 2023.
+d) 2024.
+96.- El guionista de “El apartamento” es ...
+a) Woody Allen.
+b) Francis Ford Coppola.
+c) Billy Wilder.
+d) Jean-Luc Godard.
 
-a)
-
-2020.
-
-b)
-
-2021.
-
-c)
-
-2023.
-
-d)
-
-2024.
-
-96.-
-
-El guionista de “El apartamento” es ...
-
-a)
-
-Woody Allen.
-
-b)
-
-Francis Ford Coppola.
-
-c)
-
-Billy Wilder.
-
-d)
-
-Jean-Luc Godard.
-
-Página: 23 de 31
-
-97.-
-
-Un desglose de guion sirve para:
-
-a)
-
-b)
-
-c)
-
-d)
-
-Que el equipo artístico conozca el argumento narrativo y los actores memoricen sus
+97.- Un desglose de guion sirve para:
+a) Que el equipo artístico conozca el argumento narrativo y los actores memoricen sus
 papeles.
-
-Que el equipo técnico conozca los distintos planos, posiciones de cámara y movimiento
+b) Que el equipo técnico conozca los distintos planos, posiciones de cámara y movimiento
 de los actores.
-
-Identificar
+c) Identificar todos los elementos necesarios con el fin de preparar, programar y
 presupuestar una producción audiovisual.
-
-todos los elementos necesarios con el fin de preparar, programar y
-
-Facilitar el visionado del material rodado anotando en él las escenas y planos con sus
+d) Facilitar el visionado del material rodado anotando en él las escenas y planos con sus
 códigos de tiempo.
-
-98.-
-
-¿Cuál de las siguientes afirmaciones NO es correcta?
-
-a)
-
-El sonido se caracteriza por tono, timbre e intensidad.
-
-b)
-
-Los micrófonos de condensador necesitan alimentación phanton.
-
-c)
-
-d)
-
-La música que suena en una secuencia procedente de un aparato de radio que aparece
+98.- ¿Cuál de las siguientes afirmaciones NO es correcta?
+a) El sonido se caracteriza por tono, timbre e intensidad.
+b) Los micrófonos de condensador necesitan alimentación phanton.
+c) La música que suena en una secuencia procedente de un aparato de radio que aparece
 en imagen se denomina música diegética.
-
-La audiofrecuencia hace referencia a la señal cuya frecuencia pertenece a la gama
+d) La audiofrecuencia hace referencia a la señal cuya frecuencia pertenece a la gama
 audible: 15 Hz. a 80 kHz.
-
-99.-
-
-¿Quién presenta actualmente el programa de La 2 “Cachitos de Hierro y Cromo”?
-
-a)
-
-Mario de la Mano.
-
-b)
-
-Virginia Díaz.
-
-c)
-
-Ángel Carmona.
-
-d)
-
-Joaquín Reyes.
-
-100.-
-
-¿Cuántos bits conforman una palabra de código de tiempo LTC para un solo fotograma?
-
-a)
-
-80.
-
-b)
-
-16.
-
-c)
-
-64.
-
-d)
-
-32.
-
-101.-
-
-¿Qué es un junket?
-
-a)
-
-Es la omisión intencionada de algún elemento del discurso o de un segmento
+99.- ¿Quién presenta actualmente el programa de La 2 “Cachitos de Hierro y Cromo”?
+a) Mario de la Mano.
+b) Virginia Díaz.
+c) Ángel Carmona.
+d) Joaquín Reyes.
+100.- ¿Cuántos bits conforman una palabra de código de tiempo LTC para un solo fotograma?
+a) 80.
+b) 16.
+c) 64.
+d) 32.
+101.- ¿Qué es un junket?
+a) Es la omisión intencionada de algún elemento del discurso o de un segmento
 sintáctico, cuyo contenido se puede recuperar por el contexto, con el fin de suscitar
 determinados efectos en el espectador.
-
-b)
-
-Es la interrelación de historias o personajes de diferentes series o películas.
-
-c)
-
-d)
-
-Es una técnica de montaje cinematográfico que consiste en hacer pequeñas elipsis
+b) Es la interrelación de historias o personajes de diferentes series o películas.
+c) Es una técnica de montaje cinematográfico que consiste en hacer pequeñas elipsis
 dentro de una misma toma secuencial.
-
-Es un evento de promoción que reúne a cantantes, guionistas, artistas, etc. con la
+d) Es un evento de promoción que reúne a cantantes, guionistas, artistas, etc. con la
 prensa en un set común y con tiempos cronometrados para realizar las entrevistas.
 
-Página: 24 de 31
-
-102.-
-
-¿Qué software permite programar cada cambio de plano, cada efecto o transición de
+102.- ¿Qué software permite programar cada cambio de plano, cada efecto o transición de
 manera previa y ejecutarlo en directo durante toda la transmisión de forma automática?
-
-a)
-
-AVID PROGRAM MIXER.
-
-b)
-
-PRIME TV.
-
-c)
-
-QE PILOT.
-
-d)
-
-LIVE EDIT.
-
-103.-
-
-¿A que hace referencia el término Buzz Track?
-
-a)
-
-A una interferencia involuntaria en el sonido.
-
-b)
-
-A una interferencia intencionada en el sonido con una función dramática.
-
-c)
-
-Al sonido grabado durante el rodaje que no va ha ser utilizado para el producto final.
-
-d)
-
-Al sonido de un objeto que no necesita ser síncrono.
-
-104.-
-
-¿Cuál es el número mínimo de discos para configurar un RAID 1?
-
-a)
-
-1.
-
-b)
-
-2.
-
-c)
-
-3.
-
-d)
-
-4.
-
-105.-
-
-La banda de sonido comprende
-
-a)
-
-La música que el compositor realiza ex profeso para el film.
-
-b)
-
-c)
-
-La música, tanto la que el compositor realiza ex profeso para el filme como la no
+a) AVID PROGRAM MIXER.
+b) PRIME TV.
+c) QE PILOT.
+d) LIVE EDIT.
+103.- ¿A que hace referencia el término Buzz Track?
+a) A una interferencia involuntaria en el sonido.
+b) A una interferencia intencionada en el sonido con una función dramática.
+c) Al sonido grabado durante el rodaje que no va ha ser utilizado para el producto final.
+d) Al sonido de un objeto que no necesita ser síncrono.
+104.- ¿Cuál es el número mínimo de discos para configurar un RAID 1?
+a) 1.
+b) 2.
+c) 3.
+d) 4.
+105.- La banda de sonido comprende
+a) La música que el compositor realiza ex profeso para el film.
+b) La música, tanto la que el compositor realiza ex profeso para el filme como la no
 original (canciones, música adaptada y música diegética).
-
-La música, tanto la que el compositor realiza ex profeso para el filme como la no
+c) La música, tanto la que el compositor realiza ex profeso para el filme como la no
 original (canciones, música adaptada y música diegética), como los efectos sonoros y
 sonidos ambientes, con lo que se permite el doblaje de un mismo filme a cualquier
 idioma.
-
-d)
-
-Diálogos, narraciones, sonidos de ambiente de la imagen, sonidos que de forma
+d) Diálogos, narraciones, sonidos de ambiente de la imagen, sonidos que de forma
 absoluta no tienen relación con la imagen ni siquiera con el espacio narrativo propuesto
 por la banda de imagen (extradiegéticos), músicas, etc.
-
-106.-
-
-¿Cómo conseguir en un plano distorsionar la perspectiva en el fondo mientras se
+106.- ¿Cómo conseguir en un plano distorsionar la perspectiva en el fondo mientras se
 mantiene estable el objeto principal?
+a) Utilizando el dolly-zoom.
+b) Empleando una lente “ojo de pez”.
+c) Solo con edición en After Effects.
+d) Contrapicando la cámara.
 
-a)
-
-Utilizando el dolly-zoom.
-
-b)
-
-Empleando una lente “ojo de pez”.
-
-c)
-
-Solo con edición en After Effects.
-
-d)
-
-Contrapicando la cámara.
-
-Página: 25 de 31
-
-107.-
-
-A la hora de organizar una jornada de grabación en plató, según establece el III Convenio
+107.- A la hora de organizar una jornada de grabación en plató, según establece el III Convenio
 Colectivo de RTVE en su articulo 43, se debe planificar el derecho a comida si:
-
-a)
-
-La jornada comienza antes de las 13:00 y finaliza después de las 15:30.
-
-b)
-
-La jornada comienza antes de las 13:00 y finaliza después de las 16:30.
-
-c)
-
-La jornada comienza antes de las 13:30 y finaliza después de las 15:30.
-
-d)
-
-La jornada comienza antes de las 13:30 y finaliza después de las 16:00.
-
-108.-
-
-¿A qué llamamos TSNR?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Al nivel de tensión de la amplitud de la señal de video por debajo del negro, utilizado
+a) La jornada comienza antes de las 13:00 y finaliza después de las 15:30.
+b) La jornada comienza antes de las 13:00 y finaliza después de las 16:30.
+c) La jornada comienza antes de las 13:30 y finaliza después de las 15:30.
+d) La jornada comienza antes de las 13:30 y finaliza después de las 16:00.
+108.- ¿A qué llamamos TSNR?
+a) Al nivel de tensión de la amplitud de la señal de video por debajo del negro, utilizado
 para incrustaciones en posproducción.
-
-A la relación entre dos personajes en una trama donde, si bien existe una atracción
+b) A la relación entre dos personajes en una trama donde, si bien existe una atracción
 evidente, por alguna circunstancia no puede consumarse.
-
-A una transición sin normalizar efectuada entre dos planos que no está lanzada por un
+c) A una transición sin normalizar efectuada entre dos planos que no está lanzada por un
 GPI o efecto automático.
-
-A aquellas lámparas de tungsteno con filamento modificado para proporcionar una
+d) A aquellas lámparas de tungsteno con filamento modificado para proporcionar una
 iluminación no puntual con sombras no recortadas.
-
-109.-
-
-¿Cuáles son los criterios fundamentales de la persona encargada de las localizaciones a
+109.- ¿Cuáles son los criterios fundamentales de la persona encargada de las localizaciones a
 la hora de desempeñar su trabajo?
-
-a)
-
-Criterios técnicos y logísticos.
-
-b)
-
-Criterios artísticos y técnicos.
-
-c)
-
-Criterios logísticos y artísticos.
-
-d)
-
-Criterios artísticos, logísticos y técnicos.
-
-110.-
-
-En esta escena entre cuatro personajes indica la única continuidad de planos en la que
+a) Criterios técnicos y logísticos.
+b) Criterios artísticos y técnicos.
+c) Criterios logísticos y artísticos.
+d) Criterios artísticos, logísticos y técnicos.
+110.- En esta escena entre cuatro personajes indica la única continuidad de planos en la que
 NO se infringen las reglas del montaje continuo.
 
-Página: 26 de 31
-
-a)
-
-b)
-
-c)
-
-d)
-
-C-1 (GRUPO DE LOS CUATRO PERSONAJES)
+a) C-1 (GRUPO DE LOS CUATRO PERSONAJES)
 C-3 (PP Personaje B)
 C-5 (PP Personaje D)
 C-8 (Referencia Personaje B / Personaje A)
@@ -2477,8 +776,7 @@ C-4 (PP Personaje C)
 C-7 (Referencia Personaje A / Personaje D)
 C-9 (Referencia Personaje D / Personaje A)
 C-10 (GRUPO DE LOS CUATRO PERSONAJES).
-
-C-10 (GRUPO DE LOS CUATRO PERSONAJES)
+b) C-10 (GRUPO DE LOS CUATRO PERSONAJES)
 C- 8 (Referencia personaje B / personaje A)
 C- 7 (Personaje A + Personaje D)
 C- 9 (Personaje D + Personaje C + Personaje B)
@@ -2486,8 +784,7 @@ C-6 (Personaje C + Personaje D)
 C-9 (Personaje D)
 C-7 (Referencia Personaje B / Personaje C)
 C-1 (GRUPO DE LOS CUATRO PERSONAJES).
-
-C-1 (GRUPO DE LOS CUATRO PERSONAJES)
+c) C-1 (GRUPO DE LOS CUATRO PERSONAJES)
 C-8 (Referencia Personaje B / Personaje A)
 C-7 (Personaje B + Personaje A)
 C-9 (Referencia personaje C / personaje B)
@@ -2497,8 +794,7 @@ C-2 (PP Personaje A)
 C-4 (PP Personaje C)
 C-9 (Personaje D)
 C-10 (GRUPO DE LOS CUATRO PERSONAJES.
-
-C-5 (PP Personaje D)
+d) C-5 (PP Personaje D)
 C-1 (GRUPO DE LOS CUATRO PERSONAJES)
 C-3 (PP Personaje B)
 C-7 (Referencia Personaje B / Personaje C)
@@ -2509,232 +805,74 @@ C-5 (PP Personaje D)C-2 (PP Personaje A)
 C-6 (Personaje A + Personaje D)
 C-8 (Referencia personaje D / Personaje A).
 
-Página: 27 de 31
-
-111.-
-
-¿Qué son las constantes perceptivas?
-
-a)
-
-b)
-
-Son unos mecanismos psíquicos gracias a los cuales el mundo exterior tridimensional
+111.- ¿Qué son las constantes perceptivas?
+a) Son unos mecanismos psíquicos gracias a los cuales el mundo exterior tridimensional
 permanece estable para nuestro sistema perceptivo.
-
-Vemos siempre los colores de igual forma, aunque cambie el tipo de luz que ilumina la
+b) Vemos siempre los colores de igual forma, aunque cambie el tipo de luz que ilumina la
 escena.
-
-c)
-
-Al desplazar el punto de vista la escena se desplaza de forma constante.
-
-d)
-
-Ilusión del movimiento aparente, producida por la contemplación de una sucesión de
+c) Al desplazar el punto de vista la escena se desplaza de forma constante.
+d) Ilusión del movimiento aparente, producida por la contemplación de una sucesión de
 imágenes a una velocidad determinada.
-
-112.-
-
-¿Cuál de las herramientas de Avid Media Composer mostradas en la imagen debemos
+112.- ¿Cuál de las herramientas de Avid Media Composer mostradas en la imagen debemos
 utilizar si queremos buscar y cargar el fotograma original en el monitor de fuente de un
 frame que tenemos incluido en el time line de la secuencia que estamos editando?
+a) A.
+b) B.
+c) C.
+d) D.
+113.- ¿Qué es el Trim?
+a) Una herramienta de edición no lineal.
+b) Una extensión de vídeo.
+c) Un filtro de difracción.
+d) Un sistema informático aplicado a escenarios virtuales.
+114.- En “La llegada del tren“ de los hermanos Lumière, el realismo se ve reforzado por:
+a) El movimiento de la cámara.
+b) La utilización del color.
+c) La profundidad de campo.
+d) El sonido de la locomotora.
+115.- ¿En qué fecha se hizo en España la primera transmisión televisiva?
+a) 28 de octubre de 1956.
+b) 18 de julio de 1956.
+c) 3 de agosto 1957.
+d) 2 de octubre 1954.
 
-a)
-
-A.
-
-b)
-
-B.
-
-c)
-
-C.
-
-d)
-
-D.
-
-113.-
-
-¿Qué es el Trim?
-
-a)
-
-Una herramienta de edición no lineal.
-
-b)
-
-Una extensión de vídeo.
-
-c)
-
-Un filtro de difracción.
-
-d)
-
-Un sistema informático aplicado a escenarios virtuales.
-
-114.-
-
-En “La llegada del tren“ de los hermanos Lumière, el realismo se ve reforzado por:
-
-a)
-
-El movimiento de la cámara.
-
-b)
-
-La utilización del color.
-
-c)
-
-La profundidad de campo.
-
-d)
-
-El sonido de la locomotora.
-
-115.-
-
-¿En qué fecha se hizo en España la primera transmisión televisiva?
-
-a)
-
-28 de octubre de 1956.
-
-b)
-
-18 de julio de 1956.
-
-c)
-
-3 de agosto 1957.
-
-d)
-
-2 de octubre 1954.
-
-Página: 28 de 31
-
-116.-
-
-En la cuantificación de la señal de audio, ¿cómo evitaremos los errores por redondeo?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Sometiendo previamente la señal a cuantificar a un filtro pasa banda para que el cálculo
+116.- En la cuantificación de la señal de audio, ¿cómo evitaremos los errores por redondeo?
+a) Sometiendo previamente la señal a cuantificar a un filtro pasa banda para que el cálculo
 de la función de transferencia se pueda someter al método DCT.
-
-Compensando los errores retardando las líneas e integrando las muestras de retardo en
+b) Compensando los errores retardando las líneas e integrando las muestras de retardo en
 la señal actual dentro de un&nbsp;buffer de cuantificación.
-
-Trabajando con el método de "complemento a dos", que hace que las señales queden
+c) Trabajando con el método de "complemento a dos", que hace que las señales queden
 representadas con respecto a un punto medio, al igual que en las analógicas.
-
-Sumando a la señal analógica el dither, una señal de bajo nivel generalmente formada
+d) Sumando a la señal analógica el dither, una señal de bajo nivel generalmente formada
 por ruido blanco con una amplitud inferior a un nivel de cuantificación.
-
-117.-
-
-Trabajando en un minutado de iNEWS, como el de la imagen adjunta, ¿Qué información
+117.- Trabajando en un minutado de iNEWS, como el de la imagen adjunta, ¿Qué información
 ofrece que en la columna Dura el tiempo aparezca con la tipografía normal o negrita?
-
-a)
-
-b)
-
-c)
-
-d)
-
-Tipografía normal es una estimación que hace el programa de la duración de ese
+a) Tipografía normal es una estimación que hace el programa de la duración de ese
 evento en función del texto que tenga escrito dentro de la línea y la tipografía negrita es
 un tiempo introducido a mano en esa casilla y no se ve afectado por el texto que tenga
 escrito dentro.
-
-Tipografía normal es un tiempo introducido a mano en esa casilla y no se ve afectado
+b) Tipografía normal es un tiempo introducido a mano en esa casilla y no se ve afectado
 por el texto que tenga escrito dentro y la tipografía negrita es una estimación que hace
 el programa de la duración de ese evento en función del texto que tenga escrito dentro.
-
-Tipografía normal es un tiempo referente a una presentación a cámara y la tipografía
+c) Tipografía normal es un tiempo referente a una presentación a cámara y la tipografía
 negrita corresponde a los eventos que tienen asociado un VIDEO-ID.
-
-La selección del estilo de la tipografía en la columna Dura es una configuración de
+d) La selección del estilo de la tipografía en la columna Dura es una configuración de
 usuario que permite visualizar los tiempos de duración en estilo normal o en negrita . La
 opción elegida puede afectar a cada casilla de manera independiente y personalizable.
+118.- ¿Qué es una paralipsis como recurso narrativo?
+a) Eliminar en una narración todo lo superfluo.
+b) Mostrar un elemento de capital importancia en el desenlace.
+c) Es una estrategia para desviar la atención dejando pistas falsas.
+d) Ocultar un dato importante, que sabe el personaje, al espectador.
 
-118.-
+119.- En esta planta de decorado, ¿a qué altura está el set de actuación principal?
+a) 90 centímetros.
+b) 45 centímetros.
+c) No se puede saber la altura ya que no es una planta con alzado.
+d) 255 centímetros.
 
-¿Qué es una paralipsis como recurso narrativo?
-
-a)
-
-Eliminar en una narración todo lo superfluo.
-
-b)
-
-Mostrar un elemento de capital importancia en el desenlace.
-
-c)
-
-Es una estrategia para desviar la atención dejando pistas falsas.
-
-d)
-
-Ocultar un dato importante, que sabe el personaje, al espectador.
-
-Página: 29 de 31
-
-119.-
-
-En esta planta de decorado, ¿a qué altura está el set de actuación principal?
-
-a)
-
-90 centímetros.
-
-b)
-
-45 centímetros.
-
-c)
-
-No se puede saber la altura ya que no es una planta con alzado.
-
-d)
-
-255 centímetros.
-
-Página: 30 de 31
-
-120.-
-
-¿Cuáles son los colores complementarios en un sistema aditivo?
-
-a)
-
-Amarillo, magenta y cian.
-
-b)
-
-Azul, verde y rojo.
-
-c)
-
-Amarillo, azul y rojo.
-
-d)
-
-Cian, magenta y verde.
-
-Página: 31 de 31
-
-
+120.- ¿Cuáles son los colores complementarios en un sistema aditivo?
+a) Amarillo, magenta y cian.
+b) Azul, verde y rojo.
+c) Amarillo, azul y rojo.
+d) Cian, magenta y verde.

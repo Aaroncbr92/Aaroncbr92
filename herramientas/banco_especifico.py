@@ -42,6 +42,13 @@ SALIDA = "banco"
 MARCA = {"informacion": "iyc", "gestion-administrativa": "gea",
          "produccion-asistencia": "produccion_asist"}
 
+# **Y lo mismo pasa con «Realización»**: los cuadernillos `66_preguntas_realizacion_a`
+# y `68_..._b` son de la ocupación tipo de **Realización**, que tiene su propio
+# Anexo 2 y no está en este proyecto; los de **Realización (Asistencia)** son el
+# `60` y el `62`. Sin la regla, el banco de esta última se llevaba las 240
+# preguntas de aquélla y las contaba como pendientes: decía «209 repartidas de
+# 439, quedan 230 sin clasificar» y no faltaba ninguna.
+#
 # **Dos ocupaciones tipo se llaman «Producción».** Una es *Producción
 # (Asistencia)*, con sus cuadernillos `77_preguntas_produccion_asist` y
 # `78_..._2_llamamiento`; la otra es *Producción* a secas, con el
@@ -50,7 +57,9 @@ MARCA = {"informacion": "iyc", "gestion-administrativa": "gea",
 # las sesenta y seis preguntas de la segunda **y las contaba como pendientes**,
 # sin dar ningún error. Cuando el nombre no basta, la ocupación dice **qué
 # cuadernillos son suyos**, por su nombre exacto.
-SOLO = {"produccion": ("81_preguntas_produccion",)}
+SOLO = {"produccion": ("81_preguntas_produccion",),
+        "realizacion": ("60_preguntas_realizacion_asist",
+                        "62_preguntas_realizacion_asist_2_llamamiento")}
 
 
 def reparto(ocupacion):
