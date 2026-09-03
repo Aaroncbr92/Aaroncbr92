@@ -4,7 +4,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y teor�
 plantilla oficial, **procedimientos de programa y una barra de herramientas.**
 
 **Cabecera.** Enunciado: «4.8. Postproducción. Teoría general del montaje. Edición. Efectos. Grafismo,
-infografía, imágenes en 2D y 3D» · **17 preguntas: el tercer banco de la ocupación** · **la mezcla más
+infografía, imágenes en 2D y 3D» · **17 preguntas: sexto banco de la ocupación** · **la mezcla más
 desigual del proyecto**: **SIETE son teoría del cine y OCHO son manual de usuario.** **Se estudia como
 dos cosas: la teoría SE RAZONA, los programas SE MEMORIZAN.**
 

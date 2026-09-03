@@ -30,8 +30,8 @@ marca.
 > sus características. Foco. Profundidad de campo. Diagrama. Filtros. Soportes cámara. Estabilizadores
 > y otros accesorios.»
 
-**Dieciséis preguntas: el segundo banco de esta ocupación**, sólo por detrás del de producción de
-programas directos y grabados. **Y el punto que más pregunta por objetos concretos** —un cangrejo, un
+**Dieciséis preguntas: el séptimo banco de esta ocupación**, y **el primero de los que hablan de
+máquinas y no de relato.** **Y el punto que más pregunta por objetos concretos** —un cangrejo, un
 *slider*, una *mini jib*, un signo grabado en una carcasa—, **que es la clase de pregunta que no se
 deduce: se sabe o no se sabe.**
 

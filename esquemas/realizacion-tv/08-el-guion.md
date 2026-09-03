@@ -4,7 +4,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y teor�
 plantilla oficial.
 
 **Cabecera.** Enunciado: «2.2. El Guion. Biblia. Guion literario. Guion técnico. Escaleta y minutado.
-Story Board» · **22 preguntas: el banco más grande de la ocupación después del punto 4.6** ·
+Story Board» · **22 preguntas: el segundo banco de la ocupación, tras el punto 4.6** ·
 **y el punto que más concentra terminología: veintidós preguntas y casi todas de definir un término.**
 
 <!-- indice -->

@@ -642,7 +642,8 @@ en Documentación y en Producción (Asistencia).
 
 - [x] **Fase D: las dos ocupaciones audiovisuales grandes, terminadas el 2026-09-03.**
       **Realización (Asistencia)**, la ocupación más grande del proceso 1/2022 —129 puestos—, con
-      20 temas propios más el de prevención y **el banco más grande del proyecto: 209 preguntas**
+      20 temas propios más el de prevención y **209 preguntas**, el banco mayor del proyecto hasta
+      que llegó Realización Televisión,
       de dos llamamientos completos con sus dos plantillas. Trajo **una errata de plantilla** —la
       del sistema free-d, cuya opción marcada describe un montaje de croma y no una sensorización—
       y **una pregunta mal construida** —la de la unidad de control de cámara, que ninguna de las

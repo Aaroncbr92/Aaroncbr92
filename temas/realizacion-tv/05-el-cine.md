@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
 | **Ojo con la** | **pregunta 33: tiene TRES respuestas igualmente correctas.** *Ben-Hur*, *Titanic* y *El señor de los anillos: el retorno del rey* comparten el récord de once Óscar, y **tres de las cuatro opciones son esas tres películas**. **El temario manda marcar la de la plantilla —*Ben-Hur*— sabiendo que está marcada por la plantilla y no por el enunciado**, y **la señala como impugnable** |
-| **Extensión** | **4.046 palabras** |
+| **Extensión** | **4.078 palabras** |
 
 <!-- /portada -->
 

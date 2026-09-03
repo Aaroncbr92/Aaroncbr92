@@ -5,7 +5,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, óptic
 
 **Cabecera.** Enunciado: «4.2. La cámara accesorios y posibilidades. Nociones básicas. Objetivos. Foco.
 Profundidad de campo. Diagrama [*sic*: Diafragma]. Filtros. Soportes cámara. Estabilizadores» · **16
-preguntas: el segundo banco de la ocupación** · **UNA es negativa y UNA depende de una planta.**
+preguntas: séptimo banco de la ocupación** · **UNA es negativa y UNA depende de una planta.**
 
 <!-- indice -->
 

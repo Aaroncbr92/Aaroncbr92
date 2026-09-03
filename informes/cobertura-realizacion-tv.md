@@ -5,8 +5,8 @@ el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 
 **Dos cuadernillos sostienen este bloque**: `66_preguntas_realizacion_a`, del primer llamamiento, y
 `68_preguntas_realizacion_b`, del segundo, los dos del proceso selectivo de 2024, **con sus dos
-plantillas completas**. De sus preguntas, **229 son del bloque específico** —**el segundo banco más
-grande del proyecto, después de las 209 de Realización (Asistencia)**—, **1 va al banco compartido de
+plantillas completas**. De sus preguntas, **229 son del bloque específico** —**el banco más grande
+del proyecto, por delante de las 209 de Realización (Asistencia)**—, **1 va al banco compartido de
 prevención** y las demás al bloque común. **Las 229 están repartidas y no queda ninguna sin
 clasificar.**
 

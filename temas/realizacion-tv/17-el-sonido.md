@@ -35,7 +35,8 @@ group*) y el de imagen en movimiento (**MPEG**, *moving picture experts group*).
 > estudio. Monitorización. Soportes de grabación. Tecnología digital. Postproducción de sonido.
 > Ambientación. Equipos de sonido.»
 
-**Dieciocho preguntas**, y **la sorpresa de esta ocupación**: **el sonido pregunta casi tanto como el
+**Dieciocho preguntas, empatado con el de formatos como cuarto banco de la ocupación**, y **la
+sorpresa de este temario**: **el sonido pregunta casi tanto como el
 lenguaje narrativo.** **Un realizador de televisión no mezcla sonido, pero decide sobre él todo el
 día**, y **el cuadernillo lo trata en consecuencia.**
 

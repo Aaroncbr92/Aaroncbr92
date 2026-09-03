@@ -4,7 +4,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y tecno
 `[plan]` = plantilla oficial.
 
 **Cabecera.** Enunciado: «3.2. Formatos y Procesos de registro, captación y reproducción de imagen.
-Tipos de archivo» · **18 preguntas** · **el punto más técnico de la ocupación y el que más se contesta
+Tipos de archivo» · **18 preguntas: cuarto banco de la ocupación, empatado con el sonido** · **el punto más técnico de la ocupación y el que más se contesta
 con cifras exactas.**
 
 <!-- indice -->

@@ -5,7 +5,7 @@ digital · `[plan]` = plantilla oficial.
 
 **Cabecera.** Enunciado: «4.5. El sonido. Conceptos generales. Planos de sonido. Toma en exteriores y
 en estudio. Monitorización. Soportes. Tecnología digital. Postproducción. Ambientación. Equipos» · **18
-preguntas** · **la sorpresa de la ocupación: el sonido pregunta casi tanto como el lenguaje
+preguntas: cuarto banco de la ocupación, empatado con el de formatos** · **la sorpresa de la ocupación: el sonido pregunta casi tanto como el lenguaje
 narrativo.**
 
 <!-- indice -->

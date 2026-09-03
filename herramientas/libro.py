@@ -831,8 +831,8 @@ BLOQUES = {
                          "<b>El temario enseña la norma y la ficha del fabricante, no la "
                          "plantilla.</b>",
         aviso_portada="<p><b>Es la ocupación más grande del proceso 1/2022: 129 puestos, 104 de "
-                      "ellos con examen</b>, y la que trae el banco más grande del proyecto: "
-                      "<b>doscientas nueve preguntas del bloque específico</b>, de dos "
+                      "ellos con examen</b>, y trae <b>doscientas nueve preguntas del bloque "
+                      "específico</b> —el mayor del proyecto hasta Realización Televisión—, de dos "
                       "llamamientos con sus dos plantillas completas.</p>"
                       "<p><b>Su anexo no numera temas, sino ocho bloques con cuarenta y dos "
                       "subpuntos de tamaños muy desiguales</b>, y este libro explica en el "

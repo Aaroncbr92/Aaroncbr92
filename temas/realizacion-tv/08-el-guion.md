@@ -25,7 +25,8 @@ examen escribe «decoupage»); y el guion gráfico (***storyboard***).
 > «CONOCIMIENTOS BÁSICOS. El Guion. Biblia. Guion literario. Guion técnico. Escaleta y minutado. Story
 > Board.»
 
-**Veintidós preguntas: el banco más grande de toda la ocupación**, y **casi una de cada diez de las
+**Veintidós preguntas: el segundo banco de la ocupación**, sólo por detrás de las veintitrés del
+punto 4.6, y **casi una de cada diez de las
 doscientas veintinueve del cuadernillo.** **Ninguna descansa sólo en la plantilla**: **las
 veintidós son teoría del guion y de la narración**, materia asentada y comprobable.
 

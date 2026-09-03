@@ -27,7 +27,7 @@ cuadernillo cita por su nombre comercial.
 > «LA REALIZACIÓN. Postproducción. Teoría general del montaje. Edición. Efectos. Grafismo, infografía,
 > imágenes en 2D y 3D. Generación y manipulación de imágenes»
 
-**Diecisiete preguntas: el tercer banco de esta ocupación.** **Y el tema con la mezcla más desigual de
+**Diecisiete preguntas: el sexto banco de esta ocupación.** **Y el tema con la mezcla más desigual de
 todo el proyecto**: **siete preguntas son de teoría del montaje —Eisenstein, Griffith, Marcel Martin,
 Kuleshov— y ocho son de manejo de programas concretos.** **Es teoría del cine y manual de usuario en el
 mismo punto de programa**, y **hay que estudiarlo como dos cosas.**

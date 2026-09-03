@@ -37,7 +37,7 @@ examen inventa (**SWS**), que tampoco existe.
 > «LA TECNOLOGÍA EN EL ÁMBITO DE LA REALIZACIÓN. Formatos y Procesos de registro, captación y
 > reproducción de imagen. Tipos de archivo.»
 
-**Dieciocho preguntas: el segundo banco de esta ocupación.** Y **el más técnico de los veintidós
+**Dieciocho preguntas: el cuarto banco de esta ocupación, empatado con el del sonido.** Y **el más técnico de los veintidós
 temas**: resoluciones, cadencias, muestreos, compresión, contenedores, códigos de tiempo y soportes.
 
 **Una de sus dieciocho depende de una imagen**, y va declarada.

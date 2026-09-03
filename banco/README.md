@@ -439,8 +439,8 @@ contestan leyendo**.
 ### Realización Televisión
 
 **229 preguntas** de los dos llamamientos de **Realización Televisión** de 2024, repartidas entre los
-veintidós temas en que este proyecto desarrolla su Anexo 2. **Es el segundo banco más grande del
-proyecto**, después del de Realización (Asistencia).
+veintidós temas en que este proyecto desarrolla su Anexo 2. **Es el banco más grande del
+proyecto**, por delante de las 209 de Realización (Asistencia).
 
 **El reparto es extraordinariamente desigual, y es el dato que ordena el estudio de la ocupación.** El
 punto 4.6 —producción de programas directos y grabados— se lleva **veintitrés preguntas**, que es **el
