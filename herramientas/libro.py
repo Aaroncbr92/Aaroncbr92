@@ -362,6 +362,28 @@ AVISOS_TECNICA_INFORMATICA = {
         "con el precepto es la d), y se marca</b>, con el matiz aprendido al lado.",
 }
 
+AVISOS_DISENO_GRAFICO = {
+    "07_preguntas_diseno_grafico \u00b7 n\u00ba 9":
+        "<b>El enunciado llama regla de composici\u00f3n a lo que es un elemento.</b> <b>El espacio en "
+        "blanco S\u00cd es un recurso compositivo de primer orden</b> \u2014el aire de una p\u00e1gina es "
+        "tan compositivo como lo que hay en ella\u2014. Lo que la pregunta persigue es que las otras "
+        "tres <b>son REGLAS</b> \u2014alineaci\u00f3n, proporci\u00f3n \u00e1urea y repetici\u00f3n\u2014 <b>y el blanco "
+        "es un ELEMENTO</b>. Con esa lectura, <b>la c) es la \u00fanica defendible de las cuatro</b>, y "
+        "se marca.",
+    "07_preguntas_diseno_grafico \u00b7 n\u00ba 32":
+        "<b>Dos de las cuatro opciones son defendibles.</b> La <b>a)</b> habla de «subdivisiones en "
+        "las que organizamos el dise\u00f1o» y la <b>d)</b> de «un elemento de gesti\u00f3n del dise\u00f1o de "
+        "un grafismo». <b>Lo que hace mejor a la marcada es que DESCRIBE lo que una capa es</b>, "
+        "mientras la otra s\u00f3lo dice que sirve para gestionarlo, que es m\u00e1s vago. Se marca la "
+        "<b>a)</b>, que es la de la plantilla.",
+    "07_preguntas_diseno_grafico \u00b7 n\u00ba 95":
+        "<b>Esta pregunta no es de dise\u00f1o gr\u00e1fico.</b> Los \u00e1ngulos interiores de un tri\u00e1ngulo "
+        "suman <b>180 grados</b> en geometr\u00eda plana, y eso no admite discusi\u00f3n. Lo que hay que "
+        "decir es que <b>no pertenece a ning\u00fan punto del anexo espec\u00edfico ni al bloque com\u00fan</b>: "
+        "este temario la clasifica en fundamentos del dise\u00f1o <b>por proximidad con «la forma», y "
+        "lo declara</b> en vez de inventarle un encaje.",
+}
+
 AVISOS_REALIZACION_TV = {
     "66_preguntas_realizacion_a · nº 33":
         "<b>La pregunta tiene tres respuestas igualmente correctas.</b> <i>Ben-Hur</i>, "
@@ -871,6 +893,65 @@ BLOQUES = {
                       "mano</b>. Es la respuesta peor documentada del bloque, porque los gestos "
                       "del control son convenio de casa y no hay fuente p\u00fablica que los fije. "
                       "<b>El temario lo declara</b> en lugar de inventar una.</p>",
+    ),
+    "diseno-grafico": dict(
+        carpeta="diseno-grafico",
+        rotulo="Temario espec\u00edfico \u00b7 Dise\u00f1o Gr\u00e1fico",
+        ocupacion="Dise\u00f1o Gr\u00e1fico",
+        titulo="Temario espec\u00edfico",
+        subtitulo="Los catorce temas de <b>Dise\u00f1o Gr\u00e1fico</b>",
+        pie="Oposiciones RTVE \u2013 Dise\u00f1o Gr\u00e1fico",
+        avisos=dict(AVISOS_DISENO_GRAFICO, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        # el punto 8 del anexo \u2014grafismo informativo, infograf\u00eda e interfaz\u2014 no
+        # tiene ni una pregunta en el cuadernillo, as\u00ed que su banco no existe y
+        # en su lugar va None. Se desarrolla igual, contra el programa
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "optica-la-luz-y-el-color", "diseno-grafico-01"),
+            (2, "conocimientos-basicos-de-television", "diseno-grafico-02"),
+            (3, "historia-del-diseno-el-cine-y-la-television", "diseno-grafico-03"),
+            (4, "composicion-montaje-animacion-y-generos", "diseno-grafico-04"),
+            (5, "fundamentos-del-diseno-y-tipografia", "diseno-grafico-05"),
+            (6, "diseno-audiovisual-y-sintaxis-de-la-imagen", "diseno-grafico-06"),
+            (7, "procesos-y-metodos-de-diseno", "diseno-grafico-07"),
+            (8, "grafismo-de-informativos-infografia-e-interfaz", None),
+            (9, "la-continuidad", "diseno-grafico-09"),
+            (10, "equipos-y-programas-de-diseno", "diseno-grafico-10"),
+            (11, "postproduccion-digital", "diseno-grafico-11"),
+            (12, "la-imagen-corporativa", "diseno-grafico-12"),
+            (13, "legislacion-y-derechos-de-autor", "diseno-grafico-13"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Las ochenta y seis respuestas oficiales de este bloque son "
+                         "correctas.</b> Ninguna es err\u00f3nea y ninguna es impugnable. <b>Cinco "
+                         "dependen de una figura</b> \u2014una imagen de percepci\u00f3n, una cubierta de "
+                         "libro, un logotipo, un resultado de una operaci\u00f3n vectorial y un signo "
+                         "gr\u00e1fico\u2014, <b>y van declaradas una a una con la regla de su familia</b>. "
+                         "<b>Dos llevan salvedad u observaci\u00f3n</b>, y <b>una no es de dise\u00f1o "
+                         "gr\u00e1fico</b>: preguntan por una regla de composici\u00f3n que en realidad es un "
+                         "elemento, por una definici\u00f3n con dos opciones defendibles y por cu\u00e1nto "
+                         "suman los \u00e1ngulos de un tri\u00e1ngulo.",
+        aviso_portada="<p><b>Doce plazas convocadas</b> en la convocatoria 1/2025 y <b>noventa y "
+                      "seis preguntas</b> de un cuadernillo con su plantilla completa: <b>ochenta "
+                      "principales m\u00e1s diecis\u00e9is de reserva</b>. Ochenta y seis son del "
+                      "espec\u00edfico y <b>est\u00e1n todas repartidas</b>; las diez restantes son del "
+                      "bloque com\u00fan.</p>"
+                      "<p><b>El reparto es muy desigual, y eso ordena el estudio.</b> El punto de "
+                      "equipos y programas se lleva <b>veinte preguntas</b> \u2014casi una de cada "
+                      "cuatro, y nueve de ellas de un solo programa de composici\u00f3n\u2014, y el de "
+                      "historia del dise\u00f1o, el cine y la televisi\u00f3n, <b>quince</b>. En el otro "
+                      "extremo, dos puntos se llevan dos preguntas cada uno y <b>uno no se lleva "
+                      "ninguna</b>.</p>"
+                      "<p><b>El punto sin preguntas es el de grafismo informativo, infograf\u00eda e "
+                      "interfaz</b>, y su tema se escribe igual, contra el programa: <b>es el punto "
+                      "que m\u00e1s ha crecido en el oficio y el \u00fanico del anexo que habla de producto "
+                      "digital</b>. Si el siguiente examen entra por ah\u00ed, entrar\u00e1 con fuerza.</p>"
+                      "<p>Y una diferencia con las ocupaciones t\u00e9cnicas de este mismo proyecto: "
+                      "<b>doce de sus trece temas van enteros como oficio</b>. <b>El \u00fanico con "
+                      "norma detr\u00e1s es el de legislaci\u00f3n</b>, que cita literalmente el art\u00edculo "
+                      "14 del texto refundido de la Ley de Propiedad Intelectual \u2014y ah\u00ed est\u00e1 la "
+                      "distinci\u00f3n que contesta su pregunta, porque <b>las tres opciones falsas son "
+                      "verdaderas de los derechos de explotaci\u00f3n</b>.</p>",
     ),
     "tecnica-informatica": dict(
         carpeta="tecnica-informatica",

@@ -527,6 +527,51 @@ prevención, dos no tenían respuesta en el tema compartido** —la actuación a
 iluminación de los lugares de trabajo—, **y el tema se ha ampliado con dos apartados nuevos**.
 
 
+### Diseño Gráfico
+
+**86 preguntas**, repartidas entre los trece temas de su Anexo 2.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `diseno-grafico-01.md` | 1 · Óptica: la luz, el color y la imagen | 8 |
+| `diseno-grafico-02.md` | 2 · Conocimientos básicos de televisión | 4 |
+| `diseno-grafico-03.md` | 3 · Historia del diseño, el cine y la televisión | **15** |
+| `diseno-grafico-04.md` | 4 · Composición, montaje, animación y géneros | 8 |
+| `diseno-grafico-05.md` | 5 · Fundamentos del diseño y tipografía | 9 |
+| `diseno-grafico-06.md` | 6 · Diseño audiovisual y sintaxis de la imagen | 2 |
+| `diseno-grafico-07.md` | 7 · Procesos y métodos de diseño | 2 |
+| — | 8 · Grafismo informativo, infografía e interfaz | **0** |
+| `diseno-grafico-09.md` | 9 · La continuidad | 4 |
+| `diseno-grafico-10.md` | 10 · Equipos y programas de diseño | **20** |
+| `diseno-grafico-11.md` | 11 · Postproducción digital | 5 |
+| `diseno-grafico-12.md` | 12 · La imagen corporativa | 6 |
+| `diseno-grafico-13.md` | 13 · Legislación y derechos de autor | 3 |
+
+**Un solo cuadernillo**, `07_preguntas_diseno_grafico`, de **96 preguntas —80 principales más 16 de
+reserva—**. De ellas, **86 son del específico y 10 del bloque común**.
+
+**El reparto es el más desigual del proyecto en un anexo pequeño**: **dos puntos se llevan 35 de las
+86**, el 41 % del examen. El de equipos y programas se lleva **veinte** —nueve de ellas de un solo
+programa de composición— y el de historia, **quince**. En el otro extremo, tres puntos se llevan dos
+preguntas o menos y **uno no se lleva ninguna**.
+
+**El punto sin preguntas es el 8** —grafismo informativo, infografía e interfaz—. **Su tema se escribe
+igual, contra el programa**: es el quinto caso del proyecto, y **el único del anexo que habla de
+producto digital.**
+
+**Cinco preguntas dependen de una figura**: la 5, la 22, la 68, la 71 y la 87. **Son el 5,8 %**, una
+proporción baja para una ocupación gráfica y muy inferior al 26 % de Técnica de Equipos.
+
+**Ninguna respuesta oficial es errónea y ninguna es impugnable.** **Tres llevan aviso**: la **nº 9**
+llama regla de composición al espacio en blanco, que es un elemento; la **nº 32** tiene dos opciones
+defendibles; y la **nº 95** pregunta cuánto suman los ángulos interiores de un triángulo, **que no es
+materia de ningún punto del anexo**. **En las tres, la opción de la plantilla sigue siendo la mejor de
+las cuatro.**
+
+**Ninguna pregunta se ha reclasificado a mano**: las diez del bloque común las coge el banco general
+por sus palabras clave, y las ochenta y seis del específico se reparten a mano desde el principio.
+
+
 ### Técnica Informática
 
 **90 preguntas**, repartidas entre los veintitrés temas en que este proyecto desarrolla su Anexo 2.

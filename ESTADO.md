@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-03 (Técnica Informática)
+**Última actualización:** 2026-09-03 (Diseño Gráfico)
 
 ## Qué es esto
 
@@ -795,6 +795,34 @@ en Documentación y en Producción (Asistencia).
       paréntesis y la sigla en negrita con su paréntesis detrás—, dejando **unos 180 avisos casi
       todos falsos**. **Una lente que nadie corre es peor que una lente holgada** (apartado 10), así
       que se deja la holgada y el punto ciego queda escrito con lo que haría falta para cerrarlo.
+
+
+- [x] **Fase H: Diseño Gráfico, terminada el 2026-09-03.** 13 temas propios más el de prevención,
+      **86 preguntas del específico** de un cuadernillo de 96 con su plantilla completa. **12 plazas
+      en la convocatoria 1/2025.** Con ella el proyecto llega a **1.674 preguntas específicas**
+      repartidas en quince bancos. **Ninguna de las 86 respuestas oficiales nuevas es errónea**, y
+      **la cuenta de erratas de plantilla del proyecto sigue en diez.**
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) Un anexo pequeño puede concentrar el examen más que uno grande.** **Dos de sus trece
+      puntos se llevan el 41 % de las preguntas**, y **nueve de las veinte del punto grande son de un
+      solo programa de composición**. Ningún otro bloque del proyecto concentra tanto en tan poco, y
+      **eso se dice en la portada** porque cambia por completo cómo repartir el tiempo.
+      **2) Una pregunta puede no pertenecer al temario, y hay que decirlo.** La 95 pregunta cuánto
+      suman los ángulos interiores de un triángulo. **No es de ningún punto del anexo ni del bloque
+      común.** El temario **la contesta y declara que no encaja**, en vez de inventarle una relación
+      con el diseño que no existe.
+      **3) Dos opciones defendibles no son una errata.** En la pregunta 32, la a) y la d) describen
+      las dos lo que es una capa. **El temario dice cuál es mejor y por qué** —una DESCRIBE y la otra
+      sólo dice para qué sirve— **en lugar de fingir que sólo hay una lectura.**
+      **4) Sin el artículo delante, una pregunta puede parecer que tiene tres respuestas.** Las tres
+      opciones falsas de la 61 son **verdaderas de los derechos de explotación**: se venden, se
+      heredan y se extinguen. **Lo que se pide es la característica del derecho moral**, y eso sólo lo
+      resuelve leer el artículo 14.
+      **5) Un punto sin preguntas puede ser el más vivo del oficio.** El 8 —grafismo informativo,
+      infografía e interfaz— **no ha dado ni una** y es **el único del anexo que habla de producto
+      digital**. Se escribe entero, y el temario advierte que **si el siguiente examen entra por ahí,
+      entrará con fuerza.**
 
 
 ## Qué comprobación pasa por qué material

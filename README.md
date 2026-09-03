@@ -91,6 +91,7 @@ prevención de riesgos laborales**, que es un solo fichero.
 | `libro-sonido` | **Sonido** | 18 | 133 | 206 |
 | `libro-tese` | **Técnica de Equipos y Sistemas Electrónicos** | 18 | 161 | 230 |
 | `libro-tecnica-informatica` | **Técnica Informática** | 24 | 137 | 255 |
+| `libro-diseno-grafico` | **Diseño Gráfico** | 14 | 133 | 187 |
 
 **Realización Televisión es el volumen más grande del proyecto**: 363 páginas,
 veintidós temas propios más el de prevención y **229 preguntas del bloque
