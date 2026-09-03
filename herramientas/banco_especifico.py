@@ -244,8 +244,8 @@ TITULOS = {
         "18": "Técnica Informática · Tema 18 · Sistemas multimedia y codificación de "
               "ficheros audiovisuales",
         "19": "Técnica Informática · Tema 19 · Sistemas de producción digital audiovisual",
-        "20": "Técnica Informática · Tema 20 · Seguridad en tecnologías de la "
-              "información: ISO 27000 e ITIL",
+        "20": "Técnica Informática · Tema 20 · Marcos de gestión de la seguridad y "
+              "del servicio",
         "21": "Técnica Informática · Tema 21 · La seguridad en redes",
         "22": "Técnica Informática · Tema 22 · Protección de datos personales y garantía "
               "de los derechos digitales",
