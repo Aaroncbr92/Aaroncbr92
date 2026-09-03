@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 15 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 15 · respuesta: a**
 
 ```
 15.- De acuerdo con el Estatuto de los Trabajadores, entre el final de una jornada y el
@@ -19,7 +19,7 @@ d) 9 horas
 
 ---
 
-**15_preguntas_gestion · nº 72 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 72 · respuesta: b**
 
 ```
 72.- La duración máxima de la jornada ordinaria de trabajo según el art. 34 del Estatuto de los

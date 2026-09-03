@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 10 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 10 · respuesta: a**
 
 ```
 10.- Se colocan 18.000 euros al 6% anual en capitalización simple durante 3 meses. ¿Cuál es
@@ -19,7 +19,7 @@ d) 360.
 
 ---
 
-**15_preguntas_gestion · nº 48 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 48 · respuesta: a**
 
 ```
 48.- En matemáticas financieras, ¿el Valor Actual Neto (VAN) se calcula a partir de?
@@ -31,7 +31,7 @@ d) Dividir el costo inicial de la inversión por el valor presente de los flujos
 
 ---
 
-**15_preguntas_gestion · nº 82 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 82 · respuesta: b**
 
 ```
 82.- ¿Cómo calcular el descuento comercial? Siendo N: nominal, |: tipo de interés, n: tiempo
@@ -45,7 +45,7 @@ d) Dc=(Nxnx!l)-Cs
 
 ---
 
-**15_preguntas_gestion · nº 99 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 99 · respuesta: d**
 
 ```
 99.- Determine cuántos años se tiene que invertir un capital de 15.000 euros para que se

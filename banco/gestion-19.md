@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 24 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 24 · respuesta: a**
 
 ```
 24.- Marque la respuesta correcta sobre el Fondo de Maniobra de una empresa, también
@@ -21,7 +21,7 @@ rentabilidad que se espera obtener de ellos.
 
 ---
 
-**15_preguntas_gestion · nº 32 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 32 · respuesta: a**
 
 ```
 32.- ¿Cómo se denomina al indicador del resultado de explotación de una empresa, sin tener
@@ -34,7 +34,7 @@ d) Margen Bruto.
 
 ---
 
-**15_preguntas_gestion · nº 104 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 104 · respuesta: a**
 
 ```
 104.-La Rentabilidad Económica informa sobre la capacidad que poseen los activos de una
@@ -50,7 +50,7 @@ d) 25 %.
 
 ---
 
-**15_preguntas_gestion · nº 107 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 107 · respuesta: a**
 
 ```
 107.-El Fondo de Maniobra de una empresa se define como

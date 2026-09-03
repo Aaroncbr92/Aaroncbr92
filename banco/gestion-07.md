@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 7 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 7 · respuesta: a**
 
 ```
 7.- ¿Qué parte de un salario mínimo se puede embargar?
@@ -18,7 +18,7 @@ d) 15%
 
 ---
 
-**15_preguntas_gestion · nº 26 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 26 · respuesta: a**
 
 ```
 26.- Las cargas fiscales y de seguridad social a cargo de la persona trabajadora serán
@@ -31,7 +31,7 @@ d) El/la empresario/a, salvo pacto en contrario.
 
 ---
 
-**15_preguntas_gestion · nº 41 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 41 · respuesta: d**
 
 ```
 41.- Según el art 27 del Estatuto de los Trabajadores, el Gobierno fijará, el salario mínimo
@@ -44,7 +44,7 @@ d) El índice de despoblación rural
 
 ---
 
-**15_preguntas_gestion · nº 57 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 57 · respuesta: c**
 
 ```
 57.- El plazo para ejercitar los derechos de preferencia del crédito salarial es de:
@@ -56,7 +56,7 @@ d) Cinco años, transcurrido el cual prescribirán tales derechos
 
 ---
 
-**15_preguntas_gestion · nº 61 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 61 · respuesta: c**
 
 ```
 61.- El salario de una persona trabajadora en el año 2024 es de 1.800 € brutos por 14 pagas.
@@ -70,7 +70,7 @@ d) La cantidad resultante al 30 % de su salario.
 
 ---
 
-**15_preguntas_gestion · nº 66 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 66 · respuesta: c**
 
 ```
 66.- Se considerará salario:

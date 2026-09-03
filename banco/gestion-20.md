@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 3 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 3 · respuesta: c**
 
 ```
 3.- ¿Cuáles son clases de prorrata, según la Ley 37/1992, de 28 de diciembre, del Impuesto
@@ -19,7 +19,7 @@ d) General y especifica.
 
 ---
 
-**15_preguntas_gestion · nº 84 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 84 · respuesta: c**
 
 ```
 84.- ¿En cuál de los siguientes territorios de España NO se aplica el IVA?
@@ -31,7 +31,7 @@ d) Islas Baleares.
 
 ---
 
-**15_preguntas_gestion · nº 103 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 103 · respuesta: a**
 
 ```
 103.- La cuenta “Hacienda Pública, IVA soportado”

@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 37 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 37 · respuesta: a**
 
 ```
 37.- Tipo de centro de coste, según la contabilidad de costes
@@ -18,7 +18,7 @@ d) Centro de coste único.
 
 ---
 
-**15_preguntas_gestion · nº 39 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 39 · respuesta: c**
 
 ```
 39.- ¿Qué información le proporciona la contabilidad de costes a la contabilidad financiera?
@@ -30,7 +30,7 @@ d) La evolución de la competencia.
 
 ---
 
-**15_preguntas_gestion · nº 55 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 55 · respuesta: a**
 
 ```
 55.- ¿Cuáles son los tres elementos que integran el coste de producción?
@@ -42,7 +42,7 @@ d) Materia prima, mano de obra indirecta, costes indirectos de comercialización
 
 ---
 
-**15_preguntas_gestion · nº 105 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 105 · respuesta: b**
 
 ```
 105.-En contabilidad de costes, ¿para qué se utilizan los criterios de reparto?

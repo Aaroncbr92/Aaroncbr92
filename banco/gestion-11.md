@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 44 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 44 · respuesta: a**
 
 ```
 44.- CRTVE ha recibido en el ejercicio 2024 una reclamación judicial de un tercero, por la que
@@ -21,7 +21,7 @@ d) No ha de registrar operación contable alguna hasta que haya sentencia firme.
 
 ---
 
-**15_preguntas_gestion · nº 54 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 54 · respuesta: c**
 
 ```
 54.- Según el principio del devengo, señale la respuesta correcta:
@@ -35,7 +35,7 @@ prevalece el principio de prudencia.
 
 ---
 
-**15_preguntas_gestion · nº 79 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 79 · respuesta: c**
 
 ```
 79.- Según el Plan General de Contabilidad las provisiones:

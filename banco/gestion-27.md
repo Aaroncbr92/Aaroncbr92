@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 50 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 50 · respuesta: a**
 
 ```
 50.- En televisión, el equipo de producción:
@@ -19,7 +19,7 @@ d) Coordina la elaboración del guión.
 
 ---
 
-**15_preguntas_gestion · nº 71 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 71 · respuesta: d**
 
 ```
 71.- ¿Cuál de las siguientes características es típica de un servicio VoD?
@@ -31,7 +31,7 @@ d) Acceso a contenido multimedia bajo demanda en cualquier momento.
 
 ---
 
-**15_preguntas_gestion · nº 92 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 92 · respuesta: b**
 
 ```
 92.- ¿En qué fase del proceso de producción en televisión se elabora el presupuesto?

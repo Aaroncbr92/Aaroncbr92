@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 9 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 9 · respuesta: c**
 
 ```
 9.- ¿Cuál de las siguientes opciones debe computarse en la base de cotización del recibo
@@ -23,7 +23,7 @@ d) Las prestaciones de la Seguridad Social.
 
 ---
 
-**15_preguntas_gestion · nº 11 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 11 · respuesta: d**
 
 ```
 11.- ¿Cuál de las siguientes opciones NO es una percepción salarial?
@@ -35,7 +35,7 @@ d) Plus distancia.
 
 ---
 
-**15_preguntas_gestion · nº 17 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 17 · respuesta: b**
 
 ```
 17.- Las empresas entregarán a sus trabajadores/as certificados de retenciones.
@@ -47,7 +47,7 @@ d) Cuatrimestralmente.
 
 ---
 
-**15_preguntas_gestion · nº 34 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 34 · respuesta: c**
 
 ```
 34.- ¿Cuál de los siguientes elementos no aparece en la parte de devengos de una nómina?
@@ -59,7 +59,7 @@ d) Complemento de antigiiedad.
 
 ---
 
-**15_preguntas_gestion · nº 35 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 35 · respuesta: b**
 
 ```
 35.- ¿Cuál de los siguientes complementos de la nómina es NO salarial?
@@ -71,7 +71,7 @@ d) Paga extraordinaria.
 
 ---
 
-**15_preguntas_gestion · nº 42 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 42 · respuesta: d**
 
 ```
 42.- ¿Qué porcentaje se reduce por desempleo en un contrato indefinido?
@@ -83,7 +83,7 @@ d) 1,55%.
 
 ---
 
-**15_preguntas_gestion · nº 74 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 74 · respuesta: a**
 
 ```
 74.- ¿Existe un plazo específico para firmar el finiquito?

@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 83 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 83 · respuesta: c**
 
 ```
 83.- ¿En qué plazo prescriben las faltas muy graves cometidas por las personas trabajadoras?.

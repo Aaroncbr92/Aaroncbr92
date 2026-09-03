@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 8 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 8 · respuesta: b**
 
 ```
 8.- Características de un buen liderazgo, en el entorno de la empresa
@@ -20,7 +20,7 @@ para la entrega.
 
 ---
 
-**15_preguntas_gestion · nº 18 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 18 · respuesta: c**
 
 ```
 18.- Dentro de la estructura orgánica, para Mintzberg la tecnocracia:
@@ -32,7 +32,7 @@ d) Está formada por analistas que se sitúan dentro del núcleo de operaciones.
 
 ---
 
-**15_preguntas_gestion · nº 33 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 33 · respuesta: a**
 
 ```
 33.- Según Mintzberg, las cinco partes de la organización son las siguientes:
@@ -45,7 +45,7 @@ administración.
 
 ---
 
-**15_preguntas_gestion · nº 56 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 56 · respuesta: a**
 
 ```
 56.- Según el modelo de motivación de Herzberg, la adecuación del entorno físico del trabajo
@@ -58,7 +58,7 @@ d) Circunstancial.
 
 ---
 
-**15_preguntas_gestion · nº 69 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 69 · respuesta: b**
 
 ```
 69.- Según la escala jerárquica de la pirámide de Maslow...
@@ -72,7 +72,7 @@ d) La necesidad de salud se situaría en un nivel más elevado que la necesidad 
 
 ---
 
-**15_preguntas_gestion · nº 91 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 91 · respuesta: b**
 
 ```
 91.- Dentro de la teoría sobre la motivación de McClelland:

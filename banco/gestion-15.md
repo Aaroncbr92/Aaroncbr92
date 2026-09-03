@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 1 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 1 · respuesta: d**
 
 ```
 1.- ¿Qué es una amortización?

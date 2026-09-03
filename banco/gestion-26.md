@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 63 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 63 · respuesta: a**
 
 ```
 63.- El modelo 360% es un método de:
@@ -18,7 +18,7 @@ d) Retribución de personal.
 
 ---
 
-**15_preguntas_gestion · nº 67 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 67 · respuesta: a**
 
 ```
 67.- Para evaluar el desempeño laboral NO es correcto utilizar:

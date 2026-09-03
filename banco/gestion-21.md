@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 29 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 29 · respuesta: c**
 
 ```
 29.- ¿Cuál de las siguientes NO es una función del control de gestión?

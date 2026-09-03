@@ -89,7 +89,12 @@ def cuadernillos(ocupacion):
         base = f[:-4]
         # la plantilla es el fichero siguiente por número: 77 -> 79 aquí no vale,
         # así que se busca por el sufijo del nombre, que es el que las empareja
-        cola = base.split("_preguntas_", 1)[1]
+        # y la cola se calcula **sin el sufijo `.ocr`**: la plantilla se llama
+        # `16_plantilla_de_respuestas_gestion` y el cuadernillo leído por OCR,
+        # `15_preguntas_gestion.ocr`. Sin quitarlo no casaban, y el banco entero
+        # de Gestión salía con «sin plantilla» en las 81 preguntas —**sin dar
+        # ningún error**, que es como se pierde un examen completo—
+        cola = re.sub(r"\.ocr$", "", base).split("_preguntas_", 1)[1]
         plant = [g for g in sorted(os.listdir(DIR))
                  if g.endswith(".txt") and "respuestas" in g
                  and g.split("respuestas_", 1)[-1][:-4] == cola]

@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 25 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 25 · respuesta: b**
 
 ```
 25.- ¿En cuál de los siguientes supuestos, la persona trabajadora que resultase perjudicada
@@ -21,7 +21,7 @@ d) Horario y distribución del tiempo de trabajo.
 
 ---
 
-**15_preguntas_gestion · nº 64 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 64 · respuesta: a**
 
 ```
 64.- Tiene consideración de modificaciones sustanciales de las condiciones de trabajo, las
@@ -34,7 +34,7 @@ d) La extinción del contrato
 
 ---
 
-**15_preguntas_gestion · nº 75 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 75 · respuesta: a**
 
 ```
 75.- De acuerdo al art. 39.2 del Estatuto de los Trabajadores, la movilidad funcional para la
@@ -50,7 +50,7 @@ tiempo imprescindible para su atención
 
 ---
 
-**15_preguntas_gestion · nº 93 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 93 · respuesta: d**
 
 ```
 93.- La decisión de modificación sustancial de condiciones de trabajo de carácter individual

@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 12 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 12 · respuesta: d**
 
 ```
 12.- Los rendimientos de las acciones de una empresa son del 10 % en el primer año, del 20 %
@@ -19,7 +19,7 @@ d) Varianza 3,25 % y desviación típica 18%.
 
 ---
 
-**15_preguntas_gestion · nº 38 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 38 · respuesta: a**
 
 ```
 38.- ¿Cuál de las siguientes afirmaciones describe mejor la mediana en estadística?

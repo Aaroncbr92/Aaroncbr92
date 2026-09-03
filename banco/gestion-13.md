@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 19 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 19 · respuesta: c**
 
 ```
 19.- ¿En qué parte del balance deberán figurar las existencias?
@@ -18,7 +18,7 @@ d) En el activo no corriente.
 
 ---
 
-**15_preguntas_gestion · nº 80 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 80 · respuesta: b**
 
 ```
 80.- Las fuentes de financiación de una empresa (recursos propios y ajenos) figurarán en:
@@ -30,7 +30,7 @@ d) No figuran en el balance.
 
 ---
 
-**15_preguntas_gestion · nº 95 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 95 · respuesta: a**
 
 ```
 95.- La ordenación de las masas patrimoniales de activo, se establece en función de.
@@ -42,7 +42,7 @@ d) A criterio del personal contable.
 
 ---
 
-**15_preguntas_gestion · nº 106 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 106 · respuesta: c**
 
 ```
 106.- ¿Cómo se ordenan las masas patrimoniales en el balance de situación?

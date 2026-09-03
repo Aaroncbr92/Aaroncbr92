@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 5 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 5 · respuesta: d**
 
 ```
 5.- Real Decreto-ley 32/2021, de 28 de diciembre, de medidas urgentes para la reforma
@@ -23,7 +23,7 @@ plan o programa formativo, con un mínimo de tres meses y un máximo de dos año
 
 ---
 
-**15_preguntas_gestion · nº 14 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 14 · respuesta: d**
 
 ```
 14.- En relación a la extinción del contrato de trabajo por las diversas causas enumeradas en
@@ -41,7 +41,7 @@ indemnización.
 
 ---
 
-**15_preguntas_gestion · nº 22 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 22 · respuesta: d**
 
 ```
 22.- El contrato de trabajo de duración determinada...
@@ -55,7 +55,7 @@ trabajadora.
 
 ---
 
-**15_preguntas_gestion · nº 23 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 23 · respuesta: b**
 
 ```
 23.- ¿Cuál es la duración máxima de un contrato eventual por circunstancias de la producción
@@ -68,7 +68,7 @@ d) No hay límite.
 
 ---
 
-**15_preguntas_gestion · nº 27 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 27 · respuesta: d**
 
 ```
 27.- Se considera despido disciplinario (marcar la respuesta FALSA).
@@ -80,7 +80,7 @@ d) Por falta de adaptación de la persona trabajadora.
 
 ---
 
-**15_preguntas_gestion · nº 30 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 30 · respuesta: d**
 
 ```
 30.- Los pactos de horas complementarias de los contratos a tiempo parcial:
@@ -97,7 +97,7 @@ contrato a tiempo parcial.
 
 ---
 
-**15_preguntas_gestion · nº 31 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 31 · respuesta: b**
 
 ```
 31.- El periodo de prueba de una persona que aprueba con plaza en esta convocatoria, en la
@@ -112,7 +112,7 @@ d) 6 meses.
 
 ---
 
-**15_preguntas_gestion · nº 65 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 65 · respuesta: a**
 
 ```
 65.- Una empresa que quiere efectuar un despido debe consultar como normativa básica:
@@ -124,7 +124,7 @@ d) El Convenio Colectivo correspondiente.
 
 ---
 
-**15_preguntas_gestion · nº 76 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 76 · respuesta: b**
 
 ```
 76.- La sustitución de una persona trabajadora que ha solicitado permiso por lactancia se

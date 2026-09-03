@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 49 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 49 · respuesta: a**
 
 ```
 49.- ¿Cuáles son los libros más importantes en contabilidad?
@@ -18,7 +18,7 @@ d) El libro de caja y el libro de entradas y salidas de almacén.
 
 ---
 
-**15_preguntas_gestion · nº 101 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 101 · respuesta: c**
 
 ```
 101.-Seleccione la opción FALSA. ¿Qué documentos integran las cuentas anuales?

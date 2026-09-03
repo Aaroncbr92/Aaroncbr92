@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 6 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 6 · respuesta: c**
 
 ```
 6.- Según lo recogido en el artículo 58 de la Ley Orgánica 7/2021, de 26 de mayo, de
@@ -31,7 +31,7 @@ fallecida cuando fuera exigible legalmente.
 
 ---
 
-**15_preguntas_gestion · nº 40 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 40 · respuesta: b**
 
 ```
 40.- El tratamiento de los datos personales de una persona menor de edad únicamente podrá
@@ -44,7 +44,7 @@ d) Mayor de 15 años.
 
 ---
 
-**15_preguntas_gestion · nº 59 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 59 · respuesta: a**
 
 ```
 59.- De acuerdo al art. 22. De la ley de Protección de Datos Personales y garantía de los
@@ -58,7 +58,7 @@ d) De cinco años
 
 ---
 
-**15_preguntas_gestion · nº 89 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 89 · respuesta: c**
 
 ```
 89.- Las infracciones graves tipificadas en la Ley Orgánica 7/2021, de 26 de mayo, de
@@ -73,7 +73,7 @@ d) A los tres años.
 
 ---
 
-**15_preguntas_gestion · nº 98 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 98 · respuesta: c**
 
 ```
 98.- La Agencia Española de Protección de Datos se relaciona con el gobierno:
@@ -85,7 +85,7 @@ d) A través del Defensor del Pueblo.
 
 ---
 
-**15_preguntas_gestion · nº 100 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 100 · respuesta: b**
 
 ```
 100.- ¿Qué quiere decir RGPD?

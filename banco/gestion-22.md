@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 16 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 16 · respuesta: d**
 
 ```
 16.- La base reguladora de las pensiones de incapacidad permanente derivada de

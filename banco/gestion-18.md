@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 13 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 13 · respuesta: c**
 
 ```
 13.- ¿Cuál de los siguientes es un instrumento de pago de la empresa a sus proveedores?
@@ -18,7 +18,7 @@ d) Leasing.
 
 ---
 
-**15_preguntas_gestion · nº 46 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 46 · respuesta: a**
 
 ```
 46.- ¿Cuál es la función principal de la tesorería en la empresa?

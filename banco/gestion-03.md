@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 87 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 87 · respuesta: b**
 
 ```
 87.- El convenio que sucede a uno anterior deroga:
@@ -18,7 +18,7 @@ d) Totalmente a este último
 
 ---
 
-**15_preguntas_gestion · nº 102 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 102 · respuesta: c**
 
 ```
 102.-Según el artículo 90 del Estatuto de los Trabajadores, los convenios colectivos entrarán

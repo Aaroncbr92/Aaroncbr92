@@ -6,7 +6,7 @@ no se pudo emparejar.
 
 ---
 
-**15_preguntas_gestion · nº 73 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 73 · respuesta: d**
 
 ```
 73.- Al cierre de ejercicio la empresa tiene en tesorería una cuenta corriente en libras que
@@ -20,7 +20,7 @@ d) Como diferencias de cambio en la cuenta de pérdidas y ganancias.
 
 ---
 
-**15_preguntas_gestion · nº 97 · respuesta: sin plantilla**
+**15_preguntas_gestion · nº 97 · respuesta: d**
 
 ```
 97.- La cuenta “Gastos anticipados”
