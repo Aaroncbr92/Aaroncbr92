@@ -1158,14 +1158,17 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   Equipos y Sistemas Electrónicos y Realización (Asistencia) suman entre 6 y 7 puestos más cada
   una—, y por eso queda anotado.
 
-- **2026-09-03 · Varias plantillas de respuestas parecían ilegibles y no lo eran.** Las
-  transcripciones `.txt` guardadas de las plantillas de Realización (Asistencia), Sonido e
-  Información gráfica **traen la columna de números y no la de letras**. Leído así, parecía el mismo
-  defecto de fuente incrustada que `plantilla_ocr.py` arregló para Gestión, Gestión-Abogado/A e
-  Iluminación —y esa herramienta, en efecto, devuelve cero para ellas—. **Pero el PDF sí trae las
-  letras**: una extracción hecha hoy da las **120, 96 y 108** respuestas completas.
-  El defecto está en la transcripción guardada, no en el documento ni en la herramienta. **No afecta
-  a las cinco ocupaciones preparadas**, cuyos bancos se armaron contra los PDF; hay que rehacer esas
-  transcripciones antes de montar el banco de cualquiera de las nuevas. Y deja una regla: **una
-  transcripción vieja no es la fuente**; cuando algo parece ilegible, se vuelve al PDF antes de
-  concluir nada.
+- **2026-09-03 · Una alarma propia que no era tal, y por qué se anota igual.** Contando las
+  preguntas disponibles de las ocupaciones candidatas, **varias plantillas de respuestas parecían
+  ilegibles**: sus transcripciones `.txt` enseñan la columna de números y ninguna letra, y
+  `plantilla_ocr.py` devuelve cero para ellas. Se anotó como defecto de la transcripción.
+  **Comprobado, no lo era.** La plantilla imprime **una columna de números y debajo la de letras**,
+  así que en la transcripción las letras van detrás, no al lado; `banco.py` ya lo sabe y empareja
+  cada racha de números con la racha de letras que la sigue. Lee las **120** respuestas de cada
+  llamamiento de Realización (Asistencia), y **coinciden una a una con las del PDF**. Y que
+  `plantilla_ocr.py` dé cero es lo correcto: esa herramienta es para los PDF **sin tabla de
+  caracteres**, y éstos la tienen.
+  **Las 38 plantillas del proyecto se leen enteras hoy**, comprobadas una por una. Queda escrito
+  porque es el apartado 5 del manual otra vez —**el que detecta se equivoca**— y porque la forma de
+  equivocarse fue la de siempre: **mirar el fichero con `head` en vez de pasarle la herramienta que
+  lo lee**.

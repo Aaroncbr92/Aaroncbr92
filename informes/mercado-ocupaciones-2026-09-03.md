@@ -224,12 +224,26 @@ familia audiovisual se escribe una vez y se vende cinco veces**.
 - Preguntas con respuesta oficial: contadas sobre los PDF de plantilla de
   `convocatoria/examenes/`.
 
-## Un apunte de herramienta, encontrado por el camino
+## Un apunte de herramienta, y una alarma propia que no era tal
 
-Las transcripciones `.txt` de varias plantillas de respuestas del repositorio
-**traen la columna de números y no la de letras**: quien las lea creerá que la
-plantilla no se puede leer. **No es cierto**: el PDF sí las trae, y una
-extracción hecha hoy con `pymupdf` devuelve las 120, 96 o 108 respuestas
-completas. Es un defecto de la transcripción guardada, no del documento, y
-conviene rehacerla antes de montar el banco de cualquiera de estas ocupaciones.
-No afecta a las cinco ya preparadas, cuyos bancos se armaron contra los PDF.
+Al contar las preguntas disponibles pareció que **varias plantillas de respuestas
+eran ilegibles**: abiertas sus transcripciones `.txt`, se ve la columna de
+números y ninguna letra. Y `herramientas/plantilla_ocr.py`, que es la que rescató
+las tres plantillas con la fuente incrustada sin tabla de caracteres, **devuelve
+cero** para ellas.
+
+**Comprobado antes de anotarlo como defecto, no lo es.** La plantilla imprime por
+bloques **una columna de números y debajo la columna de letras**, así que en la
+transcripción las letras van después, no al lado: mirando las primeras líneas no
+aparecen. `herramientas/banco.py` ya lo sabe —«se recorre la secuencia y se
+empareja cada racha de números con la racha de letras que va detrás, que es como
+está impresa»— y lee las **120** respuestas de cada llamamiento de Realización
+(Asistencia), las **96** de Producción y las **108** de Información gráfica. Se
+verificaron una a una contra el PDF: **coinciden las 120**.
+
+Que `plantilla_ocr.py` dé cero tampoco es un fallo: **esa herramienta es para los
+PDF cuya fuente no tiene tabla de caracteres**, y éstos sí la tienen. Devolver
+cero es lo correcto.
+
+Queda como aviso para quien venga: **las 38 plantillas del proyecto se leen
+enteras hoy**, comprobado una por una. Lo que engaña es mirarlas con `head`.
