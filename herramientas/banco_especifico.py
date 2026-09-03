@@ -173,6 +173,33 @@ def main(ocupacion, titulos):
 # Los títulos con los que se encabeza cada fichero del banco. Uno por ocupación,
 # porque el reparto es distinto y los temas no se llaman igual.
 TITULOS = {
+ "realizacion": {
+    "01": "Realización (Asistencia) · Tema 1 · Géneros y formatos televisivos",
+    "02": "Realización (Asistencia) · Tema 2 · El guion",
+    "03": "Realización (Asistencia) · Tema 3 · Organización general de la producción",
+    "04": "Realización (Asistencia) · Tema 4 · Decorados: interpretación de planos "
+          "y perspectivas",
+    "05": "Realización (Asistencia) · Tema 5 · La tecnología en el ámbito de la "
+          "realización",
+    "06": "Realización (Asistencia) · Tema 6 · Lenguaje técnico y narrativo",
+    "07": "Realización (Asistencia) · Tema 7 · La cámara, accesorios y posibilidades",
+    "08": "Realización (Asistencia) · Tema 8 · La iluminación",
+    "09": "Realización (Asistencia) · Tema 9 · El sonido",
+    "10": "Realización (Asistencia) · Tema 10 · El mezclador de vídeo",
+    "11": "Realización (Asistencia) · Tema 11 · El estudio: controles y plató",
+    "12": "Realización (Asistencia) · Tema 12 · Las unidades móviles",
+    "13": "Realización (Asistencia) · Tema 13 · La asistencia en grabación",
+    "14": "Realización (Asistencia) · Tema 14 · La retransmisión",
+    "15": "Realización (Asistencia) · Tema 15 · La emisión: pantallas, servidores "
+          "y grafismo",
+    "16": "Realización (Asistencia) · Tema 16 · Realidad aumentada, decorados "
+          "virtuales y producción online",
+    "17": "Realización (Asistencia) · Tema 17 · La asistencia en plató. Regiduría",
+    "18": "Realización (Asistencia) · Tema 18 · Canales online",
+    "19": "Realización (Asistencia) · Tema 19 · La puesta en escena",
+    "20": "Realización (Asistencia) · Tema 20 · Postproducción",
+    "21": "Realización (Asistencia) · Tema 21 · Prevención de riesgos laborales",
+ },
  "produccion": {
     "01": "Producción (Asistencia) · Tema 1 · La producción: sistemas y métodos. "
           "Organización de la producción",

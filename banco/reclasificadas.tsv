@@ -175,3 +175,14 @@
 15_preguntas_gestion	78	g8	Daños derivados del trabajo: artículo 4.3 de la Ley 31/1995
 15_preguntas_gestion	45	g1	Tutela judicial del derecho al honor: artículo 18.1 CE, desarrollado por la LO 1/1982, que ningún temario del proyecto cita
 15_preguntas_gestion	70	g1	Carácter irrenunciable, inalienable e imprescriptible del derecho al honor: artículo 18.1 CE y LO 1/1982
+
+# ── del específico de Realización (Asistencia): son del general y no las coge ─
+# Cinco preguntas de los dos llamamientos que ninguna palabra clave reconoce y
+# que son del bloque común: tres del convenio, una del plan de igualdad y una de
+# la Ley 13/2022. Sin estas filas contaban como pendientes del específico, que
+# es trabajo que no existe.
+60_preguntas_realizacion_asist	83	g5	Cómputo de las horas que exceden en comisión de servicio: III Convenio
+60_preguntas_realizacion_asist	84	g6	La igualdad de género según Naciones Unidas: II Plan de Igualdad
+62_preguntas_realizacion_asist_2_llamamiento	93	g5	Qué se considera falta grave: régimen disciplinario del III Convenio
+62_preguntas_realizacion_asist_2_llamamiento	96	g5	Jornada máxima con complemento de jornada de rodaje: III Convenio
+62_preguntas_realizacion_asist_2_llamamiento	97	g7	Franjas de protección reforzada del público infantil: Ley 13/2022
