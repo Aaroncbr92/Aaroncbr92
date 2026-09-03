@@ -4,17 +4,17 @@
 
 |  |  |
 | --- | --- |
-| **Bloque** | Temario específico · Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 8 · Realización 5.1 · Información Gráfica 7 · Edición y Montaje 7 · Montaje de Equipos 7 · Documentación 7 · Información y Contenidos 11 · Gestión Administrativa 13 · Gestión 31 |
-| **Sirve para** | **Producción (Asistencia)** · **Producción** · **Realización (Asistencia)** · **Realización** · **Información Gráfica** · **Edición y Montaje** · **Montaje de Equipos** · **Gestión Administrativa** · **Gestión** · **Documentación** · **Información y Contenidos** |
-| **Fuente** | **Diez rúbricas** sobre **dieciséis fuentes**: Ley 31/1995, RD 487/1997, RD 488/1997, RD 486/1997, RD 1215/1997, RD 286/2006, RD 393/2007, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015, las normas UNE-EN de protección contra caídas —**no consultadas**— y documentación técnica del INSST |
+| **Bloque** | Temario específico · Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 8 · Realización 5.1 · Información Gráfica 7 · Edición y Montaje 7 · Montaje de Equipos 7 · Documentación 7 · Información y Contenidos 11 · Gestión Administrativa 13 · Gestión 31 · **Sonido 17** · **Técnica de Equipos y Sistemas Electrónicos 21** |
+| **Sirve para** | **Producción (Asistencia)** · **Producción** · **Realización (Asistencia)** · **Realización** · **Información Gráfica** · **Edición y Montaje** · **Montaje de Equipos** · **Gestión Administrativa** · **Gestión** · **Documentación** · **Información y Contenidos** · **Sonido** · **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Doce rúbricas** sobre **dieciséis fuentes**: Ley 31/1995, RD 487/1997, RD 488/1997, RD 486/1997, RD 1215/1997, RD 286/2006, RD 393/2007, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015, las normas UNE-EN de protección contra caídas —**no consultadas**— y documentación técnica del INSST |
 | **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-1997-8669` · `BOE-A-1997-8670` · `BOE-A-1997-8671` · `BOE-A-1997-17824` · `BOE-A-2001-11881` · `BOE-A-2002-18099` · `BOE-A-2004-21216` · `BOE-A-2006-4414` · `BOE-A-2007-6237` · `BOE-A-2015-11724` · `BOE-A-2017-6606`. La **documentación técnica del INSST** no tiene identificador del BOE: se cita por su título en cada epígrafe |
 | **Redacción que se estudia** | Las **normas**, en su redacción vigente el **21/12/2022**. La **documentación técnica del INSST**, en su **edición publicada**, indicada caso por caso |
-| **Extensión** | **18.550 palabras** |
+| **Extensión** | **21.237 palabras** |
 
 <!-- /portada -->
 
-> **Enunciado de la convocatoria** (anexo 2). **Las once ocupaciones tipo que preparamos lo llevan,
-> y no lo llevan igual.** Hay **cuatro redacciones distintas**, y este tema las cubre todas.
+> **Enunciado de la convocatoria** (anexo 2). **Las trece ocupaciones tipo que preparamos lo llevan,
+> y no lo llevan igual.** Hay **seis redacciones distintas**, y este tema las cubre todas.
 >
 > **La redacción común, palabra por palabra en seis de ellas** —**Producción (Asistencia) 18**,
 > **Producción 17**, **Documentación 7**, **Información y Contenidos 11**, **Gestión Administrativa
@@ -48,7 +48,26 @@
 > equipos auxiliares de trabajo (carretillas elevadoras) y su prevención. Seguridad en Trabajos en
 > altura […]
 >
-> **Por eso este tema lleva diez apartados y no cinco**, y cada uno dice de qué ocupaciones es. Nadie
+> **La quinta es la de Sonido 17**, que sustituye las pantallas por el ruido y añade los contactos
+> eléctricos:
+>
+> Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
+> **Exposición al ruido: riesgos asociados y medidas de prevención.** Trastornos musculoesqueléticos
+> en la extremidad superior: factores de riesgo y su prevención. **Seguridad en Trabajos en altura:
+> riesgos y medidas preventivas. Contactos eléctricos y su prevención.** Riesgos asociados al uso de
+> PVD y medidas preventivas. Incendios y medidas preventivas. Accidente in itinere o in misión y
+> medidas preventivas.
+>
+> **Y la sexta es la de Técnica de Equipos y Sistemas Electrónicos 21**, la única que **no lleva los
+> trastornos musculoesqueléticos**:
+>
+> Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
+> **Riesgos Eléctrico y medidas preventivas. Manipulación manual de cargas: riesgos asociados y su
+> prevención. Seguridad en Trabajos en altura: riesgos y medidas preventivas.** Riesgos asociados al
+> uso de PVD y medidas preventivas. Incendios y medidas preventivas. Accidente in itinere o in misión
+> y medidas preventivas.
+>
+> **Por eso este tema lleva doce apartados y no cinco**, y cada uno dice de qué ocupaciones es. Nadie
 > tiene que estudiarlos todos: el índice y el epígrafe de cada rúbrica lo señalan.
 
 <!-- indice -->
@@ -125,6 +144,10 @@
   - [10.2. El accidente in itinere: qué exige la jurisprudencia](#102-el-accidente-in-itinere-qué-exige-la-jurisprudencia)
   - [10.3. El accidente en misión](#103-el-accidente-en-misión)
   - [10.4. Las medidas preventivas](#104-las-medidas-preventivas)
+- [11. La actuación ante un accidente o una emergencia: proteger, avisar, socorrer](#11-la-actuación-ante-un-accidente-o-una-emergencia-proteger-avisar-socorrer)
+- [12. La iluminación de los lugares de trabajo](#12-la-iluminación-de-los-lugares-de-trabajo)
+  - [12.1. Los niveles mínimos del anexo IV](#121-los-niveles-mínimos-del-anexo-iv)
+  - [12.2. Las condiciones de reparto y las que prohíbe](#122-las-condiciones-de-reparto-y-las-que-prohíbe)
 - [Trazabilidad](#trazabilidad)
 
 <!-- /indice -->
@@ -140,22 +163,31 @@ distintos.
 
 | Rúbrica | Ocupaciones que la llevan |
 |---|---|
-| **1.** Derechos y obligaciones | **Las once** |
+| **1.** Derechos y obligaciones | **Las trece** |
 | **2.** Pantallas de visualización | Todas menos Información Gráfica y Montaje de Equipos |
-| **3.** Trastornos musculoesqueléticos | **Las once** |
-| **4.** Manipulación manual de cargas | **Información Gráfica** y **Montaje de Equipos** |
-| **5.** Exposición a altos niveles de sonido | **Realización (Asistencia)** y **Realización** |
-| **6.** Seguridad en trabajos en altura | **Información Gráfica** y **Montaje de Equipos** |
+| **3.** Trastornos musculoesqueléticos | Todas menos **Técnica de Equipos y Sistemas Electrónicos** |
+| **4.** Manipulación manual de cargas | **Información Gráfica**, **Montaje de Equipos** y **Técnica de Equipos y Sistemas Electrónicos** |
+| **5.** Exposición a altos niveles de sonido | **Realización (Asistencia)**, **Realización** y **Sonido** |
+| **6.** Seguridad en trabajos en altura | **Información Gráfica**, **Montaje de Equipos**, **Sonido** y **Técnica de Equipos y Sistemas Electrónicos** |
 | **7.** Medios auxiliares: plataformas y carretillas | **Información Gráfica** y **Montaje de Equipos** |
 | **8.** Espacios confinados | **Sólo Montaje de Equipos** |
-| **9.** Incendios | **Las once** |
-| **10.** Accidente in itinere o in misión | **Las once** |
+| **9.** Incendios | **Las trece** |
+| **10.** Accidente in itinere o in misión | **Las trece** |
+| **11.** Actuación ante un accidente o una emergencia | **Sonido** y **Técnica de Equipos y Sistemas Electrónicos** |
+| **12.** Iluminación de los lugares de trabajo | **Ninguna la lleva con nombre propio**: se incorpora porque el examen la ha preguntado |
+
+**Y el riesgo eléctrico, que las dos ocupaciones técnicas nuevas traen con rúbrica propia** —«Contactos
+eléctricos y su prevención» en Sonido y «Riesgos Eléctrico y medidas preventivas» en Técnica de
+Equipos—, **ya estaba desarrollado en el epígrafe 9.8**, donde entró como origen de incendios. **No se
+duplica: se señala desde aquí.**
 
 Esa frontera no es una interpretación cómoda: **es la que explica el reparto de las preguntas
-reales**. De las 92 preguntas de prevención de los cuadernillos de 2024, **52 son de la Ley
-31/1995** —y las contesta el tema 8— y **40 son de este tema**: pantallas de visualización,
-trastornos musculoesqueléticos, incendios y accidente in itinere o in misión. Quien estudie
-solo la ley deja fuera casi la mitad de lo que cae.
+reales**. De las preguntas de prevención de los cuadernillos de 2024, **la mayoría son de la Ley
+31/1995** —y las contesta el tema 8 del general, con sus sesenta y siete— y **cuarenta y siete son de
+este tema**: pantallas de visualización, trastornos musculoesqueléticos, incendios, accidente in
+itinere o in misión y, desde los dos cuadernillos técnicos nuevos, trabajos en altura, actuación ante
+emergencias e iluminación de los lugares de trabajo. Quien estudie solo la ley deja fuera una parte
+grande de lo que cae.
 
 **Dónde no hay norma, hay fuente.** Dos de las rúbricas —los trastornos musculoesqueléticos y
 buena parte de las medidas preventivas frente a incendios y accidentes de tráfico— **no tienen
@@ -176,6 +208,8 @@ Las fuentes de cada rúbrica, todas leídas en el original:
 | **8. Espacios confinados** | **Ley 31/1995** y documentación técnica del **INSST**: no hay real decreto propio, y se dice |
 | **9. Incendios** | **Ley 31/1995, art. 20**; **Real Decreto (RD) 486/1997** (`BOE-A-1997-8669`), anexo I, apartados 10 a 12; **RD 513/2017** (`BOE-A-2017-6606`); **NTP 536** del INSST; **RD 2267/2004** (`BOE-A-2004-21216`); **RD 614/2001** (`BOE-A-2001-11881`) y **RD 842/2002** (`BOE-A-2002-18099`) para el riesgo eléctrico |
 | **10. Accidente in itinere o in misión** | **Art. 156 del texto refundido de la Ley General de la Seguridad Social** (`BOE-A-2015-11724`); **NTP 1090 y 1091** del INSST; documento del grupo de trabajo de **Seguridad Vial Laboral de la CNSST** |
+| **11. Actuación ante un accidente o una emergencia** | **Ley 31/1995, art. 20**, para el deber; **la secuencia «proteger, avisar, socorrer» no está en ninguna norma** y se presenta como conducta de uso universal en primeros auxilios, **sin atribuirla a un artículo** |
+| **12. Iluminación de los lugares de trabajo** | **Real Decreto 486/1997** (`BOE-A-1997-8669`), **artículo 8** y **anexo IV**, citados literalmente |
 
 **Y un aviso de calibración**, porque cambia dónde apretar. Las preguntas de este tema **no se
 reparten por igual**: en el examen de **Producción (Asistencia)** la prevención es el **8,3 %**
@@ -785,9 +819,10 @@ diseño para evitar problemas musculoesqueléticos**.
 
 ## 4. Manipulación manual de cargas: riesgos asociados y su prevención
 
-**Esta rúbrica sólo la llevan dos ocupaciones**: el punto 7 de **Información Gráfica y Captación de
-Imagen y Sonido** y el punto 7 de **Montaje de Equipos Audiovisuales**. Son las dos que cargan con el
-material: trípodes, pedestales, maletas de óptica, cajas de cable y bafles.
+**Esta rúbrica la llevan tres ocupaciones**: el punto 7 de **Información Gráfica y Captación de
+Imagen y Sonido**, el punto 7 de **Montaje de Equipos Audiovisuales** y el punto 21 de **Técnica de
+Equipos y Sistemas Electrónicos**. Son las que cargan con el material: trípodes, pedestales, maletas
+de óptica, cajas de cable, bafles y equipos de bastidor.
 
 ### 4.1. Qué es una carga, según la norma
 
@@ -884,11 +919,10 @@ Trabajo**, no en la norma, y son un criterio de evaluación, no un límite legal
 
 ## 5. Exposición a altos niveles de sonido y su prevención
 
-> **Esta rúbrica sólo está en el temario de Realización (Asistencia).** Los enunciados de
-> Producción (Asistencia), Documentación, Información y Contenidos, Gestión Administrativa y
-> Gestión enumeran las mismas cinco materias **menos ésta**. Quien estudie con este libro para
-> cualquiera de esas cinco ocupaciones **puede saltarse este apartado 4**; quien lo haga para
-> Realización (Asistencia), no.
+> **Esta rúbrica está en tres temarios**: el punto 8 de **Realización (Asistencia)**, el punto 5.1 de
+> **Realización** y el punto 17 de **Sonido**, este último con el nombre de «Exposición al ruido».
+> Los enunciados de las demás ocupaciones **no la llevan**, y quien estudie con este libro para
+> cualquiera de ellas **puede saltarse este apartado**.
 
 La norma que la desarrolla es el **Real Decreto 286/2006, de 10 de marzo, sobre la protección de la
 salud y la seguridad de los trabajadores contra los riesgos relacionados con la exposición al
@@ -1095,8 +1129,9 @@ Y dos rasgos propios de esta ocupación que la norma contempla expresamente:
 
 ## 6. Seguridad en trabajos en altura: riesgos y medidas preventivas
 
-**Esta rúbrica también es de las dos ocupaciones que montan**: el punto 7 de **Información Gráfica** y
-el punto 7 de **Montaje de Equipos Audiovisuales**. La norma es el **Real Decreto 1215/1997, de 18 de
+**Esta rúbrica la llevan cuatro ocupaciones**: el punto 7 de **Información Gráfica**, el punto 7 de
+**Montaje de Equipos Audiovisuales**, el punto 17 de **Sonido** y el punto 21 de **Técnica de Equipos
+y Sistemas Electrónicos**. La norma es el **Real Decreto 1215/1997, de 18 de
 julio, por el que se establecen las disposiciones mínimas de seguridad y salud para la utilización por
 los trabajadores de los equipos de trabajo**, cuya parte de altura vino del **Real Decreto 2177/2004**.
 
@@ -1821,6 +1856,141 @@ son «ninguna, porque no es accidente laboral» ni «no comunicarlo al empleador
 rutas de acceso al lugar de trabajo** —itinerarios seguros, información sobre el estado de la
 circulación, flexibilidad horaria, fomento del transporte público—, que es exactamente el
 catálogo del Plan de Movilidad y del PSV.
+
+---
+
+## 11. La actuación ante un accidente o una emergencia: proteger, avisar, socorrer
+
+**Esta rúbrica es de las dos ocupaciones técnicas nuevas**: el punto **17 de Sonido** y el punto **21
+de Técnica de Equipos y Sistemas Electrónicos**, cuyos enunciados incluyen la actuación ante
+emergencias dentro del deber general del **artículo 20 de la Ley 31/1995**, que el epígrafe 9.1 ya
+recoge —**primeros auxilios, lucha contra incendios y evacuación**—.
+
+**Lo que aquí se añade es la secuencia de actuación**, que el examen pregunta por su orden y **no está
+en ningún artículo**: es la conducta que la documentación técnica del Instituto Nacional de Seguridad
+y Salud en el Trabajo y todos los manuales de primeros auxilios enseñan con las mismas tres palabras.
+
+**El orden es proteger, avisar, socorrer**, y **cada paso está antes que el siguiente por una razón:**
+
+| Paso | Qué se hace | Por qué va en ese lugar |
+| --- | --- | --- |
+| **1. Proteger** | **Asegurar el lugar**: cortar la corriente, señalizar, apartar el peligro, protegerse uno mismo | **Un socorrista accidentado es una víctima más**, y entonces hay dos personas que atender y ninguna que ayude |
+| **2. Avisar** | **Llamar al 112** y dar el lugar, el número de heridos y lo que ha pasado | **La ayuda tarda en llegar**, así que el reloj empieza a correr cuanto antes; y se avisa **antes** de empezar a atender porque después ya no habrá manos libres |
+| **3. Socorrer** | **Atender al accidentado** con lo que se sepa hacer, y sólo con lo que se sepa hacer | **Es lo último porque depende de los dos anteriores**: sin lugar seguro no se puede atender, y sin aviso la atención no tiene continuidad |
+
+**Y de ahí que las tres permutaciones que el examen ofrece como distractores sean todas peores**:
+**socorrer primero pone en peligro al que socorre**; **avisar primero deja el peligro activo mientras
+se habla por teléfono**; **y avisar antes de proteger tiene el mismo defecto.**
+
+**El aviso que da sentido al tercer paso**: **socorrer no es hacer lo que sea.** **Mover a un
+accidentado con sospecha de lesión de columna, dar de beber a quien está inconsciente o retirar un
+objeto clavado son maniobras que empeoran el cuadro.** **Lo que no se sabe hacer, no se hace**: se
+protege, se avisa y se acompaña.
+
+**Y el enlace con el riesgo eléctrico del epígrafe 9.8, que en estas dos ocupaciones es el caso más
+probable**: **ante un accidente eléctrico, «proteger» significa cortar la tensión antes de tocar a
+nadie.** **Quien toca a un electrizado con la instalación en tensión se electriza también.** **Si no
+se puede cortar, se separa a la víctima con un elemento aislante y seco, nunca con la mano.**
+
+---
+
+## 12. La iluminación de los lugares de trabajo
+
+**Esta rúbrica no figura con nombre propio en ningún enunciado del anexo**, y **se incorpora porque el
+examen la ha preguntado**: es el apartado 7 del manual de este proyecto —**la laguna se cierra
+ampliando el tema, nunca recortando la pregunta**—. **La pregunta cayó en el cuadernillo de Técnica de
+Equipos y Sistemas Electrónicos**, y **su respuesta es literalmente el primer párrafo de un artículo.**
+
+**La norma es el Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones
+mínimas de seguridad y salud en los lugares de trabajo** (`BOE-A-1997-8669`), el mismo cuyo anexo I
+sostiene el epígrafe 9.2.
+
+**Artículo 8** de ese real decreto:
+
+> «**La iluminación de los lugares de trabajo deberá permitir que los trabajadores dispongan de
+> condiciones de visibilidad adecuadas para poder circular por los mismos y desarrollar en ellos sus
+> actividades sin riesgo para su seguridad y salud.**
+>
+> **La iluminación de los lugares de trabajo deberá cumplir, en particular, las disposiciones del
+> anexo IV.**»
+>
+> — Real Decreto 486/1997, artículo 8 (`BOE-A-1997-8669`), redacción vigente el 21 de diciembre de
+> 2022
+
+---
+
+**Ésa es la respuesta oficial, palabra por palabra**, y **conviene ver por qué las tres opciones falsas
+lo son**: **poder hablar por teléfono, poder utilizar los equipos cercanos y poder leer** son tres
+consecuencias posibles de una iluminación suficiente, **pero ninguna es el criterio que la norma
+fija.** **El criterio es doble y más ancho: circular y desarrollar la actividad, y las dos cosas sin
+riesgo.**
+
+### 12.1. Los niveles mínimos del anexo IV
+
+**El anexo IV desarrolla el artículo y trae la única tabla de cifras de toda esta materia.** **Los
+niveles se dan en lux, que es unidad legal de medida en España** por el Real Decreto 2032/2009.
+
+| Zona o parte del lugar de trabajo | Nivel mínimo, en lux |
+| --- | ---: |
+| **Zonas con tareas de bajas exigencias visuales** | **100** |
+| **Zonas con exigencias visuales moderadas** | **200** |
+| **Zonas con exigencias visuales altas** | **500** |
+| **Zonas con exigencias visuales muy altas** | **1.000** |
+| **Áreas o locales de uso ocasional** | **50** |
+| **Áreas o locales de uso habitual** | **100** |
+| **Vías de circulación de uso ocasional** | **25** |
+| **Vías de circulación de uso habitual** | **50** |
+
+**Dónde se mide, que es la parte que se olvida**: **en la zona de tarea, a la altura donde ésta se
+realice**; **en las zonas de uso general, a 85 centímetros del suelo**; **y en las vías de
+circulación, a nivel del suelo.**
+
+**Y la regla que duplica las cifras**, que el anexo enuncia expresamente: **estos niveles mínimos se
+duplican cuando en áreas de uso general o vías de circulación haya riesgos apreciables de caídas,
+choques u otros accidentes, y cuando en las zonas de tarea un error de apreciación visual pueda
+suponer un peligro o el contraste sea muy débil.**
+
+### 12.2. Las condiciones de reparto y las que prohíbe
+
+**El mismo anexo IV fija cómo tiene que estar repartida la luz, no sólo cuánta hay.** **Se cita
+literal, porque su apartado 4 mezcla obligaciones con deberes de procurar y la diferencia importa:**
+
+> «4. La iluminación de los lugares de trabajo deberá cumplir, además, en cuanto a su distribución y
+> otras características, las siguientes condiciones:
+>
+> a) La distribución de los niveles de iluminación será lo más uniforme posible.
+>
+> b) Se procurará mantener unos niveles y contrastes de luminancia adecuados a las exigencias
+> visuales de la tarea, evitando variaciones bruscas de luminancia dentro de la zona de operación y
+> entre ésta y sus alrededores.
+>
+> c) Se evitarán los deslumbramientos directos producidos por la luz solar o por fuentes de luz
+> artificial de alta luminancia. En ningún caso éstas se colocarán sin protección en el campo visual
+> del trabajador.
+>
+> d) Se evitarán, asimismo, los deslumbramientos indirectos producidos por superficies reflectantes
+> situadas en la zona de operación o sus proximidades.
+>
+> e) No se utilizarán sistemas o fuentes de luz que perjudiquen la percepción de los contrastes, de
+> la profundidad o de la distancia entre objetos en la zona de trabajo, que produzcan una impresión
+> visual de intermitencia o que puedan dar lugar a efectos estroboscópicos.»
+>
+> — Real Decreto 486/1997, anexo IV, apartado 4 (`BOE-A-1997-8669`), redacción vigente el 21 de
+> diciembre de 2022
+
+**La letra b es la única que no impone, sino que manda procurar**, y **conviene no leerla como si
+impusiera**: la norma sabe que el contraste de luminancias depende de la tarea y del entorno, y por
+eso no fija una cifra.
+
+**El último punto merece un aviso para estas dos ocupaciones**, porque **es exactamente el riesgo del
+proyector de diodos mal ajustado**: **una fuente de luz que parpadea a una frecuencia que bate con el
+movimiento de una máquina puede hacerla parecer parada.** **Ese es el efecto estroboscópico que la
+norma prohíbe**, y no es una curiosidad: es un riesgo de atrapamiento.
+
+**Y una regla de preferencia que la norma establece y suele olvidarse**: **siempre que sea posible,
+iluminación natural**, complementada con artificial cuando la natural no baste; **y en ese caso,
+preferentemente iluminación artificial general**, complementada con localizada donde hagan falta
+niveles elevados.
 
 ---
 

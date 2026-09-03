@@ -1,38 +1,55 @@
-# Esquema · Prevención de riesgos laborales (específico: P18 / D7 / I11)
+# Esquema · Prevención de riesgos laborales en el temario específico
 
-Esqueleto para repasar. Todo desarrollado y verificado en el tema.
+Esqueleto para repasar. Todo desarrollado y verificado en el tema. **Siglas**: las administraciones
+públicas (**AAPP**); el Estatuto de los Trabajadores (**ET**); el equipo de protección individual
+(**EPI**); las empresas de trabajo temporal (**ETT**); los trastornos musculoesqueléticos (**TME**);
+las pantallas de visualización de datos (**PVD**); el Instituto Nacional de Seguridad y Salud en el
+Trabajo (**INSST**); el real decreto (**RD**); la nota técnica de prevención (**NTP**); la boca de
+incendio equipada (**BIE**); los polvos extintores, que se nombran por las clases de fuego para las
+que sirven (**BC** y **ABC**); la Comisión Nacional de Seguridad y Salud en el Trabajo (**CNSST**); y el
+lux, el decibelio ponderado A (**dB(A)**) y el ponderado C (**dB(C)**).
+
+**Doce rúbricas, y ninguna ocupación las lleva todas.** **Cada apartado dice de quién es.**
 
 <!-- indice -->
 
 ## Índice
 
 - [Encaje](#encaje)
-- [1 · Derechos y obligaciones (Ley 31/1995)](#1--derechos-y-obligaciones-ley-311995)
-  - [Art. 29 · Obligaciones del trabajador](#art-29--obligaciones-del-trabajador)
-- [2 · Pantallas de visualización (RD 488/1997 + Guía Técnica INSST, junio 2021)](#2--pantallas-de-visualización-rd-4881997--guía-técnica-insst-junio-2021)
+- [1 · Derechos y obligaciones (Ley 31/1995)](#1-derechos-y-obligaciones-ley-311995)
+  - [Art. 29 · Obligaciones del trabajador](#art-29-obligaciones-del-trabajador)
+- [2 · Pantallas de visualización (RD 488/1997 + Guía Técnica INSST, junio 2021)](#2-pantallas-de-visualización-rd-4881997-guía-técnica-insst-junio-2021)
   - [Riesgos (Guía Técnica)](#riesgos-guía-técnica)
-  - [Anexo · disposiciones mínimas](#anexo--disposiciones-mínimas)
+  - [Anexo · disposiciones mínimas](#anexo-disposiciones-mínimas)
   - [Distancia (Guía Técnica, no el RD)](#distancia-guía-técnica-no-el-rd)
-- [3 · TME de la extremidad superior (INSST)](#3--tme-de-la-extremidad-superior-insst)
-- [4 · Exposición a altos niveles de sonido (RD 286/2006)](#4--exposición-a-altos-niveles-de-sonido-rd-2862006)
-- [5 · Incendios](#5--incendios)
+- [3 · TME de la extremidad superior (INSST)](#3-tme-de-la-extremidad-superior-insst)
+- [4 · Manipulación manual de cargas (RD 487/1997)](#4-manipulación-manual-de-cargas-rd-4871997)
+- [5 · Exposición a altos niveles de sonido (RD 286/2006)](#5-exposición-a-altos-niveles-de-sonido-rd-2862006)
+- [6 · Trabajos en altura (RD 1215/1997, con la reforma del RD 2177/2004)](#6-trabajos-en-altura-rd-12151997-con-la-reforma-del-rd-21772004)
+- [7 · Medios auxiliares: plataformas elevadoras y carretillas (RD 1215/1997)](#7-medios-auxiliares-plataformas-elevadoras-y-carretillas-rd-12151997)
+- [8 · Espacios confinados (Ley 31/1995 e INSST: no hay real decreto propio)](#8-espacios-confinados-ley-311995-e-insst-no-hay-real-decreto-propio)
+- [9 · Incendios](#9-incendios)
   - [Clases de fuego (UNE-EN 2, recogidas en el RD 513/2017)](#clases-de-fuego-une-en-2-recogidas-en-el-rd-5132017)
   - [Agentes extintores (NTP 536)](#agentes-extintores-ntp-536)
   - [Extintores y BIE (RD 513/2017)](#extintores-y-bie-rd-5132017)
   - [Establecimientos industriales (RD 2267/2004)](#establecimientos-industriales-rd-22672004)
   - [Riesgo eléctrico](#riesgo-eléctrico)
-- [6 · Accidente in itinere o in misión](#6--accidente-in-itinere-o-in-misión)
-  - [In itinere · los cuatro elementos (jurisprudencia, Anuario de Derecho del BOE)](#in-itinere--los-cuatro-elementos-jurisprudencia-anuario-de-derecho-del-boe)
+- [10 · Accidente in itinere o in misión](#10-accidente-in-itinere-o-in-misión)
+  - [In itinere · los cuatro elementos (jurisprudencia, Anuario de Derecho del BOE)](#in-itinere-los-cuatro-elementos-jurisprudencia-anuario-de-derecho-del-boe)
   - [In misión (NTP 1090)](#in-misión-ntp-1090)
   - [Medidas preventivas](#medidas-preventivas)
+- [11 · Actuación ante un accidente o una emergencia](#11-actuación-ante-un-accidente-o-una-emergencia)
+- [12 · Iluminación de los lugares de trabajo (RD 486/1997, art. 8 y anexo IV)](#12-iluminación-de-los-lugares-de-trabajo-rd-4861997-art-8-y-anexo-iv)
 
 <!-- /indice -->
 
 ## Encaje
 
-- **Cinco rúbricas**, iguales en los tres específicos. Solo la primera se solapa con el **tema 8 del general**.
-- Del banco `g8.md`: **52 preguntas son de la Ley 31/1995** (tema 8) y **40 de este tema**.
+- **Doce rúbricas sobre trece ocupaciones**, con **seis redacciones distintas** del enunciado. Solo la primera se solapa con el **tema 8 del general**.
+- **Sesenta y siete preguntas son de la Ley 31/1995** —y las contesta el tema 8 del general— y **cuarenta y siete son de este tema**.
 - Peso del bloque de prevención en 2024: **Producción (Asistencia) 8,3 %** · **Información y Contenidos 3,3 %** · **Documentación 2,1 %**.
+- **Quién lleva qué**: **1, 9 y 10 las trece** · **2** todas menos Información Gráfica y Montaje de Equipos · **3** todas menos Técnica de Equipos · **4** Información Gráfica, Montaje de Equipos y Técnica de Equipos · **5** las dos Realizaciones y Sonido · **6** Información Gráfica, Montaje de Equipos, Sonido y Técnica de Equipos · **7** Información Gráfica y Montaje de Equipos · **8** solo Montaje de Equipos · **11** Sonido y Técnica de Equipos · **12** ninguna con nombre propio: entra porque el examen la preguntó.
+- **El riesgo eléctrico**, que Sonido y Técnica de Equipos traen con rúbrica propia, **está en el apartado 5**, donde entró como origen de incendios. **No se duplica.**
 - **Disciplinas preventivas (art. 34 RD 39/1997)**: **medicina del trabajo · seguridad en el trabajo · higiene industrial · ergonomía y psicosociología aplicada**. **Seguridad en el trabajo** = técnica que **elimina o disminuye el riesgo de accidente**.
 
 ## 1 · Derechos y obligaciones (Ley 31/1995)
@@ -105,10 +122,46 @@ Problema de salud **más común en España y Europa**; **tres de cada cinco pers
 
 **Puente con PVD**: son los **«problemas físicos» del art. 3.2 del RD 488/1997**. **Mantener limpia la pantalla y el filtro antirreflejo NO es requisito de diseño contra los TME**: previene la **fatiga visual**.
 
-## 4 · Exposición a altos niveles de sonido (RD 286/2006)
+## 4 · Manipulación manual de cargas (RD 487/1997)
 
-*Sólo en el temario de **Realización (Asistencia)**, punto 8. Las otras cinco ocupaciones que
-comparten este tema pueden saltarse este apartado.*
+*De **Información Gráfica** punto 7, **Montaje de Equipos** punto 7 y **Técnica de Equipos** punto 21.*
+
+- **Art. 2, definición**: manipulación manual de cargas es **cualquier operación de transporte o
+  sujeción de una carga por uno o varios trabajadores**, incluidos **el levantamiento, la colocación,
+  el empuje, la tracción o el desplazamiento**, que **por sus características o condiciones
+  ergonómicas inadecuadas** entrañe riesgos, **en particular dorsolumbares**.
+- **Dos consecuencias de esa definición**: **manipular no es sólo levantar** —empujar y arrastrar
+  cuentan— y **el riesgo no es de la carga, es de la operación**.
+- **Art. 3.1, orden de actuación**: **primero evitar** la manipulación manual —medios mecánicos—;
+  **si no se puede evitar, reducir el riesgo**. Es el mismo orden de toda la ley.
+- **Art. 4**: **formación e información** sobre la forma correcta de manipular y sobre los riesgos.
+
+**La técnica de levantamiento, en ocho pasos**
+
+| Paso | Qué se hace |
+|---|---|
+| **1** | **Planificar**: mirar la carga, el agarre, el recorrido y si hace falta ayuda |
+| **2** | **Separar los pies**, uno ligeramente adelantado |
+| **3** | **Doblar las rodillas**: **espalda recta y piernas flexionadas**, nunca al revés |
+| **4** | **Agarrar firmemente**, con toda la mano |
+| **5** | **Levantar con las piernas**, sin tirones |
+| **6** | **Pegar la carga al cuerpo**: cuanto más lejos, más palanca sobre la zona lumbar |
+| **7** | **No girar el tronco**: si hay que cambiar de dirección, **se mueven los pies** |
+| **8** | **Depositar igual**, flexionando las rodillas |
+
+- **La palabra que decide la pregunta del examen es *rectas***: **levantar con las piernas rectas
+  obliga a flexionar la espalda**, que es exactamente lo contrario de la técnica.
+- **Los cuatro grupos de factores de riesgo del anexo**: **la carga** —peso, volumen, agarre,
+  equilibrio, centro de gravedad, aristas—; **el esfuerzo** —torsión, flexión, movimientos bruscos,
+  postura inestable—; **el medio** —espacio, suelo, altura del plano, iluminación, temperatura—; **la
+  actividad** —frecuencia, reposo, distancias, ritmo impuesto—. **Más el factor individual.**
+- **El real decreto NO fija un peso máximo**, y conviene saberlo: **la cifra de 25 kilos es de la guía
+  técnica del INSST, como valor de referencia general**, no de la norma.
+
+## 5 · Exposición a altos niveles de sonido (RD 286/2006)
+
+*De **Realización (Asistencia)** punto 8, **Realización** punto 5.1 y **Sonido** punto 17. Las demás
+ocupaciones que comparten este tema pueden saltarse este apartado.*
 
 **Los tres pares de valores (art. 5.1)**
 
@@ -152,7 +205,88 @@ compañeros con exposición similar**.
 durante toda la jornada**, unidad móvil y estadios. *La escucha es herramienta de trabajo: el
 protector que aísla del todo no sirve.*
 
-## 5 · Incendios
+## 6 · Trabajos en altura (RD 1215/1997, con la reforma del RD 2177/2004)
+
+*De **Información Gráfica** punto 7, **Montaje de Equipos** punto 7, **Sonido** punto 17 y **Técnica de
+Equipos** punto 21.*
+
+- **La cifra que todo lo ordena: MÁS DE DOS METROS.** **Anexo I, apartado 6**: por encima de esa
+  altura, los equipos de trabajo llevarán **barandillas o protección colectiva equivalente**, de
+  **90 centímetros como mínimo**, con **protección intermedia y rodapiés**.
+- **La salvedad**: los dos metros **no se aplican a las escaleras de mano ni al trabajo sobre
+  ellas**, que tienen su propio régimen.
+- **Anexo II, 4.1.6**: los trabajos temporales en altura **sólo podrán efectuarse cuando las
+  condiciones meteorológicas no pongan en peligro** la seguridad y la salud.
+
+**El orden de las medidas, que es lo que el examen pregunta**
+
+| Orden | Medida | Dónde está |
+|---|---|---|
+| **1** | **Evitar el riesgo** | Art. 15.1.a) de la Ley 31/1995 |
+| **2** | **Evaluar** los que no se puedan evitar | Art. 15.1.b) |
+| **3** | **Combatirlos en su origen** | Art. 15.1.c) |
+| **4** | **Protección colectiva** —barandilla, red, plataforma— | Anexo II, 4.1.1, y art. 15.1.h) |
+| **5** | **Protección individual** —arnés, línea de vida— | Sólo cuando lo anterior no basta |
+
+- **Que la individual vaya la última no es orden: es la regla.** **El arnés no sustituye a la
+  barandilla; se pone cuando la barandilla no cabe.**
+- **Escaleras de mano, anexo II 4.2.2**: **se impedirá el deslizamiento de los pies**, con
+  antideslizantes, fijación o cualquier otra solución equivalente.
+- **El equipo anticaídas** son las normas europeas **UNE-EN 355, 358, 362 y 365**, cuyo texto está
+  **tras un muro de pago y no se ha consultado**, y así se declara en el tema.
+
+## 7 · Medios auxiliares: plataformas elevadoras y carretillas (RD 1215/1997)
+
+*De **Información Gráfica** punto 7 y **Montaje de Equipos** punto 7.*
+
+- **Una plataforma de trabajo es un equipo de trabajo**, y le vale entero el anexo I, apartado 6.
+
+| Elemento | Para qué |
+|---|---|
+| **Rodapié** | Que no caigan herramientas sobre quien pasa debajo |
+| **Barra intermedia** | Que nadie se deslice por debajo del pasamanos |
+| **Trampilla de acceso** | Que el hueco quede cerrado cuando no se usa |
+| **Superficie antideslizante** | Que el suelo no resbale con cable, agua o polvo |
+| **Señalización de carga máxima** | Cuánto peso admite, con personas y material dentro |
+
+- **Plataformas elevadoras móviles de personal**: **se conducen desde la cesta**, quien va en ella
+  **lleva arnés anclado a la propia plataforma**, y **no se usan como grúa ni como acceso a otro
+  nivel** salvo que el fabricante lo permita.
+- **La regla del anexo I que las gobierna todas**: **el equipo se usa según las instrucciones del
+  fabricante**, y **sólo lo maneja quien está autorizado y formado para ello**.
+
+## 8 · Espacios confinados (Ley 31/1995 e INSST: no hay real decreto propio)
+
+*Exclusiva de **Montaje de Equipos** punto 7. Y **es la única rúbrica de todo el tema sin real decreto
+propio**, cosa que se declara.*
+
+- **Qué es**: **recinto con aberturas limitadas de entrada y salida, ventilación natural desfavorable
+  y no concebido para ocupación continuada.**
+- **Lo que los hace peligrosos no es el tamaño: es la atmósfera.**
+
+| Riesgos específicos | Riesgos comunes |
+|---|---|
+| **Asfixia** por falta de oxígeno · **intoxicación** por gases o vapores · **incendio y explosión** | Caídas a distinto nivel, golpes, atrapamiento, contactos eléctricos, ruido, temperatura |
+
+- **Por qué se estudian aparte**: **en un espacio confinado el accidente se multiplica**, porque quien
+  entra a rescatar sin equipo se convierte en la segunda víctima.
+
+**Las siete medidas, en el orden en que se aplican**
+
+| Orden | Medida |
+|---|---|
+| **1** | **Evitar la entrada**: hacer el trabajo desde fuera siempre que se pueda |
+| **2** | **Autorización de trabajo por escrito** |
+| **3** | **Medición de la atmósfera antes de entrar** y **medición continua** durante |
+| **4** | **Ventilación** forzada si hace falta, antes y durante |
+| **5** | **Aislar y bloquear** energías y conducciones |
+| **6** | **Vigilante en el exterior**, en contacto permanente y **sin entrar nunca** |
+| **7** | **Equipo de protección individual y de rescate preparado antes de empezar** |
+
+- **La regla que resume las siete**: **nadie entra solo, nadie entra sin medir y nadie entra a
+  rescatar sin equipo.**
+
+## 9 · Incendios
 
 - **Ley 31/1995, art. 20** (único que nombra la lucha contra incendios): **analizar situaciones de emergencia** · **medidas de primeros auxilios, lucha contra incendios y evacuación** · **designar personal** (**formado, suficiente en número, con material adecuado**) · **comprobar periódicamente** · **organizar las relaciones con servicios externos**.
 - **RD 486/1997, anexo I.10 (evacuación)**: vías **expeditas**, que **desemboquen lo más directamente posible al exterior o a zona de seguridad** · **puertas de emergencia hacia el exterior**, **nunca correderas ni giratorias**, **sin llave** · **señalización RD 485/1997** · **iluminación de seguridad** si falla el alumbrado.
@@ -203,7 +337,7 @@ protector que aísla del todo no sirve.*
 - **RD 614/2001**: **contacto directo** = con **elementos en tensión**; **contacto indirecto** = con **masas puestas accidentalmente en tensión**. Remite los umbrales a los reglamentos electrotécnicos.
 - **RD 842/2002, art. 2.1. Baja tensión**: **≤ 1.000 V en alterna** y **≤ 1.500 V en continua**. **Por encima, alta tensión.** **Muy baja tensión**: **hasta 50 V alterna y 75 V continua**.
 
-## 6 · Accidente in itinere o in misión
+## 10 · Accidente in itinere o in misión
 
 **Ni «in itinere» ni «in misión» están en la Ley 31/1995**: su **DA 1.ª** remite a la Seguridad Social. La norma es el **art. 156 del RDLeg 8/2015 (LGSS)**.
 
@@ -237,3 +371,62 @@ protector que aísla del todo no sirve.*
 
 - **Plan de Seguridad Vial (PSV)**: lo **realiza el Servicio de Prevención**, **forma parte de la planificación preventiva** según la **evaluación de riesgos** y **se integra en el Plan de Prevención**. Tres familias: **materiales** (flota, mantenimiento, carga, vías internas, transporte público y vehículo compartido) · **formación para la conducción segura** · **organizativas** (itinerarios seguros, información del estado de la circulación, **flexibilidad horaria en horas punta**, descansos, control de alcohol y psicofármacos, aparcamientos, **protocolos ante accidentes viales**).
 - **Plan de Movilidad (PM)**: acciones para una movilidad **segura, eficiente y sostenible**, **más allá de las exigencias reglamentarias**, a partir del **estudio de los hábitos y pautas de desplazamiento**. **La prevención del in itinere forma parte natural del PM.** **Ambos planes deberían estar integrados.**
+
+## 11 · Actuación ante un accidente o una emergencia
+
+*De **Sonido** punto 17 y **Técnica de Equipos** punto 21, dentro del deber del **art. 20 de la Ley
+31/1995**.*
+
+- **La secuencia es PROTEGER, AVISAR, SOCORRER**, y **no está en ningún artículo**: es conducta de uso
+  universal en primeros auxilios, y así se declara.
+
+| Paso | Qué se hace | Por qué va ahí |
+|---|---|---|
+| **1. Proteger** | Asegurar el lugar: cortar la corriente, señalizar, apartar el peligro | **Un socorrista accidentado es una víctima más** |
+| **2. Avisar** | Llamar al 112: lugar, número de heridos, qué ha pasado | **La ayuda tarda**, y después no habrá manos libres |
+| **3. Socorrer** | Atender **sólo con lo que se sepa hacer** | **Depende de los dos anteriores** |
+
+- **Las tres permutaciones del examen son todas peores**: socorrer primero pone en peligro al que
+  socorre; avisar primero deja el peligro activo.
+- **Socorrer no es hacer lo que sea**: **lo que no se sabe hacer, no se hace.**
+- **En accidente eléctrico, «proteger» es cortar la tensión antes de tocar a nadie.** **Quien toca a
+  un electrizado con la instalación en tensión se electriza también.**
+
+## 12 · Iluminación de los lugares de trabajo (RD 486/1997, art. 8 y anexo IV)
+
+*Ninguna ocupación la lleva con nombre propio: **entra porque el examen la preguntó**, que es el
+apartado 7 del manual de este proyecto.*
+
+- **Art. 8, literal**: **la iluminación deberá permitir que los trabajadores dispongan de condiciones
+  de visibilidad adecuadas para poder circular por los lugares de trabajo y desarrollar en ellos sus
+  actividades sin riesgo para su seguridad y salud.**
+- **Las tres opciones falsas del examen** —hablar por teléfono, usar los equipos cercanos, leer— **son
+  consecuencias posibles, no el criterio.** **El criterio es doble: circular Y desarrollar la
+  actividad, las dos sin riesgo.**
+
+**Los niveles mínimos del anexo IV, en lux**
+
+| Zona | Lux |
+|---|---:|
+| **Bajas exigencias visuales** | **100** |
+| **Exigencias visuales moderadas** | **200** |
+| **Exigencias visuales altas** | **500** |
+| **Exigencias visuales muy altas** | **1.000** |
+| **Áreas o locales de uso ocasional** | **50** |
+| **Áreas o locales de uso habitual** | **100** |
+| **Vías de circulación de uso ocasional** | **25** |
+| **Vías de circulación de uso habitual** | **50** |
+
+- **Dónde se mide**: **en la tarea, a su altura**; **en zonas de uso general, a 85 cm del suelo**;
+  **en vías de circulación, a nivel del suelo.**
+- **Los mínimos se DUPLICAN** cuando hay riesgo apreciable de caídas o choques, o cuando un error de
+  apreciación visual pueda suponer peligro o el contraste sea muy débil.
+- **Preferencia**: **iluminación natural siempre que sea posible**, complementada con artificial;
+  **y en ese caso, preferentemente general**, complementada con localizada donde hagan falta niveles
+  altos.
+- **Lo que el anexo prohíbe**: **deslumbramientos directos e indirectos** y **fuentes que produzcan
+  impresión visual de intermitencia o efectos estroboscópicos**. **Ese último es el riesgo del
+  proyector de diodos mal ajustado: una luz que parpadea puede hacer parecer parada una máquina en
+  movimiento.**
+- **El apartado 4.b) del anexo NO impone, manda procurar**: los niveles y contrastes de luminancia se
+  **procurará** mantenerlos adecuados a la tarea. **No hay cifra.**
