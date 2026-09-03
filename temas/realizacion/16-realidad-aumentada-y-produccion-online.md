@@ -1,5 +1,19 @@
 # Tema 16 del específico de Realización (Asistencia) · Realidad aumentada, decorados virtuales y producción online
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · puntos 5.8 y 5.9 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Documentación de fabricante**: ficha del **Mo-Sys StarTracker Max** |
+| **Identificador** | Documentación de fabricante, leída el **02/09/2026** |
+| **Redacción que se estudia** | La ficha, **en la fecha en que se leyó** |
+| **Aviso sobre las fuentes** | **Aquí está la errata de plantilla de este libro**: la opción marcada en la pregunta del sistema free-d describe un montaje de croma y no una sensorización. La correcta es la a) |
+| **Extensión** | **4.131 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la realidad aumentada (**RA**, escrita **R.A.** en
 el examen) y la realidad virtual (**RV**, *VR* en inglés); los efectos visuales (**VFX**, del inglés
 *visual effects*) y las imágenes generadas por ordenador (**CGI**, del inglés *computer-generated
@@ -26,6 +40,7 @@ epígrafe 3 y se declara como tal.
 - [1. Decorado virtual, realidad aumentada y producción virtual](#1-decorado-virtual-realidad-aumentada-y-producción-virtual)
 - [2. La iluminación de un plató de croma](#2-la-iluminación-de-un-plató-de-croma)
 - [3. El seguimiento de cámara y el sistema free-d](#3-el-seguimiento-de-cámara-y-el-sistema-free-d)
+  - [El hallazgo: la pregunta 46 del primer cuadernillo](#el-hallazgo-la-pregunta-46-del-primer-cuadernillo)
 - [4. El motor de representación en tiempo real](#4-el-motor-de-representación-en-tiempo-real)
 - [5. El retardo, y la aritmética que hay que saber hacer](#5-el-retardo-y-la-aritmética-que-hay-que-saber-hacer)
 - [6. Efectos visuales: el *plate*](#6-efectos-visuales-el-plate)
@@ -378,11 +393,11 @@ resuelve con una división: 1.000 entre 25 son 40 milisegundos por fotograma.**
 ## 11. Trazabilidad
 
 **Una fuente de fabricante sostiene los epígrafes 3 y 4**, y es del cuarto nivel de la jerarquía de
-fuentes (`informes/fuentes-del-especifico-2026-09-02.md`), citada con la fecha en que se leyó:
+fuentes (el informe de fuentes del bloque específico), citada con la fecha en que se leyó:
 
 | Fichero | Qué sostiene | Leído |
 |---|---|---|
-| `fuentes/fabricantes/Mo-Sys_StarTracker-Max_ficha.txt` | Que el seguimiento óptico de cámara se hace con **marcas retrorreflectantes en techo, pared o suelo**; que **FreeD** es uno de los formatos en que esos datos se entregan; que Mo-Sys **inventó el seguimiento óptico por marcas** para producción virtual; y que esos datos alimentan **motores de representación en tiempo real como Unreal Engine** | 02/09/2026 |
+| Ficha técnica del **Mo-Sys StarTracker Max** | Que el seguimiento óptico de cámara se hace con **marcas retrorreflectantes en techo, pared o suelo**; que **FreeD** es uno de los formatos en que esos datos se entregan; que Mo-Sys **inventó el seguimiento óptico por marcas** para producción virtual; y que esos datos alimentan **motores de representación en tiempo real como Unreal Engine** | 02/09/2026 |
 
 **Sobre esa fuente descansa el hallazgo del epígrafe 3, y su límite se declara allí mismo**: la
 especificación del propio protocolo free-d **no se ha podido consultar**, y lo que la ficha del

@@ -1,5 +1,19 @@
 # Tema 14 del específico de Realización (Asistencia) · La retransmisión. Conexiones y fuentes de contribución exteriores
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 5.4 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Recomendación UIT-R SNG.770-2** para el enlace por satélite, y oficio para el resto |
+| **Identificador** | Norma técnica sin identificador del BOE |
+| **Redacción que se estudia** | La **edición de enero de 2012** en español |
+| **Aviso sobre las fuentes** | **El recorrido de la señal por los centros de RTVE no se apoya en ningún documento de organización interna**, que este proyecto no tiene: se explica desde la función de un control central y desde la propia respuesta oficial |
+| **Extensión** | **2.842 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el enlace ascendente (***uplink***) y el descendente
 (***downlink***); la modulación por desplazamiento de fase en cuadratura (**QPSK**, del inglés
 *quadrature phase shift keying*); el periodismo electrónico por satélite (**SNG**) y su versión
@@ -269,7 +283,7 @@ segunda.**
 
 | Norma | Qué sostiene aquí | Fichero |
 |---|---|---|
-| **Recomendación UIT-R SNG.770-2** (01/2012) | Que la zona de servicio del enlace descendente tiene que incluir el lugar de recepción previsto, y que el enlace ascendente exige autorización del país correspondiente | `fuentes/normas-tecnicas/UIT-R_SNG.770-2.pdf` |
+| **Recomendación UIT-R SNG.770-2** (01/2012) | Que la zona de servicio del enlace descendente tiene que incluir el lugar de recepción previsto, y que el enlace ascendente exige autorización del país correspondiente | la Recomendación en su edición en español |
 
 **Lo que va como oficio y así se declara**: la distinción entre contribución y distribución, la
 descripción del control central y sus seis funciones, la comparación entre realizar en plató y

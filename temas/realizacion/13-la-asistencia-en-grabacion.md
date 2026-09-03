@@ -1,5 +1,19 @@
 # Tema 13 del específico de Realización (Asistencia) · La asistencia en grabación en estudio y en exteriores
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 5.3 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Sin norma.** Descripción del oficio de asistencia de realización |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Aviso sobre las fuentes** | **Es el único tema del libro sin ni una pregunta en los dos llamamientos**, y por tanto el único que no ha podido someterse a la comprobación que el proyecto aplica a los demás: su cobertura es del temario, no del examen |
+| **Extensión** | **1.916 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la orden de trabajo diaria (**OTD**), que es el
 documento con el que se convoca cada jornada; el parte de producción (**PP**, que en este tema no es
 el programa del mezclador); el código de tiempo (**TC**, del inglés *timecode*); el periodismo

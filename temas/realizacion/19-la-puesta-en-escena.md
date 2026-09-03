@@ -1,5 +1,18 @@
 # Tema 19 del específico de Realización (Asistencia) · La puesta en escena
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · bloque 6 (6.1 a 6.3) |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Sin norma.** Escenografía, ambientación, vestuario y dirección de intérpretes |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Extensión** | **2.956 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el diodo emisor de luz (**LED**); el índice de
 reproducción cromática (**IRC**), que viene del tema 8; la unidad de temperatura de color, el grado
 kelvin (**K**); y la Unión Internacional de Telecomunicaciones (**UIT**) con su Sector de

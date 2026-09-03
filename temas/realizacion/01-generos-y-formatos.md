@@ -1,5 +1,19 @@
 # Tema 1 del específico de Realización (Asistencia) · Géneros y formatos televisivos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 1.1 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Sin norma articulada.** Oficio audiovisual, con la definición de «formato» del **artículo 2 de la Ley 13/2022** |
+| **Identificador** | `BOE-A-2022-11311`, para la única definición legal que el tema cita |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Dos de sus preguntas están fuera del anexo de esta ocupación** y el tema lo declara: la de la historia de la televisión en España no corresponde a ningún punto del temario específico de Realización (Asistencia) |
+| **Extensión** | **1.556 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Corporación de Radio y Televisión Española
 (**RTVE**), el vídeo a petición (**VoD**, del inglés *video on demand*) y el Boletín Oficial del
 Estado (**BOE**).

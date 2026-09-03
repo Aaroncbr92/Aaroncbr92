@@ -1,5 +1,19 @@
 # Tema 5 del específico de Realización (Asistencia) · La tecnología en el ámbito de la realización
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · bloque 2 (2.1.1 a 2.1.3) |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Recomendaciones UIT-R BT.601-7, BT.709-6, BT.2020-2 y BT.2100-1** y **normas ETSI EN 300 744 y EN 302 755** |
+| **Identificador** | Normas técnicas sin identificador del BOE: se citan por su designación y su edición |
+| **Redacción que se estudia** | Las Recomendaciones del **UIT-R**, en su **edición en español**; las del **ETSI**, en su **edición publicada** |
+| **Aviso sobre las fuentes** | **La fórmula de la EOTF del PQ se cita desde la página del PDF y no desde el volcado de texto**, que desordena símbolos y exponentes: con una norma técnica en PDF, el texto extraído no es la fuente, la página lo es |
+| **Extensión** | **7.333 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Unión Internacional de Telecomunicaciones
 (**UIT**, *ITU* en inglés) y su Sector de Radiocomunicaciones (**UIT-R**); el Instituto Europeo de
 Normas de Telecomunicación (**ETSI**, del inglés *European Telecommunications Standards
@@ -655,12 +669,12 @@ publicadas**, y todas son del segundo nivel de la jerarquía de fuentes —organ
 
 | Norma | Qué sostiene aquí | Fichero |
 |---|---|---|
-| **Recomendación UIT-R BT.601-7** | Coeficientes de luminancia 0,299 / 0,587 / 0,114; muestreo 4:2:2 y frecuencia de 13,5 MHz; niveles 16 y 235 | `fuentes/normas-tecnicas/UIT-R_BT.601-7.pdf` |
-| **Recomendación UIT-R BT.709-6** | Primarios y blanco D65 de la HD; coeficientes 0,2126 / 0,7152 / 0,0722; asignación de niveles en 8 y 10 bits | `fuentes/normas-tecnicas/UIT-R_BT.709-6.pdf` |
-| **Recomendación UIT-R BT.2020-2** | Primarios y blanco de la UHD; coeficientes 0,2627 / 0,6780 / 0,0593 | `fuentes/normas-tecnicas/UIT-R_BT.2020-2.pdf` |
-| **Recomendación UIT-R BT.2100-1** | Las dos funciones de transferencia del HDR, PQ y HLG, y el techo de 10.000 cd/m² del PQ | `fuentes/normas-tecnicas/UIT-R_BT.2100-1.pdf` |
-| **ETSI EN 300 744** | OFDM y constelaciones QPSK, 16-QAM y 64-QAM del DVB-T | `fuentes/normas-tecnicas/ETSI_EN-300-744.pdf` |
-| **ETSI EN 302 755** | La 256-QAM del DVB-T2 | `fuentes/normas-tecnicas/ETSI_EN-302-755.pdf` |
+| **Recomendación UIT-R BT.601-7** | Coeficientes de luminancia 0,299 / 0,587 / 0,114; muestreo 4:2:2 y frecuencia de 13,5 MHz; niveles 16 y 235 | la Recomendación en su edición en español |
+| **Recomendación UIT-R BT.709-6** | Primarios y blanco D65 de la HD; coeficientes 0,2126 / 0,7152 / 0,0722; asignación de niveles en 8 y 10 bits | la Recomendación en su edición en español |
+| **Recomendación UIT-R BT.2020-2** | Primarios y blanco de la UHD; coeficientes 0,2627 / 0,6780 / 0,0593 | la Recomendación en su edición en español |
+| **Recomendación UIT-R BT.2100-1** | Las dos funciones de transferencia del HDR, PQ y HLG, y el techo de 10.000 cd/m² del PQ | la Recomendación en su edición en español |
+| **ETSI EN 300 744** | OFDM y constelaciones QPSK, 16-QAM y 64-QAM del DVB-T | la norma en su edición en inglés |
+| **ETSI EN 302 755** | La 256-QAM del DVB-T2 | la norma en su edición en inglés |
 
 **Todas las citas entre comillas de este tema salen de esas seis normas y están comprobadas sobre el
 texto español publicado por la UIT** —las cuatro Recomendaciones se descargaron en su versión en
@@ -682,6 +696,6 @@ en un control de realización.
 
 **Y una fuente que no se ha podido traer.** La especificación del **DCI** para el espacio P3 sigue
 sin ser accesible: `dcimovies.com` responde, pero es una aplicación de JavaScript que no sirve
-ningún documento por ruta estática, y así consta ya en `fuentes/fabricantes/README.md`. Lo que este
+ningún documento por ruta estática, y así consta ya en el registro de fuentes de fabricante de este proyecto. Lo que este
 tema dice del P3 —que es más amplio que la Rec. 709 y menos que la Rec. 2020— es conocimiento
 corriente del sector y **no está respaldado por su norma**.

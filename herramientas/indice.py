@@ -80,6 +80,41 @@ def limpia_negritas(s):
     return re.sub(r"\*\*(.+?)\*\*", r"\1", s)
 
 
+def sirve_para(ruta):
+    """Qué ocupaciones estudian este tema, leído del reparto real de los libros.
+
+    **Estaba escrito a mano y se quedó viejo.** El valor por omisión nombraba
+    tres ocupaciones —Producción (Asistencia), Documentación e Información y
+    Contenidos— porque eran las tres que había cuando se escribió, y siguió
+    diciendo tres cuando ya eran seis: el tema de prevención salía anunciando
+    que servía a la mitad de los libros que lo llevan dentro. **Un dato viejo no
+    da error: dice otra cosa.**
+
+    Ahora se calcula del mismo sitio del que se arman los libros, `libro.BLOQUES`,
+    así que **añadir una ocupación lo actualiza solo**. Un tema del bloque general
+    sirve a todas; uno del específico, a los bloques que lo incluyen.
+    """
+    import libro
+    base = os.path.splitext(ruta)[0]
+    base = re.sub(r"^temas/", "", base)
+    todas = [B["ocupacion"] for B in libro.BLOQUES.values() if B.get("ocupacion")]
+    if base.startswith("general/"):
+        nombres = todas
+    else:
+        nombres = []
+        for clave, B in libro.BLOQUES.items():
+            if not B.get("ocupacion"):
+                continue
+            for nombre, _banco in B["temas"]:
+                ruta_tema = nombre if "/" in nombre else "%s/%s" % (B["carpeta"], nombre)
+                if ruta_tema == base:
+                    nombres.append(B["ocupacion"])
+                    break
+    if not nombres:
+        return "—"
+    return " · ".join("**%s**" % n for n in nombres)
+
+
 def portada(ruta, fila, palabras):
     """La ficha de cabecera del tema.
 
@@ -93,9 +128,7 @@ def portada(ruta, fila, palabras):
     # se queda vacía cuando vale el reparto de siempre
     filas = [
         ("Bloque", fila["bloque"]),
-        ("Sirve para", fila.get("sirve") or
-                       "**Producción (Asistencia)** · **Documentación** · "
-                       "**Información y Contenidos**"),
+        ("Sirve para", fila.get("sirve") or sirve_para(fila["fichero"])),
         ("Fuente", fila["norma"]),
         ("Identificador", fila["identificador"]),
         ("Redacción que se estudia", fila["redaccion"]),

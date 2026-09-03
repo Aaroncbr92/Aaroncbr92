@@ -1,5 +1,19 @@
 # Tema 8 del específico de Realización (Asistencia) · La iluminación
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 3.3 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Luminotecnia y práctica de plató**, con las **Recomendaciones UIT-R BT.709-6 y BT.2020-2** para el blanco de referencia D65 y la ficha del **Astera Titan Tube** |
+| **Identificador** | Normas técnicas y documentación de fabricante, sin identificador del BOE |
+| **Redacción que se estudia** | Las Recomendaciones, en su **edición en español**; la ficha de fabricante, **leída el 02/09/2026** |
+| **Aviso sobre las fuentes** | **El examen y las Recomendaciones dan dos cifras distintas de «luz día»** —5.500 K y 6.500 K— y el tema explica cuál pide cada enunciado: ninguna de las dos es un distractor inventado |
+| **Extensión** | **4.154 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el diodo emisor de luz (**LED**, del inglés
 *light-emitting diode*); la Unión Internacional de Telecomunicaciones (**UIT**) y su Sector de
 Radiocomunicaciones (**UIT-R**); el naranja de temperatura de color (**CTO**, del
@@ -314,7 +328,7 @@ iluminar nada porque daña los ojos y la piel.
 del programa: **el ultravioleta de las fuentes de iluminación es un riesgo laboral con norma propia**.
 Este proyecto guarda, para un aparato de LED de plató, el informe de ensayo de la norma
 **IEC 62471:2006 / EN 62471:2008**, «Photobiological safety of lamps and lamp systems», en
-`fuentes/fabricantes/Astera_Titan-Tube_informe-62471.pdf`. Que un fabricante publique ese ensayo es
+el informe de ensayo publicado por Astera. Que un fabricante publique ese ensayo es
 la manera de acreditar que su aparato no expone a quien trabaja debajo.
 
 ---
@@ -388,8 +402,8 @@ jerarquía de fuentes:
 | Fuente | Nivel | Qué sostiene aquí |
 |---|---|---|
 | **Recomendaciones UIT-R BT.709-6 y BT.2020-2** | Segundo: organismo de normalización | Las coordenadas del blanco de referencia **D65** y, con ellas, el contraste entre los 6.500 K de la televisión y los 5.500 K de la luz día fotográfica |
-| `fuentes/fabricantes/Astera_Titan-Tube_ficha.txt` | Cuarto: documentación de fabricante, leída el 02/09/2026 | Que un aparato de LED profesional publica un índice de reproducción cromática **≥96** entre 3.200 y 6.500 K |
-| `fuentes/fabricantes/Astera_Titan-Tube_informe-62471.pdf` | Cuarto: ensayo publicado por el fabricante | Que la seguridad fotobiológica de una fuente de iluminación se acredita por la norma **IEC 62471:2006 / EN 62471:2008** |
+| Ficha técnica del **Astera Titan Tube** | Cuarto: documentación de fabricante, leída el 02/09/2026 | Que un aparato de LED profesional publica un índice de reproducción cromática **≥96** entre 3.200 y 6.500 K |
+| el informe de ensayo publicado por Astera | Cuarto: ensayo publicado por el fabricante | Que la seguridad fotobiológica de una fuente de iluminación se acredita por la norma **IEC 62471:2006 / EN 62471:2008** |
 
 **Los tramos del ultravioleta —UV-A, UV-B y UV-C con sus longitudes de onda— son la división estándar
 de la radiometría** y se dan aquí como tales; la relación entre luz negra y UV-A es la que sostiene

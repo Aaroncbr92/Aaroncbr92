@@ -1,5 +1,19 @@
 # Tema 9 del específico de Realización (Asistencia) · El sonido
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 3.4 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Sin norma.** Acústica elemental y técnica de sonido en estudio y directo |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Aviso sobre las fuentes** | **Tres preguntas llevan anotación por defectos de construcción**, ninguna por errata: dos opciones sinónimas en una, una errata de grafía que salva otra, y una tercera cuya opción falsa describe con acierto el uso de lo que la pregunta define |
+| **Extensión** | **4.704 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el hercio (**Hz**) y el kilohercio (**kHz**), que
 miden la frecuencia; el decibelio (**dB**) y el decibelio ponderado A (**dBA**), que miden el nivel;
 el nivel de presión sonora (**NPS**, *SPL* en inglés, del inglés *sound pressure level*); el

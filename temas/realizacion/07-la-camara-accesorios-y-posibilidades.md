@@ -1,5 +1,19 @@
 # Tema 7 del específico de Realización (Asistencia) · La cámara, accesorios y posibilidades
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 3.2 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Óptica geométrica y práctica de cámara**, con dos notas técnicas de **Fujifilm** para los extremos focales de los zumes de retransmisión |
+| **Identificador** | Documentación de fabricante, leída el **03/09/2026** |
+| **Redacción que se estudia** | Las notas de fabricante, **en la fecha en que se leyeron** |
+| **Aviso sobre las fuentes** | **Canon y Sony siguen cerrados**, comprobado con agente de navegador. Lo que el tema dice de los objetivos se apoya en las notas de Fujifilm, que sí publican sus extremos focales |
+| **Extensión** | **4.887 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el diodo emisor de luz (**LED**, del inglés
 *light-emitting diode*); el dispositivo de carga acoplada (**CCD**, del inglés *charge-coupled
 device*) y el semiconductor complementario de óxido metálico (**CMOS**, del inglés *complementary
@@ -457,17 +471,17 @@ objetivo de focal menor que la diagonal del formato, con la respuesta escrita en
 
 **Dos fuentes de fabricante sí sostienen el epígrafe 4**, que es el único donde el examen pide elegir
 entre productos concretos, y son documentación del cuarto nivel de la jerarquía de fuentes
-(`informes/fuentes-del-especifico-2026-09-02.md`), citadas con la fecha en que se leyeron:
+(el informe de fuentes del bloque específico), citadas con la fecha en que se leyeron:
 
 | Fichero | Qué sostiene | Leído |
 |---|---|---|
-| `fuentes/fabricantes/Fujinon_UA22x4.8_nota.txt` | Que un zum portátil de razón 22x cubre de **4,8 a 106 mm** y se destina a informativos, estudio y deporte en directo | 03/09/2026 |
-| `fuentes/fabricantes/Fujinon_UA94x8.7_nota.txt` | Que un zum de caja de razón 94x cubre de **8,7 a 818 mm**, que la gama se escalona por tamaño de recinto y que su destino son las retransmisiones deportivas y los grandes eventos | 03/09/2026 |
+| Nota técnica de Fujifilm sobre el **FUJINON UA22x4.8BERD** | Que un zum portátil de razón 22x cubre de **4,8 a 106 mm** y se destina a informativos, estudio y deporte en directo | 03/09/2026 |
+| Nota técnica de Fujifilm sobre el **FUJINON UA94x8.7BESM** | Que un zum de caja de razón 94x cubre de **8,7 a 818 mm**, que la gama se escalona por tamaño de recinto y que su destino son las retransmisiones deportivas y los grandes eventos | 03/09/2026 |
 
 **Las dos son notas de prensa de Fujifilm**, no fichas de producto: las rutas de catálogo de
 `fujifilm.com` devolvieron «no encontrado» por cuatro caminos distintos y las de **Canon** devuelven
 «prohibido» **también con agente de navegador**, por dos rutas —la europea y la española—. Se recoge
-así en `fuentes/fabricantes/README.md`. Lo que las notas sí dan, y es lo que este tema necesita, son
+así en el registro de fuentes de fabricante de este proyecto. Lo que las notas sí dan, y es lo que este tema necesita, son
 **los extremos focales de cada familia**, que es el dato con el que se responde la pregunta 1.
 
 **El resto va como óptica y como oficio, y así se declara**: la escala de números f y su progresión

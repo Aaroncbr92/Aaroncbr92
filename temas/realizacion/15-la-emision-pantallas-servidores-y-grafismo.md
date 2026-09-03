@@ -1,5 +1,19 @@
 # Tema 15 del específico de Realización (Asistencia) · La emisión: gestión de pantallas, servidores y grafismo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · puntos 5.5, 5.6 y 5.7 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual**, artículos 156, 71 y 152 |
+| **Identificador** | `BOE-A-2022-11311` · BOE núm. 163, de 08/07/2022 |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Sus dos preguntas más difíciles no piden definiciones sino montar una solución**, y son las que más se parecen al trabajo real de la ocupación |
+| **Extensión** | **3.682 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el banco de mezcla y efectos (**M/E**, escrito
 **ME** en el examen); el programa (**PGM**, escrito **PP** en el panel); el previo (**PVW**); el
 fotograma (**fr**, del inglés *frame*); el diodo emisor de luz (**LED**); la unidad de control de
@@ -339,7 +353,7 @@ fuentes —norma del BOE vigente en la fecha de corte del 21 de diciembre de 202
 
 | Norma | Artículos citados | Qué sostiene | Fichero |
 |---|---|---|---|
-| **Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual** (BOE núm. 163, de 8 de julio de 2022) | **156.2**, **71.1** y **152.1** | El plazo de **seis meses** para conservar lo emitido con su publicidad; la obligación de RTVE de velar por sus archivos históricos; y la protección especial de sus archivos audiovisuales | `fuentes/BOE-A-2022-11311.md` |
+| **Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual** (BOE núm. 163, de 8 de julio de 2022) | **156.2**, **71.1** y **152.1** | El plazo de **seis meses** para conservar lo emitido con su publicidad; la obligación de RTVE de velar por sus archivos históricos; y la protección especial de sus archivos audiovisuales | el texto consolidado del BOE |
 
 **Las tres citas entre comillas están tomadas del texto consolidado del BOE en su redacción vigente
 en la fecha de corte**, y la ley es la misma que el bloque general de esta convocatoria ya usa.
@@ -361,4 +375,4 @@ si fuera un nombre común. **EVS es una marca**, la del fabricante belga cuyos s
 repeticiones dominan el mercado; el nombre común es **servidor de vídeo** o **servidor de
 repeticiones**. Este tema usa el nombre común y señala la marca donde el examen la usa. La ficha de
 producto de EVS **está cerrada**, comprobado con agente de navegador, según consta en
-`fuentes/fabricantes/README.md`.
+el registro de fuentes de fabricante de este proyecto.

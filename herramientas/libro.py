@@ -172,6 +172,27 @@ AVISOS_PRL = {
         "dos</b> —la a), «para la salud», se queda corta—.",
 }
 
+AVISOS_REALIZACION = {
+    "60_preguntas_realizacion_asist · nº 46":
+        "<b>La respuesta oficial no describe ninguna sensorización.</b> La plantilla da "
+        "<b>c) «unos postes de croma colocados en el techo»</b>, que es un montaje de croma: "
+        "<b>no mide la posición de la cámara</b>, que es lo que el enunciado pregunta. La que sí "
+        "la describe es la <b>a)</b>, «sensores que permiten establecer la posición de la cámara "
+        "mediante la lectura de pequeñas marcas de referencia», y es la familia a la que el "
+        "<b>free-d</b> pertenece: la ficha del <b>Mo-Sys StarTracker Max</b> documenta que el "
+        "seguimiento se hace con <b>marcas retrorreflectantes en techo, pared o suelo</b> y que "
+        "<b>FreeD</b> es uno de los formatos en que esos datos se entregan al motor de "
+        "representación. <b>La respuesta buena es la a).</b>",
+    "62_preguntas_realizacion_asist_2_llamamiento · nº 47":
+        "<b>Ninguna de las cuatro opciones define la unidad de control de cámara.</b> Describen "
+        "<b>el sensor</b>, <b>la unidad central de proceso</b> de un ordenador, <b>la caja de "
+        "plató</b> y <b>la cebra</b> del visor. La marcada —la c)— es la única defendible, "
+        "leyendo que el cable de cada cámara llega a la CCU a través de un conector de la pared "
+        "del plató; <b>al pie de la letra contradice a la pregunta 65 del primer llamamiento</b>, "
+        "que coloca correctamente la caja de plató <b>antes</b> de la CCU. Es una pregunta mal "
+        "construida, no una errata de plantilla.",
+}
+
 AVISOS_GESTION_ADMINISTRATIVA = {
     "23_preguntas_gea · nº 21":
         "<b>La plantilla da 33 días de indemnización por despido objetivo, con tope de 12 "
@@ -236,6 +257,10 @@ AVISOS_GESTION_ADMINISTRATIVA = {
 }
 
 SIN_PREGUNTAS_GESTION = {1, 2, 10, 16, 23, 30}
+# en Realización (Asistencia) sólo un tema se queda sin banco: el 13, la
+# asistencia en grabación, que es justamente el que describe el oficio que da
+# nombre a la ocupación. Ni uno de los dos llamamientos le dedicó una pregunta
+SIN_PREGUNTAS_REALIZACION = {13}
 
 AVISOS_GESTION = {
     "15_preguntas_gestion · nº 32":
@@ -264,9 +289,11 @@ BLOQUES = {
     "general": dict(
         carpeta="general",
         rotulo="Temario general",
+        ocupacion=None,
         titulo="Temario general",
-        subtitulo="Los ocho temas comunes a Producción (Asistencia),<br>"
-                  "Documentación e Información y Contenidos",
+        subtitulo="Los ocho temas comunes a las seis ocupaciones tipo:<br>"
+                  "Producción (Asistencia), Gestión Administrativa, Gestión,<br>"
+                  "Realización (Asistencia), Documentación e Información y Contenidos",
         pie="Oposiciones RTVE – Temario General",
         avisos=ERRATAS_GENERAL,
         clase_aviso="errata",
@@ -290,6 +317,7 @@ BLOQUES = {
     "produccion": dict(
         carpeta="produccion",
         rotulo="Temario específico · Producción (Asistencia)",
+        ocupacion="Producción (Asistencia)",
         titulo="Temario específico",
         subtitulo="Los dieciocho temas de <b>Producción (Asistencia)</b>",
         pie="Oposiciones RTVE – Producción (Asistencia)",
@@ -322,6 +350,7 @@ BLOQUES = {
     "gestion-administrativa": dict(
         carpeta="gestion-administrativa",
         rotulo="Temario específico · Gestión Administrativa",
+        ocupacion="Gestión Administrativa",
         titulo="Temario específico",
         subtitulo="Los trece temas de <b>Gestión Administrativa</b>",
         pie="Oposiciones RTVE – Gestión Administrativa",
@@ -356,6 +385,7 @@ BLOQUES = {
     "gestion": dict(
         carpeta="gestion",
         rotulo="Temario específico · Gestión",
+        ocupacion="Gestión",
         titulo="Temario específico",
         subtitulo="Los treinta y un temas de <b>Gestión</b>",
         pie="Oposiciones RTVE – Gestión",
@@ -407,9 +437,56 @@ BLOQUES = {
                       "<b>Excel 2019</b>, que es el cuarto nivel de la jerarquía de fuentes, y "
                       "dice qué es lo que con ella no se puede asegurar.</p>",
     ),
+    "realizacion": dict(
+        carpeta="realizacion",
+        rotulo="Temario específico · Realización (Asistencia)",
+        ocupacion="Realización (Asistencia)",
+        titulo="Temario específico",
+        subtitulo="Los veintiún temas de <b>Realización (Asistencia)</b>",
+        pie="Oposiciones RTVE – Realización (Asistencia)",
+        avisos=dict(AVISOS_REALIZACION, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base),
+                "realizacion-%02d" % n if n not in SIN_PREGUNTAS_REALIZACION else None)
+               for n, base in [
+            (1, "generos-y-formatos"), (2, "el-guion"),
+            (3, "organizacion-de-la-produccion"), (4, "decorados-planos-y-perspectivas"),
+            (5, "la-tecnologia-en-la-realizacion"), (6, "lenguaje-tecnico-y-narrativo"),
+            (7, "la-camara-accesorios-y-posibilidades"), (8, "la-iluminacion"),
+            (9, "el-sonido"), (10, "el-mezclador-de-video"),
+            (11, "el-estudio-controles-y-plato"), (12, "las-unidades-moviles"),
+            (13, "la-asistencia-en-grabacion"), (14, "la-retransmision"),
+            (15, "la-emision-pantallas-servidores-y-grafismo"),
+            (16, "realidad-aumentada-y-produccion-online"),
+            (17, "la-asistencia-en-plato-regiduria"), (18, "canales-online"),
+            (19, "la-puesta-en-escena"), (20, "postproduccion"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Una respuesta oficial de este bloque está mal</b> —la del sistema "
+                         "free-d, cuya opción marcada describe un montaje de croma y no una "
+                         "sensorización— y <b>una pregunta está mal construida</b>: la de la "
+                         "unidad de control de cámara, donde <b>ninguna</b> de las cuatro "
+                         "opciones la define. Las dos van marcadas con lo que las desmiente. "
+                         "<b>El temario enseña la norma y la ficha del fabricante, no la "
+                         "plantilla.</b>",
+        aviso_portada="<p><b>Es la ocupación más grande del proceso 1/2022: 129 puestos, 104 de "
+                      "ellos con examen</b>, y la que trae el banco más grande del proyecto: "
+                      "<b>doscientas nueve preguntas del bloque específico</b>, de dos "
+                      "llamamientos con sus dos plantillas completas.</p>"
+                      "<p><b>Su anexo no numera temas, sino ocho bloques con cuarenta y dos "
+                      "subpuntos de tamaños muy desiguales</b>, y este libro explica en el "
+                      "programa cómo se convierten en veintiún temas. <b>Dos bloques concentran "
+                      "el examen</b>: el mezclador de vídeo, con treinta y cinco preguntas, y la "
+                      "tecnología de la realización, con treinta y cuatro.</p>"
+                      "<p><b>Y es la única ocupación cuyo punto de prevención añade la exposición "
+                      "a altos niveles de sonido</b>, que va desarrollada sobre el Real Decreto "
+                      "286/2006 en el apartado 4 del tema de prevención. Las otras cinco "
+                      "ocupaciones que comparten ese tema pueden saltárselo, y allí se dice.</p>",
+    ),
     "documentacion": dict(
         carpeta="documentacion",
         rotulo="Temario específico · Documentación",
+        ocupacion="Documentación",
         titulo="Temario específico",
         subtitulo="Los siete temas de <b>Documentación</b>",
         pie="Oposiciones RTVE – Documentación",
@@ -436,6 +513,7 @@ BLOQUES = {
     "informacion": dict(
         carpeta="informacion",
         rotulo="Temario específico · Información y Contenidos",
+        ocupacion="Información y Contenidos",
         titulo="Temario específico",
         subtitulo="Los once temas de <b>Información y Contenidos</b>",
         pie="Oposiciones RTVE – Información y Contenidos",

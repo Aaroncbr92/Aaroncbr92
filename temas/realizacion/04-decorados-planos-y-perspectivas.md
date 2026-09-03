@@ -1,5 +1,18 @@
 # Tema 4 del específico de Realización (Asistencia) · Decorados: interpretación de planos y perspectivas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 1.4 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Sin norma.** Dibujo técnico aplicado a la escenografía televisiva |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Extensión** | **1.679 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el diseño asistido por ordenador (**CAD**, del
 inglés *computer-aided design*) y el Boletín Oficial del Estado (**BOE**).
 

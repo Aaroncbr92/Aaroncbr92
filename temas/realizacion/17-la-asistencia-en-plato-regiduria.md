@@ -1,5 +1,18 @@
 # Tema 17 del específico de Realización (Asistencia) · La asistencia en plató. Regiduría
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 5.10 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Sin norma.** Organización del trabajo en plató |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Extensión** | **2.464 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el intercomunicador (**intercom**), que es el
 sistema de órdenes por auricular; el programa (**PGM**); la orden de trabajo diaria (**OTD**); el nombre de la empresa **EVS**, que el examen usa como
 nombre común del servidor de repeticiones; y la

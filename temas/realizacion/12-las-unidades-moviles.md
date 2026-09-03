@@ -1,5 +1,18 @@
 # Tema 12 del específico de Realización (Asistencia) · Las unidades móviles
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 5.2 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Recomendación UIT-R SNG.770-2** para el periodismo electrónico digital por satélite |
+| **Identificador** | Norma técnica sin identificador del BOE |
+| **Redacción que se estudia** | La **edición de enero de 2012** en español |
+| **Extensión** | **1.711 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la unidad móvil (**UM**) y la **pequeña unidad
 móvil** o unidad móvil ligera (**PEL**), que es la que el examen pregunta; el periodismo electrónico
 por satélite (**SNG**, del inglés *satellite news gathering*) y su versión digital (**DSNG**, del
@@ -181,7 +194,7 @@ relación con el 14 y no se repasa más.
 
 | Norma | Qué sostiene aquí | Fichero |
 |---|---|---|
-| **Recomendación UIT-R SNG.770-2** (01/2012), «Procedimientos operacionales uniformes para el periodismo electrónico digital por satélite (DSNG)» | Que el SNG es **temporal y ocasional**, que se activa **con escaso tiempo de aviso**, que se hace con **estaciones terrenas de enlace ascendente portátiles o fácilmente transportables**, y que el enlace exige autorización | `fuentes/normas-tecnicas/UIT-R_SNG.770-2.pdf` |
+| **Recomendación UIT-R SNG.770-2** (01/2012), «Procedimientos operacionales uniformes para el periodismo electrónico digital por satélite (DSNG)» | Que el SNG es **temporal y ocasional**, que se activa **con escaso tiempo de aviso**, que se hace con **estaciones terrenas de enlace ascendente portátiles o fácilmente transportables**, y que el enlace exige autorización | la Recomendación en su edición en español |
 
 **El resto va como oficio y así se declara**: la escala de tamaños de unidad móvil con sus números de
 cámara, el reparto en tres zonas, la lista de lo que hace falta fuera del vehículo, la tabla de vías

@@ -4,23 +4,36 @@
 
 |  |  |
 | --- | --- |
-| **Bloque** | Temario específico · Producción 18 · Documentación 7 · Información y Contenidos 11 |
-| **Sirve para** | **Producción (Asistencia)** · **Documentación** · **Información y Contenidos** |
-| **Fuente** | Cinco rúbricas sobre **once fuentes**: Ley 31/1995, RD 488/1997, RD 486/1997, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015 y documentación técnica del INSST |
-| **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-1997-8669` · `BOE-A-1997-8671` · `BOE-A-2001-11881` · `BOE-A-2002-18099` · `BOE-A-2004-21216` · `BOE-A-2015-11724` · `BOE-A-2017-6606`. La **documentación técnica del INSST** no tiene identificador del BOE: se cita por su título en cada epígrafe |
+| **Bloque** | Temario específico · Producción 18 · Documentación 7 · Información y Contenidos 11 · Gestión Administrativa 13 · Gestión 31 · Realización (Asistencia) 8 |
+| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Fuente** | Seis rúbricas sobre **doce fuentes**: Ley 31/1995, RD 488/1997, RD 486/1997, RD 286/2006, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015 y documentación técnica del INSST |
+| **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-1997-8669` · `BOE-A-1997-8671` · `BOE-A-2001-11881` · `BOE-A-2002-18099` · `BOE-A-2004-21216` · `BOE-A-2006-4414` · `BOE-A-2015-11724` · `BOE-A-2017-6606`. La **documentación técnica del INSST** no tiene identificador del BOE: se cita por su título en cada epígrafe |
 | **Redacción que se estudia** | Las **normas**, en su redacción vigente el **21/12/2022**. La **documentación técnica del INSST**, en su **edición publicada**, indicada caso por caso |
-| **Extensión** | **11.819 palabras** |
+| **Extensión** | **14.481 palabras** |
 
 <!-- /portada -->
 
-> **Enunciado de la convocatoria** (anexo 2). Es **el mismo, palabra por palabra**, en los tres
-> temarios específicos, con distinto número: **Producción (Asistencia) 18**, **Documentación
-> 7**, **Información y Contenidos 11**:
+> **Enunciado de la convocatoria** (anexo 2). Es **el mismo, palabra por palabra, en cinco de las
+> seis ocupaciones** que lo llevan, con distinto número: **Producción (Asistencia) 18**,
+> **Documentación 7**, **Información y Contenidos 11**, **Gestión Administrativa 13** y
+> **Gestión 31**:
 >
 > Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
 > Pantallas de visualización de datos: riesgos asociados y medidas de prevención. Trastornos
 > musculoesqueléticos en la extremidad superior: factores de riesgo y su prevención. Incendios
 > y medidas preventivas. Accidente in itinere o in misión y medidas preventivas.
+>
+> **La sexta lo amplía.** El punto 8 de **Realización (Asistencia)** intercala una rúbrica más,
+> entre los trastornos musculoesqueléticos y los incendios:
+>
+> Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
+> Pantallas de visualización de datos: riesgos asociados y medidas de prevención. Trastornos
+> musculoesqueléticos en la extremidad superior: factores de riesgo y su prevención.
+> **Exposición a altos niveles de sonido y su prevención.** Incendios y medidas preventivas.
+> Accidente in itinere o in misión y medidas preventivas.
+>
+> **Ésa es la única diferencia entre las seis**, y por eso este libro lleva **seis apartados** y
+> avisa en el cuarto de quién puede saltárselo.
 
 <!-- indice -->
 
@@ -53,20 +66,31 @@
   - [3.4. Consecuencias de la repetitividad y del trabajo monótono](#34-consecuencias-de-la-repetitividad-y-del-trabajo-monótono)
   - [3.5. La prevención](#35-la-prevención)
   - [3.6. El puente con las pantallas](#36-el-puente-con-las-pantallas)
-- [4. Incendios y medidas preventivas](#4-incendios-y-medidas-preventivas)
-  - [4.1. La obligación del empresario: artículo 20 de la Ley 31/1995](#41-la-obligación-del-empresario-artículo-20-de-la-ley-311995)
-  - [4.2. El lugar de trabajo: RD 486/1997, anexo I](#42-el-lugar-de-trabajo-rd-4861997-anexo-i)
-  - [4.3. Las clases de fuego](#43-las-clases-de-fuego)
-  - [4.4. Los agentes extintores y su adecuación](#44-los-agentes-extintores-y-su-adecuación)
-  - [4.5. Los extintores](#45-los-extintores)
-  - [4.6. Bocas de incendio equipadas (BIE)](#46-bocas-de-incendio-equipadas-bie)
-  - [4.7. Establecimientos industriales: RD 2267/2004](#47-establecimientos-industriales-rd-22672004)
-  - [4.8. El riesgo eléctrico, que es donde empiezan muchos incendios](#48-el-riesgo-eléctrico-que-es-donde-empiezan-muchos-incendios)
-- [5. Accidente in itinere o in misión y medidas preventivas](#5-accidente-in-itinere-o-in-misión-y-medidas-preventivas)
-  - [5.1. El artículo 156 del texto refundido de la Ley General de la Seguridad Social](#51-el-artículo-156-del-texto-refundido-de-la-ley-general-de-la-seguridad-social)
-  - [5.2. El accidente in itinere: qué exige la jurisprudencia](#52-el-accidente-in-itinere-qué-exige-la-jurisprudencia)
-  - [5.3. El accidente en misión](#53-el-accidente-en-misión)
-  - [5.4. Las medidas preventivas](#54-las-medidas-preventivas)
+- [4. Exposición a altos niveles de sonido y su prevención](#4-exposición-a-altos-niveles-de-sonido-y-su-prevención)
+  - [4.1. Objeto](#41-objeto)
+  - [4.2. Los tres pares de valores](#42-los-tres-pares-de-valores)
+  - [4.3. Evitar y reducir antes que proteger](#43-evitar-y-reducir-antes-que-proteger)
+  - [4.4. La medición](#44-la-medición)
+  - [4.5. Los protectores auditivos](#45-los-protectores-auditivos)
+  - [4.6. El límite es un límite](#46-el-límite-es-un-límite)
+  - [4.7. Información y formación](#47-información-y-formación)
+  - [4.8. Consulta y participación](#48-consulta-y-participación)
+  - [4.9. Vigilancia de la salud](#49-vigilancia-de-la-salud)
+  - [4.10. Por qué esta rúbrica está en el temario de Realización (Asistencia) y no en los demás](#410-por-qué-esta-rúbrica-está-en-el-temario-de-realización-asistencia-y-no-en-los-demás)
+- [5. Incendios y medidas preventivas](#5-incendios-y-medidas-preventivas)
+  - [5.1. La obligación del empresario: artículo 20 de la Ley 31/1995](#51-la-obligación-del-empresario-artículo-20-de-la-ley-311995)
+  - [5.2. El lugar de trabajo: RD 486/1997, anexo I](#52-el-lugar-de-trabajo-rd-4861997-anexo-i)
+  - [5.3. Las clases de fuego](#53-las-clases-de-fuego)
+  - [5.4. Los agentes extintores y su adecuación](#54-los-agentes-extintores-y-su-adecuación)
+  - [5.5. Los extintores](#55-los-extintores)
+  - [5.6. Bocas de incendio equipadas (BIE)](#56-bocas-de-incendio-equipadas-bie)
+  - [5.7. Establecimientos industriales: RD 2267/2004](#57-establecimientos-industriales-rd-22672004)
+  - [5.8. El riesgo eléctrico, que es donde empiezan muchos incendios](#58-el-riesgo-eléctrico-que-es-donde-empiezan-muchos-incendios)
+- [6. Accidente in itinere o in misión y medidas preventivas](#6-accidente-in-itinere-o-in-misión-y-medidas-preventivas)
+  - [6.1. El artículo 156 del texto refundido de la Ley General de la Seguridad Social](#61-el-artículo-156-del-texto-refundido-de-la-ley-general-de-la-seguridad-social)
+  - [6.2. El accidente in itinere: qué exige la jurisprudencia](#62-el-accidente-in-itinere-qué-exige-la-jurisprudencia)
+  - [6.3. El accidente en misión](#63-el-accidente-en-misión)
+  - [6.4. Las medidas preventivas](#64-las-medidas-preventivas)
 - [Trazabilidad](#trazabilidad)
 
 <!-- /indice -->
@@ -669,7 +693,7 @@ El INSST ordena la intervención **siguiendo los principios de la acción preven
 2. **Identificar los factores de riesgo** presentes: posturas forzadas, repetitividad elevada,
    tareas que requieren mayor esfuerzo, iluminación inadecuada.
 3. **Evaluar**, para saber **dónde está el problema**. Los métodos de referencia son los de la
-   **norma ISO 11228-3**, entre ellos el **Strain Index** y el **método OCRA**.
+   **norma ISO 11228-3**, entre ellos el **Strain Index** y el método de acciones repetitivas ocupacionales (**OCRA**, del inglés *occupational repetitive actions*), el **método OCRA**.
 4. **Intervenir**, con **dos tipos de medidas**:
    - **Sobre el puesto**: **mejorar el diseño del puesto de trabajo**.
    - **Sobre la organización del trabajo**: **introducción de pausas y descansos**, **rotaciones
@@ -694,7 +718,7 @@ sí lo da por requisito de diseño. Lo trata **la Guía Técnica**, que dice que
 dispositivos de entrada **«habrá de conjugar tanto la eficacia respecto a la función para la que
 han sido creados, como la adaptación al usuario permitiendo un uso fácil y rápido y evitando a
 la vez las posibles pérdidas de control, los errores y la realización de esfuerzos innecesarios
-durante su utilización»**, y remite a la norma **EN ISO 9241-410:2008**. La formulación «el
+durante su utilización»**, y remite a la norma europea (**EN**, del inglés *European Norm*) de la Organización Internacional de Normalización, la **EN ISO 9241-410:2008**. La formulación «el
 cuerpo del ratón debe adecuarse a la anatomía de la mano» es del enunciado del examen, no de la
 Guía; **dice lo mismo con otras palabras y se acepta como verdadera**, pero no es cita.
 
@@ -705,7 +729,218 @@ diseño para evitar problemas musculoesqueléticos**.
 
 ---
 
-## 4. Incendios y medidas preventivas
+## 4. Exposición a altos niveles de sonido y su prevención
+
+> **Esta rúbrica sólo está en el temario de Realización (Asistencia).** Los enunciados de
+> Producción (Asistencia), Documentación, Información y Contenidos, Gestión Administrativa y
+> Gestión enumeran las mismas cinco materias **menos ésta**. Quien estudie con este libro para
+> cualquiera de esas cinco ocupaciones **puede saltarse este apartado 4**; quien lo haga para
+> Realización (Asistencia), no.
+
+La norma que la desarrolla es el **Real Decreto 286/2006, de 10 de marzo, sobre la protección de la
+salud y la seguridad de los trabajadores contra los riesgos relacionados con la exposición al
+ruido**, y su encaje es el de todos los reales decretos de este tema: desarrolla la Ley 31/1995 para
+un riesgo concreto. En este apartado, cada bloque va encabezado por el artículo del que sale.
+
+### 4.1. Objeto
+
+**Artículo 1.** El real decreto tiene por objeto, en el marco de la Ley 31/1995, «establecer las
+**disposiciones mínimas para la protección de los trabajadores** contra los riesgos para su
+seguridad y su salud derivados o que puedan derivarse de la **exposición al ruido**, en particular
+los **riesgos para la audición**».
+
+Dos cosas de esa frase importan. Disposiciones mínimas: lo que la norma fija es un suelo, no un
+techo. Y «en particular» los riesgos para la audición: la sordera profesional es el daño típico, pero
+no el único. El ruido también produce fatiga, estrés, interferencia con la comunicación y —esto es lo
+que más importa en un plató— impide oír las señales acústicas de alarma y las órdenes, con lo que se
+convierte en causa indirecta de accidentes.
+
+### 4.2. Los tres pares de valores
+
+Ésta es la tabla que hay que saber. La norma fija tres pares de cifras, cada uno con un nivel diario
+y un nivel de pico:
+
+| | Nivel diario (LAeq,d) | Nivel de pico (Lpico) | Qué obliga |
+| --- | --- | --- | --- |
+| Valores inferiores de exposición que dan lugar a una acción | 80 dB(A) | 135 dB(C) | Poner protectores a disposición; informar y formar; control audiométrico cada cinco años |
+| Valores superiores de exposición que dan lugar a una acción | 85 dB(A) | 137 dB(C) | Usar protectores; programa de medidas; señalizar y delimitar; medir cada año; control audiométrico cada tres años |
+| Valores límite de exposición | 87 dB(A) | 140 dB(C) | No se pueden superar nunca |
+
+**Artículo 5**, apartado 1: «a) **Valores límite de exposición: LAeq,d = 87 dB(A) y Lpico= 140 dB
+(C)**, respectivamente; b) **Valores superiores de exposición que dan lugar a una acción:
+LAeq,d = 85 dB(A) y Lpico = 137 dB (C)**, respectivamente; c) **Valores inferiores de exposición que
+dan lugar a una acción: LAeq,d = 80 dB(A) y Lpico = 135 dB (C)**, respectivamente».
+
+Apartado 2, que es el matiz que decide una pregunta de examen: «Al aplicar los **valores límite de
+exposición**, en la determinación de la exposición real del trabajador al ruido, **se tendrá en
+cuenta la atenuación que procuran los protectores auditivos individuales** utilizados por los
+trabajadores. Para los valores de exposición que dan lugar a una acción **no se tendrán en cuenta**
+los efectos producidos por dichos protectores.»
+
+Es decir: el límite de 87 dB(A) se mide con el protector puesto y los umbrales de 80 y 85 se miden
+sin él. La lógica es que los umbrales sirven para decidir si hay que actuar —y esa decisión no puede
+depender de un equipo que quizá no se lleve puesto— mientras que el límite es lo que de verdad llega
+al oído.
+
+Apartado 3: en actividades donde la exposición diaria varíe considerablemente de una jornada a otra,
+y siempre que conste de forma explícita en la evaluación de riesgos, cabe usar el nivel de exposición
+semanal en lugar del diario, a condición de que «el **nivel de exposición semanal** al ruido,
+obtenido mediante un control apropiado, **no sea superior al valor límite de exposición de 87
+dB(A)**» y de que «se adopten medidas adecuadas para **reducir al mínimo el riesgo** asociado a
+dichas actividades». Es la excepción que la televisión necesita: quien hace una gala un día y trabaja
+en una oficina los otros cuatro no tiene la misma exposición dos días seguidos.
+
+### 4.3. Evitar y reducir antes que proteger
+
+**Artículo 4**, apartado 1: «Los riesgos derivados de la exposición al ruido deberán **eliminarse en
+su origen o reducirse al nivel más bajo posible**, teniendo en cuenta los avances técnicos y la
+disponibilidad de medidas de control del riesgo en su origen.»
+
+La lista de medidas que ese apartado enumera, con su lectura para un plató:
+
+| La norma dice | En un plató o una retransmisión |
+| --- | --- |
+| «otros **métodos de trabajo** que reduzcan la necesidad de exponerse al ruido» | Trabajar con auriculares cerrados en lugar de con altavoz de sala |
+| «la elección de **equipos de trabajo** adecuados que generen el menor nivel posible de ruido» | Ventilación silenciosa, generadores alejados |
+| «la **concepción y disposición de los lugares y puestos de trabajo**» | Dónde se coloca el control respecto de los altavoces del escenario |
+| «la **información y formación adecuadas** para enseñar a los trabajadores a utilizar correctamente el equipo de trabajo» | Que quien monitoriza sepa a qué nivel escucha |
+| «**reducción del ruido aéreo**, por ejemplo, por medio de **pantallas, cerramientos, recubrimientos con material acústicamente absorbente**» | El tratamiento acústico del control |
+| «**reducción del ruido transmitido por cuerpos sólidos**, por ejemplo mediante **amortiguamiento o aislamiento**» | Suelos flotantes, soportes amortiguados |
+| «**limitación de la duración e intensidad de la exposición**» y «**ordenación adecuada del tiempo de trabajo**» | Turnos y descansos en un concierto |
+
+Apartado 3: cuando se sobrepasen los valores superiores, los lugares de trabajo «serán objeto de una
+**señalización apropiada**» y, cuando sea viable desde el punto de vista técnico y el riesgo lo
+justifique, «se **delimitarán dichos lugares y se limitará el acceso** a ellos». Apartado 4: en los
+locales de descanso bajo responsabilidad del empresario, «el ruido en ellos **se reducirá a un nivel
+compatible con su finalidad y condiciones de uso**».
+
+### 4.4. La medición
+
+**Artículo 6**, apartado 1: el empresario «deberá realizar una **evaluación basada en la medición de
+los niveles de ruido** a que estén expuestos los trabajadores», con una salvedad: «La **medición no
+será necesaria** en los casos en que la **directa apreciación profesional acreditada** permita llegar
+a una conclusión sin necesidad de la misma.»
+
+Apartado 4, que es la pareja de plazos que se confunde con la de los controles audiométricos: la
+evaluación y la medición se programarán y efectuarán «como mínimo, **cada año** en los puestos de
+trabajo en los que se sobrepasen los valores superiores de exposición que dan lugar a una acción, o
+**cada tres años** cuando se sobrepasen los valores inferiores de exposición que dan lugar a una
+acción».
+
+Apartado 3: los instrumentos de medición «deberán ser **comprobados mediante un calibrador acústico
+antes y después de cada medición** o serie de mediciones». El aparato es el sonómetro —o el
+dosímetro, cuando lo que se quiere es la dosis personal de una jornada—, y esa distinción está
+explicada en el tema del sonido del bloque específico de Realización (Asistencia).
+
+Apartado 5, entre los aspectos a los que el empresario prestará particular atención, dos que
+interesan especialmente a esta ocupación: «todos los **efectos indirectos** para la salud y la
+seguridad de los trabajadores derivados de la **interacción entre el ruido y las señales acústicas de
+alarma** u otros sonidos a que deba atenderse para reducir el riesgo de accidentes», y «la
+**prolongación de la exposición al ruido después del horario de trabajo** bajo responsabilidad del
+empresario».
+
+### 4.5. Los protectores auditivos
+
+**Artículo 7**, apartado 1, que escalona su uso en dos peldaños y es la distinción que más se
+pregunta: «a) cuando el nivel de ruido supere los valores inferiores de exposición que dan lugar a
+una acción, el empresario **pondrá a disposición** de los trabajadores protectores auditivos
+individuales; b) mientras se ejecuta el programa de medidas a que se refiere el artículo 4.2 y en
+tanto el nivel de ruido sea igual o supere los valores superiores de exposición que dan lugar a una
+acción, **se utilizarán** protectores auditivos individuales; c) los protectores auditivos
+individuales **se seleccionarán para que supriman o reduzcan al mínimo el riesgo**.»
+
+Poner a disposición no es lo mismo que usar. En el peldaño de 80 dB(A) el uso no es obligatorio; en
+el de 85 dB(A) sí lo es.
+
+Apartado 2, que pone la carga sobre el empresario en los dos casos: «deberá hacer cuanto esté en su
+mano para que se utilicen protectores auditivos, **fomentando su uso cuando éste no sea obligatorio**
+y **velando por que se utilicen cuando sea obligatorio**».
+
+Y una consecuencia de oficio que la norma no escribe pero que se deduce del artículo 6: en un plató,
+un protector que aísle del todo impide oír las órdenes y las alarmas, que es justamente el efecto
+indirecto que hay que evaluar.
+
+### 4.6. El límite es un límite
+
+**Artículo 8**, apartado 1: «**En ningún caso** la exposición del trabajador, determinada con arreglo
+al artículo 5.2, **deberá superar los valores límite de exposición**.»
+
+Apartado 2, con las cuatro obligaciones por orden si aun así se supera: «a) **tomar inmediatamente
+medidas para reducir la exposición** por debajo de los valores límite de exposición; b) **determinar
+las razones de la sobreexposición**, c) **corregir las medidas de prevención y protección**, a fin de
+evitar que vuelva a producirse una reincidencia; d) **informar a los delegados de prevención** de
+tales circunstancias.»
+
+El orden importa y se pregunta: primero se baja la exposición, después se averigua por qué pasó.
+
+### 4.7. Información y formación
+
+**Artículo 9**: el umbral de la información y la formación es el inferior. El empresario «velará
+porque los trabajadores que se vean expuestos en el lugar de trabajo a un **nivel de ruido igual o
+superior a los valores inferiores de exposición que dan lugar a una acción** y/o sus representantes
+reciban **información y formación** relativas a los riesgos derivados de la exposición al ruido»,
+sobre, entre otras cosas, «el **uso y mantenimiento correctos de los protectores auditivos**, así
+como su **capacidad de atenuación**», «la **conveniencia y la forma de detectar e informar sobre
+indicios de lesión auditiva**» y «las **prácticas de trabajo seguras**, con el fin de reducir al
+mínimo la exposición al ruido».
+
+### 4.8. Consulta y participación
+
+**Artículo 10**: la consulta alcanza a tres asuntos, «a) la **evaluación de los riesgos y la
+determinación de las medidas** que se han de tomar contempladas en el artículo 6; b) las **medidas
+destinadas a eliminar o reducir los riesgos** derivados de la exposición al ruido contempladas en el
+artículo 4; c) la **elección de protectores auditivos individuales** contemplados en el
+artículo 7.1.c)».
+
+### 4.9. Vigilancia de la salud
+
+**Artículo 11**, apartado 2, que escalona la vigilancia igual que los protectores: los trabajadores
+cuya exposición «supere los valores superiores de exposición que dan lugar a una acción tendrán
+derecho a que un médico, u otra persona debidamente cualificada bajo la responsabilidad de un médico
+[…] lleve a cabo **controles de su función auditiva**», y también tendrán derecho «al **control
+audiométrico preventivo** los trabajadores cuya exposición supere los valores inferiores de
+exposición que dan lugar a una acción **cuando la evaluación y la medición** previstas en el artículo
+6.1 **indiquen que existe riesgo para su salud**». Su finalidad es «el **diagnóstico precoz de
+cualquier pérdida de audición debida al ruido** y la **preservación de la función auditiva**», y su
+periodicidad, «como mínimo, **cada tres años** en los puestos de trabajo en los que se sobrepasen los
+valores superiores […] o **cada cinco años** cuando se sobrepasen los valores inferiores».
+
+| Exposición | Derecho | Periodicidad |
+| --- | --- | --- |
+| Supera los valores superiores | Controles de la función auditiva | Como mínimo cada tres años |
+| Supera los valores inferiores, cuando la evaluación indique riesgo | Control audiométrico preventivo | Como mínimo cada cinco años |
+
+Apartado 4: si el control detecta una lesión auditiva que pueda ser consecuencia de la exposición al
+ruido durante el trabajo, el empresario deberá «**revisar la evaluación de los riesgos**», «**revisar
+las medidas previstas para eliminar o reducir los riesgos**», tener en cuenta las recomendaciones del
+médico «incluida la posibilidad de **asignar al trabajador otro trabajo donde no exista riesgo de
+exposición**» y «**disponer una vigilancia sistemática de la salud** y el examen del estado de salud
+de **los demás trabajadores que hayan sufrido una exposición similar**».
+
+Esa última obligación es la que se olvida: un caso detectado obliga a mirar a los compañeros que
+estaban al lado.
+
+### 4.10. Por qué esta rúbrica está en el temario de Realización (Asistencia) y no en los demás
+
+Porque es la única de las seis ocupaciones cuyo trabajo se hace habitualmente por encima de los
+umbrales. Los sitios donde ocurre:
+
+| Situación | De dónde viene el ruido |
+| --- | --- |
+| **Retransmisión de un concierto o una gala** | El sistema de refuerzo de sonido del recinto |
+| **Plató con público** | Aplausos, música de entrada y salida, retornos |
+| **Control de realización** | La escucha del programa y el intercomunicador, **durante toda la jornada** |
+| **Unidad móvil** | Grupo electrógeno, aire acondicionado, escucha |
+| **Retransmisión deportiva** | El público del estadio, con picos por encima de 100 dB(A) |
+
+Y dos rasgos propios de esta ocupación que la norma contempla expresamente:
+
+1. **La escucha es una herramienta de trabajo, no un ruido ambiental.** Quien realiza necesita oír el
+   programa y las órdenes, y por eso el protector que aísla del todo no sirve.
+2. **La exposición varía enormemente de un día a otro.** De ahí el nivel semanal del apartado 4.2,
+   que es la regla pensada exactamente para trabajos como éste.
+
+## 5. Incendios y medidas preventivas
 
 Cuatro planos, y conviene no mezclarlos porque cada uno tiene su norma:
 
@@ -716,7 +951,7 @@ Cuatro planos, y conviene no mezclarlos porque cada uno tiene su norma:
 | **Los equipos e instalaciones de protección** | **RD 513/2017**, Reglamento de instalaciones de protección contra incendios |
 | **El establecimiento industrial** | **RD 2267/2004**, Reglamento de seguridad contra incendios en los establecimientos industriales |
 
-### 4.1. La obligación del empresario: artículo 20 de la Ley 31/1995
+### 5.1. La obligación del empresario: artículo 20 de la Ley 31/1995
 
 Es **el único artículo de la Ley 31/1995 que nombra la lucha contra incendios**. El empresario,
 **teniendo en cuenta el tamaño y la actividad de la empresa, así como la posible presencia de
@@ -738,7 +973,7 @@ Enlaza con dos artículos más: el **18.1.c)**, que obliga a **informar a los tr
 medidas de emergencia**, y el **33.1.c)**, que obliga a **consultar la designación de los
 trabajadores encargados** de ellas.
 
-### 4.2. El lugar de trabajo: RD 486/1997, anexo I
+### 5.2. El lugar de trabajo: RD 486/1997, anexo I
 
 **Apartado 10. Vías y salidas de evacuación.** Nueve reglas; las que se preguntan:
 
@@ -777,9 +1012,9 @@ no deberá entrañar riesgos de incendio o explosión**, y los trabajadores **de
 debidamente protegidos contra los riesgos de accidente causados por contactos directos o
 indirectos**.
 
-### 4.3. Las clases de fuego
+### 5.3. Las clases de fuego
 
-Las fija la **norma UNE-EN 2**, y el **RD 513/2017** las reproduce en su reglamento. **Son
+Las fija la norma de Una Norma Española (**UNE**), la **norma UNE-EN 2**, y el **RD 513/2017** las reproduce en su reglamento. **Son
 cinco**, y la que se olvida siempre es la última:
 
 | Clase | Fuegos de… |
@@ -794,7 +1029,7 @@ cinco**, y la que se olvida siempre es la última:
 **circunstancia agravante** que condiciona **qué agente extintor se puede usar**, y así lo trata
 la reglamentación.
 
-### 4.4. Los agentes extintores y su adecuación
+### 5.4. Los agentes extintores y su adecuación
 
 La tabla es la del reglamento de instalaciones de protección contra incendios, recogida en la
 **NTP 536 del INSST**, *Extintores de incendio portátiles: utilización*:
@@ -831,7 +1066,7 @@ aislante** para evitar quemaduras por la temperatura del gas licuado. Y en la el
 agente **se deberá prescindir del halón**, para cumplir el **Protocolo de Montreal** relativo a
 las sustancias que agotan la capa de ozono.
 
-### 4.5. Los extintores
+### 5.5. Los extintores
 
 **Definición y clasificación (RD 513/2017).** El extintor es **un equipo que contiene un agente
 extintor que puede proyectarse y dirigirse sobre un fuego por la acción de una presión interna**,
@@ -859,7 +1094,7 @@ tamaño del fuego**; la **letra**, **la clase**.
 **Modo de empleo**, tal como lo recoge la NTP: **quitar el pasador de seguridad**, **apretar la
 maneta** y **dirigir el chorro a la base de las llamas**.
 
-### 4.6. Bocas de incendio equipadas (BIE)
+### 5.6. Bocas de incendio equipadas (BIE)
 
 Del **RD 513/2017**, y son los datos que se preguntan:
 
@@ -878,7 +1113,7 @@ Del **RD 513/2017**, y son los datos que se preguntan:
   por **las dos BIE hidráulicamente más desfavorables**, a una **presión dinámica de entrada
   entre 300 kPa (3 kg/cm²) y 600 kPa (6 kg/cm²)**.
 
-### 4.7. Establecimientos industriales: RD 2267/2004
+### 5.7. Establecimientos industriales: RD 2267/2004
 
 Esta parte pesa poco en los exámenes de las tres ocupaciones que preparamos —**no ha caído
 ninguna vez**; las preguntas del banco vienen del cuadernillo de **Ingeniero Superior
@@ -938,7 +1173,7 @@ con altura de evacuación de 15 m o superior**; y **rociadores automáticos** se
 tipo, riesgo y superficie —por ejemplo, en actividades de producción **de tipo C con riesgo alto
 y 2.000 m² o más**—.
 
-### 4.8. El riesgo eléctrico, que es donde empiezan muchos incendios
+### 5.8. El riesgo eléctrico, que es donde empiezan muchos incendios
 
 El **RD 486/1997** lo enuncia —**la instalación eléctrica no deberá entrañar riesgos de incendio
 o explosión**— y lo desarrolla el **Real Decreto 614/2001, de 8 de junio**, sobre disposiciones
@@ -990,7 +1225,7 @@ ITC-BT-24 lo enuncia bajo el epígrafe de los directos**.
 
 ---
 
-## 5. Accidente in itinere o in misión y medidas preventivas
+## 6. Accidente in itinere o in misión y medidas preventivas
 
 Lo primero, y explica casi todos los fallos de esta rúbrica: **ni «in itinere» ni «in misión»
 aparecen en la Ley 31/1995**. La **disposición adicional primera** de esa ley remite
@@ -1002,7 +1237,7 @@ tal**, la respuesta es **el artículo 156 del texto refundido de la Ley General 
 Social, Real Decreto Legislativo 8/2015, de 30 de octubre** —y no el artículo 22 de la Ley
 31/1995, ni el RD 488/1997, ni el RD-ley 16/2022.
 
-### 5.1. El artículo 156 del texto refundido de la Ley General de la Seguridad Social
+### 6.1. El artículo 156 del texto refundido de la Ley General de la Seguridad Social
 
 **156.1. El concepto general.** «*Se entiende por accidente de trabajo **toda lesión corporal que
 el trabajador sufra con ocasión o por consecuencia del trabajo que ejecute por cuenta ajena**.*»
@@ -1027,7 +1262,7 @@ es: **«los que sufra el trabajador al ir o al volver del lugar de trabajo»**. 
 **156.3. La presunción.** «*Se presumirá, **salvo prueba en contrario**, que son constitutivas de
 accidente de trabajo **las lesiones que sufra el trabajador durante el tiempo y en el lugar del
 trabajo**.*» Es una **presunción iuris tantum**, y solo opera **en tiempo y lugar de trabajo**:
-no alcanza al trayecto. En adelante, **LGSS**.
+no alcanza al trayecto. En adelante, Ley General de la Seguridad Social (**LGSS**).
 
 **156.4. Lo que no es accidente de trabajo.** **a)** Lo debido a **fuerza mayor extraña al
 trabajo**, entendida como la **que no guarde relación alguna con el trabajo que se ejecutaba**;
@@ -1043,7 +1278,7 @@ compañero o de un tercero, **salvo que no guarde relación alguna con el trabaj
 La pareja **imprudencia temeraria / imprudencia profesional** es de las que más se preguntan:
 **la temeraria excluye el accidente de trabajo; la profesional no lo impide**.
 
-### 5.2. El accidente in itinere: qué exige la jurisprudencia
+### 6.2. El accidente in itinere: qué exige la jurisprudencia
 
 El Tribunal Supremo ha construido **cuatro elementos**, que el **Anuario de Derecho publicado
 por el propio BOE** recoge así:
@@ -1074,7 +1309,7 @@ producirse interrupciones durante dicho recorrido habitual**.
   accidente de trabajo, con las prestaciones y el régimen de las contingencias profesionales, no
   de las comunes.
 
-### 5.3. El accidente en misión
+### 6.3. El accidente en misión
 
 Tampoco lo define la ley. El **INSST**, en la **NTP 1090**, lo define así, y es la formulación
 que el examen da por buena:
@@ -1106,7 +1341,7 @@ del trabajo que ejecuta y en el cual intervenga un vehículo en movimiento en v�
 afectada por la legislación de tráfico»**; **quedan excluidos los producidos en vías interiores
 de centros de trabajo**. Y **ALT = ALT en jornada + ALT in itinere**.
 
-### 5.4. Las medidas preventivas
+### 6.4. Las medidas preventivas
 
 Aquí está la mitad de la rúbrica que suele quedarse sin estudiar, y tiene una clave de
 comprensión que da el **grupo de trabajo de Seguridad Vial Laboral de la Comisión Nacional de
@@ -1173,6 +1408,7 @@ catálogo del Plan de Movilidad y del PSV.
 | --- | --- |
 | **Ley 31/1995, de Prevención de Riesgos Laborales** | `BOE-A-1995-24292` |
 | **RD 488/1997, pantallas de visualización** | `BOE-A-1997-8671` |
+| **RD 286/2006, exposición al ruido** —sólo para Realización (Asistencia)— | `BOE-A-2006-4414` |
 | **RD 486/1997, lugares de trabajo** | `BOE-A-1997-8669` |
 | **RD 513/2017, instalaciones de protección contra incendios** | `BOE-A-2017-6606` |
 | **RD 2267/2004, establecimientos industriales** | `BOE-A-2004-21216` |
@@ -1206,6 +1442,17 @@ catálogo del Plan de Movilidad y del PSV.
    jurisprudencial del accidente in itinere a la segunda residencia. Los **cuatro elementos**
    —teleológico, cronológico, topográfico y mecánico— sí están leídos, en el **Anuario de Derecho
    publicado por el BOE**.
+
+6. **El RD 286/2006 tampoco ha sido modificado nunca**: sus veinticuatro bloques tienen una
+   sola redacción, la de 2006. **El texto al corte y el de hoy son idénticos.**
+7. **Una advertencia para quien pase la lente de modo sobre este tema.** La Ley 31/1995 y el
+   RD 286/2006 **numeran igual nueve de sus artículos** —el 1, 4, 5, 6, 7, 8, 9, 10 y 11—, y la
+   lente lo avisa por sí sola. El hallazgo que deja en el **artículo 7** —una salvedad «sin
+   perjuicio de lo establecido en la legislación específica sobre productos e instalaciones
+   industriales»— **es de la Ley 31/1995**, cuyo artículo 7 trata de las competencias de las
+   administraciones, y **no del artículo 7 del real decreto**, que es el de los protectores
+   auditivos. **Es un falso positivo de colisión y queda anotado aquí para no volver a
+   buscarlo.**
 
 **Fecha de corte aplicada: 21 de diciembre de 2022** para las normas. Para la documentación
 técnica del INSST se usa **la edición publicada**, indicando siempre cuál es.

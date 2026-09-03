@@ -1,5 +1,19 @@
 # Tema 20 del específico de Realización (Asistencia) · Postproducción
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · bloque 7 (7.1 a 7.4) |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Teoría del montaje y técnica de posproducción**, con el **artículo 147 del texto refundido de la Ley de Propiedad Intelectual** para las entidades de gestión |
+| **Identificador** | `BOE-A-1996-8930` |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Una de sus preguntas está fuera del Anexo 2 de esta ocupación** —la de la entidad de gestión de derechos de autor— y el tema lo declara antes de responderla |
+| **Extensión** | **5.466 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la tabla de consulta (**LUT**, del inglés *look-up
 table*); el grupo de imágenes (**GOP**, del inglés *group of pictures*); la Organización
 Internacional de Normalización (**ISO**); los formatos de fichero **AVI** (del inglés *audio video
@@ -422,7 +436,7 @@ nombre** de una pista, y una combinación de teclas no está asociada a esto.
 **Y una declaración que este tema tiene que hacer**: la documentación de **Avid** —el fabricante de
 Media Composer— **está cerrada**. Este proyecto probó **ocho rutas con agente de navegador** para su
 otro producto, el iNEWS Command, y todas devolvieron «prohibido» o «no encontrado», según consta en
-`fuentes/fabricantes/README.md`. **Lo que este epígrafe dice del programa no se ha contrastado en su
+el registro de fuentes de fabricante de este proyecto. **Lo que este epígrafe dice del programa no se ha contrastado en su
 manual**, y así queda dicho: se recoge la respuesta oficial y se explica para qué sirve la función.
 
 ---
@@ -518,7 +532,7 @@ opciones falsas unas de otras. **Tres aciertos por un concepto.**
 
 | Norma | Artículo | Qué sostiene | Fichero |
 |---|---|---|---|
-| **Texto refundido de la Ley de Propiedad Intelectual**, aprobado por el **Real Decreto Legislativo 1/1996, de 12 de abril** | **147** | Que una entidad de gestión necesita **autorización del Ministerio de Cultura y Deporte** publicada en el BOE, que es **propiedad de sus socios** y que **no puede tener ánimo de lucro** | `fuentes/corte-20221221/BOE-A-1996-8930.md` |
+| **Texto refundido de la Ley de Propiedad Intelectual**, aprobado por el **Real Decreto Legislativo 1/1996, de 12 de abril** | **147** | Que una entidad de gestión necesita **autorización del Ministerio de Cultura y Deporte** publicada en el BOE, que es **propiedad de sus socios** y que **no puede tener ánimo de lucro** | el texto consolidado del BOE |
 
 **La cita está tomada del texto consolidado del BOE en su redacción vigente a 21 de diciembre de
 2022**, que es la fecha de corte del proyecto.
@@ -534,7 +548,7 @@ velocidad, las fases del etalonaje y los usos de las tablas de consulta.
 
 - **La operación de Media Composer del epígrafe 12 no está verificada en la documentación de Avid**,
   que sigue cerrada: ocho rutas probadas con agente de navegador, todas «prohibido» o «no
-  encontrado», según `fuentes/fabricantes/README.md`. Se recoge la respuesta oficial y se explica la
+  encontrado», según el registro de fuentes de fabricante de este proyecto. Se recoge la respuesta oficial y se explica la
   finalidad de la función.
 - **Lo que se dice del XDCAM en el epígrafe 7 no está contrastado en Sony**, que es el fabricante que
   este proyecto no ha conseguido abrir por ninguna vía: sus páginas de producto responden

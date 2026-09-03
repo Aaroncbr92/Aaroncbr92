@@ -1,5 +1,19 @@
 # Tema 2 del específico de Realización (Asistencia) · El guion
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 1.2 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Oficio audiovisual**, con el **artículo 87 del texto refundido de la Ley de Propiedad Intelectual** para la autoría de la obra audiovisual |
+| **Identificador** | `BOE-A-1996-8930` |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **«Minutado» tiene dos significados en este examen** y el tema los separa: la escaleta con tiempos y el registro de las tomas grabadas. La pregunta 29 del segundo llamamiento usa el segundo |
+| **Extensión** | **2.436 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el sistema de producción de informativos de Avid
 (**iNews**), la Corporación de Radio y Televisión Española (**RTVE**) y el Boletín Oficial del
 Estado (**BOE**).
@@ -266,7 +280,7 @@ los seis documentos, las tres premisas del guion, la distinción entre plano, es
 vocabulario del minutado de informativos —entradilla, total, colas, off—, el *story board* y el
 *animatic*, y el funcionamiento de **iNews**, cuya documentación de fabricante **no se ha podido
 consultar**: las ocho rutas probadas de Avid quedaron cerradas y así está escrito en
-`fuentes/fabricantes/`.
+el registro de fuentes de fabricante de este proyecto.
 
 La atribución del ***découpage technique*** a **Michel Chion** va como cita de autor, no como
 fuente verificada: **el proyecto no tiene su obra**, y la respuesta se sostiene en el propio

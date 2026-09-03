@@ -1,5 +1,18 @@
 # Tema 18 del específico de Realización (Asistencia) · Canales online
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 5.11 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Sin norma** propia. Herramientas y vocabulario de publicación en la web, con el **artículo 156.2 de la Ley 13/2022** para la conservación de lo emitido |
+| **Identificador** | `BOE-A-2022-11311` |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Extensión** | **2.881 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el sistema de gestión de contenidos (**CMS**, del
 inglés *content management system*); el identificador (**ID**, del inglés *identifier*); el protocolo
 de transferencia de ficheros (**FTP**, del inglés *file transfer protocol*) y sus vecinos el
@@ -291,7 +304,7 @@ dedicó una a este punto.
 obligación de conservar lo emitido durante **seis meses** que el epígrafe 9 opone a la retirada de un
 contenido de la web está en el **artículo 156.2 de la Ley 13/2022, de 7 de julio, General de
 Comunicación Audiovisual**, citado literalmente en el tema 15 y comprobado allí sobre el texto
-consolidado del BOE (`fuentes/BOE-A-2022-11311.md`).
+consolidado del BOE (el texto consolidado del BOE).
 
 **El resto va como oficio y así se declara**: el flujo de trabajo de los cuatro pasos, que se toma
 del propio enunciado del anexo; las funciones de un gestor de contenidos; los usos de un

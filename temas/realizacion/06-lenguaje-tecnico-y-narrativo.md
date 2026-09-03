@@ -1,5 +1,19 @@
 # Tema 6 del específico de Realización (Asistencia) · Lenguaje técnico y narrativo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 3.1 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Sin norma.** Lenguaje audiovisual y convenciones de montaje |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Aviso sobre las fuentes** | **La pregunta 34 del segundo llamamiento depende de una imagen** que el texto del cuadernillo no conserva, y queda declarada sin verificar |
+| **Extensión** | **5.470 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el gran plano general (**GPG**), el plano general
 (**PG**), el plano entero (**PE**), el plano americano (**PA**), el plano medio (**PM**), el primer
 plano (**PP**), el primerísimo primer plano (**PPP**) y el plano detalle (**PD**), que son las

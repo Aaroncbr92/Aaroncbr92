@@ -1,5 +1,18 @@
 # Tema 3 del específico de Realización (Asistencia) · Organización general de la producción
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 1.3 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Oficio audiovisual**, con el **artículo 8 del III Convenio colectivo de RTVE** para la clasificación profesional |
+| **Identificador** | Convenio colectivo de la Corporación RTVE |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Extensión** | **1.618 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la orden de trabajo diaria (**ODT**), la unidad
 móvil (**UM**), la Corporación de Radio y Televisión Española (**RTVE**) y el Boletín Oficial del
 Estado (**BOE**).

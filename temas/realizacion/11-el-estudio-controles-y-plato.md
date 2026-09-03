@@ -1,5 +1,19 @@
 # Tema 11 del específico de Realización (Asistencia) · El estudio: controles y plató
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · punto 5.1 |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Sin norma.** Organización de un centro de producción de televisión |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Aviso sobre las fuentes** | **Ninguna de las cuatro opciones de la pregunta 47 define la unidad de control de cámara**, y la marcada contradice, al pie de la letra, a la pregunta 65 del otro llamamiento. Queda declarada pregunta defectuosa |
+| **Extensión** | **3.479 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la unidad de control de cámara (**CCU**, del inglés
 *camera control unit*); el operador de control de imagen (**CCU** también se usa por metonimia para
 la persona que la maneja, aunque su nombre en RTVE es **control de imagen**); el programa (**PGM**) y

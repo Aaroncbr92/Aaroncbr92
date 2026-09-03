@@ -1,5 +1,19 @@
 # Tema 10 del específico de Realización (Asistencia) · El mezclador de vídeo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización (Asistencia) · bloque 4 (4.1 a 4.12) |
+| **Sirve para** | **Realización (Asistencia)** |
+| **Fuente** | **Documentación de fabricante**: manual en español de los **Blackmagic ATEM**, edición de diciembre de 2024 |
+| **Identificador** | Documentación de fabricante, descargada el **03/09/2026** |
+| **Redacción que se estudia** | La **edición de diciembre de 2024** del manual |
+| **Aviso sobre las fuentes** | **El manual dice «composición» donde el examen dice «llave»**, y «nivel» donde el examen dice «clip». Y **Sony, Grass Valley, Ross, Panasonic y EVS siguen cerrados**: lo que el tema dice de la serie XVS que el examen cita por modelo no está contrastado en su fabricante |
+| **Extensión** | **8.554 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el banco de mezcla y efectos (**M/E**, del inglés
 *mix/effects*); el generador de efectos digitales (**DVE**, del inglés *digital video effects*, y
 **DME** en la nomenclatura de Sony, del inglés *digital multi effects*); la composición posterior
@@ -761,14 +775,14 @@ cerrada. Lo que hay y lo que no:
 
 | Fuente | Nivel | Qué sostiene aquí | Estado |
 |---|---|---|---|
-| `fuentes/fabricantes/Blackmagic_ATEM_manual-es.txt` | Cuarto: documentación de fabricante, edición de diciembre de 2024, descargada el 03/09/2026 | La definición de macro, la de composición lineal, la de composición precompuesta, los controles de nivel y ganancia, la descripción de las salidas auxiliares, el resincronizador de entrada, el reparto del panel entre llaves y DSK, y el origen y el propósito del modo M/E | **Consultado** |
+| Manual de los **Blackmagic ATEM**, bloque en español | Cuarto: documentación de fabricante, edición de diciembre de 2024, descargada el 03/09/2026 | La definición de macro, la de composición lineal, la de composición precompuesta, los controles de nivel y ganancia, la descripción de las salidas auxiliares, el resincronizador de entrada, el reparto del panel entre llaves y DSK, y el origen y el propósito del modo M/E | **Consultado** |
 | **Sony**, para el **XVS 7000** y la serie XVS que el examen cita por su nombre | Cuarto | Nada | **Cerrado**: tres rutas probadas —catálogo estadounidense, británico y español— y las tres responden «prohibido» **con agente de navegador** |
 | **Grass Valley**, familia K-Frame | Cuarto | Nada | **Cerrado**: la dirección de ayuda sirve un portal de incidencias, no documentación |
 | **Ross Video**, Carbonite | Cuarto | Nada | **Cerrado**: dos rutas, «no encontrado» las dos |
 | **Panasonic**, serie AV-HS | Cuarto | Nada | **Cerrado**: su índice de manuales responde «prohibido» |
 | **EVS**, citado dos veces por el examen | Cuarto | Nada | **Cerrado**: el sitio abre, pero la ficha del producto devuelve «no encontrado» |
 
-**Todo esto está recogido en `fuentes/fabricantes/README.md`**, con las rutas probadas, y se declara
+**Todo esto está recogido en el registro de fuentes de fabricante de este proyecto**, con las rutas probadas, y se declara
 aquí porque **el examen cita a Sony por modelo en dos preguntas —la 32 y la 115 del segundo
 cuadernillo— y este tema no ha podido contrastar ni una línea en su fabricante**. Lo que dice de la
 serie XVS —que tiene un bus de EDIT PREVIO, y que hay que asignarlo a una salida para verlo— **se
