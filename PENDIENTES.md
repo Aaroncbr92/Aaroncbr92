@@ -631,3 +631,28 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 - **Gravedad**: **induce a error** en el estudio, no en el examen. Quien memorice la opción tal como
   está escrita aprenderá mal el régimen de bases de licitud, que es materia de tres preguntas de
   este mismo bloque.
+
+---
+
+## Un punto ciego de la lente de prosa — abierto el 2026-09-03
+
+- **Dónde**: `refutar_prosa.py`, la comprobación de siglas sin presentar.
+- **Qué hace hoy**: da una sigla por presentada si **hay un paréntesis en los 130 caracteres que la
+  preceden**, o si la sigla lleva uno pegado detrás.
+- **Qué se le escapa**: **un paréntesis que ya se cerró y que no tiene nada que ver con la sigla.**
+  El caso que lo descubrió es del tema 3 de Técnica Informática: en la fila «**RIP** (v1 y v2),
+  **OSPF**, **EIGRP**», el paréntesis de las versiones de la primera sigla daba por presentada la
+  tercera, que no lo estaba. **EIGRP se ha presentado a mano** en el tema y en su esquema.
+- **Por qué la regla sigue como estaba**: se probaron tres reglas más estrictas —paréntesis abierto
+  en la ventana, profundidad de paréntesis sobre todo el prefijo, y paréntesis más cercano sin
+  cerrar— y **las tres marcan como sin presentar formas de presentación que el proyecto usa a
+  propósito**: «nombre largo (*expansión en inglés*), **SIGLA**», la enumeración «las puertas
+  lógicas —**AND**, **OR**, **NOT**…—», y la sigla en negrita seguida de su paréntesis, que la
+  comprobación de detrás no ve porque entre medias van los dos asteriscos del cierre. La más fina de
+  las tres dejaba **unos 180 avisos** repartidos por todo el corpus, casi todos falsos. **Una lente
+  que nadie corre es peor que una lente holgada** (manual, apartado 10), así que se deja la holgada
+  y se anota el punto ciego.
+- **Qué haría falta para cerrarlo bien**: **una comprobación semántica, no sintáctica** —que las
+  iniciales de lo que va dentro del paréntesis formen la sigla—, más el arreglo de la comprobación
+  de detrás para que salte por encima de los asteriscos del cierre en negrita. Mientras tanto,
+  **las siglas de cada tema nuevo se repasan a ojo** contra su párrafo de presentación.

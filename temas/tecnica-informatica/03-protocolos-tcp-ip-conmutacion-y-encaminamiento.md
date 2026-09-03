@@ -11,10 +11,11 @@ transferencia de ficheros sobre intérprete de órdenes seguro (**SFTP**); el pr
 (**SNMP**, *simple network management protocol*); el protocolo de pasarela de frontera (**BGP**,
 *border gateway protocol*); el protocolo de información de encaminamiento (**RIP**, *routing
 information protocol*), en sus versiones 1 y 2; el primero el camino abierto más corto (**OSPF**,
-*open shortest path first*); el sistema autónomo (**AS**) y su número (**ASN**); la Autoridad de
-Asignación de Números de Internet (**IANA**); la red de área local virtual (**VLAN**); el sistema de
-nombres de dominio (**DNS**) y el tiempo de vida de un registro (**TTL**, *time to live*); y la
-calidad de servicio (**QoS**, *quality of service*).
+*open shortest path first*) y el mejorado de encaminamiento de pasarela interior (**EIGRP**,
+*enhanced interior gateway routing protocol*); el sistema autónomo (**AS**) y su número (**ASN**);
+la Autoridad de Asignación de Números de Internet (**IANA**); la red de área local virtual
+(**VLAN**); el sistema de nombres de dominio (**DNS**) y el tiempo de vida de un registro
+(**TTL**, *time to live*); y la calidad de servicio (**QoS**, *quality of service*).
 
 > Enunciado de la convocatoria (Anexo 2, temario específico de Técnica Informática, punto 4):
 > «Protocolos TCP/IP. Técnicas de conmutación y enrutamiento. Puntos de acceso WiFi.»
