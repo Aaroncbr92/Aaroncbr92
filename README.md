@@ -22,6 +22,7 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `herramientas/pdf.py` | Convierte ese volumen en PDF con el Chromium del entorno, con índice paginado. |
 | `herramientas/word.py` | El mismo volumen en `.docx`, con estilos de Word. |
 | `esquemas/` | Un esqueleto de repaso por tema. Estilo telegrama, con el artículo delante de cada línea. |
+| `herramientas/extraer_examen.py` | Reconstruye el texto de un cuadernillo desde su PDF. Prueba **dos modos** —línea a línea y agrupando por altura, para los que maquetan las opciones en tres columnas— y se queda con el que deja menos letras huérfanas. Sin él, 21 cuadernillos daban opciones vacías y uno se contaminaba con 252 fragmentos duplicados. |
 | `herramientas/banco.py` | Arma el banco de preguntas del **bloque común**, clasificando por materia. |
 | `herramientas/banco_especifico.py` | El del **bloque específico**, aplicando un reparto escrito a mano y avisando de lo que falta por repartir. |
 | `banco/` | Preguntas reales de convocatorias anteriores con su respuesta oficial. |
@@ -66,3 +67,24 @@ Lo que hace por ti en cada precepto:
   falta de convalidación o derogación;
 - no deduce identificadores: los resuelve contra el índice publicado. En la Ley
   17/2006, el artículo 43 es el bloque `a4-2`. Por analogía no se acierta.
+
+## Los volúmenes
+
+**Ocho, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a las
+siete ocupaciones; los siete específicos cierran con **el mismo tema de
+prevención de riesgos laborales**, que es un solo fichero.
+
+| Volumen | Ocupación tipo | Temas | Preguntas | Páginas |
+|---|---|---:|---:|---:|
+| `libro-general` | Las siete | 8 | 492 | 255 |
+| `libro-produccion-asistencia` | Producción (Asistencia) | 18 | 154 | 263 |
+| `libro-produccion` | Producción | 17 | 97 | 214 |
+| `libro-realizacion` | Realización (Asistencia) | 21 | 237 | 285 |
+| `libro-documentacion` | Documentación | 7 | 113 | 137 |
+| `libro-informacion` | Información y Contenidos | 11 | 209 | 196 |
+| `libro-gestion-administrativa` | Gestión Administrativa | 13 | 106 | 163 |
+| `libro-gestion` | Gestión | 31 | 112 | 303 |
+
+**Diez respuestas oficiales de 2024 están mal, y van marcadas una a una** con el
+precepto, el modelo de cuentas o la ficha de fabricante que las desmiente. El
+temario enseña la norma, no la plantilla, **y dice dónde está la costura**.

@@ -8,16 +8,19 @@ para que otra pueda seguir sin reconstruir nada.
 
 ## Qué es esto
 
-Cinco temarios de oposición de RTVE, por ocupación tipo: **Producción
-(Asistencia)**, **Documentación**, **Información y Contenidos**, **Gestión
-Administrativa** y **Gestión**. El programa sale del ANEXO 2 de las bases,
-transcrito literal en `convocatoria/`.
+Siete temarios de oposición de RTVE, por ocupación tipo: **Producción
+(Asistencia)**, **Producción**, **Realización (Asistencia)**, **Documentación**,
+**Información y Contenidos**, **Gestión Administrativa** y **Gestión**. El
+programa sale del ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
 
-Los cinco comparten el mismo temario general —**comprobado byte a byte**: los
-2.029 caracteres del bloque común son idénticos en los cinco anexos— y las tres
-ocupaciones que tienen bloque específico con tema de prevención comparten
-también ese tema. Por eso son **85 cuerpos de tema**, no 116. El reparto y el
-orden están en `PLAN.md`.
+Los siete comparten el mismo temario general —**comprobado byte a byte**: el
+bloque común es idéntico en los siete anexos; sólo cambia el pie de página— y
+**las siete** tienen en su bloque específico un tema de prevención de riesgos
+laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con un
+epígrafe que sólo sirve a Realización (Asistencia) —la exposición a altos niveles
+de sonido, del RD 286/2006—. Por eso **120 cuerpos de tema** llenan las **126
+posiciones** de los ocho volúmenes: los ocho generales y el de prevención van
+repetidos. El reparto y el orden están en `PLAN.md`.
 
 **Convocatoria identificada**: son los anexos 2 de las **bases específicas de la
 convocatoria 1/2022** (turno libre, adaptadas tras el acuerdo transaccional de la
@@ -605,16 +608,18 @@ en Documentación y en Producción (Asistencia).
       texto de la AES10 y las fichas de Sony y DJI sin probar con la regla nueva.
 - [x] **Un volumen imprimible por bloque.** `herramientas/libro.py` ya no lleva la lista de temas
       escrita en el código: la lleva `BLOQUES`, una entrada por bloque, y los específicos se dan
-      de alta ahí sin tocar el armazón. Salen **seis volúmenes**, cada uno en PDF, Word y HTML:
+      de alta ahí sin tocar el armazón. Salen **ocho volúmenes**, cada uno en PDF, Word y HTML:
 
       | Volumen | Temas | Preguntas | Páginas |
       |---|---:|---:|---:|
-      | `libro-general` | 8 | 487 | **255** |
-      | `libro-produccion-asistencia` | 18 | 154 | **257** |
-      | `libro-documentacion` | 7 | 113 | **131** |
-      | `libro-informacion` | 11 | 209 | **189** |
-      | `libro-gestion-administrativa` | 13 | 106 | **157** |
-      | `libro-gestion` | 31 | 112 | **297** |
+      | `libro-general` | 8 | 492 | **255** |
+      | `libro-produccion-asistencia` | 18 | 154 | **263** |
+      | `libro-produccion` | 17 | 97 | **214** |
+      | `libro-realizacion` | 21 | 237 | **285** |
+      | `libro-documentacion` | 7 | 113 | **137** |
+      | `libro-informacion` | 11 | 209 | **196** |
+      | `libro-gestion-administrativa` | 13 | 106 | **163** |
+      | `libro-gestion` | 31 | 112 | **303** |
 
       Los específicos **cierran con el tema de prevención**, que es **el mismo fichero** en los
       tres que lo tienen.
@@ -627,6 +632,38 @@ en Documentación y en Producción (Asistencia).
       entrelazado con el resto: su punto 9 es la protección de datos, su 27 el proceso de
       producción en televisión y sus puntos 11 a 16 comparten el Plan General de Contabilidad con
       Gestión Administrativa.
+
+- [x] **Fase D: las dos ocupaciones audiovisuales grandes, terminadas el 2026-09-03.**
+      **Realización (Asistencia)**, la ocupación más grande del proceso 1/2022 —129 puestos—, con
+      20 temas propios más el de prevención y **el banco más grande del proyecto: 209 preguntas**
+      de dos llamamientos completos con sus dos plantillas. Trajo **una errata de plantilla** —la
+      del sistema free-d, cuya opción marcada describe un montaje de croma y no una sensorización—
+      y **una pregunta mal construida** —la de la unidad de control de cámara, que ninguna de las
+      cuatro opciones define—. Y obligó a **ampliar el tema de prevención compartido** con un
+      epígrafe nuevo sobre exposición a altos niveles de sonido, anclado en el RD 286/2006.
+      **Producción**, 16 temas propios más el de prevención, con 66 preguntas de su cuadernillo de
+      2024. Trajo **la décima errata de plantilla del proyecto** —la pregunta 88, sobre
+      subcontratación, donde **ninguna de las cuatro opciones dice lo que dice la Ley 9/2017**— y
+      **una respuesta oficial mal enunciada** —la 75, que da el consentimiento por única base para
+      tratar datos cuando el artículo 6 del reglamento europeo prevé seis—. Su punto 16 es **el más
+      preguntado de todo el proyecto medido por punto de anexo**: siete preguntas de noventa.
+
+- [x] **Dos trampas de herramienta que costaban repartos falsos, arregladas en esta fase.**
+      La primera, **de nombre**: `81_preguntas_produccion` contiene la subcadena `produccion`, y
+      también la contienen `77_preguntas_produccion_asist` y su segundo llamamiento, así que la
+      selección por subcadena metía el examen de una ocupación en el banco de la otra —Producción
+      (Asistencia) llegó a decir «123 de 189, quedan 66 sin clasificar»—. Se arregló con una lista
+      explícita, `SOLO` en `herramientas/banco_especifico.py`, que **nombra los cuadernillos de
+      cada ocupación en vez de buscarlos**. La misma trampa afectaba a Realización (Asistencia).
+      La segunda, **de extracción**: 21 cuadernillos con opciones en tres columnas producían
+      opciones vacías, y otro se contaminaba con 252 fragmentos duplicados. `herramientas/
+      extraer_examen.py` los lee ahora **agrupando por altura y ordenando por x**, y elige el modo
+      con menos letras huérfanas. El banco común pasó de 492 a **523 preguntas**.
+
+- [x] **La línea «Sirve para» ya no está escrita a mano**: `herramientas/indice.py` la calcula
+      desde `BLOQUES`, de modo que dar de alta una ocupación **actualiza sola** la portada de los
+      ocho temas generales y la del de prevención. Cuando eran seis ocupaciones la línea decía
+      tres, y nadie lo había visto.
 
 ## Qué comprobación pasa por qué material
 

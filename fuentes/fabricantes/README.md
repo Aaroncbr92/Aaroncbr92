@@ -119,3 +119,36 @@ nadie busque «llave» en el manual y crea que no está.
 Astera, ETSI, DJI, Autocue y **Blackmagic**— y **ocho cerradas de verdad**, todas
 comprobadas con la regla puesta: UER, DCI, Sony, Avid, Grass Valley, Ross Video,
 Panasonic y EVS.
+
+
+## Tercera tanda: la mochila multicámara, para Producción
+
+El punto 12 del Anexo 2 de **Producción** —el transporte de la señal— trae la
+**única pregunta de todo su examen que se puede contrastar en la ficha de un
+fabricante**: con qué modelo de LiveU se envían **cuatro señales de alta
+resolución sincronizadas**.
+
+| Fichero | Producto | De dónde sale | Leído |
+|---|---|---|---|
+| `LiveU_LU800_ficha.txt` | **LiveU LU800** | `liveu.tv/lu800`, con la **ruta corta** que ya funcionó para el LU300S | 03/09/2026 |
+| `Fujinon_UA22x4.8_nota.txt` y `Fujinon_UA94x8.7_nota.txt` | Rangos focales de dos objetivos **Fujinon** de televisión: **4,8–106 mm** y **8,7–818 mm** | Fichas del fabricante | 03/09/2026 |
+
+**Lo que la ficha del LU800 dice, y por qué basta**: «**Up to four high-res,
+fully frame-synced feeds from a single portable unit**». La respuesta oficial no
+se deduce ni se descarta: **está escrita en el producto**, con las mismas cuatro
+señales y la misma sincronía que el enunciado pide. La misma ficha da sus cifras
+de agregación —**hasta catorce conexiones** con **ocho módems internos de doble
+tarjeta**, **hasta 60 Mbps**— que el tema recoge para explicar cómo funciona una
+mochila.
+
+**Y la pieza que hace difícil la pregunta, que la ficha permite explicar**:
+mandar cuatro señales es cuestión de ancho de banda; **mandarlas sincronizadas
+fotograma a fotograma es lo difícil**, porque cada una viaja por caminos
+distintos y llega con retardos distintos. Sin esa sincronía **un mezclador no
+puede conmutar entre ellas**, y por eso el modelo anterior de la familia sólo
+lleva una.
+
+**Recuento del proyecto tras esta tanda**: **siete fuentes recuperadas** —LiveU
+(dos productos), Astera, ETSI, DJI, Autocue, Blackmagic y Fujinon— y **ocho
+cerradas de verdad**, todas comprobadas con la regla puesta: UER, DCI, Sony,
+Avid, Grass Valley, Ross Video, Panasonic y EVS.

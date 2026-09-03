@@ -454,3 +454,89 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
   sustituir al examinador; pero el opositor merece saber que ocurrió.
 - **Gravedad**: menor para el temario, **relevante para quien se examine**. Es el tercer caso del
   proyecto en que el examen se sale de su propio programa.
+
+---
+
+## La respuesta oficial que llama sensorización a un montaje de croma — abierto y cerrado el 2026-09-03
+
+- **Dónde**: banco `realizacion-16`, pregunta **46** del cuadernillo
+  `60_preguntas_realizacion_asist`, y el epígrafe de escenografía virtual del tema 16 del
+  específico de **Realización (Asistencia)**.
+- **Qué pregunta**: qué tipo de **sensorización** corresponde al sistema **free-d**.
+- **Qué responde la plantilla**: la **c)**, «unos postes de croma colocados en el techo, fuera de
+  plano, para favorecer el movimiento escénico y evitar la inclusión de sombras».
+- **Por qué está mal**: eso **no es una sensorización**, es un montaje de croma. **No mide la
+  posición de la cámara**, que es lo que el enunciado pregunta. La que sí la describe es la **a)**,
+  «sensores que permiten establecer la posición de la cámara mediante la lectura de pequeñas marcas
+  de referencia».
+- **Fuente**: la ficha del **Mo-Sys StarTracker Max**, guardada en `fuentes/fabricantes/`, documenta
+  que el seguimiento se hace con «*ceiling, wall or floor mounted retro-reflective stickers*» y que
+  «**FreeD**» es uno de los formatos en que esos datos se entregan al motor de representación; y que
+  «Mo-Sys *invented 'simple-to-use' marker-based optical camera tracking*».
+- **Límite declarado**: **la especificación del propio free-d no se ha podido consultar.** Lo que la
+  ficha prueba es **la familia a la que pertenece**, no su articulado. **La conclusión no depende de
+  esa especificación**: se sostiene por el contenido de la propia opción marcada, que no describe
+  sensorización de ninguna clase.
+- **Gravedad**: **cambia la respuesta.** Es la **novena errata de plantilla** del proyecto y la
+  primera de materia técnica audiovisual: las ocho anteriores eran de derecho y de contabilidad.
+
+---
+
+## Una pregunta de contratación pública cuyas cuatro opciones contradicen la ley que cita — abierto y cerrado el 2026-09-03
+
+- **Dónde**: banco `produccion-16`, pregunta **88** del cuadernillo `81_preguntas_produccion`, y el
+  epígrafe de subcontratación del tema 16 del específico de **Producción**.
+- **Qué pregunta**: cuál de cuatro afirmaciones sobre la subcontratación en los contratos públicos
+  es correcta **según la Ley 9/2017**.
+- **Qué responde la plantilla**: la **d)**, que hay que informar a la Administración **«solo cuando
+  ésta supere el 30 % del importe total»** y que **«siempre»** hay que obtener **aprobación
+  expresa**.
+- **Por qué está mal, en sus dos mitades**:
+  - **Artículo 215.2.b)**: «**En todo caso, el contratista deberá comunicar por escrito**, tras la
+    adjudicación del contrato y, a más tardar, cuando inicie la ejecución de este, al órgano de
+    contratación **la intención de celebrar los subcontratos**…». **No hay umbral.**
+  - **Artículo 215.2.d)**: la autorización expresa se exige **sólo** «en los contratos de carácter
+    **secreto o reservado**, o en aquellos cuya ejecución deba ir acompañada de **medidas de
+    seguridad especiales**…».
+- **De dónde salen las cifras**: del **artículo 217.2**, que impone a **las Administraciones
+  Públicas** —no al contratista— comprobar los pagos a subcontratistas «en los contratos de obras y
+  en los contratos de servicios cuyo valor estimado **supere los 5 millones de euros** y en los que
+  el importe de la subcontratación sea igual o superior al **30 por ciento** del precio del
+  contrato». **La pregunta toma dos números de un artículo y los coloca en otro.**
+- **Y las otras tres tampoco**: la a) inventa un requisito de carencia de medios que el 215.1 no
+  exige; la b) inventa un límite general del 50 % —el único 50 % del artículo es **la penalidad**
+  del 215.3.a)—; la c) inventa una prohibición por importe que la ley no establece.
+- **Qué se ha hecho para descartar un error propio**: se volcaron los **tres artículos enteros** del
+  texto consolidado del BOE en su redacción vigente al 21/12/2022 y se comparó **frase por frase**
+  con cada opción. **El conflicto no es de interpretación, es de literalidad**: «en todo caso» y
+  «sólo cuando supere el 30 %» no pueden ser la misma regla.
+- **Decisión**: se marca como **enunciado roto**, no como errata con respuesta alternativa: **no hay
+  ninguna opción correcta**. El tema manda **marcar la d)** en un examen, que es la de la plantilla,
+  **sabiendo que se marca por la plantilla y no por la ley**, y escribe al lado la regla verdadera.
+- **Gravedad**: **cambia la respuesta**, y es incorregible marcando otra opción. Es la **décima
+  errata de plantilla** del proyecto y la segunda de la clase «no hay respuesta correcta».
+
+---
+
+## Una respuesta oficial que sobra en una palabra — abierto y cerrado el 2026-09-03
+
+- **Dónde**: banco `produccion-16`, pregunta **75** del cuadernillo `81_preguntas_produccion`, y el
+  epígrafe del mapa de la protección de datos del tema 16 del específico de **Producción**.
+- **Qué pregunta**: cuál de cuatro afirmaciones sobre la Ley de Protección de Datos es correcta.
+- **Qué responde la plantilla**: la **c)**, que la ley «garantiza que los datos personales **solo**
+  se recojan con el consentimiento explícito e informado del titular».
+- **Por qué su enunciado no se sostiene**: el **artículo 6 del Reglamento (UE) 2016/679** prevé
+  **seis bases de licitud** —consentimiento, ejecución de un contrato, obligación legal, intereses
+  vitales, misión de interés público e interés legítimo—, y el consentimiento es una de ellas. La
+  propia **Ley Orgánica 3/2018** lo presupone: su **artículo 72.1.b)** tipifica el tratamiento «sin
+  que concurra **alguna de** las condiciones de licitud del tratamiento establecidas en el artículo
+  6». **Si el consentimiento fuera la única base, ese artículo no diría «alguna de».**
+- **Por qué NO se marca como errata**: **las otras tres opciones son falsas de plano** —la necesidad
+  económica no es base de licitud, la ley no prohíbe recopilar datos, y la mayoría de edad no
+  levanta ninguna obligación—. **Hay respuesta, y está mal escrita**: es distinto de la 88, donde no
+  hay ninguna.
+- **Qué hace el temario**: manda **marcar la c)** y explica **qué palabra sobra de su enunciado**,
+  que es la que distingue estudiar de memorizar.
+- **Gravedad**: **induce a error** en el estudio, no en el examen. Quien memorice la opción tal como
+  está escrita aprenderá mal el régimen de bases de licitud, que es materia de tres preguntas de
+  este mismo bloque.
