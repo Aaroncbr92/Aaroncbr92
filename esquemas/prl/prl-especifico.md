@@ -14,13 +14,14 @@ Esqueleto para repasar. Todo desarrollado y verificado en el tema.
   - [Anexo · disposiciones mínimas](#anexo--disposiciones-mínimas)
   - [Distancia (Guía Técnica, no el RD)](#distancia-guía-técnica-no-el-rd)
 - [3 · TME de la extremidad superior (INSST)](#3--tme-de-la-extremidad-superior-insst)
-- [4 · Incendios](#4--incendios)
+- [4 · Exposición a altos niveles de sonido (RD 286/2006)](#4--exposición-a-altos-niveles-de-sonido-rd-2862006)
+- [5 · Incendios](#5--incendios)
   - [Clases de fuego (UNE-EN 2, recogidas en el RD 513/2017)](#clases-de-fuego-une-en-2-recogidas-en-el-rd-5132017)
   - [Agentes extintores (NTP 536)](#agentes-extintores-ntp-536)
   - [Extintores y BIE (RD 513/2017)](#extintores-y-bie-rd-5132017)
   - [Establecimientos industriales (RD 2267/2004)](#establecimientos-industriales-rd-22672004)
   - [Riesgo eléctrico](#riesgo-eléctrico)
-- [5 · Accidente in itinere o in misión](#5--accidente-in-itinere-o-in-misión)
+- [6 · Accidente in itinere o in misión](#6--accidente-in-itinere-o-in-misión)
   - [In itinere · los cuatro elementos (jurisprudencia, Anuario de Derecho del BOE)](#in-itinere--los-cuatro-elementos-jurisprudencia-anuario-de-derecho-del-boe)
   - [In misión (NTP 1090)](#in-misión-ntp-1090)
   - [Medidas preventivas](#medidas-preventivas)
@@ -104,7 +105,54 @@ Problema de salud **más común en España y Europa**; **tres de cada cinco pers
 
 **Puente con PVD**: son los **«problemas físicos» del art. 3.2 del RD 488/1997**. **Mantener limpia la pantalla y el filtro antirreflejo NO es requisito de diseño contra los TME**: previene la **fatiga visual**.
 
-## 4 · Incendios
+## 4 · Exposición a altos niveles de sonido (RD 286/2006)
+
+*Sólo en el temario de **Realización (Asistencia)**, punto 8. Las otras cinco ocupaciones que
+comparten este tema pueden saltarse este apartado.*
+
+**Los tres pares de valores (art. 5.1)**
+
+| | Diario LAeq,d | Pico Lpico | Qué obliga |
+|---|---|---|---|
+| **Inferiores** que dan lugar a una acción | **80 dB(A)** | **135 dB(C)** | Protectores **a disposición**; información y formación; audiometría cada **5** años |
+| **Superiores** que dan lugar a una acción | **85 dB(A)** | **137 dB(C)** | **Usar** protectores; programa de medidas; señalizar y delimitar; medir cada **año**; audiometría cada **3** años |
+| **Valores límite** | **87 dB(A)** | **140 dB(C)** | **No se superan nunca** |
+
+**El matiz que decide (art. 5.2):** el **límite** se mide **con el protector puesto**; los
+**umbrales**, **sin él**.
+**Art. 5.3:** si la exposición varía mucho de un día a otro, cabe usar el **nivel semanal**, si no
+supera 87 dB(A) y se reduce el riesgo al mínimo.
+
+**Orden de la prevención (art. 4):** eliminar en origen o reducir al nivel más bajo posible →
+métodos de trabajo, equipos, disposición de los puestos, formación, **reducción del ruido aéreo**
+(pantallas, cerramientos, absorbentes) y **por cuerpos sólidos** (amortiguamiento, aislamiento),
+mantenimiento y **organización del tiempo**.
+Además: **señalizar y delimitar** por encima de los superiores, y **locales de descanso** con ruido
+compatible con su uso.
+
+**Medición (art. 6):** evaluación **basada en la medición**, salvo que baste la **directa
+apreciación profesional acreditada**. **Cada año** por encima de los superiores; **cada tres** por
+encima de los inferiores. **Calibrador acústico antes y después** de cada medición.
+*Aparato: **sonómetro**; para la dosis personal, **dosímetro**.*
+
+**Protectores (art. 7):** por encima de los **inferiores**, el empresario los **pone a disposición**;
+por encima de los **superiores**, **se utilizan**. *Poner a disposición no es usar.*
+
+**Límite (art. 8):** si se supera → **reducir de inmediato · determinar las razones · corregir las
+medidas · informar a los delegados de prevención**. *En ese orden.*
+
+**Información y formación (art. 9):** desde los **valores inferiores**. **Consulta (art. 10):**
+evaluación, medidas y **elección de los protectores**.
+**Vigilancia de la salud (art. 11):** controles de la función auditiva **cada tres años** por encima
+de los superiores; **audiometría preventiva cada cinco** por encima de los inferiores cuando haya
+riesgo. Si aparece lesión: revisar evaluación y medidas, **posible cambio de puesto** y **mirar a los
+compañeros con exposición similar**.
+
+**Por qué está en esta ocupación:** conciertos y galas, plató con público, **la escucha del control
+durante toda la jornada**, unidad móvil y estadios. *La escucha es herramienta de trabajo: el
+protector que aísla del todo no sirve.*
+
+## 5 · Incendios
 
 - **Ley 31/1995, art. 20** (único que nombra la lucha contra incendios): **analizar situaciones de emergencia** · **medidas de primeros auxilios, lucha contra incendios y evacuación** · **designar personal** (**formado, suficiente en número, con material adecuado**) · **comprobar periódicamente** · **organizar las relaciones con servicios externos**.
 - **RD 486/1997, anexo I.10 (evacuación)**: vías **expeditas**, que **desemboquen lo más directamente posible al exterior o a zona de seguridad** · **puertas de emergencia hacia el exterior**, **nunca correderas ni giratorias**, **sin llave** · **señalización RD 485/1997** · **iluminación de seguridad** si falla el alumbrado.
@@ -155,7 +203,7 @@ Problema de salud **más común en España y Europa**; **tres de cada cinco pers
 - **RD 614/2001**: **contacto directo** = con **elementos en tensión**; **contacto indirecto** = con **masas puestas accidentalmente en tensión**. Remite los umbrales a los reglamentos electrotécnicos.
 - **RD 842/2002, art. 2.1. Baja tensión**: **≤ 1.000 V en alterna** y **≤ 1.500 V en continua**. **Por encima, alta tensión.** **Muy baja tensión**: **hasta 50 V alterna y 75 V continua**.
 
-## 5 · Accidente in itinere o in misión
+## 6 · Accidente in itinere o in misión
 
 **Ni «in itinere» ni «in misión» están en la Ley 31/1995**: su **DA 1.ª** remite a la Seguridad Social. La norma es el **art. 156 del RDLeg 8/2015 (LGSS)**.
 

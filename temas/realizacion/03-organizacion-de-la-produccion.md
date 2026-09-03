@@ -208,6 +208,10 @@ después por las personas.
 
 - III Convenio Colectivo de la Corporación de Radio y Televisión Española. `BOE-A-2020-16744`.
   **Artículo 8**, definiciones de producción interna, mixta y ajena, que nombran las tres fases.
+  Ese artículo es muy largo y regula además la **comisión de producción interna**: su composición,
+  sus reuniones y el **deber de confidencialidad** de sus miembros. Nada de eso es materia de este
+  punto y por eso no se recoge; se dice aquí para que quien contraste el tema contra el convenio
+  no lo eche en falta.
 
 **El resto del tema es oficio audiovisual y no tiene norma detrás**, y así se declara: el contenido
 de la hoja de desglose, la jerarquía de criterios del plan de trabajo, la orden de trabajo diaria, el
