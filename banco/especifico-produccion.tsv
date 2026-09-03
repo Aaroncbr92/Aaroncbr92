@@ -1,0 +1,87 @@
+# Reparto a mano de las preguntas del bloque específico de PRODUCCIÓN —la
+# ocupación tipo, no la de Asistencia— entre los dieciséis primeros puntos de su
+# Anexo 2. El punto 17 es el tema de prevención compartido, y sus preguntas no
+# viven aquí: van en `prl-especifico.md`, adonde las manda `reclasificadas.tsv`.
+#
+# **Un cuadernillo**: `81_preguntas_produccion`, 96 preguntas con su plantilla
+# oficial completa. **Treinta son del bloque común** y **sesenta y seis del
+# específico**.
+#
+# **Ojo con el nombre.** Este cuadernillo casa por subcadena con la ocupación
+# `produccion-asistencia`, cuyos cuadernillos son el 77 y el 78. El generador lo
+# separa por nombre exacto, y por eso el banco de aquélla cierra en 123 de 123 y
+# éste en 66 de 66.
+#
+# **Dos preguntas del común se reparten a mano** en `reclasificadas.tsv`: la 29
+# —trastornos musculoesqueléticos— y la 83 —accidente in itinere— son del tema de
+# prevención del *específico*, no del tema 8 del general.
+#
+# **El punto 17 no tiene ni una pregunta propia**: las dos de prevención que este
+# cuadernillo trae son las que acaban de decirse, y van al tema compartido.
+origen	numero	tema	motivo
+81_preguntas_produccion	53	01	Qué es un plan de trabajo
+81_preguntas_produccion	70	01	Objetivo primordial del plan de rodaje en ficción
+81_preguntas_produccion	7	02	Obras radiofónicas: Ley de Propiedad Intelectual
+81_preguntas_produccion	62	02	Qué obras protege la Ley de Propiedad Intelectual
+81_preguntas_produccion	67	02	Uso de imágenes de una película de 1970 para una noticia: derecho de cita
+81_preguntas_produccion	77	02	Obras anónimas o seudónimas: a quién corresponden los derechos
+81_preguntas_produccion	80	02	Duración de los derechos de los productores de grabaciones audiovisuales
+81_preguntas_produccion	42	03	Qué es la biblia
+81_preguntas_produccion	44	03	Qué es un guion técnico
+81_preguntas_produccion	48	03	Qué es un story-board
+81_preguntas_produccion	65	03	Focalización interna en un guion
+81_preguntas_produccion	79	03	Qué es la sinopsis argumental
+81_preguntas_produccion	90	03	Qué es el break-down: el desglose que el propio punto nombra
+81_preguntas_produccion	13	04	Franja horaria posterior al prime-time
+81_preguntas_produccion	46	04	Transformación de los géneros televisivos en la cobertura olímpica
+81_preguntas_produccion	57	04	Categorización de formatos de Michelle Hilmes
+81_preguntas_produccion	9	05	Función del productor ejecutivo
+81_preguntas_produccion	27	05	A qué departamento pertenece el gaffer
+81_preguntas_produccion	6	06	Para qué se recomiendan los micrófonos omnidireccionales
+81_preguntas_produccion	28	06	Qué es un objetivo zoom
+81_preguntas_produccion	47	06	Travelling de corto recorrido con cámara réflex
+81_preguntas_produccion	60	06	Micrófonos que necesitan alimentación phantom
+81_preguntas_produccion	71	06	Qué es una cabeza caliente
+81_preguntas_produccion	85	06	Resolución espacial del Full HD
+81_preguntas_produccion	94	06	Aplicación audiovisual del efecto Haas
+81_preguntas_produccion	76	07	CuePilot y los sistemas de automatización de un directo
+81_preguntas_produccion	14	08	Qué considerar en una localización para el equipo técnico
+81_preguntas_produccion	18	08	Dónde se aparcan las unidades móviles de una retransmisión
+81_preguntas_produccion	21	08	Permiso para grabar en el Monte del Pardo
+81_preguntas_produccion	40	08	Permisos para un rodaje con dron comercial en España
+81_preguntas_produccion	95	08	Validez de un cuaderno ATA: documentación en desplazamientos internacionales
+81_preguntas_produccion	20	09	Referencia de la escala Kelvin en iluminación
+81_preguntas_produccion	23	09	Altura mínima de la barandilla de un practicable
+81_preguntas_produccion	84	09	Unidad con que se mide la luminosidad
+81_preguntas_produccion	87	09	Qué es el sistema TTL en iluminación
+81_preguntas_produccion	92	09	Qué es la luz llave
+81_preguntas_produccion	26	10	Uso del pincel biselado en caracterización
+81_preguntas_produccion	66	10	Qué hace un figurinista
+81_preguntas_produccion	81	10	Problema del vestuario de rayas estrechas y estampados pequeños
+81_preguntas_produccion	8	11	Qué es una EDL
+81_preguntas_produccion	10	11	Qué proceso es parte de la postproducción
+81_preguntas_produccion	11	11	Qué es un chyron: grafismo
+81_preguntas_produccion	17	11	Qué es el looping o ADR
+81_preguntas_produccion	49	11	Fase en la que trabaja el ambientador musical
+81_preguntas_produccion	63	11	Medida de accesibilidad adoptada por RTVE en 2021
+81_preguntas_produccion	2	12	Cuál NO es un sistema de transmisión de imágenes
+81_preguntas_produccion	34	12	Cómo se denomina el enlace de subida a satélite
+81_preguntas_produccion	38	12	Modelo de mochila LiveU para cuatro señales sincronizadas
+81_preguntas_produccion	41	12	Producción remota multicámara: logística y coordinación
+81_preguntas_produccion	3	13	Qué se hace desde el control central
+81_preguntas_produccion	25	13	Función del embebedor en un control central
+81_preguntas_produccion	37	13	Qué significa el envío del N-1 al redactor
+81_preguntas_produccion	58	14	Factores que las aseguradoras valoran en una producción audiovisual
+81_preguntas_produccion	78	14	Hora de fin de tarea que da derecho a la dieta de cena
+81_preguntas_produccion	52	15	Año de fundación de la FORTA
+81_preguntas_produccion	55	15	Qué son las siglas UER y EBU
+81_preguntas_produccion	72	15	Asociación española por la presencia igualitaria de mujeres en el audiovisual
+81_preguntas_produccion	74	15	Competencias para otorgar licencias de televisión por ondas hertzianas
+81_preguntas_produccion	82	15	Quién preside la Academia de la Televisión
+81_preguntas_produccion	12	16	Cómo se gestionan los incumplimientos de un contrato de producción
+81_preguntas_produccion	24	16	Umbral del contrato menor de suministros y servicios
+81_preguntas_produccion	33	16	Infracción muy grave del artículo 72 de la Ley Orgánica 3/2018
+81_preguntas_produccion	45	16	Cómo se denomina el acoso psicológico en el ámbito laboral
+81_preguntas_produccion	64	16	Obligación de los equipos técnicos según la Ley Orgánica 3/2018
+81_preguntas_produccion	75	16	Afirmación correcta sobre la Ley de Protección de Datos
+81_preguntas_produccion	88	16	Subcontratación en los contratos públicos: Ley 9/2017
