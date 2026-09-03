@@ -1,6 +1,6 @@
 # TESE · Tema 2 · Componentes electrónicos
 
-13 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+12 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -121,18 +121,6 @@ b)   La corriente colector es la suma de corriente de colector y base.
 c)   La corriente de base por el factor de ganancia (β). 
 d)   La  corriente  de  colector  es  aproximadamente  igual  a  la  corriente  de  emisor  por  la 
 corriente de base.
-```
-
----
-
-**70_preguntas_tese_a · nº 82 · respuesta: a**
-
-```
-82. ¿A qué equivale el circuito de la figura? 
-a)   Una puerta NOR Exclusiva. 
-b)   Una puerta NAND con un Inversor en una de sus entradas. 
-c)   Una OR Exclusiva. 
-d)   Dos puertas NOR interconectadas en array.
 ```
 
 ---
