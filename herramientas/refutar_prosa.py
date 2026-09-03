@@ -57,10 +57,13 @@ def main():
     # los números romanos de los títulos no son siglas
     ROMANOS = re.compile(r"^[IVXLC]+$")
     CONOCIDAS = ("BOE", "RTVE", "TVE", "RNE", "PDF", "HTML", "URL", "TV")
-    # palabras castellanas escritas en mayúsculas para dar énfasis. El examen
-    # las usa a docenas —«¿Cuál NO es válido?»— y no son siglas de nada.
+    # palabras escritas en mayúsculas que no son siglas. Unas son castellanas
+    # y van en mayúsculas por énfasis —el examen las usa a docenas: «¿Cuál NO
+    # es válido?»—; otras son palabras inglesas que el oficio escribe así
+    # aunque no abrevien nada: RAW es «crudo», LOG es «logarítmico».
     PALABRAS = ("NO", "SI", "UNA", "UNO", "TODO", "TODAS", "SOLO", "NUNCA",
-                "SIEMPRE", "MENOS", "MAS", "CIERTA", "FALSA")
+                "SIEMPRE", "MENOS", "MAS", "CIERTA", "FALSA",
+                "RAW", "LOG", "LUT", "MIX")
     # «SI(C2 = 1» no es una sigla: es una llamada a función. Un paréntesis
     # pegado al nombre lo delata, y sin esta salvedad un tema de hoja de
     # cálculo llena la lista de falsos avisos aunque el nombre vaya dentro de
