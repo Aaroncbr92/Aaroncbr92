@@ -164,6 +164,57 @@ respuestas**. Es la cuarta plantilla que recupera y la primera de una ocupación
 **Y es la ocupación con más respuestas oficiales equivocadas del proyecto: cuatro.** Van contadas en
 los informes de refutación de sus temas 2, 3, 5 y 6.
 
+### Gestión
+
+**81 preguntas** del cuadernillo de **Gestión** de 2024, repartidas entre los **treinta primeros
+temas** de su Anexo 2. El trigésimo primero es el de prevención, que ya comparten las otras
+ocupaciones específicas.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `gestion-03.md` | 3 · Convenios colectivos | 2 |
+| `gestion-04.md` | 4 · El contrato de trabajo | **9** |
+| `gestion-05.md` | 5 · Modificación de las condiciones | 4 |
+| `gestion-06.md` | 6 · Tiempo de trabajo | 2 |
+| `gestion-07.md` | 7 · El salario | 6 |
+| `gestion-08.md` | 8 · Derechos y deberes | 1 |
+| `gestion-09.md` | 9 · Protección de datos | 6 |
+| `gestion-11.md` | 11 · Modelo contable y Plan General de Contabilidad | 3 |
+| `gestion-12.md` | 12 · Proceso contable y cuentas anuales | 2 |
+| `gestion-13.md` | 13 · El patrimonio y el balance | 4 |
+| `gestion-14.md` | 14 · Gastos, ingresos, tesorería, existencias y acreedores | 2 |
+| `gestion-15.md` | 15 · Inmovilizado material y amortización | 1 |
+| `gestion-17.md` | 17 · Costes de producción y contabilidad de costes | 4 |
+| `gestion-18.md` | 18 · La función de tesorería | 2 |
+| `gestion-19.md` | 19 · La información financiera | 4 |
+| `gestion-20.md` | 20 · Impuesto sobre el Valor Añadido | 3 |
+| `gestion-21.md` | 21 · Planificación estratégica y control de gestión | 1 |
+| `gestion-22.md` | 22 · Seguridad Social | 1 |
+| `gestion-24.md` | 24 · Nómina | **7** |
+| `gestion-25.md` | 25 · La empresa como organización | **6** |
+| `gestion-26.md` | 26 · La gestión por competencias | 2 |
+| `gestion-27.md` | 27 · El proceso de producción en televisión | 3 |
+| `gestion-28.md` | 28 · Matemática financiera | 4 |
+| `gestion-29.md` | 29 · Estadística descriptiva básica | 2 |
+
+**Seis puntos no tienen ni una pregunta** —el 1, el 2, el 10, el 16, el 23 y el 30— y por eso no
+tienen fichero de banco. Se desarrollan igual en el temario.
+
+**Se descartan enteros los dos cuadernillos de Gestión Abogado/a**, primero y segundo llamamiento.
+Es otra ocupación tipo con su propio Anexo 2: su bloque específico pregunta por propiedad
+intelectual, Reglamento General de Protección de Datos y Ley 13/2022, materias que el Anexo 2 de
+Gestión no contiene. El motivo está en el acta, en dos filas con `*` en el número, y el script lo
+imprime cada vez que se regenera el banco.
+
+**Una errata de plantilla y una pregunta rota.** La errata es la **nº 32**, que pide el indicador
+que ignora los intereses y responde **BAI**, el único de los cuatro que sí los computa. La rota es
+la **nº 83**, que pregunta por la prescripción de las faltas muy graves y cuyas cuatro opciones
+hablan de la publicación en el BOE: **ninguna responde**. Las dos van contadas en los informes de
+refutación.
+
+Y **dos preguntas de este cuadernillo se apartan del programa**: la nº 6 y la nº 89 examinan de la
+**Ley Orgánica 7/2021**, que el Anexo 2 no cita en ningún punto.
+
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al
 lado. No se clasifica por palabras clave, y no por comodidad: las preguntas del

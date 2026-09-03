@@ -15,6 +15,7 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `herramientas/boe.py` | Lector de legislación consolidada del BOE. |
 | `herramientas/doue.py` | Lector de normas de la Unión Europea publicadas por el BOE, con sus correcciones de errores. El texto no está consolidado, y lo dice. |
 | `herramientas/refutar_*.py` | Las cuatro lentes de refutación: exactitud, modo verbal y salvedades, prosa, y contraste contra documento sin articulado. |
+| `herramientas/despintar.py` | Quita la negrita a lo que no es cita literal de ninguna fuente, o la rebaja a cursiva con `--cursiva`. La negrita es una promesa de literalidad; ésta retira las que el texto no cumple. |
 | `herramientas/indice.py` | Genera la **portada** y el **índice** de cada tema, y comprueba que las rutas que citan existen. Se vuelve a pasar cuantas veces haga falta. |
 | `herramientas/boe_buscar.py` | Busca una norma por su título en el BOE. Manda las casillas de sección, sin las cuales el buscador contesta «no se han encontrado documentos» y una búsqueda con respuesta se anota como camino cerrado. |
 | `herramientas/libro.py` | Arma **cada bloque en un volumen imprimible**: ficha, cuerpo, esquema y preguntas reales de cada tema, y las respuestas al final, con los avisos de plantilla y de enunciado. Los bloques están en `BLOQUES`, uno por entrada. |

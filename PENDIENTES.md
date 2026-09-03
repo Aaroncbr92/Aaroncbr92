@@ -388,3 +388,69 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 - **Gravedad**: induce a error si se estudia la cifra de memoria. **Es la primera vez en el
   proyecto que una fuente estadística, y no una norma, discute una respuesta oficial**: las tres
   erratas de plantilla anotadas más arriba son todas de derecho.
+
+---
+
+## La respuesta oficial que define un indicador por lo contrario de lo que es — abierto y cerrado el 2026-09-03
+
+- **Dónde**: banco `gestion-19`, pregunta 32 del cuadernillo `15_preguntas_gestion`, y el epígrafe
+  6 del tema 19 del específico de **Gestión**.
+- **Qué dice la plantilla**: el indicador del resultado de explotación **«sin tener en cuenta
+  justamente los intereses y los costes financieros»** es el **BAI**.
+- **Qué dice la fuente**: el **modelo normal de cuenta de pérdidas y ganancias** del Plan General de
+  Contabilidad —Real Decreto 1514/2007, tercera parte— construye ese escalón como
+  **«A.3) RESULTADO ANTES DE IMPUESTOS (A.1+A.2)»**, donde **A.1)** es el **«RESULTADO DE
+  EXPLOTACIÓN»** y **A.2)** el **«RESULTADO FINANCIERO (12+13+14+15+16)»**, cuya partida 13 es
+  literalmente **«Gastos financieros»**. El BAI es, por definición del modelo, **el escalón
+  inmediatamente posterior a restar los intereses**: es el único de las cuatro opciones que **sí**
+  los computa.
+- **Qué se ha hecho**: se aplicó el apartado 5 del manual —*el que detecta se equivoca*— y la
+  sospecha **se sostuvo**, con la particularidad de que la refutación **no necesita doctrina**: la
+  contradicción está dentro del propio modelo normalizado.
+- **Cuál es la respuesta**: el nombre exacto de lo que el enunciado describe es **BAII**, o *EBIT*,
+  y **no estaba entre las opciones**. De las cuatro ofrecidas, la única que se sitúa por encima de
+  los intereses en la escalera de resultados es el **EBITDA**, la **b)**, y es la que hay que
+  marcar. El *margen bruto* se queda por encima del resultado de explotación y *«Resultado Viable»*
+  no existe.
+- **Decisión**: el tema enseña la escalera completa y marca la pregunta; el volumen la avisa debajo
+  de la tabla de respuestas.
+- **Gravedad**: **cambia la respuesta**. Es la **octava errata de plantilla** del proyecto y la
+  primera que se refuta con un **modelo normalizado de cuentas anuales** en lugar de con un
+  artículo.
+
+---
+
+## Una pregunta cuyas cuatro opciones no responden a su enunciado — abierto y cerrado el 2026-09-03
+
+- **Dónde**: banco `gestion-08`, pregunta 83 del cuadernillo `15_preguntas_gestion`, y el epígrafe
+  de régimen disciplinario del tema 8 del específico de **Gestión**.
+- **Qué pregunta**: el plazo de prescripción de las faltas **muy graves**.
+- **Qué ofrecen sus opciones**: plazos referidos a la **publicación en el BOE**, ajenos al
+  artículo 60 del Estatuto de los Trabajadores.
+- **Qué dice la fuente**: **artículo 60.2 del Estatuto**, **sesenta días** desde que la empresa
+  conoce la falta y **seis meses** desde que se cometió. Los **veinte días** de la respuesta oficial
+  son el plazo de las faltas **graves**. Comprobado además en el **III Convenio Colectivo de la
+  Corporación RTVE**, que dice lo mismo.
+- **Qué se ha hecho para descartar un error propio**: se volvió a leer **la página del cuadernillo
+  escaneado** por si la transcripción hubiera perdido texto. No lo había perdido: el enunciado es
+  el que es.
+- **Decisión**: no se marca como errata de plantilla sino como **enunciado roto**, que es distinto:
+  aquí no hay una opción correcta que la plantilla haya errado; **no hay ninguna**. El tema lo dice
+  y el volumen lo avisa.
+- **Gravedad**: **cambia la respuesta**, y es incorregible marcando otra opción.
+
+---
+
+## Dos preguntas que examinan de una ley que su propio anexo no cita — abierto el 2026-09-03
+
+- **Dónde**: cuadernillo `15_preguntas_gestion`, preguntas **nº 6** y **nº 89**.
+- **Qué pasa**: las dos se contestan con la **Ley Orgánica 7/2021**, y el **Anexo 2 de Gestión no
+  la cita en ninguno de sus treinta y un puntos**.
+- **Por qué se anota y no se corrige**: **no es una errata**. Las dos preguntas tienen respuesta
+  correcta y la plantilla la da bien. Lo que falla es la correspondencia entre el programa y el
+  examen, que no es cosa del temario sino de quien lo redactó.
+- **Qué se hace mientras tanto**: se deja constancia aquí y en el informe de cobertura del bloque.
+  **No se amplía el temario con una ley que el anexo no manda estudiar**, porque eso sería
+  sustituir al examinador; pero el opositor merece saber que ocurrió.
+- **Gravedad**: menor para el temario, **relevante para quien se examine**. Es el tercer caso del
+  proyecto en que el examen se sale de su propio programa.

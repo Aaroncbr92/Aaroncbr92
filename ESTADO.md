@@ -4,16 +4,19 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-02
+**Última actualización:** 2026-09-03
 
 ## Qué es esto
 
-Tres temarios de oposición de RTVE, por ocupación tipo: **Producción
-(Asistencia)**, **Documentación** e **Información y Contenidos**. El programa
-sale del ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
+Cinco temarios de oposición de RTVE, por ocupación tipo: **Producción
+(Asistencia)**, **Documentación**, **Información y Contenidos**, **Gestión
+Administrativa** y **Gestión**. El programa sale del ANEXO 2 de las bases,
+transcrito literal en `convocatoria/`.
 
-Los tres comparten el mismo temario general y el mismo tema de prevención de
-riesgos laborales, así que son **42 cuerpos de tema**, no 60. El reparto y el
+Los cinco comparten el mismo temario general —**comprobado byte a byte**: los
+2.029 caracteres del bloque común son idénticos en los cinco anexos— y las tres
+ocupaciones que tienen bloque específico con tema de prevención comparten
+también ese tema. Por eso son **85 cuerpos de tema**, no 116. El reparto y el
 orden están en `PLAN.md`.
 
 **Convocatoria identificada**: son los anexos 2 de las **bases específicas de la
@@ -601,11 +604,29 @@ en Documentación y en Producción (Asistencia).
       **Lo que sigue abierto** está listado en `fuentes/normas-tecnicas/README.md`: la EBU/UER, el
       texto de la AES10 y las fichas de Sony y DJI sin probar con la regla nueva.
 - [x] **Un volumen imprimible por bloque.** `herramientas/libro.py` ya no lleva la lista de temas
-      escrita en el código: la lleva `BLOQUES`, una entrada por bloque, y los tres específicos se
-      dieron de alta ahí sin tocar el armazón. Salen **cuatro volúmenes** —general **254**
-      páginas, Producción (Asistencia) **257**, Documentación **131** e Información y Contenidos
-      **189**—, cada uno en PDF, Word y HTML. Los tres específicos **cierran con el tema de
-      prevención**, que es el mismo fichero en los tres.
+      escrita en el código: la lleva `BLOQUES`, una entrada por bloque, y los específicos se dan
+      de alta ahí sin tocar el armazón. Salen **seis volúmenes**, cada uno en PDF, Word y HTML:
+
+      | Volumen | Temas | Preguntas | Páginas |
+      |---|---:|---:|---:|
+      | `libro-general` | 8 | 487 | **255** |
+      | `libro-produccion` | 18 | 154 | **257** |
+      | `libro-documentacion` | 7 | 113 | **131** |
+      | `libro-informacion` | 11 | 209 | **189** |
+      | `libro-gestion-administrativa` | 13 | 106 | **157** |
+      | `libro-gestion` | 31 | 112 | **297** |
+
+      Los específicos **cierran con el tema de prevención**, que es **el mismo fichero** en los
+      tres que lo tienen.
+
+- [x] **Fase C: las dos ocupaciones nuevas, terminadas el 2026-09-03.** **Gestión Administrativa**,
+      12 temas propios más el de prevención, con 75 preguntas reales de su cuadernillo de enero de
+      2025 y **cuatro erratas de plantilla** documentadas. **Gestión**, 30 temas propios más el de
+      prevención, con 81 preguntas de su cuadernillo de 2024, **una errata de plantilla** —la
+      pregunta 32— y **una pregunta rota** —la 83—. Es el temario más largo del proyecto y el más
+      entrelazado con el resto: su punto 9 es la protección de datos, su 27 el proceso de
+      producción en televisión y sus puntos 11 a 16 comparten el Plan General de Contabilidad con
+      Gestión Administrativa.
 
 ## Qué comprobación pasa por qué material
 
@@ -1062,3 +1083,56 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   poco y lo nuevo es de la familia ya declarada en sus informes —rótulos y énfasis del propio tema—.
   Es la tercera vez que el apartado 10 del manual acierta: **una comprobación que devuelve cero no
   dice que esté limpio, dice que no ha mirado**.
+
+- **2026-09-03 · Un cero de una lente que no era del tema, sino de la forma de la norma.** El tema
+  15 de Gestión devolvió **«0 negritas comprobadas»** contra el Plan General de Contabilidad. En el
+  caso anterior —el tema 5 de este mismo bloque— la culpa había sido de la redacción, que citaba los
+  artículos en los títulos de epígrafe; aquí no. **La culpa era de la norma**: el Plan **no está
+  articulado**. Su contenido vive en un Marco Conceptual, unas normas numeradas «5.ª» y «6.ª», un
+  cuadro de cuentas y unas definiciones. **No hay «Artículo N» donde anclar un bloque.**
+  **La regla que queda**: antes de leer un cero, hay que preguntarse **si la fuente es articulada**.
+  Si no lo es, el cero no dice «impecable»: dice **«lente equivocada»**, y la que sirve es la de
+  documento.
+  Y un segundo cero, de otra familia: el Código de Comercio titula sus preceptos **«Art. 34»** y no
+  «Artículo 34», así que la lente de exactitud **no reconocía ni uno** de sus artículos. Corregido
+  el patrón, los temas que se apoyan en él vuelven a comprobarse.
+
+- **2026-09-03 · Tres herramientas aprendieron algo escribiendo treinta temas seguidos.**
+  **`despintar.py` gana el modo `--cursiva`**: en vez de borrar la marca de las negritas no
+  literales, las **rebaja a cursiva**, que es lo que la convención reserva para los rótulos propios.
+  En un punto de doctrina como el 17 eso son sesenta y tres marcas que dejan de ser una promesa
+  incumplida y pasan a ser lo que siempre fueron.
+  **`refutar_modo.py` avisa de las colisiones de numeración.** Juntar los textos de todas las
+  fuentes evita comparar contra la norma equivocada, pero abre el fallo simétrico: si dos fuentes
+  numeran igual un artículo, **la salvedad de una se le reclama al bloque de la otra** y sale un
+  hallazgo inventado. Pasó con el artículo 2 de la Ley 13/2022 y el del III Convenio. Ahora lo
+  avisa, y sólo de los números que el tema usa.
+  **`refutar_prosa.py` deja de confundir funciones con siglas.** Un tema de hoja de cálculo tiene
+  `BUSCARV`, `SUMAR.SI` y `#¡DIV/0!` a docenas, y todos van en mayúsculas. Ignora lo que va entre
+  acentos graves y reconoce como llamada un nombre con paréntesis pegado —que es como aparece dentro
+  de una cita literal, donde no se pueden poner acentos graves sin tocar la cita—. Sin esas dos
+  salvedades, los avisos buenos quedaban enterrados bajo decenas de falsos.
+
+- **2026-09-03 · Una errata que se refuta con un modelo de cuentas y no con un artículo.** La
+  pregunta 32 de Gestión pide el indicador que **ignora** los intereses y la plantilla responde
+  **BAI**, que es el único de las cuatro opciones que **sí los computa**. No hace falta doctrina
+  para desmontarlo: **el propio modelo normal de cuenta de pérdidas y ganancias** del Plan lo define
+  como **A.1 + A.2**, y A.2 es el resultado financiero, cuya partida 13 son los gastos financieros.
+  Es la **octava errata de plantilla** del proyecto y la primera refutada con un **modelo
+  normalizado** en lugar de con un precepto.
+  **Y un error propio, cazado antes de publicarlo.** El tema del IVA anotaba una errata del Anexo 2
+  por citar el BOE «de 29/12/2022». Comprobadas las bases, **el anexo dice 29/12/1992** y el error
+  era de la transcripción del tema. Apartado 5 del manual: **el que detecta se equivoca**, y se
+  comprueba antes de acusar.
+
+- **2026-09-03 · Un temario que pregunta por normas que su propio anexo no enumera.** Las siete
+  preguntas del punto 24 de Gestión —la nómina, el punto con más peso del temario— se reparten entre
+  **cuatro normas**, y el enunciado del anexo **no cita ninguna**. Dos de ellas —la **Ley 22/2021**
+  de Presupuestos y el **Reglamento del IRPF**— **no aparecen en ningún punto del Anexo 2**, y sin
+  embargo el examen preguntó por las dos: el tipo de desempleo sale de la primera y la periodicidad
+  del certificado de retenciones, de la segunda.
+  **Qué se ha hecho**: añadir las dos como fuente y decirlo en la trazabilidad del tema. De la Ley
+  de Presupuestos **se vuelca un solo precepto**, el artículo 106, porque la ley entera pasa de las
+  mil páginas y el resto no es materia de nadie; y su identificador en la API resultó ser `a1-18` y
+  no `a106`, que es el apartado 2.3 del manual en estado puro: **los identificadores se resuelven
+  contra el índice real, nunca por analogía**.
