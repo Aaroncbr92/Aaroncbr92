@@ -3,6 +3,9 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[oficio]` = organización y dotación de un
 estudio, declarada como tal en el tema · `[uso]` = plantilla oficial, **sin verificar en la fuente**.
 
+**Siglas**: la unidad de control de cámara (**CCU**); el diodo emisor de luz
+(**LED**).
+
 **Cabecera.** Enunciado: «EL ESTUDIO DE TELEVISION. Dotación y tipología» · **1 sola pregunta**, y
 sobre un programa de automatización · **descansa SÓLO en la plantilla**: la documentación del
 fabricante de CuePilot **no se ha consultado**.

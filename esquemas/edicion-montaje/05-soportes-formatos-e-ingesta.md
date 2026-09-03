@@ -3,6 +3,16 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio · `[plan]` = plantilla
 oficial, **sin documentación de fabricante que la contraste**.
 
+**Siglas**: el formato avanzado de autoría (**AAF**, *advanced authoring format*);
+los contenedores de Apple (**MOV**), de la familia MPEG (**MP4**) y de Microsoft (**AVI**), y el
+contenedor libre **OGG**; el formato gráfico de intercambio (**GIF**), el mapa de bits (**BMP**),
+los gráficos de red portátiles (**PNG**) y el formato del grupo conjunto de expertos en fotografía
+(**JPEG**); la lista de decisión de edición (**EDL**, *edit decision list*); el formato de emisión
+**IMX**; la cinta lineal abierta (**LTO**, *linear tape open*); el formato de intercambio de
+material (**MXF**, *material exchange format*), con sus perfiles operacionales **Op1a** y
+**Op1b-Atom**; la modulación por impulsos codificados (**PCM**, *pulse-code modulation*); el disco
+profesional de esa misma casa (**XDCAM**); el lenguaje de marcado extensible (**XML**).
+
 **Cabecera.** Enunciado: «2.2. Soportes y formatos · 2.4. Documentación y catalogación de ficheros ·
 4.1 a 4.4. Equipos y soportes de grabación, disco óptico y disco duro, ingesta, encapsulado» · **8
 preguntas** · **CINCO descansan sólo en la plantilla**: es el punto con más afirmaciones de quinto

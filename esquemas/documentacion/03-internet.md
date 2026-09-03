@@ -1,9 +1,17 @@
 # Esquema · Tema 3 del específico de Documentación · Internet
 
+**Siglas**: la unión europea de radiodifusión, que la especificación nombra con sus siglas inglesas
+(**EBU**); la unión internacional de telecomunicaciones, que la especificación también nombra en
+inglés (**ITU**); y el marco de descripción de recursos (**RDF**).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[RD635]` = Real Decreto 635/2015, depósito
 legal en línea · `[STC27]` = Sentencia 27/2020 del Tribunal Constitucional · `[EBU]` = EBU Tech 3293,
 EBUCore v1.10 · `[W3C]` = documentación de RDF del consorcio de la web · `[Google]` y `[DDG]` =
 ayuda de los propios buscadores · `[uso]` = plantilla oficial, **sin documento**.
+
+**Siglas**: conjunto de metadatos de la unión europea de radiodifusión, que se
+nombra con sus siglas inglesas (**EBU**); protocolo de transferencia de hipertexto (**HTTP**); marco
+de descripción de recursos (**RDF**); lenguaje de marcado extensible (**XML**).
 
 **Cabecera.** **8 preguntas** · **6 verificadas en documento** —dos en el BOE, una en la Unión
 Europea de Radiodifusión, una en el W3C y dos en la ayuda de los buscadores— · **2 sólo con

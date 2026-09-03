@@ -3,6 +3,8 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio audiovisual asentado ·
 `[plan]` = plantilla oficial, **porque la pregunta depende de una imagen**.
 
+**Siglas**: plano corto (**PC**); el plano general (**PG**).
+
 **Cabecera.** Enunciado: «5. Lenguaje audiovisual», con sus cinco subpuntos —composición · movimientos
 de cámara y ópticos · continuidad, raccord, eje, secuencias · coordinación con realización y guion
 técnico · realización a una cámara y multicámara— · **12 preguntas** · **once de las doce se contestan

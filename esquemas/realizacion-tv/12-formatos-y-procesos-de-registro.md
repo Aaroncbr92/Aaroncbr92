@@ -1,7 +1,28 @@
 # Esquema · Tema 12 del específico de Realización Televisión · Formatos y procesos de registro
 
+**Siglas**: tres contenedores de fichero y un formato de audio (**AVI**, **MOV**, **MKV** y
+**WAV**), **que el tema nombra por su extensión y no desarrolla**; y la difusión de vídeo digital
+terrestre de segunda generación (**DVB-T2**), **cuyas cifras de ancho de banda el temario no ha
+podido contrastar**.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y tecnología de la señal ·
 `[plan]` = plantilla oficial.
+
+**Siglas**: los contenedores **MP4**, **AVI**, **MOV** y **MKV**, y el formato de
+audio **WAV**; el conector *Bayonet Neill-Concelman* (**BNC**), el conector de audio profesional
+(**XLR**, que la industria llama también **Canon** por su fabricante original), el conector de vídeo
+para monitores (**VGA**) y el conector de audio de clavija (***jack***); la transformada discreta
+del coseno (**DCT**, *discrete cosine transform*); la ultra alta definición (**UHD** o **UHDV**,
+como la escribe un enunciado) y la alta definición (**HD**, y **HDTV** referida a la televisión); el
+código de tiempo (**TC**), en su forma longitudinal (**LTC**, *longitudinal time code*) y en su
+forma vertical (**VITC**); el formato de intercambio de material (**MXF**); la línea nacional
+norteamericana (**NTSC**) y la línea alternada en fase (**PAL**); el conjunto redundante de discos
+independientes (**RAID**); el programa de plan de cámaras **CuePilot**, que es una marca. Y unas
+cuantas siglas más que sólo salen como opción falsa o como término suelto: el formato de audio de
+intercambio (**AIFF**), la Unión Internacional de Telecomunicaciones (**UIT**), las dos modalidades
+de código de tiempo inventadas por otro cuadernillo de este mismo proceso (**FD** y **FF**) y la
+tarjeta que este examen inventa (**SWS**), que tampoco existe; las tarjetas **SxS** y **P2** y el
+disco **XDCAM**.
 
 **Cabecera.** Enunciado: «3.2. Formatos y Procesos de registro, captación y reproducción de imagen.
 Tipos de archivo» · **18 preguntas: cuarto banco de la ocupación, empatado con el sonido** · **el punto más técnico de la ocupación y el que más se contesta

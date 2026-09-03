@@ -3,6 +3,8 @@
 Telegrama. **Todo en este tema es** `[uso]`: plantilla oficial y uso profesional. **Es, con el del
 guion, uno de los dos temas del bloque sin ninguna fuente normativa.**
 
+**Siglas**: la técnica de evaluación y revisión de programas (**PERT**).
+
 **Cabecera.** Enunciado **sin norma**: «ORGANIZACIÓN DE LA PRODUCCIÓN, PLAN DE TRABAJO Y ORDEN DE
 TRABAJO» · **4 preguntas**, **las cuatro sólo con la plantilla**. De los seis documentos que maneja,
 **cinco no aparecen ni una vez** en todo el corpus.

@@ -2,6 +2,11 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el Estatuto de los Trabajadores (**ET**), la Ley General de la
+Seguridad Social (**LGSS**), el Impuesto sobre la Renta de las Personas Físicas (**IRPF**), el
+salario mínimo interprofesional (**SMI**), el Boletín Oficial del Estado (**BOE**), el real decreto
+(**RD**) y el real decreto legislativo (**RDLeg**).
+
 <!-- indice -->
 
 ## Índice

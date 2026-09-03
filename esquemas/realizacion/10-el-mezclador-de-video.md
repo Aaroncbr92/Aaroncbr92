@@ -2,6 +2,11 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: la composición posterior (**DSK**, del inglés *downstream keyer*) y su
+pareja anterior (**USK**, del inglés *upstream keyer*); la propia marca **EVS**, que da nombre al
+servidor de repeticiones; la interfaz de propósito general (**GPI**, del inglés *general purpose
+interface*).
+
 *Aviso de vocabulario: el manual de Blackmagic dice «composición» donde el examen dice «llave», y
 «nivel» donde dice «clip».*
 

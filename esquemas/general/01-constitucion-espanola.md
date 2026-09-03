@@ -1,5 +1,7 @@
 # Esquema · Tema 1 del general · Constitución Española de 1978
 
+**Siglas**: el Consejo General del Poder Judicial (**CGPJ**).
+
 Esqueleto, no resumen. Telegrama, con el artículo delante de cada línea. Se quita
 explicación, nunca el dato normativo: plazos, mayorías, cifras y salvedades están
 todos. Redacción **vigente a 21/12/2022**.

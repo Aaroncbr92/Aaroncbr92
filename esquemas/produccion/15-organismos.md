@@ -1,9 +1,19 @@
 # Esquema · Tema 15 del específico de Producción · Organismos nacionales e internacionales
 
+**Siglas**: Artistas Intérpretes, Sociedad de Gestión (**AISGE**); la Comisión Nacional de los
+Mercados y la Competencia (**CNMC**); la Sociedad General de Autores y Editores (**SGAE**); la Unión
+de Televisiones Comerciales en Abierto (**UTECA**); el comité técnico conjunto de radiodifusión
+(**JTC** Broadcast, *joint technical committee*); y **DMAX**, que es el nombre comercial de un canal
+de televisión y no unas siglas.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[LGCA]` = Ley 13/2022, General de Comunicación
 Audiovisual, artículos 22 y 23 · `[conv]` = III Convenio colectivo de la Corporación RTVE ·
-`[ETSI]` = norma europea EN 300 744, redactada con la EBU · `[inst]` = documentación institucional
-—FORTA, Academia de Televisión, CIMA, DAMA—, leída el 03/09/2026.
+`[ETSI]` = norma europea EN 300 744, redactada con la Unión Europea de Radiodifusión (**UER**, o
+**EBU** en su sigla inglesa) · `[inst]` = documentación institucional —la Federación de Organismos o
+Entidades de Radio y Televisión Autonómicos (**FORTA**), la Academia de Televisión, la Asociación de
+Mujeres Cineastas y de Medios Audiovisuales (**CIMA**) y Derechos de Autor de Medios Audiovisuales
+(**DAMA**)—, leída el 03/09/2026. **Y una sigla más, que sale como opción falsa del examen**:
+**ACTV**, cuya forma larga este esquema no da porque no la ha verificado.
 
 **Cabecera.** Enunciado **sin norma**: «ORGANISMOS NACIONALES E INTERNACIONALES DE TELEVISIÓN» ·
 **5 preguntas** · **NINGUNA descansa sólo en la plantilla**: las cinco se contestan con documento.

@@ -1,9 +1,17 @@
 # Esquema · Tema 13 del específico de Producción (Asistencia) · Equipos técnicos de exteriores
 
+**Siglas**: la autoridad aeronáutica española (**AESA**); los sistemas de aeronave no tripulada
+(**UAS**), como los llama el Reglamento (UE) 2019/947; y **PXW** y **ZV**, que son designaciones de
+familia de producto de un fabricante y **no siglas que este esquema desarrolle**.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[947]` = Reglamento (UE) 2019/947, aeronaves
 no tripuladas · `[SERA]` = reglamento del aire, Reglamento (UE) 923/2012 · `[1036]` = Real Decreto
 1036/2017 · `[AIP]` = AIP España, ENR 5.1, de ENAIRE · `[ficha]` = lista y ficha de DJI, leídas el
 02/09/2026 · `[uso]` = plantilla oficial, **sin norma leída**.
+
+**Siglas**: el gestor aeroportuario (**AENA**); la agencia de la Unión para la
+seguridad aérea (**EASA**); la etiqueta de zona que el examen pregunta (**LED**); la sociedad
+estatal de servicios y estudios para la navegación aérea (**SENASA**).
 
 **Cabecera.** Enunciado **sin norma**: «EQUIPOS TÉCNICOS DE EXTERIORES» · **7 preguntas** ·
 **3 con norma, publicación oficial o ficha detrás** —las del dron y el estabilizador— y **4 sólo

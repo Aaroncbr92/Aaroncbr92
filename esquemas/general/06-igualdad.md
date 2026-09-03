@@ -1,5 +1,8 @@
 # Tema 6 · Igualdad en RTVE
 
+**Siglas**: la Organización de las Naciones Unidas (**ONU**); la Real Academia Española (**RAE**); y
+el Servicio Interconfederal de Mediación y Arbitraje (**SIMA**).
+
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->

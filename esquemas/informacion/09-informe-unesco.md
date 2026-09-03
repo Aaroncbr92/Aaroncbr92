@@ -3,6 +3,11 @@
 Telegrama. `[sitio]` = sitio oficial del informe, publicado por la UNESCO · `[día]` = página oficial
 del Día Mundial de la Libertad de Prensa · `[uso]` = **plantilla oficial, sin documento**.
 
+**Siglas**: la Organización de las Naciones Unidas para la Educación, la Ciencia y
+la Cultura (**UNESCO**), la Organización de las Naciones Unidas (**ONU**), la enfermedad por
+coronavirus de 2019 (**COVID-19**), los Objetivos de Desarrollo Sostenible (**ODS**) y el Día
+Mundial de la Libertad de Prensa (**DMLP**, como se abrevia a veces.
+
 **Cabecera.** **5 preguntas**. **3 con documento** —una **en parte**— y **2 con plantilla**. **Es el
 único de los siete documentos del Anexo 2 que no se descarga**: la biblioteca digital de la UNESCO
 responde 403 con un desafío de JavaScript, y se probaron **cinco rutas**.

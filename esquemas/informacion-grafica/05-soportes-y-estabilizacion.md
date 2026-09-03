@@ -1,5 +1,8 @@
 # Esquema · Tema 5 del específico de Información Gráfica y Captación de Imagen y Sonido · Soportes de cámara y estabilización
 
+**Siglas y marcas**: el mando de barra del operador remoto (**JDR Pan Bar**) **es una marca y no
+unas siglas desarrollables**, y así lo dice el tema.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, vocabulario asentado de
 soportes y estabilización.
 

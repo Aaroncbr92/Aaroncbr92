@@ -2,6 +2,8 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el diodo emisor de luz (**LED**).
+
 <!-- indice -->
 
 ## Índice

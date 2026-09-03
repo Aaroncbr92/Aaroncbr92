@@ -3,6 +3,11 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, fotometría y colorimetría
 aplicadas.
 
+**Siglas**: la corrección hacia naranja (**CTO**, *color temperature orange*) y
+hacia azul (**CTB**, *color temperature blue*); la corrección hacia naranja (**CTO**, *color
+temperature orange*); la captación electrónica de noticias (**ENG**); la producción electrónica
+ligera (**PEL**, como la abrevia el propio anexo del temario).
+
 **Cabecera.** Enunciado: «3.7. Iluminación: equipamiento para ENG y Producción ligera PEL · 4.3.
 Iluminación ENG: selección, colocación, medición y ajustes» · **7 preguntas** · **DOS son CÁLCULO** ·
 **ninguna descansa sólo en la plantilla**.

@@ -1,8 +1,18 @@
 # Esquema · Tema 2 del específico de Edición, Montaje y Procesos Audiovisuales · Colorimetría y el color en televisión
 
+**Siglas**: la Unión Internacional de Telecomunicaciones (**UIT**).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[709]` = Recomendación UIT-R BT.709-6 ·
 `[2020]` = Recomendación UIT-R BT.2020-2 · `[2100]` = Recomendación UIT-R BT.2100-1 · `[of]` =
 oficio, sin norma detrás.
+
+**Siglas**: la Comisión Internacional de la Iluminación (**CIE**); el alto rango
+dinámico (**HDR**, *high dynamic range*), con su curva híbrida logarítmica-gamma (**HLG**, *hybrid
+log-gamma*), y el rango dinámico estándar (**SDR**); la luminancia constante (**CL**, *constant
+luminance*) y la no constante (**NCL**, que el examen escribe **NFL**); los tres primarios rojo,
+verde y azul (**RGB**); la Unión Internacional de Telecomunicaciones (**UIT**), cuyo sector de
+radiocomunicaciones (**UIT-R**) publica las recomendaciones **BT.709**, **BT.2020** y **BT.2100**;
+la Unión Internacional de Telecomunicaciones (**UIT**).
 
 **Cabecera.** Enunciado: «1.3. Conceptos básicos de colorimetría» · **10 preguntas de UN SOLO
 SUBPUNTO** · **el anexo le dedica una frase y el examen diez preguntas** · **ninguna descansa sólo en

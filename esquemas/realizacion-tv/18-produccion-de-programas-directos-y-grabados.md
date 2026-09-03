@@ -4,6 +4,17 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = Boletín Ofic
 literal · `[inst]` = documentación institucional · `[fab]` = ficha técnica del fabricante · `[of]` =
 oficio de retransmisión · `[plan]` = plantilla oficial.
 
+**Siglas**: la corporación británica de radiodifusión (**BBC**); el enlace vía
+satélite en unidad ligera (**DSNG**, *digital satellite news gathering*); el equipo ligero de
+reportaje electrónico (**ENG**, *electronic news gathering*); la casa de servidores de repetición
+cuyo nombre se usa como nombre común (**EVS**); la Federación de Organismos o Entidades de Radio y
+Televisión Autonómicos (**FORTA**); el centro internacional de radiodifusión de un gran evento
+(**IBC**, *international broadcast centre*); el retorno de audio interrumpible que lleva un
+presentador en el oído (**IFB**, *interruptible foldback*); el protocolo de red sobre el que hoy
+viaja casi todo (**IP**, *internet protocol*); la red de área local por cable (**LAN**, *local area
+network*); los servicios de radiodifusión olímpicos (**OBS**, *Olympic Broadcasting Services*); el
+módulo de identificación del abonado de un móvil (**SIM**).
+
 **Cabecera.** Enunciado: «4.6. Producción de programas directos y grabados. Fases. El estudio:
 Controles, Plató, UUMM. ENG. La retransmisión, Enlaces. Transmisión IP. Gestión de pantallas. Grafismo,
 realidad aumentada, decorados virtuales. Generador de caracteres» · **23 preguntas: EL BANCO MÁS GRANDE

@@ -1,11 +1,19 @@
 # Esquema · Tema 11 del específico de Producción (Asistencia) · Medios de transmisión de señal
 
+**Siglas**: el periodismo electrónico digital por satélite (**DSNG**, *digital satellite news
+gathering*); la difusión de vídeo digital (**DVB**); la fibra hasta el edificio (**FTTB**), hasta la
+acometida (**FTTC**) y hasta la vivienda (**FTTH**); el protocolo de internet (**IP**); la órbita
+baja (**LEO**) y la media (**MEO**); la Sociedad de Ingenieros de Cine y Televisión (**SMPTE**); y
+la Unión Internacional de Telecomunicaciones (**UIT**).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[LGT]` = Ley 11/2022, General de
 Telecomunicaciones · `[TDT]` = Plan Técnico Nacional de la TDT, Real Decreto 391/2019 ·
 `[LGCA]` = Ley 13/2022, General de Comunicación Audiovisual · `[S.673]` = Recomendación UIT-R
 S.673-2 (03/2002) · `[SNG]` = Recomendación UIT-R SNG.770-2 (01/2012) · `[G.984]` = Recomendación
 UIT-T G.984.1 (03/2003) · `[SMPTE]` = índice oficial de la familia ST 2110 · `[ficha]` = ficha de
 LiveU, leída el 02/09/2026 · `[uso]` = plantilla oficial, **sin norma leída**.
+
+**Siglas**: la Unión Internacional de Telecomunicaciones (**UIT**).
 
 **Cabecera.** Enunciado **sin norma**: «MEDIOS DE TRANSMISIÓN DE SEÑAL, ENVIO DE IMÁGENES Y
 COMUNICACIONES» · **10 preguntas**, la **tercera materia** del bloque · **7 con fuente detrás**,

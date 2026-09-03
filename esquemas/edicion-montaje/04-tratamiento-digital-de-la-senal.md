@@ -1,8 +1,27 @@
 # Esquema · Tema 4 del específico de Edición, Montaje y Procesos Audiovisuales · Tratamiento digital de la señal de televisión
 
+**Siglas**: la Unión Internacional de Telecomunicaciones (**UIT**) y su serie de recomendaciones de
+radiodifusión de televisión (**BT**), de donde salen las **UIT-R BT** que el tema cita.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[2020]` = Recomendación UIT-R BT.2020-2 ·
 `[709]` = Recomendación UIT-R BT.709-6 · `[of]` = oficio · `[plan]` = plantilla oficial, **sin fuente
 por encima que la contraste**.
+
+**Siglas**: la codificación de vídeo de alta eficiencia (**HEVC**, conocida como
+**H.265**) y su predecesora **H.264**, también llamada **AVC**; el código de tiempo (**TC**, *time
+code*), con sus modalidades de salto de cuadro (**DF**, *drop frame*) y sin salto (**NDF**,
+*non-drop frame*), a las que el examen añade dos siglas inventadas, **FD** y **FF**; el formato de
+imagen de píxeles digitales (**DPX**) y los contenedores de Apple (**MOV**) y de la familia MPEG
+(**MP4**); el disco versátil digital (**DVD**); la alta definición (**HD**) y la ultra alta
+definición (**UHD**); el alto rango dinámico (**HDR**); la Unión Internacional de Telecomunicaciones
+en su nombre inglés (**ITU**), que es como la escribe una de las opciones del examen; el Grupo de
+Expertos en Imágenes en Movimiento (**MPEG**) y el Grupo Conjunto de Expertos en Fotografía
+(**JPEG**); el formato de intercambio de material (**MXF**, *material exchange format*); la línea
+alternada en fase (**PAL**) y la línea nacional norteamericana (**NTSC**); los tres primarios rojo,
+verde y azul (**RGB**); la Sociedad de Ingenieros de Cine y Televisión (**SMPTE**); la Unión
+Internacional de Telecomunicaciones (**UIT**), cuyo sector de radiocomunicaciones (**UIT-R**)
+publica las recomendaciones **BT.601**, **BT.709**, **BT.2020** y **BT.2100**; la Unión
+Internacional de Telecomunicaciones (**UIT**).
 
 **Cabecera.** Enunciado: «2. Tratamiento digital de la señal de televisión · 2.1. Normas de
 codificación, compresión y soporte · 2.3. Codificadores y sistemas de compresión» · **15 preguntas:

@@ -742,8 +742,10 @@ en Documentación y en Producción (Asistencia).
       **2)** La misma lente **nunca se había pasado a los esquemas**, y al pasarla devolvía 141
       ficheros con aviso, casi todos por su propio estilo de rótulos en mayúsculas. Se corrigió con
       tres salvedades —contrastar cada esquema contra su tema gemelo, descartar las mayúsculas que
-      el tema no nombra, y una lista de palabras castellanas—, y **quedan 107 esquemas con siglas
-      realmente sin presentar**, que es trabajo pendiente y así se anota.
+      el tema no nombra, y una lista de palabras castellanas—, y lo que quedó fueron **siglas de
+      verdad sin presentar en 105 esquemas**. **Se han presentado las 438**: 259 heredadas
+      literalmente del párrafo de siglas de su tema, 105 del cuerpo del tema con la extracción
+      revisada una a una, y 74 escritas a mano. **Los 207 temas y los 207 esquemas quedan a cero.**
       **3)** El fichero `banco/reclasificadas.tsv` mandaba la pregunta 96 de Técnica de Equipos **a
       dos destinos contradictorios**. Sobrevive el correcto: es materia del punto 20 de su
       específico, no del tema 8 del general.

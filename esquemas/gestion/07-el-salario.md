@@ -2,6 +2,10 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el Estatuto de los Trabajadores (**ET**), el salario mínimo
+interprofesional (**SMI**), el Boletín Oficial del Estado (**BOE**), el Fondo de Garantía Salarial
+(**FOGASA**), la Ley de Enjuiciamiento Civil (**LEC**) y el índice de precios de consumo (**IPC**).
+
 <!-- indice -->
 
 ## Índice

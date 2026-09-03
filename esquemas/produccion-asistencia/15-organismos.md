@@ -1,9 +1,17 @@
 # Esquema · Tema 15 del específico de Producción (Asistencia) · Organismos de televisión
 
+**Siglas**: la Unión Europea de Radiodifusión (**UER**) y la Unión Internacional de
+Telecomunicaciones, que el enunciado escribe con sus dos siglas (**ITU** en inglés y **UIT** en
+español).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[conv]` = III Convenio Colectivo de la
 Corporación RTVE · `[LGCA]` = Ley 13/2022, General de Comunicación Audiovisual · `[FORTA]` y
 `[UTECA]` = páginas de las dos federaciones, leídas el 02/09/2026 · `[uso]` = plantilla oficial,
 **sin verificar en la fuente**.
+
+**Siglas**: la Unión Europea de Radiodifusión en sus siglas inglesas (**EBU**); la
+red de intercambio de noticias (**ENEX**); la federación de las autonómicas (**FORTA**); la unión de
+las comerciales (**UTECA**).
 
 **Cabecera.** Enunciado **sin norma**: «ORGANISMOS NACIONALES E INTERNACIONALES DE TELEVISIÓN» ·
 **6 preguntas** · **tema partido en dos**: las **3 españolas** tienen documento o descarte; las **3

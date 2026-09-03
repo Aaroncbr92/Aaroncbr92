@@ -2,6 +2,9 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: la unidad de control de cámara (**CCU**, del inglés *camera control
+unit*).
+
 <!-- indice -->
 
 ## Índice

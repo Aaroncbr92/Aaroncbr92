@@ -3,6 +3,12 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, sin norma detrás ·
 `[plan]` = plantilla oficial de respuestas.
 
+**Siglas**: la unidad de control de cámara (**CCU**); la interrupción para retorno
+(**IFB**, del inglés *interruptible foldback* o *interruptible feedback*); el sistema de
+alimentación ininterrumpida (**SAI**); la Sociedad de Ingenieros de Cine y Televisión (**SMPTE**,
+del inglés *Society of Motion Picture and Television Engineers*), que da nombre al cable híbrido de
+fibra de las cámaras.
+
 **Cabecera.** Enunciado: «CONOCIMIENTO BÁSICO DE LAS INSTALACIONES DE TELEVISIÓN Y DE LAS UU.MM. ·
 1.1. Elementos que componen un estudio de televisión y una unidad móvil» · **2 preguntas.**
 

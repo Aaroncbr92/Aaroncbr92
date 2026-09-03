@@ -1,6 +1,13 @@
-# Esquema · Tema 10 del específico de Información y Contenidos · La Carta ética mundial de la FIP
+# Esquema · Tema 10 del específico de Información y Contenidos · La Carta ética mundial para periodistas de la Federación Internacional de Periodistas
+
+**Siglas**: la Federación Internacional de Periodistas (**FIP**) del título de este tema.
 
 Telegrama. **Todo sale de la propia carta**, que cabe en una página.
+
+**Siglas**: la Federación Internacional de Periodistas (**FIP**), la Organización
+de las Naciones Unidas (**ONU**), la Corporación de Radio y Televisión Española (**RTVE**) y el
+fichero de documento portátil (**PDF**), que es como la Federación publica la carta; la Federación
+Internacional de Periodistas (**FIP**).
 
 **Cabecera.** **Cero preguntas** en los dos cuadernillos, como el tema 5. **Dieciséis artículos, un
 preámbulo y una nota final**: unas **850 palabras**, y el tema las desarrolla todas. **No es una

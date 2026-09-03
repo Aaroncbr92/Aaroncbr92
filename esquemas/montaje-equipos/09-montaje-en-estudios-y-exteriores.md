@@ -1,10 +1,18 @@
 # Esquema · Tema 9 del específico de Montaje de Equipos Audiovisuales · Montaje de equipos en estudios y exteriores
 
+**Siglas**: la Unión Internacional de Telecomunicaciones (**UIT**).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[REBT]` = Real Decreto 842/2002, reglamento
 electrotécnico para baja tensión, con su **ITC-BT-24** · `[614]` = Real Decreto 614/2001, riesgo
 eléctrico · `[1215]` = Real Decreto 1215/1997, equipos de trabajo · `[BT.2020]` = Recomendación
 UIT-R BT.2020-2 · `[of]` = oficio · `[plan]` = plantilla oficial. **Todas las normas, en su redacción
 vigente al 21/12/2022.**
+
+**Siglas**: el conector de vídeo *Bayonet Neill-Concelman* (**BNC**); la alta
+definición (**HD**); el conector de fibra *Lucent Connector* (**LC**) y el de férula cuadrada
+*Subscriber Connector* (**SC**); la televisión de ultra alta definición (**UHD** o **TVUAD**, que es
+como la llama la Unión Internacional de Telecomunicaciones, la **UIT**); el conector de audio
+profesional de tres polos (**XLR**).
 
 **Cabecera.** Enunciado: «5. MONTAJE DE EQUIPOS AUDIOVISUALES EN ESTUDIOS Y EXTERIORES» con sus seis
 subpuntos · **13 preguntas: EL BANCO MÁS GRANDE DE ESTA OCUPACIÓN** · **siete de las trece son de

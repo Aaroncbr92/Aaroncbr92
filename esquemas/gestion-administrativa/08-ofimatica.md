@@ -2,6 +2,14 @@
 
 Esqueleto para repasar. Todo desarrollado en el tema.
 
+**Siglas**: unidad central de proceso (**CPU**), memoria de acceso aleatorio
+(**RAM**), memoria de sólo lectura (**ROM**), unidad de estado sólido (**SSD**), unidad de disco
+duro (**HDD**), sistema operativo (**SO**), entrada y salida (**E/S**), red de área local (**LAN**),
+copia de seguridad (*backup*), la Agencia Española de Protección de Datos (**AEPD**), el sistema de
+archivos de nueva tecnología (**NTFS**), la tabla de asignación de archivos (**FAT**, de donde salen
+**FAT32** y **exFAT**), el sistema de archivos de Apple (**APFS**), el disco compacto (**CD**), el
+disco versátil digital (**DVD**) y el servicio de mensajes cortos (**SMS**).
+
 <!-- indice -->
 
 ## Índice

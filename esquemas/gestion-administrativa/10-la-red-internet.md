@@ -2,6 +2,16 @@
 
 Esqueleto para repasar. Todo desarrollado en el tema.
 
+**Siglas**: protocolo de control de transmisión y protocolo de internet
+(**TCP/IP**), protocolo de transferencia de hipertexto (**HTTP**) y su versión segura (**HTTPS**),
+sistema de nombres de dominio (**DNS**), localizador uniforme de recursos (**URL**), protocolo de
+configuración dinámica de anfitrión (**DHCP**), protocolo de transferencia de ficheros (**FTP**),
+protocolo simple de transferencia de correo (**SMTP**), protocolo de oficina de correos (**POP3**),
+protocolo de acceso a mensajes de internet (**IMAP**), red de área local (**LAN**), red privada
+virtual (**VPN**), la Red Informática Mundial (**WWW**), seguridad de la capa de transporte
+(**TLS**), proveedor de acceso a internet (**ISP**), el protocolo de internet a secas (**IP**) y la
+transferencia segura de ficheros (**SFTP**).
+
 <!-- indice -->
 
 ## Índice

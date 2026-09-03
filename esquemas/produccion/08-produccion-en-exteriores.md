@@ -4,6 +4,11 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[UE 2019/947]` = Regla
 2019/947, sobre sistemas de aeronaves no tripuladas · `[oficio]` = práctica de producción, declarada
 como tal · `[uso]` = plantilla oficial, **sin verificar en la fuente**.
 
+**Siglas**: la Agencia Estatal de Seguridad Aérea (**AESA**); la masa máxima en
+despegue (**MTOM**, del inglés *maximum take-off mass*); el sistema de aeronave no tripulada
+(**UAS**, del inglés *unmanned aircraft system*), que es como el reglamento europeo llama al dron;
+la unidad móvil (**UM**, escrita **UU.MM.** en plural por el examen).
+
 **Cabecera.** Enunciado: «PRODUCCIÓN EN EXTERIORES. Localización/Permisos/Documentación en
 desplazamientos internacionales» · **5 preguntas** y **las tres rúbricas representadas**: dos de
 localización, dos de permisos, una de aduana · **es el punto que mejor reparte su banco** · **la 21

@@ -1,8 +1,16 @@
 # Esquema · Tema 6 del específico de Producción · Captación de imagen y sonido
 
+**Siglas y marcas**: dos sistemas de sonido envolvente (**THX** y **DTS**) **que el examen nombra
+por su marca**, y a los que este esquema no atribuye forma larga.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[oficio]` = óptica, sensores, soportes,
 microfonía y psicoacústica, declarados como tal en el tema · `[UIT]` = las resoluciones, que sí están
 normalizadas por el Sector de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones.
+
+**Siglas**: los sistemas de sonido envolvente **Dolby ProLogic**, **THX** y
+**DTS**, que el examen nombra por su marca; el alto rango dinámico (**HDR**, del inglés *high
+dynamic range*); el Grupo de Expertos en Imágenes en Movimiento (**MPEG**) y su formato de audio
+**MP3**.
 
 **Cabecera.** Enunciado **sin norma**: «CAPTACIÓN DE IMAGEN Y SONIDO» · **7 preguntas**, banco
 empatado con el tema 16 en el segundo puesto · **el punto más técnico del temario** · ninguna

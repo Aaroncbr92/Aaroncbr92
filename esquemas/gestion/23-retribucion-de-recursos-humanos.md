@@ -2,6 +2,10 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el Estatuto de los Trabajadores (**ET**), el salario mínimo
+interprofesional (**SMI**), los recursos humanos (**RRHH**), la valoración de puestos de trabajo
+(**VPT**), la retribución variable (**RV**) y el Boletín Oficial del Estado (**BOE**).
+
 <!-- indice -->
 
 ## Índice

@@ -3,6 +3,10 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y teoría del montaje · `[plan]` =
 plantilla oficial, **procedimientos de programa y una barra de herramientas.**
 
+**Siglas**: la lista de decisiones de edición (**EDL**, *edit decision list*); el
+sistema de repetición y servidores de directo cuyo nombre de casa se usa como nombre común
+(**EVS**); la inteligencia artificial (**IA**).
+
 **Cabecera.** Enunciado: «4.8. Postproducción. Teoría general del montaje. Edición. Efectos. Grafismo,
 infografía, imágenes en 2D y 3D» · **17 preguntas: sexto banco de la ocupación** · **la mezcla más
 desigual del proyecto**: **SIETE son teoría del cine y OCHO son manual de usuario.** **Se estudia como

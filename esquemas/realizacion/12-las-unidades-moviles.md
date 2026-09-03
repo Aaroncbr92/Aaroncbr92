@@ -2,6 +2,11 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el periodismo electrónico por satélite (**SNG**, del inglés *satellite
+news gathering*) y su versión digital (**DSNG**, del inglés *digital satellite news gathering*); la
+unidad móvil (**UM**) y la **pequeña unidad móvil** o unidad móvil ligera (**PEL**), que es la que
+el examen pregunta.
+
 <!-- indice -->
 
 ## Índice

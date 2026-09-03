@@ -1,9 +1,23 @@
 # Esquema · Tema 5 del específico de Documentación · Centros de documentación audiovisual
 
+**Siglas**: la sociedad de ingenieros de cine y televisión (**SMPTE**) y la unión europea de
+radiodifusión, que se escribe con siglas inglesas (**EBU**) y con siglas españolas (**UER**).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[377-1]` = SMPTE ST 377-1:2019 · `[3285]` =
 EBU Tech 3285 v2.0 · `[319]` = norma ECMA-319 · `[IASA]` = IASA-TC 03, 4.ª ed. · `[LoC]` = Biblioteca
 del Congreso de los Estados Unidos · `[Dalet]` = página del fabricante · `[RTVE]` = artículo de la
 responsable del Fondo Documental · `[CE]` = portal audiovisual de la Comisión Europea.
+
+**Siglas**: codificación de audio avanzada (**AAC**); el gestor documental nuevo
+de RTVE (**ARCA**, que su propia fuente sí desarrolla: «Archivo y Recuperación de Contenidos
+Audiovisuales»); formato de onda de radiodifusión (**BWF**); las tres familias de gestión de
+activos: de medios (**MAM**), de producción (**PAM**) y digitales (**DAM**); servicio europeo de
+radiodifusión de la Unión Europea (**EBS**); la unión europea de radiodifusión, que se escribe con
+siglas inglesas (**EBU**) y con siglas españolas (**UER**); la organización internacional de
+normalización (**ISO**); cinta lineal abierta (**LTO**); el formato de intercambio de material
+(**MXF**); modulación por impulsos codificados (**PCM**); gestor documental antiguo de RTVE
+(**SIRTEX**); sociedad de ingenieros de cine y televisión (**SMPTE**); tratado de la Unión Europea
+(**TUE**).
 
 **Cabecera.** **10 preguntas** · **las 10 verificadas en documento**. **Es el único tema del bloque
 sin ninguna respuesta apoyada sólo en la plantilla.** A cambio, **ninguna fuente está en el BOE**.

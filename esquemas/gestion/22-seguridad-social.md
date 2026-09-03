@@ -2,6 +2,12 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: la Ley General de la Seguridad Social (**LGSS**), la incapacidad
+temporal (**IT**), la incapacidad permanente (**IP**), el accidente de trabajo (**AT**), la
+enfermedad profesional (**EP**), la Ley de Presupuestos Generales del Estado (**LPGE**), el salario
+mínimo interprofesional (**SMI**), el índice de precios de consumo (**IPC**) y el Boletín Oficial
+del Estado (**BOE**).
+
 <!-- indice -->
 
 ## Índice

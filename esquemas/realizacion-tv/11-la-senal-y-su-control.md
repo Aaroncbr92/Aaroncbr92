@@ -4,6 +4,8 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = Boletín Ofic
 literal · `[UIT]` = recomendación de la Unión Internacional de Telecomunicaciones · `[of]` = oficio y
 física de la imagen · `[plan]` = plantilla oficial · `⚠` = **formulación discutible.**
 
+**Siglas**: la unidad de control de cámara (**CCU**).
+
 **Cabecera.** Enunciado: «3.1. Conocimientos básicos de televisión. Estructura de la imagen de TV.
 Monitorización y control» · **8 preguntas** · **CINCO son estructura de la señal y TRES son percepción
 visual.**

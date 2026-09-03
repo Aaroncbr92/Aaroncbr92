@@ -1,5 +1,9 @@
 # Esquema · Tema 9 del específico de Producción (Asistencia) · Escenografía e iluminación
 
+**Siglas**: el multiplexado digital de iluminación (**DMX**, *digital multiplex*); el diodo emisor
+de luz (**LED**); y **ORAD**, el sistema de patrones que **la plantilla escribe así, sin
+desarrollarlo**, y del que este esquema tampoco da forma larga.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[2032]` = RD 2032/2009, unidades legales
 de medida · `[REBT]` = Reglamento electrotécnico para baja tensión (RD 842/2002), ITC-BT-24 ·
 `[601]` = Recomendación UIT-R BT.601-7 (03/2011) · `[fís]` = física demostrable · `[uso]` = uso

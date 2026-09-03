@@ -2,6 +2,9 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: la Unión Internacional de Telecomunicaciones (**UIT**) con su Sector
+de Radiocomunicaciones (**UIT-R**).
+
 <!-- indice -->
 
 ## Índice

@@ -3,6 +3,9 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio e historia de la televisión ·
 `[inst]` = documentación institucional de RTVE, verificada · `[plan]` = plantilla oficial.
 
+**Siglas**: la *British Broadcasting Corporation* (**BBC**) y las cadenas
+estadounidenses **CBS** y **NBC**.
+
 **Cabecera.** Enunciado: «1.2. Televisión» · **8 preguntas** · **el punto de cultura audiovisual MÁS
 ÚTIL de los siete**, porque **la mitad de sus preguntas son de la propia casa convocante.**
 

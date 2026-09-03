@@ -3,6 +3,12 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = norma o documento publicado en el
 Boletín · `[inst]` = página del propio organismo · `[uso]` = **plantilla oficial, sin documento**.
 
+**Siglas**: Centro de Investigaciones Sociológicas (**CIS**); los ministerios de
+Cultura antes del cambio de nombre (**CUD**), Cultura después (**CLT**) y Ciencia e Innovación
+(**CIN**); Euskal Herria Bildu (**EH** Bildu); Instituto Nacional de Estadística (**INE**); el
+índice de la bolsa de Milán (**FTSE MIB**) y los activos digitales no fungibles (**NFT**); producto
+interior bruto (**PIB**); Partido Nacionalista Vasco (**PNV**).
+
 **Cabecera.** **121 preguntas**, dos de cada tres del bloque específico de la ocupación: el punto más
 preguntado de todo el proyecto. **20 verificadas** —15 en el BOE, 5 en la fuente oficial del dato, y
 **tres de ellas sólo en parte**— y **101 sólo con plantilla**. **Aquí no hay temario: hay datos que

@@ -4,6 +4,18 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = Boletín Ofic
 `[DOUE]` = Diario Oficial de la Unión Europea · `[inst]` = página de la propia institución ·
 `[uso]` = **plantilla oficial, sin documento**.
 
+**Siglas**: la Unión Europea (**UE**), la Comunidad Económica Europea (**CEE**),
+la Comunidad Europea de la Energía Atómica (**Euratom**), el Banco Central Europeo (**BCE**), el
+Diario Oficial de la Unión Europea (**DO**, y **DOUE** cuando lo cita el BOE), el Parlamento Europeo
+(**PE**), la política agrícola común (**PAC**), la Junta Electoral Central (**JEC**), el Boletín
+Oficial del Estado (**BOE**), el índice armonizado de precios de consumo (**IAPC**) y las buenas
+condiciones agrarias y medioambientales (**BCAM**). Y las de los partidos que salen en los
+resultados electorales: Partido Popular (**PP**), Partido Socialista Obrero Español (**PSOE**),
+Esquerra Republicana de Catalunya (**ERC**), Euskal Herria Bildu (**EH** Bildu), Bloque Nacionalista
+Galego (**BNG**), Coalición por una Europa Solidaria (**CEUS**) y **VOX**, que es nombre y no sigla
+desarrollada. Y el banco central europeo aparece también con **sus propias siglas inglesas** en el
+título de la tabla que este tema cita: European Central Bank (**ECB**).
+
 **Cabecera.** **17 preguntas**. **10 verificadas** —4 en el BOE, 2 en el Diario Oficial, 3 en la
 tabla de tipos del BCE y 1 en Eurostat— y **7 sólo con plantilla**. Es **el mejor respaldo documental
 de los tres primeros puntos** de este temario. El enunciado promete instituciones y el examen

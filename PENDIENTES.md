@@ -17,39 +17,51 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
-### 2026-09-03 · La lente de prosa nunca se había pasado a los esquemas — abierto
-
-- **Dónde**: los 207 esquemas de `esquemas/`.
-- **Qué pasa**: `refutar_prosa` se venía pasando **sólo a los temas**. Al pasarla por primera vez a
-  los esquemas devolvió **141 ficheros con aviso**. Se corrigió la lente con tres salvedades
-  —contrastar cada esquema contra su tema gemelo, descartar las mayúsculas que el tema no nombra, y
-  una lista larga de palabras castellanas que el telegrama escribe en mayúsculas por estilo—, y **el
-  barrido queda en 107 esquemas con siglas realmente sin presentar**: UIT, CCU, SMPTE, LED, XLR,
-  MXF, EVS, ENG, EBU, DVB, BNC, SDI y unas trescientas más.
-- **Qué debería decir**: cada esquema debe **presentar sus siglas de entrada**, como hacen los
-  temas y como ya hacen los 34 esquemas de Sonido y de Técnica de Equipos.
-- **Por dónde se arregla**: la expansión de casi todas está **ya escrita y verificada en el tema
-  gemelo** —331 de las apariciones se pueden heredar de él—; las restantes hay que resolverlas a
-  mano, y algunas no llevarán forma larga porque no se ha verificado ninguna, que también es una
-  respuesta válida y ya se usa en el proyecto.
-- **Gravedad**: menor por pregunta, **real por producto**: un esquema es un documento impreso, y un
-  lector que se encuentra «CCU» sin expansión no tiene dónde mirar.
-- **Estado**: **abierto**. Los 207 temas y los 34 esquemas nuevos están a cero.
-
 ### 2026-09-03 · Los informes tampoco pasan la lente de prosa — abierto
 
 - **Dónde**: `informes/`.
-- **Qué pasa**: el mismo problema y por la misma razón. `informes/refutacion-realizacion-tv.md`
-  devuelve 18 avisos y `informes/cobertura-realizacion-tv.md`, 2.
-- **Qué debería decir**: los cuatro informes nuevos de Sonido y de Técnica de Equipos ya llevan una
-  línea de siglas al principio, y **ése es el patrón a extender**.
-- **Gravedad**: menor. **Los informes son documentación del proyecto, no van dentro de los libros**,
-  así que no llegan al opositor.
-- **Estado**: **abierto**.
+- **Qué pasa**: el mismo problema que tenían los esquemas y por la misma razón: **la lente nunca se
+  les había pasado**. El barrido devuelve **95 informes con aviso de los 141**, del orden de
+  trescientas setenta siglas sin presentar.
+- **Qué debería decir**: los cuatro informes nuevos de Sonido y de Técnica de Equipos ya abren con
+  una línea de siglas, y **ése es el patrón a extender**.
+- **Por qué no se cierra hoy, dicho sin adornos**: **los informes son documentación interna del
+  proyecto y no van dentro de los libros**, así que **no llegan al opositor**. Los esquemas sí van
+  impresos, y por eso se han cerrado primero.
+- **Por dónde se arregla**: igual que en los esquemas —heredando la presentación del tema al que
+  cada informe acompaña—, con la diferencia de que **un informe no tiene tema gemelo con el mismo
+  nombre**, así que la correspondencia hay que darla a mano.
+- **Gravedad**: menor.
+- **Estado**: **abierto.**
 
 ---
 
 ## Cerrados
+
+### 2026-09-03 · La lente de prosa nunca se había pasado a los esquemas — cerrado el mismo día
+
+- **Dónde**: los 207 esquemas de `esquemas/`.
+- **Qué pasaba**: `refutar_prosa` se venía pasando **sólo a los temas**. Al pasarla por primera vez a
+  los esquemas devolvió **141 ficheros con aviso**.
+- **Lo primero fue corregir la lente**, porque la mayor parte de esos avisos no eran siglas sino el
+  propio estilo del telegrama: **contrastar cada esquema contra su tema gemelo** —de donde toma su
+  vocabulario—, **descartar las mayúsculas que el tema no nombra** —un rótulo que el esquema inventa
+  no puede ser una sigla de la materia— y **una lista de palabras castellanas** que el telegrama
+  escribe en mayúsculas por estilo. Con eso el barrido bajó a **105 esquemas y 438 avisos, ya todos
+  siglas de verdad**.
+- **Aplicado**: **109 esquemas llevan ahora una línea de siglas de entrada**. **De las 438
+  apariciones, 259 se heredaron literalmente del párrafo «Las siglas de este tema» de su tema
+  gemelo** y **105 más del cuerpo del tema**, con la extracción revisada una a una y **treinta
+  recortes corregidos a mano** porque salían partidos por la mitad. **Las 74 restantes se
+  escribieron a mano** contra el tema.
+- **Y lo que no se ha inventado**: donde el tema declara que no ha verificado una forma larga
+  —VINTEN, JDR Pan Bar, ORAD, Brainstorm IPF, THX, DTS, PXW, ACN, IMG, TDP, UHF, VHF—, **el esquema
+  lo repite en lugar de rellenarlo**.
+- **Dos títulos de esquema se reescribieron**, porque llevaban la sigla por delante de su
+  presentación: el del real decreto-ley 4/2018 y el de la Carta ética de la Federación Internacional
+  de Periodistas.
+- **Estado**: **cerrado. Los 207 temas y los 207 esquemas quedan a cero.**
+
 
 ### 2026-09-03 · `banco/reclasificadas.tsv` mandaba una pregunta a dos sitios — cerrado el mismo día
 

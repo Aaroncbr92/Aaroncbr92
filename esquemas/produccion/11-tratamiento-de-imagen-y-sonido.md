@@ -4,6 +4,9 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[oficio]` = práctica 
 declarada como tal · `[LGCA]` = Ley 13/2022, artículo 156.2, **citada de enlace** con el tema 16 ·
 `[uso]` = plantilla oficial, **sin verificar en la fuente**.
 
+**Siglas**: la lista de decisiones de edición (**EDL**, del inglés *edit decision
+list*); la inteligencia artificial (**IA**).
+
 **Cabecera.** Enunciado: «TRATAMIENTO DE IMAGEN Y SONIDO» · **6 preguntas**, empatado con el tema 3
 como mayor banco de vocabulario · **la 63 descansa sólo en la plantilla** · **la 8 va con matiz**.
 

@@ -2,6 +2,12 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: la Ley General de la Seguridad Social (**LGSS**), el real decreto
+legislativo (**RDLeg**), el real decreto (**RD**), el Boletín Oficial del Estado (**BOE**), la
+Tesorería General de la Seguridad Social (**TGSS**), el Instituto Nacional de la Seguridad Social
+(**INSS**), el salario mínimo interprofesional (**SMI**), la incapacidad temporal (**IT**) y el
+Fondo de Garantía Salarial (**FOGASA**).
+
 <!-- indice -->
 
 ## Índice

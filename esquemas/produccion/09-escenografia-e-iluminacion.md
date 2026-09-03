@@ -4,6 +4,9 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[RD 486/1997]` = dispo
 seguridad y salud en los lugares de trabajo, **anexo I, apartado 3**, redacción vigente al 21/12/2022 ·
 `[oficio]` = práctica de escenografía e iluminación, declarada como tal.
 
+**Siglas**: los haluros metálicos (**HMI**); el diodo emisor de luz (**LED**); la
+medición a través del objetivo (**TTL**, del inglés *through the lens*).
+
 **Cabecera.** Enunciado: «ESCENOGRAFÍA E ILUMINACIÓN» · **5 preguntas** · ninguna descansa en la
 plantilla · **una advertencia de fuente en la pregunta 23**: la norma sostiene los 90 cm **pero no los
 dos umbrales del enunciado**.

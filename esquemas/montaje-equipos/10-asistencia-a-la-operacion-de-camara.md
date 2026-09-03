@@ -4,6 +4,10 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[31/1995]` = Ley 31/19
 riesgos laborales · `[1215]` = Real Decreto 1215/1997, equipos de trabajo · `[of]` = oficio. **Las
 dos normas, en su redacción vigente al 21/12/2022.**
 
+**Siglas**: la unidad de control de cámara (**CCU**); el equipo de protección
+individual (**EPI**); el retorno de programa hacia el auricular del operador (**IFB**,
+*interruptible foldback*); el panel de control operativo (**OCP**).
+
 **Cabecera.** Enunciado: «6. ASISTENCIA A LA OPERACIÓN DE CÁMARA · 6.1. Asistencia a los operadores
 que operan los equipos que utilizan como soporte · 6.2. Asistencia cuando se precisen
 desplazamientos» · **1 pregunta** · **ninguna descansa sólo en la plantilla.**

@@ -4,6 +4,8 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[oficio]` = organizaci
 de producción, declarada como tal en el tema · `[LGCA]` = Ley 13/2022, artículo 156.2, **citada de
 enlace** con el tema 16.
 
+**Siglas**: el protocolo de internet (**IP**).
+
 **Cabecera.** Enunciado: «CONTROL CENTRAL. Coordinación de señales y comunicaciones.
 Emisión/Continuidad. Distribución de imágenes» · **3 preguntas** · ninguna descansa en la plantilla ·
 **las tres tienen la misma construcción: opciones que se diferencian POR UNA ACOTACIÓN**.

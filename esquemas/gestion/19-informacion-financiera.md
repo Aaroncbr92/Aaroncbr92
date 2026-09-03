@@ -2,6 +2,14 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el Plan General de Contabilidad (**PGC**), el fondo de maniobra
+(**FM**), el beneficio antes de impuestos (**BAI**), el beneficio antes de intereses e impuestos
+(**BAII**, en inglés **EBIT**, *earnings before interest and taxes*), el resultado antes de
+intereses, impuestos, depreciaciones y amortizaciones (**EBITDA**, del inglés *earnings before
+interest, taxes, depreciation and amortization*), la rentabilidad económica (**ROA**, del inglés
+*return on assets*), la rentabilidad financiera (**ROE**, del inglés *return on equity*), el estado
+de flujos de efectivo (**EFE**) y el Boletín Oficial del Estado (**BOE**).
+
 <!-- indice -->
 
 ## Índice

@@ -1,5 +1,9 @@
 # Tema 5 · III Convenio Colectivo de la Corporación RTVE
 
+**Siglas**: la disposición transitoria (**DT**); los Presupuestos Generales del Estado (**PGE**);
+las pantallas de visualización de datos (**PVD**); la representación legal de las personas
+trabajadoras (**RLT**); y la Unión Europea de Radiodifusión (**UER**).
+
 Esqueleto para repasar. Todo lo de aquí está desarrollado y verificado en
 
 <!-- indice -->

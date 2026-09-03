@@ -1,6 +1,18 @@
 # Esquema · Realización (Asistencia) 20: postproducción
 
+**Siglas**: el formato de fichero de vídeo entrelazado con audio (**AVI**, *audio video
+interleave*).
+
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
+
+**Siglas**: la Sociedad General de Autores y Editores (**SGAE**) y el Centro
+Español de Derechos Reprográficos (**CEDRO**), a los que el examen añade dos nombres que no
+corresponden a entidad española alguna, **SAGEM** y **SEMAN**; los formatos de fichero **AVI** (del
+inglés *audio video interleave*), **MOV** (*QuickTime movie*), **DVI** (del inglés *digital video
+interactive*), **JPG** o **JPEG** (del inglés *Joint Photographic Experts Group*), **PNG** (del
+inglés *portable network graphics*), **TIF** o **TIFF** (del inglés *tagged image file format*),
+**TGA** (del inglés *Truevision Advanced Raster Graphics Adapter*) y **SUB**, que es de subtítulos;
+el sistema de grabación profesional **XDCAM** de Sony.
 
 <!-- indice -->
 

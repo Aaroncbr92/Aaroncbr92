@@ -3,6 +3,9 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y lenguaje audiovisual ·
 `[plan]` = plantilla oficial, **preguntas que dependen de una imagen.**
 
+**Siglas**: plano general (**PG**); plano medio (**PM**); la tensión sexual no
+resuelta (**TSNR**).
+
 **Cabecera.** Enunciado: «4.1. Lenguaje técnico y narrativo. Secuencias. Planos. Tomas. Movimientos de
 cámara. Composición. Encuadre. Elipsis. Raccord. Eje de acción. Salto de eje. Campo y contracampo» ·
 **20 preguntas: tercer banco de la ocupación** · **CINCO dependen de una imagen: es el punto con más preguntas de esquema del

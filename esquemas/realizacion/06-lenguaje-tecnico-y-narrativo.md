@@ -2,6 +2,11 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el gran plano general (**GPG**), el plano general (**PG**), el plano
+entero (**PE**), el plano americano (**PA**), el plano medio (**PM**), el primer plano (**PP**), el
+primerísimo primer plano (**PPP**) y el plano detalle (**PD**), que son las abreviaturas con que se
+escriben los tiros de cámara en un guion técnico.
+
 <!-- indice -->
 
 ## Índice

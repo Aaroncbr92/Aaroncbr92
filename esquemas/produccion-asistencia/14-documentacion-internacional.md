@@ -1,8 +1,17 @@
 # Esquema · Tema 14 del específico de Producción (Asistencia) · Documentación internacional
 
+**Siglas**: los cuadernos de admisión temporal (**ATA**) y los de importación temporal de vehículos
+(**CPD**), así nombrados por el anexo A del convenio; las oficinas de prensa del Gobierno de Israel
+(**GPO**) y sus homólogas que el examen ofrece como opciones falsas (**IPO**, **JPO** y **CPO**),
+**cuyas formas largas este esquema no da porque no las ha verificado**; el impuesto sobre el valor
+añadido (**IVA**); el bono de cargos varios (**MCO**, *miscellaneous charge order*); y la
+Organización de las Naciones Unidas (**ONU**).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[Est]` = Convenio relativo a la importación
 temporal, hecho en Estambul, anexo A · `[Cám]` = fichas de la Cámara de Comercio de España, leídas
 el 02/09/2026 · `[uso]` = plantilla oficial, **sin norma leída**.
+
+**Siglas**: el cuaderno de admisión temporal de mercancías (**ATA**).
 
 **Cabecera.** Enunciado **sin norma**: «DOCUMENTACIÓN INTERNACIONAL PARA DESPLAZAMIENTOS DE EQUIPOS
 TÉCNICOS Y HUMANOS» · **6 preguntas**, y **cuatro son sobre el cuaderno ATA** · **4 con tratado o

@@ -3,6 +3,9 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[plan]` = plantilla oficial, **sin
 documentación de fabricante que la contraste** · `[of]` = oficio, para la arquitectura y el porqué.
 
+**Siglas**: la Sociedad de Ingenieros de Cine y Televisión (**SMPTE**), cuyas
+barras se citan.
+
 **Cabecera.** Enunciado: «5.1 a 5.4 y 5.7. Edición lineal y A/B Roll · offline y online ·
 postproducción en servidores · código de tiempo y multicámara · gestión de proyectos» · **13
 preguntas** · **LAS TRECE DESCANSAN SÓLO EN LA PLANTILLA**: es el único punto del proyecto sin

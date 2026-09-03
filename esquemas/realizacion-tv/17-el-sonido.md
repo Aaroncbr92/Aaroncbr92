@@ -1,7 +1,15 @@
 # Esquema · Tema 17 del específico de Realización Televisión · El sonido
 
+**Siglas**: la segunda generación de la difusión de vídeo digital terrestre (**DVB-T2**, *digital
+video broadcasting – terrestrial*).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, física del sonido y audio
 digital · `[plan]` = plantilla oficial.
+
+**Siglas**: la escucha previa al fader de una consola (**PFL**, *pre-fade
+listen*), con su pareja la escucha posterior (**AFL**, *after-fade listen*); el puesto de control
+situado frente al escenario (**FOH**, *front of house*); la escucha previa al fader de una consola
+(**PFL**, *pre-fade listen*).
 
 **Cabecera.** Enunciado: «4.5. El sonido. Conceptos generales. Planos de sonido. Toma en exteriores y
 en estudio. Monitorización. Soportes. Tecnología digital. Postproducción. Ambientación. Equipos» · **18

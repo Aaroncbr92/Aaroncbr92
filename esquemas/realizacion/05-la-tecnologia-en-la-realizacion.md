@@ -2,6 +2,15 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: la difusión de vídeo digital (**DVB**, del inglés *digital video
+broadcasting*) y su variante terrestre (**DVB-T**) y de segunda generación (**DVB-T2**); la
+cuantización perceptiva (**PQ**, del inglés *perceptual quantization*) y el logaritmo híbrido
+(**HLG**, del inglés *hybrid log-gamma*); la pantalla de cristal líquido (**LCD**, del inglés
+*liquid crystal display*); la multiplexación por división de frecuencias ortogonales (**OFDM**, del
+inglés *orthogonal frequency division multiplexing*); la modulación de amplitud en cuadratura
+(**QAM**, del inglés *quadrature amplitude modulation*); la frecuencia ultraalta (**UHF**, del
+inglés *ultra high frequency*).
+
 <!-- indice -->
 
 ## Índice

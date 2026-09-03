@@ -2,6 +2,12 @@
 
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, sin norma detrás.
 
+**Siglas**: el protocolo de transferencia de hipertexto (**HTTP**); el protocolo
+de internet (**IP**); el protocolo de transporte en tiempo real (**RTP**, *real-time transport
+protocol*) y su protocolo de control (**RTCP**); el protocolo de inicio de sesión (**SIP**, *session
+initiation protocol*); el protocolo de control de transmisión (**TCP**) y el de datagramas de
+usuario (**UDP**).
+
 **Cabecera.** Enunciado: «1.4. Conceptos básicos de Sonido» · **4 preguntas y las cuatro de sitios
 distintos**: física del sonido, transporte por red, ecualización y herramienta de mezcla ·
 **ninguna descansa sólo en la plantilla**.

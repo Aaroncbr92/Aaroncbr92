@@ -3,6 +3,8 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[plan]` = plantilla oficial, **sin
 documentación de fabricante que la contraste** · `[of]` = oficio, para la arquitectura y el porqué.
 
+**Siglas**: la pantalla de cristal líquido (**LCD**) del mando.
+
 **Cabecera.** Enunciado: «5.8. Sistemas de edición para producciones en directo y retransmisiones.
 (EVS)» · **9 preguntas de un subpunto de UNA LÍNEA que además NOMBRA LA MARCA**, cosa que el anexo no
 hace con ninguna otra · **LAS NUEVE DESCANSAN SÓLO EN LA PLANTILLA**.

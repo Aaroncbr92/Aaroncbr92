@@ -3,6 +3,9 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, acústica y teoría de la señal
 asentadas.
 
+**Siglas**: el conector de audio profesional de tres polos (**XLR**) y el conector
+de clavija (***jack***).
+
 **Cabecera.** Enunciado: «1. Principios básicos: … y sonido · 3.6. Sonido: micrófonos, sistemas
 inalámbricos, soportes, monitorizado, registro · 4.2. Captación de sonido ENG» · **8 preguntas** ·
 **ninguna descansa sólo en la plantilla**.

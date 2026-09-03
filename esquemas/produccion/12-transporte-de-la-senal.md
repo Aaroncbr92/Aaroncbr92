@@ -1,8 +1,14 @@
 # Esquema · Tema 12 del específico de Producción · Transporte de la señal
 
+**Siglas**: la Unión Internacional de Telecomunicaciones (**UIT**).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[UIT-R]` = Recomendación UIT-R SNG.770-2, en
 su edición en español · `[LiveU]` = ficha del producto LU800 del fabricante, leída el 03/09/2026 ·
 `[oficio]` = práctica de contribución, declarada como tal.
+
+**Siglas**: la línea de abonado digital asimétrica (**ADSL**); la Unión
+Internacional de Telecomunicaciones (**UIT**) con su Sector de Radiocomunicaciones (**UIT-R**);
+Unión Internacional de Telecomunicaciones (**UIT**).
 
 **Cabecera.** Enunciado: «TRANSPORTE DE LA SEÑAL» · **4 preguntas**, **una por cada vía del epígrafe
 de vías**, sin repetir materia · **la 38 es la ÚNICA pregunta de todo el examen contrastable en la

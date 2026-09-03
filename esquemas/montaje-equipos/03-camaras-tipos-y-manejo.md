@@ -3,6 +3,12 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, sin norma detrás ·
 `[plan]` = plantilla oficial de respuestas, **sin documentación de fabricante que la contraste**.
 
+**Siglas**: la unidad de control de cámara (**CCU**); **HDC** y **HDVF**, que son
+las referencias con que Sony nombra sus cámaras y sus visores de alta definición, no siglas con
+significado propio; la cámara de panorámica, inclinación y zum (**PTZ**, del inglés
+*pan-tilt-zoom*); la Sociedad de Ingenieros de Cine y Televisión (**SMPTE**), que da nombre al cable
+híbrido de fibra.
+
 **Cabecera.** Enunciado: «2.1. Tipos de cámaras y sus elementos externos. Procedimientos de manejo
 seguro» · **7 preguntas** · **dos descansan sólo en la plantilla (55 y 95)**.
 

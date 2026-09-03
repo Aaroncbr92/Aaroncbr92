@@ -2,6 +2,10 @@
 
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, sin norma detrás.
 
+**Siglas**: el almacenamiento conectado a la red (**NAS**) y la red de
+almacenamiento (**SAN**); el conjunto redundante de discos independientes (**RAID**, *redundant
+array of independent disks*).
+
 **Cabecera.** Enunciado: «1.1. Conocimientos básicos de electrónica aplicada · 1.2. Conocimientos
 básicos de informática aplicada» · **4 preguntas** · **las cuatro son de informática y NINGUNA de
 electrónica** · **tres de las cuatro son de RAID**.

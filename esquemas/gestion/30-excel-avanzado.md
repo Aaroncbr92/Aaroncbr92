@@ -2,6 +2,10 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: Visual Basic para Aplicaciones (**VBA**), el procesamiento analítico
+en línea (**OLAP**, del inglés *online analytical processing*), el coeficiente de determinación
+(**R²**) y el Boletín Oficial del Estado (**BOE**).
+
 <!-- indice -->
 
 ## Índice

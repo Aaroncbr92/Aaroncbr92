@@ -3,6 +3,14 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, sin norma detrás ·
 `[plan]` = plantilla oficial de respuestas, **sin documentación de fabricante que la contraste**.
 
+**Siglas**: el conector Bayonet Neill-Concelman (**BNC**); el
+etileno-propileno-dieno (**EPDM**), que es un caucho; el conector suscriptor (**SC**), el conector
+férula (**FC**), el conector Lucent (**LC**) y el conector de punta recta (**ST**, del inglés
+*straight tip*), que son cuatro monturas de fibra óptica, y **RC**, unas siglas que el examen usa
+como opción falsa y que **no designan ningún conector**; la interfaz digital serie (**SDI**) y su
+versión de alta definición (**HD-SDI**); la Sociedad de Ingenieros de Cine y Televisión (**SMPTE**);
+el conector de audio de tres o más polos (**XLR**).
+
 **Cabecera.** Enunciado: «2.4. Conectores y elementos de conexión · 3.2. Conectores y elementos de
 conexión (sonido)» · **17 preguntas: EL PUNTO MÁS PREGUNTADO DE ESTA OCUPACIÓN** · **dos descansan
 sólo en la plantilla (4 y 10)**.

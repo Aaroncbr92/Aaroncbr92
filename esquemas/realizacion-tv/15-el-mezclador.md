@@ -1,7 +1,13 @@
 # Esquema · Tema 15 del específico de Realización Televisión · El mezclador
 
+**Siglas y marcas**: el nombre de una plataforma de grafismo (**Brainstorm IPF**), al que **este
+esquema no atribuye forma larga porque no la ha verificado**.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio de control · `[fab]` =
 documentación de fabricante, citada literal · `[plan]` = plantilla oficial.
+
+**Siglas**: el efecto digital de vídeo con que se reduce y coloca una imagen
+dentro de otra (**DVE**, *digital video effect*).
 
 **Cabecera.** Enunciado: «4.3. Conceptos generales del mezclador» —**el enunciado más corto del anexo:
 seis palabras**— · **7 preguntas** · **CUATRO son de incrustación y TRES de automatización.**

@@ -2,6 +2,10 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el formato de fichero de audio en forma de onda (**WAV**, del inglés
+*waveform audio file format*) y el formato de fichero de intercambio de audio (**AIFF**, del inglés
+*audio interchange file format*).
+
 <!-- indice -->
 
 ## Índice

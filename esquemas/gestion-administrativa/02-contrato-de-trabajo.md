@@ -2,6 +2,11 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el Estatuto de los Trabajadores (**ET**), el Boletín Oficial del
+Estado (**BOE**), el real decreto legislativo (**RDLeg**), el real decreto-ley (**RDL**), la
+Corporación de Radio y Televisión Española (**CRTVE**, también **RTVE**), el expediente de
+regulación temporal de empleo (**ERTE**) y el Servicio Público de Empleo Estatal (**SEPE**).
+
 <!-- indice -->
 
 ## Índice

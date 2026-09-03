@@ -3,6 +3,10 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, sin norma detrás ·
 `[plan]` = plantilla oficial de respuestas, **sin documentación de fabricante que la contraste**.
 
+**Siglas**: el conector de vídeo *Bayonet Neill-Concelman* (**BNC**); el conector
+circular multipolo **LEMO**, que es una marca; la fibra óptica de la *Society of Motion Picture and
+Television Engineers* (**SMPTE**); el conector de audio profesional de tres polos (**XLR**).
+
 **Cabecera.** Enunciado: «4.4. Cabeza caliente: Componentes y cableado» · **2 preguntas** · **una
 descansa sólo en la plantilla (72)**.
 

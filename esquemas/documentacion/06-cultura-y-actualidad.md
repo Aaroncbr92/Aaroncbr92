@@ -3,6 +3,11 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = norma o documento publicado en el
 Boletín · `[inst]` = página del propio organismo · `[uso]` = **plantilla oficial, sin documento**.
 
+**Siglas**: Banco Central Europeo (**BCE**); repeticiones palindrómicas cortas
+agrupadas y regularmente espaciadas (**CRISPR**); Grupos de Resistencia Antifascista Primero de
+Octubre (**GRAPO**, así los nombra el enunciado del examen); empresa del cohete español (**PLD**
+Space); Unión Europea (**UE**).
+
 **Cabecera.** **40 preguntas**, cuatro de cada diez del cuadernillo. **15 verificadas** —9 en el BOE,
 6 en páginas oficiales— y **25 sólo con plantilla**. **Aquí no hay temario: hay datos que
 comprobar.**

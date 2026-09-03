@@ -3,6 +3,10 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, circuitos de cámara y práctica
 del control de imagen.
 
+**Siglas**: el técnico de imagen digital (**DIT**, *digital imaging technician*);
+captación electrónica de noticias (**ENG**) frente a la producción electrónica en campo (**EFP**);
+captación electrónica de noticias (**ENG**).
+
 **Cabecera.** Enunciado: «3.10. Control de cámaras: métodos de medición para el ajuste de cámara EFP y
 ENG · 4.1. Ajustes básicos» · **7 preguntas** · **ninguna descansa sólo en la plantilla** · **es el
 punto que separa al operador del que sólo sabe encuadrar**.

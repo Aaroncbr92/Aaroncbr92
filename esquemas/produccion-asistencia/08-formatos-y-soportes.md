@@ -1,8 +1,16 @@
 # Esquema · Tema 8 del específico de Producción (Asistencia) · Formatos y soportes
 
+**Siglas**: la codificación avanzada de vídeo (**AVC**); la especificación de la iniciativa de cine
+digital (**DCI**), **que el enunciado cita y no se ha podido consultar**; el formato profesional de
+vídeo digital (**DVCPRO**); el formato de grabación en disco óptico (**XDCAM**) y su variante en
+memoria (**XDCAM EX**); la elevada gama dinámica (**HDR**, *high dynamic range*); y la cuantización
+perceptiva (**PQ**, *perceptual quantization*).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[2100]` = Recomendación UIT-R BT.2100-1
 (06/2017) · `[TDT]` = Plan Técnico Nacional de la TDT, Real Decreto 391/2019 · `[uso]` = plantilla
 oficial y uso profesional, **sin norma leída**.
+
+**Siglas**: la tarjeta digital segura de alta capacidad (**SDHC**).
 
 **Cabecera.** Enunciado **sin norma**: «FORMATOS Y SOPORTES» · **6 preguntas** · **3 con norma o
 recomendación detrás**, **3 sólo con la plantilla**. La especificación **DCI** que el examen cita

@@ -1,8 +1,13 @@
 # Esquema · Tema 16 del específico de Realización Televisión · La iluminación
 
+**Abreviaturas**: Estados Unidos (**EE. UU.**) y los efectos (**FX**), como lo escribe el propio
+enunciado del anexo.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = Boletín Oficial del Estado, citado
 literal · `[fab]` = ficha técnica del fabricante · `[of]` = oficio, física de la luz e historia del
 color.
+
+**Siglas**: el protocolo digital con que se gobierna un parque de focos (**DMX**).
 
 **Cabecera.** Enunciado: «4.4. La iluminación. Conceptos generales. Influencia. Diversos tipos de luz.
 Técnicas y estilos. Exteriores e interiores. Materiales. FX» · **9 preguntas** · **EL TEMA MEJOR

@@ -2,6 +2,11 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: los haluros metálicos (**HMI**, del alemán *Hydrargyrum Medium-arc
+Iodide*); el diodo emisor de luz (**LED**, del inglés *light-emitting diode*); la Unión
+Internacional de Telecomunicaciones (**UIT**) y su Sector de Radiocomunicaciones (**UIT-R**); el
+ultravioleta (**UV**) con sus tramos **UV-A**, **UV-B** y **UV-C**.
+
 <!-- indice -->
 
 ## Índice

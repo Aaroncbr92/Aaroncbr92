@@ -1,7 +1,12 @@
 # Esquema · Tema 4 del específico de Montaje de Equipos Audiovisuales · Cabezas de cámara y soportes: instalación y nivelado
 
+**Siglas y marcas**: el fabricante de cabezas y soportes que el examen nombra (**VINTEN**) **es una
+marca, no unas siglas**, y así lo dice el tema.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, sin norma detrás ·
 `[plan]` = plantilla oficial de respuestas, **sin documentación de fabricante que la contraste**.
+
+**Siglas**: **VINTEN**, que es una marca y no unas siglas.
 
 **Cabecera.** Enunciado: «2.2. Tipos de cabeza de cámara y sus sistemas de instalación y anclaje ·
 2.3. Tipos de soportes de cámara. Procedimientos de instalación y nivelado» · **8 preguntas** · **una

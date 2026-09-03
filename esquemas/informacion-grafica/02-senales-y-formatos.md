@@ -1,8 +1,21 @@
 # Esquema · Tema 2 del específico de Información Gráfica y Captación de Imagen y Sonido · Señales y formatos: de la señal a la medida
 
+**Siglas**: la Unión Internacional de Telecomunicaciones (**UIT**, o **ITU** en su sigla inglesa,
+como la escribe uno de los enunciados).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[2100]` = Recomendación UIT-R BT.2100-1 ·
 `[2020]` = Recomendación UIT-R BT.2020-2 · `[709]` = Recomendación UIT-R BT.709-6 · `[of]` = oficio ·
 `[plan]` = plantilla oficial.
+
+**Siglas**: el códec de audio sin pérdida de Apple (**ALAC**, *Apple Lossless
+Audio Codec*); el dispositivo de acoplamiento de carga (**CCD**) y el semiconductor complementario
+de óxido metálico (**CMOS**); la función de transferencia optoelectrónica (**OETF**,
+*opto-electronic transfer function*), la electroóptica (**EOTF**) y la optoóptica (**OOTF**); la
+alta definición (**HD**) y la ultra alta definición (**UHD**); la Unión Internacional de
+Telecomunicaciones (**UIT**, o **ITU** en su sigla inglesa, como la escribe uno de los enunciados),
+cuyo sector de radiocomunicaciones (**UIT-R**) publica las recomendaciones **BT.601**, **BT.709**,
+**BT.2020** y **BT.2100**; Unión Internacional de Telecomunicaciones (**UIT**, o **ITU** en su sigla
+inglesa, como la escribe uno de los enunciados).
 
 **Cabecera.** Enunciado: «2. Señales y formatos: cableado, señal analógica y digital, alta definición
 · 3.5. Sistemas de grabación» · **12 preguntas** · **el ÚNICO cuadernillo del proyecto que cita una

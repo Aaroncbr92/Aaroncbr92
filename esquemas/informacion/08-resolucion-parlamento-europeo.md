@@ -2,6 +2,18 @@
 
 Telegrama. **Todo sale de la propia resolución.** `[C]` = considerando · `[D]` = parte dispositiva.
 
+**Siglas**: la Unión Europea (**UE**), el Tratado de la Unión Europea (**TUE**),
+el Tratado de Funcionamiento de la Unión Europea (**TFUE**), el Convenio Europeo de Derechos Humanos
+(**CEDH**), el Diario Oficial de la Unión Europea (**DO**), la Organización para la Seguridad y la
+Cooperación en Europa (**OSCE**), la Organización de las Naciones Unidas para la Educación, la
+Ciencia y la Cultura (**Unesco**, así, con minúsculas, en el texto de la resolución), la enfermedad
+por coronavirus de 2019 (**COVID-19**), y las demandas estratégicas contra la participación pública
+(**SLAPP**, por sus siglas inglesas, que la propia resolución usa). Y cuatro que salen sólo en la
+tabla de respuestas y en la trazabilidad (y van aquí para que nadie las tome por siglas): la
+mayúscula con que este tema resalta el **NO** del enunciado de la pregunta, el portal jurídico
+europeo (**EUR**-Lex), el fichero de documento portátil (**PDF**) y el lenguaje de marcado de las
+páginas web (**HTML**).
+
 **Cabecera.** **1 pregunta** y **verificada**. **No es una norma**: es un acto político del Parlamento
 Europeo, publicado en la **serie C** del Diario Oficial. **Doce mil palabras**, y el enunciado del
 programa **es su índice**.

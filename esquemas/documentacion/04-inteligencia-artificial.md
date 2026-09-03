@@ -1,5 +1,8 @@
 # Esquema · Tema 4 del específico de Documentación · Inteligencia artificial
 
+**Siglas**: el modelo de lenguaje por el que se pregunta (**BERT**), que **sus autores sí
+desarrollan**: *bidirectional encoder representations from transformers*.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[NIST]` = evaluaciones de transcripción
 enriquecida del instituto de normas de los Estados Unidos · `[Google]` = anuncio oficial de Google de
 25/10/2019 · `[arXiv]` = ficha del artículo donde se presentó el modelo · `[uso]` = plantilla

@@ -2,6 +2,13 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el sistema de gestión de contenidos (**CMS**, del inglés *content
+management system*); el protocolo de transferencia de ficheros (**FTP**, del inglés *file transfer
+protocol*) y sus vecinos el protocolo simple de transferencia de correo (**SMTP**, del inglés
+*simple mail transfer protocol*), el lenguaje de marcado de hipertexto (**HTML**, del inglés
+*hypertext markup language*) y el protocolo de transferencia de hipertexto (**HTTP**) y su variante
+segura (**HTTPS**); el identificador (**ID**, del inglés *identifier*).
+
 <!-- indice -->
 
 ## Índice

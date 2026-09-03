@@ -4,6 +4,8 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[conv]` = III Convenio
 Corporación RTVE, **artículos 43 y 75**, redacción publicada en el BOE · `[oficio]` = práctica de
 producción, declarada como tal en el tema.
 
+**Siglas**: el impuesto sobre el valor añadido (**IVA**).
+
 **Cabecera.** Enunciado: «EL PRESUPUESTO. Previo y ejecutado. Facturación y liquidación de gastos» ·
 **2 preguntas** · ninguna descansa en la plantilla · **la 78 se contesta CITANDO EL CONVENIO**.
 

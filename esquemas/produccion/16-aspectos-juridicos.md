@@ -6,6 +6,11 @@ a través de los artículos de la ley española que remiten a él** · `[LCSP]` 
 del Sector Público · `[arb]` = Ley 60/2003, de Arbitraje · `[INSST]` = notas técnicas de prevención
 476 y 704. **Todas las normas, en su redacción vigente al 21/12/2022.**
 
+**Siglas**: la Agencia Española de Protección de Datos (**AEPD**); el Instituto
+Nacional de Seguridad y Salud en el Trabajo (**INSST**) y sus notas técnicas de prevención
+(**NTP**); el Reglamento General de Protección de Datos de la Unión Europea (**RGPD**), que es el
+**Reglamento (UE) 2016/679**.
+
 **Cabecera.** Enunciado: «ASPECTOS JURÍDICOS DE LA PRODUCCIÓN. Prevención de riesgos laborales /
 Protección de datos (LEY DE PROTECCIÓN DE DATOS, Ley Orgánica 3/2018) / Contratación en el sector
 público» · **7 preguntas: EL PUNTO MÁS PREGUNTADO DEL TEMARIO** · **una no tiene ninguna opción

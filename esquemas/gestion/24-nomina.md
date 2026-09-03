@@ -2,6 +2,13 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el Estatuto de los Trabajadores (**ET**), la Ley General de la
+Seguridad Social (**LGSS**), el Impuesto sobre la Renta de las Personas Físicas (**IRPF**), la Ley
+de Presupuestos Generales del Estado (**LPGE**), la incapacidad temporal (**IT**), el accidente de
+trabajo y la enfermedad profesional (*AT y EP*), el Fondo de Garantía Salarial (**FOGASA**), la
+formación profesional (**FP**), el salario mínimo interprofesional (**SMI**), la Tesorería General
+de la Seguridad Social (**TGSS**) y el Boletín Oficial del Estado (**BOE**).
+
 <!-- indice -->
 
 ## Índice

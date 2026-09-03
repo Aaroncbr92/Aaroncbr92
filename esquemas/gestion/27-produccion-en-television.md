@@ -2,6 +2,17 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el vídeo a la carta (**VoD**, del inglés *video on demand*), la unidad
+móvil (**UM**), la Corporación de Radio y Televisión Española (**RTVE**), la Asociación para la
+Investigación de Medios de Comunicación (**AIMC**), la televisión digital terrestre (**TDT**), el
+Comité Intercentros (**CI**), el protocolo de internet (**IP**), la banda de frecuencia ultraalta
+(**UHF**, del inglés *ultra high frequency*), la transmisión digital por satélite desde el lugar de
+la noticia (**DSNG**, del inglés *digital satellite news gathering*), el foco de haz paralelo
+(**PAR**, del inglés *parabolic aluminized reflector*), el vídeo a petición por suscripción
+(**SVOD**), el financiado con publicidad (**AVOD**), el de pago por transacción (**TVOD**), los
+canales lineales gratuitos con publicidad distribuidos por internet (**FAST**, del inglés *free
+ad-supported streaming television*) y el Boletín Oficial del Estado (**BOE**).
+
 <!-- indice -->
 
 ## Índice

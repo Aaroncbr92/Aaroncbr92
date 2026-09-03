@@ -1,5 +1,9 @@
 # Esquema · Tema 1 del específico de Documentación · Historia de RTVE
 
+**Siglas**: un canal de RTVE, así escrito por la casa con tres letras (**TDP**), y dos bandas de
+radiofrecuencia que la nota oficial nombra igual (**UHF** y **VHF**). **Ninguna de las fuentes
+reunidas despliega esas iniciales**, y este esquema tampoco.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = norma publicada en el Boletín ·
 `[RTVE]` = página o ficha de la propia casa, leída el 02/09/2026 · `[GOB]` = nota de prensa del
 portal público de televisión digital · `[uso]` = plantilla oficial, **sin documento detrás**.

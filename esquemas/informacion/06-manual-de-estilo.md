@@ -2,6 +2,9 @@
 
 Telegrama. **Todo sale del propio manual**, y entre paréntesis va el capítulo.
 
+**Siglas**: la Corporación de Radio y Televisión Española (**CRTVE**, que es como
+el propio manual titula su capítulo 1.
+
 **Cabecera.** **9 preguntas** y **las 9 verificadas**: el documento más preguntado del Anexo 2. Ocho
 capítulos y unas **48.000 palabras**. Y **el 403 que lo daba por imposible no era del servidor**: el
 programa da la dirección en `http` y la salida sólo deja pasar `https`.

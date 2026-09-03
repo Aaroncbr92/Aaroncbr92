@@ -2,6 +2,10 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el Estatuto de los Trabajadores (**ET**), la empresa de trabajo
+temporal (**ETT**), la Tesorería General de la Seguridad Social (**TGSS**), el Boletín Oficial del
+Estado (**BOE**) y el real decreto legislativo (**RDLeg**).
+
 <!-- indice -->
 
 ## Índice

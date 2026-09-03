@@ -1,5 +1,8 @@
 # Esquema · Tema 2 del específico de Producción (Asistencia) · Propiedad intelectual
 
+**Siglas**: la difusión de televisión por protocolo de internet (**IPTV**) y la Unión Europea
+(**UE**).
+
 Telegrama, artículo delante de cada línea. Redacción **vigente a 21/12/2022**, que aquí
 **coincide con el «texto consolidado BOE 30 de marzo de 2022»** que cita el enunciado: la última
 reforma anterior al corte tocó **solo el art. 177**.

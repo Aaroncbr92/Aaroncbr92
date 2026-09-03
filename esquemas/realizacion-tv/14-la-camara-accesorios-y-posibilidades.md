@@ -3,6 +3,12 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, óptica y electrónica de cámara ·
 `[plan]` = plantilla oficial.
 
+**Siglas**: dispositivo de carga acoplada de los sensores clásicos de televisión
+(**CCD**, *charge-coupled device*); la unidad de control de cámara (**CCU**, *camera control unit*);
+cámara robotizada de panorámica, inclinación y zoom (**PTZ**, *pan-tilt-zoom*); panel de control
+remoto desde el que se gobierna (**RCP**, *remote control panel*, llamado **OCP** —*operational
+control panel*— por algunos fabricantes).
+
 **Cabecera.** Enunciado: «4.2. La cámara accesorios y posibilidades. Nociones básicas. Objetivos. Foco.
 Profundidad de campo. Diagrama [*sic*: Diafragma]. Filtros. Soportes cámara. Estabilizadores» · **16
 preguntas: séptimo banco de la ocupación** · **UNA es negativa y UNA depende de una planta.**

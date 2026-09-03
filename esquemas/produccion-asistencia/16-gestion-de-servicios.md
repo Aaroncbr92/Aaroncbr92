@@ -1,8 +1,16 @@
 # Esquema · Tema 16 del específico de Producción (Asistencia) · Gestión de servicios varios
 
+**Siglas**: la agencia estadounidense The Associated Press (**AP**); la Agencia EFE (**EFE**), cuya
+página **no se ha podido consultar**; e **IMG**, la casa con la que aquélla formó una empresa
+conjunta, **cuya forma larga este esquema no da porque no la ha verificado**.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[SNTV]` y `[ACN]` = portadas de las propias
 agencias, leídas el 02/09/2026 · `[CC]` = Código Civil, citado **por lo que NO dice** · `[uso]` =
 plantilla oficial, **sin norma leída**.
+
+**Siglas**: una de las cuatro agencias que ofrece la pregunta (**ACN**), cuya
+forma larga este esquema no da porque no la ha verificado; un grupo de canales deportivos
+(**ESPN**); la agencia de vídeo deportivo (**SNTV**).
 
 **Cabecera.** Enunciado **sin norma**: «GESTIÓN DE SERVICIOS VARIOS. AGENCIAS, PROVEEDORES,
 PARTICULARES» · **3 preguntas** · **2 verificadas en la portada de la propia agencia**. Las páginas

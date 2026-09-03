@@ -2,6 +2,10 @@
 
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, sin norma detrás.
 
+**Siglas**: el instituto de reglaje del reloj de la imagen (**IRE**, por la
+antigua *Institute of Radio Engineers*), que da nombre a la unidad de la escala de vídeo; las
+unidades de volumen (**VU**).
+
 **Cabecera.** Enunciado: «3. Equipos de Medida y control · 3.1. De la señal de vídeo · 3.2. De la
 señal de audio · 3.3. Matrices de conmutación y conectividad» · **3 preguntas** · **DOS DE LAS TRES
 SON LA MISMA PREGUNTA** (la 57 y la 61) · **ninguna descansa sólo en la plantilla**.

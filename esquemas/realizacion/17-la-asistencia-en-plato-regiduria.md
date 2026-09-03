@@ -1,6 +1,12 @@
 # Esquema · Realización (Asistencia) 17: la asistencia en plató, regiduría
 
+**Siglas y marcas**: **EVS** es el nombre de una empresa que el examen usa como nombre común del
+servidor de repeticiones.
+
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
+
+**Siglas**: el nombre de la empresa **EVS**, que el examen usa como nombre común
+del servidor de repeticiones.
 
 <!-- indice -->
 

@@ -1,7 +1,13 @@
 # Esquema · Tema 9 del específico de Información Gráfica y Captación de Imagen y Sonido · Envíos, directos y cámaras robotizadas
 
+**Siglas**: la realidad aumentada (**AR**) y la realidad virtual (**VR**), que el enunciado del
+anexo escribe con sus siglas inglesas.
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, principios de transmisión y de
 operación robotizada.
+
+**Siglas**: la empresa de trabajo temporal (**ETT**); la cámara
+panorámica-inclinable-zoom integrada (**PTZ**, *pan-tilt-zoom*).
 
 **Cabecera.** Enunciado: «3.11. Cámaras robotizadas, integradas PTZ y no integradas · 3.12. Sistemas
 de envíos de noticias y directos: mochilas, ftp, streaming · 3.14. Operación en AR, VR y mixta» · **3

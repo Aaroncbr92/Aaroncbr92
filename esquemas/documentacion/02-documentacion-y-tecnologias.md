@@ -1,10 +1,19 @@
 # Esquema · Tema 2 del específico de Documentación · Documentación y tecnologías de la información
 
+**Siglas**: el organismo internacional de normalización (**ISO**); el número internacional
+normalizado del libro (**ISBN**, *international standard book number*); el código internacional
+normalizado de grabaciones (**ISRC**, *international standard recording code*); y el número
+internacional normalizado de publicaciones seriadas (**ISSN**).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[25964-1]` y `[25964-2]` = muestra oficial de
 la norma de tesauros · `[15707]` = muestra oficial de la norma del código de obras musicales ·
 `[NISO]` = página oficial de ISO 25964 · `[ISSN]` = lista de códigos del Centro Internacional del
 ISSN · `[L16/85]` = Ley del Patrimonio Histórico Español · `[RTVE]` = artículo de la responsable del Fondo
 Documental de RTVE · `[uso]` = plantilla oficial, **sin norma leída**.
+
+**Siglas**: el organismo internacional de normalización (**ISO**); número
+internacional normalizado de publicaciones seriadas (**ISSN**); código internacional normalizado de
+obras musicales (**ISWC**).
 
 **Cabecera.** **9 preguntas** · **4 con norma internacional**, **1 con la ley del patrimonio detrás**,
 **1 con artículo de la casa**, **3 sólo con plantilla**. **El texto íntegro de las normas ISO es de pago**: se ha leído **su muestra

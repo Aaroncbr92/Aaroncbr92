@@ -1,5 +1,8 @@
 # Esquema · Tema 17 del específico de Producción (Asistencia) · Protección de datos
 
+**Siglas**: la Conferencia de Rectores de las Universidades Españolas (**CRUE**); la Entidad
+Nacional de Acreditación (**ENAC**); y la Federación Española de Municipios y Provincias (**FEMP**).
+
 Telegrama, artículo delante de cada línea. **LO** = Ley Orgánica 3/2018; **R** = Reglamento (UE)
 2016/679. Redacción **vigente a 21/12/2022**; **fuera del corte**: art. 53 bis y DA vigésima
 tercera, en vigor desde el **10/05/2023**.

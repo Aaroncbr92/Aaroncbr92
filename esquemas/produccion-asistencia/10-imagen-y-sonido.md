@@ -1,9 +1,15 @@
 # Esquema · Tema 10 del específico de Producción (Asistencia) · Imagen y sonido
 
+**Siglas**: el Comité Consultivo Internacional de Radiocomunicaciones (**CCIR**), de cuya norma 601
+se habla; la elevada gama dinámica (**HDR**, *high dynamic range*); el híbrido log-gamma (**HLG**);
+la cuantización perceptiva (**PQ**); y el conector de audio de tres contactos (**XLR**).
+
 Telegrama. **Cada línea lleva delante de dónde sale**: `[601]` = Recomendación UIT-R BT.601-7
 (03/2011) · `[2100]` = Recomendación UIT-R BT.2100-1 (06/2017) · `[BOE]` = norma española ·
 `[AES]` = documentación de la Audio Engineering Society · `[fís]` = física demostrable ·
 `[uso]` = uso profesional y plantilla oficial, **sin norma leída**.
+
+**Siglas**: la interfaz digital de audio multicanal (**MADI**).
 
 **Cabecera.** Enunciado **sin norma**: «IMAGEN Y SONIDO: Captación y tratamiento» · **17
 preguntas**, la **segunda materia más preguntada** del bloque específico · **7 con norma detrás**,

@@ -3,6 +3,18 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = norma o documento publicado en el
 Boletín · `[ONU]` = página de Naciones Unidas · `[uso]` = **plantilla oficial, sin documento**.
 
+**Siglas**: el Boletín Oficial del Estado (**BOE**), el Centro de Investigaciones
+Sociológicas (**CIS**), la Agencia Estatal Boletín Oficial del Estado (**AEBOE**), el Consejo
+General del Poder Judicial (**CGPJ**), el Tribunal Superior de Justicia (**TSJ**), el Tribunal
+Europeo de Derechos Humanos (**TEDH**), la Organización de las Naciones Unidas (**ONU**), el
+Organismo Internacional de Energía Atómica (**OIEA**), la Organización del Tratado del Atlántico
+Norte (**OTAN**), la Reserva Federal de los Estados Unidos (**FED**), el Mercado Común del Sur
+(**MERCOSUR**), el organismo de Naciones Unidas para los refugiados de Palestina (**UNRWA**, así, en
+sus siglas inglesas), la ley orgánica (**LO**), el real decreto (**RD**) y el organismo autónomo
+(**O.A.**, como lo abrevia el real decreto que este tema cita), el Consejo Superior de
+Investigaciones Científicas (**CSIC**) —que no es el CIS, y de ahí sale un error del examen— y la
+Organización para la Cooperación y el Desarrollo Económicos (**OCDE**).
+
 **Cabecera.** **21 preguntas**. **15 verificadas** —13 en el BOE y 2 en Naciones Unidas—, **1 a
 medias** y **5 sólo con plantilla**. **Es el mejor respaldo documental de los tres primeros puntos**:
 en España **los cargos se nombran por real decreto publicado en el BOE** y **las reglas están en la

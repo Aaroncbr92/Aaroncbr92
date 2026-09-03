@@ -3,6 +3,15 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio, física del sensor y de la
 óptica · `[plan]` = plantilla oficial, **sin documentación de fabricante que la contraste**.
 
+**Siglas**: el conversor analógico-digital (**ADC**, *analog-to-digital
+converter*); el dispositivo de acoplamiento de carga (**CCD**) y el semiconductor complementario de
+óxido metálico (**CMOS**); el formato de grabación en disco óptico de la casa Sony (**XDCAM**), con
+sus perfiles **Proxy AV**, **MPEG IMX**, **MPEG HD** y **DVCAM**, que el examen escribe **DVCA**; la
+captación electrónica de noticias (**ENG**, *electronic news gathering*) y la producción electrónica
+en campo (**EFP**, *electronic field production*); la red de área local (**LAN**) y la comunicación
+de campo cercano (**NFC**); la interfaz digital serie (**SDI**) y el conector de vídeo *Bayonet
+Neill-Concelman* (**BNC**); el código de tiempo (**TC**, *time code*).
+
 **Cabecera.** Enunciado: «3.1. Cámara de video: ENG, EFP y cinematografía digital · 3.4. Sensores y
 señal · 3.5. Sistemas de grabación · 3.13. Ajustes en producción ligera · 4.1. Ajustes básicos» · **8
 preguntas** · **CUATRO son física y CUATRO son menú de una máquina concreta**.

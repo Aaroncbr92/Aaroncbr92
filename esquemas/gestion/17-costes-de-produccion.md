@@ -2,6 +2,12 @@
 
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
+**Siglas**: el Plan General de Contabilidad (**PGC**), la mano de obra directa
+(**MOD**), los costes indirectos de fabricación (**CIF**), el coste medio ponderado (**CMP**), el
+método de primera entrada primera salida (**FIFO**, del inglés *first in, first out*), el de última
+entrada primera salida (**LIFO**, del inglés *last in, first out*), el coste basado en actividades
+(**ABC**, del inglés *activity-based costing*) y el Boletín Oficial del Estado (**BOE**).
+
 <!-- indice -->
 
 ## Índice

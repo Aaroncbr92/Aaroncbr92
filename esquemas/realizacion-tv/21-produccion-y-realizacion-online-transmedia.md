@@ -4,6 +4,9 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[fab]` = documentació
 literal · `[of]` = oficio de producción virtual y teoría de la narrativa transmedia · `[plan]` =
 plantilla oficial.
 
+**Siglas**: las imágenes generadas por ordenador (**CGI**, *computer-generated
+imagery*); el diodo emisor de luz de las paredes de plató (**LED**, *light-emitting diode*).
+
 **Cabecera.** Enunciado: «4.9. Nuevas herramientas y sistemas de producción y realización on line.
 Estrategia trasmedia» · **7 preguntas** · **el punto MÁS MODERNO del anexo** · **CUATRO son tecnología
 de plató virtual y TRES son narrativa inmersiva.** **Las siete comparten una idea: LA IMAGEN QUE SE
