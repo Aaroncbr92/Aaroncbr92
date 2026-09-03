@@ -1,4 +1,4 @@
-# Sonido · Tema 16 · Audio sobre IP
+# Sonido · Tema 16 · El audio sobre redes de datos
 
 9 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que

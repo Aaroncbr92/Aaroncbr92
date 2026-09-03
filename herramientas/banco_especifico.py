@@ -225,7 +225,7 @@ TITULOS = {
     "13": "Sonido · Tema 13 · Radiofrecuencia",
     "14": "Sonido · Tema 14 · Medición y sonoridad",
     "15": "Sonido · Tema 15 · Audio multicanal",
-    "16": "Sonido · Tema 16 · Audio sobre IP",
+    "16": "Sonido · Tema 16 · El audio sobre redes de datos",
     "17": "Sonido · Tema 17 · Audio sobre protocolos digitales",
  },
  "tese": {
