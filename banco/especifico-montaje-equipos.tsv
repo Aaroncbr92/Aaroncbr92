@@ -1,0 +1,92 @@
+# Reparto a mano de las preguntas del bloque específico de MONTAJE DE EQUIPOS
+# AUDIOVISUALES.
+#
+# Un cuadernillo: `58_preguntas_mont_equip_audio`, 96 preguntas, del proceso
+# selectivo de 2024, con su plantilla oficial completa.
+#
+# **Seis van al banco del bloque común** —la 11, la 16, la 29, la 42, la 75 y la
+# 89— y las clasifica el propio script por su materia. **Doce más van al banco
+# compartido de prevención**: las de trabajos en altura, manipulación de cargas,
+# plataformas, escaleras y autoprotección, que están en `reclasificadas.tsv`.
+#
+# **Cuatro preguntas más son del bloque común y ninguna palabra clave las
+# reconoce**: la 22 y la 81, de la Constitución, y la 41 y la 44, del convenio.
+# Van también en `reclasificadas.tsv`, a mano.
+#
+# **Ningún punto del Anexo 2 se queda sin preguntas.**
+origen	numero	tema	motivo
+58_preguntas_mont_equip_audio	48	01	Qué es un I.F.B.: comunicación del realizador con el presentador
+58_preguntas_mont_equip_audio	73	01	Qué significa el acrónimo SAI
+58_preguntas_mont_equip_audio	2	02	Responsable de los contenidos de los informativos: el editor
+58_preguntas_mont_equip_audio	83	10	Por qué el técnico de montaje asiste al operador en movimientos complejos
+58_preguntas_mont_equip_audio	12	03	Ventaja del teleobjetivo en una retransmisión deportiva
+58_preguntas_mont_equip_audio	14	03	Cuándo hay que alimentar una cámara externamente, según el cable
+58_preguntas_mont_equip_audio	32	03	Cómo se guarda una óptica en su maleta de transporte
+58_preguntas_mont_equip_audio	55	03	Conector del auricular de intercom de una cámara broadcast
+58_preguntas_mont_equip_audio	67	03	Para qué sirve la alimentación phantom de 48 V en una cámara
+58_preguntas_mont_equip_audio	79	03	Teleobjetivo frente a gran angular: distancia focal
+58_preguntas_mont_equip_audio	95	03	Tensión de alimentación del visor HDVF-EL75 en una Sony HDC
+58_preguntas_mont_equip_audio	3	04	Cómo estabilizar un trípode con mucho viento
+58_preguntas_mont_equip_audio	18	04	Diferencia entre trípode y pedestal
+58_preguntas_mont_equip_audio	19	04	Qué es la estabilización pasiva
+58_preguntas_mont_equip_audio	24	04	Cuál NO es parte básica de una cabeza de cámara
+58_preguntas_mont_equip_audio	52	04	Función de la cola de milano en un trípode
+58_preguntas_mont_equip_audio	62	04	El soporte estabilizador llamado «ducha»
+58_preguntas_mont_equip_audio	86	04	Qué es un spreader
+58_preguntas_mont_equip_audio	88	04	Peso máximo de la cabeza robótica VINTEN FH-155
+58_preguntas_mont_equip_audio	4	05	Conector BNC de alta densidad para patch panels y matrices
+58_preguntas_mont_equip_audio	5	05	Qué es un conector BNC
+58_preguntas_mont_equip_audio	6	05	La malla de un cable de sonido y las interferencias
+58_preguntas_mont_equip_audio	10	05	Conexión de la antena receptora Sennheiser AD 3700
+58_preguntas_mont_equip_audio	13	05	Construcción correcta de un cable XLR
+58_preguntas_mont_equip_audio	27	05	Qué es un conector speakon
+58_preguntas_mont_equip_audio	28	05	Diámetro del núcleo de la fibra monomodo
+58_preguntas_mont_equip_audio	40	05	De cuántos hilos consta un conector RJ45
+58_preguntas_mont_equip_audio	50	05	Conector de red de alta velocidad en sistemas audiovisuales
+58_preguntas_mont_equip_audio	61	05	Impedancia de una conexión BNC de vídeo SDI
+58_preguntas_mont_equip_audio	64	05	Cuál NO es un material termoplástico
+58_preguntas_mont_equip_audio	66	05	Función del dieléctrico en un cable
+58_preguntas_mont_equip_audio	68	05	Qué son los cables de tecnología híbrida
+58_preguntas_mont_equip_audio	74	05	Fibra óptica para aplicaciones de corta distancia
+58_preguntas_mont_equip_audio	78	05	Cuál NO es característica del cable coaxial
+58_preguntas_mont_equip_audio	91	05	Cuál NO es un conector de fibra óptica
+58_preguntas_mont_equip_audio	94	05	Cuándo un cable XLR está balanceado
+58_preguntas_mont_equip_audio	1	06	Qué es la sensibilidad de un altavoz
+58_preguntas_mont_equip_audio	9	06	Rango dinámico del oído humano: enunciado y opciones no casan
+58_preguntas_mont_equip_audio	20	06	Transductor que convierte presión sonora en corriente
+58_preguntas_mont_equip_audio	21	06	Cuál NO es un tipo de micrófono
+58_preguntas_mont_equip_audio	25	06	Número de ciclos por segundo: la frecuencia
+58_preguntas_mont_equip_audio	35	06	Micrófonos con igual sensibilidad en cualquier dirección
+58_preguntas_mont_equip_audio	38	06	Micrófonos que captan por delante y por detrás del diafragma
+58_preguntas_mont_equip_audio	49	06	Unidad de medida de la frecuencia
+58_preguntas_mont_equip_audio	54	06	Micrófono para un sonido principal debilitado por el ambiente
+58_preguntas_mont_equip_audio	63	06	Instrumento que mide niveles de presión sonora
+58_preguntas_mont_equip_audio	84	06	Qué significa la sonorización 5.1.4
+58_preguntas_mont_equip_audio	15	07	Función del paralelogramo en una grúa
+58_preguntas_mont_equip_audio	26	07	Cuál NO es parte del carro de una grúa
+58_preguntas_mont_equip_audio	33	07	Qué es un travelling circular
+58_preguntas_mont_equip_audio	34	07	Función del nivelador de cabeza en una grúa telescópica
+58_preguntas_mont_equip_audio	36	07	Componente del pedestal que cambia la altura de la cámara
+58_preguntas_mont_equip_audio	39	07	Carga máxima de la Scorpio 23 en modo overslung
+58_preguntas_mont_equip_audio	43	07	Cuál NO es parte del carro de una grúa: repetida de la 26 con un distractor cambiado
+58_preguntas_mont_equip_audio	46	07	Diferencia entre grúa fija y grúa telescópica
+58_preguntas_mont_equip_audio	60	07	Función del sistema de resistencia de arrastre de un pedestal
+58_preguntas_mont_equip_audio	70	07	Qué es la grúa de televisión
+58_preguntas_mont_equip_audio	71	07	Medidas del carro de la Scorpio 23 sobre vías
+58_preguntas_mont_equip_audio	87	07	Desplazamiento lateral paralelo a la escena: el travelling
+58_preguntas_mont_equip_audio	92	07	Conector del sistema de contrapesos dinámico de la Scorpio 23
+58_preguntas_mont_equip_audio	72	08	Longitud máxima del par trenzado entre cabeza caliente y control
+58_preguntas_mont_equip_audio	90	08	Módulo de la cabeza caliente donde van los conectores de entrada
+58_preguntas_mont_equip_audio	7	09	El trabajo desarrollado en un tiempo determinado: la potencia
+58_preguntas_mont_equip_audio	17	09	Resistencia de un material específico: la resistividad
+58_preguntas_mont_equip_audio	37	09	Resolución de grabación UltraHD
+58_preguntas_mont_equip_audio	51	09	Qué es un relé térmico
+58_preguntas_mont_equip_audio	53	09	Para qué sirve una linga
+58_preguntas_mont_equip_audio	57	09	Cuál NO es parte de un enlace punto a punto
+58_preguntas_mont_equip_audio	58	09	Con qué se mide la resistencia eléctrica
+58_preguntas_mont_equip_audio	59	09	Dato obligatorio en la placa de identificación de una linga
+58_preguntas_mont_equip_audio	69	09	Qué significa arriostramiento
+58_preguntas_mont_equip_audio	77	09	Interruptor con botón de test que protege de derivaciones
+58_preguntas_mont_equip_audio	82	09	Dónde se conecta el latiguillo con conector N en un enlace
+58_preguntas_mont_equip_audio	93	09	Qué le pasa a la corriente si aumenta la resistencia
+58_preguntas_mont_equip_audio	96	09	Con qué aparato se mide la tensión eléctrica

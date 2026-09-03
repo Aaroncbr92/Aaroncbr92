@@ -1,6 +1,6 @@
 # PRL específico · Prevención en el temario específico (Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 21 · Gestión Administrativa 13 · Gestión 31 · Documentación 7 · Información y Contenidos 11)
 
-31 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+44 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -148,6 +148,31 @@ d) La fatiga mental junto con el estrés.
 
 ---
 
+**29_preguntas_igyciys · nº 17 · respuesta: b**
+
+```
+17. ¿Cuál es la  altura mínima que debe tener una barandilla o quitamiedos en una plataforma elevada o 
+practicable para operar una cámara en un rodaje? 
+a)  1,5 m. 
+b)  90 cm. 
+c)  2 m. 
+d)  80 cm.
+```
+
+---
+
+**29_preguntas_igyciys · nº 22 · respuesta: b**
+
+```
+22. ¿A qué partes o zonas del cuerpo afectan las posturas forzadas o prolongadas en el tiempo? 
+a)  Parte superior del tronco y extremidades superiores. 
+b)  Músculos, tendones, articulaciones, nervios de las manos, cuello, brazos y espalda. 
+c)  Espalda, cuello, hombros y extremidades superiores e inferiores. 
+d)  Músculos, articulaciones, nervios de las manos, cuello y espalda.
+```
+
+---
+
 **36_preguntas_ing_sup_industrial · nº 45 · respuesta: a**
 
 ```
@@ -247,6 +272,148 @@ a) Polvo químico seco.
 b) Espuma.
 c) Dióxido de carbono (CO2).
 d) Agua.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 8 · respuesta: c**
+
+```
+8.- ¿Qué establece la normativa vigente respecto a los trabajos en altura?
+a) Sólo se deben proteger los trabajos realizados a más de un metro de altura.
+b) Se consideran trabajos en altura sólo los realizados en andamios.
+c) Es obligatorio proteger cuando exista riesgo de caída de más de dos metros.
+d) No se requiere ninguna medida si se usan métodos adecuados de trabajo.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 23 · respuesta: c**
+
+```
+23.- ¿Cuál de estas técnicas NO es adecuada para levantar un objeto del suelo según el
+manual de manipulación manual de cargas de RTVE?
+a) Mantener el objeto lo más cerca posible del cuerpo durante el levantamiento.
+b) Evitar girar el torso mientras se sostiene el objeto.
+c) Levantar el objeto con las piernas rectas y la espalda estirada.
+d) Levantar el objeto con la fuerza de las piernas.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 30 · respuesta: a**
+
+```
+30.- ¿Cuál de estas medidas se tomará en primer lugar en materia preventiva, al realizar
+trabajos en altura?
+a) Evitar el riesgo en su origen.
+b) Comunicar el riesgo a la autoridad competente.
+c) Tomar medidas de protección colectiva.
+d) Tomar medidas de protección individual.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 31 · respuesta: a**
+
+```
+31.- Un elemento de amarre con absorbedor de energía corresponde a:
+a) EN - UNE 355.
+b) EN - UNE 362.
+c) EN - UNE 365.
+d) EN - UNE 358.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 45 · respuesta: b**
+
+```
+45.- ¿Con qué frecuencia se debe inspeccionar un arnés de seguridad?
+a) Una vez cada semana.
+b) Antes de cada uso.
+c) Una vez al año.
+d) Cada cinco años en las inspecciones periódicas que reciben los EPIS de altura
+proporcionados por la empresa.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 47 · respuesta: d**
+
+```
+47.- ¿Cuál de las siguientes afirmaciones sobre la línea de vida durante trabajos en altura NO
+es cierta?
+a) Puede ser fija o temporal.
+b) Puede ser horizontal o vertical.
+c) Es recomendable que se encuentre por encima del punto de anclaje del operario.
+d) Puede ser utilizada por varios trabajadores en cada tramo.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 56 · respuesta: a**
+
+```
+56.- ¿Cuándo estará provista de trampillas una plataforma para su acceso por escaleras
+interiores?
+a) A partir de 2 metros de altura.
+b) A partir de 1.5 metros de altura.
+c) A partir de 2.5 metros de altura.
+d) A partir de 1.75 metros de altura.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 65 · respuesta: d**
+
+```
+65.- Para colocar una escalera apoyada a un poste vertical, el ángulo que forma la escalera
+con la superficie horizontal debe estar comprendido entre:
+a) 60º y 70º.
+b) 60º y 90º.
+c) 65º y 75º.
+d) 70º y 75º.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 76 · respuesta: d**
+
+```
+76.- En plataformas elevadas, ¿a partir de qué altura se instalará una barra intermedia entre la
+barandilla y el rodapié, para evitar accidentes por desplazamiento?.
+a) 2 metros.
+b) 1 metro.
+c) 0,5 metros.
+d) 1,5 metros.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 80 · respuesta: d**
+
+```
+80.- Según Real decreto 393/2007 de 23 de Marzo, por el que se aprueba la Norma Básica de
+Autoprotección de los centros, la vigencia de dicho plan se mantendrá actualizado, y se
+revisará al menos:
+a) Con una periodicidad no superior a cuatro años.
+b) Con una periodicidad no superior a dos años.
+c) Con una periodicidad no superior a un año.
+d) Con una periodicidad no superior a tres años.
+```
+
+---
+
+**58_preguntas_mont_equip_audio · nº 85 · respuesta: b**
+
+```
+85.- En una estructura, ¿cuánto deben sobrepasar los largueros en los puntos superiores de
+apoyo cuando se utilicen para acceder a lugares elevados?
+a) 2 metros.
+b) 1 metro.
+c) 1,5 metros.
+d) 1,2 metros.
 ```
 
 ---

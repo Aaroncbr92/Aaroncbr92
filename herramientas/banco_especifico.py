@@ -59,7 +59,14 @@ MARCA = {"informacion": "iyc", "gestion-administrativa": "gea",
 # cuadernillos son suyos**, por su nombre exacto.
 SOLO = {"produccion": ("81_preguntas_produccion",),
         "realizacion": ("60_preguntas_realizacion_asist",
-                        "62_preguntas_realizacion_asist_2_llamamiento")}
+                        "62_preguntas_realizacion_asist_2_llamamiento"),
+        # Realización a secas —Realización Televisión— tiene sus dos propios
+        # llamamientos, el `66` y el `68`, y su Anexo 2 es otro
+        "realizacion-tv": ("66_preguntas_realizacion_a",
+                           "68_preguntas_realizacion_b"),
+        "informacion-grafica": ("29_preguntas_igyciys",),
+        "edicion-montaje": ("11_preguntas_emypa",),
+        "montaje-equipos": ("58_preguntas_mont_equip_audio",)}
 
 
 def reparto(ocupacion):
@@ -196,6 +203,95 @@ def main(ocupacion, titulos):
 # Los títulos con los que se encabeza cada fichero del banco. Uno por ocupación,
 # porque el reparto es distinto y los temas no se llaman igual.
 TITULOS = {
+ "realizacion-tv": {
+    "01": "Realización · Tema 1 · La música",
+    "02": "Realización · Tema 2 · Las artes escénicas",
+    "03": "Realización · Tema 3 · La literatura",
+    "04": "Realización · Tema 4 · Las artes plásticas y la fotografía",
+    "05": "Realización · Tema 5 · El cine",
+    "06": "Realización · Tema 6 · La televisión: historia, cadenas y programas",
+    "07": "Realización · Tema 7 · Géneros y formatos televisivos",
+    "08": "Realización · Tema 8 · El guion",
+    "09": "Realización · Tema 9 · Organización general de la producción",
+    "10": "Realización · Tema 10 · Funciones del realizador y los puestos "
+          "técnico-artísticos",
+    "11": "Realización · Tema 11 · Conocimientos básicos de televisión: la "
+          "señal y su control",
+    "12": "Realización · Tema 12 · Formatos y procesos de registro, captación y "
+          "reproducción",
+    "13": "Realización · Tema 13 · Lenguaje técnico y narrativo",
+    "14": "Realización · Tema 14 · La cámara: accesorios y posibilidades",
+    "15": "Realización · Tema 15 · El mezclador",
+    "16": "Realización · Tema 16 · La iluminación",
+    "17": "Realización · Tema 17 · El sonido",
+    "18": "Realización · Tema 18 · Producción de programas directos y grabados",
+    "19": "Realización · Tema 19 · La puesta en escena",
+    "20": "Realización · Tema 20 · Postproducción",
+    "21": "Realización · Tema 21 · Producción y realización online. Transmedia",
+    "22": "Realización · Tema 22 · Derechos de autor y propiedad intelectual",
+ },
+ "informacion-grafica": {
+    "01": "Información Gráfica · Tema 1 · Principios básicos: la luz, el color "
+          "y la percepción visual",
+    "02": "Información Gráfica · Tema 2 · Señales y formatos: de la señal a la "
+          "medida",
+    "03": "Información Gráfica · Tema 3 · La cámara de vídeo y el sensor",
+    "04": "Información Gráfica · Tema 4 · Los objetivos, los filtros y los "
+          "accesorios",
+    "05": "Información Gráfica · Tema 5 · Soportes de cámara y estabilización",
+    "06": "Información Gráfica · Tema 6 · El sonido en ENG y producción ligera",
+    "07": "Información Gráfica · Tema 7 · La iluminación en ENG y producción "
+          "ligera",
+    "08": "Información Gráfica · Tema 8 · Control de cámara y ajuste de imagen",
+    "09": "Información Gráfica · Tema 9 · Envíos, directos y cámaras "
+          "robotizadas",
+    "10": "Información Gráfica · Tema 10 · Lenguaje audiovisual",
+    "11": "Información Gráfica · Tema 11 · Teoría de la información "
+          "audiovisual",
+ },
+ "edicion-montaje": {
+    "01": "Edición, Montaje y Procesos Audiovisuales · Tema 1 · Conocimientos "
+          "básicos de electrónica e informática aplicadas",
+    "02": "Edición, Montaje y Procesos Audiovisuales · Tema 2 · Colorimetría y "
+          "el color en televisión",
+    "03": "Edición, Montaje y Procesos Audiovisuales · Tema 3 · Conceptos "
+          "básicos de sonido",
+    "04": "Edición, Montaje y Procesos Audiovisuales · Tema 4 · Tratamiento "
+          "digital de la señal de televisión",
+    "05": "Edición, Montaje y Procesos Audiovisuales · Tema 5 · Soportes, "
+          "formatos, grabación e ingesta",
+    "06": "Edición, Montaje y Procesos Audiovisuales · Tema 6 · Equipos de "
+          "medida y control",
+    "07": "Edición, Montaje y Procesos Audiovisuales · Tema 7 · Edición de "
+          "vídeo: Avid Media Composer",
+    "08": "Edición, Montaje y Procesos Audiovisuales · Tema 8 · Edición en "
+          "directo y retransmisiones: EVS",
+    "09": "Edición, Montaje y Procesos Audiovisuales · Tema 9 · Incrustaciones, "
+          "grafismo y postproducción",
+    "10": "Edición, Montaje y Procesos Audiovisuales · Tema 10 · Lenguaje "
+          "audiovisual y teoría del montaje",
+ },
+ "montaje-equipos": {
+    "01": "Montaje de Equipos Audiovisuales · Tema 1 · Instalaciones de "
+          "televisión y unidades móviles",
+    "02": "Montaje de Equipos Audiovisuales · Tema 2 · Profesionales, roles y "
+          "operativa de una grabación",
+    "03": "Montaje de Equipos Audiovisuales · Tema 3 · Las cámaras: tipos, "
+          "elementos externos y manejo seguro",
+    "04": "Montaje de Equipos Audiovisuales · Tema 4 · Cabezas de cámara y "
+          "soportes: instalación y nivelado",
+    "05": "Montaje de Equipos Audiovisuales · Tema 5 · Conectores, cables y "
+          "elementos de conexión",
+    "06": "Montaje de Equipos Audiovisuales · Tema 6 · Sonido: micrófonos, "
+          "altavoces y soportes",
+    "07": "Montaje de Equipos Audiovisuales · Tema 7 · Maquinaria para el "
+          "movimiento de cámaras",
+    "08": "Montaje de Equipos Audiovisuales · Tema 8 · La cabeza caliente",
+    "09": "Montaje de Equipos Audiovisuales · Tema 9 · Montaje de equipos en "
+          "estudios y exteriores",
+    "10": "Montaje de Equipos Audiovisuales · Tema 10 · Asistencia a la "
+          "operación de cámara",
+ },
  "realizacion": {
     "01": "Realización (Asistencia) · Tema 1 · Géneros y formatos televisivos",
     "02": "Realización (Asistencia) · Tema 2 · El guion",

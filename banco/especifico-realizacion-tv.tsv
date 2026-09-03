@@ -1,0 +1,246 @@
+# Reparto a mano de las preguntas del bloque específico de REALIZACIÓN
+# —Realización Televisión, la ocupación tipo de grado, no la de Asistencia—.
+#
+# **Dos cuadernillos completos**: `66_preguntas_realizacion_a` y
+# `68_preguntas_realizacion_b`, 120 preguntas cada uno, con sus dos plantillas
+# oficiales. Es el segundo banco más grande del proyecto, detrás del de
+# Realización (Asistencia).
+#
+# **Diez van al banco del bloque común** y las clasifica el script por su
+# materia; **una más, la 73 del segundo llamamiento**, es del II Plan de
+# Igualdad y va a mano en `reclasificadas.tsv`.
+#
+# **El bloque 1 del Anexo 2 —la cultura audiovisual— es lo que distingue a esta
+# ocupación de Realización (Asistencia)**: música, televisión, artes escénicas,
+# literatura, artes plásticas, fotografía y cine. Sus siete subpuntos se llevan
+# **cuarenta preguntas** entre los dos llamamientos.
+origen	numero	tema	motivo
+66_preguntas_realizacion_a	1	14	Cuál NO es característica de una cámara PTZ
+66_preguntas_realizacion_a	4	08	Robert McKee: la historia que progresa hasta el límite
+66_preguntas_realizacion_a	5	20	Cómo se llama el montaje posterior a la grabación
+66_preguntas_realizacion_a	6	15	Equipo para hacer un chroma en tiempo real
+66_preguntas_realizacion_a	7	12	Estándar 4K UHDV con escala 16:9
+66_preguntas_realizacion_a	8	12	Frecuencia de fps del sistema NTSC
+66_preguntas_realizacion_a	9	11	En qué puesto es prioritario el monitor de grado 1
+66_preguntas_realizacion_a	10	17	Qué significa el acrónimo FOH
+66_preguntas_realizacion_a	11	18	Cámaras para la realización de una etapa de vuelta ciclista
+66_preguntas_realizacion_a	12	07	Qué es un talk-show
+66_preguntas_realizacion_a	13	20	Bin de Avid Media Composer en modo FRAME
+66_preguntas_realizacion_a	14	16	En qué consiste la confusión tonal
+66_preguntas_realizacion_a	15	18	Instalar una cámara en el desfile de las Fuerzas Armadas
+66_preguntas_realizacion_a	16	18	Qué es el «Superflash» en un partido de fútbol
+66_preguntas_realizacion_a	17	17	Qué diferencia a Dolby Atmos de otros sistemas envolventes
+66_preguntas_realizacion_a	18	08	Qué es un logline
+66_preguntas_realizacion_a	19	22	En qué siglo se acuñó el término copyright
+66_preguntas_realizacion_a	20	12	Cómo se llama el tamaño físico de una imagen en píxeles
+66_preguntas_realizacion_a	21	08	Primera fase plenamente literaria en cine
+66_preguntas_realizacion_a	22	13	Qué es un barrido
+66_preguntas_realizacion_a	23	08	El decoupage o guion técnico según Noël Burch
+66_preguntas_realizacion_a	24	01	Qué es la escala diatónica
+66_preguntas_realizacion_a	25	20	Finalidad de preparar un montaje preliminar
+66_preguntas_realizacion_a	26	02	Brecht y el trabajo sobre el texto y la puesta en escena
+66_preguntas_realizacion_a	27	08	Cuándo se utiliza la focalización cero
+66_preguntas_realizacion_a	28	13	Tamaños de plano de los invitados frente a la cámara 2
+66_preguntas_realizacion_a	29	15	Timeline iniciado por el mezclador en una emisión en directo
+66_preguntas_realizacion_a	30	21	Características del protocolo de seguimiento de cámara Mo-Sys
+66_preguntas_realizacion_a	31	15	Opción para incrustar sin un mezclador con keys
+66_preguntas_realizacion_a	32	08	Discusión y análisis tras el primer guion
+66_preguntas_realizacion_a	33	17	Qué es un PFL en una consola de mezcla de audio
+66_preguntas_realizacion_a	34	08	Qué es el idiolecto de un personaje
+66_preguntas_realizacion_a	35	01	Autoría de la banda sonora de «Los odiosos ocho»
+66_preguntas_realizacion_a	36	17	Grabación de un cantante en estudio
+66_preguntas_realizacion_a	37	18	Panel de intercom del realizador de la señal internacional
+66_preguntas_realizacion_a	38	02	Qué es la cuarta pared en televisión
+66_preguntas_realizacion_a	39	22	Derechos de explotación: artículo 26 de la Ley de Propiedad Intelectual
+66_preguntas_realizacion_a	40	18	Equipo que distribuye una señal 4K a las pantallas de un estudio
+66_preguntas_realizacion_a	41	18	Posición de la cámara máster en una realización de tenis
+66_preguntas_realizacion_a	42	18	Qué es un teradek
+66_preguntas_realizacion_a	43	16	Quién descompuso por primera vez la luz blanca en su espectro
+66_preguntas_realizacion_a	44	18	Qué es un IFB de audio en producción en vivo
+66_preguntas_realizacion_a	45	05	Película con el récord de nominaciones a los Goya
+66_preguntas_realizacion_a	46	20	Punto común entre la interpretación actoral y el montaje
+66_preguntas_realizacion_a	47	17	Máximo de pistas de audio de Dolby Atmos
+66_preguntas_realizacion_a	48	14	Qué cámaras llevan teleobjetivo según la planta
+66_preguntas_realizacion_a	49	18	Producción de un partido de fútbol internacional
+66_preguntas_realizacion_a	50	04	Autoría de las fotografías de la imagen
+66_preguntas_realizacion_a	52	08	Cuál NO es función de los diálogos
+66_preguntas_realizacion_a	53	12	Cuál NO es un soporte de grabación
+66_preguntas_realizacion_a	54	08	Desarrollo próximo al guion sin abordar los diálogos
+66_preguntas_realizacion_a	55	02	Cómo se define un traspunte
+66_preguntas_realizacion_a	56	03	«Contact» es la adaptación de una novela de
+66_preguntas_realizacion_a	57	01	Quién dirigió el concierto de año nuevo de la Filarmónica de Viena
+66_preguntas_realizacion_a	58	13	¿Existe eje en esta imagen?
+66_preguntas_realizacion_a	59	17	Característica física que define un sonido grave o agudo
+66_preguntas_realizacion_a	60	16	Qué se pide si en una lista de material se lee «astera»
+66_preguntas_realizacion_a	61	17	Qué describe la frecuencia de muestreo en audio digital
+66_preguntas_realizacion_a	62	14	Qué se modifica al incrementar la ganancia de una cámara
+66_preguntas_realizacion_a	63	08	Qué es un plot en una obra
+66_preguntas_realizacion_a	64	13	Relación entre los conceptos de toma y plano
+66_preguntas_realizacion_a	65	11	Qué es el rango dinámico de una imagen digital
+66_preguntas_realizacion_a	66	11	Profundidad de color mínima en equipos profesionales
+66_preguntas_realizacion_a	67	18	Función del confidente en un panel de intercom
+66_preguntas_realizacion_a	68	14	Qué es la estabilización pasiva
+66_preguntas_realizacion_a	69	21	Diferencia entre realidad aumentada y realidad virtual
+66_preguntas_realizacion_a	70	18	Conexión a internet de una mochila de transmisión 3G/4G
+66_preguntas_realizacion_a	71	09	Qué es un rider técnico
+66_preguntas_realizacion_a	72	14	Qué es un macro
+66_preguntas_realizacion_a	73	14	Objetivo con un ángulo de visión determinado
+66_preguntas_realizacion_a	74	05	A quién se otorgó el primer Premio Goya Internacional
+66_preguntas_realizacion_a	75	12	De dónde procede el código de tiempo lineal (LTC)
+66_preguntas_realizacion_a	76	08	Qué es un BEAT o golpe de efecto
+66_preguntas_realizacion_a	77	15	Con qué se puede hacer un chroma key
+66_preguntas_realizacion_a	78	10	Quién entra y saca invitados en el plató
+66_preguntas_realizacion_a	79	07	Qué describe correctamente el género sitcom
+66_preguntas_realizacion_a	80	08	Término creado por Hitchcock para el elemento que mueve la trama
+66_preguntas_realizacion_a	81	21	A qué se refiere el storyworld
+66_preguntas_realizacion_a	82	10	Responsable del control general de un proyecto informativo
+66_preguntas_realizacion_a	83	14	Efecto en las cámaras con CCD al perderse detalle
+66_preguntas_realizacion_a	84	13	En un plano secuencia, ¿se puede saltar el eje?
+66_preguntas_realizacion_a	85	09	Orden de los procesos de una producción audiovisual
+66_preguntas_realizacion_a	86	20	Cómo se crea un ritmo analítico
+66_preguntas_realizacion_a	87	12	En qué se basa la UHD
+66_preguntas_realizacion_a	89	13	Qué clase de eje crean las miradas de los personajes
+66_preguntas_realizacion_a	90	17	Qué se hace al introducir un delay en una señal de audio
+66_preguntas_realizacion_a	91	13	Altura del presentador y tamaño de plano
+66_preguntas_realizacion_a	92	18	Grabación de una gala en un plató de Prado del Rey
+66_preguntas_realizacion_a	93	12	Identificar un tipo de conector en la imagen
+66_preguntas_realizacion_a	94	14	Qué es un cangrejo
+66_preguntas_realizacion_a	95	06	Cuándo nace VerificaRTVE
+66_preguntas_realizacion_a	96	05	Quién es el guionista de «El apartamento»
+66_preguntas_realizacion_a	97	09	Para qué sirve un desglose de guion
+66_preguntas_realizacion_a	98	17	Cuál de las afirmaciones sobre el sonido NO es correcta
+66_preguntas_realizacion_a	99	06	Quién presenta «Cachitos de Hierro y Cromo»
+66_preguntas_realizacion_a	100	12	Bits de una palabra de código de tiempo LTC
+66_preguntas_realizacion_a	101	06	Qué es un junket
+66_preguntas_realizacion_a	102	15	Software que programa cada cambio de plano y transición
+66_preguntas_realizacion_a	103	17	A qué hace referencia el Buzz Track
+66_preguntas_realizacion_a	104	12	Número mínimo de discos para configurar un RAID 1
+66_preguntas_realizacion_a	105	17	Qué comprende la banda de sonido
+66_preguntas_realizacion_a	106	14	Cómo distorsionar la perspectiva del fondo
+66_preguntas_realizacion_a	108	11	A qué se llama TSNR
+66_preguntas_realizacion_a	109	09	Criterios de la persona encargada de las localizaciones
+66_preguntas_realizacion_a	110	13	Continuidad de planos válida entre cuatro personajes
+66_preguntas_realizacion_a	111	11	Qué son las constantes perceptivas
+66_preguntas_realizacion_a	112	20	Qué herramienta de Avid Media Composer usar
+66_preguntas_realizacion_a	113	20	Qué es el Trim
+66_preguntas_realizacion_a	114	05	El realismo en «La llegada del tren» de los Lumière
+66_preguntas_realizacion_a	115	06	Fecha de la primera transmisión televisiva en España
+66_preguntas_realizacion_a	116	17	Cómo evitar los errores por redondeo en la cuantificación de audio
+66_preguntas_realizacion_a	117	18	Información de un minutado de iNEWS
+66_preguntas_realizacion_a	118	08	Qué es una paralipsis como recurso narrativo
+66_preguntas_realizacion_a	119	19	Altura del set de actuación principal en una planta de decorado
+66_preguntas_realizacion_a	120	16	Colores complementarios en un sistema aditivo
+68_preguntas_realizacion_b	1	12	Formato de archivo que contiene solo audio
+68_preguntas_realizacion_b	2	07	Qué es un docudrama
+68_preguntas_realizacion_b	3	16	Cuándo se habla de iluminación en clave alta
+68_preguntas_realizacion_b	4	12	Duración de un vídeo por su código de tiempo
+68_preguntas_realizacion_b	6	11	De qué depende la profundidad de color
+68_preguntas_realizacion_b	7	08	Bosquejo conciso de personajes, acción y argumento
+68_preguntas_realizacion_b	8	20	Herramienta de inteligencia artificial de Media Composer Ultimate
+68_preguntas_realizacion_b	9	18	A qué se refiere el DSNG
+68_preguntas_realizacion_b	10	20	Qué es el crossfade en edición de audio
+68_preguntas_realizacion_b	11	20	La analogía de contenido material según Marcel Martín
+68_preguntas_realizacion_b	12	13	El raccord de apreciación retardada según Burch
+68_preguntas_realizacion_b	13	08	No existe drama en el texto narrativo sin…
+68_preguntas_realizacion_b	14	08	Qué es una escaleta
+68_preguntas_realizacion_b	15	20	Qué es un EVS dump
+68_preguntas_realizacion_b	16	18	Qué incluye un montaje de iso cams en un partido de fútbol
+68_preguntas_realizacion_b	17	14	Qué es una Mini Jib
+68_preguntas_realizacion_b	18	19	Cómo se llama lo que se realiza en el estudio con escenografía, luz y actores
+68_preguntas_realizacion_b	19	02	Proscenio y embocadura en un teatro a la italiana
+68_preguntas_realizacion_b	20	06	País del Festival de Eurovisión 2025
+68_preguntas_realizacion_b	21	13	A qué nos referimos con jump cut
+68_preguntas_realizacion_b	22	13	Planos de las cámaras en la escena
+68_preguntas_realizacion_b	23	17	Los cuatro subsistemas sígnicos de la banda sonora
+68_preguntas_realizacion_b	24	05	Actriz que recibió el Goya de Honor en 2025
+68_preguntas_realizacion_b	25	14	Qué indica el signo Φ en el cuerpo de las cámaras
+68_preguntas_realizacion_b	26	20	Qué es el sistema Avid Media Central
+68_preguntas_realizacion_b	27	18	Señal internacional y señal personalizada de un evento deportivo
+68_preguntas_realizacion_b	28	15	Equipo que NO es generador de caracteres
+68_preguntas_realizacion_b	29	20	Qué hace la función gang en IPDirector de EVS
+68_preguntas_realizacion_b	30	20	Qué hacemos al trimar en edición no lineal
+68_preguntas_realizacion_b	31	12	Formato de archivo desarrollado por Apple
+68_preguntas_realizacion_b	32	01	Orden de las figuras musicales de mayor a menor valor
+68_preguntas_realizacion_b	33	05	Película con más premios Óscar de la historia
+68_preguntas_realizacion_b	34	05	Quién dirigió «La Cabina»
+68_preguntas_realizacion_b	35	12	Qué permitirá la emisión en DVB-T2
+68_preguntas_realizacion_b	36	18	Posición de las cámaras en un partido de bádminton
+68_preguntas_realizacion_b	37	11	Cómo influye la distancia en la percepción de profundidad
+68_preguntas_realizacion_b	38	08	Orden correcto de las fases de construcción del guion
+68_preguntas_realizacion_b	39	16	De qué factores depende la matización de las sombras
+68_preguntas_realizacion_b	40	17	A qué se refiere el timbre del sonido
+68_preguntas_realizacion_b	41	19	Departamento al que se solicita una carra
+68_preguntas_realizacion_b	42	08	Qué es el paradigma
+68_preguntas_realizacion_b	43	06	Localidad con Centro Territorial de RTVE
+68_preguntas_realizacion_b	44	19	Con qué se aseguran las estructuras de los decorados
+68_preguntas_realizacion_b	45	05	Primer estudio de rodaje de la historia
+68_preguntas_realizacion_b	46	10	Qué es un showrunner
+68_preguntas_realizacion_b	47	18	Qué es un spotter
+68_preguntas_realizacion_b	48	12	Patrón sin submuestreo de las señales de crominancia
+68_preguntas_realizacion_b	49	10	Quién cumple la figura de Director en un programa informativo
+68_preguntas_realizacion_b	50	20	Qué significa que un vídeo acabe «a capón»
+68_preguntas_realizacion_b	51	12	Estándar 4K Cinema con escala 17:9
+68_preguntas_realizacion_b	52	14	Qué es una CCU en televisión
+68_preguntas_realizacion_b	53	07	Qué es un falso directo en un informativo
+68_preguntas_realizacion_b	54	12	La recuantificación de los coeficientes en DCT
+68_preguntas_realizacion_b	55	11	A qué equivale un nit
+68_preguntas_realizacion_b	56	13	Qué es un falso raccord
+68_preguntas_realizacion_b	57	14	Qué se controla con un RCP
+68_preguntas_realizacion_b	58	07	Qué es propio del reportaje televisivo
+68_preguntas_realizacion_b	59	18	Sede temporal para grandes eventos deportivos
+68_preguntas_realizacion_b	60	13	Plano general de un carpintero cortando un tablero
+68_preguntas_realizacion_b	61	09	Altitud de una figura con la escala gráfica de un plano
+68_preguntas_realizacion_b	62	08	Qué es el subplot
+68_preguntas_realizacion_b	63	17	Qué permite la tecnología Dolby Atmos
+68_preguntas_realizacion_b	64	09	A qué se llama relación de rodaje
+68_preguntas_realizacion_b	65	04	Año en que Niépce inventó el procedimiento heliográfico
+68_preguntas_realizacion_b	66	17	A qué está ligada la frecuencia desde el punto de vista sensorial
+68_preguntas_realizacion_b	67	07	Qué NO se incluye en un magazine
+68_preguntas_realizacion_b	68	18	Cómo introducir información en un minutado de iNEWS
+68_preguntas_realizacion_b	69	07	Qué es un formato en televisión
+68_preguntas_realizacion_b	70	17	Configuración del Audio Mixer para un resultado estéreo
+68_preguntas_realizacion_b	71	06	Programa de RTVE que cumple 40 años en 2025
+68_preguntas_realizacion_b	74	01	El violín y la viola: cuál es más grande
+68_preguntas_realizacion_b	75	09	Término inglés que define el documento de la imagen
+68_preguntas_realizacion_b	76	21	Motores de render en un decorado virtual multicámara
+68_preguntas_realizacion_b	77	01	Autoría de la banda sonora de «Twin Peaks»
+68_preguntas_realizacion_b	78	14	Qué es un slider
+68_preguntas_realizacion_b	79	01	Identificar el instrumento de la imagen
+68_preguntas_realizacion_b	80	04	Qué es un passepartout
+68_preguntas_realizacion_b	82	18	Qué significa N-1 en una producción audiovisual
+68_preguntas_realizacion_b	84	13	Forma de saltar el eje sin impresión de cambio de dirección
+68_preguntas_realizacion_b	85	21	Qué se necesita para un elemento virtual en primer plano
+68_preguntas_realizacion_b	86	08	Qué es un hareng-saur o red herring
+68_preguntas_realizacion_b	87	13	Qué es una elipsis en cine o televisión
+68_preguntas_realizacion_b	88	14	Qué es una Twin Cam
+68_preguntas_realizacion_b	89	13	Secuencia de planos sin cambio de sentido en el corte
+68_preguntas_realizacion_b	90	05	Primera cámara de cine que grabó en 4K
+68_preguntas_realizacion_b	91	21	Tecnología de realidad mixta en la fotografía
+68_preguntas_realizacion_b	92	20	Principio de los planos largos, medios o cortos
+68_preguntas_realizacion_b	93	10	Quién ordena a control central abrir y cerrar con carta identificativa
+68_preguntas_realizacion_b	94	03	Premio Cervantes de literatura en lengua castellana
+68_preguntas_realizacion_b	95	09	Cuándo se graba una claqueta de final
+68_preguntas_realizacion_b	96	16	Flujo luminoso que incide sobre una superficie
+68_preguntas_realizacion_b	97	05	Película filmada íntegramente en un set de la Paramount
+68_preguntas_realizacion_b	98	18	Deporte en el que no hace falta operar la cámara del plano máster
+68_preguntas_realizacion_b	99	13	Efecto de movimiento espasmódico por omisión de fotogramas
+68_preguntas_realizacion_b	100	14	Qué ocurre al repetir el balance de blancos sobre papel blanco
+68_preguntas_realizacion_b	101	17	Qué es el punto dulce
+68_preguntas_realizacion_b	103	20	Los cinco métodos de montaje según Eisenstein
+68_preguntas_realizacion_b	104	13	Fragmento de la acción con sentido completo en un mismo lugar
+68_preguntas_realizacion_b	105	12	Qué es un proxy de vídeo
+68_preguntas_realizacion_b	106	18	Qué es un running order en una retransmisión multilateral
+68_preguntas_realizacion_b	107	19	El efecto camafeo como estilo escenográfico
+68_preguntas_realizacion_b	108	12	A qué nos referimos con MXF
+68_preguntas_realizacion_b	109	06	Primera emisora del mundo en emitir por televisión
+68_preguntas_realizacion_b	110	11	Parámetros que definen la crominancia
+68_preguntas_realizacion_b	111	16	Término preferido en televisión para la unidad de iluminancia
+68_preguntas_realizacion_b	112	02	Eje escénico y eje de acción en una embocadura de teatro
+68_preguntas_realizacion_b	113	17	Qué determina la profundidad de bits en audio digital
+68_preguntas_realizacion_b	114	08	A qué se denomina Biblia en una serie
+68_preguntas_realizacion_b	115	16	Qué es el cinefoil negro
+68_preguntas_realizacion_b	116	22	Duración de los derechos de las entidades de radiodifusión
+68_preguntas_realizacion_b	117	13	Tipos de planos según el punto de vista
+68_preguntas_realizacion_b	118	21	A qué se refiere el concepto de agency
+68_preguntas_realizacion_b	119	02	Quiénes conciben por primera vez el arte de la escena en el teatro moderno
+68_preguntas_realizacion_b	120	08	Qué es el recurso narrativo de la ironía dramática

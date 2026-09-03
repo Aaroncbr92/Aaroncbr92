@@ -1,0 +1,101 @@
+# Reparto a mano de las preguntas del bloque específico de EDICIÓN, MONTAJE Y
+# PROCESOS AUDIOVISUALES.
+#
+# Un cuadernillo: `11_preguntas_emypa`, 96 preguntas del proceso selectivo de
+# 2024, con su plantilla oficial completa.
+#
+# **Nueve van al banco del bloque común** —la 1, la 2, la 3, la 12, la 29, la
+# 53, la 70, la 85 y la 89— y las clasifica el script por su materia. **Una más,
+# la 45**, es de la Guía de Igualdad y ninguna palabra clave la reconoce: va a
+# mano en `reclasificadas.tsv`.
+#
+# **Ningún punto del Anexo 2 se queda sin preguntas**, y el reparto es muy
+# desigual: el bloque 5 —edición de vídeo— se lleva treinta preguntas entre sus
+# ocho subpuntos, y el bloque 6 —lenguaje y teoría del montaje— catorce.
+origen	numero	tema	motivo
+11_preguntas_emypa	4	01	Niveles RAID: cuál es el sistema espejo
+11_preguntas_emypa	26	01	Qué es el almacenamiento RAID
+11_preguntas_emypa	32	01	Aparato que conecta una red local con una red de área extensa
+11_preguntas_emypa	92	01	Principal ventaja de RAID 5
+11_preguntas_emypa	5	02	Diferencia entre luma constante y no constante
+11_preguntas_emypa	7	02	Construcción de la luminancia en la Recomendación UIT-R BT.709
+11_preguntas_emypa	10	02	Enunciado de la primera ley de Grassman
+11_preguntas_emypa	13	02	Por qué se produce el color banding
+11_preguntas_emypa	40	02	Qué son las LUT
+11_preguntas_emypa	50	02	Monitor necesario para etalonar en HDR
+11_preguntas_emypa	66	02	Unidad para medir el brillo de una pantalla HDR
+11_preguntas_emypa	72	02	Qué produce una curva de gamma logarítmica
+11_preguntas_emypa	83	02	Colores no espectrales
+11_preguntas_emypa	94	02	Ventaja de una profundidad de 10 bits frente a 8
+11_preguntas_emypa	37	03	Propiedad del sonido ligada a las intensidades de los armónicos
+11_preguntas_emypa	41	03	Protocolo de transmisión de datos en un audiocódec IP
+11_preguntas_emypa	86	03	Qué es un filtro shelving
+11_preguntas_emypa	87	03	Qué es el audio ducking
+11_preguntas_emypa	6	04	Profundidad de bits del UHD en su fase 1
+11_preguntas_emypa	18	04	Qué significa el muestreo cromático 4:4:4:4
+11_preguntas_emypa	27	04	Qué es un archivo con códec H.265
+11_preguntas_emypa	43	04	Qué significa el 50i de la señal HD/SDI 1080
+11_preguntas_emypa	44	04	Qué es el jitter en una señal digital
+11_preguntas_emypa	46	04	Resolución espacial del 8K en 16:9
+11_preguntas_emypa	47	04	Qué códec utiliza compresión temporal
+11_preguntas_emypa	65	04	Relación de aspecto del UHD
+11_preguntas_emypa	67	04	Norma internacional que define el HD1080/50i
+11_preguntas_emypa	68	04	Códec del estándar de cine digital DCP
+11_preguntas_emypa	69	04	Por qué el sistema PAL necesita barrido entrelazado
+11_preguntas_emypa	71	04	Qué señal de vídeo usa modulación de amplitud
+11_preguntas_emypa	84	04	Código de tiempo en un sistema de 25 fps
+11_preguntas_emypa	91	04	Recomendación que afecta a la señal de vídeo digital en HD
+11_preguntas_emypa	96	04	Quién desarrolló el códec DNxHD
+11_preguntas_emypa	14	05	Qué es y para qué sirve un archivo AAF
+11_preguntas_emypa	20	05	Audios y codificación del formato XDCAM HD422/50i
+11_preguntas_emypa	21	05	Qué es una cinta LTO
+11_preguntas_emypa	22	05	Menú 150 de los Sony PDW: modo de grabación sin perder material
+11_preguntas_emypa	23	05	Opciones de grabación recurrente en Avid Interplay Capture
+11_preguntas_emypa	34	05	Cuál NO es un formato de imagen digital
+11_preguntas_emypa	88	05	Encapsulado del formato XDCAM HD50i 4:2:2
+11_preguntas_emypa	90	05	Capacidad de un disco XDCAM PFD-128QLW
+11_preguntas_emypa	9	06	Qué amplitud representa el 0 dBFS en un medidor digital
+11_preguntas_emypa	57	06	Cómo afecta la tasa de grabación original a la reproducción
+11_preguntas_emypa	61	06	Cómo afecta la tasa de fps a la reproducción: repetida de la 57
+11_preguntas_emypa	8	07	Qué pasa con los puntos de entrada y salida al usar MATCH FRAME
+11_preguntas_emypa	11	07	Atajo de teclado de la función IN en Avid Media Composer
+11_preguntas_emypa	15	07	Función del setting Dynamic Relink con Avid Interplay
+11_preguntas_emypa	36	07	Aplicar panorama y nivel de audio a toda la pista o a un tramo
+11_preguntas_emypa	38	07	Qué muestra la función Dupe Detection
+11_preguntas_emypa	48	07	Cómo añadir un efecto a un clip que ya tiene otro
+11_preguntas_emypa	52	07	Qué hay que activar para poner keyframes de audio en el timeline
+11_preguntas_emypa	54	07	Cómo se distingue un grupo de clips de un clip en el timeline
+11_preguntas_emypa	56	07	Qué significa la barra de posición verde del timeline
+11_preguntas_emypa	74	07	Opción de la Command Palette para editar desde ella
+11_preguntas_emypa	79	07	Las tres vistas de un bin
+11_preguntas_emypa	81	07	Herramienta que genera un tono para las barras SMPTE
+11_preguntas_emypa	82	07	Modos de interpolación de un keyframe
+11_preguntas_emypa	16	08	Qué permite la función Aux Clip en EVS LSM
+11_preguntas_emypa	19	08	Jerarquía de la numeración de clips en un servidor EVS LSM XT
+11_preguntas_emypa	24	08	Rango de velocidades de la palanca T bar del remoto LSM
+11_preguntas_emypa	25	08	Función para cargar dos clips a la vez en IPDirector
+11_preguntas_emypa	42	08	Qué hace el botón TAKE en modo PGM+PRV
+11_preguntas_emypa	51	08	Cómo se accede al panel VGA VDR en EVS LSM XT
+11_preguntas_emypa	55	08	Cómo se muestran los clips no disponibles en una playlist
+11_preguntas_emypa	59	08	Canales mínimos de reproducción para cargar una timeline
+11_preguntas_emypa	60	08	Qué pasa con dos servidores EVS XT3 en la misma red SDTI
+11_preguntas_emypa	30	09	Sobre qué se aplica el recorte de trazado en After Effects
+11_preguntas_emypa	31	09	Función principal de una máscara de capa en Photoshop
+11_preguntas_emypa	35	09	Cómo anidar dos capas en After Effects
+11_preguntas_emypa	62	09	Cuántas señales intervienen en una composición por llave
+11_preguntas_emypa	73	09	Plugins de After Effects
+11_preguntas_emypa	75	09	Opciones de pendiente del efecto de gradación
+11_preguntas_emypa	78	09	Tipos de capa en After Effects
+11_preguntas_emypa	95	09	Interpolación del asistente de fotogramas clave
+11_preguntas_emypa	17	10	Qué es el match cut
+11_preguntas_emypa	28	10	Qué es el efecto Kuleshov
+11_preguntas_emypa	33	10	Qué es una secuencia dramática
+11_preguntas_emypa	39	10	Qué es el raccord
+11_preguntas_emypa	49	10	Momento más indicado para disimular un cambio de plano
+11_preguntas_emypa	58	10	Principios para la continuidad en una escena de acción rápida
+11_preguntas_emypa	63	10	Con quién se relacionan el MacGuffin y el montaje paralelo
+11_preguntas_emypa	64	10	Mejor definición del eje
+11_preguntas_emypa	76	10	Música diegética: ¿hay que ver la fuente de sonido?
+11_preguntas_emypa	77	10	Qué se consigue con la regla de los tercios
+11_preguntas_emypa	80	10	Qué es un plano holandés
+11_preguntas_emypa	93	10	Qué ocurre con el tiempo en el montaje alterno

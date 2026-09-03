@@ -1,0 +1,109 @@
+# Reparto a mano de las preguntas del bloque específico de INFORMACIÓN GRÁFICA
+# Y CAPTACIÓN DE IMAGEN Y SONIDO.
+#
+# Un cuadernillo: `29_preguntas_igyciys`, 108 preguntas del proceso selectivo de
+# 2024, con su plantilla oficial completa. Es el examen más largo de las cuatro
+# ocupaciones audiovisuales de esta tanda.
+#
+# **Diez van al banco del bloque común** y las clasifica el script por su
+# materia. **Cuatro más van a mano en `reclasificadas.tsv`**: la 2, del convenio;
+# la 9, del artículo 4 de la Ley 31/1995; y la 17 y la 22, del banco compartido
+# de prevención —barandillas de plataforma y posturas forzadas—.
+#
+# **Un punto del Anexo 2 se queda sin ninguna pregunta**: el 6, teoría de la
+# información audiovisual. Se desarrolla igual, y su ficha lo declara.
+origen	numero	tema	motivo
+29_preguntas_igyciys	19	01	La luz de día frente al tungsteno: riqueza en azules
+29_preguntas_igyciys	37	01	Qué longitud de onda tiene mayor frecuencia
+29_preguntas_igyciys	38	01	Qué es un prisma dicroico
+29_preguntas_igyciys	43	01	Orden de los tonos por temperatura de color
+29_preguntas_igyciys	45	01	Enunciado de la tercera ley de Grassmann
+29_preguntas_igyciys	49	01	La placa autocroma de granos de almidón teñidos
+29_preguntas_igyciys	72	01	Comportamiento de los rayos de luz en la refracción
+29_preguntas_igyciys	73	01	Duración de la persistencia retiniana
+29_preguntas_igyciys	77	01	Qué color sufre menos la refracción
+29_preguntas_igyciys	78	01	Duplicar la distancia de la fuente a la superficie
+29_preguntas_igyciys	81	01	Membranas concéntricas del globo ocular
+29_preguntas_igyciys	86	01	Propiedad visual ligada al fenómeno Phi
+29_preguntas_igyciys	104	01	Luz blanca con filtro amarillo y filtro cian
+29_preguntas_igyciys	14	02	Qué se obtiene al aumentar la profundidad de color
+29_preguntas_igyciys	18	02	Qué es el submuestreo cromático
+29_preguntas_igyciys	25	02	Qué función realiza la OETF de la Recomendación UIT-R BT.2100
+29_preguntas_igyciys	26	02	Relación de aspecto del formato UHD
+29_preguntas_igyciys	33	02	Construcción de la luminancia en vídeo UHD
+29_preguntas_igyciys	41	02	Para qué sirve un vectorscopio
+29_preguntas_igyciys	68	02	Frecuencia de muestreo que recomienda el principio de Nyquist
+29_preguntas_igyciys	71	02	Identificar una señal test de diente de sierra
+29_preguntas_igyciys	74	02	Qué función NO pertenece a un monitor profesional
+29_preguntas_igyciys	80	02	Cuál es una gamma estándar en HD
+29_preguntas_igyciys	94	02	Efecto de una mayor profundidad de bit sobre color y margen dinámico
+29_preguntas_igyciys	97	02	Valores de R, G y B para reproducir el blanco a un voltio
+29_preguntas_igyciys	30	03	Dispositivo que convierte las tensiones del píxel en código binario
+29_preguntas_igyciys	40	03	Efecto de la curva S-Log3 sobre la imagen del visor
+29_preguntas_igyciys	54	03	Por qué el full frame da menos profundidad de campo que el 2/3 de pulgada
+29_preguntas_igyciys	57	03	Modo de pregrabación antes de pulsar REC
+29_preguntas_igyciys	59	03	Qué es una máscara de Bayer
+29_preguntas_igyciys	62	03	Formato XDCAM de menor calidad de imagen
+29_preguntas_igyciys	90	03	Qué activar para enviar archivos por internet desde una ENG
+29_preguntas_igyciys	101	03	Material y ajustes para grabar con dos ENG simultáneas
+29_preguntas_igyciys	13	04	Método correcto para ajustar el back focus
+29_preguntas_igyciys	21	04	Qué factor NO influye en la distancia hiperfocal
+29_preguntas_igyciys	27	04	Qué es el bokeh
+29_preguntas_igyciys	29	04	Cuál de estas ópticas tiene mayor distancia focal
+29_preguntas_igyciys	31	04	Cuándo es cierto que a mayor focal, menor profundidad de campo
+29_preguntas_igyciys	32	04	Qué filtro usar para la menor profundidad de campo con exposición correcta
+29_preguntas_igyciys	34	04	Efecto de reducir la apertura del diafragma
+29_preguntas_igyciys	44	04	Cómo se llama el campo de visión desde la cámara
+29_preguntas_igyciys	46	04	Cuándo se mantiene aceptablemente nítida la imagen de un objeto en movimiento
+29_preguntas_igyciys	58	04	Las cinco aberraciones básicas de Seidel
+29_preguntas_igyciys	88	04	Definición óptica de la distancia focal
+29_preguntas_igyciys	89	04	Qué es la velocidad de un objetivo
+29_preguntas_igyciys	93	04	Filtro para resaltar nubes y oscurecer el cielo
+29_preguntas_igyciys	103	04	A qué corresponde el ajuste de tiraje de un zoom
+29_preguntas_igyciys	105	04	Montura con mayor distancia focal de brida
+29_preguntas_igyciys	23	05	Qué es la estabilización activa
+29_preguntas_igyciys	35	05	Cómo se sabe que el balance dinámico de una steadicam está bien
+29_preguntas_igyciys	42	05	Qué controla el operador desde el JDR Pan Bar
+29_preguntas_igyciys	47	05	Cuál NO es un control de cabeza caliente
+29_preguntas_igyciys	48	05	Estabilizador que fija la orientación por medios electromecánicos
+29_preguntas_igyciys	63	05	Sistema de estabilización de la steadicam
+29_preguntas_igyciys	66	05	Tipos de estabilización de imagen
+29_preguntas_igyciys	69	05	Qué describe la técnica «Don Juan» en steadicam
+29_preguntas_igyciys	100	05	Nivelaciones de una grúa telescópica al cambiar el peso de la cámara
+29_preguntas_igyciys	39	06	Rango de frecuencias audible
+29_preguntas_igyciys	51	06	Qué es un transductor eléctrico-mecánico-acústico
+29_preguntas_igyciys	52	06	Cómo grabar un inalámbrico de corbata con una DSLR
+29_preguntas_igyciys	61	06	Se pueden conectar dos inalámbricos de corbata a una XDCAM
+29_preguntas_igyciys	70	06	Para qué se usa el micrófono hipercardioide
+29_preguntas_igyciys	76	06	Grupos de frecuencias en un inalámbrico doble
+29_preguntas_igyciys	79	06	Qué es el margen dinámico de un equipo
+29_preguntas_igyciys	85	06	Qué es un micrófono Lavalier
+29_preguntas_igyciys	12	07	Qué es un ceferino
+29_preguntas_igyciys	50	07	Unidad de la desviación que produce un filtro corrector
+29_preguntas_igyciys	55	07	Cuál es la temperatura de color más alta en grados micro-recíprocos
+29_preguntas_igyciys	75	07	A qué se refiere el Pepper's ghost
+29_preguntas_igyciys	83	07	Cómo igualar incandescencia con luz de día que entra por la ventana
+29_preguntas_igyciys	91	07	Diafragma del fondo para una relación de contraste 16:1
+29_preguntas_igyciys	106	07	Qué ocurre al colocar un CTB delante de una fuente
+29_preguntas_igyciys	11	08	Qué hacer si el control de cámaras pide ajustar la bandera francesa
+29_preguntas_igyciys	16	08	Parámetro que limpia el ruido de una zona oscura
+29_preguntas_igyciys	24	08	Qué hace el circuito black stretch
+29_preguntas_igyciys	53	08	Equivalencia de 6 dB de ganancia en pasos de diafragma
+29_preguntas_igyciys	56	08	Labores del Técnico de Imagen Digital
+29_preguntas_igyciys	64	08	Efecto del ajuste del knee
+29_preguntas_igyciys	67	08	Qué es el balance de blancos
+29_preguntas_igyciys	84	09	Qué NO permite la mochila de transmisión
+29_preguntas_igyciys	92	09	Vías de conexión de una mochila
+29_preguntas_igyciys	102	09	Para qué sirve la función CUT en consolas de cámaras robotizadas
+29_preguntas_igyciys	10	10	A qué se refiere el término Dutch Angle
+29_preguntas_igyciys	15	10	Qué es la deriva en una panorámica
+29_preguntas_igyciys	20	10	Para qué usa el encuadre un reportero gráfico
+29_preguntas_igyciys	28	10	Cómo se llama lo que se desarrolla en veinte o veinticinco líneas
+29_preguntas_igyciys	36	10	Trayectoria posible para un travelling compensado
+29_preguntas_igyciys	60	10	Cómo grabar un plano secuencia
+29_preguntas_igyciys	65	10	Qué se consigue con dos cámaras a cada lado del eje
+29_preguntas_igyciys	82	10	Eliminación de los tiempos muertos: la elipsis
+29_preguntas_igyciys	87	10	Sensación de continuidad entre dos planos: el raccord
+29_preguntas_igyciys	96	10	En qué consiste el efecto Vértigo
+29_preguntas_igyciys	98	10	Qué es una secuencia
+29_preguntas_igyciys	99	10	Ángulo para dar sensación de imagen grandiosa
