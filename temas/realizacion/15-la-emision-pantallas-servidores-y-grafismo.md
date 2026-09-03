@@ -2,7 +2,9 @@
 
 Las siglas de este tema, presentadas de entrada: el banco de mezcla y efectos (**M/E**, escrito
 **ME** en el examen); el programa (**PGM**, escrito **PP** en el panel); el previo (**PVW**); el
-fotograma (**fr**, del inglés *frame*); la corporación de radio y televisión pública española
+fotograma (**fr**, del inglés *frame*); el diodo emisor de luz (**LED**); la unidad de control de
+cámara (**CCU**); la interfaz de propósito general (**GPI**); la corporación de radio y televisión
+pública española
 (**RTVE**); el Boletín Oficial del Estado (**BOE**); los efectos visuales (**VFX**, del inglés
 *visual effects*); y el nombre de la empresa **EVS**, que en el examen se usa como nombre común para
 el servidor de repeticiones.
@@ -254,9 +256,9 @@ lo que se emitió si alguien lo denuncia.
 
 Apartado 3, que es la salvedad que acompaña a esa responsabilidad: no incurre en responsabilidad
 administrativa el prestador que emita «comunicaciones comerciales audiovisuales elaboradas por
-personas ajenas al prestador» que infrinjan la normativa de publicidad; pero «habrá de **cesar en la
-emisión** de tal comunicación comercial **al primer requerimiento** de la autoridad audiovisual o de
-cualquier organismo de autorregulación al que pertenezca». Guardar lo emitido y responder de ello son
+personas ajenas al prestador» que infrinjan la normativa de publicidad. **No obstante**, el prestador
+«habrá de **cesar en la emisión** de tal comunicación comercial **al primer requerimiento** de la
+autoridad audiovisual o de cualquier organismo de autorregulación al que pertenezca». Guardar lo emitido y responder de ello son
 cosas distintas, y esta salvedad delimita la segunda.
 
 Y el incumplimiento del deber de conservar tiene sanción propia en el catálogo de infracciones de la
