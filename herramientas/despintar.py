@@ -20,6 +20,12 @@ cumple. Lo que quede sin negrita y merezca destacarse, se pone en cursiva a mano
 
 Uso:  despintar.py <tema.md> <fuente.md> [<fuente2.md> ...]
       despintar.py --ver <tema.md> <fuente.md> ...   (sólo lista, no toca nada)
+      despintar.py --cursiva <tema.md> <fuente.md> ...
+
+Con `--cursiva` la marca no se borra: se rebaja a cursiva, que es lo que la
+convención del proyecto reserva para los rótulos propios del tema. Se rebaja
+sólo lo que ya se iba a despintar, y se deja en texto llano —sin cursiva— lo
+que lleve dentro otro énfasis, porque anidar asteriscos rompe el marcado.
 """
 import re
 import sys
@@ -42,7 +48,8 @@ def cuerpo_sin_envoltorio(texto):
 
 def main():
     ver = "--ver" in sys.argv
-    args = [a for a in sys.argv[1:] if a != "--ver"]
+    cursiva = "--cursiva" in sys.argv
+    args = [a for a in sys.argv[1:] if a not in ("--ver", "--cursiva")]
     ruta, fuentes = args[0], args[1:]
     texto = open(ruta, encoding="utf-8").read()
     corpus = " ".join(limpia(open(f, encoding="utf-8").read()) for f in fuentes)
@@ -58,6 +65,8 @@ def main():
         if frag in corpus:
             return m.group(0)
         quitadas.append(dentro)
+        if cursiva and "*" not in dentro:
+            return "*%s*" % dentro
         return dentro
 
     # la portada y el índice se dejan como están: son del generador
@@ -69,8 +78,8 @@ def main():
 
     for q in quitadas:
         print("  – %s" % re.sub(r"\s+", " ", q)[:100])
-    print("%s: %d negritas retiradas por no estar en ninguna fuente"
-          % (ruta, len(quitadas)))
+    print("%s: %d negritas %s por no estar en ninguna fuente"
+          % (ruta, len(quitadas), "rebajadas a cursiva" if cursiva else "retiradas"))
     if not ver and quitadas:
         open(ruta, "w", encoding="utf-8").write(cabeza + nuevo)
 

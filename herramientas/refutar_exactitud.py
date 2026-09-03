@@ -44,7 +44,13 @@ def articulos(fuente):
     # texto atribuido al que estaba en vacatio. En la Ley General de la
     # Seguridad Social eso hacía desaparecer el artículo 20 detrás del 19 bis.
     # No daba error: **la lente decía que una cita literal no lo era**
-    patron = (r"^## \[[^\]]+\] Artículo (\d+(?: bis| ter| quáter| quinquies)?)$"
+    # el Código de Comercio y las normas decimonónicas titulan sus preceptos
+    # «Art. 34», no «Artículo 34». Con el patrón que sólo aceptaba la forma
+    # larga, la lente no reconocía **ni un solo artículo** de esas normas y
+    # devolvía otra vez «0 comprobadas», que es el fallo del apartado 10 del
+    # manual: el tema se lee revisado y no lo está.
+    patron = (r"^## \[[^\]]+\] Art(?:ículo|\.)? "
+              r"(\d+(?: bis| ter| quáter| quinquies)?)$"
               r"\n\n_.*?_\n\n(.*?)(?=^## |\Z)")
     # un tratado con anexos numera desde 1 dentro de cada anexo, así que
     # "Artículo 1" aparece muchas veces. Con un diccionario que sobrescribe,
