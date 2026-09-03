@@ -1,4 +1,4 @@
-# Edición, Montaje y Procesos Audiovisuales · Tema 8 · Edición en directo y retransmisiones: EVS
+# Edición, Montaje y Procesos Audiovisuales · Tema 8 · Edición en directo y retransmisiones (EVS)
 
 9 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que

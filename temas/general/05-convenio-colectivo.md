@@ -5,11 +5,11 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario general · punto 5 |
-| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Producción** · **Montaje de Equipos Audiovisuales** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Producción** · **Montaje de Equipos Audiovisuales** · **Edición, Montaje y Procesos Audiovisuales** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
 | **Fuente** | III Convenio Colectivo de la Corporación RTVE |
 | **Identificador** | `BOE-A-2020-16744` (texto) · `BOE-A-2021-1334` (corrección) · `BOE-A-2021-8252` (anexo 7) · `BOE-A-2022-20256` (acuerdo de 2022) |
 | **Redacción que se estudia** | El texto de **2020** con la **corrección de errores de 2021** y el **acuerdo de modificación de 2022**. **No es legislación consolidada**: el articulado se reconstruye superponiendo los documentos |
-| **Extensión** | **18.798 palabras** |
+| **Extensión** | **18.805 palabras** |
 
 <!-- /portada -->
 
@@ -307,7 +307,8 @@ a este convenio y a la legislación vigente.
 establecido en el Estatuto de los Trabajadores**, la empresa entrega **mensualmente** al
 Comité Intercentros y a todos los sindicatos con presencia en
 él, en soporte informático, la relación de personas trabajadoras con: apellidos,
-nombre, sexo, DNI, fecha de nacimiento y matrícula; fecha de ingreso; grupo
+nombre, sexo, documento nacional de identidad (**DNI**), fecha de nacimiento y matrícula;
+fecha de ingreso; grupo
 profesional, ámbito ocupacional y ocupación tipo; antigüedad en el grupo, trienios
 y nivel salarial; y centro de trabajo y unidad orgánica.
 
@@ -2052,7 +2053,8 @@ oficiales anteriores a la fecha de corte**:
 **Advertencia metodológica.** El convenio colectivo **no es legislación consolidada**: el
 BOE no publica un texto refundido, de modo que **no existe versión consolidada oficial** y
 la redacción en vigor hay que reconstruirla superponiendo los documentos. Por eso
-La lectura automática del BOE —que trabaja contra la API de legislación consolidada— **no sirve
+La lectura automática del BOE —que trabaja contra la interfaz de programación (**API**) de
+legislación consolidada— **no sirve
 aquí**, y todo el tema se ha verificado leyendo los textos publicados. Las tres
 consecuencias prácticas que más pueden costar una pregunta son:
 

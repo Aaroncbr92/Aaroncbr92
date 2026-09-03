@@ -5,11 +5,11 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario general · punto 1 |
-| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Producción** · **Montaje de Equipos Audiovisuales** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Producción** · **Montaje de Equipos Audiovisuales** · **Edición, Montaje y Procesos Audiovisuales** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
 | **Fuente** | Constitución Española de 27 de diciembre de 1978 |
 | **Identificador** | `BOE-A-1978-31229` · BOE núm. 311, de 29/12/1978 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Al corte, la única reforma consumada era la del **artículo 135** (2011); las dos posteriores van en «Notas de actualización», fuera del cuerpo examinable |
-| **Extensión** | **16.586 palabras** |
+| **Extensión** | **16.594 palabras** |
 
 <!-- /portada -->
 
@@ -222,8 +222,8 @@ La capital del Estado es **la villa de Madrid**. Literal: «la villa de Madrid»
 Expresan el **pluralismo político**, concurren a la formación y manifestación de
 la voluntad popular y son **instrumento fundamental para la participación
 política**. Su creación y el ejercicio de su actividad **son libres dentro del
-respeto a la Constitución y a la ley**. Su **estructura interna y funcionamiento
-deberán ser democráticos**.
+respeto a la Constitución y a la ley**. **«Su estructura interna y funcionamiento
+deberán ser democráticos.»**
 
 ### Artículo 7. Sindicatos y asociaciones empresariales
 
@@ -539,8 +539,8 @@ discriminación por razón de sexo**. La ley regulará un **estatuto de los
 trabajadores**.
 
 **Artículo 36. Colegios Profesionales.** La ley regulará sus peculiaridades y el
-ejercicio de las profesiones tituladas. Su **estructura interna y funcionamiento
-deberán ser democráticos**.
+ejercicio de las profesiones tituladas, y repite la fórmula del artículo 6:
+**«Su estructura interna y funcionamiento deberán ser democráticos.»**
 
 **Artículo 37. Negociación colectiva y conflicto colectivo.** La ley garantizará
 el derecho a la **negociación colectiva laboral** y la **fuerza vinculante de los
@@ -1642,9 +1642,9 @@ tres piezas:
 La fecha se recoge, además de por la plantilla, por **fuente oficial de la propia
 Generalitat**: la *Revista Catalana de Dret Públic* de la **Escola d'Administració Pública de
 Catalunya** lo formula así: **«Entre els dies 27 d'octubre de 2017 i 2 de juny de 2018 es va
-aplicar l'anomenat mecanisme de coerció federal de l'article 155»**, y precisa que
-**«l'aplicació de l'article 155 CE acabava quan el nou Govern de Catalunya prengués
-possessió»** —«CE», en la cita, es la Constitución Española—.
+aplicar l'anomenat mecanisme de coerció federal de l'article 155»**, y precisa, con la
+abreviatura catalana de la Constitución Española (**CE**), que **«l'aplicació de l'article 155
+CE acabava quan el nou Govern de Catalunya prengués possessió»**.
 
 **Artículos 156 a 158. Hacienda autonómica.** **Autonomía financiera** con arreglo
 a los principios de **coordinación con la Hacienda estatal y solidaridad entre

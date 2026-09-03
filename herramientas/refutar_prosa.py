@@ -35,7 +35,23 @@ def main():
 
     print()
     print("## Frases repetidas entre epígrafes")
-    frases = [limpia(f) for f in re.split(r"(?<=[.;:])\s", tema)]
+    # una frase que se repite **dentro de comillas latinas las dos veces** no
+    # es relleno del tema: es la fuente que se repite a sí misma. La
+    # Constitución dice de los partidos y de los sindicatos, con las mismas
+    # palabras, que «su estructura interna y funcionamiento deberán ser
+    # democráticos», y recortar una de las dos citas para callar el aviso
+    # sería recortar la norma. Se miran sólo los trozos que quedan fuera de
+    # las comillas.
+    def fuera_de_comillas(texto):
+        # ni los renglones citados con «>» ni los rótulos de epígrafe son prosa
+        # del tema: el enunciado de la convocatoria se transcribe una vez por
+        # ocupación cuando el tema sirve a varias, y el título de un epígrafe
+        # vuelve a salir en su encabezado. Contarlos como repetición es contar
+        # dos veces lo mismo.
+        texto = "\n".join(l for l in texto.splitlines()
+                          if not l.lstrip().startswith((">", "#")))
+        return re.sub(r"«[^»]*»", " ", texto)
+    frases = [limpia(f) for f in re.split(r"(?<=[.;:])\s", fuera_de_comillas(tema))]
     frases = [f for f in frases if len(f.split()) >= 8]
     repes = [(f, c) for f, c in Counter(frases).items() if c > 1]
     for f, c in sorted(repes, key=lambda x: -x[1]):
@@ -63,6 +79,8 @@ def main():
     # aunque no abrevien nada: RAW es «crudo», LOG es «logarítmico».
     PALABRAS = ("NO", "SI", "UNA", "UNO", "TODO", "TODAS", "SOLO", "NUNCA",
                 "SIEMPRE", "MENOS", "MAS", "CIERTA", "FALSA",
+                "ANUAL", "SALVO", "ANTES", "DESPUES", "MENOR", "MAYOR",
+                "TRES", "DOS", "ES", "PUEDE", "SOLAMENTE",
                 "RAW", "LOG", "LUT", "MIX")
     # rótulos de botones y de menús, tal como están serigrafiados en el
     # aparato. No abrevian nada: son el nombre que el operador lee y pulsa, y
@@ -70,14 +88,32 @@ def main():
     # el panel. Y nombres de marca y de modelo, que tampoco son siglas.
     ROTULOS = ("CUT", "AUTO", "WIPE", "NAM", "FAM", "CLEAN", "EDIT", "PREVIO",
                "SHOW", "KEY", "FILL", "SIZE", "CROP", "MENU", "PGM", "PVW",
-               "ATEM", "MOTU", "XVS", "AV", "HS")
+               "ATEM", "MOTU", "XVS", "AV", "HS",
+               # órdenes y rótulos de los programas de edición y de los
+               # mandos de repetición, que el examen escribe en mayúsculas
+               # porque así están rotulados. Tampoco abrevian nada
+               "MATCH", "FRAME", "AUDIO", "MIXER", "SET", "PAN", "LEVEL",
+               "GLOBAL", "IN", "OUT", "EQ", "TAKE", "PRV", "CAM", "AUX",
+               "LINK", "GANG", "TWICE", "DUAL", "PLAYLIST", "TIMELINE",
+               "TBAR", "VGA", "VDR", "REC", "MODE")
     # «SI(C2 = 1» no es una sigla: es una llamada a función. Un paréntesis
     # pegado al nombre lo delata, y sin esta salvedad un tema de hoja de
     # cálculo llena la lista de falsos avisos aunque el nombre vaya dentro de
     # una cita literal, donde no se le pueden poner acentos graves sin tocar
     # la cita.
     llamadas = set(re.findall(r"\b([A-Z]{2,6})\(", tema))
+    # «CC.AA.» y «NO-DO» son una sola abreviatura, no dos. Con `\b` a secas la
+    # lente las parte y avisa de «AA» y de «DO», que no son siglas de nada y
+    # **entierran los avisos que sí lo son**. Se descartan los trozos que sólo
+    # aparecen pegados a otro grupo de mayúsculas por un punto o un guion.
+    trozos = set()
+    for m in re.finditer(r"\b[A-Z]{2,6}(?:[.-][A-Z]{2,6})+\.?", tema):
+        partes = re.findall(r"[A-Z]{2,6}", m.group(0))
+        trozos.update(partes)
+    enteras = set(re.findall(r"(?<![A-Z.-])\b([A-Z]{2,6})\b(?![.-][A-Z])", tema))
     for sigla in sorted(set(re.findall(r"\b([A-Z]{2,6})\b", tema))):
+        if sigla in trozos and sigla not in enteras:
+            continue
         if ROMANOS.match(sigla) or sigla in CONOCIDAS or sigla in llamadas:
             continue
         if sigla in PALABRAS or sigla in ROTULOS:

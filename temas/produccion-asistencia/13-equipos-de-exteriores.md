@@ -10,7 +10,7 @@
 | **Identificador** | `DOUE-L-2019-81004` · `DOUE-L-2012-81859` · `BOE-A-2017-15721` · AIP España ENR 5.1 |
 | **Redacción que se estudia** | Los **reglamentos y el real decreto en su texto vigente al 21/12/2022**, y el AIP y la lista del fabricante **tal como estaban el 02/09/2026** |
 | **Aviso sobre las fuentes** | **Un tema partido en dos**: las **3 preguntas del dron y el estabilizador** tienen norma, publicación oficial o ficha detrás; las **4 de vocabulario de exteriores** —beauty shot, TV compound, mobycam y mojo— se apoyan **sólo en la plantilla**, y van marcadas |
-| **Extensión** | **2.946 palabras** |
+| **Extensión** | **2.949 palabras** |
 
 <!-- /portada -->
 
@@ -128,8 +128,8 @@ vuelo», y clasifica el espacio aéreo en tres, **con su letra**:
 - **Zona peligrosa (D)**, «*an airspace of defined dimensions within which activities dangerous to
   the flight of aircraft may exist at specified times*» —la misma definición del reglamento—.
 
-Y su listado de zonas peligrosas las numera **LED1, LED2, LED3…**: **LE** es el indicativo de
-España y **D** la letra de la zona peligrosa. De ahí sale **LED**.
+Y su listado de zonas peligrosas las numera **LED1, LED2, LED3…**, donde el indicativo de España
+(**LE**) va delante y **D** es la letra de la zona peligrosa. De ahí sale **LED**.
 
 **El AIP añade la obligación práctica que el examen no pregunta pero conviene saber**: antes de
 iniciar un vuelo que afecte a una zona peligrosa, **el piloto debe obtener toda la información

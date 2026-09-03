@@ -51,7 +51,7 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 ## Y el banco del bloque **específico**
 
-Hay uno por ocupación tipo. Los **ocho** que existen suman **889 preguntas**, todas con
+Hay uno por ocupación tipo. Los **nueve** que existen suman **975 preguntas**, todas con
 su respuesta oficial.
 
 ### Producción (Asistencia)
@@ -354,6 +354,45 @@ Las tres van contadas en los informes de refutación.
 
 **Y diez preguntas descansan sólo en la plantilla oficial**, que es la proporción más alta del
 proyecto: son las que citan una máquina por su modelo o su referencia de catálogo, y esa
+documentación no se ha podido consultar. Cada una va declarada en la trazabilidad de su tema.
+
+### Edición, Montaje y Procesos Audiovisuales
+
+**86 preguntas** del cuadernillo de **Edición, Montaje y Procesos Audiovisuales** de 2024, repartidas
+entre los **seis primeros puntos** de su Anexo 2, que aquí se desarrollan en **diez temas**. El
+séptimo punto es el de prevención.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `edicion-montaje-01.md` | 1 · Electrónica e informática aplicadas | 4 |
+| `edicion-montaje-02.md` | 2 · Colorimetría y el color en televisión | 10 |
+| `edicion-montaje-03.md` | 3 · Conceptos básicos de sonido | 4 |
+| `edicion-montaje-04.md` | 4 · Tratamiento digital de la señal de televisión | **15** |
+| `edicion-montaje-05.md` | 5 · Soportes, formatos, grabación e ingesta | 8 |
+| `edicion-montaje-06.md` | 6 · Equipos de medida y control | 3 |
+| `edicion-montaje-07.md` | 7 · Edición de vídeo: Avid Media Composer | **13** |
+| `edicion-montaje-08.md` | 8 · Edición en directo y retransmisiones (EVS) | 9 |
+| `edicion-montaje-09.md` | 9 · Incrustaciones, grafismo y postproducción | 8 |
+| `edicion-montaje-10.md` | 10 · Lenguaje audiovisual y teoría del montaje | **12** |
+
+**El punto 1 del Anexo 2 se ha repartido en tres temas** —electrónica e informática, colorimetría y
+sonido—, porque sus cuatro subpuntos son cuatro materias distintas y **uno solo de ellos, el de
+colorimetría, se lleva diez preguntas**. Y **el punto 5, el de edición de vídeo, se ha repartido en
+tres**: el montador de Avid, el sistema de repetición en directo y la composición, que es como el
+examen los pregunta.
+
+**Este cuadernillo no tiene ni una pregunta de prevención de riesgos laborales**, aunque el punto 7
+de su Anexo 2 la exija. **El tema compartido de prevención va igual en el volumen**, porque el
+programa lo manda.
+
+**Tres preguntas defectuosas, ninguna errata de plantilla.** La **nº 61 repite literalmente la nº
+57**: los dos enunciados se diferencian en tres letras y tienen las mismas cuatro opciones en el
+mismo orden. La **nº 5** escribe **«NFL»** donde la literatura escribe **«NCL»**. Y la **nº 50**
+ofrece como opción falsa un «monitor con *Hybrid* Dynamic Range», **que no existe**: la palabra
+pertenece a la curva **HLG**. Las tres van contadas en los informes de refutación.
+
+**Y treinta y cinco preguntas descansan sólo en la plantilla oficial**, que es la cifra más alta del
+proyecto en términos absolutos: **veintiocho salen del manejo de tres programas comerciales** cuya
 documentación no se ha podido consultar. Cada una va declarada en la trazabilidad de su tema.
 
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se

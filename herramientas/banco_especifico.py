@@ -265,7 +265,7 @@ TITULOS = {
     "07": "Edición, Montaje y Procesos Audiovisuales · Tema 7 · Edición de "
           "vídeo: Avid Media Composer",
     "08": "Edición, Montaje y Procesos Audiovisuales · Tema 8 · Edición en "
-          "directo y retransmisiones: EVS",
+          "directo y retransmisiones (EVS)",
     "09": "Edición, Montaje y Procesos Audiovisuales · Tema 9 · Incrustaciones, "
           "grafismo y postproducción",
     "10": "Edición, Montaje y Procesos Audiovisuales · Tema 10 · Lenguaje "

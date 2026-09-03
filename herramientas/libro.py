@@ -243,6 +243,26 @@ AVISOS_MONTAJE_EQUIPOS = {
         "porque <b>vale dos preguntas de noventa y seis</b>.",
 }
 
+AVISOS_EDICION_MONTAJE = {
+    "11_preguntas_emypa · nº 61":
+        "<b>Esta pregunta es la misma que la 57 del mismo cuadernillo.</b> Los dos enunciados se "
+        "diferencian en tres letras —«la tasa de grabación original» y «la tasa fps de grabación "
+        "original»—, tienen <b>las mismas cuatro opciones en el mismo orden</b> y <b>la misma "
+        "respuesta</b>. <b>Es la única repetición de este cuadernillo</b>, y conviene saberla "
+        "porque <b>vale dos preguntas de noventa y seis</b>.",
+    "11_preguntas_emypa · nº 5":
+        "<b>El enunciado escribe «NFL» donde la literatura escribe «NCL».</b> Los dos sistemas de "
+        "luma se llaman <b>constante</b> (<i>constant luminance</i>, CL) y <b>no constante</b> "
+        "(<i>non-constant luminance</i>, NCL). <b>No es otra cosa: es una errata del enunciado</b>, "
+        "y no cambia cuál es la opción correcta.",
+    "11_preguntas_emypa · nº 50":
+        "<b>Una de las opciones falsas nombra algo que no existe.</b> La a) dice «monitor con "
+        "<i>Hybrid</i> Dynamic Range», y <b>no hay tal categoría</b>: la palabra <i>hybrid</i> "
+        "pertenece a <b>HLG</b>, <i>hybrid log-gamma</i>, que es <b>una curva de HDR y no un tipo "
+        "de monitor</b>. La respuesta oficial —un monitor con <i>High Dynamic Range</i>— es "
+        "correcta.",
+}
+
 AVISOS_GESTION_ADMINISTRATIVA = {
     "23_preguntas_gea · nº 21":
         "<b>La plantilla da 33 días de indemnización por despido objetivo, con tope de 12 "
@@ -571,6 +591,50 @@ BLOQUES = {
                       "citada \u2014el reglamento electrot\u00e9cnico, su ITC-BT-24 y el real decreto "
                       "del riesgo el\u00e9ctrico\u2014. <b>Diez datos de cat\u00e1logo descansan s\u00f3lo "
                       "en la plantilla</b>, y cada uno lo dice en su tema.</p>",
+    ),
+    "edicion-montaje": dict(
+        carpeta="edicion-montaje",
+        rotulo="Temario específico · Edición, Montaje y Procesos Audiovisuales",
+        ocupacion="Edición, Montaje y Procesos Audiovisuales",
+        titulo="Temario específico",
+        subtitulo="Los diez temas de <b>Edición, Montaje y Procesos Audiovisuales</b>",
+        pie="Oposiciones RTVE – Edición, Montaje y Procesos Audiovisuales",
+        avisos=dict(AVISOS_EDICION_MONTAJE, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), "edicion-montaje-%02d" % n) for n, base in [
+            (1, "electronica-e-informatica"),
+            (2, "colorimetria"),
+            (3, "conceptos-basicos-de-sonido"),
+            (4, "tratamiento-digital-de-la-senal"),
+            (5, "soportes-formatos-e-ingesta"),
+            (6, "equipos-de-medida-y-control"),
+            (7, "avid-media-composer"),
+            (8, "evs-directo-y-retransmisiones"),
+            (9, "incrustaciones-grafismo-y-postproduccion"),
+            (10, "lenguaje-audiovisual-y-montaje"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Ninguna respuesta oficial de este bloque se puede dar por mal "
+                         "contestada</b>, pero <b>una pregunta se repite entera</b> \u2014la 57 y "
+                         "la 61 son la misma\u2014 y <b>dos enunciados est\u00e1n defectuosos</b>: "
+                         "uno escribe \u00abNFL\u00bb por NCL y otro ofrece como opci\u00f3n un "
+                         "tipo de monitor que no existe. Van avisados debajo de su tabla.",
+        aviso_portada="<p><b>Este bloque tiene dos caras y conviene saberlo antes de empezar.</b> "
+                      "Una es <b>te\u00f3rica y se estudia leyendo</b>: colorimetr\u00eda, "
+                      "tratamiento digital de la se\u00f1al y teor\u00eda del montaje suman "
+                      "treinta y siete preguntas, y casi todas se contestan con norma t\u00e9cnica "
+                      "delante \u2014las recomendaciones de la Uni\u00f3n Internacional de "
+                      "Telecomunicaciones, que aqu\u00ed van citadas cuadro por cuadro\u2014 o "
+                      "con vocabulario de oficio asentado.</p>"
+                      "<p>La otra es <b>pr\u00e1ctica y no se estudia leyendo</b>: <b>veintiocho "
+                      "preguntas salen del manejo de tres programas comerciales</b> \u2014el "
+                      "montador de Avid, el sistema de repetici\u00f3n en directo y la "
+                      "composici\u00f3n de Adobe\u2014, y <b>su documentaci\u00f3n no se ha "
+                      "podido consultar</b>. El temario lo dice en lugar de fingir lo contrario, y "
+                      "hace con ellas lo \u00fanico honrado: <b>levantar la arquitectura del "
+                      "programa y el porqu\u00e9 de cada respuesta</b>, que es lo que convierte una "
+                      "lista de atajos en algo recordable. <b>Treinta y cinco afirmaciones "
+                      "descansan s\u00f3lo en la plantilla, y cada una lo declara en su tema.</b></p>",
     ),
     "realizacion": dict(
         carpeta="realizacion",
