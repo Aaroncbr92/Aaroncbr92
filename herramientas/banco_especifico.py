@@ -217,7 +217,7 @@ TITULOS = {
     "05": "Sonido · Tema 5 · Micrófonos, soportes y accesorios",
     "06": "Sonido · Tema 6 · Señales de contribución",
     "07": "Sonido · Tema 7 · Mezcla y tratamiento del sonido",
-    "08": "Sonido · Tema 8 · Postproducción, efectos sonoros y operación DAW",
+    "08": "Sonido · Tema 8 · Postproducción, efectos sonoros y estación de\n          trabajo",
     "09": "Sonido · Tema 9 · Grabación de sonido",
     "10": "Sonido · Tema 10 · Sonorización: altavoces y amplificadores",
     "11": "Sonido · Tema 11 · Líneas y conexiones",

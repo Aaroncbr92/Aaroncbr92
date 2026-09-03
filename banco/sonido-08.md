@@ -1,4 +1,5 @@
-# Sonido · Tema 8 · Postproducción, efectos sonoros y operación DAW
+# Sonido · Tema 8 · Postproducción, efectos sonoros y estación de
+          trabajo
 
 2 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
