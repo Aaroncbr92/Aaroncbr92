@@ -71,3 +71,51 @@ europeas del **DVB** están ya en `../normas-tecnicas/`. Van **cuatro**: LiveU, 
 navegador —**LiveU**, **Astera**, **ETSI**, **DJI** y **Autocue**— y **cuatro
 cerradas de verdad, comprobadas con la regla puesta** —**UER**, **DCI**, **Sony** y
 **Avid**—.
+
+
+## Segunda tanda: el mezclador de vídeo, para Realización (Asistencia)
+
+El bloque 4 del Anexo 2 de **Realización (Asistencia)** —doce subpuntos— es
+**documentación de fabricante de principio a fin**: panel de control, bancos de
+mezcla efectos, tipos de llave, *snapshots*, *clip store*, sincronización y
+generadores de efectos digitales. Y el examen cita **por su nombre y modelo** el
+**Sony XVS 7000** y la **serie XVS**.
+
+| Fichero | Qué es | Dirección | Descargado |
+|---|---|---|---|
+| `Blackmagic_ATEM_manual-es.txt` | **Manual de instalación y funcionamiento de los ATEM Live Production Switchers**, bloque en **español**, edición de diciembre de 2024 | `documents.blackmagicdesign.com/UserManuals/ATEM_Switchers_Manual.pdf` | 03/09/2026 |
+
+**Se guarda sólo el texto, y sólo su parte en español.** El PDF pesa **210 MB** y
+trae **2.835 páginas en once idiomas**; guardarlo entero en el repositorio sería
+meter doscientos megas para leer cuatrocientos kilobytes. El bloque español va
+extraído con `pymupdf`, y la dirección de arriba es la que hay que volver a
+pedir si hace falta refrescarlo.
+
+**Y una advertencia de vocabulario que hay que leer antes de citarlo.** El manual
+en español de Blackmagic traduce *key* por **«composición»** —«composición por
+luminancia», «composición previa»— mientras que el examen de RTVE usa **«llave»**
+y **«key»**, que es como se dice en un control de realización español. **Son la
+misma cosa con dos nombres**, y el tema 10 lo dice en su primera línea para que
+nadie busque «llave» en el manual y crea que no está.
+
+### Lo que sigue cerrado, comprobado con la regla del agente de navegador
+
+- **Sony**, para el **XVS 7000** que el examen cita: **tres rutas probadas**
+  —catálogo de mezcladores en versión estadounidense, británica y española— y las
+  tres responden **«prohibido»**. Se suma a las páginas de cámara ya cerradas en
+  la tanda anterior: **Sony sigue siendo el fabricante que no se deja leer**.
+- **Grass Valley**, para la familia **K-Frame**: la dirección de ayuda responde
+  200 pero **lo que sirve es un portal de incidencias**, no documentación de
+  producto.
+- **Ross Video**, para **Carbonite**: **dos rutas probadas**, «no encontrado» las
+  dos.
+- **Panasonic**, para la serie **AV-HS**: su índice de manuales responde
+  **«prohibido»**.
+- **EVS**, que el examen cita dos veces —el disco duro de repeticiones y el
+  control por **GPI**—: su sitio abre, pero **la ficha del producto que cita el
+  examen devuelve «no encontrado»**.
+
+**Recuento del proyecto tras esta tanda**: **seis fuentes recuperadas** —LiveU,
+Astera, ETSI, DJI, Autocue y **Blackmagic**— y **ocho cerradas de verdad**, todas
+comprobadas con la regla puesta: UER, DCI, Sony, Avid, Grass Valley, Ross Video,
+Panasonic y EVS.

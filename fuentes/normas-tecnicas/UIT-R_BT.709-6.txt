@@ -1,0 +1,1464 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendación  UIT-R  BT.709-6 
+(06/2015) 
+ 
+Valores de los parámetros de la norma 
+de TVAD para la producción y 
+el intercambio internacional 
+de programas 
+ 
+ 
+ 
+ 
+ 
+Serie BT 
+Servicio de radiodifusión 
+(televisión) 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+Rec.  UIT-R  BT.709-6 
+Prólogo 
+El Sector de Radiocomunicaciones tiene como cometido garantizar la utilización racional, equitativa, eficaz y económica 
+del espectro de frecuencias radioeléctricas por todos los servicios de radiocomunicaciones, incluidos los servicios por 
+satélite, y realizar, sin limitación de gamas de frecuencias, estudios que sirvan de base para la adopción de las 
+Recomendaciones UIT-R. 
+Las Conferencias Mundiales y Regionales de Radiocomunicaciones y las Asambleas de Radiocomunicaciones, con la 
+colaboración de las Comisiones de Estudio, cumplen las funciones reglamentarias y políticas del Sector de 
+Radiocomunicaciones. 
+Política sobre Derechos de Propiedad Intelectual (IPR) 
+La política del UIT-R sobre Derechos de Propiedad Intelectual se describe en la Política Común de Patentes 
+UIT-T/UIT-R/ISO/CEI a la que se hace referencia en el Anexo 1 a la Resolución UIT-R 1. Los formularios que deben 
+utilizarse en la declaración sobre patentes y utilización de patentes por los titulares de las mismas figuran en la dirección 
+web http://www.itu.int/ITU-R/go/patents/es, donde también aparecen las Directrices para la implementación de la Política 
+Común de Patentes UIT-T/UIT-R/ISO/CEI y la base de datos sobre información de patentes del UIT-R sobre este asunto. 
+ 
+ 
+Series de las Recomendaciones UIT-R  
+(También disponible en línea en  http://www.itu.int/publ/R-REC/es) 
+Series 
+Título 
+BO 
+Distribución por satélite 
+BR 
+Registro para producción, archivo y reproducción; películas en televisión 
+BS 
+Servicio de radiodifusión (sonora) 
+BT 
+Servicio de radiodifusión (televisión) 
+F 
+Servicio fijo 
+M 
+Servicios móviles, de radiodeterminación, de aficionados y otros servicios por satélite conexos 
+P 
+Propagación de las ondas radioeléctricas 
+RA 
+Radioastronomía 
+RS 
+Sistemas de detección a distancia 
+S 
+Servicio fijo por satélite 
+SA 
+Aplicaciones espaciales y meteorología 
+SF 
+Compartición de frecuencias y coordinación entre los sistemas del servicio fijo por satélite y del 
+servicio fijo 
+SM 
+Gestión del espectro 
+SNG 
+Periodismo electrónico por satélite 
+TF 
+Emisiones de frecuencias patrón y señales horarias 
+V 
+Vocabulario y cuestiones afines 
+ 
+Nota: Esta Recomendación UIT-R fue aprobada en inglés conforme al procedimiento detallado en la  
+Resolución UIT-R 1. 
+ 
+Publicación electrónica 
+Ginebra, 2016 
+ 
+ 
+ UIT 2016 
+Reservados todos los derechos. Ninguna parte de esta publicación puede reproducirse por ningún procedimiento sin previa autorización 
+escrita por parte de la UIT. 
+ 
+
+ 
+Rec.  UIT-R  BT.709-6 
+1 
+RECOMENDACIÓN  UIT-R  BT.709-6 
+Valores de los parámetros de la norma de TVAD1 para la producción 
+y el intercambio internacional de programas 
+ 
+(Cuestión UIT-R 27/11) 
+ 
+(1990-1994-1995-1998-2000-2002-2015) 
+ 
+Cometido 
+En la presente Recomendación se definen los parámetros y valores del formato de imagen para la TVAD2. 
+Palabras clave 
+EOTF (función de transferencia electroóptica), OETF (función de transferencia optoelectrónica), PsF 
+(imagen segmentada progresiva, progressive segmented frame), TVAD (televisión de alta 
+definición), formato de imagen 
+La Asamblea de Radiocomunicaciones de la UIT, 
+considerando 
+a) 
+que desde hace muchos años se están produciendo programas de TVAD a nivel mundial; 
+b) 
+que los valores de los parámetros de las normas de producción de TVAD deben tener el 
+máximo grado de comunalidad; 
+c) 
+que los parámetros definidos para todos estos sistemas satisfacen los objetivos de calidad 
+establecidos para la TVAD; 
+d) 
+que las producciones cinematográficas son una importante fuente de programas de la 
+radiodifusión de TVAD, e inversamente, que el uso de sistemas de producción de TVAD presenta 
+considerables ventajas para la producción de programas cinematográficos; 
+e) 
+que la conversión de alta calidad entre los diversos sistemas de TVAD y la conversión a 
+normas de televisión de 525/625 líneas se ha llevado a cabo de manera satisfactoria; 
+f) 
+que los programas producidos y archivados tendrán una larga vida útil, 
+recomienda 
+que, para la producción de programas de TVAD y el intercambio internacional, se utilice uno de los 
+sistemas descritos en esta Recomendación. 
+ 
+                                                 
+1 «Un sistema de alta definición es un sistema diseñado para observar la imagen a una distancia 
+aproximadamente tres veces superior a su altura, de forma que el sistema sea virtualmente o casi 
+virtualmente transparente a la calidad de la presentación que habría percibido en la escena o representación 
+original para un observador capacitado con una agudeza visual normal.» Informe UIT-R BT.801. 
+2 En el sitio web de la UIT figuran versiones anteriores de esta Recomendación que pueden 
+contener información previa. 
+
+2 
+Rec.  UIT-R  BT.709-6 
+Sistema de TVAD con formato de imagen común de píxel cuadrado 
+ 
+Introducción 
+El formato de imagen común (CIF, common image format) se define de manera que tenga valores de 
+parámetros de imagen común independientes de la frecuencia de imagen. Se especifican las siguientes 
+frecuencias de imagen: 60 Hz, 50 Hz, 30 Hz, 25 Hz, 24 Hz. Para los sistemas de 60, 30 y 24 Hz, se 
+especifican también frecuencias de imagen con estos valores divididos por 1,001. 
+Las imágenes se definen para captura progresiva (P) y captura con entrelazado (I). Las imágenes de 
+captura progresiva pueden transportarse con transporte progresivo (P) o transporte de cuadro 
+segmentado progresivo (PsF, progressive segmented frame). Las imágenes de captura con entrelazado 
+pueden transportarse con transporte entrelazado (I). Véase en el Adjunto 2 una descripción del 
+transporte de cuadro segmentado. 
+Se obtienen así las siguientes combinaciones de frecuencias de imagen y de transportes: 
+ 
+Sistema 
+Captura 
+(Hz) 
+Transporte 
+60/P 
+60 ó 60/1,001, progresiva 
+Progresivo 
+30/P 
+30 ó 30/1,001, progresiva 
+Progresivo 
+30/PsF 
+30 ó 30/1,001, progresiva 
+Cuadro segmentado 
+60/I 
+30 ó 30/1,001, con entrelazado 
+Con entrelazado 
+50/P 
+50, progresiva 
+Progresivo 
+25/P 
+25, progresiva 
+Progresivo 
+25/PsF 
+25, progresiva 
+Cuadro segmentado 
+50/I 
+25, con entrelazado 
+Con entrelazado 
+24/P 
+24 ó 24/1,001, progresiva 
+Progresivo 
+24/PsF 
+24 ó 24/1,001, progresiva 
+Cuadro segmentado 
+ 
+
+ 
+Rec.  UIT-R  BT.709-6 
+3 
+1 
+Conversión opto-electrónica 
+ 
+Punto 
+Parámetro 
+Valores del sistema 
+1.1 
+Características de la transferencia 
+optoelectrónica antes de la 
+precorrección no lineal 
+Se supone que es lineal 
+1.2 
+Características globales de la 
+transferencia optoelectrónica en 
+la fuente(1) 
+V  1,099 L0,45 – 0,099 
+ 
+ 
+para  1  L  0,018 
+V  4,500 L  
+ 
+ 
+ 
+ 
+ 
+para  0,018 > L  0 
+donde: 
+L:  luminancia de la imagen  0  L  1 
+V:  señal eléctrica correspondiente 
+1.3 
+Coordenadas de cromaticidad 
+(CIE, 1931) 
+x 
+y 
+ 
+Color primario 
+– Rojo (R) 
+– Verde (G) 
+– Azul (B) 
+ 
+0,640 
+0,300 
+0,150 
+ 
+0,330 
+0,600 
+0,060 
+1.4 
+Cromaticidad supuesta para 
+señales primarias iguales 
+(Blanco de referencia) 
+D65 
+ 
+ 
+x 
+y 
+ 
+ER  EG  EB 
+0,3127 
+0,3290 
+(1) En la producción típica real, la función de codificación de las fuentes de imagen se ajusta para que la 
+imagen final tenga la apariencia deseada, vista en un monitor de referencia con la función de 
+descodificación de referencia de la Recomendación UIT-R BT.1886, en el entorno de visualización de 
+referencia definido en la Recomendación UIT-R BT.2035. 
+ 
+2 
+Características de imagen 
+ 
+Punto 
+Parámetro 
+Valores del sistema 
+2.1 
+Formato de imagen 
+16:9 
+2.2 
+Muestras por línea activa 
+1920 
+2.3 
+Retícula de muestreo 
+Ortogonal 
+2.4 
+Líneas activas por imagen 
+1 080 
+2.5 
+Formato del píxel 
+1:1 (píxeles cuadrados) 
+ 
+
+4 
+Rec.  UIT-R  BT.709-6 
+3 
+Formato de las señales  
+ 
+Punto 
+Parámetro 
+Valores de sistema 
+3.1 
+Precorrección no lineal conceptual 
+de las señales primarias 
+ = 0,45 
+(Véase el § 1.2) 
+3.2 
+Determinación de la señal de 
+luminancia 
+Y
+E 
+Y
+E   0,2126
+R
+E  0,7152
+G
+E   0,0722
+B
+E 
+3.3 
+Determinación de la señal de 
+diferencia de color (codificación 
+analógica) 
+8556
+,1
+Y
+B
+CB
+E
+E
+E
+
+
+
+
+
+ 
+8556
+,1
+9278
+,0
+7152
+,0
+2126
+,0
+B
+G
+R
+E
+E
+E
+
+
+
+
+
+
+
+ 
+5748
+,1
+Y
+R
+CR
+E
+E
+E
+
+
+
+
+
+ 
+5748
+,1
+0722
+,0
+7152
+,0
+7874
+,0
+B
+G
+R
+E
+E
+E
+
+
+
+
+
+
+ 
+3.4 
+Cuantificación de las señales de 
+luminancia RVA y de diferencia 
+de color(1), (2)  
+
+
+
+
+8
+2
+16
+219
+INT
+
+
+
+
+
+
+n
+R
+R
+E
+D
+ 
+
+
+
+
+8
+2
+16
+219
+INT
+
+
+
+
+
+
+n
+G
+G
+E
+D
+ 
+
+
+
+
+8
+2
+16
+219
+INT
+
+
+
+
+
+
+n
+B
+B
+E
+D
+ 
+ 
+
+
+
+
+8
+2
+16
+219
+INT
+
+
+
+
+
+
+n
+Y
+Y
+E
+D
+ 
+
+
+
+
+8
+2
+128
+224
+INT
+
+
+
+
+
+
+n
+CB
+CB
+E
+D
+ 
+
+
+
+
+8
+2
+128
+224
+INT
+
+
+
+
+
+
+n
+CR
+CR
+E
+D
+ 
+3.5 
+Derivación de las señales de 
+luminancia y de diferencia de color 
+a través de la cuantificación de las 
+señales RVA 
+
+
+B
+G
+R
+Y
+D
+D
+D
+D
+
+
+
+
+
+
+
+0722
+,0
+7152
+,0
+2126
+,0
+INT
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+219
+224
+8556
+,1
+9278
+,0
+8556
+,1
+7152
+,0
+8556
+,1
+2126
+,0
+ 
+INT
+n
+B
+G
+R
+CB
+D
+D
+D
+D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+219
+224
+5748
+,1
+0722
+,0
+5748
+,1
+7152
+,0
+5748
+,1
+7874
+,0
+INT
+n
+G
+R
+CR
+B
+D
+D
+D
+D
+ 
+(1) 
+«n» designa el número de longitud en bit de la señal cuantificada. 
+(2) 
+El operador INT devuelve el valor 0 para partes fraccionarias en el intervalo de 0 a 0,4999… y +1 para las partes 
+fraccionarias en el intervalo de 0,5 a 0,9999…, es decir, redondea al alza las fracciones superiores a 0,5. 
+ 
+
+ 
+Rec.  UIT-R  BT.709-6 
+5 
+4 
+Representación digital 
+ 
+Punto 
+Parámetro 
+Valores del sistema 
+4.1 
+Señal codificada 
+R, G, B o Y, CB, CR 
+4.2 
+Retícula de muestreo 
+– R, G, B, Y 
+Ortogonal, repetitiva en cada línea y cada imagen 
+4.3 
+Señales de retícula de muestreo 
+– CB, CR 
+Ortogonales, repetitivas en cada línea y en cada imagen, coubicadas 
+mutuamente y con muestras Y alternadas(1) 
+4.4 
+Número de muestras activas por 
+línea 
+– R, G, B, Y 
+– CB, CR 
+ 
+ 
+1 920 
+960 
+4.5 
+Formato de codificación 
+Lineal, 8 ó 10 bits/componente 
+4.6 
+Niveles de cuantificación 
+Codificación de 8 bits 
+Codificación de 10 bits 
+ 
+– Nivel de negro 
+R, G, B, Y 
+– Acromático 
+CB, CR 
+– Valor de cresta nominal 
+ 
+– R, G, B, Y 
+ 
+– CB, CR 
+ 
+16 
+ 
+128 
+ 
+235 
+16 y 240 
+ 
+64 
+ 
+512 
+ 
+940 
+64 y 960 
+4.7 
+Asignación de nivel de 
+cuantificación 
+Codificación de 8 bits 
+Codificación de 10 bits 
+ 
+– Datos vídeo 
+– Referencia de temporización 
+1 a 254 
+0 y 255 
+4 a 1 019 
+0-3 y 1 020-1 023 
+4.8 
+Características de filtro(2) 
+– R, G, B, Y 
+– CB, CR 
+Véase el Adjunto 1 
+(1) 
+Las primeras muestras activas de diferencia de color están coubicadas con la primera muestra activa de luminancia. 
+(2) 
+Estos filtros se definen como directrices. 
+ 
+ 
+
+6 
+Rec.  UIT-R  BT.709-6 
+5 
+Características de exploración de imagen 
+ 
+Punto 
+Parámetro 
+Valores del sistema 
+60/P 
+30/P 
+30/PsF 
+60/I 
+50/P 
+25/P 
+25/PsF 
+50/I 
+24/P 
+24/PsF 
+5.1 
+Orden de exploración de las 
+muestras en un sistema con 
+exploración 
+De izquierda a derecha y de arriba abajo 
+En los sistemas de entrelazado, la primera línea activa de la trama 1 está en la parte superior de la imagen 
+5.2 
+Número total de líneas 
+1125 
+5.3 
+Frecuencia trama/cuadro   (Hz) 
+60; 60/1,001 
+30; 30/1,001 
+60; 60/1,001 
+50 
+25 
+50 
+24; 24/1,001 48; 48/1,001 
+5.4 
+Relación de entrelazado 
+1:1 
+2:1 
+1:1 
+2:1 
+1:1 
+5.5 
+Frecuencia de imagen   (Hz) 
+60; 60/1,001 
+30; 30/1,001 
+50 
+25 
+24; 24/1,001 
+5.6 
+Muestras por línea completa 
+– R, G, B, Y 
+– CB, CR 
+ 
+2 200 
+1 100 
+ 
+2 640 
+1 320 
+ 
+2 750 
+1 375 
+5.7 
+Anchura de banda de señal 
+analógica nominal(1)   (MHz) 
+60 
+30 
+60 
+30 
+5.8 
+Frecuencia de muestreo 
+– R, G, B, Y   (MHz) 
+148,5; 
+148,5/1,001 
+74,25; 74,25/1,001 
+148,5 
+74,25 
+74,25; 74,25/1,001 
+5.9 
+Frecuencia de muestreo(2) 
+– CB, CR (MHz) 
+74,25; 
+74,25/1,001 
+37,125; 37,125/1,001 
+74,25 
+37,125 
+37,125; 37,125/1,001 
+(1) 
+La anchura de banda es para todas las componentes. 
+(2) 
+La frecuencia de muestreo CB, CR es la mitad de la frecuencia de muestreo de luminancia. 
+
+ 
+Rec.  UIT-R  BT.709-6 
+7 
+6 
+Señal de sincronización de tres niveles analógica 
+La señal de sincronización de tres niveles puede utilizarse como referencia para la sincronización de 
+los dispositivos que funcionan según esta Recomendación.  
+ 
+Punto 
+Parámetro 
+Valores del sistema 
+60/P 
+30/P 
+30/PsF 
+60/I 
+50/P 
+25/P 
+25/PsF 
+50/I 
+24/P 
+24/PsF 
+6.1 
+Nivel nominal   (mV) 
+Y
+B
+G
+R
+E
+E
+E
+E
+
+
+
+
+,
+,
+,
+ 
+Negro de referencia: 0 
+Blanco de referencia: 700 
+(Véase la Fig. 2B) 
+6.2 
+Nivel nominal   (mV) 
+R
+B
+C
+C
+E
+E
+
+,
+ 
+ 350 
+(Véase la Fig. 2B) 
+6.3 
+Formato de las 
+señales de 
+sincronismo 
+Bipolar de tres niveles 
+(Véase la Fig. 2A) 
+6.4 
+Referencia de 
+temporización del 
+sincronismo de línea 
+OH 
+(Véase la Fig. 2A) 
+6.5 
+Nivel de 
+sincronismo   (mV) 
+ 300  2% 
+6.6 
+Temporización de la 
+señal de sincronismo 
+Sincronización en todas las componentes 
+(Véanse el Cuadro 1, las Figs. 1 y 2) 
+6.7 
+Intervalo de supresión 
+(Véanse el Cuadro 1, las Figs. 1 y 2) 
+ 
+
+8 
+Rec.  UIT-R  BT.709-6 
+CUADRO  1 
+Especificación de nivel y temporización de línea 
+(Véanse las Figs. 1 y 2) 
+Símbolo 
+Parámetro 
+Valores del sistema 
+60/P 
+30/P 
+30/PsF 
+60/I 
+50/P 
+25/P 
+25/PsF 
+50/I 
+24/P 
+24/PsF 
+T 
+Intervalo de reloj de referencia   (s) 
+1/148,5 
+1,001/148,5 
+1/74,25, 1,001/74,25 
+1/148,5 
+1/74,25 
+1/74,25, 1,001/74,25 
+a 
+Anchura de la sincronización de línea 
+negativa(1)   (T) 
+44  3 
+b 
+Fin de vídeo activo(2)   (T) 
+88 + 6 
+– 0 
+528 + 6 
+– 0 
+638 + 6 
+– 0 
+c 
+Anchura de sincronización de línea 
+positiva   (T) 
+44  3 
+d 
+Periodo de fijación   (T) 
+132  3 
+e 
+Comienzo de vídeo activo   (T) 
+192 + 6 
+– 0 
+f 
+Tiempo de subida/caída   (T) 
+4  1,5 
+– 
+Intervalo de línea activa   (T) 
+1 920 + 0 
+– 12 
+Sm 
+Amplitud del impulso negativo   (mV) 
+300  6 
+Sp 
+Amplitud del impulso positivo   (mV) 
+300  6 
+V 
+Amplitud de la seña de vídeo   (mV) 
+700 
+H 
+Intervalo de línea total   (T) 
+2 200 
+2 640 
+2 750 
+g 
+Intervalo de línea mitad   (T) 
+1 100 
+1 320 
+1 375 
+h 
+Anchura de la sincronización vertical   (T) 
+1 980  3 
+880  3 
+1 980  3 
+880  3 
+1 980  3 
+880  3 
+k 
+Fin del impulso de sincronización 
+vertical   (T) 
+88  3 
+528  3 
+308  3 
+638  3 
+363  3 
+(1) 
+«T» indica la duración de un reloj de referencia o la recíproca de la frecuencia del reloj. 
+(2) 
+Una «línea» comienza en la referencia de temporización de sincronización de línea OH (inclusive) y finaliza inmediatamente antes del siguiente OH (exclusive). 
+ 
+
+ 
+Rec.  UIT-R  BT.709-6 
+9 
+FIGURA 1A 
+Forma de onda de la señal de sincronismo de trama/cuadro/segmento 
+OV
+BT.
+0
+0709- 1A
+N. 1121
+°
+N. 1125
+°
+N. 1
+°
+N. 2
+°
+N. 3
+°
+N. 4
+°
+N. 5
+°
+N. 6
+°
+N. 7
+°
+N. 42
+°
+N. 1123
+°
+N. 1124
+°
+N. 1125
+°
+N. 1
+°
+N. 2
+°
+No. 3
+N. 4
+°
+No. 5
+N. 6
+°
+N. 7
+°
+N. 21
+°
+N. 563
+° 
+N. 560
+°
+N. 561
+°
+N. 562
+° 
+N. 564
+°
+N. 565
+°
+N. 566
+°
+N. 567
+°
+N. 568
+°
+N. 569
+°
+N. 584
+°
+Primer(a) trama/segmento
+Primer(a) trama/segmento
+Referencia de temporización de sincronismo de trama/cuadro/segmento
+Progresiva
+Progresiva 
+primer segmento
+Progresiva
+segundo segmento
+Entrelazada
+primera trama
+Entrelazada
+segunda trama
+5 H
+1/2 H
+1/2 H
+23 H
+5 H
+5 H
+22 H
+45 H
+ 
+
+10 
+Rec.  UIT-R  BT.709-6 
+FIGURA 1B 
+Detalle de la forma de onda de la señal de sincronismo 
+de trama/cuadro/segmento 
+BT.
+0
+0709- 1B
+Entrelazada
+trama
+1 línea
+Progresiva
+segmento
+Progresiva
+1 línea
+f
+f
+h
+d
+OH
+OH
+k
+a
+c
+d
+k
+f
+f
+f
+f
+f
+f
+f
+h
+d
+g
+h
+OH
+OH
+k
+ 
+ 
+
+ 
+Rec.  UIT-R  BT.709-6 
+11 
+FIGURA 2A 
+Forma de onda de la señal de sincronismo de línea 
+BT.
+02
+0709-
+A
+(La forma de onda presenta simetría con respecto al punto   T )
+r
+f
+f
+f
+V/2
+Sm
+Sm/2
+Sp
+V/2
+b
+a
+c
+d
+e
+OH
+90%
+10%
+f
+Sp/2
+Tr
+ 
+
+12 
+Rec.  UIT-R  BT.709-6 
+FIGURA 2B 
+Nivel de sincronismo en las señales de componentes 
+BT.0709-02B
+Intervalo de supresión
++700
++300
+0
+–300
++350
++300
+0
+–300
+–350
+OH
+мВ
+ECB, ECR
+ER, EG, EB, EY
+ 
+
+ 
+Rec.  UIT-R  BT.709-6 
+13 
+Adjunto 1  
+(informativo) 
+ 
+Plantillas del filtros 
+Las Figuras de este Adjunto son propuestas de plantillas de filtros para la eliminación de las 
+componentes de repliegue. 
+FIGURA A1-1 
+Directriz de características de filtrado para las señales R, G, B e Y (informativa) 
+BT.
+1-01
+0709-A
+-
+Pérdida de inserción (dB)
+a)   Patrón de pérdida de inserción
+Frecuencia (por 
+)
+fs
+Pérdida de inserción (dB)
+0,1 dB
+b)   Tolerancia de rizado en la banda de paso
+c)   Retardo de grupo en la banda de paso
+0,05
+– 0,05
+0,15 T
+0,22 T
+Frecuencia (por 
+)
+fs
+Retardo de grupo ( )
+T
+– 0,110
+0,075
+– 0,075
+0,27
+0,40
+0,40
+0,40
+0,50
+0,60
+0,73
+1,00
+Frecuencia (por 
+)
+fs
+0,110
+50 dB
+40 dB
+12 dB
+50
+40
+30
+20
+10
+0
+0
+0
+0
+0
+0
+Nota 1 – ƒs indica la frecuencia de muestreo de luminancia, cuyo valor figura en el punto 5.7.
+ – El rizado y el retardo de grupo se especifican con relación a sus valores a 100 kHz.
+Nota 2
+ 
+
+14 
+Rec.  UIT-R  BT.709-6 
+FIGURA A1-2 
+Directriz de características de filtrado para las señales CB y CR (informativa) 
+BT.
+A1-02
+0709-
+Pérdida de inserción (dB)
+a)   Patrón de pérdida de inserción
+Frecuencia (por 
+)
+fs
+Pérdida de inserción (dB)
+0,1 dB
+b)   Tolerancia de rizado en la banda de paso
+c)   Retardo de grupo en la banda de paso
+0,05
+– 0,05
+0,15 T
+0,22 T
+Frecuencia (por 
+)
+fs
+Retardo de grupo ( )
+T
+– 0,110
+0,075
+– 0,075
+0,14
+0,20
+0,20
+0,20
+0,25
+0,30
+0,37
+0,50
+Frecuencia (por 
+)
+fs
+0,110
+50 dB
+40 dB
+6 dB
+50
+40
+30
+20
+10
+0
+0
+0
+0
+0
+0
+Nota 1 – ƒs indica la frecuencia de muestreo de luminancia, cuyo valor figura en el punto 5.8.
+ – El rizado y el retardo de grupo se especifican con relación a sus valores a 100 kHz.
+Nota 2
+ 
+
+ 
+Rec.  UIT-R  BT.709-6 
+15 
+Adjunto 2 
+(informativo) 
+Cuadro segmentado 
+(Véase la Nota 1) 
+ 
+NOTA 1 – El término cuadro segmentado en el contexto de esta Recomendación tiene por objeto indicar que 
+una imagen ha sido captada en un modo progresivo, y transportada como dos segmentos. Un segmento contiene 
+las líneas impares de la imagen progresiva y el segundo las líneas pares. 
+1 
+Antecedentes 
+Los sistemas de televisión utilizados actualmente suelen utilizar captura (adquisición) y transmisión 
+entrelazadas. Las frecuencias de cuadro/trama de estos sistemas han sido de 50/60 Hz, frecuencia que 
+cuando se presentaba en dispositivos con una pantalla de tubo de rayos catódicos no exigía ninguna 
+corrección del parpadeo de imagen. Los sistemas de televisión actuales aplican la tecnología de 
+captura y visualización entrelazadas y progresivas en un amplio despliegue de pantallas planas 
+capaces de mostrar imágenes desde 24 Hz hasta 60 Hz sin ningún centelleo. 
+Concretamente, la tecnología PsF está destinada su aplicación sólo cuando se utilicen frecuencias de 
+cuadro de 30 Hz e inferiores y para la visualización en tubos de rayos catódicos (TRC). La tecnología 
+PsF es una tecnología de interfaz, no una tecnología para la toma y el tratamiento de la imagen. 
+2 
+Producción en 24 cuadros/s 
+Utilizando el formato de imagen común de 1 920  1 080, puede transferirse material 
+cinematográfico utilizando captura progresiva. Esta transferencia permitirá la captura de resolución 
+más alta sin perturbaciones de reducción 3:2, y además pueden crearse ambas versiones a las 
+frecuencias de cuadro de 30 Hz y de 25 Hz a partir de un solo original sin pérdida de calidad. 
+La copia a la frecuencia de cuadro de 30 Hz puede crearse pasando el original de 24 cuadros/s e 
+insertando la reducción 3:2 durante el proceso de reproducción. Este proceso también tiene la ventaja 
+de mantener la secuencia de reducción 3:2 durante el proceso de reproducción de manera que 
+cualquier procesamiento de imagen descendente, tal como un codificador MPEG, no sea afectado por 
+cualesquiera discontinuidades 3:2. 
+La copia a la frecuencia de cuadro de 25 Hz puede crearse pasando simplemente el original de 
+frecuencia cinematográfica de 24 Hz a la frecuencia ligeramente más rápida de 25 Hz, sin pérdida de 
+calidad de imagen. 
+Además de la simple transferencia de material de origen cinematográfico, se cree que la captura 
+electrónica de imágenes se producirá a una frecuencia de cuadro de 24 cuadros/s, lo que proporcionará 
+a la comunidad de producción otra herramienta más para la interacción sin discontinuidades de 
+imágenes procedentes de diversas fuentes. 
+3 
+Compatibilidad progresiva/entrelazada 
+El mundo de la posproducción tiene necesidad de atender a ambos formatos de señal de televisión 
+progresiva y entrelazada en un futuro previsible. Por tanto, en todo nuevo formato de señal como el 
+24 P, la frecuencia de cuadro de la película original tendrá que coexistir con los formatos entrelazados 
+de los sistemas de 25 Hz y 30 Hz. Una de las limitaciones de la monitorización de los sistemas de 
+24 cuadros/s es el parpadeo de imagen presente cuando se visualiza una señal de 24 cuadros/s en una 
+
+16 
+Rec.  UIT-R  BT.709-6 
+pantalla de rayos catódicos. Los sistemas entrelazados minimizan este parpadeo renovando los 
+luminóforos cada 60/50-ésimo de segundo. Hay al menos dos soluciones del parpadeo creado por los 
+sistemas de 24 cuadros/s, instalar una memoria de cuadros en cada monitor, o proporcionar al monitor 
+una señal que emule la velocidad de renovación de entrelazado. 
+24PsF/25PsF/30PsF son formatos de interfaz que proporcionarán a los dispositivos de monitorización 
+frecuencias de renovación que permitirán la monitorización directa de la frecuencia de cuadro original 
+del material. 
+Debe señalarse que en algunos casos los usuarios pueden desear supervisar el material de 
+24 cuadros/30 cuadros a otras frecuencias de cuadro que no sean las originales. 
+El uso de 24PsF/25PsF/30PsF no limita en modo alguno la monitorización de la señal por las 
+modernas pantallas de panel plano. 
+Un segundo uso potencial del formato de transmisión 24PsF/25PsF/30PsF es el área de los 
+conmutadores de posproducción digital. Un conmutador de diseño común que efectúe el tratamiento 
+de las señales entrelazadas y progresivas es económicamente posible, y responde a las necesidades 
+de los usuarios extremos que tienen necesidad de trabajar en formatos entrelazados y progresivos con 
+equipos comunes. La interfaz digital de una señal entrelazada y una señal PsF son comunes, y sólo el 
+contenido de señal es diferente. 
+4 
+Correspondencia de señales 
+El formato de transmisión 24PsF/25PsF/30PsF hace corresponder una imagen progresiva con la 
+interfaz serie digital con entrelazado definida en esta Recomendación (véase la Fig. A2-1). 
+El convenio de numeración de líneas para la captura de imágenes y la transmisión de la imagen figura 
+en la introducción de la Parte 2 (véase también la Fig. A2-1). 
+Los mismos números de líneas de una imagen entrelazada son utilizados por el PsF para transportar 
+el formato de cuadro segmentado. 
+El formato sF no tiene relación con ninguna de las características de formato entrelazado. Es un modo 
+de transportar una imagen progresiva que ha sido capturada a una frecuencia de 24/25/30 Hz. La 
+captura a esas frecuencias bajas puede exigir consideraciones de monitorización especiales. El 
+formato de transmisión sF pretende proporcionar una solución económica, pero conservando la 
+compatibilidad con los sistemas entrelazados. 
+En los casos en los que se transporta una imagen de captura progresiva como un cuadro segmentado, o 
+se procesa una señal de cuadro segmentado en un formato progresivo, se observarán las 
+siguientes reglas (véase la Fig. A2-1): 
+– 
+la numeración de líneas desde la cima del cuadro capturado hasta el fondo del 
+cuadro capturado será secuencial; 
+– 
+la línea activa 1 y la línea activa 1080 de la imagen de captura progresiva se hará corresponder 
+con la línea total 42 y con la línea total 1121, respectivamente de las 1125 líneas totales; 
+– 
+las líneas activas impares de la imagen de captura progresiva (1, 3, …, 1079) se 
+harán corresponder con las líneas totales 21 a 560 de la interfaz de cuadro segmentado; 
+– 
+las líneas activas pares de la imagen de captura progresiva (2, 4, …, 1 080) se 
+harán corresponder con las líneas totales 584 a 1123 de la interfaz de cuadro segmentado. 
+Con estas reglas, el transporte de cuadro segmentado tiene la misma numeración de líneas que la 
+del transporte con entrelazado. 
+
+ 
+Rec.  UIT-R  BT.709-6 
+17 
+FIGURA A2-1 
+Correspondencia entre imágenes progresivas e interfaces 
+de transporte de cuadro progresivo y segmentado 
+BT.
+2-01
+0709-A
+Captura progresiva
+Interfaz digital
+Progresiva
+Línea activa 1 se corresponde con línea total 42
+Línea activa  
+se corresponde 
+1080 
+con línea total  1121
+Cuadro segmentado
+Línea activa  
+se corresponde 
+1, 3.... 1079 
+con línea total  21, 22.... 560
+Línea activa  
+se corresponde 
+2, 4.... 1080 
+con línea  584, 585.... 1123
+Información de
+imagen progresiva
+24/25/30P 
+/s
+cuadros
+1920 1080 CIF
+
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,994 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recomendación  UIT-R  BT.2020-2 
+(10/2015) 
+ 
+Valores de los parámetros de los sistemas 
+de TVUAD para la producción y 
+el intercambio internacional de programas 
+ 
+ 
+ 
+ 
+Serie BT 
+Servicio de radiodifusión 
+(televisión) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ii 
+Rec.  UIT-R  BT.2020-2 
+Prólogo 
+El Sector de Radiocomunicaciones tiene como cometido garantizar la utilización racional, equitativa, eficaz y 
+económica del espectro de frecuencias radioeléctricas por todos los servicios de radiocomunicaciones, incluidos los 
+servicios por satélite, y realizar, sin limitación de gamas de frecuencias, estudios que sirvan de base para la adopción de 
+las Recomendaciones UIT-R. 
+Las Conferencias Mundiales y Regionales de Radiocomunicaciones y las Asambleas de Radiocomunicaciones, con la 
+colaboración de las Comisiones de Estudio, cumplen las funciones reglamentarias y políticas del Sector de 
+Radiocomunicaciones. 
+Política sobre Derechos de Propiedad Intelectual (IPR) 
+La política del UIT-R sobre Derechos de Propiedad Intelectual se describe en la Política Común de Patentes 
+UIT-T/UIT-R/ISO/CEI a la que se hace referencia en el Anexo 1 a la Resolución UIT-R 1. Los formularios que deben 
+utilizarse en la declaración sobre patentes y utilización de patentes por los titulares de las mismas figuran en la dirección 
+web http://www.itu.int/ITU-R/go/patents/es, donde también aparecen las Directrices para la implementación de la 
+Política Común de Patentes UIT-T/UIT-R/ISO/CEI y la base de datos sobre información de patentes del UIT-R sobre 
+este asunto. 
+ 
+ 
+Series de las Recomendaciones UIT-R  
+(También disponible en línea en  http://www.itu.int/publ/R-REC/es) 
+Series 
+Título 
+BO 
+Distribución por satélite 
+BR 
+Registro para producción, archivo y reproducción; películas en televisión 
+BS 
+Servicio de radiodifusión (sonora) 
+BT 
+Servicio de radiodifusión (televisión) 
+F 
+Servicio fijo 
+M 
+Servicios móviles, de radiodeterminación, de aficionados y otros servicios por satélite conexos 
+P 
+Propagación de las ondas radioeléctricas 
+RA 
+Radioastronomía 
+RS 
+Sistemas de detección a distancia 
+S 
+Servicio fijo por satélite 
+SA 
+Aplicaciones espaciales y meteorología 
+SF 
+Compartición de frecuencias y coordinación entre los sistemas del servicio fijo por satélite y del 
+servicio fijo 
+SM 
+Gestión del espectro 
+SNG 
+Periodismo electrónico por satélite 
+TF 
+Emisiones de frecuencias patrón y señales horarias 
+V 
+Vocabulario y cuestiones afines 
+ 
+Nota: Esta Recomendación UIT-R fue aprobada en inglés conforme al procedimiento detallado en la  
+Resolución UIT-R 1. 
+ 
+Publicación electrónica 
+Ginebra, 2017 
+ 
+ UIT 2017 
+Reservados todos los derechos. Ninguna parte de esta publicación puede reproducirse por ningún procedimiento sin previa 
+autorización escrita por parte de la UIT. 
+ 
+
+ 
+Rec.  UIT-R  BT.2020-2 
+1 
+RECOMENDACIÓN  UIT-R  BT.2020-2 
+Valores de los parámetros de los sistemas de TVUAD 
+para la producción y el intercambio internacional 
+de programas 
+ 
+(2012-2014-2015) 
+ 
+Cometido 
+La televisión de ultra alta definición (TVUAD) ofrecerá a los espectadores una mejor experiencia visual 
+debida principalmente a un ancho campo de visión, tanto en horizontal como en vertical, en pantallas de 
+tamaño adecuado para su utilización en hogares y lugares públicos. Las aplicaciones de TVUAD exigen 
+parámetros de sistema que superan los de la TVAD. En esta Recomendación se especifican los parámetros de 
+los sistemas de imagen TVUAD para la producción y el intercambio internacional de programas. 
+ 
+Palabras clave 
+Ancho campo de visión, intercambio internacional de programas, parámetros de sistema de imagen, 
+sistema de televisión, TVUAD 
+ 
+La Asamblea de Radiocomunicaciones de la UIT, 
+considerando 
+a) 
+que, desde 1997, algunas administraciones utilizan el servicio de radiodifusión de televisión 
+digital terrenal (DTTB) y pueden ofrecer programas de televisión de alta calidad con sistemas 
+de TVAD; 
+b) 
+que los espectadores esperan que los futuros sistemas de televisión posteriores a TVAD 
+ofrezcan características mejores que los actuales sistemas TVAD en términos de sensación más 
+realista, mayor transparencia en el mundo real e información visual más precisa; 
+c) 
+que se prevé que la televisión de ultra alta definición (TVUAD) esté disponible en un futuro 
+próximo con, entre otras cosas, pantallas más grandes, mayor resolución espacial/temporal, mayor 
+gama cromática, mayor gama dinámica, etc., habida cuenta de la evolución de la tecnología de las 
+pantallas; 
+d) 
+que el UIT-R ha estudiado las imagines de muy alta resolución (EHRI) y ha ampliado la 
+jerarquía de formatos de imágenes digitales en pantalla grande (LSDI), y ha elaborado 
+Recomendaciones UIT-R, como la Recomendación UIT-R BT.1201-1 donde se definen las 
+características de las imágenes de muy alta resolución, y la Recomendación UIT-R BT.1769 con los 
+valores de los parámetros de una jerarquía ampliada de formatos de imágenes LSDI; 
+e) 
+que LSDI es un sistema de visualización en pantallas muy grandes, generalmente para 
+pases públicos, que pude utilizarse en muy diversas aplicaciones, incluida la presentación de 
+programas, como películas, obras, acontecimientos deportivos, conciertos, etc.; 
+f) 
+que EHRI es un sistema que ofrece una resolución más alta que la TVAD y puede utilizarse 
+para aplicaciones tanto de radiodifusión como distintas de la radiodifusión (por ejemplo, gráficos 
+informáticos, impresión y aplicaciones médicas); 
+
+2 
+Rec.  UIT-R  BT.2020-2 
+g) 
+que la TVUAD ofrece a los espectadores una mejor experiencia visual debida 
+principalmente a un ancho campo de visión, que abarca una parte considerable del campo visual 
+humano natural, en pantallas de tamaño adecuado para su utilización en hogares y lugares públicos; 
+h) 
+que para los sistemas TVUAD se prefieren formatos de señal que contribuyen a 
+incrementar la eficacia de la compresión, pues tienen un número de píxeles mayor que los 
+sistemas TVAD, 
+observando 
+que en el Informe UIT-R BT.2246 se describe la situación actual de la televisión de ultra alta 
+definición, 
+recomienda 
+que para la producción y el intercambio internacional de programas TVUAD se utilicen las 
+especificaciones de la presente Recomendación1, 
+recomienda además 
+que, si se demuestra que una función de transferencia electroóptica (EOTF) alternativa puede 
+ofrecer ventajas notables sin imponer al mismo tiempo limitaciones importantes, esta 
+Recomendación se amplíe para permitir la utilización de una EOTF mejorada. 
+NOTA 1 – En el futuro se estudiará la posibilidad de ampliar esta Recomendación con 
+complementos para incluir los parámetros de imagen ampliada. 
+                                                 
+1  Los sistemas de TVUAD 3 840 × 2 160 y 7 680 × 4 320 servirán principalmente para la entrega de 
+programas de televisión en los hogares, donde ofrecerán a los espectadores una mayor sensación de 
+«presencia» y de realidad gracias a pantallas de unos 1,5 metros de diagonal, o incluso mayores, y a 
+pantallas muy grandes (LSDI) en teatros, salas, estadios o parques temáticos. 
+ 
+La presentación en tabletas con resolución muy alta también será atractiva para los usuarios. 
+ 
+El sistema 7 680 × 4 320 ofrecerá una experiencia visual mejor que el sistema 3 840 × 2 160 en muy 
+diversos entornos de visualización. 
+ 
+La mayor eficiencia de la codificación de fuente de vídeo y/o de la capacidad de los canales de 
+transmisión, en comparación con las que se utilizan hoy en día, probablemente necesitará que esos 
+programas lleguen a los hogares por radiodifusión terrenal o de satélite. Se están realizando los estudios 
+pertinentes para alcanzar ese objetivo. La entrega de esos programas podrá efectuarse inicialmente por 
+cable o fibra. 
+ 
+La elección de la frecuencia de trama puede estar influida por la frecuencia de la alimentación eléctrica y 
+el tipo de iluminación utilizada, así como por consideraciones relacionadas con la conversión de 
+programas de una velocidad de trama más alta a una velocidad de trama más baja (véase el Informe 
+UIT-R BT.2246). 
+
+ 
+Rec.  UIT-R  BT.2020-2 
+3 
+CUADRO 1 
+Características espaciales de la imagen 
+Parámetro 
+Valores 
+Formato de imagen 
+16:9 
+Recuento de píxeles 
+Horizontal × vertical 
+7 680 × 4 320 
+3 840 × 2 160 
+Muestreo reticular 
+Ortogonal 
+Formato de imagen de píxel 
+1:1 (píxeles cuadrados) 
+Orden de píxeles 
+Los píxeles se ordenan de izquierda a derecha en cada fila y las filas se 
+ordenan de arriba a abajo 
+ 
+CUADRO 2 
+Características temporales de la imagen 
+Parámetro 
+Valores 
+Frecuencia de trama (Hz) 
+120, 120/1,001, 100, 60, 60/1,001, 50, 30, 30/1,001, 25, 24, 24/1,001 
+Estructura de la imagen 
+Progresiva 
+ 
+CUADRO 3 
+Colorimetría del sistema 
+Parámetro 
+Valores 
+Características de transferencia 
+optoelectrónica antes de la 
+precorrección no lineal 
+Supuesto lineal(1) 
+Colores primarios y blanco de 
+referencia(2) 
+Coordenadas de cromaticidad  
+(CIE, 1931) 
+x 
+y 
+Rojo primario (R) 
+0,708 
+0,292 
+Verde primario (G) 
+0,170 
+0,797 
+Azul primario (B) 
+0,131 
+0,046 
+Blanco de referencia (D65) 
+0,3127 
+0,3290 
+(1) la información de la imagen puede indicarse linealmente con los valores tricromáticos RGB en la 
+gama 0-1. 
+(2) Los valores colorimétricos de la información de la imagen pueden determinarse a partir de los RGB 
+primarios de referencia y el blanco de referencia. 
+ 
+
+4 
+Rec.  UIT-R  BT.2020-2 
+CUADRO 4 
+Formato de la señal 
+Parámetro 
+Valores 
+Formato de la señal 
+R' G' B' (1) 
+Luminancia constante 
+RC
+BC
+C
+C
+C
+Y
+
+
+
+(2) 
+Luminancia no constante 
+R
+B C
+C
+Y
+
+
+
+(3) 
+Función de transferencia 
+no lineal(4) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+),
+1
+(
+0
+,
+5,4
+45
+,0
+E
+E
+E
+E
+E
+ 
+donde E es la tensión normalizada por el nivel blanco de referencia y 
+proporcional a la intensidad luminosa implícita que se detectará con un 
+canal de cámara color de referencia R, G, B; E' es la señal no lineal 
+resultante. 
+α y β son las soluciones a las siguientes ecuaciones simultáneas: 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+)
+2
+(
+45
+,0
+5,4
+)1(
+1
+5,4
+55
+,0
+45
+,0
+ 
+Las ecuaciones simultáneas ofrecen la condición necesaria para conectar los 
+dos segmentos de curva sin solución de continuidad y su resultado es 
+α = 1,09929682680944... y β = 0,018053968510807.... A efectos prácticos 
+pueden utilizarse los siguientes valores: 
+α = 1,099 y β = 0,018 para sistemas de 10 bits 
+α = 1,0993 y β = 0,0181 para sistemas de 12 bits 
+Derivación de
+C
+Y e Y' 
+
+
+
+
+
+
+B
+G
+R
+YC
+0593
+,0
+6780
+,0
+2627
+,0
+ 
+B'
+G'
+R'
+Y'
+0593
+,0
+6780
+,0
+2627
+,0
+
+
+
+ 
+Derivación de las señales 
+de diferencia de color 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R
+C
+R
+C
+C
+R
+R
+C
+RC
+B
+C
+B
+C
+C
+B
+B
+C
+BC
+P
+Y
+R
+P
+Y
+R
+Y
+R
+N
+N
+Y
+R
+C
+P
+Y
+B
+P
+Y
+B
+Y
+B
+N
+N
+Y
+B
+C
+'
+0
+,
+2
+'
+0
+'
+,
+2
+'
+'
+0
+,
+2
+'
+0
+'
+,
+2
+'
+ 
+donde: 
+
+
+...
+7909854
+,0
+0593
+,0
+1
+45
+,0
+
+
+
+
+B
+P
+ 
+
+
+...
+9701716
+,0
+1
+9407
+,0
+1
+45
+,0
+
+
+
+
+
+
+B
+N
+ 
+
+
+...
+4969147
+,0
+2627
+,0
+1
+45
+,0
+
+
+
+
+R
+P
+ 
+
+
+...
+8591209
+,0
+1
+7373
+,0
+1
+45
+,0
+
+
+
+
+
+
+R
+N
+ 
+A efectos prácticos pueden utilizarse 
+los siguientes valores: 
+PB = 0,7910, NB = –0,9702 
+PR = 0,4969, NR = –0,8591 
+4746
+,1
+8814
+,1
+Y'
+R'
+C
+Y'
+B'
+C
+R
+B
+
+
+
+
+
+
+ 
+
+ 
+Rec.  UIT-R  BT.2020-2 
+5 
+Notas relativas al Cuadro 4: 
+(1) R' G' B' puede utilizarse para el intercambio de programas cuando la producción de programas de calidad 
+óptima es de importancia capital. 
+(2) La luminancia constante 
+RC
+BC
+C
+C
+C
+Y
+
+
+
+ puede utilizarse cuando lo más importante es la retención exacta 
+de la información de luminancia o cuando se prevé mejorar la eficacia del código de entrega (véase el 
+Informe UIT-R BT.2246). 
+(3) La luminancia no constante convencional 
+R
+B C
+C
+Y
+
+
+
+ puede utilizarse cuando lo más importante es 
+utilizar en la cadena de radiodifusión las mismas prácticas operativas que en los entornos SDTV y 
+TVAD (véase el Informe UIT-R BT.2246). 
+(4) En la producción típica real, la función de codificación de las fuentes de imagen se ajusta para que la 
+imagen final tenga la apariencia deseada, vista en un monitor de referencia con la función de 
+descodificación de referencia de la Recomendación UIT-R BT.1886, en el entorno de visualización de 
+referencia definido en la Recomendación UIT-R BT.2035. 
+ 
+CUADRO 5 
+Representación digital 
+Parámetro 
+Valores 
+Señal codificada 
+R', G', B' o 
+R
+B C
+C
+Y
+
+
+
+,
+,
+ o 
+,
+,
+,
+RC
+BC
+C
+C
+C
+Y
+
+
+
+ 
+Muestreo reticular 
+– R', G', B', Y', Y'C 
+Ortogonal con repetición por línea y por imagen en la misma posición 
+Muestreo reticular 
+– 
+R
+B C
+C
+
+,
+ o 
+RC
+BC C
+C
+
+
+,
+ 
+Ortogonal con repetición por línea y por imagen en la misma posición 
+respectiva. 
+La primera (arriba a la izquierda) muestra está en la misma posición que 
+las primeras muestras Y' 
+Sistema 4:4:4 
+Sistema 4:2:2 
+Sistema 4:2:0 
+Cada una tiene el mismo 
+número de muestras 
+horizontales que el 
+componente Y'
+)
+( C
+Y 
+Submuestreo horizontal 
+por factor dos con 
+respecto al componente 
+Y'
+)
+( C
+Y 
+Submuestreo horizontal 
+y vertical por factor dos 
+con respecto al 
+componente Y'
+)
+( C
+Y 
+Formato de codificación 
+10 ó 12 bits por componente 
+Cuantización de R', G', B', 
+Y', 
+RC
+BC
+R
+B
+C
+C
+C
+C
+C
+Y
+
+
+
+
+
+,
+,
+,
+,
+ 
+
+
+8
+2
+)
+16
+219
+(
+
+
+
+
+
+
+
+n
+R
+INT
+R
+D
+ 
+
+
+8
+2
+)
+16
+219
+(
+
+
+
+
+
+
+
+n
+G
+INT
+G
+D
+ 
+
+
+8
+2
+)
+16
+219
+(
+
+
+
+
+
+
+
+n
+B
+INT
+B
+D
+ 
+
+
+
+
+8
+2
+)
+16
+)
+(
+219
+)
+(
+
+
+
+
+
+
+
+
+
+n
+C
+C
+Y
+Y
+INT
+Y
+D
+Y
+D
+ 
+
+
+
+
+8
+2
+)
+128
+)
+(
+224
+)
+(
+
+
+
+
+
+
+
+
+
+n
+BC
+B
+BC
+B
+C
+C
+INT
+C
+D
+C
+D
+ 
+
+
+
+
+8
+2
+)
+128
+)
+(
+224
+)
+(
+
+
+
+
+
+
+
+
+
+n
+RC
+R
+RC
+R
+C
+C
+INT
+C
+D
+C
+D
+ 
+ 
+
+6 
+Rec.  UIT-R  BT.2020-2 
+CUADRO 5 (Fin) 
+Parámetro 
+Valores 
+Niveles de cuantización 
+– Nivel de negro 
+ 
+DR', DG', DB', DY', 
+C
+Y
+D  
+– Acromático 
+ 
+RC
+BC
+R
+B
+C
+D
+C
+D
+C
+D
+C
+D
+
+
+
+
+,
+,
+,
+ 
+– Cresta nominal 
+ 
+DR', DG', DB', DY', 
+C
+Y
+D  
+ 
+RC
+BC
+R
+B
+C
+D
+C
+D
+C
+D
+C
+D
+
+
+
+
+,
+,
+,
+ 
+Codificación de 10 bits 
+Codificación de 12 bits 
+ 
+64 
+ 
+512 
+ 
+940 
+64 y 960 
+ 
+256 
+ 
+2 048 
+ 
+3 760 
+256 y 3 840 
+Asignación de nivel de 
+cuantización 
+– Datos de vídeo 
+– Referencia de temporización 
+Codificación de 10 bits 
+Codificación de 12 bits 
+ 
+4 a 1 019 
+0-3 y 1 020-1 023 
+ 
+16 a 4 079 
+0-15 y 4 080-4 095 
+ 
+ 
+______________ 
+ 
