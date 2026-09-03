@@ -72,7 +72,11 @@ SOLO = {"produccion": ("81_preguntas_produccion",),
         # preguntas, y el `71`, que sus propias instrucciones describen como
         # «30 preguntas (25 principales más 5 de reserva)». No es un fallo de
         # extracción: es un examen más corto, y se lee entero
-        "tese": ("70_preguntas_tese_a", "71_preguntas_tese_b")}
+        "tese": ("70_preguntas_tese_a", "71_preguntas_tese_b"),
+        # «informatica» aparece en dos nombres de cuadernillo —el de Técnica
+        # Informática y el de Ingeniería Superior Informática—, así que esta
+        # ocupación dice cuál es el suyo
+        "tecnica-informatica": ("48_preguntas_tec_informatica",)}
 
 
 def reparto(ocupacion):
@@ -209,6 +213,44 @@ def main(ocupacion, titulos):
 # Los títulos con los que se encabeza cada fichero del banco. Uno por ocupación,
 # porque el reparto es distinto y los temas no se llaman igual.
 TITULOS = {
+    "tecnica-informatica": {
+        "01": "Técnica Informática · Tema 1 · Bases de datos y el modelo relacional",
+        "02": "Técnica Informática · Tema 2 · Comunicaciones y redes: modelos y "
+              "direccionamiento",
+        "03": "Técnica Informática · Tema 3 · Protocolos de red, conmutación y "
+              "encaminamiento",
+        "04": "Técnica Informática · Tema 4 · Internet: origen, servicios y protocolos "
+              "seguros",
+        "05": "Técnica Informática · Tema 5 · Elementos de interconexión y conmutación",
+        "06": "Técnica Informática · Tema 6 · Programación orientada a objetos y "
+              "frameworks",
+        "07": "Técnica Informática · Tema 7 · Métrica V3, metodologías ágiles y SCRUM",
+        "08": "Técnica Informática · Tema 8 · Desarrollo de aplicaciones web y "
+              "programación de scripts",
+        "09": "Técnica Informática · Tema 9 · Desarrollo de aplicaciones en J2EE y .NET",
+        "10": "Técnica Informática · Tema 10 · Tecnologías XML",
+        "11": "Técnica Informática · Tema 11 · Arquitectura SOA y servicios web",
+        "12": "Técnica Informática · Tema 12 · Desarrollo multimedia: formatos de "
+              "streaming para web",
+        "13": "Técnica Informática · Tema 13 · Otros lenguajes: C, C++, Java y Python",
+        "14": "Técnica Informática · Tema 14 · Arquitectura y administración de sistemas "
+              "operativos",
+        "15": "Técnica Informática · Tema 15 · Políticas y procedimientos para la "
+              "conservación de datos",
+        "16": "Técnica Informática · Tema 16 · Sistemas operativos personales",
+        "17": "Técnica Informática · Tema 17 · Arquitectura de ordenadores y "
+              "virtualización",
+        "18": "Técnica Informática · Tema 18 · Sistemas multimedia y codificación de "
+              "ficheros audiovisuales",
+        "19": "Técnica Informática · Tema 19 · Sistemas de producción digital audiovisual",
+        "20": "Técnica Informática · Tema 20 · Seguridad en tecnologías de la "
+              "información: ISO 27000 e ITIL",
+        "21": "Técnica Informática · Tema 21 · La seguridad en redes",
+        "22": "Técnica Informática · Tema 22 · Protección de datos personales y garantía "
+              "de los derechos digitales",
+        "23": "Técnica Informática · Tema 23 · El Esquema Nacional de Seguridad",
+    },
+
  "sonido": {
     "01": "Sonido · Tema 1 · Electricidad y electrónica básicas",
     "02": "Sonido · Tema 2 · Principios físicos del sonido y la audición",

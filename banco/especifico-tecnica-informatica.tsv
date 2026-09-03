@@ -1,0 +1,106 @@
+# Reparto a mano del bloque específico de Técnica Informática.
+#
+# **Un cuadernillo**: `48_preguntas_tec_informatica`, de 96 preguntas —80
+# principales más 16 de reserva—, con su plantilla completa.
+#
+# De las 96, **seis son del bloque común** y las coge el banco general: la 2 y
+# la 29 son de la Ley 31/1995, la 21 y la 49 del II Plan de Igualdad, la 79 de
+# la Ley 8/2009 y la 87 de la Constitución. **Las otras 90 son del específico**
+# y están todas repartidas.
+#
+# **Dos puntos del anexo no han dado ni una pregunta**: el 14 —formatos de
+# streaming para web— y el 18 —políticas de conservación de datos—. Sus temas se
+# escriben igual, contra el programa.
+#
+# origen	nº	tema	motivo
+origen	numero	tema	motivo
+48_preguntas_tec_informatica	7	01	Bases de datos y lenguaje SQL
+48_preguntas_tec_informatica	10	01	Bases de datos y lenguaje SQL
+48_preguntas_tec_informatica	12	01	Bases de datos y lenguaje SQL
+48_preguntas_tec_informatica	13	01	Bases de datos y lenguaje SQL
+48_preguntas_tec_informatica	17	01	Bases de datos y lenguaje SQL
+48_preguntas_tec_informatica	24	01	Bases de datos y lenguaje SQL
+48_preguntas_tec_informatica	47	01	Bases de datos y lenguaje SQL
+48_preguntas_tec_informatica	9	02	Modelo de referencia y direccionamiento IP
+48_preguntas_tec_informatica	22	02	Modelo de referencia y direccionamiento IP
+48_preguntas_tec_informatica	28	02	Modelo de referencia y direccionamiento IP
+48_preguntas_tec_informatica	33	02	Modelo de referencia y direccionamiento IP
+48_preguntas_tec_informatica	45	02	Modelo de referencia y direccionamiento IP
+48_preguntas_tec_informatica	57	02	Modelo de referencia y direccionamiento IP
+48_preguntas_tec_informatica	67	02	Modelo de referencia y direccionamiento IP
+48_preguntas_tec_informatica	70	02	Modelo de referencia y direccionamiento IP
+48_preguntas_tec_informatica	14	03	Protocolo, conmutación o encaminamiento
+48_preguntas_tec_informatica	32	03	Protocolo, conmutación o encaminamiento
+48_preguntas_tec_informatica	35	03	Protocolo, conmutación o encaminamiento
+48_preguntas_tec_informatica	43	03	Protocolo, conmutación o encaminamiento
+48_preguntas_tec_informatica	54	03	Protocolo, conmutación o encaminamiento
+48_preguntas_tec_informatica	62	03	Protocolo, conmutación o encaminamiento
+48_preguntas_tec_informatica	76	03	Protocolo, conmutación o encaminamiento
+48_preguntas_tec_informatica	80	03	Protocolo, conmutación o encaminamiento
+48_preguntas_tec_informatica	83	03	Protocolo, conmutación o encaminamiento
+48_preguntas_tec_informatica	26	04	Servicio o protocolo de internet
+48_preguntas_tec_informatica	60	04	Servicio o protocolo de internet
+48_preguntas_tec_informatica	71	04	Servicio o protocolo de internet
+48_preguntas_tec_informatica	6	05	Medio físico o dispositivo de interconexión
+48_preguntas_tec_informatica	42	05	Medio físico o dispositivo de interconexión
+48_preguntas_tec_informatica	5	06	Concepto de orientación a objetos o framework
+48_preguntas_tec_informatica	18	06	Concepto de orientación a objetos o framework
+48_preguntas_tec_informatica	38	06	Concepto de orientación a objetos o framework
+48_preguntas_tec_informatica	81	06	Concepto de orientación a objetos o framework
+48_preguntas_tec_informatica	86	06	Concepto de orientación a objetos o framework
+48_preguntas_tec_informatica	92	06	Concepto de orientación a objetos o framework
+48_preguntas_tec_informatica	31	07	Metodología de desarrollo
+48_preguntas_tec_informatica	56	07	Metodología de desarrollo
+48_preguntas_tec_informatica	4	08	Tecnología web de cliente o de servidor
+48_preguntas_tec_informatica	20	08	Tecnología web de cliente o de servidor
+48_preguntas_tec_informatica	40	08	Tecnología web de cliente o de servidor
+48_preguntas_tec_informatica	46	08	Tecnología web de cliente o de servidor
+48_preguntas_tec_informatica	50	08	Tecnología web de cliente o de servidor
+48_preguntas_tec_informatica	59	08	Tecnología web de cliente o de servidor
+48_preguntas_tec_informatica	66	08	Tecnología web de cliente o de servidor
+48_preguntas_tec_informatica	73	08	Tecnología web de cliente o de servidor
+48_preguntas_tec_informatica	68	09	Plataforma J2EE o .NET
+48_preguntas_tec_informatica	74	09	Plataforma J2EE o .NET
+48_preguntas_tec_informatica	82	09	Plataforma J2EE o .NET
+48_preguntas_tec_informatica	94	09	Plataforma J2EE o .NET
+48_preguntas_tec_informatica	1	10	Tecnología XML
+48_preguntas_tec_informatica	48	10	Tecnología XML
+48_preguntas_tec_informatica	78	10	Tecnología XML
+48_preguntas_tec_informatica	89	10	Tecnología XML
+48_preguntas_tec_informatica	51	11	Servicio web o middleware
+48_preguntas_tec_informatica	53	11	Servicio web o middleware
+48_preguntas_tec_informatica	61	11	Servicio web o middleware
+48_preguntas_tec_informatica	55	13	Lenguaje de propósito general y su entorno
+48_preguntas_tec_informatica	75	13	Lenguaje de propósito general y su entorno
+48_preguntas_tec_informatica	84	13	Lenguaje de propósito general y su entorno
+48_preguntas_tec_informatica	19	14	Arquitectura o administración de sistema operativo
+48_preguntas_tec_informatica	25	14	Arquitectura o administración de sistema operativo
+48_preguntas_tec_informatica	41	14	Arquitectura o administración de sistema operativo
+48_preguntas_tec_informatica	72	14	Arquitectura o administración de sistema operativo
+48_preguntas_tec_informatica	90	14	Arquitectura o administración de sistema operativo
+48_preguntas_tec_informatica	16	16	Sistema operativo personal
+48_preguntas_tec_informatica	34	16	Sistema operativo personal
+48_preguntas_tec_informatica	37	16	Sistema operativo personal
+48_preguntas_tec_informatica	58	16	Sistema operativo personal
+48_preguntas_tec_informatica	93	16	Sistema operativo personal
+48_preguntas_tec_informatica	95	16	Sistema operativo personal
+48_preguntas_tec_informatica	11	17	Componente de ordenador o generación
+48_preguntas_tec_informatica	52	17	Componente de ordenador o generación
+48_preguntas_tec_informatica	27	18	Formato o codificación audiovisual
+48_preguntas_tec_informatica	44	18	Formato o codificación audiovisual
+48_preguntas_tec_informatica	64	18	Formato o codificación audiovisual
+48_preguntas_tec_informatica	69	18	Formato o codificación audiovisual
+48_preguntas_tec_informatica	30	19	Producción digital audiovisual sobre red
+48_preguntas_tec_informatica	63	19	Producción digital audiovisual sobre red
+48_preguntas_tec_informatica	3	20	Marco de gestión o de seguridad de la información
+48_preguntas_tec_informatica	85	20	Marco de gestión o de seguridad de la información
+48_preguntas_tec_informatica	96	20	Marco de gestión o de seguridad de la información
+48_preguntas_tec_informatica	15	21	Seguridad de red o perimetral
+48_preguntas_tec_informatica	23	21	Seguridad de red o perimetral
+48_preguntas_tec_informatica	36	21	Seguridad de red o perimetral
+48_preguntas_tec_informatica	39	21	Seguridad de red o perimetral
+48_preguntas_tec_informatica	77	21	Seguridad de red o perimetral
+48_preguntas_tec_informatica	8	22	Ley Orgánica 3/2018
+48_preguntas_tec_informatica	65	22	Ley Orgánica 3/2018
+48_preguntas_tec_informatica	88	22	Ley Orgánica 3/2018
+48_preguntas_tec_informatica	91	23	Real Decreto 311/2022
