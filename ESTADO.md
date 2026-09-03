@@ -1136,3 +1136,36 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   mil páginas y el resto no es materia de nadie; y su identificador en la API resultó ser `a1-18` y
   no `a106`, que es el apartado 2.3 del manual en estado puro: **los identificadores se resuelven
   contra el índice real, nunca por analogía**.
+
+- **2026-09-03 · La ocupación más grande del proceso llevaba un día sin verse, y era un problema de
+  nombre.** El informe de mercado del 2 de septiembre listaba «Realización Televisión, 30 puestos» y
+  daba por mirada esa familia. Pero **Realización Televisión y Realización (Asistencia) son dos
+  ocupaciones tipo distintas**, con bases específicas distintas, y la segunda convoca **129
+  puestos**: más que Gestión Administrativa, que era la mayor de aquella tabla. No salió porque
+  nadie la buscó por su nombre completo, y ninguna cifra estaba mal: **faltaba una fila**.
+  **La regla que queda**: cuando una familia profesional tiene variantes —Producción y Producción
+  (Asistencia), Realización y Realización (Asistencia), Gestión y Gestión Administrativa—, hay que
+  enumerar el catálogo entero antes de comparar, no fiarse de que un nombre las cubra a todas.
+
+- **2026-09-03 · «Con examen» estaba mal contado, y por defecto.** El mismo informe sumaba turno
+  libre y turno de discapacidad, y dejaba fuera el **concurso oposición sin pruebas eliminatorias**
+  del punto 7 de las Bases Generales. Ese proceso **sí tiene examen**, y es el mismo: las bases lo
+  describen como **«una única prueba teórica escrita de conocimientos de carácter objetivo de
+  carácter no eliminatorio, que supondrá el 60 % de la puntuación total»**, con **«un mínimo de 80
+  preguntas»** sobre el mismo temario. No es eliminatorio; es examen.
+  **No cambia ninguna decisión tomada**: Gestión Administrativa y Gestión tenían cero en esa
+  casilla. Sí cambia el tamaño de las que quedaban —Información gráfica, Sonido, la Técnica de
+  Equipos y Sistemas Electrónicos y Realización (Asistencia) suman entre 6 y 7 puestos más cada
+  una—, y por eso queda anotado.
+
+- **2026-09-03 · Varias plantillas de respuestas parecían ilegibles y no lo eran.** Las
+  transcripciones `.txt` guardadas de las plantillas de Realización (Asistencia), Sonido e
+  Información gráfica **traen la columna de números y no la de letras**. Leído así, parecía el mismo
+  defecto de fuente incrustada que `plantilla_ocr.py` arregló para Gestión, Gestión-Abogado/A e
+  Iluminación —y esa herramienta, en efecto, devuelve cero para ellas—. **Pero el PDF sí trae las
+  letras**: una extracción hecha hoy da las **120, 96 y 108** respuestas completas.
+  El defecto está en la transcripción guardada, no en el documento ni en la herramienta. **No afecta
+  a las cinco ocupaciones preparadas**, cuyos bancos se armaron contra los PDF; hay que rehacer esas
+  transcripciones antes de montar el banco de cualquiera de las nuevas. Y deja una regla: **una
+  transcripción vieja no es la fuente**; cuando algo parece ilegible, se vuelve al PDF antes de
+  concluir nada.

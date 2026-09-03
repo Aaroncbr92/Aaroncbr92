@@ -17,6 +17,8 @@ CDN. Junto a cada PDF está su transcripción `.txt`.
 | `1-2022_bases_generales_anexo-6.pdf` | 1/2022 | — | anexo 6: baremo de méritos de las tasas de reposición ordinarias (apartado 8) |
 | `1-2022_gestion_administrativa.pdf` | 1/2022 | Gestión Administrativa | libre |
 | `1-2022_gestion.pdf` | 1/2022 | Gestión | libre |
+| `1-2022_realizacion_asistencia.pdf` | 1/2022 | Realización (Asistencia) | libre |
+| `1-2022_produccion.pdf` | 1/2022 | Producción | libre |
 
 Las bases generales vienen de la sección sindical de CGT
 (<https://www.cgtrtve.org/files/bases_generales_1-2022_adaptadas-sin-anexos.pdf>)
@@ -43,10 +45,19 @@ Las de 1/2022 llevan la coletilla «adaptadas tras el acuerdo transaccional
 homologado por la Sala de lo Social de la Audiencia Nacional en los autos de
 conflicto colectivo 154/2023».
 
-**Las dos últimas no son de ocupaciones que preparemos todavía**: se descargaron
-el 2026-09-02 para decidir cuál escribir después, y el razonamiento está en
-`informes/mercado-ocupaciones-2026-09-02.md`. Vienen de la sección sindical de USO
-en RTVE, que las publica ocupación por ocupación.
+**Gestión Administrativa y Gestión** se descargaron el 2026-09-02 para decidir
+cuál escribir después —el razonamiento está en
+`informes/mercado-ocupaciones-2026-09-02.md`— y **ya están preparadas**. Vienen de
+la sección sindical de USO en RTVE, que las publica ocupación por ocupación.
+
+**Realización (Asistencia) y Producción** se descargaron el 2026-09-03, por el
+mismo motivo y con el mismo método: son las dos que elige
+`informes/mercado-ocupaciones-2026-09-03.md`. **Todavía no están preparadas.**
+Vienen de la sección sindical de CCOO en RTVE, cuya página de bases específicas
+publica el catálogo completo, las cincuenta y tantas ocupaciones tipo del
+proceso. Para esa comparación se leyeron **catorce** bases; **sólo se guardan las
+dos que se van a escribir**, porque el resto no aporta nada al repositorio más
+allá de una cifra que ya está anotada en el informe.
 
 ## Lo que sacamos de ellas
 
