@@ -1,5 +1,19 @@
 # Tema 2 del específico de Realización Televisión · Las artes escénicas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 1.3 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el vocabulario y la historia del teatro y su herencia en el plató, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Advertencia** | **La atribución del teatro como obra de conjunto a la Compañía del ducado de Meiningen es la corriente en la historia del teatro**, y **este proyecto no ha volcado ninguna fuente de esa disciplina**. El tema la presenta como conocimiento común de la materia |
+| **Extensión** | **3.990 palabras** |
+
+<!-- /portada -->
+
 Los términos extranjeros y las abreviaturas de este tema, presentados de entrada: el efecto de
 distanciamiento de Brecht (**efecto V**, del alemán *Verfremdungseffekt*, que el propio enunciado del
 examen abrevia así); el conjunto teatral (***ensemble***); y el plano general (**PG**) y el plano

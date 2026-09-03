@@ -1,5 +1,19 @@
 # Tema 22 del específico de Realización Televisión · Derechos de autor y propiedad intelectual
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.10 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual**, artículos **26** y **127**, citados literales |
+| **Identificador** | `BOE-A-1996-8930` · BOE núm. 97, de 22/04/1996 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. **Ninguno de los dos artículos citados ha sido reformado desde 1996**: la redacción vigente al corte es la original y **no hay reforma cruzada que dirimir** |
+| **Sólo con la plantilla** | **Una afirmación**: **el siglo en que se acuñó el término *copyright***. **La atribución al Estatuto de la Reina Ana de 1710 es la corriente en la historia del derecho de autor** y no procede de ninguna fuente volcada en este proyecto |
+| **Extensión** | **2.010 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: el texto refundido de la Ley de Propiedad
 Intelectual (**LPI**), aprobado por el Real Decreto Legislativo (**RDLeg**) 1/1996, de 12 de abril;
 y el término inglés con que el mundo anglosajón nombra el derecho de copia (*copyright*), que **no es

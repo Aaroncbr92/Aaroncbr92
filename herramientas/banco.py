@@ -30,7 +30,8 @@ PRL_ESPECIFICO = ("PRL específico · Prevención en el temario específico "
                   "(Producción (Asistencia) 18 · Producción 17 · "
                   "Realización (Asistencia) 21 · Gestión Administrativa 13 · "
                   "Gestión 31 · Documentación 7 · Información y Contenidos 11 · "
-                  "Montaje de Equipos 7 · Información Gráfica 7)")
+                  "Montaje de Equipos 7 · Información Gráfica 7 · "
+                  "Realización Televisión 1)")
 
 
 def plantilla(ruta):

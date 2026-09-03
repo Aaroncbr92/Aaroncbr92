@@ -1,5 +1,19 @@
 # Tema 5 del específico de Realización Televisión · El cine
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 1.7 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es historia del cine y actualidad de premios, y **va como oficio**, salvo cinco datos de actualidad que descansan en la plantilla |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Ojo con la** | **pregunta 33: tiene TRES respuestas igualmente correctas.** *Ben-Hur*, *Titanic* y *El señor de los anillos: el retorno del rey* comparten el récord de once Óscar, y **tres de las cuatro opciones son esas tres películas**. **El temario manda marcar la de la plantilla —*Ben-Hur*— sabiendo que está marcada por la plantilla y no por el enunciado**, y **la señala como impugnable** |
+| **Extensión** | **4.046 palabras** |
+
+<!-- /portada -->
+
 Los términos y siglas de este tema, presentados de entrada: la resolución de cuatro mil píxeles de
 ancho (**4K**); la Academia de las Artes y las Ciencias Cinematográficas de Estados Unidos, cuyos
 premios se conocen como **Óscar**; la Academia de las Artes y las Ciencias Cinematográficas de España,

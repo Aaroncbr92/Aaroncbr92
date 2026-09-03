@@ -1,5 +1,19 @@
 # Tema 21 del específico de Realización Televisión · Nuevas herramientas y realización online. Transmedia
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.9 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Página de seguimiento de cámara de Mo-Sys y ficha técnica del StarTracker Max**, citadas literales. El resto —realidades virtual, aumentada y mixta, motores de render, máscaras y narrativa transmedia— **va como oficio** |
+| **Identificador** | **Mo-Sys**, «Camera Tracking» y ficha del **StarTracker Max**. No tienen identificador del BOE: se citan por su página |
+| **Redacción que se estudia** | Las ediciones disponibles |
+| **Sólo con la plantilla** | **Una afirmación** —la tecnología que se ve en una fotografía— **depende enteramente de una imagen**. **La respuesta descansa en la plantilla oficial**, y el tema aporta la regla que separa las tres realidades: **la oclusión es la firma de la mixta** |
+| **Extensión** | **3.022 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: la realidad aumentada (**RA**, y **AR** en
 la documentación en inglés); la realidad virtual (**RV**, **VR** en inglés); la realidad mixta (**RM**);
 las imágenes generadas por ordenador (**CGI**, *computer-generated imagery*); el sistema de seguimiento

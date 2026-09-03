@@ -1,5 +1,19 @@
 # Tema 15 del específico de Realización Televisión · El mezclador
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.3 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Manual en español del mezclador ATEM de Blackmagic Design**, de cuyo epígrafe «¿Qué es una macro?» sale la definición **palabra por palabra**. El resto —incrustación, decorados virtuales y automatización— **va como oficio** |
+| **Identificador** | Manual de usuario del **ATEM** de Blackmagic Design. No tiene identificador del BOE: se cita por su epígrafe |
+| **Redacción que se estudia** | La edición disponible del manual |
+| **Sólo con la plantilla** | **Dos afirmaciones**: **el nombre comercial del sistema que programa una emisión entera** y **el reparto de funciones de cuatro equipos de grafismo**. **La documentación de esos fabricantes no se ha consultado**, y lo que el tema sostiene es la frontera que las hace contestables: **equipos de directo frente a equipos de sala** |
+| **Extensión** | **2.706 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: el efecto digital de vídeo con que se
 reduce y coloca una imagen dentro de otra (**DVE**, *digital video effect*), la incrustación por color
 (*chroma key*), la incrustación en general (*key*), el mezclador de producción (*switcher* en la

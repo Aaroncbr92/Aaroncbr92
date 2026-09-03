@@ -1,5 +1,19 @@
 # Tema 17 del específico de Realización Televisión · El sonido
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.5 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los conceptos generales del sonido, el audio digital, la consola y la banda sonora, y **va como oficio**, salvo dos afirmaciones que descansan en la plantilla |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Dos afirmaciones**: **la lectura de un panel de mezcla**, que depende de una imagen —el tema aporta las tres comprobaciones de una configuración estéreo—, y **el uso del término *buzz track***, que **tiene al menos dos sentidos documentados y el temario declara los dos** |
+| **Extensión** | **4.839 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: el puesto de control situado frente al
 escenario (**FOH**, *front of house*); la escucha previa al fader de una consola (**PFL**, *pre-fade
 listen*), con su pareja la escucha posterior (**AFL**, *after-fade listen*); el hercio y el kilohercio

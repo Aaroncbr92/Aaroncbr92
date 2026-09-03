@@ -1,5 +1,19 @@
 # Tema 12 del específico de Realización Televisión · Formatos y procesos de registro, captación y reproducción
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 3.2 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma en el cuerpo del tema.** Su materia son resoluciones, cadencias, muestreo, compresión, contenedores, código de tiempo y soportes, y **va como oficio**, salvo dos afirmaciones que descansan en la plantilla |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita en este tema** |
+| **Sólo con la plantilla** | **Dos afirmaciones**: **el conector de la fotografía**, que depende de una imagen —el tema aporta cómo se reconoce cada familia de conector—, y **las cifras de ancho de banda del DVB-T2**, que **el temario no ha podido contrastar en la norma del ETSI** |
+| **Extensión** | **5.018 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la ultra alta definición (**UHD** o **UHDV**, como la
 escribe un enunciado) y la alta definición (**HD**, y **HDTV** referida a la televisión); la
 iniciativa de cine digital (**DCI**), que da nombre al 4K de sala; la línea nacional norteamericana

@@ -1,5 +1,19 @@
 # Tema 4 del específico de Realización Televisión · Las artes plásticas y la fotografía
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · puntos 1.5 y 1.6 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es composición, historia de la fotografía y vocabulario de montaje de obra, y **va como oficio**, salvo una autoría que sólo se ve en una imagen |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Una pregunta** —la autoría de unas fotografías— **depende enteramente de una imagen**. **La respuesta descansa en la plantilla oficial**, y el tema aporta el asunto y el estilo reconocibles de cada fotógrafo español de repertorio |
+| **Extensión** | **2.543 palabras** |
+
+<!-- /portada -->
+
 Los términos de este tema, presentados de entrada: el marco interior de cartulina de una fotografía
 (***passepartout***, del francés, que el examen escribe así); la imagen obtenida por acción de la luz
 sobre una superficie sensible (**heliografía**, de donde viene la palabra que el enunciado usa); y el

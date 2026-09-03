@@ -1,5 +1,19 @@
 # Tema 19 del específico de Realización Televisión · La puesta en escena
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.7 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la escenografía, la ambientación y la lectura de planos de decorado, y **va como oficio**, salvo una afirmación que depende de una imagen |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Advertencia** | **El vocabulario de taller de este tema no está normalizado y varía por región y por casa.** «Carra», «riostra», «velador» y «ceferino» **son palabras de oficio, transmitidas en la práctica y no recogidas con ese sentido en ningún diccionario técnico volcado en este proyecto**. El temario las define según el uso corriente en los platós españoles y **lo declara** |
+| **Extensión** | **1.937 palabras** |
+
+<!-- /portada -->
+
 Los términos de este tema, presentados de entrada, son los de un taller y no los de un control: la
 *carra* —el panel de decorado—, la *riostra* —el tirante que arriostra una estructura—, la *segueta*
 —la sierra de marquetería—, el *velador* —la mesa auxiliar de patas altas—, el *ceferino* —el rollo de

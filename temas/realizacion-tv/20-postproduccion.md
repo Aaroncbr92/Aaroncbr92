@@ -1,5 +1,19 @@
 # Tema 20 del específico de Realización Televisión · Postproducción
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.8 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la teoría general del montaje y el manejo de los sistemas de edición y de repetición, y **va como oficio**, salvo tres afirmaciones que descansan en la plantilla |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Tres afirmaciones**: **la lectura de una barra de herramientas**, que depende de una imagen, y **dos procedimientos concretos de programa**. **La documentación de Avid y de EVS no se ha consultado**, y lo que el tema sostiene de esos productos es el concepto, no el rótulo |
+| **Extensión** | **4.183 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: la lista de decisiones de edición
 (**EDL**, *edit decision list*); la caída de señal en una cinta magnética (***drop out***); el ajuste
 fino de los puntos de corte de un plano ya montado (***trim***, y su castellanización de plató

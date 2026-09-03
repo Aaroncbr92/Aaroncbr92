@@ -1,5 +1,19 @@
 # Tema 7 del específico de Realización Televisión · Géneros y formatos televisivos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 2.1 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la tipología de géneros y formatos televisivos, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Ojo con la** | **pregunta 67: su enunciado y su respuesta oficial no encajan.** El enunciado pide qué **NO** se incluye en un magazine y la respuesta marcada afirma que **cualquier temática puede incluirse**. **Es materialmente cierta y no contesta a lo que se pregunta.** El temario manda marcarla igual y lo declara |
+| **Extensión** | **3.681 palabras** |
+
+<!-- /portada -->
+
 Los términos ingleses de este tema, presentados de entrada: el programa de entrevistas
 (***talk-show***); la comedia de situación (***sitcom***, contracción de *situation comedy*); la
 telenovela de larga duración (***soap opera***, «ópera de jabón», por los anunciantes que las

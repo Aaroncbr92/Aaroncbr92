@@ -1,5 +1,19 @@
 # Tema 14 del específico de Realización Televisión · La cámara: accesorios y posibilidades
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.2 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son las nociones básicas de la cámara, sus objetivos, sus soportes y sus accesorios, y **va como oficio**, salvo dos afirmaciones que descansan en la plantilla |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Advertencia** | **El enunciado de este punto del anexo contiene una errata: escribe «Diagrama» donde debe leerse «Diafragma».** La lista es «Foco. Profundidad de campo. Diagrama. Filtros»: los cuatro conceptos de una óptica. **El examen lo confirma**, y **el temario desarrolla el diafragma y declara la errata en lugar de arrastrarla** |
+| **Extensión** | **5.273 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: la unidad de control de cámara (**CCU**,
 *camera control unit*), el panel de control remoto desde el que se gobierna (**RCP**, *remote control
 panel*, llamado **OCP** —*operational control panel*— por algunos fabricantes), la cámara robotizada de

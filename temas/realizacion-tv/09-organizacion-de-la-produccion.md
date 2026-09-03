@@ -1,5 +1,19 @@
 # Tema 9 del específico de Realización Televisión · Organización general de la producción
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 2.3 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los documentos y los procesos de organización de una producción, y **va como oficio**, salvo dos afirmaciones que dependen de una imagen |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Dos preguntas** —la altura de una figura a escala 1:75 y el nombre del documento de la imagen— **dependen enteramente de una imagen**. **Las respuestas descansan en la plantilla oficial**, y el tema aporta cómo se lee una escala y qué distingue un *rider* de un *stage plot* |
+| **Extensión** | **3.474 palabras** |
+
+<!-- /portada -->
+
 Los términos ingleses de este tema, presentados de entrada: el documento de necesidades técnicas de
 una actuación (***rider***, y su variante escrita ***technical rider***); el plano de emplazamiento de
 los músicos y sus equipos sobre el escenario (***stage plot***); el equipo de instrumentos y

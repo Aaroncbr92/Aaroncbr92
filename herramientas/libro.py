@@ -298,6 +298,34 @@ AVISOS_INFORMACION_GRAFICA = {
         "s\u00f3lo corrige el tama\u00f1o, no el \u00e1ngulo</b>.",
 }
 
+AVISOS_REALIZACION_TV = {
+    "66_preguntas_realizacion_a · nº 33":
+        "<b>La pregunta tiene tres respuestas igualmente correctas.</b> <i>Ben-Hur</i>, "
+        "<i>Titanic</i> y <i>El señor de los anillos: el retorno del rey</i> comparten el récord "
+        "de <b>once Óscar</b>, y <b>tres de las cuatro opciones son esas tres películas</b>. La "
+        "plantilla da <b>b) <i>Ben-Hur</i></b>, y hay que marcarla <b>sabiendo que está marcada "
+        "por la plantilla y no por el enunciado</b>. <b>Es impugnable.</b>",
+    "66_preguntas_realizacion_a · nº 67":
+        "<b>El enunciado y la respuesta oficial no encajan.</b> Se pregunta qué <b>NO</b> se "
+        "incluye en un magazine y la respuesta marcada afirma que <b>cualquier temática puede "
+        "incluirse</b>. Es <b>materialmente cierta</b> —el magazine no excluye temas— y <b>no "
+        "contesta a lo que se pregunta</b>. Se marca igual: es la clase de pregunta que se "
+        "acierta reconociendo la intención del redactor, no la lógica del enunciado.",
+    "68_preguntas_realizacion_b · nº 37":
+        "<b>La formulación es discutible.</b> Que la sensación de relieve <b>aumente</b> con la "
+        "distancia puede sostenerse al revés si se atiende a la estereoscopia, que <b>desaparece "
+        "con la distancia</b>. Lo que hace defendible la respuesta oficial es que <b>en una "
+        "imagen plana</b> el relieve descansa en los <b>indicios monoculares</b>, más abundantes "
+        "cuanta más profundidad tiene la escena. <b>La respuesta descansa en la plantilla.</b>",
+    "66_preguntas_realizacion_a · nº 11":
+        "<b>El criterio de reparto no se ha podido establecer.</b> La plantilla deja <b>sin moto "
+        "al grupo perseguidor</b> y cubre <b>dos veces el pelotón</b>, mientras que la opción "
+        "<b>a)</b> reparte <b>una unidad por grupo</b>. El temario expone el criterio que "
+        "sostiene la respuesta oficial —el helicóptero cubre un tramo, la moto de cola recoge a "
+        "los descolgados del puerto— y <b>declara que ninguna fuente consultable dirime entre "
+        "las dos</b>.",
+}
+
 AVISOS_GESTION_ADMINISTRATIVA = {
     "23_preguntas_gea · nº 21":
         "<b>La plantilla da 33 días de indemnización por despido objetivo, con tope de 12 "
@@ -720,6 +748,54 @@ BLOQUES = {
                       "<b>dos de ellas porque dependen de una imagen</b>, y el temario dice qu\u00e9 "
                       "aporta en su lugar. <b>Y un punto entero del programa no tiene ni una "
                       "pregunta</b>: se escribe contra el programa, y lo dice.</p>",
+    ),
+    "realizacion-tv": dict(
+        carpeta="realizacion-tv",
+        rotulo="Temario específico · Realización Televisión",
+        ocupacion="Realización Televisión",
+        titulo="Temario específico",
+        subtitulo="Los veintidós temas de <b>Realización Televisión</b>",
+        pie="Oposiciones RTVE – Realización Televisión",
+        avisos=dict(AVISOS_REALIZACION_TV, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), "realizacion-tv-%02d" % n) for n, base in [
+            (1, "la-musica"), (2, "las-artes-escenicas"), (3, "la-literatura"),
+            (4, "artes-plasticas-y-fotografia"), (5, "el-cine"), (6, "la-television"),
+            (7, "generos-y-formatos"), (8, "el-guion"),
+            (9, "organizacion-de-la-produccion"), (10, "funciones-del-realizador"),
+            (11, "la-senal-y-su-control"), (12, "formatos-y-procesos-de-registro"),
+            (13, "lenguaje-tecnico-y-narrativo"),
+            (14, "la-camara-accesorios-y-posibilidades"), (15, "el-mezclador"),
+            (16, "la-iluminacion"), (17, "el-sonido"),
+            (18, "produccion-de-programas-directos-y-grabados"),
+            (19, "la-puesta-en-escena"), (20, "postproduccion"),
+            (21, "produccion-y-realizacion-online-transmedia"),
+            (22, "derechos-de-autor-y-propiedad-intelectual"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Las doscientas veintinueve respuestas oficiales de este bloque son "
+                         "correctas</b>, salvo dos preguntas defectuosas que van marcadas con lo "
+                         "que las desmiente: <b>una con tres opciones igualmente correctas</b> "
+                         "—el récord de Óscar— y <b>una cuyo enunciado y respuesta no encajan</b> "
+                         "—la del magazine—. <b>Trece preguntas dependen de una imagen que un "
+                         "temario escrito no puede reproducir</b>: van declaradas una a una, y de "
+                         "cada una se aporta <b>la regla de su familia</b> en lugar de describir "
+                         "lo que no se ha visto.",
+        aviso_portada="<p><b>Es la ocupación de grado del área de realización</b>, distinta de "
+                      "Realización (Asistencia), y trae <b>doscientas veintinueve preguntas del "
+                      "bloque específico</b>, de dos llamamientos con sus dos plantillas "
+                      "completas.</p>"
+                      "<p><b>Su anexo reparte el examen de forma muy desigual</b>: la producción "
+                      "de programas directos y grabados se lleva <b>veintitrés preguntas</b> —el "
+                      "banco más grande del proyecto en un solo punto de programa—, el guion "
+                      "veintidós, el lenguaje narrativo veinte y el sonido dieciocho, mientras "
+                      "que la literatura se lleva dos y los derechos de autor, tres.</p>"
+                      "<p><b>Y es la ocupación con más preguntas dependientes de una imagen de "
+                      "todo el proyecto: trece.</b> Piden leer una planta de decorado, un "
+                      "esquema de posiciones, una captura de pantalla o una fotografía. <b>El "
+                      "temario no las describe, porque no las tiene delante</b>: declara cada "
+                      "una y aporta en su lugar la regla que hace legible cualquier pregunta de "
+                      "esa familia.</p>",
     ),
     "realizacion": dict(
         carpeta="realizacion",

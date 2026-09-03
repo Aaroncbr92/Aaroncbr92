@@ -1,5 +1,19 @@
 # Tema 11 del específico de Realización Televisión · Conocimientos básicos de televisión: la señal y su control
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 3.1 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Real Decreto 2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida**, cuyos cuadros sostienen las unidades fotométricas; y **las Recomendaciones UIT-R BT.601, BT.709, BT.2020 y BT.2100** como referencia. El resto —estructura de la señal, monitorización y percepción— **va como oficio** |
+| **Identificador** | `BOE-A-2010-927` · BOE núm. 18, de 21/01/2010 · **UIT-R BT.2100**, citada por remisión |
+| **Redacción que se estudia** | La vigente el **21/12/2022**, con la modificación del **RD 493/2020** ya incorporada |
+| **Ojo con la** | **pregunta 37: su formulación es discutible.** Que la sensación de relieve **aumente** con la distancia puede sostenerse al revés si se atiende a la estereoscopia, que desaparece con la distancia. **Lo que hace defendible la respuesta oficial es que en una imagen plana el relieve descansa en los indicios monoculares**, más abundantes cuanta más profundidad tiene la escena. **La respuesta descansa en la plantilla y el tema lo declara** |
+| **Extensión** | **3.915 palabras** |
+
+<!-- /portada -->
+
 Las siglas y unidades de este tema, presentadas de entrada: la unidad de control de cámara (**CCU**);
 la candela por metro cuadrado (**cd/m²**), que en la industria se llama ***nit***; el alto rango
 dinámico (**HDR**) y el estándar (**SDR**); la luminancia (**Y**) y las dos señales de diferencia de

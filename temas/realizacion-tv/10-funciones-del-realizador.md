@@ -1,5 +1,19 @@
 # Tema 10 del específico de Realización Televisión · Funciones del realizador y los puestos técnico-artísticos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 2.4 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el reparto de funciones entre los puestos técnico-artísticos, y **va como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Una afirmación** —quién ordena abrir y cerrar una señal institucional con carta— **descansa en la plantilla oficial**. El tema aporta la escala de decisión que la hace legible: **productor ejecutivo, editor, realizador, regidor** |
+| **Extensión** | **3.096 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: la unidad móvil (**UM**, como la abrevia
 el enunciado del examen); Televisión Española (**TVE**); el responsable creativo y ejecutivo de una
 serie (***showrunner***); el mundo narrativo de una ficción (***storyworld***); y la carta

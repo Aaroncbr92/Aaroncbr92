@@ -1,5 +1,19 @@
 # Tema 6 del específico de Realización Televisión · La televisión: historia, cadenas y programas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 1.2 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es historia de la televisión y actualidad de la Corporación, y **va como oficio y con documentación institucional de RTVE** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Advertencia** | **Dos respuestas que habrían descansado en la plantilla se han verificado en fuente**: **el Centro Territorial de Santiago de Compostela**, en la página de la Corporación, y **los cuarenta años de *Metrópolis***, en su ficha de RTVE Play, que lo data en 1985 y en La 2 |
+| **Extensión** | **3.132 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: Radiotelevisión Española (**RTVE**) y Televisión
 Española (**TVE**); Radio Nacional de España (**RNE**); la Unión Europea de Radiodifusión (**UER**, o
 **EBU** en su sigla inglesa), que organiza el Festival de Eurovisión; la *British Broadcasting

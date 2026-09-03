@@ -51,7 +51,7 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 ## Y el banco del bloque **específico**
 
-Hay uno por ocupación tipo. Los **diez** que existen suman **1.069 preguntas**, todas con
+Hay uno por ocupación tipo. Los **once** que existen suman **1.298 preguntas**, todas con
 su respuesta oficial.
 
 ### Producción (Asistencia)
@@ -435,6 +435,44 @@ cifras correctas del margen audible **con la unidad equivocada** —micrómetros
 **Y sólo siete preguntas descansan sólo en la plantilla oficial: el 7,4 %, la proporción más baja de
 todas las ocupaciones audiovisuales del proyecto.** Ochenta y seis de las noventa y cuatro **se
 contestan leyendo**.
+
+### Realización Televisión
+
+**229 preguntas** de los dos llamamientos de **Realización Televisión** de 2024, repartidas entre los
+veintidós temas en que este proyecto desarrolla su Anexo 2. **Es el segundo banco más grande del
+proyecto**, después del de Realización (Asistencia).
+
+**El reparto es extraordinariamente desigual, y es el dato que ordena el estudio de la ocupación.** El
+punto 4.6 —producción de programas directos y grabados— se lleva **veintitrés preguntas**, que es **el
+banco más grande de todo el proyecto en un solo punto de programa**; el 2.2, el guion, veintidós; el
+4.1, el lenguaje técnico y narrativo, veinte; y el 4.5, el sonido, dieciocho. En el otro extremo, el
+1.4 —la literatura— se lleva dos y el 4.10 —derechos de autor— tres.
+
+**El bloque 1 del Anexo 2, la cultura audiovisual, es lo que distingue a esta ocupación de Realización
+(Asistencia)**: música, televisión, artes escénicas, literatura, artes plásticas, fotografía y cine.
+Sus siete subpuntos suman **cuarenta preguntas** entre los dos llamamientos.
+
+**Y es la ocupación con más preguntas dependientes de una imagen de todo el proyecto: trece.** Piden
+leer una planta de decorado, un esquema de posiciones de cámara, una captura de pantalla de un sistema
+de minutado o una fotografía. **Cinco de esas trece están en un solo tema**, el del lenguaje técnico y
+narrativo. El temario no describe lo que no ha visto: declara cada una y aporta **la regla de su
+familia**.
+
+**Dos preguntas con defecto de construcción, ninguna errata de plantilla.** La **nº 33** del primer
+llamamiento —el récord de Óscar— tiene **tres respuestas igualmente correctas**, porque *Ben-Hur*,
+*Titanic* y *El señor de los anillos: el retorno del rey* están empatadas a once y **tres de las cuatro
+opciones son esas tres películas**: es la undécima errata documentada del proyecto y es impugnable. Y
+la **nº 67** pregunta qué **NO** se incluye en un magazine y se responde con una afirmación
+materialmente cierta que no contesta a lo que se pregunta.
+
+**Dos preguntas se han reclasificado a mano contra la apariencia de su enunciado**: la nº 108 del
+primer llamamiento —la TSNR— parece de señal y **es narrativa**; la nº 101 del segundo —el punto
+dulce— parece de sonido, porque está rodeada de preguntas de audio, y **es de óptica**.
+
+**Y el cuadernillo se contradice con otro del mismo proceso**: su pregunta 38 ordena las fases del
+guion poniendo la sinopsis después del argumento, y la 28 del cuadernillo de Información Gráfica las
+ordena al revés. **Las dos respuestas oficiales son correctas dentro de su propio examen.** El temario
+lo declara como dos escuelas, no como error, y sigue en cada ocupación la convención de su enunciado.
 
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al

@@ -1,5 +1,19 @@
 # Tema 1 del específico de Realización Televisión · La música
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 1.1 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es teoría musical, organología y cultura de la banda sonora, y **va como oficio**, salvo un dato de premio y un instrumento que sólo se ve en una imagen |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Una pregunta** —el instrumento de la fotografía— **depende enteramente de una imagen** que un temario escrito no puede reproducir. **La respuesta descansa en la plantilla oficial**, y el tema aporta la regla de familia de la madera de doble caña |
+| **Extensión** | **4.036 palabras** |
+
+<!-- /portada -->
+
 Las siglas y abreviaturas de este tema, presentadas de entrada: la banda sonora (**BSO**, banda sonora
 original); el hercio (**Hz**), unidad de la frecuencia; los pulsos por minuto (**ppm**, o **BPM** en
 la notación inglesa) con que se mide el tempo; y la Real Academia Española (**RAE**), a cuyo

@@ -1,5 +1,19 @@
 # Tema 13 del específico de Realización Televisión · Lenguaje técnico y narrativo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.1 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el lenguaje técnico y narrativo de la realización, y **va como oficio**, salvo cinco afirmaciones que dependen de una imagen |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **CINCO preguntas** —una cuarta parte del banco— **dependen enteramente de una imagen que el temario no puede reproducir**. **Las respuestas descansan en la plantilla oficial**, y de cada una **el tema aporta la regla de su familia**: los tamaños consecutivos de un zoom, las cuatro clases de eje, la suma de la tarima a la estatura y los tres criterios de comprobación de una continuidad |
+| **Extensión** | **5.845 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: los tamaños de plano, que el examen
 abrevia como los rotula un plan de cámaras —el primerísimo primer plano (**PPP**), el primer plano
 (**PP**), el plano medio corto (**PMC**), el plano medio (**PM**) y el plano general (**PG**)—; la

@@ -1,5 +1,19 @@
 # Tema 18 del específico de Realización Televisión · Producción de programas directos y grabados
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.6 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo**, anexo I, que **el propio enunciado de una pregunta invoca**; **la página «Quiénes somos» de la FORTA**; y **la ficha técnica de la unidad de campo LU300S de LiveU**. El resto **va como oficio** |
+| **Identificador** | `BOE-A-1997-8669` · BOE núm. 97, de 23/04/1997 · **FORTA**, «Quiénes somos» · **Ficha del LiveU LU300S** |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Sólo con la plantilla** | **Tres afirmaciones**: **dos lecturas de una captura de pantalla de minutado** —el tema aporta las tres reglas con que se lee cualquier minutado— y **el criterio de reparto de tres motos y un helicóptero en una etapa ciclista**. **De esta última el temario declara expresamente que la opción a) reparte una unidad por grupo y que ninguna fuente consultable dirime entre las dos** |
+| **Extensión** | **5.484 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: la unidad móvil (**UM**, y **UUMM** en
 plural, como la escribe el propio anexo); el equipo ligero de reportaje electrónico (**ENG**,
 *electronic news gathering*); el enlace vía satélite en unidad ligera (**DSNG**, *digital satellite

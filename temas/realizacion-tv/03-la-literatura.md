@@ -1,5 +1,19 @@
 # Tema 3 del específico de Realización Televisión · La literatura
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 1.4 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Orden CLT/1431/2024, de 25 de noviembre, por la que se concede el Premio Cervantes correspondiente al año 2024**, verificada literal en el BOE. El resto —la adaptación y los autores de ciencia ficción— **va como oficio** |
+| **Identificador** | `BOE-A-2024-26477` · Orden CLT/1431/2024, de 25 de noviembre |
+| **Redacción que se estudia** | La publicada. **Es una orden de concesión: no tiene redacciones sucesivas** |
+| **Advertencia** | **Este es el punto menos preguntado de la cultura audiovisual: dos preguntas entre los dos llamamientos.** Y **ninguna de las dos descansa sólo en la plantilla** |
+| **Extensión** | **2.298 palabras** |
+
+<!-- /portada -->
+
 Las siglas y abreviaturas de este tema, presentadas de entrada: el Boletín Oficial del Estado
 (**BOE**), donde se publica la concesión de los premios nacionales de literatura; la orden ministerial
 (**Orden**), que es la forma en que esos premios se conceden, con los códigos de departamento que el

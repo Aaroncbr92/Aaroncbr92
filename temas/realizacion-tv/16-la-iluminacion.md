@@ -1,5 +1,19 @@
 # Tema 16 del específico de Realización Televisión · La iluminación
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Realización Televisión · punto 4.4 |
+| **Sirve para** | **Realización Televisión** |
+| **Fuente** | **Real Decreto 2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida**, cuyos cuadros sostienen el lux y la candela por metro cuadrado; y **la ficha técnica del tubo Titan de Astera LED Technology**. El resto —estilos, sombras y materiales— **va como oficio** |
+| **Identificador** | `BOE-A-2010-927` · BOE núm. 18, de 21/01/2010 · **Ficha del Astera Titan Tube** |
+| **Redacción que se estudia** | La vigente el **21/12/2022**, con la modificación del **RD 493/2020** ya incorporada |
+| **Advertencia** | **Es el tema mejor cimentado de esta ocupación: NINGUNA de sus nueve respuestas descansa sólo en la plantilla.** Dos están en el Boletín Oficial del Estado, una en la ficha de su fabricante y las seis restantes son conocimiento asentado y comprobable |
+| **Extensión** | **3.240 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: el diodo emisor de luz de las fuentes
 modernas (**led**, *light-emitting diode*, que la Real Academia ya recoge en minúscula y como
 sustantivo común); el índice de reproducción cromática (**IRC**, o **CRI** en la documentación en
