@@ -197,5 +197,42 @@ y queda anotado que el desglose no cuadra.
   documentos de una decena de páginas y lo que hace falta de ellos es el programa. Las
   bases completas de las siete ocupaciones que se preparan están en
   `../convocatoria/bases/`.
-- **El propio repositorio**, para el recuento de lo escrito: 120 ficheros de tema, 120
-  esquemas y ocho volúmenes compuestos.
+- **El propio repositorio**, para el recuento de lo escrito: **en la fecha de este informe**, 120
+  ficheros de tema, 120 esquemas y ocho volúmenes compuestos. **Al cerrarse las cuatro ocupaciones
+  que recomendaba**: 173 temas, 173 esquemas y doce volúmenes.
+
+---
+
+## Anotación posterior · las cuatro se escribieron el mismo día
+
+**Las cuatro ocupaciones que este informe recomendaba están terminadas**, y **conviene dejar escrito
+en qué acertó la estimación y en qué no**, porque es lo que permitirá afinar la próxima.
+
+| Ocupación | Temas escritos | Preguntas del específico | Reutilización estimada |
+|---|---:|---:|---|
+| **Información Gráfica y Captación de Imagen y Sonido** | 11 | 94 | **81 %** |
+| **Edición, Montaje y Procesos Audiovisuales** | 10 | 86 | **83 %** |
+| **Realización Televisión** | 22 | **229** | **71 %** |
+| **Montaje de Equipos Audiovisuales** | 10 | 75 | **71 %** |
+
+**Dónde acertó la estimación**: **la reutilización se sostuvo en las cuatro**, y **el bloque nuevo de
+Realización Televisión fue exactamente el que este informe anunció**: los siete subpuntos de cultura
+audiovisual, que se llevaron **cuarenta preguntas** entre los dos llamamientos.
+
+**Dónde se quedó corta, y es el dato que hay que llevarse**: **este informe midió las ocupaciones por
+subpuntos de anexo y por puestos convocados, y no por preguntas de examen.** **Realización Televisión
+aparecía aquí como la tercera de las cuatro**, con 30 puestos y 23 con examen. **Ha resultado ser la
+que más trabajo pedía con diferencia**: **229 preguntas del bloque específico —el banco más grande del
+proyecto, por delante de las 209 de Realización (Asistencia)—, veintidós temas y el volumen más largo,
+con 354 páginas.** **Sus dos llamamientos completos con sus dos plantillas la ponen a otra escala que
+las otras tres**, que se sostienen sobre un solo cuadernillo cada una.
+
+**La regla que queda**: **el tamaño de trabajo de una ocupación lo fija el número de cuadernillos
+disponibles, no el número de puestos convocados.** **Dos llamamientos con dos plantillas completas
+duplican el banco**, y **el banco es lo que hay que contestar tema a tema.**
+
+**Y un hallazgo de fuente que este informe no podía prever**: **las unidades fotométricas están en el
+Boletín Oficial del Estado**, porque son unidades legales de medida. **Tres preguntas de Realización
+Televisión que iban a declararse como oficio se contestan con el cuadro de un real decreto delante.**
+**La pregunta que hay que hacerse antes de dar por oficio una materia técnica es si sus magnitudes
+tienen unidad legal.**
