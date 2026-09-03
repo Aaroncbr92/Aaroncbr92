@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede |
 | **Aviso sobre las fuentes** | **Dos preguntas, las dos de la última línea del enunciado**: seguridad informática. Las cinco primeras líneas —hardware, software, almacenamiento, sistemas operativos y dispositivos— **no han caído ni una vez**, y ocupan la mayor parte del tema por la regla del apartado 7 del manual |
-| **Extensión** | **1.721 palabras** |
+| **Extensión** | **1.724 palabras** |
 
 <!-- /portada -->
 
@@ -55,7 +55,7 @@ no se había dado antes en el proyecto: **el programa fecha las versiones**. El 
 
 **Eso convierte la documentación del fabricante en la fuente exigible**, que es el **cuarto nivel** de
 la jerarquía de este proyecto, por debajo del BOE y de las normas de organismos de normalización.
-Está descargada en `fuentes/ofimatica/`, con dos advertencias que valen para los cinco temas y se
+Está descargada y guardada con el temario, con dos advertencias que valen para los cinco temas y se
 dicen una sola vez:
 
 1. **Son las páginas de hoy, no las de 2022.** Microsoft no publica versiones fechadas de su

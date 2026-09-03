@@ -172,6 +172,69 @@ AVISOS_PRL = {
         "dos</b> —la a), «para la salud», se queda corta—.",
 }
 
+AVISOS_GESTION_ADMINISTRATIVA = {
+    "23_preguntas_gea · nº 21":
+        "<b>La plantilla da 33 días de indemnización por despido objetivo, con tope de 12 "
+        "mensualidades.</b> El <b>artículo 53.1.b) del Estatuto de los Trabajadores</b> dice "
+        "<b>veinte días por año de servicio, con un máximo de doce mensualidades</b>. Los treinta "
+        "y tres días son del <b>despido improcedente</b> (art. 56.1), y allí el tope no es doce "
+        "sino <b>veinticuatro</b>. La opción escogida <b>mezcla la cuantía de un despido con el "
+        "tope del otro</b>, y ninguna de las otras tres salva la pregunta: la c) acierta los "
+        "veinte días y los estropea diciendo que no hay límite.",
+    "23_preguntas_gea · nº 42":
+        "<b>La plantilla da 48 horas para comunicar altas y bajas.</b> El <b>artículo 32.3 del RD "
+        "84/1996</b> no contempla ese plazo, y además <b>no hay un plazo, hay dos</b>: el "
+        "<b>alta</b> se solicita <b>antes</b> del comienzo de la prestación —sin poder "
+        "anticiparse más de <b>sesenta días naturales</b>—, y la <b>baja</b>, dentro de los "
+        "<b>tres días naturales</b> siguientes al cese. La única opción que roza algo real es la "
+        "de setenta y dos horas, y sólo para las bajas.",
+    "23_preguntas_gea · nº 17":
+        "<b>La plantilla dice que las cuentas anuales son tres documentos.</b> La <b>norma de "
+        "elaboración 1.ª</b> del Plan General de Contabilidad dice que son <b>cinco</b> —balance, "
+        "cuenta de pérdidas y ganancias, estado de cambios en el patrimonio neto, estado de flujos "
+        "de efectivo y memoria— y que dos de ellos sólo decaen en el modelo abreviado. <b>Y la "
+        "prueba está en este mismo examen</b>: la pregunta <b>93</b> da por buena esa enumeración "
+        "de cinco, y la <b>68</b> da por no obligatorios el estado de cambios y el de flujos, lo "
+        "que sólo tiene sentido si la regla son cinco.",
+    "23_preguntas_gea · nº 37":
+        "<b>La plantilla da 2.400 €, que es el capital de partida.</b> Con interés simple, "
+        "C = 2.400 · (1 + 0,10 · 10) = 2.400 · 2 = <b>4.800 €</b>, que es la opción d). <b>Lo que "
+        "hace creíble el error conviene saberlo</b>: al 10 % durante diez años los intereses "
+        "simples valen exactamente lo mismo que el capital, así que quien calcula los intereses y "
+        "se detiene ahí encuentra su resultado entre las opciones.",
+    "23_preguntas_gea · nº 90":
+        "<b>La opción buena enseña la regla al revés.</b> Da por bueno que los actos "
+        "administrativos «pueden ser orales, salvo que una norma exija forma escrita», y el "
+        "<b>artículo 36.1 de la Ley 39/2015</b> dice lo contrario: <b>se producirán por escrito a "
+        "través de medios electrónicos</b>, salvo que su naturaleza exija otra forma. <b>Aun así "
+        "es la única marcable</b>, porque la alternativa dice «siempre por escrito» y ese "
+        "«siempre» también es falso.",
+    "23_preguntas_gea · nº 13":
+        "<b>La respuesta es correcta y su norma no está en el temario.</b> El porcentaje de "
+        "retención lo fijan la Ley 35/2006 y el RD 439/2007, que el Anexo 2 no cita. Lo que sí "
+        "queda cerrado con norma es la falsedad de las otras tres: el <b>artículo 26.4 del "
+        "Estatuto</b> declara <b>nulo</b> todo pacto que traslade la carga fiscal, así que no "
+        "puede depender del convenio; y la base del cálculo es la retribución total, no el salario "
+        "base.",
+    "23_preguntas_gea · nº 26":
+        "<b>Los quince días de preaviso al dimitir no están en ninguna norma.</b> El artículo "
+        "49.1.d) del Estatuto remite «al preaviso que señalen los convenios colectivos o la "
+        "costumbre del lugar», y el <b>III Convenio Colectivo de RTVE tampoco lo fija</b>: "
+        "comprobados los dos. Son <b>costumbre</b>, y coinciden con el plazo que el artículo "
+        "53.1.c) impone <b>al empresario</b> en el despido objetivo.",
+    "23_preguntas_gea · nº 76":
+        "<b>Correcta con un matiz.</b> Acierta en que los miembros de un canal privado no añaden a "
+        "otros ni cambian permisos. Se queda corta en quién sí: la documentación de Microsoft dice "
+        "que es <b>el propietario del canal privado</b> —quien lo creó—, y que <b>por defecto "
+        "también un miembro del equipo puede crear canales privados</b>, no sólo un propietario "
+        "del equipo.",
+    "23_preguntas_gea · nº 94":
+        "<b>Tres de las cuatro opciones nombran contratos derogados.</b> El <b>RDL 32/2021</b>, en "
+        "vigor desde el 30 de marzo de 2022, suprimió el contrato de <b>obra o servicio</b>, el de "
+        "<b>prácticas</b> y el de <b>formación y aprendizaje</b>. La plantilla escoge el que "
+        "cumplía esa función <b>hasta esa fecha</b>, nueve meses antes del examen.",
+}
+
 BLOQUES = {
     "general": dict(
         carpeta="general",
@@ -230,6 +293,40 @@ BLOQUES = {
                       "nombra un riesgo que la norma no nombra. Van marcados uno a uno en el "
                       "apéndice. El temario contesta lo que corrige el tribunal <b>y dice dónde "
                       "está la costura</b>.</p>",
+    ),
+    "gestion-administrativa": dict(
+        carpeta="gestion-administrativa",
+        rotulo="Temario específico · Gestión Administrativa",
+        titulo="Temario específico",
+        subtitulo="Los trece temas de <b>Gestión Administrativa</b>",
+        pie="Oposiciones RTVE – Gestión Administrativa",
+        avisos=dict(AVISOS_GESTION_ADMINISTRATIVA, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), "gestion-administrativa-%02d" % n) for n, base in [
+            (1, "gestion-administrativa"), (2, "contrato-de-trabajo"),
+            (3, "seguridad-social"), (4, "nominas"), (5, "contabilidad"),
+            (6, "matematica-financiera"), (7, "probabilidad-y-estadistica"),
+            (8, "ofimatica"), (9, "windows-10"), (10, "la-red-internet"),
+            (11, "office-2019"), (12, "microsoft-teams"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Cuatro respuestas oficiales de este bloque están mal</b> —la "
+                         "indemnización del despido objetivo, el plazo de las altas y bajas, los "
+                         "documentos de las cuentas anuales y una capitalización simple—, y van "
+                         "marcadas una a una con lo que las desmiente. <b>El temario enseña la "
+                         "norma y la cuenta, no la plantilla.</b>",
+        aviso_portada="<p><b>Es la ocupación con más respuestas oficiales equivocadas del "
+                      "proyecto: cuatro.</b> Una la desmiente un artículo del Estatuto de los "
+                      "Trabajadores; otra, un reglamento de la Seguridad Social; otra, <b>el "
+                      "propio examen</b>, que contesta la misma regla de dos maneras distintas; y "
+                      "la cuarta, <b>una multiplicación</b>. Van marcadas una a una en el "
+                      "apéndice.</p>"
+                      "<p><b>Y es la primera con temas que no se verifican, se demuestran</b>: la "
+                      "matemática financiera y la estadística no están en el BOE, así que sus "
+                      "cuentas van rehechas en el propio tema, con el procedimiento a la vista. "
+                      "<b>Los cinco temas de informática se apoyan en la documentación del "
+                      "fabricante</b>, que es el cuarto nivel de la jerarquía de fuentes, y dicen "
+                      "qué es lo que con ella no se puede asegurar.</p>",
     ),
     "documentacion": dict(
         carpeta="documentacion",

@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2015-11430` · BOE núm. 255, de 24/10/2015 |
 | **Redacción que se estudia** | La **vigente al 21/12/2022**, que ya incorpora la reforma laboral del **RDL 32/2021**: al corte estaban **derogados** el contrato de obra o servicio, el de prácticas y el de formación y aprendizaje |
 | **Aviso sobre las fuentes** | **Las ocho preguntas tienen artículo**, pero **una respuesta oficial contradice el suyo**: la plantilla da 33 días de indemnización por despido objetivo y el artículo 53.1.b) dice **veinte**, con máximo de doce mensualidades. Los 33 días son del despido **improcedente**, donde el tope son **veinticuatro**. Y **una pregunta se apoya en la costumbre y no en la norma**: los quince días de preaviso al dimitir no están en el Estatuto ni en el III Convenio |
-| **Extensión** | **3.360 palabras** |
+| **Extensión** | **3.402 palabras** |
 
 <!-- /portada -->
 

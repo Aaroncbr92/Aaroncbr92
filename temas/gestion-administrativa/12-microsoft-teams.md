@@ -7,10 +7,10 @@
 | **Bloque** | Temario específico · Gestión Administrativa · punto 12 |
 | **Sirve para** | **Gestión Administrativa** |
 | **Fuente** | Documentación de Microsoft sobre canales de Teams |
-| **Identificador** | `learn.microsoft.com/microsoftteams/private-channels`, en `fuentes/ofimatica/` |
+| **Identificador** | `learn.microsoft.com/es-es/microsoftteams/private-channels` |
 | **Redacción que se estudia** | Página viva, descargada el 02/09/2026 |
 | **Aviso sobre las fuentes** | **La versión que el programa cita, la 1.6.00.376, no tiene documentación propia**: Microsoft documenta Teams como servicio, no compilación a compilación. El tema **no promete describir esa versión**; describe lo documentado y avisa de qué es configurable por cada organización. **Una sola pregunta**, la de los permisos del canal privado, cuya respuesta es correcta con un matiz: quien añade gente es el propietario **del canal**, no necesariamente el del equipo |
-| **Extensión** | **1.261 palabras** |
+| **Extensión** | **1.259 palabras** |
 
 <!-- /portada -->
 
@@ -174,9 +174,9 @@ marcable.
 
 ## 7. Trazabilidad
 
-- **Canales privados en Microsoft Teams**, documentación de Microsoft, descargada el 2 de septiembre
-  de 2026 y guardada en `fuentes/ofimatica/MS_teams-canales-privados.txt`. De ahí salen las tres
-  citas literales del epígrafe 2.
+- **Canales privados en Microsoft Teams**, documentación de Microsoft, en
+  `learn.microsoft.com/es-es/microsoftteams/private-channels`, descargada el 2 de septiembre de 2026.
+  De ahí salen las tres citas literales del epígrafe 2.
 - **Cuadernillo `23_preguntas_gea`**, pregunta 76, con su plantilla oficial.
 
 **Lo que no se ha podido conseguir y va dicho**: la documentación de la versión 1.6.00.376 que el programa

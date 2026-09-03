@@ -7,10 +7,10 @@
 | **Bloque** | Temario específico · Gestión Administrativa · punto 9 |
 | **Sirve para** | **Gestión Administrativa** |
 | **Fuente** | Documentación de soporte de Microsoft para **Windows 10 Pro, versión 22H2** |
-| **Identificador** | `support.microsoft.com` y `learn.microsoft.com`, en `fuentes/ofimatica/` |
+| **Identificador** | `support.microsoft.com/es-es/windows/…dcc61a57` y `learn.microsoft.com/es-es/lifecycle/products/windows-10-home-and-pro` |
 | **Redacción que se estudia** | **Las páginas de hoy, no las de 2022**: Microsoft publica la página viva y no una versión fechada. El tema afirma lo que **no ha cambiado** entre aquella versión y ésta |
 | **Aviso sobre las fuentes** | **Primer tema del proyecto cuyo objeto de estudio ha quedado obsoleto por la fecha de corte, no su redacción**: Microsoft publica que **Windows 10 llegó al fin de soporte el 14 de octubre de 2025** y que la **22H2 es su versión final**, y la convocatoria congela el temario en el 21/12/2022. **Una sola pregunta**, la del atajo de pegar; el resto del enunciado no ha caído nunca |
-| **Extensión** | **1.471 palabras** |
+| **Extensión** | **1.469 palabras** |
 
 <!-- /portada -->
 
@@ -190,11 +190,11 @@ manda y porque una sola pregunta no dice nada sobre la siguiente convocatoria.
 
 ## 7. Trazabilidad
 
-- **Métodos abreviados de teclado de Windows**, documentación de soporte de Microsoft, descargada el
-  2 de septiembre de 2026 y guardada en `fuentes/ofimatica/MS_windows-atajos.txt`. De ahí sale la
-  tabla del epígrafe 2, y en ella está **Ctrl + V** como combinación de pegar.
-- **Ciclo de vida de Windows 10 Home y Pro**, documentación de Microsoft, misma fecha, en
-  `fuentes/ofimatica/MS_windows10-22h2.txt`. De ahí salen el **fin de soporte del 14 de octubre de
+- **Métodos abreviados de teclado de Windows**, documentación de soporte de Microsoft, en
+  `support.microsoft.com/es-es/windows/…dcc61a57`, descargada el 2 de septiembre de 2026. De ahí sale
+  la tabla del epígrafe 2, y en ella está **Ctrl + V** como combinación de pegar.
+- **Ciclo de vida de Windows 10 Home y Pro**, documentación de Microsoft, en
+  `learn.microsoft.com/es-es/lifecycle/products/windows-10-home-and-pro`, misma fecha. De ahí salen el **fin de soporte del 14 de octubre de
   2025** y que la **22H2 es la versión final**.
 
 **Lo que no se ha podido verificar y va dicho**: la documentación descargada es **la página viva de

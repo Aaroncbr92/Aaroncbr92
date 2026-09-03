@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2015-10565` · BOE núm. 236, de 02/10/2015 — `BOE-A-1985-12534` · BOE núm. 155, de 29/06/1985 |
 | **Redacción que se estudia** | Las dos, en su redacción **vigente al 21/12/2022** |
 | **Aviso sobre las fuentes** | **Es el único punto de esta ocupación que habla de conceptos definidos en una ley y no la cita.** El programa dice «acto administrativo», «registro» y «archivo» sin nombrar la Ley 39/2015, que es la que los define; y «concepto de documento» sin nombrar la Ley 16/1985, que es donde el ordenamiento lo define. **Cinco de sus siete preguntas se contestan con artículo**; las otras dos, con doctrina archivística que ninguna norma escribe, y el tema lo dice |
-| **Extensión** | **4.282 palabras** |
+| **Extensión** | **4.289 palabras** |
 
 <!-- /portada -->
 

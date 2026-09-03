@@ -136,6 +136,34 @@ enlace, mientras que los otros dos preguntan por cinco de los siete. Es el exame
 de otro Anexo 2. El motivo está en el acta, en una fila con `*` en el número, y el
 script lo imprime cada vez que se regenera el banco.
 
+### Gestión Administrativa
+
+**75 preguntas** del cuadernillo de **26 de enero de 2025** —la prueba más tardía de todo el
+proyecto—, repartidas entre los **doce primeros temas** de su Anexo 2. El decimotercero es el de
+prevención, que ya comparten las otras tres ocupaciones.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `gestion-administrativa-01.md` | 1 · Documento, acto administrativo, registro y archivo | 7 |
+| `gestion-administrativa-02.md` | 2 · El contrato de trabajo | 8 |
+| `gestion-administrativa-03.md` | 3 · Seguridad Social | 9 |
+| `gestion-administrativa-04.md` | 4 · Nóminas | 8 |
+| `gestion-administrativa-05.md` | 5 · Contabilidad y Plan General de Contabilidad | **15** |
+| `gestion-administrativa-06.md` | 6 · Matemática financiera | 10 |
+| `gestion-administrativa-07.md` | 7 · Probabilidad y estadística | 11 |
+| `gestion-administrativa-08.md` | 8 · Ofimática y proceso de la información | 2 |
+| `gestion-administrativa-09.md` | 9 · Windows 10 Pro 22H2 | 1 |
+| `gestion-administrativa-10.md` | 10 · La red Internet | 1 |
+| `gestion-administrativa-11.md` | 11 · Office 2019 | 2 |
+| `gestion-administrativa-12.md` | 12 · Microsoft Teams | 1 |
+
+**Su plantilla estaba sin leer.** El PDF lleva la fuente incrustada sin tabla de caracteres, como las
+tres que ya arregló `herramientas/plantilla_ocr.py`; pasada esa herramienta salen las **96
+respuestas**. Es la cuarta plantilla que recupera y la primera de una ocupación nueva.
+
+**Y es la ocupación con más respuestas oficiales equivocadas del proyecto: cuatro.** Van contadas en
+los informes de refutación de sus temas 2, 3, 5 y 6.
+
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al
 lado. No se clasifica por palabras clave, y no por comodidad: las preguntas del
