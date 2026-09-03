@@ -12,7 +12,7 @@ no se pudo emparejar.
 16. ¿Qué es el número T?
 a) La cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas por la reflexión interna.
 b) La cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas por la absorción interna.
-c) La  cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas debido a la absorción y reflexión
+c) La cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas debido a la absorción y reflexión
 internas.
 d) La cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas debidas a la absorción, dispersión y
 la reflexión internas.
@@ -23,14 +23,14 @@ la reflexión internas.
 **60_preguntas_realizacion_asist · nº 30 · respuesta: b**
 
 ```
-30. Si  tenemos como decorado de un plató pantallas led de gran tamaño detrás del presentador. ¿Como
-podemos  evitar el efecto Moiré?
+30. Si tenemos como decorado de un plató pantallas led de gran tamaño detrás del presentador. ¿Como
+podemos evitar el efecto Moiré?
 a) Aumentamos la profundidad de campo utilizando ópticas tele o filtros neutros y acercamos al presentador a las
 pantallas para enfocarlas.
-b) Reducimos  la profundidad de campo utilizando ópticas tele o filtros neutros y alejamos al presentador de las
-pantallas  para desenfocarlas.
-c) Reducimos  la profundidad de campo utilizando ópticas tele o filtros neutros y acercamos al presentador a las
-pantallas  para enfocarlas.
+b) Reducimos la profundidad de campo utilizando ópticas tele o filtros neutros y alejamos al presentador de las
+pantallas para desenfocarlas.
+c) Reducimos la profundidad de campo utilizando ópticas tele o filtros neutros y acercamos al presentador a las
+pantallas para enfocarlas.
 d) Trabajamos con la Hiperfocal para desenfocar las pantallas.
 ```
 
@@ -54,8 +54,7 @@ d) Disminuye el nºf.
 58. ¿Qué característica define la captura RAW?
 a) Adquiere la información de luminancia mediante un prisma dicroico frente al sensor.
 b) Es una captación lineal de la luz por el sensor de la cámara.
-c)
-Implica un alto grado de procesamiento computacional posterior a la captura.
+c) Implica un alto grado de procesamiento computacional posterior a la captura.
 d) Es igual a la captación con curva logarítmica.
 ```
 
@@ -65,7 +64,7 @@ d) Es igual a la captación con curva logarítmica.
 
 ```
 76. ¿Qué es el factor de ampliación?
-a) La  tecnología desarrollada para que las baterías de las cámaras nos permitan al menos un 20% más de
+a) La tecnología desarrollada para que las baterías de las cámaras nos permitan al menos un 20% más de
 autonomía.
 b) La razón entre el tamaño de un objeto en la imagen del plano focal y el tamaño de ese objeto en realidad.
 c) La posibilidad que da una resolución para no perder calidad en la ampliación de una imagen.
@@ -119,42 +118,7 @@ a) 8 veces menos.
 b) 16 veces menos.
 c) 256 veces menos.
 d) 512 veces menos.
-eo, presentá
-esentá
-mezcla de señales de
-zcla de señales d
-ñales de video, present
-de video, prese
-ción de señales de vide
-eñales de vid
-uxtapose”¿A qué nos e
-apose”¿A qué no
-tes y después.
-pués.
-e vídeo entre sí y despu
-entre sí y des
-de intervenir de tal form
-ervenir de tal form
-información multimedia
-mación multime
-l mezclador en un mo
-clador en un mo
-s fatigas físicas, visu
-e datos se debe:
-datos se debe:
-s que no estén en pan
-estén en pan
 s.s.
-nar el trabajo ante la pa
-el trabajo ante la pa
-Realizar alguna pausa d
-ealizar algu
-Trabajar a un ritmo a
-rabajar a 
-samos de u
-os de u
-s men
-men
 ```
 
 ---

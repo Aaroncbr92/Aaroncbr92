@@ -27,10 +27,10 @@ parámetro, ¿tendrá alguna consecuencia sobre el resultado final?
 a) Ninguna, independientemente del tipo de key de luminancia.
 b) Siempre se notará en el background al activar o desactivar el key por corte, independientemente del tipo de key
 de luminancia que hayamos hecho.
-c) Solo  tendrá consecuencias si hacemos un key de luminancia lineal, y se notará en el background al activar o
-desactivar  el key por corte.
-d) Solo  tendrá consecuencias si hacemos un key de luminancia Aditivo, y se notará en el background al activar o
-desactivar  el key por corte.
+c) Solo tendrá consecuencias si hacemos un key de luminancia lineal, y se notará en el background al activar o
+desactivar el key por corte.
+d) Solo tendrá consecuencias si hacemos un key de luminancia Aditivo, y se notará en el background al activar o
+desactivar el key por corte.
 ```
 
 ---
@@ -38,7 +38,7 @@ desactivar  el key por corte.
 **60_preguntas_realizacion_asist · nº 36 · respuesta: a**
 
 ```
-36. En  un Software de Postproducción o con un canal DVE del mezclador, ¿a qué llamamos CORNER
+36. En un Software de Postproducción o con un canal DVE del mezclador, ¿a qué llamamos CORNER
 PINNING?
 a) A un efecto que permite cambiar la perspectiva manejando la posición de las esquinas de la imagen.
 b) A un efecto que consigue redondear las esquinas de la imagen.
@@ -88,8 +88,8 @@ d) El mapeado de fuentes a botones.
 **60_preguntas_realizacion_asist · nº 59 · respuesta: a**
 
 ```
-59. ¿Qué  utilizamos para enviar y aplicar una corrección de color específica a una señal de video en las
-pantallas  de un plató?
+59. ¿Qué utilizamos para enviar y aplicar una corrección de color específica a una señal de video en las
+pantallas de un plató?
 a) Un bus auxiliar.
 b) Un banco de mezcla de efectos.
 c) Un DVE.
@@ -222,16 +222,6 @@ luminancia.
 c) Es indiferente la luminancia de los pixeles.
 d) Los pixeles blancos serán opacos, los negros transparentes, y el resto en correspondencia con el inverso de su
 luminancia.
-9, 4, 8, 2, 6, 5, 7.
-4, 8, 2, 6
- 3 ,4, 9, 5, 6, 7, 8, 2.
-3 ,4, 9, 5, 6,
-2, 1, 4, 9, 3, 6, 7, 5, 8
-, 1, 4, 9, 3
-1, 4, 9, 8, 2, 5, 
-1, 4, 9, 8, 2, 5
-os una 
-una
 Co
 C
 ```
@@ -325,28 +315,6 @@ a) Utilizar la rotación en los ejes X e Y.
 b) Cambiar los valores de Aspecto.
 c) Modificar la traslación en el eje Z.
 d) Variar el tamaño.
-e mejor una imagen de
-r una imagen d
-ntramos si nos referim
-tramos si nos referim
-na o dos paredes de co
-dos paredes de co
-sofá, una mesa de cent
-de se mezclan element
-se mezclan elemen
-con todas las paredes d
-as paredes d
-area esencial realiza la
-ea esencial realiza la
-oordina y supervisa la e
-oordina y sup
-Decora el plató con ob
-Decora el 
-Se encarga del dis
-e encarga del d
-la narrativa
-arrativa
-oca e
 ca
 ```
 
@@ -386,32 +354,7 @@ a) Nam.
 b) DSK.
 c) Wipe.
 d) Super mix.
-adra
-cuadrados, con 
-ados, con 
-echo superior a 5 metr
-superior a 5 met
-nos de la imagen apar
-e la imagen apar
-dos franjas negras ho
-anjas negras h
-e aspecto de la imagen
-to de la imag
-n de color se basa en 
-olor se basa
 l.
-Plot” en un guion?
-n un guion?
-o conflicto de la historia
-o conflicto de la histori
-arte de la historial que se
-de la historial que s
- punto de vista de un pe
-punto de vis
-El intercambio de disc
-l intercam
-de el módulo 
-módulo
 ```
 
 ---
@@ -436,17 +379,6 @@ a) Fuentes de video con sus atributos asociados.
 b) Memorias de salida que identifican cada fuente.
 c) La señal de vídeo procesada.
 d) El mapeado de fuentes a botones.
-un encadenado de back
-mos cómo, mediante una
-s cómo, mediante una
-remos una cortinilla que
-remos una c
-Veremos una cortinilla
-Veremos u
-érmino “source
-érmino “sourc
-tes de vid
-de vi
 s
 ```
 
@@ -523,13 +455,6 @@ b) A una ráfaga.
 c) A una realidad aumentada.
 d) No se sabe, los datos son insuficientes.
 y?
-en un mezclador de v
-ezclador de v
-el key.
 a.
-señal de key.
- de key
-sta secuencia en el So
-a secuencia en el S
 ```
 

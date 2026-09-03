@@ -9,12 +9,11 @@ no se pudo emparejar.
 **60_preguntas_realizacion_asist · nº 22 · respuesta: a**
 
 ```
-22. Durante  un programa en directo, el presentador se queda sin palabras en medio de una entrevista y el
+22. Durante un programa en directo, el presentador se queda sin palabras en medio de una entrevista y el
 silencio se prolonga por varios segundos. ¿Cuál es la acción más apropiada que debe tomar el regidor en
 esta situación?
 a) Comunicarse con el control de realización para que preparen un video o una animación de relleno.
-b)
-Intervenir inmediatamente para ayudar al presentador a salir del paso, sugiriendo una pregunta o un comentario.
+b) Intervenir inmediatamente para ayudar al presentador a salir del paso, sugiriendo una pregunta o un comentario.
 c) Mantenerse en silencio y esperar a que el presentador recupere el hilo de la conversación.
 d) Señalar a realización que corte la emisión y pase a un corte comercial.
 ```
@@ -24,8 +23,8 @@ d) Señalar a realización que corte la emisión y pase a un corte comercial.
 **60_preguntas_realizacion_asist · nº 103 · respuesta: b**
 
 ```
-103. ¿Qué  software sincroniza y coordina cámaras, efectos de video, iluminación, audio y gráficos de manera
-precisa  a partir de un guion?
+103. ¿Qué software sincroniza y coordina cámaras, efectos de video, iluminación, audio y gráficos de manera
+precisa a partir de un guion?
 a) WATCHOUT.
 b) CuePilot.
 c) EVS.

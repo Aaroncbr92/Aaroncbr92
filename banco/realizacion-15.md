@@ -24,7 +24,7 @@ d) Editar un bloque publicitario.
 31. En una retransmisión deportiva se nos pide que mandemos, durante todo el evento, la señal del programa a
 las pantallas del pabellón. Se nos exige que no se vean ni las repeticiones ni los vídeos en esas pantallas.
 ¿Cuál de estas opciones es válida?
-a) Enviamos  a las pantallas otra salida de PGM, en la que además de los Keys que intervienen en el PGM,
+a) Enviamos a las pantallas otra salida de PGM, en la que además de los Keys que intervienen en el PGM,
 activamos un “Fade to Black” para cerrar la señal a través de un macro. Ese macro lo ponemos en las teclas de
 previo donde están los vídeos, y así al seleccionarlos en previo, cerramos la señal de las pantallas.
 b) Enviamos a las pantallas otro ME diferente a PP, el cual enlazamos a PP con un “link” y utilizamos una tabla de
@@ -39,16 +39,16 @@ d) No hacemos nada porque lo divertido es discutir con los árbitros en el pabel
 **60_preguntas_realizacion_asist · nº 33 · respuesta: c**
 
 ```
-33. Estamos  trabajando en un plató en el que el decorado está formado por pantallas led. Las pantallas son
+33. Estamos trabajando en un plató en el que el decorado está formado por pantallas led. Las pantallas son
 gestionadas por un software que produce un retardo de 4 frames. Si hacemos conexiones en directo con
 exteriores, a través de ventanas abiertas en esas pantallas, no se verá sincronizado el audio con el vídeo.
 ¿Qué podemos hacer para que vayan sincronizados audio y vídeo?
 a) Retrasamos la entrada de los exteriores al mezclador 4 frames y lo mandamos a las pantallas por un auxiliar.
 b) Adelantamos la entrada de los exteriores al mezclador 4 frames y lo mandamos a las pantallas por un auxiliar.
-c) Retrasamos  la entrada de los exteriores al mezclador 4 frames, lo mandamos a las pantallas por matriz y
-retrasamos  el sonido de los exteriores 4 frames.
-d) Retrasamos  la entrada de los exteriores al mezclador 4 frames, mandamos la señal del exterior al software de
-pantallas  por un auxiliar y retrasamos el sonido de los exteriores 4 frames.
+c) Retrasamos la entrada de los exteriores al mezclador 4 frames, lo mandamos a las pantallas por matriz y
+retrasamos el sonido de los exteriores 4 frames.
+d) Retrasamos la entrada de los exteriores al mezclador 4 frames, mandamos la señal del exterior al software de
+pantallas por un auxiliar y retrasamos el sonido de los exteriores 4 frames.
 ```
 
 ---

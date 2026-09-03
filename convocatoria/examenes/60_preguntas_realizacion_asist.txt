@@ -3,62 +3,58 @@ Ocupación tipo
 
 INSTRUCCIONES 
 
+•
 Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
 
+•
 La prueba está compuesta por 120 preguntas, (100 preguntas principales más 20 preguntas
 de reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de
 las preguntas principales fuera anulada), debiendo contemplar todas.
 
-Cada  pregunta  tiene  4  posibles  respuestas  alternativas  y  solo  UNA  respuesta  es  correcta;
+•
+Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta;
 debe solo elegir UNA de las cuatro opciones.
 
+•
 El sistema de valoración será el siguiente:
 
-o Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+o
+Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
 
-o Cada  pregunta  no  contestada,  contestada  de  forma  distinta  a  la  indicada  en  las
-
+o
+Cada pregunta no contestada, contestada de forma distinta a la indicada en las
 instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
 
-o Cada pregunta con contestación errónea penaliza 1/3 punto.
+o
+Cada pregunta con contestación errónea penaliza 1/3 punto.
 
+•
 Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
 
-Recuerde  anotar  las  respuestas  en  su  HOJA  DE  RESPUESTAS  y  en  la  columna
-correspondiente.  Cualquier  respuesta  marcada  fuera  de  la  HOJA  DE  RESPUESTAS,  por
-ejemplo,  en  el  cuadernillo  de  la  prueba,  o  no  cumplimentada  de  acuerdo  con  estas
+•
+Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna
+correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
+ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
 instrucciones, no se tendrá en cuenta. En la “Hoja de respuestas” no deberá anotar ninguna
 marca o señal distinta de las necesarias para contestar el ejercicio.
 
-Utilice  bolígrafo  (azul  o  negro)  y  responda  de  acuerdo  a  las  instrucciones  específicas
+•
+Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
 anteriormente facilitadas.
 
+•
 Le recordamos, que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
 abandonar la prueba.
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-•
-
-TIEMPO MÁXIMO: 180 MINUTOS 
 
 Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E. 
 
 No se permite la reproducción total o parcial de este cuestionario 
 
-Fecha de publicación: 28/10/20241. ¿Cuál de estos NO es un formato de video?
+TIEMPO MÁXIMO: 180 MINUTOS 
+
+Fecha de publicación: 28/10/2024
+
+1. ¿Cuál de estos NO es un formato de video?
 
 a) DVI.
 
@@ -78,9 +74,9 @@ c) Los efectos de video.
 
 d) La postproducción sonora.
 
-3. El  guion redactado por el realizador y que contiene modificaciones precisas acerca de los encuadres,
-posiciones  de las cámaras y modificaciones acerca de cualquier aspecto sobre decoración, sonido,
-iluminación,  etc. Se llama:
+3. El guion redactado por el realizador y que contiene modificaciones precisas acerca de los encuadres,
+posiciones de las cámaras y modificaciones acerca de cualquier aspecto sobre decoración, sonido,
+iluminación, etc. Se llama:
 
 a) Guion de trabajo.
 
@@ -142,8 +138,9 @@ d) Editar un bloque publicitario.
 
 Página 1 de 20
 
-Fecha de publicación: 28/10/20249. ¿Cuántos ejes de miradas existen en una conversación entre cuatro personas situadas en los vértices de
+Fecha de publicación: 28/10/2024
 
+9. ¿Cuántos ejes de miradas existen en una conversación entre cuatro personas situadas en los vértices de
 un cuadrado?
 
 a) 4.
@@ -154,12 +151,10 @@ c) 8.
 
 d) 12.
 
-10. Trabajando  en un minutado de iNews para informativos, ¿qué indica cuando de repente el título de una
+10. Trabajando en un minutado de iNews para informativos, ¿qué indica cuando de repente el título de una
+noticia deja de ser negro y pasa a color azul?
 
-noticia  deja de ser negro y pasa a color azul?
-
-a) Que  esa línea del minutado tiene asociado un identificador de video, que permite vincularlo a una lista de
-
+a) Que esa línea del minutado tiene asociado un identificador de video, que permite vincularlo a una lista de
 reproducción.
 
 b) Que la noticia se encuentra en play y está asociada a una lista de reproducción.
@@ -169,7 +164,6 @@ c) Que la noticia ha sido flotada, por lo que a efectos de la emisión no cuenta
 d) Que la noticia de esa línea del minutado no permite que sea modificada hasta que se reproduzca por completo.
 
 11. El guion es la forma escrita de cualquier narración audiovisual y se atiene a tres premisas esenciales. ¿Cuál
-
 de las siguientes NO es una de ellas?
 
 a) El contenido.
@@ -181,8 +175,8 @@ c) La forma.
 d) El significado.
 
 12. Centrándonos en las distintas áreas de actuación de un sujeto en el escenario, siempre logrará un mayor
-
 peso visual si se sitúa:
+
 a) En el centro de la pantalla.
 
 b) A la derecha de la pantalla.
@@ -192,21 +186,18 @@ c) A la izquierda de la pantalla.
 d) No afecta su posición.
 
 13. En 3D, ¿qué es la autoestereoscopia?
-a) Es la generación de la imagen 3D mediante el empleo superpuesto de dos capas que se van desplazando entre
 
+a) Es la generación de la imagen 3D mediante el empleo superpuesto de dos capas que se van desplazando entre
 sí a modo de capas sintetizadas.
 
 b) Consiste en conformar la imagen 3D mediante la obtención de una imagen completa para ser mostrada a cada
-
 ojo un frame. Mediante unas gafas LCD de obturación se puede ver una única imagen con profundidad.
 
 c) Es una tecnología en la que la imagen se divide en dos partes, líneas pares y líneas impares, cada una de ellas
-
 destinada a ser percibida por un ojo.
 
-d) Es  la generación de la imagen 3D en la pantalla receptora mediante una serie de filtros que permiten el
-
-entrelazado  vertical espacial de las imágenes dirigidas a cada ojo.
+d) Es la generación de la imagen 3D en la pantalla receptora mediante una serie de filtros que permiten el
+entrelazado vertical espacial de las imágenes dirigidas a cada ojo.
 
 14. ¿A qué dispositivo fundamental en la emisión se asocia el Ultimatte?
 
@@ -230,22 +221,22 @@ d) Trabajo emocional.
 
 Página 2 de 20
 
-Fecha de publicación: 28/10/202416. ¿Qué es el número T?
+Fecha de publicación: 28/10/2024
+
+16. ¿Qué es el número T?
 
 a) La cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas por la reflexión interna.
 
 b) La cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas por la absorción interna.
-c) La  cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas debido a la absorción y reflexión
 
+c) La cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas debido a la absorción y reflexión
 internas.
 
 d) La cantidad real de luz que atraviesa un objetivo tras descontar las pérdidas debidas a la absorción, dispersión y
-
 la reflexión internas.
 
-17. Teniendo  en cuenta la capacidad auditiva media del oído humano, un ultrasonido tiene una frecuencia
-
-superior  a:
+17. Teniendo en cuenta la capacidad auditiva media del oído humano, un ultrasonido tiene una frecuencia
+superior a:
 
 a) 2.000Hz.
 
@@ -256,16 +247,14 @@ c) 12.000Hz.
 d) 500Hz.
 
 18. ¿Cómo se transmite la señal TDT?
-a) Se  transmite por ondas hertzianas terrestres a través de la atmósfera sin necesidad de cable o satélite y es
 
-recibida  por antenas convencionales de UHF.
+a) Se transmite por ondas hertzianas terrestres a través de la atmósfera sin necesidad de cable o satélite y es
+recibida por antenas convencionales de UHF.
 
-b) Se  transmite por ondas hertzianas terrestres a través de la atmósfera y recibidas por cable o satélite en cada
-
+b) Se transmite por ondas hertzianas terrestres a través de la atmósfera y recibidas por cable o satélite en cada
 edificio.
 
 c) Se transmite por ondas de radio terrestres a través de la atmósfera y es recibido por antenas convencionales de
-
 UHF.
 
 d) Solo se puede transmitir por cable.
@@ -280,8 +269,8 @@ c) El guion literario.
 
 d) El guion de montaje.
 
-20. ¿Cuál  de las siguientes herramientas es fundamental para garantizar la calidad de una transmisión en
-directo,  permitiendo la detección temprana de errores y la corrección de parámetros como el nivel de
+20. ¿Cuál de las siguientes herramientas es fundamental para garantizar la calidad de una transmisión en
+directo, permitiendo la detección temprana de errores y la corrección de parámetros como el nivel de
 video?
 
 a) Un sistema de gestión de contenidos.
@@ -292,8 +281,7 @@ c) Un editor de video no lineal.
 
 d) Un monitor de forma de onda.
 
-21. ¿Cuál  de los siguientes dispositivos permite ajustar la temperatura de color de la luz en una producción
-
+21. ¿Cuál de los siguientes dispositivos permite ajustar la temperatura de color de la luz en una producción
 televisiva?
 
 a) Difusor.
@@ -304,16 +292,13 @@ c) Gel de color.
 
 d) Reflector.
 
-22. Durante  un programa en directo, el presentador se queda sin palabras en medio de una entrevista y el
-
+22. Durante un programa en directo, el presentador se queda sin palabras en medio de una entrevista y el
 silencio se prolonga por varios segundos. ¿Cuál es la acción más apropiada que debe tomar el regidor en
 esta situación?
 
 a) Comunicarse con el control de realización para que preparen un video o una animación de relleno.
 
-b)
-
-Intervenir inmediatamente para ayudar al presentador a salir del paso, sugiriendo una pregunta o un comentario.
+b) Intervenir inmediatamente para ayudar al presentador a salir del paso, sugiriendo una pregunta o un comentario.
 
 c) Mantenerse en silencio y esperar a que el presentador recupere el hilo de la conversación.
 
@@ -321,9 +306,11 @@ d) Señalar a realización que corte la emisión y pase a un corte comercial.
 
 Página 3 de 20
 
-Fecha de publicación: 28/10/202423. ¿Cuál de las siguientes acciones realizamos con la ecualización para hacer que una voz en off suene más
+Fecha de publicación: 28/10/2024
 
+23. ¿Cuál de las siguientes acciones realizamos con la ecualización para hacer que una voz en off suene más
 cálida y presente en una producción documental?
+
 a) Crear un corte pronunciado en las frecuencias medias.
 
 b) Aumentar las frecuencias agudas y atenuar las graves.
@@ -332,49 +319,38 @@ c) Aumentar ligeramente las frecuencias medias y bajas, y atenuar un poco las al
 
 d) Aplicar una reverberación muy corta.
 
-24. ¿Cuál  de las siguientes afirmaciones sobre la televisión 4K es correcta en relación con su tecnología y
-
+24. ¿Cuál de las siguientes afirmaciones sobre la televisión 4K es correcta en relación con su tecnología y
 características?
 
-a) Todos  los dispositivos de televisión 4K son compatibles con contenido 8K, lo que garantiza que los usuarios
+a) Todos los dispositivos de televisión 4K son compatibles con contenido 8K, lo que garantiza que los usuarios
+puedan disfrutar de la más alta calidad de imagen sin necesidad de actualizar su equipo.
 
-puedan  disfrutar de la más alta calidad de imagen sin necesidad de actualizar su equipo.
-
-b) La  tecnología 4K se basa únicamente en la mejora de la resolución de imagen, sin considerar otros aspectos
-
-como  la tasa de refresco o el soporte para HDR (Alto Rango Dinámico).
+b) La tecnología 4K se basa únicamente en la mejora de la resolución de imagen, sin considerar otros aspectos
+como la tasa de refresco o el soporte para HDR (Alto Rango Dinámico).
 
 c) La televisión 4K ofrece una resolución de 3840 x 2160 píxeles, lo que equivale a cuatro veces la resolución de la
-
 televisión Full HD, pero no mejora la calidad del color ni el rango dinámico.
 
 d) La televisión 4K requiere un ancho de banda significativamente mayor para la transmisión de contenido, lo que
-
 puede limitar su accesibilidad en áreas con conexiones a Internet lentas.
 
 25. ¿Cuál de las siguientes afirmaciones sobre el formato XDCAM y su implementación en flujos de trabajo de
-
 producción de video es correcta?
 
 a) XDCAM es un formato que no admite la grabación de video en alta definición (HD) y se utiliza únicamente para
-
 contenido estándar (SD).
 
-b) XDCAM  incluye un sistema de gestión de metadatos que permite la integración con flujos de trabajo de
+b) XDCAM incluye un sistema de gestión de metadatos que permite la integración con flujos de trabajo de
+producción digital, facilitando la organización y búsqueda de contenido.
 
-producción  digital, facilitando la organización y búsqueda de contenido.
+c) XDCAM permite la grabación de video en resoluciones de hasta 4K, pero su compresión intraframe limita la
+eficiencia del almacenamiento en comparación con otros formatos de compresión.
 
-c) XDCAM  permite la grabación de video en resoluciones de hasta 4K, pero su compresión intraframe limita la
+d) XDCAM utiliza un sistema de grabación basado exclusivamente en discos duros, lo que limita su portabilidad y
+uso en entornos de producción en movimiento.
 
-eficiencia  del almacenamiento en comparación con otros formatos de compresión.
-
-d) XDCAM  utiliza un sistema de grabación basado exclusivamente en discos duros, lo que limita su portabilidad y
-
-uso  en entornos de producción en movimiento.
-
-26. ¿Cuál  de las siguientes opciones describe correctamente la relación entre la longitud de onda de la luz
-
-visible  y el color que percibimos?
+26. ¿Cuál de las siguientes opciones describe correctamente la relación entre la longitud de onda de la luz
+visible y el color que percibimos?
 
 a) La longitud de onda no influye en el color percibido, sino en la intensidad de la luz.
 
@@ -385,16 +361,16 @@ c) A mayor longitud de onda, mayor frecuencia y, por tanto, color más cálido (
 d) Todas las longitudes de onda de la luz visible producen la sensación de blanco.
 
 27. ¿Cuál de las siguientes afirmaciones sobre el códec H.265 (HEVC) es correcta?
-a) H.265 utiliza un método de compresión que requiere el doble de ancho de banda en comparación con H.264 para
 
+a) H.265 utiliza un método de compresión que requiere el doble de ancho de banda en comparación con H.264 para
 la misma calidad de video.
 
 b) H.265 no es compatible con la transmisión de video en tiempo real debido a su alta latencia.
 
 c) H.265 utiliza un algoritmo de compresión que es un 50% menos eficiente que su predecesor, H.264.
-d) H.265  permite la codificación de video en resoluciones de hasta 8K, mejorando la calidad de imagen en
 
-comparación  con H.264.
+d) H.265 permite la codificación de video en resoluciones de hasta 8K, mejorando la calidad de imagen en
+comparación con H.264.
 
 28. ¿Cuál de los siguientes fenómenos explica por qué vemos un objeto como verde?
 
@@ -408,36 +384,32 @@ d) El cerebro interpreta la señal eléctrica enviada por los conos sensibles al
 
 Página 4 de 20
 
-Fecha de publicación: 28/10/202429. ¿Cuál de las siguientes afirmaciones diferencia correctamente un flujo de trabajo de edición lineal de uno
+Fecha de publicación: 28/10/2024
 
+29. ¿Cuál de las siguientes afirmaciones diferencia correctamente un flujo de trabajo de edición lineal de uno
 no lineal?
 
 a) La edición lineal es más rápida y eficiente que la no lineal.
-b) La  edición lineal permite realizar cambios en cualquier punto del video sin afectar el resto, mientras que la no
 
-lineal  es más restrictiva.
+b) La edición lineal permite realizar cambios en cualquier punto del video sin afectar el resto, mientras que la no
+lineal es más restrictiva.
 
-c) La  edición lineal es más adecuada para proyectos de larga duración, mientras que la no lineal es mejor para
-
-proyectos  cortos.
+c) La edición lineal es más adecuada para proyectos de larga duración, mientras que la no lineal es mejor para
+proyectos cortos.
 
 d) La edición lineal utiliza cintas físicas, mientras que la no lineal se basa en archivos digitales.
 
-30. Si  tenemos como decorado de un plató pantallas led de gran tamaño detrás del presentador. ¿Como
-
-podemos  evitar el efecto Moiré?
+30. Si tenemos como decorado de un plató pantallas led de gran tamaño detrás del presentador. ¿Como
+podemos evitar el efecto Moiré?
 
 a) Aumentamos la profundidad de campo utilizando ópticas tele o filtros neutros y acercamos al presentador a las
-
 pantallas para enfocarlas.
 
-b) Reducimos  la profundidad de campo utilizando ópticas tele o filtros neutros y alejamos al presentador de las
+b) Reducimos la profundidad de campo utilizando ópticas tele o filtros neutros y alejamos al presentador de las
+pantallas para desenfocarlas.
 
-pantallas  para desenfocarlas.
-
-c) Reducimos  la profundidad de campo utilizando ópticas tele o filtros neutros y acercamos al presentador a las
-
-pantallas  para enfocarlas.
+c) Reducimos la profundidad de campo utilizando ópticas tele o filtros neutros y acercamos al presentador a las
+pantallas para enfocarlas.
 
 d) Trabajamos con la Hiperfocal para desenfocar las pantallas.
 
@@ -445,17 +417,14 @@ d) Trabajamos con la Hiperfocal para desenfocar las pantallas.
 las pantallas del pabellón. Se nos exige que no se vean ni las repeticiones ni los vídeos en esas pantallas.
 ¿Cuál de estas opciones es válida?
 
-a) Enviamos  a las pantallas otra salida de PGM, en la que además de los Keys que intervienen en el PGM,
-
+a) Enviamos a las pantallas otra salida de PGM, en la que además de los Keys que intervienen en el PGM,
 activamos un “Fade to Black” para cerrar la señal a través de un macro. Ese macro lo ponemos en las teclas de
 previo donde están los vídeos, y así al seleccionarlos en previo, cerramos la señal de las pantallas.
 
 b) Enviamos a las pantallas otro ME diferente a PP, el cual enlazamos a PP con un “link” y utilizamos una tabla de
-
 sustitución para ese link.
 
 c) Enviamos a las pantallas otro ME diferente a PP, el cual enlazamos a PP con un “link” y cambiamos el mapeado
-
 de ese ME para que no tenga los videos.
 
 d) No hacemos nada porque lo divertido es discutir con los árbitros en el pabellón al ver las Repeticiones.
@@ -465,19 +434,17 @@ en Autoselect y sin invertir. Si el nivel de negros de la señal de fill se leva
 parámetro, ¿tendrá alguna consecuencia sobre el resultado final?
 
 a) Ninguna, independientemente del tipo de key de luminancia.
-b) Siempre se notará en el background al activar o desactivar el key por corte, independientemente del tipo de key
 
+b) Siempre se notará en el background al activar o desactivar el key por corte, independientemente del tipo de key
 de luminancia que hayamos hecho.
 
-c) Solo  tendrá consecuencias si hacemos un key de luminancia lineal, y se notará en el background al activar o
+c) Solo tendrá consecuencias si hacemos un key de luminancia lineal, y se notará en el background al activar o
+desactivar el key por corte.
 
-desactivar  el key por corte.
+d) Solo tendrá consecuencias si hacemos un key de luminancia Aditivo, y se notará en el background al activar o
+desactivar el key por corte.
 
-d) Solo  tendrá consecuencias si hacemos un key de luminancia Aditivo, y se notará en el background al activar o
-
-desactivar  el key por corte.
-
-33. Estamos  trabajando en un plató en el que el decorado está formado por pantallas led. Las pantallas son
+33. Estamos trabajando en un plató en el que el decorado está formado por pantallas led. Las pantallas son
 gestionadas por un software que produce un retardo de 4 frames. Si hacemos conexiones en directo con
 exteriores, a través de ventanas abiertas en esas pantallas, no se verá sincronizado el audio con el vídeo.
 ¿Qué podemos hacer para que vayan sincronizados audio y vídeo?
@@ -485,61 +452,54 @@ exteriores, a través de ventanas abiertas en esas pantallas, no se verá sincro
 a) Retrasamos la entrada de los exteriores al mezclador 4 frames y lo mandamos a las pantallas por un auxiliar.
 
 b) Adelantamos la entrada de los exteriores al mezclador 4 frames y lo mandamos a las pantallas por un auxiliar.
-c) Retrasamos  la entrada de los exteriores al mezclador 4 frames, lo mandamos a las pantallas por matriz y
 
-retrasamos  el sonido de los exteriores 4 frames.
+c) Retrasamos la entrada de los exteriores al mezclador 4 frames, lo mandamos a las pantallas por matriz y
+retrasamos el sonido de los exteriores 4 frames.
 
-d) Retrasamos  la entrada de los exteriores al mezclador 4 frames, mandamos la señal del exterior al software de
-
-pantallas  por un auxiliar y retrasamos el sonido de los exteriores 4 frames.
+d) Retrasamos la entrada de los exteriores al mezclador 4 frames, mandamos la señal del exterior al software de
+pantallas por un auxiliar y retrasamos el sonido de los exteriores 4 frames.
 
 Página 5 de 20
 
-Fecha de publicación: 28/10/202434. Estamos  trabajando en un plató en el que 2 cámaras tienen realidad aumentada (R.A.) a través de un
+Fecha de publicación: 28/10/2024
 
+34. Estamos trabajando en un plató en el que 2 cámaras tienen realidad aumentada (R.A.) a través de un
 software que genera un retardo de 2 frames. Tenemos otras 5 cámaras sin R.A. ¿Podemos hacer algo para
 mezclar las 7 cámaras, con o sin R.A, sin que haya problemas de sincronización entre audio y vídeo? Ten
 en cuenta que haremos transiciones entre una cámara con R.A. y la misma cámara sin R.A.
 
-a) Ponemos  un retardo de 2 frames en cada una de las entradas al mezclador de las 7 cámaras e informamos a
-
+a) Ponemos un retardo de 2 frames en cada una de las entradas al mezclador de las 7 cámaras e informamos a
 sonido para que retarde 80 milisegundos todas las fuentes de sonido del plató que intervengan en el programa.
 
 b) No se puede mezclar entre las cámaras con R.A. y ellas mismas sin R.A.
-c) Ponemos  un retardo de 2 frames en cada una de las entradas al mezclador de las 7 cámaras e informamos a
 
+c) Ponemos un retardo de 2 frames en cada una de las entradas al mezclador de las 7 cámaras e informamos a
 sonido para que retarde 160 milisegundos todas las fuentes de sonido del plató que intervengan en el programa.
 
 d) Ponemos un retardo de 2 frames en cada una de las entradas al mezclador de las 5 cámaras que no llevan R.A. e
-
 informamos a sonido para que retarde 80 milisegundos todas las fuentes de sonido del plató que intervengan en
 el programa.
 
 35. Se está emitiendo en directo por la 2 un programa desde el Estudio 2 de Prado del Rey (P.R.). En su salida
-de  PGM tiene la señal de un redactor que llega en directo desde un estudio del Centro de Producción de
+de PGM tiene la señal de un redactor que llega en directo desde un estudio del Centro de Producción de
 Cataluña de RTVE (C.T. Cataluña). ¿Por qué sitios pasa la señal del redactor, desde que sale de la cámara,
 hasta que sale de Torrespaña para la emisión del programa en la TDT?
 
 a) Control de realización del C.T. Cataluña - Control técnico del C.T. Cataluña - Control técnico Torrespaña – Control
+técnico P.R. - Control de realización Est. 2 - Control técnico P.R. - Control técnico Torrespaña - control de
+continuidad de la 2.
 
-técnico  P.R. - Control de realización Est. 2 - Control técnico P.R. - Control técnico Torrespaña - control de
-continuidad  de la 2.
-
-b) Control  de realización del C.T. Cataluña - Control técnico del C.T. Cataluña - Control Central P.R. - Control de
-
-realización  Est. 2 - Control técnico P.R. – Control técnico Torrespaña - Control de continuidad de la 2.
+b) Control de realización del C.T. Cataluña - Control técnico del C.T. Cataluña - Control Central P.R. - Control de
+realización Est. 2 - Control técnico P.R. – Control técnico Torrespaña - Control de continuidad de la 2.
 
 c) Control de realización del C.T. Cataluña - Control Central del C.T. Cataluña - Control Central Torrespaña - Control
-
-Central  P.R. - Control de realización Est. 2 - Control Central P.R. - Control Central Torrespaña - Control de
-continuidad  de la 2.
+Central P.R. - Control de realización Est. 2 - Control Central P.R. - Control Central Torrespaña - Control de
+continuidad de la 2.
 
 d) Control de realización del C.T. Cataluña - Control técnico del C.T. Cataluña - Control técnico de P.R. - Control de
-
 realización Est. 2 - Control técnico de P.R. - Control de continuidad de la 2.
 
-36. En  un Software de Postproducción o con un canal DVE del mezclador, ¿a qué llamamos CORNER
-
+36. En un Software de Postproducción o con un canal DVE del mezclador, ¿a qué llamamos CORNER
 PINNING?
 
 a) A un efecto que permite cambiar la perspectiva manejando la posición de las esquinas de la imagen.
@@ -562,62 +522,51 @@ d) Rec. 709, DCI P3, Rec. 2020, AP0.
 
 38. ¿Cuál de estos archivos gráficos NUNCA tiene canal Alfa?
 
-a)
+a) .JPG.
 
-b)
+b) .SWS.
 
-c)
+c) .PNG.
 
-d)
-
-.JPG.
-
-.SWS.
-
-.PNG.
-
-.TIF.
+d) .TIF.
 
 Página 6 de 20
 
-Fecha de publicación: 28/10/202439. ¿Qué es la señal “pool” de un evento?
-a) La señal de un evento, que por cuestiones de seguridad para los participantes, realiza y emite una única cadena
+Fecha de publicación: 28/10/2024
 
+39. ¿Qué es la señal “pool” de un evento?
+
+a) La señal de un evento, que por cuestiones de seguridad para los participantes, realiza y emite una única cadena
 de TV.
 
 b) La señal en exclusiva de un evento.
-c) La señal de un evento, principalmente deportivo, que se realiza compartiendo los medios de varias cadenas de
 
+c) La señal de un evento, principalmente deportivo, que se realiza compartiendo los medios de varias cadenas de
 TV.
 
 d) La señal de un evento, principalmente institucional, que realiza una única cadena de TV o productora audiovisual
-
 distribuyendola al resto de cadenas.
 
 40. El plan de trabajo de una grabación:
-a) Es un calendario donde se fijan las necesidades de grabación. Se elabora antes de realizar el desglose y después
 
+a) Es un calendario donde se fijan las necesidades de grabación. Se elabora antes de realizar el desglose y después
 de realizar las localizaciones.
 
-b) Es  un calendario donde se fijan las necesidades de grabación. Se elabora después de realizar el desglose y
-
-después  de realizar las localizaciones.
+b) Es un calendario donde se fijan las necesidades de grabación. Se elabora después de realizar el desglose y
+después de realizar las localizaciones.
 
 c) Es un calendario donde se fijan las necesidades de grabación. Se elabora después de realizar el desglose y antes
-
 de realizar las localizaciones.
 
 d) Es un calendario donde se fijan las necesidades de grabación. Se elabora antes de realizar el desglose y antes
-
 de realizar las localizaciones.
 
 41. ¿Qué es la planta de cámaras?
-a) Es  un documento que muestra de manera cenital la colocación de los actores y los elementos significativos de
 
-escenografía,  así como las posiciones desde donde se grabarán planos y movimientos de cámara.
+a) Es un documento que muestra de manera cenital la colocación de los actores y los elementos significativos de
+escenografía, así como las posiciones desde donde se grabarán planos y movimientos de cámara.
 
 b) Es un documento que muestra el lugar en el que se graban partes de un programa o una película, el cual dispone
-
 de alguno de los elementos necesarios para rodar.
 
 c) Es un documento donde se muestra cada una de las alturas de las cámaras del plató.
@@ -635,7 +584,6 @@ c) El tipo de objetivo utilizado en la cámara.
 d) El tamaño del sensor de la cámara.
 
 43. ¿Cómo podemos transcribir todo el audio de un clip como texto o guion, utilizando inteligencia artificial en
-
 media composser ultimate?
 
 a) Pulsando botón derecho sobre el clip Create Script from clip.
@@ -647,23 +595,23 @@ c) Pulsando botón derecho pista de audio Rename.
 d) Pulsando CTRL + ALT + L o K.
 
 44. ¿Qué es un contraluz (Back light)?
-a) Luz  dirigida hacia el decorado, desde la parte posterior, para poner de manifiesto su contorno, modelar sus
 
-bordes  o revelar su transparencia.
+a) Luz dirigida hacia el decorado, desde la parte posterior, para poner de manifiesto su contorno, modelar sus
+bordes o revelar su transparencia.
 
 b) Luz dirigida hacia el sujeto, desde la parte posterior, para poner de manifiesto su contorno, modelar sus bordes o
-
 revelar su transparencia.
 
 c) Luz dirigida desde la parte posterior de la cámara para producir la impresión de que el sujeto está separado del
-
 fondo.
 
 d) Una técnica de iluminación consistente en enfrentar las diferentes luces de la escena.
 
 Página 7 de 20
 
-Fecha de publicación: 28/10/202445. ¿Qué es la salida CLEAN del mezclador?
+Fecha de publicación: 28/10/2024
+
+45. ¿Qué es la salida CLEAN del mezclador?
 
 a) Es una salida de programa con rótulos y mosca.
 
@@ -674,17 +622,15 @@ c) Es una salida de programa “limpia”, que lleva mosca.
 d) Es una salida de programa que lleva rótulos.
 
 46. En un sistema de escenografía virtual ¿Qué tipo de sensorización corresponde al sistema free-d?
-a) Sistema de trabajo con croma que además incorpora sensores que permite establecer la posición de la cámara
 
+a) Sistema de trabajo con croma que además incorpora sensores que permite establecer la posición de la cámara
 mediante la lectura de pequeñas marcas de referencia.
 
-b) Sistema  que consta de una serie de elementos de croma que sirve de ajuste tanto en las paredes como en el
-
+b) Sistema que consta de una serie de elementos de croma que sirve de ajuste tanto en las paredes como en el
 suelo.
 
-c) Sistema  que dispone de unos postes de croma colocados en el techo, fuera de plano, para favorecer el
-
-movimiento  escénico y evita la inclusión de sombras.
+c) Sistema que dispone de unos postes de croma colocados en el techo, fuera de plano, para favorecer el
+movimiento escénico y evita la inclusión de sombras.
 
 d) Sistema mediante el empleo de ultrasonidos que puede establecer la posición de la cámara.
 
@@ -709,21 +655,19 @@ c) Sonómetro.
 d) Picómetro.
 
 49. En un medio audiovisual la prolepsis es:
-a) Una  figura retórica por medio de la cual se muestra una escena posterior y se vuelve al tiempo presente,
 
-rompiendo  la cronología del discurso.
+a) Una figura retórica por medio de la cual se muestra una escena posterior y se vuelve al tiempo presente,
+rompiendo la cronología del discurso.
 
 b) La alteración del orden de la narración en la que el argumento avanza en el tiempo.
-c) La  alteración del orden de la narración en la que el argumento vuelve al pasado para mostrar acontecimientos
 
-ocurridos  antes de lo mostrado.
+c) La alteración del orden de la narración en la que el argumento vuelve al pasado para mostrar acontecimientos
+ocurridos antes de lo mostrado.
 
 d) Una figura retórica que rompe la cronología del discurso mostrando una escena anterior para regresar al mismo
-
 instante.
 
 50. De los siguientes efectos, ¿con cuál se puede conseguir la superposición de una o varias ventanas en un
-
 mezclador de vídeo?
 
 a) Mosaico.
@@ -746,8 +690,9 @@ d) Es una secuencia planificada y mecanizada por el director y el equipo artíst
 
 Página 8 de 20
 
-Fecha de publicación: 28/10/202452. En iluminación la luz predominante que se coloca normalmente en posición frontal y cruzada es la que se
+Fecha de publicación: 28/10/2024
 
+52. En iluminación la luz predominante que se coloca normalmente en posición frontal y cruzada es la que se
 conoce por:
 
 a) Luz de decorado.
@@ -759,8 +704,8 @@ c) Luz llave.
 d) Luz de relleno.
 
 53. En un entorno televisivo, ¿qué es el downlink?
-a) La transmisión de televisión digital vía satélite por enlace ascendente, mediante el cual el centro emisor envía las
 
+a) La transmisión de televisión digital vía satélite por enlace ascendente, mediante el cual el centro emisor envía las
 señales de televisión al satélite utilizando grandes antenas parabólicas.
 
 b) La transmisión de televisión digital vía satélite por enlace descendente, por medio del cual el satélite retransmite
@@ -782,16 +727,14 @@ c) Un sonido que no tiene correspondencia visual con la imagen.
 d) Un sonido generado por un doblador.
 
 55. ¿A qué llamamos “montaje alternado”?
-a) Dilata  el tiempo mostrando sucesivamente acciones acaecidas en espacios diferentes pero simultaneas, que
 
-coinciden  en un mismo tiempo ficcional.
+a) Dilata el tiempo mostrando sucesivamente acciones acaecidas en espacios diferentes pero simultaneas, que
+coinciden en un mismo tiempo ficcional.
 
 b) Muestra en sucesión temporal dos o más líneas de acción que se producen en lugares diferentes, pero no tienen
-
 porqué desarrolarse simultáneamente.
 
 c) Alternar la edición de diferentes capítulos por rapidez, centrando la edición en el mismo punto coincidente para
-
 todos los capítulos, ya sea la cabecera o cualquier otro punto en común para todos los capítulos.
 
 d) Cuando por necesidades debemos montar en diferentes espacios y alternamos la edición de un sitio a otro.
@@ -822,17 +765,16 @@ a) Adquiere la información de luminancia mediante un prisma dicroico frente al 
 
 b) Es una captación lineal de la luz por el sensor de la cámara.
 
-c)
-
-Implica un alto grado de procesamiento computacional posterior a la captura.
+c) Implica un alto grado de procesamiento computacional posterior a la captura.
 
 d) Es igual a la captación con curva logarítmica.
 
 Página 9 de 20
 
-Fecha de publicación: 28/10/202459. ¿Qué  utilizamos para enviar y aplicar una corrección de color específica a una señal de video en las
+Fecha de publicación: 28/10/2024
 
-pantallas  de un plató?
+59. ¿Qué utilizamos para enviar y aplicar una corrección de color específica a una señal de video en las
+pantallas de un plató?
 
 a) Un bus auxiliar.
 
@@ -843,7 +785,6 @@ c) Un DVE.
 d) Una salida fija del mezclador.
 
 60. La siguiente secuencia “Snapshot de PP, Pausa de 15fr, Transición Mix de PP, Key1 de PP ToOff” pertenece
-
 a:
 
 a) Un timeline.
@@ -854,9 +795,8 @@ c) Una memoria de key.
 
 d) Un snapshot.
 
-61. ¿Cuál  es una de las principales causas de la fatiga visual en los trabajadores que utilizan pantallas de
-
-visualización,  según la Guía Técnica del RD 488/1997?
+61. ¿Cuál es una de las principales causas de la fatiga visual en los trabajadores que utilizan pantallas de
+visualización, según la Guía Técnica del RD 488/1997?
 
 a) Mala calidad de la pantalla.
 
@@ -868,9 +808,7 @@ d) Tiempo prolongado sin interrupciones.
 
 62. ¿Qué nos permite visualizar un vectorscopio?
 
-a)
-
-Información como la luminancia y la crominancia.
+a) Información como la luminancia y la crominancia.
 
 b) La pureza de los colores.
 
@@ -895,8 +833,8 @@ a) Una técnica que utiliza lentes gran angular y poca distancia entre sujeto y 
 b) Un método que ofrece a los espectadores una visión amplia y contextualizada de la acción.
 
 c) Un método para crear ilusiones ópticas manipulando la distancia entre el sujeto y la cámara.
-d) Una  perspectiva creada a partir de la iluminación, creando una escena muy contrastada y con mucha
 
+d) Una perspectiva creada a partir de la iluminación, creando una escena muy contrastada y con mucha
 profundidad.
 
 65. ¿Dónde se conectan las diferentes señales de cámara, en un plató de televisión, antes de llegar a la CCU?
@@ -911,22 +849,21 @@ d) Caja de plató.
 
 Página 10 de 20
 
-Fecha de publicación: 28/10/202466. En  la retransmisión de un concierto, si diferentes instrumentos musicales tocan la misma nota, ¿qué
-cualidad  del sonido nos permite distinguirlos, aunque tengan la misma frecuencia pero distinto matiz
+Fecha de publicación: 28/10/2024
+
+66. En la retransmisión de un concierto, si diferentes instrumentos musicales tocan la misma nota, ¿qué
+cualidad del sonido nos permite distinguirlos, aunque tengan la misma frecuencia pero distinto matiz
 sonoro?
 
 a) Timbre.
 
 b) Tono.
 
-c)
-
-Intensidad.
+c) Intensidad.
 
 d) Frecuencia.
 
 67. ¿Qué tipo de foco permite ajustar el reflector y la lámpara dentro del mismo bloque, para que al acercarlo o
-
 alejarlo de la lente se pueda variar el ancho del haz de luz?
 
 a) HMI.
@@ -987,9 +924,8 @@ c) Una bandera.
 
 d) Un velo o gasa.
 
-73. ¿Qué  técnica de grabación estéreo hace uso de dos micrófonos omnidireccionales empleándose para
-
-realidad  virtual?
+73. ¿Qué técnica de grabación estéreo hace uso de dos micrófonos omnidireccionales empleándose para
+realidad virtual?
 
 a) Bin estéreo.
 
@@ -1001,7 +937,9 @@ d) Estéreo Binaural.
 
 Página 11 de 20
 
-Fecha de publicación: 28/10/202474. ¿Qué es un plano nadir?
+Fecha de publicación: 28/10/2024
+
+74. ¿Qué es un plano nadir?
 
 a) Plano tomado con la cámara situada debajo del sujeto encuadrando hacia arriba.
 
@@ -1022,8 +960,8 @@ c) Es una agencia de noticias.
 d) Es un sistema integrado para la producción y emisión de noticias.
 
 76. ¿Qué es el factor de ampliación?
-a) La  tecnología desarrollada para que las baterías de las cámaras nos permitan al menos un 20% más de
 
+a) La tecnología desarrollada para que las baterías de las cámaras nos permitan al menos un 20% más de
 autonomía.
 
 b) La razón entre el tamaño de un objeto en la imagen del plano focal y el tamaño de ese objeto en realidad.
@@ -1067,28 +1005,31 @@ d) La información cuya eliminación no afecta al contenido.
 a) Con carácter general, hasta el 31 de diciembre.
 
 b) Con carácter general, hasta el día 15 de enero del año siguiente de ser generadas.
-c) La mitad deberán disfrutarse en período preferente desde el 1 de junio al 30 de septiembre y las restantes podrán
 
+c) La mitad deberán disfrutarse en período preferente desde el 1 de junio al 30 de septiembre y las restantes podrán
 disfrutarse según convenga el trabajador con su responsable sin fecha tope de disfrute.
 
 d) Podrán acumularse y disfrutarse junto con las de siguientes años.
 
 Página 12 de 20
 
-Fecha de publicación: 28/10/202481. La Constitución Española en su artículo 146 dice:
-a) Dentro  de los términos de la presente Constitución, los Estatutos serán la norma institucional básica de cada
+Fecha de publicación: 28/10/2024
 
+81. La Constitución Española en su artículo 146 dice:
+
+a) Dentro de los términos de la presente Constitución, los Estatutos serán la norma institucional básica de cada
 Comunidad Autónoma y el Estado los reconocerá y amparará como parte integrante de su ordenamiento jurídico.
 
 b) En ningún caso se admitirá la federación de Comunidades Autónomas.
+
 c) En el ejercicio del derecho a la autonomía reconocido en el artículo 2 de la Constitución, las provincias limítrofes
-con  características históricas, culturales y económicas comunes, los territorios insulares y las provincias con
-entidad  regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con
-arreglo  a lo previsto en este Título y en los respectivos Estatutos.
+con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con
+entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con
+arreglo a lo previsto en este Título y en los respectivos Estatutos.
 
 d) El proyecto de Estatuto será elaborado por una asamblea compuesta por los miembros de la Diputación u órgano
-interinsular  de las provincias afectadas y por los Diputados y Senadores elegidos en ellas y será elevado a las
-Cortes  Generales para su tramitación como ley.
+interinsular de las provincias afectadas y por los Diputados y Senadores elegidos en ellas y será elevado a las
+Cortes Generales para su tramitación como ley.
 
 82. ¿Quién aprobó la Constitución española de 1978?
 
@@ -1121,18 +1062,13 @@ c) Que hombres y mujeres tengan las mismas condiciones, trato y oportunidades.
 d) Que se priorice a las mujeres en sectores tradicionalmente masculinos.
 
 85. Según el artículo 21 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en caso de
-
 riesgo inminente y grave, el trabajador tendrá derecho a:
 
-a)
-
-Interrumpir su actividad sin abandonar el lugar de trabajo.
+a) Interrumpir su actividad sin abandonar el lugar de trabajo.
 
 b) Avisar al empresario y delegados de prevención, permaneciendo en su lugar de trabajo.
 
-c)
-
-Interrumpir su actividad y abandonar el lugar de trabajo.
+c) Interrumpir su actividad y abandonar el lugar de trabajo.
 
 d) Recibir una indemnización si no interrumpe su actividad.
 
@@ -1141,12 +1077,11 @@ Ley del Estatuto de los Trabajadores y con relación al contrato de formación e
 11:
 
 a) Se podrá establecer un periodo de prueba que no podrá exceder de un mes.
-b) Se podrá establecer un periodo de prueba que en ningún caso podrá exceder de dos meses, salvo lo dispuesto
 
+b) Se podrá establecer un periodo de prueba que en ningún caso podrá exceder de dos meses, salvo lo dispuesto
 en convenio colectivo.
 
 c) Se podrá establecer un periodo de prueba que en ningún caso podrá exceder de un mes, salvo lo dispuesto en
-
 convenio colectivo.
 
 d) No podrá establecerse ningún periodo de prueba.
@@ -1163,7 +1098,9 @@ d) Suspensión de empleo y sueldo de cinco a treinta días.
 
 Página 13 de 20
 
-Fecha de publicación: 28/10/202488. El descanso mínimo entre jornadas según el III Convenio Colectivo de la Corporación RTVE es de:
+Fecha de publicación: 28/10/2024
+
+88. El descanso mínimo entre jornadas según el III Convenio Colectivo de la Corporación RTVE es de:
 
 a) 9 horas.
 
@@ -1183,9 +1120,9 @@ c) El Senado.
 
 d) Las Cortes Generales.
 
-90. Normalmente  nos referimos al vídeo por componentes como Y, CB, CR o como Y, U, V. Y la señal de
+90. Normalmente nos referimos al vídeo por componentes como Y, CB, CR o como Y, U, V. Y la señal de
+luminancia (Y) está formada por:
 
-luminancia  (Y) está formada por:
 a) 30% Verde + 11% Rojo + 59% Azul.
 
 b) 30% Verde + 59% Rojo + 11% Azul.
@@ -1219,21 +1156,17 @@ d) Sí, si no se desarrollan en el mismo escenario.
 a) Documento que contiene el orden en el que se ruedan todas las escenas de la producción.
 
 b) Documento que contiene las fases de financiación de la producción.
-c) Documento que contiene todas las fechas necesarias desde la preproducción hasta la edición y finalización de la
 
+c) Documento que contiene todas las fechas necesarias desde la preproducción hasta la edición y finalización de la
 producción.
 
 d) Documento que contiene el orden de utilización de medios técnicos de la producción.
 
 94. ¿Cuál es la compresión que combina varios fotogramas a la vez para realizarse?
 
-a)
+a) Intraframe.
 
-b)
-
-Intraframe.
-
-Interframe.
+b) Interframe.
 
 c) Lossy.
 
@@ -1251,14 +1184,15 @@ d) 8192 x 4320.
 
 Página 14 de 20
 
-Fecha de publicación: 28/10/202496. ¿Qué es un formato contenedor?
-a) Es  un estándar donde se define las reglas y operaciones matemáticas que llevan a cabo la codificación y
+Fecha de publicación: 28/10/2024
 
-decodificación  de la información de audio y de video digital.
+96. ¿Qué es un formato contenedor?
 
-b) Es  la implementación de un programa informático concreto encargado de aplicar las reglas y operaciones
+a) Es un estándar donde se define las reglas y operaciones matemáticas que llevan a cabo la codificación y
+decodificación de la información de audio y de video digital.
 
-matemáticas  de un algoritmo de compresión.
+b) Es la implementación de un programa informático concreto encargado de aplicar las reglas y operaciones
+matemáticas de un algoritmo de compresión.
 
 c) Es un estándar para la distribución o almacenamiento de un determinado contenido multimedia.
 
@@ -1271,8 +1205,8 @@ a) Una señal que no contiene frecuencia.
 b) Tono generado eléctricamente a un nivel de referencia utilizado para ajustar los equipos.
 
 c) Una señal que contiene una frecuencia de audio.
-d) Tono que se envía a través de todo el sistema y debe producir una lectura normalizada en los medidores de cada
 
+d) Tono que se envía a través de todo el sistema y debe producir una lectura normalizada en los medidores de cada
 etapa.
 
 98. ¿Qué es Unreal Engine?
@@ -1302,13 +1236,13 @@ a) Narrador que relata sus propias experiencias, como el personaje central o pri
 b) Narrador que relata su historia como personaje secundario, no central.
 
 c) Es el narrador que todo lo ve, puede estar en todas parte y lo sabe todo.
-d) El narrador que solo sabe lo que percibe con los sentidos, de modo que no se puede introducir en la mente de los
 
+d) El narrador que solo sabe lo que percibe con los sentidos, de modo que no se puede introducir en la mente de los
 personajes, aunque puede verlo todo, escucharlo todo y estar en todas partes.
 
 101. ¿Qué tipo de plano genera una conexión emocional y sumerge al espectador en la perspectiva de la actriz
-
 protagonista?
+
 a) Plano detalle.
 
 b) Plano picado.
@@ -1329,9 +1263,10 @@ d) Es una Limited User Test para limitar la señal de salida del mezclador.
 
 Página 15 de 20
 
-Fecha de publicación: 28/10/2024103. ¿Qué  software sincroniza y coordina cámaras, efectos de video, iluminación, audio y gráficos de manera
+Fecha de publicación: 28/10/2024
 
-precisa  a partir de un guion?
+103. ¿Qué software sincroniza y coordina cámaras, efectos de video, iluminación, audio y gráficos de manera
+precisa a partir de un guion?
 
 a) WATCHOUT.
 
@@ -1372,7 +1307,6 @@ c) Forma regular, posición lejana y color cálido.
 d) Forma irregular, posición lejana y color frío.
 
 107. Los Delegados de Prevención serán designados por y entre los representantes del personal con arreglo a la
-
 siguiente escala:
 
 a) De 101 a 500 trabajadores: 5 Delegados de Prevención.
@@ -1389,45 +1323,40 @@ a) La Corporación RTVE se regirá en primer lugar por la presente Ley y sus est
 la legislación audiovisual y por las normas reguladoras de las sociedades mercantiles estatales en lo que le sea
 de aplicación, y, en defecto de la anterior normativa, por la legislación mercantil.
 
-b) Para  la mejor consecución de las funciones de servicio público encomendadas, la Corporación RTVE podrá
-
+b) Para la mejor consecución de las funciones de servicio público encomendadas, la Corporación RTVE podrá
 celebrar convenios de colaboración con otras entidades de servicio público de radio, de televisión y de noticias.
 Asimismo podrá suscribir convenios u otros acuerdos con las Administraciones públicas y sus organismos y con
 otras entidades nacionales o internacionales.
 
-c) La  Corporación de Radio y Televisión Española es una sociedad mercantil estatal con especial autonomía,
-
+c) La Corporación de Radio y Televisión Española es una sociedad mercantil estatal con especial autonomía,
 prevista en el apartado 3 de la disposición adicional duodécima de la Ley 6/1997, de 14 de abril, de Organización
 y Funcionamiento de la Administración General del Estado, dotada de personalidad jurídica y plena capacidad.
-d) La  organización de la Corporación RTVE se regirá de conformidad con lo dispuesto en la legislación mercantil
 
-para  las sociedades anónimas, con las especialidades establecidas en la presente Ley.
+d) La organización de la Corporación RTVE se regirá de conformidad con lo dispuesto en la legislación mercantil
+para las sociedades anónimas, con las especialidades establecidas en la presente Ley.
 
 Página 16 de 20
 
-Fecha de publicación: 28/10/2024109. El  artículo 16 de la Resolución de 28 de noviembre de 2022 del III Convenio Colectivo de la Corporación
+Fecha de publicación: 28/10/2024
 
-RTVE  establece:
+109. El artículo 16 de la Resolución de 28 de noviembre de 2022 del III Convenio Colectivo de la Corporación
+RTVE establece:
 
 a) La provisión de plazas que impliquen cambio de destino geográfico, cambio de grupo profesional o de ocupación
-tipo,  reincorporación de personas en situación de excedencia de personal de plantilla, o nuevo ingreso de
-personal  fijo, se llevará a cabo según se establece en este convenio colectivo.
+tipo, reincorporación de personas en situación de excedencia de personal de plantilla, o nuevo ingreso de
+personal fijo, se llevará a cabo según se establece en este convenio colectivo.
 
-b) Para  adecuar las necesidades organizativas, se convocará la cobertura de plazas por el procedimiento de
+b) Para adecuar las necesidades organizativas, se convocará la cobertura de plazas por el procedimiento de
+promoción/cambio de ocupación tipo.
 
-promoción/cambio  de ocupación tipo.
+c) Los procesos selectivos para la cobertura de las plazas por personal fijo garantizarán el cumplimiento de los
+principios de publicidad, libre concurrencia, igualdad, mérito y capacidad.
 
-c) Los  procesos selectivos para la cobertura de las plazas por personal fijo garantizarán el cumplimiento de los
-
-principios  de publicidad, libre concurrencia, igualdad, mérito y capacidad.
-
-d) El  personal excedente gozará de un derecho de reingreso preferente en los términos establecidos en el
-
+d) El personal excedente gozará de un derecho de reingreso preferente en los términos establecidos en el
 artículo 13.1 de este convenio colectivo, siempre que el perfil profesional de la persona excedente se ajuste a los
 requerimientos de la plaza que se pretenda cubrir.
 
 110. ¿Qué artículo de la Constitución Española trata sobre el acceso a la cultura promovida y tutelada por los
-
 poderes públicos?
 
 a) 44.
@@ -1439,7 +1368,6 @@ c) 64.
 d) 74.
 
 111. Según la ley 17/2006, de 5 de junio ¿Cada cuánto tiempo será convocado el Consejo Asesor por el Consejo
-
 de Administración?
 
 a) Al menos cada 3 meses, así como cuando sea preceptivo su pronunciamiento.
@@ -1492,7 +1420,9 @@ d) Produce interferencias en las zonas de líneas rectas.
 
 Página 17 de 20
 
-Fecha de publicación: 28/10/2024116. Tenemos esta imagen. ¿Qué parámetros del DVE se corresponden con esta posición?
+Fecha de publicación: 28/10/2024
+
+116. Tenemos esta imagen. ¿Qué parámetros del DVE se corresponden con esta posición?
 
 a) 1.
 
@@ -1504,7 +1434,9 @@ d) 4.
 
 Página 18 de 20
 
-Fecha de publicación: 28/10/2024117. En qué orden están numeradas de 1 a 4 las transiciones entre A y B.
+Fecha de publicación: 28/10/2024
+
+117. En qué orden están numeradas de 1 a 4 las transiciones entre A y B.
 
 a) 1 MIX, 2 SÚPER MIX, 3 NAM, 4 WIPE.
 
@@ -1517,19 +1449,20 @@ d) 1 NAM, 2 SÚPER MIX, 3 MIX, 4. WIPE.
 118. ¿Qué vemos al utilizar FAM entre dos imágenes en el mezclador de vídeo?
 
 a) Que las partes más brillantes de la fuente que se desvanece son visibles durante más tiempo que las partes más
-
 oscuras.
 
 b) Que las dos imágenes se desvanecen por igual en todos los niveles de brillo.
 
 c) Que la primera fuente pasa a través de un color preseleccionado hasta la segunda fuente.
-d) Que las partes de luminancia de cada fuente se suman para que, en el punto medio de la transición, la luminancia
 
+d) Que las partes de luminancia de cada fuente se suman para que, en el punto medio de la transición, la luminancia
 de ambas fuentes esté al 100%.
 
 Página 19 de 20
 
-Fecha de publicación: 28/10/2024119. ¿Cómo ajustamos el punto donde se recorta la señal de key en una incrustación de luminancia?
+Fecha de publicación: 28/10/2024
+
+119. ¿Cómo ajustamos el punto donde se recorta la señal de key en una incrustación de luminancia?
 
 a) Con los controles de clip y ganancia.
 
@@ -1551,4 +1484,4 @@ d) Es una imagen que no existe.
 
 Página 20 de 20
 
-Fecha de publicación: 28/10/2024
+Fecha de publicación: 28/10/2024

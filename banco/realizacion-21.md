@@ -9,8 +9,8 @@ no se pudo emparejar.
 **60_preguntas_realizacion_asist · nº 61 · respuesta: b**
 
 ```
-61. ¿Cuál  es una de las principales causas de la fatiga visual en los trabajadores que utilizan pantallas de
-visualización,  según la Guía Técnica del RD 488/1997?
+61. ¿Cuál es una de las principales causas de la fatiga visual en los trabajadores que utilizan pantallas de
+visualización, según la Guía Técnica del RD 488/1997?
 a) Mala calidad de la pantalla.
 b) Ajustes frecuentes del ojo a diferentes distancias.
 c) Exceso de brillo en la pantalla.

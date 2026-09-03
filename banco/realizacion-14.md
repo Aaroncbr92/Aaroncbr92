@@ -10,17 +10,17 @@ no se pudo emparejar.
 
 ```
 35. Se está emitiendo en directo por la 2 un programa desde el Estudio 2 de Prado del Rey (P.R.). En su salida
-de  PGM tiene la señal de un redactor que llega en directo desde un estudio del Centro de Producción de
+de PGM tiene la señal de un redactor que llega en directo desde un estudio del Centro de Producción de
 Cataluña de RTVE (C.T. Cataluña). ¿Por qué sitios pasa la señal del redactor, desde que sale de la cámara,
 hasta que sale de Torrespaña para la emisión del programa en la TDT?
 a) Control de realización del C.T. Cataluña - Control técnico del C.T. Cataluña - Control técnico Torrespaña – Control
-técnico  P.R. - Control de realización Est. 2 - Control técnico P.R. - Control técnico Torrespaña - control de
-continuidad  de la 2.
-b) Control  de realización del C.T. Cataluña - Control técnico del C.T. Cataluña - Control Central P.R. - Control de
-realización  Est. 2 - Control técnico P.R. – Control técnico Torrespaña - Control de continuidad de la 2.
+técnico P.R. - Control de realización Est. 2 - Control técnico P.R. - Control técnico Torrespaña - control de
+continuidad de la 2.
+b) Control de realización del C.T. Cataluña - Control técnico del C.T. Cataluña - Control Central P.R. - Control de
+realización Est. 2 - Control técnico P.R. – Control técnico Torrespaña - Control de continuidad de la 2.
 c) Control de realización del C.T. Cataluña - Control Central del C.T. Cataluña - Control Central Torrespaña - Control
-Central  P.R. - Control de realización Est. 2 - Control Central P.R. - Control Central Torrespaña - Control de
-continuidad  de la 2.
+Central P.R. - Control de realización Est. 2 - Control Central P.R. - Control Central Torrespaña - Control de
+continuidad de la 2.
 d) Control de realización del C.T. Cataluña - Control técnico del C.T. Cataluña - Control técnico de P.R. - Control de
 realización Est. 2 - Control técnico de P.R. - Control de continuidad de la 2.
 ```

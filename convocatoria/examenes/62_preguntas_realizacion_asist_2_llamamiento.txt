@@ -1,1411 +1,1707 @@
 INSTRUCCIONES
+
 Se trata de una prueba teórica escrita de conocimientos de carácter objetivo tipo TEST.
-La prueba está compuesta por 120 preguntas, (100 preguntas principales más 20 preguntas
+
+La prueba está compuesta por 120 preguntas, (100 preguntas principales más 20 
 de reserva numeradas por orden de su posible aplicación, que solo puntuarán si alguna de
 las preguntas principales fuera anulada), debiendo contemplar todas.
+
 Cada pregunta tiene 4 posibles respuestas alternativas y solo UNA respuesta es correcta;
 debe solo elegir UNA de las cuatro opciones.
+
 El sistema de valoración será el siguiente:
+
 o
 Cada pregunta contestada correctamente tiene un valor de 1 punto positivo.
+
 o
 Cada pregunta no contestada, contestada de forma distinta a la indicada en las
 instrucciones o contestada con dos o más respuestas no tendrá valoración alguna.
+
 o
 Cada pregunta con contestación errónea penaliza 1/3 punto.
+
 Si la prueba lo requiere, se facilitará una hoja para realizar cálculos.
+
 Recuerde anotar las respuestas en su HOJA DE RESPUESTAS y en la columna
 correspondiente. Cualquier respuesta marcada fuera de la HOJA DE RESPUESTAS, por
 ejemplo, en el cuadernillo de la prueba, o no cumplimentada de acuerdo con estas
 instrucciones, no se tendrá en cuenta.
 marca o señal distinta de las necesarias para contestar el ejercicio.
+
 Utilice bolígrafo (azul o negro) y responda de acuerdo a las instrucciones específicas
 anteriormente facilitadas.
+
 Le recordamos, que si algún dispositivo suena o vibra, aun dentro de un sobre, tendrán que
 abandonar la prueba.
+
 Este cuestionario es propiedad de la Corporación de Radio Televisión Española, S.A. S.M.E.
+
 No se permite la reproducción total o parcial de este cuestionario
+
 TIEMPO MÁXIMO: 180 MINUTOS
-carácter objetivo
-ter objetiv
-tipo 
+
 po
-eguntas 
-gunt
-principales 
-principale
+
 m
-licación, que solo pun
-, que solo pun
-do contemplar
-ntemplar todas.
-tod
-s alternativas
-rnativas y s
+
+s 
+ 
 y
-olo 
-olo
-ones.
-guiente:
-estada correctamente
-correctamente
-a no contestada, con
-ontestada, 
-es o contestada con do
-ontestada con d
-pregunta con contesta
-egunta con contes
-ba lo requiere, s
-ba lo requiere, se faci
-e faci
-uerde anotar las 
-otar las re
+
+
+
+
+
+
 re
-orrespondiente
-rrespo
-. Cualq
-Cual
-ejemplo,
-ejemplo, en el cua
-instrucciones,
-instr
+ 
 no
-marca o seña
-arc
-Utilice b
-ilice b
-nter
-ter
+
 
 1. ¿Cuál de estos objetivos es el más adecuado para montar en la cámara máster de un partido de fútbol en
 un estadio olímpico?
+
 a) 4,5x.
+
 b) 23x.
+
 c) 72x.
+
 d) 100x.
+
 2. ¿En qué consiste la “ley del semicírculo o de los 180º”?
+
 a) Definir el eje de acción y situar los puntos de vista siempre a uno de sus lados.
+
 b) Colocar siempre las cámaras de un plano-contraplano enfrentadas 180º.
+
 c) Colocar las cámaras en un ángulo de 180º del eje de acción en el plano-contraplano.
+
 d) Definir la esencia que moviliza la fuerza de la imagen y la actitud del actor en su personaje.
+
 3. En la preparación de un documental para su venta en el extranjero, ¿qué sonidos incorporarías en la pista
 de sonido internacional?
+
 a) Todos.
+
 b) Músicas, ambientes y los totales de los entrevistados.
+
 c) Músicas, ambientes y off.
+
 d) Ambientes y traducciones.
+
 4. ¿Qué es un ID?
+
 a) Un tipo de fichero utilizado en documentación para archivar un material gráfico.
+
 b) Un filtro de cámara para atenuar la iluminación entrante en el objetivo.
+
 c) Un identificador asignado a un clip de vídeo.
+
 d) Un punto de entrada en un archivo digital.
+
 5. ¿Qué entendemos por FTP?
+
 a) Es el protocolo que hace posible el envío de correos electrónicos a través de internet.
+
 b) Es el protocolo para descargar y transferir ficheros a través de internet.
+
 c) Es el protocolo por excelencia para la creación de páginas web.
+
 d) Es el protocolo para poder montar una secuencia en edición on-line.
+
 6. ¿Qué es la señal “pool” de un evento?
+
 a) La señal de un evento, principalmente deportivo, que se realiza compartiendo los medios de varias cadenas de
 televisión.
+
 b) La señal de un evento, principalmente institucional, que realiza una única cadena de televisión o productora
 audiovisual y que lo distribuye al resto de las cadenas.
+
 c) La señal de un evento que por cuestiones de seguridad para los aprticipantes lo realiza y emite una única cadena
 de televisión.
+
 d) La señal en exclusiva de un evento.
+
 7. ¿Cómo se denomina al estudio y análisis del guion técnico, que da lugar al plan de trabajo en una
 grabación?
+
 a) Escaleta.
+
 b) Minutado.
+
 c) Desglose.
+
 d) Guion literario.
+
 Página 1 de 20
-naje.
-idos incorporarías en 
-incorporarías en
-ar un material gráfico.
-aterial gráfico.
-te en el objetivo.
-el objetivo
-vío de correos electróni
-correos electrón
-ansferir ficheros a travé
-ir ficheros a trav
-para la creación de pág
-creación de p
-montar una secuencia e
-ar una secuenc
-” de un evento?
-de un evento?
-ento, principalmente de
-cipalmente de
-un evento, principalme
-vento, principalm
-al y que lo distribuye a
-distribuye a
-al de un evento que po
-l de un evento que po
-elevisión.
-sión
-a señal en exclusiva de
-a señal e
-Cómo se denomin
-ómo se deno
-bación?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 n?
-eta.
+
 a.
 
 8. Hacer “render” es:
+
 a) Montar en técnica digital.
+
 b) Un sistema de edición paralelo a la escritura del guión.
+
 c) El cálculo que el sistema de edición no lineal tiene que hacer en los efectos para hacerlos visibles y utilizables.
+
 d) Es la cesión de imágenes por razones informativas sin que se puedan superar los 3 minutos de duración por
 entrega.
+
 9. ¿Cuándo comunica mejor el testimonio de un personaje a cámara?
+
 a) Mirando a cámara.
+
 b) Con el cielo despejado.
+
 c) Mirando al entrevistador.
+
 d) A contraluz.
+
 10. ¿Qué precaución debemos tomar en una realización multicámara de un evento que transcurre en un
 decorado circular?
+
 a) Que no se vean las cámaras entre sí.
+
 b) Tener siempre una grúa como plano recurso para poder saltarse el eje.
+
 c) Situar las cámaras en uno de los dos semicírculos.
+
 d) Colocar todas las cámaras a la misma altura.
+
 11. ¿Quién inventó el montaje por atracción?
+
 a) Griffit.
+
 b) Einsestein.
+
 c) Pudovkin.
+
 d) Dziga Vertov
+
 12. La escaleta es:
+
 a) Una relación de secuencias ordenadas narrativamente.
+
 b) Una descripción precisa de los planos rodados con su localización.
+
 c) Una narración audiovisual en forma de texto.
+
 d) Una plantilla que aporta información sobre cambios de escenarios y tiempos de rodaje.
+
 13. El área destinada a incrustar o emitir imágenes que constituyen la identidad corporativa de la cadena se
 denomina:
+
 a) Área de emisión.
+
 b) Área de continuidad.
+
 c) Área de realización.
+
 d) Área de postproducción.
+
 14. ¿Qué es el Cross cutting?
+
 a) Es un montaje en el que los personajes se dirigen hacia un punto de encuentro en el que los espacios diferentes
 se fundirán en uno solo.
+
 b) Es un montaje que ordena las acciones en forma de sucesión temporal pero éstas no son simultáneas.
+
 c) Es un montaje sucesivo de acciones que en el tiempo ficcional suceden simultáneamente en espacios diferentes.
+
 d) Es un montaje en el que el contenido de la toma está subordinado a la duración.
+
 15. ¿A qué denominamos etalonaje?
+
 a) Al ajuste en parámetros técnicos de una producción audiovisual.
+
 b) Es un término que hace referencia al calzado y al vestuario.
+
 c) Al ajuste en parámetros de colorimetría de una producción audiovisual.
+
 d) Al ajuste en parámetros sonoros de una producción audiovisual.
+
 Página 2 de 20
-vento que transcurre
-o que transcurr
-s narrativamente.
-tivamente.
-nos rodados con su loca
-dados con su lo
-orma de texto.
-text
-ormación sobre cambios
-ión sobre cam
-crustar o emitir imáge
-ustar o emitir imág
-nuidad.
-ad.
-ealización.
-ealiz
-de postproducción.
-postpro
-Qué es el Cross cutting
-ué es el 
-Es un montaje en el 
-s un mon
-e fundirán en uno
-e fundirán en u
-n montaje
-ontaje
+
+
+
+
+
+
+
+
+
+
+
+
+
 on
 on
 
 16. En función de la idea o significado, el montaje puede ser:
+
 a) Narrativo, expresivo o ideológico.
+
 b) Primario, simultáneo o narrativo.
+
 c) Rítmico o implicacional.
+
 d) Métrico, tonal o intelectual.
+
 17. El guion técnico:
+
 a) Es un guion a “dos columnas”: La de la izquierda para el vídeo y la de la derecha para el audio.
+
 b) Es el guion de trabajo de realización que da lugar al listado de planos.
+
 c) Debe informarnos de la historia audiovisual, de los personajes, sus diálogos, los lugares, etc.
+
 d) Se divide en secuencias numeradas que son encabezadas con las indicaciones localización y luz.
+
 18. El objetivo cuya distancia focal es menor que la diagonal del formato se denomina:
+
 a) Gran angular.
+
 b) Teleobjetivo.
+
 c) Normal.
+
 d) Medio.
+
 19. Un círculo de confusión:
+
 a) Se forma delante del plano focal.
+
 b) Se forma cuando la imagen no está enfocada.
+
 c) Se forma detrás del plano focal.
+
 d) Se forma por la diferencia de paralaje del visor.
+
 20. Si alimentamos un vectorscopio con una señal en blanco y negro, ¿qué haremos para comprobar que la
 señal es correcta?
+
 a) Comprobaremos que los blancos tienen un valor de 0,70V y los negros de 0V.
+
 b) Colocaremos el barrido a frecuencia de línea para poder monitorizar la señal.
+
 c) Un vectorscopio no representa señales de blanco y negro.
+
 d) Colocaremos el barrido a frecuencia de campo para poder monitorizar la señal.
+
 21. ¿Cuál es el tratamiento de un programa dramático?
+
 a) El tratamiento es casi rutinario, concentrándose en planos sobre los diálogos, las respuestas, preguntas, etc.
+
 b) Utilizan a veces escenas sencillas para elaborar presentaciones cuyas imágenes y sonidos precisan de un
 considerable tratamiento ulterior de postproducción.
+
 c) Estos programas siguen un proceso planificado muy cuidadosamente, ya que el trabajo de cámara, sonido e
 iluminación tiene que ser exacto.
+
 d) La mayor parte de estos programas siguen el formato realista. La producción se realiza en el decorado.
+
 22. ¿Cuál de los siguientes tipos de modulación se utiliza comúnmente en la televisión digital terrestre (TDT)?
+
 a) Modulación de amplitud (AM).
+
 b) Modulación de frecuencia (FM).
+
 c) Modulación digital de cuadratura (QAM).
+
 d) Modulación de fase (PM).
+
 Página 3 de 20
-ón y luz.
-uz.
-na:
-ñal en blanco y negro
-n blanco y ne
-un valor de 0,70V y los 
-lor de 0,70V y los 
-de línea para poder mo
-ea para poder mo
-eñales de blanco y negro
-de blanco y negr
-uencia de campo para p
-campo para
-e un programa dramát
-e un programa dramá
- rutinario, concentrándo
-nario, concentrándo
-escenas sencillas para
-escenas sencillas para
-atamiento ulterior de p
-tamiento ulterior de
-ramas siguen un proce
-iguen un proc
-ón tiene que ser exact
-ón tiene que ser exact
-ayor parte de estos prog
-or parte de estos prog
-Cuál de los siguientes t
-uál de lo
-Modulación de ampli
-Modulació
-odulación de fre
-ción de fr
-ación d
-ción d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 23. ¿Cuál de las siguientes afirmaciones describe mejor la relación entre los keyframes y la curva de velocidad
 en una animación?
+
 a) Los keyframes solo se utilizan en animaciones 3D, mientras que las curvas de velocidad son exclusivas de la
 animación 2D.
+
 b) Los keyframes determinan la velocidad, mientras que la curva de velocidad define la posición.
+
 c) La curva de velocidad modifica la rapidez con la que se mueve un objeto entre dos keyframes.
+
 d) Los keyframes y las curvas de velocidad son términos sinónimos.
+
 24. ¿Cuál de las siguientes afirmaciones sobre el uso del osciloscopio en la industria de la televisión es
 correcta?
+
 a) Los osciloscopios son dispositivos obsoletos en la industria de la televisión moderna, ya que han sido
 reemplazados completamente por software de análisis de señal en computadoras.
+
 b) El osciloscopio se utiliza principalmente para medir la intensidad de la señal de audio en las transmisiones de
 televisión, y no tiene aplicación en la visualización de señales de video.
+
 c) Un osciloscopio digital permite a los técnicos observar y analizar las formas de onda de las señales de video y
 audio, facilitando la identificación de problemas de sincronización y calidad de señal.
+
 d) El osciloscopio solo puede ser utilizado para medir señales analógicas, por lo que no es útil en la evaluación de
 señales digitales en la televisión moderna.
+
 25. Durante una videoconferencia internacional con múltiples participantes, ¿cuál de las siguientes opciones
 representa el mayor desafío para garantizar una comunicación fluida y de alta calidad?
+
 a) La elección de una plataforma de videoconferencia popular y conocida.
+
 b) La calidad de la conexión a internet del anfitrión de la reunión.
+
 c) La capacidad de la plataforma para compartir pantallas simultáneamente.
+
 d) La diversidad de dispositivos y sistemas operativos utilizados por los participantes.
+
 26. ¿Cuál de las siguientes opciones describe mejor la función de un plano secuencia en una secuencia de
 diálogo intenso entre dos personajes?
+
 a) Transmitir la tensión y la intimidad del momento de forma continua.
+
 b) Crear una sensación de objetividad y distanciamiento emocional.
+
 c) Destacar la importancia de los elementos del entorno sobre los personajes.
+
 d) Separar claramente las intervenciones de cada personaje.
+
 27. ¿Cuál de las siguientes afirmaciones describe con mayor precisión un aspecto técnico y narrativo del uso
 del plano y contraplano para establecer la relación entre los personajes y la dinámica de la conversación?
+
 a) El plano y contraplano se utilizan exclusivamente en diálogos entre dos personajes, sin embargo, su aplicación no
 tiene impacto en la construcción de la tensión dramática o en la percepción emocional del espectador.
+
 b) La técnica del plano y contraplano permite al editor manipular la continuidad temporal de una conversación, ya
 que puede intercalar planos de reacción de otros personajes para alterar la percepción del tiempo transcurrido
 durante el diálogo.
+
 c) El uso incorrecto del plano y contraplano puede resultar en confusión espacial para el espectador, especialmente
 si no se respeta la regla de los 180 grados, lo que puede llevar a una ruptura en la coherencia narrativa y a una
 disminución de la inmersión en la historia.
+
 d) La implementación del plano y contraplano es irrelevante en escenas de acción, ya que estas dependen más de
 cortes rápidos y efectos visuales que de la interacción entre personajes.
+
 Página 4 de 20
-a, ya q
-io en las transmisi
-o en las transmis
- onda de las señales d
-de las señales d
-de señal.
-ñal.
-or lo que no es útil en l
-ue no es útil en l
-cipantes, ¿cuál de las
-cipantes, ¿cuál de la
-ón fluida y de alta cal
-fluida y de alta c
-conocida.
-ión.
-s simultáneamente.
-ltáneamente.
-s utilizados por los partic
-dos por los pa
-mejor la función de u
-r la función de
-momento de forma contin
-to de forma cont
-y distanciamiento emoc
-anciamiento emoc
-ementos del entorno so
-tos del entorno so
-venciones de cada perso
-nes de cada pers
-afirmaciones describe
-afirmaciones describe
-no para establecer la r
-para establecer la 
-ano se utilizan exclusiv
-izan exclusiv
-n la construcción de la t
-la construcción de 
-del plano y contraplano 
-o y contraplano
-e intercalar planos de 
-e intercalar planos de 
-e el diálogo.
-el diálo
-uso incorrecto del plano
-uso incorrect
-si no se respeta la regla
- no se re
-disminución de la inm
-isminució
-a implementació
-implementaci
-es rápidos 
-ápidos 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 28. ¿Cuál de las siguientes afirmaciones describe mejor el impacto del rango dinámico en la calidad de imagen
 de una transmisión televisiva?
+
 a) El rango dinámico se refiere únicamente a la cantidad de colores que puede mostrar un televisor, sin afectar la
 luminosidad de la imagen.
+
 b) Un mayor rango dinámico permite que las imágenes tengan más detalles tanto en las áreas más oscuras como en
 las más brillantes, mejorando la experiencia visual.
+
 c) El rango dinámico es irrelevante en la televisión moderna, ya que todos los televisores actuales tienen la misma
 capacidad de reproducción de luz.
+
 d) El rango dinámico solo es importante en la producción de películas, pero no tiene impacto en la transmisión de
 programas de televisión en vivo.
+
 29. ¿Qué es el minutado?
+
 a) Relación de las secuencias ordenadas relativamente.
+
 b) Es una síntesis que nos permite apreciar las posibilidades reales del proyecto.
+
 c) El minutado es la guía o referencia a seguir por el realizador y todo su equipo.
+
 d) La descripción precisa de los planos rodados.
+
 30. Si el grafista nos da un Logotipo con su señal de key y nos dice que está precortado o premultipicado. Se
 refiere a:
+
 a) La señal de key ha sido multiplicada por la señal de fill.
+
 b) La señal de fill ha sido multiplicada por la señal de key.
+
 c) Las señales de fill y key han sido cortadas a unas dimensiones determinadas.
+
 d) La señal de Key ha sido precortada en luminancia.
+
 31. ¿Qué contenido está obligado a guardar el Archivo de RTVE durante un tiempo determinado?
+
 a) La emisión tal cual se ha emitido.
+
 b) La emisión tal cual se ha emitido y una copia de emisión sin rótulos.
+
 c) La emisión tal cual se ha emitido, una copia de emisión sin rótulos y los brutos del rodaje.
+
 d) Una copia de la Emisión sin rótulos.
+
 32. Que ocurre si seleccionas una señal en el bus de EDIT PREVIO de un Mezclador Sony de la serie XVS y en
 el monitor del control asignado para ello no puedes ver la señal seleccionada.
+
 a) El EDIT PREVIO no está asignado a un output del mezclador.
+
 b) No se pueden seleccionar señales en un EDIT PREVIO.
+
 c) No existe el Bus de EDIT PREVIO.
+
 d) Sony no tiene EDIT PREVIO.
+
 33. ¿Qué es la señal N-1 de un retorno de audio?
+
 a) Las señales de audio del programa menos las de órdenes del realizador.
+
 b) Las señales de audio del programa menos la señal de la fuente a la que se le va a efectuar el envío.
+
 c) Las señales de audio del programa menos la señal de los monitores de audio del estudio.
+
 d) Las señales de audio del programa, con las órdenes del realizador, menos las señales exteriores.
+
 Página 5 de 20
-e está precortado o pr
-ecortado o p
-nes determinadas.
-eterminadas.
-vo de RTVE durante un
-TVE durante
-a de emisión sin rótulos
-isión sin rótulos
-opia de emisión sin rótu
-e emisión sin rót
-señal en el bus de ED
-en el bus de
-ado para ello no puede
-ara ello no pued
-asignado a un output de
-do a un output d
-onar señales en un EDIT
-ar señales en un ED
-e EDIT PREVIO.
-REVIO
-EDIT PREVIO.
-DIT P
-señal N-1 de un retorn
-señal N-1 de un retorn
-ñales de audio del prog
-ales de audio del prog
-s señales de audio del p
-s señales de 
-Las señales de audio d
-as señale
-Las señales de aud
-as señales de a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 34. En el rodaje de una entrevista grabamos 9 planos con los tiros de cámara que vemos en la imagen, si no
 queremos saltarnos el eje, cuál sería el orden de montaje correcto.
+
 a) 1, 3, 9, 4, 8, 2, 6, 5, 7.
+
 b) 1, 3 ,4, 9, 5, 6, 7, 8, 2.
+
 c) 2, 1, 4, 9, 3, 6, 7, 5, 8.
+
 d) 3, 1, 4, 9, 8, 2, 5, 6, 7.
+
 35. Tenemos una señal de fill con canal alfa acoplado y hacemos un Key de luminancia lineal en Autoselect, sin
 invertir. ¿Como será el resultado dependiendo de la luminancia de los pixeles de la señal de fill?
+
 a) Los pixeles blancos serán opacos, los negros transparentes, y el resto en correspondencia con su luminancia.
+
 b) Los pixeles negros serán opacos, los blancos transparentes, y el resto en correspondencia con el inverso a su
 luminancia.
+
 c) Es indiferente la luminancia de los pixeles.
+
 d) Los pixeles blancos serán opacos, los negros transparentes, y el resto en correspondencia con el inverso de su
 luminancia.
+
 Página 6 de 20
-9, 4, 8, 2, 6, 5, 7.
-4, 8, 2, 6
- 3 ,4, 9, 5, 6, 7, 8, 2.
-3 ,4, 9, 5, 6,
-2, 1, 4, 9, 3, 6, 7, 5, 8
-, 1, 4, 9, 3
-1, 4, 9, 8, 2, 5, 
-1, 4, 9, 8, 2, 5
-os una 
-una
+
+
+
+
+
 Co
 C
 
 36. ¿Qué significa que una señal tiene una frecuencia de muestreo 4:2:2?
+
 a) El 4 establece que la luminancia se muestrea en cada pixel producido, mientras que Cr y Cb se muestrean cada
 2.
+
 b) El 4 establece que la luminancia se muestrea cada 4 pixeles producidos, mientras que Cr y Cb se muestrean
 cada 2.
+
 c) El 4 establece que la luminancia se muestrea en cada pixel producido, mientras que Y+R e Y+B se muestrean
 cada 2.
+
 d) El 4 establece que la luminancia se muestrea cada 4 pixeles producidos, mientras que Y+R e Y+B se muestrean
 cada 2.
+
 37. Si queremos obtener una incrustación realista y sin problemas en un decorado virtual:
+
 a) Iluminamos al personaje para que no desentone con el decorado virtual, pero no es necesario iluminar el fondo
 porque será sustituido por el decorado virtual.
+
 b) La iluminación no es importante ya que el decorado es virtual y sustituirá el fondo.
+
 c) Iluminamos al personaje para que no desentone con el decorado virtual, y el fondo lo iluminamos uniformemente.
+
 d) Iluminamos al personaje para que no desentone con el decorado virtual y lo pegamos al fondo para que se
 recorte mejor.
+
 38. En los auxiliares que mandamos a pantallas durante una gala, ¿podríamos hacer mezclas y cortinillas
 (wipes) entre señales utilizando exclusivamente el auxiliar?
+
 a) En los auxiliares solo se puede conmutar por corte. Es un preselector donde se conmutan señales.
+
 b) Se podría mezclar pero no hacer cortinillas. Dependerá del mezclador que haya porque no todos pueden hacerlo.
+
 c) Se podría mezclar y hacer cortinillas. Dependerá del mezclador que haya porque no todos pueden hacerlo.
+
 d) ¿Quién querría hacer eso en una pantalla?
+
 39. El titulador entrega una señal de key que no incluye una parte donde hay señal en el fill. ¿Qué tipo de Key
 hacemos para que no se incruste la parte del fill que no lleva señal de key? No puedes utilizar mascaras.
+
 a) Chroma key.
+
 b) Key mixto.
+
 c) key de luminancia aditivo.
+
 d) Key de luminancia no aditivo.
+
 40. ¿Para qué puede servir una LUT 3D?
+
 a) Para modelar una imagen 3D en Davinci Resolve.
+
 b) Para sustituir un prisma dicroico en un monitor.
+
 c) Para revelar una imagen Raw sin procesar en cámara.
+
 d) Para transformar el espacio de color de una imagen.
+
 41. Tenemos un Plató con 3 SET. Una mesa de tertulias con 2 presentadores en el centro y 2 tertulianos a cada
 lado, un sofá donde hay hasta siete personas y un set con fondo de pantallas en L. Disponemos de 7
 cámaras, de las cuales la cámara nº 7 es una Cabeza Caliente, y 2 monitores (A y B) para seguir el PGM.
 Tenemos 2 cajas de conexiones de 7 salidas cada una en cada lado del estudio donde debemos conectar
 los elementos enunciados. ¿Como hacemos las conexiones de todos los elementos en las 2 cajas, para que
 sean funcionales y tengan los mínimos cruces en cada cambio de set?
+
 a) Entradas CAJA A: 1-CAM 1, 2-CAM 2, 3-CAM 7, 4-MONITOR A.   Entradas CAJA B: 1-CAM 6, 2- CAM 5, 3-CAM
 4, 4-CAM 3, 5-MONITOR B.
+
 b) Entradas CAJA A: 1-CAM 1, 2-CAM 2, 3-CAM 3,4-CAM 4, 5-CAM 7, 6-MONITOR A.  Entradas CAJA B: 1-CAM 6,
 2-CAM 5, 3-MONITOR B.
+
 c) Entradas CAJA A: 1-CAM 7, 2-MONITOR A, 3-CAM 1, 4-CAM 2.  Entradas CAJA B:1- CAM 6, 2-CAM 5, 3-CAM
 4, 4-CAM 3, 5-MONITOR B.
+
 d) Entradas CAJA A:1-CAM 1, 2-CAM 2 ,3-MONITOR B.  Entradas CAJA B: 1-CAM 6, 2-CAM 5, 3-CAM 7, 4-CAM 4,
 5-CAM 3, 6-MONITOR A.
+
 Página 7 de 20
-esario ilumin
-ilumin
-do lo iluminamos uniform
-minamos uniform
-y lo pegamos al fondo 
-egamos al fondo
-¿podríamos hacer m
-ríamos hace
-lector donde se conmut
-or donde se conm
-mezclador que haya por
-ador que haya por
-zclador que haya porque
-r que haya porqu
-ncluye una parte dond
-e una parte dond
-el fill que no lleva señ
-que no lleva se
-a LUT 3D?
-3D?
-en 3D en Davinci Reso
-n 3D en Davinci Res
-sma dicroico en un mon
-roico en un mo
-a imagen Raw sin proce
-imagen Raw sin proc
-rmar el espacio de colo
- espacio de colo
-s un Plató con 3 SET. U
-un Plató con 3 SET. 
-un sofá donde hay ha
-sofá donde hay h
-maras, de las cuales la
-aras, de las
-enemos 2 cajas de co
-nemos 2 
-os elementos enunc
- elementos e
-n funcionales y
-cionales
-das CAJ
-s CAJ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 M 3
 M 3
 
 42. ¿Cuál de estos software no permite la creación y distribución de contenidos en vivo en televisión?
+
 a) Chayron Prime.
+
 b) Ventuz.
+
 c) After Effects.
+
 d) Vizrt.
+
 43. ¿Qué es un ciclorama?
+
 a) Es una unidad de tiempo en el que varía el arco del personaje.
+
 b) Es una tela lisa que se cuelga; se estira normalmente colgando pesas y se le aplica un listón de madera o tubo en
 el marco interior, para eliminar las arrugas.
+
 c) Es una figura geométrica de nueve puntas cada una de ellas corresponde a un eneatipo que corresponde a un
 rasgo de personalidad de personaje.
+
 d) Es el dato pormenorizado de la audiencia de un programa minuto a minuto.
+
 44. ¿Qué tipo de streaming es el más adecuado para la distribución de transmisiones de audio y vídeo en
 directo?
+
 a) DTV: Televisión digital.
+
 b) Transmisión por secuencias.
+
 c) Descarga progresiva.
+
 d) In-Plane Switching o IPS.
+
 45. ¿Qué es el Tally?
+
 a) Es un recurso narrativo audiovisual a través del cual se crea una situación de gran tensión que busca la atención
 en el espectador.
+
 b) Es un sistema de comunicación utilizado en televisión y eventos como teatro o conciertos para la comunicación
 entre el equipo técnico.
+
 c) Es un formato de sonido envolvente digital discreto que ofrece cinco canales de gama completa más uno de
 efectos de baja frecuencia (LFE).
+
 d) Sistema integrado en las cámaras de estudio y en los propios platós y controles de realización que permiten saber
 cuándo se está en directo y qué cámaras están «pinchadas».
+
 46. ¿Qué es un formato de codificación?
+
 a) Es el estándar desarrollado que indica las reglas y operaciones matemáticas que se realizan por parte de un
 algoritmo de compresión.
+
 b) Es el fichero o stream que contiene los diferentes elementos que lo forman, como son el video codificado, el audio
 codificado, los metadatos, los subtítulos, etc.
+
 c) Es una imagen con la información de diferencia sobre la anterior que puede ser de tipo I o  P, llevando a cabo la
 compensación de movimiento.
+
 d) Es una estructura GOP (Group of Pictures) que especifica el orden en el que los diferentes tipos de imágenes son
 ubicadas.
+
 47. ¿Qué es la Unidad de Control de Cámaras (CCU)?
+
 a) Es el sensor con diminutas células fotoeléctricas que registran la imagen.
+
 b) Es un componente de hardware y la unidad computacional central de un servidor.
+
 c) Es el lugar donde se lleva el cable de cámara de cada estudio a través de una conexión situada en la pared del
 estudio.
+
 d) Es un ajuste que presentan algunas cámaras que te permite ver que zonas de la imagen aparecen
 sobreexpuestas.
+
 Página 8 de 20
-que corres
-corres
-smisiones de audio y
-es de audio y
-e crea una situación de
- una situación de
-evisión y eventos como
-n y eventos como
-tal discreto que ofrece 
-to que ofrec
-e estudio y en los propio
-dio y en los propio
-ámaras están «pinchad
-s están «pinchad
-cación?
-do que indica las regla
-e indica las reg
-ón.
+
+
+
+
+
+
+
+
 n.
-m que contiene los dife
-contiene los dif
-etadatos, los subtítulos,
-etadatos, los subtítulos,
-en con la información de
-on la información d
-ción de movimiento.
-ovimiento.
-estructura GOP (Group
-estructura GOP (Group
+
+
+
 das.s.
-Qué es la Unidad de C
-ué es la 
-Es el sensor con dim
-s el sensor co
-un componen
-omponen
-ugar d
-gar d
+
+
+
+
 
 48. ¿Qué es el streaming?
+
 a) Es un método de distribución de contenidos multimedia a través de redes informáticas, que transmite el contenido
 una vez descargado y almacenado previamente.
+
 b) Es la transmisión de imágenes en movimiento y su sonido asociado (televisión) mediante una señal digital
 (codificación binaria) y a través de una red de repetidores terrestres.
+
 c) Es una tecnología de distribución de contenido multimedia de forma continua, de manera que el usuario consume
 el producto al mismo tiempo que se descarga, sin necesidad de descargarlo previamente.
+
 d) Es un servicio de televisión por suscripción que utiliza señales de satélite para transmitir programación a los
 hogares.
+
 49. ¿Qué es el panel del control del mezclador?
+
 a) Es un conjunto de efectos que hacen posible la conmutación y mezcla de señales de video, presentándolas a la
 salida para su emisión o grabación.
+
 b) Es un conjunto de botones y controles que hacen posible la conmutación y mezcla de señales de video,
 presentándolas a la salida para su emisión o grabación.
+
 c) Es un conjunto de cámaras que hacen posible la conmutación y mezcla de señales de video, presentándolas a la
 salida para su emisión o grabación.
+
 d) Es un conjunto de botones y controles que hacen posible la postproducción de señales de video, presentándolas
 a la salida para su emisión o grabación.
+
 50. En las narrativas interactivas, si hablamos de la técnica de “Juxtapose”¿A qué nos estamos refiriendo?
+
 a) La técnica que sirve para construir una narrativa visual del antes y después.
+
 b) La técnica que nos permite conectar diferentes piezas de vídeo entre sí y después crear un hilo conductor entre
 ellas.
+
 c) A la técnica que permite al espectador la posibilidad de intervenir de tal forma que puede determinar o modificar la
 secuencia.
+
 d) La técnica que permite la superposición de información multimedia haciendo scroll de manera vertical por la
 página.
+
 51. Si necesistas recuperar el estado del mezclador en un momento determinado y de forma inmediata ¿Qué
 usarías?
+
 a) Snapshots.
+
 b) Shotbox.
+
 c) Clip Store.
+
 d) Genlock.
+
 52. Para prevenir las fatigas físicas, visuales y mentales debidas al trabajo prolongado con pantallas de
 visualización de datos se debe:
+
 a) Leer textos que no estén en pantallas, preferiblemente en papel o en tinta digital si no es posible leer textos
 impresos.
+
 b) Alternar el trabajo ante la pantalla con otras tareas, realizando pausas cortas y frecuentes.
+
 c) Realizar alguna pausa de larga duración.
+
 d) Trabajar a un ritmo acelerado, para acabar antes y descansar más tiempo.
+
 53. Si pasamos de un nºf 1.4 a un nºf 22, ¿cuánta luz entra?
+
 a) 8 veces menos.
+
 b) 16 veces menos.
+
 c) 256 veces menos.
+
 d) 512 veces menos.
+
 Página 9 de 20
-eo, presentá
-esentá
-mezcla de señales de
-zcla de señales d
-ñales de video, present
-de video, prese
-ción de señales de vide
-eñales de vid
-uxtapose”¿A qué nos e
-apose”¿A qué no
-tes y después.
-pués.
-e vídeo entre sí y despu
-entre sí y des
-de intervenir de tal form
-ervenir de tal form
-información multimedia
-mación multime
-l mezclador en un mo
-clador en un mo
-s fatigas físicas, visu
-s fatigas físicas, visu
-e datos se debe:
-datos se debe:
-s que no estén en pan
-estén en pan
+
+
+
+
+
+
+
+
+
+
+
+
 s.s.
-nar el trabajo ante la pa
-el trabajo ante la pa
-Realizar alguna pausa d
-ealizar algu
-Trabajar a un ritmo a
-rabajar a 
-samos de u
-os de u
-s men
-men
+
+
+
+
+
 
 54. La digitalización de una señal analógica comprende tres procesos en un orden determinado:
+
 a) Muestreo-cuantificación-codificación.
+
 b) Muestreo-codificación-cuantificación.
+
 c) Codificación-muestreo-cuantificación.
+
 d) Cuantificación-muestreo-codificación.
+
 55. ¿Qué orden de criterio seguiremos para elaborar un plan de trabajo?
+
 a) Orden cronológico-Interpretes-Localizaciones.
+
 b) Equipos de cámara-jornadas de edición-sonorización.
+
 c) Interpretes-Localizaciones-Decorados.
+
 d) Decorados-Localizaciones-Interpretes.
+
 56. ¿Qué técnica de montaje de vídeo sería: “La sucesión de acciones con coincidencia temporal y no espacial,
 pero que terminan coincidiendo en espacio temporalmente”?
+
 a) Montaje paralelo.
+
 b) Montaje discontinuo.
+
 c) Montaje temporal.
+
 d) Last minute rescue.
+
 57. Un archivo gráfico TGA con canal alpha tiene:
+
 a) 24 bits.
+
 b) 32 bits.
+
 c) 10 bits.
+
 d) 8 bits.
+
 58. Cuando en un objetivo vemos el término 20x significa que:
+
 a) La apertura máxima es 20 veces el valor mínimo de exposición.
+
 b) El objetivo tiene una distancia focal de 20mm.
+
 c) Es 20 veces más tele desde su posición máxima angular.
+
 d) Tiene una cobertura de 20 grados desde la diagonal del formato.
+
 59. ¿De qué se encargan los rasterizadores?
+
 a) Permiten el monitorizado y la modificación de alinealidades indeseadas en el sistema de captación y recepción,
 incluye un elemento compensador de la señal en la cadena de señales.
+
 b) Permite el monitorizado de la señal de crominancia presente en la señal de vídeo.
+
 c) Permiten monitorizar señales en HD mientras que se están llevando a cabo sus respectivas representaciones en
 los diferentes dispositivos de control de la señal de vídeo y audio en otro monitor externo.
+
 d) Permite rastrear una señal usando la triangulación  o trilateración hasta encontrar el fallo causado en la señal.
+
 60. ¿De qué forma podemos pasar el eje de acción manteniendo la coherencia espacial y narrativa?
+
 a) Con un movimiento suave de cámara dentro del semicírculo de 180 grados de la acción.
+
 b) Con un gran plano general donde se ve toda la escena desde fuera.
+
 c) Con un contraplano de una cámara situada al otro lado del eje de acción.
+
 d) Con un inserto que provoque la pérdida de referencia espacial.
+
 61. ¿Cuál es el rango legal de una señal de video de 8 bits?
+
 a) Va desde 64 hasta 940.
+
 b) Abarca valores del 16 al 235.
+
 c) Se extiende desde el 0 hasta el 255.
+
 d) Comprende valores desde 256 al 3760.
+
 Página 10 de 20
-ncia temporal y no es
-a temporal y no e
-0x significa que:
-ifica que:
-mínimo de exposición.
-mo de exposición.
-e 20mm.
-mm.
-osición máxima angular
-n máxima angula
-ados desde la diagonal 
-e la diagona
-rasterizadores?
-rasterizadores?
-ado y la modificación d
-y la modificación d
-to compensador de la s
-nsador de la 
-itorizado de la señal de 
-orizado de la señal d
-onitorizar señales en H
-ar señales en H
-ntes dispositivos de co
-ntes dispositivos de co
-ite rastrear una señal us
-rastrear una señal u
-De qué forma podemos
-e qué for
-Con un movimiento s
-Con un mo
-on un gran plan
-gran plan
-n contra
-contr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 62. Tal y como está configurado en la imagen, este mezclador dispone de:
+
 a) Tres bancos de mezcla efectos completos y uno virtual.
+
 b) Dos bancos de mezcla efectos y PP desactivado.
+
 c) Un banco de mezcla efectos dividido en dos y programa.
+
 d) Cuatro bancos de mezcla efectos con el ME1 activado.
+
 63. ¿Quién organiza las entradas y salidas del personal colaborador en un plató?
+
 a) Producción.
+
 b) Realización.
+
 c) Regiduría.
+
 d) Dirección.
+
 64. ¿Qué característica tiene el estándar PQ en HDR?
+
 a) Está basado en la curva Rec.709 y una compresión de las altas luces.
+
 b) Es retrocompatible y tiene metadata.
+
 c) Es un sistema referenciado a la escena.
+
 d) Tiene un pico de brillo máximo de 10 000 cd/m².
+
 Página 11 de 20
-completos y uno virtual
-etos y uno vir
-tos y PP desactivado.
-PP desactiva
-ctos dividido en dos y p
-ctos dividido en dos y p
-ezcla efectos con el ME
-efectos con el ME
-las entradas y salidas
-as entradas y salida
-ón.
-ón.
-duría.
-ía.
-rección.
-rección.
-Qué característica t
-ué carac
-tá basado en 
-sado en 
-ocomp
-comp
+
+
+
+
+
+
+
+
+
+
+
 
 65. Según esta imagen, ¿dónde se asigna la fuente de un key?
+
 a) 1
+
 b) 2
+
 c) 3
+
 d) 4
+
 66. ¿Cuál de las siguientes afirmaciones define mejor una imagen de 1 bit de profundidad de color?
+
 a) Es una imagen completamente oscura.
+
 b) Es una imagen totalmente blanca.
+
 c) Es una imagen monocromática.
+
 d) Es una imagen que no existe.
+
 67. ¿En qué lugar nos encontramos si nos referimos a un decorado combinado?
+
 a) En un set que tiene una o dos paredes de color verde, sin otro tipo de elementos.
+
 b) En un set con un sofá, una mesa de centro y dos paredes laterales con algún cuadro decorativo.
+
 c) En un set donde se mezclan elementos físicos con imágenes y fondos generados digitalmente.
+
 d) En un set con todas las paredes del espacio construidas para brindar una sensación de inmersión.
+
 68. ¿Qué tarea esencial realiza la regidora durante una transmisión en vivo en un plató de televisión?
+
 a) Coordina y supervisa la ejecución en tiempo real, sirviendo de enlace entre realización y el equipo en el plató.
+
 b) Decora el plató con objetos que ayuden a contar la historia y refuercen el ambiente visual.
+
 c) Se encarga del diseño visual y la estética general del set, asegurando que todos los elementos visuales coincidan
 con la narrativa.
+
 d) Se enfoca en la continuidad y coherencia de las escenas, verificando que no haya errores en la secuencia
 narrativa.
+
 69. Para ampliar una imagen conservando sus proporciones originales, debemos:
+
 a) Utilizar la rotación en los ejes X e Y.
+
 b) Cambiar los valores de Aspecto.
+
 c) Modificar la traslación en el eje Z.
+
 d) Variar el tamaño.
+
 Página 12 de 20
-e mejor una imagen de
-r una imagen d
-ntramos si nos referim
-tramos si nos referim
-na o dos paredes de co
-dos paredes de co
-sofá, una mesa de cent
-sofá, una mesa de cent
-de se mezclan element
-se mezclan elemen
-con todas las paredes d
-as paredes d
-area esencial realiza la
-ea esencial realiza la
-oordina y supervisa la e
-oordina y sup
-Decora el plató con ob
-Decora el 
-Se encarga del dis
-e encarga del d
-la narrativa
-arrativa
-oca e
+
+
+
+
+
+
+
+
+
+
+
+
 ca 
 
 70. Durante una transmisión en directo, ¿qué define la señal de retorno enviada desde el mezclador de vídeo?
+
 a) Es la salida de programa del mezclador que se envía a la cámara para visualizar anticipadamente los elementos
 de la transmisión.
+
 b) Es una salida configurable del mezclador que se envía a la cámara para visualizar en tiempo real lo que está en el
 aire.
+
 c) Es la salida del mezclador que se utiliza para revisar y ajustar los gráficos antes de la transmisión.
+
 d) Es una salida de audio del mezclador que permite a las cámaras recibir las órdenes de realización durante la
 emisión.
+
 71. Si una planta de un decorado tiene una escala de 1:100, ¿qué significa?
+
 a) 1 unidad en el plano representa 10 unidades en la realidad.
+
 b) 10 centímetros en el dibujo representa 1 metro en la realidad.
+
 c) 1 unidad en el plano representa 100 unidades en la realidad.
+
 d) 1 centímetro en el dibujo representa 100 metros en la realidad.
+
 72. Aquellos objetivos cuya distancia focal es menor que la diagonal del formato, constituyen el grupo de los
 llamados:
+
 a) Anamorfos.
+
 b) Normales.
+
 c) Teleobjetivos.
+
 d) Angulares.
+
 73. El “plate” en VFX es:
+
 a) El plano grabado que sirve como fondo o punto de partida para integrar efectos visuales.
+
 b) Es el proceso de creación de un esqueleto en la animación de un personaje CGI.
+
 c) Un tipo de cámara utilizada exclusivamente para la captura de movimiento.
+
 d) Una técnica de mezcla de audio para efectos sonoros.
+
 74. ¿Qué se necesita para controlar un sistema EVS desde un mezclador de video durante una producción en
 vivo?
+
 a) IPDirector.
+
 b) DSK.
+
 c) GPI.
+
 d) MOTU M4.
+
 75. ¿Qué utilizamos en un mezclador de video para aplicar transiciones y combinaciones complejas entre
 diferentes fuentes de video?
+
 a) Key Bus.
+
 b) PVW.
+
 c) DSK.
+
 d) M/E.
+
 76. La alimentación “phantom” es necesaria para los:
+
 a) Micrófonos de Condensador.
+
 b) Micrófonos inalámbricos.
+
 c) Micrófonos electroestáticos.
+
 d) Micrófonos dinámicos.
+
 Página 13 de 20
-mato, constituyen el g
-constituyen el
-artida para integrar efec
-para integrar efe
-animación de un person
-ación de un perso
-para la captura de movim
-captura de mov
-ctos sonoros.
-onoros
-sistema EVS desde u
-ma EVS desde u
-s en un mezclador d
-en un mezclador 
-entes de video?
-de v
-SK.
-SK.
-M/E.
-M/E
-limentación “
-ntación “
-onos de
-nos d
+
+
+
+
+
+
+
+
+
+
+
 
 77. Según la Ley de Prevención de Riesgos Laborales, ¿cuántos delegados de prevención debe haber en una
 empresa de 251 a 500 trabajadores?
+
 a) 2.
+
 b) 3.
+
 c) 4.
+
 d) 5.
+
 78. ¿Qué elemento se utiliza en escenografía para elevar la línea del horizonte u ocultar a la vista del público
 equipos de servicio colocados en el suelo?
+
 a) Fermas.
+
 b) Forillos.
+
 c) Riostras.
+
 d) Troneras.
+
 79. ¿Cuántos ejes de mirada hay en una conversación entre cinco personas situadas alrededor de una mesa
 redonda?
+
 a) 5.
+
 b) 8.
+
 c) 10.
+
 d) 12.
+
 80. ¿Cómo se denomina el fragmento de la acción que se desarrolla en una unidad de tiempo y espacio?
+
 a) Secuencia dramática.
+
 b) Plano.
+
 c) Escena.
+
 d) Paradigma.
+
 81. En una grabación de un programa a multicámara, si se realizan unas ventanas con tres cámaras, ¿a cuáles
 de las cámaras se les encenderá el piloto?
+
 a) A ninguna cámara.
+
 b) A la cámara que está en PVW.
+
 c) A las tres cámaras.
+
 d) A la cámara que hayas configurado previamente.
+
 82. En el video interactivo:
+
 a) El espectador solo puede intervenir en los programas en directo.
+
 b) El espectador tiene la posibilidad de intervenir, puede determinar o modificar la secuencia siguiente.
+
 c) El espectador solo puede intervenir si se cuenta la historia de modo lineal.
+
 d) El espectador puede programar el argumento.
+
 83. El artículo 28 de la Ley 31/1995 de prevención de Riesgos Laborales ¿a qué trabajadores protege?
+
 a) Trabajadores fijos de plantilla en la empresa.
+
 b) Trabajadores contratados por empresas de trabajo temporal.
+
 c) Trabajadores que desempeñan una actividad en la empresa sin distinción de su temporalidad.
+
 d) Trabajadores con relación de trabajo fijo o interino en la empresa.
+
 84. ¿Qué códec de audio no tiene compresión?
+
 a) MPEG.
+
 b) WAV.
+
 c) AIFFK.
+
 d) AVC.
+
 Página 14 de 20
-ituadas alrededor de 
-alrededor de 
-esarrolla en una unida
-lla en una un
-multicámara, si se reali
-ámara, si se rea
-piloto?
+
+
+
 o?
+
 W.
-s configurado previame
-onfigurado previame
-tivo:
-solo puede intervenir e
-o puede intervenir e
-dor tiene la posibilidad 
-a posibilidad 
-ectador solo puede inter
-ctador solo puede inte
-espectador puede progr
-espectador p
-El artículo 28 de la Ley
-artículo 2
-rabajadores fijos 
-abajadores fijo
-ajadores c
-dores c
+
+
+
+
+
+
+
+
+
+
 or
 or
 
 85. ¿Cuál es la relación de aspecto del formato universal de alta definición y televisión digital 16:9?
+
 a) 1.85:1.
+
 b) 2.39:1.
+
 c) 1.33:1.
+
 d) 1.77:1
+
 86. ¿Cómo debe ser la estructura de un estudio de televisión?
+
 a) Diáfano, suelo nivelado, insonorizado, con sistema de ventilación, con un acceso de gran tamaño y parrilla de
 iluminación.
+
 b) Diáfano, insonorizado, con un acceso de gran tamaño, con un tamaño superior de 50 m cuadrados y altura de
 techo superior a 6 metros.
+
 c) Diáfano, insonorizado, con un acceso de gran tamaño, con un tamaño superior a 100 m cuadrados, con ciclorama
 y parrilla de iluminación.
+
 d) Diáfano, suelo nivelado, insonorizado, con sistema de ventilación, con altura de techo superior a 5 metros y con
 un acceso de gran tamaño.
+
 87. ¿Cómo se denomina la distorsión que se produce cuando en detalles finos de la imagen aparecen patrones
 de interferencia?
+
 a) Rolling Shutter.
+
 b) Burst.
+
 c) Aliasing.
+
 d) Jaggies.
+
 88. ¿Cómo se llama el método que consiste en añadir dos franjas negras horizontales para ocupar la totalidad
 del espacio sin tener que modificarla relación de aspecto de la imagen?
+
 a) Lineboxing.
+
 b) Franeboxing.
+
 c) Letterboxing.
+
 d) Paineboxing.
+
 89. ¿Qué sistema de representación de color se basa en el brillo, matiz y saturación?
+
 a) Diagrama UCS.
+
 b) Sistema NCS.
+
 c) Triángulo de Maxwell.
+
 d) Munsell.
+
 90. ¿Qué es el “Plot” en un guion?
+
 a) La trama o conflicto de la historia principal.
+
 b) La parte de la historial que se desarrolla en el mismo espacio.
+
 c) El punto de vista de un personaje en off.
+
 d) El intercambio de discurso entre personajes.
+
 91. Desde el módulo de transiciones de un mezclador de video ¿qué permite activar las cortinillas?
+
 a) Nam.
+
 b) DSK.
+
 c) Wipe.
+
 d) Super mix.
+
 Página 15 de 20
-adra
-cuadrados, con 
-ados, con 
-echo superior a 5 metr
-superior a 5 met
-nos de la imagen apar
-e la imagen apar
-dos franjas negras ho
-anjas negras h
-e aspecto de la imagen
-to de la imag
-n de color se basa en 
-olor se basa
+
+
+
+
+
+
+
 l.
-Plot” en un guion?
-n un guion?
-o conflicto de la historia
-o conflicto de la histori
-arte de la historial que se
-de la historial que s
- punto de vista de un pe
-punto de vis
-El intercambio de disc
-l intercam
-de el módulo 
-módulo 
+
+
+
+
+
+
 
 92. ¿Qué es un plató?
+
 a) Un complejo necesario para poner un programa en antena.
+
 b) Un espacio físico donde se ubica el decorado.
+
 c) Un conjunto de elementos que configura la ambientación.
+
 d) Un conjunto de decorado y control de grabación para la realización de un programa.
+
 93. ¿Cuál de las siguientes se considera falta grave?
+
 a) Simular la presencia de otra persona contestando, firmando o fichando por ella la entrada o salida del trabajo o
 cualquier hoja de control de presencia.
+
 b) La inasistencia al trabajo, injustificada o sin autorización, de un día en el período de un mes.
+
 c) No atender a superiores o subordinados con la corrección y diligencias debidas.
+
 d) Demora injustificada en la ejecución del trabajo a realizar.
+
 94. Al personal que disponga de complemento de disponibilidad 2 o 3 se le podrá cambiar el horario y/o la
 jornada previamente fijada:
+
 a) Con la disponibilidad 2, tres días; con la disponibilidad 3, seis días por mes natural
+
 b) Tantas veces como sea necesario, siempre y cuando se preavise con al menos 24 horas de antelación.
+
 c) Como máximo 3 días por mes natural.
+
 d) Solo con la disponibilidad 1 se permiten cambios y/o modificaciones de horario.
+
 95. La Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual en su Artículo 102 apartado 2.a dice:
 Los prestadores del servicio público de comunicación audiovisual televisivo lineal en abierto cumplirán las
 siguientes obligaciones:
+
 a) Un mínimo de ochenta por ciento de los programas difundidos subtitulados y, en todo caso, subtitulado de los
 programas emitidos en el horario de máxima audiencia.
+
 b) Un mínimo de noventa por ciento de los programas difundidos subtitulados y, en todo caso, subtitulado de los
 programas emitidos en el horario de máxima audiencia.
+
 c) Un mínimo de veinte horas semanales de programas que incluyan lengua de signos, prioritariamente emitidos en
 horario de máxima audiencia.
+
 d) Un mínimo de doce horas semanales de programas que incluyan lengua de signos, prioritariamente emitidos en
 horario de máxima audiencia.
+
 96. ¿Qué jornada máxima permite desarrollar un complemento de jornada de rodaje?
+
 a) No hay límite de jornada.
+
 b) 10 horas.
+
 c) 15 horas.
+
 d) 12 horas.
+
 97. ¿Cuáles son las tres franjas de protección reforzada para el público infantil, entendiendo por tal a los
 menores de trece años, según la Ley General de la Comunicación Audiovisual?
+
 a) Desde las 6 hasta las 22 horas.
+
 b) Entre las 8 y las 9 horas y entre las 17 y las 20.
+
 c) Entre las 8 y las 9 horas y entre las 17 y las 20 horas en días laborables y entre las 9 y las 12 horas los días 1 y 6
 de enero, Viernes Santo, 1 de mayo, 12 de octubre, 1 de noviembre y 6,8 y 25 de diciembre.
+
 d) Entre las 8 y las 9 horas y entre las 17 y las 20 horas en días laborables y entre las 9 y las 12 horas sábados,
 domingos y fiestas de ámbito estatal.
+
 98. ¿Cuántas horas de jornada máxima ordinaria efectiva pueden hacerse con el complemento de jornada de
 rodaje, según el artículo 54 del III Convenio Colectivo de RTVE?
+
 a) 12 horas.
+
 b) 10 horas.
+
 c) 14 horas.
+
 d) NO existe límite de horas.
+
 Página 16 de 20
-drá cambiar el horari
-cambiar el horar
-natural
-menos 24 horas de ante
-4 horas de an
-es de horario.
-s de horario.
-Audiovisual en su Art
-visual en su Art
-audiovisual televisivo 
-isual televisiv
-as difundidos subtitulad
-ndidos subtitulad
-udiencia.
-gramas difundidos sub
-as difundidos su
-ma audiencia.
-encia.
-de programas que inclu
-ogramas que inc
-nales de programas que
-de programas qu
-mite desarrollar un co
-esarrollar un c
-da.
-son las tres franjas 
-son las tres franjas 
-res de trece años, se
-de trece años, se
-esde las 6 hasta las 22
-esde las 6 h
-Entre las 8 y las 9 ho
-ntre las 8
-ntre las 8 y las 9
-s 8 y las 
-nero, Viern
-o, Vier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 s 8
 s 8
 
 99. En un año natural ¿Cuánto será el máximo de jornadas irregulares, dentro de convenio, que permite la
 Corporación RTVE?
+
 a) 7 jornadas.
+
 b) 5 jornadas.
+
 c) 10 jornadas.
+
 d) 24 jornadas.
+
 100. ¿Qué es una comisión de servicio según el III convenio colectivo de RTVE
+
 a) Una bonificación adicional por prestar servicio a una empresa ajena a la corporación de RTVE.
+
 b) Misión o cometidos especiales en otra localidad o lugar distinto donde se presta ordinariamente el trabajo.
+
 c) Un tipo de horario laboral no continuado, rotativo y de variabilidad horaria.
+
 d) Una retribución por un trabajo de producción de larga duración.
+
 101. ¿Qué compromiso asume RTVE en cuanto a la formación de sus empleados dentro del II Plan de Igualdad?
+
 a) Formación obligatoria para todos los empleados, especialmente para los mandos intermedios, sobre igualdad de
 género, acoso sexual y derechos de conciliación.
+
 b) Formación exclusiva para mujeres sobre conciliación laboral.
+
 c) Cursos sobre liderazgo femenino solo para altos cargos.
+
 d) Formación opcional sobre igualdad de género y derechos laborales.
+
 102. De acuerdo con el Estatuto de los Trabajadores, un trabajador, con al menos un año de antigüedad en la
 empresa, tiene derecho a situarse en excedencia voluntaria por un plazo:
+
 a) No menor a cuatro meses y no mayor a cinco años.
+
 b) No menor a tres meses y no mayor a cuatro años.
+
 c) No menor a un mes y no mayor a tres años.
+
 d) No menor a dos meses y no mayor a un año.
+
 103. En el III Convenio Colectivo de RTVE, ¿cuántos días de vacaciones corresponden a un empleado
 anualmente?
+
 a) 23 días laborables.
+
 b) 24 días laborables.
+
 c) 25 días laborables.
+
 d) 26 días laborables.
+
 104. Según la ley 13/2022 de 7 de julio, de conformidad con el Plan Técnico Nacional correspondiente, ¿qué
 porcentaje máximo del espacio radioeléctrico disponible para el servicio de televisión de ámbito estatal se
 reservará o se adjudicará a la Corporación de Radio Televisión Española?
+
 a) 25%.
+
 b) 20%.
+
 c) 15%.
+
 d) 10%.
+
 105. ¿Cuál es la forma en que se transmite la señal de Televisión Digital Terrestre (TDT)?
+
 a) Se envía mediante ondas hertzianas desde estaciones terrestres y puede ser recibida por sistemas de cable o
 satélite en los edificios.
+
 b) Se emite a través de ondas hertzianas por el aire, sin necesidad de cable o satélite, y se recibe mediante antenas
 UHF convencionales.
+
 c) Se transmite usando ondas de radio terrestres que viajan a través de la atmósfera vía satélite y son captadas por
 antenas UHF estándar.
+
 d) Se puede recibir a través de una conexión a Internet o un decodificador digital especializado.
+
 Página 17 de 20
-e el t
-entro del II Plan de Igu
-del II Plan de Igu
-dos intermedios, sobre 
-termedios, sobre
-es.
-ajador, con al menos 
-, con al menos 
-ntaria por un plazo:
-por un plazo:
+
+
+
+
+
+
 o.
-TVE, ¿cuántos días 
-¿cuántos días 
-022 de 7 de julio, de 
-022 de 7 de julio, de 
-imo del espacio radio
-mo del espacio rad
-se adjudicará a la Corp
-dicará a la Cor
-5%.
-5%.
-10%.
+
+
+
+
 0%
-ál es la forma
-la forma
-vía me
-a me
+
+
 
 106. ¿Cuál es el códec estándar utilizado para la transmisión de televisión UHD Broadcast en España?
+
 a) Es el mismo códec que se usa en la emisión HD.
+
 b) Versatile Video Coding (VVC).
+
 c) Es el códec HEVC (High Efficiency Video Coding).
+
 d) Es el códec H.264.
+
 107. ¿Cuál es una de las principales causas de la fatiga visual en los trabajadores que utilizan pantallas de
 visualización, según la Guía Técnica del RD 488/1997?
+
 a) Mala calidad de la pantalla.
+
 b) Ajustes frecuentes del ojo a diferentes distancias.
+
 c) Exceso de brillo en la pantalla.
+
 d) Tiempo prolongado sin interrupciones.
+
 108. Según la imagen, ¿qué ocurrirá cuando pulsemos la tecla Auto?
+
 a) Veremos un encadenado de background y las fuentes de key 2 y key 3 aparecerán en programa.
+
 b) Veremos cómo, mediante una cortinilla, el background y las keys 1 y 2 cambian por las keys 3 y 4.
+
 c) Veremos una cortinilla que elimina las keys 2 y 3 de programa, manteniendo la misma imagen de background.
+
 d) Veremos una cortinilla que cambia la imagen del background y retira las keys 2 y 3 simultáneamente.
+
 109. El término “source” en un mezclador de vídeo se refiere a:
+
 a) Fuentes de video con sus atributos asociados.
+
 b) Memorias de salida que identifican cada fuente.
+
 c) La señal de vídeo procesada.
+
 d) El mapeado de fuentes a botones.
+
 Página 18 de 20
-un encadenado de back
-un encadenado de back
-mos cómo, mediante una
-s cómo, mediante una
-remos una cortinilla que
-remos una c
-Veremos una cortinilla
-Veremos u
-érmino “source
-érmino “sourc
-tes de vid
-de vi
+
+
+
+
+
+
+
 s
 
 110. Si ejecutamos una transición entre dos imágenes en la que un borde con forma se mueve a través de la
 pantalla, revelando la nueva imagen mientras la primera desaparece, estamos hablando de:
+
 a) Wipe.
+
 b) Mix.
+
 c) Auto trans.
+
 d) DME wipe.
+
 111. La siguiente secuencia “Snapshot de PP, Pausa de 15fr, Transición Mix de PP, Key1 de PP ToOff” pertenece
 a:
+
 a) Un timeline.
+
 b) Una macro.
+
 c) Una memoria de key.
+
 d) Un snapshot.
+
 112. ¿Cuántas señales están implicadas para incrustar correctamente un self key?
+
 a) 1
+
 b) 2
+
 c) 3
+
 d) Ninguna.
+
 113. ¿Cuál de las siguientes opciones NO es un tipo de key?
+
 a) Additive Key.
+
 b) Linear Key.
+
 c) Preset Pattern.
+
 d) Coring Key.
+
 114. ¿A qué se refiere el término “Show Key” en un mezclador de vídeo?
+
 a) Es la previsualización de los ajustes del key.
+
 b) Es una memoria de key.
+
 c) Es un tipo de key de luminancia.
+
 d) Es la previsualización de la señal de key.
+
 115. ¿A qué corresponde esta secuencia en el Sony XVS 7000?
+
 a) A una cabecera.
+
 b) A una ráfaga.
+
 c) A una realidad aumentada.
+
 d) No se sabe, los datos son insuficientes.
+
 Página 19 de 20
+
 y?
-en un mezclador de v
-ezclador de v
-el key.
+
+
+
 a.
-señal de key.
- de key
-sta secuencia en el So
-a secuencia en el S
+
+
 
 116. En España, ¿cuál es la entidad de gestión de los derechos de autor reconocidos en la Ley de Propiedad
 Intelectual con la que se declara?
+
 a) CEDRO.
+
 b) SAGEM.
+
 c) SGAE.
+
 d) SEMAN.
+
 117. ¿Quién aprobó la Constitución española de 1978?
+
 a) El Congreso de los Diputados.
+
 b) El Senado.
+
 c) Las Cortes Generales.
+
 d) El Rey.
+
 118. Según la Constitución Española, la forma política del Estado Español es la:
+
 a) Monarquía tradicional.
+
 b) Monarquía democrática.
+
 c) Monarquía parlamentaria.
+
 d) Monarquía constitutiva.
+
 119. ¿En qué formato de sensor de cámara es más pronunciado el efecto Bokeh?
+
 a) 2/3”.
+
 b) Super 35mm.
+
 c) Super 16mm.
+
 d) Full Frame.
+
 120. ¿De qué color tienen que ser los cicloramas?
+
 a) De un color neutro para poder iluminarlo.
+
 b) Blanco o negro.
+
 c) Blanco, negro o verde.
+
 d) Puede ser de cualquier color.
+
 Página 20 de 20
-el efecto Bokeh?
-o Bokeh?
+
+
 s?

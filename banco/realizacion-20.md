@@ -25,12 +25,12 @@ d) SUB.
 producción de video es correcta?
 a) XDCAM es un formato que no admite la grabación de video en alta definición (HD) y se utiliza únicamente para
 contenido estándar (SD).
-b) XDCAM  incluye un sistema de gestión de metadatos que permite la integración con flujos de trabajo de
-producción  digital, facilitando la organización y búsqueda de contenido.
-c) XDCAM  permite la grabación de video en resoluciones de hasta 4K, pero su compresión intraframe limita la
-eficiencia  del almacenamiento en comparación con otros formatos de compresión.
-d) XDCAM  utiliza un sistema de grabación basado exclusivamente en discos duros, lo que limita su portabilidad y
-uso  en entornos de producción en movimiento.
+b) XDCAM incluye un sistema de gestión de metadatos que permite la integración con flujos de trabajo de
+producción digital, facilitando la organización y búsqueda de contenido.
+c) XDCAM permite la grabación de video en resoluciones de hasta 4K, pero su compresión intraframe limita la
+eficiencia del almacenamiento en comparación con otros formatos de compresión.
+d) XDCAM utiliza un sistema de grabación basado exclusivamente en discos duros, lo que limita su portabilidad y
+uso en entornos de producción en movimiento.
 ```
 
 ---
@@ -41,10 +41,10 @@ uso  en entornos de producción en movimiento.
 29. ¿Cuál de las siguientes afirmaciones diferencia correctamente un flujo de trabajo de edición lineal de uno
 no lineal?
 a) La edición lineal es más rápida y eficiente que la no lineal.
-b) La  edición lineal permite realizar cambios en cualquier punto del video sin afectar el resto, mientras que la no
-lineal  es más restrictiva.
-c) La  edición lineal es más adecuada para proyectos de larga duración, mientras que la no lineal es mejor para
-proyectos  cortos.
+b) La edición lineal permite realizar cambios en cualquier punto del video sin afectar el resto, mientras que la no
+lineal es más restrictiva.
+c) La edición lineal es más adecuada para proyectos de larga duración, mientras que la no lineal es mejor para
+proyectos cortos.
 d) La edición lineal utiliza cintas físicas, mientras que la no lineal se basa en archivos digitales.
 ```
 
@@ -54,14 +54,10 @@ d) La edición lineal utiliza cintas físicas, mientras que la no lineal se basa
 
 ```
 38. ¿Cuál de estos archivos gráficos NUNCA tiene canal Alfa?
-a)
-b)
-c)
-d)
-.JPG.
-.SWS.
-.PNG.
-.TIF.
+a) .JPG.
+b) .SWS.
+c) .PNG.
+d) .TIF.
 ```
 
 ---
@@ -83,8 +79,8 @@ d) Pulsando CTRL + ALT + L o K.
 
 ```
 55. ¿A qué llamamos “montaje alternado”?
-a) Dilata  el tiempo mostrando sucesivamente acciones acaecidas en espacios diferentes pero simultaneas, que
-coinciden  en un mismo tiempo ficcional.
+a) Dilata el tiempo mostrando sucesivamente acciones acaecidas en espacios diferentes pero simultaneas, que
+coinciden en un mismo tiempo ficcional.
 b) Muestra en sucesión temporal dos o más líneas de acción que se producen en lugares diferentes, pero no tienen
 porqué desarrolarse simultáneamente.
 c) Alternar la edición de diferentes capítulos por rapidez, centrando la edición en el mismo punto coincidente para
@@ -98,10 +94,10 @@ d) Cuando por necesidades debemos montar en diferentes espacios y alternamos la 
 
 ```
 96. ¿Qué es un formato contenedor?
-a) Es  un estándar donde se define las reglas y operaciones matemáticas que llevan a cabo la codificación y
-decodificación  de la información de audio y de video digital.
-b) Es  la implementación de un programa informático concreto encargado de aplicar las reglas y operaciones
-matemáticas  de un algoritmo de compresión.
+a) Es un estándar donde se define las reglas y operaciones matemáticas que llevan a cabo la codificación y
+decodificación de la información de audio y de video digital.
+b) Es la implementación de un programa informático concreto encargado de aplicar las reglas y operaciones
+matemáticas de un algoritmo de compresión.
 c) Es un estándar para la distribución o almacenamiento de un determinado contenido multimedia.
 d) Es una organización ISO (International Organization for Standardization).
 ```
@@ -166,32 +162,6 @@ a) Al ajuste en parámetros técnicos de una producción audiovisual.
 b) Es un término que hace referencia al calzado y al vestuario.
 c) Al ajuste en parámetros de colorimetría de una producción audiovisual.
 d) Al ajuste en parámetros sonoros de una producción audiovisual.
-vento que transcurre
-o que transcurr
-s narrativamente.
-tivamente.
-nos rodados con su loca
-dados con su lo
-orma de texto.
-text
-ormación sobre cambios
-ión sobre cam
-crustar o emitir imáge
-ustar o emitir imág
-nuidad.
-ad.
-ealización.
-ealiz
-de postproducción.
-postpro
-Qué es el Cross cutting
-ué es el 
-Es un montaje en el 
-s un mon
-e fundirán en uno
-e fundirán en u
-n montaje
-ontaje
 on
 on
 ```

@@ -48,11 +48,11 @@ d) No afecta su posición.
 
 ```
 49. En un medio audiovisual la prolepsis es:
-a) Una  figura retórica por medio de la cual se muestra una escena posterior y se vuelve al tiempo presente,
-rompiendo  la cronología del discurso.
+a) Una figura retórica por medio de la cual se muestra una escena posterior y se vuelve al tiempo presente,
+rompiendo la cronología del discurso.
 b) La alteración del orden de la narración en la que el argumento avanza en el tiempo.
-c) La  alteración del orden de la narración en la que el argumento vuelve al pasado para mostrar acontecimientos
-ocurridos  antes de lo mostrado.
+c) La alteración del orden de la narración en la que el argumento vuelve al pasado para mostrar acontecimientos
+ocurridos antes de lo mostrado.
 d) Una figura retórica que rompe la cronología del discurso mostrando una escena anterior para regresar al mismo
 instante.
 ```
@@ -210,57 +210,6 @@ si no se respeta la regla de los 180 grados, lo que puede llevar a una ruptura e
 disminución de la inmersión en la historia.
 d) La implementación del plano y contraplano es irrelevante en escenas de acción, ya que estas dependen más de
 cortes rápidos y efectos visuales que de la interacción entre personajes.
-a, ya q
-io en las transmisi
-o en las transmis
- onda de las señales d
-de las señales d
-de señal.
-ñal.
-or lo que no es útil en l
-ue no es útil en l
-cipantes, ¿cuál de las
-cipantes, ¿cuál de la
-ón fluida y de alta cal
-fluida y de alta c
-conocida.
-ión.
-s simultáneamente.
-ltáneamente.
-s utilizados por los partic
-dos por los pa
-mejor la función de u
-r la función de
-momento de forma contin
-to de forma cont
-y distanciamiento emoc
-anciamiento emoc
-ementos del entorno so
-tos del entorno so
-venciones de cada perso
-nes de cada pers
-afirmaciones describe
-no para establecer la r
-para establecer la 
-ano se utilizan exclusiv
-izan exclusiv
-n la construcción de la t
-la construcción de 
-del plano y contraplano 
-o y contraplano
-e intercalar planos de 
-e el diálogo.
-el diálo
-uso incorrecto del plano
-uso incorrect
-si no se respeta la regla
- no se re
-disminución de la inm
-isminució
-a implementació
-implementaci
-es rápidos 
-ápidos
 ```
 
 ---

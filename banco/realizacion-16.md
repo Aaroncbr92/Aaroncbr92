@@ -9,14 +9,14 @@ no se pudo emparejar.
 **60_preguntas_realizacion_asist · nº 34 · respuesta: a**
 
 ```
-34. Estamos  trabajando en un plató en el que 2 cámaras tienen realidad aumentada (R.A.) a través de un
+34. Estamos trabajando en un plató en el que 2 cámaras tienen realidad aumentada (R.A.) a través de un
 software que genera un retardo de 2 frames. Tenemos otras 5 cámaras sin R.A. ¿Podemos hacer algo para
 mezclar las 7 cámaras, con o sin R.A, sin que haya problemas de sincronización entre audio y vídeo? Ten
 en cuenta que haremos transiciones entre una cámara con R.A. y la misma cámara sin R.A.
-a) Ponemos  un retardo de 2 frames en cada una de las entradas al mezclador de las 7 cámaras e informamos a
+a) Ponemos un retardo de 2 frames en cada una de las entradas al mezclador de las 7 cámaras e informamos a
 sonido para que retarde 80 milisegundos todas las fuentes de sonido del plató que intervengan en el programa.
 b) No se puede mezclar entre las cámaras con R.A. y ellas mismas sin R.A.
-c) Ponemos  un retardo de 2 frames en cada una de las entradas al mezclador de las 7 cámaras e informamos a
+c) Ponemos un retardo de 2 frames en cada una de las entradas al mezclador de las 7 cámaras e informamos a
 sonido para que retarde 160 milisegundos todas las fuentes de sonido del plató que intervengan en el programa.
 d) Ponemos un retardo de 2 frames en cada una de las entradas al mezclador de las 5 cámaras que no llevan R.A. e
 informamos a sonido para que retarde 80 milisegundos todas las fuentes de sonido del plató que intervengan en
@@ -31,10 +31,10 @@ el programa.
 46. En un sistema de escenografía virtual ¿Qué tipo de sensorización corresponde al sistema free-d?
 a) Sistema de trabajo con croma que además incorpora sensores que permite establecer la posición de la cámara
 mediante la lectura de pequeñas marcas de referencia.
-b) Sistema  que consta de una serie de elementos de croma que sirve de ajuste tanto en las paredes como en el
+b) Sistema que consta de una serie de elementos de croma que sirve de ajuste tanto en las paredes como en el
 suelo.
-c) Sistema  que dispone de unos postes de croma colocados en el techo, fuera de plano, para favorecer el
-movimiento  escénico y evita la inclusión de sombras.
+c) Sistema que dispone de unos postes de croma colocados en el techo, fuera de plano, para favorecer el
+movimiento escénico y evita la inclusión de sombras.
 d) Sistema mediante el empleo de ultrasonidos que puede establecer la posición de la cámara.
 ```
 

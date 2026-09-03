@@ -9,9 +9,9 @@ no se pudo emparejar.
 **60_preguntas_realizacion_asist · nº 3 · respuesta: b**
 
 ```
-3. El  guion redactado por el realizador y que contiene modificaciones precisas acerca de los encuadres,
-posiciones  de las cámaras y modificaciones acerca de cualquier aspecto sobre decoración, sonido,
-iluminación,  etc. Se llama:
+3. El guion redactado por el realizador y que contiene modificaciones precisas acerca de los encuadres,
+posiciones de las cámaras y modificaciones acerca de cualquier aspecto sobre decoración, sonido,
+iluminación, etc. Se llama:
 a) Guion de trabajo.
 b) Guion técnico.
 c) Escaleta.
@@ -35,9 +35,9 @@ d) Frases o citas contundentes.
 **60_preguntas_realizacion_asist · nº 10 · respuesta: c**
 
 ```
-10. Trabajando  en un minutado de iNews para informativos, ¿qué indica cuando de repente el título de una
-noticia  deja de ser negro y pasa a color azul?
-a) Que  esa línea del minutado tiene asociado un identificador de video, que permite vincularlo a una lista de
+10. Trabajando en un minutado de iNews para informativos, ¿qué indica cuando de repente el título de una
+noticia deja de ser negro y pasa a color azul?
+a) Que esa línea del minutado tiene asociado un identificador de video, que permite vincularlo a una lista de
 reproducción.
 b) Que la noticia se encuentra en play y está asociada a una lista de reproducción.
 c) Que la noticia ha sido flotada, por lo que a efectos de la emisión no cuenta.

@@ -77,8 +77,6 @@ a) De un color neutro para poder iluminarlo.
 b) Blanco o negro.
 c) Blanco, negro o verde.
 d) Puede ser de cualquier color.
-el efecto Bokeh?
-o Bokeh?
 s?
 ```
 

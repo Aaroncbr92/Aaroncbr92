@@ -16,8 +16,8 @@ b) Consiste en conformar la imagen 3D mediante la obtención de una imagen compl
 ojo un frame. Mediante unas gafas LCD de obturación se puede ver una única imagen con profundidad.
 c) Es una tecnología en la que la imagen se divide en dos partes, líneas pares y líneas impares, cada una de ellas
 destinada a ser percibida por un ojo.
-d) Es  la generación de la imagen 3D en la pantalla receptora mediante una serie de filtros que permiten el
-entrelazado  vertical espacial de las imágenes dirigidas a cada ojo.
+d) Es la generación de la imagen 3D en la pantalla receptora mediante una serie de filtros que permiten el
+entrelazado vertical espacial de las imágenes dirigidas a cada ojo.
 ```
 
 ---
@@ -26,9 +26,9 @@ entrelazado  vertical espacial de las imágenes dirigidas a cada ojo.
 
 ```
 18. ¿Cómo se transmite la señal TDT?
-a) Se  transmite por ondas hertzianas terrestres a través de la atmósfera sin necesidad de cable o satélite y es
-recibida  por antenas convencionales de UHF.
-b) Se  transmite por ondas hertzianas terrestres a través de la atmósfera y recibidas por cable o satélite en cada
+a) Se transmite por ondas hertzianas terrestres a través de la atmósfera sin necesidad de cable o satélite y es
+recibida por antenas convencionales de UHF.
+b) Se transmite por ondas hertzianas terrestres a través de la atmósfera y recibidas por cable o satélite en cada
 edificio.
 c) Se transmite por ondas de radio terrestres a través de la atmósfera y es recibido por antenas convencionales de
 UHF.
@@ -40,8 +40,8 @@ d) Solo se puede transmitir por cable.
 **60_preguntas_realizacion_asist · nº 20 · respuesta: d**
 
 ```
-20. ¿Cuál  de las siguientes herramientas es fundamental para garantizar la calidad de una transmisión en
-directo,  permitiendo la detección temprana de errores y la corrección de parámetros como el nivel de
+20. ¿Cuál de las siguientes herramientas es fundamental para garantizar la calidad de una transmisión en
+directo, permitiendo la detección temprana de errores y la corrección de parámetros como el nivel de
 video?
 a) Un sistema de gestión de contenidos.
 b) Un servidor de streaming.
@@ -54,12 +54,12 @@ d) Un monitor de forma de onda.
 **60_preguntas_realizacion_asist · nº 24 · respuesta: d**
 
 ```
-24. ¿Cuál  de las siguientes afirmaciones sobre la televisión 4K es correcta en relación con su tecnología y
+24. ¿Cuál de las siguientes afirmaciones sobre la televisión 4K es correcta en relación con su tecnología y
 características?
-a) Todos  los dispositivos de televisión 4K son compatibles con contenido 8K, lo que garantiza que los usuarios
-puedan  disfrutar de la más alta calidad de imagen sin necesidad de actualizar su equipo.
-b) La  tecnología 4K se basa únicamente en la mejora de la resolución de imagen, sin considerar otros aspectos
-como  la tasa de refresco o el soporte para HDR (Alto Rango Dinámico).
+a) Todos los dispositivos de televisión 4K son compatibles con contenido 8K, lo que garantiza que los usuarios
+puedan disfrutar de la más alta calidad de imagen sin necesidad de actualizar su equipo.
+b) La tecnología 4K se basa únicamente en la mejora de la resolución de imagen, sin considerar otros aspectos
+como la tasa de refresco o el soporte para HDR (Alto Rango Dinámico).
 c) La televisión 4K ofrece una resolución de 3840 x 2160 píxeles, lo que equivale a cuatro veces la resolución de la
 televisión Full HD, pero no mejora la calidad del color ni el rango dinámico.
 d) La televisión 4K requiere un ancho de banda significativamente mayor para la transmisión de contenido, lo que
@@ -71,8 +71,8 @@ puede limitar su accesibilidad en áreas con conexiones a Internet lentas.
 **60_preguntas_realizacion_asist · nº 26 · respuesta: b**
 
 ```
-26. ¿Cuál  de las siguientes opciones describe correctamente la relación entre la longitud de onda de la luz
-visible  y el color que percibimos?
+26. ¿Cuál de las siguientes opciones describe correctamente la relación entre la longitud de onda de la luz
+visible y el color que percibimos?
 a) La longitud de onda no influye en el color percibido, sino en la intensidad de la luz.
 b) A menor longitud de onda, mayor energía y, por tanto, color más frío (azul, violeta).
 c) A mayor longitud de onda, mayor frecuencia y, por tanto, color más cálido (rojo, naranja).
@@ -89,8 +89,8 @@ a) H.265 utiliza un método de compresión que requiere el doble de ancho de ban
 la misma calidad de video.
 b) H.265 no es compatible con la transmisión de video en tiempo real debido a su alta latencia.
 c) H.265 utiliza un algoritmo de compresión que es un 50% menos eficiente que su predecesor, H.264.
-d) H.265  permite la codificación de video en resoluciones de hasta 8K, mejorando la calidad de imagen en
-comparación  con H.264.
+d) H.265 permite la codificación de video en resoluciones de hasta 8K, mejorando la calidad de imagen en
+comparación con H.264.
 ```
 
 ---
@@ -135,8 +135,7 @@ d) El tamaño del sensor de la cámara.
 
 ```
 62. ¿Qué nos permite visualizar un vectorscopio?
-a)
-Información como la luminancia y la crominancia.
+a) Información como la luminancia y la crominancia.
 b) La pureza de los colores.
 c) El diagrama del ojo de la señal.
 d) La linealidad de la croma.
@@ -183,8 +182,8 @@ d) La información cuya eliminación no afecta al contenido.
 **60_preguntas_realizacion_asist · nº 90 · respuesta: d**
 
 ```
-90. Normalmente  nos referimos al vídeo por componentes como Y, CB, CR o como Y, U, V. Y la señal de
-luminancia  (Y) está formada por:
+90. Normalmente nos referimos al vídeo por componentes como Y, CB, CR o como Y, U, V. Y la señal de
+luminancia (Y) está formada por:
 a) 30% Verde + 11% Rojo + 59% Azul.
 b) 30% Verde + 59% Rojo + 11% Azul.
 c) 11% Verde + 59% Rojo + 30% Azul.
@@ -197,10 +196,8 @@ d) 59% Verde + 30% Rojo + 11% Azul.
 
 ```
 94. ¿Cuál es la compresión que combina varios fotogramas a la vez para realizarse?
-a)
-b)
-Intraframe.
-Interframe.
+a) Intraframe.
+b) Interframe.
 c) Lossy.
 d) Lossless.
 ```
@@ -264,39 +261,6 @@ a) Modulación de amplitud (AM).
 b) Modulación de frecuencia (FM).
 c) Modulación digital de cuadratura (QAM).
 d) Modulación de fase (PM).
-ón y luz.
-uz.
-na:
-ñal en blanco y negro
-n blanco y ne
-un valor de 0,70V y los 
-lor de 0,70V y los 
-de línea para poder mo
-ea para poder mo
-eñales de blanco y negro
-de blanco y negr
-uencia de campo para p
-campo para
-e un programa dramát
-e un programa dramá
- rutinario, concentrándo
-nario, concentrándo
-escenas sencillas para
-atamiento ulterior de p
-tamiento ulterior de
-ramas siguen un proce
-iguen un proc
-ón tiene que ser exact
-ayor parte de estos prog
-or parte de estos prog
-Cuál de los siguientes t
-uál de lo
-Modulación de ampli
-Modulació
-odulación de fre
-ción de fr
-ación d
-ción d
 ```
 
 ---
@@ -385,38 +349,6 @@ a) Va desde 64 hasta 940.
 b) Abarca valores del 16 al 235.
 c) Se extiende desde el 0 hasta el 255.
 d) Comprende valores desde 256 al 3760.
-ncia temporal y no es
-a temporal y no e
-0x significa que:
-ifica que:
-mínimo de exposición.
-mo de exposición.
-e 20mm.
-mm.
-osición máxima angular
-n máxima angula
-ados desde la diagonal 
-e la diagona
-rasterizadores?
-ado y la modificación d
-y la modificación d
-to compensador de la s
-nsador de la 
-itorizado de la señal de 
-orizado de la señal d
-onitorizar señales en H
-ar señales en H
-ntes dispositivos de co
-ite rastrear una señal us
-rastrear una señal u
-De qué forma podemos
-e qué for
-Con un movimiento s
-Con un mo
-on un gran plan
-gran plan
-n contra
-contr
 ```
 
 ---
@@ -429,27 +361,6 @@ a) Está basado en la curva Rec.709 y una compresión de las altas luces.
 b) Es retrocompatible y tiene metadata.
 c) Es un sistema referenciado a la escena.
 d) Tiene un pico de brillo máximo de 10 000 cd/m².
-completos y uno virtual
-etos y uno vir
-tos y PP desactivado.
-PP desactiva
-ctos dividido en dos y p
-ezcla efectos con el ME
-efectos con el ME
-las entradas y salidas
-as entradas y salida
-ón.
-ón.
-duría.
-ía.
-rección.
-rección.
-Qué característica t
-ué carac
-tá basado en 
-sado en 
-ocomp
-comp
 ```
 
 ---
@@ -527,32 +438,8 @@ UHF convencionales.
 c) Se transmite usando ondas de radio terrestres que viajan a través de la atmósfera vía satélite y son captadas por
 antenas UHF estándar.
 d) Se puede recibir a través de una conexión a Internet o un decodificador digital especializado.
-e el t
-entro del II Plan de Igu
-del II Plan de Igu
-dos intermedios, sobre 
-termedios, sobre
-es.
-ajador, con al menos 
-, con al menos 
-ntaria por un plazo:
-por un plazo:
 o.
-TVE, ¿cuántos días 
-¿cuántos días 
-022 de 7 de julio, de 
-imo del espacio radio
-mo del espacio rad
-se adjudicará a la Corp
-dicará a la Cor
-5%.
-5%.
-10%.
 0%
-ál es la forma
-la forma
-vía me
-a me
 ```
 
 ---

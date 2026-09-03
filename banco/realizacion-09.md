@@ -33,8 +33,8 @@ d) Conjunto de instrumentos y amplificadores que acompañan al grupo musical en 
 **60_preguntas_realizacion_asist · nº 17 · respuesta: b**
 
 ```
-17. Teniendo  en cuenta la capacidad auditiva media del oído humano, un ultrasonido tiene una frecuencia
-superior  a:
+17. Teniendo en cuenta la capacidad auditiva media del oído humano, un ultrasonido tiene una frecuencia
+superior a:
 a) 2.000Hz.
 b) 20.000Hz.
 c) 12.000Hz.
@@ -83,13 +83,12 @@ d) Un sonido generado por un doblador.
 **60_preguntas_realizacion_asist · nº 66 · respuesta: a**
 
 ```
-66. En  la retransmisión de un concierto, si diferentes instrumentos musicales tocan la misma nota, ¿qué
-cualidad  del sonido nos permite distinguirlos, aunque tengan la misma frecuencia pero distinto matiz
+66. En la retransmisión de un concierto, si diferentes instrumentos musicales tocan la misma nota, ¿qué
+cualidad del sonido nos permite distinguirlos, aunque tengan la misma frecuencia pero distinto matiz
 sonoro?
 a) Timbre.
 b) Tono.
-c)
-Intensidad.
+c) Intensidad.
 d) Frecuencia.
 ```
 
@@ -98,8 +97,8 @@ d) Frecuencia.
 **60_preguntas_realizacion_asist · nº 73 · respuesta: d**
 
 ```
-73. ¿Qué  técnica de grabación estéreo hace uso de dos micrófonos omnidireccionales empleándose para
-realidad  virtual?
+73. ¿Qué técnica de grabación estéreo hace uso de dos micrófonos omnidireccionales empleándose para
+realidad virtual?
 a) Bin estéreo.
 b) Din estéreo.
 c) Par coincidente.
@@ -142,37 +141,6 @@ a) Las señales de audio del programa menos las de órdenes del realizador.
 b) Las señales de audio del programa menos la señal de la fuente a la que se le va a efectuar el envío.
 c) Las señales de audio del programa menos la señal de los monitores de audio del estudio.
 d) Las señales de audio del programa, con las órdenes del realizador, menos las señales exteriores.
-e está precortado o pr
-ecortado o p
-nes determinadas.
-eterminadas.
-vo de RTVE durante un
-TVE durante
-a de emisión sin rótulos
-isión sin rótulos
-opia de emisión sin rótu
-e emisión sin rót
-señal en el bus de ED
-en el bus de
-ado para ello no puede
-ara ello no pued
-asignado a un output de
-do a un output d
-onar señales en un EDIT
-ar señales en un ED
-e EDIT PREVIO.
-REVIO
-EDIT PREVIO.
-DIT P
-señal N-1 de un retorn
-ñales de audio del prog
-ales de audio del prog
-s señales de audio del p
-s señales de 
-Las señales de audio d
-as señale
-Las señales de aud
-as señales de a
 ```
 
 ---
@@ -185,30 +153,6 @@ a) Micrófonos de Condensador.
 b) Micrófonos inalámbricos.
 c) Micrófonos electroestáticos.
 d) Micrófonos dinámicos.
-mato, constituyen el g
-constituyen el
-artida para integrar efec
-para integrar efe
-animación de un person
-ación de un perso
-para la captura de movim
-captura de mov
-ctos sonoros.
-onoros
-sistema EVS desde u
-ma EVS desde u
-s en un mezclador d
-en un mezclador 
-entes de video?
-de v
-SK.
-SK.
-M/E.
-M/E
-limentación “
-ntación “
-onos de
-nos d
 ```
 
 ---
@@ -221,32 +165,8 @@ a) MPEG.
 b) WAV.
 c) AIFFK.
 d) AVC.
-ituadas alrededor de 
-alrededor de 
-esarrolla en una unida
-lla en una un
-multicámara, si se reali
-ámara, si se rea
-piloto?
 o?
 W.
-s configurado previame
-onfigurado previame
-tivo:
-solo puede intervenir e
-o puede intervenir e
-dor tiene la posibilidad 
-a posibilidad 
-ectador solo puede inter
-ctador solo puede inte
-espectador puede progr
-espectador p
-El artículo 28 de la Ley
-artículo 2
-rabajadores fijos 
-abajadores fijo
-ajadores c
-dores c
 or
 or
 ```

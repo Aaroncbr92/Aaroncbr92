@@ -12,8 +12,8 @@ no se pudo emparejar.
 40. El plan de trabajo de una grabación:
 a) Es un calendario donde se fijan las necesidades de grabación. Se elabora antes de realizar el desglose y después
 de realizar las localizaciones.
-b) Es  un calendario donde se fijan las necesidades de grabación. Se elabora después de realizar el desglose y
-después  de realizar las localizaciones.
+b) Es un calendario donde se fijan las necesidades de grabación. Se elabora después de realizar el desglose y
+después de realizar las localizaciones.
 c) Es un calendario donde se fijan las necesidades de grabación. Se elabora después de realizar el desglose y antes
 de realizar las localizaciones.
 d) Es un calendario donde se fijan las necesidades de grabación. Se elabora antes de realizar el desglose y antes
@@ -44,40 +44,7 @@ a) Escaleta.
 b) Minutado.
 c) Desglose.
 d) Guion literario.
-naje.
-idos incorporarías en 
-incorporarías en
-ar un material gráfico.
-aterial gráfico.
-te en el objetivo.
-el objetivo
-vío de correos electróni
-correos electrón
-ansferir ficheros a travé
-ir ficheros a trav
-para la creación de pág
-creación de p
-montar una secuencia e
-ar una secuenc
-” de un evento?
-de un evento?
-ento, principalmente de
-cipalmente de
-un evento, principalme
-vento, principalm
-al y que lo distribuye a
-distribuye a
-al de un evento que po
-l de un evento que po
-elevisión.
-sión
-a señal en exclusiva de
-a señal e
-Cómo se denomin
-ómo se deno
-bación?
 n?
-eta.
 a.
 ```
 

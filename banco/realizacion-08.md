@@ -9,7 +9,7 @@ no se pudo emparejar.
 **60_preguntas_realizacion_asist · nº 21 · respuesta: c**
 
 ```
-21. ¿Cuál  de los siguientes dispositivos permite ajustar la temperatura de color de la luz en una producción
+21. ¿Cuál de los siguientes dispositivos permite ajustar la temperatura de color de la luz en una producción
 televisiva?
 a) Difusor.
 b) Dimmer.
@@ -23,8 +23,8 @@ d) Reflector.
 
 ```
 44. ¿Qué es un contraluz (Back light)?
-a) Luz  dirigida hacia el decorado, desde la parte posterior, para poner de manifiesto su contorno, modelar sus
-bordes  o revelar su transparencia.
+a) Luz dirigida hacia el decorado, desde la parte posterior, para poner de manifiesto su contorno, modelar sus
+bordes o revelar su transparencia.
 b) Luz dirigida hacia el sujeto, desde la parte posterior, para poner de manifiesto su contorno, modelar sus bordes o
 revelar su transparencia.
 c) Luz dirigida desde la parte posterior de la cámara para producir la impresión de que el sujeto está separado del
