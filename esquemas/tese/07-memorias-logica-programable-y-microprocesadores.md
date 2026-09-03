@@ -5,7 +5,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio e infor
 (**ROM**, *read only memory*); la matriz de puertas programable en campo (**FPGA**, *field programmable
 gate array*); la unidad central de proceso (**CPU**); y la unidad aritmético-lógica (**ALU**).
 
-**Cabecera.** Enunciado: puntos 7 y 8 del anexo, reunidos en un tema · **1 pregunta entre los dos** ·
+**Cabecera.** Enunciados: puntos 8 y 9 del anexo, reunidos en un tema · **1 pregunta entre los dos** ·
 **junto con el punto 13, el menos rentable de la ocupación por hora de estudio.**
 
 <!-- indice -->

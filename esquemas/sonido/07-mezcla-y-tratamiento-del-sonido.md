@@ -4,7 +4,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio de mezc
 **Siglas**: el amplificador controlado por tensión (**VCA**, *voltage controlled amplifier*); el factor
 de calidad de un filtro (**Q**); y el decibelio (**dB**).
 
-**Cabecera.** Enunciado: «1.8. Mezcla y tratamiento del sonido» · **7 preguntas** · **cuatro son de
+**Cabecera.** Enunciado: punto 5 del anexo, «Mezcla y tratamiento del sonido» · **7 preguntas** · **cuatro son de
 dinámica y tres de ecualización.**
 
 <!-- indice -->

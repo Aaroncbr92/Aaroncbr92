@@ -7,7 +7,7 @@ la capa 3 del estándar del grupo de expertos en imágenes en movimiento (**MP3*
 sin pérdida de Apple (**ALAC**); el megabyte (**MB**); el
 kilohercio (**kHz**); el decibelio (**dB**); y los fotogramas por segundo (**fps**).
 
-**Cabecera.** Enunciado: «1.10. Grabación de sonido» · **4 preguntas** · **tres son cálculo y una es
+**Cabecera.** Enunciado: punto 7 del anexo, «Grabación de sonido» · **4 preguntas** · **tres son cálculo y una es
 de códecs.**
 
 <!-- indice -->

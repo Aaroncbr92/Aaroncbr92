@@ -6,7 +6,7 @@ la norma de audio digital de dos canales de la Sociedad de Ingeniería de Audio 
 de un cableado de par trenzado (**Cat5** y **Cat6**); la alimentación de micrófono por tensión de pilas
 (**A-B**); y **Dante**, que es un nombre comercial y no unas siglas.
 
-**Cabecera.** Enunciado: «1.12. Líneas y conexiones» · **8 preguntas** · **cuatro son de cable y
+**Cabecera.** Enunciado: punto 9 del anexo, «Líneas y conexiones» · **8 preguntas** · **cuatro son de cable y
 conector, dos de reparto de señal y dos de panel y matriz.**
 
 <!-- indice -->

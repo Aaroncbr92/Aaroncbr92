@@ -298,6 +298,47 @@ AVISOS_INFORMACION_GRAFICA = {
         "s\u00f3lo corrige el tama\u00f1o, no el \u00e1ngulo</b>.",
 }
 
+AVISOS_SONIDO = {
+    "85_preguntas_sonido · nº 44":
+        "<b>La pregunta tiene dos opciones id\u00e9nticas.</b> La c) y la d) dicen exactamente lo "
+        "mismo, palabra por palabra. <b>La respuesta oficial sigue siendo correcta</b> —Dante es un "
+        "transporte de audio para red local, no un algoritmo de codificaci\u00f3n para una llamada "
+        "por internet—, pero <b>el enunciado est\u00e1 mal construido</b> y as\u00ed se declara.",
+    "85_preguntas_sonido · nº 36":
+        "<b>La f\u00f3rmula s\u00f3lo da milisegundos si la frecuencia de muestreo va en "
+        "hercios</b>, y <b>el enunciado la escribe en kilohercios</b>. Con 128 muestras a 48.000 Hz "
+        "salen 2,67 ms; metiendo 48 kHz tal cual saldr\u00eda un n\u00famero mil veces mayor. <b>La "
+        "opci\u00f3n marcada es la \u00fanica de las cuatro con la estructura correcta</b> y se "
+        "marca igual.",
+    "85_preguntas_sonido · nº 46":
+        "<b>El enunciado pide «lo m\u00e1s aproximado» y hace falta.</b> Tres altavoces de 8 ohmios "
+        "en paralelo dan <b>2,67 ohmios</b>, y la opci\u00f3n marcada es <b>2,5</b>. Es la m\u00e1s "
+        "pr\u00f3xima de las cuatro —de 2,5 a 2,67 hay 0,17; de 4,5 a 2,67 hay 1,83—, y por eso es "
+        "la correcta.",
+    "85_preguntas_sonido · nº 82":
+        "<b>La respuesta oficial es la mejor de las cuatro y no es exacta.</b> Un mult\u00edmetro "
+        "corriente <b>mide resistencia en continua, no impedancia</b>: para medir impedancia hace "
+        "falta un puente o un analizador. <b>Las otras tres opciones no miden nada de eso</b>, as\u00ed "
+        "que se marca igual.",
+}
+
+AVISOS_TESE = {
+    "70_preguntas_tese_a · nº 5":
+        "<b>Esta pregunta se contesta con el Bolet\u00edn Oficial del Estado en la mano.</b> El "
+        "art\u00edculo 2 del <b>Real Decreto 299/2016</b> enumera los efectos de los campos "
+        "electromagn\u00e9ticos y <b>tres de las cuatro opciones est\u00e1n literalmente en \u00e9l</b>: "
+        "corrientes de contacto, calentamiento de los tejidos y corrientes en las extremidades. <b>La "
+        "ionizaci\u00f3n no aparece</b>, y el propio real decreto lo confirma sin decirlo: regula los "
+        "campos <b>de 0 Hz a 300 GHz</b>, que es toda la regi\u00f3n no ionizante.",
+    "70_preguntas_tese_a · nº 96":
+        "<b>La cifra no est\u00e1 en la norma de prevenci\u00f3n: est\u00e1 en el reglamento "
+        "electrot\u00e9cnico.</b> El <b>Real Decreto 614/2001</b>, en la definici\u00f3n 5 de su anexo "
+        "I, remite la alta y la baja tensi\u00f3n «a los reglamentos electrot\u00e9cnicos», y es el "
+        "<b>art\u00edculo 2.1 del Real Decreto 842/2002</b> el que fija la baja tensi\u00f3n hasta "
+        "<b>1.000 voltios en alterna y 1.500 en continua</b>. Por encima empieza la alta. <b>Quien "
+        "busque el n\u00famero en la norma de prevenci\u00f3n no lo encontrar\u00e1.</b>",
+}
+
 AVISOS_REALIZACION_TV = {
     "66_preguntas_realizacion_a · nº 33":
         "<b>La pregunta tiene tres respuestas igualmente correctas.</b> <i>Ben-Hur</i>, "
@@ -749,6 +790,120 @@ BLOQUES = {
                       "<b>dos de ellas porque dependen de una imagen</b>, y el temario dice qu\u00e9 "
                       "aporta en su lugar. <b>Y un punto entero del programa no tiene ni una "
                       "pregunta</b>: se escribe contra el programa, y lo dice.</p>",
+    ),
+    "sonido": dict(
+        carpeta="sonido",
+        rotulo="Temario espec\u00edfico \u00b7 Sonido",
+        ocupacion="Sonido",
+        titulo="Temario espec\u00edfico",
+        subtitulo="Los diecisiete temas de <b>Sonido</b>",
+        pie="Oposiciones RTVE \u2013 Sonido",
+        avisos=dict(AVISOS_SONIDO, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "electricidad-y-electronica-basicas", "sonido-01"),
+            (2, "principios-fisicos-del-sonido-y-la-audicion", "sonido-02"),
+            # el punto 1.6 no tiene ni una pregunta en el cuadernillo
+            (3, "musica-instrumentos-e-historia", None),
+            (4, "acustica-arquitectonica", "sonido-04"),
+            (5, "microfonos-soportes-y-accesorios", "sonido-05"),
+            (6, "senales-de-contribucion", "sonido-06"),
+            (7, "mezcla-y-tratamiento-del-sonido", "sonido-07"),
+            (8, "postproduccion-efectos-y-daw", "sonido-08"),
+            (9, "grabacion-de-sonido", "sonido-09"),
+            (10, "sonorizacion-altavoces-y-amplificadores", "sonido-10"),
+            (11, "lineas-y-conexiones", "sonido-11"),
+            (12, "el-sonido-en-la-radio-y-la-television", "sonido-12"),
+            (13, "radiofrecuencia", "sonido-13"),
+            (14, "medicion-y-sonoridad", "sonido-14"),
+            (15, "audio-multicanal", "sonido-15"),
+            (16, "audio-sobre-ip", "sonido-16"),
+            (17, "audio-sobre-protocolos-digitales", "sonido-17"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Las ochenta y seis respuestas oficiales de este bloque son "
+                         "correctas</b>, con cuatro salvedades que van marcadas con lo que las "
+                         "explica: <b>una pregunta con dos opciones id\u00e9nticas</b>, <b>una "
+                         "f\u00f3rmula cuyas unidades no encajan con su enunciado</b>, <b>un "
+                         "resultado aproximado que el enunciado pide como tal</b> y <b>un "
+                         "instrumento que no mide exactamente lo que la respuesta afirma</b>. "
+                         "<b>Cuatro preguntas dependen de un dato que un temario escrito no puede "
+                         "verificar</b> \u2014un modelo de cat\u00e1logo, un gesto de la mano y dos "
+                         "cifras de especificaci\u00f3n comercial\u2014: van declaradas una a una, y "
+                         "de cada una se aporta <b>la regla de su familia</b>.",
+        aviso_portada="<p><b>Es la ocupaci\u00f3n con m\u00e1s puestos convocados de las que quedaban "
+                      "por cubrir</b>: <b>ciento dos plazas</b>, noventa y tres de ellas con "
+                      "examen, y <b>ochenta y seis preguntas</b> de un llamamiento con su "
+                      "plantilla completa.</p>"
+                      "<p><b>Su anexo reparte el examen de forma muy desigual</b>: el audio sobre "
+                      "redes se lleva <b>nueve preguntas</b>, los micr\u00f3fonos y las l\u00edneas "
+                      "ocho cada uno y la medici\u00f3n de sonoridad seis, mientras que la "
+                      "ac\u00fastica arquitect\u00f3nica se lleva una y <b>la m\u00fasica, ninguna</b>.</p>"
+                      "<p><b>Ese punto sin preguntas se ha escrito igual</b>, contra el programa: "
+                      "un punto con cero preguntas en un llamamiento puede tener cuatro en el "
+                      "siguiente, y <b>quien s\u00f3lo estudia lo preguntado estudia el examen "
+                      "pasado</b>.</p>"
+                      "<p>Y hay un punto que merece un aviso propio: <b>el enunciado m\u00e1s largo "
+                      "de todo el anexo tiene UNA sola pregunta, y es sobre un gesto de la "
+                      "mano</b>. Es la respuesta peor documentada del bloque, porque los gestos "
+                      "del control son convenio de casa y no hay fuente p\u00fablica que los fije. "
+                      "<b>El temario lo declara</b> en lugar de inventar una.</p>",
+    ),
+    "tese": dict(
+        carpeta="tese",
+        rotulo="Temario espec\u00edfico \u00b7 T\u00e9cnica de Equipos y Sistemas Electr\u00f3nicos",
+        ocupacion="T\u00e9cnica de Equipos y Sistemas Electr\u00f3nicos",
+        titulo="Temario espec\u00edfico",
+        subtitulo="Los diecisiete temas de <b>T\u00e9cnica de Equipos y Sistemas Electr\u00f3nicos</b>",
+        pie="Oposiciones RTVE \u2013 T\u00e9cnica de Equipos y Sistemas Electr\u00f3nicos",
+        avisos=dict(AVISOS_TESE, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), "tese-%02d" % n) for n, base in [
+            (1, "conceptos-basicos-de-electricidad"),
+            (2, "componentes-electronicos"),
+            (3, "electronica-de-potencia"),
+            (4, "amplificadores-operacionales"),
+            (5, "electronica-digital"),
+            (6, "circuitos-integrados-y-secuenciales"),
+            (7, "memorias-logica-programable-y-microprocesadores"),
+            (8, "la-senal-audiovisual"),
+            (9, "la-senal-ip"),
+            (10, "equipos-utilizados-en-television-y-radio"),
+            (11, "control-de-iluminacion-escenica"),
+            (12, "comunicaciones-y-redes"),
+            (13, "equipos-de-medida-y-control"),
+            (14, "medidas-de-la-senal-de-video-audio-y-radiofrecuencia"),
+            (15, "mantenimiento-preventivo-y-correctivo"),
+            (16, "mantenimiento-en-television"),
+            (17, "seguridad-en-instalaciones-tecnicas"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Las ciento catorce respuestas oficiales de este bloque son "
+                         "correctas.</b> Ninguna es err\u00f3nea y ninguna es impugnable. Lo que "
+                         "s\u00ed hay que saber antes de empezar es que <b>unas treinta preguntas "
+                         "dependen de una figura</b> \u2014un esquema de circuito, un s\u00edmbolo, una "
+                         "pantalla de instrumento, una fotograf\u00eda de conectores\u2014, <b>la "
+                         "proporci\u00f3n m\u00e1s alta de todo el proyecto</b>. Un temario escrito no "
+                         "puede reproducirlas: <b>este las declara una a una y, en lugar de "
+                         "describir lo que no ha visto, aporta la regla de la familia</b> que hace "
+                         "legible cualquier pregunta de esa clase.",
+        aviso_portada="<p><b>Noventa y siete plazas convocadas</b>, ochenta y nueve de ellas con "
+                      "examen, y <b>ciento catorce preguntas</b> de dos cuadernillos con sus dos "
+                      "plantillas completas.</p>"
+                      "<p><b>Los dos cuadernillos son de tama\u00f1o muy distinto</b>: uno de noventa "
+                      "y seis preguntas y otro que sus propias instrucciones describen como «30 "
+                      "preguntas (25 principales m\u00e1s 5 de reserva)». <b>No es un fallo de "
+                      "extracci\u00f3n: es un examen m\u00e1s corto</b>, y se ha le\u00eddo entero.</p>"
+                      "<p><b>Su anexo reparte el examen de forma muy desigual</b>: el inventario "
+                      "de equipos de televisi\u00f3n y radio se lleva <b>diecinueve preguntas</b>, "
+                      "las redes trece y los componentes doce, mientras que el control de "
+                      "iluminaci\u00f3n escenica se lleva una y las memorias y microprocesadores, "
+                      "otra entre dos puntos del programa.</p>"
+                      "<p>Y hay una diferencia de fondo con el resto del proyecto: <b>diecis\u00e9is "
+                      "de sus diecisiete temas van enteros como oficio</b>, sin ninguna norma "
+                      "detr\u00e1s. <b>El \u00fanico con respaldo en el Bolet\u00edn Oficial del Estado es el "
+                      "de seguridad en instalaciones t\u00e9cnicas</b>, y ah\u00ed el temario cita "
+                      "literalmente las tres normas que resuelven sus preguntas.</p>",
     ),
     "realizacion-tv": dict(
         carpeta="realizacion-tv",

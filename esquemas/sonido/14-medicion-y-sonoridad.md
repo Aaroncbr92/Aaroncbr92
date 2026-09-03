@@ -8,7 +8,7 @@ peak*); la Sociedad de Ingeniería de Audio (**AES**,
 *audio engineering society*), que aparece aquí sólo para decir que la R 128 no es suya; y las tres
 escalas del medidor: momentánea (**M**), a corto plazo (**S**) e integrada (**I**).
 
-**Cabecera.** Enunciado: «1.14. Medición y sonoridad» · **6 preguntas** · **es el punto más normativo
+**Cabecera.** Enunciado: punto 12 del anexo, «Medición y sonoridad» · **6 preguntas** · **es el punto más normativo
 del volumen: cinco de las seis se contestan con la recomendación R 128 delante.**
 
 <!-- indice -->

@@ -5,7 +5,7 @@ plantilla oficial. **Siglas**: la estación de trabajo de audio digital (**DAW**
 workstation*); los golpes por minuto (**BPM**, *beats per minute*); los milisegundos (**ms**); el
 kilohercio (**kHz**) y el hercio (**Hz**).
 
-**Cabecera.** Enunciado: «1.9. Postproducción, efectos sonoros y estación de trabajo» · **2 preguntas**
+**Cabecera.** Enunciados: puntos 6 y 16 del anexo, «Postproducción y efectos sonoros» y «Operación DAW» · **2 preguntas**
 · **las dos son cálculo, y las dos tienen una salvedad que el temario declara.**
 
 <!-- indice -->

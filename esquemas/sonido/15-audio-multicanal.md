@@ -6,7 +6,7 @@ effects*); la mezcla reducida compatible con matriz (**Lt/Rt**, *left total / ri
 reducida estéreo simple (**Lo/Ro**, *left only / right only*); y **Dolby Atmos** y **Dolby E**, que son
 nombres comerciales y no siglas.
 
-**Cabecera.** Enunciado: «1.15. Audio multicanal» · **4 preguntas** · **dos son de notación, una de
+**Cabecera.** Enunciado: punto 13 del anexo, «Audio multicanal» · **4 preguntas** · **dos son de notación, una de
 concepto y una de mezcla reducida.**
 
 <!-- indice -->

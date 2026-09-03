@@ -5,7 +5,7 @@ plantilla oficial. **Siglas**: el protocolo de internet (**IP**); la red digital
 integrados (**RDSI**); la radiodifusión digital de audio (**DAB**); el menos uno de los retornos
 (**N-1**); y **Dante**, que es un nombre comercial y no unas siglas.
 
-**Cabecera.** Enunciado: «1.7. Señales de contribución» · **4 preguntas** · **dos son del N-1 y dos son
+**Cabecera.** Enunciado: punto 4 del anexo, «Señales de contribución» · **4 preguntas** · **dos son del N-1 y dos son
 de qué enlace sirve para qué.**
 
 <!-- indice -->

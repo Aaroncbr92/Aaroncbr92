@@ -6,7 +6,7 @@ radiodifusión digital de audio y su versión mejorada (**DAB** y **DAB+**); la 
 (**VHF**) y la ultra alta (**UHF**); el kilohercio (**kHz**) y el megahercio (**MHz**); y
 **Reed-Solomon**, que son dos apellidos y no unas siglas.
 
-**Cabecera.** Enunciado: «1.13. Radiofrecuencia» · **3 preguntas** · **una de bandas, una de estéreo
+**Cabecera.** Enunciado: punto 11 del anexo, «Radiofrecuencia» · **3 preguntas** · **una de bandas, una de estéreo
 analógico y una de radio digital.**
 
 <!-- indice -->

@@ -5,7 +5,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = norma del Bol
 level*) y las curvas de criterio de ruido de recinto (**NR** y **NC**), que se nombran así y este
 esquema no les atribuye forma larga porque no la ha verificado.
 
-**Cabecera.** Enunciado: «1.2. Principios físicos del sonido y de la audición» · **6 preguntas** ·
+**Cabecera.** Enunciados: puntos 1.3 y 1.5 del anexo, «Conocimientos básicos: principios básicos sobre sonido» y «la voz y la audición» · **6 preguntas** ·
 **dos son aritmética del decibelio, dos son definición y dos son fisiología de la audición.**
 
 <!-- indice -->

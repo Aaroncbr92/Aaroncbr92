@@ -7,7 +7,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio de inst
 (**AES11**); el código de tiempo longitudinal (**LTC**, *longitudinal timecode*); y el reloj de palabra
 (*word clock*).
 
-**Cabecera.** Enunciado: «1.17. Audio sobre protocolos digitales» · **5 preguntas** · **tres son de
+**Cabecera.** Enunciado: punto 15 del anexo, «Audio sobre protocolos digitales» · **5 preguntas** · **tres son de
 MADI y dos de sincronía.**
 
 <!-- indice -->

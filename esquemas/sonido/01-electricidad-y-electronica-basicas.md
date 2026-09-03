@@ -5,7 +5,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[BOE]` = norma del Bol
 total (**THD**, *total harmonic distortion*) y las clases de amplificador, que se nombran por letra
 (**A**, **B**, **AB** y **C**).
 
-**Cabecera.** Enunciado: «1.1. Electricidad y electrónica básicas» · **12 preguntas: el banco más
+**Cabecera.** Enunciados: puntos 1.1 y 1.2 del anexo, «Conocimientos básicos: electricidad y electrónica básica aplicada a la captación y tratamiento del sonido» · **12 preguntas: el banco más
 grande de la ocupación** · **cuatro son cálculo, cuatro son definición y cuatro son electrónica de
 amplificación.**
 

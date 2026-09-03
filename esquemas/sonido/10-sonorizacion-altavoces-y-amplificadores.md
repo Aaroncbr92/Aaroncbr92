@@ -4,7 +4,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y elect
 el decibelio por vatio y metro (**dB/W/m**), que es como se expresa la sensibilidad de un altavoz; el
 milisegundo (**ms**); y **Linkwitz-Riley**, que son dos apellidos y no unas siglas.
 
-**Cabecera.** Enunciado: «1.11. Sonorización: altavoces y amplificadores» · **6 preguntas** · **cuatro
+**Cabecera.** Enunciado: punto 8 del anexo, «Sonorización» · **6 preguntas** · **cuatro
 son de definición, una es de catálogo y una es cálculo.**
 
 <!-- indice -->

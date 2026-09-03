@@ -4,7 +4,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y teor�
 enunciado de la convocatoria. **Siglas**: los golpes por minuto (**BPM**, *beats per minute*) y los
 milisegundos (**ms**).
 
-**Cabecera.** Enunciado: «1.6. Música: instrumentos, historia» · **CERO preguntas** · **es el segundo
+**Cabecera.** Enunciado: punto 1.6 del anexo, «Conocimientos básicos de música, instrumentos musicales e historia de la música» · **CERO preguntas** · **es el segundo
 punto de todo el proyecto sin una sola pregunta caída**, después del punto 11 de Información Gráfica.
 
 - **POR QUÉ SE ESCRIBE IGUAL** · `[conv]` · **el punto está en el anexo y puede caer en la convocatoria

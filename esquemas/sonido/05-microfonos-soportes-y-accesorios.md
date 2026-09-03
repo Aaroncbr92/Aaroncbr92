@@ -6,7 +6,7 @@ Televisión Francesa (**ORTF**), que da nombre a una disposición estéreo, el f
 **AKG**; y las tres disposiciones estereofónicas clásicas (**XY**, **AB** y **NOS**). **De AKG, XY, AB
 y NOS este esquema no da forma larga porque no la ha verificado.**
 
-**Cabecera.** Enunciado: «1.4. Micrófonos, soportes y accesorios» · **8 preguntas** · **cinco son de
+**Cabecera.** Enunciado: punto 3 del anexo, «Captación de sonido» · **8 preguntas** · **cinco son de
 diagrama polar, dos de disposición estéreo y una de catálogo.**
 
 <!-- indice -->

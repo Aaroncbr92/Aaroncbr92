@@ -3,7 +3,7 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y acústica de salas. **Siglas**:
 el tiempo de reverberación medido hasta una caída de 60 decibelios (**RT60**) y el hercio (**Hz**).
 
-**Cabecera.** Enunciado: «1.3. Acústica arquitectónica» · **1 pregunta** · **el punto donde el examen
+**Cabecera.** Enunciado: punto 2 del anexo, «Acústica arquitectónica» · **1 pregunta** · **el punto donde el examen
 menos ha entrado y donde más se juega el trabajo diario.**
 
 <!-- indice -->

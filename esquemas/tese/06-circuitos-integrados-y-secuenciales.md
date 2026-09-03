@@ -4,7 +4,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio y elect
 **Siglas**: el biestable (*flip-flop*), la señal de reloj (**CLK**, de
 *clock*) y los cuatro tipos de biestable, que se nombran por letra (**RS**, **D**, **JK** y **T**).
 
-**Cabecera.** Enunciado: punto 6 del anexo · **4 preguntas** · **ninguna lleva figura, y es uno de los
+**Cabecera.** Enunciados: puntos 6 y 7 del anexo, reunidos en un tema · **4 preguntas** · **ninguna lleva figura, y es uno de los
 dos puntos limpios de la ocupación.**
 
 <!-- indice -->

@@ -7,7 +7,7 @@ protocolo de tiempo de precisión (**PTP**, *precision time protocol*); la norma
 Sociedad de Ingeniería de Audio (**AES67**); los megabits por segundo (**Mbps**); el kilohercio
 (**kHz**); y **Dante**, que es un nombre comercial y no unas siglas.
 
-**Cabecera.** Enunciado: «1.16. Audio sobre IP» · **9 preguntas: el segundo banco del volumen** ·
+**Cabecera.** Enunciado: punto 14 del anexo, «Audio sobre IP» · **9 preguntas: el segundo banco del volumen** ·
 **cinco son de Dante, dos de cuentas de ancho de banda, una de protocolo y una de reloj.**
 
 <!-- indice -->

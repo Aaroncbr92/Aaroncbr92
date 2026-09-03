@@ -3,7 +3,7 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[of]` = oficio de control y de estudio ·
 `[plan]` = plantilla oficial.
 
-**Cabecera.** Enunciado: el más largo del anexo de esta ocupación · **1 pregunta**, y **es sobre un
+**Cabecera.** Enunciado: punto 10 del anexo, «El sonido en la radio y la televisión»: el enunciado más largo de esta ocupación · **1 pregunta**, y **es sobre un
 gesto de la mano.** **La respuesta peor documentada de las ochenta y seis del volumen**, y así se
 declara.
 
