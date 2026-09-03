@@ -21,7 +21,7 @@ son los seis que sí se han comprobado **con su fuente delante**:
 |---|---|---|
 | **2** · Propiedad intelectual | Texto refundido de la LPI (RDLeg 1/1996) | 5, 6, 10, 35, 86, 87, 88, 94, 119, 125 |
 | **8** · Producción en exteriores | Reglamento de Ejecución (UE) 2019/947 | 3, 5, 14 |
-| **9** · Escenografía e iluminación | RD 486/1997, anexo I, apartado 3 | Apartado 3 del anexo, **no articulado** |
+| **9** · Escenografía e iluminación | RD 486/1997, anexo I, apartado 3 | **No articulado**: comprobado a mano, ver el epígrafe siguiente |
 | **14** · El presupuesto | III Convenio colectivo de la Corporación RTVE | 43, 75 |
 | **15** · Organismos | Ley 13/2022, General de Comunicación Audiovisual | 22, 23 |
 | **16** · Aspectos jurídicos | LO 3/2018, Ley 9/2017 y Ley 60/2003 | 22, 72, 73, 74 · 118, 215, 217 · 9, 11, 43 |
@@ -48,6 +48,28 @@ del apartado 10. **Un cero contra las tres a la vez habría sido el resultado so
 La lente de modo dio el mismo patrón: **cero hallazgos contra la ley de protección de datos y contra
 la de arbitraje**, y tres hallazgos contra la Ley de Contratos del Sector Público que resultaron ser
 comparaciones del artículo 11, 22 y 72 del tema contra los artículos 11, 22 y 72 **de la otra ley**.
+
+## El tema 9, que la lente no puede mirar
+
+**El RD 486/1997 no articula su anexo I**: lo ordena en apartados numerados, sin la palabra
+«Artículo». La lente de exactitud ancla en `**Artículo N**`, así que sobre el tema 9 devuelve
+**«0 comprobadas, 0 no literales»**, que es exactamente el resultado del que avisa el apartado 10 del
+manual: **un cero sin nada mirado no es un aprobado**.
+
+**Se comprobó a mano, y así queda escrito.** Las tres citas del tema van en cita en bloque —no
+ancladas— y se compararon una a una contra el texto consolidado, normalizando espacios y acentos:
+
+| Cita | Resultado |
+|---|---|
+| «Las barandillas serán de materiales rígidos, tendrán una **altura mínima de 90 centímetros** y dispondrán de una protección que impida el paso o deslizamiento por debajo de las mismas o la caída de objetos sobre personas» | **Literal** |
+| «Las **aberturas o desniveles que supongan un riesgo de caída de personas se protegerán mediante barandillas**» | **Literal** |
+| «Los **lados abiertos de las escaleras y rampas de más de 60 centímetros de altura**» | **Literal** |
+
+**Y lo que la norma no dice, que es la mitad del hallazgo**: los dos umbrales del enunciado de la
+pregunta 23 —**55 centímetros** y **6 metros**— **no están en el RD 486/1997**. Son los del **Código
+Técnico de la Edificación**, documento básico de seguridad de utilización y accesibilidad, **que este
+proyecto no ha consultado**. Lo que las dos normas comparten, y lo que la pregunta exige, es la cifra
+de **90 centímetros**. El tema lo dice en su trazabilidad.
 
 ## Lo que hubo que corregir
 
@@ -208,11 +230,12 @@ navegador—:
 | | Producción |
 |---|---|
 | Temas | **16**, más el de prevención de riesgos, compartido |
-| Preguntas repartidas | **97** en el volumen, de las que **81** son del específico propio |
-| Temas con norma articulada comprobada | **6** |
+| Preguntas repartidas | **97** en el volumen: **66** del específico propio y **31** del banco compartido de prevención |
+| Temas con norma comprobada | **6**: cinco con la lente y **uno a mano**, el 9, porque su anexo no se articula |
 | Negritas corregidas por no literales | **55** |
 | Salvedades añadidas | **2** |
 | Anclajes movidos a principio de párrafo | **2** |
+| Citas comprobadas a mano por no articularse su fuente | **3** |
 | **Erratas de plantilla** | **1** —la pregunta 88— |
 | Respuestas oficiales mal enunciadas | **1** —la pregunta 75— |
 | Afirmaciones que descansan sólo en la plantilla | **5** |
