@@ -1,0 +1,328 @@
+ 
+NTP 704: Síndrome de estar quemado por el trabajo o 
+"burnout" (I): definición y proceso de generación
+Syndrome d'épuisement professionnel dans le travail: définition et procés de génération 
+Burn-out syndrome: definition and génération process
+Redactor:
+Manuel Fidalgo Vega 
+Licenciado en Psicología
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Desde la óptica de la prevención de riesgos laborales y desde los conocimientos existentes en la actualidad sobre la materia, se 
+pretende exponer de modo claro y sintético aquellos aspectos conceptuales, causales y de proceso, relacionados con el síndrome de 
+estar quemado por el trabajo (SQT). En la NTP siguiente (parte II) se tratarán las consecuencias, la evaluación y la prevención del 
+burnout.
+Introducción
+Así como ante la exposición a un riesgo evidente de accidente, por ejemplo, caída, atrapamiento, corte, etc., existe cierta conciencia 
+preventiva y poca aceptación a su presencia, ante los riesgos psicosociales, donde la exposición a los mismos puede producir daños a 
+la salud igualmente severos, no existe suficiente sensibilidad y sí cierta tolerancia por parte de la mayoría de actores implicados 
+(empresarios, trabajadores, servicios de prevención, técnicos, etc.). A pesar de los conocimientos científico-técnicos, se tiende a 
+percibir como implícito al puesto cualquier carga psíquica o riesgo psicosocial del trabajo, aun resultando evidente que la exposición a 
+unas determinadas condiciones psicosociales de trabajo puede afectar a la salud del trabajador. De este modo, si en el trabajador se 
+manifiesta una merma de salud psicofísica debida a esta exposición, el resultado tiende a interpretarse en términos de vulnerabilidad 
+individual, y se atribuye a algún fallo en la psique del propio individuo, a unas características individuales diferenciales "débiles" 
+comparativamente con "otros" o bien debido a su entorno extralaboral. El síndrome de burnout es una patología derivada de la 
+interacción del individuo con unas determinadas condiciones psicosociales nocivas de trabajo. El producto de dicha interacción, que se 
+describe a continuación, es lo que denominaremos "síndrome de estar quemado por el trabajo" (SQT), habitualmente conocido 
+como "síndrome de burnout". Cuando no se realiza la evaluación y la prevención de riesgos psicosociales -especialmente en entornos 
+de servicios humanos-, o no se protege adecuadamente al trabajador frente a esta consecuencia o, en todo caso, no se adaptar el 
+trabajo a la persona, el SQT puede aparecer.
+La necesidad de estudiar el síndrome de quemarse por el trabajo está asociada al derecho a la protección de la salud que todo 
+trabajador tiene en cuanto está insertado en una organización. Este derecho implica el no estar sometido a las distintas causas de 
+exposición que son origen de cualquier posible merma de salud. Así, en el caso del burnout se produce ese daño por causas de 
+exposición a riesgos psicosociales, organizativos o de ordenación del trabajo en los entornos de demandas de servicio humano. 
+Exigencias que, en el actual entorno socioeconómico, cada vez son mayores, específicamente en lo que se refiere a los elementos de 
+carácter emocional. El trabajo emocional, definido como la exigencia de expresar emociones socialmente deseables durante la 
+transacción en los servicios es un elemento clave en el SQT. Asimismo, el interés por el estudio de los procesos de estrés laboral y 
+cierta preocupación de las organizaciones sobre la calidad de vida laboral que ofrecen a sus empleados abundan en la necesidad de 
+un mayor conocimiento del fenómeno del burnout. Una empresa es más competitiva y eficaz si sus componentes tienen mejor salud y 
+calidad de vida en el trabajo, puesto que de no ser así repercute negativamente sobre la organización (más incidentes y accidentes, 
+absentismo, rotación, disminución de la productividad, disminución de la calidad, etc.). Tampoco hay que despreciar las consecuencias 
+que para la sociedad se derivan de que los profesionales se vean afectados por este síndrome, tanto en costes de servicio como 
+económicos.
+Aunque, en general, para los profesionales de la salud es importante poder identificar y diagnosticar esta patología, para los 
+profesionales que se ocupan específicamente de la prevención de riesgos laborales es más importante identificar los factores de 
+exposición que pueden dar lugar a la aparición de este cuadro de daño a la salud, sea más o menos grave o tenga más o menos 
+consecuencias para el del individuo.
+Antecedentes en el estudio del SQT
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 2003
+
+El estudio de este síndrome ha sido acometido por muchos autores, en los que a menudo se encuentran algunas diferencias de matiz 
+conceptual. Esto deriva de la dificultad de definir un proceso complejo como es este síndrome, así como de discriminarlo del concepto 
+de estrés laboral.
+Es Herbert Freudenberger (USA) quien, en 1974, describe por primera vez este síndrome de carácter clínico. Básicamente, este 
+cuadro explicaba el proceso de deterioro en la atención profesional y en los servicios que se prestaban en el ámbito educativo, social, 
+sanitario, etc. Él lo definió como "una sensación de fracaso y una experiencia agotadora que resulta de una sobrecarga por exigencias 
+de energía, recursos personales o fuerza espiritual del trabajador".
+Cristina Maslach (1976) estudió lo que denominaba "pérdida de responsabilidad profesional", así, desde el ámbito psicosocial, 
+describía el síndrome sin estigmatizar psiquiátricamente a la persona. Para Maslach el síndrome de burnout se puede dar 
+exclusivamente en las profesiones de ayuda (por ejemplo, entre los sanitarios y educadores que prestan servicio al público). Son las 
+excesivas demandas emocionales externas e internas imposibles de satisfacer las que producen la vivencia de fracaso personal, tras 
+investir al trabajo de una carga emocional excesiva. En 1986, Maslach y Jackson, define el síndrome como "un síndrome de 
+agotamiento emocional, despersonalización y baja realización personal, que puede ocurrir entre individuos que trabajan con personas." 
+En estos primeros estudios se destacaba más la importancia de las diferencias individuales -como de personalidad previa- que la 
+influencia de las condiciones objetivas de trabajo.
+En 1988 Pines y Aronson proponen una definición más amplia, no restringida a las profesiones de ayuda: "Es el estado de agotamiento 
+mental, físico y emocional, producido por la involucración crónica en el trabajo en situaciones con demandas emocionales". Las 
+excesivas demandas psicológicas no se dan únicamente en el servicio directo al público, sino que pueden darse también en otros 
+ámbitos laborales, como en puestos directivos, en el trabajo comercial, en la política, etc. Pines destaca la importancia, desde la 
+prevención, de la calidad de las relaciones interpersonales en el trabajo, del modo de supervisión y de las oportunidades de 
+aprendizaje continuo y desarrollo de la carrera con las que cuente el trabajador.
+Brill, otro investigador de esta área, lo entiende como un estado disfuncional relacionado con el trabajo en una persona que no padece 
+otra alteración psicopatológica significativa. Una vez que está afectado el trabajador, si no es con una intervención externa de cambio 
+de las condiciones que han motivado esa alteración, de protección, de ayuda o mediante un reajuste laboral, no conseguirá recuperar 
+su salud. El SQT no se da como consecuencia de un salario insuficiente, o de incompetencia por falta de conocimientos, o debido a las 
+dificultades físicas, ni es consecuencia de cualquier trastorno mental existente. Lo que se deriva de estos aspectos no se debe 
+interpretar como burnout. Brill considera que el desarrollo de SQT puede tener lugar en cualquier trabajo, y no sólo en los que existe un 
+trato directo con el usuario receptor de los servicios laborales.
+Definición de "Síndrome de quemarse por el trabajo"
+Muchos trabajadores identifican estar quemado con estar a disgusto, estar harto, sentirse agobiado, tener un mal día en el trabajo, etc., 
+pero no se observa la verdadera sintomatología del síndrome, su cronicidad o su intensidad en las fases más avanzadas. Hay que 
+significar que se trata de un proceso insidioso que habitualmente deriva en consecuencias severas para la persona. Es importante 
+resaltar que esta patología es consecuencia, fundamentalmente por la exposición a unas determinadas condiciones de trabajo y no 
+está originada por una deficiencia en la personalidad del individuo.
+Teniendo en cuenta las diversas denominaciones que se le han venido dando al síndrome de burnout en nuestro país y basándose en 
+criterios de traducción literal, semántica y de sinonimia del término con el estrés laboral, se puede concluir y proponer que la mejor 
+denominación de este proceso de daño a la salud es "síndrome de estar quemado por el trabajo". Así, esta definición técnica 
+debería ser unívoca y evitar más de una interpretación. Este concepto da información de estar integrado por un conjunto sintomático 
+que hay que identificar y evaluar para diagnosticar, desvía la atención a la causa del fenómeno que es el trabajo y no estigmatiza al 
+individuo; se diferencia así la patología laboral del concepto coloquial y permite distinguir este fenómeno de otros como el estrés, el 
+desgaste emocional, la fatiga, la ansiedad, etc.
+Se entiende por síndrome un cuadro o conjunto sintomático, una serie de síntomas y signos que existen a un tiempo y definen 
+clínicamente un estado determinado. Hay cierta pretensión en los investigadores de caracterizar al burnout como un nuevo síndrome 
+clínico o una enfermedad, si bien no aparece todavía en los manuales internacionales de diagnóstico psicopatológico (CIE-10 o DSM) 
+como una patología con identidad propia (daños de la salud psíquica). Esto es debido a que las posibilidades de los criterios 
+diagnósticos existentes no se ajustan adecuadamente a las características que presenta el SQT en toda su extensión.
+En el cuadro 1 se detallan, desde una revisión del marco conceptual del síndrome, las conclusiones que se pueden establecer para 
+delimitar el concepto.
+Cuadro 1 
+Conclusiones para delimitar el concepto de SQT
+G     El burnout es consecuencia de la exposición a estresores laborales. Esta interacción del trabajador con unas determinadas 
+condiciones laborales de riesgo puede provocar el síndrome, siendo, por tanto, una consecuencia sobre la salud en la 
+persona que se deriva del trabajo.
+G     Es preciso que en el desarrollo del trabajo se dé un intercambio relaciona¡ intenso y duradero de trabajador - cliente, 
+trabajador-paciente o trabajador-usuario. Esta respuesta se caracteriza más en trabajos de "servicios humanos" de ayuda. No 
+obstante, se ha identificado en otros profesionales como directivos, mandos intermedios, deportistas, entrenadores, etc.
+G     La comunidad científica acepta conceptualmente el planteamiento empírico de la tridimensionalidad del síndrome (Maslach y 
+Jackson, 1981), que se síntomatiza en cansancio emocional, despersonalización y reducida realización personal.
+G     Los conceptos de estrés y burnout son constructos diferentes.
+
+Desde las consecuencias individuales o síntomas que caracterizan el síndrome y partiendo de un enfoque psicosocial, el burnout se ha 
+conceptualizado como un síndrome con sintomatología de agotamiento emocional, despersonalización y baja realización personal en el 
+trabajo. El agotamiento emocional es una respuesta de los trabajadores al sentir que ya no pueden dar más de sí mismos a nivel 
+afectivo. Esta respuesta de agotamiento de la energía o de los recursos emocionales propios es debida al contacto continuo con 
+personas a las que hay que atender como objeto de trabajo en unas condiciones no ajustadas al trabajador. La despersonalización se 
+explica por el desarrollo de sentimientos negativos, de actitudes y conductas de cinismo por parte del trabajador hacia las personas 
+objeto del trabajo. En estos profesionales se produce un endurecimiento afectivo y sus conductas son vistas por los usuarios de 
+manera deshumanizada. Por baja realización personal en el trabajo se entiende una tendencia de los profesionales expuestos a unas 
+condiciones de riesgo a evaluarse negativamente. Esta evaluación negativa afecta notablemente a la habilidad en la realización del 
+trabajo y a la relación con las personas a las que atienden. Los trabajadores se sienten descontentos consigo mismos e insatisfechos 
+con sus resultados laborales. Algunos autores plantean la posibilidad de que este síndrome se presente de forma colectiva, destacando 
+en el SQT propiedades de contagio. Esto explicaría los porcentajes altos que a menudo en los estudios de colectivos se presentan.
+En consecuencia, teniendo en cuenta lo expuesto, se define operacionalmente el concepto como:
+"una respuesta al estrés laboral crónico integrada por actitudes y sentimientos negativos hacia las personas con las que 
+se trabaja y hacia el propio rol profesional, así como por la vivencia de encontrarse emocionalmente agotado. Esta 
+respuesta ocurre con frecuencia en los profesionales de la salud y, en general, en profesionales de organizaciones de 
+servicios que trabajan en contacto directo con los usuarios de la organización."
+Se trata de una respuesta al estrés cuando fallan las estrategias funcionales de afrontamiento (aquellos esfuerzos cognitivos y 
+conductuales constantemente cambiantes que se desarrollan para manejar las demandas específicas externas y/o internas que son 
+evaluadas como excedentes o desbordantes de los recursos individuales). Esto no implica situar el origen o la causa en un fallo en la 
+estructura o en la funcionalidad psíquica del trabajador, sino que son esas demandas, emocionales fundamentalmente, las que 
+sobrepasan la capacidad y "tolerancia" del trabajador a las mismas. Así, el SQT se comporta como una variable mediadora entre el 
+estrés percibido y sus consecuencias. En la "figura 1"se describe un modelo que ilustra el proceso de generación del SQT.
+Figura 1 
+"Modelo de proceso de SQT". Leiter, 1993
+Modelo explicativo y contexto organizativo propicio al desarrollo del SQT
+Las condiciones de trabajo tienen una influencia significativa sobre la salud laboral y, en consecuencia, sobre la calidad del servicio que 
+ofrecen las organizaciones. Consecuencias como la tasa de accidentalidad, la morbilidad y el absentismo de los profesionales están 
+directamente ligadas a las condiciones de trabajo. De igual manera, las actitudes que desarrollan los profesionales hacia los usuarios 
+de la organización y hacia el servicio que ofrecen están asociadas a los riesgos de su entorno laboral. En algunos sectores de actividad 
+esto cobra especial relevancia, debido a que los profesionales trabajan en continua interacción con personas, prestándoles servicio.
+De los modelos explicativos psicosociales del SQT, el desarrollo más ajustado al contexto técnico y legal de la prevención de riesgos lo 
+proporcionan los modelos derivados de la teoría organizacional. Estos modelos resaltan la importancia de los estresores del entorno de 
+la organización y de las estrategias de afrontamiento empleadas ante la experiencia de quemarse. Desde esta perspectiva, el SQT es 
+una respuesta a las fuentes de estrés crónico originadas en la relación profesional-cliente y en la relación profesional-organización. Se 
+describen como antecedentes generales del síndrome los aspectos organizativos, los relativos al diseño del puesto y las relaciones 
+interpersonales dentro de la organización. Es por lo que se puede considerar como un modelo integrado en el proceso más amplio del 
+estrés laboral.
+Existen una serie de modelos que inciden en explicar, de forma pormenorizada, el proceso de daño psicofisiológico que se produce en 
+el individuo y la relación causal que se establece entre sus síntomas. En términos preventivos, estos modelos no inciden tanto en los 
+antecedentes, es decir, en las condiciones de trabajo. Se centran más en los procesos internos del individuo que conducen a la 
+aparición e incremento de la patología. Analizan los aspectos cognitivos, emocionales y actitudinales que están implicados en el 
+proceso de aparición y el desarrollo en el tiempo del SQT. En este sentido, el modelo tridimensional MBI-HSS de Maslach (1980) es el 
+más reconocido, si bien, otros expertos han aportado con sus investigaciones elementos que mejoran el mismo. También hay que 
+
+señalar que, desde la perspectiva apuntada, hay otros modelos explicativos, válidos igualmente, como el de Golembiewski (1983), 
+Leiter (1988), Edelwich y Brocisky (1980), Price y Murphy (1984), de Cherniss (1980), Cordes y Dougherty (1993)
+En la figura 2, desde una perspectiva psicosocial, se describe de forma global un modelo explicativo del desarrollo del SQT.
+Figura 2 
+"Modelo de desarrollo del SQT"
+Epidemiología del sídrome: algunos datos orientativos de prevalencia
+No existen datos precisos de prevalencia, respecto a la población general, de los colectivos de mayor riesgo. En relación al sexo, 
+globalmente, los estudios no establecen claras diferencias significativas. En cuanto a la edad coinciden en que, por causas diversas, se 
+dan más casos en el intervalo de 30 a 50 años. Respecto a variables como el estado civil, número de hijos, formación académica, 
+puesto de trabajo, tipo de contrato, etc., no se han obtenido de momento diferencias significativas que determinen una tendencia. Los 
+estudios se han centrado en colectivos específicos como profesionales sanitarios, maestros, fuerzas de seguridad, servicios sociales, 
+funcionarios de prisiones, etc. (en general, en esas profesiones que mantienen un contacto directo con las personas que son los 
+beneficiarios del propio trabajo). Algunas prospecciones sobre estos colectivos muestran unos porcentajes de prevalencia que oscilan 
+del 10% al 50% de trabajadores afectados. No obstante el SQT no es exclusivo de estas profesiones, existen estudios en vendedores, 
+ingenieros y técnicos, deportistas, supervisores, directores, secretarios, etc., incluso existen estudios en profesiones que no son del 
+sector servicios. Estos datos son meramente orientativos y proceden fundamentalmente de estudios sobre colectivos específicos 
+realizados en otros países. Las cifras indican que el problema presenta una cierta magnitud. Esta realidad conlleva, sin duda, 
+consecuencias nocivas sobre la salud laboral, tanto a nivel individual como organizativo.
+Causas o desencadenantes del proceso de SQT
+El origen del síndrome reside en el entorno laboral y en las condiciones de trabajo. Si bien, como es lógico, dependiendo de algunas 
+variables de personalidad, sociodemográficas individuales o de entorno personal, pueden darse evoluciones diferentes en el desarrollo 
+del SQT.
+La exposición a factores de riesgo psicosocial, a fuentes de estrés en dosis nocivas y, en concreto, a variables como carga de trabajo, 
+falta de control y autonomía, ambigüedad y conflicto de rol, malas relaciones en el trabajo, falta de apoyo social, falta de formación para 
+desempeñar las tareas, descompensación entre responsabilidad-recursos-autonomía, etc., cuando se produce en trabajos en los que 
+su contenido tiene unas demandas emocionales importantes y de prestación de servicios humanos, puede dar lugar a la aparición de 
+un proceso de estrés crónico que desemboque en un daño para la salud del trabajador, el SQT.
+El origen del SQT se sitúa en las demandas de interacción que se producen en el entorno de trabajo, fundamentalmente con los 
+clientes de la organización. Cuando esas exigencias son excesivas y conllevan una tensión en el aspecto emocional y cognitivo, 
+generan las condiciones propicias para que también las fuentes de estrés mencionadas con anterioridad actúen y produzcan en el 
+individuo un patrón de respuestas que constituyen los síntomas del SQT. Esta es la razón de que los profesionales que trabajan con 
+personas sean los colectivos de riesgo.
+Estas condiciones previas susceptibles de provocar este daño existen en muchos sectores de actividad y colectivos de trabajadores.
+El estrés es una respuesta que es producto de una combinación de variables físicas, psicológicas y sociales. A menudo, este síndrome 
+se desencadena bajo unas condiciones de trabajo en las que se destacan especialmente estresores como escasez de personal, - que 
+supone sobrecarga laboral-, trabajo en turnos, trato con usuarios problemáticos, contacto directo con la enfermedad, con el dolor y con 
+la muerte, falta de especificidad de funciones y tareas -lo que supone conflicto y ambigüedad de rol-, falta de autonomía y autoridad en 
+el trabajo para poder tomar decisiones, rápidos cambios tecnológicos, etc.
+Sintéticamente se puede decir que, el balance de las demandas de los intercambios sociales debidos a la prestación de servicios y los 
+
+recursos de los que dispone el trabajador, además de la reprocidad percibida por el trabajador en relación a su esfuerzo por parte de la 
+organización, condiciona y determina las consecuencias de SQT. En la "figura 3" se ilustra un sintético modelo de intercambio social 
+relacionado con el síndrome.
+Figura 3 
+"Modelo de intercambio social". Schaufeli, 1996
+En las investigaciones se han evidenciado múltiples causas del síndrome. Estos desencadenantes son aquellas demandas nocivas, 
+cualitativa o cuantitativamente, que impactan sobre el trabajador, independientemente de las características individuales de la persona. 
+Estas características personales de ningún modo pueden ser la causa del riesgo, sino que, en todo caso, son factores a tener en 
+cuenta a la hora de adaptar el trabajo a la persona. De no corregir o proteger al sujeto de la exposición a las condiciones de trabajo de 
+riesgo, éstas pueden determinar un SQT, si no lo remedia la resistencia o recursos personales o sociales de la propia persona. Se 
+puede hacer una clasificación que permita identificar tres grupos de estresores susceptibles de desencadenar este SQT (ver cuadro 2).
+Por otra parte, hay que tener en cuenta dos elementos asociados a la hora de gestionar el riesgo: las características individuales y los 
+cambios supraorganizativos que se producen. Los elementos que se detallan en el "cuadro 3", sin ser una relación exhaustiva, hay que 
+considerarlos sólo a efectos de cumplir la obligación empresarial de adaptar el trabajo a la persona y no en relación a la causalidad del 
+riesgo, en términos de PRL.
+Se dice que cualquier profesional o trabajador con una gran vocación, que se entrega a su profesión, con altos niveles de idealismo 
+profesional y que desarrolla su trabajo centrado en el trato hacia los demás puede desarrollar el SQT. Ahí no residen las causas de las 
+nocivas consecuencias para la salud que tiene desarrollar el SQT, sino que son los riesgos organizativos, de diseño del puesto y de 
+exigencias del servicio en las interacciones las que desencadenan e incrementan el daño a la salud si no se protege al individuo.
+Cuadro 2 
+Grupos de estresores susceptibles de desencadenar este SQT
+FACTORES DE RIESGO A NIVEL DE ORGANIZACIÓN
+G     Estructura de la organización muy jerarquizada y rígida
+G     Falta de apoyo instrumental por parte de la organización
+G     Exceso de burocracia, "burocracia profesionalizada"
+G     Falta de participación de los trabajadores
+G     Falta de coordinación entre las unidades
+G     Falta de formación práctica a los trabajadores en nuevas tecnologías
+G     Falta de refuerzo o recompensa
+G     Falta de desarrollo profesional
+G     Relaciones conflictivas en la organización
+G     Estilo de dirección inadecuado
+G     Desigualdad percibida en la gestión de los RRHH
+FACTORES DE RIESGO RELATIVOS AL DISEÑO DEL PUESTO DE TRABAJO
+
+G     Sobrecarga de trabajo, exigencias emocionales en la interacción con el cliente
+G     Descompensación entre responsabilidad y autonomía
+G     Falta de tiempo para la atención del usuario (paciente, cliente, subordinado, etc.)
+G     Disfunciones de rol: conflicto-ambigüedad- sobrecarga de rol
+G     Carga emocional excesiva
+G     Falta de control de los resultados de la tarea
+G     Falta de apoyo social
+G     tareas inacabadas que no tienen fin
+G     Poca autonomía decisional
+G     Estresores económicos
+G     Insatisfacción en el trabajo
+FACTORES DE RIESGO RELATIVOS A LAS RELACIONES INTERPERSONALES
+G     Trato con usuarios difíciles o problemáticos
+G     Relaciones conflictivas con clientes
+G     Negativa dinámica de trabajo
+G     Relaciones tensas, competitivas, con conflictos entre compañeros y con usuarios
+G     Falta de apoyo social
+G     Falta de colaboración entre compañeros en tareas complementarias
+G     Proceso de contagio social del SQT
+G     Ausencia de reciprocidad en los intercambios sociales
+Cuadro 3 
+Elementos asociados a la hora de gestionar el riesgo
+CARACTERÍSTICAS PERSONALES
+G     Alta motivación para la ayuda: grado de altruismo
+G     Alto grado de idealismo
+G     Alto grado de empatía
+G     Elevado grado de perfeccionismo
+G     Constancia en la acción
+G     Baja autoestima
+G     Reducidas habilidades sociales
+G     Tendencia a la sobre implicación emocional
+G     Patrón de conducta de tipo A
+G     Locus de control externo
+G     Baja autoeficacia
+CAMBIOS SUPRAORGANIZATIVOS
+G     Cambios tecnológicos que implican un aumento de las demandas cuantitativas y cualitativas en el servicio a la población 
+usuaria
+G     Cambios en la concepción del trabajo: el trabajo emocional
+G     Aparición de situaciones que impliquen pérdida de estatus o prestigio
+G     Aparición de nuevas leyes que impliquen cambios estatutarios y de ejercicio de la profesión
+G     Cambios en la cultura de la población usuaria, "la sociedad de la queja"
+G     Cambios en los programas de servicio
+G     Cambios en los procedimientos, tareas o funciones del trabajo
+G     Cambios en los perfiles demográficos de la población usuaria y que requiere de un cambio de roles
+Fases del proceso de burnout
+Integrando los diversos estudios que describen la transición por etapas del SQT, se pueden destacar cinco fases en el desarrollo del 
+síndrome.
+
+Fase inicial, de entusiasmo
+Se experimenta, ante el nuevo puesto de trabajo, entusiasmo, gran energía y se dan expectativas positivas. No importa alargar la 
+jornada laboral.
+Fase de estancamiento
+No se cumplen las expectativas profesionales. Se empiezan a valorar las contraprestaciones del trabajo, percibiendo que la relación 
+entre el esfuerzo y la recompensa no es equilibrada. En esta fase tiene lugar un desequilibrio entre las demandas y los recursos 
+(estrés); por tanto, definitoria de un problema de estrés psicosocial. El profesional se siente incapaz para dar una respuesta eficaz.
+Fase de frustración
+Se puede describir una tercera fase en la que la frustración, desilusión o desmoralización hace presencia en el individuo. El trabajo 
+carece de sentido, cualquier cosa irrita y provoca conflictos en el grupo de trabajo. La salud puede empezar a fallar y aparecer 
+problemas emocionales, fisiológicos y conductuales.
+Fase de apatía
+En la cuarta fase se suceden una serie de cambios actitudinales y conductuales (afrontamiento defensivo) como la tendencia a tratar a 
+los clientes de forma distanciada y mecánica, la anteposición cínica de la satisfacción de las propias necesidades al mejor servicio al 
+cliente y por un afrontamiento defensivo-evitativo de las tareas estresantes y de retirada personal. Estos son mecanismos de defensa 
+de los individuos.
+Fase de quemado
+Colapso emocional y cognitivo, fundamentalmente, con importantes consecuencias para la salud. Además, puede obligar al trabajador 
+a dejar el empleo y arrastrarle a una vida profesional de frustración e insatisfacción.
+Esta descripción de la evolución del SQT tiene carácter cíclico. Así, se puede repetir en el mismo o en diferentes trabajos y en 
+diferentes momentos de la vida laboral.
+Bibliografía
+1.  BRILL, P.L., 
+The need for an operational definition of burnout 
+Family and Community Health 1984. 6: 12 24.
+2.  DE LA GÁNDARA, J.J., 
+Estrés y trabajo: el síndrome del burnout 
+Ed. Cauce editorial, 1998.
+3.  FREUDENBERGER, H, 
+Staff burnout 
+Journal of Social Issues 1974; 30: 159165.
+4.  GARCÉS DE LOS FAYOS RUIZ, E.J., 
+Tésis sobre burnout, 1996.
+5.  GIL-MONTE, P. R. Y PEIRÓ, J. M., 
+Desgaste psíquico en el trabajo: el síndrome de quemarse 
+Madrid, Ed. Síntesis, 1997.
+6.  HARRISON, W.D. 
+A social competence model of burnout 
+En: Farber, B. A. (Ed.), Stress and burnout in the human services professions (pp. 29-39). New York: Pergamon Press. (1983)
+7.  LAZARUS, R.S. & FOLKMAN, S. 
+Estrés y procesos cognitivos 
+Ed Martínez -Roca. Barcelona, 1986.
+8.  O.M.S. 
+The World Health Report 2000. Health systems: Improving performance 
+Disponible en el World Wide Web: http://www.who.imt/whr, 2000.
+9.  PINES AM, ARONSON, E. 
+Carreer burnout: causes and cures 
+Nueva York: Free Press., 1998.
+   © INSHT

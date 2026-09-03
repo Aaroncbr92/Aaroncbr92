@@ -1,0 +1,366 @@
+NTP 476: El hostigamiento psicológico en el trabajo: mobbing
+L’ harcèlement psychologique au travail: mobbing 
+Psychological harassment at work: mobbing
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Actualizada por la NTP 854.
+Redactores:
+Félix Martín Daza 
+Ldo. en Psicología
+Jesús Pérez Bilbao 
+Ldo. en Psicología
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Juan Antonio López García-Silva 
+Ldo. Medicina. Esp. Medicina del trabajo
+GERENCIA INFORMÁTICA DE LA SEGURIDAD SOCIAL MADRID
+La literatura internacional se refiere con el término de mobbing a ciertas situaciones de hostigamiento psicológico en el trabajo que 
+se manifiestan en forma de conflictos interpersonales. La presente NTP identifica el concepto y sus características, su génesis, 
+manifestaciones y evolución. Se hace hincapié en la importancia de sus consecuencias y en la necesidad de identificarlo a tiempo y 
+de darle solución en sus fases más tempranas.
+Introducción
+Una organización de trabajo implica la reunión de un grupo de personas, más o menos grande, con un fin común, lo que la convierte en 
+una organización social. En las organizaciones de trabajo suelen estar contempladas las relaciones que deben establecerse entre los 
+distintos individuos y grupos para la realización de la tarea encomendada. Sin embargo, la existencia de otros tipos de relaciones, 
+distintas de las meramente productivas, entre los distintos individuos de una empresa, así como el desarrollo formal de todas las 
+relaciones en general, es algo que no suele merecer atención al no ser aspectos directamente relacionados con la realización del 
+trabajo.
+Como consecuencia, es posible que se de un funcionamiento anormal de la organización social, lo que puede traducirse en 
+consecuencias bastante más amplias que simples discusiones o problemas personales. Distintos estudios han puesto de manifiesto 
+que la existencia de problemas en estos ámbitos está relacionada con la aparición de ciertas disfunciones que repercutirán tanto sobre 
+los trabajadores (mal clima laboral, insatisfacción en el trabajo, desmotivación,...) como sobre el funcionamiento de la empresa 
+(absentismo, abandonos del trabajo, incremento de la accidentabilidad, disminución de la cantidad y la calidad del trabajo,...).
+Un conjunto de problemas originados a partir de las relaciones que se establecen entre los trabajadores de una organización de trabajo 
+han sido conceptualizados con la denominación de mobbing. Este concepto hace referencia a situaciones de hostigamiento psicológico 
+que se da entre los miembros de una organización de trabajo, aunque al ser este tipo de problemas propios de las organizaciones 
+sociales, pueden producirse en otros ámbitos distintos del laboral (familiar, escolar, vecindario, etc.).
+Definición
+Se ha constatado la existencia en las empresas de trabajadores sometidos a un hostigamiento psicológico tal, que presentan síntomas 
+psicosomáticos y reacciones anormales hacia el trabajo y el ambiente laboral. Muchas de estas manifestaciones se ajustan a la 
+definición de mobbing, término empleado en la literatura psicológica internacional para describir una situación en la que una persona o 
+un grupo de personas ejercen una violencia psicológica extrema (en una o más de las 45 formas o comportamientos descritos por el 
+Leymann Inventory of Psychological Terrorization, LIPT), de forma sistemática (al menos, una vez por semana), durante un tiempo 
+prolongado (más de 6 meses), sobre otra persona en el lugar de trabajo, según definición de H. Leymann. En castellano, se podría 
+traducir dicho término como “psicoterror laboral” u “hostigamiento psicológico en el trabajo”.
+Año: 1998
+
+Formas de expresión
+De la definición anterior se deduce la existencia de dos partes enfrentadas entre las que se puede diferenciar, por una parte, a los 
+“hostigadores” con comportamientos y actitudes hostiles, activas, dominadoras y, por otra, al agredido con actitudes y comportamientos 
+de tipo reactivo o inhibitorio. La expresión de las situaciones de hostigamiento psicológico hacia un individuo se manifiesta de muy 
+diversas maneras, a través de distintas actitudes y comportamientos. Leyman distingue 45 comportamientos hostiles que pueden ser 
+de distinta naturaleza:
+G     Acciones contra la reputación o la dignidad personal del afectado; por medio de la realización de comentarios injuriosos 
+contra su persona, ridiculizándolo o riéndose públicamente de él, de su aspecto físico, de sus gestos, de su voz, de sus 
+convicciones personales o religiosas, de su estilo de vida, etc... Uno de estos comportamientos, de gran incidencia y objeto de 
+diversos estudios, sentencias judiciales, etc. es el acoso sexual. Se pueden dar también diversas acciones contra la reputación 
+del afectado como trabajador.
+G     Acciones contra el ejercicio de su trabajo, encomendándole trabajo en exceso o difícil de realizar cuando no innecesario, 
+monótono o repetitivo, o incluso trabajos para los que el individuo no está cualificado, o que requieren una cualificación menor 
+que la poseída por la víctima (shunting); o, por otra parte, privándole de la realización de cualquier tipo de trabajo; enfrentándole 
+a situaciones de conflicto de rol (negándole u ocultándole los medios para realizar su trabajo, solicitándole demandas 
+contradictorias o excluyentes, obligándole a realizar tareas en contra de sus convicciones morales, etc.).
+G     Muchas de las acciones comprenden una manipulación de la comunicación o de la información con la persona afectada que 
+incluyen una amplia variedad de situaciones; manteniendo al afectado en una situación de ambigüedad de rol (no informándole 
+sobre distintos aspectos de su trabajo, como sus funciones y responsabilidades, los métodos de trabajo a realizar, la cantidad y 
+la calidad del trabajo a realizar, etc., manteniéndole en una situación de incertidumbre); haciendo un uso hostil de la 
+comunicación tanto explícitamente (amenazándole, criticándole o reprendiéndole acerca de temas tanto laborales como 
+referentes a su vida privada) como implícitamente (no dirigiéndole la palabra, no haciendo caso a sus opiniones, ignorando su 
+presencia,...); utilizando selectivamente la comunicación (para reprender o amonestar y nunca para felicitar, acentuando la 
+importancia de sus errores, minimizando la importancia de sus logros,...).
+G     Otras acciones muestran la característica de que son situaciones de inequidad mediante el establecimiento de diferencias de 
+trato, o mediante la distribución no equitativa del trabajo, o desigualdades remunerativas, etc.
+Parece que es habitual que un individuo que padece esta situación de mobbing sea objeto, al mismo tiempo, de varios de los tipos de 
+hostigamiento descritos por parte de su/s hostigador/es. El Cuadro 1 presenta una relación de conductas de hostigamiento.
+Por otra parte, hay que poner de manifiesto que las acciones hostiles de las que se habla, se producen usualmente en algunas 
+organizaciones de trabajo, si bien no suelen responder a las especificaciones (acciones sistemáticas, frecuencia y duración 
+determinada, focalización sobre una persona,...) que las encajarían dentro de la conceptualización de mobbing.
+Cuadro 1. Algunas conductas concretas de mobbing clasificadas por factores (Zapf, Knorz y Kulla, 
+1996)
+ATAQUES A LA VÍCTIMA CON MEDIDAS ORGANIZACIONALES
+G     El superior restringe a la persona las posibilidades de hablar
+G     Cambiar la ubicación de una persona separándole de sus compañeros
+G     Prohibir a los compañeros que hablen a una persona determinada
+G     Obligar a alguien a ejecutar tareas en contra de su conciencia
+G     Juzgar el desempeño de una persona de manera ofensiva
+G     Cuestionar las decisiones de una persona
+G     No asignar tareas a una persona
+G     Asignar tareas sin sentido
+G     Asignar a una persona tareas muy por debajo de sus capacidades
+G     Asignar tareas degradantes
+ATAQUES A LAS RELACIONES SOCIALES DE LA VÍCTIMA CON AISLAMIENTO SOCIAL
+G     Restringir a los compañeros la posibilidad de hablar con una persona
+G     Rehusar la comunicación con una persona a través de miradas y gestos
+G     Rehusar la comunicación con una persona a través de no comunicarse directamente con ella
+G     No dirigir la palabra a una persona
+G     Tratar a una persona como si no existiera
+ATAQUES A LA VIDA PRIVADA DE LA VÍCTIMA
+G     Críticas permanentes a la vida privada de una persona
+G     Terror telefónico
+G     Hacer parecer estúpida a una persona
+G     Dar a entender que una persona tiene problemas psicológicos
+G     Mofarse de las discapacidades de una persona
+G     Imitar los gestos, voces... de una persona
+G     Mofarse de la vida privada de una persona
+
+VIOLENCIA FÍSICA
+G     Ofertas sexuales, violencia sexual
+G     Amenazas de violencia física
+G     Uso de violencia menor
+G     Maltrato físico
+ATAQUES A LAS ACTITUDES DE LA VÍCTIMA
+G     Ataques a las actitudes y creencias políticas
+G     Ataques a las actitudes y creencias religiosas
+G     Mofarse de la nacionalidad de la víctima
+AGRESIONES VERBALES
+G     Gritar o insultar
+G     Críticas permanentes del trabajo de la persona
+G     Amenazas verbales
+RUMORES
+G     Hablar mal de la persona a su espalda
+G     Difusión de rumores
+Características
+El mobbing podría considerarse como una forma característica de estrés laboral, que presenta la particularidad de que no ocurre 
+exclusivamente por causas directamente relacionadas con el desempeño del trabajo o con su organización, sino que tiene su origen en 
+las relaciones interpersonales que se establecen en cualquier empresa entre los distintos individuos.
+Una característica de la situación es la de ser un conflicto asimétrico entre las dos partes, donde la parte hostigadora tiene más 
+recursos, apoyos o una posición superior a la del trabajador hostigado. En esta dinámica, el presunto agresor o agresores se valen, 
+normalmente, de algún argumento o estatuto de poder como pueden ser la fuerza física, la antigüedad, la fuerza del grupo, la 
+popularidad en el grupo o el nivel jerárquico para llevar a cabo estos comportamientos hostigadores.
+El contenido y significación de muchos de esos comportamientos y actitudes descritos resulta de muy difícil objetivación. Esto es así, 
+porque en esta problemática aparecen implicadas por un lado, las intenciones de los presuntos agresores y, por otro, la atribución que, 
+de esas intenciones, realiza el trabajador afectado. No obstante, y a efectos de los problemas que se pueden originar, el objeto de 
+análisis lo constituye la realidad psicológica del trabajador afectado.
+Una de las particularidades de este tipo de procesos es que el afectado perciba que sus hostigadores tienen la intención explícita de 
+causarle daño o mal, lo que convierte a la situación en especialmente estresante. Además, el individuo interpreta las situaciones como 
+una gran amenaza a su integridad, pues contraría algunas de sus expectativas (como la de recibir un trato equitativo) y atenta contra 
+sus necesidades básicas como la necesidad de afiliación (necesidad de estar asociado y de tener relaciones afectuosas con otras 
+personas) y de estatus (necesidad de una relación con los otros, establecida y respetada).
+Por otra parte, en estas ocasiones el individuo no sabe cómo afrontar estas situaciones para modificar su entorno social, ni sabe cómo 
+controlar las reacciones emocionales que le produce dicho proceso. El fracaso en el afrontamiento de las situaciones y en el control de 
+la ansiedad desencadena una patología propia del estrés, que se va cronificando y agravando progresivamente.
+El origen del mobbing
+El origen o el por qué del problema puede ser muy diverso. Las hipótesis apuntan a motivos de distinta índole que van desde fuertes 
+desencuentros, diferencias o conflictos de cualquier naturaleza entre hostigadores y hostigado, hasta que este tipo de comportamientos 
+constituyan una especie de “distracción” para los hostigadores.
+Pero básicamente, el substrato que favorece la aparición de este tipo de conductas se encuentra ligado a dos aspectos: la organización 
+del trabajo y la gestión de los conflictos por parte de los superiores.
+Respecto al primero, los estudios empíricos han mostrado una importante relación entre una organización pobre del trabajo y la 
+aparición de conductas de mobbing. Así, estas conductas se ven favorecidas en organizaciones con un método de trabajo y producción 
+con una organización extremadamente pobre, con ausencia de interés y apoyo por parte de los superiores, con ausencia de relación 
+con éstos, con la existencia de múltiples jerarquías, con cargas excesivas de trabajo debido a escasez de la plantilla o mala distribución 
+de la misma, con una deficiente organización diaria del trabajo, con la existencia de líderes espontáneos no oficiales, con un trabajo 
+con bajo contenido, con conflictos de rol, con flujos pobres de información, con estilos de dirección autoritarios, etc.
+Desde el punto de vista de la gestión del conflicto por parte de los superiores, hay dos posiciones que pueden adoptar los superiores 
+
+que ayudan a incrementar la escala del conflicto: de un lado, la negación del mismo y, del otro, la implicación y participación activa en 
+el conflicto con el fin de contribuir a la estigmatización de la persona hostigada.
+Aunque ciertas características personales pueden estar implicadas en la posibilidad de estar sometido a este tipo de situaciones, en 
+principio, cualquiera puede verse afectado por este problema. De hecho, es posible que alguna vez en la vida cualquier persona puede 
+encontrarse en esta situación. No obstante, la reacción del hostigado ante este tipo de problemas sí que puede variar en función de sus 
+características personales. La forma en que se evalúa y, sobre todo, la forma en la que se enfrenta a la situación una persona está muy 
+relacionada tanto con la solución efectiva del problema como con el nivel o la magnitud de consecuencias que desarrolla el afectado. 
+Así, la adopción de conductas de afrontamiento activo, tendentes a la solución del problema o medidas tendentes a controlar las 
+reacciones emocionales que le provoca ese problema serán más efectivas en este sentido que la adopción de conductas activas mal 
+dirigidas (que pueden seguir alimentando el problema) o de conductas de tipo evitativo como la inhibición conductual o los 
+comportamientos sustitutivos de tipo compensatorio.
+Desarrollo del problema
+Al constituir un problema que se da a lo largo del tiempo es posible encontrar distintas etapas (ver cuadro 2) en su evolución. Se han 
+descrito cuatro fases en el desarrollo de este problema en el ámbito laboral:
+Cuadro 2. Frases de desarrollo del problema
+FASE DE CONFLICTO 
+ 
+FASE DE «MOBBING» 
+ 
+FASE DE INTERVENCIÓN DESDE LA EMPRESA 
+ 
+FASE DE MARGINACIÓN O DE EXCLUSIÓN DE LA VIDA LABORAL
+1ª fase, o fase de conflicto
+En cualquier organización laboral, la existencia de conflictos resulta algo esperable, bien por motivos de organización del trabajo (en 
+una empresa se encuentran personas y grupos cuyos objetivos e intereses están frecuentemente enfrentados), o bien por problemas 
+interpersonales (los comportamientos, actitudes, formas de relación, estilos de vida,... de los trabajadores pueden ser de muy diversa 
+índole y pueden originar roces). Si bien los conflictos son un acontecimiento común en la vida de relación, gran parte de ellos se 
+resuelven de forma más o menos satisfactoria; bien por la resolución definitiva del conflicto, por el cambio de las circunstancias que lo 
+provocaban, o porque vayan remitiendo con el tiempo. Sin embargo, también es posible que alguno de esos problemas se haga 
+crónico, dando paso a la segunda fase.
+2ª fase, o fase de mobbing o de estigmatización
+Comienza con la adopción, por una de las partes en conflicto, de las distintas modalidades de comportamiento hostigador descritas 
+anteriormente sobre el objeto del mobbing (con la frecuencia y tiempo requeridos como criterio de definición). Lo que al comienzo tal 
+vez fuera un conflicto entre dos personas, puede llegar a ser un conflicto de muchas personas contra una, con la adopción de 
+comportamientos hostigadores grupales. Independientemente de que actúen el complejo de culpa o la más absoluta carencia de 
+escrúpulos, la víctima comienza a resultar una amenaza, o un incordio para la persona o grupo de personas que le somete a tan 
+indeseables experiencias.
+La prolongación de esta fase es debida a actitudes de evitación o de negación de la realidad por parte del trabajador, otros 
+compañeros no participantes, sindicatos, e incluso la dirección. La indefensión, la inhibición del afectado a la hora de denunciar estos 
+hechos, la dificultad probatoria y las carencias del sistema judicial, permiten la prolongación en el tiempo de esta fase que, según los 
+estudios de Leymann en Suecia, tiene una duración de 1.3 años por término medio, antes de pasar a la tercera fase.
+3ª fase, o fase de intervención desde la empresa
+En esta fase y dependiendo del lugar, legislación y estilo de dirección de la empresa, se tomarán una serie de medidas, desde algún 
+escalón jerárquico superior (el departamento de personal, el servicio médico o la dirección de la empresa), encaminadas a la resolución 
+positiva del conflicto (cambio de puesto, fomento del diálogo entre los implicados, etc.), o, más habitualmente, medidas tendentes a 
+desembarazarse del supuesto origen o centro del conflicto, contribuyendo así, a la mayor culpabilización y sufrimiento del afectado. 
+Estas medidas van desde las bajas médicas sucesivas, que conllevan el alargamiento o el aplazamiento del conflicto, hasta el despido 
+del trabajador afectado o la pensión por invalidez permanente. De adoptarse medidas de esta naturaleza, el resultado es la cuarta fase 
+del proceso.
+4ª fase, o fase de marginación o exclusión de la vida laboral
+En este periodo el trabajador compatibiliza su trabajo con largas temporadas de baja, o queda excluido definitivamente del mundo 
+laboral con una pensión de incapacidad, contribuyendo a las cargas económicas y sociales del Estado (con unas magnitudes nada 
+desdeñables, si atendemos a los datos que sobre el impacto económico en Suecia presenta Leymann). En esta situación, la persona 
+
+subsiste con diversas patologías consecuencia de su anterior o anteriores experiencias de psicoterror y se pueden deducir las 
+consecuencias físicas, psíquicas y sociales que para el afectado tiene este fenómeno.
+Obviamente, el desarrollo de todas estas fases implica la no resolución del problema en ninguna de ellas.
+Consecuencias
+Las consecuencias del mobbing pueden ser de distinta naturaleza y afectar a varios ámbitos (ver cuadro 3). Son muy próximas a la 
+patología originada por el estrés, pero con una especial incidencia de la patología de tipo social:
+Cuadro 3. Tipo de consecuencias del mobbing
+G     PARA EL TRABAJADOR AFECTADO
+G     PARA LA ORGANIZACIÓN DE TRABAJO
+G     PARA EL NÚCLEO FAMILIAR Y SOCIAL
+G     PARA LA COMUNIDAD
+Para el trabajador afectado
+A nivel psíquico. La sintomatología puede ser muy diversa. El eje principal de las consecuencias que sufre el sujeto afectado sería la 
+ansiedad: la presencia de un miedo acentuado y continuo, de un sentimiento de amenaza. La ansiedad que manifiestan estos sujetos 
+en su tiempo de trabajo, puede generalizarse a otras situaciones. Pueden darse también otros trastornos emocionales como 
+sentimientos de fracaso, impotencia y frustración, baja autoestima o apatía. Pueden verse afectados por distintos tipos de distorsiones 
+cognitivas o mostrar problemas a la hora de concentrarse y dirigir la atención (los diagnósticos médicos compatibles son síndrome de 
+estrés postraumático y síndrome de ansiedad generalizada). Este tipo de problema puede dar lugar a que el trabajador afectado, con el 
+objeto de disminuir la ansiedad, desarrolle comportamientos sustitutivos tales como drogodependencias y otros tipos de adicciones, 
+que además de constituir comportamientos patológicos en sí mismos, están en el origen de otras patologías.
+La excesiva duración o magnitud de la situación de mobbing puede dar lugar a patologías más graves o a agravar problemas 
+preexistentes. Así, es posible encontrar cuadros depresivos graves, con individuos con transtornos paranoides e, incluso, con suicidas.
+A nivel físico, podemos encontrarnos con diversas manifestaciones de patología psicosomática: desde dolores y transtornos 
+funcionales hasta transtornos orgánicos.
+A nivel social, es posible que estos individuos lleguen a ser muy susceptibles e hipersensibles a la crítica, con actitudes de 
+desconfianza y con conductas de aislamiento, evitación, retraimiento o, por otra parte, de agresividad u hostilidad y con otras 
+manifestaciones de inadaptación social. Son comunes sentimientos de ira y rencor, y deseos de venganza contra el/los agresor/es.
+En general, puede decirse que la salud social del individuo se encuentra profundamente afectada pues este problema puede 
+distorsionar las interacciones que tiene con otras personas e interferir en la vida normal y productiva del individuo. La salud del 
+individuo se verá más afectada cuanto menores apoyos efectivos encuentre (personas que le provean de afecto, comprensión consejo, 
+ayuda,..) tanto en el ámbito laboral como en el extralaboral.
+Desde el punto de vista laboral posiblemente resultarán individuos desmotivados e insatisfechos que encontrarán el trabajo como un 
+ambiente hostil asociado al sufrimiento y que no tendrán un óptimo rendimiento. La conducta lógica de un trabajador sometido a una 
+situación de mobbing sería el abandono de la organización, sin embargo, en muchos casos éste no se produce debido, de un lado, a la 
+difícil situación del empleo en la economía actual y, de otro lado, a que, a medida que el trabajador se va haciendo mayor, ve 
+disminuida su capacidad para encontrar nuevos empleos.
+Para la organización de trabajo
+Sobre el rendimiento: Es un hecho cierto que tener trabajadores con este tipo de problemas afecta al desarrollo del trabajo, pues al 
+distorsionar la comunicación y la colaboración entre trabajadores, interfiere en las relaciones que los trabajadores deben establecer 
+para la ejecución de las tareas. Así, se producirá una disminución de la cantidad y calidad del trabajo desarrollado por la persona 
+afectada, el entorpecimiento o la imposibilidad del trabajo en grupo, problemas en los circuitos de información y comunicación, etc. Por 
+otra parte, se producirá un aumento del absentismo (justificado o no) de la persona afectada. Es posible también que se produzcan 
+pérdidas en la fuerza de trabajo ya que previsiblemente, el trabajador intentará cambiar de trabajo.
+Sobre el clima social: Distintos conceptos (como la cohesión, la colaboración, la cooperación, la calidad de las relaciones 
+interpersonales,...) que señalan el clima social en una organización de trabajo se verán afectados ante la existencia de problemas de 
+este tipo.
+Sobre la accidentabilidad: Algunos estudios relacionan la calidad del clima laboral con la posibilidad de que se incremente la 
+accidentabilidad (accidentes por negligencias o descuidos, accidentes voluntarios,..).
+
+Para el núcleo familiar y social
+El entorno social del afectado padecerá las consecuencias de tener una persona cercana amargada, desmotivada, sin expectativas ni 
+ganas de trabajar, y que padecerá posiblemente algún tipo de trastorno psiquiátrico, con o sin adicción a drogas.
+Para la comunidad
+Según los estudios de Leymann sobre el impacto económico de este tipo de problema para la comunidad, no hay que menospreciar las 
+consecuencias que a este nivel se producen: la pérdida de fuerza de trabajo, costes de asistencia a enfermedades, costes de las 
+pensiones de invalidez, etc.
+Evaluación
+A la hora de evaluar este problema puede valorarse su prevalencia; es decir, cuántos trabajadores de una organización de trabajo se 
+ve afectado por una o varias de las situaciones descritas, en la duración y frecuencia especificadas.
+También se pueden valorar el tipo y magnitud de las consecuencias que está experimentando y la relación de estas consecuencias con 
+las situaciones de mobbing.
+Algunos estudios se encargan de destacar la incidencia de este problema y/o su magnitud, para lo cual se han diseñado herramientas 
+específicas estandarizadas como el L.I.P.T. (Leymann Inventory of Psychological Terrorization, 1990). Otros instrumentos miden las 
+consecuencias derivadas de este tipo de procesos. Dado que el tipo de situaciones descritas originan estrés, los instrumentos 
+utilizados para evaluar algunas de las consecuencias derivadas del mobbing son diversos cuestionarios específicos destinados a 
+evaluar sintomatología psicosomática generada por procesos estresantes, como el Test de Salud Total (T.S.T. de T. S. Langner, 1962, 
+NTP 421/1996) o el Cuestionario General de Salud (G.H.Q. de D. Goldberg, 1972)
+En un estudio realizado por el autor de esta NTP, López et al, a finales de 1994, por medio de la aplicación de un cuestionario 
+elaborado para el efecto, sobre 95 personas que llevan a cabo tareas administrativas, algunas consecuencias que se describieron ante 
+situaciones de mobbing fueron situaciones de sumisión/aceptación, con pérdida de autoestima, ira, sentimientos de venganza y 
+actitudes apáticas. Es decir, fundamentalmente de tipo personal. Curiosamente, algunos casos no relacionaban su sintomatología 
+psíquica y psicosomática con la vivencia de la situación de mobbing lo que hace pensar en que puede existir cierta dificultad para que 
+los afectados expresen su situación real o puedan llegar a describirla fielmente, de forma escrita. No obstante, la aplicación de 
+cuestionarios, aunque puede que no resulten el medio más adecuado para evaluar todos los extremos de esta problemática, puede 
+constituir un medio para poner de manifiesto las dimensiones de este tipo de problemática, o servir como pruebas de screening.
+Intervención
+Ante este tipo de problema, el trabajador afectado siente con mayor intensidad, tal vez más que ante otro tipo de problemas, la 
+necesidad de buscar apoyo social. El tratamiento de este tipo de problemática en el ámbito laboral suele recaer sobre algún compañero 
+del afectado o sobre el médico de empresa, que debe realizar tareas de confesor, asesor o psicólogo, procurándole apoyo social 
+(sobre todo, de carácter evaluativo y emocional) al afectado o facilitándole medicaciones (tranquilizantes, antidepresivos,..). No 
+obstante, el grueso de este problema suele recaer en ámbitos extralaborales donde generalmente suele tratarse la mayor parte del 
+problema.
+Resulta utópico pensar que una organización, por compleja y bien organizada que esté, haya previsto y solucionado todas las posibles 
+fuentes de conflictos de todo tipo que se pueden dar. Un paso previo para que una empresa se enfrente con éxito a la resolución de 
+conflictos es el considerar que éstos son una circunstancia normal y no excepcional en una organización.
+Existen distintos medios más o menos adecuados para evitar, prevenir y resolver problemas a nivel laboral, y la falta de existencia de 
+una sistematización adecuada de estos medios puede llevar a consecuencias de magnitud similar a las del fenómeno que aquí se trata.
+Sería conveniente la planificación y el diseño de las relaciones sociales en la empresa, aún teniendo en cuenta que es un ámbito con 
+un gran margen de indeterminación. Este diseño tiene que atender no solamente a los circuitos de relaciones dependientes del trabajo 
+sino a las relaciones interpersonales independientes del trabajo. Así, medios como el entrenamiento de los trabajadores en relaciones 
+interpersonales o los sistemas de regulación de conflictos tienen que estar dirigidos a todas las dimensiones sociales posibles en una 
+empresa. Otro de los medios consiste en articular sistemas de presentación, acogida e integración de las personas recién 
+incorporadas, sin olvidar la consideración de la cultura de la empresa en la selección de personal.
+Para intervenir en la problemática descrita, otro medio lo constituyen los servicios internos de psicología. El contar dentro de la 
+empresa con un servicio permanente de asistencia a los trabajadores desempeñado por profesionales de la psicología puede resultar 
+adecuado. Este tipo de servicio podría desarrollar tareas tales como el tratamiento de problemas de carácter personal y apoyo 
+psicológico a los trabajadores, así como el desarrollo de acciones preventivas para evitar la aparición de problemática psicosocial. El 
+carácter interno y permanente de estos servicios permite un mayor conocimiento y especificación del origen de las problemáticas, la 
+realización de intervenciones continuadas y personalizadas sobre los trabajadores y el seguimiento de las evoluciones de los mismos.
+La prevención debería atender a las deficiencias del diseño del trabajo (proporcionar un trabajo con bajo nivel de estrés, alto control del 
+trabajo, alta capacidad de decisión, suficiente autonomía temporal,...), al comportamiento de los líderes (deberían desarrollar 
+habilidades para reconocer conflictos y manejarlos adecuadamente, conocer los síntomas del mobbing para su reconocimiento 
+temprano), y a la protección de la posición social de la persona (desarrollando reglas claras, explícitas, escritas y públicas sobre 
+resolución de conflictos personales, que garantice el derecho a la queja y el anonimato y que prevea sistemas de mediación y/o 
+arbitraje).
+
+Conclusiones
+Esta conceptualización de todas las situaciones de hostigamiento psicológico en el trabajo constituye un acierto, pues facilita un 
+ordenamiento útil de una serie de hechos o situaciones. Por una parte, agrupan distintas disfunciones que a nivel social se dan en la 
+empresa y que, aunque en su origen, no están relacionadas con el desempeño del trabajo, pueden afectar de una manera importante 
+al desarrollo del mismo. Además, dicha conceptualización resulta útil para la investigación sobre este tema. Con la mejora de las 
+condiciones de trabajo, sobre todo en el sector terciario, es de esperar que los problemas más importantes que afecten a la salud 
+laboral sean los debidos a la organización del trabajo y, más concretamente, a motivos psicosociales. Por ello, la implicación de todos 
+los estamentos de la empresa en el estudio y la prevención de este tipo de fenómenos, como el psicoterror, será fundamental si se 
+pretende continuar con la mejora de las condiciones de trabajo y salud.
+No obstante todo lo anterior, consideramos que es necesaria una mayor profundización en el tema tanto de cara al desarrollo de 
+instrumentos para su medida y para su estudio, como para el desarrollo de estrategias de control adecuadas.
+En España, se pueden encontrar estudios específicos sobre este problema a nivel laboral, en lo relacionado con alguna de las 
+situaciones descritas como el acoso sexual. En general, en estos estudios no se establece esta conceptualización, con sus 
+especificaciones y consecuencias derivadas. Tampoco se encuentra bibliografía en nuestro país que destaque las magnitudes de este 
+problema que tanto por sus costes personales como por sus costes económicos, debería merecer la atención de las organizaciones de 
+trabajo.
+Son necesarios el estudio y consideración de este problema como algo controlable, o que por lo menos se debe intentar controlar, y la 
+superación de puntos de vista denotados por expresiones como “la vida es así”, “lo que tiene que hacer es espabilar” o el esperar a 
+que el problema remita con el tiempo, con las consecuencias aquí comentadas.
+Bibliografía
+(1) CERES 
+El acoso sexual en el trabajo desde una perspectiva sindical 
+Cir. Inf.,1993; 11: 113.
+(2) HAYES S. 
+Sexual Harassement at work: The role of the OHN 
+Occup. Health, 1992; 44 (6): 170.
+(3) LEATHER P.H. et al. 
+Violence at work 
+Work and Stress, 1990; 4 (1): 35.
+(4) LEYMANN H. 
+Silencing of a skilled technician 
+Work. Env. in Sweden, 1984; 4: 236238.
+(5) LEYMANN H. 
+Mobbing und Psychoterror am Arbeitsplatz 
+Sichere Arbeit, 1992; 5: 2228.
+(6) LEYMANN H. 
+When the job becomes unbearable 
+Working Environment, 1993:2930.
+(7) LOPEZ, J.A. ET AL. 
+Mobbing en puestos de trabajo de tipo administrativo 
+Medicina del Trabajo, 1997, vol. 6, nº 1.
+(8) PANIAGUA C. 
+Reflexiones sobre los fenómenos violentos de masas 
+Revista de Psicoanálisis de Madrid 1991; 13: 4557.
+(9) PRINS R., DE GRAF A. 
+Comparison of sickness absence in Belgium, German and Dutch firms 
+Br J Ind Med., 1986; 43: 529536.
+(10) ZAPF, D., KNORZ, C. Y KULLA, M. 
+On the Relationship between Mobbing factors, and Job Content, Social Work Environment, and Health Outcomes 
+European Journal of Work and Organizational Psychology, 1996, 5 (2).
+   © INSHT

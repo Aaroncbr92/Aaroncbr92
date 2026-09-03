@@ -58,3 +58,26 @@ Las transcripciones `.txt` se rehacen con:
 ```
 python3 -c "from pdfminer.high_level import extract_text; open('X.txt','w').write(extract_text('X.pdf'))"
 ```
+
+## Tercera tanda: los riesgos psicosociales, para el tema 16 de Producción
+
+El punto 16 del Anexo 2 de **Producción** mete la prevención de riesgos laborales
+en el mismo enunciado que la protección de datos y la contratación pública, y el
+examen pregunta por el **nombre** del acoso psicológico en el trabajo. Ese nombre
+lo fija el propio Instituto Nacional de Seguridad y Salud en el Trabajo.
+
+| Fichero | Qué es | Dirección | Descargado |
+|---|---|---|---|
+| `ntp-476.pdf` y `.txt` | **NTP 476**, «El hostigamiento psicológico en el trabajo: *mobbing*», de 1998 | `insst.es/documents/d/portal-insst/ntp_476-pdf` | 03/09/2026 |
+| `ntp-704.pdf` y `.txt` | **NTP 704**, «Síndrome de estar quemado por el trabajo o *burnout* (I): definición y proceso de generación» | `insst.es/documents/d/portal-insst/ntp_704-pdf` | 03/09/2026 |
+
+**Las dos hacen falta juntas**, y ésa es la razón de traer la segunda: la pregunta
+45 del examen de Producción opone *mobbing* a *burn out*, y **sin las dos fichas
+sólo se puede afirmar la mitad**. La NTP 476 define el primero; la NTP 704 define
+el segundo, y al definirlo demuestra que **no es lo que la pregunta pregunta**.
+
+**Y una advertencia que la propia NTP 476 imprime en su cabecera**: «Actualizada
+por la NTP 854». La 476 se cita aquí **por su definición**, que es la que el
+vocabulario del examen usa; quien quiera el estado actual de la técnica debe ir a
+la 854. Se ha intentado descargarla por la misma ruta y **devuelve «no
+encontrado»**.
