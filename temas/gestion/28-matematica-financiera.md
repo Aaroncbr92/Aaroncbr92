@@ -1,5 +1,19 @@
 # Tema 28 del específico de Gestión · Matemática financiera
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 28 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | **Sin norma.** Matemática financiera |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Aviso sobre las fuentes** | **Sus 4 respuestas oficiales son correctas y las cuatro se comprueban rehaciendo la operación**, que es lo que el tema hace. En este tema **ninguna cifra calculada va en negrita**: la negrita promete literalidad y una cuenta propia no la tiene. Los distractores del examen son magnitudes reales del enunciado, y una de ellas es el resultado **sin convertir la unidad** |
+| **Extensión** | **3.499 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el valor actual neto (**VAN**), la tasa interna de
 rentabilidad (**TIR**), la tasa anual equivalente (**TAE**) y el Boletín Oficial del Estado
 (**BOE**).

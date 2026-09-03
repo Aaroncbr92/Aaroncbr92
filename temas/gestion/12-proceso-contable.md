@@ -1,5 +1,19 @@
 # Tema 12 del específico de Gestión · El proceso contable y las cuentas anuales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 12 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Real Decreto 1514/2007, de 16 de noviembre, Plan General de Contabilidad, y Código de Comercio |
+| **Identificador** | `BOE-A-2007-19884` — `BOE-A-1885-6627` |
+| **Redacción que se estudia** | Los dos, en su redacción **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **El Plan da el método y el Código de Comercio da los libros obligatorios**, que son sólo dos: **el de Inventarios y Cuentas anuales y el Diario**. Sus 2 preguntas se contestan con el ciclo contable, que el tema recorre entero, del asiento de apertura al de cierre |
+| **Extensión** | **1.362 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Plan General de Contabilidad (**PGC**), el
 estado de cambios en el patrimonio neto (**ECPN**), el estado de flujos de efectivo (**EFE**), el
 Boletín Oficial del Estado (**BOE**) y el Registro Mercantil (**RM**).

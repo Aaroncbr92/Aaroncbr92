@@ -1,5 +1,19 @@
 # Tema 15 del específico de Gestión · El inmovilizado material y su amortización
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 15 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Real Decreto 1514/2007, de 16 de noviembre, Plan General de Contabilidad |
+| **Identificador** | `BOE-A-2007-19884` · BOE núm. 278, de 20/11/2007 |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Una sola pregunta, y de la definición de amortización.** Todo lo demás que el enunciado enumera —valoración inicial, valor razonable, coste actualizado, deterioro, retiro y venta— no ha caído nunca, y es donde están las reglas que se fallan en la práctica: la comparación con el **valor contable** al vender, la **irreversibilidad** de la amortización frente a la reversibilidad del deterioro y la **no amortización de los terrenos** |
+| **Extensión** | **1.558 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Plan General de Contabilidad (**PGC**), el
 valor neto contable (**VNC**), el valor razonable (**VR**) y el Boletín Oficial del Estado (**BOE**).
 

@@ -1,5 +1,19 @@
 # Tema 23 del específico de Gestión · La retribución de los recursos humanos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 23 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Texto refundido de la Ley del Estatuto de los Trabajadores (RDLeg 2/2015, de 23 de octubre) |
+| **Identificador** | `BOE-A-2015-11430` · BOE núm. 255, de 24/10/2015 |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Ninguna pregunta cae aquí**, y sin embargo **nueve de las 81 del examen se contestan con material que también está en este punto**: las percepciones salariales y no salariales son las preguntas 11 y 35 del punto 24, las teorías de la motivación son las del punto 25 y la evaluación del desempeño es la del 26. El tema separa lo que el Estatuto impone de lo que es diseño retributivo |
+| **Extensión** | **2.916 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Estatuto de los Trabajadores (**ET**), el
 salario mínimo interprofesional (**SMI**), los recursos humanos (**RRHH**), la valoración de puestos
 de trabajo (**VPT**), la retribución variable (**RV**) y el Boletín Oficial del Estado (**BOE**).

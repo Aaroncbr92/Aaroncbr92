@@ -1,5 +1,19 @@
 # Tema 22 del específico de Gestión · Seguridad Social
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 22 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Texto refundido de la Ley General de la Seguridad Social (RDLeg 8/2015, de 30 de octubre) |
+| **Identificador** | `BOE-A-2015-11724` · BOE núm. 261, de 31/10/2015 |
+| **Redacción que se estudia** | La **vigente al 21/12/2022**, que incorpora la **última actualización publicada el 26/11/2022** que el enunciado exige |
+| **Aviso sobre las fuentes** | **Es el único punto de todo el proyecto que acota su articulado**: Título I, **artículos 1 a 20**, y Título II, **capítulos I a XVII**. Lo que quede fuera —el capítulo XVIII y siguientes, los autónomos, el desempleo— *no es materia*, y el tema lo dice para que nadie lo busque aquí. Su única pregunta es literal del **artículo 197** |
+| **Extensión** | **3.262 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley General de la Seguridad Social (**LGSS**),
 la incapacidad temporal (**IT**), la incapacidad permanente (**IP**), el accidente de trabajo
 (**AT**), la enfermedad profesional (**EP**), la Ley de Presupuestos Generales del Estado

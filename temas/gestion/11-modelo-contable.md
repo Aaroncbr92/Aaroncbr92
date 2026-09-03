@@ -1,5 +1,19 @@
 # Tema 11 del específico de Gestión · El modelo contable español y el Plan General de Contabilidad
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 11 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Real Decreto 1514/2007, de 16 de noviembre, Plan General de Contabilidad |
+| **Identificador** | `BOE-A-2007-19884` · BOE núm. 278, de 20/11/2007 |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Sus 3 preguntas tienen respaldo en el Plan.** El punto abre el bloque contable del temario —los puntos 11 a 16 comparten norma— y es el que fija el vocabulario: principios contables, marco conceptual y estructura del Plan en cinco partes, de las que **sólo las tres primeras son obligatorias** |
+| **Extensión** | **1.521 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Plan General de Contabilidad (**PGC**), el
 Boletín Oficial del Estado (**BOE**), el real decreto (**RD**), el Instituto de Contabilidad y
 Auditoría de Cuentas (**ICAC**), las normas internacionales de información financiera (**NIIF**), las pequeñas y medianas empresas (**PYMES**) y la

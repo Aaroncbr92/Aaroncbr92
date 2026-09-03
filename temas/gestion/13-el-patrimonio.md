@@ -1,5 +1,19 @@
 # Tema 13 del específico de Gestión · El patrimonio y el balance de situación
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 13 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Real Decreto 1514/2007, de 16 de noviembre, Plan General de Contabilidad |
+| **Identificador** | `BOE-A-2007-19884` · BOE núm. 278, de 20/11/2007 |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Sus 4 preguntas son de masas patrimoniales y de la ecuación fundamental.** El tema desarrolla el balance con el modelo normal del Plan y separa **activo, pasivo y patrimonio neto** con las definiciones del Marco Conceptual, que es donde están y donde casi nadie las busca |
+| **Extensión** | **1.201 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Plan General de Contabilidad (**PGC**), el
 patrimonio neto (**PN**), el activo corriente (**AC**), el pasivo corriente (**PC**) y el Boletín
 Oficial del Estado (**BOE**).

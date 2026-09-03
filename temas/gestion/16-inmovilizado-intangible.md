@@ -1,5 +1,19 @@
 # Tema 16 del específico de Gestión · El inmovilizado intangible
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 16 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Real Decreto 1514/2007, de 16 de noviembre, Plan General de Contabilidad |
+| **Identificador** | `BOE-A-2007-19884` · BOE núm. 278, de 20/11/2007 |
+| **Redacción que se estudia** | La **vigente al 21/12/2022**, con las normas 5.ª y 6.ª en su redacción **desde el 18/12/2016** |
+| **Aviso sobre las fuentes** | **Ninguna pregunta cae aquí**, y se desarrolla igual. El enunciado dice «inmaterial» y el Plan dice **intangible**: es el mismo activo con el nombre de antes y el de después de 2007. Y ojo a la reforma de 2016, que suprimió los intangibles de **vida útil indefinida**: hoy se amortizan todos, fondo de comercio incluido |
+| **Extensión** | **1.724 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Plan General de Contabilidad (**PGC**), la
 investigación y desarrollo (**I+D**), la unidad generadora de efectivo (**UGE**) y el Boletín Oficial
 del Estado (**BOE**).

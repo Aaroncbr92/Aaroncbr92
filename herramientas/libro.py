@@ -235,6 +235,31 @@ AVISOS_GESTION_ADMINISTRATIVA = {
         "cumplía esa función <b>hasta esa fecha</b>, nueve meses antes del examen.",
 }
 
+SIN_PREGUNTAS_GESTION = {1, 2, 10, 16, 23, 30}
+
+AVISOS_GESTION = {
+    "15_preguntas_gestion · nº 32":
+        "<b>La plantilla da «BAI» al indicador del resultado de explotación que <i>no</i> tiene en "
+        "cuenta los intereses ni los costes financieros, y el BAI es el único de los cuatro que "
+        "<i>sí</i> los computa.</b> Lo dice el propio modelo de cuenta de pérdidas y ganancias del "
+        "Plan General de Contabilidad, que construye el BAI como <b>A.3) RESULTADO ANTES DE "
+        "IMPUESTOS (A.1+A.2)</b>, donde A.1) es el resultado de explotación y A.2) el resultado "
+        "financiero, cuya partida 13 es, literalmente, <b>Gastos financieros</b>. El nombre exacto "
+        "de lo que el enunciado describe es <b>BAII</b> o <i>EBIT</i>, que <b>no estaba entre las "
+        "opciones</b>; de las cuatro ofrecidas, la única que se sitúa por encima de los intereses "
+        "es el <b>EBITDA</b>, la b), y es la que hay que marcar.",
+    "15_preguntas_gestion · nº 83":
+        "<b>Enunciado roto: ninguna de las cuatro opciones responde a lo que pregunta.</b> Pide el "
+        "plazo de prescripción de las faltas <b>muy graves</b> y las opciones hablan de la "
+        "publicación en el BOE. El <b>artículo 60.2 del Estatuto de los Trabajadores</b> da "
+        "<b>sesenta días</b> desde que la empresa conoce la falta y <b>seis meses</b> desde que se "
+        "cometió; los <b>veinte días</b> de la respuesta oficial son el plazo de las faltas "
+        "<b>graves</b>. Comprobado en el Estatuto <b>y</b> en el III Convenio Colectivo, que dice "
+        "lo mismo, y con la página del cuadernillo vuelta a leer para descartar un error de "
+        "transcripción.",
+}
+
+
 BLOQUES = {
     "general": dict(
         carpeta="general",
@@ -328,6 +353,60 @@ BLOQUES = {
                       "fabricante</b>, que es el cuarto nivel de la jerarquía de fuentes, y dicen "
                       "qué es lo que con ella no se puede asegurar.</p>",
     ),
+    "gestion": dict(
+        carpeta="gestion",
+        rotulo="Temario específico · Gestión",
+        titulo="Temario específico",
+        subtitulo="Los treinta y un temas de <b>Gestión</b>",
+        pie="Oposiciones RTVE – Gestión",
+        avisos=dict(AVISOS_GESTION, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        # seis puntos del temario no tienen ni una pregunta en los cuadernillos
+        # de 2024 —el 1, el 2, el 10, el 16, el 23 y el 30—, así que su banco no
+        # existe y en su lugar va None. Se desarrollan igual: el examen siguiente
+        # no tiene por qué repetir el reparto del anterior
+        temas=[("%02d-%s" % (n, base),
+                "gestion-%02d" % n if n not in SIN_PREGUNTAS_GESTION else None)
+               for n, base in [
+            (1, "estatuto-de-los-trabajadores"), (2, "trabajo-por-cuenta-ajena"),
+            (3, "convenios-colectivos"), (4, "contrato-de-trabajo"),
+            (5, "modificacion-de-condiciones"), (6, "tiempo-de-trabajo"),
+            (7, "el-salario"), (8, "derechos-y-deberes"), (9, "proteccion-de-datos"),
+            (10, "el-presupuesto"), (11, "modelo-contable"), (12, "proceso-contable"),
+            (13, "el-patrimonio"), (14, "gastos-ingresos-tesoreria"),
+            (15, "inmovilizado-material"), (16, "inmovilizado-intangible"),
+            (17, "costes-de-produccion"), (18, "tesoreria"),
+            (19, "informacion-financiera"), (20, "iva"),
+            (21, "planificacion-y-control"), (22, "seguridad-social"),
+            (23, "retribucion-de-recursos-humanos"), (24, "nomina"),
+            (25, "la-empresa-como-organizacion"), (26, "gestion-por-competencias"),
+            (27, "produccion-en-television"), (28, "matematica-financiera"),
+            (29, "estadistica-descriptiva"), (30, "excel-avanzado"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Una respuesta oficial de este bloque está mal</b> —el indicador que "
+                         "no computa los intereses— y <b>una pregunta está rota</b>: la de la "
+                         "prescripción de las faltas muy graves, donde <b>ninguna</b> de las "
+                         "cuatro opciones responde. Las dos van marcadas con lo que las "
+                         "desmiente. <b>El temario enseña la norma, no la plantilla.</b>",
+        aviso_portada="<p><b>Es el temario más largo del proyecto y el más entrelazado con el "
+                      "resto.</b> Treinta puntos propios más el de prevención, y sus fronteras "
+                      "tocan a los otros bloques: su punto 9 es la protección de datos, su punto "
+                      "27 es el proceso de producción en televisión y sus puntos 11 a 16 "
+                      "comparten el Plan General de Contabilidad con Gestión Administrativa.</p>"
+                      "<p><b>Sus dos puntos con más peso son el 24 y el 25</b>, con siete y seis "
+                      "preguntas de las ochenta y una, y en los dos las respuestas oficiales son "
+                      "correctas. <b>Tres puntos no han caído nunca</b> —el 16, el 23 y el 30— y "
+                      "van desarrollados igual, porque el examen siguiente no tiene por qué "
+                      "repetir el reparto del anterior.</p>"
+                      "<p><b>Y ocho de sus puntos no descansan en ninguna norma.</b> El control "
+                      "de gestión, la organización, las competencias, la matemática financiera y "
+                      "la estadística no están en el BOE: sus cuentas van rehechas con el "
+                      "procedimiento a la vista y sus modelos van atribuidos al autor que los "
+                      "formuló. El punto 30 se apoya en la documentación de Microsoft para "
+                      "<b>Excel 2019</b>, que es el cuarto nivel de la jerarquía de fuentes, y "
+                      "dice qué es lo que con ella no se puede asegurar.</p>",
+    ),
     "documentacion": dict(
         carpeta="documentacion",
         rotulo="Temario específico · Documentación",
@@ -399,8 +478,8 @@ BLOQUES = {
 # escriben con letra. Con dos bloques hay que generarlo, y no hace falta más que
 # los números que este temario puede tener.
 LETRA = {2: "Dos", 3: "Tres", 4: "Cuatro", 5: "Cinco", 6: "Seis", 7: "Siete",
-         8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 17: "Diecisiete",
-         18: "Dieciocho"}
+         8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 13: "Trece",
+         17: "Diecisiete", 18: "Dieciocho", 31: "Treinta y un"}
 
 
 def con_letra(n):

@@ -54,8 +54,8 @@ Excel 2019)»**. Estas son las páginas que lo sostienen.
 |---|---|---|---|
 | `MS_excel-tablas-dinamicas` | Crear una tabla dinámica para analizar datos de una hoja de cálculo | `support.microsoft.com/es-es/office/…f99134456576` | 03/09/2026 |
 | `MS_excel-campos-calculados` | Calcular valores en un informe de tabla dinámica | `support.microsoft.com/es-es/office/…b0185e59da77` | 03/09/2026 |
-| `MS_excel-segmentacion` | Usar segmentaciones de datos para filtrar datos | `support.microsoft.com/es-es/office/…12651785d29d` | 03/09/2026 |
-| `MS_excel-macros` | Inicio rápido: crear una macro | `support.microsoft.com/es-es/office/…1e5fb3d581a8` | 03/09/2026 |
+| `MS_excel-segmentacion` | Usar segmentaciones para filtrar datos | `support.microsoft.com/es-es/office/…12651785d29d` | 03/09/2026 |
+| `MS_excel-macros` | Inicio rápido: Crear una macro | `support.microsoft.com/es-es/office/…1e5fb3d581a8` | 03/09/2026 |
 | `MS_excel-analisis-datos` | Usar las herramientas para análisis | `support.microsoft.com/es-es/office/…bdb5a2cefab6` | 03/09/2026 |
 | `MS_excel-tabla-de-datos` | Calcular varios resultados con una tabla de datos | `support.microsoft.com/es-es/office/…77542a5ea50b` | 03/09/2026 |
 | `MS_excel-funciones` | Funciones de Excel por categoría | `support.microsoft.com/es-es/office/…63f26a86c0eb` | 03/09/2026 |

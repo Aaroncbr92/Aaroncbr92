@@ -1,5 +1,19 @@
 # Tema 25 del específico de Gestión · La empresa como organización
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 25 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | **Sin norma.** Teoría de la organización y psicología del trabajo |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Aviso sobre las fuentes** | **Segundo punto con más preguntas: 6 de 81, y las 6 respuestas oficiales son correctas.** Sus preguntas citan por su nombre a **cuatro autores** —Mintzberg dos veces, Herzberg, Maslow y McClelland—, así que aquí se estudian modelos con autor, no artículos. El tema atribuye cada modelo a quien lo formuló |
+| **Extensión** | **3.308 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: los recursos humanos (**RRHH**), la dirección por
 objetivos (**DPO**) y el Boletín Oficial del Estado (**BOE**).
 

@@ -1,5 +1,19 @@
 # Tema 24 del específico de Gestión · Nómina
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 24 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Estatuto de los Trabajadores, Ley General de la Seguridad Social, Ley 22/2021 de Presupuestos para 2022 y Reglamento del IRPF |
+| **Identificador** | `BOE-A-2015-11430` — `BOE-A-2015-11724` — `BOE-A-2021-21653` — `BOE-A-2007-6820` |
+| **Redacción que se estudia** | Las cuatro, en su redacción **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Es el punto con más preguntas del temario: 7 de 81, y las 7 respuestas oficiales son correctas.** Una nómina son cuatro normas y **el enunciado no cita ninguna**. Dos de ellas —la Ley de Presupuestos y el Reglamento del IRPF— **no aparecen en ningún punto del Anexo 2** y sin embargo el examen preguntó por las dos: la 42 sale de la primera y la 17 de la segunda |
+| **Extensión** | **4.566 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Estatuto de los Trabajadores (**ET**), la Ley
 General de la Seguridad Social (**LGSS**), el Impuesto sobre la Renta de las Personas Físicas
 (**IRPF**), la Ley de Presupuestos Generales del Estado (**LPGE**), la incapacidad temporal

@@ -1,5 +1,19 @@
 # Tema 27 del específico de Gestión · El proceso de producción en televisión
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 27 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Ley 13/2022, de 7 de julio, General de la Comunicación Audiovisual, y III Convenio Colectivo de la Corporación RTVE |
+| **Identificador** | `BOE-A-2022-11311` — `BOE-A-2020-16744` |
+| **Redacción que se estudia** | Los dos, en su texto **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Tres capas de fuente y el tema las separa**: la ley define **vídeo a petición, autopromoción y patrocinio**; el convenio define **producción interna, mixta y ajena**; y el resto —fases, equipos, géneros, programación, audiencia— es oficio audiovisual sin norma detrás. **Sus 3 respuestas oficiales son correctas** |
+| **Extensión** | **3.847 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el vídeo a la carta (**VoD**, del inglés *video on
 demand*), la unidad móvil (**UM**), la Corporación de Radio y Televisión Española (**RTVE**), la
 Asociación para la Investigación de Medios de Comunicación (**AIMC**), la televisión digital

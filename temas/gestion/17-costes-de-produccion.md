@@ -1,5 +1,19 @@
 # Tema 17 del específico de Gestión · Los costes de producción y la contabilidad de costes
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 17 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Real Decreto 1514/2007, de 16 de noviembre, Plan General de Contabilidad |
+| **Identificador** | `BOE-A-2007-19884` · BOE núm. 278, de 20/11/2007 |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **La contabilidad de costes no está regulada en España**: es interna, voluntaria y sin formato obligatorio. Lo único que el Plan impone es el **resultado** al que tiene que llegar cuando se usa para valorar existencias, y esa frase se cita literal. Todo lo demás va como doctrina y el tema lo dice. **Sus 4 respuestas oficiales son correctas** |
+| **Extensión** | **2.945 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Plan General de Contabilidad (**PGC**), la mano
 de obra directa (**MOD**), los costes indirectos de fabricación (**CIF**), el coste medio ponderado
 (**CMP**), el método de primera entrada primera salida (**FIFO**, del inglés *first in, first out*),

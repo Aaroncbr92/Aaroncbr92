@@ -1,5 +1,19 @@
 # Tema 21 del específico de Gestión · Planificación estratégica y control de gestión
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 21 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | **Sin norma.** Doctrina de dirección de empresas y control de gestión |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Aviso sobre las fuentes** | **Este punto no descansa en ninguna norma y el tema lo declara de entrada**, en vez de prestarle artículos que no le corresponden. Su **única pregunta se contesta leyendo el enunciado del propio punto**: tres de sus cuatro opciones son, literalmente, tres de los epígrafes que el Anexo 2 enumera |
+| **Extensión** | **2.128 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el cuadro de mando integral (**CMI**), los
 indicadores clave de desempeño (**KPI**, del inglés *key performance indicators*), el análisis de
 debilidades, amenazas, fortalezas y oportunidades (**DAFO**), la dirección por objetivos (**DPO**),

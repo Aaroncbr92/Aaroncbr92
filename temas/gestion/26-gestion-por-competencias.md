@@ -1,5 +1,19 @@
 # Tema 26 del específico de Gestión · La gestión por competencias
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 26 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | **Sin norma.** Doctrina de dirección de personas |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Aviso sobre las fuentes** | **Sus 2 preguntas son de la última parte del enunciado**, evaluación del desempeño y modelo 360º, y las dos respuestas oficiales son correctas. La mejor de las dos se contesta sabiendo qué **no** es un instrumento de evaluación: la **desensibilización sistemática** es una técnica de terapia para las fobias y no mide nada |
+| **Extensión** | **3.063 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: los recursos humanos (**RRHH**), la evaluación del
 desempeño (**ED**), el *assessment center* (**AC**), la desensibilización sistemática (**DS**) y el
 Boletín Oficial del Estado (**BOE**).

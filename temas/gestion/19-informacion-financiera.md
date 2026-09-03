@@ -1,5 +1,19 @@
 # Tema 19 del específico de Gestión · La información financiera de las empresas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 19 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Real Decreto 1514/2007, Plan General de Contabilidad, y Código de Comercio |
+| **Identificador** | `BOE-A-2007-19884` — `BOE-A-1885-6627` |
+| **Redacción que se estudia** | Los dos, en su redacción **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Aquí está la errata de plantilla del bloque contable.** La pregunta 32 pide el indicador que **ignora** los intereses y la respuesta oficial, el **BAI**, es el único de los cuatro que **sí los computa**: el propio modelo de cuenta de pérdidas y ganancias lo define como **A.1 + A.2**, y A.2 es el resultado financiero. La respuesta que hay que marcar es el **EBITDA**. Las otras tres preguntas son correctas |
+| **Extensión** | **2.689 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Plan General de Contabilidad (**PGC**), el
 fondo de maniobra (**FM**), el beneficio antes de impuestos (**BAI**), el beneficio antes de
 intereses e impuestos (**BAII**, en inglés **EBIT**, *earnings before interest and taxes*), el resultado antes de intereses, impuestos, depreciaciones y

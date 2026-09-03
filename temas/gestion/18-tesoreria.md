@@ -1,5 +1,19 @@
 # Tema 18 del específico de Gestión · La función de tesorería en la empresa
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 18 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Real Decreto 1514/2007, Plan General de Contabilidad, y Código de Comercio |
+| **Identificador** | `BOE-A-2007-19884` — `BOE-A-1885-6627` |
+| **Redacción que se estudia** | Los dos, en su redacción **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Es el punto con más contenido por pregunta de todo el temario**: sólo 2 preguntas para libro de caja, arqueo, conciliación, efectos descontados y presupuesto de tesorería. **Los libros de tesorería no son obligatorios**: el artículo 25 del Código de Comercio sólo exige el de Inventarios y Cuentas anuales y el Diario |
+| **Extensión** | **2.372 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Plan General de Contabilidad (**PGC**), la
 cuenta corriente (**c/c**), el Código de Comercio (**CCom**) y el Boletín Oficial del Estado
 (**BOE**).

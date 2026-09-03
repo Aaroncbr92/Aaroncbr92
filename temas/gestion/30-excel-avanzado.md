@@ -1,5 +1,19 @@
 # Tema 30 del específico de Gestión · Excel avanzado
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 30 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Documentación de producto de Microsoft para **Excel 2019** (cuarto nivel de la jerarquía de fuentes) |
+| **Identificador** | 9 páginas de `support.microsoft.com/es-es/office/…` |
+| **Redacción que se estudia** | **Las páginas tal como estaban el 03/09/2026.** Microsoft publica documentación viva, no versiones fechadas |
+| **Aviso sobre las fuentes** | **Ninguna pregunta cae aquí**, y es el más llamativo de los tres puntos sin preguntas: el temario de **Gestión Administrativa**, examinado el mismo año, **sí preguntó por ofimática** y bastante. El tema anota la única diferencia de versión que afecta a la materia: **las matrices dinámicas no existen en Excel 2019** |
+| **Extensión** | **4.252 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: Visual Basic para Aplicaciones (**VBA**), el
 procesamiento analítico en línea (**OLAP**, del inglés *online analytical processing*), el
 coeficiente de determinación (**R²**) y el Boletín Oficial del Estado (**BOE**).
@@ -414,19 +428,23 @@ tres herramientas de análisis exijan *activar el complemento*.
 
 ## 9. Trazabilidad
 
-Documentación de producto de Microsoft, descargada el 3 de septiembre de 2026 y guardada en
-`fuentes/ofimatica/`:
+Documentación de soporte de Microsoft, toda ella en `support.microsoft.com/es-es/office/…` y
+descargada el 3 de septiembre de 2026:
 
-- **Crear una tabla dinámica para analizar datos de una hoja de cálculo** — `MS_excel-tablas-dinamicas`.
-- **Calcular valores en un informe de tabla dinámica** — `MS_excel-campos-calculados`.
-- *Usar segmentaciones de datos para filtrar datos* — `MS_excel-segmentacion`.
-- **Inicio rápido: crear una macro** — `MS_excel-macros`.
-- **Usar las herramientas para análisis para realizar análisis de datos complejos** —
-  `MS_excel-analisis-datos`.
-- **Calcular varios resultados con una tabla de datos** — `MS_excel-tabla-de-datos`.
-- **Funciones de Excel por categoría** — `MS_excel-funciones`.
-- **Función SI** — `MS_excel-si-funcion`.
-- **Función CONSULTAV** — `MS_excel-buscarv`.
+- **Crear una tabla dinámica para analizar datos de una hoja de cálculo**, en
+  `…a9a84538-bfe9-40a9-a8e9-f99134456576`. De ahí salen la definición de tabla dinámica, el
+  requisito de la fila única de encabezado y las funciones de resumen por defecto.
+- **Calcular valores en un informe de tabla dinámica**, en `…11f41417-da80-435c-a5c6-b0185e59da77`.
+  De ahí sale la distinción entre campo y elemento calculado.
+- **Usar segmentaciones para filtrar datos**, en `…249f966b-a9d5-4b0f-b31a-12651785d29d`.
+- **Inicio rápido: Crear una macro**, en `…741130ca-080d-49f5-9471-1e5fb3d581a8`. De ahí
+  salen la definición de macro y los pasos de grabación y edición.
+- **Usar las herramientas para análisis para realizar análisis de datos complejos**, en
+  `…6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6`. De ahí salen las tres herramientas del epígrafe 7.
+- **Calcular varios resultados con una tabla de datos**, en `…e95e2487-6ca6-4413-ad12-77542a5ea50b`.
+- **Funciones de Excel por categoría**, en `…5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb`.
+- **Función SI**, en `…69aed7c9-4e8a-4755-a9bc-aa8bbff73be2`.
+- **Función CONSULTAV**, en `…0bbc8083-26fe-4963-8ab8-93a18ad188a1`.
 
 *Las dos advertencias que ya quedaron escritas para la documentación de producto del temario de
 Gestión Administrativa valen igual aquí*, y se repiten porque son las que delimitan lo que estas

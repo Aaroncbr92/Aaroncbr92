@@ -1,5 +1,19 @@
 # Tema 29 del específico de Gestión · Estadística descriptiva básica
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 29 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | **Sin norma.** Estadística descriptiva |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **no hay norma que fechar** |
+| **Aviso sobre las fuentes** | **Sus 2 respuestas oficiales son correctas.** La más laboriosa del examen entero se desarrolla paso a paso con **los dos divisores**, N y N−1, porque el enunciado **no dice si los tres datos son población o muestra** y de eso depende cuál de sus opciones es la buena. La oficial es la de la **cuasivarianza**, y además es la única bien redondeada |
+| **Extensión** | **2.713 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la desviación típica (**σ**, sigma), el coeficiente
 de variación (**CV**) y el Boletín Oficial del Estado (**BOE**).
 

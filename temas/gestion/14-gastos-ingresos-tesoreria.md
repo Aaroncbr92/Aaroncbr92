@@ -1,5 +1,19 @@
 # Tema 14 del específico de Gestión · Gastos e ingresos, tesorería, existencias, compras y ventas, acreedores y deudores
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 14 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Real Decreto 1514/2007, de 16 de noviembre, Plan General de Contabilidad |
+| **Identificador** | `BOE-A-2007-19884` · BOE núm. 278, de 20/11/2007 |
+| **Redacción que se estudia** | La **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Es el punto que más cuentas concretas exige**, y sus 2 preguntas van justo de eso. El tema recorre los grupos 6 y 7 y los subgrupos de existencias, acreedores y tesorería con el nombre exacto de cada cuenta, porque el examen pregunta por nombres de cuenta y no por conceptos |
+| **Extensión** | **1.747 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Plan General de Contabilidad (**PGC**), el
 impuesto sobre el valor añadido (**IVA**), la cuenta de pérdidas y ganancias (**PyG**), el patrimonio
 neto (**PN**) y el Boletín Oficial del Estado (**BOE**).

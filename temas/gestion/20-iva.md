@@ -1,5 +1,19 @@
 # Tema 20 del específico de Gestión · Impuesto sobre el Valor Añadido
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 20 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y Plan General de Contabilidad |
+| **Identificador** | `BOE-A-1992-28740` · BOE núm. 312, de 29/12/1992 — `BOE-A-2007-19884` |
+| **Redacción que se estudia** | Las dos, **vigentes al 21/12/2022**; la del IVA incorpora la **modificación de 20/12/2022** que el propio enunciado exige |
+| **Aviso sobre las fuentes** | **Es el punto mejor construido del temario, con el 24.** Sus **3 preguntas se contestan con cita literal** y las tres respuestas oficiales son correctas. Y es uno de los dos puntos de todo el proyecto que **se pone fecha a sí mismo**: el enunciado acota la ley «hasta la modificación de 20 de diciembre de 2022 incluida», un día antes del corte del proyecto |
+| **Extensión** | **2.943 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Impuesto sobre el Valor Añadido (**IVA**), el
 Plan General de Contabilidad (**PGC**), el Impuesto General Indirecto Canario (**IGIC**), el
 Impuesto sobre la Producción, los Servicios y la Importación (**IPSI**), el número de identificación
