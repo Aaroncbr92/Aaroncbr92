@@ -51,7 +51,7 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 ## Y el banco del bloque **específico**
 
-Hay uno por ocupación tipo. Los **nueve** que existen suman **975 preguntas**, todas con
+Hay uno por ocupación tipo. Los **diez** que existen suman **1.069 preguntas**, todas con
 su respuesta oficial.
 
 ### Producción (Asistencia)
@@ -394,6 +394,47 @@ pertenece a la curva **HLG**. Las tres van contadas en los informes de refutaci�
 **Y treinta y cinco preguntas descansan sólo en la plantilla oficial**, que es la cifra más alta del
 proyecto en términos absolutos: **veintiocho salen del manejo de tres programas comerciales** cuya
 documentación no se ha podido consultar. Cada una va declarada en la trazabilidad de su tema.
+
+### Información Gráfica y Captación de Imagen y Sonido
+
+**94 preguntas** del cuadernillo de **Información Gráfica y Captación de Sonido** de 2024, repartidas
+entre los **seis primeros puntos** de su Anexo 2, que aquí se desarrollan en **once temas**. El
+séptimo punto es el de prevención.
+
+**Es el cuadernillo más largo de todos los que este proyecto ha trabajado**: **ciento seis
+preguntas**, frente a las noventa o noventa y seis de los demás. Seis van al bloque común y dos al
+banco compartido de prevención.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `informacion-grafica-01.md` | 1 · La luz, el color y la percepción visual | **13** |
+| `informacion-grafica-02.md` | 2 · Señales y formatos: de la señal a la medida | 12 |
+| `informacion-grafica-03.md` | 3 · La cámara de vídeo y el sensor | 8 |
+| `informacion-grafica-04.md` | 4 · Los objetivos, los filtros y los accesorios | **15** |
+| `informacion-grafica-05.md` | 5 · Soportes de cámara y estabilización | 9 |
+| `informacion-grafica-06.md` | 6 · El sonido en reportaje y producción ligera | 8 |
+| `informacion-grafica-07.md` | 7 · La iluminación en reportaje y producción ligera | 7 |
+| `informacion-grafica-08.md` | 8 · Control de cámara y ajuste de imagen | 7 |
+| `informacion-grafica-09.md` | 9 · Envíos, directos y cámaras robotizadas | 3 |
+| `informacion-grafica-10.md` | 10 · Lenguaje audiovisual | **12** |
+
+**El punto 11, el de teoría de la información audiovisual, no tiene ni una pregunta y por eso no
+tiene fichero de banco.** Se desarrolla igual en el temario, contra el programa.
+
+**El punto 3 del Anexo 2 se ha repartido en seis temas** —cámara y sensor, objetivos y filtros,
+soportes, sonido, iluminación, control de cámara y envíos—, porque sus catorce subpuntos son
+materias distintas y **uno solo de ellos, el de objetivos, se lleva quince preguntas**.
+
+**Cuatro preguntas con defecto de construcción, ninguna errata de plantilla.** Las **nº 71 y 36
+dependen enteramente de una imagen** —una señal de prueba y un plano de planificación— que un temario
+escrito no puede reproducir: **son las dos primeras preguntas de esta clase que el proyecto
+encuentra**, y su tratamiento está documentado en el informe de refutación. La **nº 39** ofrece las
+cifras correctas del margen audible **con la unidad equivocada** —micrómetros por hercios—. Y la **nº
+32** ofrece una opción **literalmente cierta que no responde a lo que se pregunta**.
+
+**Y sólo siete preguntas descansan sólo en la plantilla oficial: el 7,4 %, la proporción más baja de
+todas las ocupaciones audiovisuales del proyecto.** Ochenta y seis de las noventa y cuatro **se
+contestan leyendo**.
 
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al

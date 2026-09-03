@@ -239,7 +239,8 @@ TITULOS = {
     "04": "Información Gráfica · Tema 4 · Los objetivos, los filtros y los "
           "accesorios",
     "05": "Información Gráfica · Tema 5 · Soportes de cámara y estabilización",
-    "06": "Información Gráfica · Tema 6 · El sonido en ENG y producción ligera",
+    "06": "Información Gráfica · Tema 6 · El sonido en reportaje (ENG) y "
+          "producción ligera",
     "07": "Información Gráfica · Tema 7 · La iluminación en ENG y producción "
           "ligera",
     "08": "Información Gráfica · Tema 8 · Control de cámara y ajuste de imagen",

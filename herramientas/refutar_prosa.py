@@ -81,6 +81,33 @@ def main():
                 "SIEMPRE", "MENOS", "MAS", "CIERTA", "FALSA",
                 "ANUAL", "SALVO", "ANTES", "DESPUES", "MENOR", "MAYOR",
                 "TRES", "DOS", "ES", "PUEDE", "SOLAMENTE",
+                # más palabras castellanas que los temas escriben en
+                # mayúsculas por énfasis. Sin ellas la lista de siglas se
+                # llena de avisos que no lo son y **entierra los que sí**,
+                # que es el único motivo de mirarla (manual, apartado 10)
+                "BAJO", "BUENA", "BUENO", "DE", "LA", "EL", "MISMA", "MISMO",
+                "PASO", "REDUCE", "SIN", "TRAMPA", "CON", "COLOR", "TONO",
+                "AFECTA", "PRODUCE", "CONSIGUE", "MEZCLA", "SIEMPRE", "NADA",
+                "TODOS", "TODO", "UNICA", "UNICO", "DENTRO", "FUERA",
+                "ANCHO", "ALTO", "LARGO", "CORTO", "MAS", "MENOS", "IGUAL",
+                "SOLO", "CUANDO", "DONDE", "COMO", "QUE",
+                "CORTA", "CORTO", "EN", "FILTRO", "MEJOR", "MUY", "PUESTA",
+                "SON", "TIEMPO", "TIPO", "UN", "SI", "NI", "AL", "SU",
+                "GEOMETRIA", "ANTES", "AHORA", "AQUI", "ESE", "ESTA",
+                "DEL", "PASIVA", "ACTIVA", "PASIVO", "ACTIVO", "LOS", "LAS",
+                "UNA", "MAYOR", "MENOR", "IGUALES", "DISTINTO", "DISTINTA",
+                "UMBRAL", "UNIDAD", "GRUPO", "BANDA", "CANAL", "NIVEL",
+                "AUDICION", "MINIMO", "MAXIMO", "CUADERNILLO", "AUDIO",
+                "VIDEO", "IMAGEN", "SONIDO", "SENAL", "OIDO", "EQUIPO",
+                "OTRO", "OTRA", "OTROS", "OTRAS", "SUMA", "RESTA", "ALTA",
+                "ALTO", "BAJA", "COLOR", "DURA", "DIFUSA", "PEQUENO",
+                "GRANDE", "DEMASIADA", "DOS", "CUATRO", "CINCO", "SEIS",
+                "OSCURO", "OSCURA", "CLARO", "CLARA", "CERCA", "LEJOS",
+                "ZONAS", "ZONA", "SOMBRAS", "LUCES", "BORDES", "NEGRO",
+                "BLANCO", "GANANCIA", "RUIDO", "PASOS", "MITAD", "MEDIA",
+                "PLANO", "SE", "ESCENA", "SECUENCIA", "CORTE", "TOMA",
+                "EJE", "ANGULO", "TIEMPO", "ESPACIO", "LUGAR", "SENTIDO",
+                "TOMAS", "VA", "VAN", "HAY", "SON", "ERA", "FUE", "SEA",
                 "RAW", "LOG", "LUT", "MIX")
     # rótulos de botones y de menús, tal como están serigrafiados en el
     # aparato. No abrevian nada: son el nombre que el operador lee y pulsa, y
@@ -95,7 +122,13 @@ def main():
                "MATCH", "FRAME", "AUDIO", "MIXER", "SET", "PAN", "LEVEL",
                "GLOBAL", "IN", "OUT", "EQ", "TAKE", "PRV", "CAM", "AUX",
                "LINK", "GANG", "TWICE", "DUAL", "PLAYLIST", "TIMELINE",
-               "TBAR", "VGA", "VDR", "REC", "MODE")
+               "TBAR", "VGA", "VDR", "REC", "MODE",
+               # rótulos de la rueda de filtros y del anillo de zoom de una
+               # cámara, y sufijos de referencia de objetivo: tampoco
+               # abrevian nada
+               "CLEAR", "TELE", "BERD", "IE", "ND", "PL", "EF", "B4",
+               "STRETCH", "STRECH", "GAMMA", "BLACK", "LEVEL", "DEPEND",
+               "FREQUENCY", "KNEE", "FRENCH", "FLAG")
     # «SI(C2 = 1» no es una sigla: es una llamada a función. Un paréntesis
     # pegado al nombre lo delata, y sin esta salvedad un tema de hoja de
     # cálculo llena la lista de falsos avisos aunque el nombre vaya dentro de

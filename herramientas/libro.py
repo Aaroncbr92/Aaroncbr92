@@ -263,6 +263,41 @@ AVISOS_EDICION_MONTAJE = {
         "correcta.",
 }
 
+AVISOS_INFORMACION_GRAFICA = {
+    "29_preguntas_igyciys · nº 39":
+        "<b>Una de las opciones falsas da las cifras correctas con la unidad equivocada.</b> La d) "
+        "dice <b>«de 20 µm a 20.000 µm»</b>, y el micrómetro es <b>una longitud, no una "
+        "frecuencia</b>. Las cifras del margen audible son las de la respuesta buena \u2014de 20 Hz "
+        "a 20.000 Hz\u2014, pero <b>en hercios</b>. Es la clase de distractor que castiga leer "
+        "s\u00f3lo el n\u00famero: <b>hay que mirar la unidad</b>.",
+    "29_preguntas_igyciys · nº 32":
+        "<b>Una de las opciones falsas es literalmente cierta y no responde a lo que se "
+        "pregunta.</b> La d) dice que <b>«el filtro ND no afecta a la profundidad de campo»</b>, y "
+        "es verdad: <b>un filtro de densidad neutra no la cambia por s\u00ed mismo</b>. Lo que hace "
+        "es <b>permitir un diafragma m\u00e1s abierto</b>, y <b>es el diafragma el que la cambia</b>. "
+        "El enunciado no pregunta si el filtro cambia la profundidad: pregunta <b>qu\u00e9 filtro "
+        "usar para conseguir la menor profundidad con exposici\u00f3n correcta</b>, y la respuesta a "
+        "eso es <b>el de mayor densidad disponible</b>.",
+    "29_preguntas_igyciys · nº 71":
+        "<b>Esta pregunta depende enteramente de una imagen.</b> El enunciado dice «esta imagen "
+        "corresponde a una» y ofrece cuatro se\u00f1ales de prueba. <b>Una imagen no se puede "
+        "reproducir en un temario escrito ni contrastar con una fuente</b>, as\u00ed que <b>la "
+        "respuesta descansa en la plantilla oficial</b>. Lo que el tema aporta es <b>qu\u00e9 dibuja "
+        "cada se\u00f1al de prueba en un monitor de forma de onda</b>: <b>la rampa o diente de "
+        "sierra dibuja una diagonal recta</b>, y ninguna de las otras tres opciones dibuja eso. "
+        "<b>Y la cuarta opci\u00f3n no existe</b>: el <i>bokeh</i> es el aspecto del desenfoque de un "
+        "objetivo y <b>no se corrige con una se\u00f1al de prueba</b>.",
+    "29_preguntas_igyciys · nº 36":
+        "<b>Esta pregunta depende de un plano de planificaci\u00f3n con cuatro posiciones de "
+        "c\u00e1mara marcadas</b>, que un temario escrito no puede reproducir. <b>La respuesta "
+        "descansa en la plantilla oficial.</b> Lo que el tema aporta es <b>la condici\u00f3n "
+        "geom\u00e9trica</b> que una trayectoria tiene que cumplir para admitir un travelling "
+        "compensado: <b>el desplazamiento tiene que ser en la direcci\u00f3n del eje \u00f3ptico "
+        "respecto del personaje</b>, acerc\u00e1ndose o alej\u00e1ndose en l\u00ednea recta. Una "
+        "trayectoria que pase de lado <b>no permite compensar con el zoom</b>, porque <b>el zoom "
+        "s\u00f3lo corrige el tama\u00f1o, no el \u00e1ngulo</b>.",
+}
+
 AVISOS_GESTION_ADMINISTRATIVA = {
     "23_preguntas_gea · nº 21":
         "<b>La plantilla da 33 días de indemnización por despido objetivo, con tope de 12 "
@@ -635,6 +670,56 @@ BLOQUES = {
                       "programa y el porqu\u00e9 de cada respuesta</b>, que es lo que convierte una "
                       "lista de atajos en algo recordable. <b>Treinta y cinco afirmaciones "
                       "descansan s\u00f3lo en la plantilla, y cada una lo declara en su tema.</b></p>",
+    ),
+    "informacion-grafica": dict(
+        carpeta="informacion-grafica",
+        rotulo="Temario específico · Información Gráfica y Captación de Imagen y Sonido",
+        ocupacion="Información Gráfica y Captación de Imagen y Sonido",
+        titulo="Temario específico",
+        subtitulo="Los once temas de <b>Información Gráfica y Captación de Imagen y Sonido</b>",
+        pie="Oposiciones RTVE – Información Gráfica y Captación de Imagen y Sonido",
+        avisos=dict(AVISOS_INFORMACION_GRAFICA, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "luz-color-y-percepcion", "informacion-grafica-01"),
+            (2, "senales-y-formatos", "informacion-grafica-02"),
+            (3, "la-camara-y-el-sensor", "informacion-grafica-03"),
+            (4, "objetivos-filtros-y-accesorios", "informacion-grafica-04"),
+            (5, "soportes-y-estabilizacion", "informacion-grafica-05"),
+            (6, "el-sonido-en-eng", "informacion-grafica-06"),
+            (7, "la-iluminacion-en-eng", "informacion-grafica-07"),
+            (8, "control-de-camara-y-ajuste", "informacion-grafica-08"),
+            (9, "envios-directos-y-robotizadas", "informacion-grafica-09"),
+            (10, "lenguaje-audiovisual", "informacion-grafica-10"),
+            # el punto 11 no tiene ni una pregunta en el cuadernillo
+            (11, "teoria-de-la-informacion-audiovisual", None),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Las noventa y cuatro respuestas oficiales de este bloque son "
+                         "correctas</b>: no hay ni una errata de plantilla. Pero <b>dos preguntas "
+                         "dependen de una imagen que un temario escrito no puede reproducir</b> y "
+                         "<b>dos m\u00e1s tienen una opci\u00f3n falsa mal construida</b> \u2014una da "
+                         "las cifras correctas con la unidad equivocada y otra es literalmente "
+                         "cierta sin responder a lo que se pregunta\u2014. Van avisadas debajo de su "
+                         "tabla.",
+        aviso_portada="<p><b>Este es el bloque m\u00e1s f\u00edsico del proyecto.</b> "
+                      "Treinta y cinco de sus preguntas son \u00f3ptica, colorimetr\u00eda, "
+                      "fotometr\u00eda y fisiolog\u00eda de la visi\u00f3n, y <b>casi todas se "
+                      "contestan con cuatro o cinco leyes que se aplican una y otra vez</b>: la "
+                      "relaci\u00f3n entre longitud de onda, frecuencia y desviaci\u00f3n; la ley "
+                      "inversa del cuadrado; los tres factores de la profundidad de campo; la "
+                      "escala de n\u00fameros f y la de mireds, que van las dos <b>al rev\u00e9s</b> de "
+                      "lo que parece. El temario las levanta como leyes y no como datos, <b>porque "
+                      "as\u00ed una sola vale por cuatro preguntas</b>.</p>"
+                      "<p><b>Y trae la pregunta mejor construida de todo el proyecto</b>: la que "
+                      "pide qu\u00e9 hace la OETF, <b>con las cuatro opciones sacadas del mismo "
+                      "p\u00e1rrafo de la Recomendaci\u00f3n UIT-R BT.2100</b> \u2014las tres falsas son "
+                      "las definiciones de las otras dos funciones\u2014. Aqu\u00ed va citada "
+                      "literalmente, con el p\u00e1rrafo entero delante. <b>Siete afirmaciones "
+                      "descansan s\u00f3lo en la plantilla</b>, y cada una lo declara en su tema; "
+                      "<b>dos de ellas porque dependen de una imagen</b>, y el temario dice qu\u00e9 "
+                      "aporta en su lugar. <b>Y un punto entero del programa no tiene ni una "
+                      "pregunta</b>: se escribe contra el programa, y lo dice.</p>",
     ),
     "realizacion": dict(
         carpeta="realizacion",

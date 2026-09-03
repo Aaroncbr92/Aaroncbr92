@@ -1,4 +1,4 @@
-# Información Gráfica · Tema 6 · El sonido en ENG y producción ligera
+# Información Gráfica · Tema 6 · El sonido en reportaje (ENG) y producción ligera
 
 8 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
