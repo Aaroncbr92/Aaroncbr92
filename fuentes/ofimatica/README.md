@@ -43,3 +43,38 @@ propia.** Microsoft documenta Teams como servicio, no versión a versión, y no
 publica notas de una compilación de escritorio de ese número. Lo que hay es la
 página del producto, que es la que se cita. **Un tema no puede prometer que
 describe esa compilación exacta**, y el de Teams lo dice.
+
+## Segunda tanda: Excel 2019, para el temario de Gestión
+
+El Anexo 2 de **Gestión** hace lo mismo que el de Gestión Administrativa y fecha
+otra versión de producto: su punto 30 es **«Excel avanzado (versión Microsoft
+Excel 2019)»**. Estas son las páginas que lo sostienen.
+
+| Fichero | Qué es | Dirección | Descargado |
+|---|---|---|---|
+| `MS_excel-tablas-dinamicas` | Crear una tabla dinámica para analizar datos de una hoja de cálculo | `support.microsoft.com/es-es/office/…f99134456576` | 03/09/2026 |
+| `MS_excel-campos-calculados` | Calcular valores en un informe de tabla dinámica | `support.microsoft.com/es-es/office/…b0185e59da77` | 03/09/2026 |
+| `MS_excel-segmentacion` | Usar segmentaciones de datos para filtrar datos | `support.microsoft.com/es-es/office/…12651785d29d` | 03/09/2026 |
+| `MS_excel-macros` | Inicio rápido: crear una macro | `support.microsoft.com/es-es/office/…1e5fb3d581a8` | 03/09/2026 |
+| `MS_excel-analisis-datos` | Usar las herramientas para análisis | `support.microsoft.com/es-es/office/…bdb5a2cefab6` | 03/09/2026 |
+| `MS_excel-tabla-de-datos` | Calcular varios resultados con una tabla de datos | `support.microsoft.com/es-es/office/…77542a5ea50b` | 03/09/2026 |
+| `MS_excel-funciones` | Funciones de Excel por categoría | `support.microsoft.com/es-es/office/…63f26a86c0eb` | 03/09/2026 |
+| `MS_excel-si-funcion` | Función SI | `support.microsoft.com/es-es/office/…aa8bbff73be2` | 03/09/2026 |
+| `MS_excel-buscarv` | Función CONSULTAV (BUSCARV) | `support.microsoft.com/es-es/office/…93a18ad188a1` | 03/09/2026 |
+
+**Las dos advertencias de arriba valen igual para estas páginas**, y aquí hay
+dos datos concretos que las matizan a favor y en contra:
+
+- **A favor**: la página de tablas dinámicas declara expresamente aplicarse a
+  **«Excel 2019 Excel 2016»**, junto a las versiones más recientes. No es una
+  página escrita para otra versión y aprovechada.
+- **En contra**: la página de `BUSCARV` **se titula «Función CONSULTAV»**, que es
+  la denominación de otras variantes del español. La función es la misma y el
+  cuerpo de la página usa las dos formas, pero conviene saberlo antes de citar
+  un nombre de función como si fuera único.
+
+Y una diferencia de versión que sí afecta a la materia y que el tema 30 recoge:
+**las matrices dinámicas no existen en Excel 2019**. Llegaron con Microsoft 365,
+de modo que en 2019 las fórmulas matriciales se siguen introduciendo con
+`Ctrl + Mayús + Intro`. Es el único punto en que la documentación de hoy
+describe algo que la versión del enunciado no tiene.

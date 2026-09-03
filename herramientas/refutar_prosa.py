@@ -46,11 +46,25 @@ def main():
 
     print()
     print("## Siglas sin presentar la primera vez")
+    # Lo que va entre acentos graves no es prosa: es código, un nombre de
+    # función, un identificador. Un tema de hoja de cálculo lo tiene a
+    # docenas —`BUSCARV`, `SUMAR.SI`, `#¡DIV/0!`— y todos ellos van en
+    # mayúsculas, así que sin excluirlos la lista de siglas sale llena de
+    # avisos que no son siglas y **entierra los que sí lo son**, que es el
+    # único motivo por el que se mira esta lista. Se sustituye por espacios
+    # en lugar de borrarse para no juntar palabras vecinas.
+    tema = re.sub(r"`[^`]*`", lambda m: " " * len(m.group(0)), tema)
     # los números romanos de los títulos no son siglas
     ROMANOS = re.compile(r"^[IVXLC]+$")
     CONOCIDAS = ("BOE", "RTVE", "TVE", "RNE")
+    # «SI(C2 = 1» no es una sigla: es una llamada a función. Un paréntesis
+    # pegado al nombre lo delata, y sin esta salvedad un tema de hoja de
+    # cálculo llena la lista de falsos avisos aunque el nombre vaya dentro de
+    # una cita literal, donde no se le pueden poner acentos graves sin tocar
+    # la cita.
+    llamadas = set(re.findall(r"\b([A-Z]{2,6})\(", tema))
     for sigla in sorted(set(re.findall(r"\b([A-Z]{2,6})\b", tema))):
-        if ROMANOS.match(sigla) or sigla in CONOCIDAS:
+        if ROMANOS.match(sigla) or sigla in CONOCIDAS or sigla in llamadas:
             continue
         # buscar la sigla como palabra, no como trozo: `find` la encuentra dentro
         # de otra palabra —«RD» dentro de «BORDER», «SI» dentro de «MÚSICA»— y
