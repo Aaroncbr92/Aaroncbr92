@@ -152,6 +152,15 @@ la misma familia que ISO y UNE: va dentro de la designación de una norma, «EN 
 no sabe que está leyendo una *instrucción técnica complementaria* del reglamento de *baja
 tensión*. Se han desarrollado las dos en su primera aparición, dentro de la frase.
 
+**Repasado otra vez el 2026-09-03, y por el mismo motivo: el tema se había vuelto a tocar.** El
+énfasis **«NO»** en mayúscula, que estaba contado como ruido, se sustituyó por ***no*** en cursiva
+en todos los temas del proyecto, y con él desapareció ese aviso. **Quedan seis**, todos ruido del
+detector y todos declarados aquí: **DN** (diámetro nominal), **EN**, **ISO** y **UNE** (prefijos de
+norma y organismos de normalización), **OCRA** (nombre de un método) y **LGSS**, que sí se presenta
+pero con una fórmula que el detector no reconoce. **BC** dejó de salir al enseñar a la lente que una
+sigla también se presenta **con su desarrollo detrás** —«UGT (Unión General de Trabajadores)»— y no
+sólo delante.
+
 **La lección es de método, no de contenido**: una corrección posterior al informe **deja el
 informe mintiendo**, y aquí lo dejó dando siete donde había diez. Cuando se toca un tema ya
 refutado, hay que volver a pasarle las lentes, aunque el cambio venga de una fuente buena y

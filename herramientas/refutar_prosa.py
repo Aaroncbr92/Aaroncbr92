@@ -56,7 +56,7 @@ def main():
     tema = re.sub(r"`[^`]*`", lambda m: " " * len(m.group(0)), tema)
     # los números romanos de los títulos no son siglas
     ROMANOS = re.compile(r"^[IVXLC]+$")
-    CONOCIDAS = ("BOE", "RTVE", "TVE", "RNE")
+    CONOCIDAS = ("BOE", "RTVE", "TVE", "RNE", "PDF", "HTML", "URL")
     # «SI(C2 = 1» no es una sigla: es una llamada a función. Un paréntesis
     # pegado al nombre lo delata, y sin esta salvedad un tema de hoja de
     # cálculo llena la lista de falsos avisos aunque el nombre vaya dentro de
@@ -79,7 +79,12 @@ def main():
         if i < 0:
             continue
         antes = tema[max(0, i - 130):i]
-        if "(" not in antes:
+        # se presenta de las dos maneras y las dos valen: «Unión General de
+        # Trabajadores (UGT)» y «UGT (Unión General de Trabajadores)». Mirando
+        # sólo hacia atrás, la segunda salía como sigla sin presentar aunque
+        # llevara la explicación pegada detrás.
+        despues = tema[i + len(sigla):i + len(sigla) + 3]
+        if "(" not in antes and not re.match(r"\s?\(", despues):
             print("  · %-6s primera aparición: ...%s%s..."
                   % (sigla, re.sub(r"\s+", " ", antes[-70:]), sigla))
             hallazgos += 1

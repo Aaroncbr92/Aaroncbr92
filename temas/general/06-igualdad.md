@@ -980,7 +980,7 @@ podía controlarse».
 
 ### Las fuentes
 
-Pregunta recurrente: **qué fuentes NO deberían utilizarse**.
+Pregunta recurrente: **qué fuentes no deberían utilizarse**.
 
 | **Fuentes que sí aportan** | **Fuentes dudosas** |
 | --- | --- |
