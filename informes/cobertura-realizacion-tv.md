@@ -149,7 +149,9 @@ tiempo sabiéndolo.**
    Óscar lo comparten *Ben-Hur*, *Titanic* y *El señor de los anillos: el retorno del rey*, empatadas a
    once**, y **tres de las cuatro opciones son esas tres películas.** **El temario manda marcar la de la
    plantilla —*Ben-Hur*— sabiendo que está marcada por la plantilla y no por el enunciado**, y **la
-   señala como impugnable.** **Es la undécima errata documentada del proyecto.**
+   señala como impugnable.** **Es la undécima costura documentada del proyecto**, y **no es una
+   errata de plantilla**: *Ben-Hur* es una respuesta correcta, sólo que no la única. **La cuenta de
+   erratas de plantilla del proyecto sigue en diez.**
 2. **La nº 67 del primer llamamiento tiene un enunciado que no encaja con su respuesta.** **Pregunta
    qué NO se incluye en un magazine y se responde con «cualquier temática puede incluirse»**, que **es
    materialmente cierta y no contesta a lo que se pregunta.** **Se marca igual.**

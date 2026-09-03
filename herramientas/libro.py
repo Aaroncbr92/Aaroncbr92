@@ -304,7 +304,8 @@ AVISOS_REALIZACION_TV = {
         "<i>Titanic</i> y <i>El señor de los anillos: el retorno del rey</i> comparten el récord "
         "de <b>once Óscar</b>, y <b>tres de las cuatro opciones son esas tres películas</b>. La "
         "plantilla da <b>b) <i>Ben-Hur</i></b>, y hay que marcarla <b>sabiendo que está marcada "
-        "por la plantilla y no por el enunciado</b>. <b>Es impugnable.</b>",
+        "por la plantilla y no por el enunciado</b>. <b>Es impugnable.</b> <b>No es una errata de "
+        "plantilla</b>: <i>Ben-Hur</i> es una respuesta correcta, sólo que no es la única.",
     "66_preguntas_realizacion_a · nº 67":
         "<b>El enunciado y la respuesta oficial no encajan.</b> Se pregunta qué <b>NO</b> se "
         "incluye en un magazine y la respuesta marcada afirma que <b>cualquier temática puede "

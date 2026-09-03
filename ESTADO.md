@@ -4,22 +4,25 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-03
+**Última actualización:** 2026-09-03 (Realización Televisión)
 
 ## Qué es esto
 
-Siete temarios de oposición de RTVE, por ocupación tipo: **Producción
-(Asistencia)**, **Producción**, **Realización (Asistencia)**, **Documentación**,
-**Información y Contenidos**, **Gestión Administrativa** y **Gestión**. El
-programa sale del ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
+Once temarios de oposición de RTVE, por ocupación tipo: **Producción
+(Asistencia)**, **Producción**, **Realización (Asistencia)**, **Realización
+Televisión**, **Documentación**, **Información y Contenidos**, **Gestión
+Administrativa**, **Gestión**, **Montaje de Equipos Audiovisuales**, **Edición,
+Montaje y Procesos Audiovisuales** e **Información Gráfica y Captación de Imagen
+y Sonido**. El programa sale del ANEXO 2 de las bases, transcrito literal en
+`convocatoria/`.
 
-Los siete comparten el mismo temario general —**comprobado byte a byte**: el
-bloque común es idéntico en los siete anexos; sólo cambia el pie de página— y
-**las siete** tienen en su bloque específico un tema de prevención de riesgos
+Las once comparten el mismo temario general —**comprobado byte a byte**: el
+bloque común es idéntico en todos los anexos; sólo cambia el pie de página— y
+**las once** tienen en su bloque específico un tema de prevención de riesgos
 laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con un
 epígrafe que sólo sirve a Realización (Asistencia) —la exposición a altos niveles
-de sonido, del RD 286/2006—. Por eso **120 cuerpos de tema** llenan las **126
-posiciones** de los ocho volúmenes: los ocho generales y el de prevención van
+de sonido, del RD 286/2006—. Por eso **173 cuerpos de tema** llenan las
+posiciones de los **doce volúmenes**: los ocho generales y el de prevención van
 repetidos. El reparto y el orden están en `PLAN.md`.
 
 **Convocatoria identificada**: son los anexos 2 de las **bases específicas de la
@@ -612,17 +615,21 @@ en Documentación y en Producción (Asistencia).
 
       | Volumen | Temas | Preguntas | Páginas |
       |---|---:|---:|---:|
-      | `libro-general` | 8 | 492 | **255** |
-      | `libro-produccion-asistencia` | 18 | 154 | **263** |
-      | `libro-produccion` | 17 | 97 | **214** |
-      | `libro-realizacion` | 21 | 237 | **285** |
-      | `libro-documentacion` | 7 | 113 | **137** |
-      | `libro-informacion` | 11 | 209 | **196** |
-      | `libro-gestion-administrativa` | 13 | 106 | **163** |
-      | `libro-gestion` | 31 | 112 | **303** |
+      | `libro-general` | 8 | 500 | **257** |
+      | `libro-produccion-asistencia` | 18 | 167 | **272** |
+      | `libro-produccion` | 17 | 110 | **224** |
+      | `libro-realizacion` | 21 | 250 | **294** |
+      | `libro-realizacion-tv` | 23 | 273 | **354** |
+      | `libro-documentacion` | 7 | 126 | **146** |
+      | `libro-informacion` | 11 | 222 | **206** |
+      | `libro-gestion-administrativa` | 13 | 119 | **172** |
+      | `libro-gestion` | 31 | 125 | **313** |
+      | `libro-montaje-equipos` | 11 | 119 | **157** |
+      | `libro-edicion-montaje` | 11 | 130 | **184** |
+      | `libro-informacion-grafica` | 12 | 138 | **210** |
 
       Los específicos **cierran con el tema de prevención**, que es **el mismo fichero** en los
-      tres que lo tienen.
+      once que lo tienen. **Son doce volúmenes**, y el mayor es el de Realización Televisión.
 
 - [x] **Fase C: las dos ocupaciones nuevas, terminadas el 2026-09-03.** **Gestión Administrativa**,
       12 temas propios más el de prevención, con 75 preguntas reales de su cuadernillo de enero de
@@ -664,6 +671,38 @@ en Documentación y en Producción (Asistencia).
       desde `BLOQUES`, de modo que dar de alta una ocupación **actualiza sola** la portada de los
       ocho temas generales y la del de prevención. Cuando eran seis ocupaciones la línea decía
       tres, y nadie lo había visto.
+
+- [x] **Fase E: las cuatro ocupaciones audiovisuales restantes, terminadas el 2026-09-03.**
+      **Montaje de Equipos Audiovisuales**, 10 temas propios más el de prevención, 86 preguntas.
+      **Edición, Montaje y Procesos Audiovisuales**, 10 temas propios más el de prevención, 96
+      preguntas. **Información Gráfica y Captación de Imagen y Sonido**, 11 temas propios más el de
+      prevención, 94 preguntas, **y el cuadernillo más largo del proyecto: 106 preguntas**.
+      **Realización Televisión**, 22 temas propios más el de prevención y **229 preguntas del bloque
+      específico**, de dos llamamientos con sus dos plantillas completas: **el segundo banco más
+      grande del proyecto y el volumen más largo, con 354 páginas**.
+
+- [x] **Lo que Realización Televisión dejó como método, y vale para todo el proyecto.**
+      **1) Las unidades legales de medida están en el BOE.** Las magnitudes fotométricas —el lux, la
+      candela por metro cuadrado, el lumen— las define el **RD 2032/2009**, así que **tres preguntas
+      que iban a declararse como oficio se contestan con el cuadro de un real decreto delante**.
+      Antes de dar una materia técnica por oficio, hay que preguntarse si sus magnitudes tienen
+      unidad legal.
+      **2) Una fila de un cuadro no se entrecomilla como una frase.** Se cita **celda a celda**,
+      separadas por puntos, y el tema lo advierte.
+      **3) Las preguntas que dependen de una imagen tienen tratamiento propio.** Esta ocupación trae
+      **trece, la cifra más alta del proyecto**: el temario **declara que la respuesta descansa en
+      la plantilla, NO describe lo que no ha visto y aporta la regla de la familia**. El tema 13
+      lleva un epígrafe entero dedicado a las cinco suyas.
+      **4) El reparto a mano gana otra vez a la palabra clave.** Dos preguntas se han clasificado
+      contra la apariencia de su enunciado: la **TSNR**, que parece de señal y es narrativa, y el
+      **punto dulce**, que está rodeado de preguntas de audio y es de óptica.
+
+- [x] **Una lente corregida, no un tema.** `refutar_prosa` daba por relleno «en síntesis» dentro de
+      **«en síntesis aditiva»**, que es el nombre de una mezcla de colores. **El que detecta se
+      equivoca** —apartado 5 del manual—: se corrigió la lente con una salvedad para «aditiva»,
+      «sustractiva» y «cromática», y **se pasó de nuevo sobre los 173 temas del proyecto: cero
+      hallazgos**. Sin la salvedad, el aviso saltaba en todos los temas de color y enterraba el
+      relleno que sí lo es.
 
 ## Qué comprobación pasa por qué material
 

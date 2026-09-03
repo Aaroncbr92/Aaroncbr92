@@ -28,7 +28,9 @@ o estudio de rodaje (***set***, que el examen usa en su forma inglesa).
 el proyecto en cuanto a qué se puede sostener y qué no**: **cuatro preguntas son historia de la
 técnica y del oficio**, comprobables y razonables; **cinco son actualidad o palmarés**, que se saben o
 no se saben; **y una es una pregunta con tres respuestas igualmente válidas**, que este tema documenta
-como la undécima errata del proyecto.
+como la undécima costura documentada del proyecto. **No es una errata de plantilla**: *Ben-Hur*
+es una respuesta correcta —lo que no es, es la única—, así que **la cuenta de erratas de plantilla
+del proyecto sigue en diez.**
 
 <!-- indice -->
 

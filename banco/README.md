@@ -461,7 +461,9 @@ familia**.
 **Dos preguntas con defecto de construcción, ninguna errata de plantilla.** La **nº 33** del primer
 llamamiento —el récord de Óscar— tiene **tres respuestas igualmente correctas**, porque *Ben-Hur*,
 *Titanic* y *El señor de los anillos: el retorno del rey* están empatadas a once y **tres de las cuatro
-opciones son esas tres películas**: es la undécima errata documentada del proyecto y es impugnable. Y
+opciones son esas tres películas**: es la undécima costura documentada del proyecto y es
+impugnable. **No es errata de plantilla** —*Ben-Hur* es correcta, sólo que no es la única—, así que
+**la cuenta de erratas de plantilla sigue en diez**. Y
 la **nº 67** pregunta qué **NO** se incluye en un magazine y se responde con una afirmación
 materialmente cierta que no contesta a lo que se pregunta.
 

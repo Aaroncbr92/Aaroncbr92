@@ -63,7 +63,8 @@ que caduca cada año.**
 - **EL DEFECTO**: ***Ben-Hur*, *Titanic* y *El señor de los anillos: el retorno del rey* tienen ONCE
   ÓSCAR CADA UNA**, y **TRES DE LAS CUATRO OPCIONES son esas tres películas.**
 - **QUÉ HACER EN EL EXAMEN**: **marcar la de la plantilla y, si el proceso lo permite, IMPUGNARLA.**
-  **Es la undécima errata documentada de este proyecto.**
+  **Es la undécima costura documentada de este proyecto, y NO una errata de plantilla**:
+  ***Ben-Hur* es correcta, sólo que no es la única.**
 
 ## Los Goya: tres preguntas de actualidad
 

@@ -39,6 +39,26 @@ y **las cerró todas** contra la fuente: no queda trabajo pendiente de ellas
   esquema y avise de lo que está en uno y no en el otro. No se hace ahora porque con nueve
   temas se comprueba a mano; con treinta y tres, no.
 
+
+### 2026-09-03 · Realización Televisión: la pregunta 33 no es una errata de plantilla — precisado el mismo día
+
+- **Dónde**: `temas/realizacion-tv/05-el-cine.md`, sus dos informes, el esquema, `banco/README.md` y
+  el aviso de `herramientas/libro.py`.
+- **Qué decía**: que la pregunta 33 del primer llamamiento —el récord de Óscar— era **«la undécima
+  errata del proyecto»**.
+- **Por qué estaba mal**: **el proyecto cuenta las «erratas de plantilla» como respuestas oficiales
+  EQUIVOCADAS**, y van diez. **La respuesta de esta pregunta no es equivocada**: *Ben-Hur* tiene once
+  Óscar y es una respuesta correcta. **Lo que falla es el enunciado**, que pide «la película con
+  mayor número» cuando **hay tres empatadas y tres de las cuatro opciones son esas tres**. Meterla en
+  la cuenta de erratas de plantilla habría inflado una cifra que el proyecto usa para medirse.
+- **Aplicado**: se la llama **«la undécima costura documentada del proyecto»** —el término que el
+  propio README usa para el conjunto— y **en los cinco sitios se dice expresamente que NO es errata
+  de plantilla y que la cuenta de erratas sigue en diez**.
+- **Gravedad**: menor en cuanto al contenido —la instrucción al opositor no cambia: marcar la
+  plantilla e impugnar— y **no menor en cuanto al método**: **una cifra que se usa para medir el
+  proyecto no puede crecer por asimilación.**
+
+---
 ---
 
 ## Erratas comprobadas en plantillas oficiales de 2024

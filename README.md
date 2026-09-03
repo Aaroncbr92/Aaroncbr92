@@ -70,20 +70,28 @@ Lo que hace por ti en cada precepto:
 
 ## Los volúmenes
 
-**Ocho, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a las
-siete ocupaciones; los siete específicos cierran con **el mismo tema de
+**Doce, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a las
+once ocupaciones; los once específicos cierran con **el mismo tema de
 prevención de riesgos laborales**, que es un solo fichero.
 
 | Volumen | Ocupación tipo | Temas | Preguntas | Páginas |
 |---|---|---:|---:|---:|
-| `libro-general` | Las siete | 8 | 492 | 255 |
-| `libro-produccion-asistencia` | Producción (Asistencia) | 18 | 154 | 263 |
-| `libro-produccion` | Producción | 17 | 97 | 214 |
-| `libro-realizacion` | Realización (Asistencia) | 21 | 237 | 285 |
-| `libro-documentacion` | Documentación | 7 | 113 | 137 |
-| `libro-informacion` | Información y Contenidos | 11 | 209 | 196 |
-| `libro-gestion-administrativa` | Gestión Administrativa | 13 | 106 | 163 |
-| `libro-gestion` | Gestión | 31 | 112 | 303 |
+| `libro-general` | Las once | 8 | 500 | 257 |
+| `libro-produccion-asistencia` | Producción (Asistencia) | 18 | 167 | 272 |
+| `libro-produccion` | Producción | 17 | 110 | 224 |
+| `libro-realizacion` | Realización (Asistencia) | 21 | 250 | 294 |
+| `libro-realizacion-tv` | **Realización Televisión** | **23** | **273** | **354** |
+| `libro-documentacion` | Documentación | 7 | 126 | 146 |
+| `libro-informacion` | Información y Contenidos | 11 | 222 | 206 |
+| `libro-gestion-administrativa` | Gestión Administrativa | 13 | 119 | 172 |
+| `libro-gestion` | Gestión | 31 | 125 | 313 |
+| `libro-montaje-equipos` | Montaje de Equipos Audiovisuales | 11 | 119 | 157 |
+| `libro-edicion-montaje` | Edición, Montaje y Procesos Audiovisuales | 11 | 130 | 184 |
+| `libro-informacion-grafica` | Información Gráfica y Captación de Imagen y Sonido | 12 | 138 | 210 |
+
+**Realización Televisión es el volumen más grande del proyecto**: 354 páginas,
+veintidós temas propios más el de prevención y **229 preguntas del bloque
+específico**, de dos llamamientos con sus dos plantillas completas.
 
 **Diez respuestas oficiales de 2024 están mal, y van marcadas una a una** con el
 precepto, el modelo de cuentas o la ficha de fabricante que las desmiente. El

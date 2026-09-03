@@ -164,7 +164,7 @@ de una imagen»—, **que no existía en ningún otro tema del proyecto.**
 
 | Pregunta | El defecto | Qué hace el temario |
 |---|---|---|
-| **33 (1.er llam.)** | **TRES respuestas igualmente correctas**: *Ben-Hur*, *Titanic* y *El señor de los anillos: el retorno del rey* comparten el récord de once Óscar, **y tres de las cuatro opciones son esas tres películas** | **Manda marcar la de la plantilla sabiendo que está marcada por la plantilla y no por el enunciado**, y **la señala como impugnable.** **Undécima errata del proyecto** |
+| **33 (1.er llam.)** | **TRES respuestas igualmente correctas**: *Ben-Hur*, *Titanic* y *El señor de los anillos: el retorno del rey* comparten el récord de once Óscar, **y tres de las cuatro opciones son esas tres películas** | **Manda marcar la de la plantilla sabiendo que está marcada por la plantilla y no por el enunciado**, y **la señala como impugnable.** **Undécima costura del proyecto**, y **no errata de plantilla**: *Ben-Hur* es correcta, sólo que no es la única |
 | **67 (1.er llam.)** | **El enunciado pide qué NO se incluye en un magazine y la respuesta afirma que cualquier temática puede incluirse**: **materialmente cierta y no contesta a lo que se pregunta** | **Manda marcarla igual** y **explica que se acierta reconociendo la intención del redactor, no la lógica del enunciado** |
 
 **Ninguna de las dos es errata de plantilla**: **la plantilla es coherente con lo que el redactor
