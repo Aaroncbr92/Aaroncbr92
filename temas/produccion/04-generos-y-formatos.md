@@ -1,5 +1,19 @@
 # Tema 4 del específico de Producción · Géneros y formatos audiovisuales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 4 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma en el enunciado.** Sólo una definición se apoya en la **Ley 13/2022, General de Comunicación Audiovisual**, artículo 2: la de **programa** |
+| **Identificador** | `BOE-A-2022-11311` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Aviso sobre las fuentes** | **Dos afirmaciones descansan sólo en la plantilla**: que «series importadas» pertenece a la categorización de **Michelle Hilmes**, cuya obra **no se ha consultado**, y el análisis de la cobertura olímpica de la pregunta 46 |
+| **Extensión** | **1.897 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el vídeo a la carta (**VoD**, del inglés *video on
 demand*); la inteligencia artificial (**IA**); la corporación de radio y televisión pública española
 (**RTVE**); y la Ley General de Comunicación Audiovisual (**LGCA**), que es como se conoce la

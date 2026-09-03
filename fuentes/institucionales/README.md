@@ -17,6 +17,10 @@ se leyó**.
 | `UTECA_portada.txt` | Portada: «**Televisión Comercial en Abierto**» | **UTECA** | 02/09/2026 |
 | `SNTV_portada.txt` | Portada: «**una agencia global líder de vídeo deportivo**», más de 40 deportes, **empresa conjunta de The Associated Press e IMG** | **SNTV** | 02/09/2026 |
 | `ACN_portada.txt` | Portada: «**Agència Catalana de Notícies**» | **ACN** | 02/09/2026 |
+| `FORTA_35-aniversario.txt` | **Nota de prensa del 35 aniversario**, fechada el 14/11/2024: sitúa la creación de la federación **en 1989** | **FORTA** | 03/09/2026 |
+| `AcademiaTV_la-academia.txt` | «**La Academia**»: fundación en **1997**, la relación completa de presidencias y la toma de posesión de la novena junta directiva el **14/12/2022** | **Academia de Televisión y de las Ciencias y Artes del Audiovisual** | 03/09/2026 |
+| `CIMA_portada.txt` | Portada: «**Asociación de Mujeres Cineastas y de Medios Audiovisuales**» y su fin declarado, **fomentar la presencia igualitaria** | **CIMA** | 03/09/2026 |
+| `DAMA_portada.txt` | Portada: «**la única entidad de gestión especializada en obras audiovisuales**», con sus 3.600 socios y los autores de 40 países | **DAMA** | 03/09/2026 |
 
 ## Por qué hacía falta
 
@@ -50,3 +54,29 @@ ni Liberia**.
 **La regla que queda**: cuando una pregunta depende de **una lista que cambia** —países, organismos,
 marcas, modelos—, **el tratado no es la fuente: la fuente es el registro vivo, y se cita con su
 fecha**.
+
+
+## Y una tercera, que salió del tema 15 de Producción
+
+**Una fecha que ninguna norma da.** El examen pregunta **en qué año se fundó FORTA**, y la página
+«Quiénes somos» de la federación —que ya estaba aquí— **no lo dice**. Lo dice su **nota de prensa del
+35 aniversario**, de noviembre de 2024, al recoger la intervención de su presidenta «desde su creación
+en **1989**».
+
+**Y la fuente vale doble porque la aritmética del propio titular la confirma**: 35 años antes de
+noviembre de 2024 es 1989. No hay que creerse la frase; se comprueba con el encabezado.
+
+**Lo mismo pasa con la Academia de Televisión.** Preguntar «quién preside **actualmente**» no tiene
+respuesta en el BOE: la tiene la propia institución en su página, que además publica **la relación
+completa de presidencias**, que es lo que permite explicar por qué **Manuel Campo Vidal** aparece
+entre las opciones falsas —fue presidente desde 2006—.
+
+**La regla que queda, que es la misma de la lista viva vista arriba**: cuando la pregunta es **quién
+es quién** o **desde cuándo**, la fuente es **la organización misma**, citada con la fecha en que se
+leyó, **porque una página cambia sin avisar** y una respuesta que dependa de ella caduca.
+
+**Dos puertas cerradas de esta tanda, comprobadas y anotadas**: la de **AISGE**, cuya conexión **no
+verifica su certificado** contra el almacén de confianza de este entorno —y **no se desactiva la
+verificación de certificados para leer una fuente**—, y la del **Ministerio de Cultura**, con su
+registro de entidades de gestión, que falla igual. Ninguna de las dos hace falta para responder lo que
+el examen preguntó, y por eso se anotan sin más.

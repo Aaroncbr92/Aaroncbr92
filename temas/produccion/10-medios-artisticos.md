@@ -1,5 +1,19 @@
 # Tema 10 del específico de Producción · Medios artísticos: caracterización, estilismo, atrezo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 10 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma: no la hay.** Es el oficio de los departamentos artísticos de una producción |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede |
+| **Advertencia** | **La tabla de pinceles recoge los usos habituales del oficio y no está normalizada.** El anexo escribe «attrezzo», con grafía italiana; el tema usa **atrezo**, la forma asentada en castellano |
+| **Extensión** | **1.996 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la alta definición (**HD**) y la ultraalta definición
 (**UHD**); el diodo emisor de luz (**LED**); y el índice de reproducción cromática (**IRC**), que
 viene del tema 9.

@@ -1,5 +1,19 @@
 # Tema 12 del específico de Producción · Transporte de la señal
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 12 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma en el enunciado.** Se apoya en la **Recomendación UIT-R SNG.770-2** —segundo nivel— y en la **ficha del fabricante del LiveU LU800** —cuarto nivel— |
+| **Identificador** | `UIT-R SNG.770-2` · ficha del **LiveU LU800** |
+| **Redacción que se estudia** | La recomendación, en su edición de 01/2012; la ficha, **tal como estaba el 03/09/2026** |
+| **Aviso sobre las fuentes** | **La documentación de Avid sobre el iNEWS Command sigue cerrada**: ocho rutas probadas con agente de navegador. La respuesta a la pregunta 2 se sostiene porque **los otros tres términos sí transportan señal** |
+| **Extensión** | **2.331 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la fibra hasta el hogar (**FTTH**, del inglés *fiber
 to the home*); el periodismo electrónico digital por satélite (**DSNG**, del inglés *digital satellite
 news gathering*) y su versión analógica (**SNG**); el enlace ascendente (***uplink***) y el descendente

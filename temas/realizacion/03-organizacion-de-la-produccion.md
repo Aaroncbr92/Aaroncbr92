@@ -9,7 +9,7 @@
 | **Fuente** | **Oficio audiovisual**, con el **artículo 8 del III Convenio colectivo de RTVE** para la clasificación profesional |
 | **Identificador** | Convenio colectivo de la Corporación RTVE |
 | **Redacción que se estudia** | La **vigente al 21/12/2022** |
-| **Extensión** | **1.618 palabras** |
+| **Extensión** | **1.674 palabras** |
 
 <!-- /portada -->
 

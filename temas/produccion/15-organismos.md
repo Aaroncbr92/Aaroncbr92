@@ -1,5 +1,19 @@
 # Tema 15 del específico de Producción · Organismos nacionales e internacionales de televisión
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 15 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma en el enunciado, salvo una pregunta.** Se apoya en la **Ley 13/2022** (arts. 22 y 23), el **III Convenio colectivo**, la **norma europea EN 300 744 del ETSI** y la documentación institucional de **FORTA**, la **Academia de Televisión**, **CIMA** y **DAMA** |
+| **Identificador** | `BOE-A-2022-11311` · `BOE-A-2020-16744` · `ETSI EN 300 744` · fichas institucionales |
+| **Redacción que se estudia** | Las normas, en su redacción vigente al **21/12/2022**; las páginas institucionales, **tal como estaban el 02 y el 03/09/2026** |
+| **Aviso sobre las fuentes** | **Las cinco preguntas se contestan con documento y ninguna con la plantilla.** Dos puertas cerradas y anotadas: **el sitio de la UER responde «prohibido» incluso con agente de navegador** y **la página de AISGE no verifica su certificado** —y no se desactiva la verificación para leer una fuente— |
+| **Extensión** | **3.432 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Federación de Organismos o Entidades de Radio y
 Televisión Autonómicos (**FORTA**); la Unión Europea de Radiodifusión (**UER**), que en inglés se
 llama *European Broadcasting Union* (**EBU**); la Asociación de Mujeres Cineastas y de Medios

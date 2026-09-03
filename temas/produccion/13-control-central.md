@@ -1,5 +1,19 @@
 # Tema 13 del específico de Producción · Control central: coordinación de señales y comunicaciones, emisión, continuidad y distribución
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 13 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma en su propio texto.** Un enlace viene de otra: la conservación de lo emitido durante seis meses, del **artículo 156.2 de la Ley 13/2022** |
+| **Identificador** | `BOE-A-2022-11311` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Advertencia** | «**Control central**» y «**control técnico central**» se usan aquí **como sinónimos**, que es como se usan en la casa; en algunos centros designan salas distintas y **el examen no distingue entre ellas** |
+| **Extensión** | **2.070 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la sala central de aparatos (**CAR**, del inglés
 *central apparatus room*), que es como se llama en inglés al control central; la interfaz digital
 serie (**SDI**) y su versión de alta definición (**HD-SDI**); el protocolo de internet (**IP**); la

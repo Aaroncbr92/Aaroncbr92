@@ -51,7 +51,7 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 ## Y el banco del bloque **específico**
 
-Hay uno por ocupación tipo. Los **seis** que existen suman **748 preguntas**, todas con
+Hay uno por ocupación tipo. Los **siete** que existen suman **814 preguntas**, todas con
 su respuesta oficial.
 
 ### Producción (Asistencia)
@@ -163,6 +163,57 @@ respuestas**. Es la cuarta plantilla que recupera y la primera de una ocupación
 
 **Y es la ocupación con más respuestas oficiales equivocadas del proyecto: cuatro.** Van contadas en
 los informes de refutación de sus temas 2, 3, 5 y 6.
+
+### Producción
+
+**66 preguntas** de un solo cuadernillo, `81_preguntas_produccion`, repartidas entre los dieciséis
+temas de su Anexo 2.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `produccion-01.md` | 1 · La producción: plan de trabajo, organización y fases | 2 |
+| `produccion-02.md` | 2 · Ley de Propiedad Intelectual | 5 |
+| `produccion-03.md` | 3 · La escaleta y el guion. Desglose | **6** |
+| `produccion-04.md` | 4 · Géneros y formatos audiovisuales | 3 |
+| `produccion-05.md` | 5 · Equipos humanos | 2 |
+| `produccion-06.md` | 6 · Captación de imagen y sonido | **7** |
+| `produccion-07.md` | 7 · El estudio de televisión | 1 |
+| `produccion-08.md` | 8 · Producción en exteriores | 5 |
+| `produccion-09.md` | 9 · Escenografía e iluminación | 5 |
+| `produccion-10.md` | 10 · Medios artísticos | 3 |
+| `produccion-11.md` | 11 · Tratamiento de imagen y sonido | **6** |
+| `produccion-12.md` | 12 · Transporte de la señal | 4 |
+| `produccion-13.md` | 13 · Control central | 3 |
+| `produccion-14.md` | 14 · El presupuesto | 2 |
+| `produccion-15.md` | 15 · Organismos nacionales e internacionales | 5 |
+| `produccion-16.md` | 16 · Aspectos jurídicos de la producción | **7** |
+
+**Ningún punto del anexo se queda sin preguntas**, cosa que no ocurre en Gestión —seis puntos a
+cero— ni en Realización (Asistencia) —uno—. El reparto de este tribunal **cubrió el anexo entero**.
+
+**Y una trampa de nombre que costó un reparto falso.** El cuadernillo se llama
+`81_preguntas_produccion`, y los de la otra ocupación,
+`77_preguntas_produccion_asist` y `78_preguntas_produccion_asist_2_llamamiento`.
+**«produccion» está dentro de «produccion_asist»**, así que la selección por
+subcadena metía el examen de una ocupación en el banco de la otra: Producción
+(Asistencia) llegó a decir «123 de 189, quedan 66 sin clasificar» **contando
+preguntas que no eran suyas**. Se arregló con una lista explícita —`SOLO` en
+`herramientas/banco_especifico.py`— que **nombra los cuadernillos de cada
+ocupación en vez de buscarlos por su nombre**. La misma trampa afectaba a
+Realización (Asistencia), y se arregló igual.
+
+**Una errata de plantilla y una respuesta mal enunciada.** La errata es la **nº 88**, sobre
+subcontratación en los contratos públicos: **ninguna de las cuatro opciones dice lo que dice la Ley
+9/2017**. La marcada exige informar «sólo por encima del 30 %» y obtener «siempre» autorización
+expresa, y el artículo 215.2.b) obliga a comunicar por escrito **«en todo caso»**, mientras que el
+215.2.d) reserva la autorización expresa a los contratos secretos o reservados; el 30 % y los cinco
+millones son del artículo **217.2**, que mide cuándo **la Administración** tiene que comprobar los
+pagos a los subcontratistas. La mal enunciada es la **nº 75**, que da por buena una afirmación que
+dice «solo con consentimiento» cuando el artículo 6 del reglamento europeo prevé **seis bases de
+licitud**. Las dos van contadas en `informes/refutacion-produccion.md`.
+
+**Dos preguntas de este cuadernillo van al banco compartido de prevención de riesgos laborales** —la
+29 y la 83— y por eso están en `reclasificadas.tsv` y no en el reparto de arriba.
 
 ### Realización (Asistencia)
 

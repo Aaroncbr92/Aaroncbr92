@@ -1,5 +1,18 @@
 # Tema 1 del específico de Producción · La producción: plan de trabajo, organización y fases
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 1 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma en el enunciado.** Se apoya en el **III Convenio colectivo de la Corporación RTVE**, artículo 8, para las definiciones de producción interna, mixta y ajena; el resto va **como oficio y así se declara** |
+| **Identificador** | `BOE-A-2020-16744` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **1.737 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la orden de trabajo diaria (**OTD**) y la orden de
 trabajo (**OT**); el plan de trabajo (**PT**); y la corporación de radio y televisión pública española
 (**RTVE**).

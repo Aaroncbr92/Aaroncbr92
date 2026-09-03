@@ -163,6 +163,33 @@ AVISOS_INFORMACION = {
 # corrección.
 TEMA_PRL = ("prl/prl-especifico", "prl-especifico")
 
+AVISOS_PRODUCCION = {
+    "81_preguntas_produccion · nº 88":
+        "<b>Ninguna de las cuatro opciones es correcta.</b> La plantilla da la <b>d)</b> "
+        "—informar solo por encima del <b>30 %</b> y obtener <b>siempre</b> aprobación "
+        "expresa—, y la ley que la propia pregunta cita dice lo contrario en sus dos mitades. "
+        "El <b>artículo 215.2.b) de la Ley 9/2017</b> obliga a que <b>«en todo caso, el "
+        "contratista deberá comunicar por escrito»</b> su intención de subcontratar, "
+        "<b>sin umbral alguno</b>; y el <b>215.2.d)</b> reserva la <b>autorización expresa</b> a "
+        "los contratos <b>secretos o reservados</b> y a los que exigen medidas de seguridad "
+        "especiales. El <b>30 %</b> y los <b>5 millones de euros</b> de las opciones c) y d) salen "
+        "de un artículo distinto, el <b>217.2</b>, y de una obligación que <b>no es del "
+        "contratista sino de la Administración</b>: cuándo tiene que comprobar que el "
+        "contratista paga a sus subcontratistas. <b>La pregunta toma dos cifras de un artículo y "
+        "las coloca en otro.</b>",
+    "81_preguntas_produccion · nº 75":
+        "<b>La respuesta oficial está mal enunciada, aunque es la única marcable.</b> Dice "
+        "que la ley garantiza que los datos personales <b>«solo»</b> se recojan con el "
+        "consentimiento del titular, y el <b>artículo 6 del Reglamento (UE) 2016/679</b> prevé "
+        "<b>seis bases de licitud</b>, de las que el consentimiento es una. La propia <b>Ley "
+        "Orgánica 3/2018</b> lo presupone cuando su artículo <b>72.1.b)</b> tipifica el "
+        "tratamiento «sin que concurra <b>alguna de</b> las condiciones de licitud». "
+        "<b>Marcar la c)</b>: las otras tres son falsas de plano. Lo que sobra de su enunciado es "
+        "la palabra <b>«solo»</b>.",
+}
+
+
+
 AVISOS_PRL = {
     "77_preguntas_produccion_asist · nº 77":
         "<b>La opción buena nombra algo que la norma no dice.</b> La plantilla da <b>b) «Para la "
@@ -293,9 +320,10 @@ BLOQUES = {
         rotulo="Temario general",
         ocupacion=None,
         titulo="Temario general",
-        subtitulo="Los ocho temas comunes a las seis ocupaciones tipo:<br>"
-                  "Producción (Asistencia), Gestión Administrativa, Gestión,<br>"
-                  "Realización (Asistencia), Documentación e Información y Contenidos",
+        subtitulo="Los ocho temas comunes a las siete ocupaciones tipo:<br>"
+                  "Producción (Asistencia), Producción, Gestión Administrativa,<br>"
+                  "Gestión, Realización (Asistencia), Documentación<br>"
+                  "e Información y Contenidos",
         pie="Oposiciones RTVE – Temario General",
         avisos=ERRATAS_GENERAL,
         clase_aviso="errata",
@@ -438,6 +466,47 @@ BLOQUES = {
                       "formuló. El punto 30 se apoya en la documentación de Microsoft para "
                       "<b>Excel 2019</b>, que es el cuarto nivel de la jerarquía de fuentes, y "
                       "dice qué es lo que con ella no se puede asegurar.</p>",
+    ),
+    "produccion": dict(
+        carpeta="produccion",
+        rotulo="Temario específico · Producción",
+        ocupacion="Producción",
+        titulo="Temario específico",
+        subtitulo="Los diecisiete temas de <b>Producción</b>",
+        pie="Oposiciones RTVE – Producción",
+        avisos=dict(AVISOS_PRODUCCION, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), "produccion-%02d" % n) for n, base in [
+            (1, "la-produccion"), (2, "propiedad-intelectual"),
+            (3, "escaleta-guion-desglose"), (4, "generos-y-formatos"),
+            (5, "equipos-humanos"), (6, "captacion-de-imagen-y-sonido"),
+            (7, "el-estudio-de-television"), (8, "produccion-en-exteriores"),
+            (9, "escenografia-e-iluminacion"), (10, "medios-artisticos"),
+            (11, "tratamiento-de-imagen-y-sonido"), (12, "transporte-de-la-senal"),
+            (13, "control-central"), (14, "el-presupuesto"),
+            (15, "organismos"), (16, "aspectos-juridicos"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Una respuesta oficial de este bloque no existe</b> \u2014la de la "
+                         "subcontrataci\u00f3n en los contratos p\u00fablicos, donde <b>ninguna de "
+                         "las cuatro opciones dice lo que dice la ley</b>\u2014 y <b>otra est\u00e1 "
+                         "mal enunciada</b>: la que da el consentimiento por \u00fanica base para "
+                         "tratar datos. Las dos van marcadas con el art\u00edculo que las desmiente. "
+                         "<b>El temario ense\u00f1a la norma, no la plantilla.</b>",
+        aviso_portada="<p><b>El punto 16 de su anexo es el m\u00e1s preguntado de todo el "
+                      "proyecto: siete preguntas de noventa salen de un solo punto</b>, y es "
+                      "tambi\u00e9n donde est\u00e1n las dos costuras de este examen. <b>La pregunta "
+                      "de la subcontrataci\u00f3n no tiene ninguna opci\u00f3n correcta</b>: la "
+                      "marcada contradice el \u00aben todo caso\u00bb del art\u00edculo 215 de la Ley "
+                      "de Contratos del Sector P\u00fablico, y sus dos cifras \u2014el 30 % y los "
+                      "cinco millones\u2014 vienen de otro art\u00edculo que mide otra cosa. Va "
+                      "demostrado con los dos art\u00edculos delante.</p>"
+                      "<p><b>Y es el bloque con m\u00e1s preguntas contestadas con documento "
+                      "propio</b>: la ficha del fabricante que documenta las cuatro se\u00f1ales "
+                      "sincronizadas de una mochila, la nota de prensa que fecha la creaci\u00f3n de "
+                      "FORTA, la p\u00e1gina en que una asociaci\u00f3n se define a s\u00ed misma con "
+                      "las palabras del enunciado. <b>Donde no hay documento, el tema lo dice</b>, "
+                      "y son cuatro veces contadas.</p>",
     ),
     "realizacion": dict(
         carpeta="realizacion",

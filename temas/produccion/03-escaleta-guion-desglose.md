@@ -1,5 +1,19 @@
 # Tema 3 del específico de Producción · La escaleta y el guion. Desglose
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 3 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los documentos de la escritura y la preparación audiovisual, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Advertencia** | **Los nombres de estos documentos no están normalizados**: lo que el tema fija es **qué distingue a cada uno de sus vecinos** |
+| **Extensión** | **2.201 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el gran plano general (**GPG**), el plano general
 (**PG**), el plano medio (**PM**), el primer plano (**PP**) y el plano detalle (**PD**), que son las
 abreviaturas con que se escriben los tiros en un guion técnico.

@@ -1,5 +1,19 @@
 # Tema 9 del específico de Producción · Escenografía e iluminación. Diseño de producción
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 9 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Real Decreto 486/1997, de 14 de abril**, de disposiciones mínimas de seguridad y salud en los lugares de trabajo, **anexo I, apartado 3**, para la barandilla del practicable; el resto **como oficio** |
+| **Identificador** | `BOE-A-1997-8669` |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. **El anexo I no está articulado**: se cita por su apartado |
+| **Aviso sobre las fuentes** | **La norma sostiene los 90 cm pero NO los dos umbrales del enunciado** —55 cm y 6 m—, que son del **Código Técnico de la Edificación**, **no consultado en este proyecto**. Las dos normas coinciden en la cifra que se pregunta |
+| **Extensión** | **2.667 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el grado kelvin (**K**), unidad de la temperatura de
 color; el lux (**lx**) y el lumen (**lm**); la medición a través del objetivo (**TTL**, del inglés
 *through the lens*); el diodo emisor de luz (**LED**); los haluros metálicos (**HMI**); el índice de

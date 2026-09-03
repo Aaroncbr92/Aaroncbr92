@@ -1,5 +1,19 @@
 # Tema 8 del específico de Producción · Producción en exteriores: localización, permisos y documentación internacional
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 8 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Reglamento de Ejecución (UE) 2019/947 de la Comisión, de 24 de mayo de 2019**, sobre utilización de sistemas de aeronaves no tripuladas, para el rodaje con dron; el resto **como oficio** |
+| **Identificador** | `DOUE-L-2019-81004` |
+| **Redacción que se estudia** | **Texto original sin consolidar**, y así lo advierte el propio volcado en cada precepto |
+| **Aviso sobre las fuentes** | **Dos cosas no se han podido contrastar**: la titularidad del **Monte de El Pardo** —su página es una aplicación de JavaScript que no sirve contenido por ruta estática— y los rasgos del **cuaderno ATA**, cuyo **Convenio de Estambul no se ha consultado** en este tema |
+| **Extensión** | **3.021 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la unidad móvil (**UM**, escrita **UU.MM.** en
 plural por el examen); el sistema de aeronave no tripulada (**UAS**, del inglés *unmanned aircraft
 system*), que es como el reglamento europeo llama al dron; la Agencia Estatal de Seguridad Aérea

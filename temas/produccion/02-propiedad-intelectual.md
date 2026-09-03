@@ -1,5 +1,19 @@
 # Tema 2 del específico de Producción · Ley de Propiedad Intelectual: derechos de autor y de explotación
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 2 |
+| **Sirve para** | **Producción** |
+| **Fuente** | Texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril |
+| **Identificador** | `BOE-A-1996-8930` · BOE núm. 97, de 22/04/1996 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**, que **incluye el texto consolidado de 30 de marzo de 2022 que el propio enunciado cita** |
+| **Artículos citados** | **5**, **6**, **10**, **35**, **86**, **87**, **88**, **94**, **119** y **125** |
+| **Extensión** | **2.400 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Propiedad Intelectual (**LPI**), que es
 como se conoce el texto refundido aprobado por el Real Decreto Legislativo 1/1996; el Real Decreto
 Legislativo (**RDLeg** o **RDL**, como lo escribe el examen); el Boletín Oficial del Estado (**BOE**);

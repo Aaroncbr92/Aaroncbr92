@@ -1,5 +1,18 @@
 # Tema 14 del específico de Producción · El presupuesto: previo y ejecutado, facturación y liquidación de gastos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 14 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **III Convenio colectivo de la Corporación RTVE**, artículos **43** y **75**, para los umbrales horarios de manutención y las dietas por comisión de servicio; el resto **como oficio** |
+| **Identificador** | `BOE-A-2020-16744` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **2.272 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el impuesto sobre el valor añadido (**IVA**); la
 corporación de radio y televisión pública española (**RTVE**); y el Boletín Oficial del Estado
 (**BOE**).

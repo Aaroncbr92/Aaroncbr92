@@ -5,7 +5,7 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario general · punto 1 |
-| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Producción** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
 | **Fuente** | Constitución Española de 27 de diciembre de 1978 |
 | **Identificador** | `BOE-A-1978-31229` · BOE núm. 311, de 29/12/1978 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Al corte, la única reforma consumada era la del **artículo 135** (2011); las dos posteriores van en «Notas de actualización», fuera del cuerpo examinable |

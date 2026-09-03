@@ -1,5 +1,19 @@
 # Tema 7 del específico de Producción · El estudio de televisión: dotación y tipología
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 7 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma.** Organización y dotación de un estudio de televisión, **como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede |
+| **Aviso sobre las fuentes** | **La única pregunta de este punto descansa sólo en la plantilla**: la documentación del fabricante de **CuePilot** no se ha consultado. Y **no hay clasificación normalizada de estudios por superficie**: las cifras del tema son orientativas |
+| **Extensión** | **1.581 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la unidad de control de cámara (**CCU**); el programa
 (**PGM**) y el previo (**PVW**); la señal de aviso de emisión (**tally**), que en castellano se llama
 **piloto**; la interfaz digital serie (**SDI**); el protocolo de internet (**IP**); y el diodo emisor

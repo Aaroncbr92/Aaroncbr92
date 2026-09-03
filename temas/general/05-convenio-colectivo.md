@@ -5,7 +5,7 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario general · punto 5 |
-| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Producción** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
 | **Fuente** | III Convenio Colectivo de la Corporación RTVE |
 | **Identificador** | `BOE-A-2020-16744` (texto) · `BOE-A-2021-1334` (corrección) · `BOE-A-2021-8252` (anexo 7) · `BOE-A-2022-20256` (acuerdo de 2022) |
 | **Redacción que se estudia** | El texto de **2020** con la **corrección de errores de 2021** y el **acuerdo de modificación de 2022**. **No es legislación consolidada**: el articulado se reconstruye superponiendo los documentos |

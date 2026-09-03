@@ -1,5 +1,19 @@
 # Tema 5 del específico de Producción · Equipos humanos: equipos técnicos y artísticos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 5 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma: no la hay.** Es el organigrama de una producción audiovisual y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede |
+| **Advertencia** | **Los nombres de los puestos no están normalizados** y **la clasificación profesional del III Convenio colectivo NO es la de este tema**: ordena por grupos y ámbitos ocupacionales a efectos laborales, no por departamentos de rodaje |
+| **Extensión** | **1.467 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la unidad móvil (**UM**); la orden de trabajo diaria
 (**OTD**); y la corporación de radio y televisión pública española (**RTVE**).
 

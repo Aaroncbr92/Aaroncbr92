@@ -1,5 +1,19 @@
 # Tema 11 del específico de Producción · Tratamiento de imagen y sonido: postproducción, grafismo y máster
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 11 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma en su propio texto.** Un enlace viene de otra: la conservación de lo emitido, del **artículo 156.2 de la Ley 13/2022**, que se desarrolla en el tema 16 |
+| **Identificador** | `BOE-A-2022-11311` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Aviso sobre las fuentes** | **La innovación de accesibilidad de RTVE en 2021 no se ha contrastado en ninguna fuente institucional**: descansa en la plantilla y en la coherencia técnica de la respuesta |
+| **Extensión** | **2.671 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la lista de decisiones de edición (**EDL**, del
 inglés *edit decision list*); la regrabación automática de diálogos (**ADR**, del inglés *automated
 dialogue replacement*); el código de tiempo (**TC**, del inglés *timecode*); la inteligencia

@@ -1,5 +1,19 @@
 # Tema 16 del específico de Producción · Aspectos jurídicos de la producción: prevención de riesgos laborales, protección de datos y contratación en el sector público
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 16 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Ley Orgánica 3/2018**, de Protección de Datos Personales y Garantía de los Derechos Digitales; **Ley 9/2017**, de Contratos del Sector Público; **Ley 60/2003**, de Arbitraje; y las **notas técnicas de prevención 476 y 704 del INSST** |
+| **Identificador** | `BOE-A-2018-16673` · `BOE-A-2017-12902` · `BOE-A-2003-23646` · **NTP 476** y **NTP 704** |
+| **Redacción que se estudia** | Las tres leyes, en su redacción vigente al **21/12/2022**; las notas técnicas, en su edición publicada por el INSST, descargadas el **03/09/2026** |
+| **Aviso sobre las fuentes** | **El punto más preguntado del temario, con dos anomalías documentadas artículo en mano**: la pregunta **88** no tiene **ninguna opción correcta** —el art. 215.2.b) obliga a comunicar por escrito «en todo caso» y el 30 % y los 5 M€ son del art. 217.2, que mide otra cosa— y la **75** da por buena una afirmación que dice «solo con consentimiento» cuando **el art. 6 del reglamento europeo prevé seis bases de licitud** |
+| **Extensión** | **5.297 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley Orgánica de Protección de Datos Personales y
 Garantía de los Derechos Digitales (**LOPDGDD**), que es la **Ley Orgánica 3/2018**; el Reglamento
 General de Protección de Datos de la Unión Europea (**RGPD**), que es el **Reglamento (UE) 2016/679**;
@@ -29,12 +43,16 @@ opinión: es lo que dice el texto de la ley que la propia pregunta cita.**
 ## Índice
 
 - [1. Los tres bloques del punto 16](#1-los-tres-bloques-del-punto-16)
-- [2. Los riesgos psicosociales: mobbing y burnout](#2-los-riesgos-psicosociales-mobbing-y-burnout)
+- [2. Los riesgos psicosociales: *mobbing* y *burnout*](#2-los-riesgos-psicosociales-mobbing-y-burnout)
 - [3. Protección de datos: el mapa de la norma](#3-protección-de-datos-el-mapa-de-la-norma)
 - [4. Videovigilancia y grabación en espacio público](#4-videovigilancia-y-grabación-en-espacio-público)
 - [5. El régimen sancionador: muy graves, graves y leves](#5-el-régimen-sancionador-muy-graves-graves-y-leves)
 - [6. El contrato de producción y las cláusulas de arbitraje](#6-el-contrato-de-producción-y-las-cláusulas-de-arbitraje)
 - [7. Contratación en el sector público](#7-contratación-en-el-sector-público)
+  - [7.1 El contrato menor](#71-el-contrato-menor)
+  - [7.2 La subcontratación, y una pregunta que no tiene respuesta](#72-la-subcontratación-y-una-pregunta-que-no-tiene-respuesta)
+  - [7.3 Lo demás del artículo 215, que sí se puede aprender](#73-lo-demás-del-artículo-215-que-sí-se-puede-aprender)
+  - [7.4 La pregunta 75, y por qué su respuesta oficial está mal enunciada](#74-la-pregunta-75-y-por-qué-su-respuesta-oficial-está-mal-enunciada)
 - [8. Los datos que el examen ha preguntado](#8-los-datos-que-el-examen-ha-preguntado)
 - [9. Trazabilidad](#9-trazabilidad)
 

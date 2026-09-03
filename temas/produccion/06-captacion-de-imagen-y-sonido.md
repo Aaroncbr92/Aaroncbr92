@@ -1,5 +1,19 @@
 # Tema 6 del específico de Producción · Captación de imagen y sonido
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Producción · punto 6 |
+| **Sirve para** | **Producción** |
+| **Fuente** | **Sin norma.** Óptica, sensores, soportes, microfonía y psicoacústica, **como oficio**; las resoluciones son las de las **Recomendaciones UIT-R**, dadas aquí como conocimiento del sector |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede |
+| **Aviso sobre las fuentes** | **Los intervalos del efecto Haas son aproximados y así van declarados**: la frontera con el eco va de 30 a 50 milisegundos según el tipo de sonido |
+| **Extensión** | **2.508 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la alta definición (**HD**) y la ultraalta definición
 (**UHD**); el dispositivo de carga acoplada (**CCD**) y el semiconductor complementario de óxido
 metálico (**CMOS**), que son los dos tipos de sensor; el hercio (**Hz**) y el milisegundo (**ms**); el
