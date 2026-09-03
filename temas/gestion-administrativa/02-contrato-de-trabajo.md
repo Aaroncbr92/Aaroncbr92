@@ -376,7 +376,7 @@ efectivamente cumplía esa función **hasta el 30 de marzo de 2022**.
 | 26 | Preaviso al dimitir | 49.1.d) | El ET **no fija plazo**: remite al convenio o a la costumbre |
 | 30 | Definición del contrato formativo | 11.1 | Correcta y literal |
 | 31 | Duración del contrato por circunstancias de la producción | 15.2 | Correcta y literal |
-| 49 | Causa que **NO** suspende el contrato | 45.1.k) y 46.2 | Correcta: la excedencia voluntaria |
+| 49 | Causa que *no* suspende el contrato | 45.1.k) y 46.2 | Correcta: la excedencia voluntaria |
 | 60 | Qué es obligatorio por escrito | 14.1 | Correcta |
 | 94 | Modalidad para menores de treinta años | 11 (derogado el anterior) | Nombra figuras suprimidas |
 

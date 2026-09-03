@@ -474,7 +474,7 @@ citando un artículo**; dos, con doctrina archivística que el tema desarrolla y
 | 56 | Criterio de ordenación de archivos | Doctrina archivística; art. 16.2 para el registro |
 | 62 | Partes del documento administrativo y su orden | Estructura administrativa; art. 40.2 para el pie |
 | 90 | Forma de los actos administrativos | Ley 39/2015, art. 36 |
-| 95 | Cuál NO es una clase de registro | Ley 39/2015, art. 16 |
+| 95 | Cuál *no* es una clase de registro | Ley 39/2015, art. 16 |
 
 ### 6.1. Una respuesta oficial que invierte la regla de la ley
 

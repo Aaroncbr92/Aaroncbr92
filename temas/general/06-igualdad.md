@@ -824,7 +824,7 @@ Nace de tres mandatos:
 
 1. **La Norma 4/2017 reguladora del Observatorio de Igualdad de RTVE**, que fija **seis
    objetivos** para la Corporación —los reproduce la Guía y son material de pregunta directa,
-   incluida la del tipo «¿cuál NO es uno de ellos?»:
+   incluida la del tipo «¿cuál *no* es uno de ellos?»:
    - **a)** **Promover el respeto, el conocimiento y la difusión del principio de igualdad**,
      velando por evitar cualquier desigualdad y discriminación por razón de sexo en la
      actividad de RTVE.

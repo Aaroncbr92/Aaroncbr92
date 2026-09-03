@@ -318,7 +318,7 @@ opera como corrección valorativa del activo.
 | 17 | Qué comprenden las cuentas anuales | Norma de elaboración 1.ª | **La respuesta oficial contradice la norma** |
 | 20 | Cuántos grupos tiene el cuadro | Cuarta parte | Correcta: nueve |
 | 29 | Elementos de las cuentas anuales | Marco Conceptual, 4.º | Correcta |
-| 32 | Qué NO forma parte de las cuentas anuales | Norma 1.ª | Correcta: el informe de auditoría |
+| 32 | Qué *no* forma parte de las cuentas anuales | Norma 1.ª | Correcta: el informe de auditoría |
 | 35 | Definición del valor contable | Marco Conceptual, 6.º | Correcta y literal |
 | 39 | De qué se compone el balance | Marco Conceptual, 4.º | Correcta |
 | 59 | Cuándo cabe balance y memoria abreviados | Norma 4.ª | Correcta |

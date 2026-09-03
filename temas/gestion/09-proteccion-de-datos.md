@@ -1,5 +1,19 @@
 # Tema 9 del específico de Gestión · Protección de datos personales y garantía de los derechos digitales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Gestión · punto 9 |
+| **Sirve para** | **Gestión** |
+| **Fuente** | Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales, y **Ley Orgánica 7/2021**, que el examen pregunta y el Anexo 2 no cita |
+| **Identificador** | `BOE-A-2018-16673` · BOE núm. 294, de 06/12/2018 — `BOE-A-2021-8806` · BOE núm. 126, de 27/05/2021 |
+| **Redacción que se estudia** | Las dos, en su redacción **vigente al 21/12/2022** |
+| **Aviso sobre las fuentes** | **Dos de las seis preguntas van de una ley que el programa no incluye**: la LO 7/2021, de datos tratados con fines penales, que transpone otra directiva y tiene su propio régimen sancionador. Las respuestas son correctas y verificables, pero **quien haya estudiado sólo lo que el temario manda no podía saberlas**. El tema estudia las dos leyes y lo dice |
+| **Extensión** | **2.088 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Reglamento General de Protección de Datos
 (**RGPD**), la Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales
 (**LOPDGDD**), la Agencia Española de Protección de Datos (**AEPD**), el delegado de protección de

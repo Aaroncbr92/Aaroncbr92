@@ -257,7 +257,7 @@ lo sustituye.
 | 14 | Extinción por voluntad del trabajador e indemnización | 49 | d) |
 | 22 | Causas del contrato de duración determinada | 15.1 | d) |
 | 23 | Duración máxima del eventual por circunstancias de la producción | 15.2 | b) Seis meses, ampliable a un año por convenio |
-| 27 | Cuál **NO** es despido disciplinario | 54.2 | d) |
+| 27 | Cuál *no* es despido disciplinario | 54.2 | d) |
 | 30 | Pactos de horas complementarias | 12.4 | d) |
 | 31 | Periodo de prueba de quien ya tuvo contrato de sustitución | 14.1 | b) |
 | 65 | Norma básica para despedir | — | a) El Estatuto de los Trabajadores |

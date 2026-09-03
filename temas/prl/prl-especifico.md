@@ -700,7 +700,7 @@ Guía; **dice lo mismo con otras palabras y se acepta como verdadera**, pero no 
 
 **No lo es**, en cambio, **mantener limpia la pantalla y usar un filtro antirreflejo**: eso
 previene la **fatiga visual**, no los trastornos musculoesqueléticos. La distinción es
-exactamente lo que pregunta el enunciado de examen que pide señalar **cuál NO es un requisito de
+exactamente lo que pregunta el enunciado de examen que pide señalar **cuál *no* es un requisito de
 diseño para evitar problemas musculoesqueléticos**.
 
 ---

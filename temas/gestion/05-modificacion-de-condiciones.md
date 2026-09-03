@@ -164,7 +164,7 @@ decisión ante la jurisdicción social, que la declarará justificada o injustif
 
 | Nº | Qué pregunta | Artículo | Oficial |
 |---|---|---|---|
-| 25 | En qué supuesto **NO** hay derecho a rescindir con indemnización | 41.3 | b) |
+| 25 | En qué supuesto *no* hay derecho a rescindir con indemnización | 41.3 | b) |
 | 64 | Qué tiene consideración de modificación sustancial | 41.1 | a) Horario y distribución del tiempo de trabajo |
 | 75 | Movilidad funcional fuera del grupo profesional | 39.2 | a) |
 | 93 | A quién se notifica la modificación individual | 41.3 | d) |

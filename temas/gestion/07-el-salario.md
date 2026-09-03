@@ -200,7 +200,7 @@ de pago similar a través de entidades de crédito**.
 |---|---|---|---|
 | 7 | Qué parte del salario mínimo se puede embargar | ET 27.2 | a) 0 % ✔ |
 | 26 | Quién paga las cargas fiscales y de Seguridad Social del trabajador | ET 26.4 | a) El trabajador, nulo el pacto en contrario ✔ |
-| 41 | Qué **NO** tiene en cuenta el Gobierno al fijar el SMI | ET 27.1 | d) ✔ |
+| 41 | Qué *no* tiene en cuenta el Gobierno al fijar el SMI | ET 27.1 | d) ✔ |
 | 57 | Plazo de los derechos de preferencia del crédito salarial | ET 32.4 | c) Un año desde que debió percibirse ✔ |
 | 61 | Cuantía retenible en la nómina por un embargo | ET 27.2 y LEC | c) El 30 % del exceso sobre el SMI |
 | 66 | Qué se considera salario | ET 26.1 y 26.2 | c) ✔ |
