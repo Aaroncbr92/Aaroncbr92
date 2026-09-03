@@ -39,7 +39,18 @@ SALIDA = "banco"
 # y el acta y el banco, `informacion`. Sin esta tabla la ocupación no casa con
 # ningún cuadernillo y el script no falla: reparte cero preguntas y lo dice sin
 # alarma, que es la forma más silenciosa de dar un bloque por hecho
-MARCA = {"informacion": "iyc", "gestion-administrativa": "gea"}
+MARCA = {"informacion": "iyc", "gestion-administrativa": "gea",
+         "produccion-asistencia": "produccion_asist"}
+
+# **Dos ocupaciones tipo se llaman «Producción».** Una es *Producción
+# (Asistencia)*, con sus cuadernillos `77_preguntas_produccion_asist` y
+# `78_..._2_llamamiento`; la otra es *Producción* a secas, con el
+# `81_preguntas_produccion`. Buscar por subcadena no las separa: «produccion»
+# está en los tres nombres, así que el banco de la primera se llevaba también
+# las sesenta y seis preguntas de la segunda **y las contaba como pendientes**,
+# sin dar ningún error. Cuando el nombre no basta, la ocupación dice **qué
+# cuadernillos son suyos**, por su nombre exacto.
+SOLO = {"produccion": ("81_preguntas_produccion",)}
 
 
 def reparto(ocupacion):
@@ -73,7 +84,10 @@ def cuadernillos(ocupacion):
     for f in sorted(os.listdir(DIR)):
         if not f.endswith(".txt") or "_preguntas_" not in f:
             continue
-        if ocupacion not in f:
+        if ocupacion in SOLO:
+            if re.sub(r"\.ocr$", "", f[:-4]) not in SOLO[ocupacion]:
+                continue
+        elif ocupacion not in f:
             continue
         # un cuadernillo con la fuente incrustada sin tabla de caracteres tiene
         # **dos ficheros**: el `.txt` ilegible —«(cid:12)(cid:13)…»— y la
@@ -200,7 +214,7 @@ TITULOS = {
     "20": "Realización (Asistencia) · Tema 20 · Postproducción",
     "21": "Realización (Asistencia) · Tema 21 · Prevención de riesgos laborales",
  },
- "produccion": {
+ "produccion-asistencia": {
     "01": "Producción (Asistencia) · Tema 1 · La producción: sistemas y métodos. "
           "Organización de la producción",
     "02": "Producción (Asistencia) · Tema 2 · Derechos de autor. "

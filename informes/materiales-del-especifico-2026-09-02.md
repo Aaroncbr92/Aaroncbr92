@@ -10,7 +10,7 @@ no.
 ## Antes que nada, el reparto
 
 Las **129** preguntas específicas están ahora **todas clasificadas**, a mano y con
-motivo, en `banco/especifico-produccion.tsv`. Seis de ellas **no eran del bloque
+motivo, en `banco/especifico-produccion-asistencia.tsv`. Seis de ellas **no eran del bloque
 específico** y se han devuelto al del temario general:
 
 | Cuadernillo · nº | Iba a | Por qué |

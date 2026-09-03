@@ -480,8 +480,8 @@ en Documentación y en Producción (Asistencia).
       al reescribir la segunda salió información nueva: **cuál de las cuatro agencias sí se pudo
       leer y qué respondió cada una de las otras tres**.
 - [x] **El bloque específico de Producción (Asistencia), entregado como volumen imprimible**:
-      `libro-produccion.pdf` —**221 páginas**, con encabezado, pie, «Página X de Y» e índice
-      paginado y navegable— y `libro-produccion.docx`. **Diecisiete temas, diecisiete esquemas de
+      `libro-produccion-asistencia.pdf` —**221 páginas**, con encabezado, pie, «Página X de Y» e índice
+      paginado y navegable— y `libro-produccion-asistencia.docx`. **Diecisiete temas, diecisiete esquemas de
       repaso y las 123 preguntas reales**, con las respuestas al final del volumen.
 - [x] **`libro.py`, `word.py` y `pdf.py` sirven ya para los dos bloques sin duplicar código.** Todo
       lo que cambia entre el general y el específico —qué temas, de qué carpeta, cómo se titula el
@@ -499,7 +499,7 @@ en Documentación y en Producción (Asistencia).
       1998; el de las 24 imágenes por segundo, cuyo distractor descartado **no es falso**; y el del
       Titan Tube, cuya «marca comercial alemana» sí está comprobada. Van impresos con su respuesta.
 - [x] **Las 129 preguntas del bloque específico de Producción, repartidas a mano y con motivo**
-      (`banco/especifico-produccion.tsv`): **123 quedan en el específico**, repartidas entre los
+      (`banco/especifico-produccion-asistencia.tsv`): **123 quedan en el específico**, repartidas entre los
       diecisiete temas, y **seis vuelven al bloque común** —dos de la Ley 31/1995, dos del III
       Convenio, una del PRL del específico y una de la derogada Ley 7/2010, que queda fuera—.
       **Todas tienen respuesta oficial.** El reparto deja ver dónde está el examen: **el tema 9,

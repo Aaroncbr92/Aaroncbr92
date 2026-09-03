@@ -22,7 +22,9 @@ imprimir con las respuestas. Todo eso está en
 `BLOQUES`, y **no se duplica el código**: un volumen escrito dos veces se
 desincroniza a la primera corrección.
 
-Uso:  libro.py [general|produccion|documentacion|informacion] [salida.html]
+Uso:  libro.py <bloque> [salida.html]
+      El bloque es una clave de BLOQUES: general, produccion-asistencia,
+      gestion-administrativa, gestion, realizacion, documentacion, informacion.
       python3 herramientas/libro.py general     && python3 herramientas/pdf.py libro-general.html
       python3 herramientas/libro.py informacion && python3 herramientas/pdf.py libro-informacion.html
 """
@@ -70,7 +72,7 @@ ERRATAS_GENERAL = {
         "3 Delegados de 101 a 500 trabajadores; el 4 es el tramo de 501 a 1.000.",
 }
 
-AVISOS_PRODUCCION = {
+AVISOS_PRODUCCION_ASISTENCIA = {
     "77_preguntas_produccion_asist · nº 78":
         "<b>El enunciado tiene los términos invertidos.</b> Pide la tecnología de «superponer una "
         "imagen real sobre el entorno virtual», y la realidad aumentada superpone <b>lo virtual "
@@ -314,17 +316,17 @@ BLOQUES = {
                       "una en el apéndice, con el precepto que las desmiente. El temario enseña "
                       "la norma, no la plantilla.</p>",
     ),
-    "produccion": dict(
-        carpeta="produccion",
+    "produccion-asistencia": dict(
+        carpeta="produccion-asistencia",
         rotulo="Temario específico · Producción (Asistencia)",
         ocupacion="Producción (Asistencia)",
         titulo="Temario específico",
         subtitulo="Los dieciocho temas de <b>Producción (Asistencia)</b>",
         pie="Oposiciones RTVE – Producción (Asistencia)",
-        avisos=dict(AVISOS_PRODUCCION, **AVISOS_PRL),
+        avisos=dict(AVISOS_PRODUCCION_ASISTENCIA, **AVISOS_PRL),
         clase_aviso="errata",
         rotulo_aviso="Ojo con la",
-        temas=[("%02d-%s" % (n, base), "produccion-%02d" % n) for n, base in [
+        temas=[("%02d-%s" % (n, base), "produccion-asistencia-%02d" % n) for n, base in [
             (1, "la-produccion"), (2, "propiedad-intelectual"), (3, "el-guion"),
             (4, "el-desglose"), (5, "localizacion"), (6, "plan-y-orden-de-trabajo"),
             (7, "equipos-humanos"), (8, "formatos-y-soportes"),
