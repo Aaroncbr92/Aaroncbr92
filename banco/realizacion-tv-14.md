@@ -1,6 +1,6 @@
 # Realización · Tema 14 · La cámara: accesorios y posibilidades
 
-16 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+15 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -54,20 +54,6 @@ c) Es la capacidad de mantener fija la orientación de la cámara a través de l
 electrónicos de un soporte.
 d) Es la capacidad de mantener fija la orientación de la cámara a través de los medios
 mecánicos de un soporte.
-```
-
----
-
-**66_preguntas_realizacion_a · nº 72 · respuesta: d**
-
-```
-72.- ¿Qué es un macro?
-a) Es un mezclador ligero usado, fundamentalmente, en eventos con 3 cámaras como
-máximo.
-b) Es el botón del mezclador cuya única función es ampliar una imagen.
-c) Es el aparato asociado a un mezclador donde se almacenan todos los efectos de éste.
-d) Son las instrucciones que le solicitamos a un mezclador para hacer una serie de pasos
-con solo apretar un botón.
 ```
 
 ---

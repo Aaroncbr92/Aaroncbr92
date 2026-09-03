@@ -8,7 +8,12 @@ from tema import cuerpo as sin_envoltorio
 import unicodedata
 from collections import Counter
 
-RELLENO = [r"como hemos visto", r"como ya se ha dicho", r"en s[íi]ntesis",
+# «en síntesis» es relleno cuando conecta y **término técnico cuando
+# nombra una mezcla de colores**: la síntesis aditiva y la sustractiva son
+# la materia de los temas de color, y sin la salvedad el aviso salta en
+# todos ellos y **entierra el relleno que sí lo es**.
+RELLENO = [r"como hemos visto", r"como ya se ha dicho",
+           r"en s[íi]ntesis(?!\s+(aditiva|sustractiva|substractiva|crom[áa]tica))",
            r"cabe destacar", r"es importante se[ñn]alar", r"conviene recordar",
            r"en definitiva", r"por [úu]ltimo,? cabe", r"no hay que olvidar",
            r"resulta evidente", r"a modo de resumen", r"dicho esto"]

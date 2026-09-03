@@ -1,6 +1,6 @@
 # Realización · Tema 15 · El mezclador
 
-6 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+7 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -43,6 +43,20 @@ incrustación.
 b) No, no se puede incrustar nada si el mezclador no tiene opción de key.
 c) Sí, siempre y cuando la señal llegue sincronizada al mezclador.
 d) Sí, el chroma no se realiza por key.
+```
+
+---
+
+**66_preguntas_realizacion_a · nº 72 · respuesta: d**
+
+```
+72.- ¿Qué es un macro?
+a) Es un mezclador ligero usado, fundamentalmente, en eventos con 3 cámaras como
+máximo.
+b) Es el botón del mezclador cuya única función es ampliar una imagen.
+c) Es el aparato asociado a un mezclador donde se almacenan todos los efectos de éste.
+d) Son las instrucciones que le solicitamos a un mezclador para hacer una serie de pasos
+con solo apretar un botón.
 ```
 
 ---

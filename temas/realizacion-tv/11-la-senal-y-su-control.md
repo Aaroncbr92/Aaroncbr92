@@ -160,16 +160,27 @@ aprovechable.** **Los dos hacen falta.**
 
 **Un *nit* equivale a una candela por metro cuadrado.** Ésa es la respuesta oficial a la pregunta 55.
 
-| Unidad | Qué mide |
-|---|---|
-| ***NIT*** | **Luminancia: una candela POR METRO CUADRADO** |
-| **Candela** | **Intensidad luminosa** de una fuente: **no incluye superficie** |
-| **Lumen** | **Flujo luminoso** total |
-| **Lux** | **Iluminancia**: la luz que LLEGA a una superficie |
+**Y esto no es convención de sector: está en el Boletín Oficial del Estado.** **El Real Decreto
+2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida, recoge la
+luminancia en su cuadro de unidades derivadas coherentes del Sistema Internacional**, con el símbolo
+de la magnitud, el nombre de la unidad y su expresión. **Ésta es su fila, con las celdas separadas por
+puntos porque un cuadro no se puede entrecomillar de otra manera; cada celda va literal:**
+
+> «luminancia» · «Lv» · «candela por metro cuadrado» · «cd/m2»
+
+**El *nit* es, por tanto, el nombre de uso industrial de una unidad legal española**, y **la pregunta
+55 se contesta con el cuadro del real decreto delante.**
+
+| Unidad | Qué mide | Cómo la recoge el Real Decreto 2032/2009 |
+|---|---|---|
+| ***NIT*** | **Luminancia** | **«candela por metro cuadrado» · «cd/m2»** |
+| **Candela** | **Intensidad luminosa** de una fuente: **no incluye superficie** | **Unidad básica del Sistema Internacional**, «símbolo cd» |
+| **Lumen** | **Flujo luminoso** total | **«flujo luminoso» · «lumen» · «lm»** |
+| **Lux** | **Iluminancia**: la luz que LLEGA a una superficie | **«iluminancia» · «lux» · «lx» · «lm/m2»** |
 
 **Las tres opciones falsas ofrecen la misma unidad con otro denominador** —milímetro, centímetro y
 decímetro cuadrado—, y **la pregunta se contesta sabiendo cuál es la unidad de superficie del sistema
-internacional: el METRO cuadrado.**
+internacional: el METRO cuadrado.** **El real decreto lo zanja: es el metro cuadrado.**
 
 **Y el orden de magnitud, que da sentido a la cifra**:
 
@@ -331,11 +342,13 @@ otro.**
 
 ## 10. Trazabilidad
 
-**Este tema no cita ninguna norma del BOE.** Su materia es la estructura de la señal de televisión, su
-monitorización y la percepción visual, y **va como oficio y con norma técnica de referencia.**
+**Este tema cita una norma del BOE.** Su materia es la estructura de la señal de televisión, su
+monitorización y la percepción visual, y **va como oficio y con norma técnica de referencia**, salvo
+las unidades fotométricas, que **sí están en un real decreto.**
 
 | Nivel | Fuente | Qué se ha tomado |
 |---|---|---|
+| **Primero: norma del BOE en vigor a la fecha de corte** | **Real Decreto 2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida** (BOE núm. 18, de 21/01/2010), **en su redacción vigente el 21 de diciembre de 2022** | **Los cuadros de unidades**: la luminancia en candelas por metro cuadrado, el flujo luminoso en lúmenes y la iluminancia en lux, **citados literalmente** |
 | **Segundo: organismo de normalización** | **Recomendaciones UIT-R BT.601, BT.709 y BT.2020** | **Su existencia y su objeto**: fijan los pesos de la luminancia para definición estándar, alta y ultra alta. **No se citan cifras de ellas en este tema** |
 | **Segundo: organismo de normalización** | **Recomendación UIT-R BT.2100** | **Las cifras de referencia del monitor de alto rango dinámico** |
 | **Quinto: la plantilla oficial** | **Una afirmación**: que la sensación de relieve aumenta con la distancia | Pregunta 37 |
