@@ -14,6 +14,11 @@ RELLENO = [r"como hemos visto", r"como ya se ha dicho", r"en s[íi]ntesis",
            r"resulta evidente", r"a modo de resumen", r"dicho esto"]
 
 
+def quita_tildes(s):
+    s = unicodedata.normalize("NFD", s)
+    return "".join(c for c in s if unicodedata.category(c) != "Mn").upper()
+
+
 def limpia(s):
     s = unicodedata.normalize("NFD", s)
     s = "".join(c for c in s if unicodedata.category(c) != "Mn")
@@ -144,7 +149,22 @@ def main():
         partes = re.findall(r"[A-Z]{2,6}", m.group(0))
         trozos.update(partes)
     enteras = set(re.findall(r"(?<![A-Z.-])\b([A-Z]{2,6})\b(?![.-][A-Z])", tema))
+    # una palabra que en el mismo tema aparece también en minúscula o
+    # capitalizada **no es una sigla**: es la misma palabra puesta en
+    # mayúsculas por énfasis. El examen y los temas de este proyecto lo hacen
+    # a docenas —«la CUARTA pared», «lo que VIENEN después»— y sin esta
+    # salvedad la lista de siglas se llena de castellano y **entierra los
+    # avisos que sí lo son**, que es el único motivo por el que se mira.
+    # Una sigla de verdad —SMPTE, RAID, OETF— no sale nunca en minúscula.
+    minusculas = set()
+    for m in re.finditer(r"\b([A-Za-zÁÉÍÓÚÜÑáéíóúüñ]{2,6})\b", tema):
+        pal = m.group(1)
+        if pal.isupper():
+            continue
+        minusculas.add(quita_tildes(pal).upper())
     for sigla in sorted(set(re.findall(r"\b([A-Z]{2,6})\b", tema))):
+        if quita_tildes(sigla) in minusculas:
+            continue
         if sigla in trozos and sigla not in enteras:
             continue
         if ROMANOS.match(sigla) or sigla in CONOCIDAS or sigla in llamadas:
