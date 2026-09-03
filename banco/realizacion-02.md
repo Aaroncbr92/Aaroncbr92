@@ -115,7 +115,6 @@ a) Una relación de secuencias ordenadas narrativamente.
 b) Una descripción precisa de los planos rodados con su localización.
 c) Una narración audiovisual en forma de texto.
 d) Una plantilla que aporta información sobre cambios de escenarios y tiempos de rodaje.
-El  área  destinada  a  incrustar  o  emitir  imágenes  que  constituyen  la  identidad  corporativa  de  la  cadena  se
 ```
 
 ---
@@ -140,7 +139,6 @@ a) Relación de las secuencias ordenadas relativamente.
 b) Es una síntesis que nos permite apreciar las posibilidades reales del proyecto.
 c) El minutado es la guía o referencia a seguir por el realizador y todo su equipo.
 d) La descripción precisa de los planos rodados.
-Si el grafista nos da un Logotipo con su señal de key y nos dice que está precortado o premultipicado. Se
 ```
 
 ---
@@ -149,8 +147,7 @@ Si el grafista nos da un Logotipo con su señal de key y nos dice que está prec
 
 ```
 90. ¿Qué es el “Plot” en un guion?
-a)
-La trama o conflicto de la historia principal.
+a) La trama o conflicto de la historia principal.
 b) La parte de la historial que se desarrolla en el mismo espacio.
 c) El punto de vista de un personaje en off.
 d) El intercambio de discurso entre personajes.

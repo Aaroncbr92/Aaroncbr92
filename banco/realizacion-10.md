@@ -189,13 +189,10 @@ d) Con el nivel de saturación.
 
 ```
 30. Si el grafista nos da un Logotipo con su señal de key y nos dice que está precortado o premultipicado. Se
-Si el grafista nos da un Logotipo con su señal de key y nos dice que está precortado o premultipicado. Se
 refiere a:
-a)
-La señal de key ha sido multiplicada por la señal de fill.
+a) La señal de key ha sido multiplicada por la señal de fill.
 b) La señal de fill ha sido multiplicada por la señal de key.
-c)
-Las señales de fill y key han sido cortadas a unas dimensiones determinadas.
+c) Las señales de fill y key han sido cortadas a unas dimensiones determinadas.
 d) La señal de Key ha sido precortada en luminancia.
 ```
 
@@ -205,7 +202,6 @@ d) La señal de Key ha sido precortada en luminancia.
 
 ```
 32. Que ocurre si seleccionas una señal en el bus de EDIT PREVIO de un Mezclador Sony de la serie XVS y en
-Que ocurre si seleccionas una señal en el bus de EDIT PREVIO de un Mezclador Sony de la serie XVS y en
 el monitor del control asignado para ello no puedes ver la señal seleccionada.
 a) El EDIT PREVIO no está asignado a un output del mezclador.
 b) No se pueden seleccionar señales en un EDIT PREVIO.
@@ -219,15 +215,25 @@ d) Sony no tiene EDIT PREVIO.
 
 ```
 35. Tenemos una señal de fill con canal alfa acoplado y hacemos un Key de luminancia lineal en Autoselect, sin
-Tenemos una señal de fill con canal alfa acoplado y hacemos un Key de luminancia lineal en Autoselect, sin
 invertir. ¿Como será el resultado dependiendo de la luminancia de los pixeles de la señal de fill?
-a)
-Los pixeles blancos serán opacos, los negros transparentes, y el resto en correspondencia con su luminancia.
-b) Los  pixeles  negros  serán  opacos,  los  blancos  transparentes,  y  el  resto  en  correspondencia  con  el  inverso  a  su
+a) Los pixeles blancos serán opacos, los negros transparentes, y el resto en correspondencia con su luminancia.
+b) Los pixeles negros serán opacos, los blancos transparentes, y el resto en correspondencia con el inverso a su
 luminancia.
 c) Es indiferente la luminancia de los pixeles.
 d) Los pixeles blancos serán opacos, los negros transparentes, y el resto en correspondencia con el inverso de su
 luminancia.
+9, 4, 8, 2, 6, 5, 7.
+4, 8, 2, 6
+ 3 ,4, 9, 5, 6, 7, 8, 2.
+3 ,4, 9, 5, 6,
+2, 1, 4, 9, 3, 6, 7, 5, 8
+, 1, 4, 9, 3
+1, 4, 9, 8, 2, 5, 
+1, 4, 9, 8, 2, 5
+os una 
+una
+Co
+C
 ```
 
 ---
@@ -235,14 +241,12 @@ luminancia.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 38 · respuesta: c**
 
 ```
-38. En  los  auxiliares  que  mandamos  a  pantallas  durante  una  gala,  ¿podríamos  hacer  mezclas  y  cortinillas
-En  los  auxiliares  que  mandamos  a  pantallas  durante  una  gala,  ¿podríamos  hacer  mezclas  y  cortinillas
-(wipes)  entre  señales  utilizando  exclusivamente  el  auxiliar?
+38. En los auxiliares que mandamos a pantallas durante una gala, ¿podríamos hacer mezclas y cortinillas
+(wipes) entre señales utilizando exclusivamente el auxiliar?
 a) En los auxiliares solo se puede conmutar por corte. Es un preselector donde se conmutan señales.
 b) Se podría mezclar pero no hacer cortinillas. Dependerá del mezclador que haya porque no todos pueden hacerlo.
 c) Se podría mezclar y hacer cortinillas. Dependerá del mezclador que haya porque no todos pueden hacerlo.
 d) ¿Quién querría hacer eso en una pantalla?
-El titulador entrega una señal de key que no incluye una parte donde hay señal en el fill. ¿Qué tipo de Key
 ```
 
 ---
@@ -251,12 +255,10 @@ El titulador entrega una señal de key que no incluye una parte donde hay señal
 
 ```
 39. El titulador entrega una señal de key que no incluye una parte donde hay señal en el fill. ¿Qué tipo de Key
-El titulador entrega una señal de key que no incluye una parte donde hay señal en el fill. ¿Qué tipo de Key
 hacemos para que no se incruste la parte del fill que no lleva señal de key? No puedes utilizar mascaras.
 a) Chroma key.
 b) Key mixto.
-c)
-key de luminancia aditivo.
+c) key de luminancia aditivo.
 d) Key de luminancia no aditivo.
 ```
 
@@ -268,11 +270,10 @@ d) Key de luminancia no aditivo.
 49. ¿Qué es el panel del control del mezclador?
 a) Es un conjunto de efectos que hacen posible la conmutación y mezcla de señales de video, presentándolas a la
 salida para su emisión o grabación.
-b) Es  un  conjunto  de  botones  y  controles  que  hacen  posible  la  conmutación  y  mezcla  de  señales  de  video,
-presentándolas  a  la  salida  para  su  emisión  o  grabación.
+b) Es un conjunto de botones y controles que hacen posible la conmutación y mezcla de señales de video,
+presentándolas a la salida para su emisión o grabación.
 c) Es un conjunto de cámaras que hacen posible la conmutación y mezcla de señales de video, presentándolas a la
 salida para su emisión o grabación.
-Es un conjunto de botones y controles que hacen posible la postproducción de señales de video, presentándolas
 d) Es un conjunto de botones y controles que hacen posible la postproducción de señales de video, presentándolas
 a la salida para su emisión o grabación.
 ```
@@ -282,13 +283,12 @@ a la salida para su emisión o grabación.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 51 · respuesta: a**
 
 ```
-51. Si  necesistas  recuperar  el  estado  del  mezclador  en  un  momento  determinado  y  de  forma  inmediata  ¿Qué
+51. Si necesistas recuperar el estado del mezclador en un momento determinado y de forma inmediata ¿Qué
 usarías?
 a) Snapshots.
 b) Shotbox.
 c) Clip Store.
 d) Genlock.
-Para  prevenir  las  fatigas  físicas,  visuales  y  mentales  debidas  al  trabajo  prolongado  con  pantallas  de
 ```
 
 ---
@@ -309,11 +309,9 @@ d) Cuatro bancos de mezcla efectos con el ME1 activado.
 
 ```
 65. Según esta imagen, ¿dónde se asigna la fuente de un key?
-a)
-1
+a) 1
 b) 2
-c)
-3
+c) 3
 d) 4
 ```
 
@@ -327,6 +325,29 @@ a) Utilizar la rotación en los ejes X e Y.
 b) Cambiar los valores de Aspecto.
 c) Modificar la traslación en el eje Z.
 d) Variar el tamaño.
+e mejor una imagen de
+r una imagen d
+ntramos si nos referim
+tramos si nos referim
+na o dos paredes de co
+dos paredes de co
+sofá, una mesa de cent
+de se mezclan element
+se mezclan elemen
+con todas las paredes d
+as paredes d
+area esencial realiza la
+ea esencial realiza la
+oordina y supervisa la e
+oordina y sup
+Decora el plató con ob
+Decora el 
+Se encarga del dis
+e encarga del d
+la narrativa
+arrativa
+oca e
+ca
 ```
 
 ---
@@ -335,14 +356,11 @@ d) Variar el tamaño.
 
 ```
 74. ¿Qué se necesita para controlar un sistema EVS desde un mezclador de video durante una producción en
-¿Qué se necesita para controlar un sistema EVS desde un mezclador de video durante una producción en
 vivo?
-a)
-IPDirector.
+a) IPDirector.
 b) DSK.
 c) GPI.
 d) MOTU M4.
-¿Qué  utilizamos  en  un  mezclador  de  video  para  aplicar  transiciones  y  combinaciones  complejas  entre
 ```
 
 ---
@@ -350,14 +368,11 @@ d) MOTU M4.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 75 · respuesta: d**
 
 ```
-75. ¿Qué  utilizamos  en  un  mezclador  de  video  para  aplicar  transiciones  y  combinaciones  complejas  entre
-¿Qué  utilizamos  en  un  mezclador  de  video  para  aplicar  transiciones  y  combinaciones  complejas  entre
-diferentes  fuentes  de  video?
+75. ¿Qué utilizamos en un mezclador de video para aplicar transiciones y combinaciones complejas entre
+diferentes fuentes de video?
 a) Key Bus.
 b) PVW.
-DSK.DSK.
 c) DSK.
-M/E.M/E.
 d) M/E.
 ```
 
@@ -371,6 +386,32 @@ a) Nam.
 b) DSK.
 c) Wipe.
 d) Super mix.
+adra
+cuadrados, con 
+ados, con 
+echo superior a 5 metr
+superior a 5 met
+nos de la imagen apar
+e la imagen apar
+dos franjas negras ho
+anjas negras h
+e aspecto de la imagen
+to de la imag
+n de color se basa en 
+olor se basa
+l.
+Plot” en un guion?
+n un guion?
+o conflicto de la historia
+o conflicto de la histori
+arte de la historial que se
+de la historial que s
+ punto de vista de un pe
+punto de vis
+El intercambio de disc
+l intercam
+de el módulo 
+módulo
 ```
 
 ---
@@ -393,9 +434,20 @@ d) Veremos una cortinilla que cambia la imagen del background y retira las keys 
 109. El término “source” en un mezclador de vídeo se refiere a:
 a) Fuentes de video con sus atributos asociados.
 b) Memorias de salida que identifican cada fuente.
-c)
-La señal de vídeo procesada.
+c) La señal de vídeo procesada.
 d) El mapeado de fuentes a botones.
+un encadenado de back
+mos cómo, mediante una
+s cómo, mediante una
+remos una cortinilla que
+remos una c
+Veremos una cortinilla
+Veremos u
+érmino “source
+érmino “sourc
+tes de vid
+de vi
+s
 ```
 
 ---
@@ -403,8 +455,8 @@ d) El mapeado de fuentes a botones.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 110 · respuesta: a**
 
 ```
-110. Si  ejecutamos  una  transición  entre  dos  imágenes  en  la  que  un  borde  con  forma  se  mueve  a  través  de  la
-pantalla,  revelando  la  nueva  imagen  mientras  la  primera  desaparece,  estamos  hablando  de:
+110. Si ejecutamos una transición entre dos imágenes en la que un borde con forma se mueve a través de la
+pantalla, revelando la nueva imagen mientras la primera desaparece, estamos hablando de:
 a) Wipe.
 b) Mix.
 c) Auto trans.
@@ -430,11 +482,9 @@ d) Un snapshot.
 
 ```
 112. ¿Cuántas señales están implicadas para incrustar correctamente un self key?
-a)
-1
+a) 1
 b) 2
-c)
-3
+c) 3
 d) Ninguna.
 ```
 
@@ -472,5 +522,14 @@ a) A una cabecera.
 b) A una ráfaga.
 c) A una realidad aumentada.
 d) No se sabe, los datos son insuficientes.
+y?
+en un mezclador de v
+ezclador de v
+el key.
+a.
+señal de key.
+ de key
+sta secuencia en el So
+a secuencia en el S
 ```
 

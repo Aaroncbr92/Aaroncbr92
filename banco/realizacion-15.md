@@ -56,8 +56,7 @@ pantallas  por un auxiliar y retrasamos el sonido de los exteriores 4 frames.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 13 · respuesta: b**
 
 ```
-13. El  área  destinada  a  incrustar  o  emitir  imágenes  que  constituyen  la  identidad  corporativa  de  la  cadena  se
-El  área  destinada  a  incrustar  o  emitir  imágenes  que  constituyen  la  identidad  corporativa  de  la  cadena  se
+13. El área destinada a incrustar o emitir imágenes que constituyen la identidad corporativa de la cadena se
 denomina:
 a) Área de emisión.
 b) Área de continuidad.
@@ -71,13 +70,10 @@ d) Área de postproducción.
 
 ```
 31. ¿Qué contenido está obligado a guardar el Archivo de RTVE durante un tiempo determinado?
-a)
-La emisión tal cual se ha emitido.
+a) La emisión tal cual se ha emitido.
 b) La emisión tal cual se ha emitido y una copia de emisión sin rótulos.
-c)
-La emisión tal cual se ha emitido, una copia de emisión sin rótulos y los brutos del rodaje.
+c) La emisión tal cual se ha emitido, una copia de emisión sin rótulos y los brutos del rodaje.
 d) Una copia de la Emisión sin rótulos.
-Que ocurre si seleccionas una señal en el bus de EDIT PREVIO de un Mezclador Sony de la serie XVS y en
 ```
 
 ---

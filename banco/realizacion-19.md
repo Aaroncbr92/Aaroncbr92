@@ -37,10 +37,9 @@ d) Produce interferencias en las zonas de líneas rectas.
 a) Es una unidad de tiempo en el que varía el arco del personaje.
 b) Es una tela lisa que se cuelga; se estira normalmente colgando pesas y se le aplica un listón de madera o tubo en
 el marco interior, para eliminar las arrugas.
-c) Es una figura geométrica de nueve puntas cada una de ellas corresponde a  un eneatipo  que corresponde  a un
+c) Es una figura geométrica de nueve puntas cada una de ellas corresponde a un eneatipo que corresponde a un
 rasgo de personalidad de personaje.
 d) Es el dato pormenorizado de la audiencia de un programa minuto a minuto.
-¿Qué  tipo  de  streaming  es  el  más  adecuado  para  la  distribución  de  transmisiones  de  audio  y  vídeo  en
 ```
 
 ---
@@ -60,13 +59,12 @@ d) En un set con todas las paredes del espacio construidas para brindar una sens
 **62_preguntas_realizacion_asist_2_llamamiento · nº 78 · respuesta: a**
 
 ```
-78. ¿Qué elemento se utiliza en escenografía para elevar  la línea del horizonte u ocultar a  la vista del público
-equipos  de servicio colocados en  el suelo?
+78. ¿Qué elemento se utiliza en escenografía para elevar la línea del horizonte u ocultar a la vista del público
+equipos de servicio colocados en el suelo?
 a) Fermas.
 b) Forillos.
 c) Riostras.
 d) Troneras.
-¿Cuántos  ejes  de  mirada  hay  en  una  conversación  entre  cinco  personas  situadas  alrededor  de  una  mesa
 ```
 
 ---
@@ -79,5 +77,8 @@ a) De un color neutro para poder iluminarlo.
 b) Blanco o negro.
 c) Blanco, negro o verde.
 d) Puede ser de cualquier color.
+el efecto Bokeh?
+o Bokeh?
+s?
 ```
 

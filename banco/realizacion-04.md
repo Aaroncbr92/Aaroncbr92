@@ -37,12 +37,9 @@ profundidad.
 
 ```
 71. Si una planta de un decorado tiene una escala de 1:100, ¿qué significa?
-a)
-1 unidad en el plano representa 10 unidades en la realidad.
+a) 1 unidad en el plano representa 10 unidades en la realidad.
 b) 10 centímetros en el dibujo representa 1 metro en la realidad.
-c)
-1 unidad en el plano representa 100 unidades en la realidad.
+c) 1 unidad en el plano representa 100 unidades en la realidad.
 d) 1 centímetro en el dibujo representa 100 metros en la realidad.
-Aquellos objetivos cuya distancia focal es menor que la diagonal del formato, constituyen el grupo de los
 ```
 

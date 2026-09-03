@@ -38,17 +38,47 @@ d) Documento que contiene el orden de utilización de medios técnicos de la pro
 **62_preguntas_realizacion_asist_2_llamamiento · nº 7 · respuesta: c**
 
 ```
-7. ¿Cómo  se  denomina  al  estudio  y  análisis  del  guion  técnico,  que  da  lugar  al  plan  de  trabajo  en  una
-¿Cómo  se  denomina  al  estudio  y  análisis  del  guion  técnico,  que  da  lugar  al  plan  de  trabajo  en  una
+7. ¿Cómo se denomina al estudio y análisis del guion técnico, que da lugar al plan de trabajo en una
 grabación?
-grabación?
-grabación?
-Escaleta.
 a) Escaleta.
-Escaleta.
 b) Minutado.
 c) Desglose.
 d) Guion literario.
+naje.
+idos incorporarías en 
+incorporarías en
+ar un material gráfico.
+aterial gráfico.
+te en el objetivo.
+el objetivo
+vío de correos electróni
+correos electrón
+ansferir ficheros a travé
+ir ficheros a trav
+para la creación de pág
+creación de p
+montar una secuencia e
+ar una secuenc
+” de un evento?
+de un evento?
+ento, principalmente de
+cipalmente de
+un evento, principalme
+vento, principalm
+al y que lo distribuye a
+distribuye a
+al de un evento que po
+l de un evento que po
+elevisión.
+sión
+a señal en exclusiva de
+a señal e
+Cómo se denomin
+ómo se deno
+bación?
+n?
+eta.
+a.
 ```
 
 ---
@@ -59,9 +89,7 @@ d) Guion literario.
 55. ¿Qué orden de criterio seguiremos para elaborar un plan de trabajo?
 a) Orden cronológico-Interpretes-Localizaciones.
 b) Equipos de cámara-jornadas de edición-sonorización.
-c)
-Interpretes-Localizaciones-Decorados.
+c) Interpretes-Localizaciones-Decorados.
 d) Decorados-Localizaciones-Interpretes.
-¿Qué técnica de montaje de vídeo sería: “La sucesión de acciones con coincidencia temporal y no espacial,
 ```
 

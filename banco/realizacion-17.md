@@ -39,15 +39,9 @@ d) MadMapper.
 ```
 63. ¿Quién organiza las entradas y salidas del personal colaborador en un plató?
 a) Producción.
-Realización.
 b) Realización.
-Realización.
-Regiduría.
 c) Regiduría.
-Regiduría.
-Dirección.
 d) Dirección.
-Dirección.
 ```
 
 ---
@@ -60,7 +54,7 @@ a) Coordina y supervisa la ejecución en tiempo real, sirviendo de enlace entre 
 b) Decora el plató con objetos que ayuden a contar la historia y refuercen el ambiente visual.
 c) Se encarga del diseño visual y la estética general del set, asegurando que todos los elementos visuales coincidan
 con la narrativa.
-d) Se  enfoca  en  la  continuidad  y  coherencia  de  las  escenas,  verificando  que  no  haya  errores  en  la  secuencia
+d) Se enfoca en la continuidad y coherencia de las escenas, verificando que no haya errores en la secuencia
 narrativa.
 ```
 

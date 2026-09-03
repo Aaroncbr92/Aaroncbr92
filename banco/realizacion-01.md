@@ -23,10 +23,10 @@ d) Sants-Montjuïc. Barcelona.
 ```
 21. ¿Cuál es el tratamiento de un programa dramático?
 a) El tratamiento es casi rutinario, concentrándose en planos sobre los diálogos, las respuestas, preguntas, etc.
-b) Utilizan  a  veces  escenas  sencillas  para  elaborar  presentaciones  cuyas  imágenes  y  sonidos  precisan  de  un
-considerable  tratamiento  ulterior  de  postproducción.
-c) Estos  programas  siguen  un  proceso  planificado  muy  cuidadosamente,  ya  que  el  trabajo  de  cámara,  sonido  e
-iluminación  tiene  que  ser  exacto.
+b) Utilizan a veces escenas sencillas para elaborar presentaciones cuyas imágenes y sonidos precisan de un
+considerable tratamiento ulterior de postproducción.
+c) Estos programas siguen un proceso planificado muy cuidadosamente, ya que el trabajo de cámara, sonido e
+iluminación tiene que ser exacto.
 d) La mayor parte de estos programas siguen el formato realista. La producción se realiza en el decorado.
 ```
 

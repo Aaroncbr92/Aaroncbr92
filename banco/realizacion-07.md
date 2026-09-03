@@ -79,11 +79,9 @@ d) La interferencia que se produce por la superposición de dos o más ondas de 
 ```
 1. ¿Cuál de estos objetivos es el más adecuado para montar en la cámara máster de un partido de fútbol en
 un estadio olímpico?
-a)
-4,5x.
+a) 4,5x.
 b) 23x.
-c)
-72x.
+c) 72x.
 d) 100x.
 ```
 
@@ -109,7 +107,6 @@ a) Se forma delante del plano focal.
 b) Se forma cuando la imagen no está enfocada.
 c) Se forma detrás del plano focal.
 d) Se forma por la diferencia de paralaje del visor.
-Si  alimentamos  un  vectorscopio  con  una  señal  en  blanco  y  negro,  ¿qué  haremos  para  comprobar  que  la
 ```
 
 ---
@@ -118,12 +115,46 @@ Si  alimentamos  un  vectorscopio  con  una  señal  en  blanco  y  negro,  ¿qu
 
 ```
 53. Si pasamos de un nºf 1.4 a un nºf 22, ¿cuánta luz entra?
-a)
-8 veces menos.
+a) 8 veces menos.
 b) 16 veces menos.
-c)
-256 veces menos.
+c) 256 veces menos.
 d) 512 veces menos.
+eo, presentá
+esentá
+mezcla de señales de
+zcla de señales d
+ñales de video, present
+de video, prese
+ción de señales de vide
+eñales de vid
+uxtapose”¿A qué nos e
+apose”¿A qué no
+tes y después.
+pués.
+e vídeo entre sí y despu
+entre sí y des
+de intervenir de tal form
+ervenir de tal form
+información multimedia
+mación multime
+l mezclador en un mo
+clador en un mo
+s fatigas físicas, visu
+e datos se debe:
+datos se debe:
+s que no estén en pan
+estén en pan
+s.s.
+nar el trabajo ante la pa
+el trabajo ante la pa
+Realizar alguna pausa d
+ealizar algu
+Trabajar a un ritmo a
+rabajar a 
+samos de u
+os de u
+s men
+men
 ```
 
 ---
@@ -132,8 +163,7 @@ d) 512 veces menos.
 
 ```
 58. Cuando en un objetivo vemos el término 20x significa que:
-a)
-La apertura máxima es 20 veces el valor mínimo de exposición.
+a) La apertura máxima es 20 veces el valor mínimo de exposición.
 b) El objetivo tiene una distancia focal de 20mm.
 c) Es 20 veces más tele desde su posición máxima angular.
 d) Tiene una cobertura de 20 grados desde la diagonal del formato.
@@ -145,7 +175,6 @@ d) Tiene una cobertura de 20 grados desde la diagonal del formato.
 
 ```
 72. Aquellos objetivos cuya distancia focal es menor que la diagonal del formato, constituyen el grupo de los
-Aquellos objetivos cuya distancia focal es menor que la diagonal del formato, constituyen el grupo de los
 llamados:
 a) Anamorfos.
 b) Normales.
@@ -159,8 +188,7 @@ d) Angulares.
 
 ```
 119. ¿En qué formato de sensor de cámara es más pronunciado el efecto Bokeh?
-a)
-2/3”.
+a) 2/3”.
 b) Super 35mm.
 c) Super 16mm.
 d) Full Frame.

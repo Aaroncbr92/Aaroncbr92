@@ -104,3 +104,20 @@ para citar una pregunta suya hay que mirar el PDF.
 | 85 | Preguntas SONIDO | `85_preguntas_sonido.pdf` | https://9d6e617461.clvaw-cdnwnd.com/6be000186398497f674649c237352f1a/200000896-e27d3e27d5/Cuadenillo_preguntas_Sonido.pdf |
 | 86 | Plantilla de respuestas SONIDO | `86_plantilla_de_respuestas_sonido.pdf` | https://9d6e617461.clvaw-cdnwnd.com/6be000186398497f674649c237352f1a/200000897-7aa667aa69/Plantilla_respuestas_SONIDO%20%281%29.pdf |
 | 87 | Práctico SONIDO | `87_practico_sonido.pdf` | https://9d6e617461.clvaw-cdnwnd.com/6be000186398497f674649c237352f1a/200000997-f379ef37a1/PRACTICO%20SONIDO.pdf |
+
+## Una transcripción rehecha el 2026-09-03
+
+`62_preguntas_realizacion_asist_2_llamamiento.txt` estaba **duplicando texto y
+descolocando opciones**: 91.452 caracteres para un PDF que da 52.539. El PDF trae
+capas de texto superpuestas y el extractor con que se transcribió en su día las
+leyó todas, de modo que el enunciado aparecía dos y tres veces seguidas y **el
+texto de alguna opción acababa lejos de su letra**. Contadas, las cuatro opciones
+seguían estando —por eso ninguna comprobación automática se quejaba—, pero en el
+banco impreso salían **opciones en blanco**: la c) de la pregunta 55 y la c) de
+la 71, entre otras.
+
+**Rehecha con `pymupdf`**, uniendo la letra de cada opción con su texto, que el
+PDF separa en dos líneas. Las 120 preguntas siguen ahí y ahora se leen enteras.
+
+**La regla que deja**: que las cuatro opciones estén **contadas** no quiere decir
+que estén **en su sitio**. Una transcripción se mira impresa, no sólo medida.

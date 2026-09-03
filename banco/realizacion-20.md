@@ -127,7 +127,7 @@ d) Es una Limited User Test para limitar la señal de salida del mezclador.
 a) Montar en técnica digital.
 b) Un sistema de edición paralelo a la escritura del guión.
 c) El cálculo que el sistema de edición no lineal tiene que hacer en los efectos para hacerlos visibles y utilizables.
-d) Es  la  cesión  de  imágenes  por  razones  informativas  sin  que  se  puedan  superar  los  3  minutos  de  duración  por
+d) Es la cesión de imágenes por razones informativas sin que se puedan superar los 3 minutos de duración por
 entrega.
 ```
 
@@ -166,6 +166,34 @@ a) Al ajuste en parámetros técnicos de una producción audiovisual.
 b) Es un término que hace referencia al calzado y al vestuario.
 c) Al ajuste en parámetros de colorimetría de una producción audiovisual.
 d) Al ajuste en parámetros sonoros de una producción audiovisual.
+vento que transcurre
+o que transcurr
+s narrativamente.
+tivamente.
+nos rodados con su loca
+dados con su lo
+orma de texto.
+text
+ormación sobre cambios
+ión sobre cam
+crustar o emitir imáge
+ustar o emitir imág
+nuidad.
+ad.
+ealización.
+ealiz
+de postproducción.
+postpro
+Qué es el Cross cutting
+ué es el 
+Es un montaje en el 
+s un mon
+e fundirán en uno
+e fundirán en u
+n montaje
+ontaje
+on
+on
 ```
 
 ---
@@ -187,12 +215,10 @@ d) Métrico, tonal o intelectual.
 ```
 23. ¿Cuál de las siguientes afirmaciones describe mejor la relación entre los keyframes y la curva de velocidad
 en una animación?
-a)
-Los  keyframes  solo  se  utilizan  en  animaciones  3D,  mientras  que  las  curvas  de  velocidad  son  exclusivas  de  la
-animación  2D.
+a) Los keyframes solo se utilizan en animaciones 3D, mientras que las curvas de velocidad son exclusivas de la
+animación 2D.
 b) Los keyframes determinan la velocidad, mientras que la curva de velocidad define la posición.
-c)
-La curva de velocidad modifica la rapidez con la que se mueve un objeto entre dos keyframes.
+c) La curva de velocidad modifica la rapidez con la que se mueve un objeto entre dos keyframes.
 d) Los keyframes y las curvas de velocidad son términos sinónimos.
 ```
 
@@ -214,15 +240,13 @@ d) Para transformar el espacio de color de una imagen.
 
 ```
 46. ¿Qué es un formato de codificación?
-a) Es  el  estándar  desarrollado  que  indica  las  reglas  y  operaciones  matemáticas  que  se  realizan  por  parte  de  un
-algoritmo  de  compresión.
+a) Es el estándar desarrollado que indica las reglas y operaciones matemáticas que se realizan por parte de un
+algoritmo de compresión.
 b) Es el fichero o stream que contiene los diferentes elementos que lo forman, como son el video codificado, el audio
 codificado, los metadatos, los subtítulos, etc.
 c) Es una imagen con la información de diferencia sobre la anterior que puede ser de tipo I o  P, llevando a cabo la
 compensación de movimiento.
 d) Es una estructura GOP (Group of Pictures) que especifica el orden en el que los diferentes tipos de imágenes son
-ubicadas.
-ubicadas.
 ubicadas.
 ```
 
@@ -232,7 +256,6 @@ ubicadas.
 
 ```
 56. ¿Qué técnica de montaje de vídeo sería: “La sucesión de acciones con coincidencia temporal y no espacial,
-¿Qué técnica de montaje de vídeo sería: “La sucesión de acciones con coincidencia temporal y no espacial,
 pero que terminan coincidiendo en espacio temporalmente”?
 a) Montaje paralelo.
 b) Montaje discontinuo.
@@ -246,11 +269,9 @@ d) Last minute rescue.
 
 ```
 57. Un archivo gráfico TGA con canal alpha tiene:
-a)
-24 bits.
+a) 24 bits.
 b) 32 bits.
-c)
-10 bits.
+c) 10 bits.
 d) 8 bits.
 ```
 
@@ -259,8 +280,8 @@ d) 8 bits.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 116 · respuesta: c**
 
 ```
-116. En  España,  ¿cuál  es  la  entidad  de  gestión  de  los  derechos  de  autor  reconocidos  en  la  Ley  de  Propiedad
-Intelectual  con  la  que  se  declara?
+116. En España, ¿cuál es la entidad de gestión de los derechos de autor reconocidos en la Ley de Propiedad
+Intelectual con la que se declara?
 a) CEDRO.
 b) SAGEM.
 c) SGAE.

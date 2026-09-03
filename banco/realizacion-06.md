@@ -153,7 +153,6 @@ a) Definir el eje de acción y situar los puntos de vista siempre a uno de sus l
 b) Colocar siempre las cámaras de un plano-contraplano enfrentadas 180º.
 c) Colocar las cámaras en un ángulo de 180º del eje de acción en el plano-contraplano.
 d) Definir la esencia que moviliza la fuerza de la imagen y la actitud del actor en su personaje.
-En la preparación de un documental para su venta en el extranjero, ¿qué sonidos incorporarías en la pista
 ```
 
 ---
@@ -166,7 +165,6 @@ a) Mirando a cámara.
 b) Con el cielo despejado.
 c) Mirando al entrevistador.
 d) A contraluz.
-¿Qué  precaución  debemos  tomar  en  una  realización  multicámara  de  un  evento  que  transcurre  en  un
 ```
 
 ---
@@ -174,9 +172,8 @@ d) A contraluz.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 10 · respuesta: c**
 
 ```
-10. ¿Qué  precaución  debemos  tomar  en  una  realización  multicámara  de  un  evento  que  transcurre  en  un
-¿Qué  precaución  debemos  tomar  en  una  realización  multicámara  de  un  evento  que  transcurre  en  un
-decorado  circular?
+10. ¿Qué precaución debemos tomar en una realización multicámara de un evento que transcurre en un
+decorado circular?
 a) Que no se vean las cámaras entre sí.
 b) Tener siempre una grúa como plano recurso para poder saltarse el eje.
 c) Situar las cámaras en uno de los dos semicírculos.
@@ -188,9 +185,8 @@ d) Colocar todas las cámaras a la misma altura.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 26 · respuesta: a**
 
 ```
-26. ¿Cuál  de  las  siguientes  opciones  describe  mejor  la  función  de  un  plano  secuencia  en  una  secuencia  de
-¿Cuál  de  las  siguientes  opciones  describe  mejor  la  función  de  un  plano  secuencia  en  una  secuencia  de
-diálogo  intenso  entre  dos  personajes?
+26. ¿Cuál de las siguientes opciones describe mejor la función de un plano secuencia en una secuencia de
+diálogo intenso entre dos personajes?
 a) Transmitir la tensión y la intimidad del momento de forma continua.
 b) Crear una sensación de objetividad y distanciamiento emocional.
 c) Destacar la importancia de los elementos del entorno sobre los personajes.
@@ -203,18 +199,68 @@ d) Separar claramente las intervenciones de cada personaje.
 
 ```
 27. ¿Cuál de las siguientes afirmaciones describe con mayor precisión un aspecto técnico y narrativo del uso
-¿Cuál de las siguientes afirmaciones describe con mayor precisión un aspecto técnico y narrativo del uso
 del plano y contraplano para establecer la relación entre los personajes y la dinámica de la conversación?
 a) El plano y contraplano se utilizan exclusivamente en diálogos entre dos personajes, sin embargo, su aplicación no
 tiene impacto en la construcción de la tensión dramática o en la percepción emocional del espectador.
-b) La  técnica del  plano  y  contraplano  permite  al  editor  manipular  la  continuidad  temporal de  una  conversación,  ya
-que  puede  intercalar  planos  de  reacción  de  otros  personajes  para  alterar  la  percepción  del  tiempo  transcurrido
-durante  el  diálogo.
+b) La técnica del plano y contraplano permite al editor manipular la continuidad temporal de una conversación, ya
+que puede intercalar planos de reacción de otros personajes para alterar la percepción del tiempo transcurrido
+durante el diálogo.
 c) El uso incorrecto del plano y contraplano puede resultar en confusión espacial para el espectador, especialmente
 si no se respeta la regla de los 180 grados, lo que puede llevar a una ruptura en la coherencia narrativa y a una
 disminución de la inmersión en la historia.
 d) La implementación del plano y contraplano es irrelevante en escenas de acción, ya que estas dependen más de
 cortes rápidos y efectos visuales que de la interacción entre personajes.
+a, ya q
+io en las transmisi
+o en las transmis
+ onda de las señales d
+de las señales d
+de señal.
+ñal.
+or lo que no es útil en l
+ue no es útil en l
+cipantes, ¿cuál de las
+cipantes, ¿cuál de la
+ón fluida y de alta cal
+fluida y de alta c
+conocida.
+ión.
+s simultáneamente.
+ltáneamente.
+s utilizados por los partic
+dos por los pa
+mejor la función de u
+r la función de
+momento de forma contin
+to de forma cont
+y distanciamiento emoc
+anciamiento emoc
+ementos del entorno so
+tos del entorno so
+venciones de cada perso
+nes de cada pers
+afirmaciones describe
+no para establecer la r
+para establecer la 
+ano se utilizan exclusiv
+izan exclusiv
+n la construcción de la t
+la construcción de 
+del plano y contraplano 
+o y contraplano
+e intercalar planos de 
+e el diálogo.
+el diálo
+uso incorrecto del plano
+uso incorrect
+si no se respeta la regla
+ no se re
+disminución de la inm
+isminució
+a implementació
+implementaci
+es rápidos 
+ápidos
 ```
 
 ---
@@ -222,15 +268,12 @@ cortes rápidos y efectos visuales que de la interacción entre personajes.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 34 · respuesta: b**
 
 ```
-34. En el  rodaje de una  entrevista grabamos  9 planos  con los tiros de cámara que vemos en la imagen, si no
-queremos saltarnos el  eje, cuál sería el orden de montaje correcto.
-a)
-1, 3, 9, 4, 8, 2, 6, 5, 7.
+34. En el rodaje de una entrevista grabamos 9 planos con los tiros de cámara que vemos en la imagen, si no
+queremos saltarnos el eje, cuál sería el orden de montaje correcto.
+a) 1, 3, 9, 4, 8, 2, 6, 5, 7.
 b) 1, 3 ,4, 9, 5, 6, 7, 8, 2.
-c)
-2, 1, 4, 9, 3, 6, 7, 5, 8.
+c) 2, 1, 4, 9, 3, 6, 7, 5, 8.
 d) 3, 1, 4, 9, 8, 2, 5, 6, 7.
-Tenemos una señal de fill con canal alfa acoplado y hacemos un Key de luminancia lineal en Autoselect, sin
 ```
 
 ---
@@ -250,14 +293,11 @@ d) Con un inserto que provoque la pérdida de referencia espacial.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 79 · respuesta: c**
 
 ```
-79. ¿Cuántos  ejes  de  mirada  hay  en  una  conversación  entre  cinco  personas  situadas  alrededor  de  una  mesa
-¿Cuántos  ejes  de  mirada  hay  en  una  conversación  entre  cinco  personas  situadas  alrededor  de  una  mesa
+79. ¿Cuántos ejes de mirada hay en una conversación entre cinco personas situadas alrededor de una mesa
 redonda?
-a)
-5.
+a) 5.
 b) 8.
-c)
-10.
+c) 10.
 d) 12.
 ```
 
@@ -271,6 +311,5 @@ a) Secuencia dramática.
 b) Plano.
 c) Escena.
 d) Paradigma.
-En una grabación de un programa a multicámara, si se realizan unas ventanas con tres cámaras, ¿a cuáles
 ```
 

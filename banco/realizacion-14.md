@@ -61,15 +61,12 @@ d) Un sistema de transmisión de televisión digital vía satélite que utiliza 
 
 ```
 6. ¿Qué es la señal “pool” de un evento?
-a)
-La señal de  un evento, principalmente deportivo, que se  realiza compartiendo los medios de varias cadenas de
+a) La señal de un evento, principalmente deportivo, que se realiza compartiendo los medios de varias cadenas de
 televisión.
-b) La  señal  de  un  evento,  principalmente  institucional,  que  realiza  una  única  cadena  de  televisión  o  productora
-audiovisual  y  que  lo  distribuye  al  resto  de  las  cadenas.
-c)
-La señal de un evento que por cuestiones de seguridad para los aprticipantes lo realiza y emite una única cadena
+b) La señal de un evento, principalmente institucional, que realiza una única cadena de televisión o productora
+audiovisual y que lo distribuye al resto de las cadenas.
+c) La señal de un evento que por cuestiones de seguridad para los aprticipantes lo realiza y emite una única cadena
 de televisión.
 d) La señal en exclusiva de un evento.
-¿Cómo  se  denomina  al  estudio  y  análisis  del  guion  técnico,  que  da  lugar  al  plan  de  trabajo  en  una
 ```
 

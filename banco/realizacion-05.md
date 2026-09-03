@@ -246,9 +246,8 @@ d) Es una imagen que no existe.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 20 · respuesta: c**
 
 ```
-20. Si  alimentamos  un  vectorscopio  con  una  señal  en  blanco  y  negro,  ¿qué  haremos  para  comprobar  que  la
-Si  alimentamos  un  vectorscopio  con  una  señal  en  blanco  y  negro,  ¿qué  haremos  para  comprobar  que  la
-señal  es  correcta?
+20. Si alimentamos un vectorscopio con una señal en blanco y negro, ¿qué haremos para comprobar que la
+señal es correcta?
 a) Comprobaremos que los blancos tienen un valor de 0,70V y los negros de 0V.
 b) Colocaremos el barrido a frecuencia de línea para poder monitorizar la señal.
 c) Un vectorscopio no representa señales de blanco y negro.
@@ -265,6 +264,39 @@ a) Modulación de amplitud (AM).
 b) Modulación de frecuencia (FM).
 c) Modulación digital de cuadratura (QAM).
 d) Modulación de fase (PM).
+ón y luz.
+uz.
+na:
+ñal en blanco y negro
+n blanco y ne
+un valor de 0,70V y los 
+lor de 0,70V y los 
+de línea para poder mo
+ea para poder mo
+eñales de blanco y negro
+de blanco y negr
+uencia de campo para p
+campo para
+e un programa dramát
+e un programa dramá
+ rutinario, concentrándo
+nario, concentrándo
+escenas sencillas para
+atamiento ulterior de p
+tamiento ulterior de
+ramas siguen un proce
+iguen un proc
+ón tiene que ser exact
+ayor parte de estos prog
+or parte de estos prog
+Cuál de los siguientes t
+uál de lo
+Modulación de ampli
+Modulació
+odulación de fre
+ción de fr
+ación d
+ción d
 ```
 
 ---
@@ -272,18 +304,16 @@ d) Modulación de fase (PM).
 **62_preguntas_realizacion_asist_2_llamamiento · nº 24 · respuesta: c**
 
 ```
-24. ¿Cuál  de  las  siguientes  afirmaciones  sobre  el  uso  del  osciloscopio  en  la  industria  de  la  televisión  es
+24. ¿Cuál de las siguientes afirmaciones sobre el uso del osciloscopio en la industria de la televisión es
 correcta?
-a)
-Los  osciloscopios  son  dispositivos  obsoletos  en  la  industria  de  la  televisión  moderna,  ya  que  han  sido
-reemplazados  completamente  por  software  de  análisis  de  señal  en  computadoras.
-b) El  osciloscopio  se  utiliza  principalmente  para  medir  la  intensidad  de  la  señal  de  audio  en  las  transmisiones  de
-televisión,  y  no  tiene  aplicación  en  la  visualización  de  señales  de  video.
-c) Un  osciloscopio  digital  permite a  los técnicos observar  y  analizar  las formas  de onda de  las señales  de video  y
-audio,  facilitando  la  identificación  de  problemas  de  sincronización y  calidad  de señal.
+a) Los osciloscopios son dispositivos obsoletos en la industria de la televisión moderna, ya que han sido
+reemplazados completamente por software de análisis de señal en computadoras.
+b) El osciloscopio se utiliza principalmente para medir la intensidad de la señal de audio en las transmisiones de
+televisión, y no tiene aplicación en la visualización de señales de video.
+c) Un osciloscopio digital permite a los técnicos observar y analizar las formas de onda de las señales de video y
+audio, facilitando la identificación de problemas de sincronización y calidad de señal.
 d) El osciloscopio solo puede ser utilizado para medir señales analógicas, por lo que no es útil en la evaluación de
 señales digitales en la televisión moderna.
-Durante  una  videoconferencia  internacional  con  múltiples  participantes,  ¿cuál  de  las  siguientes  opciones
 ```
 
 ---
@@ -293,14 +323,14 @@ Durante  una  videoconferencia  internacional  con  múltiples  participantes,  
 ```
 28. ¿Cuál de las siguientes afirmaciones describe mejor el impacto del rango dinámico en la calidad de imagen
 de una transmisión televisiva?
-a) El  rango dinámico se refiere únicamente  a la cantidad de colores  que puede mostrar un  televisor, sin afectar la
-luminosidad de  la imagen.
+a) El rango dinámico se refiere únicamente a la cantidad de colores que puede mostrar un televisor, sin afectar la
+luminosidad de la imagen.
 b) Un mayor rango dinámico permite que las imágenes tengan más detalles tanto en las áreas más oscuras como en
 las más brillantes, mejorando la experiencia visual.
 c) El rango dinámico es irrelevante en la televisión moderna, ya que todos los televisores actuales tienen la misma
 capacidad de reproducción de luz.
-d) El  rango dinámico solo es importante  en la  producción de películas, pero no  tiene impacto en la transmisión de
-programas  de televisión en vivo.
+d) El rango dinámico solo es importante en la producción de películas, pero no tiene impacto en la transmisión de
+programas de televisión en vivo.
 ```
 
 ---
@@ -311,9 +341,9 @@ programas  de televisión en vivo.
 36. ¿Qué significa que una señal tiene una frecuencia de muestreo 4:2:2?
 a) El 4 establece que la luminancia se muestrea en cada pixel producido, mientras que Cr y Cb se muestrean cada
 2.
-b) El  4  establece  que  la  luminancia  se  muestrea  cada  4  pixeles  producidos,  mientras  que  Cr  y  Cb  se  muestrean
-cada  2.
-c) El  4 establece que  la  luminancia  se muestrea  en cada  pixel  producido, mientras que  Y+R e Y+B  se  muestrean
+b) El 4 establece que la luminancia se muestrea cada 4 pixeles producidos, mientras que Cr y Cb se muestrean
+cada 2.
+c) El 4 establece que la luminancia se muestrea en cada pixel producido, mientras que Y+R e Y+B se muestrean
 cada 2.
 d) El 4 establece que la luminancia se muestrea cada 4 pixeles producidos, mientras que Y+R e Y+B se muestrean
 cada 2.
@@ -337,8 +367,8 @@ d) Cuantificación-muestreo-codificación.
 
 ```
 59. ¿De qué se encargan los rasterizadores?
-a) Permiten  el monitorizado y la  modificación de alinealidades indeseadas  en el  sistema de captación  y recepción,
-incluye un  elemento compensador de la señal en la cadena de  señales.
+a) Permiten el monitorizado y la modificación de alinealidades indeseadas en el sistema de captación y recepción,
+incluye un elemento compensador de la señal en la cadena de señales.
 b) Permite el monitorizado de la señal de crominancia presente en la señal de vídeo.
 c) Permiten monitorizar señales en HD mientras que se están llevando a cabo sus respectivas representaciones en
 los diferentes dispositivos de control de la señal de vídeo y audio en otro monitor externo.
@@ -355,6 +385,38 @@ a) Va desde 64 hasta 940.
 b) Abarca valores del 16 al 235.
 c) Se extiende desde el 0 hasta el 255.
 d) Comprende valores desde 256 al 3760.
+ncia temporal y no es
+a temporal y no e
+0x significa que:
+ifica que:
+mínimo de exposición.
+mo de exposición.
+e 20mm.
+mm.
+osición máxima angular
+n máxima angula
+ados desde la diagonal 
+e la diagona
+rasterizadores?
+ado y la modificación d
+y la modificación d
+to compensador de la s
+nsador de la 
+itorizado de la señal de 
+orizado de la señal d
+onitorizar señales en H
+ar señales en H
+ntes dispositivos de co
+ite rastrear una señal us
+rastrear una señal u
+De qué forma podemos
+e qué for
+Con un movimiento s
+Con un mo
+on un gran plan
+gran plan
+n contra
+contr
 ```
 
 ---
@@ -367,6 +429,27 @@ a) Está basado en la curva Rec.709 y una compresión de las altas luces.
 b) Es retrocompatible y tiene metadata.
 c) Es un sistema referenciado a la escena.
 d) Tiene un pico de brillo máximo de 10 000 cd/m².
+completos y uno virtual
+etos y uno vir
+tos y PP desactivado.
+PP desactiva
+ctos dividido en dos y p
+ezcla efectos con el ME
+efectos con el ME
+las entradas y salidas
+as entradas y salida
+ón.
+ón.
+duría.
+ía.
+rección.
+rección.
+Qué característica t
+ué carac
+tá basado en 
+sado en 
+ocomp
+comp
 ```
 
 ---
@@ -387,11 +470,9 @@ d) Es una imagen que no existe.
 
 ```
 85. ¿Cuál es la relación de aspecto del formato universal de alta definición y televisión digital 16:9?
-a)
-1.85:1.
+a) 1.85:1.
 b) 2.39:1.
-c)
-1.33:1.
+c) 1.33:1.
 d) 1.77:1
 ```
 
@@ -401,14 +482,11 @@ d) 1.77:1
 
 ```
 87. ¿Cómo se denomina la distorsión que se produce cuando en detalles finos de la imagen aparecen patrones
-¿Cómo se denomina la distorsión que se produce cuando en detalles finos de la imagen aparecen patrones
 de interferencia?
 a) Rolling Shutter.
 b) Burst.
 c) Aliasing.
-d)
-Jaggies.
-¿Cómo se llama el método que consiste en añadir dos franjas negras horizontales para ocupar la totalidad
+d) Jaggies.
 ```
 
 ---
@@ -417,13 +495,10 @@ Jaggies.
 
 ```
 88. ¿Cómo se llama el método que consiste en añadir dos franjas negras horizontales para ocupar la totalidad
-¿Cómo se llama el método que consiste en añadir dos franjas negras horizontales para ocupar la totalidad
 del espacio sin tener que modificarla relación de aspecto de la imagen?
-a)
-Lineboxing.
+a) Lineboxing.
 b) Franeboxing.
-c)
-Letterboxing.
+c) Letterboxing.
 d) Paineboxing.
 ```
 
@@ -445,13 +520,39 @@ d) Munsell.
 
 ```
 105. ¿Cuál es la forma en que se transmite la señal de Televisión Digital Terrestre (TDT)?
-a) Se  envía  mediante  ondas  hertzianas  desde  estaciones  terrestres  y  puede  ser  recibida  por  sistemas  de  cable  o
-satélite  en  los  edificios.
+a) Se envía mediante ondas hertzianas desde estaciones terrestres y puede ser recibida por sistemas de cable o
+satélite en los edificios.
 b) Se emite a través de ondas hertzianas por el aire, sin necesidad de cable o satélite, y se recibe mediante antenas
 UHF convencionales.
 c) Se transmite usando ondas de radio terrestres que viajan a través de la atmósfera vía satélite y son captadas por
 antenas UHF estándar.
 d) Se puede recibir a través de una conexión a Internet o un decodificador digital especializado.
+e el t
+entro del II Plan de Igu
+del II Plan de Igu
+dos intermedios, sobre 
+termedios, sobre
+es.
+ajador, con al menos 
+, con al menos 
+ntaria por un plazo:
+por un plazo:
+o.
+TVE, ¿cuántos días 
+¿cuántos días 
+022 de 7 de julio, de 
+imo del espacio radio
+mo del espacio rad
+se adjudicará a la Corp
+dicará a la Cor
+5%.
+5%.
+10%.
+0%
+ál es la forma
+la forma
+vía me
+a me
 ```
 
 ---

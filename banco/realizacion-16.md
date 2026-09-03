@@ -67,16 +67,12 @@ d) Una de las funciones de postproducción del software After Effects.
 **62_preguntas_realizacion_asist_2_llamamiento · nº 25 · respuesta: d**
 
 ```
-25. Durante  una  videoconferencia  internacional  con  múltiples  participantes,  ¿cuál  de  las  siguientes  opciones
-Durante  una  videoconferencia  internacional  con  múltiples  participantes,  ¿cuál  de  las  siguientes  opciones
-representa  el  mayor  desafío  para  garantizar  una  comunicación  fluida  y  de  alta  calidad?
-a)
-La elección de una plataforma de videoconferencia popular y conocida.
+25. Durante una videoconferencia internacional con múltiples participantes, ¿cuál de las siguientes opciones
+representa el mayor desafío para garantizar una comunicación fluida y de alta calidad?
+a) La elección de una plataforma de videoconferencia popular y conocida.
 b) La calidad de la conexión a internet del anfitrión de la reunión.
-c)
-La capacidad de la plataforma para compartir pantallas simultáneamente.
+c) La capacidad de la plataforma para compartir pantallas simultáneamente.
 d) La diversidad de dispositivos y sistemas operativos utilizados por los participantes.
-¿Cuál  de  las  siguientes  opciones  describe  mejor  la  función  de  un  plano  secuencia  en  una  secuencia  de
 ```
 
 ---
@@ -85,16 +81,12 @@ d) La diversidad de dispositivos y sistemas operativos utilizados por los partic
 
 ```
 37. Si queremos obtener una incrustación realista y sin problemas en un decorado virtual:
-a)
-Iluminamos al personaje para que no desentone con el decorado  virtual, pero no es necesario iluminar el fondo
-porque será sustituido por el decorado  virtual.
+a) Iluminamos al personaje para que no desentone con el decorado virtual, pero no es necesario iluminar el fondo
+porque será sustituido por el decorado virtual.
 b) La iluminación no es importante ya que el decorado es virtual y sustituirá el fondo.
-c)
-d)
-Iluminamos al personaje para que no desentone con el decorado virtual, y el fondo lo iluminamos uniformemente.
-Iluminamos  al  personaje  para  que  no  desentone  con  el  decorado  virtual  y  lo  pegamos  al  fondo  para  que  se
-recorte  mejor.
-En  los  auxiliares  que  mandamos  a  pantallas  durante  una  gala,  ¿podríamos  hacer  mezclas  y  cortinillas
+c) Iluminamos al personaje para que no desentone con el decorado virtual, y el fondo lo iluminamos uniformemente.
+d) Iluminamos al personaje para que no desentone con el decorado virtual y lo pegamos al fondo para que se
+recorte mejor.
 ```
 
 ---
@@ -102,14 +94,12 @@ En  los  auxiliares  que  mandamos  a  pantallas  durante  una  gala,  ¿podría
 **62_preguntas_realizacion_asist_2_llamamiento · nº 44 · respuesta: b**
 
 ```
-44. ¿Qué  tipo  de  streaming  es  el  más  adecuado  para  la  distribución  de  transmisiones  de  audio  y  vídeo  en
-¿Qué  tipo  de  streaming  es  el  más  adecuado  para  la  distribución  de  transmisiones  de  audio  y  vídeo  en
+44. ¿Qué tipo de streaming es el más adecuado para la distribución de transmisiones de audio y vídeo en
 directo?
 a) DTV: Televisión digital.
 b) Transmisión por secuencias.
 c) Descarga progresiva.
-d)
-In-Plane Switching o IPS.
+d) In-Plane Switching o IPS.
 ```
 
 ---
@@ -120,11 +110,11 @@ In-Plane Switching o IPS.
 48. ¿Qué es el streaming?
 a) Es un método de distribución de contenidos multimedia a través de redes informáticas, que transmite el contenido
 una vez descargado y almacenado previamente.
-b) Es  la  transmisión  de  imágenes  en  movimiento  y  su  sonido  asociado  (televisión)  mediante  una  señal  digital
-(codificación  binaria)  y  a  través  de  una  red  de  repetidores  terrestres.
+b) Es la transmisión de imágenes en movimiento y su sonido asociado (televisión) mediante una señal digital
+(codificación binaria) y a través de una red de repetidores terrestres.
 c) Es una tecnología de distribución de contenido multimedia de forma continua, de manera que el usuario consume
 el producto al mismo tiempo que se descarga, sin necesidad de descargarlo previamente.
-d) Es  un  servicio  de  televisión  por  suscripción  que  utiliza  señales  de  satélite  para  transmitir  programación  a  los
+d) Es un servicio de televisión por suscripción que utiliza señales de satélite para transmitir programación a los
 hogares.
 ```
 
@@ -138,6 +128,5 @@ a) El plano grabado que sirve como fondo o punto de partida para integrar efecto
 b) Es el proceso de creación de un esqueleto en la animación de un personaje CGI.
 c) Un tipo de cámara utilizada exclusivamente para la captura de movimiento.
 d) Una técnica de mezcla de audio para efectos sonoros.
-¿Qué se necesita para controlar un sistema EVS desde un mezclador de video durante una producción en
 ```
 

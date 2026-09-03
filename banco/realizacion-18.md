@@ -46,15 +46,13 @@ d) Es el protocolo para poder montar una secuencia en edición on-line.
 
 ```
 50. En las narrativas interactivas, si hablamos de la técnica de “Juxtapose”¿A qué nos estamos refiriendo?
-a)
-La técnica que sirve para construir una narrativa visual del antes y después.
+a) La técnica que sirve para construir una narrativa visual del antes y después.
 b) La técnica que nos permite conectar diferentes piezas de vídeo entre sí y después crear un hilo conductor entre
 ellas.
 c) A la técnica que permite al espectador la posibilidad de intervenir de tal forma que puede determinar o modificar la
 secuencia.
-d) La  técnica  que  permite  la  superposición  de  información  multimedia  haciendo  scroll  de  manera  vertical  por  la
+d) La técnica que permite la superposición de información multimedia haciendo scroll de manera vertical por la
 página.
-Si  necesistas  recuperar  el  estado  del  mezclador  en  un  momento  determinado  y  de  forma  inmediata  ¿Qué
 ```
 
 ---
