@@ -1,0 +1,283 @@
+Inicio rápido: Crear una macro | Microsoft Support
+Saltar al contenido principal
+Microsoft
+Soporte técnico
+Soporte técnico
+Soporte técnico
+Inicio
+Microsoft 365
+Office
+Productos
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+más ...
+Dispositivos
+Surface
+Accesorios de PC
+Xbox
+Juegos en PC
+HoloLens
+Surface Hub
+Garantías de hardware
+Cuenta y facturación
+Recursos
+Foros de la comunidadForos de la comunidad
+Administradores de Microsoft 365
+Desarrollador
+Educación
+Comunicar una estafa de soporte técnico
+Seguridad del producto
+Más
+Comprar Microsoft 365
+Todo Microsoft
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+Ofertas
+Pequeñas empresas
+Soporte
+Software
+Software
+Aplicaciones Windows
+OneDrive
+Outlook
+Paso de Skype a Teams
+OneNote
+Microsoft Teams
+PCs y dispositivos
+PCs y dispositivos
+Comprar XBOX
+Accesorios
+Entretenimiento
+Entretenimiento
+XBOX Game Pass Ultimate
+XBOX y juegos
+Juegos para PC
+Empresas
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365 para empresas
+Microsoft Power Platform
+Windows 365
+Soberanía digital
+Desarrolladores y TI
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Empresas de software
+Visual Studio
+Otro
+Otro
+Microsoft Rewards
+Seguridad y descargas gratuitas
+Educación
+Tarjetas regalo
+Licenciamiento
+Ver mapa del sitio
+Buscar
+Búsqueda de ayuda
+Sin resultados
+Cancelar
+Iniciar sesión
+Iniciar sesión con Microsoft
+Iniciar sesión o crear una cuenta
+Hola:
+Seleccione una cuenta diferente.
+Tiene varias cuentas
+Elija la cuenta con la que desea iniciar sesión.
+Temas relacionados
+Temas relacionados
+×
+Empiece ya
+¿Qué es Excel?
+Usar Excel como calculadora
+Agregar una marca de agua en Excel
+Combinar y anular la combinación de celdas
+Insertar o eliminar filas y columnas
+Colaborar en libros de Excel al mismo tiempo con la coautoría
+Mover o copiar hojas de cálculo o datos de hoja de cálculo
+Mostrar u ocultar filas o columnas
+Seleccionar el contenido de celdas en Excel
+Insertar o eliminar una hoja de cálculo
+Cambiar el formato de una celda
+Trabajo con tablas
+Guardar un libro en OneDrive desde Excel
+Copiar el formato de celda
+Crear un gráfico de principio a fin
+Formatos de número disponibles en Excel
+Colaborar
+Proteger un archivo de Excel
+Imprimir una hoja de cálculo o un libro
+Compartir el libro de Excel con otros usuarios
+Fórmulas y funciones
+Calcular la diferencia entre dos fechas
+Función SUMA
+Función SI
+Función BUSCARX
+Mostrar u ocultar valores cero
+Importar y analizar datos
+Crear una tabla dinámica para analizar datos de una hoja de cálculo
+Filtrar datos de una tabla o un rango
+Usar segmentaciones para filtrar datos
+Usar la lista de campos para organizar los campos en una tabla dinámica
+Importar o exportar archivos de texto (.txt o .csv)
+Filtrar valores únicos o quitar valores duplicados
+Inicio rápido Crear una macro
+Importar datos de la Web
+Buscar o reemplazar texto y números en una hoja de cálculo
+Aplicar validación de datos a celdas
+Dar formato a datos
+Bloquear o desbloquear áreas específicas de una hoja de cálculo protegida
+Agrupar o desagrupar datos en una tabla dinámica
+Crear un gráfico dinámico
+Usar minigráficos para mostrar tendencias de datos
+Crear una lista desplegable
+Combinar texto de dos o más celdas en una celda
+Inmovilizar paneles para bloquear filas y columnas
+Inicio rápido: Ordenar datos en una hoja de cálculo
+Divida los datos en varias columnas
+Inicio rápido: Crear una macro
+Se aplica a Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 para Mac
+Obtener ayuda con Copilot
+Háblame sobre el inicio rápido: Crear una macro.
+Explícame cómo automatizar tareas con el grabador de macros.
+¿Cómo debería usar la pestaña de desarrollador para crear o eliminar?
+Si tiene tareas en Microsoft Excel que repite repetidamente, puede grabar una macro para automatizar esas tareas. Una macro es una acción o un conjunto de acciones que se puede ejecutar todas las veces que desee. Cuando se crea una macro, se graban los clics del mouse y las pulsaciones de las teclas. Después de crear una macro, puede modificarla para realizar cambios menores en su funcionamiento.
+Imagine que todos los meses crea un informe para el gerente del departamento contable. Desea que los nombres de los clientes con cuentas vencidas aparezcan en rojo y en negrita. Puede crear y luego ejecutar una macro que aplique rápidamente estos cambios de formato en las celdas seleccionadas.
+Windows
+Mac
+¿Cómo?
+Antes de grabar una macro
+Las macros y las herramientas de VBA se pueden encontrar en la pestaña Desarrollador , que está oculta de forma predeterminada, por lo que el primer paso consiste en habilitarla. Para obtener más información, consulte Mostrar la pestaña Desarrollador .
+Grabar una macro
+En el grupo Código de la pestaña Programador y seleccione Grabar macro .
+Escriba un nombre para la macro en el cuadro Nombre de macro, escriba una tecla de método abreviado en el cuadro de tecla de método abreviado y una descripción en el cuadro Descripción . Seleccione Aceptar para iniciar la grabación.
+Realice las acciones que desee automatizar, como escribir texto repetitivo o completar hacia abajo una columna de datos.
+En la pestaña Programador , seleccione Detener grabación .
+Examine la macro y pruébela
+Al modificar una macro, puede aprender un poco acerca del lenguaje de programación Visual Basic.
+Para editar una macro, en el grupo Código de la pestaña Programador , seleccione Macros , seleccione el nombre de la macro y presione Editar . Esta acción hará que se inicie el Editor de Visual Basic.
+Observe el código y vea de qué manera las acciones que ha grabado aparecen como código. Es probable que entienda bien algo del código y que otra parte le resulte un poco misteriosa.
+Experimente con el código, cierre el Editor de Visual Basic y ejecute la macro nuevamente. Esta vez observe si sucede algo distinto.
+Pasos siguientes
+Para más información sobre la creación de macros, consulte Crear o eliminar una macro .
+Para obtener información sobre la ejecución de una macro, consulte Ejecutar una macro .
+¿Cómo?
+Antes de grabar una macro
+Compruebe que se muestra la pestaña Programador en la cinta de opciones. Dado que la pestaña Programador no se muestra de manera predeterminada, haga lo siguiente:
+Vaya a preferencias de Excel > ... > Cinta de opciones & barra de herramientas .
+En la categoría Personalizar la cinta de opciones , en la lista Pestañas principales , seleccione la casilla Desarrollador y, después, haga clic en Guardar .
+Grabar una macro
+En la pestaña Programador , seleccione Grabar macro .
+Opcionalmente, escriba un nombre para la macro en el cuadro Nombre de macro, escriba una tecla de método abreviado en el cuadro de tecla de método abreviado y una descripción en el cuadro Descripción . Seleccione Aceptar para iniciar la grabación.
+Realice las acciones que desee automatizar, como escribir texto repetitivo o completar hacia abajo una columna de datos.
+En la pestaña Desarrollador , en el grupo Código , seleccione Detener grabación .
+Examine la macro y pruébela
+Al modificar una macro, puede aprender un poco acerca del lenguaje de programación Visual Basic.
+Para editar una macro, en la pestaña Programador , haga clic en Macros , seleccione el nombre de la macro y presione Editar . Esta acción hará que se inicie el Editor de Visual Basic.
+Observe el código y vea de qué manera las acciones que ha grabado aparecen como código. Es probable que entienda bien algo del código y que otra parte le resulte un poco misteriosa.
+Experimente con el código, cierre el Editor de Visual Basic y ejecute la macro nuevamente. Esta vez observe si sucede algo distinto.
+¿Necesitas más ayuda?
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades .
+¿Te resultó útil esta información?
+Sí
+No
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+¡Gracias por sus comentarios!
+×
+Novedades
+Surface Pro
+Surface Laptop
+Copilot para organizaciones
+Copilot para uso personal
+Microsoft 365
+Explora los productos de Microsoft
+Aplicaciones de Windows 11
+Microsoft Store
+Perfil de la cuenta
+Centro de descarga
+Soporte de Microsoft Store
+Devoluciones
+Seguimiento de pedidos
+Reciclar
+Garantías comerciales
+Educación
+Microsoft Educación
+Dispositivos para educación
+Microsoft Teams para Educación
+Microsoft 365 Educación
+Office Educación
+Formación y desarrollo de educadores
+Ofertas para estudiantes y padres
+Azure para estudiantes
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft 365 Copilot
+Microsoft Teams
+Pequeñas empresas
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Empresas de software
+Visual Studio
+Compañía
+Oportunidades de empleo
+Acerca de Microsoft
+Noticias de la compañía
+Privacidad en Microsoft
+Inversores
+Español (España, alfabetización internacional)
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Privacidad de la salud del consumidor
+Ponte en contacto con Microsoft
+Privacidad
+Gestionar cookies
+Condiciones de uso
+Marcas registradas
+Sobre nuestra publicidad
+Docs de cumplimiento de la UE
+© Microsoft 2026

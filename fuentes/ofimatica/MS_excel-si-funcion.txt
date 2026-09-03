@@ -1,0 +1,747 @@
+SI (función SI) | Microsoft Support
+Saltar al contenido principal
+Microsoft
+Soporte técnico
+Soporte técnico
+Soporte técnico
+Inicio
+Microsoft 365
+Office
+Productos
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+más ...
+Dispositivos
+Surface
+Accesorios de PC
+Xbox
+Juegos en PC
+HoloLens
+Surface Hub
+Garantías de hardware
+Cuenta y facturación
+Recursos
+Foros de la comunidadForos de la comunidad
+Administradores de Microsoft 365
+Desarrollador
+Educación
+Comunicar una estafa de soporte técnico
+Seguridad del producto
+Más
+Comprar Microsoft 365
+Todo Microsoft
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+Ofertas
+Pequeñas empresas
+Soporte
+Software
+Software
+Aplicaciones Windows
+OneDrive
+Outlook
+Paso de Skype a Teams
+OneNote
+Microsoft Teams
+PCs y dispositivos
+PCs y dispositivos
+Comprar XBOX
+Accesorios
+Entretenimiento
+Entretenimiento
+XBOX Game Pass Ultimate
+XBOX y juegos
+Juegos para PC
+Empresas
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365 para empresas
+Microsoft Power Platform
+Windows 365
+Soberanía digital
+Desarrolladores y TI
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Empresas de software
+Visual Studio
+Otro
+Otro
+Microsoft Rewards
+Seguridad y descargas gratuitas
+Educación
+Tarjetas regalo
+Licenciamiento
+Ver mapa del sitio
+Buscar
+Búsqueda de ayuda
+Sin resultados
+Cancelar
+Iniciar sesión
+Iniciar sesión con Microsoft
+Iniciar sesión o crear una cuenta
+Hola:
+Seleccione una cuenta diferente.
+Tiene varias cuentas
+Elija la cuenta con la que desea iniciar sesión.
+Temas relacionados
+Temas relacionados
+×
+ABS
+INT.ACUM
+INT.ACUM.V
+ACOS
+ACOSH
+ACOT
+ACOTH
+DIRECCIÓN
+AGREGAR
+AMORTIZ.PROGRE
+AMORTIZ.LIN
+Y
+NUMERO.ARABE
+AREAS
+MATRIZATEXTO
+ASC
+ASENO
+ASENOH
+ATAN
+ATAN2
+ATANH
+DESVPROM
+PROMEDIO
+AVERAGEA
+PROMEDIO.SI
+PROMEDIO.SI.CONJUNTO
+TEXTOBAHT
+BASE
+BESSELI
+BESSELJ
+BESSELK
+BESSELY
+BETA. DIST
+BETA. INV
+DISTR.BETA
+DISTR.BETA.INV
+BIN.A.DEC
+BIN.A.HEX
+BIN.A.OCT
+BINOM. DIST
+BINOM. DIST. RANGO
+BINOM. INV
+DISTR.BINOM
+BIT.Y
+BIT.DESPLIZQDA
+BITOR
+BIT.DESPLDCHA
+BIT.XID
+BYCOL
+BYROW
+LLAMAR
+MULTIPLO.SUPERIOR
+DE TECHO. MATEMÁTICAS
+MULTIPLO.SUPERIOR.EXACTO
+CELDA
+CARÁCTER
+DISTR.CHI
+PRUEBA.CHI.INV
+CHISQ. DIST
+CHISQ. DIST. Puerta de enlace
+CHISQ. INV
+CHISQ. INV. Puerta de enlace
+CHISQ. PRUEBA
+PRUEBA.CHI
+ELEGIR
+ELEGIRCOLS
+ELEGIRFILAS
+LIMPIAR
+CÓDIGO
+COLUMN
+COLUMNS
+COMBINAT
+COMBINA
+COMPLEJO
+CONCAT
+CONCATENAR
+INTERVALO.CONFIANZA
+CONFIANZA. NORMA
+CONFIANZA. T
+CONVERT
+COPILOT
+COEF.DE.CORREL
+COS
+COSH
+COT
+COTH
+CONTAR
+CONTARA
+COUNTBLANK
+CONTAR.SI.CONJUNTO
+CUPON.DIAS.L1
+COUPDACUPON.DIAS
+CUPON.DIAS.L2
+CUPON.FECHA.L2
+CUPON.NUM
+CUPON.FECHA.L1
+COVAR
+COVARIANZA. P
+COVARIANZA. S
+BINOM.CRIT
+CSC
+CSCH
+MIEMBROKPICUBO
+MIEMBROCUBO
+PROPIEDADMIEMBROCUBO
+MIEMBRORANGOCUBO
+CONJUNTOCUBO
+RECUENTOCONJUNTOCUBO
+VALORCUBO
+PAGO.INT.ENTRE
+PAGO.PRINC.ENTRE
+FECHA
+SIFECHA
+FECHANUMERO
+BDPROMEDIO
+DAY
+DIAS
+DIAS360
+NOSQL
+DBCS
+BDCONTAR
+BDCONTARA
+DDB
+DEC.A.BIN
+DEC.A.HEX
+DEC.A.OCT
+DECIMAL
+GRADOS
+DELTA
+DETECTARIDIOMA
+DESVIA2
+BDEXTRAER
+DISC
+BDMAX
+BDMIN
+MONEDA
+MONEDA.DEC
+MONEDA.FRAC
+BDPRODUCTO
+DROP
+BDDESVEST
+BDDESVESTP
+BDSUMA
+DURACIÓN
+BDVAR
+BDVARP
+FECHA.MES
+INT.EFECTIVO
+URLCODIF
+FIN.MES
+FUN.ERROR
+ERROR. PRECISO
+FUN.ERROR.COMPL
+ERFC. PRECISO
+TIPO.DE.ERROR
+EUROCONVERT
+REDONDEA.PAR
+EXACT
+EXP
+EXPANDIR
+EXPÓN. DIST
+DISTR.EXP
+DISTR.F.IST
+DISTRIBUCIÓN DE F.CD. Puerta de enlace
+INV.F
+F.INV. Puerta de enlace
+F.PRUEBA
+FACT
+FACT.DOBLE
+Falsa
+DISTR.F
+VALORCAMPO
+FILTRAR
+XMLFILTRO
+DISTR.F.INV
+FISHER
+PRUEBA.FISHER.INV
+CORREGIDO
+MULTIPLO.INFERIOR
+PISO. MATEMÁTICAS
+MULTIPLO.INFERIOR.EXACTO
+FORECAST.AND.FORECAST.LINEAR.FUNCTIONS.MD
+PRONÓSTICO. ETS
+PRONÓSTICO. ETS. CONFINT
+PRONÓSTICO. ETS. ESTACIONALIDAD
+PRONÓSTICO. ETS. ESTADÍSTICAS
+FORECASTING.FUNCTIONS.REFERENCE.MD
+FORMULATEXTO
+FRECUENCIA
+PRUEBA.F
+VF
+VF.PLAN
+GAMMA
+GAMMA. DIST
+GAMMA. INV
+DISTR.GAMMA
+DISTR.GAMMA.INV
+GAMMA.LN
+GAMMALN. PRECISO
+GAUSS
+M.C.D
+MEDIA.GEOM
+MAYOR.O.IGUAL
+IMPORTARDATOSDINAMICOS
+AGRUPARPOR
+CRECIMIENTO
+MEDIA.ARMO
+HEX.A.BIN
+HEX.A.DEC
+HEX.A.OCT
+OCULTO
+BUSCARH
+HOUR
+APILARH
+HIPERVÍNCULO
+DISTR.HIPERGEOM.N
+DISTR.HIPERGEOM
+SI
+SI.ERROR
+SI.ND
+SI.CONJUNTO
+IM.ABS
+IMAGEN
+IMAGINARIO
+IM.ANGULO
+IM.CONJUGADA
+IM.COS
+IM.COSH
+IM.COT
+IM.CSC
+IM.CSCH
+IMDIV
+IM.EXP
+IM.LN
+IM.LOG10
+IM.LOG2
+IMPORTCSV
+IMPORTTEXT
+IM.POT
+IM.PRODUCT
+IM.REAL
+IM.SEC
+IM.SECH
+IM.SENO
+IMSINH
+IM.RAIZ2
+IM.SUSTR
+IM.SUM
+IMTAN
+INDEX
+INDIRECT
+INFORMACIÓN
+INT
+INTERSECCION.EJE
+TASA.INT
+PAGOINT
+TIR
+IS.FUNCTIONS.MD
+ISEVEN
+ESFORMULA
+ISO. TECHO
+ES.IMPAR
+ISOMITTED
+ISO.NUM.DE.SEMANA
+INT.PAGO.DIR
+JIS
+CURTOSIS
+LAMBDA
+K.ESIMO.MAYOR
+M.C.M
+LEFT
+LEN
+LET
+ESTIMACION.LINEAL
+LN
+LOG
+LOG10
+ESTIMACION.LOGARITMICA
+DISTR.LOG.INV
+LOGNORM. DIST
+LOGNORM. INV
+DISTR.LOG.NORM
+BUSCAR
+LOWER
+ARCHIVOMAKEARRAY
+MAPEAR
+MATCH
+MAX
+MAXA
+MAX.SI.CONJUNTO
+MDETERM
+DURACION.MODIF
+MEDIANA
+EXTRAE
+MIN
+MINA
+MIN.SI.CONJUNTO
+MINUTE
+MINVERSA
+TIRM
+MMULT
+RESIDUO
+MODA
+DE MODA. VARIOS
+MODA.UNO
+MONTH
+REDOND.MULT
+MULTINOMIAL
+MUNIDAD
+N
+N/D
+NEGBINOM. DIST
+NEGBINOMDIST
+DIAS.LAB
+DÍAS DE RED. INTL
+TASA.NOMINAL
+NORMA. DIST
+NORMA. INV
+NORMA. S.DIST
+NORMA. S.INV
+DISTR.NORM
+DISTR.NORM.INV
+DISTR.NORM.ESTAND
+DISTR.NORM.ESTAND.INV
+NO
+AHORA
+NPER
+VNA
+VALOR.NUMERO
+OCT.A.BIN
+OCT.A.DEC
+OCT.A.HEX
+REDONDEA.IMPAR
+PRECIO.PER.IRREGULAR.1
+RENDTO.PER.IRREGULAR.1
+PRECIO.PER.IRREGULAR.2
+RENDTO.PER.IRREGULAR.2
+DESREF
+O bien
+PDURACIÓN
+PEARSON
+PERCENTIL
+PERCENTIL.EXC
+PERCENTIL.INC
+PERCENTOF
+RANGO.PERCENTIL
+RANGO PORCENTUAL. EXC
+RANGO PORCENTUAL. INC (en inglés)
+PERMUTACIONES
+PERMUTACIONES
+FI
+FONETICO
+PI
+PIVOTARPOR
+PAGO
+POISSON
+POISSON. DIST
+ALIMENTACIÓN
+PAGOPRIN
+PRECIO
+PRECIO.DESCUENTO
+PRECIO.VENCIMIENTO
+PROBABILIDAD
+PRODUCTO
+NOMPROPIO
+VA
+PY
+CUARTIL
+QUARTILCUARTIL.EXC
+CUARTIL.INC
+COCIENTE
+RADIANS
+RAND
+MATRIZALEAT
+RANDBETWEEN
+JERARQUIA
+RANGO. AVG
+RANK.EQ
+TASA
+CANTIDAD.RECIBIDA
+REDUCE
+EXTRACCIÓN DE REGEX
+REEMPLAZAR REGEX
+PRUEBA DE REGEX
+ID.REGISTRO
+REPLACE
+REPT
+DERECHA
+NUMERO.ROMANO
+REDONDEAR
+REDONDEAR.MENOS
+REDONDEAR.MAS
+FILA
+FILAS
+RRI
+COEFICIENTE.R2
+RDTR
+ESCANER
+HALLAR
+SEC
+SECH
+SECOND
+SECUENCIA
+SUMA.SERIES
+HOJA
+HOJAS
+SIGNO
+SEN
+SENOH
+COEFICIENTE.ASIMETRIA
+ASIMÉTRICO. P
+SLN
+PENDIENTE
+K.ESIMO.MENOR
+ORDENAR
+ORDENAR POR
+RAIZ
+RAIZ2PI
+NORMALIZACION
+DESVEST
+DESVEST.P
+DESVEST.M
+DESVESTA
+DESVESTP
+DESVESTPA
+ERROR.TIPICO.XY
+HISTORIALCOTIZACIONES
+SUSTITUIR
+SUBTOTALES
+SUMA
+SUMAR.SI
+SUMAR.SI.CONJUNTO
+SUMAPRODUCTO
+SUMA.CUADRADOS
+SUMAX2MENOSY2
+SUMAX2MASY2
+SUMAXMENOSY2
+CAMBIAR
+SYD
+T
+T.DIST
+DISTR.T.2C
+DISTR.T. Puerta de enlace
+INV.T
+INV.T.2C
+PRUEBA.T
+TOMAR
+TAN
+TANH
+LETRA.DE.TEST.EQV.A.BONO
+LETRA.DE.TES.PRECIO
+LETRA.DE.TES.RENDTO
+DISTR.T
+TEXT
+TEXTODESPUES
+TEXTOANTES
+UNIRCADENAS
+DIVIDIRTEXTO
+HORA
+HORANUMERO
+DISTR.T.INV
+ENCOL
+HOY
+ENFILA
+TRANSLATE
+TRANSPONER
+TENDENCIA
+TRIM
+MEDIA.ACOTADA
+TRIMRANGE
+Verdadera
+TRUNCAR
+PRUEBA.T
+TIPO
+UNICAR
+UNICODE
+UNIQUE
+UPPER
+VALUE
+VALORATEXTO
+VAR
+VAR.P
+VAR.M
+VARA
+VARP
+VARPA
+DVS
+BUSCARV
+APILARV
+SERVICIO WEB
+DIASEM
+NUM.DE.SEMANA
+DIST.WEIBULL
+WEIBULL. DIST
+DIA.LAB
+DÍA DE TRABAJO. INTL
+AJUSTARCOLS
+AJUSTARFILAS
+TIR.NO.PER
+XLOOKUP
+COINCIDIRX
+VNA.NO.PER
+XO
+YEAR
+FRAC.AÑO
+RENDTO
+RENDTO.DESC
+RENDTO.VENCTO
+Z.TEST
+PRUEBA.Z
+SI (función SI)
+Se aplica a Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016
+Obtener ayuda con Copilot
+¿Cómo uso la función SI en Excel?
+¿Cómo utilizo la función CONCAT de Excel?
+Obtén una lista de verificación personalizada para la función SI.
+La función SI es una de las funciones más populares de Excel y le permite realizar comparaciones lógicas entre un valor y un resultado que espera.
+Por esto, una instrucción SI puede tener dos resultados. El primer resultado es si la comparación es Verdadera y el segundo si la comparación es Falsa.
+Por ejemplo, =SI(C2="Sí";1;2) dice: SI(C2 = Sí; entonces devolver un 1; en caso contrario devolver un 2)
+Sintaxis
+Use la función SI, una de las funciones lógicas , para devolver un valor si una condición es verdadera y otro si es falsa.
+SI(prueba_lógica; valor_si_verdadero; [valor_si_falso])
+Por ejemplo:
+=SI(A2>B2;"Presupuesto excedido";"Correcto")
+=SI(A2=B2,B4-A4,"")
+Nombre del argumento
+Descripción
+prueba_lógica (requerido)
+El valor que quiere probar.
+valor_si_verdadero (obligatorio)
+El valor que desea devuelto si el resultado de logical_test es VERDADERO.
+valor_si_falso (opcional)
+El valor que desea devuelto si el resultado de logical_test es FALSO.
+Ejemplos sencillos de SI
+=SI(C2="Sí";1;2)
+En el ejemplo anterior, la celda D2 dice: SI(C2 = Sí; entonces devolver un 1; en caso contrario devolver un 2)
+=SI(C2=1;"Sí";"No")
+En este ejemplo, la fórmula de la celda D2 dice: SI(C2 = 1; entonces devolver Sí; en caso contrario devolver No) Como puede ver, la función SI se puede usar para evaluar tanto texto como valores. También se puede usar para evaluar errores . No está limitado exclusivamente a comprobar si un elemento es igual a otro y devolver un único resultado, también puede usar operadores matemáticos y realizar cálculos adicionales según sus criterios. También se pueden anidar varias funciones SI para realizar varias comparaciones.
+=SI(C2>B2;"Presupuesto excedido";"Dentro de presupuesto")
+En el ejemplo anterior, la función en D2 dice SI(C2 es mayor que B2; devolver "Presupuesto excedido"; de lo contrario, devolver "Dentro de presupuesto")
+=SI(C2>B2;C2-B2;0)
+En la ilustración anterior, en lugar de devolver un resultado de texto, vamos a devolver un cálculo matemático. Entonces, la fórmula en E2 dice SI (la cantidad real es mayor que la presupuestada, entonces reste la cantidad presupuestada de la cantidad real, de lo contrario, no devuelva nada).
+=SI(E7="Sí";F5*0,0825;0)
+En este ejemplo, la fórmula en F7 dice lo siguiente: SI(E7 = "Sí"; calcula la cantidad total con F5 * 8,25 %; en caso contrario, no hay ningún impuesto sobre las ventas, por lo que se devuelve 0)
+Nota
+Si va a usar texto en fórmulas, tendrá que escribir el texto entre comillas (por ejemplo, "Texto"). La única excepción es el uso de VERDADERO o FALSO, que Excel entiende de forma automática.
+Problemas comunes
+Problema
+Qué ha fallado
+0 (cero) en la celda
+No había argumentos para value_if_true o value_if_False argumentos. Para que se devuelva un valor correcto, agregue texto de argumento a los dos argumentos, o agregue VERDADERO o FALSO al argumento.
+#¿NOMBRE? en la celda
+Normalmente, esto significa que la fórmula se ha escrito mal.
+¿Necesitas más ayuda?
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades .
+¿Te resultó útil esta información?
+Sí
+No
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+¡Gracias por sus comentarios!
+×
+Novedades
+Surface Pro
+Surface Laptop
+Copilot para organizaciones
+Copilot para uso personal
+Microsoft 365
+Explora los productos de Microsoft
+Aplicaciones de Windows 11
+Microsoft Store
+Perfil de la cuenta
+Centro de descarga
+Soporte de Microsoft Store
+Devoluciones
+Seguimiento de pedidos
+Reciclar
+Garantías comerciales
+Educación
+Microsoft Educación
+Dispositivos para educación
+Microsoft Teams para Educación
+Microsoft 365 Educación
+Office Educación
+Formación y desarrollo de educadores
+Ofertas para estudiantes y padres
+Azure para estudiantes
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft 365 Copilot
+Microsoft Teams
+Pequeñas empresas
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Empresas de software
+Visual Studio
+Compañía
+Oportunidades de empleo
+Acerca de Microsoft
+Noticias de la compañía
+Privacidad en Microsoft
+Inversores
+Español (España, alfabetización internacional)
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Privacidad de la salud del consumidor
+Ponte en contacto con Microsoft
+Privacidad
+Gestionar cookies
+Condiciones de uso
+Marcas registradas
+Sobre nuestra publicidad
+Docs de cumplimiento de la UE
+© Microsoft 2026

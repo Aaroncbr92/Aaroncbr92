@@ -1,0 +1,284 @@
+Calcular varios resultados con una tabla de datos | Microsoft Support
+Saltar al contenido principal
+Microsoft
+Soporte técnico
+Soporte técnico
+Soporte técnico
+Inicio
+Microsoft 365
+Office
+Productos
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+más ...
+Dispositivos
+Surface
+Accesorios de PC
+Xbox
+Juegos en PC
+HoloLens
+Surface Hub
+Garantías de hardware
+Cuenta y facturación
+Recursos
+Foros de la comunidadForos de la comunidad
+Administradores de Microsoft 365
+Desarrollador
+Educación
+Comunicar una estafa de soporte técnico
+Seguridad del producto
+Más
+Comprar Microsoft 365
+Todo Microsoft
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+Ofertas
+Pequeñas empresas
+Soporte
+Software
+Software
+Aplicaciones Windows
+OneDrive
+Outlook
+Paso de Skype a Teams
+OneNote
+Microsoft Teams
+PCs y dispositivos
+PCs y dispositivos
+Comprar XBOX
+Accesorios
+Entretenimiento
+Entretenimiento
+XBOX Game Pass Ultimate
+XBOX y juegos
+Juegos para PC
+Empresas
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365 para empresas
+Microsoft Power Platform
+Windows 365
+Soberanía digital
+Desarrolladores y TI
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Empresas de software
+Visual Studio
+Otro
+Otro
+Microsoft Rewards
+Seguridad y descargas gratuitas
+Educación
+Tarjetas regalo
+Licenciamiento
+Ver mapa del sitio
+Buscar
+Búsqueda de ayuda
+Sin resultados
+Cancelar
+Iniciar sesión
+Iniciar sesión con Microsoft
+Iniciar sesión o crear una cuenta
+Hola:
+Seleccione una cuenta diferente.
+Tiene varias cuentas
+Elija la cuenta con la que desea iniciar sesión.
+Calcular varios resultados con una tabla de datos
+Se aplica a Excel para Microsoft 365 Excel 2024 Excel 2021 Excel 2019 Excel 2016
+Obtener ayuda con Copilot
+¿Puedes mostrarme cómo crear una tabla de datos de una variable?
+¿Qué hago si no puedo insertar una fórmula en una celda de tabla?
+Calcula múltiples resultados utilizando una tabla de datos para mí.
+Una tabla de datos es un rango de celdas en el que puede cambiar los valores de algunas de las celdas y encontrar diferentes respuestas a un problema. Un buen ejemplo de una tabla de datos emplea la función PAGO con cantidades de préstamos y tasas de interés diferentes para calcular la cantidad asequible de un préstamo hipotecario para vivienda. Experimentar con diferentes valores para observar la variación correspondiente en los resultados es una tarea común en el análisis de datos .
+Versiones más recientes
+Web
+Información general
+En Microsoft Excel, las tablas de datos forman parte de un conjunto de comandos conocidos como herramientas de análisis de hipótesis. Al construir y analizar tablas de datos, está realizando análisis de hipótesis.
+El análisis de hipótesis es el proceso de cambiar valores en celdas para ver cómo afectan esos cambios al resultado de fórmulas de la hoja de cálculo. Por ejemplo, puede usar una tabla de datos para variar la tasa de interés y la duración del período de un préstamo con el fin de evaluar los posibles importes de los pagos mensuales.
+Tipos de análisis de hipótesis
+Existen tres tipos de herramientas de análisis de hipótesis en Excel: escenarios, tablas de datos y búsqueda de objetivos . Los escenarios y las tablas de datos usan conjuntos de valores de entrada para calcular posibles resultados. La búsqueda de objetivos es claramente diferente; usa un único resultado y calcula los posibles valores de entrada que producirían ese resultado.
+Al igual que los escenarios, las tablas de datos le ayudan a explorar un conjunto de posibles resultados. A diferencia de los escenarios, las tablas de datos muestran todos los resultados en una tabla de una hoja de cálculo. Con las tablas de datos resulta más fácil examinar una variedad de posibilidades de un vistazo. Dado que se centran en únicamente una o dos variables, los resultados son fáciles de leer y compartir en formato tabular.
+Una tabla de datos no puede dar cabida a más de dos variables. Si desea analizar más de dos variables, puede usar escenarios. Aunque está limitado solo a una o dos variables (una para la celda de entrada de fila y otra para la celda de entrada de columna), una tabla de datos puede incluir tantos valores variables diferentes como desee. Un escenario puede tener un máximo de 32 valores diferentes, pero puede crear tantas escenarios como desee.
+Obtenga más información en el artículo Introducción al análisis de hipótesis .
+Conceptos básicos de tablas de datos
+Cree tablas de datos de una o dos variables, según el número de variables y fórmulas que necesite probar.
+Tablas de datos de una variable
+Use una tabla de datos de una variable si desea ver cómo los diferentes valores de una variable en una o más fórmulas cambiarán los resultados de esas fórmulas. Por ejemplo, puede usar una tabla de datos de una variable para ver cómo afectan los distintos tipos de interés al pago mensual de una hipoteca usando la función PAGO . Escriba los valores de la variable en una columna o fila y los resultados se mostrarán en una columna o fila adyacente.
+En la siguiente ilustración, la celda D2 contiene la fórmula de pago, =PAGO(B3/12,B4,-B5) , que hace referencia a la celda de entrada B3.
+Tablas de datos de dos variables
+Use una tabla de datos de dos variables para ver cómo los diferentes valores de dos variables en una fórmula cambiarán los resultados de esa fórmula. Por ejemplo, puede usar una tabla de datos de dos variables para ver cómo afectarán las distintas combinaciones de tasas de interés y términos de préstamo al pago mensual de una hipoteca.
+En la siguiente ilustración, la celda C2 contiene la fórmula de pago, =PAGO(B3/12,B4,-B5) , que usa dos celdas de entrada, B3 y B4.
+Cálculos de tablas de datos
+Siempre que vuelva a calcular una hoja de cálculo, las tablas de datos también se recalcularán, incluso si no se ha producido ningún cambio en los datos. Para acelerar el cálculo de una hoja de cálculo que contiene una tabla de datos, puede cambiar las opciones de cálculo para volver a calcular automáticamente la hoja de cálculo, pero no las tablas de datos. Para obtener más información, vea la sección Acelerar el cálculo en una hoja de cálculo que contiene tablas de datos .
+Crear una tabla de datos de una variable
+Una tabla de datos de una variable contiene sus valores de entrada en una sola columna (orientada a columnas) o en una fila (orientada a filas). Cualquier fórmula de una tabla de datos de una variable solo debe hacer referencia a una celda de entrada.
+Siga estos pasos:
+Escriba la lista de valores que desea sustituir en la celda de entrada, ya sea hacia abajo una columna o a través de una fila. Deje algunas filas y columnas vacías en cualquiera de los lados de los valores.
+Siga uno de estos procedimientos:
+Si la tabla de datos está orientada a columnas (los valores variable están en una columna), escriba la fórmula en la celda una fila encima y una celda a la derecha de la columna de valores. Esta tabla de datos de una variable está orientada a columnas y la fórmula se encuentra en la celda D2.
+Si desea examinar los efectos de varios valores en otras fórmulas, escriba las fórmulas adicionales en las celdas a la derecha de la primera fórmula.
+Si la tabla de datos está orientada a filas (los valores variables están en una fila), escriba la fórmula en la celda una columna a la izquierda del primer valor y una celda debajo de la fila de valores.
+Si desea examinar los efectos de varios valores en otras fórmulas, escriba las fórmulas adicionales en celdas debajo de la primera fórmula.
+Seleccione la celda o el rango de celdas que contiene los valores, formatos de celda o fórmulas que desea copiar. En la ilustración anterior, este rango es C2:D5.
+En la pestaña Datos , seleccione Tabla de datos de análisis > de hipótesis (en el grupo Herramientas de datos o en el grupo Previsión de Excel 2016).
+Siga uno de estos procedimientos:
+Si la tabla de datos está orientada a columnas, escriba la referencia de celda para la celda de entrada en el campo Celda de entrada de columna . En la ilustración anterior, la celda de entrada es B3.
+Si la tabla de datos está orientada a filas, escriba la referencia de celda para la celda de entrada en el campo Celda de entrada de fila .
+Nota
+Después de crear la tabla de datos, es posible que desee cambiar el formato de las celdas de resultado. En la ilustración, las celdas de resultado tienen formato de moneda.
+Agregar una fórmula a una tabla de datos de una variable
+Las fórmulas que se usan en una tabla de datos de una variable deben hacer referencia a la misma celda de entrada.
+Siga estos pasos
+Realice una de las siguientes acciones:
+Si la tabla de datos está orientada a columnas, escriba la nueva fórmula en una celda en blanco a la derecha de una fórmula existente en la fila superior de la tabla de datos.
+Si la tabla de datos está orientada a filas, escriba la nueva fórmula en una celda vacía debajo de una fórmula existente en la primera columna de la tabla de datos.
+Seleccione el rango de celdas que contiene la tabla de datos y la nueva fórmula.
+En la pestaña Datos , seleccione Tabla de datos de análisis > de hipótesis (en el grupo Herramientas de datos o en el grupo Previsión de Excel 2016).
+Lleve a cabo uno de estos procedimientos:
+Si la tabla de datos está orientada a columnas, escriba la referencia de celda para la celda de entrada en el cuadro Celda de entrada de columna .
+Si la tabla de datos está orientada a filas, escriba la referencia de celda para la celda de entrada en el cuadro Celda de entrada de fila .
+Crear una tabla de datos de dos variables
+Una tabla de datos de dos variables usa una fórmula que contiene dos listas de valores de entrada. La fórmula debe hacer referencia a dos celdas de entrada diferentes.
+Siga estos pasos:
+En una celda de la hoja de cálculo, escriba la fórmula que hace referencia a las dos celdas de entrada.
+En el ejemplo siguiente, en el que se escriben los valores iniciales de la fórmula en las celdas B3, B4 y B5, escriba la fórmula =PAGO(B3/12,B4,-B5) en la celda C2.
+Escriba una lista de valores de entrada en la misma columna, debajo de la fórmula.
+En este caso, escriba las diferentes tasas de interés en las celdas C3, C4 y C5.
+Escriba la segunda lista en la misma fila que la fórmula, a su derecha.
+Escriba los términos del préstamo (en meses) en las celdas D2 y E2.
+Seleccione el rango de celdas que contiene la fórmula (C2), la fila y la columna de valores (C3:C5 y D2:E2) y las celdas en las que desea los valores calculados (D3:E5).
+En este caso, seleccione el rango C2:E5.
+En la pestaña Datos , en el grupo Herramientas de datos o en el grupo Previsión (en Excel 2016), seleccione la tabla de datos de análisis > de hipótesis (en el grupo Herramientas de datos o en el grupo Previsión de Excel 2016).
+En el campo Celda de entrada de fila , escriba la referencia a la celda de entrada para los valores de entrada en la fila.
+Escriba celda B4 en el cuadro Celda de entrada de fila .
+En el campo Celda de entrada de columna , escriba la referencia a la celda de entrada para los valores de entrada en la columna.
+Escriba B3 en el cuadro Celda de entrada de columna .
+Seleccione Aceptar .
+Ejemplo de una tabla de datos de dos variables
+Una tabla de datos de dos variables puede mostrar cómo afectarán las distintas combinaciones de tasas de interés y términos de préstamo a un pago mensual de una hipoteca. En la ilustración siguiente, la celda C2 contiene la fórmula de pago, =PAGO(B3/12,B4,-B5) , que usa dos celdas de entrada, B3 y B4.
+Acelerar el cálculo en una hoja de cálculo que contiene tablas de datos
+Al establecer esta opción de cálculo, no se realizan cálculos de tabla de datos cuando se realiza un nuevo cálculo en todo el libro. Para volver a calcular manualmente la tabla de datos, seleccione las fórmulas y presione F9.
+Siga estos pasos para mejorar el rendimiento del cálculo:
+Seleccione fórmulas de opciones > de archivo >.
+En la sección Opciones de cálculo , seleccione Automático .
+Recomendación
+De manera opcional, en la pestaña Fórmulas , seleccione la flecha en Opciones de cálculo y, después, seleccione Automático .
+Pasos siguientes
+Puede usar otras herramientas de Excel para realizar análisis de hipótesis si tiene objetivos específicos o conjuntos más grandes de datos variables.
+Búsqueda de objetivos
+Si sabe cuál es el resultado esperado de una fórmula, pero no sabe con exactitud qué valor de entrada necesita la fórmula para obtenerlo, use la característica de búsqueda de objetivo. Vea el artículo Usar la búsqueda de objetivo para encontrar el resultado que desea ajustando un valor de entrada .
+Excel Solver
+Puede usar el complemento Solver de Excel para encontrar el valor óptimo para un conjunto de variables de entrada. Solver funciona con un grupo de celdas (denominadas variables de decisión o simplemente celdas variables) que se usan para calcular las fórmulas de las celdas objetivo y de restricción. Solver ajusta los valores de las celdas de variables de decisión para que cumplan con los límites de las celdas de restricción y den el resultado deseado en la celda objetivo. Obtenga más información en este artículo: Definir y solucionar un problema con Solver .
+Al conectar números diferentes a una celda, puede encontrar rápidamente diferentes respuestas a un problema. Un buen ejemplo es usar la función PAGO con tasas de interés y períodos de préstamo diferentes (en meses) para averiguar cuánto puede permitirse para una casa o un coche. Escriba los números en un rango de celdas denominado tabla de datos.
+Aquí, la tabla de datos es el rango de celdas B2:D8. Puede cambiar el valor de B4, el importe del préstamo y los pagos mensuales de la columna D se actualizan automáticamente. Con una tasa de interés del 3,75 %, D2 devuelve un pago mensual de 1042,01 USD con esta fórmula: =PAGO(C2/12,$B$3,$B$4).
+Puede usar una o dos variables, dependiendo del número de variables y fórmulas que desee probar.
+Use una prueba de una variable para ver cómo cambiarán los resultados los diferentes valores de una variable en una fórmula. Por ejemplo, puede cambiar la tasa de interés para el pago mensual de una hipoteca usando la función PAGO. Escriba los valores variables (las tasas de interés) en una columna o fila y los resultados se mostrarán en una columna o fila cercana.
+En este libro, la celda D2 contiene la fórmula de pago = PAGO(C2/12,$B$3,$B$4). La celda B3 es la celda variable , donde puede probar una longitud de término diferente (número de períodos de pago mensuales). En la celda D2, la función PAGO prueba la tasa de interés 3,75%/12, 360 meses y un préstamo de 225 000 USD, y calcula un pago mensual de 1042,01 USD.
+Use una prueba de dos variables para ver cómo cambiarán los resultados los diferentes valores de dos variables de una fórmula. Por ejemplo, puede probar distintas combinaciones de tasas de interés y número de períodos de pago mensual para calcular el pago de una hipoteca.
+En este libro real, la celda C3 contiene la fórmula de pago, = PAGO($B$3/12,$B$2,B4), que usa dos celdas variables, B2 y B3. En la celda C2, la función PAGO prueba la tasa de interés 3,875%/12, 360 meses y un préstamo de 225 000 USD, y calcula un pago mensual de 1058,03 USD.
+¿Necesitas más ayuda?
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades .
+¿Te resultó útil esta información?
+Sí
+No
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+¡Gracias por sus comentarios!
+×
+Novedades
+Surface Pro
+Surface Laptop
+Copilot para organizaciones
+Copilot para uso personal
+Microsoft 365
+Explora los productos de Microsoft
+Aplicaciones de Windows 11
+Microsoft Store
+Perfil de la cuenta
+Centro de descarga
+Soporte de Microsoft Store
+Devoluciones
+Seguimiento de pedidos
+Reciclar
+Garantías comerciales
+Educación
+Microsoft Educación
+Dispositivos para educación
+Microsoft Teams para Educación
+Microsoft 365 Educación
+Office Educación
+Formación y desarrollo de educadores
+Ofertas para estudiantes y padres
+Azure para estudiantes
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft 365 Copilot
+Microsoft Teams
+Pequeñas empresas
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Empresas de software
+Visual Studio
+Compañía
+Oportunidades de empleo
+Acerca de Microsoft
+Noticias de la compañía
+Privacidad en Microsoft
+Inversores
+Español (España, alfabetización internacional)
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Privacidad de la salud del consumidor
+Ponte en contacto con Microsoft
+Privacidad
+Gestionar cookies
+Condiciones de uso
+Marcas registradas
+Sobre nuestra publicidad
+Docs de cumplimiento de la UE
+© Microsoft 2026

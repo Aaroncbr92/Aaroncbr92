@@ -1,0 +1,1471 @@
+Funciones de Excel (por categoría) | Microsoft Support
+Saltar al contenido principal
+Microsoft
+Soporte técnico
+Soporte técnico
+Soporte técnico
+Inicio
+Microsoft 365
+Office
+Productos
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+más ...
+Dispositivos
+Surface
+Accesorios de PC
+Xbox
+Juegos en PC
+HoloLens
+Surface Hub
+Garantías de hardware
+Cuenta y facturación
+Recursos
+Foros de la comunidadForos de la comunidad
+Administradores de Microsoft 365
+Desarrollador
+Educación
+Comunicar una estafa de soporte técnico
+Seguridad del producto
+Más
+Comprar Microsoft 365
+Todo Microsoft
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+Ofertas
+Pequeñas empresas
+Soporte
+Software
+Software
+Aplicaciones Windows
+OneDrive
+Outlook
+Paso de Skype a Teams
+OneNote
+Microsoft Teams
+PCs y dispositivos
+PCs y dispositivos
+Comprar XBOX
+Accesorios
+Entretenimiento
+Entretenimiento
+XBOX Game Pass Ultimate
+XBOX y juegos
+Juegos para PC
+Empresas
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365 para empresas
+Microsoft Power Platform
+Windows 365
+Soberanía digital
+Desarrolladores y TI
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Empresas de software
+Visual Studio
+Otro
+Otro
+Microsoft Rewards
+Seguridad y descargas gratuitas
+Educación
+Tarjetas regalo
+Licenciamiento
+Ver mapa del sitio
+Buscar
+Búsqueda de ayuda
+Sin resultados
+Cancelar
+Iniciar sesión
+Iniciar sesión con Microsoft
+Iniciar sesión o crear una cuenta
+Hola:
+Seleccione una cuenta diferente.
+Tiene varias cuentas
+Elija la cuenta con la que desea iniciar sesión.
+Funciones de Excel (por categoría)
+Se aplica a Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016
+Las funciones de hojas de cálculo se categorizan según su función. Haga clic en una categoría para explorar sus funciones. O bien, presione Ctrl+F para buscar una función escribiendo las primeras letras o una palabra descriptiva. Para obtener información detallada sobre una función, haga clic en su nombre en la primera columna.
+Nuestras 10 funciones destacadas
+Estas son nuestras 10 funciones destacadas que creemos que mejorarán tu experiencia con la hoja de cálculo.
+Función
+Descripción
+SUMA
+Use esta función para agregar los valores de las celdas.
+SI
+Use esta función para devolver un valor si una condición es verdadera y otro valor si es falsa.
+Aquí puede ver un vídeo acerca del uso de la función SI .
+SUMAR.SI.CONJUNTO
+Use esta función cuando necesite agregar las celdas de un rango que cumplen varios criterios.
+XLOOKUP
+Use esta función cuando necesite buscar en un rango o una matriz y devolver un elemento que corresponda a la primera coincidencia que encuentre. Si no hay ninguna coincidencia, BUSCARX puede devolver la coincidencia más cercana (aproximada).
+CONTAR.SI.CONJUNTO
+Use esta función para contar el número de celdas, dentro del rango, que cumplen varios criterios.
+CONTAR
+Use esta función para contar cuántos números hay en la lista de argumentos. Puede usar CONTARA para contar cuántos valores hay en la lista de argumentos.
+LET
+Use esta función para asignar nombres a los resultados de los cálculos.
+FILTRAR
+Use esta función para filtrar un rango de datos basándose en los criterios que defina.
+UNIQUE
+Use esta función para devolver una lista de valores únicos de una lista o rango.
+TEXTOANTES
+Use esta función para devolver el texto que aparece antes de una cadena o un carácter determinado. Puede usar TEXTAFTER para devolver texto que aparece después de un carácter o cadena determinados.
+Compatibilidad
+En las versiones más recientes de Excel, estas funciones se han sustituido por funciones nuevas que proporcionan precisión mejorada y tienen nombres que reflejan mejor su uso. Aún puede usarlas para la compatibilidad con versiones anteriores de Excel pero, si la compatibilidad con versiones anteriores no es obligatoria, debería empezar a usar las funciones nuevas en su lugar. Para obtener más información sobre las funciones nuevas, consulte Funciones estadísticas (referencia) y Funciones matemáticas y trigonométricas (referencia) .
+Función
+Descripción
+DISTR.BETA
+Devuelve la función de distribución beta acumulativa.
+DISTR.BETA.INV
+Devuelve la función inversa de la función de distribución acumulativa de una distribución beta especificada.
+DISTR.BINOM
+Devuelve la probabilidad de una variable aleatoria discreta siguiendo una distribución binomial.
+DISTR.CHI
+Devuelve la probabilidad de una cola de distribución chi cuadrado.
+PRUEBA.CHI.INV
+Devuelve la función inversa de la probabilidad de una cola de la distribución chi cuadrado.
+PRUEBA.CHI
+Devuelve la prueba de independencia.
+CONCATENAR
+Combina dos o más cadenas de texto en una sola.
+INTERVALO.CONFIANZA
+Devuelve el intervalo de confianza de la media de una población.
+COVAR
+Devuelve la covarianza, que es el promedio de los productos de las desviaciones para cada pareja de puntos de datos.
+BINOM.CRIT
+Devuelve el menor valor cuya distribución binomial acumulativa es menor o igual a un valor de criterio.
+DISTR.EXP
+Devuelve la distribución exponencial.
+DISTR.F
+Devuelve la distribución de probabilidad F.
+DISTR.F.INV
+Devuelve la función inversa de la distribución de probabilidad F.
+MULTIPLO.INFERIOR
+Redondea un número hacia abajo, hacia el cero.
+PRONOSTICO
+Calcula o pronostica un valor futuro usando los valores existentes.
+PRUEBA.F
+Devuelve el resultado de una prueba F.
+DISTR.GAMMA
+Devuelve la distribución gamma.
+DISTR.GAMMA.INV
+Devuelve la función inversa de la distribución gamma acumulativa.
+HYPGEOMDIST
+Devuelve la distribución hipergeométrica.
+DISTR.LOG.INV
+Devuelve la inversa de la función de distribución acumulativa logarítmico-normal.
+DISTR.LOG.NORM
+Devuelve la distribución logarítmico-normal acumulativa.
+MODA
+Devuelve el valor más común de un conjunto de datos.
+NEGBINOMDIST
+Devuelve la distribución binomial negativa.
+DISTR.NORM
+Devuelve la distribución normal acumulativa.
+DISTR.NORM.INV
+Devuelve la función inversa de la distribución normal acumulativa.
+DISTR.NORM.ESTAND
+Devuelve la distribución normal estándar acumulativa.
+DISTR.NORM.ESTAND.INV
+Devuelve la función inversa de la distribución normal estándar acumulativa.
+PERCENTIL
+Devuelve el k-ésimo percentil de los valores de un rango.
+RANGO.PERCENTIL
+Devuelve el rango porcentual de un valor de un conjunto de datos.
+POISSON
+Devuelve la distribución de Poisson.
+CUARTIL
+Devuelve el cuartil de un conjunto de datos.
+JERARQUIA
+Devuelve la jerarquía de un número en una lista de números.
+DESVEST
+Calcula la desviación estándar a partir de una muestra.
+DESVESTP
+Calcula la desviación estándar en función de toda la población.
+DISTR.T
+Devuelve la distribución de t de Student.
+DISTR.T.INV
+Devuelve la función inversa de la distribución de t de Student.
+PRUEBA.T
+Devuelve la probabilidad asociada a una prueba t de Student.
+VAR
+Calcula la varianza de una muestra.
+VARP
+Calcula la varianza en función de toda la población.
+DIST.WEIBULL
+Devuelve la distribución de Weibull.
+PRUEBA.Z
+Devuelve el valor de una probabilidad de una cola de una prueba z.
+Cubos
+Función
+Descripción
+MIEMBROKPICUBO
+Devuelve una propiedad de indicador clave de rendimiento (KPI) y muestra el nombre del KPI en la celda. Un KPI es una medida cuantificable, como los beneficios brutos mensuales o la facturación trimestral por empleado, que se usa para supervisar el rendimiento de una organización.
+MIEMBROCUBO
+Devuelve un miembro o tupla del cubo. Se usa para validar la existencia del miembro o la tupla en el cubo.
+PROPIEDADMIEMBROCUBO
+Devuelve el valor de una propiedad de miembro del cubo. Se usa para validar la existencia de un nombre de miembro en el cubo y para devolver la propiedad especificada para este miembro.
+MIEMBRORANGOCUBO
+Devuelve el miembro n, o clasificado, en un conjunto. Se usa para devolver uno o más elementos de un conjunto, por ejemplo, el cantante que más discos vende o los 10 mejores alumnos.
+CONJUNTOCUBO
+Define un conjunto calculado de miembros o tuplas mediante el envío de una expresión de conjunto al cubo en el servidor, lo que crea el conjunto y, después, devuelve dicho conjunto a Microsoft Excel.
+RECUENTOCONJUNTOCUBO
+Devuelve el número de elementos de un conjunto.
+VALORCUBO
+Devuelve un valor agregado del cubo.
+Funciones de base de datos
+Función
+Descripción
+BDPROMEDIO
+Devuelve el promedio de las entradas seleccionadas en la base de datos.
+BDCONTAR
+Cuenta el número de celdas que contienen números en una base de datos.
+BDCONTARA
+Cuenta el número de celdas no vacías en una base de datos.
+BDEXTRAER
+Extrae de una base de datos un único registro que cumple los criterios especificados.
+BDMAX
+Devuelve el valor máximo de las entradas seleccionadas de la base de datos.
+BDMIN
+Devuelve el valor mínimo de las entradas seleccionadas de la base de datos.
+BDPRODUCTO
+Multiplica los valores de un campo concreto de registros de la base de datos que cumplen los criterios especificados.
+BDDESVEST
+Calcula la desviación estándar a partir de una muestra de entradas seleccionadas en la base de datos.
+BDDESVESTP
+Calcula la desviación estándar a partir de la población total de las entradas seleccionadas de la base de datos.
+BDSUMA
+Agrega los números de la columna de campo de los registros de la base de datos que cumplen los criterios.
+BDVAR
+Calcula la varianza a partir de una muestra de entradas seleccionadas de la base de datos.
+BDVARP
+Calcula la varianza a partir de la población total de entradas seleccionadas de la base de datos.
+Funciones de fecha y hora
+Función
+Descripción
+FECHA
+Devuelve el número de serie correspondiente a una fecha determinada.
+SIFECHA
+Calcula el número de días, meses o años entre dos fechas. Esta función es útil en las fórmulas en las que necesite calcular una edad.
+FECHANUMERO
+Convierte una fecha con formato de texto en un valor de número de serie.
+DAY
+Convierte un número de serie en un valor de día del mes.
+DIAS
+(2013)
+Devuelve la cantidad de días entre dos fechas.
+DIAS360
+Calcula el número de días entre dos fechas a partir de un año de 360 días.
+FECHA.MES
+Devuelve el número de serie de la fecha equivalente al número indicado de meses anteriores o posteriores a la fecha inicial.
+FIN.MES
+Devuelve el número de serie correspondiente al último día del mes anterior o posterior a un número de meses especificado.
+HOUR
+Convierte un número de serie en un valor de hora.
+ISO.NUM.DE.SEMANA
+(2013)
+Devuelve el número de semana ISO del año para una fecha determinada
+MINUTE
+Convierte un número de serie en un valor de minuto.
+MONTH
+Convierte un número de serie en un valor de mes.
+DIAS.LAB
+Devuelve la cantidad de días laborables totales entre dos fechas.
+DÍAS DE RED. INTL
+(2010)
+Devuelve el número de todos los días laborables entre dos fechas mediante parámetros para indicar cuáles y cuántos son días de fin de semana.
+AHORA
+Devuelve el número de serie correspondiente a la fecha y hora actuales.
+SECOND
+Convierte un número de serie en un valor de segundo.
+HORA
+Devuelve el número de serie correspondiente a una hora determinada.
+HORANUMERO
+Convierte una hora con formato de texto en un valor de número de serie.
+HOY
+Devuelve el número de serie correspondiente al día actual.
+DIASEM
+Convierte un número de serie en un valor de día de la semana.
+NUM.DE.SEMANA
+Convierte un número de serie en un número que representa el lugar numérico correspondiente a una semana de un año.
+DIA.LAB
+Devuelve el número de serie de la fecha anterior o posterior a un número especificado de días laborables.
+DÍA DE TRABAJO. INTL
+(2010)
+Devuelve el número de serie de la fecha anterior o posterior a un número especificado de días laborables usando parámetros para indicar cuáles y cuántos son días de fin de semana.
+YEAR
+Convierte un número de serie en un valor de año.
+FRAC.AÑO
+Devuelve la fracción de año que representa el número total de días existentes entre el valor de fecha_inicial y el de fecha_final.
+Funciones de ingeniería
+Función
+Descripción
+BESSELI
+Devuelve la función Bessel In(x) modificada.
+BESSELJ
+Devuelve la función Bessel Jn(x)
+BESSELK
+Devuelve la función Bessel Kn(x) modificada.
+BESSELY
+Devuelve la función Bessel Yn(x)
+BIN.A.DEC
+Convierte un número binario en decimal.
+BIN.A.HEX
+Convierte un número binario en hexadecimal.
+BIN.A.OCT
+Convierte un número binario en octal.
+BIT.Y
+(2013)
+Devuelve un Y bit a bit de dos números.
+BIT.DESPLIZQDA
+(2013)
+Devuelve un valor numérico desplazado hacia la izquierda por los bits de cant_desplazada.
+BITOR
+(2013)
+Devuelve un O bit a bit de dos números.
+BIT.DESPLDCHA
+(2013)
+Devuelve un valor numérico desplazado hacia la derecha por los bits de cant_desplazada.
+BIT.XID
+(2013)
+Devuelve un O exclusivo bit a bit de dos números.
+COMPLEJO
+Convierte coeficientes reales e imaginarios en un número complejo.
+CONVERT
+Convierte un número de un sistema de medida a otro.
+DEC.A.BIN
+Convierte un número decimal en binario.
+DEC.A.HEX
+Convierte un número decimal en hexadecimal.
+DEC.A.OCT
+Convierte un número decimal en octal.
+DELTA
+Comprueba si dos valores son iguales.
+FUN.ERROR
+Devuelve la función de error.
+ERROR. PRECISO
+(2010)
+Devuelve la función de error.
+FUN.ERROR.COMPL
+Devuelve la función de error complementaria.
+ERFC. PRECISO
+(2010)
+Devuelve la función FUN.ERROR complementaria entre x e infinito.
+MAYOR.O.IGUAL
+Comprueba si un número es mayor que un valor de umbral.
+HEX.A.BIN
+Convierte un número hexadecimal en binario.
+HEX.A.DEC
+Convierte un número hexadecimal en decimal.
+HEX.A.OCT
+Convierte un número hexadecimal en octal.
+IM.ABS
+Devuelve el valor absoluto (módulo) de un número complejo.
+IMAGINARIO
+Devuelve el coeficiente imaginario de un número complejo.
+IM.ANGULO
+Devuelve el argumento theta, un ángulo expresado en radianes.
+IM.CONJUGADA
+Devuelve la conjugada compleja de un número complejo.
+IM.COS
+Devuelve el coseno de un número complejo.
+IM.COSH
+(2013)
+Devuelve el coseno hiperbólico de un número complejo.
+IM.COT
+(2013)
+Devuelve la cotangente de un número complejo.
+IM.CSC
+(2013)
+Devuelve la cosecante de un número complejo
+IM.CSCH
+(2013)
+Devuelve la cosecante hiperbólica de un número complejo
+IMDIV
+Devuelve el cociente de dos números complejos.
+IM.EXP
+Devuelve el exponencial de un número complejo.
+IM.LN
+Devuelve el logaritmo natural (neperiano) de un número complejo.
+IM.LOG10
+Devuelve el logaritmo en base 10 de un número complejo.
+IM.LOG2
+Devuelve el logaritmo en base 2 de un número complejo.
+IM.POT
+Devuelve un número complejo elevado a una potencia entera.
+IM.PRODUCT
+Devuelve el producto de 2 a 255 números complejos.
+IM.REAL
+Devuelve el coeficiente real de un número complejo.
+IM.SEC
+(2013)
+Devuelve la secante de un número complejo.
+IM.SECH
+(2013)
+Devuelve la secante hiperbólica de un número complejo.
+IM.SENO
+Devuelve el seno de un número complejo.
+IMSINH
+(2013)
+Devuelve el seno hiperbólico de un número complejo.
+IM.RAIZ2
+Devuelve la raíz cuadrada de un número complejo.
+IM.SUSTR
+Devuelve la diferencia entre dos números complejos.
+IM.SUM
+Devuelve la suma de números complejos.
+IMTAN
+(2013)
+Devuelve la tangente de un número complejo.
+OCT.A.BIN
+Convierte un número octal en binario.
+OCT.A.DEC
+Convierte un número octal en decimal.
+OCT.A.HEX
+Convierte un número octal en hexadecimal.
+Funciones financieras
+Función
+Descripción
+INT.ACUM
+Devuelve el interés acumulado de un valor bursátil con pagos de interés periódicos.
+INT.ACUM.V
+Devuelve el interés acumulado de un valor bursátil con pagos de interés al vencimiento.
+AMORTIZ.PROGRE
+Devuelve la amortización de cada período contable mediante el uso de un coeficiente de amortización.
+AMORTIZ.LIN
+Devuelve la amortización de cada uno de los períodos contables.
+CUPON.DIAS.L1
+Devuelve el número de días desde el principio del período de un cupón hasta la fecha de liquidación.
+COUPDACUPON.DIAS
+Devuelve el número de días del período (entre dos cupones) donde se encuentra la fecha de liquidación.
+CUPON.DIAS.L2
+Devuelve el número de días desde la fecha de liquidación hasta la fecha del próximo cupón.
+CUPON.FECHA.L2
+Devuelve la fecha del próximo cupón después de la fecha de liquidación.
+CUPON.NUM
+Devuelve el número de pagos de cupón entre la fecha de liquidación y la fecha de vencimiento.
+CUPON.FECHA.L1
+Devuelve la fecha de cupón anterior a la fecha de liquidación.
+PAGO.INT.ENTRE
+Devuelve el interés acumulado pagado entre dos períodos.
+PAGO.PRINC.ENTRE
+Devuelve el capital acumulado pagado de un préstamo entre dos períodos.
+NOSQL
+Devuelve la amortización de un activo durante un período específico a través del método de amortización de saldo fijo.
+DDB
+Devuelve la amortización de un activo durante un período específico a través del método de amortización por doble disminución de saldo u otro método que se especifique.
+DISC
+Devuelve la tasa de descuento de un valor bursátil.
+MONEDA.DEC
+Convierte un precio en dólar, expresado como fracción, en un precio en dólares, expresado como número decimal.
+MONEDA.FRAC
+Convierte un precio en dólar, expresado como número decimal, en un precio en dólares, expresado como una fracción.
+DURACIÓN
+Devuelve la duración anual de un valor bursátil con pagos de interés periódico.
+INT.EFECTIVO
+Devuelve la tasa de interés anual efectiva.
+VF
+Devuelve el valor futuro de una inversión.
+VF.PLAN
+Devuelve el valor futuro de un capital inicial después de aplicar una serie de tasas de interés compuesto.
+TASA.INT
+Devuelve la tasa de interés para la inversión total de un valor bursátil.
+PAGOINT
+Devuelve el pago de intereses de una inversión durante un período determinado.
+TIR
+Devuelve la tasa interna de retorno para una serie de flujos de efectivo.
+INT.PAGO.DIR
+Calcula el interés pagado durante un período específico de una inversión.
+DURACION.MODIF
+Devuelve la duración de Macauley modificada de un valor bursátil con un valor nominal supuesto de 100 $.
+TIRM
+Devuelve la tasa interna de retorno donde se financian flujos de efectivo positivos y negativos a tasas diferentes.
+TASA.NOMINAL
+Devuelve la tasa nominal de interés anual.
+NPER
+Devuelve el número de períodos de una inversión.
+VNA
+Devuelve el valor neto actual de una inversión a partir de una serie de flujos periódicos de efectivo y una tasa de descuento.
+PRECIO.PER.IRREGULAR.1
+Devuelve el precio por un valor nominal de 100 $ de un valor bursátil con un primer período impar.
+RENDTO.PER.IRREGULAR.1
+Devuelve el rendimiento de un valor bursátil con un primer período impar.
+PRECIO.PER.IRREGULAR.2
+Devuelve el precio por un valor nominal de 100 $ de un valor bursátil con un último período impar.
+RENDTO.PER.IRREGULAR.2
+Devuelve el rendimiento de un valor bursátil con un último período impar.
+PDURACIÓN
+(2013)
+Devuelve la cantidad de períodos necesarios para que una inversión alcance un valor especificado
+PAGO
+Devuelve el pago periódico de una anualidad.
+PAGOPRIN
+Devuelve el pago de capital de una inversión durante un período determinado.
+PRECIO
+Devuelve el precio por un valor nominal de 100 $ de un valor bursátil que paga una tasa de interés periódico.
+PRECIO.DESCUENTO
+Devuelve el precio por un valor nominal de 100 $ de un valor bursátil con descuento.
+PRECIO.VENCIMIENTO
+Devuelve el precio por un valor nominal de 100 $ de un valor bursátil que paga interés a su vencimiento.
+VA
+Devuelve el valor presente de una inversión.
+TASA
+Devuelve la tasa de interés por período de una anualidad.
+CANTIDAD.RECIBIDA
+Devuelve la cantidad recibida al vencimiento de un valor bursátil completamente invertido.
+RRI
+(2013)
+Devuelve una tasa de interés equivalente para el crecimiento de una inversión.
+SLN
+Devuelve la amortización por método directo de un activo en un período dado.
+SYD
+Devuelve la depreciación por método de anualidades de un activo durante un período especificado.
+LETRA.DE.TEST.EQV.A.BONO
+Devuelve el rendimiento de un bono equivalente a una letra del Tesoro (de EE.UU.).
+LETRA.DE.TES.PRECIO
+Devuelve el precio por un valor nominal de 100 $ de una letra del Tesoro (de EE.UU.).
+LETRA.DE.TES.RENDTO
+Devuelve el rendimiento de una letra del Tesoro (de EE.UU.).
+DVS
+Devuelve la amortización de un activo durante un período específico o parcial a través del método de cálculo del saldo en disminución.
+TIR.NO.PER
+Devuelve la tasa interna de retorno para un flujo de efectivo que no es necesariamente periódico.
+VNA.NO.PER
+Devuelve el valor neto actual para un flujo de efectivo que no es necesariamente periódico.
+RENDTO
+Devuelve el rendimiento de un valor bursátil que paga intereses periódicos.
+RENDTO.DESC
+Devuelve el rendimiento anual de un valor bursátil con descuento; por ejemplo, una letra del Tesoro (de EE.UU.).
+RENDTO.VENCTO
+Devuelve el rendimiento anual de un valor bursátil que paga intereses al vencimiento.
+Funciones de información
+Función
+Descripción
+CELDA
+Devuelve información sobre el formato, la ubicación o el contenido de una celda.
+TIPO.DE.ERROR
+Devuelve un número que corresponde a un tipo de error.
+INFORMACIÓN
+Devuelve información acerca del entorno operativo en uso.
+Nota: Esta función no está disponible en Excel para la Web.
+ESBLANCO
+Devuelve VERDADERO si el valor está en blanco.
+ESERR
+Devuelve VERDADERO si el valor es cualquier valor de error excepto #N/A.
+ESERROR
+Devuelve VERDADERO si el valor es cualquier valor de error.
+ISEVEN
+Devuelve VERDADERO si el número es par.
+ESFORMULA
+(2013)
+Devuelve VERDADERO si existe una referencia a una celda que contiene una fórmula.
+ESLOGICO
+Devuelve VERDADERO si el valor es un valor lógico.
+ESNOD
+Devuelve VERDADERO si el valor es el valor de error #N/A.
+ESNOTEXTO
+Devuelve VERDADERO si el valor no es texto.
+ESNUMERO
+Devuelve VERDADERO si el valor es un número.
+ES.IMPAR
+Devuelve VERDADERO si el número es impar.
+ISOMITTED
+(2024)
+Comprueba si falta el valor en una expresión LAMBDA y devuelve VERDADERO o FALSO
+ESREF
+Devuelve VERDADERO si el valor es una referencia.
+ESTEXTO
+Devuelve VERDADERO si el valor es texto.
+N
+Devuelve un valor convertido en un número.
+NA
+Devuelve el valor de error #N/A.
+HOJA
+(2013)
+Devuelve el número de la hoja a la que se hace referencia.
+HOJAS
+(2013)
+Devuelve la cantidad de hojas en una referencia.
+HISTORIALCOTIZACIONES
+(Microsoft 365)
+Recupera los datos históricos sobre un instrumento financiero
+TIPO
+Devuelve un número que indica el tipo de datos de un valor.
+Funciones lógicas
+Función
+Descripción
+AND
+Devuelve VERDADERO si todos sus argumentos son VERDADERO.
+Función BYCOL
+(2024)
+Aplica una expresión LAMBDA a cada columna y devuelve una matriz de los resultados.
+BYROW
+(2024)
+Aplica una expresión LAMBDA a cada fila y devuelve una matriz de los resultados
+FALSO
+Devuelve el valor lógico FALSO
+SI
+Especifica una prueba lógica que realizar
+SI.ERROR
+Devuelve un valor que se especifica si una fórmula lo evalúa como un error; de lo contrario, devuelve el resultado de la fórmula.
+SI.ND
+(2013)
+Devuelve el valor que se especifica, si la expresión se convierte en #N/A; de lo contrario, devuelve el resultado de la expresión.
+SI.CONJUNTO
+(2019)
+Comprueba si se cumplen una o varias condiciones y devuelve un valor que corresponde a la primera condición TRUE.
+LAMBDA
+(2024)
+Crear funciones personalizadas reutilizables y llamarlas con un nombre descriptivo
+LET
+(2021)
+Asigna nombres a los resultados de los cálculos
+ARCHIVOMAKEARRAY
+(2024)
+Devuelve una matriz calculada de un tamaño de fila y columna especificados mediante la aplicación de una expresión LAMBDA
+MAPEAR
+(2024)
+Devuelve una matriz formada por la asignación de cada valor de las matrices a un nuevo valor aplicando una expresión LAMBDA para crear un nuevo valor
+NOT
+Invierte el valor lógico del argumento.
+OR
+Devuelve VERDADERO si cualquier argumento es VERDADERO.
+REDUCE
+(2024)
+Reduce una matriz a un valor acumulado aplicando LAMBDA a cada valor y devolviendo el valor total en el acumulador
+ESCANER
+(2024)
+Examina una matriz aplicando LAMBDA a cada valor y devuelve una matriz que tiene cada valor intermedio
+CAMBIAR
+(2016)
+Evalúa una expresión comparándola con una lista de valores y devuelve el resultado correspondiente al primer valor coincidente. Si no hay ninguna coincidencia, puede devolverse un valor predeterminado opcional.
+FALSO
+Devuelve el valor lógico VERDADERO.
+XO
+(2013)
+Devuelve un O exclusivo lógico de todos los argumentos.
+Funciones de búsqueda y referencia
+Función
+Descripción
+DIRECCIÓN
+Devuelve una referencia como texto a una sola celda de una hoja de cálculo.
+AREAS
+Devuelve el número de áreas de una referencia.
+ELIJA
+Elige un valor de una lista de valores.
+ELEGIRCOLS
+(2024)
+Devuelve las columnas especificadas de una matriz.
+ELEGIRFILAS
+(2024)
+Devuelve las filas especificadas de una matriz
+COLUMNA
+Devuelve el número de columna de una referencia.
+COLUMNS
+Devuelve el número de columnas de una referencia.
+EXCLUIR
+(2024)
+Excluye un número especificado de filas o columnas del inicio o el final de una matriz.
+EXPANDIR
+(2024)
+Expande o rellena una matriz a las dimensiones de fila y columna especificadas
+FILTRAR
+(2021)
+Filtra un rango de datos basándose en los criterios que defina.
+FORMULATEXTO
+(2013)
+Devuelve la fórmula en la referencia dada como texto.
+IMPORTARDATOSDINAMICOS
+Devuelve los datos almacenados en un informe de tabla dinámica.
+AGRUPARPOR
+(Microsoft 365)
+Ayuda a un usuario a agrupar, agregar, ordenar y filtrar datos en función de los campos que especifique
+BUSCARH
+Busca en la fila superior de una matriz y devuelve el valor de la celda indicada.
+APILARH
+(2024)
+Anexa matrices de manera horizontal y en secuencia para devolver una matriz más grande
+HIPERVÍNCULO
+Crea un acceso directo o un salto que abre un documento almacenado en un servidor de red, en una intranet o en Internet
+IMAGEN
+(2024)
+Devuelve una imagen de un origen determinado
+ÍNDICE
+Usa un índice para elegir un valor de una referencia o matriz.
+INDIRECT
+Devuelve una referencia indicada por un valor de texto.
+BUSCAR
+Busca valores de un vector o una matriz.
+MATCH
+Busca valores de una referencia o una matriz.
+DESREF
+Devuelve un desplazamiento de referencia respecto a una referencia dada.
+PIVOTARPOR
+(Microsoft 365)
+Ayuda a un usuario a agrupar, agregar, ordenar y filtrar datos en función de los campos de fila y columna que especifique
+FILA
+Devuelve el número de fila de una referencia.
+FILAS
+Devuelve el número de filas de una referencia.
+RDTR
+Recupera datos en tiempo real desde un programa compatible con la automatización COM
+ORDENAR
+(2021)
+Ordena el contenido de un rango o matriz.
+ORDENAR POR
+(2021)
+Ordena el contenido de un rango o matriz en función de los valores de un rango o matriz correspondiente.
+TOMAR
+(2024)
+Devuelve un número especificado de filas o columnas contiguas del inicio o el final de una matriz
+ENCOL
+(2024)
+Devuelve la matriz en una sola columna
+ENFILA
+(2024)
+Devuelve la matriz en una sola fila
+TRANSPONER
+Devuelve la transposición de una matriz.
+TRIMRANGE
+(Microsoft 365)
+Examina desde los bordes de un rango o matriz hasta que encuentra una celda (o valor) que no está en blanco y, a continuación, excluye esas filas o columnas en blanco
+UNIQUE
+(2021)
+Devuelve una lista de valores únicos de una lista o rango.
+BUSCARV
+Busca en la primera columna de una matriz y se mueve en horizontal por la fila para devolver el valor de una celda.
+APILARV
+(2024)
+Anexa matrices verticalmente y en secuencia para devolver una matriz más grande
+AJUSTARCOLS
+(2024)
+Ajusta por columnas la fila o columna de valores proporcionada después de un número especificado de elementos
+AJUSTARFILAS
+(2024)
+Ajusta por filas la fila o columna de valores proporcionada en función de las filas después de un número especificado de elementos
+XLOOKUP
+(2021)
+Busca en un rango o una matriz y devuelve un elemento que corresponde a la primera coincidencia que encuentra. Si no hay ninguna coincidencia, BUSCARX puede devolver la coincidencia más cercana (aproximada).
+COINCIDIRX
+(2021)
+Devuelve la posición relativa de un elemento de una matriz o rango de celdas.
+Funciones matemáticas y trigonométricas
+Función
+Descripción
+ABS
+Devuelve el valor absoluto de un número
+ACOS
+Devuelve el arco coseno de un número
+ACOSH
+Devuelve el coseno hiperbólico inverso de un número.
+ACOT
+(2013)
+Devuelve la arco cotangente de un número.
+ACOTH
+(2013)
+Devuelve la arco cotangente hiperbólica de un número.
+AGREGAR
+Devuelve un agregado en una lista o base de datos.
+NUMERO.ARABE
+Convierte un número romano en arábigo.
+ASENO
+Devuelve el arcoseno de un número
+ASENOH
+Devuelve el seno hiperbólico inverso de un número.
+ATAN
+Devuelve el arco tangente de un número
+ATAN2
+Devuelve la arcotangente de las coordenadas "x" e "y".
+ATANH
+Devuelve la tangente hiperbólica inversa de un número.
+BASE
+(2013)
+Convierte un número en una representación de texto con la base dada.
+MULTIPLO.SUPERIOR
+Redondea un número al entero más próximo o al múltiplo significativo más cercano.
+DE TECHO. MATEMÁTICAS
+(2013)
+Redondea un número hacia arriba al entero más próximo o al múltiplo significativo más cercano.
+MULTIPLO.SUPERIOR.EXACTO
+Redondea un número hacia el entero o el múltiplo significativo más próximo. El número se redondea hacia arriba, independientemente de su signo.
+COMBINAT
+Devuelve la cantidad de combinaciones de una cantidad determinada de objetos.
+COMBINA
+(2013)
+Devuelve la cantidad de combinaciones con repeticiones de una cantidad determinada de elementos.
+COS
+Devuelve el coseno de un número
+COSH
+Devuelve el coseno hiperbólico de un número.
+COT
+(2013)
+Devuelve la cotangente de un ángulo.
+COTH
+(2013)
+Devuelve la cotangente hiperbólica de un número.
+CSC
+(2013)
+Devuelve la cosecante de un ángulo.
+CSCH
+(2013)
+Devuelve la cosecante hiperbólica de un ángulo.
+DECIMAL
+(2013)
+Convierte una representación de texto de un número con una base dada en un número decimal.
+GRADOS
+Convierte grados en radianes.
+REDONDEA.PAR
+Redondea un número hasta el entero par más próximo.
+EXP
+Devuelve e elevado a la potencia de un número dado.
+FACT
+Devuelve el factorial de un número.
+FACT.DOBLE
+Devuelve el factorial doble de un número.
+MULTIPLO.INFERIOR
+Redondea un número hacia abajo, hacia el cero.
+PISO. MATEMÁTICAS
+(2013)
+Redondea un número hacia abajo al entero más próximo o al múltiplo significativo más cercano.
+MULTIPLO.INFERIOR.EXACTO
+Redondea un número hacia abajo hasta el entero o el múltiplo significativo más cercano. El número se redondea hacia abajo, independientemente de su signo.
+M.C.D
+Devuelve el máximo común divisor.
+INT
+Redondea un número hacia abajo hasta el número entero más cercano.
+ISO. TECHO
+(2013)
+Devuelve un número que se redondea hacia arriba al número entero más próximo o al múltiplo significativo más cercano.
+M.C.M
+Devuelve el mínimo común múltiplo.
+LET
+(2021)
+Asigna nombres a los resultados de los cálculos para permitir almacenar cálculos de nivel intermedio, valores o definir nombres dentro de una fórmula.
+LN
+Devuelve el logaritmo natural de un número
+LOG
+Devuelve el logaritmo de un número en una base especificada.
+LOG10
+Devuelve el logaritmo en base 10 de un número
+MDETERM
+Devuelve el determinante matricial de una matriz.
+MINVERSA
+Devuelve la matriz inversa de una matriz.
+MMULT
+Devuelve el producto matricial de dos matrices.
+RESIDUO
+Devuelve el resto de la división.
+REDOND.MULT
+Devuelve un número redondeado al múltiplo deseado.
+MULTINOMIAL
+Devuelve el polinomio de un conjunto de números.
+MUNIDAD
+(2013)
+Devuelve la matriz de la unidad o la dimensión especificada.
+REDONDEA.IMPAR
+Redondea un número hasta el entero impar más próximo.
+PERCENTOF
+(Microsoft 365)
+Suma los valores del subconjunto y lo divide entre todos los valores
+PI
+Devuelve el valor de pi.
+ALIMENTACIÓN
+Devuelve el resultado de elevar un número a una potencia.
+PRODUCTO
+Multiplica sus argumentos.
+COCIENTE
+Devuelve la parte entera de una división.
+RADIANS
+Convierte grados en radianes.
+RAND
+Devuelve un número aleatorio entre 0 y 1.
+RANDARRA
+(2021)
+Devuelve una matriz de números aleatorios entre 0 y 1. Sin embargo, puede especificar el número de filas y columnas para rellenar, valores máximos y mínimos, y si se deben devolver números enteros o valores decimales.
+RANDBETWEEN
+Devuelve un número aleatorio entre los números que especifique.
+NUMERO.ROMANO
+Convierte un número arábigo en número romano, con formato de texto.
+REDONDEAR
+Redondea un número al número de decimales especificado.
+REDONDEAR.MENOS
+Redondea un número hacia abajo, hacia el cero.
+REDONDEAR.MAS
+Redondea un número hacia arriba, en dirección contraria a cero.
+SEC
+(2013)
+Devuelve la secante de un ángulo.
+SECH
+(2013)
+Devuelve la secante hiperbólica de un ángulo.
+SUMA.SERIES
+Devuelve la suma de una serie de potencias en función de la fórmula.
+SECUENCIA (2021)
+Genera una lista de números secuenciales en una matriz, como 1, 2, 3, 4
+SIGNO
+Devuelve el signo de un número.
+SEN
+Devuelve el seno de un ángulo determinado
+SENOH
+Devuelve el seno hiperbólico de un número.
+RAIZ
+Devuelve una raíz cuadrada positiva
+RAIZ2PI
+Devuelve la raíz cuadrada de un número multiplicado por PI (número * pi).
+SUBTOTALES
+Devuelve un subtotal en una lista o base de datos.
+SUMA
+Suma sus argumentos.
+SUMAR.SI
+Suma las celdas del rango que cumplen los criterios especificados.
+SUMAR.SI.CONJUNTO
+(2019)
+Suma las celdas de un rango que cumplen varios criterios.
+SUMAPRODUCTO
+Devuelve la suma de los productos de los correspondientes componentes de matriz.
+SUMA.CUADRADOS
+Devuelve la suma de los cuadrados de los argumentos.
+SUMAX2MENOSY2
+Devuelve la suma de la diferencia de los cuadrados de los valores correspondientes de dos matrices.
+SUMAX2MASY2
+Devuelve la suma de la suma de los cuadrados de los valores correspondientes de dos matrices.
+SUMAXMENOSY2
+Devuelve la suma de los cuadrados de las diferencias de los valores correspondientes de dos matrices.
+TAN
+Devuelve la tangente de un número
+TANH
+Devuelve la tangente hiperbólica de un número.
+TRUNCAR
+Trunca un número a un entero.
+Funciones estadísticas
+Función
+Descripción
+DESVPROM
+Devuelve el promedio de las desviaciones absolutas de la media de los puntos de datos.
+PROMEDIO
+Devuelve el promedio de sus argumentos.
+AVERAGEA
+Devuelve el promedio de sus argumentos, incluidos números, texto y valores lógicos.
+PROMEDIO.SI
+Devuelve el promedio (media aritmética) de todas las celdas de un rango que cumplen unos criterios determinados.
+PROMEDIO.SI.CONJUNTO
+(2019)
+Devuelve el promedio (media aritmética) de todas las celdas que cumplen múltiples criterios.
+BETA. DIST
+(2010)
+Devuelve la función de distribución beta acumulativa.
+BETA. INV
+(2010)
+Devuelve la función inversa de la función de distribución acumulativa de una distribución beta especificada.
+BINOM. DIST
+(2010)
+Devuelve la probabilidad de una variable aleatoria discreta siguiendo una distribución binomial.
+BINOM. DIST. RANGO
+(2013)
+Devuelve la probabilidad de un resultado de prueba siguiendo una distribución binomial.
+BINOM. INV
+(2010)
+Devuelve el menor valor cuya distribución binomial acumulativa es menor o igual a un valor de criterio.
+CHISQ. DIST
+(2010)
+Devuelve la función de densidad de probabilidad beta acumulativa.
+CHISQ. DIST. Puerta de enlace
+(2010)
+Devuelve la probabilidad de una cola de distribución chi cuadrado.
+CHISQ. INV
+(2010)
+Devuelve la función de densidad de probabilidad beta acumulativa.
+CHISQ. INV. Puerta de enlace
+(2010)
+Devuelve la función inversa de la probabilidad de una cola de la distribución chi cuadrado.
+CHISQ. PRUEBA
+(2010)
+Devuelve la prueba de independencia.
+CONFIANZA. NORMA
+(2010)
+Devuelve el intervalo de confianza de la media de una población.
+CONFIANZA. T
+(2010)
+Devuelve el intervalo de confianza para la media de una población, usando una distribución t de Student.
+COEF.DE.CORREL
+Devuelve el coeficiente de correlación entre dos conjuntos de datos.
+CONTAR
+Cuenta cuántos números hay en la lista de argumentos.
+CONTARA
+Cuenta cuántos valores hay en la lista de argumentos.
+COUNTBLANK
+Cuenta el número de celdas en blanco de un rango.
+CONTAR.SI
+Cuenta el número de celdas, dentro del rango, que cumplen el criterio especificado.
+CONTAR.SI.CONJUNTO
+(2019)
+Cuenta el número de celdas, dentro del rango, que cumplen varios criterios.
+COVARIANZA. P
+(2010)
+Devuelve la covarianza, que es el promedio de los productos de las desviaciones para cada pareja de puntos de datos.
+COVARIANZA. S
+(2010)
+Devuelve la covarianza de ejemplo, que es el promedio de los productos de las desviaciones para cada pareja de puntos de datos en dos conjuntos de datos.
+DESVIA2
+Devuelve la suma de los cuadrados de las desviaciones.
+EXPÓN. DIST
+(2010)
+Devuelve la distribución exponencial.
+DISTR.F.IST
+(2010)
+Devuelve la distribución de probabilidad F.
+DISTRIBUCIÓN DE F.CD. Puerta de enlace
+(2010)
+Devuelve la distribución de probabilidad F.
+INV.F
+(2010)
+Devuelve la función inversa de la distribución de probabilidad F.
+F.INV. Puerta de enlace
+(2010)
+Devuelve la función inversa de la distribución de probabilidad F.
+F.PRUEBA
+(2010)
+Devuelve el resultado de una prueba F.
+FISHER
+Devuelve la transformación Fisher.
+PRUEBA.FISHER.INV
+Devuelve la función inversa de la transformación Fisher.
+PRONOSTICO
+Devuelve un valor en una tendencia lineal.
+Nota: En Excel 2016, esta función se reemplaza por PREVISIÓN. LINEAR como parte de las nuevas funciones de previsión , pero sigue estando disponible para la compatibilidad con versiones anteriores.
+PRONÓSTICO. ETS
+(2016)
+Devuelve un valor futuro en base a valores (históricos) existentes mediante la versión AAA del algoritmo de Suavizado exponencial (HTA).
+PRONÓSTICO. ETS. CONFINT
+(2016)
+Devuelve un intervalo de confianza para el valor previsto en una fecha futura específica.
+PRONÓSTICO. ETS. ESTACIONALIDAD
+(2016)
+Devuelve la longitud del patrón repetitivo que Excel detecta para la serie temporal especificada.
+PRONÓSTICO. ETS. ESTADÍSTICAS
+(2016)
+Devuelve un valor estadístico como resultado de la previsión de series temporales.
+PRONÓSTICO. LINEAL
+(2016)
+Devuelve un valor futuro en base a valores existentes.
+FRECUENCIA
+Devuelve una distribución de frecuencia como una matriz vertical.
+GAMMA
+(2013)
+Devuelve el valor de la función Gamma.
+GAMMA. DIST
+(2010)
+Devuelve la distribución gamma.
+GAMMA. INV
+(2010)
+Devuelve la función inversa de la distribución gamma acumulativa.
+GAMMA.LN
+Devuelve el logaritmo natural de la función gamma, G(x).
+GAMMALN. PRECISO
+(2010)
+Devuelve el logaritmo natural de la función gamma, G(x).
+GAUSS
+(2013)
+Devuelve un 0,5 menos que la distribución acumulativa normal estándar.
+MEDIA.GEOM
+Devuelve la media geométrica.
+CRECIMIENTO
+Devuelve valores en una tendencia exponencial.
+MEDIA.ARMO
+Devuelve la media armónica.
+DISTR.HIPERGEOM.N
+Devuelve la distribución hipergeométrica.
+INTERSECCION.EJE
+Devuelve la intersección de la línea de regresión lineal.
+CURTOSIS
+Devuelve la curtosis de un conjunto de datos.
+K.ESIMO.MAYOR
+Devuelve el k-ésimo mayor valor de un conjunto de datos.
+ESTIMACION.LINEAL
+Devuelve los parámetros de una tendencia lineal.
+ESTIMACION.LOGARITMICA
+Devuelve los parámetros de una tendencia exponencial.
+LOGNORM. DIST
+(2010)
+Devuelve la distribución logarítmico-normal acumulativa.
+LOGNORM. INV
+(2010)
+Devuelve la función inversa de la distribución logarítmica normal acumulativa.
+MAX
+Devuelve el valor máximo de una lista de argumentos.
+MAXA
+Devuelve el valor máximo de una lista de argumentos, incluidos números, texto y valores lógicos.
+MAX.SI.CONJUNTO
+(2019)
+Devuelve el valor máximo entre celdas especificado por un determinado conjunto de condiciones o criterios.
+MEDIANA
+Devuelve la mediana de los números dados.
+MIN
+Devuelve el valor mínimo de una lista de argumentos.
+MINA
+Devuelve el valor mínimo de una lista de argumentos, incluidos números, texto y valores lógicos.
+MIN.SI.CONJUNTO
+(2019)
+Devuelve el valor mínimo entre celdas especificado por un determinado conjunto de condiciones o criterios.
+DE MODA. VARIOS
+(2010)
+Devuelve una matriz vertical de los valores que se repiten con más frecuencia en una matriz o rango de datos.
+MODA.UNO
+(2010)
+Devuelve el valor más común de un conjunto de datos.
+NEGBINOM. DIST
+(2010)
+Devuelve la distribución binomial negativa.
+NORMA. DIST
+(2010)
+Devuelve la distribución normal acumulativa.
+NORMA. INV
+(2010)
+Devuelve la función inversa de la distribución normal acumulativa.
+NORMA. S.DIST
+(2010)
+Devuelve la distribución normal estándar acumulativa.
+NORMA. S.INV
+(2010)
+Devuelve la función inversa de la distribución normal estándar acumulativa.
+PEARSON
+Devuelve el coeficiente de momento de correlación de producto Pearson.
+PERCENTIL.EXC
+(2010)
+Devuelve el k-ésimo percentil de los valores de un rango, donde k está en el rango 0..1, exclusivo.
+PERCENTIL.INC
+(2010)
+Devuelve el k-ésimo percentil de los valores de un rango.
+RANGO PORCENTUAL. EXC
+(2010)
+Devuelve el rango de un valor en un conjunto de datos como un porcentaje (0 a 1, exclusivo) del conjunto de datos.
+RANGO PORCENTUAL. INC (en inglés)
+(2010)
+Devuelve el rango porcentual de un valor de un conjunto de datos.
+PERMUTACIONES
+Devuelve el número de permutaciones de un número determinado de objetos.
+PERMUTACIONES
+(2013)
+Devuelve la cantidad de permutaciones de una cantidad determinada de objetos (con repeticiones) que pueden seleccionarse del total de objetos.
+FI
+(2013)
+Devuelve el valor de la función de densidad para una distribución normal estándar.
+POISSON. DIST
+(2010)
+Devuelve la distribución de Poisson.
+PROBABILIDAD
+Devuelve la probabilidad de que los valores de un rango se encuentren entre dos límites.
+QUARTILCUARTIL.EXC
+(2010)
+Devuelve el cuartil del conjunto de datos, basado en los valores percentiles de 0 a 1, exclusivo.
+CUARTIL.INC
+(2010)
+Devuelve el cuartil de un conjunto de datos.
+RANGO. AVG
+(2010)
+Devuelve la jerarquía de un número en una lista de números.
+RANK.EQ
+(2010)
+Devuelve la jerarquía de un número en una lista de números.
+COEFICIENTE.R2
+Devuelve el cuadrado del coeficiente de momento de correlación de producto Pearson.
+COEFICIENTE.ASIMETRIA
+Devuelve la asimetría de una distribución.
+ASIMÉTRICO. P
+(2013)
+Devuelve la asimetría de una distribución basado en una población: una caracterización del grado de asimetría de una distribución alrededor de su media.
+PENDIENTE
+Devuelve la pendiente de la línea de regresión lineal.
+K.ESIMO.MENOR
+Devuelve el k-ésimo menor valor de un conjunto de datos.
+NORMALIZACION
+Devuelve un valor normalizado.
+STDEV. P
+(2010)
+Calcula la desviación estándar en función de toda la población.
+DESVEST.M
+(2010)
+Calcula la desviación estándar a partir de una muestra.
+DESVESTA
+Calcula la desviación estándar a partir de una muestra, incluidos números, texto y valores lógicos.
+DESVESTPA
+Calcula la desviación estándar en función de toda la población, incluidos números, texto y valores lógicos.
+ERROR.TIPICO.XY
+Devuelve el error estándar del valor de "y" previsto para cada "x" de la regresión.
+T.DIST
+(2010)
+Devuelve los puntos porcentuales (probabilidad) de la distribución t de Student.
+DISTR.T.2C
+(2010)
+Devuelve los puntos porcentuales (probabilidad) de la distribución t de Student.
+DISTR.T. Puerta de enlace
+(2010)
+Devuelve la distribución de t de Student.
+INV.T
+(2010)
+Devuelve el valor t de la distribución t de Student en función de la probabilidad y los grados de libertad.
+INV.T.2C
+(2010)
+Devuelve la función inversa de la distribución de t de Student.
+PRUEBA.T
+(2010)
+Devuelve la probabilidad asociada a una prueba t de Student.
+TENDENCIA
+Devuelve valores en una tendencia lineal.
+MEDIA.ACOTADA
+Devuelve la media del interior de un conjunto de datos.
+VAR. P
+(2010)
+Calcula la varianza en función de toda la población.
+VAR.M
+(2010)
+Calcula la varianza de una muestra.
+VARA
+Calcula la varianza a partir de una muestra, incluidos números, texto y valores lógicos.
+VARPA
+Calcula la varianza en función de toda la población, incluidos números, texto y valores lógicos.
+WEIBULL. DIST
+(2010)
+Devuelve la distribución de Weibull.
+Z.TEST
+(2010)
+Devuelve el valor de una probabilidad de una cola de una prueba z.
+Funciones de texto
+Función
+Descripción
+ASC
+Convierte las letras en inglés o katakana de ancho completo (de dos bytes) dentro de una cadena de caracteres en caracteres de ancho medio (de un byte).
+MATRIZATEXTO
+(2021)
+Devuelve una matriz de valores de texto de cualquier rango especificado.
+TEXTOBAHT
+Convierte un número en texto, con el formato de moneda ß (Baht).
+CARÁCTER
+Devuelve el carácter especificado por el número de código.
+LIMPIAR
+Quita del texto todos los caracteres no imprimibles.
+CÓDIGO
+Devuelve un código numérico del primer carácter de una cadena de texto.
+CONCAT
+(2019)
+Combina el texto de varios rangos o cadenas, pero no proporciona el delimitador o los argumentos IgnoreEmpty.
+CONCATENAR
+Concatena varios elementos de texto en uno solo.
+DBCS
+(2013)
+Convierte las letras en inglés o katakana de ancho medio (de un byte) dentro de una cadena de caracteres en caracteres de ancho completo (de dos bytes).
+DETECTARIDIOMA
+(Microsoft 365)
+Identifica el idioma de un texto especificado
+MONEDA
+Convierte un número en texto, con el formato de moneda $ (dólar).
+EXACT
+Comprueba si dos valores de texto son idénticos.
+ENCONTRAR, ENCONTRARB
+Busca un valor de texto dentro de otro (distingue mayúsculas de minúsculas).
+CORREGIDO
+Da formato a un número como texto con un número fijo de decimales.
+IZQUIERDA, IZQUIERDAB
+Devuelve los caracteres del lado izquierdo de un valor de texto.
+LARGO, LARGOB
+Devuelve el número de caracteres de una cadena de texto.
+LOWER
+Pone el texto en minúsculas.
+EXTRAE, EXTRAEB
+Devuelve un número específico de caracteres de una cadena de texto que comienza en la posición que se especifique.
+VALOR.NUMERO
+(2013)
+Convierte texto a número de manera independiente a la configuración regional.
+FONETICO
+Extrae los caracteres fonéticos (furigana) de una cadena de texto.
+NOMPROPIO
+Pone en mayúscula la primera letra de cada palabra de un valor de texto.
+EXTRACCIÓN DE REGEX
+(Microsoft 365)
+Extrae cadenas dentro del texto proporcionado que coincide con el patrón
+REEMPLAZAR REGEX
+(Microsoft 365)
+Reemplaza las cadenas dentro del texto proporcionado que coincide con el patrón con el reemplazo
+PRUEBA DE REGEX
+(Microsoft 365)
+Determina si alguna parte del texto coincide con el patrón
+REEMPLAZAR, REEMPLAZARB
+Reemplaza caracteres de texto.
+REPT
+Repite el texto un número determinado de veces.
+DERECHA, DERECHAB
+Devuelve los caracteres del lado derecho de un valor de texto.
+HALLAR, HALLARB
+Busca un valor de texto dentro de otro (no distingue mayúsculas de minúsculas).
+SUSTITUIR
+Sustituye texto nuevo por texto antiguo en una cadena de texto.
+T
+Convierte sus argumentos a texto.
+TEXTO
+Da formato a un número y lo convierte en texto.
+TEXTODESPUES
+(2024)
+Devuelve texto que aparece después de un carácter o una cadena determinados
+TEXTOANTES
+(2024)
+Devuelve el texto que aparece antes de un carácter o una cadena determinados
+UNIRCADENAS
+(2019)
+Texto: Combina el texto de varios rangos o cadenas
+DIVIDIRTEXTO
+(2024)
+Divide las cadenas de texto mediante delimitadores de columna y fila
+TRADUCIR
+(Microsoft 365)
+Traduce un texto de un idioma a otro
+TRIM
+Quita los espacios del texto.
+UNICAR
+(2013)
+Devuelve el carácter Unicode al que hace referencia el valor numérico dado.
+UNICODE
+(2013)
+Devuelve el número (punto de código) que corresponde al primer carácter del texto.
+UPPER
+Pone el texto en mayúsculas.
+VALUE
+Convierte un argumento de texto en un número.
+VALORATEXTO
+(2021)
+Devuelve texto de cualquier valor especificado.
+Funciones definidas por el usuario instaladas con complementos
+Si los complementos que se instalan contienen funciones, estas funciones de automatización o complemento estarán disponibles en la categoría Definida por el usuario en el cuadro de diálogo Insertar función .
+Las funciones definidas por el usuario (UDF) no están disponibles en Excel para la Web.
+Función
+Descripción
+LLAMAR
+Llama a un procedimiento de una biblioteca de vínculos dinámicos o de un recurso de código.
+EUROCONVERT
+Convierte un número determinado a euros; convierte un número determinado de euros a la moneda de un estado miembro; o convierte un número dado de una moneda de un estado miembro a la de otro con el euro como moneda intermedia (triangulación)
+ID.REGISTRO
+Devuelve el número de identificación del registro de la biblioteca de vínculos dinámicos (DLL) especificada o del recurso de código previamente registrado.
+Funciones web
+Las funciones web no están disponibles en Excel para la Web.
+Función
+Descripción
+URLCODIF
+(2013)
+Devuelve una cadena de URL codificada
+XMLFILTRO
+(2013)
+Devuelve datos específicos del contenido XML usando el XPath especificado.
+SERVICIO WEB
+(2013)
+Devuelve datos de un servicio web.
+Los marcadores de versiones indican la versión de Excel en la que se introdujo una función. Estas funciones no están disponibles en versiones anteriores.
+Importante
+Los resultados calculados de las fórmulas y algunas funciones de hoja de cálculo de Excel pueden diferir entre un PC de Windows con arquitectura x86 o x86-64 y un PC de Windows RT con arquitectura ARM.
+Más información sobre las diferencias .
+Principio de página
+¿Necesitas más ayuda?
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades .
+¿Te resultó útil esta información?
+Sí
+No
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+¡Gracias por sus comentarios!
+×
+Novedades
+Surface Pro
+Surface Laptop
+Copilot para organizaciones
+Copilot para uso personal
+Microsoft 365
+Explora los productos de Microsoft
+Aplicaciones de Windows 11
+Microsoft Store
+Perfil de la cuenta
+Centro de descarga
+Soporte de Microsoft Store
+Devoluciones
+Seguimiento de pedidos
+Reciclar
+Garantías comerciales
+Educación
+Microsoft Educación
+Dispositivos para educación
+Microsoft Teams para Educación
+Microsoft 365 Educación
+Office Educación
+Formación y desarrollo de educadores
+Ofertas para estudiantes y padres
+Azure para estudiantes
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft 365 Copilot
+Microsoft Teams
+Pequeñas empresas
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Empresas de software
+Visual Studio
+Compañía
+Oportunidades de empleo
+Acerca de Microsoft
+Noticias de la compañía
+Privacidad en Microsoft
+Inversores
+Español (España, alfabetización internacional)
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Privacidad de la salud del consumidor
+Ponte en contacto con Microsoft
+Privacidad
+Gestionar cookies
+Condiciones de uso
+Marcas registradas
+Sobre nuestra publicidad
+Docs de cumplimiento de la UE
+© Microsoft 2026

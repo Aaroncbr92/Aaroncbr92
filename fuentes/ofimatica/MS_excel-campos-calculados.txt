@@ -1,0 +1,448 @@
+Calcular valores en una tabla dinámica | Microsoft Support
+Saltar al contenido principal
+Microsoft
+Soporte técnico
+Soporte técnico
+Soporte técnico
+Inicio
+Microsoft 365
+Office
+Productos
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+más ...
+Dispositivos
+Surface
+Accesorios de PC
+Xbox
+Juegos en PC
+HoloLens
+Surface Hub
+Garantías de hardware
+Cuenta y facturación
+Recursos
+Foros de la comunidadForos de la comunidad
+Administradores de Microsoft 365
+Desarrollador
+Educación
+Comunicar una estafa de soporte técnico
+Seguridad del producto
+Más
+Comprar Microsoft 365
+Todo Microsoft
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+Ofertas
+Pequeñas empresas
+Soporte
+Software
+Software
+Aplicaciones Windows
+OneDrive
+Outlook
+Paso de Skype a Teams
+OneNote
+Microsoft Teams
+PCs y dispositivos
+PCs y dispositivos
+Comprar XBOX
+Accesorios
+Entretenimiento
+Entretenimiento
+XBOX Game Pass Ultimate
+XBOX y juegos
+Juegos para PC
+Empresas
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365 para empresas
+Microsoft Power Platform
+Windows 365
+Soberanía digital
+Desarrolladores y TI
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Empresas de software
+Visual Studio
+Otro
+Otro
+Microsoft Rewards
+Seguridad y descargas gratuitas
+Educación
+Tarjetas regalo
+Licenciamiento
+Ver mapa del sitio
+Buscar
+Búsqueda de ayuda
+Sin resultados
+Cancelar
+Iniciar sesión
+Iniciar sesión con Microsoft
+Iniciar sesión o crear una cuenta
+Hola:
+Seleccione una cuenta diferente.
+Tiene varias cuentas
+Elija la cuenta con la que desea iniciar sesión.
+Calcular valores en un informe de tabla dinámica
+Se aplica a Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2021 Excel 2019 Excel 2016
+Obtener ayuda con Copilot
+¿Cuáles son los pasos para editar una fórmula de tabla dinámica?
+¿Qué sucede si no puedo cambiar la función de resumen o personalizada?
+Calcula valores en una tabla dinámica para mí.
+En las tablas dinámicas, puede usar funciones de resumen en campos de valor para combinar valores de los datos de origen subyacentes. Si las funciones de resumen y los cálculos personalizados no proporcionan los resultados que quiere, puede crear sus propias fórmulas en los campos y elementos calculados. Por ejemplo, podría agregar un elemento calculado con la fórmula de la comisión de venta, que puede ser diferente para cada región. Entonces, la tabla dinámica incluiría automáticamente la comisión en los subtotales y totales generales.
+Otra forma de calcular es usar Medidas en Power Pivot, que se crean con una fórmula de Expresiones de análisis de datos (DAX) . Para más información, vea Crear una Medida en Power Pivot .
+Acerca de los cálculos
+Windows o Mac
+Web
+iPad
+Las tablas dinámicas proporcionan formas para calcular los datos. Obtenga información sobre los métodos de cálculo que están disponibles, cómo el tipo de datos de origen afecta a los cálculos y cómo usar fórmulas en las tablas y en los gráficos dinámicos.
+Métodos de cálculo disponibles
+Para calcular los valores en una tabla dinámica, puede usar cualquiera de los siguientes tipos de métodos de cálculo o todos:
+Funciones de resumen en campos de valores Los datos en el área de valores resumen los datos de origen subyacentes en la tabla dinámica. Por ejemplo, los siguientes datos de origen:
+Genera los siguientes gráficos y tablas dinámicos. Si crea un gráfico dinámico con los datos de una tabla dinámica, los valores de este gráfico reflejan los cálculos en el informe de tabla dinámica asociado.
+En la tabla dinámica, el campo de la columna Mes proporciona los elementos Marzo y Abril . El campo de fila Región proporciona los elementos Norte , Sur , Este y Oeste . El valor en la intersección de la columna Abril y la fila Norte es el total de los ingresos de ventas de los registros en los datos de origen que tienen los valores de Mes Abril y los valores de Región Norte .
+En un gráfico dinámico, el campo Región puede ser un campo de categoría que muestra Norte , Sur , Este , y Oeste como categorías. El campo Mes podría ser un campo de serie que muestra los elementos Marzo , Abril , y Mayo como series representadas en la leyenda. Un campo Valores denominado Suma de ventas podría contener los marcadores de datos que representan los ingresos totales en cada región para cada mes. Por ejemplo, un marcador de datos representaría, por su posición en el eje vertical (valores), las ventas totales de Abril en la región Norte .
+Para calcular los campos de valores, las siguientes funciones de resumen están disponibles para todos los tipos de datos de origen excepto los datos de origen de procesamiento analítico en línea (OLAP).
+Función
+Resume
+SUMA
+La suma de los valores. Esta es la función predeterminada para datos numéricos.
+CONTAR
+El número de valores de datos. La función de resumen CONTAR funciona igual que la función CONTARA . CONTAR es la función predeterminada para datos que no sean numéricos.
+PROMEDIO
+El promedio de los valores.
+MAX
+El valor máximo.
+MIN
+El valor mínimo.
+PRODUCTO
+El producto de los valores.
+Contar números
+El número de valores de datos que son números. La función de resumen CONTAR NÚMEROS funciona igual que la función CONTAR .
+DESVEST
+Un cálculo de la desviación estándar de una población, donde la muestra es un subconjunto de toda la población.
+DESVESTP
+Un cálculo de la desviación estándar de una población, donde la población son todos los datos que van a resumirse.
+VAR
+Un cálculo de la varianza de una población, donde la muestra es un subconjunto de toda la población.
+VARP
+La varianza de una población, donde la población son todos los datos que van a resumirse.
+Cálculos personalizados Un cálculo personalizado muestra valores basados en otros elementos o celdas en el área de datos. Por ejemplo, podría mostrar los valores en el campo de datos Suma de ventas como un porcentaje de las ventas de marzo o como un total acumulado de los elementos del campo Mes .
+Las siguientes funciones están disponibles para los cálculos personalizados en campos de valores.
+Función
+Resultado
+Sin cálculo
+Muestra el valor que se introduce en el campo.
+% del total general
+Muestra los valores como un porcentaje del total general de todos los valores o puntos de datos en el informe.
+% del total de columnas
+Muestra todos los valores de cada columna o serie como un porcentaje del total de la columna o serie.
+% del total de filas
+Muestra el valor de cada fila o categoría como un porcentaje del total de la fila o categoría.
+% de
+Muestra los valores como un porcentaje del valor del Elemento base en el Campo base .
+% del total de filas principales
+Calcula los valores de la siguiente forma:
+(valor del elemento) / (valor del elemento principal en las filas)
+% del total de columnas principales
+Calcula los valores de la siguiente forma:
+(valor del elemento) / (valor del elemento principal en las columnas)
+% del total principal
+Calcula los valores de la siguiente forma:
+(valor del elemento) / (valor del elemento principal del campo Base seleccionado)
+Diferencia de
+Muestra los valores como la diferencia del valor del Elemento base en el Campo base .
+% de la diferencia de
+Muestra los valores como la diferencia de porcentaje del valor del Elemento base en el Campo base .
+Total en
+Muestra el valor de elementos sucesivos en el campo Base como un total acumulado.
+% del total en
+Calcula el valor de los elementos sucesivos en el campo Base que se muestra como un total acumulado como porcentaje.
+Clasificar de menor a mayor
+Muestra la jerarquía de los valores seleccionados en un campo específico, enumerando el elemento más pequeño en el campo como 1, y cada valor mayor tendrá un valor de jerarquía más alto.
+Clasificar de mayor a menor
+Muestra la jerarquía de los valores seleccionados en un campo específico, enumerando el elemento más grande en el campo como 1, y cada valor menor tendrá un valor de jerarquía más alto.
+Índice
+Calcula los valores de la siguiente forma:
+((valor en celda) x (Total general de Totales generales)) / ((Suma total de filas) x (Suma total de columnas))
+Fórmulas Si las funciones de resumen y los cálculos personalizados no proporcionan los resultados que quiere, puede crear sus propias fórmulas en los campos y elementos calculados. Por ejemplo, podría agregar un elemento calculado con la fórmula de la comisión de venta, que puede ser diferente para cada región. Entonces, el informe incluiría la comisión automáticamente en los subtotales y totales generales.
+Cómo afecta el tipo de datos de origen a los cálculos
+Los cálculos y opciones disponibles en un informe dependen de si los datos de origen proceden de una base de datos OLAP o de un origen de datos no OLAP.
+Cálculos basados en datos de origen OLAP Para las tablas dinámicas que se crean a partir de cubos OLAP, los valores de resumen se calculan previamente en el servidor OLAP antes de que Excel muestre los resultados. No puede cambiar cómo se calculan estos valores previamente calculados en la tabla dinámica. Por ejemplo, no puede cambiar la función de resumen que se usa para calcular los campos de datos o subtotales, ni agregar campos calculados o elementos calculados.
+Además, si el servidor OLAP proporciona campos calculados, conocidos como miembros calculados, verá estos campos en la lista de campos de tabla dinámica. También verá los campos calculados y los elementos calculados creados mediante macros escritas en Visual Basic para Aplicaciones (VBA) y almacenadas en el libro, pero no podrá cambiar estos campos o elementos. Si necesita realizar otros tipos de cálculos, póngase en contacto con el administrador de la base de datos OLAP.
+Para datos de origen OLAP, puede incluir o excluir los valores de los elementos ocultos al calcular subtotales y totales generales.
+Cálculos basados en datos de origen no OLAP En las tablas dinámicas que se basan en otros tipos de datos externos o en datos de hoja de cálculo, Excel usa la función de resumen Suma para calcular los campos de valores que contienen datos numéricos, y la función de resumen Contar para calcular los campos de datos que contienen texto. Puede elegir otra función de resumen, como Promedio, Máx o Mín, para analizar y personalizar sus datos. También puede crear sus propias fórmulas que empleen elementos del informe u otros datos de la hoja de cálculo mediante la creación de un campo calculado o un elemento calculado dentro de un campo.
+Usar fórmulas en tablas dinámicas
+Puede crear fórmulas solo en los informes que se basan en datos de origen no OLAP. No puede usar fórmulas en informes que se basan en una base de datos OLAP. Al usar fórmulas en tablas dinámicas, debe conocer las siguientes reglas de sintaxis de fórmulas y de comportamiento de fórmulas:
+Elementos de fórmula de tabla dinámica En las fórmulas que cree para los campos calculados y los elementos calculados, puede usar operadores y expresiones como con otras fórmulas de la hoja de cálculo. Puede usar las constantes y hacer referencia a los datos del informe, pero no puede usar referencias de celda o nombres definidos. No puede usar funciones de hoja de cálculo que requieran referencias de celda o nombres definidos como argumentos y no puede usar funciones de matriz.
+Nombres de campos y elementos Excel usa nombres de campos y elementos para identificar esos elementos de un informe en las fórmulas. En el siguiente ejemplo, los datos del rango C3:C9 usan el nombre de campo Lácteos . Un elemento calculado en el campo Tipo que calcula las ventas para un producto nuevo en función de las ventas de lácteos podría usar una fórmula como =Lácteos * 115 % .
+Nota
+En un gráfico dinámico, los nombres de campo se muestran en la lista de campos de tabla dinámica y los nombres de artículos pueden verse en cada lista desplegable de campos. No confunda estos nombres con los que ve en sugerencias para gráficos, que reflejan nombres de puntos de datos y de serie en su lugar.
+Las fórmulas operan sobre los totales de la suma, no sobre registros individuales Las fórmulas para los campos calculados operan sobre la suma de los datos subyacentes para cualquier campo de la fórmula. Por ejemplo, la fórmula de campo calculado =Ventas * 1,2 multiplica por 1,2 la suma de las ventas de cada tipo y la región, no multiplica cada venta individual por 1,2 y luego suma los importes multiplicados.
+Las fórmulas para los elementos calculados operan en los registros individuales. Por ejemplo, la fórmula de elemento calculado =Lácteos * 115 % multiplica cada venta individual de lácteos un 115 %, tras lo cual los importes multiplicados se resumen conjuntamente en el área de valores.
+Espacios, números y símbolos en nombres En un nombre que incluya varios campos, los campos pueden estar en cualquier orden. En el ejemplo anterior, las celdas C6:D6 pueden ser "Abril Norte" o "Norte Abril" . Use comillas simples con los nombres que tengan más de una palabra o que incluyan números o símbolos.
+Totales Las fórmulas no pueden referirse a totales (como por ejemplo, Total de marzo , Total de abril y Total general en el ejemplo).
+Nombres de campos en referencias de elementos Puede incluir el nombre del campo en una referencia a un elemento. Debe ser el nombre del elemento entre corchetes, por ejemplo, Región [Norte] . ¿Usa este formato para evitar #NAME? cuando dos elementos en dos campos diferentes en un informe tienen el mismo nombre. Por ejemplo, si un informe tiene un elemento denominado Carne en el campo Tipo y otro elemento denominado Carne en el campo Categoría, ¿puede evitar #NAME? haciendo referencia a los elementos como Tipo [Carne] y Categoría [Carne] .
+Hacer referencia a elementos por posición Puede hacer referencia a un elemento por su posición en el informe según esté ordenado y mostrado.
+Tipo [1] es Lácteos y Tipo [2] es Mariscos . El elemento al que se hace referencia de esta forma puede cambiar siempre que las posiciones de los elementos cambien o si se muestra u ocultan los distintos elementos. En este índice no se cuentan los elementos ocultos.
+Puede usar posiciones relativas para hacer referencia a los elementos. Las posiciones se determinan en relación al elemento calculado que contiene la fórmula. Si Sur es la región actual, Región[-1] es Norte ; si Norte es la región actual, Región[+1] es Sur . Por ejemplo, un elemento calculado podría usar la fórmula =Región[-1] * 3% . Si la posición que se da es anterior al primer elemento o posterior al último elemento del campo, la fórmula provoca un error #¡REF!. .
+Usar fórmulas en gráficos dinámicos
+Para usar fórmulas en un gráfico dinámico, debe crear las fórmulas en la tabla dinámica asociada, donde puede ver los valores individuales que conforman sus datos y, después, puede ver los resultados gráficamente en el gráfico dinámico.
+Por ejemplo, el siguiente gráfico dinámico muestra las ventas de cada vendedor por región:
+Para ver el aspecto que tendrían las ventas si se aumentan en un 10 por ciento, podría crear un campo calculado en la tabla dinámica asociada con una fórmula como =Ventas * 110 % .
+El resultado aparece inmediatamente en el gráfico dinámico, tal como se muestra en el siguiente gráfico:
+Para ver un marcador de datos independiente de las ventas de la región Norte, menos un costo de transporte de un 8 por ciento, podría crear un elemento calculado en el campo Región con una fórmula como = Norte – (Norte * 8 %) .
+El gráfico resultante tendría el siguiente aspecto:
+Pero un elemento calculado creado en el campo Vendedor aparecería como una serie representada en la leyenda y aparecería en el gráfico como un punto de datos en cada categoría.
+Crear fórmulas en una tabla dinámica
+Importante
+No puede crear fórmulas en una tabla dinámica conectada a un origen de datos de procesamiento analítico en línea (OLAP).
+Antes de empezar, decida si quiere un campo calculado o un elemento calculado dentro de un campo. Use un campo calculado cuando quiera usar los datos de otro campo en la fórmula. Use un elemento calculado cuando quiera que la fórmula use datos de uno o más elementos específicos dentro de un campo.
+Para los elementos calculados, puede introducir fórmulas distintas celda por celda. Por ejemplo, si un elemento calculado denominado RecuentoNaranjas tiene la fórmula =Naranjas * ,25 para todos los meses, puede cambiar la fórmula a =Naranjas * ,5 para junio, julio y agosto.
+Si tiene varios elementos calculados o fórmulas, puede ajustar el orden de cálculo.
+Agregar un campo calculado
+Seleccione la tabla dinámica.
+Se mostrarán las herramientas de tabla dinámica y se agregarán las pestañas Analizar y Diseño .
+En la pestaña Analizar , en el grupo Cálculos , seleccione Campos, Elementos & Conjuntos y, después, seleccione Campo calculado .
+En el cuadro Nombre , escriba un nombre para el campo.
+En el cuadro Fórmula , escriba la fórmula para el campo.
+Para usar los datos de otro campo en la fórmula, seleccione el campo en el cuadro Campos y luego seleccione Insertar campo . Por ejemplo, para calcular una Comisión del 15 % en cada valor del campo ventas, puede escribir =Ventas * 15 % .
+Seleccione Agregar .
+Agregar un elemento calculado a un campo
+Seleccione la tabla dinámica.
+Se mostrarán las herramientas de tabla dinámica y se agregarán las pestañas Analizar y Diseño .
+Si se agrupan elementos en el campo, en la pestaña Analizar , en la sección Agrupar , seleccione Desagrupar .
+Seleccione el campo donde quiera agregar el elemento calculado.
+En la pestaña Analizar , en el grupo Cálculos , seleccione Campos, Elementos & Conjuntos y, después, seleccione Elemento calculado .
+En el cuadro Nombre , escriba el nombre que quiera dar al elemento calculado.
+En el cuadro Fórmula , escriba la fórmula para el elemento.
+Para usar los datos de un elemento en la fórmula, seleccione el elemento en la lista Elementos y, a continuación, seleccione Insertar elemento (el elemento debe ser del mismo campo que el elemento calculado).
+Seleccione Agregar .
+Para los elementos calculados, escriba fórmulas distintas celda por celda.
+Seleccione una celda cuya fórmula quiera cambiar.
+Para cambiar la fórmula de varias celdas, mantenga presionada la tecla CTRL y seleccione las celdas adicionales.
+En la barra de fórmulas, escriba los cambios en la fórmula.
+Ajuste el orden de cálculo para varios elementos calculados o fórmulas.
+Seleccione la tabla dinámica.
+Se mostrarán las herramientas de tabla dinámica y se agregarán las pestañas Analizar y Diseño .
+En la pestaña Analizar , en el grupo Cálculos , seleccione Campos, Elementos & Conjuntos y, después, seleccione Resolver orden .
+Seleccione una fórmula y después seleccione Subir o Bajar .
+Continúe hasta que las fórmulas estén en el orden en que quiere que se calculen.
+Ver todas las fórmulas que se usan en una tabla dinámica
+Puede mostrar una lista de todas las fórmulas que se usan en la tabla dinámica actual.
+Seleccione la tabla dinámica.
+Se mostrarán las herramientas de tabla dinámica y se agregarán las pestañas Analizar y Diseño .
+En la pestaña Analizar , en el grupo Cálculos , seleccione Campos, Elementos & Conjuntos y, después, seleccione Fórmulas de lista.
+Editar una fórmula de tabla dinámica
+Antes de modificar una fórmula, determine si esa fórmula está en un campo calculado o un elemento calculado. Si la fórmula se encuentra en un elemento calculado, determine también si la fórmula es la única para el elemento calculado.
+Para los elementos calculados, puede editar fórmulas individuales para celdas específicas de un elemento calculado. Por ejemplo, si un elemento calculado denominado CálculoNaranjas tiene la fórmula =Naranjas * ,25 para todos los meses, puede cambiar la fórmula a =Naranjas * ,5 para junio, julio y agosto.
+Determinar si una fórmula está en un campo calculado o en un elemento calculado
+Seleccione la tabla dinámica.
+Se mostrarán las herramientas de tabla dinámica y se agregarán las pestañas Analizar y Diseño .
+En la pestaña Analizar , en el grupo Cálculos , seleccione Campos, Elementos & Conjuntos y, después, seleccione Fórmulas de lista.
+En la lista de fórmulas, busque la fórmula que quiere cambiar que aparece en Campo calculado o Elemento calculado.
+Cuando hay varias fórmulas para un elemento calculado, la fórmula predeterminada que se escribió cuando se creó el elemento tiene el nombre de elemento calculado en la columna B. Para las demás fórmulas para un elemento calculado, la columna B contiene tanto el nombre del elemento calculado como los nombres de los elementos de intersección.
+Por ejemplo, es posible que tenga una fórmula predeterminada para un elemento calculado llamado MiElemento y otra fórmula para este elemento identificada como Ventas de enero de MiElemento . En la tabla dinámica, debería buscar esta fórmula en la celda Ventas de la fila MiElemento y la columna Enero.
+Siga adelante mediante uno de los siguientes métodos de edición.
+Editar una fórmula de campo calculado
+Seleccione la tabla dinámica.
+Se mostrarán las herramientas de tabla dinámica y se agregarán las pestañas Analizar y Diseño .
+En la pestaña Analizar , en el grupo Cálculos , seleccione Campos, Elementos & Conjuntos y, después, seleccione Campo calculado .
+En el cuadro Nombre , seleccione el campo calculado para el que quiere cambiar la fórmula.
+En el cuadro Fórmula , edite la fórmula.
+Seleccione Modificar .
+Editar una única fórmula para un elemento calculado
+Seleccione el campo que contiene el elemento calculado.
+En la pestaña Analizar , en el grupo Cálculos , seleccione Campos, Elementos & Conjuntos y, después, seleccione Elemento calculado .
+En el cuadro Nombre , seleccione el elemento calculado.
+En el cuadro Fórmula , edite la fórmula.
+Seleccione Modificar .
+Editar una fórmula individual para una celda específica de un elemento calculado
+Seleccione una celda cuya fórmula quiera cambiar.
+Para cambiar la fórmula de varias celdas, mantenga presionada la tecla CTRL y seleccione las celdas adicionales.
+En la barra de fórmulas, escriba los cambios en la fórmula.
+Recomendación
+Si tiene varios elementos calculados o fórmulas, puede ajustar el orden de cálculo. Para obtener más información, vea Ajustar el orden de cálculo para varios elementos calculados o fórmulas .
+Eliminar una fórmula de tabla dinámica
+Nota
+Al eliminar una fórmula de tabla dinámica, esta se quita permanentemente. Si no quiere quitar una fórmula de forma permanente, puede ocultar el campo o un elemento en su lugar arrastrándola fuera de la tabla dinámica.
+Determine si la fórmula está en un campo calculado o en un elemento calculado.
+Los campos calculados aparecen en la lista de campos de tabla dinámica. Los elementos calculados aparecen como elementos dentro de otros campos.
+Siga uno de estos procedimientos:
+Para eliminar un campo calculado, haga clic en cualquier parte de la tabla dinámica.
+Para eliminar un elemento calculado, en la tabla dinámica, seleccione el campo que contiene el elemento que quiere eliminar.
+Se mostrarán las herramientas de tabla dinámica y se agregarán las pestañas Analizar y Diseño .
+En la pestaña Analizar , en el grupo Cálculos , seleccione Campos, Elementos & Conjuntos y, después, Campo calculado o Elemento calculado .
+En el cuadro Nombre , seleccione el campo o el elemento que quiere eliminar.
+Seleccione Eliminar .
+Para resumir valores en una tabla dinámica en Excel para la Web, puede usar funciones de resumen, como Suma, Contar y Promedio. La función Suma se usa de forma predeterminada para valores numéricos en los campos de valor. Se puede ver y editar una tabla dinámica basada en un origen de datos OLAP, pero no podrá crear una en Excel para la Web.
+Aquí verá cómo elegir una función de resumen diferente:
+Seleccione cualquier lugar de la tabla dinámica y, después, seleccione Lista de campos de tabla > dinámica. También puede hacer clic con el botón derecho en la tabla dinámica y seleccionar Mostrar lista de campos .
+En la lista Campos de tabla dinámica , en Valores , seleccione la flecha junto al campo de valor.
+Seleccione Configuración del campo de valor .
+Elija la función de resumen que quiera y seleccione Aceptar .
+Nota
+Las funciones de resumen no están disponibles en tablas dinámicas que se basan en datos de origen de procesamiento analítico en línea (OLAP).
+Use esta función de resumen
+Para calcular
+Suma
+La suma de los valores. Se usa de forma predeterminada para los campos de valor que tienen valores numéricos.
+Contar
+El número de valores no vacíos. La función de resumen Contar funciona del mismo modo que la función CONTARA . Contar se usa de forma predeterminada para los campos de valor que tienen valores no numéricos o espacios en blanco.
+PROMEDIO
+El promedio de los valores.
+MAX
+El valor máximo.
+MIN
+El valor mínimo.
+PRODUCTO
+El producto de los valores.
+Contar números
+El número de valores que contienen números (no es lo mismo que Contar, que incluye valores no vacíos).
+DESVEST
+Un cálculo de la desviación estándar de una población, donde la muestra es un subconjunto de toda la población.
+DESVESTP
+Un cálculo de la desviación estándar de una población, donde la población son todos los datos que van a resumirse.
+VAR
+Un cálculo de la varianza de una población, donde la muestra es un subconjunto de toda la población.
+VARP
+La varianza de una población, donde la población son todos los datos que van a resumirse.
+Importante
+La tabla dinámica en iPad está disponible para los clientes que ejecutan Excel en iPad versión 2.82.205.0 y posteriores. Para acceder a esta característica, asegúrese de que la aplicación está actualizada a la versión más reciente a través de la App Store.
+Para resumir valores en una tabla dinámica en Excel para iPad, puede usar funciones de resumen, como Suma , Contar y Promedio . La función Suma se usa de forma predeterminada para valores numéricos en los campos de valor. Se puede ver y editar una tabla dinámica basada en un origen de datos OLAP, pero no podrá crear una en Excel para iPad.
+Aquí verá cómo elegir una función de resumen diferente:
+Pulse en cualquier lugar de la tabla dinámica, seleccione la pestaña Tabla dinámica y, después, seleccione Lista de campos . Es posible que deba deslizar el dedo hacia la izquierda para seleccionar Lista de campos .
+En la lista Campos de tabla dinámica , en Valores , pulse los puntos suspensivos situados junto al campo de valor.
+Toque Ver configuración de campo y, a continuación, marque la función de resumen que desee.
+Nota
+Las funciones de resumen no están disponibles en tablas dinámicas que se basan en datos de origen de procesamiento analítico en línea (OLAP).
+Use esta función de resumen
+Para calcular
+Suma
+La suma de los valores. Se usa de forma predeterminada para los campos de valor que tienen valores numéricos.
+Contar
+El número de valores no vacíos. La función de resumen Contar funciona del mismo modo que la función CONTARA . Contar se usa de forma predeterminada para los campos de valor que tienen valores no numéricos o espacios en blanco.
+PROMEDIO
+El promedio de los valores.
+MAX
+El valor máximo.
+MIN
+El valor mínimo.
+PRODUCTO
+El producto de los valores.
+Contar números
+El número de valores que contienen números (no es lo mismo que Contar, que incluye valores no vacíos).
+DESVEST
+Un cálculo de la desviación estándar de una población, donde la muestra es un subconjunto de toda la población.
+DESVESTP
+Un cálculo de la desviación estándar de una población, donde la población son todos los datos que van a resumirse.
+VAR
+Un cálculo de la varianza de una población, donde la muestra es un subconjunto de toda la población.
+VARP
+La varianza de una población, donde la población son todos los datos que van a resumirse.
+¿Necesita más ayuda?
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades .
+¿Te resultó útil esta información?
+Sí
+No
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+¡Gracias por sus comentarios!
+×
+Novedades
+Surface Pro
+Surface Laptop
+Copilot para organizaciones
+Copilot para uso personal
+Microsoft 365
+Explora los productos de Microsoft
+Aplicaciones de Windows 11
+Microsoft Store
+Perfil de la cuenta
+Centro de descarga
+Soporte de Microsoft Store
+Devoluciones
+Seguimiento de pedidos
+Reciclar
+Garantías comerciales
+Educación
+Microsoft Educación
+Dispositivos para educación
+Microsoft Teams para Educación
+Microsoft 365 Educación
+Office Educación
+Formación y desarrollo de educadores
+Ofertas para estudiantes y padres
+Azure para estudiantes
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft 365 Copilot
+Microsoft Teams
+Pequeñas empresas
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Empresas de software
+Visual Studio
+Compañía
+Oportunidades de empleo
+Acerca de Microsoft
+Noticias de la compañía
+Privacidad en Microsoft
+Inversores
+Español (España, alfabetización internacional)
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Privacidad de la salud del consumidor
+Ponte en contacto con Microsoft
+Privacidad
+Gestionar cookies
+Condiciones de uso
+Marcas registradas
+Sobre nuestra publicidad
+Docs de cumplimiento de la UE
+© Microsoft 2026

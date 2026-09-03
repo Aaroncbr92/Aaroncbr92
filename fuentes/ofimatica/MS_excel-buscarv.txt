@@ -1,0 +1,792 @@
+Función CONSULTAV | Microsoft Support
+Saltar al contenido principal
+Microsoft
+Soporte técnico
+Soporte técnico
+Soporte técnico
+Inicio
+Microsoft 365
+Office
+Productos
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+más ...
+Dispositivos
+Surface
+Accesorios de PC
+Xbox
+Juegos en PC
+HoloLens
+Surface Hub
+Garantías de hardware
+Cuenta y facturación
+Recursos
+Foros de la comunidadForos de la comunidad
+Administradores de Microsoft 365
+Desarrollador
+Educación
+Comunicar una estafa de soporte técnico
+Seguridad del producto
+Más
+Comprar Microsoft 365
+Todo Microsoft
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+Ofertas
+Pequeñas empresas
+Soporte
+Software
+Software
+Aplicaciones Windows
+OneDrive
+Outlook
+Paso de Skype a Teams
+OneNote
+Microsoft Teams
+PCs y dispositivos
+PCs y dispositivos
+Comprar XBOX
+Accesorios
+Entretenimiento
+Entretenimiento
+XBOX Game Pass Ultimate
+XBOX y juegos
+Juegos para PC
+Empresas
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365 para empresas
+Microsoft Power Platform
+Windows 365
+Soberanía digital
+Desarrolladores y TI
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Empresas de software
+Visual Studio
+Otro
+Otro
+Microsoft Rewards
+Seguridad y descargas gratuitas
+Educación
+Tarjetas regalo
+Licenciamiento
+Ver mapa del sitio
+Buscar
+Búsqueda de ayuda
+Sin resultados
+Cancelar
+Iniciar sesión
+Iniciar sesión con Microsoft
+Iniciar sesión o crear una cuenta
+Hola:
+Seleccione una cuenta diferente.
+Tiene varias cuentas
+Elija la cuenta con la que desea iniciar sesión.
+Temas relacionados
+Temas relacionados
+×
+ABS
+INT.ACUM
+INT.ACUM.V
+ACOS
+ACOSH
+ACOT
+ACOTH
+DIRECCIÓN
+AGREGAR
+AMORTIZ.PROGRE
+AMORTIZ.LIN
+Y
+NUMERO.ARABE
+AREAS
+MATRIZATEXTO
+ASC
+ASENO
+ASENOH
+ATAN
+ATAN2
+ATANH
+DESVPROM
+PROMEDIO
+AVERAGEA
+PROMEDIO.SI
+PROMEDIO.SI.CONJUNTO
+TEXTOBAHT
+BASE
+BESSELI
+BESSELJ
+BESSELK
+BESSELY
+BETA. DIST
+BETA. INV
+DISTR.BETA
+DISTR.BETA.INV
+BIN.A.DEC
+BIN.A.HEX
+BIN.A.OCT
+BINOM. DIST
+BINOM. DIST. RANGO
+BINOM. INV
+DISTR.BINOM
+BIT.Y
+BIT.DESPLIZQDA
+BITOR
+BIT.DESPLDCHA
+BIT.XID
+BYCOL
+BYROW
+LLAMAR
+MULTIPLO.SUPERIOR
+DE TECHO. MATEMÁTICAS
+MULTIPLO.SUPERIOR.EXACTO
+CELDA
+CARÁCTER
+DISTR.CHI
+PRUEBA.CHI.INV
+CHISQ. DIST
+CHISQ. DIST. Puerta de enlace
+CHISQ. INV
+CHISQ. INV. Puerta de enlace
+CHISQ. PRUEBA
+PRUEBA.CHI
+ELEGIR
+ELEGIRCOLS
+ELEGIRFILAS
+LIMPIAR
+CÓDIGO
+COLUMN
+COLUMNS
+COMBINAT
+COMBINA
+COMPLEJO
+CONCAT
+CONCATENAR
+INTERVALO.CONFIANZA
+CONFIANZA. NORMA
+CONFIANZA. T
+CONVERT
+COPILOT
+COEF.DE.CORREL
+COS
+COSH
+COT
+COTH
+CONTAR
+CONTARA
+COUNTBLANK
+CONTAR.SI.CONJUNTO
+CUPON.DIAS.L1
+COUPDACUPON.DIAS
+CUPON.DIAS.L2
+CUPON.FECHA.L2
+CUPON.NUM
+CUPON.FECHA.L1
+COVAR
+COVARIANZA. P
+COVARIANZA. S
+BINOM.CRIT
+CSC
+CSCH
+MIEMBROKPICUBO
+MIEMBROCUBO
+PROPIEDADMIEMBROCUBO
+MIEMBRORANGOCUBO
+CONJUNTOCUBO
+RECUENTOCONJUNTOCUBO
+VALORCUBO
+PAGO.INT.ENTRE
+PAGO.PRINC.ENTRE
+FECHA
+SIFECHA
+FECHANUMERO
+BDPROMEDIO
+DAY
+DIAS
+DIAS360
+NOSQL
+DBCS
+BDCONTAR
+BDCONTARA
+DDB
+DEC.A.BIN
+DEC.A.HEX
+DEC.A.OCT
+DECIMAL
+GRADOS
+DELTA
+DETECTARIDIOMA
+DESVIA2
+BDEXTRAER
+DISC
+BDMAX
+BDMIN
+MONEDA
+MONEDA.DEC
+MONEDA.FRAC
+BDPRODUCTO
+DROP
+BDDESVEST
+BDDESVESTP
+BDSUMA
+DURACIÓN
+BDVAR
+BDVARP
+FECHA.MES
+INT.EFECTIVO
+URLCODIF
+FIN.MES
+FUN.ERROR
+ERROR. PRECISO
+FUN.ERROR.COMPL
+ERFC. PRECISO
+TIPO.DE.ERROR
+EUROCONVERT
+REDONDEA.PAR
+EXACT
+EXP
+EXPANDIR
+EXPÓN. DIST
+DISTR.EXP
+DISTR.F.IST
+DISTRIBUCIÓN DE F.CD. Puerta de enlace
+INV.F
+F.INV. Puerta de enlace
+F.PRUEBA
+FACT
+FACT.DOBLE
+Falsa
+DISTR.F
+VALORCAMPO
+FILTRAR
+XMLFILTRO
+DISTR.F.INV
+FISHER
+PRUEBA.FISHER.INV
+CORREGIDO
+MULTIPLO.INFERIOR
+PISO. MATEMÁTICAS
+MULTIPLO.INFERIOR.EXACTO
+FORECAST.AND.FORECAST.LINEAR.FUNCTIONS.MD
+PRONÓSTICO. ETS
+PRONÓSTICO. ETS. CONFINT
+PRONÓSTICO. ETS. ESTACIONALIDAD
+PRONÓSTICO. ETS. ESTADÍSTICAS
+FORECASTING.FUNCTIONS.REFERENCE.MD
+FORMULATEXTO
+FRECUENCIA
+PRUEBA.F
+VF
+VF.PLAN
+GAMMA
+GAMMA. DIST
+GAMMA. INV
+DISTR.GAMMA
+DISTR.GAMMA.INV
+GAMMA.LN
+GAMMALN. PRECISO
+GAUSS
+M.C.D
+MEDIA.GEOM
+MAYOR.O.IGUAL
+IMPORTARDATOSDINAMICOS
+AGRUPARPOR
+CRECIMIENTO
+MEDIA.ARMO
+HEX.A.BIN
+HEX.A.DEC
+HEX.A.OCT
+OCULTO
+BUSCARH
+HOUR
+APILARH
+HIPERVÍNCULO
+DISTR.HIPERGEOM.N
+DISTR.HIPERGEOM
+SI
+SI.ERROR
+SI.ND
+SI.CONJUNTO
+IM.ABS
+IMAGEN
+IMAGINARIO
+IM.ANGULO
+IM.CONJUGADA
+IM.COS
+IM.COSH
+IM.COT
+IM.CSC
+IM.CSCH
+IMDIV
+IM.EXP
+IM.LN
+IM.LOG10
+IM.LOG2
+IMPORTCSV
+IMPORTTEXT
+IM.POT
+IM.PRODUCT
+IM.REAL
+IM.SEC
+IM.SECH
+IM.SENO
+IMSINH
+IM.RAIZ2
+IM.SUSTR
+IM.SUM
+IMTAN
+INDEX
+INDIRECT
+INFORMACIÓN
+INT
+INTERSECCION.EJE
+TASA.INT
+PAGOINT
+TIR
+IS.FUNCTIONS.MD
+ISEVEN
+ESFORMULA
+ISO. TECHO
+ES.IMPAR
+ISOMITTED
+ISO.NUM.DE.SEMANA
+INT.PAGO.DIR
+JIS
+CURTOSIS
+LAMBDA
+K.ESIMO.MAYOR
+M.C.M
+LEFT
+LEN
+LET
+ESTIMACION.LINEAL
+LN
+LOG
+LOG10
+ESTIMACION.LOGARITMICA
+DISTR.LOG.INV
+LOGNORM. DIST
+LOGNORM. INV
+DISTR.LOG.NORM
+BUSCAR
+LOWER
+ARCHIVOMAKEARRAY
+MAPEAR
+MATCH
+MAX
+MAXA
+MAX.SI.CONJUNTO
+MDETERM
+DURACION.MODIF
+MEDIANA
+EXTRAE
+MIN
+MINA
+MIN.SI.CONJUNTO
+MINUTE
+MINVERSA
+TIRM
+MMULT
+RESIDUO
+MODA
+DE MODA. VARIOS
+MODA.UNO
+MONTH
+REDOND.MULT
+MULTINOMIAL
+MUNIDAD
+N
+N/D
+NEGBINOM. DIST
+NEGBINOMDIST
+DIAS.LAB
+DÍAS DE RED. INTL
+TASA.NOMINAL
+NORMA. DIST
+NORMA. INV
+NORMA. S.DIST
+NORMA. S.INV
+DISTR.NORM
+DISTR.NORM.INV
+DISTR.NORM.ESTAND
+DISTR.NORM.ESTAND.INV
+NO
+AHORA
+NPER
+VNA
+VALOR.NUMERO
+OCT.A.BIN
+OCT.A.DEC
+OCT.A.HEX
+REDONDEA.IMPAR
+PRECIO.PER.IRREGULAR.1
+RENDTO.PER.IRREGULAR.1
+PRECIO.PER.IRREGULAR.2
+RENDTO.PER.IRREGULAR.2
+DESREF
+O bien
+PDURACIÓN
+PEARSON
+PERCENTIL
+PERCENTIL.EXC
+PERCENTIL.INC
+PERCENTOF
+RANGO.PERCENTIL
+RANGO PORCENTUAL. EXC
+RANGO PORCENTUAL. INC (en inglés)
+PERMUTACIONES
+PERMUTACIONES
+FI
+FONETICO
+PI
+PIVOTARPOR
+PAGO
+POISSON
+POISSON. DIST
+ALIMENTACIÓN
+PAGOPRIN
+PRECIO
+PRECIO.DESCUENTO
+PRECIO.VENCIMIENTO
+PROBABILIDAD
+PRODUCTO
+NOMPROPIO
+VA
+PY
+CUARTIL
+QUARTILCUARTIL.EXC
+CUARTIL.INC
+COCIENTE
+RADIANS
+RAND
+MATRIZALEAT
+RANDBETWEEN
+JERARQUIA
+RANGO. AVG
+RANK.EQ
+TASA
+CANTIDAD.RECIBIDA
+REDUCE
+EXTRACCIÓN DE REGEX
+REEMPLAZAR REGEX
+PRUEBA DE REGEX
+ID.REGISTRO
+REPLACE
+REPT
+DERECHA
+NUMERO.ROMANO
+REDONDEAR
+REDONDEAR.MENOS
+REDONDEAR.MAS
+FILA
+FILAS
+RRI
+COEFICIENTE.R2
+RDTR
+ESCANER
+HALLAR
+SEC
+SECH
+SECOND
+SECUENCIA
+SUMA.SERIES
+HOJA
+HOJAS
+SIGNO
+SEN
+SENOH
+COEFICIENTE.ASIMETRIA
+ASIMÉTRICO. P
+SLN
+PENDIENTE
+K.ESIMO.MENOR
+ORDENAR
+ORDENAR POR
+RAIZ
+RAIZ2PI
+NORMALIZACION
+DESVEST
+DESVEST.P
+DESVEST.M
+DESVESTA
+DESVESTP
+DESVESTPA
+ERROR.TIPICO.XY
+HISTORIALCOTIZACIONES
+SUSTITUIR
+SUBTOTALES
+SUMA
+SUMAR.SI
+SUMAR.SI.CONJUNTO
+SUMAPRODUCTO
+SUMA.CUADRADOS
+SUMAX2MENOSY2
+SUMAX2MASY2
+SUMAXMENOSY2
+CAMBIAR
+SYD
+T
+T.DIST
+DISTR.T.2C
+DISTR.T. Puerta de enlace
+INV.T
+INV.T.2C
+PRUEBA.T
+TOMAR
+TAN
+TANH
+LETRA.DE.TEST.EQV.A.BONO
+LETRA.DE.TES.PRECIO
+LETRA.DE.TES.RENDTO
+DISTR.T
+TEXT
+TEXTODESPUES
+TEXTOANTES
+UNIRCADENAS
+DIVIDIRTEXTO
+HORA
+HORANUMERO
+DISTR.T.INV
+ENCOL
+HOY
+ENFILA
+TRANSLATE
+TRANSPONER
+TENDENCIA
+TRIM
+MEDIA.ACOTADA
+TRIMRANGE
+Verdadera
+TRUNCAR
+PRUEBA.T
+TIPO
+UNICAR
+UNICODE
+UNIQUE
+UPPER
+VALUE
+VALORATEXTO
+VAR
+VAR.P
+VAR.M
+VARA
+VARP
+VARPA
+DVS
+BUSCARV
+APILARV
+SERVICIO WEB
+DIASEM
+NUM.DE.SEMANA
+DIST.WEIBULL
+WEIBULL. DIST
+DIA.LAB
+DÍA DE TRABAJO. INTL
+AJUSTARCOLS
+AJUSTARFILAS
+TIR.NO.PER
+XLOOKUP
+COINCIDIRX
+VNA.NO.PER
+XO
+YEAR
+FRAC.AÑO
+RENDTO
+RENDTO.DESC
+RENDTO.VENCTO
+Z.TEST
+PRUEBA.Z
+Función CONSULTAV
+Se aplica a Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016
+Obtener ayuda con Copilot
+¿Cómo uso la función BUSCARV en Excel?
+Muéstrame alternativas modernas a VLOOKUP
+Escribe una fórmula de BUSCARV (VLOOKUP) que deba pegar usando mis datos ([lookup_value], [lookup_column], [table_range], [return_col]) y, como no puedes ver mi libro, dime también qué debo reemplazar si mi valor de búsqueda está en otra celda y cuándo usar FALSO vs VERDADERO.
+Recomendación
+Pruebe a usar la nueva función BUSCARX , una versión mejorada de BUSCARV que funciona en cualquier dirección y devuelve coincidencias exactas de forma predeterminada, lo que facilita y resulta más cómodo de usar que su predecesor.
+Use BUSCARV cuando necesite encontrar elementos en una tabla o un rango por fila. Por ejemplo, puede buscar el precio de una pieza de automóvil por el número de pieza o buscar el nombre de un empleado en función de su Id. de empleado.
+En su forma más simple, la función BUSCARV indica lo siguiente:
+=BUSCARV(Lo que desea buscar; dónde quiere buscarlo; el número de columna en el rango que contiene el valor a devolver; devuelve una Coincidencia exacta o Coincidencia aproximada, indicada como 1/TRUE o 0/FALSE).
+Recomendación
+El secreto de BUSCARV es organizar los datos de forma que el valor que busque (fruta) esté a la izquierda del valor devuelto (cantidad) que desea encontrar.
+Si es suscriptor de Microsoft Copilot, Copilot puede facilitar aún más la inserción y el uso de las funciones VLookup o XLookup. Consulte Obtener información de datos con Copilot en Excel.
+Detalles técnicos
+Use la función BUSCARV para buscar un valor en una tabla.
+Sintaxis
+BUSCARV (valor_buscado, matriz_buscar_en, indicador_columnas, [ordenado])
+Por ejemplo:
+=BUSCARV(A2;A10:C20;2;TRUE)
+=BUSCARV("Fontana";B2:E7;2;FALSE)
+=BUSCARV(A2,'Detalles del cliente'! A:F,3,FALSE)
+Nombre del argumento
+Descripción
+valor_buscado (requerido)
+El valor que desea buscar. El valor que desea buscar debe estar en la primera columna del rango de celdas que especifique en el argumento table_array .
+Por ejemplo, si la matriz de la tabla abarca las celdas B2:D7, la lookup_value debe estar en la columna B.
+Lookup_value puede ser un valor o una referencia a una celda.
+matriz_buscar_en (obligatorio)
+El rango de celdas en las que BUSCARV buscará el lookup_value y el valor devuelto. Puede usar un rango con nombre o una tabla, y puede usar nombres en el argumento en lugar de referencias de celda.
+La primera columna del rango de celdas debe contener el lookup_value . El rango de celdas también debe incluir el valor devuelto que desea buscar.
+indicador_columnas (requerido)
+El número de columna (a partir de 1 para la columna situada más a la izquierda de table_array ) que contiene el valor devuelto.
+ordenado (opcional)
+Un valor lógico que especifica si desea que BUSCARV busque una coincidencia exacta o aproximada:
+Coincidencia aproximada - 1/TRUE da por sentado que la primera columna en la tabla está ordenada, ya sea alfabéticamente o numéricamente, y buscará el valor más próximo. Este es el método predeterminado si no especifica uno. Por ejemplo, =BUSCARV(90;A1:B100;2;TRUE).
+Coincidencia exacta - 0/FALSE busca el valor exacto en la primera columna. Por ejemplo, =BUSCARV("Smith";A1:B100;2;FALSE).
+Primeros pasos
+Hay cuatro partes de la información que necesita para crear la sintaxis de BUSCARV:
+El valor que desea buscar, también conocido como el valor de búsqueda.
+El rango donde se encuentra el valor de búsqueda. Recuerde que el valor de búsqueda debe estar siempre en la primera columna del rango para que BUSCARV funcione correctamente. Por ejemplo, si el valor de la búsqueda está en la celda C2, su rango debería empezar con C.
+El número de columna del rango que contiene el valor devuelto. Por ejemplo, si especifica B2:D11 como el rango, B se debe contar como la primera columna, C como la segunda y así sucesivamente.
+Opcionalmente, puede especificar VERDADERO si desea una coincidencia aproximada o FALSO si desea una coincidencia exacta del valor devuelto. Si no especifica nada, el valor predeterminado siempre será VERDADERO o la coincidencia aproximada.
+Ahora coloque todas las respuestas anteriores de la siguiente forma:
+=BUSCARV(valor de búsqueda; rango que contiene el valor de búsqueda; el número de columna del rango que contiene el valor devuelto; Coincidencia aproximada (TRUE) o Coincidencia exacta (FALSE)).
+Ejemplos
+Estos son algunos ejemplos de BUSCARV:
+Ejemplo 1
+Ejemplo 2
+Ejemplo 3
+Ejemplo 4
+Ejemplo 5
+Problemas comunes
+Problema
+Qué ha fallado
+Valor devuelto incorrecto
+Si range_lookup es VERDADERO o se omite, es necesario ordenar la primera columna alfabéticamente o numéricamente. Si la primera columna no está ordenada, el valor devuelto puede ser algo inesperado. Puede ordenar la primera columna o usar FALSO para obtener una coincidencia exacta.
+#N/A en la celda
+Si range_lookup es VERDADERO, si el valor de la lookup_value es menor que el valor más pequeño de la primera columna del table_array , obtendrá el valor de error #N/A.
+Si range_lookup es FALSO, el valor de error #N/A indica que no se ha encontrado el número exacto.
+Para obtener más información sobre cómo resolver los errores # n/a en BUSCARV, vea Cómo corregir un error #N/A en la función BUSCARV .
+#¡REF! en la celda
+Si col_index_num es mayor que el número de columnas de la matriz de tabla , obtendrá el #REF. valor de error.
+Para obtener más información sobre cómo resolver los errores #REF! en BUSCARV, vea Cómo corregir un error #REF! .
+#¡VALOR! en la celda
+Si el table_array es inferior a 1, ¡obtendrá el #VALUE! valor de error.
+Para obtener más información sobre cómo resolver los errores #VALUE! en BUSCARV, vea Cómo corregir un error #VALUE! en la función BUSCARV .
+#¿NOMBRE? en la celda
+¿El #NAME? normalmente significa que en la fórmula faltan comillas. Para buscar el nombre de una persona, asegúrese de que el nombre aparece entre comillas en la fórmula. Por ejemplo, escriba el nombre como "López" en =BUSCARV( "López",B2:E7,2,FALSO).
+Para obtener más información, vea Cómo corregir un error #NAME! .
+#SPILL! en la celda
+Este error #SPILL! concreto suele significar que la fórmula se basa en la intersección implícita para el valor de búsqueda y en el uso de una columna completa como referencia. Por ejemplo, =BUSCARV( A:A,A :C,2,FALSE). Puede resolver el problema delimitando la referencia de búsqueda con el operador @ de la siguiente manera: =BUSCARV( @A:A ;A:C;2;FALSE). Como alternativa, puede usar el método tradicional BUSCARV y hacer referencia a una sola celda en lugar de a una columna completa: =BUSCARV( A2 ;A:C;2;FALSE).
+Prácticas recomendadas
+Haz esto
+¿Por qué?
+Use referencias absolutas para range_lookup
+Las referencias absolutas le permiten rellenar hacia abajo una fórmula, de manera que siempre se busca en el mismo rango de búsqueda.
+Aprenda a usar referencias de celda absolutas .
+No almacene valores de fechas o números como texto.
+Al buscar valores de fechas o números, asegúrese de que los datos de la primera columna de table_array no se almacenen como valores de texto. De ser así, BUSCARV puede devolver un valor incorrecto o inesperado.
+Ordene la primera columna.
+Ordene la primera columna del table_array antes de usar BUSCARV cuando range_lookup sea VERDADERO.
+Use caracteres comodín.
+Si range_lookup es FALSO y lookup_value es texto, puede usar los caracteres comodín de signo de interrogación (?) y asterisco (*) en lookup_value . El signo de interrogación reemplaza cualquier carácter individual. El asterisco reemplaza cualquier secuencia de caracteres. Si lo que desea buscar es un signo de interrogación o un asterisco, escriba una tilde (~) antes del carácter.
+Por ejemplo, =BUSCARV("Fontan?";B2:E7;2;FALSE) buscará todas las instancias de Fontana con una última letra que podría variar.
+Asegúrese de que los datos no contienen caracteres incorrectos.
+Al buscar valores de texto en la primera columna, asegúrese de que los datos de la primera columna no contienen espacios al principio ni al final, de que no haya un uso incoherente de las comillas rectas (' o ") ni tipográficas (' o ") y de que no haya caracteres no imprimibles. En estos casos, BUSCARV puede devolver un valor inesperado o incorrecto.
+Para obtener resultados, pruebe a usar la función LIMPIAR o la función ESPACIOS para eliminar los espacios finales detrás de los valores de tabal en una celda.
+¿Necesitas más ayuda?
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades .
+¿Te resultó útil esta información?
+Sí
+No
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+¡Gracias por sus comentarios!
+×
+Novedades
+Surface Pro
+Surface Laptop
+Copilot para organizaciones
+Copilot para uso personal
+Microsoft 365
+Explora los productos de Microsoft
+Aplicaciones de Windows 11
+Microsoft Store
+Perfil de la cuenta
+Centro de descarga
+Soporte de Microsoft Store
+Devoluciones
+Seguimiento de pedidos
+Reciclar
+Garantías comerciales
+Educación
+Microsoft Educación
+Dispositivos para educación
+Microsoft Teams para Educación
+Microsoft 365 Educación
+Office Educación
+Formación y desarrollo de educadores
+Ofertas para estudiantes y padres
+Azure para estudiantes
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft 365 Copilot
+Microsoft Teams
+Pequeñas empresas
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Empresas de software
+Visual Studio
+Compañía
+Oportunidades de empleo
+Acerca de Microsoft
+Noticias de la compañía
+Privacidad en Microsoft
+Inversores
+Español (España, alfabetización internacional)
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Privacidad de la salud del consumidor
+Ponte en contacto con Microsoft
+Privacidad
+Gestionar cookies
+Condiciones de uso
+Marcas registradas
+Sobre nuestra publicidad
+Docs de cumplimiento de la UE
+© Microsoft 2026

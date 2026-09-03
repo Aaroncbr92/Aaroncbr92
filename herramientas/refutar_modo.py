@@ -173,6 +173,25 @@ def main():
     # actas de liquidación—. Se juntan los textos de todas las fuentes que
     # tengan ese número: la salvedad se da por recogida si está en alguna
     fuentes = [articulos(open(f, encoding="utf-8").read()) for f in sys.argv[2:]]
+    # Juntar los textos salva de comparar contra la norma equivocada, pero abre
+    # el fallo simétrico: si **dos fuentes numeran igual un artículo** y sólo una
+    # de las dos lleva salvedad, el bloque del tema —que habla de la otra— sale
+    # marcado por no recoger una salvedad que no es suya. Es un hallazgo
+    # inventado, y como tal no se puede distinguir del bueno leyéndolo. Se avisa
+    # de la colisión, igual que hace la lente de exactitud, para que quien lea la
+    # lista sepa cuáles de sus líneas hay que mirar dos veces.
+    usados = {n for nums in bloques(tema) for n in nums}
+    if len(fuentes) > 1:
+        repes = sorted((n for n in usados
+                        if sum(1 for a in fuentes if n in a) > 1), key=len)
+        if repes:
+            print("AVISO: estas fuentes numeran igual los artículos —%s—."
+                  % ", ".join(repes))
+            print("       Los hallazgos de esos números se comprueban contra la"
+                  " suma de las dos y pueden")
+            print("       ser falsos: la salvedad puede estar en la norma que el"
+                  " bloque no cita.")
+            print()
     hallazgos = 0
     for nums, texto in sorted(bloques(tema).items()):
         fuente = " ".join(a[n] for a in fuentes for n in nums if n in a)

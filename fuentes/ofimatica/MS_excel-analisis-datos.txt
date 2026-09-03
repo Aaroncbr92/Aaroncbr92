@@ -1,0 +1,286 @@
+Usar las Herramientas para análisis para realizar análisis de datos complejos | Microsoft Support
+Saltar al contenido principal
+Microsoft
+Soporte técnico
+Soporte técnico
+Soporte técnico
+Inicio
+Microsoft 365
+Office
+Productos
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+más ...
+Dispositivos
+Surface
+Accesorios de PC
+Xbox
+Juegos en PC
+HoloLens
+Surface Hub
+Garantías de hardware
+Cuenta y facturación
+Recursos
+Foros de la comunidadForos de la comunidad
+Administradores de Microsoft 365
+Desarrollador
+Educación
+Comunicar una estafa de soporte técnico
+Seguridad del producto
+Más
+Comprar Microsoft 365
+Todo Microsoft
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+Ofertas
+Pequeñas empresas
+Soporte
+Software
+Software
+Aplicaciones Windows
+OneDrive
+Outlook
+Paso de Skype a Teams
+OneNote
+Microsoft Teams
+PCs y dispositivos
+PCs y dispositivos
+Comprar XBOX
+Accesorios
+Entretenimiento
+Entretenimiento
+XBOX Game Pass Ultimate
+XBOX y juegos
+Juegos para PC
+Empresas
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365 para empresas
+Microsoft Power Platform
+Windows 365
+Soberanía digital
+Desarrolladores y TI
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Empresas de software
+Visual Studio
+Otro
+Otro
+Microsoft Rewards
+Seguridad y descargas gratuitas
+Educación
+Tarjetas regalo
+Licenciamiento
+Ver mapa del sitio
+Buscar
+Búsqueda de ayuda
+Sin resultados
+Cancelar
+Iniciar sesión
+Iniciar sesión con Microsoft
+Iniciar sesión o crear una cuenta
+Hola:
+Seleccione una cuenta diferente.
+Tiene varias cuentas
+Elija la cuenta con la que desea iniciar sesión.
+Usar las Herramientas para análisis para realizar análisis de datos complejos
+Se aplica a Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2019 Excel 2016
+Si necesita desarrollar análisis estadísticos o de ingeniería complejos, puede ahorrar pasos y tiempo utilizando el ToolPak de análisis. Deberá proporcionar los datos y parámetros para cada análisis, y la herramienta utilizará las funciones de macros estadísticas o técnicas correspondientes para realizar los cálculos y mostrar los resultados en una tabla de resultados. Algunas herramientas generan gráficos además de tablas de resultados.
+Las funciones de análisis de datos solo pueden utilizarse en una única hoja de cálculo a la vez. Cuando se analizan los datos de hojas agrupadas, los resultados aparecerán en la primera hoja, y en las hojas restantes aparecerán tablas con formato vacías. Para analizar los datos del resto de las hojas, actualice la herramienta de análisis para cada una de ellas.
+Las Herramientas para análisis incluyen las herramientas que se describen en las secciones a continuación. Para acceder a estas herramientas, seleccione Análisis de datos en la pestaña Datos . Si el comando Análisis de datos no está disponible, debe cargar y activar el programa complementario Herramientas para análisis .
+Cargar y activar las Herramientas para análisis
+Para cargar y activar el paquete de herramientas de análisis:
+En Excel para Mac , en el menú Archivo, vaya a Complementos de Excel de Herramientas >.
+En Excel para Windows :
+Seleccione Archivo , Opciones y, a continuación, seleccione Complementos .
+En el cuadro Administrar , seleccione Complementos de Excel y, después, seleccione Ir .
+En el cuadro Complementos , active la casilla Herramientas para análisis y, luego, haga clic en Aceptar .
+Si Herramientas para análisis no se enumera en el cuadro Complementos disponibles , haga clic en Examinar para encontrarlo.
+Si se le pregunta si el paquete de herramientas para análisis no está instalado actualmente en el equipo, seleccione Sí para instalarlo.
+Nota
+Para incluir funciones de Visual Basic para Aplicaciones (VBA) en las Herramientas para análisis, puede cargar el complemento Herramientas para análisis - VBA de la misma manera que se carga Herramientas para análisis. En el cuadro Complementos disponibles active la casilla Herramientas para análisis - VBA .
+Varianza
+Las herramientas de análisis de varianza proporcionan distintos tipos de análisis de la varianza. La herramienta que debe usar depende del número de factores y del número de muestras que tenga de la población que desee comprobar.
+Varianza de un factor
+Esta herramienta realiza un análisis sencillo de la varianza de los datos de dos o más muestras. El análisis proporciona una prueba de la hipótesis de que cada muestra se extrae de la misma distribución de probabilidad subyacente frente a la hipótesis alternativa de que las distribuciones de probabilidad subyacentes no son las mismas para todas las muestras. Si solo hay dos muestras, puede usar la función de hoja de cálculo PRUEBA.T. Con más de dos muestras, no hay una generalización conveniente de T.TEST, y en su lugar se puede recurrir al modelo Anova de un solo factor.
+Varianza de dos factores con varias muestras por grupo
+Esta herramienta de análisis es útil cuando los datos se pueden clasificar de acuerdo con dos dimensiones diferentes. Por ejemplo, en un experimento para medir el alto de las plantas, las plantas pueden recibir diferentes marcas de fertilizante (por ejemplo, A, B o C) y también estar a temperaturas distintas (por ejemplo, alta o baja). Para cada uno de los seis pares {fertilizante, temperatura} posibles, tenemos un número igual de observaciones de alto de la planta. Con esta herramienta podemos comprobar:
+Si el alto de las plantas para las diferentes marcas de fertilizante se extrae de la misma población subyacente. Las temperaturas no se tienen en cuenta en este análisis.
+Si el alto de las plantas para los diferentes niveles de temperatura se extrae de la misma población subyacente. Las marcas de fertilizante no se tienen en cuenta en este análisis.
+Si habiendo tenido en cuenta los efectos de las diferentes marcas de fertilizante del primer punto con viñeta y las diferencias de temperatura del segundo punto con viñeta, las seis muestras que representan todos los pares de valores {fertilizante, temperatura} se extraen de la misma población. La hipótesis alternativa es que se produzcan efectos debidos a pares {fertilizante, temperatura} específicos más allá de las diferencias basadas solo en el fertilizante o solo en la temperatura.
+Varianza de dos factores con una sola muestra por grupo
+Esta herramienta de análisis es útil cuando los datos se clasifican en dos dimensiones diferentes, como en el caso de la varianza de dos factores con varias muestras por grupo. No obstante, con esta herramienta se supone que existe una única observación para cada par, por ejemplo, cada uno de los pares {fertilizante, temperatura} del ejemplo anterior.
+Correlación
+Las funciones COEF.DE.CORREL y PEARSON de la hoja de cálculo calculan el coeficiente de correlación entre dos variables de medida cuando se observan medidas de cada variable para cada uno de los N sujetos. (Cualquier observación faltante para cualquier tema hace que ese tema sea ignorado en el análisis). La herramienta de análisis de correlación es particularmente útil cuando hay más de dos variables de medición para cada uno de los N sujetos. Proporciona una tabla de resultados, una matriz de correlación que muestra el valor de COEF.DE.CORREL (o PEARSON ) aplicado a cada uno de los pares de variables de medida posibles.
+El coeficiente de correlación, al igual que la covarianza, es una medida de la medida en que dos variables de medición "varían juntas". A diferencia de la covarianza, el coeficiente de correlación se escala de manera que su valor sea independiente de las unidades en las que se expresan las dos variables de medición. (Por ejemplo, si las dos variables de medición son peso y altura, el valor del coeficiente de correlación no cambia si el peso se convierte de libras a kilogramos). El valor de cualquier coeficiente de correlación debe estar entre -1 y +1 inclusive.
+Puede utilizar la herramienta de análisis de correlación para examinar cada par de variables de medida a fin de determinar si las dos variables de medida tienden a variar conjuntamente, es decir, si los valores altos de una variable tienden a estar asociados con los valores altos de la otra (correlación positiva), si los valores bajos de una variable tienden a estar asociados con los valores bajos de la otra (correlación negativa) o si los valores de ambas variables tienden a no estar relacionados (correlación con tendencia a 0 (cero)).
+Covarianza
+Las herramientas Correlación y Covarianza pueden utilizarse con la misma configuración cuando se han observado N variables de medida diferentes en un grupo de individuos. Cada una de las herramientas Correlación y Covarianza proporciona una tabla de resultados, una matriz que muestra el coeficiente de correlación o covarianza, respectivamente, entre cada par de variables de medida. La diferencia es que los coeficientes de correlación están comprendidos entre -1 y +1, ambos inclusive. Las covarianzas correspondientes no se escalan. Tanto el coeficiente de correlación como la covarianza son medidas del grado en el que dos variables "varían juntas".
+La herramienta Covarianza calcula el valor de la función COVARIANZA de la hoja de cálculo . P para cada par de variables de medición. (Uso directo de COVARIANCE. P en lugar de la herramienta de covarianza es una alternativa razonable cuando solo hay dos variables de medición, es decir, N = 2). La entrada en la diagonal de la tabla de salida de la herramienta Covarianza en la fila i, columna i es la covarianza de la i-ésima variable de medición consigo misma. Esta es solo la varianza de la población para esa variable, calculada por la función de la hoja de cálculo VAR.P .
+Puede utilizar la herramienta Covarianza para examinar cada uno de los pares de variables de medida a fin de determinar si las dos variables de medida tienden a variar conjuntamente, es decir, si los valores altos de una variable tienden a estar asociados con los valores altos de la otra (correlación positiva), si los valores bajos de una variable tienden a estar asociados con los valores altos de la otra (correlación negativa) o si los valores de ambas variables tienden a no estar relacionados (correlación con tendencia a 0 (cero)).
+Estadística descriptiva
+La herramienta de análisis Estadística descriptiva genera un informe estadístico de una sola variable para los datos del rango de entrada, y proporciona información sobre la tendencia central y dispersión de los datos.
+Suavización exponencial
+La herramienta de análisis Suavización exponencial predice un valor que está basado en el pronóstico del período anterior, ajustado al error en ese pronóstico anterior. La herramienta utiliza la constante de suavización a , cuya magnitud determina la exactitud con la que los pronósticos responden a los errores en el pronóstico anterior.
+Nota
+Los valores de 0,2 a 0,3 son constantes de suavización adecuadas. Estos valores indican que el pronóstico actual debe ajustarse entre un 20 % y un 30 % del error en el pronóstico anterior. Las constantes mayores generan una respuesta más rápida, pero pueden producir proyecciones erróneas. Las constantes más pequeñas pueden dar como resultado retrasos prolongados en los valores pronosticados.
+Prueba t para varianzas de dos muestras
+La herramienta de análisis Prueba t para varianzas de dos muestras ejecuta una Prueba t de dos muestras para comparar dos varianzas de población.
+Por ejemplo, puede utilizar la Prueba t con muestras de los tiempos realizados por cada uno de los dos equipos de una competición de natación. La herramienta proporciona el resultado de la hipótesis nula de que estas dos muestras provengan de distribuciones con varianzas iguales frente a la alternativa de que las varianzas no sean iguales en las distribuciones subyacentes.
+La herramienta calcula el valor f de una estadística F (o proporción F). Un valor de f cercano a 1 proporciona pruebas de que las varianzas de población subyacentes son iguales. En la tabla de salida, si f < 1 "P (F <= f) una cola" da la probabilidad de observar un valor de la estadística F menor que f cuando las varianzas de la población son iguales, y "F Crítico una cola" da el valor crítico menor que 1 para el nivel de significación elegido, Alfa. Si f > 1, "P(F <= f) una cola" da la probabilidad de observar un valor de la estadística F mayor que f cuando las varianzas de la población son iguales, y "F Critical una cola" da el valor crítico mayor que 1 para Alpha.
+Análisis de Fourier
+La herramienta Análisis de Fourier resuelve problemas de sistemas lineales y analiza datos periódicos, transformándolos mediante el método de transformación rápida de Fourier (FFT, Fast Fourier Transform). Esta herramienta también realiza transformaciones inversas, en las que el inverso de los datos transformados devuelve los datos originales.
+Histograma
+La herramienta de análisis Histograma calcula las frecuencias individuales y acumulativas de rangos de celdas de datos y de clases de datos. Esa herramienta genera datos sobre el número de apariciones de un valor en un conjunto de datos.
+Por ejemplo, en una clase con 20 alumnos, puede determinarse la distribución de calificaciones mediante una categoría de puntuación por letras. Una tabla de histograma presentará los límites de las calificaciones por letras así como el número de calificaciones que haya entre el límite mínimo y el límite actual. La calificación única más frecuente es la moda de los datos.
+Recomendación
+En Excel 2016, ahora puede crear un histograma o un diagrama de Pareto .
+Media móvil
+La herramienta de análisis Media móvil proyecta valores en el período de pronósticos, basándose en el valor promedio de la variable calculada durante un número específico de períodos anteriores. Una media móvil proporciona información de tendencias que se vería enmascarada por una simple media de todos los datos históricos. Utilice esta herramienta para pronosticar ventas, inventario u otras tendencias. Todos los valores de pronóstico están basados en la siguiente fórmula:
+donde:
+N es el número de períodos anteriores que se incluyen en la media móvil
+Aj es el valor real en la hora j
+Fj es el valor previsto en el momento j
+Generación de números aleatorios
+La herramienta de análisis Generación de números aleatorios rellena un rango con números aleatorios independientes extraídos de una de varias distribuciones. Puede utilizar esta herramienta para caracterizar a los sujetos de una población con una distribución de probabilidades. Por ejemplo, puede utilizar una distribución normal para caracterizar la población de estatura de las personas o utilizar una distribución de Bernoulli con dos resultados posibles para caracterizar la población de resultados de un juego de azar.
+Jerarquía y percentil
+La herramienta de análisis Jerarquía y percentil crea una tabla que contiene los rangos ordinales y porcentuales de cada valor de un conjunto de datos. Puede analizar la importancia relativa de los valores en un conjunto de datos. Esta herramienta utiliza las funciones de hoja de cálculo JERARQUIA. EQ y PERCENTRANK. INC (en inglés ). Si desea tener en cuenta valores empatados, use la CLASIFICACIÓN. Función EQ , que trata los valores vinculados como si tuvieran el mismo rango, o use el RANGO. Función PROMEDIO , que devuelve el rango medio de los valores vinculados.
+Regresión
+La herramienta de análisis Regresión efectúa el análisis de regresión lineal utilizando el método de "mínimos cuadrados" para ajustar una línea a un conjunto de observaciones. Puede analizar la forma en que los valores de una o más variables independientes afectan a una variable dependiente. Por ejemplo, puede analizar de qué modo inciden en el rendimiento de un atleta varios factores: la edad, la estatura y el peso. Basándose en un conjunto de datos de rendimiento, la regresión determinará la incidencia de cada uno de los tres factores en la medición del rendimiento y podrán utilizarse estos resultados para predecir el rendimiento de un atleta nuevo no sometido a ninguna prueba.
+La herramienta Regresión utiliza la función de hoja de cálculo LINEST .
+Muestreo
+La herramienta de análisis Muestreo crea una muestra de población tratando el rango de entrada como una población. Cuando la población sea demasiado grande para procesarla o para presentarla gráficamente, puede utilizarse una muestra representativa. Además, si cree que los datos de entrada son periódicos, puede crear una muestra que contenga únicamente los valores de una parte determinada de un ciclo. Por ejemplo, si el rango de entrada contiene cifras de ventas trimestrales, la muestra realizada con una tasa periódica de cuatro permitirá colocar los valores del mismo trimestre en el rango de salida.
+Prueba t
+Las herramientas de análisis Prueba t de dos muestras permiten comprobar la igualdad de las medias de población que subyacen a cada muestra. Las tres herramientas utilizan diferentes suposiciones: que las varianzas de población son iguales, que las varianzas de población no son iguales y que las dos muestras representan observaciones anteriores y posteriores al tratamiento en los mismos sujetos.
+Para las tres herramientas que figuran a continuación, un valor de la estadística T, t, se calcula y se muestra como "t Stat" en las tablas de resultados. Dependiendo de los datos, este valor t puede ser negativo o no negativo. Bajo el supuesto de medias iguales de la población subyacente, si t < 0, "P (T <= t) una cola" da la probabilidad de que se observe un valor de la estadística t que sea más negativo que t. Si t >= 0, "P (T <= t) una cola" da la probabilidad de que se observe un valor de la estadística t que sea más positivo que t. "Valor crítico t de una cola" proporciona el valor de corte para que la probabilidad de observar un valor de la estadística t mayor o igual que "Valor crítico t de una cola" sea Alfa.
+"P (T <= t) dos colas" da la probabilidad de que se observe un valor de la estadística t que sea mayor en valor absoluto que t. "Valor crítico P de dos colas" proporciona el valor de corte para que la probabilidad de una estadística T observada mayor en valor absoluto que "Valor crítico P de dos colas" sea Alfa.
+Prueba t para medias de dos muestras emparejadas
+Puede utilizar una prueba emparejada cuando existe un par natural de observaciones en las muestras, como cuando un grupo de muestras se somete a prueba dos veces, antes y después de un experimento. Esta herramienta de análisis y su fórmula ejecutan una prueba t de Student de dos muestras emparejadas para determinar si las observaciones realizadas antes y después de un tratamiento proceden probablemente de distribuciones con medias de población iguales. En este tipo de prueba no se supone que las varianzas de ambas poblaciones sean iguales.
+Nota
+Entre los resultados que se generan con esta herramienta se encuentra la varianza agrupada, una medición acumulada de la distribución de datos en torno a la media, que se deriva de la fórmula siguiente.
+Prueba t para dos muestras suponiendo varianzas iguales
+Esta herramienta de análisis ejecuta una Prueba t de Student en dos muestras. En este tipo de prueba se supone que los dos conjuntos de datos proceden de distribuciones con las mismas varianzas. Se conoce con el nombre de Prueba t homoscedástica. Puede utilizar este tipo de prueba para determinar si es probable que las dos muestras procedan de distribuciones con medias de población iguales.
+Prueba t para dos muestras suponiendo varianzas desiguales
+Esta herramienta de análisis ejecuta una Prueba t de Student en dos muestras. En este tipo de prueba se supone que los dos conjuntos de datos proceden de distribuciones con varianzas desiguales. Se conoce con el nombre de Prueba t heteroscedástica. Al igual que en el caso anterior suponiendo varianzas iguales, este tipo de prueba puede utilizarse para determinar si es probable que las dos muestras procedan de distribuciones con medias de población iguales. Utilice esta prueba cuando haya sujetos distintos en las dos muestras. Utilice la prueba emparejada, que se describe en el ejemplo que figura más abajo, cuando exista un conjunto único de sujetos y las dos muestras representen las medidas de cada uno de los sujetos antes y después de un tratamiento.
+La siguiente fórmula se utiliza para determinar el valor estadístico t .
+La siguiente fórmula se usa para calcular los grados de libertad, df. Dado que el resultado del cálculo generalmente no es un entero, el valor de df se redondea al entero más próximo para obtener un valor crítico de la tabla t. La función de hoja de cálculo de Excel PRUEBA.T usa el valor df calculado sin redondeo, ya que es posible calcular un valor para PRUEBA.T con un df no entero. Debido a estos diferentes enfoques para determinar los grados de libertad, los resultados de T.TEST y esta herramienta de t-Test diferirán en el caso de varianzas desiguales.
+Prueba z
+La herramienta de análisis z-Test: Two Sample for Means realiza una prueba z de dos muestras para medias con varianzas conocidas. Esta herramienta se utiliza para probar la hipótesis nula de que no hay diferencia entre las medias de dos poblaciones frente a hipótesis alternativas unilaterales o bilaterales. Si no se conocen las varianzas, se debe usar la función de hoja de cálculo Z.TEST en su lugar.
+Cuando se utiliza la herramienta de Prueba z, hay que tener especial cuidado en comprender el resultado. "P(Z <= z) una cola" es realmente P(Z >= ABS(z)), la probabilidad de un valor z más allá de 0 en la misma dirección que el valor z observado cuando no hay diferencia entre las medias de la población. "P (Z <= z) dos colas" es realmente P (Z >= ABS (z) o Z <= -ABS (z)), la probabilidad de un valor z más lejos de 0 en cualquier dirección que el valor z observado cuando no hay diferencia entre las medias de la población. El resultado de dos colas es el resultado de una cola multiplicado por 2. La herramienta de Prueba z también puede utilizarse para el caso en que la hipótesis nula sea que existe un valor distinto de cero específico para la diferencia entre las dos medias de población. Por ejemplo, puede utilizarse esta prueba para determinar las diferencias entre el rendimiento de dos modelos de automóvil.
+¿Necesitas más ayuda?
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades .
+Consulte también
+Crear un histograma en Excel 2016
+Crear un diagrama de Pareto en Excel 2016
+Cargar el Herramientas para análisis en Excel
+Funciones de INGENIERÍA (referencia)
+Información general sobre fórmulas en Excel
+Cómo evitar la ruptura de las fórmulas
+Buscar y corregir errores en fórmulas
+Métodos abreviados de teclado y teclas de función en Excel
+Funciones de Excel (por orden alfabético)
+Funciones de Excel (por categoría)
+¿Te resultó útil esta información?
+Sí
+No
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+¡Gracias por sus comentarios!
+×
+Novedades
+Surface Pro
+Surface Laptop
+Copilot para organizaciones
+Copilot para uso personal
+Microsoft 365
+Explora los productos de Microsoft
+Aplicaciones de Windows 11
+Microsoft Store
+Perfil de la cuenta
+Centro de descarga
+Soporte de Microsoft Store
+Devoluciones
+Seguimiento de pedidos
+Reciclar
+Garantías comerciales
+Educación
+Microsoft Educación
+Dispositivos para educación
+Microsoft Teams para Educación
+Microsoft 365 Educación
+Office Educación
+Formación y desarrollo de educadores
+Ofertas para estudiantes y padres
+Azure para estudiantes
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft 365 Copilot
+Microsoft Teams
+Pequeñas empresas
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Empresas de software
+Visual Studio
+Compañía
+Oportunidades de empleo
+Acerca de Microsoft
+Noticias de la compañía
+Privacidad en Microsoft
+Inversores
+Español (España, alfabetización internacional)
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Privacidad de la salud del consumidor
+Ponte en contacto con Microsoft
+Privacidad
+Gestionar cookies
+Condiciones de uso
+Marcas registradas
+Sobre nuestra publicidad
+Docs de cumplimiento de la UE
+© Microsoft 2026

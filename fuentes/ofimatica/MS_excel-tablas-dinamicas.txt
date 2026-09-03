@@ -1,0 +1,393 @@
+Crear una tabla dinámica para analizar datos de una hoja de cálculo | Microsoft Support
+Saltar al contenido principal
+Microsoft
+Soporte técnico
+Soporte técnico
+Soporte técnico
+Inicio
+Microsoft 365
+Office
+Productos
+Microsoft 365
+Outlook
+Microsoft Teams
+OneDrive
+Microsoft Copilot
+OneNote
+Windows
+más ...
+Dispositivos
+Surface
+Accesorios de PC
+Xbox
+Juegos en PC
+HoloLens
+Surface Hub
+Garantías de hardware
+Cuenta y facturación
+Recursos
+Foros de la comunidadForos de la comunidad
+Administradores de Microsoft 365
+Desarrollador
+Educación
+Comunicar una estafa de soporte técnico
+Seguridad del producto
+Más
+Comprar Microsoft 365
+Todo Microsoft
+Global
+Microsoft 365
+Azure
+Copilot
+Windows
+Surface
+XBOX
+Ofertas
+Pequeñas empresas
+Soporte
+Software
+Software
+Aplicaciones Windows
+OneDrive
+Outlook
+Paso de Skype a Teams
+OneNote
+Microsoft Teams
+PCs y dispositivos
+PCs y dispositivos
+Comprar XBOX
+Accesorios
+Entretenimiento
+Entretenimiento
+XBOX Game Pass Ultimate
+XBOX y juegos
+Juegos para PC
+Empresas
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365 para empresas
+Microsoft Power Platform
+Windows 365
+Soberanía digital
+Desarrolladores y TI
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Empresas de software
+Visual Studio
+Otro
+Otro
+Microsoft Rewards
+Seguridad y descargas gratuitas
+Educación
+Tarjetas regalo
+Licenciamiento
+Ver mapa del sitio
+Buscar
+Búsqueda de ayuda
+Sin resultados
+Cancelar
+Iniciar sesión
+Iniciar sesión con Microsoft
+Iniciar sesión o crear una cuenta
+Hola:
+Seleccione una cuenta diferente.
+Tiene varias cuentas
+Elija la cuenta con la que desea iniciar sesión.
+Temas relacionados
+Temas relacionados
+×
+Empiece ya
+¿Qué es Excel?
+Usar Excel como calculadora
+Agregar una marca de agua en Excel
+Combinar y anular la combinación de celdas
+Insertar o eliminar filas y columnas
+Colaborar en libros de Excel al mismo tiempo con la coautoría
+Mover o copiar hojas de cálculo o datos de hoja de cálculo
+Mostrar u ocultar filas o columnas
+Seleccionar el contenido de celdas en Excel
+Insertar o eliminar una hoja de cálculo
+Cambiar el formato de una celda
+Trabajo con tablas
+Guardar un libro en OneDrive desde Excel
+Copiar el formato de celda
+Crear un gráfico de principio a fin
+Formatos de número disponibles en Excel
+Colaborar
+Proteger un archivo de Excel
+Imprimir una hoja de cálculo o un libro
+Compartir el libro de Excel con otros usuarios
+Fórmulas y funciones
+Calcular la diferencia entre dos fechas
+Función SUMA
+Función SI
+Función BUSCARX
+Mostrar u ocultar valores cero
+Importar y analizar datos
+Crear una tabla dinámica para analizar datos de una hoja de cálculo
+Filtrar datos de una tabla o un rango
+Usar segmentaciones para filtrar datos
+Usar la lista de campos para organizar los campos en una tabla dinámica
+Importar o exportar archivos de texto (.txt o .csv)
+Filtrar valores únicos o quitar valores duplicados
+Inicio rápido Crear una macro
+Importar datos de la Web
+Buscar o reemplazar texto y números en una hoja de cálculo
+Aplicar validación de datos a celdas
+Dar formato a datos
+Bloquear o desbloquear áreas específicas de una hoja de cálculo protegida
+Agrupar o desagrupar datos en una tabla dinámica
+Crear un gráfico dinámico
+Usar minigráficos para mostrar tendencias de datos
+Crear una lista desplegable
+Combinar texto de dos o más celdas en una celda
+Inmovilizar paneles para bloquear filas y columnas
+Inicio rápido: Ordenar datos en una hoja de cálculo
+Divida los datos en varias columnas
+Crear una tabla dinámica para analizar datos de una hoja de cálculo
+Se aplica a Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016
+Obtener ayuda con Copilot
+Dime cómo crear una tabla dinámica
+¿Cuáles son los pasos para eliminar una tabla dinámica completa?
+Diseña una tabla dinámica para mi conjunto de datos
+Una tabla dinámica es una herramienta avanzada para calcular, resumir y analizar datos que le permite ver comparaciones, patrones y tendencias en ellos. Las tablas dinámicas funcionan de forma un poco diferente según la plataforma que use para ejecutar Excel.
+Si tiene los requisitos de licencia adecuados, puede pedir a Copilot que le ayude a crear una tabla dinámica .
+Windows
+Web
+macOS
+Office para iOS
+Crear una tabla dinámica en Excel para Windows
+Seleccione las celdas a partir de las que quiera crear una tabla dinámica.
+Nota
+Los datos deben organizarse en columnas con una sola fila de encabezado. Consulte la sección Sugerencias y trucos sobre el formato de datos para obtener más información.
+Seleccione Insertar > tabla dinámica .
+Se crea una tabla dinámica basada en una tabla o un rango existente.
+Nota
+Al seleccionar Agregar estos datos al modelo de datos , se agrega la tabla o el rango que se usa para esta tabla dinámica al modelo de datos del libro.
+Obtener más información .
+Elija dónde desea que se coloque el informe de tabla dinámica. Seleccione Nueva hoja de cálculo para colocar la tabla dinámica en una hoja de cálculo nueva o en una hoja de cálculo existente y seleccione dónde desea que aparezca la nueva tabla dinámica.
+Seleccione Aceptar .
+Tablas dinámicas de otros orígenes
+Al hacer clic en la flecha abajo del botón, puede seleccionar entre otros orígenes posibles para la tabla dinámica. Además de usar una tabla o un rango existente, hay otros tres orígenes entre los que puede seleccionar para rellenar la tabla dinámica.
+Nota
+Según la configuración de TI de su organización, es posible que vea el nombre de su organización incluido en la lista. Por ejemplo, "Desde Power BI (Microsoft)".
+Obtener de un origen de datos externo
+del modelo de datos
+Use esta opción si el libro contiene un modelo de datos y desea crear una tabla dinámica a partir de varias tablas, mejorar la tabla dinámica con medidas personalizadas o está trabajando con conjuntos de datos muy grandes.
+Obtener de Power BI
+Use esta opción si su organización usa Power BI y desea descubrir conjuntos de datos en la nube aprobados a los que tiene acceso y conectarse a ellos.
+Creación de la tabla dinámica
+Para agregar un campo a la tabla dinámica, seleccione la casilla del nombre del campo en el panel Campos de tabla dinámica .
+Nota
+Los campos seleccionados se agregan a sus áreas predeterminadas: los campos no numéricos se agregan a Filas , las jerarquías de fecha y hora se agregan a Columnas y los campos numéricos se agregan a Valores .
+Para mover un campo de un área a otra, arrastre el campo al área de destino.
+Actualización de las tablas dinámicas
+Si agrega nuevos datos al origen de datos de tabla dinámica, tendrá que actualizar las tablas dinámicas que se integraron en ese origen de datos. Para actualizar solo una tabla dinámica, puede hacer clic con el botón derecho en cualquier parte del rango de la tabla dinámica y, después, seleccionar Actualizar . Si tiene varias tablas dinámicas, primero seleccione cualquier celda de cualquier tabla dinámica y, después, en la cinta de opciones, vaya a Analizar > tabla dinámica, seleccione la flecha situada debajo del botón Actualizar y después seleccione Actualizar todo .
+Trabajar con valores de tabla dinámica
+Resumir valores por
+De forma predeterminada, los campos de tabla dinámica colocados en el área Valores se muestran como SUM . Si Excel interpreta los datos como texto, los datos se mostrarán como un RECUENTO. Por eso es tan importante asegurarse de no mezclar tipos de datos en los campos de valor. Para cambiar el cálculo predeterminado, primero seleccione la flecha situada a la derecha del nombre de campo y, después, la opción Configuración de campo de valor .
+Después, cambie el cálculo en la sección Resumir valores por . Tenga en cuenta que al cambiar el método de cálculo, Excel lo anexa automáticamente en la sección Nombre personalizado , como "Suma de FieldName", pero puede cambiarlo. Si selecciona Formato de número, puede cambiar el formato de número para todo el campo.
+Recomendación
+Dado que al cambiar el cálculo en la sección Resumir valores por se cambia el nombre del campo de la tabla dinámica, es mejor no cambiar el nombre de los campos de la tabla dinámica hasta que haya terminado de configurar la tabla dinámica. Un truco es usar Buscar & reemplazar ( Ctrl + H ) > Buscar qué > " Suma de " y luego Reemplazar con > dejar en blanco para reemplazar todo a la vez en lugar de volver a escribir manualmente.
+Mostrar valores como
+En lugar de usar un cálculo para resumir los datos, también puede mostrarlos como porcentaje de un campo. En el siguiente ejemplo, hemos cambiado nuestros importes de gastos domésticos para que aparezcan como % del total general en lugar de la suma de los valores.
+Una vez que haya abierto el cuadro de diálogo Configuración del campo de valor , puede realizar las selecciones desde la pestaña Mostrar valores como .
+Muestre un valor como cálculo y como porcentaje.
+Simplemente arrastre el elemento a la sección Valores dos veces y, a continuación, configure las opciones Resumir valores por y Mostrar valores como para cada uno.
+Insertar una tabla dinámica
+Abra una hoja de cálculo en Excel para la Web .
+Seleccione una tabla o un rango de datos en la hoja y seleccione Insertar > tabla dinámica para abrir el panel Insertar tabla dinámica .
+Puede crear manualmente su propia tabla dinámica o elegir una tabla dinámica recomendada para que se cree automáticamente. Siga uno de estos procedimientos:
+En la tarjeta Crear su propia tabla dinámica , seleccione Nueva hoja u Hoja existente para elegir el destino de la tabla dinámica.
+En una tabla dinámica recomendada, seleccione Nueva hoja u Hoja existente para elegir el destino de la tabla dinámica.
+Nota
+Las tablas dinámicas recomendadas solo están disponibles para suscriptores de Microsoft 365.
+Cambiar el origen de los datos
+Puede cambiar el origen de datos de la tabla dinámica mientras la crea.
+En el panel Insertar tabla dinámica , seleccione el cuadro de texto en Origen . Al cambiar el origen , las tarjetas del panel no estarán disponibles.
+Seleccione los datos de la cuadrícula o escriba un rango en el cuadro de texto.
+Pulsa Entrar en el teclado o el botón para confirmar la selección. El panel se actualiza con nuevas tablas dinámicas recomendadas basadas en el nuevo origen de datos.
+Obtener de Power BI
+Use esta opción si su organización usa Power BI y desea descubrir conjuntos de datos en la nube aprobados a los que tiene acceso y conectarse a ellos.
+Trabajar con el panel Campos de tabla dinámica
+En el panel Campos de tabla dinámica , active la casilla de cualquier campo que desee agregar a la tabla dinámica.
+De forma predeterminada, los campos no numéricos se agregan al área Filas , los campos de fecha y hora se agregan al área Columnas y los campos numéricos se agregan al área Valores .
+También puede arrastrar y colocar manualmente cualquier elemento disponible en cualquiera de los campos de la tabla dinámica o, si ya no desea tener un elemento en la tabla dinámica, arrástrelo fuera de la lista o desactívelo.
+Trabajar con valores de tabla dinámica
+Resumir valores por
+De forma predeterminada, los campos de tabla dinámica del área Valores se muestran como SUM . Si Excel interpreta los datos como texto, se muestra como un RECUENTO. Por eso es tan importante asegurarse de no mezclar tipos de datos en los campos de valor.
+Para cambiar el cálculo predeterminado, haga clic con el botón derecho en cualquier valor de la fila y seleccione la opción Resumir valores por .
+Mostrar valores como
+En lugar de usar un cálculo para resumir los datos, también puede mostrarlos como porcentaje de un campo. En el siguiente ejemplo, hemos cambiado nuestros importes de gastos domésticos para que aparezcan como % del total general en lugar de la suma de los valores.
+Haga clic con el botón derecho en cualquier valor de la columna para la que quiera mostrar el valor. Seleccione Mostrar valores como en el menú. Se mostrará una lista de valores disponibles.
+Haga su selección de la lista.
+Para mostrar como un % del total principal , mueva el puntero sobre ese elemento de la lista y seleccione el campo principal que desea usar como base del cálculo.
+Actualización de las tablas dinámicas
+Si agrega nuevos datos al origen de datos de la tabla dinámica , se deben actualizar las tablas dinámicas creadas en ese origen de datos. Haga clic con el botón derecho en cualquier parte del rango de la tabla dinámica y, después, seleccione Actualizar .
+Eliminar una tabla dinámica
+Si ha creado una tabla dinámica y decide que ya no la quiere, seleccione todo el rango de la tabla dinámica y presione Suprimir . Esto no afectará a otros datos, tablas dinámicas o gráficos a su alrededor. Si la tabla dinámica está en una hoja independiente que no tiene otros datos que desea conservar, eliminar la hoja es una forma rápida de quitar la tabla dinámica.
+Introducción a las tablas dinámicas con Excel en la Web .
+Antes de empezar
+Los datos deben organizarse en formato tabular y no tener ninguna fila o columna en blanco. Lo ideal sería usar una tabla de Excel .
+Las tablas son un excelente origen de datos de tabla dinámica, ya que las filas agregadas a una tabla se incluyen automáticamente en la tabla dinámica al actualizar los datos y las columnas nuevas se incluyen en la lista de campos de la tabla dinámica . En caso contrario, tendrá que cambiar los datos de origen de una tabla dinámica o usar una fórmula de rango dinámico con nombre .
+Los tipos de datos de columnas deben ser iguales. Por ejemplo, no debería mezclar las fechas y texto en la misma columna.
+Las tablas dinámicas trabajan en una instantánea de los datos, denominada caché, por lo que los datos reales no se modifican de ninguna forma.
+Crear mediante una tabla dinámica recomendada
+Si no tiene experiencia con las tablas dinámicas o no sabe cómo empezar, las tablas dinámicas recomendadas son una buena elección. Cuando usa esta característica, Excel determina un diseño significativo haciendo coincidir los datos con las áreas más adecuadas de la tabla dinámica. Esto le ofrece un punto inicial para realizar pruebas. Después de crear una tabla dinámica recomendada, puede explorar diferentes orientaciones y reorganizar los campos para lograr los resultados deseados. También puedes descargar nuestro tutorial interactivo Crea tu primera tabla dinámica .
+Seleccione una celda en el rango de datos o tabla de origen.
+Vaya a Insertar > tabla dinámica recomendada .
+Excel analiza los datos y presenta varias opciones, como en este ejemplo con los datos de gastos domésticos.
+Seleccione la tabla dinámica que mejor le parezca y presione Aceptar . Excel crea una tabla dinámica en una hoja nueva y muestra la lista de campos de la tabla dinámica .
+Crear manualmente una tabla dinámica
+Seleccione una celda en el rango de datos o tabla de origen.
+Vaya a Insertar > tabla dinámica .
+Excel muestra el cuadro de diálogo Crear tabla dinámica con el nombre de tabla o rango seleccionado. En este caso, utilizamos una tabla denominada "tbl_HouseholdExpenses".
+En la sección Elija dónde desea colocar el informe de tabla dinámica , seleccione Nueva hoja de cálculo u Hoja de cálculo existente . Si selecciona Nueva hoja de cálculo , tendrá que seleccionar la hoja de cálculo y la celda donde quiera colocar la tabla dinámica.
+Seleccione Aceptar y Excel creará una tabla dinámica en blanco y mostrará la lista de campos de tabla dinámica .
+Trabajar con la lista de campos de tabla dinámica
+Lista de campos de tabla dinámica
+En el área Nombre de campo de la parte superior, active la casilla correspondiente a cualquier campo que quiera agregar a la tabla dinámica. De forma predeterminada, los campos no numéricos se agregan al área Fila , los campos de fecha y hora se agregan al área Columna y los campos numéricos se agregan al área Valores. También puede arrastrar y colocar manualmente cualquier elemento disponible a alguno de los campos de tabla dinámica. Si ya no quiere un elemento de la tabla dinámica, basta con que lo arrastre fuera de la lista de campos o desactive su selección. Poder reorganizar elementos de campo es una de las características de la tabla dinámica que hace que cambiar su apariencia sea tan fácil.
+Lista de campos de tabla dinámica
+Valores de tabla dinámica
+Resumir por
+De forma predeterminada, los campos de tabla dinámica colocados en el área Valores se muestran como SUM . Si Excel interpreta los datos como texto, los datos se mostrarán como un RECUENTO. Por eso es tan importante asegurarse de no mezclar tipos de datos en los campos de valor. Para cambiar el cálculo predeterminado, primero seleccione la flecha situada a la derecha del nombre de campo y, después, seleccione la opción Configuración de campo .
+Después, cambie el cálculo en la sección Resumir valores por . Tenga en cuenta que al cambiar el método de cálculo, Excel lo anexa automáticamente en la sección Nombre personalizado , como "Suma de FieldName", pero puede cambiarlo. Si selecciona Número... , puede cambiar el formato de número para todo el campo.
+Recomendación
+Dado que al cambiar el cálculo en la sección Resumir por se cambia el nombre del campo de la tabla dinámica, es mejor no cambiar el nombre de los campos de la tabla dinámica hasta que haya terminado de configurar la tabla dinámica. Un truco es seleccionar Reemplazar ( en el menú Editar ) > Buscar qué > " Suma de ", y luego Reemplazar con > dejar en blanco para reemplazar todo a la vez en lugar de volver a escribir manualmente.
+Mostrar datos como
+En lugar de usar un cálculo para resumir los datos, también puede mostrarlos como porcentaje de un campo. En el siguiente ejemplo, hemos cambiado nuestros importes de gastos domésticos para que aparezcan como % del total general en lugar de la suma de los valores.
+Una vez abierto el cuadro de diálogo Configuración de campo , puede realizar las selecciones desde la pestaña Mostrar datos como .
+Muestre un valor como cálculo y como porcentaje.
+Simplemente arrastre el elemento a la sección Valores dos veces, haga clic con el botón derecho en el valor y seleccione Configuración de campo. A continuación, configure las opciones Resumir por y Mostrar datos como para cada uno.
+Actualización de las tablas dinámicas
+Si agrega nuevos datos al origen de datos de la tabla dinámica, se deben actualizar las tablas dinámicas creadas en ese origen de datos. Para actualizar solo una tabla dinámica, puede hacer clic con el botón derecho en cualquier parte del rango de la tabla dinámica y, después, seleccionar Actualizar . Si tiene varias tablas dinámicas, primero seleccione cualquier celda de cualquier tabla dinámica y, después, en la cinta de opciones, vaya a Analizar > tabla dinámica, seleccione la flecha situada debajo del botón Actualizar y después seleccione Actualizar todo .
+Eliminar una tabla dinámica
+Si creó una tabla dinámica y decide que ya no la quiere, simplemente seleccione todo el rango de la tabla dinámica y, después, presione Suprimir . Esto no afecta a ningún otro dato, tabla dinámica o gráfico a su alrededor. Si la tabla dinámica se encuentra en una hoja separada que no tenga otros datos que quiera conservar, eliminar esa hoja es una forma rápida de quitar la tabla dinámica.
+La tabla dinámica en iPad está disponible para los clientes que ejecutan Excel en iPad versión 2.82.205.0 y posteriores. Para acceder a esta característica, asegúrese de que la aplicación está actualizada a la versión más reciente a través de la App Store.
+Crear una tabla dinámica en Excel en iPad
+Seleccione una celda en el rango de datos o tabla de origen.
+Vaya a Insertar > tabla dinámica .
+Elija dónde desea colocar la tabla dinámica. Seleccione Insertar en una hoja nueva para colocar la tabla dinámica en una nueva hoja de cálculo o seleccione la celda en la que quiere colocar la nueva tabla dinámica en el campo de destino.
+Seleccione Insertar .
+Trabajar con la lista de campos de tabla dinámica
+Normalmente, los campos no numéricos se agregan al área Filas , los campos de fecha y hora se agregan al área Columnas y los campos numéricos se agregan al área Valores . También puede arrastrar y colocar manualmente cualquier elemento disponible a alguno de los campos de tabla dinámica. Si ya no quiere un elemento de la tabla dinámica, basta con que lo arrastre fuera de la lista de campos o desactive su selección. Poder reorganizar elementos de campo es una de las características de la tabla dinámica que hace que cambiar su apariencia sea tan fácil.
+Nota
+Si la lista de campos ya no está visible, vaya a la pestaña Tabla dinámica , deslice el dedo hacia la izquierda y seleccione Lista de campos para mostrar la lista de campos.
+Actualización de las tablas dinámicas
+Si agrega nuevos datos al origen de datos de la tabla dinámica, se deben actualizar las tablas dinámicas creadas en ese origen de datos. Para actualizar solo una tabla dinámica, puede seleccionar y mantener presionada una celda en cualquier parte del rango de tabla dinámica y, después, seleccionar Actualizar . Si tiene varias, vaya a la pestaña de tabla dinámica en la cinta de opciones y seleccione Actualizar .
+Eliminar una tabla dinámica
+Si creó una tabla dinámica y decide que ya no la quiere, puede seleccionar las filas y columnas que abarcan todo el rango de la tabla dinámica y, después, presionar Suprimir .
+Sugerencias y trucos sobre el formato de datos
+Use datos tabulares limpios para obtener mejores resultados.
+Organice los datos en columnas, no en filas.
+Asegúrese de que todas las columnas tienen encabezados, con una sola fila de etiquetas únicas que no estén en blanco para cada columna. Evite usar filas dobles de encabezados o celdas combinadas.
+Aplique formato a los datos como una tabla de Excel (seleccione cualquier lugar de los datos y, a continuación, seleccione Insertar > tabla en la cinta de opciones).
+Si tiene datos anidados o con un formato complicado, use Power Query para transformarlos (por ejemplo, para anular la dinamización de los datos ) de modo que se organicen en columnas con una sola fila de encabezado.
+¿Necesitas más ayuda?
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades .
+Microsoft Privacy Policy
+Las recomendaciones de tablas dinámicas forman parte de la experiencia conectada de Microsoft 365 y analizan los datos con los servicios de inteligencia artificial. Si decide no participar en la experiencia conectada en Microsoft 365, sus datos no se enviarán al servicio de inteligencia artificial y no podrá usar las recomendaciones de tabla dinámica. Lea la declaración de privacidad de Microsoft para obtener más detalles.
+Artículos relacionados
+Crear un gráfico dinámico
+Usar la segmentación para filtrar datos de tablas dinámicas
+Crear una escala de tiempo de tabla dinámica para filtrar datos
+Crear una tabla dinámica para analizar modelos de datos en varias tablas
+Crear una tabla dinámica conectada a los conjuntos de datos de Power BI
+Usar la lista de campos para organizar los campos en una tabla dinámica
+Cambiar los datos de origen en una tabla dinámica
+Calcular valores en un informe de tabla dinámica
+Eliminar una tabla dinámica
+¿Te resultó útil esta información?
+Sí
+No
+Thank you! Any more feedback for Microsoft?
+Can you help us improve? (Send feedback to Microsoft so we can help.)
+How satisfied are you with the translation quality?
+What affected your experience?
+Resolved my issue
+Clear instructions
+Easy to follow
+No jargon
+Pictures helped
+Translation quality
+Didn't match my screen
+Incorrect instructions
+Too technical
+Not enough information
+Not enough pictures
+Translation quality
+Any additional feedback? (Optional)
+Submit feedback
+By pressing submit, your feedback will be used to improve Microsoft products and services.
+Your IT admin will be able to collect this data.
+Privacy Statement.
+¡Gracias por sus comentarios!
+×
+Novedades
+Surface Pro
+Surface Laptop
+Copilot para organizaciones
+Copilot para uso personal
+Microsoft 365
+Explora los productos de Microsoft
+Aplicaciones de Windows 11
+Microsoft Store
+Perfil de la cuenta
+Centro de descarga
+Soporte de Microsoft Store
+Devoluciones
+Seguimiento de pedidos
+Reciclar
+Garantías comerciales
+Educación
+Microsoft Educación
+Dispositivos para educación
+Microsoft Teams para Educación
+Microsoft 365 Educación
+Office Educación
+Formación y desarrollo de educadores
+Ofertas para estudiantes y padres
+Azure para estudiantes
+Empresas
+Microsoft AI
+Seguridad de Microsoft
+Azure
+Dynamics 365
+Microsoft 365
+Microsoft 365 Copilot
+Microsoft Teams
+Pequeñas empresas
+Desarrolladores y TI
+Desarrollador de Microsoft
+Microsoft Learn
+Soporte técnico para aplicaciones del marketplace de IA
+Microsoft Tech Community
+Microsoft Marketplace
+Microsoft Power Platform
+Empresas de software
+Visual Studio
+Compañía
+Oportunidades de empleo
+Acerca de Microsoft
+Noticias de la compañía
+Privacidad en Microsoft
+Inversores
+Español (España, alfabetización internacional)
+Icono de exclusión de opciones de privacidad
+Tus opciones de privacidad
+Privacidad de la salud del consumidor
+Ponte en contacto con Microsoft
+Privacidad
+Gestionar cookies
+Condiciones de uso
+Marcas registradas
+Sobre nuestra publicidad
+Docs de cumplimiento de la UE
+© Microsoft 2026
