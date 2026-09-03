@@ -37,8 +37,16 @@ def main():
     hallazgos = 0
 
     print("## Tejido conectivo y relleno")
+    # **el relleno que está dentro de una cita literal no es relleno del tema:
+    # es de la norma citada**, y quitarlo sería dejar de citar. El artículo 2
+    # del Real Decreto 299/2016 dice «en definitiva, podrían suponer riesgos
+    # para la seguridad», y sin esta salvedad la lente pide corregir el BOE.
+    # Se anulan los renglones de cita —los que empiezan por «>»— sustituyéndolos
+    # por espacios, para no mover las posiciones del resto.
+    sin_citas = "\n".join(" " * len(l) if l.lstrip().startswith(">") else l
+                          for l in tema.splitlines())
     for pat in RELLENO:
-        for m in re.finditer(pat, tema, re.I):
+        for m in re.finditer(pat, sin_citas, re.I):
             print("  · %s" % re.sub(r"\s+", " ", tema[max(0, m.start()-60):m.end()+60]))
             hallazgos += 1
     print("  (ninguno)" if not hallazgos else "")
