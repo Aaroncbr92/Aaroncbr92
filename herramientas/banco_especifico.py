@@ -228,7 +228,8 @@ TITULOS = {
         "08": "Técnica Informática · Tema 8 · Desarrollo de aplicaciones web y "
               "programación de scripts",
         "09": "Técnica Informática · Tema 9 · Desarrollo de aplicaciones en J2EE y .NET",
-        "10": "Técnica Informática · Tema 10 · Tecnologías XML",
+        "10": "Técnica Informática · Tema 10 · El lenguaje de marcado extensible y su "
+              "familia",
         "11": "Técnica Informática · Tema 11 · Arquitectura SOA y servicios web",
         "12": "Técnica Informática · Tema 12 · Desarrollo multimedia: formatos de "
               "streaming para web",
