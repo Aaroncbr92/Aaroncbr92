@@ -77,12 +77,15 @@
 # ── del cajón de igualdad (g6) ───────────────────────────────────────────────
 09_preguntas_documentacion	61	g5	Suspensión del contrato del art. 96: convenio
 23_preguntas_gea	33	g5	Causas de extinción del contrato en el convenio
+85_preguntas_sonido	2	g6	Principio de presencia equilibrada: LO 3/2007, art. 78, que el tema de igualdad sí trata
+70_preguntas_tese_a	3	g5	Complemento de disponibilidad: convenio, y ninguna palabra clave lo coge
 
 # ── del cajón de la Ley 13/2022 (g7) ─────────────────────────────────────────
 19_preguntas_gestion_abogado_b	79	fuera	Sectores de competencia de la CNMC según la Ley 3/2013
 36_preguntas_ing_sup_industrial	30	g2-g3	Objeto de la Ley 17/2006
 62_preguntas_realizacion_asist_2_llamamiento	94	g5	Cambio de horario con disponibilidad 2 o 3: convenio, art. 49
 62_preguntas_realizacion_asist_2_llamamiento	103	g5	Días de vacaciones del convenio
+70_preguntas_tese_a	6	g7	Servicio de comunicación audiovisual en abierto o codificado: definiciones de la Ley 13/2022
 
 # ── del cajón de la Ley 31/1995 (g8) ─────────────────────────────────────────
 # Dos temas distintos caían en el mismo cajón: el 8 del general y el de
@@ -207,3 +210,8 @@
 29_preguntas_igyciys	17	prl-especifico	Altura mínima de la barandilla de una plataforma para operar una cámara
 29_preguntas_igyciys	22	prl-especifico	Zonas del cuerpo afectadas por las posturas forzadas o prolongadas
 68_preguntas_realizacion_b	73	g6	Medida no incluida en el II Plan para la Igualdad de la Corporación RTVE
+70_preguntas_tese_a	22	prl-especifico	Barandilla de un practicable de cámara: RD 486/1997, anexo I
+70_preguntas_tese_a	47	prl-especifico	Iluminación de los lugares de trabajo: RD 486/1997, anexo IV
+70_preguntas_tese_a	51	prl-especifico	Cómo actuar ante un accidente o una emergencia: proteger, avisar, socorrer
+70_preguntas_tese_a	72	prl-especifico	Altura a partir de la cual se considera trabajo en altura
+70_preguntas_tese_a	96	fuera	Valores de alta tensión: es materia del punto 20 del específico de TESE, no del tema 8 del general

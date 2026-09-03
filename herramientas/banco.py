@@ -26,12 +26,18 @@ RECLASIFICADAS = "banco/reclasificadas.tsv"
 # El tema de prevención del específico no lo distingue ninguna palabra clave del
 # tema 8 del general: hablan de la misma materia. Se separa a mano, en el
 # fichero de reclasificadas, y tiene aquí su propio cajón.
+# La cifra que sigue a cada ocupación es **el número que el tema de prevención
+# tiene en ESA ocupación**, no un recuento de preguntas. Las tres últimas se
+# escribieron como si fueran recuentos —«Montaje de Equipos 7», cuando su tema
+# de prevención es el 11— y quedaron mal hasta que Sonido y TESE obligaron a
+# volver sobre la lista.
 PRL_ESPECIFICO = ("PRL específico · Prevención en el temario específico "
                   "(Producción (Asistencia) 18 · Producción 17 · "
                   "Realización (Asistencia) 21 · Gestión Administrativa 13 · "
                   "Gestión 31 · Documentación 7 · Información y Contenidos 11 · "
-                  "Montaje de Equipos 7 · Información Gráfica 7 · "
-                  "Realización Televisión 1)")
+                  "Montaje de Equipos 11 · Edición y Montaje 11 · "
+                  "Información Gráfica 12 · Realización Televisión 23 · "
+                  "Sonido 18 · TESE 18)")
 
 
 def plantilla(ruta):

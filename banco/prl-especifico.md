@@ -1,6 +1,6 @@
-# PRL específico · Prevención en el temario específico (Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 21 · Gestión Administrativa 13 · Gestión 31 · Documentación 7 · Información y Contenidos 11 · Montaje de Equipos 7 · Información Gráfica 7 · Realización Televisión 1)
+# PRL específico · Prevención en el temario específico (Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 21 · Gestión Administrativa 13 · Gestión 31 · Documentación 7 · Información y Contenidos 11 · Montaje de Equipos 11 · Edición y Montaje 11 · Información Gráfica 12 · Realización Televisión 23 · Sonido 18 · TESE 18)
 
-44 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+47 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -575,14 +575,55 @@ d) Tiempo prolongado sin interrupciones.
 
 ---
 
-**70_preguntas_tese_a · nº 96 · respuesta: b**
+**70_preguntas_tese_a · nº 22 · respuesta: a**
 
 ```
-96.  En materia de Riesgos laborales ¿A partir de que valores se considera Alta Tensión 
-(AT)? 
-a)   400Vrms ac senoidal y 600V dc. 
-b)   1000Vrms ac senoidal y 1500V en dc. 
-c)   5000Vrms ac senoidal y 7500V dc. 
-d)   12000Vrms ac senoidal y 13800V dc.
+22. En las estructuras elevadas (practicables) para posiciones de cámara, la plataforma 
+superior  debe  de  estar  protegida  con  una  barandilla.  ¿Cuál  debe  ser  su  altura 
+mínima? 
+a)   90 cm en todo el perímetro. 
+b)   1 metro en todo el perímetro y 40 cm en el lado que está ubicado el objetivo de la 
+cámara. 
+c)   80 cm en todo el perímetro. 
+d)   70 cm en todo el perímetro y 40 cm en el lado que está ubicado el objetivo de la 
+cámara.
+```
+
+---
+
+**70_preguntas_tese_a · nº 47 · respuesta: d**
+
+```
+47. La iluminación de los lugares de trabajo deberá permitir que: 
+a)   Los trabajadores puedan hablar por teléfono. 
+b)   Los trabajadores puedan utilizar los equipos que tienen cerca. 
+c)   Los trabajadores puedan leer. 
+d)   Los trabajadores dispongan de condiciones de visibilidad adecuadas para poder 
+circular por los mismos y desarrollar en ellos sus actividades sin riesgo para su 
+seguridad y salud.
+```
+
+---
+
+**70_preguntas_tese_a · nº 51 · respuesta: d**
+
+```
+51. ¿Cómo hay que actuar ante un accidente o en una situación de emergencia? 
+a)   Avisar, socorrer y proteger. 
+b)   Socorrer, proteger y avisar. 
+c)   Avisar, proteger y socorrer. 
+d)   Proteger, avisar y socorrer.
+```
+
+---
+
+**70_preguntas_tese_a · nº 72 · respuesta: a**
+
+```
+72. ¿A partir de qué altura se considera trabajo en altura? 
+a)   2 metros. 
+b)   3 metros. 
+c)   5 metros. 
+d)   10 metros.
 ```
 

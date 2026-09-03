@@ -66,7 +66,13 @@ SOLO = {"produccion": ("81_preguntas_produccion",),
                            "68_preguntas_realizacion_b"),
         "informacion-grafica": ("29_preguntas_igyciys",),
         "edicion-montaje": ("11_preguntas_emypa",),
-        "montaje-equipos": ("58_preguntas_mont_equip_audio",)}
+        "montaje-equipos": ("58_preguntas_mont_equip_audio",),
+        "sonido": ("85_preguntas_sonido",),
+        # TESE trae **dos cuadernillos de tamaño muy distinto**: el `70`, de 96
+        # preguntas, y el `71`, que sus propias instrucciones describen como
+        # «30 preguntas (25 principales más 5 de reserva)». No es un fallo de
+        # extracción: es un examen más corto, y se lee entero
+        "tese": ("70_preguntas_tese_a", "71_preguntas_tese_b")}
 
 
 def reparto(ocupacion):
@@ -203,6 +209,44 @@ def main(ocupacion, titulos):
 # Los títulos con los que se encabeza cada fichero del banco. Uno por ocupación,
 # porque el reparto es distinto y los temas no se llaman igual.
 TITULOS = {
+ "sonido": {
+    "01": "Sonido · Tema 1 · Electricidad y electrónica básicas",
+    "02": "Sonido · Tema 2 · Principios físicos del sonido y la audición",
+    "03": "Sonido · Tema 3 · Música, instrumentos e historia de la música",
+    "04": "Sonido · Tema 4 · Acústica arquitectónica",
+    "05": "Sonido · Tema 5 · Micrófonos, soportes y accesorios",
+    "06": "Sonido · Tema 6 · Señales de contribución",
+    "07": "Sonido · Tema 7 · Mezcla y tratamiento del sonido",
+    "08": "Sonido · Tema 8 · Postproducción, efectos sonoros y operación DAW",
+    "09": "Sonido · Tema 9 · Grabación de sonido",
+    "10": "Sonido · Tema 10 · Sonorización: altavoces y amplificadores",
+    "11": "Sonido · Tema 11 · Líneas y conexiones",
+    "12": "Sonido · Tema 12 · El sonido en la radio y la televisión",
+    "13": "Sonido · Tema 13 · Radiofrecuencia",
+    "14": "Sonido · Tema 14 · Medición y sonoridad",
+    "15": "Sonido · Tema 15 · Audio multicanal",
+    "16": "Sonido · Tema 16 · Audio sobre IP",
+    "17": "Sonido · Tema 17 · Audio sobre protocolos digitales",
+ },
+ "tese": {
+    "01": "TESE · Tema 1 · Conceptos básicos de electricidad",
+    "02": "TESE · Tema 2 · Componentes electrónicos",
+    "03": "TESE · Tema 3 · Electrónica de potencia",
+    "04": "TESE · Tema 4 · Amplificadores operacionales",
+    "05": "TESE · Tema 5 · Electrónica digital",
+    "06": "TESE · Tema 6 · Circuitos integrados y secuenciales",
+    "07": "TESE · Tema 7 · Memorias, lógica programable y microprocesadores",
+    "08": "TESE · Tema 8 · La señal audiovisual: SDI, AES y sincronismos",
+    "09": "TESE · Tema 9 · La señal IP",
+    "10": "TESE · Tema 10 · Equipos utilizados en televisión y radio",
+    "11": "TESE · Tema 11 · Control de iluminación escénica",
+    "12": "TESE · Tema 12 · Comunicaciones y redes",
+    "13": "TESE · Tema 13 · Equipos de medida y control",
+    "14": "TESE · Tema 14 · Medidas de la señal de vídeo, audio y RF",
+    "15": "TESE · Tema 15 · Mantenimiento preventivo y correctivo",
+    "16": "TESE · Tema 16 · Mantenimiento en televisión",
+    "17": "TESE · Tema 17 · Seguridad en instalaciones técnicas",
+ },
  "realizacion-tv": {
     "01": "Realización · Tema 1 · La música",
     "02": "Realización · Tema 2 · Las artes escénicas",

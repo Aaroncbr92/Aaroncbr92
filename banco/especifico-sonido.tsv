@@ -1,0 +1,104 @@
+# Reparto a mano de las preguntas del bloque específico de SONIDO.
+#
+# Un solo cuadernillo, `85_preguntas_sonido`, de 96 preguntas, con su plantilla
+# completa. Diez de las 96 son del bloque común —Constitución, Igualdad y
+# Convenio Colectivo— y las reconoce la clasificación por materia de
+# `banco.py`: no van aquí.
+#
+# **El punto 1.6 del Anexo 2 —música, instrumentos e historia de la música— se
+# queda sin ninguna pregunta.** El tema se escribe igual, contra el programa, y
+# lo declara. Es la segunda vez que este proyecto se encuentra un punto entero
+# sin preguntar: la primera fue el 11 de Información Gráfica.
+#
+# **La pregunta 44 está rota**: sus opciones c) y d) son la misma cadena
+# —«MPEG-1 Layer II a 48 Khz, 384 Kbits/s»— repetida. Se reparte igual y el
+# defecto va declarado en su tema.
+#
+# origen	nº	tema	motivo
+origen	numero	tema	motivo
+85_preguntas_sonido	9	01	Seno de 90 grados: trigonometría de la corriente alterna, que es donde el Anexo la usa
+85_preguntas_sonido	11	01	Ley de Ohm: voltaje de un circuito de 5 ohmios y 3 amperios
+85_preguntas_sonido	17	01	Distorsión por no responder rápido a un transitorio: velocidad de subida de la etapa
+85_preguntas_sonido	29	01	Cuándo salta un diferencial: desequilibrio de intensidad entre hilos
+85_preguntas_sonido	31	01	Pérdida en un cable de altavoz según la impedancia conectada
+85_preguntas_sonido	35	01	Impedancia: oposición a la corriente alterna por capacidad, inductancia y resistencia
+85_preguntas_sonido	46	01	Tres altavoces de 8 ohmios en paralelo: impedancia resultante
+85_preguntas_sonido	67	01	Qué significa una distorsión armónica total del 0,1 % en un amplificador
+85_preguntas_sonido	70	01	Clase de amplificador según la tensión de polarización y la amplitud de entrada
+85_preguntas_sonido	74	01	Qué describe la ley de Ohm en sistemas de audio
+85_preguntas_sonido	82	01	Herramienta para medir impedancia en un circuito de audio
+85_preguntas_sonido	84	01	Tipo de corriente de las redes eléctricas domésticas europeas
+85_preguntas_sonido	50	02	Qué es el ruido rosa
+85_preguntas_sonido	55	02	Curvas de sensibilidad del oído a distintas frecuencias en todo el margen audible
+85_preguntas_sonido	65	02	Valores de referencia de la escala de decibelios en el aire
+85_preguntas_sonido	89	02	Unidad de presión sonora del Sistema Internacional
+85_preguntas_sonido	90	02	Diferencia en decibelios entre 1 y 2 voltios
+85_preguntas_sonido	94	02	Suma de dos niveles de presión sonora en una grabación musical
+85_preguntas_sonido	33	04	Superficies que favorecen las ondas estacionarias en una sala
+85_preguntas_sonido	12	05	Micrófono para eliminar el efecto de proximidad en directo
+85_preguntas_sonido	16	05	Modelos de micrófono considerados estándares de la industria
+85_preguntas_sonido	20	05	Cápsulas de un micrófono ambisónico de primer orden
+85_preguntas_sonido	34	05	En qué consiste la disposición cuasi coincidente ORTF
+85_preguntas_sonido	62	05	Forma del diagrama polar ideal de un micrófono bidireccional
+85_preguntas_sonido	63	05	Ángulo de salida nula de un micrófono hipercardioide
+85_preguntas_sonido	64	05	Micrófono para locutores de radio sentados unos al lado de otros
+85_preguntas_sonido	78	05	Qué define el efecto de proximidad en los micrófonos
+85_preguntas_sonido	30	06	Retornos a una conexión con exteriores con línea principal y de reserva
+85_preguntas_sonido	44	06	Algoritmo que NO sirve para una llamada por IP con un códec de audio: la pregunta está rota, c) y d) son idénticas
+85_preguntas_sonido	59	06	En qué consiste una conexión dúplex N-1 entre dos mezcladores
+85_preguntas_sonido	93	06	Enlaces que NO sirven para una conexión IP bidireccional entre dos audiocódecs
+85_preguntas_sonido	21	07	Margen entre el nivel nominal y la saturación de una mezcla
+85_preguntas_sonido	22	07	Qué hace el ajuste make-up de un compresor
+85_preguntas_sonido	23	07	Cuál NO es un tipo de ecualizador
+85_preguntas_sonido	40	07	Compresor que sólo atenúa por encima del umbral
+85_preguntas_sonido	45	07	Para qué se usa idealmente un filtro notch
+85_preguntas_sonido	56	07	Qué tipo de compresor es más rápido
+85_preguntas_sonido	91	07	Octavas que corresponden a un factor Q de 1,41
+85_preguntas_sonido	15	08	Duración en milisegundos de un delay de corchea a 102 BPM
+85_preguntas_sonido	36	08	Latencia total en milisegundos de un DAW con búfer de 128 muestras
+85_preguntas_sonido	8	09	Duración en fotogramas de 13.440 muestras a 48 kHz
+85_preguntas_sonido	68	09	Rango dinámico teórico máximo de una señal digital de 16 bits
+85_preguntas_sonido	83	09	Códec de compresión sin pérdida de calidad
+85_preguntas_sonido	92	09	Tamaño de un archivo estéreo de 44,1 kHz y 16 bits
+85_preguntas_sonido	13	10	En qué se mide la capacidad de una caja acústica
+85_preguntas_sonido	14	10	Qué indica cómo se distribuye la radiación de un altavoz en el espacio
+85_preguntas_sonido	38	10	Qué es Linkwitz-Riley
+85_preguntas_sonido	60	10	Delay para alinear dos altavoces a 4 y a 38 metros del oyente
+85_preguntas_sonido	66	10	Qué significa una sensibilidad de 90 dBw/m en un altavoz
+85_preguntas_sonido	88	10	De qué depende la fidelidad de un altavoz electrodinámico
+85_preguntas_sonido	18	11	Cómo se diseña un patch panel normalizado
+85_preguntas_sonido	25	11	Cables que sirven para el protocolo Dante
+85_preguntas_sonido	32	11	Dispositivo que distribuye un micrófono a varias salidas idénticas: el splitter
+85_preguntas_sonido	42	11	Con splitters pasivos, qué mesa controla la ganancia de micro
+85_preguntas_sonido	48	11	A qué pin del XLR de tres se conecta el vivo
+85_preguntas_sonido	49	11	Tensión de alimentación A-B o Tonader
+85_preguntas_sonido	51	11	Longitud máxima recomendada de un cable de categoría 5 en redes de audio
+85_preguntas_sonido	57	11	Impedancia de un cable XLR para AES3
+85_preguntas_sonido	53	12	Gesto del presentador de radio: círculos con la mano
+85_preguntas_sonido	41	13	Banda de frecuencias de la radio FM
+85_preguntas_sonido	71	13	Qué es el Digital Audio Broadcasting DAB+
+85_preguntas_sonido	87	13	Qué es el tono piloto de una transmisión FM estéreo
+85_preguntas_sonido	24	14	Nivel de la puerta de la escala short-term en un medidor EBU
+85_preguntas_sonido	26	14	Qué establece la recomendación EBU R 128
+85_preguntas_sonido	37	14	Qué significa el acrónimo LUFS
+85_preguntas_sonido	39	14	Escalas temporales de un medidor de sonoridad en modo EBU
+85_preguntas_sonido	69	14	Máximo valor de true peak que acepta la R 128
+85_preguntas_sonido	95	14	Tolerancia de desviación de LUFS que la EBU permite en directo
+85_preguntas_sonido	10	15	Tamaño máximo del bed en Dolby Atmos
+85_preguntas_sonido	54	15	Qué significa una escucha de formato 5.1.4
+85_preguntas_sonido	81	15	Qué caracteriza a Dolby Atmos frente a otros envolventes
+85_preguntas_sonido	96	15	Downmix del que se puedan decodificar después la trasera y la central
+85_preguntas_sonido	7	16	Protocolo que se usa por norma general para audio en red
+85_preguntas_sonido	43	16	Ancho de banda de 32 canales Dante a 48 kHz y 24 bits
+85_preguntas_sonido	47	16	Ancho de banda de 10 canales Dante en unicast
+85_preguntas_sonido	52	16	Máxima frecuencia de muestreo admitida por AES67
+85_preguntas_sonido	58	16	Protocolo con que Dante sincroniza el reloj
+85_preguntas_sonido	72	16	Qué es el protocolo Dante
+85_preguntas_sonido	73	16	Qué ocurre si una red Dante tiene alta latencia
+85_preguntas_sonido	75	16	Qué es Digital Audio Network Through Ethernet
+85_preguntas_sonido	76	16	Qué es un conmutador en una red Dante
+85_preguntas_sonido	19	17	Bits de una palabra de código de tiempo LTC por fotograma
+85_preguntas_sonido	27	17	Qué es el word clock
+85_preguntas_sonido	28	17	Método más eficiente para asegurar el funcionamiento de un sistema MADI
+85_preguntas_sonido	61	17	Cómo es de forma estándar el MADI óptico
+85_preguntas_sonido	77	17	Qué es el protocolo Multichannel Audio Digital Interface

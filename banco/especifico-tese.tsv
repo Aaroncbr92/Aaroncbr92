@@ -1,0 +1,134 @@
+# Reparto a mano de las preguntas del bloque específico de TÉCNICA DE EQUIPOS Y
+# SISTEMAS ELECTRÓNICOS (TESE).
+#
+# **Dos cuadernillos de tamaño muy distinto**: el `70`, de 96 preguntas, y el
+# `71`, que sus propias instrucciones describen como «30 preguntas (25
+# principales más 5 de reserva)». No es un fallo de extracción: es un examen
+# más corto, y se lee entero.
+#
+# De las 126, **8 son del bloque común** —Constitución, Ley 17/2006, Ley
+# 13/2022, Convenio, Igualdad y Ley 31/1995— y **5 son del tema de prevención
+# del específico**, que van en `reclasificadas.tsv`. Quedan **113** aquí.
+#
+# **Aviso capital de esta ocupación**: alrededor de **treinta preguntas
+# dependen de una imagen** —un esquema de circuito, un símbolo de componente,
+# una traza de osciloscopio, un monitor de forma de onda, una fotografía de
+# conectores—. **Es, con mucha diferencia, la proporción más alta del
+# proyecto.** Van declaradas una a una en su tema.
+#
+# origen	nº	tema	motivo
+origen	numero	tema	motivo
+70_preguntas_tese_a	28	01	Potencia consumida en una resistencia en relación al voltaje
+70_preguntas_tese_a	31	01	Qué es el factor de potencia en corriente alterna
+70_preguntas_tese_a	40	01	Qué ocurre con la tensión en un circuito en paralelo
+70_preguntas_tese_a	59	01	Desfase entre las fases de un sistema trifásico
+71_preguntas_tese_b	7	01	Tensión entre dos puntos de un circuito
+71_preguntas_tese_b	26	01	Potencia que entrega una fuente con carga resistiva e inductiva
+70_preguntas_tese_a	21	02	Capacitancia de un condensador a partir de la carga y el voltaje
+70_preguntas_tese_a	26	02	Símbolo del diodo túnel
+70_preguntas_tese_a	34	02	Símbolo del transistor NPN
+70_preguntas_tese_a	44	02	Capacidad equivalente de una combinación de condensadores
+70_preguntas_tese_a	60	02	Valores máximo y mínimo con un potenciómetro en sus extremos
+70_preguntas_tese_a	61	02	Corriente por una resistencia leída por su código de colores
+70_preguntas_tese_a	70	02	Tensión adquirida por un condensador al cabo de un segundo
+70_preguntas_tese_a	74	02	Multiplicador rojo del código de colores
+70_preguntas_tese_a	76	02	Corriente de colector de un transistor bipolar en región activa
+70_preguntas_tese_a	82	02	A qué equivale el circuito de la figura
+70_preguntas_tese_a	87	02	Ganancia en decibelios de un amplificador con transistor de beta 200
+71_preguntas_tese_b	18	02	Valor de una resistencia por su código de colores
+71_preguntas_tese_b	22	02	Componente que filtra frecuencias no deseadas de una señal
+70_preguntas_tese_a	20	03	Aplicación en que NO es adecuado un transistor IGBT
+70_preguntas_tese_a	29	03	Transistor para altas tensiones y corrientes con alta capacidad de conmutación
+70_preguntas_tese_a	53	03	Polarización de un transistor de efecto campo
+70_preguntas_tese_a	55	03	Eficiencia de un circuito regulador de tensión
+70_preguntas_tese_a	33	04	Señal de salida ante una señal cuadrada en la entrada
+70_preguntas_tese_a	43	04	Tensión de salida de un circuito para una entrada de 2,5 V
+70_preguntas_tese_a	46	04	Propiedad teórica de un amplificador operacional
+70_preguntas_tese_a	65	04	Valor de tensión a la salida del circuito
+71_preguntas_tese_b	5	04	Operacional configurado como seguidor con Vi y Vo distintos
+70_preguntas_tese_a	12	05	Número binario 110100101 expresado en hexadecimal
+70_preguntas_tese_a	50	05	Puerta lógica a la que corresponde una tabla de verdad
+70_preguntas_tese_a	56	05	Salida generada por una compuerta XOR
+70_preguntas_tese_a	57	05	Cuándo se produce el aliasing
+71_preguntas_tese_b	21	05	Dirección binaria de un equipo expresada en decimal
+70_preguntas_tese_a	17	06	Qué es un flip-flop
+70_preguntas_tese_a	37	06	Afirmación FALSA sobre circuitos secuenciales síncronos
+70_preguntas_tese_a	52	06	Qué es verdadero para un multiplexor
+70_preguntas_tese_a	89	06	Función de un registro en un circuito secuencial
+70_preguntas_tese_a	36	07	Qué es una memoria caché
+70_preguntas_tese_a	42	08	Función de los bits de paridad de las palabras XYZ del SDI
+70_preguntas_tese_a	45	08	Para qué se usa el protocolo PTP del IEEE 1588
+70_preguntas_tese_a	67	08	Dónde informa el HD-SDI del número de línea del cuadro
+70_preguntas_tese_a	71	08	Bit rate de una señal AES3 a 48 kHz
+70_preguntas_tese_a	81	08	Estándar que define el protocolo MADI
+70_preguntas_tese_a	84	08	Orden de las cuatro palabras de EAV y SAV en SDI
+70_preguntas_tese_a	91	08	Canales que transporta el MADI en un solo cable
+70_preguntas_tese_a	92	08	Qué es el protocolo NTP
+71_preguntas_tese_b	8	08	Bitrate de una señal AES-10 a 48.000 muestras por segundo
+71_preguntas_tese_b	20	08	Sustituir un distribuidor de LTC averiado con los que hay en la instalación
+70_preguntas_tese_a	14	09	Cuál NO es característica del protocolo SRT
+70_preguntas_tese_a	19	09	Qué significa latencia en la transmisión de vídeo en directo
+70_preguntas_tese_a	30	09	Qué describe el término bit rate en transmisión de datos
+70_preguntas_tese_a	38	09	Objetivo del estándar SMPTE 2022-7
+70_preguntas_tese_a	41	09	Estándar que regula la transmisión basada en AES67
+70_preguntas_tese_a	75	09	Rango de direcciones que usan las transmisiones multicast
+70_preguntas_tese_a	90	09	Qué es el FEC
+70_preguntas_tese_a	9	10	Cómo afecta la distancia focal a la profundidad de campo
+70_preguntas_tese_a	13	10	Ventaja de la compresión inter-cuadro sobre la intra-cuadro
+70_preguntas_tese_a	15	10	Ventaja de un micrófono hipercardioide en grabación
+70_preguntas_tese_a	16	10	Nivel de salida en dBu de un preamplificador de audio
+70_preguntas_tese_a	18	10	Cómo se determina el ancho de banda de un ecualizador paramétrico
+70_preguntas_tese_a	23	10	Ecuación de la luminancia en el espacio colorimétrico del PAL
+70_preguntas_tese_a	24	10	Función del modo PFL en un mezclador de audio
+70_preguntas_tese_a	25	10	Qué es el canal alfa en un entorno de vídeo
+70_preguntas_tese_a	32	10	Capacidad teórica de un RAID 5 de cuatro discos de 2 TB
+70_preguntas_tese_a	48	10	Qué significa 4:2:2 en codificación de vídeo
+70_preguntas_tese_a	62	10	Qué RAID muestra dos discos de 1 TB como una unidad de 2 TB
+70_preguntas_tese_a	66	10	Qué función realiza la corrección matrix en una cámara de televisión
+70_preguntas_tese_a	78	10	Cuántos voltios son 0 dBu en audio analógico
+70_preguntas_tese_a	80	10	Qué mide un vúmetro
+70_preguntas_tese_a	86	10	Qué es una matriz de vídeo
+70_preguntas_tese_a	88	10	Efecto de captar por el micrófono el sonido de los altavoces
+70_preguntas_tese_a	95	10	Ajuste del fader para llevar un canal de -3 dB a 1 dB en el bus
+71_preguntas_tese_b	1	10	Afirmación INCORRECTA sobre los ajustes desde el panel RCP
+71_preguntas_tese_b	16	10	Conectores de los puertos de cámara de un patch de estadio
+70_preguntas_tese_a	79	11	Qué es un dimmer
+70_preguntas_tese_a	10	12	Característica especial de un switch con alimentación por Ethernet
+70_preguntas_tese_a	11	12	Qué configuración de red deja a dos equipos en la misma subred
+70_preguntas_tese_a	35	12	Bits de una dirección IPv6
+70_preguntas_tese_a	68	12	Cuándo se usa el protocolo UDP
+70_preguntas_tese_a	69	12	Banda en que emite la norma IEEE 802.11b
+70_preguntas_tese_a	83	12	Afirmación FALSA sobre el protocolo de inicio de sesión SIP
+70_preguntas_tese_a	85	12	Capas del modelo TCP/IP
+70_preguntas_tese_a	94	12	Qué es un sniffer en redes
+71_preguntas_tese_b	2	12	Conectores compatibles con paneles de fibra SC UPC hembra
+71_preguntas_tese_b	3	12	Código de colores de un RJ45 según el estándar T568B
+71_preguntas_tese_b	14	12	Por qué no se llega a un equipo de otra red enlazada por routers
+71_preguntas_tese_b	27	12	Máscara de subred que se ajusta a una red de 500 equipos
+71_preguntas_tese_b	30	12	Qué son los cables de categoría 6
+70_preguntas_tese_a	49	13	Afirmación correcta sobre una imagen de osciloscopio
+70_preguntas_tese_a	64	13	Instrumento que NO se usa en el diagnóstico de equipos
+70_preguntas_tese_a	73	13	Afirmación correcta sobre un osciloscopio de dos canales
+71_preguntas_tese_b	11	13	Con qué se averigua la polaridad de un altavoz sin fuente de señal
+71_preguntas_tese_b	12	13	Frecuencia de una sinusoide leída en la retícula del osciloscopio
+71_preguntas_tese_b	13	13	Posición del multímetro para medir continuidad
+71_preguntas_tese_b	19	13	Medida de potencia de equipos de FM con carga y cable de RF
+71_preguntas_tese_b	24	13	Osciloscopio para medir un reloj de microprocesador de 100 MHz a 5 GHz
+70_preguntas_tese_a	27	14	Qué permite medir la señal test de escalera de luminancia
+70_preguntas_tese_a	39	14	Ancho de banda ocupado por un transmisor de FM
+70_preguntas_tese_a	54	14	Qué es el diagrama polar de la figura
+70_preguntas_tese_a	77	14	A qué señal test corresponde la imagen
+71_preguntas_tese_b	4	14	Para qué se usa la señal de barras y sus tonos
+71_preguntas_tese_b	9	14	Qué representan unas marcas entre las señales YPbPr en el WFM
+71_preguntas_tese_b	10	14	Qué indica un ruido impulsivo en la zona magenta de una señal patológica
+71_preguntas_tese_b	23	14	Configuración de un WFM que muestra barras UER al 75 %
+71_preguntas_tese_b	28	14	Qué se ve en la imagen de un analizador de espectro de FM
+70_preguntas_tese_a	63	15	Cuál NO es causa válida de una soldadura fría
+71_preguntas_tese_b	29	15	Causa más probable de un zumbido constante de 50 Hz en un amplificador
+71_preguntas_tese_b	15	16	Cómo funciona una licencia flotante en un sistema de redacción
+71_preguntas_tese_b	17	16	Problema al abrir un proyecto de edición en una versión anterior del software
+71_preguntas_tese_b	25	16	Qué hacer ante el fallo de un disco del almacenamiento único de continuidad
+70_preguntas_tese_a	5	17	Efecto en la salud que NO se relaciona con la radiación de radiofrecuencia
+70_preguntas_tese_a	58	17	Para qué se usan los interruptores diferenciales
+71_preguntas_tese_b	6	17	Conector de acometida de una unidad móvil con tres fases, neutro y protección
+70_preguntas_tese_a	96	17	Valores a partir de los cuales se considera alta tensión
