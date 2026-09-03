@@ -34,6 +34,21 @@ def limpia(s):
 def main():
     # fuera la portada y el índice: son envoltorio, no afirmaciones del tema
     tema = sin_envoltorio(open(sys.argv[1], encoding="utf-8").read())
+    # **Un esquema se mira contra su tema.** El esquema es un telegrama y su
+    # estilo son los rótulos en mayúsculas —«LA REGLA QUE LO ORDENA TODO»—, de
+    # modo que la salvedad de «la palabra que también sale en minúscula no es
+    # sigla» no le sirve: en un texto tan corto la palabra puede no salir
+    # nunca en minúscula aunque sea castellana corriente. El tema del que el
+    # esquema resume dice esas mismas palabras en prosa normal, así que se le
+    # presta su vocabulario. Sin esto la lente devuelve decenas de avisos que
+    # no son siglas y **entierra los que sí lo son** (manual, apartado 10),
+    # que es el único motivo por el que se mira la lista.
+    gemelo = ""
+    ruta = os.path.abspath(sys.argv[1])
+    if os.sep + "esquemas" + os.sep in ruta:
+        par = ruta.replace(os.sep + "esquemas" + os.sep, os.sep + "temas" + os.sep, 1)
+        if os.path.exists(par):
+            gemelo = sin_envoltorio(open(par, encoding="utf-8").read())
     hallazgos = 0
 
     print("## Tejido conectivo y relleno")
@@ -112,6 +127,27 @@ def main():
                 "CORTA", "CORTO", "EN", "FILTRO", "MEJOR", "MUY", "PUESTA",
                 "SON", "TIEMPO", "TIPO", "UN", "SI", "NI", "AL", "SU",
                 "GEOMETRIA", "ANTES", "AHORA", "AQUI", "ESE", "ESTA",
+                # y las que los **esquemas** ponen en mayúsculas por ser su
+                # estilo: el telegrama rotula cada línea —«LA REGLA QUE LO
+                # ORDENA TODO», «AVISO DE ESTUDIO»— y esas palabras son
+                # castellano corriente. Sin ellas la lista de siglas de un
+                # esquema sale llena de avisos que no lo son y **entierra
+                # los que sí**, que es el único motivo de mirarla
+                "AJUSTE", "AMIGO", "APORTA", "AVISO", "AYUDA", "BUSCA", "CARO",
+                "CLAVE", "CRUZA", "CUENTA", "DECIDE", "DICEN", "DOBLE", "ERROR",
+                "ESCALA", "FALSO", "FIJA", "FIJAN", "FONDO", "FRASE", "FRENTE",
+                "GENERA", "IDEA", "JUNTOS", "LLEVAR", "MAL", "MARCA", "MARGEN",
+                "METEN", "MIENTE", "OFICIO", "OJO", "OLVIDA", "ORDENA", "ORO",
+                "PESAN", "PIEZA", "PUENTE", "QUEDAN", "RASGOS", "RAZONA", "REAL",
+                "REALES", "REGLA", "RESIDE", "SABER", "SALEN", "SOBRA", "SONORA",
+                "ENLAZA", "MUERDE", "OYE", "CUESTA", "CAMBIA", "DEPENDE", "DECIDEN",
+                "SIRVE", "SIRVEN", "APARECE", "APARECEN", "EXIGE", "EXIGEN", "MIDE",
+                "MIDEN", "SUENA", "SUENAN", "TOCA", "PIDE", "PIDEN", "ABRE",
+                "CIERRA", "SUBE", "BAJA", "ENTRA", "SALE", "LLEGA", "QUEDA",
+                "IMPORTA", "AHORRA", "PIERDE", "GANA", "JUNTA", "SEPARA", "RESUELVE",
+                "AVISA", "TRADUCE",
+                "SUELO", "TABLA", "VALE", "VEN", "VERDAD", "VIENE", "VIVA",
+                "COSA", "USA", "EXACTA", "FALSAS", "SUB", "NEAR",
                 "DEL", "PASIVA", "ACTIVA", "PASIVO", "ACTIVO", "LOS", "LAS",
                 "UNA", "MAYOR", "MENOR", "IGUALES", "DISTINTO", "DISTINTA",
                 "UMBRAL", "UNIDAD", "GRUPO", "BANDA", "CANAL", "NIVEL",
@@ -170,13 +206,27 @@ def main():
     # avisos que sí lo son**, que es el único motivo por el que se mira.
     # Una sigla de verdad —SMPTE, RAID, OETF— no sale nunca en minúscula.
     minusculas = set()
-    for m in re.finditer(r"\b([A-Za-zÁÉÍÓÚÜÑáéíóúüñ]{2,6})\b", tema):
+    for m in re.finditer(r"\b([A-Za-zÁÉÍÓÚÜÑáéíóúüñ]{2,6})\b", tema + " " + gemelo):
         pal = m.group(1)
         if pal.isupper():
             continue
         minusculas.add(quita_tildes(pal).upper())
+    # **lo que el tema no nombra, el esquema no puede presentar.** El esquema
+    # resume su tema: una sigla de la materia sale en los dos. Una palabra en
+    # mayúsculas que **no aparece en el tema de ninguna forma** —ni en
+    # mayúsculas ni en minúsculas— es un rótulo del telegrama, castellano
+    # puesto en mayúsculas por estilo: «QUÉ PASA SI NO SE CRUZAN», «EL PRECIO».
+    # Avisar de esas **entierra las siglas que sí lo son** (manual, apartado
+    # 10). La salvedad sólo vale cuando hay tema gemelo, es decir, sólo para
+    # los esquemas: en un tema no hay contra qué contrastar y se mira todo.
+    del_tema = set()
+    if gemelo:
+        for m in re.finditer(r"\b([A-Za-zÁÉÍÓÚÜÑáéíóúüñ]{2,6})\b", gemelo):
+            del_tema.add(quita_tildes(m.group(1)))
     for sigla in sorted(set(re.findall(r"\b([A-Z]{2,6})\b", tema))):
         if quita_tildes(sigla) in minusculas:
+            continue
+        if gemelo and quita_tildes(sigla) not in del_tema:
             continue
         if sigla in trozos and sigla not in enteras:
             continue
