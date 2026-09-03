@@ -5,7 +5,7 @@ inglés *content management system*); el identificador (**ID**, del inglés *ide
 de transferencia de ficheros (**FTP**, del inglés *file transfer protocol*) y sus vecinos el
 protocolo simple de transferencia de correo (**SMTP**, del inglés *simple mail transfer protocol*),
 el lenguaje de marcado de hipertexto (**HTML**, del inglés *hypertext markup language*) y el
-protocolo de transferencia de hipertexto seguro (**HTTPS**); la optimización para buscadores
+protocolo de transferencia de hipertexto (**HTTP**) y su variante segura (**HTTPS**); la optimización para buscadores
 (**SEO**, del inglés *search engine optimization*); los metadatos (**MD**); y el vídeo a la carta
 (**VoD**, del inglés *video on demand*).
 
