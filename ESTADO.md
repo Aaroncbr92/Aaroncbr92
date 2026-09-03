@@ -180,8 +180,8 @@ en Documentación y en Producción (Asistencia).
       **Libro cuarto** del RDL 24/2021 (`BOE-A-2021-17910`), que es donde está el régimen de
       las plataformas y **no** en la ley que cita el enunciado. Las **nueve** preguntas reales
       de la materia se contestan con el tema delante
-      (`informes/cobertura-produccion-tema-02.md`), y las cuatro lentes dejaron **once
-      correcciones aplicadas** (`informes/refutacion-produccion-tema-02.md`). Con su **esquema
+      (`informes/cobertura-produccion-asistencia-tema-02.md`), y las cuatro lentes dejaron **once
+      correcciones aplicadas** (`informes/refutacion-produccion-asistencia-tema-02.md`). Con su **esquema
       de repaso**, 4.432 palabras y 117 líneas de telegrama, en el rango del de la Constitución
       y sin crecer en proporción al tema.
 - [x] **Tema 17 del específico de Producción (Asistencia)** —Ley de Protección de Datos—
@@ -189,9 +189,9 @@ en Documentación y en Producción (Asistencia).
       **Reglamento (UE) 2016/679**, que hizo falta traer entero porque la ley orgánica **no repite
       lo que el Reglamento dice** y remite a él en casi todos sus artículos. Las **cinco**
       preguntas reales se contestan con el tema delante
-      (`informes/cobertura-produccion-tema-17.md`), y las lentes dejaron **nueve correcciones
+      (`informes/cobertura-produccion-asistencia-tema-17.md`), y las lentes dejaron **nueve correcciones
       aplicadas** más dos arreglos de herramienta
-      (`informes/refutacion-produccion-tema-17.md`). Con esquema de repaso.
+      (`informes/refutacion-produccion-asistencia-tema-17.md`). Con esquema de repaso.
 - [x] `herramientas/doue.py`: lector de **normas de la Unión Europea publicadas por el BOE** en su
       sección del Diario Oficial. Trocea el articulado con la misma forma que espera `boe.py`, para
       que las lentes trabajen sobre un reglamento europeo igual que sobre una ley española;
@@ -219,7 +219,7 @@ en Documentación y en Producción (Asistencia).
       —**UIT-R BT.601-7**, **UIT-R BT.2100-1**, **RD 2032/2009** y el **DB-HR** del Código
       Técnico— y **las diez restantes se apoyan en la plantilla oficial y el uso profesional,
       marcado una a una**. Las diecisiete se contestan con el tema delante
-      (`informes/cobertura-produccion-tema-10.md`).
+      (`informes/cobertura-produccion-asistencia-tema-10.md`).
 - [x] **Dos fuentes más, encontradas al escribirlo**: la definición del **tiempo de reverberación**
       —caída de **60 dB**— no necesitaba la ISO 3382, está en el **anejo de terminología del
       DB-HR** publicado en el BOE (`BOE-A-2007-18400`); y la **AES**, aunque no deja leer la
@@ -240,7 +240,7 @@ en Documentación y en Producción (Asistencia).
       practicable, el **cuadro 1 de la UIT-R BT.601-7** para el complementario del magenta y la
       física para la transmisión de la luz—. **Las dieciséis restantes se apoyan en la plantilla
       oficial y el uso profesional, y el tema lo marca una a una y lo dice en su portada.** Las
-      veinte se contestan con el tema delante (`informes/cobertura-produccion-tema-09.md`).
+      veinte se contestan con el tema delante (`informes/cobertura-produccion-asistencia-tema-09.md`).
 - [x] **Corregido un fallo de método que había cerrado tres fuentes buenas.** El tema 9 se cerró
       declarando que **las cuatro fichas de fabricante no se habían podido consultar**. Al empezar
       el tema siguiente se volvió a intentar y **tres estaban disponibles todo el tiempo**: la ruta
@@ -281,7 +281,7 @@ en Documentación y en Producción (Asistencia).
       **UIT-R SNG.770-2**, **UIT-T G.984.1**, **ETSI EN 300 744** y **EN 302 755**, índice de la
       **SMPTE ST 2110** y ficha de **LiveU**—. Las tres restantes —streaming, señal Pool y los
       datos de acceso al satélite— se apoyan sólo en la plantilla, y van marcadas
-      (`informes/cobertura-produccion-tema-11.md`).
+      (`informes/cobertura-produccion-asistencia-tema-11.md`).
 - [x] **Tercera puerta abierta que estaba dada por cerrada: el ETSI.** Con la regla del tema 9
       —dos rutas y un agente de navegador— la norma europea del DVB **se descargó a la primera**.
       Y cambió el tema: la sigla **DVB** pasó de ser un dato de memoria a estar **en el título de
@@ -610,7 +610,7 @@ en Documentación y en Producción (Asistencia).
       | Volumen | Temas | Preguntas | Páginas |
       |---|---:|---:|---:|
       | `libro-general` | 8 | 487 | **255** |
-      | `libro-produccion` | 18 | 154 | **257** |
+      | `libro-produccion-asistencia` | 18 | 154 | **257** |
       | `libro-documentacion` | 7 | 113 | **131** |
       | `libro-informacion` | 11 | 209 | **189** |
       | `libro-gestion-administrativa` | 13 | 106 | **157** |

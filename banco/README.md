@@ -60,23 +60,23 @@ su respuesta oficial.
 
 | Fichero | Tema | Preguntas |
 |---|---|---|
-| `produccion-01.md` | 1 · La producción: sistemas y métodos | 6 |
-| `produccion-02.md` | 2 · Derechos de autor. Propiedad intelectual | 10 |
-| `produccion-03.md` | 3 · El guion | 6 |
-| `produccion-04.md` | 4 · El desglose | 2 |
-| `produccion-05.md` | 5 · Localización | 3 |
-| `produccion-06.md` | 6 · Organización, plan y orden de trabajo | 4 |
-| `produccion-07.md` | 7 · Equipos humanos | 6 |
-| `produccion-08.md` | 8 · Formatos y soportes | 6 |
-| `produccion-09.md` | 9 · Escenografía e iluminación | **20** |
-| `produccion-10.md` | 10 · Imagen y sonido | **17** |
-| `produccion-11.md` | 11 · Medios de transmisión de señal | 10 |
-| `produccion-12.md` | 12 · El estudio de televisión | 6 |
-| `produccion-13.md` | 13 · Equipos técnicos de exteriores | 7 |
-| `produccion-14.md` | 14 · Documentación internacional | 6 |
-| `produccion-15.md` | 15 · Organismos | 6 |
-| `produccion-16.md` | 16 · Gestión de servicios varios | 3 |
-| `produccion-17.md` | 17 · Protección de datos | 5 |
+| `produccion-asistencia-01.md` | 1 · La producción: sistemas y métodos | 6 |
+| `produccion-asistencia-02.md` | 2 · Derechos de autor. Propiedad intelectual | 10 |
+| `produccion-asistencia-03.md` | 3 · El guion | 6 |
+| `produccion-asistencia-04.md` | 4 · El desglose | 2 |
+| `produccion-asistencia-05.md` | 5 · Localización | 3 |
+| `produccion-asistencia-06.md` | 6 · Organización, plan y orden de trabajo | 4 |
+| `produccion-asistencia-07.md` | 7 · Equipos humanos | 6 |
+| `produccion-asistencia-08.md` | 8 · Formatos y soportes | 6 |
+| `produccion-asistencia-09.md` | 9 · Escenografía e iluminación | **20** |
+| `produccion-asistencia-10.md` | 10 · Imagen y sonido | **17** |
+| `produccion-asistencia-11.md` | 11 · Medios de transmisión de señal | 10 |
+| `produccion-asistencia-12.md` | 12 · El estudio de televisión | 6 |
+| `produccion-asistencia-13.md` | 13 · Equipos técnicos de exteriores | 7 |
+| `produccion-asistencia-14.md` | 14 · Documentación internacional | 6 |
+| `produccion-asistencia-15.md` | 15 · Organismos | 6 |
+| `produccion-asistencia-16.md` | 16 · Gestión de servicios varios | 3 |
+| `produccion-asistencia-17.md` | 17 · Protección de datos | 5 |
 
 ### Documentación
 
