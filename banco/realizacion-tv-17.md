@@ -1,6 +1,6 @@
 # Realización · Tema 17 · El sonido
 
-19 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+18 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -238,23 +238,6 @@ a) A.
 b) B.
 c) C.
 d) D.
-```
-
----
-
-**68_preguntas_realizacion_b · nº 101 · respuesta: d**
-
-```
-101.- El punto dulce:
-a) Es una técnica narrativa utilizada por el realismo poético francés de Marcel Carné por la
-cuál los personajes solo llegan a la felicidad a través de un cuestionamiento personal y
-la aceptación del otro.
-b) Es un recurso de iluminación en el que se sitúan pequeños focos de cuarzo sobre el
-objetivo de las cámaras para suavizar los contornos de los rostros.
-c) Es en la trama el momento posterior al clímax donde el o la protagonista ha alcanzado
-su objetivo, eliminando todo conflicto o contraintención del antagonista.
-d) Es donde el trabajo de la óptica es óptimo, reduciendo aberraciones y proporcionando
-una mayor definición y se encuentra en las&nbsp;aperturas de diafragma intermedias.
 ```
 
 ---

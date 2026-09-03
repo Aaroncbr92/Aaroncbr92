@@ -16,7 +16,7 @@ marca.
 > sus características. Foco. Profundidad de campo. Diagrama. Filtros. Soportes cámara. Estabilizadores
 > y otros accesorios.»
 
-**Quince preguntas: el segundo banco de esta ocupación**, sólo por detrás del de producción de
+**Dieciséis preguntas: el segundo banco de esta ocupación**, sólo por detrás del de producción de
 programas directos y grabados. **Y el punto que más pregunta por objetos concretos** —un cangrejo, un
 *slider*, una *mini jib*, un signo grabado en una carcasa—, **que es la clase de pregunta que no se
 deduce: se sabe o no se sabe.**
@@ -25,7 +25,8 @@ deduce: se sabe o no se sabe.**
 leer «Diafragma».** **Es una errata del propio pliego** —la lista es «Foco. Profundidad de campo.
 Diagrama. Filtros»: los cuatro conceptos de una óptica—, y **el examen lo confirma**: la pregunta 57
 pregunta por el diafragma, y ninguna de las 229 preguntas del bloque específico pregunta por un
-diagrama. **El temario desarrolla el diafragma y lo declara aquí en lugar de arrastrar la errata.**
+diagrama. **El temario desarrolla el diafragma en su epígrafe 7 y declara la errata aquí en lugar de
+arrastrarla.**
 
 <!-- indice -->
 
@@ -37,14 +38,15 @@ diagrama. **El temario desarrolla el diafragma y lo declara aquí en lugar de ar
 - [4. El balance de blancos y la superficie de referencia](#4-el-balance-de-blancos-y-la-superficie-de-referencia)
 - [5. Los defectos de la imagen captada](#5-los-defectos-de-la-imagen-captada)
 - [6. Los objetivos por su ángulo de visión](#6-los-objetivos-por-su-ángulo-de-visión)
-- [7. El signo Φ: dónde empieza a medirse la distancia](#7-el-signo-φ-dónde-empieza-a-medirse-la-distancia)
-- [8. El dolly-zoom](#8-el-dolly-zoom)
-- [9. Los soportes de cámara](#9-los-soportes-de-cámara)
-- [10. La estabilización: pasiva y activa](#10-la-estabilización-pasiva-y-activa)
-- [11. Las cámaras sin operador detrás: PTZ y Twin Cam](#11-las-cámaras-sin-operador-detrás-ptz-y-twin-cam)
-- [12. La pregunta que depende de una planta](#12-la-pregunta-que-depende-de-una-planta)
-- [13. Los datos que el examen ha preguntado](#13-los-datos-que-el-examen-ha-preguntado)
-- [14. Trazabilidad](#14-trazabilidad)
+- [7. El diafragma y el punto dulce](#7-el-diafragma-y-el-punto-dulce)
+- [8. El signo Φ: dónde empieza a medirse la distancia](#8-el-signo-φ-dónde-empieza-a-medirse-la-distancia)
+- [9. El dolly-zoom](#9-el-dolly-zoom)
+- [10. Los soportes de cámara](#10-los-soportes-de-cámara)
+- [11. La estabilización: pasiva y activa](#11-la-estabilización-pasiva-y-activa)
+- [12. Las cámaras sin operador detrás: PTZ y Twin Cam](#12-las-cámaras-sin-operador-detrás-ptz-y-twin-cam)
+- [13. La pregunta que depende de una planta](#13-la-pregunta-que-depende-de-una-planta)
+- [14. Los datos que el examen ha preguntado](#14-los-datos-que-el-examen-ha-preguntado)
+- [15. Trazabilidad](#15-trazabilidad)
 
 <!-- /indice -->
 
@@ -92,7 +94,8 @@ obturación.** Ésa es la respuesta oficial a la pregunta 57.
 | **Obturación** | **Cuánto tiempo está expuesto cada fotograma**: fija el barrido de movimiento y evita el parpadeo de las pantallas en plató |
 
 **A los tres se suman en la práctica el nivel de negro y la ganancia**, que son los epígrafes 3 y 4 de
-este tema.
+este tema. **Y el diafragma tiene además epígrafe propio, el 7**, porque **el cuadernillo lo pregunta
+también por su punto óptimo.**
 
 **Las tres opciones falsas y dónde vive de verdad cada mando:**
 
@@ -215,7 +218,46 @@ pueden obtener con un objetivo determinado.** **La respuesta se lee en la refere
 —relación de zoom por focal mínima: un HJ17x va de una focal mínima a diecisiete veces esa focal—, y
 **el recorrido resultante es amplio pero finito.**
 
-## 7. El signo Φ: dónde empieza a medirse la distancia
+## 7. El diafragma y el punto dulce
+
+**El diafragma es el iris del objetivo**, y **la escala con que se numera es la que más desconcierta al
+que empieza**: **los números f crecen cuando la abertura disminuye.** **f/2 es una abertura grande;
+f/16, una abertura pequeña.** **Y cada paso de la escala —f/1,4, f/2, f/2,8, f/4, f/5,6, f/8, f/11,
+f/16— deja pasar la mitad de luz que el anterior**, porque **la escala avanza multiplicando por la raíz
+cuadrada de dos.**
+
+**Y de ahí sale la pregunta 101, que es la única de óptica que el cuadernillo formula sin nombrar la
+óptica**: **el punto dulce es donde el trabajo de la óptica es óptimo, reduciendo aberraciones y
+proporcionando una mayor definición, y se encuentra en las aperturas de diafragma intermedias.** Ésa es
+la respuesta oficial.
+
+**El porqué son dos defectos que tiran en direcciones contrarias:**
+
+| Extremo de la escala | Qué degrada la imagen |
+|---|---|
+| **Abertura máxima** —f/1,4, f/2— | **Las aberraciones**: los rayos que pasan por el borde de la lente no enfocan donde los del centro. **A plena abertura la lente trabaja con todo su vidrio, defectos incluidos** |
+| **Abertura mínima** —f/16, f/22— | **La difracción**: al estrecharse mucho el paso, la luz se dispersa en el borde del iris y el detalle se emborrona. **Y este defecto no depende de la calidad de la lente: es física** |
+| **Aberturas intermedias** ✔ | **El punto dulce**: **el diafragma ya ha tapado los bordes de la lente y todavía no es tan pequeño como para difractar** |
+
+**Dónde cae en la práctica**: **dos o tres pasos por debajo de la abertura máxima.** **En un objetivo
+que abre a f/2, alrededor de f/5,6; en uno que abre a f/2,8, alrededor de f/8.** **No es un valor fijo:
+es una posición relativa dentro de la escala de cada objetivo.**
+
+**Y las tres opciones falsas de esta pregunta merecen mirarse, porque son el ejemplo más claro de una
+técnica del cuadernillo**: **las tres describen conceptos de otros temas del propio anexo**, escritos
+con la solvencia suficiente para pasar por buenos.
+
+| Opción | De qué tema del anexo es |
+|---|---|
+| **Técnica narrativa del realismo poético francés de Marcel Carné** | **Del punto 1.7, el cine**: y **está inventada** —el realismo poético existe, esa doctrina no— |
+| **Focos de cuarzo sobre el objetivo para suavizar rostros** | **Del punto 4.4, la iluminación**: describe algo parecido a un filtro difusor, pero **puesto donde nadie pone un foco** |
+| **Momento posterior al clímax en que se elimina el conflicto** | **Del punto 2.2, el guion**: es una descripción casi correcta del **desenlace** |
+
+**La lección que deja**: **una opción bien escrita de otra materia no es una opción correcta.** **Quien
+no sepa qué es el punto dulce reconocerá al menos que las otras tres hablan de otra cosa**, y **eso
+basta para acertar.**
+
+## 8. El signo Φ: dónde empieza a medirse la distancia
 
 **El signo Φ que se ve en el cuerpo de muchas cámaras indica el punto en el que se encuentra el plano
 focal de la cámara.** Ésa es la respuesta oficial a la pregunta 25.
@@ -239,7 +281,7 @@ esa diferencia es todo el margen que hay.**
 vemos moverse una sucesión de fotogramas.** **Una opción que une dos definiciones correctas de cosas
 distintas casi siempre es falsa**, y **es un patrón que se repite en este cuadernillo.**
 
-## 8. El dolly-zoom
+## 9. El dolly-zoom
 
 **Para distorsionar la perspectiva del fondo manteniendo estable el objeto principal se utiliza el
 dolly-zoom.** Ésa es la respuesta oficial a la pregunta 106.
@@ -262,7 +304,7 @@ travelling no son intercambiables.**
 3. **Contrapicar** cambia el punto de vista y la relación de poder del encuadre, **pero no altera la
    relación de perspectiva entre sujeto y fondo.**
 
-## 9. Los soportes de cámara
+## 10. Los soportes de cámara
 
 **Tres preguntas del cuadernillo son de vocabulario de soportes**, y **se contestan con una tabla:**
 
@@ -292,7 +334,7 @@ las hace útiles para estudiar:
 **La diferencia que ordena las tres respuestas**: **el cangrejo sujeta el suelo, el *slider* mueve la
 cámara en línea recta y la *jib* la mueve en arco.** **Ninguno de los tres estabiliza.**
 
-## 10. La estabilización: pasiva y activa
+## 11. La estabilización: pasiva y activa
 
 **La estabilización pasiva es la capacidad de mantener fija la orientación de la cámara a través de los
 medios mecánicos de un soporte.** Ésa es la respuesta oficial a la pregunta 68.
@@ -314,7 +356,7 @@ suavizar un movimiento; estabilizar es cancelarlo.**
 cabeza motorizada, un gimbal con contrapesos— **pero no es lo que la palabra «pasiva» significa**:
 **pasivo es, por definición, lo que no consume energía para corregir.**
 
-## 11. Las cámaras sin operador detrás: PTZ y Twin Cam
+## 12. Las cámaras sin operador detrás: PTZ y Twin Cam
 
 **Una cámara PTZ es una cámara robotizada que gira en horizontal, gira en vertical y hace zoom**, sin
 nadie a su lado. **Es la cámara de los platós de informativos, de los plenos y de las salas de prensa.**
@@ -352,7 +394,7 @@ opción c) describe**. **La opción c) no es un disparate: es el otro uso del mi
 decide es la plantilla**, y **el temario lo declara en lugar de fingir que el término sólo significa
 una cosa.**
 
-## 12. La pregunta que depende de una planta
+## 13. La pregunta que depende de una planta
 
 **Una de las quince preguntas de este tema no se puede contestar leyendo**: **la pregunta 48 pide decir
 qué cámaras llevan teleobjetivo según la planta de decorado que acompaña al enunciado.** **La respuesta
@@ -373,7 +415,7 @@ regla de su familia**, que **es lo que hace legible cualquier planta de decorado
 **Con esas tres reglas se lee cualquier planta. Ninguna de las tres sustituye a verla**, y **el tema lo
 dice.**
 
-## 13. Los datos que el examen ha preguntado
+## 14. Los datos que el examen ha preguntado
 
 | Nº | Lo que pregunta | Respuesta oficial |
 |---|---|---|
@@ -391,18 +433,19 @@ dice.**
 | 88 | Qué es una Twin Cam | b) Cámara doble, superficie y bajo el agua ✔ **·** sólo con la plantilla |
 | 94 | Qué es un cangrejo | a) Soporte extensible acoplado al trípode ✔ |
 | 100 | Balance de blancos repetido sobre un vaquero azul claro | c) Tono más cálido ✔ |
+| 101 | Qué es el punto dulce | d) Donde la óptica es óptima, en diafragmas intermedios ✔ |
 | 106 | Cómo distorsionar la perspectiva del fondo | a) Utilizando el dolly-zoom ✔ |
 
-**Las quince respuestas oficiales son correctas.**
+**Las dieciséis respuestas oficiales son correctas.**
 
-**Dos de las quince descansan sólo en la plantilla**: **la que depende de una planta de decorado y la
+**Dos de las dieciséis descansan sólo en la plantilla**: **la que depende de una planta de decorado y la
 que depende de un término que no está normalizado.**
 
-**Y un aviso de reparto**: **una de las quince es una pregunta negativa** —la 1— y **se contesta
-buscando la falsa**; **las otras catorce, buscando la verdadera.** **Leer el «NO» del enunciado es, en
+**Y un aviso de reparto**: **una de las dieciséis es una pregunta negativa** —la 1— y **se contesta
+buscando la falsa**; **las otras quince, buscando la verdadera.** **Leer el «NO» del enunciado es, en
 este tema, la mitad del acierto de esa pregunta.**
 
-## 14. Trazabilidad
+## 15. Trazabilidad
 
 **Este tema no cita ninguna norma.** Su materia son las nociones básicas de la cámara, sus objetivos,
 sus soportes y sus accesorios, y **va como oficio**, salvo dos afirmaciones que descansan en la
@@ -434,7 +477,7 @@ plantilla.
 **El resto del tema va como oficio y así se declara**: la cadena cabeza-CCU-panel, el reparto de mandos
 entre el control de imagen y el operador, el comportamiento de la ganancia y su equivalencia en pasos de
 diafragma, el mecanismo del balance de blancos y la regla del color complementario, la distinción entre
-*blooming*, *smear* y *moiré*, la función de la marca del plano focal, la mecánica del dolly-zoom, el
-vocabulario de soportes y la separación entre estabilización pasiva y activa. **Nada de eso está en un
+*blooming*, *smear* y *moiré*, la función de la marca del plano focal, la mecánica del dolly-zoom, la escala de números f y la
+posición del punto dulce entre la aberración y la difracción, el vocabulario de soportes y la separación entre estabilización pasiva y activa. **Nada de eso está en un
 boletín oficial ni en una norma técnica de las consultadas**, y el tema no lo presenta como si lo
 estuviera.
