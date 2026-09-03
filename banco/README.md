@@ -51,7 +51,7 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 ## Y el banco del bloque **específico**
 
-Hay uno por ocupación tipo. Los **siete** que existen suman **814 preguntas**, todas con
+Hay uno por ocupación tipo. Los **ocho** que existen suman **889 preguntas**, todas con
 su respuesta oficial.
 
 ### Producción (Asistencia)
@@ -318,6 +318,43 @@ refutación.
 
 Y **dos preguntas de este cuadernillo se apartan del programa**: la nº 6 y la nº 89 examinan de la
 **Ley Orgánica 7/2021**, que el Anexo 2 no cita en ningún punto.
+
+### Montaje de Equipos Audiovisuales
+
+**75 preguntas** del cuadernillo de **Montaje de Equipos Audiovisuales** de 2024, repartidas entre
+los **seis primeros puntos** de su Anexo 2, que aquí se desarrollan en **diez temas**. El séptimo
+punto es el de prevención, que ya comparten las otras ocupaciones específicas.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `montaje-equipos-01.md` | 1 · Instalaciones de televisión y unidades móviles | 2 |
+| `montaje-equipos-02.md` | 2 · Profesionales, roles y operativa de una grabación | 1 |
+| `montaje-equipos-03.md` | 3 · Las cámaras: tipos, elementos externos y manejo seguro | 7 |
+| `montaje-equipos-04.md` | 4 · Cabezas de cámara y soportes: instalación y nivelado | 8 |
+| `montaje-equipos-05.md` | 5 · Conectores, cables y elementos de conexión | **17** |
+| `montaje-equipos-06.md` | 6 · Sonido: micrófonos, altavoces y soportes | 11 |
+| `montaje-equipos-07.md` | 7 · Maquinaria para el movimiento de cámaras | **13** |
+| `montaje-equipos-08.md` | 8 · La cabeza caliente | 2 |
+| `montaje-equipos-09.md` | 9 · Montaje de equipos en estudios y exteriores | **13** |
+| `montaje-equipos-10.md` | 10 · Asistencia a la operación de cámara | 1 |
+
+**Los dos puntos de conexión del Anexo 2 —el 2.4 y el 3.2— se han unido en un solo tema**, el 5,
+porque preguntan de lo mismo: conectores y elementos de conexión. Con los dos juntos, **es el punto
+más preguntado de la ocupación con diecisiete preguntas: casi una de cada cinco**.
+
+**Siete de las trece preguntas del tema 9 no son de montaje audiovisual sino de electricidad
+básica** —potencia, resistividad, ley de Ohm, aparatos de medida y protecciones del cuadro—, porque
+el subpunto 5.6 del Anexo 2 dice «baja tensión» y el tribunal lo tomó al pie de la letra.
+
+**Tres preguntas defectuosas, ninguna errata de plantilla.** La **nº 63** llama «fonómetro» al
+**sonómetro**, y el nombre correcto no está entre las opciones. La **nº 9** pide el «rango dinámico»
+del oído y responde con un **margen de frecuencias**, que se mide en hercios y no en decibelios. Y la
+**nº 43 repite literalmente la nº 26**: **una sola respuesta vale dos preguntas de noventa y seis**.
+Las tres van contadas en los informes de refutación.
+
+**Y diez preguntas descansan sólo en la plantilla oficial**, que es la proporción más alta del
+proyecto: son las que citan una máquina por su modelo o su referencia de catálogo, y esa
+documentación no se ha podido consultar. Cada una va declarada en la trazabilidad de su tema.
 
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al

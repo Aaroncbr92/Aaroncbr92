@@ -4,10 +4,10 @@
 
 |  |  |
 | --- | --- |
-| **Bloque** | Temario específico · Producción 18 · Documentación 7 · Información y Contenidos 11 · Gestión Administrativa 13 · Gestión 31 · Realización (Asistencia) 8 |
-| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Producción** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
-| **Fuente** | Seis rúbricas sobre **doce fuentes**: Ley 31/1995, RD 488/1997, RD 486/1997, RD 286/2006, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015 y documentación técnica del INSST |
-| **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-1997-8669` · `BOE-A-1997-8671` · `BOE-A-2001-11881` · `BOE-A-2002-18099` · `BOE-A-2004-21216` · `BOE-A-2006-4414` · `BOE-A-2015-11724` · `BOE-A-2017-6606`. La **documentación técnica del INSST** no tiene identificador del BOE: se cita por su título en cada epígrafe |
+| **Bloque** | Temario específico · Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 8 · Realización 5.1 · Información Gráfica 7 · Edición y Montaje 7 · Montaje de Equipos 7 · Documentación 7 · Información y Contenidos 11 · Gestión Administrativa 13 · Gestión 31 |
+| **Sirve para** | **Producción (Asistencia)** · **Producción** · **Realización (Asistencia)** · **Realización** · **Información Gráfica** · **Edición y Montaje** · **Montaje de Equipos** · **Gestión Administrativa** · **Gestión** · **Documentación** · **Información y Contenidos** |
+| **Fuente** | **Diez rúbricas** sobre **dieciséis fuentes**: Ley 31/1995, RD 487/1997, RD 488/1997, RD 486/1997, RD 1215/1997, RD 286/2006, RD 393/2007, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015, las normas UNE-EN de protección contra caídas —**no consultadas**— y documentación técnica del INSST |
+| **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-1997-8669` · `BOE-A-1997-8670` · `BOE-A-1997-8671` · `BOE-A-1997-17824` · `BOE-A-2001-11881` · `BOE-A-2002-18099` · `BOE-A-2004-21216` · `BOE-A-2006-4414` · `BOE-A-2007-6237` · `BOE-A-2015-11724` · `BOE-A-2017-6606`. La **documentación técnica del INSST** no tiene identificador del BOE: se cita por su título en cada epígrafe |
 | **Redacción que se estudia** | Las **normas**, en su redacción vigente el **21/12/2022**. La **documentación técnica del INSST**, en su **edición publicada**, indicada caso por caso |
 | **Extensión** | **18.550 palabras** |
 

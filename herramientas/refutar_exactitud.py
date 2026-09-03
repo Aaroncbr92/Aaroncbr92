@@ -49,9 +49,19 @@ def articulos(fuente):
     # larga, la lente no reconocía **ni un solo artículo** de esas normas y
     # devolvía otra vez «0 comprobadas», que es el fallo del apartado 10 del
     # manual: el tema se lee revisado y no lo está.
+    # los volcados de preceptos sueltos titulan el epígrafe con el rótulo
+    # entero —«## [a2] Artículo 2. Campo de aplicación.»— mientras que el
+    # volcado de una norma completa lo deja en «## [a2] Artículo 2». Con el
+    # número anclado en `$` esas fuentes no daban **ni un solo artículo** y la
+    # lente devolvía «0 comprobadas, 0 no literales»: cinco fuentes de
+    # preceptos se leían revisadas sin estarlo (manual, apartado 10). Se
+    # admite el rótulo completo detrás del número
     patron = (r"^## \[[^\]]+\] Art(?:ículo|\.)? "
-              r"(\d+(?: bis| ter| quáter| quinquies)?)$"
-              r"\n\n_.*?_\n\n(.*?)(?=^## |\Z)")
+              r"(\d+(?: bis| ter| quáter| quinquies)?)(?:\.[^\n]*)?$"
+              # y el renglón en cursiva que fecha la redacción tampoco está en
+              # todos los volcados: sin hacerlo opcional, la fuente que no lo
+              # lleva vuelve a dar cero artículos
+              r"\n\n(?:_.*?_\n\n)?(.*?)(?=^## |\Z)")
     # un tratado con anexos numera desde 1 dentro de cada anexo, así que
     # "Artículo 1" aparece muchas veces. Con un diccionario que sobrescribe,
     # sólo sobrevive el último y todo lo demás se contrasta **contra el

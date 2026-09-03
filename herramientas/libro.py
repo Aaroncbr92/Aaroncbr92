@@ -222,6 +222,27 @@ AVISOS_REALIZACION = {
         "construida, no una errata de plantilla.",
 }
 
+AVISOS_MONTAJE_EQUIPOS = {
+    "58_preguntas_mont_equip_audio · nº 63":
+        "<b>El nombre correcto del aparato no está entre las opciones.</b> El instrumento que "
+        "mide niveles de presión sonora se llama en español <b>sonómetro</b>, y la plantilla da "
+        "<b>b) «fonómetro»</b>, que es como lo llaman algunos manuales traducidos. Es la única "
+        "opción defendible: <b>«sonímetro» y «presómetro» no existen</b>, y el <b>otoscopio</b> "
+        "sí existe pero <b>mira el oído y no mide sonido</b>. Se contesta por descarte, no por "
+        "el nombre.",
+    "58_preguntas_mont_equip_audio · nº 9":
+        "<b>El enunciado confunde dos magnitudes.</b> Pregunta por el <b>«rango dinámico»</b> del "
+        "oído humano y la respuesta oficial da un <b>margen de frecuencias</b>: <b>de 20 Hz a "
+        "20.000 Hz</b>. El <b>rango dinámico se mide en decibelios</b>, no en hercios; lo que la "
+        "opción marcada da es el <b>margen de frecuencias audibles</b>, que es correcto como "
+        "dato. <b>La respuesta es la única marcable</b>: el defecto está en el enunciado.",
+    "58_preguntas_mont_equip_audio · nº 43":
+        "<b>Esta pregunta es idéntica a la 26 del mismo cuadernillo</b>, con la misma respuesta "
+        "—<b>«centro o base plana»</b> no es parte del carro de una grúa— y un distractor "
+        "distinto. <b>Es la única repetición literal del cuadernillo</b>, y conviene saberla "
+        "porque <b>vale dos preguntas de noventa y seis</b>.",
+}
+
 AVISOS_GESTION_ADMINISTRATIVA = {
     "23_preguntas_gea · nº 21":
         "<b>La plantilla da 33 días de indemnización por despido objetivo, con tope de 12 "
@@ -507,6 +528,49 @@ BLOQUES = {
                       "FORTA, la p\u00e1gina en que una asociaci\u00f3n se define a s\u00ed misma con "
                       "las palabras del enunciado. <b>Donde no hay documento, el tema lo dice</b>, "
                       "y son cuatro veces contadas.</p>",
+    ),
+    "montaje-equipos": dict(
+        carpeta="montaje-equipos",
+        rotulo="Temario específico · Montaje de Equipos Audiovisuales",
+        ocupacion="Montaje de Equipos Audiovisuales",
+        titulo="Temario específico",
+        subtitulo="Los diez temas de <b>Montaje de Equipos Audiovisuales</b>",
+        pie="Oposiciones RTVE – Montaje de Equipos Audiovisuales",
+        avisos=dict(AVISOS_MONTAJE_EQUIPOS, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), "montaje-equipos-%02d" % n) for n, base in [
+            (1, "instalaciones-y-unidades-moviles"),
+            (2, "profesionales-y-operativa"),
+            (3, "camaras-tipos-y-manejo"),
+            (4, "cabezas-y-soportes"),
+            (5, "conectores-y-cables"),
+            (6, "sonido-microfonos-y-altavoces"),
+            (7, "maquinaria-movimiento-camaras"),
+            (8, "la-cabeza-caliente"),
+            (9, "montaje-en-estudios-y-exteriores"),
+            (10, "asistencia-a-la-operacion-de-camara"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Ninguna respuesta oficial de este bloque se puede dar por mal "
+                         "contestada</b>, pero <b>dos preguntas están defectuosas</b> \u2014una "
+                         "pide el \u00abrango din\u00e1mico\u00bb del o\u00eddo y responde con un "
+                         "margen de frecuencias, y otra llama \u00abfon\u00f3metro\u00bb al "
+                         "son\u00f3metro porque el nombre correcto no est\u00e1 entre las "
+                         "opciones\u2014, y <b>una se repite literalmente</b>. Van avisadas debajo "
+                         "de su tabla.",
+        aviso_portada="<p><b>Este es el bloque de oficio del proyecto</b>: casi ninguna de sus "
+                      "noventa y seis preguntas se contesta abriendo una norma. Se contestan "
+                      "sabiendo <b>qu\u00e9 pieza pertenece a qu\u00e9 m\u00e1quina</b> \u2014la copa "
+                      "es del tr\u00edpode y no de la cabeza, el iluminador es la antena y el disco "
+                      "s\u00f3lo refleja\u2014 y <b>qu\u00e9 cable lleva corriente y cu\u00e1l no</b>. "
+                      "El temario los ense\u00f1a con su despiece delante.</p>"
+                      "<p><b>Diecisiete preguntas salen de un solo punto</b>, el de conectores y "
+                      "cables: casi una de cada cinco. Y <b>siete m\u00e1s son electricidad "
+                      "b\u00e1sica</b>, porque el programa dice \u00abbaja tensi\u00f3n\u00bb y el "
+                      "tribunal lo ha tomado al pie de la letra: ah\u00ed s\u00ed hay norma, y va "
+                      "citada \u2014el reglamento electrot\u00e9cnico, su ITC-BT-24 y el real decreto "
+                      "del riesgo el\u00e9ctrico\u2014. <b>Diez datos de cat\u00e1logo descansan s\u00f3lo "
+                      "en la plantilla</b>, y cada uno lo dice en su tema.</p>",
     ),
     "realizacion": dict(
         carpeta="realizacion",
