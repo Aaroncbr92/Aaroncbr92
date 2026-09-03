@@ -76,7 +76,8 @@ SOLO = {"produccion": ("81_preguntas_produccion",),
         # «informatica» aparece en dos nombres de cuadernillo —el de Técnica
         # Informática y el de Ingeniería Superior Informática—, así que esta
         # ocupación dice cuál es el suyo
-        "tecnica-informatica": ("48_preguntas_tec_informatica",)}
+        "tecnica-informatica": ("48_preguntas_tec_informatica",),
+        "diseno-grafico": ("07_preguntas_diseno_grafico",)}
 
 
 def reparto(ocupacion):
@@ -213,6 +214,21 @@ def main(ocupacion, titulos):
 # Los títulos con los que se encabeza cada fichero del banco. Uno por ocupación,
 # porque el reparto es distinto y los temas no se llaman igual.
 TITULOS = {
+    "diseno-grafico": {
+        "01": "Diseño Gráfico · Tema 1 · Óptica: la luz, el color y la imagen",
+        "02": "Diseño Gráfico · Tema 2 · Conocimientos básicos de televisión",
+        "03": "Diseño Gráfico · Tema 3 · Historia del diseño, el cine y la televisión",
+        "04": "Diseño Gráfico · Tema 4 · Composición, montaje, animación y géneros",
+        "05": "Diseño Gráfico · Tema 5 · Fundamentos del diseño y tipografía",
+        "06": "Diseño Gráfico · Tema 6 · Diseño audiovisual y sintaxis de la imagen",
+        "07": "Diseño Gráfico · Tema 7 · Procesos y métodos de diseño",
+        "08": "Diseño Gráfico · Tema 8 · Grafismo de informativos, infografía e interfaz",
+        "09": "Diseño Gráfico · Tema 9 · La continuidad",
+        "10": "Diseño Gráfico · Tema 10 · Equipos y programas de diseño",
+        "11": "Diseño Gráfico · Tema 11 · Postproducción digital",
+        "12": "Diseño Gráfico · Tema 12 · La imagen corporativa",
+        "13": "Diseño Gráfico · Tema 13 · Legislación y derechos de autor",
+    },
     "tecnica-informatica": {
         "01": "Técnica Informática · Tema 1 · Bases de datos y el modelo relacional",
         "02": "Técnica Informática · Tema 2 · Comunicaciones y redes: modelos y "

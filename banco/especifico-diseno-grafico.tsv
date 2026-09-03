@@ -1,0 +1,107 @@
+# Reparto a mano del bloque específico de Diseño Gráfico.
+#
+# **Un cuadernillo**: `07_preguntas_diseno_grafico`, de 96 preguntas —80
+# principales más 16 de reserva—, con su plantilla completa.
+#
+# De las 96, **diez son del bloque común** y las coge el banco general: la 39 y
+# la 74 del II Plan de Igualdad, la 44, la 46, la 54 y la 85 de la
+# Constitución, la 49 de la Ley 31/1995, la 52 del III Convenio, la 60 de la
+# Ley 17/2006 y la 86 de la Ley 8/2009. **Las otras 86 son del específico** y
+# están todas repartidas.
+#
+# **Un punto del anexo no ha dado ni una pregunta**: el 8 —diferencias gráficas
+# entre informativos y programas, infografía y diseño de interfaz—. Su tema se
+# escribe igual, contra el programa.
+#
+# **Cinco preguntas dependen de una figura**: la 5, la 22, la 68, la 71 y la
+# 87. El temario no describe lo que no ha visto: declara cada una y da la regla
+# de su familia.
+#
+# origen	nº	tema	motivo
+origen	numero	tema	motivo
+07_preguntas_diseno_grafico	14	01	Óptica, la luz y el color
+07_preguntas_diseno_grafico	24	01	Óptica, la luz y el color
+07_preguntas_diseno_grafico	37	01	Óptica, la luz y el color
+07_preguntas_diseno_grafico	70	01	Óptica, la luz y el color
+07_preguntas_diseno_grafico	73	01	Óptica, la luz y el color
+07_preguntas_diseno_grafico	76	01	Óptica, la luz y el color
+07_preguntas_diseno_grafico	91	01	Óptica, la luz y el color
+07_preguntas_diseno_grafico	96	01	Óptica, la luz y el color
+07_preguntas_diseno_grafico	1	02	Conocimientos básicos de televisión
+07_preguntas_diseno_grafico	30	02	Conocimientos básicos de televisión
+07_preguntas_diseno_grafico	38	02	Conocimientos básicos de televisión
+07_preguntas_diseno_grafico	77	02	Conocimientos básicos de televisión
+07_preguntas_diseno_grafico	4	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	7	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	11	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	12	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	15	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	17	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	22	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	25	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	33	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	34	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	51	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	59	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	62	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	67	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	79	03	Historia del diseño, el cine y la televisión
+07_preguntas_diseno_grafico	19	04	Composición, montaje, animación y géneros
+07_preguntas_diseno_grafico	23	04	Composición, montaje, animación y géneros
+07_preguntas_diseno_grafico	31	04	Composición, montaje, animación y géneros
+07_preguntas_diseno_grafico	36	04	Composición, montaje, animación y géneros
+07_preguntas_diseno_grafico	43	04	Composición, montaje, animación y géneros
+07_preguntas_diseno_grafico	47	04	Composición, montaje, animación y géneros
+07_preguntas_diseno_grafico	57	04	Composición, montaje, animación y géneros
+07_preguntas_diseno_grafico	90	04	Composición, montaje, animación y géneros
+07_preguntas_diseno_grafico	5	05	Fundamentos del diseño y tipografía
+07_preguntas_diseno_grafico	8	05	Fundamentos del diseño y tipografía
+07_preguntas_diseno_grafico	9	05	Fundamentos del diseño y tipografía
+07_preguntas_diseno_grafico	13	05	Fundamentos del diseño y tipografía
+07_preguntas_diseno_grafico	21	05	Fundamentos del diseño y tipografía
+07_preguntas_diseno_grafico	40	05	Fundamentos del diseño y tipografía
+07_preguntas_diseno_grafico	58	05	Fundamentos del diseño y tipografía
+07_preguntas_diseno_grafico	66	05	Fundamentos del diseño y tipografía
+07_preguntas_diseno_grafico	95	05	Fundamentos del diseño y tipografía
+07_preguntas_diseno_grafico	16	06	Diseño audiovisual y sintaxis de la imagen
+07_preguntas_diseno_grafico	65	06	Diseño audiovisual y sintaxis de la imagen
+07_preguntas_diseno_grafico	72	07	Procesos y métodos de diseño
+07_preguntas_diseno_grafico	94	07	Procesos y métodos de diseño
+07_preguntas_diseno_grafico	29	09	La continuidad
+07_preguntas_diseno_grafico	55	09	La continuidad
+07_preguntas_diseno_grafico	80	09	La continuidad
+07_preguntas_diseno_grafico	92	09	La continuidad
+07_preguntas_diseno_grafico	3	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	6	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	10	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	18	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	26	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	28	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	42	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	48	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	50	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	56	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	63	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	64	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	69	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	71	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	75	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	78	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	81	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	82	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	83	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	93	10	Equipos y programas de diseño
+07_preguntas_diseno_grafico	32	11	Postproducción digital
+07_preguntas_diseno_grafico	35	11	Postproducción digital
+07_preguntas_diseno_grafico	41	11	Postproducción digital
+07_preguntas_diseno_grafico	88	11	Postproducción digital
+07_preguntas_diseno_grafico	89	11	Postproducción digital
+07_preguntas_diseno_grafico	20	12	Imagen corporativa
+07_preguntas_diseno_grafico	27	12	Imagen corporativa
+07_preguntas_diseno_grafico	45	12	Imagen corporativa
+07_preguntas_diseno_grafico	53	12	Imagen corporativa
+07_preguntas_diseno_grafico	68	12	Imagen corporativa
+07_preguntas_diseno_grafico	84	12	Imagen corporativa
+07_preguntas_diseno_grafico	2	13	Legislación y derechos de autor
+07_preguntas_diseno_grafico	61	13	Legislación y derechos de autor
+07_preguntas_diseno_grafico	87	13	Legislación y derechos de autor
