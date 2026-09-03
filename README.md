@@ -70,28 +70,35 @@ Lo que hace por ti en cada precepto:
 
 ## Los volúmenes
 
-**Doce, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a las
-once ocupaciones; los once específicos cierran con **el mismo tema de
+**Catorce, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a las
+trece ocupaciones; los trece específicos cierran con **el mismo tema de
 prevención de riesgos laborales**, que es un solo fichero.
 
 | Volumen | Ocupación tipo | Temas | Preguntas | Páginas |
 |---|---|---:|---:|---:|
-| `libro-general` | Las once | 8 | 500 | 257 |
-| `libro-produccion-asistencia` | Producción (Asistencia) | 18 | 167 | 272 |
-| `libro-produccion` | Producción | 17 | 110 | 224 |
-| `libro-realizacion` | Realización (Asistencia) | 21 | 250 | 294 |
-| `libro-realizacion-tv` | **Realización Televisión** | **23** | **273** | **354** |
-| `libro-documentacion` | Documentación | 7 | 126 | 146 |
-| `libro-informacion` | Información y Contenidos | 11 | 222 | 206 |
-| `libro-gestion-administrativa` | Gestión Administrativa | 13 | 119 | 172 |
-| `libro-gestion` | Gestión | 31 | 125 | 313 |
-| `libro-montaje-equipos` | Montaje de Equipos Audiovisuales | 11 | 119 | 157 |
-| `libro-edicion-montaje` | Edición, Montaje y Procesos Audiovisuales | 11 | 130 | 184 |
-| `libro-informacion-grafica` | Información Gráfica y Captación de Imagen y Sonido | 12 | 138 | 210 |
+| `libro-general` | Las trece | 8 | 503 | 259 |
+| `libro-produccion-asistencia` | Producción (Asistencia) | 18 | 170 | 280 |
+| `libro-produccion` | Producción | 17 | 113 | 232 |
+| `libro-realizacion` | Realización (Asistencia) | 21 | 253 | 303 |
+| `libro-realizacion-tv` | **Realización Televisión** | **23** | **276** | **363** |
+| `libro-documentacion` | Documentación | 7 | 129 | 154 |
+| `libro-informacion` | Información y Contenidos | 11 | 225 | 214 |
+| `libro-gestion-administrativa` | Gestión Administrativa | 13 | 122 | 180 |
+| `libro-gestion` | Gestión | 31 | 128 | 321 |
+| `libro-montaje-equipos` | Montaje de Equipos Audiovisuales | 11 | 122 | 165 |
+| `libro-edicion-montaje` | Edición, Montaje y Procesos Audiovisuales | 11 | 133 | 193 |
+| `libro-informacion-grafica` | Información Gráfica y Captación de Imagen y Sonido | 12 | 141 | 218 |
+| `libro-sonido` | **Sonido** | 18 | 133 | 206 |
+| `libro-tese` | **Técnica de Equipos y Sistemas Electrónicos** | 18 | 161 | 230 |
 
-**Realización Televisión es el volumen más grande del proyecto**: 354 páginas,
+**Realización Televisión es el volumen más grande del proyecto**: 363 páginas,
 veintidós temas propios más el de prevención y **229 preguntas del bloque
 específico**, de dos llamamientos con sus dos plantillas completas.
+
+**Y Técnica de Equipos y Sistemas Electrónicos es el más gráfico**: **treinta de
+sus 114 preguntas dependen de una imagen**, la proporción más alta del proyecto.
+El temario **no describe lo que no ha visto**: declara cada una y aporta la regla
+de su familia.
 
 **Diez respuestas oficiales de 2024 están mal, y van marcadas una a una** con el
 precepto, el modelo de cuentas o la ficha de fabricante que las desmiente. El

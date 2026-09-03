@@ -51,7 +51,7 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 ## Y el banco del bloque **específico**
 
-Hay uno por ocupación tipo. Los **once** que existen suman **1.298 preguntas**, todas con
+Hay uno por ocupación tipo. Los **trece** que existen suman **1.498 preguntas**, todas con
 su respuesta oficial.
 
 ### Producción (Asistencia)
@@ -435,6 +435,97 @@ cifras correctas del margen audible **con la unidad equivocada** —micrómetros
 **Y sólo siete preguntas descansan sólo en la plantilla oficial: el 7,4 %, la proporción más baja de
 todas las ocupaciones audiovisuales del proyecto.** Ochenta y seis de las noventa y cuatro **se
 contestan leyendo**.
+
+### Sonido
+
+**86 preguntas**, repartidas entre los diecisiete temas de su Anexo 2.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `sonido-01.md` | 1 · Electricidad y electrónica básicas | **12** |
+| `sonido-02.md` | 2 · Principios físicos del sonido y la audición | 6 |
+| — | 3 · Música, instrumentos e historia de la música | **0** |
+| `sonido-04.md` | 4 · Acústica arquitectónica | **1** |
+| `sonido-05.md` | 5 · Micrófonos, soportes y accesorios | 8 |
+| `sonido-06.md` | 6 · Señales de contribución | 4 |
+| `sonido-07.md` | 7 · Mezcla y tratamiento del sonido | 7 |
+| `sonido-08.md` | 8 · Postproducción, efectos y estación de trabajo | 2 |
+| `sonido-09.md` | 9 · Grabación de sonido | 4 |
+| `sonido-10.md` | 10 · Sonorización: altavoces y amplificadores | 6 |
+| `sonido-11.md` | 11 · Líneas y conexiones | 8 |
+| `sonido-12.md` | 12 · El sonido en la radio y la televisión | **1** |
+| `sonido-13.md` | 13 · Radiofrecuencia | 3 |
+| `sonido-14.md` | 14 · Medición y sonoridad | 6 |
+| `sonido-15.md` | 15 · Audio multicanal | 4 |
+| `sonido-16.md` | 16 · Audio sobre IP | **9** |
+| `sonido-17.md` | 17 · Audio sobre protocolos digitales | 5 |
+
+**Un solo cuadernillo**, `85_preguntas_sonido`, del proceso de 2024 y con su plantilla completa.
+
+**El punto 1.6 —música e historia de la música— no ha dado ni una pregunta.** Es el **segundo caso del
+proyecto**, después del punto 11 de Información Gráfica, y **el tema se ha escrito igual, contra el
+programa**.
+
+**El enunciado más largo de todo el anexo tiene UNA pregunta, y es sobre un gesto de la mano.** Es la
+respuesta peor documentada de las 86: **los gestos del control son convenio de casa y no hay fuente
+pública que los fije**, y el temario lo declara en lugar de inventar una.
+
+**Cuatro salvedades sobre respuestas correctas, ninguna errata de plantilla.** La **nº 44** tiene
+**dos opciones idénticas, palabra por palabra**; la **nº 36** trae una fórmula cuyas unidades no
+encajan con su propio enunciado; la **nº 46** pide «lo más aproximado» y hace falta, porque el valor
+exacto es 2,67 y la opción marcada es 2,5; y la **nº 82** llama al multímetro herramienta fundamental
+para medir impedancia, cuando un multímetro corriente mide resistencia en continua. **Las cuatro
+respuestas oficiales siguen siendo las correctas de sus cuatro opciones**, y **la cuenta de erratas de
+plantilla del proyecto sigue en diez**.
+
+**Un error de nomenclatura del propio anexo**: su punto 12 dice «Norma AES R-128», y **la R 128 no es
+una norma de la Sociedad de Ingeniería de Audio: es una recomendación de la Unión Europea de
+Radiodifusión**. El temario lo declara, porque quien busque «norma AES R 128» no encontrará nada.
+
+### Técnica de Equipos y Sistemas Electrónicos
+
+**114 preguntas**, repartidas entre los diecisiete temas de su Anexo 2.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `tese-01.md` | 1 · Conceptos básicos de electricidad | 6 |
+| `tese-02.md` | 2 · Componentes electrónicos | **12** |
+| `tese-03.md` | 3 · Electrónica de potencia | 4 |
+| `tese-04.md` | 4 · Amplificadores operacionales | 5 |
+| `tese-05.md` | 5 · Electrónica digital | 6 |
+| `tese-06.md` | 6 · Circuitos integrados y secuenciales | 4 |
+| `tese-07.md` | 7 · Memorias, lógica programable y microprocesadores | **1** |
+| `tese-08.md` | 8 · La señal audiovisual y sus sincronismos | **10** |
+| `tese-09.md` | 9 · La señal audiovisual sobre redes | 7 |
+| `tese-10.md` | 10 · Equipos utilizados en televisión y radio | **19** |
+| `tese-11.md` | 11 · Control de iluminación escénica | **1** |
+| `tese-12.md` | 12 · Comunicaciones y redes | **13** |
+| `tese-13.md` | 13 · Equipos de medida y control | 8 |
+| `tese-14.md` | 14 · Medidas de vídeo, audio y radiofrecuencia | 9 |
+| `tese-15.md` | 15 · Mantenimiento preventivo y correctivo | 2 |
+| `tese-16.md` | 16 · Mantenimiento en televisión | 3 |
+| `tese-17.md` | 17 · Seguridad en instalaciones técnicas | 4 |
+
+**Dos cuadernillos de tamaño muy distinto**: `70_preguntas_tese_a`, de **96 preguntas**, y
+`71_preguntas_tese_b`, que **sus propias instrucciones describen como «30 preguntas (25 principales
+más 5 de reserva)»**. **No es un fallo de extracción: es un examen más corto**, y se lee entero.
+
+**Es la ocupación con más preguntas dependientes de una imagen de todo el proyecto: treinta.** Piden
+leer un esquema de circuito, un símbolo de componente, la pantalla de un instrumento o una fotografía
+de conectores. **Siete de esas treinta están en un solo tema**, el 14, que con siete de nueve tiene la
+proporción más alta de la ocupación. El temario no describe lo que no ha visto: declara cada una y
+aporta **la regla de su familia**.
+
+**Ninguna respuesta oficial es errónea y ninguna es impugnable.** Es el único banco grande del
+proyecto del que puede decirse sin salvedades.
+
+**Cinco preguntas se han reclasificado a mano**: la nº 3 y la nº 6 del primer cuadernillo van al bloque
+común —complemento de disponibilidad y definiciones de la Ley 13/2022—; la 22, la 47, la 51 y la 72
+van al banco compartido de prevención; y la **nº 96, valores de alta tensión, vuelve al específico**,
+porque es materia del punto 20 de esta ocupación y no del tema 8 del general. **De esas cuatro de
+prevención, dos no tenían respuesta en el tema compartido** —la actuación ante una emergencia y la
+iluminación de los lugares de trabajo—, **y el tema se ha ampliado con dos apartados nuevos**.
+
 
 ### Realización Televisión
 

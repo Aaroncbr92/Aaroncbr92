@@ -61,7 +61,9 @@ ya escrito cubre cinco ocupaciones tipo.**
 | `libro-informacion` | Información y Contenidos PORTUGUÉS | 1 | 1 | 11 | **100 %** |
 | `libro-informacion` | Información y Contenidos RUSO | 1 | 1 | 11 | **100 %** |
 
-**Ocho volúmenes cubren once ocupaciones tipo**, 886 puestos y 607 de los que tienen examen.
+**Ocho volúmenes cubren once ocupaciones tipo**, 886 puestos y 607 de los que tienen examen. *(Cifra
+de la fecha del informe. Al cerrarse Sonido y Técnica de Equipos, catorce volúmenes cubren trece
+ocupaciones, 1.085 puestos y 789 con examen; el detalle está en la segunda anotación posterior.)*
 
 ## Qué falta, ordenado por puestos con examen
 
@@ -199,7 +201,8 @@ y queda anotado que el desglose no cuadra.
   `../convocatoria/bases/`.
 - **El propio repositorio**, para el recuento de lo escrito: **en la fecha de este informe**, 120
   ficheros de tema, 120 esquemas y ocho volúmenes compuestos. **Al cerrarse las cuatro ocupaciones
-  que recomendaba**: 173 temas, 173 esquemas y doce volúmenes.
+  que recomendaba**: 173 temas, 173 esquemas y doce volúmenes. **Y al cerrarse Sonido y Técnica de
+  Equipos**: 207 temas, 207 esquemas y catorce volúmenes.
 
 ---
 
@@ -236,3 +239,42 @@ Boletín Oficial del Estado**, porque son unidades legales de medida. **Tres pre
 Televisión que iban a declararse como oficio se contestan con el cuadro de un real decreto delante.**
 **La pregunta que hay que hacerse antes de dar por oficio una materia técnica es si sus magnitudes
 tienen unidad legal.**
+
+---
+
+## Segunda anotación posterior · Sonido y Técnica de Equipos, el mismo día
+
+**Las dos ocupaciones que este informe ponía en cabeza de lo que faltaba están terminadas**, y **la
+comparación con la estimación vuelve a dejar una regla.**
+
+| Ocupación | Puestos | Con examen | Reutilización estimada | Temas escritos | Preguntas del específico |
+|---|---:|---:|---:|---:|---:|
+| **Sonido** | 102 | 93 | **19 %** | 17 | 86 |
+| **Técnica de Equipos y Sistemas Electrónicos** | 97 | 89 | **10 %** | 17 | **114** |
+
+**Dónde acertó la estimación**: **en que eran las dos que menos material reutilizaban.** Lo fueron:
+**dieciséis de los diecisiete temas de Técnica de Equipos van enteros como oficio, sin ninguna norma
+detrás**, y **el único con respaldo en el BOE es el de seguridad en instalaciones técnicas.** **Ni la
+electrónica de componentes ni la electrónica digital ni las memorias tenían nada aprovechable de las
+once ocupaciones anteriores.**
+
+**Dónde volvió a quedarse corta, y por el mismo motivo que la vez anterior**: **midió por subpuntos y
+por puestos, no por cuadernillos.** **Técnica de Equipos tiene dos cuadernillos y Sonido uno**, y esa
+sola diferencia explica que una traiga 114 preguntas y la otra 86 con el mismo número de temas.
+**La regla de la anotación anterior se confirma: el trabajo lo fija el número de cuadernillos.**
+
+**Y lo que este informe no podía prever, que es lo que hay que llevarse de estas dos:**
+
+1. **Una ocupación puede ser abrumadoramente gráfica.** **Treinta de las 114 preguntas de Técnica de
+   Equipos dependen de una imagen**, y **su tema 14 tiene siete de nueve.** Ninguna estimación por
+   subpuntos de anexo detecta eso: **hay que abrir los cuadernillos.**
+2. **Una norma de prevención puede remitir la cifra que se le pide en vez de darla.** El **Real Decreto (RD)
+   614/2001** manda la definición de alta tensión «a los reglamentos electrotécnicos». **Quien busque
+   el número ahí no lo encuentra.**
+3. **La regla de las unidades legales de la anotación anterior volvió a rendir.** **El pascal, el
+   voltio, el ohmio y el faradio están en el mismo real decreto que el lux y la candela por metro
+   cuadrado.** **Dos temas de Sonido y uno de Técnica de Equipos que iban a declararse como oficio se
+   apoyan ahora en el Boletín Oficial del Estado.**
+
+**Estado del catálogo tras estas dos**: **catorce volúmenes cubren trece ocupaciones tipo**, con
+**1.498 preguntas específicas** en trece bancos y **207 temas escritos**.

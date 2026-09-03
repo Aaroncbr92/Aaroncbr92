@@ -17,6 +17,65 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
+### 2026-09-03 · La lente de prosa nunca se había pasado a los esquemas — abierto
+
+- **Dónde**: los 207 esquemas de `esquemas/`.
+- **Qué pasa**: `refutar_prosa` se venía pasando **sólo a los temas**. Al pasarla por primera vez a
+  los esquemas devolvió **141 ficheros con aviso**. Se corrigió la lente con tres salvedades
+  —contrastar cada esquema contra su tema gemelo, descartar las mayúsculas que el tema no nombra, y
+  una lista larga de palabras castellanas que el telegrama escribe en mayúsculas por estilo—, y **el
+  barrido queda en 107 esquemas con siglas realmente sin presentar**: UIT, CCU, SMPTE, LED, XLR,
+  MXF, EVS, ENG, EBU, DVB, BNC, SDI y unas trescientas más.
+- **Qué debería decir**: cada esquema debe **presentar sus siglas de entrada**, como hacen los
+  temas y como ya hacen los 34 esquemas de Sonido y de Técnica de Equipos.
+- **Por dónde se arregla**: la expansión de casi todas está **ya escrita y verificada en el tema
+  gemelo** —331 de las apariciones se pueden heredar de él—; las restantes hay que resolverlas a
+  mano, y algunas no llevarán forma larga porque no se ha verificado ninguna, que también es una
+  respuesta válida y ya se usa en el proyecto.
+- **Gravedad**: menor por pregunta, **real por producto**: un esquema es un documento impreso, y un
+  lector que se encuentra «CCU» sin expansión no tiene dónde mirar.
+- **Estado**: **abierto**. Los 207 temas y los 34 esquemas nuevos están a cero.
+
+### 2026-09-03 · Los informes tampoco pasan la lente de prosa — abierto
+
+- **Dónde**: `informes/`.
+- **Qué pasa**: el mismo problema y por la misma razón. `informes/refutacion-realizacion-tv.md`
+  devuelve 18 avisos y `informes/cobertura-realizacion-tv.md`, 2.
+- **Qué debería decir**: los cuatro informes nuevos de Sonido y de Técnica de Equipos ya llevan una
+  línea de siglas al principio, y **ése es el patrón a extender**.
+- **Gravedad**: menor. **Los informes son documentación del proyecto, no van dentro de los libros**,
+  así que no llegan al opositor.
+- **Estado**: **abierto**.
+
+---
+
+## Cerrados
+
+### 2026-09-03 · `banco/reclasificadas.tsv` mandaba una pregunta a dos sitios — cerrado el mismo día
+
+- **Dónde**: `banco/reclasificadas.tsv`, pregunta 96 de `70_preguntas_tese_a`.
+- **Qué decía**: **dos filas contradictorias** para la misma pregunta. Una la mandaba a
+  `prl-especifico` y la otra la sacaba del general por ser materia del punto 20 del específico de
+  Técnica de Equipos.
+- **Por qué importa**: el fichero lo aplica `herramientas/banco.py` **después de clasificar**, y con
+  dos destinos el resultado depende de cuál gane, que no es una decisión que deba tomar el orden de
+  las líneas.
+- **Aplicado**: se borra la fila `prl-especifico` y sobrevive la correcta. La pregunta está en
+  `banco/especifico-tese.tsv`, tema 17.
+- **Gravedad**: menor, sin efecto en el producto: el reparto final era el correcto.
+
+### 2026-09-03 · El guion de reindexado borraba los subepígrafes del índice — cerrado el mismo día
+
+- **Dónde**: el guion auxiliar que reconstruye el bloque `<!-- indice -->`.
+- **Qué pasaba**: recogía **sólo los encabezados de segundo nivel**. Al reindexar
+  `temas/prl/prl-especifico.md`, que es el único tema del proyecto con subepígrafes en el índice,
+  **borró sus 63 entradas de tercer nivel sin avisar**.
+- **Aplicado**: el guion recoge ahora los de segundo y tercer nivel, con sangría. Índice restaurado
+  y ampliado a 75 entradas.
+- **Gravedad**: **induce a error** mientras dura: un índice paginado al que le faltan dos tercios de
+  sus entradas es peor que no tenerlo.
+
+
 _Los ocho que había se cerraron el 2026-08-30. La pasada de verificación del banco abrió
 **uno**, al final de este cuaderno: tres plantillas oficiales que el OCR no lee enteras. La
 segunda prueba de cobertura, ese mismo día, encontró **nueve lagunas** en los temas 5, 6 y 7

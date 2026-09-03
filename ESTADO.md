@@ -4,26 +4,26 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-03 (Realización Televisión)
+**Última actualización:** 2026-09-03 (Sonido y Técnica de Equipos y Sistemas Electrónicos)
 
 ## Qué es esto
 
-Once temarios de oposición de RTVE, por ocupación tipo: **Producción
+Trece temarios de oposición de RTVE, por ocupación tipo: **Producción
 (Asistencia)**, **Producción**, **Realización (Asistencia)**, **Realización
 Televisión**, **Documentación**, **Información y Contenidos**, **Gestión
 Administrativa**, **Gestión**, **Montaje de Equipos Audiovisuales**, **Edición,
-Montaje y Procesos Audiovisuales** e **Información Gráfica y Captación de Imagen
-y Sonido**. El programa sale del ANEXO 2 de las bases, transcrito literal en
+Montaje y Procesos Audiovisuales**, **Información Gráfica y Captación de Imagen
+y Sonido**, **Sonido** y **Técnica de Equipos y Sistemas Electrónicos**. El programa sale del ANEXO 2 de las bases, transcrito literal en
 `convocatoria/`.
 
-Las once comparten el mismo temario general —**comprobado byte a byte**: el
+Las trece comparten el mismo temario general —**comprobado byte a byte**: el
 bloque común es idéntico en todos los anexos; sólo cambia el pie de página— y
-**las once** tienen en su bloque específico un tema de prevención de riesgos
-laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con un
-epígrafe que sólo sirve a Realización (Asistencia) —la exposición a altos niveles
-de sonido, del RD 286/2006—. Por eso **173 cuerpos de tema** llenan las
-posiciones de los **doce volúmenes**: los ocho generales y el de prevención van
-repetidos. El reparto y el orden están en `PLAN.md`.
+**las trece** tienen en su bloque específico un tema de prevención de riesgos
+laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con **doce
+rúbricas de las que ninguna ocupación lleva todas** y **seis redacciones
+distintas del enunciado**. Por eso **207 cuerpos de tema** llenan las
+posiciones de los **catorce volúmenes**: los ocho generales y el de prevención
+van repetidos. El reparto y el orden están en `PLAN.md`.
 
 **Convocatoria identificada**: son los anexos 2 de las **bases específicas de la
 convocatoria 1/2022** (turno libre, adaptadas tras el acuerdo transaccional de la
@@ -628,8 +628,8 @@ en Documentación y en Producción (Asistencia).
       | `libro-edicion-montaje` | 11 | 130 | **184** |
       | `libro-informacion-grafica` | 12 | 138 | **210** |
 
-      Los específicos **cierran con el tema de prevención**, que es **el mismo fichero** en los
-      once que lo tienen. **Son doce volúmenes**, y el mayor es el de Realización Televisión.
+      Los específicos **cierran con el tema de prevención**, que es **el mismo fichero** en las
+      trece que lo tienen. **Son catorce volúmenes**, y el mayor es el de Realización Televisión.
 
 - [x] **Fase C: las dos ocupaciones nuevas, terminadas el 2026-09-03.** **Gestión Administrativa**,
       12 temas propios más el de prevención, con 75 preguntas reales de su cuadernillo de enero de
@@ -704,6 +704,56 @@ en Documentación y en Producción (Asistencia).
       «sustractiva» y «cromática», y **se pasó de nuevo sobre los 173 temas del proyecto: cero
       hallazgos**. Sin la salvedad, el aviso saltaba en todos los temas de color y enterraba el
       relleno que sí lo es.
+
+- [x] **Fase F: Sonido y Técnica de Equipos y Sistemas Electrónicos, terminadas el 2026-09-03.**
+      **Sonido**, 17 temas propios más el de prevención, **86 preguntas** de un cuadernillo con su
+      plantilla: es **la ocupación con más puestos convocados de las que quedaban** —102 plazas, 93
+      con examen—. **Técnica de Equipos y Sistemas Electrónicos**, 17 temas propios más el de
+      prevención, **114 preguntas** de **dos cuadernillos de tamaño muy distinto**: uno de 96
+      preguntas y otro que sus propias instrucciones describen como «30 preguntas (25 principales
+      más 5 de reserva)». **No es un fallo de extracción: es un examen más corto**, y se lee entero.
+      Con ellas el proyecto llega a **1.498 preguntas específicas** repartidas en trece bancos.
+      **Ninguna de las 200 respuestas oficiales nuevas es errónea**, y **la cuenta de erratas de
+      plantilla del proyecto sigue en diez.**
+
+- [x] **Lo que estas dos ocupaciones dejaron como método.**
+      **1) La proporción de preguntas con imagen puede ser abrumadora, y hay que decirlo de
+      entrada.** Técnica de Equipos trae **treinta**, la cifra más alta del proyecto, y **su tema 14
+      tiene siete de nueve**. El temario **declara el problema en la cabecera del tema, no en una
+      nota al pie**, y da **cuatro cuadros de reglas de familia** que reducen varias de esas siete a
+      dos opciones antes de mirar la figura.
+      **2) Cuando la figura sólo aporta un dato, el método se escribe entero.** La pregunta de la
+      frecuencia de una senoide en un osciloscopio se calcula toda salvo por el número de divisiones
+      que ocupa un ciclo: el tema escribe el método y la tabla de correspondencia.
+      **3) Una norma de prevención puede no dar la cifra que se le pide: remitirla.** El **RD
+      614/2001** manda la definición de alta tensión «a los reglamentos electrotécnicos», y la cifra
+      está en el **artículo 2.1 del RD 842/2002**. **Quien busque el número en la norma de
+      prevención no lo encontrará**, y el temario escribe la cadena entera con las dos citas.
+      **4) Un punto sin preguntas se escribe igual.** El punto 1.6 de Sonido —música e historia— no
+      ha dado ni una, y es el segundo caso del proyecto tras el punto 11 de Información Gráfica.
+      **5) Hay respuestas sin fuente pública, y se dicen.** El gesto de la mano del control de radio
+      es convenio de casa: es **la respuesta peor documentada de las 86 de Sonido**, y el temario lo
+      declara en lugar de inventar una fuente.
+
+- [x] **Dos correcciones de lente y una de datos, todas del apartado 5 del manual.**
+      **1)** `refutar_prosa` avisaba de relleno **dentro de una cita literal del BOE** —«en
+      definitiva», en el artículo 2 del RD 299/2016—: ahora anula los renglones de cita antes de
+      buscarlo.
+      **2)** La misma lente **nunca se había pasado a los esquemas**, y al pasarla devolvía 141
+      ficheros con aviso, casi todos por su propio estilo de rótulos en mayúsculas. Se corrigió con
+      tres salvedades —contrastar cada esquema contra su tema gemelo, descartar las mayúsculas que
+      el tema no nombra, y una lista de palabras castellanas—, y **quedan 107 esquemas con siglas
+      realmente sin presentar**, que es trabajo pendiente y así se anota.
+      **3)** El fichero `banco/reclasificadas.tsv` mandaba la pregunta 96 de Técnica de Equipos **a
+      dos destinos contradictorios**. Sobrevive el correcto: es materia del punto 20 de su
+      específico, no del tema 8 del general.
+
+- [x] **El tema compartido de prevención pasa de diez rúbricas a doce.** Las dos ocupaciones nuevas
+      traen cuatro preguntas de prevención y **dos no tenían respuesta**: la actuación ante un
+      accidente —proteger, avisar, socorrer, que **no está en ninguna norma**— y la iluminación de
+      los lugares de trabajo, cuya respuesta **es literalmente el artículo 8 del RD 486/1997**. Se
+      cierran ampliando el tema, que es el apartado 7 del manual. Su esquema, que cubría cinco
+      rúbricas de las diez, pasa a cubrir las doce.
 
 ## Qué comprobación pasa por qué material
 
