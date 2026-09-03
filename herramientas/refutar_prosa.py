@@ -56,7 +56,11 @@ def main():
     tema = re.sub(r"`[^`]*`", lambda m: " " * len(m.group(0)), tema)
     # los números romanos de los títulos no son siglas
     ROMANOS = re.compile(r"^[IVXLC]+$")
-    CONOCIDAS = ("BOE", "RTVE", "TVE", "RNE", "PDF", "HTML", "URL")
+    CONOCIDAS = ("BOE", "RTVE", "TVE", "RNE", "PDF", "HTML", "URL", "TV")
+    # palabras castellanas escritas en mayúsculas para dar énfasis. El examen
+    # las usa a docenas —«¿Cuál NO es válido?»— y no son siglas de nada.
+    PALABRAS = ("NO", "SI", "UNA", "UNO", "TODO", "TODAS", "SOLO", "NUNCA",
+                "SIEMPRE", "MENOS", "MAS", "CIERTA", "FALSA")
     # «SI(C2 = 1» no es una sigla: es una llamada a función. Un paréntesis
     # pegado al nombre lo delata, y sin esta salvedad un tema de hoja de
     # cálculo llena la lista de falsos avisos aunque el nombre vaya dentro de
@@ -65,6 +69,25 @@ def main():
     llamadas = set(re.findall(r"\b([A-Z]{2,6})\(", tema))
     for sigla in sorted(set(re.findall(r"\b([A-Z]{2,6})\b", tema))):
         if ROMANOS.match(sigla) or sigla in CONOCIDAS or sigla in llamadas:
+            continue
+        if sigla in PALABRAS:
+            continue
+        # «BT.601-7», «EN 300 744», «ST 2110»: la serie de una norma no es una
+        # sigla que el tema tenga que presentar, es la mitad de su nombre. Se
+        # reconoce porque **todas** sus apariciones llevan pegado un número.
+        apariciones = list(re.finditer(r"\b%s\b" % re.escape(sigla), tema))
+        if apariciones and all(
+                re.match(r"[.\s-]\s?\d", tema[m.end():m.end() + 3] or " ")
+                for m in apariciones):
+            continue
+        # una sigla que sólo sale dentro de una cita literal no es del tema:
+        # es de la fuente citada, y no se le puede meter la presentación
+        # dentro de las comillas sin dejar de ser literal.
+        lineas = tema.splitlines()
+        fuera_de_cita = [l for l in lineas
+                         if re.search(r"\b%s\b" % re.escape(sigla), l)
+                         and not l.lstrip().startswith(">")]
+        if apariciones and not fuera_de_cita:
             continue
         # buscar la sigla como palabra, no como trozo: `find` la encuentra dentro
         # de otra palabra —«RD» dentro de «BORDER», «SI» dentro de «MÚSICA»— y
