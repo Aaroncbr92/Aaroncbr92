@@ -1,8 +1,9 @@
 # Tema 6 del específico de Realización (Asistencia) · Lenguaje técnico y narrativo
 
 Las siglas de este tema, presentadas de entrada: el gran plano general (**GPG**), el plano general
-(**PG**), el plano medio (**PM**), el primer plano (**PP**) y el primerísimo primer plano (**PPP**),
-que son las abreviaturas con que se escriben los tiros de cámara en un guion técnico.
+(**PG**), el plano entero (**PE**), el plano americano (**PA**), el plano medio (**PM**), el primer
+plano (**PP**), el primerísimo primer plano (**PPP**) y el plano detalle (**PD**), que son las
+abreviaturas con que se escriben los tiros de cámara en un guion técnico.
 
 > Enunciado de la convocatoria (Anexo 2, temario específico de Realización (Asistencia),
 > punto 3.1): «Lenguaje técnico y narrativo: Secuencias. Planos. Tomas. Movimientos de cámara.
