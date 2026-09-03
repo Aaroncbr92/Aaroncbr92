@@ -51,7 +51,7 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 ## Y el banco del bloque **específico**
 
-Hay uno por ocupación tipo. Los tres que existen suman **383 preguntas**, todas con
+Hay uno por ocupación tipo. Los **seis** que existen suman **748 preguntas**, todas con
 su respuesta oficial.
 
 ### Producción (Asistencia)
@@ -163,6 +163,59 @@ respuestas**. Es la cuarta plantilla que recupera y la primera de una ocupación
 
 **Y es la ocupación con más respuestas oficiales equivocadas del proyecto: cuatro.** Van contadas en
 los informes de refutación de sus temas 2, 3, 5 y 6.
+
+### Realización (Asistencia)
+
+**209 preguntas** de los dos llamamientos de octubre y noviembre de 2024: **es el banco más grande
+del proyecto**, y el único con **dos cuadernillos completos de 120 preguntas cada uno y sus dos
+plantillas oficiales**.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `realizacion-01.md` | 1 · Géneros y formatos televisivos | 2 |
+| `realizacion-02.md` | 2 · El guion | 12 |
+| `realizacion-03.md` | 3 · Organización general de la producción | 4 |
+| `realizacion-04.md` | 4 · Decorados: planos y perspectivas | 3 |
+| `realizacion-05.md` | 5 · La tecnología en el ámbito de la realización | **34** |
+| `realizacion-06.md` | 6 · Lenguaje técnico y narrativo | 20 |
+| `realizacion-07.md` | 7 · La cámara, accesorios y posibilidades | 12 |
+| `realizacion-08.md` | 8 · La iluminación | 9 |
+| `realizacion-09.md` | 9 · El sonido | 13 |
+| `realizacion-10.md` | 10 · El mezclador de vídeo | **35** |
+| `realizacion-11.md` | 11 · El estudio: controles y plató | 8 |
+| `realizacion-12.md` | 12 · Las unidades móviles | 1 |
+| — | 13 · La asistencia en grabación | **0** |
+| `realizacion-14.md` | 14 · La retransmisión | 4 |
+| `realizacion-15.md` | 15 · La emisión: pantallas, servidores y grafismo | 6 |
+| `realizacion-16.md` | 16 · Realidad aumentada y producción online | 9 |
+| `realizacion-17.md` | 17 · La asistencia en plató. Regiduría | 4 |
+| `realizacion-18.md` | 18 · Canales online | 5 |
+| `realizacion-19.md` | 19 · La puesta en escena | 6 |
+| `realizacion-20.md` | 20 · Postproducción | **19** |
+| `realizacion-21.md` | 21 · Prevención de riesgos laborales | 3 |
+
+**Dos temas se llevan casi un tercio del banco**: el mezclador de vídeo con 35 preguntas y la
+tecnología de la realización con 34. Son **los dos únicos temas de todo el proyecto que pasan de
+treinta**.
+
+**Y un tema se queda sin ninguna**: el 13, la asistencia en grabación, que es justamente el que
+describe el oficio que da nombre a la ocupación. Se desarrolla igual y su ficha lo declara.
+
+**Una errata de plantilla y una pregunta mal construida.** La errata es la **nº 46 del primer
+llamamiento**, que pregunta qué sensorización corresponde al sistema free-d y marca una opción que
+describe unos postes de croma: **la correcta es la a)**, la de la lectura de pequeñas marcas de
+referencia. La mal construida es la **nº 47 del segundo llamamiento**, sobre la unidad de control de
+cámara, donde **ninguna** de las cuatro opciones la define. Las dos van contadas en el informe de
+refutación.
+
+**Siete preguntas dependen de una imagen** que el texto del cuadernillo no conserva y se recogen sin
+verificar. **Y dos se salen del programa**: la historia de la primera emisión televisada española y
+la entidad de gestión de derechos de autor, materias que el Anexo 2 de esta ocupación no contiene.
+
+**El texto del segundo cuadernillo hubo que rehacerlo.** Traía **252 fragmentos sobrantes** que el
+banco recogía como si fueran opciones; se reextrajo con `herramientas/extraer_examen.py`, que
+descarta el trozo repetido por su altura. Sin ese arreglo, un tercio de sus preguntas habría llegado
+al banco con texto ajeno pegado detrás.
 
 ### Gestión
 
