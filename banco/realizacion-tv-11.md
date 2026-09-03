@@ -1,6 +1,6 @@
 # Realización · Tema 11 · Conocimientos básicos de televisión: la señal y su control
 
-9 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+8 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -43,22 +43,6 @@ a) 4 bits.
 b) 8 bits.
 c) 16 bits.
 d) 32 bits.
-```
-
----
-
-**66_preguntas_realizacion_a · nº 108 · respuesta: b**
-
-```
-108.- ¿A qué llamamos TSNR?
-a) Al nivel de tensión de la amplitud de la señal de video por debajo del negro, utilizado
-para incrustaciones en posproducción.
-b) A la relación entre dos personajes en una trama donde, si bien existe una atracción
-evidente, por alguna circunstancia no puede consumarse.
-c) A una transición sin normalizar efectuada entre dos planos que no está lanzada por un
-GPI o efecto automático.
-d) A aquellas lámparas de tungsteno con filamento modificado para proporcionar una
-iluminación no puntual con sombras no recortadas.
 ```
 
 ---

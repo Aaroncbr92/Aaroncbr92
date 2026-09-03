@@ -1,6 +1,6 @@
 # Realización · Tema 13 · Lenguaje técnico y narrativo
 
-19 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+20 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -90,6 +90,22 @@ a) Aproximadamente 173 cm.
 b) Aproximadamente 253 cm.
 c) Aproximadamente 263 cm.
 d) Aproximadamente 273 cm.
+```
+
+---
+
+**66_preguntas_realizacion_a · nº 108 · respuesta: b**
+
+```
+108.- ¿A qué llamamos TSNR?
+a) Al nivel de tensión de la amplitud de la señal de video por debajo del negro, utilizado
+para incrustaciones en posproducción.
+b) A la relación entre dos personajes en una trama donde, si bien existe una atracción
+evidente, por alguna circunstancia no puede consumarse.
+c) A una transición sin normalizar efectuada entre dos planos que no está lanzada por un
+GPI o efecto automático.
+d) A aquellas lámparas de tungsteno con filamento modificado para proporcionar una
+iluminación no puntual con sombras no recortadas.
 ```
 
 ---
