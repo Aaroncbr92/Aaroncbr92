@@ -4,7 +4,8 @@ Las siglas de este tema, presentadas de entrada: la unidad móvil (**UM**, escri
 plural por el examen); el sistema de aeronave no tripulada (**UAS**, del inglés *unmanned aircraft
 system*), que es como el reglamento europeo llama al dron; la Agencia Estatal de Seguridad Aérea
 (**AESA**); la Unión Europea (**UE**); el certificado de operador de UAS ligero (**LUC**, del inglés
-*light UAS operator certificate*); el cuaderno de admisión temporal (**ATA**, del inglés *Admission
+*light UAS operator certificate*); la masa máxima en despegue (**MTOM**, del inglés *maximum take-off mass*);
+el cuaderno de admisión temporal (**ATA**, del inglés *Admission
 Temporaire / Temporary Admission*); y la Organización Mundial de Aduanas (**OMA**).
 
 > Enunciado de la convocatoria (Anexo 2, temario específico de Producción, punto 8):
@@ -186,7 +187,7 @@ operadores se registrarán «cuando utilicen, en la categoría «abierta», cual
 tripulada: i. con una **MTOM de 250 g o más**, o que, en caso de colisión, pueda transferir a un ser
 humano una energía cinética superior a **80 julios**; ii. **equipada con un sensor capaz de capturar
 datos personales**, **salvo que sea conforme con la Directiva 2009/48/CE**». Es decir: un aparato
-ligero y sin cámara puede quedar fuera del registro, y **una cámara de televisión nunca lo está**,
+ligero y sin cámara puede quedar fuera del registro, y una cámara de televisión nunca lo está,
 porque el sensor que capta datos personales es justamente su razón de ser.
 
 ---
