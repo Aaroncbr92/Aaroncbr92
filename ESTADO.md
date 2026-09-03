@@ -4,26 +4,28 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-03 (Diseño Gráfico)
+**Última actualización:** 2026-09-03 (Ingeniería Técnica · Telecomunicación)
 
 ## Qué es esto
 
-Trece temarios de oposición de RTVE, por ocupación tipo: **Producción
+Dieciséis temarios de oposición de RTVE, por ocupación tipo: **Producción
 (Asistencia)**, **Producción**, **Realización (Asistencia)**, **Realización
 Televisión**, **Documentación**, **Información y Contenidos**, **Gestión
 Administrativa**, **Gestión**, **Montaje de Equipos Audiovisuales**, **Edición,
 Montaje y Procesos Audiovisuales**, **Información Gráfica y Captación de Imagen
-y Sonido**, **Sonido** y **Técnica de Equipos y Sistemas Electrónicos**. El programa sale del ANEXO 2 de las bases, transcrito literal en
-`convocatoria/`.
+y Sonido**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica
+Informática**, **Diseño Gráfico** e **Ingeniería Técnica ·
+Telecomunicación**. El programa sale del ANEXO 2 de las bases, transcrito literal
+en `convocatoria/`.
 
-Las trece comparten el mismo temario general —**comprobado byte a byte**: el
+Las dieciséis comparten el mismo temario general —**comprobado byte a byte**: el
 bloque común es idéntico en todos los anexos; sólo cambia el pie de página— y
-**las trece** tienen en su bloque específico un tema de prevención de riesgos
+**las dieciséis** tienen en su bloque específico un tema de prevención de riesgos
 laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con **doce
 rúbricas de las que ninguna ocupación lleva todas** y **seis redacciones
-distintas del enunciado**. Por eso **207 cuerpos de tema** llenan las
-posiciones de los **catorce volúmenes**: los ocho generales y el de prevención
-van repetidos. El reparto y el orden están en `PLAN.md`.
+distintas del enunciado**. Por eso los cuerpos de tema llenan las posiciones de
+los **diecisiete volúmenes**: los ocho generales y el de prevención van
+repetidos. El reparto y el orden están en `PLAN.md`.
 
 **Convocatoria identificada**: son los anexos 2 de las **bases específicas de la
 convocatoria 1/2022** (turno libre, adaptadas tras el acuerdo transaccional de la
@@ -824,6 +826,47 @@ en Documentación y en Producción (Asistencia).
       digital**. Se escribe entero, y el temario advierte que **si el siguiente examen entra por ahí,
       entrará con fuerza.**
 
+
+- [x] **Fase I: Ingeniería Técnica · Telecomunicación, terminada el 2026-09-03.** 19 temas propios
+      más el de prevención, **85 preguntas del específico** de un cuadernillo de 96 con su plantilla
+      completa. **5 plazas en la convocatoria 1/2025.** Con ella el proyecto llega a **1.759
+      preguntas específicas** repartidas en dieciséis bancos. **Ninguna de las 85 respuestas
+      oficiales nuevas es errónea**, y **la cuenta de erratas de plantilla del proyecto sigue en
+      diez.**
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) Veintitrés puntos del anexo pueden dar diecinueve temas, y hay que razonar cada unión.**
+      Los puntos 5 y 6 son la misma frase con el medio cambiado; los 8 y 9, norma y aplicación de la
+      misma materia; los 11, 12 y 13, la misma frase con el nombre de la sala cambiado. **Separarlos
+      daría temas que se repetirían entre sí**, que es lo que el método prohíbe. **Las tres uniones
+      quedan escritas en el informe de cobertura**, no dadas por supuestas.
+      **2) El reparto más desigual del proyecto.** **Dos puntos —sonido y redes— se llevan
+      dieciocho preguntas cada uno**: el 42 % del examen específico entre los dos, y **el 59 % con
+      el tercero**. En el otro extremo, **diez puntos del anexo a cero**. Eso va en la portada,
+      porque cambia por completo cómo repartir el tiempo.
+      **3) Un punto a cero puede ser el corazón del oficio.** Estudios, continuidades, salas
+      técnicas e ingeniería de implantación **no han dado ni una pregunta entre los cuatro**, y son
+      lo que un ingeniero de telecomunicación hace de verdad en una televisión: **no opera equipos,
+      los implanta**. Lo que esos puntos piden es saber **DIBUJAR** una instalación, y **eso es lo
+      que un examen escrito no sabe preguntar bien.** Se escriben enteros.
+      **4) Un tema sin preguntas puede necesitar citas literales igualmente.** El 19 —protección de
+      datos— **no ha dado ni una** y **cita cuatro preceptos de dos normas**, elegidos por lo que un
+      ingeniero de instalaciones necesita: **el artículo 32.1 del reglamento europeo, cuya letra b)
+      enumera CUATRO propiedades y no tres** —añade la resiliencia—, el 25.2 del mismo, y los
+      artículos 22 y 89 de la ley orgánica, que son **los que deciden dónde se puede colgar una
+      cámara y dónde no un micrófono.** **28 negritas comprobadas, 0 no literales.**
+      **5) Dos plazos de setenta y dos horas que no tienen nada que ver.** Uno es el de poner una
+      grabación a disposición de la autoridad —artículo 22.3 de la ley orgánica— y otro el de
+      notificar una brecha de seguridad —artículo 33.1 del reglamento europeo—. **Ninguna lente
+      detecta esa confusión: la detecta leer las dos normas**, y el tema la desmonta en una tabla.
+      **6) El segundo volumen del proyecto sin una sola imagen.** **Ninguna de las 85 preguntas del
+      específico depende de una figura**, como en Técnica Informática y al contrario que en Técnica
+      de Equipos, donde son el 26 %. **El examen entero se contesta con texto.**
+      **7) Un cuadernillo cuyo PDF no se puede leer.** **Su fuente va incrustada sin tabla de
+      caracteres**, así que el texto se extrae como glifos numerados. **Se ha leído de la
+      transcripción por reconocimiento óptico que estaba al lado**, y **enunciados y opciones se han
+      contrastado uno a uno contra la plantilla oficial.** Queda escrito para que nadie vuelva a
+      perder tiempo intentando extraer el PDF.
 
 ## Qué comprobación pasa por qué material
 

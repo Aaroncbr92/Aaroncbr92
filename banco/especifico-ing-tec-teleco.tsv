@@ -1,0 +1,113 @@
+# Reparto a mano del bloque específico de Ingeniería Técnica · Telecomunicación.
+#
+# **Un cuadernillo**: `50_preguntas_tec_teleco`, de 96 preguntas —80
+# principales más 16 de reserva—, con su plantilla completa. **Su PDF trae la
+# fuente incrustada sin tabla de caracteres**, así que se lee la transcripción
+# por reconocimiento óptico que está al lado.
+#
+# De las 96, **once son del bloque común** y las coge el banco general: la 2,
+# la 43, la 47, la 61 y la 94 del III Convenio; la 16 y la 56 de la
+# Constitución; la 36 de la Ley 31/1995; la 49 de la Ley 8/2009; la 85 del II
+# Plan de Igualdad; y la 4, de manipulación manual de cargas, que va al banco
+# compartido de prevención. **Las otras 85 son del específico** y están todas
+# repartidas.
+#
+# **Diez puntos del anexo no han dado ni una pregunta**: el 6, el 9, el 11, el
+# 12, el 13, el 17, el 20, el 21, el 22 y el 23. Cuatro de ellos —estudios,
+# continuidades, salas técnicas e ingeniería de implantación— piden
+# «equipamiento, diagrama a bloques e interconexión», que es lo que peor se
+# pregunta por escrito. Sus temas se escriben igual, contra el programa.
+#
+# **Este anexo se desarrolla en 19 temas y no en 23**: los puntos 5 y 6 van
+# juntos —difusión terrestre y por satélite—, los 8 y 9 también —vídeo sobre
+# IP y producción sobre esa infraestructura— y los 11, 12 y 13 forman uno solo,
+# porque sus tres enunciados son la misma frase con el nombre de la sala
+# cambiado.
+#
+# origen	nº	tema	motivo
+origen	numero	tema	motivo
+50_preguntas_tec_teleco	9	01	Marco regulatorio de las telecomunicaciones
+50_preguntas_tec_teleco	96	01	Marco regulatorio de las telecomunicaciones
+50_preguntas_tec_teleco	20	02	La señal y la conversión analógico-digital
+50_preguntas_tec_teleco	38	02	La señal y la conversión analógico-digital
+50_preguntas_tec_teleco	69	02	La señal y la conversión analógico-digital
+50_preguntas_tec_teleco	7	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	8	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	13	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	19	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	31	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	33	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	35	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	41	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	46	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	55	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	59	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	66	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	74	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	82	03	La señal audiovisual y su sincronización
+50_preguntas_tec_teleco	40	04	Televisión digital y compresión
+50_preguntas_tec_teleco	60	04	Televisión digital y compresión
+50_preguntas_tec_teleco	71	04	Televisión digital y compresión
+50_preguntas_tec_teleco	79	04	Televisión digital y compresión
+50_preguntas_tec_teleco	26	05	Difusión terrestre y por satélite
+50_preguntas_tec_teleco	42	05	Difusión terrestre y por satélite
+50_preguntas_tec_teleco	44	05	Difusión terrestre y por satélite
+50_preguntas_tec_teleco	3	06	Alta y ultraalta definición
+50_preguntas_tec_teleco	12	06	Alta y ultraalta definición
+50_preguntas_tec_teleco	15	06	Alta y ultraalta definición
+50_preguntas_tec_teleco	34	06	Alta y ultraalta definición
+50_preguntas_tec_teleco	5	07	Vídeo y audio sobre red
+50_preguntas_tec_teleco	14	07	Vídeo y audio sobre red
+50_preguntas_tec_teleco	62	07	Vídeo y audio sobre red
+50_preguntas_tec_teleco	67	07	Vídeo y audio sobre red
+50_preguntas_tec_teleco	78	07	Vídeo y audio sobre red
+50_preguntas_tec_teleco	21	08	Equipamiento de televisión
+50_preguntas_tec_teleco	27	08	Equipamiento de televisión
+50_preguntas_tec_teleco	28	08	Equipamiento de televisión
+50_preguntas_tec_teleco	37	08	Equipamiento de televisión
+50_preguntas_tec_teleco	81	08	Equipamiento de televisión
+50_preguntas_tec_teleco	84	08	Equipamiento de televisión
+50_preguntas_tec_teleco	92	08	Equipamiento de televisión
+50_preguntas_tec_teleco	6	10	Sistemas de redacción digital
+50_preguntas_tec_teleco	50	10	Sistemas de redacción digital
+50_preguntas_tec_teleco	90	10	Sistemas de redacción digital
+50_preguntas_tec_teleco	18	11	Postproducción de vídeo y audio
+50_preguntas_tec_teleco	10	12	Sonido
+50_preguntas_tec_teleco	22	12	Sonido
+50_preguntas_tec_teleco	23	12	Sonido
+50_preguntas_tec_teleco	24	12	Sonido
+50_preguntas_tec_teleco	32	12	Sonido
+50_preguntas_tec_teleco	39	12	Sonido
+50_preguntas_tec_teleco	48	12	Sonido
+50_preguntas_tec_teleco	51	12	Sonido
+50_preguntas_tec_teleco	52	12	Sonido
+50_preguntas_tec_teleco	58	12	Sonido
+50_preguntas_tec_teleco	64	12	Sonido
+50_preguntas_tec_teleco	65	12	Sonido
+50_preguntas_tec_teleco	72	12	Sonido
+50_preguntas_tec_teleco	76	12	Sonido
+50_preguntas_tec_teleco	77	12	Sonido
+50_preguntas_tec_teleco	83	12	Sonido
+50_preguntas_tec_teleco	88	12	Sonido
+50_preguntas_tec_teleco	91	12	Sonido
+50_preguntas_tec_teleco	68	14	Antenas, transmisores y propagación
+50_preguntas_tec_teleco	73	14	Antenas, transmisores y propagación
+50_preguntas_tec_teleco	75	14	Antenas, transmisores y propagación
+50_preguntas_tec_teleco	1	15	Comunicaciones y redes
+50_preguntas_tec_teleco	11	15	Comunicaciones y redes
+50_preguntas_tec_teleco	17	15	Comunicaciones y redes
+50_preguntas_tec_teleco	25	15	Comunicaciones y redes
+50_preguntas_tec_teleco	29	15	Comunicaciones y redes
+50_preguntas_tec_teleco	30	15	Comunicaciones y redes
+50_preguntas_tec_teleco	45	15	Comunicaciones y redes
+50_preguntas_tec_teleco	53	15	Comunicaciones y redes
+50_preguntas_tec_teleco	54	15	Comunicaciones y redes
+50_preguntas_tec_teleco	57	15	Comunicaciones y redes
+50_preguntas_tec_teleco	63	15	Comunicaciones y redes
+50_preguntas_tec_teleco	70	15	Comunicaciones y redes
+50_preguntas_tec_teleco	80	15	Comunicaciones y redes
+50_preguntas_tec_teleco	86	15	Comunicaciones y redes
+50_preguntas_tec_teleco	87	15	Comunicaciones y redes
+50_preguntas_tec_teleco	89	15	Comunicaciones y redes
+50_preguntas_tec_teleco	93	15	Comunicaciones y redes
+50_preguntas_tec_teleco	95	15	Comunicaciones y redes

@@ -77,7 +77,11 @@ SOLO = {"produccion": ("81_preguntas_produccion",),
         # Informática y el de Ingeniería Superior Informática—, así que esta
         # ocupación dice cuál es el suyo
         "tecnica-informatica": ("48_preguntas_tec_informatica",),
-        "diseno-grafico": ("07_preguntas_diseno_grafico",)}
+        "diseno-grafico": ("07_preguntas_diseno_grafico",),
+        # «teleco» aparece en dos nombres de cuadernillo —el de la
+        # Ingeniería Técnica y el de la Superior—, así que cada ocupación
+        # dice cuál es el suyo
+        "ing-tec-teleco": ("50_preguntas_tec_teleco",)}
 
 
 def reparto(ocupacion):
@@ -214,6 +218,30 @@ def main(ocupacion, titulos):
 # Los títulos con los que se encabeza cada fichero del banco. Uno por ocupación,
 # porque el reparto es distinto y los temas no se llaman igual.
 TITULOS = {
+    "ing-tec-teleco": {
+        "01": "Ing. Técnica Telecomunicación · Tema 1 · Marco regulatorio de las "
+              "telecomunicaciones",
+        "02": "Ing. Técnica Telecomunicación · Tema 2 · La señal y la conversión "
+              "analógico-digital",
+        "03": "Ing. Técnica Telecomunicación · Tema 3 · La señal audiovisual y su "
+              "sincronización",
+        "04": "Ing. Técnica Telecomunicación · Tema 4 · Televisión digital y compresión",
+        "05": "Ing. Técnica Telecomunicación · Tema 5 · Difusión terrestre y por satélite",
+        "06": "Ing. Técnica Telecomunicación · Tema 6 · Alta y ultraalta definición",
+        "07": "Ing. Técnica Telecomunicación · Tema 7 · Vídeo y audio sobre red",
+        "08": "Ing. Técnica Telecomunicación · Tema 8 · Equipamiento de televisión",
+        "09": "Ing. Técnica Telecomunicación · Tema 9 · Estudios, continuidades y salas técnicas",
+        "10": "Ing. Técnica Telecomunicación · Tema 10 · Sistemas de redacción digital",
+        "11": "Ing. Técnica Telecomunicación · Tema 11 · Postproducción de vídeo y audio",
+        "12": "Ing. Técnica Telecomunicación · Tema 12 · Sonido",
+        "13": "Ing. Técnica Telecomunicación · Tema 13 · Radio digital",
+        "14": "Ing. Técnica Telecomunicación · Tema 14 · Antenas, transmisores y propagación",
+        "15": "Ing. Técnica Telecomunicación · Tema 15 · Comunicaciones y redes",
+        "16": "Ing. Técnica Telecomunicación · Tema 16 · Ingeniería de implantación",
+        "17": "Ing. Técnica Telecomunicación · Tema 17 · Seguridad en las instalaciones técnicas",
+        "18": "Ing. Técnica Telecomunicación · Tema 18 · Seguridad de la información",
+        "19": "Ing. Técnica Telecomunicación · Tema 19 · Protección de datos personales",
+    },
     "diseno-grafico": {
         "01": "Diseño Gráfico · Tema 1 · Óptica: la luz, el color y la imagen",
         "02": "Diseño Gráfico · Tema 2 · Conocimientos básicos de televisión",

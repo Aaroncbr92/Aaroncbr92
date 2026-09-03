@@ -1,6 +1,6 @@
-# PRL específico · Prevención en el temario específico (Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 21 · Gestión Administrativa 13 · Gestión 31 · Documentación 7 · Información y Contenidos 11 · Montaje de Equipos 11 · Edición y Montaje 11 · Información Gráfica 12 · Realización Televisión 23 · Sonido 17 · TESE 21 · Técnica Informática 27)
+# PRL específico · Prevención en el temario específico (Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 21 · Gestión Administrativa 13 · Gestión 31 · Documentación 7 · Información y Contenidos 11 · Montaje de Equipos 11 · Edición y Montaje 11 · Información Gráfica 12 · Realización Televisión 23 · Sonido 17 · TESE 21 · Técnica Informática 27 · Diseño Gráfico 14 · Ing. Téc. Telecomunicación 24)
 
-47 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
+48 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que
 no se pudo emparejar.
 
@@ -571,6 +571,20 @@ a) Mala calidad de la pantalla.
 b) Ajustes frecuentes del ojo a diferentes distancias.
 c) Exceso de brillo en la pantalla.
 d) Tiempo prolongado sin interrupciones.
+```
+
+---
+
+**50_preguntas_tec_teleco · nº 4 · respuesta: a**
+
+```
+4.- ¿Cuál de estas afirmaciones NO es correcta a la hora de levantar un peso?
+a) Flexionar la espalda y mantener las piernas semiabiertas para tener más estabilidad de
+carga
+b) Acercar el cuerpo a la carga para centralizar el peso
+c) Utilizar las palmas de las manos para agarrar fuertemente la carga procurando seguir el
+contorno de la carga.
+d) Mantener la barbilla cerca del cuerpo. No estirar el cuello
 ```
 
 ---

@@ -627,6 +627,67 @@ el banco general por sus propias palabras clave, y las noventa del específico s
 desde el principio.
 
 
+### Ingeniería Técnica · Telecomunicación
+
+**85 preguntas**, repartidas entre los diecinueve temas en que este proyecto desarrolla su Anexo 2.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `ing-tec-teleco-01.md` | 1 · Marco regulatorio de las telecomunicaciones | 2 |
+| `ing-tec-teleco-02.md` | 2 · La señal y la conversión analógico-digital | 3 |
+| `ing-tec-teleco-03.md` | 3 · La señal audiovisual y su sincronización | **14** |
+| `ing-tec-teleco-04.md` | 4 · Televisión digital y compresión | 4 |
+| `ing-tec-teleco-05.md` | 5 · Difusión terrestre y por satélite | 3 |
+| `ing-tec-teleco-06.md` | 6 · Alta y ultraalta definición | 4 |
+| `ing-tec-teleco-07.md` | 7 · Vídeo y audio sobre red | 5 |
+| `ing-tec-teleco-08.md` | 8 · Equipamiento de televisión | 7 |
+| — | 9 · Estudios, continuidades y salas técnicas | **0** |
+| `ing-tec-teleco-10.md` | 10 · Sistemas de redacción digital | 3 |
+| `ing-tec-teleco-11.md` | 11 · Postproducción de vídeo y audio | 1 |
+| `ing-tec-teleco-12.md` | 12 · Sonido | **18** |
+| — | 13 · Radio digital | **0** |
+| `ing-tec-teleco-14.md` | 14 · Antenas, transmisores y propagación | 3 |
+| `ing-tec-teleco-15.md` | 15 · Comunicaciones y redes | **18** |
+| — | 16 · Ingeniería de implantación | **0** |
+| — | 17 · Seguridad en las instalaciones técnicas | **0** |
+| — | 18 · Seguridad de la información | **0** |
+| — | 19 · Protección de datos personales | **0** |
+
+**Un solo cuadernillo**, `50_preguntas_tec_teleco`, de **96 preguntas —80 principales más 16 de
+reserva—**. De ellas, **85 son del específico y 11 del bloque común**.
+
+**Una advertencia sobre la fuente**: **su PDF trae la fuente incrustada sin tabla de caracteres**, de
+modo que el texto se extrae como glifos numerados. **Se lee de la transcripción por reconocimiento
+óptico que está al lado**, y **los enunciados y las opciones se han contrastado uno a uno contra la
+plantilla oficial.**
+
+**El reparto es el más desigual de todo el proyecto**: **dos puntos —sonido y redes— se llevan
+dieciocho preguntas cada uno**, el **42 %** del examen específico entre los dos; con el de la señal
+audiovisual, **50 de 85: el 59 %**. En el otro extremo, **diez puntos del anexo no se llevan
+ninguna**.
+
+**Cuatro de esos diez son el corazón del oficio**: estudios, continuidades, salas técnicas e
+ingeniería de implantación. **Sus temas se escriben igual, contra el programa**: lo que piden es saber
+**dibujar** una instalación, y **eso es lo que un examen escrito no sabe preguntar bien.**
+
+**Ninguna pregunta de este cuadernillo depende de una figura.** **Es el único examen técnico del
+proyecto del que puede decirse eso.**
+
+**Ninguna respuesta oficial es errónea y ninguna es impugnable.** **Seis llevan precisión, matiz u
+observación**: la **nº 9** nombra un organismo que dejó de existir con ese nombre en 2013; la **nº
+41** abrevia una codificación que en rigor es invertida y aleatorizada; la **nº 52** simplifica lo que
+se hace en una batería real; la **nº 54** da la cifra de la suite empresarial de esa norma; la **nº
+67** llama «balanceada» a una redundancia en la que las dos redes llevan el flujo completo; y la **nº
+86** habla de un concentrador, que es equipo antiguo. **Y la nº 75, por el reóstato, no pertenece a
+ningún punto del anexo**: se clasifica con las antenas y los transmisores por proximidad, **y se
+declara.** **En todas, la opción de la plantilla sigue siendo la mejor de las cuatro.**
+
+**Tres preguntas se han reclasificado a mano** en `reclasificadas.tsv`: la **nº 4** al banco
+compartido de prevención —manipulación manual de cargas—, la **nº 43** al tema del convenio colectivo
+—teletrabajo— y la **nº 49** al de la Ley 8/2009 —la principal fuente de financiación de RTVE—.
+**Ninguna palabra clave las habría cogido bien**, y las tres son del bloque común.
+
+
 ### Realización Televisión
 
 **229 preguntas** de los dos llamamientos de **Realización Televisión** de 2024, repartidas entre los

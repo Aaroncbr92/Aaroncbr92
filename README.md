@@ -92,6 +92,7 @@ prevención de riesgos laborales**, que es un solo fichero.
 | `libro-tese` | **Técnica de Equipos y Sistemas Electrónicos** | 18 | 161 | 230 |
 | `libro-tecnica-informatica` | **Técnica Informática** | 24 | 137 | 255 |
 | `libro-diseno-grafico` | **Diseño Gráfico** | 14 | 133 | 187 |
+| `libro-ing-tec-teleco` | **Ing. Técnica Telecomunicación** | 20 | 133 | 256 |
 
 **Realización Televisión es el volumen más grande del proyecto**: 363 páginas,
 veintidós temas propios más el de prevención y **229 preguntas del bloque
@@ -106,6 +107,14 @@ de su familia.
 del específico depende de una imagen**, y es **el único volumen del proyecto que
 contesta el examen entero sin remitir ni una vez a la plantilla**. Todo lo que se
 pregunta está escrito, y por tanto todo se puede comprobar.
+
+**Ingeniería Técnica · Telecomunicación es el segundo volumen sin una sola
+imagen** —ninguna de sus 85 preguntas del específico depende de una figura— y **el
+de reparto más desigual del proyecto**: dos de sus veintitrés puntos del anexo se
+llevan el 42 % del examen y **diez no se llevan ninguna pregunta**. Cuatro de esos
+diez son el corazón del oficio —estudios, continuidades, salas técnicas e
+ingeniería de implantación—, y **sus temas se escriben igual, contra el
+programa**.
 
 **Diez respuestas oficiales de 2024 están mal, y van marcadas una a una** con el
 precepto, el modelo de cuentas o la ficha de fabricante que las desmiente. El

@@ -384,6 +384,51 @@ AVISOS_DISENO_GRAFICO = {
         "lo declara</b> en vez de inventarle un encaje.",
 }
 
+AVISOS_ING_TEC_TELECO = {
+    "50_preguntas_tec_teleco \u00b7 n\u00ba 9":
+        "<b>La pregunta nombra un organismo que dej\u00f3 de existir con ese nombre en 2013.</b> Sus "
+        "funciones pasaron a la <b>Comisi\u00f3n Nacional de los Mercados y la Competencia</b>. "
+        "<b>La pregunta se contesta igual</b>: lo que pide es la FUNCI\u00d3N, y de las cuatro "
+        "opciones <b>s\u00f3lo una describe la de un regulador sectorial de telecomunicaciones</b>. "
+        "Las otras tres son de la Uni\u00f3n, de la Agencia de Protecci\u00f3n de Datos y de los "
+        "organismos de normalizaci\u00f3n.",
+    "50_preguntas_tec_teleco \u00b7 n\u00ba 41":
+        "<b>La respuesta oficial abrevia.</b> La interfaz digital serie usa, en rigor, "
+        "<b>codificaci\u00f3n sin retorno a cero INVERTIDO y con aleatorizaci\u00f3n previa</b>. "
+        "<b>De las cuatro opciones ofrecidas, la marcada es la \u00fanica de esa familia</b>, y se "
+        "marca. La aleatorizaci\u00f3n no es un adorno: <b>sin transiciones el receptor no recupera "
+        "el reloj</b>.",
+    "50_preguntas_tec_teleco \u00b7 n\u00ba 52":
+        "<b>La respuesta oficial simplifica lo que se hace en una bater\u00eda real</b>, donde se "
+        "combinan las dos familias: <b>din\u00e1micos en bombo y caja, condensadores en a\u00e9reos "
+        "y charles</b>, porque los platos piden el detalle en agudos que el din\u00e1mico no da. "
+        "<b>Con la condici\u00f3n de los 90 decibelios que el enunciado pone, la marcada es la "
+        "correcta de las cuatro</b>: lo que decide es la presi\u00f3n sonora, no la calidad.",
+    "50_preguntas_tec_teleco \u00b7 n\u00ba 54":
+        "<b>La cifra corresponde a la suite de la versi\u00f3n EMPRESARIAL de esa norma</b>; su modo "
+        "personal usa 128 bits. <b>De las cuatro cifras ofrecidas, 192 es la \u00fanica que "
+        "corresponde a algo real de la norma</b>, y se marca.",
+    "50_preguntas_tec_teleco \u00b7 n\u00ba 67":
+        "<b>La palabra \u00abbalanceada\u00bb de la respuesta oficial hay que entenderla bien.</b> "
+        "Las dos redes <b>no se reparten la carga: llevan LAS DOS el flujo completo, a la vez</b>, y "
+        "el receptor toma el primer paquete que llega de cada n\u00famero. \u00abBalanceada\u00bb "
+        "significa que <b>las dos est\u00e1n igualmente activas</b>, frente a un esquema de principal "
+        "y reserva; <b>no que cada una lleve la mitad</b>. As\u00ed le\u00edda, <b>es la \u00fanica "
+        "de las cuatro que describe una redundancia real</b>.",
+    "50_preguntas_tec_teleco \u00b7 n\u00ba 75":
+        "<b>Esta pregunta no pertenece a ning\u00fan punto del anexo.</b> Que un re\u00f3stato es un "
+        "resistor variable es electr\u00f3nica elemental y <b>no admite discusi\u00f3n</b>. Este "
+        "temario la clasifica con las antenas y los transmisores <b>por proximidad con los "
+        "instrumentos y los componentes de radiofrecuencia, y lo declara</b> en vez de inventarle un "
+        "encaje.",
+    "50_preguntas_tec_teleco \u00b7 n\u00ba 86":
+        "<b>Hoy casi todos los aparatos se adaptan solos</b>, con detecci\u00f3n autom\u00e1tica del "
+        "cruce, y por eso la opci\u00f3n que lo dice suena verdadera. <b>Pero la pregunta habla de un "
+        "CONCENTRADOR</b>, que es equipo antiguo, <b>y la norma de cableado sigue siendo la que "
+        "es</b>: equipo a conmutador, los dos extremos en c\u00f3digo normal. <b>La respuesta oficial "
+        "es la correcta seg\u00fan la norma</b>.",
+}
+
 AVISOS_REALIZACION_TV = {
     "66_preguntas_realizacion_a · nº 33":
         "<b>La pregunta tiene tres respuestas igualmente correctas.</b> <i>Ben-Hur</i>, "
@@ -893,6 +938,74 @@ BLOQUES = {
                       "mano</b>. Es la respuesta peor documentada del bloque, porque los gestos "
                       "del control son convenio de casa y no hay fuente p\u00fablica que los fije. "
                       "<b>El temario lo declara</b> en lugar de inventar una.</p>",
+    ),
+    "ing-tec-teleco": dict(
+        carpeta="ing-tec-teleco",
+        rotulo="Temario espec\u00edfico \u00b7 Ing. T\u00e9cnica Telecomunicaci\u00f3n",
+        ocupacion="Ing. T\u00e9cnica Telecomunicaci\u00f3n",
+        titulo="Temario espec\u00edfico",
+        subtitulo="Los veinte temas de <b>Ingenier\u00eda T\u00e9cnica \u00b7 "
+                  "Telecomunicaci\u00f3n</b>",
+        pie="Oposiciones RTVE \u2013 Ing. T\u00e9cnica Telecomunicaci\u00f3n",
+        avisos=dict(AVISOS_ING_TEC_TELECO, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        # el anexo tiene veinticuatro puntos y el temario diecinueve temas m\u00e1s el
+        # de prevenci\u00f3n: los puntos 5 y 6 van juntos \u2014difusi\u00f3n terrestre y por
+        # sat\u00e9lite\u2014, los 8 y 9 tambi\u00e9n \u2014v\u00eddeo sobre red y producci\u00f3n sobre esa
+        # infraestructura\u2014 y los 11, 12 y 13 forman uno solo, porque sus tres
+        # enunciados son la misma frase con el nombre de la sala cambiado.
+        # Seis temas no tienen ni una pregunta en el cuadernillo y su banco no
+        # existe: en su lugar va None. Se desarrollan igual, contra el programa
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "marco-regulatorio-de-las-telecomunicaciones", "ing-tec-teleco-01"),
+            (2, "la-senal-y-la-conversion-analogico-digital", "ing-tec-teleco-02"),
+            (3, "la-senal-audiovisual-y-su-sincronizacion", "ing-tec-teleco-03"),
+            (4, "television-digital-y-compresion", "ing-tec-teleco-04"),
+            (5, "difusion-terrestre-y-por-satelite", "ing-tec-teleco-05"),
+            (6, "alta-y-ultraalta-definicion", "ing-tec-teleco-06"),
+            (7, "video-y-audio-sobre-red", "ing-tec-teleco-07"),
+            (8, "equipamiento-de-television", "ing-tec-teleco-08"),
+            (9, "estudios-continuidades-y-salas-tecnicas", None),
+            (10, "sistemas-de-redaccion-digital", "ing-tec-teleco-10"),
+            (11, "postproduccion-de-video-y-audio", "ing-tec-teleco-11"),
+            (12, "sonido", "ing-tec-teleco-12"),
+            (13, "radio-digital", None),
+            (14, "antenas-transmisores-y-propagacion", "ing-tec-teleco-14"),
+            (15, "comunicaciones-y-redes", "ing-tec-teleco-15"),
+            (16, "ingenieria-de-implantacion", None),
+            (17, "seguridad-en-las-instalaciones-tecnicas", None),
+            (18, "seguridad-de-la-informacion", None),
+            (19, "proteccion-de-datos-personales", None),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Las ochenta y cinco respuestas oficiales de este bloque son "
+                         "correctas.</b> Ninguna es err\u00f3nea y ninguna es impugnable. <b>Seis "
+                         "llevan precisi\u00f3n, matiz u observaci\u00f3n</b>, y <b>una no es de "
+                         "telecomunicaci\u00f3n</b>: van declaradas una a una, con lo que el "
+                         "enunciado no dice al lado. <b>Ninguna pregunta de este cuadernillo "
+                         "depende de una figura</b>, que es lo que hace este examen "
+                         "extraordinariamente limpio de trabajar.",
+        aviso_portada="<p><b>Cinco plazas convocadas</b> en la convocatoria 1/2025 y <b>noventa y "
+                      "seis preguntas</b> de un cuadernillo con su plantilla completa: <b>ochenta "
+                      "principales m\u00e1s diecis\u00e9is de reserva</b>. Ochenta y cinco son del "
+                      "espec\u00edfico y <b>est\u00e1n todas repartidas</b>; las once restantes son "
+                      "del bloque com\u00fan.</p>"
+                      "<p><b>El reparto es el m\u00e1s desigual de todo el proyecto, y eso ordena el "
+                      "estudio.</b> Dos puntos \u2014sonido y redes\u2014 se llevan <b>dieciocho "
+                      "preguntas cada uno</b>: entre los dos, <b>el 42 % del examen espec\u00edfico</b>. "
+                      "El de la se\u00f1al audiovisual y su sincronizaci\u00f3n, <b>catorce</b>. En el "
+                      "otro extremo, <b>diez puntos del anexo no se llevan ninguna</b>.</p>"
+                      "<p><b>Cuatro de esos diez son el coraz\u00f3n del oficio</b>: estudios, "
+                      "continuidades, salas t\u00e9cnicas e ingenier\u00eda de implantaci\u00f3n. Lo "
+                      "que piden es saber <b>DIBUJAR</b> una instalaci\u00f3n, y eso es lo que un "
+                      "examen escrito no sabe preguntar bien. <b>Que no haya ca\u00eddo nada dice "
+                      "m\u00e1s del examen que del oficio</b>, y sus temas se escriben igual, contra "
+                      "el programa.</p>"
+                      "<p>Y una advertencia sobre el cuadernillo: <b>su PDF trae la fuente "
+                      "incrustada sin tabla de caracteres</b>, as\u00ed que el texto se lee de la "
+                      "transcripci\u00f3n por reconocimiento \u00f3ptico que est\u00e1 al lado. "
+                      "<b>Los enunciados y las opciones se han contrastado uno a uno contra la "
+                      "plantilla oficial</b>.</p>",
     ),
     "diseno-grafico": dict(
         carpeta="diseno-grafico",
