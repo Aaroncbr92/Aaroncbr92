@@ -37,7 +37,7 @@ PRL_ESPECIFICO = ("PRL específico · Prevención en el temario específico "
                   "Gestión 31 · Documentación 7 · Información y Contenidos 11 · "
                   "Montaje de Equipos 11 · Edición y Montaje 11 · "
                   "Información Gráfica 12 · Realización Televisión 23 · "
-                  "Sonido 17 · TESE 21)")
+                  "Sonido 17 · TESE 21 · Técnica Informática 27)")
 
 
 def plantilla(ruta):

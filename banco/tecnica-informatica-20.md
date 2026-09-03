@@ -1,4 +1,4 @@
-# Técnica Informática · Tema 20 · Seguridad en tecnologías de la información: ISO 27000 e ITIL
+# Técnica Informática · Tema 20 · Marcos de gestión de la seguridad y del servicio
 
 3 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que

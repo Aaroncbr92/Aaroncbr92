@@ -1,5 +1,19 @@
 # Tema 11 del específico de Técnica Informática · Arquitectura orientada a servicios y servicios web
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 13 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la arquitectura orientada a servicios, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Pregunta repetida** | **El cuadernillo pregunta dos veces por el mismo dato**, con otras palabras. Cuando eso ocurre, ese dato vale doble |
+| **Extensión** | **1.317 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la arquitectura orientada a servicios (**SOA**,
 *service oriented architecture*); el protocolo simple de acceso a objetos (**SOAP**); el lenguaje de
 descripción de servicios web (**WSDL**, *web services description language*); la transferencia de

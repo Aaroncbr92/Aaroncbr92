@@ -339,6 +339,29 @@ AVISOS_TESE = {
         "busque el n\u00famero en la norma de prevenci\u00f3n no lo encontrar\u00e1.</b>",
 }
 
+AVISOS_TECNICA_INFORMATICA = {
+    "48_preguntas_tec_informatica · nº 5":
+        "<b>El enunciado afirma de Python algo que no es cierto.</b> Pregunta en qué lenguaje "
+        "orientado a objetos <b>no es posible instanciar una clase</b>, y en Python se instancian "
+        "clases todos los días: se escribe el nombre de la clase seguido de paréntesis. <b>Lo que "
+        "la respuesta oficial parece perseguir es que Python no OBLIGA a declarar clases</b> "
+        "\u2014permite programar sin ellas\u2014, frente a Java, C# y C++, donde todo el código vive "
+        "dentro de una. <b>Se marca la d), que es la de la plantilla y la mejor de las cuatro</b>, "
+        "sabiendo que su enunciado no dice lo que la respuesta necesita.",
+    "48_preguntas_tec_informatica · nº 71":
+        "<b>La respuesta oficial es la correcta de las cuatro y merece una salvedad.</b> Lo que "
+        "Netscape creó en 1994 fue <b>SSL</b>, la capa de conexión segura; <b>HTTPS es el "
+        "resultado de meter HTTP dentro de esa capa</b>. Las otras tres opciones \u2014DNS, FTP y "
+        "CSMA/CD\u2014 no tienen nada que ver con asegurar la navegación, <b>así que la b) se marca "
+        "igual</b>, con la precisión hecha.",
+    "48_preguntas_tec_informatica · nº 88":
+        "<b>La ley dice «mayor de catorce años», no «catorce o más».</b> El <b>artículo 7.1 de la "
+        "Ley Orgánica 3/2018</b> exige que el menor <b>sea mayor de catorce</b> para que su "
+        "consentimiento baste, de modo que, leído al pie de la letra, quien acaba de cumplir "
+        "catorce no lo es. <b>De las cuatro opciones \u201418, 12, 16 y 14\u2014 la única compatible "
+        "con el precepto es la d), y se marca</b>, con el matiz aprendido al lado.",
+}
+
 AVISOS_REALIZACION_TV = {
     "66_preguntas_realizacion_a · nº 33":
         "<b>La pregunta tiene tres respuestas igualmente correctas.</b> <i>Ben-Hur</i>, "
@@ -848,6 +871,73 @@ BLOQUES = {
                       "mano</b>. Es la respuesta peor documentada del bloque, porque los gestos "
                       "del control son convenio de casa y no hay fuente p\u00fablica que los fije. "
                       "<b>El temario lo declara</b> en lugar de inventar una.</p>",
+    ),
+    "tecnica-informatica": dict(
+        carpeta="tecnica-informatica",
+        rotulo="Temario espec\u00edfico \u00b7 T\u00e9cnica Inform\u00e1tica",
+        ocupacion="T\u00e9cnica Inform\u00e1tica",
+        titulo="Temario espec\u00edfico",
+        subtitulo="Los veinticuatro temas de <b>T\u00e9cnica Inform\u00e1tica</b>",
+        pie="Oposiciones RTVE \u2013 T\u00e9cnica Inform\u00e1tica",
+        avisos=dict(AVISOS_TECNICA_INFORMATICA, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        # los puntos 14 y 18 del anexo no tienen ni una pregunta en el
+        # cuadernillo, as\u00ed que su banco no existe y en su lugar va None. Se
+        # desarrollan igual, contra el programa
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "bases-de-datos-y-el-modelo-relacional", "tecnica-informatica-01"),
+            (2, "comunicaciones-y-redes-modelos-y-direccionamiento", "tecnica-informatica-02"),
+            (3, "protocolos-tcp-ip-conmutacion-y-encaminamiento", "tecnica-informatica-03"),
+            (4, "internet-origen-servicios-y-protocolos-seguros", "tecnica-informatica-04"),
+            (5, "elementos-de-interconexion-y-conmutacion", "tecnica-informatica-05"),
+            (6, "programacion-orientada-a-objetos-y-frameworks", "tecnica-informatica-06"),
+            (7, "metrica-v3-metodologias-agiles-y-scrum", "tecnica-informatica-07"),
+            (8, "desarrollo-de-aplicaciones-web-y-programacion-de-scripts", "tecnica-informatica-08"),
+            (9, "desarrollo-de-aplicaciones-en-j2ee-y-net", "tecnica-informatica-09"),
+            (10, "tecnologias-xml", "tecnica-informatica-10"),
+            (11, "arquitectura-soa-y-servicios-web", "tecnica-informatica-11"),
+            (12, "desarrollo-multimedia-formatos-de-streaming-para-web", None),
+            (13, "otros-lenguajes-c-java-y-python", "tecnica-informatica-13"),
+            (14, "arquitectura-y-administracion-de-sistemas-operativos", "tecnica-informatica-14"),
+            (15, "politicas-y-procedimientos-para-la-conservacion-de-datos", None),
+            (16, "sistemas-operativos-personales", "tecnica-informatica-16"),
+            (17, "arquitectura-de-ordenadores-y-virtualizacion", "tecnica-informatica-17"),
+            (18, "sistemas-multimedia-y-codificacion-de-ficheros-audiovisuales", "tecnica-informatica-18"),
+            (19, "sistemas-de-produccion-digital-audiovisual", "tecnica-informatica-19"),
+            (20, "seguridad-de-la-informacion-iso-27000-e-itil", "tecnica-informatica-20"),
+            (21, "la-seguridad-en-redes", "tecnica-informatica-21"),
+            (22, "proteccion-de-datos-personales", "tecnica-informatica-22"),
+            (23, "el-esquema-nacional-de-seguridad", "tecnica-informatica-23"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Las noventa respuestas oficiales de este bloque son correctas</b>, y "
+                         "<b>ninguna depende de una figura</b>: es el \u00fanico temario espec\u00edfico "
+                         "del proyecto en el que ni una sola pregunta obliga a mirar un dibujo. "
+                         "<b>Tres llevan salvedad o precisi\u00f3n declarada</b> y van avisadas debajo "
+                         "de su enunciado: el lenguaje en el que supuestamente no se instancian "
+                         "clases, el protocolo que Netscape cre\u00f3 en 1994 y la edad a partir de "
+                         "la cual un menor consiente.",
+        aviso_portada="<p><b>Veintiocho plazas convocadas</b> y <b>noventa y seis preguntas</b> de "
+                      "un cuadernillo con su plantilla completa: <b>ochenta principales m\u00e1s "
+                      "diecis\u00e9is de reserva</b>. Noventa son del espec\u00edfico y <b>est\u00e1n todas "
+                      "repartidas</b>; las seis restantes son del bloque com\u00fan.</p>"
+                      "<p><b>Es el temario m\u00e1s limpio de figuras del proyecto.</b> Donde otras "
+                      "ocupaciones t\u00e9cnicas dependen de un esquema de circuito o de una "
+                      "fotograf\u00eda de conectores, aqu\u00ed <b>todo lo que se pregunta est\u00e1 "
+                      "escrito</b>, y por tanto todo se puede estudiar.</p>"
+                      "<p><b>Dos puntos del anexo no han dado ni una pregunta</b> \u2014los formatos "
+                      "de difusi\u00f3n en continuo para web y las pol\u00edticas de conservaci\u00f3n de "
+                      "datos\u2014. <b>Sus temas se escriben igual, contra el programa</b>: un punto "
+                      "sin preguntas en un llamamiento puede tener cuatro en el siguiente, y "
+                      "quien s\u00f3lo estudia lo preguntado estudia el examen pasado.</p>"
+                      "<p>Y hay una diferencia de fondo con el resto de las ocupaciones "
+                      "t\u00e9cnicas: <b>veintiuno de sus veintitr\u00e9s temas van enteros como "
+                      "oficio</b>. <b>S\u00f3lo dos tienen norma detr\u00e1s</b> \u2014la protecci\u00f3n de "
+                      "datos y el Esquema Nacional de Seguridad\u2014, y ah\u00ed el temario cita el "
+                      "Bolet\u00edn Oficial del Estado y el Diario Oficial de la Uni\u00f3n Europea "
+                      "literalmente. Un tercero, el de producci\u00f3n digital audiovisual, se "
+                      "verifica contra el <b>\u00edndice p\u00fablico de la Sociedad de Ingenieros de "
+                      "Cine y Televisi\u00f3n</b>.</p>",
     ),
     "tese": dict(
         carpeta="tese",

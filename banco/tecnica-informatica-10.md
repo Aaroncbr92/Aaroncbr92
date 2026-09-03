@@ -1,4 +1,4 @@
-# Técnica Informática · Tema 10 · Tecnologías XML
+# Técnica Informática · Tema 10 · El lenguaje de marcado extensible y su familia
 
 4 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que

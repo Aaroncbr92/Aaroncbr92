@@ -527,6 +527,61 @@ prevención, dos no tenían respuesta en el tema compartido** —la actuación a
 iluminación de los lugares de trabajo—, **y el tema se ha ampliado con dos apartados nuevos**.
 
 
+### Técnica Informática
+
+**90 preguntas**, repartidas entre los veintitrés temas en que este proyecto desarrolla su Anexo 2.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `tecnica-informatica-01.md` | 1 · Bases de datos y el modelo relacional | 7 |
+| `tecnica-informatica-02.md` | 2 · Comunicaciones y redes: modelos y direccionamiento | **8** |
+| `tecnica-informatica-03.md` | 3 · Protocolos de red, conmutación y encaminamiento | **9** |
+| `tecnica-informatica-04.md` | 4 · Internet: origen, servicios y protocolos seguros | 3 |
+| `tecnica-informatica-05.md` | 5 · Elementos de interconexión y conmutación | 2 |
+| `tecnica-informatica-06.md` | 6 · Programación orientada a objetos y frameworks | 6 |
+| `tecnica-informatica-07.md` | 7 · Métrica V3, metodologías ágiles y el marco Scrum | 2 |
+| `tecnica-informatica-08.md` | 8 · Desarrollo de aplicaciones web y programación de scripts | **8** |
+| `tecnica-informatica-09.md` | 9 · Desarrollo de aplicaciones en las dos plataformas empresariales | 4 |
+| `tecnica-informatica-10.md` | 10 · El lenguaje de marcado extensible y su familia | 4 |
+| `tecnica-informatica-11.md` | 11 · Arquitectura orientada a servicios y servicios web | 3 |
+| — | 12 · Desarrollo multimedia: difusión en continuo | **0** |
+| `tecnica-informatica-13.md` | 13 · Otros lenguajes: C, C++, Java y Python | 3 |
+| `tecnica-informatica-14.md` | 14 · Arquitectura y administración de sistemas operativos | 5 |
+| — | 15 · Políticas de conservación de datos | **0** |
+| `tecnica-informatica-16.md` | 16 · Sistemas operativos personales | 6 |
+| `tecnica-informatica-17.md` | 17 · Arquitectura de ordenadores y virtualización | 2 |
+| `tecnica-informatica-18.md` | 18 · Sistemas multimedia y codificación audiovisual | 4 |
+| `tecnica-informatica-19.md` | 19 · Sistemas de producción digital audiovisual | 2 |
+| `tecnica-informatica-20.md` | 20 · Marcos de gestión de la seguridad y del servicio | 3 |
+| `tecnica-informatica-21.md` | 21 · La seguridad en redes | 5 |
+| `tecnica-informatica-22.md` | 22 · Protección de datos personales | 3 |
+| `tecnica-informatica-23.md` | 23 · El Esquema Nacional de Seguridad | 1 |
+
+**Un solo cuadernillo**, `48_preguntas_tec_informatica`, que sus instrucciones describen como **96
+preguntas —80 principales más 16 de reserva—**. De ellas, **90 son del específico y 6 del bloque
+común**: la 2 y la 29 de la Ley 31/1995, la 21 y la 49 del II Plan de Igualdad, la 79 de la Ley 8/2009
+y la 87 de la Constitución.
+
+**Es el único banco específico del proyecto en el que NINGUNA pregunta depende de una imagen.** Donde
+las demás ocupaciones técnicas obligan a leer un esquema o una pantalla, aquí **todo lo que se
+pregunta está escrito**, y el temario contesta el examen entero sin remitir a la plantilla ni una vez.
+
+**Dos puntos del anexo no han dado ni una pregunta** —el 14, formatos de difusión en continuo para
+web, y el 18, políticas de conservación de datos—. **Sus temas se escriben igual, contra el
+programa**: son el tercer y el cuarto caso del proyecto, tras el punto 11 de Información Gráfica y el
+1.6 de Sonido.
+
+**Ninguna respuesta oficial es errónea y ninguna es impugnable.** **Tres llevan salvedad o precisión
+declarada**: la **nº 5** afirma que en Python no se pueden instanciar clases —y sí se pueden—; la
+**nº 71** atribuye al protocolo web seguro (**HTTPS**) lo que Netscape creó en 1994, que fue la capa
+de conexión segura (**SSL**); y la **nº 88** da 14 años cuando la ley dice «mayor de catorce años». **En las tres, la opción de la plantilla sigue siendo la mejor de
+las cuatro**, que es lo que las separa de una errata.
+
+**Ninguna pregunta se ha reclasificado a mano** en esta ocupación: las seis del bloque común las coge
+el banco general por sus propias palabras clave, y las noventa del específico se reparten a mano
+desde el principio.
+
+
 ### Realización Televisión
 
 **229 preguntas** de los dos llamamientos de **Realización Televisión** de 2024, repartidas entre los

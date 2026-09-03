@@ -1,5 +1,20 @@
 # Tema 19 del específico de Técnica Informática · Sistemas de producción digital audiovisual
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 22 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Índice público de la familia de normas SMPTE ST 2110**, de la Sociedad de Ingenieros de Cine y Televisión |
+| **Identificador** | Índice publicado por la propia sociedad · **el articulado está tras un muro de pago y no se ha leído** |
+| **Redacción que se estudia** | **Los títulos oficiales de sus partes**, citados literalmente del índice. **Nada de su contenido interno** |
+| **Rasgo del punto** | **Es el ÚNICO punto de la ocupación cuya respuesta está verificada contra un organismo de normalización**, y no como oficio |
+| **Norma no consultada** | **El texto de la norma AES67 está tras un muro de pago y no se ha leído.** Lo que el tema afirma de ella es lo que la respuesta oficial afirma |
+| **Extensión** | **1.524 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Sociedad de Ingenieros de Cine y Televisión
 (**SMPTE**), que publica la familia de normas **SMPTE ST 2110**; la Sociedad de Ingeniería de Audio
 (**AES**), que publica la norma **AES67**; el protocolo de internet (**IP**) y el de datagramas de

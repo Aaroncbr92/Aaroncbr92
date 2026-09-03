@@ -1,5 +1,19 @@
 # Tema 18 del específico de Técnica Informática · Sistemas multimedia y codificación de ficheros audiovisuales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 21 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la codificación de ficheros de audio y vídeo, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Cruce de oficios** | **Es el punto donde la informática de esta ocupación se cruza con el oficio audiovisual de la casa** |
+| **Extensión** | **1.808 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la modulación por impulsos codificados (**PCM**,
 *pulse code modulation*); el códec libre de audio sin pérdida (**FLAC**) y el equivalente de Apple
 (**ALAC**); la interfaz visual digital (**DVI**), la interfaz multimedia de alta definición (**HDMI**)

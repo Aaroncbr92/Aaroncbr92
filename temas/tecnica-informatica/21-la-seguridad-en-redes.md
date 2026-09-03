@@ -1,5 +1,19 @@
 # Tema 21 del específico de Técnica Informática · La seguridad en redes
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 24 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la seguridad perimetral y de aplicación, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Rasgo del punto** | **Es el que mejor mide si alguien ha montado una red o sólo la ha leído**: una de sus preguntas describe una situación completa y pide la consecuencia |
+| **Extensión** | **1.896 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la zona desmilitarizada o red perimetral (**DMZ**);
 el nombre alternativo del sujeto de un certificado (**SAN**, *subject alternative name*) y la
 indicación del nombre del servidor (**SNI**, *server name indication*); el cortafuegos de aplicación

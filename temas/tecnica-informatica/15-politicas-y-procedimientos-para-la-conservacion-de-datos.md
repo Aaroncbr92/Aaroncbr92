@@ -1,5 +1,20 @@
 # Tema 15 del específico de Técnica Informática · Políticas y procedimientos para la conservación de datos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 18 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la política de conservación como buena práctica, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Punto sin banco** | **CERO preguntas en el cuadernillo.** El tema se escribe igual, contra el programa |
+| **Enlace normativo** | **Lo que aquí es buena práctica, el Esquema Nacional de Seguridad del punto 26 lo convierte en obligación jurídica** |
+| **Extensión** | **1.252 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el objetivo de punto de recuperación (**RPO**,
 *recovery point objective*) y el objetivo de tiempo de recuperación (**RTO**, *recovery time
 objective*); el conjunto redundante de discos independientes (**RAID**); la cinta lineal abierta

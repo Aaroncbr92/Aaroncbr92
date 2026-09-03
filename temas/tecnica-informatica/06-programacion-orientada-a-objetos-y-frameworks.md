@@ -1,5 +1,19 @@
 # Tema 6 del específico de Técnica Informática · Programación orientada a objetos y frameworks
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · puntos 7 y 8 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los conceptos de la programación orientada a objetos, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Salvedad declarada** | **El enunciado de la pregunta 5 afirma de Python algo que no es cierto**: en Python se instancian clases. **Se marca la opción de la plantilla**, que es la mejor de las cuatro, y el temario declara el defecto |
+| **Extensión** | **1.719 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la programación orientada a objetos (**POO**); el
 patrón modelo-vista-controlador (**MVC**); el lenguaje de consulta estructurado (**SQL**) y la
 notación de objetos de JavaScript (**JSON**), que aparecen como opciones falsas; y **C**, **C++**,

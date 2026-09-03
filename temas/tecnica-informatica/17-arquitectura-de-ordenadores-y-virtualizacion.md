@@ -1,5 +1,19 @@
 # Tema 17 del específico de Técnica Informática · Arquitectura de ordenadores y virtualización
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 20 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los componentes, el almacenamiento y la virtualización, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Desajuste declarado** | **El enunciado pide siete asuntos y el examen ha entrado por los dos más elementales**: clasificar un dispositivo y situar una generación |
+| **Extensión** | **1.505 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la unidad central de proceso (**CPU**), con su unidad
 aritmético-lógica (**ALU**) y su unidad de control (**UC**); la memoria de acceso aleatorio (**RAM**) y
 la de sólo lectura (**ROM**); la entrada y salida (**E/S**); la unidad de estado sólido (**SSD**,

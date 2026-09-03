@@ -1,5 +1,19 @@
 # Tema 16 del específico de Técnica Informática · Sistemas operativos personales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 19 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los sistemas operativos de puesto, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Desajuste declarado** | **El enunciado nombra Ubuntu y las seis preguntas son de Windows.** El examen entiende «sistema operativo personal» como Windows |
+| **Extensión** | **1.922 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el control de cuentas de usuario (**UAC**, *user
 account control*); la convención universal de nomenclatura (**UNC**, *universal naming convention*);
 el sistema de ficheros de nueva tecnología (**NTFS**); el sistema de cifrado de ficheros (**EFS**,

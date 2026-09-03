@@ -90,6 +90,7 @@ prevención de riesgos laborales**, que es un solo fichero.
 | `libro-informacion-grafica` | Información Gráfica y Captación de Imagen y Sonido | 12 | 141 | 218 |
 | `libro-sonido` | **Sonido** | 18 | 133 | 206 |
 | `libro-tese` | **Técnica de Equipos y Sistemas Electrónicos** | 18 | 161 | 230 |
+| `libro-tecnica-informatica` | **Técnica Informática** | 24 | 137 | 255 |
 
 **Realización Televisión es el volumen más grande del proyecto**: 363 páginas,
 veintidós temas propios más el de prevención y **229 preguntas del bloque
@@ -99,6 +100,11 @@ específico**, de dos llamamientos con sus dos plantillas completas.
 sus 114 preguntas dependen de una imagen**, la proporción más alta del proyecto.
 El temario **no describe lo que no ha visto**: declara cada una y aporta la regla
 de su familia.
+
+**Y Técnica Informática es el contrario exacto**: **ninguna de sus 90 preguntas
+del específico depende de una imagen**, y es **el único volumen del proyecto que
+contesta el examen entero sin remitir ni una vez a la plantilla**. Todo lo que se
+pregunta está escrito, y por tanto todo se puede comprobar.
 
 **Diez respuestas oficiales de 2024 están mal, y van marcadas una a una** con el
 precepto, el modelo de cuentas o la ficha de fabricante que las desmiente. El

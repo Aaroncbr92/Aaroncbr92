@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-03 (Sonido y Técnica de Equipos y Sistemas Electrónicos)
+**Última actualización:** 2026-09-03 (Técnica Informática)
 
 ## Qué es esto
 
@@ -756,6 +756,46 @@ en Documentación y en Producción (Asistencia).
       los lugares de trabajo, cuya respuesta **es literalmente el artículo 8 del RD 486/1997**. Se
       cierran ampliando el tema, que es el apartado 7 del manual. Su esquema, que cubría cinco
       rúbricas de las diez, pasa a cubrir las doce.
+
+- [x] **Fase G: Técnica Informática, terminada el 2026-09-03.** 23 temas propios más el de
+      prevención, **90 preguntas del específico** de un cuadernillo de 96 con su plantilla completa
+      —80 principales más 16 de reserva—. **28 plazas en la convocatoria 1/2025.** Con ella el
+      proyecto llega a **1.588 preguntas específicas** repartidas en catorce bancos. **Ninguna de
+      las 90 respuestas oficiales nuevas es errónea**, y **la cuenta de erratas de plantilla del
+      proyecto sigue en diez.**
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) Hay un temario específico sin una sola figura, y eso también hay que decirlo.** Las
+      noventa preguntas se contestan con texto: **es el único bloque del proyecto que responde el
+      examen entero sin remitir ni una vez a la plantilla.** Es lo contrario del caso de Técnica de
+      Equipos, y merece decirse en la portada por la misma razón.
+      **2) Un cero de la lente de exactitud puede ser del método y no del tema, dos veces seguidas.**
+      El tema 23 devolvió cero porque **la lente se invocó sin el fichero de la norma**; el 22,
+      porque **sus anclajes iban a mitad de párrafo**, donde la lente los lee como remisiones. El
+      apartado 10 del manual funcionó las dos veces: el cero se investigó en vez de celebrarse.
+      **3) Dos puntos del anexo sin ninguna pregunta, en la misma ocupación.** Los formatos de
+      difusión en continuo para web y las políticas de conservación de datos. **Se escriben igual,
+      contra el programa**: son el tercer y el cuarto caso del proyecto.
+      **4) Una salvedad no es una errata mientras la opción marcada siga siendo la mejor de las
+      cuatro.** Tres preguntas de este bloque tienen el enunciado defectuoso —la que niega que en
+      Python se instancien clases, la que atribuye al protocolo web seguro lo que Netscape creó en
+      1994 y la que da 14 años donde la ley dice «mayor de catorce»—, y **en las tres la plantilla
+      acierta**. Van avisadas debajo de su enunciado, y **la cuenta de erratas no se mueve.**
+      **5) Un punto puede pedir su respaldo jurídico a otro punto del mismo temario.** Lo que el
+      punto 18 describe como buena práctica de conservación, **el 26 lo convierte en obligación** por
+      el Esquema Nacional de Seguridad, y el 25 por protección de datos. **Los tres piden lo mismo
+      desde tres sitios distintos**, y el temario lo dice en los tres.
+
+- [x] **Un punto ciego de la lente de prosa, encontrado y anotado en vez de tapado.** `refutar_prosa`
+      da una sigla por presentada si hay un paréntesis en los 130 caracteres anteriores, **aunque ese
+      paréntesis se haya cerrado y no tenga nada que ver con ella**: en «RIP (v1 y v2), OSPF, EIGRP»,
+      el paréntesis de las versiones de la primera tapaba a la tercera. **EIGRP se ha presentado a
+      mano.** Se probaron **tres reglas más estrictas** y las tres marcan formas de presentación que
+      el proyecto usa a propósito —«nombre largo (expansión), SIGLA», las enumeraciones tras un
+      paréntesis y la sigla en negrita con su paréntesis detrás—, dejando **unos 180 avisos casi
+      todos falsos**. **Una lente que nadie corre es peor que una lente holgada** (apartado 10), así
+      que se deja la holgada y el punto ciego queda escrito con lo que haría falta para cerrarlo.
+
 
 ## Qué comprobación pasa por qué material
 

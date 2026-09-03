@@ -1,5 +1,21 @@
 # Tema 22 del específico de Técnica Informática · Protección de datos personales y garantía de los derechos digitales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 25 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales** |
+| **Identificador** | `BOE-A-2018-16673` · BOE núm. 294, de 06/12/2018 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se cita **el artículo 7 entero** y **la frase del preámbulo sobre la edad** |
+| **Segunda norma** | **Reglamento (UE) 2016/679** (`DOUE-L-2016-80807`), del que se cita literalmente **la letra e) del artículo 5.1** |
+| **Precisión declarada** | **La ley dice «mayor de catorce años», no «catorce o más».** La respuesta oficial da 14 y es la única compatible de las cuatro opciones: se marca, con el matiz escrito al lado |
+| **Punto compartido** | **El mismo punto es el 9 del específico de Gestión y el 17 del de Producción (Asistencia)** |
+| **Extensión** | **1.906 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Reglamento General de Protección de Datos
 (**RGPD**), que es el Reglamento (UE) 2016/679; la Ley Orgánica de Protección de Datos Personales y
 garantía de los derechos digitales (**LOPDGDD**), que es la Ley Orgánica 3/2018; la Agencia Española

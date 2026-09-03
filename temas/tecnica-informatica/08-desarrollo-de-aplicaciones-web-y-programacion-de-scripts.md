@@ -1,5 +1,18 @@
 # Tema 8 del específico de Técnica Informática · Desarrollo de aplicaciones web y programación de scripts
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 10 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los lenguajes de la web, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **2.021 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el lenguaje de marcado de hipertexto (**HTML**), en
 su quinta versión (**HTML5**) y en su variante bien formada (**XHTML**); las hojas de estilo en
 cascada (**CSS**), en su tercera versión (**CSS3**); el estándar del lenguaje en que se basa

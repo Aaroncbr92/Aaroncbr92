@@ -1,5 +1,19 @@
 # Tema 2 del específico de Técnica Informática · Comunicaciones y redes: modelos y direccionamiento
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 3 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los modelos de referencia y el direccionamiento, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Punto compartido** | **El mismo enunciado es el punto 14 del anexo de Técnica de Equipos y Sistemas Electrónicos.** Donde el examen de las dos ocupaciones pregunta lo mismo, la respuesta coincide |
+| **Extensión** | **1.870 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la interconexión de sistemas abiertos (**OSI**, *open
 systems interconnection*); el protocolo de internet (**IP**), el protocolo de
 control de transmisión (**TCP**) y el par que forman los dos (**TCP/IP**), con sus versiones 4 y 6

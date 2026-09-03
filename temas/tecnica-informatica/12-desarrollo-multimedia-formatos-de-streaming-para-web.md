@@ -1,5 +1,19 @@
 # Tema 12 del específico de Técnica Informática · Desarrollo multimedia: formatos de difusión en continuo para web
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 14 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la difusión de vídeo en continuo, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Punto sin banco** | **CERO preguntas en el cuadernillo.** El tema se escribe igual, contra el programa: un punto sin preguntas en un llamamiento puede tenerlas en el siguiente |
+| **Extensión** | **1.394 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la difusión en continuo sobre el protocolo de
 transferencia de hipertexto (**HLS**, *HTTP live streaming*) y la difusión adaptativa dinámica sobre
 ese mismo protocolo (**DASH**, *dynamic adaptive streaming over HTTP*); el protocolo de transferencia

@@ -1,5 +1,18 @@
 # Tema 1 del específico de Técnica Informática · Bases de datos y el modelo relacional
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · puntos 1 y 2 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son las bases de datos y el lenguaje de consulta, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **1.876 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el sistema de gestión de bases de datos (**SGBD**);
 el lenguaje de consulta estructurado (**SQL**, *structured query language*) y sus cuatro sublenguajes
 —el de definición de datos (**DDL**, *data definition language*), el de manipulación (**DML**, *data

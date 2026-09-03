@@ -1,5 +1,18 @@
 # Tema 10 del específico de Técnica Informática · El lenguaje de marcado extensible y su familia
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 12 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la familia del lenguaje de marcado extensible, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **1.216 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el lenguaje de marcado extensible (**XML**,
 *extensible markup language*); la definición de tipo de documento (**DTD**, *document type
 definition*); el lenguaje de hojas de estilo extensible (**XSL**) y su parte de transformación

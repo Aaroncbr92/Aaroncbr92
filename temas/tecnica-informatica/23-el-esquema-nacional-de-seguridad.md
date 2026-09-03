@@ -1,5 +1,20 @@
 # Tema 23 del específico de Técnica Informática · El Esquema Nacional de Seguridad
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 26 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad** |
+| **Identificador** | `BOE-A-2022-7191` · BOE núm. 106, de 04/05/2022 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan literalmente **los apartados 1 y 2 del artículo 1** y **el apartado 2 del anexo I** |
+| **Aviso de encaje** | **La norma es de 3 de mayo de 2022 y la fecha de corte es el 21 de diciembre de 2022**: estaba plenamente vigente |
+| **Dos listas que se confunden** | **La enumeración del artículo 1.2 tiene siete palabras y las dimensiones del anexo I son cinco.** El acceso y la conservación son fines, no dimensiones |
+| **Extensión** | **1.718 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Esquema Nacional de Seguridad (**ENS**), que la
 propia norma abrevia así; el Centro Criptológico Nacional (**CCN**) y sus guías (**CCN-STIC**); la
 declaración de aplicabilidad (**DA**); y las cinco dimensiones de la seguridad, que la norma identifica

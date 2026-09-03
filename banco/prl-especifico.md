@@ -1,4 +1,4 @@
-# PRL específico · Prevención en el temario específico (Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 21 · Gestión Administrativa 13 · Gestión 31 · Documentación 7 · Información y Contenidos 11 · Montaje de Equipos 11 · Edición y Montaje 11 · Información Gráfica 12 · Realización Televisión 23 · Sonido 17 · TESE 21)
+# PRL específico · Prevención en el temario específico (Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 21 · Gestión Administrativa 13 · Gestión 31 · Documentación 7 · Información y Contenidos 11 · Montaje de Equipos 11 · Edición y Montaje 11 · Información Gráfica 12 · Realización Televisión 23 · Sonido 17 · TESE 21 · Técnica Informática 27)
 
 47 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que

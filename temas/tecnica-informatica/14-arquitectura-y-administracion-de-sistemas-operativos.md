@@ -1,5 +1,18 @@
 # Tema 14 del específico de Técnica Informática · Arquitectura y administración de sistemas operativos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · puntos 16 y 17 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son la arquitectura del sistema y su administración, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **1.761 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la entrada y salida (**E/S**, y en inglés **I/O**);
 la unidad central de proceso (**CPU**); la lista de control de acceso (**ACL**, *access control
 list*); el protocolo de control de transmisión sobre el protocolo de internet (**TCP/IP**); y los

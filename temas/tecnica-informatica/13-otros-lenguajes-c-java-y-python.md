@@ -1,5 +1,19 @@
 # Tema 13 del específico de Técnica Informática · Otros lenguajes: C, C++, Java y Python
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 15 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son cuatro lenguajes de programación, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Desajuste declarado** | **El enunciado nombra C y C++ primero, y de los dos no ha caído ninguna pregunta.** Las tres son de Java o de Python |
+| **Extensión** | **1.290 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la máquina virtual de Java (**JVM**, *Java Virtual
 Machine*), su entorno de ejecución (**JRE**) y su kit de desarrollo (**JDK**, *Java Development Kit*);
 la interfaz de programación de aplicaciones (**API**); el instalador de paquetes de Python (**PIP**); el preprocesador de hipertexto (**PHP**);

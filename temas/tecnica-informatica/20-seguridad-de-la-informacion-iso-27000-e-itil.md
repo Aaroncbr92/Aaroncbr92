@@ -1,5 +1,19 @@
 # Tema 20 del específico de Técnica Informática · Marcos de gestión de la seguridad y del servicio
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 23 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma volcada.** Su materia son dos marcos de gestión —la familia ISO 27000 y la biblioteca ITIL—, **cuyos textos están tras un muro de pago**: el tema **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Desajuste declarado** | **El enunciado nombra dos marcos de gestión y una de las tres preguntas es de criptografía**, que no figura en él con ese nombre |
+| **Extensión** | **1.813 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Organización Internacional de Normalización
 (**ISO**) y su familia de normas de seguridad de la información (**ISO 27000**); la biblioteca de
 infraestructura de tecnologías de la información (**ITIL**, *information technology infrastructure

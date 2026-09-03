@@ -1,5 +1,19 @@
 # Tema 9 del específico de Técnica Informática · Desarrollo de aplicaciones en J2EE y .NET
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 11 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son dos plataformas empresariales, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Desajuste declarado** | **El enunciado pide dos plataformas y dos de las cuatro preguntas son de gestores de dependencias**, que es materia de alrededor |
+| **Extensión** | **1.368 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la edición empresarial de la plataforma Java
 (**J2EE**, *Java 2 Enterprise Edition*, hoy llamada **Jakarta EE**); la plataforma de Microsoft
 (**.NET**, que se lee «punto net»); la página de servidor de Java (**JSP**, *Java Server Page*); el

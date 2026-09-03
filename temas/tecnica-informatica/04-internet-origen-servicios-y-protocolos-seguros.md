@@ -1,5 +1,19 @@
 # Tema 4 del específico de Técnica Informática · Internet: origen, servicios y protocolos seguros
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 5 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los protocolos de la web y su versión cifrada, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Salvedad declarada** | **La respuesta oficial de la pregunta 71 se sostiene con salvedad**: lo que Netscape creó en 1994 fue **SSL**, y **HTTPS** es el resultado de meter **HTTP** dentro de esa capa |
+| **Extensión** | **1.300 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el protocolo de transferencia de hipertexto
 (**HTTP**) y su versión segura (**HTTPS**); la capa de conexión segura (**SSL**, *secure sockets
 layer*) y su sucesora, la seguridad de la capa de transporte (**TLS**, *transport layer security*); el

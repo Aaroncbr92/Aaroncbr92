@@ -1,5 +1,19 @@
 # Tema 3 del específico de Técnica Informática · Protocolos de red, conmutación y encaminamiento
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 4 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los protocolos de red y el encaminamiento, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Banco más grande** | **Nueve preguntas: el mayor de la ocupación.** Cuatro de las nueve describen una situación y piden la consecuencia |
+| **Extensión** | **2.475 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el protocolo de control de transmisión sobre el
 protocolo de internet (**TCP/IP**), que da nombre al punto; el protocolo de transferencia de
 hipertexto (**HTTP**) y su versión segura (**HTTPS**), con la seguridad de la capa de transporte

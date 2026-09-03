@@ -1,5 +1,19 @@
 # Tema 7 del específico de Técnica Informática · Métrica V3, metodologías ágiles y SCRUM
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 9 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son dos metodologías de desarrollo, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Rasgo del punto** | **Es el único del temario que pregunta por una metodología española**, y la respuesta está en el nombre del ministerio que la publica |
+| **Extensión** | **1.448 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Organización Internacional de Normalización y la
 Comisión Electrotécnica Internacional (**ISO/IEC**), que publican conjuntamente las normas 12207 y
 15504 que el enunciado nombra; el estudio de viabilidad del sistema (**EVS**), el análisis del sistema

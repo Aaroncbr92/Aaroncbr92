@@ -1,4 +1,4 @@
-# Técnica Informática · Tema 3 · Protocolos TCP/IP, conmutación y encaminamiento
+# Técnica Informática · Tema 3 · Protocolos de red, conmutación y encaminamiento
 
 9 preguntas reales sacadas de los cuadernillos de octubre y noviembre de 2024.
 La respuesta es la de la plantilla oficial; donde pone «sin plantilla» es que

@@ -1,5 +1,19 @@
 # Tema 5 del específico de Técnica Informática · Elementos de interconexión y conmutación
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica Informática · punto 6 |
+| **Sirve para** | **Técnica Informática** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los medios de transmisión y los equipos de red, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Desajuste declarado** | **El enunciado nombra conmutadores, enrutadores y puertas de enlace, y las dos preguntas caídas son de medio físico.** Los tres equipos siguen sin caer y pueden caer |
+| **Extensión** | **1.286 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el par trenzado sin apantallar (**UTP**, *unshielded
 twisted pair*) y el apantallado (**STP**, *shielded twisted pair*); los gigabits por segundo
 (**Gbps**) y los megabits por segundo (**Mbps**); el kilómetro (**km**); el control de acceso al medio
