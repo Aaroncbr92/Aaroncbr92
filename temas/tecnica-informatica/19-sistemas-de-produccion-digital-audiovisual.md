@@ -155,10 +155,10 @@ cuadernillo.
 1. **El articulado de la familia SMPTE ST 2110 no se ha consultado**: **sólo su índice público**, del
    que se toman los títulos de las partes tal como los publica la propia sociedad. **Eso basta para
    sostener la respuesta de la pregunta 30.**
-2. **El texto de la norma AES67 está tras un muro de pago y no se ha leído**, y **así consta ya en
-   `fuentes/normas-tecnicas/AES-normas-de-audio.md`.** **Lo que el tema afirma de ella es lo que la
-   respuesta oficial afirma**: que es el estándar de interoperabilidad de audio sobre red de esa
-   sociedad.
+2. **El texto de la norma AES67 está tras un muro de pago y no se ha leído**, y **lo mismo se
+   declaró ya al escribir el temario específico de Sonido.** **Lo que el tema afirma de ella es lo
+   que la respuesta oficial afirma**: que es el estándar de interoperabilidad de audio sobre red de
+   esa sociedad.
 3. **La arquitectura del epígrafe 4 no describe la instalación de RTVE**, que no se ha consultado.
    **Es la arquitectura genérica de una instalación de este tipo**, escrita a partir del propio
    enunciado del anexo.
