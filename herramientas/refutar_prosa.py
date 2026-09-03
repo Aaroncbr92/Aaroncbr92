@@ -64,6 +64,13 @@ def main():
     PALABRAS = ("NO", "SI", "UNA", "UNO", "TODO", "TODAS", "SOLO", "NUNCA",
                 "SIEMPRE", "MENOS", "MAS", "CIERTA", "FALSA",
                 "RAW", "LOG", "LUT", "MIX")
+    # rótulos de botones y de menús, tal como están serigrafiados en el
+    # aparato. No abrevian nada: son el nombre que el operador lee y pulsa, y
+    # el tema los escribe en mayúsculas justamente para que se reconozcan en
+    # el panel. Y nombres de marca y de modelo, que tampoco son siglas.
+    ROTULOS = ("CUT", "AUTO", "WIPE", "NAM", "FAM", "CLEAN", "EDIT", "PREVIO",
+               "SHOW", "KEY", "FILL", "SIZE", "CROP", "MENU", "PGM", "PVW",
+               "ATEM", "MOTU", "XVS", "AV", "HS")
     # «SI(C2 = 1» no es una sigla: es una llamada a función. Un paréntesis
     # pegado al nombre lo delata, y sin esta salvedad un tema de hoja de
     # cálculo llena la lista de falsos avisos aunque el nombre vaya dentro de
@@ -73,7 +80,7 @@ def main():
     for sigla in sorted(set(re.findall(r"\b([A-Z]{2,6})\b", tema))):
         if ROMANOS.match(sigla) or sigla in CONOCIDAS or sigla in llamadas:
             continue
-        if sigla in PALABRAS:
+        if sigla in PALABRAS or sigla in ROTULOS:
             continue
         # «BT.601-7», «EN 300 744», «ST 2110»: la serie de una norma no es una
         # sigla que el tema tenga que presentar, es la mitad de su nombre. Se
