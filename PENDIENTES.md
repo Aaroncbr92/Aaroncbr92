@@ -17,6 +17,32 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
+### 2026-09-04 · Enfermería de Empresa remitía a temas con dos numeraciones distintas — cerrado el mismo día
+
+**Qué pasó.** Los temas 1, 2, 3, 5 y 6 se escribieron cuando el volumen se planeaba con **uniones de
+puntos** —dos puntos del programa en un tema—, y sus remisiones daban a los agentes físicos,
+biológicos y químicos los números **14, 15 y 16**. Los temas 8, 9, 10, 11 y 12 se escribieron después,
+ya con **un tema por punto del programa**, y remitían a los mismos agentes como **15, 16 y 17**, a los
+químicos y cancerígenos como **17 y 18** y a los primeros auxilios como **25**.
+
+**Las dos numeraciones convivían en el mismo volumen**, y **la contradicción era visible**: los temas 1
+y 2 mandaban los agentes biológicos al tema 15 y los temas 10 y 11 los mandaban al 16.
+
+**Cómo se detectó.** No lo detectó ninguna lente. **Se detectó al preparar el tema 15**, listando con
+`grep` todas las remisiones hacia adelante del volumen para saber a qué número tocaba escribir.
+
+**Qué se ha hecho.** Se ha fijado la estructura definitiva: **veinticinco temas, uno por cada punto del
+Anexo 1**, sin ninguna unión. Es la que ya usaba la mayoría de las remisiones y la que hace trivial la
+trazabilidad. Y se han corregido las once remisiones de los temas 1, 2, 3, 5, 6, 9 y 12 que seguían la
+numeración vieja.
+
+**La lección, que es la misma del tema compartido que envejecía sin avisar.** **Una remisión interna es
+una afirmación**, y **ninguna de las cinco lentes la comprueba**: las lentes miran el texto contra sus
+fuentes, no el volumen contra sí mismo. **Cuando la estructura de un volumen cambia a mitad de
+escritura, las remisiones ya escritas quedan mintiendo en silencio.** La comprobación es un `grep` de
+«tema N» sobre la carpeta entera, y **conviene hacerla antes de cerrar cualquier volumen.**
+
+
 ### 2026-09-04 · Un tema publicado estaba corrompido en el repositorio — cerrado el mismo día
 
 - **Dónde**: `temas/ing-tec-teleco/19-proteccion-de-datos-personales.md`, **commit

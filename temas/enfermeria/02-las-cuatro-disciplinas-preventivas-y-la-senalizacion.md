@@ -2,7 +2,7 @@
 
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el Instituto Nacional de Seguridad y Salud en el Trabajo
-(**INSST**); y el valor límite ambiental (**VLA**), que se desarrolla en el tema 16.
+(**INSST**); y el valor límite ambiental (**VLA**), que se desarrolla en el tema 17.
 
 > Enunciado del programa (Anexo 1 de las Bases de la Convocatoria de Banco de Datos de RTVE, temario
 > de la ocupación tipo de Enfermería de Empresa, punto 2):
@@ -235,7 +235,7 @@ trabajador, medido en sangre, orina o aire exhalado—.**
 **Y la advertencia de método**: **este tema no da ningún valor límite concreto de ningún agente.**
 **Los ambientales se publican en un documento anual del Instituto Nacional de Seguridad y Salud en el
 Trabajo y CAMBIAN cada año**, y **una cifra de ese documento escrita sin haberlo leído sería a la vez
-inventada y caduca.** **El tema 16 vuelve sobre esto.**
+inventada y caduca.** **El tema 17 vuelve sobre esto.**
 
 ## 5. Ergonomía
 
@@ -406,9 +406,9 @@ temario de enfermería.**
 7. **Las materias que este tema roza y que se desarrollan en otro punto van remitidas**: **el marco
    normativo de los lugares de trabajo, al tema 1**; **el estrés, el desgaste profesional y el acoso,
    al tema 3**; **los trabajadores especialmente sensibles, al tema 5**; **los agentes físicos,
-   biológicos y químicos, a los temas 14, 15 y 16**; **los trastornos musculoesqueléticos, al tema
-   17**; **los equipos de protección individual, al tema 18**; y **las pantallas de visualización, al
-   tema 19.**
+   biológicos y químicos, a los temas 15, 16 y 17**; **los trastornos musculoesqueléticos, al tema
+   19**; **los equipos de protección individual, al tema 20**; y **las pantallas de visualización, al
+   tema 21.**
 
 **El resto del tema va como oficio y así se declara**: la lectura de la prevención en cuatro etapas
 históricas hasta llegar a la integración en la gestión, la tabla cruzada de técnicas analíticas y

@@ -422,7 +422,7 @@ impedir.**
    historia clínico-laboral y el análisis con criterios epidemiológicos, al tema 5**; **el análisis
    estadístico y epidemiológico de los datos, a los temas 12, 13 y 14**; y **los agentes físicos,
    biológicos, químicos y cancerígenos que dan nombre a cuatro de los seis grupos del cuadro, a los
-   temas 14, 15 y 16.**
+   temas 15, 16, 17 y 18.**
 
 **El resto del tema va como oficio y así se declara**: la idea de que las dos figuras se definen de
 manera opuesta —cláusula general frente a lista cerrada— y de que la letra e) del artículo 156 es la

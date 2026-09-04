@@ -177,7 +177,7 @@ se buscan en el anexo que el artículo señala**, y **el temario dice qué anexo
 
 **Y su apartado 2 hace el deslinde que ordena media asignatura**: **la exposición a los agentes
 físicos, químicos y biológicos del ambiente de trabajo se rige por su normativa específica**, que es
-**la de los temas 14, 15 y 16 de este volumen.** **Este reglamento se ocupa del confort ambiental; los
+**la de los temas 15, 16 y 17 de este volumen.** **Este reglamento se ocupa del confort ambiental; los
 agentes tienen sus propios reales decretos.**
 
 **Artículo 8**:
@@ -317,7 +317,7 @@ segundos, proactivos**, y **la diferencia es de oficio y así se declara.**
 6. **Las materias que este tema roza y que se desarrollan en otro punto van remitidas**: **las cuatro
    disciplinas preventivas y la señalización, al tema 2**; **la carga mental y la organización del
    trabajo, al tema 3**; **la vigilancia de la salud y los trabajadores especialmente sensibles, al
-   tema 5**; **los agentes físicos, biológicos y químicos, a los temas 14, 15 y 16**; y **los
+   tema 5**; **los agentes físicos, biológicos y químicos, a los temas 15, 16 y 17**; y **los
    indicadores demográficos y epidemiológicos, a los temas 12 y 13.**
 
 **El resto del tema va como oficio y así se declara**: la lectura de que la exclusión del ámbito es de

@@ -264,7 +264,7 @@ como enfermedad común.** **Ésa es la conexión directa con el tema 6.**
    epidemiológicos»** está en la norma, **y es la razón por la que los temas 12, 13 y 14 de este
    programa son de estadística y epidemiología**: no son un adorno académico, son el instrumento de una
    obligación reglamentaria.
-3. **La letra h) es la que trae los primeros auxilios al temario**, y **es la conexión con el tema 24.**
+3. **La letra h) es la que trae los primeros auxilios al temario**, y **es la conexión con el tema 25.**
 
 ## 5. La protección de los trabajadores especialmente sensibles
 
@@ -287,7 +287,7 @@ como enfermedad común.** **Ésa es la conexión directa con el tema 6.**
 
 ---
 
-**Y su apartado 2, que es el que enlaza con el tema 20:**
+**Y su apartado 2, que es el que enlaza con el tema 22:**
 
 **Artículo 25**, apartado 2:
 
@@ -355,7 +355,7 @@ revelar su diagnóstico.**
    de riesgos y sus etapas, al tema 1**; **el derecho a la intimidad y la protección de datos, al tema
    4**; **el accidente de trabajo y la enfermedad profesional y su notificación, al tema 6**; **el
    análisis con criterios epidemiológicos, a los temas 12, 13 y 14**; **la protección de la maternidad,
-   al tema 20**; y **los primeros auxilios, al tema 24.**
+   al tema 22**; y **los primeros auxilios, al tema 25.**
 
 **El resto del tema va como oficio y así se declara**: la frase de que un reconocimiento que no vuelve
 sobre la evaluación de riesgos no es vigilancia de la salud, la tabla de objetivos en plano individual

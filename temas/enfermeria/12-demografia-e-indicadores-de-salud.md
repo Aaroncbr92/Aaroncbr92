@@ -348,7 +348,7 @@ salud pública considera «materno-infantil»:**
 perinatal, ya citada en el epígrafe 3**, porque **las fichas técnicas consultadas no las contienen
 todas.** **Y ninguna cifra.**
 
-**La conexión de este capítulo con la enfermería del trabajo es directa y va al tema 21**: **la
+**La conexión de este capítulo con la enfermería del trabajo es directa y va al tema 22**: **la
 protección de la maternidad en el trabajo, la vigilancia de la salud durante el embarazo y la lactancia
 y la suspensión del contrato por riesgo son materia de aquel punto**, y **los indicadores de este
 capítulo son el trasfondo poblacional de aquella regulación.**
@@ -491,7 +491,7 @@ usa ninguna de las dos como dato**: **las cita únicamente para declarar la disc
     salud sobre los que actúa la promoción, al tema 7**; **la vacunación infantil y su cobertura, al
     tema 11**; **la estadística descriptiva e inferencial con que se tratan estos datos, al tema 13**;
     **la incidencia, la prevalencia y los tipos de estudio, al tema 14**; y **la protección de la
-    maternidad, al tema 21.**
+    maternidad, al tema 22.**
 
 **El resto del tema va como oficio y así se declara**: la tabla que confronta las siete rúbricas del
 enunciado con los seis capítulos de la publicación; las tres lecturas de la definición de la operación

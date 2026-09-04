@@ -531,7 +531,7 @@ ahí, no en el volcado de este proyecto.**
    espirometría entera, al tema 8**; **el electrocardiograma y la venoclisis, al tema 10**; **el ruido
    y las radiaciones como agentes físicos, al tema 15**; **los agentes químicos y cancerígenos, a los
    temas 17 y 18**; **el trabajo con pantallas, al tema 21**; y **los nódulos de cuerdas vocales, al
-   tema 22.**
+   tema 23.**
 
 **El resto del tema va como oficio y así se declara**: la advertencia de que buscar una enfermedad por
 su nombre en un cuadro que clasifica por agente es la forma más rápida de no encontrarla, con el ejemplo

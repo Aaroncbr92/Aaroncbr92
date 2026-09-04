@@ -269,14 +269,14 @@ llegan a saberse.**
 6. **Las materias que este tema roza y que se desarrollan en otro punto van remitidas**: **los factores
    de riesgo psicosocial y el modelo demanda-control-apoyo social, al tema 2**; **el derecho a la
    intimidad y la protección de datos de la información sanitaria, al tema 4**; **la vigilancia de la
-   salud, al tema 5**; **las drogodependencias, al tema 23**; y **el estudio completo del II Plan de
+   salud, al tema 5**; **las drogodependencias, al tema 24**; y **el estudio completo del II Plan de
    Igualdad de RTVE, al tema 6 del bloque general.**
 
 **El resto del tema va como oficio y así se declara**: las tres palabras que hacen operativa la
 definición de estrés y la observación de que los recursos los pone la organización, las dos lecturas
 del esquema de fases —que la de resistencia es peligrosa porque parece que no pasa nada, y que lo que
 daña no es el estrés sino su cronificación—, la tabla de manifestaciones por planos con el enlace entre
-la conducta de consumo y el tema 23, los tres niveles de prevención con la regla de que empieza por la
+la conducta de consumo y el tema 24, los tres niveles de prevención con la regla de que empieza por la
 organización y no por la persona, la tabla que separa el estrés del síndrome de estar quemado, la
 lectura de la despersonalización como mecanismo de defensa y no como rasgo de carácter, la advertencia
 de que los factores individuales modulan pero no causan, la observación de que los espacios de equipo
