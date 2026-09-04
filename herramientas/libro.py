@@ -1891,6 +1891,80 @@ BLOQUES = {
                       "hallazgos</b>: erratas y contradicciones encontradas en las propias "
                       "fuentes oficiales, comprobadas a ojo sobre el documento original.</p>",
     ),
+    "medicina": dict(
+        carpeta="medicina",
+        rotulo="Temario específico · Medicina de Empresa",
+        ocupacion="Medicina de Empresa",
+        titulo="Temario específico",
+        subtitulo="Los treinta y tres temas de <b>Medicina de Empresa</b>",
+        pie="Oposiciones RTVE – Medicina de Empresa",
+        convocatoria="Oposiciones RTVE · Banco de Datos",
+        sin_examen=True,
+        avisos={},
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), None) for n, base in [
+            (1, "marco-europeo-y-espanol-de-la-prevencion"),
+            (2, "el-reglamento-de-los-servicios-de-prevencion"),
+            (3, "autonomia-del-paciente-y-documentacion-clinica"),
+            (4, "incapacidad-temporal-permanente-y-discapacidad"),
+            (5, "conceptos-basicos-y-accidente-de-trabajo"),
+            (6, "la-enfermedad-profesional-y-su-cuadro"),
+            (7, "funciones-de-la-medicina-del-trabajo-y-primeros-auxilios"),
+            (8, "la-vigilancia-de-la-salud"),
+            (9, "especialmente-sensibles-adaptacion-y-maternidad"),
+            (10, "epidemiologia-laboral-estadistica-y-promocion-de-la-salud"),
+            (11, "lugares-de-trabajo-y-sindrome-del-edificio-enfermo"),
+            (12, "equipos-de-proteccion-individual-y-equipos-de-trabajo"),
+            (13, "higiene-industrial-agentes-quimicos-y-biologicos"),
+            (14, "ergonomia-psicosociologia-y-pantallas-de-visualizacion"),
+            (15, "carga-fisica-manipulacion-de-cargas-y-posturas-forzadas"),
+            (16, "carga-mental-teletrabajo-estres-y-trabajo-a-turnos"),
+            (17, "patologia-por-toxicos-toxiinfecciones-y-adicciones"),
+            (18, "agentes-cancerigenos-y-mutagenos"),
+            (19, "metales-y-otros-compuestos-toxicos"),
+            (20, "hidrocarburos-cloruro-de-vinilo-gases-y-neumopatias"),
+            (21, "amianto-neumoconiosis-y-silicosis"),
+            (22, "agentes-biologicos-enfermedades-viricas-y-vacunacion"),
+            (23, "tuberculosis-zoonosis-y-transmision-respiratoria"),
+            (24, "radiaciones-ionizantes-y-no-ionizantes"),
+            (25, "vibraciones-aire-comprimido-calor-y-frio"),
+            (26, "patologia-dermatologica-laboral"),
+            (27, "neuropatias-por-presion-y-movimientos-repetidos"),
+            (28, "enfermedades-reumaticas-fibromialgia-y-otras-patologias"),
+            (29, "columna-plexos-miembros-marcha-y-postura"),
+            (30, "ruido-patologia-orl-y-voz"),
+            (31, "polvo-de-madera-y-adenocarcinoma-nasosinusal"),
+            (32, "patologia-oftalmologica-laboral"),
+            (33, "trastornos-mentales-burnout-acoso-y-violencia"),
+        ]],
+        aviso_respuestas="",
+        aviso_portada="<p><b>Este volumen no sale de la convocatoria 1/2022, sino de las Bases "
+                      "de la Convocatoria de Banco de Datos de RTVE</b>, cuyo anexo 1 numera "
+                      "treinta y tres puntos para la ocupación tipo de Medicina de Empresa. "
+                      "<b>Aquí hay un tema por punto</b>: ni uniones ni desdobles, de modo que "
+                      "el número del tema es el número del programa.</p>"
+                      "<p><b>Como el volumen de Enfermería de Empresa, éste no lleva el tema "
+                      "común de prevención de riesgos laborales</b>, y por la misma razón: en "
+                      "esta ocupación la prevención no es un punto añadido, es la materia "
+                      "entera. Sus treinta y tres puntos la recorren del marco europeo a los "
+                      "trastornos mentales del trabajo.</p>"
+                      "<p><b>La mitad de este temario no se estudia en el BOE.</b> Sus fuentes "
+                      "son los protocolos de vigilancia sanitaria específica del Consejo "
+                      "Interterritorial del Sistema Nacional de Salud, las notas técnicas de "
+                      "prevención del Instituto Nacional de Seguridad y Salud en el Trabajo, las "
+                      "directrices para la decisión clínica en enfermedades profesionales y las "
+                      "guías de práctica clínica del Sistema Nacional de Salud. Cada tema dice "
+                      "en su trazabilidad qué documento ha usado, qué ha citado literalmente y "
+                      "qué va como oficio declarado.</p>"
+                      "<p><b>Y varios temas traen un epígrafe de advertencias sobre las "
+                      "fuentes</b>: erratas, contradicciones y frases cortadas encontradas en "
+                      "los propios documentos oficiales —incluidas dos erratas del cuadro de "
+                      "enfermedades profesionales en el renglón mismo de la sordera—, "
+                      "comprobadas a ojo sobre la página original. <b>Cuando una materia del "
+                      "programa no tiene fuente volcada, el tema lo dice en lugar de "
+                      "rellenarla.</b></p>",
+    ),
     "informacion": dict(
         carpeta="informacion",
         rotulo="Temario específico · Información y Contenidos",
