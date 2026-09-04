@@ -1,0 +1,255 @@
+ 
+NTP 288: Síndrome del edificio enfermo: enfermedades 
+relacionadas y papel de los bioaerosoles
+"Building sick syndrome" et màladies rapportables aux báttiments: role des bioaerosols 
+Building sick syndrome and building related diseases: bioareosol involvement
+Redactores:
+María del Carmen Martí Solé 
+Lda. en Farmacia
+Jordi Obiols Quinto 
+Ldo. en C. Biológicas y en Farmacia
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Existe una creciente demanda de información en lo concerniente a la calidad del aire interior. Algunos de los transtornos de las 
+personas que habitan en determinados edificios son concomitantes con la presencia de bioaerosoles. La presente Nota Técnica 
+esboza de manera elemental los aspectos más relevantes del origen de los bioaerosoles, y las relaciones entre la exposición de las 
+personas y los transtornos que experimentan.
+Bioaerosoles. Conceptos generales
+Definición
+Los bioaerosoles son partículas transportadas por el aire, constituidas por seres vivos, o moléculas grandes que han sido liberadas por 
+un ser vivo. Los distintos reinos a que pueden pertenecer los seres vivos, junto con algunos ejemplos se presentan a continuación:
+ 
+Fig. 1: Reinos a que pertenecen los seres vivos (recuadros en color), con ejemplos de los componentes de bioaerosoles 
+comunes o sus fuentes (en negritas) (Adaptado de Kendrich, 1985)
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 197/
+
+Tamaño
+El diámetro de las partículas constitutivas de los aerosoles oscila desde el submicroscópico ( < 0.1 µm) hasta el superior a los 100 µm.
+Composición
+La mayoría de los bioaerosoles son complejos en cuanto a la naturaleza de sus componentes, de modo que pueden estar constituidos 
+por bacterias, hongos, protozoos, virus, etc., y/o diversas estructuras y compuestos consecuencia de su desarrollo o actividad, tal como 
+se especifica en la siguiente tabla:
+ 
+AAUTOTROFOS: Sintetizan Carbohidratos, BFAGOTROFOS: Ingieren Alimentos
+Aerosolización
+Para que se llegue a producir un aerosol a partir de un organismo o sus partes, se requieren tres condiciones: la presencia de un 
+reservorio, un proceso de amplificación, y la diseminación o aerosolización propiamente dicha. El reservorio es el lugar donde, de 
+forma natural, se encuentra un organismo. La naturaleza del reservorio depende del organismo en cuestión; los reservorios de los 
+organismos parásitos están constituidos por otros seres vivos. Los virus, algunas bacterias y determinados hongos que son parásistos 
+obligados, sólo pueden crecer en huéspedes vivos, ya que fuera del organismo no pueden sobrevivir, y, por tanto, no se desarrollan en 
+reservorios ambientales. La mayor parte de las bacterias y ciertos hongos son parásitos facultativos, por lo que pueden vivir y 
+desarrollarse en organismos vivos o sobre materia orgánica no viva, teniendo algunos de ellos sus reservorios en huéspedes humanos, 
+como es el caso de Mycobacterium tuberculosis (la bacteria causante de la tuberculosis humana), mientras otros los tienen en el 
+medio ambiental, como Legionella (el agente causante de la legionelosis).
+La amplificación consiste en el aumento en número o en concentración de los organismos, sus partes o componentes; proceso 
+imprescindible ya que, sin él, la diseminación, el proceso de dispersión de las partículas constitutivas del bioaerosol, no tendría ningún 
+efecto porque la cantidad de material dispersado sería muy exigua. En los parásitos obligados la amplificación tiene lugar en el propio 
+huésped, y la. diseminación se produce desde el mismo, como es el caso del virus de la gripe, que se disemina por la tos y los 
+estornudos de los individuos enfermos. Por el contrario, en el caso de Legionella, una bacteria que normalmente se encuentra en las 
+corrientes de agua naturales y en el agua del suelo, se amplifica, por ejemplo, en las torres de refrigeración y se disemina a partir de 
+los efluentes que salen de ellas, pudiendo entrar en contacto con los seres humanos, cuyas células invadirá produciéndose la 
+enfermedad.
+Los organismos saprófitos, es decir, los que sólo se desarrollan sobre materia orgánica muerta, como es el caso de la mayoría de los 
+hongos y muchas bacterias y protozoos, se encuentran en reservorios ambientales, generalmente materia vegetal muerta en el exterior 
+de edificios, se amplifican y diseminan a partir de estos reservorios, pero a veces también lo hacen a partir de sustratos situados en el 
+interior de edificios. Tal es, por ejemplo, el caso de Aspergillus flavus, un hongo saprófito que normalmente se encuentra en el 
+ambiente exterior, creciendo sobre restos vegetales agrícolas muertos, pero que también puede amplificarse en sustratos interiores 
+( alfombras mojadas, paredes, etc.), y diseminarse por el aire cuando tales sustratos son movidos.
+Control
+Algunos bioaerosoles están constituidos por los efluentes procedentes de artrópodos, aves y mamíferos que actúan a modo de 
+reservorios, amplificadores y diseminadores. En general, es difícil realizar un control de los bioaerosoles que se producen en el 
+ambiente exterior, pero sí es posible controlar su presencia y concentración en los ambientes interiores, bien sea impidiendo la entrada 
+de los aerosoles exteriores, bien impidiendo la contaminación de los sustratos interiores, o si ésta se ha producido, eliminando los 
+
+materiales contaminados y por tanto la fuente de amplificación y diseminación interior. La elección de un sistema adecuado de control 
+requiere el conocimiento de la naturaleza, fuentes y efectos de los bioaerosoles así como disponer de los medios apropiados para su 
+identificación y medida.
+Preevaluación médica
+Existe toda una serie de transtornos que, a la vez, hacen referencia a diversos síntomas y a las condiciones de los edificios, y se 
+relacionan con la irritación de las membranas mucosas, dolor de cabeza, y fatiga por causas desconocidas; conjunto de síntomas que 
+actualmente se denomina «síndrome del edificio enfermo» (SBS, del inglés «sick building syndrome»). En los individuos que 
+presentan este grupo de síntomas, no suelen encontrarse asociados con signos físicos y/o la positividad de determinadas pruebas de 
+laboratorio. Otra cuestión de naturaleza distinta son las enfermedades relacionadas con los edificios, que son menos frecuentes, 
+pero a menudo más graves, y van frecuentemente acompañadas de signos físicos y hallazgos de laboratorio. Las enfermedades 
+relacionadas con los edificios incluyen: enfermedades por hipersensibilidad (como la neumonía por hipersensibilidad, la fiebre del 
+humidificador, el asma y la rinitis alérgica), infecciones (como la legionelosis), unas y otras asociadas con la exposición a bioaerosoles 
+y que se comentan más adelante, y síndromes tóxicos que, por estar asociados con la exposición a agentes químicos o físicos, pero no 
+a los bíoaerosoles, no son objeto de esta nota técnica.
+El síndrome del edificio enfermo
+La irritación de las membranas mucosas de los ojos, nariz y garganta son frecuentes en los trabajadores de las oficinas. Los síntomas 
+oculares incluyen escozor, enrojecimiento e irritación, lo que provoca, por ejemplo, que los individuos implicados no pueden utilizar 
+lentes de contacto. Los síntomas nasales incluyen congestión, escozor y abundante secreción nasal, mientras que los que hacen 
+referencia a la garganta incluyen sensación de sequedad.
+Las causas específicas del SBS permanecen desconocidas, si bien se acepta que es consecuencia de la insuficiente entrada de aire 
+fresco en el ambiente cerrado. Pero es preciso señalar que existen pocas pruebas acerca de la validez de esta hipótesis y los 
+transtornos no siempre se correlacionan con el grado de ventilación. Los estudios realizados en Europa sugieren que el SBS está 
+asociado con los sistemas mecánicos de ventilación que utilizan humidificadores y refrigerantes. La percepción de los síntomas 
+relacionados con el trabajo también depende de la categoría laboral y el sexo. Las actividades de los ocupantes y el mobiliario pueden 
+afectar la calidad del aire interior y la incidencia de transtornos. Concretamente, el área de las superficies con materiales lanosos, 
+superficies empapeladas y la cantidad y proporción alergénica de polvo del suelo se han relacionado con la incidencia de transtornos. 
+El origen de una deficiente calidad del aire interior puede ser diferente para distintos edificios, pudiendo ser en ocasiones el propio 
+sistema de ventilación.
+Los bioaerosoles no se han asociado de forma concluyente con el SBS, pero se han publicado trabajos en los que se sugiere que las 
+correlaciones entre el SBS y los procesos de enfriamento y humidificación eran debidas a la contaminación microbiana, y en otros se 
+asocia el SBS con el desarrollo de hongos poco frecuentes. De cara al futuro, la relación entre el SBS y los bioaerosoles se centrará en 
+las endotoxinas, micotoxinas y otros productos microbianos, porque, teóricamente, sus efectos no dependerían de la sensibilización 
+inmunológica, y serían de una duración lo suficientemente corta como para explicar los transtornos que desaparecen cuando los 
+ocupantes dejan el edificio.
+En resumen, la existencia de una sola causa que explique el SBS es improbable, y hay que tener presentes muchas hipótesis al 
+determinar la causa de los transtornos en un edificio en particular, incluyendo las proporciones de ventilación, su tipo y mantenimiento, 
+el desprendimiento de gases del mobiliario y la expansión de múltiples irritantes de las actividades de los ocupantes, la contaminación 
+microbiana, etc.
+Las enfermedades por hipersensibilidad
+Aspectos inmunológicos
+Las enfermedades por hipersensibilidad son consecuencia de la exposición a materiales del ambiente que actúan a modo de antígenos 
+estimulando la producción de anticuerpos específicos. En la neumonía por hipersensibilidad, el organismo produce una 
+inmunoglobulina antígenoespecífica, la IgG. Las enfermedades alérgicas (el asma alérgica, la rinitis alérgica o fiebre del heno) se 
+presentan en personas con una constitución genética que les permite la producción de IgE antígenoespecífica.
+La implicación de una reacción inmunológica es lo que explica que la proporción de individuos con enfermedades por hipersensibilidad 
+entre los ocupantes de edificios sea baja. No obstante, la aparición de un caso de neumonía debería desencadenar una investigación 
+adecuada para descubrir otros posibles casos, su posible origen y la aplicación de medidas correctoras adecuadas para reducir o 
+eliminar la exposición a bioaerosoles.
+La mayoría de los antígenos relacionados con los edificios se acepta que son de origen fúngico, pero los protozoos también pueden 
+estar implicados, y, en el caso de edificios de viviendas, se considera que los ácaros del polvo son los causantes del asma alérgica.
+Alveolitis alérgica
+La neumonía por hipersensibilidad (alveolitis alérgica) se caracteriza por una neumonía aguda, recurrente, con fiebre, tos, dolor 
+pectoral e infiltrados pulmonares, o por una progresión de latos, disnea, fatiga, y fibrosis pulmonar crónica, o por un patrón intermedio 
+entre enfermedad pulmonar aguda y crónica, y es relativamente frecuente entre las personas expuestas a polvos orgánicos, como son 
+los granjeros, criadores de palomas, queseros, trabajadores de la madera de secuoya y cultivadores de champiñones. El diagnóstico 
+se basa en la historia laboral del paciente y una serie pruebas complementarias.
+
+En la sangre de los pacientes pueden encontrarse precipitinas (anticuerpos IgG) frente a los organismos saprófitos comunes o a un 
+extracto de material recogido del ambiente implicado. Pero, a menudo, la fuente microbiana específica del antígeno causante de un 
+brote permanece desconocida, aunque en un caso se ha reconocido el origen fúngico a partir de los cultivos ambientales.
+En la literatura reciente, se ha atribuido el origen de determinados casos de alveolitis alérgicas a bioaerosoles formados a partir de 
+mobiliario dañado por el agua y a unidades de procesamiento de aire contaminadas, y, concretamente en dos brotes, se ha reconocido 
+una elevada prevalencia de síntomas característicos del SBS entre los trabajadores expuestos que no presentaban neumonía por 
+hipersensibilidad.
+Asma
+El asma relacionado con los edificios se caracteriza por molestias consistentes en dolor de pecho, estornudos, tos y disnea. Los 
+síntomas pueden hacer su aparición al cabo de una hora de iniciarse la exposición, o presentarse con un retraso de 4 a 12 horas, o 
+ambas cosas a la vez. El diagnóstico lo hace el médico sobre la base de la historia del paciente, los síntomas, la reversibilidad de la 
+restricción del flujo de aire respiratorio o la obtención de una restricción del flujo de aire frente a las pruebas de provocación con dosis 
+bajas de metacolina o histamina. Los pacientes afectados no deberían permanecer en el ambiente contaminado y se les debería 
+prescribir una medicación adecuada.
+Existe poca documentación sobre el asma relacionada con los edificios, pero en algunos casos se ha asociado con el uso de 
+humidificadores, y en concreto con el empleo de biocidas utilizados en estos sistemas, así como con la utilización de nebulizadores 
+caseros.
+Renitis alérgica
+La rinitis alérgica se diagnostica a partir de la historia del paciente, el examen físico, investigación de eosináfilos en moco nasal, «prick 
+test» cutáneos con aeroalergenos, y niveles elevados de IgE total. Probablemente, la rinitis alérgica sea un transtorno frecuente que 
+permanece enmascarado por las alteraciones debidas al SBS.
+Fiebre de los humidificadores
+La fiebre de los humidificadores se caracteriza por fiebre, escalofríos, dolores musculares y malestar general, pero no se presentan 
+síntomas y signos pulmonares conspícuos. Estos síntomas aparecen a las 4 - 8 horas de iniciada la exposición y remiten dentro de las 
+24, sin efectos posteriores.
+Enfermedades contagiosas
+Legionelosis
+La enfermedad de los legionarios es una neumonía que se reconoció por primera vez en una epidemia de 182 casos ocurrida en un 
+hotel de Philadelphia en 1976, causada por la bacteria Legionella, ampliamente difundida en la naturaleza. A partir de aquel momento, 
+los casos epidémicos y endémicos se han asociado con los edificios y en concreto con los aerosoles generados en las torres de 
+refrigeración, condensadores de evaporación, bañeras con chorros de agua a presión, y cabezales de ducha. El tiempo de incubación 
+de esta bacteria hasta producir la neumonía es de cinco o seis días, pero sólo una proporción reducida de la población expuesta 
+desarrolla la enfermedad sintomática, que, además, puede afectar el tracto intestinal, riñones y sistema nervioso central.
+Fiebre de Pontiac
+Pero la Legionella se asocia también con otra enfermedad relacionada con los edificios, es la llamada fiebre de Pontiac, descrita por 
+primera vez en un brote epidémico de 144 casos ocurrido en un departamento sanitario de Michigan en 1968. La proporción de 
+afectados fue casi del 100%, y el tiempo promedio de incubación, de 36 horas. Los síntomas característicos de la fiebre de Pontiac 
+son: fiebre, escalofríos, dolor de cabeza y mialgias. Los brotes de fiebre de Pontiac, se han asociado con la contaminación de sistemas 
+de aire acondicionado, bañeras con chorros a presión, condensadores de turbina de vapor, y refrigerantes industriales. El porqué de la 
+existencia de dos síndromes distintos causados por un mismo germen permanece actualmente desconocido.
+Fiebre Q y otras enfermedades
+En determinados edificios especializados, como hospitales y laboratorios de investigación, ocasionalmente aparecen infecciones como 
+epidemias asociadas a edificios, como es el caso de la fiebre 0, causada por la rickettsia (un tipo de microorganismo) Coxiella 
+burnetti, que ha sido diseminada a través de los sistemas de ventilación de edificios que alojaban cabras, carneros o ganado 
+infectado, o de edificios en los que se cultivaba este microorganismo. De forma similar se pueden producir casos de ántrax por la 
+dispersión, y posterior inhalación, de esporas de Bacillus anthracis a partir de productos animales contaminados.
+La importancia de la transmisión aérea de las enfermedades ha sido confirmada en la aparición de determinados brotes de 
+tuberculosis, enfermedad pustulosa de los pollos, sarampión y viruela, y de modo concreto se ha comprobado la transmisión del 
+sarampión por aerosoles transportados a través de los sistemas de ventilación.
+Bibliografía
+(1) AMERICAN CONFERENCE OF GOVERNAMENTAL INDUSTRIAL HYGIENISTS 
+Guidelines for the Assessment of Bioaerosols in the Indoor Environment 
+
+Cincinnati, 1989
+(2) ANONIMUS 
+Respiratory lllness Associated with Carpet Cleaning at a Hospital Clinic 
+Virginia. MMWR 32:378-384 (1983)
+(3) BERNSTEIN R.S. ET AL. 
+Exposures to Respirable, Airbone Penicillum from a Contaminated Ventilation System:Clinical, Environmental and 
+Epidemiologic Aspects 
+Am. Ind. Hyg. Assoc. J. 44(3):161-169 (1983)
+(4) BRUNDAGE, J.F. ET AL. 
+Building-Associated Risk of Febrile Acute Respiratory Diseases in Army Trainees 
+JAMA 259(14):2108-2112 (1988)
+(5) BURGE, P.S. ET AL. 
+Occupational Asthma in a Factory with a Contaminated Humidifier 
+Thorax 40: 248-254 (1985)
+(6) BURGE, S. ET AL. 
+Sick Building Syndrome: A Study of 4373 Office Workers 
+Ann. Occup. Hyg. 31(4A): 493-504 (1987)
+(7) FINK, J. 
+Hypersensitivity Pneumonitis. In: Principies and Practice of Allergy 
+C. V. Mosby, St. Louis, MO 1983
+(8) FINNEGAN, M.J.; PICKERING,C.A.C. 
+Building-Related lllness 
+Clinical Allergy 16:389-405 (1986)
+(9) FINNEGAN, M.J.; PICKERING, C.A.C.; BURGE, P.S. 
+The Sick Building Syndrome: Prevalence Studies 
+Br. Med. J. 289:1573-1575 (1984)
+(10) HARRISON, J. ET AL. 
+The Sick Building Syndrome Further Prevalence Studies and Investigation of Possible Causes. In: Indoor Air '87. Proceedings of 
+the 4th International Conference on Indoor Air Quality and Climate. pp.487-491. B. Seifert, H. Esdorn, M. Fischer, et al. 
+Eds. Berlin: Institute for Water. Soil and air Hygiene, Berlin (1987)
+(11) HODGSON, M.J. ET AL. 
+An Outbreak of Recurrent Acute and Chronic Hypersensitivity Pneurnonitis In Office Workers 
+Am. J. Epidemiol. 125(4):631-638 (1987)
+(12) KAUFMANN, A. F. ET AL. 
+Pontiac Fever: lsolation of the Etiologic Agent (Legionella pneumophila) and Demonstration of Its Mode of Transmission 
+Am. J. Epidiemol. 114:337-347 (1981)
+(13) KENDRICK, B. 
+The Fifth Kingdom 
+Mycologue Press, Waterloo, Ontario (1985)
+(14) KREISS, K. ET AL. 
+Respiratory Irritation Due to Carpet Shampoo: Two Outbreaks 
+Environ. Intl 8(1-6):337-342 (1982)
+(15) KREISS, K.; HOIDGSON, M.J. 
+Building-Associated Epidemics. In: Indoor Air Quality, pp. 87-108. P.J. Walsh, C.S. Dudney, and E.D. Copenhaver, 
+Eds. CRC Press, Inc., Boca Raton, FI (1984)
+(16) LA FORCE, F.M. 
+Airbone Infections and Modern Building Technology 
+Environ. Intl. 12:137-146 (1986)
+(17) MOREY, P.R. 
+Microorganisms in Buildings and HVAC Systems: A Summary of 21 Environmental Studies. In: Proceedings of IAQ '88, Engineering 
+Solutions to Indoor Air Problems. American Society for Heating. Refrigeration, and Air-conditioning Engineers, Inc. Atlanta,GA (1988)
+(18) MOREY, P.R. ET AL. 
+Environmental Studies in Moldy Office Buildings: Biological Agents Sources and Preventive Measures 
+Ann. Am. Conf. Govt. Ind. Hyg. 10:21-35 (1984)
+
+(19) REED, C.E. ET AL. 
+Measurement of IgG Antibody and Airnorne Antigen to Control an Industrial Outbreak of Hipersensitivity pneumonitis 
+J. Occup. Med. 25(3):207-210 (1983)
+(20) RILEY, E.C. 
+The Role of ventilation in the Spread of Measles in an Elementary School 
+Ann. N. Y. Acad. Sci. 353:25-34 (1980)
+(21) ROBERTSON, A.S.; BURGE, P.S. 
+Building Sickness 
+The Practitioner 229:531-534 (1985)
+(22) ROBERTSON, A.S. ET AL. 
+Comparison of Health Problems Related to Work and Environmental Measurements in Two Office Buildings with Different 
+Ventilation Systems 
+Br. Med. J. 291.273-376 (1985)
+(23) SKOV, P.; VALBJORN, 0. 
+Danish Indoor Climate Study Group: The «Sick» Building Syndrome in the Office Environment: The Danish Town Hall Study 
+Environ.Intl. 13:339-349 (1987)
+(24) SOLOMON, W.R. 
+Fungus Aerosols Arising from Cold-Mist Vaporizers 
+J. Allergy Clin.Immunol. 54:222-228 (1974)
+(25) VALBJORN, 0.; SKOV, P. 
+Danish Indoor Climate Study Group. Influence of Indoor Climate on the Sick Building Syndrome Prevalence. In: Indoor Air '87.
+Proceedings of the 4th International Conference on Indoor Air Quality and Climate, pp. 593-597.B. 
+Seifert,H. Esdorn,M. Fischer, et al., Eds. Institute for Water, Soil and Air Hygiene, Berlin (1987)
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-92-011-6 

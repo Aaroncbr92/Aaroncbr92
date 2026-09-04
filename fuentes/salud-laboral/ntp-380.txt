@@ -1,0 +1,144 @@
+ 
+NTP 380: El síndrome del edificio enfermo: cuestionario 
+simplificado
+Maladie des grands ensembles: questionaire abrégé 
+The Sick Building Syndrome: Simplified questionaire
+Redactores:
+Mª Dolores Solé Gómez 
+Especialista en Medicina del Trabajo
+Joaquín Pérez Nicolás 
+Diplomado en Enfermería
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Justificación
+El INSHT, a partir de las recomendaciones de la Comisión de las Comunidades Europeas, estableció una metodología de evaluación 
+del Síndrome del Edificio Enfermo (SEE) que se desarrolla en cuatro fases:
+G     Investigación inicial: recogida de información acerca del edificio y de sus ocupantes.
+G     Medidas de inspección y guía: comparación del uso y funcionamiento actual del edificio con el diseño y la función de la planta 
+original; ejecución de acciones correctoras puntuales.
+G     Medidas de ventilación, indicadores de clima y otros factores implicados: análisis completo del sistema de ventilación y de 
+ventilación/climatización del edificio, de la calidad del aire interior y de otros factores relacionados.
+G     Examen médico e investigaciones asociadas.
+Por lo común y centrándonos en la investigación inicial, la obtención de los datos a partir de los ocupantes se hace mediante 
+cuestionarios. Estos se diseñan de forma que permitan al grupo investigador diagnosticar la existencia del SEE ; evaluar la importancia 
+del problema y su distribución en el edificio e identificar las posibles causas (La NTP-290 «El síndrome del edificio enfermo: 
+cuestionario para su detección» puede ser un ejemplo de los mismos).
+Ahora bien, en la práctica, el tiempo que se necesita para su realización y tratamiento es demasiado alto si tan sólo pretendemos 
+contestar a la pregunta ¿Existe el síndrome del edificio enfermo? o ¿Hemos solucionado el problema?
+Mediante la presente nota técnica proponemos un modelo de cuestionario simplificado figura 1 que permita identificar el citado 
+síndrome (edificios en los que el 20% o más de sus ocupantes presentan uno o más de los síntomas característicos), comparar 
+prevalencias o medias de síntomas antes y después de la aplicación de soluciones, antes y después del traslado de una plantilla a otro 
+edificio/planta o la comparación de varios edificios.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1993
+
+
+Fig. 1: Propuesta de cuestionario sobre la calidad del aire en espacios interiores.
+El cuestionario simplificado ha sido pues diseñado para contestar a las preguntas anteriormente citadas y permitir avanzar en el 
+estudio, superando las etapas del diagrama de flujo de la investigación propuesto en la metodología de evaluación del INSHT y 
+reflejado en el cuadro 1. No se trata de un cuestionario para la búsqueda etiológica o para la identificación individual de patologías 
+específicas en los trabajadores.
+Cuadro. 1: Diagrama de flujo de la investigación programada de un edificio
+
+Fuente: Berenguer, S. et al "El síndrome del edificio enfermo: metodología de evaluación"
+Metodología
+Es importante que el cuestionario sea anónimo, no dirigido y que se realice individualmente, sin la influencia de otros compañeros. Se 
+exigirá que el encuestado lleve trabajando como mínimo un mes en el edificio. Para el diagnóstico del SEE, su aplicación no debería 
+dilatarse en el tiempo tras el inicio de las quejas. En el resto de supuestos lo ideal sería repetir el cuestionario en la misma muestra de 
+individuos.
+Las fases de nuestra actuación, en lo concerniente a la recogida de información mediante el cuestionario, no difieren de las apuntadas 
+en la NTP-290:
+G     Determinación del número de cuestionarios a rellenar: a toda la plantilla, si consta de 150 trabajadores o menos; a una muestra 
+representativa de la misma en caso contrario. El tamaño muestral se determinará a partir de la fórmula consignada en el cuadro 
+2.
+
+Cuadro 2: Número (n) de cuestionarios necesarios
+G     Extracción al azar de los sujetos que han de contestar el cuestionario.
+G     Aplicación simultánea del cuestionario, evitando la discusión de las respuestas entre los participantes y salvaguardando el 
+anonimato de los mismos.
+ Evaluación
+La evaluación del mismo dependerá de nuestro objetivo.
+Identificación/Descripción
+Nuestra descripción se basará naturalmente en la prevalencia, entendida como proporción de personas que contestan afirmativamente 
+tanto en la columna «Presencia» como en la columna «Mejora al abandonar el edificio».
+La «gravedad», o «intensidad» del síntoma/síndrome la estimaremos a partir de la columna «Número de veces en los últimos treinta 
+días» o de la media de síntomas presentados por persona.
+Si tenemos la precaución de recoger una información mínima sobre las características personales y localización del encuestado (ver 
+cuadro 3), podremos conocer, además de qué tipo de síntomas aquejan al personal, dónde son más prevalentes y quién los presenta.
+Cuadro 3: Información suplementaria mínima
+Comparación
+Los supuestos ante los que nos podemos encontrar serían:
+G     Un mismo grupo en dos momentos distintos de su historia: antes y después de una intervención (muestras pareadas).
+G     Dos grupos independientes pertenecientes al mismo edificio o a edificios distintos (muestras independientes).
+Las medidas a utilizar pueden ser las prevalencias de los síntomas, grupos de síntomas o frecuencia de aparición así como las medias 
+de síntomas presentados en los grupos estudiados.
+
+La aplicación de las pruebas estadísticas de contraste de hipótesis adecuadas nos ayudará a decidir si ha existido algún cambio 
+(positivo o negativo) después de nuestra intervención en un edificio previamente diagnosticado como «enfermo» o priorizar nuestra 
+actuación ya sea por secciones/departamentos dentro de un mismo edificio o por edificios. En el cuadro 4 hemos relacionado las 
+pruebas estadísticas a las que podemos recurrir en los supuestos de actuación más frecuentes.
+Cuadro 4: Pruebas estadísticas básicas
+k = categorías * = Pruebas no paramétricas
+Ejemplo
+Identificación/Descripción
+En el cuadro 5 se consignan las prevalencias (en tanto por 1) global y por plantas encontradas en un edificio de tres plantas (A - B y C), 
+con 100 trabajadores (A = 59; B = 20 y C = 21).
+Cuadro 5: Prevalencias de síntomas de todo el 
+edificio, de cada una de las plantas y significación 
+estadística
+Diagnóstico
+Todos los síntomas se presentan con una prevalencia superior al 20% (al 0.20 por uno). Si el diagnóstico lo hacemos cuando al menos 
+uno de ellos rebasa dicha cantidad, es evidente que estamos en presencia de un síndrome del edificio enfermo, presentándose el 
+problema en las tres plantas.
+
+La aplicación de la prueba χ2 de Pearson para frecuencias observadas nos confirma lo que ya se intuye en la tabla: la planta C es la 
+que se encuentra en peores condiciones.
+Si realizamos el análisis tomando las plantas dos a dos, se demuestra la ausencia de diferencias estadísticamente significativas entre 
+A y B y la presencia de una diferencia significativa entre «A y C» y «B y C». Así pues, en el caso de tener que priorizar nuestra 
+actuación por importancia relativa del síndrome escogeríamos la planta C.
+Podemos estimar la intensidad del síndrome a partir de la media de síntomas presentados en cada una de las plantas así como de la 
+frecuencia de los mismos ; en este caso dicho estudio nos muestra una media de 9 síntomas y una prevalencia de 0.75 de la variable 
+«Número de veces en los últimos treinta días» en la planta C y de alrededor de 6 y 0.40 en las plantas A y B. Lo que reafirma nuestra 
+hipótesis.
+El estudio de los síntomas más prevalentes puede ayudarnos a establecer una hipótesis etiológica, que posteriormente debe ser 
+confirmada por estudios más en profundidad.
+Comparación
+Después de un estudio pormenorizado de las posibles causas del síndrome, se establecieron como presuntos factores causales: la 
+humedad (demasiado baja), la temperatura ambiental (muy alta) y la iluminación (demasiado intensa).
+Se procedió a corregir dichos factores y, a los seis meses de dicha corrección, se volvió a pasar el cuestionario. Los resultados se 
+consignan en el Cuadro 6.
+Cuadro 6: Frecuencias absolutas de la presencia de 
+síntomas en la planta C antes de la intervención, 
+después de la intervención y significación estadística 
+de la prueba de Mc Nemar
+La observación del número de respuestas afirmativas a cada uno de los síntomas del cuestionario, nos induce a pensar que ha habido 
+una disminución sustancial de la prevalencia de los síntomas. Sin embargo, la situación de SEE persiste, ya que, salvo para el picor/
+escozor de garganta, las prevalencias superan el 20%.
+La aplicación del test de Mc Nemar para muestras pareadas de frecuencias observadas nos permite decir que dicha diferencia es 
+estadísticamente significativa. Así pues nuestra actuación ha reducido el problema, aunque no lo ha solventado.
+Bibliografía
+(1) BERENGUER, M.J. et al 
+El síndrome del edificio enfermo: metodología de evaluación 
+Documentos Divulgativos, Madrid, INSHT, 1994
+(2) BURGE,S.; HEDGE,A.; WILSON,S. et al 
+Sick building syndrome: a study of 4373 office workers 
+Ann. Occup. Hyg. 1987, 21:493-504
+(3) BURGE,S.; ROBERTSON, A.; HEDGE,A. 
+The development of a questionnaire suitable for the surveillance of office buildings to assess the building symptom index a 
+measure of the sick building syndrome 
+
+Proceedings of Indoor Air'93 1993; 1:731-736
+(4) EUROPEAN CONCERTED ACTION (COST 613) 
+Sick building syndrome: a practical guide 
+Report nº 4, Luxembourg, Commission of the European Communities, 1989
+(5) IGLESIA de la, A.; SOLÉ, IVID.; MARQUÉS, F.; PÉREZ, J 
+Epidemiología laboral 
+Madrid, INSHT, 1992
+(6) SIKOV, P.; VALBJORN, O. 
+Danish indoor climate study group. The sick building syndrome in the office environment: The Danish town hall study 
+Environ. Int. 1987; 13:339-349
+(7) SOLÉ, MD.; PÉREZ, J. 
+El síndrome del edificio enfermo: cuestionario para su detección 
+NTP-290. Barcelona, INSHT, 1991
+   © INSHT

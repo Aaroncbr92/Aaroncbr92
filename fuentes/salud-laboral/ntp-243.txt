@@ -1,0 +1,384 @@
+ 
+NTP 243: Ambientes cerrados: calidad del aire
+Qualité de l'air´à l'intérieur des bâtiments 
+Indoor air quality
+Redactoras:
+Mª José Berenguer Subils 
+Licenciada en Ciencias Químicas
+Mª Carmen Martí Solé 
+Licenciada en Farmacia
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Con esta Nota Técnica de Prevención sobre la calidad del aire en los ambientes cerrados se inicia el tratamiento de un problema que 
+no sólo afecta a la población laboral, sino también al resto de la comunidad, ya que está demostrado que el hombre urbano pasa entre 
+el 80 y el 90% de su tiempo en ambientes cerrados, contaminados en mayor o menor grado. Este problema se ha visto potenciado 
+desde que una creciente necesidad de ahorro energético ha llevado al diseño de edificios más herméticos, con una mayor recirculación 
+del aire, y en consecuencia con un posible aumento de la contaminación interior. En esta NTP se tratará el tema de un modo general 
+para seguir con otras específicas referentes a determinados ambientes o a aspectos parciales del tema.
+Introducción
+En el ámbito de las condiciones de trabajo tiene cada vez mayor incidencia el aspecto relacionado con la calidad del aire en locales 
+dedicados a oficinas y servicios generales, es decir, en los que no se realizan actividades de tipo industrial. La sintomatología 
+presentada por los afectados no suele ser severa y, al no ocasionar un exceso de bajas por enfermedad, se tiende a menudo a 
+minimizar los efectos que, sin embargo, se traducen en una situación general de disconfort. En la práctica estos efectos son capaces 
+de alterar tanto la salud física como la mental del trabajador, provocando un mayor estrés y con ello una disminución del rendimiento 
+laboral. Para describir estas situaciones, cuando los síntomas llegan a afectar a más del 20% de los ocupantes de un edificio, se habla 
+del "Síndrome del Edificio Enfermo".
+En la actualidad se admite que aquellos ambientes que no disponen de ventilación natural y que están cerrados, para conseguir un 
+mayor rendimiento del sistema de aire acondicionado, pueden ser áreas de exposición a contaminantes. Entre ellos se encuentran 
+oficinas, edificios públicos, escuelas y guarderías, edificios comerciales e, incluso, residencias particulares. No se conoce con exactitud 
+la magnitud de los daños que pueden representar para la salud, ya que los niveles de contaminantes que se han determinado, 
+principalmente en estudios realizados en oficinas y en residencias particulares, suelen estar muy por debajo de los respectivos límites 
+permisibles de exposición para ambientes industriales. Por otro lado, las técnicas tradicionales de la higiene industrial resultan, con 
+frecuencia, inadecuadas o insuficientes para encontrar soluciones, ya que las causas primarias de esta situación son a menudo difíciles 
+de identificar.
+La calidad del aire en el interior de un edificio es función de una serie de parámetros que incluyen la calidad del aire exterior, la 
+compartimentación, el diseño del sistema de aire acondicionado, las condiciones en que este sistema trabaja y se revisa y la presencia 
+de fuentes contaminantes y su magnitud.
+Evidentemente, el aire del interior de un edificio no debe contener contaminantes en concentraciones superiores a aquellas que pueden 
+perjudicar la salud o causar disconfort a sus ocupantes. Estos contaminantes incluyen los que pueden estar presentes en el aire 
+exterior que se introduce en el edificio y los originados por las actividades interiores, el mobiliario, los materiales de construcción, los 
+recubrimientos de superficies y los tratamientos del aire. Las situaciones de riesgo más frecuentes para sus ocupantes son: la 
+exposición a sustancias tóxicas, radioactivas e irritantes, la inducción de infecciones o alergias, las condiciones termohigrométricas no 
+confortables y los olores molestos.
+Efectos sobre la salud relacionados con el aire del interior de un edificio
+En general, los contaminantes presentes en el aire ambiente penetran en el organismo por inhalación y por tanto afectan inicialmente al 
+tracto respiratorio, pudiendo también ser absorbidos y afectar a otros órganos o acumularse en distintos tejidos. Asimismo, puede 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1987
+
+haber contaminantes que provoquen irritación en los ojos o que generen problemas dérmicos (erupciones y picores). Los efectos sobre 
+el tracto respiratorio son irritación de nariz, garganta y bronquios, con posibilidad de provocar cambios en la reactividad bronquial, o 
+liberación de un mediador inducida por alérgenos que conducen a la aparición de rinitis, asma o neumonitis hipersensitivas. Por otra 
+parte los contaminantes microbianos pueden provocar enfermedades infecciosas.
+Los síntomas que se relacionan con una deficiente calidad del aire en el interior de un edificio son: dolor de cabeza, mareos, náuseas, 
+fatiga, piel seca, irritación de ojos, congestión de senos nasales y tos. Es a menudo difícil diferenciar entre los causados directamente 
+por el medio ambiente y los de origen psicológico. No hay que olvidar que un aire de pobre calidad provoca disconfort, pudiendo 
+desencadenar reacciones psicológicas complejas, cambios de humor, de estado de ánimo y dificultades en las relaciones 
+interpersonales.
+Confort térmico y ventilación
+El mayor número de quejas referentes a la calidad del aire del interior de un edificio entran dentro del apartado de confort térmico y 
+ventilación. Según el National Institute for Occupational Safety and Health (NIOSH), en más del 50% de estudios realizados en 
+edificios, los problemas eran causados por una inadecuada ventilación.
+El confort térmico se basa en un equilibrio entre la actividad física y la ropa que se utiliza, por un lado, y la humedad relativa, la 
+temperatura y velocidad del aire y la temperatura radiante media, por otro. La American Society of Heating, Refrigerating and Air 
+Conditioning Engineers (ASHRAE) ha desarrollado estándares, aplicables a espacios cerrados, que deben garantizar una situación de 
+confort al 90% de la población. En general, el margen de valores considerados aceptables es relativamente estrecho, dada la relación 
+que existe entre unas y otras variables. Un ligero aumento en la velocidad del aire, por ejemplo, puede desencadenar una serie de 
+quejas aunque la temperatura se mantenga dentro de los límites aceptables.
+Paralelamente, cuando la ventilación es incorrecta como consecuencia de un aporte insuficiente de aire fresco exterior, puede haber 
+una acumulación de contaminantes de origen vario hasta unos niveles que resulten molestos para sus ocupantes. El aporte de aire 
+exterior ha de ser suficiente para diluir los contaminantes hasta niveles que estén por debajo de la percepción humana y, 
+evidentemente, de los considerados perjudiciales para la salud.
+Tipos de contaminantes y fuentes de contaminación
+Los ocupantes de un edificio son en sí una fuente de contaminación, ya que el ser humano produce de modo natural dióxido de 
+carbono, vapor de agua, partículas y aerosoles biológicos. Por otro lado, hay una serie importante de contaminantes que pueden ser 
+generados por el propio edificio, por su contenido o pueden incluso depender de su ubicación. Otro grupo tiene su origen en 
+combustiones que se producen en el interior. También el uso de productos de limpieza, mantenimiento y embellecimiento genera la 
+presencia de contaminantes en el interior del edificio.
+Algunas de estas fuentes producen mezclas complejas, como puede ser el humo de tabaco, los aerosoles y humos generados en la 
+preparación de comidas, los aerosoles biológicos infecciosos y alérgenos generados en los circuitos de refrigeración y los propios del 
+cuerpo humano. Un tratamiento cuantitativo preciso de estos contaminantes puede ser difícil, siendo la evaluación en muchos casos 
+subjetiva.
+Aunque el problema es difícil de abordar, se intenta sistematizar a partir de una clasificación de los contaminantes que se expone 
+brevemente.
+Contaminantes químicos
+En la tabla se presentan los contaminantes químicos más frecuentes en el aire interior de los edificios, clasificados en función de su 
+posible procedencia.
+Productos de combustión
+
+La presencia de cierto número de contaminantes químicos en el interior de un edificio es debida a productos procedentes de 
+combustiones. La utilización de cocinas, estufas, secadoras, refrigeradores y quemadores de fuel-oil facilita la presencia de óxidos 
+(CO, CO2, NO, NO2 y SO2) en el aire. Algunos de estos contaminantes puede llegar al aire a partir de fuentes exteriores debido a 
+tomas de aire inadecuadas. Entre todos ellos destacan por su frecuencia los siguientes:
+Dióxido de carbono
+El dióxido de carbono es un gas que se forma por combustión de sustancias que contienen carbono. En locales no industriales la 
+principal fuente está en la respiración humana y el fumar. Es un asfixiante simple cuya presencia a concentraciones altas provoca falta 
+de oxígeno.
+Monóxido de carbono;
+El monóxido de carbono se forma por combustión incompleta de sustancias que contienen carbono. Su presencia en medios no 
+industriales es debida a la emisión por motores de combustión interna en garajes dentro del edificio, la toma inadecuada de aire fresco 
+exterior y el fumar. Tiene un efecto asfixiante al unirse a la hemoglobina de la sangre (formando carboxihemoglobina) y disminuir la 
+capacidad de aporte de oxígeno hasta los tejidos.
+Humo de tabaco
+El hecho de fumar representa la liberación en el aire de una mezcla compleja de productos químicos (más de 3000 contaminantes 
+conocidos). Además de monóxido de carbono, dióxido de carbono y partículas, se producen óxidos de nitrógeno y una amplia variedad 
+de otros gases y compuestos orgánicos entre los que destacan aldehídos, tales como formaldehído y acroleína, hidrocarburos 
+aromáticos policíclicos, incluído benzoapireno (BAP), nicotina, nitrosaminas, cianuro de hidrógeno, cetonas y nitrilos, así como 
+cantidades apreciables de arsénico y cadmio.
+Las partículas del humo de tabaco se hallan, en aproximadamente un 95%, dentro del intervalo respirable (diámetro ≤ 7 mm). En este 
+sentido, su presencia en el aire del interior de un edificio es un problema que afecta tanto a fumadores como a no fumadores.
+Materiales de construcción
+Entre los materiales de construcción se hallan los empleados en aislamiento tanto general del edificio como térmico de las 
+instalaciones de aire acondicionado. De entre ellos cabe destacar las fibras, principalmente la de vidrio y los asbestos, y distintos tipos 
+de compuestos orgánicos volátiles.
+Fibras
+La fibra de vidrio y los asbestos son dos tipos de fibras que presentan un riesgo potencial de contaminación, tanto si se generan en un 
+ambiente industrial como en uno no industrial.
+La fibra de vidrio está formada por material amorfo vidrioso. Se usa como refuerzo en plásticos, cauchos, papel y tejidos y como 
+aislante térmico en los sistemas de aire acondicionado.
+El término asbestos abarca distintas formas de silicatos minerales empleados normalmente en materiales de aislamiento. Aunque su 
+utilización está prohibida o muy limitada en los edificios de nueva construcción, aún es frecuente en edificios antiguos, pudiendo ser 
+fuente de contaminación durante la realización de trabajos de mantenimiento y remodelación, así como consecuencia de la 
+degradación de los materiales que los contienen.
+Compuestos orgánicos volátiles
+Formaldehído: El formaldehído se emplea extensamente en la formulación de plásticos, especialmente en las resinas de melamina-
+formaldehído, urea-formaldehído y fenol-formaldehído usadas como aislantes térmicos y barnices. Una inadecuada formulación, un mal 
+curado, así como la degradación producida con el paso del tiempo, son las causas de la emisión de este compuesto al aire ambiente. 
+El formaldehído puede ocasionar irritación en las vías respiratorias y alergias y está considerado como una sustancia sospechosa de 
+inducir procesos cancerígenos.
+Disolventes: Otros materiales de construcción que pueden ser fuente de contaminación por generación de compuestos químicos en el 
+aire del interior de un edificio son los muebles y elementos de decoración de madera y caucho, los agentes sellantes, colas, barnices, y 
+materiales textiles. Entre los disolventes detectados con una mayor frecuencia se hallan: tolueno, xilenos, etilbenceno, 
+trimetilbencenos, propilbencenos, n-nonano, n-decano, n-undecano e hidrocarburos clorados, entre ellos freones y 1,2-dicloroetano.
+Productos de consumo
+Los productos de consumo llegan continuamente a través del propio usuario. Incluyen productos utilizados ya en la construcción, tales 
+como pinturas, de base acuosa (pueden contener mercurio como fungicida) y de aceite (hidrocarburos), barnices, plásticos, colas, 
+disolventes, productos para sellado (muchos contienen anhídrido acético) y recubrimiento, fibras textiles, papel de pared y colas para 
+empapelar, así como otros nuevos como pesticidas y repelentes (incluido el vehiculizante), productos de limpieza en general 
+(incluyendo quitamanchas, limpia hornos y jabones para muebles y alfombras) y siliconas abrillantadoras, cosméticos, desodorantes, 
+lacas para polo, etc. Aparte de los compuestos orgánicos ya citados en materiales de construcción, entre los productos de consumo 
+destacan los que pueden agruparse como partículas y los pesticidas.
+
+Partículas
+Las partículas respirables pueden ser irritantes respiratorios, especialmente para asmáticos. En los ambientes no industriales la 
+principal fuente de partículas finas (2-3 mm) es el humo de cigarrillo y los aerosoles procedentes de distintos tipos de pulverizadores. 
+Los aerosoles de partículas de mayor tamaño (3 - 1 mm) incluyen fibras desprendidas de alfombras, escamas de piel humana, 
+suciedad transportada desde el exterior, etc. A menudo la exposición a partículas en el interior de un edificio es superior a la existente 
+en el exterior.
+Pesticidas
+En este grupo se incluye una gran variedad de dicumarinas, organofosforados, carbamatos o hidrocarburos clorados que se usan 
+contra insectos, roedores y el crecimiento microbiológico. Mientras algunos son volátiles y tienen un tiempo de residencia limitado, 
+otros pueden acumularse en el polvo y redistribuirse. Se desconocen los efectos para la salud asociados a exposiciones prolongadas a 
+bajas concentraciones de muchos pesticidas y sus subproductos.
+Otros contaminantes de interés
+Ozono
+Es un oxidante que en determinadas condiciones está presente en el aire exterior. En el aire interior se genera principalmente a partir 
+de las máquinas fotocopiadoras, lámparas de descarga de altas frecuencias, lámparas ultravioletas y descargas de arco eléctrico. La 
+utilización de ozonizadores para desodorizar el aire es, obviamente, otra fuente de generación.
+Metales y compuestos metálicos
+La presencia de plomo es debida generalmente a fuentes exteriores. También se ha detectado la presencia de hierro y manganeso sin 
+poder justificar su origen. Por su parte, el sistema de aire acondicionado libera polvos conteniendo Al2O3. H2O, Al2O3. HCI y Al2O3. 
+CO2 procedentes de la corrosión del metal del que está construido parte del mismo.
+Radón
+Algunos contaminantes presentes en los suelos que rodean los edificios pueden también infiltrarse en el mismo a través de grietas en 
+los cimientos, como es el caso del radón. El radón es un elemento gaseoso radioactivo procedente de la desintegración del radio y 
+perteneciente a la familia de los gases nobles que emite partículas alfa. La exposición a esta emisión se ha relacionado con deterioro 
+de tejidos e incluso con cáncer. El radón y sus productos de desintegración se encuentran en las zonas graníticas y en yacimientos de 
+fosfatos. En algunos casos pueden también formar parte de los materiales de construcción.
+Contaminantes biológicos
+De la misma manera que se han considerado los contaminantes químicos, cabe también considerar a los microorganismos presentes 
+en el aire interior. Para explicar la producción de aerosoles biológicos debe hacerse referencia a los conceptos de reservorio, 
+multiplicador y diseminador. Un reservorio es un medio que reúne una serie de condiciones que permiten a los microorganismos 
+sobrevivir en un determinado entorno, mientras que el multiplicador favorece que se reproduzcan y el diseminador actúa como 
+introductor de los microorganismos y de sus metabolitos en el aire.
+Los contaminantes biológicos, por otro lado, se clasifican básicamente como agentes infecciosos, antígenos y toxinas por ser éstas sus 
+formas más usuales.
+Agentes infecciosos
+Las enfermedades infecciosas se transmiten más fácilmente en los ambientes cerrados que en el exterior, ya que el volumen de aire en 
+el cual se diluyen los microorganismos es más bajo, el contacto directo es mayor y las personas pasan más tiempo en ambientes 
+cerrados que en el exterior. También hay que considerar que muchas enfermedades contagiosas requieren el contacto directo entre 
+huéspedes humanos para su transmisión, mientras que otras, tales como gripe, sarampión, viruela, tuberculosis y algunos resfriados 
+comunes, se transmiten fácilmente por el aire pudiendo sobrevivir los microorganismos causantes de los mismos durante su paso a 
+través del sistema de ventilación, si no se toman medidas específicas al respecto.
+Otras enfermedades contagiosas se transmiten directamente desde reservorios al medio ambiente. Entre estas se encuentran la 
+legionelosis y otras neumonías bacterianas y la mayor parte de las enfermedades debidas a hongos. La legionella, por ejemplo, 
+sobrevive y se multiplica en torres de refrigeración, humidificadores, cabezales de ducha, en basura y agua en general, que actúan 
+como reservorios y multiplicadores para los microorganismos. La diseminación ocurre cuando se altera un reservorio o cuando el 
+aparato contaminado es además multiplicador y diseminador, como, por ejemplo, una torre de refrigeración o un humidificador.
+Por otra parte, los hongos patógenos contaminan los suelos. Cuando éstos son alterados por el viento o por excavaciones, los hongos 
+pueden introducirse en el ambiente del interior. También la presencia de nidos de los pájaros en los edificios es una fuente de 
+contaminación por hongos.
+Generalmente las enfermedades infecciosas transmitidas a través del aire pueden afectar el sistema respiratorio, al menos 
+inicialmente, y los síntomas se manifiestan tanto en el tracto superior como en el inferior. Los agentes infecciosos pueden causar 
+enfermedad en cualquiera de las personas expuestas, aunque el grupo de mayor riesgo corresponde a las que tienen problemas de 
+
+salud y/o con un sistema inmunológico comprometido, especialmente niños y ancianos.
+Para la toma de muestras de agentes infecciosos en aire se necesita un equipo especial y personal experimentado y no se realiza con 
+mucha frecuencia. Mucho más habitual es la toma de muestra de agentes infecciosos en los reservorios y en los multiplicadores.
+Antígenos
+Antígeno es toda sustancia que al penetrar en un organismo animal dotado de un sistema inmunológico maduro es capaz de provocar 
+una respuesta inmunitaria específica.
+En general, cualquier proteína, glicoproteína o carbohidrato con un peso molecular superior a 10.000 daltons puede actuar como un 
+antígeno. La mayor parte de los antígenos que pueden encontrarse en el aire de los ambientes cerrados proceden de 
+microorganismos, artrópodos o animales. Los presentes en el aire pueden causar enfermedades tales como neumonitis hipersensitiva, 
+rinitis alérgica y asma alérgico, entre otras.
+Los síntomas característicos de la neumonitis hipersensitiva son: fiebre, escalofríos, ahogos, malestar y tos. En un principio la 
+enfermedad parece una gripe para pasar luego a una neumonía aunque los síntomas remiten con el cese de la exposición. Sin 
+embargo, exposiciones prolongadas pueden provocar un daño permanente en el pulmón. Los síntomas de la rinitis alérgica son 
+mucosidades, picor de nariz y ojos y congestión de los senos nasales, mientras que los del asma alérgico son respiración dificultosa y 
+opresión en el pecho como resultado de la constricción de los bronquios.
+Entre los reservorios y multiplicadores para microorganismos determinantes de enfermedades de hipersensibilidad, se encuentran 
+sustratos procedentes del exterior, tales como suelo, material vegetal (vivo y no vivo) y fuentes de agua, así como sustratos húmedos 
+propios del medio ambiente interior. Los microorganismos pueden multiplicarse en cualquier agua estancada y pasar al aire al 
+removerse ésta. En el caso de los hongos cualquier superficie sucia puede actuar como foco de reproducción, formándose esporas que 
+quedan expuestas directamente a la corriente de aire y así son dispersadas por todo el edificio.
+Toxinas
+Las toxinas son sustancias segregadas por algunos microorganismos que producen efectos nocivos en los organismos vivos atacados.
+La mayor parte de las toxinas microbianas presentes en el aire de un ambiente interior están constituidas por endotoxinas bacterianas 
+y micotoxinas (procedentes de los hongos). Cuando la bacteria productora de la endotoxina crece, libera toxinas solubles dentro del 
+agua (del humidificador, por ejemplo), a partir de la cual pasan al aire. Se asocia a las endotoxinas con algunos síntomas 
+característicos de las neumonitis hipersensitivas y de la fiebre de los humidificadores.
+Se conocen también casos de contaminación de edificios por hongos toxígenos y se han descrito síntomas agudos como resultado de 
+la exposición a las micotoxinas en interiores. Sin embargo, se desconocen los factores que controlan la liberación de las micotoxinas 
+en el medio ambiente. El característico olor a moho de las áreas en las que se hallan presentes hongos es debido a la producción, por 
+parte de éstos, de sustancias volátiles.
+En la Tabla 2 se recogen algunos contaminantes biológicos característicos, así como las enfermedades de mayor incidencia.
+Tabla 2: Contaminantes biológicos y enfermedades más comunes en ambientes cerrados
+
+Factores que afectan a la calidad del aire en los ambientes cerrados
+A modo de resumen se puede concluir que las deficiencias más frecuentemente encontradas son consecuencia de alguno(s) de los 
+factores siguientes:
+Una ventilación inadecuada
+Generalmente es debida a:
+a.  Un insuficiente suministro de aire fresco, como consecuencia de una elevada recirculación del aire o de un bajo caudal de 
+impulsión.
+b.  Una mala distribución y, consecuentemente, una mezcla incompleta con el aire exterior, que provoca estratificaciones del aire y 
+diferencias de presión entre los distintos espacios y zonas del edificio.
+c.  Una incorrecta filtración del aire debido a un mantenimiento incorrecto o a un inadecuado diseño del sistema de filtración.
+d.  Una temperatura del aire y humedad relativa extremas o fluctuantes.
+La contaminación interior
+Puede tener como origen al propio individuo, al trabajo, a la utilización inadecuada de productos (pesticidas, desinfectantes, limpieza, 
+abrillantado), a los gases de combustión (fumar, cafeterías, laboratorios) y a la contaminación cruzada procedente de otras zonas poco 
+ventiladas que se difunden hacia lugares próximos y los afectan.
+La contaminación exterior
+Entrada en el edificio de humos de escape de vehículos, gases de calderas, productos utilizados en trabajos de construcción y 
+mantenimiento (asfalto, por ejemplo) y aire contaminado previamente desechado al exterior, que vuelve a entrar a través de las tomas 
+de aire acondicionado. Otro origen puede ser las infiltraciones a través del basamento (vapores de gasolinas, emanaciones de cloacas, 
+fertilizantes, insecticidas, incluso dioxinas y radón).
+Está demostrado que al aumentar la concentración en el aire exterior de un contaminante, aumenta también su concentración en el 
+interior del edificio, aunque más lentamente, e igual ocurre cuando disminuye. Por ello se dice que los edificios presentan un efecto de 
+escudo.
+La contaminación biológica
+No suele ser frecuente en los edificios de oficinas, pero en determinados casos puede provocar una situación sanitaria delicada.
+La contaminación debida a materiales empleados en la construcción
+La utilización de materiales inadecuados así como con defectos técnicos puede ser una causa habitual de la contaminación del aire 
+interior.
+Métodos de control de la calidad del aire
+Se basan en los métodos tradicionales de la higiene industrial.
+Eliminar la fuente y/o sustituirla
+Si se puede identificar el foco de la contaminación éste debe eliminarse. Si ello no es posible, se procurará sustituir el producto por otro 
+con menor potencial contaminante. Esto significa evitar la utilización de materiales que puedan liberar sustancias contaminantes, que 
+sean difíciles de mantener y que recojan polvo o moho.
+Mitigar la acción de la fuente
+Para aquellas fuentes que no puedan ser eliminadas se procurará limitar los efectos que producen recubriéndolas con pinturas 
+adecuadas u otras barreras.
+Diluir el aire interior con un aire menos contaminado
+Disminuir la concentración de los contaminantes presentes mediante su dilución en un volumen de aire considerablemente mayor es un 
+método habitual y la base de algunas normas sobre calidad del aire como la ASHRAE Standard 62.
+Eliminar los contaminantes presentes en el aire con otros métodos distintos a la dilución
+Se pueden realizar algunas operaciones concretas para eliminar el contaminante o reducir su concentración. Por ejemplo, neutralizar 
+con amoníaco la presencia de formaldehído en el ambiente o utilizar la separación por filtración con un aspirador de polvo.
+Comprobar la eficacia de la ventilación
+
+Deben efectuarse los tests necesarios en puntos significativos del sistema de aire acondicionado para comprobar si los parámetros de 
+funcionamiento son acordes con los de diseño.
+Controlar las diferencias de presión
+Dado que pueden ser la causa de los movimientos de los contaminantes de unos locales a otros, se tomarán las medidas necesarias 
+para equilibrar las presiones en distintos puntos del edificio. Hay que tener en cuenta, sin embargo, que en algunos casos se dispone 
+expresamente de zonas a diferente presión para control de los contaminantes.
+Utilizar extracción localizada
+Como forma de controlar la generación de algunos contaminantes en el mismo foco (operaciones de limpieza, abrasivos, cocinas, etc.).
+Legislación
+No existe hasta el momento en España legislación concreta sobre el tema. Sin embargo, la CEE a través de Parlamento Europeo ha 
+presentado ya, en base a unas propuestas y en función de una serie de considerandos, una Resolución sobre la calidad del aire de los 
+ambientes cerrados (Doc, A 2-156/88) en la que establece la necesidad de que la Comisión presente cuanto antes una propuesta de 
+Directiva específica sobre el particular en la que se incluyan:
+Una lista de sustancias a prohibir o a regular su uso, tanto en la construcción como en la limpieza de los edificios.
+Unas normas de calidad aplicables a los distintos tipos de ambientes cerrados.
+Unas prescripciones sobre el planteamiento, la construcción, la gestión y el mantenimiento de las instalaciones de aire acondicionado y 
+de ventilación.
+Unas normas mínimas sobre el mantenimiento de los edificios abiertos al público.
+Más recientemente, la CEE ha publicado una Recomendación de la Comisión relativa a la protección de la población contra los peligros 
+de una exposición al radón en el interior de edificios (90/143/Euratom).
+Guías y concentraciones promedio permitidas
+Diferentes organizaciones internacionales como la OMS y el CIBC (International Council of Building Research), privadas como la 
+ASHRAE (American Society of Heating Refrigerating and Air Conditioning Engineers), y algunos países como Suecia (The Swedish 
+Council of Building Research), Estados Unidos, Canadá y Australia han desarrollado guías y estandards de exposición.
+Referencias de la necesidad de renovar el aire de ambientes cerrados con aire fresco se conocen ya desde mediados del siglo XVIII 
+recomendándose aportaciones de aire fresco mínimas, por ocupante, para diluir las concentraciones de bioefluentes humanos y evitar 
+las molestias debidas a malos olores.
+En los años 70, ASHRAE publica diversos trabajos recomendando una aportación de aire fresco mínima de 34 m3/h por persona para 
+evitar los malos olores y un mínimo absoluto de 8.5 m3/h por persona para mantener la concentración de dióxido de carbono por 
+debajo de 2500 ppm, que es la mitad del límite de exposición promedio permisible en un ambiente laboral. En el más reciente ASHRAE 
+Standard 62-1989 se recomienda un mínimo de 25.5 m3/h por persona para aulas de clase, 34 m3/h para oficinas y 42.5 m3/h para 
+hospitales (zona de enfermos). Este estándar recomienda también aumentar dichos volúmenes cuando hay problemas de mezcla del 
+aire en la zona de respiración o fuentes inhabituales de contaminación. Por otro lado, no hay que olvidar que la finalidad primaria de un 
+sistema de aire acondicionado en un edificio de oficinas es proporcionar un buen nivel de confort térmico. Según ASHRAE 55-1981, la 
+temperatura interior debe mantenerse entre 20 y 24 ºC en invierno y entre 23 y 26 ºC en verano. Este estándar no especifica la 
+humedad relativa, que se considera que debe estar entre el 20 y el 60% (preferiblemente del 30 al 50%). En la Tabla 3 se presentan los 
+valores indicados en la Ordenanza General de Seguridad e Higiene en el Trabajo.
+
+Tabla 3: Condiciones establecidas por la Ordenanza
+El sistema de aire acondicionado ha de asegurar que el aire de ventilación contenga concentraciones aceptablemente bajas de 
+contaminantes, para lo cual debe estar adecuadamente diseñado y mantenido, ya que puede reducir los contaminantes hasta un límite 
+aceptable por dilución con aire limpio exterior o por eliminación de los mismos mediante filtración. Según ASHRAE, un aire interior 
+aceptable es aquel en el cual no hay contaminantes conocidos en concentraciones nocivas según determinan las autoridades 
+competentes y una mayoría sustancial (80% o más) del personal expuesto no exprese insatisfacción. Evidentemente, la definición es 
+imprecisa, no sólo en cuanto a niveles aceptables, sino también en cuanto al concepto de insatisfacción.
+El ASHRAE estándar 62-1989 recomienda una concentración de dióxido de carbono máxima de 1000 ppm para lograr un mínimo 
+confort, en el bien entendido de que esta concentración no representa ningún peligro para la salud.
+No existen valores de referencia para regular la presencia de microorganismos en el ambiente, aunque el Comité para Bioaerosoles de 
+la ACGIH (American Conference of Governmental Industrial Hygienists) ha publicado recientemente una Guía para la Valoración de 
+Bioaerosoles en el Ambientes Interiores que puede utilizarse como punto de partida.
+Para aquellos contaminantes químicos que no tienen establecido un valor de referencia ni se dan guías, se acepta (ASHRAE) que una 
+concentración 1/10 TLV no produce un incremento significativo del número de quejas entre los miembros de un colectivo de trabajo no 
+industrial. Este límite puede no ser suficiente para proporcionar un ambiente satisfactorio a individuos que, por ejemplo, sean 
+extremadamente sensibles frente a un irritante u otro contaminante concreto. En la Tabla 4 se recogen las concentraciones máximas 
+de contaminantes que pueden estar presentes en un aire exterior y que representan una calidad mínima del mismo para que pueda 
+usarse para ventilación en un edificio cerrado. En la Tabla 5, se recogen, a título informativo y para contaminantes frecuentes en un 
+aire interior, unos límites de exposición máximos de la OSHA y la ACGIH (USA) en un ambiente industrial y en la Tabla 6 
+concentraciones aconsejadas en el aire de interiores en función de los primeros. La Tabla 7 presenta los datos consensuados por un 
+grupo de trabajo de la OMS sobre contaminantes de interiores.
+Tabla 4: Valores de referencia de calidad del aire exterior según EPA 
+* EPA = U.S. Environmental Protection Agency. National Ambient Air Quality Standards.
+
+Tabla 5: Valores de referencia y concentraciones aconsejadas para algunos contaminantes ambientales industriales 
+Nota: Los valores OSHA indicados corresponden a la última modificación y los valores ACGIH al año 1989-1990.
+Tabla 6: Concentraciones aconsejadas para algunos contaminantes frecuentes en ambientes cerrados 
+* Estas concentraciones representasn 1/10 PEL-TWA establecido por OSHA y son los máximos niveles recomendados en el ASHRAE-62 para confort humano.
+
+Tabla 7: Consenso de un grupo de trabajo de la OMS sobre contaminantes en ambientes cerrados según el nivel de 
+conocimiento de 1984
+Bibliografía
+(1) ACGIH. COMMITTEE ACTIVITIES ANA REPORTS 
+Guidelines for Assesment and Sampling of Saprophytic Bioaerosols in the Indoor Environment 
+App. Ind. Hig., 1987, 2(5), R - 10 - R - 16
+(2) ACGIH COMMITTEE ON BIOAEROSOLS 
+Guidelines for Assessment of Bioaerosols in the Indoor Environment 
+American Conference of Governmental Hygienists, Cincinnati, Ohio, 1989
+(3) ACGIH 
+Threshold Limit Values and Biological Exposure Indices for 1989-1990 
+American Conference of Governmental Hygienists, Cincinnati, Ohio, 1989
+(4) ASHRAE Standard 62-1989 
+Ventilation for Acceptable Indoor Air Quailty 
+American Society of Heating, Refrigerating, and Air-Conditioning Engineers, Inc., Atlanta, GA. 1989
+(5) BURGE, H. A. y HOYER, M. E. 
+Indoor Air Qualilty 
+Appl. Occup. Environ. Hyg. 1990,5(2), 84 - 93
+(6) DOUVILLE, J. A. 
+The Chemical Nature of Indoor Air Pollution 
+Dangerous Properties of Industrial Materials Reports, 1984, Mayo/Junio, 2-8(7) EPA 
+National Primary and Secondary Ambient Air Quality Standards 
+Code of Federal Regulations, Title 40 Part 50(40 CFR50). U.S. Environmental Protection Agency
+(8) HOLNESS, G. V. R. 
+
+Human Confort and Indoor Air Quality 
+Heating/Piping/Air Conditioning, 1990, February, 43-52
+(9) McNALL, P. E. 
+The HVAC Engineer and Indoor Air Quality 
+Heating/Piping/Air Conditioning, 1988, February, 65-70
+(10) MORRIS, R. H. 
+Indoor Air Pollution: airborne viruses and Bacteria 
+Heating/Piping/Air Conditioning, 1986, February, 59-86
+(11) NAGDA, N. L., RECTOR, H. E., KOONTZ, M. D. 
+Guidelines for Monitoring Indoor Air Quality 
+Hemisphere Publishing Corporation, 1986
+(12) TEXTOS LEGALES DEL MINISTERIO DE TRABAJO 
+Ordenanza General de Seguridad e Higiene en el Trabajo 
+1971, Art. 30.
+(13) WALLINGFORD, K. M. 
+Indoor Air Quality Investigations In Office Buildings 
+Industrial Hygiene News Report. 1986, 29 (11)
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-90-011-7 

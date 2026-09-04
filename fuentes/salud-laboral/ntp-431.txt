@@ -1,0 +1,280 @@
+ 
+NTP 431: Caracterización de la calidad del aire en ambientes 
+interiores
+Caractérisation de la qualité de l'air à l'interieur des bâtiments 
+Characterization of indoor Air Quality
+Redactora:
+Mª José Berenguer Subils 
+Licenciada en Ciencias Químicas
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+En esta NTP se presenta un esquema para efectuar, de forma ordenada y efectiva, una investigación básica de calidad de aire 
+interior (CAI) en un edificio. Para ello se propone un procedimiento que permite relacionar las quejas expresadas por sus ocupantes 
+con la CAI y, también, identificar problemas latentes que aún no se hayan manifestado. Queda fuera del objetivo de esta NTP 
+describir las posibles soluciones a los problemas detectados o como establecer el cumplimiento de los criterios de CAI.
+Introducción
+Los problemas relacionados con la calidad del aire en un ambiente interior (CAI) han ido aumentando en nuestra sociedad a lo largo de 
+los últimos años, convirtiéndose en algo relativamente frecuente. Ello se debe, principalmente, a las características de los edificios que 
+se están construyendo, a las técnicas de construcción, a algunos de los materiales que se están utilizando y a mantenimientos 
+defectuosos.
+Los ocupantes de determinados edificios relacionan sus problemas de salud y bienestar con el periodo de permanencia en los mismos 
+y los atribuyen a la contaminación del aire, ya sea química o microbiológica, a falta de confort (condiciones termohigrométricas 
+inadecuadas) o a la existencia de factores físicos, como ruido o iluminación incorrecta. Éstas son, en la práctica, las causas más 
+frecuentes de problemas en un ambiente interior, aunque también puede suceder que intervengan factores psicosociales y/o 
+ergonómicos. Todos ellos, en conjunto y en casos extremos, pueden llegar a materializarse en el denominado síndrome del edificio 
+enfermo.
+Planteo del problema
+Muchos de los problemas asociados a la CAl son multifactoriales y, por ello, la selección del procedimiento operativo depende 
+básicamente del tipo de edificio. En consecuencia, es recomendable que, al realizar un estudio, su responsable tenga una total 
+flexibilidad para adaptarse a las particularidades del edificio en cuestión, a la preocupación manifestada por sus ocupantes y, 
+evidentemente, a los medios disponibles.
+En general se aconseja trabajar de forma secuencial por fases que permitan aproximaciones sucesivas mediante el establecimiento de 
+hipótesis que relacionen causas y efectos y su posterior comprobación. En general, se identifican tres fases que pueden dividirse o 
+simultanearse según las circunstancias. Este sistema facilita la aplicación de soluciones y de medidas preventivas en la primera fase 
+del estudio, eliminando o reduciendo el problema con rapidez y evitando la necesidad de prolongar el estudio, con el correspondiente 
+ahorro de tiempo y costes.
+Toda investigación debe iniciarse siempre con una inspección inicial del edificio y de las instalaciones del sistema de ventilación, 
+calefacción y aire acondicionado (VCAA, HVAC en inglés), recogiendo toda la información posible que pueda ayudar a la identificación 
+del problema. Debe estructurarse de tal manera que pueda realizarla un higienista industrial o una persona con conocimientos básicos 
+en el tema y muchas veces requiere la determinación de parámetros semicuantitativos indicadores de la CAI. A la luz de la inspección 
+inicial, y de las determinaciones efectuadas, en su caso, se plantean unas hipótesis sobre las causas o factores que pueden afectar a 
+la CAI y se efectúan las comprobaciones y correcciones que se consideren oportunas.
+Si con las medidas aplicadas no se solucionan los problemas, o es preciso confirmar una hipótesis compleja o bien se desea 
+profundizar en la investigación, se programan estudios más completos que implicarán, probablemente, la determinación de algunos 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1994
+
+contaminantes concretos, una revisión completa del funcionamiento del edificio, especialmente del sistema de VCAA, e, incluso, 
+revisiones médicas específicas y estudios epidemiológicos mediante la aplicación de cuestionarios de síntomas.
+Primera fase: inspección inicial
+Como ya se ha dicho, el objetivo básico de la inspección inicial es recoger información sobre el edificio y sobre su funcionamiento 
+llevando a cabo una revisión general del mismo, mediante una visita detallada, que debe incluir el sistema de VCAA. Es conveniente 
+buscar información a partir de aquellas personas que conozcan la historia del edificio, tanto el destino inicial como los cambios 
+experimentados a lo largo del tiempo, que intervengan en su diseño funcional y en su mantenimiento y que sean usuarios del mismo.
+Revisión del edificio
+En la tabla 1, se presenta un listado orientativo de aspectos a considerar.
+Tabla 1: Aspectos a considerar en la inspección 
+inicial del edificio
+Debe revisarse toda la información existente que pueda ayudar a la identificación de un posible problema: planos del edificio, 
+modificaciones realizadas, descripción del sistema de VCAA, incidencias registradas, etc. Esta información debe completarse con las 
+opiniones, las quejas y los problemas específicos de confort y salud que manifiesten los usuarios del edificio, asegurándose siempre 
+que estén relacionados con su permanencia en el mismo.
+Productos químicos. Utilización y focos de emisión
+Otro aspecto importante lo constituye la revisión de los productos químicos utilizados en el edificio, considerando las posibles 
+relaciones entre la utilización de estos productos químicos y las quejas existentes. Conviene siempre revisar las fichas de datos de 
+seguridad de estos productos. Destacan entre ellos:
+G     Productos de limpieza, desinfectantes, odorizantes y ceras utilizados por los servicios de limpieza.
+G     Los pesticidas y herbicidas utilizados para la eliminación de plagas, cuidado del jardín y plantas de interior.
+G     Los desinfectantes e inhibidores de crecimiento usados en el mantenimiento de los sistemas de VCAA.
+G     Materiales utilizados en las fotocopiadoras e impresoras.
+G     Productos químicos especiales utilizados en aplicaciones concretas como pueden ser trabajos en artes gráficas, en el 
+mantenimiento del edificio, empaquetado y envío, etc.
+Igualmente la existencia de olores al entrar en las distintas zonas también deben ser anotada e investigada para identificar su origen.
+En cuanto a los productos de combustión, deben localizarse los focos de combustiones en el edificio (cocinas, calefacciones, etc.) y 
+
+caracterizarlos teniendo en cuenta el tipo de combustible utilizado, su ubicación, los conductos de eliminación de gases, horarios de 
+funcionamiento y la posible diseminación de los gases por el edificio. También debe considerarse la política que se sigue en el edificio 
+respecto al fumar y la ubicación de áreas de fumadores y no fumadores.
+También hay que cuestionar la posibilidad de entrada en el edificio de contaminantes procedentes del exterior, ya sea a través del aire, 
+con los propios ocupantes o por el subsuelo, por ejemplo, por escapes en conducciones y depósitos soterrados.
+Como norma básica, si entre los síntomas manifestados por los ocupantes se identifican algunos característicos, atribuibles a 
+determinados contaminantes ambientales, será conveniente intentar identificar las posibles fuentes.
+Otros factores
+También debe recabarse información sobre escapes de agua o inundaciones, incluyendo daños ya reparados, ya que pueden suponer 
+la existencia de humedades y de crecimiento microbiano, con la correspondiente contaminación biológica y/o generación de olores.
+Paralelamente se observará la posibilidad de que otros factores de estrés, como puedan ser una iluminación insuficiente, ruidos 
+molestos, radiaciones, etc., puedan influir en la apreciación, por parte de los usuarios, de la calidad del aire.
+Revisión del sistema de VCCA
+Dado que el diseño, estado y funcionamiento del sistema VCAA es con frecuencia el responsable de una deficiente CAI, conviene 
+definir en este primer estadio de la investigación los puntos esenciales en que se fundamenta la renovación del aire en el edificio. Hay 
+que conocer el tipo de ventilación y recoger información concreta sobre el sistema (planos, informes de revisiones efectuadas, 
+modificaciones, funcionamiento, mantenimiento, etc.) y completarla con datos sobre cambios en la ocupación de las distintas zonas y 
+sobre variaciones en la compartimentación de los locales.
+El objetivo de esta revisión es averiguar si el funcionamiento del sistema de VCAA de que dispone el edificio puede afectar 
+negativamente la calidad del aire. Para ello, se revisará el sistema, considerando si el acceso a los diferentes componentes facilita su 
+reparación, mantenimiento y limpieza general. Se prestará especial atención a:
+G     Las unidades de calefacción y de refrigeración.
+G     Las tomas de aire exterior.
+G     Los puntos de expulsión del aire de retorno.
+G     Las torres de refrigeración.
+Conviene considerar la posible contribución del sistema a la entrada de contaminantes exteriores en el edificio. También debe tenerse 
+en cuenta la posibilidad de su generación por el propio sistema, contribuyendo con olores no deseados, emitiendo productos 
+procedentes de los materiales utilizados en la instalación o en sus tratamientos u operaciones de mantenimiento, tales como materiales 
+fibrosos utilizados como recubrimiento interior, productos de limpieza o desinfección. También debe recordarse que el sistema puede 
+actuar como reservorio y facilitar el crecimiento microbiano.
+Entre las situaciones incorrectas que con más frecuencia suelen detectarse y que conviene investigar directamente destacan:
+G     Localizaciones de las tomas de aire exterior que posibilitan la entrada de contaminantes procedentes de fuentes exteriores y/o 
+la reentrada de aire expulsado.
+G     Las tomas de aire no están bien protegidas de la lluvia y permiten la entrada de agua en el sistema y/o no disponen de rejillas 
+protectoras para pájaros, facilitándose en ambos casos un posible crecimiento microbiológico.
+G     No existen filtros, no son los adecuados o suficientes o no hay un mantenimiento de los mismos, lo que afecta al flujo de aire y 
+a la presencia de partículas en el mismo.
+G     Los usuarios del edificio interfieren en el funcionamiento del sistema de VCAA. Son ejemplos de ello: difusores y rejillas de 
+retorno cerradas o modificadas para eliminar corrientes de aire, ubicación inadecuada de muebles o elementos decorativos que 
+impiden el paso del aire, cambios no previstos en la compartimentación, eliminación o cortocircuitado de conductos o difusores 
+o apertura sistemática de ventanas y puertas al exterior.
+G     Hay obras de reparación y de mantenimiento inacabadas que afectan el funcionamiento del sistema de VCAA.
+G     Hay zonas en las que se acumula la suciedad y/o agua estancada, favoreciéndose un aumento en la concentración de 
+contaminantes microbiológicos en aire.
+G     Los termostatos cubren zonas con necesidades de ventilación o climatización muy diferentes o están mal ubicados, lo cual 
+puede implicar la existencia de notables diferencias de temperatura.
+Conclusiones o hipótesis de trabajo
+Finalizada la inspección del edificio y del sistema de VCAA se debe disponer de suficiente información para establecer unas 
+conclusiones dirigidas a tomar acciones inmediatamente o bien establecer unas hipótesis de trabajo a comprobar. Debe tenerse en 
+cuenta que en muchos casos un diagnóstico adecuado bastará para solucionar el problema y dar por terminado el estudio.
+En la Tabla 2 se presenta un listado de aspectos que deben conocerse al final de la primera fase.
+Tabla 2: Aspectos que deben conocerse al final 
+de la primera fase
+
+Segunda fase: evaluación inicial de la CAI
+Si las soluciones no son evidentes, para confirmar o rechazar algunas de las hipótesis de trabajo que se van planteando es 
+conveniente medir una serie de parámetros que se utilizan como indicadores de la CAl y que ayudan a identificar y evaluar la 
+contribución en el problema de algunas fuentes potenciales presentes.
+En muchos casos estas medidas pueden simultanearse con la inspección inicial, en función de las circunstancias y disponibilidades del 
+responsable de la investigación.
+Para poder alcanzar conclusiones las medidas deben efectuarse en:
+G     Las zonas donde se manifiesta el problema o se sospecha que existe.
+G     El sistema de VCAA y/o sus zonas de acceso.
+G     Una zona que se definirá como de referencia o control.
+G     El exterior del edificio.
+Además, para detectar cambios durante el día se efectuarán medidas a lo largo de toda la jornada laboral, por ejemplo al inicio o antes 
+del mismo, a mitad de la jornada y al finalizar la misma.
+En la Tabla 3 se relacionan los parámetros de medida más habituales, los instrumentos generalmente utilizados, el intervalo en el que 
+la técnica suele ser válida y el intervalo considerado aceptable.
+Tabla 3: Determinación de algunos parámetros habituales
+(1) Medidas directas en difusores 
+(2) Miden flujos de aire en un conducto
+Las temperaturas elevadas, además de causar disconfort, potencian los síntomas inducidos por los contaminantes presentes en el aire. 
+En general, temperaturas y humedades no comprendidas en los límites aconsejados por las normas de ventilación, generan quejas en 
+
+una mayoría de los ocupantes de un edificio.
+El conjunto de las medidas de aire (caudal, velocidad y dirección) dan información sobre si el sistema de VCAA cumple con su función 
+básica.
+En general, el dióxido de carbono (CO2) presente en el aire interior procede de la respiración humana y se usa como referencia del 
+nivel de contaminación existente en el interior como consecuencia de una insuficiente renovación del aire en los espacios ocupados. Es 
+preferible medir el CO2 con un equipo de lectura directa que permita registrar los cambios que se producen a lo largo del día en 
+diferentes lugares. Las muestras promediadas sólo proporcionan resultados limitados y las muestras puntuales tienen que tomarse en 
+suficiente número para representar adecuadamente las variaciones de nivel a lo largo de la jornada. En ningún caso debe considerarse 
+que unos bajos niveles de CO2 garantizan una correcta CAI, sino tan sólo una buena distribución del aire de renovación en función de 
+los ocupantes del edificio.
+Tercera fase: determinación de compuestos específicos
+La identificación de muchos de los problemas inicialmente planteados se habrá completado con las actuaciones realizadas hasta este 
+momento. Sin embargo en algunos casos, convendrá confirmar alguna hipótesis realizando el análisis de compuestos específicos. En 
+otros casos las hipótesis de trabajo planteadas y las soluciones propuestas no habrán sido suficientes para resolver los problemas 
+existentes. Entonces será necesaria una reconsideración del problema estudiando cuidadosamente toda la información disponible y 
+desarrollando a partir de ella unas nuevas hipótesis que, normalmente, implicarán la realización de estudios más completos que 
+pueden incluir el análisis en aire, o sobre superficies, de determinados contaminantes y una revisión completa por especialistas del 
+funcionamiento y diseño del sistema de VCAA. También puede ser conveniente en algunos casos el realizar estudios de tipo 
+epidemiológico.
+El número de contaminantes que pueden encontrarse en un ambiente interior es elevado, aunque sus niveles suelen ser bajos. En 
+general las metodologías analíticas utilizadas provienen tanto de la higiene industrial como de las utilizadas en aire exterior, aunque 
+son preferibles las primeras por implicar el procesamiento de un volumen de aire menor e instrumentación más pequeña y silenciosa. 
+Aunque en la mayoría de métodos utilizados en higiene industrial se captan las muestras en un soporte adecuado para su posterior 
+análisis en el laboratorio, existen sistemas de lectura directa que se basan en principios físicos o químicos. Los instrumentos 
+colorimétricos que utilizan el cambio de color de un reactivo específico al reaccionar con un contaminante determinado se suelen 
+emplear preferiblemente para la detección de focos.
+Productos de combustión
+Proceden, entre otras fuentes, de vehículos y de humo de tabaco, yendo acompañados de partículas sólidas.
+El CO2 además de provenir de las personas, también puede, evidentemente, tener su origen en combustiones.
+El monóxido de carbono (CO) presente en un interior procede de combustiones incompletas. En algunos casos su determinación 
+puede simultanearse con las mediciones iniciales ya que una concentración de CO que supere en 3 ppm el nivel exterior se considera 
+como una alerta de una concentración interior anormal y hace aconsejable se investiguen las posibles fuentes. Se considera que un 
+aumento de 2 ppm debido a humo de tabaco justifica una irritación ocular.
+En este grupo se incluyen el dióxido de nitrógeno (NO2) y el dióxido de azufre (SO2) . Estos compuestos se determinarán si el tipo de 
+quejas o los resultados de la investigación inicial hacen sospechar su presencia, ya sea procedentes de fuentes interiores o exteriores. 
+El método de muestreo dependerá del compuesto específico y el límite de detección deseado pudiendo utilizarse tubos detectores, 
+instrumentos de lectura directa o la captación mediante sistemas activos o pasivos y su posterior análisis por métodos colorimétricos. 
+Deberán tomarse muestras en las zonas donde se manifiesten las quejas, en un área de control y en zonas entre el punto de las 
+quejas y las supuestas fuentes de combustión para identificar caminos de distribución. Debe además muestrearse aire exterior 
+suficientes veces y en distintos puntos para tener un valor de concentración lo más real posible.
+La interpretación de los resultados consiste normalmente en comparar las concentraciones en las áreas con problemas con las de los 
+puntos de control y la exterior. Excepto en aquellos puntos en los que esté permitido fumar no debe haber diferencia entre los niveles 
+en el aire exterior y en las zonas ocupadas. Si la concentración de productos de combustión específicos en el interior supera 
+significativamente el valor exterior, habrá que revisar cuidadosamente el edificio para localizar las fuentes, independientemente de su 
+relación con los síntomas manifestados.
+Otros gases inorgánicos
+No es frecuente su estudio en ambientes interiores, a no ser que se identifiquen posibles fuentes. Sería el caso, por ejemplo, del 
+ozono, mercurio o amoníaco, cuya presencia se asociaría a fuentes que originaran su formación en el caso del ozono, a vertidos 
+(incluso muy antiguos) en el caso del mercurio y a su uso directo en operaciones de limpieza o su generación en digestiones 
+anaerobias en el caso del amoníaco.
+Partículas
+El muestreo de partículas y/o fibras en aire deberá realizarse cuando en la investigación inicial exista evidencia visual de un exceso de 
+polvo, o cuando las quejas consistan en irritación o reacciones alérgicas. El muestreo ha de permitir comprobar las vías de propagación 
+del polvo procedente de las fuentes específicas, tales como equipos mecánicos o actividades de construcción.
+
+Se pueden utilizar distintas técnicas analíticas dependiendo el método más adecuado de la hipótesis que se considere. Puede captarse 
+la muestra mediante un filtro (con o sin ciclón) y efectuar una determinación gravimétrica de partículas totales o de la fracción 
+respirable, caracterizar las partículas por microscopía, o bien emplear instrumentos de lectura directa equipados con detectores de luz 
+difusa.
+Bioaerosoles
+La determinación de bioaerosoles debe realizarse cuando exista evidencia de que hay una enfermedad inducida por microorganismos, 
+por ejemplo la enfermedad del legionario, la hipersensibilidad neumonítica o el asma alérgica. El muestreo debe permitir establecer los 
+caminos de distribución de los microorganismos específicos desde los reservorios o amplificadores detectados con anterioridad.
+Los bioaerosoles de mas interés incluyen hongos, bacterias, virus, endotoxinas y protozoos. Aunque los hongos (mohos y levaduras) y 
+las bacterias son las que se muestrean con más frecuencia, en algunos casos se requiere muestrear endotoxinas y protozoos.
+Para evaluar el edificio, así como para diseñar y ejecutar una estrategia de muestreo puede seguirse procedimiento propuesto por el 
+Comité de Bioaerosoles de la ACGIH (American Conference of Governmental Industrial Hygienists). Cuando el muestreo sea 
+necesario, las muestras deben recogerse en los potenciales amplificadores y reservorios de los microorganismos, cerca de los 
+ocupantes afectados y en el aire exterior. Si es posible, las muestras deben recogerse varias veces al día a lo largo de un período de 
+varios días.
+La interpretación de los resultados debe hacerse con sumo cuidado. El procedimiento más extendido para interpretar estos datos 
+consiste en ordenar los organismos identificados en cada punto de muestreo en orden decreciente de concentración. Una comparación 
+entre las distintas zonas debiera delatar la situación de los reservorios o amplificadores. Los resultados obtenidos deben 
+correlacionarse con la evidencia médica disponible sobre infecciones y alergias antes de establecer relaciones causa efecto.
+Compuestos orgánicos volátiles
+La OMS (1987) clasifica los compuestos orgánicos volátiles (COV) por su punto de ebullición entre 50ºC y 260ºC, diferenciándolos de 
+los muy volátiles, si el punto de ebullición es inferior, y de los semivolátiles si es superior. La utilidad de los datos obtenidos para estos 
+compuestos en ambientes interiores es muy limitada debido a que por su elevado número y las bajas concentraciones en que se hallan 
+presentes, no existe información disponible sobre sus efectos. Sin embargo, hay circunstancias en que es ventajoso efectuar este 
+análisis, principalmente para identificar y caracterizar fuentes contaminantes. En estos casos hay distintos métodos aplicables, 
+dependiendo la elección del tipo de compuestos existentes de su origen, de la precisión requerida y de las disponibilidades analíticas.
+El procedimiento habitual para determinar COV se basa en la captación en un soporte adecuado que según el tipo de compuestos 
+puede ser carbón activo, resinas XAD, Chromosorb o Tenax y su posterior recuperación y análisis por cromatografía de gases seguida 
+de espectrometría de masas.
+En la práctica, es frecuente referenciar estos compuestos como un conjunto y hablar de COV totales (COVT). Esta aproximación 
+implica varios problemas, algunos analíticos y otros de interpretación de los resultados. Desde el punto de vista analítico no existe una 
+definición estandarizada de este término y distintos estudios utilizan distintas definiciones, con lo cual se dificulta la comparación de 
+resultados. Existen en el mercado instrumentos de lectura directa equipados con detectores FID o de fotoionización que valoran estos 
+compuestos tomando un único compuesto como referencia. Se pierde así aquella información cualitativa que permite la identificación 
+de fuentes contaminantes, por ejemplo una presencia elevada de hidrocarburos alifáticos ligeros puede ser atribuible al tráfico de 
+vehículos, de hidrocarburos alifáticos de cadena larga y de aromáticos a combustibles de calefacción, de terpenos a productos de 
+limpieza, etc.
+El muestreo de COV debe realizarse en las áreas con problemas, en zonas de control, similares a aquellas en que se manifiestan los 
+problemas pero sin quejas, y siempre en el exterior para, a partir de diferencias cualitativas y cuantitativas en su composición, 
+comprobar los productos que proceden del interior del edificio diferenciando los procedentes del exterior.
+La mayoría de métodos, ya sean activos o por difusión, que se utilizan para medir COV no son aplicables a los semivolátiles o los muy 
+volátiles por cuestiones relacionadas principalmente con el proceso de captación. Entre los primeros se incluyen compuestos 
+considerados muy tóxicos para el hombre como pesticidas, que requieren métodos específicos y entre los segundos, el formaldehído, 
+compuesto que, por su incidencia en la CAI, merece un comentario diferenciado.
+Formaldehído
+La emisión de formaldehído en el ambiente interior tiene efectos irritantes importantes sobre los ocupantes del edificio y además 
+contribuye, por su bajo nivel olfativo, a potenciar los problemas de olor. Es un ejemplo típico de producto muy volátil que debe 
+analizarse utilizando métodos específicos que incluyen la captación con muestreadores pasivos o con borboteadores y la 
+determinación de la concentración utilizando métodos colorimétricos o cromatografía líquida de alta resolución. Se tomarán muestras 
+en zonas de control y en las zonas donde se manifiesten las quejas para poder relacionar la concentración y el nivel de malestar 
+manifestado.
+Comentario final
+Normalmente, completado el estudio sobre CAI y planteadas y realizadas modificaciones para la corrección de los problemas 
+detectados habrán desaparecido la mayoría de las quejas iniciales. Sin embargo, es posible que, en ciertos casos, sus ocupantes 
+continúen manifestando la existencia de una situación inadecuada. Nos encontraríamos, entonces, con una situación más compleja en 
+la que intervendrían otros factores además de los que afectan a la calidad de aire. En estos casos será conveniente reconsiderar el 
+problema desde un punto de vista más global, aprovechando toda la labor realizada y buscando asesoramiento de expertos en 
+
+distintos campos.
+Bibliografía
+(1) ACGIH, COMMITEE ACTIVITIES AND REPORTS. 
+Guidelines for the assessment of bioaerosols in the indoor enviroment. 
+ACGIH, Cincinnati, Ohio. USA. 1989
+(2) BERENGUER, MJ.,HERNÁNDEZ, A., MARTÍ MC., NOGAREDA, C., SOLÉ, MD., GUARDINO, X. 
+El síndrome del edificio enfermo: Metodología para su evaluación. 
+INSHT, Barcelona, 1994
+(3) EPA and NIOSH. 
+Building air quality. A guide for building owners and facility managers. 
+Washington. 1991
+(4) UNE 100-011-91 
+La ventilación para una calidad aceptable del aire en la climatización de los locales.
+(5) RAFFERTY, PJ. 
+Ed. The industrial hygienist's guide to indoor air quality investigations. 
+Published by the American Industrial Hygiene Association. Fairfax, Virginia. 1993
+   © INSHT

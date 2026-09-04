@@ -1,0 +1,370 @@
+ 
+NTP 289: Síndrome del edificio enfermo: factores de riesgo
+Syndrome des bâtiments malades: facteurs de risque 
+Sick Building Syndrome: risk factors
+Redactora:
+Mª José Berenguer Subils 
+Licenciada en Ciencias Químicas
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+A partir de la información de que se dispone en la actualidad, existen pocas dudas respecto al hecho de que los ocupantes de ciertos 
+edificios presentan, durante el trabajo, una mayor incidencia de enfermedades que la que sería lógico esperar. Aunque los síntomas 
+son en general leves, causan molestias a un número elevado de personas empleadas en estos edificios y, en determinadas 
+circunstancias, pueden influir apreciablemente en los índices de absentismo.
+Siguiendo con la temática iniciada en la NTP-243, en la que se trataba de forma general la problemática referente a los ambientes 
+cerrados y a la calidad del aire en los mismos, en esta Nota Técnica se pretende recoger la metódica general para diagnosticar e 
+investigar aquellos edificios aquejados de un Síndrome de Edificio Enfermo.
+Definiciones
+Existen dificultades para definir lo que se entiende por edificio enfermo y por síndrome del edificio enfermo. En la práctica los edificios 
+enfermos son una parte de los edificios que presentan problemas. Estos edificios están, generalmente, equipados con aire 
+acondicionado, aunque también pueden estar ventilados de forma natural. Sus ocupantes presentan quejas referentes a su salud en 
+una proporción mayor a la que sería razonable esperar (>20%) y las causas son difíciles de identificar dado que en muchos casos 
+tienen un origen multifactorial.
+Síndrome del edificio enfermo (SEE) es el nombre que se da al conjunto de síntomas diversos que presentan, predominantemente, los 
+individuos en estos edificios y que no van en general acompañados de ninguna lesión orgánica o signo físico, diagnosticándose, a 
+menudo, por exclusión.
+La Organización Mundial de la Salud (OMS) diferencia entre dos tipos distintos de edificio enfermo. El que presentan los edificios 
+temporalmente enfermos, en el que se incluyen edificios nuevos o de reciente remodelación en los que los síntomas disminuyen y 
+desaparecen con el tiempo, aproximadamente medio año, y el que presentan los edificios permanentemente enfermos cuando los 
+síntomas persisten, a menudo durante años, a pesar de haberse tomado medidas para solucionar los problemas.
+Características comunes a los edificios enfermos
+Normalmente para ningún edificio debe considerarse como evidente su pertenencia a la categoría de edificio permanentemente 
+enfermo. Sin embargo, en la práctica, estos edificios tienen, según Ia OMS, una serie de características comunes:
+G     Casi siempre tienen un sistema de ventilación forzada que generalmente es común a todo el edificio o a amplios sectores y 
+existe recirculación parcial del aire. Algunos edificios tienen la localización de las tomas de renovación de aire en lugares 
+inadecuados mientras que otros usan intercambiadores de calor que transfieren los contaminantes desde el aire de retorno al 
+aire de suministro.
+G     Con frecuencia son de construcción ligera y poco costosa.
+G     Las superficies interiores están en gran parte recubiertas con material textil, incluyendo paredes, suelos y otros elementos de 
+diseño interior, lo cual favorece una elevada relación entre superficie interior y volumen.
+G     Practican el ahorro energético y se mantienen relativamente calientes con un ambiente térmico homogéneo.
+G     Se caracterizan por ser edificios herméticos en los que, por ejemplo, las ventanas no pueden abrirse.
+Síntomas y diagnóstico
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 197/
+
+La sintomatología a observar para poder diagnosticar un edificio enfermo es muy variada, pudiendo llegar a ser compleja, ya que suele 
+ser el resultado de la combinación de distintos efectos. Los síntomas más significativos incluyen:
+G     Irritaciones de ojos, nariz y garganta.
+G     Sensación de sequedad en membranas mucosas y piel.
+G     Ronquera.
+G     Respiración dificultosa.
+G     Eritemas (Erupciones cutáneas).
+G     Comezón.
+G     Hipersensibilidades inespecíficas.
+G     Náuseas, mareos y vértigos.
+G     Dolor de cabeza.
+G     Fatiga mental.
+G     Elevada incidencia de infecciones respiratorias y resfriados.
+En ciertos edificios pueden, además, estar potenciadas algunas enfermedades comunes del individuo, tales como sinusitis y algunos 
+tipos de eczemas.
+Para diagnosticar la existencia de un síndrome de edificio enfermo tiene que efectuarse una investigación cuidadosa entre el personal 
+afectado, teniendo en cuenta los síntomas reseñados. Se considerará también que en estos edificios, según los estudios realizados, 
+los síntomas son más frecuentes por la tarde que por la mañana, el personal de oficina es más propenso que el directivo a 
+experimentar molestias, estas molestias son más frecuentes en el sector público que en el privado y las quejas son más abundantes 
+cuanto menos control tiene la gente sobre su entorno.
+Posibles factores de riesgo
+Contaminantes ambientales
+El número de posibles contaminantes es enorme ya que pueden tener muy diversos orígenes. Los propios ocupantes del edificio 
+pueden ser una de las fuentes más importantes ya que el ser humano produce de forma natural dióxido de carbono (CO2), vapor de 
+agua, partículas y aerosoles biológicos, siendo a la vez responsable de la presencia de otros contaminantes entre los que destaca el 
+humo de tabaco que en sí contiene más de 3000 compuestos, entre ellos, monóxido de carbono (CO), aldehídos, óxidos de nitrógeno, 
+metales, etc.
+Los materiales de construcción y decoración del edificio así como los muebles y demás elementos pueden también ser la causa de la 
+presencia en el aire de compuestos tales como formaldehído, vapores orgánicos, polvos y fibras (asbestos, vidrio, textiles). Por otra 
+parte los materiales usados para el trabajo de oficina, en las instalaciones o para el mantenimiento pueden aportar contaminantes al 
+ambiente. Ese es el caso de los productos utilizados como correctores, del ozono desprendido por las fotocopiadoras, los biocidas, los 
+productos de limpieza, los desodorantes, etc. Existen también casos en que estos contaminantes proceden del exterior del edificio 
+como pueden ser los humos de escape de automóviles, el dióxido de azufre o el radón.
+El polvo presente en un aire interior está formado por partículas tanto orgánicas como inorgánicas, muchas de las cuales pueden 
+clasificarse como fibras. El polvo total dependerá de la ventilación, la limpieza, la actividad en la zona y el grado de presencia de humo 
+de tabaco.
+Los contaminantes biológicos pueden ser responsables de enfermedades infecciosas y también de alergias. Hay que considerar los 
+posibles efectos de bacterias, virus, hongos, ácaros, etc.
+Son, por el momento, muy pocos los límites ambientales existentes para estos contaminantes. No hay que olvidar que en el caso de los 
+productos químicos, sus mezclas pueden tener sobre el ser humano efectos aditivos, sinérgicos o antagónicos y que el conocimiento 
+de estas interacciones es aún muy limitado. Por otra parte tampoco se conocen los efectos de ciertas sustancias sobre el organismo 
+cuando la exposición es a muy bajas concentraciones y durante largos periodos de tiempo. Todo lo cual dificulta el establecimiento de 
+límites.
+La OMS en unas Guías para el establecimiento de la Calidad del Aire recomienda unos valores para proteger la salud pública para 28 
+sustancias, algunas de las más significativas para el SEE se recogen en la Tabla 1.
+Tabla 1: Valores de referencia para algunas sustancias no cancerígenas en aire según OMS
+
+Para el CO2, que la mayoría de autores no consideran como un contaminante dado su origen humano, y que sí se usa como indicador 
+de la calidad del aire interior para establecer el correcto funcionamiento de los sistemas de ventilación, el estándar ASHRAE 62-1989 
+de la American Society of Heating, Refrigerating and Air Conditioning Engineers, recomienda un límite de 1000 ppm para satisfacer 
+criterios de confort, (olor). Este mismo estándar sugiere, para aquellos contaminantes químicos que no tienen establecido un valor de 
+referencia propio, una concentración de 1 /10 del valor recomendado (TLV) para ambientes industriales por la American Conference of 
+Governmental Industrial Hygienists (ACGIH). Sin embargo los valores para contaminación ambiental son mucho más bajos, por 
+ejemplo, 1130 de los valores límites (Ley de protección del medio ambiente atmosférico, Art. 46.IV) o 40/168 x 1 /100 TLV (Ameg).
+Olores
+Algunos gases y vapores ocasionan disconfort sensorial debido a olores e irritaciones que pueden producir ansiedad y estrés, 
+especialmente cuando sus fuentes no están identificadas. Recientemente se han definido dos nuevas unidades, el olf y el decipol, para 
+cuantizar fuentes de contaminación y niveles de contaminación tal como los percibe el ser humano. Un olf es el total de contaminantes 
+(bioefluentes) aportados al aire por una persona estandar. Cualquier otra fuente se cuantizará como el número de personas estandar 
+(olfs) necesarios para generar la misma insatisfacción que ella. Un decipol es la contaminación ambiental generada por una persona 
+estandar (un olf), ventilada por 10 L/seg de aire no contaminado.
+Iones
+Algunos autores defienden la hipótesis de que la ausencia de iones negativos en un ambiente cerrado puede ser el origen de un SEE. 
+No existe sin embargo evidencia de que la utilización de generadores de iones tenga beneficios totamente demostrables.
+Iluminación
+Un nivel de iluminación bajo, un contraste insuficiente, los brillos excesivos y los destellos pueden se causa de stress visual generador 
+de irritación de ojos y dolores de cabeza. El uso prolongado de pantallas de visualización de datos (PVD) requiere una iluminación 
+particularmente bien diseñada. Según las diferentes tareas visuales puede recomendarse para trabajos de oficina 500-1000 lux y para 
+trabajos con PVD 150-300 lux en pantalla y 500 lux en teclado y documentos.
+Ruido
+Conviene mantener los niveles de presión sonora en los límites de 60-70 dB(A) recomendados como confortables ya que valores 
+superiores pueden producir fatiga. Sin embargo la naturaleza del ruido es un factor importante. Así los infrasonidos, los ruidos de baja 
+frecuencia y los tonos puros puede causar irritabilidad y molestias. La Norma ISO 1966.2-1987 hace referencia a esta problemática.
+Vibraciones
+Las vibraciones producidas en las cercanías de un edificio o debidas a máquinas instaladas en el mismo también pueden afectar. 
+
+Sobre este tema se han efectuado numerosos estudios que han llevado al establecimiento de las correspondientes Normas. (ISO 
+2631.1 y 2631.3-1985)
+Ambiente térmico
+Se han desarrollado varios estandars sobre este tema. El más aceptado son el conjunto de las normas de confort térmico 
+recomendadas en ISO 7730-1984 que establece un intervalo, óptimo de temperaturas (aire, radiante y simetría radiante) y condiciones 
+para personas con diferentes intervalos metabólicos y usando diferentes ropas.
+Los valores recomendados son:
+G     Temperatura operativa del aire: 22 ºC ±2 ºC para invierno y 24,5 ºC ±1,5 ºC para verano.
+G     Diferencia vertical de temperatura del aire entre 1, 1 m y 0,1 metros (cabeza y tobillo) inferior a 3 ºC.
+G     Temperatura de superficie de suelo entre 19 y 26 ºC (29 ºC para sistemas de calefacción por suelo).
+G     Velocidad media del aire inferior a 0,15 m/seg en invierno y 0,25 m/seg en verano.
+G     Asimetría de temperatura radiante debida a planos verticales (ventanas, etc.) inferior a 10 ºC.
+G     Asimetría de temperatura radiante debida a planos horizontales (techos, etc) inferior a 5 ºC.
+Humedad relativa
+Los procesos de humidificación causan serios problemas y han de ser vigilados cuidadosamente. No existe acuerdo sobre cual es el 
+intervalo ideal de humedad relativa aunque el más generalizado se fija entre el 20 y el 60% (preferiblemente del 30 al 50%). Niveles 
+muy altos de humedad, por ejemplo >70%, favorecen el incremento de hongos y otros contaminantes microbiológicos mientras que 
+niveles inferiores al 30% ocasionan sequedad en las membranas mucosas.
+Ventilación
+Una ventilación insuficiente es una de las causas más frecuentes de SEE. Normativa sobre aportes mínimos de aire existen en muchos 
+países, pero varían de unos a otros así como entre zonas de no fumadores y de fumadores (intervalo entre 2,5 - 20 litros por segundo y 
+por persona).
+La International Energy Agency (IEA) indica que un aporte de aproximadamente 8 litros por segundo (cerca de 30 M3 /h) por persona 
+(actividad sedentaria) será adecuada para extraerlos bioefluentes humanos (olores) en áreas de no fumadores. En zona de fumadores 
+el aporte de aire fresco debe ser mayor.
+Por su parte el estándar ASHRAE 62-1989 propone para obtener una calidad aceptable de aire interior una serie de aportes mínimos 
+de aire fresco. Estos valores pretenden mantener el CO2 y otros contaminantes dentro de un adecuado margen de seguridad en 
+función de una variabilidad en el tipo de espacios interiores, presuponiendo en la mayoría de los casos que la contaminación producida 
+es proporcional al número de personas que los ocupan. Así para una oficina se recomienda un aporte mínimo por persona de 10 L/seg 
+(cerca de 35 m3 /h) y para una sala de fumadores este valor debe aumentarse hasta 30 L/seg por persona.
+La ventilación en sí no debiera ser causa de problemas adicionales, sin embargo hay que cuidar el mantenimiento y limpieza de los 
+equipos de ventilación y evitar recirculaciones de aire que puedan introducir nuevos contaminantes.
+En cuanto a España, la Ordenanza establece una serie de condicionantes respecto a aporte de aire, velocidad del aire, temperatura y 
+humedad relativa descritas en la NTP-243.
+Factores psicosociales
+Los factores psicosociales pueden desempeñar un papel importante aumentando el estrés del personal. La organización del trabajo, la 
+insatisfacción en general, el tiempo de trabajo, el contenido de la tarea, la comunicación y relación, etc. pueden afectar haciendo a la 
+gente más influenciable por los factores ambientales.
+Como efectuar las investigaciones asociadas a un edificio
+En general los problemas relacionados con un edificio se manifiestan cuando alguno(s) de sus ocupantes se quejan a la dirección o a 
+los responsables del ambiente ocupacional de molestias e incomodidades tales como corrientes de aire, frío, calor, ruido, etc.
+La primera respuesta debe ser comprobar si las condiciones operacionales de las instalaciones que regulan la ventilación del edificio 
+son correctas. Es importante, en este punto, comprobar si las personas afectadas pueden modificar directamente la temperatura y la 
+entrada de aire.
+Si las condiciones operacionales son consideradas normales y las quejas continúan, habrá que iniciar una investigación técnica e 
+higiénica para determinar la extensión y la naturaleza del problema. Esta investigación permitirá también estimar si los problemas 
+pueden considerarse sólo desde un punto de vista funcional o si han de intervenir especialistas en higiene y psicología.
+La Comisión de las Comunidades Europeas recomienda, para estudiar este tipo de problemas, un protocolo de actuación que se 
+desarrolla en cuatro fases y que se resume en la Tabla 2.
+
+Tabla 2: Esquema de una investigación programada en un edificio enfermo
+Primera fase. Investigación inicial del edificio y planteo del problema
+En esta fase preliminar se realiza una revisión general del edificio que pretende identificar el tipo y la gravedad del problema 
+manifestado, para decidir si son precisas más investigaciones o incluso asesoramientos externos.
+Cuando se llega a una conclusión válida respecto al tipo de problema y a las acciones que van a arbitrarse, conviene informar al 
+personal que manifestó los problemas.
+A continuación, se distribuye entre un cierto número de empleados, de forma aleatoria, un cuestionario de tipo sencillo referente a 
+síntomas y quejas que incluya distintos factores. Las respuestas no van a ser utilizadas para tomar acciones individuales sino que se 
+utilizarán como base estadística y para establecer si la prevalencia de síntomas excede un nivel aceptable Este dependerá de las 
+circunstancias y características de cada país.
+El cuestionario deberá distinguir, sin lugar a dudas, entre los síntomas experimentados en el interior y en el exterior del edificio. Debe 
+también incluir cuestiones psicosociales y será estrictamente confidencial.
+La revisión técnica del edificio y de las condiciones de instalación se basará en la información y en los planos suministrados por el 
+personal de mantenimiento. La lista de "chequeo" que describa el edificio, los materiales de construcción, el tipo de instalaciones y el 
+estado general del mismo debería incluir por ejemplo:
+G     Edad del edificio.
+G     Información sobre las renovaciones realizadas durante los últimos años (trabajos y fechas).
+G     Número de personas por oficina (promedio y max.).
+G     Área de oficina por persona ( promedio y min.).
+G     Volumen de aire por persona (promedio y min.).
+G     Suelos: material y recubrimiento.
+G     Paredes: material y recubrimiento.
+G     Techo: material y recubrimiento.
+G     Sistema de calefacción: tipo y sistema de regulación.
+G     Sistema de ventilación: ventilación natural, extracción y/o sistema de suministro de aire mecánico, filtros. Para sistemas de 
+suministro de aire: información adicional sobre recirculación, humidificación, enfriamiento de aire, localización de la toma de aire.
+G     Regulación de la ventilación: aporte de aire exterior y los correspondientes aportes promedio y mínimo por persona (litros/
+segundo persona) Indicar si estos valores se basan en presunciones, criterios de diseño o medidas realizadas.
+G     Procedimiento de funcionamiento para los sistemas de calefacción y ventilación: parada nocturna, recirculación, humidificación.
+G     Procedimientos de limpieza: diaria, semanal, mensual, procedimientos anuales para los suelos, muebles, etc. (cambios 
+recientes en las metódicas).
+G     Condiciones de iluminación: general, individual.
+G     Equipos generadores de ruido, contaminación, calor: tipo y localización. Utilización de productos que pueden ocasionar el 
+deterioro de la calidad del aire (productos de limpieza, vaporizadores para plantas, etc.).
+G     Escapes de agua (anteriores o actuales).
+G     Medidas efectuadas del clima interior.
+Segunda fase. Medidas de inspección y guía
+En esta fase se comparará el uso y el funcionamiento actual del edificio con el diseño y la función de la planta original y se tomarán 
+acciones correctoras puntuales.
+
+Hay que considerar aspectos tales como:
+G     Humo de tabaco. Lugar y cantidad de su presencia. Posible recirculación.
+G     Materiales de construcción y mobiliario.
+G     Localización de las fotocopiadoras e impresoras láser ¿Están en habitaciones separadas y ventiladas?
+G     Olores. Caracterización e identificación de las fuentes.
+G     Nivel de limpieza. Polvo en alfombras, estanterías, etc.
+G     Manipulación de gran cantidad de papel. Fuentes de polvo orgánico y gases originados en la impresión.
+G     Presencia de plantas verdes. Utilización de productos químicos para su tratamiento.
+G     Humedades, escapes de agua.
+G     Presencia de mohos.
+G     Infiltraciones de aire procedente de garages, laboratorios, restaurantes, tiendas, etc. del mismo edificio.
+G     Situación de la toma de aire exterior teniendo en cuenta su separación de la salida de contaminantes por los extractores de los 
+sistemas de ventilación.
+G     Uso de humidificadores y situación. ¿Se limpian regularmente?
+G     Aberturas de entrada y salida de aire. ¿Están limpias sin estar bloqueadas por el polvo?
+G     Uso de protectores de sol.
+G     Número de empleados en las oficinas. ¿Son los inicialmente planificados?
+G     Deben realizarse medidas aleatorias de indicadores de calidad de aire y de clima, tales como CO2, y temperatura del aire, 
+controlar las corrientes de aire utilizando ampollas de humo y evaluar aquellos factores que en los cuestionarios se mencionen 
+como molestos (por ej. ruido o iluminación). Se revisaran habitaciones con y sin problemas.
+Tercera fase. Medidas de ventilación, indicadores de clima y otros factores implicados
+Si las acciones tomadas en las fases anteriores no han logrado disminuir los problemas, en estafase se realizará un análisis completo 
+del sistema de ventilación y del clima del ambiente interior. Para ello se volverá a pasar el cuestionario inicial unos meses después de 
+haber tomado las acciones correctoras previas. Evidentemente en el caso de que se presenten variaciones estacionales, en los 
+síntomas y en las quejas, respecto a factores climáticos específicos puede complicarse la evaluación de esta segunda versión del 
+cuestionario.
+Ventilación
+G     Inspección visual de la acumulación de suciedad y polvo en los filtros, baterías de calentamiento y de enfriamiento y en los 
+intercambiadores de calor.
+G     Control del ajuste de temperaturas, interruptores de inicio y parada.
+G     Comprobación del funcionamiento de los sistemas de control automático.
+G     Medida del grado de recirculación.
+G     Medida de los flujos de suministro y extracción para todo el sistema y muestreo representativo de las habitaciones.
+G     Medidas del intercambio de aire.
+G     Medidas de la eficacia de la ventilación cuando se sospechen riesgos debidos a que ésta sea baja.
+Calidad del aire y otros factores
+G     Habrá que medir de nuevo los indicadores de calidad del aire tales como CO2 y CO y de calidad de clima como la temperatura 
+del aire, pero más extensamente que antes e incluir los cambios diurnos que puedan presentarse. En esta fase, sino se han 
+hecho antes, hay que hacer medidas de factores específicos. Los factores específicos a medir vendrán sugeridos por la 
+inspección inicial del edificio y por las respuestas del cuestionario.
+G     En edificios de nueva construcción o reformados, si la presencia de olores es significativa, se medirá la presencia de 
+compuestos orgánicos volátiles totales o individuales (en especial irritantes fuertes) y si los materiales de construcción o los 
+muebles son una posible fuente de olor importante, también se medirá el formaldehído. En cortos períodos pueden darse 
+amplias variaciones de los niveles (horas). 
+Pueden identificarse fuentes de contaminación estimando la calidad del aire (en decipol) y midiendo el suministro exterior de 
+aire tal como describen Fanger y col. Para identificar fuentes hay que comprobar separadamente los distintos compartimentos.
+G     En aquellas habitaciones en las que se observe la presencia dañada o no protegida de materiales aislantes a base de fibras 
+minerales habrá que efectuar mediciones de fibras. Se recomendará su sustitución o sellado.
+G     En aquellas situaciones en que se sospeche una escasa limpieza o en las que se manipulen, por ejemplo, grandes cantidades 
+de papel, como puede ocurrir en los edificios dedicados a oficinas, habrá que medir el contenido de polvo en el aire y en el 
+suelo. También puede ser importante evaluar la composición del polvo.
+G     Medida de la iluminación. Incluso en ausencia de quejas los usuarios de pantallas de ordenadores pueden tener problemas de 
+iluminación no reconocidos.
+G     Medidas de ruido. Hay que prestar una especial atención a los ruidos de baja frecuencia generados por los sistemas de 
+ventilación u otras maquinarias así como a aquellos sonidos de frecuencias muy concretas, especialmente irritantes, propios de 
+las máquinas de oficina.
+G     Medidas de la correcta distribución de las corrientes de aire.
+G     Cuando el techo esté más caliente que el aire habrá que medir la temperatura del techo o la temperatura de piano radiante 
+correspondiente a esa superficie.
+Cuarta fase. Examen médico e investigaciones asociadas
+En esta fase se efectuará un examen médico en el que puede ser necesario examinar empleados con y sin síntomas. El examen lo 
+realizará, en general, una unidad médica ocupacional.
+Además de estos exámenes pueden estudiarse algunas exposiciones específicas. Estas pueden consistir en un estudio cualitativo de 
+
+los compuestos orgánicos volátiles acompañada de una evaluación toxicológica. Otra posibilidad es un estudio microbiológico junto con 
+tests de provocación.
+Los exámenes médicos, que pueden incorporar un cuestionario detallado relacionado con los síntomas, deben siempre incluir 
+preguntas relacionadas con las condiciones psicológicas en el trabajo, las relaciones individuales entre compañeros y con los 
+superiores y el tipo de trabajo que se está realizando ya que todo ello puede influir en los síntomas. Normalmente no es necesario 
+llegar a esta fase ya que en general los problemas en los edificios se solucionan en las fases previas. Hay que comprobarlo usando el 
+cuestionario original algún tiempo después de que las medidas correctoras derivadas de la tercera fase hayan sido puestas en práctica.
+Muestreo y análisis de contaminantes ambientales
+Al plantearse como último paso el control analítico de un aire interior se presenta el problema de la existencia de un elevado número de 
+espacios individuales con diferentes fuentes contaminantes en los que no siempre es posible utilizar sistemas de muestreo 
+voluminosos y/o ruidosos. En general suelen, por tanto, tomarse las muestras con sistemas relativamente pequeños y silenciosos para 
+proceder a su análisis a continuación en el laboratorio.
+Otro problema muy importante que presenta el análisis de un aire interior es el de la representatividad de las muestras de aire, para 
+distintos espacios, tomando sólo un número limitado de muestras. La estrategia del muestreo es por tanto un factor de la mayor 
+importancia.
+Suponiendo un cierto conocimiento de las fuentes potenciales de contaminación y del tipo de contaminantes, desarrollar una estrategia 
+de muestreo implica responder a las preguntas de cuándo, con qué frecuencia y de qué duración han de tomarse las muestras.
+Los parámetros determinantes para una estrategia de muestreo en el caso de contaminantes químicos en ambientes interiores vienen 
+dados principalmente por la situación dinámica del ambiente interior y el objetivo del muestreo, en función de los contaminantes o tipos 
+de contaminantes que interese analizar.
+Los factores dinámicos de un interior están caracterizados por la variabilidad de emisión de las fuentes contaminantes, las diferencias 
+entre espacios y las diferentes condiciones de ventilación y climáticas pudiendo además estar muy influidos por los distintos tipos de 
+contaminantes.
+Los objetivos del muestreo pueden ser la determinación de concentraciones promedio o de concentraciones pico. En otros casos 
+puede interesar el conocimiento de las concentraciones personales, de la exposición individualizada, el grado de cumplimentación con 
+los valores de referencia indicados en las guías, efectuar un estudio, identificar fuentes, determinar los modelos de la contaminación 
+del aire, etc. Por tanto la estrategia de muestreo puede ser muy variada, siendo muy importante el momento en que se toma la muestra 
+y las condiciones del edificio (hora, situación del aire acondicionado, ocupación, etc.), así como la duración y frecuencia del muestreo, 
+la localización y el garantizar la calidad de este muestreo.
+Enfoque científico del problema y tendencias actuales
+En base al conocimiento actual parece improbable que las enfermedades y molestias relacionadas con los edificios puedan ser 
+totalmente erradicadas, sin embargo pueden conseguirse unas condiciones aceptables que se mantengan durante periodos indefinidos 
+de tiempo. Incluso en muchas investigaciones en las que no se puedan identificar las causas, pueden minimizarse los efectos a base 
+de prestar suficiente atención al diseño, construcción y mantenimiento de los sistemas de aire acondicionado y de ventilación, al 
+ambiente de trabajo en general y a los aspectos anímicos del personal que trabaja en estos edificios. Desde el punto de vista técnico 
+se pueden destacar una serie de acciones que pueden mejorar los ambientes interiores, tales como:
+G     Desarrollar materiales de construcción no contaminantes.
+G     Un mejor conocimiento de los mecanismos provocadores de irritaciones y olores.
+G     Mejor identificación de la naturaleza de los contaminantes y de sus fuentes.
+G     Sustitución de productos problemáticos por otros menos contaminantes.
+Bibliografía
+(1) AMERICAN CONFERENCE OF GOVERNAMENTAL HYGIENISTS (ACGIH) 
+Threshold Limit Values and Biological Exposure Indices for 1990-1991 
+Cincinnati, Ohio, (1990)
+(2) AMERICAN SOCIETY OF HEATING, REFRIGERATING AND AIR CONDITIONING ENGINEERS (ASHRAE) 
+Ventilation for Acceptable Indoor Air Quailty 
+ASHRAE Standard 62-1989. Inc., Atlanta, GA., (1989)
+(3) BAASEL, W.D. 
+Economic Methods for Multipollutant Analysis and Evaluation 
+Col.: Pollution Engineering and Technology No. 25. Marcel Dekker, N. Y., (1985)
+(4) BERENGUER M.J. y MARTÍ M.C. 
+Ambientes cerrados: calidad del aire 
+NTP-243. I.N.S.H.T, Madrid (1989)
+(5) COST project 613 
+
+Sick Building Syndrome. A Practical Guide 
+Commissión of the European Communities, Report EUR 12294 EN, Luxembourg 1989
+(6) COST project 613 
+Strategy for Sampling Chemical Substances in Indoor Air 
+Commission of the European Communities, Report EUR 12617 EN, Luxembourg 1989
+(7) FANGER P.O. 
+Introduction of the off and decipol-unit to quantify air pollution perceived by humans indoors and outdoors 
+Energy and Buildings, 12, 1-6 (1988)
+(8) INTERNATIONAL ENERGY AGENCY (IEA) 
+Energy conservation In building and community systems programme. Annex IX: Minimum ventilation rates 
+L. Trepte, P. Warren and V. Meyringer Eds, Internat. Energy Agency, Paris 1987
+(9) INTERNATIONAL STANDARD ORGANIZATION (ISO) 
+Moderate thermal environments. Determination of the PMV and PPD indices and specification of the conditions for thermal 
+comfort 
+L. Trepte, P. Warren and V. Meyringer Eds, Internat. Energy Agency, Paris 1987. ISO 7730, Genéve 1984
+(10) INTERNATIONAL STANDARD ORGANIZATION (ISO) 
+Evaluation of human exposure to whole-body vibration. Part 1: General requirements 
+ISO 2631. 1, Genève 1985
+(11) INTERNATIONAL STANDARD ORGANIZATION (ISO) 
+Evaluation of human exposure to whole-body vibration. Part 3: Evaluation of exposure to whole-body z-axis vertical in the 
+frequency range 0,1 to 0,63 Hz 
+ISO 2631.3, Genéve 1985
+(12) INTERNATIONAL STANDARD ORGANIZATION (ISO) 
+Acoustics. Description and measurement of environmental noise. Part 2: Adquisition of data pertinent to land use 
+ISO 1966.2, Genève 1987
+(13) SYKES J.M. 
+Sick Building Syndrome: A Review 
+Specialist Inspector Reports. No 10. Health and Safety Executive. London. June 1988 (Reprinted August 1989)
+(14)  WORLD HEALTH ORGANIZATION (WHO) 
+Indoor air pollutants:exposure and health effects 
+EURO Reports and Studies No 78, WHO Regional Office for Europe. Copenhagen 1983
+(15) WORLD HEALTH ORGANIZATION (WHO) 
+Indoor air quality research 
+EURO Reports and Studies No 103, WHO Regional Office for Europe. Copenhagen 1986
+(16)  WORLD HEALTH ORGANIZATION (WHO) 
+Air Quailty Guidelines for Europe 
+WHO Regional Publications, European Series No. 23. Copenhagen 1987
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-92-011-6 

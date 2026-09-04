@@ -1,0 +1,534 @@
+ 
+ 
+NTP 607: Guías de calidad de aire interior: contaminantes químicos
+Valeurs guide pour la qualité de l'air interieur 
+Indoor air quality guidelines
+Redactores:
+José Bartual Sánchez 
+Doctor en Ciencias Químicas
+Mª José Berenguer Subils 
+Licenciada en Ciencias Químicas
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+El tema de la calidad del aire en interiores ha sido objeto de varias Notas Técnicas de Prevención, en las que se tratan diferentes aspectos de esta temática. El 
+objetivo de esta NTP es orientar sobre la disponibilidad de valores de referencia que puedan ser utilizados como guía para la evaluación de la calidad del aire en 
+ambientes interiores.
+Introducción
+La evaluación de la calidad del aire en ambientes interiores y la gestión de la mejora de esta calidad pueden facilitarse mediante el establecimiento y aplicación de 
+guías o estándares, en forma de conjuntos de valores de referencia, al igual que se hace en relación con la calidad del aire exterior o la del aire de los ambientes 
+laborales.
+Las guías deberían tener la forma de concentraciones recomendadas para contaminantes en aire, estando cada concentración referida a un tiempo promedio de 
+exposición y acompañada de consejos para su medición. Las guías deberían ser aplicables a cualquier ambiente interior no ocupacional y servir de ayuda al desarrollo 
+de regulaciones y estándares para los edificios, incluidos escuelas, hospitales y servicios en general. Conviene que las guías sean consideradas como 
+recomendaciones. En esencia, un valor guía debería representar un nivel de concentración que, cuando se exceda, aconseje emprender acciones para asegurar su 
+reducción en el local o edificio afectado. Este valor debería ser considerado como un dato diana que asegure, en la mayoría de circunstancias y para la mayoría de 
+individuos, la ausencia de efectos perjudiciales sobre la salud.
+El establecimiento de valores guía debería facilitar, también, mediante la utilización de modelos, el establecimiento de estándares de emisión para ayudar al control de 
+la contaminación en la fuente.
+Consideraciones al establecimiento de guías
+El establecimiento de guías o estándares para aire interior presenta ciertas complicaciones y dificultades. En efecto, por varias razones, el ambiente en los interiores 
+no es tan fácil de someter a reglamentación como la calidad del aire exterior o la contaminación en los lugares de trabajo. Entre las cuestiones prácticas que 
+previamente deberían ser consideradas en relación con el establecimiento de estas guías pueden incluirse preguntas tales como:
+G     ¿Dónde serán de aplicación las guías? (domicilios, oficinas, escuelas, edificios públicos, vehículos, etc.).
+G     ¿Cuál es la base a utilizar para el establecimiento de la guía? (criterios de salud, criterios de confort).
+G     ¿Qué es lo que las guías deberían intentar "proteger"?
+G     ¿Quién debería ser responsable de controlar y regular los contaminantes de los ambientes interiores de acuerdo con las guías?
+G     ¿Cuáles podrían ser las implicaciones legales? (por ejemplo, entre inquilinos y propietarios caso de incumplimiento de las guías)
+G     ¿Podrían ser los valores guía los mismos que los establecidos para concentraciones exteriores del mismo contaminante o podrían ser los que se utilizan en los 
+lugares de trabajo?
+En la actualidad no existen guías especificas recomendadas para calidad del aire en interiores de aceptación general. En la práctica se toman a menudo como 
+referencia los valores documentados para ambientes laborales, para aire exterior o, posiblemente los más adecuados, para calidad de aire en general. A continuación 
+se comentan las características de los valores de referencia más utilizados.
+Criterios de valoración higiénicos
+Los criterios que utiliza la Higiene Industrial tienen aplicación en ambientes industriales dónde la exposición de los trabajadores a contaminantes químicos puede ser 
+elevada y, en consecuencia, de efectos adversos muy importantes.
+Los estudios epidemiológicos de incidencia y/o prevalencia de enfermedades neoplásicas, respiratorias o alérgicas en la población en general cada vez tienen más en 
+consideración la historia laboral de los individuos investigados. Por citar tan sólo un aspecto, aunque no sea demostrable, por la gran variedad de situaciones 
+industriales y compuestos involucrados, en conjunto se estima que un porcentaje de alrededor de un 5% de enfermedades que causan la muerte de los pacientes de 
+la población general tiene un origen laboral.
+Toda la amplísima experiencia acumulada en el ámbito laboral, adquirida en situaciones potencial o realmente muy agresivas, constituye la razón de fondo de que la 
+Higiene Industrial y, de un modo genérico, la protección de la salud de los trabajadores frente al riesgo de intoxicación en sus puestos de trabajo sea y haya sido una 
+fuente de información básica en el estudio de intoxicaciones medioambientales y no laborales, que, en general, tienen su origen en situaciones menos agresivas que 
+las industriales.
+Como criterios de valoración higiénica, en los ambientes de trabajo, en España son de aplicación los valores límite ambientales (VLA) adoptados como límites de 
+exposición profesional (LEP) por el INSHT. Estos valores son del mismo tipo que los criterios técnicos tipo Threshold Limit Values (TLV) de la American Conference of 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 2001
+
+Governmental Industrial Hygienists (ACGIH) de Estados Unidos así como de otros valores límite establecidos en diferentes países. Todos ellos están dirigidos a una 
+población adulta en condiciones de trabajar y son válidos para unos tiempos de exposición concretos, por tanto no se pueden aplicar directamente a la población 
+general en ambientes interiores sin efectuar una adaptación a las distintas condiciones de exposición.
+Para conseguirlo deben aplicarse factores de corrección para compensar los distintos tiempos de exposición en ambientes laborales y en ambientes interiores y las 
+diferencias en la población expuesta en dichos ambientes en cuanto a edad y estado de salud. Por esta razón, en algunos casos, se ha propuesto aplicar a estos 
+valores factores de corrección de 1/10 e incluso más limitativos. En efecto, en el caso de los ambientes interiores se trata de una exposición continua de 168 horas/
+semana, mientras que en los ambientes laborales los tiempos de exposición pueden ser cuantizados en 40 horas/semana, mediante exposición de 8 horas diarias 
+repetidas durante 5 días consecutivos cada semana. Por tanto, un factor mínimo de corrección sería el de 40/168 correspondiente a las distintas horas de exposición 
+semanal en cada ambiente, el cual sería insuficiente teniendo en cuenta la inexistencia de tiempo de recuperación en el ambiente interior. Por otra parte, las 
+diferencias entre las poblaciones expuestas en los dos ambientes también aconseja un factor de corrección adicional que varios autores estiman el 1/100.
+Guías y valores límite para aire exterior
+Los estándares que se refieren a la calidad del aire exterior tienen como finalidad la protección de la población en general frente a los efectos adversos sobre la salud 
+o a las molestias resultantes de la exposición a contaminantes ambientales y sólo consideran aquellos compuestos que pueden estar presentes, de forma habitual, en 
+el aire exterior. La EPA (Environmental Protection Agency de EE.UU.) ha propuesto unos valores, ampliamente reconocidos, que, a menudo, son tomados como 
+referencia para definir la calidad del aire exterior que puede utilizarse para la ventilación de un edifico.
+La EPA establece dos tipos de estándares para la calidad del aire: Los estándares primarios, que fijan límites destinados a proteger la salud pública, incluyendo a la 
+población más sensible tal como asmáticos, niños y ancianos, y los estándares secundarios que fijan límites para proteger el bienestar de la población y que, también, 
+incluyen protección frente a una disminución de la visibilidad, daños a los animales, cosechas, vegetación y edificios.
+En la tabla 1 se relacionan los estándares de calidad de aire propuestos por EPA que incluyen a los seis contaminantes principales del aire exterior.
+En nuestro país los RR.DD. 1494/95 y 1073/2002 definen y establecen valores límite para la protección de la salud para una serie de compuestos presentes en el aire 
+ambiente, así como unos márgenes de tolerancia aplicables hasta la entrada en vigor de estos valores, que se recogen en la tabla 2.
+TABLA 1 
+Estándares de la EPA de calidad de aire
+Contaminante
+Tiempo
+Valor del estándar
+Tipo de estándar
+Monóxido de carbono (CO)
+8 horas promedio
+9 ppm (10 mg/m3)
+Primario
+1 hora promedio
+35 ppm (40 mg/m3)
+Primario
+Dióxido de nitrógeno (NO2)
+Media aritmética anual 0,053 ppm (100 µg/m3) Primario y secundario
+1 hora promedio
+0,12 ppm (235 µg/m3) Primario y secundario
+Ozono (O3)
+8 horas promedio
+0,08 ppm (157 µg/m3) Primario y secundario
+Plomo (Pb)
+Promedio cuatrimestral
+1,5 µg/m3
+Primario y secundario
+Partículas (PM 10) 
+Partículas con diámetro de 10 micras o menos
+Media aritmética anual
+50 µg/m3
+Primario y secundario
+24 horas promedio
+150 µg/m3
+Primario y secundario
+Partículas (PM 2,5) 
+Partículas diámetro de con 2,5 micras o menos
+Media aritmética anual
+15 µg/m3
+Primario y secundario
+24 horas promedio
+65 µg/m3
+Primario y secundario
+Dióxido de azufre (SO2)
+Media aritmética anual
+0,03 ppm (80 µg/m3)
+Primario
+24 horas promedio
+0,14 ppm (365 µg/m3)
+Primario
+3 horas promedio
+0,50 ppm (1300 µg/
+m3) 
+Secundario
+TABLA 2 
+Valores límite para contaminantes presentes en aire ambiente
+Contaminante
+Periodo de 
+promedio
+Valor límite
+Margen de tolerancia
+Fecha de cumplimiento del valor límite
+Dióxido de azufre
+1 hora
+350 µg/m3, valor que no podrá superarse 
+en más de 24 ocasiones por año civil.
+90 µg/m3, reduciendo el 1 de enero de 
+2003 y posteriormente cada 12 meses 
+30 µg/m3, hasta alcanzar el valor límite el 
+1 de enero de 2005
+1 de enero de 2005
+24 horas
+125 µg/m3, valor que no podrá superarse 
+en más de 3 ocasiones por año civil.
+Ninguno
+1 de enero de 2005
+Dióxido de nitrógeno 
+y óxidos de nitrógeno
+1 hora
+200 µg/m3 de NO2 que no podrán 
+superarse en más de 18 ocasiones por 
+año civil.
+80 µg/m3, reduciendo el 1 de enero de 
+2003 y posteriormente cada 12 meses 
+10 µg/m3, hasta alcanzar el valor límite el 
+1 de enero de 2010
+1 de enero de 2010
+1 año civil
+40 µg/m3 de NO2.
+16 µg/m3, reduciendo el 1 de enero de 
+2003 y posteriormente cada 12 meses 2 
+µg/m3, hasta alcanzar el valor límite el 1 
+de enero de 2010
+1 de enero de 2010
+Partículas (PM10) 
+(Fase I)
+24 horas
+50 µg/m3 de PM10. Que no podrán 
+superarse en más de 35 ocasiones por 
+año.
+15 µg/m3, reduciendo el 1 de enero de 
+2003 y posteriormente cada 12 meses 5 
+µg/m3, hasta alcanzar el valor límite el 1 
+de enero de 2005
+1 de enero de 2005
+1 año civil
+40 µg/m3 de PM10.
+4,8 µg/m3, reduciendo el 1 de enero de 
+2003 y posteriormente cada 12 meses 
+1,6 µg/m3, hasta alcanzar el valor límite 
+el 1 de enero de 2005
+1 de enero de 2005
+Partículas (PM10) 
+(Fase II)
+24 horas
+50 µg/m3 de PM10. Que no podrán supe- 
+rarse en más de 7 ocasiones por año.
+Se derivará de los datos y será 
+equivalente al valor límite de la fase I.
+1 de enero de 2010
+1 año civil
+20 µg/m3 de PM10.
+20 µg/m3, el 1 de enero de 2005, 
+reduciendo el 1 de enero de 2006 y 
+posterior mente cada 12 meses 4 µg/m3, 
+hasta al canzar el valor límite el 1 de 
+enero de 2010
+1 de enero de 2010
+
+Plomo
+1 año civil
+0,5 µg/m3.
+0,3 µg/m3, reduciendo el 1 de enero de 
+2003 y posteriormente cada 12 meses 
+0,1 µg/m3, hasta alcanzar el valor límite 
+el 1 de enero de 2005.
+0,5 µg/m3, en las inmediaciones de 
+fuentes específicas, notificadas, 
+reduciendo el 1 de enero de 2006 y 
+posteriormente cada 12 meses 0,1 µg/
+m3, hasta alcanzar el valor límite el 1 de 
+enero de 2010.
+1 de enero de 2005 o el 1 de enero de 
+2010, en las inmediaciones de fuentes 
+industriales específicas, situadas en 
+lugares contaminados a lo largo de 
+decenios de actividad industrial.
+Benceno
+Año civil
+5 µg/m3.
+5 µg/m3, reduciendo el 1 de enero de 
+2006 y posteriormente cada doce meses 
+1 µg/m3, hasta alcanzar el valor límite el 
+1 de enero de 2010
+1 de enero de 2010
+Monóxido de carbono
+Media de 8 
+horas máxima 
+en un día
+10 mg/m3.
+6 µg/m3, reduciendo el 1 de enero de 
+2003 y posteriormente cada doce meses 
+2 mg/m3, hasta alcanzar el valor límite el 
+1 de enero de 2005.
+1 de enero de 2005
+Ozono
+Valor medio en 
+8 horas
+110 µg/m3.
+-
+-
+Guías de calidad del aire
+La OMS (Organización mundial de la salud) ha preparado unas Guías para la Calidad del Aire (1999) como respuesta a la necesidad de emprender acciones y mejorar 
+la legislación y la gestión respecto a la contaminación ambiental a nivel local, regional y nacional.
+Estas guías proporcionan una base para proteger la salud pública de los efectos adversos de la contaminación ambiental, y para eliminar o reducir a un mínimo los 
+contaminantes que se sabe son peligrosos para la salud humana y el bienestar. El objetivo de las Guías de calidad del aire es proporcionar información básica y 
+orientación a los gobiernos para tomar decisiones de gestión de estos riesgos, particularmente para establecer estándares legales en el contexto del entorno existente 
+y de las condiciones, sociales, económicas y culturales.
+Los valores de las guías de la OMS son niveles de contaminación del aire por debajo de los cuales la exposición de por vida o la exposición durante un tiempo medio 
+dado no constituye un riesgo significativo para la salud; superarlos brevemente no significa que el efecto adverso se produzca automáticamente, pero sí se incrementa 
+el riesgo de tales efectos.
+Estos valores están basados en datos epidemiológicos y toxicológicos y se deducen de la relación exposición - respuesta característica de cada contaminante, 
+utilizando los conceptos de "Nivel sin efecto adverso observado" - "Nivel sin efecto observado" (NOAEL - NOEL) y de "Nivel con efecto adverso observado más bajo" - 
+"Nivel con efecto observado más bajo" (LOAEL - LOEL) a los que se aplican factores de seguridad en función de la incertidumbre de los datos. Para aquellos 
+contaminantes que no presentan un umbral para el efecto sobre la salud, como es el caso de cancerígenos y mutágenos, los valores se deducen de la 
+correspondiente relación exposición - riesgo. Cuando se trata de considerar los efectos para la salud de la contaminación del aire, no importa si el contaminante se 
+está inhalando en un interior o al aire libre, aunque el perfil de la contaminación normalmente existente en uno u otro caso sea diferente. Por este motivo, los valores 
+de la Guía de la OMS para calidad de aire son también una importante referencia para su aplicación al aire de ambientes interiores, en los cuales las personas pasan 
+la mayor parte del tiempo. No obstante, estos valores no tienen en cuenta los posibles efectos de la exposición combinada a varios contaminantes.
+En las tablas 2, 3 y 4 se recogen los valores contenidos en las Guías. En la tabla 2 se relacionan los valores correspondientes a los contaminantes considerados como 
+"clásicos" en aire mientras que en las tablas 3 y 4 se relacionan los valores de referencia para compuestos orgánicos e inorgánicos en aire, según sus efectos no 
+cancerígenos y cancerígenos, respectivamente, que incluyen algunos compuestos importantes desde el punto de vista de la contaminación en interiores.
+TABLA 3 
+Valores guía para "contaminantes clásicos", según la OMS, basados en efectos conocidos para la salud
+Compuesto
+Punto final sobre la salud
+Valor guía (µg/
+m3) 
+Tiempo de exposición
+Dióxido de azufre
+Cambios en la función pulmonar en asmáticos.
+Aumento de los síntomas respiratorios en individuos sensibles
+500
+10 minutos
+125
+24 horas
+50
+1 año
+Dióxido de nitrógeno Ligeros cambios de la función pulmonar en asmáticos
+200 (0,1 ppm)
+1 hora
+40 (0,02 ppm)
+1 año
+Monóxido de carbono Nivel crítico de COHb <2,5%
+100.000 (90 ppm)
+15 minutos
+60.000 (50 ppm)
+30 minutos
+30.000 (25 ppm)
+1 hora
+10.000 (10 ppm)
+8 horas
+Ozono
+Respuestas de la función respiratoria
+120
+8 horas
+Plomo
+Nivel crítico de Pb en sangre <100-150 •g Pb/I
+0,5
+1 año
+TABLA 4. 
+Valores guía para compuestos no cancerígenos, según la OMS, basados en efectos conocidos para la salud
+Compuesto
+Punto final sobre la salud
+Valor guía (µg/m3) Tiempo promedio
+Ácido acrílico
+Lesiones nasales en ratones
+54
+1 año
+Acetaldehído
+Irritación en humanos
+2.000
+24 horas
+Irritación relacionada con la carcinogenicidad en ratas
+50
+1 año
+Acroleina
+Irritación ocular en humanos
+50
+30 minutos
+2-Butoxietanol
+Hemotoxicidad en ratas
+13100
+1 semana
+Cadmio
+Efectos renales en la población
+5 x 10-3
+1 año
+1,4-diclorobenceno
+Aumento de peso del órgano y en las proteínas urinarias
+1.000
+1 año
+Diclorometano
+Formación de COHb en sujetos normales
+3.000
+24 horas
+Diesel (emisiones)
+Inflamación alveolar crónica en humanos
+5,6
+1 año
+Etilbenceno
+Aumento de peso del órgano
+22.000
+1 año
+Estireno
+Efectos neurológicos en trabajadores
+260
+1 semana
+Fluoruros
+Efectos sobre el ganado
+1
+1 año
+Formaldehído
+Irritación en humanos de nariz y garganta
+100
+30 minutos
+Manganeso
+Efectos neurotóxicos en trabajadores
+0,15
+1 año
+
+Metacrilato de metilo
+Cambios degenerativos en el epitelio olfativo de roedores
+200
+1 año
+Mercurio, inorgánico
+Efectos sobre el túbulo renal en humanos
+1
+1 año
+Monoclorobenceno
+Disminución del apetito, aumento del peso del órgano, lesiones y cambios en los parámetros 
+sanguíneos
+500
+1 año
+Sulfuro de carbono
+Cambios funcionales en el SNC de trabajadores
+100
+24 horas
+Sulfuro de hidrógeno
+Irritación ocular en humanos
+150
+24 horas
+Tetracloroetileno
+Efectos sobre el riñón en trabajadores
+250
+24 horas
+Tetracloruro de carbono Hepatotoxicidad en ratas
+6,1
+1 año
+Tolueno
+Efectos sobre el sistema nervioso central en trabajadores
+260
+1 semana
+1,3,5-Triclorobenceno
+Metaplasia e hiperplasia del epitelio respiratorio en ratas
+200
+1 año
+1,2,4-Triclorobenceno
+Aumento de las porfirinas urinarias en ratas
+50
+1 año
+Vanadio
+Efectos respiratorios en trabajadores
+1
+24 horas
+Xilenos
+Efectos sobre el sistema nervioso central en voluntarios humanos
+4.800
+24 horas
+Neurotoxicidad en ratas
+870
+1 año
+Un caso especial: radón
+Dado que el radón está presente de forma natural en el medio ambiente y que, al mismo tiempo es un cancerígeno humano para el cual no existe un nivel de riesgo 
+cero, el establecimiento de niveles de acción a partir de los cuales tomar medidas correctoras es complejo y dificultoso. Como resultado de ello, los valores existentes 
+en distintos países son consecuencia de su problemática particular, de sus posibilidades y de la sensibilidad pública existente. Para los edificios de nueva construcción 
+la tendencia general es recomendar el seguimiento de códigos o prácticas de construcción, adaptadas a las características de cada lugar, que limiten el nivel de radón.
+Existe una Recomendación de la Comisión de 21 de febrero de 1990 relativa a la protección de la población contra los peligros de una exposición al radón en el 
+interior de edificios (90/143/Euratom) de DOCE de 27.3.90. En ella se establece, por lo que respecta a los edificios ya existentes, que el nivel de referencia 
+corresponda a un equivalente de dosis efectiva de 20 mSv por año, lo que puede considerarse, a efectos prácticos, como el equivalente de una concentración media 
+anual de 400 Bq/m3.
+El RD 783/2001, de 6 de julio, por el que se aprueba el Reglamento sobre protección sanitaria contra radiaciones ionizantes, en su titulo VII, se refiere a las 
+exposiciones a fuentes naturales de radiación. Concretamente a actividades laborales en que los trabajadores y, en su caso, los miembros del público estén expuestos 
+a la inhalación de descendientes de torón o de radón o a la radiación gamma o cualquier otra exposición en lugares de trabajo tales como establecimientos termales, 
+cuevas, minas, lugares subterráneos o no subterráneos en áreas identificadas. En estas actividades laborales, la autoridad competente con el asesoramiento del 
+Consejo de Seguridad Nuclear, debe requerir a los titulares de las mismas, que realicen los estudios necesarios a fin de determinar si existe un incremento significativo 
+de la exposición de los trabajadores o de los miembros del publico que no pueda considerarse despreciable desde el punto de vista de la protección radiológica.
+El Consejo de Seguridad Nuclear (CSN) en base a los resultados de los estudios citados anteriormente que le serán remitidos por la autoridad competente, definirá 
+aquellas actividades que deban poseer dispositivos adecuados de vigilancia de las exposiciones y, cuando sea necesario, establecerá la aplicación de acciones 
+correctoras, medidas de protección radiológica y el régimen de declaración y autorización.
+En la actualidad todavía no se ha establecido por parte del CSN la relación de actividades sujetas a estudio por riesgo de exposición a fuentes de radiación natural, 
+por lo que no se dispone de directrices de cara a la aplicación de medidas correctoras y de protección radiológica. El Reglamento indica que si se supera el límite de 
+dosis para la población no expuesta laboralmente, que es de 1 mSv/año oficial (365 días), debería considerarse que hay riesgo de exposición a radiaciones ionizantes 
+y en consecuencia adoptarse medidas de protección radiológica. Estas medidas estarían graduadas en función del nivel de dosis esperable (entre 1 y 6 mSv/año o 
+superior a 6 mSv/año) y consistirían básicamente, en la evaluación de las dosis (ambientales e individuales), vigilancia específica de la salud del personal expuesto, 
+señalización y la no presencia de embarazadas.
+En consecuencia, el objetivo a lograr, será mantener la exposición siempre por debajo del límite de dosis para la población no expuesta de 1 mSv/año oficial. Ello 
+correspondería, a tenor de la equivalencia sugerida por la Recomendación de la Comisión citada, a no sobrepasar, en promedio, los 40 Bq/m3 para una exposición 
+continuada.
+TABLA 5 
+Valores guía para compuestos cancerígenos, según la OMS
+Compuesto
+Punto final sobre la salud
+Unidad de riesgo (a)
+Clasificación según la  IARC (b)
+Acetaldehído
+Tumores nasales en ratas
+(1,5-9) x 10-7
+2B
+Acrilonitrilo
+Cáncer de pulmón en trabajadores
+2 x 10-5
+2A
+Arsénico
+Cáncer de pulmón en humanos expuestos
+1,5 x 10-3
+1
+Benceno
+Leucemia en trabajadores expuestos
+(4,4-7,5) x 10-5
+1
+Benzo[a]pireno
+Cáncer de pulmón en ratas
+8,7 x 10-2
+1
+Bis(clorometil)éter
+Epiteliomas en ratas
+8,3 x 10-3
+1
+Cloroformo
+Tumores de riñón en ratas
+4,2 x10-7
+2B
+Cloruro de vinilo
+Hemangiosarcoma en trabajadores expuestos. 
+Cáncer de hígado en trabajadores expuestos
+1 x 10-6
+1
+Cromo (VI)
+Cáncer de pulmón en trabajadores expuestos
+(1,1-13) x 10-2
+1
+1,2-Dicloroetano
+Formación de tumores en roedores
+(0,5-2,8) x 10-6
+2B
+Diesel (emisiones)
+Cáncer de pulmón en ratas
+(1,6-7,1) x 10-6
+2A
+HAP (BaP) (c)
+Cáncer de pulmón en ratas
+8,7 x 10-2
+1
+Humo de tabaco
+Cáncer de pulmón en humanos expuestos
+10-3
+-
+1,1,2,2-Tetracloroetano Carcinomas hepatocelulares en ratones
+(0,6-3,0) x 10-6
+3
+Tricloroetileno
+Tumores celulares en pruebas con ratas
+4,3 x 10-7
+2A
+(a) Riesgo adicional de contraer cáncer, estimado a partir de una exposición de por vida a una concentración de 1 µg/m3 del agente cancerígeno. 
+(b) Internacional Agency for Research on Cancer. 
+(c) HAP (BaP): Hidrocarburos aromáticos policíclicos. (Benzo(a)pireno)
+Bibliografía
+1.  AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIAL HYGIENISTS 
+2002 TLVs and Beis. Threshold Limit Values for Chemical Substances and Physical Agents and Biological Exposure Indices. 
+ACHIH, Cincinnati, 2002.
+2.  COMISIÓN DE LAS COMUNIDADES EUROPEAS. 
+Recomendación de la Comisión de 21-2-1990 relativa a la protección de la población contra los peligros de una exposición a radón en el interior de edificios, 
+(90/143/Euratom). D.O.C.E. L80, 26-28.
+3.  ORGANIZACIÓN MUNDIAL DE LA SALUD 
+Guidelines for Air Quality. 
+
+WHO, Geneva, Switzerland. 2000.
+4.  U.S. ENVIRONMENTAL PROTECTION AGENCY 
+National Ambient Air Quality Standards (NAAQS) 
+Research Triangle Park, North Carolina, USA. 1984. 
+5.  REAL DECRETO 1494/1995, de 8 de septiembre, por el que se establece un sistema de vigilancia y de intercambio de información entre administraciones 
+públicas en relación con la contaminación atmosférica por ozono. (BOE de 26 de septiembre).
+6.  REAL DECRETO 783/2001, de 6 de julio, por el que se aprueba el Reglamento sobre protección sanitaria contra radiaciones ionizantes (BOE de 26 de julio).
+7.  REAL DECRETO 1073/2002, de 18 de octubre, sobre evaluación y gestión de la calidad del aire ambiente en relación con el dióxido de azufre, dióxido de 
+nitrógeno, óxidos de nitrógeno, partículas, plomo, benceno y monóxido de carbono. (BOE de 30 de octubre).
+   © INSHT
