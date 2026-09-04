@@ -3,6 +3,16 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Cuándo una técnica entra en un examen de salud](#cuándo-una-técnica-entra-en-un-examen-de-salud)
+- [Electrocardiograma](#electrocardiograma)
+- [Control biológico · NTP 586](#control-biológico--ntp-586)
+- [Venoclisis y la única cifra obligatoria](#venoclisis-y-la-única-cifra-obligatoria)
+- [Qué hace la enfermería del trabajo](#qué-hace-la-enfermería-del-trabajo)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Cuándo una técnica entra en un examen de salud
@@ -21,7 +31,7 @@ Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 - **No es una prueba de cribado general**: se justifica por el riesgo o por la aptitud para tareas de
   especial exigencia.
 
-| | ECG del examen de salud | Monitorización de la frecuencia cardiaca en el puesto |
+| | Electrocardiograma (**ECG**) del examen de salud | Monitorización de la frecuencia cardiaca en el puesto |
 |---|---|---|
 | Dónde | En consulta, **en reposo** | **En el puesto, trabajando** |
 | Qué valora | **A la persona** | **A la tarea** |

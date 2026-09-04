@@ -3,6 +3,16 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Objetivos](#objetivos)
+- [Ocho características](#ocho-características)
+- [Art. 22 de la Ley 31/1995](#art-22-de-la-ley-311995)
+- [Art. 37.3 del RD 39/1997](#art-373-del-rd-391997)
+- [Trabajadores especialmente sensibles · art. 25](#trabajadores-especialmente-sensibles--art-25)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Objetivos

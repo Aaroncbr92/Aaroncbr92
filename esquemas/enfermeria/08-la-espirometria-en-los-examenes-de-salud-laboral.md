@@ -3,6 +3,18 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Anclaje legal](#anclaje-legal)
+- [Qué es y qué mide](#qué-es-y-qué-mide)
+- [Indicaciones (las tres de la nota técnica)](#indicaciones-las-tres-de-la-nota-técnica)
+- [Datos previos y técnica](#datos-previos-y-técnica)
+- [Criterio de calidad](#criterio-de-calidad)
+- [Interpretación](#interpretación)
+- [Los hallazgos sobre la propia nota técnica](#los-hallazgos-sobre-la-propia-nota-técnica)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Anclaje legal
@@ -65,6 +77,8 @@ durante la vida laboral · **evaluación legal de las neumoconiosis**.
   fórmulas de mujeres **no son las de varones con otro número**.
 - **Umbral general**: se considera normal a partir del **80 %** del valor teórico.
 - **Las tablas de referencia son anglosajonas** y sobreestiman en población mediterránea.
+
+Con las abreviaturas de la nota (N normal, D descendido, **DD** muy descendido):
 
 | Parámetro | Obstructivo | Restrictivo |
 |---|---|---|

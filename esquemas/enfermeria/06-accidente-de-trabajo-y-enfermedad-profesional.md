@@ -3,9 +3,19 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Accidente de trabajo · art. 156 LGSS](#accidente-de-trabajo--art-156-lgss)
+- [Notificación e investigación del accidente](#notificación-e-investigación-del-accidente)
+- [Enfermedad profesional · art. 157 LGSS](#enfermedad-profesional--art-157-lgss)
+- [Notificación de la enfermedad profesional · CEPROSS](#notificación-de-la-enfermedad-profesional--cepross)
+- [Investigar una enfermedad profesional](#investigar-una-enfermedad-profesional)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
-## Accidente de trabajo · art. 156 LGSS
+## Accidente de trabajo · art. 156 de la Ley General de la Seguridad Social (**LGSS**)
 
 **Toda lesión corporal que el trabajador sufra con ocasión o por consecuencia del trabajo que ejecute
 por cuenta ajena.**
@@ -47,7 +57,7 @@ por cuenta ajena.**
   identificar causas en los tres niveles → medidas con responsable y plazo → **devolver el resultado a
   la evaluación de riesgos**.
 
-## Enfermedad profesional · art. 157 LGSS
+## Enfermedad profesional · art. 157 de la ley
 
 **Tres requisitos acumulativos**: trabajo **por cuenta ajena** · **actividad** que figure en el cuadro
 · **agente** que el cuadro indique para ella. **No basta con la enfermedad.**

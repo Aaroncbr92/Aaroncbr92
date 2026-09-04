@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Qué es promover la salud · art. 16 de la Ley 33/2011](#qué-es-promover-la-salud--art-16-de-la-ley-332011)
+- [Dónde está escrito](#dónde-está-escrito)
+- [Ámbitos de actuación](#ámbitos-de-actuación)
+- [Las cuatro etapas de la planificación programática](#las-cuatro-etapas-de-la-planificación-programática)
+- [Criterios de buena práctica](#criterios-de-buena-práctica)
+- [Lo que el tema declara que no da](#lo-que-el-tema-declara-que-no-da)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Qué es promover la salud · art. 16 de la Ley 33/2011

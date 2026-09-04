@@ -1938,7 +1938,8 @@ BLOQUES = {
 # los números que este temario puede tener.
 LETRA = {2: "Dos", 3: "Tres", 4: "Cuatro", 5: "Cinco", 6: "Seis", 7: "Siete",
          8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 13: "Trece",
-         17: "Diecisiete", 18: "Dieciocho", 31: "Treinta y un"}
+         17: "Diecisiete", 18: "Dieciocho", 21: "Veintiún", 25: "Veinticinco",
+         31: "Treinta y un"}
 
 
 def con_letra(n):

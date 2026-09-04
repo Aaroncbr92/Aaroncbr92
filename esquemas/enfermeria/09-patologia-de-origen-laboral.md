@@ -3,6 +3,19 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Dónde está escrita](#dónde-está-escrita)
+- [Hipoacusia por ruido · RD 286/2006](#hipoacusia-por-ruido--rd-2862006)
+- [Audiometrías](#audiometrías)
+- [Alteraciones oftalmológicas](#alteraciones-oftalmológicas)
+- [Polvos minerales y fibras · grupo 4 del cuadro](#polvos-minerales-y-fibras--grupo-4-del-cuadro)
+- [Enfermedades pulmonares ocupacionales](#enfermedades-pulmonares-ocupacionales)
+- [Técnicas de enfermería](#técnicas-de-enfermería)
+- [El hallazgo sobre el cuadro](#el-hallazgo-sobre-el-cuadro)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Dónde está escrita
