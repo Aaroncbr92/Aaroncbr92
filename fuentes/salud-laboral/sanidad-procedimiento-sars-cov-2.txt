@@ -1,0 +1,1035 @@
+                                                                  
+ 
+1 
+ 
+ 
+ 
+PROCEDIMIENTO DE ACTUACIÓN PARA LOS 
+SERVICIOS DE PREVENCIÓN DE RIESGOS 
+LABORALES FRENTE A LA EXPOSICIÓN AL  
+SARS-CoV-2 
+6 de junio de 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+         
+                  
+ 
+ 
+ 
+Las recomendaciones incluidas en el presente documento están en continua revisión en función de la 
+evolución y nueva información que se disponga de la infección por el nuevo coronavirus (SARS-CoV-2) 
+ 
+
+                                                                  
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+COORDINACIÓN 
+ 
+Subdirección General de Sanidad Ambiental y Salud Laboral.  
+Dirección General de Salud Pública. 
+ 
+Aprobado por la Ponencia de Salud Laboral y por la Comisión de Salud Pública del CISNS. 
+ 
+ 
+HAN PARTICIPADO EN LA REDACCIÓN: 
+ 
+Ministerio de Trabajo y Economía Social. Instituto Nacional de Seguridad y Salud en el Trabajo (INSST).  
+ 
+Ministerio de Inclusión, Seguridad Social y Migraciones. Instituto Nacional de la Seguridad Social (INSS). 
+ 
+Ministerio de Trabajo y Economía Social. Inspección de Trabajo y Seguridad Social (ITSS).  
+ 
+Asociación Nacional de Medicina del Trabajo en el Ámbito Sanitario (ANMTAS).  
+Asociación Española de Especialistas en Medicina del Trabajo (AEEMT).  
+Sociedad Española de Medicina y Seguridad en el Trabajo (SEMST).    
+Sociedad Española de Salud Laboral en la Administración Pública (SESLAP).    
+Asociación de Especialistas en Enfermería del Trabajo (AET). 
+Federación Española de Enfermería del Trabajo (FEDEET). 
+ 
+Asociación Española de Servicios de Prevención Laboral (AESPLA). 
+ 
+ 
+
+                                                                  
+ 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+CONTROL DE REVISIONES Y MODIFICACIONES  
+ 
+Nº Revisión  
+Fecha  
+Descripción de modificaciones  
+1  
+28/02/2020  
+Edición inicial.  
+2  
+24/03/2020  
+Añadir definiciones de la Tabla 1. 
+Definición especial sensibilidad y especial vulnerabilidad. 
+Estudio y manejo de contactos y personal sintomático. 
+Colaboración en la gestión de la Incapacidad Temporal. 
+Medidas excepcionales ante la posible escasez de EPI. 
+3  
+30/03/2020  
+Adecuación del procedimiento al cambio de definición de caso.  
+Modelos de informe para la comunicación de contacto estrecho y 
+especial sensibilidad por parte del servicio de prevención (Anexo 1). 
+Optimización del uso de del uso de mascarillas, ropa de protección y 
+guantes (anexo III). 
+4 
+08/04/2020 
+Adecuación del procedimiento al cambio de definición de caso.  
+Nota interpretativa de la aplicación de los escenarios de riesgo de 
+exposición de la Tabla 1 en los lugares de trabajo.  
+Guía de actuación para la gestión de la vulnerabilidad y el riesgo en el 
+ámbito sanitario y sociosanitario (Anexo IV). 
+Guía de actuación para la gestión de la vulnerabilidad y el riesgo en 
+ámbitos no sanitarios o sociosanitarios (Anexo V). 
+5 
+30/04/2020 
+Actualización del  modelo de informe para la comunicación de contacto 
+estrecho y especial sensibilidad por parte del servicio de prevención 
+(Anexo 1). 
+6 
+22/05/2020 
+Adecuación del procedimiento a la nueva Estrategia de diagnóstico, 
+vigilancia y control en la fase de transición de la pandemia de COVID-19. 
+Actualización de Trabajador Especialmente Sensible y Anexos IV y V. 
+7 
+8/06/2020 
+Incorporación novedad legislativa: consideración de la COVID-19 como 
+accidente de trabajo. 
+Modelo de informe para la comunicación del SPRL a la Mutua 
+colaboradora de la Seguridad Social. 
+8 
+19/06/2020 
+Adecuación a los cambios en la Estrategia de detección precoz, vigilancia 
+y control de COVID-19 16.06.2020  
+Adecuación a las medidas del Real Decreto-ley 21/2020, de 9 de junio, de 
+medidas urgentes de prevención, contención y coordinación para hacer 
+frente a la crisis sanitaria ocasionada por el COVID-19. 
+9 
+06/07/2020 
+Cambio en la distancia física a 1,5 metros en los escenarios de riesgo de 
+exposición, acorde a las medidas del Real Decreto-ley 21/2020, de 9 de 
+junio, de medidas urgentes de prevención, contención y coordinación 
+para hacer frente a la crisis sanitaria ocasionada por el COVID-19. 
+10 
+14/07/2020 
+Adecuación a los cambios en la Estrategia de detección precoz, vigilancia 
+y control de COVID-19 16.06.2020  
+11 
+7/10/2020 
+Adecuación a los cambios en la Estrategia de detección precoz, vigilancia 
+y control de COVID-19 25.09.2020, fundamentalmente en lo referido a la 
+duración de la cuarentena y a las pruebas diagnósticas de infección activa 
+por SARS-CoV-2 (PDIA). 
+12 
+21/12/2020 
+Adecuación a los cambios en la Estrategia de detección precoz, vigilancia 
+y control de COVID-19 y a la Evaluación del riesgo de la transmisión de 
+SARS-CoV-2 mediante aerosoles.  
+Cambio en la Tabla 1. Escenarios de riesgo de exposición. 
+Supresión del Anexo III. 
+
+                                                                  
+ 
+4 
+13 
+10/02/2021 
+Actualización del apartado 7, de Colaboración en la gestión de la 
+incapacidad temporal, en 2 aspectos: 
+ Re-evaluación de trabajadores especialmente sensibles en 
+incapacidad temporal próximos al agotamiento de los 365 días. 
+ Concordancia con el cambio en la contingencia de las prestaciones 
+del personal sanitario o socio-sanitario que haya contraído el virus 
+SARS-CoV2 en el ejercicio de su profesión establecido en el artículo 6 
+del Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan 
+medidas para la reducción de la brecha de género y otras materias en 
+los ámbitos de la Seguridad Social y económico. 
+Introducción del apartado “personas vacunadas”. 
+14 
+22/06/2021 
+Adecuación a los cambios en la Estrategia de detección precoz, vigilancia 
+y control de COVID-19. 
+Actualización de los Anexos IV y V para personas vacunadas. 
+15 
+06/07/2021 
+Adecuación a los cambios en la Estrategia de detección precoz, vigilancia 
+y control de COVID-19. 
+16 
+16/07/2021 
+Criterios de realización de cuarentena para los contactos completamente 
+vacunados. 
+17 
+18/11/2021 
+Revisión de las medidas preventivas en el contexto actual de la pandemia.
+Incorporación del apartado long-covid. 
+Reducción del apartado 7. Detección, notificación, estudio y manejo de 
+casos y contactos. 
+18 
+01/02/2022 
+Incorporación de la Adaptación de la estrategia de detección precoz, 
+vigilancia y control de COVID-19 en periodo de alta transmisión 
+comunitaria, de fecha 30.12.2021. 
+19 
+20/04/2022 
+Adaptación al contexto epidemiológico y de inmunidad de la población y 
+a la Nueva Estrategia de Vigilancia y Control frente a Covid-19 tras la fase 
+aguda de la pandemia, de fecha 23.03.2022.  
+Supresión de los apartados Personas vacunadas, Cribados, parte del 
+Anexo I y Anexo II. 
+Modificación del Anexo III. 
+20 
+05/05/2022 
+Precisión en el apartado 7. Colaboración en la gestión de la incapacidad 
+temporal. 
+Modificación del apartado 3.3. Medidas de protección personal. 
+Añadir en Anexo I modelo de informe para que quede acreditada la 
+indicación de teletrabajo. 
+21 
+06/06/2022 
+Modificación de los requisitos de incorporación al trabajo de las personas 
+caso confirmado que trabajan en áreas asistenciales de centros sanitarios, 
+centros sociosanitarios, centros penitenciarios y otros centros con 
+personas institucionalizadas y los/as trabajadores/as que prestan apoyo y 
+cuidados a personas vulnerables, en los apartados 6 y 7. 
+Adaptación a la Estrategia de Vigilancia y Control frente a Covid-19 tras la 
+fase aguda de la pandemia, de fecha 03.06.2022. 
+ 
+ 
+ 
+
+                                                                  
+ 
+5 
+ 
+ 
+ 
+INDICE 
+ 
+1. CUESTIONES GENERALES .............................................................................................................. 6 
+2. NATURALEZA DE LAS ACTIVIDADES Y EVALUACIÓN DEL RIESGO DE EXPOSICIÓN ....................... 6 
+3. MEDIDAS DE PREVENCIÓN ............................................................................................................ 7 
+3.1. Medidas de carácter organizativo ......................................................................................... 7 
+3.2. Medidas de protección colectiva .......................................................................................... 7 
+3.3. Medidas de proteccion personal ........................................................................................... 7 
+4. ÁMBITO VULNERABLE, PERSONAS Y GRUPOS VULNERABLES. TRABAJADOR ESPECIALMENTE 
+SENSIBLE ............................................................................................................................................. 9 
+5. CONDICIÓN POST COVID-19 ....................................................................................................... 10 
+6. DETECCIÓN, NOTIFICACIÓN, ESTUDIO Y MANEJO DE CASOS Y CONTACTOS ............................. 11 
+7. COLABORACIÓN EN LA GESTIÓN DE LA INCAPACIDAD TEMPORAL ............................................ 12 
+7.1. Personal que presta servicio en centros sanitarios o socio-sanitarios ................................ 13 
+8. COLABORACIÓN CON LA INSPECCIÓN DE TRABAJO Y SEGURIDAD SOCIAL ................................ 13 
+ANEXO I ............................................................................................................................................ 15 
+MODELOS DE INFORMES.................................................................................................................. 15 
+1. 
+CASO CONFIRMADO ............................................................................................................ 15 
+2. 
+ESPECIAL SENSIBILIDAD. NECESIDAD DE IT. ........................................................................ 16 
+3. 
+ESPECIAL SENSIBILIDAD. NO HAY NECESIDAD DE IT. .......................................................... 17 
+4. 
+INFORME PARA VALORACIÓN DE CONTINGENCIA PROFESIONAL DERIVADA DE ACCIDENTE 
+DE TRABAJO ................................................................................................................................ 18 
+ANEXO II. GUÍA DE ACTUACIÓN PARA LA GESTIÓN DE LA VULNERABILIDAD Y EL RIESGO ............. 20 
+BIBLIOGRAFÍA .............................................................................................................................. 21 
+ 
+ 
+ 
+
+                                                                  
+ 
+6 
+ 
+1. CUESTIONES GENERALES 
+ 
+Los altos niveles de inmunidad alcanzados en la población española, tanto por la alta cobertura de 
+vacunación (más del 92% de la población española mayor de 12 años se encuentra vacunada con pauta 
+completa) como por el gran número de infecciones, las características de la variante Ómicron que circula 
+actualmente, y la mayor realización de pruebas diagnósticas, han determinado un cambio en la 
+epidemiología de la COVID-19 que apoya la transición hacia una estrategia diferente que vigile y dirija 
+las actuaciones a personas y ámbitos de mayor vulnerabilidad y monitorice los casos de COVID-19 graves 
+y en ámbitos y personas vulnerables.  
+Así, con fecha 1 de marzo de 2022 la Comisión de Salud Pública acordó eliminar la recomendación de 
+cuarentena a todos los contactos estrechos a nivel comunitario y dirigir las actuaciones hacia la 
+recomendación de medidas preventivas que sirvan para proteger a la población más vulnerable, y  con 
+fecha 23 de marzo de 2022, se publicó la nueva Estrategia de vigilancia y control frente a COVID-19 tras 
+la fase aguda de la pandemia (actualizada el 3 de junio de 2022). 
+En el contexto epidemiológico y de inmunidad de la población, parece adecuado actualizar también la 
+intervención de las empresas, a través de los servicios de prevención (SPRL), para reducir la transmisión, 
+a la vez que se mantiene la protección a las personas vulnerables y así ir recuperando la normalidad en 
+aquellos contextos en los que se estime que el balance riesgo beneficio pueda justificarlo.   
+La información y la formación continúan siendo fundamentales, así como la higiene personal, la higiene 
+de los lugares de trabajo y la correcta ventilación de los lugares de trabajo y espacios interiores. Las 
+políticas de limpieza y desinfección de lugares y equipos de trabajo, son importantes medidas 
+preventivas. 
+ 
+2. NATURALEZA DE LAS ACTIVIDADES Y EVALUACIÓN DEL RIESGO DE 
+EXPOSICIÓN 
+ 
+Cualquier toma de decisión sobre las medidas preventivas a adoptar en cada empresa deberá basarse 
+en información recabada mediante la evaluación del riesgo de exposición, que se realizará siempre en 
+consonancia con la información aportada por las autoridades sanitarias y en el marco legal de la 
+prevención de riesgos laborales.  En este proceso, se consultará a los trabajadores y se considerarán sus 
+propuestas.  
+ 
+ 
+ 
+
+                                                                  
+ 
+7 
+ 
+3. MEDIDAS DE PREVENCIÓN 
+ 
+3.1. 
+Medidas de carácter organizativo 
+• 
+Si es posible, evitar la coincidencia masiva de personas, tanto trabajadores como clientes o 
+usuarios, en los centros de trabajo durante las franjas horarias de previsible mayor afluencia. En 
+los períodos de descanso también debe contemplarse esta medida. 
+• 
+Potenciar el teletrabajo para el desarrollo de aquellas actividades cuya naturaleza lo permita. 
+Valorar la adopción de opciones de trabajo mixtas para aquellas actividades que no requieran 
+una presencia continua en el centro de trabajo.  
+• 
+En desplazamientos en vehículos compartidos, utilizar la mascarilla y garantizar la entrada de 
+aire exterior.  
+ 
+ 
+3.2. 
+Medidas de protección colectiva  
+• 
+Adoptar medidas de ventilación1,2, limpieza y desinfección adecuadas a las características e 
+intensidad de uso de los centros de trabajo.  
+• 
+Poner a disposición de los trabajadores agua y jabón, o geles hidroalcohólicos o desinfectantes 
+con actividad virucida, autorizados y registrados por el Ministerio de Sanidad para la limpieza de 
+manos. 
+ 
+ 
+3.3. 
+Medidas de protección personal 
+La forma óptima de prevenir la transmisión es usar una combinación de todas las medidas 
+preventivas, no solo Equipos de Protección Individual (EPI). La aplicación de una combinación de 
+medidas de control puede proporcionar un grado adicional de protección. 
+En la mayor parte de las exposiciones laborales la aplicación estricta de las medidas de higiene de 
+manos, superficies y equipos, junto con las medidas de protección respiratoria (etiqueta respiratoria 
+y uso continuado y correcto de la mascarilla) y ventilación, minimiza la trasmisión de la infección.  
+El uso de mascarilla reduce la emisión de aerosoles generados al respirar, hablar, gritar, toser o 
+estornudar y es eficaz para reducir la emisión de cualquier virus respiratorio, incluido SARS-CoV-2. 
+Además, el uso de mascarilla reduce la exposición al virus, al filtrar el aire inhalado a través de ella. 
+No obstante, en el entorno laboral y de manera general, no resultará preceptivo el uso de mascarilla. 
+La evaluación de riesgos del puesto de trabajo será la actividad que permitirá tomar una decisión 
+                                                          
+1 Recomendaciones de operación y mantenimiento de los sistemas de climatización y ventilación de edificios y locales 
+para la prevención de la propagación del sars-cov-2: 
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Recomendaciones_de_o
+peracion_y_mantenimiento.pdf 
+2 Evaluación del riesgo de la transmisión de sars-cov-2 mediante aerosoles. medidas de prevención y recomendaciones: 
+https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/COVID19_Aerosoles.pdf 
+ 
+
+                                                                  
+ 
+8 
+sobre las medidas preventivas adecuadas que deben implantarse, incluido el posible uso de 
+mascarillas si así se derivara de la misma. 
+En el contexto epidemiológico y de inmunidad actual, se indica el uso obligatorio de la mascarilla en: 
+ Trabajadores de centros, servicios y establecimientos sanitarios según lo establecido en el 
+Real Decreto 1277/2003. 
+ Trabajadores de centros socio-sanitarios. 
+ Trabajadores de medios de transporte de personas.  
+Y el uso responsable de la mascarilla en: 
+ Personas trabajadoras de grupos vulnerables en cualquier situación en la que tenga contacto 
+prolongado con personas a distancia menor de 1,5 metros. 
+ Personas trabajadoras relacionadas con ámbitos vulnerables, institucionalizadas o en 
+domicilios. 
+Los servicios de prevención de riesgos laborales asesorarán al empresario o empresaria y se debe 
+recabar la opinión de responsables, mandos intermedios y representantes de las personas 
+trabajadoras. En la evaluación de riesgos se tendrán en cuenta los siguientes elementos: 
+- Ventilación adecuada 
+- Nivel de ocupación 
+- Mantenimiento de distancia interpersonal de 1,5 metros 
+- Tiempo de permanencia  
+- Actividad 
+- Utilización de espacios comunes (vestuarios, comedores, etc.) 
+- Existencia de personas vulnerables en el puesto de trabajo 
+Para una mayor información sobre los elementos arriba citados, se recomienda consultar la 
+información científico-técnica sobre la efectividad de las medidas preventivas para el control de la 
+transmisión3 y los documentos publicados por el Ministerio de Sanidad en relación a transmisión del 
+SARS-CoV-2 mediante aerosoles y recomendaciones de operación y mantenimiento de los sistemas 
+de climatización de edificios y locales para la prevención de la propagación del SARS-CoV-2, citados 
+anteriormente. 
+ 
+                                                          
+3 Información científico-técnica sobre la efectividad de las medidas preventivas para el control de la transmisión: 
+https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Documento_MEDIDA
+S.pdf 
+ 
+
+                                                                  
+ 
+9 
+ 
+4. ÁMBITO VULNERABLE, PERSONAS Y GRUPOS VULNERABLES. TRABAJADOR 
+ESPECIALMENTE SENSIBLE 
+ 
+Con el aumento de la cobertura de vacunación y la inmunidad generada a partir de infecciones 
+naturales, se considera que la mayoría de la población está protegida contra la COVID-19 grave. Sin 
+embargo, todavía habrá sectores de la población que seguirán siendo vulnerables pudiendo desarrollar 
+cuadros graves, como las personas de edad avanzada, las personas con enfermedades subyacentes 
+graves y los inmunocomprometidos que no hayan desarrollado una inmunidad suficiente contra el SARS-
+CoV-2. 
+Con la evidencia científica disponible en marzo de 2022 (Información científico-técnica sobre el COVID-
+19, del Ministerio de Sanidad; ECDC; CDC), se considerarán las siguientes definiciones: 
+Ámbitos vulnerables: centros, servicios y establecimientos sanitarios, centros sociosanitarios y centros 
+de día que prestan asistencia sociosanitaria, centros penitenciarios y otros centros con personas 
+institucionalizadas.  
+Personas relacionadas con ámbitos vulnerables: Personas que residen o acuden, están ingresadas o 
+trabajan en ámbitos vulnerables, así como trabajadores que prestan apoyo y cuidado a personas 
+vulnerables (institucionalizadas o en domicilios). 
+Grupos Vulnerables: personas de 60 años o más, inmunodeprimidos por causa intrínseca o extrínseca y 
+embarazadas.  
+El servicio sanitario del SPRL debe evaluar la presencia de personal trabajador especialmente sensible en 
+relación a la infección de coronavirus SARS-CoV-2, establecer la naturaleza de especial sensibilidad de la 
+persona trabajadora y emitir informe sobre las medidas de prevención, adaptación y protección. Para 
+ello, tendrá en cuenta la existencia o inexistencia de unas condiciones que permitan realizar el trabajo 
+sin elevar el riesgo propio de la condición de salud de la persona trabajadora.  
+En el Anexo II se ofrece una Guía de actuación para la gestión de la vulnerabilidad y el riesgo, para que el 
+área sanitaria del servicio de prevención pueda orientar sus recomendaciones respecto a la especial 
+sensibilidad de la persona trabajadora, valorando cada caso y emitiendo las recomendaciones que 
+estime más ajustadas al mismo. 
+ 
+ 
+
+                                                                  
+ 
+10 
+ 
+5. CONDICIÓN POST COVID-19 
+ 
+Un porcentaje de personas refieren síntomas prolongados y recurrentes, durante semanas o meses, tras 
+el primer episodio de COVID-19, independientemente de la gravedad de éste. La OMS ha definido por 
+consenso esta entidad y ha elegido el nombre de condición post COVID-19 frente a las múltiples 
+denominaciones empleadas hasta el momento: COVID persistente, COVID crónico, “Long COVID” 
+(terminologías más utilizadas en España), long-effects o long-term effects (en inglés) o symptômes 
+prolongés de la Covid-19 (en francés). 
+Se trata de una entidad que afecta a un gran número de personas y que, por tanto, está teniendo un 
+gran impacto sanitario y social en la pandemia. Además de la repercusión en la calidad de vida, la 
+condición post COVID-19 plantea muchos retos e incertidumbres en cuanto al diagnóstico y el 
+tratamiento. Es por ello que tanto los colectivos de pacientes, la comunidad científica internacional así 
+como las Instituciones y autoridades de salud pública están haciendo un llamamiento y un gran esfuerzo 
+para mejorar el conocimiento de la enfermedad, su incidencia, la atención clínica y las prestaciones 
+sociales de las personas afectadas. Puede consultarse la Información científico-técnica sobre el COVID-
+19, del Ministerio de Sanidad, para obtener más detalles sobre definición, síntomas y signos, incidencia y 
+población más afectada. 
+Por lo que se refiere a la vigilancia de la salud, los trabajadores y trabajadoras que hayan sido 
+diagnosticados de condición post COVID-19 una vez reincorporados a su puesto de trabajo, deben ser 
+valorados por el personal sanitario del servicio de prevención para determinar si requieren o no 
+adaptaciones en su puesto de trabajo en función de sus limitaciones. 
+La valoración será asimilable a un reconocimiento después de una ausencia prolongada por motivos de 
+salud, a los solos efectos de determinar, a partir de la evaluación de riesgos del puesto de trabajo y de la 
+nueva situación de salud de la persona, las necesidades preventivas que eviten que cualquier riesgo 
+presente en el lugar de trabajo pueda dañar o agravar el estado de salud de esa persona.  
+En su caso, el SPRL propondrá adaptar el puesto o las condiciones de trabajo a través de medidas de 
+protección y prevención para evitar el daño y facilitar la recuperación, siguiendo lo establecido en el 
+apartado 1.6. Valoración de la aptitud, de la Guía Básica y General de Vigilancia de la Salud para la 
+prevención de riesgos laborales, del Ministerio de Sanidad.     
+No se trata de emitir una aptitud médico-laboral para el puesto de trabajo, sino de proporcionar las 
+recomendaciones preventivas oportunas más convenientes para el trabajador y su actual estado de 
+salud.   
+Finalmente, con fecha 30/09/2021 se publicó el Criterio de gestión 25/2021 de la Subdirección General 
+de Ordenación y Asistencia Jurídica del INSS, sobre contingencia de la que deriva la prestación 
+económica por incapacidad temporal que traiga a causa del padecimiento del “síndrome post COVID-
+19.”  
+
+                                                                  
+ 
+11 
+ 
+ 
+6. DETECCIÓN, NOTIFICACIÓN, ESTUDIO Y MANEJO DE CASOS Y CONTACTOS  
+ 
+Las empresas, a través de los servicios de prevención, están llamadas a colaborar con las autoridades 
+sanitarias en la detección precoz de los casos compatibles con COVID-19 y sus contactos en ámbitos y 
+grupos vulnerables. La participación del personal sanitario de los servicios de prevención en la Red 
+Nacional de Vigilancia Epidemiológica con la recogida de información y la notificación de los casos 
+COVID-19 es una obligación, pero también una acción fundamental en el control y seguimiento de los 
+casos y de los contactos en estos ámbitos. 
+Los profesionales del servicio sanitario del servicio de prevención de riesgos laborales serán los 
+encargados de establecer los mecanismos para la detección, investigación y seguimiento de los casos y 
+contactos estrechos en el ámbito de sus competencias, de forma coordinada con las autoridades de 
+salud pública, siguiendo lo establecido en la Estrategia de Vigilancia y Control frente a Covid-19 tras la 
+fase aguda de la Pandemia.  
+De forma general, los casos confirmados leves y asintomáticos y los contactos estrechos, no realizaran ni 
+aislamiento ni cuarentena, respectivamente. Extremarán las medidas de protección como el uso de la 
+mascarilla, la adecuada higiene de manos y evitarán la interacción sin uso de mascarilla con personas 
+vulnerables, durante los 10 días posteriores al inicio de síntomas.  
+Las personas que trabajan en áreas asistenciales de centros sanitarios, centros sociosanitarios, centros 
+penitenciarios y otros centros con personas institucionalizadas y los/as trabajadores/as que prestan 
+apoyo y cuidados a personas vulnerables podrán reubicarse en áreas del centro de trabajo calificadas 
+como no vulnerables; si fuese posible, realizarán teletrabajo o tareas de gestión telefónica, etc. y, si todo 
+ello no fuese posible, no acudirán a su centro de trabajo durante los primeros 5 días desde el inicio de 
+síntomas o de la fecha de diagnóstico en caso de personas asintomáticas. Pasado este tiempo y siempre 
+que hayan transcurrido 24 horas tras la desaparición de los síntomas, se realizará una prueba de Ag y si 
+el resultado es negativo podrá volver a su lugar de trabajo habitual. En cualquier caso, a partir del 
+séptimo día desde el inicio de síntomas o desde la prueba positiva en caso de personas asintomáticas, y 
+siempre que el/la profesional esté asintomática o con síntomas residuales, se podrá incorporar a su 
+puesto de trabajo empleando las medidas preventivas necesarias según la valoración del servicio de 
+prevención de riesgos laborales. 
+Las Comunidades y las Ciudades Autónomas establecerán los procedimientos y circuitos a seguir en cada 
+caso. 
+ 
+ 
+
+                                                                  
+ 
+12 
+ 
+7. COLABORACIÓN EN LA GESTIÓN DE LA INCAPACIDAD TEMPORAL 
+ 
+En el contexto epidemiológico y de inmunidad actual de la población, resulta adecuado actualizar 
+también la colaboración en la gestión de la incapacidad temporal de los servicios de prevención. Para las 
+situaciones en que pueda proceder la emisión del parte de incapacidad temporal derivado de infección 
+por SARS-CoV-2 con su correspondiente codificación con el código U07.1 (CIE-10) o 079.82 (CIE-9), el 
+servicio sanitario del servicio de prevención elaborará informe para que quede acreditada la indicación 
+de teletrabajo o incapacidad temporal (IT) en los supuestos que se describen a continuación. Será 
+imprescindible confirmar el diagnóstico con PDIA positiva.  
+• 
+Persona trabajadora contacto estrecho: una vez acordada por la Comisión de Salud Pública la 
+eliminación de la recomendación de cuarentena a todos los contactos estrechos de un positivo a 
+nivel comunitario sin excepción, se esté o no vacunado, desde el 04/03/2022, no se deberán emitir 
+partes de baja por incapacidad temporal por contacto/sospecha de exposición COVID19. Sí puede 
+ser necesaria la realización de pruebas de seguimiento entre los trabajadores relacionados con 
+ámbitos vulnerables. 
+• 
+Persona trabajadora con síntomas compatibles: aquellos trabajadores que no tengan relación con 
+ámbitos vulnerables, siempre que sea posible y en caso de que no sea susceptible de una 
+incapacidad temporal por su sintomatología, se recomienda el teletrabajo o readaptación del 
+puesto de trabajo para evitar la interacción con grupos vulnerables. Es necesaria la realización de 
+PDIA entre los trabajadores relacionados con ámbitos vulnerables. 
+• 
+Persona trabajadora caso confirmado: aquellos trabajadores que no tengan relación con ámbitos 
+vulnerables, siempre que sea posible y en caso de que no sea susceptible de una incapacidad 
+temporal por su sintomatología, se recomienda el teletrabajo o readaptación del puesto de trabajo 
+para evitar la interacción con grupos vulnerables. Las personas que trabajan en áreas asistenciales 
+de centros sanitarios, centros sociosanitarios, centros penitenciarios y otros centros con personas 
+institucionalizadas y los/as trabajadores/as que prestan apoyo y cuidados a personas vulnerables, 
+seguirán lo establecido en el cuarto párrafo del apartado anterior (6) para solicitar incapacidad 
+temporal y/o para reincorporarse al trabajo habitual. 
+• 
+Personas trabajadoras con especial sensibilidad en relación a la infección de coronavirus SARS-CoV-
+2: se indicará incapacidad temporal si no existe posibilidad de teletrabajo, adaptación del puesto de 
+trabajo, protección adecuada que evite el contagio o reubicación en otro puesto exento de riesgo 
+de exposición al SARS-CoV-2. 
+En el Anexo I se aportan modelos de informe para la comunicación de estas indicaciones por parte del 
+servicio de prevención, que podrán ser adaptados por las Comunidades Autónomas. 
+El servicio de prevención de riesgos laborales informará sobre las actuaciones anteriores a las personas 
+afectadas, a la empresa y a los órganos de representación en materia de seguridad y salud, si los 
+hubiera, guardando la debida confidencialidad, que deberá extremarse con la información relativa a los 
+problemas de salud de las personas trabajadoras con especial sensibilidad. 
+
+                                                                  
+ 
+13 
+ 
+ 
+ 
+7.1. Personal que presta servicio en centros sanitarios o socio-sanitarios 
+ 
+La Ley 10/2021, de 9 de julio, de trabajo a distancia, establece en su disposición adicional cuarta la 
+consideración como contingencia profesional derivada de accidente de trabajo a las enfermedades 
+padecidas por el personal que presta servicio en centros sanitarios o socio-sanitarios como consecuencia 
+del contagio del virus SARS-CoV2 durante el estado de alarma: 
+1. Desde la declaración de la pandemia internacional por la Organización Mundial de la Salud y 
+hasta que las autoridades sanitarias levanten todas las medidas de prevención adoptadas para 
+hacer frente a la crisis sanitaria ocasionada por el COVID-19, las prestaciones de Seguridad Social 
+que cause el personal que presta servicios en centros sanitarios o socio-sanitarios, inscritos en los 
+registros correspondientes, y que en el ejercicio de su profesión, hayan contraído el virus SARS-
+CoV2 por haber estado expuesto a ese riesgo específico durante la prestación de servicios 
+sanitarios y socio-sanitarios, cuando así se acredite por los servicios de Prevención de Riesgos 
+Laborales y Salud Laboral, se considerarán derivadas de accidente de trabajo, al entender 
+cumplidos los requisitos exigidos en el artículo 156.2.e) del texto refundido de la Ley General de la 
+Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre. 
+El Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la 
+brecha de género y otras materias en los ámbitos de la Seguridad Social y económico, establece en su 
+artículo 6 que el personal que preste servicios en centros sanitarios y sociosanitarios inscritos en los 
+registros correspondientes y que, en el ejercicio de su profesión, durante la prestación de servicios 
+sanitarios o socio-sanitarios, haya contraído el virus SARS-CoV-2, dentro del periodo comprendido desde 
+la declaración de la pandemia internacional por la Organización Mundial de la Salud hasta el 
+levantamiento por las autoridades sanitarias de todas las medidas de prevención adoptadas para hacer 
+frente a la crisis sanitaria ocasionada por el mencionado virus SARS-CoV-2, tendrá las mismas 
+prestaciones que el sistema de la Seguridad Social otorga a las personas que se ven afectadas por una 
+enfermedad profesional.  
+Por consiguiente, la contingencia determinante de estos procesos de incapacidad para este personal es 
+accidente de trabajo y, en los supuestos previstos, tendrán las mismas prestaciones que el sistema de la 
+Seguridad Social otorga a las personas que se ven afectadas por una enfermedad profesional. 
+En el Anexo I se aporta modelo de informe para la acreditación por parte del servicio de prevención. 
+ 
+ 
+8. COLABORACIÓN CON LA INSPECCIÓN DE TRABAJO Y SEGURIDAD SOCIAL  
+ 
+La Ley 2/2021, de 29 de marzo, de medidas urgentes de prevención, contención y coordinación para 
+hacer frente a la crisis sanitaria ocasionada por el COVID-19, incluye en su artículo 31.4, la habilitación al 
+
+                                                                  
+ 
+14 
+personal funcionario perteneciente al Cuerpo Superior de Inspectores de Trabajo y Seguridad Social y al 
+Cuerpo de Subinspectores Laborales, escala de Seguridad y Salud Laboral, para vigilar y requerir el 
+cumplimiento, por parte del empresario, de las medidas de salud pública establecidas en los párrafos 
+a), b), c) del artículo 7.1, y en el párrafo d) del mismo, cuando afecten a las personas trabajadoras. 
+Esta habilitación se extiende a los funcionarios habilitados por las Comunidades Autónomas para 
+realizar funciones técnicas comprobatorias, a los que se refiere el artículo 9.2 de la Ley 31/1995, de 8 de 
+noviembre, de prevención de riesgos laborales, de acuerdo con las facultades que tienen atribuidas.  
+El incumplimiento de las obligaciones por parte del empresario constituirá infracción grave, conforme a 
+lo previsto en el artículo 31.5 del Real Decreto-ley 21/2020.  
+Considerando que la Inspección de Trabajo y Seguridad Social puede ser una buena aliada para el 
+control de la pandemia en los lugares de trabajo, cualquier no conformidad respecto de aquellas 
+cuestiones para las que ha sido habilitado su personal, relacionadas con la COVID-19 en los centros de 
+trabajo, se les puede trasladar para el ejercicio de sus funciones de vigilancia y control de las medidas 
+previstas en el artículo 7.1 a), b), c) y d del Real Decreto-ley 21/2020.  
+ 
+ 
+
+                                                                  
+ 
+15 
+ 
+ 
+ANEXO I 
+MODELOS DE INFORMES 
+ 
+1. CASO CONFIRMADO  
+ 
+INFORMACIÓN DIRIGIDA AL FACULTATIVO DE ATENCIÓN PRIMARIA 
+Logo del servicio de prevención 
+ 
+D./Dña……………………………………………………………………………………………………………………………., 
+nº 
+de 
+colegiado/a ………………………., con DNI………………………………...…., especialista en medicina del 
+trabajo del servicio de prevención……………………………………………………………………………………., informa 
+que 
+D./Dña. 
+………………………………………………………………………………………………………….., 
+con 
+DNI…………………………….., profesión/ocupación……………………………….......................…., en la empresa 
+………………………………………………………………………., es un caso confirmado de Covid-19, por lo que, 
+siguiendo los criterios de la Estrategia de  vigilancia y control frente a Covid-19 tras la fase aguda 
+de la pandemia, se remite para realización de las pruebas y actuaciones que correspondan por su 
+situación.  
+ 
+Lugar y fecha, 
+ 
+Fdo. 
+ 
+
+                                                                  
+ 
+16 
+ 
+2. ESPECIAL SENSIBILIDAD. NECESIDAD DE IT. 
+ 
+INFORMACIÓN DIRIGIDA AL FACULTATIVO DE ATENCIÓN PRIMARIA 
+Logo del servicio de prevención 
+ 
+D./Dña………………………………………………………………………………………………………..…………………………, nº de 
+colegiado/a ………………………., con DNI………………………………...…., médico especialista en medicina 
+del trabajo del servicio de prevención……………………………………………………………………., informa que 
+D./Dña…………………………………………………………………………………………………………………………………………..., 
+de ……... años, con DNI………………………………….., cumple los criterios del Procedimiento de 
+actuación de riesgos laborales frente al nuevo coronavirus (SARS-CoV-2) del Ministerio de Sanidad 
+(de fecha………………………………), para ser considerado/a persona trabajadora con especial 
+sensibilidad en relación a la infección de coronavirus SARS-CoV2. La persona trabajadora según 
+viene definida en la Estrategia de vigilancia y control frente a COVID-19 tras la fase aguda de la 
+pandemia, 
+pertenece 
+al 
+grupo 
+vulnerable1 
+..........………………………………………………………………………………………..............  
+Tomando como base el Procedimiento de actuación para los servicios de prevención de riesgos 
+laborales frente a la exposición al SARS-CoV-2 su puesto de trabajo se encuadra en un nivel de 
+riesgo…………………… Dado que no existe posibilidad de adaptación del puesto de trabajo, 
+protección adecuada que evite el contagio o reubicación en otro puesto exento de riesgo de 
+exposición 
+en 
+la 
+empresa………………………………………………………………………………………….…., 
+se 
+considera que debe pasar a situación de incapacidad temporal. 
+ 
+Lugar y fecha, 
+ 
+ 
+Fdo. 
+ 
+ 
+1 Por confidencialidad, especificar grupo de vulnerabilidad (no patología concreta). 
+ 
+
+                                                                  
+ 
+17 
+ 
+ 
+3. ESPECIAL SENSIBILIDAD. NO HAY NECESIDAD DE IT. 
+ 
+INFORMACIÓN DIRIGIDA AL FACULTATIVO DE ATENCIÓN PRIMARIA 
+Logo del servicio de prevención 
+ 
+ 
+D./Dña …………………………………………………………………………………………………………………………, 
+nº 
+de 
+colegiado/a ………………………., con DNI………………………………...…., médico especialista en medicina 
+del trabajo del servicio de prevención …………………………………………………………………………………………., 
+informa que D./Dña. ………………………………………………………………………………………………………………….., 
+de ….... años, con nº DNI ………………………………………………….., de acuerdo con los criterios del 
+Procedimiento de actuación de riesgos laborales frente al nuevo coronavirus (SARS-CoV-2) del 
+Ministerio de Sanidad (de fecha………………………………), no es necesario que continúe en situación 
+de incapacidad temporal (IT) por: 
+ 
+☐ no pertenecer a los grupos vulnerables establecidos en el citado Procedimiento.  
+☐ mejora de las condiciones de trabajo o de las medidas preventivas. 
+ 
+Lugar y fecha, 
+ 
+ 
+Fdo. 
+ 
+ 
+ 
+
+                                                                  
+ 
+18 
+ 
+4. INFORME PARA CONSIDERACIÓN DE CONTINGENCIA PROFESIONAL DERIVADA DE 
+ACCIDENTE DE TRABAJO  
+ 
+INFORMACIÓN DIRIGIDA A LA ENTIDAD COLABORADORA DE LA SEGURIDAD SOCIAL 
+Logo del servicio de prevención 
+ 
+D./Dña……………………………………………………………………………………………………………………………., 
+nº 
+de 
+colegiado/a ………………………., con DNI………………………………...…., médico/a especialista en medicina 
+del 
+trabajo 
+del 
+servicio 
+de 
+prevención 
+de 
+riesgos 
+laborales 
+……………………………………………………………………………………., 
+informa 
+que 
+D./Dña. 
+…………………………………………………………………………………………………………..,con DNI…………………………….., 
+profesión/ocupación……………………………….......................…., 
+en 
+la 
+empresa  
+……………………………………………………………………., cumple los criterios para ser considerado/a: 
+ 
+☐ caso confirmado de COVID-19 
+ 
+Y que al tratarse de personal que presta servicio en un centro: 
+ 
+☐ sanitario  
+☐ socio-sanitario    
+ 
+esta enfermedad cumple también los criterios para su consideración como contingencia 
+profesional derivada de accidente de trabajo, con las mismas prestaciones que el sistema de la 
+Seguridad Social otorga a las personas que se ven afectadas por una enfermedad profesional, tal 
+como establece el Real Decreto-ley 3/2021, de 2 de febrero, y la persona trabajadora ha estado 
+expuesta al coronavirus causante de COVID-19 en el ejercicio de su trabajo.   
+ 
+Lugar y fecha, 
+ 
+ 
+Fdo. 
+ 
+
+                                                                  
+ 
+19 
+ 
+ 
+ 
+ 
+ 
+5. INFORME PARA QUE QUEDE ACREDITADA LA INDICACIÓN DE TELETRABAJO  
+ 
+INFORMACIÓN DIRIGIDA A LA EMPRESA 
+Logo del servicio de prevención 
+ 
+ 
+D./Dña……………………………………………………………………………………………………, 
+nº 
+de 
+colegiado/a 
+………………………., con DNI………………………………...…., especialista en medicina del trabajo del servicio 
+de prevención…………………………………………………………………………, informa de que está indicado el 
+teletrabajo 
+de 
+D./Dña. 
+………………………………………………………………………………………, 
+con 
+DNI…………………………….., si fuera posible y al menos mientras se mantenga su situación actual, de 
+acuerdo con los criterios del Procedimiento de actuación de riesgos laborales frente al nuevo 
+coronavirus (SARS-CoV-2) del Ministerio de Sanidad, de fecha……………………………….  
+ 
+Lugar y fecha, 
+ 
+Fdo. 
+
+                                                                  
+ 
+20 
+ 
+ANEXO II. GUÍA DE ACTUACIÓN PARA LA GESTIÓN DE LA VULNERABILIDAD Y EL RIESGO  
+Grupos vulnerables 
+ 
+ 
+ 
+ 
+Exposición laboral 
+ 
+ 
+ 
+ 
+NR1 
+NR2 
+NR3 
+NR4 
+Inmunodepresión por causa intrínseca o 
+extrínseca 
+1 
+2 
+2 
+3 
+Mayores de 60 años 
+1 
+1 
+2 
+2 
+Embarazadas 
+1 
+2 
+2 
+3 
+ 
+ 
+NR1 (Nivel de riesgo 1): Similar a riesgo comunitario. Trabajo sin contacto con pacientes o usuarios enfermos COVID-19. 
+NR2 (Nivel de riesgo 2): Trabajo con probabilidad de contacto con pacientes o usuarios enfermos COVID-19, manteniendo la distancia de seguridad y sin 
+actuación directa sobre los mismos, por ejemplo, reparto de comida, limpieza, traslado del paciente, etc.  
+NR3 (Nivel de riesgo 3): Tareas con asistencia directa a pacientes o usuarios enfermos COVID-19, con EPI adecuado y sin mantener la distancia de seguridad, 
+incluida la movilización de pacientes y aseo. 
+NR4 (Nivel de riesgo 4): Profesionales, sanitarios o no sanitarios, que deben realizar maniobras generadoras de aerosoles (RCP, intubación, extubación). 
+ 
+ 
+1 
+No precisa ni adaptación ni cambio de puesto. 
+2 
+Puede realizar las tareas de su puesto de trabajo con EPIs adecuados.  
+3 
+Puede realizar las tareas de su puesto de trabajo con EPIs adecuados. No puede realizar maniobras generadoras de aerosoles en personas COVID+. 
+ 
+
+ 
+ 
+21 
+ 
+ 
+BIBLIOGRAFÍA  
+ 
+1. Estrategia de Vigilancia y Control frente a COVID-19 tras la fase aguda de la pandemia. Actualizado a 3 
+de 
+junio 
+de 
+2022. 
+Disponible 
+en: 
+https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Nue
+va_estrategia_vigilancia_y_control.pdf 
+2. Ley 2/2021, de 29 de marzo, de medidas urgentes de prevención, contención y coordinación para 
+hacer 
+frente 
+a 
+la 
+crisis 
+sanitaria 
+ocasionada 
+por 
+el 
+COVID-19. 
+Disponible 
+en: 
+https://www.boe.es/boe/dias/2021/03/30/pdfs/BOE-A-2021-4908.pdf 
+3. Información científica-técnica sobre el Covid-19. Disponible en: Ministerio de Sanidad, Consumo y 
+Bienestar Social - Profesionales - Información científico-técnica, enfermedad por coronavirus, COVID-
+19 
+4. Real Decreto-ley 6/2020, de 10 de marzo, por el que se adoptan determinadas medidas urgentes en el 
+ámbito 
+económico 
+y 
+para 
+la 
+protección 
+de 
+la 
+salud 
+pública. 
+Disponible 
+en: 
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-3434 
+5. Real Decreto-ley 21/2020, de 9 de junio, de medidas urgentes de prevención, contención y 
+coordinación para hacer frente a la crisis sanitaria ocasionada por el COVID-19. Disponible en: 
+https://www.boe.es/eli/es/rdl/2020/06/09/21/con 
+6. Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la 
+brecha de género y otras materias en los ámbitos de la Seguridad Social y económico. Disponible en: 
+https://www.boe.es/eli/es/rdl/2021/02/02/3/con 
+7. Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.  Disponible en: 
+https://www.boe.es/eli/es/l/1995/11/08/31/con  
+8. Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de 
+Prevención. Disponible en: https://www.boe.es/eli/es/rd/1997/01/17/39/con 
+9. Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos 
+relacionados con la exposición a agentes biológicos durante el trabajo. Disponible en: 
+https://www.boe.es/eli/es/rd/1997/05/12/664/con  
+10. Real Decreto 773/1997, de 30 de mayo, sobre disposiciones mínimas de seguridad y salud relativas a la 
+utilización 
+por 
+los 
+trabajadores 
+de 
+equipos 
+de 
+protección 
+individual. 
+Disponible 
+en: 
+https://www.boe.es/eli/es/rd/1997/05/30/773/con  
+11. Reglamento (UE) 2016/425 del Parlamento Europeo y del Consejo de 9 de marzo de 2016 relativo a los 
+equipos de protección individual y por el que se deroga la Directiva 89/686/CEE del Consejo. 
+Disponible en: https://www.boe.es/doue/2016/081/L00051-00098.pdf  
+
+ 
+ 
+22 
+12. Real Decreto 1591/2009, de 16 de octubre, por el que se regulan los productos sanitarios. Disponible 
+en: https://www.boe.es/buscar/pdf/2009/BOE-A-2009-17606-consolidado.pdf  
+13. Ley 
+10/2021, 
+de 
+9 
+de 
+julio, 
+de 
+trabajo 
+a 
+distancia. 
+Disponible 
+en: 
+https://www.boe.es/eli/es/l/2021/07/09/10/con 
+14. Recomendación (UE) 2020/403 de la Comisión de 13 de marzo de 2020 relativa a la evaluación de la 
+conformidad y los procedimientos de vigilancia del mercado en el contexto de la amenaza que 
+representa el COVID-19. Disponible en: http://data.europa.eu/eli/reco/2020/403/oj  
+15. Puesta y retirada de EPI (WHO). Disponible en: 
+https://www.who.int/csr/resources/publications/PPE_EN_A1sl.pdf. 
+16. Instituto Nacional de Seguridad y Salud en Trabajo. Prevención de riesgos laborales vs. COVID-19: 
+compendio 
+no 
+exhaustivo 
+de 
+fuentes 
+de 
+información. 
+INSST 
+2020. 
+Disponible 
+en: 
+https://www.insst.es/  
+17. Normas técnicas: 
+- 
+UNE-EN 149:2001 + A1:2010 Dispositivos de protección respiratoria. Medias máscaras filtrantes 
+de protección contra partículas. Requisitos, ensayos, marcado. 
+- 
+UNE-EN 143:2001+ A1:2006 Equipos de protección respiratoria. Filtros contra partículas. 
+Requisitos, ensayos, marcado. 
+- 
+UNE-EN 140:1999 Equipos de protección respiratoria. Medias máscaras y cuartos de máscara. 
+Requisitos, ensayos, marcado; 
+- 
+UNE-EN ISO 374-5:2016, Guantes de protección contra productos químicos y los 
+microorganismos peligrosos. Parte 5: Terminología y requisitos de prestaciones para riesgos por 
+microorganismos. (ISO 374-5:2016) (Ratificada por la Asociación Española de Normalización en 
+junio de 2017). 
+- 
+UNE-EN 14126: 2004 y UNE-EN 14126: 2004/AC: 2006 Ropa de protección. Requisitos y métodos 
+de ensayo para la ropa de protección contra agentes biológicos. 
+- 
+UNE-EN 14605:2005 + A1:2009, Ropa de protección contra productos químicos líquidos. 
+Requisitos de prestaciones para la ropa con uniones herméticas a los líquidos (Tipo 3) o con 
+uniones herméticas a las pulverizaciones (Tipo 4), incluyendo las prendas que ofrecen 
+protección únicamente a ciertas partes del cuerpo (Tipos PB [3] y PB [4]. 
+- 
+UNE EN 166:2002, Protección individual de los ojos. Especificaciones. 
+18. World Health Organization. Infection prevention and control during health care when novel 
+coronavirus (nCoV) infection is suspected. Interim Guidance. WHO: Geneva; 2020. Disponible en: 
+https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-
+novel-coronavirus-(ncov)-infection-is-suspected  
+19. European Centre for Disease Prevention and Control. Infection prevention and control for the care of 
+patients with 2019-nCoV in healthcare settings. ECDC: Stockholm; 2020. Disponible en:  
+https://www.ecdc.europa.eu/en/publications-data/infection-prevention-and-control-care-patients-
+2019-ncov-healthcare-settings   
+
+ 
+ 
+23 
+20. Centers for Disease Control and Prevention. Interim Infection Prevention and Control 
+Recommendations for Patients with Confirmed Novel Coronavirus (2019-nCoV) or Patients Under 
+investigation for 2019-nCoV in Heath care Settings. CDC: Atlanta; 2020. Disponible en: 
+https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html  
+21. European Center for Disease and Control. Interim guidance on the benefits of full vaccination against 
+COVID-19 for transmission and implications for non-pharmaceutical interventions. 21April 2021 
+Disponible 
+en: 
+https://www.ecdc.europa.eu/en/publications-data/interim-guidance-benefits-full-
+vaccination-against-covid-19-transmission 
+22. World Health Organization. A clinical case definition of post COVID-19 condition by Delphi consensus, 
+6 
+October 
+2021. 
+Disponible 
+en: 
+https://www.who.int/publications/i/item/WHO-2019-nCoV-
+Post_COVID-19_condition-Clinical_case_definition-2021.1 
