@@ -4,11 +4,11 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-04 (Ingeniería Superior · Telecomunicación)
+**Última actualización:** 2026-09-04 (Profesor de Orquesta)
 
 ## Qué es esto
 
-Veintiún temarios de oposición de RTVE, por ocupación tipo: **Producción
+Veintidós temarios de oposición de RTVE, por ocupación tipo: **Producción
 (Asistencia)**, **Producción**, **Realización (Asistencia)**, **Realización
 Televisión**, **Documentación**, **Información y Contenidos**, **Gestión
 Administrativa**, **Gestión**, **Montaje de Equipos Audiovisuales**, **Edición,
@@ -16,22 +16,23 @@ Montaje y Procesos Audiovisuales**, **Información Gráfica y Captación de Imag
 y Sonido**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica
 Informática**, **Diseño Gráfico**, **Ingeniería Técnica · Telecomunicación**,
 **Ingeniería Técnica · Industrial**, **Imagen Personal**, **Técnica de Equipos,
-Instalaciones y Sistemas Eléctricos**, **Ambientación Vestuario** e **Ingeniería
-Superior · Telecomunicación**. El programa sale del ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
+Instalaciones y Sistemas Eléctricos**, **Ambientación Vestuario**, **Ingeniería
+Superior · Telecomunicación** y **Profesor de Orquesta**. El programa sale del
+ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
 
-Las veintiuna comparten el mismo temario general —**comprobado byte a byte**: el
+Las veintidós comparten el mismo temario general —**comprobado byte a byte**: el
 bloque común es idéntico en todos los anexos; sólo cambia el pie de página— y
-**las veintiuna** tienen en su bloque específico un tema de prevención de riesgos
+**las veintidós** tienen en su bloque específico un tema de prevención de riesgos
 laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con **doce
 rúbricas de las que ninguna ocupación lleva todas** y **diez redacciones
 distintas del enunciado**. Por eso los cuerpos de tema llenan las posiciones de
-los **veintidós volúmenes**: los ocho generales y el de prevención van
+los **veintitrés volúmenes**: los ocho generales y el de prevención van
 repetidos. **Y desde Ingeniería Superior · Telecomunicación hay además SIETE
 temas específicos compartidos entre dos ocupaciones**, que es el primer caso del
 proyecto de tema compartido que no es el de prevención. El reparto y el orden
 están en `PLAN.md`.
 
-**Y tres de las veintiuna no tienen examen publicado**: Ingeniería Técnica ·
+**Y tres de las veintidós no tienen examen publicado**: Ingeniería Técnica ·
 Industrial, Técnica de Equipos, Instalaciones y Sistemas Eléctricos y
 Ambientación Vestuario. La convocatoria anterior no sacó cuadernillo de esas
 especialidades, así que sus volúmenes **no llevan banco específico**. Es un dato
@@ -1121,6 +1122,59 @@ en Documentación y en Producción (Asistencia).
       **6) El único cuadernillo del proyecto sin ni una pregunta de prevención.** El tema compartido
       se incluye igual, **porque el punto 29 del anexo lo pide**, y el dato va escrito en la portada
       del volumen en vez de disimulado.
+
+- [x] **Fase I: Profesor de Orquesta, terminada el 2026-09-04.** 10 temas propios más el de
+      prevención: **11 en total** para un anexo de **7 puntos**. **18.640 palabras de tema y 9.318 de
+      esquema.** **86 preguntas del específico repartidas de 86**, **4 plazas en la convocatoria
+      1/2025** y **144 páginas**. **La cuenta de erratas de plantilla sigue en diez** —ninguna
+      respuesta oficial de este bloque está mal— y **el proyecto pasa a 2.015 preguntas específicas**
+      repartidas en diecinueve bancos.
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) El primer volumen cuyo programa ha habido que DESCARGAR para escribirlo.** Sus bases no
+      estaban en el repositorio: se han bajado de la misma fuente que las demás, **y la fuente publica
+      SEIS versiones del mismo Anexo 2**, una por especialidad instrumental. **La comprobación
+      obligada, y queda escrita**: comparar las versiones entre sí —**idénticas palabra por palabra las
+      seis**—, mirar **qué especialidades convoca la convocatoria vigente** —**las cuatro de la 1/2025
+      no están entre las seis**— y decidir si eso deja el temario **confirmado o INFERIDO**. **Aquí
+      queda inferido, y va dicho en tres sitios.** **Seis programas idénticos hacen esperar un séptimo
+      igual; no lo prueban.**
+      **2) Tres lentes sin objeto TENIENDO examen**, que es un caso nuevo. En Ambientación Vestuario
+      faltaban las dos comprobaciones fuertes a la vez; **aquí hay 86 respuestas oficiales y sigue sin
+      haber norma**, porque **la materia es historia de la música.** **Las cinco comprobaciones que
+      ocupan el lugar de las lentes** van nombradas y con resultado en el informe de refutación, y **la
+      central es nueva**: **rastrear cada dato concreto hasta uno de los tres apoyos del volumen** —el
+      enunciado del anexo, la plantilla, o una definición— **y comprobar que no hay una cuarta
+      procedencia.**
+      **3) La regla de las cifras, aplicada a una materia donde inventar es facilísimo.** **El temario
+      afirma cinco fechas, cuatro cifras de catálogo, veintitrés atribuciones y dos ciudades**, y
+      **todas vienen de la plantilla con su número de pregunta al lado.** **Y lo que NO afirma va
+      comprobado uno a uno**: ninguna fecha de nacimiento, ninguna cifra de catálogo no confirmada
+      —**comparar no es contar**, y la pregunta 74 compara sin dar números—, **ninguna obra repartida
+      entre las opciones falsas de una pregunta de atribución**, ninguna plantilla orquestal y **ninguna
+      lista de «directores más importantes»**, que **el programa pide sin darla.**
+      **4) Los huecos se señalan con la tarea, no sólo con el nombre.** **Cinco puntos del programa que
+      el examen no ha tocado y que el temario no puede desarrollar sin fuente** —el Impresionismo y lo
+      Contemporáneo, el origen de la cámara, el origen de la zarzuela, la lista de directores y la serie
+      de titulares de la orquesta— **van con lo que hay que buscar en un manual para rellenarlos.**
+      **Un hueco señalado es una tarea; un hueco relleno de invención es una trampa.**
+      **5) Datos que CADUCAN, y ninguna lente los ve.** **Tres respuestas del tema 10 dependen de cuándo
+      se pregunte** —el director titular, los honorarios «recientes», la titularidad anterior de otro
+      director—. **Van con la fecha del examen al lado y con la recomendación de comprobarlas antes de
+      la prueba.** **La regla que queda para el proyecto**: **una fecha de corte congela el texto de una
+      norma, pero no congela quién ocupa un cargo**, y **los puntos que preguntan por personas en activo
+      hay que fecharlos y marcarlos.**
+      **6) Un punto de anexo que se PARTE en cuatro.** Hasta ahora el proyecto unía puntos que eran la
+      misma frase con una palabra cambiada; **aquí se parte uno que son cuatro materias y que se lleva
+      el 62 % del examen.** **Las tres particiones salen del texto del anexo** —sus subpuntos numerados
+      y su lista de países—, **ninguna inventa un criterio**, y **la regla es la misma en las dos
+      direcciones: un tema es una materia.**
+      **7) La undécima redacción del enunciado de prevención.** Su punto 7 **es el único de las
+      veintidós que no lleva ni pantallas ni cargas**, **el segundo que nombra las posturas de trabajo
+      con rúbrica propia** y **el único que extiende los trastornos musculoesqueléticos a la extremidad
+      INFERIOR.** **Esa extensión no abre apartado nuevo**: el apartado 3 la desarrolla ya, porque los
+      factores de riesgo y la prevención son los mismos. **El tema compartido queda en once redacciones
+      para veintidós ocupaciones.**
 
 ## Qué comprobación pasa por qué material
 

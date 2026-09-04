@@ -98,6 +98,7 @@ prevención de riesgos laborales**, que es un solo fichero.
 | `libro-teitse` | **Téc. Equipos, Instalaciones y Sistemas Eléctricos** | 16 | 48 | 237 |
 | `libro-ambientacion-vestuario` | **Ambientación Vestuario** | 8 | 48 | 135 |
 | `libro-ing-sup-teleco` | **Ing. Superior Telecomunicación** | **27** | 134 | **337** |
+| `libro-profesor-orquesta` | **Profesor de Orquesta** | 11 | 134 | 144 |
 
 **Realización Televisión es el volumen más grande del proyecto**: 365 páginas,
 veintidós temas propios más el de prevención y **229 preguntas del bloque
@@ -187,6 +188,33 @@ de riesgos laborales**, y **el único cuya plantilla se ha extraído por
 coordenadas**: su PDF de preguntas trae la fuente incrustada sin tabla de
 caracteres, pero el de respuestas no, y sus **96 respuestas salen enteras, sin
 huecos, sin duplicados y sin una sola anotación**.
+
+**Y Profesor de Orquesta es el caso más extremo del proyecto en otra
+dirección**: **es el único volumen cuyo anexo no nombra ninguna norma Y cuya
+materia es historia de la música**. Las dos cosas juntas dejan al temario sin la
+fuente que sostiene a todos los demás, y **la consecuencia va dicha sin adornos
+en su primer tema**: una fecha de nacimiento o una atribución de obra escritas de
+memoria serían exactamente lo que este método prohíbe. **El volumen se apoya en
+tres cosas y sólo en tres**: lo que el propio anexo nombra, las **86 respuestas
+que la plantilla oficial confirma**, y lo que se sigue de una definición. **Sus
+cinco huecos van señalados uno a uno, con lo que hay que buscar en un manual para
+rellenarlos.** Un hueco señalado es una tarea; un hueco relleno de invención es
+una trampa.
+
+**Es además el primer volumen cuyo programa ha habido que DESCARGAR para
+escribirlo**, y de una fuente que publica **seis versiones del mismo Anexo 2**,
+una por especialidad instrumental. **Se han comparado las seis y son idénticas
+palabra por palabra.** Pero **las cuatro plazas de la 1/2025 son de otras cuatro
+especialidades**, así que **que el temario sea también el suyo es una inferencia
+razonable y no un dato**, y así va dicho en tres sitios. Seis programas idénticos
+hacen esperar un séptimo igual; no lo prueban.
+
+**Y trae una advertencia que ningún otro volumen ha necesitado**: **tres de sus
+respuestas CADUCAN** —quién es el director titular de la orquesta, quiénes los
+honorarios «recientes», qué titularidad tenía antes otro director—. Van con la
+fecha del examen al lado y con la recomendación de comprobarlas antes de la
+prueba. **Una fecha de corte congela el texto de una norma, pero no congela quién
+ocupa un cargo.**
 
 **Diez respuestas oficiales de 2024 están mal, y van marcadas una a una** con el
 precepto, el modelo de cuentas o la ficha de fabricante que las desmiente. El

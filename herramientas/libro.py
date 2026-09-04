@@ -511,6 +511,27 @@ AVISOS_ING_SUP_TELECO = {
 }
 
 
+AVISOS_PROFESOR_ORQUESTA = {
+    "64_preguntas_profesor_orquesta · nº 46":
+        "<b>El original repite una opción.</b> Las opciones a) y c) del cuadernillo son las dos "
+        "«3». <b>No cambia la respuesta —tres es tres— y no afecta a la corrección</b>, pero la "
+        "duplicación existe en el original y <b>se transcribe tal cual</b>: una transcripción no "
+        "corrige a su fuente.",
+    "64_preguntas_profesor_orquesta · nº 2":
+        "<b>Esta pregunta examina de una escuela nacional que el programa no nombra.</b> El punto 1 "
+        "del anexo enumera siete países —España, Francia, Italia, Alemania, Austria, Hungría y "
+        "Rusia— y <b>los Estados Unidos no está entre ellos</b>. Y hay un detalle que lo agrava: "
+        "<b>la lista de compositores de ese punto lleva puntos suspensivos y la de países no</b>, "
+        "así que la lista de países se lee cerrada. <b>Es la pregunta más difícil de anticipar de "
+        "todo el cuadernillo</b>, y va declarada en vez de reclamada como cubierta.",
+    "64_preguntas_profesor_orquesta · nº 20":
+        "<b>Esta pregunta no pertenece a ningún punto del anexo.</b> Pregunta por el inventor de la "
+        "imprenta musical, y <b>el temario no tiene punto de historia de la notación ni de la "
+        "edición</b>. Se clasifica con las formas musicales <b>por proximidad con la escritura de la "
+        "música, y se declara</b> en vez de inventarle un encaje.",
+}
+
+
 AVISOS_REALIZACION_TV = {
     "66_preguntas_realizacion_a · nº 33":
         "<b>La pregunta tiene tres respuestas igualmente correctas.</b> <i>Ben-Hur</i>, "
@@ -1031,6 +1052,76 @@ BLOQUES = {
     # solo tema porque sus tres enunciados son la misma frase con el nombre de
     # la sala cambiado. Ocho temas no tienen ni una pregunta y su banco no
     # existe: en su lugar va None. Se desarrollan igual, contra el programa
+    # Once temas para un anexo de siete puntos: el punto 1 se lleva 53 de las 86
+    # preguntas del específico —el 62 %— y sus tres subpuntos son tres materias
+    # distintas, así que se parte por los subpuntos que el propio anexo numera, y
+    # el 1.1 se parte a su vez por la lista de países que su enunciado da.
+    # Ninguna partición inventa un criterio: todas salen del texto del anexo.
+    # El punto 7 es el de prevención, que va compartido
+    "profesor-orquesta": dict(
+        carpeta="profesor-orquesta",
+        rotulo="Temario específico · Profesor de Orquesta",
+        ocupacion="Profesor de Orquesta",
+        titulo="Temario específico",
+        subtitulo="Los once temas de <b>Profesor de Orquesta</b>",
+        pie="Oposiciones RTVE – Profesor de Orquesta",
+        avisos=dict(AVISOS_PROFESOR_ORQUESTA, **AVISOS_PRL),
+        # ninguna respuesta oficial de este bloque está mal: lo que va debajo de
+        # la tabla no es una errata sino una declaración
+        clase_aviso="errata",
+        rotulo_aviso="Declarado en la",
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "los-estilos-y-los-periodos", "profesor-orquesta-01"),
+            (2, "las-formas-musicales", "profesor-orquesta-02"),
+            (3, "compositores-y-obras-de-alemania-y-austria", "profesor-orquesta-03"),
+            (4, "compositores-y-obras-de-espana-francia-italia-hungria-y-rusia",
+                "profesor-orquesta-04"),
+            (5, "las-secciones-de-la-orquesta-sinfonica", "profesor-orquesta-05"),
+            (6, "la-musica-de-camara", "profesor-orquesta-06"),
+            (7, "la-musica-sinfonico-coral", "profesor-orquesta-07"),
+            (8, "la-zarzuela", "profesor-orquesta-08"),
+            (9, "la-direccion-de-orquesta", "profesor-orquesta-09"),
+            (10, "la-orquesta-sinfonica-y-el-coro-de-rtve", "profesor-orquesta-10"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Las ochenta y seis respuestas oficiales de este bloque son "
+                         "correctas.</b> Ninguna es errónea y ninguna es impugnable. <b>Una "
+                         "pregunta examina de una escuela nacional que el programa no nombra</b>, "
+                         "<b>otra no pertenece a ningún punto del anexo</b> y <b>en otra el "
+                         "original repite una opción</b>: van declaradas una a una debajo de su "
+                         "tabla.",
+        aviso_portada="<p><b>Cuatro plazas convocadas</b> en la convocatoria 1/2025 —chelo, piano, "
+                      "trompa y trompeta— y <b>noventa y seis preguntas</b> de un cuadernillo con "
+                      "su plantilla completa, fechada el 17 de marzo de 2025: <b>ochenta "
+                      "principales más dieciséis de reserva</b>. Ochenta y seis son del específico "
+                      "y <b>están todas repartidas</b>; las diez restantes son del bloque común.</p>"
+                      "<p><b>Este es el único volumen del proyecto cuyo anexo no nombra ninguna "
+                      "norma y cuya materia es historia de la música.</b> Eso deja al temario sin "
+                      "la fuente que sostiene a todos los demás, y <b>la consecuencia va dicha sin "
+                      "adornos en su primer tema</b>: una fecha de nacimiento, un año de estreno o "
+                      "una atribución de obra escritos de memoria serían exactamente lo que el "
+                      "método de este proyecto prohíbe. <b>El volumen se apoya en tres cosas y sólo "
+                      "en tres</b>: lo que el propio anexo nombra, las <b>86 respuestas que la "
+                      "plantilla oficial confirma</b>, y lo que se sigue de una definición. <b>Donde "
+                      "hay hueco, el hueco se ve</b>, y el temario dice exactamente qué buscar en un "
+                      "manual para rellenarlo.</p>"
+                      "<p><b>El punto 1 del anexo se lleva 53 de las 86 preguntas</b>, el 62 % del "
+                      "examen específico, así que <b>se parte por los subpuntos que el propio anexo "
+                      "numera</b> y el de compositores se parte a su vez <b>por la lista de países "
+                      "que su enunciado da</b>. Ninguna partición inventa un criterio.</p>"
+                      "<p>Y una advertencia que este volumen tiene que dar y ningún otro necesita: "
+                      "<b>tres de sus respuestas CADUCAN</b> —quién es el director titular, quiénes "
+                      "los honorarios «recientes», qué titularidad tenía antes otro director—. Van "
+                      "<b>con la fecha del examen al lado</b>, y el temario recomienda comprobarlas "
+                      "antes de la prueba. <b>Una fecha de corte congela el texto de una norma, "
+                      "pero no congela quién ocupa un cargo.</b></p>"
+                      "<p>Una última: <b>el temario de esta ocupación es el mismo para todas las "
+                      "especialidades instrumentales</b>. Se han descargado las seis bases "
+                      "publicadas de la convocatoria 1/2022 —clarinete, fagot, oboe, percusión, "
+                      "viola y violín— y <b>su Anexo 2 es idéntico palabra por palabra en las "
+                      "seis</b>. Las cuatro plazas de la 1/2025 son de otras cuatro especialidades, "
+                      "así que <b>que el temario sea también el suyo es una inferencia razonable y "
+                      "no un dato</b>, y así va dicho.</p>",
+    ),
     "ing-sup-teleco": dict(
         carpeta="ing-sup-teleco",
         rotulo="Temario específico · Ing. Superior Telecomunicación",

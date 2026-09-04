@@ -755,6 +755,49 @@ de las Fuerzas Armadas, al tema 1 del general. **Ninguna palabra clave la coge**
 no nombra ni la Constitución ni ningún artículo.**
 
 
+### Profesor de Orquesta
+
+**86 preguntas**, repartidas entre los diez temas en que este proyecto desarrolla los seis puntos
+específicos de su Anexo 2.
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| `profesor-orquesta-01.md` | 1 · Los estilos y los periodos de la música clásica | 10 |
+| `profesor-orquesta-02.md` | 2 · Las formas musicales | 9 |
+| `profesor-orquesta-03.md` | 3 · Compositores y obras de Alemania y Austria | **17** |
+| `profesor-orquesta-04.md` | 4 · Compositores y obras de España, Francia, Italia, Hungría y Rusia | 10 |
+| `profesor-orquesta-05.md` | 5 · Las secciones de la orquesta sinfónica | 7 |
+| `profesor-orquesta-06.md` | 6 · La música de cámara | **2** |
+| `profesor-orquesta-07.md` | 7 · La música sinfónico-coral | **12** |
+| `profesor-orquesta-08.md` | 8 · La zarzuela | 3 |
+| `profesor-orquesta-09.md` | 9 · La dirección de orquesta | 8 |
+| `profesor-orquesta-10.md` | 10 · La Orquesta Sinfónica y el Coro de RTVE | 8 |
+
+**Un solo cuadernillo**, `64_preguntas_profesor_orquesta`, de **96 preguntas —80 principales más 16 de
+reserva—**, con su plantilla completa **fechada el 17/03/2025**. **Ochenta y seis van al específico y
+diez al bloque común.**
+
+**El PDF de preguntas se extrae como texto legible.** **La plantilla, en cambio, sale en columnas y se
+ha leído por COORDENADAS**: sus 96 respuestas salen enteras, sin huecos y sin una sola anotación.
+
+**El punto 1 del anexo se lleva 53 de las 86**, el **62 %** del examen específico. **Ningún otro
+volumen del proyecto concentra tanto en un solo punto**, y por eso **se parte en cuatro temas, por los
+subpuntos que el propio anexo numera y por la lista de países que su enunciado da.**
+
+**Ninguna respuesta oficial es errónea y ninguna es impugnable.** **Tres cosas van declaradas**: la
+**nº 2** examina de un compositor estadounidense y **el punto 1 del anexo enumera siete países entre
+los que no está**, con el agravante de que **su lista de países no lleva puntos suspensivos**; la
+**nº 20**, por el inventor de la imprenta musical, **no pertenece a ningún punto del anexo** y se
+clasifica con las formas por proximidad; y en la **nº 46** **el original repite una opción** —las a) y
+c) son las dos «3»—, lo que **no cambia la respuesta** y **se transcribe tal cual.**
+
+**Cuatro preguntas se han reclasificado a mano** en `reclasificadas.tsv`: la **nº 26** y la **nº 38**
+al tema 1 del general —preguntan por la Constitución sin nombrarla—, y la **nº 86** y la **nº 89** al
+tema 5 —preguntan por el **Anexo de Régimen Especial de Orquesta y Coro del III Convenio Colectivo**
+sin nombrarlo—. **Estas dos últimas son la única parte del bloque común que sólo interesa a esta
+ocupación y a las de coro**: se pierden si se estudia el convenio por encima.
+
+
 ### Realización Televisión
 
 **229 preguntas** de los dos llamamientos de **Realización Televisión** de 2024, repartidas entre los
