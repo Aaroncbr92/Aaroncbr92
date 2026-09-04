@@ -1,0 +1,905 @@
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+1 
+ 
+TEMA 22 
+ 
+EPIDEMIOLOGÍA LABORAL: CONCEPTO, RAMAS DE LA EPIDEMIOLOGÍA. MEDIDAS DE 
+FRECUENCIA DE LA ENFERMEDAD: PREVALENCIA E INCIDENCIA. TIPOS DE ESTUDIOS 
+EPIDEMIOLÓGICOS Y SUS PRINCIPALES CARACTERÍSTICAS: ENSAYOS DE INTERVENCIÓN, 
+ESTUDIOS DE PREVALENCIA, ESTUDIOS ECOLÓGICOS, SERIES DE CASOS, ESTUDIOS DE CASOS 
+Y CONTROLES, ESTUDIOS DE COHORTE. MEDIDAS DE MAGNITUD DEL EFECTO 
+ 
+ 
+La epidemiología es una disciplina científica en el área de la salud pública cuyo propósito es 
+describir y explicar la dinámica de la salud poblacional mediante el estudio de la distribución, 
+frecuencia, magnitud y factores determinantes de las enfermedades.  
+La Organización Internacional del Trabajo (OIT) pone de relieve la importancia de la 
+epidemiología para la calificación y reconocimiento de las enfermedades profesionales, según 
+se recoge en el epígrafe “Identificación y reconocimiento de las enfermedades profesionales” 
+del documento “Lista de enfermedades profesionales (revisada en 2010)”.  
+A nivel europeo, en el Marco Estratégico de Seguridad y Salud en el Trabajo 2021-2027 de la 
+Comisión Europea se definen prioridades en las que aparece implícita la necesidad de la 
+epidemiología laboral, por ejemplo, “Mejorar la prevención de accidentes y enfermedades 
+relacionados con el trabajo y esforzarse por adoptar un enfoque de «visión cero» respecto a las 
+muertes relacionadas con el trabajo”. 
+A nivel nacional, la Estrategia Española de Seguridad y Salud en el Trabajo 2023-2027 recoge en 
+su Objetivo 1 “Mejorar la prevención de accidentes de trabajo y enfermedades profesionales”, 
+estableciendo líneas de actuación como la mejora de la identificación, diagnóstico, notificación 
+y registros de la enfermedad profesional y mejora del conocimiento epidemiológico de las 
+enfermedades profesionales 
+Por otra parte, la epidemiología y las habilidades epidemiológicas están recogidas en la Ley 
+31/1995, de 8 de noviembre, de prevención de Riesgos Laborales (LPRL), en el Real Decreto 
+39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención 
+(RSP) y en el Real Decreto 843/2011, de 17 de junio, por el que se establecen los criterios básicos 
+sobre la organización de recursos para desarrollar la actividad sanitaria de los servicios de 
+prevención. 
+La epidemiología laboral es indispensable tanto para valorar las hipótesis causales entre las 
+condiciones de trabajo y la salud como para evaluar la eficacia y efectividad de las medidas 
+preventivas. 
+ 
+1. EPIDEMIOLOGÍA LABORAL: CONCEPTO, RAMAS DE LA EPIDEMIOLOGÍA 
+A. Concepto 
+A.1. Epidemiología 
+La epidemiología surgió inicialmente para el estudio de las epidemias causadas por 
+enfermedades infecciosas, siendo útil para identificar los agentes infecciosos causantes, sus 
+mecanismos de transmisión y las medidas de control a adoptar. En el siglo XX los estudios 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+2 
+ 
+epidemiológicos se extendieron a las enfermedades no trasmisibles dando origen a la 
+epidemiología moderna, incorporándose en sus análisis métodos estadísticos.  Así, el concepto 
+de epidemiología ha variado a lo largo de la historia. La siguiente definición recoge sus aspectos 
+clave: 
+“La epidemiología es la disciplina científica que estudia la distribución y frecuencia de la salud y 
+la enfermedad así como sus determinantes, las condiciones o factores asociados, y ocupa un 
+lugar especial en la intersección entre las ciencias biomédicas y las ciencias sociales, aplica los 
+métodos y principios de estas ciencias al estudio de la salud y la enfermedad en poblaciones 
+humanas (persona), tomando en cuenta la temporalidad (tendencia en el tiempo) y el territorio 
+(distribución en el espacio)”. 
+A.2. Epidemiología Laboral 
+La Enciclopedia de Salud y Seguridad en el Trabajo de la OIT recoge la definición de 
+epidemiología laboral, empleando concretamente el término de “epidemiología del trabajo”: 
+“La epidemiología del trabajo se ha definido como el estudio de los efectos de las exposiciones 
+en el lugar de trabajo sobre la frecuencia y distribución de enfermedades y lesiones en la 
+población. Por consiguiente, se trata de una disciplina orientada a la exposición que mantiene 
+vínculos con la epidemiología y con la higiene industrial. Como tal, utiliza métodos similares a 
+los empleados por la epidemiología en general”. 
+Entre los objetivos de la epidemiología laboral destacan: 
+- la prevención de los riesgos laborales mediante la identificación de las consecuencias para 
+la salud de la exposición a dichos riesgos, 
+- la utilización de los resultados obtenidos en entornos específicos para reducir o eliminar 
+peligros en el conjunto de la población a estudio, 
+- la provisión de información sobre los efectos para la salud de las exposiciones en el lugar 
+de trabajo. 
+La epidemiología laboral puede aplicarse a distintos niveles: 
+• 
+Vigilancia de la salud para prevenir la aparición de enfermedades.  
+• 
+Generación y verificación de hipótesis sobre el efecto nocivo sobre la salud de la 
+población a estudio de determinadas exposiciones y la cuantificación de dicho efecto. 
+• 
+Evaluación de una intervención, como podría ser la aplicación de una medida 
+preventiva, por ejemplo, la reducción de los niveles de exposición y sus efectos en los 
+cambios en el estado de salud de una población seguida a lo largo del tiempo.  
+Un elemento clave de la epidemiología es el empleo del método epidemiológico: consiste en la 
+aplicación del método científico en el estudio de los problemas de salud y de las enfermedades 
+de una población determinada, siendo sus tres principales características: 
+• 
+Observacional: La observación constituye el primer paso en el estudio epidemiológico. 
+• 
+Cuantitativa: Utiliza métodos cuantitativos, para medir los hechos observados. 
+• 
+Probabilística: En la aceptación/ rechazo de la hipótesis epidemiológica, se tolera un 
+determinado margen de error sin que repercuta en su aceptación científica. 
+Su aplicación consta de una serie de etapas, como son: 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+3 
+ 
+1. Observación del fenómeno 
+2. Formulación de hipótesis 
+3. Recolección de los datos 
+4. Procesamiento y análisis de los datos 
+5. Identificación e interpretación de los patrones de ocurrencia 
+6. Comprobación de la o las hipótesis 
+7. Conclusiones y aplicaciones. 
+B. Ramas de la epidemiología 
+La epidemiología se desarrolla en dos ramas en función de los objetivos que persigue; así, 
+podemos hablar de investigación epidemiológica y de epidemiología aplicada de campo. 
+B.1. Investigación epidemiológica 
+La investigación epidemiológica según Abraham Lilienfeld puede definirse como “El estudio de 
+la distribución de las enfermedades en poblaciones o de los factores que determinan esta 
+distribución” e incluye el análisis de: los perfiles de morbilidad, de mortalidad, la identificación 
+de sus causas, el conocimiento de sus síntomas, las pruebas para el diagnóstico precoz y para la 
+confirmación diagnóstica, la supervivencia y la evaluación de la eficacia y eficiencia de las 
+intervenciones preventivas. 
+A su vez, dentro la investigación epidemiológica se puede hablar de: 
+• 
+Epidemiología descriptiva: que se focaliza en la observación de un determinado 
+fenómeno en un grupo poblacional a estudio y a partir de esa observación caracterizar 
+sus perfiles de morbi-mortalidad.  
+• 
+Epidemiología analítica: que aborda el estudio y verificación de hipótesis de causalidad 
+a través del seguimiento o estudio de grupos poblacionales diferentes  
+• 
+Epidemiología experimental: que se dirige a la evaluación de los resultados de 
+intervenciones o programas que se introducen en un determinado grupo poblacional.  
+• 
+Ecoepidemiología: estudia la interacción de los factores ambientales con las personas y 
+cómo influyen estos factores en la salud. 
+• 
+Epidemiología genética: Estudia el estado de salud/enfermedad mediante la 
+identificación de factores genéticos, proteómicos, metabolómicos, etc. y su interacción 
+con factores de exposición ambiental. 
+B.2. Epidemiología aplicada de campo 
+La Organización Mundial de la Salud (OMS), a través de la Organización Panamericana de la Salud 
+(OPS), define la epidemiología aplicada de campo como “La aplicación de los principios y 
+métodos de la investigación epidemiológica para el estudio de problemas de salud inesperados, 
+que requieren de una respuesta inmediata y una intervención oportuna en la población. El 
+estudio opera en el terreno donde ocurre el problema, tiene duración y extensión limitadas”. 
+La epidemiología aplicada de campo incluye: el desarrollo de sistemas de información sanitaria 
+y vigilancia epidemiológica, como pueden ser los sistemas centinela; la investigación de casos o 
+el estudio de brotes epidémicos, es decir, funciones que se denominan de “inteligencia 
+epidemiológica”. 
+ 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+4 
+ 
+2. MEDIDAS DE FRECUENCIA DE LA ENFERMEDAD: PREVALENCIA E INCIDENCIA 
+Las medidas de frecuencia son de gran utilidad tanto en la planificación sanitaria como en salud 
+laboral para tomar decisiones sobre distribución de recursos y desarrollo de programas en 
+función de necesidades detectadas. 
+Estas medidas pueden obtenerse de investigaciones analíticas y descriptivas y permiten 
+describir el evento de salud en relación con el tamaño de la población a riesgo, bien desde una 
+perspectiva transversal, mediante la que se obtienen índices estáticos, bien desde una 
+perspectiva de seguimiento, mediante el registro de datos en un período fijo o variable, 
+obteniéndose índices dinámicos. 
+Los tipos de medidas más utilizados según la consideración del tiempo son: 
+• 
+medidas de prevalencia: consideran los casos existentes de enfermedad o 
+características concretas existentes en una población determinada en un momento o en 
+un período de tiempo determinado. 
+• 
+medidas de incidencia: tienen en cuenta los casos nuevos de una determinada 
+enfermedad o suceso de salud que se producen en las poblaciones estudiadas en el 
+transcurso de un periodo de tiempo. 
+Un esquema representativo de las diferentes medidas de frecuencia se ofrece en la figura 1, en 
+la que se muestra cómo en un período de tiempo aparecen casos nuevos, lo que permite calcular 
+la incidencia. Si la enfermedad está presente en el grupo de población se puede estimar la 
+prevalencia de los casos existentes de enfermedad, que podrán evolucionar a fallecimiento, lo 
+que permite calcular los índices de mortalidad, o bien a curación al aplicar alguna intervención. 
+ 
+ 
+Figura 1. Medidas de frecuencia de enfermedad 
+ 
+A. Prevalencia 
+La prevalencia (P) se define como la proporción del grupo de personas que presentan una 
+determinada característica en un momento o período de tiempo determinado (t). Como 
+proporción puede expresarse en términos de probabilidad, así significa la probabilidad de 
+encontrar una persona que cumpla una característica determinada en un momento determinado 
+en una población determinada. 
+La prevalencia es una medida de frecuencia que se calcula en los estudios transversales o de 
+prevalencia. 
+INCIDENCIA 
+ 
+Casos nuevos de 
+enfermedad 
+PREVALENCIA 
+ 
+Casos que existen 
+de enfermedad 
+Casos que fallecen 
+Casos que sanan 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+5 
+ 
+Existen 2 tipos de prevalencia: prevalencia puntual y prevalencia de período, siendo la de 
+utilización más frecuente la prevalencia puntual. Para ejemplificar las definiciones utilizaremos 
+como característica a estudio la enfermedad: 
+• 
+La Prevalencia puntual es la proporción de sujetos con una determinada enfermedad de 
+entre la población a estudio en un determinado momento. Se caracteriza porque es una 
+medida estática. Como proporción que es se puede expresar en términos de 
+probabilidad: probabilidad de estar enfermo en un momento de tiempo determinado. 
+ 
+   𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 =
+𝑛𝑛º 𝑑𝑑𝑑𝑑 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝑑𝑑𝑑𝑑 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 𝑒𝑒𝑒𝑒 𝑒𝑒𝑒𝑒 𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚𝑚 𝑑𝑑𝑑𝑑𝑑𝑑 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑑𝑑𝑑𝑑 𝑙𝑙𝑙𝑙 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝ó𝑛𝑛 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+      
+Nota: en el caso del contexto laboral, la población total estudiada sería la población 
+trabajadora que se ha incluido en la investigación. 
+ 
+• 
+Prevalencia de período: se calcula en función de los casos de enfermedad presentes en 
+cualquier momento durante un período específico de tiempo, es decir, personas que en 
+algún momento del período de estudio estuvieron enfermas. 
+𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑑𝑑𝑑𝑑 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 
+=
+(𝑁𝑁º 𝑑𝑑𝑑𝑑 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛+ 𝑁𝑁º 𝑑𝑑𝑑𝑑 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝑑𝑑𝑑𝑑 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒) 𝑒𝑒𝑒𝑒 𝑒𝑒𝑒𝑒 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑑𝑑𝑑𝑑 𝑙𝑙𝑙𝑙 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝ó𝑛𝑛 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+ 
+Nota: en el caso del contexto laboral, la población total estudiada sería población 
+trabajadora que se ha incluido en la investigación. 
+Hay factores que pueden influir en la prevalencia de una determinada enfermedad, bien 
+aumentándola o disminuyéndola como, por ejemplo: 
+• 
+Desarrollo de programas de cribaje o screening: permiten detectar mayor número 
+de casos de la enfermedad determinada generalmente en fases tempranas. 
+• 
+Mejora del diagnóstico de enfermedad: permite identificar más casos en fases 
+iniciales y así abordar la enfermedad en fases más tempranas. 
+• 
+Disminución de la mortalidad: al aumentar la identificación temprana pueden 
+aplicarse intervenciones y disminuir la correspondiente mortalidad. 
+ 
+B. Incidencia 
+La medida de incidencia refleja la dinámica de ocurrencia (casos nuevos) de un fenómeno, como 
+es la enfermedad, en una población determinada, como puede ser la población trabajadora, en 
+un sector o actividad económica a lo largo de un determinado periodo de tiempo. 
+Existen dos medidas de incidencia: incidencia acumulada o riesgo de incidencia y tasa o densidad 
+de incidencia. 
+• 
+Incidencia acumulada (IA) o riesgo de incidencia: es la relación del número de nuevos 
+casos que contraen la enfermedad con el tamaño poblacional al comienzo de un periodo 
+de tiempo (Δt). Significa la probabilidad (o el riesgo) que tiene una persona de enfermar 
+en un período determinado de tiempo.  
+𝐼𝐼𝐼𝐼=
+𝑁𝑁º 𝑑𝑑𝑑𝑑 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛 𝑒𝑒𝑒𝑒 Δt 
+𝑁𝑁º 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝑑𝑑𝑑𝑑 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 (𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡) 𝑎𝑎𝑎𝑎 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖 𝑑𝑑𝑑𝑑𝑑𝑑 𝑝𝑝𝑝𝑝𝑝𝑝í𝑜𝑜𝑜𝑜𝑜𝑜 (𝑡𝑡0) 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+6 
+ 
+Como toda proporción, no tiene unidades y sus posibles valores están entre 0 y 1.  
+Para estimar adecuadamente el riesgo se ha de asumir que no hay muertes por otra 
+causa que no sea el evento que se está midiendo, ya que en este caso estaríamos ante 
+riesgos competitivos. 
+Un ejemplo de IA en estadística de accidentes de trabajo (AT) es el Índice de Incidencia 
+de accidentes de trabajo con baja en jornada de trabajo. 
+• 
+Tasa o Densidad de Incidencia (I o DI): se define como el número de nuevos casos por 
+cada unidad persona-tiempo de observación; es la frecuencia con la que una 
+determinada enfermedad se da en una población (casos nuevos) durante un 
+determinado período de tiempo.  
+𝐼𝐼=
+𝑁𝑁º 𝑑𝑑𝑑𝑑 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛𝑛 𝑒𝑒𝑒𝑒 𝑢𝑢𝑢𝑢 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑𝑑
+∑𝑑𝑑𝑑𝑑𝑑𝑑 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝑑𝑑𝑑𝑑 𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝𝑝 (𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡)𝑥𝑥 𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡𝑡 𝑑𝑑𝑑𝑑 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒ó𝑛𝑛 
+El denominador de la tasa de incidencia es bidimensional, compuesto no sólo por el 
+tamaño poblacional sino también por el tiempo de observación. Esta tasa indica la 
+velocidad con la que una enfermedad está creciendo en una población determinada. 
+Tiene unidades, viene dado por el inverso del tiempo (tiempo-1). El rango de valores que 
+puede asumir está entre 0 e infinito. 
+Un ejemplo de DI es el índice de frecuencia de AT con baja en jornada de trabajo, que 
+expresa los AT ocurridos dividido por las horas trabajadas (siendo las horas trabajadas= 
+a la suma de las horas trabajadas por el total de personas empleadas en un año). 
+ 
+3. TIPOS DE ESTUDIOS EPIDEMIOLÓGICOS Y SUS PRINCIAPLES CARACTERÍSTICAS: ENSAYOS 
+DE INTERVENCIÓN, ESTUDIOS DE PREVALENCIA, ESTUDIOS ECOLÓGICOS, SERIES 
+DECASOS, ESTUDIOS CASOS Y CONTROLES, ESTUDIOS DE COHORTE 
+La epidemiología permite diferentes tipos de estudios en función de la pregunta de investigación 
+que se pretenda responder, los objetivos que se hayan planteado y/o las necesidades de 
+conocimiento que se deseen abordar en relación con el comportamiento de enfermedades. 
+Un estudio epidemiológico es una actividad que hace uso del método epidemiológico y que 
+permite obtener información útil para establecer relaciones de causalidad y tomar decisiones 
+sobre la planificación de actividades relacionadas con la salud o la evaluación de programas. 
+El estudio epidemiológico comprende distintas fases: la definición del problema de 
+investigación, la elección de la estrategia o diseño del estudio y la planificación de las 
+actividades. 
+• 
+En la fase de definición del problema se incluirá la justificación del estudio, los objetivos 
+principales y específicos y el planteamiento de la hipótesis a verificar, que ha de ser 
+verificable con el método epidemiológico.  
+• 
+Seguidamente se elegirá la estrategia o diseño que se empleará para contrastar la 
+hipótesis.  
+• 
+Y como última fase se han de planificar las distintas actividades del estudio: definición 
+de la población, determinación del tamaño muestral, criterios de selección, tiempo de 
+estudio, selección y definición de variables, fuentes de información a utilizar, 
+procedimiento de obtención de información y análisis de datos. 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+7 
+ 
+Hay diferentes formas de clasificar los estudios epidemiológicos, pero la mayoría de ellas están 
+basadas en unos criterios básicos comunes que de manera no exhaustiva son los siguientes: 
+• 
+Finalidad: Los estudios epidemiológicos se pueden clasificar en descriptivos y analíticos. 
+Los descriptivos son los que estudian la frecuencia y distribución de los fenómenos de 
+salud y de enfermedad y los estudios analíticos estudian las relaciones causa-efecto. 
+• 
+Unidad de análisis: Puede ser el individuo, cuando se utilizan datos desagregados de 
+cada sujeto, o las poblaciones, cuando se utilizan datos agregados de individuos. 
+• 
+Direccionalidad: Hace referencia al orden en que se investiga la asociación entre la 
+causa y el efecto, pudiendo considerarse tres situaciones: 
+o hacia adelante o secuencia desde la causa al efecto, 
+o hacia atrás, o secuencia desde el efecto a la causa, 
+o simultánea o sin direccionalidad. 
+Las dos primeras se engloban con término de estudios longitudinales. 
+• 
+Relación temporal o proximidad: tiempo transcurrido desde que se produjeron los 
+hechos que se analizan hasta el momento en el que se realiza el estudio. Los diseños se 
+clasifican en: 
+o históricos: estudian hechos ocurridos antes del comiendo del estudio. 
+o concurrentes o prospectivos: eventos que se producen a partir del momento de 
+inicio del estudio. 
+o mixtos: estudian tanto hechos históricos como concurrentes. 
+• 
+Control de la asignación de los factores de estudio: En este caso se pueden diferenciar 
+entre los estudios experimentales y estudios observacionales. 
+Una de las clasificaciones más empleada en la que se da prioridad al criterio del control de la 
+asignación de los factores de estudio es la que se muestra en la figura 2. 
+ 
+ 
+Figura 2. Clasificación de estudios epidemiológicos 
+Tipos de diseños 
+epidemiológicos
+Experimentales
+Ensayo clínico aleatorio
+Ensayo de intervención 
+comunitaria
+Estudios cuasi-
+experimentales
+Observacionales
+Descriptivos
+Transversales o de 
+Prevalencia
+Ecológicos
+Series de casos
+Analíticos o 
+longitudinales
+Cohortes
+Casos-Controles
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+8 
+ 
+Esta clasificación incluye a los estudios experimentales, que son aquellos estudios en los que el 
+equipo de investigación controla la asignación de la exposición o factor a estudio, y a los estudios 
+observacionales, en los que el equipo de investigación no asigna la exposición sino que ésta se 
+produce en el entorno social, ambiental o laboral del colectivo a estudio. 
+ 
+A. Estudios experimentales: Ensayos de intervención 
+En los estudios experimentales el equipo de investigación asigna una intervención. Son de tipo 
+analítico y su uso se suele limitar a evaluar intervenciones terapéuticas o preventivas. 
+Raramente se emplea en epidemiología laboral, dado que normalmente la exposición laboral 
+implica un riesgo y no un beneficio, por ello sólo estarían indicados si se trata de evaluar 
+programas preventivos, como programas de promoción de la salud en el ámbito laboral. 
+En este tipo de diseño se selecciona un grupo de intervención sobre el que se aplicará la 
+intervención a evaluar y un grupo de control que servirá como grupo de contraste. 
+En función de cómo se realice la asignación de la intervención a los individuos seleccionados 
+para el estudio existen diferentes diseños experimentales. 
+• 
+Si la asignación de la intervención se hace de forma aleatoria e individualizada a la 
+persona se trata de un ensayo clínico aleatorio (ECA). 
+• 
+Si se asigna de forma aleatoria a un colectivo o grupo en su conjunto se denomina 
+ensayo de intervención comunitaria. 
+• 
+Si la asignación de la intervención no se produce de forma aleatoria a la persona o al 
+grupo se clasifica como estudio cuasiexperimental. 
+En función del conocimiento que participantes o personas investigadoras tengan de la 
+intervención los ensayos, pueden ser: 
+• 
+Simple ciego: La persona que participa desconoce si pertenece al grupo de intervención 
+o al grupo control. 
+• 
+Doble ciego: Tanto la persona que participa como el grupo de investigación desconocen 
+cuál es el grupo de intervención y el grupo control. 
+• 
+Triple ciego: Tanto la persona que participa como el grupo de investigación y los 
+analistas desconocen cuál es el grupo de intervención y el grupo control. 
+ 
+B. Estudios observacionales 
+Los estudios observacionales son los más empleados en epidemiología laboral. Pueden ser o 
+bien descriptivos bien analíticos o longitudinales.  
+B.1. Estudios descriptivos 
+Los estudios descriptivos son los que tienen por objeto observar y describir la realidad en 
+función de las variables de tiempo, lugar y persona. Son los estudios más frecuentes y la 
+aplicación más habitual de la epidemiología laboral.  
+Algunos estudios descriptivos tienen como unidad de análisis el individuo, como los estudios de 
+serie de casos y los estudios transversales o de prevalencia. Otros tienen como unidad de análisis 
+la población o el grupo de individuos: son los llamados estudios ecológicos. 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+9 
+ 
+B.1.a. Estudios transversales o de prevalencia 
+También denominados de corte o de prevalencia, son diseños observacionales 
+descriptivos. Su principal característica es que no tienen direccionalidad, toda la 
+información, tanto de salud como de exposición, que se recopila es en un momento de 
+tiempo concreto, es una fotografía de la realidad en un momento puntual del tiempo. 
+Su utilidad está basada en proporcionar información sobre la prevalencia de una 
+enfermedad, estado de salud o condiciones de trabajo de un colectivo concreto en un 
+momento determinado. 
+En el desarrollo de este tipo de estudios primero se selecciona la muestra representativa 
+de la población de estudio y posteriormente se aplica el instrumento seleccionado para 
+la investigación, como pueden ser cuestionarios, test, exámenes de salud, información 
+sobre la exposición o condiciones de trabajo mediante encuestas de satisfacción, etc.  
+En ocasiones puede ser de interés incluir también una población que actúe como 
+población de referencia o de contraste. 
+Sus resultados permiten conocer la distribución de fenómenos de salud en la población 
+de estudio al extrapolar o inferir los resultados obtenidos en la muestra, evaluar 
+medidas preventivas, determinar necesidades para la planificación preventiva, 
+identificar asociaciones entre variables, formular nuevas hipótesis, conocer diferencias 
+entre poblaciones expuestas a distintos factores de riesgo, etc. 
+Una de las principales características de los estudios de prevalencia es que no permiten 
+establecer relaciones causa-efecto, ya que en este tipo de estudios las variables de 
+exposición se estudian al mismo tiempo que las de efecto, por lo que no se puede 
+establecer una secuencia cronológica exposición/efecto. Tienen la ventaja de que son 
+más sencillos y rápidos que otros tipos de estudios, además de ser menos costosos. 
+B.1.b. Estudios ecológicos 
+Son aquéllos cuyas unidades de análisis son las poblaciones o grupos de personas y no 
+los individuos por lo que se desconoce la distribución de cualquier variable a nivel 
+individual. Se emplean para comparar las diferencias en la frecuencia de la enfermedad 
+entre diversos grupos durante un mismo período de tiempo o las diferencias en la 
+frecuencia de la enfermedad en un mismo grupo pero durante períodos de tiempo 
+diferentes. 
+El diseño y las posibilidades de análisis de los estudios ecológicos vienen determinadas 
+por la disponibilidad de la información. Las variables de interés pueden ser 
+socioeconómicas, geográficas, etc., pudendo clasificarse en tres grupos: variables 
+agregadas, variables ambientales o variables globales. 
+Estos estudios se caracterizan por: 
+• 
+bajo coste, al basarse en información disponible en censos, registros de 
+mortalidad, registros de cáncer, datos de consumo, etc. 
+• 
+suelen ser el primer paso en la investigación de una posible relación entre una 
+exposición y una enfermedad. 
+• 
+pueden ser útiles en el estudio de enfermedades raras, al realizar un análisis de 
+toda la población. 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+10 
+ 
+• 
+interés de los efectos ecológicos en poblaciones. 
+Como limitación de estos estudios se puede destacar que las conclusiones obtenidas no 
+suelen poderse emplear para extrapolar a la exposición del individuo y al riesgo de 
+presentar la enfermedad (falacia ecológica). Son estudios en los que no se puede 
+controlar la presencia de variables de confusión. 
+B.1.c. Serie de casos 
+Los estudios de series de casos o de series clínicas tienen por objetivo caracterizar una 
+determinada enfermedad en lo que se refiere a síntomas, características de la persona, 
+factores de especial sensibilidad, factores de exposición y cualquier otra variable 
+relevante en el conocimiento de la enfermedad mediante el análisis de un grupo de 
+individuos que han desarrollado la enfermedad a estudio. 
+Este tipo de estudios no permite el análisis de relaciones causa-efecto ni evaluar la 
+frecuencia de la enfermedad. 
+B.2. Estudios observacionales analíticos o longitudinales 
+B.2.a. Estudios de casos y controles 
+Los estudios de casos y controles son observacionales, analíticos y longitudinales: 
+observacionales porque el equipo de investigación no introduce el factor de exposición 
+a estudio, analíticos porque están destinados a verificar una hipótesis de causalidad y 
+longitudinales porque recorren, de forma retrospectiva, un espacio temporal que va 
+desde el momento en el que aparece la enfermedad –investigando los factores a los que 
+ha estado expuesta la persona– hasta el punto donde se gozaba de salud, por lo que 
+también pueden denominarse estudios “retrospectivos”. 
+Su utilidad se basa en proporcionar información sobre cómo se distribuye la exposición 
+a determinados factores de riesgo: personales, exposición ambiental, laboral, etc. entre 
+personas trabajadoras que sufren una enfermedad con respecto a otras personas sanas.  
+Son estudios en los que se parte de la selección de la muestra representativa de las 
+personas que han desarrollado la enfermedad a estudio (casos) y una muestra 
+representativa de personas sanas (controles). Tanto casos como controles deben tener 
+la misma probabilidad de haber estado expuestos al factor a estudio, es decir, ambos 
+grupos están formados por personas trabajadoras que han podido o no estar expuestas 
+al factor de riesgo a estudio.  
+Tanto los casos como los controles deben ser comparables en relación con otros factores 
+distintos al factor principal a estudio que pueden influir en la aparición de la enfermedad 
+o efecto estudiado.  
+Los resultados del estudio permiten: 
+• 
+identificar factores de riesgo, 
+• 
+estudiar múltiples factores y analizarlos para una determinada enfermedad, 
+• 
+evaluar el impacto de medidas preventivas, 
+• 
+conocer el comportamiento de enfermedades de período de latencia largo y 
+enfermedades raras, 
+• 
+corroborar hipótesis de causalidad. 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+11 
+ 
+Las limitaciones a destacar de estos estudios son que se pueden introducir errores 
+sistemáticos y que en ocasiones es difícil establecer una secuencia temporal entre la 
+exposición y la enfermedad. Este tipo de estudios no permite calcular la incidencia de la 
+enfermedad. 
+B.2.b. Estudios de cohortes 
+Los estudios de cohorte son estudios observacionales, analíticos y longitudinales:  
+observacionales porque el investigador no introduce el factor de exposición a estudio, 
+analíticos porque pueden verificar una hipótesis de causalidad y longitudinales porque 
+tienen lugar en un espacio temporal o recorren una “longitud”, en este caso desde un 
+estado inicial de salud hasta que se contrae la enfermedad. A este tipo de estudios se 
+les denomina “prospectivos”. 
+Su utilidad se basa en proporcionar información acerca de la frecuencia de aparición de 
+casos nuevos de enfermedad y también información de diferentes factores: personales, 
+ambientales, laborales, etc., por lo que también se les denomina estudios de incidencia. 
+En la primera fase se seleccionan dos cohortes: una cohorte representativa de la 
+población trabajadora expuesta al factor a estudio o cohorte expuesta y otra formada 
+por personas trabajadoras que no están expuestas a dicho factor (cohorte no expuesta).  
+Las personas trabajadoras de ambas cohortes tienen que ser comparables en lo que se 
+refiere a los principales factores que puedan influir en la enfermedad o en la exposición 
+para evitar diferentes sesgos o errores; además, se les han de aplicar los mismos 
+instrumentos de estudio, protocolos, etc. Y un punto importante es establecer tanto el 
+período de seguimiento –que deberá ser, como mínimo, igual al período de latencia de 
+la enfermedad– como la frecuencia de evaluación periódica del estado de salud. 
+En función del período de seguimiento, estos estudios se pueden clasificar en: 
+• 
+cohortes prospectivas, que son aquéllas en las que el inicio del período de 
+seguimiento coincide con el inicio de la exposición. 
+• 
+cohortes históricas, que son aquéllas en las que el inicio de la exposición es 
+anterior al inicio del estudio, por lo que en algunas ocasiones se denominan 
+cohortes “retrospectivas”- 
+• 
+cohortes ambispectivas, que es un diseño mixto en que las cohortes se 
+desarrollan en dos etapas, una histórica y otra prospectiva. 
+Los resultados del estudio permiten: 
+• 
+calcular la incidencia de la enfermedad, 
+• 
+identificar factores de riesgo, 
+• 
+evaluar el impacto de las medidas preventivas, 
+• 
+calcular el riesgo de enfermar entre expuestos y no expuestos, 
+• 
+corroborar hipótesis de causalidad, 
+• 
+evitar o controlar sesgos característicos de los estudios casos y controles. 
+Como limitaciones destacar que son estudios de diseño complejo con un coste elevado 
+porque requiere de una importante dotación de recursos materiales y humanos. 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+12 
+ 
+Generalmente se requiere de grandes poblaciones, no son eficientes para el estudio de 
+enfermedades poco frecuentes ni para aquéllas que tengan períodos de latencia largos. 
+ 
+EVIDENCIA, PRECISIÓN Y VALIDEZ 
+Una vez estudiados los diferentes tipos de estudios epidemiológicos, y teniendo en cuenta que 
+una de las principales aportaciones de la epidemiología a la práctica de las Ciencias de la Salud 
+es la “evidencia científica”, existen diferentes iniciativas que consisten en relacionar el nivel de 
+evidencia con la capacidad del estudio para establecer relaciones de causalidad y su calidad. 
+Así, el nivel de evidencia científica se puede evaluar atendiendo al diseño del estudio, siendo 
+los diseños experimentales (ensayos clínicos aleatorios, ensayos de intervención comunitaria, 
+estudios cuasi-experimentales) los que alcanzan un nivel más alto de evidencia, seguidos de 
+diseños analíticos o longitudinales (estudios de cohortes, estudios de casos y controles) y, por 
+último, los diseños descriptivos (estudios transversales, estudios ecológicos, series de casos), 
+que tendrán un nivel de evidencia más bajo. 
+En cuanto a la calidad del estudio, está en función de su precisión y de su validez: 
+• 
+La precisión se evalúa por los intervalos de confianza (IC), medida estadística de las 
+medidas de efecto (RR, OR, etc.). A IC más estrechos más alta será la precisión. La 
+precisión depende del tamaño de la muestra. 
+• 
+La validez de un estudio es la ausencia de sesgos y tiene dos componentes: validez 
+interna y validez externa. La validez interna es un prerrequisito para que exista validez 
+externa. La validez interna es la capacidad de que las conclusiones del estudio reflejen 
+correctamente lo que verdaderamente ocurre en la población de referencia de la que 
+procede la muestra. Y la validez externa es la capacidad de generalizar los resultados del 
+estudio a otras poblaciones distintas de la población de referencia estudiada. 
+Por otra parte, en el diseño, en la ejecución, en el análisis y en la interpretación de un estudio 
+es necesario tener en cuenta la posibilidad de cometer errores; éstos pueden ser de dos tipos: 
+• 
+Errores aleatorios: son aquéllos que se deben al azar, no están relacionados con el 
+diseño ni con la ejecución del estudio. No producen una distorsión en el efecto 
+estudiado y disminuyen al aumentar el tamaño de la muestra. 
+• 
+Errores sistemáticos o sesgos: es un tipo de error que no se debe al azar, sino que se 
+produce por un error en el diseño o ejecución del estudio. Produce una distorsión en el 
+efecto estudiado y no se puede mejorar con el tamaño de la muestra. Se pueden 
+distinguir 3 tipos: 
+o Sesgo de selección: es debido a un procedimiento erróneo en la selección de la 
+muestra. Una vez cometido no se puede controlar en la fase de análisis. Los más 
+frecuentes son: sesgo del trabajador sano, sesgo de autoselección, sesgo de no 
+respuesta. 
+o Sesgo de información: es debido a errores que se cometen en el proceso de 
+reclutamiento de la información. Su control está en el diseño del estudio y no en 
+la fase de análisis. Algunos sesgos de información más frecuentes son: sesgo de 
+memoria, sesgo de ocultación, sesgo del observador, sesgo debido a la prueba. 
+o Sesgo de confusión: este tipo de sesgo no es debido ni a errores de diseño ni de 
+ejecución del estudio, sino a la existencia de una variable que distorsiona la 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+13 
+ 
+relación entre el factor y el efecto a estudio y por lo tanto puede confundir en la 
+interpretación de la relación causa/efecto. Este tipo de sesgo puede controlarse 
+tanto en el diseño del estudio como en el análisis de datos.  
+ 
+4. MEDIDAS DE MAGNITUD DEL EFECTO 
+El principal objetivo de la epidemiología es verificar o no la existencia de relación causa/efecto 
+entre un factor de riesgo o determinante de la salud y el desarrollo de una enfermedad u otro 
+daño a la salud. Otros objetivos son conocer y medir el grado de asociación entre uno o varios 
+factores a los que está expuesta la población a estudio y la aparición de una enfermedad. 
+Para ver esta relación se calculan medidas de efecto que cuantifican la magnitud de dicha 
+relación. El efecto que se puede calcular varía en función del tipo de estudio epidemiológico. A 
+grandes rasgos se pueden dividir en medidas de efecto absolutas, basadas en diferencias, y 
+medidas de efecto relativas, que están basadas en cocientes. 
+Para el cálculo de las medidas de magnitud del efecto los datos suelen presentarse en tablas de 
+contingencia (2 x 2), como la que se muestra a continuación: 
+ 
+ 
+Enfermos 
+No enfermos 
+Total 
+Expuestos 
+a 
+b 
+a+b 
+No expuestos 
+c 
+d 
+c+d 
+Total 
+a+c 
+b+d 
+a+b+c+d 
+Tabla 1 (Nota: para estudios de casos y controles la columna de enfermos se sustituirá por casos, y la de 
+no enfermos por controles). 
+ 
+A. Medidas de efecto absolutas 
+A.1. Riesgo atribuible 
+El riesgo atribuible (RA) representa una medida del efecto absoluto atribuible al factor de riesgo. 
+Es la diferencia absoluta de incidencia (I) entre dos poblaciones a estudio, por lo que en su 
+cálculo se puede emplear tanto la incidencia acumulada (IA) como la tasa de incidencia (DI). 
+Se interpreta como el riesgo que se podría evitar si el grupo de expuestos no hubiera estado 
+expuesto a un determinado factor estudiado. Se calcula con la siguiente expresión: 
+𝑅𝑅𝑅𝑅= 𝐼𝐼 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒−𝐼𝐼 𝑛𝑛𝑛𝑛 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 
+El rango de valores que puede tener oscila entre -1 y +1. No tiene unidades de medida debido a 
+que es una diferencia de proporciones. En el caso de diferencia de tasas oscila entre -∞ y +∞ y 
+las unidades de medidas serán las mismas que tengan las tasas implicadas (tiempo -1). 
+Su interpretación cuantitativa y numérica es la siguiente: valor > 0 indica que existe una relación 
+de causalidad entre el factor a estudio y el efecto estudiado, es decir, las personas expuestas 
+tienen una mayor probabilidad de desarrollar el efecto estudiado, por lo que puede 
+interpretarse como un factor es de riesgo; valor = 0 indica que el efecto es nulo; valor < 0 indica 
+que las personas expuestas al factor estudiado tienen una probabilidad más baja de desarrollar 
+el efecto estudiado, por lo que puede interpretarse como que es un factor protector. 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+14 
+ 
+B. Medidas de efecto relativas 
+B.1. Riesgo relativo 
+Es la medida de elección en los estudios observacionales de cohortes y en los estudios 
+experimentales. Se calcula dividiendo la incidencia de enfermedad en expuestos (I1) entre la 
+incidencia de enfermedad en no expuestos (I0) y se relaciona con las tablas de contingencia antes 
+expuestas para facilitar el cálculo en casos prácticos. 
+ 
+𝑅𝑅𝑅𝑅=
+𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 𝑒𝑒𝑒𝑒 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 (𝐼𝐼1)
+𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼𝐼 𝑒𝑒𝑒𝑒 𝑛𝑛𝑛𝑛 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 (𝐼𝐼0) =
+𝑎𝑎
+𝑎𝑎+ 𝑏𝑏
+𝑐𝑐
+𝑐𝑐+ 𝑑𝑑
+ 
+Expresa el número de veces que es más probable que una enfermedad se desarrolle en el grupo 
+de expuestos que en el grupo de no expuestos. Al ser un cociente, sólo puede tomar valores 
+positivos. 
+Si la exposición es un factor de riesgo de la enfermedad de estudio, el valor será superior a 1 
+(RR>1); si la exposición es un factor protector de la enfermedad, su valor será inferior a 1 (RR<1); 
+y si toma un valor neutro, RR=1, indica que no existe asociación entre la exposición y la 
+enfermedad, ya que la incidencia en expuestos es la misma que en la de no expuestos. 
+Cuando la medida de frecuencia de incidencia es la densidad o tasa de incidencia, el RR se calcula 
+de igual forma, dividiendo la tasa de incidencia de expuestos entre la tasa de no expuestos; en 
+este caso se denomina razón de tasas (RT) 
+𝑅𝑅𝑅𝑅=
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑑𝑑𝑑𝑑 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖 𝑒𝑒𝑒𝑒 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒
+𝑇𝑇𝑇𝑇𝑇𝑇𝑇𝑇 𝑑𝑑𝑑𝑑 𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖𝑖 𝑒𝑒𝑒𝑒 𝑛𝑛𝑛𝑛 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒 
+Las razones de tasas carecen de unidades y sus posibles valores oscilan entre 0 e infinito, y los 
+rangos de valores son los anteriormente comentados. 
+B.2. Razón de prevalencias 
+Es la medida de asociación o efecto que se puede calcular en estudios transversales o de 
+prevalencia. Se calcula dividiendo la prevalencia de la enfermedad de estudio en expuestos (P1) 
+entre la prevalencia en no expuestos (P0). 
+𝑅𝑅𝑅𝑅= 𝑃𝑃1
+𝑃𝑃0
+=
+𝑎𝑎
+𝑎𝑎+ 𝑏𝑏
+𝑐𝑐
+𝑐𝑐+ 𝑑𝑑
+ 
+Respecto al cálculo cuantitativo se haría uso de la tabla de contingencia y el cálculo matemático 
+sería muy similar al realizado con RR y RT. En cuanto a la interpretación cualitativa, difiere de la 
+del RR debido a que en los estudios transversales o de prevalencia no se puede realizar ninguna 
+afirmación sobre el riesgo de enfermar, sino sobre el riesgo de estar padeciendo o sufriendo una 
+enfermedad en el momento del estudio. 
+Valor >1 indica que la prevalencia en el grupo a estudio es mayor a la prevalencia en el grupo 
+control, por lo que existe una asociación, que no podemos calificar de relación causal; valor = 1 
+indica que no existe diferencia entre los dos grupos, y valor < 1 indica que la prevalencia es 
+menor en el grupo a estudio que en el grupo de referencia. 
+ 
+ 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+15 
+ 
+B.3. Medida del efecto en estudios de casos y controles. Odds Ratio 
+En los estudios de casos y controles no se puede realizar una medición directa de la incidencia y 
+por ello no se pueden calcular medidas de efecto como el RR. 
+En estos estudios la magnitud del efecto se estima a partir del cálculo de la odds ratio (OR) que 
+es la razón de la probabilidad de exposición entre los casos (odds de exposición en casos) 
+dividida por la probabilidad de exposición en el grupo control (odds de exposición en controles. 
+La odds es una razón que se calcula dividiendo una proporción entre su complementaria (odds= 
+proporción / [1-proporción]). Se interpreta en una escala multiplicativa como el número de 
+veces que es mayor la odds de exposición en los casos que en los controles.  
+En la tabla de contingencia se sustituiría enfermos por casos y no enfermos por controles. 
+ 
+ 
+Casos 
+Controles 
+Total 
+Expuestos 
+a 
+b 
+a+b 
+No expuestos 
+c 
+d 
+c+d 
+Total 
+a+c 
+b+c 
+a+b+c+d 
+Tabla 2. Tabla de contingencia en estudios de casos y controles 
+𝑂𝑂𝑂𝑂=
+𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝑑𝑑𝑑𝑑 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒ó𝑛𝑛 𝑒𝑒𝑒𝑒 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐
+𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝑑𝑑𝑑𝑑 𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒𝑒ó𝑛𝑛 𝑒𝑒𝑒𝑒 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐=
+𝑎𝑎
+𝑎𝑎+ 𝑏𝑏
+𝑏𝑏
+𝑎𝑎+ 𝑏𝑏
+𝑐𝑐
+𝑐𝑐+ 𝑑𝑑
+𝑑𝑑
+𝑐𝑐+ 𝑑𝑑
+=
+𝑎𝑎
+𝑏𝑏𝑐𝑐
+𝑑𝑑
+= 𝑎𝑎𝑎𝑎𝑎𝑎
+𝑏𝑏𝑏𝑏𝑏𝑏 
+Su interpretación es la misma que para el RR: valor > 1 indica que existe una relación causal 
+entre el factor estudiado y el efecto, valor = 1 indica que los resultados no son concluyentes, no 
+se puede afirmar que el factor a estudio sea un factor de riesgo, es decir, el efecto es nulo y valor 
+< 1 indica que el factor a estudio es un factor protector frente al efecto estudiado. 
+En la tabla 3 se resumen las medidas de frecuencia y efecto expuestas a lo largo del tema. 
+ 
+ 
+
+Temas específicos del Proceso Selectivo para ingreso en la Escala de Titulados Superiores del  
+Instituto Nacional de Seguridad e Higiene en el Trabajo, O.A., M.P. (INSST).  
+Parte 1: “Conceptos generales de la prevención de riesgos laborales y ámbito jurídico”. 
+V. enero 2026. 
+ 
+ 
+16 
+ 
+Tipo de diseño 
+Medidas de 
+frecuencia 
+Medidas de efecto o de asociación 
+Absoluta 
+Relativa 
+Prevalencia 
+Prevalencia (P) 
+Diferencia de Prevalencia 
+P1-P0 
+Razón de prevalencia 
+𝑃𝑃1
+𝑃𝑃0
+ 
+Cohortes 
+Incidencia 
+acumulada de 
+riesgo (IA) 
+Densidad o Tasa de 
+incidencia (DI o I) 
+Diferencia absoluta de 
+riesgos (riesgo atribuible) o 
+Diferencia absoluta de 
+tasas 
+I1-I0 o bien DI1-DI0 
+Riesgo relativo (RR) 
+𝐼𝐼1
+𝐼𝐼0
+ 
+Razón de tasas 
+𝐷𝐷𝐷𝐷1
+𝐷𝐷𝐷𝐷0
+ 
+ 
+Casos y 
+Controles 
+ 
+ 
+Odds ratio (OR) 
+𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝑒𝑒𝑒𝑒 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐
+𝑂𝑂𝑂𝑂𝑂𝑂𝑂𝑂 𝑒𝑒𝑒𝑒 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐 
+Tabla 3. Tabla resumen de medidas de frecuencia y efecto en función del tipo de estudio epidemiológico 

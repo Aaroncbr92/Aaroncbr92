@@ -1,0 +1,897 @@
+Notas Técnicas de Prevención
+ 
+AÑO 2024
+1.211
+Estadísticas de accidentabilidad en la empresa.
+Accidents at work statistics.
+Statistiques des accidents dans l’entreprise.
+Autor:
+Instituto Nacional de Seguridad y Salud en el Trabajo 
+(INSST), O.A., M.P.
+Elaborado por:
+Sonia Mollar Bonilla.
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO. INSST.
+La presente Nota Técnica de Prevención (NTP) sustituye a la 
+NTP 1, a la NTP 2 y a la NTP 236, actualizando su contenido,
+en lo que se refiere a los índices estadísticos y a los métodos 
+de control estadístico de los accidentes de trabajo. 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en 
+una disposición normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas 
+en una NTP concreta es conveniente tener en cuenta su fecha de edición.
+1. INTRODUCCIÓN
+El concepto de accidente de trabajo se define en el 
+artículo 156 del Real Decreto Legislativo 8/2015, de 30 
+de octubre, por el que se aprueba el texto refundido 
+de la Ley General de la Seguridad Social como “toda 
+lesión corporal que el trabajador sufra con ocasión o por 
+consecuencia del trabajo que ejecuta por cuenta aje-
+na”. Este mismo artículo incluye diferentes situaciones 
+en las que un accidente se considera de trabajo, entre 
+ellos, los accidentes “in itinere”, que son los ocurridos 
+al ir o volver del lugar del trabajo. También incluye las 
+enfermedades que la persona contraiga con motivo de 
+la realización de su trabajo, no incluidas en el cuadro 
+de enfermedades profesionales aprobado por el Real 
+Decreto 1299/2006, de 10 de noviembre, por el que se 
+aprueba el cuadro de enfermedades profesionales en el 
+sistema de la Seguridad Social y se establecen criterios 
+para su notificación y registro. 
+Disponer de una descripción exhaustiva del accidente 
+de trabajo permite que su notificación e investigación 
+sean adecuadas. Para facilitar la notificación y que la 
+información obtenida del suceso pueda ser de utilidad, 
+se ha establecido un modelo de parte de accidente de 
+trabajo donde se recoge lo siguiente: datos de empresa, 
+centro de trabajo, persona accidentada, descripción del 
+accidente, lesiones, etc. Los datos que debe recoger 
+este parte se fijan en la Orden TAS/2926/2002, de 19 
+de noviembre, por la que se establecen nuevos modelos 
+para la notificación de los accidentes de trabajo y se 
+posibilita su transmisión por procedimiento electrónico.
+La investigación del accidente debe iniciarse cuanto 
+antes con el objetivo de conocer el desarrollo de los 
+acontecimientos, determinar qué y por qué ha sucedido, 
+así como los factores que directa e indirectamente, han 
+influido en su materialización, y, de esta forma, poder 
+proponer medidas correctoras pertinentes encaminadas 
+a evitar su repetición futura.
+Por otro lado, mediante la realización de un análi-
+sis estadístico de la siniestralidad laboral, se pueden 
+obtener conclusiones sobre su evolución global en la 
+empresa, realizar comparaciones entre determinadas 
+áreas o procesos, comparar los datos a nivel sectorial, 
+por zona geográfica, etc. y obtener información de in-
+terés en función de las características de los accidentes 
+de trabajo ocurridos.
+La información obtenida del análisis estadístico per-
+mite una mejor toma de decisiones en lo referente al 
+establecimiento de métodos de trabajo y medidas de 
+seguridad más adecuados, a la adopción de acciones 
+que ayuden a reducir el número de futuros accidentes 
+con características determinadas, así como a crear 
+campañas de sensibilización centradas en la causa o 
+en factores concretos del accidente, mejorando así su 
+efectividad.
+Con el fin de obtener valores comparables de la 
+siniestralidad, se emplean unos índices que se calculan 
+siguiendo unos criterios determinados que garantizan 
+dicha comparabilidad. Es importante señalar que la 
+gestión de la accidentabilidad no se limita solo a la 
+interpretación de estos índices, sino que también requiere 
+el análisis de otras variables, como son: la gravedad de 
+la lesión, la forma del accidente, el agente material, la 
+naturaleza y zona de la lesión y el análisis de pérdidas 
+(ver NTP 593). 
+2. ÍNDICES ESTADÍSTICOS
+La contabilización de los accidentes de trabajo en 
+números absolutos nos permite conocer el alcance de lo 
+ocurrido, pero no aporta información más allá de la mag-
+nitud numérica del fenómeno. Para conocer otros datos 
+como el grado de exposición, la frecuencia o la probabil-
+idad de que ocurran los accidentes es necesario obtener 
+los denominados “índices estadísticos”.
+Un índice es la expresión numérica de la relación en-
+tre dos cantidades. En el ámbito de la siniestralidad, los 
+índices estadísticos manifiestan lo accidentada que está 
+la población trabajadora en un periodo de tiempo determi-
+nado. También, la gravedad de los accidentes ocurridos, en 
+función del tiempo de recuperación del personal afectado.
+
+2
+Notas Técnicas de Prevención
+Los índices estadísticos se caracterizan por:
+• Marcar tendencias y exponer la evolución de la 
+siniestralidad. 
+• Proporcionar información para marcar objetivos de 
+reducción de la siniestralidad y para establecer indi-
+cadores, con la finalidad de obtener una mejora de las 
+condiciones de trabajo.
+• Permitir la comparación de la accidentabilidad entre 
+diferentes periodos de tiempo en una misma empresa, 
+entre diferentes empresas, entre diferentes actividades 
+u ocupaciones, etc.
+• Permitir la comparación con los índices oficiales por 
+sectores. En este sentido, las estadísticas oficiales 
+ofrecen datos globales de accidentes de trabajo y 
+también de los índices de accidentes de trabajo con 
+baja en jornada, “in itinere”, por sector de actividad, por 
+comunidad autónoma, por provincia, etc.
+Es importante tener en cuenta que, al comparar 
+índices entre diferentes empresas o países, se debe 
+prestar atención a los criterios utilizados en su cálculo, 
+que podrían ser diferentes y, por tanto, la comparación 
+no proporcionaría información válida. 
+Se recomienda el cálculo de los índices en secciones 
+o ámbitos de trabajo homogéneos, es decir, trabajos en 
+los que se esté expuesto a los mismos riesgos o simi-
+lares. De esta forma, se podría determinar qué ámbitos 
+de trabajo tienen una mayor siniestralidad e implantar 
+medidas más concretas, como, por ejemplo, diferenciar 
+entre el personal de oficina y el personal en fábrica, ex-
+puestos a distintos riesgos, pero empleados dentro de 
+la misma empresa. 
+Siguiendo los criterios del informe metodológico 
+estandarizado, elaborado por la Subdirección General de 
+Estadística y Análisis Sociolaboral del Ministerio de Tra-
+bajo y Economía Social, se exponen los siguientes índices 
+estadísticos: el índice de incidencia, de frecuencia, de 
+gravedad y la duración media de las bajas.
+Índice de incidencia (II) 
+El índice de incidencia relaciona el número de accidentes 
+de trabajo ocurridos con el número de personas traba-
+jadoras expuestas al riesgo (Ecuación 1). Representa el 
+número de accidentes ocurridos por cada cien mil perso-
+nas trabajadoras expuestas y puede utilizarse cuando no 
+se dispone de información sobre el número de horas-per-
+sona trabajadas. Este índice puede calcularse para los
+accidentes con baja, para los sin baja y para los acci-
+dentes mortales (Ecuación 2). Un accidente de trabajo 
+mortal es el que ocasiona la muerte de la persona tra-
+bajadora accidentada en el plazo de un año desde la fe-
+cha del accidente. Esto da lugar a que un accidente que 
+inicialmente se calificó como grave (o incluso leve) sea 
+recalificado como mortal si la persona trabajadora fallece 
+como consecuencia de este.
+Ecuación 1. Expresión para el cálculo del índice de incidencia.
+Índice de incidencia = 
+!º $% &''($%)*%+ $% *,&-&./ 
+012324567/47 4 34 9:;<=2545 96>243 >6? 34 >6?@2?;:?>24 5: 4>>25:?@:7 5: @=4A4B6 :7C:>í12>4E:?@: ><A2:=@4 × 100.000 
+Ecuación 2. Expresión para el cálculo del índice de incidencia de accidentes mortales.
+Índice de incidencia de accidentes mortales = 
+!º $% &''($%)*%+ $% *,&-&./ 0/,*&1%+
+234546789/69 6 56 ;<=>?4767 ;8@465 @8A 56 @8AB4A=<A@46 7< 6@@47<AB<9 7< B?6C6D8 <9E<@í34@6G<AB< @>C4<?B6 × 100.000  
+ 
+El concepto de afiliados/as a la Seguridad Social con 
+la contingencia de accidentes de trabajo específicamente 
+cubierta corresponde al número de personas trabajadoras 
+expuestas al riesgo que, generalmente, se determina ob-
+teniendo la media de la plantilla en un periodo de tiempo.
+Índice de frecuencia (IF) 
+El índice de frecuencia relaciona el número de accidentes 
+de trabajo con el número total de horas trabajadas por 
+el colectivo de personas trabajadoras expuestas al 
+riesgo (Ecuación 3). Representa el número de accidentes 
+ocurridos por cada millón de horas trabajadas y, en el caso 
+de accidentes mortales, por cada 100 millones de horas 
+trabajadas.
+El cálculo de este índice, además de permitir la compara-
+ción entre datos de diferentes empresas o administraciones 
+públicas, sectores o áreas geográficas, aporta información 
+para la valoración del riesgo de que ocurra el accidente. 
+Se podría decir que aporta información más precisa que 
+el índice de incidencia. Existe una expresión matemática 
+específica para los accidentes mortales (Ecuación 4).
+Ecuación 3. Expresión para el cálculo del índice de frecuencia.
+Índice de frecuencia = 
+!º $% &''($%)*%+ $% *,&-&./
+!º */*&0 $% 1/,&+ %2%'*(3&4%)*% *,&-&.&$&+ × 1.000.000 
+ 
+Ecuación 4. Expresión para el cálculo del índice de frecuencia de accidentes mortales.
+Índice de frecuencia de accidentes mortales = 
+!º $% &''($%)*%+ $% *,&-&./ 0/,*&1%+
+!º */*&1 $% 2/,&+ %3%'*(4&0%)*% *,&-&.&$&+ × 100.000.000 
+Para el cálculo del número de horas efectivamente tra-
+bajadas, uno de los criterios que podría tomarse es el 
+que sigue, a efectos estadísticos, el Instituto Nacional de 
+Estadística (INE). El INE define como “horas de trabajo 
+efectivas” aquellas que incluyen:
+• Las horas trabajadas durante el tiempo de trabajo.
+• El tiempo empleado en el lugar de trabajo esperando 
+o permaneciendo disponible.
+• Los períodos de descanso en el centro de trabajo, incluidas 
+las pausas para las comidas inferiores a una hora. 
+
+3
+Notas Técnicas de Prevención
+Así mismo, no incluye en el concepto:
+• Las vacaciones. 
+• Los días festivos.
+• Las ausencias por enfermedad y otros motivos pagados. 
+• El tiempo no trabajado por estar afectado por una re-
+gulación de empleo. 
+• El tiempo invertido en desplazamientos al o desde el 
+lugar de trabajo.
+• Las pausas para las comidas superiores a una hora.
+Es interesante, a efectos preventivos, calcular tanto el 
+IF de los accidentes con baja como el IF que engloba 
+ambos tipos de accidente, con y sin baja. 
+Índice de gravedad (IG)
+El índice de gravedad (Ecuación 5) relaciona el número 
+de días de ausencia en el trabajo como consecuencia de 
+los accidentes de trabajo con el tiempo trabajado por las 
+personas expuestas al riesgo. Representa el número de 
+días de baja por cada mil horas trabajadas.
+Ecuación 5. Expresión para el cálculo del índice de gravedad.
+Índice de gravedad = 
+!í#$ &' &()#*+ó- &' .#$ /#0#$
+1º 343#. &' 54)#$ '6'*3+7#8'-3' 3)#/#0#&#$ × 1.000 
+ 
+De acuerdo con el informe metodológico estandarizado, 
+indicado anteriormente, los días de duración de las bajas 
+son los días naturales que la persona trabajadora acciden-
+tada permanece en situación de incapacidad temporal. Los 
+días se contabilizan desde la fecha de baja hasta la fecha 
+de alta, ambos días inclusive, pertenecientes al periodo 
+de baja inicial, de forma que se excluyen en el cómputo 
+total los días de baja debidos a recaídas posteriores. El 
+concepto de “días de duración de las bajas” sustituye al 
+de “jornadas no trabajadas” empleado por el Ministerio de 
+Trabajo y Economía Social y reflejado en su informe meto-
+dológico hasta 2015.
+Respecto al número total de horas efectivamente traba-
+jadas, se aplica lo descrito en el apartado del IF.
+Duración media de las bajas
+Este indicador relaciona el número de días de baja como 
+consecuencia de los accidentes de trabajo con el número de 
+accidentes de trabajo ocurridos (Ecuación 6). Permite cuan-
+tificar el tiempo medio de duración de la baja por accidente.
+ 
+Ecuación 6. Expresión para el cálculo de la duración media de 
+las bajas.
+Duración media de las bajas = 
+!í#$ &' &()#*+ó- &' .#$ /#0#$
+1º &' #**+&'-3'$ &' 3)#/#04 
+ 
+Respecto al número de días de las bajas, se aplica lo 
+descrito en el apartado del IG.
+3. MÉTODO DE LAS LÍNEAS LÍMITE 
+El método de las líneas límite se utiliza para controlar la 
+evolución de la siniestralidad a corto y largo plazo mediante 
+el uso de gráficos. En esta NTP, se tratan, concretamente, 
+el diagrama de IF mes a mes y el diagrama de IF anual 
+acumulado. 
+Este método de control estadístico consiste en el cálcu-
+lo de unos valores (límite superior, LS, y límite inferior, LI) 
+que delimitan un intervalo de valores aceptables, con un 
+nivel de confianza determinado, en función del número de 
+horas trabajadas y del IF esperado, y en la posterior com-
+paración de dichos límites con los IF. El IF esperado es un 
+valor previamente fijado por la empresa o administración 
+pública que podrá ser o bien el mismo del año anterior, 
+o bien un valor inferior fundamentado en una política de 
+objetivos de prevención de riesgos laborales buscando 
+reducir los accidentes de trabajo.
+El método permite detectar, a través de la evolución 
+del IF, si los cambios experimentados son debidos a una 
+fluctuación aleatoria o a la entrada de un nuevo factor que 
+ha podido modificar las condiciones de trabajo. 
+Para la aplicación de este método, se consideran tres casos:
+• Caso 1. Si, en el periodo considerado, el número de 
+horas trabajadas (N) es inferior a 10.000, no es apli-
+cable este método, debiéndose acumular las horas 
+de dos o más meses consecutivos para poder apli-
+carlo, es decir, en lugar de emplear IF mensuales, 
+se realizará una comparación, por ejemplo, bimestral 
+o trimestral.
+• Caso 2. Si, en el período considerado, N es superior 
+a 10.000 pero inferior a 1.200.000, los accidentes de 
+trabajo siguen la distribución de Poisson. Esto es por-
+que las propiedades estadísticas de los accidentes de 
+trabajo se ajustan a esta distribución.
+• Caso 3. Si, en el período considerado, N es superior a 
+1.200.000, es decir, N toma valores altos, la distribución 
+de los accidentes de trabajo, que siguen la Ley Pois-
+son, se asemeja a la Normal. Por ello, en este caso, 
+el método se aplica siguiendo la distribución Normal.
+Existe una ecuación matemática para el cálculo de los va-
+lores de los límites, superior (Ecuación 7) e inferior (Ecuación 
+8), considerando un intervalo de confianza del 90%, cuando 
+N es un valor elevado, caso 3 (distribución normal). 
+Ecuación 7. Ecuación para el cálculo del valor del límite superior.
+LS = 𝐼𝐼𝐼𝐼! + 52,18 *
+"#!
+$% 
+ 
+Siendo,
+IFe = índice de frecuencia esperado.
+𝑁𝑁
+N’ = número de horas trabajadas dividido por 1.000, N’ = 
+ 
+1000. 
+Esta división tiene como objetivo simplificar la ecuación 
+resultante.
+Ecuación 8. Ecuación para el cálculo del valor del límite inferior.
+LI = 𝐼𝐼𝐼𝐼! −52,18 *
+"#!
+$% 
+ 
+En caso de que el número de horas trabajadas, N, sea 
+un valor entre 10.000 y 1.200.000, caso 2, la ecuación 
+matemática anterior (distribución Normal) se modifica 
+mediante una aproximación empírica que la asemeja a 
+la distribución de Poisson (Ecuación 9 y Ecuación 10):
+Ecuación 9. Ecuación para el cálculo del valor límite superior.
+LS = 𝐼𝐼𝐼𝐼! +
+"#$
+%& + 52,18 *
+'(!
+%& 
+ 
+
+4
+Notas Técnicas de Prevención
+Ecuación 10. Ecuación para el cálculo del valor límite inferior.
+LI = 𝐼𝐼𝐼𝐼! +
+"#$
+%& −52,18 +
+'(!
+%& 
+Estas ecuaciones (Ecuación 9 y Ecuación 10) pueden utili-
+zarse, además, para cualquier número de horas, ya que, al 
+incrementar N, el término 750  t
+ iende a hacerse desprecia-
+𝑁𝑁′
+ble, asemejándose de nuevo a las expresiones que siguen 
+la distribución Normal (Ecuación 7 y Ecuación 8). 
+Para una mejor comprensión, se expone el siguiente caso 
+práctico. Cabe indicar que los datos empleados en el caso 
+no provienen de una fuente real y se han seleccionado úni-
+camente con el objeto de realizar este ejercicio, de forma que 
+sirva de apoyo en la explicación de los diferentes conceptos. 
+Por otro lado, para la elaboración de los diferentes 
+diagramas, se ha empleado la herramienta informática 
+“Accidentes de trabajo. Control estadístico” elaborada 
+por el INSST, que permite realizar el control estadístico 
+de la siniestralidad mediante los diagramas de IF mes a 
+mes, el anual acumulado y una comparativa con el año 
+anterior, así como el cálculo de los índices de incidencia, 
+de frecuencia, sus versiones para accidentes mortales, 
+el de gravedad y la duración media de las bajas.
+En la tabla 1, se muestran los datos sobre la acci-
+dentabilidad registrada en una empresa ficticia durante 
+un año. El IF esperado para el periodo de estudio, en 
+función de los resultados del año anterior, se ha deter-
+minado en 50.
+Tabla 1. Datos sobre la accidentabilidad de una empresa ficticia en el periodo de un año natural.
+Plantilla
+Horas 
+trabajadas 
+cada mes
+Accidentes 
+ocurridos 
+cada mes
+Índice de 
+frecuencia 
+mensual
+Horas 
+trabajadas 
+acumuladas 
+por mes
+Accidentes 
+acumulados 
+por mes
+Índice de 
+frecuencia 
+mensual 
+1
+acumulado
+Enero
+180
+24.480
+4
+163,4
+24.480
+4
+163,4
+Febrero
+185
+28.120
+3
+106,68
+52.600
+7
+133,08
+Marzo
+185
+34.040
+2
+58,75
+86.640
+9
+103,88
+Abril
+190
+28.880
+1
+34,63
+115.520
+10
+86,56
+Mayo
+185
+32.560
+3
+92,14
+148.080
+13
+87,79
+Junio
+190
+30.400
+2
+65,79
+178.480
+15
+84,04
+Julio
+190
+22.800
+1
+43,86
+201.280
+16
+79,49
+Agosto
+190
+19.760
+0
+0
+221.040
+16
+72,38
+Septiembre
+185
+29.600
+2
+67,57
+250.640
+18
+71,82
+Octubre
+185
+29.600
+3
+101,35
+280.240
+21
+74,93
+Noviembre
+185
+28.120
+3
+106,68
+308.360
+24
+77,83
+Diciembre
+185
+20.720
+1
+48,26
+329.080
+25
+75,97
+∑ = 329.080
+∑ = 25
+1 Ver ecuación 11.
+Para el ejemplo práctico que se plantea, el número de 
+horas trabajadas totales es 329.080, por lo tanto, será de 
+aplicación el caso 2. Las expresiones matemáticas que 
+se emplearán para obtener los valores de los límites (LS 
+y LI) que definirán las líneas límite en cada uno de los dia-
+gramas se muestran en las ecuaciones 9 y 10.
+Diagrama de índices de frecuencia mes a mes
+Este diagrama permite identificar las fluctuaciones a corto 
+plazo del IF y establecer la significación de un aumento 
+repentino. Al comparar el IF de cada mes por separado, 
+es posible detectar aquellos meses en los que ha habido 
+un pico de siniestralidad y, así, analizar las condiciones 
+de trabajo en ese periodo de tiempo. Esto nos proporcio-
+na información más precisa para el análisis de las causas 
+básicas de los accidentes de trabajo.
+Consiste en un gráfico en el que se representan los IF 
+calculados para cada mes (Ecuación 3), para un núme-
+ro determinado de meses, así como los valores de los 
+límites, LS y LI, correspondientes. 
+En el gráfico, se dibujarán 6 líneas límite (Figura 1) que 
+se corresponden con los valores de los límites superior e 
+inferior para 3 meses consecutivos. Para su cálculo, se 
+considerará lo siguiente: 
+• Para el cálculo de los valores de los dos primeros 
+límites, LS1 y LI1, se emplearán las horas trabajadas 
+del primer mes del periodo de estudio. 
+• Para el cálculo de los valores de los dos segundos 
+límites, LS2 y LI2, se emplearán las horas trabajas acu-
+
+5
+Notas Técnicas de Prevención
+muladas del primer mes más las del mes consecutivo, 
+en total 2 meses. 
+• Para el cálculo de los valores de los dos terceros lí-
+mites, LS3 y LI3, se emplearán las horas trabajadas 
+acumuladas de los dos primeros meses más las del 
+mes consecutivo, en total 3 meses.
+En el caso de tener que aproximar el número de horas 
+trabajadas, se recomienda aproximar la cifra hacia arri-
+ba, en beneficio de la seguridad, puesto que los valores 
+de los límites que se obtendrán serán ligeramente más 
+estrictos.
+Los límites obtenidos al inicio del análisis tendrán vali-
+dez para todo el periodo de estudio siempre que no varíe 
+de un modo significativo el número de horas trabajadas 
+por mes, ni cambie el IF esperado.
+Siguiendo con el caso de la tabla 1, se obtendrán los 
+siguientes resultados:
+Para el primer mes, enero, horas trabajadas de enero 
+24.480 (N): 
+Límite superior, LS1: 155,21.
+Límite inferior, LI1: 6,06.
+Para el primer y segundo mes, enero y febrero, horas 
+trabajadas acumuladas 52.600 (N): 
+Límite superior, LS2: 115,13.
+Límite inferior, LI2: 13,38.
+Para el primer, segundo y tercer mes, enero, febrero y 
+marzo, horas trabajadas acumuladas 86.640 (N): 
+Límite superior, LS3: 98,3.
+Límite inferior, LI3: 19,02.
+Para la elaboración del diagrama (Figura 1), se pueden 
+seguir los siguientes pasos:
+1º Dibujar el gráfico ubicando los valores de los IF en 
+el eje de ordenadas y los meses en el de abscisas. 
+2º Representar en el gráfico el IF esperado mediante 
+una línea recta paralela al eje de abscisas.
+3º Representar los valores de los límites superior e in-
+ferior, es decir, 6 líneas rectas paralelas al eje de 
+abscisas a diferentes alturas del eje de ordenadas.
+4º Representar, mediante puntos, los IF de los meses 
+que formen el periodo de estudio.
+Figura 1. Representación de las líneas límite del diagrama de índices de frecuencia mes a mes. Caso práctico. 
+Fuente: Herramientas para la prevención. Accidentes de trabajo. Control estadístico. INSST.
+Una vez representado el diagrama, se puede concluir, con 
+un intervalo de confianza del 90%, que las condiciones de 
+seguridad han experimentado una variación significativa si:
+• El IF de un solo mes se ubica más allá de las líneas que 
+marcan los valores de los límites LS1 y LI1.
+• Los IF de 2 meses consecutivos se ubican más allá de 
+las líneas que marcan los valores de los límites LS2 
+y LI2.
+• Los IF de 3 meses consecutivos se ubican más allá de 
+las líneas que marcan los valores de los límites LS3 
+y LI3.
+Siguiendo con el caso práctico, el diagrama resultante se 
+muestra en la figura 1, donde se observa que el IF del mes 
+de enero está por encima del límite LS1. Esto puede inter-
+pretarse como que sería necesario revisar las condiciones 
+de trabajo y adoptar las medidas correctoras adecuadas. Si 
+la situación no mejorase, será difícil alcanzar el IF esperado.
+En el mes de febrero, la situación ha mejorado hasta un 
+nivel aceptable al situarse al menos uno de los valores de 
+dos meses consecutivos, en este caso, enero y febrero, por 
+debajo de la línea LS2. 
+En el mes de marzo se observa que la accidentabilidad 
+continúa bajando, acercándose el IF mensual al valor del IF 
+esperado. La situación se considera aceptable al situarse 
+al menos uno de los valores de los IF de tres meses con-
+secutivos, en este caso, enero, febrero y marzo, por debajo 
+de la línea LS3.
+El resto de los IF mensuales se encuentran dentro de los 
+límites fijados, es decir, se cumplen las previsiones estadísti-
+cas y por tanto existe la posibilidad de alcanzar los objetivos 
+previstos. En los meses de octubre y noviembre, se supera el 
+LS3, pero se mantienen por debajo de los LS1 y LS2, por lo 
+que no se cumple la condición de que 3 meses consecutivos 
+se ubiquen más allá del LS3. En diciembre la situación se 
+recupera ya que el IF vuelve a ubicarse dentro de los límites. 
+Por lo tanto, se consideraría que la evolución de la si-
+niestralidad es favorable respecto a los objetivos fijados y 
+no sería necesaria, de forma urgente e inmediata, la adop-
+ción de medidas preventivas. Sin embargo, a medio plazo, 
+sería necesario el estudio de las condiciones de trabajo y 
+las actuaciones correspondientes de forma que se consiga 
+una siniestralidad nula.
+Como se ha indicado anteriormente, mediante este dia-
+grama, se pueden identificar las alzas significativas de los 
+IF. Podemos observar, en el caso que nos concierne, que 
+existen incrementos significativos de la accidentabilidad en 
+los meses de mayo, septiembre y octubre, respecto a los 
+
+6
+Notas Técnicas de Prevención
+meses de abril, agosto y septiembre, respectivamente, y 
+también se observan descensos significativos en los meses 
+de abril, agosto y diciembre, respecto a los meses de mar-
+zo, julio y noviembre, respectivamente. Sería interesante, el 
+estudio de las condiciones de trabajo durante estos meses 
+para determinar el motivo de estas variaciones.
+También podemos observar que, aunque los valores de 
+los índices se encuentran, en su mayoría, dentro de los 
+límites fijados, existen fluctuaciones alrededor del IF es-
+perado. Esto podría ser bastante significativo e indicar que 
+existe un nuevo factor no identificado que está alterando 
+de manera estable las condiciones de trabajo y no permite 
+que la situación mejore a pesar de la aplicación de medidas 
+preventivas. Por ello es recomendable realizar el estudio de 
+los IF acumulados en el periodo de un año. 
+Diagrama de índices de frecuencia anual acumulado
+El análisis de la siniestralidad a corto plazo puede, en ocasio-
+nes, no ser concluyente y necesitar un estudio a largo plazo. 
+El diagrama de IF anual acumulado permite el control 
+estadístico a largo plazo mostrando la tendencia al alza 
+o a la baja de la siniestralidad y detectando si una situa-
+ción precisa de una nueva acción correctora, al salirse 
+el IF del campo de lo esperado. El diagrama también 
+permite el control de la efectividad de las acciones pre-
+ventivas implantadas. 
+Asimismo, permite la comparación con las cifras glo-
+bales del sector que proporciona el Ministerio de Trabajo 
+y Economía social, lo que aporta información, en rela-
+ción con otras empresas y administraciones públicas, 
+sobre la situación preventiva de la empresa.
+El diagrama consiste en la representación, en un 
+gráfico, de los IF mensuales acumulados (Ecuación 11) 
+para 12 meses y los valores de los límites LS y LI corres-
+pondientes. El IF acumulado se calcula tomando como 
+datos la suma del número total de horas efectivamente 
+trabajadas (HT) y la suma de los accidentes de trabajo 
+ocurridos (AT), ambos desde el mes de inicio hasta el 
+mes presente.
+Ecuación 11. Expresión para el cálculo del índice de frecuencia acumulado.
+Índice de frecuencia acumulado = 
+!º $% &'!"# %(!º $% &'!"# &(⋯(!º $% &'!"# '()*'+
+!º *+*,- $% .'!"# %(!º *+*,- $% .'!"# &(⋯(!º *+*,- $% .'!"# '()*'+ × 1.000.000 
+ 
+El cálculo de los valores de los límites sigue el mismo 
+proceso que el del diagrama de IF mes a mes, emplean-
+do las horas trabajadas acumuladas, hasta alcanzar los 
+12 meses. En este caso, la forma de representación de 
+los límites es diferente. Mientras que para el diagrama 
+mes a mes, los límites se dibujan mediante una línea 
+recta a la altura del valor del límite obtenido, en el anual 
+acumulado, se representan los valores de los límites de 
+cada mes mediante puntos que se unirán formando las 
+dos líneas límite, el LS y el LI, que delimitarán el campo 
+de lo esperado para un intervalo de confianza del 90% 
+(Figura 2). 
+En la tabla 2, se muestran los valores de los límites 
+superior e inferior calculados utilizando los datos del 
+ejemplo práctico (Tabla 1) y las expresiones de las ecua-
+ciones 9 y 10.
+Tabla 2. Valores de los límites superior e inferior para el diagrama de IF anual acumulado.
+Ene
+Feb
+Mar
+Abr
+May
+Jun
+Jul
+Ago
+Sept
+Oct
+Nov
+Dic
+L.S.
+155,21
+115,13
+98,3
+90,82
+85,38
+81,82
+79,73
+78,21
+76,3
+74,72
+73,44
+72,62
+L.I.
+6,06
+13,38
+19,02
+22,16
+24,74
+26,58
+27,72
+28,57
+29,69
+30,63
+31,42
+31,94
+Para la elaboración del diagrama (Figura 2), se pueden se-
+guir los siguientes pasos:
+1º Dibujar el gráfico ubicando los valores de los IF acumula-
+dos en el eje de ordenadas y los meses en el de abscisas. 
+2º Representar en el gráfico el IF esperado mediante una 
+línea recta paralela al eje de abscisas.
+3º Representar los valores de los límites superior e in-
+ferior de cada uno de los 12 meses. Los valores de 
+los limites se representarán en forma de punto en el 
+gráfico y se trazará sobre ellos las dos líneas límite 
+superior (LS) e inferior (LI).
+4º Representar los IF acumulados (Ecuación 11) para 
+cada mes mediante puntos y trazar sobre ellos una 
+línea continua.
+Figura 2. Representación de las líneas límite del diagrama de índices de frecuencia anual acumulado. Caso práctico. 
+Fuente: Herramientas para la prevención. Accidentes de trabajo. Control estadístico. INSST.
+
+7
+Notas Técnicas de Prevención
+Si los IF acumulados se encuentran por encima de la lí-
+nea límite superior, se puede entender que un nuevo factor 
+está modificando las condiciones de trabajo en la organiza-
+ción o que las medidas preventivas implantadas no han sido 
+eficaces. Por otro lado, si los IF acumulados se encuentran 
+dentro de las líneas límite, alrededor del IF esperado, sus fluc-
+tuaciones pueden ser debido a una situación circunstancial.
+Siguiendo con el caso práctico, el diagrama resultante se 
+observa en la figura 2. Analizando el diagrama observamos 
+que la situación es muy desfavorable los primeros 3 meses (va-
+lores por encima del LS), mejora en el mes de abril, vuelve a ser 
+desfavorable los tres siguientes meses, mejorando en agosto 
+y septiembre y terminando el año por encima del LS de nuevo.
+Ello, bajo un punto de vista estadístico, permite decir que, 
+con un intervalo de confianza del 90%, el IF obtenido en 
+este año está, generalmente, por encima del LS calculado 
+para el IF esperado establecido al principio del año a pesar 
+de que el análisis a corto plazo (diagrama mes a mes) sólo 
+nos indicaba una situación anómala en enero que mejoraba 
+en febrero y marzo, manteniéndose durante el resto del año 
+dentro de los márgenes.
+En el caso de haber adoptado medidas en los primeros 
+meses de enero para subsanar la situación, se observa que 
+estas medidas no han sido suficientes para restablecer la 
+situación a unos niveles adecuados, es decir, por debajo del 
+LS o, incluso, igual o menor que IF esperado.
+Vemos, entonces, que efectuar exclusivamente un análi-
+sis estadístico a corto plazo nos puede conducir al equívoco 
+y que el hecho de mantener de una manera casi constan-
+te nuestro IF mensual podría indicar la introducción de un 
+nuevo factor que altere de una manera estable nuestras 
+condiciones de trabajo, aunque el diagrama mes a mes no 
+refleje esta situación.
+La utilidad del diagrama acumulado está, precisamente, en 
+la indicación de los momentos clave en que se precisa una 
+acción correctora, al salirse el IF del campo de lo esperado. 
+Ello ha sucedido, en el caso analizado, en los meses de enero 
+a marzo, mayo, junio y de octubre a diciembre, inclusive.
+Comparativa con el año anterior
+Una posible utilización del diagrama de IF anual acumu-
+lado es la comparativa de los datos del periodo anterior 
+con la situación en el presente, de forma que se pueda 
+comprobar la eficacia de las actividades preventivas em-
+prendidas por la empresa encaminadas a la eliminación 
+o reducción de los riesgos laborales.
+Para la elaboración de este gráfico comparativo, se de-
+terminan los siguientes valores:
+• El índice de frecuencia del año anterior (IFa). Se cal-
+cularán los valores de los límites superior e inferior 
+(Ecuación 9 y Ecuación 10) empleando las horas tra-
+bajadas durante el año anterior y tomando como valor 
+del IF esperado el valor del IFa.
+• El índice de frecuencia esperado (IFe) para el año en 
+curso, que será inferior al anterior, teniendo en cuenta 
+las actividades preventivas programadas sobre las que 
+se esperan unos resultados que incidan en la reduc-
+ción de los accidentes. Se calcularán los valores de 
+los límites superior e inferior (Ecuación 9 y Ecuación 
+10) empleando las horas trabajadas durante el año 
+presente.
+Las líneas limites se dibujarán siguiendo el mismo 
+método que el utilizado en el diagrama de IF anual 
+acumulado, para cado uno de los dos periodos de 
+tiempo.
+Toda esta información delimitará una serie de zonas en 
+el gráfico y, en función de la ubicación de los diferen-
+tes IF acumulados que se vayan calculando para cada 
+mes que acontezca, irá aportando una información u 
+otra (Figura 3). Las zonas serán:
+• Situación muy deficiente: más desfavorable que el 
+año anterior (difícilmente se alcanzarán los objetivos 
+previstos).
+• Situación deficiente: fuera de las previsiones del 
+programa anual, pero no peor que el año anteri-
+or (escasa probabilidad de alcanzar los objetivos 
+previstos).
+• Situación de alerta: ligeramente por encima de 
+lo esperado, pero estadísticamente dentro de lo 
+previsto (posibilidad de alcanzar los objetivos 
+previstos).
+• Situación aceptable: ligeramente por debajo de lo 
+esperado, y estadísticamente dentro de lo previsto.
+• Situación positiva: por debajo de los esperado y, 
+aunque estadísticamente se encuentre dentro de 
+los márgenes previstos para el año en curso, se han 
+mejorado categóricamente los resultados del año 
+anterior.
+• Situación excelente: los resultados han superado es-
+tadísticamente lo previsto. La probabilidad de, como 
+mínimo, alcanzar los objetivos es muy elevada.
+Figura 3. Representación de las líneas límite del diagrama para la comparativa con el año anterior. 
+Enero
+Febrero
+Marzo
+Abril
+Mayo
+Junio
+Julio
+Agosto
+Septiembre
+Octubre
+Noviembre
+Diciembre
+250
+200
+150
+100
+50
+0
+Situación muy deficiente
+Situación de alerta
+Situación excelente
+Situación positiva
+LS año anterior
+IF año anterior (IFa)
+LS esperado
+IF esperado (IFe)
+Ll esperado
+Ll año anterior
+Situación aceptable
+Situación deficiente
+
+8
+Notas Técnicas de Prevención
+Siguiendo con el caso práctico, se comparan los da-
+tos recogidos durante el año de estudio (Tabla 1) con 
+los del año anterior, el gráfico resultante se muestra en 
+la figura 4. El IF estimado en base a la actividad del año 
+anterior que se ha utilizado para la realización de este 
+ejercicio es de 94, más desfavorable que el del periodo 
+de estudio.
+Del estudio comparativo con el año anterior, podemos 
+concluir que la situación es, en general, deficiente. Los va-
+lores de los IF se encuentran en su gran mayoría por encima 
+del LS esperado para el periodo de estudio y por debajo del 
+calculado para el año anterior. La siniestralidad es mayor de 
+lo esperado para este año, pero no peor que el año anterior.
+Esto podría indicar que las medidas preventivas im-
+plantadas por la empresa han mejorado las condiciones 
+de trabajo, sin embargo, se debería seguir mejorando la 
+situación porque no se han alcanzado los objetivos ini-
+ciales previstos.
+Este método comparativo es muy útil si se va cons-
+truyendo a lo largo del año, es decir, ir reflejando en el 
+diagrama, a medida que se van cumpliendo los meses, 
+los valores de los IF, de forma que nos va indicando la 
+probabilidad de alcanzar los objetivos previstos mediante 
+la adopción de medidas preventivas.
+Figura 4. Diagrama de la comparativa con el año anterior. 
+Fuente: Herramientas para la prevención. Accidentes de trabajo. Control estadístico. INSST.
+BIBLIOGRAFÍA
+BESTRATEN BELLOVÍ, M., GIL FISA, A. y PIQUÉ ARDANUY, T. 2001. La gestión integral de los accidentes de trabajo 
+(II): control estadístico. Instituto Nacional de Seguridad e Higiene en el Trabajo. Disponible en: NTP 593. 
+BESTRATÉN BELLOVÍ, M. y otros. Seguridad en el trabajo. 6º ed. INSHT, 2011. ISBN 978-84-7425-790-8. Disponible en: 
+Seguridad en el trabajo. 
+GÓMEZ-ACEBO MIRALLES, A. Y TORRES GUTIÉRREZ, V. Documento 429. Control estadístico rápido de los accidentes 
+de trabajo a escala de empresa. Instituto Nacional de Medicina y Seguridad en el Trabajo. 
+Institut Valencià de Seguretat i Salut en el Treball. 2013. El control estadístico de la accidentabilidad. Disponible en: El 
+control estadístico de la accidentabilidad.
+Portal del Instituto Nacional de Estadística, Glosario de conceptos: horas de trabajo efectivas, [consulta: 27 marzo 2024]. 
+Disponible en: INE: horas de trabajo efectivas.
+Portal del Instituto Nacional de Seguridad y salud en el Trabajo, Herramientas para la prevención, Accidentes de trabajo. 
+Control estadístico, [consulta: 27 marzo 2024]. Disponible en: Accidentes de trabajo. Control estadístico. 
+SHIPP, P. J. Documento 256. Presentación y explotación de las estadísticas de accidentes a escala empresa. Instituto 
+Nacional de Medicina y Seguridad en el Trabajo.
+Subdirección General de Estadística y Análisis Sociolaboral del Ministerio de Trabajo y Economía Social. 2023. Estadística 
+de accidentes de trabajo (atr).  Informe metodológico estandarizado. Disponible en: Informe metodológico estandarizado.
+Texto refundido de la Ley General de la Seguridad Social. Real Decreto Legislativo 8/2015, de 30 de octubre. Boletín 
+oficial del estado, nº 261 (31-10-2015). Disponible en: RDL 8/2015.
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSST, nº NTP, año y título. 
+NIPO: 118-20-027-6
