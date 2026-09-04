@@ -1,5 +1,18 @@
 # Tema 23 del específico de Enfermería de Empresa · Esfuerzos sostenidos de la voz
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 23 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 1299/2006** del cuadro de enfermedades profesionales, con las notas técnicas **NTP 1149**, de voz y trabajo, y **NTP 1226**, de vigilancia de la salud específica, del INSST |
+| **Identificador** | `BOE-A-2006-22169` · **NTP 1149** · **NTP 1226** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; las notas técnicas, en su edición de 2020 y 2025 |
+| **Extensión** | **3.917 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: las Notas Técnicas de Prevención (**NTP**) del
 Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); y el Sistema Nacional de Salud
 (**SNS**).
@@ -34,6 +47,19 @@ Y la NTP 1226 **dice de sí misma quiénes son sus destinatarios**, citada:
 **Es decir: está escrita para el puesto que este temario prepara.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El problema, y a quién afecta](#1-el-problema-y-a-quién-afecta)
+- [2. Los nódulos de cuerdas vocales y el hueco del cuadro](#2-los-nódulos-de-cuerdas-vocales-y-el-hueco-del-cuadro)
+- [3. La disfonía: concepto y clases](#3-la-disfonía-concepto-y-clases)
+- [4. Etiología](#4-etiología)
+- [5. Medidas preventivas](#5-medidas-preventivas)
+- [6. La vigilancia de la salud](#6-la-vigilancia-de-la-salud)
+- [7. Qué hace la enfermería del trabajo](#7-qué-hace-la-enfermería-del-trabajo)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El problema, y a quién afecta
@@ -363,7 +389,7 @@ es, junto con el diseño del entorno, casi toda la prevención que hay.**
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
 | **Primero: norma del BOE en vigor a la fecha de corte** | Real Decreto 1299/2006, de 10 de noviembre, **por el que se aprueba el cuadro de enfermedades profesionales en el sistema de la Seguridad Social** (`BOE-A-2006-22169`), en su redacción vigente el 21 de diciembre de 2022 | **La rúbrica de la letra L del grupo 2 de su anexo 1**, citada literalmente |
-| **Documento técnico oficial** | NTP 1149, **«Voz y trabajo: procedimiento preventivo»**, del INSST, **2020**, guardada en `fuentes/salud-laboral/` | **La enumeración de perfiles expuestos**, **los agravantes y sus consecuencias**, **el pasaje sobre lo que el cuadro dejó fuera** y **el de los 700 casos de 2018 y la invisibilidad del resto**, citados literalmente |
+| **Documento técnico oficial** | NTP 1149, **«Voz y trabajo: procedimiento preventivo»**, del INSST, **2020** | **La enumeración de perfiles expuestos**, **los agravantes y sus consecuencias**, **el pasaje sobre lo que el cuadro dejó fuera** y **el de los 700 casos de 2018 y la invisibilidad del resto**, citados literalmente |
 | **Documento técnico oficial** | NTP 1226, **«Voz y trabajo: recomendaciones para la vigilancia de la salud específica»**, del INSST, **2025**, guardada en la misma carpeta | **Sus destinatarios**, **el rango complementario de sus recomendaciones**, **las seis preguntas del protocolo**, **la definición de disfonía**, **las de disfonía aguda y crónica**, **la advertencia de que la disfonía es un síntoma**, **el pasaje sobre las disfonías sin lesión orgánica**, **la tabla de causas con sus ejemplos**, **la definición de disfonía crónica de origen laboral**, **los cinco elementos con sus cifras** y **la conclusión sobre poner cualquier disfonía a consideración de la mutua**, citados literalmente |
 
 **Ocho declaraciones expresas:**

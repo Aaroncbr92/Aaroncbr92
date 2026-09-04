@@ -1833,6 +1833,64 @@ BLOQUES = {
                       "se apoyan sólo en la plantilla. Cada respuesta lleva <b>el nivel de su "
                       "fuente</b> escrito al lado.</p>",
     ),
+    "enfermeria": dict(
+        carpeta="enfermeria",
+        rotulo="Temario específico · Enfermería de Empresa",
+        ocupacion="Enfermería de Empresa",
+        titulo="Temario específico",
+        subtitulo="Los veinticinco temas de <b>Enfermería de Empresa</b>",
+        pie="Oposiciones RTVE – Enfermería de Empresa",
+        convocatoria="Oposiciones RTVE · Banco de Datos",
+        sin_examen=True,
+        avisos={},
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), None) for n, base in [
+            (1, "marco-normativo-y-condiciones-de-trabajo"),
+            (2, "las-cuatro-disciplinas-preventivas-y-la-senalizacion"),
+            (3, "estres-desgaste-profesional-y-acoso"),
+            (4, "la-enfermera-del-trabajo-autonomia-del-paciente-y-proteccion-de-datos"),
+            (5, "la-vigilancia-de-la-salud"),
+            (6, "accidente-de-trabajo-y-enfermedad-profesional"),
+            (7, "promocion-de-la-salud-en-el-trabajo"),
+            (8, "la-espirometria-en-los-examenes-de-salud-laboral"),
+            (9, "patologia-de-origen-laboral"),
+            (10, "tecnicas-y-procedimientos-en-enfermeria-del-trabajo"),
+            (11, "inmunizacion-en-el-ambito-laboral"),
+            (12, "demografia-e-indicadores-de-salud"),
+            (13, "estadistica-descriptiva-e-inferencial"),
+            (14, "epidemiologia"),
+            (15, "exposicion-profesional-a-agentes-fisicos"),
+            (16, "exposicion-profesional-a-agentes-biologicos"),
+            (17, "exposicion-profesional-a-agentes-quimicos"),
+            (18, "exposicion-profesional-a-agentes-cancerigenos"),
+            (19, "trastornos-musculoesqueleticos"),
+            (20, "equipos-de-proteccion-individual"),
+            (21, "uso-de-pantallas-de-visualizacion-de-datos"),
+            (22, "proteccion-de-la-maternidad-en-el-trabajo"),
+            (23, "esfuerzos-sostenidos-de-la-voz"),
+            (24, "las-drogodependencias-en-el-medio-laboral"),
+            (25, "primeros-auxilios"),
+        ]],
+        aviso_respuestas="",
+        aviso_portada="<p><b>Este volumen no sale de la convocatoria 1/2022, sino de las Bases "
+                      "de la Convocatoria de Banco de Datos de RTVE</b>, cuyo anexo 1 numera "
+                      "veinticinco puntos para la ocupación tipo de Enfermería de Empresa. "
+                      "<b>Aquí hay un tema por punto</b>: ni uniones ni desdobles, de modo que "
+                      "el número del tema es el número del programa.</p>"
+                      "<p><b>Es el único volumen del proyecto que no lleva el tema común de "
+                      "prevención de riesgos laborales</b>, y no por descuido: en esta ocupación "
+                      "la prevención no es un punto añadido al final, es la materia entera. Sus "
+                      "veinticinco puntos la recorren de la organización preventiva a los "
+                      "primeros auxilios.</p>"
+                      "<p><b>Buena parte de este temario no se estudia en el BOE, sino en las "
+                      "notas técnicas de prevención del Instituto Nacional de Seguridad y Salud "
+                      "en el Trabajo y en los documentos del Ministerio de Sanidad.</b> Cada tema "
+                      "dice en su trazabilidad qué documento ha usado, qué ha citado literalmente "
+                      "y qué va como oficio declarado. <b>Y varios temas traen un epígrafe de "
+                      "hallazgos</b>: erratas y contradicciones encontradas en las propias "
+                      "fuentes oficiales, comprobadas a ojo sobre el documento original.</p>",
+    ),
     "informacion": dict(
         carpeta="informacion",
         rotulo="Temario específico · Información y Contenidos",
@@ -2169,12 +2227,16 @@ def main():
         partes.append("\n".join(bloque))
 
     # ── apéndice de respuestas ────────────────────────────────────────────────
-    resp = ['<section class="tema"><p class="rotulo">Apéndice</p>'
+    # hay ocupaciones que nunca han tenido examen: su volumen no lleva apéndice
+    # de respuestas, ni la portada promete preguntas que no existen
+    sin_examen = B.get("sin_examen", False)
+    resp = [] if sin_examen else [
+            '<section class="tema"><p class="rotulo">Apéndice</p>'
             '<h1>Respuestas oficiales</h1>',
             "<p>La respuesta es la de la <b>plantilla oficial</b> del examen, y el número "
             "es el que la pregunta lleva impreso en su tema. "
             + B["aviso_respuestas"] + "</p>"]
-    for i, t in enumerate(TEMAS, 1):
+    for i, t in enumerate([] if sin_examen else TEMAS, 1):
         if len(t) < 3:
             continue
         base, banco, ps = t
@@ -2195,7 +2257,35 @@ def main():
         for n, texto in erratas:
             resp.append('<div class="%s"><b>%s %d:</b> %s</div>'
                         % (B["clase_aviso"], B["rotulo_aviso"], n, texto))
-    resp.append("</section>")
+    if not sin_examen:
+        resp.append("</section>")
+
+    if sin_examen:
+        linea_meta = ("%s temas · %s esquemas de repaso · <b>sin preguntas de examen</b>"
+                      % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower()))
+        parrafo_partes = (
+            "<p><b>Cada tema trae dos partes.</b> El <b>cuerpo</b>, para leer, y el "
+            "<b>esquema</b>, para repasar, que va detrás y no delante a propósito.</p>")
+        parrafo_preguntas = (
+            "<p><b>Este volumen no trae preguntas de examen porque esta ocupación no las "
+            "tiene.</b> No se ha convocado ninguna prueba de la que existan cuadernillo y "
+            "plantilla, de modo que aquí no hay nada que contrastar contra una respuesta "
+            "oficial. <b>Se dice y no se disimula</b>: un temario que inventara preguntas "
+            "para rellenar sería peor que uno que no las tiene.</p>")
+    else:
+        linea_meta = ("%s temas · %s esquemas de repaso · <b>%d</b> preguntas reales de examen"
+                      % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower(), total_preg))
+        parrafo_partes = (
+            "<p><b>Cada tema trae tres partes.</b> El <b>cuerpo</b>, para leer; el "
+            "<b>esquema</b>, para repasar, que va detrás y no delante a propósito; y las "
+            "<b>preguntas reales</b> de los cuadernillos de 2024, para comprobar si el tema se "
+            "sostiene. <b>Las respuestas están al final del volumen</b>, no junto a la "
+            "pregunta: con la respuesta a la vista no hay autoevaluación.</p>")
+        parrafo_preguntas = (
+            "<p><b>Las preguntas se imprimen tal como salieron del examen</b>, sin más limpieza "
+            "que quitarles el pie de página. Son transcripciones de los cuadernillos oficiales y "
+            "traen sus costuras: alguna arrastra una letra mal reconocida. <b>Están leídas una a "
+            "una</b> y colocadas en el tema que les toca, comprobando cada una contra la norma.</p>")
 
     ig = []
     for i, t, entradas in indice_gral:
@@ -2208,12 +2298,12 @@ def main():
 <!-- pie: {B["pie"]} -->
 <title>{B["titulo"]} · Oposiciones RTVE</title><style>{CSS}</style></head><body>
 <section class="portada-vol">
-  <p class="rotulo">Oposiciones RTVE · convocatorias 1/2022 y 3/2022</p>
+  <p class="rotulo">{B.get("convocatoria", "Oposiciones RTVE · convocatorias 1/2022 y 3/2022")}</p>
   <h1>{B["titulo"]}</h1>
   <p class="sub">{B["subtitulo"]}</p>
   <div class="meta">
     Redacción vigente a <b>{CORTE}</b><br>
-    {con_letra(len(TEMAS))} temas · {con_letra(len(TEMAS)).lower()} esquemas de repaso · <b>{total_preg}</b> preguntas reales de examen<br>
+    {linea_meta}<br>
     Generado el {date.today().strftime('%d/%m/%Y')}
   </div>
 </section>
@@ -2226,15 +2316,9 @@ imponen las bases: «las pruebas se realizarán sobre su texto vigente a fecha d
 publicación de las Bases Generales». Lo que cambió después está en el tema, en apartados
 marcados como <i>notas de actualización</i>, y <b>no es materia examinable</b>.</p>
 </div>
-<p><b>Cada tema trae tres partes.</b> El <b>cuerpo</b>, para leer; el <b>esquema</b>, para
-repasar, que va detrás y no delante a propósito; y las <b>preguntas reales</b> de los
-cuadernillos de 2024, para comprobar si el tema se sostiene. <b>Las respuestas están al final
-del volumen</b>, no junto a la pregunta: con la respuesta a la vista no hay autoevaluación.</p>
+{parrafo_partes}
 {B["aviso_portada"]}
-<p><b>Las preguntas se imprimen tal como salieron del examen</b>, sin más limpieza que
-quitarles el pie de página. Son transcripciones de los cuadernillos oficiales y traen sus
-costuras: alguna arrastra una letra mal reconocida. <b>Están leídas una a una</b> y colocadas
-en el tema que les toca, comprobando cada una contra la norma.</p>
+{parrafo_preguntas}
 <p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto consolidado
 del BOE en su redacción a la fecha de corte, o en la fuente oficial que se cita en la
 trazabilidad de cada tema.</p>
@@ -2248,7 +2332,8 @@ trazabilidad de cada tema.</p>
 
     # si una errata deja de casar con su pregunta, desaparece del apéndice sin
     # decir nada: el volumen volvería a dar por buena una plantilla que está mal
-    sueltas = set(B["avisos"]) - {i for t in TEMAS if len(t) > 2 for i, _, _ in t[2]}
+    sueltas = set() if sin_examen else (
+        set(B["avisos"]) - {i for t in TEMAS if len(t) > 2 for i, _, _ in t[2]})
     if sueltas:
         print("  ! erratas sin pregunta a la que pegarse: %s" % ", ".join(sorted(sueltas)))
 

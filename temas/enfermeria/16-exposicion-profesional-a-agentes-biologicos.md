@@ -1,5 +1,19 @@
 # Tema 16 del específico de Enfermería de Empresa · Exposición profesional a agentes biológicos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 16 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 664/1997**, de 12 de mayo, sobre agentes biológicos, con la **NTP 447, «Actuación frente a un accidente con riesgo biológico»**, del Centro Nacional de Condiciones de Trabajo |
+| **Identificador** | `BOE-A-1997-11144` · **NTP 447** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; la nota técnica, en la edición que lleva impresa |
+| **Aviso** | **El texto consolidado del real decreto arrastra dos erratas** —«seno» por «serio» y «corno» por «como»— comprobadas contra la página del propio Boletín. Van declaradas |
+| **Extensión** | **5.709 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; las Notas Técnicas de Prevención (**NTP**) del Instituto Nacional de Seguridad y
 Salud en el Trabajo (**INSST**); el virus de la hepatitis B (**VHB**) y el de la hepatitis C
@@ -33,6 +47,22 @@ descargado, leído entera y guardada en el proyecto.**
 | **Desinfectantes: características y usos más corrientes** | **Sólo los tres que la NTP 447 nombra**; lo demás, laguna declarada |
 
 <!-- indice -->
+
+## Índice
+
+- [1. Conceptos: qué es un agente biológico](#1-conceptos-qué-es-un-agente-biológico)
+- [2. La clasificación en cuatro grupos](#2-la-clasificación-en-cuatro-grupos)
+- [3. Identificación y evaluación de riesgos](#3-identificación-y-evaluación-de-riesgos)
+- [4. Reducción de los riesgos y medidas higiénicas](#4-reducción-de-los-riesgos-y-medidas-higiénicas)
+- [5. La vigilancia de la salud](#5-la-vigilancia-de-la-salud)
+- [6. La cadena epidemiológica de transmisión](#6-la-cadena-epidemiológica-de-transmisión)
+- [7. Actuación frente a un accidente con riesgo biológico](#7-actuación-frente-a-un-accidente-con-riesgo-biológico)
+- [8. Desinfectantes](#8-desinfectantes)
+- [9. Dos erratas del texto oficial](#9-dos-erratas-del-texto-oficial)
+- [10. Qué hace la enfermería del trabajo](#10-qué-hace-la-enfermería-del-trabajo)
+- [11. Lo que este tema no da, y dónde está](#11-lo-que-este-tema-no-da-y-dónde-está)
+- [12. Trazabilidad](#12-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Conceptos: qué es un agente biológico
@@ -478,7 +508,7 @@ inmunoglobulina no es una recomendación: es una ventana que se cierra.**
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
 | **Primero: norma del BOE en vigor a la fecha de corte** | Real Decreto 664/1997, de 12 de mayo, **sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo** (`BOE-A-1997-11144`), en su redacción vigente el 21 de diciembre de 2022 | **El artículo 2 entero**, **el apartado 1 del artículo 3**, **el apartado 2 y la letra a) del apartado 3 del artículo 4**, **el inicio del apartado 1 del artículo 6**, **el apartado 1 y los apartados 2, 3 y 4 del artículo 7** y **la enumeración de ocasiones del apartado 1 del artículo 8**, citados literalmente |
-| **Documento técnico oficial** | **NTP 447, «Actuación frente a un accidente con riesgo biológico»**, del Centro Nacional de Condiciones de Trabajo, guardada en `fuentes/salud-laboral/` | **La recomendación de limpieza y desinfección de la herida con sus tres desinfectantes**, **la irrigación de la mucosa conjuntiva**, **la obligación de identificar el origen, comunicar, cumplimentar el parte e investigar**, **las tres cifras de riesgo de contagio y la del contacto con mucosas**, **los tres factores que matizan esas cifras**, **la definición de herida de bajo y alto riesgo**, **la advertencia sobre la falta de datos de eficacia de la desinfección** y **la recomendación de atender a las pautas de los centros especializados**, citados literalmente |
+| **Documento técnico oficial** | **NTP 447, «Actuación frente a un accidente con riesgo biológico»**, del Centro Nacional de Condiciones de Trabajo | **La recomendación de limpieza y desinfección de la herida con sus tres desinfectantes**, **la irrigación de la mucosa conjuntiva**, **la obligación de identificar el origen, comunicar, cumplimentar el parte e investigar**, **las tres cifras de riesgo de contagio y la del contacto con mucosas**, **los tres factores que matizan esas cifras**, **la definición de herida de bajo y alto riesgo**, **la advertencia sobre la falta de datos de eficacia de la desinfección** y **la recomendación de atender a las pautas de los centros especializados**, citados literalmente |
 
 **Diez declaraciones expresas:**
 

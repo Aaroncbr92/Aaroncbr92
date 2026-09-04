@@ -1,5 +1,18 @@
 # Tema 21 del específico de Enfermería de Empresa · Uso de pantallas de visualización de datos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 21 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 488/1997**, de 14 de abril, sobre el trabajo con equipos que incluyen pantallas de visualización, con la **Guía Técnica del INSST** que lo desarrolla |
+| **Identificador** | `BOE-A-1997-8671` · Guía Técnica del INSST |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; la guía técnica, en la edición que lleva impresa |
+| **Extensión** | **3.775 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: las pantallas de visualización de datos (**PVD**),
 como el enunciado las abrevia; la Ley de Prevención de Riesgos Laborales (**LPRL**), que es la Ley
 31/1995; y el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**).
@@ -22,6 +35,19 @@ audiovisual**: **la mayor parte de sus puestos de redacción, producción, docum
 control usan pantallas de manera continuada.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Concepto y definiciones](#1-concepto-y-definiciones)
+- [2. Obligaciones generales del empresario](#2-obligaciones-generales-del-empresario)
+- [3. Medidas preventivas: la pausa como obligación](#3-medidas-preventivas-la-pausa-como-obligación)
+- [4. Efectos para la salud](#4-efectos-para-la-salud)
+- [5. La vigilancia de la salud](#5-la-vigilancia-de-la-salud)
+- [6. Formación e información](#6-formación-e-información)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Qué hace la enfermería del trabajo](#8-qué-hace-la-enfermería-del-trabajo)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Concepto y definiciones
@@ -329,7 +355,7 @@ plantilla de oficina.**
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
 | **Primero: norma del BOE en vigor a la fecha de corte** | Real Decreto 488/1997, de 14 de abril, **sobre disposiciones mínimas de seguridad y salud relativas al trabajo con equipos que incluyen pantallas de visualización** (`BOE-A-1997-8671`), en su redacción vigente el 21 de diciembre de 2022 | **El artículo 2 entero**, **los apartados 1, 2, 3 y 4 del artículo 3**, **el apartado 3 del artículo 5**, y **del anexo su observación preliminar, los pasajes de pantalla, teclado y asiento y la letra b) de su apartado 3**, citados literalmente |
-| **Documento técnico oficial** | **Guía Técnica del INSST para la evaluación y prevención de los riesgos relativos a la utilización de equipos con pantallas de visualización**, guardada en `fuentes/prl-especifico/` | **El pasaje sobre la dificultad de fijar una frontera por número de horas**, **el criterio del conjunto de factores**, **la lista de factores adicionales** y **la sugerencia de extender la condición de trabajador a toda la plantilla**, citados literalmente |
+| **Documento técnico oficial** | **Guía Técnica del INSST para la evaluación y prevención de los riesgos relativos a la utilización de equipos con pantallas de visualización** | **El pasaje sobre la dificultad de fijar una frontera por número de horas**, **el criterio del conjunto de factores**, **la lista de factores adicionales** y **la sugerencia de extender la condición de trabajador a toda la plantilla**, citados literalmente |
 
 **Ocho declaraciones expresas:**
 

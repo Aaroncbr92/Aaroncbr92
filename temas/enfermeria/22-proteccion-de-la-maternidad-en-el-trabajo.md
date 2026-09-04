@@ -1,5 +1,18 @@
 # Tema 22 del específico de Enfermería de Empresa · Protección de la maternidad en el trabajo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 22 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Ley 31/1995** de Prevención de Riesgos Laborales, **Real Decreto 39/1997** de los Servicios de Prevención y **texto refundido de la Ley General de la Seguridad Social** |
+| **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-2015-11724` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **4.117 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; la Ley General de la Seguridad Social (**LGSS**), que es el texto refundido
 aprobado por el Real Decreto Legislativo 8/2015; el Reglamento de los Servicios de Prevención
@@ -27,6 +40,18 @@ tres normas que hay que ver juntas:**
 **Las tres están volcadas a la fecha de corte y se citan literalmente.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La obligación preventiva: los cuatro escalones del artículo 26](#1-la-obligación-preventiva-los-cuatro-escalones-del-artículo-26)
+- [2. La lactancia natural](#2-la-lactancia-natural)
+- [3. Situaciones de riesgo: las dos listas del reglamento](#3-situaciones-de-riesgo-las-dos-listas-del-reglamento)
+- [4. La prestación económica](#4-la-prestación-económica)
+- [5. La vigilancia de la salud durante el embarazo y la lactancia](#5-la-vigilancia-de-la-salud-durante-el-embarazo-y-la-lactancia)
+- [6. Qué hace la enfermería del trabajo](#6-qué-hace-la-enfermería-del-trabajo)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La obligación preventiva: los cuatro escalones del artículo 26

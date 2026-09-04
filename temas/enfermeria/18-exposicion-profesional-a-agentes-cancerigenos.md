@@ -1,5 +1,18 @@
 # Tema 18 del específico de Enfermería de Empresa · Exposición profesional a agentes cancerígenos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 18 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 665/1997**, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo |
+| **Identificador** | `BOE-A-1997-11145` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **3.950 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el Reglamento de los Servicios de Prevención (**RSP**), que es el aprobado por
 el Real Decreto 39/1997; y el valor límite ambiental (**VLA**), del que se habló en el tema 17.
@@ -24,6 +37,19 @@ aplica a agentes cancerígenos O MUTÁGENOS.** **Este tema usa las dos palabras 
 porque el régimen es común.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Marco jurídico y concepto](#1-marco-jurídico-y-concepto)
+- [2. Identificación y evaluación de riesgos](#2-identificación-y-evaluación-de-riesgos)
+- [3. Prevención y reducción de la exposición: la escalera y su regla propia](#3-prevención-y-reducción-de-la-exposición-la-escalera-y-su-regla-propia)
+- [4. Medidas de higiene y protección individual](#4-medidas-de-higiene-y-protección-individual)
+- [5. Exposiciones accidentales y no regulares](#5-exposiciones-accidentales-y-no-regulares)
+- [6. La vigilancia de la salud](#6-la-vigilancia-de-la-salud)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Qué hace la enfermería del trabajo](#8-qué-hace-la-enfermería-del-trabajo)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Marco jurídico y concepto

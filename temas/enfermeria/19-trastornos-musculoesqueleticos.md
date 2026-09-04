@@ -1,5 +1,18 @@
 # Tema 19 del específico de Enfermería de Empresa · Trastornos musculoesqueléticos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 19 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 487/1997** de manipulación manual de cargas, con el material del INSST **«Trastornos musculoesqueléticos de la extremidad superior»**, de los temas específicos para la Escala de Titulados Superiores |
+| **Identificador** | `BOE-A-1997-8670` · Material docente del INSST |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; el material del Instituto, en su versión de abril de 2025 |
+| **Extensión** | **4.035 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: los trastornos musculoesqueléticos (**TME**), que es
 como los abrevia la fuente que aquí se usa; la Ley de Prevención de Riesgos Laborales (**LPRL**), que
 es la Ley 31/1995; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); y la
@@ -31,6 +44,19 @@ Superiores, parte 4, sobre trastornos musculoesqueléticos de la extremidad supe
 proyecto ya tenía guardado para el tema compartido de prevención.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué es un trastorno musculoesquelético](#1-qué-es-un-trastorno-musculoesquelético)
+- [2. Movimientos repetitivos](#2-movimientos-repetitivos)
+- [3. Posturas forzadas](#3-posturas-forzadas)
+- [4. Manipulación manual de cargas](#4-manipulación-manual-de-cargas)
+- [5. La vigilancia de la salud](#5-la-vigilancia-de-la-salud)
+- [6. Evaluación de los riesgos y medidas preventivas](#6-evaluación-de-los-riesgos-y-medidas-preventivas)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Qué hace la enfermería del trabajo](#8-qué-hace-la-enfermería-del-trabajo)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué es un trastorno musculoesquelético
@@ -333,7 +359,7 @@ salud laboral más común de Europa.**
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
 | **Primero: norma del BOE en vigor a la fecha de corte** | Real Decreto 487/1997, de 14 de abril, **sobre disposiciones mínimas de seguridad y salud relativas a la manipulación manual de cargas que entrañe riesgos, en particular dorsolumbares, para los trabajadores** (`BOE-A-1997-8670`), en su redacción vigente el 21 de diciembre de 2022 | **El artículo 2**, **el artículo 3**, **el segundo párrafo del artículo 4**, **el artículo 6** y **el apartado 5 del anexo**, citados literalmente |
-| **Documento técnico oficial** | **INSST, temas específicos del proceso selectivo para ingreso en la Escala de Titulados Superiores, parte 4, «Trastornos musculoesqueléticos de la extremidad superior»**, versión de abril de 2025, guardado en `fuentes/prl-especifico/` | **La definición de trastorno musculoesquelético**, **el modelo de carga por encima de la capacidad de respuesta**, **la magnitud del problema**, **la multiplicidad de causas**, **el criterio de tarea repetitiva de la norma ISO 11228-3** y **los ejemplos de trabajos repetitivos**, citados literalmente |
+| **Documento técnico oficial** | **INSST, temas específicos del proceso selectivo para ingreso en la Escala de Titulados Superiores, parte 4, «Trastornos musculoesqueléticos de la extremidad superior»**, versión de abril de 2025 | **La definición de trastorno musculoesquelético**, **el modelo de carga por encima de la capacidad de respuesta**, **la magnitud del problema**, **la multiplicidad de causas**, **el criterio de tarea repetitiva de la norma ISO 11228-3** y **los ejemplos de trabajos repetitivos**, citados literalmente |
 
 **Nueve declaraciones expresas:**
 

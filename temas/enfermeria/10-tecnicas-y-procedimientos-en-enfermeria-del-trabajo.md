@@ -1,5 +1,18 @@
 # Tema 10 del específico de Enfermería de Empresa · Técnicas y procedimientos en enfermería del trabajo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 10 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Ley 31/1995**, **Real Decreto 39/1997** y **Real Decreto 374/2001** de agentes químicos, con las notas técnicas **NTP 586**, de control biológico, y **NTP 1191**, de salud cardiovascular, del INSST |
+| **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-2001-8436` · **NTP 586** · **NTP 1191** |
+| **Redacción que se estudia** | Las normas, la vigente el **21/12/2022**; las notas técnicas, en su edición de 2001 y 2024 |
+| **Extensión** | **6.196 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; las Notas Técnicas de Prevención (**NTP**) del Instituto Nacional de Seguridad y
 Salud en el Trabajo (**INSST**), que hasta su cambio de nombre se llamó Instituto Nacional de Seguridad
@@ -40,6 +53,20 @@ está catalogado y no está servido.**
 **El epígrafe 8 reúne todo lo que falta y dice dónde está.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Cuándo una técnica entra en un examen de salud](#1-cuándo-una-técnica-entra-en-un-examen-de-salud)
+- [2. El electrocardiograma: por qué importa en salud laboral](#2-el-electrocardiograma-por-qué-importa-en-salud-laboral)
+- [3. La carga física cardiovascular del puesto](#3-la-carga-física-cardiovascular-del-puesto)
+- [4. El control biológico: qué es](#4-el-control-biológico-qué-es)
+- [5. Los tres elementos y el momento de la toma](#5-los-tres-elementos-y-el-momento-de-la-toma)
+- [6. Cómo se monta un programa, y cómo se lee un resultado](#6-cómo-se-monta-un-programa-y-cómo-se-lee-un-resultado)
+- [7. La venoclisis: sangre, y la única cifra obligatoria del derecho español](#7-la-venoclisis-sangre-y-la-única-cifra-obligatoria-del-derecho-español)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Qué hace la enfermería del trabajo](#9-qué-hace-la-enfermería-del-trabajo)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Cuándo una técnica entra en un examen de salud
@@ -509,7 +536,7 @@ situación de trabajo porque el trabajador aún no ha enfermado.**
 | **Primero: norma del BOE en vigor a la fecha de corte** | Ley 31/1995, de 8 de noviembre, **de Prevención de Riesgos Laborales** (`BOE-A-1995-24292`), en su redacción vigente el 21 de diciembre de 2022 | **El primer y el último párrafo del apartado 1 del artículo 22**, citados literalmente |
 | **Primero: norma del BOE en vigor a la fecha de corte** | Real Decreto 39/1997, de 17 de enero, **por el que se aprueba el Reglamento de los Servicios de Prevención** (`BOE-A-1997-1853`), en la misma redacción | **El segundo párrafo de la letra c) del apartado 3 del artículo 37**, citado literalmente |
 | **Primero: norma del BOE en vigor a la fecha de corte** | Real Decreto 374/2001, de 6 de abril, **sobre la protección de la salud y seguridad de los trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo** (`BOE-A-2001-8436`), en la misma redacción | **El apartado 2 del artículo 6** y **las letras a) y b) del anexo II**, citados literalmente |
-| **Documento técnico oficial** | **NTP 586, «Control biológico: concepto, práctica e interpretación»**, del Centro Nacional de Condiciones de Trabajo, **2001**, guardada entera en `fuentes/salud-laboral/` | **La definición de la técnica**, **la advertencia sobre los agentes biológicos**, **las definiciones de control, control biológico y control ambiental**, **la afirmación de que pertenece más a la higiene industrial**, **la de que es una extensión del control ambiental**, **la regla del indicador, la muestra y el momento**, **la advertencia sobre el error grave**, **el criterio garantista**, **la frase sobre no intentar nada a ver si sale bien**, **la información antes y después**, **la interpretación del valor límite biológico como nivel de acción**, **la investigación ante una superación puntual** y **el comentario final**, citados literalmente |
+| **Documento técnico oficial** | **NTP 586, «Control biológico: concepto, práctica e interpretación»**, del Centro Nacional de Condiciones de Trabajo, **2001** | **La definición de la técnica**, **la advertencia sobre los agentes biológicos**, **las definiciones de control, control biológico y control ambiental**, **la afirmación de que pertenece más a la higiene industrial**, **la de que es una extensión del control ambiental**, **la regla del indicador, la muestra y el momento**, **la advertencia sobre el error grave**, **el criterio garantista**, **la frase sobre no intentar nada a ver si sale bien**, **la información antes y después**, **la interpretación del valor límite biológico como nivel de acción**, **la investigación ante una superación puntual** y **el comentario final**, citados literalmente |
 | **Documento técnico oficial** | NTP 1191, **«Salud cardiovascular: recomendaciones para su gestión en el ámbito laboral»**, del Instituto, **2024**, guardada entera en la misma carpeta | **El dato del Observatorio de Condiciones de Trabajo sobre las muertes por accidente de trabajo**, **los dos sentidos de la relación entre trabajo y salud cardiovascular**, **la tripartición de causa, contribuyente y precipitante**, **los efectos cardiovasculares más frecuentes de los agentes**, **la metodología de valoración de la carga física** y **el uso del trazado electrocardiográfico en portables**, citados literalmente |
 
 **Once declaraciones expresas:**

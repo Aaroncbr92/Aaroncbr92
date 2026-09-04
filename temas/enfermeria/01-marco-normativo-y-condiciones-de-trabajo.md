@@ -1,5 +1,18 @@
 # Tema 1 del específico de Enfermería de Empresa · Marco normativo de los lugares de trabajo, indicadores y condiciones de trabajo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 1 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 486/1997**, de 14 de abril, de disposiciones mínimas de seguridad y salud en los lugares de trabajo, con la **Ley 31/1995** de Prevención de Riesgos Laborales para el concepto de condición de trabajo |
+| **Identificador** | `BOE-A-1997-8669` · `BOE-A-1995-24292` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **3.364 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el Instituto Nacional de Seguridad y Salud en el Trabajo
 (**INSST**); y la Encuesta Nacional de Condiciones de Trabajo (**ENCT**).
@@ -48,6 +61,17 @@ saberlo.**
 **Dicho eso, el tema.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La norma de los lugares de trabajo](#1-la-norma-de-los-lugares-de-trabajo)
+- [2. Qué es un lugar de trabajo, y qué se cuenta dentro](#2-qué-es-un-lugar-de-trabajo-y-qué-se-cuenta-dentro)
+- [3. La obligación general y las nueve materias del reglamento](#3-la-obligación-general-y-las-nueve-materias-del-reglamento)
+- [4. Las condiciones de trabajo: concepto](#4-las-condiciones-de-trabajo-concepto)
+- [5. La evaluación de las condiciones de trabajo](#5-la-evaluación-de-las-condiciones-de-trabajo)
+- [6. Los principales indicadores de salud laboral](#6-los-principales-indicadores-de-salud-laboral)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La norma de los lugares de trabajo

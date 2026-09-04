@@ -1,5 +1,18 @@
 # Tema 13 del específico de Enfermería de Empresa · Estadística descriptiva e inferencial
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 13 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Sin norma en el enunciado.** La única fuente citada es la **NTP 1211, «Estadísticas de accidentabilidad en la empresa»**, del INSST, 2024; el resto del tema va como oficio declarado |
+| **Identificador** | **NTP 1211** |
+| **Redacción que se estudia** | Los documentos técnicos del Instituto y del Ministerio, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **5.169 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: las Notas Técnicas de Prevención (**NTP**) del
 Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); el Instituto Nacional de Estadística
 (**INE**); y las cuatro abreviaturas con que la NTP que aquí se usa nombra los índices de
@@ -40,6 +53,21 @@ NTP 2 y a la NTP 236.**
 | **Inferencia, estimación, contraste, muestreo, errores e intervalos de confianza** | **Como oficio declarado** en su parte conceptual, y citados de la **NTP** 1211 **en su aplicación al control de la siniestralidad** |
 
 <!-- indice -->
+
+## Índice
+
+- [1. Variables: los dos cortes que hay que saber hacer](#1-variables-los-dos-cortes-que-hay-que-saber-hacer)
+- [2. Representación gráfica](#2-representación-gráfica)
+- [3. Medidas de posición](#3-medidas-de-posición)
+- [4. Medidas de dispersión](#4-medidas-de-dispersión)
+- [5. Los índices de siniestralidad, con su fórmula](#5-los-índices-de-siniestralidad-con-su-fórmula)
+- [6. Qué cuenta como hora trabajada](#6-qué-cuenta-como-hora-trabajada)
+- [7. Estadística inferencial: los conceptos](#7-estadística-inferencial-los-conceptos)
+- [8. La inferencia aplicada: el método de las líneas límite](#8-la-inferencia-aplicada-el-método-de-las-líneas-límite)
+- [9. Qué hace la enfermería del trabajo](#9-qué-hace-la-enfermería-del-trabajo)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Variables: los dos cortes que hay que saber hacer
@@ -460,7 +488,7 @@ programa.**
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento técnico oficial** | NTP 1211, **«Estadísticas de accidentabilidad en la empresa»**, del INSST, **2024**, guardada en `fuentes/salud-laboral/` | **La enumeración de los cuatro índices**, **lo que relaciona y qué representa cada uno de los cuatro**, **la comparación entre incidencia y frecuencia**, **la definición de accidente mortal y su recalificación**, **la definición de los días de duración de las bajas**, **las dos listas de qué es y qué no es hora de trabajo efectiva**, **los dos diagramas del método de control**, **en qué consiste el método de líneas límite y qué permite detectar**, **de dónde sale el índice de frecuencia esperado** y **los tres casos según el número de horas**, citados literalmente |
+| **Documento técnico oficial** | NTP 1211, **«Estadísticas de accidentabilidad en la empresa»**, del INSST, **2024** | **La enumeración de los cuatro índices**, **lo que relaciona y qué representa cada uno de los cuatro**, **la comparación entre incidencia y frecuencia**, **la definición de accidente mortal y su recalificación**, **la definición de los días de duración de las bajas**, **las dos listas de qué es y qué no es hora de trabajo efectiva**, **los dos diagramas del método de control**, **en qué consiste el método de líneas límite y qué permite detectar**, **de dónde sale el índice de frecuencia esperado** y **los tres casos según el número de horas**, citados literalmente |
 
 **Nueve declaraciones expresas:**
 

@@ -1,5 +1,18 @@
 # Tema 4 del específico de Enfermería de Empresa · La enfermera del trabajo, la autonomía del paciente y la protección de datos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 4 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 450/2005** de especialidades de Enfermería, **Ley 41/2002** básica reguladora de la autonomía del paciente y **Ley Orgánica 3/2018** de protección de datos, con el **Reglamento (UE) 2016/679** nombrado y no citado |
+| **Identificador** | `BOE-A-2005-7354` · `BOE-A-2002-22188` · `BOE-A-2018-16673` · `DOUE-L-2016-80807` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **3.623 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley Orgánica de Protección de Datos Personales y
 garantía de los derechos digitales (**LOPDGDD**), que es la Ley Orgánica 3/2018; el Reglamento General
 de Protección de Datos (**RGPD**), que es el Reglamento (UE) 2016/679; y la Ley de Prevención de
@@ -28,6 +41,16 @@ relación laboral.** **Las tres mitades responden a la misma pregunta desde tres
 hacer, qué le debe al paciente y qué no puede hacer con lo que sabe.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las especialidades de Enfermería](#1-las-especialidades-de-enfermería)
+- [2. La formación y el acceso a ella](#2-la-formación-y-el-acceso-a-ella)
+- [3. La Enfermería del Trabajo: definición, ámbito y competencias](#3-la-enfermería-del-trabajo-definición-ámbito-y-competencias)
+- [4. La autonomía del paciente](#4-la-autonomía-del-paciente)
+- [5. Los derechos de las personas en protección de datos](#5-los-derechos-de-las-personas-en-protección-de-datos)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las especialidades de Enfermería
@@ -145,7 +168,7 @@ lugar de trabajo.
 
 | Área | Qué comprende |
 |---|---|
-| **PREVENTIVA** | **Participar en la evaluación de riesgos, en la planificación preventiva y en la formación**: los temas 1, 2 y 14 a 19 |
+| **PREVENTIVA** | **Participar en la evaluación de riesgos, en la planificación preventiva y en la formación**: los temas 1, 2 y 15 a 21 |
 | **ASISTENCIAL** | **Atender la urgencia y el daño, hacer seguimiento y coordinar con el sistema sanitario**: los temas 9, 10 y 24 |
 | **LEGAL Y PERICIAL** | **Notificar, documentar, informar y participar en la investigación de daños**: los temas 5 y 6 |
 | **DOCENTE E INVESTIGADORA** | **Formar, promover la salud y analizar los datos de salud de la población trabajadora**: los temas 7, 12 y 13 |

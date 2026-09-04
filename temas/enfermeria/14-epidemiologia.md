@@ -1,5 +1,19 @@
 # Tema 14 del específico de Enfermería de Empresa · Epidemiología
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 14 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Sin norma en el enunciado.** La fuente citada es el **tema 22, «Epidemiología laboral», de los temas específicos del INSST para la Escala de Titulados Superiores**, en su versión de enero de 2026 |
+| **Identificador** | Material docente del INSST |
+| **Redacción que se estudia** | Los documentos técnicos del Instituto y del Ministerio, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **El material es posterior a la fecha de corte**, y no es legislación: no hay redacción que congelar, y así se declara. **Trae además un hallazgo**: su tabla 2 imprime «b+c» como total de una columna que contiene b y d |
+| **Extensión** | **5.384 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Instituto Nacional de Seguridad y Salud en el
 Trabajo (**INSST**); la Organización Internacional del Trabajo (**OIT**); el riesgo atribuible
 (**RA**); el riesgo relativo (**RR**); la razón de tasas (**RT**); la razón de prevalencias (**RP**);
@@ -46,6 +60,21 @@ matemática**, y **se desarrollan como oficio declarado, sin cifras y sin atribu
 la que se construyen es, además, la misma que el material del Instituto publica.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Concepto y usos](#1-concepto-y-usos)
+- [2. Medidas de frecuencia: prevalencia e incidencia](#2-medidas-de-frecuencia-prevalencia-e-incidencia)
+- [3. Los seis diseños](#3-los-seis-diseños)
+- [4. Medidas de efecto](#4-medidas-de-efecto)
+- [5. Precisión y validez](#5-precisión-y-validez)
+- [6. Los tres sesgos](#6-los-tres-sesgos)
+- [7. Validez y fiabilidad de los métodos diagnósticos](#7-validez-y-fiabilidad-de-los-métodos-diagnósticos)
+- [8. Un hallazgo en la fuente](#8-un-hallazgo-en-la-fuente)
+- [9. Qué hace la enfermería del trabajo](#9-qué-hace-la-enfermería-del-trabajo)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Concepto y usos
@@ -490,7 +519,7 @@ diseño permite afirmar qué.**
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento técnico oficial** | **INSST, temas específicos del proceso selectivo para ingreso en la Escala de Titulados Superiores, parte 1, tema 22: «Epidemiología laboral»**, versión de enero de 2026, guardado en `fuentes/salud-laboral/` | **La definición de epidemiología**, **la frase sobre para qué es indispensable la epidemiología laboral**, **las definiciones de prevalencia e incidencia**, **la definición de prevalencia y su vínculo con el estudio transversal**, **el pasaje sobre los estudios experimentales**, **la falta de direccionalidad del transversal**, **la triple caracterización de los estudios de casos y controles y de cohortes**, **el requisito de comparabilidad de casos y controles**, **el requisito de que el seguimiento sea al menos igual a la latencia**, **la jerarquía de niveles de evidencia**, **la definición e interpretación del riesgo atribuible**, **la del riesgo relativo**, **la advertencia sobre la razón de prevalencias**, **la definición de la odds ratio y de la odds**, **la definición de precisión y de validez interna y externa**, **las de error aleatorio y error sistemático** y **las de los tres tipos de sesgo**, citados literalmente |
+| **Documento técnico oficial** | **INSST, temas específicos del proceso selectivo para ingreso en la Escala de Titulados Superiores, parte 1, tema 22: «Epidemiología laboral»**, versión de enero de 2026 | **La definición de epidemiología**, **la frase sobre para qué es indispensable la epidemiología laboral**, **las definiciones de prevalencia e incidencia**, **la definición de prevalencia y su vínculo con el estudio transversal**, **el pasaje sobre los estudios experimentales**, **la falta de direccionalidad del transversal**, **la triple caracterización de los estudios de casos y controles y de cohortes**, **el requisito de comparabilidad de casos y controles**, **el requisito de que el seguimiento sea al menos igual a la latencia**, **la jerarquía de niveles de evidencia**, **la definición e interpretación del riesgo atribuible**, **la del riesgo relativo**, **la advertencia sobre la razón de prevalencias**, **la definición de la odds ratio y de la odds**, **la definición de precisión y de validez interna y externa**, **las de error aleatorio y error sistemático** y **las de los tres tipos de sesgo**, citados literalmente |
 
 **Nueve declaraciones expresas:**
 

@@ -1,5 +1,18 @@
 # Tema 20 del específico de Enfermería de Empresa · Equipos de protección individual
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 20 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 773/1997**, de 30 de mayo, sobre disposiciones mínimas de seguridad y salud relativas a la utilización por los trabajadores de equipos de protección individual |
+| **Identificador** | `BOE-A-1997-12735` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **3.973 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el equipo de protección individual (**EPI**), que es
 como el propio real decreto lo abrevia en sus anexos; y la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995.
@@ -36,6 +49,20 @@ del tema 17, el de cancerígenos del tema 18, el de biológicos del tema 16 y el
 cargas del tema 19.** **Aquí está dicho en el artículo 4, y con más precisión que en ninguno.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La definición, y lo que queda fuera](#1-la-definición-y-lo-que-queda-fuera)
+- [2. Criterios para el empleo: la última medida](#2-criterios-para-el-empleo-la-última-medida)
+- [3. Obligaciones generales del empresario](#3-obligaciones-generales-del-empresario)
+- [4. Condiciones que deben reunir](#4-condiciones-que-deben-reunir)
+- [5. Elección](#5-elección)
+- [6. Utilización y mantenimiento](#6-utilización-y-mantenimiento)
+- [7. El listado de equipos](#7-el-listado-de-equipos)
+- [8. Qué hace la enfermería del trabajo](#8-qué-hace-la-enfermería-del-trabajo)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La definición, y lo que queda fuera

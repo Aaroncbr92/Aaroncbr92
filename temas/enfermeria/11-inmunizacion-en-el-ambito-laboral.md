@@ -1,5 +1,18 @@
 # Tema 11 del específico de Enfermería de Empresa · Inmunización en el ámbito laboral
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 11 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 664/1997** de agentes biológicos y tres documentos de la **Ponencia de Programa y Registro de Vacunaciones del Ministerio de Sanidad**: «Entorno laboral», «Vacunación en población adulta» y «Vacunación en trabajadores sanitarios» |
+| **Identificador** | `BOE-A-1997-11144` · Documentos del Ministerio de Sanidad de 2017 y 2018 |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos del Ministerio, en la edición que cada uno lleva impresa |
+| **Extensión** | **5.634 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el Sistema Nacional de Salud (**SNS**) y su Consejo Interterritorial
 (**CISNS**); las comunidades autónomas (**CCAA**); la vacuna triple vírica (**TV**), frente a
@@ -39,6 +52,20 @@ contraindicaciones generales de la vacunación.** **Los documentos consultados s
 programa, no manuales de vacunología**, y **el epígrafe 9 dice dónde habría que ir a buscarlo.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Concepto: la vacunación como medida preventiva de primer grado](#1-concepto-la-vacunación-como-medida-preventiva-de-primer-grado)
+- [2. Las cuatro reglas del anexo VI](#2-las-cuatro-reglas-del-anexo-vi)
+- [3. Qué le toca al servicio de prevención](#3-qué-le-toca-al-servicio-de-prevención)
+- [4. Los siete colectivos laborales de riesgo](#4-los-siete-colectivos-laborales-de-riesgo)
+- [5. «Vacunas que se deben aplicar de forma general a todos los trabajadores»](#5-vacunas-que-se-deben-aplicar-de-forma-general-a-todos-los-trabajadores)
+- [6. Recomendaciones de vacunación en población adulta](#6-recomendaciones-de-vacunación-en-población-adulta)
+- [7. Vacunación en trabajadores sanitarios](#7-vacunación-en-trabajadores-sanitarios)
+- [8. Qué hace la enfermería del trabajo](#8-qué-hace-la-enfermería-del-trabajo)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Concepto: la vacunación como medida preventiva de primer grado
@@ -450,7 +477,7 @@ tres verbos: poner a disposición, informar y hacer constar por escrito.**
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
 | **Primero: norma del BOE en vigor a la fecha de corte** | Real Decreto 664/1997, de 12 de mayo, **sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo** (`BOE-A-1997-11144`), en su redacción vigente el 21 de diciembre de 2022 | **El apartado 3 del artículo 8** y **los apartados 1 a 4 del anexo VI**, citados literalmente |
-| **Documento técnico oficial** | **«Entorno laboral»**, capítulo 5 del documento **«Vacunación en grupos de riesgo de todas las edades y en determinadas situaciones»**, de la Ponencia de Programa y Registro de Vacunaciones del Ministerio de Sanidad, guardado en `fuentes/salud-laboral/` | **La afirmación sobre la eficacia de la vacunación de las personas trabajadoras y su triple justificación**, **los seis fundamentos de la vacunación en la empresa**, **la atribución de la función al personal sanitario del servicio de prevención**, **las tres tareas mínimas**, **el párrafo sobre las vacunas propias de la ocupación y el calendario del adulto**, **la definición de servicios públicos esenciales** y **las tres recomendaciones de ese colectivo**, citados literalmente |
+| **Documento técnico oficial** | **«Entorno laboral»**, capítulo 5 del documento **«Vacunación en grupos de riesgo de todas las edades y en determinadas situaciones»**, de la Ponencia de Programa y Registro de Vacunaciones del Ministerio de Sanidad | **La afirmación sobre la eficacia de la vacunación de las personas trabajadoras y su triple justificación**, **los seis fundamentos de la vacunación en la empresa**, **la atribución de la función al personal sanitario del servicio de prevención**, **las tres tareas mínimas**, **el párrafo sobre las vacunas propias de la ocupación y el calendario del adulto**, **la definición de servicios públicos esenciales** y **las tres recomendaciones de ese colectivo**, citados literalmente |
 | **Documento técnico oficial** | **«Vacunación en población adulta»**, de la misma Ponencia, **septiembre de 2018**, guardado en la misma carpeta | **Los tres párrafos sobre la pauta de tétanos y difteria en el adulto**, citados literalmente |
 | **Documento técnico oficial** | **«Vacunación en trabajadores sanitarios»**, de la misma Ponencia, **abril de 2017**, guardado en la misma carpeta | **La extensión de la definición de personal sanitario**, **las dos listas de vacunas**, **el pasaje sobre las coberturas de gripe y el objetivo acordado**, **los factores de las bajas coberturas** y **la frase sobre el registro en la historia clínico-laboral**, citados literalmente |
 

@@ -1,5 +1,19 @@
 # Tema 9 del específico de Enfermería de Empresa · Patología de origen laboral
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 9 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 1299/2006** del cuadro de enfermedades profesionales, **Real Decreto 286/2006** del ruido, **Real Decreto 488/1997** de pantallas de visualización y **Real Decreto 396/2006** del amianto |
+| **Identificador** | `BOE-A-2006-22169` · `BOE-A-2006-4414` · `BOE-A-1997-8671` · `BOE-A-2006-6474` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Aviso** | **El texto consolidado del cuadro de enfermedades profesionales escribe «plumón» donde debe decir «pulmón»**, en la entrada del amianto. Va declarado y comprobado contra la página del propio Boletín |
+| **Extensión** | **6.148 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); el Sistema
 Nacional de Salud (**SNS**); las pantallas de visualización de datos (**PVD**); el valor límite
@@ -33,6 +47,22 @@ sanitaria específica y en guías clínicas que este proyecto no ha consultado**
 cuáles habría que leer.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Dónde está escrita la patología laboral](#1-dónde-está-escrita-la-patología-laboral)
+- [2. La hipoacusia por ruido](#2-la-hipoacusia-por-ruido)
+- [3. Las audiometrías](#3-las-audiometrías)
+- [4. Las alteraciones oftalmológicas](#4-las-alteraciones-oftalmológicas)
+- [5. El control de visión](#5-el-control-de-visión)
+- [6. Toxicología de polvos minerales y fibras](#6-toxicología-de-polvos-minerales-y-fibras)
+- [7. Las enfermedades pulmonares ocupacionales](#7-las-enfermedades-pulmonares-ocupacionales)
+- [8. Técnicas de enfermería](#8-técnicas-de-enfermería)
+- [9. Qué hace la enfermería del trabajo](#9-qué-hace-la-enfermería-del-trabajo)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Un hallazgo sobre el cuadro de enfermedades profesionales](#11-un-hallazgo-sobre-el-cuadro-de-enfermedades-profesionales)
+- [12. Trazabilidad](#12-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Dónde está escrita la patología laboral

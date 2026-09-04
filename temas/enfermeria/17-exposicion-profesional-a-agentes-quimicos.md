@@ -1,5 +1,18 @@
 # Tema 17 del específico de Enfermería de Empresa · Exposición profesional a agentes químicos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 17 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 374/2001**, de 6 de abril, sobre la protección de la salud y la seguridad de los trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo |
+| **Identificador** | `BOE-A-2001-8436` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **4.608 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que hasta
 su cambio de nombre se llamó Instituto Nacional de Seguridad e Higiene en el Trabajo (**INSHT**); el
@@ -32,6 +45,20 @@ tomó su marco de control biológico.**
 | **El informe higiénico: pautas de actuación** | **Ninguna fuente consultada lo regula ni lo describe**: es **laguna declarada** |
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los conceptos, que aquí son especialmente precisos](#1-los-conceptos-que-aquí-son-especialmente-precisos)
+- [2. Valores límite ambientales y biológicos](#2-valores-límite-ambientales-y-biológicos)
+- [3. La evaluación de los riesgos](#3-la-evaluación-de-los-riesgos)
+- [4. Estrategias de muestreo y análisis](#4-estrategias-de-muestreo-y-análisis)
+- [5. Protección colectiva e individual](#5-protección-colectiva-e-individual)
+- [6. La vigilancia de la salud](#6-la-vigilancia-de-la-salud)
+- [7. El informe higiénico](#7-el-informe-higiénico)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Qué hace la enfermería del trabajo](#9-qué-hace-la-enfermería-del-trabajo)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los conceptos, que aquí son especialmente precisos

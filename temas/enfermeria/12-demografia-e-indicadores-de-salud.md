@@ -1,5 +1,19 @@
 # Tema 12 del específico de Enfermería de Empresa · Demografía e indicadores de salud
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 12 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Sin norma en el enunciado.** Tres documentos del **Ministerio de Sanidad**: «Indicadores de salud 2020», sus «Notas metodológicas y fuentes de información» y las fichas técnicas de los «Indicadores clave del Sistema Nacional de Salud» |
+| **Identificador** | Documentos del Ministerio de Sanidad |
+| **Redacción que se estudia** | Los documentos técnicos del Instituto y del Ministerio, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **Trae un hallazgo en la fuente**: el texto de «Indicadores de salud 2020» y su propia tabla 3.5.1 no dan las mismas cifras del índice de frecuencia de accidentes de trabajo. Comprobado a ojo sobre el documento |
+| **Extensión** | **5.187 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Instituto Nacional de Estadística (**INE**), que es
 la fuente de casi todos estos indicadores; el Sistema Nacional de Salud (**SNS**); las comunidades
 autónomas (**CCAA**); y la Encuesta Nacional de Salud (**ENSE**), que es de donde sale lo que la
@@ -46,6 +60,21 @@ sus series terminan antes**: **un temario que copiase sus tablas estaría enseñ
 viejas.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué es un indicador de salud y de dónde salen éstos](#1-qué-es-un-indicador-de-salud-y-de-dónde-salen-éstos)
+- [2. Natalidad y fecundidad](#2-natalidad-y-fecundidad)
+- [3. Mortalidad](#3-mortalidad)
+- [4. Morbilidad](#4-morbilidad)
+- [5. Esperanza de vida](#5-esperanza-de-vida)
+- [6. Salud maternoinfantil](#6-salud-maternoinfantil)
+- [7. Limitación de actividad y salud subjetiva](#7-limitación-de-actividad-y-salud-subjetiva)
+- [8. Hábitos y estilo de vida relacionados con la salud](#8-hábitos-y-estilo-de-vida-relacionados-con-la-salud)
+- [9. Un hallazgo en la fuente](#9-un-hallazgo-en-la-fuente)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué es un indicador de salud y de dónde salen éstos
@@ -386,8 +415,8 @@ los que un programa de promoción de la salud en la empresa puede actuar:**
 | Apartado | Enlace con este volumen |
 |---|---|
 | **Consumo de tabaco** | **Tema 7**, promoción de la salud |
-| **Consumo de alcohol** | **Tema 23**, drogodependencias |
-| **Consumo de otras drogas** | **Tema 23** |
+| **Consumo de alcohol** | **Tema 24**, drogodependencias |
+| **Consumo de otras drogas** | **Tema 24** |
 | **Inactividad física en tiempo libre** | **Tema 7** |
 | **Obesidad** | **Tema 7** |
 | **Consumo insuficiente de frutas y verduras** | **Tema 7** |
@@ -448,7 +477,7 @@ usa ninguna de las dos como dato**: **las cita únicamente para declarar la disc
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento técnico oficial** | **«Indicadores de salud 2020. Evolución de los indicadores del estado de salud en España y su magnitud en el contexto de la Unión Europea»**, Ministerio de Sanidad, guardado en `fuentes/salud-laboral/` | **El párrafo sobre por qué los accidentes de trabajo se miden con sistemas propios**, **la frase del texto sobre la evolución del índice de frecuencia** y **las cifras de su tabla 3.5.1** que la contradicen, citados literalmente |
+| **Documento técnico oficial** | **«Indicadores de salud 2020. Evolución de los indicadores del estado de salud en España y su magnitud en el contexto de la Unión Europea»**, Ministerio de Sanidad | **El párrafo sobre por qué los accidentes de trabajo se miden con sistemas propios**, **la frase del texto sobre la evolución del índice de frecuencia** y **las cifras de su tabla 3.5.1** que la contradicen, citados literalmente |
 | **Documento técnico oficial** | **«Indicadores de Salud. Notas metodológicas y fuentes de información»**, del mismo Ministerio, guardado en la misma carpeta | **La definición de la operación estadística y su periodicidad** y **el pasaje sobre el ajuste por edad**, citados literalmente |
 | **Documento técnico oficial** | **Fichas técnicas de los «Indicadores clave del Sistema Nacional de Salud»**, del mismo Ministerio, guardadas en la misma carpeta | **Las fichas de tasa de natalidad, crecimiento vegetativo, tasas de mortalidad, mortalidad perinatal, esperanza de vida a diferentes edades, índice de dependencia, incidencia de accidentes de trabajo e índice de frecuencia de accidentes de trabajo**, citadas literalmente en su fórmula, sus componentes y sus definiciones |
 

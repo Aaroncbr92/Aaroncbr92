@@ -1,5 +1,19 @@
 # Tema 8 del específico de Enfermería de Empresa · La espirometría en los exámenes de salud laboral
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 8 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **NTP 218, «La espirometría forzada en Medicina del Trabajo»**, del Centro Nacional de Condiciones de Trabajo, que el propio enunciado nombra, con el **Real Decreto 39/1997** y el **Real Decreto 396/2006** del amianto |
+| **Identificador** | **NTP 218** · `BOE-A-1997-1853` · `BOE-A-2006-6474` |
+| **Redacción que se estudia** | Las normas, la vigente el **21/12/2022**; la nota técnica, en la edición que lleva impresa |
+| **Aviso** | **El enunciado pide siete materias y la nota que él mismo nombra sólo cubre cuatro.** El tema declara lo que no da. **Y trae un epígrafe de hallazgos sobre la propia nota**: cinco resultados de sus ejemplos resueltos no salen de sus fórmulas, y su año impreso es imposible |
+| **Extensión** | **7.272 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada. Las de los documentos: las Notas Técnicas de
 Prevención (**NTP**) del Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que hasta
 su cambio de nombre se llamó Instituto Nacional de Seguridad e Higiene en el Trabajo (**INSHT**); el
@@ -57,6 +71,21 @@ mantenimiento**, porque **serían exactamente lo que el método prohíbe: escrib
 ha leído.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué anclaje legal tiene esto](#1-qué-anclaje-legal-tiene-esto)
+- [2. Qué es la espirometría forzada y qué mide](#2-qué-es-la-espirometría-forzada-y-qué-mide)
+- [3. Indicaciones: lo que la NTP da y lo que no](#3-indicaciones-lo-que-la-ntp-da-y-lo-que-no)
+- [4. Contraindicaciones: la primera laguna declarada](#4-contraindicaciones-la-primera-laguna-declarada)
+- [5. Instrucciones al trabajador y técnica de realización](#5-instrucciones-al-trabajador-y-técnica-de-realización)
+- [6. Criterio de calidad y tipos de espirómetro](#6-criterio-de-calidad-y-tipos-de-espirómetro)
+- [7. Mantenimiento del espirómetro: la segunda laguna declarada](#7-mantenimiento-del-espirómetro-la-segunda-laguna-declarada)
+- [8. Interpretación de los resultados](#8-interpretación-de-los-resultados)
+- [9. Cuatro hallazgos sobre la propia NTP](#9-cuatro-hallazgos-sobre-la-propia-ntp)
+- [10. Qué hace la enfermería del trabajo](#10-qué-hace-la-enfermería-del-trabajo)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué anclaje legal tiene esto
@@ -601,7 +630,7 @@ respiratoria de una plantilla.**
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento técnico oficial que el propio enunciado nombra** | **NTP 218, «La espirometría forzada en Medicina del Trabajo»**, del Centro Nacional de Condiciones de Trabajo, **1988**, guardada entera en `fuentes/salud-laboral/` | **Los objetivos del estudio funcional pulmonar**, **la frase sobre la patología pulmonar laboral**, **la justificación del estudio de la ventilación**, **la definición de espirometría dinámica**, **lo que aportan las curvas flujo-volumen**, **las definiciones de los parámetros**, **los datos previos que hay que anotar**, **la posición del individuo**, **las instrucciones de la maniobra**, **la comprobación del registro**, **el criterio de calidad**, **la frase sobre el técnico**, **la comparación con valores teóricos**, **el umbral del 80 por ciento**, **lo de las tablas anglosajonas y la población mediterránea**, **la enfermedad de los bronquios periféricos** y **el pie sobre el carácter no obligatorio de las NTP**, todo ello citado literalmente |
+| **Documento técnico oficial que el propio enunciado nombra** | **NTP 218, «La espirometría forzada en Medicina del Trabajo»**, del Centro Nacional de Condiciones de Trabajo, **1988** | **Los objetivos del estudio funcional pulmonar**, **la frase sobre la patología pulmonar laboral**, **la justificación del estudio de la ventilación**, **la definición de espirometría dinámica**, **lo que aportan las curvas flujo-volumen**, **las definiciones de los parámetros**, **los datos previos que hay que anotar**, **la posición del individuo**, **las instrucciones de la maniobra**, **la comprobación del registro**, **el criterio de calidad**, **la frase sobre el técnico**, **la comparación con valores teóricos**, **el umbral del 80 por ciento**, **lo de las tablas anglosajonas y la población mediterránea**, **la enfermedad de los bronquios periféricos** y **el pie sobre el carácter no obligatorio de las NTP**, todo ello citado literalmente |
 | **Primero: norma del BOE en vigor a la fecha de corte** | **Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención** (`BOE-A-1997-1853`), en su redacción vigente el 21 de diciembre de 2022 | **El primer párrafo de la letra c) del apartado 3 del artículo 37**, citado literalmente |
 | **Primero: norma del BOE en vigor a la fecha de corte** | Real Decreto 396/2006, de 31 de marzo, **por el que se establecen las disposiciones mínimas de seguridad y salud aplicables a los trabajos con riesgo de exposición al amianto** (`BOE-A-2006-6474`), **en la misma redacción** | **El apartado 3 del artículo 16**, citado literalmente |
 

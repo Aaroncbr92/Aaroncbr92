@@ -1,5 +1,18 @@
 # Tema 2 del específico de Enfermería de Empresa · Las cuatro disciplinas preventivas y la señalización
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 2 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 485/1997**, de 14 de abril, sobre señalización de seguridad y salud en el trabajo, con la **Ley 31/1995** para el concepto de prevención y los principios de la acción preventiva |
+| **Identificador** | `BOE-A-1997-8668` · `BOE-A-1995-24292` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **4.464 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el Instituto Nacional de Seguridad y Salud en el Trabajo
 (**INSST**); y el valor límite ambiental (**VLA**), que se desarrolla en el tema 17.
@@ -34,6 +47,18 @@ las funciones.** **La enfermería del trabajo es la quinta pata —la medicina d
 las otras cuatro, no dentro de ninguna.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Concepto, desarrollo y objetivos de la prevención](#1-concepto-desarrollo-y-objetivos-de-la-prevención)
+- [2. Seguridad en el trabajo](#2-seguridad-en-el-trabajo)
+- [3. La señalización de seguridad y salud](#3-la-señalización-de-seguridad-y-salud)
+- [4. Higiene industrial](#4-higiene-industrial)
+- [5. Ergonomía](#5-ergonomía)
+- [6. Psicosociología aplicada](#6-psicosociología-aplicada)
+- [7. Cómo se reparten las cuatro disciplinas un mismo puesto](#7-cómo-se-reparten-las-cuatro-disciplinas-un-mismo-puesto)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Concepto, desarrollo y objetivos de la prevención
@@ -206,9 +231,9 @@ medicina del trabajo— ni evita el golpe —eso es seguridad—: actúa sobre e
 
 | Tipo | Qué es | Dónde se desarrolla en este volumen |
 |---|---|---|
-| **FÍSICOS** | **Formas de energía**: ruido, vibraciones, radiaciones, ambiente térmico, iluminación | **Tema 14** |
-| **QUÍMICOS** | **Materia**, en forma de gas, vapor, aerosol, polvo, humo o niebla | **Tema 16** |
-| **BIOLÓGICOS** | **Seres vivos**: bacterias, virus, hongos, parásitos | **Tema 15** |
+| **FÍSICOS** | **Formas de energía**: ruido, vibraciones, radiaciones, ambiente térmico, iluminación | **Tema 15** |
+| **QUÍMICOS** | **Materia**, en forma de gas, vapor, aerosol, polvo, humo o niebla | **Tema 17** |
+| **BIOLÓGICOS** | **Seres vivos**: bacterias, virus, hongos, parásitos | **Tema 16** |
 
 **Y las cuatro etapas de la actuación higiénica, que es lo que hay que saber enumerar:**
 

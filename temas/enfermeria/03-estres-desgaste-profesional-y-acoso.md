@@ -1,5 +1,19 @@
 # Tema 3 del específico de Enfermería de Empresa · El estrés, el desgaste profesional y el acoso
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 3 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Ninguna norma se cita literalmente.** La fuente citada es el **II Plan para la Igualdad entre Mujeres y Hombres en la Corporación RTVE (2022-2026)**, en su Anexo II, el protocolo frente al acoso sexual y por razón de sexo |
+| **Identificador** | Documento de la propia Corporación |
+| **Redacción que se estudia** | El **plan de igualdad tal como lo publicó la Corporación**; la Ley 31/1995 y la Ley Orgánica 3/2007 se resumen, no se citan |
+| **Aviso** | **El enunciado de este punto remite a un protocolo de la Junta de Andalucía que no rige en RTVE.** Se transcribe tal cual, se desarrolla la materia que pide y se desarrolla además el protocolo que sí rige en la Corporación |
+| **Extensión** | **3.122 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; y el Instituto Nacional de Seguridad y Salud en el Trabajo
 (**INSST**).
@@ -37,6 +51,15 @@ el protocolo del enunciado, la respuesta razonable es la del protocolo de la cas
 literalmente por el andaluz, es una pregunta que el propio programa ha traído de fuera.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El estrés: qué es y cómo se genera](#1-el-estrés-qué-es-y-cómo-se-genera)
+- [2. El síndrome de estar quemado por el trabajo](#2-el-síndrome-de-estar-quemado-por-el-trabajo)
+- [3. El acoso en el trabajo: las tres figuras que el enunciado nombra](#3-el-acoso-en-el-trabajo-las-tres-figuras-que-el-enunciado-nombra)
+- [4. Qué hace la enfermería del trabajo ante un caso](#4-qué-hace-la-enfermería-del-trabajo-ante-un-caso)
+- [5. Trazabilidad](#5-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El estrés: qué es y cómo se genera

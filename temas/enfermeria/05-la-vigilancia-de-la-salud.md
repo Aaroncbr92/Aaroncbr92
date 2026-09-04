@@ -1,5 +1,18 @@
 # Tema 5 del específico de Enfermería de Empresa · La vigilancia de la salud
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 5 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Ley 31/1995** de Prevención de Riesgos Laborales y **Real Decreto 39/1997**, por el que se aprueba el Reglamento de los Servicios de Prevención |
+| **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **4.054 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el Reglamento de los Servicios de Prevención (**RSP**), que es el
 Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); y el
@@ -27,6 +40,16 @@ reconocimiento que no vuelve sobre la evaluación de riesgos no es vigilancia de
 asistencial pagada por la empresa.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Concepto, objetivos y características](#1-concepto-objetivos-y-características)
+- [2. Lo que la ley exige](#2-lo-que-la-ley-exige)
+- [3. Voluntariedad frente a obligatoriedad](#3-voluntariedad-frente-a-obligatoriedad)
+- [4. Lo que el reglamento añade: contenido y obligaciones documentales](#4-lo-que-el-reglamento-añade-contenido-y-obligaciones-documentales)
+- [5. La protección de los trabajadores especialmente sensibles](#5-la-protección-de-los-trabajadores-especialmente-sensibles)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Concepto, objetivos y características

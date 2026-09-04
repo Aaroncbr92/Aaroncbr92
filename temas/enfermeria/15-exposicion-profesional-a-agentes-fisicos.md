@@ -1,5 +1,18 @@
 # Tema 15 del específico de Enfermería de Empresa · Exposición profesional a agentes físicos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 15 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Real Decreto 1311/2005** de vibraciones mecánicas, **Real Decreto 486/2010** de radiaciones ópticas artificiales, **Real Decreto 299/2016** de campos electromagnéticos y **Real Decreto 486/1997** de lugares de trabajo |
+| **Identificador** | `BOE-A-2005-18262` · `BOE-A-2010-6485` · `BOE-A-2016-7303` · `BOE-A-1997-8669` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **4.674 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; las radiaciones ópticas artificiales (**ROA**); los campos electromagnéticos
 (**CEM**); y el nivel de exposición diaria equivalente al ruido, que las normas escriben **LAeq,d**, y
@@ -44,6 +57,18 @@ todo, la vigilancia de la salud de cada agente**, que **es lo que una enfermera 
 saber hacer.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Ruido](#1-ruido)
+- [2. Vibraciones mecánicas](#2-vibraciones-mecánicas)
+- [3. Radiaciones no ionizantes](#3-radiaciones-no-ionizantes)
+- [4. Ambiente térmico](#4-ambiente-térmico)
+- [5. Iluminación](#5-iluminación)
+- [6. Qué hace la enfermería del trabajo](#6-qué-hace-la-enfermería-del-trabajo)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Ruido

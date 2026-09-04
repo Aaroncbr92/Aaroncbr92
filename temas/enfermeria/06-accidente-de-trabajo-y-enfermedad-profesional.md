@@ -1,5 +1,18 @@
 # Tema 6 del específico de Enfermería de Empresa · Accidente de trabajo y enfermedad profesional
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 6 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Texto refundido de la Ley General de la Seguridad Social**, aprobado por Real Decreto Legislativo 8/2015, y **Real Decreto 1299/2006**, del cuadro de enfermedades profesionales |
+| **Identificador** | `BOE-A-2015-11724` · `BOE-A-2006-22169` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **4.486 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley General de la Seguridad Social (**LGSS**), que
 es el texto refundido aprobado por el Real Decreto Legislativo 8/2015; la Ley de Prevención de Riesgos
 Laborales (**LPRL**), que es la Ley 31/1995; el Sistema Nacional de Salud (**SNS**); y los dos sistemas
@@ -29,6 +42,20 @@ trabajo por la letra e) del artículo 156**, con **un requisito de prueba mucho 
 es la diferencia entre que un caso se reconozca o se pierda.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El accidente de trabajo: la definición](#1-el-accidente-de-trabajo-la-definición)
+- [2. Los siete supuestos que la ley asimila](#2-los-siete-supuestos-que-la-ley-asimila)
+- [3. La presunción, y lo que rompe y no rompe la calificación](#3-la-presunción-y-lo-que-rompe-y-no-rompe-la-calificación)
+- [4. La notificación de los accidentes: el sistema Delt@](#4-la-notificación-de-los-accidentes-el-sistema-delt)
+- [5. Las causas de los accidentes y su investigación](#5-las-causas-de-los-accidentes-y-su-investigación)
+- [6. La enfermedad profesional: la definición](#6-la-enfermedad-profesional-la-definición)
+- [7. El cuadro de enfermedades profesionales](#7-el-cuadro-de-enfermedades-profesionales)
+- [8. La notificación y la comunicación: el sistema CEPROSS](#8-la-notificación-y-la-comunicación-el-sistema-cepross)
+- [9. La investigación de las enfermedades profesionales](#9-la-investigación-de-las-enfermedades-profesionales)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El accidente de trabajo: la definición

@@ -1,5 +1,19 @@
 # Tema 24 del específico de Enfermería de Empresa · Las drogodependencias en el medio laboral
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 24 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Convenio colectivo de la Corporación RTVE** y la ficha **«Adicciones»** de la campaña de promoción de la salud del INSST |
+| **Identificador** | Convenio de la propia Corporación · Ficha del INSST |
+| **Redacción que se estudia** | El **convenio y la ficha tal como los publican sus autores** |
+| **Aviso** | **La clasificación de las drogas por su efecto sobre el sistema nervioso central va entera como oficio declarado**: ninguna fuente consultada la publica. Y «indicadores», que el enunciado pide, queda como laguna declarada |
+| **Extensión** | **3.393 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Instituto Nacional de Seguridad y Salud en el
 Trabajo (**INSST**); el sistema nervioso central (**SNC**); la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; y el Comité General de Seguridad y Salud Laboral de la Corporación
@@ -30,6 +44,18 @@ drogodependencias y alcoholismo en el trabajo.** **Está volcado en el proyecto 
 | **Programas de intervención** | **Citando la ficha y el convenio colectivo de RTVE** |
 
 <!-- indice -->
+
+## Índice
+
+- [1. Conceptos generales](#1-conceptos-generales)
+- [2. Los puestos donde cualquier consumo es peligroso](#2-los-puestos-donde-cualquier-consumo-es-peligroso)
+- [3. Clasificación de las drogas según sus efectos sobre el sistema nervioso central](#3-clasificación-de-las-drogas-según-sus-efectos-sobre-el-sistema-nervioso-central)
+- [4. Factores de riesgo, indicadores y repercusión en la organización](#4-factores-de-riesgo-indicadores-y-repercusión-en-la-organización)
+- [5. Programas de intervención](#5-programas-de-intervención)
+- [6. Qué hace la enfermería del trabajo](#6-qué-hace-la-enfermería-del-trabajo)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Conceptos generales
@@ -282,8 +308,8 @@ le pasa.**
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de la propia Corporación** | **Convenio colectivo de la Corporación RTVE**, volcado en `fuentes/convenio/` | **El artículo 94 entero** y **la letra b) del apartado 2 del artículo 93**, citados literalmente |
-| **Documento técnico oficial** | **INSST, campaña de promoción de la salud, tema n.º 5, «Adicciones»**, guardado en `fuentes/salud-laboral/` | **El párrafo de introducción**, **las dos advertencias conceptuales sobre que no existe «la droga» y sobre la percepción social**, **el pasaje de los puestos críticos**, **la frase sobre los factores que condicionan el uso**, **la de la repercusión en la organización**, **la del programa con sus tres patas**, **la de las cuatro líneas de tratamiento del asunto en la empresa** y **el mensaje de consumo cero**, citados literalmente |
+| **Documento de la propia Corporación** | **Convenio colectivo de la Corporación RTVE** | **El artículo 94 entero** y **la letra b) del apartado 2 del artículo 93**, citados literalmente |
+| **Documento técnico oficial** | **INSST, campaña de promoción de la salud, tema n.º 5, «Adicciones»** | **El párrafo de introducción**, **las dos advertencias conceptuales sobre que no existe «la droga» y sobre la percepción social**, **el pasaje de los puestos críticos**, **la frase sobre los factores que condicionan el uso**, **la de la repercusión en la organización**, **la del programa con sus tres patas**, **la de las cuatro líneas de tratamiento del asunto en la empresa** y **el mensaje de consumo cero**, citados literalmente |
 
 **Ocho declaraciones expresas:**
 

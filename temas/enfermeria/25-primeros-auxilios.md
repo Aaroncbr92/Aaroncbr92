@@ -1,5 +1,19 @@
 # Tema 25 del específico de Enfermería de Empresa · Primeros auxilios
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 25 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Nueve notas técnicas de primeros auxilios del INSST** y la guía **«Socorrismo laboral y primeros auxilios»**, con la **Ley 31/1995**, el **Real Decreto 39/1997**, el **Real Decreto 486/1997**, el artículo 195 del **Código Penal** y el **Real Decreto 365/2009** sobre desfibriladores |
+| **Identificador** | **NTP 246, 458, 467, 469, 524, 546, 568, 605 y 1062** · `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-1997-8669` · `BOE-A-1995-25444` · `BOE-A-2009-5490` |
+| **Redacción que se estudia** | Las normas consolidadas, la vigente el **21/12/2022**; el Real Decreto 365/2009, **el texto original publicado en el BOE**, porque no está consolidado; y los documentos del Instituto, en la edición que cada uno lleva impresa |
+| **Aviso** | **Trae siete hallazgos en las fuentes**, todos comprobados a ojo sobre el documento original: una nota copia mal la lista legal del botiquín, cuatro están mal fechadas y una imprime «Año: 0...», otra manda una ducha de 2030 minutos, y el real decreto de desfibriladores esconde su régimen sancionador en un párrafo sin numerar |
+| **Extensión** | **13.972 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Instituto Nacional de Seguridad y Salud en el
 Trabajo (**INSST**), que hasta 2019 se llamó Instituto Nacional de Seguridad e Higiene en el Trabajo
 (**INSHT**) y que firma así los documentos antiguos; sus notas técnicas de prevención (**NTP**); la Ley
@@ -51,6 +65,30 @@ manda sobre qué**, porque **entre ellas hay treinta años de diferencia y no di
 ha encontrado al mirarlas, y se explica en el epígrafe 17.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué son los primeros auxilios y quién está obligado a prestarlos](#1-qué-son-los-primeros-auxilios-y-quién-está-obligado-a-prestarlos)
+- [2. Pautas generales de actuación: la conducta de proteger, alertar y socorrer](#2-pautas-generales-de-actuación-la-conducta-de-proteger-alertar-y-socorrer)
+- [3. Evaluación de un accidentado: valoración primaria y valoración secundaria](#3-evaluación-de-un-accidentado-valoración-primaria-y-valoración-secundaria)
+- [4. Paro cardiorrespiratorio: algoritmo de actuación](#4-paro-cardiorrespiratorio-algoritmo-de-actuación)
+- [5. Técnica de reanimación cardiopulmonar básica](#5-técnica-de-reanimación-cardiopulmonar-básica)
+- [6. Uso de desfibriladores externos y la formación necesaria para su manejo](#6-uso-de-desfibriladores-externos-y-la-formación-necesaria-para-su-manejo)
+- [7. Emergencias médicas: obstrucción de la vía aérea](#7-emergencias-médicas-obstrucción-de-la-vía-aérea)
+- [8. Posición lateral de seguridad y las demás posiciones de espera](#8-posición-lateral-de-seguridad-y-las-demás-posiciones-de-espera)
+- [9. Hemorragias y shock](#9-hemorragias-y-shock)
+- [10. Contusiones y heridas](#10-contusiones-y-heridas)
+- [11. La profilaxis antitetánica: una corrección necesaria](#11-la-profilaxis-antitetánica-una-corrección-necesaria)
+- [12. Quemaduras](#12-quemaduras)
+- [13. Fracturas, luxaciones y esguinces. Técnicas de inmovilización y traslado](#13-fracturas-luxaciones-y-esguinces-técnicas-de-inmovilización-y-traslado)
+- [14. Traumatismo craneoencefálico y lesión de columna](#14-traumatismo-craneoencefálico-y-lesión-de-columna)
+- [15. Dolor torácico, dolor abdominal, intoxicaciones, picaduras y lesiones oculares](#15-dolor-torácico-dolor-abdominal-intoxicaciones-picaduras-y-lesiones-oculares)
+- [16. La organización de los primeros auxilios en la empresa](#16-la-organización-de-los-primeros-auxilios-en-la-empresa)
+- [17. Siete hallazgos en las fuentes](#17-siete-hallazgos-en-las-fuentes)
+- [18. Qué hace la enfermería del trabajo](#18-qué-hace-la-enfermería-del-trabajo)
+- [19. Lo que este tema no da, y dónde está](#19-lo-que-este-tema-no-da-y-dónde-está)
+- [20. Trazabilidad](#20-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué son los primeros auxilios y quién está obligado a prestarlos
@@ -1352,10 +1390,10 @@ asistencia que sí le corresponde.**
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Norma con fecha de corte** | **Ley 31/1995**, **Real Decreto 39/1997**, **Real Decreto 486/1997** y **Ley Orgánica 10/1995**, leídos del texto consolidado en `fuentes/corte-20221221/` | **El artículo 20 entero de la ley de prevención**; **la letra h) del apartado 3 del artículo 37 del reglamento**; **los apartados 3, 5 y 6 del anexo VI del real decreto de lugares de trabajo**; y **el apartado 1 del artículo 195 del Código Penal** |
-| **Norma no consolidada, leída del boletín original** | **Real Decreto 365/2009**, guardado en `fuentes/salud-laboral/` | **El artículo 2 entero** y **los apartados 1 y 2 del artículo 6**, citados literalmente |
-| **Documentos técnicos oficiales** | **Notas técnicas de prevención 1.062, 605, 568, 546, 524, 469, 467, 458 y 246 del Instituto**, y la guía **«Socorrismo laboral y primeros auxilios»**, guardadas en `fuentes/salud-laboral/` | **Las definiciones de primeros auxilios, urgencia y emergencia, soporte vital básico, evaluación primaria, parada cardiorrespiratoria, hemorragia, shock, contusión, herida y fractura**; **la maniobra de ver, oír y sentir con sus dos límites de tiempo**; **la profundidad y el ritmo de las compresiones**; **la definición del desfibrilador y las dos cifras que lo acompañan**; **el cuadro de la obstrucción completa y la regla sobre obesos y embarazadas**; **la definición de la posición lateral de seguridad**; **las condiciones del torniquete y la razón de que sea el último recurso**; **la regla de oro sobre la duda**; **las tres reglas citadas de inmovilización**; **las dos citas sobre el traumatismo craneoencefálico**; **la irradiación del dolor torácico**; **las citas sobre lesión ocular y sobre la vía parenteral**; y **la advertencia sobre el boca a boca ante tóxicos** |
-| **Documento oficial posterior que desplaza a una fuente técnica** | **«Recomendaciones de Vacunación en Población Adulta», del Ministerio de Sanidad**, guardado en `fuentes/salud-laboral/` | **La tabla 3 de profilaxis antitetánica**, **su definición de herida potencialmente tetanígena** y **la regla de la inmunoglobulina en heridas de alto riesgo** |
+| **Norma con fecha de corte** | **Ley 31/1995**, **Real Decreto 39/1997**, **Real Decreto 486/1997** y **Ley Orgánica 10/1995**, leídos del texto consolidado del BOE | **El artículo 20 entero de la ley de prevención**; **la letra h) del apartado 3 del artículo 37 del reglamento**; **los apartados 3, 5 y 6 del anexo VI del real decreto de lugares de trabajo**; y **el apartado 1 del artículo 195 del Código Penal** |
+| **Norma no consolidada, leída del boletín original** | **Real Decreto 365/2009** | **El artículo 2 entero** y **los apartados 1 y 2 del artículo 6**, citados literalmente |
+| **Documentos técnicos oficiales** | **Notas técnicas de prevención 1.062, 605, 568, 546, 524, 469, 467, 458 y 246 del Instituto**, y la guía **«Socorrismo laboral y primeros auxilios»** | **Las definiciones de primeros auxilios, urgencia y emergencia, soporte vital básico, evaluación primaria, parada cardiorrespiratoria, hemorragia, shock, contusión, herida y fractura**; **la maniobra de ver, oír y sentir con sus dos límites de tiempo**; **la profundidad y el ritmo de las compresiones**; **la definición del desfibrilador y las dos cifras que lo acompañan**; **el cuadro de la obstrucción completa y la regla sobre obesos y embarazadas**; **la definición de la posición lateral de seguridad**; **las condiciones del torniquete y la razón de que sea el último recurso**; **la regla de oro sobre la duda**; **las tres reglas citadas de inmovilización**; **las dos citas sobre el traumatismo craneoencefálico**; **la irradiación del dolor torácico**; **las citas sobre lesión ocular y sobre la vía parenteral**; y **la advertencia sobre el boca a boca ante tóxicos** |
+| **Documento oficial posterior que desplaza a una fuente técnica** | **«Recomendaciones de Vacunación en Población Adulta», del Ministerio de Sanidad** | **La tabla 3 de profilaxis antitetánica**, **su definición de herida potencialmente tetanígena** y **la regla de la inmunoglobulina en heridas de alto riesgo** |
 
 **Nueve declaraciones expresas:**
 

@@ -1,5 +1,18 @@
 # Tema 7 del específico de Enfermería de Empresa · La promoción de la salud en el trabajo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Enfermería de Empresa · punto 7 |
+| **Sirve para** | **Enfermería de Empresa** |
+| **Fuente** | **Ley 33/2011 General de Salud Pública**, **Ley 31/1995** de Prevención de Riesgos Laborales y **Real Decreto 39/1997** de los Servicios de Prevención |
+| **Identificador** | `BOE-A-2011-15623` · `BOE-A-1995-24292` · `BOE-A-1997-1853` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **5.747 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; la Ley General de Salud Pública (**LGSP**), que es la Ley 33/2011;
 el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); el Sistema Nacional de Salud
@@ -40,6 +53,19 @@ otras tres son documentos y estructuras cuyos textos propios este proyecto no ha
 laguna declarada de este tema y no se disimula.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué es promover la salud](#1-qué-es-promover-la-salud)
+- [2. Fundamentos: dónde está escrito y de quién es la obligación](#2-fundamentos-dónde-está-escrito-y-de-quién-es-la-obligación)
+- [3. La historia: lo que este tema no cuenta, y por qué](#3-la-historia-lo-que-este-tema-no-cuenta-y-por-qué)
+- [4. Ámbitos de actuación](#4-ámbitos-de-actuación)
+- [5. Las cuatro etapas de la planificación programática](#5-las-cuatro-etapas-de-la-planificación-programática)
+- [6. Buenas prácticas](#6-buenas-prácticas)
+- [7. La Agencia Europea, las redes y la declaración de Luxemburgo](#7-la-agencia-europea-las-redes-y-la-declaración-de-luxemburgo)
+- [8. Qué hace la enfermería del trabajo](#8-qué-hace-la-enfermería-del-trabajo)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué es promover la salud
