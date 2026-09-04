@@ -4,17 +4,17 @@
 
 |  |  |
 | --- | --- |
-| **Bloque** | Temario específico · Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 8 · Realización 5.1 · Información Gráfica 7 · Edición y Montaje 7 · Montaje de Equipos 7 · Documentación 7 · Información y Contenidos 11 · Gestión Administrativa 13 · Gestión 31 |
-| **Sirve para** | **Producción (Asistencia)** · **Producción** · **Realización (Asistencia)** · **Realización** · **Información Gráfica** · **Edición y Montaje** · **Montaje de Equipos** · **Gestión Administrativa** · **Gestión** · **Documentación** · **Información y Contenidos** |
-| **Fuente** | **Diez rúbricas** sobre **dieciséis fuentes**: Ley 31/1995, RD 487/1997, RD 488/1997, RD 486/1997, RD 1215/1997, RD 286/2006, RD 393/2007, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015, las normas UNE-EN de protección contra caídas —**no consultadas**— y documentación técnica del INSST |
+| **Bloque** | Temario específico · Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 8 · Realización 5.1 · Información Gráfica 7 · Edición y Montaje 7 · Montaje de Equipos 7 · Documentación 7 · Información y Contenidos 11 · Gestión Administrativa 13 · Gestión 31 · Sonido 17 · Técnica de Equipos y Sistemas Electrónicos 21 · Técnica Informática 27 · Diseño Gráfico 14 · Ing. Técnica Telecomunicación 24 · Ing. Técnica Industrial 17 · Imagen Personal 10 · Téc. Equipos, Instalaciones y Sistemas Eléctricos 17 · Ambientación Vestuario 8 · Ing. Superior Telecomunicación 29 · Profesor de Orquesta 7 |
+| **Sirve para** | **Las veintidós ocupaciones tipo del proyecto**, con el número de punto que cada anexo le da, arriba |
+| **Fuente** | **Doce rúbricas** sobre **dieciséis fuentes**: Ley 31/1995, RD 487/1997, RD 488/1997, RD 486/1997, RD 1215/1997, RD 286/2006, RD 393/2007, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015, las normas UNE-EN de protección contra caídas —**no consultadas**— y documentación técnica del INSST |
 | **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-1997-8669` · `BOE-A-1997-8670` · `BOE-A-1997-8671` · `BOE-A-1997-17824` · `BOE-A-2001-11881` · `BOE-A-2002-18099` · `BOE-A-2004-21216` · `BOE-A-2006-4414` · `BOE-A-2007-6237` · `BOE-A-2015-11724` · `BOE-A-2017-6606`. La **documentación técnica del INSST** no tiene identificador del BOE: se cita por su título en cada epígrafe |
 | **Redacción que se estudia** | Las **normas**, en su redacción vigente el **21/12/2022**. La **documentación técnica del INSST**, en su **edición publicada**, indicada caso por caso |
 | **Extensión** | **20.821 palabras** |
 
 <!-- /portada -->
 
-> **Enunciado de la convocatoria** (anexo 2). **Las veinte ocupaciones tipo que preparamos lo
-> llevan, y no lo llevan igual.** Hay **diez redacciones distintas**, y este tema las cubre todas.
+> **Enunciado de la convocatoria** (anexo 2). **Las veintidós ocupaciones tipo que preparamos lo
+> llevan, y no lo llevan igual.** Hay **once redacciones distintas**, y este tema las cubre todas.
 >
 > **La redacción común, palabra por palabra en seis de ellas** —**Producción (Asistencia) 18**,
 > **Producción 17**, **Documentación 7**, **Información y Contenidos 11**, **Gestión Administrativa
@@ -108,9 +108,25 @@
 > y **nombra expresamente las escaleras de mano**, que **el apartado 6.3 de este tema desarrolla con
 > su norma delante.** **Y no lleva punto final**: **así está en su anexo.**
 >
-> **Y las tres ocupaciones tipo restantes que este proyecto ha añadido —Diseño Gráfico 14, Ingeniería
-> Técnica · Telecomunicación 24 e Ingeniería Técnica · Industrial 17— llevan la PRIMERA redacción,
-> palabra por palabra.**
+> **Y las cuatro ocupaciones tipo restantes que este proyecto ha añadido —Diseño Gráfico 14,
+> Ingeniería Técnica · Telecomunicación 24, Ingeniería Técnica · Industrial 17 e Ingeniería Superior ·
+> Telecomunicación 29— llevan la PRIMERA redacción, palabra por palabra.**
+>
+> **Y la undécima es la de Profesor de Orquesta 7**, que **es la única que no lleva ni pantallas ni
+> cargas** y **la única que extiende los trastornos musculoesqueléticos a la extremidad INFERIOR**:
+>
+> Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
+> **Posturas de trabajo: riesgos y medidas preventivas.** Trastornos musculoesqueléticos en la
+> extremidad superior **e inferior**: factores de riesgo y su prevención. **Exposición a altos niveles
+> de sonido y su prevención.** Incendios y medidas preventivas. Accidente in itinere o in misión y
+> medidas preventivas.
+>
+> **Tres cosas de esa undécima**: **es la segunda que nombra las posturas de trabajo con rúbrica
+> propia** —la primera fue Imagen Personal, que las llama «riesgos posturales»—; **es la cuarta que
+> lleva la exposición a altos niveles de sonido**, que **el apartado 5 de este tema desarrolla con su
+> norma delante; y es la ÚNICA de las veintidós que extiende los trastornos musculoesqueléticos a la
+> extremidad inferior.** **Esa extensión no abre apartado nuevo**: **el apartado 3 la desarrolla ya**,
+> porque **los factores de riesgo y la prevención son los mismos y la fuente los trata juntos.**
 >
 > **Por eso este tema lleva doce apartados y no cinco**, y cada uno dice de qué ocupaciones es. Nadie
 > tiene que estudiarlos todos: el índice y el epígrafe de cada rúbrica lo señalan.
@@ -208,19 +224,19 @@ distintos.
 
 | Rúbrica | Ocupaciones que la llevan |
 |---|---|
-| **1.** Derechos y obligaciones | **Las veinte** · **Imagen Personal la titula «Conocimientos y obligaciones»** |
-| **2.** Pantallas de visualización | Todas menos **Información Gráfica**, **Montaje de Equipos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos**, **Imagen Personal** y **Ambientación Vestuario** |
-| **3.** Trastornos musculoesqueléticos | Todas menos **Técnica de Equipos y Sistemas Electrónicos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** y **Ambientación Vestuario** |
+| **1.** Derechos y obligaciones | **Las veintidós** · **Imagen Personal la titula «Conocimientos y obligaciones»** |
+| **2.** Pantallas de visualización | Todas menos **Información Gráfica**, **Montaje de Equipos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos**, **Imagen Personal**, **Ambientación Vestuario** y **Profesor de Orquesta** |
+| **3.** Trastornos musculoesqueléticos | Todas menos **Técnica de Equipos y Sistemas Electrónicos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** y **Ambientación Vestuario**. **Profesor de Orquesta es la única que los extiende a la extremidad INFERIOR**, y **esa extensión no abre apartado nuevo** |
 | **4.** Manipulación manual de cargas | **Información Gráfica**, **Montaje de Equipos**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica Informática**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos**, **Imagen Personal** y **Ambientación Vestuario**, que **la titula sin la palabra «manual»** |
-| **5.** Exposición a altos niveles de sonido | **Realización (Asistencia)**, **Realización** y **Sonido** |
+| **5.** Exposición a altos niveles de sonido | **Realización (Asistencia)**, **Realización**, **Sonido** y **Profesor de Orquesta** |
 | **6.** Seguridad en trabajos en altura | **Información Gráfica**, **Montaje de Equipos**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** y **Ambientación Vestuario**, la única que **nombra expresamente las escaleras de mano** |
 | **7.** Medios auxiliares: plataformas y carretillas | **Información Gráfica** y **Montaje de Equipos** |
 | **8.** Espacios confinados | **Sólo Montaje de Equipos** |
-| **9.** Incendios | **Las veinte** |
-| **10.** Accidente in itinere o in misión | **Las veinte** |
+| **9.** Incendios | **Las veintidós** |
+| **10.** Accidente in itinere o in misión | **Las veintidós** |
 | **11.** Actuación ante un accidente o una emergencia | **Sonido** y **Técnica de Equipos y Sistemas Electrónicos** |
 | **12.** Iluminación de los lugares de trabajo | **Ninguna la lleva con nombre propio**: se incorpora porque el examen la ha preguntado |
-| **Riesgos posturales** | **Sólo Imagen Personal la lleva con nombre propio.** **No abre apartado nuevo**: su materia es la de los apartados 2 y 3 —la postura y el estatismo del puesto y los factores de riesgo del trastorno—, y **desde aquí se señala** |
+| **Riesgos posturales** | **Imagen Personal la llama «riesgos posturales» y Profesor de Orquesta «posturas de trabajo».** **No abre apartado nuevo**: su materia es la de los apartados 2 y 3 —la postura y el estatismo del puesto y los factores de riesgo del trastorno—, y **desde aquí se señala** |
 
 **Y el riesgo eléctrico, que cuatro ocupaciones técnicas traen con rúbrica propia** —«Contactos
 eléctricos y su prevención» en Sonido y «Riesgo Eléctrico y medidas preventivas» en Técnica de Equipos

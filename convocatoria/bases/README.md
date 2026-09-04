@@ -90,3 +90,26 @@ primera publicación de las Bases Generales».
   1, 2 y 3 del específico —actualidad, Unión Europea, instituciones— **sí**
   cuentan hechos posteriores. Se ve en el examen de 2024: la primera pregunta va
   del Premio Nacional de Poesía de ese mismo año.
+
+## Añadidas para Profesor de Orquesta (2026-09-04)
+
+Descargadas de la misma fuente, la sección sindical de CCOO en RTVE, el
+2026-09-04. **Son seis PDF, uno por especialidad instrumental**, y **su Anexo 2
+es idéntico palabra por palabra en las seis**, comprobado normalizando sólo los
+espacios: **el temario de Profesor de Orquesta no depende del instrumento.**
+
+| Fichero | Convocatoria | Ocupación tipo | Turno |
+|---|---|---|---|
+| `1-2022_profesor_orquesta_clarinete.pdf` | 1/2022 | Profesor de Orquesta · Clarinete | libre |
+| `1-2022_profesor_orquesta_fagot.pdf` | 1/2022 | Profesor de Orquesta · Fagot | libre |
+| `1-2022_profesor_orquesta_oboe.pdf` | 1/2022 | Profesor de Orquesta · Oboe | libre |
+| `1-2022_profesor_orquesta_percusion.pdf` | 1/2022 | Profesor de Orquesta · Percusión | libre |
+| `1-2022_profesor_orquesta_viola.pdf` | 1/2022 | Profesor de Orquesta · Viola | libre |
+| `1-2022_profesor_orquesta_violin.pdf` | 1/2022 | Profesor de Orquesta · Violín | libre |
+
+**Y una advertencia que hay que dejar escrita**: **la convocatoria 1/2025 convoca
+cuatro plazas de Profesor de Orquesta —chelo, piano, trompa y trompeta— y NINGUNA
+de esas cuatro especialidades está entre las seis de la 1/2022.** Que el temario
+sea el mismo para las seis descargadas **hace razonable esperar que lo sea también
+para las otras cuatro**, pero **eso es una inferencia y no un dato**, y **así va
+dicho** en la cabecera del volumen.
