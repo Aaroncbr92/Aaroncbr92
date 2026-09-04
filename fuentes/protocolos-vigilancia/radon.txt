@@ -1,0 +1,1350 @@
+Protocolo de 
+Vigilancia Sanitaria 
+Específica de 
+Personas Trabajadoras 
+Expuestas a Radón
+SANIDAD 2026
+MINISTERIO DE SANIDAD
+
+
+Protocolo de 
+Vigilancia Sanitaria 
+Específica de 
+Personas Trabajadoras 
+Expuestas a Radón
+SANIDAD 2026
+MINISTERIO DE SANIDAD
+
+© MINISTERIO DE SANIDAD 
+Secretaria General Técnica  
+Centro de Publicaciones
+Paseo del Prado, 18-20  
+(28014 Madrid)
+NIPO en línea: 133-26-119-1 
+Catálogo General de Publicaciones Oficiales
+https://cpage.mpr.gob.es//
+
+Protocolo de 
+Vigilancia Sanitaria 
+Específica de 
+Personas Trabajadoras 
+Expuestas a Radón
+
+
+7
+ 
+ 
+La Comisión de Salud Pública del Consejo Interterritorial del 
+Sistema Nacional de Salud aprobó el Protocolo de Vigilancia 
+Sanitaria Específica de Personas Trabajadoras Expuestas a Radón, 
+en la reunión celebrada el día 12 de marzo de 2026.
+La Comisión Nacional de Seguridad y Salud en el Trabajo fue
+informada del Protocolo de Vigilancia Sanitaria Específica de
+Personas Trabajadoras Expuestas a Radón, en el pleno celebrado 
+el 24 de junio de 2026.
+
+
+9
+Autores
+Lucia Martín de Bernando Gisbert. Universidad de Santiago de Compostela 
+(USC).
+Aitor Guisasola Yeregui. Osalan. Instituto Vasco de Seguridad y Salud Laboral.
+Montserrat García Gómez. Ministerio de Sanidad.
+Nieves Lorenzo Espeso. Instituto de Seguridade e Saúde Laboral de Galicia 
+(ISSGA).
+Marta Garcia Tavalera San Miguel. Consejo de Seguridad Nuclear (CSN).
+Carla Guerra Tort. Universidad de Santiago de Compostela (USC).
+Guadalupe García. Universidad de Santiago de Compostela (USC).
+Cristina Candal Pedreira. Universidad de Santiago de Compostela (USC).
+Carmen Mancheño Potenciano. Confederación Sindical de Comisiones Obreras 
+(CC. OO.).
+Cristina Martínez González. Sociedad Española de Neumología y Cirugía 
+Torácica (SEPAR).
+Virginia Calvo de Juan. Grupo Español de Cáncer de Pulmón (GECP).
+Carlos Sáinz Fernández. Universidad de Cantabria (UC).
+Fernando Sierra Díaz. Sociedad Española de Protección Radiológica (SEPR).
+Alberto Ruano Raviña. CRETUS, Universidad de Santiago de Compostela 
+(USC).
+Comisión de Salud Pública
+Ponencia de Salud Laboral
+Montserrat García Gómez. Ministerio de Sanidad.
+Aitor Gisasola Yeregui. Osalan-450Instituto Vasco de Seguridad y Salud Labo-
+rales. País Vasco.
+Amèlia Sos. Conselleria de Salut. Catalunya.
+María Isabel González García. Consejería de Salud y Bienestar Social. Galicia.
+Pilar Márquez Aragúndez. Consejería de Salud y Familias. Andalucía.
+Pablo Angel Cascajosa. Consejería de Salud y Familias. Andalucía.
+Raquel de Diego Melara. Consejería de Salud y Familias. Andalucía
+Carmen Ortiz Llanes. Consejería de Sanidad. Principado de Asturias.
+Luis Javier Viloria Raymundo. Consejería de Sanidad y Servicios Sociales. 
+Cantabria.
+
+10
+Palmira Martínez Foronda. Consejería de Salud y Servicios Sociales. La Rioja.
+Bienvenida Carpe Carpe. Consejería de Sanidad y Política Social. Región de 
+Murcia.
+Jorge Javier Pérez Liebana. Consejería de Sanidad y Política Social. Región de 
+Murcia.
+Valentín Esteban Buedo. Conselleria de Sanidad Universal y Salud Pública. 
+Comunitat Valenciana.
+Marta Cebolla Tajada. Consejería de Sanidad, Bienestar Social y Familia. 
+Aragón.
+María Luisa Mena. Consejería de Sanidad, Bienestar Social y Familia. Aragón.
+Ana Clavería Tabuenca. Consejería de Sanidad, Bienestar Social y Familia. 
+Aragón.
+Fernando Cebrián Gómez. Consejería de Sanidad y Asuntos Sociales. 
+Castilla-La Mancha.
+Mª Valle Trigueros Canalejas. Consejería de Sanidad y Asuntos Sociales. 
+Castilla-La Mancha.
+José Ignacio Aguado. Instituto Navarro de Salud Laboral. Comunidad Foral de 
+Navarra.
+Estrella Extramiana Cameno. Instituto Navarro de Salud Laboral. Comunidad 
+Foral de Navarra.
+Mª Remedios Sanguino. Consejería de Sanidad y Políticas Sociales. Extremadura.
+Santiago Briz Blázquez. Consejería de Sanidad y Políticas Sociales. Extremadura.
+Margarita Gayá Janer. Conselleria de Salut. Illes Balears.
+Pilar Estades Janer. Conselleria de Salut. Illes Balears.
+Francisco Mateos Batista. Gobierno de Canarias. Consejería de Sanidad. 
+Canarias.
+Irene López Jorge. Gobierno de Canarias. Consejería de Sanidad. Canarias.
+María Fernanda González Gómez. Consejería de Sanidad. Comunidad de 
+Madrid.
+Sara Boleas. Consejería de Sanidad. Comunidad de Madrid.
+Milagros Joral Gutiérrez. Consejería de Sanidad. Castilla y León.
+Luisa Fernanda Hermoso Castro. Consejería de Presidencia y Salud Publica. 
+Ciudad Autónoma de Melilla.
+Pedro Gullón Tosio. Director General de Salud Pública y Equidad en Salud.
+Santiago González Muñoz. Subdirector General de Sanidad Ambiental y Salud 
+Laboral.
+
+11
+Índice
+Presentación
+13
+Antecedentes
+15
+1. Criterios de aplicación
+19
+2. Definición del problema
+21 
+2.1 Conceptos clave
+21 
+2.2 Zonas prioritarias de radón
+24 
+2.3. Mecanismos de acción
+24 
+2.4. Efectos sobre la salud
+25 
+2.5. Pronóstico
+26 
+2.6. Prevención del cáncer de pulmón
+26 
+2.6.1. Prevención primaria
+27 
+2.6.2. Prevención secundaria
+28
+3. Evaluación del riesgo
+29
+4. Protocolo sanitario específico
+33 
+4.1. Vigilancia individual de la salud
+33 
+4.1.1. Contenido
+33 
+4.1.2. Periodicidad
+35 
+4.1.3. Conducta que se debe seguir según las alteraciones detectadas
+36 
+4.1.4. Conducta que se debe seguir en el caso de daño para la salud
+39 
+4.1.5. Conducta que se debe seguir en el caso de diagnóstico de 
+40 
+enfermedad profesional
+ 
+4.1.6. Documentación
+40 
+4.1.7. Vigilancia de la salud post-ocupacional
+42 
+4.2 Vigilancia colectiva de la salud
+43
+Referencias
+47
+Anexo I
+51
+Anexo II
+53
+
+
+13
+Presentación
+Este protocolo forma parte del trabajo desarrollado por las Administracio-
+nes Sanitarias a través de la Ponencia de Salud Laboral de la Comisión de 
+Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. 
+Su objetivo es tratar de establecer los criterios de vigilancia de la salud de 
+aquellas personas trabajadoras clasificadas como expuestas a radón.
+Constituye una línea de trabajo incluida en la Estrategia Española de 
+Seguridad y Salud en el Trabajo 2023-2027I y está también contemplado en 
+las actividades a desarrollar en el Eje Lugares de Trabajo del Plan Nacional 
+contra el RadónII.
+La elaboración de este protocolo se ha coordinado desde la Univer-
+sidad de Santiago de Compostela –Laboratorio de Radón de Galicia– y en 
+ella han participado:
+- la Sociedad Española de Protección Radiológica (SEPR),
+- el Grupo Español de Cáncer de Pulmón (GECP),
+- la Sociedad Española de Neumología y Cirugía Torácica (SEPAR),
+- Salud Laboral OSALAN/Ponencia de Salud Laboral,
+- la Confederación Sindical de Comisiones Obreras (CC. OO.),
+- el Consejo de Seguridad Nuclear (CSN),
+- el Instituto de Seguridad y Salud Laboral de Galicia (ISSGA),
+- el Ministerio de Sanidad.
+Este protocolo surge como una consecuencia lógica de un trabajo pre-
+vio encargado por el Ministerio de Sanidad y publicado en agosto de 2024, 
+titulado “Revisión de Evidencia y Buenas Prácticas sobre Vigilancia Sani-
+taria específica en personas expuestas a radón ocupacional”1. El documen-
+to referenciado constituye una revisión exhaustiva de la literatura sobre el 
+I https://www.insst.es/noticias-insst/estrategia-espa%C3%B1ola-de-seguridad-y-salud-en-el-
+trabajo-2023-2027
+II https://www.sanidad.gob.es/areas/sanidadAmbiental/riesgosAmbientales/radon/home.htm
+
+14
+tema, incluyendo la consulta con diferentes personas expertas de otros países 
+europeos, y ofrece una reflexión sobre las circunstancias que deben perfilar 
+los criterios de vigilancia de la salud de las personas trabajadoras que han 
+estado o que están expuestas a radón. Una conclusión de este trabajo previo 
+es la necesidad de disponer de un protocolo de vigilancia específico de estas 
+personas trabajadoras. El objeto del presente documento es dar respuesta a 
+esta necesidad.
+Como en anteriores ocasiones, una vez concluido el procedimiento in-
+terno de elaboración de la propuesta de protocolo, ha sido sometido a con-
+sulta y adecuadamente informado por los interlocutores sociales (CEOE, 
+CEPYME, UGT, CCOO, AMAT, AESPLA y ASPA) y sociedades cientí-
+ficas de la medicina y la enfermería del trabajo (SEMST, AEEMT, AET), 
+habiéndose incorporado a la redacción final los comentarios recibidos que 
+se consideró mejoraban el texto presentado.
+
+15
+Antecedentes
+La protección de las personas trabajadoras en el ámbito laboral está regu-
+lada en España por diversas leyes y normativas, empezando por la propia 
+Constitución, que indica en su artículo 40.2 que “los poderes públicos fo-
+mentarán una política que garantice la formación y readaptación profesio-
+nales; velarán por la seguridad e higiene en el trabajo y garantizarán el des-
+canso necesario, mediante la limitación de la jornada laboral, las vacaciones 
+periódicas retribuidas y la promoción de centros adecuados”. En ello, subya-
+ce el derecho a la salud de las personas trabajadoras.
+En el caso concreto de la exposición a radón, tanto a nivel internacio-
+nal como en España los niveles de referencia de la exposición en el ámbito 
+residencial y laboral se han ido reduciendo progresivamente a medida que 
+ha ido surgiendo nueva evidencia científica2. En España, la exposición a 
+radón en el ámbito laboral fue regulada por primera vez en el Real De-
+creto 783/2001, por el que se aprueba el reglamento sobre protección sa-
+nitaria contra radiaciones ionizantes (derogada), que ya contemplaba una 
+vigilancia sanitaria de las personas trabajadoras expuestas3. Posteriormente, 
+la instrucción IS-33 del Consejo de Seguridad Nuclear (CSN), publicada 
+en enero de 2012, estableció niveles de referencia en diversos puestos de 
+trabajo en función de si podían tener o no permanencia del público, uso 
+residencial o educativo, además de en ciertos lugares donde es esperable 
+que existan concentraciones elevadas de radón, como cuevas, minas y otros 
+lugares de trabajo específicos4. En 2014 se aprueba la Directiva Europea 
+de Normas Básicas para la Protección frente a las Radiaciones Ionizantes 
+(Directiva 2013/59/Euratom)5, por la que los Estados miembros deben es-
+tablecer niveles de referencia para la concentración de radón en lugares de 
+trabajo (y en viviendas) que no superen los 300 Bq/m3, originando cambios 
+reglamentarios en el ordenamiento jurídico español6. Esta directiva estable-
+ce, además, que debe haber una vigilancia sanitaria de las personas traba-
+jadoras expuestas a las radiaciones ionizantes y que esta debe ser realizada 
+por los servicios de salud laboral. El documento Radiation Protection 1937, 
+en el que la Comisión Europea orienta a los Estados miembros sobre la 
+transposición de los requisitos relativos a radón ocupacional de la Directiva 
+
+16
+2013/59/Euratom, hace referencia a la necesidad de una vigilancia sanitaria 
+para garantizar que la salud de las personas trabajadoras sea adecuada a las 
+tareas que deban desempeñar, aunque sin desarrollar en qué debe consistir 
+esa vigilancia.
+Como consecuencia de la Directiva Europea 2013/59/Euratom5, se pu-
+blica el Real Decreto 1029/2022, de 20 de diciembre, por el que se actuali-
+za el Reglamento sobre protección de la salud contra los riesgos derivados 
+de la exposición a las radiaciones ionizantes (Real Decreto 1029/2022)6. En 
+este Real Decreto se establece cómo y en qué lugares de trabajo debe esti-
+marse el promedio anual de concentración de radón mediante mediciones 
+a través de laboratorios acreditados. Asimismo, establece la obligación de 
+que los titulares de las actividades laborales tomen medidas para reducir la 
+concentración de radón –y/o la exposición de las personas trabajadoras– en 
+aquellos espacios en los que haya concentraciones superiores al nivel de re-
+ferencia de 300 Bq/m3. Además, se establece la obligación de estimar la dosis 
+efectiva individual debida a la exposición a radón de las personas trabaja-
+doras con acceso a esos espacios y de clasificarlas como expuestas al radón 
+cuando la dosis efectiva pueda superar los 6 mSv por año oficial.
+En el Real Decreto 1217/2024, de 3 de diciembre, por el que se aprueba 
+el Reglamento sobre instalaciones nucleares y radiactivas, y otras activida-
+des relacionadas con la exposición a las radiaciones ionizantes8, se incluye 
+la obligación de que la estimación de la dosis efectiva sea realizada por una 
+Unidad Técnica de Protección Radiológica (UTPR) acreditada en el ámbito 
+del radón. Se introducen, además, los plazos −que difieren en función de si 
+la concentración de radón en el lugar de trabajo supera o no 1.000 Bq/m3− 
+para declarar a la autoridad competente esta situación y para remitir al CSN 
+los informes preceptivos.
+Por otro lado, el artículo 32 del Real Decreto 1029/2022 establece que 
+la dosis efectiva anual de cada persona trabajadora debe consignarse en 
+su historial dosimétrico. Asimismo, los resultados del control dosimétrico 
+se transmitirán al servicio de prevención para su valoración a efectos de la 
+salud de las personas trabajadoras. Estas directrices deben aplicarse sin per-
+juicio de la aplicación de todas las obligaciones dispuestas en el propio Real 
+Decreto 1029/2022 y en el Real Decreto 1217/2024.
+
+17
+Cabe destacar que el Plan Nacional Contra el Radón, publicado en 
+20249, dispone la valoración de la posible pertinencia de proponer un proto-
+colo de vigilancia sanitaria específica para personas trabajadoras expuestas 
+a radón. Para esta vigilancia se diseña el presente Protocolo de Vigilancia Sa-
+nitaria Específica de Personas Trabajadoras Expuestas a Radón. Su objeto es 
+disponer de una estrategia de abordaje común que garantice la equidad en 
+la actuación ante este tipo de situaciones. Consideramos que este protocolo 
+resulta útil tanto por las acciones que propone como por aquellas que omite. 
+En este sentido, es parte de sus objetivos armonizar las actuaciones dirigidas 
+a las personas trabajadoras expuestas a radón, evitando intervenciones inne-
+cesarias o ineficaces desde una perspectiva basada en la evidencia.
+El presente protocolo debe aplicarse sin perjuicio de la aplicación de 
+las obligaciones dispuestas en el Real Decreto 1029/2022 y en el Real De-
+creto 1217/2024.
+
+
+19
+1. Criterios de aplicación
+Este Protocolo de Vigilancia Sanitaria Específica de Personas Trabajado-
+ras Expuestas a Radón se aplicará a las personas trabajadoras expuestas a 
+radón. Es decir, a aquellas personas trabajadoras que puedan recibir una 
+dosis efectiva por exposición al radón superior a 6 mSv por año oficial en su 
+lugar de trabajo.
+
+
+21
+2. Definición del problema
+2.1. Conceptos clave
+Actividad
+Magnitud física que mide la tasa de desintegración de un radionucleido, co-
+rrespondiente a una cantidad de dicho radionucleido en un determinado es-
+tado energético en un momento dado. La unidad de actividad es el becque-
+rel (Bq). Un becquerel es igual a una desintegración nuclear por segundo. 
+Por tanto, 300 Bq/m3 serían equivalentes a 300 desintegraciones atómicas en 
+un segundo en un volumen de un metro cúbico. En el caso del radón, estas 
+desintegraciones son equivalentes a partículas alfa, que son las producidas 
+por el átomo de radón inestable al transformarse en otro elemento.
+Año oficial
+Periodo de doce meses, a contar desde el día 1 de enero hasta el 31 de diciem-
+bre, ambos inclusive, tal como se establece en el Real Decreto 1029/2022, de 
+20 de diciembre, por el que se aprueba el Reglamento sobre protección de la 
+salud contra los riesgos derivados de la exposición a las radiaciones ionizantes.
+Centro de trabajo
+Unidad productiva con organización específica que sea dada de alta como 
+tal ante la autoridad laboral.
+Consumo de tabaco acumulado en la vida
+Unidad que combina los años de consumo de tabaco y la intensidad del hábito me-
+dida en cigarrillos consumidos al día, teniendo en cuenta que un paquete equivale 
+
+22
+a 20 cigarrillos. Se mide en paquetes-año consumidos por una persona. El índice 
+paquetes-año (IPA) se calcula como el número de cigarrillos fumados al día por 
+el número de años fumando y dividiendo entre 20. Así, una persona que haya 
+fumado 20 cigarrillos diarios (un paquete) durante 20 años tendrá un consumo de 
+tabaco acumulado de 20 paquetes-año, equivalente al de una persona que haya 
+fumado 10 cigarrillos (medio paquete) durante 40 años. El riesgo de cáncer de 
+pulmón se asocia directamente con el consumo de tabaco acumulado en la vida.
+Dosis efectiva
+Suma ponderada de las dosis equivalentes en todos los órganos y tejidos del 
+organismo en base a su sensibilidad diferencial frente al daño. Representa la 
+probabilidad de que niveles bajos de radiación ionizante produzcan cáncer. Sus 
+unidades son los sieverts. Siguiendo el modelo de estimación del riesgo y el coe-
+ficiente nominal de probabilidad para el riesgo de cáncer ajustado al detrimento 
+para toda la población propuesto en ICRP 10310, un sievert equivale a un 5,5% 
+de incremento en el riesgo de incidencia de cáncer. Sin embargo, la Comisión 
+Internacional de Protección Radiológica (ICRP) advierte de la incertidumbre 
+que conllevan estas estimaciones, entre otras razones porque se aplican factores 
+de conversión o eficacia para proyectar los datos existentes de riesgo de cáncer 
+determinado a dosis y tasas de dosis elevadas, a los riesgos que se aplicarían a 
+las dosis y tasas de dosis bajas. La ICRP advierte también explícitamente que 
+los coeficientes nominales de riesgo recomendados deberían aplicarse a pobla-
+ciones enteras y no a individuos. Igualmente advierte de que, debido a la incer-
+tidumbre en los efectos sobre la salud a bajas dosis, la Comisión estima que no 
+es adecuado para los propósitos de planificación en Salud Pública calcular el 
+número hipotético de casos de cáncer o de enfermedad heredable que podrían 
+asociarse a dosis de radiación muy pequeñas sufridas por un número grande de 
+personas durante periodos prolongados de tiempo. Habitualmente, se utiliza 
+como unidad el milisievert (mSv), la milésima parte de un sievert.
+Exposición a radón
+Exposición al radionucleido Rn-222 y su progenie de corto período de semi-
+desintegración emisora de radiación alfa.
+
+23
+Lugar de trabajo
+Cualquier espacio en el que las personas trabajadoras deban permanecer o 
+al que deban acceder en razón a su trabajo, incluidos los distintos lugares a 
+los que deban desplazarse en el ejercicio de este.
+Personas trabajadoras expuestas a radón
+Personas trabajadoras que puedan recibir una dosis efectiva por exposición 
+a radón en el lugar de trabajo superior a 6 mSv por año oficial, tal como se 
+establece en el Real Decreto 1029/2022, de 20 de diciembre, por el que se 
+aprueba el Reglamento sobre protección de la salud contra los riesgos deri-
+vados de la exposición a las radiaciones ionizantes.
+Radón interior
+Radón que se acumula en espacios interiores procedente habitualmente del 
+subsuelo. El radón suele penetrar en edificios u otras obras o lugares cerra-
+dos o confinados a través de grietas, fisuras o juntas mal selladas y, a partir 
+de ahí, difundir a otras estancias, que pueden ser en el mismo piso o en pisos 
+superiores del edificio o construcción afectado.
+Servicio y Unidad Técnica de Protección Radiológica
+Entidades expresamente autorizadas por el Consejo de Seguridad Nuclear 
+(CSN) para desempeñar las funciones establecidas en el Real Decreto 
+1029/2022, de 20 de diciembre, por el que se aprueba el Reglamento sobre 
+protección de la salud contra los riesgos derivados de la exposición a las 
+radiaciones ionizantes. Pueden estar autorizados por el CSN para prestar 
+servicio de asesoramiento técnico en materia de radón. El Servicio de Pro-
+tección Radiológica (SPR) es una entidad propia de un titular o manco-
+munada por varios titulares, mientras que la Unidad Técnica de Protección 
+Radiológica (UTPR) es una entidad ajena contratada por el titular.
+
+24
+2.2. Zonas prioritarias de radón
+Todos los lugares interiores, incluyendo viviendas y lugares de trabajo, en 
+cualquier ubicación o de cualquier naturaleza, tienen riesgo de presentar 
+niveles elevados de concentración de radón en aire. No obstante, existen lu-
+gares de actuación prioritaria, definidos por el Real Decreto 1029/2022 y por 
+la Instrucción IS-47 del Consejo de Seguridad Nuclear11, en los que es más 
+probable encontrar valores de concentración de radón superiores al nivel de 
+referencia de 300 Bq/m3.
+A continuación, se enumeran los lugares de trabajo considerados zonas 
+de actuación prioritaria, excluidas las zonas al aire libre. En estos lugares de 
+trabajo, la persona responsable de la actividad laboral está obligada a esti-
+mar el promedio de concentración de radón en los centros de trabajo:
+a) lugares de trabajo subterráneos, tales como obras, túneles, minas o 
+cuevas;
+b) lugares donde se procese, manipule o aproveche agua de origen sub-
+terráneo, tales como actividades termales y balnearios y
+c) todos los lugares de trabajo situados en planta bajo rasante o planta 
+baja de los términos municipales de actuación prioritaria a los que 
+hace referencia el artículo 79 del Real Decreto 1029/2022, de 20 de 
+diciembre, por el que se aprueba el Reglamento sobre protección de 
+la salud contra los riesgos derivados de la exposición a las radiacio-
+nes ionizantes.
+2.3. Mecanismos de acción
+La radiación ionizante tipo alfa que emite el radón y, sobre todo, sus des-
+cendientes de vida media corta, bombardean el tracto respiratorio una vez 
+inhalados, pudiendo inducir mutaciones carcinogénicas. Los descendientes 
+de vida media corta emisores de radiación alfa son isótopos de Polonio en 
+forma sólida que se encuentran en suspensión, bien en forma libre o adhe-
+ridos a los aerosoles en el aire que se respira, y que al ser inhalados se ad-
+hieren con facilidad al epitelio pulmonar donde rápidamente se desintegran 
+emitiendo radiación alfa12.
+
+25
+La radiación alfa tiene un alto poder ionizante y poca capacidad de pe-
+netración, lo que provoca que deposite gran cantidad de energía en el medio 
+inmediatamente colindante, como las células del epitelio pulmonar.
+El mecanismo por el cual la exposición a radón produce cáncer de 
+pulmón no es totalmente conocido13. Existen varias hipótesis acerca de este 
+efecto que quedan fuera del alcance de este documento. Pero es importante 
+destacar que, en la actualidad, no hay ningún marcador molecular o genético 
+que permita caracterizar a las personas que han estado expuestas a concen-
+traciones elevadas de radón.
+2.4. Efectos sobre la salud
+La exposición a radón se asocia exclusivamente con un aumento de riesgo 
+el cáncer de pulmón en adultos. Por tanto, sus efectos sobre la salud se res-
+tringen a esta entidad neoplásica en esta población, tanto en hombres como 
+en mujeres.
+El cáncer de pulmón tiene una sintomatología muy variable, haciendo 
+que su diagnóstico pueda ser complejo en ocasiones. Los pacientes con cáncer 
+de pulmón suelen estar asintomáticos en las fases iniciales de la enfermedad. 
+La mayoría de los pacientes con cáncer de pulmón se diagnostican cuando 
+la enfermedad ya está en fase avanzada, pues los síntomas pueden ser muy 
+imprecisos o inespecíficos y ser semejantes a los de otras enfermedades. La 
+mayoría de los cánceres de pulmón solo causan síntomas cuando ya se han 
+propagado. No hay un signo o síntoma que sea patognomónico. Sin embargo, 
+algunas personas con cáncer de pulmón pueden experimentar una serie de 
+síntomas, más o menos comunes, que pueden servir de alerta para su deriva-
+ción al especialista:
+- Tos persistente suele estar presente en el 50-75% de los pacientes
+- Dolor constante en el pecho, al respirar o toser
+- Esputos con sangre o color metal oxidado (hemoptisis) se encuentra 
+en el 25-50% de los pacientes
+- Dificultad respiratoria (disnea) se observa en el 25-40% de los pa-
+cientes y puede ser debida a muchas causas
+
+26
+- Pitidos o ruidos al respirar
+- Ronquera y cambios en la voz la afonía se debe a la afectación del 
+nervio laríngeo recurrente que paraliza la cuerda vocal izquierda
+- Fatiga
+- Pérdida de apetito
+- Pérdida de peso
+- Dolor de huesos
+Los síntomas más específicos suelen indicar una enfermedad más avan-
+zada por extensión del tumor (síndrome de vena cava superior, afonía o he-
+moptisis). Otros síntomas o signos pueden relacionarse con la propagación a 
+diferentes partes del cuerpo (sistemas nervioso, óseo o linfático, hígado, etc.).
+Cabe destacar que la exposición a radón supone un riesgo para los 
+pulmones de quien lo inhala (riesgo de cáncer de pulmón), por lo que el 
+embrión o el feto no se ven afectados. Por este motivo, en el caso de mujeres 
+embarazadas no son necesarios controles adicionales ni medidas de protec-
+ción especial14,15.
+2.5. Pronóstico
+Si bien, en general, la supervivencia del cáncer de pulmón ha aumentado 
+ligeramente en los últimos años, esta sigue siendo baja. Según datos nortea-
+mericanos de pacientes diagnosticados entre 2014 y 2020, a los cinco años 
+del diagnóstico la supervivencia se sitúa en un 26,7%16. Más de la mitad de 
+los pacientes con cáncer de pulmón se diagnostican en estadio IV, es decir, 
+cuando ya existe metástasis en el momento del diagnóstico.
+2.6. Prevención del cáncer de pulmón
+Estudios epidemiológicos robustos y de elevado tamaño muestral indican 
+que existe una asociación dosis-efecto lineal y estadísticamente significativa 
+entre la exposición a radón y el riesgo de cáncer de pulmón17. El efecto del 
+radón como factor de riesgo de cáncer de pulmón aplica a todos sus tipos 
+histológicos.
+
+27
+Existe evidencia sólida de que, si la exposición a radón interior ocurre si-
+multáneamente con el consumo de tabaco, el riesgo de cáncer de pulmón aumen-
+ta de forma relevante. Esto es debido a que el radón y el tabaco tienen un efecto 
+sinérgico submultiplicativo; es decir, su efecto combinado es superior a la suma 
+de los efectos de ambas exposiciones por separado17. De hecho, esta interacción 
+implica que la mayoría de los casos de cáncer de pulmón atribuidos a la exposi-
+ción a radón ocurran en personas fumadoras y exfumadoras18. Una de las mane-
+ras más efectivas de reducir el riesgo de cáncer de pulmón atribuido a radón es, 
+por tanto, evitar el consumo de tabaco entre las personas expuestas al gas.
+En el documento “Revisión de Evidencia científica sobre vigilancia 
+de la salud de personas expuestas a radón ocupacional”III, publicado por 
+el Ministerio de Sanidad, se describe en profundidad la evidencia científica 
+disponible sobre la exposición a radón1.
+2.6.1. Prevención primaria
+Exposición a radón
+Dada la relación lineal entre radón y cáncer de pulmón, se asume que cuanto 
+más baja sea la concentración de radón, menor será el riesgo de cáncer de 
+pulmón. La presencia de radón es ubicua y no es posible eliminarlo, aunque 
+sí reducirlo. Por ello, se establece un nivel de referencia, que es el nivel a 
+partir del cual se considera razonable y pertinente tomar acciones de mi-
+tigación. En el caso de España, como ya se ha mencionado, este nivel de 
+referencia es de 300 Bq/m3 para hogares y lugares de trabajo.
+Para actuar frente al riesgo de exposición a radón, tanto a nivel resi-
+dencial como a nivel ocupacional, se deben realizar mediciones adecuadas 
+de la concentración de radón y acciones de mitigación cuando la concentra-
+ción supere el nivel de referencia. En el caso de la exposición ocupacional a 
+radón, el proceso de medición y las acciones a tomar en función del resulta-
+do de la medición se recogen en el apartado.
+III  https://www.sanidad.gob.es/areas/sanidadAmbiental/riesgosAmbientales/radon/
+publicaciones/home.htm
+
+28
+Consumo de tabaco
+El principal factor de riesgo de cáncer de pulmón es el hábito tabáquico, 
+que además tiene un efecto sinérgico con el resto de los factores de riesgo 
+de cáncer de pulmón, entre ellos el radón17. La deshabituación tabáquica 
+no solo reduce el exceso de riesgo debido al tabaco, sino también el debido 
+a otras exposiciones carcinogénicas que la persona fumadora pueda tener.
+Exposición a otros carcinógenos pulmonares en el trabajo
+La eliminación o reducción de otras exposiciones laborales a cancerígenos 
+pulmonares es necesaria para reducir el riesgo de cáncer de pulmón del in-
+dividuo. El Anexo I de este protocolo recoge el listado de cancerígenos pul-
+monares en humanos con evidencia suficiente o limitada de acuerdo con la 
+Agencia Internacional de Investigación del Cáncer (IARC). Es importante 
+destacar que el cáncer de pulmón tiene un fuerte componente ocupacional, 
+a diferencia de otros tumores, y que puede haber otras exposiciones carcino-
+génicas además del radón en muchos puestos de trabajo.
+Formación e información
+2.6.2. Prevención secundaria
+Detección precoz de cáncer de pulmón en personas de alto riesgo
+Existen estudios que aportan evidencia sobre el uso de la tomografía com-
+putarizada de baja dosis (TCBD) para el cribado de cáncer de pulmón en 
+personas fumadoras19, aunque las evaluaciones llevadas a cabo en España y 
+Europa concluyen que no hay evidencia clara de un beneficio neto para el 
+individuo ni para la población20,21. En el caso de España, el cribado poblacio-
+nal de cáncer de pulmón no está incluido en la cartera de servicios ni ha sido 
+aprobado como programa de cribado22.
+En población trabajadora sana o asintomática, no existe ningún estu-
+dio publicado que haya analizado el uso de la TCBD para la detección pre-
+coz de cáncer de pulmón en personas trabajadoras expuestas a radón.
+
+29
+3. Evaluación del riesgo
+Los titulares de las actividades laborales que se detallan a continuación de-
+berán estimar el promedio anual de concentración de radón en aire en los 
+lugares de trabajo en los que las personas trabajadoras deban permanecer 
+o a los que puedan acceder por razón de su trabajo, excluidas las zonas al 
+aire libre:
+a) Lugares de trabajo subterráneos, tales como obras, túneles, minas o 
+cuevas.
+b) Lugares donde se procese, manipule o aproveche agua de origen 
+subterráneo, tales como actividades termales y balnearios.
+c) Todos los lugares de trabajo situados en planta bajo rasante o planta 
+baja de los términos municipales de actuación prioritaria.
+La Instrucción IS-47, de 9 de abril de 2025, del CSN11, aprobó el listado 
+de términos municipales de actuación prioritaria contra el radón a los efec-
+tos del Reglamento de protección de la salud contra los riesgos derivados de 
+la exposición a las radiaciones ionizantes (RPSI)6 y del Plan Nacional contra 
+el Radón9. Son los incluidos como «Zona II» en el Apéndice B de la Sección 
+HS6 del Documento Básico de Salubridad del Código Técnico de la Edifica-
+ción, aprobado por Real Decreto 314/2006, de 17 de marzo, modificado por 
+el Real Decreto 732/2019, de 20 de diciembre23.
+La Instrucción IS-47 establece la metodología para los estudios de 
+medición de la concentración de radón en el aire interior en los lugares de 
+trabajo del apartado c) anterior. Recoge las pautas para la planificación de 
+los estudios de medición de la concentración de radón en el aire interior 
+del centro de trabajo por la persona titular de la actividad laboral, determi-
+nación de zonas de muestreo, número mínimo de detectores y caracterís-
+ticas de los detectores, que deberán ser suministrados y analizados por un 
+laboratorio que disponga de la correspondiente acreditación según la norma 
+UNE-EN ISO/IEC 17025. Asimismo, detalla el contenido del informe de 
+resultados, los mecanismos de información y consulta a las personas traba-
+jadoras, el plazo para la realización de las mediciones tras la apertura de 
+
+30
+nuevos centros de trabajo y la periodicidad con la que deben actualizarse los 
+estudios de medición de la concentración de radón.
+La planificación del estudio de medición de la concentración de radón 
+en el aire interior en los lugares de trabajo garantizará que la exposición de 
+los detectores tenga lugar bien:
+- Durante un periodo mínimo de tres meses, no necesariamente con-
+secutivos, comprendido entre el 1 de octubre y el 31 de mayo, de 
+manera que proporcione, en la mayoría de los casos, una estimación 
+conservadora, o
+- a lo largo de un año natural −excluyendo, en su caso, el periodo de 
+cierre vacacional o de inactividad−, en periodos de duración máxima 
+trimestral.
+La periodicidad de los estudios de medición de la concentración de 
+radón en el aire interior de los lugares de trabajo se realizará:
+a) Cada 10 años, cuando no sea necesario mantener en funcionamiento 
+sistemas activos para garantizar que los niveles de radón sean infe-
+riores al nivel de referencia y en ninguna de las mediciones reali-
+zadas en la actualización más reciente se hayan detectado valores 
+superiores a 300 Bq/m3 o
+b) Cada cinco años, en el resto de los casos.
+El informe de resultados de los estudios de medición de la concentración 
+de radón en el aire interior de los lugares de trabajo deberá realizarlo el titular 
+de la actividad laboral o bien el personal trabajador designado por este, un 
+servicio de prevención propio, un servicio de prevención ajeno o una UTPR.
+Cuando en el edificio o centro de trabajo se hayan efectuado alteracio-
+nes, ampliaciones o transformaciones que puedan afectar de manera signi-
+ficativa a las concentraciones de radón en el aire −como obras que puedan 
+disminuir la tasa de renovación de aire o favorecer la entrada o acumula-
+ción del aire del suelo−, deberán reevaluarse los niveles de radón (inicio de 
+las mediciones) en el plazo máximo de seis meses tras la finalización de las 
+obras o actuaciones.
+
+31
+La actualización de los estudios de medición de la concentración 
+de radón en el aire interior de los lugares de trabajo deberá incluir, al 
+menos, un tercio de los puntos de mediciones incluidos en el estudio ini-
+cial. Para las mediciones, se seleccionarán aquellas ubicaciones en las que 
+los resultados de radón hayan sido más elevados de acuerdo con la última 
+actualización del estudio, así como todas aquellas en las que los valores 
+medidos hayan sido superiores a 300 Bq/m3 en cualquiera de las dos últi-
+mas actualizaciones.
+Cuando en un lugar de trabajo haya zonas con concentraciones de 
+radón en aire que, en promedio anual, superen el nivel de referencia de 300 
+Bq/m3, el titular de la actividad laboral deberá tomar las medidas oportunas 
+para reducir las concentraciones y/o la exposición al radón, de acuerdo con 
+el principio de optimización, tras lo cual deberá reevaluar el promedio anual 
+de concentración de radón.
+Si a pesar de las medidas de mitigación el promedio anual de la concen-
+tración de radón en el aire interior del lugar de trabajo sigue siendo superior 
+al nivel de referencia de 300 Bq/m3, el titular de la actividad laboral deberá8:
+1. Reevaluar la concentración de radón en el aire interior del lugar de 
+trabajo con la frecuencia que en cada caso establezca el CSN.
+2. Estimar la dosis efectiva anual debida al radón que puedan recibir 
+las personas trabajadoras con acceso a ese lugar de trabajo.
+3. Clasificar como personas trabajadoras expuestas a radón a aquellas 
+que puedan recibir una dosis efectiva por exposición a radón supe-
+rior a 6 mSv por año oficial.
+El titular de la actividad laboral deberá establecer las medidas de pro-
+tección radiológica aplicables en función del riesgo contando con el ase-
+soramiento de una UTPR autorizada por el CSN para prestar servicio de 
+asesoramiento técnico en materia de radiación natural.
+En las instalaciones nucleares e instalaciones radiactivas que dispon-
+gan de SPR o tengan contratada una UTPR, el control de la exposición al 
+radón será llevado a cabo por estos servicios.
+
+32
+Si alguna de las personas trabajadoras puede recibir dosis efectivas 
+anuales superiores a 20 mSv debidas al radón, el titular de la actividad labo-
+ral deberá adoptar acciones con carácter inmediato para evitar esta situa-
+ción, incluida, si fuera preciso, la reubicación del personal trabajador.
+
+33
+4. Protocolo sanitario específico
+El Protocolo de Vigilancia Sanitaria Específica de Personas Trabajadoras Ex-
+puestas a Radón desarrollado en este documento está dirigido al personal 
+sanitario que debe llevar a cabo la vigilancia de la salud de las personas 
+trabajadoras expuestas a radón.
+El principal objetivo de esta vigilancia específica será el de reducir el 
+riesgo de cáncer de pulmón en personas trabajadoras debido a la exposición 
+a radón y el facilitar su detección temprana.
+El presente protocolo consta de dos partes: la vigilancia individual de 
+la salud y la vigilancia colectiva de la salud.
+4.1. Vigilancia individual de la salud
+4.1.1. Contenido
+Se comprobará que la Historia Clínico-Laboral de cada trabajador recoja el 
+contenido establecido en el artículo 37.3.c. del Real Decreto 39/1997, por el 
+que se aprueba el Reglamento de los Servicios de Prevención.
+1. Historia laboral:
+- Historial dosimétrico.
+ 
+Se consultarán los datos de dicho historial, o en su defecto, los estu-
+dios elaborados al amparo del artículo 103 del RINR 8, que se soli-
+citará al titular de la actividad laboral, así como toda la información 
+y análisis relevante proporcionado por la UTPR/SPR encargada de 
+la vigilancia de dosis de la persona trabajadora expuesta a radón.
+ 
+Se registrarán las dosis acumuladas por año oficial, así como los pa-
+rámetros relevantes para la estimación de estas dosis.
+- Datos referidos tanto al puesto actual como a puestos ocupados en 
+el pasado.
+
+34
+	
+Antecedentes 
+Antecedentes de enfermedades respiratorias: tuberculosis, 
+personales
+asma, enfermedad pulmonar obstructiva crónica (EPOC), 
+silicosis, enfermedades relacionadas con la exposición 
+al amianto, otras neumoconiosis, enfermedad pulmonar 
+intersticial, etc.
+Antecedentes neoplásicos: de cualquier localización tumoral, 
+bien sean tumores sólidos o no.
+Antecedentes 
+Familiares en primer grado con cáncer de pulmón u otros 
+familiares
+tumores.
+Hábito tabáquico
+Cuantificación del consumo de tabaco acumulado en vida 
+por medio del IPA [(cigarrillos/día x años fumando)/20] y nivel 
+de dependencia.
+En el caso de las personas exfumadoras, se debe indicar el 
+número de años desde el abandono del hábito.
+Historia actual
+Anamnesis dirigida en relación con los síntomas de cáncer 
+de pulmón, más o menos comunes, que pueden servir de 
+alerta para la derivación al especialista 24:
+- tos persistente;
+- dolor constante en el pecho, al respirar o toser;
+- esputos con sangre o hemoptisis;
+- disnea, pitidos o ruidos al respirar;
+- ronquera y cambios en la voz;
+- fatiga, pérdida de apetito o pérdida de peso;
+- dolor de huesos y
+- otros síntomas o signos −síndrome de vena cava superior, 
+afonía, alternaciones del sistema nervioso, óseo, linfático, 
+hepático, etc.− que puedan indicar una enfermedad más 
+avanzada por extensión o propagación del tumor.
+
+35
+Exploración física: podrán realizarse aquellas exploraciones que, a juicio del 
+personal médico del trabajo, se estimen convenientes y estén justificadas por 
+las circunstancias concretas de cada persona trabajadora.
+Pruebas de imagen: No se recomienda el uso de radiografía de tórax o 
+tomografía computarizada de baja dosis ante la falta de evidencia científica 
+en su utilidad para la detección precoz de cáncer de pulmón en personas 
+trabajadoras expuestos a radón.
+4.1.2. Periodicidad
+Examen de salud inicial
+El contenido será el recogido en el apartado 4.1.1.
+Exámenes periódicos de salud
+- Con carácter general los exámenes de salud se realizarán anualmente en 
+tanto la persona sea categorizada como expuesta a radón.
+ 
+Esta periodicidad podrá modificarse si está justificado por las circunstancias 
+concretas de exposición o de salud de cada persona trabajadora.
+- El contenido será el recogido en el apartado 4.1.1.
+Exámenes tras una ausencia prolongada por motivos de salud
+Tienen la finalidad de descubrir los eventuales orígenes profesionales de la 
+ausencia y recomendar una acción apropiada para proteger a las personas 
+trabajadoras. Se tendrán en cuenta especialmente los problemas de salud 
+relacionados con la exposición a radón, en función del puesto de trabajo.
+
+36
+4.1.3. Conducta que se debe seguir según las 
+alteraciones detectadas
+4.1.3.1. Criterios de valoración
+El diagnóstico precoz de cáncer de pulmón en personas trabajadoras ex-
+puestas a radón se fundamentará en la historia laboral y en los hallazgos 
+clínicos –síntomas y signos– consistentes relacionados con la exposición.
+4.1.3.2. Criterios para la comunicación de las conclusiones que se 
+deriven de la vigilancia de la salud de las personas trabajadoras
+Informe de recomendaciones preventivas para el empresario o 
+empresaria y para las personas u órganos con responsabilidades en 
+materia preventiva
+Las conclusiones derivadas de la vigilancia individual de la salud de las per-
+sonas trabajadoras expuestas a radón, desde una perspectiva de prevención 
+de riesgos laborales, deberán ser comunicadas al empresario o empresaria y 
+a las personas u órganos con responsabilidades en materia de prevención en 
+forma de recomendaciones preventivas, al objeto de que puedan ejercer las 
+funciones que tienen encomendadas.
+Se recomendarán medidas para la eliminación o reducción del riesgo 
+de exposición a radón de las personas trabajadoras. Si la naturaleza de la 
+actividad no permite la eliminación de este riesgo, se reducirá la exposición 
+al mínimo, aplicando medidas de prevención y protección coherentes con la 
+evaluación de riesgos.
+Se informará de la periodicidad o periodicidades recomendadas para el 
+siguiente examen de salud.
+Criterios de valoración de la aptitud para el trabajo
+Cuando sea necesario, el o la médico del trabajo, además de informar a 
+la persona interesada, también informará al empresario o empresaria y a 
+las personas u órganos con responsabilidades en materia de prevención 
+
+37
+mediante un informe de aptitud. Para ello, se podrán utilizar los siguientes 
+criterios de clasificación:
+GRUPO 1
+RESULTADO DE LA VIGILANCIA INDIVIDUAL DE LA SALUD
+No hay síntomas ni signos relacionados con la exposición a radón.
+APTITUD
+APTO/APTA.
+ACTUACIÓN
+- Implementar medidas preventivas con la finalidad de mejorar las condiciones de 
+trabajo (especificar las medidas concretas).
+- Si la dosis efectiva supera los 20 mSv por año oficial, la persona responsable de la 
+actividad laboral deberá adoptar acciones de carácter inmediato para evitar esta 
+situación, incluida, si fuera preciso, la reubicación de la persona trabajadora.
+GRUPO 2
+RESULTADO DE LA VIGILANCIA INDIVIDUAL DE LA SALUD
+Cumple los siguientes criterios:
+- Cáncer pulmonar.
+- Tras la finalización del tratamiento no presenta secuelas que impidan el desempeño 
+del trabajo.
+APTITUD
+APTO/APTA con medidas de adaptación o restricción. Persona trabajadora 
+especialmente sensible.
+ACTUACIÓN
+- La persona trabajadora debe ocupar un puesto sin riesgo de exposición a radón ni a 
+otros cancerígenos pulmonares.
+- Medidas personales: la persona trabajadora podrá desempeñar las tareas habituales 
+del puesto de trabajado a la que está destinada con el cumplimiento de las medidas 
+higiénico-sanitarias prescritas por el personal sanitario para salvaguardar su salud. 
+A fin de preservar la intimidad y la no discriminación, las medidas personales solo 
+serán facilitadas a la persona trabajadora.
+- Medidas laborales:
+- Adaptativas: implican la adaptación de todo o de parte del entorno laboral a las 
+necesidades de la persona trabajadora para la realización íntegra de las tareas 
+propias de su puesto de trabajo, con la autorización de la persona trabajadora.
+- Restrictivas: implican la no realización total o parcial de tareas específicas del 
+puesto de trabajo por parte de la persona trabajadora.
+Se informará a la persona trabajadora interesada, a la persona responsable de 
+la actividad laboral y a las personas u órganos de representación en materia de 
+prevención de riesgos laborales.
+
+38
+GRUPO 3
+RESULTADO DE LA VIGILANCIA INDIVIDUAL DE LA SALUD
+Cumple alguno de los siguientes criterios:
+- Cáncer pulmonar que tras finalización del tratamiento presenta secuelas que impiden 
+el trabajo.
+- No es posible una adaptación del puesto de trabajo y existe una probabilidad alta de 
+daño a la salud de la persona trabajadora.
+APTITUD
+NO APTO/APTA para el desempeño del trabajo actual.
+ACTUACIÓN
+- Cambio de puesto de trabajo de la persona trabajadora.
+- En el caso de no existir en la empresa la posibilidad de cambio de puesto de trabajo, 
+podrá orientarse de forma justificada hacia trámite de incapacidad permanente. Se 
+elaborará y facilitará el correspondiente informe para que la persona trabajadora 
+afectada pueda apoyar la solicitud de incapacidad ante el Instituto Nacional de la 
+Seguridad Social (INSS).
+Informe de recomendaciones preventivas para la persona trabajadora
+- El personal sanitario responsable de la vigilancia de la salud infor-
+mará a la persona trabajadora sobre su exposición a radón, las me-
+didas de prevención que se le recomiendan y la importancia de su 
+correcta aplicación.
+- La persona trabajadora será informada de los síntomas a los que de-
+berá prestar atención, por ser los más frecuentes: tos persistente; dolor 
+constante en el pecho, al respirar o toser; esputos con sangre o color 
+metal oxidado; pitidos o ruidos al respirar; ronquera y cambios en la 
+voz; fatiga, pérdida de apetito o pérdida de peso; dolor de huesos.
+- La persona trabajadora también será informada del modo en que 
+debe comunicar la aparición de síntomas, para proceder a su vigilan-
+cia precoz. El Anexo II recoge una propuesta del tipo de informa-
+ción que puede darse al personal trabajador.
+- En caso de confirmarse presencia de hábito tabáquico, se propor-
+cionará consejo antitabáquico a la persona trabajadora y se reco-
+mendará la abstinencia del consumo. Se informará a la persona tra-
+bajadora expuesta a radón de que su riesgo de cáncer de pulmón 
+aumenta de forma significativa si, además, es una persona fumadora.
+- Se facilitará información básica sobre los riesgos que supone la ex-
+posición a radón para la salud, e información práctica del CSN sobre 
+
+39
+como averiguar si vive en una zona prioritaria de radón (aquellas 
+con un riesgo elevado de encontrar viviendas con niveles excesivos 
+de radón) y sobre qué pasos dar en caso de que quieran medir radón 
+en su vivienda25. Averiguar los niveles de radón en el hogar y tomar 
+medidas para reducirlo cuando sea necesario es una de las 14 reco-
+mendaciones del Código Europeo Contra el Cancer (ECAC5)26.
+- Se facilitará asistencia en consulta de deshabituación tabáquica.
+- La persona trabajadora será informada de la periodicidad recomen-
+dada para el siguiente examen de salud.
+4.1.4. Conducta que se debe seguir en el caso de 
+daño para la salud
+El o la médico del trabajo que sospeche encontrarse ante un caso de enfer-
+medad profesional procederá a comunicarlo, tal y como establece el artículo 
+5 del Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el 
+cuadro de enfermedades profesionales en el sistema de la Seguridad Social y 
+se establecen criterios para su notificación y registro27, a la Mutua o Empresa 
+Colaboradora de la Seguridad Social o al INSS, a través del órgano compe-
+tente en cada Comunidad Autónoma.
+Guardando la debida confidencialidad respecto a los datos de salud, 
+comunicará a la empresa la tramitación de un caso de sospecha de enfer-
+medad profesional y, si es necesario, se pondrán en marcha las medidas pre-
+ventivas que eviten el empeoramiento del caso y/o el daño de otro personal 
+trabajador con exposición similar. La persona trabajadora afectada será in-
+formada de los trámites realizados y será remitida a la entidad colaboradora 
+con la Seguridad Social para estudio y, si procede, confirmación diagnósti-
+ca, reconocimiento de la enfermedad profesional, notificación y registro, así 
+como para la prestación de la asistencia sanitaria que requiera y/o la baja 
+médica si fuera necesaria para el proceso de incapacidad temporal o incapa-
+cidad permanente. A la vez, la persona trabajadora afectada será informada 
+de los trámites realizados ante la empresa. La empresa deberá cumplimentar 
+la parte que le corresponda del Sistema de Comunicación de Enfermedades 
+Profesionales en Seguridad Social (CEPROSS).
+
+40
+4.1.5. Conducta que se debe seguir en el caso de 
+diagnóstico de enfermedad profesional
+Cuando una persona trabajadora haya sido diagnosticada de enfermedad 
+profesional, se debe interrumpir la exposición laboral a radón.
+Tras la finalización del tratamiento recibido, se realizará un examen 
+de salud antes de la posible reincorporación al puesto de trabajo que venía 
+ocupando y, en función del grado de afectación, el o la médico del trabajo 
+emitirá un informe de aptitud, pudiendo utilizar para ello los criterios de 
+valoración recogidos en el apartado 4.1.3.2.
+El personal sanitario informará al empresario o a la empresaria y a las 
+personas u órganos con responsabilidades en materia de prevención sobre 
+cualquier medida que considere necesaria para eliminar o reducir el riesgo 
+del resto del personal trabajador, en función del nivel de exposición al que 
+pueda hallarse sometido y de los resultados obtenidos en la vigilancia de la 
+salud, tanto individual como c
+que se ha procedido a la reev
+planificación preventiva y a la 
+limiten la exposición a radón.
+olectiva. En cualquier caso, se debe verificar 
+aluación de riesgos, a la modificación de la 
+implantación de medidas de prevención que 
+4.1.6. Documentación
+En cumplimiento de lo establecido en el artículo 23 de la Ley 31/1995, de 
+8 de noviembre, de Prevención de Riesgos Laborales, el empresario o em-
+presaria deberá elaborar y conservar a disposición de la autoridad laboral 
+la documentación relativa al plan de prevención de riesgos laborales; a la 
+evaluación de los riesgos para la seguridad y la salud en el trabajo, incluido 
+el resultado de los controles periódicos de las condiciones de trabajo y de la 
+actividad de las personas trabajadoras; a la planificación de la actividad pre-
+ventiva; a la práctica de los controles del estado de salud de las personas tra-
+bajadoras y a la relación de accidentes de trabajo y enfermedades profesio-
+nales que hayan causado a las personas trabajadoras una incapacidad laboral 
+superior a un día de trabajo. Esta documentación se remitirá a la autoridad 
+laboral en el momento de cesación de su actividad. Esta documentación 
+
+41
+deberá también ser puesta a disposición de las autoridades sanitarias al ob-
+jeto de que estas puedan cumplir con lo dispuesto en el artículo 10 de esta 
+Ley y en la Ley 33/2011, de 4 de octubre, General de Salud Pública.
+El informe de resultados de las mediciones de radón deberá estar a 
+disposición de las personas trabajadoras y sus representantes, de la inspec-
+ción del CSN, de la Inspección de Trabajo y Seguridad Social o, en su caso, 
+de otras administraciones públicas competentes en materia laboral y de las 
+autoridades sanitarias. Además, en los casos especificados por el régimen de 
+declaración establecido por el artículo 103 del Reglamento sobre instalacio-
+nes nucleares y radiactivas, y otras actividades relacionadas con la exposi-
+ción a las radiaciones ionizantes aprobado por el Real Decreto 1217/2024, 
+de 3 de diciembre, el informe deberá presentarse ante el órgano competente 
+de la Comunidad Autónoma.
+Se debe disponer de información actualizada de las personas trabaja-
+doras expuestas a radón, anotando de forma cronológica la profesión y el 
+puesto de trabajo, los niveles de exposición y tiempos de permanencia en los 
+que ha tenido lugar dicha exposición, así como los sistemas de prevención 
+y protección que se han puesto a su disposición. Similar información debe 
+estar recogida en la historia clínico-laboral de las personas trabajadoras.
+En cumplimiento del artículo 43 del Real Decreto 1029/2022, de 20 de 
+diciembre, por el que se aprueba el Reglamento sobre protección de la salud 
+contra los riesgos derivados de la exposición a las radiaciones ionizantes, 
+el historial dosimétrico individual de las personas trabajadoras expuestas a 
+radón deberá ser archivado por el o la titular de la práctica, hasta que la per-
+sona trabajadora haya o hubiera alcanzado la edad de setenta y cinco años, 
+y nunca por un período inferior a treinta años, contados a partir de la fecha 
+de cese de la persona trabajadora en aquellas actividades que supusieran su 
+clasificación como persona trabajadora expuesta a radón.
+El o la titular de la práctica pondrá esta información a disposición del 
+CSN y, en función de sus propias competencias, a disposición de las adminis-
+traciones públicas, en los supuestos previstos en las leyes, y a disposición de 
+los juzgados y tribunales que la soliciten.
+
+42
+En el caso de que la persona trabajadora expuesta a radón cese en su 
+empleo, el o la titular de la práctica deberá proporcionarle una copia certifi-
+cada de su historial dosimétrico individual.
+4.1.7. Vigilancia de la salud post-ocupacional
+Los exámenes de salud se realizarán:
+- Por parte de la empresa cuando la persona trabajadora continúe en ella.
+- Por parte del Sistema Nacional de Salud cuando se haya producido 
+el cese (relación contractual con la empresa o jubilación). En este 
+caso, el servicio de prevención de riesgos laborales deberá propor-
+cionarle a la persona trabajadora la información acerca de la con-
+veniencia del seguimiento de su estado de salud post-ocupacional a 
+través del sistema público de salud. Para ello, incluirá:
+- Información de los riesgos para la salud derivados de la exposi-
+ción a radón que hacen recomendable esta vigilancia y los proble-
+mas de salud que eventualmente pueda llegar a sufrir la persona 
+trabajadora, incluso tiempo después de la exposición.
+- Información sobre pruebas diagnósticas o complementarias que 
+podrían serle propuestas a la persona trabajadora y sobre los be-
+neficios que se espera obtener de ellas, tanto en el plano sanitario 
+como en el social.
+- Informe escrito que incluya una descripción detallada de los 
+puestos de trabajo desempeñados por la persona trabajadora, el 
+tiempo de permanencia en los mismos, los riesgos detectados en 
+el análisis de las condiciones de trabajo, copia certificada de su 
+historial dosimétrico individual y las medidas de prevención in-
+dividuales adoptadas, así como la información sanitaria relevante 
+obtenida en los exámenes de salud realizados.
+- Referencia de a dónde puede dirigirse la persona trabajadora 
+para solicitar la vigilancia post-ocupacional.
+La periodicidad y contenido adicional de los sucesivos exámenes de 
+salud post-ocupacionales se determinará por el médico responsable del exa-
+men de salud en función de los hallazgos del examen de salud anterior.
+
+43
+4.2. Vigilancia colectiva de la salud
+La vigilancia colectiva o epidemiológica tiene como finalidad analizar las 
+relaciones existentes entre el estado de salud del conjunto de personas que 
+trabajan en un ámbito o entorno determinado y sus condiciones de trabajo. 
+El análisis de la vigilancia colectiva de la salud puede centrarse en conocer 
+el estado de salud del conjunto de trabajadores y trabajadoras, pero también 
+pueden ser objeto de la vigilancia colectiva las condiciones de trabajo de la 
+población trabajadora.
+Tiene como objetivo la intervención en la empresa, no la mera obser-
+vación, y para ello aportará información que servirá para confirmar, com-
+plementar o ayudar a corregir las actividades preventivas, y para la toma de 
+decisiones sobre medidas de control y prevención de situaciones de riesgo, 
+y se integrará en la gestión de la prevención de riesgos laborales. El nivel de 
+análisis puede ser una única empresa o puede ser una agrupación de diferen-
+tes empresas con riesgos similares.
+La utilización de indicadores facilitará el análisis e interpretación de la 
+evolución epidemiológica de los colectivos laborales vigilados, comparación 
+entre grupos con diferente exposición, comparación entre diferentes perio-
+dos, comprobación de la efectividad de las diferentes medidas preventivas 
+aplicadas, etc.
+Con independencia del nivel de análisis que se realice, siempre se de-
+berá prestar especial atención hacia aquellos colectivos más vulnerables y 
+tener en cuenta la perspectiva de género, de forma que se puedan poner de 
+manifiesto patrones diferenciales entre hombres y mujeres.
+Los principales objetivos de la vigilancia colectiva de la salud son:
+- Conocer la frecuencia y la distribución de los efectos para la salud 
+de la exposición a radón en una población determinada.
+- Mejorar el conocimiento de la frecuencia y la distribución de las 
+condiciones de la exposición a radón en una población determinada.
+- Conocer la evolución epidemiológica que siguen en el tiempo los 
+efectos para la salud y las condiciones de la exposición a radón.
+
+44
+- Detectar situaciones de agregados inesperados de casos de determi-
+nados daños para la salud.
+- Aportar información para proponer actividades preventivas colec-
+tivas que reduzcan o minimicen los riesgos y eviten la aparición de 
+daños en la salud.
+- Evaluar la efectividad de las medidas preventivas colectivas e indivi-
+duales puestas en marcha en dicha población.
+Los datos mínimos comunes para la vigilancia colectiva de la salud en 
+empresas con exposición a radón deben incluir los principales indicadores 
+que se puedan extraer de la vigilancia de la salud individual, con especial 
+atención a los referidos a los resultados relacionados con los cuestionarios y 
+demás pruebas diagnósticas o complementarias específicas para la detección 
+del posible daño por exposición al radón de esa empresa. Además, deben 
+incluir los indicadores obtenidos de las fuentes de información comunes 
+sobre el estado de salud del personal trabajador, como los de los accidentes 
+de trabajo, enfermedades profesionales y las incapacidades temporales (IT) 
+por enfermedad común.
+Entre otros, para la vigilancia colectiva podrían utilizarse los siguientes 
+indicadores referidos a un periodo determinado (por ejemplo, anual):
+- Número de personas trabajadoras expuestas a radón/número total 
+de personas trabajadoras.
+- Número de casos de cáncer de pulmón incidentes identificados en 
+personas trabajadoras expuestas a radón/número total de personas 
+trabajadoras expuestas a radón.
+- Número de personas trabajadoras expuestas a radón fumadoras/nú-
+mero total de personas trabajadoras expuestas a radón.
+- Número de personas trabajadoras expuestas a radón exfumadoras/
+número total de personas trabajadoras expuestas a radón.
+El análisis de los datos de los posibles daños detectados en la vigilancia 
+de la salud individual relacionados con la exposición al radón también debe 
+hacerse para toda la población (trabajadoras y trabajadores), desagregado 
+por sexo y otras características demográficas, por tipo de contrato, dedica-
+ción horaria y otras condiciones laborales que puedan influir en el riesgo de 
+
+45
+cáncer de pulmón, y teniendo en cuenta a los colectivos más vulnerables, 
+como personas con discapacidad o inmigrantes.
+Para la vigilancia colectiva de la salud de personas que trabajan con 
+riesgo de exposición a radón en una empresa, es especialmente importante 
+tener en cuenta que solo se deben incluir los resultados de los exámenes de 
+salud periódicos, los de retorno al trabajo y los realizados por cambio de 
+puesto de trabajo.
+
+
+47
+Referencias
+1. Martín-Gisbert L, Ruano-Ravina A, García-Talavera San Miguel M, 
+Varela-Lema L, Sierra Díaz F, Martínez González C, et al. Revisión de 
+evidencia y buenas prácticas sobre vigilancia sanitaria específica en per-
+sonas expuestas a radón ocupacional. Ministerio de Sanidad. Disponible 
+en: https://cpage.mpr.gob.es/publicacion/revision-de-evidencia-y-buenas- 
+practicas-sobre-vigilancia-sanitaria-especifica-en-personas-expues-
+tas-a-radon-ocupacional-2024-133241103-0000/
+2. Ruano-Ravina A, Kelsey KT, Fernández-Villar A, Barros-Dios JM. Ac-
+tion levels for indoor radon: different risks for the same lung carcinogen? 
+Eur Respir J. 2017;50(5):1701609. doi:10.1183/13993003.01609-2017.
+3. Boletín Oficial del Estado. Real Decreto 783/2001, de 6 de julio, por el 
+que se aprueba el Reglamento sobre protección sanitaria contra radia-
+ciones ionizantes. BOE nº 178, de 26/07/2001.
+4. Boletín Oficial del Estado. Instrucción IS-33, de 21 de diciembre de 2011, 
+del Consejo de Seguridad Nuclear, sobre criterios radiológicos para la 
+protección frente a la exposición a la radiación natural. BOE nº22 de 26 
+de enero de 2012. 
+5. Diario Oficial de la Unión Europea. Directiva 2013/59/Euratom del 
+Consejo, de 5 de diciembre de 2013, por la que se establecen normas de 
+seguridad básicas para la protección contra los peligros derivados de la 
+exposición a radiaciones ionizantes. L 013 de 17/01/2014.
+6. Boletín Oficial del Estado. Real Decreto 1029/2022, de 20 de diciembre, 
+por el que se aprueba el Reglamento sobre protección de la salud contra 
+los riesgos derivados de la exposición a las radiaciones ionizantes. BOE 
+nº 305 de 21/12/2022.
+7. Unión Europea. Radiation Protection N° 193 Radon in Workplaces Im-
+plementing the Requirements in Council Directive 2013/59/Euratom. 
+
+48
+Publications Office of the European Union. Luxembourg, 2020. 
+doi:10.2833/552398.
+8. Boletín Oficial del Estado. Real Decreto 1217/2024, de 3 de diciembre, 
+por el que se aprueba el Reglamento sobre instalaciones nucleares y ra-
+diactivas, y otras actividades relacionadas con la exposición a las radia-
+ciones ionizantes. BOE nº 292, de 4/12/2024.
+9. Ministerio de Sanidad. Plan Nacional contra el Radón Disponible en: 
+https://www.sanidad.gob.es/areas/sanidadAmbiental/riesgosAmbientales/
+radon/publicaciones/docs/Plan_Nacional_contra_el_Radon.pdf
+10. Comisión Internacional de Protección Radiológica. Radiológica (ICPR). 
+Publicación 103 ICRP. Las Recomendaciones 2007. Traducción SEPR. 
+(2008). Disponible en: https://www.icrp.org/docs/p103_spanish.pdf
+11. Consejo de Seguridad Nuclear. Instrucción IS-47, de 9 de abril de 2025, 
+por la que se aprueba el listado de términos municipales de actuación 
+prioritaria contra el radón y se establecen directrices para las mediciones 
+de radón en el aire interior de los centros de trabajo ubicados en ellos. 
+Disponible en: https://www.csn.es/documents/10182/2671102/MAIN%20
+IS-47%20FINAL.pdf/d4b3963f-bb76-fd31-bfde-cb3c18162d4b
+12. World Health Organization. WHO Handbook on Indoor Radon: A Pub-
+lic Health Perspective. WHO Press, Geneva, 2009.
+13. Ruano-Ravina A, Martin-Gisbert L, Kelsey K, Pérez-Ríos M, Candal-Pe-
+dreira C, Rey-Brandariz J, et al. An overview on the relationship between 
+residential radon and lung cancer: what we know and future research. 
+Clin. Transl. Oncol. 25, 3357-3368 (2023).
+14. Consejo de Seguridad Nuclear. Preguntas frecuentes sobre el radón en lu-
+gares de trabajo. Disponible en: https://www.csn.es/preguntas-frecuentes- 
+sobre-el-radon-en-lugares-de-trabajo
+
+49
+15. International Atomic Energy Agency. Radiation protection and safety 
+of radiation sources: international basic safety standards. General Safety 
+Requirements Part 3. Viena, 2014.
+16. National Cancer Institute. Surveillance, Epidemiology, and End Results 
+Program (SEER). Lung and Bronchus Cancer-Cancer Stat Facts Dis-
+ponible en: https://seer.cancer.gov/statfacts/html/lungb.html
+17. Darby S, Hill D, Auvinen A, Barros-Dios JM, Baysson H, Bochicchio F, et 
+al. Residential radon and lung cancer-detailed results of a collaborative 
+analysis of individual data on 7,148 persons with lung cancer and 14,208 
+persons without lung cancer from 13 epidemiologic studies in Europe. 
+Scand. J. Work Environ. Health 32 Suppl 1, 1-84 (2006).
+18. Martin-Gisbert L, Ruano-Ravina A, Varela-Lema L, Penabad M, Giral-
+do-Osorio A, Candal-Pedreira C, et al. Lung cancer mortality attributable 
+to residential radon: a systematic scoping review. J. Expo. Sci. Environ. 
+Epidemiol. 33, 368-376 (2022).
+19. Bonney A, Malouf R, Marchal C, Manners D, Fong KM, Marshall HM, et 
+al. Impact of low-dose computed tomography (LDCT) screening on lung 
+cancer-related mortality. Cochrane Database Syst. Rev. 8, (2022).
+20. Institute for General Practice and Evidence-based Health Services Re-
+search, M. U. of G. (IAMEV). Lung Cancer Screening in Risk Groups. 
+European Network for Health Technology Assessment, 2020. Disponible 
+en: https://eprints.aihta.at/1283/1/HTA-Projektbericht_Nr.132b.pdf
+21. García Pérez, L. et al. Evaluación del Programa de cribado de cán-
+cer de pulmón. 2023. Disponible en: https://sescs.es/wp-content/
+uploads/2015/09/66_SESCS_-AvaliaT_Cribado_Cancer_Pulmon_
+NIPO_cuerpo.pdf?x68814
+22. Ministerio de Sanidad. Programas de cribado. Disponible en: https://
+www.sanidad.gob.es/areas/promocionPrevencion/cribado/home.htm
+
+50
+23. Boletín Oficial del Estado. Real Decreto 732/2019, de 20 de diciembre, 
+por el que se modifica el Código Técnico de la Edificación. BOE nº. 311, 
+de 27/12/2019. 
+24. Grupo Español de Cáncer de Pulmón. Cáncer de pulmón: signos de alerta. 
+Disponible en: https://www.gecp.org/cancer-de-pulmon-signos-de-alerta/
+25. Consejo de Seguridad Nuclear. Preguntas frecuentes sobre el radón en 
+viviendas Disponible en: https://www.csn.es/preguntas-frecuentes-sobre- 
+el-radon-en-viviendas
+26. Código Europeo contra el Cáncer. 5.ª edición: catorce formas de prevenir 
+el cáncer: International Agency for Research on Cancer. Disponible en: 
+https://cancer-code-europe.iarc.who.int/es/inicio/
+27. Boletín Oficial del Estado. Real Decreto 1299/2006, de 10 de noviembre, 
+por el que se aprueba el Cuadro de Enfermedades Profesionales en el 
+Sistema de la Seguridad Social y se establecen criterios para su notifica-
+ción y registro. BOE nº 302, de 19/12/2006.
+
+51
+Anexo I
+Agentes cancerígenos (cáncer de pulmón) con 
+evidencia suficiente en humanos
+• Exposición laboral asociada a proceso Acheson
+• Acrilonitrilo
+• Producción de aluminio
+• Arsénico y compuestos inorgánicos de arsénico
+• Berilio y sus compuestos
+• Bis(clorometil)éter, chlorometil metil éter (grado técnico)
+• Cadmio y sus compuestos
+• Compuestos de cromo (VI)
+• Carbón, emisiones en interiores procedentes de la combustión do-
+méstica
+• Gasificación del carbón
+• Brea de alquitrán de hulla
+• Producción de Coke
+• Emisiones de motores diésel
+• Minería subterránea de hematita
+• Exposición laboral durante la fundición de hierro y acero
+• Quimioterapia de combinación MOPP y otras, incluyendo agentes 
+alquilantes
+• Compuestos de níquel
+• Consumo de opio
+• Contaminación del aire exterior
+• Materia particulada de la contaminación del aire exterior
+• Exposición laboral como pintor o pintora
+• Plutonio
+• Radón-222 y sus productos de descomposición
+• Industria de fabricación de caucho
+• Polvo de sílice, cristalina, en forma de cuarzo o de cristobalita
+• Hollín (como el que se encuentra en la exposición ocupacional de 
+los deshollinadores)
+
+52
+• Mostaza de azufre
+• Humo de tabaco, pasivo
+• Fumar tabaco
+• Humos de soldadura
+• Radiación X y Gamma
+Agentes cancerígenos (cáncer de pulmón) con 
+evidencia limitada en humanos
+• Nieblas ácidas, fuertes inorgánicas
+• Fabricación de vidrio artístico, envases de vidrio y artículos prensados
+• Benceno
+• Emisiones en interiores procedentes de la combustión doméstica de 
+biomasa (principalmente madera)
+• Exposición laboral a asfaltos duros y sus emisiones durante trabajos 
+de asfalto con masilla
+• Exposición laboral a asfaltos oxidados y sus emisiones durante la 
+instalación de tejados
+• Manufactura de electrodos de carbón
+• Exposiciones combinadas a toluenos alfa-clorados (cloruro de ben-
+zal, benzotricloruro, cloruro de bencilo) y cloruro de benzoilo
+• Cobalto metálico con carburo de tungsteno
+• Creosotas
+• Diazinón
+• Emisiones por altas temperaturas al freír
+• Hidracina
+• Exposiciones laborales en la pulverización y aplicación de insectici-
+das no arsenicales
+• Exposiciones laborales en procesos de impresión
+• Carburo de silicio fibroso
+• 2,3,7,8-Tetraclorodibenzo-paradioxina
+• Antimonio trivalente
+• Mezcla de isótopos de uranio
+
+53
+Anexo II
+MODELO DE INFORMACIÓN PARA LA PERSONA TRABAJADORA
+Debido a que Ud. ha estado o ha podido estar expuesto/a a radón en 
+su trabajo, se le está aplicando el PROTOCOLO DE VIGILANCIA 
+DE LA SALUD de las personas trabajadoras expuestas a este agente.
+La exposición a gas radón aumenta el riesgo de cáncer de pulmón, 
+tanto la exposición en el trabajo (laboral) como la exposición en el 
+hogar (residencial).
+Ha de tener en cuenta que el riesgo de cáncer de pulmón se asocia 
+directamente con el consumo de tabaco y que este es el principal factor 
+de riesgo de este tipo de cáncer. En cualquier caso, el riesgo aumenta 
+cuando ambas exposiciones, tabaco y radón, se han producido en la 
+misma persona, incluso cuando ambas no hayan sido simultáneas. De 
+hecho, esta interacción implica que la mayoría de los casos de cáncer 
+de pulmón atribuidos a la exposición a radón en el hogar, ocurran en 
+personas fumadoras y exfumadoras. Por esta razón, es indispensable 
+evitar el consumo de tabaco entre las personas expuestas a radón.
+Si necesita ayuda para dejar de fumar, pídala. Hay diferentes re-
+cursos a su disposición, bien ofertados a través del servicio público de 
+salud o por su servicio de prevención de riesgos laborales. Utilícelos. Si 
+no fuma, enhorabuena. Siga así.
+Además, le informamos de que en la web del Consejo de Seguri-
+dad Nuclear puede encontrar información sobre la exposición a radón 
+en viviendas https://www.csn.es/radon. En concreto, podrá saber cómo 
+consultar si vive en una zona con más riesgo de niveles elevados de 
+radón, y como medir y reducir los niveles de radón en su hogar si fuera 
+necesario*, para así reducir su riesgo de cáncer de pulmón.
+
+54
+https://www.csn.es/radon
+La exposición radón deriva en un riesgo incrementado de cáncer 
+de pulmón que no es inmediato, sino que se manifiesta con el paso de 
+los años. Por ello, es muy importante que se le realice un seguimiento 
+periódico de su salud, tanto si aún continúa expuesto/a a radón, como 
+si ya no lo estuviera, incluso después de su jubilación. En el cáncer de 
+pulmón, como en otros cánceres, es fundamental su diagnóstico precoz 
+para que el tratamiento sea rápido y eficaz y, por lo tanto, su pronós-
+tico sea más favorable. En este seguimiento se le realizarán preguntas 
+relacionadas con síntomas y signos de esta enfermedad y se le ofertará 
+consejo para abandonar el consumo de tabaco si Ud. fuma.
+De todos modos, si en cualquier momento presenta alguno de los 
+síntomas o signos sobre los que se le pregunta en el examen médico, es 
+conveniente que se ponga en contacto con su servicio de salud laboral, 
+en el caso de que siga empleado, o con su médico o médica de atención 
+primaria, si ya no está laboralmente en activo, para que los valoren y, si es 
+necesario, le deriven al especialista para un estudio más pormenorizado.
+Los síntomas o signos que debe vigilar son los siguientes:
+• Tos persistente
+• Dolor constante en el pecho, al respirar o toser
+• Esputos con sangre o color metal oxidado
+• Pitidos o ruidos al respirar
+• Ronquera y cambios en la voz
+• Fatiga, pérdida de apetito o pérdida de peso
+• Dolor de huesos
+* El Código Europeo Contra el Cáncer que publica la Organización Mundial de 
+la Salud y que consiste en 14 medidas recomendadas a toda la población para reducir su 
+riesgo de cáncer, recomienda informarse sobre los niveles de gas radón en su zona y buscar 
+ayuda profesional para medir los niveles de radón en su hogar y, si es necesario, reducirlos.
+
+
+La protección de las personas trabajadoras en el ámbito laboral está regu-
+lada en España por diversas leyes y normativas, empezando por la propia 
+Constitución, que indica en su artículo 40.2 que “los poderes públicos 
+fomentarán una política que garantice la formación y readaptación profe-
+sionales; velarán por la seguridad e higiene en el trabajo y garantizarán el 
+descanso necesario, mediante la limitación de la jornada laboral, las vaca-
+ciones periódicas retribuidas y la promoción de centros adecuados”. En ello, 
+subyace el derecho a la salud de las personas trabajadoras.
+En el caso concreto de la exposición a radón, tanto a nivel internacional 
+como en España los niveles de referencia de la exposición en el ámbito 
+residencial y laboral se han ido reduciendo progresivamente a medida que 
+ha ido surgiendo nueva evidencia científica. En 2014 se aprueba la Directi-
+va Europea de Normas Básicas para la Protección frente a las Radiaciones 
+Ionizantes (Directiva 2013/59/Euratom), por la que los Estados miembros 
+deben establecer niveles de referencia para la concentración de radón en lu-
+gares de trabajo (y en viviendas) que no superen los 300 Bq/m3, originando 
+cambios reglamentarios en el ordenamiento jurídico español. Esta directiva 
+establece, además, que debe haber una vigilancia sanitaria para garantizar 
+que la salud de las personas trabajadoras sea adecuada a las tareas que 
+deban desempeñar.
+Para esta vigilancia se diseña el presente Protocolo de Vigilancia Sanitaria 
+Específica de Personas Trabajadoras Expuestas a Radón. Su objeto es dis-
+poner de una estrategia de abordaje común que garantice la equidad en la 
+actuación ante este tipo de situaciones. Consideramos que este protocolo re-
+sulta útil tanto por las acciones que propone como por aquellas que omite. 
+En este sentido, es parte de sus objetivos armonizar las actuaciones dirigi-
+das a las personas trabajadoras expuestas a radón, evitando intervenciones 
+innecesarias o ineficaces desde una perspectiva basada en la evidencia.
+www.sanidad.gob.es

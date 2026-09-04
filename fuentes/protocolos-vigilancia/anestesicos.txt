@@ -1,0 +1,1136 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+AGENTES ANESTÉSICOS
+INHALATORIOS
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18, 28014 Madrid
+ISBN: 84-7670-615-4
+NIPO: 351-01-061-7
+Depósito Legal: AV-185-2001
+Imprime: MIJÁN, Industrias Gráficas Abulenses, S.L.
+
+CONSEJO 
+INTERTERRITORIAL
+SISTEMA NACIONAL DE SALUD
+El Consejo Interterritorial del Sistema Nacional de Salud
+informa favorablemente el «Protocolo de vigilancia sanita-
+ria específica para los/as trabajadores/as expuestos a
+agentes anestésicos inhalatorios», en diciembre de 2001.
+
+
+5
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE
+SALUD PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA
+NACIONAL DE SALUD
+COORDINACIÓN DEL PROTOCOLO
+DIRECCIÓN XERAL DE SAÚDE PÚBLICA. XUNTA DE GALICIA.
+AUTORES
+Mª Isabel González García. Subdirección Xeral de Programas de Saúde
+Pública.
+Andrés Aragón Peña. Subdirección Xeral de Programas de Saúde Pública.
+Julian Alvarez Escudero. Universitario de Santiago de Compostela.
+Joaquín Cortés Laiño. Hospitalario Universitario de Santiago de Compostela.
+José Gándara Rey. Facultad de Odontología, Santiago de Compostela.
+Luis Novo Fernández. Colegio oficial de Veterinarios de A Coruña.
+Jesús Nuñez-Turrón. Colegio oficial de Veterinarios de Pontevedra.
+José Luis Pereira Espinel. Facultade de Veterinaria de Lugo.
+José Rega Piñeiro. Centro de Seguridade e Hixiene da Coruña.
+Berta Uriel Latorre. Complexo Hospitalario Cristal Piñor de Ourense.
+GRUPO DE TRABAJO DE SALUD LABORAL
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Ministerio de Sanidad y Consumo. Madrid.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Esther Busquets Bou. Consejería de Sanidad y Seguridad Social. Cataluña.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa María Campos Acedo. Consejería de Sanidad y Consumo. Extremadura.
+Rosario Castañeda López. Consejería de Sanidad. Madrid.
+Rafael Castell Salvá. Consejería de Sanidad y Consumo. Baleares.
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud La-
+borales. País Vasco.
+Mercedes Elvira Espinosa. Consejería de Sanidad y Bienestar Social. Cas-
+tilla y León.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+Valentín Esteban Buedo. Consejería de Sanidad. Valencia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+
+6
+Fernando Galvañ Olivares. Consejería de Sanidad y Política Social. Murcia.
+Isabel González García. Consejería de Sanidad y Servicios Sociales. Galicia.
+Asunción Guzmán Fernández. Consejería de Salud y Servicios Sanitarios.
+Asturias.
+Mª Angeles Lópaz Pérez. Consejería de Sanidad. Madrid.
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Consumo y Bienestar
+Social. Aragón.
+Margarita Medina Vinuesa. Consejeria de Sanidad, Consumo y Deportes.
+Ceuta.
+Lourdes Miralle Martínez-Portillo. Consejería de Salud y Servicios Sociales.
+La Rioja.
+Alberto Montilla Sánchez de Navas. Consejería de Sanidad. Castilla-La
+Mancha.
+Pilar Sánchez Fabo. Instituto Vasco de Seguridad y Salud Laborales. País
+Vasco.
+
+7
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanitaria»,
+editados por el Ministerio de Sanidad y Consumo y fruto del trabajo de-
+sarrollado por las Administraciones Sanitarias a través del Grupo de Traba-
+jo de Salud Laboral de la Comisión de Salud Pública del Consejo Interterri-
+torial del Sistema Nacional de Salud, como contribución a las actividades de
+prevención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos laborales
+(Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone, entre
+otras cuestiones, que debe cambiar radicalmente la práctica de los recono-
+cimientos médicos que se realizan a las y los trabajadores. De ser exáme-
+nes médicos inespecíficos, cercanos a los clásicos chequeos o cribados de
+carácter preventivo general, deben pasar a ser periódicos, específicos fren-
+te a los riesgos derivados del trabajo, con el consentimiento informado del
+trabajador, y no deben ser utilizados con fines discriminatorios ni en perjui-
+cio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigilan-
+cia periódica de su salud, incluso prolongándola más allá de la finalización
+de la relación laboral en algunos supuestos, la ley encomienda a las admi-
+nistraciones sanitarias la tarea de dar homogeneidad y coherencia a los
+objetivos y contenidos de la vigilancia de la salud, mediante la elaboración
+de protocolos y guías de actuación, con la mirada puesta en implantar un
+modelo de vigilancia de la salud en el trabajo que sea eficaz para la pre-
+vención.
+El poder contar con criterios uniformes basados en la evidencia científi-
+ca y la experiencia profesional de los participantes en los grupos de trabajo
+constituidos para su elaboración, permitirá alcanzar los objetivos de pre-
+vención de la enfermedad y promoción de la salud de las y los trabajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar la
+salud de los trabajadores para detectar precozmente e individualizar los fac-
+tores de riesgo y deterioro que puedan afectar a la salud de los mismos», la
+recogida armonizada y periódica de datos sobre riesgos y enfermedades y
+
+8
+su posterior análisis e interpretación sistemáticos con criterios epidemioló-
+gicos, constituye uno de los instrumentos con que cuenta la salud pública
+para poder identificar, cuantificar y priorizar, y por lo tanto, diseñar políticas
+de prevención eficaces.
+Para la elaboración de los protocolos, se constituyeron varios grupos de
+trabajo, que, coordinados por los representantes de las Comunidades Autó-
+nomas, permitiese la elaboración en paralelo de varios de ellos. Finalmen-
+te, una vez concluido el procedimiento interno de elaboración de los mis-
+mos, han sido sometidos a consulta y adecuadamente informados por
+Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Sociedades
+Científicas (SEMST, SEEMT, AEETSL, SEN, SESPAS y SEE), con cuyos
+representantes se mantuvieron reuniones al efecto, en el Ministerio de Sani-
+dad y Consumo, habiéndose incorporado a la redacción final los comenta-
+rios recibidos que se consideró mejoraban el texto presentado.
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los sani-
+tarios, una guía de actuación para la vigilancia sanitaria específica de las y
+los trabajadores expuestos a agentes anestésicos inhalatorios, que será
+revisado periódicamente, en la medida que así lo aconseje la evolución de
+la evidencia científica disponible y su aplicación concreta en los centros de
+trabajo de nuestro país.
+María Dolores Flores Cerdán
+Directora General de Salud Pública y Consumo
+
+9
+SUMARIO
+Pág.
+INTRODUCCIÓN...................................................................................
+11
+1.
+CRITERIOS DE APLICACIÓN........................................................
+13
+2.
+DESCRIPCIÓN DEL PROBLEMA ..................................................
+13
+2.1.
+DEFINICIONES Y CONCEPTOS .........................................
+13
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS.................................
+15
+2.3.
+MECANISMOS DE ACCIÓN ................................................
+17
+2.4.
+EFECTOS SOBRE LA SALUD.............................................
+19
+3.
+EVALUACIÓN DEL RIESGO ..........................................................
+24
+4.
+PROTOCOLO SANITARIO ESPECÍFICO ......................................
+25
+4.1.
+HISTORIA LABORAL ...........................................................
+25
+4.2.
+HISTORIA CLÍNICA..............................................................
+26
+4.3.
+CONTROL BIOLÓGICO Y ESTUDIOS 
+COMPLEMENTARIO ESPECÍFICOS...................................
+26
+4.4.
+CRITERIOS DE VALORACIÓN............................................
+29
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO 
+SANITARIO ....................................................................................
+29
+5.1.
+PERIODICIDAD ....................................................................
+29
+5.2.
+TIEMPO DE CUSTODIA DEL HISTORIA TRAS LA 
+FINALIZACIÓN DE LA EXPOSICIÓN LABORAL A AAI ......
+30
+6.
+CONDUCTA A SEGUIR ANTE LAS ALTERACIONES QUE SE
+DETECTEN.....................................................................................
+30
+7.
+LEGISLACIÓN APLICABLE............................................................
+31
+8.
+BIBLIOGRAFÍA ...............................................................................
+31
+ANEXO:
+1.
+HOJA DE RECOGIDA DE DATOS PARA LOS TRABAJADORES
+EXPUESTOS A AGENTES ANESTESICOS INHALATORIOS ......
+35
+
+10
+
+11
+INTRODUCCIÓN
+Los Agentes anestésicos inhalatorios (AAI) son sustancias volátiles
+empleadas en algunos procedimientos quirúrgicos tanto sobre humanos
+como sobre animales para aumentar el umbral de sensibilidad al dolor y eli-
+minar el estado de vigilia.
+Los primeros estudios acerca de los efectos nocivos de los AAI en los tra-
+bajadores son debidos a Hewit en 1893. Kirschner (1925) y en 1929 Hirsch
+y Kappurs determinaron las alteraciones que se producian con los gases
+anestésicos tanto agudas como crónicas. Werthmann en 1948, definió la
+intoxicación crónica con las alteraciones hematológicas que produce. Per-
+thes y Wieloch en 1925, Zaaijetr en 1927, y Holscher en 1928 diseñaron
+mecanismos para disminuir la contaminación por AAI en los quirófanos.
+Todos estos trabajos no se sistematizaron hasta 1967 con el estudio epi-
+demiológico de Vaissman sobre 303 anestesistas soviéticos, asociando al
+uso de AAI con cefaleas, irritabilidad, alteraciones del sueño, disminución
+del apetito y de la resistencia al alcohol. Observó también una alta inciden-
+cia de abortos espontáneos entre las mujeres anestesistas.
+Pese a todos estos estudios hasta la fecha no se han obtenido pruebas
+concluyentes de que la exposición profesional a los AAI en uso produzca
+alteraciones de la salud. No obstante, son hechos ciertos que existen efec-
+tos negativos sobre la salud que pueden producirse a dosis habitualmente
+usadas en los tratamientos anestésicos, que se miden concentraciones ele-
+vadas de gases anestésicos en el ambiente de trabajo y que se pueden
+determinar concentraciones de éstos o de sus metabolitos en el aire exha-
+lado o en fluidos biológicos. Por esta razón se deben tomar medidas dirigi-
+das a la vigilancia y protección de la salud de los trabajadores expuestos,
+que reduzcan o anulen el riesgo derivado de la inhalación de agentes anes-
+tésicos1.
+
+12
+
+13
+AGENTES ANESTÉSICOS 
+INHALATORIOS
+1. CRITERIOS DE APLICACIÓN
+El ámbito de aplicación abarca a todos los usos o aplicaciones en activi-
+dades laborales que pueden dar lugar a la existencia de trabajadores
+expuestos a agentes anestésicos inhalatorios.
+2. DESCRIPCIÓN DEL PROBLEMA
+2.1. Definiciones y conceptos.
+2. 1. 1 Agentes anestésicos inhalatorios.
+Aunque en la actualidad se utiliza un número restringido de AAI, se con-
+sideran como tales todos los que se presentan en el siguiente cuadro, modi-
+ficado de Ginesta y Gestal2.
+
+14
+Los AAI más empleados en la actualidad son: óxido nitroso, halotano,
+enflurano, isoflurano, sevoflurano y desflurano. El hecho de que se usen
+cada vez con mayor frecuencia los agentes intravenosos permite que las
+concentraciones utilizadas sean progresivamente más bajas.
+2.1.2. Trabajador expuesto.
+Se considera trabajador expuesto a efectos de la aplicación del pre-
+sente protocolo a aquellos trabajadores que desempeñen su trabajo en
+lugares donde estén presentes AAI.
+La exposición profesional a AAI depende cuantitativamente de la utiliza-
+ción de sistemas adecuados de extracción de gases junto con sistemas de
+ventilación que produzcan un número suficiente de renovaciones, que se
+cifra en un mínimo de 10 intercambios de aire por hora en la sala de opera-
+ciones3, 4, 5. Por este motivo, debe considerarse como personal expuesto
+a AAI al personal que realiza su trabajo en dependencias cercanas a aque-
+llas en las que se utilizan dichas sustancias, siempre que no haya sistemas
+adecuados de extracción de gases o ventilación.
+2.1.3. Control biológico.
+El control biológico constituye un medio de estimar la exposición de los
+trabajadores a contaminantes químicos.
+La vigilancia biológica proporciona una evaluación de la exposición glo-
+bal a las sustancias químicas presentes en el puesto de trabajo, y se lleva
+a cabo mediante la medición del/de los determinantes adecuado/s en las
+muestras biológicas tomadas de los trabajadores en el momento indicado.
+Anestésicos líquidos volátiles
+Gases anestésicos
+ÉTERES
+HIDROCARBUROS
+INORGÁNICOS
+ORGÁNICOS
+HALOGENADOS
+ALICÍCLICOS
+ÉTERES
+ÉTERES
+SIMPLES
+FLUORADOS
+–Protóxido
+–Ciclopropano
+SIMPLES
+FLUORADOS
+de nitrógeno
+–Trimetileno
+–Éter
+–Metoxiflurano
+–Cloroformo
+–Halotano
+–Éter dietílico
+(Pentrane)
+–Cloruro 
+(Fluothane)
+–Éter etílico
+–Isoflurano 
+de etilo 
+–Óxido 
+(Forane)
+(cloroetano)
+de etilo
+–Desflurano
+–Tricloro
+–Sevo flurano
+etileno 
+–Enfluorano
+(Trilene)
+(Ethrane)
+
+15
+El determinante medido puede ser la misma sustancia química, su o sus
+metabolito/s, o una modificación bioquímica característica de la acción de la
+sustancia sobre el organismo.
+La muestra tomada puede ser aire espirado, orina, sangre u otros medios
+biológicos extraídos de los trabajadores expuestos.
+Dependiendo de la sustancia química de la que se trate, del determinan-
+te obtenido, el medio biológico elegido y el momento de su extracción, esta
+medida puede reflejar bien la intensidad de una exposición reciente, bien
+una exposición media cotidiana o una exposición crónica acumulativa.
+2.1.4. Valores límite ambientales (VLA) 6.
+Son valores límite de referencia para las concentraciones de los agentes
+químicos en la zona de respiración de un trabajador. Se distinguen dos tipos
+de valoras límite ambientales:
+Valor límite ambiental para exposición diaria (VLA-ED), es el valor
+límite de la concentración media, medida o calculada de forma ponderada
+con respecto al tiempo, para la jornada laboral real y referida a una jornada
+estándar de 8 horas diarias.
+Valor límite ambiental para exposición de corta duración (VLA-EC),
+es el valor límite de la concentración media, medida o calculada para cual-
+quier período de 15 minutos a lo largo de la jornada laboral, excepto para
+aquellos agentes químicos para los que se especifíque un período de refe-
+rencia inferior.
+2.2. Fuentes de exposición y usos.
+Las pautas de vigilancia médica que se indican en este Protocolo son de
+aplicación a las personas en las que se dan las siguientes condiciones de
+exposición:
+2.2.1. Exposición con motivo del trabajo profesional.
+Debido a que en la práctica no es posible fijar un nivel o dosis de expo-
+sición, se considerarán que están expuestos los grupos o categorías pro-
+fesionales contenidos na seguinte lista que ha sido realizada con un
+esfuerzo de síntesis importante para concretar aquellas profesiones que
+pueden estar expuestos, si bien, se trata de una lista orientativa y no
+cerrada.
+
+16
+– Médicos anestesistas
+– Médicos que realicen intervenciones quirúrgicas
+– Enfermeras y auxiliares de enfermería de quirófano
+– Personal sanitario que trabaja en salas de reanimación
+– Personal sanitario de salas de exploración donde se trabaja con anes-
+tesia general (endoscopias, determinadas exploraciones radiológicas)
+– Personal sanitario que trabaja en salas de partos donde se utiliza anes-
+tesia general
+– Cirujanos veterinarios
+– Auxiliares de quirófano veterinario
+– Odontólogos y estomatólogos
+– Personal sanitario auxiliar de cirugía odontológica
+– Personal que trabaja en laboratorios de investigación que utilizan ani-
+males vivos
+– Personal sanitario y no sanitario que trabaja en centros quirúrgicos de
+cualquier tipo o en laboratorios de investigación que utilizan animales
+vivos y en las dependencias cercanas a las salas anteriormente des-
+critas en los que se usan anestésicos inhalatorios y no se aplican sis-
+temas de extracción de gases o de ventilación adecuados
+– Fabricantes y/o manipuladores industriales de anestésicos inhalatorios
+– Trabajadores de otros usos como: el uso del óxido nitroso en la indus-
+tria alimentaria, como espumante de la nata7, y como oxidante para
+compuestos orgánicos, como nitratante para los metales alcalinos e
+incluso como componente de algunos combustibles de cohetes.
+2.2.2. Puede ser útil la consideración de los lugares de trabajo en
+los que es probable la exposición a AAI.
+– Quirófanos, incluyendo veterinarios y dentales
+– Salas de reanimación
+– Salas de partos
+– Salas de exploraciones en las que se aplica anestesia general
+– Laboratorios de investigación con animales vivos
+– Dependencias próximas a quirófanos o laboratorios de investigación
+con animales vivos en los que se usan anestésicos inhalatorios y no se
+aplican sistemas de extracción de gases
+– Instalaciones industriales en las que se fabrican y/o manipulan anesté-
+sicos inhalatorios.
+
+17
+2.3. Mecanismos de acción.
+2.3.1. Vias de penetración.
+La vía inhalatoria es la única relevante como modo de entrada al orga-
+nismo, aunque existen otras como la digestiva, piel y mucosas.
+2.3.2. Distribución/Eliminación.
+Como ya queda dicho, los AAI más empleados en la actualidad son:
+• Óxido nitroso,
+• Halotano,
+• Enflurano,
+• Isoflurano,
+• Sevoflurano y
+• Desflurano.
+De los agentes enunciados, sólo el óxido nitroso es un gas a temperatu-
+ra y presión ambientales. Los otros cinco compuestos son líquidos orgáni-
+cos volátiles.
+A continuación se da una brevísima descripción de los procesos de
+metabolización y eliminación de cada uno, ya que algunos metabolitos pro-
+ducidos pueden ser causa de daño celular y otros pueden servir como mar-
+cadores biológicos.
+• El óxido nitroso (monóxido de dinitrógeno, protóxido de nitrógeno,
+N2O) se elimina rápidamente en el aire espirado y una pequeña canti-
+dad difunde a través de la piel.
+• Halotano aproximadamente el 60-80% del halotano (Fluothane) absor-
+bido es eliminado sin metabolizarse en el aire espirado en las primeras
+24 horas tras su administración. Pequeñas cantidades se eliminan
+durante varios días/semanas.
+De la fracción no exhalada, el 50% sufre biotransformación y el resto
+es eliminado por otras vías. La biotransformación tiene lugar en el
+hígado.
+El ácido trifluoroacético, un metabolito, se puede detectar en orina.
+• Enfluorano el 80% se elimina intacto en el aire espirado. El 2-10% del
+restante se metaboliza en hígado.
+Se han identificado difluorometoxidifluoroacetato e ion flúor como sus
+metabolitos.
+
+18
+• Del Isoflurano (Forane) sólo se metaboliza el 0,2%. Las pequeñas
+cantidades de ion flúor y ácido trifluoroacético que se generan en esta
+degradación son insuficientes para causar daño celular.
+• El desflurano es biológicamente muy estable de modo que sólo un
+0,02% del que es inhalado se recupera en forma de metabolitos (ácido
+trifluoroacético sobre todo).
+• Sevoflurano sólo un 3% del sevoflurano administrado se metaboliza
+(principalmente como hexafluoroisopropanol). Tras la administración
+de sevoflurano se incrementan los niveles de flúor en plasma y riñón
+pero raramente se relaciona con daño hepático o renal.
+NOMBRE
+ELIMINACIÓN
+METABOLIZACIÓN
+METABOLITOS EN ORINA
+AIRE ESPIRADO
+Óxido nitroso
+>90%
+–
+Halotano
+60-80%
+5% en Hígado
+Ac. trifluoroacético
+Enfluorano
+80%
+2,5% en Hígado
+Difluorometoxidifluoroacético
+Ión fluor
+Isofluorano
+>70%
+0,2%
+Ac. Trifluoroacético
+Ión fluor
+Desfluorano
+0,02%
+Ac. Trifluoroacético
+Sevofluorano
+3%
+Hexafluoroisopropano
+Otros AAI fueron utilizados en otras épocas pero actualmente han que-
+dado fuera de lugar:
+– Algunos, por su difícil manejo y riesgo de accidentes, como el ciclopro-
+pano y el cloroetano, que son extremadamente inflamables.
+– Otros por sus efectos secundarios:
+• los éteres producían alteraciones hematológicas y nefritis
+• el cloroformo y el tricloroetileno producían hepatopatías tóxicas y
+paros cardíacos, además tienen largos periodos de inducción y de
+salida
+• el metoxiflurano produce daño renal.
+Sin embargo, estas sustancias siguen utilizándose en la industria quími-
+ca e incluso el cloruro de etilo se utiliza todavía en forma de spray para
+anestesiar localmente la piel en algunos casos (inserción de anillos y pen-
+dientes, biopsia cutánea, tratamiento de contusiones, electrodepilación y en
+mucosa oral como preparación a la infiltración anestésica)8.
+
+19
+2.3.3. Patogenia/ Toxicidad.
+La expresión de la toxicidad de una sustancia es influida por distintos fac-
+tores. Dejando aparte posibles errores congénitos del metabolismo, se des-
+criben tres mecanismos generales de toxicidad que pueden estar implica-
+dos en la lesión tisular por AAI:
+a. Acumulación intracelular de intermediarios reactivos en cantidades tóxicas.
+b. Formación de haptenos que pueden iniciar reacciones de hipersensibili-
+dad o reacciones inmunitarias (es decir, unión covalente del compuesto
+con proteinas tisulares formando complejos potencialmente alergénicos).
+c. Producción de metabolitos durante el metabolismo de los AAI. Estos inter-
+mediarios pueden unirse a elementos celulares y alterar su función o bien
+puede tratarse de radicales libres que producidos durante el metabolismo
+causan sobre todo reacciones de oxidación que lesionan los tejidos9.
+2.4. Efectos sobre la salud.
+2.4.1. Exposiciones agudas.
+Las exposiciones agudas a AAI requieren atención médica inmediata y, por
+tanto, no se encuadran dentro del contexto de la vigilancia médica al inicio del
+trabajo o periódica. Su manejo terapéutico corresponde al especialista corres-
+pondiente. Sin embargo, las mencionaremos como referencia de interés.
+a. Halotano, enflurano, isoflurano, sevoflurano o desflurano10.
+Según sea la vía de entrada, la exposición aguda producirá los siguien-
+tes efectos:
+– Por inhalación: confusión, vértigo, náusea, somnolencia.
+– Contacto con la piel y mucosas: sequedad, enrojecimiento.
+– Contacto con los ojos: produce ojo rojo.
+b. Exposición aguda a óxido nitroso:
+– Inhalación: puede causar excitación, vértigo, somnolencia e incoordi-
+nación. La exposición a concentraciones del 50% o mayores produci-
+rán anestesia clínica. Altas concentraciones pueden causar asfixia y
+muerte por falta de oxígeno;
+– Contacto con la piel: el gas caliente no produce efectos dañinos. El gas
+frío o el óxido nitroso líquido pueden causar congelación grave;
+– Ingestión: es una vía de exposición rara que puede producir una grave
+congelación labial y bucal al contacto con el líquido;
+– Contacto con los ojos: el gas caliente no produce efectos dañinos. El
+gas frío o el óxido nitroso líquido pueden causar congelación grave.
+
+20
+2.4.2. Exposiciones subagudas o crónicas.
+2.4.2.1. Efectos demostrados en humanos.
+a. Disminución de la síntesis de Timidina
+El óxido nitroso reacciona con la vitamina B12 y oxida el cobalto de la
+misma inactivando el enzima Metionina Sintetasa que precisa B12 como
+coenzima. La Metionina Sintetasa cataliza la formación de Tetra-
+hidrofolato y de Metionina. La falta de ambos produce disminución de
+la síntesis de Timidina, indispensable en la formación del ADN11.
+b. Médula ósea
+Óxido nitroso: La clínica asociada a la oxidación de la vitamina B12 es
+similar a la de la anemia perniciosa, con hematopoyesis megaloblásti-
+ca ya Gormsen y Lassen, en los años 50, documentan casos de aplasia
+medular en enfermos que fueron sedados con óxido nitroso.
+c. Sobre el sistema inmunitario
+Se aprecia una depresión de las respuestas imnunológicas tras la
+anestesia y la cirugía, que sugiere la influencia de los anestésicos. Esta
+disminución de respuesta hace a los enfermos más susceptibles a infec-
+ciones, procesos malignos y diseminación tumoral. Sin embargo, es
+dudoso que las concentraciones a las que está expuesto el personal de
+quirófano modifiquen la competencia inmunológica.
+d. Sobre el sistema nervioso
+Según se ha comentado anteriormente, el óxido nitroso puede alterar la
+funcionalidad de la cobalamina. Se sabe que los defectos congénitos del
+metabolismo de la cobalamina y las deficiencias nutricionales dan lugar a
+una función anormal del sistema nervioso central y periférico en humanos.
+Las deficiencias dietéticas y los defectos genéticos que causan alteracio-
+nes psicomotoras indican que la cobalamina es esencial para el desarrollo
+normal del cerebro humano. Se han encontrado anomalías neuropsíqui-
+cas en adultos con déficit de cobalamina. En esos sujetos, la administra-
+ción de vitamina B12 produce mejora en sus alteraciones psiquiátricas7.
+Se han observado transtornos de percepción, cognoscitivos y de
+habilidad motora, de significación estadística discutible, por exposición
+a trazas de gases anestésicos. Según un estudio del Instituto de Salud
+Ocupacional de Brescia (Italia) en 1996, hay transtornos neuroconduc-
+
+21
+tuales y neuroendocrinos en expuestos a más de 500 ppm de óxido nitro-
+so y más de 15 ppm de halotano y enflurano. Hoy parece evidente que
+con concentraciones menores del 8-12% de óxido nitroso y del 0.1 % de
+halotano no hay efectos sobre la conducta.
+En 1996, En Suecia se encuentra el stress del trabajo en salas de ope-
+raciones como uno de los factores predisponentes a producir alteracio-
+nes en los trabajadores12.
+e. Sobre el hígado
+La mayoría de los casos de hepatotoxicidad por anestésicos inhalato-
+rios se deben a alteración hepatocelular directa.
+La hepatotoxicidad de los anestésicos podría tener lugar a través de sus
+metabolitos o por reacciones de hipersensibilidad en sujetos suscepti-
+bles, posiblemente por mecanismo de formación de haptenos.
+La inhalación continua de algunos agentes anestésicos (dosis bajas) ori-
+ginan inducción enzimática, aumentando el metabolismo de los mismos,
+con aumento del retículo endoplásmico en células hepáticas.
+Se han descrito incrementos temporales de transaminasas, ictericia e
+incluso cirrosis hepática en personal de quirófano. Un estudio de 1997
+pone de relieve ciertos cambios funcionales en el hígado de trabajadores
+expuestos a gases anestésicos durante años (aumento de la bilirrubi-
+na indirecta, aumento de alaninaaminotransferasa y aumento de la
+aspartato-aminotransferasa).
+El halotano puede asociarse a hepatotoxicidad leve (temprana) o
+grave y a menudo fatal (tardía). Es una hepatotoxicidad rara e imprede-
+cible y algunos pacientes pueden tener predisposición por producir nive-
+les elevados de metabolitos tóxicos o por respuesta inmunológica. Se ha
+descubierto que los anticuerpos de enfermos con hepatotoxicídad por
+halotano reconocen los antígenos que contienen triflúoracetilo, derivado
+del metabolismo del halotano.
+El enflurano sólo se ha relacionado con aislados casos de lesión hepática.
+En cuanto al desflurano y sevoflurano, no hay pruebas de su hepa-
+totoxicidad.
+El óxido nitroso tiene escasa capacidad de ser hepatotóxico según las
+experiencias.
+f. Sobre el riñón
+Los gases anestésicos modernos han sido fluorados para disminuir su
+inflamabilidad y por tanto todos ellos son potencialmente nefrotóxicos.
+
+22
+• El halotano no es desfluorado en su metabolismo y no es nefrotóxico.
+El sevoflurano es desfluorado en alta proporción durante su metabolis-
+mo, pero dada su baja solubilidad sangre/gas y su rápida eliminación, las
+concentraciones de ión flúor disminuyen rápidamente, no habiéndose
+encontrado efectos renales.
+• Los gases anestésicos son desfluorados por oxidasas hepáticas. La
+inducción de dichos enzimas por fármacos como fenobarbital, isoniazi-
+da, etc. llevan a mayor producción de ión flúor y de nefrotoxicidad.
+g. Toxicidad para la reproducción
+Se ha detectado la presencia de infertilidad en trabajadoras de consul-
+tas de odontología expuestas a altas concentraciones de N2O al compa-
+rarlas con otras no expuestas o en las que trabajaban en presencia de
+N2O pero con sistemas de extracción de gases13. Otras alteraciones de
+la reproducción no están suficientemente demostradas.
+Mutagenicidad, la conclusión general de diversos estudios, es que
+actualmente el uso de anestésicos inhalados incluyendo el óxido nitroso,
+halotano, enfluorano, isofluorano, sevofluorano y desfluorano, ninguno
+tiene potencionalidad mutagénica, además los resultados de la mayoría
+de las pruebas de daño al ADN han sido negativos
+Pese a todo ello, la última revisión del ASA (American Society of Anes-
+thesiologists), se 1999, señala que no existe ninguna evidencia de daño
+importante clínico o patológico al hígado, riñones, gónadas o a los otros
+órganos para el isofluorano, halotano, enfluorano y el óxido nitroso, y
+que presumíblemente esto también sería cierto para el sevofluorano y el
+desfluorano14.
+h. Carcinogenicidad
+– Actualmente no aparecen incluidos por la IARC en ninguno de sus
+cinco Grupos 1, 2A, 2B, 3 o 4 de sus listados de agentes cancerígenos.
+– La ACGIH en su ultimo listado publicado (1999) al N2O, Halotano y
+Enflurano - los califica como del Grupo A4: NO Clasificado como
+CARCINÓGENO en humanos: no hay datos adecuados para clasifi-
+car el agente en relación con su carcinogenicidad en los humanos y/o
+animales.
+2. 4. 2. 2. Efectos en experimentación animal, se incluyen en este pro-
+tocolo como referencias experimentales a tener en cuenta.
+
+23
+a. Sobre la multiplicación celular
+En 1968, Green confirmó la aplasia medular en enfermos, descrita por
+Gormsen y Lassen en los años 50 al exponer a ratas a una atmósfera de
+óxido nitroso del 80%15. En todo caso, se precisan dosis muy superiores
+a las anestésicas para inhibir la duplicación celular2.
+Tambien se produce degeneración combinada subaguda de la médu-
+la espinal por óxido nitroso y su alteración en el metabolismo de la vita-
+mina B12, pero se requiere una exposición continuada a dosis muy altas.
+b. Sobre el sistema inmunitario
+El Enfluorano produce depresión de la leucopoyesis (granulocitopenia
+y linfocitopenia) y de la actividad de la UDP-glucuroniltransferasa
+observada en ratas expuestas a concentraciones no anestésicas (expo-
+sición subcrónica).
+c. Carcinogenicidad
+No existen datos experimentales de que a dosis bajas el halotano,
+óxido nitroso, enflurano e isoflurano tengan poder de inducir neopla-
+sias, si bien es cierto que algunos agentes anestésicos tiene estructuras
+químicas similares a las de carcinógenos conocidos:
+• El enflurano e isoflurano son alfa-haloéteres al igual que los carcinóge-
+nos bisclorometiléter, clorometilmetiléter y bis-alfacloroetiléter.
+• El halotano es un alquilhaluro como el metilyoduro, butilbromuro y butil-
+cloruro, que son carcinógenos en animales.
+Todas estas semejanzas no son concluyentes, puesto que las peque-
+ñas diferencias estructurales pueden provocar cambios importantes de
+función16.
+d. Toxicidad para la reproducción
+Muchos investigadores han estudiado las alteraciones de la función
+reproductiva de los trabajadores expuestos a gases anestésicos. El
+intento por repetir estos efectos en animales de experimentación no ha
+tenido resultados concluyentes, ni con exposiciones crónicas a dosis
+traza de gases anestésicos ni con exposiciones cortas a altas dosis.
+El mecanismo por el que la exposición crónica al óxido nitroso afecta
+a la fertilidad puede que esté mediado centralmente. Aunque se ha
+detectado oligospermia en animales expuestos a óxido nitroso, este
+efecto no se ha observado en anestesistas.
+
+24
+Se ha sugerido que el óxido nitroso puede interferir con el eje hipotála-
+mo-hipofisario-gonadal al bloquear la acción de la LHRH (Luteinising hor-
+mone releasing hormone, hormona liberadora de la hormona luteínica)
+impidiendo la ovulación. A las ratas hembra que han sido expuestas a
+un 30% de óxido nitroso durante ocho horas en un solo día se les inte-
+rrumpieron los ciclos menstruales por bloqueo de la liberación de LHRH
+en el hipotálamo. Después de tres semanas de respirar aire normal la
+ovulación se recuperó. Se ha postulado que la interrupción de la acción
+de la LHRH se debe a la interferencia con la actividad de un opioide
+endógeno y la sustancia P, cuyas concentraciones en hipotálamo e hipó-
+fisis se ven influidos por el óxido nitroso17.
+Teratógenos
+Otros gases anestésicos (halotano, enflurano, isoflurano) son teratóge-
+nos para roedores, sólo cuando se administran en concentraciones
+anestésicas durante muchas horas en varios días durante la gestación.
+e. Sobre el sistema nervioso
+Un campo novedoso a estudiar son los déficit conductuales sin altera-
+ciones morfológicas observables, dado que el sistema nervioso central
+en formación es especialmente vulnerable a sustancias teratógenas
+durante su mielinización. Estos efectos se han demostrado en algunos
+roedores pero no se conoce su mecanismo ni se sabe de su posible
+extrapolación al hombre.
+3. EVALUACIÓN DEL RIESGO
+Para determinar la concentración ambiental de AAI existen diversos tipos
+de muestradores personales y ambientales que permiten tomar muestras
+para conocer dicha concentración tanto en el área de trabajo como en la
+zona respiratoria del trabajador.
+Existen los valores propuestos por el NIOSH (National Institute of Occu-
+pational Safety and Health) en 1994, como concentraciones máximas admi-
+sibles en el ambiente del lugar de trabajo:
+• 2 ppm para el halotano si se usa solo y 0,5 ppm si se utiliza en combi-
+nación con el óxido nitroso.
+• Para el óxido nitroso se dan 25 ppm como concentración ponderada
+máxima admisible (TWA, Time-Weighted Average) en el lugar de tra-
+bajo durante el período de utilización (NIOSH1977).
+
+25
+En cuanto a la ACGIH (American Conference of Governmental Industrial
+Hygienists) admite para el óxido nitroso 50 ppm como valor límite superior (TLV,
+Threshold Limit Values) o TWA durante 8 horas de trabajo(ACGIH 1993)5.
+Estas concentraciones no están aceptadas de manera unánime1. Por lo
+tanto, deben utilizarse como guía necesaria en el control de riesgos para la
+salud pero no como límite claro entre concentraciones seguras y peligrosas18.
+En España se admiten los valores recomendados desde 1999, por el
+INSHT(Instituto Nacional de Seguridad e Higiene)19, en el que se valoran
+los VLA-ED (Valor límite Ambiental - Exposición diaria).
+VLA-ED
+ppm - mg/m3
+HALOTANO
+50 - 410
+ENFLUORANO
+75 - 575
+ISOFLUORANO
+50 - 383
+OXIDO NITROSO
+50 - 92
+Se debe tener en cuenta que por sus propiedades euforizantes, puede
+ser usado como droga de abuso, especialmente por los profesionales que
+tienen acceso fácil a ella5, 20, 21, por lo que debe valorarse este aspecto en
+la evaluación del riesgo.
+4. PROTOCOLO SANITARIO ESPECÍFICO
+Los trabajadores expuestos a AAI deberán someterse a un reconoci-
+miento inicial, y a un reconocimiento médico periódico orientado a la
+valoración de su estado de salud y su aptitud para el trabajo desarrollado
+así como a la detección precoz de posibles alteraciones relacionadas con la
+exposición a dichos agentes, sin perjuicio de la posibilidad de realizar los
+otros reconocimientos incluidos en el artículo 37 del Real Decreto 39/1997,
+de 17 de enero del Reglamento de los Servicios de Prevención.
+4.1. Historia laboral.
+4.1.1. Historia de exposición.
+a. Año de inicio de exposición a AAI.
+b. Sustancias a las que ha estado expuesto.
+
+26
+c. Estimación del tiempo total de exposición en años/meses.
+d. Otras exposiciones relevantes (agentes químicos, físicos, biológi-
+cos, etc.).
+4.1.2. Exposición actual.
+a. Fecha de inicio del trabajo actual.
+b. Exposición simultánea a otros agentes con posible toxicidad hepática,
+renal, hematológica, neurológica o sobre la reproducción.
+c. AAI a los que está expuesto.
+d. Estimación de la exposición en horas/periodo de calendario a los
+diversos productos.
+e. Uso de sistemas de extracción/ventilación.
+4.2. Historia clínica.
+4.2.1. Antecedentes personales y familiares.
+Se prestará especial atención a la presencia de enfermedad hepática o
+renal, problemas de fertilidad o en la reproducción y a detectar problemas
+que puedan producir deficiencias en B12 o ácido fólico,por los efectos ya
+comentados del óxido nitroso.
+4.2.2. Anamnesis por aparatos.
+Se prestará especial atención a:
+a. Síntomas neurológicos (Parestesias, trastornos de la marcha o equili-
+brio, cefaleas, vértigos o aturdimiento)
+b. Trastornos en la visión
+c. Síntomas de enfermedad hepática o renal
+d. Infertilidad o esterilidad; embarazos; abortos espontáneos y malfor-
+maciones en la descendencia.
+4.2.3. Exploración clínica específica.
+Se realizará una exploración general, por sistemas y aparatos guiada por
+los síntomas recogidos en la anamnesis.
+4.3. Control biológico y estudios complementarios específicos.
+Estarán orientados por los resultados de la anamnesis y la exploración
+clínica. En cualquier caso, como mínimo se evaluarán:
+
+27
+4.3.1. Sangre.
+Determinaciones hematológicas:
+• Recuento de hematies
+• Hematocrito
+• Hemoglobina
+• Indices eritrocitarios (hemoglobina corpuscular media, concentración
+de hemoglobina corpuscular media, volumen corpuscular medio)
+• Recuento de leucocitos
+• Fórmula leucocitaria.
+4.3.2. Suero.
+Determinaciones químicas:
+• Bilirrubina
+• Creatinina.
+Determinaciones enzimáticas:
+• Alanina transferasa (ALT o GPT)
+• Aspartato transferasa (AST o GOT)
+• g-Glutamiltranspeptidasa (gGT).
+En trabajadores susceptibles de presentar una deficiencia de vitamina
+B12 o ácido fólico, como:
+• gastrectomizados,
+• vegetarianos estrictos,
+• enfermos de patología inflamatoria intestinal,
+• tratamientos con Metrotexato,
+• trabajadores que presenten síntomas neurológicos o anemia
+y especialmente si son mujeres en edad fértil, se valorará la convenien-
+cia de determinar los niveles séricos de vitamina B12 y ácido fólico. 
+4.3.4. Monitorización biológica.
+La monitorización biológica de los trabajadores expuestos a AAI, pre-
+senta bastantes dificultades puesto que la mayoría de los parámetros inves-
+tigados hasta el momento no presentan una sensibilidad y especificidad
+suficiente para que tengan cierto valor predictivo y tampoco son facilmente
+practicables (complicada recogida y manipulación de muestras y detección
+y cuantificación química). Por todo ello no se recomienda su utilización de
+forma sistemática.
+Aún con todo, las posibilidades de control biológico de la exposición a
+anestésicos sería:
+
+28
+• Halotano: se han propuesto 3 indicadores:
+• Acido trifluoroacético en sangre: Se toma como límite oficial por el
+Deutsche Forschungsgemeinschaft (1987) un nivel máximo de 2,5
+mg/l (en una muestra tomada al final de la exposición laboral, al final
+de la semana de trabajo).
+• Halotano en orina: 0,25 mg/g de creatinina (en una muestra recogi-
+da al final de la exposición laboral).
+• Halotano en aire alveolar: por el National Institute for Occupational
+Safety and Health (1977) un nivel de 0,5 ppm (correspondiente a la
+exposición a un valor ambiental de 5 ppm)16.
+• Isofluorano: el isofluorano inalterado en orina ha sido propuesto como
+indicador biológico de exposición, con un valor límite de 18nmol/l de
+orina, correspondiente a un límite ambiental de 2 ppm. La muestra de
+orina debería recogerse al final de la exposición de 4 horas en sujetos
+con la vejiga vacía al comienzo de la exposición.
+• Óxido nitroso: se han propuesto los siguientes valores:
+• Óxido nitroso en sangre: 45 ppm., correspondiente a un valor
+ambiental de 100 ppm en muestras de sangre venosa recogidas al
+final de la exposición.
+• Óxido nitroso en orina:
+– 13 g/l (orina recogida tras 4 horas de exposición), correspondiente
+a una exposición ambiental de 25 ppm.
+– 127 /l (orina recogida tras 4 horas de exposición), correspondiente
+a una exposición ambiental de 50 ppm.
+– 155 g/l (orina recogida tras 4 horas de exposición), correspondien-
+te a una exposición ambiental de 100 ppm.
+Dado que todas estas sustancias tienen un bajo grado de solubilidad, los
+indicadores biológicos reflejan, en cualquier caso, exposición reciente o
+muy reciente y no pueden proporcionar información sobre exposiciones
+pasadas.
+Tomado de15 Pezzano G, Imbriani M, Ghittori S, Capodaglio E. Anestési-
+cos por vía inhalatoria. En: Alessio L, Berlin A, Boni M, Roi R (eds.). Biolo-
+gical indicators for the assessment of human exposure to industrial chemi-
+cals. EUR 12174 EN. Oficina para las Publicaciones Oficiales de las Comu-
+nidades Europeas. Bruselas-Luxemburgo, 1989. edición en castellano por
+la Generalitat Valenciana, 1997.
+
+29
+4.4. Criterios de valoración.
+• Las alteraciones que se detecten en la anamnesis y/o en la explo-
+ración clínica se valorarán teniendo en cuenta todas las circunstan-
+cias (patologías previas, tratamientos, otras exposiciones a factores de
+riesgo, situación psicológica, aspectos laborales, etc.) que permitan
+aproximar el juicio diagnóstico a la mayor precisión y comprensión posi-
+bles. En caso necesario se consultará con otro/s especialistas médicos.
+• En cuanto a resultados de los exámenes de laboratorio, se tendrán
+en cuenta los valores de referencia que estén en uso y hayan sido
+acreditados para estimar los límites de la normalidad. Se harán las con-
+sultas técnicas necesarias para aclarar dudas que puedan surgir en
+cuanto a la interpretación de los resultados y la necesidad o no de repe-
+tir o añadir más pruebas.
+Por todo lo desarrollado en este protocolo no hay datos en la actualidad
+para considerar a ningún trabajador como no apto permanente.
+Se podría considerar no apto temporal a aquellos trabajadores que pre-
+senten un déficit de vitamina B12 o de ácido fólico en la determinación ana-
+lítica, hasta que se normalicen sus parámetros, en cualquier caso requiere
+una valoración médica individualizada.
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO 
+SANITARIO
+Se realizará basándose en el anexo I incluido en este protocolo.
+5.1. Periodicidad.
+No existe suficiente evidencia de efectos para la salud derivados de los
+habitualmente bajos niveles de exposición laboral a estos agentes como
+para recomendar de una forma fundamentada una periodicidad concreta de
+forma sistemática, esta deberá establecerse por los equipos médicos de
+vigilancia de la salud laboral de cada centro de trabajo en función de los
+niveles de exposición, y las características de los trabajadores expuestos.
+Sin embargo el periodo máximo entre los exámenes de salud no será
+mayor de 3 años, en este tiempo, se valorará si es necesario el uso de otros
+instrumentos de la vigilancia de la salud, como son:
+
+30
+– Cuestionarios de Síntomas con la batería analítica mínima prescrita
+como obligatoria.
+– Vigilancia de las ausencias al trabajo por patologías hepáticas, nefroló-
+gicas o de la función reproductora.
+– Consultas de Salud espontáneas de los expuestos vigilados con la
+batería analítica mínima prescrita como obligatoria.
+5.2. Tiempo de custodia del historial tras la finalización de la exposi-
+ción laboral a AAI.
+La documentación clínica correspondiente a los trabajadores expuestos
+a AAI se conservará durante al menos diez años tras la última exposición
+a dichos agentes.
+6. CONDUCTA A SEGUIR ANTE LAS ALTERACIONES QUE SE
+DETECTEN
+• En los casos en que se detecte alteración hepática, renal, anemia,
+trastornos neurológicos o de la función reproductora, se podrá derivar
+al respectivo especialista para su estudio y tratamiento.
+• En cada caso concreto, se intentará, en la medida de lo posible, esta-
+blecer o descartar la relación con la exposición laboral y se valorará la
+contraindicación o no del trabajo expuesto, teniendo en cuenta en
+dicha valoración: la gravedad del caso, el nivel de exposición, las posi-
+bilidades de cambio de puesto de trabajo y la escasa evidencia cientí-
+fica de alteraciones producidas por exposición a niveles bajos de con-
+taminación ambiental.
+• Los casos de deficiencia de vitamina B12 o ácido fólico recibirán
+tratamiento adecuado ya que niveles bajos pueden representar sus-
+ceptibilidad aumentada a padecer neuropatía y/o anemia macrocítica
+y/o alteraciones de la reproducción post exposición y se alejarán de la
+fuente de exposición hasta que se normalicen sus parámetros.
+• A todos los trabajadores expuestos se les instruirá en los posibles
+riesgos de la exposición a agentes anestésicos inhalatorios, con infor-
+mación detallada y suficiente y educación en la prevención.
+• Se comunicarán los resultados de la vigilancia de la salud a los tra-
+bajadores afectados, y el empresario y las personas u órganos con
+
+31
+responsabilidades en materia de prevención serán informados de
+las conclusiones que se deriven de los reconocimientos efectuados
+en relación con la aptitud del trabajador para el desempeño del puesto
+de trabajo o con la necesidad de introducir o mejorar las medidas de
+protección y prevención.
+• Se fomentará la declaración por parte de los trabajadores a los ser-
+vicios de prevención de aquellos problemas de salud que puedan
+estar relacionados con la exposición.
+7. LEGISLACIÓN APLICABLE
+• Directiva 89/391/CEE, de 12 de junio, relativa a las medidas para pro-
+mover la mejora de la seguridad y la salud de los trabajadores en el tra-
+bajo (Directiva marco en materia de seguridad y salud en el trabajo)
+• Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales,
+BOE nº 269, de 10 de noviembre de 1995.
+• Real Decreto 39/1997, de 17 de enero por el que se aprueba el Regla-
+mento de los Servicios de Prevención, BOE nº 27 de 31 de enero de
+1997.
+8. BIBLIOGRAFÍA
+1.
+VICIOLA GARCÍA, M. Protocolo sanitario de vigilancia médica de los
+trabajadores expuestos a agentes anestésicos inhalatorios. En: Eguile-
+or Gurtubai I (d.). Salud laboral: Protocolos sanitarios específicos de
+vigilancia médica de los trabajadores (IV). Servicio Central de Publica-
+ciones del Gobierno Vasco. Vitoria-Gasteiz, 1993: 107-147.
+2.
+GINESTA GALÁN, V., GESTAL OTERO, J.J. Gases anestésicos. En:
+Gestal Otero JJ. Riesgos del trabajo del personal sanitario. Interameri-
+cana-McGraw Hill. Madrid, 1993.
+3.
+BORGANELLI, G.N., PRIMOSCH R.E., HENRY, R.J. Operatory ventila-
+tion and scavenger evacuation rate influence on ambient nitrous oxide
+levels. J Dent Res 1993; 72 (9): 1275-1278.
+4.
+U. S. Department of Health and Human Services. Control of nitrous
+oxide in dental operatories. DHHS (NIOSH) Publication No. 96-107.
+1996.
+
+32
+5.
+National Institute for Occupational Safety and Health. Controlling expo-
+sures to nitrous oxide during anesthetic administration. NIOSH ALERT:
+1994. DHHS (NIOSH) Publication No. 94-100.
+6.
+Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y
+la seguridad de los trabajadores contra los riesgos relacionados con los
+agentes químicos durante el trabajo.
+7.
+LOUIS-FERDINAND, R.T. Myelotoxic. Neurotoxic and reproductive
+adverse effects of nitrous oxide. Adverse Drug React Toxicol Rev
+1994;13(4):193-206.
+8.
+Agency for Toxic Substances and Disease Registry. Chloroethane.
+ATSDR Public Health Statement, December 1989.
+9.
+CORDIER, S., GOUJARD, J. Expositions profesionelles à des substan-
+ces chemiques et anomalies congénitales: état des connaissances. Rev
+Epidem Santé Publ 1994; 42: 144-159.
+10. WHO/IPC. International Chemical Safety Cards. Halothane. ISC:0277
+(1993).
+11. CHANARIN, J. Cobalamins and nitrous oxide: a review. J Clin Pathol
+1980; 33: 909-916.
+12. AXELSSON, G., AHLBORG, G. Jr. , BODIN, L. Shift work, nitrous oxide
+exposure, and spontaneous abortion among Swedish midwives. Occup
+Environ Med. 1996; 53:374-378.
+13. ANDREWS. ROWLAND, Reduced fertility among women employed as
+dental assistant exposed to high levels of nitrous oxide, The new
+england journal of medicine 1992;327:993-7.
+14. American Society of Anesthesiologists. Information for Management in
+Anesthetizing Areas and the Postanesthesia Care Unit (PACU). 1999.
+www. asahq. org/ProfInfo/wasteangases. html.
+15. GREEN, CJ. Anaesthetic gases and health risks to laboratory person-
+nel: a review. Lab Animals 1981; 15: 397-403.
+16. PEZZANO, G., IMBRIANI, M., GHITTORI, S., CAPODAGLIO, E. Anes-
+tésicos por vía inhalatoria. En: Alessio L, Berlin A, Boni M, Roi R (eds.).
+Biological indicators for the assessment of human exposure to industrial
+chemicals. EUR 12174 EN. Oficina para las Publicaciones Oficiales de
+las Comunidades Europeas. Bruselas-Luxemburgo, 1989 -edición en
+castellano por la Generalitat Valenciana, 1997.
+17. DONALDSON, D., MEECHAN, J.G. The hazards of chronic exposure to
+nitrous oxide: an update. Br Dent J 1995; 178: 95-100.
+18. Praxair™ Material Safety Data Sheet. Nitrous oxide. Form No.: P-4636-
+C. October 1997 (http://www. praxair. com).
+
+33
+19. Límites de exposición profesional para agentes químicos. INSHT 1999.
+20. SURUDA, A.J., McGLOTHLIN, J.D. Fatal abuse of nitrous oxide in the
+workplace. J Occup Med 1990; 32 (8): 682-684.
+21. GILLMAN, M.A. Nitrous oxide abuse in perspective. Clin Neuropharma-
+col 1992; 15 (4): 297-306.
+
+34
+
+35
+ANEXO I
+HOJA DE RECOGIDA DE DATOS PARA LOS TRABAJADORES
+EXPUESTOS A AGENTES ANESTÉSICOS INHALATORIOS
+– Datos del reconocimiento
+Tipo de examen ....................................................
+Fecha .........de......................................de.................
+Médico...........................................................................
+Nº de colegiado.....................................................
+– Datos personales
+Apellidos..................................................................................................................................................................
+Nombre ....................................................................................................................................................................
+Sexo................................................................................
+Fecha de nacimiento........................................
+Domicilio..................................................................................................................................................................
+Localidad ................................................................................................................................................................
+Provincia .................................................................................................................................................................
+– Datos de la empresa
+Nombre de la empresa ..............................................................................................................................
+CNAE .............................................................................
+Localización Centro de Trabajo..........................................................................................................
+Teléfono .......................................................................
+Localidad ................................................................................................................................................................
+Provincia .................................................................................................................................................................
+– Datos del trabajador
+Puesto de trabajo............................................................................................................................................
+Antigüedad en años ..........................................
+– Datos del puesto de trabajo actual
+Fecha de inicio del trabajo actual.....................................................................................................
+¿Qué productos, AAI usa? .....................................................................................................................
+........................................................................................................................................................................................
+........................................................................................................................................................................................
+
+36
+Exposición contínua o discontínua ..................................................................................................
+Otros productos con posible toxicidad:
+hepática ...................................................................................................................................................................
+renal............................................................................................................................................................................
+hematológica.......................................................................................................................................................
+neurológica ...........................................................................................................................................................
+sobre la reproducción..................................................................................................................................
+– Datos de puestos anteriores con empleo de AAI
+Tipo/sustancia.........................................................................................................
+años expos................................................................................................................
+h. de manejo/semana ......................................................................................
+otras exposiciones al factor de riesgo...............................................
+Tipo/sustancia.........................................................................................................
+años expos................................................................................................................
+h. de manejo/semana ......................................................................................
+otras exposiciones al factor de riesgo...............................................
+Tipo/sustancia.........................................................................................................
+años expos................................................................................................................
+h. de manejo/semana ......................................................................................
+otras exposiciones al factor de riesgo...............................................
+Tipo/sustancia.........................................................................................................
+años expos................................................................................................................
+h. de manejo/semana ......................................................................................
+otras exposiciones al factor de riesgo...............................................
+– Antecedentes de interés
+Personales
+Alergias ........................................................................
+Embarazos ................................................................
+Hijos ................................................................................
+Abortos .........................................................................
+Alteraciones hepáticas....................................
+Alteraciones renales .........................................
+Deficiencias en B12
+Dieta vegetariana estricta ..............................................................................
+Gastrectomizados .................................................................................................
+Enfermedad inflamatoria intestinal .........................................................
+Tratamiento con metrotexate.......................................................................
+Otras .................................................................................................................................
+
+37
+Deficiencias en ácido fólico ........................
+Hábitos
+Cigarrillos/día......................................................................................................................................................
+Bebedor alcohol
+No bebedor ...................................................................................................................................
+Ex bebedor ....................................................................................................................................
+Bebedor habitual diario leve..........................................................................................
+Moderado ..........................................................................
+Intenso .................................................................................
+Bebedor ocasional .................................................................................................................
+Anamnesis
+Síntomas neurológicos...............................................................................................................................
+Alteraciones visuales ...................................................................................................................................
+Síntomas de enfermedad hepática..................................................................................................
+Síntomas de enfermedad renal ..........................................................................................................
+Infertilidad ..............................................................................................................................................................
+Exploración clínica específica
+Palpación abdominal....................................................................................................................................
+Exploración neurológica
+Pares craneales ..................................................................................
+Reflejos tendinosos..........................................................................
+– Controles biológicos
+Sangre
+Recuento de hematies.......................................................millones/dl
+Hematocrito .................................................................................%
+Hemoglobina ..............................................................................g/dl
+Indices eritrocitarios
+HCM...................................................pg
+CHCM...............................................g/dl
+VCM ...................................................fl
+Recuento de leucocitos.....................................................mil/ml
+Fórmula leucocitaria
+Neutrófilos.....................................%
+Basófilos.........................................%
+Eosinófilos ....................................%
+Monocitos......................................%
+Linfocitos........................................%
+Bilirrubina.......................................................................................mg/dl
+Creatinina......................................................................................mg/dl
+Alanina transferasa(ALT/GPT)....................................u. i.
+
+38
+Aspartato transferasa(AST/GOT).............................u. i.
+gglutamiltranspeptidasa(gGT).......................................u. i.
+Vitamina B12................................................................................pg/ml
+Acido fólico...................................................................................ng/ml
+Otras..................................................................................................

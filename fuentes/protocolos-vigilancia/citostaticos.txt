@@ -1,0 +1,3638 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+AGENTES CITOSTÁTICOS
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18 - 28014 Madrid
+ISBN: 84-7670-660-X
+NIPO: 351-03-032-6
+Depósito Legal: M-51.191-2003
+Imprime: Grafoffset, S.L.
+
+El Consejo Interterritorial del Sistema Nacional de Salud
+aprueba el «Protocolo de Vigilancia Sanitaria Específica
+para los trabajadores expuestos a Agentes Citostáticos»,
+en la reunión de su Comisión Delegada de 11 de noviembre
+de 2003.
+CONSEJO
+INTERTERRITORIAL
+SISTEMA NACIONAL DE SALUD
+
+
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE
+SALUD PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA
+NACIONAL DE SALUD
+COORDINACION DEL PROTOCOLO
+XUNTA DE GALICIA. DIRECCIÓN XERAL DE SAÚDE PUBLICA DE LA
+CONSELLERÍA DE SANIDADE E SERVICIOS SOCIAIS
+AUTORES
+Mª Isabel González García. Servicio de Protección da Saúde fronte a Riscos
+específicos. Subdirección Xeral de programas de Saúde Pública. Dirección
+Xeral de Saúde Pública. Consellería de Sanidade. Xunta de Galicia
+GRUPO DE TRABAJO
+Pilar Salvador Garrido. Servicio de Productos Sanitarios. SERGAS. Galicia.
+Mª José Piñeiro Iglesias. Servicio de Farmacia Hospitalaria.Centro Oncoló-
+gico de Galicia.
+D.Vicente Dominguez Hernández. Servicio de Medicina Preventiva. Comple-
+jo Hospitalario Juan Canalejo.
+Miguel Martínez Losada. Centro de Seguridade e Saúde Laboral, A Coruña
+GRUPO DE TRABAJO DE SALUD LABORAL
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Rosario Castañeda López. Ministerio de Sanidad y Consumo. Madrid.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Esther Busquets Bou. Consejeria de Sanidad y Seguridad Social. Cataluña.
+Rosa María Campos Acedo. Consejería de Sanidad y Consumo. Extremadura.
+Rafael Castell Salvá. Consejeria de Sanidad y Consumo. Islas Baleares.
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Laboral.
+País Vasco.
+Mercedes Elvira Espinosa. Consejería de Sanidad y Bienestar Social. Casti-
+lla y León.
+5
+
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+Valentín Esteban Buedo. Consejería de Sanidad. Valencia.
+Fernando Galvañ Olivares. Consejería de Sanidad y Consumo. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+Isabel González García. Consejería de Sanidad y Servicios Sociales. Galicia.
+Asunción Guzmán Fernández. Consejería de Salud y Servicios Sanitarios.
+Asturias.
+Nieves Martínez Arguisuelas. Consejería de Salud, Consumo y Servicios
+Sociales. Aragón.
+Lourdes Miralles Martínez-Portillo. Consejería de Salud, y Servicios Socia-
+les. La Rioja.
+Alberto Montilla Sanchez de Navas. Consejería de Sanidad. Castilla - La
+Mancha.
+Alfredo Rubio Sanz. Consejería de Salud. Andalucía.
+Marta Zimmermann Verdejo. Consejería de Sanidad. Comunidad de Madrid.
+6
+
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanitaria»,
+editados por el Ministerio de Sanidad y Consumo y fruto del trabajo desarro-
+llado por las Administraciones Sanitarias a través del Grupo de Trabajo de
+Salud Laboral de la Comisión de Salud Pública del Consejo Interterritorial
+del Sistema Nacional de Salud, como contribución a las actividades de pre-
+vención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos laborales
+(Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone, entre
+otras cuestiones, que debe cambiar radicalmente la práctica de los recono-
+cimientos médicos que se realizan a las y los trabajadores. De ser exáme-
+nes médicos inespecíficos, cercanos a los clásicos chequeos o cribados de
+carácter preventivo general, deben pasar a ser periódicos, específicos fren-
+te a los riesgos derivados del trabajo, con el consentimiento informado del
+trabajador, y no deben ser utilizados con fines discriminatorios ni en perjui-
+cio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigilancia
+periódica de su salud, incluso prolongándola más allá de la finalización de la
+relación laboral en algunos supuestos, la ley encomienda a las administra-
+ciones sanitarias la tarea de dar homogeneidad y coherencia a los objetivos
+y contenidos de la vigilancia de la salud, mediante la elaboración de proto-
+colos y guías de actuación, con la mirada puesta en implantar un modelo de
+vigilancia de la salud en el trabajo que sea eficaz para la prevención.
+El poder contar con criterios uniformes basados en la evidencia científica
+y la experiencia profesional de los participantes en los grupos de trabajo
+constituidos para su elaboración, permitirá alcanzar los objetivos de preven-
+ción de la enfermedad y promoción de la salud de las y los trabajadores.
+7
+
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar la
+salud de los trabajadores para detectar precozmente e individualizar los fac-
+tores de riesgo y deterioro que puedan afectar a la salud de los mismos», la
+recogida armonizada y periódica de datos sobre riesgos y enfermedades y
+su posterior análisis e interpretación sistemáticos con criterios epidemiológi-
+cos, constituye uno de los instrumentos con que cuenta la salud pública pa-
+ra poder identificar, cuantificar y priorizar, y por lo tanto, diseñar políticas de
+prevención eficaces.
+Para la elaboración de los protocolos, se constituyeron varios grupos de
+trabajo, que, coordinados por los representantes de las Comunidades Autó-
+nomas, permitiese la elaboración en paralelo de varios de ellos. Finalmente,
+una vez concluido el procedimiento interno de elaboración de los mismos,
+han sido sometidos a consulta y adecuadamente informados por Agentes
+Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Sociedades Científicas
+(SEMST, SEEMT, AEETSL, SESPAS y SEE), con cuyos representantes se
+mantuvieron reuniones al efecto, en el Ministerio de Sanidad y Consumo,
+habiéndose incorporado a la redacción final los comentarios recibidos que
+se consideró mejoraban el texto presentado.
+El que se presenta en este volumen proporciona a los profesionales im-
+plicados en la prevención de riesgos laborales, especialmente a los sani-
+tarios, una guía de actuación para la vigilancia sanitaria específica de las
+y los trabajadores expuestos a Agentes Citostáticos, que será revisado pe-
+riódicamente, en la medida que así lo aconseje la evolución de la eviden-
+cia científica disponible y su aplicación concreta en los centros de trabajo
+de nuestro país.
+José María Martín Moreno
+Director General de Salud Pública
+8
+
+SUMARIO
+Pág.
+1. CRITERIOS DE APLICACIÓN.........................................................
+9
+2. DEFINICIÓN DEL PROBLEMA........................................................
+14
+2.1. Definiciones y conceptos .........................................................
+14
+2.2. Fuentes de exposición y usos..................................................
+15
+2.3. Mecanismos de acción.............................................................
+15
+2.4. Efectos sobre la salud..............................................................
+16
+3. EVALUACIÓN DEL RIESGO............................................................
+19
+3.1. Control ambiental.....................................................................
+19
+3.2. Monitorización biológica de agentes citostáticos .....................
+20
+4. PROTOCOLO MÉDICO ESPECÍFICO ............................................
+24
+4.1. Historia Laboral........................................................................
+24
+4.2. Historia Clínica.........................................................................
+25
+4.3. Control biológico y pruebas complementarias específicas ......
+26
+4.4. Seguimiento ............................................................................
+26
+4.5. Criterios de valoración .............................................................
+29
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+MÉDICO ESPECÍFICO. ...................................................................
+29
+6. CONDUCTA A SEGUIR SEGÚN LA APTITUD DEL 
+TRABAJADOR .................................................................................
+30
+7. DATOS A REMITIR A LAS ADMINISTRACIONES SANITARIAS ....
+31
+8. LEGISLACIÓN APLICABLE.............................................................
+32
+9. BIBLIOGRAFÍA ................................................................................
+33
+9
+
+ANEXO I.
+HOJA DE RECOGIDA DE DATOS DEL TRABAJADOR
+EXPUESTO A AGENTES CITOSTÁTICOS .....................
+ANEXO II.
+PAUTAS DE TRATAMIENTO FARMACOLÓGICO DE 
+LA ANAFILAXIA SISTÉMICA EN ADULTOS ...................
+37
+ANEXO III.
+CLASIFICACIÓN Y CARACTERÍSTICAS DE LOS 
+AGENTES CITOSTÁTICOS.............................................
+41
+ANEXO IV.
+SÍNTOMAS Y MANIFESTACIONES REFERIDAS A
+PERSONAS SOMETIDAS A TRATAMIENTO CON
+CITOSTÁTICOS ...............................................................
+55
+APÉNDICE. GUÍA PARA LA MANIPULACIÓN DE PRODUCTOS
+CITOSTÁTICOS ...............................................................
+63
+10
+
+INTRODUCCIÓN
+Los medicamentos citostáticos son sustancias citotóxicas que se utilizan
+específicamente para causar un daño celular, que no es selectivo para las
+células tumorales, sino que afecta a todas las células del organismo, resul-
+tando efectos tóxicos adversos.
+Su uso se inició en 1943 tras la observación de aplasias medulares en
+militares expuestos a gas mostaza durante la segunda guerra mundial, lo
+que propició la utilización de mostazas nitrogenadas en el tratamiento de la
+enfermedad de Hodgkin.
+El aumento, en todo el mundo occidental, de los casos de cáncer que son
+tratados en su gran mayoría, con quimioterapia antineoplásica, sumado a la
+diversificación de usos que han sufrido los agentes citostáticos en estos úl-
+timos años como resultado del avance en los conocimientos médicos, impli-
+ca que estos medicamentos sean cada vez más usados en terapéutica asis-
+tencial. Este hecho conlleva un incremento paralelo del riesgo para la salud
+de los trabajadores/as que los manipulan, conocido desde los años 70.
+A los riesgos ya conocidos de irritación de piel y mucosas por aplicación
+directa, se ha evidenciado la posibilidad de riesgos para la salud en perso-
+nal que los manipula tras una exposición crónica y en pequeñas cantidades
+a algunos de estos medicamentos, debido al hecho de producir aerosoles,
+como puso de manifiesto el estudio del año 79 de Falk y col. acerca de la ac-
+ción mutágena en la orina de las enfermeras que administraban citostáticos.
+Todo esto lleva a la necesidad de realizar un protocolo de vigilancia sani-
+taria específica de los trabajadores expuestos a agentes citostáticos, para
+intentar minimizar los riesgos y a ser posible detectarlos antes de que dañen
+la salud del personal laboral que trabaja con ellos.
+Dentro de este protocolo se tienen en cuenta algunas sustancias que
+aunque académicamente no son consideradas como citostáticos su manejo
+11
+
+inadecuado implica riesgos para la salud del personal manipulador, ejem-
+plos: pentamidina, ganciclovir, etc.
+El presente protocolo, se basa en los conocimientos científicos actuales
+así como en los citostáticos conocidos hasta la fecha, y debido a los avan-
+ces tan importantes que se producen en este campo, futuras aportaciones
+no pueden ser tenidas en cuenta en el momento actual.
+12
+
+AGENTES CITOSTÁTICOS
+1. CRITERIOS DE APLICACIÓN
+Este protocolo tiene como objetivo establecer las características básicas
+para la vigilancia de la salud de los trabajadores expuestos a agentes citos-
+táticos, estableciendo unas normas de utilización seguras y unas condicio-
+nes de vigilancia sanitaria sistemáticas.
+Se entiende por MANEJO O MANIPULACIÓN DE CITOSTÁTICOS el si-
+guiente conjunto de operaciones:
+1.
+Preparación de una dosis a partir de una presentación comercial.
+2.
+Administración al paciente de tal dosis.
+3.
+Recogida / Eliminación de residuos procedentes de las actuaciones
+antedichas.
+4.
+Eliminación de excretas de pacientes a tratamiento con citostáticos.
+5.
+Cualquier actuación que implique un potencial contacto directo con el
+medicamento (limpieza de derrames, limpieza y mantenimiento de la
+cabina, etc.).
+Así, el término MANIPULADOR DE CITOSTÁTICOS se aplicaría al per-
+sonal que realice cualquiera de las actividades mencionadas anteriormente,
+así como el encargado de la recepción, transporte y almacenamiento de es-
+te tipo de medicamentos.
+13
+
+2. DEFINICIÓN DEL PROBLEMA
+2.1. Definiciones y conceptos
+2.1.1. Citostático
+Se puede definir como aquella sustancia capaz de inhibir o impedir la
+evolución de la neoplasia, restringiendo la maduración y proliferación de cé-
+lulas malignas, actuando sobre fases específicas del ciclo celular y por ello
+son activas frente a células que se encuentran en proceso de división. Este
+mecanismo hace que, a su vez, sean por sí mismas carcinógenas, mutáge-
+nas y/o teratógenas.
+Son un grupo heterogéneo de sustancias de distinta naturaleza química,
+que se utilizan de forma preferente aunque no exclusivamente como trata-
+miento antineoplásico, bien solas o acompañada s de otro tipo de terapia.
+Dentro del proceso de utilización de agentes citostáticos, Ciclofosfamida,
+5-5-5-fluorouracilo y Metotrexato constituyen el 81 % de los agentes antine-
+oplásicos preparados.
+2.1.2. Mutágeno: agente físico o químico que induce o incrementa
+mutaciones genéticas
+Se entiende por mutación: Modificación permanente en la cantidad o en
+la estructura de material genético de un organismo que produce un cambio
+de la características del fenotipo de dicho organismo. Las alteraciones pue-
+den afectar a un solo gen, a un conjunto de genes o a un cromosoma entero.
+2.1.3. Genotóxico
+Aquel agente, radiación o sustancia química que produce una ruptura en
+el ADN, pudiendo causar mutación o cáncer.
+2.1.4. Tóxico para la reproducción
+La sustancia o preparado que, por inhalación, ingestión o penetración cu-
+tánea, pueda producir efectos negativos no hereditarios en las descenden-
+cias, aumentar la frecuencia de éstos, afectar de forma negativa a la función
+o a la capacidad reproductora, (según se define en el RD 363/95, de 10 de
+14
+
+marzo, reglamento sobre notificación de sustancias nuevas, y clasificación,
+envasado y etiquetado de sustancias peligrosas, que modifica la Reglamen-
+tación de sustancias introduce el término tóxico para la reproducción).
+2.1.5. Carcinógeno
+Sustancia o preparado que por inhalación, ingestión o penetración cutá-
+nea, puede producir cáncer o aumentar su frecuencia.
+Algunos de los agentes citostáticos están considerados como carcinóge-
+nos según la clasificación de la IARC (International Agency for Research on
+Cancer) que determina el riesgo carcinogénico de las sustancias químicas
+en humanos y que comprende las siguientes categorías:
+—
+Grupo 1. «El agente es carcinógeno en humanos».
+—
+Grupo 2A. «El agente es probablemente carcinógeno en humanos».
+—
+Grupo 2B. «El agente es posiblemente carcinogeno en humanos».
+Para mantener actualizada esta clasificación es útil la página web de la
+IARC: http://www.iarc.fr/.
+2.2. Fuentes de exposición y usos
+Los agentes citostáticos se usan principalmente para el tratamiento de
+procesos oncológicos, así los trabajadores pueden estar expuestos durante
+la fabricación, preparación, distribución o transporte interno, administración,
+tratamiento de contaminaciones accidentales y derrames, o eliminación de
+los residuos procedentes de las actuaciones anteriores y excretas.
+2.3. Mecanismos de acción
+Vías de penetración Las vías de penetración de estas sustancias son:
+a)
+Inhalación de los aerosoles y micro gotas que se desprenden duran-
+te la preparación de las soluciones de citostáticos y durante su admi-
+nistración, o por rotura de ampollas, al purgar el sistema, etc.
+b)
+Por contacto directo, por penetración del medicamento a través de la
+piel o de las mucosas.
+15
+
+c)
+Por vía oral: ingestión de alimentos, bebidas, cigarrillos contamina-
+dos. Es la vía menos frecuente.
+d)
+Por vía parenteral: por introducción directa del medicamento a través
+de pinchazos o cortes producidos por rotura de ampollas.
+2.4. Efectos sobre la salud
+Las acciones tóxicas de éstos medicamentos incluyen:
+1. Teratógena.
+2. Citostática.
+3. Carcinógena.
+4. Mutágena.
+5. Alteración corneal.
+6. Cardiotóxica.
+7. Hepatotóxica.
+8. Nefrotóxica.
+9. Hemorrágica.
+10. Vesicante.
+11. Irritante de piel y mucosas.
+12. Emetizante.
+13. Hematológica.
+Esto no quiere decir que todos produzcan estas reacciones, sino que
+unos producen unas y otros producen otras, pudiendo algunos tener varios
+de los efectos mencionados.
+La mayor parte de los mismos han sido estudiados en enfermos some-
+tidos a estos tratamientos. Las células cancerosas crecen y se reproducen
+muy rápidamente, y por ello los medicamentos que se usan para el trata-
+miento de quimioterapia, en general, son aquellos que atacan las células
+de crecimiento rápido, interactuando con su ADN, su ARN o con la sínte-
+sis de proteínas celulares. De igual forma, los medicamentos que se usan
+para combatir el cáncer también pueden afectar a las células normales de
+tejidos de rápida renovación, y en ocasiones causar efectos secundarios
+indeseables. Estos efectos secundarios pueden variar mucho de un pa-
+16
+
+ciente a otro, y la posibilidad de desarrollarlos o no desarrollarlos no afec-
+ta al resultado del tratamiento. Las náuseas y vómitos, la fatiga (cansan-
+cio) y la caída del cabello son los efectos secundarios de los que los pa-
+cientes se quejan más frecuentemente. Algunos medicamentos pueden
+producir efectos que el paciente no nota, tales como la disminución del
+número de glóbulos rojos en la sangre o la disminución del esperma. Las
+analíticas frecuentes de sangre y otros tipos de exámenes permiten que el
+médico esté alerta a los cambios que ocurren durante el tratamiento. Algu-
+nos efectos secundarios se presentan sólo cuando se combinan los medi-
+camentos contra el cáncer con otros medicamentos, con ciertos alimentos
+o con el alcohol.
+Estudios relativamente recientes indican la posibilidad de riesgos por
+exposición crónica a estos agentes en pequeñas cantidades. Las diferen-
+tes acciones tóxicas de estos medicamentos, así como factores asociados
+a las mismas, se recogen en las 12 tablas incluidas en el anexo IV. Estas
+tablas hacen referencia a las reacciones tóxicas que producen a los pa-
+cientes a los que se les administra, y constituyen un indicador del poten-
+cial riesgo que supone su absorción sistémica para el trabajador que los
+manipula.
+Sus acciones pueden ser de tipo:
+a)
+Irritante.
+b)
+Tóxico.
+c)
+Alérgico.
+La toxicidad más manifiesta para quienes preparan estos medicamentos
+en soluciones inyectables son las CUTÁNEAS o MUCOSAS (tablas 1 a 3
+del anexo IV). Tienen especial relevancia las reacciones de hipersensibili-
+dad inmediata y de anafilaxia sistémica (tablas 4 y 5 del anexo IV).
+También han sido descritas las debidas a inhalación de aerosoles de ta-
+les productos, afectando al tracto respiratorio (tabla 6 del anexo IV). En
+este sentido, se ha demostrado la presencia de 5-fluorouracilo en el aire de
+las salas en las que se prepara este compuesto. La pentamidina puede in-
+ducir broncoespasmo. La ribavirina puede provocar irritación del tracto res-
+piratorio.
+Hay, además, evidencias biológicas de la existencia de absorción sisté-
+mica de algunos de estos compuestos:
+a)
+Mutagenicidad urinaria: se ha observado la existencia de mutagenici-
+dad en la orina tanto de personal de enfermería que maneja medica-
+17
+
+mentos citostáticos como de técnicos de farmacia que los preparan.
+Este efecto se incrementa a medida que avanza la semana laboral y
+disminuye si dejan de manipularlos. Se ha observado también un
+descenso de tal efecto cuando mejoran las prácticas de manejo de
+citostáticos. Es destacable también el hecho de que se ha observado
+una mayor tasa de mutagenicidad en trabajadores que usan cámaras
+de flujo laminar horizontal que los que emplean cámaras de flujo la-
+minar vertical. En cualquier caso, hay que señalar que para la valora-
+ción de los resultados hay que considerar el hecho de que si el traba-
+jador es fumador y/o está permitido el fumar en la sala de trabajo va
+a influir en el resultado de las pruebas de mutagenicidad.
+b)
+Tioéteres urinarios: se trata de metabolitos de agentes alquilantes.
+Se ha observado un aumento de sus niveles en manipuladores de ci-
+tostáticos.
+c)
+Metabolitos urinarios: existen también estudios en los que se comu-
+nica la existencia de cisplatino, ciclofosfamida y pentamidina en orina
+de trabajadores que manejan tales medicamentos.
+En lo referente a efectos citogenéticos, éstos resultan difíciles de valo-
+rar, puesto que dependen en gran medida del tipo de medicamento, del nivel
+de exposición, de la susceptibilidad individual y del uso correcto o no de me-
+didas de protección. Se ha determinado la existencia de una gran variedad
+de aberraciones cromosómicas (como marcadores): intercambios entre cro-
+mátidas hermanas, aberraciones estructurales («gaps», roturas, transloca-
+ciones) y micronúcleos en linfocitos de sangre periférica.
+La carcinogenicidad en trabajadores no ha sido bien establecida, si
+bien se relaciona con cáncer de vejiga, carcinoma nasofaríngeo y leucemia.
+En cuanto a efectos reproductivos, se han documentado casos de
+abortos espontáneos y malformaciones, alteraciones en la menstruación e
+infertilidad.
+Los citostáticos que presentan un mayor riesgo para inducir emesis (ta-
+bla 7 del anexo IV) son: cisplatino, citarabina, dacarbazina y estreptozocina.
+La 5-hidroxi-triptamina (serotonina) parece ser el mediador principal de este
+reflejo en pacientes tratados, localizado tanto en tracto gastrointestinal co-
+mo en el sistema nervioso.
+Además de los efectos mencionados, podemos destacar:
+a)
+Daño hepatocelular, relacionado tanto con la intensidad como con la
+duración de la exposición a los citostáticos.
+18
+
+b)
+Síntomas tales como mareo, vértigo, nauseas, cefalea y reacciones alér-
+gicas (fundamentalmente cuando se trabaja en áreas mal ventiladas).
+Estos pueden deberse a otros efectos sistémicos de los citostáticos.
+c)
+Alteraciones de la función plaquetaria, toxicidad cardíaca y neurotoxi-
+cidad. No documentados en personal pero sí en pacientes ( tablas 9
+a 12 del anexo IV).
+3. EVALUACIÓN DEL RIESGO
+El marco legal laboral español de Prevención de riesgos laborales, deri-
+vado de las correspondientes Directivas europeas, define la evaluación de
+los riesgos como procedimiento general vinculado a la planificación de la ac-
+ción preventiva.
+Los posibles riesgos laborales derivados de la manipulación de los agen-
+tes citostáticos deben ser evaluados, y si no es posible su eliminación, adop-
+tar las medidas necesarias para su minimización.
+Los métodos analíticos cuantitativos, de control ambiental y control bioló-
+gico tienen, en este caso, limitaciones, por lo que con independencia de su
+empleo, la evaluación debería incluir la revisión de los métodos y condicio-
+nes de trabajo.
+Es recomendable, en la evaluación especifica de agentes citostáticos, la
+utilización de encuestas de autoevaluación como la reflejada en el documen-
+to del Instituto Nacional de Seguridad e Higiene en el Trabajo «Manejo de
+productos citostáticos»
+3.1. Control ambiental
+En situaciones de posible riesgo higiénico, es practica habitual la realiza-
+ción de muestreos ambientales en el puesto de trabajo, como método de
+evaluación específica de riesgos, vinculada o no, según los casos, al control
+biológico.
+En este caso la medición ambiental no será una técnica de evaluación
+abordable sistemáticamente por cuanto:
+—
+No existen valores de referencia para establecer situaciones seguras.
+—
+No existen con carácter general métodos reglados para definir las
+técnicas de muestreo y análisis.
+19
+
+—
+En la exposición al agente citostático existe significativa posibilidad
+de penetración vía dérmica, parenteral y digestiva, incluso de carác-
+ter acccidental.
+Parece, en consecuencia, que las posibles mediciones de concentracio-
+nes ambientales serán útiles para realizar comparaciones entre diversas si-
+tuaciones, determinar la eficacia de cabinas, evidenciar la presencia de
+agentes y controlar la difusión de agentes a otras zonas.
+En cualquier caso estas mediciones las realizará el Servicio de Prevención,
+definido en el Reglamento de los Servicios de Prevención (R.D. 39/1997, de
+17 de enero, por el que se aprueba el Reglamento de los Servicios de Pre-
+vención).
+3.2. Monitorización biológica de agentes citostáticos
+Tras la revisión realizada sobre los distintos medios de control biológico
+de los riesgos de exposición a citostáticos, nos encontramos con la dificul-
+tad de seleccionar un indicador que sea lo suficientemente sensible y espe-
+cífico para poder hacer un seguimiento del personal expuesto.
+Los test más adecuados son los de genotoxicidad. Aunque la cuantifica-
+ción de la tasa de intercambio de cromátides hermanas (SCE) parezca más
+indicada que la medida de aberraciones cromosómicas, no se puede justifi-
+car su utilización sistemática en la monitorización biológica de los trabajado-
+res expuestos. Existen numerosos factores que restan sensibilidad y especi-
+ficidad a este test. A ello se puede añadir el hecho de que los estudios reali-
+zados en personal expuesto no ofrecen resultados concluyentes además de
+la laboriosidad de esta técnica, que no se realiza de forma habitual. No se
+debe ignorar la ansiedad que puede generar en las personas expuestas el
+hallazgo de resultados elevados, máxime si la interpretación del test es du-
+dosa. No existen criterios de actuación validados a recomendar en el mo-
+mento actual.
+La Vigilancia sanitaria del personal expuesto a citostáticos tendrá como
+pilar fundamental la adopción de medidas rigurosas de manejo seguro de
+estos medicamentos, de ahí la utilidad de guías de buenas prácticas de ma-
+nejo de citostáticos, y de ello se deriva la inclusión de unas normas al res-
+pecto en el apéndice que acompaña a este protocolo.
+A continuación se enumeran los test actuales más interesantes. De acuer-
+do con su especificidad y sensibilidad, los más indicados son:
+20
+
+3.2.1. Test de monitorización biológica de exposición
+3.2.1.1. Métodos no selectivos, se miden las propiedades comunes
+(como la mutagenicidad) de un grupo químico determinado
+—
+Mutagenicidad urinaria, (Test de Ames): algunos medicamentos
+citostáticos son compuestos alquilantes y expresan su actividad
+cuando interaccionan con el ADN, mediante un enlace covalente. Es-
+ta interacción da lugar a mutaciones. El test mide el número de muta-
+ciones producidas cuando cierto tipo de bacterias manipuladas ge-
+néticamente para que sean deficientes en síntesis de aminoácidos,
+se exponen a fluidos contaminados con sustancias mutágenos, pero,
+es útil solamente durante el tiempo que el medicamento está siendo
+excretado, usualmente 1,2 días. Los resultados no son específicos y
+pueden estar alterados por diversos factores como fumar, dietas, me-
+dicamentos, exposición a sustancias mutágenas del ambiente, etc.
+—
+Determinación de tioéteres urinarios: algunos agentes antineoplá-
+sicos alquilantes se conjugan con el glutation formando tioéteres. La
+presencia de estas sustancias en la excreción urinaria se asocia a
+una potencial exposición a estos compuestos. Los resultados de este
+método están alterados en personas fumadoras,y se han obtenido
+resultados variables en pacientes tratados con citostáticos y según la
+actividad de la glutation S-transferasa.
+3.2.1.2. Métodos selectivos
+—
+Análisis químicos: la cantidad o concentración en sangre u orina de
+un compuesto particular o de sus metabolitos se determina usando
+un método de análisis químico. Debido a la reactividad química, vías
+de biotransformación complejas y al esperado bajo nivel de exposi-
+ción, los niveles de citostáticos o de sus metabolitos en orina o san-
+gre que pueden encontrarse son bajos, por lo que son necesarios
+métodos muy sensibles.
+Se pueden detectar concentraciones de ciclofosfamida, cisplatino, 5-
+fluorouracilo, ifosfamida y metotrexato en orina de manipuladores uti-
+lizando métodos de alto grado de especificidad y sensibilidad como
+espectrofotometría de masas (0,1 ng/mL en orina).
+El método más específico y más sensible es la determinación de ci-
+clofosfamida en orina. Los resultados de varios estudios han demos-
+21
+
+trado que durante la preparación y administración de citostáticos, in-
+cluyendo ciclofosfamida, los trabajadores estuvieron internamente
+expuestos a este medicamento en particular. Trazas de este fueron
+también detectadas en técnicos de farmacia que no preparaban ci-
+clofosfamida y aunque la vía de penetración no pudo ser identificada,
+se concluyó que la inhalación no fue probablemente la única vía im-
+plicada. Estos resultados, especialmente los que mostraron la excre-
+ción urinaria de ciclofosfamida en trabajadores no involucrados en la
+preparación y administración de este fármaco, demuestran el valor
+de este método de monitorización biológica.
+3.2.2. Test de monitorización de los efectos
+3.2.2.1. Métodos citogenéticos, son tres:
+—
+Análisis de intercambio de cromátides hermanas.
+—
+Proliferación micronucleica en linfocitos sanguíneos.
+—
+Análisis de aberraciones cromosómicas.
+Son métodos no selectivos, lo cual significa que los efectos registrados
+podrían ser causados por otros factores, si bien son frecuentemente utiliza-
+dos como marcadores de la exposición ocupacional a medicamentos citos-
+táticos. Los efectos medidos por la rotura de cromátides hermanas y abe-
+rraciones cromosómicas son acumulativos y por lo tanto, los efectos me-
+didos en un tiempo determinado son debidos a la suma de las exposiciones
+anteriores.
+Los resultados de estudios de aberraciones cromosómicas en linfocitos
+de sangre periférica y niveles de ciclofosfamida en orina en trabajadores
+que preparaban y administraban citostáticos y en concreto ciclofosfamida,
+sugieren que, niveles de ciclofosfamida mayores de 2,9 mcg/24h podrían
+traducirse en efectos biológicos a largo plazo tales como aberraciones cro-
+mosómicas. Por lo tanto ya que las aberraciones cromosómicas se pueden
+considerar como un indicador de un incremento del riesgo genético, las con-
+centraciones de ciclofosfamida en orina pueden no solo indicar absorción de
+esta sino un serio riesgo.
+Un método menos usado es la formación de micronúcleos, que es un
+indicador indirecto de rotura cromosómica. Los micronúcleos se forman
+cuando los fragmentos de cromosomas no se incorporan dentro del núcleo
+de las células hijas durante la división celular. La edad es un factor de confu-
+22
+
+sión cuando usamos proliferación de micronúcleos, ya que éstos aumentan
+con la edad. Los micronúcleos y las roturas cromosómicas están altamente
+correlacionados y poseen similares ventajas y desventajas como indicadores
+de daño celular. Son fácilmente medibles, pero tienen mucha variabilidad.
+3.2.2.2. Mutaciones puntuales
+Otra técnica para la monitorización de efectos biológicos es la determina-
+ción de la frecuencia de la mutación a nivel de la hipoxantina guanina fosfo-
+ribosil transferasa (HGPRT) en linfocitos como indicador de exposición a
+compuestos genotóxicos. Puede ser útil, pues es sensible para medir estas
+mutaciones, pero, en este sentido, hay pocos estudios con agentes cancerí-
+genos por lo que es difícil determinar su utilidad.
+3.2.2.3. Daños en el ADN
+Estudios recientes realizados con la técnica COMET ( electroforesis de
+células aisladas en gel, en condiciones alcalinas ), que miden daños en el
+ADN de células mononucleares de sangre periférica , dieron como resultado
+un incremento de ADN dañado en trabajadores implicados en la administra-
+ción y preparación de citostáticos comparados con grupos de trabajadores
+no expuestos a estos agentes y; dentro del grupo de expuestos el ADN da-
+ñado en trabajadores que utilizaban medidas de protección adecuadas en
+su trabajo fue significativamente inferior frente a los que no las utilizaban.
+Conclusiones:
+No hay un método específico que relacione exactamente el grado de ex-
+posición a medicamentos citostáticos y sus consecuencias para la salud.
+Además para la mayoría de las determinaciones con las técnicas actuales
+influyen otros factores como edad, sexo, dieta, hábitos de fumar, exposición
+a radiaciones, ultrasonidos, e ingesta de medicamentos.
+Un método selectivo como la determinación de ciclofosfamida en orina,
+junto con la determinación de aberraciones cromosómicas en el ADN de tra-
+bajadores expuestos podría ser considerado indicativo de un nivel de expo-
+sición y un factor de riesgo en personas fumadoras.
+Teniendo en cuenta lo anterior, se considera fundamental para reducir la ex-
+posición a estos medicamentos, la utilización de medidas protectoras basadas
+en protocolos de actuación. De ahí, como ya quedó expuesto anteriormente, la
+23
+
+introducción como apéndice de este protocolo de una guía de manejo de citos-
+táticos, pues hasta el momento actual, se considera la primera y más impor-
+tante medida para evitar y controlar la exposición a agentes citostáticos.
+4. PROTOCOLO MÉDICO ESPECÍFICO
+En el caso de los citostáticos, la naturaleza del riesgo, es decir la carci-
+nogenicidad y mutagénicidad de muchos de ellos, y, al tratarse, en la mayo-
+ría de los casos de exposiciones múltiples y combinadas, obliga a la adop-
+ción de unos niveles máximos de prevención para que la exposición sea la
+mínima posible. Por tanto, dentro del concepto protección sanitaria de los
+trabajadores frente a la exposición a citostáticos, cabe siempre la existencia
+de algún grado de riesgo, independiente del nivel de exposición. Es por ello
+que la vigilancia médica debe formar parte de los procedimientos propios de
+prevención laboral frente a la exposición a citostáticos.
+Para la detección y el control de los efectos sobre la salud relacionados
+con la actividad laboral, y de conformidad tanto con lo dispuesto en el apar-
+tado 3 del artículo 37 del Real Decreto por el que se aprueba el Reglamen-
+to de los Servicios de Prevención, los reconocimientos y evaluaciones médi-
+cas de estos manipuladores deberían ser realizados
+❖
+Al Inicio, tras su incorporación al puesto de trabajo de riesgo.
+❖
+Periódicamente durante la vida laboral en dicho puesto de trabajo.
+❖
+Tras una exposición accidental aguda.
+❖
+Tras ausencia prolongada del trabajo.
+❖
+En el momento de dejar el trabajo de manipulación (por cese, jubila-
+ción o cambio de puesto).
+La información obtenida en tales reconocimientos ha de ser recogida y
+analizada de forma sistemática, con el fin de identificar factores de riesgo.
+4.1. Historia laboral
+4.1.1. Exposiciones anteriores utilizando productos con efectos
+similares a los citostáticos, definiendo:
+—
+Productos usados.
+—
+Años de exposición.
+24
+
+—
+Horas de exposición a la semana.
+—
+Número de semanas de exposición.
+4.1.2. Características del puesto de trabajo que va a realizar:
+—
+Tiempo de exposición, descripción de los productos y de las tareas
+—
+Tiempo de exposición en % de la jornada laboral
+—
+Utilización o presencia de medidas de prevención, con una descrip-
+ción detallada
+4.2. Historia clínica
+4.2.1. Anamnesis
+❏
+Antecedentes personales de interés.
+I
+Historia de patologías previas.
+I
+Se recogerá información detallada sobre:
+•
+Tratamientos previos de quimioterapia y radioterapia.
+•
+Historia de alergia a citostáticos.
+•
+Historia de alteraciones hematopoyéticas.
+•
+Historia de embarazos, abortos, alteraciones fetales y malfor-
+maciones congénitas en los hijos.
+•
+Planificación de un embarazo a corto plazo.
+•
+Pruebas diagnósticas radiológicas recientes.
+•
+Inmunodeficiencias congénitas o adquiridas.
+•
+Alteraciones de la funcionalidad hepática o renal.
+❏
+Antecedentes familiares de interés
+I
+Historia reproductiva.
+I
+Antecedentes de neoplasias.
+I
+Alteraciones hepáticas.
+I
+Antecedentes de discapacidades psíquicas relacionadas con al-
+teraciones cromosómicas.
+25
+
+❏
+Hábitos de consumo o de ocio que puedan potenciar el riesgo
+I
+Consumo de tabaco: años, cigarrillos/día.
+I
+Consumo de otros estimulantes
+I
+Hábitos de exposición solar
+4.2.2. Exploración clínica específica
+—
+Inspección detallada de piel y mucosas.
+—
+Auscultación cardiopulmonar.
+—
+Exploración de ganglios y/o cadenas linfáticas.
+—
+Exploración del sistema nervioso: pares craneales, marcha, reflejo-
+sosteotendinosos, sensibilidad táctil.
+—
+Palpación abdominal, con especial interés en las alteraciones hepá-
+ticas.
+4.3. Control biológico y pruebas complementarias específicas
+—
+Pruebas de laboratorio específicas de los órganos diana u órgano es-
+tudiado, que incluirán: hemograma completo, pruebas de función he-
+pática (GOT, GPT y GGT), determinación de urea, creatinina. Análisis
+completo de orina (bioquímico y morfológico).
+—
+En el caso de manipuladores de pentamidina y ribavirina, y otros ci-
+tostáticos que afecten la función pulmonar, espirometría.
+—
+Marcadores virológicos de hepatitis
+4.4. Seguimiento
+4.4.1. Reconocimiento periódico
+Su finalidad es poner al día la historia médica reproductiva y de exposi-
+ción. El intervalo recomendado para la realización de los reconocimientos
+periódicos será de 3 años, basándose en las directrices de los estamentos
+internacionales más prestigiosos a nivel de salud laboral, como la Occupa-
+tional Safety and Health Administration (OSHA), del U.S. Department of La-
+26
+
+bor, de Estados Unidos, salvo circunstancias especiales que aconsejen su
+modificación.
+4.4.1.1. Historia Laboral
+—
+Exposiciones anteriores desde el último reconocimiento, definiendo
+los mismos parámetros que en el reconocimiento de inicio al trabajo,
+pero en el periodo de tiempo desde el último reconocimiento.
+—
+Exposición actual al riesgo.
+—
+Tiempo de exposición, descripción de los productos y de las tareas.
+—
+Tiempo de exposición en % de la jornada laboral.
+—
+Duración de la exposición en años.
+—
+Utilización o presencia de medidas de prevención.
+4.4.1.2. Historia Clínica
+—
+Historia reproductiva, desde el último reconocimiento
+—
+Existencia de síntomas relacionados con la exposición a citostáticos:
+suelen ser vagos e inespecíficos, por lo que es necesaria una inter-
+pretación prudente de la presencia de estos síntomas. Indagar sobre
+la posible asociación de su aparición con la exposición a alguna sus-
+tancia en concreto:
+—
+Náuseas.
+—
+Cefaleas.
+—
+Vómitos.
+—
+Aturdimiento.
+—
+Vértigo.
+—
+Pérdida de cabello.
+—
+Malestar general.
+—
+Hiperpigmentación cutánea.
+—
+Irritación de piel y mucosas.
+—
+Prurito.
+27
+
+—
+Erupción urticariforme.
+—
+Medicación, pruebas diagnósticas y hábitos de consumo o de ocio
+que puedan potenciar el riesgo.
+—
+Pruebas diagnósticas radiológicas recientes / radiaciones recibidas
+desde el último reconocimiento.
+—
+Medicación recibida desde el último reconocimiento.
+—
+Cambios en el hábito tabáquico desde el último reconocimiento.
+—
+Consumo de otros estimulantes.
+—
+Hábitos de exposición solar.
+4.4.1.3. Exploración física, control biológico y pruebas complementarias
+específicas
+Exploración física, control biológico y pruebas complementarias específi-
+cascomprenderán la misma exploración y control biológico que el protocolo
+de inicio.
+4.4.2. Reconocimiento tras una exposición aguda
+Tras un accidente que suponga exposición, el examen se focalizará en el
+área afectada por tal exposición. Han de existir protocolos de emergencia.
+Las medidas recomendadas y su posible tratamiento tras una exposición
+aguda, aparecen en la guía para la manipulación de agentes citostáticos,
+como apéndice de este protocolo.
+Se valorará la realización de controles biológicos con estudios citogenéti-
+cos para monitorizar los efectos de exposiciones agudas importantes.
+4.4.3. Reconocimiento tras ausencia prolongada
+Tras una ausencia prolongada, se valorarán las posibles influencias del
+trabajo en la nueva situación del trabajador o posibles secuelas que imposi-
+biliten para la realización de su trabajo habitual.
+28
+
+4.4.4. Reconocimiento final
+El que se debe realizar cuando finalice definitivamente esta actividad la-
+boral. Seguirá el perfil de reconocimiento periódico.
+4.5. Criterios de valoración
+Apto: se considerará trabajador apto aquel que una vez realizado el exa-
+men de salud específico basado en este protocolo, no presenta ninguna pa-
+tología o circunstancia que contraindique la incorporación a dicho puesto de
+trabajo.
+No apto permanente:
+—
+Alérgicos/as a los agentes citostáticos y/o con patología dermatológi-
+ca importante.
+—
+Mujeres con historia de abortos en edad fértil y con voluntad de re-
+producción.
+—
+Personas que trabajen con radiaciones ionizantes, (el personal que
+trabaja regularmente con citostáticos no debe ser expuesto a radia-
+ciones ionizantes que excedan los 15 mSv por año).
+—
+Personal que previamente haya recibido tratamientos citostáticos o
+inmunosupresores.
+—
+Personal en el que se sospeche daño genético, y aquel cuyos pará-
+metros biológicos les descarten para este tipo de trabajo, serán valo-
+rados según criterio médico.
+—
+Inmunodeprimidos.
+No apto temporal: las embarazadas y madres lactantes y cualquier per-
+sona que presente otra condición de susceptibilidad particular de carácter
+temporal.
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+MÉDICO ESPECÍFICO
+El protocolo de vigilancia de los trabajadores expuestos a los agentes ci-
+tostáticos se cumplimentará de acuerdo con los apartados del Anexo I.
+29
+
+En la actualidad no existe ninguna escala de evaluación de niveles de
+riesgo o de exposición validadas, por lo que se deberá recoger la informa-
+ción de la forma más detallada y exhaustiva posible y que permita su análi-
+sis futuro.
+6. CONDUCTA A SEGUIR SEGÚN LA APTITUD DEL TRABAJADOR
+6.1. Trabajador apto
+Información del riesgo.
+6.2. Trabajador no apto
+a)
+Temporal, apartarlo hasta que desaparezca la causa (período de
+lactancia, embarazo…..).
+b)
+Permanente, intentar la readaptación del puesto de trabajo.
+Estudio de embarazadas
+Partiendo de la evaluación inicial del riesgo, se identificarán los puestos
+con riesgo para la reproducción.
+Una vez se notifique voluntariamente la situación de embarazo, se reali-
+zará una evaluación adicional de las condiciones de trabajo de esa trabaja-
+dora. En el caso de presentar riesgo para el embarazo se deberá realizar un
+cambio del puesto de trabajo, según el artículo 26 apartado 2 de la LPRL
+(Ley de Prevención de Riesgos laborales).
+Si dicho cambio de puesto por otro compatible, no resulta técnica u obje-
+tivamente posible, o no pueda razonablemente exigirse por motivos justifica-
+dos, se debería de considerar la posibilidad de situación protegida de riesgo
+durante el embarazo.
+Criterios de formación e información sobre los riesgos
+Se instará, si fuera necesario, a los responsables directos de la persona
+que se incorpora al puesto con potencial riesgo de exposición a citostáticos
+para que realice la formación y el entrenamiento adecuado de la misma,
+hasta obtener una garantía de manejo seguro de dichos medicamentos.
+30
+
+Al trabajador expuesto:
+Debe darse formación suficiente y adecuada e información precisa basa-
+da en todos los datos disponibles, en particular en forma de instrucciones,
+en relación con:
+—
+Los riesgos potenciales para la salud, incluidos los riesgos adiciona-
+les debidos al consumo de tabaco y a los posibles efectos sobre el fe-
+to, haciendo hincapié en la importancia de una notificación inmediata
+ante cualquier sospecha de embarazo en una trabajadora en situa-
+ción de embarazo.
+—
+Las precauciones que se deberán tomar para prevenir la exposición.
+—
+Las disposiciones en materia de higiene personal.
+—
+La utilización y empleo de equipos y ropa de protección.
+—
+Las consecuencias de la selección, de la utilización y del empleo de
+equipos y ropa de protección.
+—
+Las medidas que deberán adoptar los trabajadores, en particular el
+personal de intervención, en caso de incidentes y para su prevención
+—
+Las instalaciones que contengan agentes citostáticos
+Los trabajadores tendrán acceso a la información contenida en la docu-
+mentación relativa a evaluaciones, historiales, etc., cuando dicha informa-
+ción les concierna a ellos mismos.
+En términos generales, los representantes de los trabajadores o, en su
+defecto, los propios trabajadores tendrán acceso a cualquier información co-
+lectiva anónima.
+Asimismo los representantes de los trabajadores y los trabajadores afec-
+tados deberán ser informados de las causas que hayan dado lugar a las ex-
+posiciones accidentales y a las exposiciones no regulares así como de las
+medidas adoptadas o que se deban adoptar para solucionar la situación(ar-
+tículo 36 de la Ley 31/1995 de Prevención de riesgos laborales).
+7. DATOS A REMITIR A LAS ADMINISTRACIONES SANITARIAS
+Se encuentran contenidos en el documento del Conjunto mínimo de da-
+tos que los Servicios de Prevención deben remitir a las administraciones sa-
+nitarias, aprobado por la Comisión de Salud Pública el 17 de diciembre de
+1998, y que consta de:
+31
+
+—
+Datos generales del centro de trabajo.
+—
+Datos sobre la exposición laboral y relación actualizada de trabajado-
+res potencialmente expuestos.
+—
+Datos sobre los daños derivados del trabajo.
+Además se deberían guardar los historiales médicos 40 años después de
+terminada la exposición.
+8. LEGISLACIÓN APLICABLE
+— Directiva 89/391/CEE, de 12 de junio, relativa a las medidas para pro-
+mover la mejora de la seguridad y la salud de los trabajadores en el tra-
+bajo (Directiva marco en materia de seguridad y salud en el trabajo)
+— Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales,
+BOE nº 269, de 10 de noviembre de 1995.
+— Real Decreto 39/1997, de 17 de enero por el que se aprueba el Regla-
+mento de los Servicios de Prevención, BOE nº 27 de 31 de enero de
+1997.
+— R.D. 1078/1993, de 2 de julio, sobre clasificación, envasado y etiquetado
+de preparados peligrosos. Modificado por el R.D. 363/1995, de 10 de
+marzo. Actualizado por O.M. de 20 de febrero de 1995, por R.D.
+1425/1998, de 3 de julio y por O. M. de 8 de enero de 1999.
+— R.D. 363/1995, de 10 de marzo, reglamento sobre notificación de sus-
+tancias nuevas, y clasificación, envasado y etiquetado de sustancias pe-
+ligrosas. Modificado por O. M. De 13 de septiembre de 1995, Orden del
+21 de febrero de 1997, R.D. 700/1998 de 24 de abril, O.M. de 30 de junio
+de 1998, O.M. de 11 de septiembre de 1998, O. M. de 16 de julio de
+1999, O. M. de 5 de octubre de 2000, O.M. de 5 de abril de 2001 y Real
+Decreto 507/2001.
+— R.D. 665/1997, de 12 de mayo, sobre protección de los trabajadores con-
+tra riesgos relacionados con la exposición a agentes cancerígenos du-
+rante el trabajo (B.O.E. de 24 de mayo de 1997).
+— R.D. 1124/2000, de 16 de junio por el que se modifica el Real Decreto
+665/1997, de 12 de mayo, sobre la protección de los trabajadores contra
+los riesgos relacionados con la exposición a agentes cancerígenos du-
+rante el trabajo (B.O.E. nº 145 de 17 de junio de 2000).
+32
+
+— R.D. 374/2001, de 6 de abril sobre la protección de la salud y seguridad
+de los trabajadores contra los riesgos relacionados con los agentes quí-
+micos durante el trabajo.
+9. BIBLIOGRAFÍA
+1. Falk, K., y cols.: Mutagenicity in urine of nurses handling cytostatic
+drugs. Lancet 1979; 9: 1250.
+2. Directiva 90/394/CEE, de 28 de junio relativa a la protección de los tra-
+bajadores contra los riesgos relacionados con la exposición a agentes
+cancerígenos durante el trabajo del DOCE L. 196/1 de 26 de julio de
+1990.
+3. IARC (International Agency for Research on Cancer), overall evalua-
+tions of carcinogenicity to humans.
+4. Goodman&Gilman. Las Bases Farmacológicas de la Terapéutica. 9ª edi-
+ción.1996.
+5. Gabriele P, Airoldi M, Succo G et al. Undifferentiated nasopharyngeal-
+type carcinoma in a nurse handling cytostatic agents. Eur J Cancer B
+Oral Oncol. 1993; 29:153.Letter
+6. Hemminki, K., Kyyronen, P., and Lindbohm, M.L. Spontaneous abortions
+and malformations in the offspring of nurses exposed to anaesthetic ga-
+ses, cytostatic drugs, and other potential hazards in hospitals, based on
+registered information of outcome. J Epidem Comm Health.1985; 39:
+141-147.
+7. Levin Ll, Holly EA, Seward JP. Bladder cancer in a 39-years-old female
+pharmacist. J Natl Cancer Inst. 1993; 85: 1.089-90
+8. Shortbridge LA,Lemasters GK, Valanis B et al. Menstrual cycles in nur-
+ses handling antineoplastic drugs. Cancer Nurs. 1995; 18:439-44
+9. Skov T, Maarup B, Olsen J et al. Leukaemia and reproductive outcome
+among nurses handling antineoplastic drugs. Br J Ind Med. 1992; 49:
+855-61
+10. Sotaniemi EA, Sutinen S, Arranto AJ et al. Liver damage in nurses han-
+dling cytostatic agents. Acta Med Scand. 1983; 214;1 81-9.
+11. Valanis B, Vollmer W, Labuhn K, Glass A. Occupational exposure to an-
+tineoplastic agents and self-reported infertility among nurses and phar-
+macists JOEM 1997; 39(6): 574-580.
+33
+
+12. Niklasson B, Bjorkner B, Hansen L. Occupational contact dermatitis
+from antitumor agent intermediates, Contact dermatitis. 1990; 22:233-5
+13. Instituto Nacional de Seguridad e Higiene en el trabajo. C. Heras «Ma-
+nejo de productos citostáticos». ET.060. 1995.
+14. Controlling occupational exposure to hazardous drugs. Am J Health-
+SystPharm 1996; 53: 1669-85.
+15. Ellen S Baker, Thomas H. Connor. Review article. Monitoring occupatio-
+nal exposure to cancer chemotherapy drugs, Am J Health-Syst Pharm
+1996; 53: 2.713-23
+16. Fucic A., Jazbec A., Mijic A., Seso-Simic D., Tomek R. Cytogenetic con-
+sequences after occupational exposure to antineoplastic drugs. Muta-
+tion Research 1998; 416:59-66.
+17. Hirst M, Tse S, Mills DG et al. Occupational exposure to cyclophospha-
+mide. Lancet. 1984; 1: 186-8
+18. Machado-Santelli G., Marcilio Cerqueira E., Tosello Oliveira C., de Bra-
+ganca Pereira CAA. Biomonitoring of nurses handling antineoplastic
+drugs. Mutation Research 1994; 322: 203-8.
+19. Minoia C., Turci R., Sottani C., Schiavi A., Perbellini L., Angeleri S. Et al.
+Application od High Performance Liquid Chromatography/tamden Mass
+Spectrometry in the Environmental and Biological Monitoring of Health
+Care Personnel Occupationally Exposed to Cyclophosphamide and
+Ifosfamide. Rapid Commun. Mass Spectrom 1998; 12: 1.485-93.
+20. Newman MA., Valanis BG., Schoeny RS., Que Hee S. Urinary biological
+monitoring markers of anticancer drug exposure in oncology nurses. Am
+J Public Health 1994; 84(5): 852-5.
+21. Sessink PJM., Cerná M., Rösner P., Pastorková A., Bavarová H., Fran-
+ková K. Et al. Urinary ciclophosphamide excretion and chromosomal
+aberrations in peripheral blood lymphocytes after occupational exposu-
+re to antineoplastic agents. Mutation Research 1994; 309: 193-9.
+22. Sessink PJ, Wittenhorst BC, Anzion RB, Bos RP, «Exposure of Phar-
+macy technicians to antineoplastic agents: reevaluation after additional
+protective measures» Arch Environ Health 1997; 52(3): 240-4
+23. Sessink PJ, Verplanke A.J.W., Herber R.F.M., Bos RP, «Occupational
+exposure to antineoplastic agents and agents and parameters for renal
+dysfunction» Arch Environ Health 1997; 69: 215-218.
+34
+
+24. Sessink PJ, Bos RP, Review Article «Drugs Hazardous to Healthcare
+workers. Evaluation of methods for Monitoring Occupational Exposure
+to Cytostatic Drugs. Drugs Safety 1999; 20(4): 347-359.
+25. Sessink PJM., Boer KA., Scheefhals APH., Anzion RBM., Bos RP. Oc-
+cupational exposure to antineoplastic agents at several departments in
+a hospital. Int Arch Occup Environ Health 1992; 64: 105-12.
+26. Sessink PJM., Anzion RB., Van der Broek PHH., Bos RP. Detection of
+contamination with antineoplastic agents in a hospital pharmacy depart-
+ment. Pharmaceutisch Weekblad Scientific edition 1992; 14(1): 16-22.
+27. Undeger U., Basaran N., Kars A., Gúç D. Assessment of DNA damage
+in nurses handling antineoplastic drugs by the alkaline COMET assay.
+Mutation Research 1999; 439: 277-85.
+28. Alvarez Maeztu, E. Protocolo sanitario de vigilancia médica de los tra-
+bajadores expuestos a citostáticos en Eguileor Gurtubai I. Salu laboral:
+Protocolos sanitarios específicos de vigilancia médica de los trabajado-
+res (IV). Servicio central de publicaciones del Gobierno Vasco. Vitoria-
+Gasteiz, 1993:149-183.
+29. Buchner BS, Lichtestain LM. Anafilaxis. N Engl J Med 1991; 324: 1.785-
+1.790.
+30. Calbo Torrecilla F, Bautista Navajas JM, Deoña Compán S. Capítulo 20
+Citostáticos del libro Riesgos de trabajo del personal sanitario. Gestal
+Otero JJ, 2ª Edición. Mc Graw-Hill Interamericana de España, 1993.
+31. OSHA Technical Manual, Section V, Chapter 3. Controlling Occupational
+Exposure to Hazardous Drugs. 1995.
+32. Reconocimientos médicos preventivos para trabajadores Serie A núme-
+ro 32 Generalitat valenciana 1998.
+33. Reynolds RD, Ignoffo R, Lawrence J et al. Adverse reactions to AMSA in
+medical personnel. Cancer Treat Rep. 1982; 66: 1885. Letter.
+34. The directorate of labour inspection. Guidelines concerning the handling
+of cytostatic agentes. Oslo, Noruega, 1977. Entra en vigor en 1981.
+35. Unidad de Dosificación de Citostáticos del Hospital «Juan Canalejo» de
+La Coruña. Protocolo.
+35
+
+
+ANEXO I
+HOJA DE RECOGIDA DE DATOS DEL TRABAJADOR EXPUESTO A
+AGENTES CITOSTÁTICOS
+Datos del reconocimiento
+Tipo de examen .............................................................................................
+Fecha ..........................de ..............................................................de ............
+Facultativo del Servicio de Prevención ...........................................................
+Nº de colegiado...............................................................................................
+Datos personales
+Apellidos .........................................................................................................
+Nombre ...........................................................................................................
+Sexo ........................................................
+Fecha de nacimiento ...............................
+Domicilio .........................................................................................................
+Localidad.........................................................................................................
+Provincia .........................................................................................................
+Datos de la empresa
+Nombre de la empresa ...................................................................................
+CNAE ......................................................
+Teléfono...................................................
+Localidad.................................................
+Centro de Trabajo............................................................................................
+Provincia .........................................................................................................
+37
+
+Datos del trabajador
+Puesto de trabajo............................................................................................
+Antigüedad en años ........................................................................................
+Datos del puesto de trabajo actual
+CNO (Código Nacional de Ocupación) ...........................................................
+¿Qué productos usa? .....................................................................................
+Horas exposición al día...................................................................................
+Medidas de prevención que usa,
+guantes .................................................................................................
+batas......................................................................................................
+cabinas ..................................................................................................
+otras.......................................................................................................
+Datos de puestos anteriores con empleo de citostáticos u otros
+genotóxicos o cancerígenos
+Tipo .................................................................................................................
+años expos ..............................................
+h. exposición/semana..............................
+nº semanas de exposición.......................
+medidas seguridad..................................
+Tipo .................................................................................................................
+años expos ..............................................
+h. exposición/semana..............................
+nº semanas de exposición.......................
+medidas seguridad..................................
+Tipo .................................................................................................................
+años expos ..............................................
+h. exposición/semana..............................
+nº semanas de exposición.......................
+medidas seguridad..................................
+Tipo .................................................................................................................
+años expos ..............................................
+h. exposición/semana..............................
+nº semanas de exposición.......................
+medidas seguridad..................................
+38
+
+Antecedentes de interés
+Personales
+Tratamientos previos de quimioterapia y radioterapia.....................................
+Pruebas radiológicas recientes.......................................................................
+Alergias a citostáticos .....................................................................................
+Alteraciones hematopoyéticas ........................................................................
+Historia reproductiva:
+Lactancia actual ..............................................................................................
+Embarazo actual .............................................................................................
+Hijos ................................................................................................................
+Abortos............................................................................................................
+Alteraciones fetales.........................................................................................
+Malformaciones congénitas ............................................................................
+Familiares
+Historia reproductiva .......................................................................................
+Antecedentes de neoplasias...........................................................................
+Alteraciones hepáticas....................................................................................
+Antecedentes de discapacidades psíquicas familiares...................................
+Hábitos
+Cigarrillos/día/ años ........................................................................................
+Consumo de otros estimulantes......................................................................
+Hábitos de exposición solar ............................................................................
+39
+
+
+ANEXO II
+PAUTAS DE TRATAMIENTO FARMACOLÓGICO DE LA ANAFILAXIA
+SISTÉMICA EN ADULTOS
+Debido al riesgo potencial que supone una reacción anafiláctica sistémi-
+ca, parece conveniente unas nociones acerca de su tratamiento, que pue-
+den ser útiles como orientación para el Servicio de Prevención.
+41
+
+Tabla 1
+TRATAMIENTO FARMACOLÓGICO DE LA ANAFILAXIA SITÉMICA EN ADULTOS
+REACCIONES CUTÁNEAS Y DE LA VÍA AÉREA1 
+Agente
+Indicaciones
+Dosificación
+Objetivos
+Complicaciones
+Terapia inicial
+Epinefrina
+• Broncoespasmo.
+• Edema laríngeo.
+• Urticaria.
+• Angioedema.
+0,3-0,5 mL diluídos
+1/1000 (0,3-0,5 mg)
+subcutáneos cada
+10-20 min .
+Mantener la
+permeabilidad de
+la vía aérea,
+reducir la
+extravasación de
+fluídos y el prurito.
+• Arritmias.
+• HTA.
+• Nerviosismo.
+• Temblor.
+Oxígeno
+• Hipoxemia.
+40-100%.
+Mantener la
+permeabilidad de
+la vía aérea PO2
+≤60 mm Hg .
+Ninguna.
+Meta-Proterenol2
+• Broncoespasmo.
+0,3 mL (solución al
+5%) en 2,5 mL de
+suero salino,
+inhalado con
+nebulizador.
+Mantener la
+permeabilidad de
+la vía aérea.
+• Arritmias.
+• HTA.
+• Nerviosismo.
+• Temblor.
+Terapia secundaria3
+Aminofilina
+• Broncoespasmo.
+Como dosis de
+ataque, si es
+necesario, 6 mg/Kg
+IV durante 30
+minutos; 0,3-0,9
+mg/Kg/hora IV
+como dosis de
+mantenimiento4
+Mantener la
+permeabilidad de
+la vía aérea.
+• Arritmias.
+• Nauseas.
+• Vómitos.
+Corticoides
+• Broncoespasmo.
+250 mg de
+hidrocortisona o 50
+mg de metilpredni-
+solona IV cada 6
+horas, 2-4 dosis.
+Evitar o disminuirla
+duración de
+reacciones tardías.
+• Hiperglucemia.
+• Retención de
+líquidos.
+Anti-Histamínicos
+• Urticaria.
+25-50 mg de
+hidroxizina o
+difenhidramina IM u
+oral cada 6-8 horas
+si fuese preciso.
+300 mg de
+cimetidina IV u oral
+cada 6 horas.
+Reduce el prurito,
+antagoniza los
+efectos
+histamínicos H1 y
+H2
+• Sequedad de
+boca.
+• Retención
+urinaria.
+42
+Tomado de Bochner BS, Lichtenstein LM. Anafilaxis. N Engl J Med; 324: 1.785-1.790, 1991.
+1 Dosis, elección del agente específico, eficacia y seguridad deben ser individualizados.
+2 Se pueden utilizar también albuterol (0,5 mL en solución al 0,5% en 2,5 mL de suero salino) o isoetarina (0,5
+mL en solución al 0,5% en 2 mL de suero salino).
+3 Estos agentes tienen poca o ninguna eficacia durante la reacción anafiláctica aguda; sin embargo pueden pre-
+venir reacciones recurrentes o prolongadas.
+4 Se sugiere utilizar los valores bajos del intervalo en pacientes ancianos, consumidores de medicamentos que
+reducen el metabolismo, con disfunción hepática o con insuficiencia cardiaca congestiva. Los valores altos se
+podrían usar en jóvenes o fumadores.
+
+43
+Tabla 2
+TRATAMIENTO FARMACOLÓGICO DE LA ANAFILAXIA SITÉMICA EN ADULTOS):
+REACCIONES CARDIOVASCULARES1
+Agente
+Indicaciones
+Dosificación
+Objetivos
+Complicaciones
+Terapia inicial
+Fluídos IV (suero
+salino, coloides)
+•
+Hipotensión.
+1 litro cada 20-30
+min si fuese
+necesario.
+Mantener la
+presión arterial
+sistólica
+por encima de 80-
+100 mm Hg.
+• Fallo cardíaco
+congestivo.
+• Edema
+pulmonar.
+Epinefrina
+• Hipotensión.
+1 mL en dilución
+1/1000 en 500 mL
+de solución de
+dextrosa al 5%, 0,5-
+5 mcg (0,25-2,5
+mL) IV por minuto.
+Mantener la
+presión arterial
+sistólica por
+encima de
+80-100 mm Hg.
+• Arritmias.
+• HTA.
+• Neviosismo.
+• Temblor.
+Terapia secundaria
+Norepinefrina
+• Hipotensión.
+4 mg en 1 litro de
+solución de
+dextrosa al 5%,
+2-12 mcg (0,5-3
+mL) IV por minuto.
+Mantener la
+presión arterial
+sistólica por
+encima de
+80-100 mm Hg.
+• Arritmias.
+• HTA.
+• Neviosismo.
+• Temblor.
+Anti-Histamínicos
+• Hipotensión.
+25-50 mg de
+hidroxizina o
+difenhidramina IM u
+oral cada 6-8 horas
+si fuese preciso.
+300 mg de
+cimetidina IV u oral
+cada 6 horas.
+Antagoniza los
+efectos
+histamínicos H1 y
+H2 en miocardio y
+vascularización
+periférica.
+• Sequedad de
+boca.
+• Retención
+urinaria.
+Glucagón
+• Hipotensión
+refractaria.
+1 mg en 1 litro de
+solución de
+dextrosa al 5%, 5-
+15 mcg (5-15 mL)
+IV por minuto.
+Incremento de la
+frecuencia y el
+gasto cardíaco.
+• Náuseas.
+Tomado de Bochner BS, Lichtenstein LM. Anafilaxis. N Engl J Med. 1991; 324: 1.785-1.790.
+1 Dosis, elección del agente específico, eficacia y seguridad deben ser individualizados.
+
+
+ANEXO III
+CLASIFICACIÓN Y CARACTERÍSTICAS DE LOS AGENTES
+CITOSTÁTICOS
+I . CLASIFICACIÓN
+No existe un criterio claramente definido para la clasificación de los agen-
+tes citostáticos.
+1. Tradicionalmente, se han clasificado en función del NIVEL DE AC-
+TUACIÓN DENTRO DEL CICLO CELULAR. Sin embargo, esta clasifi-
+cación no es absoluta, ya que algunos agentes actúan por mecanismos
+múltiples y de otros se desconoce su nivel de actuación. Podemos dife-
+renciar:
+1.1.
+Medicamentos sin especificidad de fase: no actúan en una fase
+concreta sino que pueden alterar las funciones celulares en cual-
+quier fase. En general muestran una curva dosis-respuesta lineal,
+cuanto mayor es la dosis administrada, mayor es la fracción de cé-
+lulas muertas. Estos medicamentos son a menudo efectivos frente
+a tumores de crecimiento lento.
+— Específicos de ciclo – no específicos de fase: actúan sobre las
+células en división en cualquier fase del ciclo celular (agentes
+alquilantes, dacarbazina).
+— No ciclo específicos: actúan sobre células en reposo (antibióti-
+cos citostáticos excepto bleomicina).
+45
+
+1.2.
+Medicamentos específicos de fase: actúan en fases específicas,
+como la fase de síntesis de ADN (antimetabolitos) o la fase de mi-
+tosis (alcaloides de la Vinca). Tienen un límite en la capacidad de
+matar células, pero su efecto está en función de la concentración y
+el tiempo (si la concentración se mantiene durante un tiempo en-
+tran más células en la fase letal específica del ciclo). En general,
+estos agentes son más efectivos frente a tumores que tienen una
+gran fracción de proliferación y crecimiento (ej.: tumores que tienen
+una alta proporción de células que sufren división celular en cual-
+quier momento).
+46
+TABLA DE LOS AGENTES CITOSTÁTICOS EN FUNCIÓN DE SU 
+NIVEL DE ACTUACIÓN EN EL CICLO CELULAR
+FASES
+Actúan en fases específicas 
+del ciclo
+Actúan a lo largo del ciclo
+Fase G0 o de reposo
+La mayoría de las células son refractarias a la quimioterapia.
+Fase G1
+(fase post-mitótica o pre-sintética)
+L- Asparaginasa
+Agentes alquilantes
+Mecloretamina
+Ciclosfosfamida
+Clorambucilo
+Busulfan
+Nitrosoureas
+Dacarbazina
+Tiotepa
+Complejos del platino
+Cisplatino
+Carboplatino
+Antibióticos
+Doxorubicina
+Daunorubicina
+Dactinomicina*
+Mitomicina C
+Mitoxantrone
+Fase S
+(síntesis de ADN)
+Antimetabolitos
+Metotrexato
+Citarabina
+5-fluorouracilo**
+Floxuridina**
+6-Mercaptopurina
+Gemcitabina
+Amsacrina
+Hidroxiurea
+Procarbazina
+Hexametilmelamina
+Irinotecan
+Topotecan
+Fase G2
+(fase pre-mitótica o post-sintética)
+Bleomicina
+Etopósido
+Tenipósido
+Fase M
+(mitosis: periodo de división celular)
+Vincristina
+Vindesina
+Vinblastina
+Docetaxel
+Paclitaxel
+* Dactinomicina o Actinomicina D.
+** 5-fluorouracilo-Floxuridina: Algunos autores los consideran medicamentos no específicos de fase del ciclo
+celular.
+
+2. Otra clasificación de los agentes antineoplásicos es aquella que
+considera SU MECANISMO DE ACCIÓN Y ESTRUCTURA QUÍMICA.
+47
+TABLA 1
+GENTES CITOSTÁTICOS EN FUNCIÓN DE SU MECANISMO DE ACCIÓN
+AGENTES
+ALQUILANTES 
+Mostazas nitrogenadas 
+Ciclofosfamida
+Clorambucilo
+Ifosfamida
+Melfalan
+Trofosfamida
+Mecloretamina
+Nitrosoureas
+Carmustina
+Estramustina
+Lomustina
+Estreptozocina
+Etileniminas y metilmelaminas
+Altretamina (hexametilmelamina)
+Tiotepa
+Alquilsulfonatos
+Busulfan
+Triazenos
+Dacarbazina
+Procarbazina
+ANTIMETABOLITOS
+Antagonistas de pirimidinas
+Citarabina
+Tegafur
+Floxuridina
+5-azatidina
+5-fluorouracilo
+Ftorafur
+Gemcitabina
+Antagonistas de purinas
+Tioguanina
+Azatioprina*
+Mercaptopurina
+Cladribina
+Antagonistas de adenosina
+Fludarabina
+Pentostatina
+Antagonistas de ácido fólico
+Metotrexato
+Trimetrexato
+Raltitrexed
+COMPLEJOS DE
+PLATINO
+Carboplatino
+Cisplatino
+Oxaliplatino
+ANTIBIÓTICOS
+CITOSTÁTICOS
+Antraciclinas
+Daunorubicina
+Doxorubicina
+Epirubicina
+Idarubicina
+Mitoxantrona
+Pirarubicina
+Amsacrina
+Otros
+Bleomicina
+Mitomicina C
+Actinomicina D/ Dactinomicina
+Mitramicina
+* Azatioprina: es un promedicamento que se metaboliza a 6-mercaptopurina que interfiere la síntesis de bases
+púricas. Tiene acción inmunosupresora.
+
+48
+TABLA 1
+GENTES CITOSTÁTICOS EN FUNCIÓN DE SU MECANISMO DE ACCIÓN  (cont.)
+PRODUCTOS DE
+ORIGEN NATURAL
+Alcaloides del podofilo
+Etopósido
+Tenipósido
+Alcaloides de la vinca
+Vinblastina
+Vincristina
+Vindesina
+Vinorelbina
+Taxoides
+Docetaxel
+Paclitaxel
+Derivados de camptotecina
+Irinotecan
+Topotecan
+Enzima
+L-Asparaginasa
+OTROS
+ANTINEOPLÁSICOS
+Supresor adrenocortical
+Aminoglutetimida
+Hidroxiurea
+Mitotano
+TABLA 2
+AGENTES CITOSTÁTICOS Y SU MECANISMO DE ACCIÓN
+Agente antineoplásico
+Grupo
+Mecanismo de acción
+Amsacrina
+Antibióticos citostáticos.
+Inhibidor topoisomerasa II.
+Inhibe la síntesis de ADN.
+L- Asparaginasa
+Enzima.
+Inhibidor de la síntesis de proteínas.
+Inhibición retardada de la síntesis de
+ADN y ARN.
+Bleomicina
+Antibiótico citostático.
+Escinde las cadenas de ADN.
+Busulfán
+Agente alquilante (alquilsufonato).
+Alquilante del ADN Inhibidor de la
+replicación del ADN.
+Carmustina
+Agente alquilante (nitrosourea).
+Otros: lomustina,  estreptozocina.
+Alquilante del ADN Inhibe la síntesis de
+ADN, ARN y proteínas.
+Ciclofosfamida
+Agente alquilante (mostaza
+nitrogenada).
+Otros: ifosfamida, melfalán,
+clorambucilo, trofosfamida.
+Medicamento activado: Alquilante de
+ADN Inhibidor síntesis de ADN, ARN y
+proteínas.
+Cisplatino
+Complejos de platino.
+Otros: carboplatino, oxaliplatino.
+Inhibe la síntesis de ADN estableciendo
+enlaces inter e intracatenarios.
+Citarabina
+Antimetabolito (antagonista de
+purina).
+Inhibe la síntesis de ADN.
+Inhibe DNA polimerasa.
+Cladribina
+Antimetabolito (antagonista de
+purina).
+Inhibidor de ribonucleótido Sintetasa.
+Inhibidor reparación del ADN.
+Clorambucilo
+Agente alquilante.
+Alquilante del ADN Interfiere la replicación
+del ADN y la transcripción del ARN.
+
+II. ACCIONES
+La acción de los agentes citostáticos está dirigida a suprimir la prolifera-
+ción del tumor. Para ello actúan sobre la maquinaria reproductora, bien so-
+bre el ADN, el ARN o sobre componentes citoplasmáticos imprescindibles
+49
+TABLA 2
+AGENTES CITOSTÁTICOS Y SU MECANISMO DE ACCIÓN (cont.)
+Agente antineoplásico
+Grupo
+Mecanismo de acción
+Dacarbazina
+Agente alquilante (triazeno).
+Alquilante del ADN Inhibidor de la
+síntesis de novo de purinas.
+Docetaxel
+Derivados del taxano.
+Otros: paclitaxel.
+Inhibición de la mitosis (inhibición
+despolimerización de tubulina).
+Etopósido
+Alcaloide del podofilo alcaloide.
+Otros: tenipósido.
+Inhibidor topoisomerasa II.
+Inhibidor reparación ADN.
+Fludarabina
+Antimetabolito (antago. De
+adenosina).
+Otros: pentostatina.
+Inhibidor síntesis ADN.
+5-fluorouracilo
+Antimetabolito (antag, de
+pirimidina).
+Otros: azacitina, citarabina,
+gemcitabina, tegafur.
+Inhibidor síntesis ADN y ARN.
+Irinotecan
+Derivados de camptotecina.
+Otros: topotecan.
+Inhibidor topoisomerasa I.
+Inhibidor síntesis ADN y ARN.
+Mercaptopurina
+Antimetabolito (antagonista de
+purina).
+Otros: 6-tioguanina.
+Inhibición síntesis de purina.
+Inhibidor síntesis de ADN.
+Metotrexato
+Antimetabolito (antagonista de
+ácido fólico).
+Inhibidor síntesis de ADN. También de
+ARN y proteínas.
+Mitomicina
+Otros antibióticos citostáticos.
+Otros: actinomicina D.
+Mitomicina activada: interfiere síntesis de
+ADN. A dosis altas puede inhibir la
+síntesis de ARN y proteínas.
+Mitoxantrona
+Antibiótico citostático.
+Inhibidor topoisomerasa II
+Se fija al ADN inhibiendo la síntesis de
+ADN, ARN y proteínas.
+Mitramicina
+Antibiótico citostático.
+Intercala ADN y bloquea síntesis de ARN.
+Raltitrexed
+Antimetabolito del ácido fólico.
+Inhibidor de la síntesis de ADN y
+proteínas.
+Tiotepa
+Agente alquilante (etileniminas).
+Alquilante del ADN.
+Inhibidor replicación ADN.
+Vinblastina
+Derivados de la vinca.
+Otros: vincristina, vindesina,
+vinorelbina.
+Inhibidor de la mitosis (metafase)
+Inhibición polimerización de tubulina.
+
+para la división celular (citoesqueleto, microtúbulos). En otras ocasiones el
+objetivo es inhibir la síntesis proteica.
+Seguidamente, se detallan las diferentes acciones que pueden ejercer:
+➢
+AGENTES ALQUILANTES Y FORMADORES DE ENLACES EN EL
+ADN: Los agentes alquilantes muestran gran afinidad por el ADN y
+las proteínas, a los que adicionan su radicales altamente reactivos.
+Así producen enlaces entre cadenas de ADN y otras transformacio-
+nes, impidiendo su replicación y trascripción de ARN. Su acción tiene
+lugar en cualquier fase del ciclo celular.
+➢
+ANTIMETABOLITOS: actúan en la fase de síntesis del ciclo celular
+porque interfieren en la síntesis de ADN y ARN. La mayoría son aná-
+logos estructurales de los metabolitos que normalmente intervienen
+en los procesos de crecimiento y división, incorporándose a las mo-
+léculas de ADN y ARN, transmitiendo falsos mensajes. Otros inhiben
+enzimas específicas necesarias para la síntesis de compuestos
+esenciales. Su eficacia, en general, es máxima cuando la prolifera-
+ción celular es rápida.
+➢
+INHIBIDORES DE LA MITOSIS: Ejercen su acción citotóxica porque
+tras unirse a la tubulina inhiben la mitosis. La acción en los microtú-
+bulos varía:
+— pueden inhibir su formación: alcaloides de la Vinca, o por el con-
+trario,
+— incrementarla y estabilizarla haciéndola poco funcional (taxa-
+nos).
+Son activos en una determinada fase del ciclo celular, provocando su
+cese en metafase.
+➢
+INHIBIDORES DE TOPOISOMERASAS:
+— Inhibidores de la topoisomerasa I: topotecan e irinotecan
+— Inhibidores de la topoisomerasa II: derivados del podofilo (etopó-
+sido y tenipósido) y por antibióticos antraciclínicos (daunorubici-
+na, doxorubicina).
+➢
+ANTIBIÓTICOS: son de origen y estructura muy diversos y su meca-
+nismo de acción también puede ser diferente: intercalarse entre ca-
+denas de ADN, inhibir topoisomerasas y alterar la membrana celular.
+La mayoría no son específicos de ciclo celular.
+50
+
+— ENZIMAS: La L-Asparaginasa rompe el aminoácido asparragina,
+privando de su actividad a la célula que no es capaz de sinteti-
+zarlo.
+Un mismo agente citotóxico puede actuar por varios mecanismos, o en
+varios niveles en función de su concentración, una detallada exposición de
+los agentes antineoplásicos y sus mecanismos de acción se resumen en el
+anexo III.
+III. ABSORCIÓN, DISTRIBUCIÓN, METABOLISMO Y EXCRECIÓN
+El conocimiento de las características farmacocinéticas de los medica-
+mentos citostáticos, así como de su variabilidad interindividual, es de gran
+importancia a la hora de optimizar la terapia antineoplásica.
+ABSORCIÓN
+La gran mayoría de los medicamentos antineoplásicos son administrados
+por vía parenteral, por ello, el proceso de absorción no es generalmente
+considerado. Sin embargo, hay que tener en cuenta que para algunas neo-
+plasias se utilizan medicamentos citostáticos orales (clorambucilo para leu-
+cemia linfocítica crónica o melfalán para mieloma múltiple) en los que debe
+tenerse en cuenta la posible variabilidad. Además, agentes, tales como mel-
+falan y etopósido se caracterizan por presentar una biodisponibilidad alta-
+mente variable, que puede acentuarse con la administración concomitante
+de otros agentes antineoplásicos.
+DISTRIBUCIÓN
+El proceso de distribución va a estar condicionado por los cambios que
+pueden producirse en el tamaño corporal o en la relación masa grasa/masa
+total para un paciente determinado. Así, la distribución de medicamentos li-
+pofílicos, que incluyen la mayoría de los medicamentos citostáticos de ori-
+gen natural y sus análogos, puede alterarse si se modifica la relación masa
+grasa/masa total. Asimismo, es altamente conocida la acumulación de me-
+totrexato en aquellos pacientes que presentan ascitis o efusiones pleurales,
+retrasándose su aclaramiento.
+Otro aspecto a destacar es la capacidad de unión a proteínas plasmáticas
+de estos medicamentos, que si bien las modificaciones en la tasa de unión
+51
+
+son comunes, raramente afectan al resultado clínico. Medicamentos tales co-
+mo alcaloides de la vinca y etopósido se unen ampliamente a proteínas, pu-
+diendo verse afectado su aclaramiento ante cambios en la fracción unida. Es
+especialmente importante tener en cuenta la unión a proteínas en la medición
+e interpretación de las concentraciones totales plasmáticas de medicamento,
+ya que una disminución de la unión a proteínas resultará en un incremento re-
+lativo de la fracción libre del medicamento farmacológicamente activo.
+METABOLISMO Y EXCRECIÓN
+Muchos agentes antineoplásicos son metabolizados o excretados por el
+hígado, pudiendo presentar una eliminación alterada en aquellos pacientes
+con cáncer avanzado que tienen anormalidades en los tests de función he-
+pática o lesiones conocidas en la masa hepática, y que generalmente se en-
+cuentran en situación de malnutrición significativa. El conocimiento de esta
+eliminación alterada llega a ser importante en la optimización de la dosifica-
+ción de quimioterapia.
+El problema radica en que no es fácilmente predecible si el metabolismo
+o eliminación hepática se van a ver alteradas. Ciertamente, es altamente
+probable que pacientes con hiperbilirrubinemia severa tengan la eliminación
+alterada. Sin embargo, en pacientes con niveles séricos normales de bilirru-
+bina se pueden alcanzar niveles tóxicos del medicamento por una disminu-
+ción de su aclaramiento cuando estos pacientes presentan niveles de albú-
+mina sérica disminuídos (esto ocurre para antipirinas, vinblastina y trimetro-
+xate). Por tanto, pacientes con niveles de albúmina sérica < 2,5 g/L pueden
+tener un riesgo incrementado de toxicidad y son candidatos a una reducción
+de la dosis de agentes que requieren metabolismo o excreción hepática.
+En contraste, alteraciones de la función renal generalmente se correla-
+cionan con modificaciones en el aclaramiento renal de medicamentos, ya
+que éste tiende a correlacionarse con el aclaramiento de creatinina. Esto ha
+sido bien establecido para carboplatino, donde existe una firme relación en-
+tre la función renal y el aclaramiento de carboplatino, que puede ser usado
+prospectivamente para modificar la dosis de carboplatino y evitar toxicidad.
+IV. VÍAS DE ELIMINACIÓN
+La mayoría de los medicamentos citostáticos y sus metabolitos son elimi-
+nados del organismo por excreción renal o heces como metabolitos activos
+52
+
+o inactivos. Algunos son también excretados en saliva y sudor. La elimina-
+ción de los medicamentos citostáticos depende del medicamento adminis-
+trado, la dosis, duración de la terapia, vía de administración y función hepá-
+tica y renal.
+La presencia de medicamentos citostáticos en las excretas puede prolon-
+garse tras su administración por un periodo que oscila entre 48 horas y 7 días.
+Por ser potencialmente tóxicas las excretas de estos pacientes deberán
+ser manipuladas con precaución y se eliminarán diluidas en gran cantidad
+de agua. Por regla general, deberán considerarse peligrosas al menos 48
+horas después de finalizar el tratamiento.
+En la siguiente tabla se listan aquellos medicamentos que requieren alar-
+gar el periodo de precaución y su periodo de precaución en días para el ma-
+nejo de las excretas de los pacientes tras ser sometidos al tratamiento qui-
+mioterápico.
+53
+Medicamentos que requieren alargar el periodo de precaución para 
+el manejo de excretas tras la quimioterapia 
+(Periodo de precaución una vez finalizada la administración)
+Citostático
+Orina
+Heces
+Bleomicina
+Carmustina
+Cisplatino
+Ciclofosfamida
+Dactinomicina
+Daunorubicina
+Doxorubicina
+Epirubicina
+Etopósido
+Fludarabina
+Idarubicina
+Melfalán
+Mercaptopurina
+Metotrexato
+Mitoxantrona
+Oxaliplatino
+Paclitaxel
+Procarbazina
+Tenipósido
+Tiotepa
+Alcaloides de la Vinca
+3 días
+4 días
+7 días
+3 días
+5 días
+6 días
+6 días
+3 días
+3 días
+3 días
+3 días
+2 días
+2 días
+3 días
+6 días
+3 días
+3 días
+3 días
+3 días
+3 días
+4 días
+5 días
+7 días
+7 días
+5 días
+2 días
+7 días
+5 días
+7 días
+7 días
+3 días
+7 días
+
+BIBLIOGRAFÍA:
+1. Allwood M., Stanley A., Wright P. The citotoxics handbook. 3ª edición.
+1997.
+2. American Hospital Formulary Service. Drug Information 1999.
+3. Consejo General de Colegios Oficiales de Farmacéuticos. Catálogo de
+Especialidades Farmacéuticas. 1999.
+4. Farmacia Hospitalaria. 2ª edición.1992.
+5. Flórez J., Armijo JA., Mediavilla A. Farmacología Humana. 3ª edición.
+1997.
+6. Guía de actualización en terapéutica oncológica. 1997, 1998. Grupo de
+trabajo en farmacia oncológica. Amgen.
+7. Martindale. The Extra Pharmacopoeia. 31st. Edition.
+8. Medicamentos citostáticos. Sociedad Española de Farmacéuticos de
+Hospitales. 2ª edición.
+9. Perry MC. The Chemotherapy Source Book. 2nd. Edition.1996.
+54
+
+ANEXO IV
+SÍNTOMAS Y MANIFESTACIONES REFERIDOS A PERSONAS
+SOMETIDAS A TRATAMIENTO CON CITOSTÁTICOS
+Todos los síntomas y manifestaciones que aparecen en las tablas si-
+guientes sólo pueden servir de hipotética referencia, en cuanto al riesgo de
+su manipulación.
+55
+Tabla 1. DERMATITIS ASOCIADA A QUIMIOTERÁPICOS
+Quimioterápico 
+Tipo de reacción
+Aminoglutetimida
+Azacitidina 
+Bleomicina
+Carboplatino 
+Carmustina 
+Clorambucilo 
+Citarabina 
+Dacarbazina 
+Dactinomicina
+Daunorubicina 
+Epirubicina
+5-fluorouracilo
+Floxuridina
+Leuprolida 
+Hidroxiurea
+Isotretinoína
+Mecloretamina
+Metotrexato
+Mitomicina
+Pentostatina
+Plicamicina
+Procarbazina
+Tomudex
+Tretinoína
+Trimetrexato
+Rash eritematoso maculopapular.
+Rash pruriginoso (raro).
+Rash, urticaria, hinchazón eritematosa, hiperqueratosis.
+Rash (raro).
+Rubor facial y/o de cuello transitorio, rash, prurito.
+Ocasionalmente, dermatitis.
+Rash.
+Rubor facial y/o de cuello transitorio.
+Rash acneiforme, foliculitis.
+Rash, urticaria.
+Dermatitis.
+Dermatitis.
+Rash, prurito (raro).
+Eritema, rash cutáneo.
+Rash.
+Piel seca, prurito, descamación.
+Tópico: alergia de contacto.
+Rash, urticaria.
+Rash, fotosensibilidad.
+Rash, piel seca.
+Dermatitis, rubor facial.
+Rubor facial si se asocia con consumo de alcohol, rash
+cutáneo, fotosensibilidad.
+Rash.
+Piel seca, prurito, ligera descamación.
+Rash.
+
+56
+Tabla 2. CAMBIOS UNGUEALES
+Quimioterápico
+Efecto
+Bleomicina
+Ciclofosfamida
+Doxorubicina
+5-fluorouracilo
+Hidroxiurea
+Pérdida ungueal.
+Hiperpigmentación.
+Hiperpigmentación.
+Rotura y pérdida ungueal.
+Uñas quebradizas.
+Tabla 3. CAMBIOS DE PIGMENTACIÓN ASOCIADOS A LA QUIMIOTERAPIA
+Agente
+Cambio en la pigmentación
+Bleomicina
+Busulfan
+Carmustina
+Ciclofosfamida
+Dactinomicina
+Doxorubicina
+5-fluorouracilo
+Metotrexato
+Tiotepa
+Estrías lineales hiperpigmentadas en el tronco,
+hiperpigmentación sobre pequeñas articulaciones.
+Oscurecimiento cutáneo generalizado, hiperpigmentación.
+Hiperpigmentación tras eritema.
+Hiperpigmentación en áreas expuestas a la luz solar.
+Hiperpigmentación.
+Hiperpigmentación de la mucosa oral.
+Fotosensitividad, hiperpigmentación.
+Fotosensitividad, hiperpigmentación.
+Hiperpigmentación (en áreas sometidas a vendaje oclusivo).
+Tabla 4. RIESGO DE REACIONES DE HIPERSENSIBILIDAD INMEDIATA
+Alto riesgo
+Riesgo bajo o moderado
+Riesgo escaso
+L-Asparaginasa
+Paclitaxel
+Antraciclinas
+Bleomicina
+Carboplatino
+Cisplatino
+Ciclosporina
+Docetaxel
+Etopósido
+Melfalan IV
+Metotrexato
+Procarbazina
+Tenipósido
+Citarabina
+Ciclofosfamida
+Clorambucilo
+Dacarbazina
+5-fluorouracilo
+Ifosfamida
+Mitoxantrone
+Tabla 5. SIGNOS Y SÍNTOMAS DE HIPERSENSIBILIDAD INMEDIATA
+Sistema
+Síntomas subjetivos
+Signos objetivos
+Respiratorio
+Disnea, dificultad para hablar.
+Estridor, broncoespasmo, disminución del
+murmullo vesicular.
+Piel
+Prurito, urticaria.
+Cianosis, urticaria, angioedema.
+Cardiovascular
+Dolor torácico, incremento de la
+frecuencia cardiaca.
+Taquicardia, hipotensión, arritmias.
+SNC
+Discinesias, agitación, ansiedad.
+Disminución de reflejos, pérdida de
+conciencia.
+Gastrointestinal
+Dolor abdominal, nauseas.
+Incremento de los sonidos intestinales,
+diarrea, vómito.
+
+57
+Tabla 6. TOXICIDAD PULMONAR ASOCIADA A LA QUIMIOTERAPIA
+Frecuencia
+Quimioterápico
+Frecuente
+(0 – 50%)
+Poco
+frecuente
+(< 30%)
+Rara
+(< 5%)
+Comentario
+L-Asparaginasa
+X
+No hay nada descrito reseñable
+Azatioprina
+X
+No hay nada descrito reseñable
+Bleomicina
+X
+Relacionado con la dosis. El riesgo aumenta
+con la edad.
+Busulfan
+X
+Período de latencia largo, más común al inicio
+de los síntomas.
+Carmustina
+X
+Relacionado con la dosis. Posible retraso
+años inicio síntomas
+Clorambucilo
+X
+No hay nada descrito reseñable
+Ciclofosfamida
+X
+La incidencia puede incrementarse al
+aumentar
+Citarabina
+X
+El riesgo aumenta con dosis altas
+Dactinomicina
+X
+Documentado al asociarse con radioterapia
+Doxorubicina
+X
+Documentado al asociarse con radioterapia
+Etopósido
+X
+No hay nada descrito reseñable
+Fludarabina
+X
+No hay nada descrito reseñable
+Ifosfamida
+X
+No hay nada descrito reseñable
+Lomustina
+X
+No hay nada descrito reseñable
+Melfalan
+X
+No hay nada descrito reseñable
+Metotrexato
+X
+La frecuencia puede aumentar si se asocia a
+etopósido
+Mitomicina
+X
+Puede interactuar con oxígeno, ciclofosfamida
+y radioterapia
+Pentostatina
+X
+No hay nada descrito reseñable
+Procarbazina
+X
+No hay nada descrito reseñable
+Tenipósido
+X
+No hay nada descrito reseñable
+Vincristina
+X
+Sólo observado cuando se administra con
+mitomicina
+Vinblastina
+X
+Sólo observado cuando se administra con
+mitomicina
+Vindesina
+X
+Sólo observado cuando se administra con
+mitomicina
+Vinorelbina
+X
+Sólo observado cuando se administra con
+mitomicina
+
+58
+Tabla 7. POTENCIAL EMÉTICO DE QUIMIOTERÁPICOS (ADMINISTRADOS EN SOLITARIO)
+Muy alto
+(> 90%) Alto (60 – 90%)
+Moderado (30 – 60%)
+Bajo (0 - 30%)
+Cisplatino
+Ciclofosfamida*
+Citarabina*
+Dacarbazina
+Mecloretamina
+Melfalan*
+Estreptozocina
+Azacitidina
+Carboplatino
+Carmustina
+Ciclofosfamida
+Dactinomicina
+Lomustina
+Altretamina
+Amsacrina
+L-Asparaginasa
+Daunorubicina
+Doxorubicina
+Epirubicina
+Idarubicina
+Ifosfamida
+Mitomicina
+Mitoxantrone
+Pentostatina
+Plicamicina
+Procarbazina
+Topotecan
+Bleomicina
+Busulfan
+Cladribina
+Clorambucilo
+Citarabina
+Docetaxel
+Etoposido
+5-fluorouracilo
+Floxuridina
+Fludarabina
+Hidroxiurea
+Irinotecan
+Melfalan
+Metotrexato
+Paclitaxel
+6-Mercaptopurina
+Tioguanina
+Tiotepa
+Tomudex
+Trimetrexato
+Vinblastina
+Vincristina
+Vinorelbina
+*En dosis altas.
+Tabla 8: QUIMIOTERÁPICOS QUE PUEDEN
+AFECTAR LA FUNCIÓN PLAQUETARIA
+Carboplatino
+Carmustina
+Ciclofosfamida
+Dactinomicina
+Daunorubicina
+Doxorubicina
+Melfalan
+Mitomicina
+Plicamicina
+Vincristina
+
+59
+Tabla 9. FACTORES DE RIESGO DE TOXICIDAD 
+CARDIACA ASOCIADA AL USO DE ANTRACICLINAS
+Factor de riesgo
+Comentario
+Acumulación de dosis
+El riesgo disminuye en un 10% para dosis inferiores a 450 mg/m2; se
+incrementa linealmente con dosis superiores a 550 mg/m2.
+Esquema de administración
+Los picos de concentración de estos medicamentos en plasma
+parecen constituir un importante factor. Existe menos toxicidad con
+dosis bajas, administraciones más frecuentes e infusión contínua.
+Radiación en el mediastino
+Factor de alto riesgo.
+Enfermedad cardiaca preexistente
+Si bien no se conoce el mecanismo, parece aumentar la incidencia.
+Edad
+Niños pequeños y adultos de más de 70 años parecen presentar un
+mayor riesgo.
+Otros quimioterápicos asociados
+Si bien los datos no son del todo concluyentes, parece que aumenta
+el riesgo cuando se administra de forma combinada con
+ciclofosfamida, etopósido, dactinomicina, mitomicina, melfalan,
+vincristina, bleomicina y dacarbazina.
+Sensibilidad individual
+Amplia variabilidad.
+Tabla 10. VALORACIÓN DE LOS SÍNTOMAS DE
+NEUROTOXICIDAD DE LOS CITOSTÁTICOS
+Área funcional
+Normal
+Anormal
+Cerebro
+Estado mental
+Intelecto.
+Memoria.
+Juicio.
+Pensamiento abstracto.
+Confusión.
+Pérdida de memoria.
+Cambios en el nivel de conciencia.
+Delirium/psicosis.
+Disfunción cognitiva.
+Sistema Nervioso Periférico
+Sensitivo
+Arcos reflejos.
+Tacto.
+Temperatura.
+Vibración.
+Dolor.
+Propiocepción.
+Disminución de los reflejos tendinosos profundos.
+Entumecimiento, hormigueo.
+Disminución de la capacidad sensitiva.
+Disminución de la capacidad sensitiva.
+Dolor abdominal, dolor mandibular.
+Ataxia sensitiva.
+Motor
+Movimiento voluntario.
+Debilidad muscular.
+De Meehan J, Johnson B: The neurotoxicity of antineoplasic agents. In Hubbard S, greene P, Knobf M, eds: Cu-
+rrents issues in cancer nursing practice. Philadelphia, 1991, JB Lippincott, pp. 1-11.
+
+60
+De Meehan J, Johnson B: The neurotoxicity of antineoplasic agents. In Hubbard S, greene P, Knobf M, eds: Cu-
+rrents issues in cancer nursing practice. Philadelphia, 1991, JB Lippincott, pp. 1-11.
+Tabla 10. VALORACIÓN DE LOS SÍNTOMAS DE
+NEUROTOXICIDAD DE LOS CITOSTÁTICOS (continuación)
+Área funcional
+Normal
+Anormal
+Sistema Nervioso Autónomo
+Intestino y función vesical.
+Constipación/ileo.
+Incontinencia urinaria.
+Atonía vesical.
+Dolor abdominal cólico.
+Cerebelo
+Mantenimiento del tono muscular.
+Equilibrio.
+Coordinación motora y sensorial.
+Ataxia.
+Dismetría.
+Disdiadococinesia.
+Nistagmus horizontal.
+Meninges
+Recubren y protegen el cerebro y la
+médula espinal.
+Meningismo.
+Paraplejia.
+Ceguera.
+Pares Craneales
+Olfatorio
+Olfato.
+Óptico
+Visión.
+Neuritis óptica
+Papiledema
+Ceguera/visión borrosa
+Neuritis retrobulbar
+Oculomotor
+Regulación del movimiento ocular.
+Diplopia
+Motor ocular externo
+Movimientos extraoculares.
+Nistagmus
+Ptosis
+Trigémino
+Masticación.
+Dolor mandibular
+Facial
+Expresión facial.
+Sentido del gusto.
+Parálisis facial
+Alteraciones en el gusto.
+Auricular
+Audición.
+Equilibrio.
+Tinnitus.
+Pérdida de audición.
+Nistagmus.
+Vértigo.
+Glosofaríngeo
+Deglución.
+Gusto.
+Disfagia.
+Alteraciones en el gusto.
+Vago
+Voz
+Deglución
+Disfonía.
+Ronquera.
+Disfagia.
+
+61
+Tabla 11. CITOSTÁTICOS Y SU EFECTO NEUROTÓXICO 
+Metotrexato intratecal
+Citarabina Intratecal
+Tiotepa intratecal
+Mielopatía aguda
+Cisplatino
+Procarbazina
+Paclitaxel
+Vinblastina
+Vincristina
+Vinorelbina
+Neuropatía autonómica
+Altretamina
+Citarabina
+5-fluorouracilo
+Ifosfamida
+Vinblastina
+Vincristina
+Síndromes cerebelosos
+L-Asparaginasa
+Azacitidina
+Busulfan (altas dosis)
+Citarabina (altas dosis)
+Carmustina
+Cladribina
+Cisplatino
+Ciclofosfamida
+5-fluorouracilo
+Fludarabina
+Ifosfamida
+Metotrexato
+Mitotane
+Pentostatina
+Procarbazina
+Encefalopatía (cerebral)
+Altretamina
+Azacitidna
+Carboplatino
+Cladribina
+Cisplatino
+Citarabina
+Didanosina
+Etopósido
+Fludarabina
+Paclitaxel
+Procarbazina
+Tiotepa (altas dosis)
+Tenipósido
+Vinblastina
+Vincristina
+Vinorelbina
+Neuropatía periférica
+
+BIBLIOGRAFÍA
+1. De Meehan J, Johnson B: The neurotoxicity of antineoplasic agents. In
+Hubbard S, greene P, Knobf M, eds: Curentes issues in cancer nursing
+practice. Philadelphia, 1991, JB Lippincott, pp. 1-11.
+2. Fischer DS, Tish-Knobf M, Durivage HJ. The Cancer Chemoterapy
+Handbook. Ed. Mosby, St. Louis, Missouri, 1997.
+3. Sociedad Española de Higiene y Medicina Preventiva Hospitalarias. Se-
+rie: Documentos Técnicos nº 2. Riesgos y Prevención en el manejo de
+Soluciones Citostáticas. Bristol-Myers SAE. Imprenta de la Universidad
+de Málaga. 1985.
+62
+
+APÉNDICE
+GUÍA PARA LA MANIPULACIÓN DE AGENTES CITOSTÁTICOS
+1. RECEPCIÓN Y ALMACENAMIENTO DE PRODUCTOS
+CITOSTÁTICOS
+La recepción se debe realizar en sitio único y controlado por personal con
+conocimiento del producto que maneja. Los fabricantes deben garantizar
+que el envío se realiza en las condiciones adecuadas para evitar contami-
+naciones y accidentes y una conservación adecuada.
+El lugar de almacenamiento debe ser adecuado para evitar posibles caí-
+das y roturas de envases, sin olvidar las condiciones especiales de almace-
+namiento. El personal debe conocer las medidas a tomar en caso de rotura.
+Sería conveniente su almacenamiento en una zona independiente.
+2. PREPARACIÓN DE CITOSTÁTICOS
+Se puede definir el proceso de preparación de citostáticos como el pro-
+ceso en el que a partir del producto que se recibe del laboratorio fabricante
+se obtiene la disolución, preparación o mezcla de citostáticos en las condi-
+ciones adecuadas para su administración al paciente. Es en este proceso
+donde se encuentran los mayores riesgos de inhalación del producto.
+Se recomienda la centralización de la preparación de medicamentos ci-
+tostáticos en los servicios de farmacia de hospitales con el fin de garantizar,
+en general, una mayor seguridad para el trabajador y el medio ambiente, así
+63
+
+como una mejora en la calidad y seguridad tanto en la preparación del pro-
+ducto como para el paciente.
+2.1. Área de preparación
+El área de preparación de medicamentos citostáticos debe reunir una se-
+rie de características mínimas, tales como:
+—
+Área o zona aislada físicamente del resto del servicio en la que no se
+realicen otras operaciones.
+—
+Sin recirculación de aire ni aire acondicionado ambiental.
+—
+Habitación separada con presión negativa.
+—
+Campana de flujo laminar vertical.
+—
+Acceso limitado solamente al personal autorizado.
+—
+El suelo del recinto donde se encuentra ubicada la cabina no se ba-
+rrerá y se limpiará con una fregona de uso exclusivo y lejía.
+2.2. PROTECCIÓN AMBIENTAL
+La preparación de mezclas de agentes citostáticos deben realizarse en
+cabina de seguridad biológica.
+Son imprescindibles para sustraer al trabajador del alcance del medica-
+mento, están dotadas de un sistema de impulsión de aire filtrado que consi-
+gue que la zona de trabajo esté protegida y por tanto el trabajador, además
+de ser un flujo laminar lo que significa que se evitan las turbulencias. Dentro
+de ellas se descartan las de flujo laminar horizontal, que enviarían el aire ha-
+cía el lugar de trabajo y se muestran más útiles las de flujo laminar vertical,
+que impulsan el aire desde la parte superior a la superficie de trabajo y lo
+aspiran por rejillas u orificios.
+Hay varios tipos de cabinas de seguridad biológica de flujo laminar
+vertical, cuyas características son las siguientes:
+a) Cabinas de seguridad biológica clase I
+No se recomienda su utilización en el manejo de citostáticos. Son cabi-
+nas diseñadas para la protección del manipulador y del ambiente, pero no
+del producto. Presentan en su diseño un solo filtro HEPA situado en la salida
+64
+
+de aire de la cabina de seguridad biológica al exterior, pero el aire que entra
+del exterior, y no se expulsa, no pasa por el filtro HEPA antes de llegar a la
+zona de trabajo. NO existe, por tanto, recirculación de aire.
+b) Cabinas de seguridad biológica clase II
+El funcionamiento de este tipo de cabinas es el siguiente: el flujo de aire
+vertical se filtra a través de un filtro HEPA y alcanza la superficie de trabajo
+de la cabina, tras lo cual pasa a través de un filtro HEPA y por una bomba es
+impulsado, parte de nuevo a la zona de trabajo, y parte fuera de la cabina.
+Esta porción de aire que se elimina al exterior es la responsable de que en
+la zona de trabajo se cree una presión negativa, que se compensará con la
+entrada de aire del ambiente. La cortina de aire del exterior, introducido a
+través del frontal de la mesa de trabajo, mantiene el recinto bajo presión ne-
+gativa, garantizando la máxima protección del operador. El aire expulsado
+pasa a través de un filtro HEPA antes de ser expulsado. Estas cabinas pro-
+porcionan protección ambiental, al manipulador y al producto.
+Las Cabinas de Seguridad Biológica de clase II se clasifican a su vez en:
+b.1) Tipo A: reciclan el 70% del aire circulante y expulsan el 30% res-
+tante, previo paso por un filtro HEPA, al propio recinto en el que es-
+tá instalado la cabina.
+b.2) Tipo B: En este tipo de cabinas el aire extraído se vierte al exterior
+del recinto, diluyéndose en la atmósfera.
+— Tipo B1: recicla el 30% del aire circulante y expulsa el 70% al
+exterior.
+— Tipo B2: expulsan el 100% del aire circulante. El aire introduci-
+do procede del recinto, siendo impulsado por la parte superior
+un 60% (que crea el flujo laminar), previo paso por un filtro HE-
+PA, mientras el 40% restante penetra por la abertura frontal de
+la cabina.
+— Tipo B3: Recicla el 70% del aire y extrae el 30% al exterior del
+recinto.
+c) Cabinas de seguridad biológica clase III. Aisladores
+Son zonas de trabajo totalmente cerradas (aisladas), herméticas a ga-
+ses. La manipulación de los medicamentos citostáticos u otros medicamen-
+tos peligrosos se realiza mediante guantes de goma unidos a la cabina.
+Existen modelos que incorporan trajes herméticos de goma de medio cuer-
+65
+
+po que permiten introducirse al manipulador al área de trabajo para realizar
+las distintas operaciones. La cabina se puede mantener bajo presión negati-
+va o positiva, no obstante, cuando se manipulan medicamentos citostáticos
+se recomienda hacerla bajo presión negativa. El aire se introduce a través
+de filtros HEPA y se extrae generalmente mediante una doble filtración HE-
+PA. No se requiere flujo laminar. Durante su utilización, la cabina se mantie-
+ne sellada.
+Presenta la ventaja respecto a las cabinas clase II de no requerir un área
+de trabajo limpia para su ubicación.
+Se aconsejan las cabinas de Clase IIB o las de III, pero no basta con dis-
+poner de estas cabinas para garantizar las condiciones de seguridad. En
+66
+Cabinas de
+seguridad
+biológica
+CLASE I
+II A
+II B 1
+II B 2
+II B 3
+CLASE
+III 
+Aire extraído
+100%
+30%
+70%
+100%
+30%
+Aire
+recirculado
+—
+70%
+30%
+—
+70%
+Salida del
+aire
+Al lugar de
+trabajo
+Al lugar de
+trabajo
+Al exterior
+Al exterior
+Al exterior
+Extracción
+con filtro
+HEPA
+Si
+Si
+Si
+Si
+Si
+Si 
+Adecuadas
+para trabajo
+con…
+Biológico bajo-
+moderado
+riesgo cuando
+no se requiere
+protección del
+producto
+Biológico bajo/
+moderado
+riesgo sin
+contaminantes
+tóxicos volátiles
+Biológico bajo-
+moderado
+riesgo con
+mínimos
+contami-nantes
+químicos
+Biológico
+bajo/moderado
+riesgo con
+contaminantes
+químicos
+Biológico
+Bajo/moderado
+riesgo con
+mínimos
+contaminantes
+químicos 
+Otro
+nombre
+Vitrinas de
+gases
+De extracción
+total
+Hermé-
+ticamen-
+te
+cerradas
+Velocidad
+del aire
+0.3 m/sg.
+0.5m/sg.
+0.5m/sg.
+Defecto
+Entra aire del
+local
+Difícil mantener
+el flujo laminar 
+Difícil
+mover el
+material
+Presión en
+conductos
+Positiva
+Negativa
+Negativa
+Negativa 
+
+principio es imprescindible disponer de un emplazamiento adecuado para
+las cabinas, con el fin de eludir turbulencias de aire en el frente de las mis-
+mas y por ello deberá evitarse su localización en:
+➢
+Zonas de paso de personal
+➢
+Zonas de influencia de sistemas de renovación-acondicionamiento
+de aire
+➢
+Zonas próximas a puertas y/o ventanas
+2.3. Protección del manipulador
+El personal responsable de la preparación de mezclas de citostáticos de-
+berá ser cualificado, con conocimiento de los riesgos que corre si maneja de
+forma incorrecta estos medicamentos, así como de las condiciones que se
+exigen para cada forma farmacéutica.
+En general, el material de protección personal utilizado es:
+
+Guantes:
+1. Deberán lavarse las manos con agua y jabón antes de ponerse los
+guantes e inmediatamente después de quitárselos.
+2. Se deben utilizar guantes estériles quirúrgicos de látex, con una
+concentración baja en proteínas, menos de 30 mg/g de guante pa-
+ra evitar posibles alergias. No se deben utilizar guantes de cloruro
+de polivinilo, puesto que son permeables a ciertos preparados. Se
+desaconseja la utilización de guantes con talco ya que pueden
+atraer partículas de citostáticos. Para la eliminación de citostáticos
+y gestión de sus residuos no se requieren guantes estériles.
+3. Ningún guante es completamente impermeable a todos los citos-
+táticos. La permeabilidad del guante depende del tipo de medica-
+mento, tiempo de contacto y del grosor, material e integridad del
+guante.
+4. Los guantes deberán cambiarse aproximadamente cada media
+hora cuando se trabaja continuamente con citostáticos, e inmedia-
+tamente cuando se contaminen con algún citostático, cuando se
+rompan o al finalizar la sesión de trabajo.
+5. Si se usa doble guante sin interferir con la técnica, a la hora de po-
+nérselos, se pondrá primero un guante por debajo de la manga de
+67
+
+la bata y por encima de ésta el otro guante. Llegado el momento
+de retirarlos se hará, en orden inverso, según la posición en que
+los encontremos (guante-bata-guante).
+6. Hay que emplear doble guante o guantes de doble grosor (aproxi-
+madamente 0,45 mm en los dedos y 0,27 mm en la palma de la
+mano) para la limpieza de superficies, materiales y envases que
+contengan residuos de citostáticos y, especialmente, cuando hay
+riesgo de exposición por derrames.
+Se utilizarán guantes en:
+—
+La preparación de mezclas intravenosas de medicamentos ci-
+tostáticos.
+—
+La manipulación de excretas de enfermos que recibirán trata-
+miento citostático.
+—
+La manipulación de los contenedores de residuos.
+—
+La preparación y reenvasado de dosis orales de medicamen-
+tos citostáticos.
+—
+Tratamiento de derrames.
+
+Bata:
+1. El personal que manipula medicamentos citostáticos ha de usar
+bata de protección, estéril, preferentemente de un solo uso, de ba-
+ja permeabilidad, con la parte delantera reforzada y cerrada, con
+abertura en la parte de detrás, mangas largas y puños elásticos
+ajustados.
+2. Si existe exposición se cambiará inmediatamente.
+3. El personal no puede salir del área de trabajo de ( preparación de
+citostáticos ) flujo laminar vertical con la bata puesta.
+
+Mascarilla:
+1. En general, utilizará mascarilla todo el personal que trabaje en el
+área de flujo laminar. Si se trabaja en una cabina de seguridad
+biológica no es imprescindible utilizar mascarilla de protección
+respiratoria. Las mascarillas quirúrgicas no ofrecen protección
+respiratoria frente a los aerosoles citostáticos.
+2. Cuando se trabaja fuera de una cabina de seguridad biológica, o
+con polvos, sustancias volátiles o cápsulas es obligatoria la protec-
+68
+
+ción con mascarillas de protección respiratoria. Las mascarillas a
+usar serán aquellas que protejan contra aerosoles y sustancias can-
+cerígenas, como pueden ser: FPP2 S, FPP2 S-V, FPP2 S/L-V etc.
+
+Gafas:
+1. No es necesario utilizar gafas de seguridad (con protectores late-
+rales) cuando se trabaja en cabina de flujo vertical.
+
+Gorro:
+1. Todo el personal que trabaje en el área de flujo laminar utilizará
+gorro desechable.
+2. El gorro debe colocarse antes que la bata.
+2.4. Trabajo en la cabina de seguridad biológica de flujo laminar
+vertical
+Antes de la utilización de la cabina de seguridad biológica deben tenerse
+en cuenta una serie de recomendaciones:
+G Normas generales de limpieza y desinfección de la cabina de
+seguridad biológica
+1. El ventilador de la cabina estará funcionando.
+2. Se deben utilizar tejidos estériles de un solo uso, que no cedan partí-
+culas ni fibras, ligeramente humedecidos con solución desinfectante
+(alcohol 70°).
+3. Se efectuará una limpieza con agua jabonosa y seguidamente se
+aplicará un desinfectante (alcohol 70°):
+G Para efectuar la limpieza no se debe verter agua ni otros líquidos
+directamente en la zona de trabajo, sino limpiar con la ayuda de
+trapos húmedos.
+G Con una gasa estéril y guantes se realizará el arrastre siguiendo
+el sentido del flujo del aire y desde las áreas de menor a mayor
+contaminación. Primeramente, las paredes laterales de arriba ha-
+cia abajo y posteriormente la superficie de trabajo desde el fondo
+al exterior.
+G La limpieza y desinfección deberá realizarse en los siguientes casos:
+69
+
+—
+antes de comenzar cualquier trabajo en la cabina,
+—
+una vez finalizado el trabajo en la cabina,
+—
+siempre que cambie el programa de trabajo,
+—
+en caso de producirse derrames,
+—
+antes de realizar un test de control mecánico o biológico en la
+zona de trabajo.
+4. No debe mojarse el filtro HEPA mientras se limpia la cabina.
+5. Durante la limpieza de la zona contaminada se llevará bata protecto-
+ra y guantes de látex de un solo uso.
+6. Todo el material utilizado en la limpieza deberá considerarse residuo
+contaminado.
+G Normas generales de trabajo en la cabina de seguridad biológica
+1. El personal manipulador debe conocer las características de la cabina.
+2. La cabina permanecerá en funcionamiento las 24 horas del día los
+365 días del año. En el caso de desconectarse accidentalmente, se
+esperará al menos 20 minutos desde el inicio de su funcionamiento
+antes de realizar en ella cualquier manipulación. Se debería utilizar
+exclusivamente para el manejo de medicamentos citostáticos.
+3. Se seguirán las normas de higiene habitualmente establecidas en
+áreas de trabajo estériles (ausencia de joyas, prohibición de comer,
+beber, uso de cosméticos…).
+4. La superficie de trabajo se cubrirá con un paño estéril por la parte
+de arriba absorbente y por abajo plastificado para recoger los posi-
+bles vertidos accidentales que pudieran producirse. El paño se cam-
+biará después de cada sesión de trabajo o cuando se produzca un
+derrame.
+5. Se limpiará cuidadosamente todo el material necesario para el traba-
+jo con solución antiséptica (alcohol 70°) antes de su introducción en
+la cabina.
+6. Dentro de la cabina solamente puede estar el material necesario pa-
+ra la manipulación y elaboración de citostáticos.
+7. Todo el material estará dentro de la cabina antes de empezar el tra-
+bajo y se esperarán de 2 a 3 minutos para restablecer las condicio-
+nes de flujo.
+70
+
+8. No ha de bloquearse la entrada o salida de aire con papel u objetos
+9. No han de colocarse objetos en la parte superior de la cabina
+10. No se debe trabajar ni deben colocarse objetos a menos de 8 cm de
+los lados y 10 cm del frente de la cabina. La manipulación debe reali-
+zarse en la zona donde existe corriente de flujo.
+11. Los productos a manipular deben guardar una distancia entre ellos
+con objeto de mantener una corriente de flujo relativa, colocándose
+en el centro los estériles y los no estériles en la parte más externa.
+12. Los movimientos de los brazos del operador, dentro y fuera de la ca-
+bina, deber ser mínimos para mantener la integridad de la presión
+negativa enfrente del operador.
+13. Smoke split», «zona de partición de humo»: se llama así a la zona de
+la cabina donde el aire se divide en 2 direcciones, siendo específica
+de cada cabina. Es recomendable trabajar dentro de esta zona para
+aumentar la protección del operador. Se localiza fácilmente utilizando
+un generador de humo. Periódicamente se debe evaluar esta zona
+pues variaciones en su localización pueden ser indicativas de proble-
+mas en la campana. Estas revisiones no deben sustituir a los revisio-
+nes generales de la campana.
+G Control de calidad
+1. Validación de la estructura de la cabina de flujo laminar vertical (pre-
+feriblemente cada 6 meses): revisiones de la propia cabina como de
+los sistemas de filtración (flujo de aire, filtros HEPA, características
+mecánicas y eléctricas).
+2. Contaminación microbiológica del medio ambiente (cada 3 meses).
+3. Validación del proceso establecido
+2.5. Técnica de preparación
+La reconstitución de citostáticos requiere los siguientes materiales:
+1. Jeringas: de mayor capacidad que el volumen de líquido a inyectar
+con objeto de mantener siempre en el vial una presión negativa. El
+tamaño de las jeringas debe ser el adecuado para no ocupar más de
+las 3/4 partes de su capacidad.
+71
+
+2.
+Equipos IV: las jeringas y los equipos IV deben ser de cono luer-lock.
+La colocación del equipo de administración en caso de perfusión in-
+travenosa o la eliminación de las burbujas de aire, debe realizarse
+antes de adicionar el citostático al fluido intravenoso.
+3.
+Agujas: se usan las «agujas paja», con filtros especiales y además
+con válvulas para equilibrar presiones.
+4.
+Filtros de venteo hidrofóbicos: evitan la creación de presión positiva
+en los viales durante la preparación. El diámetro del poro es de 0,22
+micras, reteniendo las partículas de líquidos, polvos y aerosoles su-
+periores al mismo.
+5.
+Gasas y paños estériles, papel absorbente.
+6.
+Contenedores para jeringas y agujas usadas.
+7.
+Bolsa impermeable para los residuos.
+8.
+Contenedor de líquidos, etiquetado y con cierre hermético para des-
+hecho de restos citostáticos.
+Para evitar la formación de aerosoles debemos tener en cuenta que:
+I
+Aguja: se introduce con el bisel hacía arriba en un ángulo de 45° has-
+ta la mitad del bisel. A continuación se coloca la aguja en un ángulo
+de 90° y se introduce en el vial.
+I
+Líquido reconstituyente: se inyecta manteniendo el vial de pie, a pe-
+queñas emboladas, extrayendo después de cada una de ellas un po-
+co de aire del vial.
+I
+No se saca la aguja ni se separa de la jeringa
+I
+La agitación se hace de forma circular y suavemente, sujetando cui-
+dadosamente vial, jeringa y aguja.
+I
+Extraer líquido del vial: se extrae un poco de aire, se invierte el vial,
+colocándolo boca abajo, se extrae líquido del vial procurando que no
+entre aire. Una vez extraído el líquido, se elimina el aire y se ajusta la
+dosis, extrayendo a continuación la aguja y la jeringa de una sola vez.
+A continuación se detallan las normas de manipulación de medicamentos
+citostáticos intravenosos y orales:
+1.
+Si el citostático se presenta en VIAL:
+G Desinfección del tapón con alcohol 70° dejándolo evaporar.
+72
+
+G Introducir la aguja en ángulo de 45° con la superficie del tapón, el
+bisel hacía arriba. Cuando haya penetrado la mitad del bisel la
+aguja se dispondrá perpendicular al tapón siguiendo una técnica
+que mantenga siempre una presión negativa en el interior del vial.
+G Se evitará la sobrepresión en el interior del vial (formación de ae-
+rosoles) utilizando filtros de venteo provistos de membrana hidró-
+foba con poros de 0,22 micras.
+2.
+Si el citostático se presenta en AMPOLLAS:
+G La apertura se realizará tras asegurarse que no queda producto
+en el cuello ni en la cabeza de la ampolla.
+G Utilizar una gasa estéril empapada en alcohol 70º que cubra el
+cuello de la ampolla para evitar posibles heridas y salpicaduras y
+disminuir la aerosolización.
+G Abrir la ampolla en dirección contraria al operador.
+G Cuando se disuelve polvo liofilizado contenido en ampollas, el di-
+luyente debe ser introducido lentamente por la pared de la ampo-
+lla para humedecer lentamente el polvo y prevenir la formación de
+polvo.
+3.
+Cuando se manipulen FORMAS ORALES de medicamentos citostá-
+ticos:
+G Deben usarse guantes quirúrgicos de látex para manipular com-
+primidos y cápsulas de medicamentos citostáticos.
+G Los citostáticos orales deben ser reenvasados manualmente. No
+se debe utilizar la máquina reenvasadora de sólidos. También se
+pueden reenvasar manteniendo la protección del blister.
+G Deben tomarse enteros, no fraccionarlos ni triturarlos. En caso ne-
+cesario debe realizarse en la cabina de seguridad biológica e in-
+troducirlos previamente en una bolsa de plástico para evitar la for-
+mación de polvo.
+G Si se presenta en forma de suspensión, se administra utilizando
+un vaso o con jeringa.
+G Hay que limpiar adecuadamente tanto el área como los útiles usados.
+G Tanto el material usado para la limpieza como el resto de prepara-
+ciones no utilizado se consideran residuo citostático.
+73
+
+3. DISPENSACIÓN DE PRODUCTOS CITOSTÁTICOS
+Las condiciones que debe reunir un envase adecuado para la dispensa-
+ción de las preparaciones o mezclas de citostáticos serían:
+➢
+Los envases deben diseñarse y utilizarse para contener únicamente
+productos citostáticos.
+➢
+Resistencia mecánica a los golpes y a la presión.
+➢
+Posibilidad de contener los derrames que se produzcan desde el en-
+vase primario.
+➢
+Perfecta identificación de la preparación. La etiqueta debe contener
+información básica acerca de la identificación del paciente, contenido
+(solución intravenosa, medicamento, dosis), preparación (fecha y ho-
+ra), condiciones de conservación y caducidad, y administración (fe-
+cha, vía, duración).
+➢
+Color opaco si son posibles las fotodescomposiciones.
+4. TRANSPORTE INTERNO DE PRODUCTOS CITOSTÁTICOS
+Cuanto menor sea el recorrido de los preparados, menores son los ries-
+gos de errores y de incidentes. Deberá realizarse de forma que se eviten ro-
+turas o derrames. El personal encargado deberá conocer las medidas a lle-
+var a cabo en caso de que se produzca un accidente.
+Los contenedores que alberguen estos productos para su transporte de-
+ben cumplir las siguientes características:
+➢
+Resistencia al transporte.
+➢
+Contener exclusivamente el citostático.
+➢
+Etiquetado adecuado. En el exterior de paquete se debe hacer cons-
+tar la naturaleza del contenido y paciente destinatario.
+➢
+Aislante térmico para el necesario mantenimiento de la temperatura.
+5. ADMINISTRACIÓN DE CITOSTÁTICOS
+La administración de citostáticos requiere personas especialmente entre-
+nadas en su manejo debido a los riesgos que puede sufrir el paciente y a la
+posibilidad de contaminación del manipulador y/o del ambiente. Estas per-
+74
+
+sonas deben estar familiarizadas con los riesgos de contaminación ambien-
+tal y con las técnicas apropiadas de administración para evitar la contamina-
+ción. También deben estar entrenados en las medidas a tomar en caso de
+producirse una contaminación accidental del paciente (derrames) o del per-
+sonal sanitario y medio ambiente.
+Los mayores riesgos de exposición durante el proceso de administración
+son:
+—
+Los fluidos corporales del paciente que contienen altos niveles del
+agente citostático.
+—
+Agente citostático contaminante en el medio ambiente como resulta-
+do de un derrame, como ruptura del sistema intravenoso, goteo de la
+botella …
+5.1. Precauciones en la administración de medicamentos citostáticos
+La administración de citostáticos tiene que estar restringida a aquellos
+departamentos en que el personal sanitario esté adiestrado, tenga una ex-
+periencia suficiente en el manejo de estos medicamentos y conozca las me-
+didas de actuación en caso de derrames, roturas o cualquier otro incidente.
+❖Administración intravenosa:
+Cuando se va a administrar por vía intravenosa un medicamento citostá-
+tico, el personal sanitario debe utilizar guantes de látex, análogos a los utili-
+zados en la preparación de estos medicamentos, sin olvidar el lavado de
+manos antes y después de su uso. El mayor riesgo de exposición se pre-
+senta en los procesos de conexión y desconexión de los sistemas IV.
+Para evitar el riesgo de accidentes (caídas y roturas, goteo de conexio-
+nes.. ) en la medida de lo posible se evitará el uso de botellas de vidrio y se
+recomienda el uso de conexiones luer-lock y purgar el sistema con suero fi-
+siológico para evitar la contaminación con el agente citostático. Para elimi-
+nar la burbuja de aire de la jeringa y la purga del sistema de infusión se utili-
+zará una gasa u otro material absorbente, humedecido en alcohol 70º u otro
+antiséptico, en donde se recogerá la solución de medicamento que pueda
+ser vertida.
+Antes de administrar la solución de medicamento citostático, se colocará
+un paño absorbente (plastificado por su parte interior) alrededor de la vía de
+75
+
+administración del citostático para evitar la posible contaminación de ropa,
+mobiliario …
+Durante la administración IV se adoptarán las medidas necesarias para
+prevenir la extravasación (ver siguiente apartado).
+❖Técnica de administración intravenosa:
+G
+La expulsión de posibles burbujas de la jeringa se realizará colocan-
+do una gasa estéril impregnada de alcohol 70°.
+G
+Al seleccionar el lugar de infusión, aunque no existe completo acuer-
+do, se recomienda el siguiente orden de preferencia: antebrazo >
+dorso de las manos > muñecas > fosa antecubital.
+G
+Utilizar una infusión corta cuando el medicamento se administre en
+inyección IV directa. Administrar lentamente en «Y».
+G
+Comprobar la integridad de la vena y el flujo, así como la adecuada
+colocación del catéter y aguja. Ante cualquier anomalía seleccionar
+otro lugar.
+G
+Al finalizar la administración del citostático lavar el equipo y la vena
+con suero de la infusión.
+❖Administración oral:
+La administración de dosis orales de medicamentos citostáticos debe
+procurar ajustarse a unidades completas (comprimidos, grageas y/o cápsu-
+las). Si no fuera posible, la dosis debería prepararse en forma de suspen-
+sión, disgregando el comprimido, gragea o cápsula en un líquido.
+Si la suspensión no fuera posible y hubiera que fraccionar el comprimido,
+introduciremos éste en una bolsa de plástico para allí proceder a cortarlo.
+Siempre que sea necesario se utilizarán guantes para evitar el contacto
+directo con los comprimidos o cápsulas.
+Las suspensiones debe administrarse en vaso o preferiblemente con je-
+ringa. Esta tiene la ventaja de que se pone dentro de la boca y así se mini-
+miza la posibilidad de derrames.
+❖Aplicación tópica:
+Para la administración de cremas o soluciones oleosas que contengan ci-
+tostáticos deben usarse guantes extragruesos. Las áreas untadas con agen-
+76
+
+tes citostáticos deben ser cubiertas para evitar la contaminación del medio
+ambiente.
+6. TRATAMIENTO DE CONTAMINACIONES ACCIDENTALES,
+DERRAMES Y EXTRAVASACIONES DE CITOSTÁTICOS
+6.1. Tratamiento de contaminaciones accidentales
+El personal encargado de la manipulación de medicamentos citostáticos
+se encuentra especialmente formado y entrenado para tal actividad, por lo
+tanto, no es frecuente que se produzcan exposiciones agudas a estos medi-
+camentos. A pesar de ello, en las zonas donde se manipulen este tipo de
+medicamentos deben existir procedimientos escritos de actuación para sa-
+ber en todo momento cómo se debe actuar ante una contaminación acci-
+dental.
+Contaminación del personal
+1.
+Contaminación del equipo protector sin llegarse a poner en contacto
+con la piel del manipulador, es necesario reemplazar inmediatamen-
+te los guantes y/o prendas contaminadas, lavar las manos y sustituir-
+los inmediatamente.
+2.
+Si el agente citostático contacta directamente con la piel: se lavará in-
+mediatamente la zona afectada con agua y jabón, durante unos 10
+minutos. Si le piel se encontraba irritada, deberá ser examinada por
+un especialista.
+3.
+Si el agente citostático salpica los ojos: enjuagar el ojo afectado con
+agua o solución isotónica durante al menos 15 minutos y luego acu-
+dir al especialista.
+4.
+Aplicar el antídoto específico según el agente citostático.
+6.2. Tratamiento de derrames de citostáticos
+Los derrames accidentales se pueden producir en cualquier proceso en
+que esté presente un medicamento citostático (almacenamiento, prepara-
+ción, transporte y/o administración), por lo que deberán estar previstos los
+procedimientos y materiales necesarios para realizar la recogida.
+77
+
+Estos derrames deben ser limpiados inmediatamente por personal for-
+mado para ello (informado de la protección que debe usar y los procedi-
+mientos a realizar). El equipo protector estará constituido por:
+—
+Dos pares de guantes quirúrgicos de látex o guantes de doble grosor
+(aproximadamente 0,45 mm en los dedos y 0,27 mm en la palma de
+.la mano)
+—
+Bata desechable de baja permeabilidad.
+—
+Gafas de seguridad.
+—
+Mascarilla de protección respiratoria (tanto para limpiar derrames de
+polvo o líquido ya que puede generarse polvo o aerosoles en el am-
+biente).
+—
+Calzas.
+—
+Gorro.
+Procedimientos de actuación:
+1.
+Es muy importante evitar la formación de aerosoles, por lo que:
+— los líquidos deberán recogerse con gasas absorbentes,
+— los sólidos y polvo deberán recogerse con gasas húmedas.
+2.
+Si existen fragmentos de vidrio, se deberán recoger con una paleta y
+nunca con las manos. Los fragmentos se deberán introducir en con-
+tenedores rígidos.
+3.
+Si el derrame se produce en una zona de paso, el área deberá aislar-
+se con el fin de evitar la dispersión de las sustancias vertidas.
+4.
+Si el derrame afecta a la cabina de seguridad biológica, se deberá
+limpiar toda la cabina. Cuando el derrame es superior a 150 mL o es
+el contenido de un vial o ampolla es necesario realizar una deconta-
+minación de todas las superficies interiores de la cabina después de
+haberse realizado una limpieza completa del derrame. En el caso
+que se vea afectado el filtro HEPA, se deberá interrumpir la utilización
+de la cabina hasta que el filtro sea reemplazado.
+5.
+La limpieza se efectuará progresivamente de las zonas menos conta-
+minadas a las más contaminadas.
+6.
+Las áreas afectadas se deberán lavar 3 veces con una solución de-
+tergente seguida de agua limpia.
+78
+
+7.
+Todos los residuos recogidos y el material utilizado se deberán tratar
+como material contaminado a efectos de su eliminación, a excepción
+de los materiales reutilizables (gafas de seguridad, mascarilla de pro-
+tección respiratoria).
+El EQUIPO DE DERRAMES deberá estar ubicado en las zonas de pre-
+paración y administración de citostáticos y estar claramente identificado. Es-
+tará constituido por:
+I
+Gafas antisalpicaduras
+I
+Dos pares de guantes
+I
+Bata de baja permeabilidad
+I
+Calzas
+I
+Gorro
+I
+Material absorbente (que sea incinerable)
+I
+Bolsas para residuos citostáticos
+I
+Manoplas
+I
+Paleta y escobilla desechables para recoger los fragmentos de vidrio
+I
+Mascarilla de protección respiratoria
+I
+Contenedor de objetos cortantes
+Neutralizantes químicos:
+En la última normativa de la OSHA sobre manipulación de medicamentos
+peligrosos no se recomienda la neutralización química de derrames y/o resi-
+duos de citostáticos.
+El proceso de neutralización química, cuando la normativa vigente lo per-
+mita, sólo estaría recomendada cuando:
+I
+no sea posible la incineración,
+I
+no es posible la recogida del derrame según protocolos ya descritos,
+I
+existe un método validado para el agente derramado y conocemos el
+agente, el volumen necesario y el tiempo.
+Neutralización química:
+—
+Se considera un proceso complicado que precisa recursos, conoci-
+mientos y formación especializados.
+79
+
+—
+Los procedimientos de neutralización y los neutralizantes varían se-
+gún los medicamentos, lo cual haría necesario disponer de muchos
+preparados, de caducidad limitada, que se aplicarían, según el medi-
+camento de que se trate y su cantidad y/o concentración, en concen-
+traciones diferentes y en tiempos distintos (algunos muy prolonga-
+dos, que los hacen casi impracticables).
+—
+No se conocen los neutralizantes para todos los medicamentos citos-
+táticos.
+—
+Las indicaciones de neutralización que se conocen se refieren a
+agentes individuales, planteándose el problema si tenemos que neu-
+tralizar el derrame de una mezcla de citostáticos.
+—
+Con el proceso de neutralización química se corre el riesgo de gene-
+rar un volumen de residuos superior al de partida y la formación de
+productos nuevos, en ocasiones más tóxicos o mutágenos, resultan-
+tes de la adición del neutralizante, así como la posible necesidad, pa-
+ra algunos productos, de realizar neutralización en campanas extrac-
+toras de humos.
+Existen discordancias entre los métodos de neutralización publicados y
+es posible encontrar distintos neutralizantes para un mismo medicamento.
+Una lista de neutralizantes podría ser útil.
+80
+Neutralizantes químicos
+Fármaco citostático
+Neutralizante
+Amsacrina
+Idarubicina
+Hipoclorito sódico 10% (24 horas).
+Asparaginasa
+Ácidos o bases fuertes.
+Bleomicina
+Hidróxido sódico 10% o permanganato potásico 1% (24 horas) o Hipoclorito
+sódico 10% (24 horas).
+Cisplatino
+Diluir con abundante cantidad de agua y dejar en reposo 48 horas.
+Daunorubicina
+Doxorubicina
+Epirubicina
+Hipoclorito sódico (1% de cloro libre) (24 horas), hipoclorito sódico 10% (24
+horas).
+Etopósido
+5-fluorouracilo
+Vindesina
+Hipoclorito sódico 5-10% (24 horas).
+Pentostatina
+Vincristina
+Hipoclorito sódico 5% (24 horas).
+Vinblastina
+Agua caliente, Hipoclorito sódico 10% (24 horas).
+
+6.3. Prevención y tratamiento de la extravasación de citostáticos
+Se define extravasación como la salida de líquido intravenoso hacía es-
+pacio perivascular. La incidencia de extravasaciones de agentes antineoplá-
+sicos durante la administración intravenosa se sitúa entre el 0,1 y el 6% de
+los pacientes.
+IDENTIFICACIÓN DE LA EXTRAVASACIÓN
+La identificación de la extravasación debe ser lo más precoz posible. Po-
+demos sospechar una posible extravasación cuando desaparece el retorno
+venoso de sangre, disminuye el flujo de la perfusión, ante la presencia de
+hinchazón o eritema en torno al punto de la punción venosa o cuando el pa-
+ciente refiera dolor, escozor o sensación de quemazón.
+La comprobación de la sospecha puede hacerse mediante la aspiración
+con una jeringa a través de la cánula. Si no sale sangre, casi con toda segu-
+ridad estaremos frente a una extravasación, aunque si aparece sangre de-
+beremos continuar la comprobación poniendo un torniquete próximo y por
+81
+Neutralizantes químicos (cont.)
+Fármaco citostático
+Neutralizante
+Carmustina
+Bicarbonato sódico 8,4% (24-48 horas).
+Ciclofosfamida
+Hipoclorito sódico 5% (24 horas) o hidróxido potásico 0,2M (1 hora).
+Citarabina
+Ácido clorhídrico (24 horas).
+Dacarbazina
+Ácido sulfúrico 10% (24 horas). Después lavar con abundante cantidad de agua
+en vertedero.
+Dactinomicina
+Tratar con exceso de fosfato trisódico al 10% o Hidróxido sódico 20% (24 horas).
+Gemcitabina
+Ácido sulfúrico 0,5M y permanganato potásico 0,1 M (2 horas).
+Ifosfamida
+Hidróxido sódico 2 N en dimetil formamida (24 horas).
+Melfalán
+Tiosulfato sódico 5% en una solución de hidróxido sódico (24 horas).
+Mitramicina
+Fosfato trisódico 10% peso/volumen o hidróxico sódico 0,1 M.
+Mitomicina
+Ácido clorhídrico 2-5% (12 horas) o hidróxido sódico del 2% al 5%.
+Mitoxantrona
+Hidróxido sódico 5% (24 horas), Hipoclorito sódico 40% (24 horas).
+Tiotepa
+Diluir con abundante cantidad de agua hirviendo .
+
+encima del lugar de la punción con lo que detendremos el retorno venoso y
+disminuirá la velocidad de goteo en el caso de que la cánula se encuentre
+en el interior del vaso.
+PRECAUCIONES Y TRATAMIENTO DE LA EXTRAVASACIÓN
+Consideraciones:
+I
+Las recomendaciones de tratamiento son empíricas, generalmente
+basadas en modelos experimentales animales, en un número reduci-
+do de casos clínicos o en recomendaciones del fabricante.
+I
+La rapidez en la instauración del tratamiento de la extravasación es
+decisiva para que sea eficaz. La diferenciación precoz entre el efecto
+irritante (flebitis), vesicante (extravasación) o de hipersensibilidad que
+es fundamental para adoptar las medidas apropiadas, plantea dificul-
+tades prácticas, ya que en todas las formas de toxicidad local pueden
+presentarse síntomas comunes (ej.: dolor) y un mismo citostático pue-
+de dar lugar a varios tipos de toxicidad local (ej.: las antraciclinas se
+asocian a extravasación y a reacciones de hipersensibilidad).
+I
+Al no haberse establecido un tratamiento eficaz en la mayoría de los
+casos, la atención se centra en la prevención de la extravasación, ya
+que han sido identificados los posibles factores de riesgo y se han
+propuesto medidas preventivas.
+FACTORES DE RIESGO FRENTE A LA EXTRAVASACIÓN:
+1.
+Relacionados con el paciente:
+I Pacientes que no pueden comunicar la sensación de dolor que se
+produce durante la extravasación.
+I Pacientes ancianos (mayor fragilidad vascular).
+I Pacientes con historia de enfermedades vasculares periféricas,
+diabetes, síndrome de Raynaud.
+I Pacientes que han recibido previamente radioterapia en la zona
+de punción o quimioterapia.
+I Pacientes sometidos a terapia intravenosa previa de larga duración.
+La extravasación es más frecuente en pacientes neoplásicos debido
+a que suelen presentar venopunciones múltiples, flebitis (limita los si-
+tios de acceso venoso), linfedema (por cirugía previa) y debilidad ge-
+neralizada.
+82
+
+2.
+Relacionados con el medicamento
+La magnitud del daño tisular se relaciona con la naturaleza del medi-
+camento extravasado (vesicante, irritante, no vesicante ni irritante), la
+cantidad y concentración del medicamento extravasado, el tiempo de
+exposición, el volumen infiltrado en los tejidos, el sitio de infiltración y
+posiblemente el control posterior por parte del profesional sanitario.
+Las lesiones que pueden provocar pueden variar desde una ligera
+irritación local hasta dolor severo, necrosis tisular, ulceración cutánea
+e invasión de estructuras profundas tales como tendones.
+En función de su agresividad tisular los citostáticos pueden clasifi-
+carse en:
+ No vesicantes ni irritantes
+ Irritantes: capaces de producir dolor o inflamación local tras su ex-
+travasación
+ Vesicantes: capaces de producir ulceración local tras su extrava-
+sación.
+No existe unanimidad entre los diferentes autores a la hora de clasifi-
+car los diferentes antineoplásicos en los tres grupos, por ello se han
+clasificado según la reacción que aparece contemplada con mayor
+frecuencia en la bibliografía. Hay que tener en cuenta que las con-
+centraciones elevadas de citostáticos no vesicantes pueden ser
+agresivas o irritantes.
+83
+Clasificación de los citostáticos en función de su agresividad tisular
+No agresivos
+Irritantes
+Vesicantes
+Asparaginasa
+Bleomicina
+Carboplatino*
+Cisplatino*
+Ciclofosfamida
+Citarabina
+Fludarabina
+5-fluorouracilo
+Gemcitabina
+Ifosfamida
+Irinotecan
+Melfalan
+Metotretaxe*
+Mitoguazona
+Pentostatina
+Topotecan
+Carmustina*
+Cladribina
+Dacarbazina*
+Docetaxel
+Etopósido
+Mitoxantrone
+Paclitaxel
+Tenipósido
+Tiotepa*
+Amsacrina
+Dactinomicina
+Daunorubicina
+Doxorubicina
+Epirubicina
+Estramustina
+Estreptozocina
+Idarubicina
+Mecloretamina
+Mitomicina
+Mitramicina
+Vinblastina
+Vincristina
+Vindesina
+Vinorelbina 
+
+— Clasificación controvertida
+3.
+Relacionados con la técnica de administración
+— Personal mal adiestrado
+— Elección inapropiada de la cánula intravenosa utilizada
+— Localización inadecuada de la punción
+— Utilización de sistemas automáticos de perfusión (excepto bom-
+bas de presión reducida). Si se produce extravasación, el sistema
+continuará inyectando el medicamento a la misma velocidad que
+lo hacía en el vaso.
+PREVENCIÓN DE LA EXTRAVASACIÓN
+A la hora de administrar los medicamentos citostáticos a los pacientes, y
+con el fin principal de evitar que se produzca una extravasación, se han de
+tomar las siguientes precauciones:
+1.
+Ejecución por personal de experiencia: debe conocer los medica-
+mentos que utiliza (su manejo, efectos tóxicos) y mantener una vigi-
+lancia cuidadosa para detectar la aparición de signos sospechosos
+(falta de retorno venoso, hinchazón …).
+2.
+Solicitar la colaboración del paciente para que refiera cualquier sínto-
+ma de extravasación (dolor, escozor, sensación de quemazón).
+3.
+Seleccionar correctamente el lugar de punción. Se debe elegir un va-
+so con gran flujo que permita una dilución rápida.
+Aunque no existe completo acuerdo, se recomienda el siguiente orden
+de preferencia: antebrazo>dorso de la mano>muñeca>fosa antecubi-
+tal. El lugar más idóneo es el antebrazo, ya que en la medida de lo po-
+sible se debe evitar los vasos de la muñeca y el dorso de la mano y las
+zonas en las que se puedan afectar estructuras más especializadas.
+En la fosa antecubital es más difícil la detección de extravasación en
+caso de producirse, y es por ello la zona menos aconsejable.
+No se recomiendan tampoco las venas de extremidades inferiores
+(por el riesgo de aparición de tromboflebitis), venas con problemas
+vasculares y aquellas en las que se han hecho múltiples intentos de
+punción.
+4.
+Elección correcta de la cánula, aguja y catéter. No debe pincharse di-
+rectamente con la aguja.
+84
+
+Las cánulas metálicas se utilizarán sólo para perfusiones cortas,
+mientras que en perfusiones largas deben usarse catéteres plásticos
+de pequeño calibre por su menor riesgo de perforación de la vena.
+Para medicamentos vesicantes o si se tiene previsto la administra-
+ción de perfusiones de medicamentos citostáticos durante un largo
+periodo de tiempo (ejemplo perfusión continua ambulatoria de 5-fluo-
+rouracilo en pacientes con cáncer colorrectal) se recomienda el uso
+de una vía central.
+Técnica de administración:
+1.
+Tras insertar la aguja en la vena, se sujetará con un esparadrapo, evi-
+tando tapar el lugar de inyección. Se comprobará la integridad y el
+flujo de la vena administrando 5-10 mL de suero fisiológico suero glu-
+cosado al 5% (u otra solución compatible con el medicamento) y se
+extraerá una pequeña cantidad de sangre.
+2.
+La administración del medicamento se efectuará despacio sin utilizar
+una presión excesiva, con un flujo de 5 mL/min durante aproximada-
+mente 3 a 7 minutos.
+3.
+Durante la administración directa, se extraerá sangre cada 1-2 mL
+para comprobar la adecuada colocación de la aguja.
+4.
+Se preguntará repetidamente al paciente si tiene algún dolor o sen-
+sación de ardor en la zona de administración.
+5.
+Cuando se haya terminado la infusión del antineoplásico pasar 10-20
+mL de suero fisiológico o glucosado al 5% para lavar el conducto o la
+vena.
+6.
+Si hay que administrar más de un medicamento citostático, el proce-
+dimiento de actuación podría ser el siguiente:
+—
+Administrar primero los no vesicantes. En caso de que todos se-
+an vesicantes, administrar primero el de menos concentrado. En
+el caso de carmustina o dacarbazina deberían administrarse los
+últimos ya que pueden causar dolor e irritación.
+—
+Comprobar antes de cada administración la integridad de la vena
+—
+Lavar entre las administraciones de cada medicamento con 3-5
+mL de suero fisiológico o glucosado al 5% para evitar posibles
+interacciones entre los diferentes medicamentos y al final de la
+administración antes de sacar la aguja.
+85
+
+—
+Al final, sacar la aguja y presionar el lugar de administración du-
+rante unos segundos.
+TRATAMIENTO DE LA EXTRAVASACIÓN
+El protocolo de actuación ante una extravasación de medicamentos ci-
+tostáticos puede ser el indicado a continuación:
+1. Hay que detener inmediatamente la administración de citostáticos
+para evitar que continúe la extravasación.
+2. Se retirará el equipo de infusión, pero NO la vía.
+3. Se extraerán 3-5 mL de líquido a través del catéter, para intentar eli-
+minar una parte del medicamento extravasado. Esta maniobra es
+muy controvertida, y muchos autores la desaconsejan, pues es muy
+dolorosa y poco efectiva. Si se han formado ampollas que contengan
+medicamento, sí se aconseja aspirar el contenido de las mismas.
+4. Se identificará la extravasación: marcar los bordes del área que se
+sospecha afectada.
+5. Si es posible, se diluirá el medicamento dentro del área infiltrada admi-
+nistrando a través de la vía de perfusión 5-10 mL de suero fisiológico.
+6. Si procede, se utilizarán medidas específicas de tratamiento de la
+extravasación (administración de antídotos a través del catéter, de
+forma subcutánea o vía tópica).
+7. Aplicar frío (se aplicarán bolsas o compresas de frío seco, a ser po-
+sible flexibles y sin congelar, evitando presionar la zona) o calor (se
+emplearán bolsas o compresas de calor seco, nunca calor húmedo
+que podría macerar la zona evitando presionar) según proceda.
+8. Aplicar localmente pomada de hidrocortisona al 1% sobre la zona
+afectada cada 12 horas mientras persista el eritema. También se
+pueden inyectar 50-100 mg de hidrocortisona o 4 mg de dexameta-
+sona para reducir la inflamación.
+9. Tras estas medidas, se retirará el catéter y/o la aguja de administración.
+10. Se limpiará la zona con povidona yodada al 10%.
+11. Se recomendará al paciente que procure mantener elevada la extre-
+midad afectada, a una altura superior a la del corazón para mejorar
+el retorno venoso.
+12. No se deben aplicar vendajes compresivos en la zona extravasada.
+86
+
+13. Si persiste el dolor después de 48 horas, deberá consultarlo al espe-
+cialista.
+14. En caso necesario se valorará la cirugía reparadora.
+Cerca del área de administración de citostáticos debe ubicarse un equipo
+de extravasación, que incluirá:
+—
+protocolo de actuación en caso de extravasación,
+—
+agujas IV y SC (25 G),
+—
+jeringas de insulina,
+—
+jeringas de 2,5 y 10 mL,
+—
+povidona yodada,
+—
+gasas estériles,
+—
+bolsa de frío,
+—
+bolsas de calor,
+87
+Antídotos recomendados en caso de extravasación
+Medicamento
+Antídoto
+Daunorubicina
+Doxorubicina
+Epirubicina
+Idarubicina
+Mitomicina
+Aplicación tópica de DMSO (dimetilsulfóxido) en el área afectada, cada 2 hs,
+seguido de la aplicación de crema de hidrocortisona y frío* durante 30 m.
+durante las primeras 24 hs. Los 14 días siguientes aplicar DMSO cada 6 hs,
+alternando con la aplicación tópica de hidrocortisona.
+Dactinomicina
+Tiosulfato sódico al 3%: infiltrar 1-3 mL.
+Cisplatino
+Tiosulfato sódico al 3%: infiltrar 1-3 mL, aspirar de nuevo y aplicar calor*.
+Docetaxel
+Paclitaxel
+Infiltrar 1-3 mL de una mezcla de hidrocortisona y antihistamínico IV, en
+inyecciones subcutáneas de 0,2 mL. Aplicar calor* y admn. tópicamente un
+antihistamínico en crema.
+Mecloretamina
+Tiosulfato sódico al 3%: infiltrar 1-3 mL. Después infiltrar 100 mg de
+hidrocortisona y aplicar frío* de forma intermitente durante 12 horas.
+Etopósido
+Tenipósido
+Condroitinsulfatasa 100 T.R.U. Infiltrar una ampolla en inyecciones de 0,2 mL
+en y alrededor de la zona afectada.
+Vinblastina
+Vincristina
+Vindesina
+Vinorelbina
+Condroitinsulfatase 100 T.R.U. Infiltrar una ampolla en inyecciones de 0,2 mL
+en y alrededor de la zona afectada. Aplicar calor* durante las primeras 24 hs.
+En los 7 días siguientes aplicar una crema de antiinflamatorio no esteroideo.
+* Ciclos de 15 minutos cada 30 minutos.
+
+—
+tiosultafo sódico 1/6 M,
+—
+DMSO 99% sol,
+—
+Condroitinsulfatasa 100 T.R.U. amp. 2 mL (Thiomucase®),
+—
+Guantes estériles,
+—
+Pomada hidrocortisona 1%,
+—
+Hidrocortisona inyectable 100 mg,
+Nota: El DMSO se aplicará aproximadamente sobre el doble del área
+afectada, previamente cubierta por una gasa empapada en unos mL de
+DMSO, sin aplicar presión ni vendajes.
+7. ELIMINACIÓN DE DESECHOS Y RESÍDUOS DE CITOSTÁTICOS
+Todo el material usado en los procesos relacionados con los medicamen-
+tos citostáticos, debería de ser desechable y retirarse y eliminarse según es-
+trictos procedimientos.
+Deben ser recogidos en contenedores rígidos, convenientemente etique-
+tados con el pictograma de citostáticos, se debe evitar cualquier manipula-
+ción de los residuos, los contenedores deben estar situados lo más próximo
+posible a las áreas de trabajo, nunca se han de llenar más de tres cuartos
+de su capacidad y una vez llenos se enviarán a la persona encargada de su
+recogida para su evacuación al almacén final de residuos.
+La eliminación de residuos citostáticos, según la legislación vigente ha de
+hacerse exclusivamente mediante incineración.
+BIBLIOGRAFÍA
+1. ASHP (American Society of Hospital Pharmacists) technicaal assistan-
+ce bulletin on handling cytotoxic and hazardous drugs. Am J Hosp
+Pharm. 1990;47:1033-49
+2. Cuña Estévez, B y cols. Manejo de medicamentos citostáticos. Asocia-
+ción española de Farmacéuticos de Hospitales. 1ª Edición. Madrid, 1986.
+3. Extravasación de citostáticos: la necesidad de disponer de un kit para
+una actuación inmediata. Farm Clin 1993; 10(5): 416-21.
+4. Extravasación de citostáticos: actuación frente a nuevos medicamen-
+tos. Farm Clin 1994; 11(8).
+88
+
+5. Manejo de productos citostáticos. 1995. Instituto Nacional de Seguridad
+e Higiene en el trabajo.
+7. Nuevos tratamientos de la extravasación de citostáticos: protocolo de
+actuación. Farm Clin 1992; 9(10): 900-4.
+8. Revisión de los programas de prevención y tratamiento de la extravasa-
+ción de medicamentos citostáticos en el medio hospitalario. El farma-
+céutico de hospitales 1996; 72:20-9.
+9. Servicio de Medicina Preventiva y Salud Pública. Hospital «Ramón y
+Cajal» de Madrid. Guía para el manejo de drogas antineoplásicas.
+10. Orden de 22 de abril de 1992, del Excelentísimo señor Consejero de
+salud de la Comunidad Autónoma de Madrid, por la que se regulan las
+normas de funcionamiento y requisitos de los centros, servicios y esta-
+blecimientos, que manejan medicamentos citotóxicos.
+89
+
+
+

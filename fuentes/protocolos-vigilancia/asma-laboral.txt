@@ -1,0 +1,2323 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+ASMA LABORAL
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18. 28014 Madrid
+ISBN: 84-7670-577-8
+NIPO: 351-00-020-X
+Depósito Legal: M-50329-2000
+Imprime: RUMAGRAF, S. A.
+Avda. Pedro Díez, 25. 28019 MADRID
+O.T. 26530
+
+El Consejo Interterritorial del Sistema Nacional de Salud informa
+favorablemente el «Protocolo de vigilancia sanitaria específica para
+los/as trabajadores/as expuestos a Asma Laboral», en su sesión ple-
+naria de 18 de diciembre de 2000.
+CONSEJO
+INTERTERRITORIAL
+SISTEMA NACIONAL DE SALUD
+
+7
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE SALUD
+PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL
+DE SALUD
+COORDINACIÓN DEL PROTOCOLO
+DEPARTAMENTO DE SALUD DEL GOBIERNO DE NAVARRA
+INSTITUTO NAVARRO DE SALUD LABORAL
+AUTORES
+Elena Ordoqui García. Alergóloga. NORLABOR. Pamplona.
+Marta Orta Martiartu. Alergóloga. NORLABOR. Pamplona.
+José Luis Lázcoz Rojas. Higiene Industrial. NORLABOR. Pamplona.
+Con el apoyo del equipo de desarrollo NORLABOR y la colaboración de Mutua
+Navarra.
+GRUPO DE TRABAJO DE SALUD LABORAL
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid. 
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa María Campos Acedo. Consejería de Sanidad y Consumo. Extremadura.
+Rosario Castañeda López. Consejería de Sanidad. Madrid
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Laborales.
+País Vasco.
+Isabel Enseñat Antolí. Consejería de Sanidad y Consumo. Baleares.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+Valentín Esteban Buedo. Consejería de Sanidad. Valencia.
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social. Casti-
+lla y León.
+Fernando Galvañ Olivares. Consejería de Sanidad y Política Social. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Javier Sevilla Lamana. Consejería de Salud y Servicios Sociales. La
+Rioja. 
+Isabel González García. Consejería de Sanidad y Servicios Sociales. Galicia.
+Asunción Guzmán Fernández. Consejería de Salud y Servicios Sanitarios. Astu-
+rias.
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y Trabajo.
+Aragón.
+M.ª Pilar Sánchez Fabo. Instituto Vasco de Seguridad y Salud Laborales. País
+Vasco.
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad Social.
+Cataluña.
+
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanita-
+ria», editados por el Ministerio de Sanidad y Consumo y fruto del trabajo
+desarrollado por las Administraciones Sanitarias a través del Grupo de
+Trabajo de Salud Laboral de la Comisión de Salud Pública del Consejo
+Interterritorial del Sistema Nacional de Salud, como contribución a las ac-
+tividades de prevención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos labo-
+rales (Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone,
+entre otras cuestiones, que debe cambiar radicalmente la práctica de los
+reconocimientos médicos que se realizan a las y los trabajadores. De ser
+exámenes médicos inespecíficos, cercanos a los clásicos chequeos o cri-
+bados de carácter preventivo general, deben pasar a ser periódicos, es-
+pecíficos frente a los riesgos derivados del trabajo, con el consentimiento
+informado del trabajador, y no deben ser utilizados con fines discrimina-
+torios ni en perjuicio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea eficaz
+para la prevención.
+El poder contar con criterios uniformes basados en la evidencia cien-
+tífica y la experiencia profesional de los participantes en los grupos de
+trabajo constituidos para su elaboración, permitirá alcanzar los objetivos
+de prevención de la enfermedad y promoción de la salud de las y los tra-
+bajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar
+la salud de los trabajadores para detectar precozmente e individualizar
+los factores de riesgo y deterioro que puedan afectar a la salud de los
+mismos», la recogida armonizada y periódica de datos sobre riesgos y
+enfermedades y su posterior análisis e interpretación sistemáticos con
+criterios epidemiológicos, constituye uno de los instrumentos con que
+cuenta la salud pública para poder identificar, cuantificar y priorizar, y por
+lo tanto, diseñar políticas de prevención eficaces.
+9
+
+Para la elaboración de los protocolos, se constituyeron varios grupos
+de trabajo, que, coordinados por los representantes de las Comunidades
+Autónomas, permitiese la elaboración en paralelo de varios de ellos.  Fi-
+nalmente, una vez concluido el procedimiento interno de elaboración de
+los mismos, han sido sometidos a consulta y adecuadamente informados
+por Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Socie-
+dades Científicas (SEMST, SEEMT, AEETSL, SESPAS y SEE), con cu-
+yos representantes se mantuvieron reuniones al efecto, en el Ministerio
+de Sanidad y Consumo, habiéndose incorporado a la redacción final los
+comentarios recibidos que se consideró mejoraban el texto presentado.
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los sa-
+nitarios, una guía de actuación para la vigilancia sanitaria específica de
+las y los trabajadores afectados de asma laboral, que será revisado perió-
+dicamente, en la medida que así lo aconseje la evolución de la evidencia
+científica disponible y su aplicación concreta en los centros de trabajo de
+nuestro país.
+María Dolores Flores Cerdán
+Directora General de Salud Pública y Consumo
+10
+
+SUMARIO
+Pág.
+1.
+CRITERIOS DE APLICACIÓN .............................................
+13
+2.
+DESCRIPCIÓN DEL PROBLEMA .......................................
+15
+2.1.
+Definiciones y conceptos ............................................
+15
+2.2.
+Fuentes de exposición y usos ....................................
+15
+2.3.
+Mecanismos de acción ...............................................
+16
+2.4.
+Efectos sobre la salud ................................................
+17
+3.
+EVALUACIÓN DEL RIESGO ..............................................
+19
+3.1.
+Factores de riesgo ......................................................
+19
+3.2.
+Valores límite ambientales (VLA) e índices biológicos
+de exposición (VBEIs) ................................................
+20
+3.3.
+Evaluación por factores  .............................................
+22
+3.4.
+Niveles de riesgo ........................................................
+24
+4.
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA..
+25
+4.1.
+Historial laboral ...........................................................
+25
+4.2.
+Exploración clínica específica ....................................
+35
+4.3.
+Control biológico y estudios complementarios especí-
+ficos ............................................................................
+36
+4.4.
+Criterios de valoración ................................................
+39
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTO-
+COLO MÉDICO ESPECÍFICO .............................................
+41
+6.
+CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES
+QUE SE DETECTEN ............................................................
+43
+7.
+NORMATIVA APLICABLE ...................................................
+45
+8.
+BIBLIOGRAFÍA ....................................................................
+47
+11
+
+Pág.
+ANEXO I: TABLA DE ALERGENOS DE ELEVADO Y BAJO
+PESO MOLECULAR ...............................................................
+51
+ANEXO II: EXAMEN CLÍNICO ...................................................
+57
+ANEXO III: ANEXO CLÍNICO DE PARTICULARIDADES POR
+AGENTE ..................................................................................
+63
+12
+
+1.
+CRITERIOS DE APLICACIÓN
+El objeto de la siguiente guía es ilustrar acerca de la cumplimentación
+del protocolo correspondiente para la detección de sospecha de asma en
+el puesto de trabajo, ya que la relación entre esta patología y la actividad
+laboral es conocida desde hace años. En los últimos tiempos ha pasado
+a ser la neumopatía laboral más frecuente en los países desarrollados,
+por encima incluso de silicosis y asbestosis. Este hecho se debe a la con-
+tinua descripción de agentes etiológicos implicados, así como al mejor
+conocimiento de la fisiopatología de la enfermedad (1).
+• Incluiremos en este apartado las formas de asma ocupacional don-
+de se impliquen mecanismos inmunológicos (2), siguiendo a aque-
+llos autores que consideran este tipo de patología producido por
+sensibilización a una sustancia presente en el lugar de trabajo. Para
+que esta sensibilización tenga lugar se precisa que exista un perío-
+do de latencia durante el cual el paciente se sensibiliza al agente en
+cuestión; es a partir de este momento cuando aparece la clínica
+tras la exposición a pequeñas cantidades del agente causal (3).
+Habrá que distinguir como entidad aparte el Síndrome de Disfunción
+Reactiva de Vías Aéreas (RADS), considerado en la bibliografía actual
+como una forma de asma ocupacional de mecanismo no inmunológico.
+Fue descrito por primera vez en 1985 por Brooks y cols. (4-5) en 10 pa-
+cientes que presentaron síntomas tras una exposición única a altas con-
+centraciones de vapores, gases o humos irritantes a los pocos minutos u
+horas de la exposición, encontrándose en todos los pacientes una hiper-
+reactividad bronquial inespecífica (HRBI) en ausencia de una enferme-
+dad respiratoria previa. Puede ser consecuencia de un accidente laboral
+o de una mala ventilación en el área de trabajo (6). Afecta a personas sa-
+nas y la clínica aparece en cuestión de horas, a veces minutos, tras el
+episodio de exposición. La clínica es superponible a un cuadro de asma,
+de intensidad variable, que a veces puede evolucionar a bronquitis, bron-
+quiolitis y alveolitis, pudiendo alcanzar grados de extrema gravedad (7).
+La principal característica que diferencia al RADS de otras formas de
+asma laboral es la ausencia de período de latencia entre la exposición al
+agente etiológico y el inicio de los síntomas (6-8).
+13
+
+El protocolo se aplicará a todos los trabajadores con exposición a
+alergenos de elevado y bajo peso molecular, de los que se incluyen lista-
+dos orientativos (7):
+DE ELEVADO PESO MOLECULAR (EPM) (9-10-11)
+Ganadería, trabajadores portuarios, de silos y molinos. Panaderías,
+industria alimentaria. Industria de especias. Industria cervecera, agricul-
+tura. Procesamiento de soja.
+Industria del café, té, manufactura de tabaco. Industria textil. Industria
+farmacéutica y personal sanitario.
+Floristerías y cultivadores de flores. Industria de fertilizantes. Pelu-
+querías. Imprentas.
+Industria del látex, personal sanitario, veterinarios, inspectores. Indus-
+tria de jabones y champú. Higienistas dentales.
+Panaderías. Cultivadores y procesadores de hongos comestibles
+(champiñón). Elaboración de comidas japonesas. Extracción de aceites.
+Industria conservera.
+Observadores de pájaros, avicultores, procesadores y desplumado-
+res. Recolectores de ostras, perlas y coral, pescadores y procesadores
+de pescado. Criadores, manipuladores y cuidadores de acuarios.
+Correos, encuadernadores. Trabajadores de silos, muelles y molinos.
+DE BAJO PESO MOLECULAR (BPM) (12-13-14-15-16)
+Industria farmacéutica. Peluquería. Manufacturas de colorantes. In-
+secticidas organofosforados, industria química. Industria textil. Fotocopia-
+doras. Industria de poliuretano.
+Enfermería, Anatomía patológica, laboratorio, personal sanitario.
+Dentistas.
+Refrigeración, soladores. Fundiciones. Industrias plásticas, gomas.
+Explosivos. Marroquinería. Curtido y tinte de peletería.
+Fotografía, lacados, industria cosmética, aeronáutica, pinturas en
+spray, manufactura de esquíes.
+Aserraderos, acabados de maderas y carpinterías, ebanistería y fabri-
+cación de muebles.
+Limpieza de calderas, procesamiento de minerales. Refinerías y
+Aleaciones, Soldaduras. Metalurgia. Electrónica.
+RADS
+Soldadores. Personal hospitalario. Limpieza. Procesamiento de pulpa
+de madera, industria química, ganadería. Bomberos (incendios). Conduc-
+tores de tren, pintores, reparadores, operarios de plantas eléctricas (4).
+14
+
+2.
+DESCRIPCIÓN DEL PROBLEMA
+2.1.
+DEFINICIONES Y CONCEPTOS
+El asma laboral se define como un cuadro de obstrucción bronquial
+reversible al flujo aéreo asociado a una hiperreactividad bronquial, provo-
+cado por la exposición a polvo, vapores, gases o humos presentes en el
+lugar de trabajo (17-18).
+Si se trata de un posible Síndrome de Disfunción Reactiva de Vías
+Aéreas, habrá que tener en cuenta los siguientes criterios diagnósticos
+(Brooks y cols.) (4-8-19):
+— Ausencia de enfermedad respiratoria previa.
+— Comienzo de los síntomas tras una exposición única accidental.
+— El agente causante es un gas, humo o vapor en altas concentra-
+ciones, con propiedades irritantes.
+— Los síntomas pueden comenzar durante las 24 horas siguientes a
+la exposición y persisten un mínimo de 3 meses.
+— Presencia de síntomas de broncoespasmo: tos, disnea y sibilan-
+cias
+— Posible obstrucción bronquial en las pruebas funcionales respira-
+torias.
+— Prueba de provocación bronquial con metacolina positiva.
+— Se han descartado otras enfermedades pulmonares.
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS
+En 1980 se conocían ya más de 200 agentes capaces de provocar
+asma en el medio laboral, pero es difícil todavía conocer su prevalencia e
+incidencia real (14). En general, se estima que la prevalencia de asma en
+la población general es de un 5-10% y, de éste, un 5% puede ser de tipo
+ocupacional (20).
+Sería quizás más exacto hablar de prevalencia de asma ocupacional
+para cada agente y tipo de industria, pero faltan aún datos y estudios al
+respecto. La incidencia real del asma laboral depende también de facto-
+15
+
+res ambientales y de algunas características del huésped que lo harían
+más susceptible (9-21).
+La prevalencia del asma en España se sitúa entre el 5 y el 14% de la
+población, de la que el porcentaje correspondiente a asma ocupacional
+podría ser entre el 2 y el 15%. Japón es el país con mayor prevalencia
+de asma laboral, con un porcentaje estimado próximo al 25% de todos
+los casos, posiblemente relacionado con el alto nivel de industrialización
+(22-23).
+Los estudios más utilizados para determinar la prevalencia de asma
+laboral requieren la identificación de los trabajadores afectados, que se
+podría realizar por el procedimiento diagnóstico habitual con fines clíni-
+cos (21). Éste comprende: historia o cuestionario, pruebas de función
+respiratoria, estudio de hiperreactividad bronquial inespecífica, pruebas
+de sensibilización (prick-test e IgE específica), monitorización seriada del
+Flujo Espiratorio Máximo (FE) y Pruebas de Provocación Bronquial Espe-
+cífica. La realización de todo este estudio puede resultar difícil y hasta im-
+posible en la valoración de grandes poblaciones de trabajadores. Por otro
+lado, no existe ningún test diagnóstico simple ni específico que permita
+identificar los casos (7).
+El cuestionario es siempre un elemento clave como primer paso para
+la identificación de nuevos casos de asma laboral.
+Se suele establecer la separación entre alergenos de Elevado Peso
+Molecular (EPM) y de Bajo Peso Molecular (BPM) por encima y por deba-
+jo de 10 kilodaltons. El dalton es la unidad de peso molecular (masa ató-
+mica) definido como el equivalente a 1.657×10-24 g. Como dato de utilidad,
+añadiremos que en los antígenos de Bajo Peso Molecular se suelen dife-
+renciar aquellos en los que el mecanismo inmunológico se conoce o en
+los que sólo se supone, división que, aunque ficticia, suele resultar útil.
+Los de EPM incluyen moléculas tipo proteínas, glicoproteínas y péptidos
+de origen animal, vegetal, bacteriano y micótico, que oscilan entre pesos
+moleculares de 20.000 a 50.000 Kda (13-18).
+2.3.
+MECANISMOS DE ACCIÓN
+Cuando el trabajador se expone a un determinado agente ocupacio-
+nal puede quedar o no sensibilizado al mismo (24).
+No se conoce con exactitud por qué un individuo se sensibiliza y otro
+no. Aparte de la índole del alergeno, existen otros factores que favorecen
+una posible sensibilización, como son la historia previa de atopia, una hi-
+perreactividad bronquial preexistente, el hábito de fumar y el llamado ti-
+ming de la exposición, o sea, la frecuencia, intensidad y duración de la
+exposición al posible antígeno (25).
+Los alergenos inducen producción de IgE específica frente al agente
+en cuestión, y a veces de IgG, lo que constituye la base de una respuesta
+de Hipersensibilidad tipo I. Los de BPM son moléculas generalmente de
+< 1 Kda, que pueden producir reacciones de hipersensibilidad tipo I de
+16
+
+Gell y Coombs, mediadas por IgE, y a veces por otros mecanismos no
+siempre bien establecidos.
+2.4.
+EFECTOS SOBRE LA SALUD (26-27)
+Es por el momento especulativo, pero se ha propuesto que la exposi-
+ción a un agente irritante en altas concentraciones desencadena un pro-
+ceso de inicio rápido que produce una lesión y destrucción masiva del
+epitelio bronquial (18). El daño epitelial tiene diversas consecuencias no-
+civas, como alteración en las funciones de las células del epitelio, dismi-
+nución de la síntesis de factor relajante derivado de las mismas y libera-
+ción de mediadores con propiedades tóxicas e inflamatorias. Con todo
+esto se desencadena el mismo proceso inflamatorio que tiene lugar en el
+asma (28). Como consecuencia de todo ello, pueden aparecer finalmente
+cambios irreversibles en la estructura de las vías respiratorias, con lesio-
+nes crónicas y persistencia de los síntomas de broncospasmo (7).
+El estatus asmático es el asma prolongada (28). Alivia sólo parcial-
+mente con el tratamiento y es con frecuencia incapacitante. Puede evolu-
+cionar hacia la insuficiencia respiratoria crónica con aumento de la pCO2
+arterial. Complicaciones tardías frecuentes son su asociación con EPOC
+y la aparición de arritmia ventricular (30).
+Cuando la clínica que presenta el trabajador sea sugestiva de asma,
+se compruebe con las exploraciones enumeradas más adelante (espiro-
+metría basal sugestiva de patrón obstructivo o que responda a pruebas
+de broncodilatación) y se confirme en el estudio específico la implicación
+causal del agente en cuestión, se llegará al diagnóstico de asma laboral
+(31-32).
+17
+
+3.
+EVALUACIÓN DEL RIESGO
+3.1.
+FACTORES DE RIESGO
+La aplicación del protocolo de detección de una posible asma laboral
+estará indicada cuando exista la posibilidad de que el trabajador pueda
+sensibilizarse por exposición a cualquiera de las sustancias descritas
+hasta la actualidad, precisando para ello la exposición a la sustancia y un
+período de latencia que es variable según el agente y que no existe en el
+RADS, unidos a factores inmunológicos personales inexcusables y, oca-
+sionalmente, a hábitos coadyuvantes (33-34).
+3.1.1.
+Factores de riesgo ambientales (8-26-27)
+Tendrán riesgo de padecer este tipo de asma laboral aquellos trabaja-
+dores expuestos a altas concentraciones de sustancias inhaladas irritan-
+tes para las vías respiratorias en lugares donde las medidas de ventila-
+ción y aireación sean insuficientes para la cantidad de agente en el
+ambiente. Deberá existir necesariamente un tiempo de latencia de meses
+o años hasta que se produzca la sensibilización.
+A)
+Concentración: cuanto mayor sea, aumentará el riesgo de sen-
+sibilización a la sustancia.
+B)
+Tiempo de exposición: será necesario para dar pie a que se
+desarrollen los mecanismos inmunitarios en los trabajadores. La
+experiencia clínica muestra que el paso de los años no hace de-
+saparecer el riesgo de enfermedad pero sí la hace menos habi-
+tual.
+C)
+Ventilación y aireación del lugar de trabajo: las condiciones
+deficitarias favorecerán la sensibilización. Para su evaluación de-
+berán tenerse en cuenta los criterios del RD 486/1997, sobre se-
+guridad y salud en los lugares de trabajo.
+19
+
+3.1.2.
+Factores de riesgo de susceptibilidad individual (8-26-27)
+D)
+1.
+Asociación de Atopia y agentes de EPM: la mayoría de
+los agentes ocupacionales de elevado peso molecular inducen
+asma por este mecanismo. La asociación previa de ambos facili-
+ta la aparición del síndrome.
+2.
+Asociación de Hiperreactividad bronquial (HRB) previa
+y agentes de BPM. Muchos de los agentes manejados en el
+medio laboral pueden ser irritantes para las vías respiratorias,
+sobre todo los de bajo peso molecular.
+E)
+Hábito de fumar y otros antecedentes (32): en general, el ries-
+go de padecer HRB tras la exposición a alergenos laborales es
+mayor en fumadores, y parece claro que el tabaco favorece la
+sensibilización. Si se combina el rasgo atópico con el tabaquis-
+mo, todavía se incrementa más este riesgo.
+Antecedentes personales como inhalación de drogas, infeccio-
+nes respiratorias de repetición, reflujo gastroesofágico y asma
+bronquial previo pueden cursar con hiperreactividad bronquial fa-
+cilitando el desarrollo de asma laboral. Existen excepciones a
+este hecho, puesto que para algunos agentes ocupacionales,
+como es el caso del cedro rojo, se ha visto que el hábito de fu-
+mar protege de la sensibilización.
+3.2.
+VALORES LÍMITE AMBIENTALES (VLA) E ÍNDICES
+BIOLÓGICOS DE EXPOSICIÓN (BEIs)
+Para la valoración de los niveles de riesgo hay que decir que no resulta
+fácil delimitar el nivel de seguridad de la concentración de un determinado
+agente ocupacional. Son conocidos y manejados los TLV (Threshold limit
+value) o valor límite umbral de concentración ambiental de un agente, por
+encima del cual podrían aparecer alteraciones para la salud, aunque care-
+cen de valor como prueba de diagnóstico clínico. Lógicamente, este TLV es
+diferente para cada sustancia y sólo se dispone de algunos de los agentes
+que se manejan. Lo delimitan las entidades gubernamentales pertinentes y
+puede ser variable de un país a otro, según conocimientos científicos y dis-
+posiciones legislativas. De cualquier modo, estos TLV tienen valor de reco-
+mendación y no es obligatorio su cumplimiento por ley. Los valores TLV
+más conocidos y respetados son los de la ACGIH (American Conference of
+Governamental Industrial Hygienists), entidad federal de los EE.UU.
+Sin embargo, la publicación de los Valores Límite Ambientales españo-
+les (VLA) en los últimos años por el INSHT hace preferible su utilización.
+Los Índices Biológicos de Exposición españoles no han sido publicados por
+el momento. Nos remitimos, por tanto, a los BEIs de la ACGIH (35).
+De todas formas, los Valores Límite Ambientales tienen poco valor
+como parámetro de referencia para las enfermedades respiratorias de
+20
+
+causa alérgica, ya que valores muy inferiores pueden sensibilizar y de-
+sencadenar síntomas asmáticos en el sujeto sensibilizado. Tienen, por
+tanto, valor de recomendación técnica sin carácter legal (36).
+VLA-ED, VALORES LÍMITE AMBIENTALES-EXPOSICIÓN DIARIA
+BEIs, ÍNDICES BIOLÓGICOS DE EXPOSICIÓN
+Sustancia
+VLA-ED mg/m3
+BEIs
+2-Aminoetanol
+7,5
+—
+Aluminio (sales-metal en polvo)
+2-10
+—
+Cereales en polvo
+4
+—
+Cobalto elemental
+0,02
+15 µg/l en orina
+1 µg/l en sangre
+Cromo
+0,5
+10 µg/g creatinina en orina
+Diisocianato de 1,5-naftileno
+0,043
+—
+Diisocianato de 1,6-hexametileno
+0,035
+—
+Diisocianato de 2,4-tolueno
+0,036
+—
+Diisocianato de 4,4-difenilmetano
+0,052
+—
+Enflurano
+575
+—
+ác. mandélico 300-800
+mg/g creatinina en orina
+Estireno
+86
+ác. fenilglioxílico 100-240
+mg/g creatinina en orina
+estireno 0,02-0,55 mg/l
+en sangre
+Fenol
+20
+250 mg/g creatinina
+en orina
+Formaldehído (VLA-Exposición Corta)
+0,37 (VLA-EC)
+—
+Glutaraldehído (VLA-Exposición Corta)
+0,2 (VLA-EC)
+—
+Harinas de trigo, centeno, almorta,
+gluten, soja
+4
+—
+Isofluorano
+383
+—
+Metacrilato de metilo
+208
+—
+Níquel
+1
+—
+Persulfato de amonio, potasio y sodio
+0,1
+—
+Platino
+1
+—
+Subtilisinas (enzimas proteolíticas)
+(VLA-Exposición Corta)
+0,00006 (VLA-EC)
+—
+Tungsteno
+5
+—
+21
+
+3.3.
+EVALUACIÓN POR FACTORES
+A)
+Concentración
+Puntos
+Valor inferior al 10% del VLA-DE o concentraciones bajas si no
+existe éste
+0
+Valor entre el 10 y el 25% del VLA-DE o concentraciones medias
+1-2
+Valor entre el 25 y el 50% del VLA-DE o concentraciones altas
+3-4
+Valor superior al 50% del VLA-DE o concentraciones muy elevadas
+5-6
+TOTAL VALORACIÓN A)
+B)
+Tiempo de exposición
+Puntos
+Menos de 1 mes
+0
+Entre 1 y 6 meses
+1-2
+Entre 6 meses y 3 años
+3-4
+Entre 3 y 10 años
+5-6
+Más de 10 años 
+1-2
+TOTAL VALORACIÓN B)
+C)
+Ventilación y aireación del lugar de trabajo
+Puntos
+Condiciones adecuadas
+0
+Condiciones dudosas
+1-2
+Malas condiciones
+3-4
+TOTAL VALORACIÓN C)
+22
+
+D)
+Asociación de Atopia + agentes de EPM
+Asociación de Hiperreactividad bronquial (HRB)
+previa + agentes de BPM
+Puntos
+No asociados
+0
+Sospecha de asociación
+2-3
+Asociación documentada
+6
+TOTAL VALORACIÓN D)
+E)
+Hábito de fumar y otros antecedentes
+Puntos
+Sin interés
+0
+Hábitos o antecedentes de riesgo
+2-3
+Hábito conocido de tabaquismo
+4-5
+TOTAL VALORACIÓN E)
+Valoración de los factores de riesgo
+(máx)
+Puntos
+FACTOR A)
+(6)
+FACTOR B)
+(6)
+FACTOR C)
+(4)
+FACTOR D)
+(6)
+FACTOR E)
+(5)
+TOTAL
+(27)
+TOTAL VALORACIÓN
+23
+
+3.4.
+NIVELES DE RIESGO
+Examen 
+Nivel de riesgo
+Puntos
+Estado de la evaluación
+clínico
+I
+0-10
+Riesgo aceptable.
+Situación satisfactoria
+2 años
+Riesgo moderado. Valorar y planificar
+II
+11-20
+las modificaciones que reduzcan el 
+1 año
+riesgo
+III
+21-27
+Riesgo no tolerable. Reducción del
+riesgo
+6 meses
+Restricciones: En caso de valoración máxima en el factor D), se eva-
+luará el riesgo en el nivel III.
+24
+
+4.
+PROTOCOLO DE VIGILANCIA
+SANITARIA ESPECÍFICA
+Se aplicará este protocolo tanto en la evaluación inicial como en los
+exámenes periódicos, ajustándose al ritmo indicado en el punto 3.4.
+4.1.
+HISTORIA LABORAL (ANAMNESIS LABORAL Y EXPOSICIÓN
+ACTUAL AL RIESGO)
+CÓDIGO: CIE-9-MC 493.0
+4.1.1.
+Datos de filiación
+Apellidos
+Nombre
+Fecha de nacimiento
+Sexo
+Estado civil
+Peso
+Talla
+4.1.2.
+Historia laboral
+4.1.2.1.
+Formación-Nivel de estudios
+4.1.2.2.
+Puesto de trabajo actual
+Indicar Codificación Nacional de Ocupaciones-CNO:
+— En formación
+— Permanente 
+— Rotativo
+4.1.2.3.
+Tiempo que lleva en el puesto
+— Semanas
+— Meses
+— Años
+25
+
+4.1.2.4.
+Puestos previos dentro de la misma empresa
+1.
+CNO:
+2.
+CNO:
+3.
+CNO:
+4.1.2.5.
+Trabajos previos en otras empresas (indicar CNO). Listado
+orientativo:
+— Ganaderos, trabajadores portuarios, silos y molinos
+— Industria cervecera
+— Industria de procesamiento de soja
+— Industria alimentaria
+— Industria de fertilizantes
+— Manufactura de café, té y cacao
+— Industria textil
+— Industria de especias
+— Cultivadores e industria conservera
+— Extracción de aceites
+— Elaboración de comidas
+— Floristerías y viveros
+— Servicio doméstico
+— Imprentas
+— Industria cosmética
+— Manufactura del látex
+— Panaderías
+— Agricultores
+— Servicios fúnebres
+— Personal de laboratorio
+— Animalarios
+— Veterinarios
+— Procesadores de carne
+— Inspectores sanitarios
+— Industria farmacéutica
+— Observadores de pájaros, avicultores
+— Recolectores y procesadores de ostras, perlas y marisco
+— Empleados de Correos
+— Encuadernadores
+— Manipuladores de enzimas y detergentes
+— Personal sanitario: médico, ATS-DUE, farmacéutico
+— Criadores de gusanos de seda
+— Industria del plástico
+— Industria poliuretano, barnices y esmaltes
+— Aserraderos, carpinterías, ebanistería y fabricación de muebles
+— Refinerías de platino
+— Plateados
+26
+
+— Cromados y curtidores de piel
+— Fundiciones
+— Limpieza de calderas
+— Procesamiento de minerales
+— Refinerías y Aleaciones
+— Soldaduras
+— Peluquería 
+— Manufacturas de colorantes
+— Electrónica
+— Tintes
+— Otros:
+Empresa
+Actividad
+Fecha de inicio y cese
+1.
+2.
+3.
+4.1.2.6.
+Exposiciones conocidas en el puesto de trabajo
+(a aplicar en apartados 4 y 5)
+— Gases
+— Humos
+— Vapores
+— Polvo
+— Aerosoles
+Si la respuesta es «sí», anotar cuáles, teniendo en cuenta los
+siguientes listados no exhaustivos:
+DE ELEVADO PESO MOLECULAR 
+Sustancias de origen vegetal, polvo y harinas
+— Polvo de cereales
+— Harinas de trigo, centeno
+— Lúpulo
+— Harina y polvo de soja
+— Ricino
+— Cacao, café, hojas de té
+— Semillas de algodón
+— Semillas de lino. Psyllium
+— Polvo de ajo
+— Linaza
+— Maico
+27
+
+— Plantas y flores frescas
+— Flores secas ornamentales
+Alimentos
+— Patata, legumbres
+— Acelgas, ajo
+— Espinacas
+— Espárrago
+Enzimas vegetales
+— Papaína, diastasa
+— Pectinasa, bromelina
+Gomas vegetales
+— Caraya
+— Tragacato, acacia, arábiga, guar
+— Quillaya
+— Látex
+Hongos y esporas
+— Alternaria, Aspergillus
+— Esporas de Cladosporium
+— Hongos de hortalizas
+— Hongos comestibles
+— Hongos en general
+— Amilasa micótica
+Proteínas animales
+— Animales de laboratorio (ratas, cobayas, conejos...)
+— Orina, pelo y proteínas séricas
+— Animales domésticos y de consumo
+— Extracto de órganos animales (ACTA, peptona hipofisaria)
+— Aves (plumas, suero, excrementos)
+— Líquido de Ascidia
+— Ostras de cultivo y polvo de perlas
+— Camarones y cangrejos
+— Cola de pescado
+— Esponjas marinas
+— Huevo
+28
+
+Enzimas animales
+— Subtilis, Esperasa
+— Tripsina, pancreatina, bromelina y flamatasa
+Insectos y Ácaros
+— Ácaros de depósito
+— Ácaros de aves
+— Gusanos de seda
+— Cochinilla
+— Polilla 
+— Mariposa
+— Insectos
+— Picadores
+— Cucaracha
+— Grillos
+— Moscas de río
+— Otros:
+DE BAJO PESO MOLECULAR
+Medicamentos
+— Antibióticos (penicilina, ampicilina, cefalosporinas, espirami-
+cina, tetraciclina, sulfatiazol, sulfonas)
+— Otros (Metildopa, salbutenol, diclorhidrato de piperacina, li-
+copodio, ipecacuana, hexaclorofeno, penicilamina, hidralazi-
+na y clorhexidina)
+Anhídridos
+— Ácido ptálico, trimetílico, hexahidroptálico, hímico y tetraclo-
+roptálico
+— Resinas epoxi
+Diisocianatos
+— Diisocianato de tolueno, de difenilmetano, de hexametileno
+y de naftaleno
+— Plásticos
+— Barnices
+— Esmaltes
+29
+
+Maderas
+— Cedro Rojo, ceiba africana, cedro del Líbano, sudafricano
+— Roble 
+— Caoba
+— Mansonia
+— Abiruana 
+— Cocaball
+— Kejaat
+— Pino gigante de California
+— Ramin
+— Iroco
+— Morera
+— Palo Marfín
+— Boj
+— Otras:
+Metales
+— Platino
+— Níquel
+— Cromo
+— Aluminio
+— Vanadio
+— Cobalto
+— Acero inoxidable
+— Otros:
+Miscelánea
+— Sales de persulfato y extractos de alheña
+— Colorantes reactivos
+— Colofonia
+— Parafenilendiamina
+— Piperacina
+— Formaldehído
+— Fenol
+— Otros:
+4.1.2.7.
+Equipos de protección individual (EPIs)
+— Guantes
+— Tipo:
+— Mascarilla
+— Tipo:
+— Gafas
+— Ropa especial
+— Otros:
+30
+
+4.1.2.8.
+Medidas de control ambiental en el puesto de trabajo
+— Ventilación
+— Filtros
+— Tipo:
+— Campanas extractoras
+— Tipo:
+— Infraestructura general, especificar:
+— Otras:
+4.1.3.
+Antecedentes personales y hábitos a tener en cuenta como
+factores de riesgo para sospecha de Asma Laboral
+4.1.3.1.
+Historia de Atopia
+— Rinitis/Conjuntivitis
+— Intrínseca
+— Extrínseca
+— por sensibilización a pólenes
+— por sensibilización a ácaros
+— otros:
+Asma bronquial
+— Intrínseco
+— Extrínseco
+— por sensibilización a pólenes
+— por sensibilización a ácaros
+— otros:
+Alergia a medicamentos
+— No
+— Sí
+— Cuáles
+— Alergia a alimentos
+— No
+— Sí
+— Cuáles
+Alergia a látex
+— No
+— Sí
+— Clínica de rinitis
+— Clínica de asma
+— Clínica de urticaria-dermatitis
+31
+
+Urticaria-Angioedema
+Dermatitis atópica
+4.1.3.2.
+Infecciones respiratorias
+— Catarros
+— Cuántos al año
+— Neumonías
+— Otras
+¿Cursan con hiperreactividad bronquial?
+— Sí
+— No
+4.1.3.3.
+EPOC preexistente
+— Tipo Bronquitis Crónica
+— Tipo Enfisema
+4.1.3.4.
+Reflujo gastroesofágico con/sin hernia de hiato
+— Sí
+— No
+4.1.3.5.
+Tabaquismo
+— No
+— Fumador pasivo (Ej.: cónyuge de fumador)
+— Ex fumador (Desde hace cuánto tiempo)
+— Sí
+— < 1 paquete diario
+— > 1 paquete diario
+— Durante cuántos años
+4.1.3.6.
+Alcohol
+— Bebe diariamente
+(Desde hace cuánto tiempo)
+— Bebe ocasionalmente
+— Bebe sólo los fines de semana
+32
+
+4.1.3.7.
+Drogas de abuso (principalmente fumadas o inhaladas)
+— Marihuana
+— Cocaína
+— Heroína
+— Otras:
+4.1.3.8.
+Aficiones
+— Bricolaje
+— Pintura
+— Jardinería
+— Cría de animales
+— Posee mascota/mascotas
+— Otras:
+4.1.4.
+Antecedentes familiares
+— Enfermedades alérgicas
+— Rinitis/Rinoconjuntivitis
+— Asma Bronquial
+— Urticaria/Dermatitis
+— Alergia a medicamentos/ alimentos
+4.1.5.
+Historia actual
+— Tos
+— Disnea
+— Opresión torácica
+— Sibilancias
+— Síntomas nasales y/u oculares
+— Prurito
+— Estornudos
+— Obstrucción
+— Hidrorrea
+— Anosmia
+— Expectoración
+— No
+— Sí
+33
+
+Si tiene tos, opresión torácica ó sibilancias 
+Frecuencia de las crisis
+— Menos de una/mes
+— Una por mes
+— Una por semana
+— Una por día
+— Más de una por día
+Intensidad
+— Débil
+— Mediana
+— Fuerte
+Horario
+— Día y noche
+— Sólo por el día
+— Sólo por la noche
+— Al final de la noche
+— Se encuentra peor
+— lunes
+— viernes
+Relación con la jornada laboral
+— Al inicio
+— A media jornada
+— Al final
+Si tiene disnea 
+— De reposo
+— De esfuerzo
+— de grandes esfuerzos
+— de medianos esfuerzos
+— de mínimos esfuerzos
+— ¿Existen otros trabajadores con el mismo problema en el mismo
+puesto de trabajo?
+— No
+— Sí
+— ¿Cuántos?
+— ¿Relaciona el cuadro con alguno de los productos que manipula?
+— No
+— Sí
+— ¿Con cuáles?
+34
+
+— Tiempo de latencia del cuadro
+— No existe
+— Sí existe
+— ¿Cuánto?
+Mejoría
+— Al finalizar la jornada laboral
+— En fines de semana
+— En vacaciones
+— Se encuentra mejor el lunes que el viernes
+4.2.
+EXPLORACIÓN CLÍNICA ESPECÍFICA
+— Inspección
+— Exploración:
+— Auscultación cardiopulmonar normal:
+SÍ
+NO
+CÓDIGO
+— Sibilancias
+— Roncus
+— Crepitantes
+— Disminución del murmullo
+Para llegar al diagnóstico de un asma laboral a través de la Historia
+Clínica (17) es importante:
+1.
+Establecer una sospecha clínica de asma (37-38). Resaltar la
+existencia de síntomas sugestivos de broncospasmo: tos, opresión toráci-
+ca, disnea y/o sibilancias, tras la exposición al agente durante un tiempo
+de latencia variable, que oscilará entre meses y años. Cuando el paciente
+está sensibilizado, la clínica se desencadena con exposiciones muy pe-
+queñas, inmediatamente después del contacto o unas horas más tarde.
+Es habitual que el paciente empeore al finalizar la jornada laboral y
+conforme avanza la semana, para mejorar en fines de semana o en pe-
+ríodos vacacionales (27).
+Otros datos de la historia clínica que pondrían en la pista de estar
+ante un asma de origen laboral son: asociación con otras enfermedades
+atópicas como rinoconjuntivitis o urticaria, paciente asmático conocido
+que empeora en la edad adulta, presencia de otros compañeros de traba-
+jo con clínica similar en presencia de un posible agente sensibilizante,
+hobbies sugestivos, cría o convivencia con mascotas, etc. (26).
+2.
+Establecer el diagnóstico de asma bronquial. Basta con hallarnos
+ante una clínica típica y una espirometría basal que se ajuste a un patrón
+obstructivo, con test de broncodilatación positivo (aumento del VEMS por
+35
+
+encima de un 20% respecto al valor basal tras administración de un bron-
+codilatador como salbutamol o terbutalina).
+Si el estudio funcional es normal, hay que demostrar la hiperreactivi-
+dad bronquial por medio de un test de histamina o metacolina que será
+practicado en la consulta del especialista, por tratarse de una prueba no
+exenta de riesgo de reproducir un broncospasmo grave.
+4.3.
+CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTARIOS
+ESPECÍFICOS
+— Analítica general: Puede ser normal, pero a veces puede detectar-
+se eosinofilia con/sin leucocitosis.
+— La radiografía de tórax puede ser normal.
+— Espirometría basal (39).
+PATRÓN VENTILATORIO OBSTRUCTIVO (34)
+— CVF normal o descendida.
+— VEMS: descendido por debajo del 80% del valor de referencia.
+— FEF 25-75%: descendido por debajo del 60% del valor de refe-
+rencia.
+— VEMS/CVF: porcentaje inferior al 70% del valor real.
+GRADOS DE ALTERACIÓN OBSTRUCTIVA (38)
+1.
+Ligera: CVF, VEMS o ambas, expresadas como porcentaje del
+valor de referencia, entre el 80 y el 65%.
+2.
+Moderada: CVF, VEMS o ambas, expresadas como porcentaje
+del valor de referencia, entre el 64 y el 50%. 
+3.
+Grave: CVF, VEMS o ambas, expresadas como porcentaje del
+valor de referencia, entre el 49 y el 35%.
+4.
+Muy grave: CVF, VEMS o ambas, expresadas como porcentaje
+del valor de referencia, por debajo del 35%.
+Se exponen los métodos de diagnóstico especializado solamente a tí-
+tulo informativo:
+Para llegar a demostrar que el ambiente laboral es el responsable de
+la clínica se consideran principalmente los siguientes métodos (17-40):
+— Medición seriada del pico-flujo espiratorio: se realiza por medio de
+un medidor de pico-flujo, pidiendo al paciente que haga 3 registros cada 2
+horas aproximadamente, apuntando el mejor de ellos, desde que se le-
+vanta hasta que se acuesta, durante 2 ó 3 semanas en el trabajo y duran-
+36
+
+te otras 2 ó 3 semanas fuera de él, incluyendo siempre los fines de sema-
+na. Para facilitar el trabajo al paciente, se admite reducir el número de
+lecturas diarias a unas 4 ó 6. La valoración se efectuará de la siguiente
+manera: se considera el registro como sugestivo de asma cuando existe
+una variación diaria entre la mejor y peor medición de un 20%, y será un
+registro típico de asma ocupacional en el caso de observarse un empeo-
+ramiento en los días de trabajo, con mejoría los días de fiesta, fines de
+semana o vacaciones (41-42).
+— Medición de la función pulmonar mediante espirometría, antes y
+después de cada turno laboral. Es menos práctico que el método anterior.
+— Medición seriada de la hiperreactividad bronquial inespecífica,
+con test de metacolina o histamina efectuado tras un período continuo de
+trabajo comparándolo con otra determinación realizada tras 4 semanas
+de descanso. Como se ha dicho antes, éste es un test no exento de ries-
+gos, y que es preferible manejar en la consulta del especialista.
+Demostrar que el paciente está sensibilizado a un agente que se en-
+cuentra en el lugar de trabajo es una tarea laboriosa (43), que requiere la
+colaboración del servicio de prevención, directivos y técnicos, recogiendo
+las medidas de protección e higiene industrial que se aplican en la em-
+presa. De todas formas, han de conocerse, al menos de manera somera,
+las maniobras que permiten detectar un mecanismo inmunológico en el
+diagnóstico de asma profesional debido a un agente determinado (44):
+Detección de anticuerpos específicos tipo IgE (y a veces IgG4) por
+medio de técnicas in vivo e in vitro:
+— Técnicas in vivo: Son las pruebas cutáneas, principalmente prick-
+test y, en algunos casos, intradermorreacción (ID). Para realizar este tipo
+de pruebas se requiere que el posible alergeno esté preparado de forma
+estandarizada y estable con una composición, potencia y estabilidad co-
+nocidas. Notar que los alergenos de bajo peso molecular suelen compor-
+tarse como haptenos, y para hacer las pruebas será necesario asociarlos
+a un carrier tipo albúmina sérica humana. Tienen la ventaja de ser prue-
+bas rápidas, relativamente baratas y bastante sencillas de realizar, pero
+su interpretación tiene algunos problemas ya que todavía hoy existen nu-
+merosos agentes, sobre todo de bajo peso molecular, para los que las
+pruebas son negativas, bien porque no actúan por un mecanismo IgE,
+porque su preparación no sea la adecuada, o incluso por desconocimien-
+to del verdadero agente responsable (13-45).
+— Técnicas in vitro: Permiten demostrar de forma directa la presencia
+del anticuerpo específico contra el antígeno sospechado en suero (28).
+Las técnicas más empleadas son:
+• RAST: Radioallergosorbent Test y RAST-inhibición (una variante del
+mismo).
+• Pruebas de ELISA.
+• TLH: Test de Liberación de Histamina.
+37
+
+En muchos casos su utilidad es la de confirmar los resultados del test
+cutáneo y sólo en una minoría constituyen una buena alternativa al prick
+o a la ID. También requieren una buena selección y adecuación del ex-
+tracto alergénico o del conjugado de antígenos que actúan como hapte-
+nos. Tienen ventaja en pacientes que presenten lesiones cutáneas o que
+no puedan suspender tratamientos farmacológicos. Las limitaciones son
+similares a los tests cutáneos (antígenos no conocidos o que actúen por
+mecanismos no inmunológicos), y son en general menos sensibles que
+éstos.
+Hay que saber igualmente que la demostración de una sensibilización
+sólo nos indicará que ha existido exposición a esa sustancia, pero no ne-
+cesariamente que es la responsable de la enfermedad.
+Confirmación de la relación causal entre asma y uno o varios agen-
+tes ocupacionales: Test de Provocación Bronquial Específica con Antí-
+geno (46):
+— Estudio de paciente expuesto a un agente todavía no reconocido
+como agente causal de asma ocupacional.
+— Determinar causa concreta de asma ocupacional en un paciente
+expuesto a un ambiente laboral complejo.
+— Por razones médico-legales.
+— Cuando el diagnóstico no queda claro por historia clínica, pruebas
+funcionales y serológicas.
+Resumen de la sistemática de esta prueba: no existe un solo método
+uniformemente estandarizado a causa de las grandes diferencias clíni-
+cas, físico-químicas y patogénicas entre agentes. En general, el sistema
+variará según la naturaleza del agente: líquido, sólido o gaseoso, volátil,
+soluble en agua, etc., y también si existe o no un mecanismo inmunológi-
+co conocido. El alergeno se administrará por medio de nebulizadores,
+inhaladores de polvo seco o cabinas de inhalación, siendo este último el
+ideal por reproducir las condiciones del medio de trabajo, y sobre todo si
+se trata de agentes en forma de humo, vapores o gases. Es recomenda-
+ble que este tipo de prueba se realice con personal adecuadamente en-
+trenado y bajo la supervisión del especialista, que será quien realizará la
+prueba en las condiciones óptimas para el paciente, y dado que no están
+exentas de riesgo, como por ejemplo reproducir un broncospasmo grave.
+El control de los Índices Biológicos de Exposición (BEIs) (35) no pue-
+de servir como orientación clínica de la evolución pero sí de los riesgos
+potenciales en el puesto de trabajo. Por otra parte, la mayoría de las sus-
+tancias implicadas carecen de índice recomendado. Los más importantes
+son los siguientes (35):
+Cobalto elemental: cobalto en orina al final del turno del último día de
+la semana de trabajo (15 µg/l). Cobalto en sangre al final del turno del úl-
+timo día de la semana de trabajo (1 µg/l).
+38
+
+Cromo (VI): cromo total en orina. Incremento en el turno (10 µg/g
+creatinina). Al final del turno del último día de la semana de trabajo
+(30 µg/g creatinina).
+Estireno: ácido mandélico en orina al final del turno (800 mg/g creati-
+nina) o antes del turno siguiente (300 mg/g creatinina). Ácido fenilglioxíli-
+co en orina al final del turno (240 mg/g creatinina) o antes del turno si-
+guiente (100 mg/g creatinina). Estireno en sangre venosa al final del
+turno (0,55 mg/l) o antes del turno siguiente (0,02 mg/l).
+Fenol: cantidad total de fenol en orina al final del turno (250 mg/g cre-
+atinina).
+4.4.
+CRITERIOS DE VALORACIÓN (31-38)
+Grado 0
+Ausencia de signos y síntomas
+Grado 1
+Tos, disnea y/o sibilancias de carácter leve. CVF, VEMS o ambos entre
+65-85% del valor de referencia
+Grado 2
+Tos, disnea y/o sibilancias de carácter moderado. CVF, VEMS o ambos
+entre 50-64% del valor de referencia
+Grado 3
+Tos, disnea y/o sibilancias de carácter severo. CVF, VEMS o ambos entre
+35-49% del valor de referencia
+Grado 4
+Tos, disnea y/o sibilancias de carácter muy severo. CVF, VEMS o ambos
+por debajo del 35% del valor de referencia
+RADS
+Tos, disnea y/o sibilancias de cualquier intensidad en trabajadores ex-
+puestos a altas concentraciones de sustancias inhaladas irritantes, sin pe-
+ríodo de latencia
+El grado 0 se asignará cuando el trabajador no presente signos ni sín-
+tomas sospechosos de asma mediada por alergenos en el ambiente la-
+boral.
+El grado 1 corresponde a la aparición de sospecha de asma funda-
+mentalmente por tos, disnea o sibilancias de carácter leve. Reforzará su
+adscripción la existencia de disminución de la Capacidad Vital Forzada
+(CVF) y del Volumen Espiratorio Forzado en el primer segundo (VEMS)
+por debajo del 65%.
+En el grado 2 existe evidencia en grado leve de los mismos trastornos
+respiratorios con disminución del VEMS y de la CVF por debajo del 50%.
+El trabajador, no obstante, es capaz de desarrollar su actividad de mane-
+ra aparentemente normal.
+El grado 3 se aplicará a los casos en que el estado del trabajador esté
+afectado en grado moderado, con trastornos bien establecidos y que le
+39
+
+dificulten para realizar la actividad laboral y social con normalidad. La dis-
+minución del VEMS y de la CVF alcanzará entre el 49 y el 35%.
+El grado 4 supone el establecimiento de un déficit funcional por asma
+muy severo sumado a las condiciones del grado 3. La CVF, el VEMS o
+ambos estarán por debajo del 35% del valor de referencia (20, 34).
+40
+
+5.
+NORMAS PARA LA
+CUMPLIMENTACIÓN DEL PROTOCOLO
+MÉDICO ESPECÍFICO
+El protocolo se aplicará a todos los trabajadores que ocupen puestos
+como los especificados en el punto 1 con exposición a alergenos inclui-
+dos en el ANEXO I.
+Para la evaluación del riesgo específico de los puestos de trabajo en
+relación con el asma ocupacional, previa a la decisión de planificar la ex-
+ploración clínica específica, deberán seguirse los pasos indicados en el
+punto 3, EVALUACIÓN DEL RIESGO.
+A fin de facilitar la cumplimentación del protocolo, el ANEXO 2 para el
+examen clínico se estructura en forma de respuestas cerradas en la ma-
+yor parte de los casos. En las preguntas cuya respuesta sea Sí/No, se se-
+ñalará con una cruz la que corresponda. En caso de que la pregunta
+ofrezca varias posibilidades, habrá que marcar con una cruz la respuesta
+elegida. Cuando el dato requerido sea una fecha, se contestará el día,
+mes y año de cada evento. Si fuera imposible conocer este dato con
+exactitud, se anotará una fecha aproximada. Si se trata de una respuesta
+abierta, se intentará ser lo más conciso y concreto posible.
+El ANEXO 3, Anexo clínico de particularidades por agente, podrá ser-
+vir de documento de consulta para aquellas cuestiones que precisen am-
+pliación en algunos de los alergenos más importantes.
+Es muy importante proporcionar la mayor información para que los
+datos recogidos puedan aportar conclusiones de las que se puedan ex-
+traer aplicaciones útiles en salud laboral.
+41
+
+6.
+CONDUCTA A SEGUIR SEGÚN
+LAS ALTERACIONES QUE
+SE DETECTEN
+Si el paciente refiere o se detectan signos o síntomas de alarma de
+padecer asma bronquial en el medio de trabajo, se realizará un estudio
+exhaustivo de higiene industrial, para reducir al máximo los límites de
+exposición al agente sospechoso o confirmado por el estudio pertinen-
+te (33).
+— Medidas para reducir la concentración ambiental de contaminantes
+(17-47):
+— Actuar con una adecuada ventilación sobre el foco emisor y el en-
+torno laboral de riesgo.
+— Limpieza estricta y mantenimiento adecuado para evitar riesgos
+de escapes y accidentes.
+— Sustituir agentes de riesgo por otros que no lo sean o lo sean en
+menor grado.
+— Adecuar el agente de riesgo a condiciones en que su inhalación
+no sea posible. Es típico el caso del Bacillus subtilis en la industria
+de detergentes, que ha sido prácticamente erradicado al pasar a
+elaborar detergentes en forma de grano grueso en lugar de polvo
+fino, tal como se fabricaba antes.
+— Medidas de protección personal para reducir o, si es posible, evi-
+tar la exposición:
+— Realizar rotaciones periódicas de los puestos de trabajo don-
+de la exposición es mayor.
+— Usar guantes y mascarillas apropiados para cada agente se-
+gún se indica en guías apropiadas.
+— Realizar los controles médicos periódicos dirigidos a detectar
+sensibilizaciones y/o afectación clínica.
+43
+
+Se apartará al trabajador de la fuente de exposición si existe sensibili-
+zación al agente.
+El servicio de prevención deberá implantar medidas de información y
+formación de los trabajadores con el fin de minimizar el riesgo detectado.
+— Seguimiento postocupacional:
+Muchos individuos que padecen asma laboral persisten con hiper-
+reactividad bronquial y síntomas asmáticos en muchos casos durante
+mucho tiempo, a veces años incluso, tras alejarse del medio de trabajo
+causante de su enfermedad, especialmente si el agente es de bajo peso
+molecular. Por tanto, es necesario el seguimiento periódico mediante his-
+toria clínica y pruebas funcionales respiratorias. Puede ser recomendable
+la monitorización de Peak-Flow.
+44
+
+7.
+NORMATIVA APLICABLE
+1.
+Ley 31/1995, de 8 de noviembre (BOE 10-12-95), de Prevención
+de Riesgos Laborales.
+2.
+RD 39/1997, de 17 de enero (BOE 31-1-97), Reglamento de los
+Servicios de Prevención.
+3.
+Decreto 1995/1978 (BOE 25-8-78), por el que se aprueba el Cua-
+dro de Enfermedades Profesionales.
+4.
+Real Decreto 664/1997, de 12 de mayo, sobre la Protección de
+los Trabajadores contra los riesgos relacionados con la exposi-
+ción a agentes biológicos durante el trabajo.
+5.
+Real Decreto 486/1997, de 14 de abril, por el que se establecen
+las disposiciones mínimas de seguridad y salud en los lugares de
+trabajo.
+45
+
+8.
+BIBLIOGRAFÍA
+1.
+Bernstein IL, Chan Yeung M, Malo JL, Bernstein DI. Asthma in the work-
+place. Marcel Dekker Inc, 1993.
+2.
+Malo JL. The case for confirming occupational asthma: why, how much,
+how far? J Allergy Clin Immunol, 1994; 91: 967-970.
+3.
+Rubio M, De Barrio M et al. Asma (I): Definición, clasificación, clínica,
+diagnóstico. Medicine, 7ª serie; 59: 2703-2709.
+4.
+Brooks S, Weiss M, Bernstein L. Reactive Airways Disfunction Syndro-
+me (RADS). Chest, 88, 3, Sept 1985: 376-384.
+5.
+Boulet LP. Increases in Airway Responsiveness Following Acute Expo-
+sure to Respiratory Irritants? Reactive Airway Dysfunction Syndrome or Occupa-
+tional Asthma? Chest, 94, 3, Sept 1988: 476-481.
+6.
+Quirce S, Chan-Yeung M. Asma inducido por agentes irritantes o Síndro-
+me de Disfunción Reactiva de vías aéreas. Rev. Esp. Alergología e Inmunología
+Clínica. 1994; 9 (4): 185-191.
+7.
+Austen HF. Diseases of immediate type hypersensitivity. Harrison’s Prin-
+ciples of Internal Medicine, XIV ed. New York, McGraw Hill, Health Professions
+Division, 1998, 310: 1860-1868.
+8.
+Brooks SM, Bernstein IL. Reactive Airways Dysfunction Syndrome or
+Irritant-Induced Asthma. In Bernstein IL, Chan-Yeung M, Malo JL, Bernstein DI
+(Eds). Asthma in the workplace. New York Inc. Marcel Dekker 1993: 533-49.
+9.
+Kogevinas M, Antó JM, Soriano JB et al. The risk of asthma attributable
+to occupational exposures. Am J Respir Crit Care Med, 1996; 154: 137-143.
+10.
+Malo JL, Chan-Yeung MM. Occupational Agents. Asthma. PJ Barnes, MM
+Grunstein, AR Leff, AJ Woolcock. Lippincott-Raven Publishers, Philadelphia© 1997.
+11.
+Sen D, Wiley K, Williams G. Occupational asthma in fruit salad proces-
+sing. Clin Exp Allergy 1998; 28: 363-367.
+12.
+Chan-Yeung M. Immunologic and nonimmunologic mechanisms in
+asthma due to western red cedar (Thuja Plicata). J Allergy Clin Immunol., 1982,
+Vol. 70, number 1: 32-37.
+13.
+Chan-Yeung M, MacLean L, Paggiaro PL. Follow-up of 232 patients
+with occupational asthma caused by western red cedar (Thuja Plicata). J Allergy
+Clin Immunol., 1986, Vol. 79, number 5: 792-796.
+14.
+Murphy D, Fairman R, Leroy Lapp N, et al. Severe Airway Disease Due
+to Inhalation of fumes from Cleansing Agents. Chest, 1976, Vol. 69, number 3:
+372-376.
+15.
+Simpson C, Garabrand D, Torrey S et al. Hypersensitivity pneumonitis-
+like reaction and occupational asthma associated with 1-3-bis (isocyanatomethyl)
+cyclohexane pre-polymer. Am J of Industrial Med, 1996, 30: 48-55.
+47
+
+16.
+Cabrera Sierra M, Cimarra M, Martínez-Cócera C, Varela S, Robledo
+Echarren T, Jiménez Timón S, Bartolomé JM, Cuevas M. Asma ocupacional en la
+industria farmacéutica. Rev Esp Alergol Inmunol Clin, 1997; 12 (2): 129-134.
+17.
+Losada E, Hinojosa M. Asma ocupacional. Tomo VI de la Serie Mono-
+gráfica editada por la Fundación de la Sociedad Española de Alergia e Inmunolo-
+gía Clínica.
+18.
+Paggiaro P, Loi A, Rossi O et al. Follow-up study of patients with respi-
+ratory disease due to toluene diisocyanate (TDI). Clinical Allergy, 1984, Vol. 14:
+463-469.
+19.
+Gautrin D, Boulet LP, Boutet M et al. Is Reactive Airways Dysfunction
+Syndrome a variant of occupational asthma? J Allergy Clin Immunol, Vol. 3, Num.
+1, Part 1, Jan 1994: 12-21.
+20.
+Armentia A, Hinojosa M, Prieto JL et al: Aspectos legales en la evalua-
+ción del asma ocupacional. Rev Esp Alergol Inmunol Clín, 1994; 9, 77-82.
+21.
+Venables KM, Farrer N, Sharp L et al. Respiratory symptoms question-
+naire for asthma epidemiology: validity and reproducibility. Thorax, 1993; 48: 214-
+219.
+22.
+Debates sobre Alergología. Resumen de la ponencia «Asma Ocupa-
+cional». Alergoaragón (Sociedad Aragonesa de Alergia), Formigal, 5-8 febrero
+1997.
+23.
+Quirce S. Diseño de estudios epidemiológicos en poblaciones expues-
+tas a alergenos inhalados en el medio laboral. Reunión anual Alergoaragón. For-
+migal. Febrero 1998.
+24.
+Immunology and Allergy Clinics of North America. Latex Allergy. Saun-
+ders 1995.
+25.
+Libro del año. Alergología, 1993. Capítulo 7. Asma Ocupacional, 231-
+264.
+26.
+Burney PGL, Laitinen LA, Perdrizet S et al. Validity and repeatibility of
+the IUATLD (1984) bronchial symptoms questionnaire: an international compari-
+son. Eur Respir J 1989; 2: 940-945.
+27.
+Malo JL, Ghezzo H, L’Archevêque J et al. Is an open questionnaire a
+satisfactory means for diagnosing occupational asthma? Am Rev Respir Dis.
+1991; 143: 528-532.
+28.
+Raulf- Heimsoth M, Baur X. Pathomechanisms and pathophysiology of
+isocyanate-induced diseases. Summary of present knowledge. Am J Ind Med,
+1998, 34: 137-143.
+29.
+Occupational asthma often long-lasting. J Occup Environ Med 1998;
+40: 481-491.
+30.
+Schorr TM et al. Mortality of workers exposed to toluene diisocyanate in
+the polyurethane foam industry. Occup Environ Med, 1996, 53(10): 703-707.
+31.
+San LN et al. Pulmonary function of workers in the aluminium industry.
+Am J Ind Med, 1998, 33(3), 305.
+32.
+Alvarado Felipe C; Torres Sánchez G; Vallés Pons G; Carrillo Díaz T:
+Heras Martínez A, Protocolo de vigilancia médica específica de los trabajadores
+para Asma Ocupacional. Servicio Canario de Salud.
+33.
+Hinojosa Macías M: La prevención en el asma ocupacional. Rev. Esp
+Alergol Inmunol Clín, 1997, Vol. 12, nº 4: 211-217.
+34.
+Guidelines for the evaluation and impairment/disability in patients with
+asthma. American Thoracic Society. Position Paper. Am Rev Resp Dis, 1993;
+147, 1056-1061.
+35.
+ACGIH. Indices Biológicos de Exposición. 1998
+48
+
+36.
+INSHT. Límites de Exposición Profesional para Agentes Químicos en
+España. 1999.
+37.
+Dales RE, Ernst P, Hanley JA et al. Prediction of airway reactivity from
+responses to a standardized respiratory symptom questionnaire. Am Rev Respir
+Dis 1987; 135: 817-821.
+38.
+Liou SH. Et al. Respiratory symptoms and pulmonary function in wor-
+kers exposed 
+39.
+Segarra Obiol F. Enfermedades broncopulmonares de origen ocupa-
+cional. Ed. Labor. Barcelona, 1985. Cap. 12. 365-380. to wood dust. Am J Ind
+Med 1996; 30 (3): 293-299.
+40.
+Losada E, Hinojosa M, Quirce S et al. Occupational asthma caused by
+alfa-amylase inhalation. Clinical and immunological findings and bronchial respon-
+se patterns. J Allergy Clin Immunol., 1992, Vol. 89, number 1, part 1: 118-125.
+41.
+Quirce S, Contreras G, Dybuncio A, Chan-Yeung M. Peak expiratory
+flow monitoring is not a reliable method for stablishing the diagnosis of occupatio-
+nal asthma. Am J Respir Crit Care Med. 1995; 152: 1100-1102.
+42.
+Quirce S, Sastre J. Occupational Asthma. Allergy, 1998: 53, 633-641.
+43.
+Libro del Año de Alergología 1993, Saned S.A. ediciones.
+44.
+Hinojosa M, Moneo I, Domínguez J. et al. Asthma caused by African
+maple (Triplochiton scleroxylon) wood dust. J Allergy Clin Immunol, 1984, Vol. 74,
+number 6: 782-786.
+45.
+Debates sobre Alergología. Alergoaragón. Febrero 1997. Ponencia
+Asma Ocupacional.
+46.
+Bernstein LI, Bernstein DI, Chan-Yeung M, Malo JL. Definition and
+Classification of asthma. In Bernstein IL, Chan-Yeung M, Malo JL, Bernstein DI
+(Eds). Asthma in the workplace. New York Inc. Marcel Dekker 1993: 1-5.
+47.
+Health care workers. Arch Intern Med 1989; 149: 2749-2753.
+48.
+Vauhanen M. et al. Sensitization to industrial enzymes in enzyme re-
+search and production. J Work Environ Health, 1997, 23 (5): 385-391.
+49.
+Johsen CR et al. Allergy risk in an enzyme producing plant: a retros-
+pective follow-up study. Occup Environ Med. 1997, 54(9): 671-675.
+50.
+Asma ocupacional. SEAIC. Fundación de la Sociedad Española de
+Alergología e Inmunología Clínica. Capítulo 13. Asma ocupacional por sensibili-
+zación a látex, 209-219.
+51.
+Orriols R. Asma Ocupacional por isocianatos. (Pendiente de publica-
+ción).
+52.
+Losada Cosmes E, Perelló Aragonés S. Asma Ocupacional. El Libro
+del Año de Alergología 1993. Saned S.A. ediciones: 234.
+53.
+Matte T, Hoffman RE, Rosenman KD, et al: Surveillance of Occupatio-
+nal Asthma under the SENSOR model. Chest, 98, 5, Nov 1990, Suppl.: 173-178.
+54.
+Slater JE, Mostello LA, Shaer C, et al. Type hypersensitivity to rubber.
+Ann Allergy 1990; 65:411-414.
+55.
+Seaton A, Cherrie B. Rubber glove asthma. Br Med J 1988; 531-532.
+56.
+Tarlo SM, Wong L, Roos J et als. Occupational asthma caused by latex
+in a surgical glove manufacturing plant. J Allergy Clin Immunol 1990; 85: 626-631.
+57.
+Turjanmaa K. Incidence of immediate allergy to latex gloves in hospital
+personnel. Contact Dermatitis 1987; 17: 270-275.
+58.
+Carrillo T, Cuevas M, Muñoz T et al. Contact urticaria and rhinitis from
+latex surgical gloves. Contact Dermatitis1986; 15: 69-72.
+59.
+Blanco C, Carrillo T, Castillo R, Quiraltes Cuevas M. Latex allergy: clini-
+cal features and cross reactivity with fruits. Ann Allergy, 1994; 73: 309-314.
+49
+
+60.
+Fernández de Corres L, Moneo I, Muñoz D et al. Sensibilización a
+castaña y plátano en pacientes con urticaria de contacto por látex. Rev Esp Aler-
+gol Inmunol Clin 1990, 5 (supl 3): 44.
+61.
+Kotilainen HR, Brinker JP, Lomolino Avato J et als. Latex and vinyl exa-
+mination gloves. Quality control procedures and implications.
+62.
+Curtis P Hamann. Hipersensibilidad al látex: una actualización. Allergy
+proceedings (edición española), 1994; 4: 15-18.
+63.
+Tarlo SM. Control of airborne latex by use of powder-free latex gloves.
+J. Allergy Clin Immunol, 1994: 93, 915-919.
+64.
+Navarro JA, Fernández de Corres Díaz-Pardo L. Alergia al látex. Rev
+Esp Alergol Inmunol Clin, 1995; 10, 6: 305-316.
+65.
+Turjanmaa K, Alenius H, Makinen-Kiljunen S, Reunala T, Palosuo T.
+Natural rubber latex allergy. Allergy, 1996; 51: 593-602.
+66.
+Slater JE. Latex allergy. En: Kay AB (ed). Allergy an allergic diseases.
+Oxford: Blackwell Science Ltd, 1997; 981-993. 
+67.
+Vandenplas O, Delwiche J-P, Evrard G, Aimont P, van Der Brempt X,
+Jamart J, Delaunois L. Prevalence of occupational asthma due to latex among
+hospital personnel. Am J Resp Crit Med, 1995; 151: 54-60.
+68.
+Thomas Kibby MPH, Michel AKL. Prevalence of latex sensitization in a
+hospital employee population. Ann Allergy Asthma Immunol, 1997; 78: 41-44.
+69.
+Martínez Cocera C, Castellano A, Robledo T. Sensibilización a látex en
+ambiente sanitario: manifestaciones clínicas más frecuentes. Mapfre Medicina,
+1998; 9 (Suppl.1): 93-99.
+50
+
+ANEXO I:
+ALERGENOS DE ELEVADO PESO MOLECULAR
+Principales agentes
+Agente
+Profesión
+SUSTANCIAS DE ORIGEN VEGETAL, POLVO Y HARINAS
+Polvo de cereales, harinas de trigo, cen-
+teno, almorta, gluten, harina y polvo de
+soja
+Lúpulo
+Ricino 
+Cacao, café, hojas de té
+Hojas de tabaco
+Pimentón
+Semillas de algodón
+Semillas de lino
+Psyllium
+Polvo de ajo
+Espárrago
+Linaza
+Maico
+Flores secas ornamentales
+Plantas y flores frescas (freesia, Gypso-
+phila paniculata, Limonium )
+ALIMENTOS
+Espinacas, judía verde, achicoria. Pata-
+ta, legumbres, acelgas, ajo
+ENZIMAS VEGETALES
+Papaína, diastasa, pectinasa, bromelina,
+flaviastasa
+51
+Granjeros, trabajadores portuarios, silos
+y molinos
+Panaderías, industria alimentaria
+Industria cervecera, agricultura. Proce-
+samiento de soja
+Fertilizantes
+Industria del café, té, alimentarias
+Manufactura de tabaco
+Cultivadores e industria alimentaria
+Fertilización
+Industria textil
+Industria farmacéutica y personal sanita-
+rio
+Industria de especias
+Cultivadores e industria conservera
+Extracción de aceites
+Elaboración de comidas japonesas
+Floristerías
+Floristerías y cultivadores
+Industria alimentaria y tareas domésticas
+Industria alimentaria y farmacéutica
+
+Agente
+Profesión
+GOMAS VEGETALES
+Caraya, tragacanto, acacia, arábiga, guar 
+Quillaya, Látex
+Gutta-percha
+HONGOS Y ESPORAS
+Alternaria, aspergillus, esporas de cla-
+dosporium
+Hongos de hortalizas, hongos comesti-
+bles (champiñón)
+Hongos en general, amilasa micótica y
+hemicelulasa
+PROTEÍNAS ANIMALES
+Animales de laboratorio (ratas, cobayas
+conejos...), orina, pelo y proteínas séricas
+Extracto de órganos animales (ACTH,
+peptona hipofisaria...)
+Aves (plumas, suero, excrementos)
+Líquido de Ascidia
+Ostras de cultivo y polvo de perlas
+Camarones y cangrejos, cola de pesca-
+do, trucha
+Esponjas marinas, proteínas de huevo
+ENZIMAS ANIMALES
+Subtilis, subtilisinas, tripsina, pancreati-
+na, esperasa, lisozima de huevo, brome-
+lina y flamatasa
+INSECTOS Y ÁCAROS
+Ácaros, ácaros de aves
+Gusanos de seda
+Otros: cochinilla, polilla, mariposa, insectos
+picadores, cucaracha, grillos, moscas de
+río, comida de peces (Echinodorus larva)
+52
+Industria alimentaria, peluqueras, im-
+prentas
+Industria del látex y personal sanitario
+Industria del champú
+Higienistas dentales
+Granjas, panaderías
+Agricultores, cultivadores y procesadores
+Industria alimentaria, funerarios
+Personal de laboratorio, granjeros, veteri-
+narios, procesadores de carne, inspectores
+Personal farmacéutico
+Observadores de pájaros, avicultores,
+procesadores, desplumadores
+Recolectores de ostras, perlas y coral
+Pescadores y procesadores
+Pescadores y procesadores, personal de
+correos, encuadernadores
+Industria alimentaria, laboratorios
+Manipuladores de enzimas y detergentes,
+personal sanitario, farmacéutico, niños con
+enfermedad fibroquística y sus padres
+Trabajadores de silos, muelles y molinos
+Granjeros, criadores
+Criadores, manipuladores y cuidadores
+de acuarios
+
+SUSTANCIAS DE BAJO PESO MOLECULAR
+Principales agentes
+Agente
+Profesión
+DROGAS
+Antibióticos: penicilina, ampicilina, cefa-
+losporinas, espiramicina, tetraciclina, sul-
+fatiazol, sulfonas, metildopa, salbutamol,
+diclorhidrato de piperacina, licopodio,
+ipecacuana, hexaclorofeno, penicilamina,
+hidralazina y clorhexidina, fenilglicina,
+amprolium, hidrazida, tylosin tartrato, ci-
+metidina, compuestos opiáceos
+COMPUESTOS QUÍMICOS
+Sales de persulfato (de amonio, potasio y
+sodio) y extractos de alheña
+Colorantes, reactivos
+Cloramina T, polivinilo (humos)
+Polivinilo (polvo), manufactura de tapo-
+nes de botella
+Levafix E36, tintes, amarillo brillante, Dri-
+maren, K-3GL, Rojo brillante Cibacromo
+32, Azul brillante Drimaren K-BL, Amari-
+llo Lanasol 4G
+Sales de diazonio
+Hexaclorofeno, clorhexidina, glutaralde-
+hído, dióxido de etileno, enflurano, azul
+de metileno, terpeno, fijador radiográfico,
+sulfatiazoles, formaldehído
+Freon, resina furan base
+Estireno, adhesivos, metacrilato de meti-
+lo y cianoacrilatos
+Azobisformamida, sulfonato de isono-
+nanyl oxibenceno
+Tetrazeno, polietileno
+Tetracloroisoftalonitrilo (fungicida), óxido
+de tributilo (fungicida)
+53
+Industria farmacéutica 
+Peluquería e industria química
+Manufacturas de colorantes
+Empaquetadores de carne
+Industria química
+Insecticidas organofosforados
+Industria química
+Industria textil
+Fotocopiadoras
+Enfermería, anatomía patológica, labora-
+torio, personal sanitario
+Refrigeración, fundiciones
+Industrias plásticas, odontólogos
+Plásticos y gomas, laboratorios técnicos
+Empaquetadores, explosivos
+Flebología, granjeros
+
+Agente
+Profesión
+Resina de pino, sulfitos
+Polipropileno, Clorhidrato de lauril-dime-
+til-bencil-amonio
+Ácido glacial acético
+MATERIALES SINTÉTICOS
+Cemento dental, plexiglass
+ANHÍDRIDOS
+Ácido ftálico, trimelítico, hímico y tetraclo-
+roftálico, dianhídrido piromelítico, hexahi-
+droftálico, anhídrido metiltetrahidroftálico,
+resinas epoxi
+DIISOCIANATOS
+Diisocianato de 2,4-tolueno, de 4,4-dife-
+nilmetano, de 1,6-hexametileno y de 1,5-
+naftileno, Isofluorano
+Combinación de isocianatos: diisociana-
+to de tolueno (TDI), diisocianato de naf-
+taleno (NDI), diisocianato de difenilmeta-
+no (MDI) y diisocianato de hexametileno
+(HDI) TDI, NDI, MDI, y HDI
+AMINAS ALIFÁTICAS
+Etilenaminas, hexametilentetramina, 2-
+aminoetanol, 3- (dimetilamino)-pro pila-
+mina. (3-DMAPA) 
+AMINAS HETEROCÍCLICAS
+Piperazina hidroclorida, N-metilmorfolin
+AMINAS AROMÁTICAS
+Parafenilendiamina
+MADERAS
+Cedro Rojo, ceiba africana, cedro del Lí-
+bano, sudafricano, roble, caoba, castaño
+americano, mansonia, abiruana, se-
+quoia, cocaballa, kejaat, pino gigante de
+California, ramin, iroco, morera, palo
+marfín, boj, arce africano, ébano, fresno
+americano, capreuva, Tanganika aningre,
+Cinnamommum zeylanicum
+54
+Procesadores de alimentos, Manufactura
+de gomas
+Marroquinería
+Industria farmacéutica, laboratorios
+Dentistas, manufactura
+Industria del plástico
+Industria de poliuretano, plástico, manu-
+factura de goma y fundición
+Industria de pintura a pistola y barnices
+Fotografía, lacados, soladores, industria
+cosmética, aeronáutica, pinturas en
+spray, manufactura de esquíes
+Industrias químicas y farmacéuticas
+Curtido y tinte de peletería, industrias
+químicas
+Aserraderos, acabados de maderas y
+carpinterías, ebanistería y fabricación de
+muebles
+
+Agente
+Profesión
+METALES
+Platino, níquel, cromo, aluminio, cobalto,
+vanadio, acero inoxidable, humos de
+zinc, tungsteno
+OTROS
+Mezcla de aminas (EPO 60), fenol, Clor-
+hidrato de zinc y amonio
+95% alcohol poliéter, Alkylarul+5% poli-
+propilenglicol. Colofonia
+RADS
+Principales agentes
+En el RADS, los agentes etiológicos implicados son muy variados y van
+en aumento con la descripción de nuevos agentes. Los más frecuentemen-
+te citados en la bibliografía son el dióxido de azufre, cloro, amoníaco y di-
+versos ácidos y humos, entre otros incluidos en la siguiente clasificación:
+Agente
+Profesión
+ÁCIDOS
+Ácidos calientes, ácido acético, ácido
+sulfúrico, ácido clorhídrico
+GASES
+Dióxido de azufre, amoníaco, cloro, dióxi-
+do de nitrógeno
+HUMOS
+Fuego-humo
+MISCELÁNEA
+Escape diesel, pintura aerosol, sellante
+de suelos, hexafluoruro de uranio, pesti-
+cidas, disolventes, hidracina 35%. Agen-
+tes blanqueantes
+55
+Refinerías de platino, plateados, indus-
+tria química, cromados, curtidos de piel e
+industria química, fundiciones, limpieza
+de calderas, procesamiento de minera-
+les. Refinerías y aleaciones, soldaduras.
+Metalurgia
+Industria química y personal de laborato-
+rio. Metalúrgicos
+Ensamblajes electrónicos. Electrónica
+Soldadores, personal hospitalario. Lim-
+pieza
+Pulpa de madera, industria química,
+granjeros
+Bomberos-incendios. Accidentes
+Conductores de tren, pintores, repara-
+dores, industria química, operarios de
+plantas eléctricas
+
+ANEXO II:
+EXAMEN CLÍNICO
+Antecedentes personales a tener en cuenta como factores de riesgo
+para sospecha de Asma Laboral
+Sí
+No
+1.
+Historia de atopia
+— Rinitis/Conjuntivitis Intrínseca
+— Rinitis/Conjuntivitis Extrínseca
+por sensibilización a pólenes
+por sensibilización a ácaros
+otros:
+— Asma bronquial Intrínseca
+— Asma bronquial Extrínseca
+por sensibilización a pólenes
+por sensibilización a ácaros
+otros:
+— Alergia a Medicamentos
+Cuáles
+— Alergia a Alimentos
+Cuáles
+— Alergia a látex
+Clínica de rinitis
+Clínica de asma
+Clínica de urticaria-dermatitis
+— Urticaria-Angioedema
+2.
+Infecciones respiratorias
+— Catarros
+Cuántos al año
+— Neumonías
+— Otras
+— ¿Cursan con hiperreactividad bronquial?
+3.
+EPOC preexistente
+— Tipo Bronquitis Crónica
+— Tipo Enfisema
+4.
+Reflujo gastroesofágico con/sin hernia de hiato
+57
+
+Sí
+No
+5.
+Tabaquismo
+— Fumador pasivo (Ej.: cónyuge de fumador)
+— Ex fumador (Desde hace cuánto tiempo)
+— Fumador
+<1 paquete diario
+>1 paquete diario
+Durante cuántos años
+6.
+Alcohol
+— Bebe diariamente
+— Bebe ocasionalmente
+— Bebe sólo los fines de semana
+¿Desde hace cuánto tiempo?
+7.
+Drogas de abuso (principalmente fumadas o inhaladas)
+— Marihuana
+— Cocaína
+— Heroína
+— Otras:
+8.
+Aficiones
+— Bricolaje
+— Pintura
+— Jardinería
+— Cría de animales
+— Posee mascota/mascotas
+— Otras:
+Antecedentes familiares
+Sí
+No
+— Enfermedades alérgicas
+— Rinitis/Rinoconjuntivitis
+— Asma Bronquial
+— Urticaria/Dermatitis
+— Alergia a medicamentos/ alimentos
+58
+
+Historia actual
+Sí
+No
+— Tos
+— Disnea
+— Opresión torácica
+— Sibilancias
+— Síntomas nasales y/u oculares
+— Prurito
+— Estornudos
+— Obstrucción nasal
+— Hidrorrea
+— Anosmia
+— Expectoración
+SI TIENE TOS, OPRESIÓN TORÁCICA Y/O SIBILANCIAS:
+Frecuencia de las crisis
+— Menos de una/mes
+— Una por mes
+— Una por semana
+— Una por día
+— Más de una por día
+Intensidad
+— Débil
+— Mediana
+— Fuerte
+Horario
+— Día y noche
+— Sólo por el día
+— Sólo por la noche
+— Al final de la noche
+— Se encuentra peor el lunes
+— Se encuentra peor el viernes
+SI TIENE DISNEA:
+— De reposo
+— De esfuerzo
+de grandes esfuerzos
+de medianos esfuerzos
+de mínimos esfuerzos
+59
+
+Sí
+No
+ENTORNO LABORAL
+— ¿Existen otros trabajadores con el mismo problema en el mismo
+puesto de trabajo?
+¿Cuántos?
+— ¿Relaciona el cuadro con alguno de los productos que manipula?
+¿Con cuáles?
+— Existe tiempo de latencia del cuadro
+¿Cuánto?
+Episodios de mejoría
+Sí
+No
+Al finalizar la jornada laboral
+En fines de semana
+En vacaciones
+Se encuentra mejor
+el lunes
+el viernes
+Exploración física
+Inspección:
+Auscultación cardiopulmonar:
+Dcha.
+Izq.
+Bilat.
+No
+Roncus
+Campos superiores
+Campos inferiores
+Sibilancias
+Inspiratorias
+Espiratorias
+Crepitantes
+Campos superiores
+Campos inferiores
+Disminución del
+Campos superiores
+murmullo vesicular
+Campos inferiores
+60
+
+Exploración Funcional Respiratoria
+Teórico
+Espirometría basal
+(litros)
+Hallado
+%
+CVF
+VEMS = FEV-1
+FEF 25/75
+FEF 25
+FEF 50
+PEF (Pico Flujo)
+Signos y síntomas
+Grado 0
+Ausencia de signos y síntomas
+Grado 1
+Tos, disnea y/o sibilancias de carácter leve. CVF, VEMS o ambos entre
+65-85% del valor de referencia
+Grado 2
+Tos, disnea y/o sibilancias de carácter moderado. CVF, VEMS o ambos
+entre 50-64% del valor de referencia
+Grado 3
+Tos, disnea y/o sibilancias de carácter severo. CVF, VEMS o ambos en-
+tre 35-49% del valor de referencia
+Grado 4
+Tos, disnea y/o sibilancias de carácter muy severo. CVF, VEMS o ambos
+por debajo del 35% del valor de referencia
+RADS
+Tos, disnea y/o sibilancias de cualquier intensidad en trabajadores ex-
+puestos a altas concentraciones de sustancias inhaladas irritantes, sin pe-
+ríodo de latencia
+61
+
+ANEXO III:
+ANEXO CLÍNICO DE PARTICULARIDADES
+DE LOS PRINCIPALES AGENTES
+I.
+Alergenos de Elevado Peso Molecular (7)
+— Polvo de cereales: Puede estar compuesto de diferentes tipos de
+cereales, ácaros de depósito (Lepydoglyphus Destructor, Tyrophagus Pu-
+trescentiae, Acarus Siro, entre otros), hongos (Aspergillus, Alternaria, en-
+tre otros), insectos, dióxido de azufre, etc. Pueden ser responsables de
+patología tipo: rinitis-asma, alveolitis alérgica o bronquitis crónica. Para la
+rinitis-asma, la atopia es un factor de riesgo y los estudios in vivo e in vitro
+y los tests de provocación bronquial específica pueden ser positivos con
+uno o varios antígenos (39).
+— Harinas (Asma Ocupacional del Panadero): Las principales im-
+plicadas son las harinas de trigo y centeno. La atopia es un factor de ries-
+go. Todos los pacientes sintomáticos tienen rinitis, y muchos de ellos
+asma. El prick suele ser positivo inmediato y el RAST también positivo. El
+test de provocación bronquial específico suele ser positivo igualmente,
+con tipos de respuesta inmediato, tardío y/o dual. Existe fuerte reactivi-
+dad cruzada entre las distintas harinas, pero no entre éstas y polinosis.
+No hay que olvidar en esta profesión otros posibles antígenos como son
+los enzimas aditivos del pan (alfaamilasa), proteínas de huevo, ácaros de
+depósito, hongos, etc.
+— Enzimas: Tienen un elevado poder sensibilizante. Pueden ser de
+origen animal, vegetal o micótico. La atopia es un factor de riesgo y darán
+cuadros de rinitis y/o asma (48-49).
+• Enzimas animales: Bacillus Subtilis. Uso en la elaboración de deter-
+gentes biológicos.
+• Enzimas de origen micótico: celulasa y amilasa (40). Se usan como
+aditivos en la industria panificadora.
+• Enzimas de origen vegetal: bromelina (de la piña) y papaína (de
+Carica Papaya). Uso en industrias farmacéuticas, personal sanitario
+y en algunas industrias alimentarias.
+— Animales de laboratorio: En las profesiones en las que existe
+contacto con este tipo de animales, los posibles antígenos son variados:
+pelo, excretas, escamas. Los síntomas suelen aparecer en los primeros
+cuatro años de manejo, y suelen consistir en rinoconjuntivitis y/o asma, y
+a veces urticaria. Los tests cutáneos suelen ser positivos, con una buena
+correlación con la clínica. Existe reactividad cruzada entre los distintos
+productos de un mismo animal. En los dos modelos mejor conocidos, el
+ratón y la rata, la principal responsable de la clínica es la orina (7).
+— Alimentos: Se implican toda clase de alimentos en toda clase de
+actividad manipuladora. El antígeno suele vehiculizarse en forma de pol-
+63
+
+vo o aerosol (al cocinarlos o lavarlos). La atopia es un importante factor
+de riesgo y la patología puede ser rinoconjuntivitis, asma o urticaria de
+contacto. Los tests cutáneos, estudio in vitro y el test de provocación
+bronquial específica suelen salir positivos. Los extractos comerciales no
+resultan ser muy fiables, pero pueden prepararse con facilidad a partir del
+alimento en fresco.
+— Semillas: Se ha descrito asma ocupacional relacionado con el ri-
+cino, algodón, lino, soja, café verde, Voacanga africana, ispágula, etc., so-
+bre todo en industria farmacéutica y alimentaria. El mecanismo suele ser
+inmunológico IgE mediado. En el caso de la soja, el algodón y el lino, se
+han descrito epidemias de asma relacionadas con su inhalación.
+— Gomas vegetales: Se obtienen de plantas y se componen de
+proteínas e hidratos de carbono. Suelen provocar rinoconjuntivitis, asma
+y urticaria de contacto por mecanismos inmunológicos IgE mediados.
+Proceden principalmente de exudados y de semillas. La goma guar se
+usa en industria alimentaria y cosmético-farmacéutica principalmente y
+en encolados de material de papelería y textiles. El látex es objeto de pro-
+tocolo y guía aparte (50).
+II.
+Sustancias de bajo peso molecular (7-15)
+— Isocianatos: Son un grupo de sustancias irritantes de bajo peso
+molecular muy usadas en la industria. Polimerizan con facilidad con otros
+compuestos para formar poliuretanos, plásticos, pinturas, sustancias
+adhesivas, materiales de revestimiento y fijación en túneles o minas.
+Existen cuatro formas de isocianato (18): diisocianato de tolueno (TDI),
+con dos formas isoméricas; diisocianato de naftaleno (NDI), diisocianato
+de difenilmetano (MDI) y diisocianato de hexametileno (HDI). TDI y HDI
+son volátiles a temperatura ambiente, MDI es menos volátil y a tempera-
+tura ambiente es sólido, NDI tiene el punto de fusión a 120o. Los trabaja-
+dores más expuestos a TDI son los de industrias químicas, poliuretanos y
+esmaltes, a MDI en fundiciones, y a HDI pintores a pistola. Se ha intenta-
+do reducir el riesgo de exposición usando los compuestos menos voláti-
+les, como el MDI, mejorando sistemas de ventilación o utilizando bloque-
+antes químicos de isocianatos. El valor límite establecido en diversos
+países está entre 0.01 y 0.005 ppm. La incidencia de asma por isociana-
+tos es alta a pesar de estas medidas, ya que muchas industrias superan
+los límites establecidos, sobre todo aquellas pequeñas en las que los re-
+cursos económicos son limitados (51).
+El TDI es el isocianato más estudiado. Los síntomas dependen de la
+dosis de exposición. La forma clínica más frecuentemente causada es el
+asma, seguida de rinoconjuntivitis, bronquitis crónica y enfermedades cu-
+táneas. También se han descrito casos de alveolitis y enfermedad sisté-
+mica. En cuanto al asma por isocianatos, hay que distinguir dos grupos:
+el IgE-mediado y el no mediado por mecanismo inmunológico conocido.
+64
+
+En el grupo IgE, la prueba cutánea se realiza con isocianato conjugado
+con albúmina sérica humana. El RAST para determinación de IgE especí-
+fica in vitro es la técnica más sensible (28).
+El MDI es menos volátil y se cree que menos tóxico. Como en el caso
+anterior, sólo se pueden establecer mecanismos IgE mediados en un
+15-16% de los casos.
+El diagnóstico de asma por isocianatos debe plantearse en todo tra-
+bajador expuesto que comience con clínica respiratoria (15). Si no se evi-
+ta el contacto, la enfermedad desarrollada puede ser crónica, irreversible
+y grave. Los que puedan eludir el contacto tendrán, a pesar de ello, clíni-
+ca de asma e hiperreactividad bronquial durante muchos años.
+Para prevenir el asma ocupacional por isocianatos deberá limitarse el
+VLA-ED a un máximo de 0.005 ppm. Se conoce que, por encima de estos
+niveles, todos los trabajadores tienen riesgo de enfermedad pulmonar
+crónica y, según algunos estudios, riesgo carcinogénico.
+— Maderas: Se conocen hasta 70 tipos de maderas capaces de pro-
+ducir patología ocupacional por contacto o inhalación. Los más conocidos
+son: cedro rojo, samba, ramín, roble, caoba, cedro del Líbano, mansonia
+y palo marfín. Son extensamente conocidos los trabajos de Chan-Yeung
+en Canadá con el cedro rojo, que crece en Norteamérica, pero cuya ma-
+dera se exporta a muchas otras partes del mundo (13). En este caso, se
+ha identificado al antígeno responsable, que es el ácido plicático. Aquí la
+atopia no es un factor de riesgo porque el mecanismo IgE mediado no
+está claro. Parece implicado un mecanismo tipo activación de la vía clási-
+ca del complemento y liberación de histamina. Además, aparece como
+peculiaridad el hecho de que el hábito de fumar constituye, contrariamen-
+te a otros casos, un factor protector (44).
+— Ácidos Anhídridos: Suelen usarse como agentes endurecedores
+de resinas (epoxi, vinilos), con aplicaciones en industrias plásticas, pintu-
+ra, adhesivos, revestimiento de superficies, etc. Hay que conocer diver-
+sos compuestos como el ácido ptálico, trimelítico, hexahidroptálico, Hími-
+co y Tetracloroptálico, que se caracterizan por su elevada capacidad de
+reacción química, lo que les permite unirse a gran variedad de proteínas
+humanas, formando complejos hapteno-carrier, que pueden estimular el
+sistema inmunitario. A dosis altas tienen efecto irritante, por lo que se ha
+establecido un PEL (Permisible exposure limit) a 6 mg/m3 para el polvo y
+un TLV de 3 ppm para gases. El cumplimento de estos valores, como
+siempre, puede reducir el efecto tóxico, pero no la sensibilización. La ex-
+posición a este tipo de compuestos puede dar los siguientes tipos de pa-
+tología:
+• Respuesta irritante tipo Síndrome de Disfunción Reactiva de Vías
+Aéreas (RADS), sin necesidad de exposición anterior.
+• Rinoconjuntivitis y asma.
+• Asma de aparición tardía con fiebre y malestar general.
+• Infiltrados pulmonares con hemoptisis y anemia.
+(Los tres últimos requieren un tiempo variable de exposición al agente).
+65
+
+— Colofonia: Es una resina natural obtenida de los pinos. Se com-
+pone de uno o varios ácidos resínicos: primárico, abiético y dihidroabiéti-
+co. El empleo industrial es muy amplio. Los trabajadores con mayor ries-
+go de exposición son los que contactan con soldaduras electrónicas, que
+también pueden tener asma por isocianatos y por ácidos anhídridos. Son
+los humos desprendidos cuando se calienta a unos 300o C los que pue-
+den producir el asma ocupacional, cuyo mecanismo es desconocido: po-
+dría ser inmunológico, farmacológico o por efecto irritante. Además de
+asma, puede producir rinitis, bronquitis, alveolitis alérgica o patología cu-
+tánea. Todos los trabajadores mejoran en vacaciones y los síntomas pue-
+den durar años aunque se evite el contacto. El test de provocación bron-
+quial específica es muy difícil de realizar ya que se trata de un compuesto
+volátil, cuya composición no es demasiado bien conocida.
+— Metales (52):
+• Sales de platino: Afectan a trabajadores de minas o refinerías de
+platino y algunas industrias químicas. El mineral bruto es tratado
+durante su proceso de refinado con cloro, obteniéndose tetracloro y
+hexacloro de platino, responsables de entre un 20 y 50% de asma
+ocupacional por platino. Las pruebas cutáneas y determinación de
+IgE específica en suero pueden ser positivas ya que el mecanismo
+conocido es IgE mediado, con la sal actuando como hapteno, aun-
+que a dosis altas el mecanismo es farmacológico por liberación de
+histamina. Similarmente a lo que ocurre con otros antígenos de
+bajo peso molecular, la clínica de asma continúa durante años a pe-
+sar de haberse retirado del contacto con el agente, aunque el pro-
+nóstico de la enfermedad mejora cuanto antes se aparte al trabaja-
+dor del medio; por eso es importante detectar a tiempo esta
+patología y su causa, por medios como el que nos ocupa.
+• Cobalto: Puede provocar asma ocupacional por mecanismo inmu-
+nológico IgE-mediado o por mecanismo no inmunológico.
+• Cromo y Níquel: Son responsables de cuadros intensos de der-
+matitis de contacto, además de asma ocupacional. El níquel suele
+afectar a soldadores de aceros inoxidables o de niquelados. Puede
+actuar por mecanismo IgE. El cromo puede ser responsable de
+asma ocupacional en curtidores de piel y soldadores de acero inoxi-
+dable, pero se desconoce su mecanismo patogénico.
+• Otros metales: Se han descrito casos de asma ocupacional por:
+vanadio, tungsteno, aluminio y uranio.
+Además de la patología cutánea, muy frecuente en este medio, exis-
+ten también enfermedades de las vías respiratorias que pueden ajustarse
+a tres modelos:
+— Reacciones irritativas inespecíficas por exposición a sustancias
+irritantes generalmente contenidas en los aerosoles.
+66
+
+— Rinoconjuntivitis y/o asma bronquial por hipersensibilidad a henna
+(tinte vegetal).
+— Rinoconjuntivitis y/o asma por hipersensibilidad a las sales de per-
+sulfato (decolorantes del cabello), que constituyen el apartado
+más importante de la patología respiratoria en este gremio.
+III.
+Otros agentes (53)
+— Fármacos: Los hay de alto y bajo peso molecular. Los últimos po-
+drán causar patología respiratoria ocupacional IgE-mediada por el siste-
+ma hapteno-carrier que ya ha sido descrito. Dado lo amplio de la industria
+farmacéutica y profesión sanitaria en general, existen muchos ámbitos y
+agentes dentro de este grupo que se han descrito y se describirán como
+causantes de patología.
+— Colorantes: Se dividen de forma general en naturales y sintéti-
+cos. No todos son capaces de producir patología respiratoria ocupacio-
+nal. Los tintes reactivos pertenecen al grupo de los sintéticos y son los
+principales agentes de este grupo implicados en patología ocupacional.
+Se ha demostrado su implicación en el asma por mecanismo IgE-media-
+do. Entre los naturales, el más extendido como causante de asma ocupa-
+cional es el carmín de cochinilla, colorante rojo obtenido de las hembras
+desecadas del insecto Dactylopius coccus Costa (cochinilla), que viven
+en asociación o dependencia con una determinada especie vegetal, por
+lo que son considerados como plagas. Se usa en la industria alimentaria
+y cosmética principalmente, y también ha podido demostrarse un meca-
+nismo IgE-mediado causante de patología.
+67

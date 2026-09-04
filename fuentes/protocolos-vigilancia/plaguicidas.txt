@@ -1,0 +1,990 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+PLAGUICIDAS
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18, 28014 Madrid
+ISBN: 84-7670-517-4
+NIPO: 351-99-052-5
+D.L.: M-49532-1999
+Imprime:
+Sociedad Anónima de Fotocomposición, Talisio 9, 28027 Madrid
+
+SESIÓN PLENARIA DEL CONSEJO
+INTERTERRITORIAL DEL SISTEMA NACIONAL DE
+SALUD (25 DE OCTUBRE DE 1999)
+El Pleno informa favorablemente el «Protocolo de vigilancia
+sanitaria específica para los/as trabajadores/as expuestos a
+plaguicidas».
+
+
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE
+SALUD PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL
+SISTEMA NACIONAL DE SALUD
+COORDINACIÓN DEL PROTOCOLO
+CONSEJERÍA DE SALUD DE ANDALUCÍA.
+DIRECCIÓN GENERAL DE SALUD PÚBLICA Y PARTICIPACIÓN.
+AUTORES
+Juan Luis Cabanillas Moruno. Consejería de Salud. Sevilla.
+Montserrat Fernández Tamayo. Consejería de Salud. Sevilla.
+Francisco Laynez Bretones. Hospital de Poniente. El Ejido.
+Jesús Ledesma de Miguel. CNMP. INSHT.
+Arturo López Miranda. Sociedad Andaluza de Medicina y Seguridad del Trabajo.
+Huelva.
+Cristina Planas de Alfonso. Consejería de Trabajo e Industria. Sevilla.
+José Luis Serrano Ramírez. Delegación Provincial de Salud. Almería.
+Antonio Ventura Giménez. Consejería de Trabajo e Industria. Almería.
+GRUPO DE TRABAJO DE SALUD LABORAL
+Enrique Gil López. Ministerio de Sanidad y Consumo. Madrid.
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid.
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa María Campos Acedo. Consejería de Bienestar Social. Extremadura.
+Carmen Celma Marín. Consejería de Sanidad. Comunidad Valenciana.
+Juan Carlos Coto Fernández. Instituto Vasco Salud Laboral. País Vasco.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social.
+Castilla y León.
+Fernando Galvañ Olivares. Consejería de Sanidad y Política Social. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+Isabel González García. Consejería de Sanidad y Servicios Sociales. Galicia.
+Asunción Guzmán Fernández. Consejería de Servicios Sociales. Asturias.
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y
+Trabajo. Aragón.
+Manuel Oñorbe de Torre. Consejería de Sanidad y Servicios Sociales. Madrid.
+Francisco Javier Sevilla Lámana. Consejería de Salud, Consumo y Bienestar
+Social. La Rioja.
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad Social.
+Cataluña.
+7
+
+CONSULTORES EXTERNOS
+Ignacio Vázquez Rico. Servicio Andaluz de Salud.
+Isidoro Arjona Rueda. Servicio Andaluz de Salud.
+Pedro Delgado Cobo. Centro Nacional de Medios de Protección. INSHT.
+Carmen García-Estrada García. Consejería de Trabajo e Industria. Andalucía.
+Antonio Sánchez Rodríguez. CSI-CSIF.
+Sr. Coordinador del Gabinete de Salud Laboral. CC.OO. de Andalucía.
+Guido Pérez. Fundación Esculapio.
+Pedro Blasco Huelva. Universidad de Sevilla.
+Pedro de Castro Sánchez. Presidente Asociación Andaluza de Medicina y
+Seguridad en el Trabajo.
+Carlos Ruiz Frutos. Universidad de Huelva.
+Francisco López-Raya Serrano. Servicio Médico de Cajasur.
+Jaime Marañón López. Universidad de Sevilla.
+Isidoro Pérez Madroñal. Sociedad Española de Salud Laboral en la
+Administración Pública.
+Enrique Villanueva Cañadas. Universidad de Granada.
+Gonzalo García Domínguez. Presidente del Colegio Oficial de Enfermería de
+Huelva.
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Antonio Moya Monterde. Confederación de Empresarios de Andalucía.
+Antonio Luna. Presidente de AESPA.
+José María Millán Acosta. FREMAP.
+Manuel Pérez Ortiz. ASEPEYO.
+Director Regional. La Fraternidad.
+Alberto Fernández Ajuria. Escuela Andaluza de Salud Pública.
+Juana Mena Feria. Consejería de Salud.
+Juan Carlos Castro Álvarez. Servicio Andaluz de Salud.
+Ana Solano Parés. Universidad de Sevilla.
+Francisco Marqués Marqués. Ministerio de Sanidad y Consumo. Madrid.
+8
+
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanita-
+ria», editados por el Ministerio de Sanidad y Consumo y fruto del trabajo
+desarrollado por las Administraciones Sanitarias a través del Grupo de
+Trabajo de Salud Laboral de la Comisión de Salud Pública del Consejo
+Interterritorial del Sistema Nacional de Salud, como contribución a las
+actividades de prevención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos labo-
+rales (Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone,
+entre otras cuestiones, que debe cambiar radicalmente la práctica de los
+reconocimientos médicos que se realizan a las y los trabajadores. De ser
+exámenes médicos inespecíficos, cercanos a los clásicos chequeos o
+cribados de carácter preventivo general, deben pasar a ser periódicos,
+específicos frente a los riesgos derivados del trabajo, con el consenti-
+miento informado del trabajador, y no deben ser utilizados con fines dis-
+criminatorios ni en perjuicio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea eficaz
+para la prevención.
+El poder contar con criterios uniformes basados en la evidencia cien-
+tífica y la experiencia profesional de los participantes en los grupos de
+trabajo constituidos para su elaboración, permitirá alcanzar los objetivos
+de prevención de la enfermedad y promoción de la salud de las y los tra-
+bajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar
+la salud de los trabajadores para detectar precozmente e individualizar
+los factores de riesgo y deterioro que puedan afectar a la salud de los
+mismos», la recogida armonizada y periódica de datos sobre riesgos y
+enfermedades y su posterior análisis e interpretación sistemáticos con
+criterios epidemiológicos, constituye uno de los instrumentos con que
+cuenta la salud pública para poder identificar, cuantificar y priorizar y, por
+lo tanto, diseñar políticas de prevención eficaces.
+Para la elaboración de los protocolos, se constituyeron varios grupos
+de trabajo, que, coordinados por los representantes de las Comunida-
+9
+
+des Autónomas, permitiese la elaboración en paralelo de varios de ellos.
+Finalmente, una vez concluido el procedimiento interno de elaboración
+de los mismos, han sido sometidos a consulta y adecuadamente infor-
+mados por Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y
+Sociedades Científicas (SEMST, SEEMT, AEETSL, SESPAS y SEE), con
+cuyos representantes se mantuvieron reuniones al efecto, en el Ministe-
+rio de Sanidad y Consumo, habiéndose incorporado a la redacción final
+los comentarios recibidos que se consideró mejoraban el texto presen-
+tado.
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los
+sanitarios, una guía de actuación para la vigilancia sanitaria específica de
+las y los trabajadores expuestos a plaguicidas, que será revisado perió-
+dicamente, en la medida que así lo aconseje la evolución de la evidencia
+científica disponible y su aplicación concreta en los centros de trabajo de
+nuestro país.
+Juan José Francisco Polledo
+Director General de Salud Pública
+10
+
+SUMARIO
+1.
+CRITERIOS DE APLICACIÓN . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.
+DEFINICIÓN DEL PROBLEMA . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.1.
+INTRODUCCIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS . . . . . . . . . . . . . .
+14
+2.3.
+VÍAS DE ENTRADA . . . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+2.4.
+EFECTOS SOBRE LA SALUD . . . . . . . . . . . . . . . . . . . .
+15
+3.
+EVALUACIÓN DEL RIESGO. . . . . . . . . . . . . . . . . . . . . . . . . .
+15
+4.
+PROTOCOLO MÉDICO ESPECÍFICO . . . . . . . . . . . . . . . . . . .
+16
+4.1.
+HISTORIA LABORAL. . . . . . . . . . . . . . . . . . . . . . . . . . .
+16
+4.1.1.
+EXPOSICIONES
+ANTERIORES
+(ANAMNESIS
+LABORAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16
+4.1.2.
+EXPOSICIÓN ACTUAL AL RIESGO . . . . . . . . . .
+16
+4.2.
+HISTORIA CLÍNICA. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16
+4.3.
+CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTA-
+RIOS ESPECÍFICOS . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+MÉDICO ESPECÍFICO. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17
+5.1.
+ANAMNESIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17
+5.2.
+EXPLORACIÓN CLÍNICA ESPECÍFICA Y CRITERIOS DE
+VALORACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+17
+5.3.
+PERIODICIDAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+6.
+CONDUCTAS A SEGUIR SEGÚN LAS ALTERACIONES QUE
+SE DETECTEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+7.
+LEGISLACIÓN APLICABLE. . . . . . . . . . . . . . . . . . . . . . . . . . .
+20
+11
+Págs.
+
+8.
+BIBLIOGRAFIA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+21
+ANEXO:
+1.
+HISTORIA LABORAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+1.1.
+EXPOSICIONES ANTERIORES (ANAMNESIS LABORAL)
+23
+1.2.
+EXPOSICIÓN ACTUAL AL RIESGO . . . . . . . . . . . . . . . .
+23
+2.
+HISTORIA CLÍNICA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+2.1.
+ANAMNESIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+24
+2.2.
+EXPLORACIÓN CLÍNICA ESPECÍFICA. . . . . . . . . . . . . .
+25
+3.
+CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTARIOS
+ESPECÍFICOS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26
+12
+
+PLAGUICIDAS
+1.
+CRITERIOS DE APLICACIÓN
+Será de aplicación a cualquier trabajador, que tras la evaluación de
+riesgos resulte estar expuesto a plaguicidas.
+2.
+DEFINICIÓN DEL PROBLEMA
+2.1.
+Introducción
+El mercado mundial de agroquímicos movió, en 1996, 4,4 billones de
+pesetas. La quinta parte de esta cantidad ocurrió en Europa, correspon-
+diendo a España el 15% de ésta. Todo ello está medido en términos eco-
+nómicos pero sirve para hacernos una idea de nuestra participación en
+la utilización de plaguicidas en el mercado mundial. Con respecto a los
+productos ureicos los más usados son fenilureas como herbicidas y ben-
+zoilureas como insecticidas.
+• El manejo incorrecto de los plaguicidas por los trabajadores de in-
+vernaderos produce con frecuencia intoxicaciones agudas, algu-
+nas de las cuales precisan atención médica, y otras más leves, no.
+Por ello en la actualidad las series más numerosas del mundo de
+intoxicados agudos por plaguicidas proceden del Poniente Alme-
+riense. No obstante, estas intoxicaciones son aún más frecuentes
+entre los cultivadores de té de Sri Lanka y la India, pero los datos
+procedentes de estos países son escasos, debido a su pobre de-
+sarrollo económico y sanitario.
+• Dentro de Andalucía, en el Poniente Almeriense, la agricultura in-
+tensiva en invernaderos constituye el pilar fundamental de su eco-
+nomía. Actualmente existen unas 25.000 hectáreas de cultivos bajo
+plástico, en las que trabajan más de 75.000 personas. Las altas
+temperaturas y la elevada humedad alcanzadas en el interior de los
+invernaderos favorecen la proliferación de plagas, por lo que el uso
+de plaguicidas es la norma.
+• En nuestra perspectiva de vigilancia de la salud de los trabajadores
+expuestos a plaguicidas cobran especial importancia los efectos
+13
+
+que éstos pueden tener en los trabajadores expuestos crónica-
+mente. La pérdida de horas de trabajo y la presencia de secuelas
+invalidantes de por vida en algunos intoxicados ocasiona, además,
+importantes problemas socioeconómicos en nuestro medio.
+• Prevención:
+• La estrategia de sustitución en el caso de los plaguicidas no con-
+siste tanto en encontrar sustitutos específicos para cada producto
+como en plantear alternativas globales a su propio uso. Un primer
+paso consiste sencillamente en no utilizar aquellos productos que
+resultan peligrosos.
+• Otra alternativa vendría dada por la lucha integrada contra las pla-
+gas; el objetivo no es la destrucción total de la plaga sino mante-
+nerla controlada en niveles no peligrosos para el cultivo y ello tra-
+tando de integrar métodos de lucha biológica, genéticos, físicos,
+prácticas agrícolas, etc., limitando al mínimo imprescindible la lu-
+cha química (uso de plaguicidas).
+• La agricultura ecológica.
+2.2.
+Fuentes de exposición y usos
+El perfil de los intoxicados por plaguicidas en el Hospital de Poniente
+(El Ejido, Almería) es el siguiente: el 85% de los intoxicados eran varones
+con una edad media de 35 años; el 60% de los intoxicados tenía entre 20
+y 40 años. En el 85% de los casos la intoxicación fue involuntaria, y en el
+15% con ánimo suicida.
+En fábricas de plaguicidas y, en general en plantas de formulación de
+plaguicidas no existen prácticamente casos de intoxicación aguda entre
+los trabajadores, probablemente por la correcta utilización de medidas
+de protección.
+Los tóxicos que ocasionaron mayor número de intoxicaciones por
+plaguicidas fueron los insecticidas (75%), seguidos de los acaricidas
+(10%) y de los fungicidas (9%). Dentro de los insecticidas, los más fre-
+cuentes fueron los organofosforados (59%), seguidos de los carbamatos
+(34%) y de los organoclorados (10%). Los insecticidas más frecuentes
+fueron el metamidofos (organofosforado), el metomilo (carbamato) y el
+clorpirifos (organofosforado). En los últimos años ha habido un cambio
+en el tipo de plaguicidas responsables de las intoxicaciones, con un gran
+aumento de los carbamatos, un ligero aumento de los organofosforados
+y un importante descenso de los organoclorados; por otro lado hemos
+podido detectar una diversificación en el tipo de tóxicos, siendo muchos
+de éstos de reciente formulación, y por tanto muy escasas las referen-
+cias sobre intoxicaciones en humanos.
+La intoxicación fue laboral en el 78% de los casos. La actividad labo-
+ral desencadenante más común fue la pulverización del plaguicida sin
+guardar las medidas de protección adecuadas. El 94% de los pacientes
+manifestaban conocer las medidas de protección adecuadas, aunque
+sólo el 1% las utilizaba correctamente en el momento de la intoxicación.
+14
+
+2.3.
+Vías de entrada
+Las vías de entrada de los tóxicos más frecuentes son la cutánea, in-
+cluida la exposición a la ropa de trabajo, y la respiratoria (entre ambas el
+77% de los casos) y la digestiva (14%). La vía digestiva está muy asocia-
+da a comer, beber o fumar en el trabajo.
+2.4.
+Efectos sobre la salud
+Los efectos de la intoxicación aguda por plaguicidas sobre el orga-
+nismo humano incluyen:
+• Síntomas dermatológicos: sudación, prurito, erupción cutánea y
+cianosis.
+• Neurológicos: mareo, cefalea, temblor, depresión y pérdida de
+consciencia, nerviosismo, convulsiones, síncope, fasciculaciones,
+parálisis y parestesias.
+• Oculares: visión borrosa y lagrimeo.
+• Cardiorespiratorios: palpitaciones, disnea, tos, aumento de expec-
+toración, dolor torácico, sibilancias y roncus.
+• Digestivos: sialorrea, molestias faríngeas, náuseas, vómitos, dolor
+abdominal, diarrea, tenesmo rectal y estreñimiento.
+• Antecedentes de abortos.
+• Otros síntomas inespecíficos.
+También puede hablarse de una intoxicación leve y persistente, que
+frecuentemente no requiere asistencia médica y que en algunos casos
+puede ser considerada crónica. Incluye los siguientes efectos:
+• Astenia
+• Anorexia
+• Cefalea
+• Alteraciones del sueño
+• Depresión
+• Cambios de carácter
+• Temblor
+• Paresias
+• Disminución de la libido
+• Impotencia sexual
+• Efectos crónicos o a largo plazo, destacando por su gravedad el
+potencial cancerígeno y mutágeno de alguno de ellos.
+3.
+EVALUACIÓN DEL RIESGO
+La evaluación de los riesgos es obligatoria tal y como indica la ley de
+Prevención de Riesgos Laborales, siendo prioritaria en la estrategia pre-
+ventiva.
+En el resultado de la evaluación de riesgos debe constar el nombre
+del técnico o de los técnicos responsables de la evaluación y la fecha en
+15
+
+que se efectuó. Si se hubieran practicado reevaluaciones posteriores
+constará expresamente a qué se debieron y los técnicos responsables.
+4.
+PROTOCOLO MÉDICO ESPECÍFICO
+Los datos de la historia laboral, algunos de la anamnesis laboral y los
+de la exploración clínica inespecífica de la anamnesis, creemos que de-
+berían unificarse para todos los protocolos específicos.
+4.1.
+Historia laboral
+Se recogerán los datos de filiación y los de los profesionales sanita-
+rios responsables del examen de salud (médico del trabajo, ATS/DUE de
+empresa y personal auxiliar) que participen en la vigilancia de la salud.
+Se establece un perfil de salud laboral para el trabajador consideran-
+do su nivel de estudios, tipo de contrato y hábitos. Está recogido en el
+punto 1 del anexo.
+4.1.1.
+Exposiciones anteriores (anamnesis laboral)
+Se recogerán el puesto o los puestos de trabajo ocupados anterior-
+mente, incluso si son de otra empresa. Se interrogará al trabajador sobre
+los riesgos del puesto, así como las medidas de protección empledas.
+Interesa distinguir si éstas fueron medidas de tipo individual o colectiva.
+4.1.2.
+Exposición actual al riesgo
+Se recogerá el puesto de trabajo ocupado actualmente, los riesgos
+del puesto, así como las medidas de protección empledas, sean indivi-
+duales o colectivas. El resultado de la evaluación de riesgos deberá estar
+en poder de los profesionales cuando se haga el examen de salud, y en
+ella constará el nombre de los técnicos de prevención responsables de
+la evaluación.
+4.2.
+Historia clínica
+Incluirá anamnesis, exploración clínica inespecífica y exploración clí-
+nica específica, para lo que proponemos una sistemática recogida en el
+anexo.
+Ante la sospecha de intoxicación crónica, se practicará la exploración
+física, y se añadirá una exploración mental e intelectual básica, tendente
+a conocer la orientación temporoespacial del trabajador.
+16
+
+4.3.
+Control biológico y estudios complementarios específicos
+Basado en la determinación de colinesterasa plasmática, eritrocitaria,
+GPT y GGT. El laboratorio clínico resulta de gran ayuda en las intoxica-
+ciones y en la prevención de éstas cuando se deben a organofosforados
+y a carbamatos.
+En el control biológico la American Conference of Govermental
+Industrial Hygienist (ACGIH) no tiene establecido indicadores biológicos
+para ningún otro producto, excepto el paranitrofenol para el parathion,
+pero que no proponemos como prueba obligatoria. Los frecuentes cam-
+bios en los productos, tanto en su utilización como en su formulación vie-
+nen a dificultar aún más este capítulo. En el protocolo a cumplimentar
+por el médico del trabajo dejamos un espacio abierto para recoger otras
+pruebas complementarias que hubiera solicitado.
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+MÉDICO ESPECÍFICO
+5.1.
+Anamnesis
+En la anamnesis se preguntará por todos los signos y síntomas indi-
+cados para detectar aquellas intoxicaciones agudas leves que no preci-
+saron asistencia médica.
+5.2.
+Control biológico y criterios de valoración
+Datos sobre la técnica: Existen métodos colorimétricos simples y
+económicos al alcance de cualquier laboratorio para la determinación de
+la actividad de la Colinesterasa Eritrocitaria, el método más usado se
+basa en la reacción descrita por Ellman en 1961.
+La Acetil-Tiocolina es degradada por la Colinesterasa (Eritrocitaria o
+Plasmática) en Acetato y Tiocolina y ésta reacciona con el reactivo de
+Ellman produciendo un producto de color amarillo que se mide a
+410 nm.
+La muestra necesaria para la determinación de Colinesterasa Eritroci-
+taria es sangre total con EDTA (de la cual se separa el plasma y se realiza
+la determinación sobre el hemolizado celular) y para la Pseudocolineste-
+rasa Plasmática, suero en el que es importante evitar la hemólisis. Es im-
+portante que las muestras de sangre total sean procesadas antes de
+transcurridas 4 horas desde la extracción, en cambio las de suero pue-
+den almacenarse 7 días a 4ºC, o 6 horas a 20-25ºC.
+El apoyo que el laboratorio puede prestar al diagnóstico de la intoxi-
+cación por organofosforados y carbamatos pasa por los siguientes pa-
+sos:
+17
+
+• Realización de niveles basales de actividad de Pseudocolisneste-
+rasa Plasmática a todos los trabajadores antes de comenzar la po-
+sible exposición a los plaguicidas. Si hay dudas sobre una exposi-
+ción previa se debe determinar la actividad de la Colinesterasa Eri-
+trocitaria, ya que una disminución de su actividad es prácticamente
+sinónimo de exposición en los últimos 3-4 meses.
+• En sospecha de Intoxicación Actual sea aguda o crónica se debe
+determinar la actividad de la Pseudocolinesterasa Plasmática ya
+que ésta refleja más fielmente la exposición reciente. En estos ca-
+sos debe valorarse el nivel encontrado con respecto a los basales,
+siendo además aconsejable descartar la concurrencia de aquellas
+patologías que dan lugar a disminuciones de la actividad de esta
+enzima, en este punto se justificaría la realización de enzimas he-
+páticas como la ALT (GPT) y GGT.
+• En sospecha de Intoxicación Pasada, los niveles de actividad de
+Colinesterasa Eritrocitaria pueden ser más significativos ya que
+persisten alterados durante un tiempo más prolongado que los de
+la Pseudocolinesterasa Plasmática.
+• En el control de la evolución de una intoxicación diagnosticada
+puede ser de más valor la determinación seriada de la actividad de
+la Pseudocolinesterasa Plasmática ya que ésta refleja los cambios
+con mayor rapidez que la actividad de la Colinesterasa Eritrocitaria.
+Los trabajadores que presenten alguna de las siguientes característi-
+cas deben evitar la exposición a los organosfosfarados y carbamatos
+hasta la normalización de los valores analíticos:
+1.
+Presenten una disminución del 25% de la colinesterasa plasmáti-
+ca con respecto al nivel basal o
+2.
+Padezcan enfermedades hepáticas, dermatológicas, neurológi-
+cas o cardiorrespiratorias, así como con severo daño hepático,
+alcohólicos crónicos o
+3.
+Presenten niveles basales de colinesterasa plasmática por deba-
+jo del 25% del límite inferior del rango de normalidad.
+Si el valor basal de la colinesterasa intraeritrocitaria fuera baja en el
+examen de salud inicial, pueden estudiarse las variantes genéticas:
+• EuEu: investigar patología hepática
+• EuEa/EuEf/EaEa/EaEf (cualquiera de ellas presente), serán considera-
+dos no aptos.
+Cuando el valor de colinesterasa eritrocitaria basal sea bajo, habría
+que descartar posible anemia o hemoglobinopatía. Por su parte, cuando
+la colinesterasa plasmática basal sea baja habría que investigar las va-
+riantes genéticas. Además de las especificadas en este apartado se
+debe incluir:
+• la variante US (heterozigoto para los alelos usual y silente). Si apa-
+rece, considerar apto para el trabajo, pero aumentar la periodici-
+dad de los controles médicos y analíticos.
+18
+
+• la presencia de variantes genéticas de baja actividad (por ejemplo,
+AK), en cuyo caso habría que considerar al individuo no apto para
+el trabajo.
+En la valoración consideramos como cifra límite la disminución de la
+acetilcolinesterasa del 25% de su valor basal (tomado de Henao S, Co-
+rey G. Plaguicidas organofofosforados y carbámicos. Metepec, México:
+Centro Panamericano de Ecología y Salud, OPS-OMS, 1986).
+Este valor de disminución de la acetilcolinesterasa varía según los cri-
+terios de diferentes autores: desde el 15% hasta el 35%. Tomamos el va-
+lor 25% porque en la revisión bibliográfica efectuada es el valor en torno
+al cual existe mayor consenso, así lo considera el profesor Marco Maroni
+también.
+Este asunto deberá ser revisado cada vez que se reevalúe el protoco-
+lo para adaptarlo a las nuevas tecnologías y a los nuevos conocimientos.
+5.3.
+Periodicidad
+Como norma general el reconocimiento médico se realizará anual-
+mente. Deberá ser semestral si el trabajador está habitualmente y/o inten-
+samente expuesto, o si las alteraciones detectadas así lo aconsejaran.
+Utilización del protocolo:
+Exámenes iniciales: Debe practicarse antes de exponerse a los pla-
+guicidas organofosforados y carbámicos. Si el trabajador ya hubiera es-
+tado en contacto con plaguicidas, para determinar el nivel basal de coli-
+nesterasa procuraremos que lleve el mayor tiempo posible sin estar en
+contacto con ellos, cuando sea factible, aprovechando la vuelta de vaca-
+ciones u otra circunstancia similar.
+Exámenes periódicos: ya determinada su periodicidad.
+Incorporación al trabajo tras ausencia por enfermedad grave: (neuro-
+lógica, dérmica, renal o cardiorrespiratoria) o sugestiva de exposición a
+plaguicidas.
+6.
+CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN
+Las disminuciones del nivel de Colinesterasa, aun cuando no reduz-
+can su valor en sangre por debajo del 25%, máxime si se producen en
+más de un trabajador, serán indicativas de reevaluar las condiciones de
+trabajo, incluidos los equipos de protección individual. Se tendrá espe-
+cialmente en cuenta el puesto de trabajo,el tiempo de exposición a pla-
+guicidas y la clase de producto manejado.
+Las mujeres embarazadas, los menores y las personas especialmen-
+te sensibles, se evitará que manejen plaguicidas.
+19
+
+7.
+LEGISLACIÓN APLICABLE
+1.
+Boletín Oficial del Estado. Ley 14/1986, de 25 de abril, General de
+Sanidad.
+2.
+Boletín Oficial del Estado. Ley 31/1995 de Prevención de Riesgos
+Laborales. BOE núm 269, 10/11/1995.
+3.
+Boletín Oficial del Estado. Real Decreto 39/1997 por el que se
+aprueba el reglamento de los Servicios de Prevención. BOE núm
+27, 31/1/1997.
+4.
+Boletín Oficial del Estado. Real Decreto 3349/1983 por el que se
+aprueba la Reglamentación Técnico-sanitaria para la fabricación y
+utilización de plaguicidas. Modificado por el Real Decreto 162/1991
+y R.D. 443/1994.
+5.
+Boletín Oficial del Estado. Real Decreto 363/1995 por el que se
+aprueba el Reglamento sobre Notificación de Sustancias Nuevas y
+Clasificación, Envasado y Etiquetado de Sustancias Peligrosas.
+Modificado por O.M. de 13 de septiembre de 1995, Orden de 21 de
+febrero de 1997 y R.D. 700/1998 de 24 de abril.
+6.
+Boletín Oficial del Estado. Orden de 28 de febrero de 1986, relativa
+a la prohibición de la comercialización y utilización de productos fi-
+tosanitarios que contienen ciertas sustancias activas. Modificada
+por la orden de 7 de septiembre de 1989, sobre prohibición de la
+comercialización y utilización de ciertos productos no sanitarios, in-
+gredientes activos. Modificada por las órdenes de 1 de febrero de
+1991 y de 4 de febrero de 1992.
+7.
+Boletín Oficial del Estado. Orden de 4 de febrero de 1994 por la que
+se prohíbe la comercialización y utilización de plaguicidas de uso
+ambiental que contienen determinados ingredientes activos peli-
+grosos.
+8.
+Boletín Oficial del Estado. Real Decreto 1995/1978 por el que se
+aprueba el cuadro de enfermedades profesionales en el sistema de
+la Seguridad Social. BOE núm 203, 25/8/1978.
+9.
+Boletín Oficial del Estado. Orden de 24 de febrero de 1993, por el
+que se establece la normativa reguladora de Libro Oficial de Movi-
+mientos.
+10.
+Boletín Oficial del Estado. Orden de 24 de febrero de 1993, por la
+que se normalizan la inscripción y funcionamiento del Registro de
+Establecimientos y Servicios de Plaguicidas.
+11.
+Diario Oficial de las Comunidades Europeas. Directiva 98/24/CE so-
+bre protección de los trabajadores contra los riesgos relacionados
+con la exposición a agentes químicos durante el trabajo. DOCE
+núm. L131, 5/5/98.
+8.
+BIBLIOGRAFÍA
+1.
+Bautista JM, Cabanillas JL et al. Normas para la correcta utilización
+de los plaguicidas. Consejería de Salud. Sevilla. 1998
+20
+
+2.
+Brossa P. Pesticidas agrícolas. Toxicología industrial. 1997, 26:
+237-254.
+3.
+Vázquez I, Pérez A, Alcantarilla G, Arpua I. Influencia del formulario
+de petición sobre la demanda de analítica. Todo Hospital, 1997
+(139): 13-17.
+4.
+Tordoir W, Maroni M, dirs. Healt Surveillance of pesticide workers.
+Toxicology 1994 (91): 1-115.
+5.
+Iglesia A. Reconocimientos médicos de trabajadores expuestos a
+plaguicidas. Nota Técnica de Prevención 199/1988. INSHT, 1988:
+1-8.
+6.
+Martín JC, Yélamos F, Laynez F, Córdoba J. Díez F, Lardelli a, Blan-
+co JL, Vicente JR. Intoxicaciones por insecticidas organofosfora-
+dos. Estudio de 506 casos. Revista Clínica Española, 1996. 196 (3):
+145-149.
+7.
+Organización Mundial de la Salud. Monitoreo biológico de la expo-
+sición a químicos en el puesto de trabajo 1990. Vol. 1.
+8.
+Real Decreto sobre reglamentación técnica-sanitaria para fabrica-
+ción, comercialización y utilización de plaguicidas. BOE, 1983,
+3349: 51-117.
+9.
+Ronald A. Sacher and Richar A Mc Pherson. Widmann Interpreta-
+ción Clínica de las pruebas de Laboratorio. 1.ª ed 1992. Pág. 436.
+10.
+Henry JB. Diagnóstico y Tratamiento Clínicos por el Laboratorio. 9.ª
+Ed. 279-281, 393.
+11.
+Ellman GL et al. A new and rapid colorimetric determination of ace-
+tilcolinesterasa activity. Biochem Pharmacol 1961; 7: 88-95.
+21
+
+
+ANEXO
+PROTOCOLO DE VIGILANCIA DE LA SALUD DE LOS
+TRABAJADORES EXPUESTOS A PLAGUICIDAS
+1.
+HISTORIA LABORAL
+Datos de filiación:
+N.º de Historia Clínica
+Nombre y apellidos
+Sexo
+DNI
+N.º de Seguridad Social
+Fecha de nacimiento
+Dirección y teléfono
+Datos del reconocimiento:
+Servicio de Prevención donde se lleva a cabo
+Tipo (propio, ajeno o mancomunado)
+Tipo de reconocimiento
+Nombre del médico del trabajo
+Nombre del ATS/DUE de empresa
+Nombre de la auxiliar
+Fecha
+Perfil de salud laboral:
+Nivel de estudios:
+N.º de trabajadores de la empresa:
+Tipo de contrato: fijo o temporal
+Hábitos de higiene personal:
+Come-fuma-bebe durante el trabajo
+Tras el trabajo: ¿se ducha y cambia de ropa?
+¿Fuma?:
+n.º cigarrillos/día:
+edad inicio:
+¿Ex fumador?
+Alcohol:
+Medicamentos (especificar):
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Otras drogas (especificar):
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.
+Exposiciones anteriores (anamnesis laboral)
+Puesto de trabajo
+Descripción de riesgos inherentes al trabajo
+Descripción detallada de los puestos de trabajo y de las tareas y productos utilizados
+Tiempo de permanencia: horas al día de exposición y días al año.
+Características de los locales (aire libre-cerrado)
+Riesgos detectados en la evaluación
+Medidas de protección adoptadas: individuales y colectivas
+1.2.
+Exposición actual al riesgo
+Puesto de trabajo
+Descripción de riesgos inherentes al trabajo
+Descripción detallada del puesto de trabajo y de las tareas y productos utilizados
+Tiempo de permanencia: horas diarias de exposición y días al año.
+23
+
+Características de los locales (aire libre-cerrado)
+Riesgos detectados en la evaluación
+Medidas de protección adoptadas
+2.
+HISTORIA CLÍNICA
+2.1.
+Anamnesis
+¿Ha requerido asistencia médica por alguna intoxicación aguda? q
+q
+q
+Sí
+No
+¿Cuántas?
+Síntomas de intoxicación aguda tras exposición a plaguicidas (excluyendo las intoxica-
+ciones que requirieron asistencia médica):
+Dermatológicos:
+Sí
+No
+Sudación
+q
+q
+Prurito
+q
+q
+Erupción cutánea
+q
+q
+Cianosis
+q
+q
+Neurológicos:
+Mareo
+q
+q
+Cefalea
+q
+q
+Temblor
+q
+q
+Depresión de la consciencia
+q
+q
+Pérdida de consciencia
+q
+q
+Nerviosismo
+q
+q
+Convulsiones
+q
+q
+Síncope
+q
+q
+Fasciculaciones
+q
+q
+Parálisis
+q
+q
+Oculares:
+Visión borrosa
+q
+q
+Lagrimeo
+q
+q
+Cardiorrespiratorios:
+Palpitaciones
+q
+q
+Disnea
+q
+q
+Tos
+q
+q
+Aumento de expectoración
+q
+q
+Dolor torácico
+q
+q
+Sibilancias
+q
+q
+Roncus
+q
+q
+Digestivos:
+Sialorrea
+q
+q
+Molestias faríngeas
+q
+q
+Náuseas
+q
+q
+Vómitos
+q
+q
+Dolor abdominal
+q
+q
+Diarrea
+q
+q
+Tenesmo rectal
+q
+q
+Estreñimiento
+q
+q
+Otros síntomas (especificarlos a continuación):
+Síntomas de intoxicación crónica actuales por exposición a
+plaguicidas:
+Astenia
+q
+q
+Anorexia
+q
+q
+Cefalea
+q
+q
+Alteraciones del sueño
+q
+q
+24
+
+Si
+No
+Depresión
+q
+q
+Cambios de carácter
+q
+q
+Temblor
+q
+q
+Paresias
+q
+q
+Disminución de la libido
+q
+q
+Impotencia sexual
+q
+q
+2.2.
+Exploración clínica específica
+Peso, talla e índice de Quetelet
+Exploración cutánea:
+Sudación
+q
+q
+Palidez
+q
+q
+Dermatitis
+q
+q
+Cianosis
+q
+q
+Exploración neurológica:
+Depresión de consciencia (*)
+q
+q
+Focalidad de pares craneales
+q
+q
+Rigidez de nuca
+q
+q
+Pérdida de fuerzas (especificar localización)
+q
+q
+Pérdida de sensibilidad (especificar localización)
+q
+q
+Arreflexia
+q
+q
+Hiporreflexia
+q
+q
+Hiperreflexia
+q
+q
+Presencia de reflejos patológicos (especificar)
+q
+q
+Temblor
+q
+q
+Fasciculaciones
+q
+q
+(*) Exploración mental e intelectual básica
+Decir los días de la semana en sentido inverso
+¿En qué año estamos, en qué día?
+Diga los números pares
+Exploración craneal:
+Lagrimeo
+q
+q
+Miosis
+q
+q
+Midriasis
+q
+q
+Conjuntivitis
+q
+q
+Sialorrea
+q
+q
+Faringe eritematosa
+q
+q
+Exploración circulatoria:
+Tensión arterial (especificar)
+q
+q
+Frecuencia cardíaca (especificar)
+q
+q
+Arritmia cardíaca
+q
+q
+Exploración respiratoria:
+Frecuencia respiratoria (especificar)
+q
+q
+Sibilancias
+q
+q
+Crepitantes
+q
+q
+Roncus
+q
+q
+Exploración abdominal:
+Dolor abdominal
+q
+q
+Defensa
+q
+q
+Megalias (especificar)
+q
+q
+Otras alteraciones (especificarlos a continuación)
+25
+
+Ante la sospecha de intoxicación crónica, se practicará la exploración física anterior, y
+se añadirá una exploración mental e intelectual básica, tendente a conocer la orienta-
+ción temporoespacial del trabajador, para ello se interrogará sobre:
+Decir los días de la semana en sentido inverso
+¿En qué año estamos, en qué día?
+Diga los números pares
+3.
+CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTARIOS ESPECÍFICOS
+Control biológico:
+En reconocimiento inicial: Colinesterasa plasmática.
+En reconocimiento previo: Colinesterasa eritrocitaria (si hubo exposiciones previas
+en los últimos 3 ó 4 meses).
+En reconocimiento periódico: Colinesterasa plasmática, GPT, GGT.
+Otros estudios complementarios.
+26

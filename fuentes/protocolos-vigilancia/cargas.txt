@@ -1,0 +1,1178 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+MANIPULACIÓN
+MANUAL DE CARGAS
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18, 28014 Madrid
+ISBN: 84-7670-503-4
+NIPO: 351-99-015-4
+D.L.: M - 19.125-1999
+Imprime: Solana e Hijos Artes Gráficas, S.A.
+4
+
+SESIÓN PLENARIA DEL CONSEJO
+INTERTERRITORIAL DEL SISTEMA NACIONAL DE
+SALUD (12 DE ABRIL DE 1999)
+El pleno informa favorablemente el «Protocolo de vigilancia
+sanitaria específica para los/as trabajadores/as expuestos/as a
+riesgos derivados de la manipulación manual de cargas».
+5
+
+6
+
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE SALUD
+PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL
+DE SALUD
+COORDINACIÓN DEL PROTOCOLO
+CONSEJERÍA DE SALUD DE ANDALUCÍA
+DIRECCIÓN GENERAL DE SALUD PÚBLICA Y PARTICIPACIÓN
+AUTORES
+Juan Luis Cabanillas Moruno.Consejería de Salud. Andalucía.
+Jesús Ledesma de Miguel. Ministerio de Trabajo. Sevilla.
+Fernando Martín Gómez. Hospital Universitario de Valme. Sevilla
+Javier Medina Chamorro. Consejería de Trabajo e Industria. Andalucía.
+Cristina Planas de Alfonso. Consejería de Trabajo e Industria. Andalucía.
+Andrés Pomares Alonso. Sociedad Andaluza de Medicina y Seguridad del Trabajo.
+Montserrat Fernández Tamayo.Consejeria de Salud. Andalucía.
+GRUPO DE TRABAJO DE SALUD LABORAL 
+Enrique Gil López. Ministerio de Sanidad y Consumo. Madrid.
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid.
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa Maria Campos Acedo. Consejería de Bienestar Social. Extremadura.
+Carmen Celma Marín. Consejería de Sanidad. Valencia.
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Laborales.
+País Vasco.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social.
+Castilla y León.
+Fernando Galvañ Olivares. Consejería de Sanidad y Política Social. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+Margarita García Barquero. Consejería de Sanidad y Servicios Sociales. Madrid.
+Alfonso García Carbajo. Departamento de Sanidad y Seguridad Social. Cataluña.
+Carlos García Puertas. Consejería de Salud, Consumo y Bienestar Social. La
+Rioja.
+7
+
+José Ramón Hevia Fernández. Consejería de Servicios Sociales. Asturias.
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y
+Trabajo. Aragón.
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad Social. Cataluña.
+8
+
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanita-
+ria Específica», editados por el Ministerio de Sanidad y Consumo y fruto
+del trabajo desarrollado por las Administraciones Sanitarias a través del
+Grupo de Trabajo de Salud Laboral de la Comisión de Salud Pública del
+Consejo Interterritorial del Sistema Nacional de Salud, como contribu-
+ción a las actividades de prevención de riesgos laborales en nuestro
+país.
+El nuevo marco normativo en materia de prevención de riesgos labo-
+rales (Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone,
+entre otras cuestiones, que debe cambiar radicalmente la práctica de los
+reconocimientos médicos que se realizan a las y los trabajadores. De
+ser exámenes médicos inespecíficos, cercanos a los clásicos chequeos
+o cribados de carácter preventivo general, deben pasar a ser periódicos,
+específicos frente a los riesgos derivados del trabajo, con el consenti-
+miento informado del trabajador, y no deben ser utilizados con fines dis-
+criminatorios ni en perjuicio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea efi-
+caz para la prevención.
+El poder contar con criterios uniformes basados en la evidencia cien-
+tífica y la experiencia profesional de los participantes en los grupos de
+trabajo constituidos para su elaboración, permitirá alcanzar los objetivos
+de prevención de la enfermedad y promoción de la salud de las y los
+trabajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigi-
+lar la salud de los trabajadores para detectar precozmente e individuali-
+zar los factores de riesgo y deterioro que puedan afectar a la salud de
+los mismos», la recogida armonizada y periódica de datos sobre riesgos
+y enfermedades y su posterior análisis e interpretación sistemáticos con
+criterios epidemiológicos, constituye uno de los instrumentos con que
+cuenta la salud pública para poder identificar, cuantificar y priorizar, y
+por lo tanto, diseñar políticas de prevención eficaces.
+9
+
+Para la elaboración de los protocolos, se constituyeron varios grupos
+de trabajo, que, coordinados por los representantes de las Comunida-
+des Autónomas, permitiese la elaboración en paralelo de varios de ellos.
+Finalmente, una vez concluido el procedimiento interno de elaboración
+de los mismos, han sido sometidos a consulta y adecuadamente infor-
+mados por Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y
+Sociedades Científicas (SEMST, SEEMT, AEETSL, SESPAS, SEE,
+SEMPSP y SEMPSPH), con cuyos representantes se mantuvieron reu-
+niones al efecto, en el Ministerio de Sanidad y Consumo, habiéndose in-
+corporado a la redacción final los comentarios recibidos que se
+consideró mejoraban el texto presentado. 
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los
+sanitarios, una guía de actuación para la vigilancia sanitaria específica
+de las y los trabajadores expuestos a riesgos derivados de la manipula-
+ción manual de cargas, que será revisado periódicamente, en la medida
+que así lo aconseje la evolución de la evidencia científica disponible y su
+aplicación concreta en los centros de trabajo de nuestro país.
+                                                            Juan José Francisco Polledo
+                                                             Director General de Salud Pública
+10
+
+SUMARIO
+                                                                                                       Pág.
+1. CRITERIOS DE APLICACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . 
+13
+2. DEFINICIÓN DEL PROBLEMA . . . . . . . . . . . . . . . . . . . . . . . . . 
+13
+2.1. DEFINICIONES Y CONCEPTOS . . . . . . . . . . . . . . . . . . 
+13
+2.2. FACTORES DE RIESGO . . . . . . . . . . . . . . . . . . . . . . . . . 
+14
+2.3. MECANISMO DE ACCIÓN. . . . . . . . . . . . . . . . . . . . . . . . 
+15
+2.4. EFECTOS SOBRE LA SALUD. . . . . . . . . . . . . . . . . . . . . 
+16
+3. EVALUACIÓN DEL RIESGO . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+16
+4. PROTOCOLO MÉDICO ESPECÍFICO. . . . . . . . . . . . . . . . . . . . 
+16
+4.1. HISTORIA LABORAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+16
+     4.1.1. EXPOSICIÓN ACTUAL AL RIESGO . . . . . . . . . . 
+16
+     4.1.2. EXPOSICIONES ANTERIORES (ANAMNESIS
+        LABORAL) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+4.2. HISTORIA CLÍNICA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+4.3. CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTA-
+     RIOS ESPECÍFICOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+4.4. CRITERIOS DE VALORACIÓN . . . . . . . . . . . . . . . . . . . . 
+17
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+   MÉDICO ESPECÍFICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+5.1. ANAMNESIS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+5.2. ANAMNESIS LABORAL . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+5.3. EXPLORACIÓN CLÍNICA ESPECÍFICA Y CRITERIOS DE
+      VALORACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+5.4. EXPLORACIONES COMPLEMENTARIAS . . . . . . . . . . . 
+19
+5.5. PERIODICIDAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+19
+5.6. FORMACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+19
+11
+
+                                                                                                       Pág.
+6. CONDUCTAS A SEGUIR SEGÚN LAS ALTERACIONES QUE
+     SE DETECTEN POR EL SERVICIO DE PREVENCIÓN . . 
+20
+7. LEGISLACIÓN APLICABLE . . . . . . . . . . . . . . . . . . . . . . . . 
+21
+8. BIBLIOGRAFÍA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+21
+ANEXO I: PROTOCOLO DE VIGILANCIA DE LA SALUD  DE LOS
+TRABAJADORES EXPUESTOS A RIESGOS DERIVADOS DE LA
+MANIPULACIÓN MANUAL DE CARGAS . . . . . . . . . . . . . . . . . . . . 
+23
+ANEXO II: CONSULTORES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+29
+12
+
+MANIPULACIÓN MANUAL DE
+CARGAS
+1. CRITERIOS DE APLICACIÓN
+Será de aplicación a cualquier trabajador, que tras la evaluación de
+riesgos en su puesto de trabajo se compruebe que manipula manual-
+mente cargas, siempre que éstas superen los Kg. de peso que especifi-
+que la Guía Técnica para la evaluación y prevención de los riesgos
+relativos a la manipulación manual de cargas elaborada por el Instituto
+Nacional de Seguridad e Higiene en el Trabajo (INSHT).
+Objetivo:
+El objetivo del protocolo de vigilancia médica de los trabajadores
+que manipulan cargas es prevenir la aparición de problemas de salud
+relacionados con su trabajo.
+2. DEFINICIÓN DEL PROBLEMA
+2.1. Definiciones y conceptos
+La manipulación manual de cargas ocasiona frecuentes y variadas en-
+fermedades y accidentes de origen laboral. Aproximadamente el 21% de
+los accidentes están producidos por sobreesfuerzos; y entre el 60-90% de
+los adultos han sufrido o sufrirán algún dolor de espalda a lo largo de su
+vida, pudiendo calcularse que un alto porcentaje de éstos pueda ser de
+origen laboral. No puede olvidarse el alto absentismo que produce y las
+elevadas pérdidas económicas que ocasionan los trastornos osteomus-
+culares producidos por la manipulación manual de cargas.
+Conceptos: 
+•
+Manipulación de cargas: Según el artículo 2 del Real Decreto
+487/1997 se entenderá por manipulación de cargas cualquier
+13
+
+operación de transporte o sujeción de una carga por parte de
+uno o varios trabajadores, como el levantamiento, el empuje, la
+colocación, la tracción o el desplazamiento, que por sus caracte-
+rísticas o condiciones ergonómicas inadecuadas entrañe riesgos,
+en particular dorsolumbares, para los trabajadores.
+•
+Levantar: 1. Acción y efecto de mover de abajo hacia arriba una
+cosa, o poner una cosa en lugar más alto que el que antes tenía.
+2. Poner derecha y en posición vertical a persona o cosa que
+está inclinada, tendida, etc. 3. Separar una cosa de otra sobre la
+cual descansa o está adherida.
+•
+Colocar: Poner a una persona o carga en su debido lugar.
+•
+Tracción: Hacer fuerza contra una carga para moverla, soste-
+nerla o rechazarla.
+•
+Desplazar: Mover a una persona o carga del lugar en el que
+está.
+Información y Formación: debe garantizarse con todos los trabaja-
+dores que manipulen cargas, en el sentido de promoción de la salud
+(artículos 18 y 19 de la Ley de Prevención de Riesgos Laborales, y
+art. 3 R.D. 487/1997).
+2.2. Factores de riesgo
+•
+Individuales 
+•
+Intrínsecos: Falta de aptitud física, patología dorsolumbar previa
+y sobrepeso.
+•
+Extrínsecos: Inadecuación de las ropas, el calzado u otros efec-
+tos personales que lleve el trabajador. Insuficiencia o inadapta-
+ción de los conocimientos o de la formación.
+•
+Existen otros condicionantes que pueden influir en la aparición
+de la patología relacionada con la manipulación manual de car-
+gas, tales como edad, sexo, otro empleo, hábitos como la activi-
+dad deportiva o el consumo de tabaco, el embarazo, y otras
+actividades extraprofesionales como tareas del hogar, cuidado
+de niños, minúsvalidos o ancianos, etc.
+•
+Laborales (los que cita el Real Decreto 487/97 en el anexo, en los
+puntos 1,2,3,4):
+•
+Características de la carga: La manipulación manual de una
+carga puede presentar un riesgo, en particular dorsolumbar, en
+los casos siguientes:
+Cuando la carga es demasiado pesada o demasiado grande.
+Cuando es voluminosa o difícil de sujetar.
+14
+
+Cuando está en equilibrio inestable o su contenido corre el ries-
+go de desplazarse.
+Cuando está colocada de tal modo que debe sostenerse o manipu-
+larse a distancia del tronco o con torsión o inclinación del mismo.
+Cuando la carga, debido a su aspecto exterior o a su consisten-
+cia, puede ocasionar lesiones al trabajador, en particular en caso
+de golpe.
+•
+Esfuerzo físico necesario: Un esfuerzo físico puede entrañar
+un riesgo, en particular dorsolumbar, en los casos siguientes:
+Cuando es demasiado importante.
+Cuando no puede realizarse más  que por un movimiento de tor-
+sión o de flexión del tronco.
+Cuando puede acarrear un movimiento brusco de la carga.
+Cuando se realiza mientras el cuerpo está en posición inestable.
+Cuando se trata de alzar o descender la carga con necesidad de
+modificar el agarre.
+•
+Características del medio de trabajo: Las características del
+medio de trabajo pueden aumentar el riesgo, en particular dorso-
+lumbar, en los casos siguientes:
+Cuando el espacio libre, especialmente vertical, resulta insufi-
+ciente para el ejercicio de la actividad de que se trate.
+Cuando el suelo es irregular y, por tanto, puede dar lugar a tropie-
+zos o bien es resbaladizo para el calzado que lleve el trabajador.
+Cuando la situación o el medio de trabajo no permite al trabaja-
+dor la manipulación manual de cargas a una altura segura y en
+una postura correcta.
+Cuando el suelo o el plano de trabajo presentan desniveles que
+implican la manipulación de la carga en niveles diferentes.
+Cuando el suelo o el punto de apoyo son inestables.
+Cuando la temperatura, humedad o circulación del aire son ina-
+decuadas.
+Cuando la iluminación no sea adecuada.
+Cuando exista exposición a vibraciones.
+•
+Exigencias de la actividad: La actividad puede entrañar riesgo,
+en particular dorsolumbar, cuando implique una o varias de las
+exigencias siguientes:
+Esfuerzos físicos demasiado frecuentes o prolongados en los
+que intervenga en particular la columna vertebral.
+Período insuficiente de reposo fisiológico o de recuperación.
+Distancias demasiado grandes de elevación, descenso o trans-
+porte.
+Ritmo impuesto por un proceso que el trabajador no pueda mo-
+dular.
+2.3. Mecanismos de acción
+•
+Las alteraciones que más frecuentemente se asocian a la mani-
+pulación manual de cargas son musculares, tendinosas y liga-
+15
+
+mentosas, así como articulares. También podemos encontrarnos
+afectación ósea, neurológica, vascular y de la pared abdominal.
+Los mecanismos que desencadenan estas alteraciones suelen
+ser estiramientos, roturas, roces o fricciones, presiones y sobre-
+demandas a las estructuras orgánicas correspondientes.
+•
+Pueden ser puntuales o persistentes.
+2.4. Efectos sobre la salud
+•
+Fatiga fisiológica
+•
+Muscular : contracturas, calambres y rotura de fibras
+•
+Tendinosa y ligamentosa: sinovitis, tenosinovitis, roturas, esguin-
+ces y bursitis
+•
+Articular: artrosis, artritis, hernias discales
+•
+Otros efectos: 
+•
+Oseos: fracturas y fisuras
+•
+Neurológicos: atrapamientos
+•
+Vasculares: trastornos vasomotores
+•
+Pared abdominal: hernias
+3. EVALUACIÓN DEL RIESGO
+Es obligatorio según la Ley de Prevención de Riesgos Laborales
+Se ajustará a la Guía Técnica para la evaluación y prevención de los
+riesgos relativos a la manipulación manual de cargas, elaborada por el
+INSHT.
+4. PROTOCOLO MÉDICO ESPECÍFICO
+4.1. Historia laboral
+Se recogerán los datos de filiación y los de los profesionales sanita-
+rios responsables del examen de salud, así como del Servicio de Pre-
+vención.
+4.1.1. EXPOSICIÓN ACTUAL AL RIESGO
+Se recogen los riesgos del puesto y una descripción detallada del
+puesto, así como las medidas de protección empleadas. El resultado de
+la evaluación de riesgos deberá estar en poder de los profesionales
+cuando se haga el examen de salud. (Ver Anexo I).
+16
+
+4.1.2. EXPOSICIONES ANTERIORES (ANAMNESIS LABORAL)
+Se recogerán los puestos de trabajo anteriores del trabajador con
+expresión del tiempo y una somera descripción del puesto y de sus ries-
+gos, tal y como se indica en el Anexo I.
+4.2. Historia clínica
+Incluirá anamnesis, exploración clínica inespecífica y exploración clí-
+nica específica, para la que proponemos una sistemática por regiones
+anatómicas, tal y como puede verse en el Anexo I.
+4.3. Control biológico y estudios complementarios específicos
+Se explica en el punto 5 que ninguna prueba complementaria debe ser
+obligatoria, pero que dejamos un espacio abierto para que el médico del
+trabajo pueda recoger los resultados de aquellas que hubiera solicitado.
+4.4. Criterios de valoración
+Pueden verse con detalle más adelante en el punto 5.3.
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+  MÉDICO ESPECÍFICO
+5.1. Anamnesis
+Se recogerán detalladamente los datos de filiación y del reconoci-
+miento que se practica.
+Ex-fumador es el que lleva más de un año sin fumar. El n.º de ciga-
+rrillos se recogerá para fumadores y exfumadores.
+5.2. Anamnesis laboral
+En el apartado «descripción del puesto de trabajo» se tendrán en
+especial consideración los factores de riesgo recogidos en la descrip-
+ción detallada del puesto actual.
+5.3. Exploración clínica específica y criterios de valoración
+Se ha creído conveniente dejar cerrados la mayoría de los aspectos
+del protocolo, no obstante en algunos apartados se ha dejado un espa-
+17
+
+cio abierto para que sea cumplimentado por el médico del trabajo si lo
+estimara conveniente.
+Cuando parezca relevante, la movilidad se recogerá en grados.
+Prueba de Phalen: Indica neuropatía del mediano.
+Procedimiento:  Se examina el llamado «signo de la mano flexiona-
+da», en el que el paciente mantiene las manos en flexión palmar duran-
+te 10 min. En esta posición, con el dorso de las manos en contacto, se
+produce un aumento de la presión en el túnel carpiano.
+Valoración: La posición que adopta el dorso de las manos provoca
+parestesias en la zona del nervio mediano no solamente en individuos
+con síndrome del túnel carpiano, sino también en personas sanas. Si
+existe un síndrome del túnel carpiano, los síntomas empeoran al realizar
+la prueba.
+Signo de Tinel: Indica lesión del nervio mediano.
+Procedimiento: La mano se sitúa en ligera flexión dorsal, apoyada
+sobre un pequeño almohadón en la  mesa de exploración, y con un mar-
+tillo de reflejos o con el dedo índice se percute sobre el nervio mediano
+en al articulación de la muñeca.
+Valoración: Las parestesias y el dolor en la mano e incluso en el
+antebrazo indican un síndrome de compresión del nervio mediano (sín-
+drome del túnel carpiano).
+Prueba diferencial según Lasègue: Diferenciación entre ciatalgia y
+dolor de cadera.
+Procedimiento: El paciente se encuentra en decúbito supino. Con
+una mano el clínico sujeta el talón y con la otra la rodilla por la parte de
+delante. La pierna hiperextendida se levanta lentamente hasta el punto
+en que aparece el dolor, y se registran entonces su tipo y su localiza-
+ción.
+La prueba se repite y la pierna se flexiona por la articulación de la
+rodilla cuando se alcanza el punto doloroso.
+Valoración: Un paciente afecto de irritación del nervio ciático pre-
+senta una disminución clara de las molestias cuando efectúa una flexión
+de la rodilla, que incluso pueden desaparecer completamente. Si existe
+una alteración de la articulación coxofemoral, el dolor se acentúa al
+efectuar una flexión más pronunciada de esta articulación.
+Observación: El dolor que aparece como consecuencia de un tras-
+torno de la articulación coxofemoral se localiza en la región inguinal y
+sólo de manera excepcional en la zona dorsolateral de la articulación.
+Solamente si el dolor es dorsolateral puede ser difícil diferenciar una irri-
+tación radicular de una alteración de la articulación coxofemoral. 
+18
+
+Signo de Schöver: Mide el grado de flexibilidad de la columna vertebral
+lumbar.
+Procedimiento: El paciente se encuentra en bidepestación. Se
+efectúa una marca sobre la piel en la zona correspondiente a la apófisis
+espinosa de la vértebra S1, así como 10 cm más arriba. En flexión ante-
+rior, la distancia entre las dos marcas cutáneas se amplía hasta 15 cm,
+mientras que en flexión posterior (reclinación) se acorta hasta 8-9 cm.
+Valoración: Los cambios de la columna vertebral de tipo degenera-
+tivo e infeccioso conducen a una limitación de la movilidad de la colum-
+na y, con ello, de la flexibilidad de las apófisis espinosas.
+5.4. Exploraciones complementarias
+Ninguna de ellas debe ser obligatoria, pero se dejará un espacio para
+que el médico del trabajo pueda recoger las que haya creído oportuno rea-
+lizar, incluído el estudio de la respuesta cardiorrespiratoria al esfuerzo.
+5.5. Periodicidad
+De modo general, la prioridad de los exámenes de salud de estos
+trabajadores depende de la evaluación del riesgo que se realice. En
+particular, y según el criterio del médico del trabajo, se seguirá lo si-
+guiente:
+1. Cuando el trabajador sea apto sin restricciones, sin riesgo per-
+sonal y con riesgo laboral mínimo, el examen de salud podrá ser
+trianual o bianual. El riesgo laboral procede de la evaluación de
+riesgos.
+2. Cuando existan restricciones en la aptitud o aparezca alguna cir-
+cunstancia intercurrente, el reconocimiento será anual, y si el
+médico lo estimara conveniente podrá ser semestral o trimestral.
+La racionalización de estos períodos diferentes va en beneficio de la
+eficacia preventiva, al poder dedicar más atención a los trabajadores
+que más lo requieran a juicio del médico del trabajo.
+5.6. Formación
+La formación es básica para prevenir los daños en la salud de los
+trabajadores expuestos a manipulación de cargas. La formación deberá
+ser obligatoria y el médico del trabajo hará promoción de la salud con
+los trabajadores a riesgo, siendo aconsejable estrategias del tipo de las
+Escuelas de Espalda.
+19
+
+6. CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+  DETECTEN POR EL SERVICIO DE PREVENCIÓN
+•
+Análisis y reestudio de las condiciones de trabajo si las alteracio-
+nes detectadas por el médico del trabajo lo aconsejan. Evalua-
+ción y control del riesgo.
+•
+Rehabilitación y recuperación mediante el trabajo; optimizando
+en la medida de lo posible el puesto de trabajo como elemento
+rehabilitador.
+•
+Cambio de puesto de trabajo.
+Los criterios de valoración que se han consensuado para el protoco-
+lo propuesto son los siguientes:
+1. Apto sin restricciones
+El trabajador podrá desempeñar su tarea habitual sin ningún tipo de
+restricción física ni laboral, siempre y cuando el trabajo se ajuste a la
+normativa legal en cuanto a Seguridad y Salud en el trabajo y haya
+recibido la información adecuada sobre los riesgos y los daños deri-
+vados de su trabajo.
+2. Apto con restricciones
+Tienen por objeto lograr la rehabilitación y recuperación laboral del
+trabajador que lo precise y muy especialmente la integración profe-
+sional del minusválido. Las restricciones podrán ser personales y/o
+laborales.
+A. Personales: Implica la obligatoriedad de realizar las medidas
+higiénico-sanitarias prescritas por el médico para salvaguardar
+su salud y prevenir agravamientos de una afección anterior.
+B. Laborales:
+B.1. Adaptativas: implican la adaptación del entorno laboral
+al trabajador para la realización íntegra de las tareas pro-
+pias de su puesto de trabajo.
+B.2. Restrictivas: existe prohibición de realizar total o parcial-
+mente tareas muy concretas y específicas de su puesto
+de trabajo.
+3. No apto: 
+Calificación que recibe el trabajador cuando el desempeño de las ta-
+reas impliquen problemas serios de salud, o ésta le imposibilite la
+realización de las mismas y tanto en uno como en otro caso no sea
+posible la aplicación de calificación de apto con restricciones.
+20
+
+4. En observación:
+Calificación que recibe el individuo que está siendo sometido a estu-
+dio y/o vigilancia médica a fin de determinar su grado de capacidad,
+valorando además su nivel de formación en relación con los riesgos
+de su puesto de trabajo.
+En cualquier caso, la calificación de aptitud será el resultado de en-
+frentar el fisiograma del trabajador con el profesiograma del puesto de
+trabajo intentando en lo posible la readaptación laboral del individuo con
+lesiones y la integración social del minusválido.
+7. LEGISLACIÓN APLICABLE
+•
+Ley 14/1986 General de Sanidad.
+•
+Ley de Prevención de Riesgos Laborales
+•
+Reglamento de los Servicios de Prevención.
+•
+Real Decreto 487/1997 sobre disposiciones mínimas de seguri-
+dad y salud relativas a la manipulación de cargas que entrañe
+riesgos, en particular dorsolumbares, para los trabajadores.
+•
+Real Decreto 486/1997 sobre disposiciones mínimas de seguri-
+dad y salud en los lugares de trabajo.
+•
+Real Decreto 1995/1978 por el que se aprueba el cuadro de en-
+fermedades profesionales en el Sistema de Seguridad Social.
+•
+Real Decreto 1891/1991 sobre instalación y utilización de apara-
+tos de rayos X con fines de diagnóstico médico.
+•
+Real Decreto 383/1984 sobre Sistema especial de prestaciones
+sociales y económicas para minusválidos.
+8. BIBLIOGRAFÍA
+•
+Ayoub M. Control of Manual Lifting Hazards: III. Preemployment
+Screening. Journal of Occupational Medicine, 1982. 10 (24): 751-
+761.
+•
+Chavarria R. La carga física de trabajo: definición y evaluación.
+Notas Técnicas de Prevención INSHT, 1991. NTP 295: 1-6.
+•
+Chirivella C, García C, Page A. Evaluación de riesgos laborales
+asociados a la carga física. Prevención, 1997. 141: 9-21.
+•
+Díaz C, Ipas M. Método de evaluación de carga física en puestos
+de trabajo. Mapfre Seguridad, 1996. 62: 15-19.
+•
+Guía técnica para la evaluación y prevención de los riesgos rela-
+tivos a la manipulación manual de cargas. Instituto Nacional de
+Seguridad e Higiene en el Trabajo. 1997: 1-108.
+•
+Método de evaluación de riesgos de lesión por movimientos re-
+petitivos. Jornada , 1996: 52-68.
+•
+Movimiento manual de cargas. Seguridad en el trabajo. FRE-
+MAP, documento interno: 1-43.
+21
+
+•
+Muñoz G, Solano JF. Protocolos en reconocimientos médicos
+preventivos. II carga física. Medicina y Seguridad del Trabajo,
+1990. 150 (38): 55-60.
+•
+Nueva Guía NIOSH sobre manutención manual. Prevención Ex-
+press, 1993. 210: 2-4.
+•
+Prieto JM. Exploración del aparato locomotor. Barcelona, 1996
+(EdiDe).
+•
+Protocolo Específico Columna Vertebral. Instituto Nacional de
+Seguridad e Higiene en el Trabajo.
+•
+Real Decreto sobre disposiciones mínimas de seguridad y salud
+relativas a la manipulación manual de cargas. BOE, 1997. 97:
+12926-12928.
+•
+Solé MD. Valoración de la carga física mediante la monitoriza-
+ción de la frecuencia cardíaca. Notas Técnicas de Prevención
+INSHT, 1991. NTP 295: 1-5.
+22
+
+ANEXO I
+PROTOCOLO DE VIGILANCIA DE LA SALUD DE LOS
+TRABAJADORES EXPUESTOS A RIESGOS DERIVADOS DE LA
+MANIPULACIÓN MANUAL DE CARGAS
+1. HISTORIA LABORAL
+Datos de filiación:
+•
+N.º de historia clínica
+•
+Nombre
+•
+Apellidos
+•
+Sexo
+•
+N.º de la seguridad social
+•
+D.N.I.
+•
+Fecha de nacimiento
+•
+Dirección
+Datos del reconocimiento: 
+•
+Nombre del médico del trabajo
+•
+Fecha
+•
+Servicio de Prevención que realiza el reconocimiento
+•
+Tipo (propio, ajeno, mancomunado)
+•
+Clase de reconocimiento   inicial  
+  periódico 
+  tras ausencia
+•
+              enfermedad 
+  otros 
+  
+1.1. EXPOSICIÓN ACTUAL AL RIESGO
+•
+Ocupación (CNO)
+•
+Actividad de la empresa (CNAE)
+•
+Nombre de la empresa
+  Riesgos:
+•
+Levanta 
+ Coloca 
+ Empuja 
+ Tracciona 
+ Desplaza 
+ 
+•
+Si es repetitivo ¿Con qué frecuencia?     Horas/día:
+•
+Riesgo obtenido en la evaluación de riesgos: Mínimo 
+ Mediano 
+ Alto 
+ 
+•
+Tiempo de permanencia (en años)
+•
+Tiempo de exposición (Horas/día)       (Días/semana)
+•
+Exposición a tóxicos:                    Sí   No
+  — Cadmio, fósforo (afectación ósea)              
+     
+ 
+  — Mercurio, talio, arsénico, alcohol …(afectación sensibilidad)   
+      
+ 
+  — Manganeso, cobalto, alcohol, disolventes (afectación equilibrio)  
+     
+ 
+23
+
+  Descripción detallada del puesto:
+  1. Características de la carga                 Sí   No
+Peso (Kg.): Entre  
+  kg.  y  
+  kg.
+Volumen difícil de manejar                      
+     
+ 
+Equilibrio inestable o contenido puede desplazarse          
+     
+ 
+Manipulación a distancia del tronco o con torsión o inclinación del mismo 
+     
+ 
+  2. Esfuerzo físico necesario
+Exige torsión - flexión del tronco                  
+     
+ 
+Existe la posibilidad de un movimiento brusco de la carga       
+     
+ 
+Cuerpo en posición inestable                       
+     
+ 
+Alzar o descender la carga variando el agarre               
+     
+ 
+  3. Medio de trabajo
+Espacio libre insuficiente para la actividad                                        
+     
+ 
+Suelo irregular o resbaladizo                                                             
+     
+ 
+Altura excesiva para manipulación manual de cargas                      
+     
+ 
+Postura forzada                                                                                  
+     
+ 
+Desniveles en suelo o plano de trabajo                                             
+     
+ 
+Suelo o punto de trabajo inestable                                                       
+     
+ 
+Temperatura, humedad, circulación del aire e iluminación inadecuadas    
+     
+ 
+Vibraciones                                                                                           
+     
+ 
+  4. Exigencias de la actividad
+Esfuerzos físicos demasiado frecuentes o prolongados en los
+       que intervenga en particular la columna vertebral                                  
+     
+ 
+Período insuficiente de reposo                                                               
+     
+ 
+Distancias demasiado grandes de elevación, descenso o transporte       
+     
+ 
+Ritmo impuesto por un proceso que el trabajador no pueda modular      
+     
+ 
+  Medidas de protección              Siempre A veces Nunca
+Faja lumbar                                                                          
+         
+          
+ 
+Medios auxiliares en la manipulación manual de cargas    
+         
+          
+ 
+Diseño adecuado del puesto                                               
+         
+          
+ 
+Pausas de trabajo frecuentes                                              
+         
+          
+ 
+1.2. EXPOSICIONES ANTERIORES (ANAMNESIS LABORAL)
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+24
+
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+2. HISTORIA CLÍNICA
+2.1. ANAMNESIS
+1. ¿Ha padecido o padece alguna enfermedad? (recoger las citadas en el punto 2.4)
+2. Otros trastornos congénitos o adquiridos que repercutan en la manipulación manual
+de cargas o en la aptitud física
+3. Algo de lo anterior ¿Ha sido enfermedad profesional o accidente de trabajo? ¿Cuáles?
+Antecedentes familiares relacionados
+Antecedentes personales relacionados 
+Fuma Sí  Cig/día: No  Ex-fumador  ¿Desde cuándo fuma? (años)  Sí No
+¿Practica algún deporte regularmente?                                                            
+  
+ 
+¿Realiza alguna actividad extralaboral que exija manipulación manual de
+  cargas?                                                                                                              
+  
+ 
+¿Ha recibido formación adecuada para manipular correctamente cargas?    
+  
+ 
+¿Existe costilla cervical?                                                                                   
+  
+ 
+¿Existen síntomas de afectación neurológica?                                                
+  
+ 
+2.2. EXPLORACIÓN CLÍNICA INESPECÍFICA
+•
+Peso
+•
+Talla
+•
+Índice de Quetelet
+•
+Frecuencia cardíaca
+•
+Presión arterial
+•
+Auscultación cardiopulmonar
+•
+Palpación abdominal (hernias)
+25
+
+2.3. CUESTIONARIO DE SÍNTOMAS OSTEOMUSCULARES
+RESPONDA EN TODOS LOS CASOS
+RESPONDA SOLAMENTE SI HA TENIDO
+PROBLEMAS
+Usted ha tenido en los últimos 12 meses
+problemas (dolor, curvaturas, etc...) a nivel
+de:
+Durante los últimos doce
+meses ha estado
+incapacitado-a para su
+trabajo (en casa o fuera)
+por causa del problema
+¿Ha tenido problemas en
+los últimos siete días?
+Nuca:           
+ Sí  
+ No 
+  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+Hombros:
+ Hombro derecho:   
+ Sí  
+ No 
+ Hombro izquierdo:     Sí  
+ No 
+ Ambos hombros:      
+ Sí  
+ No 
+  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+Codos:
+ Codo derecho:   
+ Sí  
+ No 
+ Codo izquierdo:     Sí  
+ No 
+ Ambos codos:      
+ Sí  
+ No 
+  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+Puños/manos:
+ La derecha:   
+ Sí  
+ No 
+ La izquierda:     Sí  
+ No 
+ Ambos:            
+ Sí  
+ No 
+  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+Columna alta (dorso):         
+ Sí  
+ No 
+  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+Columna baja (lumbares):  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+Caderas:
+Derecha:        
+ Sí  
+ No 
+Izquierda:       
+ Sí  
+ No 
+  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+Rodilla:
+Derecha:        
+ Sí  
+ No 
+Izquierda:       
+ Sí  
+ No 
+  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+Tobillos/pies:
+Derecho:        
+ Sí  
+ No 
+Izquierdo:       
+ Sí  
+ No 
+  
+ Sí  
+ No 
+  
+ Sí  
+ No 
+26
+
+2.4. EXPLORACIÓN CLÍNICA ESPECÍFICA
+COLUMNA VERTEBRAL DESVIACIÓN DEL EJE ANTERO-POSTERIOR
+Curvas Fisiológicas
+Ant-Post
+Normal
+Aumentada
+Disminuida
+Cervical
+Dorsal
+Lumbar
+DESVIACIONES DEL EJE LATERAL
+Eje lateral
+Normal
+Concavidad derecha
+Concavidad izquierda
+Dorsal
+Lumbar
+MOVILIDAD - DOLOR
+Flexión
+Extensión
+Lateraliz.
+izquierda
+Lateraliz.
+derecha
+Rotación
+derecha
+Rotación
+izquierda
+Irradiación
+Cervical
+Dorso lumbar
+EXPLORACIÓN
++/-
+Lasègue
+Dch.
+Izq.
+Schöver
+Dch.
+Izq.
+PALPACIÓN
+Apófisis espinosas dolorosas
+Contractura muscular
+Columna cervical
+Columna dorsal
+Columna lumbar
+27
+
+ARTICULACIONES: MOVILIDAD - DOLOR
+Artículación
+Abducc.
+Adducc.
+Flexión
+Extens.
+Rot. Ext.
+Rot. Int.
+Irrad.
+Alt. Masa
+Muscular
+Hombro
+Dch.
+Izq.
+Codo
+Dch.
+Izq.
+Muñeca
+Dch.
+Izq.
+Cadera
+Dch.
+Izq.
+Rodilla
+Dch.
+Izq.
+Tobillo
+Dch.
+Izq.
+EXPLORACIÓN
++/-
+Test de Phalen
+Dch.
+Izq.
+Test de Tinel
+Dch.
+Izq.
+SIGNOS Y SÍNTOMAS
+ Grado 0
+ Ausencia de signos y síntomas.
+ Grado 1
+ Dolor en reposo y/o existencia de sintomatología sugestiva.
+ Grado 2
+ Grado 1 más contractura y/o dolor a la movilización.
+ Grado 3
+ Grado 2 más dolor a la palpación y/o percusión.
+ Grado 4
+ Grado 3 más limitación funcional evidente clínicamente.
+Varo
+Valgo
+Codo
+Dch.
+Izq.
+Cavo
+Plano
+Pie
+Dch.
+Izq.
+28
+
+2.5. CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTARIOS ESPECÍFICOS
+                                                                                                                                               
+                                                                                                                                               
+3. VALORACIÓN DE LA APTITUD MÉDICO-LABORAL
+1. Apto sin restricciones         
+ 
+2. Apto con restricciones        
+ 
+   2.1. Personales                 
+ 
+   2.2. Laborales                   
+ 
+        2.2.1. Restrictivas    
+ 
+        2.2.2. Adaptativas    
+ 
+3. No apto                               
+ 
+4. En observación                   
+ 
+Observaciones:                                                                                                                   
+                                                                                                                                               
+                                                                                                                                               
+29
+
+ANEXO II
+CONSULTORES
+•
+Dr. D. Antonio de la Iglesia Huerta
+Jefe Área Epidemiología Laboral
+Centro Nacional de Medios de Protección. INSHT
+•
+Dr. D. José Mármol Rodríguez
+Jefe Área Medicina Laboral
+Centro de Seguridad e Higiene en el Trabajo
+Consejería de Trabajo e Industria. Junta de Andalucía
+•
+D. Fernando Molina Guerrero
+Presidente Territorial de CSI-CSIF Sanidad-Andalucía
+•
+Sr. Coordinador del Gabinete de Salud Laboral
+C.C.O.O. de Andalucía
+•
+Dr. D. Guido Pérez
+Fundación Esculapio
+•
+Ilmo. Sr. Prof. Dr. D. Pedro Blasco Huelva
+Profesor Titular de Medicina Preventiva y Salud Pública
+Decano de la Facultad de Medicina
+Universidad de Sevilla
+•
+Dr. D. Pedro de Castro Sánchez
+Presidente Asociación Andaluza de Medicina y Seguridad en el Trabajo
+•
+Prof. Dr. D. Carlos Ruiz Frutos
+Profesor Titular de Medicina Preventiva y Salud Pública. Universidad de Huelva
+•
+Dr. D. Antonio de la Iglesia Huerta
+Jefe Área Epidemiología Laboral
+Centro Nacional de Medios de Protección. INSHT
+•
+Dr. D. Francisco López-Raya Serrano
+Asociación Española de Especialistas en Medicina del Trabajo
+Servicio Médico de Cajasur
+•
+Dr. D.Jaime Marañón López
+Jefe Servicio Salud Laboral de la Universidad de Sevilla
+•
+Dr. D. Isidoro Pérez Madroñal
+Sociedad Española de Salud Laboral en la Admón. Pública
+•
+Prof. Dr. Enrique Villanueva Cañadas
+Director Escuela de Medicina del Trabajo. Universidad de Granada
+•
+Sr. D. Gonzalo García Domínguez
+Presidente del Colegio Oficial de Enfermería de Huelva
+•
+Dra. Dña. Montserrat García Gómez
+Ministerio de Sanidad y Consumo (Salud Laboral)
+•
+Sr. D. Antonio Moya Monterde
+Confederación de Empresarios de Andalucía (CEA) (Dpto. Relaciones Institu-
+cionales)
+30
+
+•
+Dr. D. Antonio Luna
+Presidente de AESPA (Asociación Española de Salud Pública y Epidemiología
+de Andalucía)
+•
+Dr. D. José María Millán
+Hospital de Fremap (Dirección Médica)
+•
+Sr. D. Manuel Pérez Ortiz
+Director Provincial 
+ASEPEYO
+•
+Sr. Director Regional 
+La Fraternidad
+•
+Dr. D. Alberto Fernández Ajuria
+Escuela Andaluza de Salud Pública
+•
+D.ª Juana Mena Feria
+Asociación de Salud Laboral y Condiciones de Trabajo
+Consejería de Salud
+•
+Ilmo. Sr. Director General de Asistencia Sanitaria
+Servicio Andaluz de Salud
+•
+Prof. Dra. Dña. Ana Solano Parés
+Prof. Titular Dpto. de Medicina Preventiva y Salud Pública
+Universidad de Sevilla
+•
+Prof. Dr. D. Manuel Conde Herrera
+Director del Dpto. de Medicina Preventiva y Salud Pública. Universidad de Sevilla
+31

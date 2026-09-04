@@ -1,0 +1,3055 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+PANTALLAS DE
+ VISUALIZACIÓN
+ DE DATOS
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18, 28014 Madrid
+ISBN: 84-7670-502-6
+NIPO: 351-99-015-4
+D.L.: M - 19.126-1999
+Imprime: Solana e Hijos Artes Gráficas, S.A.
+4
+
+SESIÓN PLENARIA DEL CONSEJO
+INTERTERRITORIAL DEL SISTEMA NACIONAL DE
+SALUD (12 DE ABRIL DE 1999)
+El pleno informa favorablemente el «Protocolo de vigilancia
+sanitaria específica para los/as trabajadores/as con pantallas
+de visualización de datos».
+5
+
+BLANCA
+6
+
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE SALUD
+PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL
+DE SALUD
+COORDINACIÓN DEL PROTOCOLO
+OSALAN - INSTITUTO VASCO DE SEGURIDAD Y SALUD LABORALES
+LANEKO SEGURTASUN ETA OSASUNERAKO EUSKAL ERAKUNDEA
+AUTORES
+Miguel Martín Zurimendi. Ergónomo. País Vasco.
+María Begoña Elola Oyarzabal. Osalan. País Vasco.
+Juan Ignacio de la Peña Cuadrado. Osalan. País Vasco.
+Amaia Martínez Castillo. Osalan. País Vasco.
+GRUPO DE TRABAJO DE SALUD LABORAL 
+Enrique Gil López. Ministerio de Sanidad y Consumo. Madrid.
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid.
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa María Campos Acedo. Consejería de Bienestar Social. Extremadura.
+Carmen Celma Marín. Consejería de Sanidad. Valencia.
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Laborales.
+País Vasco.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social.
+Castilla y León.
+Fernando Galvan Olivares. Consejería de Sanidad y Política Social. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+Margarita García Barquero. Consejería de Sanidad y Servicios Sociales. Madrid.
+Alfonso García Carbajo. Departamento de Sanidad y Seguridad Social. Cataluña.
+Carlos García Puertas. Consejería de Salud, Consumo y Bienestar Social. La Rioja.
+José Ramón Hevia Fernández. Consejería de Servicios Sociales. Asturias.
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y
+Trabajo. Aragón.
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad Social.
+Cataluña.
+7
+
+BLANCA
+8
+
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanita-
+ria Específica», editados por el Ministerio de Sanidad y Consumo y fruto
+del trabajo desarrollado por las Administraciones Sanitarias a través del
+Grupo de Trabajo de Salud Laboral de la Comisión de Salud Pública del
+Consejo Interterritorial del Sistema Nacional de Salud, como contribu-
+ción a las actividades de prevención de riesgos laborales en nuestro
+país.
+El nuevo marco normativo en materia de prevención de riesgos labo-
+rales (Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone,
+entre otras cuestiones, que debe cambiar radicalmente la práctica de los
+reconocimientos médicos que se realizan a las y los trabajadores. De
+ser exámenes médicos inespecíficos, cercanos a los clásicos chequeos
+o cribados de carácter preventivo general, deben pasar a ser periódicos,
+específicos frente a los riesgos derivados del trabajo, con el consenti-
+miento informado del trabajador, y no deben ser utilizados con fines dis-
+criminatorios ni en perjuicio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea efi-
+caz para la prevención.
+El poder contar con criterios uniformes basados en la evidencia cien-
+tífica y la experiencia profesional de los participantes en los grupos de
+trabajo constituidos para su elaboración, permitirá alcanzar los objetivos
+de prevención de la enfermedad y promoción de la salud de las y los
+trabajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigi-
+lar la salud de los trabajadores para detectar precozmente e individuali-
+zar los factores de riesgo y deterioro que puedan afectar a la salud de
+los mismos», la recogida armonizada y periódica de datos sobre riesgos
+y enfermedades y su posterior análisis e interpretación sistemáticos con
+criterios epidemiológicos, constituye uno de los instrumentos con que
+cuenta la salud pública para poder identificar, cuantificar y priorizar, y
+por lo tanto, diseñar políticas de prevención eficaces.
+9
+
+Para la elaboración de los protocolos, se constituyeron varios grupos
+de trabajo, que, coordinados por los representantes de las Comunida-
+des Autónomas, permitiese la elaboración en paralelo de varios de ellos.
+Finalmente, una vez concluido el procedimiento interno de elaboración
+de los mismos, han sido sometidos a consulta y adecuadamente infor-
+mados por Agentes Sociales (CEOE, CEPYME, UGT, CCOO y
+AMAT) y Sociedades Científicas (SEMST, SEEMT, AEETSL, SES-
+PAS, SEE, SEMPSP y SEMPSPH), con cuyos representantes se man-
+tuvieron reuniones al efecto, en el Ministerio de Sanidad y Consumo,
+habiéndose incorporado a la redacción final los comentarios recibidos
+que se consideró mejoraban el texto presentado.
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los
+sanitarios, una guía de actuación para la vigilancia sanitaria específica
+de las y los trabajadores expuestos a riesgos derivados de la utilización
+de las pantallas de visualización de datos, que será revisado periódica-
+mente, en la medida que así lo aconseje la evolución de la evidencia
+científica disponible y su aplicación concreta en los centros de trabajo
+de nuestro país.
+                                                            Juan José Francisco Polledo
+                                                             Director General de Salud Pública
+10
+
+SUMARIO
+                                                                                                       Pág.
+0. INTRODUCCIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+15
+1. CRITERIOS DE APLICACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . 
+16
+2. DEFINICIÓN DEL PROBLEMA . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+2.1. DEFINICIONES Y CONCEPTOS . . . . . . . . . . . . . . . . . . 
+17
+     2.1.1. Trabajo en pantalla . . . . . . . . . . . . . . . . . . . . . . . 
+17
+     2.1.2. Pantalla . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+     2.1.3.  P.V.D. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+18
+     2.1.4. Teclado y soporte para las manos . . . . . . . . . . . 
+18
+     2.1.5. Dispositivos de entrada de datos distintos al teclado 
+18
+     2.1.6. Conjunto mesa y asiento . . . . . . . . . . . . . . . . . . . 
+18
+     2.1.7. Portadocumentos . . . . . . . . . . . . . . . . . . . . . . . . 
+18
+     2.1.8. Cables  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+19
+     2.1.9. Medio ambiente del puesto de trabajo . . . . . . . . 
+19
+    2.1.10. Iluminación: unidades y tipos . . . . . . . . . . . . . . . 
+19
+    2.1.11. Elementos de la percepción visual del operador 
+21
+2.2. EPIDEMIOLOGÍA: DESCRIPCIÓN EPIDEMIOLÓGICA . 
+23
+     2.2.1. Factores de riesgo . . . . . . . . . . . . . . . . . . . . . . . . 
+23
+     2.2.2. Magnitud del problema: efectos sobre la salud . . 
+23
+            2.2.2.1. Alteraciones visuales . . . . . . . . . . . . . . 
+24
+            2.2.2.2. Alteraciones físicas o musculares . . . . 
+25
+            2.2.2.3. Alteraciones cutáneas . . . . . . . . . . . . . 
+26
+            2.2.2.4. Alteraciones en el embarazo . . . . . . . . 
+26
+            2.2.2.5. Alteraciones psicosomáticas . . . . . . . . 
+27
+2.3. ETIOPATOGENIA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+27
+11
+
+                                                                                                       Pág.
+     2.3.1. Factores que intervienen en la aparición de altera-
+        ciones visuales . . . . . . . . . . . . . . . . . . . . . . . . . . 
+27
+     2.3.2. Factores que intervienen en la aparición de fatiga
+        física o muscular . . . . . . . . . . . . . . . . . . . . . . . . . 
+28
+     2.3.3. Factores que intervienen en la aparición de altera-
+        ciones cutáneas . . . . . . . . . . . . . . . . . . . . . . . . . . 
+29
+     2.3.4. Factores que intervienen en la aparición de altera-
+        ciones en el embarazo . . . . . . . . . . . . . . . . . . . . 
+30
+     2.3.5. Factores que intervienen en la aparición de altera-
+        ciones psicosomáticas . . . . . . . . . . . . . . . . . . . . . 
+30
+3. CONCEPCIÓN ERGONÓMICA DEL PUESTO DE TRABAJO
+   EN PANTALLA Y SU ENTORNO DE TRABAJO . . . . . . . . . . . . 
+30
+3.1. CONCEPCIÓN ERGONÓMICA DEL EQUIPO . . . . . . . . 
+31
+     3.1.1. Recomendaciones generales . . . . . . . . . . . . . . . 
+31
+     3.1.2. Pantalla . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+31
+     3.1.3. Teclado . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+33
+     3.1.4. Documentos . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+34
+     3.1.5. Mesa o plano de trabajo . . . . . . . . . . . . . . . . . . . 
+35
+     3.1.6. Asiento . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+35
+     3.1.7. Reposapiés . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+36
+     3.1.8. Postura de trabajo . . . . . . . . . . . . . . . . . . . . . . . . 
+36
+     3.1.9. Superficie de los equipos . . . . . . . . . . . . . . . . . . 
+38
+     3.1.10. Cables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+38
+3.2. CONCEPCIÓN ERGONÓMICA DEL MEDIO AMBIENTE
+                 FÍSICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+38
+     3.2.1. Iluminación . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+38
+     3.2.2. Ruido . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+41
+     3.2.3. Vibraciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+42
+     3.2.4. Clima . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+42
+     3.2.5. Campos electromagnéticos y electrostáticos . . . 
+42
+     3.2.6. Sala de trabajo . . . . . . . . . . . . . . . . . . . . . . . . . . 
+43
+     3.2.7. Mantenimiento . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+43
+3.3. CONCEPCIÓN ERGONÓMICA DEL SOFTWARE . . . . . 
+43
+12
+
+                                                                                                       Pág.
+     3.3.1. Diseño en los sistemas de diálogo persona-orde-
+         nador . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+43
+3.4. ORGANIZACIÓN DEL TRABAJO . . . . . . . . . . . . . . . . . . 
+ 45
+     3.4.1. Distribución de pausas . . . . . . . . . . . . . . . . . . . . 
+46
+     3.4.2. Ayudas técnicas para personas con discapacidad 
+47
+4.  PROTOCOLO SANITARIO ESPECÍFICO . . . . . . . . . . . . . . . . 
+48
+4.1. INTRODUCCIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+48
+4.2. OBJETIVOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+48
+4.3. METODOLOGÍA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+48
+     4.3.1. Fase del estudio del puesto y análisis de las condi-
+        ciones de trabajo . . . . . . . . . . . . . . . . . . . . . . . . . 
+48
+     4.3.2. Fase de vigilancia médica:
+            Examen inicial del trabajador con PVD . . . . . . . . 
+51
+            Examen específico periódico . . . . . . . . . . . . . . . 
+57
+            Exámenes a demanda del trabajador . . . . . . . . . 
+63
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+   ESPECÍFICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+67
+5.1. DOCUMENTOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+67
+6. LEGISLACIÓN APLICABLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+67
+7. BIBLIOGRAFÍA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+68
+RESUMEN DE ACTUACIONES . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+71
+ANEXOS 
+ANEXO I: ANÁLISIS DEL PUESTO DE TRABAJO Y EVALUA-
+   CIÓN DEL RIESGO EN TRABAJOS CON PVD. . . . . . . . . . . . . 
+73
+ANEXO II: CUESTIONARIO DE FUNCIÓN VISUAL EN TRA-
+   BAJOS CON PVD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+86
+ANEXO III: RECONOCIMIENTO OFTALMOLÓGICO EN TRA-
+   BAJOS CON PVD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+87
+ANEXO IV: CUESTIONARIO DE SÍNTOMAS OSTEOMUSCU-
+   LARES EN TRABAJOS CON PVD . . . . . . . . . . . . . . . . . . . . . . 
+90
+ANEXO V: EXAMEN OSTEOMUSCULAR EN TRABAJOS
+   CON PVD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+91
+13
+
+                                                                                                       Pág.
+ANEXO VI: CUESTIONARIO DE CARACTERÍSTICAS DE LA
+   TAREA EN TRABAJOS CON PVD . . . . . . . . . . . . . . . . . . . . . . 
+93
+ANEXO VII.  EJERCICIOS FÍSICOS EN TRABAJOS CON
+   PVD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+94
+ANEXO VIII: CUESTIONARIO DE VALORACIÓN DE LA CAR-
+   GA MENTAL EN TRABAJOS CON PVD . . . . . . . . . . . . . . . . . . 
+97
+14
+
+INTRODUCCIÓN
+Toda actividad laboral se presenta como la relación que se estable-
+ce entre la persona y su trabajo. La Ergonomía contempla el estudio de
+esta relación y tiene como objeto la adaptación del trabajo a la persona.
+La ERGONOMÍA es el conjunto de conocimientos científicos relati-
+vos a la persona y necesarios para concebir las herramientas, las má-
+quinas y los dispositivos para que puedan ser utilizados con el máximo
+de confort, de seguridad y de eficacia (WISNER).
+Esta definición clásica nos va a acompañar a lo largo de todo el pro-
+tocolo y nos va a permitir llegar a conocer las influencias de las nuevas
+tecnologías de la información sobre las condiciones de trabajo.
+Las aplicaciones de las nuevas tecnologías en el mundo del trabajo
+son un hecho que previsiblemente va a marcar las relaciones de trabajo
+en un futuro próximo. Pese a que su implantación esté siendo menos rá-
+pida de lo que inicialmente se esperaba, la simple observación de la si-
+tuación en los países más desarrollados nos lleva a constatar varios
+hechos: por un lado, la tendencia al alza del sector servicios en detri-
+mento de los otros dos sectores clásicos (primario y secundario). Por
+otro lado, estamos asistiendo al fenómeno de la terciarización de los
+sectores primario y secundario. La aplicación de las nuevas tecnologías
+(la informática entre ellas), es un hecho en áreas tan dispares como la
+agricultura y ganadería (gestión por ordenador) o la industria (salas de
+control, herramientas de control numérico, diseño y fabricación asistida
+por ordenador CAD-CAM, etc.).
+Obviamente es el sector terciario donde se produce el mayor núme-
+ro de aplicaciones de la informática. Así, a los habituales trabajos de ofi-
+cina (tratamiento de textos, base de datos, etc.) se añaden los usos en
+áreas tan dispares como la administración, el mundo científico, el traba-
+jo a domicilio, los bancos, bibliotecas, centros de salud, librerías, farma-
+cias y un sinfín de trabajos que requieran gestión de stocks.
+A todo esto hay que añadir el difícilmente medible tiempo de ocio
+dedicado al ordenador en el entorno del hogar.
+La problemática que se presenta viene dada por el cambio en la or-
+ganización del trabajo que ha supuesto la implementación de la informá-
+tica. Es nuestro deber el estudio y la adaptación de aquellos puestos de
+trabajo en que, tanto las limitaciones fisiológicas como psicológicas del
+trabajador, son superadas y llegan a provocar efectos nocivos para la
+salud.
+15
+
+1. CRITERIOS DE APLICACIÓN
+El ámbito de aplicación se circunscribe a todos los puestos de traba-
+jo con equipos que incluyen Pantallas de Visualización de datos (PVD a
+partir de ahora), de acuerdo con las siguientes definiciones:
+*
+(Real Decreto 488/1997, de 14 de abril, sobre disposiciones mí-
+nimas se seguridad y salud relativas al trabajo de equipos que
+incluyen PVD).
+Pantalla de visualización
+Una pantalla alfanumérica o gráfica, independiente del método de
+representación visual utilizado.
+Puesto de trabajo
+El conjunto que consta de un equipo con pantalla de visualización
+provisto, en su caso, de un teclado o de un dispositivo de adquisición de
+datos y/o de un programa que garantice la interconexión persona/má-
+quina, de accesorios opcionales, de anejos, incluida la unidad de dis-
+quettes, de un teléfono, de un módem, de una impresora, de un soporte
+de documentos, de una silla y de una mesa o superficie de trabajo, así
+como un entorno laboral inmediato.
+Trabajador-a
+Cualquier trabajador-a que habitualmente y durante una parte rele-
+vante de su trabajo normal, utilice un equipo con pantalla de visualiza-
+ción.
+De acuerdo con la Ley de Prevención de Riesgos Laborales a la que
+se remite, esta Norma se aplica a todos los sectores de actividades, pú-
+blicas o privadas, excepción hecha de algunos casos particulares de la
+función pública, referidos a las fuerzas armadas o la policía o a determi-
+nadas actividades específicas en los servicios de protección civil. 
+ Aparte de esto, el Decreto no se aplica, bien debido a su tiempo de
+utilización, bien por las propias características del equipo, por las carac-
+terísticas particulares del tipo de trabajo o por no ser un trabajo en sí, en
+las siguientes situaciones:
+•
+Puestos de conducción de vehículos o máquinas.
+•
+Sistemas informáticos embarcados en un medio de transporte.
+•
+Sistemas informáticos destinados a ser utilizados por el público.
+•
+Sistemas «portátiles» siempre y cuando no se utilicen de modo
+continuado en un puesto de trabajo.
+16
+
+•
+Calculadoras, cajas registradoras en todos aquellos equipos que
+tengan un pequeño dispositivo de visualización de datos o medi-
+das necesarias para la utilización directa de dichos equipos.
+•
+Máquinas de escribir de diseño clásico conocidas como «máqui-
+nas de ventanilla».
+2. DEFINICIÓN DEL PROBLEMA
+2.1. Definiciones y conceptos
+2.1.1. TRABAJO EN PANTALLA
+El trabajo en pantalla de visualización de datos se define como «el
+que ejerce todo trabajador-a que habitualmente y durante una parte re-
+levante de su trabajo normal, utiliza un equipo con pantalla de visualiza-
+ción de datos». Dentro de este trabajo se diferencian varios tipos de
+tareas:
+• Tareas de diálogo
+• Tareas de introducción de datos
+• Tareas de programación
+• Tareas de tipo mixto
+ 2.1.2. PANTALLA
+La pantalla es el elemento clave del equipo. Existen diferentes tipos
+de pantallas de visualización de datos:
+•
+Visualización por tubo de rayos catódicos: Las más utilizadas.
+•
+Visualización por plasma de gas.
+•
+Visualización por cristal líquido. Utilizadas en ambientes de poca
+luminosidad.
+•
+Visualización multicromática. Técnica análoga a un televisor en
+color. Se emplean mezclas de tres colores fundamentales y un
+sistema de barrido por rastreo.
+En función del color:
+•
+Monocromas: Son aquellas cuyos caracteres se emiten en un
+solo color. La representación puede ser de tipo negativo (fondo
+oscuro y letras en verde, amarillo o blanco) o de tipo positivo (si-
+milar a una hoja impresa), de mejores resultados.
+•
+Policromas: Son aquellas cuyos caracteres pueden ser emitidos
+de varios colores.
+El elemento crítico de la pantalla es la calidad de la imagen, la cual
+va a depender de factores intrínsecos a ella (dimensiones, estabilidad y
+luminosidad de los caracteres, contraste entre éstos y el fondo) y de fac-
+17
+
+tores externos, como el ambiente de iluminación en el que se encuen-
+tran.
+2.1.3. PANTALLA DE VISUALIZACIÓN DE DATOS (PVD)
+Definimos este tipo de pantallas, por ser las más utilizadas en la ac-
+tualidad.
+Está diseñada basándose en los mismos principios de aplicación
+que un aparato de televisión. Básicamente consta de un tubo de vidrio
+en el que se ha hecho el vacío, y en el que, mediante la colocación de
+una serie de componentes electrónicos que se sitúan en su interior, una
+corriente electrónica es acelerada y proyectada hacia una superficie
+sensible como es una pantalla fluorescente. La corriente se convierte en
+energía luminosa que produce imágenes o caracteres en la pantalla.
+2.1.4. TECLADO Y SOPORTE PARA LAS MANOS
+Es el medio que permite al personal trabajador comunicarse con el
+sistema, que puede ir acompañado o no de un soporte para las manos.
+2.1.5. DISPOSITIVOS DE ENTRADA DE DATOS DISTINTOS AL
+       TECLADO
+Los más comúnmente usados son:
+• Ratón
+• Palanca de control («JOYSTICK«)
+• Bola rastreadora
+• Lápiz óptico
+• Pantalla táctil
+Otros dispositivos:
+• Botonera de pie
+• Botón giratorio
+• Lector de código de barras
+• Tablas digitalizadoras, etc.
+2.1.6. CONJUNTO MESA Y ASIENTO
+El conjunto mesa y asiento es de relevante importancia para la co-
+modidad del operador-a, principalmente en cuanto a la postura se refie-
+re. Pudiendo disponer de reposapies.
+2.1.7. PORTADOCUMENTOS
+Cuando el personal trabajador de la PVD trabaja con documentos
+impresos.
+18
+
+2.1.8. CABLES
+De distribución de la energía eléctrica, líneas telefónicas y de trans-
+misión de datos.
+2.1.9. MEDIO AMBIENTE DEL PUESTO DE TRABAJO
+• Iluminación
+• Condiciones acústicas
+• Vibraciones
+• Condiciones termohigrométricas
+• Campos eléctricos y magnéticos.
+• Sala de trabajo: Suelos, paredes, techos, ventanas, etc.
+2.1.10. ILUMINACIÓN: UNIDADES Y TIPOS
+La luz es una radiación electromagnética de la cual el ojo humano
+es capaz de captar una reducida banda comprendida entre las longitu-
+des de onda de 40 nm a 70 nm.
+Unidades
+•
+Flujo luminoso: Es la energía electromagnética total emitida por
+una fuente luminosa o recibida por una superficie en la unidad
+de tiempo, evaluada dentro del espectro visible (40 a 70 nm.). La
+unidad de medida es el Lumen (Lm). 
+•
+Intensidad luminosa: Es el flujo luminoso (Lm) emitido por una
+fuente en una determinada dirección y por ángulo sólido. La uni-
+dad de medida es la Candela (Cd).
+•
+Iluminancia: Es la cantidad de flujo luminoso (Lm) incidente so-
+bre una superficie por unidad de área de dicha superficie. La uni-
+dad de medida es el Lux (Lm/m2).
+•
+Factor de reflexión: Es el cociente entre la porción de luz inciden-
+te sobre una superficie dada y la luz reflejada por dicha superfi-
+cie. Se expresa en porcentaje. Es propio de cada material.
+•
+Luminancia-brillo fotométrico: Es la intensidad luminosa por
+unidad de área que transmite o refleja un objeto o superficie
+iluminada. La luminancia de una determinada superficie viene
+condicionada por la relación entre el flujo luminoso incidente y el
+flujo luminoso reflejado, ligados ambos por el factor de reflexión
+característico de cada material. La unidad de medida es el Nit
+(Cd/m2)
+•
+Contraste: Es la evaluación subjetiva de la diferencia de aparien-
+cia de dos partes del campo visual, vistas simultáneamente o su-
+cesivamente.
+19
+
+— Contraste en pantallas: Relación entre la luminancia de los ca-
+racteres (Lc) y la luminancia del fondo de la pantalla (Lf).
+         C = Lc/Lf
+— Contraste en el documento: Se define como:
+         C = (Ld - Lp) / Ld
+Ld = Luminancia del detalle; Lp = Luminancia del papel.
+•
+Temperatura de color: Es la temperatura a la cual un objeto ne-
+gro emite una radiación, teniendo el mismo aspecto cromático
+que el de la luz considerada.
+•
+Índice de rendimiento de color de una fuente de luz: Es el co-
+ciente entre el color proporcionado al iluminar un objeto con una
+fuente dada, respecto al color de una iluminación patrón. Se ex-
+presa en porcentaje.
+Tipos de iluminación
+•
+Iluminación natural: La iluminación natural se corresponde con el
+espectro para el cual el ojo está adaptado, permitiendo una re-
+producción exacta de los colores. Posee efectos fisiológicos y
+psicológicos beneficiosos, así como efectos bactericidas.
+La cantidad de luz natural puede ser especificada a partir del
+factor de luz de día (Dq), que es el cociente entre la iluminancia
+en un punto y la iluminancia en el exterior, excluyendo en ambas
+medidas la luz solar directa. Este factor debe ser lo más unifor-
+me y elevado en los locales de trabajo.
+•
+Iluminación artificial: Existen tres tipos de lámparas:
+— Incandescentes: Su eficacia luminosa es del orden de 10 Lu-
+men/Watio. La temperatura de color a la que se emite es del or-
+den de 2.600 K, lo que le da unos tonos ligeramente rojizos. Su
+vida media es de 1.000 horas aproximadamente.
+— Fluorescentes: El color de la luz está determinado por la natura-
+leza de la sal que recubre su interior. Su eficacia luminosa es del
+orden de 40 a 80 Lumen/Watio. Su vida media es de 10.000 ho-
+ras, aproximadamente.
+— Lámparas de descarga: Son lámparas de mercurio o sodio que
+pese a ser utilizadas en naves no son adecuadas en espacios de
+trabajo. Las lámparas de mercurio son blanco-azuladas y las de
+sodio amarillas. Sus características principales son: una vida me-
+dia muy larga de 15-24.000 horas y su alta frecuencia luminosa:
+60-180 Lm/Watio. 
+20
+
+2.1.11. ELEMENTOS DE LA PERCEPCIÓN VISUAL DEL
+        OPERADOR-A
+Agudeza visual
+Es la facultad que tiene el ojo para distinguir pequeños objetos muy
+próximos entre sí.
+Se define como el «mínimo ángulo bajo el cual se pueden distinguir
+dos puntos distintos al quedar separadas sus imágenes en la retina».
+Para el ojo normal se sitúa en un minuto la abertura de este ángulo.
+La agudeza visual se ve influenciada por diversos factores:
+•
+La calidad del sistema óptico. Para distinguir dos puntos hace
+falta que la imagen sea nítida en la retina.
+•
+La edad. La pérdida de la capacidad visual se acrecienta con la
+edad, debido a la disminución de la capacidad de acomodación
+del ojo.
+•
+El nivel de luminancia y la calidad del contraste. Ambas favore-
+cen la agudeza visual. Se obtienen resultados óptimos con todos
+los contrastes superiores al 80% y un nivel uniforme de ilumina-
+ción entre 150 y 670 Cd/m2.
+•
+La región de la retina. En visión diurna, la agudeza visual es muy
+elevada a nivel de la fóvea y decrece rápidamente a partir de
+ella. En visión nocturna, la agudeza visual a nivel de la fóvea de-
+crece hasta 1/10.
+•
+El color de la luz. La agudeza visual va en función de la composi-
+ción espectral de la luz (es mayor cuando predomina el color ver-
+de amarillo del espectro y disminuye con la dominante azulada).
+•
+El deslumbramiento, la borrosidad de la imagen retinal por difu-
+sión de la luz óptica u otros estímulos que reducen la vigilancia
+(lentes arañadas o sucias, un parabrisas sucio, etc.), diminuyen
+la agudeza visual.
+Campo visual
+Es la parte del entorno que se percibe con los ojos, cuando éstos y
+la cabeza permanecen fijos.
+El campo visual lo podemos dividir en tres partes:
+• Campo de visión neta: Visión precisa
+• Campo medio: Se aprecian fuertes contrastes y movimientos
+• Campo periférico: Se distinguen los objetos si se mueven.
+Sensibilidad del ojo
+Es quizás el aspecto más importante relativo a la visión y varía de
+un individuo a otro. 
+21
+
+Si el ojo humano percibe una serie de radiaciones comprendidas en-
+tre los 380 y los 780 nm., la sensibilidad será baja en los extremos y el
+máximo se encontrará en los 550 nm.
+•
+La visión diurna con iluminación alta se denomina Fotópica. Las
+células de la retina encargadas de ésta función se denominan
+conos.
+•
+La visión nocturna con iluminación baja se denomina Escotópica.
+Las células de la retina encargadas de ésta función se denomi-
+nan bastones.
+•
+Visión crepuscular o Mesotópica.
+Acomodación
+La acomodación es la facultad del ojo humano que le permite formar
+imágenes nítidas de objetos visuales situados a distancias distintas. El
+enfoque de un objeto se realiza aumentando o disminuyendo el radio de
+curvatura del cristalino. El cristalino pende del cuerpo ciliar que tiene un
+músculo ciliar que tira de la unión esclero-corneal. Este músculo, al con-
+traerse, permite que la lente tome una forma más convexa para mante-
+ner el ojo enfocado en los objetos cercanos. La elasticidad del cristalino
+disminuye con la edad, lo que conlleva una pérdida de la capacidad y
+velocidad de acomodación. En condiciones de iluminación escasa e ina-
+decuada también se produce una pérdida de precisión, velocidad y am-
+plitud de la acomodación.
+Adaptación
+Capacidad que tiene el ojo para ajustarse automáticamente a las di-
+ferentes iluminaciones de los objetos. Este ajuste lo realiza la pupila en
+su movimiento de cierre y apertura.
+Cuando se realiza el paso de claro a oscuro, se habla de adaptación
+a la oscuridad (ajuste de adaptación de 30 minutos). Cuando se realiza
+el paso de oscuro a claro, se habla de adaptación a la luz (ajuste de
+adaptación de sólo unos segundos).
+Centelleo
+Las variaciones periódicas de luminancia de las fuentes luminosas,
+son percibidas por el ojo humano en forma de centelleo o deslumbra-
+miento.
+Una frecuencia de centelleo de 2 a 3 Hz es óptima para atraer la
+atención.
+22
+
+2.2. Epidemiología: descripción epidemiológica
+2.2.1. FACTORES DE RIESGO
+Son aquellos que pueden favorecer la aparición de alteraciones en
+la salud de los-as trabajadores-as que manejan PVD, si no reúnen las
+condiciones ergonómicas adecuadas. 
+Relacionados con el equipo
+• Pantalla
+• Teclado y otros dispositivos de entrada de datos
+• Documentos y portadocumentos
+• Mesa o superficie de trabajo
+• Asiento de trabajo
+• Cables
+• Programas informáticos.
+Relacionados con el entorno
+• Espacio
+• Iluminación
+• Reflejos y deslumbramientos
+• Ruido
+• Calor
+• Emisiones
+• Humedad
+Relacionados con la organización del trabajo
+• Formación de los-as trabajadores-as
+• Desarrollo del trabajo diario
+• Consulta y participación de los-as trabajadores-as
+• Protección de los ojos y de la vista de los-as trabajadores-as
+• Postura en el puesto de trabajo
+2.2.2. MAGNITUD DEL PROBLEMA: EFECTOS SOBRE LA SALUD
+En estos años se han multiplicado los trabajos sobre alteraciones de
+la salud en los-as trabajadores-as que utilizan pantallas de visualización
+de datos. Bien es cierto que la utilización corta en el tiempo de estos
+equipos informáticos, unida a la falta relativa de resultados de los estu-
+dios epidemiológicos prospectivos en marcha, han permitido la prolifera-
+ción de trabajos de dudoso rigor científico.
+23
+
+2.2.2.1. Alteraciones visuales
+FATIGA VISUAL 
+Modificación funcional, de carácter reversible, debido a un exceso en
+los requerimientos de los reflejos pupilares y de acomodación-convergen-
+cia, a fin de obtener una localización fina de la imagen sobre la retina.
+La resultante del funcionamiento excesivo del órgano, será la lógica
+disminución del poder funcional junto a la aparición de sensaciones va-
+rias, que dicha disminución comporta.
+Por lo tanto, la prevalencia de la fatiga visual entre los-as operado-
+res-as de pantallas es mayor que la de aquellos-as trabajadores-as en
+puestos no informatizados.
+Diferentes encuestas estiman que entre un 10 y un 40% del perso-
+nal que trabaja con PVD, sufre alteraciones de manera cotidiana.
+Los síntomas de la fatiga visual se dan a tres niveles:
+• Molestias oculares:
+— Sensación de «sentir los ojos«
+— Tensión ocular
+— Pesadez palpebral
+— Pesadez de ojos
+— Picores
+— Quemazón
+— Necesidad de frotarse los ojos
+— Somnolencia
+— Lagrimeo, ojos llorosos
+— Escozor ocular
+— Aumento del parpadeo
+— Ojos secos, pudiendo producirse blefaritis
+— Enrojecimiento de la conjuntiva, primero tarsal y después bul-
+bar
+• Trastornos visuales:
+— Borrosidad de los caracteres que se tienen que percibir en la
+pantalla
+— Dificultad para enfocar los objetos
+— Imágenes desenfocadas o dobles. Crisis de diplopia transitoria
+— Se han llegado a describir algunos casos de cataratas, no se
+ha podido demostrar que hayan sido a causa del trabajo con
+PVD
+— Fotofobia
+— Astenopia acomodativa y Astenopia de convergencia. Ocurre
+cuando los ojos tienen que adaptar continuamente su enfo-
+que
+• Trastornos extraoculares:
+— Cefaleas frontales, occipitales, temporales y oculares que no
+son intensas
+24
+
+— Vértigos o mareos por trastornos de la visión binocular y en
+ametropías mal corregidas, astigmatismos o por acción de la
+musculatura extrínseca ocular
+— Sensación de desasosiego y ansiedad
+— Molestias en la nuca y en la columna vertebral, por distancia
+excesiva del ojo al texto que se debe leer
+— Epilepsia fotosensitiva
+— Adopción inconsciente de una postura determinada para evi-
+tar los reflejos
+2.2.2.2. Alteraciones físicas o musculares
+FATIGA FÍSICA O MUSCULAR
+Disminución de la capacidad física del individuo debida, bien a una
+tensión muscular estática, dinámica o repetitiva, bien a una tensión ex-
+cesiva del conjunto del organismo o bien a un esfuerzo excesivo del sis-
+tema psicomotor.
+Los síntomas de la fatiga física o muscular son fundamentalmente a
+nivel de la columna vertebral 
+• Algias de cuello y nuca. Cervicalgias
+• Dorsalgias
+• Lumbalgias
+Estos síntomas se manifiestan frecuentemente al finalizar la jornada
+laboral, sobre todo en mujeres. La reversibilidad hacia la normalidad tras
+un período de reposo es el argumento más fiel en cuanto al carácter
+funcional del síndrome.
+El disco intervertebral es avascular a partir del tercer decenio de la
+vida, se nutre por imbibición a partir de los músculos y tejidos periarticu-
+lares. Los estados de contracción isométrica sostenida son causa de
+una alteración circulatoria que es deficitaria en cuanto al aporte nutritivo
+del disco. El efecto, a la larga, es el envejecimiento y la atrofia del disco,
+con su efecto indirecto de tipo degenerativo sobre estructuras óseas ve-
+cinas.
+Se pueden observar también otros síntomas:
+•
+Contracturas
+•
+Hormigueos
+•
+Astenia
+•
+Síndrome del codo de tenis, que afecta a los músculos del ante-
+brazo.
+•
+Síndrome del túnel carpiano, debido a una inflamación del nervio
+mediano de este túnel, comúnmente conocido como hueco de la
+mano, que da lugar a una pérdida de sensibilidad en los dedos,
+hormigueo y pérdida de precisión y habilidad en el trabajo.
+•
+Tendinitis de D‘Quervaine, irritación de los tendones de la muñe-
+ca que dan movilidad al dedo pulgar.
+25
+
+ Todos estos síntomas se producen en columna vertebral, hombros,
+brazos y manos. Las contracturas prolongadas de la musculatura para-
+vertebral, originan molestias a nivel de la columna en forma de dorsalgia
+o lumbalgia inespecífica.
+No se ha demostrado que la frecuencia de este tipo de dolores sea
+más elevada en este grupo de trabajadores-as que en los oficinistas clá-
+sicos. 
+Se ha incriminado al mantenimiento de la postura estática delante
+de la pantalla, como origen de estas afecciones. Por otro lado, no hay
+que olvidar que ciertos malos hábitos posturales pueden provenir de
+anomalías visuales no corregidas.
+2.2.2.3. Alteraciones cutáneas
+Se han descrito algunos casos de irritación de la piel o incluso reac-
+ciones alérgicas (sarpullidos faciales) en trabajadores-as de PVD. Estas
+lesiones afectarían a la cara y el cuello y a veces a las manos.
+Este fenómeno se debería a la predisposición personal, al ambiente
+extremadamente seco o a la electricidad estática producida a nivel de la
+pantalla. El polvo en suspensión del aire, se cargaría eléctricamente y al
+posarse en la piel, causaría una dermatitis de contacto. Hay que diferen-
+ciar este fenómeno de las dermatosis debidas a la sequedad del am-
+biente producida por los diferentes aparatos ofimáticos y por el sistema
+de climatización. Otros autores implican a las situaciones de estrés que
+se producen en este tipo de trabajo (OMS, 1989).
+Los posibles efectos de los campos electrostáticos y magnéticos de
+baja frecuencia de la pantalla, han sido totalmente rechazados.
+2.2.2.4. Alteraciones en el embarazo
+En los años 80, se describía la detección de una incidencia más ele-
+vada de abortos espontáneos entre las trabajadoras embarazadas. La
+emisión de rayos X por la pantalla fue considerada factor causal (el tubo
+catódico y los circuitos reguladores pueden, efectivamente, emitir radia-
+ciones de débil energía).
+Sin embargo, posteriormente se confirma que la presencia de abor-
+tos espontáneos en las mujeres que trabajan en pantallas, no puede ser
+atribuida a las radiaciones emitidas.
+Últimamente, está en cuestión el posible papel etiológico de los
+campos magnéticos generados por el terminal. Esta teoría sin embargo
+no puede pasar de lo puramente especulativo.
+En conclusión, se puede afirmar que las numerosas investigaciones
+realizadas sobre esta cuestión no han aportado evidencia alguna de la
+existencia de vínculos entre efectos adversos en el embarazo y el uso
+de pantallas. Quizás el dato más importante a estudio son las caracte-
+rísticas propias del trabajo como el tipo de tarea, el estrés, etc.
+26
+
+2.2.2.5. Alteraciones psicosomáticas
+FATIGA MENTAL O PSICOLÓGICA
+Se debe a un esfuerzo intelectual o mental excesivo.
+Los síntomas de la fatiga mental o psicológica son:
+•
+Trastornos neurovegetativos y alteraciones psicosomáticas:
+— Cafaleas
+— Palpitaciones
+— Astenia
+— Mareos
+— Temblores
+— Hipersudoración
+— Trastornos digestivos (diarreas, estreñimiento, ...)
+— Nerviosismo
+• Perturbaciones psíquicas:
+— Ansiedad
+— Irritabilidad
+— Estados depresivos, etc.
+— Dificultad de concentración
+• Trastornos del sueño:
+— Pesadillas
+— Insomnio
+— Sueño agitado
+Si el organismo es incapaz de recuperar por sí mismo el estado de
+normalidad o persisten las condiciones desfavorables de equipo, am-
+biente e incorrecta racionalidad del trabajo, el estado de estrés es inevi-
+table.
+En ocasiones se denuncian trastornos en la memoria y dificultad de
+concentración mental que pueden deberse a la monotonía y simplicidad
+del trabajo.
+Contribuye a la fatiga mental el hecho de que, después de trabajar
+varias horas diarias con pantalla, existe el fenómeno de persistencia de
+imágenes, que hace que el personal trabajador siga percibiendo efectos
+visuales después de salir del trabajo.
+2.3. Etiopatogenia
+2.3.1. FACTORES QUE INTERVIENEN EN LA APARICIÓN DE
+       ALTERACIONES VISUALES
+— La disposición del puesto de trabajo y la necesidad de tres dis-
+tancias no exactamente iguales: 
+27
+
+— Ojo - pantalla
+— Ojo - teclado
+— Ojo - texto
+Además de tres distancias hay tres superficies diferentes, sobre
+las cuales el ojo debe percibir con claridad lo que hay en ellas,
+que están iluminadas por diferentes cantidades de luz.
+— La luminancia de las pantallas.
+— La acomodación sostenida en visión cercana.
+— El centelleo persistente.
+— Los contrastes invertidos que aparecen en la pantalla.
+— La borrosidad discreta del contorno de los caracteres que apare-
+cen en la pantalla.
+— La posición demasiado vertical de la pantalla, que además está
+algo abombada.
+— Los deslumbramientos.
+— Las condiciones de trabajo desfavorables: ruido, lugar de recep-
+ción de clientes, variaciones de temperatura, corriente de aire,
+etc.
+— Personas ansiosas, preocupadas o con depresiones. Son predis-
+posiciones neuróticas a la fatiga.
+— Un mal estado general, existencia previa de defectos visuales.
+— La poca cualificación del personal trabajador frente a la pantalla.
+— La sensación de «insuficiencia ante el ordenador» coadyuva a la
+aparición más precoz de fatiga.
+— El tipo de trabajo frente a la pantalla (exceso de trabajo, trabajo
+complicado, ausencia de pausas, etc.).
+— La edad.
+— El pluriempleo.
+— Los trastornos del sueño.
+— Los hábitos tóxicos (alcohol, tabaco, etc.)
+— La automedicación.
+2.3.2. FACTORES QUE INTERVIENEN EN LA APARICIÓN DE
+       FATIGA FÍSICA O MUSCULAR
+• Posturas incorrectas ante la pantalla
+— La inclinación excesiva de la cabeza. La fatiga muscular en la
+nuca se incrementa considerablemente a partir de una inclina-
+ción de la cabeza de más de 30º. Es bastante frecuente que los-
+as operadores-as adopten ángulos entre los 50 y 60º.
+— La inclinación del tronco hacia delante. Un busto inclinado hacia
+delante, sin que exista apoyo en el respaldo ni en los antebrazos
+en la mesa, origina una importante presión intervertebral en la
+zona lumbar, que podría ser causa de un proceso degenerativo
+de la columna en esa zona.
+28
+
+— La rotación lateral de la cabeza. El giro de más de 20º, se rela-
+ciona con una mayor limitación de la movilidad de la cabeza y
+con la aparición de dolores de nuca y hombros.
+— La flexión de la mano. La flexión dorsal excesiva de la mano res-
+pecto al eje del antebrazo, tanto en el plano vertical como horizon-
+tal, puede originar trastornos en los antebrazos. Se ha hallado
+una mayor incidencia de éstos con valores superiores a los 20º,
+para la flexión dorsal o la desviación lateral (abducción cubital).
+— La desviación cubital de la mano.
+— La inclinación de fémures hacia abajo. Puede causar mayor pre-
+sión de la silla sobre la cara posterior del muslo, originando una
+peor circulación sanguínea en las piernas.
+— El estatismo postural. El estatismo es mayor cuanto más forzada
+es la postura y cuanto menor es el número de apoyos existentes
+que alivien la tensión de los músculos.
+•
+Los factores dependientes de una incorrecta organización del
+trabajo son
+— El exceso de tarea, que obliga a permanecer mucho tiempo en la
+misma postura. La ausencia de pausas.
+— El tipo de tarea. Las alteraciones osteomusculares se dan con
+más frecuencia entre los-as operadores-as que se dedican a la
+introducción de datos.
+— La insatisfacción laboral.
+•
+Los factores dependientes de las condiciones ergonómicas del
+puesto de trabajo son:
+— Las características y situación de los elementos del puesto (in-
+cluido el mobiliario) van a condicionar las posturas de trabajo
+adoptadas.
+— La calidad de la iluminación (reflejos, contrastes, deslumbra-
+mientos, etc.), la nitidez de los caracteres de la pantalla, la cali-
+dad de la presentación de la información en el documento o en
+las pantallas, guardan también una estrecha relación con las
+posturas de trabajo adoptadas y, por lo tanto, con las posibles le-
+siones que puedan aparecer.
+• Los factores dependientes del propio individuo: 
+— Los defectos visuales.
+— Las lesiones osteomusculares preexistentes.
+— El estrés.
+2.3.3. FACTORES QUE INTERVIENEN EN LA APARICIÓN DE
+       ALTERACIONES CUTÁNEAS
+— La predisposición personal.
+29
+
+— El ambiente extremadamente seco.
+— La electricidad estática de la pantalla.
+— Las situaciones de estrés.
+2.3.4. FACTORES QUE INTERVIENEN EN LA APARICIÓN DE
+       ALTERACIONES EN EL EMBARAZO
+— La carga física postural.
+— La carga mental excesiva (estrés).
+2.3.5. FACTORES QUE INTERVIENEN EN LA APARICIÓN DE
+       ALTERACIONES PSICOSOMÁTICAS
+— La rutina en el trabajo. La repetición y la monotonía.
+— La modificación de las tareas y la ansiedad hacia lo desconoci-
+do se pueden unir, sobre todo en personas mayores, al miedo
+a perder experiencia, conocimiento o capacidad de adapta-
+ción.
+— La postura estática.
+— Los defectos de la comunicación persona-programa.
+— La carga mental excesiva.
+— La predisposición personal. Alteraciones psicosomáticas preexis-
+tentes.
+— Los trastornos del sueño.
+— El pluriempleo.
+— Los hábitos tóxicos (alcohol, tabaco, etc.).
+— La automedicación.
+— El estrés.
+3. CONCEPCIÓN ERGONÓMICA DEL PUESTO DE TRABAJO EN
+   PANTALLA Y SU ENTORNO DE TRABAJO
+Dado que este documento está dirigido a los Servicios de Pre-
+vención implicados en la vigilancia de la salud del personal traba-
+jador que opera en pantallas, se obviarán aquellos criterios de
+concepción de los sistemas y programas que sobrepasan nuestro ámbi-
+to de actuación.
+Únicamente se hará referencia a aquellos factores y elementos del
+equipo y entorno que el prevencionista pueda evaluar y modificar de
+cara a una mejora de las condiciones de trabajo. 
+El seguimiento de estas recomendaciones ayudará a evitar el dis-
+confort humano y a mejorar las condiciones de trabajo con pantalla de
+visualización de datos.
+30
+
+3.1. Concepción ergonómica del equipo
+3.1.1. RECOMENDACIONES GENERALES
+— El equipo con el que mantendremos el máximo contacto visual
+(tanto en frecuencia como en duración), deberá situarse en el
+centro de la zona de confort del campo visual. Este emplaza-
+miento no deberá inhibir el contacto visual con los clientes u
+otras personas con las que se tiene que mantener relación en el
+trabajo.
+— El equipo que sea más frecuentemente utilizado se deberá situar
+en la zona de confort de alcance. Por zona de confort de alcance
+se entiende aquella área barrida por ambas manos sin necesi-
+dad de cambiar de postura. Esta área se calculará manteniendo
+los brazos extendidos hacia adelante. Aproximadamente, se pue-
+de estimar como las dos terceras partes del alcance máximo de
+la mano. Se deberá, así mismo, tomar en consideración el hecho
+de que el-la operador-a sea zurdo-a.
+— Aquellos equipos que sean manejados o consultados simultá-
+neamente, deberán emplazarse a la misma distancia ( ej. panta-
+lla y portadocumentos).
+— En general, la utilización de los diferentes equipos de trabajo,
+deberá ser compatible con una postura correcta.
+— Las malas condiciones de visión y los colores disarmónicos de-
+berán evitarse.
+— No deberán encontrarse grandes diferencias de luminancia entre
+los equipos más importantes de trabajo.
+— Se deberá instruir a los-as usuarios-as sobre las recomendacio-
+nes ergonómicas para el uso adecuado de los aparatos.
+3.1.2. PANTALLA
+• COLOCACIÓN DE LA PANTALLA
+— Distancia de visión: Es la distancia entre el ojo y la pantalla. Para
+las tareas habituales la distancia de visión no debe ser menor de
+450 mm. En ciertas aplicaciones especiales (pantallas táctiles),
+esa distancia de visión no debe ser inferior a 300 mm. En aque-
+llos casos particulares en que se precise un campo de visión
+más ancho (caso de varias pantallas), esta distancia se podrá in-
+crementar siempre que los caracteres puedan ser percibidos con
+un ángulo visual menor de 18º.
+Las gafas de lectura están normalmente diseñadas para distancias
+menores de 50 cm. Las gafas de sol, las bifocales y las multifocales
+son desaconsejables, debido a que reducen la legibilidad. Solo se
+recomiendan los cristales con recubrimiento.
+31
+
+— Ángulo de la línea de visión: Debe ser factible orientar la pantalla
+de manera que las áreas vistas habitualmente, puedan serlo
+bajo ángulos comprendidos entre la línea de visión horizontal y la
+trazada a 60º bajo la horizontal.
+— Ángulo de visión: La pantalla debe ser legible con ángulos de vi-
+sión de hasta 40º trazados desde la línea de visión y la perpendi-
+cular a la superficie de la pantalla en cualquier punto de la
+misma. El ángulo de visión óptimo es el de 0º y en ningún caso
+debe exceder de 40º para cualquier área útil de la pantalla.
+ 
+• CARACTERÍSTICAS TÉCNICAS DE LA PANTALLA
+ 
+— La imagen de la pantalla: Deberá ser estable, sin fenómenos de
+destellos u otras formas de inestabilidad.
+— Los caracteres de la pantalla: Deberán estar bien definidos y
+configurados de forma clara y tener una dimensión suficiente,
+disponiendo de un espacio adecuado entre los caracteres y los
+renglones.
+— La luminancia de la pantalla: Capaz de proporcionar al menos 35
+Cd/m2 para los caracteres. El nivel preferido de luminancia se si-
+túa en torno a 100 Cd/m2, sobre todo en entornos de alta lumi-
+nancia.
+— El contraste de luminancia: Entre los caracteres y el fondo de la
+pantalla. El-la usuario-a los ha de poder ajustar con arreglo a sus
+necesidades. 
+— La modulación de contraste: Será, al menos, de 0,5 (Cm). 
+— La relación de contraste: Debe ser, al menos, de 3:1 (Cr).
+— La luminosidad y el contraste entre los caracteres y el fondo de
+la pantalla deben de poder ser regulables por el propio personal
+trabajador.
+— La polaridad de la imagen: En positivo, caracteres oscuros sobre
+fondo claro y en negativo, caracteres claros sobre fondo oscuro.
+— El equilibrio de luminancias: La relación de luminancias entre
+partes de la tarea observadas frecuentemente, debe ser inferior
+a 10:1
+— En pantallas monocromas de polaridad negativa, se recomienda
+el color amarillo o verde. En las pantallas policromas no se em-
+plearán más de seis colores, además del blanco y del negro.
+ 
+• MOVILIDAD DE LA PANTALLA
+ 
+— Móvil en las tres direcciones:
+— Rotación horizontal libre (90º)
+— Altura libre 
+— Inclinación vertical (15º, aproximadamente), lo que permite
+orientar la pantalla con relación a las demás fuentes lumino-
+sas y evitar los reflejos parásitos.
+— Se preferirán aquellos equipos en que la pantalla y el teclado es-
+tén separados (solo se aceptarán los equipos fijos para determi-
+nados trabajos de corta duración).
+32
+
+— El zócalo o base orientable permite ajustar la altura e inclinación
+para cada usuario. Además, permite evitar los reflejos.
+— En el caso de usos especiales donde la pantalla y el teclado es-
+tén fijos, deberán respetarse las mismas reglas en cuanto a dis-
+tancias e inclinaciones.
+— Si la movilidad está reducida por un diseño especial del puesto
+de trabajo, tendremos que evitar el que se den posturas forzadas
+de carácter permanente.
+ 
+• FILTROS DE LA PANTALLA
+ 
+— La mayoría de las pantallas de visualización de datos disponibles
+actualmente utilizan vidrio en la superficie visible; debido a ello
+están sujetas a los reflejos que pueden originar las fuentes lumi-
+nosas del entorno. Estos reflejos pueden interferir la legibilidad
+de la pantalla por reducción del contraste entre los caracteres y
+el fondo
+— Las reflexiones parásitas de las luminarias, ventanas y superfi-
+cies brillantes sobre la pantalla, deben evitarse mediante una co-
+rrecta disposición de los elementos y de las fuentes de
+iluminación.
+— Se pueden reducir las reflexiones utilizando pantallas que lleven
+incorporado un tratamiento antirreflejos (depósito por pulveriza-
+ción o evaporación, decapado) o mediante la utilización de filtros
+(tipo micromalla, ultravioletas, polarizantes). A fin de eliminar la
+acumulación de polvo, alguno de estos filtros disponen de una
+toma de tierra que elimina las cargas electrostáticas.
+— Los inconvenientes de todos estos métodos están en que dismi-
+nuyen la luminancia y el contraste, requieren un mantenimiento
+de desempolvado y limpieza frecuentes y son más sensibles a
+las impresiones digitales, por lo que la utilización de filtros sólo
+es aconsejable como última medida.
+ 3.1.3. TECLADO
+Debe permitir al personal trabajador localizar y accionar las teclas
+con rapidez y precisión, sin que ello le ocasione molestias o discon-
+fort.
+• ALTURA DEL TECLADO
+ 
+ La altura de la tercera fila de teclas no excederá de 30 mm. sobre la
+superficie soporte de trabajo.
+• INCLINACIÓN DEL TECLADO
+ 
+Estará comprendida entre 0 y 25º respecto al plano horizontal. Su in-
+clinación no debe exceder de los 15º respecto al plano horizontal cuan-
+do la altura de la fila central de teclas sea de 30 mm.
+33
+
+• MOVILIDAD DEL TECLADO
+Se podrá mover con facilidad dentro del área de trabajo.
+• SUPERFICIES Y MATERIALES DEL TECLADO
+ 
+— Las superficies visibles no deben ser reflectantes. La reflectancia
+de las teclas estará comprendida entre 40 a 60% y de 20 a 70%
+para las teclas prominentes.
+— El cuerpo del teclado debe ser de tono neutro, ni muy claro ni
+muy oscuro.
+— Se recomienda la impresión de caracteres oscuros sobre fondo
+claro en las teclas.
+— El cuerpo del teclado no debe presentar esquinas ni aristas agu-
+das.
+— Las teclas deberán disponer de un sistema táctil de retroalimen-
+tación (confirmación de la pulsación por resistencia en su recorri-
+do).
+— Si se efectúa habitualmente entrada de datos, se dispondrá de
+un teclado alfanumérico separado. Si la entrada de datos es la
+tarea principal, este teclado alfanumérico debe poder emplazar-
+se en la parte derecha o izquierda, alternativamente. Para tecla-
+dos exclusivamente numéricos con una altura mayor de 3 cm, se
+recomienda el uso de un reposamanos cuya profundidad debe
+ser, al menos, de 100 mm. desde el borde hasta la primera fila
+de teclas.
+ 3.1.4. DOCUMENTOS
+— Las fuentes documentales que se utilicen en los trabajos con
+pantallas deben de poder leerse sin dificultad.
+— La legibilidad del documento va a depender de la dimensión y
+del emplazamiento de los caracteres, del nivel de luminancia y
+contraste y del emplazamiento del documento.
+— A fin de mantener tan baja como sea posible la diferencia de lu-
+minancia entre el documento y la pantalla, se debe de usar papel
+de baja reflectancia pero con fuerte contraste. Preferentemente
+se utilizará papel mate o papel que no sea absolutamente blan-
+co, evitando aquellos materiales que produzcan reflejos.
+— Los documentos se emplazarán de tal modo, que la distancia de
+lectura del documento sea similar a la distancia ojo-pantalla.
+— Es recomendable la utilización de un atril o portadocumentos.
+Estará diseñado de modo que permita el acomodo del documen-
+to, así como el paso de páginas y la escritura. 
+— La inclinación estará de acuerdo a las exigencias de la tarea,
+preferiblemente unos 10 mm. menor que los documentos, para
+facilitar el paso de páginas. Para adaptarse al nivel de la panta-
+lla, se estima conveniente una inclinación de 70º. De todas for-
+34
+
+mas, el ajuste deberá permitir inclinaciones entre 15 y 75º de la
+horizontal.
+— El portadocumentos debe ser opaco y tener una superficie de
+baja reflectancia. Así mismo, deberá tener la resistencia suficien-
+te para soportar el peso de los documentos sin oscilaciones.
+3.1.5. MESA O PLANO DE TRABAJO
+— La mesa o el plano de trabajo deberá permitir colocar correcta-
+mente el equipo de trabajo. La superficie mínima será de 90 cm
+por 120 cm. Si se utiliza una mesa regulable, se recomienda una
+altura entre 65 y 75 cm. Si es una mesa fija, 75 cm.
+— El tablero de trabajo debe estar diseñado para soportar, sin mo-
+verse, el peso del equipo y el de cualquier persona que se apoye
+sobre alguno de sus bordes, o bien cuando lo utilice de asidero
+para moverse con la silla rodante.
+— Para el trabajo en posición sentado, debe habilitarse el suficiente
+espacio para los miembros inferiores (muslos, rodillas y pies).
+Este espacio será de 60 cm de ancho por 65/70 cm de profundi-
+dad. 
+— Si el mobiliario dispone de tableros ajustables en altura, el rango
+de regulación estará comprendido entre el percentil femenino 5 y
+el percentil masculino 95 de la población de posibles usuarios-
+as. Si los tableros no son ajustables, el espacio previsto para los
+miembros inferiores debe alcanzar al percentil masculino 95.
+Para aquellas personas cuyas dimensiones estén fuera de dicho
+límite, se recurrirá a una adaptación individualizada.
+— La distancia visual óptima (del ojo a la pantalla) será de 600 ±
+150 mm., para conseguir el máximo confort visual.
+— Entre el teclado y el borde libre de la mesa debe quedar una dis-
+tancia de 5 a 10 cm., que actúe a modo de reposamanos.
+3.1.6. ASIENTO
+ Deberá permitir al operador-a una postura estable y confortable du-
+rante el período de tiempo necesario para la realización de su actividad
+laboral.
+ 
+• DISEÑO DEL ASIENTO
+ 
+— Asiento con respaldo de altura regulable; la altura relativa entre
+la silla y la mesa de trabajo debe ser tal que las manos queden a
+la altura del teclado, con un ángulo en la articulación del codo de
+90 a 100º. Este es el ángulo de reposo de la articulación y ase-
+gura una posición descansada de los brazos, sin contracción es-
+tática de ningún grupo muscular. De esta forma, se evita la fatiga
+que aparecería con un ángulo mayor o menor. 
+35
+
+— El respaldo será ligeramente convexo para un buen apoyo de la
+zona lumbar. No sólo dará soporte a la parte inferior de la espal-
+da, sino también a la parte superior. Deberá regularse hacia
+atrás para cubrir la necesidad de adoptar diferentes grados de
+inclinación. El respaldo debe medir de 20 a 30 cm.
+— El apoyabrazos es un elemento de ayuda que sirve de apoyo
+postural complementario. En todo caso, de existir, se recomien-
+da que sea de tipo escamoteable, a fin de permitir acercarse lo
+máximo posible al área de trabajo.
+— La silla debe tener cinco pies y ruedas que faciliten su desplaza-
+miento (silla giratoria). La resistencia de las ruedas debe ser sufi-
+ciente para evitar desplazamientos involuntarios en el suelo.
+Será flexible (apoyo sólo en las tuberosidades isquiáticas) y deberá
+estar situado entre 45 y 55 cm. del suelo y debe medir de 38 a 47
+cm de profundidad. El recubrimiento permitirá la transpiración. Se
+jugará con la altura de la silla para acomodarse a las diferentes
+dimensiones humanas. El borde de la silla será redondeado.
+— El pistón de gas está recomendado, ya que, permite efectuar el
+reglaje en la posición sentado.
+3.1.7. REPOSAPIÉS
+Se utiliza cuando la altura de la silla no permite al personal trabaja-
+dor descansar los pies en el suelo.
+• DISEÑO DEL REPOSAPIÉS
+ 
+— Dimensiones mínimas: 45 cm de ancho por 35 cm de profundi-
+dad
+— Inclinación: Entre 5 y 15º sobre el plano horizontal.
+— Superficie antideslizante: Tanto para los pies como para el suelo.
+3.1.8. POSTURA DE TRABAJO
+En los puestos de trabajo con PVD las causas de disconfort están li-
+gadas generalmente con la posición sedentaria mantenida y la situación
+de los diferentes elementos que determinan el puesto (pantallas, porta-
+documentos, teclado).
+A la hora de diseñar el puesto, es necesario minimizar las posturas
+estáticas prolongadas y permitir los cambios de posición de los miem-
+bros superiores e inferiores del cuerpo.
+Sentarse implica el balanceo de la pelvis hacia atrás y el endereza-
+miento del sacro, colocándose la columna vertebral en cifosis, lo que
+acrecienta la presión en el interior de los discos y relaja los músculos
+paravertebrales. Para que la lordosis fisiológica no se pierda en la posi-
+ción sentada, el-la trabajador-a debe realizar un esfuerzo muscular su-
+plementario.
+36
+
+En la postura sentado el esfuerzo estático y articular se encuentra
+disminuido y permite un mayor control de los movimientos y de la preci-
+sión. Por contra, disminuye la actividad física y se favorece el éstasis
+venoso de las extremidades inferiores.
+La postura de la cabeza viene determinada por la situación de la
+pantalla. Ésta debe colocarse a una distancia, altura y con una inclina-
+ción adecuadas. Si no se procede correctamente, los músculos del cue-
+llo se someten a una tensión suplementaria, ya que deben soportar el
+peso de la cabeza.
+El estatismo postural es un factor de gran incidencia en los dolores y
+trastornos musculares. La contracción muscular mantenida durante ho-
+ras, asociada a la inmovilización de los segmentos corporales en deter-
+minadas posiciones y a una gestualización importante de las manos en
+el teclado, favorece la aparición de fatiga muscular.
+El estatismo es mayor cuanto más forzada es la postura y cuanto
+menor es el número de apoyos existentes que alivien la tensión de los
+músculos (como el apoyo de la mano en el teclado, del antebrazo en la
+mesa, de la espalda en el respaldo de la silla, etc.).
+En toda concepción de un puesto de trabajo las recomendaciones a
+seguir son:
+— La postura se debe poder modificar a voluntad, a fin de reducir el
+estatismo postural.
+— Las uniones o ligazones con la máquina deben de ser las míni-
+mas posibles.
+— La duración del mantenimiento de la postura debe de ser lo más
+breve posible.
+— Se debe de tener en cuenta el alcance manual de los objetos.
+— Los esfuerzos estáticos deben de ser reducidos.
+— Deben evitarse los giros e inclinaciones frontales o laterales del
+tronco. Se recomienda que el tronco está hacia atrás, unos 110
+a 120º (posición en que la actividad muscular y la presión inter-
+vertebral es menor).
+ 
+• POSTURA DE REFERENCIA
+Aún teniendo en cuenta que lo más favorable es la flexibilidad y el
+cambio postural, en general se tenderá a que la postura principal respe-
+te los siguientes términos:
+ 
+— Los muslos aproximadamente horizontales y piernas verticales.
+— Los brazos verticales y antebrazos horizontales, formando ángu-
+lo recto desde el  codo.
+— Las manos relajadas, sin extensión ni desviación lateral.
+— La columna vertebral recta.
+— La planta del pie en ángulo recto respecto a la pierna.
+— La línea de visión paralela al plano horizontal.
+— La línea de los hombros paralela al plano frontal, sin torsión del
+tronco.
+— El ángulo de la línea de visión menor de 60º bajo la horizontal
+37
+
+3.1.9. SUPERFICIES DE LOS EQUIPOS
+— Las superficies de trabajo y el mobiliario deben carecer de esqui-
+nas y aristas agudas. El radio de curvatura será:
+— Para las aristas: ≥ 2 mm.
+— Para las esquinas: ≥ 3 mm.
+— A fin de evitar las refracciones y el reflejo especular, todas las
+superficies dentro del campo visual del usuario deberán ser ma-
+tes y con tonos preferiblemente neutros.
+— El valor límite superior del grado de brillo será de 45%.
+— Las superficies del mobiliario con las que pueda entrar en con-
+tacto el-la trabajador-a, no deben ser buenas conductoras del
+calor a fin de evitar su excesiva transmisión a la piel del personal
+trabajador.
+3.1.10. CABLES
+— Los cables eléctricos estarán siempre separados de los cables
+de datos.
+— Se emplearán longitudes suficientes de cable para permitir futu-
+ros cambios.
+— Adecuado mantenimiento de los cables y conexiones, con el fin
+de garantizar la seguridad del personal trabajador.
+— El acceso y mantenimiento de los cables no deberá interrumpir
+las actividades laborales del operador-a.
+3.2. Concepción ergonómica del medio ambiente físico
+3.2.1. ILUMINACIÓN
+En el trabajo en pantalla podemos diferenciar dos tipos de puestos
+en función de las tareas que se realizan y de las exigencias visuales que
+comportan:
+— Puestos con dedicación preferente y continua a lectura de infor-
+mación en pantalla.
+— Puestos en los que se combina la lectura de documentos y la
+lectura de los caracteres en pantalla.
+Estos dos puestos de trabajo requieren diferente nivel de ilumina-
+ción. En el primer caso, el nivel de iluminación será más bien bajo y ven-
+drá impuesto prioritariamente por la necesidad de conseguir un buen
+contraste entre los caracteres y el fondo.
+En el segundo caso, la lectura de documentos requerirá el nivel de
+iluminación de un trabajo de oficina (300 a 1000 lux), mientras que la
+38
+
+lectura de la pantalla precisa de una iluminación más baja, para garanti-
+zar un contraste correcto.
+La diferencia de luminancia entre el documento y la pantalla se in-
+crementa con el aumento de iluminación, por lo que el ojo debe realizar
+un trabajo mayor de acomodación. Por lo tanto, debemos establecer un
+compromiso entre la iluminación ideal y la elegida.
+• REQUERIMIENTOS:
+— En el lugar donde se ubiquen los puestos con PVD, existirá una
+iluminación general.
+— Si se utiliza iluminación individual complementaria, ésta no se
+colocará cerca de la pantalla si produce deslumbramiento direc-
+to, reflexiones o desequilibrios de luminancia.
+— Los niveles de iluminación serán suficientes para las tareas que
+se realicen en el puesto pero no alcanzarán valores que reduz-
+can el contraste de la pantalla por debajo de lo tolerable (la rela-
+ción de contraste entre caracteres y fondo no será inferior a 3:1).
+ 
+• ILUMINANCIA
+ 
+— Se recomienda un nivel de iluminancia de 300 a 1000 Lux en
+función del tipo de puesto. Así, en aquellos lugares en los que se
+precise más de 1000 Lux no serán instalados videoterminales.
+— Una iluminación demasiado baja producirá una impresión monó-
+tona y deberá ser evitada. Se recomiendan valores de reflectan-
+cia de 70 a 80% para el techo, 40 a 50% para las paredes y de
+20 a 30% para el suelo. En lo que concierne a mobiliario y mam-
+paras se recomiendan cifras que van del 20 al 50%.
+— La iluminación artificial debe comprender una instalación general
+destinada a uniformizar las iluminancias de todo el local. En caso
+de ser insuficiente, es necesario complementarla con un sistema
+de iluminación local. La colocación de las luminarias debe ser
+efectuada de tal forma que no provoque sombras entre ellas. Su
+número depende del grado de dispersión del haz luminoso. Las
+luminarias que difunden un color «luz de día» no se recomien-
+dan debido a que este color se utiliza sólo en niveles mayores de
+1000 Lux.
+— Si utilizamos lámparas de descarga, deben agruparse de dos en
+dos o de tres en tres, para evitar las oscilaciones en el flujo lumi-
+noso.
+ 
+• DISTRIBUCIÓN DE LUMINANCIAS (BRILLOS)
+ 
+— Es necesario asegurar un equilibrio adecuado de luminancias en
+el campo visual, para lograr unas buenas condiciones visuales y
+psicofisiológicas.
+— Entre los componentes de la tarea la relación de luminancias no
+debe ser superior a 10: 1 (ej. entre pantalla y documento).
+39
+
+— Entre la tarea y el entorno, el límite para la relación de luminan-
+cias es menos estricto, presentándose algunos problemas cuan-
+do se alcanzan relaciones de luminancia del orden de 100: 1.
+ 
+ 
+• DESLUMBRAMIENTO
+ 
+— El deslumbramiento se provoca por la presencia en el campo vi-
+sual de una fuente brillante. Su consecuencia es una molestia
+y/o una disminución en la capacidad para distinguir objetos. Este
+fenómeno se produce sobre la retina del ojo, en la que se desa-
+rrolla una enérgica reacción fotoquímica que insensibiliza duran-
+te un cierto tiempo, transcurrido el cual, vuelve a recuperarse.
+— Deslumbramiento directo: Se produce por la visión directa de
+fuentes de luz brillantes (lámparas, ventanas, etc.). Se establece
+el límite de 500 Cd/m2 para las luminarias vistas bajo un ángulo
+menor a 45º sobre el plano horizontal, siendo recomendable no
+sobrepasar las 200 Cd/m2.
+— Deslumbramiento indirecto o por reflexión: Reflexión de las fuen-
+tes de luz sobre superficies de gran reflectancia, las cuales se
+comportan como fuentes de luz secundarias. Este tipo de des-
+lumbramiento no es tan molesto o incapacitante como el directo
+pero sí tiene gran influencia en el deterioro del confort visual,
+siendo su característica más importante la disminución o anula-
+ción de los contrastes en el objeto examinado.
+Las superficies y objetos del entorno, susceptibles de reflejarse
+en la pantalla, deben guardar los siguientes límites de luminan-
+cia:
+— Luminancia promedio del objeto:≤ 200 Cd/m2
+— Máximos de luminancia del objeto: ≤ 400 Cd/m2
+ 
+Usando PVD diseñadas con técnicas antirreflejo eficaces, se
+pueden admitir luminancias de hasta 1000 Cd/m2
+— Deslumbramiento por contrastes demasiado fuertes: Se aplican
+las mismas normas que en la distribución de luminancias.
+— Deslumbramiento por las ventanas: La penetración de la luz del
+sol puede ser una causa importante de disconfort por deslumbra-
+miento. El grado de disconfort depende de la luminancia del cie-
+lo, visto a través de las ventanas y en menor medida de sus
+dimensiones relativas con respecto al observador-a, por lo tanto,
+es desaconsejable un puesto de trabajo con visión de frente a
+las ventanas.
+• ILUMINACIÓN Y PUESTO DE TRABAJO
+— Las pantallas se colocarán alejadas de las ventanas y de manera
+que la línea de visión del operador-a esté en paralelo al frente de
+ventanas, de este modo evitaremos los reflejos molestos de la
+luz natural.
+40
+
+— Las luminarias se emplazarán de forma que ningún reflejo mo-
+lesto de ellas pueda ser visto en la pantalla. Las hileras deberán
+estar verticales a las pantallas (paralelas al frente de ventanas),
+pero no encima mismo de las pantallas. Se evitará la visión di-
+recta de la luminaria desde el puesto de trabajo por medio de
+pantallas deflectoras. Estas medidas pueden ser complementa-
+das mediante la utilización de cortinas o persianas que amorti-
+güen la luz. Asimismo, pueden emplearse mamparas para evitar
+reflejos y deslumbramientos en las salas que dispongan de ven-
+tanas en más de una pared.
+ 
+• IDENTIDAD CON EL ESPECTRO SOLAR
+ 
+— En aquellos trabajos en que la visión de los colores o la precisión
+es fundamental, se usarán lámparas que den un color fiable, es
+decir, fuentes luminosas con un índice de color alto o una tempe-
+ratura de color próxima a los 5500 K. Se recomiendan las si-
+guientes temperaturas de color:
+— Menos de 3300 K para los medios residenciales. La luz es
+rojiza, también llamada cálida.
+— Entre 3300 y 5300 K para la industria. Color intermedio.
+— Superior a 5300 K en los momentos que la comparación de
+colores sea necesaria. La luz es blanca, próxima a la solar y
+denominada fría.
+— El índice de rendimiento de color recomendado es superior a
+80 para las oficinas.
+ 3.2.2. RUIDO
+— El nivel sonoro deberá ser lo más bajo posible. 
+— Se utilizarán equipos con una mínima emisión sonora.
+— Se pueden utilizar plafones acústicos absorbentes. Para el techo
+se utilizarán coeficientes de absorción de Sabine próximos a 1
+para las frecuencias agudas y medias. El suelo se recubrirá de
+moquetas antiestáticas y de coeficientes de absorción de 0,4.
+— Aquellos elementos que pudieran ser origen de contaminación
+acústica (fotocopiadoras, impresoras matriciales), deberán ser
+aisladas o capotadas. El empleo de impresoras de chorro de tin-
+ta o de tipo láser evitará estos problemas. En todos los casos se
+evitará superar los 60 dB(A) a menos de un metro de distancia.
+Para tareas difíciles y complejas, que requieren concentración, el
+nivel sonoro continuo equivalente, no debe exceder los 55 dB(A).
+— Para lograr un adecuado confort acústico la reverberación del lo-
+cal debe ser tan baja como sea posible. El objetivo es lograr un
+límite máximo para el tiempo de reverberación de 0,5 a 1 sg. en
+el rango de frecuencias comprendido entre 250 Hz y 4000 Hz.
+41
+
+3.2.3. VIBRACIONES
+— Los sistemas de aire acondicionado, las impresoras de impacto,
+la proximidad de industrias y el tráfico rodado constituyen posi-
+bles fuentes de vibración.
+— Se evitarán las vibraciones eligiendo equipos y máquinas de bajo
+nivel de vibración o, instalando éstos sobre soportes antivibrato-
+rios.
+3.2.4. CLIMA
+— La temperatura operativa de confort se mantendrá dentro del si-
+guiente rango (normas ISO 7730 y EN-27730):
+— Invierno: 20 a 24ºC
+— Verano: 23 a 26ºC.
+— Nunca excederá de 26ºC
+— Gradiente máximo de temperatura para la altura de la sala:
+3º C
+— Temperatura del suelo: 19 a 20 º C
+— Velocidad del aire: ≤ 0,15 m/sg
+— Diferencia de temperatura radiante desde superficies vertica-
+les cerca del suelo: ≤ 10º C
+— Diferencia permisible de temperatura radiante desde el techo
+al suelo: ≤ 5ºC
+— La humedad relativa se mantendrá entre el 45 % y el 65%,
+para cualquiera de las temperaturas comprendidas dentro de
+dicho rango.
+— El sistema de renovación del aire permitirá una renovación
+de 25 metros cúbicos por hora, por cada trabajador-a.
+3.2.5. CAMPOS ELECTROMAGNÉTICOS Y ELECTROSTÁTICOS
+— Los campos electromagnéticos pueden ponerse de manifiesto en
+las PVD en forma de distorsión de las imágenes 
+— Los campos electrostáticos pueden interferir en el correcto fun-
+cionamiento de los dispositivos informáticos y causar molestias
+al personal trabajador (descargas electrostáticas).
+— Para reducir los efectos de estos campos, se aplicarán las si-
+guientes medidas:
+— Aplicación de las normas técnicas contra interferencias ra-
+dioeléctricas por parte del fabricante, para los campos elec-
+tromagnéticos.
+— Utilización y/o aplicación de productos antiestáticos. Aumen-
+to de la humedad relativa del aire. Uso de equipos con pro-
+42
+
+tección del tipo IEC 801-2. Estas medidas son para los cam-
+pos electrostáticos.
+3.2.6. SALA DE TRABAJO
+— El techo debe de tener un factor de reflexión de al menos el
+75%, y si es posible entre el 80 y el 90%, es decir, blanco o casi
+blanco y mate de preferencia.
+— Las paredes con revestimientos pastel deben de tener un coefi-
+ciente de reflexión entre el 50 y el 70%. En la zona que rodea las
+ventanas, las paredes tendrán un factor de reflexión más bajo
+(40%), para evitar los deslumbramientos.
+— El mobiliario debe de tener un factor de reflexión de al menos el
+20% y si es posible entre el 25 y el 45%. Las superficies deben
+de ser claras y mates.
+— El suelo debe de ser claro sin exceso, con un factor de reflexión
+entre el 20 y el 25%. Los factores de reflexión se pueden calcu-
+lar a partir de tablas.
+— Las ventanas tendrán una superficie equivalente a la tercera par-
+te del suelo y 3/5 partes de la superficie de la pared en que se
+abren.
+— Los colores poseen efectos psicológicos a nivel de las distan-
+cias, temperaturas y humor. En general, los colores sombríos tie-
+nen un efecto depresivo y no incitan a la limpieza. Los colores
+claros tienen un efecto reconfortante y estimulante, así mismo,
+hacen los locales más acogedores, claros y limpios.
+3.2.7. MANTENIMIENTO
+El nivel de luminosidad puede descender a la mitad en poco tiempo
+si no se cuida la instalación. Un mantenimiento sistemático debe de ser
+previsto sobre todo en ambientes polvorientos.
+3.3. Concepción ergonómica del software
+3.3.1. DISEÑO EN LOS SISTEMAS DE DIÁLOGO
+       PERSONA-ORDENADOR
+La interfaz hombre-ordenador de un sistema es el conjunto de ele-
+mentos con los que el utilizador puede entrar en contacto.
+Como tales, entendemos: El soporte físico, el programa, la docu-
+mentación y la formación.
+Sin embargo se tiende a entender este término como la forma de co-
+municar con el programa.
+43
+
+En los principales elementos de esta interfaz hombre-ordenador se
+distinguen diferentes componentes: La modalidad del diálogo, la retroali-
+mentación (los errores) y la representación gráfica de los datos y los co-
+mandos. Se sobreentiende además un conocimiento conceptual del
+programa, cuyo aprendizaje nos permitirá su dominio.
+Se utilizan diferentes estilos de diálogo. Cada cual posee sus venta-
+jas e inconvenientes:
+• ESTILOS DE DIÁLOGO
+ 
+— Diálogo por comandos: Se trata de teclear códigos preestableci-
+dos. Es eficaz y rápido pero exige un aprendizaje de gran núme-
+ro de abreviaturas.
+— Diálogo por medio de teclas de función: Es rápido pero hay que
+evitar dar más de una función a cada tecla.
+— Diálogo por menús: Se presentan listas de elección múltiple. No
+se necesita memorizar pero existe el riesgo de perderse en la
+práctica arborescente.
+— Diálogo por introducción de datos: Bien adaptado.
+— Diálogo con pantallas interactivas o por ratón: Poseen una bue-
+na aceptación para los trabajos que requieran una fuerte abs-
+tracción (concepción, diseño).
+• PRINCIPIOS GENERALES PARA DISEÑAR Y EVALUAR UN
+           SISTEMA DE DIÁLOGO
+— Capacidad de adecuación a la tarea
+Un diálogo es susceptible de adecuarse a la tarea en la medida
+en que asiste a cada usuario-a para lograr un acabado de la mis-
+ma con eficiencia y eficacia.
+— Autodescriptividad
+Un diálogo es autodescriptivo en la medida en que cada una de
+sus etapas es directamente comprensible a través de una retro-
+acción con el sistema o es explicada al usuario-a con arreglo a
+su necesidad de información relevante.
+— Controlabilidad
+Un diálogo es controlable en la medida en que permite a cada
+usuario-a conducir la totalidad del curso de la interacción hasta
+lograr el objetivo.
+— Conformidad con las expectativas del usuario
+Un diálogo es conforme con las expectativas del usuario-a en la
+medida en que se corresponde con el conocimiento que este tie-
+ne de la tarea, así como con su formación, experiencia y las con-
+venciones comúnmente aceptadas.
+— Tolerancia de errores
+Un diálogo es tolerante a los errores en la medida en que, a pe-
+sar de los errores que se cometan en la entrada, se puede lograr
+44
+
+el resultado que se pretende sin realizar correcciones o con co-
+rrecciones mínimas.
+— Adaptabilidad individual
+Un diálogo es susceptible de adaptarse al individuo en la medida
+en que el sistema de diálogo puede modificarse de acuerdo a las
+habilidades y necesidades de cada usuario en particular, en rela-
+ción con una determinada tarea.
+— Fácil de aprender
+Un sistema de diálogo facilita su aprendizaje en la medida en
+que proporciona medios, guías y estímulos al usuario durante la
+etapa de aprendizaje.
+• COMPONENTE CONCEPTUAL DEL PROGRAMA
+El modelo conceptual es la representación del programa tal como es
+suministrada por la interfaz hombre-ordenador. Es el-la operador-a
+quien de manera más o menos consciente la construye.
+Deberá ser fácil de comprender y lo más simple posible. En general,
+se tendrá en consideración el sentido común en la concepción. Se evita-
+rán las contradicciones entre la intuición del personal trabajador y el
+comportamiento real del programa. Esto nos llevará a economizar los
+esfuerzos de aprendizaje y la optimización de la interfaz.
+— Reglas para la concepción de programas:
+— La cadencia de las informaciones y los comandos debe ser la
+misma.
+— Deberá existir la posibilidad de usar cortacircuitos.
+— La existencia de feed-back o retroalimentación que confirme
+la acción.
+— La impresión de cierre de tareas (se cierra una tarea y se co-
+mienza otra).
+— Detectar los errores graves que perjudican al sistema.
+— La posibilidad de volver hacia atrás sin volver al inicio.
+— El que no carguen mucho la memoria.
+— Detentar el control del sistema.
+— Respetar las representaciones mentales de los usuarios.
+— Minimizar las acciones repetitivas.
+— Disminuir los tiempos de espera.
+— Emplear un vocabulario adaptado a las diferentes culturas,
+tareas y personas.
+— Minimizar el empleo de códigos no significativos.
+— Proteger al usuario-a de acciones destructivas involuntarias.
+— Evitar las arborescencias demasiado largas
+3.4. Organización del trabajo
+Todo trabajador-a deberá recibir formación sobre las modalidades
+de uso antes de comenzar este tipo de trabajo, y cada vez que la orga-
+nización del puesto de trabajo se modifique de manera apreciable.
+45
+
+El-la empresario-a deberá organizar la actividad del personal traba-
+jador de forma que el trabajo diario con pantalla se interrumpa periódi-
+camente por medio de pausas o cambios de actividad que reduzcan la
+carga de trabajo en pantalla.
+La organización de las tareas, debe permitir un reposo periódico de
+los mecanismos de acomodación y de convergencia de los ojos, así
+como de los músculos que dicha postura solicita.
+Este tipo de trabajo y especialmente las tareas de introducción de
+datos, conllevan unas características de carácter sociológico que pue-
+den derivar en situaciones de estrés. Así, el realizar mucho trabajo en
+poco tiempo, la baja cualificación que requiere el contenido del puesto
+de trabajo o la inexistencia de oportunidad por parte del personal traba-
+jador de ejercer un control sobre su propia tarea, actúan a la larga como
+factores favorecedores de esta fatiga. 
+Si el trabajo en pantalla se alterna con otras actividades, la organiza-
+ción temporal del trabajo no plantea problemas, pues esta alternancia
+ejerce de «pausa activa» sobre el trabajo en pantalla.
+Cuando la tarea no puede reorganizarse en este sentido, se deben
+tomar ciertas precauciones para prevenir la fatiga:
+— No es deseable una actividad continua durante toda la jornada.
+Atención a la actividad suplementaria efectuada en el hogar
+(ocio, otros trabajos).
+— La jornada delante de la pantalla sería recomendable que no ex-
+cediera las cuatro horas, sobre todo si este trabajo se efectúa sin
+alternancia de otras actividades.
+— El régimen de pausas estará en función del régimen de la tarea y
+de su intensidad.
+3.4.1. DISTRIBUCIÓN DE PAUSAS
+Entendemos por pausa aquellos períodos de recuperación que si-
+guen a los períodos de tensión de carácter fisiológico y psicológico ge-
+nerados por el trabajo en pantalla. Esta tensión está en dependencia del
+tipo de trabajo.
+Las pausas generadas por el mismo sistema (tiempos de espera del
+programa, caídas del programa), no se pueden considerar como tales e
+incluso son generadoras de estrés. Estas esperas deberán evitarse o
+cuando menos, evitar que excedan de cinco segundos.
+La pausa debe permitir el reposo de los mecanismos de acomoda-
+ción y convergencia de los ojos y de los grupos de músculos afectados
+por la postura.
+Para aquellas actividades caracterizadas por una solicitud visual y
+postural importante y por la repetitividad, se recomiendan pausas de cin-
+co minutos cada 45 minutos de trabajo.
+En las tareas de diálogo menos fatigosas, la pausa activa será de un
+mínimo de 15 minutos por cada dos horas trabajadas.
+46
+
+En lo que concierne a la programación e introducción de datos, pue-
+de seguirse asimismo esta última regla.
+En general, se recomienda que durante las pausas, el-la operador-a
+abandone el puesto de trabajo y se mueva.
+Los descansos frecuentes antes de alcanzar la fatiga, son más efec-
+tivos que los descansos largos, pero menos frecuentes. Asimismo, la
+elección del momento de la pausa se deberá dejar a libre albedrío del
+personal trabajador.
+3.4.2. AYUDAS TÉCNICAS PARA PERSONAS CON DISCAPACIDAD
+Denominamos ayudas técnicas basadas en las nuevas tecnologías
+de la información a todos aquellos dispositivos informáticos que permi-
+ten superar, o al menos paliar, la discapacidad producida por algún tipo
+de deficiencia física o psíquica para cualquier actividad humana.
+La integración de la persona con discapacidad pasa por la adapta-
+ción de los equipos de trabajo. La informática y la telemática han desa-
+rrollado técnicas que pueden ser aplicadas en problemas de
+comunicación próxima y remota, respectivamente.
+El grado y tipo de discapacidad, condiciona la posibilidad de acceso
+a una determinada ayuda. La investigación se orienta hacia soluciones
+generales.
+Existen en la actualidad programas europeos en funcionamiento,
+cuyo principal objetivo es la divulgación de la oferta en el campo de las
+ayudas técnicas (dispositivos de manipulación, interfases, etc.).
+Se espera que el ordenador sustituya, completamente o en parte,
+las funciones del cuerpo humano perdidas a causa de la deficiencia.
+El uso de videoterminales exige que cada usuario-a tenga la movili-
+dad suficiente para acercarse a ponerlo en marcha. En algunos casos,
+puede ser necesario enchufar algún conector o manejar discos.
+Se han diseñado sistemas de transmisión que permiten conectar los
+ordenadores sin la existencia de una conexión física.
+El acceso al teclado se ha logrado mediante la sustitución de un te-
+clado tradicional por teclados con adaptaciones en metacrilato que per-
+miten el acceso tecla a tecla. En aquellos casos más severos, se han
+implantado unos programas de barrido de caracteres que pueden ser
+seleccionados por cada usuario-a, utilizando alguna capacidad residual
+de movimiento voluntario (accesorios en la cabeza, etc.), o por un siste-
+ma de acceso, manejando un número limitado de pulsadores teleco-
+mandados o no.
+En general, se espera un devenir espectacular en los próximos años
+en cuanto al desarrollo tecnológico aplicado al diseño de nuevos pro-
+ductos y ayudas técnicas.
+— El discapacitado en el mundo del trabajo
+La Ley de Integración de Minusválidos (LISMI), Ley 12/82, de 7 de
+abril, establece como finalidad de la política de empleo, conseguir la in-
+tegración de los minusválidos en el sistema de trabajo.
+47
+
+En cuanto a las empresas que ocupan personal laboral, sean públi-
+cas o privadas, se establece el deber de emplear a un número de mi-
+nusválidos-as no inferior al 2% de su plantilla (para aquellas empresas
+que ocupan más de 50 trabajadores-as fijos-as). Esta obligación legal se
+está cumpliendo, con mayor o menor éxito, por la mayoría de empresas.
+Además de esta obligación de tener empleado a ese porcentaje de
+minusválidos-as (para el que cuentan tanto los contratados siendo ya
+válidos, como los que hayan padecido tal merma después de su contra-
+tación), se impone el deber de presentar cada año, una relación detalla-
+da de los puestos de trabajo que estén ocupados por minusválidos-as y
+de aquellas tareas que la empresa declare reservadas para los mismos.
+Parece lógico pensar que los puestos de trabajo en pantalla pueden
+parecer idóneos para cumplir estos requisitos. El puesto de trabajo infor-
+matizado, permitirá ampliamente la integración laboral de la persona con
+disminución, tanto de tipo físico, psíquico, como sensorial.
+A tal fin, aparte de las ayudas técnicas a adaptar, se deberá prestar
+especial cuidado al diseño de los programas e interfases, evitando los
+largos protocolos de entrada.
+4. PROTOCOLO SANITARIO ESPECÍFICO
+4.1. Introducción
+Este protocolo está dirigido a todo-a trabajador-a que habitualmente
+y durante una parte relevante de su trabajo normal utilice un equipo con
+pantalla de visualización. (Pantalla alfanumérica o de tipo gráfico, inde-
+pendientemente del método de representación visual utilizado). 
+4.2. Objetivos
+•
+Garantizar y promover las condiciones de trabajo y seguridad de
+los-as trabajadores-as que utilizan pantalla de visualización.
+•
+Establecer las características específicas que debe reunir el exa-
+men de salud en este colectivo laboral.
+4.3. Metodología
+La vigilancia de trabajadores-as de pantallas comprende dos fases
+interdependientes:
+4.3.1. FASE DEL ESTUDIO DEL PUESTO Y ANÁLISIS DE LAS
+       CONDICIONES DE TRABAJO (ANEXO I: Análisis del puesto
+       de trabajo y evaluación del riesgo en trabajos con PVD)
+La finalidad de proponer un método de análisis de condiciones de
+trabajo, es facilitar una herramienta que permita evaluar las condiciones
+48
+
+de seguridad y de salud de cada usuario-a de pantallas en lo que con-
+cierne a los posibles riesgos para la vista, los problemas físicos y de
+carga mental, así como el posible efecto añadido o combinado de los
+mismos.
+Se establece un diagnóstico de partida en que se incluye una eva-
+luación del riesgo para que dicha situación pueda ser mejorada a través
+de la implantación de medidas preventivas sencillas (tanto técnicas
+como organizativas).
+Dicho instrumento, permitirá la sistemática recogida de datos en el
+mismo puesto de trabajo y facilitar las disposiciones mínimas que deben
+reunir los equipos y condiciones de trabajo, a fin de reducir dichos
+riesgos al mínimo. Asimismo, debe servir de elemento de diálogo, tanto
+informativo como formativo entre los diferentes agentes sociales implica-
+dos (empresarios-as, prevencionistas, trabajadores-as y sus repre-
+sentantes).
+4.3.2. FASE DE VIGILANCIA MÉDICA
+La vigilancia médica de los-as trabajadores-as se efectúa por medio
+del examen médico, efectuado por el personal sanitario competente.
+En materia de vigilancia de la salud, la actividad sanitaria deberá
+abarcar, en las condiciones fijadas por el artículo 22 de la Ley 31/1995
+de Prevención de Riesgos Laborales:
+1.º Una evaluación de la salud de los-as trabajadores-as inicial
+después de la incorporación al trabajo o después de la asignación de ta-
+reas específicas con nuevos riesgos para la salud.
+2.º Una evaluación de la salud de los-as trabajadores-as que re-
+anuden el trabajo tras una ausencia prolongada por motivos de salud,
+con la finalidad de descubrir sus eventuales orígenes profesionales y re-
+comendar una acción apropiada para protegerlos.
+3.º Una vigilancia de la salud a intervalos periódicos.
+Estos exámenes serán de tres tipos:
+•
+EXAMEN INICIAL DEL TRABAJADOR CON PVD.
+Antes de comenzar a trabajar o antes de comenzar a hacerlo de-
+lante de una vídeoterminal. Sería la evaluación inicial de todo-a
+trabajador-a al incorporarse a un puesto de trabajo.
+•
+EXAMEN ESPECÍFICO PERIÓDICO.
+De forma periódica, con una periodicidad ajustada al nivel de
+riesgo a juicio del médico responsable.
+•
+EXAMEN A DEMANDA DEL TRABAJADOR-A.
+Cuando aparezcan trastornos que pudieran deberse a este tipo
+de trabajo, se realizarán los exámenes pertinentes.
+49
+
+BLANCA
+50
+
+EXAMEN INICIAL DEL TRABAJADOR
+CON PVD
+51
+
+BLANCA
+52
+
+1. DATOS GENERALES
+Si es la primera vez que trabaja en la empresa, los exámenes de sa-
+lud incluirán una historia clinico-laboral, en la que además de los datos
+de anamnesis, exploración clínica y control biológico y estudios comple-
+mentarios en función de los riesgos inherentes al trabajo, se hará cons-
+tar una descripción detallada del puesto de trabajo, el tiempo de
+permanencia en el mismo, los riesgos detectados en el análisis de las
+condiciones de trabajo, y las medidas de prevención adoptadas.
+En el supuesto de que el la trabajador-a ya incorporado-a en la em-
+presa pase a ocupar un puesto de trabajo con PVD y, teniendo en cuen-
+ta de que disponemos de estos datos generales, centraremos el
+examen en el estudio oftalmológico y osteomuscular.
+2. RECONOCIMIENTO OFTALMOLÓGICO
+   (ANEXO II: Cuestionario de función visual en trabajos con PVD y
+   ANEXO III: Reconocimiento oftalmológico en trabajos con PVD)
+Debido a que el examen general no difiere de los reconocimientos
+médicos habituales, se centra la atención en la exploración del aparato
+de la visión.
+El objetivo del examen oftalmológico es despistar aquellas alteracio-
+nes de la función visual que precisen corrección para poder trabajar en
+pantalla o que contraindiquen este trabajo. 
+No es necesario que estos exámenes sean realizados por oftalmólo-
+gos, pudiendo ser realizados perfectamente por el médico del trabajo en
+su propio servicio. Existen actualmente aparatos (control visión) que
+permiten un examen rápido de las funciones visuales.
+El examen comprenderá:
+— Inspección ocular
+— Control de la agudeza visual mono y binocular, con y sin correc-
+ción de lejos y, sobre todo, de cerca. Esta prueba evidencia el
+funcionamiento del área macular.
+Se definirán los siguientes parámetros:
+  VISIÓN LEJANA: 
+     — Ojo derecho        sin/con corrección
+     — Ojo izquierdo        sin/con corrección
+  VISIÓN PRÓXIMA
+     — Ojo derecho        sin/con corrección
+     — Ojo izquierdo        sin/con corrección
+Referente a la distancia de la visión próxima, siempre ha de efec-
+tuarse a la distancia a la que la persona vaya a desarrollar su función
+delante de la pantalla, nunca a una distancia estereotipada.
+53
+
+— Refracción ocular.
+— Equilibrio muscular: Para descartar posibles forias o estrabismos
+latentes.
+— Reflejos pupilares.
+— Motilidad extrínseca.
+— Sentido cromático: Prueba destinada a destacar posibles discro-
+matopsias, pudiéndose utilizar diferentes láminas y aparatos.
+— A los mayores de 40 años, sería conveniente remitirlos al oftal-
+mólogo, a fin de realizar una Tonometría y vigilancia de la presbi-
+cia. Se adjuntará el anexo II cuestionario de función visual en
+trabajos con PVD y anexo III reconocimiento oftalmológico en
+trabajos con PVD debidamente cumplimentados.
+Criterios de aptitud
+Si el interrogatorio no ha revelado en el estudio una fatigabilidad
+aparentemente anormal, si no hay duda de la capacidad visual y si el in-
+dividuo no presenta una afección oftalmológica, se le declara APTO.
+En caso de duda, se puede intentar hacer un ensayo en el propio
+puesto de trabajo y citarle algunas semanas después para reevaluar.
+La mayor parte de defectos visuales pueden ser fácilmente corregi-
+dos. Se deberá prestar atención a estas correcciones y que estén adap-
+tadas al trabajo.
+En caso de estimar necesaria una valoración complementaria de la
+función visual, se adjunta una hoja de información para el oftalmólogo
+(Información para el oftalmólogo en caso de petición de exámenes com-
+plementarios).
+Contraindicaciones
+El trabajo en pantalla presenta pocas contraindicaciones estrictas,
+pero puede necesitar una vigilancia periódica. Así, aparte de las anoma-
+lías oculares graves o evolutivas (ej. glaucoma de ángulo estrecho), no
+hay riesgo para el ojo. Sí se puede producir un incremento de la fa-
+tiga (caso de algunas ametropías), aunque no siempre puede ser
+una contraindicación absoluta (caso de mal equilibrio oculomotor con
+visión binocular imperfecta). El estrabismo y la monoftalmia no presen-
+tan problema.
+3. EXAMEN OSTEOMUSCULAR (ANEXO IV: Cuestionario de
+   síntomas osteomusculares en trabajos con PVD y ANEXO V:
+   Examen osteomuscular en trabajos con PVD)
+Lo primero que se debe determinar es la existencia o no de desvia-
+ciones del eje de la columna vertebral.
+54
+
+Para estudiar al personal trabajador, se le coloca en bipedestación
+y, por inspección, se puede tener una idea de las posibles desviaciones
+de columna. Midiendo: 
+— La simetría o asimetría de hombros
+— La simetría o asimetría de crestas ilíacas 
+— Trazando una línea de continuidad de las apófisis espinosas.
+Al realizar esta operación solamente por inspección, nunca se puede
+hablar ni de escoliosis ni de cifosis, sino únicamente de desviaciones del
+eje aumentadas o disminuidas, ya que el diagnóstico de escoliosis o ci-
+fosis tendrá que venir dado por un estudio radiológico, con el que se
+puedan medir con exactitud los grados de desviación que se presentan.
+Visto así, podría resultar insuficiente esta exploración; pero, teniendo en
+cuenta que lo que se pretende es que el médico del trabajo pueda llegar
+al despistaje de posibles problemas de columna, se considera suficiente
+dicha exploración.
+Se buscarán por palpación, aquellos puntos anatómicos dolorosos.
+Los movimientos que se deben explorar son:
+— Abducción
+— Flexión
+— Rotación externa
+— Addución
+— Extensión
+— Rotación interna
+La existencia de sintomatología se investiga además con el ANEXO
+IV: Cuestionario de síntomas osteomusculares en trabajos con PVD, di-
+rigido o bien autoadministrado; nos permitirá valorar la frecuencia de
+quejas a diferentes niveles: Cintura escapular, cervical, dorsal, lumbar y
+extremidades.
+Agrupamos los signos y síntomas que podemos encontrar, en gra-
+dos que siguen una progresión ascendente desde la normalidad hasta
+la limitación funcional.
+Criterios de aptitud
+Si el interrogatorio no ha revelado en el estudio una fatigabilidad
+aparentemente anormal y si el individuo no presenta una afección os-
+teomuscular, se le declara APTO.
+En caso de duda, se puede intentar hacer un ensayo en el propio
+puesto de trabajo y citarle algunas semanas después.
+Contraindicaciones
+Ninguna
+4. EDUCACIÓN SANITARIA
+Todo-a trabajador-a deberá recibir una formación sobre las modali-
+dades de uso antes de comenzar el trabajo con pantalla. Así mismo, se
+55
+
+le informará de los posibles riesgos para la salud que este trabajo con-
+lleva y de las medidas de prevención y protección que debe de tomar
+para evitarlos.
+56
+
+EXAMEN ESPECÍFICO PERIÓDICO
+57
+
+BLANCA
+58
+
+Se realizará con una periodicidad ajustada al nivel de riesgo, a juicio
+del médico responsable y cuando aparezcan trastornos que pudieran
+deberse a este tipo de trabajo.
+Antes de proceder a valorar la función visual se utilizará el ANEXO
+II: Cuestionario de función visual en trabajos con PVD, bien dirigido o
+autoadministrado.
+El examen periódico comprenderá: 
+1. VALORACIÓN DE LA FUNCIÓN VISUAL (ANEXO II:
+   Cuestionario de función visual en trabajos con PVD y ANEXO
+   III: Reconocimiento oftalmológico en trabajos con PVD)
+El examen comprenderá:
+— Inspección ocular
+— Control de la agudeza visual mono y binocular, con y sin correc-
+ción de lejos y sobre todo de cerca. Esta prueba evidencia el
+funcionamiento del área macular.
+Se definirán los siguientes parámetros:
+  VISIÓN LEJANA: 
+     — Ojo derecho        sin/con corrección
+     — Ojo izquierdo        sin/con corrección
+  VISIÓN PRÓXIMA
+     — Ojo derecho        sin/con corrección
+     — Ojo izquierdo        sin/con corrección
+Referente a la distancia de la visión próxima, siempre ha de efec-
+tuarse a la distancia a la que la persona vaya a desarrollar su función
+delante de la pantalla, nunca a una distancia estereotipada.
+— Refracción ocular.
+— Equilibrio muscular: Para descartar posibles forias o estrabismos
+latentes.
+— Reflejos pupilares.
+— Motilidad extrínseca.
+— Sentido cromático: Prueba destinada a destacar posibles discro-
+matopsias, pudiéndose utilizar diferentes láminas y aparatos.
+— Tonometría a mayores de 40 años cada dos años y vigilancia ex-
+presa de la presbicia por el oftalmólogo. Se adjuntará el anexo II
+debidamente cumplimentado.
+Se valorará la aparición de déficits de la refracción o el estudio y va-
+loración del grado de corrección de los mismos.
+Se prestará atención a los siguientes aspectos:
+59
+
+— Miopía corregida.
+— Hipermetropía y astigmatismo.
+— Forias (déficit de la convergencia).
+— Presbicia.
+— Diplopia, nistagmo y glaucoma.
+— Utilización de productos que afecten a la movilidad del ojo (tran-
+quilizantes, alcohol, etc.).
+Para ello, se puede utilizar nuevamente el ANEXO III: Reconoci-
+miento oftalmológico en trabajos con PVD.
+La mayor parte de estos defectos visuales pueden ser fácilmente co-
+rregidos. Se deberá prestar atención a estas correcciones y que estén
+adaptadas al trabajo.
+En caso de estimar necesaria una valoración complementaria de la
+función visual, se adjunta una hoja de información para el oftalmólogo:
+hoja de información para el oftalmólogo en caso de petición de exáme-
+nes complementarios, junto con el ANEXO III, el cual remitirá los resul-
+tados de su exploración, así como la pertinencia y periodicidad de las
+revisiones posteriores.
+2. VALORACIÓN OSTEOMUSCULAR (ANEXO IV: Cuestionario de
+   síntomas osteomusculares en trabajos con PVD y V: Examen
+   osteomuscular en trabajos con PVD):
+Lo primero que debemos determinar es la existencia o no de desvia-
+ciones del eje de la columna vertebral.
+Para estudiar a cada trabajador-a, le colocamos en bipedestación y,
+por inspección, podemos tener una idea de las posibles desviaciones de
+columna. Midiendo: 
+— La simetría o asimetría de hombros
+— La simetría o asimetría de crestas ilíacas 
+— Trazamos una línea de continuidad de las apófisis espinosas.
+Al realizar esta operación solamente por inspección nunca se puede
+hablar ni de escoliosis ni de cifosis, sino sólo de desviaciones del eje au-
+mentadas o disminuidas, ya que el diagnóstico de escoliosis o cifosis
+tendrá que venir dado por un estudio radiológico, con el que se puedan
+medir con exactitud los grados de desviación que se presentan. Visto
+así, podría resultar insuficiente esta exploración; pero, teniendo en
+cuenta que lo que pretendemos es que el médico del trabajo pueda lle-
+gar al despistaje de posibles problemas de columna, se considera sufi-
+ciente dicha exploración.
+Se buscarán por palpación, aquellos puntos anatómicos dolorosos.
+Los movimientos que se deben explorar son:
+— Abducción
+— Flexión
+— Rotación externa
+— Addución
+— Extensión
+— Rotación interna
+60
+
+La existencia de sintomatología se investiga además con el ANEXO
+IV: Cuestionario de síntomas osteomusculares en trabajos con PVD,
+cuestionario dirigido o bien autoadministrado, que permite valorar la fre-
+cuencia de quejas a diferentes niveles: cintura escapular, cervical, dor-
+sal, lumbar y extremidades.
+Agrupamos los signos y síntomas que podemos encontrar, en gra-
+dos que siguen una progresión ascendente desde la normalidad hasta
+la limitación funcional.
+A fin de evaluar la opinión de cada trabajador-a, se recomienda la
+utilización del ANEXO VI: Cuestionario de características de la tarea en
+trabajos con PVD. Dicho cuestionario autoadministrado deberá ser apli-
+cado periódicamente y cada vez que la organización del puesto de tra-
+bajo se modifique de manera apreciable.
+3. VALORACIÓN DE LA CARGA MENTAL (ANEXO VIII)
+Se realizará una encuesta a cada trabajador-a: ANEXO VIII, que
+contiene siete apartados:
+— Información personal
+— Factores ambientales
+— Exigencias
+— Organización del trabajo
+— Sintomatología
+— Incapacidad laboral
+— Satisfacción personal en el trabajo
+Criterio médico
+Los resultados de esta evaluación deberán ser analizados conjunta-
+mente con el resto de los anexos, sobre todo con el ANEXO VI: Cuestio-
+nario de características de la tarea en trabajos con PVD, quedando a
+criterio médico la periodicidad de la evaluación y las consecuencias que
+de ella deriven.
+4. EDUCACIÓN HIGIÉNICO SANITARIA
+Los trastornos osteomusculares pueden verse aliviados mediante
+una actividad de tipo mixta facilitada por una correcta organización del
+trabajo. Así, se facilita una serie de pequeños ejercicios de ejecución in-
+dividual o colectiva. Dichos ejercicios gimnásticos de corta duración, re-
+lajarán la musculatura y favorecerán la irrigación sanguínea. ANEXO
+VII: Ejercicios físicos para trabajos con PVD.
+Todo-a trabajador-a deberá recibir una formación sobre las modali-
+dades de uso antes de comenzar el trabajo con pantalla. Asimismo, se
+le informará de los posibles riesgos para la salud que este trabajo con-
+lleva y de las medidas de prevención y protección que debe tomar para
+61
+
+evitarlos (tanto al comenzar este tipo de trabajo como cuando se modifi-
+que de manera apreciable).
+62
+
+EXÁMENES A DEMANDA DEL PERSONAL
+TRABAJADOR
+63
+
+BLANCA
+64
+
+Toda consulta relacionada con el estado de salud deberá ser atendi-
+da, a fin de detectar toda alteración debida a las condiciones de trabajo.
+65
+
+BLANCA
+66
+
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+   ESPECIFICO
+El protocolo de vigilancia de los-as trabajadores-as expuestos-as a
+PVD comprende un estudio del puesto de trabajo y una evaluación del
+riesgo, estableciéndose tres niveles de riesgo. Este estudio puede ser
+realizado por los técnicos del Servicio de Prevención.
+Asimismo la vigilancia de la salud se realizará a través del examen
+previo al inicio de trabajo con PVD. Este examen será realizado por per-
+sonal sanitario de manera que respete el derecho a la intimidad del per-
+sonal trabajador y la confidencialidad relativa a su estado de salud, de
+acuerdo con el artículo 22 de la Ley 31/1995 de Prevención de Riesgos
+Laborales.
+De la evaluación conjunta de ambos exámenes se establece un cro-
+nograma de actuación en relación a las características específicas de
+cada trabajador-a y al nivel de riesgo que se encuentra sometido, esta-
+bleciéndose la frecuencia de los exámenes periódicos. Como documen-
+tos de soporte a este protocolo aparecen los distintos anexos que se
+citan a continuación.
+5.1. Documentos
+Anexo I:
+Análisis del puesto de trabajo y evaluación del riesgo
+en trabajos con PVD.
+Anexo II:
+Cuestionario de función visual en trabajos con PVD
+Anexo III:
+Reconocimiento oftalmológico en trabajos con PVD
+Anexo IV:
+Cuestionario de síntomas osteomusculares en trabajos
+con PVD
+Anexo V:
+Examen osteomuscular en trabajos con PVD
+Anexo VI:
+Cuestionario de características de la tarea en trabajos
+con PVD
+Anexo VII:
+Ejercicios físicos en trabajos con PVD
+Anexo VIII:
+Cuestionario de valoración de la carga mental en traba-
+jos con PVD
+6. LEGISLACIÓN APLICABLE
+•
+Real Decreto 488/ 97 (BOE 14-4-97). Disposiciones mínimas de seguridad y
+salud relativas al trabajo con equipos que incluyen pantallas de visualización.
+•
+Ley 31/1995 de 8 de Noviembre (BOE 10-12-95) de Prevención de Riesgos La-
+borales.
+•
+Real Decreto. 39/1997 (BOE 31-1-97). Reglamento de los Servicios de Preven-
+ción.
+•
+Ley 13/82 de 7 de Abril (BOE 30-4-82) de integración social de los minusváli-
+dos.
+67
+
+OTRAS REGLAMENTACIONES DE APLICACIÓN: 
+•
+R.D. 485/ 97 (BOE 14-4-97). Disposiciones mínimas en materia de señalización
+de seguridad y salud en el trabajo.
+•
+R.D. 486/ 97 (BOE 14-4-97). Disposiciones mínimas de seguridad y salud en los
+lugares de trabajo.
+•
+R.D. 733/ 97.(BOE 12- 6-97). Disposiciones mínimas de seguridad y salud relati-
+vas a la utilización por los-as trabajadores-as de equipos de protección indivi-
+dual.
+7. BIBLIOGRAFÍA
+NORMATIVA TÉCNICA
+NORMA UNE EN 29241-1, 29241-2, 29241-3. Requisitos ergonómicos para trabajo
+de oficina con pantallas de visualización de datos (PVD). Parte1: Introducción general.
+Parte 2: Guía para los requisitos de la tarea. Parte 3: requisitos para las pantallas de vi-
+sualización de datos.
+NORMA ISO 7730 (EN- 27730): Moderate thermal environments. Determination of
+the PMV and PPD indices and specification of the conditions for thermal comfort
+NORMA UNE.72-112-85 Tareas visuales .Mayo 1985.
+NORMAS FRANCESAS AFNOR
+NF x 35-102 Dimensiones de los espacios de trabajo  
+NF x 35-103 Principios de la ergonomía visual aplicables a la iluminación de los lugares
+de trabajo 
+ NF 61-040. Mobiliario de oficinas :sillas.
+Instituto Nacional de Seguridad e Higiene en el Trabajo. Ergonomía. Madrid. 1994.
+Instituto Nacional de Seguridad e Higiene en el Trabajo. Psicosociología del trabajo.
+Madrid. 1995.
+Instituto Nacional de Seguridad e Higiene en el Trabajo. Guía Metodológica para el
+estudio Ergonómico del trabajo de cajera de Hipermercado. 
+Instituto Nacional de Seguridad e Higiene en el Trabajo La iluminación de los Luga-
+res de trabajo. Madrid 1994
+Instituto Nacional de Seguridad e Higiene en el Trabajo. La silla en el puesto de tra-
+bajo terciario. 1994
+APA- Asociación para la Prevención de Accidentes: El trabajo en ordenadores de
+pantalla, San Sebastián,1.988.
+GONZALEZ S.: La ergonomía y el ordenador, Ed. Marcombo, Barcelona, 1.990.
+Institut National de Recherche et de sécurité: L’aménagement des bureaux, principa-
+les données ergonomiques. Fiche practique de sécurité, ED 23, 1.990.
+Institut National de Recherche et de Sécurité: Le travail sur ecrán en 50 questions,
+Paris 1.991.
+Institut National de Recherche et de Sécurité: Les écrans de visualisation, guide met-
+hodologique pour le médecin de travail, Paris, 1.991.
+Instituto Nacional de Seguridad e Higiene del Trabajo: La seguridad en el trabajo de
+oficina, Documentos Técnicos.48, 1.988.
+Instituto Nacional de Seguridad e Higiene del Trabajo: Diseño del puesto de trabajo
+de operador, Documentos técnicos.49, 1989.
+68
+
+Organización Mundial de la Salud: Update on visual display terminals and worker’s
+Health. Ginebra, 1.985.
+Organización Mundial de la Salud: Terminaux à écran de visualitation et hygiène du
+travail.Ginebra 1989.
+PHILIPS: Manual de alumbrado, Ed. Paraninfo, Madrid, 1.988.
+69
+
+BLANCA
+70
+
+71
+
+BLANCA
+72
+
+ANEXO I: ANÁLISIS DEL PUESTO DE TRABAJO Y EVALUACIÓN
+DEL RIESGO EN PVD
+* Para la realización de este análisis sería recomendable disponer de:
+— Una cinta métrica
+— Un termohigrómetro
+— Un espejo de mano
+— Un anemómetro
+— Un luxómetro
+— Un sonómetro
+Fecha del estudio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+DATOS DE LA EMPRESA
+Empresa  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   CNAE  (    )
+Centro de trabajo  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Departamento o sección . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nº de trabajadores  . . . . . . . .
+Nº de trabajadores con PVD  . . . . . . . .
+DATOS DEL TRABAJADOR-A
+Apellidos y nombre  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PUESTO DE TRABAJO
+Descripción del puesto de trabajo  (CNO) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Tipo de trabajo:
+TIEMPO DE TAREA
+TIPO DE TAREA
+Esporádico
+Diálogo
+Semicontinuo: 2 - 4 h.
+Entrada datos
+Continuo: > 4 h.
+Mixto
+Procesador
+Programación
+Nº de horas y de pausas:
+Pausas
+Horas
+1ª
+2ª
+3ª
+4ª
+5ª
+6ª
+7ª
+8ª
+Observaciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+73
+
+A.
+CONCEPCIÓN DEL PUESTO DE TRABAJO
+1
+DIMENSIONES GENERALES
+Configuración del local
+Dibuje la disposición actual y compare con la ideal.
+Recomendaciones
+Las ventanas deberán de formar un ángulo de 90º con las mesas y deberán perma-
+necer alejadas. Deberán ir equipadas con un dispositivo adecuado y regulable para ate-
+nuar la luz
+No situarse de espaldas ni de frente a las ventanas.
+Las paredes y el mobiliario serán claros y mates, evitando superficies brillantes en el
+campo visual.
+PUNTUACIÓN
+ 1
+Buena disposición de los espacios.
+Respeto de las normas.
+ 2
+Situación intermedia.
+Posibilidad de mejora.
+ 3
+Situación incorrecta.
+Mal emplazamiento de mesas y luminarias.
+Llevar a perfil la puntuación obtenida
+Esquema disposición
+74
+
+75
+
+PUNTUACIÓN
+ 1
+La disposición y las dimensiones respetan las normas generales.
+ 2
+La concepción general del puesto, aunque aceptable, puede ser
+mejorada.
+ 3
+El puesto de trabajo es dificilmente accesible, con obstáculos a
+nivel de miembros inferiores e inconfort a nivel de tronco y
+miembros superiores. situación a revisar con urgencia.
+Llevar a perfil la puntuación obtenida
+76
+
+77
+
+DOCUMENTOS Y PORTADOCUMENTOS
+RECOMENDADO
+- ¿Los caracteres son adecuados?
+SÍ
+NO
+2 mm.
+- ¿El papel carece de brillo?
+SÍ
+NO
+- ¿Dispone de un atril?
+SI
+NO
+- ¿El atril es orientable?
+SÍ
+NO
+- ¿Está situado a la misma distancia que la
+pantalla?
+SÍ
+NO
+- ¿Está prevista iluminación de apoyo si la
+iluminación es menor de 300 Lux.?
+SÍ
+NO
+TECLADO
+- ¿Es independiente de la pantalla?
+SÍ
+NO
+- ¿Es regulable en inclinación?
+SÍ
+NO
+0-25º
+- ¿Su superficie es mate?
+SÍ
+NO
+- ¿El espesor es el adecuado?
+SÍ
+NO
+< 3 cm. en la 3ª fila
+- ¿Los símbolos son visibles fácilmente?
+SÍ
+NO
+- ¿La altura es adecuada a la tarea?
+SÍ
+NO
+TOTALES ...
+PUNTUACIÓN
+1
+Los puntos importantes se respetan. Existe una mayoría de SIES.
+2
+En general, respeto de puntos importantes, aunque se da cierto equilibrio de
+Sies y Noes.
+3
+No respeto de las normas. Equipos obsoletos con muchos puntos a corregir.
+Llevar a perfil la puntuación obtenida
+78
+
+AMBIENTE TÉRMICO
+Temperatura del aire
+Ta
+Humedad relativa
+Hr
+Ideal de 45 - 65%
+Velocidad del aire
+V
+PUNTUACIÓN
+Temperatura en º C
+>15
+16-17
+18 - 21
+22 - 24
+25-26
+PERFIL
+3
+2
+1
+2
+3
+Corregir por la velocidad del aire:
+- Si V de 0,5 - 1 m/sg.
+- Si V mayor de 1 m/sg.
+Los equipos instalados en el puesto de trabajo no deberán de producir un calor adicional que
+pueda ocasionar molestias a los-as trabajadores-as.
+(Considerar Invierno/Verano y Zona Geográfica de aplicación).
+Llevar a perfil la puntuación obtenida
+AMBIENTE SONORO
+El ruido en el puesto de trabajo con PVD debe ser lo más bajo posible.
+PUNTUACIÓN
+1
+Nivel equivalente de 40 a 55 dB. Comunicación y atención buenas.
+2
+Nivel equivalente de 55 a 65 dB. Comunicación con ligeras restricciones.
+3
+Nivel equivalente superior a 65 dB. Se perturba la atención y la palabra.
+Llevar a perfil la puntuación obtenida
+ASPECTO DEL PUESTO
+Estado de las superficies .................................................................................................
+Frecuencia de limpieza del ordenador .............................................................................
+Color paredes ................................, techos ................. , suelos ......................................
+Lámparas fundidas ..............................
+PUNTUACIÓN
+1
+Puesto claro, limpio y espacioso. Superficies mates.
+2
+Puesto más bien sucio, pinturas no atrayentes.
+3
+Puesto sucio y polvoriento, vetusto. Brillos. Mal mantenimiento.
+Llevar a perfil la puntuación obtenida
+- 2ºC
+- 3ºC
+4
+5
+6
+B. FACTORES ERGONÓMICOS
+79
+
+Llevar al siguiente esquema las luminancias e iluminancias para la tarea, el equipo y la peri-
+feria (10:3:1).
+Anotar asimismo la existencia de reflejos y su ubicación (ayudarse con un espejo)
+7
+ILUMINACIÓN
+La iluminación general y/o especial, deberá garantizar unos niveles adecuados de
+iluminación y unas relaciones adecuadas de luminancias entre la pantalla y su entorno,
+habida cuenta del carácter del trabajo, de las necesidades visuales del usuario-a y del
+tipo de pantalla utilizado. Se evitarán los deslumbramientos y reflejos molestos en la
+pantalla u otras partes del equipo.
+    Artificial:      — Directa: 
+                — Fluorescente . . . . . . . . . . . . . . . . . . . . . . . 
+                — Halógena . . . . . . . . . . . . . . . . . . . . . . . . . .
+                — Incandescente  . . . . . . . . . . . . . . . . . . . . . . 
+              — Indirecta:
+                — De apoyo  . . . . . . . . . . . . . . . . . . . . . . . . . 
+                — Pared-techo  . . . . . . . . . . . . . . . . . . . . . . . 
+Índice de rendimiento de colores:             (ideal > 80)
+Nivel de iluminación en Lux:
+Recomendaciones
+   El nivel de iluminación requerido es de 300 a 1000 Lux, en función del tipo de tarea
+   (con lectura o sin ella).
+   Las luminarias deberán de suministrar un reparto uniforme, llevarán rejillas para evitar
+   el deslumbramiento directo e indirecto, las hileras estarán perpendiculares a las mesas
+   de trabajo y serán de baja luminancia.
+PUNTUACIÓN
+ 1
+Buena repartición y luminosidad. No reflejos.
+ 2
+Luminosidad inadecuada o reparto desigual.
+ 3
+Fuertes deslumbramientos o reflejos molestos.
+            Llevar a perfil la puntuación obtenida
+80
+
+81
+
+C. FACTORES PSICOLÓGICOS Y SOCIOLÓGICOS
+9
+CARGA MENTAL
+PUNTUACIÓN
+ 1
+Carga normal, nivel de atención medio.
+ 2
+Ligera sobrecarga o subcarga. Posibilidad de error.
+ 3
+Gran sobrecarga de trabajo. Atención elevada o número de
+decisiones elevado (o todo lo contrario)
+            Llevar a perfil la puntuación obtenida
+10
+AUTONOMÍA
+   Grado de autonomía individual es la posibilidad de variar la marcha de trabajo y la posibilidad
+   de abandonar el puesto de trabajo.
+PUNTUACIÓN
+ 1
+Posibilidad de variar el ciclo de trabajo. Posibilidad de dejar el
+puesto durante 15 a 30 minutos.
+ 2
+Cierta posibilidad de variar la marcha del trabajo. Posibilidad de
+dejar el puesto de 5 a 10 minutos.
+ 3
+Nula posibilidad de dejar el puesto o de variar el ciclo.
+            Llevar a perfil la puntuación obtenida
+11
+RELACIONES DE TRABAJO
+PUNTUACIÓN
+ 1
+Relaciones facilitadas. Trabajo en equipo
+ 2
+Las relaciones de trabajo son independientes pero existe una
+relación de grupo.
+ 3
+El operador-a está aislado en su trabajo. Sólo es posible la
+relación en las pausas.
+            Llevar a perfil la puntuación obtenida
+82
+
+12
+REPETITIVIDAD MONOTONÍA
+PUNTUACIÓN
+ 1
+Duración del ciclo de más de 15 minutos. Rotación interna.
+ 2
+Duración del ciclo corta. Cierta rotación de los puestos.
+ 3
+Ciclos repetitivos y nula rotación de puestos.
+            Llevar a perfil la puntuación obtenida
+13
+CONTENIDO DEL TRABAJO
+PUNTUACIÓN
+ 1
+Programas adaptados, fáciles de utilizar. Las informaciones y su
+presentación son coherentes y de ritmo adecuado. El sistema
+permite ir hacia atrás y la corrección de errores.
+ 2
+Programas de dificultad de utilización media. Ayudas relativas
+para su utilización.
+ 3
+Información presentada en formato y ritmo inadecuado. No existe
+la retroalimentación. Programas claramente inadaptados.
+            Llevar a perfil la puntuación obtenida
+83
+
+PERFIL ANALÍTICO. EVALUACIÓN GLOBAL DEL RIESGO
+Con la gráfica obtenida tendremos una impresión general que se interpretará aten-
+diendo a los siguientes criterios:
+NIVEL  DE  RIESGO
+SIGNIFICADO
+I
+Situación correcta. Sin riesgo. Riesgo trivial. Factor
+satisfactorio.
+II
+Situación aceptable. Riesgo aceptable o moderado.
+Factor a mejorar si fuera posible.
+III
+Situación insatisfactoria. Riesgo inaceptable que
+precisa corrección.
+Rellenar la siguiente gráfica trasladando las puntuaciones obtenidas y trazando una
+línea de unión entre ellas, obteniendo así un perfil del puesto.
+FACTOR
+1
+2
+3
+FECHA
+CORRECCIÓN
+A. CONCEPCIÓN DEL PUESTO
+  1. Configuración del local.
+  2. Disposición del puesto.
+  3. Equipos y emplazamiento.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+B. FACTORES ERGONÓMICOS
+  4. Ambiente térmico.
+  5. Ambiente sonoro.
+  6. Aspecto del puesto.
+  7. Iluminación.
+  8. Carga postural.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+C. FACTORES PSICOLÓGICOS Y
+  SOCIOLÓGICOS
+  9. Carga mental.
+  10. Autonomía.
+  11. Relaciones del trabajo.
+  12. Repetitividad, monotonía.
+  13. Contenido del trabajo.
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* La línea punteada es un ejemplo
+Investigado por . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+EVALUACIÓN GLOBAL DEL RIESGO:                NIVEL OBTENIDO
+        * Siempre que exista un 3: NIVEL III
+          Si  hay más doses que unos: NIVEL II
+          Si  hay mayoría de puntos uno: NIVEL I
+84
+
+CRONOGRAMA DE ACTUACIÓN
+Tras el análisis del puesto de trabajo y la evaluación del riesgo.
+La actuación en cada nivel será la siguiente:
+— NIVEL DE RIESGO I: Evaluación del riesgo y realización de un
+    examen periódico específico cada 4 años.
+— NIVEL DE RIESGO II: Corrección de las anomalías detectadas
+    (período de corrección de 1 año) verificación de la corrección y
+    examen periódico específico al año.
+— NIVEL DE RIESGO III: Corrección de las anomalías detectadas
+    (período de corrección de 6 meses) verificación de la corrección y
+    examen periódico específico a los 6 meses.
+Dadas las condiciones especiales de los mayores de 40 años, es reco-
+mendable realizar el examen periódico específico cada 2 años.
+En caso de que el-la trabajador-a presente alguna queja relacionada
+con las condiciones de su puesto de trabajo, aplicaremos el protocolo co-
+menzando con el análisis del puesto de trabajo y la valoración de su riesgo,
+actuando en consecuencia. 
+85
+
+ANEXO II: CUESTIONARIO DE FUNCIÓN VISUAL EN TRABAJOS
+CON PVD
+Apellidos y Nombre . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Sexo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . . . . . . . . . . 
+Edad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Actividad . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Años de trabajo con PVD . . . . . . . . . . . . . . . . . . . . . . . . 
+Durante el trabajo, se siente molesto-a por:
+1. La falta de nitidez de los caracteres      SÍ         NO 
+2. El centelleo de los caracteres o del fondo    SÍ         NO
+3. Los reflejos de la pantalla                    SÍ         NO
+4. La iluminación artificial                                           SÍ         NO
+5.  La iluminación natural                      SÍ         NO
+6. Otras causas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Durante o después del trabajo, siente usted:
+1. Picores en los ojos
+Muy a menudo
+A veces
+Raramente
+Nunca
+2. Quemazón en los ojos
+Muy a menudo
+A veces
+Raramente
+Nunca
+3. Una sensación de ver peor
+Muy a menudo
+A veces
+Raramente
+Nunca
+4. Una sensación de visión borrosa
+Muy a menudo
+A veces
+Raramente
+Nunca
+5. Dolores de cabeza
+Muy a menudo
+A veces
+Raramente
+Nunca
+6. Deslumbramiento, estrellitas, luces.
+Muy a menudo
+A veces
+Raramente
+Nunca
+7. Otras sensaciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ 
+86
+
+ANEXO III: RECONOCIMIENTO OFTALMOLÓGICO EN
+TRABAJOS CON PVD
+                  Fecha:  
+DATOS PERSONALES Y LABORALES
+Apellidos y nombre: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Fecha de nacimiento: . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Trabajos anteriores: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Trabajo en pantalla:  
+  Sí
+                                  
+  No
+En caso afirmativo: Tipo de trabajo: Programación 
+ ; diálogo 
+ ;  recogida de
+datos 
+ ; tratamiento de texto 
+ ; tarea de tipo mixto 
+ .
+Duración del trabajo en pantalla  < 2 horas 
+ ; de 2 a 4 horas 
+ ; >4 horas 
+ .
+Otras actividades: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+ANTECEDENTES LABORALES Y OCULARES
+Personales: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Familiares: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Laborales-oculares: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+EXPLORACIÓN ÓRGANO DE LA VISIÓN
+INSPECCIÓN: 
+ Exoftalmia 
+ Asimetría 
+ Estrabismo 
+ Conjuntivitis 
+ Blefaritis    
+                      
+ Orzuelos 
+ Chalación 
+ Opacidad corneal 
+ Arco senil
+                      Otros: . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+AGUDEZA VISUAL
+En el último año su visión: 
+ Ha mejorado   Usa gafas: 
+ Para cerca
+                                           
+ Ha empeorado                        
+Para lejos
+                                           
+ Está igual                                
+ Lentillas
+Año en el que se puso gafas o lentillas: . . . . . . . . . . . . . 
+Año de la última graduación: . . . . . . . . . . . . . . . . . . . . . 
+Adaptación a las gafas o lentillas: 
+  Buena
+                                                          
+  Mala
+                                                          
+  Regular
+AGUDEZA VISUAL
+VISIÓN LEJANA
+VISIÓN DISTANCIA TRABAJO
+SIN CORRECCIÓN
+CON CORRECCIÓN
+SIN CORRECCIÓN
+CON CORRECCIÓN
+O.D.
+O.I.
+87
+
+REFRACCIÓN OCULAR
+VISIÓN LEJANA
+VISIÓN DISTANCIA TRABAJO
+SIN CORRECCIÓN
+CON CORRECCIÓN
+SIN CORRECCIÓN
+CON CORRECCIÓN
+O.D.
+O.I.
+EQUILIBRIO MUSCULAR
+OJO DERECHO
+OJO IZQUIERDO
+REFLEJOS PUPILARES (REFLEJO FOTOMOTOR)
+OJO DERECHO
+OJO IZQUIERDO
+MOTILIDAD EXTRÍNSECA
+OJO DERECHO
+OJO IZQUIERDO
+VISIÓN CROMÁTICA:
+         
+ Nula 
+ Colores primarios 
+ Colores primarios y matices
+Remitido al oftalmólogo: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Otras exploraciones: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Próxima revisión: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+88
+
+INFORMACIÓN AL OFTALMÓLOGO EN CASO DE PETICIÓN
+DE EXAMEN COMPLEMENTARIO
+Apellidos y  Nombre: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Sexo: . . . . . . . . . . . . . .  Edad: . . . . . . . . . . . . . . . . . . 
+Actividad: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Fecha del último examen oftalmológico: . . . . . . . . . . . . 
+ADJUNTAR ANEXO II y III.
+Solicitud de valoración:
+                  Firma del médico reconocedor
+Fecha . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Informe oftalmológico . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Se recomienda revisión cada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+                 Firma del Oftalmólogo
+ 
+89
+
+90
+
+ANEXO V: EXAMEN DEL SISTEMA OSTEOMUSCULAR EN
+TRABAJOS CON PVD
+COLUMNA VERTEBRAL
+DESVIACIÓN EJE ANTERO-POSTERIOR
+Curvas Fisiológicas Ant-Post
+Normal
+Aumentada
+Disminuida
+Cervical
+Dorsal
+Lumbar
+DESVACIONES DEL EJE LATERAL
+Eje lateral
+Normal
+Concavidad
+derecha
+Concavidad
+izquierda
+Dorsal
+Lumbar
+MOVILIDAD - DOLOR
+Flexión
+Extensión
+Lateralización
+izquierda
+Lateralización
+derecha
+Rotación
+derecha
+Rotación
+izquierda
+Irradiación
+Cervical
+Dorso lumbar
+PALPACIÓN
+Apófisis espinosas dolorosas
+Contractura muscular
+Columna cervical
+Columna dorsal
+Columna lumbar
+ARTICULACIONES: MOVILIDAD - DOLOR
+Articulación
+Adducción
+Adducción
+Flexión
+Extensión
+Rot. externa
+Rot. interna
+Irradiación
+Hombro
+Dch.
+Izq.
+Codo
+Dch.
+Izq.
+Muñeca
+Dch.
+Izq.
+Cadera
+Dch.
+Izq.
+Rodilla
+Dch.
+Izq.
+Tobillo
+Dch.
+Izq.
+91
+
+SIGNOS Y SÍNTOMAS
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Dolor en reposo y/o existencia de sintomatología sugestiva.
+Grado 2
+Grado 1 más contractura y/o dolor a la movilización.
+Grado 3
+Grado 2 más dolor a la palpación y/o percusión
+Grado 4
+Grado 3 más limitación funcional evidente clínicamente.
+92
+
+93
+
+94
+
+DISPOSICIÓN ÓPTIMA
+POSTURA ÓPTIMA
+— Los pies reposan planos en el suelo.
+— El ángulo entre el brazo y el antebrazo es entre 90º y 100º y los codos cerca del tronco.
+— El ángulo cabeza-tronco es ligeramente inferior a 180º.
+95
+
+96
+
+ANEXO VIII: CUESTIONARIO DE VALORACIÓN DE LA CARGA
+MENTAL EN TRABAJOS CON PVD
+Conteste a las siguientes preguntas.
+1. Tipo de contrato:
+   — Fijo  
+   — Eventual 
+   — Otros  
+2. Duración de la jornada laboral: 
+ horas/Semana
+3. ¿Tiene usted pausas durante la jornada laboral  (excluyendo bocadillo, comida)?
+   — Sí 
+   — Nº de pausas/día: 
+   — Duración de cada pausa: 
+ minutos   
+   — No 
+ 
+4. ¿Alguno de los factores que se señalan a continuación le resulta especialmente
+   molesto?
+   — Frío  
+   — Calor  
+   — Sequedad ambiental  
+   — Corrientes de aire  
+   — Ruido molesto  
+   — Mala iluminación  
+   — Reflejos molestos  
+   — Ninguno  
+   — Otros (indique cuales) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+     
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+5. Alguna de estas causas que le producen nerviosismo o estrés en el trabajo:
+   — Control por parte de los jefes 
+   — Atención para evitar cometer errores 
+   — Rapidez en la realización del trabajo 
+   — Atención a los clientes 
+   — Dificultad para ausentarse del puesto 
+   — Memorización excesiva 
+   — Tener que dar una respuesta rápida al cliente  
+   — Exceso de clientes 
+   — Sensación de que le domina la máquina 
+   — Tener la sensación de "no dar a basto" 
+6. ¿Hasta qué punto le molestan los siguientes aspectos de su trabajo?
+                         Nada Bastante Mucho
+— La relación con sus jefes
+— La dificultad para poder hablar con sus compañeros 
+— Que sus opiniones no se tengan en cuenta
+— Que no atiendan sus quejas
+   
+   
+   
+   
+   
+   
+   
+   
+97
+
+— La inestabilidad
+— La dificultad de ascenso
+— El horario
+— El tipo de jornada
+7. Si padece frecuentemente alguna de las siguientes alteraciones, indique cuales,
+señalándolas con una X:
+— Alteraciones del sueño 
+— Angustia 
+— Ansiedad 
+— Cansancio 
+— Depresión 
+— Dolores de cabeza 
+— Diarreas 
+— Dificultad de concentración 
+— Irritabilidad 
+— Nerviosismo 
+— Olvidos frecuentes 
+— Palpitaciones 
+— Trastornos digestivos 
+— Temblores 
+— Ninguna 
+— Otras (indique cuales) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+8. ¿Ha faltado a su trabajo por alguno de los motivos anteriormente citados?
+— Sí 
+  . . . . . . . . . . Diagnóstico médico . . . . . . . . . . . . . . . . . . . . . . . . . 
+— Baja laboral: Sí 
+. . . . . . . . . . . . . . . . . . . . . . . . 
+                               No 
+— No 
+   
+   
+   
+   
+   
+   
+   
+   
+98

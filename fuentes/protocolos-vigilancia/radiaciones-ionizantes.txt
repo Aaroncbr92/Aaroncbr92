@@ -1,0 +1,1550 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA 
+RADIACIONES IONIZANTES 
+COMISION DE SALUD PÚBLICA 
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD 
+1
+
+COMISIÓN DE SALUD PÚBLICA 
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE 
+SALUD PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL 
+SISTEMA NACIONAL DE SALUD 
+COORDINACIÓN DEL PROTOCOLO 
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid. 
+Mercedes Bezares González. Ministerio de Sanidad y Consumo. Madrid. 
+AUTORES
+Fernando García Escandón. Asociación Española de la Industria Eléctrica (UNESA). 
+María Amparo Fernández González. Asociación Española de la Industria Eléctrica (UNESA). 
+Rafael Castell Salvá. Comunidad Autónoma de las Islas Baleares. 
+Agustín  Valls Fontanals. Policlínica Miramar. Palma de Mallorca. 
+GRUPO DE TRABAJO DE SALUD LABORAL
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid. 
+Rosario Castañeda López. Ministerio de Sanidad y Consumo. Madrid.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra 
+Esther Busquets Bou. Consejería de Sanidad y Seguridad Social.Cataluña. 
+Rafael Castells Salvá. Comunidad Autónoma Islas Baleares. 
+Rosa Maria Campos Acedo. Consejería de Sanidad y Consumo. Extremadura.
+Juan Carlos Coto Fernández. Instituto Vasco  de Seguridad y Salud Laboral. País Vasco. 
+Mercedes Elvira Espinosa. Consejería de Sanidad y Bienestar Social. Castilla y León. 
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias. 
+Valentín Esteban Buedo. Consejería de Sanidad. Valencia. 
+Fernando Galvañ Olivares. Consejería de Sanidad y Consumo. Murcia. 
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra. 
+Isabel González García. Consejería de Sanidad y Servicios Sociales.Galicia. 
+Asunción Guzmán Fernández. Consejería de Salud y Servicios Sanitarios. Asturias. 
+Nieves Martínez Arguisuelas. Consejería de Salud, Consumo y Servicios Sociales. Aragón. 
+Lourdes Miralles Martínez-Portillo. Consejería de Salud, y Servicios Sociales. La Rioja. 
+Alberto Montilla Sanchez de Navas. Consejería de Sanidad. Castilla-La Mancha. 
+Alfredo Rubio Sanz. Consejería de Salud. Comunidad  Autónoma de Andalucía.
+Marta Zimmermann Verdejo. Consejería de Sanidad. Comunidad de Madrid.
+2
+
+PONENCIA DE PROTECCION RADIOLÓGICA 
+Mercedes Bezares González. Ministerio de Sanidad y Consumo. Madrid. 
+Jesús Castro Catalina. Ministerio de Sanidad y Consumo. Madrid. 
+Izaskun Lastra Villaverde.  Consejería de Sanidad. Vitoria-Gasteiz. 
+Esther Busquets Bou. Consejería de Sanidad y Seguridad Social. Cataluña. 
+Julio García Comesaña. Servicio Gallego de Salud. Santiago de Compostela.
+Javier García Rotllán. Servicio Andaluz de Salud. Andalucía. 
+Pedro Rodríguez Rodríguez . Consejería de Salud y Servicios Sanitarios. Oviedo. 
+Encarnación Vaquero Fernández. Consejería de Sanidad y Servicios Sociales. Santander. 
+Adolfo Cestafe Martínez. Consejería de Salud. Logroño. 
+Mª. Elisa Gómez Campoy. Consejería de Sanidad. Murcia. 
+Bonifacio Tobarra González. Servicio Murciano de Salud. El Palmar (Murcia). 
+Juan Ignacio Villaescusa Blanca. Consejería de Sanidad.  Valencia. 
+María Luisa Dolla Cuartero. Consejería de Salud y Consumo. Zaragoza. 
+José Ignacio Gaspar Escayola. Consejería de Salud y Consumo. Zaragoza. 
+Soledad López Sánchez-Elez. Consejería de Sanidad.  Toledo. 
+Salvador Raúl Ramos de la Plaza. Servicio Canario de la Salud. Las Palmas de Gran Canaria. 
+Nieves Ascunce Elizaga. Consejería de Salud. Pamplona.
+Francisco Javier Sada Goñi. Consejería de Salud. Pamplona.
+Juan José Peña Bernal. Consejería de Sanidad y Consumo. Badajoz. 
+Jaume Pol Pons. Consejería de Salud y Consumo.  Palma de Mallorca. 
+Delfín Alonso Hernández. Consejería de Sanidad.  Madrid. 
+Teresa Sánchez Mozo. Consejería de Sanidad. Madrid. 
+Ana Mª de la Calle González. Consejería de Sanidad. Valladolid. 
+Francisco Márquez de la Rubia. Consejería de Sanidad y Bienestar Social. Ceuta. 
+Carmen Álvarez García. Consejo de Seguridad Nuclear.  Madrid. 
+Manuel Rodríguez Martí. Consejo de Seguridad Nuclear  Madrid. 
+María Fernanda Sánchez Ojanguren. Consejo de Seguridad Nuclear.  Madrid. 
+Miguel Herrador Córdoba.Servicio Andaluz de Salud (SAS).  Sevilla. 
+Eliseo Vañó Carruana.  Facultad de Medicina. Universidad Complutense. Madrid. 
+Director General de Salud Pública del Ministerio de Sanidad y Consumo 
+José María Martín Moreno 
+Subdirector General de Sanidad Ambiental y Salud Laboral
+Francisco Marqués Marqués 
+3
+
+PRESENTACIÓN
+Este volumen pertenece a la serie "Protocolos de Vigilancia Sanitaria", editados por el 
+Ministerio de Sanidad y Consumo y fruto del trabajo desarrollado por las Administraciones
+Sanitarias a través del Grupo de Trabajo de Salud Laboral de la Comisión de Salud Pública 
+del Consejo Interterritorial del Sistema Nacional de Salud, como contribución a las 
+actividades de prevención de riesgos laborales en nuestro país. 
+El nuevo marco normativo en materia de prevención de riesgos laborales (Ley 
+31/1995, de 8 de noviembre, y normas de desarrollo) supone, entre otras cuestiones, que debe 
+cambiar radicalmente la práctica de los reconocimientos médicos que se realizan a las y los 
+trabajadores. De ser exámenes médicos inespecíficos, cercanos a los clásicos chequeos o 
+cribados de carácter preventivo general, deben pasar a ser periódicos, específicos frente a los 
+riesgos derivados del trabajo, con el consentimiento informado del trabajador, y no deben ser 
+utilizados con fines discriminatorios ni en perjuicio del trabajador. 
+Además de reconocer el derecho de todos los trabajadores a la vigilancia periódica de 
+su salud, incluso prolongándola más allá de la finalización de la relación laboral en algunos 
+supuestos, la ley encomienda a las administraciones sanitarias la tarea de dar homogeneidad y 
+coherencia a los objetivos y contenidos de la vigilancia de la salud, mediante la elaboración 
+de protocolos y guías de actuación, con la mirada puesta en implantar un modelo de vigilancia 
+de la salud en el trabajo que sea eficaz para la prevención. 
+El poder contar con criterios uniformes basados en la evidencia científica y la 
+experiencia profesional de los participantes en los grupos de trabajo constituidos para su 
+elaboración, permitirá alcanzar los objetivos de prevención de la enfermedad y promoción de 
+la salud de las y los trabajadores. 
+Efectivamente, ya establecido en la Ley General de Sanidad: "Vigilar la salud de los 
+trabajadores para detectar precozmente e individualizar los factores de riesgo y deterioro que 
+puedan afectar a la salud de los mismos", la recogida armonizada y periódica de datos sobre 
+4
+
+riesgos y enfermedades y su posterior análisis e interpretación sistemáticos con criterios 
+epidemiológicos, constituye uno de los instrumentos con que cuenta la salud pública para 
+poder identificar, cuantificar y priorizar, y por lo tanto, diseñar políticas de prevención 
+eficaces.
+Para la elaboración de los protocolos, se constituyeron varios grupos de trabajo, que, 
+coordinados por los representantes de las Comunidades Autónomas, permitiese la elaboración 
+en paralelo de varios de ellos.  Finalmente, una vez concluido el procedimiento interno de 
+elaboración de los mismos, han sido sometidos a consulta y adecuadamente informados por 
+Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Sociedades Científicas 
+(SEMST, SEEMT, AEETSL, SESPAS y SEE), con cuyos representantes se mantuvieron
+reuniones al efecto, en el Ministerio de Sanidad y Consumo, habiéndose incorporado a la 
+redacción final los comentarios recibidos que se consideró mejoraban el texto presentado.
+El que se presenta en este volumen proporciona a los profesionales implicados en la 
+prevención de riesgos laborales, especialmente a los sanitarios, una guía de actuación para la 
+vigilancia sanitaria específica de las y los trabajadores expuestos a radiaciones ionizantes, que 
+será revisado periódicamente, en la medida que así lo aconseje la evolución de la evidencia 
+científica disponible y su aplicación concreta en los centros de trabajo de nuestro país. 
+José María Martín Moreno 
+Director General de Salud Pública
+5
+
+SUMARIO
+INTRODUCCIÓN......................................................................................................................................8
+1. CRITERIOS DE APLICACION............................................................................................................9
+2. DEFINICIÓN DEL PROBLEMA.....................................................................................................13
+2.1. DEFINICIONES Y CONCEPTOS. ........................................................................................................13
+2.2. EPIDEMIOLOGÍA..............................................................................................................................16
+2.2.1. MAGNITUD DEL PROBLEMA........................................................................................................16
+2.2.2. FACTORES DE RIESGO .................................................................................................................17
+2.3. ETIOPATOGENIA Y EFECTOS BIOLÓGICOS DE LAS RADIACIONES IONIZANTES................................17
+3. EVALUACIÓN DEL RIESGO. ........................................................................................................20
+4. - PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA ...................................................22
+4.1. HISTORIA LABORAL........................................................................................................................24
+4.1.1. 
+Exposiciones anteriores, (anamnesis laboral..................................................................... 24 
+4.1.2.
+Exposición actual al riesgo............................................................................................... .24 
+4.2. HISTORIA CLÍNICA........................................................................................................................ 25 
+4.2.1. 
+Anamnesis............................................................................................................................25
+4.2.2. 
+Exploración clínica............................................................................................................ .27 
+4.3. CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTARIOS ESPECÍFICOS. ...........................................28
+4.3.1.
+Análisis de sangre............................................................................................................. ..28 
+4.3.2.
+Análisis de orina..................................................................................................................29
+4.3.3. 
+Otras exploraciones.............................................................................................................30
+4.4.
+CRITERIOS DE VALORACIÓN EN CASO DE SUPERACIÓN DE LOS LÍMITES DE DOSIS........................30
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO DE VIGILANCIA SANITARIA 
+ESPECÍFICA......................................................................................................................................32
+6. CONDUCTA A SEGUIR SEGÚN LOS RESULTADOS DE LA VIGILANCIA SANITARIA..33
+6.1. 
+EN RELACIÓN A LA EXPLORACIÓN OFTALMOLÓGICA...................................................................33
+6.2. 
+EN RELACIÓN AL EXAMEN DERMATOLÓGICO ..............................................................................34
+6.3. 
+EN RELACIÓN AL ESTUDIO OTORRINOLARINGOLÓGICO ...............................................................34
+6.4. 
+EN RELACIÓN AL EXAMEN DEL APARATO RESPIRATORIO.............................................................34
+6.5. 
+EN RELACIÓN AL EXAMEN DEL APARATO DIGESTIVO ..................................................................34
+6.6. 
+EN RELACIÓN AL CONJUNTO DE PARÁMETROS HEMATOLÓGICOS ................................................35
+6.7. 
+EN RELACIÓN AL EXAMEN CARDIOVASCULAR.............................................................................35
+6.8. 
+EN RELACIÓN CON EL EXAMEN DE LA FUNCIÓN RENAL Y URINARIA ............................................35
+6.9. 
+EN RELACIÓN CON EL EXAMEN NEUROLÓGICO Y EVALUACIÓN MÉDICO-PSICOLÓGICA................35
+6.10. EN RELACIÓN CON EL EXAMEN ENDOCRINOLÓGICO ...................................................................35
+6.11. EN RELACIÓN CON LA PROTECCIÓN ESPECIAL DURANTE EL EMBARAZO Y LA LACTANCIA..........36
+6.12. EN RELACIÓN CON LA EDAD .........................................................................................................36
+7. - LEGISLACIÓN APLICABLE .........................................................................................................37
+8. BIBLIOGRAFIA.................................................................................................................................41
+6
+
+ANEXOS
+ANEXO A: MODELO DE CERTIFICACIÓN MÉDICA DE APTITUD 
+ANEXO B: OTRAS DEFINICIONES Y CONCEPTOS 
+ANEXO C: ESQUEMA DE ACTUACIÓN 
+7
+
+INTRODUCCIÓN
+La ley de Prevención de Riesgos Laborales1 en su artículo 22 se refiere a la vigilancia de 
+la salud de los trabajadores, obligando al empresario a garantizar a los trabajadores la vigilancia 
+de la salud en función de los riesgos inherentes a su trabajo. Estos reconocimientos se realizarán 
+para evaluar los efectos de las condiciones de trabajo o para verificar si el estado de salud del 
+trabajador puede constituir un peligro para el mismo, para los demás trabajadores o para otras 
+personas relacionadas con la empresa, o cuando lo recomiende la normativa por ser actividades 
+de especial riesgo como es el caso de las Radiaciones Ionizantes2, 3.
+En concordancia con la legislación anterior, en el Reglamento de Protección Sanitaria 
+contra Radiaciones ionizantes (R.D. 783/2001)2 se establece que la vigilancia sanitaria de los 
+trabajadores expuestos se basará en los principios generales de Medicina del Trabajo y en la Ley 
+31/1995, de 8 de noviembre sobre Prevención de Riesgos Laborales y Reglamentos que la 
+desarrollan3,4,5,6,7,8,9,10,11.
+El Real Decreto 39/1997 Reglamento de los Servicios de Prevención3, en su artículo 37 
+establece  las condiciones en las que se debe realizar la vigilancia de la salud de los trabajadores: 
+Los Exámenes de Salud serán realizados por personal sanitario acreditado de un Servicio de 
+Prevención (propio o ajeno). Además la Vigilancia de la salud estará sometida a protocolos 
+específicos u otros medios existentes con respecto a los factores de riesgo a los que esté expuesto 
+el trabajador. Los contenidos de los protocolos y la periodicidad de los mismos serán 
+establecidos por el Ministerio de Sanidad y Consumo y las Comunidades Autónomas.
+En base a las conclusiones de la articulación de la legislación, se ha desarrollado el 
+presente Protocolo de Vigilancia Sanitaria Específica, cuyo objetivo es orientar las actuaciones 
+del personal sanitario responsable de la vigilancia sanitaria de todos los trabajadores (categoría A 
+y B) expuestos a riesgo de radiaciones ionizantes. 
+La actual normativa en prevención de riesgos laborales pretende crear una cultura 
+prevencionista y de colaboración en todos los ámbitos sociales,  por ello, cuando se trate de 
+8
+
+trabajadores externos, el personal sanitario del Servicio de Prevención de la Instalación 
+Nuclear y/o Radiactiva, podrá comprobar, en el momento del acceso a la Instalación, que se 
+mantiene la aptitud del trabajador para el trabajo a desempeñar (Real Decreto 39/1997, por el 
+que se aprueba el Reglamento de los servicios de prevención; Real Decreto 783/2001, por el 
+que se aprueba el Reglamento sobre protección sanitaria contra radiaciones ionizantes; y Real 
+Decreto 413/1997, sobre protección operacional de los trabajadores externos con riesgos de 
+exposición a radiaciones ionizantes por intervención en zona controlada). 
+9
+
+1.
+CRITERIOS DE APLICACIÓN 
+El objeto de este protocolo es prevenir y limitar la posible patología producida por las 
+radiaciones ionizantes. 
+La detección precoz  de determinados síntomas y signos, la identificación de factores 
+de riesgo concomitantes y el despistaje y diagnóstico precoz de determinadas alteraciones, 
+facilita una adecuada y temprana intervención de forma que se prevenga la aparición de 
+ciertas patologías. También evita que se pueda agravar patología previamente existente. 
+Sin excluir alguna otra ocupación o tarea laboral con exposición a radiaciones 
+ionizantes, este protocolo se aplicará a todas las prácticas que impliquen un riesgo derivado de 
+las radiaciones ionizantes, que procedan de una fuente artificial, o bien, de una fuente natural 
+de radiación cuando los radionucleidos naturales son o han sido procesados por sus 
+propiedades radiactivas, fisionables o fértiles, a saber 2:
+La explotación de minerales radiactivos, la producción, tratamiento, manipulación,
+utilización, posesión, almacenamiento, transporte, importación, exportación, 
+movimiento intracomunitario y eliminación de sustancias radiactivas. 
+x
+x
+x
+x
+La operación de todo equipo eléctrico que emita radiaciones ionizantes y que 
+contenga componentes que funcionen a una diferencia de potencial superior a 5 
+kV.
+La comercialización de fuentes radiactivas y la asistencia técnica de equipos que 
+incorporen fuentes radiactivas o sean productores de radiaciones ionizantes. 
+Cualquier otra práctica que la Autoridad competente, por razón de la materia,
+previo informe del Consejo de Seguridad Nuclear, considere oportuno definir. 
+10
+
+También se aplicará a los trabajadores de empresas externas a las que se refiere el R.D. 
+413/199712.
+Además, será de aplicación a toda actividad laboral, no citada anteriormente pero que 
+suponga la presencia de fuentes naturales de radiación, dando lugar a un aumento
+significativo de la exposición de los trabajadores, de forma que, una vez realizados los 
+estudios pertinentes, pueda ser considerada, por la Autoridad Competente, un riesgo desde el 
+punto de vista de protección radiológica. Entre las actividades que deben ser sometidas a 
+dicha revisión se incluyen las siguientes2:
+a) Actividades laborales en que los trabajadores estén expuestos a la inhalación de 
+descendientes de torón o de radón o a la radiación gamma o a cualquier otra 
+exposición en lugares de trabajo tales como establecimientos termales, cuevas, 
+minas, lugares de trabajo subterráneos o no subterráneos en áreas identificadas.
+b) Actividades laborales que impliquen el almacenamiento o la manipulación de 
+materiales que habitualmente no se consideran radiactivos pero que contengan 
+radionucleidos naturales que provoquen un incremento significativo de la 
+exposición de los trabajadores. 
+c) Actividades laborales que generen residuos que habitualmente no se consideran 
+radiactivos pero que contengan radionucleidos naturales que provoquen un 
+incremento significativo en la exposición de los trabajadores. 
+d) Actividades laborales que impliquen exposición a la radiación cósmica durante la 
+operación de aeronaves. 
+Por otro lado, previa consideración de los conceptos y definiciones recogidos en el 
+punto 2º de este documento el presente protocolo de vigilancia sanitaria se aplicará, a los 
+trabajadores y en los casos que a continuación se especifica: 
+i Toda persona que vaya a ser clasificada como trabajador expuesto de "Categoría A" 
+11
+
+deberá ser sometida a un Examen de Salud Inicial2,3 que permita evaluar el estado de 
+salud del trabajador, decidir su aptitud para el trabajo y comprobar que no presenta 
+alteraciones que puedan ser agravadas por el trabajo y que no existen incompatibilidades.
+Este examen de salud, tendrá por objeto la obtención de una historia clínica que incluya el 
+conocimiento del tipo de trabajo realizado anteriormente y de los riesgos a que ha estado 
+expuesto como consecuencia del mismo y, en su caso del historial dosimetrico que debe 
+ser aportado por el trabajador. 
+i Los trabajadores de “Categoría A” estarán sometidos, además, a Exámenes de Salud 
+Periódicos2,3 que permitan comprobar que las condiciones de trabajo no están generando 
+efectos nocivos sobre la salud del trabajador y que siguen siendo aptos para ejercer sus 
+funciones. Estos exámenes se realizarán cada 12 meses o más frecuentemente, si lo 
+hiciera necesario, a criterio médico, el estado de salud del trabajador, sus condiciones de 
+trabajo o los incidentes que puedan ocurrir. Los reconocimientos médicos periódicos de 
+los trabajadores expuestos de categoría A estarán adaptados a las características de la 
+exposición a las radiaciones ionizantes o de la posible contaminación interna o externa y 
+comprenderán un examen clínico general y aquellos otros exámenes necesarios para 
+determinar el estado de los órganos expuestos y sus funciones. El Servicio de Prevención 
+que desarrolle la función de vigilancia y control de la salud de los trabajadores podrá 
+determinar la conveniencia de que se prolongue, durante el tiempo que estime necesario, 
+la vigilancia sanitaria de los trabajadores de categoría A que hayan sido posteriormente
+declarados “No aptos” o hayan cesado en esta actividad profesional. 
+i Se deberá realizar una Vigilancia Sanitaria Especial2,3 en caso de superación o sospecha 
+fundada de superación de alguno de los límites de dosis establecidos. (Artículo 45 del
+Reglamento sobre Protección Sanitaria contra las Radiaciones Ionizantes). Asimismo, en
+concordancia con el artículo 37 del R.D. 39/97 también se realizará un Reconocimiento
+médico tras la asignación de tareas especiales con nuevos riesgos para la salud o tras 
+una ausencia prolongada al trabajo.
+i Además, se realizarán otros exámenes de salud que pueda considerar oportuno el 
+Servicio de Prevención que desarrolle la vigilancia y control de la salud de los 
+12
+
+trabajadores (Artículo 46 R.D.783/2001). 
+i En la vigilancia sanitaria de los trabajadores de “Categoría B” se seguirán los principios 
+y las directrices generales de la Medicina del Trabajo1,2,3.
+2.
+DEFINICIÓN DEL PROBLEMA. 
+2.1.  Definiciones y conceptos. 
+Los trabajadores tienen derecho a una protección eficaz en materia de Seguridad y Salud 
+en el Trabajo. El citado derecho supone la existencia de un correlativo deber, del empresario y/o 
+de las Administraciones públicas, de protección de los trabajadores frente a los riesgos 
+laborales1.
+En cumplimiento del deber de protección, se deberá, de conformidad con la normativa
+actual: Evaluar los puestos de trabajo. Formar e Informar a los trabajadores en los Riesgos 
+Inherentes a su puesto de trabajo. Establecer la actuación en casos de emergencia y de riesgo 
+grave. Vigilar la salud de los trabajadores en función de los riesgos del puesto de trabajo. 
+Consecuentemente, facilitar a los trabajadores, la Vigilancia sanitaria específica1,2,3. para 
+exposición a riesgo de Radiaciones Ionizantes, es responsabilidad del empresario y función del 
+personal sanitario del Servicio de Prevención (Médico del Trabajo y ATS de Empresa) y forma
+parte de los procedimientos propios de la protección sanitaria contra radiaciones ionizantes. 
+Serán considerados trabajadores de Categoría A2 aquellas personas que, por las 
+condiciones en las que realiza su trabajo, pueden recibir una dosis efectiva superior a 6 mSv 
+por año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalente 
+para el cristalino, la piel y las extremidades (el “Límite de dosis equivalente” y el “Límite de 
+dosis efectiva” según lo establecido en el Apartado 2 del Artículo 9 del R.D. 783/2001, se 
+especifican, en este mismo apartado, posteriormente)
+13
+
+Serán considerados trabajadores de Categoría B2 aquellas personas que por las 
+condiciones en las que se realiza su trabajo es muy improbable que reciban dosis superiores 
+a 6 mSv por año oficial o a 3/10 de los límites de dosis equivalente para cristalino, la piel y 
+las extremidades.
+ 
+Se considera Zona Vigilada2 aquella que no siendo Zona Controlada exista la 
+posibilidad de recibir dosis efectivas superiores a 1 mSv por año oficial o una dosis 
+equivalente superior a 1/10 de los límites de dosis equivalentes para el cristalino, la piel, y 
+las extremidades. 
+ 
+Se considera Zona Controlada2 aquella en la que exista la posibilidad de recibir dosis 
+efectivas superiores a 6 mSv por año oficial o una dosis equivalente superior a 3/10 de los 
+límites de dosis equivalente para el cristalino, la piel y las extremidades o bien, aquella zona en 
+que sea necesario seguir procedimientos de trabajo con objeto de restringir la exposición a la 
+radiación ionizante, evitar la dispersión de contaminación radiactiva o prevenir o limitar la 
+probabilidad y magnitud de accidentes radiológicos o sus consecuencias. Además, las Zonas 
+Controladas se subdividen en: 
+Zona de Permanencia Limitada: Son aquellas en las que existe el 
+riesgo de recibir una dosis superior a los límites de dosis legalmente 
+fijados.
+x
+Zona de Permanencia Reglamentada: Son aquellas en las que existe el 
+riesgo de recibir, en cortos periodos de tiempo, una dosis superior a los 
+límites de dosis legalmente fijados y que requieren prescripciones 
+especiales desde el punto de vista de la optimización.
+x
+Zona de Acceso Prohibido: Son aquellas en las que existe riesgo de 
+recibir, en una exposición única, dosis superiores a los límites 
+legalmente fijados.
+x
+14
+
+Según el Artículo 9 del R.D. 783/20012 el límite de dosis para los trabajadores expuestos
+es:
+1.
+El límite de dosis efectiva2 para trabajadores expuestos será de 100 mSv durante todo el 
+periodo de 5 años oficiales consecutivos, sujetos a una dosis efectiva máxima de 50 mSv 
+en cualquier año oficial. 
+2.
+Sin perjuicio de lo dispuesto en el Apartado 1 los límite de dosis equivalente2 serán: 
+a) El límite de dosis equivalente para el cristalino será de 150 mSv por año oficial. 
+b) El límite de dosis equivalente para la piel será de 500 mSv por año oficial. Dicho 
+límite se aplicará a la dosis promedia sobre cualquier superficie de 1 cm2 con 
+independencia de la zona expuesta. 
+c) El límite de dosis equivalente para las manos, antebrazos, pies y tobillos será de 500 
+mSv por año oficial. 
+A cada trabajador expuesto de “Categoría A” le será abierto un historial médico2,
+que se mantendrá actualizado durante todo el tiempo que el trabajador pertenezca a dicha 
+categoría, y que habrá de contener, al menos, las informaciones referentes a la naturaleza del 
+empleo, los resultados de los exámenes médicos y el historial dosimétrico de toda su vida 
+profesional. Los Servicios de Prevención que desarrollen la función de vigilancia de la salud 
+de los trabajadores serán los responsables de archivar los historiales médicos hasta que el 
+trabajador alcance los 75 años de edad y, en ningún caso por un periodo inferior a 30 años 
+después del cese de la actividad. Estos Historiales médicos estarán a disposición de la 
+autoridad competente y del propio trabajador. 
+En el Anexo B, de este documento, se recogen otras definiciones de interés. 
+15
+
+2.2. Epidemiología. 
+La inducción de cáncer es el principal efecto tardío provocado por la exposición a la 
+radiación ionizante. En la actualidad se ha adoptado la hipótesis conservadora de que 
+cualquier dosis de radiación ionizante es capaz de inducir cáncer en las personas a ella 
+expuestas, (Hipótesis de relación dosis-efecto lineal sin umbral), de forma que, la 
+probabilidad de su aparición, crece con la dosis de radiación recibida. 
+En lo que respecta a la epidemiología, la principal fuente de información sobre los 
+riesgos del cáncer inducido por radiación ionizante proviene del seguimiento a largo plazo 
+que se ha hecho a los supervivientes de las bombas atómicas lanzadas en Hiroshima y 
+Nagasaki. Esta base de datos ofrece información sobre una población de más de 90.000 
+personas que han sido seguidas desde 1950, con individuos de todas las edades, 
+considerándose que la totalidad del organismo fue expuesto a la radiación. La información de 
+este seguimiento se complementa con estudios realizados en personas expuestas por motivos
+de tratamientos médicos con radiaciones ionizantes, por exposición ocupacional, o 
+exposiciones accidentales14,15,16,17,18.
+En las recomendaciones de la publicación nº 60 de la ICRP (Comisión Internacional 
+de Protección Radiológica)19, se reevaluaron los datos epidemiológicos de los supervivientes 
+de Hiroshima y Nagasaki, resultando un incremento de las estimaciones de riesgo 
+correspondientes a los cánceres inducidos por radiación. Este incremento de los valores se 
+debió en parte a una revisión de la dosimetría de los supervivientes de la bomba atómica, en 
+parte también a un seguimiento más largo de la población, y principalmente a los cambios
+realizados en el modelo matemático que ahora se utiliza para proyectar los riesgos que 
+ocurrirán a lo largo de la vida. 
+2.2.1.  Magnitud del Problema 
+De acuerdo con los conocimientos actuales, la exposición a las radiaciones ionizantes por 
+debajo de los valores asociados a los límites de dosis existentes, no implicará riesgo de aparición 
+de efectos deterministas y mantendrá la probabilidad de los efectos estocásticos en valores 
+similares al riesgo existente en la actividad laboral considerada más segura20,21.
+16
+
+Sin embargo, los criterios de protección de los trabajadores expuestos se basan, 
+entre otros, en el concepto de la existencia de algún grado de riesgo independientemente del 
+nivel de exposición20, 21, 22, 23, 24.
+2.2.2.  Factores de riesgo
+La estimación del riesgo ha sido desarrollada por diversas organizaciones científicas19,
+20. entre las que se incluyen la Academia Nacional de Ciencias, la cual ha publicado varios 
+informes por el comité BEIR, la Comisión Internacional de Protección Radiológica ( ICRP), y 
+el Comité Científico de las Naciones Unidas para el estudio de los efectos biológicos de las 
+radiaciones ionizantes ( UNSCEAR). Globalmente, los riesgos a lo largo de la vida calculados 
+en los últimos años no son muy diferentes entre los distintos estudios. La ICRP ha adoptado 
+para los Trabajadores Expuestos un coeficiente de riesgo de 4x10 -2 Sv –1 (4 muertes por 
+cáncer de cada 100 individuos expuestos a 1 Sv). Este coeficiente es el que ha sido utilizado 
+para el desarrollo de los nuevos limites de dosis, debiendo tener en cuenta que está basado en 
+los datos obtenidos a altas dosis y tasas de dosis *, no siendo éste el caso de la exposición 
+ocupacional. En bajas tasas de dosis se propuso un coeficiente de reducción de riesgo de 2. 
+2.3.  Etiopatogenia y Efectos biológicos de las Radiaciones Ionizantes.
+Los efectos biológicos21 de las radiaciones ionizantes están ocasionados por el daño 
+infringido a las células como consecuencia de la interacción de la radiación con la materia.
+El daño, puede ocasionar muerte o modificación celular, lo que a su vez, puede afectar 
+el normal funcionamiento de los diferentes órganos o tejidos. 
+¾
+Si el número de células que mueren es considerable, se observará daño al tejido u órgano 
+afectado, y consecuentemente, al individuo. Este tipo de daño ocurrirá en aquellos 
+individuos que reciban una dosis de radiación por encima del umbral determinado para 
+cada efecto. Son los llamados efectos deterministas21   no estocásticos, no aleatorios y 
+* Tasa de dosis: Incremento de la dosis por unidad de tiempo. La tasa de dosis absorbida se mide 
+en Gray por segundo (Gy/s) También se utiliza el Gy/m y Gy/h. La unidad de dosis equivalente y de 
+dosis efectiva es sievert por segundo (Sv/s). También se utiliza Sv/m, Sv/h y Sv/año.
+17
+
+dosis-dependientes. Dependen de la dosis recibida y acumulada existiendo efectos agudos 
+y efectos tardíos: 
+i EFECTOS AGUDOS: 
+Irradiaciones Globales: Cuanto mayor es la dosis recibida, más precoz, más
+rica y prolongada es la sintomatología. Son efectos precoces debidos a perdidas 
+celulares. La lesión principal es la aplasia medular, con una linfopenia inicial. 
+A partir de dosis superiores a 1 Gy  para radiaciones X o gamma y 0,3 Gy 
+para neutrones y en exposiciones de pocos minutos se verifica efectos sobre 
+tejido hematopoyetico, que son más graves cuanto mayor es la dosis. Esta 
+establecido el nivel de dosis/respuesta.
+◆ 
+Irradiaciones Parciales:
+◆ 
+x
+x
+x
+x
+x
+x
+Piel: A partir de 10 Gy   para radiaciones X y gamma y en exposiciones de 
+pocos minutos, se produce una radiodermitis exudativa.
+Pelo: Alopecia tras irradiación localizada del cuero cabelludo, en 
+exposiciones de pocos minutos e iguales o superiores a 3 Gy. 
+Gónadas : Las células testiculares son muy radiosensibles y a partir de 
+dosis de 0,3 Gy . Para radiaciones X y gamma y en exposiciones de breves 
+minutos se produce oligospermia. Dosis superiores a 4 Gy pueden entrañar 
+esterilidad definitiva. En la mujer los ovarios tienen una radiosensibilidad 
+menor y la esterilidad  se produce a dosis superiores 8 Gy.
+i EFECTOS TARDIOS: Sobrevienen de forma retardada después de la irradiación, 
+haya sido, esta, breve o prolongada. 
+Ojo: Catarata, a partir de dosis acumuladas para el cristalino de 10 Gy  en 
+radiaciones X y 0,8 Gy en neutrones. 
+Piel: Radiodermitis crónicas, con atrofia, hiperqueratosis y telangiectasias, 
+en exposiciones repetidas de 5 mGy/día y dosis acumulada superior a 10 
+Gy.
+Embrión y Feto: En ciertas ocasiones accidentales, la irradiación de la 
+mujer embarazada puede conducir a malformaciones fetales, que dependen
+ Cuando se trate de radiación X o gamma, el Gy es equivalente al Sv ya que en estos casos el llamado “factor de 
+calidad” será igual a “1” 
+18
+
+de la dosis recibida en el feto y del momento de la irradiación en el curso de 
+la vida fetal:
+-
+Malformaciones cerebrales, malformaciones óseas: A partir de dosis 
+de 0,3 Gy en la fase de organogénesis. 
+-
+Retraso intelectual: Con dosis recibidas en el feto superiores a 0,5 
+Gy después de la 8ª  semana de gestación.
+¾
+Ahora bien, si sobre la célula no se produce un daño mortal, pero resulta modificada en su 
+estructura por el efecto de la radiación, (daño al DNA), generalmente se pondrán en 
+marcha los mecanismos de reparación celular, de modo que, si la reparación no es 
+completa ("ad integrum"), y se produce la supervivencia de la célula con una mutación, la 
+modificación será transmitida a las células hijas, que, si son somáticas, podrían degenerar 
+a una neoplasia en el órgano o tejido afectado del individuo expuesto, pero, si las células 
+afectadas son las responsables de la transmisión de la información genética a los 
+descendientes de los individuos expuestos se podría inducir una enfermedad hereditaria.
+Estos efectos, ya sean somáticos (afectan a la salud del individuo que ha recibido la 
+irradiación), o ya sean genéticos (afectan a la salud de los descendientes del individuo 
+irradiado), se denominan efectos estocásticos21, (de naturaleza aleatoria, no dosis-
+dependiente). Son los llamados tumores radioinducidos: 
+-
+Epitelioma espinocelular cutáneo: A partir de lesiones de radiodermitis crónica. Se 
+necesitan dosis acumuladas superiores a 15 Gy *. 
+-
+Osteosarcoma: Por incorporación de radionucleidos con tropismo óseo, con dosis 
+acumuladas en esqueleto superiores a 8 Gy. 
+-
+Leucemia: Es el cáncer radioinducido más común. Es la patología estocástica más
+frecuente entre las víctimas de explosiones nucleares y exposiciones profesionales. 
+Todas las formas de leucemia pueden ser radioinducidas salvo las leucemias
+linfoides crónicas. 
+-
+Cáncer primitivo de pulmón: En casos de exposición a radiaciones alfa, son 
+cánceres ligados al radón, sobre todo en exposiciones de trabajos de minería.
+19
+
+No obstante, hay que señalar que el camino más frecuente, en la interacción de las 
+radiaciones ionizantes con las células a bajas dosis y bajas tasas de dosis, es la supervivencia 
+con reparación completa de la célula. 
+3.
+EVALUACIÓN DEL RIESGO.
+Esta parte tiene como finalidad analizar las condiciones laborales y evaluar el puesto 
+de trabajo del trabajador, con el objeto de determinar la naturaleza y magnitud del riesgo 
+radiológico al que se encuentran sometidos, (irradiación y/o contaminación interna o externa). 
+Dado que las Radiaciones Ionizantes es uno de los diversos factores de riesgo que es 
+posible se encuentren presentes en los puestos de trabajo (factor de riesgo físico del ambiente
+del trabajo)1,2,21, la evaluación del riesgo de exposición a radiaciones ionizantes se ajustará a 
+las directrices y principios generales de la Prevención de Riesgos Laborales1,3. Además se 
+tendrá en cuenta el R.D. 783/20012:
+x Artículo 26: la vigilancia radiológica del ambiente de trabajo comprenderá:
+a) 
+La medición de las tasas de las dosis externas, especificando la 
+naturaleza y la calidad de las radiaciones de que se trate. 
+b) 
+La medición de las concentraciones de la actividad en el aire y la 
+contaminación superficial, especificando la naturaleza de las sustancias 
+radiactivas contaminantes y sus estados físico y químico. 
+El Artículo 27 del mencionado R.D. se refiere a la vigilancia individual de las 
+dosis recibidas por los trabajadores expuestos que: “Deberán determinarse con 
+una periodicidad no superior a un mes para la dosimetría externa y con la 
+periodicidad, que, en cada caso, se establezca para la dosimetría interna, de 
+aquellos trabajadores que estén expuestos a riesgo de incorporación de 
+radionucleidos”. Además, el titular de la práctica o la empresa externa 
+transmitirá los resultados de los controles dosimétricos al Servicio de Prevención 
+que desarrolle la función de vigilancia y control de la salud de los trabajadores, a 
+x
+20
+
+quien corresponderá interpretarlos desde el punto de vista sanitario. En caso de 
+urgencia dicha transmisión deberá ser inmediata. 
+Según el Artículo 28 la estimación de la dosis en relación con los trabajadores
+expuestos pertenecientes a la Categoría A será obligatorio en los siguientes casos: 
+x
+-
+En caso de riesgo de exposición externa, la utilización de dosímetros 
+individuales que midan la dosis externa, representativa de la dosis para la 
+totalidad del organismo durante toda la jornada laboral. 
+-
+En caso de riesgo de exposición parcial o no homogénea del organismo, la 
+utilización de dosímetros adecuados en las partes potencialmente más 
+afectadas.
+-
+En caso de riesgo de contaminación interna la realización de las medidas o 
+análisis pertinentes para evaluar las dosis correspondientes. 
+Según el Artículo 29 la estimación de las dosis individuales, recibidas por los 
+trabajadores expuestos pertenecientes a la Categoría B, podrá estimarse a partir 
+de los resultados de la vigilancia realizada en el ambiente de trabajo, siempre y 
+cuando estos permitan demostrar que dichos trabajadores están clasificados 
+correctamente en la Categoría B. 
+x
+Según el Artículo 30 para realizar estimaciones especiales de dosis, en los casos 
+en los que no sea posible o resulten inapropiadas las mediciones individuales, la 
+vigilancia individual se basará en una estimación realizada a partir de mediciones 
+individuales hechas a otros trabajadores expuestos o a partir de los resultados de 
+la vigilancia del ambiente del trabajo, haciéndose constar expresamente este 
+hecho en el historial dosimétrico del trabajador. 
+x
+Según el Artículo 33 cuando se haya podido producir una superación de los 
+límites de dosis legalmente fijados, a consecuencia de una exposición 
+especialmente autorizada, exposición accidental o exposición de emergencia, 
+deberá realizarse un estudio para evaluar, con la mayor rapidez y precisión 
+posible, las dosis recibidas en la totalidad del organismo o en las regiones u 
+órganos afectados. Estos casos y los resultados del estudio serán inmediatamente 
+x
+21
+
+puestos en conocimiento del Servicio de Prevención que desarrolle la función de 
+vigilancia y control de los trabajadores, del Consejo de Seguridad Nuclear y del 
+trabajador afectado. 
+x El Artículo 34 se refiere al Historial dosimétrico y registros adicionales:
+1.) Será obligatorio registrar todas las dosis recibidas durante la vida laboral 
+de los trabajadores expuestos en un historial dosimétrico individual, que se 
+mantendrá debidamente actualizado y estará, en todo momento, a disposición 
+del propio trabajador. A estos efectos, será también obligatorio registrar, 
+conservar y mantener a disposición  del trabajador los siguientes documentos: 
+a) En el caso de las exposiciones a las que se refieren los, 
+anteriormente citados, artículos 32 y 33, los informes relativos a las 
+circunstancias y a las medidas adoptadas. 
+b) Los resultados de la vigilancia del ambiente del trabajo que se hayan 
+utilizado para estimar las dosis individuales. 
+2.)
+El historial dosimétrico de todo trabajador expuesto de categoría A 
+deberá figurar, además, en su historial médico al que se refiere el artículo 44 
+✷
+Al objeto de completar el historial médico, el historial dosimétrico, y/o controles 
+dosimétricos y/o Carné Radiológico
+✷✷ de cada trabajador, será aportado a los exámenes de 
+salud y/o cada vez que el Servicio de Prevención, responsable de la vigilancia de la salud,  lo 
+requiera.
+4. - PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA 
+El artículo 44 del R.D. 783/20012 se refiere al Historial Médico: 
+1. A cada trabajador expuesto de categoría A le será abierto un historial médico, que 
+se mantendrá actualizado durante todo el tiempo que el interesado pertenezca a 
+dicha categoría, y que habrá de contener, al menos, la informaciones referentes a la 
+naturaleza del empleo, los resultados de los exámenes médicos Iniciales (previos a la 
+contratación o clasificación como trabajador de categoría A), los reconocimientos 
+médicos periódicos y eventuales y el historial dosimétrico de toda su vida 
+profesional.
+✷ Artículo 44 de Real Decreto 783/20012 se transcribe en punto 4 de este documento.
+✷✷ Instrucción de 31 de mayo de Consejo de Seguridad Nuclear. BOE nº 187, 6/8/2001
+22
+
+2. Estos historiales médicos se archivarán hasta que el trabajador haya o hubiera 
+alcanzado los setenta y cinco años de edad y, en ningún caso, durante un periodo 
+inferior a treinta años después del cese de la actividad, en los Servicios de 
+Prevención que desarrollen la función de Vigilancia y control de la salud de los 
+trabajadores correspondientes a los centros en los que aquellas personas presten o 
+hayan prestado sus servicios, y estarán a disposición de la autoridad competente y 
+del propio trabajador.
+La vigilancia médica consiste en un examen clínico convencional, que incluirá 
+exploraciones especiales en función de la naturaleza del riesgo asociado al trabajo a realizar con 
+radiaciones ionizantes 24, 25, 26
+La vigilancia médica a realizar quedará, en modo fundamental, enmarcado en la 
+competencia y criterio del médico correspondiente. Atendiendo a las características de cada 
+trabajador y a las especiales circunstancias que puedan concurrir, se podrán introducir aquellas 
+variaciones que médicamente se justifiquen, sin perjuicio de los principios fundamentales que 
+este protocolo desarrolla. 
+El contenido de la vigilancia sanitaria constará de la siguiente información:
+4.1.- Historial laboral. 
+x
+x
+x
+4.1.1. - Exposiciones anteriores (anamnesis laboral).. 
+4.1.2. - Exposición actual al riesgo: Descripción del puesto de trabajo, 
+tiempo de permanencia en el mismo, medidas de prevención adoptadas 
+4.2.- Historia Clínica. 
+4.2.1.  Anamnesis.
+4.2.2.  Exploración clínica específica. 
+4.3. Control biológico y estudios complementarios específicos. 
+23
+
+4.4. Criterios de valoración. 
+x
+4.1. Historia Laboral 
+4.1.1. Exposiciones anteriores, (anamnesis laboral). 
+En este apartado se incluirán los puestos de trabajo desempeñados en el pasado 
+(especificando el periodo de tiempo en el que ocupó cada uno de ellos), indicando los 
+principales riesgos existentes en los mismos y la actividad de la empresa
+✻.
+4.1.2.
+Exposición actual al riesgo
+a) Denominación de la Empresa y dirección. 
+b) Descripción detallada del puesto de trabajo actual y riesgo asociado, (Irradiación 
+y/o contaminación). Tiempo de permanencia en el puesto de trabajo con 
+exposición al riesgo. Medidas de protección utilizadas. Otros riesgos presentes en 
+el puesto de trabajo como pueden ser los productos químicos de revelado. 
+c) Información dosimétrica: Dicha información incluirá: 
+Trabajador categoría A 
+ Dosis mensuales (Art.35 RD 783) 
+ Dosis acumulada (12 meses) a fecha de la revisión anual. 
+ Dosis acumulada durante un período de 5 años 
+ Dosis vida laboral. 
+ Sobreexposición.
+ Antecedentes de estudios diagnósticos o tratamientos con radiaciones 
+ionizantes (consígnese la dosis si se conoce). 
+Trabajador categoría B 
+✻En caso de tratarse de un examen de salud periódica, se recogerá la información desde el último 
+examen que se hubiera efectuado. 
+24
+
+ Dosis anuales determinadas o estimadas
+4.2.  Historia Clínica. 
+4.2.1. Anamnesis.
+a) Antecedentes personales: Se recogerán los hábitos y antecedentes26, del trabajador 
+especificando los antecedentes médicos y quirúrgicos. No conviene  olvidar los 
+antecedentes de estudios diagnósticos y/o tratamientos con radiaciones ionizantes: 
+Tipo de prueba y nº de pruebas (consígnese la dosis si se conoce). 
+b) Antecedentes familiares.
+c) Interrogatorio general por órganos y sistemas:
+1. Síntomas generales:
+ Astenia.
+ Anorexia.
+ Pérdida de peso. 
+ Sudoración nocturna. 
+ Febrícula
+ Otros.
+2. O.R.L. 
+ Vértigos.
+ Obstrucción nasal. 
+ Disfagia.
+ Odinofagia.
+ Otros.
+3. Oftalmología.
+ Antecedentes de lesiones oculares. 
+ Utilización de lentes intraoculares o lentillas. 
+ Antecedentes de parálisis ocular. 
+ Antecedentes de desprendimiento de retina. 
+ Daltonismo.
+ Cataratas
+ Otros.
+4. Cardiorrespiratorio. 
+ Tos.
+ Dolor torácico 
+ Palpitaciones.
+ Disnea.
+ Ortopnea.
+25
+
+ Otros.
+5. Gastrointestinales. 
+ Pirosis, reflujo. 
+ Hábito intestinal: Diarrea/estreñimiento.
+ Dolor abdominal.
+ Sangre en heces. 
+ Otros.
+6. Genitourinario. 
+ Disuria.
+ Hematuria.
+ Polaquiuria.
+ Nicturia.
+ Otros.
+7. Ginecológico y Obstétrico
+ Menarquia.
+ Fecha de la última regla. 
+ Periodicidad menstrual.
+ Duración.
+ Flujo vaginal. 
+ Menopausia, tratamiento con TSH 
+ Historia obstétrica: Embarazo y lactancia (especificar anteriores y 
+actuales, si los hubiera). 
+ Otros.
+8. Locomotor.
+ Dolor articular. 
+ Tumefacción.
+ Otros.
+9. Piel y mucosas.
+ Lesiones con/sin prurito. 
+ Erupciones.
+ Otros.
+10. Neurológico.
+ Parestesias.
+ Disestesias.
+ Limitaciones/disfunciones motoras.
+ Cefaleas.
+ Pérdida de conocimiento.
+ Otros.
+26
+
+4.2.2. Exploración clínica.
+i Inspección física.
+ Actitud, (ansiedad y datos de observación globales). 
+ Raza, talla y peso. 
+i Exploración.
+1. Piel, pelo, uñas, mucosas.
+2. Ojos: fondo de ojo, agudeza visual, visión estereoscópica, discromatopsias,
+tensión ocular 
+3. Oídos, boca, faringe. 
+4. Cuello: tiroides.
+5. Adenopatías 
+6. Tórax: morfología, simetría.
+7. Exploración cardiorrespiratoria:
+a) Cardiovascular: 
+ Tensión arterial. 
+ Auscultación: Soplos, roces, otros. 
+ Arterial: Pulsos periféricos, pulsos carotídeos. 
+ Venoso: Varices. 
+ Otros.
+b) Respiratorio: 
+ Auscultación.
+ Roncus.
+ Sibilancias.
+c) Otros. 
+8. Exploración abdominal.
+a) Auscultación ruidos.
+b) Palpación: 
+ Visceromegalias.
+ Detección de regiones hipersensibles. 
+ Otras masas.
+c) Percusión. 
+9. Exploración genital.
+10. Exploración del aparato locomotor:
+a)  Columna vertebral: 
+ Sensibilidad a percusión. 
+ Anomalías morfológicas: cifosis, escoliosis, otras. 
+b) Extremidades:
+ Deformidades/atrofias.
+ Asimetría.
+ Amputaciones.
+d) Articulaciones: 
+ Limitación en movimientos.
+27
+
+ Deformidad.
+11. Exploración neurológica:
+a)
+Exploración de pares craneales. 
+b) Exploración motora.
+c) Coordinación. 
+d) Exploración sensitiva.
+e)
+Reflejos tendinosos profundos. 
+12. Para la evaluación médico-psicológica, podrán realizarse las exploraciones 
+específicas
+4.3.  Control Biológico y estudios complementarios específicos. 
+Las exploraciones complementarias no deben ser, en sí mismas, los elementos únicos o 
+principales del juicio clínico. El resultado del mismo será función del conjunto de factores que 
+influyen en la calificación respecto a la aptitud del trabajador. 
+4.3.1. Análisis de sangre.
+La analítica de sangre incluye parámetros hematológicos y bioquímicos.
+4.3.1.a. - Parámetros hematológicos:
+xHematíes.
+xHematocrito.
+xHemoglobina.
+xVolumen corpuscular medio.
+xHemoglobina corpuscular media.
+xConcentración de hemoglobina corpuscular media.
+xPlaquetas.
+xVolumen plaquetar medio.
+xLeucocitos.
+xFórmula y recuento leucocitarios. 
+xVelocidad de sedimentación (1ª hora). 
+Según criterio médico, y para valorar con más parámetros la exposición a la radiación 
+ionizante, se determinarán los parámetros adicionales que se estimen oportunos en cada 
+caso (Ej.: Reticulocitos, Fosfatasa Alcalina Granulocítica etc…). 
+28
+
+4.3.1.b. - Parámetros bioquímicos.
+xGlucosa.
+xProteínas totales. 
+xAlbúmina.
+xProteinograma.
+xCoeficiente Albúmina/Globulinas.
+xFosfatasa alcalina. 
+xTransaminasa glutámico oxalacética. 
+xTransaminasa glutámico pirúvica. 
+xGammaglutamiltransferasa.
+xBilirrubina total. 
+xBilirrubina directa. 
+xColesterol.
+xColesterol-HDL.
+xTriglicéridos.
+xUrea.
+xCreatinina.
+xInmunoglobulinas.
+Según criterio médico, se determinarán los parámetros adicionales que se estimen
+oportunos en cada caso. 
+4.3.2. Análisis de orina.
+Parámetros a determinar:
+xDensidad.
+xpH.
+xGlucosa.
+xProteínas.
+xCuerpos cetónicos. 
+xUrea.
+xBilirrubina.
+xUrobilinógeno.
+xHematíes.
+xLeucocitos.
+xNitritos.
+Según criterio médico, se determinarán los parámetros adicionales que se estimen
+oportunos en cada caso. 
+29
+
+4.3.3. Otras exploraciones.
+En el examen de ingreso del trabajador se realizará un electrocardiograma, una 
+espirometría, una audiometría y una exploración oftalmológica. En el examen médico
+periódico estas pruebas se realizarán como mínimo cada cinco años, o según criterio 
+médico, y en función del puesto de trabajo, excepto la exploración oftalmológica
+(examen del cristalino) que deberá realizarse anualmente.
+En aquellos trabajos con riesgo de incorporación de isótopos del uranio, debe 
+incluirse la determinación de dichos isótopos en orina, en el caso de que no exista un 
+protocolo normal y de accidente. 
+Dentro del contexto de lo que se entiende por exámenes de salud específicos, hay 
+que puntualizar, siempre según el criterio médico, que hay determinaciones bioquímicas
+descritas que no hace falta que se repitan anualmente, tales como glucosa, colesterol, y 
+triglicéridos.
+A criterio médico, valorar siempre el riesgo de contaminación interna a la hora de 
+solicitar parámetros analíticos. 
+4.4.
+Criterios de valoración en caso de superación de los límites de dosis. 
+A los trabajadores expuestos, en caso de superación o sospecha fundada de superación 
+de los límites de dosis correspondientes se les realizará una vigilancia sanitaria especial por un 
+Servicio de Prevención de Riesgos Laborales, según se establece en el artículo 45 del 
+Reglamento sobre Protección Sanitaria contra  Radiaciones Ionizantes2.
+En este apartado se pretende aportar una orientación respecto a las actuaciones, a llevar a 
+cabo, en los casos de superación de los límites de dosis reglamentarios.
+En la Guía de Seguridad nº 7.5 del Consejo de Seguridad Nuclear27, "Actuaciones a 
+seguir en el caso de personas que hayan sufrido un accidente radiológico", se exponen criterios 
+médicos de actuación y de protección radiológica en accidentes radiológicos, para orientar al 
+30
+
+personal involucrado en la atención y asistencia a los trabajadores implicados en este tipo de 
+accidentes.
+A los efectos de este protocolo, se tendrá en cuenta que los casos de superación de límites
+de dosis a que hace referencia este apartado incluyen: 
+x Aquellos que se conocen tras la lectura mensual del dosímetro individual. 
+x Aquellos que están asociados a prácticas planificadas cuyas consecuencias implican
+una superación de límites de dosis. 
+x Casos de detección de contaminación (interna o externa). 
+En todos los casos, la vigilancia sanitaria especial se realizará tan pronto como sea 
+posible y su contenido comprenderá lo establecido en la revisión médica básica más aquellas 
+pruebas complementarias condicionadas por las circunstancias de la superación de los límites de 
+dosis y sus consecuencias. Al igual que ocurre en los casos de accidente, deben tenerse en 
+cuenta, en este mismo sentido, los límites de dosis legalmente establecidos en el Capítulo II del 
+Título II del Reglamento de Protección Sanitaria contra Radiaciones Ionizantes y recogidos en el 
+apartado 2.1 del  presente protocolo. 
+En aquellos casos en que sean necesarias medidas médicas inmediatas, éstas deben tener 
+prioridad sobre las radiológicas. El protocolo de colaboración, entre el Servicio de Prevención de 
+Riesgos Laborales y un Servicio, o unidad técnica, de Protección Radiológica, garantizará que 
+las medidas que se adopten sean las adecuadas, dada la necesidad de estudiar las circunstancias 
+en que ha ocurrido la superación de los límites de dosis y el contexto general de la investigación 
+que en estos casos debe efectuarse. 
+El Servicio de Prevención, actuará de acuerdo con la información dosimétrica aportada o 
+disponible. Debe tenerse en cuenta que en los momentos iniciales puede no disponerse 
+información dosimétrica definitiva, actuándose en el ámbito médico con los datos dosimétricos
+estimados. Si en el curso de la investigación surgen dificultades que cuestionan la información
+aportada por el dosímetro en el proceso de asignación de dosis, o bien si no existe información
+dosimétrica alguna, se considerará por parte del Servicio de Prevención la idoneidad de utilizar 
+31
+
+métodos biológicos. La indicación de pruebas de carácter biológico para obtener información
+dosimétrica sólo estará justificada tras la investigación global del caso. 
+Los Servicios de Prevención fijarán los criterios de exposición posterior de los 
+trabajadores que hayan sufrido una sobreexposición y establecerán su posible atención médica,
+que incluirá, en caso necesario, el tratamiento especializado al que se refiere el artículo 46 del 
+Real Decreto 783/20012.
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO 
+DE VIGILANCIA SANITARIA ESPECÍFICA
+El examen médico para la vigilancia de la salud de los trabajadores expuestos a 
+Radiaciones Ionizantes se realizará según el esquema del Anexo C y siguiendo los criterios 
+especificados en el apartado 4 (Protocolo de Vigilancia Sanitaria Especifica) de este 
+documento.
+La vigilancia sanitaria indicada no excluye la realización de aquellas pruebas que, 
+considerando el trabajo a realizar y el criterio del Servicio de Prevención correspondiente, 
+contribuyan a una mejor evaluación de la aptitud del trabajador para un puesto de trabajo 
+determinado. Para ello el Servicio de Prevención ha de tener en cuenta, además de los criterios 
+relacionados con el riesgo de exposición a radiaciones ionizantes, los derivados de las 
+características individuales de cada trabajador y otras variables inherentes a determinados
+puestos de trabajo como puede ser la necesidad de utilizar equipos de trabajo y ropas de 
+protección personal2,3,4,5,6.
+Se deberá especificar si la vigilancia Sanitaria que se está realizando corresponde al 
+tipo2,3:
+-
+Inicio o Previo a la Incorporación al trabajo.
+-
+Periódico
+-
+Vigilancia Sanitaria Especial tras superación de los límites de dosis.
+-
+Vigilancia Sanitaria Especial tras asignación de nuevas tareas.
+-
+Vigilancia Sanitaria Especial tras ausencia prolongada al trabajo.
+-
+Otro tipo de Vigilancia Sanitaria (Especificar)
+32
+
+Para facilitar la transmisión de las conclusiones de la vigilancia médica, en el Anexo
+A se presenta un formato de certificación de aptitud con los datos considerados como
+necesarios. Este certificado reflejará la conclusión del examen de salud empleando los 
+términos previstos en el Reglamento sobre Protección Sanitaria contra las Radiaciones 
+Ionizantes: “APTO”, “NO APTO” o “APTO EN DETERMINADAS CONDICIONES”1,2,3,21.
+En el caso de existir condiciones de aptitud
+✷ éstas deben figurar en la certificación. 
+6.
+CONDUCTA A SEGUIR SEGÚN LOS RESULTADOS DE LA 
+VIGILANCIA SANITARIA. 
+De acuerdo con el resultado de la vigilancia sanitaria, se obtiene una conclusión respecto 
+al estado de salud del trabajador. Dicha conclusión puede incluir la detección de alteraciones en 
+alguna o varias de las exploraciones25, pruebas o análisis efectuados. Dichas alteraciones pueden 
+no implicar la existencia de patología o trastornos de carácter funcional. Consecuentemente, es 
+necesario recordar que la ponderación de la anomalía detectada, dentro del conjunto de 
+información sobre la salud del trabajador, será determinante para establecer su significación final 
+de cara al criterio médico de aptitud para un puesto de trabajo. 
+Los criterios de aptitud que se exponen a continuación están relacionados con la 
+exposición profesional a radiaciones ionizantes. 
+6.1.
+En relación a la exploración oftalmológica. 
+En la exploración oftalmológica debe prestarse especial atención a la transparencia de las 
+lentes oculares, dada la sensibilidad del cristalino a las radiaciones ionizantes. 
+La constatación de una opacidad de cristalino o catarata no será a priori motivo de 
+inaptitud, debiendo comprobarse en estos casos la agudeza visual con la corrección 
+✷“Aptos en determinadas condiciones”, son aquellos que pueden realizar las actividades que implican el 
+riesgo de exposición asociado al puesto de trabajo, siempre que se cumplan las condiciones que, al 
+efecto, se establezcan en base a criterios médicos.
+33
+
+correspondiente. La evaluación médica final de la agudeza visual indicará si dicha anomalía es 
+limitante para su puesto de trabajo. 
+6.2.
+En relación al examen dermatológico 
+Deberán valorarse en cualquier examen de salud, las dermopatías agudas o crónicas, su 
+posible relación etiológica o de agravamiento con la exposición a radiaciones ionizantes. 
+6.3.
+En relación al estudio otorrinolaringológico 
+El estudio otorrinolaringológico estará encaminado, fundamentalmente, a detectar 
+alteraciones en garganta, nariz y oídos, que pudieran originar problemas en caso de 
+contaminación en dichas localizaciones. 
+6.4.
+En relación al examen del aparato respiratorio 
+Debe considerarse como posible motivo de no aptitud la existencia de patología 
+respiratoria con repercusión funcional limitante en las actividades a desarrollar en su puesto de 
+trabajo.
+6.5.
+En relación al examen del aparato digestivo 
+La justificación de este examen reside en la especial sensibilidad del tracto digestivo a la 
+contaminación interna. Asimismo, está indicada la evaluación funcional hepática de cara a 
+descartar alteraciones que impliquen reducción en la actividad metabolizadora de 
+desintoxicación en caso de contaminación interna. 
+Si existe riesgo de contaminación interna por ingestión, habrá de conocerse, dentro de lo 
+razonable, que no existen soluciones de continuidad en la barrera epitelial que pudieran favorecer 
+una incorporación al organismo de sustancias radiactivas. En este caso será motivo de no aptitud 
+la existencia de enfermedades inflamatorias crónicas del tracto intestinal. Asimismo, en caso de 
+riesgo de contaminación interna por cualquier vía, la existencia de hepatopatías crónicas o 
+agudas evidentes constituyen un motivo de no aptitud. 
+34
+
+6.6.
+En relación al conjunto de parámetros hematológicos 
+Su importancia reside en la especial sensibilidad de los órganos hematopoyéticos.
+El examen consistirá en la determinación de los parámetros necesarios que permitan una 
+evaluación hematológica general y de los tipos celulares que caracterizan la sangre periférica. 
+6.7.
+En relación al examen cardiovascular 
+No existe contraindicación específica. Las anomalías de este examen se considerarán 
+limitantes sólo cuando las características generales del puesto de trabajo así lo indiquen. 
+6.8.
+En relación con el examen de la función renal y urinaria 
+Deben contemplarse los aspectos relacionados con la función excretora, por su 
+importancia en la eliminación de radionucleidos ante la eventualidad de una contaminación
+interna. En este caso, serán motivos de inaptitud la insuficiencia renal por nefropatías evolutivas 
+glomerulares o tubulares evidentes. 
+6.9. En relación con el examen neurológico y evaluación médico-psicológica 
+Deben investigarse las alteraciones neurológicas que puedan implicar una limitación para 
+el trabajo a realizar. 
+En relación a la evaluación médico-psicológica, podrán realizarse exploraciones 
+específicas que puedan orientar la aptitud. 
+6.10. En relación con el examen endocrinológico 
+El examen médico debe incluir la evaluación de las posibles alteraciones endocrinas que 
+impliquen incremento de riesgo en caso de posible contaminación interna (enfermedades
+tiroideas o de otras glándulas de secreción interna). 
+35
+
+6.11. En relación con la protección especial durante el embarazo y la 
+lactancia
+Tan pronto como una mujer embaraza comunique al titular de la práctica su estado, la 
+protección del feto deberá ser comparable a la de los miembros del público. Por ello las 
+condiciones de trabajo de la mujer embarazada serán tales que la dosis equivalente al feto sea tan 
+baja como sea razonablemente posible, de forma que sea improbable que dicha dosis exceda de 1 
+mSv desde la comunicación del embarazo hasta el final del mismo. Desde el momento en que
+una mujer en el periodo de lactancia informe de su estado al titular de la práctica, no se le 
+asignarán trabajos que supongan un riesgo significativo de contaminación radiactiva. En tales 
+supuestos deberá asegurarse una vigilancia adecuada de la posible contaminación radiactiva 
+en su organismo2,28
+Al objeto de una protección adecuada, según el artículo 26 de la ley 31/951 , el 
+empresario deberá determinar, previa consulta con los representantes de los trabajadores, la 
+relación de los puestos de trabajo exentos de riesgos a estos efectos. 
+6.12. En relación con la edad 
+Con respecto a la edad existen limitaciones legales para el trabajo con riesgo de 
+radiaciones ionizantes2.
+No podrán asignarse a los menores de 18 años tareas que pudieran convertirlos en 
+trabajadores expuestos 
+El límite de dosis efectiva para personas en formación y estudiantes con edades 
+comprendidas entre 16 y 18 años que, durante sus estudios, tengan que utilizar fuentes, será de 6 
+mSv por año oficial. Sin perjuicio de este límite de dosis están establecidos límites de dosis 
+equivalentes para cristalino, piel, manos, antebrazos y tobillos*. Si tuviesen más de 18 años serán 
+los mismos límites que los trabajadores expuestos** y en el resto de los casos para las personas en 
+* Artículo 11, punto 2-A, 2-B y 2-C del Real Decreto 783/20012
+** Ver límite de dosis de trabajadores expuestos en el apartado 1 de este documento.
+36
+
+formación y estudiantes se aplicarán los mismos límites de dosis que para los miembros del 
+público.
+7. - LEGISLACIÓN APLICABLE 
+Las definiciones de los términos y conceptos contenidos en la presente Protocolo se 
+corresponden con los contenidos en los siguientes documentos legales: 
+x Boletín Oficial del Estado. Ley 31/1995 de 8 de noviembre de Prevención de Riesgos 
+Laborales. BOE nº 269, 10/11/1995. 
+x Boletín Oficial del Estado. Real Decreto 783/2001, de 6 de julio, por el que se aprueba el 
+Reglamento sobre protección sanitaria contra radiaciones ionizantes. BOE nº 178, 26/7/2001. 
+x Boletín Oficial del Estado. Real Decreto 39/1997, de 17 de enero, por la que se aprueba el 
+Reglamento de los Servicios de Prevención. BOE nº 27, 31/1/1997. 
+x Boletín Oficial del Estado. Real Decreto 413/1997, de 21 de marzo, sobre protección 
+operacional de los trabajadores externos con riesgo de exposición a radiaciones ionizantes por 
+intervención en zona controlada. BOE nº 91, 16/4/1997. 
+x Boletín Oficial del Estado. Real Decreto 1836/1999 de 3 de diciembre, por el que se aprueba 
+el Reglamento de Instalaciones Nucleares y Radiactivas. BOE nº 313, 31/12/1999. 
+OTRA LEGISLACIÓN Y NORMATIVA CON REPERCUSION O 
+POSIBLE APLICACIÓN: 
+x Norma UNE 73-701-92. Procedimientos de descontaminación externa de personas. 
+37
+
+x Norma UNE 73-702-93. Recogida de muestras biológicas en caso de contaminación interna 
+y/o irradiación externa. 
+x Norma UNE 73-703. Material mínimo de un centro asistencial de Primer Nivel para 
+tratamiento de lesionados y contaminados por elementos radiactivos y radiaciones ionizantes. 
+x Norma UNE 73-704: Profilaxis radiológica con yoduro potásico en trabajadores de la 
+industria nuclear. 
+x Norma UNE 73-705: Descontaminación interna de personas. 
+x Informe UNE 73-706: Pautas de actuación en caso de sobreexposición a Radiaciones 
+Ionizantes.
+x Consejo de Seguridad Nuclear (CSN). Guía de Seguridad nº 1.1 del C.S.N.  Cualificaciones 
+para la obtención y uso de Licencias de personal de Operación de centrales nucleares.
+x Boletín Oficial del Estado. Ley 25/1964, de 29 de abril, sobre Energía Nuclear (BOE nº 107, 
+4/5/1964, artículo segundo), modificada por la Ley 54/1997, de 27 de noviembre, del Sector 
+Eléctrico. BOE Nº 285, 28/11/1997. 
+x Boletín Oficial del Estado. Orden de 5 de diciembre de 1979, del Ministerio de Sanidad y 
+Seguridad Social, sobre organización de servicios de asistencia a lesionados y contaminados
+por elementos radiactivos y radiaciones ionizantes. BOE Nº 301, 17/12/1979. 
+x Boletín Oficial del Estado. Resolución de 20 de diciembre de 1979, de la Dirección General 
+de Asistencia Sanitaria, por la que se dictan normas para el desarrollo y aplicación de la 
+Orden anterior. BOE nº 312, 29/12/1979. 
+x Boletín Oficial del Estado. Ley 15/1980, de 22 de abril, de creación del Consejo de Seguridad 
+Nuclear BOE nº 100, 25/4/1980. 
+x Boletín Oficial del Estado. Real Decreto 1995/1978 de 12 de mayo por el que se aprueba el 
+cuadro de enfermedades profesionales en el sistema de la Seguridad Social. BOE nº 203, 
+25/8/1978.
+38
+
+x Boletín Oficial del Estado. Orden de 18 de octubre de 1989 de los Ministerios de Trabajo y 
+Seguridad Social y de Sanidad y Consumo, por la que se suprimen las exploraciones 
+radiológicas sistemáticas en los exámenes de salud de carácter preventivo. BOE nº 252, 
+20/10/1989.
+x Boletín Oficial del Estado. Real decreto 1132/1990, de 14 de septiembre, por el que se 
+establecen medidas fundamentales de protección radiológica de las personas sometidas a 
+exámenes y tratamientos médicos. BOE nº 224, 18/9/1990. 
+x Boletín Oficial del Estado. Real Decreto 1891/1991 sobre instalación y utilización de aparatos 
+de rayos X con fines de diagnóstico médico. BOE nº 3, 3/01/1992. 
+x Boletín Oficial del Estado. Real Decreto 1993/1995, de 7 de diciembre, por el que se aprueba 
+el Reglamento sobre colaboración de las Mutuas de Accidentes de Trabajo y Enfermedades
+Profesionales de la Seguridad  Social. BOE nº 296, 12/12/1995. 
+x Boletín Oficial del Estado. Instrucción de 26 de febrero de 1996, de la secretaria de estado 
+para la Administración Pública, para la aplicación de la ley 31/1995, de 8 de noviembre, de 
+prevención de riesgos laborales en la Administración del Estado. BOE nº 59, 8/3/1996. 
+x Boletín Oficial del Estado. Resolución de 16 de julio de 1997, Por la que se constituye el 
+Registro de Empresas Externas regulado en el Real Decreto 413/1997, de 21 de marzo de 
+1997. BOE nº 238, 4/10/97. 
+x Ley 54/1997, de 27 de noviembre, del Sector Eléctrico. BOE Nº 285, 28/11/1997. 
+x Boletín Oficial del Estado. Real Decreto 1488/1998, de 10 de julio, de adaptación de la 
+legislación en prevención de riesgos laborales a la Administración General de Estado. BOE nº 
+170, 17/7/1998. 
+x Boletín Oficial del Estado. Ley 14/1999, de 4 de mayo, de tasas y precios públicos por 
+servicios prestados por el CSN. BOE nº 107, 5/5/1999. 
+39
+
+x Boletín Oficial del Estado. Resolución de 23 de noviembre de 1999 de la Secretaría de Estado 
+de la Seguridad Social por la que se dictan instrucciones con el fin de incluir en la estructura 
+presupuestaria de la Seguridad Social para 1999 la nueva prestación de “Riesgo durante el 
+embarazo”. BOE nº 290, 4/12/1999. 
+x Boletín Oficial del Estado. Instrucción de 31 de mayo de 2001, del Consejo de Seguridad 
+Nuclear, número IX-01 por la que se define el formato y contenido del documento individual 
+de seguimiento radiológico (carnet radiológico) regulado en el Real Decreto 413/1997. BOE 
+nº 187, 6/8/2001. 
+x Boletín Oficial del Estado. Real Decreto 614/2001, de 8 de junio, sobre disposiciones 
+mínimas para la protección de la salud y la seguridad de los trabajadores frente al riesgo 
+eléctrico. BOE nº 148, 21/6/2001. 
+x Boletín Oficial del Estado. Real Decreto 815/2001, de 13 de julio, sobre justificación del uso 
+de las radiaciones ionizantes para la protección radiológica de las personas con ocasión de 
+exposiciones médicas. BOE nº168, 14/7/2001. 
+x Boletín Oficial del Estado. Real Decreto 1251/2001, de 16 de noviembre, por el que se 
+regulan las prestaciones económicas del sistema de la Seguridad Social por maternidad y 
+riesgo durante el embarazo. BOE num.276, 17/11/01. 
+x Boletín Oficial del Estado. Real Decreto 7007/2002, de 19 de julio, por la que se aprueba el 
+Reglamento sobre el proceso administrativo especial de actuación de la Inspección de trabajo 
+y Seguridad Social y para la imposición de medidas correctoras de incumplimientos en 
+materia de prevención de riesgos laborales en el ámbito de la Administración General del 
+Estado. BOE nº 182, 31/72002.
+40
+
+8.  BIBLIOGRAFIA 
+1. - Boletín Oficial del Estado. Ley 31/1995 de 8 de noviembre de Prevención de Riesgos 
+Laborales. BOE nº 269, 10/11/1995. 
+2. - Boletín Oficial del Estado. Real Decreto 783/2001, de 6 de julio, por el que se aprueba el 
+Reglamento sobre protección sanitaria contra radiaciones ionizantes. BOE nº 178, 26/7/2001. 
+3. - Boletín Oficial del Estado. Real Decreto 39/1997, de 17 de enero, por la que se aprueba el 
+Reglamento de los Servicios de Prevención. BOE nº 27, 31/1/1997. 
+4. - Boletín Oficial del Estado. Real Decreto 485/1997, de 14 de abril, sobre disposiciones 
+mínimas en materia de señalización de seguridad y salud en los lugares de trabajo. BOE nº 97, 
+23/4/1997.
+5. - Boletín Oficial del Estado. Real Decreto 486/1997, de 14 de abril, sobre disposiciones 
+mínimas de seguridad y salud en los lugares de trabajo. BOE nº 97, 23/4/1997. 
+6. - Boletín Oficial del Estado. Real Decreto 773/1997, de 30 de mayo, sobre disposiciones 
+mínimas de seguridad y salud relativas a la utilización por los trabajadores de equipos de 
+protección individual. BOE nº 140, 12/6/1997. 
+7. - Boletín Oficial del Estado. Orden de 27 de junio de 1997 por la que se desarrolla el Real 
+Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los servicios de 
+Prevención, en relación con las condiciones de acreditación de las entidades especializadas como
+servicios de prevención ajenos a las empresas, de autorización de las personas o entidades 
+especializadas que pretendan desarrollar la actividad de auditoria del sistema de prevención de 
+las empresas y de autorización de las entidades públicas o privadas para desarrollar y certificar 
+actividades formativas en materia de prevención de riesgos laborales. BOE Nº 159, 4/7/1997. 
+41
+
+8. - Boletín Oficial del Estado. Real Decreto 665/1997 de 12 de mayo, sobre la protección de los 
+trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el 
+trabajo. BOE nº 124, 24/5/1997. 
+9. – Ministerio de Sanidad y Consumo. Dirección General de Salud Pública. Desarrollo de las 
+competencias de las autoridades sanitarias establecidas en la ley de prevención de riesgos 
+laborales, el reglamento de los servicios de Prevención aprobado por Real Decreto 39/1997, de 
+17 de enero, y la normativa sanitaria vigente. Aprobado por el C.I.S.N.S. el día 15 de diciembre
+de 1997. 
+10. - Ministerio de Sanidad y Consumo. Dirección general de Salud Pública. Actualización del 
+acuerdo de criterios básicos sobre la organización de recursos para la actividad sanitaria de los 
+Servicios de Prevención. Aprobado por la Comisión de Salud Pública el 17 de Febrero de 2000. 
+11. - Boletín Oficial del Estado. Real Decreto 1124/2000, de 16 de junio, por el que se modifica
+el Real Decreto 665/1997 de 12 de mayo, sobre la protección de los trabajadores contra los 
+riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo. BOE nº 145, 
+17/6/2000.
+12. - Boletín Oficial del Estado. Real Decreto 413/1997, de 21 de marzo, sobre protección 
+operacional de los trabajadores externos con riesgo de exposición a radiaciones ionizantes por 
+intervención en zona controlada. BOE nº 91, 16/4/97. 
+13. - Boletín Oficial del Estado. Ley 14/1986, de 25 de abril, General de Sanidad. BOE nº 112, 
+29/4/1986.
+14. - Maurice Tubiana. Radiation risk in perspective: radiation-induced cancer among cancer 
+risk. Radiat Enviroment Biophis (2000) 39:3-16 
+15. - I. Shigematsu. The 2000 sievert lecture-lessons from atomic bomb survivors in Hiroshima
+and Nagasaki.  Health Physics. September 2000, vol 79, Number 3, p.234-241Donald A. Pierce 
+and Dale L. Preston. Radiation-related Cancer Risk at low Doses among Atomicx Bomb
+Survivors. Radiation Research 2000; (154): 178 – 186. 
+42
+
+16. - Dominique Laurier and Denis Bard. Epidemiologic studies of Leukemia among Persons 
+under 25 years of age Living Near Nuclear Sites. Epidemiologic Reviews 1999; Vol.21, Nº 2: 
+188-206.
+17. – Schull WJ. Late radiation responses in man: current evaluation from results from
+Hiroshima and Nagasaki. Adv Space Res 1983; 3(8): 231-9. 
+18. – Cologne JB, Preston DL. Longevity of atomic-bomb survivors. Lancet 2000 Jul 
+22;356(9226):303-7.
+19. - International Comissión on Radiological Protection. 1990 Recomendations of the 
+International Comission on radiological Protection. Vol.21. Nº.1-3 of Annals of the ICPR. 
+Oxford, England: Pergamon Press, 1991. (ICRP publication nº. 60)
+20. - Limitation of exposure to ionizing radiation. NCRP report nº. 116. Bethseda, Md.:National 
+Council on Radiation Protection and Mesurements, March 1993. 
+21. - Molyneux M.K. The physical enviroment. En Occupational Health Practice. 2ª Ed. By 
+R.S.F. Schilling; 1981. Pág. 403-451. 
+22. - Arthur C. Upton. Radiation Hormesis. Data and Interpretations. Critical Reviews in 
+Toxicology 2001, 31 (4&5):681-695. 
+23. - Fetal death and congenital malformation in babies born to nuclear industry employes: report 
+the nuclear industry family study. The Lancet 2000 October 14; Vol 356: 1293-1299. 
+24. - Fliedner TM. The need for an expanded protocol for the medical examination of  radiation-
+exposed persons. Stem Cells 1995; 13(Suppl 1):1-16.
+25. - Consejo de Seguridad Nuclear (CSN). Guía de seguridad 7.4 del C.S.N. rev-2. Bases para la 
+Vigilancia Médica de los trabajadores expuestos a las radiaciones Ionizantes. Madrid, 25/06/98. 
+26. - Consejo de Seguridad Nuclear (CSN). Guía de seguridad 7.4 del C.S.N. rev-1. Bases para la 
+Vigilancia Médica de los trabajadores expuestos a las radiaciones Ionizantes. Madrid, enero, 
+1994
+43
+
+27. - Consejo de Seguridad Nuclear (CSN). Guía de Seguridad 7.5 del CSN: Actuaciones a 
+seguir en caso de personas que hayan sufrido un accidente radiológico. Madrid, abril de 1989 
+28. - Boletín Oficial del Estado. Ley 39/1999, de 5 de noviembre, para promover la conciliación 
+de la vida familiar y laboral de las personas trabajadoras (Capítulo III). BOE nº 266, 6/11/1999. 
+29.- 
+Consejo 
+de 
+Seguridad 
+Nuclear 
+(CSN). 
+Diccionario 
+nuclear. 
+www.csn.es/plantillas/frame_diccionario.jsp?id_nodo=285.
+OTRA BIBLIOGRAFÍA DE INTERES: 
+(Referenciada en la Guía de Seguridad 7.4 del C.S.N.)25
+International Atomic Energy Agency. Radiation Protection in Occupational Health. Manual 
+for Occupational Physicians. Safety Series nº 83, IAEA, Vienna (1987). 
+x
+x
+x
+x
+x
+x
+Organisation Mondiale de la Sante. Centre International de Radiopathologie. Accidents 
+radiologiques. Conduite a tenir en cas de surexposition. Collection nº 84.03. Fontenay-Aux-
+Roses (France). 
+International Atomic Energy Agency. Medical Handing of Accidentally Exposed 
+Individuals. Safety Series nº 88. IAEA. Vienna (1988). 
+International Atomic Energy Agency. Basic Safety Standards for Protection against Ionizing 
+Radiation and for the Safety of Radiation Sources. Safety Series nº 115-1- IAEA. Vienna 
+(1994).
+National Council on Radiation Protection and Measurements. Management of Persons 
+Accidentally Contaminated with Radionuclides. NCRP. Report nº 65. Washington (1980). 
+Commission of the European Communities/U.S. Department of Energy. Guide-book for the 
+Treatment of Accidental Internal Radionuclide Contamination of Workers. Publication nº 
+EUR 14320 EN. Commission of the European Communities (1992). 
+44
+
+ANEXO A
+Modelo de certificación médica de aptitud
+Espacio para el membrete del Servicio de Prevención que realiza la vigilancia de la Salud. 
+Dirección postal completa y teléfono de contacto 
+Se ha realizado, en fecha ______________________, el examen de salud:
+De Inicio
+x
+x
+x
+x
+x
+x
+Periódico
+Especial tras superación de límites de dosis,
+Tras ausencia prolongada al trabajo, 
+Tras asignación de tareas con nuevos riesgos,
+Otro examen considerado por el Servicio de Prevención (especificar)___________ 
+De D/Dª. _____________________, categorizado como trabajador (A   B)  expuesto a riesgo de 
+radiaciones ionizantes en empresa/servicio __________________________ 
+La conclusión del mismo, considerando la información sanitaria obtenida y la 
+laboral disponible respecto al riesgo de exposición a las radiaciones ionizantes en su puesto de 
+trabajo, permite calificarle de “APTO“/ “NO APTO” / “APTO EN DETERMINADAS 
+CONDICIONES” (de conformidad con lo establecido en el Artículo 43 del Reglamento sobre 
+Protección Sanitaria contra las Radiaciones Ionizantes – R.D. 783/2001). En caso de Apto en 
+determinadas condiciones, especificar condiciones de aptitud: 
+1. -------------------------------------------------------------------------------------- 
+2. -------------------------------------------------------------------------------------- 
+3. -------------------------------------------------------------------------------------- 
+Nombre del Médico del Trabajo 
+Número de colegiado 
+Firma del Médico del Trabajo
+45
+
+ANEXO B
+ALGUNAS DEFINICIONES Y CONCEPTOS 29
+Contaminación radiactiva: Presencia indeseable de sustancias radiactivas en seres vivos, 
+objetos o en el medio ambiente. Se habla de contaminación superficial (si afecta a la superficie
+de los objetos), contaminación externa (piel de las personas) o contaminación interna (órganos 
+internos de personas). 
+Daño nuclear: Pérdidas de vidas humanas, lesión corporal o perjuicio material que se produce 
+como resultado directo o indirecto de la radiactividad o de su combinación con las propiedades 
+tóxicas, explosivas u otras peligrosas de los materiales radiactivos o de cualquier otra fuente de 
+radiación.
+Dosimetría: Sistema para la medición y registro de la dosis absorbida. 
+Dosis: Cuando no se diga lo contrario, el término dosis se usa para expresar más simplemente el 
+término dosis efectiva (antes dosis equivalente efectiva). Poco correctamente, en la práctica de la 
+medicina nuclear, y por analogía con la terminología de uso corriente, se habla de dosis para 
+expresar: - la cantidad de sustancia emisora (expresada en peso o en actividad) si se trata de una 
+fuente no encapsulada administrada a un paciente (en forma comparable a la de dosis de un 
+fármaco). – La energía radiada por una fuente o transportada por un haz; si se trata de la energía 
+individual de los fotones o partículas se expresa en MeV. 
+Dosis absorbida: Energía depositada por la radiación ionizante en la unidad de masa del medio
+atravesado. Es un valor físico cuya unidad es el Gray (GY). 
+Dosis colectiva: Dosis colectiva es la dosis efectiva a que ha resultado sometido un cierto grupo 
+de personas. Se mide en sievert por persona (Sv.p.). 
+Dosis comprometida: Es la dosis efectiva que recibirá una persona durante los próximos 50 
+años (70 años en el caso de los niños). A consecuencia de la cantidad de material radiactivo que 
+ha incorporado a su organismo. Se mide en sievert (Sv.). 
+Dosis efectiva (dosis equivalente efectiva): Es la dosis equivalente ponderada (corregida 
+proporcionalmente a) por la diferente sensibilidad de los distintos órganos y tejidos del cuerpo 
+humano. Los factores de corrección se llaman factores de ponderación de los tejidos. Se mide en 
+sievert (Sv.): 1 Sv. = 1 J/Kg. La unidad antigua era el rem: 1 Sv. = 100 rem. Hasta hace poco ese 
+término se denominaba (dosis equivalente efectiva, pero las últimas recomendaciones de la ICPR 
+han simplificado la denominación.
+Dosis equivalente: Es la dosis absorbida ponderada (corregida en proporción a) por la diferente 
+eficacia biológica de las distintas clases de radiación sobre el medio vivo considerado. Los 
+factores de corrección se denominan “factores de ponderación de la radiación” (antes factores de 
+46
+
+calidad de la radiación). Se mide en sievert (Sv.): 1 Sv. = 1 J/Kg. La unidad antigua era el rem: 1 
+Sv. = 100 rem.
+Dosímetro: Instrumento o dispositivo que permite medir o evaluar una dosis absorbida, una 
+exposición o cualquier otra magnitud radiológica. Los dosímetros emplean distintos 
+procedimientos para las medidas de la dosis: emulsiones fotográficas sensibles a la radiación 
+(dosímetro fotográfico), materiales que absorben la energía de la radiación y después la liberan 
+en forma de luz (dosímetros de termoluminiscencia), sustancias químicas que se transforman en 
+presencia de la radiación (dosímetros químicos, dosímetros de Fricke), un condensador eléctrico 
+(dosímetro de condensador), etc. También hay diferentes tipos de dosímetros en función de su 
+utilización: dosímetro de bolsillo, de solapa, de mano, tipo pluma, etc. 
+Exposición: 1). Magnitud física que caracteriza la ionizacion que produce en el aire una 
+radiación. Su unidad es el Roentgen (R): 1 R = 2,58 E-4 culombios/kilogramo. 2). Efecto de 
+someter o someterse a las radiaciones ionizantes. 
+Exposición continúa: Exposición externa prolongada cuya tasa puede, sin embargo, variar con 
+el tiempo, o la exposición interna resultante de una incorporación permanente cuya intensidad 
+varía con el tiempo.
+Exposición externa/interna: La exposición del cuerpo humano a fuentes exteriores a él 
+(exposición externa) o interiores a él (exposición interna). 
+Exposición global/parcial: Exposición global es la considerada como homogénea en el cuerpo 
+entero. Exposición parcial es la localizada esencialmente sobre una parte del organismo, o sobre 
+uno o más órganos o tejidos, o la exposición del cuerpo entero considerada como no homogénea.
+Exposición total: Suma de las exposiciones interna y externa. 
+Exposición única: Exposición externa de corta duración o exposición interna resultante de una 
+incorporación de radionucleidos durante un periodo corto de tiempo.
+Gray (Gy.): Unidad de la dosis absorbida en el Sistema Internacional de Unidades; es igual a un 
+julio por kilogramo (J/Kg). 
+Incorporación: Fenómeno por el cual una sustancia radiactiva existente en el medio exterior, 
+pasa a formar parte del cuerpo humano por inhalación, ingestión, a través de la piel, etc. 
+Irradiación: Acción de someter un material o un ser vivo a la acción de las radiaciones. 
+Límite de incorporación anual (LIA): Actividad que, introducida en el organismo de un 
+individuo dado ocasiona una dosis interna integrada igual al límite de dosis anual establecido. 
+Límite inferior de actividad detectable (LID): Cantidad mínima de actividad que es posible 
+medir con el método analítico empleado.
+Límites anuales de dosis : Valores máximos, referidos siempre a los doce últimos meses, de las 
+dosis que pueden ser recibidas por los trabajadores profesionalmente expuestos y los miembros
+47
+
+del público. Estos valores están fijados legalmente y en ellos no se tiene en cuenta las dosis 
+resultantes del fondo radiactivo natural ni de las exposiciones sufridas como consecuencia de 
+exámenes o tratamientos médicos. Los límites de dosis se aplican a la suma de las dosis recibidas 
+por exposición externa, durante el período considerado, y de la dosis interna integrada resultante 
+de la incorporación de radionucleidos que haya podido tener lugar durante ese mismo período. 
+Material radiactivo: Según la legislación española, cualquier material que contiene 
+sustancias que emiten radiaciones ionizantes. Según esta definición toda sustancia, incluido el 
+ser humano, es material radiactivo ya que toda sustancia existente contiene isótopos 
+radiactivos. Ello no quiere decir que la existencia de esta radiactividad requiera la adopción de 
+algún tipo de medidas de protección radiológica. Cuando se quiere expresar que un material
+radiactivo contiene radiactividad en una proporción tal que pueda ser necesaria la adopción de 
+algún tipo de medida de cautela, el término utilizado es el de "sustancia radiactiva".
+Protección radiológica: Conjunto de normas y prácticas que se utilizan para prevenir los riesgos 
+de la recepción de dosis de radiación y, en su caso, paliar y solucionar sus efectos. (Véase 
+“Seguridad nuclear”). 
+Rad: Antigua unidad de dosis absorbida: 1 rad (rd) = 0,01 J/Kg. La unidad usada actualmente, en 
+el Sistema Internacional de Unidades es el gray: 1 gray = 100 rad. 
+Radiaciones ionizantes: Nombre genérico empleado para designar las radiaciones de naturaleza 
+corpuscular o electromagnética que en su interacción con la materia producen iones, ya sea de 
+forma directa o indirectamente.
+Radiactividad: Propiedad de algunos elementos químicos de emitir partículas u ondas 
+electromagnéticas. Esta propiedad se debe a la existencia de una descompensación entre el 
+número de neutrones y de protones del núcleo del átomo, que provoca una inestabilidad y una 
+liberación de la energía acumulada en forma de partículas u ondas. La radiactividad natural se 
+debe a elementos que emiten radiaciones espontáneamente, como es el caso del uranio, el torio, 
+el radón, etc. 
+Radiodiagnóstico: Utilización de los rayos X con fines de diagnóstico. Además de las 
+instalaciones de radiodiagnóstico Básico, existen instalaciones de grandes equipos como la 
+escanografía X (escáner) o la angiografía computerizada, donde la imagen recibe un tratamiento
+informatizado.
+Radiotoxicidad: Toxicidad debida a las radiaciones ionizantes emitidas por un radionucleido 
+incorporado al organismo y por sus productos resultantes. La radiotoxicidad no sólo depende de 
+las características radiactivas del radionucleido, sino también de su estado físico y químico así 
+como del metabolismo de ese elemento en el organismo.
+Rayos X: Radiación electromagnética producido en las transiciones de electrones de los niveles 
+más profundos. Su longitud de onda es menor que la de los rayos ultravioleta y mayor que la de 
+los rayos gamma.
+48
+
+REM: Antigua unidad de dosis equivalente y de dosis efectiva. 1 rem = 0,01 J/Kg. En el Sistema
+Internacional de Unidades ha sido sustituido por el Sievert: 1 Sv = 100 rem.
+Residuo radiactivo: Es residuo radiactivo todo material o producto de desecho que presenta 
+trazas de radiactividad y para el cual no está previsto ningún uso. Se incluyen los líquidos y 
+gases residuales contaminados.
+Riesgo nuclear/riesgo indebido: Contingencia de un daño nuclear. Si este riesgo es superior al 
+admisible se denomina riesgo indebido. 
+Seguridad nuclear: Conjunto de normas y prácticas que se utilizan para la ubicación, el 
+proyecto, control y funcionamiento de instalaciones nucleares o radiactivas sin riesgo 
+indebido.
+Sievert (Sv): Unidad de la dosis equivalente y de la dosis efectiva en el Sistema Internacional de 
+Unidades: 1Sv = 1J/Kg. La unidad antigua es el REM. 1Sv = 100REM. 
+Sobredosis: Caso de superación de los límites de dosis; cuando se produce una lectura 
+dosimétrica superior a los límites de dosis, es decir, al producirse un posible caso de sobredosis, 
+el Consejo de Seguridad Nuclear requiere la realización de controles médicos especiales y realiza 
+una investigación para averiguar si la dosis fue recibida realmente por la persona usuaria del 
+dosímetro o solamente por éste- Los resultados de la investigación, de ser positivos, se reflejan 
+en los historiales medidos y dosimétrico y en el carnet radiológico del trabajador. 
+Sustancia nuclear: En la legislación española, nombre que se aplica al combustible nuclear, con 
+excepción del uranio natural y del uranio empobrecido, y a los productos y desechos radiactivos. 
+Sustancia radiactiva: Cualquier material que contiene uno o varios radionucleidos cuya 
+actividad deba tenerse en cuenta con fines de protección radiológica. (Ver “Material radiactivo”). 
+Tasa de dosis: Incremento de la dosis por unidad de tiempo. La tasa de dosis absorbida se 
+mide en Gray por segundo (Gy/s) También se utiliza el Gy/m y Gy/h. La unidad de dosis
+equivalente y de dosis efectiva es sievert por segundo (Sv/s). También se utiliza Sv/m, Sv/h y 
+Sv/año.
+Zona controlada: Area en la que exista la posibilidad de recibir dosis efectivas superiores a 6 
+mSv por año oficial o una dosis equivalente superior a 3/10 de los límites de dosis equivalente 
+para el cristalino, la piel y las extremidades o bien, aquella zona en que sea necesario seguir 
+procedimientos de trabajo con objeto de restringir la exposición a la radiación ionizante, evitar la 
+dispersión de contaminación radiactiva o prevenir o limitar la probabilidad y magnitud de 
+accidentes radiológicos o sus consecuencias.
+Zona de Acceso Prohibido: Son aquellas en las que existe riesgo de recibir, en una 
+exposición única, dosis superiores a los límites legalmente fijados. 
+Zona de Permanencia Limitada: Son aquellas en las que existe el riesgo de recibir una dosis 
+superior a los límites de dosis legalmente fijados. 
+49
+
+Zona de Permanencia Reglamentada: Son aquellas en las que existe el riesgo de recibir, en 
+cortos periodos de tiempo, una dosis superior a los límites de dosis legalmente fijados y que 
+requieren prescripciones especiales desde el punto de vista de la optimización.
+Zona vigilada: Area que no siendo Zona Controlada exista la posibilidad de recibir dosis 
+efectivas superiores a 1 mSv por año oficial o una dosis equivalente superior a 1/10 de los 
+límites de dosis equivalentes para el cristalino, la piel, y las extremidades.
+50
+
+Trabajadores de Instalaciones Nucleares, Radiactivas y otros lugares de trabajos 
+con  Radiaciones Ionizantes. (Apartado1)
+Categoría B
+Vigilancia sanitaria siguiendo los principios
+generales de la prevención de riesgos 
+Vigilancia Sanitaria Obligatoria (ver apartado 1) 
+Periódica: 
+Cada
+12
+meses (o más
+frecuentemente)
+Inicial
+Especial:
+- Superación Límites de dosis
+- Asignación tareas especiales 
+- Ausencia prolongada al
+trabajo
+Otros
+(Según
+criterio de 
+Servicio de
+prevención
+-
+Hª Laboral
+-
+Hª Clínica (Anamnesis  + Exploración Clínica específica) 
+- 
+Control Biológico
+- 
+Estudios Complementarios
+Categoría A 
+Para Trabajadores de 
+“Categoría B” seguir 
+principios generales de 
+la salud laboral 
+Para Trabajadores de 
+“Categoría A” ver: 
+Apartado 6 y Anexo A
+APTITUD para el 
+trabajo a realizar
+51
+ANEXO C 
+
+52

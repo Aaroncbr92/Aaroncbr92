@@ -1,0 +1,3012 @@
+Protocolo para la vigilancia
+sanitaria específica de las
+personas trabajadoras
+expuestas a vibraciones
+SANIDAD 2026
+MINISTERIO DE SANIDAD
+
+
+Protocolo para la vigilancia 
+sanitaria específica de las 
+personas trabajadoras 
+expuestas a vibraciones
+SANIDAD 2026
+MINISTERIO DE SANIDAD
+
+Edita y distribuye:
+©  MINISTERIO DE SANIDAD
+CENTRO DE PUBLICACIONES
+Paseo del Prado, 18 - 28014 MADRID
+NIPO en línea: 133-26-003-9
+https://cpage.mpr.gob.es
+
+Protocolo para la vigilancia 
+sanitaria específica de las 
+personas trabajadoras 
+expuestas a vibraciones
+ESCUDO GOB
+IE RNO DE ESPAÑA
+
+
+LOGO
+La Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud aprobó el “Protocolo de Vigi­
+lancia Sanitaria Específica de la salud de las personas trabajadoras expuestas a vibraciones” en la reunión celebrada 
+el día 2 de octubre de 2025.
+COMISIÓN NACIONAL
+DE SEGURIDAD Y SALUD
+EN EL TRABAJO
+La Comisión Nacional de Seguridad y Salud en el Trabajo fue informada del Protocolo para la Vigilancia Sanitaria 
+Específica de las personas trabajadoras expuestas a vibraciones, en el pleno celebrado el 30 de enero de 2026.
+
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+9
+Autoría
+Aitor Guisasola Yeregui. Médico especialista en Medicina del Trabajo. Osalan-Instituto Vasco de 
+Seguridad y Salud Laborales
+Marianna Affinito. Médica especialista en Medicina del Trabajo. Osalan-Instituto Vasco de 
+Seguridad y Salud Laborales
+Jon Salinero Múgica. Médico residente de la Unidad docente de medicina del trabajo del País 
+Vasco. OSAKIDETZA-Servicio Vasco de Salud
+María Rosario de Simón Ballesteros. Médica residente de la Unidad docente de medicina del 
+trabajo del País Vasco. OSAKIDETZA-Servicio Vasco de Salud
+Arantza Lijó Bilbao. Médica especialista en Medicina del Trabajo. Osalan-Instituto Vasco de 
+Seguridad y Salud Laborales
+José Ignacio Cabrerizo Benito. Médico especialista en Medicina del Trabajo. Osalan-Instituto 
+Vasco de Seguridad y Salud Laborales
+Comisión de Salud Pública
+Ponencia de Salud Laboral
+Montserrat García Gómez. Ministerio de Sanidad
+Aitor Gisasola Yeregui. Osalan-Instituto Vasco de Seguridad y Salud Laborales. País Vasco
+Rafael Panadès Valls. Conselleria de Salut. Catalunya
+María Isabel González García. Consejería de Salud y Bienestar Social. Galicia
+Pilar Márquez Aragúndez. Consejería de Salud y Familias. Andalucía
+José Luis Carretero Ares. Consejería de Sanidad. Principado de Asturias
+Bárbara Vega Mallo. Consejería de Sanidad. Principado de Asturias
+Luis Javier Viloria Raymundo. Consejería de Sanidad y Servicios Sociales. Cantabria
+Palmira Martínez Foronda. Consejería de Salud y Servicios Sociales. La Rioja
+Bienvenida Carpe Carpe. Consejería de Sanidad y Política Social. Región de Murcia
+Valentín Esteban Buedo. Conselleria de Sanidad Universal y Salud Pública. Co­munidad 
+Valenciana
+María Luisa Mena. Consejería de Sanidad, Bienestar Social y Familia. Aragón
+Ana Clavería Tabuenca. Consejería de Sanidad, Bienestar Social y Familia. Aragón
+Fernando Cebrián Gómez. Consejería de Sanidad y Asuntos Sociales. Casti­lla-La Mancha
+José Ignacio Aguado. Comunidad Foral de Navarra. Instituto Navarro de Salud Laboral. 
+Comunidad Foral de Navarra
+Estrella Extramiana Cameno. Comunidad Foral de Navarra. Instituto Navarro de Salud Laboral. 
+Comunidad Foral de Navarra
+Santiago Briz Blázquez. Consejería de Sanidad y Políticas Sociales. Extremadura
+
+10	
+SANIDAD
+Margarita Gayá Janer. Baleares. Conselleria de Salut. Illes Balears
+Teresa González. Baleares. Conselleria de Salut. Illes Balears
+Francisco Mateos Batista. Consejería de Sanidad. Canarias
+Irene López Jorge. Consejería de Sanidad. Canarias
+María Fernanda González Gómez. Consejería de Sanidad. Comunidad de Madrid
+Sara Boleas. Consejería de Sanidad. Comunidad de Madrid
+María Teresa Jiménez López. Consejería de Sanidad. Castilla y León
+Susana Moro del Campo. Consejería de Sanidad. Castilla y León
+Luisa Fernanda Hermoso Castro. Consejería de Presidencia y Salud Publica. Ciudad Autónoma 
+de Melilla
+Pedro Gullón Tosio. Director General de Salud Pública y Equidad en Salud
+Santiago González Muñoz. Subdirector General de Sanidad Ambiental y Salud Laboral
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+11
+Índice
+
+	
+	
+	
+	
+
+12	
+SANIDAD
+Bibliografía 
+ 
+43
+Anexos 
+ 
+ 
+47
+Anexo I: Cuestionarios 
+48
+Anexo II: Exploraciones complementarias específicas 
+60
+Anexo III: Diagnóstico diferencial 
+64
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+13
+Presentación
+Este protocolo es fruto del trabajo desarrollado por las Administraciones Sanitarias a tra­
+vés de la Ponencia de Salud Laboral de la Comisión de Salud Pública del Consejo Interte­
+rritorial del Sistema Nacional de Salud.
+Para su elaboración definitiva, la propuesta inicial ha sido revisada por el Instituto 
+Nacional de Seguridad y Salud en el Trabajo y enriquecida con los comentarios y propues­
+tas de las sociedades científicas de la medicina y la enfermería del trabajo y de los repre­
+sentantes de los interlocutores sociales.
+El Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de 
+los Servicios de Prevención, establece en su artículo 37 que la vigilancia de la salud de las 
+personas trabajadoras estará sometida a protocolos específicos u otros medios existentes 
+con respecto a los factores de riesgo a los que esté expuesto el trabajador. El Ministerio de 
+Sanidad y Consumo y las Comunidades Autónomas, oídas las sociedades científicas com­
+petentes, y de acuerdo con lo establecido en la Ley General de Sanidad en materia de par­
+ticipación de los agentes sociales, establecerán la periodicidad y contenidos específicos de 
+cada caso. Por su parte, el Real Decreto 1311/2005, de 4 de noviembre, sobre la protección 
+de la salud y la seguridad de los trabajadores frente a los riesgos derivados o que puedan 
+derivarse de la exposición a vibraciones mecánicas desarrolla el derecho a la vigilancia de 
+la salud de las personas trabajadoras expuestas a este riesgo que se realizará en cumpli­
+miento de lo establecido en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos 
+Laborales.
+Es el primer protocolo que se dirige a la vigilancia sanitaria específica de la salud de 
+las personas trabajadoras expuestas a vibraciones.
+El contenido de este protocolo toma su base de las conclusiones de la Guía para la 
+vigilancia de la salud de las personas trabajadoras expuestas a vibraciones que se ha ela­
+borado para aportar la evidencia científica sobre las exploraciones y pruebas médicas que 
+se incluyen en el mismo. Allí donde esta evidencia ha sido escasa o poco concluyente, los 
+cuestionarios, exploraciones o pruebas indicadas se han planteado a partir de consensos 
+existentes. Con ello se pretende realizar una detección precoz de los efectos que para la 
+salud puede tener la exposición a vibraciones, de modo que se pueda evitar la progresión 
+de las lesiones en las personas afectadas y su aparición en las que siguen expuestas, ya que 
+si estos se presentan ello permite cuestionar y evaluar la eficacia de la prevención que se 
+lleva a cabo y la mejora en el caso de que esta sea insuficiente.
+
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+15
+1.  Criterios de aplicación
+Este protocolo se aplicará a todos aquellos trabajadores que durante su jornada laboral 
+vayan a estar expuestos o estén expuestos a vibraciones.
+
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+17
+2.  Definición del problema
+2.1.  Definiciones y conceptos
+Vibración: es el movimiento de un cuerpo sólido alrededor de su posición de equilibrio 
+sin que exista desplazamiento neto del objeto que vibra. Se transmite por el interior de un 
+objeto y entre objetos a través de los puntos de contacto1. Puede ser generada por cual­
+quier objeto que realice movimientos continuos o repetitivos como herramientas, material 
+rodante o maquinaria rotativa2.
+–	 Características de las vibraciones
+	
+El movimiento vibratorio se caracteriza por su frecuencia, su amplitud, su acelera­
+ción y por su dirección de propagación2.
+	
+•  Frecuencia: nº de veces por segundo que realiza un ciclo completo de oscilación. 
+Su unidad es el hertzio (Hz).
+	
+•  Amplitud: es la distancia entre las posiciones extremas entre las cuales mueve el 
+objeto vibrante. La amplitud se expresa en metros (m).
+	
+•  Aceleración: se calcula en función de la amplitud y frecuencia del movimiento 
+de oscilación. Evoluciona proporcionalmente con estos dos factores y se expresa 
+en m/s2.
+	
+•  La dirección de propagación se mide en las tres dimensiones del espacio: ejes x, y, z.
+F
+I
+G
+Fuentes: Comisión Europea. Guía no vinculante sobre buenas prácticas para la aplicación de la Directiva 
+2002/44/CE3 e Institut National de Recherche et Sécurité. Vibrations main-bras. Guide de bonnes pra­
+tiques4.
+–	 Tipos de vibraciones según la vía de entrada, podemos distinguir dos tipos1:
+	
+•  Vibración mano brazo: se trata de vibraciones de alta frecuencia que se transmi­
+ten por las manos del trabajador generalmente a través del agarre de herramien­
+tas mecánicas.
+	
+•  Vibración de cuerpo entero: se trata de vibraciones de baja y muy baja frecuencia 
+que se producen cuando gran parte del peso del cuerpo humano descansa sobre una 
+superficie vibrante. Se transmiten generalmente a través de los asientos o de los pies.
+–	 Exposición a vibraciones en el trabajo:
+	
+La vibración a la que está sometida una persona podrá ser unidireccional y en una 
+sola frecuencia o, lo que suele ser más habitual, en varias direcciones y frecuencias. 
+
+18	
+SANIDAD
+Las vibraciones producidas en el ámbito laboral son una mezcla de vibraciones 
+simples de tipo sinusoidal de diversas frecuencias5.
+	
+Los valores de referencia para la vibración transmitida al sistema mano brazo, 
+valores límite de exposición y valores de exposición que dan lugar a una acción, 
+establecidos en el artículo 3 del Real Decreto 1311/2005, de 4 de noviembre, sobre 
+la protección de la salud y la seguridad de los trabajadores frente a los riesgos de­
+rivados o que puedan derivarse de la exposición a vibraciones mecánicas, son:
+	
+•	 Para la vibración transmitida al sistema mano brazo:
+	
+	
+a)  El valor límite de exposición diaria normalizado para un periodo de refe­
+rencia de ocho horas se fija en 5 m/s2.
+	
+	
+b)  El valor de exposición diaria normalizado para un periodo de referencia de 
+ocho horas que da lugar a una acción se fija en 2,5 m/s2.
+	
+•	 Para la vibración transmitida al cuerpo entero:
+	
+	
+a)  El valor límite de exposición diaria normalizado para un periodo de refe­
+rencia de ocho horas se fija en 1,15 m/s2.
+	
+	
+b)  El valor de exposición diaria normalizado para un periodo de referencia de 
+ocho horas que da lugar a una acción se fija en 0,5 m/s2.
+2.2. Fuentes de exposición6
+–	 Uso de herramientas manuales vibratorias o neumáticas: martillos neumáticos, ta­
+ladros, taladros a percusión, punzones, remachadoras, pistolas de sellado, motosie­
+rras, lijadoras, amoladoras, esmeriles, sierras mecánicas, perforadoras, pulidoras, 
+desbrozadoras, martillos rompedores de hormigón, llaves de impacto, etc.
+–	 Conducción de vehículos de transporte de personas o mercancías, equipos de 
+manipulación, construcción o movimiento de tierras (camiones autopropulsados, 
+tractores, retroexcavadoras, niveladoras, buldóceres, compactadores, etc.).
+–	 Utilización de determinadas máquinas industriales fijas: mesas vibratorias, tritura­
+doras, cribas, máquinas de coser, etc.
+2.3. Efectos para la salud
+2.3.1. Síndrome por vibraciones mano brazo3,4,7,8
+La exposición a vibraciones transmitidas a los miembros superiores puede provocar o con­
+tribuir a la aparición de diferentes efectos para la salud.
+–	 Trastornos vasculares
+	
+La principal manifestación es la aparición de un fenómeno de Raynaud secundario 
+o dedo blanco inducido por vibraciones.
+	
+Los síntomas son la palidez intermitente de distintas partes de los dedos, inicial­
+mente solo las puntas, que puede extenderse a su totalidad. La sensibilidad de los 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+19
+dedos disminuye durante el episodio del fenómeno, de forma que no se detectan 
+ciertos estímulos que normalmente producen dolor. Esto puede interferir con el 
+trabajo a realizar y aumenta el riesgo de que se produzca un accidente: caída de 
+un objeto, lesión con una herramienta, etc. El tacto y la destreza se ven afectados, 
+hasta el punto de no poder reanudar el trabajo hasta que el episodio no haya fina­
+lizado, lo cual requiere el retorno a la normalización de la circulación sanguínea de 
+la zona.
+	
+Los síntomas suelen ser más graves en el lado de la mano dominante a nivel de uno 
+o más dedos y se desencadena fácilmente por la exposición al frío. Se manifiesta 
+como cambios de coloración cutánea distal, con tres fases típicas: palidez, cianosis 
+e hiperemia. La fase de palidez cursa con parestesias, acorchamiento, sensación de 
+pinchazos y frío. Le sigue la fase de cianosis y, por último, la fase de hiperemia re­
+activa que se manifiesta por coloración roja de los dedos que a veces se acompaña 
+de dolor, aunque en ocasiones se recupera la coloración normal sin pasar por la 
+fase de rubor.
+–	 Trastornos neurológicos
+	
+Las vibraciones transmitidas a las extremidades superiores pueden provocar la 
+aparición de sensaciones de entumecimiento y hormigueo en los dedos y las ma­
+nos. Estos síntomas tienden a empeorar en duración, frecuencia e intensidad si 
+la exposición continúa. Las personas afectadas ven reducida su percepción táctil, 
+puede disminuir su sensibilidad al calor y al frío, así como un deterioro en la des­
+treza manual. Esto puede interferir con el trabajo a realizar y aumenta el riesgo de 
+que se produzca un accidente: caída de un objeto, lesión con una herramienta, etc.
+	
+Las personas trabajadoras expuestas a vibraciones a veces pueden presentar un 
+síndrome de túnel carpiano. Los movimientos repetitivos, agarres fuertes o pos­
+turas forzadas combinadas con la exposición a vibraciones pueden provocar este 
+síndrome.
+–	 Trastornos osteoarticulares
+	
+Los trastornos de huesos y articulaciones inducidos por vibraciones son un tema 
+controvertido. Diversos autores consideran que los trastornos de huesos y articu­
+laciones en las extremidades superiores de trabajadores que utilizan herramientas 
+vibratorias manuales no tienen un carácter específico y son similares a los debidos 
+al proceso de envejecimiento y al trabajo manual pesado. Las personas expuestas 
+pueden quejarse de debilidad muscular, dolor en las manos y los brazos, y dismi­
+nución de la fuerza muscular.
+	
+Otros trastornos que han sido objeto de estudio son las tendinitis y tenosinovitis en 
+las extremidades superiores, y la contractura de Dupuytren. Estos trastornos pa­
+recen estar relacionados con factores de estrés ergonómico que surgen del trabajo 
+manual pesado, y la asociación con la exposición a las vibraciones no es concluyente.
+	
+Algunos investigadores también han informado de un exceso de prevalencia de 
+la enfermedad de Kienbock (malacia semilunar) y enfermedad de Köhler (pseu­
+doartrosis del hueso escafoides en la muñeca). Existe poca evidencia de una ma­
+yor prevalencia de trastornos degenerativos de los huesos y las articulaciones en 
+las extremidades superiores de trabajadores expuestos a vibraciones de frecuencia 
+media o alta provenientes de motosierras o rectificadoras, aunque se ha informado 
+
+20	
+SANIDAD
+de un mayor riesgo de osteoartrosis de muñeca y artrosis de codo y osteofitosis en 
+mineros de carbón, trabajadores de la construcción de carreteras y operadores de 
+metalurgia expuestos a golpes y vibraciones de baja frecuencia de gran magnitud 
+de herramientas de percusión (picadoras, remachadoras y cinceladoras, compreso­
+res vibratorios). Se cree que, además de la vibración, la sobrecarga articular debida 
+a un esfuerzo físico intenso, posturas forzadas y otros factores biomecánicos puede 
+explicar la mayor incidencia de lesiones esqueléticas. La susceptibilidad constitu­
+cional también podría jugar un papel en la etiopatogenia de la osteoartrosis pre­
+matura de la muñeca y el codo.
+	
+En la actualidad, no existen estudios epidemiológicos que muestren una relación 
+exposición-respuesta para los trastornos de los huesos y las articulaciones en tra­
+bajadores expuestos a las vibraciones.
+2.3.2. Vibraciones de cuerpo entero
+El principal efecto asociado a la exposición a vibraciones de cuerpo entero es el dolor 
+lumbar8,9 que también puede asociarse a la aparición de ciatalgia9. Revisiones realizadas 
+sobre estudios llevados a cabo con agricultores muestran que la relación de la exposición 
+a vibraciones de cuerpo entero y trastornos lumbares no es clara. La heterogeneidad en 
+la medición de las variables de exposición y la falta de estandarización en la definición de 
+lo que se incluye en los estudios como trastorno lumbar dificultan la comprensión de la 
+asociación entre las vibraciones de cuerpo entero y los trastornos lumbares10.
+En todo caso, estudios realizados en personal de conducción de autobús11,12 o en la 
+minería13 consideran que la exposición a vibraciones de cuerpo entero se relaciona con la 
+aparición de este efecto, aunque en general sugieren que la postura, las condiciones de los 
+vehículos, de la carretera, la organización del trabajo e incluso factores psicológicos ac­
+tuarían en conjunto con las vibraciones para dar lugar a la aparición de trastornos muscu­
+loesqueléticos y más específicamente al dolor en la columna lumbar. Resultados similares, 
+aunque con niveles de evidencia bajos, se encuentran cuando los estudios no se limitan a 
+este tipo de ocupaciones. En ellos se muestra que otro tipo de exposiciones, tales como la 
+manipulación de cargas, las posturas forzadas y las exposiciones mecánicas combinadas 
+están asociadas con mayor evidencia con el dolor lumbar14.
+Cuando se ha estudiado la posible relación de la exposición a vibraciones con la artro­
+sis de cadera, las conclusiones también apuntan a que este efecto podría ser el resultado de 
+la acción conjunta de la exposición a manipulación de cargas pesadas, posturas forzadas, 
+movimientos repetitivos y vibración de cuerpo entero15.
+En cualquier caso, no se observa una relación entre la exposición a vibraciones de 
+cuerpo entero y una degeneración en la columna vertebral cuando esta se evalúa mediante 
+técnicas de imagen16.
+Se han estudiado otros efectos, y las revisiones sistemáticas que los recogen se re­
+fieren a los referidos al embarazo y al cáncer de próstata. En relación con el embarazo, 
+se concluye que la exposición a vibraciones de cuerpo entero podría aumentar la proba­
+bilidad de tener un parto prematuro, del mismo modo que podría ocurrir al trabajar en 
+puestos que exigen mucho esfuerzo físico, en jornadas prolongadas o trabajar a turnos17. 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+21
+En cuanto al cáncer de próstata no se encuentra asociación con la exposición a este tipo 
+de vibraciones18.
+Finalmente, en cuanto a efectos agudos que pueden aparecer en los momentos que 
+siguen a la exposición a vibraciones, pueden producirse efectos sobre la estabilidad pos­
+tural, particularmente en condiciones en las que se mantienen los ojos abiertos19. En cual­
+quier caso, en relación con el equilibrio la evidencia es contradictoria, con casos en los 
+que este se ve afectado y otros en los que no20. Un número limitado de estudios demuestra 
+efectos secundarios no significativos de la vibración ocupacional en el control motor y la 
+función visual19.
+Los resultados de los estudios centrados en el conocimiento de efectos sobre la fun­
+ción cognitiva son inconsistentes, encontrándose estudios que indican desde alteraciones 
+en el desempeño hasta efectos positivos sobre esta función. Y aunque las vibraciones en el 
+trabajo podrían provocar una alteración transitoria del control cognitivo y postural, inclu­
+so por debajo de los valores límite de exposición, la evidencia actual es insuficiente para 
+indicar un cambio de dichos valores19. Los resultados de los estudios sobre los efectos de 
+las vibraciones sobre el desempeño laboral no son concluyentes20.
+2.3.3.  Exposición conjunta a vibraciones mano brazo y 
+ruido21
+Si bien no se demuestra la existencia de un mayor riesgo de pérdida de audición por la 
+exposición conjunta de las personas trabajadoras expuestas a ruido y vibraciones, existe 
+un mayor riesgo de pérdida de audición para aquellas que utilizan herramientas vibrato­
+rias portátiles en un entorno ruidoso y que padecen dedo blanco por vibraciones en com­
+paración con las personas trabajadoras sin dedo blanco por vibraciones. Sin embargo, la 
+gravedad del síndrome de dedo blanco no se asocia a un mayor riesgo de pérdida auditiva.
+
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+23
+3.  Evaluación del riesgo
+La Ley 31/1995 de Prevención de Riesgos Laborales y su normativa de desarrollo esta­
+blecen que el empresario deberá realizar una evaluación inicial de los riesgos que será 
+actualizada cuando cambien las condiciones de trabajo, o cuando existan daños en la salud 
+de los trabajadores.
+La evaluación se realizará en base a lo establecido en la normativa específica, si­
+guiendo lo estipulado por la “Guía técnica para la evaluación y prevención de los riesgos 
+relacionados con las vibraciones mecánicas” del Instituto Nacional de Seguridad y Salud 
+en el Trabajo.
+
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+25
+4. Protocolo sanitario específico
+El Protocolo sanitario específico de Vigilancia de la Salud está dirigido a las y los profesio­
+nales sanitarios encargados de la vigilancia de la salud de las personas trabajadoras que se 
+encuentran expuestas a vibraciones, tanto de mano brazo como de cuerpo entero.
+Para determinar cómo se llevará a cabo la vigilancia específica de la salud es necesario 
+partir del conocimiento del puesto de trabajo, que debe quedar plasmado en forma de des­
+cripción detallada en la historia clínico-laboral de la persona trabajadora. Esto quiere decir 
+que se debe consignar qué hace la persona, dónde y cómo lo hace, cuándo lo hace, durante 
+cuánto tiempo y con qué medidas de protección cuenta, tanto colectivas como individuales.
+El o la especialista en medicina del trabajo deberá disponer de la evaluación de ries­
+gos que debe quedar recogida en la historia clínico-laboral de la persona trabajadora.
+La evaluación de riesgos deberá integrar la exposición a vibraciones, teniendo en 
+cuenta las características de la exposición, con la parte correspondiente al resto de facto­
+res de riesgo del puesto de trabajo (ritmo de trabajo, temperatura, etc.), junto con los de­
+más elementos que puedan ser determinantes, incluyendo las características de la persona 
+(sexo, edad, condiciones que pueden suponer especial vulnerabilidad, etc.).
+La vigilancia de la salud consta de 2 partes:
+–	 Vigilancia individual de la salud
+–	 Vigilancia colectiva de la salud
+4.1. Vigilancia individual de la salud
+La vigilancia individual de la salud habitualmente se realiza a través de la práctica programada 
+de exámenes de salud iniciales, periódicos y tras ausencia prolongada por motivos de salud.
+Además, es imprescindible que el personal sanitario del servicio de prevención co­
+nozca las enfermedades que se produzcan en la plantilla y las ausencias de trabajo por 
+motivos de salud, ya que pueden aparecer o repetirse síntomas o signos compatibles con 
+efectos de exposición a vibraciones, que pueden no estar presentes a la hora de realizar los 
+exámenes de salud programados.
+Es por ello por lo que deben establecerse procedimientos de comunicación entre la 
+empresa y el área de medicina del trabajo del servicio de prevención, para que el personal 
+sanitario conozca, tal como se establece en el artículo 37.3.d. del Real Decreto 39/1997, de 
+17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, las enfer­
+medades que se produzcan entre los trabajadores y las ausencias de trabajo por motivos de 
+salud, a los solos efectos de poder identificar cualquier relación entre la causa de enfermedad 
+o de ausencia y los riesgos para la salud que puedan presentarse en los lugares de trabajo.
+Este conocimiento servirá también para la realización de la evaluación de la salud 
+de quienes reanuden el trabajo tras una ausencia prolongada por motivos de salud, con 
+la finalidad de descubrir sus eventuales orígenes profesionales y recomendar una acción 
+apropiada para proteger de estos riesgos al resto del personal.
+Los datos derivados de la vigilancia individual se incorporarán a la vigilancia colecti­
+va de la salud.
+
+26	
+SANIDAD
+4.1.1. Examen de salud inicial
+Se realizará a partir de la vinculación legal a la empresa después de la asignación de 
+tareas específicas con riesgo derivado de la exposición a vibraciones, no antes de la 
+contratación, o tras cambio de puesto de trabajo a otro con riesgo de exposición a vi­
+braciones.
+4.1.2. Exámenes de salud periódicos
+La periodicidad de los exámenes de salud se establecerá en función de criterios de la eva­
+luación del riesgo del puesto de trabajo, los resultados de la vigilancia de la salud (exáme­
+nes anteriores), características personales como la edad, sexo o vulnerabilidad.
+–	 Vibración mano brazo:
+	
+De forma general se propone una periodicidad anual. Sin embargo, tras la de­
+tección de alteraciones derivadas de la exposición a vibraciones mano brazo, se 
+recomienda realizar un examen de salud cada 6 meses para valorar la eficacia de 
+las medidas preventivas indicadas en cada caso y para evaluar la progresión o no 
+de las alteraciones22.
+–	 Vibración de cuerpo entero:
+	
+De forma general se propone una periodicidad bienal23.
+Estas periodicidades podrán modificarse y se podrán realizar exámenes de salud o pruebas 
+complementarias, antes o con mayor frecuencia, según criterio médico y si está justificado 
+por las circunstancias concretas de exposición o de salud de cada persona trabajadora.
+4.1.3.  Exámenes tras una ausencia prolongada por motivos 
+de salud
+Tienen la finalidad de descubrir los eventuales orígenes profesionales de la ausencia y 
+recomendar una acción apropiada para proteger a los trabajadores y a las trabajadoras. Se 
+tendrán en cuenta especialmente los problemas de salud relacionados con la exposición a 
+vibraciones.
+4.1.4. Contenido
+Se comprobará que la Historia Clínico-Laboral de cada trabajador o trabajadora recoja el 
+contenido establecido en el artículo 37.3.c. del Real Decreto 39/1997, por el que se aprue­
+ba el Reglamento de los Servicios de Prevención, en concreto:
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+27
+Anamnesis específica
+Historia laboral:
+Debe recoger la información sobre la exposición a vibraciones en el pasado y en la ac­
+tualidad; las actividades o tareas; el tiempo de exposición; los resultados de las mediciones, 
+haciendo constar fecha de la medición y resultados obtenidos; las medidas de prevención 
+adoptadas (medidas técnicas; organizativas; de protección individual, precisando el EPI 
+empleado, sus características técnicas y las normas UNE que cumplen, etc.) y la utilización 
+real de las mismas.
+Se propone para ello la utilización de registros que recojan información sobre:
+–	 Empresa (razón social/actividad).
+–	 Profesión.
+–	 Ocupación y/o puesto de trabajo.
+–	 Tiempo de trabajo (horas al día, meses/años de duración).
+–	 Tipo de vibraciones.
+–	 Actividades realizadas con vibraciones o con riesgo de exposición a ellas.
+–	 Niveles de exposición.
+–	 Fechas de medición y resultados.
+–	 Sistemas de prevención y protección utilizados.
+Historia clínica, que recogerá24-28:
+–	 Antecedentes familiares de enfermedades que puedan tener relación con los efec­
+tos de la exposición a vibraciones: enfermedades vasculares (p.ej. hipertensión, 
+síndromes vasoespásticos, dedo blanco constitucional), enfermedades metabóli­
+cas (p.ej. diabetes, gota), enfermedades inmunológicas (p.ej. artritis reumatoide), 
+etc.
+–	 Antecedentes personales:
+	
+•	 Antecedentes patológicos relacionados con la exposición.
+	
+•	 Otros antecedentes patológicos de causa laboral.
+	
+•	 Antecedentes patológicos de causa común que puedan tener interés (incluye 
+enfermedades crónicas, en tratamiento médico e ingresos hospitalarios): tras­
+tornos agudos o crónicos vasculares y musculoesqueléticos en manos y brazos; 
+lesiones o tratamientos quirúrgicos en cuello, miembros superiores, columna 
+lumbar; uso de medicamentos; síntomas de blanqueamiento o cianosis en de­
+dos; hormigueo o entumecimiento en dedos o manos.
+	
+	
+•	
+Tratamientos farmacológicos.
+	
+	
+•	
+Hábitos tóxicos, incluidos consumo de tabaco, alcohol o cocaína.
+	
+	
+•	
+Hábitos de vida y ocio que puedan suponer riesgo de exposición a vibracio­
+nes.
+Historia actual
+El diagnóstico de las alteraciones provocadas por las vibraciones es principalmente clíni­
+co. Se llevará a cabo mediante la aplicación de cuestionarios dirigidos a la búsqueda de 
+síntomas y signos relacionados con la exposición. Se propone la utilización de los cuestio­
+narios que se proporcionan en el anexo I.
+
+28	
+SANIDAD
+–	 Síndrome por vibraciones mano brazo:
+	
+Cuestionario de síntomas de síndrome por vibraciones mano brazo24,25.
+–	 Síndrome de túnel carpiano:
+	
+Cuestionario de Boston29.
+	
+Presenta 2 escalas:
+	
+•	 Escala de severidad de síntomas.
+	
+•	 Escala de situación funcional.
+–	 Trastornos osteomusculares y articulares debidos a vibraciones mano brazo:
+	
+Nordic Questionnaire y sus cuestionarios específicos de cuello y hombro30,31, tam­
+bién el Extended Nordic Musculoskeletal Questionnaire (NMQ-E)32 para el resto 
+de localizaciones.
+–	 Enfermedad de Dupuytren:
+	
+En la mayoría de los casos, la contractura de Dupuytren se puede diagnosticar por 
+cómo se ven y cómo se sienten las manos. Rara vez se necesitan otras pruebas32.
+–	 Vibraciones de cuerpo entero:
+	
+Nordic Questionnaire y su cuestionario específico de columna lumbar31.
+Examen físico específico
+Se realizará si los datos de la anamnesis muestran la presencia de síntomas y/o signos 
+relacionados con la exposición, con la finalidad de confirmar el diagnóstico, graduar la 
+afectación o descartar signos de alarma.
+–	 Síndrome por vibraciones mano brazo
+	
+•	 Afectación vascular:
+	
+	
+Se pedirá a la persona trabajadora que indique las falanges que se le suelen 
+afectar en un diagrama de Katz, tanto en cuanto a los cambios de color (vascu­
+lar) como de sensibilidad (neurosensorial)24-28.
+	
+	
+Se pedirá a la persona trabajadora que obtenga una fotografía de sus manos 
+cuando se produzca un ataque y que los aporte al personal sanitario del servi­
+cio de prevención para que este pueda valorar el grado de afectación a partir 
+de los cambios en la coloración de los dedos34.
+	
+FIGU
+RA
+Diagrama de Katz
+Fuente: SOM HAVS Special Interest Group. The identification and management of hand arm vibration 
+syndrome (HAVS). London: The Society of Occupational Medicine; 202126 y SOM HAVS Special Interest 
+Group. Vibration-related disease. London: The Society of Occupational Medicine; 202527.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+29
+–	 Síndrome de túnel carpiano
+	
+Se pedirá a la persona trabajadora que indique zonas afectadas en un diagrama de 
+Katz35.
+–	 Trastornos osteomusculares y articulares
+	
+La exploración para cada caso puede hacerse siguiendo las indicaciones recogidas 
+en el Documento de criterios para evaluar la relación con el trabajo de los trastor­
+nos musculoesqueléticos de las extremidades superiores (Criteria document for eva­
+luating the work-relatedness of upper-extremity musculoskeletal disorders)36, que se 
+encuentra disponible en: https://www.sjweh.fi/article/637.
+	
+También puede utilizarse la adaptación francesa37 de estos criterios, que se en­
+cuentra disponible en: https://www.santepubliquefrance.fr/maladies-et-traumatis­
+mes/maladies-liees-au-travail/troubles-musculo-squelettiques/documents/guide/
+protocole-d-examen-clinique-pour-le-reperage-des-troubles-musculosqueletti­
+ques-du-membre-superieur.-adaptation-francaise-du-consensus-europeen-saltsa.
+–	 Enfermedad de Dupuytren
+	
+Observación de depresiones de la palma, zonas con cambio de la pigmentación o 
+fibrosas. Posteriormente, bridas o cordones, que producen una retracción progre­
+siva de los dedos comprometidos hacia la postura en flexión38.
+–	 Vibraciones de cuerpo entero39
+	
+•	 Inspección: valorar alteraciones morfológicas, alineación del eje del raquis, al­
+teraciones del plano frontal y sagital, equilibrio de la pelvis, de la coordinación 
+y de la marcha.
+	
+•	 Palpación: vertebral segmentaria para localizar el dolor (espinosas, ligamentos 
+interespinosos, articulares posteriores...) y puntos gatillo en el dolor miofas­
+cial.
+	
+•	 Movilidad de la región lumbar para valorar la existencia de limitaciones en los 
+planos sagital, frontal o rotacional.
+	
+•	 Si presenta dolor ciático: maniobra de Lasègue. En cualquier caso, tener en 
+cuenta que es una prueba sensible (80-90%) pero poco específica (20-40%).
+Pruebas complementarias específicas
+Se podrán realizar si el examen específico no hubiese sido concluyente, existiesen dudas 
+sobre el diagnóstico o si se considera necesario para confirmar el diagnóstico y graduar la 
+afectación.
+–	  Síndrome por vibraciones mano brazo
+	
+•	 Afectación vascular:
+	
+	
+Si se considera necesario, se podrá realizar prueba de provocación por frío, 
+siguiendo las Normas ISO 14835-1 (Mechanical vibration and shock-Cold pro­
+vocation tests for the assessment of peripheral vascular function. Part 1: Meas­
+urement and evaluation of finger skin temperature) e ISO 14835-2 (Mechani­
+cal vibration and shock-Cold provocation tests for the assessment of peripheral 
+vascular function. Part 2: Measurement and evaluation of finger systolic blood 
+pressure).
+
+30	
+SANIDAD
+•	 Afectación neurosensorial34:
+	
+■	 Si se precisa evaluar la percepción sensorial, se podrán utilizar los siguientes 
+métodos validados: monofilamentos de Semmes-Weinstein, estesiometría tér­
+mica o umbrales vibrotáctiles.
+ 
+■ 
+Si se precisa evaluar la destreza de manipulación, se utilizará la prueba del 
+tablero perforado de Purdue (Purdue Pegboard Test).
+–	 Síndrome de túnel carpiano35:
+ 
+■ 
+Si se precisa evaluar la percepción sensorial, se podrán utilizar los siguientes 
+métodos: monofilamentos de Semmes-Weinstein o discriminación estática de 
+2 puntos en el dedo medio.
+ 
+■ 
+Si se precisa evaluar la destreza de manipulación, se podrá utilizar la prueba 
+del tablero perforado de Purdue (Purdue Pegboard Test).
+ 
+■ 
+Si se considera necesario hacer un diagnóstico basado en síntomas y en signos 
+en la exploración física, se pueden utilizar pruebas de provocación tales como: 
+test de flexión compresión, test de compresión del carpo, signo de Tinel, test 
+de Phalen, o la prueba de abducción contra resistencia del pulgar o la pérdida 
+motora con atrofia del músculo abductor corto del pulgar.
+–	 Trastornos osteomusculares y articulares:
+	
+Si se considera necesario, podrán utilizarse pruebas de imagen: radiografía, eco­
+grafía, gammagrafía, RNM, TAC; electromiografía; estudios de conducción ner­
+viosa; etc. en función de la patología a estudiar34,35,40,41.
+–	 Enfermedad de Dupuytren:
+	
+Si se precisa, puede utilizarse la prueba de Hueston (test de apoyo de mano en la 
+mesa)38.
+–	 Vibraciones de cuerpo entero:
+	
+Las exploraciones complementarias no están indicadas en el estudio inicial de la 
+mayoría de pacientes con dolor lumbar39.
+Otras pruebas complementarias
+Pueden ser pruebas de imagen: radiografía, ecografía, gammagrafía, RNM, TAC; elec­
+tromiografía; estudios de conducción nerviosa; analíticas; capilaroscopia; angiografía; 
+etc.34,35,40,41, aunque no se considera que deben utilizarse de forma rutinaria para la vigi­
+lancia de la salud de las personas trabajadoras. Se podrán utilizar principalmente para 
+confirmación diagnóstica, clasificación de niveles de afectación, realización de diagnóstico 
+diferencial o ante la existencia de señales de alerta40.
+4.1.5. Criterios de valoración
+El diagnóstico precoz se fundamenta en los siguientes criterios:
+–	 Historia laboral de exposición.
+–	 Hallazgos clínicos consistentes relacionados con la exposición.
+–	 Exclusión de otras causas (ver anexo III para diagnóstico diferencial)
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+31
+4.1.5.1.  Síndrome por vibraciones mano brazo
+El diagrama de las manos y la fotografía se podrán valorar de acuerdo con los criterios de 
+la escala del Taller de Estocolmo (Stockholm Workshop Scale) para las fases del fenóme­
+no de Raynaud inducido por el frío en el síndrome de vibraciones mano brazo42.
+La valoración se realiza para cada una de las manos.
+
+Vascular
+Fase
+Grado 
+Síntomas
+0
+Ningún ataque
+1 v
+Leve
+Ataques esporádicos que solo afectan a las puntas de uno o más 
+dedos
+2 v
+Moderado
+Ataques esporádicos que afectan a las falanges distal y media (rara 
+vez también a la proximal) de uno o más dedos
+3 v
+Grave
+Ataques frecuentes que afectan a todas las falanges de la mayoría 
+de los dedos
+4 v
+Muy grave
+Como en la fase 3, con alteraciones tróficas de la piel en las puntas 
+de los dedos
+Fuente: Bovenzi M. Vibraciones transmitidas a las manos. En Stellman JM, editor. Enciclopedia de salud y seguridad en el 
+trabajo. 4ª edición. Ginebra: Organización Internacional del Trabajo; 1998. 50.1142.
+Los ataques se podrían considerar esporádicos cuando se produzcan 3 o menos por mes y 
+frecuentes cuando sean más de 3 al mes25.
+También, tomando como base el International consensus criteria for diagnosing and 
+staging hand-arm vibration syndrome34 que considera que el estadiaje del componente vas­
+cular del síndrome de vibración mano brazo se basaría más en la extensión del blanquea­
+miento que en la frecuencia de este, podría utilizarse la siguiente clasificación:
+Escala de Griffin
+Fuente: Cooke R. Hand-arm vibration syndrome: a guide for occupational health practitioners. Barnet: The At Work Part­
+nership Ltd.; 202044 y Cooke R. Staging of hand arm vibration syndrome. London: The Society of Occupational Medicine; 
+202244.
+
+32	
+SANIDAD
+Fase
+Escala numérica
+0 v
+Ningún ataque
+1 v
+Puntuación de blanqueamiento de 1-4
+2 v
+Puntuación de blanqueamiento de 5-12
+3 v
+Puntuación de blanqueamiento de 13 o más
+Fuente: Poole CJM, Bovenzi M, Nilsson T, Lawson IJ, House R, Thompson A, Youakim S. International consensus criteria 
+for diagnosing and staging hand-arm vibration syndrome. Int Arch Occup Environ Health. 2019; 92: 117-12734.
+
+Neurosensorial
+Los síntomas neurosensoriales se considerarán patológicos si duran más de 20 minutos.
+Fase
+Síntomas
+0 SN
+Expuesto a vibración, pero sin síntomas
+1 SN
+Adormecimiento intermitente, con o sin hormigueo
+2 SN
+Adormecimiento intermitente o persistente, percepción sensorial reducida
+3 SN
+Adormecimiento intermitente o persistente, discriminación táctil y/o destreza de manipulación redu­
+cidas
+Fuente: Bovenzi M. Vibraciones transmitidas a las manos. En Stellman JM, editor. Enciclopedia de salud y seguridad en 
+el trabajo. 4ª edición. Ginebra: Organización Internacional del Trabajo; 1998. 50.1045.
+Tomando como base el consenso internacional arriba citado33, el estadiaje también podría 
+hacerse siguiendo estos criterios:
+Fase
+Síntomas
+0N
+Expuesto a vibración, pero sin síntomas
+1N
+Adormecimiento intermitente y/o hormigueo en los dedos
+2N
+Como en el estadio 1N, pero con pérdida de percepción sensorial en al menos un dedo, evidenciada 
+por dos o más métodos validados, como monofilamentos, estesiómetro térmico o umbrales vibro­
+táctiles
+3N
+Como en estadio 2N, pero con síntomas de destreza deteriorada y evidencia objetiva mediante la 
+prueba del tablero perforado de Purdue
+Fuente: Poole CJM, Bovenzi M, Nilsson T, Lawson IJ, House R, Thompson A, Youakim S. International consensus criteria 
+for diagnosing and staging hand-arm vibration syndrome. Int Arch Occup Environ Health. 2019; 92: 117-12734.
+Si se utilizan monofilamentos de Semmes-Weinstein, la alteración de la sensibilidad se 
+puede identificar utilizando los monofilamentos 2,83 (0,07 g-f) o 3,22 (0,16 g-f) como um­
+bral de sensación de tacto ligero en personas no expuestas a trabajo manual pesado. Sin 
+embargo, hay que tener en cuenta que el umbral de percepción se incrementa con el tipo 
+de trabajo y también con la edad34.
+Aunque el límite de corte de normalidad no debería aumentarse automáticamente 
+para los trabajadores manuales, cuando las puntas de los dedos están claramente engrosa­
+das se debe considerar la posibilidad de realizar pruebas adicionales con monofilamentos 
+de mayor diámetro. En hombres que realizan trabajos manuales pesados, el umbral de la 
+normalidad se podría llegar a establecer en el monofilamento 4,17 (1,4 g-f)34.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+33
+Si persisten dudas, la derivación a una prueba sensorial cuantitativa (QST), como 
+la prueba del umbral vibrotáctil (VTT) y la prueba del umbral de percepción térmica 
+(TPTT), que evalúa otros receptores además de la presión táctil, aumentaría la posibilidad 
+de excluir un efecto del engrosamiento de la piel sobre la sensibilidad34.
+La prueba del tablero perforado de Purdue (Purdue Pegboard test)46,47 se valora en 
+función de las clavijas insertadas. Dado que el rendimiento en todas las subpruebas dismi­
+nuye significativamente con el aumento de la edad y a que el sexo también influye, porque 
+las mujeres son significativamente más rápidas que los hombres en todas las tareas, se 
+recomienda ajustar los resultados por edad y sexo. Se pueden consultar los valores de ren­
+dimiento en la prueba del tablero perforado de Purdue (Purdue Pegboard Test) ajustadas 
+por edad y sexo en el anexo II.
+4.1.5.2. Síndrome de túnel carpiano
+–	 Cuestionario de Boston35:
+	
+•	 Escala de severidad de síntomas
+	
+	
+Se suman las puntuaciones de cada ítem y se divide por el número de ítems 
+(11).
+	
+	
+Se considera positiva una puntuación superior a 1,9. Cuanto mayor sea la pun­
+tuación, mayor se considera la severidad.
+	
+•	 Escala de situación funcional
+	
+	
+Se suman las puntuaciones de cada ítem y se divide por el número de ítems (8).
+	
+	
+Cuanto mayor sea la puntuación, mayor se considera la severidad.
+–	 Diagrama de Katz35:
+	
+Se valora que corresponda al territorio del nervio mediano (dedos I, II o III) y su 
+extensión.
+–	 La definición de caso basada únicamente en síntomas puede hacerse siguiendo lo 
+indicado en el Documento de criterios para evaluar la relación con el trabajo de los 
+trastornos musculoesqueléticos de las extremidades superiores (Criteria document 
+for evaluating the work-relatedness of upper-extremity musculoskeletal disorders)36 
+o en su adaptación francesa37, en función de los siguientes criterios:
+	
+•	 Parestesias intermitentes o dolor en al menos 2 de los dedos I, II ó III; cual­
+quiera de los dos puede estar presente también por la noche (puede ser tam­
+bién dolor en la palma, muñeca o irradiación proximal a la muñeca)
+	
+	
+y
+	
+•	 Regla del tiempo:
+ 
+ 
+■  Síntomas presentes ahora o al menos 4 días durante los últimos 7 días
+	
+	
+o
+ 
+ 
+■  Síntomas presentes al menos 4 días durante al menos 1 semana en los últimos 
+12 meses
+–	 La definición de caso basada en síntomas y en signos en la exploración física puede 
+hacerse siguiendo lo indicado en el Documento de criterios para evaluar la relación 
+con el trabajo de los trastornos musculoesqueléticos de las extremidades superiores 
+(Criteria document for evaluating the work-relatedness of upper-extremity muscu­
+
+34	
+SANIDAD
+loskeletal disorders)36 o en su adaptación francesa37, en función de los siguientes 
+criterios:
+	
+•	 Regla del tiempo:
+	
+	
+Síntomas presentes ahora o al menos 4 días durante los últimos 7 días
+	
+y
+	
+•	 Parestesias intermitentes o dolor en al menos 2 de los dedos I, II ó III; cual-
+quiera de los dos puede estar presente también por la noche (puede ser tam-
+bién dolor en la palma, muñeca o irradiación proximal a la muñeca)
+	
+y
+	
+•	 Al menos un resultado positivo en alguna de las siguientes pruebas:
+ 
+ 
+■  Test de flexión compresión
+ 
+ 
+■  Test de compresión del carpo
+ 
+ 
+■  Signo de Tinel
+ 
+ 
+■  Test de Phalen
+ 
+ 
+■  Test de discriminación de dos puntos en el dedo medio
+ 
+ 
+■  Abducción contra resistencia del pulgar o pérdida motora con atrofia del 
+músculo abductor corto del pulgar
+–	 Si se utilizan monofilamentos de Semmes-Weinstein, la alteración de la sensibili-
+dad se puede identificar utilizando los monofilamentos 2,83 (0,07 g-f) o 3,22 (0,16 
+g-f) como umbral de sensación de tacto ligero. En aquellos con sospecha de sín-
+drome del túnel carpiano de moderado a grave, se debe evaluar cualquier dedo 
+radial, utilizando el filamento 3,22 como umbral de normalidad35.
+–	 Si se utiliza una prueba de discriminación estática de 2 puntos en el dedo medio, 
+el resultado se considera se considera que el resultado es normal cuando es igual 
+o por debajo de 5 mm35.
+–	 Para el resto de las pruebas, la valoración puede hacerse siguiendo las indicaciones 
+recogidas en el Documento de criterios para evaluar la relación con el trabajo de los 
+trastornos musculoesqueléticos de las extremidades superiores (Criteria document 
+for evaluating the work-relatedness of upper-extremity musculoskeletal disorders)36 
+y su adaptación francesa37.
+4.1.5.3. Trastornos osteomusculares y articulares
+La definición de caso se basará en la valoración de la presencia de síntomas (definición de 
+caso basada únicamente en síntomas), y de los resultados de la exploración que se haya 
+llevado a cabo en caso de haber sido necesaria su realización (definición de caso basada en 
+síntomas y en signos en la exploración física). Esta valoración puede hacerse siguiendo las 
+indicaciones recogidas en el Documento de criterios para evaluar la relación con el trabajo 
+de los trastornos musculoesqueléticos de las extremidades superiores (Criteria document 
+for evaluating the work-relatedness of upper-extremity musculoskeletal disorders)36 y a su 
+adaptación francesa37.
+A ello se podrán añadir, cuando haya sido necesario recurrir a ellas, los resultados de 
+las pruebas complementarias que se hayan podido realizar en cada caso.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+35
+4.1.5.4. Enfermedad de Dupuytren38
+La prueba de Hueston es positiva cuando no se consigue apoyar todos los dedos extendi­
+dos sobre la mesa y evidencia una contractura en flexión de alguno de los dedos.
+4.1.5.5. Vibraciones de cuerpo entero39
+La definición de caso se basará en la valoración de la presencia de síntomas y de los resul­
+tados de la exploración que se haya llevado a cabo en caso de haber sido necesaria su reali­
+zación. A ello se podrán añadir, cuando haya sido necesario recurrir a ellas, los resultados 
+de las pruebas complementarias que se hayan podido realizar.
+La maniobra de Lasègue es positiva cuando al levantar la pierna con la rodilla en 
+extensión, aparece dolor irradiado en la pierna por debajo de 600, indicando con ello afec­
+tación de las raíces L5 y S1.
+4.1.6.  Conducta que se debe seguir según las alteraciones 
+detectadas
+4.1.6.1.  Criterios para la comunicación de las conclusiones que se deriven 
+de la vigilancia de la salud de las personas trabajadoras
+4.1.6.1.1.  Informe de recomendaciones preventivas para el empresario o 
+empresaria y para las personas u órganos con responsabilidades 
+en materia preventiva48
+Las conclusiones sobre los resultados de la vigilancia de la salud, desde una perspectiva 
+de prevención de riesgos laborales, deben ser comunicadas al empresario o empresaria 
+y a las personas u órganos con responsabilidades en materia de prevención en forma de 
+recomendaciones preventivas, al objeto de que puedan ejercer las funciones que tienen 
+encomendadas.
+Cuando el resultado de la vigilancia de la salud muestre la existencia de síntomas 
+o signos relacionados con la exposición a vibraciones se indicará la necesidad de imple­
+mentar medidas preventivas dirigidas a la eliminación o reducción del riesgo para lo que 
+se deberán especificar las medidas concretas que se proponen, tomando como base los 
+siguientes criterios:
+a)	 Si existiese alguna de las siguientes condiciones:
+	
+–	 Signos y/o síntomas relacionados con la exposición que no imposibiliten para 
+la realización de las tareas del puesto de trabajo
+	
+–	 Problemas de salud que limiten, pero no imposibiliten, la realización de las 
+tareas del puesto de trabajo
+	
+–	 Susceptibilidad individual
+	
+podrán indicarse diferentes tipos de medidas:
+
+36	
+SANIDAD
+	
+	
+•	
+Medidas personales:
+	
+	
+	
+La persona trabajadora podrá desempeñar las tareas habituales del puesto 
+de trabajo a la que está destinada, cumpliendo con las medidas higiénico-
+sanitarias prescritas por el personal médico para salvaguardar su salud.
+	
+	
+	
+Se debe preservar la intimidad y la no discriminación. Las medidas solo 
+serán facilitadas al trabajador o trabajadora.
+	
+	
+•	
+Medidas laborales:
+ 
+ 
+ 
+■  Adaptativas: implican la adaptación de todo o parte del entorno laboral 
+a la persona trabajadora para la realización íntegra de las tareas propias 
+de su puesto de trabajo
+ 
+ 
+ 
+■  Restrictivas: implican la no realización total o parcial de tareas muy con­
+cretas y específicas de su puesto de trabajo
+	
+	
+Se informará a la persona trabajadora interesada, al empresario o empresaria y 
+a los órganos de representación en materia de prevención de riesgos laborales 
+de la condición de especial sensibilidad que afecta a la persona trabajadora, y 
+de las medidas de adaptación o restricción que se hayan determinado.
+b)	 Si, por el contrario, el desempeño de las tareas puede implicar problemas serios de 
+salud, existe una probabilidad alta de daño a la salud de la persona trabajadora o 
+de terceras personas, o la persona trabajadora tiene problemas crónicos de salud 
+que le imposibilitan para la realización de las tareas del puesto de trabajo, y tanto 
+en uno como en otro caso no es posible la aplicación de medidas de adaptación o 
+restricción, se podrá declarar a la persona como no apta para el puesto de trabajo.
+	
+En este caso, se propondrá el cambio de puesto de trabajo, pero si en la empresa 
+no existiese un puesto compatible, podrá orientarse de forma justificada hacia un 
+trámite de Incapacidad Permanente. Para ello, se elaborará y facilitará el corres­
+pondiente informe para que la persona afectada pueda apoyar la solicitud de inca­
+pacidad ante el Instituto Nacional de la Seguridad Social (INSS).
+Criterios orientativos
+–	 Síndrome por vibraciones mano brazo
+	
+Tan pronto como se detecten los primeros daños a la salud es necesario poner en 
+marcha la revisión de la evaluación de riesgos e indicar las medidas de prevención 
+que se precisen, ya que las utilizadas hasta ese momento pueden haber sido inade­
+cuadas o insuficientes. Asimismo, se aumentará la periodicidad de los exámenes 
+de salud, tal como se indica en el apartado 4.1.2.
+	
+Es preciso actuar de modo que ninguna de estas personas llegue a la etapa 3 tanto 
+de afectación vascular o neurosensorial. Se aconseja evitar la exposición en el caso 
+de personas trabajadoras que alcancen el estadio 2 vascular o neurológico de las 
+escalas del Taller de Estocolmo (Stockholm Workshop Scale)42,45. Sin embargo, la 
+decisión de evitar o reducir la exposición debe tomarse después de considerar la 
+gravedad de los síntomas y las características de todo el proceso de trabajo.
+	
+Dado que hay evidencia clínica y epidemiológica de que algunos trastornos in­
+ducidos por vibraciones, principalmente el componente vascular del síndrome de 
+vibración mano brazo, pueden ser reversibles cuando cesa la exposición a la vibra­
+ción, el personal médico puede analizar con la persona trabajadora la posibilidad 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+37
+de volver a trabajar con herramientas vibratorias si los síntomas y signos previos 
+han mejorado lo suficiente como para que ya no cumplan con los criterios de etapa 
+1 vascular o neurológica en las escalas del Taller de Estocolmo24.
+–	 Síndrome de túnel carpiano
+	
+La indicación de medidas debe basarse en el deterioro funcional asociado.
+–	 Trastornos osteomusculares y articulares
+	
+La indicación de medidas debe basarse en el deterioro funcional asociado.
+–	 Enfermedad de Dupuytren
+	
+La indicación de medidas debe basarse en el deterioro funcional asociado.
+–	 Personas con neuropatía periférica/síntomas neurológicos similares a los que se 
+producen en el síndrome por vibraciones mano brazo
+	
+Cuando estas personas deseen trabajar en lugares expuestos a vibraciones mano 
+brazo, deben ser informadas de los posibles riesgos de una mayor pérdida neuro­
+lógica en manos y dedos. La periodicidad de sus exámenes de salud será semestral 
+durante los primeros dos años. Si no hay evidencia de déficit neurológico progre­
+sivo en este tiempo, se debe considerar la vigilancia de la salud anual24.
+–	 Alteraciones derivadas de la exposición a vibraciones de cuerpo entero
+	
+La indicación de medidas debe basarse en el deterioro funcional asociado.
+–	 Personas que padecen síndrome de dedo blanco por vibraciones y están expuestas 
+conjuntamente a ruido21
+	
+Se aplicará también lo indicado en el Protocolo para la vigilancia sanitaria especí­
+fica de las personas trabajadoras expuestas a ruido.
+4.1.6.1.2.  Informe de recomendaciones preventivas para la persona 
+trabajadora
+El personal sanitario responsable de la vigilancia de la salud informará a la persona tra­
+bajadora de los hallazgos detectados en el examen de salud, los síntomas a los que deberá 
+prestar atención por ser los más frecuentes cuando se está expuesto a vibraciones y las 
+medidas que se recomiendan en su caso.
+Se le informará de la periodicidad recomendada para el siguiente examen de salud.
+4.1.7.  Conducta que se debe seguir en el caso de embarazo 
+o lactancia natural con riesgo de exposición a 
+vibraciones en el puesto de trabajo
+Los derechos de información y formación en relación con la protección de la maternidad 
+implican que previamente la empresa, generalmente a través del servicio de prevención, 
+haya informado a las personas trabajadoras sobre su exposición a vibraciones y los posi­
+bles efectos de estos sobre el embarazo. En base, entre otros, al artículo 37 del Real De­
+creto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Pre­
+
+38	
+SANIDAD
+vención, en el caso de las trabajadoras, esa información debería ser recordada, actualizada 
+y completada durante la vigilancia médica periódica, con la información sobre las posibles 
+medidas preventivas a las que tienen derecho, incluyendo la adaptación de las condiciones 
+o del tiempo de trabajo, el cambio de puesto de trabajo, o en su defecto, suspensión del 
+contrato de trabajo o interrupción de su actividad profesional por riesgo durante el em­
+barazo y/o lactancia, contemplada en el artículo 45.1.e) del Estatuto de los Trabajadores 
+(Real Decreto Legislativo 2/2015), e inicio del procedimiento para el reconocimiento del 
+derecho al subsidio por riesgo durante el embarazo y/o durante la lactancia establecidos 
+en el artículo 39 del Real Decreto 295/2009, de 6 de marzo, por el que se regulan las pres­
+taciones económicas del sistema de la Seguridad Social por maternidad, paternidad, riesgo 
+durante el embarazo y riesgo durante la lactancia natural, y de la trascendencia de que se 
+ponga en marcha, lo antes posible, el mecanismo correspondiente, para evitar el riesgo de 
+malformaciones u otros daños.
+En relación con las vibraciones de cuerpo entero, la Guía de ayuda para la valoración 
+del riesgo laboral durante el embarazo49 publicada por el Instituto Nacional de la Seguri­
+dad Social, indica que cuando se sobrepasen los 0,25 m/s2 de exposición diaria normalizada 
+para un periodo de referencia de 8 horas, se deberá apartar a la embarazada de su lugar 
+de trabajo desde el momento de su solicitud. En cuanto a las vibraciones mano brazo, este 
+nivel se establece en 2,5 m/s2.
+Se informará a todas las trabajadoras asignadas a puestos de trabajo con riesgo para 
+el embarazo de la necesidad de poner en conocimiento de la empresa su intención de 
+quedar embarazada para que se puedan poner en marcha lo antes posible las medidas 
+preventivas adecuadas para salvaguardar su salud y la de su descendencia. En el caso de 
+que el embarazo ya se haya producido, se actuará de igual modo y con la misma finalidad.
+La trabajadora debería contactar con el personal sanitario del servicio de prevención:
+–	 En el momento que tenga conocimiento del embarazo.
+–	 Para poder consultar dudas sobre su puesto de trabajo relacionadas con su ges­
+tación y/o lactancia, por ejemplo, por aparición de síntomas o alteraciones que 
+considere relacionadas con su actividad laboral.
+Cuando una trabajadora comunique su condición al servicio de prevención, el perso­
+nal sanitario responsable de la vigilancia de la salud estudiará el caso teniendo en cuenta, 
+además de las condiciones de trabajo, los factores personales de la trabajadora, y si fuera 
+necesario, informará al empresario o a la empresaria y a las personas u órganos con res­
+ponsabilidades en materia de prevención de sus conclusiones sobre la necesidad de valorar 
+las medidas previstas para eliminar o reducir el riesgo, a fin de que puedan desarrollar 
+correctamente sus funciones en materia preventiva, y comprobará que se llevan a cabo. Si 
+tras la valoración, el riesgo no puede eliminarse o reducirse de forma suficiente, se propon­
+drá la adaptación de las condiciones o del tiempo de trabajo. Si esta adaptación no fuera 
+posible o a pesar de las adaptaciones se mantuviera el riesgo, se propondrá el cambio del 
+puesto de trabajo hasta que desaparezca la causa que lo motivó, pudiendo ser destinada a 
+un puesto no correspondiente a su grupo o categoría equivalente, pero manteniendo todos 
+sus derechos, económicos o de otro tipo. Si dicho cambio de puesto no resultara técnica 
+u objetivamente posible, o no pueda razonablemente exigirse por motivos justificados, o 
+al progresar la gestación no fueran suficientes, se propondrá el inicio del procedimiento 
+establecido en el Real Decreto 295/2009 para solicitar la prestación de riesgo durante el 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+39
+embarazo o la lactancia natural, subsidio que será abonado por la Mutua colaboradora de 
+la Seguridad Social y corresponde al 100% de la base reguladora, calculada de la misma 
+manera que la incapacidad temporal ocasionada por contingencias profesionales.
+Al área sanitaria de los servicios de prevención no le corresponde el seguimiento 
+asistencial y preventivo no laboral del embarazo, si bien es muy recomendable una colabo­
+ración con quienes lo llevan a cabo. El objetivo es el de garantizar en todo momento que 
+las condiciones de trabajo se ajustan al estado específico de la trabajadora, ya que pueden 
+aparecer situaciones que hagan necesaria una adecuación del puesto durante este periodo.
+Para orientar las actividades de vigilancia de la salud durante el embarazo y la lactan­
+cia, se propone seguir el esquema recogido en la Nota Técnica de Prevención (NTP) 915 
+del Instituto Nacional de Seguridad y Salud en el Trabajo50.
+4.1.8.  Conducta que se debe seguir en el caso de daño para 
+la salud derivado del trabajo
+El médico o médica del trabajo que sospeche encontrarse ante un caso de enfermedad 
+profesional procederá a comunicarlo tal y como establece el Art. 5 del Real Decreto 
+1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades profe­
+sionales en el sistema de la Seguridad Social y se establecen criterios para su notificación 
+y registro, a la Mutua o Empresa Colaboradora de la Seguridad Social o al INSS, a través 
+del órgano competente en cada Comunidad Autónoma.
+Guardando la debida confidencialidad, comunicará a la empresa la tramitación de un 
+caso de sospecha de enfermedad profesional, y si es necesario poner en marcha las me­
+didas preventivas que eviten el empeoramiento del caso y/o el daño de otro personal con 
+exposición similar. El trabajador o trabajadora será informada de los trámites realizados y 
+serán remitidos a la entidad colaboradora de la Seguridad Social para estudio y si procede 
+confirmación diagnóstica, así como para la prestación de la asistencia sanitaria que requie­
+ra y/o la baja médica si fuera necesaria. A la vez se le informará de los trámites realizados 
+ante la empresa.
+Para los problemas de salud considerados accidente de trabajo se seguirá el procedi­
+miento establecido para estos casos.
+4.1.9.  Conducta que se debe seguir en el caso de diagnóstico 
+de enfermedad profesional
+Cuando un trabajador o una trabajadora haya sido diagnosticada de enfermedad profesio­
+nal, se debe interrumpir la exposición laboral a vibraciones.
+Tras la finalización del tratamiento recibido se realizará un examen de salud antes de 
+la posible reincorporación al puesto de trabajo que venía ocupando y, en función del grado 
+de afectación, el o la médico del trabajo emitirá un informe de aptitud, pudiendo utilizar 
+para ello los criterios de valoración recogidos en el apartado 4.1.5.2.
+
+40	
+SANIDAD
+El o la médico del trabajo informará al empresario o a la empresaria y a las personas 
+u órganos con responsabilidades en materia de prevención sobre cualquier medida que 
+considere necesaria para eliminar o reducir el riesgo del resto del personal trabajador, en 
+función del nivel de exposición al que pueda hallarse sometido y de los resultados obte­
+nidos en la vigilancia de la salud, tanto individual como colectiva. Esto puede incluir, por 
+ejemplo, la realización de mediciones higiénicas y/o exámenes de salud. En cualquier caso, 
+se debe verificar que se ha procedido a la reevaluación de riesgos, a la modificación de la 
+planificación preventiva y a la implantación de medidas de prevención que eviten la expo­
+sición al agente causante de la enfermedad.
+Se investigará asimismo si existen otras personas afectadas con exposición similar.
+4.1.10. Documentación
+Se debe disponer de información actualizada de las personas trabajadoras expuestas a 
+vibraciones, anotando de forma cronológica la profesión y puesto de trabajo, los niveles 
+de exposición y tiempos de permanencia en los que ha tenido lugar dicha exposición, así 
+como los sistemas de prevención y protección que se han puesto a su disposición.
+4.2. Vigilancia colectiva de la salud51
+La vigilancia colectiva o epidemiológica tiene como finalidad analizar las relaciones exis­
+tentes entre el estado de salud del conjunto de personas que trabajan en un ámbito o 
+entorno determinado y sus condiciones de trabajo. El análisis de la vigilancia colectiva 
+puede centrarse en conocer el estado de salud del conjunto de trabajadores y trabajadoras, 
+pero también pueden ser objeto de la vigilancia colectiva las condiciones de trabajo de la 
+población trabajadora.
+Tiene como objetivo la intervención en la empresa, no la mera observación, y para 
+ello aportará información que servirá para confirmar, complementar o ayudar a corregir 
+las actividades preventivas, especialmente la evaluación higiénica en el caso de las vibra­
+ciones, y para la toma de decisiones sobre medidas de control y prevención de situaciones 
+de riesgo, y se integrará en la gestión de la prevención de riesgos laborales. El nivel de 
+análisis puede ser una única empresa o puede ser una agrupación de diferentes empresas 
+con riesgos similares.
+La utilización de indicadores facilitará el análisis e interpretación de la evolución epi­
+demiológica de los colectivos laborales vigilados (comparación entre grupos con diferente 
+exposición, comparación entre diferentes periodos, comprobación de la efectividad de las 
+diferentes medidas preventivas aplicadas, etc.).
+Con independencia del nivel de análisis que se realice, siempre se deberá prestar 
+especial atención hacia aquellos colectivos más vulnerables y tener en cuenta la perspec­
+tiva de género, de forma que se puedan poner de manifiesto patrones diferenciales entre 
+hombres y mujeres.
+Los principales objetivos de la vigilancia colectiva son:
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+41
+–	 Conocer la frecuencia y la distribución de los efectos para la salud de la exposición 
+a vibraciones en una población determinada.
+–	 Mejorar el conocimiento de la frecuencia y la distribución de las condiciones de la 
+exposición a vibraciones en una población determinada.
+–	 Conocer la tendencia que siguen en el tiempo los efectos para la salud y las condi­
+ciones de la exposición a vibraciones.
+–	 Detectar situaciones de agregados inesperados de casos de determinados daños 
+para la salud.
+–	 Aportar información para proponer actividades preventivas colectivas que reduz­
+can o minimicen los riesgos y eviten la aparición de daños en la salud.
+–	 Evaluar la efectividad de las medidas preventivas colectivas e individuales puestas 
+en marcha en dicha población.
+Los datos mínimos comunes para la vigilancia de la salud colectiva en empresas con 
+riesgo de exposición a vibraciones deben incluir los principales indicadores que se puedan 
+extraer de la vigilancia de la salud individual, con especial atención a los referidos a los 
+resultados relacionados con los cuestionarios y demás pruebas médicas específicas para la 
+detección del posible daño por exposición a vibraciones concreto de esa empresa, además 
+de los indicadores obtenidos de las fuentes de información comunes sobre el estado de 
+salud del personal, como los de los accidentes de trabajo, enfermedades profesionales y las 
+incapacidades temporales (IT) por enfermedad común.
+El análisis de los datos de los posibles daños detectados en la vigilancia de la salud 
+individual relacionados con la exposición a vibraciones también debe hacerse para toda la 
+población (trabajadoras y trabajadores), y para mujeres y para hombres, desagregado por 
+sexo, por tipo de contrato, dedicación horaria y teniendo en cuenta a los colectivos más 
+vulnerables, como personas con discapacidad o inmigrantes52.
+Para la vigilancia colectiva de la salud de personas que trabajan con riesgo de expo­
+sición a vibraciones en una empresa, es especialmente importante tener en cuenta que 
+solo se deben incluir los resultados de los exámenes de salud periódicos, los de retorno al 
+trabajo y los realizados por cambio de puesto de trabajo. Los exámenes de salud iniciales, 
+si bien son la base para los periódicos, no deben formar parte del análisis, ya que las alte­
+raciones encontradas no estarían relacionadas con la empresa.
+
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+43
+Bibliografía
+1.	
+Pujol L. NTP 839: Exposición a vibraciones mecánicas. Evaluación del riesgo. Madrid: INSHT; 2009 [citado 13 
+de enero de 2025]. Disponible en: https://www.insst.es/documentacion/colecciones-tecnicas/ntp-notas-tecnicas-
+de-prevencion/24-serie-ntp-numeros-821-a-855-ano-2009/nota-tecnica-de-prevencion-ntp-839
+2.	
+Le Gouverment du Grand-Duché de Luxembourg. Ministère de Santé. Exposition des travailleurs aux vibra­
+tions. Luxembourg; 2018 [citado 13 de enero de 2025]. Disponible en: https://sante.public.lu/dam-assets/fr/
+publications/e/exposition-travailleurs-vibrations-fr-de/exposition-travailleurs-vibrations-fr.pdf
+3.	
+Comisión Europea, Dirección General de Empleo, Asuntos Sociales e Igualdad de Oportunidades. Guía no 
+vinculante sobre buenas prácticas para la aplicación de la Directiva 2002/44/CE (vibraciones en el trabajo). Pu­
+blications Office; 2008 [citado 13 de enero de 2025]. Disponible en: https://op.europa.eu/fr/publication-detail/-/
+publication/3f9392ff-8975-4139-9ea2-5b168a334664
+4.	
+Institut National de Recherche et Sécurité. Vibrations main-bras. Guide de bonnes pratiques. París: INRS; 2019 
+[citado 13 de enero de 2025]. Disponible en: https://www.inrs.fr/media.html?refINRS=ED%206342
+5.	
+Instituto Nacional de Seguridad e Higiene en el Trabajo. Aspectos ergonómicos de las vibraciones. Madrid: 
+INSHT; 2014 [citado 13 de enero de 2025]. Disponible en: https://www.insst.es/documents/94886/96076/Aspecto
+s+ergonomicos+de+las+vibraciones.pdf/97befb6a-7ca4-4fee-bf01-58104c1aed1b
+6.	
+Officel prevention [Internet]. Valence: Officel prevention. La prévention des risques professionnels des vibra­
+tions; 2011 [citado 13 de enero de 2025]. Disponible en: https://www.officiel-prevention.com/dossier/protections-
+collectives-organisation-ergonomie/ergonomie-au-poste-de-travail/la-prevention-des-risques-professionnels-
+des-vibrations
+7.	
+Martínez-Cañavete F. Ruido y vibraciones. Sistemas de prevención y protección. Evaluación de riesgos. En: Gil 
+Hernández F. Tratado de medicina del Trabajo. 1ª edición. Barcelona: Masson; 2005. 289-296.
+8.	
+Bovenzi M. Health effects of mechanical vibration. G Ital Med Lav Erg 2005; 27:1, 58-64.
+9.	
+Burström L, Nilsson T, Wahlström J. Whole-body vibration and the risk of low back pain and sciatica: a system­
+atic review and meta-analysis. Int Arch Occup Environ Health. 2015; 88:403-418.
+10.	 Essien SK, Trask C, Khan M, Boden C, Bath B. Association Between Whole-Body Vibration and Low-Back 
+Disorders in Farmers: A Scoping Review. J Agromedicine. 2018; 23(1): 105-120.
+11.	 De Souza GF, Ferreira R, Silva LF, Peixoto MA. Whole-body vibration and musculoskeletal diseases in profes­
+sional truck drivers. Fisioter. Mov. 2016; 1 (29):159-72.
+12.	 Oliveira HG, de Moraes B, Coelho-Oliveira AC, Pessanha J, Moura-Fernandes MC, de Souza-Gama MA, et al. 
+The Consequences of Mechanical Vibration Exposure on the Lower Back of Bus Drivers: A Systematic Review. 
+Appl. Sci.: 2021: 11.
+13.	 Shaikh AM, Mandal BB, Mangalavalli SM. Causative and risk factors of musculoskeletal disorders among mine 
+workers: A systematic review and meta-analysis.
+14.	 Jahn A, Andersen JH, Chistiansen DH, Seidler A, Dalboge A. Occupational mechanical exposures as risk factor 
+for chronic low-back pain: a systematic review and meta-analysis. Scand J Work Environ Health. 2023;49(7):453-
+465 [citado 13 de enero de 2025]. Disponible en: https://www.sjweh.fi/article/4114
+15.	 Unverzagt S, Bolm-Audorff U, Frese T, Hechtl J, Liebers F, Moser K et al. Influence of physically demand­
+ing occupations on the development of osteoarthritis of the hip: a systematic review. J Occup Med Toxicol. 
+2022; 17:18 [citado 13 de enero de 2025]. Disponible en: https://occup-med.biomedcentral.com/articles/10.1186/
+s12995-022-00358-y
+16.	 Macedo LG, Noguchi KS, de Oliveira LA, Bakaa N, Di Pelino S, Battie MC. The association between whole 
+body vibration exposure and spine degeneration on imaging: A systematic review. J Back Musculoskelet Re­
+habil. 2022; 35: 691-700 [citado 13 de enero de 2025]. Disponible en: https://content.iospress.com/download/
+journal-of-back-and-musculoskeletal-rehabilitation/bmr181350?id=journal-of-back-and-musculoskeletal-reha­
+bilitation%2Fbmr181350
+17.	 Adane HA, Iles R, Boyle JA, Gelaw A, Collie A. Maternal Occupational Risk Factors and Preterm Birth: A 
+Systematic Review and Meta-Analysis. 2023; Public Health Rev 44:1606085 [citado 13 de enero de 2025]. Dis­
+ponible en: https://www.ssph-journal.org/journals/public-health-reviews/articles/10.3389/phrs.2023.1606085/full
+18.	 Krstev S, Knutsson A. Occupational Risk Factors for Prostate Cancer: A Meta-analysis. J. Cancer Prev. 2019; 
+24 (2): 91-111 [citado 13 de enero de 2025]. Disponible en: https://pmc.ncbi.nlm.nih.gov/articles/PMC6619854/
+
+44	
+SANIDAD
+19.	 Halmai B, Holsgrove TP, Vine SJ, Harris DJ, Williams GKR. The after-effects of occupational whole-
+body vibration on human cognitive, visual, and motor function: A systematic review. Appl. Ergon. 2024; 
+118: 104264 [citado 13 de enero de 2025]. Disponible en: https://www.sciencedirect.com/science/article/pii/
+S0003687024000413?via%3Dihub
+20.	 Savage R, Billing D, Furnell A, Netto K, Aisbett B. Whole-body vibration and occupational physical perfor­
+mance: a review. Int Arch Occup Environ Health. 2016; 89:181-197.
+21.	 Guisasola A, Lijó A, Fiz LM, Uña M, León CP, Astudillo P. Protocolo para la vigilancia sanitaria específica de 
+las personas trabajadoras expuestas a ruido. Madrid: Ministerio de Sanidad; 2022 [citado 13 de enero de 2025]. 
+Disponible en: https://www.sanidad.gob.es/ciudadanos/saludAmbLaboral/docs/ruidoProtocolo.pdf
+22.	 Health and Safety Executive. Hand-arm vibration. The Control of Vibration at Work Regulations 2005. Gui­
+dance on Regulations. 2nd edition [Internet]. HSE: London; 2019 [citado 13 de enero de 2025]. Disponible en: 
+https://www.hse.gov.uk/pubns/priced/l140.pdf
+23.	 Pope M, Magnusson R, Lundström R, Hulshof C, Verbeek J, Bovenzi M. Guidelines for whole-body vibration 
+health surveillance. J Sound Vib. 2002; 253 (1): 131-167.
+24.	 Griffin M, Seidel H, Hulshof C, Malchaire J, Donati M, Lenzuni P et al. Guidelines for Hand-Transmitted Vi­
+bration. Health Surveillance [Internet]. Southampton: Vibration Injury Network; 2001 [citado 13 de enero de 
+2025]. Disponible en: https://resource.isvr.soton.ac.uk/HRV/VINET/pdf_files/Appendix_H1A.pdf
+25.	 Health and Safety Executive. Hand-arm vibration. Health surveillance-Guidance for Occupational Health Pro­
+fessionals [Internet]. HSE: London; 2024 [citado 13 de enero de 2025]. Disponible en: https://www.hse.gov.uk/
+vibration/hav/advicetoemployers/healthsurveillance.htm
+26.	 SOM HAVS Special Interest Group. The identification and management of hand arm vibration syndrome 
+(HAVS) [Internet]. London: The Society of Occupational Medicine; 2021 [citado 13 de enero de 2025]. Dis­
+ponible en: https://www.som.org.uk/sites/som.org.uk/files/HAVS_Guidance_from_SOM_v16.pdf
+27.	 SOM HAVS Special Interest Group. Vibration-related disease. London: The Society of Occupational Medi­
+cine; 2025 [citado 3 de febrero de 2025]. Disponible en: https://www.som.org.uk/sites/som.org.uk/files/Vibration-
+related_disease_January2025-compressed.pdf
+28.	 Belch J, Carlizza A, Carpentier PH, Constans J, Khan F, Wautrecht JC. ESVM guidelines-The diagnosis and 
+management of Raynaud’s phenomenon. Vasa. 2017; 46 (6): 413-423.
+29.	 Oteo A, Marín MT, Matas JA, Vaquero J. Validación al castellano de la escala Boston Carpal Tunnel Question­
+naire. Med Clin 2016; 146(6): 247-253.
+30.	 Mateos L, Rodríguez J, Llosa JA, Agulló E. Versión española del Nordic Musculoskeletal Questionnaire: adap­
+tación transcultural y validación en personal auxiliar de enfermería. An Sist Sanit Navar 2024; 47(1): e1066.
+31.	 Gómez R, Díaz B, Gutiérrez B, Sánchez B, Torres M. Cultural Adaptation and Psychometric Validation of the 
+Standardised Nordic Questionnaire Spanish Version in Musicians. Int. J. Environ. Res. Public Health 2020, 17, 
+653.
+32.	 Dawson AP, Steele EJ, Hodges PW, Stewart S. Development and Test-Retest Reliability of an Extended Ver­
+sion of the Nordic Musculoskeletal Questionnaire (NMQ-E): A Screening Instrument for Musculoskeletal Pain. 
+J Pain 2009;10(5): 517-26.
+33.	 Mayo Clinic. Contractura de Dupuytren [Internet] [citado 13 de enero de 2025]. Disponible en: https://www.
+mayoclinic.org/es/diseases-conditions/dupuytrens-contracture/diagnosis-treatment/drc-20371949
+34.	 Poole CJM, Bovenzi M, Nilsson T, Lawson IJ, House R, Thompson A, Youakim S. International consensus 
+criteria for diagnosing and staging hand-arm vibration syndrome. Int Arch Occup Environ Health. 2019; 92: 
+117-127.
+35.	 Erikson M, Lawrence M, Stegink C, Coker D, Amadio P, Cleary C. Hand Pain and Sensory Deficits: Carpal 
+Tunnel Syndrome. J Orthop Sports Phys Ther. 2019;49(5): CPG1-CPG85.
+36.	 Sluiter JK, Rest KM, Frings-Dresen MHW. Criteria document for evaluating the work-relatedness of upper-
+extremity musculoskeletal disorders. Scand J Work Environ Health 2001; 27 suppl 1: 1-102 [citado 13 de enero 
+de 2025]. Disponible en: https://www.sjweh.fi/article/637
+37.	 Aublet-Cuvelier A, Ha C, Roquelaure Y, D´Escatha A, Meyer JP, Sluiter JK et al. Protocole d’examen clinique 
+pour le repérage des troubles musculosquelettiques du membre supérieur. Adaptation française du consensus 
+européen SALTSA. Institut de Veille Sanitaire-Institut National de Recherche et de Sécurité; 2010 [citado 13 
+de enero de 2025]. Disponible en: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-liees-
+au-travail/troubles-musculo-squelettiques/documents/guide/protocole-d-examen-clinique-pour-le-reperage-
+des-troubles-musculosquelettiques-du-membre-superieur.-adaptation-francaise-du-consensus-europeen-saltsa
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+45
+38.	 Wagner P, Román JA, Vergara J. Enfermedad de Dupuytren: revisión. Rev. méd. Chile 2012; 140(9):1185-
+1190 [citado 13 de enero de 2025]. Disponible en: https://www.scielo.cl/scielo.php?script=sci_arttext&pid
+=S0034-98872012000900013
+39.	 Albi A, Alzuria D, Batlle M, Colomer M, Durá MJ, García A et al. Patologia de la columna lumbar en la perso­
+na adulta. Guies de pràctica clínica i material docente. Barcelona: Institut Català de la Salut; 2024 [citado 13 de 
+enero de 2025]. Disponible en: https://ics.gencat.cat/web/.content/Assistencia/esquena/guia-lumbalgia.pdf
+40.	 Rodríguez D, García MC, Mena JM, Silió F, Maqueda J. Directrices para la decisión clínica en enfermedades 
+profesionales. Enfermedades profesionales relacionadas con los trastornos musculoesqueléticos. Afectación os­
+teoarticular por vibraciones mano-brazo. Madrid: Instituto Nacional de Seguridad e Higiene en el Trabajo; 2012 
+[citado 13 de enero de 2025]. Disponible en: https://www.insst.es/documents/94886/361599/DDC-TME-03.+Af
+ectaci%C3%B3n+osteoarticular+por+vibraciones+mano-brazo+-+A%C3%B1o+2012/2c0f929f-6af8-4699-
+a487-077dad9c74d7
+41.	 Méndez JM, Blasco L. Directrices para la decisión clínica en enfermedades profesionales. Trastornos mus­
+culoesqueléticos de origen profesional del Miembro Superior: Afectación osteoarticular por vibraciones 
+transmitidas mano-brazo. Madrid: Instituto Nacional de Seguridad y salud en el Trabajo; 2022 [citado 13 de 
+enero de 2025]. Disponible en: https://www.insst.es/documents/94886/4346055/DDC-TME-03.+Afectaci%C
+3%B3n+osteoarticular+por+vibraciones+mano-brazo+-+A%C3%B1o+2022.pdf/cd1ac76b-a789-ea2b-81af-
+7962a90f7319?t=1671018484516
+42.	 Bovenzi M. Vibraciones transmitidas a las manos. En Stellman JM, editor. Enciclopedia de salud y seguridad en 
+el trabajo. 4ª edición. Ginebra: Organización Internacional del Trabajo; 1998. 50.11.
+43.	 Cooke R. Hand-arm vibration syndrome: a guide for occupational health practitioners. Barnet: The At Work 
+Partnership Ltd.; 2020.
+44.	 Cooke R. Staging of hand arm vibration syndrome [Internet]. London: The Society of Occupational Medicine; 
+2022 [citado 13 de enero de 2025]. Disponible en: https://www.som.org.uk/sites/som.org.uk/files/HAVS_stag­
+ing_guide_July_2022.pdf
+45.	 Bovenzi M. Vibraciones transmitidas a las manos. En Stellman JM, editor. Enciclopedia de salud y seguridad en 
+el trabajo. 4ª edición. Ginebra: Organización Internacional del Trabajo; 1998. 50.10.
+46.	 Yeudall L T, Fromm D, Reddon J R, Stefanyk, WO. Normative data stratified by age and sex for 12 neuropsy­
+chological tests. J Clin Psychol. 1986; 42(6): 918-946.
+47.	 Agnew A, Bolla-Wilson K, Kawas CH, Bleecker ML. Purdue Pegboard Age and Sex Norms for People 40 
+Years Old and Older. Dev. Neuropsychol. 1988; 4(1): 29-35.
+48.	 García Gómez M, Esteban V, Gallo M, Artieda L, Guzmán A. Vigilancia de la salud para la prevención de 
+riesgos laborales: Guía básica y general de orientación. Madrid: Ministerio de Sanidad, Consumo y Bienestar 
+Social; 2019 [citado 13 de enero de 2025]. Disponible en: https://www.sanidad.gob.es/ciudadanos/saludAmbLa­
+boral/docs/guiavigisalud.pdf
+49.	 Instituto Nacional de la Seguridad Social. Guía de ayuda para la valoración del riesgo laboral durante el embara­
+zo. 3ª edición [Internet]. INSS: Madrid; 2020 [citado 13 de enero de 2025]. Disponible en: https://www.seg-social.
+es/wps/wcm/connect/wss/e91e61c5-7559-4ce9-9440-a4bfe80e1df2/GU%C3%8DA+RIESGO+EMBARAZO_
+on+line_3%C2%AA+E.pdf?MOD=AJPERES
+50.	 Solé MD. Embarazo, lactancia y trabajo: vigilancia de la salud. NTP 915 [Internet]. INSST: Madrid; 2011 [cita­
+do 13 de enero de 2025]. Disponible en: https://www.insst.es/documents/94886/328579/915w.pdf/189a8979-e083-
+453d-83d4-091439c7588b
+51.	 Urbaneja F, Lijó A, Cabrerizo JI, Idiazábal J, Zubia AR, Padilla A. Vigilancia epidemiológica en el trabajo: 
+Guía para la implantación de la vigilancia colectiva por parte de los servicios de prevención. Barakaldo: Osalan-
+Instituto Vasco de Seguridad y Salud Laborales; 2015 [citado 13 de enero de 2025]. Disponible en: https://www.
+osalan.euskadi.eus/libro/vigilancia-epidemiologica-en-el-trabajo-guia-para-la-implantacion-de-la-vigilancia-
+colectiva-por-parte-de-los-servicios-de-prevencion/webosa00-contresu/es/
+52.	 Azpiroz A, Álvarez V, Carramiñana S, Lekue B, Padilla A, Pérez B, Robertson M. Pautas para la integración de 
+la perspectiva de género en la prevención de riesgos laborales. Barakaldo. Osalan-Instituto Vasco de Seguridad 
+y Salud Laborales; 2017 [citado 13 de enero de 2025]. Disponible en: http://www.osalan.euskadi.eus/contenidos/
+libro/gestion_201710/es_def/adjuntos/pautas_integracion_prl.pdf
+53.	 Franquelo P, Panadero A, González F, Losada S. Fenómeno de Raynaud. Rev Clín Med Fam 2009; 2(6): 309-
+311.
+
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+47
+Anexos
+Anexo I: Cuestionarios
+Anexo II: Exploraciones complementarias específicas
+Anexo III: Diagnóstico diferencial
+
+48	
+SANIDAD
+Anexo I. Cuestionarios
+1.  	Cuestionario de síntomas de síndrome por vibraciones mano brazo
+2.  	Síndrome de túnel carpiano. Escala de Boston
+3.  	Cuestionario osteomuscular
+1.  Cuestionario de síntomas de síndrome por vibraciones 
+mano brazo
+Síntomas en las manos
+A.  Blanqueamiento
+SÍ
+NO
+¿Alguna vez ha experimentado algún cambio de color en sus dedos?
+
+
+Si ha respondido SÍ, de qué color
+blanco
+azul
+rojo
+SÍ
+NO
+Si usted ha experimentado la sensación de tener los dedos blancos, ¿la blancura estaba clara­
+mente delimitada?
+
+
+–	 Si la respuesta es NO, vaya a la sección sobre síntomas de hormigueo.
+–	 Si la respuesta es SÍ, responda a las siguientes preguntas:
+	
+Si es así (y sigue ocurriendo en los últimos 2 años), ¿cuándo ocurre?:
+SÍ
+NO
+¿En respuesta al frío, la humedad o a condiciones de lluvia?
+
+
+¿Manipulando de objetos fríos?
+
+
+¿Al sentir la vibración de las herramientas vibratorias?
+
+
+¿Mientras trabaja?
+
+
+¿En otros momentos?
+
+
+Por favor, proporcione ejemplos:
+¿Cuándo notó por primera vez este blanqueamiento?
+Año ………............
+¿Con qué frecuencia ocurre?
+SÍ
+NO
+Varias veces al año
+
+
+Varias veces al mes
+
+
+Varias veces a la semana
+
+
+Varias veces al día
+
+
+Todos los días
+
+
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+49
+¿Cuándo ocurre?
+SÍ
+NO
+En invierno
+
+
+En verano
+
+
+En invierno y verano
+
+
+Indique las circunstancias más comunes:
+SÍ
+NO
+¿Siente este blanqueamiento en los pies u otra parte de la periferia?
+
+
+En caso afirmativo, indique en qué parte del cuerpo:
+¿Qué dedos están afectados? (sombree todas las partes que alguna vez se han puesto blancas)
+	
+Mano derecha	
+Mano izquierda
+F
+I
+B.  Hormigueo
+Se excluye el hormigueo transitorio que dura hasta 20 minutos después de utilizar herra­
+mientas vibratorias.
+SÍ
+NO
+¿Siente hormigueo en los dedos?
+
+
+¿En respuesta al frío?
+
+
+¿Cuándo se le ponen los dedos blancos?
+
+
+¿Mientras trabaja?
+
+
+¿En otras ocasiones?
+
+
+Si es en otras ocasiones, ¿en qué circunstancias y cuánto dura?
+
+50	
+SANIDAD
+¿Cuándo notó esto por primera vez?
+Año ………............
+¿Qué dedos están afectados? (señale todas las partes afectadas)
+	
+Mano derecha	
+Mano izquierda
+F
+I
+C.  Entumecimiento
+Se excluye el entumecimiento transitorio que dura hasta 20 minutos después de utilizar 
+herramientas vibratorias.
+SÍ
+NO
+¿Siente entumecimiento en los dedos?
+
+
+¿En respuesta al frío?
+
+
+¿Cuándo se le ponen los dedos blancos?
+
+
+¿Mientras trabaja?
+
+
+¿En otras ocasiones?
+
+
+Si es en otras ocasiones, ¿en qué circunstancias y cuánto dura?
+¿Cuándo notó esto por primera vez?
+Año ………............
+¿Qué dedos están afectados? (señale todas las partes afectadas)
+	
+Mano derecha	
+Mano izquierda
+F
+I
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+51
+D.  Dificultad al manipular o manejar objetos pequeños
+SÍ
+NO
+¿Tiene alguna dificultad al manipular o manejar objetos pequeños?
+
+
+Si es así, ¿cuándo le ocurre?
+SÍ
+NO
+¿Alguno de estos síntomas (palidez, hormigueo o entumecimiento) afecta su trabajo o sus 
+actividades de ocio?
+
+
+Si es así, proporcione detalles:
+E.  Alteraciones musculoesqueléticas
+SÍ
+NO
+¿Tiene problemas con los músculos o las articulaciones de las manos/brazos/muñecas/codos/
+hombros?
+
+
+Dolor
+
+
+Rigidez
+
+
+Hinchazón
+
+
+Debilidad
+
+
+Si es así, proporcione detalles:
+Adaptado de: Griffin M, Seidel H, Hulshof C, Malchaire J, Donati M, Lenzuni P et al. Guidelines for Hand-Transmitted Vibra­
+tion. Health Surveillance [Internet]. Southampton: Vibration Injury Network; 200124 y Health and Safety Executive. Hand-arm 
+vibration. Health surveillance-Guidance for Occupational Health Professionals [Internet]. HSE: London; 202425.
+
+52	
+SANIDAD
+2.  Síndrome de túnel carpiano. Escala de Boston
+Escala de severidad de síntomas
+Las siguientes preguntas se refieren a sus síntomas en un día de las 2 últimas semanas.
+1 ¿Cómo es de intenso el dolor que tiene durante la noche en la mano y muñeca?
+1.  
+Durante la noche no tengo dolor en la mano y muñeca
+2.  
+Dolor leve
+3.  
+Dolor moderado
+4.  
+Dolor intenso
+5.  
+Dolor muy intenso
+2 ¿En las pasadas 2 semanas, con qué frecuencia el dolor de la mano y muñeca le despierta durante la noche?
+1.  
+Nunca
+2.  
+Una vez
+3.  
+Dos o tres veces
+4.  
+Cuatro o cinco veces
+5.  
+Más de cinco veces
+3 ¿Tiene dolor de mano y muñeca durante el día?
+1.  
+Nunca tengo dolor durante el día
+2.  
+Tengo dolor leve durante el día
+3.  
+Tengo dolor moderado durante el día
+4.  
+Tengo dolor intenso durante el día
+5.  
+Tengo dolor muy intenso durante el día
+4 ¿Con qué frecuencia tiene dolor de mano y muñeca durante el día?
+1.  
+Nunca
+2.  
+Una o dos veces al día
+3.  
+Tres a cinco veces al día
+4.  
+Más de cinco veces al día
+5.  
+El dolor es constante
+5 ¿Cuánto dura, por término medio, un episodio de dolor durante el día?
+1.  
+Nunca tengo dolor durante el día
+2.  
+Menos de 10 minutos
+3.  
+10 a 60 minutos
+4.  
+Más de 60 minutos
+5.  
+El dolor es constante durante todo el día
+6 ¿Tiene usted entumecimiento (sensación de falta de sensibilidad) en su mano?
+1.  
+No
+2.  
+Tengo entumecimiento leve
+3.  
+Tengo entumecimiento moderado
+4.  
+Tengo entumecimiento intenso
+5.  
+Tengo entumecimiento muy intenso
+7 ¿Tiene usted debilidad en su mano o muñeca?
+1.  
+No
+2.  
+Debilidad leve
+3.  
+Debilidad moderada
+4.  
+Debilidad intensa
+5.  
+Debilidad muy intensa
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+53
+8 ¿Siente usted sensación de hormigueo en su mano?
+1.  
+No
+2.  
+Siento un hormigueo leve
+3.  
+Siento un hormigueo moderado
+4.  
+Siento un hormigueo intenso
+5.  
+Siento un hormigueo muy intenso
+9 ¿Cómo es de intenso el entumecimiento (fata de sensibilidad) y el hormigueo durante la noche?
+1.  
+No tengo durante la noche
+2.  
+Leve
+3.  
+Moderado
+4.  
+Intenso 
+5.  
+Muy intenso
+10 ¿Con qué frecuencia el entumecimiento y hormigueo le despertó durante la noche estas últimas 2 semanas?
+1.  
+Nunca
+2.  
+Una vez
+3.  
+Dos a tres veces
+4.  
+Cuatro a cinco veces
+5.  
+Más de cinco veces
+11 ¿Tiene dificultades para agarrar o para manejar objetos de pequeño tamaño con la mano, como una llave 
+o un bolígrafo?
+1.  
+No tengo dificultad
+2.  
+Dificultad leve
+3.  
+Dificultad moderada
+4.  
+Dificultad intensa
+5.  
+Dificultad muy intensa
+Escala de situación funcional
+¿En un día con síntomas, de las pasadas dos semanas, tuvo dificultades para realizar al­
+guna de las siguientes actividades? Por favor, señale haciendo un círculo sobre el número 
+que mejor describa su situación.
+Actividad
+Ninguna 
+dificultad 
+Leve 
+dificultad 
+Moderada 
+dificultad 
+Gran dificultad 
+Imposible de 
+hacer debido 
+a los síntomas
+Escribir
+1
+2
+3
+4
+5
+Abrochar los botones
+1
+2
+3
+4
+5
+Sostener un libro al leer
+1
+2
+3
+4
+5
+Coger y mantener el teléfono
+1
+2
+3
+4
+5
+Abrir un recipiente de cristal
+1
+2
+3
+4
+5
+Realizar las tareas del hogar
+1
+2
+3
+4
+5
+Llevar las bolsas de la compra
+1
+2
+3
+4
+5
+Bañarse y vestirse
+1
+2
+3
+4
+5
+Fuente: Oteo A, Marín MT, Matas JA, Vaquero J. Validación al castellano de la escala Boston Carpal Tunnel Questionnaire. 
+Med Clin 2016; 146(6): 247-25329.
+
+54	
+SANIDAD
+3. Cuestionario osteomuscular
+Nordic questionnaire
+1.	 Fecha de cumplimentación
+2.	 Sexo
+	
+1   Mujer                2   Hombre                3   Otro
+3.	 ¿En qué año naciste?
+	
+……………….
+4. 	 ¿Cuánto tiempo (años y meses) llevas ejerciendo tu tipo de trabajo actual?
+	
+………… (años) + ……….. (meses)
+5.	 De media, ¿cuántas horas trabajas a la semana?
+	
+………………. horas a la semana
+6.	 ¿Cuánto pesas?
+	
+……………….  kg
+7.	 ¿Cuál es tu estatura?
+	
+……………….  cm
+8.	 ¿Te consideras diestro/a o zurdo/a?
+	
+1    Diestro/a                2   Zurdo/a                3   Ambidiestro/a
+PROBLEMAS DEL APARATO LOCOMOTOR
+Cómo responder al cuestionario
+Por favor, pon una cruz en la casilla apropiada. Es posible que 
+te surja alguna duda mientras tratas de rellenar el cuestionario. 
+Por favor, intenta responder lo que refleje mejor tu caso.
+En esta imagen puedes ver la posición aproximada de las par-
+tes del cuerpo a las que se refiere el cuestionario. Los límites no 
+están definidos nítidamente y algunas partes se sobreponen. 
+Deberás decidir por ti mismo/a en qué parte tienes o has tenido 
+problemas (en caso de tenerlos).
+ 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+55
+Durante los últimos 12 meses ¿has 
+tenido problemas (dolor, molestias, 
+incomodidad, adormecimiento, 
+hormigueo) en las siguientes zonas?
+¿Has tenido problemas durante los 
+últimos 7 días?
+Durante los últimos 12 meses, estos 
+problemas ¿te han impedido hacer 
+actividades normales como el trabajo, 
+las tareas del hogar o aficiones?
+A. Cuello
+B. Cuello
+C. Cuello
+No
+Sí 
+No
+Sí
+No 
+Sí
+1 2 
+1 
+2 
+1 
+2 
+A. Hombro
+B. Hombro
+C. Hombro
+No
+Sí 
+No
+Sí
+No
+Sí
+1 2 
+Hombro derecho
+1 
+2 
+Hombro derecho
+1 
+2 
+Hombro derecho
+3 
+Hombro izquierdo
+3 
+Hombro izquierdo
+3 
+Hombro izquierdo
+4 
+Ambos hombros
+4 
+Ambos hombros
+4 
+Ambos hombros
+A. Codos
+B. Codos
+C. Codos
+No
+Sí 
+No
+Sí
+No
+Sí
+1 2 
+Codo derecho
+1 
+2 
+Codo derecho
+1 
+2 
+Codo derecho
+3 
+Codo izquierdo
+3 
+Codo izquierdo
+3 
+Codo izquierdo
+4 
+Ambos codos
+4 
+Ambos codos
+4 
+Ambos codos
+A. Muñecas/manos
+B. Muñecas/manos
+C. Muñecas/manos
+No
+Sí 
+No
+Sí
+No
+Sí
+1 2 
+Muñeca/mano derecha
+1 
+2 
+Muñeca/mano derecha
+1 
+2 
+Muñeca/mano derecha
+3 
+Muñeca/mano izquierda
+3 
+Muñeca/mano izquierda
+3 
+Muñeca/mano izquierda
+4 
+Ambas muñecas/manos
+4 
+Ambas muñecas/manos
+4 
+Ambas muñecas/manos
+A. Columna dorsal
+B. Columna dorsal
+C. Columna dorsal
+No
+Sí 
+No
+Sí
+No 
+Sí
+1 2 
+1 
+2 
+1 
+2 
+A. Columna lumbar
+B. Columna lumbar
+C. Columna lumbar
+No
+Sí 
+No
+Sí
+No 
+Sí
+1 2 
+1 
+2 
+1 
+2 
+A. Una o ambas caderas/muslos
+B. Una o ambas caderas/muslos
+C. Una o ambas caderas/muslos
+No
+Sí 
+No
+Sí
+No 
+Sí
+1 2 
+1 
+2 
+1 
+2 
+A. Una o ambas rodillas
+B. Una o ambas rodillas
+C. Una o ambas rodillas
+No
+Sí 
+No
+Sí
+No 
+Sí
+1 2 
+1 
+2 
+1 
+2 
+A. Uno o ambos tobillos/pies
+B. Uno o ambos tobillos/pies
+C. Uno o ambos tobillos/pies
+No
+Sí 
+No
+Sí
+No 
+Sí
+1 2 
+1 
+2 
+1 
+2 
+Adaptado de: Mateos L, Rodríguez J, Llosa JA, Agulló E. Versión española del Nordic Musculoskeletal Questionnaire: adapta­
+ción transcultural y validación en personal auxiliar de enfermería. An Sist Sanit Navar 2024; 47(1): e106630. y Gómez R, Díaz B, 
+Gutiérrez B, Sánchez B, Torres M. Cultural Adaptation and Psychometric Validation of the Standardised Nordic Questionnaire 
+Spanish Version in Musicians. Int. J. Environ. Res. Public Health 2020, 17, 65331.
+
+56	
+SANIDAD
+Cuestionarios específicos
+COLUMNA LUMBAR
+Cómo contestar al cuestionario: En esta imagen pue-
+de ver la localización aproximada de la zona a la que 
+se refiere el cuestionario. Por problemas de la columna 
+lumbar se entiende incomodidad, malestar o dolor en el 
+área sombreada, extendido o no desde allí hasta una o 
+ambas piernas (ciática).
+Por favor, conteste marcando una cruz en la casilla 
+apropiada (una cruz por pregunta). Si tiene dudas sobre 
+cómo responder a alguna cuestión, pregunte al investi-
+gador. Conteste a cada pregunta, incluso si no ha tenido 
+problemas en alguna de las zonas de su cuerpo.
+ 
+1.  ¿Alguna vez ha tenido problemas (incomodidad, dolor o malestar) en la región 
+lumbar)?
+No
+Sí
+1 
+2 
+Si respondió “NO” a la pregunta 1, entonces NO responda las preguntas 2 a la 8
+2. ¿Alguna vez ha sido hospitalizado por problemas en la región lumbar?
+No
+Sí
+1 
+2 
+3.  ¿Alguna vez ha cambiado trabajos u ocupaciones por problemas en la región lum-
+bar?
+No
+Sí
+1 
+2 
+4.  ¿Cuánto tiempo en total ha tenido problemas en la región lumbar durante los últi-
+mos 12 meses?
+0 días
+
+1-7 días
+
+8-30 días
+
+Más de 30 días
+
+Todos los días
+
+Si usted respondió “0 días” en la pregunta 4, entonces NO responda las preguntas 5 a la 8
+5. ¿Su problema en la región lumbar le ha hecho reducir su actividad durante los últimos 12 meses?
+a) Su actividad laboral (en casa o fuera de casa)
+No
+Sí
+1 
+2 
+b) Su actividad de ocio
+No
+Sí
+1 
+2 
+6.  ¿Cuánto tiempo en total su problema de espalda le ha impedido hacer su trabajo 
+normal (en casa o fuera de casa) durante los últimos 12 meses?
+0 días
+
+1-7 días
+
+8-30 días
+
+Más de 30 días
+
+Todos los días
+
+7.  ¿Le ha visto algún médico, fisioterapeuta, quiropráctico u otro profesional debido 
+a problemas en la región lumbar durante los últimos 12 meses?
+No
+Sí
+1 
+2 
+8.  ¿Ha tenido problemas en la región lumbar durante los últimos 7 días?
+No
+Sí
+1 
+2 
+Fuente: Gómez R, Díaz B, Gutiérrez B, Sánchez B, Torres M. Cultural Adaptation and Psychometric Validation of the Standar­
+dised Nordic Questionnaire Spanish Version in Musicians. Int. J. Environ. Res. Public Health 2020, 17, 65331.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+57
+CUELLO
+Cómo contestar al cuestionario: Por problemas de 
+cuello se entiende incomodidad, malestar o dolor en el 
+área sombreada. Por favor, concéntrese en esta área, 
+ignorando cualquier problema que tenga en otras zonas 
+adyacentes del cuerpo. Hay un cuestionario indepen-
+diente/específico para los problemas de hombro.
+Conteste marcando una cruz en la casilla apropiada (una 
+cruz por pregunta). Si tiene dudas sobre cómo respon-
+der a alguna cuestión, pregunte al investigador. Por fa-
+vor, conteste a cada pregunta, incluso si no ha tenido 
+problemas en alguna de las zonas del cuerpo.
+1. ¿Alguna vez ha tenido problemas en el cuello (incomodidad, dolor o malestar)?
+No
+Sí
+1 
+2 
+Si respondió “NO” a la pregunta 1, entonces NO responda las preguntas 2 a la 8
+2. ¿Alguna vez se ha dañado el cuello en algún accidente?
+No
+Sí
+1 
+2 
+3. ¿Alguna vez ha cambiado trabajos u ocupaciones por problemas en el cuello?
+No
+Sí
+1 
+2 
+4.  ¿Cuánto tiempo en total ha tenido problemas en el cuello durante los últimos 12 
+meses?
+0 días
+
+1-7 días
+
+8-30 días
+
+Más de 30 días
+
+Todos los días
+
+Si usted respondió “0 días” en la pregunta 4, entonces NO responda las preguntas 5 a la 8
+5.  ¿Su problema en el cuello le ha hecho reducir su actividad durante los últimos 12 meses?
+a) Su actividad laboral (en casa o fuera de casa)
+No
+Sí
+1 
+2 
+b) Su actividad de ocio
+No
+Sí
+1 
+2 
+6.  ¿Cuánto tiempo en total su problema de cuello le ha impedido hacer su trabajo normal 
+(en casa o fuera de casa) durante los últimos 12 meses?
+0 días
+
+1-7 días
+
+8-30 días
+
+Más de 30 días
+
+Todos los días
+
+7.  ¿Le ha visto algún médico, fisioterapeuta, quiropráctico u otro profesional debido a 
+problemas en el cuello durante los últimos 12 meses?
+No
+Sí
+1 
+2 
+8.  ¿Ha tenido problemas en el cuello durante los últimos 7 días?
+No
+Sí
+1 
+2 
+Fuente: Gómez R, Díaz B, Gutiérrez B, Sánchez B, Torres M. Cultural Adaptation and Psychometric Validation of the Standar­
+dised Nordic Questionnaire Spanish Version in Musicians. Int. J. Environ. Res. Public Health 2020, 17, 65331.
+
+58	
+SANIDAD
+HOMBROS
+Cómo contestar al cuestionario: Por problemas en el 
+hombro se entiende incomodidad, malestar o dolor en 
+el área sombreada. Por favor, concéntrese en esta área, 
+ignorando cualquier problema que tenga en zonas adya-
+centes del cuerpo. Hay un cuestionario independiente/
+específico para los problemas de cuello.
+Conteste marcando una cruz en la casilla apropiada (una 
+cruz por pregunta). Si tiene dudas sobre cómo respon-
+der a alguna cuestión, pregunte al investigador. Por fa-
+vor, conteste a cada pregunta, incluso si no ha tenido 
+problemas en alguna de las zonas del cuerpo.
+1. ¿Alguna vez ha tenido problemas en el hombro (incomodidad, dolor o malestar)?
+No
+Sí
+1 
+2 
+Si respondió “NO” a la pregunta 1, entonces NO responda las preguntas 2 a la 8
+2. ¿Alguna vez se ha hecho daño en el hombro en algún accidente?
+No
+Sí
+1 
+2 
+3. ¿Alguna vez ha cambiado trabajos u ocupaciones por problemas en el hombro?
+No
+Sí
+1 
+2 
+4. ¿Ha tenido problemas en el hombro durante los últimos 12 meses?
+No
+
+Sí, en el hombro 
+derecho
+
+Sí, en el hombro 
+izquierdo
+
+Sí, en ambos 
+hombros
+
+Si usted respondió NO en la pregunta 4, entonces NO responda las preguntas 5 a la 8
+5.  ¿Cuánto tiempo en total ha tenido problemas en el hombro durante los últimos 12 
+meses?
+0 días
+
+1-7 días
+
+8-30 días
+
+Más de 30 días
+
+Todos los días
+
+6. ¿Su problema en el hombro le ha hecho reducir su actividad durante los últimos 12 meses?
+a) Su actividad laboral (en casa o fuera de casa)
+No
+Sí
+1 
+2 
+b) Su actividad de ocio
+No
+Sí
+1 
+2 
+7.  ¿Cuánto tiempo en total su problema en el hombro le ha impedido hacer su trabajo 
+normal (en casa o fuera de casa) durante los últimos 12 meses?
+0 días
+
+1-7 días
+
+8-30 días
+
+Más de 30 días
+
+Todos los días
+
+8.  ¿Le ha visto algún médico, fisioterapeuta, quiropráctico u otro profesional debido a 
+problemas en el hombro durante los últimos 12 meses?
+No
+Sí
+1 
+2 
+9. ¿Ha tenido problemas en el hombro durante los últimos 7 días?
+No
+Sí
+1 
+2 
+Fuente: Gómez R, Díaz B, Gutiérrez B, Sánchez B, Torres M. Cultural Adaptation and Psychometric Validation of the Standar­
+dised Nordic Questionnaire Spanish Version in Musicians. Int. J. Environ. Res. Public Health 2020, 17, 65331.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+59
+Extended nordic musculoskeletal questionnaire (nmq-e)
+Cómo responder al 
+cuestionario:
+Por favor, ponga una cruz 
+en la casilla apropia­
+da, una cruz por cada 
+pregunta.
+Conteste a todas las pre­
+guntas, incluso aunque 
+no haya tenido problemas 
+en ninguna parte del 
+cuerpo.
+Por favor, conteste las 
+preguntas de izquierda a 
+derecha antes de ir hacia 
+abajo a la próxima región.
+Esta imagen muestra 
+como hemos dividido el 
+cuerpo. Los límites no 
+están definidos nítida­
+mente y algunas partes 
+se sobreponen. Deberá 
+decidir por sí mismo/a 
+en qué parte tiene o ha 
+tenido problemas (en 
+caso de tenerlos).
+ 
+Ha tenido 
+alguna 
+vez algún 
+problema 
+(incomodi­
+dad, dolor 
+o malestar) 
+en:
+Si es 
+que NO, 
+vaya a la 
+siguiente 
+región.
+Si es que 
+SÍ, por 
+favor, 
+continúe
+En el 
+momento 
+en que 
+comenzó 
+el pro­
+blema, 
+¿cuál era 
+su edad?
+¿Alguna 
+vez ha sido 
+hospi­
+talizado 
+debido al 
+problema?
+¿Alguna vez 
+ha cambiado 
+trabajos u 
+ocupaciones 
+(incluso tem­
+poralmente) 
+debido al 
+problema?
+¿Ha tenido 
+problemas 
+(incomodi­
+dad, dolor 
+o malestar) 
+en algún 
+momento 
+durante los 
+últimos 12 
+meses?
+Si es 
+que NO, 
+vaya a la 
+si­
+guiente 
+región.
+Si es 
+que 
+SÍ, por 
+favor, 
+continúe
+¿Ha tenido 
+problemas 
+(incomodi­
+dad, dolor 
+o malestar) 
+en algún 
+momento 
+durante 
+el último 
+mes?
+¿Tiene el 
+problema 
+(incomodi­
+dad, dolor 
+o malestar) 
+hoy?
+¿Durante los últimos 12 meses, en algún 
+momento:
+su 
+proble­
+ma le ha 
+hecho 
+redu­
+cir su 
+activi­
+dad (en 
+casa o 
+fuera de 
+casa)?
+le ha visto 
+algún mé­
+dico, fisio­
+terapeuta, 
+quiroprác­
+tico u otro 
+profesional 
+debido al 
+problema?
+ha 
+tomado 
+medi­
+cación 
+debido al 
+proble­
+ma?
+ha estado 
+de baja 
+por en­
+fermedad 
+debido al 
+proble­
+ma?
+Cuello
+SÍ 
+NO 
+años
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+Hombros
+SÍ 
+NO 
+años
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+Codos
+SÍ 
+NO 
+años
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+Muñecas/
+manos
+SÍ 
+NO 
+años
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+Columna 
+dorsal
+SÍ 
+NO 
+años
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+Columna 
+lumbar
+SÍ 
+NO 
+años
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+Una o 
+ambas 
+caderas/
+muslos
+SÍ 
+NO 
+años
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+Una o 
+ambas 
+rodillas
+SÍ 
+NO 
+años
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+Uno o 
+ambos 
+tobillos/
+pies
+SÍ 
+NO 
+años
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+SÍ 
+NO 
+Adaptado de: Dawson AP, Steele EJ, Hodges PW, Stewart S. Development and Test-Retest Reliability of an Extended Version of the Nordic Musculoskeletal Questionnaire (NMQ-E): A Scree­
+ning Instrument for Musculoskeletal Pain. J Pain 2009;10(5): 517-2632.
+
+60	
+SANIDAD
+Anexo II. Exploraciones complementarias específicas
+1.  Monofilamentos de Semmes-Wenstein
+2.  Prueba de tablero perforado de Purdue (Purdue Pegboard Test)
+3.  Discriminación de dos puntos
+1. Monofilamentos de Semmes-Wenstein26,27
+Es una prueba discriminativa que se utiliza para evaluar el estímulo umbral necesario para 
+la percepción del tacto ligero a la presión profunda. La evaluación requiere el uso de mo­
+nofilamentos que están disponibles en un kit de evaluación de 5 ó 20 piezas.
+Técnica de evaluación
+–	 La prueba debe realizarse en un área tranquila con la visión ocluida.
+–	 La mano de la persona a examinar debe estar cómoda y apoyada sobre una mesa 
+con la palma hacia arriba para evitar mover el dedo, especialmente cuando se uti­
+lizan los filamentos más grandes.
+–	 Debe indicarse cómo la persona debe responder cuando siente el estímulo. Solo se 
+debe preguntar al sujeto cuándo siente un estímulo y no dónde lo siente.
+–	 Al realizar la prueba, proceda de distal a proximal y de monofilamentos pequeños 
+a grandes. Evite los callos o la piel gruesa.
+–	 No es necesario probar cada área de la piel, las comprobaciones pueden realizarse 
+en áreas inervadas por diferentes nervios.
+–	 Presione el filamento en un ángulo de 90 grados durante 1,5 segundos contra la 
+piel hasta que el filamento se arquee y luego retírelo.
+–	 Los filamentos 2,83 y 3,61 se aplican tres veces en cada punto. Una sola respuesta 
+indica un resultado positivo.
+–	 Para los filamentos 4,31, 4,56 y 6,65, aplique solo una vez.
+Filamentos
+Kit de evaluación de 5 piezas
+Verde
+2,83
+Normal
+Azul 
+3,61
+Disminución del tacto ligero, buen uso de la mano porque 
+hay sensación protectora
+Púrpura
+4,31
+Disminución de la sensación protectora. Pueden caerse los 
+objetos
+Rojo
+4,56
+Pérdida de la sensación protectora. Tendencia a lastimarse
+Líneas rojas
+6,55
+Solo sensación de presión profunda
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+61
+Kit de evaluación de 20 piezas
+Color
+Filamento
+Fuerza (gramos)
+Verde
+1,65
+0,008
+2,36
+0,02
+2,44
+0,04
+2,83
+0,07
+Azul
+3,22
+0,16
+3,61
+0,40
+Púrpura
+3,84
+0,60
+4,08
+1,0
+4,17
+1,4
+4,31
+2,0
+Rojo
+4,56
+4,0
+4,74
+6,0
+4,93
+8,0
+5,07
+10
+5,18
+15
+5,46
+26
+5,88
+60
+6,10
+100
+6,45
+180
+Líneas rojas
+6,65
+300
+Adaptado de: Aesthesio-Precision Tactile Sensory Evaluator®. Obtenido de: https://rehabmedic.com/shop/touch-test-sen­
+sory-evaluators-kit-20-pcs-5313?srsltid=AfmBOopfYS13V3XKY2tnzVFRFpt3Dw_I2eZvKOQbJX3Zx7ob6u-xXzGX#attr=
+2.  Prueba de tablero perforado de Purdue (Purdue 
+Pegboard Test)26,27
+El sujeto debe estar sentado durante toda la administración de la prueba.
+La prueba consta de 4 partes:
+1.	 Colocación en 30 segundos de tantas clavijas como se pueda con la mano dominante
+2.	 Colocación en 30 segundos de tantas clavijas como se pueda con la mano no dominante
+3.	 Colocación en 30 segundos de tantas clavijas como se pueda con ambas manos a la vez
+4.	 Tarea de ensamblaje en 60 segundos (no sería necesaria para determinar si la des­
+treza está deteriorada en los trabajadores manuales pesados).
+Se recopilarán 5 puntuaciones separadas:
+1.	 Mano dominante
+2.	 Mano no dominante
+3.	 Ambas manos
+4.	 Suma de las puntuaciones de mano dominante, no dominante y ambas manos
+5.	 Ensamblaje
+Se recomienda realizar tres ensayos de prueba: cuantos más ensayos se administren, 
+mayor será la confiabilidad de la puntuación de la prueba.
+Valoración:
+Se aconseja valorar los resultados en función de los datos por edad y sexo, ya que se ob­
+serva que el rendimiento en todas las subpruebas disminuye significativamente con el au­
+mento de la edad. El sexo también influye; las mujeres son significativamente más rápidas 
+que los hombres en todas las tareas.
+
+62	
+SANIDAD
+Valores de rendimiento en la prueba del tablero perforado de Purdue (Purdue Pegboard Test) por edad y sexo46,47
+Grupo de edad
+15 a 40
+40 a 49
+50 a 59
+60 a 69
+media
+desviación 
+estándar
+media
+desviación 
+estándar
+media
+desviación 
+estándar
+media
+desviación 
+estándar
+Mujer
+Mano dominante
+16,64
+2,10
+15,9
+1,45
+15,0
+1,56
+14,6
+2,03
+Mano no dominante
+15,95
+1,68
+15,2
+1,48
+14,4
+1,69
+13,9
+1,78
+Ambas manos
+13,58
+1,45
+13,1
+1,56
+12,1
+1,30
+11,6
+1,87
+Ensamblaje
+41,77
+5,42
+39,8
+4,54
+34,6
+8,21
+31,7
+6,83
+Diferencia entre manos
+0,73
+1,047
+0,63
+1,312
+0,71
+1,234
+Hombre
+Mano dominante
+15,65
+1,71
+14,6
+2,06
+14,4
+2,15
+13,6
+1,74
+Mano no dominante
+15,17
+1,82
+14,4
+2,35
+13,9
+2,19
+13,1
+1,56
+Ambas manos
+12,75
+1,42
+12,2
+2,43
+11,9
+2,22
+10,9
+1,46
+Ensamblaje
+39,01
+4,92
+34,9
+7,66
+33,8
+9,66
+28,0
+5,06
+Diferencia entre manos
+0,16
+1,193
+0,23
+1,205
+0,44
+1,859
+Fuentes:
+–  15 a 40 años: Yeudall L T, Fromm D, Reddon J R, Stefanyk, WO. Normative data stratified by age and sex for 12 neuropsychological tests. J Clin Psychol. 1986; 42(6): 918-94646.
+–  40 a 49 años: Agnew A, Bolla-Wilson K, Kawas CH, Bleecker ML. Purdue Pegboard Age and Sex Norms for People 40 Years Old and Older. Dev. Neuropsychol. 1988; 4(1): 29-3547.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A VIBRACIONES	
+63
+3. Discriminación de dos puntos26
+Esta prueba se utiliza para evaluar la percepción de uno o dos puntos de tacto y para eva­
+luar la calidad de la sensibilidad discriminatoria fina.
+Se evalúa utilizando una pequeña herramienta con puntas a una distancia fija de 
+2 mm a 15 mm.
+Técnica de evaluación
+–	 La prueba debe realizarse en un área tranquila con la visión ocluida.
+–	 La mano de la persona a explorar debe estar firmemente apoyada para evitar mo­
+vimientos no deseados de los dedos.
+–	 Demuestre inicialmente a la persona cómo se sienten las puntas en un área de piel 
+normalmente inervada.
+–	 Comience a una distancia de 5 mm entre los dos puntos.
+–	 Coloque aleatoriamente 1 ó 2 puntos paralelos al eje largo del dedo a lo largo de 
+cada falange hasta que la piel palidezca. Comience distalmente y trabaje proximal­
+mente.
+–	 Se le pregunta a la persona si ha sentido 1 ó 2 puntos. Esto debe repetirse 10 veces 
+en cada área.
+–	 Si se identifican correctamente 7 de 10 respuestas, se puntúa la distancia entre los 
+puntos.
+–	 Si las respuestas son inexactas, se aumenta la distancia entre los dos puntos finales 
+en incrementos de 1, 2 ó 5 mm, según el nivel de disfunción sospechado.
+–	 Se debe aplicar la misma presión entre los dos puntos simultáneamente.
+–	 La discriminación de dos puntos se puede evaluar como una presión estática o en 
+movimiento.
+–	 Para evaluar la presión en movimiento, coloque al azar 1 ó 2 puntos, luego man­
+tenga el contacto y muévalos distalmente.
+Valoración de los resultados
+Normal
+<6 mm
+Regular
+6-10 mm
+Malo
+11-15 mm
+Protector
+Percepción de 1 solo punto
+Anestesia
+No percepción de puntos
+
+64	
+SANIDAD
+Anexo III.  Diagnóstico diferencial25,26,53
+–	 Fenómeno de Raynaud primario:
+	
+Suele producirse a edades más tempranas, suele ser bilateral y simétrico, no suele 
+presentar edema, ulceración o necrosis, la capilarospia suele ser normal, la veloci­
+dad de sedimentación globular suele ser <20mm/h y los anticuerpos antinucleares 
+suelen ser bajos o negativos ANA<1/100.
+–	 Enfermedades vasculares oclusivas:
+	
+Lupus eritematoso sistémico, esclerodermia, síndrome de Sjögren, artritis reuma­
+toide, enfermedad mixta del tejido conectivo, polimiositis, vasculitis, esclerosis 
+sistémica, dermatomiositis, poliarteritis nodosa, enfermedad tromboembólica, en­
+fermedad de Buerger, arterioesclerosis, trombocitosis, vasculitis células gigantes, 
+hipertensión pulmonar primaria, arteritis de Takayasu.
+–	 Fármacos:
+	
+Betabloqueantes, estrógenos, triptanes, ergotamínicos, anticonceptivos, bleomici­
+na, interferon alfa, vinblastina, vincristina, anfetaminas, ciclosporina, bromocrip­
+tina, cisplatino, cloranfenicol, nitrofurantoina, perhexilina, etambutol, fenitoína, 
+oro, polimixina, indometacina, isoniacida, estreptomicina, metronidazol.
+–	 Infecciones:
+	
+Hepatitis B y C, parvovirus, micoplasma.
+–	 Síndromes endocrinos, neurológicos, hematológicos y cáncer:
+	
+Mieloma múltiple, policitemia, leucemia, crioglobulinemia, síndrome hemaglu­
+tininas frías, hiperfibrinogenemia, mixedema, hipotiroidismo, feocromocitoma, 
+diabetes mellitus, hipovitaminosis, síndrome carcinoide, sarcoidosis, acromegalia, 
+helicobacter pylori, hemipeljía, tabes dorsal, insuficiencia renal crónica, enferme­
+dad de Fabry, siringomielia, enfermedad de Parkinson.
+–	 Causas ambientales:
+	
+Tabaco, alcohol, cocaína.
+–	 Síndromes anatómicos:
+	
+Síndrome del desfiladero torácico, síndrome del túnel carpiano, costilla cervical.
+–	 Exposición laboral a neurotóxicos:
+	
+Acrilamida, antimonio, arsénico, disulfuro de carbono, dietil tiocarbamato, plomo 
+(inorgánico), compuestos del mercurio, metilbutil cetona, n-hexano, organofosfo­
+rados, talio, TOCP (fosfato de tri-o-cresilo).
+Los componentes neurológicos del síndrome de vibración mano brazo deberían es­
+tablecerse de forma independiente de los siguientes: neuropatía periférica alcohólica, es­
+pondilosis cervical, neuropatía periférica diabética, hemiplejia, esclerosis múltiple, neuro­
+fibromatosis, poliomielitis, compresión de médula espinal, siringomielia.
+
+
+Este protocolo es fruto del trabajo desarrollado por las Administraciones Sanitarias a 
+través de la Ponencia de Salud Laboral de la Comisión de Salud Pública del Consejo 
+Interterritorial del Sistema Nacional de Salud.
+Para su elaboración definitiva, la propuesta inicial ha sido revisada por el Instituto 
+Nacional de Seguridad y Salud en el Trabajo y enriquecida con los comentarios y 
+propuestas de las sociedades científicas de la medicina y la enfermería del trabajo y de los 
+representantes de los interlocutores sociales.
+El Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los 
+Servicios de Prevención, establece en su artículo 37 que la vigilancia de la salud de las 
+personas trabajadoras estará sometida a protocolos específicos u otros medios existentes 
+con respecto a los factores de riesgo a los que esté expuesto el trabajador. El Ministerio 
+de Sanidad y Consumo y las Comunidades Autónomas, oídas las sociedades científicas 
+competentes, y de acuerdo con lo establecido en la Ley General de Sanidad en materia de 
+participación de los agentes sociales, establecerán la periodicidad y contenidos 
+específicos de cada caso. Por su parte, el Real Decreto 1311/2005, de 4 de noviembre, 
+sobre la protección de la salud y la seguridad de los trabajadores frente a los riesgos 
+derivados o que puedan derivarse de la exposición a vibraciones mecánicas desarrolla el 
+derecho a la vigilancia de la salud de las personas trabajadoras expuestas a este riesgo que 
+se realizará en cumplimiento de lo establecido en la Ley 31/1995, de 8 de noviembre, de 
+Prevención de Riesgos Laborales.
+Es el primer protocolo que se dirige a la vigilancia sanitaria específica de la salud de las 
+personas trabajadoras expuestas a vibraciones.
+ESCUDO G
+OBIERNO D
+DE ESPAÑA
+www.sanidad.gob.es

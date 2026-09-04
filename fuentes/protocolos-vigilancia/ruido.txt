@@ -1,0 +1,2146 @@
+Protocolo para la
+vigilancia sanitaria
+específica de las
+personas trabajadoras 
+expuestas a ruido
+SANIDAD 2022
+MINISTERIO DE SANIDAD
+
+
+Protocolo para la
+vigilancia sanitaria
+específica de las
+personas trabajadoras 
+expuestas a ruido
+SANIDAD 2022
+MINISTERIO DE SANIDAD
+
+2ª edición
+Edita y distribuye: 
+© MINISTERIO DE SANIDAD
+CENTRO DE PUBLICACIONES
+Paseo del Prado, 18. 28014 Madrid
+NIPO en línea: 133-22-141-5
+El copyright y otros derechos de propiedad intelectual de este documento pertenecen al Ministerio de Sa­
+nidad. Se autoriza a las organizaciones de atención sanitaria a reproducir total o parcialmente para uso no 
+comercial, siempre que se cite el nombre completo del documento, año e institución.
+https://cpage.mpr.gob.es
+
+Protocolo para la 
+vigilancia sanitaria 
+específica de las 
+personas trabajadoras 
+expuestas a ruido
+
+
+Consejo Interterritorial del Sistema Nacional de Salud 
+La Comisión de Salud Pública del Consejo Interterritorial del Sistema 
+Nacional de Salud aprobó el “Protocolo para la Vigilancia Sanitaria Es­
+pecífica de las personas trabajadoras expuestas al ruido”, en sesión 
+plenaria celebrada el día 9 de mayo de 2019.
+Comisión Nacional de Seguridad y Salud en el Trabajo
+La Comisión Nacional de Seguridad y Salud en el Trabajo fue informada 
+del Protocolo para la Vigilancia Sanitaria Específica del de las personas 
+trabajadoras expuestas al ruido y su Guía, en el pleno celebrado el 8 de 
+octubre de 2019.
+
+
+Autoría
+Aitor Guisasola Yeregui. Médico especialista en Medicina del Trabajo. Osa-
+lan-Instituto Vasco de Seguridad y Salud Laborales. País Vasco.
+Arantza Lijó Bilbao. Médica especialista en Medicina del Trabajo. Osalan-Insti-
+tuto Vasco de Seguridad y Salud Laborales. País Vasco.
+Luis Miguel Fiz Melsió. Médico especialista en Otorrinolaringología. Bilbao. 
+País Vasco.
+Mikel Uña Gorospe. Médico especialista en Medicina del Trabajo. Prevencilan. 
+Donostia/San Sebastián. País Vasco.
+Caridad Pilar León Robles. Médica residente de Medicina del Trabajo de la 
+Unidad docente del Hospital Universitario de Cruces. OSAKIDETZA-Servicio 
+Vasco de Salud. País Vasco.
+Paula Astudillo Zulueta. Médica residente de Medicina del Trabajo de la Uni-
+dad docente del Hospital Universitario de Donostia/San Sebastián. OSAKIDET-
+ZA-Servicio Vasco de Salud. País Vasco.
+Revisión externa
+Nora Ibargoyen Roteta. Técnica del servicio de Tecnologías Sanitarias-OSTE-
+BA. Departamento de Sanidad y Consumo. Gobierno Vasco. País Vasco.
+Itziar Etxeandia Ikobaltzeta. Técnica del servicio de Tecnologías Sanitarias-OS-
+TEBA. Departamento de Sanidad y Consumo. Gobierno Vasco. País Vasco.
+Colaboraciones
+Itziar Crespo Basterra. Bibliotecaria. Osalan-Instituto Vasco de Seguridad y Sa-
+lud Laborales.
+Unai Solana Matarrán. Bibliotecario. Osalan-Instituto Vasco de Seguridad y Sa-
+lud Laborales.
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+9
+
+10	
+ SANIDAD
+Comisión de Salud Pública
+Ponencia de Salud Laboral
+Montserrat García Gómez. Ministerio de Sanidad, Consumo y Bienestar Social
+Joaquín Estévez Lucas. Ministerio de Sanidad, Consumo y Bienestar Social
+Aitor Gisasola Yeregui. Osalan. Instituto Vasco de Seguridad y Salud Laborales. 
+País Vasco
+Lourdes Íscar Reina. Osalan. Instituto Vasco de Seguridad y Salud Laborales. 
+País Vasco 
+Juan Carlos Coto Fernández. Osalan. Instituto Vasco de Seguridad y Salud La-
+borales. País Vasco 
+Rafael Panadés Valls. Consellería de Salut. Catalunya
+María Isabel González García. Consejería de Salud y Bienestar Social. Galicia
+Francisco Arroyo Llanes. Consejería de Salud y Familias. Andalucía
+Rosario Díaz Peral. Consejería de Salud y Familias. Andalucía
+Valentín Rodríguez Suárez. Consejería de Sanidad. Principado de Asturias
+Íñigo Fernández Fernández. Consejería de Sanidad y Servicios Sociales. Can-
+tabria
+Lourdes Miralles Martínez-Portillo. Consejería de Salud y Servicios Sociales. 
+La Rioja
+Bienvenida Carpe Carpe. Consejería de Sanidad y Política Social. Región de 
+Murcia
+Valentín Esteban Buedo. Consellería de Sanidad Universal y Salud Pública. Co­
+munidad Valenciana
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y Familia. 
+Aragón
+Fernando Cebrián Gómez. Consejería de Sanidad y Asuntos Sociales. Casti­
+lla-La Mancha
+Emma Rosa Corraliza Infanzón. Consejería de Sanidad y Asuntos Sociales. 
+Castilla-La Mancha 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+11
+Iñaki Moreno Sueskun. Instituto Navarro de Salud Laboral. Comunidad Foral 
+de Navarra
+Jesús Fernández Baraibar. Instituto Navarro de Salud Laboral. Comunidad Fo-
+ral de Navarra
+Yolanda Anés del Amo. Consejería de Sanidad y Políticas Sociales. Extremadura
+Santiago Briz Blázquez. Consejería de Sanidad y Políticas Sociales. Extremadura
+Milagros Quiemadelos Carmona. Consellería de Salut. Illes Balears
+Eduardo García-Ramos Alonso. Consejería de Sanidad. Canarias
+María Fernanda González Gómez. Consejería de Sanidad. Comunidad de Ma-
+drid
+Mercedes Elvira Espinosa. Consejería de Sanidad. Castilla y León
+Luisa Fernanda Hermoso Castro. Consejería de Presidencia y Salud Publica. 
+Ciudad Autónoma de Melilla
+Ana Isabel Rivas Pérez. Consejería Sanidad, Servicios Sociales, Menores e 
+Igualdad. Ciudad Autónoma de Ceuta
+Pilar Aparicio Azcárraga
+Directora General de Salud Pública, Calidad e Innovación
+Covadonga Caballo Diéguez
+Subdirectora General de Sanidad Ambiental y Salud Laboral
+
+
+Índice
+Justificación 
+ 
+ 
+17
+I. Criterios de aplicación  
+19
+II. Definición del problema	
+19
+	
+2.1.	 Ruido y audición	
+19
+	
+	
+2.1.1.	Definiciones y conceptos	
+19
+	
+	
+2.1.2.	Fuentes de exposición 	
+20
+	
+	
+2.1.3.	Recuerdo fisiológico	
+21
+	
+	
+2.1.4.	Mecanismo de acción etiopatogénica 	
+22
+	
+	
+2.1.5.	Efectos del ruido sobre la audición: Clínica	
+23
+	
+	
+2.1.6.	Principales características de la hipoacusia por ruido	
+24
+	
+	
+2.1.7.	Diagnóstico diferencial	
+25
+	
+2.2.	 Efectos sobre la audición de la exposición a ruido
+y agentes químicos, farmacológicos y físicos	
+26
+	
+	
+2.2.1. Exposición a ruido y agentes químicos	
+26
+	
+	
+2.2.2. Exposición a ruido y tabaco	
+27
+	
+	
+2.2.3. Exposición a ruido y agentes farmacológicos	
+27
+	
+	
+2.2.4. Exposición a ruido y agentes físicos	
+28
+	
+	
+2.2.5. Vigilancia colectiva de la salud en relación a la exposición
+conjunta a ruido y a agentes químicos, farmacológicos,
+consumo de tabaco o agentes físicos	
+28
+	
+2.3.	 Exposición a ruido y efectos cardiovasculares	
+29
+	
+2.4.	 Exposición a ruido y efectos sobre el embarazo y el feto	
+29
+III.	
+Evaluación del riesgo	
+30
+IV.	
+Protocolo sanitario específico	
+30
+	
+4.1.	 Vigilancia individual de la salud	
+30
+	
+	
+4.1.1. Contenido	
+30
+	
+	
+4.1.2. Periodicidad	
+31
+	
+4.2.	 Vigilancia colectiva de la salud	
+32
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+13
+
+14	
+ SANIDAD
+V. 
+Criterios de actuación 
+33
+ 
+5.1. Criterios de valoración de la audiometría individual 
+33
+ 
+5.2.  Criterios para la comunicación de las conclusiones 
+que se deriven de la vigilancia de la salud de las personas 
+trabajadoras 
+34
+ 
+5.3.  Conducta a seguir en caso de que exista una exposición 
+conjunta a ruido y a agentes químicos que puedan interactuar 
+para producir pérdida auditiva 
+36
+ 
+5.4. Conducta a seguir en el caso de que una mujer embarazada
+ 
+ 
+esté expuesta a ruido 
+37
+ 
+5.5.  Conducta a seguir en el caso de que el médico o médica 
+del trabajo sospeche encontrarse ante un caso de hipoacusia 
+por ruido 
+ 
+38
+ 
+5.6. Documentación 
+38
+Bibliografía 
+ 
+ 
+39
+Anexo I: Cuestionario  
+49
+Anexo II: Aspectos prácticos sobre la exploración audiométrica 
+53
+
+Presentación
+Este protocolo, fruto del trabajo desarrollado por las Administraciones Sa­
+nitarias a través de la Ponencia de Salud Laboral de la Comisión de Salud 
+Pública del Consejo Interterritorial del Sistema Nacional de Salud, revisa y 
+actualiza el protocolo de vigilancia sanitaria específica que se aprobó en el 
+año 2001.
+El protocolo que ahora se actualiza ha proporcionado durante su tiempo 
+de vigencia una guía de actuación a los profesionales implicados en la vi­
+gilancia sanitaria específica de las personas trabajadoras expuestas a ruido. 
+Durante este tiempo, los profesionales han manifestado y concretado sus 
+necesidades respecto al contenido de los protocolos de vigilancia sanitaria 
+específica, tales como criterios uniformes en relación a la comunicación de 
+las conclusiones que se deriven de la vigilancia de la salud de los trabajado­
+res y las trabajadoras o sobre la periodicidad de la práctica de los exámenes 
+de salud. 
+En esta revisión se recogen los cambios normativos que se han pro­
+ducido en este periodo. Así, con posterioridad a la fecha de publicación del 
+protocolo se aprobó la Directiva 2003/10/CE, del Parlamento Europeo y del 
+Consejo, de 6 de febrero de 2003, sobre las “disposiciones mínimas de se­
+guridad y de salud relativas a la exposición de los trabajadores a los riesgos 
+derivados de los agentes físicos (ruido)”, y el Real Decreto 286/2006, de 10 
+de marzo, sobre la “protección de la salud y la seguridad de los trabajadores 
+contra los riesgos relacionados con la exposición al ruido”, que traspone la 
+citada Directiva al derecho español, derogando las disposiciones en las que 
+se basó el protocolo anterior.
+También, con posterioridad, se aprobó el Real Decreto 1299/2006, de 
+10 de noviembre, por el que se aprueba el cuadro de enfermedades profesio­
+nales en el sistema de la Seguridad Social y se establecen criterios para su 
+notificación y registro, y al que se hacía referencia en el protocolo. Este Real 
+Decreto introdujo la obligación de realizar la comunicación de sospecha de 
+enfermedad profesional cuando esta se produzca.
+Los protocolos de vigilancia de la salud de las personas trabajadoras 
+son instrumentos destinados a facilitar la toma de decisiones por parte de 
+los y las profesionales encargados de la vigilancia de la salud, y contribuyen 
+a elevar la calidad de la práctica clínica que desarrollan en los servicios de 
+prevención. Es necesario que estos instrumentos se basen en la mejor evi­
+dencia disponible. Así, siguiendo los acuerdos alcanzados en la Ponencia de 
+Salud Laboral de la Comisión de Salud Pública del Consejo Interterritorial 
+del Sistema Nacional de Salud se ha realizado junto con el protocolo una 
+Guía para la vigilancia de la salud de las personas trabajadoras expuestas 
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+15
+
+16	
+ SANIDAD
+a ruido que ha servido de base para la elaboración de recomendaciones re-
+cogidas en el mismo.
+Esperamos que esta revisión del Protocolo para la vigilancia sanitaria es-
+pecífica sea una herramienta que aporte el necesario conocimiento y unas ade-
+cuadas pautas para la prevención de los efectos para la salud del ruido en los 
+trabajadores y las trabajadoras expuestas.
+
+Justificación
+Los protocolos de vigilancia de la salud de las personas trabajadoras son ins­
+trumentos destinados a facilitar la toma de decisiones por parte de las y los 
+profesionales encargados de la vigilancia de la salud, y contribuyen a elevar 
+la calidad de la práctica clínica que estos desarrollan en los servicios de pre­
+vención. Es necesario que estos instrumentos se basen en la mejor evidencia 
+disponible y, dado que la información científica crece de manera exponen­
+cial, es preciso elaborarlos de forma que recojan esta evidencia creciente y 
+la actualicen de forma sistemática y de manera periódica. 
+Tanto el protocolo de vigilancia sanitaria específica que se aprobó en 
+el año 20011, como la “Guía Técnica para la evaluación y prevención de los 
+riesgos relacionados con la exposición al ruido” que publicó el Instituto 
+Nacional de Seguridad e Higiene en el Trabajo (INSHT)2 en 2006 tras la 
+aprobación del Real Decreto 286/2006, de 10 de marzo, sobre la “protección 
+de la salud y la seguridad de los trabajadores contra los riesgos relacionados 
+con la exposición al ruido” se hicieron eco de la posibilidad de efectos pro­
+ducidos de este agente en las trabajadoras embarazadas, que hayan dado a luz 
+recientemente o se encuentren en periodo de lactancia, así como en el feto, 
+y de efectos relacionados con la exposición combinada a ruido y agentes 
+físicos, químicos o farmacológicos con efectos ototóxicos. También hacían 
+alusión a efectos extrauditivos relacionados con la exposición al ruido y a 
+la existencia de pruebas como las otoemisiones acústicas y los potenciales 
+evocados que podrían ser susceptibles de ser utilizadas por un servicio de 
+prevención. 
+La indicación de tales pruebas, así como la evidencia con respecto a di­
+versos efectos del ruido sobre la salud de la población trabajadora precisaban 
+ser valoradas de cara a su inclusión en el protocolo de vigilancia sanitaria. 
+Así, en consonancia con los acuerdos alcanzados en la Ponencia de 
+Salud Laboral de la Comisión de Salud Pública del Consejo Interterritorial 
+del Sistema Nacional de Salud, se realizó en primer lugar la Guía para la 
+vigilancia de la salud de las personas trabajadoras expuestas a ruido.
+El proceso de elaboración de esta guía se ha realizado adaptando la me­
+todología descrita en el “Manual Metodológico para la Elaboración de Guías 
+de Práctica Clínica en el Sistema Nacional de Salud”3 en su revisión de 2016, 
+que adopta a su vez la planteada por el grupo GRADE (Grading of Recom­
+mendations Assesment, Development and Evaluation), y en “Handbook for 
+conducting a literature-based health assessment using OHAT approach for 
+sistematic review and evidence integration”4 en su revisión de 2015, respon­
+diendo, como se indica más arriba, a la necesidad de que las recomendacio­
+nes que se recojan en el protocolo se basen en la mejor evidencia disponible.
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+17
+
+18	
+ SANIDAD
+Las recomendaciones de la Guía para la vigilancia de la salud de las 
+personas trabajadoras expuestas a ruido se han incorporado al protocolo 
+y vienen indicadas en el texto mediante un asterisco*.
+Quien lo considere necesario puede acudir a la guía para comprender el pro-
+ceso de actualización y la justificación de las recomendaciones relativas a las pre-
+guntas estudiadas, el nivel de la evidencia científica que las sustenta y la fuerza o 
+grado de la recomendación considerado.
+El protocolo recoge también otras cuestiones que no se han sometido a este 
+proceso, bien por estar consolidadas desde el punto de vista de la evidencia, bien 
+por corresponder a temas recogidos en la normativa vigente y que no requieren de 
+la utilización de métodos basados en la evidencia científica para su actualización. 
+En estos casos se ha recurrido al consenso entre los autores.
+En todo caso, se ha tratado de responder de forma rigurosa a la necesidad 
+de actualizar el protocolo de vigilancia sanitaria que se aprobó en el año 20011, 
+teniendo en cuenta asimismo los cambios normativos que se han producido en el 
+periodo transcurrido durante su vigencia.
+
+Protocolo para la vigilancia 
+sanitaria específica de las personas 
+trabajadoras expuestas a ruido
+I. Criterios de aplicación
+Este protocolo se aplicará a todas aquellas personas que durante su jornada laboral 
+estén expuestas a ruido.
+II. Definición del problema
+2.1. Ruido y audición
+2.1.1. Definiciones y conceptos
+Los términos ruido y sonido se han utilizado indistintamente y la diferencia entre 
+ellos no es de naturaleza física sino más bien cultural y subjetiva, llamando ruido 
+al sonido que no nos agrada5.
+En todo caso, en lo que respecta a este Protocolo de Vigilancia Específica 
+de la Salud de las personas trabajadoras, se definirá como ruido a aquel que 
+cumpla, según los parámetros físicos utilizados para la evaluación del riesgo que 
+se definen en el Artículo 5 del Real Decreto 286/2006, de 10 de marzo, sobre la 
+“protección de la salud y la seguridad de los trabajadores contra los riesgos rela­
+cionados con la exposición al ruido”, el que supere los valores inferiores de ex­
+posición que dan lugar a una acción referidos a los niveles de exposición diaria 
+y a los niveles de pico: LAeq,d = 80 dB(A) y Lpico = 135 dB (C), respectivamente. 
+El sonido, el ruido, se caracteriza por una serie de parámetros6,7:
+— Frecuencia o tono: 
+	
+Se define como el número de vibraciones que tienen lugar en un segundo 
+y se miden en forma de ciclos por segundo (cps) o vibraciones por segun­
+do, hertzios (Hz.)
+	
+Los sonidos audibles tienen una frecuencia comprendida entre 16 y 
+20.000 hertzios (Hz), siendo más peligrosos los agudos o de frecuencias 
+superiores a 1.000 Hz.
+	
+Un número alto de ciclos por segundo dará lugar a un tono agudo y un 
+número bajo, a un tono grave. Sin embargo, los sonidos de la vida diaria 
+suelen ser la combinación de varias frecuencias. 
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+19
+
+20	
+ SANIDAD
+— Intensidad:
+	
+Se define como el grado de energía de la onda sonora. 
+	
+Su definición física exacta es: valor promedio en el tiempo del producto 
+de la presión (fuerza aplicada a la unidad de superficie) con la velocidad 
+lineal de vibración (velocidad de desplazamiento de las partículas dada 
+por la presión sonora). Se mide en ergios por segundo a través de un cen­
+tímetro cuadrado normal a la dirección de propagación, también se mide 
+en W/m2, o bien en pascales (Pa).
+	
+Si la cuantificación de la presión acústica la hiciésemos en W/m2 debe­
+ríamos usar una escala que recorrería desde 1 hasta 1014, y si esa escala 
+fuese en pascales recorrería otra de 200.000.000 unidades.
+	
+Por ello, y dada su poca operatividad, se utiliza corrientemente el deci­
+belio (dB), que no es una unidad de medida absoluta, sino una unidad 
+adimensional que expresa la diferencia entre dos niveles de intensidad. 
+El decibelio (dB) es igual a 10 veces el logaritmo decimal de la relación 
+entre una cantidad dada y otra que se toma como referencia [L = 10 log10 
+(I:I0)]. Normalmente esa referencia es la correspondiente al umbral de 
+audición de 1.000 Hz con una presión de 20 μPa (o 10-12 W/m2), que es 
+la menor presión acústica audible para un oído joven y sano, siendo así 
+su valor, en la escala logarítmica, de 0 dB.
+— Timbre:
+	
+Es una característica del sonido que se relaciona con los armónicos que 
+en un sonido complejo suelen acompañar a la frecuencia fundamental y 
+que viene a ser el modo propio y característico de sonar.
+	
+A efectos prácticos, en relación al ruido, se tendrán en cuenta también 
+estas 2 particularidades:
+— Duración:
+	
+El efecto adverso del ruido es directamente proporcional a la duración de 
+la exposición. 
+	
+En relación al tiempo, los ruidos se suelen describir también como cons­
+tantes, periódicos o de impacto.
+— Pureza: 
+	
+Un sonido puro es aquel constituido por una o por pocas frecuencias. Su 
+importancia radica en que los sonidos puros son más peligrosos para el oído.
+2.1.2. Fuentes de exposición
+Para establecer una lista indicativa de actividades en las que existe exposición al 
+ruido tomaremos como referencia el Real Decreto 1299/2006, de 10 de noviem-
+bre, por el que se aprueba el cuadro de enfermedades profesionales en el sistema 
+de la Seguridad Social y se establecen criterios para su notificación y registro. El 
+listado comprende:
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+21
+— Trabajos de calderería.
+— Trabajos de estampado, embutido, remachado y martillado de metales.
+— Trabajos en telares de lanzadera batiente.
+— Trabajos de control y puesta a punto de motores de aviación, reactores 
+o de pistón.
+— Trabajos con martillos y perforadores neumáticos en minas, túneles y 
+galerías subterráneas.
+— Trabajos en salas de máquinas de navíos.
+— Tráfico aéreo (personal de tierra, mecánicos y personal de navegación, 
+de aviones a reacción, etc.).
+— Talado y corte de árboles con sierras portátiles.
+— Salas de recreación (discotecas, etc.).
+— Trabajos de obras públicas (rutas, construcciones, etc.) efectuados con 
+máquinas ruidosas como las bulldozers, excavadoras, palas mecánicas, 
+etc.
+— Motores diésel, en particular en las dragas y los vehículos de transportes 
+de ruta, ferroviarios y marítimos.
+— Recolección de basura doméstica.
+— Instalación y pruebas de equipos de amplificación de sonido.
+— Empleo de vibradores en la construcción.
+— Trabajo en imprenta rotativa en la industria gráfica.
+— Molienda de caucho, de plástico y la inyección de esos materiales para 
+moldeo
+— Manejo de maquinaria de transformación de la madera, sierras circula­
+res, de cinta, cepilladoras, tupies, fresas.
+— Molienda de piedras y minerales.
+— Expolio y destrucción de municiones y explosivos.
+2.1.3. Recuerdo fisiológico8
+Las ondas sonoras, son recogidas por el pabellón auditivo y llegan por el conducto 
+auditivo externo hasta la membrana del tímpano donde la hacen vibrar.
+El movimiento de la membrana del tímpano se comunica a través de la ca-
+dena de huesecillos del oído medio (martillo, yunque y estribo) a la ventana oval. 
+A través de dicha ventana, y debido a los movimientos del estribo, se genera una 
+onda en el líquido del oído interno y allí donde esta onda alcanza su máxima am-
+plitud se genera una estimulación de las células ciliadas que producen un impulso 
+eléctrico correspondiente a unas frecuencias determinadas. 
+La sensibilización a distintas frecuencias del sonido se localiza en diferentes 
+puntos de la cóclea, las bajas frecuencias son detectadas en la parte más superior 
+de la cóclea, próxima al helicotrema. Las altas frecuencias, por el contrario, se 
+captan en la zona inferior de esta, es decir, junto a la ventana oval.
+
+22	
+ SANIDAD
+2.1.4. Mecanismo de acción etiopatogénica5,7,9,10
+Las lesiones auditivas producidas por ruido se producen a nivel de la membrana 
+basilar del oído interno. Hay una lesión degenerativa de las células ciliadas exter-
+nas y de las células de sostén de Deiters. 
+Las lesiones se producen en función de una serie de factores:
+— Intensidad del ruido
+ 
+El grado de energía de la onda sonora 
+— Tiempo de exposición
+ 
+El efecto adverso del ruido es proporcional a la duración de la exposición 
+ 
+y parece estar relacionado con la cantidad total de energía sonora que 
+llega al oído interno.
+— Frecuencia del ruido
+ 
+Las células ciliadas 
+ 
+externas, ubicadas en la zona coclear más próxima a 
+la ventana oval, son las encargadas de percibir las frecuencias agudas, en-
+tre ellas las de 3.000 Hz y 6.000 Hz, las cuales suelen verse habitualmen-
+te afectadas por el efecto nocivo del ruido. En este rango de frecuencias 
+es donde se producen la mayoría de los ruidos industriales.
+— Naturaleza del ruido
+ 
+La exposición al 
+ 
+ruido puede ser intermitente o continua. Ante dicha ex-
+posición el mecanismo de defensa del oído se basa en dos sistemas. Por 
+un lado, contamos con el musculo del martillo y por otro lado con el mus-
+culo del estribo, este último más importante. Ambos sistemas amortiguan 
+unos 10 dB el sonido entrante y son fatigables por saturación, de modo 
+que el sonido ya sea intermitente o continuo será lesivo en función de la 
+duración de la exposición.
+— Susceptibilidad individual
+ 
+Se acepta 
+ 
+como factor de riesgo, aunque es difícil demostrarlo. Unos su-
+jetos tienen mayor sensibilidad al ruido, y sometidos al mismo nivel de 
+ruido tendrán un daño mayor y más rápido en su agudeza auditiva que el 
+resto de la población.
+	
+Se plantean como factores de susceptibilidad los siguientes:
+	
+• Edad
+Parece que en la edad media de la vida hay más posibilidades de le­
+sión. Hay que tener en cuenta la posibilidad de que en un gran número 
+de casos este efecto se sume a la presbiacusia propia de la edad y que 
+éste sea un proceso degenerativo que favorezca la aparición de la lesión 
+acústica.
+	
+• Patología del oído medio
+Si existe una hipoacusia de conducción, se necesita mayor presión 
+acústica para estimular el oído interno, pero cuando la energía es su­
+ficiente penetra directamente hasta el mismo, dado que el oído medio 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+23
+no cumple con su función amortiguadora y provoca un daño superior 
+al esperado. 
+Igualmente, señalar que alrededor de un 1% de la población presenta 
+una ausencia congénita del musculo del estribo y por lo tanto carece de 
+ese factor de protección.
+	
+• Enfermedades del oído interno
+Cabe esperar una mayor fragilidad coclear cuando existe una pérdida 
+auditiva neurosensorial.
+	
+• Enfermedades neurológicas
+Los antecedentes de meningitis y de traumatismos craneales se han 
+asociado a la aparición de sordera.
+	
+• Antecedentes familiares
+Existe una susceptibilidad familiar además de enfermedades heredi­
+tarias.
+Para determinar la susceptibilidad individual al ruido algunos autores 
+sugieren pruebas de fatiga auditiva, donde se valora el umbral audi­
+tivo.
+2.1.5. Efectos del ruido sobre la audición: Clínica10 
+El ruido tiene distintos efectos sobre la audición, que por orden de menor a 
+mayor importancia serían los siguientes:
+— Enmascaramiento de la audición
+ 
+Cuando 
+ 
+se permanece en un lugar ruidoso existe dificultad para oír otros 
+sonidos o a otras personas.
+— Fatiga auditiva
+ 
+Es un descenso transitorio 
+ 
+de la capacidad auditiva debido a la exposi-
+ción al ruido. La capacidad auditiva se recupera con el descanso sonoro, 
+en hasta 16 horas, dependiendo de la intensidad y duración de la exposi-
+ción que la ha provocado, ya que la recuperación sigue una proporción 
+logarítmica con relación al tiempo. 
+ 
+No hay lesión
+ 
+ en el órgano de la audición.
+—  Hipoacusia permanente
+ 
+Se 
+ 
+produce un déficit auditivo permanente neurosensorial, que comienza 
+a establecerse en frecuencias de 3.000 a 6.000 Hz. 
+ 
+Hay lesión en el órgano de la audición.
+ 
+La 
+ 
+persona trabajadora, al principio, no vivencia esta hipoacusia como 
+una enfermedad porque no interfiere aún con su vida social. Las frecuen-
+cias conversacionales no están todavía afectadas.
+ 
+Pero si la exposición continú
+ 
+a, la pérdida se extiende a frecuencias más 
+elevadas en un primer tiempo, y a más bajas posteriormente. Comienzan 
+a aparecer síntomas subjetivos, el trabajador o la trabajadora notan que 
+
+24	
+ SANIDAD
+no tiene una audición normal, eleva el volumen de los aparatos y suele 
+comentar que no capta las conversaciones cuando existe ruido de fondo.
+ 
+ Finalmente, las frecuencias conversacionales quedan afectadas con la 
+consiguiente discapacidad que se deriva de ello. 
+2.1.6. Principales características de la hipoacusia por ruido6,7,11
+—  Es una sordera irreversible de tipo neurosensorial, por afectación de las células 
+ciliadas del oído interno.
+—  La pérdida de audición suele ser bilateral y simétrica. Sin embargo, las audio-
+metrías que no cumplan con estos requisitos son compatibles con el diagnósti-
+co, a condición de demostrar la existencia de fuentes de sonido especialmente 
+orientadas.
+—  La pérdida auditiva es gradual con inicio temprano. Se desarrolla de forma 
+característica en los primeros años de exposición y puede empeorar durante 
+los próximos 8-10 años de exposición continuada. A partir de ese momento, 
+el daño no suele progresar de forma rápida y suele alcanzar su máximo nivel 
+hacia los 10-15 años de exposición continuada. Si la exposición a ruido cesa, 
+no suele progresar.
+—  El daño se suele iniciar con una pérdida que afecta a las frecuencias de 3000, 
+4000 y 6000 Hz con recuperación a 8000 Hz. 
+—  En su progresión, la pérdida afecta principalmente esas frecuencias y sobre 
+todo a la de 4000 Hz, provocando menor afectación de las frecuencias 500, 
+1000 y 2000 Hz, a las que también suele extenderse.
+—  En la audiometría se observa descenso de las vías aérea y ósea, mostrando un 
+descenso paralelo de ambas (diferencia inferior a 35 dB).
+—  Casi nunca produce una pérdida auditiva profunda. Normalmente, los límites 
+en las bajas frecuencias están en unos 40 dB y en las altas frecuencias en unos 
+75 dB.
+— Puede ir acompañada de acúfenos o de síndrome vestibular.
+— La pérdida auditiva producida por ruido no implica una mayor sensibilidad a 
+una futura exposición a ruido.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+25
+Figura 1. Evolución en el tiempo de las alteraciones audiométricas producidas 
+por el ruido9
+Figur
+a 1
+.
+ E
+vo
+lu
+ci
+ón
+ e
+n 
+el
+ t
+iem
+po 
+de 
+las
+ al
+ter aci on es a ud io mé tr ic
+as producidas por el ruido
+2.1.7. Diagnóstico diferencial6,9,11
+Para diagnosticar hipoacusia por ruido se deben excluir posibles enfermedades del 
+oído medio, del oído interno y lesiones del nervio auditivo. 
+Numerosas patologías pueden presentar hallazgos similares a los producidos 
+por el ruido en la audiometría de tonos puros (virosis, ototoxicidad, hipoacusia 
+neurosensorial hereditaria e idiopática, traumatismo cráneo-encefálico, exposi-
+ción a radiación terapéutica, alteraciones neurológicas como la esclerosis múlti-
+ple, alteraciones óseas como la enfermedad de Paget, alteraciones cerebrovascula-
+res, neurinoma del acústico, neoplasias del sistema nervioso central, enfermedad 
+de Méniére, pérdida súbita de audición, etc.) por lo que el diagnóstico clínico 
+puede ser difícil. 
+Las dificultades serán mayores con audiogramas sugestivos de estadíos ini-
+ciales de hipoacusia profesional. De hecho, es muy probable, que éstas patologías 
+sean responsables de una sobreestimación de los efectos del ruido en la audición.
+El diagnóstico de lesión auditiva por exposición a ruido se hará cuando exis-
+tan razones suficientes en la anamnesis y la exploración.
+
+26	
+ SANIDAD
+Para establecer el origen laboral de la hipoacusia es necesario concretar la 
+exposición actual y anterior a ruido.
+2.2.  Efectos sobre la audición de la exposición 
+a ruido y agentes químicos, farmacológicos 
+y físicos
+2.2.1. Exposición a ruido y agentes químicos*
+Los estudios epidemiológicos sobre los efectos auditivos derivados de la exposi-
+ción conjunta a ruido y agentes químicos realizados en seres humanos son escasos, 
+abarcan sólo algunos de ellos y la calidad de la evidencia de los mismos es, en 
+general, muy baja. La mayor parte de las investigaciones se han llevado a cabo 
+mediante experimentos realizados en animales, en los que la calidad de la eviden-
+cia de estos estudios es mayor.
+Integrando la evidencia que proporcionan ambas fuentes de investigación, se 
+obtienen los siguientes resultados:
+2.2.1.1.  Exposición a ruido y disolventes ototóxicos 
+o posiblemente ototóxicos
+ La evidencia sobre la peligrosidad para la audición del ser humano derivada 
+de la acción conjunta del ruido con los disolventes muestra que esta es posi-
+ble con el estireno12-21 y con el tolueno22-32. 
+Esta peligrosidad no se ha podido clasificar en relación a otros disol-
+ventes33-35.
+2.2.1.2. Agentes químicos asfixiantes
+La evidencia sobre la peligrosidad para la audición del ser humano derivada 
+de la acción conjunta del ruido con los asfixiantes muestra que esta es posi­
+ble con el monóxido de carbono36-47. 
+Esta peligrosidad no se ha podido clasificar en relación al cianuro de 
+hidrógeno u otros asfixiantes48.
+2.2.1.3. Otros agentes químicos
+ No se ha podido clasificar la peligrosidad para la audición del ser humano 
+derivada de la acción conjunta del ruido con otros agentes químicos, tales 
+como nitrilos49-52, metales y metaloides53-55, bromuros, hidrocarburos haloge-
+nados o insecticidas.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+27
+A la vista de todo ello, se sugiere que la vigilancia de la salud específica de las 
+personas trabajadoras expuestas a ruido incluya el conocimiento de la exposición a 
+tolueno, estireno o monóxido de carbono (recomendación débil) y un seguimiento 
+más estrecho de los efectos auditivos que puedan producirse por la exposición con-
+junta a alguno o varios de estos agentes y a ruido (recomendación débil).
+Se sugiere también que cuando la vigilancia de la salud específica de las 
+personas trabajadoras expuestas a ruido muestre efectos sobre la audición de las 
+mismas, y éstas estén expuestas a ruido y a tolueno, estireno o monóxido de carbo-
+no se recomienden medidas preventivas tendentes a evitar la exposición conjunta 
+(recomendación débil).
+2.2.2. Exposición a ruido y tabaco*
+No se ha podido clasificar la peligrosidad para la audición del ser humano deri-
+vada de la acción conjunta del ruido con el consumo de tabaco56-65, pero dado al 
+escaso conocimiento de los efectos de la exposición conjunta de ruido y consumo 
+de tabaco sobre la audición, se considera oportuno aumentarlo, incluyendo el co-
+nocimiento de su consumo en las personas trabajadoras expuestas a ruido (reco-
+mendación de buena práctica). Y puesto que se propone este conocimiento, por la 
+prevalencia del consumo de tabaco y sus evidentes efectos sobre otras enferme-
+dades, se considera oportuno proporcionar consejo antitabáquico y recomendar la 
+abstinencia de su consumo en el marco de la vigilancia de la salud de las personas 
+trabajadoras (recomendación de buena práctica).
+2.2.3. Exposición a ruido y agentes farmacológicos*
+Los estudios epidemiológicos sobre los efectos auditivos derivados de la expo-
+sición conjunta a ruido y agentes farmacológicos realizados en seres humanos 
+son muy escasos, circunscribiéndose a los efectos producidos a corto plazo por la 
+exposición conjunta a ruido y ácido acetil salicílico69,70.
+La mayor parte de las investigaciones se han llevado a cabo mediante ex­
+perimentos realizados en animales, en los que la calidad de la evidencia de estos 
+estudios es mayor, y han abarcado un mayor número de agentes farmacológicos. 
+En este sentido, la evidencia sobre la peligrosidad para la audición del ser humano 
+derivada de la acción conjunta del ruido con los agentes farmacológicos muestra 
+que esta es posible con antibióticos de la familia de los aminoglucósidos, concre­
+tamente con gentamicina73-77, kanamicina78-80 y neomicina81-90, así como con un 
+citostático: cisplatino92-94. 
+Los resultados muestran que la secuencia de administración de ambos agen­
+tes puede influir en el resultado, de tal forma que la exposición previa a ruido pue­
+de facilitar el efecto conjunto derivado de una eventual exposición a estos agentes 
+farmacológicos. 
+
+28	
+ SANIDAD
+A la vista de todo ello, se sugiere que la vigilancia de la salud específica de 
+las personas trabajadoras expuestas a ruido incluya el conocimiento de la expo-
+sición a gentamicina, kanamicina, neomicina o cisplatino (recomendación débil).
+Se sugiere que en los casos en que una persona expuesta a ruido precise ser 
+tratada farmacológicamente con gentamicina, kanamicina, neomicina o cisplatino, 
+se fortalezcan las medidas de prevención previamente establecidas y se propongan 
+medidas preventivas tendentes a evitar la exposición conjunta a ambos agentes 
+(recomendación débil). Asimismo, se sugiere que se lleve a cabo un seguimiento 
+más estrecho de los efectos auditivos que en el caso de la exposición aislada a 
+ruido (recomendación débil). 
+2.2.4. Exposición conjunta a ruido y agentes físicos*
+No se demuestra la existencia de un mayor riesgo de pérdida de audición por la ex-
+posición conjunta de las personas trabajadoras expuestas a ruido y vibraciones95, 
+pero existe un mayor riesgo de pérdida de audición para aquellas que utilizan he-
+rramientas vibratorias portátiles en un entorno ruidoso y que padecen dedo blanco 
+por vibraciones en comparación con las personas trabajadoras sin dedo blanco por 
+vibraciones96,97. La gravedad del síndrome de dedo blanco no se asoció a un mayor 
+riesgo de pérdida auditiva96.
+A la vista de todo ello, se considera oportuno que la vigilancia de la salud 
+específica de las personas trabajadoras expuestas a ruido incluya el conocimiento 
+de la exposición a vibraciones mano-brazo (recomendación de buena práctica). 
+Asimismo, se considera oportuno que en los casos en que exista una exposición 
+conjunta a ruido y vibraciones mano-brazo se establezca un seguimiento más es-
+trecho de las personas que padezcan dedo blanco por vibraciones (recomendación 
+de buena práctica), y que cuando se observe una persona que sufra de dedo blanco 
+por vibraciones y se muestren efectos sobre su audición se recomienden medidas 
+preventivas tendentes a evitar la exposición conjunta a ambos agentes (recomen­
+dación de buena práctica).
+2.2.5.  Vigilancia colectiva de la salud en relación a la exposición 
+conjunta a ruido y a agentes químicos, farmacológicos, 
+consumo de tabaco o agentes físicos*
+A la vista de lo recogido hasta ahora, se considera oportuno que la vigilancia colec-
+tiva de la salud de las personas trabajadoras que sufran una exposición conjunta a 
+ruido y a agentes químicos, farmacológicos, consumo de tabaco o agentes físicos se 
+concrete en la realización o colaboración en estudios epidemiológicos que permitan 
+avanzar en el conocimiento de la relación entre exposición a ruido y estos agentes en 
+el trabajo para producir pérdida auditiva (recomendación de buena práctica).
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+29
+2.3. Exposición a ruido y efectos cardiovasculares*
+Los resultados de los estudios realizados para valorar los efectos cardiovasculares 
+derivados de la exposición al ruido indican que las personas trabajadoras expues-
+tas muestran un ligero mayor riesgo de padecer hipertensión que los no expuestos: 
+HR 1,68 IC95% de 1,10 a 2,29106 o RR en 4000 Hz: 1,34 IC95% de 1,01 a 1,77104, 
+según los autores.
+También se muestra un ligero mayor riesgo de padecer enfermedad cardio-
+vascular (HR 1,34 IC95% de 1,15 a 1,56)106 y de mortalidad por enfermedad 
+cardiovascular (HR 1,12 IC95% de 1,02 a 1,24)106.
+Sin embargo, estos resultados deben interpretarse con cautela, ya que se ge-
+neran partiendo de una muy baja confianza en el nivel de evidencia. Los es-
+tudios son muy heterogéneos entre sí, muestran un bajo control de factores de 
+confusión y presentan sesgos. 
+En este campo, se ha trabajado principalmente para probar hipótesis de aso-
+ciación entre las variables exposición y efecto, pero los estudios realizados no 
+evalúan la eficacia de intervenciones que disminuyan la exposición al ruido. 
+Por todo ello, se considera oportuno que los programas de prevención de los 
+efectos del ruido sobre la salud de las personas trabajadoras incluyan entre sus ob-
+jetivos el conocimiento de la incidencia y prevalencia de la hipertensión arterial, 
+de las enfermedades cardiovasculares y de sus consecuencias (recomendación de 
+buena práctica). Del mismo modo, se considera oportuno que se realicen estudios 
+de intervención que valoren si la disminución de la exposición a ruido mejora la 
+hipertensión arterial (recomendación de buena práctica).
+2.4.  Exposición a ruido y efectos sobre el embarazo 
+y el feto*
+La evidencia muestra, con una confianza muy baja en el nivel de evidencia, que 
+puede existir una asociación entre la exposición al ruido y el bajo peso para la edad 
+gestacional116. Los estudios analizados no establecen en qué momento del emba-
+razo puede producirse este efecto. Teniendo en cuenta lo antedicho, se sugiere que 
+cuando una mujer embarazada expuesta a ruido en el trabajo presente en cualquier 
+momento un feto con bajo peso para la edad gestacional se evite su exposición al 
+ruido (recomendación de buena práctica). 
+No se han encontrado evidencias que avalen suficientemente otros efectos 
+del ruido sobre el embarazo116. 
+La evidencia sobre la asociación de la exposición al ruido con la aparición 
+de disfunciones auditivas en el niño que va a nacer no es concluyente116,141 y la 
+confianza en la evidencia disponible es muy baja. Sin embargo, dado que el bien 
+a proteger es la salud del niño, se considera oportuno evitar la exposición de la 
+
+30	
+ SANIDAD
+mujer embarazada al ruido laboral a partir de la semana 20 de embarazo152, con 
+la finalidad de prevenir posibles efectos en la audición del niño que va a nacer 
+(recomendación de buena práctica).
+III. Evaluación del riesgo
+Se realizará en base a lo preceptuado por el artículo 6 del Real Decreto 286/2006, de 10 
+de marzo, sobre la “protección de la salud y la seguridad de los trabajadores contra los 
+riesgos relacionados con la exposición al ruido”, siguiendo lo estipulado por la “Guía 
+Técnica del Instituto Nacional de Seguridad e Higiene en el Trabajo para la evaluación 
+y prevención de los riesgos relacionados con la exposición de los trabajadores al ruido”2.
+IV. Protocolo sanitario específico
+El Protocolo sanitario específico de Vigilancia de la Salud está dirigido a los pro-
+fesionales sanitarios encargados de la vigilancia de la salud de las personas traba-
+jadoras que se encuentran expuestas al ruido.
+Su finalidad es la de detectar precozmente la pérdida auditiva producida por 
+el ruido y por las interacciones de este con otros agentes físicos, químicos o farma­
+cológicos. Proporciona también pautas de actuación para prevenir posibles efectos 
+del ruido durante el embarazo, así como posibles efectos de tipo cardiovascular.
+Consta de 2 partes:
+— Vigilancia individual de la salud
+— Vigilancia colectiva de la salud
+4.1. Vigilancia individual de la salud
+4.1.1. Contenido
+Se comprobará que la Historia Clínico-Laboral de cada trabajador o trabajadora 
+recoja el contenido establecido en el artículo 37.3.c. del Real Decreto 39/1997, por 
+el que se aprueba el Reglamento de los Servicios de Prevención.
+— Historia laboral145,146:
+ 
+Se debe de interrogar y consignar acerca de:
+ 
+• Nivel y tiempo de exposición actual y pasado
+ 
+• Medidas de prevención adoptadas
+ 
+   – Medidas técnicas, organizativas, protección auditiva individual, etc. 
+ 
+   – Utilización real de la protección auditiva individual en el trabajo.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+31
+	
+Se dejará constancia de los resultados de las mediciones de ruido y agen­
+tes químicos presentes en el lugar de trabajo, haciendo constar fecha de 
+la medición y resultados obtenidos.
+—	Historia clínica5,6,10,145,146
+	
+• Antecedentes personales: 
+	
+   – Antecedentes de enfermedades relacionadas con el oído u otras que 
+pudiesen tener relación con la pérdida auditiva
+	
+   – Antecedentes de exposición deportiva, accidental, traumática, de ocio…
+	
+• Antecedentes familiares: 
+	
+   – Familiares con problemas de sordera u otras afecciones otorrinolarin­
+gológicas
+	
+• Historia actual 
+	
+   – Estado auditivo actual, presencia de signos y síntomas relacionados 
+con el oído
+	
+   – Datos referentes a la toma de fármacos ototóxicos*.
+	
+   – Exposición a ruido y a sustancias ototóxicas en el ambiente extrala­
+boral*
+	
+   – En el caso de que sea mujer, se deberá conocer si se halla en estado 
+de gestación* y, si es así, tiempo de la misma.
+	
+   – Consumo de tabaco*. Indicando la cantidad en caso afirmativo
+La recogida de datos podrá realizarse utilizando cuestionarios (ver anexo I).
+—	Exploración médica
+	
+• Otoscopia 
+	
+• Audiometría liminar tonal por vía aérea* que se realizará en cabina de 
+audiometría (ver anexo II).
+4.1.2. Periodicidad
+— Examen de salud inicial
+Se realizará después de la incorporación al trabajo o después de la 
+asignación de tareas específicas con riesgo derivado de la exposición 
+a ruido. 
+La audiometría se efectuará tras permanecer al menos 12 horas 
+en reposo auditivo. Se entiende este reposo como un periodo libre de 
+exposición a ruido y no podrá sustituirse por el uso de protección au-
+ditiva147.
+Esta audiometría se constituirá como audiometría de referencia 
+para estudiar la efectividad del programa de prevención a nivel indivi-
+dual y corresponde al nivel auditivo de la persona trabajadora antes de 
+la exposición al ruido en la empresa. Esta audiometría de referencia será 
+sustituida por la audiometría de confirmación en el momento en que se 
+produzca un cambio de umbral significativo147.
+
+32	
+ SANIDAD
+— Exámenes periódicos de salud: Periodicidad
+ 
+•  Puestos de trabajo en los que se sobrepasen los valores superiores de 
+exposición que dan lugar a una acción: como mínimo, cada tres años.
+ 
+•  Puestos de trabajo en los que se sobrepasen los valores inferiores de 
+exposición que dan lugar a una acción: como mínimo, cada cinco años. 
+La periodicidad podrá modificarse y se podrán realizar exámenes de 
+salud o pruebas complementarias con mayor frecuencia cuando el médico 
+del servicio de prevención lo considere conveniente y esté justificado por 
+las circunstancias concretas de exposición o de salud de cada persona tra-
+bajadora. 
+Si es posible, estos deben programarse durante el turno de trabajo para 
+que se puedan observar cambios temporales en la audición debido a contro-
+les de ruido insuficientes o uso inadecuado de la protección auditiva. Los 
+resultados se deben comparar de inmediato con los niveles de audición ba-
+sales146.
+—  Examen de salud tras una ausencia prolongada por motivos 
+de salud:
+ 
+•  Audiometría periódica: Tiene la finalidad de descubrir los eventuales 
+orígenes profesionales de la ausencia y recomendar una acción apropia-
+da para proteger a las personas trabajadoras.
+4.2. Vigilancia colectiva de la salud148
+La vigilancia colectiva o epidemiológica tiene como finalidad analizar las relacio-
+nes existentes entre el estado de salud del conjunto de trabajadores y sus condi-
+ciones de trabajo.
+La vigilancia colectiva tiene como objetivo la intervención en la empresa, 
+no la mera observación, y para ello aportará información que servirá para com-
+plementar la evaluación higiénica y para la toma de decisiones sobre medidas de 
+control y prevención de situaciones de riesgo, y se integrará en la gestión de la 
+prevención de riesgos laborales.
+Dependiendo del objetivo que se persiga, el nivel de análisis de la vigilancia 
+colectiva o vigilancia epidemiológica puede ser una única empresa o puede ser 
+una agrupación de diferentes empresas con riesgos similares; en este caso se estu­
+diaría el colectivo expuesto al ruido en el trabajo.
+La utilización de indicadores facilitará el análisis e interpretación de la evo­
+lución epidemiológica de los colectivos laborales vigilados (comparación entre 
+grupos con diferente exposición, comparación entre diferentes periodos, compro­
+bación de la efectividad de las diferentes medidas preventivas aplicadas, etc.).
+Con independencia del nivel de análisis que se realice, siempre se deberá 
+tener en cuenta la perspectiva de género, de forma que se puedan poner de mani­
+fiesto patrones diferenciales entre hombres y mujeres149.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+33
+Dependiendo del objetivo que se persiga, el análisis de la vigilancia colec­
+tiva puede centrarse en conocer el estado de salud del conjunto de trabajadores y 
+trabajadoras pero también pueden ser objeto de la vigilancia colectiva las condi­
+ciones de trabajo de la población trabajadora.
+Los objetivos de la vigilancia colectiva son:
+•	 Conocer la frecuencia y la distribución de los efectos para la salud de la 
+exposición al ruido en una población determinada, tales como la pérdida 
+de audición, los efectos del ruido sobre el embarazo o los efectos cardio­
+vasculares que se puedan derivar de esta exposición. 
+•	 Conocer la frecuencia y la distribución de las condiciones de la exposi­
+ción al ruido en una población determinada.
+•	 Conocer la tendencia que siguen en el tiempo los efectos para la salud y 
+las condiciones de la exposición al ruido.
+•	 Detectar situaciones de agregados inesperados de casos.
+•	 Aportar información para proponer actividades preventivas colectivas 
+que reduzcan o minimicen los riesgos y eviten la aparición de daños en la 
+salud.
+•	 Evaluar la efectividad de las medidas preventivas colectivas e individua­
+les puestas en marcha en dicha población
+Se puede realizar o colaborar en estudios epidemiológicos analíticos que 
+permitan avanzar en el conocimiento de:
+•	 La relación entre exposición a ruido y agentes químicos, físicos, farma­
+cológicos o el consumo de tabaco para producir pérdida auditiva. 
+•	 La relación entre exposición a ruido y efectos cardiovasculares derivados 
+de esa exposición.
+•	 La relación entre la exposición a ruido y efectos sobre el embarazo o la 
+audición del niño que va a nacer.
+V. Criterios de actuación
+5.1. Criterios de valoración de la audiometría individual147
+Están basados en los cambios que se observan en el umbral auditivo de la audio­
+metría periódica en relación a la de referencia. Para su valoración se adopta la 
+metodología NIOSH 15 dB Twice.
+Con finalidad preventiva, se define una CAÍDA SIGNIFICATIVA DE UM­
+BRAL (CSU) cuando la audiometría detecta un cambio en los niveles umbrales 
+de audición en cualquiera de los oídos igual o mayor a 15 dB en cualquiera de 
+las frecuencias comprendidas entre 500 y 6000 Hz. En este caso, siempre que sea 
+posible, se realizará una nueva audiometría el mismo día para valorar si la CSU 
+persiste en las mismas frecuencias y en el mismo oído.
+
+34	
+ SANIDAD
+Valoración de los resultados de la segunda audiometría:
+•	 En caso afirmativo, se realizará una audiometría de confirmación en el 
+plazo de 30 días, previo a la cual se habrá mantenido un reposo auditivo 
+de 12 horas. Se entiende este reposo como un periodo libre de exposición 
+a ruido y no podrá sustituirse por el uso de protección auditiva.
+•	 En caso negativo, se considera que no hay una CSU permanente y no será 
+preciso realizar dicha audiometría, aunque es necesario valorar si estos 
+cambios se han producido debido a controles insuficientes de ruido o por 
+un uso inadecuado de la protección auditiva.
+Audiometría de confirmación:
+•	 Una CSU que no se mantiene en la audiometría de confirmación puede 
+apuntar a la existencia de un descenso transitorio de la capacidad auditiva 
+causada por exposición a ruido el día en que se realizó la audiometría 
+periódica. 
+•	 Nuevamente, es necesario valorar si estos cambios se produjeron debido 
+a controles insuficientes de ruido o por un uso inadecuado de la protec­
+ción auditiva. Esta evaluación es importante, ya que el abordaje de su 
+causa puede evitar la progresión hacia una caída permanente del umbral 
+auditivo.
+•	 La persistencia de la CSU en la audiometría de confirmación muestra la 
+existencia de una caída permanente del umbral auditivo. En este caso, 
+también es necesario evaluar las causas de su aparición, y proponer me­
+didas de prevención y protección de la audición para evitar la progresión 
+a una hipoacusia por ruido. 
+•	 Indicar que, caso de confirmarse una CSU, esta audiometría pasará, en 
+adelante, a ser la audiometría de referencia
+5.2.  Criterios para la comunicación de las 
+conclusiones que se deriven de la vigilancia 
+de la salud de las personas trabajadoras
+•  Informe de recomendaciones preventivas
+ 
+Las conclusiones de la vigilancia de la salud, desde una perspectiva de
+ 
+ 
+prevención de riesgos laborales, deben de ir encaminadas a permitir 
+que el empresario o la empresaria y las personas u órganos con respon-
+sabilidades en materia de prevención puedan desarrollar correctamen-
+te sus funciones en materia preventiva. Por lo tanto, la comunicación 
+de resultados en forma de recomendaciones preventivas derivadas de 
+los hallazgos de la vigilancia de la salud es la forma preferente de ha-
+cerlo150. 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+35
+•	 Criterios de valoración de la aptitud para el trabajo
+	
+El o la médico del trabajo también puede informar al empresario o a la 
+empresaria y a las personas u órganos con responsabilidades en materia 
+de prevención mediante un informe de aptitud, cuando sea necesario150. 
+	
+En este sentido, se propone una clasificación de los hallazgos del examen 
+de salud por grupos para facilitar el proceso de emisión de conclusiones 
+sobre la aptitud.
+GRUPO 1
+RESULTADO DE LA VIGILANCIA DE LA SALUD:
+No pérdida auditiva
+APTITUD: 
+APTO / APTA
+ACTUACIÓN:
+La persona trabajadora podrá desempeñar su tarea habitual sin restricción por motivo de salud.
+GRUPO 2
+RESULTADO DE LA VIGILANCIA DE LA SALUD:
+Existe alguna de las siguientes condiciones:
+-	 Caída significativa de umbral (CSU)
+-	 Presencia de pérdida auditiva*
+-	 Toma de fármacos que puedan interactuar con la exposición al ruido*
+-	 Dedo blanco por vibraciones*
+-	 Antecedentes de enfermedades o alteraciones que puedan predisponer para una pérdida auditiva 
+-	 Embarazo*
+APTITUD:  
+APTO / APTA, persona trabajadora especialmente sensible para exposición a ruido
+ACTUACIÓN:
+-	 Se deben reducir los niveles de exposición a ruido mediante medidas técnicas, organizativas, etc. y de no 
+lograrse una reducción suficiente con estos medios, utilizar protectores auditivos individuales adecuados.
+-	 Cuando las medidas anteriores no sean posibles o cuando con ellas no se logre una reducción de 
+los niveles de exposición o se objetive un empeoramiento de la audición en controles de audición, 
+que se realizarán con la frecuencia que se considere adecuada, se podrá recomendar un cambio 
+de puesto de trabajo.
+-	 Se podrán realizar exámenes de salud o pruebas complementarias con una periodicidad mayor a la 
+que se establece de forma general en función de las circunstancias concretas de exposición o de 
+salud de cada persona trabajadora.
+
+36	
+ SANIDAD
+GRUPO 3
+RESULTADO DE LA VIGILANCIA DE LA SALUD:
+Existe alguna de las siguientes condiciones:
+-	 Déficit incompatible con trabajos de muy altos requerimientos auditivos 
+-	 Derivado de la pérdida auditiva se puede poner en grave riesgo la integridad física o la vida de la 
+persona trabajadora o la de terceros
+APTITUD: 
+NO APTO / APTA PARA EL PUESTO DE TRABAJO
+ACTUACIÓN: 
+-	 Cambio de puesto de trabajo.
+-	 En el caso de que no exista en la empresa un puesto compatible podrá orientarse de forma justifi­
+cada  hacia trámite de Incapacidad Permanente.
+—	Informe de recomendaciones preventivas para la persona trabajado­
+ra
+	
+• El personal sanitario responsable de la vigilancia de la salud informará 
+al trabajador o a la trabajadora sobre su exposición al ruido, las medidas 
+de prevención que se le recomiendan y la importancia de su correcta 
+utilización.
+	
+• Caso de que se esté produciendo la toma de fármacos que pudieran 
+presentar una interacción con el ruido*, se reforzará la recomendación 
+sobre la necesidad del uso de las medidas de protección y de su correcta 
+utilización.
+	
+• Caso de confirmarse la existencia de consumo de tabaco, se propor­
+cionará consejo antitabáquico* y se recomendará la abstinencia de su 
+consumo.
+5.3. Conducta a seguir en caso de que exista una 
+exposición conjunta a ruido y a agentes químicos 
+que puedan interactuar para producir pérdida 
+auditiva*
+Una vez evaluados los riesgos químicos, y si así se precisa, se añadirán reco­
+mendaciones de medidas para la prevención de riesgos por agentes químicos, que 
+pueden resumirse en:
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+37
+• Medidas 
+ 
+para la eliminación o reducción al mínimo del riesgo, evitando 
+el uso del agente o agentes químicos, sustituyéndolos por otros o por 
+procesos químicos que no sean peligrosos o lo sean en menor grado
+• Si la naturale
+ 
+za de la actividad no permite la eliminación del riesgo por 
+sustitución se reducirá la exposición al mínimo aplicando medidas de 
+prevención y protección coherentes con la evaluación de riesgos.
+5.4.  Conducta a seguir en el caso de que una mujer 
+embarazada esté expuesta a ruido* 151
+Al área sanitaria de los servicios de prevención no le corresponde el seguimiento 
+del embarazo, si bien es necesaria una colaboración con quienes lo llevan a cabo. 
+El objetivo es el de garantizar en todo momento que las condiciones de trabajo se 
+ajustan al estado específico de la trabajadora, ya que pueden aparecer situaciones 
+que hagan necesaria una adecuación del puesto durante este periodo.
+Los derechos de información y formación en relación con la protección de la 
+maternidad implican que previamente el empresario o empresaria hayan informa-
+do a las personas trabajadoras sobre su exposición al ruido y los posibles efectos 
+del mismo sobre el embarazo. En el caso de las trabajadoras, esa información 
+debería ser recordada y actualizada durante la vigilancia médica periódica.
+—  Son varios los momentos en los que se debería proponer a la trabajadora 
+la visita médica al servicio de prevención:
+ 
+•  en el momento de la comunicación del embarazo
+ 
+•  a demanda de la trabajadora durante el embarazo
+ 
+•  por aparición de síntomas o de alteraciones detectadas durante las visi-
+tas del médico que la atiende, con especial atención al retraso del creci­
+miento fetal.
+—	Cuando una trabajadora comunique su condición, el personal sanitario 
+responsable de la vigilancia de la salud informará al empresario o a la 
+empresaria y a las personas u órganos con responsabilidades en materia 
+de prevención sobre la necesidad de valorar las medidas previstas para 
+eliminar o reducir el riesgo, a fin de que puedan desarrollar correctamente 
+sus funciones en materia preventiva. 
+—	Si tras la valoración, el riesgo no puede eliminarse o reducirse de forma 
+suficiente, se propondrá la adaptación del puesto o del horario de trabajo.
+—	En el caso de que la adaptación de las condiciones o del tiempo de trabajo 
+no sea posible o si, a pesar de las modificaciones, se mantiene el riesgo, 
+se procederá a recomendar el cambio de puesto de trabajo a otro exento 
+del mismo hasta que desaparezca la causa que lo motivó, pudiendo ser 
+
+38	
+ SANIDAD
+destinada a un puesto no correspondiente a su grupo o categoría equiva-
+lente.
+—  Si dicho cambio de puesto no resultara técnica u objetivamente posible, 
+o no pueda razonablemente exigirse por motivos justificados, podrá pro-
+ponerse el paso de la trabajadora afectada a la situación de suspensión 
+del contrato por riesgo durante el embarazo, contemplada en el artícu-
+lo 45.1.d) del Estatuto de los Trabajadores, durante el período necesario 
+para la protección de su seguridad o de su salud y mientras persista la 
+imposibilidad de reincorporarse a su puesto anterior o a otro puesto com-
+patible con su estado. Para ello, es importante tener en cuenta las condi-
+ciones y plazos que la Seguridad Social establece al respecto152.
+5.5.  Conducta a seguir en el caso de que el médico 
+o médica del trabajo sospeche encontrarse ante 
+un caso de hipoacusia por ruido
+•  Una audiometría se valora como normal cuando el umbral de audición no 
+sea superior a 25 dB en ninguna frecuencia. Si es superior y muestra ca-
+racterísticas de hipoacusia por ruido (ver apartado 2.1.6) se valorará si la 
+alteración se debe a la exposición a elevados niveles de ruido a partir de 
+los datos de las evaluaciones de riesgo, y de las historias clínica y laboral. 
+ 
+ En caso de que el profesional médico sospeche encontrarse ante una en-
+fermedad profesional procederá a comunicarla tal y como establece el 
+Art. 5 del RD 1299/2006, de 10 de noviembre, por el que se aprueba 
+el cuadro de enfermedades profesionales en el sistema de la Seguridad 
+Social y se establecen criterios para su notificación y registro, al órgano 
+competente en cada Comunidad Autónoma.
+•	 Comunicará a la empresa la tramitación de un caso de sospecha de enfer­
+medad profesional y le informará de la necesidad de que el trabajador sea 
+remitido a la entidad colaboradora de la Seguridad Social para confirma­
+ción diagnóstica.
+•	 Informará al trabajador de los trámites realizados ante la empresa.
+5.6. Documentación
+Cuando un trabajador o una trabajadora se desvinculen de la empresa, por cese de 
+relación contractual con la misma o por jubilación, se le debe proporcionar, junto 
+con el resto de la información correspondiente a su historia clínico-laboral, infor-
+mación sobre su estado auditivo hasta ese momento.
+
+Bibliografía
+1	
+Uña MA, García E, Betegón A. Protocolo de vigilancia de la salud específica: Ruido. Madrid: 
+Ministerio de Sanidad y Consumo; 2001. [Fecha última consulta 11/01/2018]. Disponible en: 
+http://www.msc.es/ciudadanos/saludAmbLaboral/docs/ruido.pdf
+2	
+Guía Técnica para la evaluación y prevención de los riesgos relacionados con la exposición de 
+los trabajadores al ruido. Instituto Nacional de Seguridad e Higiene en el Trabajo. Madrid;2006 
+[Fecha última consulta 22/12/2017]. Disponible en: http://www.insht.es/InshtWeb/Contenidos/
+Normativa/GuiasTecnicas/Ficheros/gu%C3%ADa_t%C3%A9cnica_ruido.pdf
+3	
+Grupo de trabajo para la actualización del Manual de Elaboración de GPC. Elaboración de 
+Guías de Práctica Clínica en el Sistema Nacional de Salud. Actualización del Manual Meto­
+dológico [Internet]. Madrid: Ministerio de Sanidad, Servicios Sociales e Igualdad; Zaragoza: 
+Instituto Aragonés de Ciencias de la Salud (IACS); 2016 [Fecha última consulta 22/12/2017]. 
+Disponible en: http://portal.guiasalud.es/emanuales/elaboracion_2/Capitulos/completo.pdf
+4	
+NTP (National Toxicology Program). Handbook for Conducting a Literature-Based Health 
+Assessment Using OHAT Approach for Systematic Review and Evidence Integration. Office 
+of Health Assessment and Translation (OHAT). Division of the National Toxicology Program 
+National. Institute of Environmental Health Sciences;2015 [Fecha última consulta 22/12/2017]. 
+Disponible en: https://ntp.niehs.nih.gov/ntp/ohat/pubs/handbookjan2015_508.pdf
+5	
+Rosell JA. Deterioro auditivo inducido por el ruido. Seminario médico. 1996;48 (1): 89-116.
+6	
+Salatoff RT, Salatoff J. Occupational Hearing Loss. Boca Raton (Fl): 2006. CRC-Taylor and Francis. 
+7	
+Clemente C. Enfermedades profesionales del oído. Medicina y Seguridad del Trabajo. 
+1991;152:13-24.
+8	
+Gil-Loyzaga, Poch J. Fisiología del sistema auditivo periférico. En: Suárez Nieto C, Gil-Car­
+cedo LM, et al., eds. Tomo 2. Otología. Tratado de otorrinolaringología y cirugía de cabeza y 
+cuello. Buenos Aires; Madrid: 2008. Médica Panamericana. p. 953-968.
+9	
+Gaynés E, Goñi A. Hipoacusia laboral por exposición a ruido: Evaluación clínica y diagnóstico. 
+NTP 287. Madrid: Instituto Nacional de Seguridad e Higiene en el Trabajo (INSHT);1992. 
+[Fecha última consulta 22/12/2017]. Disponible en: http://www.insht.es/InshtWeb/Contenidos/
+Documentacion/FichasTecnicas/NTP/Ficheros/201a300/ntp_287.pdf
+10	
+Gil-Carcedo LM, Vallejo LA, Gil-Carcedo E, Acuña. Daño coclear por sobreestimulación acús­
+tica. Traumatismo acústico agudo y crónico. Enfermedades producidas por el ruido En: Suárez 
+Nieto C, Gil-Carcedo LM, et al., eds. Tomo 2. Otología. Tratado de otorrinolaringología y ciru­
+gía de cabeza y cuello. Buenos Aires; Madrid: 2008. Médica Panamericana. p. 1603-1624.
+11	
+Kirchner B, Evenson E, Dobie RA, Rabinowitz P, Crawford J, Kopke R et al. ACOEM Task 
+Force on Occupational Hearing Loss. ACOEM Guidance Statement. Occupational Noise-Indu­
+ced Hearing Loss. JOEM. 2012:54(1):106-108.
+12	
+Campo P, Venet T, Thomas A, Cour C, Brochard C, Cosnier F. Neuropharmacological and 
+cochleotoxic effects of styrene. Consequences on noise exposures. Neurotoxicol Tera­
+tol.2014;44:113-120.
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+39
+
+40	
+ SANIDAD
+13	
+Chen GD, Henderson D. Cochlear injuries induced by the combined exposure to noise and 
+styrene. Hearing Research.2009;254:25-33.
+14	
+Fechter LD. Effects of acute styrene and simultaneous noise exposure on auditory function in 
+the guinea pig. Neurotoxicol Teratol.1993;15(3):151-155.
+15	
+Morata TC, Sliwinska-Kowalska M, Johnson AC, Starck J, Pawlas K, Zamyslowska-Szmytke 
+E et al. A multicenter study on the audiometric findings of styrene-exposed workers. Int J Au­
+diol.2011;50:652-660.
+16	
+Lataye R, et al. Combined effects of noise and styrene exposure on hearing function in the rat. 
+Hear Res.2000;139(1-2):86-96.
+17	
+Lataye, R, et al. Combined effects of noise and styrene on hearing: comparison between active 
+and sedentary rats. Noise Health.2005;7(27):49-64.
+18	
+Makitie AA, et al. The ototoxic interaction of styrene and noise. Hear Res.2003;179(1-2):9-
+20.
+19	
+Sliwinska-Kowalska M, et al. [Hearing impairment in the plastics industry workers exposed to 
+styrene and noise]. Med Pr.2001;52(5),297-303.
+20	
+Sliwinska-Kowalska M, et al. Ototoxic effects of occupational exposure to styrene and co-ex­
+posure to styrene and noise. J Occup Environ Med.2003;45(1):15-24.
+21	
+Sliwinska-Kowalska M, et al. Exacerbation of noise-induced hearing loss by co-exposure to 
+workplace chemicals. Environ Toxicol Pharmacol.2005;19:547-553.
+22	
+Brandt-Lassen R, Lund SP, et al. Rats exposed to Toluene and Noise may develop Loss of Au­
+ditory Sensitivity due to Synergistic Interaction. Noise Health.2000;3(9):33-44.
+23	
+Campo P, et al. No interaction between noise and toluene on cochlea in the guinea pig. Acta 
+Acustica.1993;1:35-42.
+24	
+Chang SJ., Chen CJ, et al. Hearing loss in workers exposed to toluene and noise. Environ Health 
+Perspect.2006;114(8):1283-6.
+25	
+Davis RR, et al. Susceptibility to the ototoxic properties of toluene is species specific. Hear 
+Res.2002;166(1-2):24-32.
+26	
+Johnson AC, et al. Effect of interaction between noise and toluene on auditory function in the 
+rat. Acta Otolaryngol.1988;105(1-2):56-63.
+27	
+Johnson AC, et al. Sequence of exposure to noise and toluene can determine loss of auditory 
+sensitivity in the rat. Acta Otolaryngol.1990;109(1-2):34-40.
+28	
+Lataye R, et al. Combined effects of a simultaneous exposure to noise and toluene on hearing 
+function. Neurotoxicol Teratol.1997;19(5):373-82.
+29	
+Lund SP, et al. Hazards to hearing from combined exposure to toluene and noise in rats. Int J 
+Occup Med Environ Health.2008;21(1):47-57.
+30	
+Morata TC, et al. Effects of occupational exposure to organic solvents and noise on hearing. 
+Scand J Work Environ Health.1993;19(4):245-54.
+31	
+Schaper M, et al. Occupational toluene exposure and auditory function: results from a follow-up 
+study. Ann Occup Hyg.2003;47(6):493-502. 
+32	
+Schaper M, Seeber A, et al. The effects of toluene plus noise on hearing thresholds: an evalua­
+tion based on repeated measurements in the German printing industry. Int J Occup Med Environ 
+Health.2008;21(3):191-200.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+41
+33	
+Chang, SJ et al. Hearing loss in workers exposed to carbon disulfide and noise. Environ Health 
+Perspect. 2003;111(13):1620-1624.
+34	
+Muijser H et al.Effects of exposure to trichloroethylene and noise on hearing in rats. Noise 
+HealtH. 2000; 2(6):57-66.
+35	
+Cappaert NLM, Klis SFL, Muijser H, Kulig BM, Smoorenburg GF. Simultaneous ex­
+posure to ethyl benzene and noise: synergistic effects on outer hair cells. Hearing Re­
+search.2001;162(1-2):67-79.
+36	
+Chen GD, et al. Potentiation of octave-band noise induced auditory impairment by carbon mo­
+noxide. Hear Res.1999;132(1-2):149-59.
+37	
+Chen GD, et al. Intermittent noise-induced hearing loss and the influence of carbon monoxide. 
+Hear Res.1999;138(1-2):181-91.
+38	
+Chen GD, et al. Succinate dehydrogenase (SDH) activity in hair cells: a correlate for perma­
+nent threshold elevations. Hear Res.2000;145(1-2):91-100.
+39	
+Chen GD, et al. NMDA receptor blockage protects against permanent noise-induced hearing 
+loss but not its potentiation by carbon monoxide. Hear Res.2001;154(1-2):108-15.
+40	
+Fechter LD, et al. (1988) Potentiation of noise induced threshold shifts and hair cell loss by 
+carbon monoxide. Hear Res.1988;34(1):39-47.
+41	
+Fechter LD. A mechanistic basis for interactions between noise and chemical exposure. Arch 
+Complex Environ Studies.1989;1(1):23-28.
+42	
+Fechter LD, et al. Characterising conditions that favour potentiation of noise induced hearing 
+loss by chemical asphyxiants. Noise Health.2000;3(9):11-21.
+43	
+Fechter LD, et al. Predicting exposure conditions that facilitate the potentiation of noise-indu­
+ced hearing loss by carbon monoxide. Toxicol Sci.2000;58(2):315-23.
+44	
+Pouyatos B, et al. Lipoic acid and 6-formylpterin reduce potentiation of noise-induced hearing 
+loss by carbon monoxide: Preliminary investigation. J Rehabil Res Dev.2008;45(7),1053-
+1064.
+45	
+Rao DB, et al. Increased noise severity limits potentiation of noise induced hearing loss by 
+carbon monoxide. Hear Res.2000;150(1-2):206-14.
+46	
+Rao D, et al. Protective effects of phenyl-N-tert-butylnitrone on the potentiation of noise-indu­
+ced hearing loss by carbon monoxide. Toxicol Appl Pharmacol.2000;167(2):125-31.
+47	
+Young JS, et al. Carbon monoxide exposure potentiates high-frequency auditory threshold 
+shifts induced by noise. Hear Res.1987;26(1):37-43.
+48	
+Fetcher LD, Chen GD, Johnson DL. Potentiation of noise induced hearing loss by low concentra­
+tions of hydrogen cyanide in rats. Toxicol Sci.2002 Mar;66(1):1-3.
+49	
+Fechter LD, et al. Acrylonitrile produces transient cochlear function loss and potentiates perma­
+nent noise induced hearing loss. Toxicol Sci.2003;75(1):117-23.
+50	
+Fechter LD, et al. Acrylonitrile potentiates noise-induced hearing loss in rat. J Assoc Res Oto­
+laryngol.2004;5(1):90-8.
+51	
+Pouyatos B, et al. Acrylonitrile potentiates hearing loss and cochlear damage induced by mode­
+rate noise exposure in rats. Toxicol Appl Pharmacol.2005;204(1):46-56.
+52	
+Pouyatos, B, et al. Oxidative stress pathways in the potentiation of noise-induced hearing loss 
+by acrylonitrile. Hear Res.2007;24(1-2),1-74.
+
+42	
+ SANIDAD
+53	
+Muthaiah VPK, Chen GD, Ding D, Salvi R, Roth JA. Effect of manganese and manganese plus 
+noise on auditory function and cochlear structures. Neurotoxicology.2016;55:65-73.
+54	
+Hwang YH, Chiang HY, Yen-Jean MC, Wang JD. The association between low levels of 
+lead in blood and occupational noise-induced hearing loss in steel workers. Sci Total Envi­
+ron.2009;408:43-49.
+55	
+Wu TN, et al. Effects of lead and noise exposures on hearing ability. Arch Environ Heal­
+th.2000;55(2):109-14.
+56	
+Attarchi MS, Labbafinejad Y, Mohammadi S. Contemporary exposure to cigarette smoke and 
+noise of automobile manufacturing company workers. J Public Health.2010;18:245-249.
+57	
+Mehrparvar AH, Mollasadeghi A, Hashemi SH, Sakhvidi MJ, Mostaghaci M, Davari MH. Si­
+multaneous effects of noise exposure and smoking on OAEs. Noise Health.2015;17:233-236.
+58	
+Mizoue T, Miyamoto T, Shimizu T. Combined effect of smoking and occupational exposure to 
+noise on hearing loss in steel factory workers. Occup Environ Med.2003;60:56-59.
+59	
+Mohammadi S, Mazhari MM, Mehrparvar AH, Attarchi MS. Cigarette smoking and occupatio­
+nal noise-induced hearing loss. Eur. J. Public Health.2009;20(4):452-455.
+60	
+Mohammadi S, Mazhari MM, Mehrparvar AH, Attarchi MS. Effect of simultaneous expo­
+sure to occupational noise and cigarette smoke on binaural hearing impairment. Noise Heal­
+th.2010;12:187-190.
+61	
+Nomura K, Mutsuhiro N, Yano E. Hearing loss associated with smoking and occupatio­
+nal noise exposure in a Japanese metal working company. Int Arch Occup Environ Heal­
+th.2005;78:178-184.
+62	
+Palmer KT, Griffin MJ, Syddall HE, Coggon D. Cigarette smoking, occupational exposure to 
+noise, and self-reported hearing difficulties. Occup Environ Med.2004;61:340-344.
+63	
+Pouryaghoub G, Mehrdad R, Mohammadi S. Interaction of smoking and occupational noise 
+exposure on hearing loss: a cross-sectional study. BMC Public Health.2007;7:137.
+64	
+Sung JH, Sim CS, Lee CR, Yoo CI, Lee H, Kim Y, Lee J. Relationship of cigarette smoking and 
+hearing loss in workers exposed to occupational noise. Ann Occup Environ Med.2013;25:8.
+65	
+Tao L, Davis R, Heyer N, Yang Q, Qiu W, Zhu L, Li N, Zhang H, Zeng L, Zhao Y. Effect of 
+cigarette smoking on noise-induced hearing loss in workers exposed to occupational noise 
+in China. Noise Health.2013;15:67-72.
+66	
+Bancroft BR, Boettcher FA, Salvi RJ, Wu J. Effects of noise and salicylate on auditory 
+evoked-response thresholds in the chinchilla. Hear Res. 1991 Jul;54(1):20-8.
+67	
+Carson SS, Prazma J, Pulver SH, Anderson T. Combined effects of aspirin and noise in causing 
+permanent hearing loss. Arch Otolaryngol Head Neck Surg.1989;115(9):1070-5.
+68	
+Lambert PR, Palmer PE, Rubel EW. The interaction of noise and aspirin in the chick basilar 
+papilla. Noise and aspirin toxicity. Arch Otolaryngol Head Neck Surg.1986;112(10):1043-9.
+69	
+McFadden D, Plattsmier HS. Aspirin can potentiate the temporary hearing loss induced by 
+intense sounds. Hear Res.1983;9:295-316. 
+70	
+McFadden D, Plattsmier HS, Pasanen EG. Temporary hearing loss induced by combinations of 
+intense sounds and nonsteroidal anti-inflammatory drugs. Am J Otolaryngol. 1984; 5:235-241.
+71	
+Spongr VP, Boettcher FA, Saunders SS, Salvi RJ. Effects of noise and salicylate on hair cell loss 
+in the chinchilla cochlea. Arch Otolaryngol Head Neck Surg.1992;118:157-164.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+43
+72	
+Woodford CM, Henderson D, Hamernik RP. Effects of combinations of sodium salicylate and 
+noise on the auditory threshold. Ann Otol Rhinol Laryngol.1978;87(1 Pt 1):117-27.
+73	
+Alles RM, Pye A. Cochlear damage in guinea pigs following contralateral sound stimulation 
+with and without gentamicin. British Journal of Audiology.1993; 27(3):183-193.
+74	
+Collins PWP. Synergistic interactions of gentamicin and pure tones causing cochlear hair cell 
+loss in pigmented guinea pigs. Hearing Research. 1988;36:249-260.
+75	
+Dodson HC, Bannister LH, Douek EE. The Effects of Combined Gentamicin and White Noise 
+on the Spiral Organ of Young Guinea Pigs.Acta Oto-Laryngologica.1982;94:193-202.
+76	
+Li H, Wang Q, Steyger PS (2011) Acoustic Trauma Increases Cochlear and Hair Cell Uptake of 
+Gentamicin. PLoS ONE 6(4): e19130.
+77	
+Li H, Kachelmeier A, Furness DN, Steyger PS. Local mechanisms for loud sound-enhanced 
+aminoglycoside entry into outer hair cells. Front Cell Neurosci.2015; 9:130.
+78	
+Brown JJ, Brummett RE, Meikle MB, Vernon J. Combined effects of noise and neomycin. 
+Cochlear changes in the guinea pig. Acta Otolaryngol.1978;86(5-6):394-400.
+79	
+Jauhiainen T, Kohonen A, Jauhiainen M. Combined Effect of Noise and Neomycin on the Co­
+chlea. Acta Oto-Laryng.1972;73:387-390.
+80	
+Vernon J, Brown J, Meikle M, Brummett RE. The potentiation of noise-induced hearing loss by 
+neomycin. Otolaryngology.1978;86(1):ORL-123-4.
+81	
+Bone RC, Ryan AF. Audiometric and histologic correlates of the interaction between kanamycin 
+and subtraumatic levels of noise in the chinchilla. Otolaryngology.1978;86:ORL400-4.
+82	
+Brown JJ, Brummett RE, Fox KE, Bendrick TW. Combined effects of noise and kanamycin. 
+Arch Otolaryngol.1980;106(12):744-50. 
+83	
+Brummet RE, Fox KE, Kempton JB. Quantitative relationships of the interaction between 
+sound and kanamycin. Arch Otolaryngol Head Neck Surg.1992;118(5):498-500.
+84	
+Darrouzet J, Limasobrinhoe DE. The internal ear, kanamycin and acoustic trauma. Experimen­
+tal study. Rev Bras Cir.1963;46:120-34.
+85	
+Dayal VS, Kokshanian A, Mitchell DP. Combined effects of noise and kanamycin. Ann Otol 
+Rhinol Laryngol.1971;80(6):897-902.
+86	
+Dayal VS, Barek WG. Cochlear changes from noise, kanamycin and ageing. I. Computer 
+processing of histological data in the organ of Corti. II. Potentiating effects of noise and ka­
+namycin. III. The organ of Corti in ageing guinea pigs. Laryngoscope.1975;85(11 Pt 2 Suppl 
+1):1-18.
+87	
+Gannon RP, Tso SS, Chung DY. Interaction of kanamycin and noise exposure. J Laryngol 
+Otol.1979;93(4):341-7.
+88	
+Morisaki N, Nakai Y, Cho H, Shibata S. Imprints of the tectorial membrane following acoustic 
+overstimulation and kanamycin treatment. Acta Otolaryngol Suppl. 1991;486:19-31.
+89	
+Ryan AF, Bone RC. Potentiation of Kanamycin Ototoxicity by a History of Noise Exposure. 
+Otolaryngology.1978;86:ORL125-8.
+90	
+Ryan AF, Bone RC. Non-simultaneous Interaction of Exposure to Noise and Kanamycin Intoxi­
+cation in the Chinchilla. Am l Otolaryngol.1982;3:264-272.
+91	
+Tan CT, Hsu CJ, Lee SY, Liu SH, Lin-Shiau SY. Potentiation of noise-induced hearing loss by 
+amikacin in guinea pigs. Hear Res.2001;161 (1-2):72-80.
+
+44	
+ SANIDAD
+92	
+Gratton MA, Salvi RJ, Kamen BA, Saunders SS. Interaction of cisplatin and noise on the peri­
+pheral auditory system. Hear Res.1990;50(1-2):211-23.
+93	
+Laurell G, Borg E. Cis-platin ototoxicity in previously noise-exposed guinea pigs. Acta Oto­
+laryngol.1986;101(1-2):66-74.
+94	
+Laurell GF. Combined effects of noise and cisplatin: short and long-term follow-up. Ann Otol 
+Rhinol Laryngol.1992;101(12):969-76.
+95	
+Pettersson H, Burström L, Hagberg M, Lundström R, Nilsson T. Noise and hand-arm vibration 
+exposure in relation to the risk of hearing loss. Noise Health 2012;14:159-165.
+96	
+Pettersson H, Burström L, Hagberg M, Lundström R, Nilsson T. Risk of hearing loss among 
+workers with vibration-induced white fingers. Am J Ind Med.2014;57:1311-1318.
+97	
+Turcot A, Girard SA, Courteau M, Baril J, Larocque R. Noise-induced hearing loss and combi­
+ned noise and vibration exposure. Occup Med 2015;65:238-244.
+98	
+Chang TY, Hwang BF, Liu CS et al. Occupational noise exposure and incident hypertension in 
+men: a prospective cohort study. Am J Epidemiol.2013;177:818-825.
+99	
+Davies HW, Teschke K, Kennedy SM, Hodgson MR, Hertzman C, Demers PA. Occupational 
+exposure to noise and mortality from acute myocardial infarction. Epidemiology.2005;16:25-32.
+100	
+Fujino Y, Iso H, Tamakoshi A; JACC study group. A prospective cohort study of perceived 
+noise exposure at work and cerebrovascular diseases among male workers in Japan. J Occup 
+Health.2007;49:382-388.
+101	
+Girard SA, Leroux T, Verreault R, Courteau M, Picard M, Turcotte F et al. Cardiovascular 
+disease mortality among retired workers chronically exposed to intense occupational noise. Int 
+Arch Occup Environ Health.2015;88(1):123-30.
+102	
+Gopinath B, Thiagalingam A, Teber E, Mitchell P. Exposure to workplace noise and the risk of 
+cardiovascular disease events and mortality among older adults. Prev Med.2011;53:390-394.
+103	
+Kersten N, Backé E. Occupational noise and myocardial infarction: Considerations on the inte­
+rrelation of noise with job demands. Noise Health. 2015;17(75):116-122.
+104	
+Liu CS, Young LH, Yu TY, Bao BY, Chang TY. Occupational Noise Frequencies and the Inci­
+dence of Hypertension in a Retrospective Cohort Study. Am J Epidemiol.2016;184(2):120-128.
+105	
+Sbihi H, Davies HW, Demers PA. Hypertension in noise exposed sawmill workers: a cohort 
+study. Occup Environ Med.2008;65:643-646.
+106	
+Skogstad M, Johannessen H A, Tynes T, Mehlum IS, Nordby KC, Lie A. Systematic review of 
+the cardiovascular effects of occupational noise. Occup Med.2016;66:10-16.
+107	
+Stokholm ZA, Bonde JP, Christensen KL, Hansen AM, Kolstad HA. Occupational noise expo­
+sure and the risk of hypertension. Epidemiology.2013;24:135-142.
+108	
+Suadicani P, Hein HO, Gyntelberg F. Occupational noise exposure, social class, and risk of 
+ischemic heart disease and all-cause mortality-a 16-year follow-up in the Copenhagen Male 
+Study. Scand J Work Environ Health.2012;38:19-26.
+109	
+Virkkunen H, Kauppinen T, Tenkanen L. Long-term effect of occupational noise on the risk of 
+coronary heart disease. Scand J Work Environ Health.2005;31(4):291-299.
+110	
+Virkkunen H, Härmä M, Kauppinen T, et al. The triad of shift work, occupational noise, and 
+physical workload and risk of coronary heart disease. Occup Environ Med.2006;63(6):378-
+386.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+45
+111	
+Virkkunen H, Härmä M, Kauppinen T, Tenkanen L. Shift work, occupational noise and physical 
+workload with ensuing development of blood pressure and their joint effect on the risk of coro­
+nary heart disease. Scand J Work Environ Health.2007;33:425-434.
+112	
+Virtanen SV, Notkola V. Socioeconomic inequalities in cardiovascular mortality and the role of 
+work: a register study of Finnish men. Int J Epidemiol.2002;31:614-621.
+113	
+Chen D, Cho SI, Chen C et al. Exposure to benzene, occupational stress, and reduced birth 
+weight. Occup Environ Med.2000;57:661-7.
+114	
+Croteau A, Marcoux S, Brisson C. Work activity in pregnancy, preventive measu­
+res, and the risk of delivering a small-for-gestational-age infant. Am J Public Heal­
+th.2006;96:846-855.
+115	
+Croteau A, Marcoux S, Brisson C. Work activity in pregnancy, preventive measures, and the 
+risk of preterm delivery. Am J Epidemiol.2007;166(8): 951-65.
+116	
+Croteau A. Effets du bruit en milieu de travail durant la grossesse. Synthèse systématique avec 
+méta-analyse et méta-régression. Quebec: Institut National de Santé Publique; 2009[Fecha últi­
+ma consulta 22/12/2017]. Disponible en:  https://www.inspq.qc.ca/pdf/publications/1040_Brui­
+tTravailGrossesseSynthese.pdf
+117	
+Daniel T, Laciak J. [Clinical observations and experiments concerning the condition of the co­
+chleovestibular apparatus of subjects exposed to noise in fetal life]. Rev Laryngol Otol Rhinol 
+(Bord).1982;103:313-318.
+118	
+Duclos JC, Lafon JC, Dubreuil C, Olivier P, Bergeret A. Influence du bruit professionnel sur la 
+maternité. Journal de toxicologie médicale.1984;4:7-14.
+119	
+Florack EI, Zielhuis GA, Pellegrino JE, Rolland R. Occupational physical activity and the oc­
+currence of spontaneous abortion. Int J Epidemiol.1993;22:878-84.
+120	
+Haelterman E, Marcoux S, Croteau A, Dramaix M. Population-based study on occupatio­
+nal risk factors for preeclampsia and gestational hypertension. Scand J Work Environ Heal­
+th.2007;33:304-317.
+121	
+Hanke W, Kalinka J, Makowiec-Dabrowska T, Sobala W. Heavy physical work du­
+ring pregnancy--a risk factor for small-for-gestational-age babies in Poland. Am J Ind 
+Med.1999;36:200-5.
+122	
+Hansteen IL, Kjuus H, Fandrem SI. Spontaneous Abortions of Known Karyotype Related to 
+Occupational and Environmental Factors: A Case-Referent Study. Int J Occup Environ Heal­
+th.1996;2:195-203.
+123	
+Hartikainen AL, Sorri M, Anttonen H, Tuimala R, Laara E. Effect of occupational noise on the 
+course and outcome of pregnancy. Scand J Work Environ Health.1994;20:444-450.
+124	
+Hartikainen-Sorri AL, Sorri M, Anttonen HP, Tuimala R, Laara E. Occupational noise exposure 
+during pregnancy: a case control study. International archives of occupational and environmen­
+tal health.1988;60:279-283.
+125	
+Hruba D, Kukla L, Tyrlik M. Occupational risks for human reproduction: ELSPAC Study. Euro­
+pean Longitudinal Study of Pregnancy and Childhood. Cent Eur J Public Health.1999;7:210-5.
+126	
+Irwin DE, Savitz DA, St Andre KA, Hertz-Picciotto I. Study of occupational risk factors for 
+pregnancy-induced hypertension among active duty enlisted Navy personnel. Am J Ind Med. 
+1994;25:349-59.
+
+46	
+ SANIDAD
+127	
+Kurppa K, Rantala K, Nurminen T, Holmberg PC, Starck J. Noise exposure during preg­
+nancy and selected structural malformations in infants. Scand J Work Environ Heal­
+th.1989;15:111-116.
+128	
+Lalande NM, Hetu R, Lambert J. Is occupational noise exposure during pregnancy a risk factor 
+of damage to the auditory system of the fetus? Am J Ind Med.1986;10:427-435.
+129	
+Luke B, Mamelle N, Keith L et al. The association between occupational factors and preterm 
+birth: a United States nurses’ study. Research Committee of the Association of Women’s Health, 
+Obstetric, and Neonatal Nurses. Am J Obstet Gynecol.1995;173:849-62.
+130	
+Magann EF, Evans SF, Chauhan SP et al. The effects of standing, lifting and noise exposure 
+on preterm birth, growth restriction, and perinatal death in healthy low-risk working military 
+women. J Matern Fetal Neonatal Med.2005;18:155-162.
+131	
+Mamelle N, Laumon B, Lazar P. Prematurity and occupational activity during pregnancy. Am J 
+Epidemiol.1984;119:309-22.
+132	
+McDonald AD, Armstrong B, Cherry NM et al. Spontaneous abortion and occupation. J Occup 
+Med.1986;28:1232-8.
+133	
+McDonald AD, McDonald JC, Armstrong B, Cherry NM, Nolin AD, Robert D. Prematurity and 
+work in pregnancy. Br J Ind Med.1988;45:56-62.
+134	
+McDonald AD, McDonald JC, Armstrong B et al. Fetal death and work in pregnancy. Br J Ind 
+Med.1988;45:148-57.
+135	
+McDonald A., Sloan M., and Armstrong B. Noise at work and the outcome of pregnancy. Saku­
+rai H., Okazari I., and Omae K. The Seventh International Symposium on Epidemiology in 
+Occupational Health. 889, 297-300.1990. Elsevier Science Publishers B.V.
+136	
+Nurminen T, Kurppa K. Occupational noise exposure and course of pregnancy. Scand J Work 
+Environ Health.1989;15:117-124.
+137	
+Peoples-Sheps MD, Siegel E, Suchindran CM, Origasa H, Ware A, Barakat A. Characteris­
+tics of maternal employment during pregnancy: effects on low birthweight. Am J Public Heal­
+th.1991;81:1007-12.
+138	
+Rocha EB, Frasson de AM, Ximenes Filho JA. Study of the hearing in children born from 
+pregnant women exposed to occupational noise: assessment by distortion product otoacoustic 
+emissions. Braz J Otorhinolaryngol.2007;73:359-369.
+139	
+Saurel-Cubizolles MJ, Kaminski M, Du Mazaubrun C, Breart G. Les conditions de travail 
+professionnel des femmes et l’hypertension artérielle en cours de grossesse [Working con­
+ditions of women with arterial hypertension during pregnancy]. Rev Epidemiol Sante Publi­
+que.1991;39:37-43.
+140	
+Saurel-Cubizolles MJ, Zeitlin J, Lelong N, Papiernik E, Di Renzo GC, Breart G. Employment, 
+working conditions, and preterm birth: results from the Europop casecontrol survey. J Epide­
+miol Community Health.2004;58:395-401.
+141	
+Selander J, Albin M, Rosenhall U, Rylander L, Lewné M, Gustavsson P. Maternal Occupational 
+Exposure to Noise during Pregnancy and Hearing Dysfunction in Children: A Nationwide Pros­
+pective Cohort Study in Sweden. Environ Health Perspect.2016;124 (6):855-860.
+142	
+Wergeland E, Strand K. Working conditions and prevalence of pre-eclampsia, Norway 1989. Int 
+J Gynaecol Obstet.1997;58:189-96.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+47
+143	
+Wu TN, Chen LJ, Lai JS, Ko GN, Shen CY, Chang PY. Prospective study of noise exposure 
+during pregnancy on birth weight. Am J Epidemiol.1996;143:792-796.
+144	
+Zhang J, Cai WW, Lee DJ. Occupational hazards and pregnancy outcomes. Am J Ind 
+Med.1992;21:397-408.
+145	
+Solé MD, Programa de Vigilancia de la Salud de los trabajadores expuestos a ruido. Seguridad 
+y Salud en el Trabajo. 2005:36:16-28.
+146	
+Peñuela IA. Anamnesis auditiva para trabajadores expuestos a ruido. Bogotá: 2008. Editorial 
+Universidad del Rosario.
+147	
+National Institute for Occupational Safety and Health (NIOSH). Criteria For A Recommended 
+Standard: Occupational Noise Exposure, Revised Criteria 1998. U. S. Dept. HHS. Pub. No. 98-
+126, Cincinnati, OH.
+148	
+Urbaneja F, Lijó A, Cabrerizo JI, Idiazabal J, Zubia AR, Padilla A. Vigilancia epidemioló­
+gica en el trabajo: Guía para la implantación de la vigilancia colectiva por parte de los ser­
+vicios de prevención. Barakaldo: Osalan - Instituto Vasco de Seguridad y Salud Laborales; 
+2015 [Fecha última consulta 22/12/2017]. Disponible en: http://www.osalan.euskadi.eus/libro/
+vigilancia-epidemiologica-en-el-trabajo-guia-para-la-implantacion-de-la-vigilancia-colecti­
+va-por-parte-de-los-servicios-de-prevencion/s94-osa9996/es/adjuntos/guia_vigilancia_epide­
+miologica_2015.pdf
+149	
+Azpiroz A, Álvarez V, Carramiñana S, Lekue B, Padilla A, Pérez B, Robertson M. Pautas para 
+la integración de la perspectiva de género en la prevención de riesgos laborales. Barakaldo. 
+OSALAN - Instituto Vasco de Seguridad y Salud Laborales; 2017. [Fecha de última consulta 
+12/01/18]. Available from: http://www.osalan.euskadi.eus/contenidos/libro/gestion_201710/
+es_def/adjuntos/pautas_integracion_prl.pdf
+150	
+Rodríguez MC, de Montserrat J. ¿Es posible mejorar la utilidad preventiva de la vigilancia de la 
+salud de los trabajadores en el actual marco normativo? Arch Prev Riesgos Labor 2017; 20 (2): 
+80-101.
+151	
+Solé Gómez MD. Embarazo, lactancia y trabajo: vigilancia de la salud. NTP 915. Madrid: 
+Instituto Nacional de Seguridad e Higiene en el Trabajo (INSHT); 2011. [Fecha última consulta 
+22/12/2017]. Disponible en:
+	
+http://www.insht.es/InshtWeb/Contenidos/Documentacion/NTP/NTP/Ficheros/891a925/915w.pdf
+152	
+INSS, SEGO, AMAT. Guía de ayuda para la valoración del riesgo laboral durante el embarazo. 
+Segunda edición [Internet]. Madrid: Instituto Nacional de la Seguridad Social; 2018 [Fecha 
+última consulta 30/01/2019]. Disponible en: 
+	
+http://www.seg-social.es/wps/wcm/connect/wss/e91e61c5-7559-4ce9-9440-a4bfe80e1df2/
+RIESGO+EMBARAZO_on-line.pdf?MOD=AJPERES&CVID=
+153	
+García-Valdecasas J, Cardenete G , Zenker F.  Guía de Práctica Clínica de Audiometría Tonal 
+por Vía Aérea y Ósea con y sin Enmascaramiento. Auditio. 2017; 4(3): 85-85. [Fecha última 
+consulta 11/10/2022]. Disponible en: https://journal.auditio.com/auditio/article/view/59/155.
+
+48	
+ SANIDAD
+Normativa legal
+— 
+Directiva 2003/10/CE, del Parlamento Europeo y del Consejo, de 6 de febrero de 2003, sobre 
+las disposiciones mínimas de seguridad y de salud relativas a la exposición de los trabajadores 
+a los riesgos derivados de los agentes físicos (ruido).
+— 
+Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+— 
+Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales.
+— 
+Ley 39/1999, de 5 de noviembre, para promover la conciliación de la vida familiar y laboral de 
+las personas trabajadoras.
+— 
+Real Decreto Legislativo 1/1994, de 20 de junio, por el que se aprueba el Texto Refundido de la 
+Ley General de la Seguridad Social
+— 
+Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de 
+Prevención.
+— 
+Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y la seguridad de los tra-
+bajadores contra los riesgos relacionados con los agentes químicos durante el trabajo
+— 
+Real Decreto 286/2006, de 10 de marzo, sobre la protección de la salud y la seguridad de los 
+trabajadores contra los riesgos relacionados con la exposición al ruido.
+— 
+Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades 
+profesionales en el sistema de la Seguridad Social y se establecen los criterios para su notifica-
+ción y registro
+— 
+Real Decreto 298/2009, de 6 de marzo, por el que se modifica el Real Decreto 39/1997, de 17 
+de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, en relación con 
+la aplicación de medidas para promover la mejora de la seguridad y de la salud en el trabajo de 
+la trabajadora embarazada, que haya dado a luz o en período de lactancia.
+
+Anexo I. Cuestionario
+¿Tiene 2 familiares o más sordos por parte del padre o por parte de la madre?
+sí   
+         no   
+ 
+¿Qué tal oye?
+Bien   
+         Regular   
+         Mal   
+         
+¿Padece en la actualidad alguna enfermedad del oído, o algún otro síntoma o sig­
+no relacionado con el oído?...dolor, secreciones, pitidos o ruidos en los oídos…	
+sí   
+         no   
+         
+Especificar:
+Ha padecido infecciones de oído en varias ocasiones a los largo de su vida
+sí   
+         no   
+         
+¿Ha padecido alguna otra enfermedad del oído?
+sí   
+         no   
+         
+Especificar:
+¿Ha padecido paperas, sarampión, escarlatina…?
+sí   
+         no   
+         
+Especificar:
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+49
+
+50	
+ SANIDAD
+¿Ha sufrido algún traumatismo craneoencefálico?
+sí   
+         no   
+         
+Especificar:
+¿Ha sido intervenido de alguno de sus los oídos a lo largo de su vida?
+sí   
+         no   
+         
+Especificar:
+¿Toma o ha tomado medicamentos durante un periodo continuado?
+sí   
+         no   
+         
+Especificar:
+¿Acude frecuentemente a discotecas o locales de ocio ruidosos?
+sí   
+         no   
+         
+¿Practica deportes en los que existe ruido intenso?... caza, motocross, carreras 
+de coches…o ¿ha estado expuesto a detonaciones?
+sí   
+         no   
+         
+Especificar:
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+51
+¿Maneja máquinas de jardinería u otras relacionadas con sus aficiones?….des­
+brozadoras, taladros, sierras, segadoras, bricolaje…
+sí   
+         no   
+         
+Especificar:
+¿Utiliza algún agente químico en actividades fuera del trabajo?….tolueno, es­
+tireno, monóxido de carbono…
+sí   
+         no   
+         
+Especificar:
+¿Está usted embarazada?
+sí   
+         no   
+         
+¿De cuánto tiempo?
+¿Es usted fumador?
+sí   
+         no   
+         
+Número de cigarrillos/día:
+
+
+Anexo II. Aspectos prácticos 
+sobre la exploración audiométrica:
+Audiometría tonal liminar por vía aérea153
+Audiómetro
+El audiómetro debe cumplir con las normas de construcción establecidas por con-
+senso por la Comisión Electrotécnica Internacional y debe cumplir con los re-
+quisitos de rendimiento y calibración de las Normas ISO (International Standard 
+Organization) o ANSI (American National Standards Institute) pertinentes.
+Calibración y mantenimiento
+—  Revisiones subjetivas
+Estas comprobaciones rutinarias han de ser muy frecuentes. La comprobación 
+del funcionamiento del audiómetro debe realizarla alguien con relativamente 
+buena audición, para comprobar que funciona en todo su rango de sonidos. 
+Se llevará a cabo en la habitación de examen habitual, con el equipo instalado 
+y configurado. Cuando se detecte algún fallo, no debe usarse el aparato hasta 
+obtener de nuevo un buen rendimiento.
+• Diarias
+◦ Limpiar y examinar el audiómetro y sus accesorios.
+	◦
+ Encender el equipo y dejar un tiempo para que se caliente y se estabili­
+cen los circuitos.
+	◦
+ Comprobar que el volumen del audiómetro es correcto de manera apro­
+ximada.
+	◦
+ Constatar que el ruido de enmascaramiento es aparentemente correc­
+to.
+	◦
+ Realizar una prueba de sonido a alta intensidad en todas las frecuencias 
+y en ambos auriculares.
+	◦
+ Comprobar que todos los interruptores, botones, luces e indicadores son 
+seguros y que funcionan adecuadamente.
+•	 Semanales
+	◦
+ Escuchar a bajas intensidades intentando detectar cualquier signo de rui­
+do, zumbido o sonidos no deseados.
+	◦
+ Comprobar el circuito de comunicación con el sujeto.
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+53
+
+54	
+ SANIDAD
+	◦
+ Revisar la tensión de la diadema de los auriculares.
+	◦
+ Realizar una audiometría en un sujeto conocido y comprobar que no 
+haya una diferencia significativa con audiometrías previas (10 dB o 
+más).
+— Revisiones objetivas
+De manera ideal deberían realizarse cada 3 meses, periodo que podemos de­
+morar hasta el año si se realizan correctamente las comprobaciones del apar­
+tado anterior. Es preferible realizar estas pruebas en la habitación donde se 
+hagan habitualmente las audiometrías, con el equipo instalado y configurado 
+de manera normal. Los términos de estos controles periódicos se describen en 
+la Norma ISO 8253-1.
+— Test de calibración básica (esencial o primitiva)
+Este tipo de calibración no es preciso realizarla de forma rutinaria si las revisio­
+nes subjetivas y objetivas son llevadas a cabo regularmente. Sólo se requerirá 
+cuando ocurra un fallo grave o, cuando después de un periodo de tiempo pro­
+longado, sospechemos que el equipo no está cumpliendo con las especificacio­
+nes. Este examen podría realizarse cada 5 años aproximadamente.
+Cabina
+La cabina ha de ubicarse en suelo estable, sin contacto con una pared sonora (hue-
+co de escalera, ascensor, calle...), considerando que los ruidos más difíciles de 
+eliminar son los de baja frecuencia transmitidos por medio sólido.
+Auriculares
+El examinador ajustará los auriculares y comunicará al sujeto que no debe mover-
+los, y confirmar con él que no resultan incómodos.
+Entorno para la prueba audiométrica
+El sujeto debe ser incapaz de ver las manos del examinador y de ver u oír los ajus-
+tes que éste realiza sobre los controles del audiómetro. El examinador, a su vez, 
+necesitará ver con claridad la cara del sujeto explorado.
+El ruido ambiente excesivo afectará a los resultados del examen por lo 
+que no debe exceder unos niveles determinados. En general, el ruido ambiente 
+no ha de exceder los 30 dB SPL (Sound Pressure Level) en ninguna de las 
+frecuencias estudiadas. Si es más elevado, sería recomendable no realizar la 
+audiometría.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+55
+Preparación para la prueba
+Preparación de los sujetos de examen
+La audiometría se precederá de una exploración otoscópica y los hallazgos 
+serán registrados, incluida la presencia de tapones de cera. En caso de tapones 
+oclusivos estos deberán ser retirados por personal legalmente cualificado.
+Hemos de preguntar al sujeto sobre la exposición a ruido elevado du-
+rante las 24 horas previas, pues puede ocasionar una disminución temporal 
+de la audición. Del mismo modo, averiguaremos si los sujetos padecen un 
+acúfeno que pudiera dificultar el reconocimiento de ciertos tonos.
+Preguntaremos si oye mejor con uno oído que otro y empezaremos la 
+prueba por el oído mejor. Si no es el caso, podemos empezar por cualquier 
+oído.
+Después de dar las instrucciones al sujeto se retirarán las prótesis au-
+ditivas, gafas, diademas o pendientes que puedan interferir con el posiciona-
+miento correcto de los transductores o bien que causen incomodidad. Debe-
+mos evitar que el pelo, pañuelos, bufandas, etc., queden entre el oído y los 
+transductores.
+Tiempo de prueba
+Si el examen excede los 20 minutos, es recomendable realizar un descanso 
+de unos minutos antes de proseguir con la prueba.
+Audiometría por vía aérea sin enmascaramiento
+Principios básicos
+El objetivo de esta prueba es localizar el umbral auditivo de un oído para 
+cada una de las frecuencias estudiadas, es decir, la intensidad más baja a la 
+que el oído percibe el sonido en dichas frecuencias.
+Las instrucciones se proporcionarán claramente al sujeto: “en cuanto 
+oiga el sonido presione el botón o levante la mano. No importa lo débil que 
+sea o el oído por donde lo oiga. Manténgalo presionado durante todo el tiem­
+po que lo escuche. Suelte el botón (o baje la mano) en cuanto deje de oírlo”.
+A los sujetos con acúfeno se les instará a que lo ignoren en la medida 
+de lo posible y que se centren en responder a los tonos. Deberán comunicar 
+al examinador si experimentan dificultades para discriminar entre el acúfeno 
+y las señales del examen y esto será registrado, anotando las frecuencias 
+afectadas.
+El estímulo utilizado para esta prueba son tonos puros, pues son más 
+fáciles de identificar y causan una menor fatiga auditiva. Aplicaremos una 
+variación en la duración de los tonos proporcionados de entre 1 y 3 segun­
+dos, al igual que en el intervalo entre tonos, evitando que este sea predecible. 
+
+56	
+ SANIDAD
+Es importante que el examinador no interrumpa la señal en cuanto el sujeto 
+responda.
+Orden de la prueba
+Para asegurarnos de que el sujeto se ha familiarizado con la prueba, presen­
+taremos un tono a 1000 Hz que sea claramente audible. En general 40 dBHL 
+para individuos con audición normal, o 30 dBHL por encima del umbral 
+estimado en sujetos con hipoacusia, evitando en esta primera aproximación 
+intensidades superiores a los 80 dBHL.
+En caso de no encontrar respuesta, incrementaremos la intensidad del 
+tono en intervalos de 10 dB hasta que la haya, lo que denominamos apro­
+ximación ascendente. Si el estímulo sigue siendo inaudible a 80 dBHL, au­
+mentaremos la intensidad de 5 en 5 dB hasta encontrar respuesta.
+El orden de la prueba es el siguiente: se empezará por el oído con me­
+jor audición (según la percepción del propio sujeto o el lado que lateralice 
+según la prueba de Weber) a la frecuencia de 1000 Hz. Luego se evaluarán 
+los 2000 Hz, 3000 Hz, 4000 Hz, 6000 Hz, 8000 Hz, 500 Hz y 250Hz. Sólo en 
+el primer oído, y una vez terminada esta primera evaluación, reevaluaremos 
+la frecuencia de 1000 Hz. Si en esta nueva medición el valor no difiere más 
+de 5 dB del obtenido inicialmente, consideraremos el umbral más sensible 
+como el valor definitivo, pero si hay más de 5 dB de diferencia, debemos 
+investigar la razón. Para ello será necesario volver a instruir al sujeto y re­
+petir el examen para ese oído. A continuación, se examinará el otro oído en 
+el mismo orden.
+Método para encontrar el umbral
+Se usará el método que se describe a continuación, independientemente de la 
+frecuencia, tipo de transductor u oído explorado:
+1. Proporcionamos un tono claramente audible, como se menciona en el 
+apartado anterior, a 1000 Hz, bien estimando el umbral o bien realizando 
+una aproximación ascendente en aumentos de 10 dB hasta que el sujeto 
+responda.
+2. Tras una respuesta positiva satisfactoria, reducimos la intensidad del tono 
+en etapas de 10 dB hasta que no se obtenga respuesta y a partir de ahora 
+comenzaremos a buscar el umbral de manera precisa, como se detalla a 
+continuación.
+3. Llevaremos a cabo una aproximación ascendente aumentando la intensi­
+dad de 5 en 5 dB hasta que aparezca respuesta nuevamente, indicándonos 
+el umbral de manera provisional.
+4. Tras hallar este “umbral provisional”, lo constataremos disminuyendo la 
+intensidad nuevamente en 10 dB y comenzando otra serie ascendente en 
+pasos de 5 dB hasta que el sujeto responda. Repetiremos este paso hasta 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DE LAS PERSONAS TRABAJADORAS EXPUESTAS A RUIDO	
+57
+que obtengamos respuesta a la misma intensidad en al menos dos oca­
+siones de hasta 4 intentos, y consideraremos esta intensidad el umbral de 
+audición para la frecuencia empleada.
+5. Posteriormente procedemos con la siguiente frecuencia, empezando a una 
+intensidad claramente audible, por ejemplo 30 dB por encima del umbral 
+hallado anteriormente, y usaremos el descenso de10 dB y posterior ascen­
+so de 5 dB desarrollados en el paso 4 hasta que encontremos el umbral 
+según la mecánica descrita.
+A modo de resumen: hallar el umbral aproximado, bajadas de 10 dB 
+hasta que no haya respuesta, subidas de 5 dB hasta encontrar respuesta y 
+repetir este paso (bajadas de 10 dB y subidas de 5 dB) hasta localizar una 
+intensidad a la que el sujeto conteste 2 veces de 4 intentos.
+Audiograma
+Los umbrales audiométricos pueden ser expresados gráficamente en un audiogra­
+ma. Tal representación gráfica expresa la pérdida auditiva en dBHL en el eje de 
+ordenadas y las frecuencias evaluadas en el eje de abscisas. La relación de la grá­
+fica debería ser de 20 dB por cada octava, de manera estandarizada, para facilitar 
+la interpretación.
+En la hoja audiométrica debería aparecer el nombre del examinador, su firma 
+y la fecha en que se realizó la prueba. Se debería añadir una nota sobre el audió­
+metro usado y el tipo de auriculares, así como la fecha de la última calibración 
+objetiva.
+Símbolos
+Existe un consenso sobre los símbolos usados en el audiograma.
+Para el oído derecho: O
+Para el oído izquierdo: X
+Si se utilizan colores, todas las anotaciones correspondientes al oído 
+derecho irán en rojo y las del oído izquierdo en azul.
+Los símbolos que hacen referencia a la vía aérea deberían estar conec­
+tados por una línea recta continua, mientras que los de la vía ósea deberían 
+conectarse con línea discontinua.
+Cuando a una frecuencia determinada no existe respuesta por parte del 
+sujeto cuando estimulamos al máximo volumen de salida del audiómetro, se 
+indica en el gráfico con una flecha hacia abajo, junto al símbolo correspon­
+diente y en esa frecuencia concreta. Este símbolo no debería unirse con una 
+línea al resto de símbolos que representan los umbrales medidos.
+
+58	
+ SANIDAD
+Para el oído derecho:O
+Para el oído izquierdo: X
+Para el oído derecho: O
+Para el oído izquierdo: X
+
+www.sanidad.gob.es

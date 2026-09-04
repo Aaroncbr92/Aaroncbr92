@@ -1,0 +1,849 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+CLORURO DE VINILO
+MONÓMERO
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18, 28014 Madrid
+ISBN: 84-7670-516-6
+NIPO: 351-99-051-X
+D.L.: M-49533-1999
+Imprime:
+Sociedad Anónima de Fotocomposición, Talisio 9, 28027 Madrid
+
+SESIÓN PLENARIA DEL CONSEJO
+INTERTERRITORIAL DEL SISTEMA NACIONAL DE
+SALUD (25 DE OCTUBRE DE 1999)
+El Pleno informa favorablemente el «Protocolo de vigilancia
+sanitaria específica para los/as trabajadores/as expuestos a
+cloruro de vinilo monómero».
+
+
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE
+SALUD PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL
+SISTEMA NACIONAL DE SALUD
+COORDINACIÓN DEL PROTOCOLO
+DIRECCIÓ GENERAL DE SALUT PÚBLICA. CONSELLERIA DE SANITAT.
+GENERALITAT VALENCIANA.
+AUTORES
+Vicent Villanueva i Ballester. Dirección General de Salud Pública. Generalitat
+Valenciana.
+Rosario Ballester Gimeno. Asociación de Mutuas de Accidentes de Trabajo
+de la Comunidad Valenciana.
+Carmen Celma Marín. Dirección General de Salud Pública. Generalitat
+Valenciana.
+Juan Manuel Ferris Gil. Asociación Levantina de Especialistas en Medicina
+del Trabajo.
+José Folch García. Mutua Valenciana Levante (MATEPSS n.º 15).
+Alberto Fuster García. Sociedad Valenciana de Medicina y Seguridad en el
+Trabajo.
+Rafael Gadea Merino. Comisiones Obreras del País Valenciano.
+José Luís Llorca Rubio. Gabinete de Seguridad e Higiene en el Trabajo.
+Generalitat Valenciana.
+Manuel Vera Quesada. Dirección General de Salud Pública. Generalitat
+Valenciana.
+GRUPO DE TRABAJO DE SALUD LABORAL
+Enrique Gil López. Ministerio de Sanidad y Consumo. Madrid.
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid.
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa María Campos Acedo. Consejería de Bienestar Social. Extremadura.
+Carmen Celma Marín. Consejería de Sanidad. Comunidad Valenciana.
+Juan Carlos Coto Fernández. Instituto Vasco Salud Laboral. País Vasco.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social.
+Castilla y León.
+Fernando Galvañ Olivares. Consejería de Sanidad y Política Social. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+Isabel González García. Consejería de Sanidad y Servicios Sociales. Galicia.
+Asunción Guzmán Fernández. Consejería de Servicios Sociales. Asturias.
+7
+
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y
+Trabajo. Aragón.
+Manuel Oñorbe de Torre. Consejería de Sanidad y Servicios Sociales. Madrid.
+Francisco Javier Sevilla Lámana. Consejería de Salud, Consumo y Bienestar
+Social. La Rioja.
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad Social.
+Cataluña.
+8
+
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanita-
+ria», editados por el Ministerio de Sanidad y Consumo y fruto del trabajo
+desarrollado por las Administraciones Sanitarias a través del Grupo de
+Trabajo de Salud Laboral de la Comisión de Salud Pública del Consejo
+Interterritorial del Sistema Nacional de Salud, como contribución a las
+actividades de prevención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos labo-
+rales (Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone,
+entre otras cuestiones, que debe cambiar radicalmente la práctica de los
+reconocimientos médicos que se realizan a las y los trabajadores. De ser
+exámenes médicos inespecíficos, cercanos a los clásicos chequeos o
+cribados de carácter preventivo general, deben pasar a ser periódicos,
+específicos frente a los riesgos derivados del trabajo, con el consenti-
+miento informado del trabajador, y no deben ser utilizados con fines dis-
+criminatorios ni en perjuicio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea eficaz
+para la prevención.
+El poder contar con criterios uniformes basados en la evidencia cien-
+tífica y la experiencia profesional de los participantes en los grupos de
+trabajo constituidos para su elaboración, permitirá alcanzar los objetivos
+de prevención de la enfermedad y promoción de la salud de las y los tra-
+bajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar
+la salud de los trabajadores para detectar precozmente e individualizar
+los factores de riesgo y deterioro que puedan afectar a la salud de los
+mismos», la recogida armonizada y periódica de datos sobre riesgos y
+enfermedades y su posterior análisis e interpretación sistemáticos con
+criterios epidemiológicos, constituye uno de los instrumentos con que
+cuenta la salud pública para poder identificar, cuantificar y priorizar y, por
+lo tanto, diseñar políticas de prevención eficaces.
+Para la elaboración de los protocolos, se constituyeron varios grupos
+de trabajo, que, coordinados por los representantes de las Comunida-
+9
+
+des Autónomas, permitiese la elaboración en paralelo de varios de ellos.
+Finalmente, una vez concluido el procedimiento interno de elaboración
+de los mismos, han sido sometidos a consulta y adecuadamente infor-
+mados por Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y
+Sociedades Científicas (SEMST, SEEMT, AEETSL, SESPAS y SEE), con
+cuyos representantes se mantuvieron reuniones al efecto, en el Ministe-
+rio de Sanidad y Consumo, habiéndose incorporado a la redacción final
+los comentarios recibidos que se consideró mejoraban el texto presenta-
+do.
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los
+sanitarios, una guía de actuación para la vigilancia sanitaria específica de
+las y los trabajadores expuestos a cloruro de vinilo monómero, que será
+revisado periódicamente, en la medida que así lo aconseje la evolución
+de la evidencia científica disponible y su aplicación concreta en los cen-
+tros de trabajo de nuestro país.
+Juan José Francisco Polledo
+Director General de Salud Pública
+10
+
+SUMARIO
+1.
+ÁMBITO DE APLICACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.
+DEFINICIÓN DEL PROBLEMA . . . . . . . . . . . . . . . . . . . . . . . .
+13
+2.1.
+DEFINICIONES Y CONCEPTOS . . . . . . . . . . . . . . . . . .
+13
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS . . . . . . . . . . . . . .
+14
+2.3.
+MECANISMO DE ACCIÓN . . . . . . . . . . . . . . . . . . . . . .
+15
+2.4.
+EFECTOS SOBRE LA SALUD . . . . . . . . . . . . . . . . . . . .
+15
+3.
+EVALUACIÓN DEL RIESGO. . . . . . . . . . . . . . . . . . . . . . . . . .
+17
+4.
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA . . . . .
+17
+4.1.
+HISTORIA LABORAL. . . . . . . . . . . . . . . . . . . . . . . . . . .
+18
+4.2.
+HISTORIA CLÍNICA. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+18
+4.3.
+CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTA-
+RIOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+19
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL EXAMEN DE
+SALUD ESPECÍFICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+6.
+CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+7.
+LEGISLACIÓN APLICABLE. . . . . . . . . . . . . . . . . . . . . . . . . . .
+22
+8.
+BIBLIOGRAFÍA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+23
+ANEXO: FICHA DE RECOGIDA DE DATOS CLÍNICO-LABORALES
+DE LOS TRABAJADORES EXPUESTOS A CLORURO DE VINILO
+MONÓMERO. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+11
+Págs.
+
+
+CLORURO DE VINILO
+MONÓMERO
+1.
+ÁMBITO DE APLICACIÓN
+Este protocolo será de aplicación a los trabajadores de los centros de
+trabajo en los cuales el cloruro de vinilo monómero es fabricado, recupe-
+rado, almacenado, transportado, transformado en copolímero o utilizado
+de cualquier manera, y los trabajadores estén expuestos a sus efectos.
+No será de aplicación a los trabajadores de centros de trabajo dedi-
+cados exclusivamente a la transformación de polímeros.
+2.
+DEFINICIÓN DEL PROBLEMA
+2.1.
+DEFINICIONES Y CONCEPTOS
+Cloruro de vinilo monómero (cloroetileno, cloroeteno, monocloroete-
+no, monocloroetileno, monocloruro de etileno, CV, CVM)1-3
+Etileno halogenado. Gas incoloro a temperatura ambiente, con olor li-
+geramente dulzón, con un umbral oloroso a partir de concentraciones de
+2.000 ppm.
+N.º CAS: 75-01-4.
+Fórmula estructural: CH2=CHCl.
+Punto de ebullición –14º C.
+Zona de trabajo 4
+Parte delimitada del centro de trabajo, que puede comprender uno o
+varios puestos de trabajo. Se caracteriza porque cada trabajador, en el
+cumplimiento de sus obligaciones, emplea diferentes períodos de tiem-
+po en los distintos puestos de trabajo, que la duración de la permanen-
+cia de estos puestos no puede ser definida con mayor precisión y que
+una subdivisión más profunda de la zona en unidades más pequeñas no
+es razonablemente posible.
+13
+
+Zona vigilada 4
+Zona de trabajo donde existe riesgo de desprendimiento de cloruro
+de vinilo monómero. Las representaciones de la empresa y de los traba-
+jadores determinarán de mutuo acuerdo qué zonas de trabajo deben ser
+vigiladas.
+Trabajador expuesto 4
+Todo trabajador que ejecute su tarea de modo habitual, total o par-
+cialmente, en una zona vigilada.
+Límite de exposición anual 4
+Valor que no debe exceder la concentración media ponderada en el
+tiempo del CVM en el ambiente de una zona de trabajo, siendo el año el
+tiempo de referencia y teniendo en cuenta las concentraciones medias
+durante los períodos de actividad de las instalaciones, así como las dura-
+ciones de tales períodos. No se tendrán en cuenta en el cálculo de la
+concentración promediada los valores efectivos de concentración duran-
+te los períodos de alarma
+Límite de exposición diaria 4
+Valor que no debe exceder la concentración media ponderada en el
+tiempo del CVM en el ambiente de una zona de trabajo, siendo ocho ho-
+ras el tiempo de referencia y con la condición de no sobrepasar en el pe-
+ríodo de un año el límite de exposición anual. El límite de exposición dia-
+ria es complementario del límite de exposición anual.
+Límites de exposición y niveles de alarma 4
+El Reglamento para la Prevención de Riesgos y Protección de la Sa-
+lud por la presencia de cloruro de vinilo monómero en el ambiente de tra-
+bajo establece los siguientes niveles de exposición y alarma:
+— Límite de exposición anual: 3 ppm
+— Límite de exposición diaria: 7 ppm
+— Situación de alarma:
+— Concentración promediada durante una hora: 15 ppm
+— Concentración promediada durante 20 minutos: 20 ppm
+— Concentración promediada durante 2 minutos: 30 ppm
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS
+La síntesis de CVM se realiza por hidrocloración del acetileno o por
+halogenación del etileno. El 97% de la producción se dedica a la síntesis
+14
+
+de PVC, y el resto a la producción de copolímeros, metilcloroformo y
+otros.
+En el año 1989 se estimó que la plantilla del sector en España ascen-
+día a 500-600 trabajadores, con una población laboralmente expuesta de
+379 trabajadores 5.
+2.3.
+MECANISMO DE ACCIÓN
+El CV 3 se absorbe principalmente por vía respiratoria, desde donde
+pasa al torrente sanguíneo; aunque también puede absorberse por el
+aparato digestivo, cuando contamina alimentos y bebidas, y por vía per-
+cutánea, aunque estas últimas vías de absorción son poco importantes.
+Una vez absorbido, el CVM sigue un proceso de biotransformación y
+eliminación que varía en función de la concentración absorbida. Si la
+cantidad es alta, alrededor del 90% se elimina sin modificar a través del
+aire espirado, junto con pequeñas cantidades de CO2; mientras que si es
+baja, sólo el 12% se elimina inmodificado. Ello indica que la capacidad
+de metabolización del CVM se satura rápidamente (a concentraciones
+de 1.000 ppm). Por ello, la determinación de metabolitos urinarios de
+cloruro de vinilo es un indicador de la intensidad de la exposición.
+La transformación metabólica se produce principalmente en el híga-
+do, en el que el monómero es sometido a oxidación mediante la acción
+de una alcohol deshidrogenasa y una catalasa, transformándose en óxi-
+do de cloroetileno (CEO), compuesto inestable que se transforma es-
+pontáneamente en cloroacetaldehído. El CEO parece ser el producto
+responsable de los efectos biológicos del CVM. Finalmente, el cloroace-
+taldehído se conjuga con glutatión o cisteína o se oxida para dar ácido
+monocloroacético, que se elimina por orina o se conjuga con el glutatión
+o la cisteína. Los metabolitos urinarios del CVM son la hidroxietil-cisteína,
+la carboxietil-cisteína (como tal o N-acetilada), y trazas de los ácidos mo-
+nocloroacético y tiodiglicólico. Una pequeña porción de metabolitos se
+excreta por la bilis.
+En general, se considera que los efectos del CVM son mediados por
+el CEO, que ejerce su acción en los vasos sanguíneos, dando lugar a las
+diferentes manifestaciones clínicas.
+2.4.
+EFECTOS SOBRE LA SALUD
+Los efectos del CVM sobre la salud humana se pueden resumir como
+sigue 1-3:
+Intoxicación aguda
+El CVM es irritante para piel, ojos y mucosa respiratoria y tóxico para
+el SNC de forma aguda. Se considera que el CVM tiene una toxicidad
+aguda relativamente baja, cuyo principal efecto es el narcótico. Se ha en-
+15
+
+contrado una relación dosis-respuesta con síntomas como obnubilación,
+náuseas y vómitos, cefalea, parestesias y fatiga. Exposiciones de alrede-
+dor de 5.000 ppm producen euforia, seguida de astenia, sensación de
+pesadez de piernas y somnolencia. Concentraciones de 8.000-10.000
+ppm producen vértigos, y cuando se alcanzan las 16.000 ppm se produ-
+cen alteraciones auditivas y de la visión. Con 70.000 ppm se produce
+narcosis, y la muerte puede llegar con concentraciones de 120.000 ppm.
+Toxicidad crónica
+La exposición crónica da lugar a la llamada «enfermedad por cloruro
+de vinilo», caracterizada por síntomas neurotóxicos, alteraciones de la
+microcirculación periférica, alteraciones cutáneas del tipo de la esclero-
+dermia, alteraciones óseas, alteraciones de hígado y bazo —con altera-
+ciones de la celularidad sanguínea asociadas—, síntomas genotóxicos y
+cáncer.
+Los síntomas neurotóxicos son precoces, se presentan en forma de
+excitación psíquica seguida de astenia, pesadez de miembros inferiores,
+mareos y somnolencia. Si la exposición persiste puede producirse un
+cuadro de neurosis asténica.
+Las alteraciones angioneuróticas constituyen los primeros y más fre-
+cuentes signos de la enfermedad. Es característico el sindrome de Ray-
+naud, con crisis asfícticas de manos y, menos frecuentemente, pies.
+Pueden persistir durante años tras el cese de la exposición, y su fisiopa-
+tología no es bien conocida 6.
+Las alteraciones cutáneas se producen en un número reducido de
+casos. Pueden estar asociadas a esclerodermia del dorso de la mano,
+articulaciones metacarpianas y falángicas y la zona interna de los ante-
+brazos, y también en pies, cuello, rostro y espalda.
+La acrosteolisis se suele localizar en las falanges distales de las ma-
+nos, en alrededor del 3% de las personas expuestas. Se debe a necrosis
+aséptica del hueso, debida a isquemia por arteriolitis ósea estenosante
+producida por depósitos de inmunocomplejos circulantes en el endote-
+lio arteriolar. Aparece a los 20 años postexposición. Radiológicamente,
+se aprecia un proceso de osteolisis con bandas transversas o estrecha-
+miento de las falanges ungueales.
+La alteración hepática debuta con hepatomegalia de consistencia
+normal, con función hepática generalmente conservada. Posteriormente
+puede aparecer una fibrosis hepática, asociada frecuentemente con una
+esplenomegalia, que puede acompañarse de hipertensión portal, vari-
+ces esofágicas y hemorragias del aparato digestivo. La función y el pa-
+rénquima hepático pueden estar poco afectados. Estas alteraciones
+pueden ser reversibles con el cese de la exposición.
+La trombopenia es una de las consecuencias de la afectación hepáti-
+ca debida a CVM y, para algunos autores, constituye el primer signo bio-
+lógico detectable.
+También se ha informado de efectos genotóxicos y mutagénicos 7-12.
+Diversos estudios han mostrado un incremento de la frecuencia de abe-
+rraciones cromosómicas e intercambio de cromátidas hermanas en suje-
+16
+
+tos expuestos y en su descendencia —aunque disminuyen con el nivel
+de exposición—, aumento del número de abortos y partos prematuros y
+un aumento del número de malformaciones del SNC en la descenden-
+cia.
+El efecto para la salud más importante debido al CVM es el cancerí-
+geno. La IARC 13 clasifica al CVM en el Grupo 1 (carcinógeno establecido
+para humanos), por su asociación constatada con la exposición al he-
+mangiosarcoma de hígado.
+El hemangiosarcoma de hígado es un cáncer muy poco frecuente 14,
+que se asocia fuertemente, y específicamente, con la exposición a CVM
+(se ha encontrado un exceso de mortalidad desde un 86% hasta un
+300%). El riesgo se ha encontrado asociado a la edad al inicio de la ex-
+posición, el tiempo transcurrido desde el inicio, la duración y la intensi-
+dad de la exposición 15-16, aunque parecen precisarse exposiciones altas
+para que se produzca la inducción del cáncer. No se ha encontrado aso-
+ciación 17-18, o se han encontrado asociaciones poco consistentes 19-23
+con otros cánceres.
+Se trata de una neoplasia que se manifiesta tras un período de laten-
+cia de unos 20-22 años 23-25 (menor cuando la exposición se inicia en
+edades más tempranas), y que evoluciona de forma asintomática o con
+pocas alteraciones funcionales hasta estadios evolutivos avanzados. La
+supervivencia media tras el diagnóstico es de 3-4 meses.
+3.
+EVALUACIÓN DEL RIESGO
+Existen métodos de control ambiental como el OSHA 75 o el NIOSH
+1007, que utilizan el método de cromatografía de gas con detector de io-
+nización de llama.
+En España, AENOR ha establecido la norma UNE 81-588-91 26 para
+determinación de cloruro de vinilo en aire, por el método del tubo de car-
+bón activo, desorción con disolvente y cromatografía de gases. El méto-
+do está diseñado para determinar concentraciones medias ponderadas
+en el tiempo de cloruro de vinilo en aire, mediante la utilización de equi-
+pos de muestreo de bajo caudal, para muestras personales o en lugares
+fijos. No puede utilizarse para medir concentraciones instantáneas o
+fluctuaciones de concentración en períodos cortos de tiempo.
+4.
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA
+El examen de salud debe ir dirigido a la detección de los signos pre-
+coces derivados de los efectos de la exposición a CVM. En función de la
+respuesta biológica a la exposición a CVM, se considera el uso de las si-
+guientes tecnologías:
+Ecografía: ha sido recomendada por diversos autores para la detec-
+ción precoz y la vigilancia de la salud de colectivos. Permite detectar
+anomalías compatibles con fibrosis o angiosarcoma.
+17
+
+Hemograma y velocidad de sedimentación globular: es poco específi-
+ca. El recuento plaquetario, en cambio, es útil, ya que la trombocitopenia
+es una alteración precoz.
+Estudio de la función hepática: las pruebas habituales de función he-
+pática son poco específicas de alteración hepática debida a CVM; ade-
+más, en caso de hepatopatía atribuible a este producto, las alteraciones
+de la función hepática se producen de manera tardía. No obstante, pue-
+de incluirse de manera sistemática la determinación de enzimas hepáti-
+cos, con criterios de efectividad y pertinencia.
+Para la vigilancia del funcionalismo hepático 27-28, se utilizarán los en-
+zimas alamín-aminotransferasa o glutamato piruvato transaminasa
+(ALAT o GPT), para la evaluación del daño hepatocelular, y la 5’-nucleoti-
+dasa (5’-N), para la evaluación de alteraciones hepatobiliares. No obs-
+tante, hay que señalar que la gamma glutamil transferasa (GT) se ha en-
+contrado altamente correlacionada con la exposición a VCM, y se ha pro-
+puesto su inclusión en los exámenes de salud de los trabajadores
+expuestos.
+4.1.
+HISTORIA LABORAL
+4.1.1.
+Exposiciones anteriores (anamnesis laboral)
+Se investigará si ha habido exposición previa a vibraciones locales en
+miembros superiores (mecánica general, siderurgia, astilleros, construc-
+ción, silvicultura, carpintería, obras públicas, industria aeronáutica y del
+automóvil, minas y canteras y, en general, uso de instrumentos vibrátiles
+pequeños) o al CVM, que puedan explicar la aparición del fenómeno de
+Raynaud 29.
+4.1.2.
+Exposición actual al riesgo
+Se registrarán las circunstancias de exposición:
+— Trabajo en zona vigilada
+— Resultados del control ambiental.
+— Utilización de Equipos de Protección Individual
+4.2.
+HISTORIA CLÍNICA
+4.2.1.
+Anamnesis
+Dirigida a la búsqueda de antecedentes de: transtornos de vías respi-
+ratorias, lesiones vasculares o neurovasculares, insuficiencia hepática,
+diabetes, insuficiencia renal crónica, anomalías de coagulación de la
+18
+
+sangre, afectaciones cutáneas crónicas, abuso de alcohol o drogas, o
+síntomas neurotóxicos (fatigabilidad, astenia, mareo, somnolencia, cefa-
+lea).
+4.2.2.
+Exploración clínica específica.
+Incluirá necesariamente maniobras dirigidas a la identificación de:
+— lesiones cutáneas
+— hepatomegalia (palpación abdominal)
+— examen neurológico básico
+— fenómeno de Raynaud (evaluación clínica de los transtornos me-
+diante interrogatorio preciso)
+4.3.
+CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTARIOS
+No existe ningún método de control biológico válido.
+Procede la realización de:
+— ecografía abdominal, para el despistaje de fibrosis hepática o he-
+mangiosarcoma de hígado, con periodicidad anual.
+— radiografia de manos cada 2 años (tras 5 años de exposición)
+para el despistaje de acrosteolisis. Con el fin de disponer de imá-
+genes de referencia, se realizará una radiografía en el examen ini-
+cial.
+— hemograma completo, principalmente para el despistaje de trom-
+bocitopenia.
+— pruebas de función hepática: glutamato-piruvato-quinasa (GPT)
+para la valoración del daño hepatocelular, 5’ nucleotidasa (5’N),
+para la evaluación de alteraciones hepatobiliares, y gamma gluta-
+miltransferasa (γGT) para la evaluación de la exposición.
+Examen de salud inicial
+Incluirá:
+— historia laboral anterior: incluirá interrogatorio dirigido a la bús-
+queda de exposiciones previas a vibraciones localizadas en
+miembros superiores, que puedan explicar la aparición del fenó-
+meno de Raynaud (véase apartado 4.1.1).
+— anamnesis: interrogatorio dirigido a la búsqueda de signos o sín-
+tomas sugestivos de alteraciones vasomotrices en manos, insufi-
+ciencia hepática, diabetes mellitus, insuficiencia renal crónica,
+anomalías de la hemostasia, afectaciones cutáneas crónicas, abu-
+so de alcohol o drogas, o síntomas neurotóxicos.
+— exploración clínica:
+— inspección dérmica
+— hemograma completo (para descartar principalmente plaque-
+topenia)
+19
+
+— bioquímica hemática: glucemia basal, creatinina, GPT, 5’N,
+GGT
+— espirometría forzada
+— radiografía de manos (para la obtención de imágenes de refe-
+rencia)
+Examen de salud periódico
+Incluirá:
+— anamnesis: interrogatorio dirigido a la búsqueda de signos o sín-
+tomas sugestivos de alteraciones vasomotrices en manos, insufi-
+ciencia hepática, diabetes mellitus, insuficiencia renal crónica,
+anomalías de la hemostasia, afectaciones cutáneas crónicas, abu-
+so de alcohol o drogas, o síntomas neurotóxicos (fatigabilidad, as-
+tenia, mareo, somnolencia, cefalea).
+— exploración:
+— exploración dérmica anual
+— exploración neurológica básica 30 anual:
+orientación temporoespacial
+memoria inmediata, reciente y remota
+capacidad de abstracción
+comprensión de mensajes
+lenguaje
+función sensitiva cortical (esterognosia, estereopercepción)
+relaciones espaciales
+praxia
+— rinoscopia anual
+— análisis de sangre anual:
+hemograma completo
+glucemia basal
+creatinina
+GPT
+5’nucleotidasa (5’N)
+gamma glutamiltransferasa (γGT)
+— ecografía hepática anual
+— radiografía de manos bienal (tras cinco años de exposición)
+— espirometría forzada bienal
+20
+
+21
+PROTOCOLO DE EXÁMENES DE SALUD PARA TRABAJADORES CON EXPOSICIÓN A CLORURO DE
+VINILO MONÓMERO. RESUMEN DE PROCEDIMIENTOS.
+Reconocimiento
+Inicial
+Periódico
+Trabajadores
+Potencialmente expuestos
+Expuestos
+Historia laboral anterior
+Dirigida a descartar exposición a vibraciones locali-
+zadas
+—
+Anamnesis dirigida
+Síntomas vasomotores en manos, insuficiencia he-
+pática, diabetes mellitus, insuficiencia renal crónica,
+anomalías de la hemostasia, afectaciones cutáneas
+crónicas, abuso de alcohol o drogas, o síntomas
+neurotóxicos
+Id. Exámenes de salud iniciales
+Anual
+Exploración
+neurológica
+básica
+—
+Dirigida a la detección de daño neurológico
+Inspección dérmica
+Alteraciones dérmicas compatibles con escleroder-
+mia
+Id. Exámenes de salud iniciales
+Anual
+Rinoscopia
+Dirigida a comprobar la permeabilidad de la vía na-
+sal
+Id. Exámenes de salud iniciales
+Anual
+Ecografía hepática
+—
+Anual
+Análisis de sangre
+Dirigido a descartar plaquetopenia, alteraciones de
+la función hepática, renal: - hemograma completo -
+glucemia basal - creatinina - GPT - 5’N - γGT
+Id. Exámenes de salud iniciales y detección de efec-
+tos metabólicos
+Anual
+Pruebas funcionales res-
+piratorias
+Espirometría forzada
+Id. Exámenes de salud iniciales
+Bienal
+Estudio
+radiológico
+de
+manos
+Obtención de imágenes de referencia
+Dirigida a detectar signos de acroosteolisis
+Bienal (tras cinco años de exposición)
+
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL EXAMEN DE
+SALUD ESPECÍFICO
+La ecografía abdominal debe hacerse con un ecógrafo con una po-
+tencia de salida de 90 dB y frecuencia de sonda de al menos 3.5 MHz.
+Respecto al resto de apartados del reconocimiento, no hay especifi-
+caciones.
+6.
+CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN
+Según lo establecido en el Anexo de la OM de 9/4/86, deberá tomar-
+se en consideracion la presencia en el examen de salud inicial de las si-
+guientes alteraciones que, a juicio del médico reconocedor, supongan
+falta de aptitud en función de los requerimientos del puesto de trabajo:
+— lesiones vasculares o neurovasculares típicas
+— trastornos de vías respiratorias
+— insuficiencia hepática
+— diabetes
+— insuficiencia renal crónica
+— trombocitopenia o anomalías de la hemostasia
+— esclerodermia
+— abuso de alcohol o drogas
+Por otro lado, ante la detección de trabajadores con alteraciones de
+la salud compatibles con efectos biológicos derivados de la exposición a
+CVM, deberá procederse:
+— respecto del trabajador afectado:
+— retirada inmediata de la zona de trabajo
+— declaración de enfermedad profesional en período de observa-
+ción, si procede
+— examen clínico detallado con fines diagnósticos y terapéuticos
+— respecto del lugar de trabajo:
+— análisis profundo de los procedimientos de trabajo
+— revisión detallada de las medidas de prevención colectivas e indi-
+viduales.
+7.
+LEGISLACIÓN APLICABLE
+Real Decreto Legislativo 1/1994, Texto Refundido de la Ley General
+de la Seguridad Social. BOE núm. 154, 29/6/94.
+Real Decreto 1995/1978, Cuadro de enfermedades profesionales en
+el Sistema de la Seguridad Social. BOE núm. 203, 25/8/78.
+Orden de 9/4/86, del Ministerio de Trabajo y Seguridad Social, Regla-
+mento para la Prevención de Riesgos y Protección de la Salud por la pre-
+sencia de cloruro de vinilo monómero en el ambiente de trabajo. BOE
+núm. 108, 6/5/86.
+22
+
+8.
+BIBLIOGRAFÍA
+1.
+Viola PL. Vinilo y polivinilo, cloruros. En: Parmeggiani L. (ed.). Enci-
+clopedia de Salud y Seguridad en el Trabajo. Madrid: Ministerio de
+Trabajo y Seguridad Social, 1989: 2250-5.
+2.
+CHEMINFO (Programa informático). Vinyl chloride. Ontario: Cana-
+dian Centre for Occupational Health and Safety, 1997.
+3.
+Monster AC, Zielhuis RL. Disolventes Hidrocarburos Clorados. Ei-
+nes de Salut i Treball, 7. Valencia: Conselleria de Sanitat i Consum,
+1992.
+4.
+Boletín Oficial del Estado. Orden de 9/4/86, del Ministerio de Traba-
+jo y Seguridad Social, Reglamento para la Prevención de Riesgos y
+Protección de la Salud por la presencia de cloruro de vinilo monó-
+mero en el ambiente de trabajo. BOE núm. 108, 6/5/86.
+5.
+Rams P. Situación de la población laboral expuesta a cloruro de vi-
+nilo. Salud y Trabajo 1991; 83: 18-20.
+6.
+Fontana L, Gautherie M, Albuisson E, et al. Étude chronothermobio-
+logique de phenomènes de Raynaud secondaires- une exposition
+ancienne au chlorure de vinyle monomère. Arch Mal Prof 1996; 57:
+9-18.
+7.
+Chiang SY, Swenberg JA, Weisman WH, Skopek TR. Mutagenicity
+of vinyl chloride and its reactive metabolites, chloroethylene oxide
+and chloroacetaldehyde, in a metabolically competent human
+B-lymphoblastoid line. Carcinogenesis 1997; 18: 31-6.
+8.
+Fucic A, Barkovic D, Garaj-Vrhovac V, et al. A nine-year follow up
+study of a population occupationally exposed to vinyl chloride mo-
+nomer. Mutat Res 1996; 361: 49-53.
+9.
+Du CL, Kuo ML, Chang HL, et al. Changes in lymphocyte single
+strand breakage and liver function of workers exposed to vinyl chlo-
+ride monomer. Toxicol Lett 1995; 77: 379-85.
+10.
+Fucic A, Hitrec V, Garaj-Vrhovac V, et al. Relationship between loca-
+tions of chromosome breaks induced by vinyl chloride monomer
+and lymphocytosis. Am J Ind Med 1995; 27: 565-71.
+11.
+Soini Y, Welsh JA, Ishak KG, Bennett WP. P53 mutations in primary
+hepatic angiosarcomas not associated with vinyl chloride exposure.
+Carcinogenesis 1995; 16: 2897-81.
+12.
+Anderson D, Richardson CR, Weight TM, et al. Chromosomal analy-
+ses in vinyl chloride exposed workers. Results from analysis 18 and
+42 months after an initial sampling. Mutat Res 1980; 79: 151-62.
+13.
+IARC. Monografías IARC sobre la evaluación del riesgo de carcinó-
+genos para humanos. Lista de Evaluaciones de la IARC. Valencia:
+Conselleria de Sanitat i Consum, 1996.
+14.
+Elliott P, Kleinschmidt I. Angiosarcoma of the liver in Great Britain in
+proximity to vinyl chloride sites. Occup Environ Med 1997; 54: 14-8.
+15.
+Cogliano VJ, Hiatt GF, Den A. Quantitative cancer assessment for
+vinyl chloride: indications of early-life sensitivity. Toxicology 1996;
+111: 21-8.
+23
+
+16.
+Simonato L, L’Abbé KA, Andersen A, et al. A collaborative study of
+cancer incidence and mortality among vinyl chloride workers.
+Scand J Work Environ Health 1991; 17: 159-69.
+17.
+Pirastu R, Belli S, Bruno C, et al. La mortalità dei produttori di cloru-
+ro di vinile in Italia. Med Lav 1991; 82: 388-423.
+18.
+Wu W, Steendland K, Brown D, et al. Cohort and case-control analy-
+ses of workers exposed to vinyl chloride: An update. J Occup Med
+1989; 31: 518-23.
+19.
+Smulevich VB, Fedotova IV, Filatova VS. Increasing evidence of the
+rise of cancer in workers exposed to vinylchloride. Br J Ind Med
+1988; 2: 93-7.
+20.
+Storetvedt S, Andersen AA, Langard S. Incidence of cancer among
+vinyl chloride and polivinyl chloride workers: Further evidence for
+an association with malignant melanoma. Br J Ind Med 1987; 44:
+278-80.
+21.
+Gerosa A, Turrini O, Bottasso F. Tumori laringei in un’azienda di la-
+vorazione di resine sintetiche termoplastiche. Med Lav 1986; 77:
+172-6.
+22.
+Storetvedt S, Andersen AA, Langard S. Incidence of cancer among
+vinyl chloride and polivinyl chloride workers. Br J Ind Med 1984; 41:
+25-30.
+23.
+Jones RD, Smith DM, Thomas PG. A mortality study of vinyl chloride
+monomer workers employed in the United Kingdom in 1940-1974.
+Scand J Work Environ Health 1988; 14: 153-60.
+24.
+Lelbach WK. A 25-year follow-up study of heavily exposed vinyl
+chloride workers in Germany. Am J Ind Med 1996; 29: 446-58.
+25.
+Forman D, Bennett B, Stafford J, Doll R. Exposure to vinyl chloride
+and angiosarcoma of the liver: a report of the register of cases. Br J
+Ind Med 1985; 42: 750-3.
+26.
+AENOR. Norma Española UNE 81-588-91. Determinación de cloru-
+ro de vinilo en aire. Madrid: La Asociación, 1991.
+27.
+Zimmerman HJ. Función e integridad del hígado. En: Henry JB.
+Diagnóstico y tratamiento clínicos por el laboratorio. Barcelona:
+Salvat, 1988: 271-311.
+28.
+Zimmerman HM, Henry JB. Enzimología clínica. En: Henry JB.
+Diagnóstico y tratamiento clínicos por el laboratorio. Barcelona:
+Salvat, 1988: 313-50.
+29.
+Gimbert E. Las fuentes de vibración en la empresa. Notas y Docu-
+mentos sobre prevención de riesgos profesionales 1988; 163: 13-8.
+30.
+Neurología. Aproximación al paciente. En: Manual Merck. Merck,
+Sharp & Dohme de España, 1998 [online]. Disponible en:
+http://www.msd.es/mmerck/m117b.html.
+24
+
+ANEXO
+FICHA DE RECOGIDA DE DATOS CLÍNICO-LABORALES
+DE LOS TRABAJADORES EXPUESTOS A CLORURO
+DE VINILO MONÓMERO
+DATOS DE IDENTIFICACIÓN
+Nombre y apellidos
+DNI
+Fecha de nacimiento
+N.º de la Seguridad Social
+N.º de la Historia Clínica
+Empresa
+DATOS DEL RECONOCIMIENTO
+Fecha del reconocimiento:
+Reconocimiento:
+Inicial [ ]
+Periódico [ ]
+HISTORIA LABORAL
+Puestos de trabajo anteriores
+Puesto de trabajo
+Fecha de inicio
+Fecha de finalización
+Exposición laboral anterior:
+— Vibraciones locales
+Sí [ ]
+No [ ]
+— Tóxicos sistémicos
+Sí [ ]
+No [ ]. . . . . . . . . . . . . . . . . . . . . . .
+Exposición actual al riesgo
+— Trabajo en zona vigilada
+Sí [ ]
+No [ ]
+En caso afirmativo, datos de control ambiental:
+— Usa equipos de protección individual
+Sí [ ]
+No [ ]
+HISTORIA CLÍNICA
+Anamnesis
+transtornos en vías respiratorias
+Sí [ ]
+No [ ]. . . . . . . . . . . . . . . . . . . . . . .
+síntomas vasomotores en manos
+Sí [ ]
+No [ ]. . . . . . . . . . . . . . . . . . . . . . .
+diabetes mellitus
+Sí [ ]
+No [ ]. . . . . . . . . . . . . . . . . . . . . . .
+anomalías de la hemostasia
+Sí [ ]
+No [ ]. . . . . . . . . . . . . . . . . . . . . . .
+afectaciones cutáneas crónicas
+Sí [ ]
+No [ ]. . . . . . . . . . . . . . . . . . . . . . .
+consumo de alcohol o sustancias de
+abuso
+Sí [ ]
+No [ ]. . . . . . . . . . . . . . . . . . . . . . .
+síntomas neurotóxicos
+Sí [ ]
+No [ ]. . . . . . . . . . . . . . . . . . . . . . .
+trastornos reproductivos
+Sí [ ]
+No [ ]. . . . . . . . . . . . . . . . . . . . . . .
+otros (especificar): . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+25
+
+Exploración clínica:
+lesiones cutáneas
+Sí [ ]
+No [ ]
+hepatomegalia
+Sí [ ]
+No [ ]
+examen neurológico básico:
+orientación . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+memoria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+abstracción . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+comprensión . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+lenguaje . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+estereopercepción . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+relaciones espaciales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+praxia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+rinoscopia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+análisis de sangre: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+hemograma completo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+glucemia basal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+creatinina . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+GPT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5’nucleotidasa (5’N). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+gamma glutamiltransferasa (γGT) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ecografía hepática. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+radiografía de manos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+espirometría forzada . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+26

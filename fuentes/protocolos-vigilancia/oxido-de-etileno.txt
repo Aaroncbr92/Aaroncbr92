@@ -1,0 +1,989 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+ÓXIDO DE ETILENO
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18 - 28014 Madrid
+ISBN: 84-7670-659-6
+NIPO: 351-03-031-0
+Depósito Legal: M-51.192-2003
+Imprime: Grafoffset, S.L.
+
+El Consejo Interterritorial del Sistema Nacional de Salud
+aprueba el «Protocolo de Vigilancia Sanitaria Específica
+para los trabajadores expuestos a Óxido de Etileno», en
+la reunión de su Comisión Delegada de 11 de noviembre
+de 2003.
+CONSEJO
+INTERTERRITORIAL
+SISTEMA NACIONAL DE SALUD
+
+
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE
+SALUD PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA
+NACIONAL DE SALUD 
+COORDINACION DEL PROTOCOLO
+XUNTA DE GALICIA. DIRECCIÓN XERAL DE SAÚDE PÚBLICA DE LA
+CONSELLERÍA DE SANIDADE E SERVICIOS SOCIAIS
+AUTORES
+Andrés Aragón Peña. Subdirección Xeral de programas de Saúde Pública.
+Galicia.
+Mª Isabel González García. Servicio de Protección da Saúde fronte a Ris-
+cos especificos.Subdirección Xeral de Programas de Saúde Pública. Conse-
+lleria de Sanidade. Xunta de Galicia.
+GRUPO DE TRABAJO
+Victor Miguel del Campo Pérez. Servicio de Medicina Preventiva. Hospital
+do Meixoeiro. Vigo.
+Milagros Fernández Campos. Servicio de Esterilización. Hospital do Meixo-
+eiro. Vigo.
+Ramón García Mateo. Centro de Seguridade e Saúde Laboral da Coruña. A
+Coruña.
+Josep Guàrdia Rocamora. Servicio de Medicina del Trabajo. Carburos Metá-
+licos S.A. Barcelona.
+Teresa Jiménez Martínez. Servicio de Medicina Preventiva. Complexo Hos-
+pitalario Juan Canalejo-Marítimo de Orza. A Coruña.
+José Martín Moreno. La Seda de Barcelona-IQA División Química S.A. Ta-
+rragona.
+GRUPO DE TRABAJO DE SALUD LABORAL 
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Rosario Castañeda López. Ministerio de Sanidad y Consumo. Madrid.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Esther Busquets Bou. Consejeria de Sanidad y Seguridad Social. Cataluña.
+5
+
+Rosa Maria Campos Acedo. Consejería de Sanidad y Consumo. Extremadura.
+Rafael Castell Salvá. Consejeria de Sanidad y Consumo. Islas Baleares.
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Laboral.
+País Vasco.
+Mercedes Elvira Espinosa. Consejería de Sanidad y Bienestar Social. Casti-
+lla y León.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+Valentín Esteban Buedo. Consejería de Sanidad. Valencia.
+Fernando Galvañ Olivares. Consejería de Sanidad y Consumo. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+Isabel González García. Consejería de Sanidad y Servicios Sociales. Galicia.
+Asunción Guzmán Fernández. Consejería de Salud y Servicios Sanitarios.
+Asturias.
+Nieves Martínez Arguisuelas. Consejería de Salud, Consumo y Servicios
+Sociales. Aragón.
+Lourdes Miralles Martínez-Portillo. Consejería de Salud, y Servicios Socia-
+les. La Rioja.
+Alberto Montilla Sanchez de Navas. Consejería de Sanidad. Castilla-La
+Mancha.
+Alfredo Rubio Sanz. Consejería de Salud. Andalucía.
+Marta Zimmermann Verdejo. Consejería de Sanidad. Comunidad de Madrid.
+Director General de Salud Pública del Ministerio de Sanidad y Consumo
+José María Martín Moreno
+Subdirector General de Sanidad Ambiental y Salud Laboral
+Francisco Marqués Marqués
+6
+
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanitaria»,
+editados por el Ministerio de Sanidad y Consumo y fruto del trabajo desarro-
+llado por las Administraciones Sanitarias a través del Grupo de Trabajo de
+Salud Laboral de la Comisión de Salud Pública del Consejo Interterritorial
+del Sistema Nacional de Salud, como contribución a las actividades de pre-
+vención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos laborales
+(Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone, entre
+otras cuestiones, que debe cambiar radicalmente la práctica de los recono-
+cimientos médicos que se realizan a las y los trabajadores. De ser exáme-
+nes médicos inespecíficos, cercanos a los clásicos chequeos o cribados de
+carácter preventivo general, deben pasar a ser periódicos, específicos fren-
+te a los riesgos derivados del trabajo, con el consentimiento informado del
+trabajador, y no deben ser utilizados con fines discriminatorios ni en perjui-
+cio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigilancia
+periódica de su salud, incluso prolongándola más allá de la finalización de la
+relación laboral en algunos supuestos, la ley encomienda a las administra-
+ciones sanitarias la tarea de dar homogeneidad y coherencia a los objetivos
+y contenidos de la vigilancia de la salud, mediante la elaboración de proto-
+colos y guías de actuación, con la mirada puesta en implantar un modelo de
+vigilancia de la salud en el trabajo que sea eficaz para la prevención.
+El poder contar con criterios uniformes basados en la evidencia científica
+y la experiencia profesional de los participantes en los grupos de trabajo
+constituidos para su elaboración, permitirá alcanzar los objetivos de preven-
+ción de la enfermedad y promoción de la salud de las y los trabajadores.
+7
+
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar la
+salud de los trabajadores para detectar precozmente e individualizar los fac-
+tores de riesgo y deterioro que puedan afectar a la salud de los mismos», la
+recogida armonizada y periódica de datos sobre riesgos y enfermedades y
+su posterior análisis e interpretación sistemáticos con criterios epidemiológi-
+cos, constituye uno de los instrumentos con que cuenta la salud pública pa-
+ra poder identificar, cuantificar y priorizar, y por lo tanto, diseñar políticas de
+prevención eficaces.
+Para la elaboración de los protocolos, se constituyeron varios grupos de
+trabajo, que, coordinados por los representantes de las Comunidades Autó-
+nomas, permitiese la elaboración en paralelo de varios de ellos. Finalmente,
+una vez concluido el procedimiento interno de elaboración de los mismos,
+han sido sometidos a consulta y adecuadamente informados por Agentes
+Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Sociedades Científicas
+(SEMST, SEEMT, AEETSL, SESPAS y SEE), con cuyos representantes se
+mantuvieron reuniones al efecto, en el Ministerio de Sanidad y Consumo,
+habiéndose incorporado a la redacción final los comentarios recibidos que
+se consideró mejoraban el texto presentado.
+El que se presenta en este volumen proporciona a los profesionales impli-
+cados en la prevención de riesgos laborales, especialmente a los sanitarios,
+una guía de actuación para la vigilancia sanitaria específica de las y los tra-
+bajadores expuestos a Óxido de Etileno, que será revisado periódicamente,
+en la medida que así lo aconseje la evolución de la evidencia científica dispo-
+nible y su aplicación concreta en los centros de trabajo de nuestro país.
+José María Martín Moreno
+Director General de Salud Pública
+8
+
+SUMARIO 
+Págs.
+1. CRITERIOS DE APLICACIÓN.........................................................
+11
+2. DEFINICIÓN DEL PROBLEMA........................................................
+11
+2.1.
+DEFINICIONES Y CONCEPTOS............................................
+11
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS ...................................
+13
+2.3.
+MECANISMOS DE ACCIÓN ..................................................
+14
+2.4.
+EFECTOS SOBRE LA SALUD ...............................................
+15
+3. EVALUACIÓN DEL RIESGO............................................................
+17
+3.1.
+LÍMITES DE EXPOSICIÓN PROFESIONAL..........................
+18
+3.2.
+INDICES DE VALORACIÓN BIOLÓGICA...............................
+19
+4. PROTOCOLO MÉDICO ESPECÍFICO ............................................
+20
+4.1.
+HISTORIA LABORAL..............................................................
+20
+4.2.
+HISTORIA CLÍNICA................................................................
+20
+4.3.
+EXPLORACION CLÍNICA ESPECIFICA ................................
+21
+4.4.
+CONTROL BIOLÓGICO Y ESTUDIOS 
+COMPLEMENTARIOS ESPECIFICOS...................................
+21
+4.5.
+CRITERIOS DE VALORACION ..............................................
+22
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO ......
+22
+5.1.
+PERIODICIDAD ......................................................................
+22
+6. CONDUCTA A SEGUIR SEGÚN ALTERACIONES QUE SE 
+DETECTEN......................................................................................
+23
+9
+
+7. DATOS A REMITIR A LAS ADMINISTRACIONES SANITARIAS ....
+24
+8. ANÁLISIS DE RESULTADOS ..........................................................
+25
+LEGISLACIÓN APLICABLE ..................................................................
+25
+BIBLIOGRAFÍA......................................................................................
+26
+ANEXO I. HOJA DE RECOGIDA DE DATOS DEL TRABAJADOR
+EXPUESTO A ÓXIDO DE ETILENO.....................................................
+29
+10
+
+ÓXIDO DE ETILENO
+1. CRITERIOS DE APLICACIÓN
+El control médico que se especifica en este protocolo será de aplicación
+a los siguientes profesionales:
+•
+Personal de las fábricas de producción, incluido el personal de man-
+tenimiento de instalaciones y equipos de óxido de etileno.
+•
+Transportistas, los conductores de cisternas y camiones que realicen
+el transporte del producto, bien sea en granel o en botellas y que es-
+tén presentes en el momento de la carga.
+•
+Personal de centros de distribución, donde se envasa o manipula el
+producto para su distribución a consumidores finales.
+•
+Personal de centros de asistencia sanitaria, que trabaje en centrales
+de esterilización, como, entre otros, personal facultativo, ATS/DUE,
+auxiliares de clínica, personal subalterno, personal de limpieza, per-
+sonal de mantenimiento, etc.
+•
+Otras actividades u operaciones en las que exista riesgo de emisión
+de óxido de etileno al ambiente laboral.
+2. DEFINICIÓN DEL PROBLEMA 
+2.1. Definiciones y conceptos
+•
+Óxido de etileno (OE) producto resultante de la oxidación del etileno
+(eteno).
+11
+
+Su fórmula empírica es C2H4O
+H
+H
+|
+|
+Su fórmula desarrollada es
+H – C – C – H
+\
+/
+O
+Son sinónimos:
+— Dihidrooxireno
+— Oxido de dimetileno
+— 1,2-Epoxietano
+— Epoxietano
+— Oxido de eteno
+— EtO
+— ETO
+— Oxaciclopropano
+— Oxano
+— Oxidoetano
+— Oxirano
+Es un gas incoloro a temperatura ambiente, con olor a partir de concen-
+traciones de 700 ppm. parecido al éter, es soluble en disolventes orgánicos
+y miscible con agua a cualquier proporción, formando con ella un compues-
+to estable : el etilenglicol, (bajo ciertas condiciones; tiempo largo, presión y
+temperaturas altas). Es un líquido incoloro por debajo de su punto de ebulli-
+ción (10,5° C, rango de 10,4° C - 10,7° C), en forma de gas es inflamable
+cuando se le expone a fuentes de ignición en presencia de oxígeno.
+Se obtiene por oxidación catalítica con catalizador de plata.
+•
+Exposición a óxido de etileno. Presencia de óxido de etileno en el
+lugar de trabajo que implica el contacto de éste con el trabajador, por
+inhalación o vía dérmica, a cualquier cantidad o concentración y en
+cualquier forma del producto (pura, en disolución o en mezcla de
+cualquier tipo). Se considera exposición no sólo el contacto con los
+productos químicos en los que el OE esté presente, sino también el
+contacto con sustancias u objetos que lo puedan vehiculizar.
+•
+Actividad con óxido de etileno: Todo trabajo en el que se utilice
+óxido de etileno, o esté previsto utilizarlo, en cualquier proceso, in-
+12
+
+cluidos la producción, la manipulación, el almacenamiento, el trans-
+porte o la evacuación y el tratamiento, o en que se produzca como re-
+sultado de dicho trabajo.
+•
+Trabajo con riesgo de exposición, todo puesto de trabajo en el que
+se pueda producir exposición al OE, por motivos relacionados con la
+actividad laboral.
+•
+Personal expuesto profesionalmente, Se considera como personal
+con riesgo de exposición profesional a aquellas personas que traba-
+jan en puestos con riesgo de exposición. A fin de clasificar de forma
+correcta al personal, tratando de que el grupo de expuestos sea el
+más homogéneo posible, no se incluye como personal expuesto pro-
+fesionalmente a aquellas personas que, de forma temporal y durante
+menos de 2 meses, desempeñen puestos de trabajo con riesgo de
+exposición.
+•
+Nivel de acción una concentración de OE de 0,5 ppm (partes por
+millón) calculada para 8 horas diarias (OSHA Regulations Ethylene
+oxide 1996).
+•
+Límite de exposición diaria, será de un PEL-TWA (Time-Weighted
+Average, o Concentración ponderada máxima admisible) de 1 ppm
+reflejada en OSHA (Ocupational Safety & Health Administration), va-
+lor coincidente con el TLV-TWA de la ACGIH ( American Conference
+Governmental Industrial Hygienists) para el año 2000. En España re-
+presenta un VLA-ED (Valor Límite Ambiental - Exposición diaria para
+8 horas) de 1 ppm., según la publicación de límites de exposición
+profesional para agentes químicos del Instituto Nacional de Seguri-
+dad e Higiene en el Trabajo, (INSHT) del año 2002.
+2.2. Fuentes de exposición y usos 
+El óxido de etileno se utiliza casi exclusivamente en la industria, como
+materia prima para la elaboración de productos químicos orgánicos: etilen-
+glicol, detergentes no iónicos, fibras de poliéster, anticongelantes, etc.
+Otros usos son como antiemulsionante del petróleo, disolvente, propulsor
+de cohetes, algunos de cierta importancia son la fumigación de ciertos ma-
+teriales y como agente esterilizante del material médico-quirúrgico (sobre
+todo el termosensible, que no puede ser sometido a temperatura elevada)
+en la industria y los centros de atención sanitaria, siendo este último uso,
+aunque poco importante desde el punto de vista cuantitativo sobre el total
+13
+
+de óxido de etileno utilizado, el más repartido geográficamente debido a la
+dispersión asistencial de la sanidad.
+La industria transformadora es el principal consumidor de óxido de etile-
+no, aunque los niveles de exposición de los trabajadores se mantienen ba-
+jos debido a las condiciones de uso (al aire libre, en circuitos cerrados). En
+los centros de asistencia sanitaria, sin embargo, las condiciones de utiliza-
+ción (en el interior de los edificios, locales cerrados, ciclos abiertos) produ-
+cen unas condiciones de exposición diferentes, siendo además muchas las
+personas expuestas.
+La principal fuente de exposición en la industria son las operaciones de
+carga y descarga del OE en depósitos para su transporte y las operaciones
+de manejo de los contenedores (botellas, cartuchos, etc.) para su uso. En
+los centros de asistencia sanitaria, la principal fuente de exposición es la uti-
+lización de esterilizadores de OE, durante las operaciones de carga y des-
+carga (fundamentalmente ésta última) de los equipos y en el manejo de los
+contenedores de OE y los circuitos necesarios para su uso (conexión y des-
+conexión de botellas, etc.)
+Se debe de tener en cuenta en esta evaluación el OE endógeno, produci-
+do por el propio organismo a partir del etileno; en su producción influyen mu-
+chos factores como son: los hereditarios, las dietas pobres en selenio y ricas
+en grasas saturadas, la composición de la flora intestinal etc.
+2.3. Mecanismos de acción 
+Cinética y metabolismo
+El OE es muy soluble en sangre. Es rápidamente absorbido por vía inha-
+latoria, ya que es gas a temperatura ambiente, otra vía de entrada mucho
+menos importante y no cuantificable es la cutánea/mucosa cuando está en
+estado líquido a temperatura de +10°C. Se distribuye en el organismo con
+gran celeridad, siendo su vida media de 9-10 minutos y encontrándose las
+mayores concentraciones en hígado, riñón y pulmón. Se han identificado
+dos vías de metabolización, la hidrólisis a 1,2-etanodiol y la conjugación con
+glutatión, siendo su excreción principalmente por orina, en forma de meta-
+bolitos no específicos 
+La acción específica del óxido de etileno sobre materiales biológicos se
+debe a que es un agente alquilante particularmente activo. Esta acción se
+ejerce sobre aquellas moléculas susceptibles de alquilación, que son la ma-
+14
+
+yoría de las moléculas orgánicas (anillo de nitrógeno de las purinas y pirimi-
+dinas y con los grupos amino de los aminoácidos y de las proteinas). La al-
+quilación representa la sustitución de un átomo de hidrógeno por un radical
+hidroxietileno, modificando la estructura molecular de las proteínas, DNA,
+RNA y lípidos de los microorganismos, puesto que se bloquean puntos mo-
+leculares críticos que incapacitan a las moléculas para intervenir en los pro-
+cesos metabólicos y reproductores, produciéndose la muerte de la célula de
+ahí su uso como esterilizante/desinfectante.
+2.4. Efectos sobre la salud 
+2.4.1. Toxicidad experimental (animales)
+En estudios experimentales sobre ratas y ratones, el OE ha mostrado
+una gran capacidad de inducción de un amplio número de tumores en diver-
+sas localizaciones, tumores de estómago, pulmón/bronquio, útero, mama,
+linfomas, leucemias, tumores del SNC, mesoteliomas, sarcomas, etc.
+Los estudios en estos mismos animales, así como en el conejo, no
+muestran tanta concordancia en cuanto a sus efectos teratogénicos, aun-
+que éstos se han observado en condiciones muy extremas (altísimas con-
+centraciones ambientales en el momento de la fecundación, inyección in-
+travenosa de OE).
+2.4.2. Toxicidad para el hombre
+a) Aguda y subaguda
+Fuertemente irritante local con un periodo de latencia de unas horas pa-
+ra los ojos y la piel. En los ojos, las lesiones pueden ser irreversibles y a
+grandes concentraciones puede producir cataratas.
+La exposición por inhalación puede provocar:
+—
+Irritación de vías respiratorias: disnea, cianosis, incluso edema pul-
+monar.
+—
+Trastornos en el aparato digestivo: náuseas, vómitos y diarreas.
+—
+Trastornos neurológicos: cefaleas, somnolencia, incoordinación.
+Exposiciones repetidas pueden producir dermatosis alérgicas, siendo és-
+tas poco frecuentes, también pueden dar reacciones de sensibilización
+15
+
+A concentraciones moderadamente altas se han descrito casos de poli-
+neuritis sensitivo-motoras y alteraciones del sistema neurovegetativo.
+b) Efectos cancerígenos y mutagénicos 
+Hoy en día se considera que existe una evidencia suficiente para consi-
+derar el OE como cancerígeno en humanos, siendo incluidos, hasta el mo-
+mento, en el grupo 1 de la IARC (International Agency for Research on Can-
+cer), clasificación de 1998.
+El documento guía del INSHT sobre límite de exposición profesional a
+agentes químicos en España del año 2002, al que ya hemos hecho referen-
+cia considera al OE como sustancia carcinógena de 2ª categoría (C2) por
+disponer de suficientes elementos que suponen que la exposición del hom-
+bre a tales sustancias puede producir cáncer, dicha presunción se basa en
+estudios apropiados a largo plazo en animales y en otros tipos de estudios.
+Los estudios epidemiológicos realizados sobre personal profesionalmen-
+te expuesto al OE, incluyendo personal de las centrales de esterilización de
+los hospitales y personal de industrias químicas con exposición profesional,
+encuentran una asociación entre la exposición a OE y los tumores de origen
+linfoide y hematopoyético, fundamentalmente con la leucemia linfoide y los
+linfomas no Hodgkin, y en algunos de estos estudios encuentran además
+una asociación con el cáncer de estómago.
+El óxido de etileno es una sustancia que puede considerarse mutágena
+para el hombre, definida por el INSHT como M2, pues al ser un agente al-
+quilante:
+—
+Induce un incremento en la frecuencia de aberraciones cromosómi-
+cas (relacionado con la dosis) y de intercambio de cromátides her-
+manas en linfocitos de sangre periférica y de micronúcleos en células
+de médula ósea en personas expuestas
+—
+Induce un incremento en la frecuencia de aductos de la hemoglobina
+(relacionado con la dosis) en personas expuestas
+—
+Posee una elevada capacidad mutagénica
+c) Abortos espontáneos
+Diversos estudios epidemiológicos han observado una asociación entre
+la exposición profesional a OE y el riesgo de aborto.
+16
+
+3. EVALUACIÓN DEL RIESGO 
+La aplicación de la Ley 31/1995, de 8 de noviembre de Prevención de
+Riesgos Laborales, contempla dentro de su artículo 15 —Principios de la
+acción preventiva—, que todas las empresas realizarán evaluaciones de
+riesgos laborales como método que permita la estimación de la magnitud
+del riesgo y la adecuada planificación preventiva empresarial, dentro de las
+medidas que integran su deber general de prevención de riesgos laborales.
+Para la evaluación del riesgo de exposición al óxido de etileno se debe de
+considerar la Directiva del Consejo 98/24/CE relativa  a la protección de la
+salud y la seguridad de los trabajadores contra los riesgos relacionados con
+los agentes químicos durante el trabajo y el Real Decreto 374/2001, de 6 de
+abril, que lo transpone a la legislación nacional así como la Directiva del
+Consejo 90/394/CEE relativa a la protección de los trabajadores contra los
+riesgos relacionados con la exposición a agentes cancerígenos durante el
+trabajo y el Real Decreto 665/1997, de 12 de Mayo, que lo traspone a la le-
+gislación nacional, así como su posterior modificación recogida en el Real
+Decreto 1124/2000, de 16 de junio, y que recoge esta sustancia en el art. 2
+apartado a), basándose en la normativa relativa a clasificación, envasado y
+etiquetado de sustancias y preparados peligrosos Real decreto 363/1995 de
+10 de marzo, en el anexo VI, apartado 4.2.1 en sustancias cancerígenas,
+además es considerada dentro del grupo 1 de la clasificación de la IARC ya
+mencionada.
+Según lo dispuesto en el Real Decreto 374/2001, la evaluación de ries-
+gos debe de contemplar las obligaciones del empresario recogidas en el artº
+3, así como el contenido del citado Real Decreto 665/1997, la evaluación
+deberá referirse al grado y duración de la exposición de los trabajadores, te-
+niendo en cuenta especialmente:
+—
+Toda vía de entrada al organismo o tipo de exposición.
+—
+Los posibles efectos sobre la seguridad o la salud de los trabajadores
+especialmente sensibles.
+La evaluación deberá mantenerse actualizada, revisándose cada vez que
+se produzca un cambio en las condiciones de trabajo que puedan afectar a
+la exposición de los trabajadores o se detecten alteraciones en su salud o
+en los controles periódicos incluidos en la vigilancia de la salud.
+17
+
+3.1. Límites de exposición profesional
+La normativa comunitaria no contempla actualmente un criterio de valo-
+ración de la exposición ambiental al óxido de etileno.
+a) Valores para 8 horas/día
+La normativa nacional de acuerdo con el Real Decreto 39/1997, de 17 de
+enero, Reglamento de los Servicios de Prevención y en referencia al conte-
+nido del artículo 5, apartado 3, relativo al procedimiento a establecer sobre
+la evaluación de riesgos, se debe de recurrir a lo dispuesto en el artº 3.4 b
+que se refiere al valor límite ambiental, establecido por el Instituto Nacional
+de Seguridad e Higiene en el Trabajo cuya aplicación es recomendada por la
+Comisión Nacional de Seguridad y Salud en el Trabajo, y que referido al OE,
+es de VLA-ED(valor límite de exposición diaria) para el año 2002, de 1ppm o
+1,8 mg/m3.
+El valor referido de 1 ppm puede aceptarse como adecuado para el cum-
+plimiento del Real Decreto 665/1997,de 12 de Mayo relativo a la protección
+de los trabajadores contra los riesgos relacionados con la exposición a
+agentes cancerígenos durante el trabajo, si bien se garantizará que el nivel
+de exposición de los trabajadores se reduzca a un valor tan bajo como sea
+técnicamente posible.
+Como complemento de la valoración ambiental del OE, se pueden consi-
+derar otros criterios de reconocido prestigio internacional, como:
+—
+La ACGIH (American Conference of Governmental Industrial Hygie-
+nists) de EEUU establece un valor TLV-TWA (Threshold Limit Va-
+lues/Time-Weighted Average) de 1 ppm (1,8 mg/m3), como concen-
+tración promedio permitida para 8 horas/día y 40 horas semanales.
+—
+La OSHA de EEUU recomienda un límite de exposición (PEL) inferior
+a 0,1 ppm para 8 horas diarias de exposición
+—
+Las normas GOST de Rusia establecen como valor permitido en am-
+bientes laborales 0,5 ppm para 8 horas /día.
+—
+La mayoría de los países europeos como Francia, Alemania, Italia,
+Gran Bretaña, Dinamarca, Suecia… disponen de un límite de exposi-
+ción laboral para 8 horas/día, comprendido entre 1 y 5 ppm.
+18
+
+b) Periodos de tiempo cortos o situaciones que reflejen valores
+máximos que no deben de superarse en ningún momento de la
+exposición laboral
+Por consiguiente, los valores de techo o límites para cortos periodos de
+exposición que deben aplicarse según el criterio de la INSHT para el OE
+que no dispone de valor VLA-EC,( Valores límite ambientales - Exposición
+de corta duración) será el considerado como límite de desviación, de tal ma-
+nera que no debe de superar la concentración de 3 ppm durante más de 30
+minutos en una jornada de trabajo y bajo ninguna circunstancia la concen-
+tración de 5 ppm. estos límites de desviación, reflejan los mismos valores de
+concentración que los recogidos por la ACGIH para el año 2002. Valores de
+referencia en tanto no se publiquen los actualizados correspondientemente.
+Otros países como Francia establecen valores de corta duración de 10
+ppm o Gran Bretaña con un valor referido a 10 minutos de 15 ppm.
+NIOSH (National Institute for Occupational Safety and Health) considera
+un valor techo de 5 ppm con un tiempo de exposición de 10 minutos por jor-
+nada de trabajo. Este mismo valor es considerado por la OSHA pero am-
+pliando el tiempo de exposición a 15 minutos.
+c) Método de toma de muestra y análisis ambiental
+Existen gran variedad de métodos para la detección y medición de OE en
+el medio ambiente laboral. El método aceptado por el INSHT se basa en la
+determinación ambiental mediante muestreadores pasivos por la difusión y
+cromatografía de gases (MTA/MA-022/A91), este método permite detectar
+el óxido de etileno en un intervalo de concentración de 2 Fµ/l a 3200 Fµ/l.
+3.2. Indices de valoración biológicos
+El control biológico proporciona un medio para valorar la exposición de
+los trabajadores a los productos químicos presentes en el ambiente. Para
+ello se consideran los determinantes de los especímenes biológicos toma-
+dos al trabajador a un tiempo determinado. Estos determinantes biológicos
+pueden ser la misma sustancia química o sus metabolitos o un cambio bio-
+químico reversible característico inducido por la sustancia. La medida puede
+realizarse en el aire exhalado, en la orina, en la sangre o en otros especí-
+menes biológicos tomados al trabajador resultando una evaluación que pue-
+de indicar la intensidad de la exposición reciente, la exposición media diaria
+o la exposición crónica acumulativa, pero lamentablemente la ACGIH no
+19
+
+contempla ningún valor BEI para el óxido de etileno, por tanto no existe un
+método simple para esta determinación biológica, sin embargo diversos es-
+tudios se dirigen a la aplicación de métodos basados en la reactividad del
+OE con aminoácidos.
+4. PROTOCOLO MÉDICO ESPECÍFICO 
+4.1. Historia laboral
+4.1.1. Exposiciones anteriores (anamnesis laboral)
+—
+Sustancias químicas y/o potencialmente cancerígenas (OE, radiacio-
+nes ionizantes, citotóxicos, gases, etc.).
+—
+Cuantificación del tiempo de exposición.
+—
+Exposición accidental a sustancias químicas.
+—
+Cambio de trabajo y/o ocupación por motivos de salud.
+—
+Medidas de protección utilizadas.
+4.1.2. Exposición actual al riesgo
+—
+Fecha de inicio.
+—
+Exposición a otros agentes simultáneamente.
+—
+Cuantificación del tiempo de exposición.
+—
+Rotación en las tareas de máxima exposición (si, no).
+—
+Medidas de protección utilizadas.
+—
+Períodos de sobre exposición en ese año por accidentes u otras causas.
+4.2. Historia clínica
+4.2.1. Anamnesis
+a) Antecedentes familiares
+—
+Alteraciones congénitas.
+—
+Tumores.
+—
+Diabetes.
+20
+
+b) Antecedentes personales
+—
+Alteraciones relacionadas con la descendencia (abortos, infertilidad,
+alteraciones congénitas).
+—
+Enfermedad respiratoria, neurológica, ocular, dermatitis, alergia, as-
+ma, alteraciones gastrointestinales, anemias.
+—
+Hábito tabáquico .
+c) Tratamientos previos o actuales
+—
+Citotóxicos.
+—
+Radioterapia.
+4.3. Exploración clínica específica
+Exploración general centrada en los posibles efectos de una exposición
+aguda o crónica.
+Especial atención en alteraciones oculares, piel (dermatitis, irritación o
+sensibilización), aparato respiratorio, sistema neurológico, aparato digestivo.
+4.4. Control biológico y estudios complementarios específicos
+a) Hemograma con recuento incluyendo
+—
+Serie roja, índices eritrocitarios, hemoglobina, hematocrito.
+—
+Serie blanca, con recuento diferencial.
+—
+Plaquetas.
+b) Bioquímica sanguínea
+—
+Glucemia.
+—
+Parámetros hepáticos(GGT, GOT, GPT, Fosfatasa alcalina).
+—
+Parámetros renales (creatinina y urea).
+c) Orina
+—
+Densidad.
+—
+Sedimento
+21
+
+d) Estudios complementarios 
+En aquellos casos que el médico lo estime conveniente podrá solicitar
+estudios adicionales como:
+—
+Radiografía de tórax.
+—
+Estudio de función respiratoria.
+—
+Estudios de fertilidad.
+—
+Estudios citogenéticos, como análisis de intercambio de cromátides
+hermanas, y proliferación micronucleica en linfocitos sanguíneos.
+—
+Aductos de hemoglobina.
+Todos estos estudios se podrán o no implantar dependiendo de las ca-
+racterísticas del Servicio de Prevención.
+4.5. Criterios de valoración
+En el caso de detectar alteraciones en los estudios realizados, se hará
+una valoración detallada teniendo en cuenta la valoración global que en el
+caso necesario se completará con la consulta de otros especialistas.
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+MÉDICO ESPECÍFICO 
+5.1. Periodicidad
+Basándonos en el artículo 8 del Real Decreto 665/1997 sobre la protec-
+ción de los trabajadores contra los riesgos relacionadas con la exposición a
+agentes cancerígenos durante el trabajo y en el artículo 37 del Reglamento
+de los Servicios de Prevención se realizarán los siguientes reconocimientos:
+—
+Antes de la exposición, o sea uno inicial.
+—
+A intervalos regulares en lo sucesivo, la periodicidad de los exáme-
+nes de salud a que deberán ser sometidos los colectivos profesional-
+mente expuestos estará en función del nivel de exposición y si bien
+podrá ser aumentada a criterio del médico del trabajo, será como mí-
+nimo la siguiente:
+22
+
+a) Anual para aquellos trabajadores que estén o puedan estar ex-
+puestos a OE por encima del nivel de acción establecido (definido
+en el apartado 2.1), al menos 30 días/año.
+b) Cada 2 años para el resto de trabajadores expuestos.
+—
+Cuando sea necesario por haberse detectado en algún trabajador
+de la empresa, con exposición similar, algún trastorno que puede de-
+berse a la exposición a agentes cancerígenos.
+—
+Tras asignación de tareas específicas que impliquen exposición al
+OE.
+—
+Tras ausencia prolongada por motivos de salud de trabajadores
+expuestos al OE
+6. CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN 
+Se considerará no apto al trabajador con:
+—
+Historia de tumores malignos actual o previa
+—
+Historia de asma o dermatitis atópica al óxido de etileno valorada por
+un especialista (se valorara parámetros)
+Se considerará personal susceptible de un no apto temporal a las traba-
+jadoras embarazadas, las de edad fértil con intención de procrear y las que
+se hallen en periodo de lactancia.
+Según esta clasificación la acción posterior será:
+—
+Trabajadores expuestos, información del riesgo.
+—
+Trabajador no apto temporal, información del riesgo y de la no apti-
+tud temporal, se realizara un Estudio de embarazadas: Partiendo
+de la evaluación inicial del riesgo, se identificarán los puestos con
+riesgo para la reproducción. Una vez se notifique voluntariamente la
+situación de embarazo, se realizará una evaluación adicional de las
+condiciones de trabajo de esa trabajadora, en el caso de presentar
+riesgo para el embarazo se deberá realizar un cambio de puesto de
+trabajo, según el artículo 26 apartado 2 de la LPRL (Ley de Preven-
+ción de Riesgos laborales).En caso de que dicho cambio de puesto
+por otro compatible con ese estado, no resulte técnica u objetiva-
+mente posible, o no pueda razonablemente exigirse por motivos justi-
+23
+
+ficados, se debería de considerar la posibilidad de situación protegi-
+da de riesgo durante el embarazo.
+—
+Trabajador no apto permanente, intentar la readaptación.
+INFORMACIÓN A LOS TRABAJADORES
+La información a los trabajadores se basará en el Artículo 11 del Real
+Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores
+contra los riesgos relacionados con la exposición a agentes cancerígenos
+durante el trabajo que contendrán en forma de instrucciones:
+a)
+Los riesgos potenciales para la salud, incluidos los riesgos adiciona-
+les debidos al consumo de tabaco.
+b)
+Las precauciones que se deberán tomar para prevenir la exposición.
+c)
+Las disposiciones en materia de higiene personal.
+d)
+La utilización y empleo de equipos y ropa de protección.
+e)
+Las consecuencias de la selección, de la utilización y del empleo de
+equipos y ropa de protección.
+f)
+Las medidas que deberán adoptar los trabajadores, en particular el
+personal de intervención, en caso de incidente y para la prevención
+de incidentes.
+Y según el Apartado 5 los trabajadores tendrán acceso a la información
+contenida en la documentación a que se refiere el artículo 9 (referentes a los
+historiales médicos) cuando dicha información les concierna a ellos mismos.
+Asimismo, los representantes de los trabajadores o, en su defecto, los pro-
+pios trabajadores tendrán acceso a cualquier información colectiva anónima.
+7. DATOS A REMITIR A LAS ADMINISTRACIONES SANITARIAS 
+Debe constar el contenido del documento del Conjunto Mínimo de Datos
+que los Servicios de Prevención deben remitir alas autoridades laborales
+aprobado por la Comisión de Salud Pública en fecha 17 de Diciembre de
+1998, con:
+—
+La ficha 1.- Datos Generales del Centro de Trabajo,
+—
+La ficha 2.- Factores de riesgo laborales y nº de trabajadores ex-
+puestos 
+24
+
+—
+La ficha 3.- Hoja de notificación de casos de Enfermedades Labora-
+les y de Enfermedades relacionadas con el trabajo.
+Según el artículo 9 del RD 665/1997, sobre agentes cancerígenos, el his-
+torial médico se conservará durante 40 años después de terminada la expo-
+sición.
+8. ANALISIS DE RESULTADOS
+La información relativa a la vigilancia de la salud de los trabajadores ex-
+puestos, junto con la evaluación de los riesgos, deberá ser analizada con
+criterios epidemiológicos por el personal sanitario responsable que, a su
+vez, colaborará con el resto de los componentes del Servicio de Prevención
+a fin de investigar y analizar las posibles relaciones entre la exposición al OE
+y las alteraciones detectadas y proponer medidas encaminadas a mejorar
+las condiciones y medio ambiente de trabajo. (RD 39/1997 Reglamento Ser-
+vicios de Prevención art. 37 apdo. 3 f).
+LEGISLACIÓN APLICABLE
+•
+Directiva 89/391/CEE, de 12 de junio, relativa a las medidas para pro-
+mover la mejora de la seguridad y la salud de los trabajadores en el tra-
+bajo (Directiva marco en materia de seguridad y salud en el trabajo).
+•
+Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Labora-
+les, BOE nº269, de 10 de noviembre de 1995.
+•
+Real Decreto 39/1997, de 17 de enero por el que se aprueba el Re-
+glamento de los Servicios de Prevención, BOE nº27 de 31 de enero
+de 1997.
+•
+Directiva 90/394/CEE, de 28 de junio relativa a la Protección de los
+Trabajadores contra los Riesgos relacionados con la Exposición a
+Agentes Cancerígenos durante el Trabajo del DO L. 196/1 del 26 de
+julio de 1990.
+•
+Real Decreto 665/1997 de 12 de mayo, sobre la Protección de los
+Trabajadores contra los Riesgos relacionados con la Exposición a
+Agentes Cancerígenos durante el Trabajo. BOE nº 124 de 24 de ma-
+yo de 1997.
+•
+Real Decreto 1124/2000 de 16 de junio, que modifica el Real Decre-
+to 665/1997 de 12 de mayo, sobre la Protección de los Trabajadores
+25
+
+contra los Riesgos relacionados con la Exposición a Agentes Cance-
+rígenos durante el trabajo. BOE nº 145 de 17 de junio de 2000.
+•
+Directiva 98/24/CE del Consejo relativa a la protección de la salud y
+la seguridad de los trabajadores contra los riesgos relacionados con
+los agentes químicos durante el trabajo.
+•
+Real Decreto 363/1995, del 10 de marzo de 1995, Clasificación, En-
+vasado y Etiquetado de Sustancias y Preparados Peligrosos, BOE
+nº133, supl. del 5 de junio de 1995.
+•
+Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud
+y seguridad de los trabajadores contra los riesgos relacionados con
+los agentes químicos durante el trabajo. BOE nº104, de 1 de mayo de
+2001.
+BIBLIOGRAFIA
+1. Real Decreto 379/2001, de 6 de abril, por el que se aprueba el Regla-
+mento de almacenamiento de productos químicos- ITC MIE APQ – 002:
+Oxido de etileno. BOE nº 112 de 10 de mayo 2001.
+2. Brashear A. Unverzagt FW, farber MO, Bonnin JM, García JGN, Grober
+E. Ethylene oxide neurotoxicity: a cluster of 12 nurses with peripheral
+and central nervous system neurotoxicity. Neurology 1996; 46: 992-8.
+3. Bolt HM, Quantification of endogenous carcinogens.The ethylene oxide
+paradox. Biochem Pharmacol 1996; 52 (1): 1-5.
+4. Ehrenberg L, Törnqvist M. The research background for risk assesment
+of ethylene oxide: aspects of dose. Mutat Res 1995; 330: 41-54.
+5. Gestal Otero JJ, Barros Dios JM. Öxido de etileno. En: Gestal Otero
+JJ(d). Riesgos del trabajo del personal sanitario (2ª ed.). Interamerica-
+na-Mc Graw Hill. Madrid 1993: 223-31.
+6. Guía técnica sobre definiciones y conceptos relacionados con los lími-
+tes de exposición profesional españoles. Documento GET/LEP Nº 1.
+1998-01-28. INSHT.
+7. IARC. Monographs on the evaluation of the carcinogenic risks to hu-
+mans. Genetic and related efects: an updating of selected IARC Mono-
+graphs from volumes 1 to 42. Suplement 6. Lyon: International Agency
+for Research on Cancer, 1987.
+26
+
+8. La Montagne A, Utility of the complete blood count in routine medical
+surveillance for ethylene oxide exposure.American Journal of Industrial
+Medicine.1993; 24: 191-206.
+9. La Montagne AD, Mangione TW, Christiani DC, Kelsey KT. Medical sur-
+veillance for ethylene oxide exposure: practices and clinical findings in
+Massachusetts hospitals. JOEM 1996; 38 (2): 144-54.
+10. La Montagne AD, Rima ER, Mangione TW, Kelsey KT. Determinants of
+the provision of ethylene oxide medical surveillance in Massachusets
+hospitals. JOEM 1996; 38 (2): 155-68.
+11. Marc. J. Lefévre. First Aid manual for chemical accidents for use with
+non pharmaceutical chemicals.
+12. Natarajan AT, Preston RJ, Dellarco V et al. Ethylene oxide: evaluation of
+genotoxicity data and an exploratory assesment of genetic risk. Mutat
+Res 1995; 330: 55-70.
+13. Nico J van Sittert, Gerard DJ, Beulink et al. Monitoring occupational Ex-
+posure to Ethylene oxide by the determination of Hemoglobin
+Adducts.Environmental Health Perspectives.1993; 99: 217-220.
+14. Norman SA, Berlin JA, Soper KA, Middendorf BF, Stolley PD. Cancer in-
+cidence in a group of workers potentially exposed to ethylene oxide. Int
+J Epidemiol 1995; 24 (2): 276-84.
+15. OSHA Regulations Ethylene oxide 1996.
+16. Steenland Kyle, Ph D et al. Mortality among workers exposed to ethyle-
+ne oxide.The new england journal of medicine. 1991; May (Vol. 324 nº
+20): 1.402-1.407.
+17. Törnqvist M. Ethylene oxide as a biological reactive intermediate of en-
+dogenous origin. En : Snyder R et al. (eds). Biological Reactive Interme-
+diates V. Plenum Press, New York, 1996: 275-83.
+18. Viciola García M. Protocolo sanitario de vigilancia médica de los traba-
+jadores expuestos a óxido de etileno. En : Eguileor Gurtubai I (d.). Salud
+laboral: Protocolos sanitarios específicos de vigilancia médica de los
+trabajadores (IV). Servicio Central de Publicaciones del Gobierno Vas-
+co. Vitoria-Gasteiz, 1993: 47-105.
+27
+
+
+ANEXO I
+HOJA DE RECOGIDA DE DATOS DEL TRABAJADOR EXPUESTO A
+ÓXIDO DE ETILENO    
+Datos del reconocimiento
+Tipo de examen ......................................
+Fecha............de .......................de...........
+Médico.....................................................
+Nº de colegiado .......................................
+Datos personales
+Apellidos .........................................................................................................
+Nombre ...........................................................................................................
+Sexo ........................................................
+Fecha de nacimiento ...............................
+Domicilio .........................................................................................................
+Localidad.........................................................................................................
+Provincia .........................................................................................................
+Datos de la empresa
+Nombre de la empresa ...................................................................................
+CNAE ......................................................
+Centro de trabajo.....................................
+Teléfono...................................................
+Localidad.........................................................................................................
+Provincia .........................................................................................................
+29
+
+Datos del puesto de trabajo actual
+Tipo .................................................................................................................
+Fecha de inicio.........................................Años de antigüedad.......................
+Exposición a otros agentes simultáneamente.................................................
+Tiempo de exposición ( días al año) ...............................................................
+¿Realiza rotación en las tareas de máxima exposición? ( conteste si/no) .....
+Medidas de protección utilizadas....................................................................
+Datos de puestos anteriores con empleo de óxido de etileno
+Años expos..............................................
+h/manejo/semana....................................
+Uso de sustancias químicas y/o potencialmente cancerígenas .....................
+Años expos..............................................
+h/manejo/semana....................................
+Uso de sustancias químicas y/o potencialmente cancerígenas .....................
+Años expos..............................................
+h/manejo/semana....................................
+Uso de sustancias químicas y/o potencialmente cancerígenas .....................
+Años expos..............................................
+h/manejo/semana....................................
+Uso de sustancias químicas y/o potencialmente cancerígenas .....................
+Exposición accidental a sustancias químicas .................................................
+Cambio de trabajo y/o ocupación por motivos de salud .................................
+Antecedentes de interés
+Familiares
+Alteraciones congénitas..................................................................................
+Tumores...................................................
+Diabetes ..................................................
+Personales
+Alteraciones relacionadas con la descendencia:
+Alteraciones congénitas.........................................................................
+Abortos ..................................................................................................
+Infertilidad ..............................................................................................
+Enfermedades respiratorias............................................................................
+Enfermedades neurológicas ...........................................................................
+Enfermedades oculares ..................................................................................
+30
+
+Dermatitis........................................................................................................
+Alergias ...........................................................................................................
+Asma...............................................................................................................
+Alteraciones gastrointestinales .......................................................................
+Anemias ..........................................................................................................
+Hábito tabáquico .............................................................................................
+Tratamientos previos o actuales
+Citotóxicos ......................................................................................................
+Radioterapia....................................................................................................
+Exploración clínica específica
+Exploración general, observaciones ...............................................................
+Examen oftalmológico.....................................................................................
+Examen dermatológico ...................................................................................
+Otras exploraciones, ap. respiratorio, digestivo, neurológico ..........................
+Controles biológicos
+Hemograma
+Recuento de hematies ............................ millones/dl
+Hematocrito............................................. %
+Hemoglobina ........................................... g/dl
+Indices eritrocitarios
+HCM............................................... pg
+CHCM ............................................ g/dl
+VCM ............................................... fl
+Recuento de leucocitos........................... mil/ml
+Fórmula leucocitaria
+Neutrófilos...................................... %
+Basófilos......................................... %
+Eosinófilos...................................... %
+Monocitos....................................... %
+Linfocitos ........................................ %
+Plaquetas ................................................ /mm3
+Bioquímica
+Glucemia ................................................. mg/dl
+Alanina transferasa(ALT/GPT)................. u.i.
+Aspartato transferasa(AST/GOT)............ u.i.
+glutamiltranspeptidasa(GT) ..................... u.i.
+31
+
+Fosfatasa alcalina.................................... u/l
+Creatinina................................................ mg/dl
+Urea......................................................... mg/dl
+Orina
+Densidad .................................................
+Sedimento ...............................................
+Estudios complementarios, a criterio médico 
+Radiografía de tórax........................................................................................
+Estudio de función respiratoria .......................................................................
+Test de embarazo............................................................................................
+Estudios de fertilidad.......................................................................................
+Estudios citogenéticos ....................................................................................
+Aductos de hemoglobina ................................................................................
+Determinación ambiental
+Sistema de determinación ..............................................................................
+Lugar de colocación........................................................................................
+Control ambiental:
+Fecha............................. Zona ......................... Valor ........................ ppm.
+Fecha............................. Zona ......................... Valor ........................ ppm.
+Fecha............................. Zona ......................... Valor ........................ ppm.
+Fecha............................. Zona ......................... Valor ........................ ppm.
+Fecha............................. Zona ......................... Valor ........................ ppm.
+32

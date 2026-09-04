@@ -1,0 +1,5196 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA 
+DERMATOSIS LABORALES 
+COMISIÓN DE SALUD PÚBLICA 
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD 
+
+El Consejo Interterritorial del Sistema Nacional de Salud aprueba el 
+ "Protocolo de Vigilancia Sanitaria Específica para los trabajadores 
+ expuestos a Dermatosis Laborales” en la reunión de su Comisión
+Delegada de 25 de febrero de 2003. 
+2
+
+COMISIÓN DE SALUD PÚBLICA 
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE SALUD PÚBLICA 
+DEL CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD 
+COORDINACIÓN DEL PROTOCOLO
+DEPARTAMENTO DE SALUD DEL GOBIERNO DE NAVARRA. 
+INSTITUTO NAVARRO DE SALUD LABORAL.
+AUTORES
+María Eugenia Iglesias Zamora. NORLABOR. Pamplona. 
+Con el apoyo del equipo de desarrollo NORLABOR y la colaboración de Mutua Navarra. 
+Con el asesora miento técnico del  Dr. Luis Conde Salazar y Dr. Félix Robledo Muga. Con 
+el Dr. Conde han colaborado los MIR de la especialidad siguientes: Clara Iglesias 
+Hernández, Leonardo Barco Nebreda, Berta Pérez Tato y Rafael Carmena Ramón. 
+GRUPO DE TRABAJO DE SALUD LABORAL
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid. 
+Félix Robledo Muga. Ministerio de Sanidad y Consumo. Madrid. 
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra. 
+Esther Busquets Bou. Consejeria de Sanidad y Seguridad Social.Cataluña. 
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa Maria Campos Acedo. Consejería de Sanidad y Consumo. Extremadura.
+Rosario Castañeda López. Consejeria de Sanidad. Madrid. 
+Rafael Castells Salvá. Consejeria de Sanidad y Consumo. Islas Baleares. 
+Juan Carlos Coto Fernández. Instituto Vasco  de Seguridad y Salud Laboral. País Vasco. 
+Mercedes Elvira Espinosa. Consejería de Sanidad y Bienestar Social. Castilla y León. 
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias. 
+Valentín Esteban Buedo. Consejería de Sanidad. Valencia. 
+Fernando Galvañ Olivares. Consejería de Sanidad y Consumo. Murcia. 
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra. 
+Francisco Javier González-Mesones Calderón. Consejería de Sanidad, Consumo y 
+Servicios Sociales. Cantabria. 
+Isabel González García. Consejería de Sanidad y Servicios Sociales.Galicia. 
+Asunción Guzmán Fernández. Consejería de Salud y Servicios Sanitarios. Asturias. 
+Nieves Martínez Arguisuelas. Consejería de Salud, Consumo y Servicios Sociales. 
+Aragón.
+Margarita Medina Vinuesa. Consejería de Sanidad, Consumo y Deportes. Ceuta. 
+Lourdes Miralles Martínez-Portillo. Consejería de Salud, y Servicios Sociales. La Rioja. 
+Alberto Montilla Sanchez de Navas. Consejería de Sanidad. Castilla-La Mancha. 
+3
+
+Director General de Salud Pública del Ministerio de Sanidad y Consumo 
+José María Martín Moreno 
+Subdirector General de Sanidad Ambiental y Salud Laboral
+Francisco Marqués Marqués 
+4
+
+PRESENTACIÓN
+Este volumen pertenece a la serie "Protocolos de Vigilancia Sanitaria", editados por 
+el Ministerio de Sanidad y Consumo y fruto del trabajo desarrollado por las 
+Administraciones Sanitarias a través del Grupo de Trabajo de Salud Laboral de la 
+Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud, 
+como contribución a las actividades de prevención de riesgos laborales en nuestro país. 
+El nuevo marco normativo en materia de prevención de riesgos laborales (Ley 
+31/1995, de 8 de noviembre, y normas de desarrollo) supone, entre otras cuestiones, que 
+debe cambiar radicalmente la práctica de los reconocimientos médicos que se realizan a 
+las y los trabajadores. De ser exámenes médicos inespecíficos, cercanos a los clásicos 
+chequeos o cribados de carácter preventivo general, deben pasar a ser periódicos, 
+específicos frente a los riesgos derivados del trabajo, con el consentimiento informado del 
+trabajador, y no deben ser utilizados con fines discriminatorios ni en perjuicio del 
+trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigilancia periódica 
+de su salud, incluso prolongándola más allá de la finalización de la relación laboral en 
+algunos supuestos, la ley encomienda a las administraciones sanitarias la tarea de dar 
+homogeneidad y coherencia a los objetivos y contenidos de la vigilancia de la salud, 
+mediante la elaboración de protocolos y guías de actuación, con la mirada puesta en 
+implantar un modelo de vigilancia de la salud en el trabajo que sea eficaz para la 
+prevención.
+El poder contar con criterios uniformes basados en la evidencia científica y la 
+experiencia profesional de los participantes en los grupos de trabajo constituidos para su 
+elaboración, permitirá alcanzar los objetivos de prevención de la enfermedad y promoción 
+de la salud de las y los trabajadores. 
+Efectivamente, ya establecido en la Ley General de Sanidad: "Vigilar la salud de los 
+trabajadores para detectar precozmente e individualizar los factores de riesgo y deterioro 
+que puedan afectar a la salud de los mismos", la recogida armonizada y periódica de 
+datos sobre riesgos y enfermedades y su posterior análisis e interpretación sistemáticos 
+con criterios epidemiológicos, constituye uno de los instrumentos con que cuenta la salud 
+pública para poder identificar, cuantificar y priorizar, y por lo tanto, diseñar políticas de 
+prevención eficaces. 
+Para la elaboración de los protocolos, se constituyeron varios grupos de trabajo, 
+que, coordinados por los representantes de las Comunidades Autónomas, permitiese la 
+elaboración en paralelo de varios de ellos. Finalmente, una vez concluido el procedimiento 
+interno de elaboración de los mismos, han sido sometidos a consulta y adecuadamente 
+informados por Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Sociedades 
+Científicas (SEMST, SEEMT, AEETSL, SESPAS y SEE), con cuyos representantes se 
+mantuvieron reuniones al efecto, en el Ministerio de Sanidad y Consumo, habiéndose 
+incorporado a la redacción final los comentarios recibidos que se consideró mejoraban el 
+texto presentado.
+5
+
+El que se presenta en este volumen proporciona a los profesionales implicados en 
+la prevención de riesgos laborales, especialmente a los sanitarios, una guía de actuación 
+para la vigilancia sanitaria específica de las y los trabajadores con dermopatías de origen 
+laboral, que será revisado periódicamente, en la medida que así lo aconseje la evolución 
+de la evidencia científica disponible y su aplicación concreta en los centros de trabajo de 
+nuestro país. 
+José María Martín Moreno 
+Director General de Salud Pública 
+6
+
+SUMARIO
+INTRODUCCIÓN................................................................................................7
+PROTOCOLO GENÉRICO.................................................................................8
+1. CRITERIOS DE APLICACIÓN............................................................9
+2. DEFINICIÓN DEL PROBLEMA ..........................................................9
+3. VALUACIÓN DEL RIESGO ..............................................................10
+4. CRITERIOS DE VALORACIÓN........................................................10
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO ......11
+6. CONDUCTAS A SEGUIR SEGÚN LA ALTERACIÓN
+QUE SE DETECTEN .........................................................................15
+PROTOCOLO MÉDICO-GUÍA..........................................................................21
+GUÍAS POR EXPOSICIÓN O AGENTE .......................................................... 32 
+1. DISOLVENTES.................................................................................33
+2. PLANTAS..........................................................................................38
+3. METALES .........................................................................................43
+4. PLÁSTICOS Y RESINAS SINTÉTICAS............................................56
+5. GOMAS ............................................................................................64
+6. PINTURAS, BARNICES Y LACAS ...................................................73
+7. PLAGUICIDAS Y  OTROS PRODUCTOS AGRÍCOLAS ..................76
+8.  AGENTES INFECCIOSOS................................................................80
+GUIAS POR  EFECTO O ENFERMEDAD........................................................86
+1. DERMATITIS DE CONTACTO ALÉRGICA.......................................87
+2. DERMTITIS DE CONTACTO IRRITATIVA........................................91
+3. URTICARIA DE CONTACTO
+.........................................................96
+4. CÁNCER CUTÁNEO PROFESIONAL ............................................100
+5. ACNÉ OCUPACIONAL ..................................................................104
+LEGISLACIÓN APLICABLE ...........................................................................107
+BIBLIOGRAFIA...............................................................................................110
+7
+
+INTRODUCCIÓN
+La gran diversidad de tareas, puestos de trabajo, y actividades laborales con 
+exposición a sustancias que pueden provocar enfermedades de la piel de los trabajadores 
+y  trabajadoras  expuestas, así como  el gran número de agentes presentes en el mundo 
+laboral capaces  de producirlos, dificulta reunir en un solo protocolo todas las posibles 
+situaciones de exposición y enfermedad. 
+En este sentido, el protocolo de vigilancia sanitaria que  en este volumen se presenta 
+contiene un protocolo genérico, que  deberá  ser adaptado por el  profesional sanitario 
+responsable de la vigilancia sanitaria, en función de los resultados de la evaluación de 
+riesgos y las características y circunstancias del trabajador/ra. 
+Se incluyen, a  continuación del protocolo genérico, guías
+por exposición o agente 
+(sustancias irritantes, agentes sensibilizantes y agentes biológicos) y guías por efecto o 
+enfermedad (dermatitis alérgica de contacto-DCA, dermatitis irritativa de contacto-DCI, 
+urticaria de contacto, cáncer, acné), en las que se aporta información para poder 
+cumplimentar el protocolo genérico. 
+8
+
+PROTOCOLO GENÉRICO
+9
+
+1.
+CRITERIOS DE APLICACIÓN 
+Trabajadores que, en función de su actividad laboral, están expuestos o puedan 
+estarlo a  agentes y sustancias capaces de producir enfermedades de la piel (ver cuadro 
+de trabajadores principalmente afectados,  pág. 20). 
+También será de aplicación a  aquellos trabajadores que hayan desarrollado alguna 
+de las enfermedades que aquéllos agentes pueden producir. 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+Cada Guía  por exposición o enfermedad (ver clasificación de la página 19) hace 
+referencia al significado del agente o lesión, características, propiedades, principales 
+compuestos del grupo, reacciones, cuadros diversos, etc. 
+2.2.
+Mecanismo de acción 
+Igualmente, en cada Guía, se explican los mecanismos de actuación del agente y 
+las consecuencias patológicas dérmicas. Vías de penetración en el organismo, 
+metabolismo, eliminación, órganos afectados además de la piel, etc. 
+2.3.
+Fuentes de exposición y usos 
+En este apartado de las Guías se especifican cuales son los productos, materiales 
+y tareas en las que el trabajador esta en contacto con el agente y las industrias y 
+profesiones usuales. Estos listados servirán para cumplimentar los apartados 
+correspondientes del protocolo general cuando el agente especifico esté relacionado con 
+la exposición del trabajador. 
+2.4.
+Efectos sobre la salud 
+De la misma forma que en los puntos anteriores, aquellos aspectos no comunes a 
+todos los agentes, se han individualizado y desarrollado específicamente, y así en el 
+capitulo de daños para la salud derivados del contacto con materiales o productos que 
+afectan a la piel, por cada agente se concretan los cuadros más comunes (ver cuadro de 
+factores de riesgo y sus efectos sobre la piel, pag. 18). 
+10
+
+3.
+EVALUACIÓN DEL RIESGO 
+Cada Guía describe algunas cuestiones a tener en cuenta para evaluar el riesgo 
+originado por el agente en cuestión, según las tareas, o productos del grupo estudiado. 
+4.
+CRITERIOS DE VALORACIÓN 
+Con carácter general los criterios de valoración para los agentes sensibilizantes e 
+infecciosos se van a distinguir de los que deben seguirse para los propios de los procesos 
+a los que dan lugar: 
+A.- Agentes sensibilizantes e infecciosos: 
+El diagnóstico de enfermedad ocupacional debido a estos agentes se puede 
+establecer en función de los siguientes criterios: 
+1. Historia clínica relevante de contacto con el agente. 
+2. Apariencia clínica sugestiva de:
+Procesos cutáneos 
+Disolve
+n-tes
+Plantas
+(1)
+Metales
+Cromo
+Níquel
+(2)
+Cobalto
+Alumini
+o
+Plástico
+s
+Goma
+Látex
+Pin,
+Ban,
+Lac
+Pestici-
+das
+Infeccio-
+sos
+Dermatitis de contacto irritativa
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Dermatitis de contacto alérgica
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Urticaria de contacto
+X
+X
+X
+X
+X
+X
+X
+X
+Cambios esclerodermiformes
+X
+X
+Fotodermatosis
+X
+Cáncer cutáneo
+X
+X
+X
+X
+Despigmentación
+X
+Cloracné
+X
+Cuadro
+pseudoesclerodermiforme
+X
+Infección
+X
+(Tabla 1) 
+(1) En muchas ocasiones el diagnóstico de dermatitis por las plantas resulta difícil debido a que las dermatitis a 
+menudo remedan erupciones fotosensibles, erupción medicamentosa, eccema atópico, etc. Los alérgenos aéreos 
+pueden producir dermatitis en partes cubiertas. Las pruebas epicutáneas resultan difíciles de practicar y debe de 
+reconocerse la parte de la planta con la que debe de practicar el parche. 
+(2) En  localizaciones concretas (donde se contacta con el objeto niquelado) 
+3. Relación temporal entre la exposición y el comienzo de los síntomas. En el caso 
+del látex, por ejemplo, 5-30 min. 
+4. Presencia o ausencia de síntomas sistémicos u otros síntomas: 
+En el caso de la intoxicación por Cr o Co: ausencia de síntomas sistémicos. 
+En la valoración del Co, distribución anatómica de la dermatitis. 
+El Ni da lugar a brotes de eccema dishidrótico de las manos, diseminación a 
+distancia desde una placa primitiva de dermatitis de contacto. 
+Presencia de síntomas sistémicos en la exposición a plásticos: asma, disnea, 
+rinorrea, neuropatía periférica, etc. 
+11
+
+5. Exclusión de exposiciones no ocupacionales como probables causas de la 
+dermatitis:
+En el Co: prótesis dentales, tratamientos con vitamina B12, etc. 
+En látex: exclusión de otros tipos de dermatitis (principalmente dermatitis de 
+contacto alérgica a los acelerantes de las gomas). 
+6. Pruebas epicutáneas positivas: 
+En Co: frecuentemente positividad asociada al Ni y al dicromato potásico. 
+Látex: Prick-test y determinaciones inmunológicas (IgE total y anticuerpos IgE 
+frente a látex). 
+7. En la exposición a agentes infecciosos: cultivos bacteriológicos, micológicos y 
+serología positiva. 
+8. Exclusión de otros tipos de dermatitis. 
+B.- Efecto o enfermedad: 
+Este apartado se refleja en cada  una de las siguientes guías  específicas: dermatitis 
+alérgica de contacto, dermatitis irritativa de contacto, urticaria de contacto, cáncer, 
+acné.
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO 
+Existen cinco tipos de preguntas en el protocolo: 
+x Cualitativas simples: Aquellas preguntas de elección única  si- no.
+x Cualitativas múltiples: Aquellas preguntas de elección múltiple (ejemplo: localización 
+de las lesiones, tipo de enfermedad dermatológica, etc.). 
+x Cuantitativa: Aquellas preguntas cuya respuesta es numérica. 
+x Fechas: Se contestará el día, mes y año en cada evento. Si fuera imposible conocer 
+exactamente la fecha exacta, se calculará una fecha teórica de día, mes y año con 
+respecto a la fecha de la entrevista. 
+x Texto: es muy importante proporcionar la mayor información para que los datos 
+recogidos puedan aportar conclusiones y extrapolar pautas de actuación en la 
+prevención y mejora de la salud laboral dermatológica. 
+5.1. 
+Historia laboral
+x Puesto de trabajo actual: se considera puesto fijo a la realización siempre del mismo 
+tipo de trabajo, rotatorio cuando se realiza dos o más trabajos diferentes. En formación 
+se considera al trabajador sin experiencia previa en ese puesto de trabajo. 
+x Trabajo actual rotatorio: especificar cronológicamente los tipos de trabajos realizados. 
+x Trabajos anteriores 
+12
+
+5.2. 
+Historia Clínica
+Cada agente es diferente en cuanto a los ítems que contiene este apartado del protocolo 
+general, pero sin embargo hay dos aspectos comunes a todos: fotoexposición y hábitos. 
+En este último hemos señalado en el cuadro siguiente aquellos que son más conocidos 
+según el agente o proceso patológico dérmico. 
+x Fotoexposición: Se considera que una persona se expone a la luz solar no sólo al 
+acudir a playas, nieve, UVA artificial, etc... sino con el hecho de permanecer al aire 
+libre durante un tiempo prolongado, independientemente de la estación y climatología.
+Hábitos
+Disolven
+-tes
+Plantas
+Cr, 
+Co, 
+Ni.
+Plásticos
+Gomas
+Látex
+Pin, Bar, 
+Lacas
+Pesticida
+s
+DCA
+DCI
+Urticaria
+Acné
+Higiene personal: tipo de 
+producto, nombre comercial 
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Complementos utilizados: 
+collares, anillos, pendientes 
+X
+X
+X
+X
+X
+X
+X
+Tipo de calzado 
+X
+X
+X
+X
+X
+X
+X
+Medicamentos tópicos 
+X
+X
+X
+X
+X
+X
+X
+(Tabla 2) 
+5.3. 
+Enfermedad actual
+x La localización de las lesiones es muy importante y si es necesario en el apartado de 
+exploración se esquematizará la distribución de las lesiones sobre el gráfico. En el 
+apartado de Exploración se recoge un cuadro sinóptico de localizaciones en relación 
+con los agentes y procesos dérmicos. 
+x La frecuencia en los casos de enfermedad o procesos crónicos se referirá a los 
+periodos de tiempo sintomáticos y asintomáticos. 
+5.4. 
+Exploración física
+x Muy importante no olvidar crucear todas las lesiones elementales (ver definiciones 
+pag. 29) que se observen e incluso especificar el número de ellas si se considera 
+oportuno.
+x Es conveniente ilustrar la patología y principalmente su distribución marcando las 
+localizaciones en el gráfico que se adjunta en el apartado de exploración física del 
+Protocolo.
+La exploración esta suficientemente explícita para su cumplimentación en el protocolo 
+general, pero con el fin de dar más información en alguno de sus contenidos se han 
+elaborado 3 tablas que relacionan localización, aspecto de las lesiones y exploraciones 
+complementarias con los agentes y procesos. 
+13
+
+LOCALIZACIÓN
+Disolven-
+tes
+Plantas
+Metales
+Plásticos
+Gomas
+Látex
+Pin, Bar, 
+Lacas
+Pesticida
+s
+Ag.
+Infeccios
+.
+D.C.A.
+D.C.I.
+Urticaria
+Cáncer
+Acné
+Manos: dorso, 
+laterales, palma, 
+dedos, periungueal, 
+pulpejos, interdigital 
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Uñas: alteraciones 
+ungueales
+X
+X
+X
+Brazos
+X
+X
+X
+X
+Antebrazos: dorso, 
+anterior
+X
+X
+X
+X
+X
+X
+X
+X
+Cara
+X
+X
+Cara (párpado)
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Retroauriicular
+X
+Submentoniana
+X
+Cuello
+X
+X
+X
+X
+X
+X
+X
+Parte posterior del 
+cuello
+X
+Tronco
+X
+x
+x
+x
+x
+x
+Parte superior espalda
+x
+X
+Axilas
+X
+Area genital
+X
+x
+x
+Genitales masculinos
+X
+X
+EEII
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Parte anterior muslos
+X
+Pies
+X
+Dorso pies
+X
+x
+x
+Plantas
+X
+Pliegues cutáneos
+X
+Areas cubiertas
+X
+x
+Zonas fotoexpuestas
+X
+X
+X
+x
+Diseminada
+X
+X
+Reacción generalizada
+X
+Otras
+X
+X
+X
+X
+X
+X
+X
+(Tabla 3) 
+14
+
+Aspecto
+Disolven-
+tes
+Plantas
+Metales
+Plásticos
+Gomas
+Látex
+Pin, Bar, 
+Lacas
+Pesticida
+s
+Ag.
+Infeccios
+D.C.A.
+D.C.I.
+Urticaria
+Cáncer
+Acné
+Eritema
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Edema
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Descamación
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Vesículas, ampollas 
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Exudación
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Habones
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Hiperqueratosis
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Hiperqueratosis folicular 
+X
+Lesiones infiltradas 
+hiperperatósicas
+X
+Fisuras
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Costra
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Comedones
+X
+Comedones gigantes 
+X
+Microcomedones
+X
+Sobreinfección
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Textura áspera 
+X
+Pápulas
+X
+X
+Pápulas perladas 
+X
+Pústulas
+X
+Endurecimiento cutáneo 
+X
+X
+X
+Supuración
+X
+Forúnculos
+X
+Alopecia
+X
+X
+Hipertricosis
+X
+Nódulos
+X
+X
+Quistes
+X
+Ulceras
+X
+X
+X
+Lesiones queratósicas 
+X
+Lesiones pigmentadas 
+X
+Hiperpigmentación
+X
+X
+Despigmentación
+X
+Microstomía
+X
+Fenómeno de Raynaud 
+X
+Lesiones purpúricas 
+X
+Piel fotoenvejecida 
+X
+Piel atrófica 
+X
+Cicatriz
+X
+X
+(Tabla 4) 
+15
+
+Exploraciones
+complementarias
+Disolvent
+.
+Plantas
+Metales
+Plásticos
+Gomas
+Látex
+Pin, Bar, 
+Lac
+Pestici-
+das
+A.
+Infecc.
+DCA
+DCI
+Urticaria
+Cáncer
+Acné
+Luz de Wood
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Maniobra de Nikolsky
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Examen directo dermatofitos 
+(KOH)
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Cultivo micológico
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Cultivo bacteriológico
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Hemograma y VSG
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+ANAs
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Bioquímica hepática
+X
+Enzimas musculares
+X
+Anti-DNA
+X
+SCL-70
+X
+Radiografía de tórax
+X
+Ecografía hepática
+X
+Exploración neurológica
+X
+Citodiagnóstico de TZANCK
+X
+Mantoux
+X
+Serología: VIH, VHB, VHC
+X
+Determinación fibras de vidrio 
+(KOH)
+X
+ASLO, pruebas reumáticas
+X
+Pruebas función hepática
+X
+X
+Determinación As en orina
+X
+Estudio de porfirinas en 
+sangre y orina 
+X
+Determinación cloro en sangre 
+y orina 
+X
+(Tabla 5) 
+6.
+CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE DETECTEN 
+A)
+Si ausencia de patología cutánea tanto anteriormente como en el momento actual y 
+existe exposición a determinados agente: revisión en función de los resultados de 
+la evaluación del riesgo y las características del trabajador/a. 
+B)
+Si existe patología cutánea en la actualidad o se sospechan lesiones premalignas 
+(caso del cáncer cutáneo): se podrá remitir especialista. 
+C)
+Si actualmente no existe afectación cutánea pero existe la sospecha de probable 
+dermatitis o de riesgo biológico ocupacional o la posibilidad de desarrollar cáncer 
+cutáneo: se extremará la vigilancia sanitaria y los controles preventivos de las 
+condiciones de trabajo. 
+En el caso de los agentes infecciosos, las revisiones deben realizarse con la 
+periodicidad aconsejada considerando el agente biológico, el tipo de exposición y la 
+existencia de pruebas eficaces de detección precoz. También cuando sea 
+necesario por haberse detectado en algún trabajador con exposición similar una 
+infección o enfermedad que pueda deberse a la exposición a agentes biológicos. 
+16
+
+En las líneas que siguen se amplían las medidas a adoptar, poniendo ejemplos sobre 
+agentes o patologías mas concretas: 
+a) En presencia de síntomas y signos sugestivos de: 
+ dermatitis de contacto alérgica (aguda o crónica) 
+ dermatitis de contacto irritativa (aguda o crónica) 
+ urticaria de contacto 
+ cáncer cutáneo 
+ acné
+Es conveniente derivar el trabajador al dermatólogo con el fin de poder confirmar el 
+diagnóstico  y valorar las: 
+ pruebas epicutáneas correspondientes 
+ biopsia cutánea o extirpación de los tumores 
+ pruebas complementarias correspondientes en el caso del látex: 
+Prick test: con extracto de látex comercial o con guante de látex 
+Determinación de IgE total y anticuerpos IgE específicos frente al látex 
+CAP
+O realizar el tratamiento específico (infecciones dermatológicas). 
+b) Una vez confirmado el diagnóstico el médico debe informar al trabajador sobre las 
+posibles fuentes de contacto. 
+Es muy práctico informar de las fuentes de contacto más habituales respecto a la 
+actividad doméstica o al entorno laboral del paciente. 
+Puesto que existen guantes de plástico y de polivinilo, se le puede aconsejar su uso  a 
+personas sensibilizadas a las gomas. 
+Son recomendables los guantes que no contienen látex (en pacientes sensibilizados a 
+él): estireno-butadieno (Elastyren), neopreno (Neolon) y PVC (Flexan) 
+c) En cuanto a la profilaxis general es conveniente investigar sobre la composición de los 
+productos que maneja el paciente principalmente en su trabajo aunque también 
+aquellos que usa en su higiene y vida cotidiana extralaboral. Es difícil que se utilicen 
+determinados agentes (ej. los disolventes) en el medio extralaboral. 
+c.1.- En el caso del níquel, en algunos casos está indicada una dieta pobre en este 
+metal para excluir los alimentos que lo contienen en mayor proporción: arenques, 
+ostras, espárragos, champiñón, guisantes, alubias, espinacas, tomate, té, y 
+chocolate. También se debe evitar el uso de conservas enlatadas y de alimentos 
+cocinados en ollas metálicas, especialmente verduras que liberan ácido oxálico 
+que facilita el desprendimiento del níquel 
+c.2.- En cuanto a la profilaxis general en los riesgos biológicos es conveniente insistir 
+sobre todo en la higiene personal (lavado de manos, cubrir con apósitos los cortes 
+17
+
+o heridas, etc.), utilización de barreras protectoras (guantes, mascarillas, batas, 
+protección ocular), manejo correcto de objetos punzantes o cortantes, 
+señalización de muestras y correcta eliminación de residuos. 
+El grupo español de Registro de Accidentes Biológicos ha elaborado un decálogo 
+para la prevención de riesgos por accidentes biológicos en el medio sanitario: 
+1. Todos los pacientes deben considerarse potencialmente infecciosos y por tanto 
+se deben adoptar las medidas de precaución universales. 
+2. El vehículo de transmisión ocupacional más importante es la sangre y sus 
+derivados.
+3. El profesional con mayor riesgo es el expuesto a un accidente con aguja hueca 
+4. Previo a la incorporación a su puesto de trabajo, la empresa debe informar al 
+trabajador de sus riesgos y de las medidas preventivas. 
+5. La vacunación anti-hepatitis B debe estar conseguida al 100% en las plantillas 
+de profesionales sanitarios. 
+6. El lavado de manos es la medida más importante para el control de las 
+infecciones   exógenas en el medio sanitario. 
+7. La protección con guantes previene el riesgo de lesión percutánea. 
+8. Las lesiones cutáneas, así como los cortes y heridas siempre deben cubrirse 
+antes   de iniciar la actividad laboral. 
+9. Los objetos punzantes y cortantes deben eliminarse en contenedores rígidos de 
+bioseguridad. Las agujas una vez utilizadas, nunca deben reencapucharse. 
+Tras un accidente, se deben aplicar las medidas de arrastre del material 
+contaminante, realizar tratamiento local y acudir a consulta para registro  y medidas 
+complementarias.
+c.3 .- Dermatitis de contacto irritativa y alérgica: En presencia de síntomas y signos 
+sugestivos de dermatitis de contacto irritativa y alérgica tanto en la forma aguda 
+como crónica es conveniente derivar el trabajador al dermatólogo con el fin de 
+poder confirmar el diagnóstico y descartar otras patologías mediante pruebas 
+epicutáneas y biopsia cutánea si fuera necesaria. 
+c.4.- Cáncer: la eliminación completa del agente productor de cáncer debe realizarse 
+siempre que sea posible. 
+Es indispensable ropa de protección y educar al trabajador sobre las 
+consecuencias del contacto prolongado con agentes carcinógenos. Debe lavar la 
+ropa de trabajo aparte y mudarse con regularidad. Los trabajadores expuestos a 
+hidrocarburos aromáticos policíclicos deben evitar la exposición a la luz ultravioleta 
+durante el trabajo e inmediatamente después de éste. 
+Informar al trabajador de que no solo el contacto directo con los productos puede 
+provocar alteraciones sino que la intoxicación puede producirse por difusión. 
+En los lugares de trabajo que tengan altas concentraciones atmosféricas de 
+arsénico, es deseable determinar el arsénico en la orina cada 3 meses o por lo 
+menos de forma anual. 
+18
+
+La revisión anual dermatológica es recomendable para determinar tumores 
+cutáneos.
+c.5.- Acné: la prevención en los lugares de trabajo es indispensable: aireación, duchas 
+y ropa de protección. 
+Informar al trabajador de que no solo el contacto directo con los productos puede 
+provocar alteraciones sino que la intoxicación puede producirse por inhalación de 
+vapores o difusión aérea de hidrocarburos clorados. 
+La contaminación puede afectar a los familiares directos del trabajador por contacto 
+con la ropa. La piel de los niños es especialmente sensible a las sustancias 
+cloradas.
+FACTORES DE RIESGO Y SUS EFECTOS SOBRE LA PIEL 
+Factores riesgo 
+Efectos de grupo /  específicos 
+FACTORES MECÁNICOS 
+x Traumatismos
+x Fricción
+x Presión
+x Polvo
+ Cortes, punciones, ampollas 
+ Abrasiones, isomorfismo 
+ Liquenificación
+ Callos
+FACTORES FISICOS 
+x Radiación
+x Humedad
+x Calor
+x Fría
+ Fotodermatitis, radiodermitis, cáncer 
+ Maceración, irritación 
+ Erupción por calor, quemaduras, eritema
+ Congelaciones, xerodermia, urticaria, 
+paniculitis, fenómeno de Raynaud 
+FACTORES QUIMICOS 
+x Acidos, bases 
+x Detergentes, disolventes 
+x Metales, resinas 
+x Aceites de corte 
+x Colorantes, alquitrán 
+x Caucho, etc 
+ Deshidratación
+ Inflamación
+ Necrosis
+ Alergia
+ Fotodermatitis
+ Discromía
+FACTORES BIOLOGICOS 
+x Bacterias
+x Virus
+x Dermatofitos
+x Parásitos
+x Plantas
+x Insectos
+ Piodermatitis
+ Verrugas  múltiples 
+ Dermatomicosis
+ Parasitosis
+ Fitodermatitis
+ Urticaria
+COFACTORES DE RIESGO 
+x Eccema (atópico, dishidrótico, seborreico, numular) 
+x Psoriasis
+x Xerodermia
+x Acné
+(Tabla 6) 
+19
+
+ CLASIFICACION DE LAS ENFERMEDADES DERMATOLÓGICAS LABORALES 
+MECANICAS
+VIBRACIONES
+CUERPOS EXTRAÑOS: 
+x Amianto: Verruga de los asbestos 
+x Aceite de corte: Oleomas y botón de aceite 
+x Berilio: Granulomas sarcoideos 
+x Carbón: Tatuajes de coloración azul pizarra 
+x Hierro: Siderosis, marrón o amarillento 
+x Plata: Argiria localizada, no granulomas 
+x Sílice: Granuloma silicótico 
+x Sinus pilonidal: Granuloma interdigital 
+ARTEFACTAS
+FENOMENO DE KÖEBNER (roce, presión continua) 
+FISICAS
+CALOR:
+x Quemaduras
+x Sudamina
+x Golpe de calor 
+FRIO
+x Urticaria a frigore 
+x Perniosis
+x Congelaciones
+x Cutis marmorata 
+ELECTRICIDAD
+RADIACIONES
+x R. Luminicas 
+x R. Ionizantes 
+QUIMICAS
+Formas irritativas. Ulceras (Cr, Ni,..) 
+Formas alérgicas: Eczema (construcción, fluidos de crte, 
+resinas de la inductria electrónica y aeronáutica,..) 
+Leucodermias (hidroquinona) 
+Melanodermias (derivados petroleo) 
+Urticaria (latex) 
+Otras: púrpua, liquen, acnés cloricos,… 
+VEGETALES
+Plantas ornamentales (jardineros, trabajadores viveros) 
+Comestibles (ajo; cocineras) 
+Maderas  (sobre todo tropicales con quinonas) 
+BIOLOGICAS
+BACTERIAS o VIRUS 
+x Erisipeloide
+x Tuberculosis verrucosa 
+x Vacunas y nódulos de los ordeñadores 
+MICOSIS
+x Superficiales
+x Profundas
+ZOOPARASITARIAS
+x Sarnas animales 
+x Afección por artropodos 
+PROTEINAS ANIMALES 
+OTRAS FORMAS 
+BAJA HUMEDAD 
+AEROTRANSPORTADAS
+(Tabla 7)
+20
+
+TRABAJADORES PRINCIPALMENTE AFECTADOS POR DERMATOSIS LABORALES 
+AGENTES
+BIOLOGICOS
+Hongos (cándidas , microsporum, Tricophyton); 
+bacterias (estafilococo, estreptococo, 
+B.anthracis, brucelas, tularemia, erisipeloide, 
+TB cutánea); virus (herpes, nódulo de los 
+ordeñadores); treponemas; Rickettsias; 
+clamidias;  parásitos (protozoos, helmintos, 
+artrópodos)
+AGENTES FISICOS R. Ionizantes; R. No ionizantes (UVA, laser) 
+SANITARIOS
+AGENTES
+QUIMICOS
+Antisépticos (cloruro de benzalconio, 
+clorhexidina, etanol, mercuriales, oxido de 
+etileno) oxidantes (agua oxigenada, 
+permanganato potásico, yodo, hipoclorito, 
+cloramina); aldehidos (formaldehido, 
+glutaraldehido); alcoholes (etanol, isopropilico), 
+fenoles (diclorofeno, hexaclorofeno, 
+paraclorofeno); surfactantes; gomas y 
+derivados (tiuran, mercaptolatex); resinas 
+(acrilicas, epoxi)
+Imprenta
+Resinas acrílicas, resinas de poliuretano, tintas
+ARTES GRAFICAS 
+Reproductores de 
+documentos
+Diazo, tioureas 
+FOTOGRAFIA
+Reveladores,
+fijadores,
+blanqueadores,
+Limpiadores, Otros 
+(Formaldehido,
+glutaraldehido,
+etilendiamina,
+derivados de la 
+triazina)
+Cemento; Cromo 
+Gomas
+Guantes y botas de goma (tiuran, mercapto); 
+calzado de protección (aminas antioxiantes) 
+CONSTRUCCION y 
+OBRAS PUBLICAS 
+Resinas y Plásticos 
+Epoxi; acrilatos 
+METALURGIA
+Fluidos de corte 
+Metales (cromo, níquel, cobalto); antioxidantes 
+(mercaptobenzotiazol, tiuranes, etilendiamina, 
+parafenilendiamina); bactericidas (triazina, 
+drrivados fenolicos, derivados de la 
+oxazolidina); otros (colofonia, trietanolamina) 
+Cambios de 
+coloración
+Parafenilendiamina, paratoluendiamina, 
+aminodifenildiamina,
+ortonitroparafenilendiamina,
+nitroparafenilendiamina, nitroaminofenoles, 
+amnioantroquinonas, compuestos azoicos, 
+persulfato amónico, etc) 
+Cambios de 
+ondulación
+Tioglicolato amónico, monogliceriltioglicolato, 
+sulfito sódico) 
+PELUQUERIA
+Otros
+Campús, acondicionadores, lacas, tónicos 
+INDUSTRIA ALIMENTARIA Panaderos, cocineros 
+(Tabla 8) 
+21
+
+PROTOCOLO MÉDICO-GUÍA
+22
+
+1.
+DATOS DE FILIACIÓN 
+x Nombre y apellidos 
+x Sexo
+x Raza
+x Fecha de nacimiento 
+x Estado civil 
+x Dirección
+x Teléfono
+x DNI
+x Nº S. Social 
+x Fecha
+x Motivo de consulta: (Primera visita, revisión, programada, urgente) 
+x Empresa (nombre, dirección, teléfono) 
+x Departamento
+x Puesto de trabajo 
+2. 
+HISTORIA LABORAL
+a) Puesto de trabajo: 
+x Puesto de trabajo actual: formación, puesto fijo, rotatorio 
+9Tiempo que lleva en ese puesto 
+9Horas/día
+9Turnos
+x Otros puestos de trabajo: fechas 
+x Trabajos en otras empresas: fechas
+b) Relación materiales y productos que maneja  y tareas que realiza. 
+c) Industrias y profesiones con alto riesgo de contacto 
+d) Bajas: fechas
+x Causa dermatológica 
+e) Exposición: 
+x Periodo de latencia desde el inicio de exposición al agente sospechoso hasta que 
+surgen los primeros síntomas 
+x La exposición al agente es diaria si_no_
+x La exposición al agente es intermitente si_ no_
+x La exposición al agente es muy repetida si_ no_
+x Definir el grado de exposición
+x Esta expuesto a : frio, calor, presión 
+23
+
+x Se ensucia la ropa con hidrocarburos, disolventes, aceites u otros productos 
+similares si_ no_ 
+x Relaciona la aparición de lesiones con el sudor si_ no _ 
+x Efecto fin semana: mejoría, empeoramiento, sin cambios 
+x Efecto vacaciones: mejoría, empeoramiento, sin cambios 
+x Efecto al finalizar la jornada laboral: mejoría, empeoramiento, sin cambios 
+f)
+Existen otros trabajadores con afectación similar: 
+x En su departamento (nº) 
+x En otros departamentos (nº) 
+g) Permanece sentado muchas horas: nº de horas 
+x Apoya la espalda al permanecer sentado 
+h) Equipo de protección individual (si usa o no; tolerancia) 
+x Ropa seguridad 
+x Botas
+x Gafas
+x Mascarilla
+x Guantes.
+9Tipos: caucho, cuero, neopreno 
+9Horas de utilización 
+x Cremas barrera 
+i)
+Descripción lugar de trabajo 
+x Temperatura
+x Humedad
+x Trabajo al aire libre (nº horas exposición / día) 
+x Frío / Calor 
+x Vapores / Humos 
+x Utiliza sprays 
+x Sistema abierto/cerrado 
+j)
+Especial para el supuesto de A. Infecciosos: 
+x Control de vectores: sí_no_ 
+x Desinsectación y desratización 
+x Superficies impermeables al agua y de fácil limpieza 
+x Contención apropiada para agentes biológicos 
+x Incinerador
+x Ventilación
+x Otras
+x Esterilización y desinfección correcta de instrumentos: si_no_ 
+x Lavado de manos: si_no_ 
+x Utiliza antisépticos para la piel: si_no_ 
+x Dispone de lugar apropiado para almacenar los equipos de protección individual: 
+si_no_
+x Realiza el lavado de la ropa de trabajo en su domicilio: si_no_ 
+x Cubre las heridas cutáneas: si_no_ 
+24
+
+x Vacunaciones:(fechas)
+x Ambiente
+k) Utiliza aseos de la empresa 
+x Productos que utiliza para el lavado de manos: 
+x Jabones
+x Detergentes
+x Disolventes (gasolina, colofonia, Keroseno, turpentina,etc) 
+x Pasta
+l)
+Ha realizado con anterioridad algún trabajo en el que manejaba materiales o productos 
+o realizaba tareas de riesgo (ver cada guía específica).
+3. 
+HISTORIA CLÍNICA
+x Antecedentes personales: 
+9Espina bífida, malformación de las vías urinarias, más de 5 intervenciones 
+quirurgicas, sonda urinaria permanente (Latex) 
+9Diabetes, hipotiroidismo, alteraciones neurológicas (parálisis), acrocianosis, 
+cutis marmorata ( Dermatitis alergica de contacto (DCA)). 
+9Diabetes, arteriosclerosis, enfermedad psiquiátrica (Dermatitis de contacto 
+irritativa (DCI)). 
+9Alopecias y porfirias. 
+9Tratamientos farmacologicos con productos que contengan arsenico (cáncer) 
+9Tratamientos farmacologicos (antibióticos, anticonvulsivantes, antituberculosos, 
+halogenos, corticosteroides, hormonas, inmunosupresores, psicotropicos. 
+antitiroideos, vitaminas del grupo B), diabetes (acné) 
+9Ha sufrido traumatismos (especificar localización) 
+x Antecedentes personales dermatológicos:
+9Tipo de enfermedad: Infecciosa, inflamatoria, dermatitis atópica, alérgica, 
+tumoral, autoinmune, congénita, acné, psoriasis, forunculosis, hidrosadenitis. 
+9Evolución: crónica, brotes, curación con tratamiento, autoresolución 
+9Tratamientos realizados, quirurgicos (especificar tipo) 
+9Reacción eccematosa a: anillos, pendientes, botas, etc. 
+9Relación laboral: sí_ no_ 
+9Morfología y topografia de las lesiones 
+9Existencia o no de atopías 
+x Antecedentes dermatológicos familiares: 
+9Tipo de enfermedad: Infecciosa, inflamatoria, dermatitis atópica, alérgica, 
+tumoral, autoinmune, congénita, acné, psoriasis, forunculosis, hidrosadenitis. 
+9Porfirias
+9Atopias
+25
+
+x Antecedentes personales alergológicos: 
+9Asma
+9Rinitis/rinoconjuntivitis
+9Atopia
+9Urticaria
+9Reacción a: medicamentos, alimentos, bisuteria, cosmeticos, joyas 
+9Celiaquia
+x Antecedentes familiares alergológicos: 
+9Asma
+9Rinitis/rinoconjuntivitis
+9Atopia
+9Porfirias
+9Urticaria
+9Celiaquia
+9Parentesco: primer grado, segundo grado, etc 
+x Hábitos
+9Dieta especial 
+9Fumador: nº de cigarrillos/día, fumador pasivo 
+9Alcohol: cantidad 
+9Consumo de drogas: tipo, cantidad 
+9Ejercicio físico: tipo, nº horas/día, días/semana 
+9Fotoexposición: horas/día, días/año, UVA artificial 
+9Aficiones: bricolage, pintura, jardinería, fotografía, senderismo, caminar 
+frecuentemente por el campo, deportes al aire libre, cocina, etc 
+x Higiene personal: 
+9Ducha/baño (veces/semana) 
+9Leche corporal 
+9Jabón de manos, gel baño, sales 
+de baño 
+9Crema de manos 
+9Cosméticos faciales: crema, 
+tónico, limpiador, colorete, 
+maquillaje, sombra ojos, lápiz 
+labial
+9Espuma de afeitar 
+9Productos de higiene íntima 
+9Desodorante
+9Colonia
+9Perfume
+9Tintes de pelo, champú 
+9Laca
+9Fijador pelo 
+9Laca de uñas 
+9Pasta dentífrica 
+9Lentes de contacto. Solución 
+limpiadora
+9Realiza labores del hogar si_ no_ 
+26
+
+27
+x Exposiciones extralaborales: 
+Plantas
+Niquel
+Cobalto
+Mercurio
+Tiene plantas o flores 
+en casa
+Es portador de 
+marcapasos,
+prótesis metálicas. 
+Consume complejos 
+vitamínicos que 
+contienen vitamina 
+B12
+En alguna ocasión ha 
+padecido exantema por 
+rotura de un termómetro o 
+debido a una amalgama 
+dental
+Realiza labores de 
+horticultura
+Maneja asíduamente 
+monedas y llaves 
+Es portador de 
+prótesis metálicas o 
+aparatos dentales 
+Ha utilizado espermicidas 
+que contengan mercurio 
+Realiza labores de 
+jardinería
+Utiliza con 
+frecuencia joyas que 
+contienen oro blanco 
+o plata alemana 
+Le producen reacción 
+los botones, 
+cremalleras etc 
+Es portador de tatuajes de 
+color rojo 
+Cocina habitualmente 
+Utiliza sombra de 
+ojos
+Utiliza esmalte de 
+uñas
+Cree que la exposición 
+a la luz solar influye en 
+la aparición de 
+dermatitis 
+La pasta dentífrica 
+que utiliza ¿contiene 
+cobalto en su 
+composición?
+Es portador de 
+tatuajes de color azul 
+Plásticos
+Gomas
+Pinturas, barnices y 
+lacas
+Pesticidas
+Es portador de 
+marcapasos
+Sigue tratamiento 
+con antabús 
+Utiliza pistolas o 
+sprays para pintar 
+Sigue tratamiento con 
+antabús
+Utiliza piezas 
+ortopédicas
+Ha utilizado alguno 
+de los siguientes 
+productos:
+fotoprotectores,
+preparados para la 
+escabiosis
+(monosulfirán),
+antimicóticos,
+vendas quirúrgicas o 
+apósitos, spray 
+quirúrgico (tipo 
+Nobecután)
+Ha desinfectado 
+recientemente su casa 
+Es portador de prótesis 
+dentales
+Utiliza preservativos 
+Se ha tratado con productos 
+escabicidas o pediculicidas 
+Utiliza audífonos 
+Utiliza diafragma 
+Tiene animales en casa 
+Es portador-a de uñas 
+artificiales
+Ha observado 
+reacciones a: ropa 
+interior, zapatos, 
+dediles, aros de 
+goma
+Tiene plantas domésticas 
+Camina frecuentemente por 
+el campo 
+Agentes infecciosos 
+Tiene animales en casa 
+Cocina habitualmente 
+(Tabla 9) 
+x Ha estado sometido a radiaciones ionizantes: si_no_ 
+x Ha precisado baja laboral. Si _ No _  Tiempo:  días_ meses_ 
+x Evolución lesiones durante inactividad laboral 
+x Reincorporación
+Asintomático:  si_ no_ 
+Reaparición dermatitis si_no_ 
+
+28
+ENFERMEDAD ACTUAL 
+x Descripción
+x Fecha de comienzo 
+x Localización
+x Síntomas:
+9Prurito
+9Escozor
+9Dolor
+9Sangrado
+9Supuración
+9Otros
+x 1ª vez: si_  no_ 
+x Crónico: : si_  no_ Frecuencia: veces/mes, continuo 
+x Relaciona el cuadro con algún hecho laboral concreto: si_  no_ 
+x Es la 1ª vez que tiene contacto con un determinado producto 
+x Habia utilizado este producto con anterioridad si_ no_ 
+x Existen compañeros de trabajo con problemas similares: si_  no_ 
+x Existen familiares con problemas similares: si_  no_ 
+x Tratamiento actual 
+x Respuesta al tratamiento: leve, moderada, buena, no respuesta, empeoramiento 
+x Tratamientos previos 
+x Utiliza medidas preventivas: sí_  no_ Cambios observados al utilizar dichas medidas: 
+sin cambio, mejoria, empeoramiento 
+x Se acompaña la afectación cutánea de otros síntomas: 
+Disolventes
+Plantas
+Plásticos
+Narcosis, daño hepático y 
+renal, pulmonar, efectos 
+hematológicos y neuritis 
+periférica
+Conjuntivitis, iritis, queratitis, 
+eritema multiforme (Primula) 
+Respiratorios: asma, disnea, 
+rinorrea. (Resina epoxy) 
+Polimiopatía
+Neurológicos: neuropatía 
+periférica
+Látex
+Pinturas, barnices, lacas 
+Agentes infecciosos 
+Padece síntomas 
+extracutáneos: asma, rinitis, 
+etc.
+Neurologicos (mareos, 
+cefaleas, alucinaciones,etc) 
+Fiebre, malestar general, 
+inflamación ganglionar
+Ha observado reacciones tipo 
+urticaria con la ingesta de 
+plátanos, castañas, melón, 
+Kiwi, piña, aguacate, higo, 
+tomate, patata 
+Ha padecido síntomas 
+sistémicos tras inhalación de 
+pinturas, barnices y lacas 
+(mareos, cefaleas, síntomas 
+respiratorios) en su puesto de 
+trabajo
+(Tabla 10) 
+
+29
+4. 
+EXPLORACIÓN FÍSICA 
+x Inspección estado general 
+x Exploración de toda la superficie cutánea y mucosas (utilizar lamparas con lupa) 
+x Características de la piel (seca o grasa) 
+x Tipos de piel: 
+Tipo I 
+Tipo II 
+Tipo III 
+Tipo IV 
+Tipo V 
+Tipo VI 
+Siempre enrojece, nunca broncea 
+Siempre enrojece, broncea poco 
+Enrojece a veces, se pigmenta bien 
+No enrojece, siempre se broncea 
+Muy pigmentadas (mestizos, mediterráneos, hindúes) 
+Negros
+(Tabla 11) 
+x Localización lesiones: 
+CABEZA
+Cráneo
+Cara:
+x Párpados
+x Retroauricular
+x Submentoniana
+x Cuello
+x Parte posterior cuello 
+TRONCO
+Parte superior de espalda 
+Axilas
+Area genital 
+EXTREMIDADES EE.SS..
+x Manos: dorso, laterales, palma, dedos (pulpejos, periungueal), 
+interdigital
+x Uñas: alteraciones unguelas 
+x Antebrazos: dorso, anterior 
+x Brazos
+EE.II.:
+x Pies: dorso, plantas 
+x Parte anterior muslos 
+OTRAS
+Pliegues cutáneos 
+Areas cubiertas 
+Zonas fotoexpuestas 
+Diseminada
+(Tabla 12) 
+x Tamaño: < 1cm / > 1 cm. Lesión satelite si_ no_ 
+x Aspecto (ver cuadro): 
+
+30
+LESIONES ELEMENTALES EN DERMATOLOGIA 
+El concepto de las lesiones cutáneas elementales surgió en el siglo XVIII marcando el 
+comienzo de la dermatología moderna al centrarse en los aspectos morfológicos o externos de 
+las enfermedades cutáneas. Las lesiones elementales más relevantes son las que siguen: 
+ Mácula: lesión consistente en el simple cambio de coloración de la piel sin infiltración ni 
+elevación alguna. Su tamaño es inferior o igual a 5 mm. No puede palparse con los ojos 
+cerrados.
+ Mancha: Cuando la mácula supera el tamaño de 5 mm ya sea por la confluencia o no de 
+varias de ellas de menor  tamaño. 
+ Pápula: lesión sobreelevada, circunscrita y sólida de tamaño inferior a 5 mm. Más alta que 
+ancha y palpable con los ojos cerrados. 
+ Placa: Cuando la pápula supera en tamaño los 5 mm. Generalmente es más ancha que alta. 
+Puede ser el resultado de la confluencia de varias pápulas. 
+ Nódulo: formación circunscrita, sólida y localizada profundamente en la piel. Más palpable 
+que visible. 
+ Tubérculo: lesión circunscrita, sólida, mayor de 1 cm que protruye en la piel a pesar de 
+estar localizada en el espesor de la misma. Más alta que ancha. 
+ Habón: Se trata de una variante de pápula caracterizada por: color sonrosado-blanquecino, 
+consistencia edematosa, evolución fugaz (menos de 24 h) y de resolución completa sin dejar 
+cicatriz. Gran tendencia a la confluencia. 
+ Vesícula: lesión papulosa de contenido líquido, menor de 5 mm de diámetro. 
+ Ampolla: las vesículas de diámetro mayor a 5 mm se consideran ampollas. 
+ Pústula: pápula de contenido purulento. Generalmente se acompaña de halo eritematoso 
+inflamatorio.
+ Erosión: solución de continuidad o pérdida de sustancia superficial de la piel. No deja 
+cicatriz al resolverse. 
+ Úlcera: solución de continuidad o pérdida de sustancia profunda de la piel. Deja cicatriz al 
+resolverse. Cuando su origen es un traumatismo se denomina herida.
+ Cicatriz: neoformación de tejido conjuntivo que resulta de la resolución de una úlcera y que 
+se caracteriza por ser una lesión lisa, con pérdida de los surcos y anejos de la piel normal. 
+ Atrofia: pérdida del espesor y consistencias normales de la piel debido a la disminución o 
+ausencia de algunos componentes de la misma. 
+ Costra: es el producto de la desecación del exudado. 
+(Tabla 13) 
+x Patrón de distribución: lesiones aisladas, lesiones confluentes, generalizadas, 
+simétrica, asimétrica. Areas expuestas o no expuestas 
+x Lesiones foliculares / no foliculares 
+x Morfología: lineal, placas, difusa, otras 
+x Existen signos de rascado: si_ no_
+x Existen lesiones en áreas fotoexpuestas si_ no_ 
+x Existen lesiones a distancia: si_ no_ 
+x Auscultación pulmonar 
+x Valorar signos de porfiria cutánea, alteraciones del SNC y gastrointestinal (acné) 
+x Palpación principales cadenas ganglionares. 
+
+EXPLORACIONES COMPLEMENTARIAS 
+x Luz de Wood 
+x Cultivo micológico 
+x Maniobra de Nikolsky 
+x Cultivo bacteriológico 
+x Examen directo dermatofitos (KOH) 
+x Hemograma y VSG 
+31
+
+x Mantoux
+x ANAs
+x Serología: VIH, VHB, VHC 
+x Bioquímica hepática 
+x Determinación fibras de vidrio (KOH) 
+x Enzimas musculares 
+x ASLO, pruebas reumáticas 
+x Anti-DNA
+x Pruebas función hepática 
+x IgE en suero 
+x Determinación As en orina 
+x HLA  A3 y B7 
+x Estudio de porfirinas en sangre y 
+orina
+x SCL-70
+x Radiografía de tórax 
+x Determinación cloro en sangre y orina 
+x Ecografía hepática 
+x Exploración neurológica 
+x Citodiagnóstico de TZANCK 
+5. 
+CONCLUSIONES 
+x Ausencia de patología cutánea 
+x Existe patología cutánea 
+–
+Dermatitis de contacto irritativa (692.990) 
+–
+Dermatitis de contacto alérgica (692.991)
+–
+Urticaria de contacto (708.81) 
+– Cambios esclerodermiformes
+– Fotodermatosis 
+– Cáncer cutáneo
+– Despigmentación 
+– Cloracné 
+– Cuadro pseudoesclerodermiforme
+– Infección por:
+x Bacterias o virus: 
+-
+Erisipeloide de Rosenbach (Erysipelothrix rhusiopathiae) 
+-
+Tuberculosis (Mycobacterium tuberculosis)
+-
+Granuloma de las piscinas (Mycobacterium marinum)
+-
+Nódulos de los ordeñadores (Virus paravacuna) 
+-
+Herpes simple (Virus herpes tipo I) 
+-
+Verrugas vulgares (Virus papiloma humano) 
+x Micosis superficiales o profundas (Trichophyton verrucosum, Mycrosporum 
+canis blastomicosis, coccidiomicosis) 
+x Parásitos:
+- 
+Sarna 
+x Otras:
+x Impresiona de origen laboral 
+x Factores predisponentes extralaborales en el trabajador 
+x Agente implicado (añadir a la historia clínica la ficha técnica del producto sospechoso, 
+la taxonomia o clasificación de la planta). 
+32
+
+GUIAS POR EXPOSICIÓN O AGENTE
+33
+
+DISOLVENTES
+34
+
+1.
+CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para prevenir  la patología cutánea que se produce en el 
+medio laboral debido al uso de disolventes. Los disolventes se utilizan en multitud de 
+industrias y su utilización está muy extendida. Dentro de la gran variedad de disolventes 
+que existen, la trementina y el formaldehído tienen un interés especial desde el punto de 
+vista dermatológico.
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+Un disolvente es un fluido o una mezcla de fluidos capaces de disolver sustancias 
+de valor industrial. Los disolventes más comunes son: hidrocarburos aromáticos y 
+alifáticos, ésteres, éteres, cetonas, aminas e hidrocarbonos clorinados. Los hidrocarburos 
+alifáticos halogenados son compuestos de carbono, hidrógeno y halógenos. En su 
+mayoría se presentan como líquidos incoloros y volátiles, y resultan excelentes 
+disolventes de compuestos orgánicos. Son muy utilizados para desengrasar, desencerar, 
+limpiar en seco y extraer. Los hidrocarburos aromáticos halogenados derivan del 
+benceno, de sus homólogos y de otros compuestos aromáticos por sustitución de uno o 
+más átomos de hidrógeno mediante halógenos. Se usan también como productos 
+intermediarios en la producción de colorantes, productos farmacéuticos, plaguicidas, 
+plásticos, etc.
+2.2.
+Fuentes de exposición y usos 
+a. Materiales y productos:
+ Solventes de alquitrán de 
+hulla
+
+Benceno
+
+Tolueno
+
+Etilbenceno
+
+Xileno
+ Solventes de petróleo
+ Gasolina
+ Keroseno
+ Dipteno
+ Hidrocarburos clorinados
+ Disulfuro de carbono 
+ Tetracloruro de carbono 
+ Tricloroetano
+ Tetracloroetano
+ Alcoholes
+ Metilalcohol
+ FORMALDEHÍDO
+ Etilalcohol
+ Isopropilalcohol
+ Otros
+ TREMENTINA
+ Acetona y metilcetona 
+ DMSO
+(dimetilsulfóxido)
+ Etilenglicol
+ Propilenglicol
+(Tabla 14) 
+35
+
+b .- Industrias y profesiones: 
+
+Manufacturación de plásticos 
+
+Manufacturación de pinturas y lacas 
+
+Manufacturación de caucho y de polímeros 
+sintéticos
+
+Manufacturación de zapatos. Industria  del 
+calzado
+
+Manufacturación de cuero artificial 
+
+Manufacturación de insecticidas 
+
+Manufacturación de resinas 
+
+Construcción (revestimiento de pavimentos) 
+
+Manufacturación de medicamentos 
+
+Manufacturación de tintas, colas y adhesivos
+
+Industria trextil 
+
+Manufacturación de polímeros para la 
+fabricación de nylon, envases de plástico, y 
+poliuretanos
+
+En la fabricación de tintes y productos 
+cosméticos
+
+Extracción de grasa. Desengrasado de 
+piezas metálicas 
+
+En la fabricación de trinitrotolueno (TNT)
+
+Industria del automovil (combustibles y 
+refrigeradores)
+
+Industria petrolera y petroquímica 
+(Elaboración de gasolinas) 
+
+Transmisores de la presión de sistemas 
+hidráulicos
+
+Industria de limpieza (productos de 
+limpieza). Limpieza en seco 
+
+Industria farmacéutica 
+
+Perfumería
+
+Imprenta
+
+Mecánicos
+
+Pintores
+
+Gasolineros
+
+Agricultores
+
+Fotógrafos
+
+Empleados de laboratorios 
+
+Papel
+(Tabla 15) 
+2.3.
+Mecanismo de acción 
+Existen numerosos factores que influyen en el efecto de los disolventes en la piel: 
+propiedades físicas del solvente (volatilidad, solubilidad y facilidad para penetrar en el 
+estrato córneo); el área donde se aplican está cubierta; concentración y duración de la 
+exposición. También existe una susceptibilidad individual, especialmente para la toxicidad 
+sistémica.
+La acción irritante de los disolventes está basada en la disolución de los lípidos 
+superficiales, el material lipídico del estrato córneo y la parte lipídica de la membrana 
+celular. Esta acción es responsable de la sequedad y el blanqueamiento de la piel que 
+ocurre después del contacto prolongado con los disolventes. Debido a esta acción sobre 
+los lípidos, los disolventes aumentan la absorción percutánea del agua. Las alteraciones 
+patológicas pueden variar dependiendo de los disolventes. 
+2.4.
+Efectos sobre la salud 
+La mayoría de los disolventes son irritantes primarios y sólo algunos (turpentina y 
+formaldehído) son también sensibilizantes. La sensibilización alérgica también puede ser 
+debida a alguno de los aditivos. El contacto prolongado con disolventes en la ropa, puede 
+producir quemaduras muy severas. Se han descrito casos de coiloniquia debido a 
+metanol, tolueno y xileno. 
+36
+
+La inhalación o la absorción percutánea de los solventes puede producir narcosis, 
+daño hepático y renal, pulmonar, efectos hematológicos y neuritis periférica. 
+El percloroetileno puede producir acrocianosis, acroesclerosis asociados a polimiopatía y 
+daño hepático. 
+La exposición a tricloroetileno puede asociarse a esclerodermia. 
+Los disolventes derivados del carbón y del petróleo, esto es, los hidrocarburos y el 
+alquitrán de hulla, contienen agentes carcinógenéticos. Se consideran carcerígenos 
+industriales, entre otros, el benceno, óxido de etileno y tricroroetileno. El uso del 
+tetracloruro de carbono está desechado en la actualidad por su hepatoxicidad. 
+3.
+EVALUACIÓN DEL RIESGO 
+En la mayoría de estudios de dermatosis ocupacionales, los solventes son los 
+responsables en el 20% de los casos. La causa más frecuente es el lavado de las manos 
+y los brazos con estos productos. Los solventes utilizados varían dependiendo de las 
+distintas profesiones: los trabajadores de los plásticos utilizan acetona y metilcetona; los 
+mecánicos gasolina y Keroseno; los pintores, trementina; etc.
+En la manufacturación de los solventes se utilizan sistemas cerrados por lo que 
+estos trabajadores no tienen contacto directo de la piel con los solventes. 
+La vía habitual de acceso al organismo del sulfuro de carbono es la inhalatoria. La 
+concentración máxima permisible en el aire en el lugar de trabajo se ha situado en 20 ppm 
+(60 mg/m
+3).
+La concentración media máxima permisible en el ambiente de trabajo de 
+tetracloruro de carbono no debe superar las 10 ppm (partes por millón) (63 mg/m
+3 de 
+aire). Tiene un poder altamente tóxico y la dosis letal por vía oral es sólo de 2-4 ml. Por 
+vía inhalatoria la exposición a concentraciones de 1000-2000 ppm en 30-60 minutos 
+puede inducir insuficiencia renal aguda y muerte. 
+La concentración media máxima permisible de tolueno se ha situado en 200 ppm 
+(750 mg/m
+3 de aire) en el lugar de trabajo. 
+El nivel máximo tolerable en sangre del metabolito tricloroetanol es de 5 mg/l. En 
+orina, el nivel de ácido tricloroacético no debe sobrepasar los 100 mg/l. 
+37
+
+Los niveles de exposición se fijarán atendiendo a lo establecido en el documento 
+Limites de exposición profesional para Agentes Químicos en España, del Instituto 
+Nacional de Seguridad e Higiene en el Trabajo. Para el 2001 estos valores son los que se 
+muestran en la tabla. 
+VLA-ED
+VLA-EC
+Acetona
+500 ppm,  1205 mg/m3
+750 ppm,  1810 mg/m3
+Alquitrán de hulla 
+0,2 mg/m3
+Benceno
+3 ppm,     9,7 mg/m3
+Etilbenceno
+100 ppm,   441 mg/m3
+200 ppm,    882 mg/m3
+Formaldehído
+0,3 ppm,     0,37 mg/m3
+Gasolina
+300 ppm,   905 mg/m3
+500 ppm,  1510 mg/m3
+Tetracloruro de carbono 
+5 ppm,     32 mg/m3
+10 ppm,      64 mg/m3
+Tolueno
+50 ppm,   191 mg/m3
+Xileno
+100 ppm,   441 mg/m3
+150 ppm,    661 mg/m3
+38
+
+PLANTAS
+39
+
+1.
+CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para prevenir  la patología cutánea que se produce en el 
+medio laboral debido al contacto con plantas. Las ocupaciones de mayor riesgo en 
+relación con las dermatitis de contacto por plantas son floristas, horticultores, cocineros, 
+amas de casa, ebanistas, carpinteros y otras profesiones que trabajan con maderas. 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+A pesar del gran número de plantas susceptibles de provocar dermatitis de contacto, el 
+90% de los casos son atribuibles a un reducido número de familias vegetales. El 
+diagnóstico resulta fácil cuando la clínica corresponde a la clásica imagen de erupción 
+aguda, eritematosa o ampollosa, de figuras caprichosas, limitada a partes descubiertas. 
+Las plantas pueden producir dermatitis de contacto por un mecanismo irritativo, alérgico o 
+mixto. Las más frecuentes tienen un origen irritativo, pudiendo deberse a una o varias de 
+las siguientes acciones: 
+1. Lesiones mecánicas en relación con los traumas o microtraumas producidos por 
+espinas, pelos, aguijones, etc. 
+2. Efectos tóxicos como los debidos al polvo de madera. 
+3. Efectos farmacológicos como la liberación de mediadores (histamina, factores 
+quimiotácticos, etc) por el contacto con pelos de hortiga, especias, etc. 
+En nuestro medio, la hiedra común, la ruda y los crisantemos son plantas que causan 
+con relativa frecuencia dermatitis de contacto. Las sustancias químicas naturales que son 
+responsables de alergia de contacto por plantas tienen estructuras muy diversas. Desde 
+el punto de vista dermatológico son muy importantes los fenoles, los alcoholes 
+aromáticos, los aldehídos y los terpenos de las plantas. 
+La fitofotodermatosis se produce cuando la luz ultravioleta actúa sobre compuestos 
+químicos relacionados con las furocumarinas de las plantas. Se trata más de una fototoxia 
+que de una fotoalergia. 
+40
+
+Pseudofitofotodermatosis son erupciones que parecen haber sido producidas por 
+plantas pero en realidad son debidas a diversos agentes existentes en las mismas 
+(artrópodos, insecticidas, tintes y ceras aplicadas en los cítricos). 
+2.2.
+Fuentes de exposición, usos y efectos sobre la salud 
+x Frullania: son plantas parecidas a los musgos que crecen sobre la corteza de los 
+árboles: castaños, acacias, chopos, roble y encina). La dermatitis por estas plantas 
+afecta principalmente a las zonas descubiertas: cara, cuello, manos y en ocasiones se 
+afecta la zona genital por el antígeno transportado por las manos. El sol empeora la 
+dermatitis pero no está demostrada una verdadera fotoalergia. Las profesiones de 
+mayor riesgo son los madereros. 
+x Líquenes: los trabajadores forestales sufren a veces dermatitis de contacto a los 
+líquenes. Se conoce la alergia de contacto frente a 4 líquenes (Cladonia, Evernia, 
+Parmelia y Usnea) que parece tener alguna relación con la luz, con posible 
+fotosensibilidad. No puede hablarse de fotosensibilidad cruzada pero una misma 
+persona puede sensibilizarse a varios líquenes al mismo tiempo. 
+x Ajo, cebolla, y otras especies del género Allium: los cocineros y amas de casa sufren 
+con frecuencia pulpitis producidas por el ajo. Se ha demostrado alergia al ajo pero 
+puede actuar a veces sólo como irritante.
+x Compositae: Las profesiones más susceptibles de sensibilización a esta familia de 
+plantas son los cocineros, los horticultores, los vendedores, los floristas y cultivadores 
+de flores. 
+La denominada Compositae dermatitis se trata de una dermatitis de contacto por 
+plantas de la familia Compuesta que incluye más de 25.000 plantas y de las cuales, 
+por lo menos 200 se han descrito como responsables de dermatitis de contacto. Como 
+ejemplos existen algunas plantas habituales en nuestro entorno: lechuga, endivias y 
+alcachofas; dalia, crisantemo y margaritas; maleza, matorral y camomila. Los 
+alergenos responsables son las lactonas sesquiterpénicas. 
+x Pinacea: Por destilación de la resina de Pinus se obtiene un producto sólido: colofonia 
+(70-85%) y trementina (15-30%). La esencia de trementina es un aceite volátil 
+destilado de la resina del pino. La composición de las trementinas depende de su 
+origen. La composición de las trementinas, y por tanto, su capacidad alérgica, 
+depende de su origen. El cuadro clínico afecta principalmente a cara y manos. Uno de 
+los mayores problemas de las dermatitis de contacto profesionales fue la alergia a la 
+trementina en pintores albañiles, carpinteros y ebanistas. La colofonia es muy 
+empleada en la grifería, fabricación de jabones, lubricantes, cosméticos, pinturas, etc. 
+x Primavera: La parte activa de la planta son las hojas, cuyos pelos contienen un 
+antígeno potente. La dermatitis afecta especialmente a la cara y las manos. Además 
+de causar dermatitis, la prímula puede producir conjuntivitis, iritis, queratitis y eritema 
+multiforme. La prímula obconia no se encuentra en nuestro país.  Las sensibilizaciones
+de la primavera o prímula se producen en cultivadores, floristas y amas de casa. 
+41
+
+x Anacardiacea: la dermatitis de contacto por “poison ivy” y “poison oak” en Estados 
+Unidos es muy importante, pero no asi en Europa. 
+x Tulipán: produce con frecuencia una pulpitis de los dedos. 
+Se han descrito otras dermatitis menos frecuentes a plantas exóticas y también 
+dermatitis por el lúpulo en la fabricación de la cerveza. 
+Pueden 
+producirse 
+reacciones 
+sistémicas 
+por 
+ 
+plantas 
+(ingestión 
+de 
+henopodiáceas) y algunas pueden producir alopecia por su contenido en mimosina y 
+colchicina.
+La turpentina es una oleoresina de una especie de pino. Su potencial irritante y 
+sensibilizante varía de país a país. Los productos que contienen turpentina más 
+comunmente son los barnices, pinturas, disolventes y productos de limpieza además de 
+insecticidas, desinfectantes, fungicidas, conservantes de la madera, repelentes, etc. 
+Relación de plantas más sensibilizantes
+9Familia Amarillidaceae (narciso) 
+9Familia Anacardiaceae (hiedra) 
+9Familia Araliaceae
+9Familia Compositae (ambrosia, crisantemo, 
+etc.)
+9Familia Liliaceae (tulipan) 
+9Familia Primulaceae (primavera) 
+Relación de vegetales y frutas más sensibilizantes:
+9Familia Alliaceae (cebolla, ajo) 
+9Familia Bromeliaceae (piña) 
+9Familia Cruciferae (coles de Bruselas, 
+repollo)
+9Familia Rutaceae (naranja, limón, lima) 
+9Familia Umbilliferae (zanahoria, perejil, 
+apio)
+Otras familias de plantas que producen dermatitis:
+9Familia Alstroemeriaceae (Alstroemeria) 
+9Familia Capparidaceae (Alcaparra) 
+9Familia Chenopodiaceae (espinacas) 
+9Familia Cannabidaceae (lúpulo) 
+9Familia Cactaceae (cactus) 
+9Familia Araceae
+9Familia Hydrophyllaceae 
+9Familia Euphorbiacae
+(Tabla 16) 
+Profesiones o industrias con riesgo: 
+9Cocineros
+9Horticultores
+9Vendedores
+9Floristas y cultivador de flores 
+9Agricultores
+9Madereros
+9Leñadores
+9Trabajadores forestales 
+9Carpinteros
+9Ebanistas
+9Pintores (Trementina) 
+9Albañiles (Trementina) 
+9Fontaneros (colofonia) 
+9Industria de fabricación de cerveza 
+9Industria de fabricación de jabones 
+9Industria  de fabricación de cosméticos 
+9Industria  de fabricación de lubricantes 
+9Industria de fabricación de pinturas 
+9Utiliza germicidas, fungicidas, pesticidas
+(Tabla 17) 
+42
+
+2.3.
+Mecanismo de acción 
+Dentro de las dermopatías de contacto por efecto inmunológico, pueden 
+distinguirse reacciones de hipersensibilidad inmediata (tipo I) como urticarias de contacto 
+por frutas, vegetales de cocina y sobre todo reacciones por hipersensibilidad retardada 
+(tipo IV). Dentro de este segundo grupo pueden incluirse las fitofotodermatosis en las que 
+además del contacto se necesita la exposición a la radiación ultravioleta. 
+La mayoría de los haptenos de las plantas son electrófilos. Otros son prohaptenos, 
+es decir, antes de transformarse en verdaderos haptenos tienen que sufrir procesos de 
+oxidación, reducción, hidrólisis u otra reacción química, por ejemplo, los pirocatecoles se 
+transforman en ortoquinonas en la piel. Estos haptenos reaccionan después con los 
+grupos nucleófilos de las proteínas cutáneas dando lugar a la formación de antígenos. 
+Otros haptenos son fotohaptenos, es decir, solo se comportan como alergizantes en 
+presencia de la luz, formándose productos intermedios llamados radicales que reaccionan 
+con las proteínas cutáneas. Más a menudo estas plantas son fototóxicas, reaccionando 
+con todos los individuos, sensibilizados o no, fijándose las sustancias activas en los 
+ácidos nucleicos (ARN, ADN). 
+3.
+EVALUACIÓN DEL RIESGO 
+Las dermopatías producidas por las plantas afectan principalmente a los 
+trabajadores del campo, floristas, cocineros, leñadores, etc. Es importante considerar la 
+influencia de la exposición solar en el desarrollo de algunas de estas dermopatías. En 
+ocasiones las dermatitis no son profesionales sino que se produce el contacto por 
+diversas aficiones o hábitos. 
+43
+
+METALES
+44
+
+CROMO
+1.
+CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para prevenir  la patología cutánea que se produce en el 
+medio laboral debido a la exposición al cromo. En muchos casos es posible evitar la 
+exposición y la detección precoz de algunos signos cutáneos y síntomas permite 
+intervenir desde el punto de vista médico y laboral. 
+Es de aplicación en todos aquellos trabajadores que tienen contacto con el cromo 
+en alguna de sus formas químicas con capacidad de sensibilización. Debe tenerse en 
+cuenta que las sales de cromo pueden estar presentes no solo en el mundo laboral sino 
+también desde el punto de vista doméstico: lejías, detergentes, cerillas, cremas de afeitar 
+y lociones, betunes, etc. así como , en una dieta normal (0,04 mg-015 mg/día). 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+El dicromato potásico es la sal ceptos del ácido dicrómico, donde el alergeno es el ion 
+Cr2 O7. Existe la forma de dicromato de K, Na, Ca y Ba, pero el más importante desde el 
+punto de vista de la patología cutánea es el dicromato potásico. La sensibilidad al 
+dicromato potásico supone un % muy alto dentro de las positividades halladas en el 
+cómputo total de las pruebas epicutáneas que se realizan en un servicio de dermatología 
+o alergología y un 5,3% de las mismas tienen un origen profesional. 
+Las sales trivalentes del cromo se emplean como agentes de curtido, como 
+colorantes en barnices y pinturas y como componentes de esmaltes verdes. 
+2.2.
+Fuentes de exposición y usos 
+El cromo es un metal ubicuo y sus sales presentan resistencia considerable a la 
+oxidación frente a la humedad e incluso frente a temperaturas altas, hecho que les 
+convierte en excelentes inhibidores de la corrosión. Por ello, las sales de cromo existen en 
+mayor o menor cantidad en todas las ramas de la industria. 
+45
+
+Fuentes de cromo 
+9CEMENTO (es la causa del 
+80% de las 
+sensibilizaciones al 
+dicromato)
+9Taladrinas
+9Aceites de corte 
+9Fabricación de aleaciones 
+resistentes a la corrosión 
+9Cromado electrolítico 
+9Fabricación de cromatos y 
+bicromatos (litografía, 
+industria textil, pinturas, etc) 
+9Ladrillos refractarios para 
+altos hornos 
+9Catalizadores
+9Cerámicas
+9Cintas magnéticas 
+9Pinturas y barnices 
+9Cubiertas
+9Conservantes de madera 
+9Material de soldadura 
+9Cosméticos
+9Construcción (cemento) 
+9Metalurgia (aleaciones) 
+9Industria del automóvil 
+9Litografía, imprenta 
+9Manufacturación de 
+televisores
+9Componentes electrónicos 
+9Fundición de metales 
+9Fabricación de material 
+para oficinas. Labores 
+administrativas (papel, 
+fotocopias, tinta) 
+9Industria de cuero y calzado
+9Industria galvánica 
+9Industria textil: tintorería 
+textil industrial, protección e 
+impregnación de fibras, 
+(ropa verde militar) 
+9Industria del caucho 
+9Industria del vidrio 
+9Industrias de porcelana 
+9Cerámica para construcción 
+y cerámica fina 
+9Industrias gráficas: tintas, 
+9Serigrafía
+9Industria fotográfica 
+9Industria química 
+9Industria farmaceútica 
+9Industria de la fundición 
+9Industria fosforera 
+9Agricultura y jardinería 
+9Conservación de carreteras 
+y calles
+9Panaderías (cenizas de 
+madera de horno) 
+9Ferrocarriles: protectores 
+contra la corrosión en la 
+refrigeración de 
+locomotoras,herbicidas,
+descongelantes
+9Fabricación de pilas 
+9Fabricación de papel, 
+cartón, papel moneda, 
+engomado para sellos, 
+papel precintado, etiquetas 
+autoadhesivas
+9Fabricación de sprays 
+9Fabricación de catgut 
+cromado
+9Controles analíticos de la 
+leche con pastillas de 
+dicromato potásico y cloruro 
+de mercurio 
+9Fabricación de flores 
+artificiales
+9Cererías
+9Fábricas de explosivos 
+9Fabricación de ceras para 
+abrillantado de maderas 
+9Fabricación de betunes 
+9Fabricación de radio y 
+televisión
+(Tabla 18) 
+1. Mecanismo de acción 
+El cromo actúa como sensibilizante en sus formas tri o hexavalente. El cromo 
+hexavalente penetra más fácilmente a través de la piel, transformándose en ella en 
+trivalente. En cambio el cromo trivalente a pesar de ser mucho más sensibilizante 
+penetra difícilmente la piel, por lo que en realidad se comporta de forma menos 
+agresiva.
+2. Efectos sobre la salud 
+El cromo además de sensibilizante es muy irritante, produciendo úlceras en la piel por 
+contacto repetido con ácido crómico y cromatos sódico y potásico y dicromato 
+potásico. La ulceración es más intensa cuando estos productos contactan con 
+superficies húmedas como la mucosa nasal. También puede ser muy agresivo sobre 
+abrasiones o pequeñas heridas cutáneas. 
+46
+
+Cuando se produce la sensibilización, persisten las lesiones activas durante muchos 
+años incluso sin tener relación con el metal, al menos abiertamente. Este hecho parece 
+explicarse debido a la persistencia del cromo ligado indefinidamente a alguna estructura 
+dérmica.
+Como resumen diremos que el cromo puede producir: ulceración septo nasal y 
+conjuntiva; ulceración periungueal, dorso de articulaciones interfalángicas y párpados; 
+dermatitis eccematosa en dorso de brazos, muñecas y cuello, dorso dedos y manos 
+extensa y persistente; dermatitis tipo eccema numular; liquenificación y xerosis tipo 
+dermatitis atópica; mayor sensibilidad a la radiación solar. 
+3.
+EVALUACIÓN DEL RIESGO 
+La sensibilidad al cromo es de gran importancia debido al elevado número de 
+trabajadores con sensibilidad positiva a este metal, su capacidad irritante y sobre todo 
+debido a que las fuentes de exposición y sus usos son muy numerosos tanto en el medio 
+laboral como extralaboral. 
+El cromo y sus derivados solubles pueden determinarse tanto en los hematíes 
+como en orina. El valor normal de cromo en orina es menor de 10µg/g de creatinina. La 
+concentración máxima permisible es 30µg/g de creatinina. 
+El control biológico puede certificar la relación causa-efecto, pero el diagnóstico de 
+sensibilización lo darán unicamente las pruebas epicutáneas. 
+Los niveles de exposición se fijarán atendiendo a lo establecido en el documento 
+Limites de exposición profesional para Agentes Químicos en España, del Instituto 
+Nacional de Seguridad e Higiene en el Trabajo. Para el 2001 estos valores son los que se 
+muestran en la tabla. 
+VLA-ED
+Cromo metal, compuesto inorgánico Cr(II) y Cr(III) 
+0,5 mg/m3
+Cromo (VI) compuestos solubles 
+0,05 mg/m3
+47
+
+NIQUEL
+1.
+CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para prevenir  la patología cutánea que se produce en el 
+medio laboral debido a la exposición al níquel. En muchos casos es posible evitar la 
+exposición, y la detección precoz de algunos signos cutáneos y síntomas permite 
+intervenir desde el punto de vista médico y laboral. 
+Es de aplicación en todos aquellos trabajadores que tienen contacto con el níquel. 
+Debe tenerse en cuenta que el níquel, en contraste con el cromo, tiene menor 
+trascendencia laboral y adquiere gran importancia en las mujeres dedicadas a las labores 
+del hogar. 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+El níquel es un metal fuerte de color blanco-plateado que resiste la corrosión y se 
+utiliza para galvanización y aleaciones. Su potencial alergénico es alto, constituye el 
+alergeno más frecuente en el medio extralaboral. La sensibilización acontece a edades 
+tempranas de la vida, aunque suele diagnosticarse más tarde entre los 21-30 años. El 
+claro predominio de la sensibilización al níquel en mujeres (90,4%) parece estar 
+relacionado con el contacto con la bisutería y con la perforación de los lóbulos de las 
+orejas.
+2.2.
+Fuentes de exposición y usos 
+El níquel se encuentra preferentemente en objetos metálicos en forma de sales de 
+níquel. Las baterías de carga, los catalizadores, cerámicas, productos electrónicos, 
+productos niquelados, pigmentos que contienen fosfato de níquel y productos textiles, son 
+algunos de los objetos más utilizados en la industria que contienen níquel. 
+48
+
+Fuentes de niquel 
+ Industria del automóvil. Mecánicos de autos 
+ Pintores
+ Cajeros y taquilleras 
+ Textiles (Tintorería) 
+ Catalizadores de níquel en los reactores 
+químicos
+ Trabajadores de acumuladores 
+ Ceramistas. Cementos 
+ Antioxidantes
+ Electricistas
+ Industria de bujías 
+ Fabricantes de tintas o emplean tinta 
+(litografía, imprenta,…) 
+ Manufacturas electrónicas 
+ Fotocopistas
+ Industrias del caucho 
+ Joyeros
+ Gasolina
+ Preparación aceros especiales 
+ Trabajadores de utensilios de cocina 
+ Pigmentos (pinturas, lacas, plásticos, 
+cosméticos) (Compuestos que contienen 
+fosfato de Ni) 
+ Niquelado por electrolisis 
+ Fabricación de monedas 
+(Tabla 19) 
+Relación materiales y productos que maneja en su trabajo que pueden contener NÍQUEL 
+9Herramientas, utensilios e instrumental 
+9Antioxidantes
+9Catalizadores
+9Cerámicas
+9Material electrónico 
+9Gasolina
+9Pigmentos (pinturas, lacas, plásticos, 
+cosméticos)
+9Baterías
+Industrias con alto riesgo de contacto con NÍQUEL
+9Mecánicos
+9Industria de bujías 
+9Manufactura de catalizadores 
+9Cerámicas
+9Máquinas duplicadoras 
+9Manufacturas electrónicas 
+9Trabajadores que emplean tinta (litografía, 
+imprenta, etc.) 
+9Joyeros
+9Industrias de caucho 
+9Industria textil (tintorería) 
+9Cajeros
+(Tabla 20) 
+2.3.
+Mecanismo de acción 
+El roce, el sudor, el calor, la sal común, los álcalis y los ácidos (ácido oxálico) facilitan 
+el desprendimiento de níquel desde la superficie de los objetos niquelados en cantidad 
+suficiente para sensibilizar y para desencadenar la dermatitis. Hay muchas aleaciones 
+(acero inoxidable entre ellas) que desprenden níquel pero otras aleaciones que contienen 
+níquel no lo hacen. Excepto en raros casos de sensibilidad intensa, los objetos de níquel 
+deben permanecer durante un cierto tiempo en contacto con la piel para provocar 
+dermatitis en los individuos sensibilizados. Está demostrado que la obesidad y la 
+transpiración favorecen la aparición de dermatitis. 
+Algunas personas alérgicas al níquel empeoran al ingerirlo, bien a través de alimentos 
+que lo contienen o a través del que se desprende de los utensilios en que se cocinan. 
+Este mecanismo patogénico endógeno no debe considerarse siempre como obligado. 
+49
+
+2.4.
+Efectos sobre la salud 
+En contraste con la dermatitis de contacto al cromo que es mucho más frecuente en 
+varones, la dermatitis de contacto al níquel es mucho más frecuente en mujeres. La 
+sensibilización no suele producirse antes de los 10 años de edad y no es raro comprobar 
+antecedentes familiares de sensibilización. 
+La dermatitis por contacto al níquel no difiere en su morfología de otras dermatitis de 
+contacto pero tiene algunos rasgos clínicos peculiares, como son su localización en el 
+punto de roce con un metal, la frecuencia de brotes de eccema de manos tipo dishidrosis, 
+la afectación de la flexura de los codos, párpados y cuello que recuerda a la dermatitis 
+atópica, la facilidad con que un atópico sufre irritación y sensibilización a los productos 
+niquelados, la diseminación en forma de eccema numular o en placas y el prurito intenso 
+sin lesiones. Los brotes por sensibilización al níquel pueden repetirse a lo largo de toda la 
+vida, debiendo evitar el contacto con objetos metálicos lo máximo posible. 
+Pueden ser potencialmente carcinógenos los trabajos que supongan exposición al 
+polvo y humo producido durante la calcinación y el afinado eléctrico de las matas de 
+níquel.
+Ante una exposición al níquel debemos preguntar si existen las siguientes lesiones 
+cutáneas: lesiones dishidróticas en manos y pies; eccema extenso, crónico y persistente; 
+eccema difuso con xerosis similar a la dermatitis atópica;  afectación palmar y en 
+localizaciones de máxima fricción en relación a botones, anillos, collares...; tiene prurito 
+sin lesiones cutáneas, como evidencia de una intolerancia a prótesis metálica o a otra 
+causa que produzca una impregnación endógena por niquel. 
+3.
+EVALUACIÓN DEL RIESGO 
+La sensibilidad al níquel tiene menor importancia en el mundo laboral que la 
+sensibilidad al cromo a pesar de que las fuentes de exposición y uso son numerosas. 
+Cabe reseñar su poder carcinogénico en las situaciones ya reseñadas. 
+El níquel y sus derivados solubles pueden determinarse tanto en el plasma como 
+en orina. El valor normal de níquel en orina es menor de 5µg/g de creatinina. En plasma el 
+valor normal de níquel es menor de 1ʌg/100ml.
+El control biológico puede certificar la relación causa-efecto, pero el diagnóstico de 
+sensibilización lo darán unicamente las pruebas epicutáneas. 
+50
+
+Los niveles de exposición se fijarán atendiendo a lo establecido en el documento 
+Limites de exposición profesional para Agentes Químicos en España, del Instituto 
+Nacional de Seguridad e Higiene en el Trabajo. Para el 2001 estos valores son los que se 
+muestran en la tabla. 
+VLA-ED
+Níquel:
+Compuestos insolubles 
+1 mg/m3
+Compuestos solubles 
+0,1 mg/m3
+Metal:
+ 1 mg/m3
+51
+
+COBALTO
+1.
+CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para prevenir  la patología cutánea que se produce en el 
+medio laboral debido a la exposición al cobalto. En muchos casos es posible evitar la 
+exposición y la detección precoz de algunos signos cutáneos y síntomas permite 
+intervenir desde el punto de vista médico y laboral. 
+Es de aplicación en todos aquellos trabajadores que tienen contacto con el cobalto 
+en alguna de sus formas químicas con capacidad de sensibilización. Debe tenerse en 
+cuenta que el cobalto puede estar presente no solo en el mundo laboral. 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+El cobalto es un metal blanco azulado, muy duro y dotado de propiedades 
+magnéticas. Los principales minerales son arseniuros, sulfuros y óxidos. 
+El cobalto es uno de los alergenos más frecuentes después del níquel. Es 
+considerado como un contaminante del níquel por lo que ambas sensibilidades pueden 
+presentarse juntas. Además de las aleaciones en la que el cobalto es sintéticamente 
+combinado con el cromo y el níquel, también se encuentra en asociación con estos 
+metales en la naturaleza. En los hombres es frecuente encontrar “cosensibilidad” con el 
+cromo y la sensibilidad mixta al cobalto-níquel se observa más habitualmente en mujeres. 
+Es excepcional observar reacciones epicutáneas positivas sólo al cobalto. Las sales que 
+más sensibilizan son el cloruro y el nitrato que además han sido identificados como 
+fotosensibilizantes. El sulfato y otras sales menos comunes son menos sensibilizantes. 
+2.2.
+Fuentes de exposición y usos 
+Se utiliza para producir aleaciones resistentes. 
+52
+
+Fuentes de cobalto 
+ Industria del cemento y la construcción 
+ Detergentes y productos de limpieza 
+ Industria de metales duros: perforadoras, 
+máquinas para  cortar y extractoras, 
+prensadoras, triturad  oras. 
+ Industria de las resinas de poliester y del 
+caucho (acelerante) 
+ Industria del acabado de mármol 
+ Industria de carburos metálicos 
+ Peluquería (utensilios metálicos, tintes de 
+pelo)
+ Pigmentos y secantes en lacas, barnices, 
+pinturas, tinta para imprentas, pigmentos y 
+esmaltes utilizados en la alfarería, cerámica, 
+vidriocristal, pinturas, artes gráficas 
+ Joyería
+ Fabricación y manipulación de alimentos a 
+los que se añaden Co. Piensos compuestos 
+ Cosméticos
+ Tatuajes
+ Componentes metálicos de vestidos y 
+calzados, operarios de la industria del 
+galvanizado,  estabilizador de la espuma de 
+cerveza, degradación del gas de escape de 
+los motores de combustión, industria de 
+pieles, conservador de madera, líquidos 
+limpiadores de lentes de contacto, fabricación 
+de semiconductores, monturas para gafas de 
+plástico, fabricación de adhesivos, 
+barómetros e higrómetros, catalizadores, 
+mascaras de gases, etc 
+(Tabla 21) 
+2.3.
+Efectos sobre la salud 
+El cobalto se utiliza como aditivo en algunos alimentos, cerveza, Vit B 12 (CoCl 2)
+por lo que puede sensibilizar por administración sistémica del mismo en pacientes 
+previamente sensibilizados. 
+El cloruro de cobalto puede producir urticaria de contacto, hecho común por el 
+empleo de rimmel azul. 
+El aluminato de cobalto puede producir reacciones alérgicas de tipo sarcoideo en 
+áreas donde ha sido utilizado como tatuaje azul. 
+3.
+EVALUACIÓN DEL RIESGO 
+Es frecuente la asociación de reacciones concomitantes, mal llamadas cruzadas, 
+entre el cobalto, el cromo y el níquel, pero la incidencia de dermatitis únicamente debidas 
+a las sales de cobalto es mucho menor. 
+Las fuentes de exposición y sus usos son muy numerosas en el medio laboral. 
+El cobalto puede determinarse en la orina. El valor normal de cobalto en orina es 
+menor de 2µg/g de creatinina. La concentración máxima permisible es 15µg/l . 
+El control biológico puede certificar la relación causa-efecto, pero el diagnóstico de 
+sensibilización lo darán unicamente las pruebas epicutáneas.
+53
+
+OTROS METALES 
+1. 
+MERCURIO 
+Tras el cromo, níquel y cobalto, es el metal que da lugar a mayor numero de 
+sensibilizaciones. La capacidad sensibilizante de este elemento se extiende a: el metal, 
+las sales inorgánicas de mercurio y los compuestos orgánicos (merthiolate, 
+mercurocromo, etc.). 
+Fuentes de Mercurio 
+ Baterías
+ Maderas (conservantes) 
+ Catalizadores
+ Pinturas
+ Desinfectantes y pesticidas. Fungicidas 
+ Reactivos analíticos 
+ Embalsamadores
+ Tejidos
+ Espejos
+ Tintes
+ Cosméticos
+ Medicamentos
+ Fabrica de municiones 
+ Fotografía, reforzador de fotografías 
+ Grabados
+ Herbicidas
+ Litografía
+ Metalurgia
+(Tabla 22) 
+Las sales inorgánicas muy utilizadas antiguamente en diversos fármacos también 
+se utilizan como fungicidas, germicidas y en la fabricación de baterías eléctricas. 
+Los compuestos orgánicos raramente causan sensibilización y se utilizan como 
+plasticidas, agentes antimicrobianos, en aceites, pinturas e industria textil, como 
+antisépticos generales en la industria del papel y en los forros de los zapatos.
+Mercurio: Una fuente importante de sensibilización es el uso tópico de compuestos 
+mercuriales como agentes antisépticos (mercomina). Otra posible fuente puede ser la 
+administración de algunas vacunas. 
+Efectos sobre la salud: El mercurio produce por contacto cambios pigmentarios en la piel, 
+por simple depósito puede colorearla, pero puede actuar también interferiendo la síntesis 
+de la melanina, bien inhibiéndola (hipopigmentación) o estimulándola (hiperpigmentación). 
+Existen reacciones cruzadas entre el mercurio metálico y los compuestos orgánicos 
+e inorgánicos. Puede aparecer una dermatitis por administración sistémica del mercurio 
+cuando se administra como medicación e incluso cuando se ingiere cualquier alimento 
+que lo contenga como conservador, en sujetos previamente sensibilizados por vía tópica. 
+El mercurio, salvo los derivados alquilados,  puede determinarse en la orina, la 
+sangre y la saliva. El valor normal de mercurio en orina es menor de 5µg/g de creatinina. 
+La concentración máxima permisible es 35µg/g de creatinina.
+En sangre, el valor normal de mercurio es menor de 1µg/100ml y la concentración 
+máxima permisible es 15µg/l. 
+54
+
+2. 
+ALUMINIO 
+El aluminio no ocasiona reacciones alérgicas. Sus sales pueden ocasionarlas muy 
+raramente. Son comunes las irritaciones de tipo folicular producidas por las sales de 
+aluminio contenidas en los antiperspirantes y desodorantes. Las sales se utilizan como 
+astringentes, antisépticos, componentes de tintes en manufacturación de piel y agentes 
+anticorrosivos.
+Fuentes de aluminio 
+9Aditivos de la gasolina 
+9Catalizadores
+9Reductor en la industria química 
+9Petróleo refinado 
+9Cerámicas y esmaltes
+9Construcciones mecánicas
+9Producción de aleaciones
+9Depuración de aguas duras
+9Tintas de impresión
+9Mordiente en industria textil 
+9Utensilios buenos conductores del calor 
+9Material de embalaje para alimentos 
+9Cubiertas dentales 
+9Pinturas y barnices 
+9Papel (encolado) 
+9Insecticidas, fumigantes 
+9Explosivos
+9Curtido de pieles
+(Tabla 23) 
+El aluminio puede determinarse en la orina y el suero. El valor normal de aluminio 
+en orina es menor de 50µg/g de creatinina. El valor normal de aluminio en suero es menor 
+de 1µg/100ml . 
+Los niveles de exposición se fijarán atendiendo a lo establecido en el documento 
+Limites de exposición profesional para Agentes Químicos en España, del Instituto 
+Nacional de Seguridad e Higiene en el Trabajo. Para el 2001 estos valores son los que 
+se muestran en la tabla. 
+VLA-ED
+VLA-EC
+Aluminio:
+Alquilos
+ 2 mg/m3
+Óxido de aluminio: fracción inhalable
+5 mg/m3
+Mercurio:
+10 mg/m3
+Elemental y compuestos inorgánicos
+0,025 mg/m3
+Alquil compuestos
+0,01 mg/m3
+0,03 mg/m3
+Aril compuestos
+0,1 mg/m3
+55
+
+3. ARSENICO
+Fuentes de arsénico 
+9Anticorrosivo en baterías 
+9Semiconductor en productos eléctricos
+9Industria colorantes arsenicales
+9Aleación con otros metales
+9Disecado de animales
+9Curtido y peletería
+9Fundidores de metales 
+9Industria electrónica 
+9Fabricación y utilización de insecticidas, 
+herbicidas y fungicidas 
+9Limpiadores de chimeneas 
+9Transportistas del polvo
+(Tabla 24) 
+La manipulación o contacto con productos que contienen ARSÉNICO puede provocar:
+reacciones pustulosas (foliculitis, forunculosis ) y úlceras; dermatitis de contacto irritativa
+(692.990); lesiones pigmentarias;  lesiones queratósicas; enfermedad de Bowen; 
+carcinomas espinocelulares; líneas de Mees ungueales; alopecia; polineuritis (inhalación 
+de gas); dermatitis de contacto alérgica. 
+4. ORO 
+Fuentes de oro 
+9Manufacturas de vidrio y porcelana 
+9Tintas, fotografia 
+9Semiconductor en productos eléctricos 
+9Medicación para artritis reumatoide 
+(Tabla 25) 
+Efectos sobre la salud 
+La sensiblidad por contacto al oro (rara), produce un cuadro papuloso 
+extraordinariamente crónico y rebelde, tardando meses en curar, aún  despues de retirar 
+el objeto causante. No confundir con la crisiasis o erupción liquenoide con lesiones 
+diseminadas que aparece siempre que se alcanzan determinadas dosis totales en los 
+tratamientos con compuestos de oro. 
+56
+
+PLÁSTICOS Y
+RESINAS SINTÉTICAS 
+57
+
+ 1. 
+CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para prevenir  la patología cutánea que se produce en el 
+medio laboral debido a la exposición a plásticos, Los plásticos tienen innumerables 
+aplicaciones en la actualidad, hasta el punto de haber sido llamado el siglo XX "la era del 
+plástico". Son frecuentemente causa de dermatosis, tanto en los que trabajan en su 
+fabricación como en los usuarios.
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+Las resinas pueden ser naturales y sintéticas. Actualmente solo se utilizan las 
+formas sintéticas que pueden  ser termoplásticas o termoestables, según puedan ser o no 
+moldeadas por el calor durante e incluso después de su proceso de fabricación. 
+Las resinas más sensibilizantes son: resinas epoxi, resinas de formaldehído y resinas 
+acrílicas. Las menos sensibilizantes son las resinas de poliéster, de poliuretano,  de 
+acetato y nitrato de celusosa, vinílicas, poliestireno, resinas alkidas, siliconas, etc. 
+x Manipula el trabajador alguno de estos elementos: 
+9Resina epoxi 
+9Resina formaldehído 
+9Resinas acrílicas 
+9Acetato y nitrato de celulosa 
+9Resinas de poliuretano 
+9Cloruro de polivinilo (PVC) y 
+acetato polivinilo 
+9Otras resinas 
+58
+
+2.2. 
+RESINAS EPOXI
+Fuentes de exposición y usos 
+Tareas con riesgo las que manejan: 
+9Fundición o revestimiento con fibra de vidrio 
+en plásticos, inductria de aviones, tarjetas de 
+circuitos electrónicos 
+9Pinturas y revestimientos 
+9Laminación y revestimiento de metales 
+(protección corrosión) 
+9Recubrimiento de suelos
+9Laminado y adhesivos
+9Reparación de grietas de hormigón 
+9Aislantes eléctricos 
+9Cola para metales, caucho, gomas, plásticos
+y cerámica
+9Material dental 
+9Material electrónico 
+9Caucho y cuero sintético
+9Forros de frenos y pedales de embrague 
+Materiales en los que es posible que persistan trazas de resina epoxi no endurecida:
+9Tapas a rosca 
+9Carcasas de película 
+9Muebles
+9Letreros
+9Piezas metálicas 
+9Etiquetas textiles 
+9Sacos
+9Cánulas nasales 
+9Aparatos de hemodiálisis 
+9Marcapasos
+9Tiradores de puerta de latón y asas de 
+utensilios
+Son profesiones o industrias con riesgo:
+9Construcción
+9Industria aeroespacial 
+9Industria del automóvil 
+9Pintores
+9Electricistas
+9Industria textil 
+9Industria del papel 
+9Trabajadores en unidades de hemodiálisis 
+9Trabajadores de recubrimiento de suelos 
+industriales
+9Trabajadores que utilizan colas para gomas, 
+plástico o cerámicas
+(Tabla 26) 
+Mecanismo de acción 
+La resina epoxi puede actuar como irritante o como sensibilizante. La 
+sensibilización se produce con resinas de peso molecular por debajo de 500 daltons. El 
+principal agente sensibilizante parece ser el oligomero de la resina epoxi basado en el 
+diglicidiléter del tipo bisfenol A (DGEBA) con un peso molecular de 340. Aunque las 
+resinas completamente curadas no tengan teóricamente capacidad sensibilizante, en la 
+práctica pueden contener un 5-25% de resina no curada. Por otra parte aunque las 
+resinas de alto peso molecular tienen escaso o nulo poder sensibilizante contienen 
+proporciones variables de resinas de 340 de peso molecular.
+Existen algunos componentes que pueden producir efectos irritantes e incluso 
+producir quemaduras. Las pinturas y las materias primas de las pinturas son los agentes 
+causantes de dermatitis más frecuentes. 
+59
+
+Efectos sobre la salud 
+Las dermatosis por resina epoxi pueden ser variadas. Además de dermatitis de 
+contacto alérgica e irritativa, pueden producirse reacciones urticarianas, y manifestaciones 
+extracutáneas: asma, disnea, rinorrea, etc. 
+La dermatitis se localiza preferentemente en las manos y antebrazos, a nivel del 
+dorso sobre todo. A veces también se afecta la cara. Si se afecta la cara y los párpados, 
+la dermatitis puede estar causada por sensibilización aérea debida a los endurecedores y 
+diluyentes reactivos (dermatitis aerotransportada). Los endurecedores son responsables 
+de menos del 10% de las dermatitis alérgicas de contacto producidas por los compuestos 
+epoxi. En pacientes sensibilizados el mero hecho de entrar en una nave con pequeñas 
+cantidades de resina epoxi en el ambiente puede producirse una dermatitis 
+aerotransportada.
+Se ha descrito urticaria de contacto causada por endurecedores de resina epoxi, 
+anhídrido metilhexahidroftálico, anhídrido metiltetrahidroftálico.
+Se han descrito cambios cutáneos esclerodermiformes y eritema con fatiga, 
+pérdida de peso, mialgia y artralgia. No existe evidencia de afectación sistémica. 
+Las resinas epoxi son capaces de penetrar los guantes de plástico y de goma. Sólo 
+los guantes pesados de vinilo proporcionan suficiente protección. 
+60
+
+2.3.
+RESINAS DE FORMALDEHÍDO 
+Fuentes de exposición y usos 
+9Pegamento de madera, caucho, cuero y 
+zapatos
+9Anclajes
+9Pinturas anticorrosivas 
+9Reparación de firmes 
+9Reparación de fisuras en hormigón
+9Suelos industriales
+9Unión de elementos prefabricados 
+9Unión entre hormigones 
+9Bricolage
+9Encuadernación
+9Impregnación de papel y tejidos en la 
+producción de laminados (decorativos,
+industria de la construcción, ya que son 
+impermeables; entarimados) 
+9Aislamiento de paredes. Espuma aislante 
+9Ruedas de coche y teléfonos
+9Terminaciones del suelo de parqué 
+9Laminados y conglomerados (formica) para 
+entarimados
+9Adhesivos en la producción de maronita, 
+lana mineral y molduras
+9Colas para madera, piel, goma, objetos 
+fundidos y objetos de baquelita. Moldes de 
+objetos de mesa 
+9Fibra de vidrio 
+9Fabricación de lacas de uñas, colas, 
+adhesivos, pinturas, barnices, rotuladores, 
+paneles de aislamiento sonido y calor, 
+caucho y cuero sintético, aislante decables 
+electricos, papel, frenos, pedales de 
+embrague,…)
+9Sellantes
+9Gafas
+9Impermeables
+9Marcapasos
+9Ortopedia
+9Construcción civil 
+9Construcción militar 
+9Industria del calzado 
+9Industria textil (sustancia antiarruga) 
+9Industria de la fundición 
+9Industria electrica 
+9Industria del automóvil (fabricación del delco 
+y caja de fusibes) 
+9Industria de semiconductores
+9Industria del papel (Papel resistente al
+agua)
+(Tabla 27) 
+Mecanismo de acción 
+Las resinas de urea-formaldehído liberan con facilidad formaldehído por lo que la 
+sensibilización puede ser debida a la resina completa o al formaldehído. La eliminación de 
+formaldehído libre puede producirse durante años por un mecanismo de hidrólisis. 
+Efectos sobre la salud 
+Aunque en un comienzo la causa principal de dermatitis por resina formaldehído 
+era laboral, hoy en día debido a la automatización, y las medidas de prevención, son 
+escasas las sensibilizaciones profesionales. Las reacciones pueden ser de tipo irritativo, 
+reacciones alérgicas de tipo inmediato o más frecuentemente de tipo retardado. Algunas 
+resinas pueden producir despigmentación. Se desconoce el mecanismo por el cual se 
+produce despigmentación aunque puede deberse a la semejanza entre el fenol para-
+sustituido y el aminoácido tirosina para-sustituido. Algunos autores sugieren que 
+trabajadores expuestos a humo de resinas fenol-formaldehído durante más de 5 años, 
+pueden presentar alteraciones respiratorias crónicas. 
+61
+
+2.4. 
+RESINAS ACRÍLICAS
+Fuentes de exposición y usos 
+Monoacrilatos y monometacrilatos. 
+ Ventanas de tejados 
+ Utensilios domésticos 
+ Vidrios de reloj 
+ Bolsas
+ Tulipas de lámparas 
+ Limpiaparabrisas
+ Fabricación de dentaduras 
+ Audífonos protectores de ruido 
+ Cemento óseo en cirugía ortopédica 
+ Acabado de pieles 
+ Adhesivos sensibles a la presión 
+ Pinturas
+ Tintas de imprimir 
+ Revestimientos
+ Montura de gafas 
+Acrilatos multifuncionales. 
+ Colas acrílicas 
+ Adhesivos
+ Taponadores anaerobios 
+ Preparaciones de uñas artificiales 
+ Formulaciones de tintas 
+ Revestimiento de latas 
+ Retener y cerrar superficies metálicas planas
+ Envases de aerosoles 
+ Planchas de impresión 
+ Cierres de rosca 
+ Fotopolimeros
+ Revestimientos curables con U.V.:
+ Acabados de madera 
+ Barnices mate 
+ Barnices de parquet 
+ Selladores
+ Revestimiento en la fabricación de 
+muebles
+Acrilonitrilo.
+ Industria del automóvil 
+ Producción utensilios domésticos 
+ Gomas sintéticas y producción de plásticos 
+ Tejidos y pinturas 
+ Dispositivos electricos 
+ Maletas
+ Envases de alimentos 
+ Platos de un solo uso 
+Acrilamida.
+ Construcción y rehabilitación de diques, 
+edificios, cloacas y túneles 
+ Floculantes en el tratamiento de agua 
+potable y de aguas residuales 
+ Refinación de azúcar 
+ Control de flujo de agua en operaciones de 
+pozos de petróleo 
+ Adhesivos en la fabricación de papel 
+ Producción de fotopolimeros de impresión 
+Resinas acrílicas. 
+ Construcción
+ Obreros de rehabilitación de diques 
+ Construcción de túneles
+ Instaladores de ventanas 
+ Trabajadores sanitarios: 
+ Protésicos dentales 
+ Cirujanos ortopédicos 
+ Dentistas
+ Enfermeras
+ Técnicos quirúrgicos 
+ Industria del automóvil 
+ Industria pieles 
+ Imprentas
+ Preparadores de uñas artificiales 
+ Industria de fabricación de muebles 
+ Pintores
+ Producción de utensilios domésticos, 
+maletas, envases de alimentos, platos de un 
+solo uso 
+ Trabajadores del tratamiento de aguas 
+potables y residuales 
+ Trabajadores de la industria del petróleo 
+ Industria del papel 
+ Manufacturas de copolímeros 
+ Minería
+ Manufactura fibras sintéticas 
+ Sellantes
+ Cuero artificial 
+(Tabla 28)
+62
+
+Efectos sobre la salud 
+Pueden producir dermatitis por efecto irritante o por sensibilización. 
+La dermatitis por sellantes se produce en los pulpejos de los dedos que contactan con la resina en
+el manejo de los sellantes que requiere gran destreza manual. En algunos casos se afecta la uña, 
+produciendo onicolisis. 
+Algunas tintas pueden producir fotosensibilidad. La acrilamida puede producir por 
+absorción a través de la piel o por inhalación, neuropatía periférica, edema de extremidades, 
+ataxia grave, fatiga, etc 
+2.5. 
+OTRAS RESINAS
+Fuentes de exposición y usos 
+Acetato y nitrato de celulosa. 
+ Embalajes
+ Montura de gafas 
+ Barnices
+Resinas de poliester.
+ Tubos
+ Lacas
+ Cementos
+ Colas
+ Tintas
+ Plastificante de otros materiales plásticos 
+ Escayolas ortopédicas
+ Revestimiento de superficies. De madera, de 
+papel
+ Productos para el transporte y aplicaciones 
+marinas
+ Techos
+ Barcos
+ Cerámicas
+Resinas de poliuretano.
+ Fibras y gomas sintéticas 
+ Elastomeros
+ Pinturas
+ Lacas
+ Colas
+ Agentes ligantes 
+ Escayolas
+ Espumas flexibles (colchones, cojines, 
+guardabarros, etc..) 
+ Adhesivos
+ Revestimiento de superficies
+Cloruro de polivinilo (PVC) y acetato de polivinilo.
+ Productos de imitación de cuero cuero 
+artificial)
+ Pegamento de madera 
+ Muebles
+ Insecticidas, herbicidas 
+ Cubos de basura 
+ Industria del caucho 
+ Papeles de pared 
+ Ropas de mesa laminadas 
+ Moquetas
+ Juguetes
+ Mangueras de jardín 
+ Revestimento de cables eléctricos 
+ Cortinas de ducha 
+ Esparadrapo
+ Plásticos laminares 
+ Vendas
+ Escayolas
+ Sistemas de aguas residuales 
+ Productos agrícolas 
+ Cañerías de agua 
+ Marcos de ventana 
+ Platos y recipientes 
+ Trabajadores que procesan plásticos de 
+PVC
+(Tabla 29)
+63
+
+Efectos sobre la salud 
+La dermatitis por cloruro de polivinilo están causadas por los aditivos más que por 
+el propio cloruro de polivinilo. La enfermedad del cloruro de polivinilo es un síndrome que 
+produce esclerosis de la piel, osteolisis, trombocitopenia, trastornos circulatorios, 
+alteraciones hepáticas y pulmonares, fenómeno de Raynaud, etc.
+El cloruro de polivinilo también puede producir neoplasias de pulmón, sistema 
+linfático y hematopoyético, mucosa oral y más frecuentemente angiosarcoma hepático. 
+3.
+EVALUACIÓN DEL RIESGO 
+Los plásticos tienen innumerables aplicaciones en la actualidad y pueden afectar 
+principalmente a los trabajadores de la industria del plástico y en ocasiones a los 
+usuarios.
+Los niveles de exposición se fijarán atendiendo a lo establecido en el documento 
+Limites de exposición profesional para Agentes Químicos en España, del Instituto 
+Nacional de Seguridad e Higiene en el Trabajo. Para el 2001 estos valores son los que se 
+muestran en la tabla. 
+VLA-ED
+Acrilonitrilo
+2 ppm  4,4 mg/m3
+Isocianato de fenilo 
+0,01 ppm , 0,05 mg/m3
+Isocianato de metilo 
+0,02 ppm , 0,047mg/m3
+64
+
+GOMAS
+65
+
+1. CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para prevenir  la patología cutánea que se produce en el 
+medio laboral debido a la exposición a gomas, principalmente a los aditivos de las gomas, 
+En la actualidad, debido a su uso siempre creciente, se ha observado un incremento de 
+las dermatosis producidas por gomas. Los componentes naturales de las gomas son 
+generalmente menos sensibilizantes que los aditivos utilizados en su elaboración, que son 
+los que van a originar dermatitis de contacto alérgica. 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+El caucho puede ser natural, regenerado y sintético. El natural se obtiene de los 
+árboles cauchíferos, que producen un líquido viscoso denominado látex,  mientras que el 
+caucho regenerado se consigue al aprovechar de nuevo el caucho constituyente de 
+diversos objetos. Existe gran variedad de cauchos sintéticos, obtenidos por diversas 
+polimerizaciones en la industria petroquímica. 
+Durante la vulcanización se añaden al látex diferentes sustancias para aumentar su 
+resistencia, elasticidad y durabilidad. Entre estas sustancias destacan los aceleradores 
+(grupo carbamato, grupo tiuran, grupo mercapto, grupo guanidina, grupo naftil y grupo 
+tiourea), y los antioxidantes (fenildiaminas) que son los agentes implicados con más 
+frecuencia en la dermatitis de contacto alérgica. También se añaden pigmentos, cera 
+insoluble, aceites y material de relleno. Los grupos más importantes desde el punto de 
+vista dermatológico son: grupo tiuran; grupo mercapto; aminas antioxidantes; otros. 
+66
+
+Fuentes de exposición y usos: 
+ Vulcanización de las gomas 
+ Ruedas de coche o aviones 
+ Desinfectantes, fungicidas, pesticidas, 
+insecticidas
+ Antioxidante de aceites de corte 
+ Antioxidante de refrigeradores por agua 
+ Adhesivos (neoprene), pinturas, pegamentos
+ Lubricantes
+ Gomas de coche (manguitos, etc), 
+mangueras, cintas transporte, parachoques 
+ Máquinas de ordeñar  vacas 
+ Equipo de hemodiálisis y Otros dispositivos 
+médicos
+ Spray quirúrgico (nobecutan); antialcoholicos 
+(antabús, esperal); preparados para la 
+escabiosis (monosulfiran); vendas 
+quirúrgicas.
+ Anticongelantes
+ Repelentes
+ Champús y jabones 
+ Cremas antisolares 
+ Medicamentos de veterinaria (polvos contra 
+garrapatas y pulgas)
+ Cementos
+ Preservativo de alimentos 
+ Preservativo de maderas y plantas 
+ Fotoprotectores
+ Emulsión fotográfica 
+ Botas o guantes de goma 
+ Suelas de crepé 
+ Dediles, aros goma, almohadas de goma, 
+auriculares de goma, mascarillas... 
+ Industria del automóvil 
+ Industria aeronáutica 
+ Industria vulcanización de las gomas 
+(acelerante)
+ Manufacturación aceites de corte 
+ Manufacturación de pinturas 
+ Industria textil 
+ Trabajadores fundamentalmente implicados:
+ Médicos
+ Veterinarios
+ Enfermeras
+ Ganaderos
+ Agricultores
+ Mecánicos
+ Fotógrafos
+(Tabla 30)
+2.2. 
+GRUPO TIURAN
+Fuentes de exposición y usos 
+ Adhesivos (Neoprene) 
+ Jabones y champús 
+ Antioxidantes
+ Spray quirúrgico (Nobecutan) 
+ Suelas de crepe 
+ Antialcoholicos (Antabús, Esperal) 
+ Desinfectantes, fungicidas, germicidas, 
+insecticidas, pesticidas 
+ Cremas antisolares 
+ Lubrificantes
+ Preservativos de alimentos 
+ Pinturas
+ Preservativo de maderas  y plantas 
+ Repelentes
+ Antimicóticos
+ Industria de la goma (acelerante de la 
+vulcanización)
+ Preparados para la escabiosis (monsulfiran) 
+ Fotoprotectores
+ Vendas quirúrgicas 
+(Tabla 31)
+67
+
+Mecanismo de acción 
+La inmensa mayoría de las sensibilidades a tiuranes se produce en profesiones 
+muy diversas a través del empleo de prendas de protección. No es frecuente en el 
+proceso de fabricación de las gomas. El tratamiento con disulfirán (antabús)  seguido de 
+la ingesta de alcohol provoca el síndrome aldehído debido a la acumulación de 
+acetaldehído al bloquearse su transformación en ácido acético. 
+Pueden producirse reacciones cruzadas: sensibilización a gomas con reacción por 
+el uso de disulfirán, o bien, síndrome aldehído en personas manejando fungicidas o 
+acaricidas al ingerir alcohol. 
+Efectos sobre la salud 
+A través del empleo de guantes y botas aparecen lesiones de dermatitis de 
+contacto alérgica. No son raras las reacciones a preservativos con lesiones 
+eritematoedematosas, con balanitis inespecífica e incluso lesiones erosivas. En mujeres 
+se produce prurito vulvar. 
+El síndrome aldehído tiene manifestaciones generales y cutáneas (eritema y 
+reacción urticariana). También se han descrito reacciones cutáneas en sujetos con 
+tratamiento con disulfirán al aplicarse colonias o lociones de afeitado que contienen 
+alcohol.
+2.3. 
+GRUPO MERCAPTO
+Fuentes de exposición y usos 
+ Adhesivos
+ Pinturas
+ Neumáticos
+ Film emulsión de fotografía 
+ Botas y zapatos 
+ Acelerador de la goma 
+ Anticongelantes
+ Medicamentos veterinarios 
+ Diversos “pegamentos” y adhesivos 
+ Ropa interior (elásticos) 
+ Antioxidante de refrigeradores de agua 
+ Pegamentos
+ Antioxidante de aceites de corte 
+ Zapatos
+ Detergentes
+ Dediles y aros de goma 
+ Acelerante de la vulcanización 
+ Prótesis ortopédicas 
+ Fungicidas y germicidas 
+(Tabla 32)
+68
+
+2.4. 
+AMINAS ANTIOXIDANTES
+Fuentes de exposición y usos 
+ Gomas industriales (negras en general) 
+ Portagafas
+ Neumáticos de coches, camiones, aviones 
+ Calzado de protección: botas 
+ Gomas de industria pesada 
+ Máquinas de ordeñar 
+ Gomas de industria automóvil (manguitos, 
+etc)
+ Elásticos de gomas de ropa interior 
+ Mangueras
+ Textiles
+ Cintas de transporte 
+ Fluidos de corte 
+ Dediles de goma 
+ Vendas ortopédicas 
+ Gomas de aparatos domésticos (planchas, 
+lavadoras,etc)
+ Parachoques
+ Gafas de protección 
+ Antioxidantes
+ Gafas de buceo 
+ Gomas elásticas 
+(Tabla 33)
+Mecanismo de acción 
+Debido a la similitud de las estructuras químicas de las aminas antioxidantes, se ha 
+discutido la posibilidad de sensibilidad cruzada entre ellas e incluso con la 
+parafenilendiamina (PPD o PPDA) de la que derivan todas ellas. 
+Efectos sobre la salud 
+La clínica es variada y depende de la zona de localización de las lesiones. Es 
+frecuente la afectación de palmas y plantas, con lesiones secas e hiperqueratósicas que 
+pueden confundirse con psoriasis. Son unas manos tan típicas que se denominan “manos 
+de las gomas negras”. Al suprimir el contactante la mejoría y desaparición de las lesiones 
+es muy rápida. 
+3.
+OTROS EFECTOS SOBRE LA SALUD DE LAS GOMAS 
+Las B-naftilaminas son sustancias de alto poder cancerígeno. La amina o derivados 
+amínicos con agentes nitrosantes que originan las N-nitrosaminas, sustancias de alto 
+poder cancerígeno. Estas nitrosaminas pueden desprenderse en la fabricación de gomas 
+o encontrarse como contaminantes de productos químicos en cuya composición se 
+encuentran aminas. 
+El disulfirán también puede ser potenciador de carcinogénesis según estudios de 
+experimentación animal. 
+69
+
+4.
+EVALUACIÓN DEL RIESGO 
+Las gomas tienen innumerables aplicaciones en la actualidad y pueden afectar 
+principalmente a los trabajadores de la industria de las gomas y a los usuarios. Muchos de 
+estos alergenos pueden encontrarse en productos no solamente industriales, sino también 
+de uso doméstico, alimenticio e incluso medicamentoso, lo cual complica las posibilidades 
+de una prevención eficaz. 
+70
+
+LÁTEX
+1.
+CRITERIOS DE APLICACIÓN 
+Desde que en 1979 se describió la alergia al látex como una urticaria de contacto, 
+se han ido detectando cada vez con más frecuencia casos de alergia inmediata al látex y 
+en muchos ocasiones con afectación sistémica y desenlace fatal. Las manifestaciones 
+cutáneas son predominantes en este tipo de alergia. La hipersensibilidad al látex afecta 
+de lleno al medio hospitalario ya que la mayor parte de los cuadros graves de anafilaxia, 
+aparece en pacientes sometidos a exploraciones médicas o intervenciones quirúrgicas 
+realizadas con utensilios de goma y a su vez el personal sanitario está expuesto a 
+múltiples productos fabricados con látex. Además del personal sanitario, las profesiones y 
+trabajos más importantes relacionados con el uso del látex son: pintores, jardineros, 
+granjeros, mecánicos, trabajadores de restaurantes, industria del automóvil, motocicletas 
+y bicicletas (neumáticos). 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+La alergia al látex es muy frecuente. La prevalencia en la población general se 
+estima en un 1% y es mucho mayor en determinados grupos de población, especialmente 
+en el sector sanitario. También en empleados de plantas de transformación del látex, 
+personal de la industria informática (manipulación de chips) y niños afectos de espina 
+bífida o malformaciones urinarias. 
+El látex se obtienen a partir de la savia del árbol de la goma o caucho. El principal 
+componente del látex es el 1-cis-4-poliisopreno, un monómero no proteico del grupo de 
+los terpenos. Durante la vulcanización se añaden al látex diferentes sustancias para 
+aumentar su resistencia, elasticidad y durabilidad. Entre estas sustancias destacan los 
+aceleradores (grupo carbamato, grupo tiuran, grupo mercapto, grupo guanidina, grupo 
+naftil y grupo tiourea), y los antioxidantes (fenildiaminas) que son los agentes implicados 
+con más frecuencia en la dermatitis de contacto alérgica. También se añaden pigmentos, 
+cera insoluble, aceites y material de relleno. 
+71
+
+2.2.
+Fuentes de exposición y usos 
+Relación materiales y productos que maneja: 
+Látex (manufactura)
+Revulcanizados
+Industria del caucho: 
+ Suela de calzado 
+ Masillas
+ Pasta de goma para timbres 
+ Revestimientos para tanques de fuel 
+ Calafateado
+ Tubos (gas, bombas, fluidos extractores) 
+ Cables eléctricos 
+ Mangos de herramientas 
+ Botas de trabajo 
+ Cintas transportadoras 
+ Tuberías de alta precisión 
+ Neumáticos
+ Cilindros de imprentas 
+ Esponjas de goma y sellos 
+ Esterillas
+ Almohadillas
+ Auriculares de goma 
+ Estetoscopios
+ Gomas elásticas 
+ Gomas de borrar 
+ Taponamientos dentales 
+ Máquinas de ordeñar 
+ Tapones de goma 
+ Barnices
+ Aceites
+ Colas
+ Arandelas de cierre
+Otras industrias  y uso de productos con látex: 
+ Granjas
+ Mecánica de coches, motos y bicicletas 
+ Guantes
+ Globos
+Colchones
+ Calzado
+ Gafas de buceo 
+ Aislamiento de ventanas 
+ Telas elásticas 
+ Botellas de agua caliente 
+ Colchonetas de aire
+Material sanitario (catéteres, ambús, drenajes, sondas, manguitos de tensión, guantes, tubos 
+endotraqueales, etc...)
+ Preservativos y diafragmas 
+ Balones y pelotas 
+ Tetinas, pezoneras y chupetes
+ Mascarillas
+ Bandas elásticas 
+ Otros objetos que se fabriquen con látex 
+Son profesiones con riesgo: 
+ Médicos
+ Enfermeras
+ Dentistas
+ Veterinarios
+ Personal de laboratorio 
+ Personal sanitario 
+ Personal de quirófanos 
+ Personal de limpieza 
+ Pintores
+ Jardineros
+ Granjeros
+ Trabajadores de restaurantes 
+ Manufactura de guantes 
+ Manufactura de preservativos y globos 
+ Manufactura de muñecas, balones y 
+juguetes
+ Personal de distintos trabajos que utiliza con 
+frecuencia guantes de látex
+(Tabla 34)
+72
+
+2.3.
+Mecanismo de acción 
+La urticaria de contacto al látex es una alergia mediada por IgE frente a antígenos 
+de carácter proteico presentes ya en el látex natural y que persisten en el látex 
+manufacturado. También se puede producir sensibilización cutánea por mecanismo 
+retardado tipo IV. Los alergenos son polipéptidos hidrosolubles resistentes a las altas 
+temperaturas utilizadas en la vulcanización. Los antígenos del látex parecen liberarse más 
+fácilmente cuando los productos de látex están elaborados totalmente o en sus últimos 
+pasos de producción. 
+En casos de exposición cutánea la clínica suele ser de urticaria o eccema, en 
+casos de exposición aérea, la clínica es de rinitis, conjuntivitis o asma. Aparece 
+relacionada con la exposición a guantes de goma ya que el polvo de los guantes actúa 
+como vehículo para los antígenos del látex. En casos de exposición sobre mucosas (oral, 
+vaginal, etc.) el riesgo de shock anafiláctico es importante. 
+2.4.
+Efectos sobre la salud 
+Las manifestaciones de la alergia aparecen a los 5-30 minutos del contacto con el 
+látex y se incluyen dentro del síndrome de urticaria de contacto. Se clasifican en estadíos: 
+I.
+urticaria localizada en la zona de contacto. 
+II.
+urticaria local y generalizada 
+III. urticaria y asma 
+IV. urticaria y reacción anafiláctica 
+En ocasiones, la única manifestación de la urticaria es una dermatitis pruriginosa 
+de manos, que cursa en brotes y empeora después del contacto por guantes de látex. 
+3.
+EVALUACIÓN DEL RIESGO 
+Existe una clara preferencia en las mujeres y los antecedentes personales y 
+familiares de atopia son un factor de riesgo importante. Los pacientes afectos de urticaria 
+de contacto al látex, con frecuencia presentan eccema de manos y ello parece ser debido 
+a que la sensibilización al látex permite un mayor paso de alergenos. También existe una 
+asociación entre alergia alimentaria y urticaria por contacto al látex. Puede existir alergia 
+cruzada entre látex y plátano, castaña, piña, melón, kiwi, aguacate, higo, tomate y patata. 
+En suero se obtiene elevación de la IgE total y anticuerpos IgE específicos frente al 
+látex. En el hemograma suele existir eosinofilia mayor de 10%. El prick-test debe 
+realizarse con estracto comercial del látex. 
+73
+
+PINTURAS, BARNICES Y LACAS
+74
+
+1.
+CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para detectar los riesgos cutáneos en los trabajadores que 
+manejan pinturas, barnices y lacas en su puesto de trabajo o en aquellos que intervienen 
+en la manufacturación de estos productos. Las formulaciones de las pinturas actualmente 
+son complejas y muy diversas. 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+Las pinturas pueden ser definidas como una mezcla líquida que se aplica a 
+diversas  superficies  produciendo una capa seca, dura, con la finalidad de proteger y 
+decorar.  Los barnices y las lacas son fundamentalmente pinturas sin pigmentos que 
+pueden ser incluidos en esta definición. Las tintas de impresión tienen una composición 
+similar pero funciones diferentes. La función protectora de las pinturas es más importante 
+que su función de decoración. La resistencia a la corrosión es la principal función de las 
+pinturas además de la resistencia al fuego, hongos, aislamiento eléctrico, protección ante 
+la radiación, y reducción de la fricción. 
+Las pinturas pueden contener resinas sintéticas, un grupo de pigmentos 
+cuidadosamente seleccionados, varios solventes, secantes, catalizadores, extensores, 
+plastificantes, antiinflamables y agentes resistentes a enmohecimiento. 
+2.2.
+Fuentes de exposición y usos 
+ Pigmentos orgánicos (toluidina, rodamina, 
+riboflavina)
+ Pigmentos inorgánicos (dióxido de titanio, 
+cromato de zinc, óxido crómico) 
+ Resinas naturales 
+ Resina sintéticas (resina poliéster, celulosa, 
+resina epoxi, poliuretano) 
+ Aceites vegetales 
+ Endurecedores (aminas orgánicas) 
+ Extensores (carbonato cálcico, carbonato de 
+magnesio)
+ Secantes (cobalto, zinc) 
+ Emulsificantes (sodio, laurilsulfato) 
+ Antiespumantes
+ Plastificantes
+ Estabilizantes
+ Fungicidas (óxido de mercurio, aluminio, 
+arseniato de cobre, zinc) 
+ Antioxidantes
+ Manufacturación de pinturas, barnices y 
+lacas
+ Construcción (pintores) 
+ Carpinteros
+ Industria del automóvil 
+ Industria de cuero, plásticos, azulejos 
+ Cerámicas
+(Tabla 35)
+75
+
+2.3.
+Efectos sobre la salud 
+Los pintores pueden desarrollar dermatitis de contacto a las pinturas, masilla, 
+cemento, etc. La incidencia de dermatitis de contacto a las pinturas es mayor entre los 
+trabajadores de la construcción que utilizan pinturas que en los trabajadores de 
+manufacturación de las mismas. Utilizan gran cantidad de disolventes, ácidos, jabones y 
+detergentes que pueden producir dermatitis de contacto irritativa especialmente en los 
+individuos atópicos. 
+Los trabajadores que permanecen durante largos períodos de tiempo en lugares 
+poco ventilados, en contacto con las pinturas, pueden experimentar mareo, cefaleas y 
+visión borrosa. Más tarde pueden llegar a producirse alucinaciones, desorientación 
+permanente y otras alteraciones del sistema nervioso. 
+La incidencia de cáncer de pulmón es mayor en pintores que utilizan productos que 
+contienen cromato de zinc, pintan con spray y son fumadores. 
+3. 
+CONTROL BIOLÓGICO
+Deben realizarse pruebas biológicas cuando se sospeche absorción de alguno de 
+los componentes de las pinturas (aluminio, cobalto, cromo, zinc, etc). 
+4.
+EVALUACIÓN DEL RIESGO 
+Las pinturas tienen innumerables aplicaciones en el mundo de la industria. Además 
+de las pinturas, los trabajadores manejan otros tipos de sustancia que se deben de tener 
+en cuenta: cemento, gomas (guantes, botas, etc.). 
+La afectación cutánea más frecuente es la dermatitis de contacto irritativa y se 
+produce en la gran mayoría de los casos debido a los disolventes. 
+76
+
+PLAGUICIDAS Y OTROS 
+PRODUCTOS AGRÍCOLAS
+77
+
+1. CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para detectar los riesgos cutáneos profesionales que se 
+producen principalmente en agricultura y ganadería debido al uso de plaguicidas y otros 
+productos agrícolas que son muy numerosos y variados, En general son peor conocidos 
+que los de la industria pero no por ello menos numerosos. 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+Los plaguicidas o pesticidas son productos que se emplean para combatir las 
+plagas del campo, entendiendo por plagas cualquier organismo animal o vegetal que 
+cause daño a las plantas o a los animales útiles. Los plaguicidas cubren una serie de 
+indicaciones que tienen un cierto  grado de especialización. Se clasifican en: insecticidas, 
+acaricidas, repelentes, fungicidas, herbicidas, defoliantes, helminticidas, molusquicidas, 
+raticidas, fumigantes, conservadores de madera, de semillas y de otros productos 
+almacenados.
+Los plaguicidas pueden aplicarse directamente en polvo o en líquido, en spray , en 
+fumigaciones abiertas utilizando avionetas, en fumigaciones cerradas en locales, en 
+impregnación para las maderas y en aplicación tópica en animales domésticos.
+El uso de plaguicidas puede tener no sólo repercusiones individuales en las 
+personas que los fabrican o emplean sino que pueden producir efectos colectivos por 
+usos incorrectos, accidentes en su fabricación o almacenamiento. 
+2.2.
+Fuentes de exposición y usos 
+Tipo de pesticida 
+Forma de aplicación 
+Trabajadores afectados 
+ Insecticidas
+ Acaricidas
+ Repelentes
+ Fungicidas
+ Herbicidas
+ Defoliantes
+ Molusquicidas
+ Helminticidas
+ Raticidas fumigantes 
+ Conservadores de madera, 
+de semillas y otros 
+productos almacenados
+ Directamente en polvo
+ Directamente en líquido 
+ Directamente en spray 
+ En fumigaciones abiertas 
+utilizando avionetas 
+ En fumigaciones cerradas 
+en locales 
+ En impregnación para las 
+maderas
+ En aplicación tópica en 
+animales domésticos. 
+ Agricultura
+ Horticultures
+ Jardineros
+ Floristería
+ Tratamiento de almacenes 
+ Trabajadores de 
+desinfección de casas 
+ Trabajadores de 
+desinsectación de medios 
+de transporte 
+ Tratamiento de semillas, de 
+maderas, de productos 
+almacenados
+ Destrucción de insectos 
+vectores de enfermedades 
+ Veterinarios
+(Tabla 36)
+78
+
+2.3.
+Mecanismo de acción 
+Los plaguicidas pueden actuar en la piel por contacto de manera directa o indirecta 
+(transportados por las manos, o por impregnación de la ropa o por el aire). También 
+pueden actuar de forma sistémica produciendo cuadros dermatológicos. La absorción 
+puede tener lugar por ingestión, por inhalación y por vía percutánea. 
+2.4.
+Efectos sobre la salud 
+Son más frecuentes los cuadros de dermatitis de contacto irritativa que los de 
+origen alérgico. Algunos plaguicidas pueden producir dermatitis irritativas muy agudas, 
+ampollosas e incluso con causticaciones locales. 
+La acción  por impregnación de las ropas puden dar lugar a dermatitis que afecta a 
+zonas cubiertas. 
+La presencia del pesticida en las plantas puede producir dermatitis en las piernas, 
+al caminar por el campo.
+Los pesticidas dispersos por el aire después de fumigaciones pueden producir  una 
+dermatitis de contacto aerotransportada, con afectación difusa de todas las partes 
+descubiertas,que pueden simular una fotosensibilización. También pueden verse 
+verdaderas fotosensibilizaciones por pesticidas. 
+Se observan también dermatitis palmares de contacto (eczema tilófico). 
+Otros cuadros dermatológicos posibles son: 
+x Alopecia
+x Cloracné
+x Discromias (pelo o uñas) 
+x Efecto antabús 
+x Epileliomas
+x Eritema exudativo multiforme 
+x Síndromes esclerodermiformes 
+x Necrólisis epidérmica tóxica 
+x Onicopatias
+x Porfiria cutánea tarda 
+x Púrpura por hipocoagulación 
+x Púrpura por vasculitis 
+x Urticaria y urticaria de contacto 
+79
+
+3. 
+CONTROL BIOLÓGICO
+Deben realizarse determinación en sangre (hematíes o plasma) y orina de las 
+siguientes sustancias: ésteres organofosforados (colinesterasa, dialquilfosfatos); paratión 
+(p-nitrofenol, concentración máxima en orina o,5 mg/g de creatinina); insecticidas 
+carbamatos (colinesterasa); carbaril (1-naftol); Baygón (2-isopropoxifenol); DDT; Dieldrín 
+(concentración máxima en sangre 15mg/100ml); Lindano ((concentración máxima en 
+sangre 2mg/100ml); endrín (endrín concentración máxima en sangre 5mg/100ml y anti 12-
+hidroxiendrín, 
+(concentración 
+máxima 
+en 
+orina 
+0,13 
+mg/g 
+de 
+creatinina); 
+hexaclorobenceno (hexaclorobenceno concentración máxima en sangre 30mg/100ml, 
+2,4,5-triclorofenol, pentaclorofenol (concentración máxima en orina 1mg/g de creatinina); 
+derivado del ácido clorofenoxiacético; dinitroortocresol (concentración máxima en sangre 
+1 mg/100ml (amino-4-nitroortocresol). 
+4.
+EVALUACIÓN DEL RIESGO 
+Los plaguicidas tienen innumerables aplicaciones en el mundo agrícola. Además de 
+los plaguicidas, los agricultores pueden manejar otros contactantes: cemento, gomas 
+(guantes, botas, tubos de goma o mangueras, maquinaria diversa) y objetos sólidos con 
+mangos de madera o metal. 
+Existen otros riesgos en la agricultura relacionados con causas físicas (fricciones y 
+traumatismos, radiación solar intensa, frío y calor) y biológicas (picaduras de artrópodos); 
+también pueden darse dermatosis por plantas. 
+80
+
+AGENTES INFECCIOSOS
+81
+
+1.
+CRITERIOS DE APLICACIÓN 
+Esta guía está diseñada para prevenir  la patología cutánea que se produce en el 
+medio laboral debido al contacto con agentes infecciosos. Las ocupaciones de mayor 
+riesgo en relación con las infecciones son trabajadores sanitarios, sobre todo los 
+trabajadores de laboratorio, veterinarios, mataderos, ganaderos, etc. 
+2.
+DEFINICIÓN DEL PROBLEMA 
+2.1.
+Definiciones y conceptos 
+Las enfermedades infecciosas y parasitarias de origen profesional se consideran a 
+las infecciones, parasitaciones e infestaciones de origen exógeno, transmisibles y 
+adquiridas por trabajadores por cuenta ajena, durante la realización de trabajos 
+específicamente relacionados en la lista de enfermedades profesionales incluida en el 
+anexo del Real Decreto del Ministerio de Sanidad 1995/1978 de 12-5-78. 
+Por contaminante biológico se entiende a todo agente biológico susceptible de 
+causar enfermedad en el trabajador expuesto. Los agentes etiológicos causantes de las 
+infecciones adquiridas en los laboratorios son principalmente: bacterias, virus, rickettsias, 
+hongos y parásitos. 
+Muestra biológica se considera a cualquier material de origen humano o animal 
+consistente en excretas, secreciones, sangre y sus componentes, tejidos y líquidos 
+tisulares.
+Los agentes biológicos se clasifican en cuatro grupos: 
+1. Grupo 1: aquel que resulta poco probable que cause una enfermedad en el hombre. 
+2. Grupo 2: aquel que puede causar una enfermedad en el hombre y puede suponer un 
+peligro para los trabajadores, siendo poco probable que se propague a la colectividad 
+y existiendo generalmente profilaxis o tratamiento eficaz. 
+3. Grupo 3:  aquel que puede causar una enfermedad grave en el hombre y presenta un 
+serio peligro para los trabajadores, con riesgo de que se propague a la colectividad y 
+existiendo generalmente una profilaxis o tratamiento eficaz. 
+4. Grupo 4: aquel que causando una enfermedad grave en el hombre supone un serio 
+peligro para los trabajadores, con muchas probabilidades de que se propague a la 
+colectividad y sin que exista generalmente una profilaxis o un tratamiento eficaz. 
+82
+
+2.2.
+Fuentes de exposición y efectos sobre la salud 
+Hay varios tipos de agentes biológicos o contaminantes biológicos (bacterias, virus, 
+rickettsias, hongos, parásitos). Se deben considerar agentes biológicos a una serie de 
+sustancias de origen humano o animal consistentes en: excreciones, secreciones, sangre 
+y sus componentes, tejidos y líquidos tisulares, anejos cutáneos, cultivos celulares, 
+derivados térmicos y otras sustancias antigénicas. 
+Erisipeloide de Rosenbach (Erysipelothrix rhusiopathiae): Es una enfermedad aguda 
+de evolución lenta que sucede típicamente a una herida penetrante de la mano en 
+carniceros, manipuladores de pescado, etc. Existe dolor urente en el sitio de la lesión. 
+Habitualmente se produce en la mano o en un dedo con coloración violácea o rojo 
+púrpura, caliente y márgenes elevados bien delimitados. Posteriormente la región central 
+cura sin descamación ni ulceración. En ocasiones puede darse linfangitis y adenopatías 
+locorregionales. Rara vez existe bacteriemia. Puede asociarse a artritis, bronquitis (por 
+inhalación) y conjuntivitis. 
+Tuberculosis (Mycobacterium tuberculosis): La tuberculosis verrucosa es una forma 
+de tuberculosis cutánea que se produce en individuos previamente sensibilizados, debido 
+a una infección exógena. Se observa habitualmente en las manos, sobre el dorso y los 
+dedos. Las lesiones son asintomáticas. Comienzan como una pápula o papulopústula y 
+posteriormente se hace hiperqueratósica y verrugosa. El crecimiento es lento. Como regla 
+general la lesión es solitaria. Los ganglios linfáticos no se afectan a no ser que se 
+produzca sobreinfección cutánea.
+Granuloma de las piscinas (Mycobacterium marinum): Este microorganismo se 
+encuentra en agua dulce y salada. En la piel produce lesiones solitarias alrededor de 2 a 3 
+semanas después de la inoculación. Se presenta como una placa ulcerada o 
+psoriasiforme o una lesión verrugosa en el sitio de inoculación. Se curan con frecuencia 
+con cicatrización residual.
+Nódulos de los ordeñadores: es una enfermedad viral benigna (virus paravacuna) que 
+consiste en el desarrollo de uno o algunos nódulos asintomáticos en la mano o en el 
+antebrazo. Por lo general se transmite en personas que trabajan con vacas infectadas. 
+Curan espontáneamente sin dejar cicatriz en 4-6 semanas.
+Herpes simple: Es la infección viral más frecuente de origen ocupacional, observándose 
+sobre todo en odontólogos, asistentes dentales, médicos y enfermeras.
+Verrugas vulgares: Son muy comunes en manipuladores de carne, carniceros y 
+matarifes sobre todo. El incremento de la incidencia parece estar relacionado con los 
+traumatismos y contaminación de cortes y abrasiones menores con el virus. 
+83
+
+Micosis superficiales o profundas: Trichophyton verrucosum es un dermatofito zoofílico
+común que infecta a granjeros y otros individuos que están en contacto con caballos y 
+ganado. Mycrosporum canis, un hongo que suele infectar a animales pequeños es un 
+riesgo ocupacional para veterinarios. 
+La esporotricosis es más frecuente en los que trabajan al aire libre, en especial los que 
+trabajan en relación con el suelo (jardineros, granjeros, trabajadores forestales y mineros). 
+La lesión primaria puede obedecer a una herida punzante menor. La blastomicosis y la 
+coccidiomicosis puede ocurrir en trabajadores de equipo pesado de movimiento de 
+suelos, granjeros, trabajadores forestales y obreros de la construcción.
+Sarna: El ácaro Sarcoptes scabiei es el ácaro de mayor interés. La sarna se disemina 
+habitualmente por contacto piel-piel, aunque la vestimenta y la ropa de cama pueden 
+actuar como fómites, dado que el ácaro puede mantenerse vivo fuera de la piel durante 2-
+5 días. Por tanto, en el medio hospitalario puede producirse sarna ocupacional en 
+enfermeras, auxiliares, personal de limpieza, etc. La infección primaria tiene un período de 
+incubación de un mes antes de que comience el prurito y en infecciones subsecuentes el 
+prurito comienza de inmediato. 
+Tabla de dermatosis infecciosas 
+ENFERMEDAD
+PROFESIONES
+BACTERIANAS:
+ Carbunco
+ Erisipeloide
+ Muermo
+ Paroniquia
+ Tuberculosis cutánea 
+
+Carniceros, curtidores, veterinarios, estibadores 
+
+Veterinarios, manipuladores de pescado, carne, aves o cuero 
+
+Criadores de animales, trabajadores de establos 
+
+Panaderos, carniceros, trabajadores del cemento, fregaplatos 
+
+Personal sanitario 
+VIRALES:
+ Herpes simple 
+ Verrugas
+ Viruela vacuna 
+
+Dentistas, personal sanitario 
+
+Veterinarios, carniceros, matarifes 
+
+Ordeñadores, peones de granjas lecheras 
+MICOSIS:
+ Tiñas
+ Pie de atleta 
+ Onicomicosis
+ Candidiasis
+
+Ganaderos, obreros agrícolas, personal de laboratorio, 
+matarifes, carniceros 
+
+Mineros, obreros del sector metalúrgico 
+
+Peluqueros, manicuras 
+
+Servicio doméstico, pinches de cocina, albañiles, obreros de 
+las industrias conserveras 
+PARASITOSIS:
+ Sarna
+Personal sanitario, veterinarios, granjeros, palafreneros 
+(Tabla 37)
+84
+
+Profesiones expuestas a riesgos infecciosos: 
+
+Trabajadores de centros de producción de 
+alimentos
+
+Trabajos agrarios 
+
+Trabajadores en contacto con animales o 
+con productos de origen animal (mataderos, 
+granjas, etc.) 
+
+Trabajos en unidades de eliminación de 
+residuos
+
+Trabajadores de instalaciones depuradoras 
+de aguas residuales 
+
+Industria de la lana 
+
+Industria de abonos orgánicos 
+
+Industria conservas de pescado 
+
+Minería
+
+Acupuntores
+
+Arqueólogos
+
+Pescadores
+
+Laboratorios clínicos humanos: 
+9Hematología
+9Bioquímica Microbiología 
+9Anatomía patológica 
+
+Animalarios
+
+Laboratorios de diagnóstico veterinario 
+
+Laboratorios de investigación: 
+
+Laboratorios de fabricación de vacunas, 
+sueros y hemoderivados 
+
+Trabajadores de Cruz Roja o similares 
+
+Policías
+
+Bomberos
+
+Trabajadores de ambulancias 
+
+Trabajadores de cárceles 
+
+Trabajadores de psiquiátricos 
+
+Trabajadores de centros de disminuidos 
+
+Personal sanitario 
+Tipo de exposición: 
+
+Pinchazo
+
+Corte
+
+Salpicadura
+
+Arañazo
+
+Ingestión
+
+Contacto directo con la piel 
+
+Otros
+Actividad específica realizada en el momento del contacto (ámbito sanitario): 
+
+Punción venosa 
+
+Punción arterial 
+
+Punción dedo, talón 
+
+Colocación o manipulación vía 
+
+Operando
+
+Instrumentando
+
+Utilizando material 
+
+Transporte de material 
+
+Eliminación del material 
+
+Otros
+Localización del contacto: 
+
+Piel íntegra 
+
+Herida
+
+Mucosas
+
+Otros
+(Tabla 38)
+2.3.
+Mecanismo de acción 
+Los principales mecanismos a través de los cuales se adquiere una infección a 
+partir de las muestras biológicas o del organismo del huésped son: transmisión directa; 
+transmisión vía aérea; transmisión a través de fómites; transmisión a través de un vector. 
+La transmisión directa se produce cuando hay contacto entre el trabajador y la persona o 
+animal infectado. Este mecanismo no sólo incluye el contacto físico, sino la posibilidad de 
+transmisión aérea directa. 
+85
+
+Los principales mecanismos a través de los cuales el agente biológico penetra en 
+el organismo en el trabajador expuesto son: inhalación por vía respiratoria; inoculación en 
+la piel; inoculación en conjuntiva; ingestión. 
+La piel intacta es una eficaz barrera frente a la infección, pero en el trabajador hay 
+gran cantidad de agentes agresores que la rompen o la alteran. 
+3.
+EVALUACIÓN DEL RIESGO 
+Identificados los riesgos biológicos durante el trabajo se procederá a evaluar los 
+mismos determinando la naturaleza, el grado y duración de la exposición de los 
+trabajadores. Cuando se trate de trabajos que impliquen la exposición  a varias categorías 
+de agentes biológicos, los riesgos se evaluarán basándose en el peligro que supongan 
+todos los agentes biológicos presentes. Esta evaluación debe repetirse periódicamente y 
+cada vez que se produzca un cambio en las condiciones de trabajo que pueda afectar a la 
+exposición de los trabajadores a agentes biológicos.  Cuando se haya detectado en algún 
+trabajador una infección o enfermedad que se sospeche que sea consecuencia de una 
+exposición a agentes biológicos en el trabajo, se procederá a una nueva evaluación del 
+riesgo. La evaluación se efectuará teniendo en cuenta la naturaleza de los agentes 
+biológicos a los que estén o puedan estar expuestos los trabajadores y el grupo de la 
+clasificación a la que pertenecen. Se tendrá en cuenta los efectos potenciales que puedan 
+derivarse de la actividad profesional de los trabajadores y el riesgo adicional para aquellos 
+trabajadores especialmente sensibles (patología previa, trastornos inmunitarios, 
+embarazo, etc.). 
+86
+
+GUIAS POR EFECTO O ENFERMEDAD
+87
+
+DERMATITIS DE CONTACTO ALÉRGICA
+88
+
+Definición: Las dermatitis de contacto alérgicas, son respuestas inflamatorias de la piel 
+hacia un agente externo donde existe un proceso inmunológico alérgico implicado, en la 
+mayoria de los casos de tipo IV (inmunidad retardada o inmunidad celular).
+Epidemiología: Del 5 al 10% de las consultas en Dermatología General corresponden a 
+dermatitis de contacto, y de éstas solo un 20% se pueden considerar alérgicas. Casi la 
+mitad de las enfermedades laborales corresponden a dermatosis, y de ellas la mayor 
+parte son Dermatitis. 
+Etiopatogenia:
+1. Los alergenos: La mayoría de las sustancias con poder sensibilizante son 
+pequeñas moléculas o haptenos (de p.m. < de 500-1000 Da) con déficit de 
+electrones que forman enlaces covalentes con las proteinas y ácidos nucleicos de 
+la epidermis que por el contrario poseen electrones de sobra. De esta forma, los 
+haptenos, se convierten en sustancias con poder sensibilizante ya que es así de la 
+forma en la que entran en contacto con la Celula de Langerhans o célula 
+presentadora de antígeno (CPA). 
+2. La piel como barrera inmunológica: Se suele desglosar el mecanismo inmunológico 
+implicado en esta afección en dos fases: la fase o brazo aferente, en la que el 
+sistema inmune se pone en contacto con la sustancia sensibilizadora, de forma que 
+las células de Langerhans (CPA) engloban los alergenos, los incorporan a las 
+proteinas del complejo mayor de histocompatibilidad de tipo II que se encuentra en 
+sus membranas y viajan a los ganglios linfáticos regionales, donde determinados 
+linfocitos T van a acoplarse a  dichas moléculas, haciendo que proliferen los clones 
+celulares que actúen específicamente en su contra. El brazo o fase aferente tendría 
+lugar en el momento en el que nuevamente tuviera lugar un contacto con la 
+sustancia clave, de forma que los linfocitos ya activados viajarían a la piel para 
+desencadenar la respuesta inflamatoria pertinente. Para que aparezca la expresión 
+clínica tienen que pasar al menos 24-48 horas tras la sensibilización.
+Factores de Riesgo:
+1. Dependientes del Alérgeno: su capacidad de penetración en la piel (más las 
+sustancias lipofílicas), su peso molecular (más cuanto más pequeño), si es sólido 
+líquido o gaseoso, si además es un irritante, la dosis, el vehículo... (ver tabla1) 
+2. Factores propios del trabajador: Sexo (más las mujeres, ya sea por factores 
+sociológicos o intrínsecos), Raza (la raza negra es más resistente a la 
+sensibilización), enfermedades coincidentes, medicación (15 mg/día de prednisona, 
+pueden inhibir una respuesta alérgica de este tipo),  puesto que ocupa, si usa o no 
+protección...
+3. Factores locales: contacto con jabones u otros irritantes que debiliten la barrera 
+natural de la piel, maceración, oclusión (ya sea por pliegues naturales o por 
+prendas o complementos)... 
+4. Factores ambientales: la baja humedad relativa del ambiente y la baja temperatura, 
+pueden alterar la función de barrera de la piel. 
+5. Factores dependientes de la profesión que desempeña (ver tabla 2). 
+89
+
+Principales alérgenos en ambiente laboral que pueden producir dermatitis 
+alérgica:
+Industria del plástico 
+Formaldehídos
+Resinas epoxi 
+Aminas
+Fenoles
+Industria del caucho 
+Thiuram
+Mercaptobenzotiazol (MBT) 
+Carbamatos
+p-fenilendiamina (PPDA) 
+Industria del cuero 
+Cromatos
+Thiuram
+Mercaptobenzotiazol (MBT) 
+Formaldehídos
+p-fenilendiamina (PPDA) 
+Galvonoplastia
+Cromatos
+Níquel
+Etilendiamina
+Formaldehídos
+Cromatos
+Mercaptobenzotiazol (MBT) 
+Thiuram
+Mantenimiento maquinaria 
+Cromatos
+Níquel
+Formaldehídos
+          (Tabla 39)
+Clínica:
+La Dermatitis de Contacto Alérgica puede imitar casi cualquier tipo de eccema. Pueden 
+darse eccemas agudos con intenso eritema, ampollas y edema intenso,  y  eccemas 
+crónicos con mayor tendencia a la xerosis, eritema, fisuración, descamación, costras, 
+liquenificación... Generalmente se localizan sobre la zona de contacto, aunque 
+posteriormente se puede generalizar al resto del cuerpo por mecanismos aun no bien 
+conocidos. Las lesiones producidas por las dermatitis de contacto alérgicas suelen tener 
+unos límites menos netos que las irritativas. El alérgeno, puede contactar en las zonas 
+expuestas al ser aerotransportado, y ser ahí donde produce la clínica. También puede ser 
+un fotoalergeno, es decir, que necesita el contacto con la luz para activarse. 2/3 de los 
+casos de dermatitis de contacto alérgica afectan a las manos. En los trabajadores es 
+también la localización más frecuente. La cara y  los párpados son también zonas 
+frecuentes en los trabajadores sobre todo en pacientes que trabajen con sustancias 
+aerotransportables. Los muslos u otras zonas del cuerpo tapadas con monos de trabajo 
+pueden afectarse si se impregnan con algunas sustancias como en el caso de los aceites. 
+Los pies y piernas pueden afectarse por el uso de botas de protección de goma. 
+90
+
+Metales
+Cromo, Níquel, Cobalto, Mercurio, otros... 
+Plásticos
+Resinas epoxy, resinas formaldehído, resinas acrílicas, resinas de 
+poliéster, otras 
+Aditivos de las gomas 
+Grupo tiuram, grupo mercapto, aminas antioxidantes, otros 
+Otras sustancias 
+sensibilizantes
+Material de artes gráficas, fragancias, aceites de corte, taladrinas... 
+ Tabla 40. Sustancias que con más frecuencia producen dermatitis de contacto alérgica 
+ Construcción (cemento) 
+ Industria metalúrgica 
+ Industria automóvil 
+ Litografía, imprenta, 
+ Industria textil 
+ Componentes electrónico 
+ Fundición metales 
+ Administrativo
+ Pintores, fábrica pinturas 
+ Industria cuero-calzado 
+ Industria galvánica 
+ Industria caucho 
+ Industria Vidrio 
+ Industria porcelana 
+ Cerámica para construcción 
+y fina 
+ Industrias gráficas 
+ Industria fotográfica 
+ Industria química 
+ Industria farmacéutica 
+ Fabricación mat. Oficina 
+ Fundiciones
+ Industria Fosforera 
+ Pirotecnia
+ Agricultura y jardinería 
+ Conservación calles 
+ Panadería
+ Ferrocarriles
+ Fabricación de pilas 
+ Fabricación cartón, papel 
+ Fabricación moneda 
+ Fabricación sprays 
+ Joyería
+ Controles analíticos de leche 
+con dicromato potásico y 
+cloruro de mercurio 
+ Fabricaión de flores 
+artificiales
+ Cererías
+ Fabricación de ceras para 
+abrillantado de madera 
+ Fabricación de betunes 
+ Fabricación de radio y TV 
+ Peluquería
+ Industria Aeroespacial 
+ Electricistas
+ Trabajadores unidades de 
+hemodiálisis
+ Albañilería
+ Protésicos dentales 
+ Cirujanos
+ Enfermería
+ Técnicos quirúrgicos 
+ Industria peletería 
+ Preparadores uñas 
+artificiales
+ Fabricación de muebles... 
+Tabla 41. Profesiones con riesgo de desarrollar una dermatitis de contacto alérgica 
+Criterios de valoración: 
+Con todo lo mencionado anteriormente, se puede resumir que para sospechar la 
+posibilidad de una dermatitis de contacto alérgica de origen ocupacional se deben tener 
+en cuenta los siguientes puntos: 
+1. Historia Clínica exhaustiva, haciendo hincapié no solo en la historia laboral sino 
+tambien en las aficiones extralaborales, la actividad diaria, la higiene... 
+2. Apariencia clínica sugestiva, por localización, distribución, tipo de lesiones... 
+3. Relación temporal entre la fase de exposición y la aparición de las lesiones. Si la 
+reacción aparece antes de 24-48 horas es que ya estaba sensibilizado previamente 
+a esa sustancia. 
+4. Se deben excluir exposiciones no ocupacionales. 
+5. La dermatitis debe mejorar en los periodos vacacionales, bajas o incluso fines de 
+semana.
+6. Que las pruebas epicutáneas sean positivas para los alergenos sospechados. 
+7. Exclusión de otros tipos de dermatitis. 
+91
+
+DERMATITIS DE CONTACTO IRRITATIVA
+92
+
+Definiciones: Las Dermatitis de Contacto Irritativas (DCI) son respuestas inflamatorias de 
+la piel hacia un agente externo en donde, a pesar de que pueden implicarse mediadores 
+inmunológicos e inflamatorios, no se involucran células T de memoria ni anticuerpos 
+específicos.
+Irritante: Un irritante es una agente físico o químico capaz de producir un daño celular si 
+se aplica en concentración suficiente el tiempo suficiente a todas las personas. 
+Epidemiología: El 80% de las dermatitis de contacto son irritativas. Es la forma de clínica 
+más frecuente de reacción cutánea en el mundo laboral produciendo gran morbilidad. 
+Etiopatogenia:
+1. Función de barrera de la piel: La piel es la primera y más importante barrera que 
+tiene el cuerpo humano contra agentes nocivos, y ésta es una de sus principales 
+funciones fisiológicas.  Esta defensa sin embargo, no es perfecta y la piel permite 
+que muchas sustancias la atraviesen. El estrato córneo y el film hidrolipídico que lo 
+recubre, compuesto de sebo emulsionado con sudor y otras sustancias son las 
+principales barreras epidérmicas. Cualquier daño o disminución de la capa córnea 
+puede producir un aumento de la penetración de sustancias así como una 
+disminución de la pérdida de agua.
+2. La potencia de un irritante, depende de varias características fisicoquímicas como 
+la acidez o alcalinidad, el pKa, su hidrofobicidad... el mecanismo de acción de los 
+diversos irritantes es variado por ej: 
+a. pueden eliminar los lípidos o las sustancias que atrapan el agua en la capa 
+córnea, lo que implica sequedad y disminución de la función barrera. 
+b. Pueden ser intrínsecamente sustancias quimiotácticas para los PMN y otras 
+células inflamatorias. 
+c. Pueden dañar estructuras vasculares provocando hiperemia. 
+d. Pueden inducir la degranulación de los mastocitos...etc. 
+Factores de Riesgo:
+1. Dependientes de las sustancias: grupo químico, radicales activos, estado físico 
+(sólido , líquido o gaseoso), volatilidad, solubilidad,concentración, vehículo... 
+2. Dependientes del trabajador: región anatómica (las zonas del cuerpo con mayor 
+permeabilidad son la cara el cuello y el escroto; hay que tener en cuenta el 
+mecanismo de oclusión natural que suponen los pliegues corporales), si protege 
+las zonas expuestas y con qué las protege, la higiene personal, si es atópico, ya 
+que en estos sujetos el simple trauma físico puede provocar eccema crónico... 
+3. factores locales: fisuras, grietas, cornea disminuida de grosor, pérdida de las 
+sustancias que retienen agua o de la capa de lípidos, incremento de la sudoración 
+(el sudor disuelve los irritantes), pilosidad (los anejos pueden ser lugares de 
+penetración de sustancias)...etc 
+4. Profesión desempeñada:
+determinadas profesiones requieren contacto con 
+irritantes y por tanto sus trabajadores son más susceptibles de afectarse.
+Cuadros Clínicos: La DCI es un espectro de lesiones que va desde el simple eritema 
+hasta dermatitis eccematosas de varios grados. Aparece cuando las defensas de la piel 
+son malas o están agotadas. En ocasiones se puede dar un endurecimiento o “hardening” 
+93
+
+de la piel de forma que la piel que en algún momento mostró irritación llegue a no 
+padecerla, generalmente por liquenificación de la misma. Se pueden producir cuadros 
+agudos con grandes ampollas difíciles de distinguir de fenómenos tóxicos o alérgicos, o 
+cuadros crónicos que más bien se suelen presentar  por la suma de varias circunstancias 
+irritantes que de forma independiente no llegarían a dar clínica (Ej.: amas de casa que 
+usan productos de limpieza, pelan y cortan determinadas verduras, tienen las manos 
+mojadas mucho rato, hace frío y/o baja humedad...). Las formas clínicas que nos tienen 
+que hacer pensar en la posibilidad de DCI en los trabajadores son: 
+Eccema de manos
+Aunque es difícil distinguir si es irritativo, constitucional, alérgico o una mezcla de los tres, 
+hay cuadros que deben hacernos pensar en DCI como las pulpitis, en las que el contacto 
+repetido con la sustancia produce un eccema crónico con hiperqueratosis, descamación y 
+grietas relativamente localizadas en los pulpejos, o las dermatitis localizadas en áreas de 
+oclusión, ya que los irritantes se pueden quedar atrapados en estas zonas. Es más 
+frecuente que sean cuadros con descamación, grietas y eritema de forma parcheada, y 
+aunque puede haberlas, son menos frecuentes las vesículas. 
+DCI Aerotransportada
+Al igual que los alergenos, los irritantes pueden afectar las zonas descubiertas si son 
+volátiles o gaseosos, afectando sobre todo a los párpados y cara. En general, las 
+dermatitis irritativas son menos inflamatorias pero esto no puede usarse como norma.
+Dermatitis Fototóxica
+Ocurre cuando existe una sustancia que en contacto con la luz solar sea capaz de 
+convertirse en un irritante más potente y/o de absorber con mayor efectividad la radiación 
+solar. Ocurre en áreas expuestas a la luz solar como cara, cuello, antebrazos y dorso de 
+manos, si bien éstos últimos pueden ser algo más resistentes. 
+Dermatitis Irritativa por plantas
+Este patrón puede ser importante en personas dedicadas a la agricultura. Algunas plantas 
+contienen irritantes potentes, que pueden dar patrones clínicos lineales que reflejan el 
+contacto concreto con la planta. 
+Algunas formas especiales de irritación
+Pueden ser quemaduras químicas, dermatitis por fibra de vidrio (prurito, foliculitis, 
+excoriaciones) etc 
+Solventes de alquitrán de 
+hulla(benceno, tolueno, 
+etilbenceno, xileno..) 
+Solventes del petróleo
+(gasolina, queroseno..) 
+Hidrocarburos clorinados 
+Alcoholes (Metilalcohol, 
+FORMALDEHÍDO, etilalcohol, 
+isopropilalcohol)
+Otros:
+Turpentina,
+Insecticidas,acaricidas
+Consevadores madera 
+Acetona,
+DMSO
+Etilenglicol
+Propilenglicol
+Ajo, cebolla 
+Lechuga
+Herbicidas
+Repelentes     etc. 
+                                                                                                       Tabla 42. Algunos irritantes químicos 
+94
+
+ Manufacturación de plásticos 
+ Manufacturación de pinturas 
+ Manufacturación de caucho 
+ Manufacturación de zapatos y cuero 
+artificial
+ Manufacturación de insecticidas 
+ Manufacturación de medicamentos 
+ Manufacturación de tintas, colas, 
+adhesivos, resinas, productos de 
+limpieza
+ Manufacturación de plásticos, nylon 
+ Elaboración de gasolinas 
+ Industria de limpieza 
+ Imprenta
+ Mecánicos
+ Pintores
+ Gasolineros
+ Fotógrafos
+ Empleados en laboratorios 
+ Papeleras
+ Carpinteros, leñadores, 
+ Albañiles´fontaneros...
+              Tabla 43. Agunas industrias y profesiones con alto riesgo de DCI 
+Criterios de valoración: 
+Para sospechar DCI hay que tener en cuenta 
+1. Hay que realizar una cuidadosa anamnesis (descartar agentes no ocupacionales y 
+valorar mejoría en periodos vacacionales), y realizar una buena exploración física). 
+2. Se deben valorar cuadros compatibles con DCI como los anteriormente 
+mencionados así como lesiones elementales compatibles. 
+3. Suele existir una relación temporal, y la irritación puede aparecer desde el primer 
+momento.
+4. No suele haber síntomas sistémicos 
+5. Las pruebas epicutáneas son negativas 
+95
+
+Ejemplos de irritantes y sensibilizantes cutaneos en las profesiones en que puede producirse el 
+contacto con la piel. 
+Profesión
+Irritantes
+Sensibilizantes
+Trabajadores de la 
+construcción
+Trementina, diluyentes, fibra 
+de vidrio, pegamentos 
+Cromatos, resinas epoxi y fenólicas, 
+colofonia, trementina, maderas. 
+Técnicos dentales 
+Detergentes y desinfectantes
+Caucho, monómero epoxi y acrílicos, 
+aminas catalíticas, anestésicos locales, 
+mercuri, oro, níquel, eugenol, 
+formaldehido, glutaraldehido 
+Agricultores y ganaderos, 
+floristas, jardineros 
+Fertilizantes, desinfectantes, 
+jabones y detergentes 
+Plantas, maderas, fungicidas, insecticidas 
+Manipuladores de alimentos, 
+cocineros, panaderos 
+Jabones y detergentes, 
+vinagre, frutas, verduras 
+Verduras, especias, ajo, caucho, peróxido 
+de benzoilo 
+Peluqueros y esteticistas 
+Champús, lejía, peróxidos, 
+permanentes, acetona 
+Parafenilendiamina en tintes para el pelo, 
+gricerilmonotioglicolato en permanentes, 
+persulfato de amonio en la lejía, 
+surfactantes en champús, níquel, 
+perfumes, aceites esenciales, 
+conservantes en cosméticos 
+Personal médico 
+Desinfectantes, alcohol, 
+jabones, detergentes 
+Caucho, colofonia, formaldehido, 
+glutaraldehido, desinfectantes, 
+antibioticos, anestésicos locales, 
+fenotiacinas, benzodiacepinas 
+Trabajadores del metal, 
+maquinistas y mecánicos 
+Jabones y detergentes, 
+aceites de corte, destilados 
+del petróleo, abrasivos 
+Níquel, cobalto, cromo, biocidas en los 
+aceites de corte, hidrazina y colofonia en 
+fundente para soldar, resinas epoxi y 
+aminas catalíticas, caucho 
+Impresores y fotografos 
+Disolventes, ácido acético, 
+tinta, monómero acrílico 
+Níquel, cobalto, cromo, caucho, colofonia, 
+formaldehido, diaminas parafenileno y 
+colorantes azoicos, hidroquinonas, 
+monómeros epoxi y acrílico, aminas 
+catalíticas, agentes reveladores de color y 
+de blanco y negro 
+Trabajadores textiles 
+Disolventes, lejías, fibras 
+sintéticas y naturales 
+Resinas de formaldehido, colornates 
+azoicos y antraquinonas, caucho, biocidas
+(Tabla 44)
+Tipos de dermatitis de contacto. 
+Características
+Dermatitis de contacto por 
+irritantes
+Dermatitis de contacto  alérgica 
+Mecanismo de producción 
+Efecto citotóxico directo 
+Inmunidad celular del tipo 
+retardada (Tipo IV de Gell y 
+Coombs)
+Victimas potenciales 
+Cualquiera
+Una minoría de individuos 
+Aparición
+Progresiva, tras una exposición 
+repetida o prolongada 
+Rápida, en 12-48 horas en los 
+individuos sensibilizados 
+Signos
+Eccema subagudo o crónico con 
+eritema, descamación y fisuras 
+Eccema agudo o subagudo con 
+eritema, edema, ampollas y 
+vesículas
+Síntomas
+Sensación de dolor y de 
+quemazón
+Prurito
+Concentración del agente de 
+contacto
+Alta
+Baja
+Investigación
+Antecedentes y exploración
+Antecedentes y exploración 
+Pruebas del parche 
+(Tabla 45) 
+96
+
+URTICARIA DE CONTACTO
+97
+
+La urticaria se caracteriza por la presencia de habones pruriginosos en la superficie 
+cutánea,  con tendencia a cambiar de localización durante su  evolución y que pueden 
+acompañarse o no de edema de partes blandas (angioedema). En ocasiones puede 
+existir sintomatología sistémica consistente en: rinorrea, estornudos, vómitos o diarrea, 
+disnea y disfagia e incluso shock anafiláctico. Se trata de una reacción alérgica de tipo I lo 
+que implica una respuesta inmediata y por tanto el tiempo existente entre la exposición al 
+alergeno y el desarrollo de la clínica oscila de los pocos minutos hasta la media hora. Se 
+produce por la extravasación de plasma debido a la liberación de sustancias vasoactivas 
+como la histamina. Cuando la urticaria se produce por el contacto de la piel con 
+determinadas sustancias se denomina urticaria de contacto. 
+CLASIFICACION
+Atendiendo a la intensidad de la reacción alérgica se subdivide en 4 categorías: 
+I: urticaria localizada 
+II: urticaria generalizada 
+III: síntomas sistémicos acompañantes 
+IV: reacción anafiláctica. 
+Según el mecanismo etiopatogénico de producción se clasifica en :
+-Urticaria de contacto tóxica: se produce por mecanismo no alérgico y tras el contacto con 
+sustancias irritantes o tóxicas. Pueden verse afectos la mayor parte de los trabajadores 
+sin tener necesariamente una especial predisposición. Las sustancias que con mayor 
+frecuencia desencadenan este tipo de respuesta en el ámbito laboral son: ácido benzóico, 
+benzoato sódico, ácido ascórbico, ácido cinámico, bálsamo del Perú, ácido acético, ácido 
+butírico y alcoholes etílico, butílico, cetílico e isopropílico. Las profesiones que se ven 
+mayormente implicadas son las relacionadas con los siguientes productos: fármacos, 
+productos bactericidas y fungicidas, perfumes y fragancias, conservantes, chicles y 
+caramelos, helados, bebidas suaves, aceites, flores y especias.
+98
+
+-Urticaria de contacto alérgica: se produce por mecanismo alérgico. Se requiere una 
+sensibilización previa y sólo representa una pequeña proporción de casos de urticaria de 
+contacto profesional. Puede afectar a aquellos trabajadores en contacto con alimentos 
+como: carne, especias, huevos, pescado y leche. También en contacto con productos de 
+animales: pelo, caspa, placenta y saliva. Cosméticos: abrillantador de uñas, perfumes, 
+sprays para el cabello. Agentes físicos como el frío. Medicamentos: aspirina, 
+cefalosporinas, neomicina, mentol, polietilen glicol, antitoxina tetánica, etc... Agentes 
+químicos: ácido benzóico, alcoholes, bacitracina y amino fenazona. Productos textiles: 
+goma, lana y seda. Algunos vegetales como la madera. 
+Finalmente existe un subtipo de urticaria de contacto de mecanismo incierto.
+Las profesiones con mayor riesgo de desarrollar una urticaria de contacto son: médicos, 
+enfermeras, dentistas, veterinarios, personal de laboratorio, personal sanitario, personal 
+de quirófanos, personal de limpieza, pintores, jardineros, granjeros, trabajadores de la 
+hostelería, fruteros, trabajadores de  manufactura de guantes, preservativos y globos, 
+trabajadores de manufactura de muñecas, balones y juguetes, profesionales que manejen 
+guantes de latex con frecuencia y otros. 
+DIAGNOSTICO:
+Para poder establecer una relación causal entre la urticaria de contacto y una 
+determinada sustancia es imprescindible una anamnesis detallada junto con la realización 
+de pruebas de contacto (abiertas y/o cerradas) y un test intradérmico o prick.
+En referencia a la historia clínica son importantes los siguientes puntos: debe existir una 
+historia relevante de contacto con sustancias capaces de provocar urticaria de contacto. 
+La apariencia clínica de las lesiones debe ser sugerente de urticaria: habones, edema, 
+prurito,  pudiéndose acompañar o no de sintomatología sistémica: asma, rinoconjuntivitis, 
+alteraciones gastrointestinales. La existencia de una relación temporal entre la exposición 
+y el inicio de la sintomatología, la exclusión de exposición no ocupacional a sustancias 
+sospechosas y la positividad en las pruebas epicutáneas  en las urticarias de contacto 
+inmunológicas son otras de las claves para un diagnóstico definitivo. 
+99
+
+SUSTANCIAS Y PROFESIONES DE RIESGO 
+TIPO DE URTICARIA 
+SUSTANCIAS
+PROFESIONES
+Urticaria de contacto 
+tóxica
+ Acido benzóico 
+ Benzoato sódico 
+ Ácido ascórbico 
+ Ácido cinámico 
+ Bálsamo del Perú 
+ Ácido acético 
+ Ácido butírico 
+ Alcoholes etílico, butílico, cetílico, 
+isopropílico
+Urticaria de contacto 
+alérgica
+Alimentos:
+ Carne, especias, huevos, pescado 
+y leche 
+Productos animales:
+ Pelo, caspa, placenta y saliva 
+Cosméticos:
+ Abrillantador de uñas, perfumes, 
+sprays para el cabello 
+Agentes físicos:
+ Frío
+Medicamentos:
+ Aspirina, cefalosporinas 
+ Neomicina, mentol, 
+polieteilenglicol, antitóxina tetánica, 
+etc
+Agentes químicos:
+ Ácido benzoico, alcoholes, 
+bacitracina, aminofenona 
+P. textiles:
+ Goma, lana, seda 
+Vegetales:
+ Madera
+Urticaria de contacto 
+de mecanismo 
+incierto
+Relacionadas con los productos 
+(Urticaria  de contacto tóxica).
+ Fármacos
+ P. bactericidas y fungicidas 
+ Perfumes y fragancias 
+ Conservantes
+ Chicles y caramelos 
+ Helados
+ Bebidas suaves 
+ Aceites
+ Flores
+ Especias
+Profesiones con mayor riesgo de 
+urticaria de contacto:
+ Médicos
+ Enfermeras
+ Dentistas
+ Veterinarios
+ Personal de laboratorios 
+ Personal sanitario 
+ Personal de quirófanos 
+ Personal de limpieza 
+ Pintores
+ Jardineros
+ Granjeros
+ Trabajadores de hostelería 
+ Fruteros
+ Trabajadores manufactura guantes, 
+preservativos y globos 
+ Trabajadores manufactura de 
+muñecas, balones y juguetes 
+ Profesionales que manejen guantes 
+de látex 
+(Tabla 46)
+100
+
+CÁNCER CUTÁNEO PROFESIONAL
+101
+
+Cáncer cútaneo profesional 
+Se refiere a las lesiones cutáneas malignas y pre-malignas cuya relación causal se 
+establece con la exposición a sustancias carcinogénicas  en el lugar de trabajo. 
+Incidencia y prevalencia 
+Existen todavía numerosas lagunas en la etiopatogenia del cáncer y resulta, por 
+ello, dificil de establecer una relación causa-efecto entre los agentes etiopatogénicos y el 
+desarrollo ulterior de una neoplasia maligna. El cáncer obedece generalmente a diferentes 
+factores etiopatogénicos que suelen actuar conjuntamente y tras una exposición 
+prolongada a los mismos (habitualmente años) dan lugar a la aparición de neoplasias 
+malignas.  Por estos y otros motivos, resulta complicado realizar estimaciones con 
+respecto a la verdadera prevalencia e incidencia del cáncer cutáneo de origen 
+ocupacional.
+Si consideramos el cáncer originado por la radiación ultravioleta (epiteliomas 
+actínicos) en las profesiones al aire libre, se trataría de un proceso muy común. Sin 
+embargo, al excluir este tipo de neoplasias, la incidencia es baja: en torno al 1% del total 
+de epiteliomas cutáneos. Algunos autores opinan que su incidencia es probablemente 
+mayor.
+Factores carcinogénicos profesionales 
+Luz Ultravioleta
+Para el desarrollo de epiteliomas espinocelulares de origen actínico es necesario que la 
+exposición solar sea prolongada. El tiempo no es el único factor condicionante ya que el 
+fototipo cutáneo, edad y sexo del trabajador, junto al lugar geográfico en el que trabaja 
+mecanismos de protección empleados, etc... pueden variar considerablemente las 
+consecuencias de la radiación ultravioleta recibida. 
+Las profesiones sometidas a radiación ultravioleta son fundamentalmente: agricultores, 
+cantería, conductores de vehículos, trabajadores de la  construcción, ganaderos, 
+jardineros, marinos, trabajadores de obras públicas (carreteras, puentes...), pastores y 
+pescadores.
+Radiaciones Ionizantes
+La capacidad mutagénica y destructora del ADN por parte de la radiación ionizante es la 
+responsable de la aparición de procesos cancerosos en personas expuestas. Todas 
+aquellas profesiones sometidas a la exposición de los rayos X pueden presentar un 
+aumento de los procesos tumorales. Tradicionalmente se trata de profesionales médicos: 
+radiólogos, traumatólogos,... Aunque este mecanismo de sobrexposición va siendo cada 
+vez menor, el largo periodo de latencia del cáncer sobre las radiodermitis hace que aún 
+en la actualidad se diagnostiquen algunos casos. 
+102
+
+Alquitranes y otros Hidrocarburos
+Es conocido el efecto deletéreo de los productos derivados del carbón y del petróleo 
+actuando como carcinógenos y/o promotores. Los hidrocarburos cancerígenos se 
+encuentran en diversas proporciones según la fuente de donde proceda el petróleo. La 
+capacidad cancerígena, de todos modos, se atenúa con la refinación. Las profesiones que 
+se relacionan con estos productos son: calefactores, trabajadores de la construcción y 
+reparación de carreteras, puentes..., trabajadores de  extracción y elaboración de carbón, 
+trabajadores de fabricación de gas ciudad, trabajadores ferroviarios, trabajadores de 
+industrias de plásticos,  trabajadores textiles, trabajadores de metalurgia y minería, 
+trabajadores de limpieza de chimeneas y quemadores, mecánicos y trabajadores de 
+protección-manejo de cables. 
+Arsénico
+Clásicamente se manifiesta su potencial carcinogénico en la piel a través del cuadro 
+denominado epiteliomatosis múltiple superficial, que se concreta en la aparición de 
+numerosos epiteliomas basocelulares de predominio en el tronco, acompañados o no de 
+queratodermia. Las profesiones que manipulan arsénico se relacionan con el trabajo en 
+estas industrias: agricultura (pesticidas), cristalería, elaboración de vinos, fabricación de 
+detergentes y pesticidas, fundiciones (hierro y cobre especialmente), ganadería, minería y 
+veterinaria.
+Trauma
+La relación entre el traumatismo continuado o no y la aparición de una neoplasia maligna 
+resulta un tema controvertido. Se demuestran cambios displásicos tras el traumatismo 
+continuo, pero el paso a auténtica neoplasia maligna está en discusión. Para ello se 
+proponen unos criterios diagnósticos (Stall-Crissel, 1979): 
+-
+la piel debe estar previamente sana
+-
+existir un traumatismo adecuado
+-
+existir un diagnóstico de carcinoma no metastásico mediante estudio histológico 
+-
+el carcinoma debe originarse exactamente en el sitio del trauma
+-
+debe haber continuidad cronológica entre el trauma y la aparición del tumor.
+Las circunstancias pueden ser muy variables: pinchazos, cortes, partículas metálicas 
+proyectadas o incluidas en la piel, salpicaduras de líquidos cáusticos o corrosivos sobre 
+las que luego se desarrollan epiteliomas espinocelulares. Muchos autores estiman que se 
+trata en la mayor parte de casos de relaciones no demostrables y no pasarían de 
+anécdota.
+Mencionar por último, que la aparición de un carcinoma  sobre una cicatriz es un 
+hecho bien conocido, especialmente en cicatrices de quemaduras  y cicatrices irregulares 
+y que por tanto debería ser reconocido como accidente laboral a pesar del largo tiempo 
+que suele transcurrir entre la causa y la consecuencia. 
+103
+
+Cáncer cutáneo ocupacional
+Material o agente 
+cancerígeno
+Industria o peligro 
+Proceso o grupo de riesgo 
+Reducción del Aluminio 
+Trabajadores de calderas 
+Industrias de carbón, gas y coque 
+Hornos de coque, destilación de alquitrán,
+producción de gas con carbón, carga de 
+brea de alquitrán 
+Fabricación de aglomerados 
+Fabricación de ladrillos 
+Industria del asfalto 
+Construcción de carreteras 
+Brea de alquitrán, 
+alquitrán o 
+productos
+alquitranosos
+Usuarios de creosota 
+Trabajadores de empresas fabricantes de 
+ladrillos y de tejas, impermeabilizantes de 
+madera
+Deshollinadores
+Hollín
+Industria del caucho 
+Mezcladores de negro de carbón (hollín 
+comercial) y de aceite 
+Soplado de vidrio 
+Refinado de aceite de esquisto 
+Industria del algodón 
+Hilanderas
+Trabajadores con cera de parafina
+Aceites lubricantes y 
+de corte 
+Ingenieria
+Ajustadores de herramientas y operarios 
+ajustadores en talleres de máquinas 
+automáticas (aceites de corte) 
+Refinerias de petroleo 
+Limpiadores de alambiques 
+Centros de desinfección de ovejas
+Insecticidas arsenicales 
+Usuarios y trabajadores industriales 
+(jardineros, fruticultores, vendimiadores) 
+Arsénico
+Minería de arsénico 
+Radiologos
+Radiación ionizante 
+Otros trabajadores que reciben 
+radiaciones
+Radiación UV 
+Trabajadores al aire libre 
+Agricultores y ganaderos, pescadores, 
+trabajadores de viñedos 
+(Tabla 47)
+Actividades laborales expuestas a radiaciones ionizantes 
+Radiación natural (sol) 
+Radiación artificial 
+Radiación U.V. 
+ Agrimensores de campo 
+ Construcción: carreteras, puentes, 
+mantenimiento edificios, obrajes industriales 
+ Deportistas profesionales 
+ Forestación, industria maderera 
+ Militares
+ Parquistas, jardineros 
+ Laboratoristas
+ Enfermeras, médicos 
+ Mecánicos dentales 
+ Irradiación de alimentos 
+ Industria farmacéutica 
+ Peluqueros
+ Guías de montaña, instructores de esquí 
+ Cosmetólogas
+ Marinos, pescadores 
+ Litografía, imprenta 
+ Curado de plásticos 
+ Minería a cielo abierto, industria del petróleo 
+ Empleados de solarium 
+ Tareas rurales: agricultores, ganaderos, 
+horticultores
+ Trabajadores ferroviarios 
+(Tabla 48) 
+104
+
+ACNÉ OCUPACIONAL 
+105
+
+Definición: Se consideran erupciones acnéicas ocupacionales todas aquellas causas de 
+acné producido por sustancias químicas contactantes (acné venenata) o por causas 
+mecánicas derivadas de la práctica de una profesión. 
+Epidemiología: Actualmente, es bastante infrecuente. El conocimiento del cloracné y la 
+posibilidad de tomar medidas para evitarlo, hacen que en los países desarrollados se 
+pueda llegar a evitar por completo. Sin embardo se siguen publicando algunos casos 
+anualmente. Los accidentes industriales como fugas de gases de determinados 
+materiales pueden condicionar la aparición de casos epidémicos. 
+Etiopatogenia: Es poco conocida en el caso de los químicos. Es probable que las 
+sustancias químicas produzcan irritación a nivel del folículo, acompañada de algún 
+mecanismo obstructivo. En el caso del cloracné tampoco se conoce con precisión. Parece 
+que el Cloro y los halogenados en general, pueden interferir en el metabolismo de la Vit A.
+Criterios de valoración: El diagnóstico del acné ocupacional debe sospecharse en 
+función de los siguientes criterios: 
+El tratamiento con Isotretinoína oral (derivado de la Vit. A que se utiliza en el acné vulgar 
+con excelentes resultados) no produce prácticamente ningún efecto, y a veces, para las 
+lesiones más inflamatorias es necesario algún ciclo de antibiótico. 
+Aunque el mecanismo último del acné mecánico es también desconocido, está claro que 
+éste se produce en lugares ocluidos mecánicamente, y parece que se presenta con más 
+frecuencia en personas con tendencia acnéica. Se especula con el hecho de que la 
+oclusión provoque un cambio de la flora bacteriana aumentándose la colonización ductal. 
+Factores de Riesgo:
+1. Dependientes de los productos que maneja el trabajador (productos clorados, 
+productos que contienen bromo, petróleo, derivados de las breas, aceites 
+industriales etc.) 
+2. Dependientes del propio trabajador, como tendencia acnéica, hábitos higiénicos, 
+seborrea...
+3. Factores mecánicos, como la oclusión producida en el cuello y mandíbula inferior 
+en los violinistas, o la que producen cascos de seguridad o determinadas prendas. 
+También se puede observar en la espalda de los taxistas por oclusión producido 
+por el  respaldo durante muchas horas. 
+4. Otros factores, como la temperatura y humedad relativas del ambiente. 
+Clínica: En el cloracné la clínica puede ser muy severa y persistente. Lo más habitual es 
+que haya mucha tendencia a los comedones abiertos y mucha menos a las lesiones 
+inflamatorias. La localización suele ser en ambos lados de la cara con mayor tendencia al 
+área temporal (piel retro y preauricular). En casos graves puede extenderse a todo el 
+cuerpo. Puede acompañarse de otro tipo de lesiones cutáneas como cambios similares a 
+los de las porfirias (hiperpigmentación, hipertricosis). En los casos de acnés mecánicos, 
+las localizaciones son variopintas y suelen ser distintas a las localizaciones habituales del 
+acné.
+1. Historia clínica de contacto con las sustancias habitualmente implicadas, u oclusión 
+mecánica de alguna zona de origen ocupacional. 
+106
+
+2. Apariencia clínica en la exploración y distribución características. 
+3. Relación temporal correcta, ya que el acné suele sobrevenir pasado bastante 
+tiempo de la exposición a halogenados. 
+4. Síntomas sistémicos en el caso de la intoxicación grave por halogenados, así como 
+niveles de estas sustancias en orina y sangre positivos. 
+5. Evolución lenta de las lesiones 
+6. Exclusión de exposiciones no ocupacionales. 
+ Trabajadores de fabricación de productos 
+clorados en la industria química y 
+farmacéutica
+ Agricultores que manejan pesticidas con 
+clorobencenos
+ Trabajadores de manejo de cables eléctricos
+ Trabajadores de aceites de corte (industria 
+metalúrgica)
+ Trabajadores de manufacturación de tijeras 
+ Pintores
+ Trabajadores de refinerías de petróleo 
+ Trabajadores de proceso electrolítico de 
+producción del cloro 
+ Industria del Caucho 
+ Pavimentación carreteras 
+ Trabajadores de proceso de blanqueo y 
+decoloración en industria textil 
+ Mecánicos de aviones y coches 
+ Camioneros
+ Trabajadores de Pirotecnia 
+ Trabajadores de cocina 
+ Trabajadores con productos clorados 
+Tabla 49. algunas de las profesiones en las que los trabajadores pueden presentar acné ocupacional 
+107
+
+ LEGISLACIÓN APLICABLE 
+1.
+Boletín Oficial del Estado. Ley 14/1986 de 25 de abril, General de Sanidad. BOE 
+núm 102, 29/4/1986. 
+3.
+Boletín Oficial del Estado. Ley de 31/1995 de 8 de Noviembre, de Prevención de 
+Riesgos Laborales. BOE núm 269, 10/11/1995. 
+4.
+Boletín Oficial del Estado. Real Decreto 1995/1978 de 12 de mayo, por el que se 
+aprueba el Cuadro de Enfermedades Profesionales en el sistema de la Seguridad 
+Social. BOE núm 203, 25/8/1978. 
+14.
+Boletín Oficial del Estado. Real Decreto 664/1997 de 12 de mayo, Protección de los 
+trabajadores contra los riesgos relacionados con la exposición a agentes biológicos 
+durante el trabajo. BOE núm 124, 24/5/1997. 
+2.
+Boletín Oficial del Estado. Real Decreto Legislativo 1/1995 de 24 de marzo, por el 
+que se aprueba el Texto Refundido de la Ley del Estatuto de los Trabajadores. 
+BOE núm 75, 29/3/1995. 
+5.
+Boletín Oficial del Estado. Real Decreto 3349/1983 de 30 de noviembre, sobre 
+Reglamentación Técnico-Sanitaria para fabricación, comercialización y utilización 
+de plagicidas. BOE núm 20, 24/1/1984. 
+6.
+Boletín Oficial del Estado. Real Decreto 2330/1985 de 6 de noviembre, sobre 
+Normas de seguridad de juguetes, útiles de uso infantil y artículos de broma. BOE 
+núm 300, 16/12/1985. 
+7.
+Boletín Oficial del Estado. Real Decreto 1406/1989 de 10 de noviembre, por el que 
+se impone limitaciones a la comercialización y uso de ciertas sustancias y 
+preparados peligrosos. BOE núm 278, 20/11/1989. 
+8.
+Boletín Oficial del Estado. Real Decreto 880/1990 de 29 de junio, deroga 
+parcialmente el RD 2330/1985 de 6 de noviembre sobre Normas de seguridad de 
+juguetes, útiles de uso infantil y artículos de broma. BOE núm 166, 12/7/1990. 
+9.
+Boletín Oficial del Estado. Real Decreto 162/1991 de 8 de febrero. Modifica la 
+Reglamentación Técnico-Sanitaria para fabricación, comercialización y utilización, 
+aprobada por Real Decreto 3349/1983. BOE núm 40, 15/2/1991. 
+10.
+Boletín Oficial del Estado. Real Decreto 1078/1993, de 2 de julio, sobre 
+clasificación, envasado y etiquetado de preparados peligrosos. BOE núm 216, 
+9/9/1993.
+11.
+Boletín Oficial del Estado. Real Decreto 443/1994 de 11 de marzo, modifica la 
+reglamentación técnico sanitaria para fabricación, comercialización y utilización de 
+plaguicidas. BOE núm 76, 30/3/1994. 
+12.
+Boletín Oficial del Estado. Real Decreto 363/1995, de 10 de marzo, que modifica el 
+Real Decreto 1078/93. Reglamento sobre notificación de sustancias nuevas, y 
+clasificación, envasado y etiquetado de sustancias peligrosas. BOE núm 133, 
+5/6/1995.
+13.
+Boletín Oficial del Estado. Real Decreto 39/1997 de 17 de enero, Reglamento de 
+los Servicios de Prevención. BOE núm 27, 31/1/1997. 
+15.
+Boletín Oficial del Estado. Real Decreto 665/1997 de 12 de mayo, Protección de los 
+trabajadores contra los riesgos relacionados con la exposición a agentes 
+cancerígenos durante el trabajo. BOE núm 124, 24/5/1997. 
+108
+
+16.
+Boletín Oficial del Estado. Real Decreto 773/1997 de 30 de mayo, disposiciones 
+mínimas de seguridad y salud para la utilización de los trabajadores en el trabajo 
+de equipos de protección individual. BOE núm 140, 12/6/1997. 
+17.
+Boletín Oficial del Estado. Real Decreto 1425/1998, de 3 de julio, que modifica el 
+Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos, 
+aprobado por el Real Decreto 1078/1993. BOE núm 159, 4/7/1998. 
+18.
+Boletín Oficial del Estado. Real Decreto 700/1998, de 24 de abril, que modifica el 
+Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y 
+etiquetado de sustancias peligrosas, aprobado por Real Decreto 363/1995. BOE 
+núm 110, 8/5/1998. 
+20.
+Boletín Oficial del Estado. Orden de 9 abril 1986, Reglamento para la prevención 
+de riesgos y protección de la salud por la presencia de cloruro de vinilo monómero 
+en el ambiente de trabajo. BOE núm 108, 6/5/1986. 
+19.
+Boletín Oficial del Estado. Real Decreto 1124/2000, de 16 de junio, por el que se 
+modifica el Real Decreto 665/97, de 12 de mayo, sobre la protección de los 
+trabajadores contra los riesgos relacionados con la exposición a los agentes 
+cancerigenos durante el trabajo. BOE núm 145, 17/6/2000. 
+21.
+Boletín Oficial del Estado. Orden de 11 diciembre 1990, que actualiza el anexo I del 
+Real 
+Decreto 
+1406/1989, 
+de 
+10-11-89, 
+que 
+impone 
+limitaciones 
+a 
+la 
+comercialización y uso de ciertas sustancias y preparados peligrosos. BOE núm 
+299, 14/12/1990. 
+22.
+Boletín Oficial del Estado. Orden de 31 agosto 1992, que actualiza el anexo I del 
+Real Decreto 1406/1989, de 10-11-1989, que impone limitaciones a la 
+comercialización y uso de ciertas sustancias y preparados peligrosos. BOE núm 
+218, 10/9/1992. 
+23.
+Boletín Oficial del Estado. Orden de 30 diciembre 1993, que actualiza el anexo I del 
+Real Decreto 1406/1989, de 10-11-1989, que impone limitaciones a la 
+comercialización y uso de ciertas sustancias y preparados peligrosos. BOE núm 4, 
+5/1/1994.
+24.
+Boletín Oficial del Estado. Orden de 20 febrero 1995, que actualiza los anejos 
+técnicos del Reglamento sobre clasificación, envasado y etiquetado de preparados 
+peligrosos aprobado por el Real Decreto 1078/1993, de 2-7-1993. BOE núm 46, 
+23/2/1995.
+25.
+Boletín Oficial del Estado. Orden de 13 septiembre 1995, que modifica el anexo I 
+del Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y 
+etiquetado de sustancias peligrosas aprobado por Real Decreto 363/1995, de 10-3-
+1995. BOE núm 224, 19/9/1995. 
+26.
+Boletín Oficial del Estado. Orden de 1 febrero 1996, que modifica el anexo I del 
+Real Decreto 1406/1989, de 10-11-1989, que impone limitaciones a la 
+comercialización y uso de ciertas sustancias y preparados peligrosos. BOE núm 33, 
+7/2/1996.
+27.
+Boletín Oficial del Estado. Orden de 28 marzo 1996, normas para la evaluación de 
+sustancias activas de productos fitosanitarios del anexo I de la Directiva 
+91/414/CEE, del Consejo, de 15-7-1991, relativa a la comercialización de los 
+productos fitosanitarios. BOE núm 81, 3/4/1996. 
+109
+
+28.
+Boletín Oficial del Estado. Orden de 21 febrero 1997, que modifica el anexo I del 
+Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y 
+etiquetado de sustancias peligrosas, aprobado por Real Decreto 363/1995, de 10-
+3-1995. BOE núm 59, 10/3/1997. 
+29.
+Boletín Oficial del Estado. Orden de 14 mayo 1998, que modifica el anexo I del 
+Real Decreto 1406/1989, de 10-11-1989, que impone limitaciones a la 
+comercialización y uso de ciertas sustancias y preparados peligrosos. BOE núm 
+121, 21/5/1998. 
+30.
+Boletín Oficial del Estado. Orden de 30 junio 1998, que modifica los anexos I, III, V 
+y VI del Reglamento sobre notificación de sustancias nuevas y clasificación, 
+envasado y etiquetado de sustancias peligrosas, aprobado por Real Decreto 
+363/1995, de 10-3-1995. BOE núm 160, 6/7/1998. 
+31.
+Boletín Oficial del Estado. Orden de 15 julio 1998, que modifica el anexo I del Real 
+Decreto 1406/1989, de 10-11-1989, que impone limitaciones a la comercialización y 
+al uso de ciertas sustancias y preparados peligrosos. BOE núm 173, 21/7/1998. 
+32.
+Boletín Oficial del Estado. Orden de 11 septiembre 1998, que modifica los anexos I 
+y VI del Reglamento sobre notificación de sustancias nuevas y clasificación, 
+envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 
+363/1995, de 10-3-1995. BOE núm 223, 17/9/1998. 
+33.
+Boletín Oficial del Estado. Orden de 15 diciembre 1998, que modifica el anexo I del 
+Real Decreto 1406/1989, de 10-11-1989, que impone limitaciones a la 
+comercialización y al uso de ciertas sustancias y preparados peligrosos. BOE núm 
+305, 22/12/1998. 
+34.
+Boletín Oficial del Estado. Orden de 16 julio 1999, que modifica los Anexos I y V del 
+Reglamento sobre notificación de sustancias nuevas y clasificaciones, envasado y 
+etiquetado de sustancias peligrosas, aprobado por Real Decreto 363/1995, de 10-
+3-1995. BOE núm 178, 27/7/1999. 
+35.
+Boletín Oficial del Estado. Orden de 11 febrero 2000, que modifica el Anexo I del 
+Real Decreto 1406/1989, de 10-11-1989, que impone limitaciones a la 
+comercialización y al uso de ciertas sustancias y preparados (níquel y sus 
+compuestos). BOE núm 40, 16/2/2000. 
+36.
+Boletín Oficial del Estado. Resolución de 15 febrero 1977. Empleo de disolventes y 
+otros compuestos que contengan benceno. BOE núm 60, 11/3/1977. 
+110
+
+BIBLIOGRAFÍA
+1.
+Agulló A. Aluminio y patología laboral. Med Trabajo 1997: 6: 222-229. 
+2.
+Altomonte A, Zoli A, Galossi A, Mancusa L, Mirone L, Magnavita N, Federico F, 
+Magaro M. Scleroderma-like disease following occupational exposure to organic 
+solvents. Clin Rheumatol 1996: 15(4): 416-417. 
+3.
+Ancona-Alayón A. Occupational koilonychia from organic solvents. Contact 
+Dermatitis 1975: 1: 367-369. 
+4.
+Anderson KE, Benezra C, Burrows D. Review. Contact dermatitis 1987: 16: 55-78. 
+5.
+Angelini G, Rigano L, Foti C, Grandolfo M, Veña GA, Bonamonte D, Solo L, 
+Scorpinitti A. Occupational sensitization to epoxy resin and reactive diluents in 
+marble workers. Contact Dermatitis 1996: 35: 11-16. 
+6.
+Arancón Viguera A. Método normatizado para la identificación y valoración de las 
+enfermedades profesionales. Medicina y Seguridad del Trabajo 1994: 161: 17-21. 
+7. 
+Archibeque-Engle SL. Comparison of organochlorine pesticide and polychlorinatesd 
+biphenyl residues in human breast adipose tissue and serum. J Toxicol Environ 
+Health 1997: 52: 285-293.
+8.
+Baadsgaad O, Wang T. Immune regulation in allergic and irritant skin reactions. Int 
+J Dermatol 1991: 30: 161-172. 
+9.
+Betteley FR, O’shea JA. The absorption of arsenic and its relation to carcinoma. Br 
+J Dermatol 1975: 92: 563-568. 
+10.
+Björkner B. Resinas de poliuretano, de poliester, poliestireno y de polivinilo. 
+Maphre Medicina 1998: 9: 72-77. 
+11.
+Bond GG. Effect of reclassification of chloracne cases. J Occup Med 1990: 32: 423. 
+12.
+Brasch J, Burgard J, Sterry W. Common pathogenetic pathways in allergic and 
+irritant contact dermatitis. J Invest Dermatol 1992: 98: 166-170. 
+13.
+Bruynzeel DP. Bulb dermatitis. Dermatological problems in the flower bulb 
+industries. Contact Dermatitis 1997: 37: 70-77. 
+14.
+Bruze M. Resinas fenol-formaldehído. Maphre Medicina 1998: 9: 69-71. 
+15.
+Burton Ad. Latex allergy in health care workers. Occup Med 1997: 12: 609-626. 
+16.
+Cavalier  C, Fossereau J. Allergie de contact aux metaux et a leurs sels. 
+Documents pour le medecin du travail 1996: 67: 199-238. 
+17.
+Cellini A, Offidani A. An epidemiological study on cutaneous diseases of agricultural 
+workers authorized to use pesticides. Dermatology 1994: 189: 129-132. 
+19.
+Cole CW, Stone O, Gates D. Cloracne from pentachlorphenol-preserved wood. 
+Contact dermatitis 1986: 15: 164-168. 
+20.
+Conde Salazar L,Harto-Castaño A, Guimaraens D. Determinación de alergenos en 
+dermatología. Dermosur 1994: 3: 114-120. 
+18.
+Coenraads PJ, Brouwer A, Olie K, Tang NJ. Chloracne. Dermatol Clin 1994: 12: 
+569-576.
+111
+
+21.
+Conde-Salazar L, Gonzalez de Domingo MA., Guimaraens D. Sensitization to 
+epoxy resin systems in special flooring workers. Contact Dermatitis 1994: 31: 157-
+160.
+22.
+Conde-Salazar L, Gonzalez MA,  Guimaraens D. Eczema alérgico profesional por 
+plantas compuestas. Actas Dermosifiliogr 1997: 88: 411-419. 
+23.
+Conde-Salazar L, Gonzalez MA, Guimaraens D, Nuñez C. Sensibilidad por sales de 
+oro. Actas dermosifiliogr 1996: 87: 377-380. 
+24.
+Conde-Salazar L, Guimaraens D, Gonzalez MA, Nuñez C. Dermatitis de contacto al 
+cromo en industria lechera. Actas Dermosifiliogr 1995: 86: 399-400. 
+25.
+Conde-Salazar L, Guimaraens D, Luelmo L, Fernandez Cogolludo, Cuevas M. 
+Sensibilización al látex: incapacitación de los profesionales sanitarios., peligro para 
+los usuarios. Medicina y Seguridad del trabajo 1997: 174:  7-16. 
+29.
+Elsner P. Irritant dermatitis in the workplace. Dermatol Clin 1994: 12: 461-467. 
+36.
+Goldner R. Work-related irritant contact dermatitis.Occup Med 1994: 9(1): 37-44.
+26.
+Conde-Salazar L, Gonzalez MA,  Guimaraens D. Eczema alérgico profesional por 
+plantas compuestas. Actas Dermosifiliogr 1997: 88: 411-419. 
+27.
+De Raeve H, Vandecasteele C, Demeds M, Nemery B. Dermal and respiratory 
+sensitivization to chromate in a cement floorer. Am J of Int Med 1998: 34: 169-176. 
+28.
+Echt A, Burr GA. Exposure to formaldehyde during garment manufacturing. Appl 
+Occup Environ Hyg 1997: 12: 451-455. 
+30.
+Fernández-Ribas M, Quirce S, Hinojosa M. Síndrome de urticaria de contacto. Rev 
+Esp Alergol Inmunol Clin 1990: 5: 107-117. 
+31.
+Field EA. Atopy and other risk factors for UK dentists reporting and adverse reaction 
+to  latex gloves. Contact Dermatitis 1998: 38: 132-136. 
+32.
+Fisher AA. Management of allergic contact dermatitis due to rubber gloves in health 
+and hospital personnel. Cutis 1991: 17: 301-302. 
+33.
+Freeman S. Occupational Skin Disease. Curr Probl Dermatol 1995: 22: 80-85. 
+34.
+Funke U, Diepgen TL, Fartasch M. Identification of high-risk groups for irritant 
+contact dermatitis by occupational physicians. Curr Probl Dermatol 1995: 23: 64-72. 
+35.
+Gallo R, Guarrera M, Hausen BM. Airborne contact dermatitis from East Indian 
+rosewood. Contact Dermatitis 1996: 35: 60-61. 
+37.
+Gruvberger B. Occupational dermatoses in a plant producing binders for paints and 
+glues. Contact Dermatitis 1998: 38: 71-77. 
+38.
+Halkier-Sorensen L, Occupational skin disease. Contact Dermatitis1996: 35:  1-120. 
+39.
+Hansson C. Extraction of mercaptobenzothiazole compounds from rubber products. 
+Contact Dermatitis 1997: 36: 195-200. 
+40.
+Henmer W, Focke M, Wantke F. Allergic contact dermatitis to artificial fingernails 
+prepared from UV light-cured acrylates. J Am Acad Dermatol 1996: 35: 377. 
+41.
+Hogan DJ, Dannaker CJ, Maibach HI. The prognosis of contact dermatitis. J Am 
+Acad Dermatol 1990: 23: 300-307. 
+42.
+Iniesta Alvarez A, Romero Aguilera G. Prevención del cáncer cutáneo de origen 
+profesional. Medicina del Trabajo 1996: 5: 454-460.
+112
+
+43.
+Julian CG, Bowers PW. The nature and distribution of daffodil picker´s rash. 
+Contact Dermatitis 1997: 37: 259-262. 
+44.
+Kanerva L, Estlander T, Jolanhi R. Occupational allergic contact dermatitis caused 
+by 2,4,6-tris-(dimethylaminomethyl) phenol, and review of sensitizing epoxy resin 
+hardeners. Int J Dermatol 1996: 35: 852. 
+45.
+Kanerva L, Estlander T, Jolanki R. Occupatinal urticaria from welding polyurethane. 
+J Am Acad Dermatol 1991: 24: 825. 
+46.
+Kanerva L, Jolanki R, Tupasela O. Inmediate and delayed allrgy from epoxy resins 
+based on diglycidyl ether of bisphenol A. Scand J Work Environ Health 1991: 17: 
+208.
+47.
+Kanerva L. Statistical data on occupational contact urticaria. Contact Dermatitis 
+1996: 35: 229-233. 
+48.
+Knudsen BB, Wahlberg JE, Andersen I. Classification of contact allergens: proposal 
+for criteria. Dermatosen 1993: 41: 5. 
+49.
+Kortenkamp A. Problems in the biological monitoring of chromiun exposed 
+individuals. Biomarkers 1997: 2: 73-80. 
+50.
+Labreche  FP, Goldberg MS. Exposure
+to organic solvents and breast cancer in 
+women: a hypothesis. Am J Ind Med 1997: 32: 1-14. 
+51.
+Lessenger JE. The California pesticide program comments the frontlines. Journal of 
+Agromedicine 1996: 3: 57-68. 
+52.
+Lim HW. Chronic actinic dermatitis: results of patch and photopatch tests with 
+Compositae, fragrances, and pesticides. J Am Acad Dermatol 1998: 38(1):  108-
+111.
+53.
+Maroni M, Bersani M. Ruolo della biotransformazione nella valutazione dil rischio 
+tossicologico da pesticidi. Medicina del Lavoro 1994: 85: 49-54. 
+54.
+Marrakchi S, Maibach HI. What is occupational contact dermatitis?. Dermatol Clin. 
+1994: 12: 477-484. 
+55.
+Mathias CGT. Allergic contact dermatitis from a nonbisphenol A epoxy in a graphite 
+fibre reinforced epoxy laminate. J Occup Med 1987: 29: 754. 
+56.
+McDonagh AJ. Chloracne study of an outbreak with new clinical observations.   Clin 
+Exp Dermatol. 1993: 18: 523-525. 
+57.
+Mejías del Rosal J, Laborde Grima R. Eficacia de un plan preventivo frente al riesgo 
+de dermatitis de contacto en el medio laboral. Medicina y Seguridad del Trabajo 
+1994: 161: 47-52. 
+58.
+Mitchell JC. Allergy to lichens. Arch Dermatol 1965: 92: 142-146. 
+59.
+Mitchell JC. Industrial aspects of 112 cases of ACD from Frullania in British 
+Columbia, during a 10-year period. Contact Dermatitis 1981: 5: 268-269. 
+60.
+Moore MT, Farris JL. Acute and chronic toxicity of the herbicide stam M-4 in field 
+and laboratory exposure. Arch Environ Contam Toxicol 1997: 33: 199-202. 
+61.
+Morales  Suárez-Varela MM, Llopis González A, Ferrer-Caraco E. Cáncer de piel 
+no melanoma. Estudio de factores implicados en su aparición. Oncología 1992:  15: 
+35-41.
+113
+
+62.
+Morales  Suárez-Varela MM, Llopis González A, Marquina Vila A, Cejudo Ferragud 
+AI, Fuertes A. La actividad laboral en relación con el cáncer cutáneo no melanoma. 
+Medicina y Seguridad del Trabajo 1997: 175: 59-73. 
+63.
+Moszcynski P. Mercury compounds and the inmune system. Int J Occup Med 
+Environ Health 1997: 10: 247-258. 
+64.
+Nethercott JR, Gupta S, Rosen C. Tetraethylene glycol diacrylate. A cause of 
+delayed cutaneous irritant reaction and allergic contact dermatitis. J Occup Med 
+1984: 26: 513. 
+65.
+Palczynski C. Occupational allergy to latex. Life threatening reations in health care 
+workers. Report of three cases. Int Occup Med Environ Health 1997: 10: 297-301. 
+68.
+Preston DS, Stern RS. Non melanoma cancers of the skin. N Engl J Med 1992: 
+327: 1649-1662. 
+70.
+Rabaud C, Guillemln F, Mur JM, Blech MF. Estudio del comportamiento del 
+personal hospitalario respecto a los accidentes con exposición a sangre. Medicina y 
+Seguridad del Trabajo 1998: 176: 1-14. 
+71.
+Reguin G, Michot G. Dermatoses et intoxications professionnelles. Cahiers Comités 
+1997: 303: 34-36. 
+72.
+Riala R. A questinnaire study of road pavers and roofers work-related skin 
+symptoms and bitumen exposure. Int J Dermatol 1998: 37: 27-30.
+77.
+Silvestre Salvador JF, Rodriguez –Serna M, Gauchía Moreno R, Aliaga Boniche A. 
+Dermatitis de contacto profesional por Alstroemeria. Actas Dermosifiliogr 1998: 89: 
+477-449.
+66.
+Paulsen G. Occupational dermatitis in danish gardeners and greenhousemworkers. 
+Prevalence and possible risk factors. Contact Dermatitis 1997: 37: 263-270. 
+67.
+Perry MJ, Layde PM. Source, routes, and frequency of pesticide exposure among 
+farmers. J Occup Environ Med 1998: 40(8): 697-701. 
+69.
+Quintanilla R, Guimaraens D, Gonzalez MA, Conde-Salazar L. Dermatitis alérgica 
+de contacto en un servivcio de dermatología laboral de los años 1989-1992. Rev 
+Castellana Medicina y Seguridad Trabajo 1994: 3: 9-13. 
+73.
+Rilliet A, Hunziker N, Brun R. Alcohol contact urticaria syndrome (immediate-type 
+hypersensitivity) Dermatologica 1981: 161: 361. 
+74.
+Rosas Vázquez E. Chloracne in the 1990s. Int J Dermatol 1996: 35: 643-645. 
+75.
+Rycroft RJG. Clinical assesment in the workplace: dermatitis. Occup Environ Med 
+1996: 46: 364-366. 
+76.
+Sanmartín O, de la Cuadra J. Urticaria de contacto y anafilaxia al látex. Piel 1995: 
+10: 19-25. 
+78.
+Stead WW. Management of health care workers after inadvertent exposure to 
+tuberculosis. A guide for the use of preventive therapy. Ann Intern Med 1995: 122: 
+906-912.
+79.
+Tarvainen K, Jolanki R, Estlander T. Contact urticaria due to airborne 
+methylhexahydrophthalic anhydride and metyltetra hydrophthalic anhydride. 
+Contact Dermatitis 1995: 32: 204. 
+114
+
+80.
+Taylor J, Praditsuwan P. Latex allergy. Review of 44 cases including outcome and 
+frequent association with allergic hand eczema. Arch Dermatol 1996: 132: 265-271. 
+81.
+Turjanmaa K. Urticaria alérgica de contacto al látex. Maphre Medicina 1998: 9: 84-
+89.
+82.
+Vente C, Fuchs T. Contact dermatitis due to oil of turpentine in a porcelain painter.
+Contact Dermatitis 1997: 37(4): 187. 
+83.
+Wahlberg JE. Prevention of contact dermatitis from solvents.  Curr Probl Dermatol 
+1996: 25: 57-66.
+84.
+Walter JF. Cobalt radiation-induced comedones. Arch Dermatol 1980: 116: 1073-
+1074.
+85.
+Yakes B, Kelsey KT, Seitz T, Hashimoto D, Feldman HA, Christiani DC. 
+Occupational skin disease in newspaper pressroom workers. J Occup Med 1991: 
+33(6): 711-717.
+86.
+Yokota K. Risk factors sensitisation to methyltetrahydrophtalic anhydride. Occup 
+Environ Med 1997: 54: 667-670. 
+87.
+Zhai H. Human barrier recovery after acute acetone perturbation: an irritant 
+dermatitis model. Clin Exp Dermatol 1998: 23: 11-13. 
+115
+
+116
+LIBROS DE CONSULTA 
+Conde-Salazar Gomez L y Ancona Alayon A. Dermatosis Profesionales. Barcelona: Edit 
+Signament Edicions,SL; 2000. 
+Giménez Camarasa JM.  Dermatitis de Contacto. Madrid, Barcelona: Aula Médica; 1999. 
+Rietschel RL, Conde-Salazar L, Goossens A, Veien NK . Atlas of Contact  Dermatitis. 
+London: Martin Dunitz; 1999. 
+Adams RM. Occupational Skin Disease, 3ª edition. Philadelphia: W. B. Saunders. 
+Company; 1999. 
+Fisher AA, Rietschel RL, Fowler JP. Contact Dermatitis, 4th edition. Baltimore: Williams& 
+Wilkins; 1995. 
+Garcia Perez A, Conde-Salazar L, Giménez Camarasa JM. Tratado de las  Dermatosis 
+Profesionales. Madrid: Editorial Eudema; 1987. 
+Kanerva L,  Elsner P, Wahlberg JE, Maibach HI. Handbook of Occupational Dermatology. 
+New York: Springer Verlag Berlin Heidelberg; 2000. 
+Rycroft RJG, Menné T, Frosch P, Benezra  C.  Textbook of Contact Dermatitis. Berlin: 
+Springer-Verlag; 1992. 

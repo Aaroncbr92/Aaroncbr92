@@ -1,0 +1,1814 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+PLOMO
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18, 28014 Madrid
+ISBN: 84-7670-504-2
+NIPO: 351-99-015-4
+D.L.: M - 19.127-1999
+Imprime: Solana e Hijos Artes Gráficas, S.A.
+4
+
+SESIÓN PLENARIA DEL CONSEJO
+INTERTERRITORIAL DEL SISTEMA NACIONAL DE
+SALUD (12 DE ABRIL DE 1999)
+El pleno informa favorablemente el «Protocolo de vigilancia
+sanitaria específica para los/as trabajadores/as expuestos/as a
+plomo».
+5
+
+BLANCA
+6
+
+ 
+ 
+COMISIÓN DE SALUD PÚBLICA 
+ 
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE SALUD 
+PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL 
+DE SALUD 
+ 
+COORDINACIÓN DEL PROTOCOLO 
+OSALAN - INSTITUTO VASCO DE SEGURIDAD Y SALUD LABORALES 
+LANEKO SEGURTASUN ETA OSASUNERAKO EUSKAL ERAKUNDEA 
+ 
+AUTORES 
+ 
+Arrate Padilla Magunazelaia. Osalan. País Vasco. 
+Nieves Rodríguez-Sierra Huguet. Osalan. País Vasco. 
+Amaia Martínez Castillo. Osalan. País Vasco. 
+ 
+Este protocolo esta basado en la obra: 
+Documentos Técnicos de Salud Pública nº 16. Protocolos Sanitarios Específicos de 
+Vigilancia Medica de Trabajadores (II). 
+Exposición a Metales: Plomo - 
+Departamento de Sanidad del Gobierno Vasco. 
+Autora: Mercedes Petralanda Aburto 
+ 
+GRUPO DE TRABAJO DE SALUD LABORAL 
+ 
+Enrique Gil López. Ministerio de Sanidad y Consumo. Madrid. 
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid. 
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid. 
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha. 
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra. 
+Francisco Camino Durán. Consejería de Salud. Andalucía. 
+Rosa Maria Campos Acedo. Consejería de Bienestar Social. Extremadura. 
+Carmen Celma Marín. Consejería de Sanidad. Valencia. 
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Laborales. 
+País Vasco. 
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias. 
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social. 
+Castilla y León. 
+Fernando Galvan Olivares. Consejería de Sanidad y Política Social. Murcia. 
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra. 
+Margarita García Barquero. Consejería de Sanidad y Servicios Sociales. Madrid. 
+Alfonso García Carbajo. Departamento de Sanidad y Seguridad Social. Cataluña. 
+Carlos García Puertas. Consejería de Salud, Consumo y Bienestar Social. La Rioja. 
+José Ramón Hevia Fernández. Consejería de Servicios Sociales. Asturias. 
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y 
+Trabajo. Aragón. 
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad Social. 
+Cataluña. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+
+BLANCA
+8
+
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanita-
+ria Específica», editados por el Ministerio de Sanidad y Consumo y fruto
+del trabajo desarrollado por las Administraciones Sanitarias a través del
+Grupo de Trabajo de Salud Laboral de la Comisión de Salud Pública del
+Consejo Interterritorial del Sistema Nacional de Salud, como contribu-
+ción a las actividades de prevención de riesgos laborales en nuestro
+país.
+El nuevo marco normativo en materia de prevención de riesgos labo-
+rales (Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone,
+entre otras cuestiones, que debe cambiar radicalmente la práctica de los
+reconocimientos médicos que se realizan a las y los trabajadores. De
+ser exámenes médicos inespecíficos, cercanos a los clásicos chequeos
+o cribados de carácter preventivo general, deben pasar a ser periódicos,
+específicos frente a los riesgos derivados del trabajo, con el consenti-
+miento informado del trabajador, y no deben ser utilizados con fines dis-
+criminatorios ni en perjuicio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea efi-
+caz para la prevención.
+El poder contar con criterios uniformes basados en la evidencia cien-
+tífica y la experiencia profesional de los participantes en los grupos de
+trabajo constituidos para su elaboración, permitirá alcanzar los objetivos
+de prevención de la enfermedad y promoción de la salud de las y los
+trabajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigi-
+lar la salud de los trabajadores para detectar precozmente e individuali-
+zar los factores de riesgo y deterioro que puedan afectar a la salud de
+los mismos», la recogida armonizada y periódica de datos sobre riesgos
+y enfermedades y su posterior análisis e interpretación sistemáticos con
+criterios epidemiológicos, constituye uno de los instrumentos con que
+cuenta la salud pública para poder identificar, cuantificar y priorizar, y
+por lo tanto, diseñar políticas de prevención eficaces.
+9
+
+Para la elaboración de los protocolos, se constituyeron varios grupos
+de trabajo, que, coordinados por los representantes de las Comunida-
+des Autónomas, permitiese la elaboración en paralelo de varios de ellos.
+Finalmente, una vez concluido el procedimiento interno de elaboración
+de los mismos, han sido sometidos a consulta y adecuadamente infor-
+mados por Agentes Sociales (CEOE, CEPYME, UGT, CCOO y
+AMAT) y Sociedades Científicas (SEMST, SEEMT, AEETSL, SES-
+PAS, SEE, SEMPSP y SEMPSPH), con cuyos representantes se man-
+tuvieron reuniones al efecto, en el Ministerio de Sanidad y Consumo,
+habiéndose incorporado a la redacción final los comentarios recibidos
+que se consideró mejoraban el texto presentado.
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los
+sanitarios, una guía de actuación para la vigilancia sanitaria específica
+de las y los trabajadores expuestos a riesgos derivados del trabajo con
+plomo, que será revisado periódicamente, en la medida que así lo acon-
+seje la evolución de la evidencia científica disponible y su aplicación
+concreta en los centros de trabajo de nuestro país.
+                                                            Juan José Francisco Polledo
+                                                             Director General de Salud Pública
+10
+
+SUMARIO
+                                                                                                       Pág.
+INTRODUCCIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+15
+PLOMO INORGÁNICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+1. CRITERIOS DE APLICACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+2. DEFINICIÓN DEL PROBLEMA . . . . . . . . . . . . . . . . . . . . . . . . . 
+17
+2.1. DEFINICIONES Y CONCEPTOS . . . . . . . . . . . . . . . . . . 
+17
+     2.1.1. Trabajador expuesto . . . . . . . . . . . . . . . . . . . . . . 
+17
+     2.1.2. Nivel de acción del plomo . . . . . . . . . . . . . . . . . . 
+17
+     2.1.3. Valores límite de exposición . . . . . . . . . . . . . . . . 
+18
+2.2. USOS Y FUENTES DE EXPOSICIÓN AL PLOMO . . . . . 
+18
+2.3. MECANISMO DE ACCIÓN. TOXICOCINÉTICA DEL PLO-
+                 MO INORGÁNICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+19
+     2.3.1. Vías de penetración . . . . . . . . . . . . . . . . . . . . . . 
+19
+     2.3.2. Distribución y almacenamiento en el organismo . 
+20
+     2.3.3. Vías de eliminación del plomo absorbido . . . . . . 
+21
+2.4. EFECTOS SOBRE LA SALUD . . . . . . . . . . . . . . . . . . . . 
+22
+     2.4.1. Efectos sobre el tejido hematopoyético . . . . . . . . 
+22
+     2.4.2. Efectos sobre los glóbulos rojos circulantes . . . . 
+23
+     2.4.3. Efectos sobre el sistema nervioso . . . . . . . . . . . . 
+23
+     2.4.4. Efectos a nivel renal . . . . . . . . . . . . . . . . . . . . . . 
+24
+     2.4.5. Efectos sobre la reproducción . . . . . . . . . . . . . . . 
+24
+     2.4.6. Efectos sobre el sistema cardiovascular . . . . . . . 
+25
+     2.4.7. Efectos carcinogénicos . . . . . . . . . . . . . . . . . . . . 
+25
+     2.4.8. Manifestaciones clínicas . . . . . . . . . . . . . . . . . . . 
+25
+            2.4.8.1. Intoxicación aguda . . . . . . . . . . . . . . . . 
+25
+            2.4.8.2. Intoxicación crónica . . . . . . . . . . . . . . . 
+25
+11
+
+                                                                                                       Pág.
+3. EVALUACIÓN DEL RIESGO . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+27
+3.1. INDICADORES DE EXPOSICIÓN . . . . . . . . . . . . . . . . . . 
+27
+     3.1.1. Plumbemia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+27
+     3.1.2. Plumburia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+28
+     3.1.3. Plumburia provocada . . . . . . . . . . . . . . . . . . . . . 
+28
+3.2. INDICADORES DE EFECTO . . . . . . . . . . . . . . . . . . . . . 
+29
+     3.2.1. Deshidratasa eritrocitaria del ácido delta aminole-
+                         vulínico 
+29
+     3.2.2. Ácido delta aminolevulínico urinario . . . . . . . . . . 
+29
+     3.2.3. Zinc-protoporfirina eritrocitaria (ZPP). Protoporfiri-
+                         na eritrocitaria libre (EP) . . . . . . . . . . . . . . . . . . . 
+30
+3.3. TEST DE ELECCIÓN PARA LA MONITORIZACIÓN BIO-
+                 LÓGICA DE LA EXPOSICIÓN AL PLOMO . . . . . . . . . . . 
+31
+4. PROTOCOLO SANITARIO ESPECÍFICO DE LOS TRABAJA-
+   DORES EXPUESTOS A PLOMO INORGÁNICO . . . . . . . . . . . 
+33
+4.1. EXAMEN INICIAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+33
+     4.1.1. Historia Laboral . . . . . . . . . . . . . . . . . . . . . . . . . . 
+33
+     4.1.2. Historia Clínica . . . . . . . . . . . . . . . . . . . . . . . . . . 
+33
+4.2. EXAMEN PERIÓDICO . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+34
+     4.2.1. Historia Clínica . . . . . . . . . . . . . . . . . . . . . . . . . . 
+34
+     4.2.2. Control biológico y estudios complementarios es-
+                              pecíficos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+35
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+   ESPECÍFICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+36
+6. CONDUCTA A SEGUIR ANTE LAS ALTERACIONES QUE SE
+   DETECTEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+37
+6.1. CRITERIOS DE INAPTITUD . . . . . . . . . . . . . . . . . . . . . . 
+37
+6.2. EDUCACIÓN SANITARIA . . . . . . . . . . . . . . . . . . . . . . . . 
+37
+6.3. INTERPRETACIÓN DE LOS VALORES DE PB-B Y ZPP
+38
+6.4. CRITERIOS DE CAMBIO PREVENTIVO DE PUESTO DE 
+                 TRABAJO (ALEJAMIENTO DE LA EXPOSICIÓN) . . . . . . 
+38
+6.5. FRECUENCIA DE REALIZACIÓN DEL SEGUIMIENTO
+                 BIOLÓGICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+39
+7. LEGISLACIÓN APLICABLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+39
+12
+
+                                                                                                       Pág.
+ANEXO I: HOJA DE RECOGIDA DE DATOS DEL TRABAJA-
+DOR/A EXPUESTO/A A PLOMO INORGÁNICO . . . . . . . . . . . . . . . 
+41
+ANEXO II:  RESUMEN DE ACTUACIONES . . . . . . . . . . . . . . . . . 
+45
+COMPUESTOS ORGÁNICOS DEL PLOMO . . . . . . . . . . . . . . . . . . 
+47
+1. INTRODUCCIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+47
+2. DEFINICIÓN DEL PROBLEMA . . . . . . . . . . . . . . . . . . . . . . . . . 
+47
+2.1. DEFINICIONES Y CONCEPTOS . . . . . . . . . . . . . . . . . . 
+47
+2.2. USOS Y FUENTES DE EXPOSICIÓN AL PLOMO ORGÁ-
+                 NICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+47
+2.3. MECANISMO DE ACCIÓN DEL PLOMO ORGÁNICO . . 
+47
+2.4. EFECTOS SOBRE LA SALUD . . . . . . . . . . . . . . . . . . . . 
+48
+3. EVALUACIÓN DEL RIESGO . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+48
+4. PROTOCOLO DE VIGILANCIA SANITARIA DE LOS TRABAJA-
+   DORES EXPUESTOS A PLOMO ORGÁNICO . . . . . . . . . . . . . 
+48
+4.1. EXAMEN INICIAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+48
+4.2. EXAMEN PERIÓDICO . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+49
+ANEXO III: HOJA DE RECOGICA DE DATOS DEL TRABAJADOR/A
+EXPUESTO/A A COMPUESTOS ORGÁNICOS DEL PLOMO . . . . 
+51
+BIBLIOGRAFÍA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+53
+13
+
+BLANCA
+14
+
+INTRODUCCIÓN
+Las condiciones de ductilidad y maleabilidad del plomo han hecho
+que este metal haya sido utilizado por el hombre desde la más remota
+antigüedad. Hipócrates en el siglo V antes de Cristo describe el cólico
+saturnino como síntoma de la toxicidad del plomo. Hay también referen-
+cias a la intoxicación por el plomo en el antiguo Egipto, 4.000 años an-
+tes de la era cristiana.
+De color azul-grisáceo, se obtiene principalmente a partir de la gale-
+na donde se encuentra en forma de sulfuro de plomo. El punto de fusión
+es a 327 ºC y el punto de ebullición a 1.525 ºC. A partir de 500 ºC la
+emisión de vapores de plomo es ya importante y por tanto lo es su toxi-
+cidad. Actualmente la toxicidad del plomo no sólo se extiende a los am-
+bientes laborales en que se utiliza este metal, sino que llega también a
+ser un elemento importante de la contaminación ambiental debido fun-
+damentalmente al empleo del plomo tetraetilo y plomo tetrametilo como
+antidetonante en los carburantes de los automóviles.
+En los países más industrializados, en los últimos 10-15 años, se
+han dictado normas cada vez más restrictivas sobre la utilización del
+plomo en la gasolina llegando a disminuir la concentración de plomo en
+el aire, en torno al 50% según estudios europeos llevados a cabo en el
+periodo 1979-89 (1).
+La disminución de plomo ambiental junto con los progresos hechos
+en el campo de la prevención han reducido fuertemente la importancia
+de las exposiciones al metal a causa de la profesión lo que ha permitido
+obtener conocimientos más precisos sobre los efectos producidos a do-
+sis bajas tanto en población general como en población laboral. Estos
+estudios han puesto en evidencia nuevos problemas, lo que ha llevado
+a algunos autores (1) a proponer una revisión de los actuales modelos
+de conocimiento y de prevención para el plomo con el fin de adaptarlos
+a las nuevas condiciones de exposición y a los conocimientos más re-
+cientes sobre los efectos debidos a los actuales niveles de absorción del
+metal.
+15
+
+BLANCA
+16
+
+PLOMO INORGÁNICO
+1. CRITERIOS DE APLICACIÓN
+El ámbito de aplicación se circunscribe a todas las operaciones y ac-
+tividades laborales susceptibles de dar lugar a la existencia de trabaja-
+dores expuestos a plomo metálico o a sus compuestos iónicos, de
+acuerdo con la Orden de 9 de abril de 1986 por la que se aprueba el
+Reglamento para la prevención de riesgos y protección de la salud de
+los trabajadores por la presencia de plomo metálico y sus compuestos
+iónicos en el ambiente de trabajo (2).
+Se excluye del ámbito de aplicación, la exposición a compuestos co-
+valentes de plomo tales como los derivados alquílicos de este metal. Se
+exceptúan de la aplicación de este protocolo: la navegación marítima y
+la navegación aérea, así como las actividades extractivas de minerales
+con contenido de plomo.
+2. DEFINICIÓN DEL PROBLEMA
+2.1. Definiciones y conceptos
+2.1.1. TRABAJADOR EXPUESTO
+Se considera expuesto al riesgo de plomo a todo trabajador que du-
+rante más de 30 días al año ejerce su actividad laboral en un ambiente
+con una concentración ambiental de plomo (Pb) superior o igual a 40
+µg/m3 de aire, referido a 8 horas diarias y 40 semanales; en relación al ni-
+vel de plumbemia, aquél que presenta un valor de plomo en sangre (Pb-B)
+mayor o igual a 40 µg/100 ml de sangre en el caso de los hombres y 30
+µg/100 ml de sangre en el caso de las mujeres en periodo fértil.
+2.1.2. NIVEL DE ACCIÓN DEL PLOMO
+Son los niveles de plomo en sangre o de plomo en aire a partir de
+los cuales debe adoptarse una vigilancia biológica de los trabajadores
+17
+
+afectados. El Reglamento (2) establece este nivel en una concentración
+ambiental de plomo de 75 µg/m3, referido a 8 horas diarias y 40 sema-
+nales y no especifica ningún valor en relación con la concentración de
+plomo en sangre.
+Se adopta el valor de plumbemia de 40 µg/100 ml como nivel de ac-
+ción en relación con la concentración de plomo en sangre, en base a los
+criterios de diversos autores y organismos y de acuerdo con la propues-
+ta de Directiva de agentes químicos (3). En la tabla I se exponen los va-
+lores de nivel de acción y los valores límite de exposición al plomo
+según diferentes organismos.
+Tabla I. Comparación de criterios de valoración de nivel de acción
+y valores límite de exposición al plomo en la comunidad científica
+internacional (2,3,4,5,6,7,8).
+España
+CEE
+ACGIH
+OSHA
+NIOSH
+OMS
+NIVEL DE
+ACCIÓN
+DEL PLOMO
+Pb-B
+(µg/100 ml)
+Pb-A
+(µg/m3)
+—
+75
+50
+75
+—
+—
+—
+30
+—
+—
+—
+—
+VALORES
+EXPOSICIÓN
+Pb-B
+(µg/100 ml)
+Pb-A
+(µg/m3)
+70-80
+150
+70-80
+150
+30
+50
+50
+50
+60
+100
+40 H
+30 M
+e. fer.
+Pb-B.- Plomo en sangre
+Pb-A.- Plomo ambiental.
+H.- Hombres
+M. e. fer.- Mujer edad fértil
+2.1.3. VALORES LÍMITE DE EXPOSICIÓN
+Son aquellos que no deben, en ningún caso, ser superados y a partir
+de los cuales debe alejarse al trabajador del puesto habitual y de la ex-
+posición en general. El valor límite de la concentración ambiental de plo-
+mo se establece en 150 µg/m3 de aire referido a 8 horas diarias y 40
+semanales. El valor límite de plumbemia se establece en 70 µg/100 ml,
+admitiéndose una plumbemia de 80 µg/100ml siempre que el valor de la
+protoporfirina zinc (ZPP) en sangre sea inferior a 20 µg/g de hemoglobi-
+na.
+2.2. Usos y fuentes de exposición al plomo
+El plomo (Pb) tiene múltiples aplicaciones en la industria y se utiliza
+tanto en forma sólida como líquida, generando polvo, humos o vapores,
+18
+
+según se realicen unas operaciones u otras. Es imposible hacer una re-
+lación exhaustiva de todas las industrias u operaciones que constituyen
+fuentes de exposición laboral.
+Según el riesgo de intoxicación, las actividades se pueden clasificar
+en operaciones de elevado riesgo y de riesgo moderado, tomando en
+consideración: las características físico-químicas del plomo (polvo, aero-
+soles, etc.); vías de entrada; intensidad de exposición; duración, etc. Así
+se puede considerar que las actividades de mayor riesgo son aquellas
+en las que el plomo metálico o inorgánico es calentado y se forman ae-
+rosoles y humos en grandes cantidades (9). 
+Actividades de elevado riesgo:
+•
+Metalurgia del plomo. Fundición y refinado.
+•
+Recuperación de plomo y de residuos metálicos que lo conten-
+gan (Chatarra).
+•
+Industrias de la construcción (Tubos fontanería).
+•
+Fabricación y reciclado de acumuladores eléctricos (Baterías).
+•
+Soldadura de objetos y aleaciones de plomo.
+•
+Tratamientos térmicos en baños de plomo.
+•
+Fabricación de explosivos.
+•
+Fabricación y manipulación de arseniato de plomo como insecti-
+cida.
+•
+Fabricación y utilización de pinturas, esmaltes y barnices com-
+puestos de sales y óxidos de plomo.
+•
+Industrias del plástico que utilicen aditivos a base de plomo.
+Actividades de riesgo moderado:
+•
+Fabricación de municiones de plomo y su utilización en locales
+cerrados.
+•
+Trabajos de demolición, especialmente raspado, quemado y oxi-
+corte de materiales recubiertos con pintura de plomo.
+•
+Fabricación de cables y trefilados.
+•
+Fabricación de tipos de imprenta.
+2.3. Mecanismo de acción. Toxicocinética del plomo inorgánico
+2.3.1. VÍAS DE PENETRACIÓN
+•
+Vía respiratoria: Es la vía de entrada más importante, penetran-
+do por inhalación de vapores, humos y partículas del polvo. El
+50% del Pb depositado en los pulmones se encuentra en sangre
+circulante tras aproximadamente 50 horas, pasando un porcen-
+taje a tejidos o siendo eliminado (10). El grado de absorción de
+19
+
+plomo por esta vía depende de la concentración ambiental en el
+puesto de trabajo, del tiempo de exposición, de la forma física
+(vapores, humos, tamaños de las partículas) y química del plomo
+inhalado, de factores personales (edad, tipo de ventilación), y de
+las condiciones de trabajo (temperatura, humedad y ventilación
+ambientales, y nivel de esfuerzo físico).
+•
+Vía oral: Las partículas de polvo de plomo son ingeridas directa-
+mente a través de las manos, alimentos, bebidas o cigarrillos
+contaminados en el ambiente de trabajo. Constituye la segunda
+vía de entrada, en importancia, de plomo en el organismo. Hay
+también un porcentaje de plomo que después de haber sido in-
+halado es posteriormente vertido al tubo digestivo por los meca-
+nismos de aclaramiento pulmonar.
+Del 5 al 10% del plomo ingerido por esta vía pasa a sangre,
+siendo el resto eliminado por las heces (11). Por otra parte la ab-
+sorción de plomo por esta vía es más elevada en la mujer que
+en el hombre (10).
+No respetar las reglas de higiene en el lugar de trabajo (comer,
+beber o fumar), así como deficiencias en la higiene personal y/o
+deficiencias en las instalaciones sanitarias en la empresa pue-
+den tener como consecuencia una entrada importante del tóxico
+por esta vía.
+•
+Vía cutánea: La absorción por esta vía es débil en el caso del
+plomo inorgánico al contrario que en el del plomo orgánico.
+Hay que señalar que la población no expuesta al plomo por razones
+laborales está más o menos en contacto continuo con este metal a tra-
+vés de la alimentación habitual o el ambiente urbano, sin que en ningu-
+na de las poblaciones adultas estudiadas en nuestro continente la
+concentración media de plumbemia alcance el nivel de 30 µg/100 ml. En
+los últimos años se ha constatado un aumento del número de estudios
+sobre efectos del plomo en población general expuesta a bajas concen-
+traciones.
+En este apartado conviene señalar el especial peligro de exposición
+que conlleva la limpieza en el domicilio de la ropa contaminada para los
+familiares, sobre todo para los niños, por la aparente mayor sensibilidad
+de su sistema nervioso a la acción tóxica del plomo (10).
+2.3.2. DISTRIBUCIÓN Y ALMACENAMIENTO EN EL ORGANISMO
+Una vez que el plomo pasa a sangre se establece un intercambio di-
+námico entre los diferentes tejidos a los que el plomo se dirige. Estudios
+científicos realizados (12) sugieren que un modelo de tres compartimen-
+tos permite explicar la distribución del plomo en el organismo humano
+(Fig.1).
+20
+
+Figura 1. Distribución del plomo. Modelo de los tres
+compartimentos en el organismo humano. Puede verse la vida
+media del plomo en cada uno de ellos (Ellenhorn, 1988).
+Tras la inhalación o ingestión el plomo absorbido pasa al torrente
+sanguíneo, desde donde se distribuye a los diferentes compartimentos.
+El 95 % del plomo sanguíneo está unido a los eritrocitos. La vida media
+del plomo en el compartimento sanguíneo es de 35 días, pero pueden
+existir grandes variaciones individuales.
+El segundo compartimento lo constituyen los tejidos blandos (tejido
+nervioso, riñón, hígado, etc.). La vida media del plomo en este caso es
+de 40 días.
+De entre todos los compartimentos el esqueleto es quien contiene la
+gran mayoría (80-90 %) del plomo almacenado en el organismo. La vida
+media del plomo en el hueso es de 20 a 30 años (12). Una parte del plo-
+mo depositado a nivel óseo (tejido óseo trabecular) se encuentra en for-
+ma inestable, y por tanto fácilmente movilizable en determinadas
+condiciones (acidosis, decalcificación) y en equilibrio con la sangre. El
+resto queda almacenado (tejido óseo compacto) y va aumentando pro-
+gresivamente a medida que continúa la exposición. 
+Tanto los tejidos blandos como la sangre constituyen las unidades
+de intercambio activo, mientras que el esqueleto constituye la unidad de
+almacenamiento o de intercambio lento (13).
+2.3.3. VÍAS DE ELIMINACIÓN DEL PLOMO ABSORBIDO
+El plomo absorbido es eliminado principalmente a través de la orina.
+Una pequeña parte es eliminada a través de la bilis en las heces. La
+porción de plomo que ha sido ingerida y no absorbida es igualmente eli-
+minada por las heces. Otras vías de eliminación son la saliva, el sudor,
+las faneras y la leche.
+DIETA + AIRE
+3
+1
+2
+HUESO
+«
+SANGRE
+«
+TEJIDOS BLANDOS
++/- 20-30 Años
++/- 35 Días
++/- 40 Días
+ORINA
+BILIS, SUDOR, UÑAS,
+PELO
+21
+
+En el caso de baja exposición al plomo existe un equilibrio entre el
+aporte del tóxico y la eliminación. Pero una vez pasado un cierto nivel, la
+eliminación del plomo no se corresponde con el grado de la carga cor-
+poral del metal; se ha producido acumulación y comienza el riesgo de
+intoxicación. El nivel referido depende no solamente del grado de expo-
+sición al plomo, sino también de la edad y de la integridad de órganos
+importantes para su metabolismo y eliminación, como el hígado o el ri-
+ñón.
+2.4. Efectos sobre la salud
+Aunque el plomo es uno de los metales de utilización más antiguo,
+el mecanismo de su acción tóxica es todavía imperfectamente conocido
+y sigue siendo objeto de numerosos estudios. Sin embargo, se conocen
+las acciones más importantes:
+2.4.1. EFECTOS SOBRE EL TEJIDO HEMATOPOYÉTICO
+Los efectos de la acción del plomo en este tejido, aunque a nivel clí-
+nico no sean necesariamente los más importantes, han permitido propo-
+ner métodos de despistaje precoz de la impregnación saturnina (10).
+La concentración de plomo en la médula ósea es muy importante, lo
+que explicaría la alteración de la maduración de los glóbulos rojos que
+este metal produce:
+a. Inhibiendo la síntesis del Hem en los eritroblastos
+El plomo bloquea varias enzimas necesarias para la síntesis del gru-
+po Hem de la hemoglobina: delta-ALA-deshidratasa (ALA-D), coproporfi-
+rinógeno III, decarboxilasa y ferroquelatasa (Fig. 2). Estos efectos
+dependen de la dosis de absorción, siendo la más temprana la inhibición
+del ALA-D. Por otro lado, la actividad de la enzima ALA-sintetasa será
+estimulada por un mecanismo «feed-back» como consecuencia del défi-
+cit de Hem, produciéndose también un aumento del ALA.
+Las consecuencias biológicas de esta acción de inhibición son:
+•
+Aumento de la tasa de ALA en sangre y en orina (ALA-B, ALA-
+U).
+•
+Aumento de la concentración de coproporfirinógeno III en los he-
+matíes y de coproporfirina III en orina (CPU).
+•
+Aumento de la tasa de protoporfirina IX en los hematíes.
+•
+Aumento de la tasa de hierro sérico.
+b. Alteración morfológica de los precursores de los glóbulos rojos
+En una punción esternal pueden ser observados megaloblastos,
+eritroblastos poliploides y punteado basófilo en los eritroblastos. La ac-
+22
+
+ción inhibitoria del plomo sobre la enzima pirimidin-5-nucleotidasa es
+responsable de la reducción-degradación del ARN en los reticulocitos
+en vías de maduración y de la persistencia de las granulaciones basó-
+filas (10).
+Figura 2. Efectos del plomo en la biosíntesis del Hem
+(Ellenhorn, 1988)
+2.4.2. EFECTOS SOBRE LOS GLÓBULOS ROJOS CIRCULANTES
+La fragilidad mecánica de los glóbulos rojos parece aumentar, aun-
+que este factor no es suficiente para explicar la anemia. La vida media
+de los glóbulos rojos disminuye ligeramente. Este hecho permite clasifi-
+car la anemia saturnina entre las anemias hemolíticas (10).
+2.4.3. EFECTOS SOBRE EL SISTEMA NERVIOSO
+El plomo es un neurotóxico periférico y central. Interfiere la libera-
+ción de la acetilcolina o bien la reabsorción de colina y la síntesis conse-
+cuente de acetilcolina. La adenil-ciclasa del SNC es inhibida por el
+Succinil-CoA
+d-ALA
+(Aumentando en sangre y orina)
+Delta-ALA
+Pb
+dehidratasa
+(enzima inhibida por el plomo)
+Porfobilinógeno
+Uroporfirinógeno III
+Coproporfirinógeno III
+(Excreción urinaria aumentada)
+Protoporfirinógeno IX
+Protoporfirina IX
+(Aumentando en los eritrocitos)
+Fe
+Pb
+Ferroquelatasa
+Mitocondríal
+(Enzima inhibida por el plomo)
+Hem
+23
+
+plomo (10). Con niveles de Pb-B inferiores a 60 µg/ 100 ml puede existir
+ya un enlentecimiento de la velocidad de conducción del impulso nervio-
+so. Algunos autores sugieren el uso de estudios electromiográficos en la
+evaluación de la exposición crónica (14).
+Los efectos sobre el sistema nervioso central han sido descritos de
+manera diferente: desde no evidentes, hasta limitados a una reducción
+de los rendimientos globales, o a alteraciones de las funciones psíqui-
+cas más complejas (15, 16, 17).
+2.4.4. EFECTOS A NIVEL RENAL
+Se distinguen tres fases en la respuesta renal a una exposición pro-
+longada al plomo:
+— Primera fase (de duración inferior a un año): caracterizada por la
+presencia de inclusiones intranucleares del complejo plomo-pro-
+teína en las células tubulares, excreción elevada de plomo; no
+hay todavía perturbación de la función renal.
+— Segunda fase: tras algunos años de exposición las células tubu-
+lares han perdido la capacidad de formar inclusiones intranuclea-
+res. Los riñones excretan menos plomo y presentan un cierto
+grado de fibrosis intersticial. La función renal comienza a alterar-
+se.
+— Tercera fase: se produce una nefritis crónica. La lesión es princi-
+palmente tubular si bien puede afectar también a nivel glomeru-
+lar.
+En una revisión de estudios sobre nefropatía plúmbica se aportan
+datos sobre la utilidad de la N-acetil-beta-D-glucosaminidasa urinaria
+(NAG) como marcador precoz de daño renal, aunque las relaciones de
+los niveles de plomo en sangre y NAG sean poco consistentes (18).
+La posibilidad de daño renal tardío podrá darse incluso en condicio-
+nes de exposición moderada al plomo (19).
+2.4.5. EFECTOS SOBRE LA REPRODUCCIÓN
+Según datos de la Organización Internacional del Trabajo (OIT) (20),
+el plomo puede ser transmitido de la madre al feto por transferencia pla-
+centaria estando expuesto a casi la misma concentración de plomo que
+la madre.
+A este nivel se ha descrito un aumento de abortos espontáneos, así
+como el aumento de la tasa de morbi-mortalidad en recién nacidos. En
+el hombre ha sido observada hipoespermia como efecto del plomo (12,
+21). También la exposición paterna está asociada con la aparición de
+abortos (22).
+24
+
+2.4.6. EFECTOS SOBRE EL SISTEMA CARDIOVASCULAR
+Ha sido descrito el efecto favorecedor del plomo en el desarrollo de
+afecciones cardiovasculares: hipertensión y aumento de riesgo corona-
+rio, entre otros (23). Un aspecto interesante constatado en los últimos
+estudios es la relación causal entre bajos niveles de exposición e hiper-
+tensión arterial (24). También se ha encontrado mayor riesgo de mortali-
+dad por enfermedades cardiovasculares en trabajadores expuestos a
+plomo (25).
+Las alteraciones cardiacas pueden producirse por tres mecanismos:
+•
+hipertensión arterial por afectación renal primaria,
+•
+aumento de las resistencias periféricas por alteración de la pared
+de los vasos sanguíneos,
+•
+o por infiltración celular en el tejido específico de conducción (26).
+2.4.7. EFECTOS CARCINOGÉNICOS
+Se ha demostrado repetidamente que la exposición al plomo produ-
+ce cáncer en animales de laboratorio (Categoría A3 American Conferen-
+ce of Government Industrial Hygienists, ACGIH 1996) (4). Estudios
+epidemiológicos han encontrado un aumento significativo para varios ti-
+pos de cáncer (estómago, pulmón y vejiga) (22, 27). Por ello, queda
+abierta todavía la cuestión de una eventual acción mutágena y cancerí-
+gena del plomo.
+2.4.8. MANIFESTACIONES CLÍNICAS
+2.4.8.1. Intoxicación aguda
+Es muy difícil observarla actualmente en la industria de nuestro me-
+dio. Los síntomas son:
+•
+A nivel del aparato digestivo: cólico saturnino con dolor, vómitos
+y estreñimiento.
+•
+A nivel del sistema nervioso: encefalopatía saturnina con convul-
+siones y coma que conduce a la muerte en dos o tres días. Tam-
+bién puede presentarse en forma de delirio o psicosis tóxica.
+•
+A nivel renal: albuminuria, cilindruria, oliguria.
+•
+A veces hay afectación hepática pudiendo aparecer desde una
+necrosis hepática hasta una ligera citolisis (28).
+2.4.8.2. Intoxicación crónica
+Es la que podemos encontrar en la industria.
+25
+
+Pueden distinguirse tres fases (10):
+— Presaturnismo o fase de impregnación.
+— Intoxicación franca.
+— Intoxicación antigua (secuelas), aunque esta cronología no siem-
+pre es respetada.
+a. Fase de impregnación: caracterizada por una plumbemia menor
+de 70 µg/100 ml. Es en esta fase cuando la acción de prevención del
+saturnismo es clave. No se trata todavía de una enfermedad estable-
+cida, pero existen ya datos indicadores de alteraciones metabólicas
+acompañadas de una sintomatología vaga e imprecisa que nos indi-
+can los primeros efectos del plomo. Puede haber estreñimiento y mo-
+lestias gastrointestinales, fatiga, modificaciones del humor, pérdida de
+memoria y, de la capacidad de atención, dolores musculares y articu-
+lares e insomnio. Actualmente, el ribete gingival de Burton se ve muy
+raramente. Un examen electromiográfico podrá revelar una disminución
+de la velocidad de conducción del impulso nervioso en las extremida-
+des. En cuanto a las alteraciones biológicas, en esta fase comienzan a
+evidenciarse los efectos sobre el tejido hematopoyético.
+b. Fase de intoxicación franca: Las manifestaciones pueden ser:
+— Alteraciones del estado general.
+— Cólico saturnino.
+— Polineuritis motora: Se trata de una afección motora que atañe
+en general a los músculos más activos de las extremidades su-
+periores. Se produce una parálisis fláccida y progresiva sin alte-
+raciones sensitivas, que puede curar en semanas o meses al
+suprimirse la exposición al tóxico (29).
+— Hipertensión paroxística.
+— Encefalopatía saturnina: es la manifestación más grave del sa-
+turnismo. Las formas más agudas pueden variar del delirio y la
+psicosis tóxica, a las convulsiones, coma y muerte. La forma cró-
+nica consiste en pérdida de capacidad intelectual y de rendimien-
+to psicomotriz e incluso afasia transitoria y hemianopsia (10).
+Puede producirse una neuritis retrobulbar que debuta con defec-
+tos de la visión central y alteración de la visión de los colores. Si
+la exposición se prolonga evoluciona hacia una atrofia de polo
+posterior con afectación total de nervio óptico. También pueden
+aparecer además alteraciones oculo-motoras (III y VI pares cra-
+neales) y amaurosis transitorias (29, 30). 
+— Afectación tiroidea: disminución de la captación de yodo por la
+glándula tiroides.
+— Afectación testicular: hipoespermia.
+c. Fase de impregnación antigua: la absorción prolongada de plomo
+puede tener como consecuencia hipertensión permanente, nefritis cró-
+nica a menudo asociada a gota (10) y alteraciones cardíacas (23).
+26
+
+3. EVALUACIÓN DEL RIESGO
+La empresa está obligada a realizar, por sí misma o por medio de
+servicios especializados, la evaluación de las concentraciones am-
+bientales de plomo en los puestos de trabajo en los que exista riesgo
+de exposición. Las muestras serán necesariamente de tipo personal y
+serán efectuadas de manera que permitan la evaluación de la exposi-
+ción máxima probable del trabajador o trabajadores, teniendo en cuen-
+ta el trabajo efectuado, las condiciones de trabajo y la duración de la
+exposición.
+El control ambiental será efectuado con una periodicidad trimestral.
+Esta frecuencia podrá ser semestral cuando, permaneciendo inalteradas
+las condiciones del puesto de trabajo, los resultados de las determina-
+ciones efectuadas en dos controles consecutivos indiquen:
+•
+Una concentración de plomo en aire inferior a 100 µg/ m3 
+•
+Una cifra de plumbemia que no supere en ningún trabajador los
+60 µg/100 ml.
+Respecto al trabajador hay dos tipos de indicadores que informan de
+la absorción de plomo en el organismo: los indicadores de exposición y
+los indicadores de efecto. Los primeros revelan el grado de exposición,
+mientras que los segundos detectan las alteraciones que se verifican en
+el órgano crítico a continuación de la absorción. En este apartado, se
+exponen los indicadores más comunes, para hacer después una elec-
+ción de aquellos que se consideran más prácticos y eficientes.
+3.1. Indicadores de exposición 
+3.1.1. PLUMBEMIA (Pb-B)
+En la práctica este test se revela como el medio más útil para eva-
+luar el grado de exposición del individuo al plomo. La cantidad de Pb-B
+es función del plomo absorbido por el organismo menos el depositado
+en huesos y tejidos blandos y el plomo excretado en orina y heces (13).
+Siendo la plumbemia un indicador válido para revelarnos el grado de
+exposición reciente, no lo es sin embargo para informar sobre la carga
+corporal o cantidad de plomo acumulado en el organismo, ni sobre la in-
+tensidad de las alteraciones metabólicas.
+En la exposición, el nivel de plumbemia alcanza rápidamente un va-
+lor meseta, mientras que la cantidad de plomo en stock en el organismo
+puede continuar aumentando.
+Alejado el trabajador de la exposición, el Pb-B disminuye aunque el
+metal acumulado en el organismo puede seguir ejerciendo su acción tó-
+xica durante un tiempo.
+En cuanto a la interpretación del valor Pb-B en relación al Pb-am-
+biental (Pb-A) hay que tener en cuenta que el grado de absorción de-
+27
+
+pende de diversos factores como el tiempo de exposición, el grado de
+actividad física (volumen de aire inspirado), el tamaño de las partículas
+de plomo, la higiene personal y hábitos nocivos en el trabajo (fumar, co-
+mer, beber) y la sensibilidad individual (variaciones metabólicas), entre
+otros. Esto explica la posibilidad, recogida en una serie de predicciones
+de la Occupational Safety and Healt Administration (OSHA) (5), de en-
+contrarnos con casos de diferentes niveles de Pb-B frente a una misma
+concentración ambiental de plomo.
+La plumbemia se expresa en µg/100 ml de sangre, a pesar de que
+sería preferible expresarlo por volumen de hematíes, ya que el 95% del
+plomo sanguíneo está fijado a los glóbulos rojos. Es posible que en el
+futuro pueda realizarse la dosificación del plomo plasmático que repre-
+senta sin duda el plomo circulante difusible en los tejidos, en lugar de la
+cantidad de plomo sanguíneo total (10).
+La recogida de la muestra se hace mediante la extracción de sangre
+venosa en recipientes exentos de plomo, utilizando heparina o EDTA
+como anticoagulantes. El mantenimiento de las muestras debe hacerse
+a temperaturas entre 2 ºC y 8 ºC.
+La plumbemia se determina por espectroscopia de absorción atómi-
+ca.
+3.1.2. PLUMBURIA (Pb-U)
+A veces, este parámetro de exposición es preferido a otros por la
+simple ventaja de no necesitar extracción sanguínea, pero la correlación
+entre el Pb-U y el Pb-B para valoraciones individuales no es muy buena
+en razón de la fluctuación de la plumburia en el tiempo.
+La plumburia se expresa en µg/g de creatinina o en µg/l de orina de
+24 horas. La muestra de orina se recoge, en recipientes exentos de plo-
+mo y debe ser mantenida entre 2 ºC y 8 ºC de temperatura. Debe tener-
+se especial cuidado en evitar la contaminación ambiental de la muestra.
+La plumburia se determina por métodos de absorción atómica.
+El valor normal de Pb-U es inferior a 50 µg/g de creatinina.
+Las variaciones diuréticas individuales y el riesgo de contaminación
+externa de la muestra hacen que esta prueba sea poco indicada para
+medir la exposición.
+3.1.3. PLUMBURIA PROVOCADA
+Se realiza mediante sustancias quelantes del plomo como EDTA
+Na2Ca o por el ácido dimercaptosuccínico. Es el mejor indicador de la
+carga corporal total del plomo. Depende directamente del depósito acti-
+vo del metal en los tejidos blandos y en la trabécula ósea, siendo la me-
+dida más directa del «pool» de intercambio rápido del plomo en el
+organismo.
+Se utiliza como medio diagnóstico y tratamiento en la intoxicación
+aguda, así como medio diagnóstico en las manifestaciones crónicas atri-
+28
+
+buibles al plomo y que se presentan como casos dudosos. Sin embargo,
+tanto por su elaborado procedimiento como por el riesgo que entraña,
+su uso queda estrictamente reservado al ambiente hospitalario.
+3.2. Indicadores de efecto
+3.2.1. DESHIDRATASA ERITROCITARIA DEL ÁCIDO DELTA
+       AMINOLEVULÍNICO (ALA-D):
+Este enzima es especialmente sensible al plomo, que ejerce sobre
+él una precoz acción inhibitoria, produciéndose como consecuencia una
+acumulación de ALA (Fig. 2). La reducción de la actividad de este enzi-
+ma precede a todas las demás alteraciones metabólicas. El organismo
+parece disponer de una reserva importante de este enzima y es necesa-
+rio que la acción inhibitoria afecte al menos a un 80 % de esta reserva
+para que su sustrato, el ALA, comience a acumularse y aumente su ex-
+creción en orina (ALA-U) (10).
+La inhibición del ALA-D es proporcional a la cantidad de plomo me-
+tabólicamente activo en los tejidos, ya que es proporcional a la cantidad
+de plomo movilizable por quelación con EDTA. Presenta una estrecha
+correlación negativa con el Pb-B, mientras que con las Protoporfirinas
+es estrechamente positiva en exposición estable (31). 
+El ALA-D podrá no solamente ser inhibido por la acción directa del
+plomo, sino también por intermediarios de la vía metabólica del Hem (co-
+proporfirinógeno, protoporfirina IX) por mecanismo «feed-back». El mercu-
+rio a fuertes concentraciones y el metilmercurio pueden también inhibir
+este enzima. Algunos estudios sugieren también que el alcohol puede
+potenciar la acción tóxica del plomo sobre la síntesis del Hem (10).
+Tras alejar al trabajador de la exposición al plomo, el ALA-D vuelve
+progresivamente a la normalidad, paralela e inversamente al Pb-B.
+Sobre la base de los criterios actuales de exposición tolerable al plo-
+mo en medio profesional, el ALA-D es demasiado sensible como indica-
+dor para el control rutinario de los trabajadores, ya que la mínima
+concentración en la atmósfera de trabajo produce una reducción brusca
+de su actividad (10).
+En trabajadores expuestos pueden darse falsos negativos en casos
+de hiperregeneración eritropoyética, como por ejemplo, en la anemia
+hemolítica y en la anemia post-hemorrágica.
+El ALA-D se mide en Unidades Europeas (UE) con el Método Euro-
+peo estandarizado u otros (6).
+3.2.2. ÁCIDO DELTA AMINOLEVULÍNICO URINARIO (ALA-U)
+La acumulación de ALA y posterior aumento de la excreción urinaria
+del ALA-U se produce como consecuencia de la inhibición del plomo so-
+bre el ALA-D y la estimulación del ALA-sintetasa. Numerosos estudios
+29
+
+han demostrado que la excreción urinaria de este indicador está asocia-
+da a la cantidad de plomo metabólicamente activo en el organismo, lo
+que podrá indicar su utilización para evaluar la cantidad de plomo movili-
+zable antes del tratamiento quelante (10).
+En los trabajadores con exposición al plomo relativamente estable,
+la cantidad de ALA-U es proporcional a la concentración de Pb-U. El
+ALA-U aumenta algo más tardíamente que las protoporfirinas eritroci-
+tarias. Cuando la exposición cesa, el Pb-B y Pb-U descienden más
+rápidamente que el ALA-U. Este hecho permitirá utilizar el ALA-U
+como indicador para el retorno al puesto del trabajador alejado de
+la exposición en tanto que evalúa el daño metabólico. Sin embargo,
+debido a la diferente densidad de las muestras de orina a lo largo del
+día, la variabilidad de niveles de ALA-U que pueden obtenerse limitan la
+validez de este parámetro para la evaluación individual de los trabajado-
+res (13).
+El ALA-U puede encontrarse anormalmente elevado en la porfiria
+aguda intermitente. Se mide en mg/g de creatinina. Como técnica analí-
+tica se utiliza el método Davis ó método equivalente (6).
+3.2.3. ZINC-PROTOPORFIRINA ERITROCITARIA (ZPP).
+       PROTOPORFIRINA ERITROCITARIA LIBRE (EP)
+El descubrimiento de que la EP que se encontraba elevada en el
+caso de absorción del plomo, no estuviera «libre» sino unida al Zinc, revo-
+lucionó los métodos de determinación de este parámetro. La elevación de
+la concentración de protoporfirina eritrocitaria en la impregnación plúm-
+bica está asociada a una ligera elevación del hierro sérico (Fig. 2).
+En exposición estable, la ZPP comienza a aumentar cuando el nivel
+de Pb-B es de 35-40 µg/100 ml. En las mujeres el aumento comienza a
+concentraciones más bajas (Pb-B de 25-35 µg/100 ml) (13).
+A pesar de que la correlación entre ZPP y Pb-B ha sido suficiente-
+mente demostrada hay que tener en cuenta el factor tiempo a la hora de
+relacionar estos dos parámetros. Por ejemplo, un cambio de tareas o de
+procedimientos en el trabajo o cambios a áreas de mayor o menor expo-
+sición, se reflejarán casi inmediatamente en la plumbemia, mientras que
+el cambio en la ZPP tardará en producirse. La relación entre Pb-B y
+ZPP puede verse afectada también por la exactitud y precisión de los
+métodos de medida (32).
+La protoporfirina acumulada en los eritrocitos queda en su interior
+durante toda la vida de los mismos en el caso de exposición al plomo
+(10). La ZPP permite una predicción aproximada de la cantidad de plo-
+mo quelable (13). La normalización de este parámetro tras cesar la ex-
+posición, es más lenta que la del Pb-B e incluso que la del ALA-U.
+Igual que en el caso de la plumbemia, debe establecerse el nivel
+base de ZPP de cada trabajador nuevo antes de la exposición al plomo
+(33, 34) con el objeto de evaluar la sensiblidad individual al plomo (35).
+Las situaciones que podrían modificar los niveles de ZPP, como la
+ferropenia o las alteraciones hepáticas, difícilmente pueden escapar al
+30
+
+control del médico, conocedor del estado hematológico, bioquímico y
+enzimático del trabajador.
+La sensibilidad y especificidad de este test son suficientes como
+para proponerlo como método de vigilancia de los trabajadores expues-
+tos al plomo (13). Por la facilidad de la determinación actual de la ZPP,
+así como por el hecho de poder recogerse tanto en sangre capilar como
+venosa, y además ser barato, es el parámetro actualmente indicado
+para la valoración precoz del daño biológico del plomo sobre los trabaja-
+dores expuestos.
+Puede medirse tanto en µg/100 ml de sangre como en µg/ g Hb. El
+método de medida es la Fluorimetría o método equivalente, bien tras la
+recogida de sangre venosa o directamente sobre sangre capilar. La
+muestra debe conservarse en lugar oscuro y refrigerado.
+3.3. Test de elección para la monitorización biológica de la
+     exposición al plomo
+La comprensión del riesgo individual sólo puede hacerse si se com-
+bina un test que indique el grado de exposición con un test de efecto
+que informe del grado de interferencia metabólica del plomo.
+En este sentido la ACGIH (4) y la OIT (20) así como muchos autores
+(11, 31, 33) sugieren la utilización simultánea de la plumbemia (Pb-B) y
+la protoporfirina zinc (ZPP) como tests de monitorización biológica.
+La plumbemia permite la evaluación tanto de la dosis interna como
+de la exposición actual, mientras que la ZPP nos informa del efecto y
+permite la evaluación de la carga corporal y de la exposición anterior.
+Si además conocemos la concentración de plomo ambiental a nivel
+del trabajador en el puesto de trabajo, la interpretación de los valores
+biológicos cobra un sentido integral (36).
+31
+
+BLANCA
+32
+
+4. PROTOCOLO SANITARIO ESPECÍFICO DE LOS/AS
+   TRABAJADORES/AS EXPUESTOS/AS A PLOMO INORGÁNICO
+El presente protocolo de vigilancia sanitaria deberá aplicarse en los
+exámenes de salud previos a la incorporación a un puesto de trabajo
+con riesgo de exposición al plomo así como en los exámenes periódicos
+de todos los trabajadores expuestos.
+4.1. Examen inicial
+El examen médico debe hacerse antes, o en los 15 primeros días
+del comienzo del trabajo (exposición).
+4.1.1. HISTORIA LABORAL
+Se realizará una historia laboral detallada del candidato al puesto de
+trabajo, con especial atención a posibles exposiciones anteriores al plo-
+mo. Se detallará asimismo la exposición anterior a otros agentes tóxicos
+que afecten al sistema hematopoyético, renal, hepático y sistema ner-
+vioso central (benceno, bifenilos policlorados (PCB), mercurio, fósforo,
+cadmio, HAH, disolventes, etc.).
+4.1.2. HISTORIA CLÍNICA
+Es necesaria la valoración del puesto de trabajo que ocupará el tra-
+bajador, teniendo en cuenta sus condiciones de trabajo y la presencia
+de plomo en forma de polvo, humo y/o vapor.
+4.1.2.1. Anamnesis
+Dentro de la anamnesis se remarcarán los antecedentes personales
+de patología gastrointestinal, hepática, cardiovascular, renal, hematoló-
+gica y neuropsiquiátrica que en definitiva suponen los órganos diana
+donde se pueden reflejar los síntomas de toxicidad del plomo.
+Es importante, así mismo, tener constancia de los hábitos persona-
+les del trabajador respecto al consumo de alcohol, tabaco (cuantificado)
+y uso de medicamentos. Valorar la existencia de otros factores que influ-
+yen en la absorción de plomo en el medio de trabajo: barba, bigote, «co-
+merse las uñas», etc.
+4.1.2.2. Exploración clínica especifica:
+Se prestará especial atención a la exploración de:
+•
+Piel y faneras.
+•
+Examen de la cavidad bucal.
+•
+Exploración abdominal.
+33
+
+•
+Exploración cardiocirculatoria: tensión arterial, auscultación car-
+díaca.
+•
+Exploración respiratoria evaluando la función ventilatoria nasal y
+pulmonar en el caso de prever la necesidad de utilizar equipos
+respiratorios de protección personal.
+•
+Exploración neurológica: sistema nervioso central y periférico.
+4.1.2.3. Control biológico y estudios complementarios específicos
+Se realizaran las siguientes determinaciones analíticas:
+•
+Hematimetría completa.
+•
+Pruebas hepáticas: bilirrubina total, albúmina, fosfatasas alcali-
+nas, GOT, GPT y Gamma GT.
+•
+Urea.
+•
+Creatinina.
+•
+Plumbemia.
+•
+Zinc-protoporfirina eritrocitaria.
+La toma de la muestra para la determinación de la Pb-B y la ZPP se
+hará recogiendo 5 ml de sangre venosa en un tubo de extracción al va-
+cío, con la precaución extrema de que tanto la jeringa como el tubo es-
+tén exentos del plomo. El tubo contendrá heparina o EDTA como
+anticoagulante. En el caso de extraer la muestra en las propias empre-
+sas debe hacerse especial hincapié en evitar la contaminación plúmbica
+de la muestra (ambiente, piel). Los tubos deberán conservarse en lugar
+oscuro y fresco (entre 2 ºC y 8 ºC) y se enviarán al laboratorio lo antes
+posible (máximo de 48 horas).
+Es necesario tener un conocimiento previo sobre las condiciones de
+exposición que concurren en el trabajador a valorar (tipo de puesto, tipo
+de exposición, tiempo de exposición, utilización de protección personal,
+etc.) y que van a condicionar la interpretación de los resultados. Así mis-
+mo, se ha de disponer de la medición ambiental concreta del puesto de
+trabajo que ocupa. Todos estos datos se reflejarán en el Anexo I.
+4.2. Examen periódico
+Se realizará con una periodicidad mínima anual. La frecuencia de
+los controles periódicos aumentará con el grado de exposición, tal como
+se indica en la tabla II.
+4.2.1. HISTORIA CLÍNICA 
+4.2.1.1. Anamnesis 
+La anamnesis general prestará especial atención a los síntomas
+subjetivos que pueden tener relación con la toxicidad del plomo, como
+son:
+34
+
+•
+Alteraciones del sueño, pérdida de memoria, cefaleas, trastornos
+de carácter, ansiedad, etc.
+•
+Astenia, adelgazamiento.
+•
+Parestesias, debilidad muscular.
+•
+Dificultad de extensión de la mano, etc.
+•
+Anorexia, estreñimiento, crisis diarréicas, dolores abdominales,
+epigastralgias.
+•
+Nicturia, orinas colúricas.
+•
+Trastornos de la libido.
+4.2.1.2. Exploración clínica especifica:
+Valorar:
+•
+Coloración de la piel.
+•
+Cavidad bucal: en busca del ribete gingival de Burton, aunque en
+la actualidad es rara su observación.
+•
+Exploración abdominal.
+•
+Exploración neurológica que debe incluir:
+•
+Pares craneales.
+•
+Pruebas cerebelosas.
+•
+Sensibilidad, fuerza, reflejos tendinosos.
+•
+Exploración cardiocirculatoria: tensión arterial, auscultación car-
+díaca.
+•
+Evaluación de la función pulmonar en el caso de utilización de
+equipos de protección respiratoria.
+4.2.2. CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTARIOS
+       ESPECÍFICOS
+Se realizaran las siguientes determinaciones analíticas:
+•
+Hematimetría completa.
+•
+Pruebas hepáticas: bilirrubina total, albúmina, fosfatasas alcali-
+nas, GOT, GPT y Gamma GT.
+•
+Urea.
+•
+Creatinina.
+•
+Plumbemia.
+•
+Zinc-protoporfirina eritrocitaria
+En definitiva se realizan las mismas que en el examen inicial, ha-
+ciendo hincapié de nuevo en lo referido a la toma de muestras.
+Las valoraciones de Pb-B y ZPP se realizarán con la frecuencia que
+requiera el grado de exposición (tabla II).
+35
+
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+   ESPECIFICO
+El protocolo de vigilancia de los trabajadores expuestos al plomo
+comprende la valoración ambiental y un examen médico inicial, que se
+recoge en el Anexo I. Del análisis conjunto de ambas valoraciones se
+determina el riesgo a que está sometido del trabajador, siendo éste el
+parámetro que marca la frecuencia con la que se han de establecer los
+distintos controles tanto biológicos como ambientales de ese puesto de
+trabajo concreto (tabla 2).
+Tabla II. Evaluación del riesgo y niveles de intervención
+INDICADORES
+NIVELES DE RIESGO
+I
+II
+III
+IV
+Pb-B µg/100 ml
+ZPP µg/g Hb
+Pb-A µg/m3
+< 40h
+< 30 m
+< 3,5
+< 75
+40-60
+ó 3,5-10
+ó 75-100
+60-70
+ó 10-20
+ó 100-150
+> 70
+ó > 20
+ó >150
+MEDIDAS 
+PREVENTIVAS
+Control anual
+de los indica-
+dores bioló-
+gicos
+Control se-
+mestral de
+los indicado-
+res bioló-
+gicos
+Valoración
+del aleja-
+miento de
+puesto. Con-
+trol trimestral
+de indicado-
+res biológi-
+cos.
+Seguimiento
+médico.
+Separación
+del puesto.
+Control men-
+sual de indi-
+cadores bio-
+lógicos.
+Seguimiento
+médico.
+MEDIDAS
+AMBIENTALES
+NINGUNA
+Control am-
+biental se-
+mestral del
+puesto de
+trabajo.
+Control ambiental trimestral
+y adopción de medidas téc-
+nicas de prevención del
+riesgo
+NIVELES DE INTERVENCIÓN: I. Nivel de vigilancia.
+              II. Nivel de vigilancia.
+              III. Nivel de intervención de importancia creciente cuya
+              persistencia,
+              IV. Puede provocar en el individuo, un estado patológico.
+Pb-B: Plumbemia.
+Pb-A: Plomo ambiental, 
+ZPP: Zinc-protoporfirina eritrocitaria.
+h: hombres.
+m: mujeres.
+36
+
+Por otra parte, para poder establecer una vigilancia y control epide-
+miológico de la situación general de los trabajadores expuestos al plo-
+mo, es necesario que de los distintos servicios de prevención se facilite
+información a la Autoridad Sanitaria encargada de la vigilancia y control
+epidemiológico de salud laboral en cada Comunidad Autónoma, de
+modo que se pueda establecer una aproximación a la situación general
+dentro de dicha Comunidad y por extensión a nivel Estatal.
+6. CONDUCTA A SEGUIR ANTE LAS ALTERACIONES QUE SE
+   DETECTEN
+Se valorarán en primer lugar los criterios de inaptitud para los pues-
+tos de trabajo expuestos a plomo.
+Por otra parte es absolutamente necesario administrar tras el reco-
+nocimiento médico inicial unas normas de educación sanitaria para to-
+dos los trabajadores expuestos, a fin de minimizar el riesgo.
+En tercer lugar es fundamental realizar una correcta interpretación
+de los datos de Pb-B y ZPP para determinar junto con los niveles de Pb-
+A la conducta a seguir.
+6.1. Criterios de inaptitud
+En el examen previo, la existencia de alguna de las patologías, que
+se citan a continuación debe ser considerada como un criterio absoluto
+de inaptitud para los puestos de trabajo expuestos al plomo:
+•
+Enfermedades congénitas como la talasemia o el déficit de G-6-
+PD.
+•
+Insuficiencia renal.
+•
+Insuficiencia hepática.
+•
+Trastornos neurosiquíatricos.
+•
+Patología derivada del alcohol.
+Se valorará cuidadosamente la existencia de patologías que pueden
+suponer una contraindicación relativa o temporal, como la HTA, anemia,
+diabetes, cardiopatía, insuficiencia respiratoria, así como respiración na-
+sal defectuosa, etc.
+6.2. Educación sanitaria
+A todos los trabajadores expuestos al plomo se les facilitará informa-
+ción detallada y suficiente sobre:
+•
+Riesgos para la salud derivados del trabajo con plomo incluyen-
+do los riesgos potenciales para el feto y para el lactante.
+•
+Información relativa a las concentraciones límites y a las normas
+para la evaluación y control ambiental.
+•
+Las medidas higiénico-preventivas a adoptar por los trabajado-
+res.
+37
+
+•
+Peligros que comporta a los trabajadores potencialmente ex-
+puestos, fumar, beber y comer en los puestos de trabajo, y la
+consiguiente prohibición.
+•
+Utilidad y obligatoriedad, en su caso, del uso de ropa de trabajo
+y medios de protección personal preceptivos, el correcto empleo
+y conservación de los mismos de acuerdo con lo establecido en
+el Reglamento para la prevención de riesgos y protección de la
+salud de los trabajadores por la presencia de plomo metálico y
+sus compuestos iónicos en el ambiente de trabajo (2).
+6.3. Interpretación de los valores de Pb-B y ZPP
+La plumbemia muestra el grado de absorción del metal lo que permi-
+te una estimación del grado de exposición (niveles ambientales). Como
+indicador del grado de exposición, revela fundamentalmente la exposi-
+ción reciente, mientras que no informa de la carga corporal ni del daño
+metabólico producido por la exposición anterior. Hay que tener en cuen-
+ta para las acciones de prevención, los factores que influyen en la ab-
+sorción, como son: el tiempo de exposición, la forma de presentación
+del plomo (humos, vapores, tamaño de las partículas), las condiciones
+de trabajo (temperatura, humedad, aspiración y ventilación, nivel de es-
+fuerzo físico, puesto estático o dinámico) y las condiciones del individuo
+(tipo de respiración, sensibilidad al Pb), etc.
+La ZPP es un parámetro revelador de la carga corporal en cuanto
+que evalúa el daño metabólico producido por el plomo acumulado en el
+organismo. En este sentido permite valorar la exposición anterior al plo-
+mo.
+La relación plumbemia-ZPP puede verse afectada por algunos facto-
+res como la variabilidad de la exposición y el período de tiempo que
+transcurre entre el aumento de Pb-B y el aumento de ZPP entre otros.
+Se valorará el interés de añadir el ALA-D si la exposición es modera-
+da, o el ALA-U si los valores ambientales superan el nivel de acción del
+plomo o especialmente cuando superan su TLV (37).
+6.4. Criterios de cambio preventivo de puesto de trabajo
+     (alejamiento de la exposición).
+— Mujeres embarazadas ó en periodo de lactancia.
+— En el caso de superación de cualquiera de los valores biológicos
+o ambientales calificados como exposición de riesgo IV en la ta-
+bla II propuesta como referencia. El retorno al puesto de trabajo
+tendrá como criterio una plumbemia menor de 60 µgr/100 ml y
+un nivel de ALA-U inferior a 12 mg/g de creatinina.
+— En el caso de aparición de síntomas susceptibles de ser causa-
+dos por el plomo, si se acompañan de alteraciones de alguno de
+los tests específicos, incluso si éstos no alcanzan el valor límite.
+En este caso, el criterio clínico debe prevalecer como indicador
+38
+
+para el alejamiento del puesto de trabajo. Está indicado también
+completar la información con la determinación de otros indicado-
+res biológicos específicos, a efectos de precisar el diagnóstico
+(ALA-D, ALA-U, Pb-U).
+— Si al tercer mes de comienzo de la exposición, el trabajador nue-
+vo presenta una ZPP mayor que tres veces la ZPP medida en el
+examen previo, hay que examinar si existe alguna patología de
+base como la ferropenia que lo justifique. Si no hay ningún dato
+que explique este nivel de ZPP, hay que considerar que el traba-
+jador es excesivamente sensible al plomo, y habrá que alejarlo
+de la exposición.
+Si no se puede trasladar al trabajador a un puesto de no exposición
+al plomo, se contemplará la Incapacidad Temporal, especialmente en el
+caso de mujeres embarazadas o en período de lactancia.
+6.5. Frecuencia de realización del seguimiento biológico
+La tabla II recoge la frecuencia con la que debe ser realizado el se-
+guimiento biológico de los trabajadores expuestos en función de su nivel
+de riesgo.
+Por otra parte en los casos de control de retorno al puesto de trabajo
+tras alejamiento por absorción excesiva, o en los casos solicitados por el
+propio trabajador se harán con la frecuencia que, a criterio médico, cada
+caso requiera.
+Además pueden efectuarse más frecuentemente en algunas circuns-
+tancias como:
+•
+Periodo de adaptación del trabajador nuevo: se realizará en el
+tercer mes después del comienzo del trabajo.
+•
+Trabajos de corta duración en presencia de altas concentracio-
+nes de plomo.
+•
+Aparición de síntomas sugestivos de intoxicación en cualquiera
+de sus grados.
+•
+Control de retorno al trabajo tras cambio preventivo de puesto ó
+baja por absorción excesiva de plomo.
+7. LEGISLACIÓN APLICABLE
+•
+Orden del Ministerio de Trabajo y Seguridad Social de 9 de Abril de
+1986, por la que se aprueba el Reglamento para la Prevención de
+riesgos y protección de la salud de los trabajadores por la presen-
+cia de plomo metálico y sus compuestos iónicos en el ambiente de
+trabajo. BOE nº 98, 24 de Abril de 1986; 14637-14641.
+•
+Diario Oficial de las Comunidades Europeas, Directiva 77/312/CEE
+de 29 de Marzo de 1977. Vigilancia biológica de la población contra
+el peligro del saturnismo. L 105, de 28.04.77 Edición especial es-
+pañola capítulo 5 volumen 2 página 125.
+39
+
+BLANCA
+40
+
+ANEXO I
+HOJA DE RECOGIDA DE DATOS DEL TRABAJADOR/A EXPUESTO A
+PLOMO INORGÁNICO
+EXAMEN
+FECHA
+• Previo
+Médico
+• Periódico
+Número de Colegiado
+• Separación preventiva
+  del puesto de trabajo
+• Reincorporación
+DATOS PERSONALES
+EMPRESA
+APELLIDOS
+NOMBRE
+SEXO
+DNI
+FECHA NACIMIENTO
+DOMICILIO
+PROVINCIA
+NOMBRE
+CNAE
+TELEFONO
+LOCALIDAD
+PROVINCIA
+PUESTO DE TRABAJO (CNO)
+ANTIGÜEDAD
+ANTECEDENTES PERSONALES
+Patología gastrointestinal
+Patología hepática
+Patología cardiovascular
+Patología renal
+Patología hematológica
+Patología neuropsiquíatrica
+HÁBITOS PERSONALES
+TABACO     Número de cigarrillos día
+          Fuma mientras trabaja
+ALCOHOL    Habitual
+         Fin de semana
+         Tipo de alcohol que consume
+41
+
+EXPLORACIÓN CLÍNICA
+Coloración de piel y faneras
+Cavidad Bucal
+Ribete de Burton
+Exploración Abdominal
+Exploración Cardiocirculatoria
+Tensión Arterial
+Auscultación Cardiaca
+Exploración Aparato Respiratorio
+Valoración de la función nasal
+Auscultación Pulmonar
+Valoración Neurológica
+Valoración de pares craneales
+Reflejos tendinosos
+ CARACTERÍSTICAS DEL PUESTO
+Forma de exposición
+Polvo
+Humo
+Vapores
+Medición de Pb ambiental en
+el puesto
+Trimestral
+Semestral
+Anual
+Más espaciada
+No se realiza
+Resultado de las últimas mediciones ambientales a nivel del trabajador/a en el
+puesto de trabajo:
+Pb-A
+     µg/m3
+     Fecha
+Pb-A
+     µg/m3
+     Fecha
+Medios de protección individual utilizados
+Medios de protección colectiva. Medidas Técnicas de Prevención:
+— Aspiración
+—        
+— Ventilación
+—        
+Otros riesgos tóxicos
+42
+
+Puestos anteriores de trabajo con exposición al plomo:
+......................................periodo de exposición........................a......................................
+......................................periodo de exposición........................a......................................
+......................................periodo de exposición........................a......................................
+PARÁMETROS BIOLÓGICOS
+Pb-B
+ZPP
+Concentraciones
+actuales
+Fecha . . . . . . . .
+Concentraciones
+anteriores
+Fecha . . . . . . . .
+Fecha . . . . . . . .
+Otros tests específi-
+cos
+Fecha . . . . . . . .
+Los valores de Pb-B se expresarán en microgramos/100 mililitros (µg/100 ml).
+Los valores de ZPP se expresarán en microgramos/gramo de hemoglobina (µg/gr Hb).
+43
+
+BLANCA
+44
+
+CONTROL ANUAL
+DE INDICADORES
+BIOLÓGICOS
+EXAMEN PERIÓDICO
+RIESGO I
+Pb-B <40 hombres
+Pb-B <30 mujeres
+ZPP<3'5 y Pb-A <75
+CONTROL SEMESTRAL
+DE INDICADORES
+BIOLÓGICOS
+EXAMEN PERIÓDICO
+CONTROL AMBIENTAL
+SEMESTRAL
+DEL PUESTO DE
+TRABAJO
+RIESGO II
+Pb-B 40-60
+ZPP 3'5-10
+Pb-A 75-100
+CONTROL TRIMESTRAL
+DE INDICADORES
+BIOLÓGICOS
+EXAMEN PERIÓDICO
+CONTROL AMBIENTAL
+TRIMESTRAL Y
+ADOPCIÓN DE MEDIDAS
+TÉCNICAS DE PREVENCIÓN
+VALORAR SEPARACIÓN
+DEL PUESTO DE
+TRABAJO
+RIESGO III
+Pb-B 60-70
+ZPP 10-20
+Pb-A 100-150
+CONTROL MENSUAL
+DE INDICADORES
+BIOLÓGICOS
+SEGUIMIENTO MÉDICO
+CONTROL AMBIENTAL
+Y
+ADOPCIÓN DE MEDIDAS
+TÉCNICAS DE PREVENCIÓN
+SEPARACIÓN
+DEL PUESTO DE
+TRABAJO
+RIESGO IV
+Pb-B >70
+ZPP >20
+Pb-A >150
+SEPARACION
+DEL PUESTO DE
+TRABAJO
+MUJERES EN
+PERIODO DE
+GESTACIÓN Y
+LACTANCIA
+EVALUACIÓN DEL
+RIESGO
+VALORACIÓN AMBIENTAL
+EXAMEN MÉDICO INICIAL
+Pb-B = Plumbemia
+ZPP = Protoporfirina zinc eritrocitaria
+Pb-A= Plomo ambiental
+Pb-B = Plumbemia
+ZPP = Zinc-protoporfirina eritrocitaria
+Pb-A = Plomo ambiental
+SEPARACIÓN
+DEL PUESTO DE
+TRABAJO
+ANEXO II
+RESUMEN DE ACTUACIONES
+45
+
+BLANCA
+46
+
+COMPUESTOS ORGÁNICOS
+DEL PLOMO
+1. INTRODUCCIÓN
+El plomo se combina con el radical alquilo formando compuestos al-
+quílicos, de los cuales los únicos con importancia industrial en la actuali-
+dad son el plomo tetraetilo y el plomo tetrametílico.
+Son compuestos líquidos, miscibles en todas las proporciones con
+gasolina (y otros disolventes orgánicos) por lo que se utilizan como anti-
+detonantes en la gasolina. (20)
+2. DEFINICION DEL PROBLEMA
+2.1. Deficiones y conceptos
+Los principales compuestos orgánicos son el plomo tetraetilo y el
+plomo tetrametilo, sustancias utilizadas como antidetonantes para car-
+burantes.
+2.2. Usos y fuentes de exposición al plomo orgánico
+El riesgo de exposición se da sobre todo en la preparación y trans-
+porte de las mezclas antidetonantes, constituidas en un 50-60 % de plo-
+mo tetraetilo y plomo tetrametilo. Colorantes y mezclas de hidrocarburos
+clorados o bromados, entre otras sustancias, forman parte del resto de
+los componentes de los preparados antidetonantes.
+2.3. Mecanismo de acción del plomo orgánico
+Las vías fundamentales de penetración son la respiratoria y la cutánea.
+La vía digestiva estará reservada a la ingestión accidental. Una vez absor-
+bido el plomo tetraetilo se concentra principalmente en hígado donde es
+47
+
+transformado en plomo trietilo. Este último se distribuye en diferentes ór-
+ganos, sobre todo en el cerebro donde ejerce su acción tóxica (10).
+El plomo tetraetilo no interfiere directamente la síntesis del Hem
+aunque la actividad del ALA-D es significativamente inhibida en trabaja-
+dores expuestos tanto a plomo tetraetilo como a plomo tetrametilo. La
+explicación a este fenómeno sería la liberación de plomo inorgánico en
+el organismo (3).
+La toxicidad del plomo tetraetilo es mayor que la del plomo tetrameti-
+lo como depresor del sistema nervioso central.
+La eliminación de estos compuestos orgánicos se hace fundamen-
+talmente por vía urinaria.
+La sintomatología se atribuye más a los propios compuestos y a la
+parte de plomo inorgánico liberado «in vivo» que a la acción de los hi-
+drocarburos (3).
+2.4. Efectos sobre la salud
+Tanto si se absorbe una importante cantidad en un tiempo muy corto,
+como si se absorben pequeñas cantidades durante períodos prolongados,
+se manifiesta como una intoxicación aguda del SNC. Las manifestaciones
+más leves toman la forma de insomnio, excitación nerviosa en asociación
+con tremor, hiper-reflexia, contracciones musculares espasmódicas, bradi-
+cardia, hipotensión e hipotermia. Las formas más severas incluyen episo-
+dios recurrentes de completa desorientación, con alucinaciones e intensa
+actividad muscular. Si la absorción ha sido breve e importante y los sínto-
+mas aparecen rápidamente (en pocas horas) el pronóstico puede ser fatal.
+Si hay un intervalo de días entre la absorción y los síntomas el pronóstico
+mejora (13). No cursa con neuropatía periférica.
+3. EVALUACIÓN DEL RIESGO
+La plumburia (Pb-U) constituye el mejor método para descartar y
+prevenir la intoxicación. Los niveles de plumbemia son en cambio mode-
+rados (29), lo que sitúa la Pb-B en un segundo nivel en cuanto a la pre-
+vención.
+El TLV del plomo tetraetilo es de 0’1 mg/m3 (bajo forma de plomo)
+(ACGIH 1997).
+4. PROTOCOLO DE VIGILANCIA SANITARIA DE LOS/AS
+   TRABAJADORES/AS EXPUESTOS/AS A PLOMO ORGÁNICO
+4.1. Examen inicial
+Se realizará lo descrito en este apartado para el Plomo Inorgánico.
+Se deberá evitar la exposición al riesgo a aquellos que sufran enferme-
+48
+
+dades mentales, alcoholismo o hipotensión, siendo por ello declarados
+no aptos. Los datos de este reconocimiento médico se transcribirán al
+Anexo III.
+4.2. Examen periódico
+Se realizará lo descrito en este apartado para el Plomo Inorgánico,
+siendo ajustados en frecuencia a cada exposición específica, con un
+máximo de tres meses entre cada control biológico. El test biológico de
+elección es la plumburia (Pb-U). Si presenta una Pb-U de 0,15 mg/litro o
+mayor debe ser apartado de su puesto de trabajo a otro donde la expo-
+sición sea menos importante, y con valores de Pb-U mayores de 0,20
+mg/litro la ACGIH (4) recomienda el cese de la exposición.
+49
+
+BLANCA
+50
+
+ANEXO III
+HOJA DE RECOGIDA DE DATOS DEL TRABAJADOR/A EXPUESTO A
+PLOMO INORGÁNICO
+EXAMEN
+FECHA
+• Previo
+Médico
+• Periódico
+Número de Colegiado
+• Separación preventiva
+  del puesto de trabajo
+• Reincorporación
+DATOS PERSONALES
+EMPRESA
+APELLIDOS
+NOMBRE
+SEXO
+DNI
+FECHA NACIMIENTO
+DOMICILIO
+PROVINCIA
+NOMBRE
+CNAE
+TELEFONO
+LOCALIDAD
+PROVINCIA
+PUESTO DE TRABAJO (CNO)
+ANTIGÜEDAD
+CARACTERÍSTICAS DEL PUESTO
+Medios de protección individual utilizados
+Otros riesgos tóxicos
+Observaciones
+Puestos anteriores de trabajo con exposición al plomo:
+......................................periodo de exposición........................a......................................
+......................................periodo de exposición........................a......................................
+......................................periodo de exposición........................a......................................
+51
+
+PARÁMETROS BIOLÓGICOS
+Pb-U
+Pb-B
+Concentraciones actuales
+Fecha...............
+Concentraciones anteriores
+Fecha...............
+52
+
+BIBLIOGRAFÍA
+1. Apostoli P, Alessio L. Il piombo negli anni 90: «Nuove» regole per il più «vec-
+chio» dei tossici ambientali?. Med Lav 1992; 83(6): 539-56.
+2. Orden del Ministerio de Trabajo y Seguridad Social de 9 de Abril de 1986, por la
+que se aprueba el Reglamento para la Prevención de riesgos y protección de la salud de
+los trabajadores por la presencia de plomo métalico y sus compuestos iónicos en el am-
+biente de trabajo. BOE nº 98, 24 de Abril de 1986; 14637-41.
+3. Diario Oficial de las Comunidades Europeas, C375 1-24, 10.12.97 Posición Co-
+mun (CE) nº 41/97 aprobada por el Consejo de 7 de Octubre de 1997 Con vistas a la
+adopción de la Directiva 97/.../CE del Consejo de ..., relativa a la protección de la salud y
+la seguridad de los trabajadores contra los riesgos relacionados con los agentes quími-
+cos durante el trabajo (decimocuarta Directiva específica con arreglo al aparatado 1 del
+articulo 16 de la Directiva 89/391/CEE.
+4. ACGIH, American Conference of Gobernment Industrial Hygienist. 1996. 
+5. OSHA. Occupational Exposure to Lead. Federal Register. 1978; Vol. 43. nº 220.
+6. Diario Oficial de las Comunidades Europeas, Directiva 77/312/CEE de 29 de
+Marzo de 1977.Vigilancia biologica de la población contra el peligro del saturnismo. L
+105, de 28.04.77 edición especial española capítulo 5, volumen 2, página 125.
+7 NIOSH. Recomendations for Occupational Safety and Health Standars. 1988;
+MMWR/ Vol 37/ Nº 5-7.
+8 WHO IARC. Monographs on the evaluation of carcinogenic risks to humans.
+1987; 1 to 42, Supplement 7. Lyon.
+9. Lan Zuzendaritza/Direccion de Trabajo del Gobierno Vasco. Higiene eta Segu-
+rantza lanean/Seguridad e Higiene en el trabajo. Servicio Central de publicaciones.Mo-
+nografia Plomo 1986; 2.
+10. Lauwerys RR. Toxicologie Industrielle et Intoxications Professionnelles. Ed
+Masson. Paris; 1982.
+11. Alessio L, Apostoli P. Proposta di protocolo per il monitoriagio e la sorveglianza
+sanitaria dei lavoratori esposti a piombo inorganico. Med Lav 1988; 79(1): 78-81.
+12. Ellenhorn MJ, Barceloux DG. Medical Toxicology. Diagnosis and Treatement of
+human poisoning. Elsevier Science Publishing Company. New York; 1988.
+13. Alessio L, Foa V. Human biological monitoring of industrial chemicals series.
+Lead. Commission of the European Communities; 1983.
+14. Yeh JH, Chang YH, Wang JD. Combined electroneurographic and electromyo-
+graphic studies in lead workers. Occup Environ Med 1995; 52 (6):415-9.
+15. Balbus-Kornfeld J, Steward W, Bolla K, Schwartz B. Cumulative exposure to
+inorganic lead and neurobehavioural test performance in adults: and epidemiological re-
+view. Occup Environ Med 1995; 52:2-12
+16. Williamson AM, Teo RKC. Neurobehavioural effects of occupational exposure
+to lead. Br J Ind Med 1986; 43: 374-80.
+17. Parkinson DK, Rayan C, Bromet E J, Connell MM. A psychiatric epidemiologic
+study of occupational lead exposure. Am J Epidemiol 1986; 123:261-73
+18. Marques F. Plomo: Criterios toxicológicos actuales para la vigilancia médica de
+trabajadores expuestos. Instituto Nacional de Seguridad e Higiene en el Trabajo; 1993.
+Documentos Técnicos 71:92.
+19. Baruffini A, Pisati G, Ratti R, Cirla AM, Zedda S. Funzione glomerulare renale e
+indicatori biologici per il piombo in operai trafilieri con progresso assorbimento del tossi-
+co. Med Lav 1987; 78(2):117-23.
+20. OIT/ILO Encyclopaedia Occ. Healt and Safety. 1983, Geneve.
+53
+
+21. Rempel D. The Lead-Exposed Worker. JAMA 1989; 26(4):532-4.
+22. Anttila A, Heikkilä P, Pukkala E. Excess lung cancer among workers exposed
+to lead. Scand J Work Environ Health 1995; 21(6):460-9.
+23. Kirkby H, Gyntelberg F. Blood pressure and other cardiovascular risk factors of
+long-term exposure to lead. Scand J Work Environ Health 1985; 15-19.
+24. Schwartz J. Lead, blood preassure and cardiovascular disease in men. Arch
+Environ Health. 1995; 50:31-7.
+25. Michaels D, et al. Does low level lead exposure increase risk of death? A mor-
+tality study of newspaper printers. Int J Epidem 1991; 20 (4):978-83.
+26. Pocock SJ, Shaper AG, Ashby D. The relationship between blood lead, blood
+pressure, stroke, and heart attacks in middle-age British men. Environ Health Persp
+1988; 78:23-30.
+27. Fu H, Boffetta P. Cancer and occupational exposure to inorganic lead com-
+pounds : a meta-analysis in published data. Occup Environ Med 1995; 52 (2): 73-81.
+28. Sanz P, Nogue S, Corbella J. Alteración hepatológica en una intoxicación cró-
+nica por plomo. An Med Int 1987; 4: 475-6.
+29. Desoille H, Marti Mercadal JA, Scherrer J, Truhaut R. Medicina del Trabajo.
+Ed. Masson; 1986.
+30. Roquelaure Y, Efthymiou ML, Penneau-Fontbonne D. Neuropathies optiques
+professionnelles. Editions Techniques .Encycl Med Chir (Paris-France). Toxicologie -Pat-
+hologie professionnelle, 1991; 16534 C10, 5p.
+31. Aitio A, Riihimaki, Vainio H. Biological monitoring and surveillance of workers
+exposed to chemicals. Hemisphere Publishing Corporation; 1984.
+32. Verschoor M, Herber R, Zielhuis R, Wibowo A. Zinc protoporphyrin as an indi-
+cator of lead exposure: precision of zinc protoporphyrin measurements. Int Arch Occup
+Environ Health 1987; 59: 613-21.
+33. Wildt K, Berlin M, Isberg PE. Monitoring of Zinc Protoporphyrin Levels in Blood
+Following Occupational Lead Exposure. Am J Ind Med 1987; 12: 385-98.
+34. Apostoli P, Maranelli G. Impiego della Zincoprotoporfirina eritrocitaria nel con-
+trollo biologico di popolazioni lavorative esposti a piombo metallico. Med Lav 1986;
+7(5):529-37.
+35. Apostoli P, Maranelli G, Gaffuri E. Incremento dei valori di piombemia e zinco-
+protoporfirina eritrocitaria nei primi anni di lavoro a rischio. Med Lav 1986; 77(6): 622-7.
+36. Grunder FI, Moffit AE. Blood as a matrix for biological monitoring. Am Ind Hyg
+Ass J 1982; 43: 4.
+37. Aurrekoetxea JJ, Urbaneja F, Coto JC, Tejada MA, Velez DE, Mendizabal JR.
+Vigilancia de los trabajadores expuestos al plomo. Prevención 1994; 130: 31-5.
+54

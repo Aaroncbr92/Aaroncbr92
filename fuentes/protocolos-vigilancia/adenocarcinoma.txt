@@ -1,0 +1,1431 @@
+Protocolo para la 
+vigilancia sanitaria 
+específica del 
+adenocarcinoma 
+de fosas nasales y 
+senos paranasales en 
+personas trabajadoras 
+expuestas a polvo de 
+madera
+SANIDAD 2019
+MINISTERIO DE SANIDAD, CONSUMO Y BIENESTAR SOCIAL
+
+Protocolo para la 
+vigilancia sanitaria 
+específica del 
+adenocarcinoma 
+de fosas nasales y 
+senos paranasales en 
+personas trabajadoras 
+expuestas a polvo de 
+madera
+SANIDAD 2019
+MINISTERIO DE SANIDAD, CONSUMO Y BIENESTAR SOCIAL
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD, CONSUMO Y BIENESTAR SOCIAL
+    CENTRO DE PUBLICACIONES
+    PASEO DEL PRADO, 18. 28014 Madrid
+NIPO: 731-19-063-8
+El copyright y otros derechos de propiedad intelectual de este documento pertenecen al Ministerio de Sani­
+dad, Consumo y Bienestar Social. Se autoriza a las organizaciones de atención sanitaria a reproducirlo total o 
+parcialmente para uso no comercial, siempre que se cite el nombre completo del documento, año e institución.
+
+Maquetación: Servicios Gráficos Kenaf, S. L.
+http://cpage.mpr.gob.es
+
+Protocolo para la 
+vigilancia sanitaria 
+específica del 
+adenocarcinoma 
+de fosas nasales y 
+senos paranasales en 
+personas trabajadoras 
+expuestas a polvo de 
+madera
+
+Consejo Interterriorial 
+del Sistema Nacional de Salud.
+La Comisión de Salud Pública del Consejo Interterritorial del Sistema Na­
+cional de Salud aprobó el Protocolo para la Vigilancia Sanitaria Específica 
+del Adenocarcinoma de Fosas Nasales y Senos Paranasales en personas 
+trabajadoras expuestas a polvo de madera, en sesión plenaria celebrada el 
+día 9 de mayo de 2019.
+Comisión Nacional
+ de Seguridad y Salu
+d en el Trabajo.
+La Comisión Nacional de Seguridad y Salud en el Trabajo fue informada 
+del Protocolo para la Vigilancia Sanitaria Específica del Adenocarcinoma de 
+Fosas Nasales y Senos Paranasales en personas trabajadoras expuestas a 
+polvo de madera, en el pleno celebrado el 8 de octubre de 2019.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+9
+Coordinación
+Aitor Guisasola Yeregui (Médico especialista en Medicina del Trabajo. Osalan-Instituto Vasco 
+de Seguridad y Salud Laborales. País Vasco).
+Autoría
+Aitor Guisasola Yeregui (Médico especialista en medicina del Trabajo. Osalan-Instituto Vasco 
+de Seguridad y Salud Laborales. País Vasco).
+Joaquín Estefano Rodríguez (Médico especialista en otorrinolaringología. OSAKIDETZA-
+Servicio Vasco de Salud. Hospital Universitario Donostia. País Vasco).
+Mylene Núñez Acevedo (Médica especialista en Medicina del Trabajo. SNA Europe Industries 
+Iberia. País Vasco).
+Iñaki Igarzabal Elorza (Médico especialista en Medicina del Trabajo. Grupo ULMA. Oñati. 
+Gipuzkoa. País Vasco).
+Mikel Uña Gorospe (Médico especialista en Medicina del Trabajo. CFP Servicio de 
+Prevención. Donostia/San Sebastián. País Vasco).
+José Ignacio Cabrerizo Benito (Médico especialista en Medicina del Trabajo. Osalan-Instituto 
+Vasco de Seguridad y Salud Laborales. País Vasco).
+Maite Robertson Sangrador (Médica especialista en Medicina Preventiva y Salud Pública. 
+Osalan-Instituto Vasco de Seguridad y Salud Laborales. País Vasco).
+Diego Romero Gómez (Médico especialista en Medicina del Trabajo. Osalan-Instituto Vasco 
+de Seguridad y Salud Laborales. País Vasco).
+Arrate Padilla Magunacelaya (Médica especialista en Medicina del Trabajo. Osalan-Instituto 
+Vasco de Seguridad y Salud Laborales. País Vasco).
+Arantza Lijó Bilbao (Médica especialista en Medicina del Trabajo. Osalan-Instituto Vasco de 
+Seguridad y Salud Laborales. País Vasco).
+Revisión externa
+Juan Carlos Coto Fernández (Médico especialista en Medicina del Trabajo. Responsable de 
+la Unidad de Salud Laboral de Osalan-Instituto Vasco de Seguridad y Salud Laborales. País 
+Vasco).
+Nora Ibargoyen Roteta (Técnica del Servicio de Tecnologías Sanitarias-OSTEBA. 
+Departamento de Salud-Gobierno Vasco. País Vasco).
+Itziar Etxeandia Ikobaltzeta (Técnica del Servicio de Tecnologías Sanitarias-OSTEBA. 
+Departamento de Salud-Gobierno Vasco. País Vasco).
+Colaboraciones
+Mª Mar Ubeda Carrillo (Documentalista. OSAKIDETZA-Servicio Vasco de Salud. Hospital 
+Universitario Donostia. País Vasco).
+Itziar Crespo Basterra (Bibliotecaria. Osalan-Instituto Vasco de Seguridad y Salud Laborales. 
+País Vasco).
+Mª Teófila Vicente Herrero, Encarnación Aguilar Jiménez, Rosa Sánchez Lloris. (Médicos
+especialistas en medicina del trabajo. Asociación Española de Especialistas en Medicina
+del Trabajo-AEEMT). 
+ 
+PONENCIA DE SALUD LABORAL DE LA COMISIÓN DE SALUD PÚBLICA DEL 
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+Montserrat García Gómez (Ministerio de Sanidad, Consumo y Bienestar Social).
+Joaquín Estévez Lucas (Ministerio de Sanidad, Consumo y Bienestar Social).
+Aitor Gisasola Yeregui (Osalan. Instituto Vasco de Seguridad y Salud Laborales. País Vasco).
+Lourdes Íscar Reina (Osalan. Instituto Vasco de Seguridad y Salud Laborales. País Vasco).
+Juan Carlos Coto Fernández (Osalan. Instituto Vasco de Seguridad y Salud Laborales. País 
+Vasco).
+Rafael Panadés Valls (Consellería de Salut. Catalunya).
+María Isabel González García (Consejería de Salud y Bienestar Social. Galicia).
+Francisco Arroyo Llanes (Consejería de Salud y Familias. Andalucía).
+Rosario Díaz Peral (Consejería de Salud Y Familias. Andalucía).
+
+10
+SANIDAD
+Valentín Rodríguez Suárez (Consejería de Sanidad. Principado de Asturias).
+Íñigo Fernández Fernández (Consejería de Sanidad y Servicios Sociales. Cantabria).
+Lourdes Miralles Martínez-Portillo (Consejería de Salud y Servicios Sociales. La Rioja).
+Bienvenida Carpe Carpe (Consejería de Sanidad y Política Social. Región de Murcia).
+Valentín Esteban Buedo (Consellería de Sanidad Universal y Salud Pública. Comunidad 
+Valenciana).
+Nieves Martínez Arguisuelas (Consejería de Sanidad, Bienestar Social y Familia. Aragón).
+Fernando Cebrián Gómez (Consejería de Sanidad y Asuntos Sociales. Castilla-La Mancha).
+Emma Rosa Corraliza Infanzón (Consejería de Sanidad y Asuntos Sociales. Castilla-La Mancha). 
+Iñaki Moreno Sueskun (Instituto Navarro de Salud Laboral. Comunidad Foral de Navarra).
+Jesús Fernández Baraibar (Instituto Navarro de Salud Laboral. Comunidad Foral de Navarra).
+Yolanda Anés del Amo (Consejería de Sanidad y Políticas Sociales. Extremadura).
+Santiago Briz Blázquez (Consejería de Sanidad y Políticas Sociales. Extremadura).
+Milagros Quiemadelos Carmona (Consellería de Salut. Illes Balears).
+Eduardo García-Ramos Alonso (Consejería de Sanidad. Canarias).
+María Fernanda González Gómez (Consejería de Sanidad. Comunidad de Madrid).
+Mercedes Elvira Espinosa (Consejería de Sanidad. Castilla y León).
+Luisa Fernanda Hermoso Castro (Consejería de Presidencia y Salud Publica Ciudad Autónoma 
+de Melilla).
+Ana Isabel Rivas Pérez (Consejería Sanidad, Servicios Sociales, Menores e Igualdad. Ciudad 
+Autónoma de Ceuta).
+Pilar Aparicio Azcárraga
+Directora General de Salud Pública, Calidad e Innovación
+Covadonga Caballo Diéguez
+Subdirectora General de Sanidad Ambiental y Salud Laboral
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+11
+Presentación
+Este protocolo es fruto del trabajo desarrollado por las Administraciones 
+Sanitarias a través del Grupo de Trabajo de Salud Laboral de la Comisión 
+de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud.
+La IARC (International Agency for Research on Cancer), en su mono­
+grafía número 62 (1995), y posteriormente en la monografía número 100C 
+(2012), declaró que existía suficiente evidencia en humanos sobre la carci­
+nogenicidad del polvo de madera, e incluyó a este agente en el grupo 1 de 
+su clasificación, estableciendo que la aparición de adenocarcinomas en fosas 
+nasales y senos paranasales está claramente relacionada con la exposición a 
+polvo de maderas duras, siendo un tipo de cáncer que aparece ligado de for­
+ma casi exclusiva a la actividad laboral, pudiéndose controlar su incidencia 
+mediante la aplicación de medidas preventivas. 
+El RD 665/1997, de 12 de mayo, sobre la “protección de los trabajado­
+res contra los riesgos relacionados con la exposición a agentes cancerígenos 
+durante el trabajo” , y su posterior modificación, incluye a los trabajos que 
+supongan la exposición a maderas duras en la lista de procedimientos can­
+cerígenos que se enumeran en su anexo I, estableciendo que, entre otras 
+medidas preventivas, el empresario o la empresaria garanticen una vigilancia 
+adecuada y específica de la salud de las personas trabajadoras. 
+Por su parte, el RD 39/1997, por el que se aprueba el Reglamento de 
+los Servicios de Prevención, establece en su artículo 37.3.c que la “vigilan­
+cia de la salud de los trabajadores estará sometida a protocolos específicos 
+u otros medios existentes con respecto a los factores de riesgo a los que 
+esté expuesto el trabajador”. Los protocolos de “vigilancia de la salud de los 
+trabajadores” son instrumentos destinados a facilitar la toma de decisiones 
+por parte de los y las profesionales encargados de la vigilancia de la salud, y 
+contribuyen a elevar la calidad de la práctica clínica que estos desarrollan en 
+los servicios de prevención. Es necesario que estos instrumentos se basen en 
+la mejor evidencia disponible y, dado que la información científica crece de 
+manera exponencial, es preciso elaborarlos de forma que recojan esta evi­
+dencia creciente y la actualicen de forma sistemática y de manera periódica. 
+Así, siguiendo los acuerdos alcanzados en la Ponencia de Salud La­
+boral de la Comisión de Salud Pública del Consejo Interterritorial del Sis­
+tema Nacional de Salud, se ha realizado en primer lugar una Guía para la 
+vigilancia sanitaria del adenocarcinoma de fosas nasales y senos paranasales 
+en personas trabajadoras expuestas a polvo de madera. Esta guía aborda la 
+evidencia existente sobre las pruebas y exploraciones médicas aplicables a la 
+detección precoz de esta enfermedad por parte de los y las profesionales en­
+
+12
+SANIDAD
+cargados de la vigilancia de la salud y, aunque es la base para la elaboración 
+del protocolo, se configura como un producto diferente del mismo. La guía 
+recoge de forma exhaustiva el proceso que se ha utilizado en su elaboración, 
+permitiendo que la evidencia se muestre de forma explícita y transparente. 
+Este Protocolo recoge las recomendaciones que se ha elaborado en la guía, 
+y tiene como finalidad la detección precoz del adenocarcinoma de fosas na­
+sales y senos paranasales en las personas trabajadoras expuestas al polvo de 
+madera dura. 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+13
+Índice
+Presentación			
+11
+Justificación			
+15
+1.
+Criterios de aplicación
+17
+2.
+Definición del problema
+17
+2.1.	 Adenocarcinoma de fosas nasales y senos paranasales
+17
+2.2.	 Fuentes de exposición
+18
+2.3.	 Clínica
+19
+2.4.	 Diagnóstico
+20
+2.5.	 Tratamiento
+21
+2.6.	 Pronóstico
+22
+3.
+Evaluación del riesgo
+23
+4.
+Protocolo sanitario específico
+23
+4.1.	 Vigilancia individual de la salud
+23
+4.1.1.	 Contenido	
+23
+4.1.2.	 Periodicidad	
+25
+4.2.	 Vigilancia colectiva de la salud	
+26
+5.
+Criterios de actuación
+27
+5.1.	 Criterios para la comunicación de las conclusiones que se
+deriven de la vigilancia de la salud de las personas trabajadoras	
+27
+5.2.	 Conducta a seguir en el caso de que el o la médico del
+trabajo sospeche encontrarse ante un caso de adenocarcinoma
+de fosas nasales y senos paranasales	
+29
+5.3.	 Conducta a seguir en el caso de diagnóstico de un
+adenocarcinoma de fosas nasales y senos paranasales	
+30
+5.4.	 Documentación	
+30
+Bibliografía	
+33
+Anexo I
+Cuestionario de síntomas y signos de fosas nasales y senos paranasales
+39
+Anexo II
+Modelo de información para la persona trabajadora	
+43
+Anexo III
+Niveles de evidencia y formulación de recomendaciones	
+45
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+15
+Justificación
+La IARC (International Agency for Research on Cancer), en su monografía 
+número 62 (1995)1, y posteriormente en la monografía número 100C (2012)2, 
+declaró que existía suficiente evidencia en humanos sobre la carcinogenici­
+dad del polvo de madera, e incluyó a este agente en el grupo 1 de su clasifi­
+cación, estableciendo que la aparición de adenocarcinomas en fosas nasales 
+y senos paranasales está claramente relacionada con la exposición a polvo de 
+maderas duras e indica que existen menos estudios que relacionen este tipo 
+de cáncer con la exposición a maderas blandas o a polvos mixtos de maderas 
+duras y blandas. 
+La botánica divide a las plantas en gimnospermas y angiospermas. Aun­
+que algunas gimnospermas son arbustos, la mayoría son árboles, principal­
+mente coníferas, a las que nos solemos referir como maderas blandas. Las 
+angiospermas pueden ser plantas herbáceas, arbustivas o arbóreas. Entre es­
+tas últimas se encuentran los árboles de hoja caduca, a los que nos referimos 
+generalmente como maderas duras. Por lo tanto, la denominación de madera 
+dura o blanda hace referencia a la especie de árbol a la que pertenece y no 
+describe directamente la dureza de la madera2.
+Tanto las maderas duras como las blandas se utilizan en la fabricación 
+de muebles, trabajos de carpintería, explotaciones forestales, aserraderos, fa­
+bricación de tableros contrachapados, etc. El polvo de madera es una sustan­
+cia compleja cuya composición varía considerablemente dependiendo de las 
+especies de árboles que se estén procesando, y se compone principalmente 
+de celulosa, polioses (hemicelulosa), lignina, y un gran número de sustancias 
+de menor masa molecular que pueden afectar significativamente a las propie­
+dades de la madera2.
+En cualquier caso, tal y como se recoge en la Directiva (UE) 2017/2398 
+del Parlamento Europeo y del Consejo de 12 de diciembre de 2017 por la que 
+se modifica la Directiva 2004/37/CE relativa a la “protección de los trabaja­
+dores contra los riesgos relacionados con la exposición a agentes carcinóge­
+nos o mutágenos durante el trabajo”, la exposición coincidente a más de un 
+tipo de madera es muy habitual, y ello hace difícil evaluar la exposición a los 
+distintos tipos. La exposición al serrín de madera blanda y de madera dura 
+es frecuente entre las personas trabajadoras de la Unión Europea y puede 
+causar síntomas y enfermedades respiratorias, siendo la consecuencia más 
+grave el cáncer de cavidad nasal y de senos paranasales. Por lo tanto, procede 
+establecer que, cuando se mezclan serrines de madera dura con otros serrines, 
+se aplique a todos los serrines contenidos en la mezcla el valor límite estable­
+cido para el serrín de madera dura.
+
+16
+SANIDAD
+La normativa laboral aplicable, esto es, el RD 665/1997 de 12 de mayo, 
+sobre la “protección de los trabajadores contra los riesgos relacionados con 
+la exposición a agentes cancerígenos durante el trabajo” y su posterior mo­
+dificación, establece que se realice una vigilancia adecuada y específica de 
+la salud de las personas trabajadoras. Esta vigilancia será adecuada cuando 
+pueda detectar enfermedades en un estadio precoz3 y además cumpla las 
+siguientes condiciones4:
+•	 La exposición de la persona trabajadora al agente peligroso puede 
+relacionarse con una determinada enfermedad o efecto adverso para 
+la salud.
+•	 Existe la probabilidad de que esa enfermedad o efecto adverso se 
+produzca en las condiciones de trabajo concretas en las que esta per­
+sona desarrolla su actividad.
+•	 Existen técnicas de investigación válidas para detectar síntomas de 
+dicha enfermedad o efectos adversos para la salud, cuya utilización 
+entraña escaso riesgo para el trabajador o la trabajadora. 
+El largo periodo de latencia para el desarrollo del adenocarcinoma5-8 y la 
+mayor supervivencia de los afectados tratados en los estadios precoces de la en­
+fermedad7,9 hacen necesario plantear pautas sobre las pruebas y exploraciones 
+médicas aplicables a la detección precoz del adenocarcinoma de fosas nasales 
+y senos paranasales en personas trabajadoras expuestos al polvo de madera.
+Para valorar estas cuestiones y emitir recomendaciones basadas en la 
+evidencia disponible se ha elaborado una Guía para la vigilancia sanitaria 
+del adenocarcinoma de fosas nasales y senos paranasales en personas traba­
+jadoras expuestas a polvo de madera. El proceso de elaboración de la misma 
+se ha realizado siguiendo la metodología descrita en el “Manual Metodoló­
+gico para la Elaboración de Guías de Práctica Clínica en el Sistema Nacional 
+de Salud”10, en el “Manual Metodológico para la Actualización de Guías de 
+Práctica Clínica en el Sistema Nacional de Salud”11, en la “Descripción de la 
+metodología de elaboración-adaptación-actualización empleada en la guía de 
+práctica clínica sobre asma de la CAPV”12, y en el anexo metodológico del 
+“Protocolo de Vigilancia de la salud específica del asma en trabajadores ex­
+puestos a polvo de harina”13 publicado el año 2012 por OSALAN.
+Esta Guía ha servido de base para la elaboración de este Protocolo cuyo 
+objetivo es la detección precoz del adenocarcinoma de fosas nasales y senos 
+paranasales en personas trabajadoras expuestas al polvo de madera.
+Las recomendaciones de la Guía para la vigilancia sanitaria del adenocarcinoma de fosas 
+nasales y senos paranasales en personas trabajadoras expuestas a polvo de madera se 
+han incorporado al protocolo y vienen indicadas en el texto mediante un asterisco*.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+17
+Protocolo para la vigilancia 
+sanitaria específica
+Adenocarcinoma de fosas 
+nasales y senos paranasales en 
+personas trabajadoras expuestas 
+a polvo de madera
+1. Criterios de aplicación
+Este protocolo se aplicará a aquellas personas que durante su jornada labo­
+ral estén expuestas a polvo de madera.
+La enfermedad o efecto adverso que se pretende prevenir mediante la 
+aplicación de este protocolo es el adenocarcinoma de fosas nasales y senos 
+paranasales.
+2. Definición del problema
+2.1. Adenocarcinoma de fosas nasales y senos 
+paranasales
+Las neoplasias nasosinusales son poco frecuentes y representan aproxima­
+damente el 0,2–0,8% del total de tumores malignos de la especie humana y 
+el 3-6% de los tumores de cabeza y cuello9,14-16. En las fosas nasales y senos 
+paranasales se originan gran variedad de tipos histológicos tumorales, pre­
+dominando los de estirpe epitelial como el carcinoma escamoso9,16-18. Los 
+adenocarcinomas nasosinusales son menos frecuentes y representan entre 
+el 8-25% de los tumores malignos de esta localización9,19, desarrollándose 
+a expensas de las glándulas salivares menores que los tapizan20. Su baja fre­
+cuencia y su diversidad histológica constituyen un obstáculo para su estudio, 
+clasificación y estadiaje21.
+En nuestro medio, la incidencia de adenocarcinomas nasosinusales es 
+de 0,19 casos/100.000 habitantes/año9,15.
+
+18
+SANIDAD
+La localización habitual del adenocarcinoma, en el 85% de los casos, 
+es la región etmoidal y la parte alta de las fosas nasales, es decir, cornetes 
+superior, medio y meato medio, seguida de seno maxilar (10%), siendo ex­
+cepcional en el resto de cavidades sinusales9,22-24.
+La edad en el momento del diagnóstico se sitúa en los 60 años y sólo 
+el 10% de la población afectada tiene menos de 50 años8,15,25-34. La relación 
+entre sexos es de 4:1 a favor de los varones, probablemente debido a los fac­
+tores etiopatogénicos implicados9. 
+Más del 60% de los tumores etmoidales están vinculados con la tarea 
+profesional21,35. Se ha observado que el 90,4% de los adenocarcinomas et­
+moidales están relacionados con la exposición al polvo de la madera, no en­
+contrándose esta misma asociación con los carcinomas escamosos de la mis­
+ma localización6,9,36,37. Algunos autores consideran que el adenocarcinoma se 
+relaciona con la exposición prolongada al polvo de maderas duras, mientras 
+que el carcinoma escamoso lo hace con el polvo de maderas blandas9,23,38-43. 
+Sin embargo, tomando como base el conocimiento actual, no se considera 
+pertinente, en términos de riesgo de cáncer, distinguir ni la naturaleza, dura 
+o blanda de la madera, ni la granulometría del polvo44. 
+Parece que el factor de riesgo reside en la exposición al polvo de 
+la madera en sí, excluyéndose otros productos químicos usados en la in­
+dustria maderera como abrillantadores, barnices, conservantes, etc.9,45. El 
+riesgo aumentaría con la inhalación de formaldehido, pegamento y disol­
+ventes9,46,47.
+Se estima que las personas que trabajan con exposición profesional 
+al polvo de la madera tienen un riesgo 500 veces superior a la población 
+masculina no expuesta y casi 900 veces más que la población general21,26,48,49. 
+El tiempo de exposición al carcinógeno suele ser elevado. Más del 90% 
+de los afectados estuvieron expuestos a polvo de madera por un periodo 
+superior a 5 años36,50,51. Su latencia promedio es de 40 años, pero a día de hoy 
+no es posible saber si depende de la dosis y de la duración de la exposición. 
+Parece que a partir de 1 año de exposición es posible desarrollar este tipo 
+de tumor con un periodo de latencia similar al del caso de una exposición 
+más larga 5-7. 
+2.2. Fuentes de exposición
+Para establecer una lista indicativa de actividades en las cuales puede de­
+sarrollarse una “neoplasia maligna de cavidad nasal producida por la ex­
+posición a polvo de madera dura”, tal como se define la enfermedad para 
+su reconocimiento como profesional, tomaremos como referencia el Real 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+19
+Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de 
+enfermedades profesionales en el sistema de la Seguridad Social y se esta­
+blecen criterios para su notificación y registro. El listado comprende:
+•	 Fabricación de muebles.
+•	 Trabajos de tala de árboles.
+•	 Trabajos en aserraderos.
+•	 Triturado de la madera en la industria del papel.
+•	 Modelistas de madera.
+•	 Prensado de madera.
+•	 Mecanizado y montaje de piezas de madera.
+•	 Trabajos de acabado de productos de madera, contrachapado y aglo­
+merado.
+•	 Lijado de parqué, tarima, etc.
+2.3. Clínica
+Los primeros síntomas y signos con los que se manifiestan los tumores de 
+fosa nasal y senos paranasales son sutiles e inespecíficos, en muchas ocasio­
+nes son completamente asintomáticos, o asemejan patología benigna como 
+sinusitis crónica, alergia o poliposis nasosinusal. Los síntomas más habitua­
+les son:
+•	 obstrucción nasal
+•	 presión o dolor a nivel de senos paranasales
+•	 rinorrea
+•	 epistaxis
+•	 anosmia. 
+La no desaparición de estos síntomas con el tratamiento adecuado o la 
+presencia de síntomas y signos unilaterales debe alertarnos sobre una posi­
+ble malignidad52-54. 
+La vía más frecuente de diseminación es la extensión directa. Muchas 
+veces es la extensión local la que desencadena los síntomas que hacen que 
+el paciente consulte. Así, los síntomas y signos en fases más avanzadas de los 
+tumores de senos etmoidales son52:
+•	 dolor, por afectación de ramas nasales de nervio oftálmico
+•	 epífora sanguinolenta
+•	 ensanchamiento de la raíz nasal, edema de reborde orbitario inferior, 
+abombamiento del ángulo interno del ojo, por extensión anterior
+
+20
+SANIDAD
+•	 desplazamiento del globo ocular hacia fuera y hacia delante, por ex­
+tensión medial hacia la órbita
+•	 clínica central por extensión superior hacia la lámina cribiforme
+•	 afectación del nervio óptico y canal carotídeo por extensión poste­
+rior.
+En el caso de que la localización tumoral afecte a fosas nasales u otros 
+senos paranasales distintos del etmoidal, la clínica puede incluir otros sínto­
+mas y signos. Por ejemplo, anestesia, parestesias y dolor en territorio maxi­
+lar y mandíbula por afectación del 5º par craneal en la fosa pterigopalatina; 
+trismus, por afectación apófisis y músculos pterigoideos; ulceras o masas en 
+mucosa oral, alteraciones dentarias, por extensión inferior a la cavidad oral; 
+etcétera.52
+Otra de sus características es su baja tendencia a desarrollar metástasis 
+linfáticas o a distancia (menos del 5%)23 debido al escaso drenaje linfático 
+de las fosas nasales y senos paranasales.
+2.4. Diagnóstico 
+El largo periodo de latencia, su baja prevalencia y su clínica insidiosa expli­
+can el retraso en el diagnóstico y que en un porcentaje numeroso de casos 
+este se haga en estadíos avanzados15,21,35,55, de tal manera que más del 50% se 
+diagnostican en estadíos T3 y T414.
+El factor más relevante para el diagnóstico precoz es la sospecha clí­
+nica ante todo síndrome obstructivo nasal, álgico facial, rinorrea o epistaxis 
+unilaterales y persistentes, que se prolonga en el tiempo y es refractario a los 
+tratamientos habituales21. 
+Para realizar el diagnóstico, se debe comenzar con una anamnesis ex­
+haustiva y una exploración otorrinolaringológica completa que incluya ex­
+ploración otológica, cervical y de pares craneales. En general, la rinoscopia 
+anterior proporciona escasos datos. Hoy en día la exploración óptima es la 
+endoscopia nasal rígida endonasal. La nasofibroscopia es también una bue­
+na opción, pero, por el momento, la calidad de imagen es menor21. 
+Ante la sospecha de un adenocarcinoma de fosas nasales y senos pa­
+ranasales hay que tener en cuenta que estos tumores, como se citó, son más 
+frecuentes en la región etmoidal, aunque se han descrito en seno maxilar y 
+excepcionalmente en el esfenoidal y frontal16,17,41.
+Son imprescindibles las pruebas de imagen, que proporcionarán infor­
+mación acerca de la extensión de la lesión, así como de la posible benigni­
+dad o malignidad de la tumoración. Las técnicas de elección son la Tomo­
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+21
+grafía Computerizada (TC) y la Resonancia Magnética Nuclear (RNM)21,56. 
+La TC es una prueba muy fiable en cuanto a la valoración de la erosión 
+ósea, aunque presenta el inconveniente de distinguir con dificultad el tumor 
+de los fenómenos inflamatorios asociados, con lo que puede sobreestimar 
+su extensión21,56. Resulta conveniente completar el estudio con la RNM, que 
+presenta una mayor especificidad en cuanto a la valoración de las partes 
+blandas, de especial interés para la detección de invasión orbitaria, intra­
+craneal y perineural21,56. Actualmente el valor de la PET-TC está aún por 
+determinar, aunque parece de utilidad ante dudas diagnósticas, sobre todo 
+en recidivas21.
+Por tanto, es conveniente realizar ambos estudios de cara al tratamien­
+to y también se recomienda realizar los estudios de imagen antes de la toma 
+de biopsia9. 
+En todo caso, el método diagnóstico definitivo lo constituye la biopsia 
+de la lesión por vía endoscópica21.
+2.4.1. Estadificación
+La clasificación de los adenocarcinomas de fosas nasales y senos paranasales 
+más utilizada en la clínica es el TNM. Está basada en tres parámetros: exten­
+sión tumoral (T), afectación de ganglios linfáticos regionales (N) y presencia 
+de metástasis a distancia (M), esta clasificación ha sido diseñada para todos 
+los tumores de los senos paranasales sin ser específica de los adenocarcino­
+mas de fosas nasales y senos paranasales. La información que aporta el TNM 
+es descriptiva, pero no resulta muy útil a la hora de orientar el pronóstico in­
+dividual. La baja incidencia de este tipo tumoral impide tener series amplias 
+que aglutinen y validen esta información9,57.
+2.5. Tratamiento
+El tratamiento de primera línea del adenocarcinoma etmoidal lo constituye 
+la exéresis quirúrgica seguida de radioterapia postoperatoria14. La cirugía 
+está indicada siempre que haya adecuada evidencia de que el tumor es re­
+secable en su totalidad con una morbilidad aceptable52. Es muy importante 
+conseguir el control local de la enfermedad, por lo que debe realizarse la 
+exéresis tumoral con márgenes de seguridad suficientes14,58. Entre los tumo­
+res no resecables se encuentran aquellos que invaden el seno cavernoso, am­
+pliamente el cerebro o ambos nervios ópticos52,59.
+
+22
+SANIDAD
+La técnica quirúrgica depende de la localización y extensión del tumor, 
+así como de las posibilidades de reconstrucción. Existen diversos aborda­
+jes quirúrgicos: cirugía endoscópica nasal, rinotomía lateral, maxilectomía, 
+abordaje craneofacial y subcraneal14,60-64.
+La radioterapia se utiliza la mayoría de las veces tras la cirugía, debido 
+a que en los tumores avanzados hay escasa posibilidad de controlar con se­
+guridad los márgenes de resección59. Algunos autores consideran que debe 
+utilizarse siempre, al demostrar la presencia de nidos tumorales en la muco­
+sa sana alejada del tumor65,66.
+La radioterapia administrada de forma aislada no logra buenos resul­
+tados, aunque sólo se aplica de este modo en tumores avanzados, donde el 
+pronóstico inicial ya es desfavorable14. 
+En lo que se refiere al tratamiento del cuello, en pacientes con afec­
+tación ganglionar, se realiza vaciamiento ganglionar cervical seguido o no 
+de radioterapia complementaria, dependiendo de los resultados anatomo­
+patológicos67. Para tumores N0, el tratamiento profiláctico del cuello no ha 
+demostrado que aumente la supervivencia52.
+La quimioterapia puede utilizarse como inducción, concomitante, de 
+mantenimiento o paliativa. La combinación de quimio-radioterapia parece 
+mejorar el control local de la enfermedad y quizás también la supervivencia, 
+en comparación con la radioterapia sola52. 
+De cualquier manera, cada caso requiere la valoración en un comité de 
+tumores y la programación de un tratamiento multimodal67.
+2.6. Pronóstico
+El pronóstico de estos tumores es malo, con una supervivencia entre el 20-
+50% a los 5 años23,24. 
+La supervivencia desciende del 80% al 25% según se pasa de categoría 
+T1 a T4, reduciéndose al mínimo cuando hay invasión intracraneal9,21. 
+La causa principal de mortalidad se debe a la recidiva local, incluso 
+después de la cirugía de resección amplia, aparentemente resolutiva, estan­
+do descritas recidivas múltiples19,68. La recidiva local tiene un pronóstico muy 
+malo cuando afecta la base de cráneo o la fosa craneal anterior y media9.
+Las metástasis linfáticas y a distancia son excepcionales pero condi­
+cionan un pronóstico muy desfavorable. Incluso se han descrito casos con 
+progresión a través del LCR9,69. No debemos olvidar la posibilidad de desa­
+rrollar un segundo tumor primario en otras zonas de la mucosa expuestas al 
+mismo carcinógeno. Este hecho se puede confundir con una recidiva local al 
+no haber un límite anatómico bien definido24.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+23
+3. Evaluación del riesgo
+Se realizará en base a lo preceptuado por la normativa laboral aplicable, esto 
+es, el artículo 3 del Real Decreto 665/1997, de 12 de mayo, sobre la protección 
+de los trabajadores contra los riesgos relacionados con la exposición a agen­
+tes cancerígenos durante el trabajo (y su posterior modificación), siguiendo 
+lo estipulado por la “Guía Técnica del Instituto Nacional de Seguridad y Sa­
+lud Laboral para la evaluación y prevención de los riesgos relacionados con 
+la exposición a agentes cancerígenos o mutágenos durante el trabajo” .
+4. Protocolo sanitario específico
+El Protocolo sanitario específico de Vigilancia de la Salud está dirigido al 
+personal sanitario encargado de la vigilancia de la salud de las personas tra­
+bajadoras que están o han estado expuestos al polvo de madera. 
+Su finalidad es la de detectar precozmente la aparición del adenocar­
+cinoma de fosas nasales y senos paranasales en personas que han estado 
+expuestas a inhalación de polvo de madera.
+Consta de 2 partes:
+•	 Vigilancia individual de la salud
+•	 Vigilancia colectiva de la salud
+4.1. Vigilancia individual de la salud
+4.1.1. Contenido
+Se comprobará que la Historia Clínico-Laboral de cada trabajador o traba­
+jadora recoja el contenido establecido en el artículo 37.3.c. del Real Decreto 
+39/1997, por el que se aprueba el Reglamento de los Servicios de Prevención.
+Historia laboral: se debe de interrogar y consignar acerca de 
+•	 Tiempo de exposición actual y pasado
+•	 Medidas de prevención adoptadas
+–– Medidas técnicas, organizativas, protección respiratoria indivi­
+dual, etc. 
+–– Utilización real de la protección respiratoria individual en el trabajo.
+
+24
+SANIDAD
+Se dejará constancia de los resultados de las mediciones de polvo de 
+madera en el lugar de trabajo, haciendo constar: fecha de la medición y re­
+sultados obtenidos.
+Se propone para ello la utilización de registros que recojan:
+•	 Empresa (razón social/actividad)
+•	 Profesión
+•	 Puesto de trabajo
+•	 Tiempo de trabajo (meses/años)
+•	 Niveles de exposición
+•	 Fechas de medición y resultados
+•	 Sistemas de prevención y protección
+Historia clínica 
+•	 Antecedentes personales: 
+–– Antecedentes patológicos:
+	
+-  Enfermedades que afecten a fosas nasales y senos paranasales, 
+traumatismos, enfermedades o tratamientos que produzcan sín­
+tomas o signos en fosas nasales y senos paranasales52. 
+–– Hábitos tóxicos:
+	
+-  Consumo de tabaco52
+	
+-  Consumo de drogas por vía intranasal70,71
+–– Actividades extralaborales:
+	
+-  Trabajos con madera
+•	 Historia actual: 
+–– Se llevará a cabo una anamnesis dirigida a la búsqueda de sínto­
+mas y signos relacionados con el adenocarcinoma de fosas nasa­
+les y senos paranasales*(7,44,61,68,72-79) (Nivel de recomendación D):
+--
+Obstrucción nasal 
+--
+Epistaxis 
+--
+Alteraciones del gusto y el olfato: hipogeusia, ageusia, hipos­
+mia, anosmia. 
+--
+Secreciones nasales seropurulentas 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+25
+- Dolor facial persistente
+- Lagrimeo persistente
+La especificidad es mayor si los síntomas y signos son unilaterales y si exis-
+te un empeoramiento progresivo, teniendo en cuenta que su presencia se asocia 
+a una fase tardía de la enfermedad*(7,44,61,68,72-79) (Nivel de recomendación D).
+La recogida de síntomas y signos puede realizarse utilizando cuestiona-
+rios como la escala visual analógica (EVA)80 que se presenta en el anexo I.
+Exploración médica*(44,93)
+Nasofibroscopia (Nivel de recomendación C)
+4.1.2. Periodicidad*
+Examen de salud inicial
+Se realizará después de la incorporación al trabajo o después de la asignación 
+de tareas específica con riesgo derivado de la exposición a polvo de madera. 
+Su contenido se limitará a la realización de la historia clínica, tal como 
+se especifica en el apartado anterior (4.1.1.).
+Exámenes periódicos de salud: Periodicidad
+Bienal* a toda persona que esté o haya estado expuesta laboralmente a pol-
+vo de madera44,82,95 (Nivel de recomendación D)
+Según el tiempo transcurrido desde la exposición laboral se distinguen 
+dos períodos
+• Durante los primeros 30 años desde la primera exposición labo-
+ral*(44,54) y si el trabajador o trabajadora lo ha hecho en tareas de ase-
+rrado, fresado, cepillado, taladrado, rectificado o en cualquier activi-
+dad en la que la exposición a polvo de madera se haya documentado 
+o se estime superior a 1mg/m3 para 8 horas, y que haya acumulado 12 
+meses de exposición durante el periodo transcurrido desde entonces 
+hasta la actualidad39,44 (Nivel de recomendación C). 
+ 
+En este caso el reconocimiento médico se limitará a la realización de 
+la historia clínica, tal como se especifica en el apartado 4.1.1. 
+• A partir de que hayan transcurrido esos 30 años, a lo anterior se aña-
+dirá la realización de la nasofibroscopia*(44,54) (Nivel de recomenda-
+ción C).
+
+26
+SANIDAD
+La periodicidad podrá modificarse y se podrán realizar exámenes de 
+salud o pruebas complementarias, antes o con mayor frecuencia, cuando el 
+o la médico del servicio de prevención lo considere conveniente y esté jus­
+tificado por las circunstancias concretas de exposición o de salud de cada
+persona trabajadora. 
+Tras una ausencia prolongada por motivos de salud
+Tiene la finalidad de descubrir los eventuales orígenes profesionales de la 
+ausencia y recomendar una acción apropiada para proteger a los trabajado­
+res y a las trabajadoras.
+Postocupacional
+El adenocarcinoma de fosas nasales y senos paranasales puede aparecer una 
+vez cesada la exposición a polvo de madera, por lo que se recomienda con­
+tinuar los controles médicos:
+• Por parte de la empresa cuando el trabajador o trabajadora continúe
+en ella y no se desvincule de la misma (por cese de relación contrac­
+tual con la empresa o por jubilación).
+• Por parte del Sistema Nacional de Salud cuando se haya producido
+tal desvinculación.
+4.2. Vigilancia colectiva de la salud
+La vigilancia colectiva o epidemiológica tiene como finalidad analizar las 
+relaciones existentes entre el estado de salud del conjunto de trabajadores y 
+sus condiciones de trabajo.
+La vigilancia colectiva tiene como objetivo la intervención en la em-
+presa, no la mera observación, y para ello aportará información que servirá 
+para complementar la evaluación higiénica y para la toma de decisiones so-
+bre medidas de control y prevención de situaciones de riesgo, y se integrará 
+en la gestión de la prevención de riesgos laborales.
+Dependiendo del objetivo que se persiga, el nivel de análisis de la vi-
+gilancia colectiva o vigilancia epidemiológica puede ser una única empresa 
+o puede ser una agrupación de diferentes empresas con riesgos similares; en
+este caso se estudiaría el colectivo expuesto al ruido en el trabajo.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+27
+La utilización de indicadores facilitará el análisis e interpretación de la 
+evolución epidemiológica de los colectivos laborales vigilados (comparación 
+entre grupos con diferente exposición, comparación entre diferentes perio­
+dos, comprobación de la efectividad de las diferentes medidas preventivas 
+aplicadas, etc.).
+Con independencia del nivel de análisis que se realice, siempre se de­
+berá tener en cuenta la perspectiva de género, de forma que se puedan po­
+ner de manifiesto patrones diferenciales entre hombres y mujeres97.
+Dependiendo del objetivo que se persiga, el análisis de la vigilancia 
+colectiva puede centrarse en conocer el estado de salud del conjunto de tra­
+bajadores y trabajadoras pero también pueden ser objeto de la vigilancia 
+colectiva las condiciones de trabajo de la población trabajadora.
+Los objetivos de la vigilancia colectiva son:
+•	 Conocer la frecuencia y la distribución de los efectos para la salud 
+de la exposición a polvo de madera en una población determinada, 
+tanto los efectos benignos como el propio adenocarcinoma de fosas 
+nasales y senos paranasales.
+•	 Conocer la frecuencia y la distribución de las condiciones de la ex­
+posición a polvo de madera en una población determinada.
+•	 Conocer la tendencia que siguen en el tiempo los efectos para la 
+salud y las condiciones de la exposición al polvo de madera.
+•	 Detectar situaciones de agregados inesperados de casos.
+•	 Aportar información para proponer actividades preventivas colec­
+tivas que reduzcan o minimicen los riesgos y eviten la aparición de 
+daños en la salud.
+•	 Evaluar la efectividad de las medidas preventivas colectivas e indivi­
+duales puestas en marcha en dicha población
+5. Criterios de actuación
+5.1. Criterios para la comunicación de las 
+conclusiones que se deriven de la vigilancia
+de la salud de las personas trabajadoras 
+Informe de recomendaciones preventivas
+Las conclusiones de la vigilancia de la salud, desde una perspectiva de pre­
+vención de riesgos laborales, deben de ir encaminadas a permitir que el em­
+
+28
+SANIDAD
+presario o la empresaria y las personas u órganos con responsabilidades en 
+materia de prevención puedan desarrollar correctamente sus funciones en 
+materia preventiva. Por lo tanto, la comunicación de resultados en forma de 
+recomendaciones preventivas derivadas de los hallazgos de la vigilancia de 
+la salud es la forma preferente de hacerlo98. 
+Criterios de valoración de la aptitud para el trabajo
+El o la médico del trabajo también pueden informar al empresario o a la 
+empresaria y a las personas u órganos con responsabilidades en materia de 
+prevención mediante un informe de aptitud, cuando sea necesario98. 
+En este sentido, se propone una clasificación de los hallazgos del exa-
+men de salud por grupos para facilitar el proceso de emisión de conclusiones 
+sobre la aptitud.
+GRUPO 1 
+Cumple el siguiente criterio:
+–  No adenocarcinoma de fosas nasales y senos paranasales
+Criterio de aptitud: apto
+GRUPO 2 
+Cumple los siguientes criterios:
+–  Adenocarcinoma de fosas nasales y senos paranasales 
+–  Tras la finalización del tratamiento no presenta secuelas que impidan el trabajo
+Criterio de aptitud: 
+–   Trabajador o trabajadora especialmente sensible (TES) a agentes que puedan producir 
+alteraciones en fosas nasales y senos paranasales.
+Criterio de actuación: 
+–   El trabajador o trabajadora debe ocupar un puesto sin riesgo de exposición a polvo de 
+madera ni otros cancerígenos que puedan afectar a fosas nasales y senos paranasales
+–  Indicar si se precisa alguna otra adaptación del puesto de trabajo
+–   En el caso de que no exista en la empresa un puesto sin riesgo de exposición a polvo de 
+madera u otros cancerígenos que puedan afectar a fosas nasales y senos paranasales 
+de la categoría profesional del trabajador o trabajadora orientar hacia trámite de 
+INCAPACIDAD PERMANENTE
+GRUPO 3
+Cumple los siguientes criterios:
+–  Adenocarcinoma de fosas nasales y senos paranasales 
+–  Tras la finalización del tratamiento presenta secuelas que impiden el trabajo
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+29
+Informe de recomendaciones preventivaspara la persona
+trabajadora
+•	 El personal sanitario responsable de la vigilancia de la salud infor­
+mará al trabajador o a la trabajadora sobre su exposición al polvo 
+de madera, las medidas de prevención que se le recomiendan y la 
+importancia de su correcta utilización.
+•	 Se les informará de los síntomas a los que deberá prestar atención, 
+por ser los más frecuentes: obstrucción nasal unilateral, rinorrea se­
+ropurulenta unilateral y epistaxis unilaterales de repetición. Se le 
+informará también del modo en que debe de dar cuenta de la apa­
+rición de síntomas, para proceder a su vigilancia precoz (El anexo 
+II recoge una propuesta del tipo de información que puede darse al 
+personal trabajador80).
+•	 Caso de confirmarse la existencia de consumo de tabaco, se propor­
+cionará consejo antitabáquico y se recomendará la abstinencia de su 
+consumo.
+5.2. Conducta a seguir en el caso de que el o la 
+médico del trabajo sospechen encontrarse ante 
+un caso de adenocarcinoma de fosas nasales y 
+senos paranasales
+•	 En caso de que el profesional médico sospeche encontrarse ante una 
+enfermedad profesional procederá a comunicarla tal y como esta­
+blece el Art. 5 del RD 1299/2006, de 10 de noviembre, por el que se 
+aprueba el cuadro de enfermedades profesionales en el sistema de 
+la Seguridad Social y se establecen criterios para su notificación y 
+registro, al órgano competente en cada Comunidad Autónoma.
+•	 Comunicará a la empresa la tramitación de un caso de sospecha de 
+enfermedad profesional y le informará de la necesidad de que el 
+trabajador sea remitido a la entidad colaboradora de la Seguridad 
+Social para confirmación diagnóstica.
+•	 Informará al trabajador de los trámites realizados ante la empresa.
+Criterio de aptitud: NO APTO
+Criterio de actuación: Orientar hacia trámite de INCAPACIDAD PERMANENTE
+
+30
+SANIDAD
+5.3. Conducta a seguir en el caso de diagnóstico de 
+un adenocarcinoma de fosas nasales y senos 
+paranasales 
+•	 Cuando un trabajador o una trabajadora haya sido diagnosticada de 
+un adenocarcinoma de fosas nasales y senos paranasales, la primera 
+recomendación es la interrupción de la exposición laboral a polvo 
+de madera de esta persona, así como a la de otros agentes canceríge­
+nos que puedan afectar a dicha zona.
+•	 Tras la finalización del tratamiento se realizará un examen de salud 
+antes de la posible reincorporación al puesto de trabajo que venía 
+ocupando y, en función del grado de afectación, el o la médico del 
+trabajo emitirán un informe de aptitud, pudiendo utilizar para ello 
+los criterios de valoración recogidos en apartados anteriores.
+•	 En caso de no existencia de puesto sin riesgo de exposición a polvo 
+de madera, el trabajador o trabajadora será remitido a la entidad co­
+laboradora de la Seguridad Social que corresponda para iniciar los 
+trámites de reconocimiento de incapacidad permanente.
+•	 El o la médico del trabajo informarán al empresario o a la empre­
+saria y a las personas u órganos con responsabilidades en materia 
+de prevención sobre cualquier medida que considere necesaria para 
+eliminar o reducir el riesgo del resto del personal trabajador, en fun­
+ción del nivel de exposición al que puedan hallarse sometido y de 
+los resultados obtenidos en la vigilancia de la salud, tanto individual 
+como colectiva, del mismo.
+•	 Cuando en una empresa se diagnostique un caso de adenocarcino­
+ma de fosas nasales y senos paranasales se deben buscar activamen­
+te casos adicionales.
+5.4. Documentación
+Se debe disponer de una lista actualizada de los trabajadores y trabajadoras 
+que realicen o hayan realizado actividades respecto de las cuales los resulta­
+dos de las evaluaciones de riesgos indiquen exposición a polvo de madera, 
+anotando la exposición a la que hayan estado sometidos en la empresa.
+Se deben conservar los historiales médicos individuales durante un 
+plazo de 40 años después de terminada la exposición, del mismo modo que 
+se debe conservar la documentación sobre los resultados de la evaluación 
+de riesgos, así como los criterios y procedimientos de evaluación, medición, 
+análisis o ensayo utilizados.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+31
+Si la empresa cesa su actividad antes de ese plazo, toda la documen­
+tación, incluidos los historiales médicos, deberá remitirse a la autoridad la­
+boral. La autoridad laboral remitirá, a su vez, los historiales médicos a la 
+autoridad sanitaria, quien los conservará, garantizándose en todo caso la 
+información en ellos contenida.
+Cuando un trabajador o una trabajadora se desvinculen de la empresa, 
+por cese de relación contractual con la misma o por jubilación, se les debe 
+de proporcionar información sobre las razones que hacen recomendable la 
+vigilancia postocupacional: 
+•	 Se les informará de los riesgos para la salud derivados de la exposi­
+ción a polvo de madera y de las patologías que eventualmente puede 
+llegar a sufrir, incluso después de dejar de estar expuesto a la misma. 
+•	 Se les informará también de las pruebas médicas a las que eventual­
+mente serán sometidos y de los beneficios que se espera obtener de 
+ellas tanto en el plano médico como en el social. 
+•	 Junto con esta información se les facilitará un informe que incluya 
+una descripción detallada de los puestos de trabajo desempeñados, 
+el tiempo de permanencia en los mismos, los riesgos detectados en el 
+análisis de las condiciones de trabajo, las concentraciones de polvo 
+de madera a las que ha estado expuesto, las medidas de prevención 
+individuales adoptadas, así como la información médica relevante 
+obtenida en los exámenes de salud realizados.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+33
+Bibliografía 
+  1.	 World Health Organization International Agency for Research On Cancer. IARC Mono­
+graphs on the Evaluation of Carcinogenic Risks to Humans. Wood Dust and Formalde­
+hyde. Volume 62. Lyon. France; 1995. [Fecha de última consulta 29/12/17]. Disponible en: 
+http://monographs.iarc.fr/ENG/Monographs/vol62/mono62.pdf
+  2.	 World Health Organization International Agency for Research On Cancer. IARC Mono­
+graphs on the Evaluation of Carcinogenic Risks to Humans. A Review of Human Carcino­
+gens: Arsenic, Metals, Fibres, and Dusts. Volume 100C. Lyon. France; 2012. [Fecha de última 
+consulta 29/12/17]. Disponible en: http://monographs.iarc.fr/ENG/Monographs/vol100C/
+  3.	 Solé MD, Solórzano M, Piqué T. La vigilancia de la salud en la normativa de prevención 
+de riesgos laborales. NTP 959. INSHT. Madrid; 2012. [Fecha de última consulta 29/12/17]. 
+Disponible en: http://www.insht.es/InshtWeb/Contenidos/Documentacion/NTP/NTP/Fi­
+cheros/926a937/959w.pdf
+  4.	 Guía Técnica para la evaluación y prevención de los riesgos relacionados con los agentes 
+químicos presentes en los lugares de trabajo. Instituto Nacional de Seguridad e Higiene 
+en el Trabajo. Madrid; 2013 [Fecha última consulta 29/12/2017]. Disponible en: http://www.
+insht.es/InshtWeb/Contenidos/Normativa/GuiasTecnicas/Ficheros/g_AQ.pdf
+  5.	 Fontana L, Liétin B, Catilina P, Devif C, Féneon B, Martin F, Mom T, Gilain L: Exposition 
+professionnelle aux poussières de bois et cancers naso-sinusiens. Ann Otolaryngol Chir 
+Cervicofac 2008;125:65-71.
+  6.	 Nylander LA, Dernent JM: Carcinogenic effects of wood dust: review and discussion. Am 
+J Ind Med. 1993;24(5):619-47
+  7.	 Roux F.X, Pages J.C, Nataf F, Devaux B, Laccourreye O, Menard M, Brasnu D: Les tumeu­
+rs malignes ethmoïdo-sphénoïdales: Cent trente cas; étude rétrospective. Neurochirurgie 
+1997;43:100-110.
+  8.	 Sy A, Marandas P, Hartl F, Janot F, Julieron M, Kolb F, Leridant AM, Mamelle G, Faivre 
+S, Schilf A, Luboinski B: Les adénocarcinomes de l’ethmoïde, à propos d’une série de 76 
+patients traités à l’Institut Gustave Roussy de 1983 à 1999. En: XXXVIème Rapport de la 
+Société Française de Carcinologie Cervico-Faciale: Les tumeurs malignes du massif facial 
+et des cavités naso-sinusiennes. Fontanel JP, Klossek JM. EDK, Paris 2004:31-40.
+  9.	 Díaz Molina JP. La Ruta Wnt en los Adenocarcinomas Nasosinusales [Tesis]. Oviedo: Ins­
+tituto Universitario de Oncología del Principado de Asturias; 2011.
+10.	 Grupo de trabajo sobre GPC. Elaboración de Guías de Práctica Clínica en el Sistema Na­
+cional de Salud. Manual Metodológico [Internet]. Madrid: Plan Nacional para el SNS del 
+MSC. Instituto Aragonés de Ciencias de la Salud-I+CS; 2007 [Fecha de última consulta 
+11/03/14]. Guías de Práctica Clínica en el SNS: I+CS Nº 2006/0I. 
+11.	 Grupo de trabajo sobre actualización de GPC. Actualización de Guías de Práctica Clínica 
+en el Sistema Nacional de Salud. Manual Metodológico [Internet]. Madrid: Plan Nacional 
+para el SNS del MSC. Instituto Aragonés de Ciencias de la Salud-I+CS; 2008 [Fecha de 
+última consulta 29/12/17]. Guías de Práctica Clínica en el SNS: I+CS. Disponible en: http://
+www.guiasalud.es/emanuales/actualizacion/index.html
+12.	 Etxeberria A, Rotaeche R, Lekue I, Callén B, Merino M, Villar M et al. Descripción de 
+la metodología de elaboración-adaptación-actualización empleada en la guía de práctica 
+clínica sobre el asma de la CAPV. Proyecto de Investigación Comisionada. Vitoria-Gasteiz. 
+Departamento de Sanidad. Gobierno Vasco, 2005. [Fecha de última consulta 29/12/17]. In­
+forme nº: Osteba D-05-03. Disponible en: http://www.euskadi.eus/contenidos/informacion/
+osteba_formacion_/eu_def/adjuntos/d_05_03_adaptacion_guia_asma.pdf
+13.	 Guisasola A, Fernández E, Romero D, Odriozola G, López S, Padilla A. Protocolo de vigi­
+lancia de la salud específica: asma en trabajadores expuestos a polvo de harina. Barakaldo. 
+
+34
+SANIDAD
+Osalan-Instituto Vasco de Seguridad y Salud Laborales; 2012. [Fecha de última consulta 
+29/12/17]. Disponible en: http://www.osalan.euskadi.net/s94-osa0181/es/contenidos/libro/
+medicina_201209/es_asma/protocolo_asma.html
+14.	 Dulguerov P, Jacobsen MS, Allal AS, Lehmann W, Calcaterra T. Nasal and paranasal sinus 
+carcinoma: are we making a progress? A serie of 220 patients and systematic review. Can­
+cer 2001; 92:3012-3029
+15.	 Núñez F, Suárez C, Álvarez I, Losa JL, Barthe P, Fresno M. Sino-nasal adenocarcinoma: 
+epidemiological and clinicopathological study of 34 cases. J Otolaryngol 1993; 22: 86-90. 
+16.	 Gras JR, Sarandeses A, Montserrat JR, Orús C. Revisión de los carcinomas de senos para­
+nasales. Acta Otorrinolaringol Esp 2007; 58: 266-275.
+17.	 Suárez Nieto C, Llorente Pendás JL. Tumores malignos de fosas nasales y Senos paranasa­
+les. En: Suárez Nieto C: Oncología de Cabeza y Cuello, Barcelona: Ars Medica; 2002: 75-90.
+18.	 López Álvarez F. Análisis de los genes EGFR y HER2 en los carcinomas epidermoides 
+nasosinusales. [Tesis]. Oviedo: Instituto Universitario de Oncología del Principado de As­
+turias; 2010.
+19.	 Barnes L. Intestinal-type adenocarcinoma of the nasal cavity and paranasal sinuses. Am J 
+SurgPathol 1986; 10:192-202.
+20.	 Rodríguez W. Cáncer de fosa nasal y senos paranasales. En: Rodríguez W. Neoplasias ma­
+lignas de cabeza y cuello, Lima: Fondo Editorial de la Universidad Nacional Mayor de San 
+Marcos; 2000: 63-74. 
+21.	 Llorente Pendás JL, Suárez Nieto C. Abordaje endoscópico de los tumores nasosinusales. 
+En: Avances, límites y retos de la cirugía endoscópica nasosinusal. Eds. S.A.U. Barcelona; 
+2012. p. 37-55. 
+22.	 Wilhelmsson B, Lundh B. Nasal epithelium in woodworkers in the furniture industry. An 
+histological and cytological study. Acta Otolaryngol 1984; 98: 321-324.
+23.	 Klintenberg C, Olofsson J, Hellquist H, Söckjer H. Adenocarcinoma of the ethmoid sinuses. 
+A review of 28 cases with special reference to wood dust exposure. Cancer 1984;54:482-488. 
+24.	 Batsakis JG. Pathology of tumors of the nasal cavity and paranasal sinuses. En: Thawley, 
+Pange, Batsakis and Lindberg eds. Comprehensive management of head and neck tumors. 
+Philadelphia: WS Saunders Co, 1987: 327-343.
+25.	 Muir CS, Nectoux J. Descriptive epidemiology of malignant neoplasma of nose, nasal cavi­
+ties, middle ear and accessory sinuses. Clin Otolaryngol 1980; 5: 195-211.
+26.	 Cheson ED, Codwell RH, Hadfield E, Macbeth RG. Nasal cancer in the woodworkers in 
+the furniture industry. Br Med J 1968; 2: 587-596.
+27.	 Leroux-Robert J: Les cancers de l’ethmoïde chez les travailleurs du bois. Cahiers d’O.R.L. 
+1974; 9(6):585-93.
+28.	 Urso C, Ninu MB, Franchi A, Paglierani M, Bondi R. Intestinal-type adenocarcinoma of the 
+sinonasal tract: a clinicopathologic study of 18 cases. Tumori 1993; 79:205-210.
+29.	 Moreau JJ, Bessede JP, Heurtebise F, Moufid A, Veysset P, Sauvage JP, et al. Adenocarcino­
+me de l’ethmoïde chez les travailleurs du bois. Etude rétrospective de 25 cas. Neurochirur­
+gie 1997;43(2):111-7.
+30.	 Stoll D, Bébéar JP, Truilhé Y, Darrouzet V, David N. Les adénocarcinomes de l’ethmoïdes: 
+étude rétrospective de 76 patients. Rev Laryngol Otol Rhinol 2001;122:21-24.
+31.	 Choussy O, Lerosey Y, Marie JP, Dhermain F, Seng SH, François A, Andrieu-Guitrancourt 
+J, Dehesdin D. Les adénocarcinomes de l’ethmoïde «expérience rouennaise» et mise au 
+point. Ann Otolaryngol Chir Cervicofac, 2001, 118, 3: 156-164
+32.	 Dutreuil-David N. Adénocarcinome de l’ethmoïde, étude rétrospective de 63 patients. Thè­
+se 3020, Université Victor Ségalen Bordeaux 2, U.F.R. des sciences médicales, Juin 1999.
+33.	 George B, Salvan D, Luboinski B, Boissonnet H, Lot G. Tumeurs malignes de l’ethmoïde. 
+Série homogène de 41 cas opérés par voie mixte. Neurochirurgie 1997;43:121-124.
+34.	 De Gabory L, Maunoury A, Maurice-Tison S, Merza Abdulkhaleq H, Darrouzet V, Bébéar 
+JP, Stoll D. Longterm Results of One-Center Management of Ethmoid Adenocarcinoma: 
+95 patients over 28 years. Ann surg Oncol 2010, Oncol Lett. Oct 2013; 6(4): 1007–1010. 
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+35
+35.	 Kenady D. Cancer of the paranasal sinuses. Surg Clin North Am 1986;66:119-31.
+36.	 Bimbi G, Saraceno MS, Riccio S, Gatta G, Licitra L, Cantù G. Adenocarcinoma of ethmoid 
+sinus: an occupational disease. Acta Otorhinolaryngol Ital 2004; 24: 199-203.
+37.	 Cantu G, Solero C.L, Mariani L, Lo Vullo S, Riccio S, Colombo S, Pompillo M, Perrone F, 
+Formillo P, Cuattrone P. Intestinal type adenocarcinoma of the ethmoid sinus in wood and 
+leather workers: A retrospective study of 153 cases. Head Neck 2011; 33: 535-542.
+38.	 Wolf J, Schmezer P, Fengel D, Schroeder HG, Scheithauer H, Woeste P. The role of com­
+bination effects on the etiology of malignant nasal tumors in the wood-working industry. 
+Acta Otolaryngol Suppl 1998; 535: 1-16.
+39.	 Demers PA, Kogevinas M, Boffetta P, Leclerc A, Luce D, Gérin M, Battista G, Belli S, 
+Bolm-Audorf U, Brinton LA. Wood dust and sino-nasal cancer: pooled reanalysis of twelve 
+case-control studies. Am J Ind Med 1995; 28: 151-166.
+40.	 Vaughan TL, Davis S. Wood dust exposure and squamous cell cancers of the upper respira­
+tory tract. Am J Epidemiol 1991;133:560-564.
+41.	 Voss R, Stenersen T, Roald B, Boysen M. Sinonasal cancer and exposure to softwood. Acta 
+Otolaryngol 1985;99:172-178.
+42.	 Viladot J, Alejo M, Droguet M, García P, Esteller E, León J. Adenocarcinoma of the nose 
+and paranasal sinuses. Presentation of 3 cases. Acta Otorrinolaringol Esp 1990;41:405-408.
+43.	 Morales C, Megía R, Del Valle A, Acinas O, Rama J. Nasal sinus adenocarcinoma in pa­
+tients exposed to wood dust in the Community of Cantabria, Spain. Acta Otorrinolaringol 
+Esp 1997;48:620-624.
+44.	 Société française de médecine du travail. Recommandations pour la surveillance medico 
+professionnelle des travailleurs exposés à l’effet cancérigène des poussières de bois. Fran­
+ce; 2011. [Fecha de última consulta 29/12/17]. Disponible en: http://www.chu-rouen.fr/sfmt/
+pages/Recommandations.php
+45.	 Llorente Jl, Pérez-Escuredo J, Alvarez-Marcos C, Suárez C, Hermsen M. Genetic and cli­
+nical aspects of Wood dust related intestinal-type sinonasal adenocarcinoma: a review. Eur 
+Arch Otorhinolaryngol 2009; 266: 1-7.
+46.	 Leclerk A, Martínez M, Gérin M, Luce D, Brugère J. Sinonasal cancer and wood dust expo­
+sure: results from a case-control study. Am J Epidemiol 1994; 140: 340-349.
+47.	 Holt GR. Sinonasal neoplasm and inhaled air toxics. Otolaryngol 1995; 16: 109-114.
+48.	 Acheson ED, Codwell RH, Jolles B. Nasal cancer in the Northhamptonshire boot and shoe 
+industry. Br Med J 1970;1: 385-393.
+49.	 Zheng W, McLaughlin JK, Chow WH, Chien HT, Blot WJ. Risk factors for cancers of the 
+nasal cavity and paranasal sinuses among white men in the United States. Am J Epidemiol 
+1993;138:965-972.
+50.	 Roux FX, Behm E, Page P, Laccourreye O, Pages JC, Brasnu D. Adenocarcinoma of the 
+ethmoid sinus. Epidemiologic data. Ann Otolaryngol Chir Cervicofac 2002;119(5):271-80.
+51.	 Carton M, Goldberg M, Luce D. Exposition professionnelle aux poussières de bois. Effets 
+sur la santé et valeurs limites d’exposition. Rev Epidemiol Sante Publique. 2002;50(2):159-
+78.
+52.	 García I, Mora E, Cobeta I. Tumores malignos de las fosas nasales y senos paranasales. Gra­
+nulomas malignos. En: Libro virtual de formación en ORL. Sociedad Española de Otorri­
+nolaringología y Patología Cérvico-Facial. 2014. cap. 63. [Fecha última consulta 29/12/2017]. 
+Disponible en: http://booksmedicos.org/libro-virtual-de-formacion-en-otorrinolaringolo­
+gia-seorl/
+53.	 de Gabory L, Stoll D, Darrouzet V, Bébéar JP. Les adénocarcinomes de l’ethmoïde, étude 
+rétrospective de 76 patients. En: XXXVIème Rapport de la Société Française de Carcino­
+logie Cervico-Faciale: Les tumeurs malignes du massif facial et des cavités naso-sinusien­
+nes. Fontanel JP, Klossek JM. EDK, Paris 2004:41-50.
+54.	 Demers PA, Boffetta P, Kogevinas M, Blair A, Miller BA, Robinson CF, Roscoe RJ, Winter 
+PD, Colin D, Matos E, Vainio H. Pooled reanalysis of cancer mortality among five cohorts 
+of workers in wood-related industries. Scand J Work Environ Health 1995; 21: 179-190.
+
+36
+SANIDAD
+55.	 García JR, González F, López C. Tumores nasosinusales. En: Manual de Otorrinolaringolo­
+gía. Eds. Ramírez Camacho R. McGraw-Hill. Madrid: Interamericana; 1998. p 225-35.
+56.	 Kadish s, Woodman M, Wang CC. Olfactory neuroblastoma. Head Neck, 1984; 7:60-4.
+57.	 Sobin LH, Wittekind C. UICC. TNM classification of malignant tumours (sixth edition). 
+New York: Wiley-Liss, 2002.
+58.	 Álvarez I, Suárez C, Rodrigo JP, Núñez F, Caminero MJ. Prognosis factors in paranasal 
+sinus cancer. Am J Otolaryngol 1995; 16: 109-114.
+59.	 Cantú G, Bimbi G, Miceli R, Mariani L, Colombo S, Riccio S, Squadrelli M, Battisti A, Pom­
+plio M, Rossi M. Lymph node metastases in malignant tumors of paranasal sinuses. Arch 
+Otolaryngol Head Neck Surg 2008; 134: 170-177.
+60.	 Götte K, Hörmann K. Sinonasal malignancy: what’s new?. ORL J Otorhinolaryngol Relat 
+Spec 2004; 66: 85-97.
+61.	 Bogaerts S, Vander Poorten V, Nuyts S, Van den Bogaert W, Jorissen M. Results of endos­
+copic resection followed by radiotherapy for primarily diagnosed adenocarcinomas of the 
+paranasal sinuses. Head Neck 2008; 30: 728-736.
+62.	 Howard DJ, Lund VJ, Wei WI. Craniofacial resection for tumors of the nasal cavity and 
+paranasal sinuses: a 25-years experience. Head Neck 2006; 28: 867-873.
+63.	 Nicolai P, Battaglia P, Bignami M, Bolzoni A, Delù G, Khrais T, Lombardi D, Castelnuovo 
+P. Endoscopic surgery for malignant tumors of the sinonasal tract and adjacent skull base: 
+a 10-year experience. Am J Rhinol 2008; 22: 308-316.
+64.	 Suárez C, Llorente JL, Fernández de León R, Cabanillas R, Suárez V, López A. Resección 
+craneofacial anterior: Resultados oncológicos y complicaciones en una serie de 111 casos. 
+Acta Otorrinolaringol Esp 2004; 55: 27-33.
+65.	 Bussi M, Gervasio CF, Riontino E, Valente G, Ferrari L, Pira E, Cortesina G. Study of 
+ethmoidal mucosa in a population at occupational high risk of sinonasal adenocarcinoma. 
+Acta Otolaryngol 2002; 122:197-201.
+66.	 Llorente JL, Núñez F, Rodrigo JP, Fernández R, Alvarez C, Hermsen M, Suárez C. Adencar­
+cinomas nasosinusales: nuestra experiencia. Acta Otorrinolaringol Esp 2008; 59: 235–238.
+67.	 Del Barco E, Cruz F. Tumores nasales y de senos paranasales. En: Tumores poco frecuentes 
+de cabeza y cuello. Eds. Luzán. Madrid; 2010. p 95-106.
+68.	 Choussy O, Ferron C, Véndrine PO, Toussaint B, Liétin B, Marandas P, Babin E, De Rau­
+court D, Reyt E, Cosmidis A, Makeiff M, Dehesdin D, GETTEC Study Group. Adenocarci­
+noma of ethmoid: A GETTEC Retrospective Multicenter study of 418 case. Laryngoscope 
+2008; 118: 437-443.
+69.	 Núñez F, Alvarez I, Suárez C, Mateos V, Campos DM, Astudillo A. Ethmoidal carcinoma 
+presenting as sensorioneural hearing loss. Am J Rhinol 1993; 7: 241-244.
+70.	 Rubin K. The manifestation of cocaine-induced midline destructive lesion in bone tissue 
+and its identification in human skeletal remains. Forensic Science International 231 (2013) 
+408.e1–408.e11.
+71.	 Contreras P, Flores E, Muñoz CA, Tenor RL. Complicaciones nasales y orbitarias secunda­
+rias al abuso de cocaína inhalada. Acta Otorrinolaringol Esp. 2012;63(3):233-236.
+72.	 Marcuccilli A, Perdrix A, Metras E, Costa Salute C, Gary Y, Sáenz F, et al. Evaluation des 
+symptômes et de la fonction respiratoire en relation avec les expositions aux poussières de 
+bois dans les ateliers de menuiseries industrielles. Arch Mal Prof 1998;59:305-14.
+73.	 Alvarez I, Suarez C, Rodrigo J.P, Nunez F, Caminero M.J. Pronostic factors in paranasal 
+sinus cancer. Am J. Otolaryngol 1995;16(2):109-114.
+74.	 Tiwari R, Hardillo JA, Tobi H, Mehta D, Karim ABMF, Snow G. Carcinoma of the ethmoid: 
+results of treatment with conventional surgery and post-operative radiotherapy. Eur J Surg 
+Oncol 1999;25:401-5.
+75.	 Knegt P, Ah-see K, vd Velden LA, Kerrebijn J. Adenocarcinoma of the ethmoid sinus com­
+plex: surgical debulking and topical fluorouracil may be the optimal treatment. Arch Oto­
+laryngol Head Neack Surg 2001;127:141-146.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+37
+76.	 Claus F, Boterberg T, Ost P, Huys J, Vermeersch H, Braems S, et al. Postoperative radio­
+therapy for adenocarcinoma of the ethmoid sinuses: treatment results for 47 patients. Int J 
+Radiat Oncol Biol Phys. 2002;54:1089–94.
+77.	 Jegoux Fr, Ferron Ch, Malard G, Cariou O, Faure A, Beauvillain de Montreuil A. Adéno­
+carcinome de l’ethmoïde: expérience nantaise (80 cas). Place de la résection de la base du 
+crâne par voie trans-faciale. Ann Otolaryngol Chir cervicofac 2004;121(4):213-21.
+78.	 Percodani J, Rose X, Folia M, Woisard V, Uro-Coste E, Pessey JJ, et al. Les adénocarcino­
+mes de l’ethmoïde: à propos de 46 patients. F ORL 2005; 89:146-54.
+79.	 de Gabory L, Maunoury A, Maurice-Tison S, Merza Abdulkhaleq H, Darrouzet V, Bébéar 
+JP, Stoll D. Long-term single-center results of management of ethmoid adenocarcinoma: 95 
+patients over 28 years. Ann Surg Oncol. 2010;17:1127-1134.
+80.	 Institut national de recherche et de sécurité pour la prévention des accidents du travail et 
+des maladies professionnelles (INRS). Recommandations pour la surveillance médico-pro­
+fessionnelle des travailleurs exposés à l’effet cancérogène des poussières de bois. Recom­
+mandations élaborées par consensus formalisé (version courte). 2011. Documents pour le 
+Médecin du Travail N° 126. [Fecha última consulta 29/12/2017]. Disponible en: http://www.
+inrs.fr/media.html?refINRS=TM%2017
+81.	 Ransom JH,Kavelkk. Diagnostic fiberoptic rhinolaryngoscopy.KansMed 1989 Apr;90(4): 
+105-115.
+82.	 de Gabory L, Conso F, Krief P, Stoll D. Is ethmoidal adenocarcinoma screening in employees 
+exposed to wood dust justified? Rev Laryngol Otol Rhinol (Bord). 2008;129(4-5):219-26.
+83.	 Mayr SI, Hafizovic K, Waldfahrer F, Iro H, Kütting B. Characterization of initial clinical 
+symptoms and risk factors for sinonasal adenocarcinomas: results of a case-control study. 
+Int Arch Occup Environ Health. 2010 Aug;83(6):631-8.
+84.	 Lechevalier P. Mise en place d’un protocole de surveillance médicale des salariés exposés 
+aux poussières debois inhalables dans un service interentreprises. Journées d’Automne. So­
+ciété de Médecine du Travail d’hygiène Industrielle et d’Ergonomie de l’Ouest. 2003.
+85.	 Brignon P. Tolérance de la nasofibroscopie: à propos des adénocarcinomes de l’ethmoïde. 
+Mémoire de médecine, 36 p, Lyon: 2006.
+86.	 Nankivell PC, Pothier DD. Nasal and instrument preparation prior to rigid and flexible 
+nasendoscopy: asystematic review. J Laryngol Otol. 2008 Oct;122(10):1024.
+87.	 Singh V, Brockbank MJ, Todd GB. Flexible transnasal endoscopy: is local anesthetic neces­
+sary? J Laryngol Otol 1997; 111: 616-18.
+88.	 Corey GA, Rodney MM, Hocutt JE. Rhinolaryngoscopy by Family Physicians. J fam Pract. 
+1990;31(1):49-52.
+89.	 Dewitt DE. Fiberoptic laryngoscopy primary care new direction for expanding office diag­
+nostics. Postgraduate Medicine. Oct 1988. 84 (5): 125-144.
+90.	 Zarnitz P. Guidelines for Performing Fiberoptic Flexible Nasal Endoscopy and nasophary­
+ngolaryngoscopy on adults. ORL Head and Neck Nursing 2005,23(2): 13-18.
+91.	 Lancer JM, Jones AS. Flexible fibreoptic rhinolaryngoscopy results of 338 consecutive exa­
+minations. J Laryngol Otol 1985;99(8): 771-3.
+92.	 Luuduc D, Pineau L, Desbuquois C. L’endoscopie flexible stérilisable, une réalité. Hygienes 
+2004;XII(1):70-72.
+93.	 Conlin AE, McLean L. Systematic review and meta-analysis assessing the effectiveness of 
+local anesthetic, vasoconstrictive, and lubricating agents in flexible fibre-optic nasolaryn­
+goscopy. J Otolaryngol Head NeckSurg. 2008 Apr;37(2):240-9.
+94.	 De Gabory L, Conso F, Barry B, Stoll D. La carcinogenèse de l’adénocarcinome de l’eth­
+moïde aux poussières de bois. Rev Laryngol Otol Rhinol 2009, 130(2):75-86.
+95.	 Friberg S, Mattson S. On the growth rates of human malignant tumors: implications for 
+medical decision making. J Surg Oncol. 1997 Aug;65(4):284-97. 
+96.	 Urbaneja F, Lijó A, Cabrerizo JI, Idiazábal J, Zubia AR, Padilla A. Vigilancia epidemio­
+lógica en el trabajo: Guía para la implantación de la vigilancia colectiva por parte de los 
+servicios de prevención. Barakaldo: Osalan-Instituto Vasco de Seguridad y Salud Labo­
+
+38
+SANIDAD
+rales; 2015 [Fecha última consulta 22/12/2017]. Disponible en: http://www.osalan.euskadi.
+eus/libro/vigilancia-epidemiologica-en-el-trabajo-guia-para-la-implantacion-de-la-vigilan-
+cia-colectiva-por-parte-de-los-servicios-de-prevencion/s94-osa9996/es/adjuntos/guia_vigi-
+lancia_epidemiologica_2015.pdf
+97. Azpiroz A, Álvarez V, Carramiñana S, Lekue B, Padilla A, Pérez B, Robertson M. Pau-
+tas para la integración de la perspectiva de género en la prevención de riesgos labora-
+les. Barakaldo. Osalan-Instituto Vasco de Seguridad y Salud Laborales; 2017. [Fecha de 
+última consulta 12/01/18]. Disponible en: http://www.osalan.euskadi.eus/contenidos/libro/
+gestion_201710/es_def/adjuntos/pautas_integracion_prl.pdf
+98. Rodríguez-Jareño MC, Molinero E, de Montserrat J, Vallés A, Aymerich M. Calidad y adecua-
+ción técnica a la normativa de los exámenes de vigilancia de la salud de la población trabaja-
+dora en relación con su finalidad preventiva. Arch Prev Riesgos Labor 2016;19(3):146-165.
+99. Marzo M, Viana C. Calidad de la evidencia y grado de recomendación. Fisterra. Guías 
+Clínicas 2009; 9 Supl 1: 6. [Fecha última consulta 11/01/2018]. Disponible en: https://www.
+fisterra.com/bd/upload/6-Sintesis.pdf
+Normativa legal
+• 
+Directiva 98/24/CE del Consejo de 7 de abril de 1998 relativa a la protección de la salud y 
+la seguridad de los trabajadores contra los riesgos relacionados con los agentes químicos 
+durante el trabajo (decimocuarta Directiva específica con arreglo al apartado 1 del artícu-
+lo 16 de la Directiva 89/391/CEE).
+• 
+Directiva 2004/37/CE del Parlamento Europeo y del Consejo de 29 de abril de 2004 rela-
+tiva a la protección de los trabajadores contra los riesgos relacionados con la exposición 
+a agentes carcinógenos o mutágenos durante el trabajo (Sexta Directiva específica con 
+arreglo al apartado 1 del artículo 16 de la Directiva 89/391/CEE del Consejo).
+• 
+Directiva (UE) 2017/2398 del Parlamento Europeo y del Consejo de 12 de diciembre de 
+2017 por la que se modifica la Directiva 2004/37/CE relativa a la protección de los traba-
+jadores contra los riesgos relacionados con la exposición a agentes carcinógenos o mutá-
+genos durante el trabajo.
+• 
+Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales.
+• 
+Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios 
+de Prevención.
+• 
+Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los 
+riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo.
+• 
+Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y la seguridad de los 
+trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo.
+• 
+Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enferme-
+dades profesionales en el sistema de la Seguridad Social y se establecen los criterios para 
+su notificación y registro.
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+39
+Anexo I
+Cuestionario de síntomas y signos de fosas 
+nasales y senos paranasales
+1. ¿Siente que tiene la nariz obstruida? 
+Sí
+No
+Si es que SÍ, evalúe la intensidad de la obstrucción en esta escala:
+Orificio derecho
+ 
+Nada obstruido 
+Totalmente obstruido
+0
+5
+10
+Orificio izquierdo
+ 
+Nada obstruido 
+Totalmente obstruido
+0
+5
+10
+¿Desde cuándo?
+¿Ha empeorado con el tiempo?
+Sí
+No
+2. ¿Siente que ha perdido el olfato? 
+Si es que SÍ, evalúe su capacidad olfativa:
+ 
+No huelo nada 
+Huelo muy bien
+0
+5
+10
+¿Desde cuándo?
+¿Ha empeorado con el tiempo?
+
+40
+SANIDAD
+3. ¿Siente que ha perdido el gusto? 
+Sí
+No
+Si es que SÍ, evalúe su gusto:
+ 
+No reconozco nada los sabores 
+Reconozco muy bien los sabores
+0
+5
+10
+¿Desde cuándo?
+¿Ha empeorado con el tiempo?
+4. ¿Sangra a menudo de la nariz de forma espontánea? 
+Sí
+No
+Si es que SÍ:
+¿Cuál de los orificios?
+Derecho
+Izquierdo
+¿Desde cuando?
+¿Ha empeorado con el tiempo?
+5. ¿Suele salirse secreción por la nariz? (de tipo seropurulento) 
+Sí
+No
+Si es que SÍ:
+¿De cuál de los orificios?
+Derecho
+Izquierdo
+¿Desde cuando?
+¿Ha empeorado con el tiempo?
+6. ¿Suele tener dolor en la cara de forma persistente? 
+Sí
+No
+Si es que SÍ, evalúe el dolor:
+Lado derecho
+ 
+No me duele nada 
+El dolor es inaguantable
+0
+5
+10
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+41
+Lado izquierdo
+ 
+No me duele nada 
+El dolor es inaguantable
+0
+5
+10
+¿Desde cuándo?
+¿Ha empeorado con el tiempo?
+7. ¿Suele tener lagrimeo persistente? 
+Si es que SÍ:
+¿De cuál de los ojos?
+Derecho
+Izquierdo
+¿Desde cuando?
+¿Ha empeorado con el tiempo?
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+43
+Anexo II
+Modelo de información para la persona 
+trabajadora
+Síntomas y signos de fosas nasales y senos 
+paranasales
+Debido a que Ud. ha estado o ha podido estar expuesto al polvo de madera 
+en su trabajo, se le está aplicando el PROTOCOLO DE VIGILANCIA DE 
+LA SALUD de las personas trabajadoras expuestas a este agente.
+Uno de los riesgos más importantes que pueden derivarse de su exposi­
+ción al polvo de madera con el paso de los años, es la aparición de un tumor 
+maligno, el adenocarcinoma, en la zona las fosas nasales y senos paranasales. 
+Aunque es un tumor poco frecuente, dadas sus características, es fundamen­
+tal su diagnóstico precoz para que el tratamiento sea rápido y eficaz, y por 
+lo tanto su pronóstico sea más favorable. Por todo ello, es muy importante 
+que se le realice un seguimiento médico periódico, tanto si aún continúa ex­
+puesto por su trabajo a polvo de madera, como si ya no lo estuviera, incluso 
+después de su jubilación.
+El seguimiento médico que se le propone es que cada 2 años se so­
+meta a una revisión médica; en la misma deberá contestar a una serie de 
+preguntas, realizadas por su médico, relacionadas con síntomas y signos de 
+esta enfermedad. Una vez transcurridos 30 años desde la primera vez que 
+se expuso al polvo de madera, el seguimiento médico deberá incluir, además 
+de lo anterior, la realización de una nasofibroscopia. Dicha prueba consis­
+te en la introducción por las fosas nasales de una fibra óptica flexible que 
+permite visualizar las vías aéreas superiores. Es un examen simple y rápido, 
+y en general atraumático e indoloro en ausencia de anomalías anatómicas 
+importantes de la zona.
+De todos modos, si en cualquier momento, antes de que pasen esos 2 
+años, presenta alguno de los síntomas o signos sobre los que se le pregunta 
+en el examen médico, es conveniente que se ponga en contacto con su médi­
+co de trabajo, en el caso de que siga empleado, o con su médico de atención 
+primaria, si ya no está laboralmente en activo, para que los valoren y, si es 
+necesario, le deriven al especialista en otorrinolaringología para un estudio 
+más pormenorizado.
+
+44
+SANIDAD
+Los síntomas o signos a vigilar son los siguientes:
+•	 Obstrucción nasal de una de las fosas nasales (unilateral)
+•	 Alteraciones del gusto y el olfato (pérdida parcial o total)
+•	 Hemorragia repetidas por una de las fosas nasales (unilateral)
+•	 Secreción nasal seropurulenta por una fosa nasal (unilateral)
+•	 Dolor facial unilateral persistente
+•	 Lagrimeo unilateral persistente
+
+PROTOCOLO PARA LA VIGILANCIA SANITARIA ESPECÍFICA DEL ADENOCARCINOMA DE FOSAS NASALES...
+45
+Anexo III
+Niveles de evidencia científica
+y formulación de recomendaciones
+Niveles de evidencia científica y formulación de 
+recomendaciones para preguntas sobre diagnóstico
+Centre for Evidence-Based Medicine, Oxford
+Grado de 
+recomendación
+Nivel de 
+evidencia
+Fuente 
+A
+1 a 
+Revisión sistemática de estudios diagnósticos de nivel 1 
+(alta calidad), con homogeneidad, o sea que incluya estu­
+dios con resultados comparables y en la misma dirección y 
+GPC validadas 
+1 b
+Estudios de cohortes que validen la calidad de una prueba 
+específica, con unos buenos estándares de referencia 
+(independientes de la prueba) o a partir de algoritmos de es­
+timación del pronóstico o de categorización del diagnóstico 
+1 c
+Pruebas diagnósticas con especificidad tan alta que un 
+resultado positivo confirma el diagnóstico y con sensibilidad 
+tan alta que un resultado negativo descarta el diagnóstico.
+B
+2 a 
+Revisión sistemática de estudios diagnósticos de nivel 2 
+(mediana calidad) con homogeneidad, o sea que incluya es­
+tudios con resultados comparables y en la misma dirección 
+2 b
+Estudios exploratorios que, a través de p. e. una regresión 
+logística, determinan qué factores son significativos, y que 
+sean validados con unos buenos estándares de referencia 
+(independientes de la prueba), o a partir de algoritmos de 
+estimación del pronóstico o de categorización del diagnósti­
+co, o de validación de muestras separadas 
+3 b
+Comparación cegada u objetiva de un espectro una cohorte 
+de pacientes que podría normalmente ser examinado para 
+un determinado trastorno, pero el estándar de referencia no 
+se aplica a todos los pacientes del estudio
+C
+4
+–  Los estándares de referencia no son objetivables, cega­
+dos o independientes.
+–  Las pruebas positivas y negativas son verificadas usando 
+estándares de referencia diferentes
+–  El estudio compara pacientes con un trastorno deter­
+minado conocido con pacientes diagnosticados de otra 
+condición.
+D
+5
+Opinión de expertos sin valoración crítica explícita, ni 
+basada en fisiología, ni en investigación juiciosa ni en los 
+principios fundamentales
+
+Ministerio
+ de Sanidad, Consum
+o y Bienestar Social
+www.mscbs.gob.es

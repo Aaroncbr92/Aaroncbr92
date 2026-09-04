@@ -1,0 +1,1820 @@
+Protocolo de vigilancia 
+sanitaria específica.
+Silicosis
+SANIDAD 2020
+MINISTERIO DE SANIDAD
+
+
+Protocolo de vigilancia
+sanitaria específica.
+Silicosis
+SANIDAD 2020
+MINISTERIO DE SANIDAD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD
+    CENTRO DE PUBLICACIONES
+    PASEO DEL PRADO, 18. 28014 Madrid
+NIPO: 133-20-034-2
+El copyright y otros derechos de propiedad intelectual de este documento pertenecen al Ministerio de Sani­
+dad, Consumo y Bienestar Social. Se autoriza a las organizaciones de atención sanitaria a reproducirlo total o 
+parcialmente para uso no comercial, siempre que se cite el nombre completo del documento, año e institución.
+
+Maquetación: Servicios Gráficos Kenaf, S. L.
+http://cpage.mpr.gob.es
+
+Protocolo de vigilancia
+sanitaria específica.
+Silicosis
+
+
+Consejo Interterritorial
+. Sistema Nacional de Salud
+La Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacio­
+nal de Salud aprobó el Protocolo de Vigilancia Sanitaria Específica Silicosis, 
+en sesión plenaria celebrada el día 12 de septiembre de 2019.
+Comisión Nacional
+ de Seguridad y Salu
+d en el Trabajo
+La Comisión Nacional de Seguridad y Salud en el Trabajo fue informada 
+del Protocolo  de Vigilancia Sanitaria Específica Silicosis, en sesión plenaria 
+celebrada el día 8 de octubre de 2019.
+
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+9
+COMISIÓN DE SALUD PÚBLICA
+PONENCIA DE SALUD LABORAL DE LA COMISIÓN DE SALUD PÚBLICA
+DEL CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+Coordinación del protocolo
+Instituto Nacional de Silicosis
+Organizaciones que participaron en la elaboración
+Instituto Nacional de Silicosis
+Hospital Universitario Central de Asturias
+Consejería de Sanidad del Principado de Asturias
+Osalan - Instituto Vasco de Seguridad y Salud Laborales
+Sociedad Vasca de Medicina del Trabajo
+Autores
+Charo Alfageme Mediavilla. Médico especialista en medicina del trabajo.
+Victor Arana Munarriz. Médico especialista en medicina del trabajo.
+Miguel Arias Guillen. Médico especialista en neumología.
+Miguel Ariza Prota. Médico especialista en neumología.
+Marisol Arzallus Susperregui. Médico especialista en medicina del trabajo.
+José Ignacio Cabrerizo Benito. Médico especialista en medicina del trabajo.
+María Carballo Menéndez. Ingeniero Técnico de Minas.
+Pablo Fernández Rodríguez. Químico
+Ana Fernández Tena. Médico especialista en neumología.
+Eva Mª Fernández Vilas. Ingeniero de Minas.
+Juan Antonio Freijo Pasarín. Ingeniero Técnico de Minas.
+Aitor Guisasola Yeregui. Médico especialista en medicina del trabajo.
+Rosirys M. Guzmán Taveras. Médico especialista en neumología.
+Jaxone Idiazabal Garmendia. Médico especialista en medicina del trabajo.
+Cristina Martínez González. Médico especialista en neumología.
+Pablo Menéndez Cabo. Ingeniero Geólogo.
+Alex Muñoz Gabilondo. Médico especialista en medicina del trabajo.
+Haritz Ortega Longarte. Médico especialista en medicina del trabajo.
+Amador Prieto Fernández. Médico especialista en radiodiagnóstico.
+Aida Quero Martínez. Médico especialista en neumología y medicina del trabajo.
+Valentín Rodríguez Suárez. Médico especialista en medicina preventiva y salud pública
+Mikel Uña Gorospe. Médico especialista en medicina del trabajo.
+PONENCIA DE SALUD LABORAL DE LA COMISIÓN DE SALUD PÚBLICA
+Montserrat García Gómez. Ministerio de Sanidad, Consumo y Bienestar Social
+Joaquín Estévez Lucas. Ministerio de Sanidad, Consumo y Bienestar Social
+Aitor Gisasola Yeregui. Osalan. Instituto Vasco de Seguridad y Salud Laboral. País Vasco
+Lourdes Íscar Reina Osalan. Instituto Vasco de Seguridad y Salud Laboral. País Vasco 
+Juan Carlos Coto Fernández Osalan. Instituto Vasco de Seguridad y Salud Laboral. País Vasco 
+Rafael Panadés Valls Consellería de Salut. Catalunya
+María Isabel González García. Consejería de Salud y Bienestar Social. Galicia
+Francisco Arroyo Yanes. Consejería de Salud Y Familias. Andalucía
+Rosario Díaz Peral. Consejería de Salud Y Familias. Andalucía
+Valentín Rodríguez Suárez. Consejería de Sanidad. Principado de Asturias
+Íñigo Fernández Fernández. Consejería de Sanidad y Servicios Sociales. Cantabria
+Lourdes Miralles Martínez-Portillo. Consejería de Salud y Servicios Sociales. La Rioja
+
+10
+SANIDAD
+Bienvenida Carpe Carpe. Consejería de Sanidad y Política Social. Región de Murcia
+Valentín Esteban Buedo. Consellería de Sanidad Universal y Salud Pública. Comunidad 
+Valenciana
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y Familia. Aragón
+Fernando Cebrián Gómez. Consejería de Sanidad y Asuntos Sociales. Castilla-La Mancha
+Emma Rosa Corraliza Infanzón. Consejería de Sanidad y Asuntos Sociales. Castilla-La Mancha 
+Iñaki Moreno Sueskun. Instituto Navarro de Salud Laboral. Comunidad Foral de Navarra
+Jesús Fernández Baraibar. Instituto Navarro de Salud Laboral. Comunidad Foral de Navarra
+Yolanda Anés del Amo. Consejería de Sanidad y Políticas Sociales. Extremadura
+Santiago Briz Blázquez. Consejería de Sanidad y Políticas Sociales. Extremadura
+Milagros Queimadelos Carmona. Consellería de Salut. Illes Balears
+Eduardo García-Ramos Alonso. Consejería de Sanidad. Canarias
+María Fernanda González Gómez. Consejería de Sanidad. Comunidad de Madrid
+Mercedes Elvira Espinosa. Consejería de Sanidad. Castilla y León
+Luisa Fernanda Hermoso Castro. Consejería de Presidencia y Salud Pública Ciudad Autónoma 
+de Melilla
+Ana Isabel Rivas Pérez. Consejería Sanidad, Servicios Sociales, Menores e Igualdad. Ciudad 
+Autónoma de Ceuta
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+11
+Índice
+Presentación  
+13
+1. Criterios de aplicación 
+15
+2. Definición del problema 
+17
+ 
+2.1.  Definiciones y conceptos 
+17
+ 
+2.2. Fuentes de exposición 
+18
+ 
+2.3. Factores del trabajador expuesto 
+19
+ 
+2.4. Mecanismos de acción 
+20
+ 
+2.5. Efectos sobre la salud 
+20
+ 
+2.6. Formas clínicas y diagnóstico de la silicosis  
+20
+ 
+ 
+2.6.1.  Formas clínicas de la silicosis. 
+20
+ 
+ 
+2.6.2.  Diagnóstico de la silicosis.  
+22
+ 
+2.7. Prevención 
+23
+ 
+ 
+2.7.1.  Prevención primaria 
+23
+ 
+ 
+2.7.2.  Prevención secundaria 
+23
+ 
+ 
+2.7.3.  Prevención terciaria 
+24
+3. Evaluación del riesgo  
+25
+4.  Protocolo médico específico 
+27
+ 
+4.1. Vigilancia individual de la salud 
+27
+ 
+ 
+4.1.1.  Contenido 
+27
+ 
+ 
+4.1.2.  Periodicidad 
+29
+ 
+4.2. Vigilancia colectiva de la salud 
+31
+5. Criterios para el médico del trabajo 
+33
+ 
+5.1.  Criterios de valoración de silicosis 
+33
+ 
+5.2. Criterios de valoración de la radiología de tórax 
+33
+ 
+5.3. Criterios de valoración de la espirometría 
+33
+ 
+5.4.  Criterios para la comunicación de las conclusiones que se 
+deriven de la vigilancia de la salud de los trabajadores 
+34
+ 
+ 
+5.4.1.  Informe de recomendaciones preventivas 
+34
+ 
+ 
+5.4.2.  Criterios de valoración de la aptitud para el trabajo 
+34
+ 
+ 
+5.4.3.  Informe de recomendaciones preventivas para el trabajador 
+36
+ 
+5.5.  Conducta a seguir en el caso de que el médico del trabajo 
+sospeche encontrarse ante un caso de silicosis 
+36
+ 
+5.6. Conducta a seguir en el caso de diagnóstico de silicosis 
+37
+ 
+5.7. Documentación 
+38
+6. Bibliografía 
+41
+
+12
+SANIDAD
+Anexo I
+Criterios para interpretación de resultados de la evaluación de la exposición	
+45
+Anexo II
+Cuestionario respiratorio	
+47
+Anexo III
+Pruebas complementarias	
+51
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+13
+Presentación
+Este protocolo, fruto del trabajo desarrollado por las Administraciones Sa­
+nitarias a través de la Ponencia de Salud Laboral de la Comisión de Salud 
+Pública del Consejo Interterritorial del Sistema Nacional de Salud, revisa y 
+actualiza el protocolo de vigilancia sanitaria específica que se publicó en el 
+año 20011, en lo que se refiere a la silicosis originada por polvo de sílice y 
+neumoconiosis de polvo mixto con contenido silíceo. Para el resto de neu­
+moconiosis, continuará vigente el protocolo del año 2001 citado.
+La elaboración de este protocolo ha sido coordinada por el Institu­
+to Nacional de Silicosis y ha contado con la participación de la sección de 
+neumología ocupacional del Hospital Universitario Central de Asturias, de 
+la Consejería de Sanidad del Principado de Asturias, de Osalan-Instituto 
+Vasco de Seguridad y Salud Laborales, y de miembros de la Sociedad Vasca 
+de Medicina del Trabajo.
+Durante su tiempo de vigencia, el protocolo que ahora se actualiza ha 
+proporcionado a los profesionales implicados en la prevención de riesgos 
+laborales, especialmente a los sanitarios, una guía de actuación para realizar 
+la vigilancia sanitaria específica de los trabajadores con riesgo de contraer 
+silicosis. 
+Durante este periodo se han producido novedades relacionadas con la 
+prevención de la silicosis y con las actuaciones sanitarias que llevan a cabo 
+los médicos del trabajo de los servicios de prevención de riesgos laborales, 
+por lo que la actualización las tiene en cuenta. Los profesionales sanitarios de 
+estos servicios han ido manifestando y concretando sus necesidades respecto 
+al contenido de los protocolos de vigilancia sanitaria específica, y consideran 
+que los mismos deben recoger criterios uniformes en relación a la comuni­
+cación de las conclusiones que se deriven de la vigilancia de la salud de los 
+trabajadores o sobre la periodicidad de la práctica de los exámenes de salud. 
+En esta revisión se incluyen recomendaciones que recogen los cambios 
+normativos que se han producido en este periodo. Entre ellos, se destaca el 
+Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cua­
+dro de enfermedades profesionales en el sistema de la Seguridad Social y se 
+establecen criterios para su notificación y registro, ya que obliga a los facul­
+tativos de los servicios de prevención a comunicar las sospechas de enferme­
+dad profesional que se produzcan entre los trabajadores a los que atienden. 
+Por otro lado, la Orden ITC/2585/2007, por la que se aprueba la Instrucción 
+técnica complementaria “ITC 2.0.02 de Protección de los trabajadores con­
+tra el polvo, en relación con la silicosis, en las industrias extractivas, del Re­
+glamento General de Normas Básicas de Seguridad Minera” establece, entre 
+
+14
+SANIDAD
+otros, criterios para la vigilancia de la salud de los trabajadores incluidos en 
+su ámbito de aplicación.
+Del mismo modo, se han elaborado criterios de actuación para activida­
+des no encuadradas en el ámbito de las industrias extractivas, en las que los 
+efectos de la exposición a la sílice cristalina también se han hecho patentes. 
+Los avances técnicos y la introducción de la radiografía digital consti­
+tuyen otro de los puntos tenidos en cuenta en esta actualización, por lo que 
+se han adoptado las últimas recomendaciones de la Organización Interna­
+cional del Trabajo (OIT) respecto a la realización e interpretación de los 
+exámenes radiológicos. De igual modo, se han incluido en el protocolo las 
+últimas recomendaciones y normativas emitidas por la Sociedad Española 
+de Patología Respiratoria (SEPAR) en relación a la silicosis y a las pruebas 
+diagnósticas que permiten su diagnóstico precoz.
+La silicosis continúa siendo en la actualidad una enfermedad de eleva­
+da incidencia y prevalencia, de la que no se dispone de datos epidemiológi­
+cos que permitan establecer su auténtica dimensión, por lo que su estudio 
+constituye un reto para todas las partes implicadas en la salud laboral2.
+Esperamos que esta revisión contribuya, como lo ha hecho hasta ahora 
+el protocolo al que sustituye, a la prevención de esta enfermedad y del resto 
+de los riesgos laborales derivados de la exposición a la sílice. 
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+15
+1. Criterios de aplicación
+Este protocolo se aplicará a todos aquellos trabajadores que durante su jor­
+nada laboral vayan a estar expuestos, estén expuestos o hayan tenido expo­
+sición a inhalación de polvo con contenido en sílice cristalina.
+
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+17
+2. Definición del problema
+2.1. Definiciones y conceptos 
+Neumoconiosis 
+Este término se utiliza para definir un conjunto de enfermedades derivadas 
+de la acumulación de polvo inorgánico en los pulmones y las reacciones tisu­
+lares provocadas por su presencia. 
+En función del elemento inorgánico causal, cada entidad es denomi­
+nada de una manera determinada: silicosis, asbestosis, siderosis, estannosis, 
+etc.; cada una con sus propias características clínicas, radiológicas e histoló­
+gicas. Debido a que la silicosis y la neumoconiosis del carbón son las más 
+prevalentes y a que comparten unas características epidemiológicas, clínicas 
+y radiológicas similares, con frecuencia se utiliza el término “Silicosis” para 
+englobar al conjunto de las neumoconiosis3. 
+Las neumoconiosis se encuadran dentro del grupo de enfermedades 
+pulmonares intersticiales difusas de causa conocida4. En todas ellas la pro­
+babilidad de su desarrollo depende de tres factores principales: la magnitud 
+de la exposición acumulada durante la vida laboral, las características del 
+agente etiológico y la susceptibilidad individual5,6.
+Silicosis
+Es la neumoconiosis producida por inhalación de sílice cristalina (SiO2). Es 
+una enfermedad pulmonar intersticial difusa caracterizada por la produc­
+ción de tejido colágeno en el pulmón en repuesta al depósito de polvo de 
+sílice7,8,9.
+No se pueden denominar silicosis a otras lesiones, que aunque produci­
+das por la sílice, asienten en lugares intra o extratorácicos distintos al parén­
+quima pulmonar, como es el caso de la frecuente presencia de adenopatías 
+hiliares y/o mediastínicas en personas expuestas.
+Sílice cristalina
+La sílice cristalina inhalada es el agente causal de la silicosis, existiendo una 
+relación indiscutible entre exposición acumulada y riesgo de enfermedad. 
+Esta relación se encuentra modulada por otros factores relacionados con 
+las características del agente causal y circunstancias individuales de la per­
+sona expuesta10.
+
+18
+SANIDAD
+La sílice cristalina es un oxido metálico que se encuentra de forma na­
+tural y es muy abundante en la naturaleza. Entre sus siete polimorfismos, el 
+cuarzo, la cristobalita y la tridimita son los más habituales, y solo la sistovita 
+carece de potencial fibrogénico, siendo ésta una forma que rara vez se ob­
+serva en la naturaleza.
+El cuarzo forma parte de la mayoría de las rocas y arenas de la superficie 
+terrestre; la cristobalita y la tridimita se encuentran en las rocas volcánicas. 
+Las tres formas se interrelacionan y pueden modificar su estructura por 
+efecto de las altas temperaturas.
+Fracción de polvo respirable
+Se denomina de este modo a la fracción del aerosol que, por el tamaño de 
+sus partículas, es capaz de alcanzar las unidades alveolares. Según Norma 
+Europea UNE-EN-481:1995, «Atmósferas en los puestos de trabajo. Defi­
+nición de las fracciones por el tamaño de las partículas para la medición de 
+aerosoles», se trataría del 30% de las partículas de 5 micras y el 100% de las 
+de 1 micra. Las partículas mayores de 10 micras quedan depositadas en las 
+vías aéreas superiores por comportamiento de choque.
+Fracción de sílice cristalina respirable
+Es la proporción de sílice que se encuentra en el polvo respirable. Su canti­
+dad es variable en función de los diferentes materiales naturales y artificiales.
+La dosis acumulada de sílice es el mayor factor de riesgo de desarrollo 
+de la enfermedad. Se calcula según la siguiente fórmula: 
+Dosis acumulada de sílice = concentración de polvo respirable en mg/m3
+x porcentaje de sílice libre x nº de años de exposición.
+Además de la intensidad de la exposición, influyen en la probabilidad 
+de enfermar las características propias del trabajo desempeñado, las eleva­
+das concentraciones de sílice seca y recién fracturada en el polvo, que lo 
+hacen más nocivo11, y la presencia de otros minerales de diferente capacidad 
+fibrogénica.
+2.2. Fuentes de exposición
+Aunque el SiO2 es un contaminante habitual del aire, la exposición manteni­
+da con efecto patógeno se produce, de forma casi exclusiva, por aerosoles de 
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+19
+polvo que se producen en el ámbito laboral. La exposición a polvo con sílice 
+pura es poco frecuente, pero debido a la gran abundancia de este mineral en 
+la corteza terrestre, no es raro que se encuentre presente en el polvo gene­
+rado en múltiples actividades industriales, junto a otros minerales distintos.
+Cabe señalar como más frecuentes (listado del Real Decreto 1299/2006): 
+•	 Trabajos en minas, túneles, canteras, galerías, obras públicas.
+•	 Tallado y pulido de rocas silíceas, trabajos de canterías.
+•	 Trabajos en seco, de trituración, tamizado y manipulación de mine­
+rales o rocas.
+•	 Fabricación de carborundo, vidrio, porcelana, loza y otros productos 
+cerámicos, fabricación y conservación de los ladrillos refractarios a 
+base de sílice.
+•	 Fabricación y manutención de abrasivos y de polvos detergentes.
+•	 Trabajos de desmoldeo, desbarbado y desarenado en las fundiciones.
+•	 Trabajos con muelas (pulido, afinado) que contengan sílice libre.
+•	 Trabajos en chorro de arena y esmeril.
+•	 Industria cerámica.
+•	 Industria siderometalúrgica.
+•	 Fabricación de refractarios.
+•	 Fabricación de abrasivos.
+•	 Industria del papel.
+•	 Fabricación de pinturas, plásticos y gomas 
+Es obligado destacar el elevado riesgo en la manipulación de materia­
+les elaborados con compactos artificiales de cuarzo12,13.
+2.3. Factores del trabajador expuesto
+El depósito de las partículas de sílice en los pulmones, es el resultado del 
+balance entre la magnitud de la inhalación y los mecanismos de limpieza del 
+aparato respiratorio. 
+En el momento actual no es posible medir el polvo retenido en los al­
+véolos, por lo que hay que recurrir al cálculo del polvo respirable acumulado 
+como medida de exposición indirecta, despreciando la importante influencia 
+de la variabilidad entre los expuestos. 
+La anatomía laberíntica de las vías aéreas, el batido ciliar, la tos, la fa­
+gocitosis fundamentalmente por macrófagos y el arrastre venoso y linfático 
+son los mecanismos de depuración más importantes. Todos estos factores, 
+hacen que gran parte del polvo que penetra en el aparato respiratorio sea 
+eliminado. Si tenemos en cuenta que solo el polvo retenido en los pulmones 
+
+20
+SANIDAD
+es el que va a producir silicosis, la variabilidad interpersonal de la eficacia de 
+estos mecanismos de limpieza permite entender, al menos en parte, por qué 
+trabajadores con la misma exposición desarrollan diferente respuesta. Otro 
+factor a tener en cuenta puede ser la magnitud de respuesta fibrogénica a la 
+inhalación de sílice de la que, aunque se conoce su variabilidad individual, 
+por el momento no se dispone de marcadores que permitan identificar a las 
+personas especialmente susceptibles14. 
+2.4. Mecanismos de acción 
+Los modelos patogénicos experimentales muestran que las partículas de sí­
+lice que llegan a las porciones distales de vías aéreas, se depositan como un 
+manguito peribronquiolar y en los alvéolos. Como mecanismo de defensa 
+ante esta agresión, los macrófagos alveolares van a fagocitar estas partículas 
+con daño y rotura de los lisosomas. La posterior generación de radicales 
+oxidantes y la liberación de IL-1 β por los macrófagos va a activar el sistema 
+innato de respuesta inmune o inflamasoma NLRP3. La activación del siste­
+ma NLRP3 inicia el desarrollo de fibrosis pulmonar15,16.
+2.5. Efectos sobre la salud 
+El principal efecto patógeno de la inhalación mantenida de sílice es el desa­
+rrollo de silicosis17,18.
+Con un efecto más débil, también es un factor de riesgo para el desa­
+rrollo de cáncer de pulmón17,19, descenso acelerado de la función pulmonar 
+y enfermedad pulmonar obstructiva crónica17,20, tuberculosis17,21, otras mico­
+bacteriosis, algunas colagenosis17, 22 y enfermedad renal crónica17.
+2.6. Formas clínicas y diagnóstico de la silicosis 
+2.6.1. Formas clínicas de la silicosis
+a) Silicosis crónica clásica
+Es la forma más frecuente. En general aparece tras 10-15 años de exposi­
+ción. Adopta dos variantes: la silicosis crónica simple y la silicosis crónica 
+complicada. 
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+21
+La sintomatología es muy variable: las formas simples son habitual­
+mente asintomáticas, mientras que las complicadas suelen cursar con disnea 
+y tos. En los casos más graves se puede desarrollar insuficiencia respiratoria 
+y cor pulmonale crónico.
+La manifestación radiológica clásica de la silicosis simple es un patrón 
+nodular difuso y bilateral (opacidades nodulares ≤ 10 mm), con mayor afec­
+tación de los lóbulos superiores y de las zonas posteriores del pulmón. La 
+de las formas complicadas viene dada por la conglomeración nodular con 
+formación de masas de tamaño superior a 10 mm denominadas masas de fi­
+brosis masiva progresiva (FMP), que pueden producir retracción-distorsión 
+del parénquima y enfisema cicatricial23.
+Desde la forma simple puede haber una progresión a silicosis com­
+plicada. Este proceso es consecuencia de una compleja interacción entre la 
+intensidad y la susceptibilidad genética del sujeto expuesto. Los factores de 
+riesgos conocidos hasta el momento para dicha progresión son: la profusión 
+del patrón nodular, la concurrencia de tuberculosis pulmonar y de algunas 
+enfermedades del colágeno (artritis reumatoide y esclerodermia).
+La lesión histológica típica de la silicosis viene dada por la presencia de 
+nódulos con fibrosis hialina en capas concéntricas y macrófagos cargados de 
+polvo. Las masas conglomeradas están constituidas por un estroma fibroso con 
+un contenido acelular, amorfo, rico en mucopolisacáridos y material inorgánico.
+La afectación del parénquima puede acompañarse de ganglios medias­
+tínicos e hiliares aumentados de tamaño, parcialmente calcificados con pre­
+sencia de nódulos hialinos en su interior20. Es preciso tener presente que este 
+hallazgo no es diagnóstico de silicosis.
+b) Fibrosis pulmonar intersticial
+También denominada fibrosis difusa asociada a polvo inorgánico. El síntoma 
+principal es la disnea y su presentación radiológica es muy similar a la fibro­
+sis pulmonar idiopática, aunque su supervivencia se estima que podría ser 
+mayor que en esta última. Esta forma de presentación se observa con más 
+frecuencia en trabajadores expuestos a polvo mixto24.
+c) Silicosis acelerada
+Es similar a la silicosis crónica pero a diferencia de ésta, se presenta tras 
+períodos de exposición más cortos: entre 5-10 años. Suelen ser rápidamente 
+progresiva evolucionando en corto espacio de tiempo de la forma simple a 
+la complicada. 
+Se relaciona con exposiciones intensas así como con la concurrencia de 
+otras enfermedades (tuberculosis y enfermedades del colágeno). 
+
+22
+SANIDAD
+d) Silicosis aguda o silicoproteinosis 
+Es una entidad descrita por primera vez en 195825 muy diferente a la silicosis 
+crónica, que se presenta tras periodos de exposición muy cortos (de 6 me­
+ses a 5 años) y suele estar inducida por exposiciones masivas. Se manifiesta 
+con disnea intensa, afectación del estado general e insuficiencia respiratoria, 
+pudiendo llegar al distrés respiratorio y fallecimiento del paciente. Radioló­
+gicamente remeda a la proteinosis alveolar, con condensaciones bilaterales 
+perihiliares y en la tomografía computarizada de alta resolución (TCAR) 
+muestra un patrón difuso en vidrio deslustrado y/o consolidaciones del espa­
+cio aéreo. En la actualidad, gracias a las medidas de prevención implantadas 
+en la mayoría de los países industrializados, se da con escasa frecuencia.
+Tabla 1: Formas clínicas de la silicosis
+Forma clínica
+Tiempo 
+exposición
+Radiología
+Síntomas
+Función pulmonar
+Crónica simple
+>10 años
+Nódulos ≤ 10mm
+Ninguno
+Normal
+Crónica 
+>10 años
+Masas > 10mm
+Disnea, tos
+Alteración obstructiva o 
+complicada
+restrictiva de gravedad 
+variable
+Fibrosis 
+>10 años
+Patrón retículo-
+Disnea, tos
+Alteración restrictiva con 
+pulmonar 
+nodular difuso
+descenso en la capacidad 
+intersticial
+de difusión
+Acelerada
+5-10 años
+Nódulos y 
+Disnea, tos
+Deterioro rápido de la 
+masas de rápida 
+función pulmonar (FVC y 
+progresión
+FEV )
+1
+Aguda
+<5 años
+Patrón acinar 
+Disnea
+Alteración generalmente 
+bilateral similar 
+restrictiva con descenso 
+a proteinosis 
+en la capacidad de 
+alveolar
+difusión
+2.6.2. Diagnóstico de la silicosis
+Se fundamenta en los siguientes criterios26: 
+•	 Historia laboral de exposición a inhalación de sílice con plausibili­
+dad biológica.
+•	 Hallazgos radiológicos consistentes con silicosis (radiografía de tórax 
+con profusiones iguales o superiores a 1/1 de la lectura ILO 2011)27. 
+•	 Exclusión de otras causas alternativas. 
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+23
+Para emitir un diagnóstico de silicosis suele ser suficiente con la historia 
+clínico-laboral, exploración física, estudios radiológicos de tórax y pruebas de 
+función pulmonar. En determinados casos, de presentaciones atípicas, puede 
+ser necesario recurrir a procedimientos invasivos (biopsia transbronquial o 
+quirúrgica) para obtener tejido pulmonar para examen anatomo-patológico 
+y mineralógico, y así alcanzar la suficiente certeza diagnostica28.
+Los criterios radiológicos diagnósticos de silicosis se fundamentan en 
+estudios de cohortes en los que la herramienta diagnóstica empleada era 
+la radiografía de tórax. Estos estudios evaluaban la correlación de la Rx de 
+tórax con los hallazgos anatomo-patológicos. No se dispone de estudios si­
+milares con respecto a la TCAR, por lo que no se recomienda su uso como 
+herramienta diagnóstica de primera línea. Además se ha de tener presente 
+que esta técnica produce una radiación superior a la Rx de tórax29 y puede 
+proporcionar hallazgos (por ejemplo opacidades de baja profusión) cuya 
+relevancia patológica es desconocida, pudiendo generar incertidumbres sin 
+lograr un diagnóstico de certeza. La indicación de la TCAR debe ponderar 
+todas estas cuestiones y únicamente se hará cuando la información que se 
+espera de la misma sea relevante para el caso concreto que se evalúa, tenien­
+do en cuenta el riesgo laboral (exposición), la naturaleza acumulativa de la 
+radiación y las alteraciones observadas en la radiografía de tórax.
+Estudios comparativos entre TCAR y radiografía de tórax han demos­
+trado una mayor sensibilidad y especificidad de la primera para evaluar en­
+fermedad intersticial y en concreto las neumoconiosis30,31. Sin embargo, la 
+falta de una estandarización clara de su lectura y la posibilidad de aumentar 
+los falsos positivos en el proceso diagnóstico hacen que no sea una explora­
+ción recomendable para el cribado de silicosis.
+2.7. Prevención
+2.7.1. Prevención primaria 
+Consiste en mantener los niveles de polvo respirable dentro de los límites 
+que marca la legislación. No obstante, toda reducción en la exposición dis­
+minuirá el riesgo de enfermedad.
+2.7.2. Prevención secundaria 
+Tiene como objetivo principal identificar la enfermedad en sus fases preco­
+ces y establecer una especial vigilancia sobre los trabajadores afectos. Una 
+
+24
+SANIDAD
+vez efectuado un diagnóstico de silicosis es necesario evitar la exposición a 
+inhalación de sílice para frenar la progresión de la enfermedad32.
+El tabaco parece actuar de forma sinérgica con la sílice para producir 
+bronquitis crónica y descenso acelerado de la función pulmonar. Estos datos 
+junto con su efecto carcinógeno, hacen que dentro del protocolo del examen 
+de salud el consejo para la deshabituación ocupe un lugar preeminente33,34. 
+Cuando en una empresa se diagnostique un caso de silicosis se deben 
+buscar activamente casos adicionales.
+2.7.3. Prevención terciaria
+Pretende evitar la progresión de la enfermedad ya establecida y el diagnósti­
+co y tratamiento de sus complicaciones. El riesgo de desarrollar tuberculosis 
+en trabajadores con exposición a sílice, aun sin silicosis, es mayor que en la 
+población general, y entre los pacientes con silicosis aumenta de manera 
+proporcional a la gravedad de la enfermedad. Además la aparición de tuber­
+culosis incrementa el riesgo de progresión de la silicosis. 
+También se ha observado que la silicosis constituye un factor de riesgo 
+para que la infección tuberculosa latente evolucione hacia la enfermedad 
+tuberculosa activa. Por todo ello en los pacientes con silicosis se recomien­
+da realizar cribado periódico de infección tuberculosa latente y en su caso 
+tratamiento, el cual al igual que el de la enfermedad tuberculosa, no tiene 
+especificaciones diferentes a las pautas habituales.
+El defecto ventilatorio obstructivo es una circunstancia muy frecuente 
+en los casos de silicosis complicada. El tratamiento, incluyendo las formas 
+en que se acompaña de insuficiencia respiratoria, es similar al recomendado 
+para el paciente con EPOC35.
+Los pacientes con silicosis, como portadores de una enfermedad res­
+piratoria crónica, deben de ser vacunados contra el streptococcus pneumo­
+niae36 y anualmente contra la gripe37. 
+La exposición a sílice aumenta el riesgo de cáncer de pulmón38. Esta 
+asociación es más evidente en el caso de las personas que padecen o que 
+desarrollan silicosis39. A día de hoy no existen técnicas con un coste-benefi­
+cio asumible que, en el caso de las personas expuestas a sílice, permitan su 
+detección precoz40.
+El trasplante pulmonar podría ser una alternativa en los casos graves 
+de silicosis. Los estudios disponibles muestran una supervivencia similar a la 
+de pacientes con EPOC u otras enfermedades intersticiales difusas41.
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+25
+3. Evaluación del riesgo
+La Ley 31/95 de Prevención de Riesgos Laborales y su normativa de desa­
+rrollo establecen que el empresario deberá realizar una evaluación inicial 
+de los riesgos, teniendo en cuenta la presencia de sustancias, preparados y 
+agentes químicos peligrosos presentes en los puestos de trabajo. La evalua­
+ción será actualizada cuando cambien las condiciones de trabajo, o cuando 
+existan daños en la salud de los trabajadores.
+La evaluación se realizará en base a lo establecido en la normativa espe­
+cífica vigente que sea de aplicación a todos aquellos trabajadores que durante 
+su jornada laboral vayan a estar expuestos, estén expuestos o hayan tenido 
+exposición a inhalación de polvo con contenido en sílice, siguiendo lo esti­
+pulado por la “Guía para la evaluación y prevención de los riesgos presentes 
+en los lugares de trabajo relacionados con agentes químicos” del Instituto 
+Nacional de Seguridad y Salud en el Trabajo http://www.insst.es/InshtWeb/
+Contenidos/Normativa/GuiasTecnicas/Ficheros/g_AQ.pdf, así como en la 
+“Guía para el control del riesgo por exposición a sílice cristalina respirable” 
+elaborado por Instituto Nacional de Silicosis http://www.ins.es/guia/guia_pdf.
+php, u otras guías de instituciones competentes o entidades de reconocido 
+prestigio en la materia.
+
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+27
+4. Protocolo médico específico
+El protocolo médico específico de vigilancia de la salud está dirigido a los pro­
+fesionales sanitarios que llevan a cabo la vigilancia de la salud de los trabaja­
+dores. Se aplicará a todos aquellos trabajadores que durante su jornada laboral 
+vayan a estar expuestos, estén expuestos o hayan tenido exposición a inhala­
+ción de polvo con contenido en sílice cristalina con los siguientes objetivos: 
+•	 Prevenir los posibles efectos nocivos sobre la salud
+•	 Detectar precozmente la silicosis
+•	 Proteger la salud de aquellos que padezcan alguna enfermedad res­
+piratoria crónica.
+Consta de 2 partes:
+•	 Vigilancia individual de la salud
+•	 Vigilancia colectiva de la salud
+4.1. Vigilancia individual de la salud
+4.1.1. Contenido
+Se comprobará que la Historia Clínico-Laboral de cada trabajador recoja el 
+contenido establecido en el artículo 37.3.c. del Real Decreto 39/1997, por el 
+que se aprueba el Reglamento de los Servicios de Prevención.
+•	 Historia laboral: Se debe de interrogar y consignar acerca de:
+–– Tiempo de exposición
+–– Tipo de exposición: agentes y forma de manipulación
+–– Medidas de prevención y protección adoptadas
+	
+Los datos se referirán tanto al puesto actual como a puestos ocupa­
+dos en el pasado.
+	
+Se dejará constancia de los resultados de las mediciones de polvo, 
+reflejando: fecha de la medición, concentración de la fracción res­
+pirable de polvo, concentración de sílice libre cristalina contenida 
+en la fracción respirable de polvo. Se añadirá la concentración de 
+cristobalita y tridimita, si se han determinado.
+
+28
+SANIDAD
+	
+Se propone para ello la utilización de registros en los que se recoja, 
+al menos, la siguiente información: 
+–– Empresa (razón social/actividad)
+–– Sector (cantera, fundición, taller de elaboración de piedra, etc.)
+–– Puesto de trabajo
+–– Tiempo (meses-años)
+–– Materia prima (arenisca, caliza, pizarra, granito, etc.)
+–– Niveles de exposición de polvo (sílice cristalina respirable en mg/m3)
+–– Fechas de medición y resultados
+–– Sistemas de prevención y protección
+•	 Historia clínica
+–– Antecedentes personales
+-	 Antecedentes patológicos: 
+	
+Con especial atención a las enfermedades pulmonares padeci­
+das y a aquellas que puedan suponer un diagnóstico diferencial 
+con la silicosis: otras neumoconiosis, tuberculosis, enfermeda­
+des pulmonares intersticiales difusas (con especial atención a 
+la sarcoidosis, neumopatías por tabaco, fibrosis pulmonar in­
+tersticial) y cáncer de pulmón.
+-	 Hábitos tóxicos: 
+	
+Con especial atención al tabaquismo, recogiendo de forma 
+cuantificada el consumo de tabaco acumulado en índice pa­
+quetes-años [(nº de cigarrillos al día x años fumando) / 20] y 
+nivel de dependencia42. 
+–– Historia actual: Se llevará a cabo una anamnesis dirigida en rela­
+ción con los síntomas de la silicosis y otras neumopatías, así como 
+de los factores de riesgo para la silicosis.
+	
+La recogida de síntomas se realizará utilizando cuestionarios es­
+tandarizados43 (ver anexo II).
+–– Exploración física: Debe incluir, al menos:
+	
+Auscultación cardiopulmonar. 
+–– Pruebas de imagen
+	
+Radiografía de tórax en proyecciones P-A y lateral, realizadas y leí­
+das por expertos, siguiendo la normativa ILO 2011 (ver anexo III).
+–– Pruebas de función pulmonar
+	
+Espirometría, realizada e interpretada según las recomendacio­
+nes de la SEPAR44 (ver anexo III).
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+29
+–– Trabajadores incluidos en la ORDEN ITC/2585/2007
+	
+Se añadirá la realización de un electrocardiograma.
+	
+Además, podrán realizarse otras exploraciones o estudios, que a jui­
+cio del médico del trabajo se estimen convenientes y estén justifica­
+dos por las circunstancias concretas de exposición o de salud de cada 
+trabajador.
+4.1.2. Periodicidad 
+	
+•	 Examen de salud inicial
+–– Se efectuará después de la incorporación al trabajo o después de 
+la asignación de tareas específicas con riesgo derivado de la ex­
+posición a sílice.
+–– En el examen inicial se realizarán los estudios incluidos en el 
+apartado 4.1.1. 
+•	 Exámenes periódicos de salud
+	
+Con carácter general los exámenes de salud se realizarán anualmen­
+te con el contenido del apartado 4.1.1, excepto en lo correspondiente 
+a la exploración radiológica, que se realizará en los siguientes su­
+puestos y con las periodicidades que a continuación se señalan:
+–– Exploración radiológica
+-	 Trabajadores de empresas sujetas al Reglamento General de 
+Normas Básicas de Seguridad Minera (RBNBSM), en función 
+del contenido de sílice de la materia prima o situación concreta:
+Contenido de sílice de la materia prima
+o situación concreta
+Periodicidad
+Contenido de sílice libre menor de 15%
+Trienal
+Contenido de sílice libre mayor de 15%
+Anual
+Minería interior del carbón
+Primeros 10 años: trienal
+A partir de 10 años: anual
+Minería interior no carbonífera
+Anual
+-	 Trabajadores de empresas que no estén sujetas al Reglamento 
+General de Normas Básicas de Seguridad Minera:
+
+30
+SANIDAD
+Exposición 
+actual*
+Exposición 
+anterior*
+Duración de la exposición
+Seguimiento 
+periódico
+Conformidad
+Aceptable
+Años de exposición total <10 años
+Trienal
+Años de exposición total > 10 años 
+y < 20 años
+Bienal
+> 20 años de exposición total
+Anual
+No aceptable
+Anual
+No 
+conformidad 
+Anual
+* Ver: - Anexo I: criterios para interpretación de resultados de la evaluación de la exposición.
+-	 En los siguientes casos, el seguimiento periódico será anual:
+Seguimiento periódico anual
+Trabajadores diagnosticados de neumoconiosis simple
+Sospecha de sobreexposición
+Trabajadores que manipulan aglomerados de cuarzo, por su elevado contenido en sílice 
+cristalina y haberse detectado cuadros de silicosis en periodos breves de tiempo.
+	
+Cuando el médico del Trabajo, en atención a las circunstancias 
+concretas de la exposición o de la salud del trabajador lo con­
+sidere conveniente, los estudios radiológicos podrán realizar­
+se con una frecuencia superior a lo establecido en el presente 
+protocolo.
+•	 Tras una ausencia prolongada por motivos de salud
+	
+Tiene la finalidad de descubrir los eventuales orígenes profesionales 
+de la ausencia y recomendar una acción apropiada para proteger a 
+los trabajadores.
+•	 Postocupacional
+	
+La silicosis puede aparecer o evolucionar una vez cesada la exposi­
+ción, por lo que se recomienda continuar los controles médicos:
+–– Por parte de la empresa mientras el trabajador continúe en ella y 
+no se desvincule de la misma (por cese de la relación contractual 
+con la empresa o por jubilación).
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+31
+–– En servicios especializados de neumología del Sistema Nacional 
+de Salud cuando se haya producido tal desvinculación.
+4.2. Vigilancia colectiva de la salud
+La vigilancia colectiva o epidemiológica tiene como finalidad analizar las 
+relaciones existentes entre el estado de salud del conjunto de trabajadores y 
+sus condiciones de trabajo45.
+Los resultados de la vigilancia de la salud colectiva complementarán la 
+evaluación higiénica y deberán ser tenidos en cuenta por el servicio de pre­
+vención para gestionar adecuadamente la prevención de riesgos laborales.
+Dependiendo del objetivo que se persiga, el análisis de la vigilancia 
+colectiva puede circunscribirse a una única empresa o ampliarse a una agru­
+pación de diferentes empresas con riesgos similares.
+La utilización de indicadores facilitará el análisis e interpretación de la 
+evolución epidemiológica de los colectivos laborales vigilados (comparación 
+entre grupos con diferente exposición, comparación entre diferentes perio­
+dos, comprobación de la efectividad de las diferentes medidas preventivas 
+aplicadas, etc.).
+Con independencia del nivel de análisis que se realice, siempre se de­
+berá tener en cuenta la perspectiva de género, de forma que se puedan po­
+ner de manifiesto patrones diferenciales entre hombres y mujeres46.
+Los objetivos de la vigilancia colectiva en una población laboral ex­
+puesta a sílice son:
+•	 Conocer la frecuencia y la distribución de los problemas de salud 
+relacionados con la exposición a la sílice libre cristalina.
+•	 Conocer la frecuencia y la distribución de las condiciones de exposi­
+ción a la sílice libre cristalina.
+•	 Conocer la tendencia que siguen en el tiempo los efectos para la 
+salud y las condiciones de la exposición a sílice.
+•	 Detectar situaciones de agregados inesperados de casos.
+•	 Aportar información para proponer actividades preventivas colec­
+tivas que reduzcan o minimicen los riesgos y eviten la aparición de 
+daños en la salud.
+•	 Evaluar la efectividad de las medidas preventivas colectivas e indivi­
+duales puestas en marcha en dicha población laboral.
+
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+33
+5. Criterios para el médico
+del trabajo
+5.1. Criterios de valoración de silicosis
+El diagnóstico de silicosis se fundamenta en los siguientes criterios:
+•	 Historia laboral de exposición a sílice con plausibilidad biológica
+•	 Hallazgos radiológicos consistentes con silicosis: Rx de tórax con 
+profusiones iguales o superiores a 1/1 de la lectura ILO 2011
+•	 Exclusión de otras causas
+5.2. Criterios de valoración de la radiología
+de tórax (ver anexo III)
+La interpretación de los hallazgos radiológicos se realizará siguiendo una 
+lectura estandarizada según la Guía para el uso de la clasificación interna­
+cional de la OIT, en su edición revisada de 2011 (ILO 2011), que se efectuará 
+por una persona entrenada en su lectura.
+5.3. Criterios de valoración de la espirometría 
+(ver anexo III)
+La ejecución e interpretación de la espirometría se realizará según las reco­
+mendaciones de la SEPAR. Esta interpretación nos proporcionará patrones 
+ventilatorios normales, obstructivos, alteraciones no obstructivas o la coexis­
+tencia de ambas alteraciones.
+
+34
+SANIDAD
+5.4. Criterios para la comunicación de 
+las conclusiones que se deriven de la 
+vigilancia de la salud de los trabajadores 
+5.4.1. Informe de recomendaciones preventivas
+Las conclusiones sobre los resultados de la vigilancia de la salud, desde una 
+perspectiva de prevención de riesgos laborales, deben ser comunicadas al 
+empresario y a las personas u órganos con responsabilidades en materia de 
+prevención en forma de recomendaciones preventivas, al objeto de que pue­
+dan ejercer las funciones que tienen encomendadas.
+5.4.2. Criterios de valoración de la aptitud para el 
+trabajo
+Cuando sea necesario, el médico del trabajo informará al trabajador, al em­
+presario y personas u órganos con responsabilidades en materia de preven­
+ción mediante un informe de aptitud. 
+Este dictamen será fruto del reconocimiento médico realizado. A con­
+tinuación se propone una clasificación de los hallazgos del examen de salud 
+para facilitar el proceso de toma de decisión en la emisión de conclusiones 
+sobre la aptitud.
+GRUPO 1 
+Cumple el siguiente criterio:
+     –  No patología crónica respiratoria 
+CRITERIO DE APTITUD: APTO
+GRUPO 2 
+Cumple el siguiente criterio:
+     –  Patología respiratoria no neumoconiótica crónica leve bien controlada
+VALORAR:
+     –  Factores laborales (requerimientos físicos y/o niveles ambientales de polvo 
+neumoconiótico)
+     –  Factores extralaborales (especialmente consumo de tabaco)
+CRITERIO DE APTITUD: APTO
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+35
+GRUPO 3 
+Cumple, al menos, uno de los siguientes criterios:
+     –  Patología respiratoria no neumoconiótica crónica leve bien controlada
+     –  Disminución acelerada de parámetros espirométricos (especialmente de FEV1)
+     –  Rx: hallazgos pulmonares de probable significado patológico, entre otros, profusiones 
+0/1, 1/0 de la clasificación ILO
+VALORAR:
+     –  En cada caso, la necesidad de completar la información con estudios complementarios 
+(pruebas de imagen, funcionales…) y/o informes de otras especialidades, distintas a la 
+de medicina de trabajo, con la finalidad de tener el diagnóstico de máxima certeza.
+     –  Factores laborales (requerimientos físicos y/o niveles ambientales de polvo)
+     –  Factores extralaborales (especialmente consumo de tabaco y requerimientos 
+terapéuticos) 
+CRITERIO DE APTITUD: 
+     –  Trabajador especialmente sensible (TES) SIN LIMITACIÓN, si la condición laboral no 
+influye
+     –  Trabajador especialmente sensible (TES) CON LIMITACIÓN, si la condición laboral 
+influye, especificando las condiciones en las que debe realizar el trabajo
+GRUPO 4  
+     –  Silicosis simple
+VALORAR:
+     –  Factores extralaborales (especialmente consumo de tabaco y requerimientos terapéuticos) 
+     –  Factores laborales (requerimientos físicos y/o niveles ambientales de polvo con 
+contenido en sílice)
+CRITERIO DE APTITUD: 
+     –  Trabajador especialmente sensible (TES) para riesgos respiratorios
+CRITERIO DE ACTUACIÓN: 
+     –  Debe ocupar un puesto exento de exposición a inhalación de sílice
+     –  Especificar qué otras condiciones se indican para que pueda realizar el trabajo
+     –  En el caso de que no exista en la empresa un puesto exento de riesgo de exposición 
+a inhalación de sílice de la categoría profesional del trabajador, orientar hacia trámite 
+de INCAPACIDAD PERMANENTE
+GRUPO 5
+Cumple, al menos, uno de los siguientes criterios:
+     –  Silicosis complicada
+     –  Enfermedad respiratoria grave  
+CRITERIO DE APTITUD: NO APTO
+CRITERIO DE ACTUACIÓN: Orientar hacia trámite de INCAPACIDAD PERMANENTE
+
+36
+SANIDAD
+Para los trabajadores incluidos en la ORDEN ITC/2585/2007, se apli­
+carán las causas de inaptitud establecidas en la misma.
+5.4.3. Informe de recomendaciones preventivas para 
+el trabajador
+•	 El médico responsable de la vigilancia de la salud informará al tra­
+bajador sobre su exposición a sílice cristalina, los riesgos derivados 
+de esta exposición, las medidas de prevención que se le recomiendan 
+y la importancia de su correcta utilización.
+•	 Caso de confirmarse la existencia de consumo de tabaco, se propor­
+cionará consejo antitabáquico y se recomendará la abstinencia de su 
+consumo.
+5.5. Conducta a seguir en el caso de que el 
+médico del trabajo sospeche encontrarse 
+ante un caso de silicosis
+•	 Procederá a comunicar la sospecha de enfermedad profesional tal y 
+como establece el artículo 5 del Real Decreto 1299/2006, de 10 de 
+noviembre, por el que se aprueba el cuadro de enfermedades profe­
+sionales en el sistema de la Seguridad Social y se establecen criterios 
+para su notificación y registro, al órgano competente en cada Comu­
+nidad Autónoma. Este órgano lo comunicará a su vez a la entidad 
+gestora a los efectos de su calificación como enfermedad profesional 
+y, en su caso, a la entidad colaboradora de la Seguridad Social que 
+asuma la protección de las contingencias profesionales.
+•	 Comunicará a la empresa la tramitación de un caso de sospecha de 
+enfermedad profesional ante el organismo competente de la comu­
+nidad autónoma y le informará de la necesidad de que el trabajador 
+sea remitido a la entidad colaboradora de la Seguridad Social para 
+confirmación diagnóstica.
+•	 Informará al trabajador de los trámites realizados ante la empresa.
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+37
+5.6. Conducta a seguir en el caso
+de diagnóstico de silicosis 
+Cuando un trabajador sea diagnosticado de silicosis, la primera recomen­
+dación es la interrupción de su exposición laboral a sílice y, en función del 
+grado de afectación, el médico del trabajo emitirá un informe de aptitud, 
+pudiendo utilizar para ello los criterios de valoración recogidos en aparta­
+dos anteriores.
+En el caso de la silicosis simple:
+•	 El trabajador deberá ocupar un puesto exento de exposición a polvo 
+con contenido en sílice.
+•	 En caso de exposición a polvo ambiental inerte, los niveles ambien­
+tales deberán calificarse como aceptables y se indicará el uso de los 
+EPIs correspondientes.
+•	 Se realizarán mediciones ambientales periódicas cuando se conside­
+re necesario para verificar la situación.
+•	 En caso de no existencia de puesto exento de riesgo, el trabajador 
+deberá ser remitido por la empresa a la entidad colaboradora de la 
+Seguridad Social que corresponda para iniciar los trámites de reco­
+nocimiento de incapacidad permanente.
+•	 El médico del trabajo informará al empresario y a las personas u ór­
+ganos con responsabilidades en materia de prevención sobre cual­
+quier medida que considere necesaria para eliminar o reducir el ries­
+go del resto de trabajadores, en función del nivel de exposición al 
+que puedan hallarse sometidos y de los resultados obtenidos en la 
+vigilancia de la salud, tanto individual como colectiva, de los mismos.
+•	 Cuando en una empresa se diagnostique un caso de silicosis se de­
+ben buscar activamente casos adicionales.
+•	 Se recomendará a los pacientes con silicosis la vacunación contra 
+Streptococcus pneumoniae y anualmente contra la gripe, como por­
+tadores de enfermedad respiratoria crónica. 
+•	 Se recomendará a los pacientes con silicosis la realización de cribado 
+para evaluar la presencia de infección tuberculosa latente. En caso 
+necesario, se derivará al trabajador a la entidad colaboradora de la 
+Seguridad Social que asuma la protección de las contingencias pro­
+fesionales para que reciba tratamiento de la infección y enfermedad 
+tuberculosa según pautas habituales. 
+
+38
+SANIDAD
+5.7. Documentación
+Se debe disponer de una lista actualizada de los trabajadores expuestos a 
+sílice, anotando de forma cronológica la profesión y puesto de trabajo, los 
+niveles de exposición y tiempos de permanencia en los que ha tenido lugar 
+dicha exposición y los sistemas de prevención y protección que se han pues­
+to a disposición de los mismos.
+El Real Decreto 257/2018, de 4 de mayo, que modifica el Real Decreto 
+1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfer­
+medades profesionales en el sistema de la Seguridad Social y se establecen 
+criterios para su notificación y registro, incluye entre las enfermedades pro­
+fesionales causadas por agentes carcinógenos al cáncer de pulmón causado 
+por la exposición al polvo de sílice libre.
+La Directiva (UE) 2017/2398 del Parlamento Europeo y del Consejo 
+de 12 de diciembre de 2017 por la que se modifica la Directiva 2004/37/CE 
+relativa a la protección de los trabajadores contra los riesgos relacionados 
+con la exposición a agentes carcinógenos o mutágenos durante el trabajo, 
+establece que para el 17 de enero de 2020 los Estados miembros pondrán en 
+vigor las disposiciones legales, reglamentarias y administrativas necesarias 
+para dar cumplimiento a lo establecido en dicha Directiva, y, en concreto, 
+indica que se añadirá el siguiente punto en el anexo I: 
+«6. Trabajos que supongan exposición al polvo respirable de sílice cristalina 
+generado en un proceso de trabajo».
+A la vista de todo ello, se deben conservar los historiales médicos in­
+dividuales durante un plazo de 40 años después de terminada la exposición, 
+del mismo modo que se debe conservar la documentación sobre los resulta­
+dos de la evaluación de riesgos, así como los criterios y procedimientos de 
+evaluación, medición, análisis o ensayo utilizados, tal y como se establece 
+para el resto de agentes cancerígenos.
+Cuando un trabajador se desvincule de la empresa, por cese de relación 
+contractual con la misma o por jubilación, se le debe de proporcionar informa­
+ción sobre las razones que hacen recomendable la vigilancia postocupacional: 
+•	 Se le informará de los riesgos para la salud derivados de la exposición 
+a la sílice libre cristalina y de las patologías que eventualmente puede 
+llegar a sufrir, incluso después de dejar de estar expuesto a la misma. 
+•	 Se le informará también de las pruebas médicas a las que eventual­
+mente será sometido y de los beneficios que se espera obtener de 
+ellas tanto en el plano médico como en el social. 
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+39
+•	 Junto con esta información se le facilitará un informe que incluya 
+una descripción detallada de los puestos de trabajo desempeñados, 
+el tiempo de permanencia en los mismos, los riesgos detectados en 
+el análisis de las condiciones de trabajo, la dosis de SiO2 a las que ha 
+estado expuesto, las medidas de prevención individuales adoptadas, 
+así como la información médica relevante obtenida en los exámenes 
+de salud realizados.
+
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+41
+Bibliografía
+Cuervo VJ, Eguidazu JL, González A, Guzmán A, Hevia JR, Isidro I et al. Protocolo de vigilan­
+cia sanitaria específica para los/as trabajadores/as expuestos a silicosis y otras neumoconio­
+sis. Madrid: Ministerio de Sanidad y Consumo; 2001.
+Martínez González C. Cambios en el perfil de las enfermedades causadas por inhalación de 
+sílice Arch Bronconeumol. 2018;5:5-6
+Proceedings of the IV the International Pneumoconiosis Conference. Bucarest 1971. Apimon­
+dia Publishing House, pág. 787.
+Bradley B, Branley HM, Egan JJ, Greaves MS, Hansell DM, Harrison NK et al. Interstitial lung 
+disease guideline: the British Thoracic Society in collaboration with the Thoracic Society of 
+Australia and New Zealand and the Irish Thoracic Society. Thorax.2008 Sep; 63 Suppl 5:v1-58.
+Nagelschmidt G. The relation between lung dust and lung pathology in pneumoconiosis. Br J 
+Ind Med. 1960; 17:247-59.
+Verma DK, Ritchie AC, Muir DC. Dust content of lungs and its relationships to pathology, radio­
+logy and occupational exposure in Ontario hardrock miners Am J Ind Med. 2008;51:524-31.
+Ziskind M, Jones RN, Weill H. Silicosis. Am Rev Respir Dis 1976; 113:643-665.
+Diseases due to Free Silica Occupational Lung Disorders. Ed Parkes, W Raymond. Second Edi­
+tion. Butterworth & Co U.K. 1982.
+American Thoracic Society Committee of the Scientiﬁc Assembly on Environmental and Occu­
+pational Health. Adverse eﬀects of crystalline silica exposure. Am J Respir Crit Care Med 
+1997; 155: 761-68. 
+Meldrum M, Howden P. Cristalina silica: Variability in fibrogenic potency Ann Occup Hyg 
+2002;46(suppl 1):27-30.
+Suratt PM, Winn WC Jr, Brody AR, Bolton WK, Giles RD. Acute silicosis in tombstone sand­
+blasters Am Rev Respir Dis. 1977;115:521-9.
+Martínez C, Prieto A, García L, Quero A, González S, Casan P. Silicosis: a Disease with an Ac­
+tive Present. Arch Bronconeumol. 2010;46:97-100.
+Hoy RF, Baird T, Hammerschlag G, Hart D, Johnson AR, King P et al. Artificial stone-associated 
+silicosis: a rapidly emerging occupational lung disease. Occup Environ Med. 2018;75:3-5.
+Mossman BT, Churg A. Mechanism in the pathogenesis of asbestosis and silicosis. Am J Respir 
+Crit Care Med 1998;157:1666-80.
+Cassela SL, Eisenbarth SC, Iyerd SS, Sadlerd JJ, Colegioc OR, Tephlyg LA, et al. The Nalp3 
+inflammasome is essential for the development of silicosis PNAS 2008;105: 9035-904.
+Sayan M, Mossman BT. The NLRP3 inflammasome in pathogenic particle and fibre-associated 
+lung inflammation and diseases Particle and Fibre Toxicology 2016;13:51-66.
+National Institute for Occupational Safety and Health. Health Effects of Occupational Expo­
+sure to Respirable Crystaline Silica. Cincinnati, OH: Department of Health and Human 
+Services; 2002.
+Gibbs AR, Wagner JC. Diseases due to silica. In Pathology of Occupational Lung Diseases. Ed 
+Churg A and Green F. 1998 Igaku-Shoin NY.
+International Agency for Research on Cancer. IARC Monographs on the Evaluation of Carci­
+nogenic Risks to Humans (vol 100C): Silica dust, crystalline (quartz or crystobalite). Lyon: 
+IARC; 2012
+Oxman AD, Muir DC, Shannon HS, Stock SR, Hnizdo E, Lange HJ. Occupational dust exposu­
+re and chronic obstructive pulmonary disease. A systematic overview of the evidence. Am 
+Rev Respir Dis 1993; 148: 38-48.
+	
+Rees D, Murray J. Silica, silicosis and tuberculosis. Int J Tuberc Lung Dis. 2007;11:474-84
+Shtraichman O, Blanc PD, Ollech JE, Fridel L, Fuks L, Fireman E et al. Outbreak of autoimmu­
+ne disease in silicosis linked to artificial stone. Occup Med 2015; 65:444-50
+
+42
+SANIDAD
+Ooi CG, Arakawa H. Silicosis. En: Imaging of Occupational and Environmental Disorders of 
+the Chest. Ed: Gevenois PA, De Vuyst P. Springer-Berlin 2006:177-191.
+Thrumurthy SG, Kearney S, Sissons M, Haider Y. Diffuse interlobular septal thickening in a coal 
+miner. Thorax 2010;65:82-84.
+Rosen SH, Castleman B, Liebow AA. 1958. Pulmonary alveolar proteinosis. N Engl J Med 
+258:1125-1143.
+Fernández R, Martínez C, Quero A, Blanco JJ, Carazo L, Prieto A. Normativa SEPAR: Norma­
+tiva para el diagnóstico y seguimiento de la silicosis. Arch Bronconeumol. 2015;51:86-93.
+International Labour Office (ILO). Guidelines for the use of the ILO International Classifica­
+tion of Radiographs of Pneumoconioses. ILO Publications, International Labour Office, 
+Switzerland, rev.ed. 2011. [Fecha última consulta 10/07/2019]. Disponible en:
+	
+http://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---safework/documents/
+publication/wcms_168260.pdf
+Bango-Álvarez A, Ariza-Prota M, Torres-Rivas H, Fernández-Fernández L, Prieto A, Sánchez I, 
+Gil M, Pando-Sandoval A. Transbronchial cryobiopsy in interstitial lung disease: experien­
+ce in 106 cases-how to do it. ERJ Open Res. 2017:22;3.
+McCunney RJ, Li J. Radiation risks in lung cancer screening programs: a comparison with nu­
+clear industry workers and atomic bomb survivors Chest. 2014;145:618-24.
+Mosiewicz J, Myśliński W, Złomaniec G, Czabak-Garbacz R, Krupski W, Dzida G. Diagnostic 
+value of high resolution computed tomography in the assessment of nodular changes in 
+pneumoconiosis in foundry workers in Lublin. Ann Agric Environ Med 2004; 11: 279-84.
+Sun J, Weng D, Jin C, et al. The value of high resolution computed tomography in the diagnostics 
+of small opacities and complications of silicosis in mine machinery manufacturing workers, 
+compared to radiography. J Occup Health 2008; 50: 400-05.
+Cochrane AL, Moore F. A 20 year follow-up of men aged 55-64 including coalminers and foun­
+dry workers in Stately Derbyshire Br J Ind Med 1980;37-226-229.
+Weinmann S, Vollmer WM, Breen V, Heumann M, Hnizdo E, Villnave J, Doney B, Graziani M, 
+McBurnie MA, Buist AS COPD and occupational exposures: a case-control study. J Occup 
+Environ Med. 2008; 50:561-9.
+Kurihara N, Wada O. Silicosis and smoking strongly increase lung cancer risk in silica-exposed 
+workers.Ind Health. 2004; 42: 303-14.
+Vogelmeier CF, Criner GJ, Martínez FJ, Anzueto A, Barnes PJ, Bourbeau J et al. Global Strate­
+gy for the Diagnosis, Management, and Prevention of Chronic Obstructive Lung Disease 
+2017 Report: GOLD Executive Summary. Arch Bronconeumol. 2017;53:128-149.
+Grupo de Trabajo Vacunación frente a neumococo en GR 2015, de la Ponencia de Programas 
+y Registro de Vacunaciones. Vacunación frente a neumococo en grupos de riesgo. Ma­
+drid: Ministerio de Sanidad, Servicios Sociales e Igualdad; 2015. [Fecha última consulta 
+10/07/2019]. Disponible en:
+	
+http://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/
+Neumococo_Gruposriesgo.pdf
+Grupo de trabajo vacunación en población adulta y grupos de riesgo de la Ponencia de Pro­
+grama y Registro de Vacunaciones. Vacunación en población adulta. Comisión de Salud 
+Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, 
+Consumo y Bienestar Social, septiembre 2018. [Fecha última consulta 10/07/2019]. Dispo­
+nible en:
+	
+https://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/
+Vacunacion_poblacion_adulta.pdf
+Poinen-Rughooputh P, Rughooputh MS, Guo Y, Rong Y, Chen W Occupational exposure to si­
+lica dust and risk of lung cancer: an updated metaanalysis of epidemiological studies BMC 
+Public Health 2016; 16:1137.
+Liu Y, Steenland K, Rong Y, Hnizdo E, Huang X, Zhang H, Shi T, Sun Y, Wu T, Chen W. Exposu­
+re-response analysis and risk assessment for lung cancer in relationship to silica exposure: 
+a 44-year cohort study of 34,018 workers. Am J Epidemiol. 2013;178:1424-33.
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+43
+Oudkerk M, Devaraj A, Vliegenthart R, Henzler T, Prosch H, Heussel CP et al European posi­
+tion statement on lung cancer screening. Lancet Oncol. 2017;18:e754-e766.
+Singer JP, Chen H, Phelan T, Kukreja J, Goleen JA, Blanc P. Survival following lung transplanta­
+tion for silicosis and other occupational lung diseases. Occup Med. 2012;62:134-137.
+Fagerström K, Kunze M, Schoberberger R, Breslau N, Hughes J, Hurt R, et al. Nicotine de­
+pendence. Cross cultural comparisons in population surveys and cessation samples. Tob 
+Control. 1996;5:52-6.
+Fletcher CM. Standardised questionnaire on respiratory symptoms: a statement prepared and 
+approved by the MRC Committee on the Aetiology of Chronic Bronchitis (MRC brea­
+thlessness score). BMJ 1960; 2: 1662.
+García-Río F, Calle M, Burgos F, Casan P, del Campo F, Galdiz JB et al. Normativa SEPAR: 
+Espirometría. Arch Bronconeumol. 2013;49:388-401.
+Urbaneja F, Lijó A, Cabrerizo JI, Idiazabal J, Zubia AR, Padilla A. Vigilancia epidemiológica 
+en el trabajo: Guía para la implantación de la vigilancia colectiva por parte de los servicios 
+de prevención. Barakaldo: Osalan-Instituto Vasco de Seguridad y Salud Laborales; 2015 
+[Fecha última consulta 10/07/2019]. Disponible en:
+	
+http://www.osalan.euskadi.eus/libro/vigilancia-epidemiologica-en-el-trabajo-guia-pa­
+ra-la-implantacion-de-la-vigilancia-colectiva-por-parte-de-los-servicios-de-prevencion/
+s94-osa9996/es/adjuntos/guia_vigilancia_epidemiologica_2015.pdf
+Azpiroz A, Álvarez V, Carramiñana S, Lekue B, Padilla A, Pérez B, Robertson M. Pautas para la 
+integración de la perspectiva de género en la prevención de riesgos laborales. Barakaldo. 
+Osalan-Instituto Vasco de Seguridad y Salud Laborales; 2017. [Fecha de última consulta 
+10/07/19]. Disponible en:
+	
+http://www.osalan.euskadi.eus/contenidos/libro/gestion_201710/es_def/adjuntos/pautas_
+integracion_prl.pdf
+Normativa legal
+Directiva 2004/37/CE del Parlamento Europeo y del Consejo de 29 de abril de 2004 relativa a la 
+protección de los trabajadores contra los riesgos relacionados con la exposición a agentes 
+carcinógenos o mutágenos durante el trabajo (Sexta Directiva específica con arreglo al 
+apartado 1 del artículo 16 de la Directiva 89/391/CEE del Consejo).
+Directiva (UE) 2017/2398 del Parlamento Europeo y del Consejo de 12 de diciembre de 2017 
+por la que se modifica la Directiva 2004/37/CE relativa a la protección de los trabajadores 
+contra los riesgos relacionados con la exposición a agentes carcinógenos o mutágenos du­
+rante el trabajo.
+Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+Real Decreto 863/1985, de 2 de abril, por el que se aprueba el Reglamento General de Normas 
+Básicas de Seguridad Minera.
+Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de 
+la Ley General de la Seguridad Social.
+Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de 
+Prevención.
+Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos 
+relacionados con la exposición a agentes cancerígenos durante el trabajo.
+Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y la seguridad de los traba­
+jadores contra los riesgos relacionados con los agentes químicos durante el trabajo.
+Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermeda­
+des profesionales en el sistema de la Seguridad Social y se establecen los criterios para su 
+notificación y registro.
+
+44
+SANIDAD
+Real Decreto 298/2009, de 6 de marzo, por el que se modifica el Real Decreto 39/1997, de 17 
+de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, en relación 
+con la aplicación de medidas para promover la mejora de la seguridad y de la salud en el 
+trabajo de la trabajadora embarazada, que haya dado a luz o en período de lactancia.
+ORDEN ITC/2585/2007, de 30 de agosto, por la que se aprueba la Instrucción técnica comple­
+mentaria 2.0.02 «Protección de los trabajadores contra el polvo, en relación con la silicosis, 
+en las industrias extractivas», del Reglamento General de Normas Básicas de Seguridad 
+Minera.
+Directiva del Consejo 92/85/CEE de 19 octubre relativa a la aplicación de medidas para promo­
+ver la mejora y la seguridad y de la salud en el trabajo, de la trabajadora embarazada, que 
+haya dado a luz o en período lactante.
+ Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+Guías técnicas
+Guía Técnica para la evaluación y prevención de los riesgos relacionados con los agentes quí­
+micos presentes en los lugares de trabajo. Instituto Nacional de Seguridad e Higiene en el 
+Trabajo. Madrid; 2013 [Fecha última consulta 10/07/2019]. Disponible en: http://www.insht.
+es/InshtWeb/Contenidos/Normativa/GuiasTecnicas/Ficheros/g_AQ.pdf
+Guía Técnica para la evaluación y prevención de los riesgos relacionados con la exposición a 
+agentes cancerígenos o mutágenos durante el trabajo. Instituto Nacional de Seguridad e 
+Higiene en el Trabajo. Madrid; 2017 [Fecha última consulta 10/07/2019]. Disponible en:
+	
+https://www.insst.es/InshtWeb/Contenidos/Normativa/GuiasTecnicas/Ficheros/Agentes_
+cancerigenos.pdf
+Madera J, Menéndez P, Carballo M, Freijo J, Fernández EM. Guía para el control del riesgo 
+por exposición a sílice cristalina respirable. Empresas sujetas al Reglamento General de 
+Normas Básicas de Seguridad Minera. Instituto Nacional de Silicosis. Oviedo;2015. [Fecha 
+última consulta 10/07/2019]. Disponible en: http://www.ins.es/guia/pdf/guia_completa.pdf
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+45
+Anexo I: criterios para 
+interpretación de resultados de 
+la evaluación de la exposición
+•	 Exposición actual
+	
+Tomando como base la norma UNE-EN 689:2019, conformidad sig­
+nifica que la exposición media ponderada en el tiempo de los traba­
+jadores en el lugar de trabajo es inferior al VLA para el correspon­
+diente periodo de referencia.
+	
+El médico/a del trabajo verificará que la evaluación cumpla las si­
+guientes condiciones, las cuales deberán estar adecuadamente do­
+cumentadas por la persona responsable de la misma: 
+–– La evaluación ha sido realizada en todos los puestos con riesgo 
+de exposición directa o indirecta a este agente. 
+–– La persona responsable de la misma estaba suficientemente for­
+mada, y contaba con experiencia en los principios de la higiene 
+industrial y en las técnicas de medición para llevar a cabo la parte 
+de la evaluación de la exposición. Además, la medición ha sido 
+realizada contando con la presencia continua de la persona eva­
+luadora en los puestos de trabajo de los que se trate para contro­
+lar la operación de muestreo.
+–– La evaluación inicial ha considerado todas las tareas del puesto 
+de trabajo a lo largo de toda la jornada laboral.
+–– La evaluación inicial ha tenido en cuenta, con carácter general, 
+la naturaleza de la actividad, las características de los puestos de 
+trabajo existentes y de los trabajadores que deban desempeñar­
+los. Esta evaluación ha sido actualizada periódicamente, por la 
+persona responsable de la misma, con el fin de asegurar que la 
+misma continúa en conformidad con el VLA.
+–– La evaluación ha considerado los posibles efectos de las condi­
+ciones meteorológicas sobre la exposición cuando los puestos de 
+trabajo se encontraban en el exterior.
+–– La evaluación se haya actualizado siempre que se haya producido 
+un cambio en las condiciones de trabajo. A partir de la evaluación 
+inicial, la persona responsable de la misma, ha debido reevaluar 
+los puestos de trabajo que puedan haberse visto afectados por:
+
+46
+SANIDAD
+a.	 La elección de nuevos equipos de trabajo o sustancias y/o pre­
+parados químicos así como la introducción de nuevas tecnolo­
+gías o la modificación en el acondicionamiento de los lugares 
+de trabajo.
+b.	 Modificaciones significativas en el proceso productivo, por 
+manipulación de nuevos materiales, cambio en la distribución 
+de personal, rotaciones, y cualquier circunstancia que modifi­
+que las condiciones inicialmente evaluadas.
+c.	 La incorporación de un trabajador cuyas características per­
+sonales o estado biológico conocido, le hagan especialmente 
+sensible a las condiciones del puesto.
+d.	Cuando se hayan detectado daños para la salud de algunos de 
+los trabajadores.
+–– Cuando existan dudas acerca de la metodología empleada en 
+la evaluación de la exposición, se clasificará de no conformidad 
+(apartado 4.1.2 del protocolo). 
+•	 Exposición anterior (se tendrá en cuenta la exposición a lo largo de 
+toda la vida laboral del trabajador en sectores de riesgo por inhala­
+ción de sílice) 
+	
+Tomando como base la norma UNE-EN 689:1996, exposición acep­
+table significa que es muy improbable que la exposición observada 
+supere el Valor Límite, tanto en el periodo de tiempo en que se ha 
+realizado la evaluación como en el futuro, mientras no haya cambios 
+de la situación que puedan modificar la exposición.
+	
+La exposición también se considerará no aceptable cuando se dé al 
+menos una de las siguientes circunstancias:
+a.	 Haya ausencia de registros de mediciones previas.
+b.	 El contenido en sílice en la materia prima sea superior al 15%, ex­
+cepto que haya constancia documentada de que los resultados de 
+las mediciones de exposición sean inferiores a los valores límite. 
+c.	 Los resultados de la evaluación no cumplan con los criterios de 
+aceptabilidad de la norma UNE-EN 689 vigente en cada momento.
+d.	Cuando existan dudas acerca de la metodología empleada en la 
+evaluación definida en el capítulo 3 o bien de los resultados de la 
+misma. 
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+47
+Anexo II: cuestionario 
+respiratorio
+Antecedentes: ¿Ha padecido o padece alguna 
+de estas enfermedades?
+Enfermedad
+SÍ
+NO
+Fecha
+Silicosis
+Asma
+Enfermedad pulmonar obstructiva crónica 
+Enfisema
+Bronquitis crónica
+Tuberculosis
+Derrame pleural
+Otros problemas respiratorios de causa pulmonar o extrapulmonar
+Cardiopatías
+Accidente que haya afectado al tórax
+Intervención quirúrgica que haya afectado al tórax
+Toma alguna medicación
+    Si es así, ¿cuál es esa medicación?
+Cuestionario
+SÍ
+NO
+¿Tose habitualmente durante el día? (o durante la noche en caso de 
+trabajo nocturno)
+¿Tiene expectoración (flemas) la mayor parte de los días al menos 
+durante 3 meses al año?
+¿Ha observado la presencia de sangre después de toser?
+¿Siente opresión en el pecho o se le hace difícil respirar?
+
+48
+SANIDAD
+¿Siente que tiene pitidos al respirar o silbidos en el pecho?
+¿Siente que tiene disnea (dificultad para respirar) cuando realiza las 
+actividades normales del día a día?
+¿Durante los 3 años pasados ha padecido alguna enfermedad 
+pulmonar que le haya apartado de sus actividades habituales 
+durante al menos una semana?
+¿Es usted fumador? 
+En caso afirmativo: Test de dependencia física a la nicotina de 
+Fagerström
+¿Ha perdido peso de forma inexplicable recientemente?
+¿Le preocupa alguna cosa sobre su salud?
+Test de dependencia física a la nicotina
+de Fagerström
+•	 ¿Cuánto tiempo pasa habitualmente desde que se levanta hasta que 
+fuma su primer cigarrillo?
+	
+Hasta 5 minutos	
+	
+3
+	
+De 6 a 30 minutos	
+	
+2
+	
+31 minutos o más	
+	
+0
+•	 ¿Le resulta difícil no fumar en lugares donde está prohibido?
+	
+Sí 	
+	
+1
+	
+No 	
+	
+0
+•	 ¿A qué cigarrillo le costaría más renunciar?
+	
+El primero de la mañana	
+	
+1
+	
+Cualquier otro	
+	
+0
+•	 ¿Cuántos cigarrillos fuma al día habitualmente?
+	
+Menos de 10	
+	
+0
+	
+Entre 11 y 20	
+	
+1
+	
+Entre 21 y 30	
+	
+2
+	
+31 o más (especifique cuántos)	
+	
+3
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+49
+•	 ¿Fuma con más frecuencia durante las primeras horas después de 
+levantarse que el resto del día?
+	
+Sí 	
+	
+1
+	
+No 	
+	
+0
+	
+•	 ¿Fuma aunque esté enfermo en cama la mayor parte del día?
+	
+	
+Sí 	
+	
+1
+	
+No 	
+	
+0
+La dependencia se clasifica en: 0-3: leve, 4-6: moderada; 7-10: alta
+
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+51
+Anexo III: pruebas 
+complementarias
+Técnicas de imagen
+Radiografía simple de tórax
+Es una exploración imprescindible para el diagnóstico de silicosis y para la 
+valoración de su posible progresión.
+La manifestación inicial, y con frecuencia única, de la silicosis es la pre­
+sencia de un patrón nodular difuso y bilateral (con opacidades menores o 
+iguales a 1 cm. de diámetro), con mayor afectación de lóbulos superiores y 
+zonas posteriores del pulmón, patrón que define a la silicosis crónica simple. 
+La progresión de esta silicosis crónica simple, por un proceso de conglome­
+ración de los nódulos, retracción del parénquima pulmonar y enfisema cica­
+tricial, define a la silicosis crónica complicada (con opacidades mayores a 1 
+cm de diámetro). En casos más graves, pueden encontrarse en la radiografía 
+masas de fibrosis pulmonar, u otros tipos de patrones radiológicos, como el 
+patrón retículo-nodular difuso, o el patrón acinar bilateral.
+Las radiografías de tórax, en proyecciones P-A y lateral, se deben reali­
+zar siguiendo las recomendaciones de la Guía para el uso de la clasificación 
+internacional de la OIT de radiografías de neumoconiosis (edición revisa­
+da, 2011), con una técnica y una metodología adecuadas. Una vez realizada 
+la radiografía, debe ser leída de forma estandarizada según el sistema ILO 
+2011 por un lector o lectora entrenados, comparándola con las placas patrón 
+(OIT 2011-D) de la mencionada Organización. La lectura radiológica por 
+expertos aumenta el grado de acuerdo.
+Cuando se trate de radiografías no digitales, estas se compararán con 
+las radiografías estándar que acompañan a la Clasificación Internacional de 
+la OIT (2000) de radiografías de neumoconiosis.
+Esta organización ha establecido una clasificación que codifica las alte­
+raciones radiológicas de forma reproducible.
+La lectura ILO se divide en 5 apartados:
+1.	Calidad técnica de la radiografía: 1 (buena), 2 (aceptable), 3 (baja) y 
+4 (inaceptable).
+
+52
+SANIDAD
+	
+Se comenzará evaluando la calidad de la placa: aquellas radiografías 
+que resulten ser de calidad inaceptable, deberán ser repetidas. Si a 
+pesar de ser aceptable, la calidad no es buena, debe indicarse la cau­
+sa (sobreexposición, rotación, etc.)
+2.	 Alteraciones parenquimatosas: consisten en opacidades pequeñas y 
+opacidades grandes. 
+–	 Opacidades pequeñas: se describen según su profusión (concen­
+tración de opacidades pequeñas en las zonas afectadas del pul­
+món, y se clasifican en 4 categorías y 12 subcategorías), campos 
+pulmonares afectados (se divide en tres zonas, superior, media e 
+inferior), forma (redondeadas o irregulares) y tamaño (se distin­
+guen tres tamaños para cada forma).
+•	 Opacidades pequeñas redondeadas (p, q, r) u opacidades pe­
+queñas irregulares (s, t, u)
+	
+p - opacidades redondas de hasta 1,5 mm de diámetro
+	
+q - opacidades redondas de diámetro mayor de 1,5 y hasta 3 mm
+	
+r - opacidades redondas de diámetro mayor de 3 y hasta 10 mm
+	
+s - opacidades irregulares de hasta 1,5 mm de ancho
+	
+t - opacidades irregulares que exceden 1,5 mm y alcanzan has­
+ta 3 mm de ancho
+	
+u - opacidades irregulares que exceden 3 mm y alcanzan hasta 
+10 mm de ancho
+•	 Profusión: escala de 12 niveles (desde 0/-, hasta 3/+), en orden 
+creciente.
+–– Opacidades grandes: se definen como opacidades con un diáme­
+tro mayor de 10 mm. Se definen tres categorías en función del 
+tamaño: A, B y C.
+3.	Alteraciones pleurales: tales como engrosamientos pleurales (loca­
+lizados o difusos), calcificaciones de estos engrosamientos pleurales, 
+pinzamiento de los senos costodiafragmáticos.
+4.	Símbolos: sirven para registrar las características radiográficas de 
+importancia y describen hallazgos adicionales codificados.
+5.	Comentarios libres: no incluidos en la lectura anterior. Si la calidad 
+técnica de la radiografía no se registra como 1 (buena), entonces 
+debe hacerse un comentario sobre ella antes de seguir con la cla­
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+53
+sificación, o cuando se registre el símbolo od (otra enfermedad o 
+alteración significativa), etc.
+A partir de la última revisión de la ILO en el año 2011, se permite la 
+utilización de imágenes digitales en la valoración de silicosis. Se proporcio­
+nan 22 imágenes estándar en formato digital y se especifican las caracterís­
+ticas técnicas que deben cumplir los equipos radiológicos y los requerimien­
+tos para la lectura de las radiografías. En este sentido, las imágenes deben 
+visualizarse en monitores de pantalla plana de grado médico diseñadas para 
+radiología diagnóstica de por lo menos 21 pulgadas (54 cm) por imagen, con 
+una razón de luminosidad máxima de por lo menos 250 candelas/m2. El lan­
+zamiento del píxel no debe ser mayor a 210 micras, y con una resolución de 
+por lo menos 2,5 pares lineales por milímetro.
+Figura 1
+Figura 1
+A.  En la lectura debe hacerse referencia a la forma y tamaño de las 
+lesiones expresado con 2 letras, y a la profusión lesional con 2 nú­
+meros. Asimismo, hay que indicar en qué zona de cada pulmón 
+asientan las lesiones.
+B.  En la figura se identifican las pequeñas opacidades, tanto redondea­
+das (R), como irregulares (I), y en su nomenclatura en función de 
+su forma y tamaño.
+
+54
+SANIDAD
+Figura 2
+Figura 2
+A.  La profusión de lesiones en la lectura ILO se clasifica en 4 catego­
+rías principales y 12 subcategorías, de menor a mayor. 
+B.  En la práctica, cuanto mayor es la profusión de lesiones silicóticas, 
+se produce un mayor borramiento de los vasos pulmonares en la 
+radiografía de tórax.
+Tomografía computarizada de alta resolución (TCAR)
+Aunque estudios comparativos entre TCAR y radiografía de tórax en el 
+diagnóstico de silicosis han demostrado una mayor sensibilidad y especifi­
+cidad de la TCAR para evaluar enfermedad intersticial y en concreto las 
+neumoconiosis, la falta de una estandarización clara de su lectura y la posi­
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+55
+bilidad de aumentar los falsos positivos en el proceso diagnóstico hacen que 
+no sea una exploración recomendable para el cribado de silicosis.
+Los criterios diagnósticos de silicosis están basados en una historia la­
+boral y unos hallazgos radiológicos típicos, y los datos disponibles sobre ella 
+proceden de estudios de cohortes en los que la herramienta utilizada es la 
+radiografía de tórax. Generalizar el uso de la TCAR podría llevar a detectar 
+nódulos de significado incierto que no permitirían establecer un diagnóstico 
+de certeza y podrían añadir confusión. Por otro lado, la elevada radiación 
+emitida por la TCAR, el desconocimiento sobre la relevancia patológica del 
+hallazgo de opacidades muy escasas y la incertidumbre sobre el manejo de 
+estos pacientes, entre otras cuestiones, hace que antes de indicar una TCAR 
+debamos respondernos si es realmente necesaria la prueba, si el lector reúne 
+las credenciales necesarias, si la información aportada será relevante para 
+prevenir la enfermedad, prestando especial atención a la naturaleza acumu­
+lativa de la radiación y a la edad del paciente.
+Respecto de los hallazgos precoces de la TCAR de tórax, aun no se ha 
+consensuado un punto de corte a partir del cual se considera caso de silicosis. 
+Sin embargo, expertos internacionales han propuesto utilizar un sistema de 
+lectura similar a la ILO 2011, definiendo caso cuando se observen opacida­
+des nodulares bien definidas con una profusión similar a las imágenes de 
+referencia 
+Así, teniendo en cuenta todos estos aspectos, y en función del conoci­
+miento disponible, creemos que en la actualidad la indicación para realizar 
+la TCAR estaría limitada a los casos siguientes:
+1.	 Radiografía de tórax con opacidades nodulares muy profusas y con 
+tendencia a la coalescencia, ya que en esta situación se podrían de­
+tectar masas de fibrosis en fases iniciales.
+2.	 Radiografía de tórax con opacidades > 1/0 en trabajadores con ries­
+go moderado-alto.
+3.	 Hallazgos radiológicos atípicos, para el diagnóstico diferencial con 
+otras entidades.
+Pruebas de función pulmonar
+Las pruebas de función pulmonar son indispensables para conocer la afec­
+tación en el momento del diagnóstico, evaluar la evolución durante el segui­
+miento, valorar la gravedad y la capacidad para el desempeño de la actividad 
+laboral.
+
+56
+SANIDAD
+•	 Espirometría
+	
+La espirometría es la técnica principal para realizar el estudio fun­
+cional, sirve para el diagnóstico y seguimiento de los pacientes, per­
+mitiendo valorar el posible deterioro funcional.
+	
+Los hallazgos pueden oscilar entre valores normales y patrones tan­
+to obstructivos como no obstructivos, con descensos acusados de 
+FEV1 y FVC. Estudios observacionales con muestras amplias han 
+demostrado que la pérdida de función pulmonar medida con des­
+censo en FVC y FEV1 guarda relación con la magnitud de la exposi­
+ción, la extensión de las lesiones radiológicas y los antecedentes de 
+enfermedad tuberculosa. 
+	
+Diferentes estudios realizados en mineros permiten afirmar que la 
+inhalación crónica de sílice puede inducir un descenso acelerado del 
+FEV1 entre los trabajadores expuestos, aún en ausencia de neumo­
+coniosis. El polvo parece actuar de forma sinérgica con el tabaco, 
+causando mayor afectación en individuos fumadores. Las formas de 
+silicosis simple no producen alteración de la función pulmonar; las 
+formas complicadas pueden cursar con obstrucción, restricción o am­
+bas alteraciones, lo que traduce la distorsión de las vías aéreas y del 
+parénquima pulmonar. La fibrosis intersticial difusa ocasiona defecto 
+ventilatorio restrictivo con alteración de la capacidad de difusión. 
+	
+La inclusión de la espirometría en la vigilancia de la salud y la evo­
+lución de sus parámetros a lo largo del tiempo permite detectar el 
+posible efecto de la inhalación de sílice en la función pulmonar, así 
+como ayudar al diagnóstico precoz de otras enfermedades. Además 
+es una ayuda al consejo para la deshabituación tabáquica.
+	
+La espirometría debe de realizarse según las recomendaciones de la 
+SEPAR y su interpretación nos proporcionara patrones ventilato­
+rios normales, obstructivos o alteraciones no obstructivas.
+Interpretación
+–– Normal
+	
+Se considera que la espirometría es “normal” cuando sus valores 
+son superiores al límite inferior del intervalo de confianza (LIN). 
+El LIN está alrededor del 80% del valor teórico del FEV1, FVC 
+y VC, de 0,7 para la relación FEV1/FVC, y aproximadamente el 
+60% para el FEF 25-75% en sujetos menores de 65 años y de 
+tallas no extremas. Sin embargo, estos valores son sólo aproxima­
+ciones, por lo que se recomienda utilizar el LIN determinado a 
+partir de las ecuaciones de referencia.
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+57
+–– Alteración ventilatoria obstructiva
+	
+La alteración ventilatoria obstructiva se define por una relación 
+FEV1/FVC reducida (menor del LIN). En la práctica clínica, el 
+uso ha impuesto, por su sencillez, la definición de obstrucción a 
+partir de una relación FEV1/FVC menor del 0,743, aunque este 
+criterio es menos preciso y da lugar a falsos negativos en jóvenes 
+y falsos positivos en ancianos.
+	
+La obstrucción del flujo aéreo provoca una disminución despro­
+porcionada de los flujos a bajos volúmenes que se refleja en una 
+forma cóncava en la curva flujo-volumen y, cuantitativamente, 
+se manifiesta en una reducción proporcionalmente mayor del 
+FEF 75% o del FEF 25-75% que del FEV1. Una circunstancia 
+inusual es cuando disminuyen el FEV1 y la FVC de forma con­
+comitante y la FEV1/FVC es normal o casi normal. Este patrón 
+puede reflejar la incapacidad del paciente para inhalar o exhalar 
+completamente, o bien un colapso irregular de las pequeñas vías 
+aéreas en las fases iniciales de la espiración. En esta situación, 
+puede ser útil sustituir la FVC por la VC lenta y calcular el co­
+ciente de Tiffeneau (FEV1/VC), que en esta alteración se en­
+contrará por debajo de su LIN. La gravedad de las alteraciones 
+ventilatorias obstructivas se clasifica en función del valor del 
+FEV1 según las recomendaciones de la ATS/ERS, aunque tam­
+bién existen clasificaciones específicas de enfermedad como la 
+propuesta por la GOLD. Estos puntos de corte de gravedad son 
+arbitrarios.
+–– Alteración ventilatoria no obstructiva
+	
+La alteración ventilatoria “no obstructiva” se define por una FVC 
+reducida con una relación FEV1/FVC por encima del LIN o in­
+cluso al valor medio de referencia. Se debe sospechar un trastor­
+no restrictivo cuando la FVC esté por debajo del LIN, la relación 
+FEV1/FVC supere su LIN y la curva flujo-volumen presente una 
+morfología convexa. Sin embargo, sólo es posible confirmar esta 
+circunstancia si se objetiva una reducción de la TLC (< percentil 
+5 del valor de referencia). 
+–– Coexistencia de defecto obstructivo y no obstructivo
+	
+La coexistencia de un defecto obstructivo y no obstructivo en un 
+paciente se define cuando tanto la FVC como la relación FEV1/
+FVC están por debajo de sus respectivos LIN. Para dilucidar si 
+el origen es atrapamiento aéreo (hiperinsuflación) o auténtica 
+restricción, se debe realizar una medición de TLC. En general, 
+
+58
+SANIDAD
+esta normativa recomienda confirmar la presencia de restricción 
+cuando la FVC o VC estén bajas midiendo la TLC. 
+	
+En caso de disnea referida o alteración en la espirometría se reco­
+mienda realizar un estudio funcional completo con determinación 
+de volúmenes pulmonares (RV, FRC, TLC, RV/TLC). 
+•	 Otras pruebas de función pulmonar
+	
+Estas exploraciones se realizarán a los pacientes con formas compli­
+cadas o donde se detecten anomalías en la espirometría simple.
+•	 Determinación de los volúmenes estáticos y resistencias pulmonares
+	
+Es la determinación de los volúmenes y capacidades pulmonares 
+que no podemos medir en una espirometría, como son el volumen 
+residual (VR), la capacidad residual funcional (FRC) y la capacidad 
+pulmonar total (TLC). 
+	
+En caso de disnea referida o alteración en la espirometría se reco­
+mienda realizar estudio funcional completo con determinación de 
+volúmenes pulmonares (RV, FRC, TLC, RV/TLC). Cuando la espi­
+rometría pone de manifiesto una alteración ventilatoria de tipo “no 
+obstructivo” (FEV1/FVC >70%), el bajo valor de la capacidad pul­
+monar total (TLC) permite diagnosticar una alteración “restrictiva”. 
+Cuando hallándose ante una patología “obstructiva” (FEV1/FVC 
+<70%), quiere evaluarse la magnitud del atrapamiento aéreo, es el 
+elevado valor de la capacidad residual funcional (FRC) y del volu­
+men residual (RV) los que nos orientan en ese sentido.
+	
+Los volúmenes pulmonares estáticos pueden mostrar un descenso 
+en la capacidad pulmonar total que guarda relación con la afecta­
+ción radiológica. 
+•	 Pulsioximetría percutánea 
+	
+Mide la saturación de oxihemoglobina y es una herramienta sencilla 
+y útil para la sospecha de insuficiencia respiratoria y para determi­
+nar la indicación de una gasometría arterial.
+•	 Gasometría arterial
+	
+En pacientes ambulatorios estables la gasometría arteria basal (sin 
+suplemento de oxígeno), o GAB, puede ser un complemento útil 
+para las pruebas de función pulmonar en pacientes concretos. Su 
+uso no debe ser rutinario, y solo está indicada en los pacientes que 
+tienen una SatO2 baja por pulsioximetría.
+	
+La pulsioximetría y la gasometría arterial son pruebas útiles para 
+establecer la gravedad, ya que pueden detectar la existencia de in­
+
+PROTOCOLO DE VIGILANCIA SANITARIA ESPECÍFICA. SILICOSIS
+59
+suficiencia respiratoria (paO2 < 60 mmHg con SpO2 < 90%) en los 
+casos más avanzados.
+• Capacidad de difusión
+ 
+La medición de la capacidad de difusión informa sobre el estado de 
+la transferencia alveolo-capilar. La capacidad de difusión se altera 
+en las formas complicadas de la enfermedad y es sensible para de-
+tectar la presencia de fibrosis. 
+• Ergoespirometría
+ 
+Los estudios realizados en el ejercicio no parecen aportar datos re-
+levantes en los pacientes asintomáticos, pero pueden ser útiles en 
+casos seleccionados para medir de forma objetiva la capacidad de 
+ejercicio y evaluar la situación física previa al inicio de un trabajo 
+donde se requiera actividad física intensa. Permiten también el diag-
+nóstico precoz de las alteraciones funcionales y conocer las causas 
+potencialmente responsables de una pérdida de adecuación física 
+para realizar un trabajo.
+
+
+www.mscbs.gob.es
+Gobierno
+ de Españ
+a. Ministe
+rio de Sanidad

@@ -1,0 +1,2039 @@
+Protocolos de vigilancia 
+sanitaria específica 
+Amianto 
+SANIDAD 2013 
+MINISTERIO DE SANIDAD, SERVICIOS SOCIALES E IGUALDAD 
+
+
+Protocolos de vigilancia 
+sanitaria específica 
+Amianto 
+(3ª edición) 
+SANIDAD 2013 
+MINISTERIO DE SANIDAD, SERVICIOS SOCIALES E IGUALDAD 
+
+Edita y distribuye: 
+© MINISTERIO DE SANIDAD, SERVICIOS SOCIALES E IGUALDAD 
+CENTRO DE PUBLICACIONES 
+Paseo del Prado, 18. 28014 Madrid 
+NIPO en línea: 680-13-022-9 
+El copyright y otros derechos de propiedad intelectual de este documento pertenecen al Ministerio de Sani­
+dad, Servicios Sociales e Igualdad. Se autoriza a las organizaciones de atención sanitaria a reproducir total 
+o parcialmente para uso no comercial, siempre que se cite el nombre completo del documento, año e insti­
+tución. 
+http://publicacionesoficiales.boe.es 
+
+Protocolos de vigilancia 
+sanitaria específica 
+Amianto 
+(3ª edición) 
+Escudo de España
+GOBIERNO  
+DE ESPAÑA  
+MINISTERIO 
+DE SANIDAD, SERVICIOS SOCIALES 
+E IGUALDAD 
+Consejo Interterritorial. Sistema Nacional de Salud
+
+
+Índice 
+Presentación 
+13 
+1. 
+Criterios de aplicación 
+15 
+2. 
+Definición del problema 
+17 
+2.1. Definiciones y conceptos 
+17 
+2.2. Fuentes de exposición y usos 
+18 
+2.3. Mecanismos de acción 
+21 
+2.4. Efectos sobre la salud 
+23 
+3. 
+Evaluación del riesgo 
+31 
+4. 
+Protocolo de vigilancia sanitaria específica 
+33 
+4.1. Historia laboral 
+35 
+4.2. Historia clínica 
+35 
+4.3. Contenido de los exámenes de salud 
+36 
+4.4. Control biológico y estudios complementarios específicos 
+38 
+4.5. Criterios de valoración 
+42 
+5. Normas para la cumplimentación del protocolo de vigilancia sanitaria 
+43 
+6. Conducta a seguir según las alteraciones que se detecten 
+45 
+7. Legislación aplicable 
+47 
+8. Bibliografía 
+49 
+ANEXO 1. Contenido de los exámenes de salud de los trabajadores  
+expuestos a amianto 
+55 
+ANEXO 2. Documento de información clínico-laboral por amianto (DICLIA) 
+57 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+5 
+
+
+Comisión Nacional 
+de Seguridad y Salud 
+en el Trabajo
+La Comisión de Salud Pública del Consejo Interterritorial del Siste­
+ma Nacional de Salud aprueba el Protocolo de Vigilancia Sanitaria 
+Específica para los/as trabajadores/as expuestos a Amianto en la 
+Reunión de 21 de noviembre de 2012. 
+La Comisión Nacional de Seguridad y Salud en el Trabajo aprueba 
+el Protocolo de Vigilancia Sanitaria específica para los trabajado­
+res/as expuestos/as a Amianto en la Reunión plenaria de 16 de 
+junio de 2012. 
+Consejo Interterritorial. Sistema Nacional de Salud
+
+
+Autores 
+Vicent Villanueva Ballester. Consejería de Sanidad de Valencia. 
+Montserrat García Gómez. Ministerio de Sanidad, Servicios Sociales e 
+Igualdad. 
+Manuel Martínez Vidal. Consejería de Sanidad de Madrid. 
+Mercedes Elvira Espinosa. Consejería de Sanidad de Castilla y León. 
+Vega García López. Instituto Navarro de Salud Laboral. 
+Patricia López Menduiña. Ministerio de Sanidad, Servicios Sociales e Igualdad. 
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Laborales. 
+María Yolanda Anes del Amo. Junta de Extremadura. 
+Para su elaboración definitiva, la propuesta inicial ha sido debatida y enriqueci­
+da con los representantes de las Administraciones Sanitarias de las Comunida­
+des Autónomas, en la Ponencia de Salud Laboral de la Comisión de Salud 
+Pública del Consejo Interterritorial del SNS, y con los representantes de los inter­
+locutores sociales, de las Comunidades Autónomas y de la Administración 
+General del Estado, en el Grupo de Trabajo Amianto de la Comisión Nacional 
+de Seguridad y Salud en el Trabajo. 
+Ponencia de Salud Laboral de la Comisión de 
+Salud Pública 
+Montserrat García Gómez. Ministerio de Sanidad, Servicios Sociales e 
+Igualdad. 
+Rosario Castañeda López. Ministerio de Sanidad, Servicios Sociales e Igualdad. 
+Pilar Collantes Ibáñez. Instituto Vasco de Seguridad y Salud Laboral. País 
+Vasco. 
+Rosa Fernández Bardón. Consejería de Salud. Cataluña. 
+Isabel González García. Consejería de Salud y Bienestar social. Galicia. 
+José Luis Millares Lorenzo. Consejería de Salud y Bienestar social.Andalucía. 
+Valentín Rodríguez Suárez. Consejería de Sanidad. Asturias. 
+Iñigo Fernández Fernández. Consejería de Sanidad y Servicios Sociales. 
+Cantabria. 
+Lourdes Miralles Martínez-Portillo. Consejería de Salud y Servicios Socia­
+les. La Rioja. 
+Juan Francisco Correa Rodríguez. Consejería de Sanidad y Política Social. 
+Murcia. 
+Valentín Esteban Buedo. Consejería de Sanidad. Valencia. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+9 
+
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y  
+Familia. Aragón.  
+Mª Dolores Rubio y Lleonart. Consejería de Sanidad y Asuntos Sociales.  
+Castilla-La Mancha.  
+Eduardo García Ramos Alonso. Consejería de Sanidad. Canarias.  
+Vega García López. Instituto Navarro de Salud Laboral. Navarra.  
+Mª Yolanda Anes del Amo. Consejería de Sanidad. Extremadura.  
+Bernardo Moyá Lliteras. Consejería de Salud, Familia y Bienestar Social.  
+Islas Baleares.  
+Manuel Martínez Vidal. Consejería de Sanidad. Madrid.  
+Mercedes Elvira Espinosa. Consejería de Sanidad. Castilla y León.  
+Ana Isabel Rivas Pérez. Consejería de Sanidad y Consumo. Ceuta.  
+José Ruiz Olivares. Consejería de Bienestar Social y Sanidad. Melilla.  
+Directora General de Salud Pública, Calidad e Innovación: María Mercedes  
+Vinuesa Sebastián.  
+Subdirector General de Sanidad Ambiental y Salud Laboral: Fernando  
+Carreras Vaquer.  
+Grupo de Trabajo Amianto de la CNSST 
+Por la Administración del Estado: 
+Carmen Arroyo Buezo. Ministerio de Empleo y Seguridad Social.  
+Montserrat García Gómez. Ministerio de Sanidad Servicios Sociales e  
+Igualdad.  
+Eduardo Gil Iglesias. Ministerio de Empleo y Seguridad Social.  
+Francisco Javier Maestro Acosta. Ministerio de Empleo y Seguridad Social.  
+Teresa Sánchez Cabo. Ministerio de Empleo y Seguridad Social.  
+Mª Luz Sisi Moreno. Ministerio de Empleo y Seguridad Social.  
+Por la Administración de las Comunidades 
+Autónomas: 
+Carmen Espina Correas. Junta de Comunidades de Castilla-La Mancha.
+Lucía Ferrón Vidán. Xunta de Galicia.  
+Miguel Ángel Figueroa Fernández. Gobierno de Canarias.  
+Eduardo García Morilla. Principado de Asturias.  
+10 
+SANIDAD 
+
+José Javier González Martos. Gobierno de Extremadura.  
+Rebeca Martínez Bolado. Gobierno de Cantabria.  
+Mª Teresa Martín Bustamante. Generalitat de Cataluña.  
+Javier Mena Rojo. Comunidad de Madrid.  
+Joaquín Ortega Herrera. Junta de Castilla y León.  
+José Antonio Vázquez Grueiro. Gobierno Vasco.  
+Por las Organizaciones Empresariales: 
+José Blanco Grande. C.E.O.E.  
+Mª Ángeles García García. C.E.O.E.  
+Pilar Iglesias Valcarce. C.E.O.E.  
+Gonzalo Zufía Álvarez. C.E.O.E.  
+Por las Organizaciones Sindicales: 
+José Mª Antuña Ruenes. CC.OO.  
+Carlos Bellas Cebreiro. U.G.T.  
+Jesús María González Hormigos. U.G.T.  
+Miguel Leal Hernández. U.G.T.  
+Carmen Mancheño Potenciano. CC.OO.  
+Fernando Medina Rojo. U.G.T.  
+José Luis Rodríguez Valdés. CC.OO.  
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+11 
+
+
+Presentación 
+Este trabajo pertenece a la serie «Protocolos de Vigilancia Sanitaria Específi­
+ca», editados por el Ministerio de Sanidad, Servicios Sociales e Igualdad y fruto 
+del trabajo desarrollado por las Administraciones Sanitarias a través de la 
+Ponencia de Salud Laboral de la Comisión de Salud Pública del Consejo Inter­
+territorial del Sistema Nacional de Salud, como contribución a las actividades 
+de prevención de riesgos laborales en nuestro país. Este volumen ha sido, ade­
+más, enriquecido con las aportaciones escritas y debatidas en reunión de los 
+representantes de los agentes sociales y económicos, de las Comunidades 
+Autónomas y de la Administración General del Estado, en el Grupo de Traba­
+jo Amianto de la Comisión Nacional de Seguridad y Salud en el Trabajo. 
+Además de reconocer el derecho de todos los trabajadores a la vigilan­
+cia periódica de su salud, incluso prolongándola más allá de la finalización 
+de la relación laboral en algunos supuestos como el que nos ocupa, la ley 
+encomienda a las administraciones sanitarias la tarea de dar homogeneidad 
+y coherencia a los objetivos y contenidos de la vigilancia de la salud, 
+mediante la elaboración de protocolos y guías de actuación, con la mirada 
+puesta en implantar un modelo de vigilancia de la salud en el trabajo que 
+sea eficaz para la prevención. 
+El poder contar con criterios uniformes basados en la evidencia científica 
+y la experiencia profesional, la recogida armonizada y periódica de datos sobre 
+riesgos y enfermedades, y su posterior análisis e interpretación sistemáticos con 
+criterios epidemiológicos, permitirán alcanzar los objetivos de prevención de la 
+enfermedad y promoción de la salud de las y los trabajadores. 
+Es conocido el riesgo para la salud que supone la exposición profesional 
+a las fibras de estos silicatos, y que el período de latencia puede ser largo. Sin 
+olvidar que se han descrito también casos en poblaciones que vivían en las cer­
+canías de plantas de transformación y minas de amianto, así como en personas 
+que conviven con trabajadores que manipulan estas fibras minerales. 
+El protocolo que se presenta en este volumen es la versión revisada y 
+actualizada del Protocolo de Vigilancia Sanitaria Específica del Amianto 
+informado favorablemente por la Comisión de Salud Pública del Consejo 
+Interterritorial del Sistema Nacional de Salud en 2003, y busca proporcio­
+nar a los profesionales implicados en la prevención de riesgos laborales, 
+especialmente a los sanitarios, una guía de actuación para la vigilancia sani­
+taria específica de los trabajadores expuestos a amianto, que será revisado 
+periódicamente, en la medida que así lo aconseje la evolución de la eviden­
+cia científica disponible y su aplicación concreta en los centros de trabajo de 
+nuestro país. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+13 
+
+
+1.   Criterios de aplicación 
+En base a lo dispuesto en los artículos 3 y 16 del Real Decreto 396/2006, 
+sobre seguridad y salud en trabajos con riesgo de exposición al amianto 
+(BOE núm. 86, de 11 de abril de 2006), este protocolo será de aplicación a 
+los trabajadores en las operaciones y actividades en las que estén expuestos 
+o sean susceptibles de estar expuestos a fibras de amianto o de materiales 
+que lo contengan, y especialmente en: 
+a) Trabajos de demolición de construcciones donde exista amianto o 
+materiales que lo contengan. 
+b) Trabajos de desmantelamiento de elementos, maquinaria o utillaje 
+donde exista amianto o materiales que lo contengan. 
+c) Trabajos y operaciones destinadas a la retirada de amianto, o de 
+materiales que lo contengan, de equipos, unidades (tales como bar­
+cos, vehículos, trenes), instalaciones, estructuras o edificios. 
+d) Trabajos de mantenimiento y reparación de los materiales con 
+amianto existentes en equipos, unidades (tales como barcos, vehícu­
+los, trenes), instalaciones, estructuras o edificios. 
+e) Trabajos de mantenimiento y reparación que impliquen riesgo de 
+desprendimiento de fibras de amianto por la existencia y proximi­
+dad de materiales de amianto. 
+f) Transporte, tratamiento y destrucción de residuos que contengan 
+amianto. 
+g) Vertederos autorizados para residuos de amianto. 
+h) Todas aquellas otras actividades u operaciones en las que se mani­
+pulen materiales que contengan amianto, siempre que exista riesgo 
+de liberación de fibras de amianto al ambiente de trabajo. 
+Igualmente será de aplicación a los trabajadores que hayan desarrolla­
+do, con anterioridad a la entrada en vigor de la Orden de 7 de diciembre de 
+2001, que modifica el anexo I del Real Decreto 1406/1989, de limitaciones a 
+la comercialización y al uso de ciertas sustancias y preparados peligrosos, 
+alguna de las actividades siguientes: 
+a) Trabajos de extracción, manipulación y tratamiento de minerales o 
+rocas amiantíferas. 
+b) Fabricación de tejidos, cartones y papeles de amianto. 
+c) Tratamiento preparatorio de fibras de amianto (cardado, hilado, tra­
+mado, etc.). 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+15 
+
+d) Aplicación de amianto a pistola (chimeneas, fondos de automóviles 
+y vagones). 
+e) Trabajos de aislamiento térmico en construcción naval y de edificios 
+y su destrucción. 
+f) Fabricación de guarniciones para frenos y embragues, de productos 
+de fibrocemento, de equipos contra incendios, de filtros y cartón de 
+amianto, de juntas de amianto y caucho. 
+g) Carga, descarga o transporte de mercancías que pudieran contener 
+fibras de amianto. 
+De acuerdo con el citado artículo 3 del Real Decreto 396/2006, cuan­
+do se produzcan exposiciones esporádicas de los trabajadores, la intensidad 
+de dichas exposiciones sea baja y los resultados de la evaluación del riesgo 
+de exposición indiquen que no se sobrepasará el valor límite de exposición 
+al amianto en el área de la zona de trabajo, este protocolo no se aplicará en 
+las siguientes actividades: 
+a) actividades cortas y discontinuas de mantenimiento durante las cua­
+les sólo se trabaje con materiales no friables, 
+b) retirada sin deterioro de materiales no friables, 
+c) encapsulación y en el sellado de materiales en buen estado que con­
+tengan amianto, siempre que estas operaciones no impliquen riesgo 
+de liberación de fibras, 
+d) vigilancia y control del aire y en la toma de muestras para detectar 
+la presencia de amianto en un material determinado. 
+En los comentarios a este artículo de la Guía Técnica del INSHT para 
+la evaluación y prevención de riesgos relacionados con la exposición a 
+amianto del RD 396/2006 se recogen los criterios recomendados para inter­
+pretar el cumplimiento de estos requisitos y las situaciones en las que sería 
+aplicable esta exención. 
+En general, se aplicará el presente protocolo a cualquier trabajador 
+considerado a riesgo tanto expuesto actualmente como post-expuesto 
+incluido en los Registros de Trabajadores Expuestos a Amianto elaborados 
+en las distintas Comunidades Autónomas. 
+16 
+SANIDAD 
+
+2.   Definición del problema 
+2.1. Definiciones y conceptos 
+El amianto es un contaminante complejo que se puede definir de distintas 
+formas. El artículo 2 del Real Decreto 396/2006  define el término amianto 
+según la identificación admitida internacionalmente del registro de sustan­
+cias químicas del Chemical Abstract Service. Las variedades de amianto que 
+se incluyen en esta definición se recogen en la tabla 1. 
+Tabla 1. Clasificación de las variedades reguladas de amianto, registro de sustan­
+cias químicas del Chemical Abstract Service (CAS), composición química nominal 
+y minerales análogos no fibrosos. 
+Variedad de Amianto 
+Grupo 
+Denominación 
+mineralógico 
+Serpentinas 
+Crisotilo 
+Crocidolita 
+Amosita 
+(Grunerita amianto) 
+Anfiboles 
+Antofilita amianto 
+Actinolita amianto 
+Tremolita amianto 
+Fuente: Guía Técnica del INSHT para la evalua
+RD 396/2006. 
+Composición 
+Nº CAS 
+química nominal 
+12001-29-5 
+Mg3(Si2O5)(OH)4 
+Na2Fe32+Fe23+ 
+12001-28-4 
+(Si8O22)(OH)2 
+12172-73-5 
+Fe72+(Si8O22)(OH)2 
+(Mg,Fe2+)7(Si8O22) 
+77536-67-5 
+(OH)2 
+Ca2(Fe2+,Mg)5 
+77536-66-4 
+(Si8O22)(OH)2 
+Ca2Mg5(Si8O22) 
+77536-68-6 
+(OH)2 
+ción y prevención de riesgos relacionados con l
+Minerales análogos 
+(no fibrosos) 
+Lizardita, Antigorita 
+Riebekita 
+Grunerita 
+Antofilita 
+(Cumingtonita) 
+Actinolita 
+Tremolita 
+a exposición a amianto del 
+En la actualidad estos productos están prohibidos por el Reglamento de la 
+Comisión (CE) Nº 552/2009, de 22 de junio, que modifica el Reglamento CE 
+nº 1907/2006, del Parlamento Europeo y del Consejo, relativo al registro, la 
+evaluación, la autorización y la restricción de las sustancias y preparados 
+químicos (REACH), en lo que concierne al Anexo XVII. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+17 
+
+En nuestro país se prohibió la utilización, producción y comercializa­
+ción de fibras de amianto por medio de la Orden de 7 de diciembre de 2001, 
+que modifica el anexo I del R.D. 1406/1989, de 10 de noviembre, por el que 
+se imponen limitaciones a la comercialización y al uso de ciertas sustancias 
+y preparados peligrosos. 
+Fibra de amianto o asbesto 
+El artículo 5.4 del Real Decreto 396/2006 define las fibras de amianto o 
+asbestos como aquellas partículas de esta materia en cualquiera de sus 
+variedades, cuya longitud sea superior a 5 micrómetros, su diámetro inferior 
+a 3 micrómetros y la relación longitud-diámetro superior a 3. 
+Límite de exposición 
+El valor límite ambiental de exposición diaria (VLA-ED) establecido en el 
+artículo 4 del Real Decreto 396/2006 es de 0,1 fibras por centímetro cúbico 
+medidas como una media ponderada en el tiempo para un período de ocho 
+horas. 
+2.2.   Fuentes de Exposición y usos 
+La exposición a fibras de amianto se produce principalmente a través de la 
+vía respiratoria, por lo que los trabajadores estarán expuestos o serán sus­
+ceptibles de estarlo cuando haya fibras de amianto en suspensión en el aire. 
+Las exposiciones a amianto se han producido en la fabricación de materia­
+les con amianto (MCA) y en su instalación y manipulación posterior. El uso 
+de MCA ha estado ampliamente extendido hasta la prohibición de su fabri­
+cación y comercialización que, en España, se aplicó en el año 2002. A par­
+tir de esta fecha, las exposiciones a amianto se limitan a los trabajos e 
+intervenciones sobre los MCA que fueron instalados en su día y que pueden 
+permanecer en uso hasta el final de su vida útil o su retirada definitiva. 
+Los materiales fabricados con amianto son de muy diversos tipos y con 
+numerosas aplicaciones. En los apéndices 1 y 5 de la Guía Técnica del 
+INSHT se proporciona descripción e ilustraciones de los MCA más frecuen­
+tes en España, con descripción de sus características de interés principales 
+desde el punto de vista preventivo y recomendaciones prácticas para su 
+identificación y localización. 
+Las actividades donde existe o ha existido  riesgo de exposición a 
+amianto son las que se recogen en el apartado 1.  La retirada de los materia­
+18 
+SANIDAD 
+
+les con amianto, conocida coloquialmente como desamiantado es la opera­
+ción que origina el mayor riesgo de exposición. 
+En la tabla 2 se presentan ejemplos de materiales que contienen 
+amianto incluidos en la “Guía de buenas prácticas para prevenir o minimi­
+zar los riesgos del amianto en los trabajos en los que esté presente (o pueda 
+estarlo), destinada a empresarios, trabajadores e inspectores de trabajo”, 
+publicada por el Comité de altos responsables de la Inspección de Trabajo, 
+de la Comisión Europea (Institute of Occupational Medicine, s.f.). 
+Tabla 2. Ejemplos de materiales que contienen amianto 
+Materiales que 
+Uso típico 
+Ejemplos de dónde se encuentra 
+contienen amianto 
+Revestimiento 
+Aislamiento térmico y 
+En estructuras de acero de edificios de 
+proyectado (puede 
+acústico y protección contra 
+grandes dimensiones o de varios pisos, como 
+contener hasta un 85% 
+el fuego y la condensación 
+cortafuegos en falsos techos, y sobre techos 
+de amianto) 
+de piscinas 
+Relleno de fibras sueltas 
+Aislamiento térmico y 
+Aislamiento de desvanes. Orificios por los que 
+(puede contener hasta 
+acústico 
+pasan cables 
+un 100% de amianto) 
+Calorifugados y 
+Aislamiento térmico de 
+En tuberías y calderas de edificios públicos, 
+empaquetaduras 
+tuberías, calderas, tuberías 
+fábricas, centros escolares y hospitales. 
+(pueden contener entre 
+de alta presión, secciones 
+Forros de amianto en calderas industriales de 
+un 1% y un 100% de 
+prefabricadas de tuberías, 
+vapor, cordón o cuerda enrollada en torno a 
+amianto) 
+losetas, cintas, cordones, 
+piezas de fontanería cubiertas a veces por un 
+papel ondulado, cobertores 
+revestimiento de tipo cemento 
+acolchados, fieltros y mantas 
+Tableros aislantes de 
+Protección contra el fuego, 
+En casi todos los tipos de edificios. 
+amianto (pueden conte­
+aislamiento térmico y acústi­
+En conducciones y como cortafuegos, 
+ner entre un 16% y un 
+co, y trabajos de construc­
+paneles de relleno, tabiques, placas para 
+40% de amianto) 
+ción en general 
+techos, capas base para tejados, 
+revestimientos interiores de paredes, paneles 
+para bañeras. Revestimientos de calderas en 
+viviendas, paneles en tabiques y techos, 
+revestimiento interior de hornos y sistemas de 
+pavimentos flotantes 
+Cordones, hilaturas 
+Materiales utilizados en calo­
+Calderas de calefacción central, hornos, hor­
+(pueden contener hasta 
+rifugados, juntas y empaque­
+nos incineradores y otras instalaciones someti­
+un 100% de amianto) 
+taduras, juntas y sellantes 
+das a altas temperaturas 
+resistentes al calor y al 
+fuego, calafateado en 
+estructuras de ladrillo, aisla­
+miento de calderas y con­
+ductos de evacuación de 
+humos, y tubos trenzados 
+para cables eléctricos 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+19 
+
+Tabla 2. Ejemplos de materiales que contienen amianto 
+Materiales que 
+Uso típico 
+Ejemplos de dónde se encuentra 
+contienen amianto 
+Tejido (puede contener 
+Juntas y empaquetaduras; 
+En fundiciones, laboratorios y cocinas. Telones 
+hasta un 100% de 
+aislamiento térmico y 
+ignífugos en teatros 
+amianto) 
+calorifugados (mantas y 
+colchones incombustibles y 
+telones ignífugos), guantes, 
+delantales y monos de 
+trabajo 
+Cartón duro, papel y 
+Aislamiento térmico y 
+Fieltro para tejados e hiladas a prueba de 
+productos de papel 
+protección contra el fuego 
+humedades, mezclas con acero, 
+(pueden contener entre 
+en general, y aislamiento 
+revestimientos murales externos y tejados, 
+un 90% y un 100% de 
+eléctrico y térmico de equi­
+pavimentos vinílicos, revestimiento de tableros 
+amianto) 
+pos eléctricos 
+combustibles, laminados resistentes al fuego, y 
+aislamiento ondulado de tuberías 
+Fibrocemento (puede 
+Láminas perfiladas para 
+Tabiques en explotaciones agrícolas y en 
+contener entre un 10% 
+tejados, revestimientos 
+viviendas, encofrado en edificios industriales, 
+y un 15% de amianto) 
+murales externos y 
+paneles decorativos, paneles para bañeras, 
+protección contra la 
+sofitos, revestimientos interiores en paredes y 
+intemperie 
+techos, edificaciones portátiles, bandejas para 
+la reproducción en horticultura, marcos de chi­
+menea, y paneles compuestos para la protec­
+ción contra el fuego 
+Losas, tejas y pizarra 
+Revestimientos externos, cubiertas, baldosas 
+sin vitrificar y tejados 
+Productos prefabricados 
+Cisternas y depósitos, desagües, tuberías de 
+moldeados 
+alcantarillado, conductos para el agua de lluvia 
+y canalones, tubos de evacuación de humos, 
+vallas, componentes de tejados, canales y 
+conductos para cables, conductos de 
+ventilación y jardineras 
+Productos de amianto 
+Fieltros para tejados, hiladas 
+Tejados planos, bajantes de aguas 
+mezclado con betún 
+a prueba de humedades, 
+(puede contener 
+tejados semirrígidos, forros 
+aproximadamente un 
+interiores de canalones y 
+5% de amianto) 
+chapas cubrejuntas en 
+tejados, revestimientos sobre 
+metal 
+Materiales para 
+Losetas (las losetas 
+Escuelas, hospitales, viviendas 
+pavimentos (pueden 
+termoplásticas suelen 
+contener hasta un 25% 
+contener un 25% de 
+de amianto) 
+amianto), papel de amianto 
+utilizado como base de 
+pavimentos de PVC 
+20 
+SANIDAD 
+
+Tabla 2. Ejemplos de materiales que contienen amianto 
+Materiales que 
+Uso típico 
+Ejemplos de dónde se encuentra 
+contienen amianto 
+Revestimientos y 
+Revestimiento de 
+Estuvieron de moda y se 
+pinturas texturizadas 
+paredes y techos 
+utilizaron sólo en algunos Estados Miembros 
+(con efecto de relieve) 
+(pueden contener entre 
+un 1% y un 5% de 
+amianto) 
+Masillas, sellantes y 
+Pueden haberse utilizado 
+Sellantes de ventanas, pavimentos 
+adhesivos (pueden 
+como materiales sellantes en 
+contener entre un 5% y 
+cualquier lugar 
+un 10% de amianto) 
+Plásticos reforzados 
+Paneles plastificados, 
+Paneles plastificados (por ejemplo, Marinite) en 
+(pueden contener entre 
+paneles y revestimientos 
+camarotes de embarcaciones y alféizares 
+un 5% y un 10% de 
+externos de PVC, y como 
+amianto) 
+refuerzo de productos 
+domésticos 
+Compuestos utilizados 
+Tornillos de fijación para 
+Cuadros eléctricos 
+en enchufes de pared 
+aparatos murales 
+Fuente: Institute of Occupational Medicine, s.f. 
+2.3. Mecanismos de acción 
+Las fibras de amianto tienen acción inflamatoria, fibrótica y carcinogénica 
+(Brody, 2010; Heintz et al, 2010; Yang et al, 2008). El amianto entra en con­
+tacto con el organismo a través de contacto dérmico, inhalación e ingestión. 
+Sus efectos principales a nivel respiratorio se producen cuando la inhalación 
+es superior a la capacidad de aclaramiento pulmonar, y tiene efecto acumu­
+lativo, con un período de latencia que puede ser largo (Cugell, 2004). Su 
+efecto parece estar relacionado con el tipo de amianto y el tamaño de la 
+fibra, y parece ser mayor con los anfiboles (Barrett et al, 1989; Hodgson et 
+al, 2000). Los anfiboles tienen una mayor biopersistencia y mayor conteni­
+do en hierro, que cataliza la producción de especies reactivas del oxígeno 
+(ERO) (Cugell, 2004). 
+Todas las variedades de amianto inhalado se depositan inicialmente a 
+lo largo de todo el tracto respiratorio. En las vías aéreas principales, las 
+fibras tienden a acumularse en las bifurcaciones por impacto debido a la 
+inercia, y en estas localizaciones parecen iniciarse los cánceres de pulmón. 
+A nivel alveolar, el ducto bronquioloalveolar es el punto anatómico donde 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+21 
+
+la mayoría de las fibras se depositan por intercepción. Estas fibras son pos­
+teriormente trasladadas por el epitelio tipo I al tejido conectivo subyacente. 
+Estas fibras atacan al epitelio y activan los factores de crecimiento fibrogé­
+nico que causan asbestosis. Algunas de estas fibras llegan al lecho capilar y 
+los vasos linfáticos en el intersticio pulmonar y de aquí a las superficies pleu­
+ral y peritoneal. Los anfiboles son más persistentes en el organismo que el 
+crisotilo, aunque este último se rompe en fibras más pequeñas en el pulmón 
+y es por lo tanto más fácilmente transportado a la pleura, donde tiende a 
+acumularse (Brody, 2010; Heintz et al, 2010). 
+Los procesos de inflamación, fibrosis y carcinogénesis parecen estar 
+interrelacionados. La fibrosis está mediada en parte por citocinas liberadas 
+por macrófagos alveolares activados. Los protooncogenes son regulados en 
+macrófagos alveolares activados en pulmones fibróticos, y el amianto puede 
+introducir ADN adherido a sus fibras en las células mediante transmigra­
+ción (Rom et al, 1991). Además, el amianto parece estimular la proliferación 
+celular, favoreciendo así el desarrollo tumoral (Mossman, 1994). 
+La acción fibrótica y neoplásica de los asbestos parece deberse al papel 
+de los oxidantes, y parece depender del tipo, tamaño y persistencia de las 
+fibras de amianto (Manning et al, 2002). 
+El alto contenido en hierro de los asbestos parece ser fundamental en 
+la génesis de ERO –especialmente el radical hidroxilo, altamente dañino 
+para el ADN- y especies reactivas del nitrógeno (ERN). Uno de los más 
+potentes péptidos controladores del crecimiento, el factor transformador de 
+crecimiento β (FTCβ) parece activarse por las ERO derivadas del asbesto. 
+El FTCβ es una citocina bien conocida con capacidad fibrogénica en la 
+asbestosis, y puede inducir transición epitelial-mesotelial así como diferen­
+ciación en fibroblastos del intersticio pulmonar; puede reducir o estimular 
+la proliferación celular y ha sido encontrado en mesoteliomas malignos. Las 
+ERO producen disrupción de los aminoácidos en el péptido latente que 
+inactiva el FTCβ, y por lo tanto, en cierta manera lo activan. Por su parte, el 
+FNTα activa la vía del factor de transcripción NF-κB, que da lugar a la 
+expresión de genes que codifican el FTCβ y promueve la supervivencia 
+celular, con células que pueden acumular daño en el ADN (Yang et al, 
+2008); se favorece así la formación del tumor, a través de la expresión de 
+FNTα y FTCβ en los lugares donde se produce deposición de fibras, con un 
+patrón dosis-respuesta. 
+Por otro lado, el amianto depositado en la superficie alveolar activa el 
+Factor 5 del Complemento, el cual atrae a los macrófagos alveolares, que se 
+acumulan rápidamente en los lugares de deposición de fibras de asbesto. 
+Estas células liberan FNTα y ello explicaría el desarrollo de las lesiones en 
+los ductos bronquiolo-alveolares. Las células inflamatorias cercanas a la 
+pleura pueden liberar factores de crecimiento que promueven la prolifera­
+22 
+SANIDAD 
+
+ción celular mesotelial y favorecen así la transformación neoplásica (Brody, 
+2010). 
+La proteína p53 está implicada en la disfunción y la apoptosis de las 
+células epiteliales alveolares, a través de especies reactivas de oxígeno 
+(ERO). El ácido fítico inhibe la expresión de p53 en las células del ducto 
+broncoalveolar. La interacción entre p53 y la mitocondria, como consecuen­
+cia de la exposición a amianto y la interacción física de las fibras de amian­
+to con los orgánulos y la membrana celular, tiene un papel crucial en la 
+regulación de la supervivencia y/o transformación maligna de las células 
+alveolares. Alteraciones en la regulación de la apoptosis pueden favorecer 
+la fibrosis, la formación de un clon de células malignas (Panduri et al, 2006) 
+o una proliferación celular compensatoria que favorecería la aparición de 
+células cancerosas (Kamp, 2009). 
+2.4.   Efectos sobre la salud 
+La exposición a amianto puede producir fibrosis pulmonar, alteraciones 
+pleurales, pericárdicas y peritoneales y cáncer de pulmón (Kamp, 2009), 
+mesoteliomas pleural, peritoneal y pericárdico, habiéndose encontrado tam­
+bién asociación con otras neoplasias: carcinomas gastrointestinales o de 
+laringe (IOM, 2006) y de ovario (Straif et al, 2009). Existe sospecha, no con­
+firmada, de que el asbesto puede producir otros cánceres (riñón, mama) 
+(Villanueva et al., 2003). A nivel poblacional, existe una asociación entre el 
+consumo del amianto y la incidencia de enfermedades por amianto (Kazan-
+Allen, 2005). Las manifestaciones de las alteraciones de la salud debidas a 
+amianto pueden presentarse hasta 75 años tras el inicio de la exposición 
+(Bianchi et al, 2001). 
+Fibrosis pulmonar o asbestosis 
+La asbestosis es un proceso inflamatorio y fibrótico de las estructuras alve­
+olares bilateral mediada por citocinas liberadas por los macrófagos alveola­
+res (Rom et al, 1991). El desarrollo de la asbestosis parece estar 
+directamente relacionado con la magnitud y duración de la exposición a 
+amianto (Kamp, 2009), así como el tiempo transcurrido desde la primera 
+exposición (Paris et al, 2008). Las primeras lesiones aparecen muy precoz-
+mente tras la exposición a amianto, y aparecen en la bifurcaciones de los 
+bronquiolos alveolares (Letourneux et al, 2007). 
+Clínicamente (Mossman et al, 1998) es un proceso similar a la fibrosis 
+pulmonar idiopática. Se presenta con disnea, tos seca, y la exploración físi-
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+23 
+
+ca suele revelar crepitantes inspiratorios en las bases pulmonares. La explo­
+ración funcional suele mostrar en casos de asbestosis establecida un patrón 
+restrictivo y una disminución de la difusión de CO, aunque hay casos sin 
+alteraciones funcionales ventilatorias evidentes. 
+Por otro lado, parece haber una correlación entre el grado de afecta­
+ción funcional y la gravedad de las imágenes radiológicas, tanto radiográfi­
+cas como de la tomografía computadorizada (TC) (Letourneux et al, 2007). 
+La radiografía típica muestra infiltrado reticulonodular similar al de 
+otras patologías intersticiales pulmonares (Letourneux et al, 2007). La TC 
+muestra bandas periféricas, líneas, engrosamiento de los septos interlobula­
+res e imagen en panal más evidente en las bases pulmonares. Los signos clí­
+nicos de la asbestosis no son específicos, y pueden encontrarse en otras 
+fibrosis intersticiales pulmonares difusas. Su asociación con placas pleurales 
+refuerza el diagnóstico de asbestosis. 
+El diagnóstico histopatológico se basa en la presencia de fibrosis 
+intersticial y la identificación de cuerpos asbestósicos (fibras de amianto 
+recubiertas por una capa de proteína ferruginosa) en secciones de 5 μ. 
+Los estudios epidemiológicos indican que se requiere una fuerte expo­
+sición a amianto con un umbral mínimo de 25-100 fibras/ml/año, general­
+mente durante un período largo de tiempo, aunque se han descrito casos 
+con exposiciones cortas (de pocos años) pero intensas (de varios cientos de 
+fibras/ml). Los datos parecen indicar que si no se alcanza el umbral mínimo 
+de exposición no se produce la asbestosis. El período de latencia es inversa-
+mente proporcional al nivel de exposición; según las cohortes estudiadas, ha 
+variado entre 5 y 20 años. 
+Así pues, parece haber un efecto dosis-respuesta, con un umbral míni­
+mo de exposición necesario y un enlentecimiento de la evolución de las 
+lesiones si cesa la exposición (Letourneux et al, 2007). 
+Según la American Thoracic Society (ATS, 2004), el diagnóstico de 
+asbestosis comprende: 
+1.  Criterios mayores o esenciales: 
+–  Historia significativa de exposición. 
+–  Tiempo de latencia entre exposición y detección. 
+–  Hallazgos radiológicos sugestivos de fibrosis pulmonar difusa 
+bien en la radiografía o en la tomografía axial computarizada de 
+alta resolución (TCAR). 
+2. Criterios menores o confirmativos: 
+–  Patrón restrictivo en la función pulmonar. 
+–  Estertores crepitantes bilaterales inspiratorios. 
+–  Acropaquias. 
+24  
+SANIDAD 
+
+Los signos radiográficos se consideran los más relevantes (imagen 
+radiográfica con opacidades torácicas pequeñas de grado 1/1 o superior de 
+la clasificación de la OIT); no obstante, el 10-20% de pacientes con eviden­
+cia histológica de asbestosis presentan radiografías normales, por lo que el 
+criterio radiográfico usado aisladamente subestimaría el peso real del pro­
+blema de salud. 
+Alteraciones pleurales 
+Las alteraciones pleurales son la manifestación más común de exposición a 
+amianto. Su impacto sobre la función ventilatoria depende de la extensión 
+de las alteraciones histopatológicas. Además, están asociadas al riesgo de 
+alteraciones parenquimatosas (Rosenstock et al, 1987). 
+Derrame pleural benigno 
+El derrame pleural benigno (Greiller et al, 2008; Letourneux et al, 2007) es 
+una manifestación común durante los primeros 20 años tras la exposición; 
+puede ocurrir de 1 a 60 años a partir de la exposición inicial. Se define como 
+un derrame, generalmente unilateral, que ocurre en relación con la exposi­
+ción a amianto, en ausencia de otros factores, y no va seguido de la aparición 
+de tumores malignos en los siguientes 3 años. Muchos casos son asintomáti­
+cos. El fluido exudado es a menudo macroscópicamente hemorrágico, de 
+celularidad mixta o con un recuento eosinofílico aumentado. Raramente se 
+encuentran cuerpos de asbesto, pero pueden verse ocasionalmente en el 
+tejido pleural y son frecuentes en el tejido pulmonar subyacente. 
+El derrame pleural no requiere habitualmente tratamiento, a no ser 
+que el paciente presente síntomas. La historia natural del derrame pleural es 
+la cronificación con recurrencias frecuentes. Habitualmente, se resuelven 
+espontáneamente a lo largo de un período de 1 a 17 meses. Normalmente 
+dan lugar a un borrado del ángulo costofrénico y engrosamiento pleural 
+difuso. La historia natural del derrame pleural es la cronificación con recu­
+rrencias frecuentes en los primeros 3 años de la presentación inicial. 
+El derrame pleural no modifica el riesgo de mesotelioma maligno, 
+pero es indicador de exposición, generalmente de nivel  elevado, y por lo 
+tanto de riesgo de tumores malignos asociados a la exposición a amianto. 
+Sin embargo, puede producir secuelas como engrosamiento pleural difuso y 
+disfunción ventilatoria (Peacock et al, 2000). 
+Placas pleurales 
+Las placas pleurales (Greiller et al, 2008; Letourneux et al, 2007) son mani­
+festaciones comunes de la exposición a amianto, aunque pueden producirse 
+por otras causas (Cugell et al, 2004). Son áreas discretamente elevadas de 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+25 
+
+fibrosis hialina que surgen de la pleura parietal. La prevalencia de placas 
+pleurales es muy baja en poblaciones no expuestas a amianto. En poblacio­
+nes expuestas ambientalmente al amianto la prevalencia es del 0,53 al 8% 
+mientras que en poblaciones laboralmente expuestas varía entre el 3 y el 
+14% en sectores como la construcción y reparación naval, habiéndose des­
+crito prevalencias mayores en astilleros en algunas series publicadas (del 
+70% en TAC y del 86,7%) en autopsias (Bianchi et al., 2000). 
+Microscópicamente, las placas pleurales consisten en acúmulos de 
+colágeno siguiendo un patrón ondulado que contienen un número abundan­
+te de fibras de amianto, casi exclusivamente crisotilos, mientras que los cuer­
+pos de asbesto están ausentes. Macroscópicamente, las placas pleurales 
+tienen una apariencia fibrosa. Anatómicamente, tienden a aparecer junto a 
+estructuras rígidas como las costillas, la columna vertebral o la parte tendi­
+nosa del diafragma. Su localización típica, de acuerdo con los estudios radio-
+gráficos, son la pared torácica anterolateral entre la tercera y la quinta 
+costilla, la pared posterolateral entre la sexta y la novena costillas, la cúpula 
+del diafragma y raramente sobre la pleura mediastínica pericárdica. No sue­
+len aparecer en los ápices o los ángulos costofrénicos. Su número y tamaño 
+son variables, aunque suelen ser múltiples y bilaterales. Las placas antiguas 
+(generalmente de más de 30 años) se suelen calcificar, empezando por la 
+periferia de la lesión, y adquieren un color blanco o grisáceo. Radiográfica­
+mente, son difíciles de localizar si no están calcificadas. 
+Las placas pleurales constituyen un hallazgo incidental, y son habitual­
+mente asintomáticas. No parecen producir alteraciones funcionales respira­
+torias ni incrementar el riesgo de cáncer relacionado con el amianto (Weiss, 
+1999; Cugell et al, 2004), aunque pueden asociarse con fibrosis pericárdica 
+con o sin calcificación o derrame y pueden dar lugar a pericarditis constric­
+tiva (Martínez et al, s.f.). 
+No obstante, son indicadores de exposición a amianto y su manifesta­
+ción más frecuente. La presencia de placas pleurales justifica el seguimien­
+to médico de los individuos expuestos. 
+Engrosamiento pleural difuso 
+El engrosamiento pleural difuso (Greiller et al, 2008; Letourneux et al, 2007) 
+se produce como consecuencia de la fibrosis de la pleura visceral, que se funde 
+con la pleura parietal. El engrosamiento pleural difuso es una consecuencia del 
+derrame pleural, pero no es patognomónico de exposición a asbestos. 
+El engrosamiento pleural difuso es marcadamente menos frecuente 
+que las placas pleurales. Histológicamente hay similitudes con las placas 
+pleurales, especialmente la estructura ondulada de las fibras y la actividad 
+limitada de las células fibroblásticas. El engrosamiento pleural difuso no 
+suele ser bilateral, a menudo cubre una amplia área y conlleva fusión de las 
+26 
+SANIDAD 
+
+pleuras parietal y visceral. Raramente calcifica y no suele involucrar fisuras 
+interlobulares. 
+Radiológicamente, se define como una densidad pleural ininterrumpi­
+da y suave que se extiende al menos por una cuarta parte de la pared torá­
+cica. Con la TC, el engrosamiento pleural difuso se define como una lámina 
+continua de engrosamiento pleural de más de 5 cm de ancho, más de 8 cm 
+de longitud craneocaudal y más de 3 mm de grosor. 
+Al revés que las lesiones pleurales anteriormente descritas, el engrosa­
+miento pleural difuso puede producir síntomas, especialmente dolor toráci­
+co localizado y alteración funcional ventilatoria restrictiva (Al Jarad et al, 
+1991). Estas alteraciones están directamente correlacionadas con la exten­
+sión y magnitud del engrosamiento pleural. 
+Fibrosis pericárdica con restricción cardiaca 
+Es un engrosamiento del pericardio producido por amianto. Puede ser asin­
+tomática o conducir a insuficiencia cardiaca. 
+Atelectasia redonda 
+La atelectasia redonda, pulmón plegado, pseudotumor por asbesto o síndro­
+me de Blesovsky (Greiller et al, 2008; Letourneux et al, 2007) es una altera­
+ción parenquimatosa menos frecuente que el engrosamiento pleural difuso 
+o las placas pleurales. Está fuertemente asociada a la exposición a amianto, 
+pero puede ser producida por otras causas de exudado pleural. Su patoge­
+nia es poco conocida. 
+Radiológicamente, aparece como una masa opaca periférica, que se 
+desarrolla en una localización aislada (ocasionalmente múltiple). La TC 
+muestra una masa oval en contacto con la superficie pleural, con estruc­
+turas bronquiolares que pasan a su través, que dan lugar a un centro 
+borroso, y rodeada de una pleura adyacente engrosada, con o sin calcifi­
+cación añadida. La incurvación del pedículo broncoalveolar hacia la ate­
+lectasia da lugar a la imagen llamada “cola de cometa”. A menudo se 
+observa pérdida de volumen en el pulmón adyacente. Habitualmente 
+aparece en la língula y lóbulos medial o inferiores, aunque puede apare­
+cer en cualquier lóbulo, incluso bilateralmente. A veces es difícil distin­
+guirlo de un cáncer de pulmón primario, lo que constituye el principal 
+diagnóstico diferencial. 
+En la mayor parte de los casos los pacientes son asintomáticos, pero 
+pueden presentar disnea si el volumen de la atelectasia es grande. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+27 
+
+Mesotelioma maligno 
+El mesotelioma maligno (Greiller et al, 2008) es un tumor poco frecuente en 
+la población general (Agudo, 2003; Hughes, 2005) asociado a la exposición a 
+largo plazo a amianto (Zellos et al, 2004), especialmente anfiboles (Cugell et 
+al, 2004) aunque es posible con exposiciones cortas a este producto. 
+El riesgo de padecer mesotelioma parece estar asociado a la intensidad 
+y duración de la exposición (Antman, 1993), aunque está en discusión si hay 
+un nivel de exposición umbral (Cugell et al, 2004; Hillerdal, 1999). 
+Afecta a las superficies mesoteliales de las cavidades pleural y perito­
+neal, el pericardio y la túnica vaginal, aunque el 80% es de localización pleu­
+ral en origen (Sterman et al, 2005). El mesotelioma pleural se asocia a 
+asbestosis en un 25% de los casos, mientras que el mesotelioma peritoneal 
+se asocia frecuentemente a la asbestosis, debido en estos casos a exposicio­
+nes intensas al amianto, mientras que el tabaquismo y la presencia de meta­
+les o de sustancias orgánicas parecen no tener influencia en el riesgo de 
+contraer la enfermedad (Pelnar, 1989). 
+Su supervivencia mediana es de 6-12 meses (Brims, 2009; Pass et al, 
+2009; Robinson, 2005). Se presenta con más frecuencia en hombres de 50-70 
+años de edad con dolor torácico unilateral, disnea, fatiga, pérdida de peso y 
+derrame pleural frecuente (Robinson, 2005). A veces es asintomático. Rara­
+mente se presentan signos de invasión locorregional como la presencia de 
+una masa en la pared torácica, derrame pericárdico, obstrucción de la vena 
+cava superior, síndrome de Horner, compresión de la médula espinal, com­
+presión del nervio frénico o compresión esofágica. 
+Radiográficamente, se presenta como un derrame pleural unilateral, 
+como una masa pleural o como un engrosamiento pleural difuso con afecta­
+ciones de cisuras interlobulares con ausencia de derrame pleural (Yilmaz et 
+al, 1998). Pueden observarse placas pleurales. En estadios posteriores de 
+evolución, puede verse una desviación mediastínica ipsilateral como resul­
+tado de una pérdida de volumen pulmonar. Más adelante puede observarse 
+ensanchamiento mediastínico y destrucción de costillas o tejidos blandos de 
+la pared torácica. 
+Histológicamente, el mesotelioma maligno se clasifica en 3 tipos histo­
+lógicos: sarcomatoide, epitelial y bifásico. La más común es la variante epi­
+teloide (50-60% de los casos). El diagnóstico histopatológico es difícil y 
+lleva a menudo a errores con lesiones inflamatorias o reactivas. 
+El mesotelioma peritoneal está igualmente asociado a la exposición a 
+amianto. Los anfiboles representan un riesgo mayor tanto para el mesote­
+lioma pleural como para el peritoneal (Boffetta, 2007; McDonald et al, 1996; 
+Rom et al, 1991). 
+28 
+SANIDAD 
+
+El diagnóstico etiológico se refuerza con el recuento de fibras, la pre­
+sencia de asbestosis parenquimatosa o pleural, o la presencia anormal de 
+asbesto en el tejido pulmonar (p.e. cuerpos de asbesto). En ausencia de tales 
+marcadores, la historia de exposición previa es suficiente para establecer la 
+relación causal. 
+Cáncer de pulmón 
+El cáncer de pulmón por exposición al amianto puede pertenecer a cual­
+quier tipo histológico, y su historia natural no difiere de la del cáncer produ­
+cido por otras causas. 
+Al contrario de lo que ocurre con la asbestosis, que está correlaciona­
+da con la magnitud y duración de la exposición a amianto, el cáncer de pul­
+món puede aparecer aún con baja exposición a amianto (Kamp, 2009). El 
+tabaco actúa de forma sinérgica con el amianto (Barrett et al, 1989). 
+La atribución del cáncer de pulmón al amianto se basa en la historia 
+de exposición anterior a este agente. A veces pueden encontrarse gran can­
+tidad de fibras en el lavado broncoalveolar con una historia de exposición 
+laboral corta (que puede haber sido intensa) o, por el contrario, bajo nivel 
+de fibras con exposición laboral relevante (sobre todo con el crisotilo, debi­
+do a su alto índice de aclaramiento). La asbestosis, como todo proceso fibró­
+tico pulmonar, aumenta el riesgo de padecer cáncer de pulmón (Letourneux 
+et al, 2007). De hecho, sirve como marcador de atribución de la etiología de 
+los casos de cáncer (Jones et al, 1996; Weiss, 1999). 
+Cáncer de laringe 
+El cáncer de laringe tiene una incidencia anual de 4,5 y ocupa el 10º puesto 
+en frecuencia de tumores (López Abente et al., 2004). Habitualmente esca­
+moso, presenta tres localizaciones: supraglótica, glótica (cuerdas vocales) y 
+subglótica. Este último es relativamente raro. Los cánceres de localización 
+supraglótica, así como los de la orofaringe, se presentan habitualmente con 
+nódulos metastásicos locales, mientras que el cáncer glótico se manifiesta 
+con disfonía y por eso es diagnosticado relativamente pronto, por lo que 
+suele tener mejor pronóstico que los de las otras localizaciones. El cáncer 
+laríngeo está asociado a factores extralaborales como el consumo de tabaco 
+y alcohol, con efecto sinérgico y relación dosis-respuesta. Otros factores aso­
+ciados al cáncer de laringe son la raza, la clase social, la dieta y la higiene 
+bucal, con un marcado gradiente socioeconómico. 
+Su asociación con la exposición a amianto es controvertida. Una revi­
+sión sistemática que identificó y valoró 35 estudios prospectivos y 17 estu-
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+29 
+
+dios retrospectivos no encontró aumento de riesgo de cáncer de laringe en 
+expuestos a amianto (Browne et al, 2000), mientras que un estudio multi­
+céntrico de casos y controles (Berrino et al, 2003) encontró un exceso de 
+riesgo ligeramente significativo para el cáncer de laringe e hipofaringe, tras 
+ajustar por factores extralaborales como la clase social, la dieta y el consu­
+mo de alcohol y tabaco. Estudios posteriores han encontrado asociación 
+entre la exposición a amianto y el cáncer de laringe (Kaerlev et al, 2005; 
+Purdue et al, 2006). 
+El cáncer de laringe debido a la inhalación de polvo de amianto se ha 
+incluido en el Anexo 2 del Real Decreto 1299/2006: lista complementaria de 
+enfermedades cuyo origen profesional se sospecha y cuya inclusión en el 
+cuadro de enfermedades profesionales podría contemplarse en el futuro. 
+30 
+SANIDAD 
+
+3.   Evaluación del riesgo 
+La evaluación del riesgo de exposición es obligada en todos los trabajos con 
+amianto y debe estar incluida en los planes de trabajo según lo dispuesto en 
+el Real Decreto 396/2006. 
+Antes del comienzo de cada trabajo con riesgo de exposición al amian­
+to incluido en el ámbito de aplicación de la legislación vigente, el empresa­
+rio deberá elaborar un plan de trabajo. 
+La evaluación del riesgo de exposición se llevará a cabo de conformi­
+dad con lo dispuesto en el artículo 5 y anexos I y II de dicho Real Decreto 
+donde se especifican la forma de realización, la obligatoriedad de la medi­
+ción de las concentraciones de fibras en aire, el procedimiento de toma de 
+muestra y análisis y los requisitos exigidos a técnicos y laboratorios especia­
+lizados para asegurar la fiabilidad de los resultados. Para ampliar detalles a 
+este respecto se remite a la Guía Técnica del INSHT (http://www.insht.es// 
+GuiasTecnicas/ExposiciónalAmianto.pdf) donde se comenta ampliamente 
+el artículo 5 y al apéndice 2 de la misma sobre evaluación de exposición y 
+medida de las concentraciones de fibras de amianto en aire. 
+Los resultados de las evaluaciones de los planes de trabajo realizados, 
+con los datos de las exposiciones nominales para cada trabajador, serán 
+remitidos a las autoridades laboral y sanitaria para su registro y archivo, 
+según lo dispuesto en el artículo 18 y el modelo de ficha que se incluye en 
+el anexo IV del mencionado Real Decreto. 
+Cuando se trate de exposiciones anteriores a la entrada en vigor del 
+Real Decreto 396/2006, se dispondrá de los datos de las mediciones recogi­
+das en las Fichas de seguimiento ambiental, según anexo de la Orden 22 
+diciembre 1987 (BOE 29/12/1987) que configuran el libro de registro de 
+datos previsto en el Reglamento sobre trabajos con riesgo de amianto, de 
+anterior aplicación. Estas fichas cumplimentadas por las empresas fueron 
+remitidas, salvo incumplimientos,  en su día a la autoridad laboral corres­
+pondiente al centro de trabajo donde se hubiesen efectuado los controles y 
+evaluaciones correspondientes. 
+Cuando no se disponga de datos registrados y exista evidencia de tra­
+bajo con amianto, se pueden hacer estimaciones de las exposiciones perso­
+nales para la evaluación de riesgos basándose, por ejemplo, en datos 
+bibliográficos y en los modelos de matrices de riesgo que se están desarro­
+llando. Para ello será necesario tener en cuenta variables tales como el tipo 
+de actividad realizado por el trabajador, la variedad de amianto, el tipo de 
+MCA, la duración del trabajo, etc... 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+31 
+
+
+4.   Protocolo de vigilancia 
+sanitaria específica 
+El cribado de trabajadores expuestos a amianto persigue cuatro metas 
+principales (Henderson et al, 1997): identificar poblaciones de alto riesgo, 
+identificar situaciones sobre las que actuar preventivamente, descubrir 
+daño para la salud producido por el trabajo y desarrollar métodos de tra­
+tamiento, rehabilitación o prevención. 
+La prevención debe dirigirse a tres niveles: al individuo afectado, a 
+los trabajadores en las mismas circunstancias y al ambiente de trabajo. El 
+principal aspecto al que deben dirigirse las intervenciones es al ambiente 
+de trabajo, con el fin de disminuir o eliminar la exposición. Las acciones 
+sobre el trabajador deben incluir el seguimiento de su estado de salud, la 
+información y formación sobre el uso adecuado del agente nocivo y el 
+consejo antitabáquico, de gran importancia en lo que se refiere a la expo­
+sición laboral a amianto. En el presente protocolo se desarrollan los pro­
+cedimientos dirigidos al seguimiento del estado de salud del trabajador 
+expuesto. 
+El diagnóstico clínico se basará en una anamnesis detallada que 
+incluya datos de la historia laboral y la búsqueda de signos y síntomas 
+relacionados con la enfermedad, la exploración clínica, el estudio radio-
+lógico y funcional y, en caso necesario, la confirmación diagnóstica 
+mediante estudios de diagnóstico por la imagen, histopatológicos y de 
+laboratorio. 
+El contenido de los exámenes de salud de los trabajadores expues­
+tos a amianto se encuentra esquematizado en el anexo 1. A efectos sani­
+tarios, la información clínico laboral derivada de la vigilancia de la salud 
+individual se recoge en el anexo 2. En este sentido, y en relación con los 
+trabajadores actualmente expuestos a amianto, se recuerda que el Anexo 
+V del Real Decreto 396/2006, de 31 de marzo, por el que se establecen las 
+disposiciones mínimas de seguridad y salud aplicables a los trabajos con 
+riesgo de exposición al amianto, contiene la información a entregar al tra­
+bajador y remitir a la autoridad sanitaria del lugar donde la empresa esté 
+registrada. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+33 
+
+4.1.   Historia laboral 
+4.1.1.  Exposiciones anteriores (anamnesis laboral) 
+Se determinará mediante la anamnesis para la identificación de ocupacio­
+nes anteriores con riesgo de exposición a amianto. El riesgo de exposición 
+se determinará a partir de la descripción de la actividad laboral según el 
+correspondiente listado de materiales, operaciones y actividades de los 
+apartados 1 y 2 de este protocolo y se confirmará documentalmente a tra­
+vés de la inscripción de la empresa en el Registro de Empresas con Riesgo 
+de Amianto (RERA), evaluaciones de riesgos laborales, estudios de higiene 
+industrial, actas del Comité de Salud y Seguridad o del Comité de Empresa 
+con la Dirección, certificados e informes personales establecidos en el Real 
+Decreto 396/2006, y aquéllos otros documentos considerados bajo el crite­
+rio profesional sanitario. 
+4.1.2.  Exposición actual al riesgo 
+Se determinará por anamnesis a partir de la actividad laboral según el 
+correspondiente listado de materiales, operaciones y actividades de los 
+apartados 1 y 2 de este protocolo y se confirmará documentalmente a tra­
+vés de la inscripción de la empresa en el RERA, la evaluación de riesgos 
+laborales del puesto de trabajo, la inclusión en la relación nominal del plan 
+de trabajo al que alude el artículo 11.2 del RD. 396/2006 de 31 de marzo ó 
+cualquier otra actuación que permita justificar su integración en el progra­
+ma de vigilancia de la salud. 
+4.2.   Historia clínica 
+4.2.1.  Anamnesis 
+Incluirá, además de los antecedentes personales y familiares e interrogato­
+rio sobre posibles síntomas presentes en el momento del examen de salud, 
+los ítems establecidos en el apartado III (consumo de tabaco) y IV (sínto­
+mas respiratorios) de la ficha de vigilancia de la salud de los trabajadores 
+expuestos a amianto correspondiente al anexo V del Real Decreto 396/2006, 
+de disposiciones mínimas de seguridad y salud aplicables a los trabajos con 
+riesgo de exposición al amianto, las medidas preventivas utilizadas durante 
+los trabajos y el grado de cumplimiento de las mismas, incluidas las medidas 
+de higiene personal y de la indumentaria utilizada. 
+34 
+SANIDAD 
+
+4.2.2.  Exploración clínica específica 
+Incluirá en todo caso los ítems establecidos en los apartados V (exploración 
+funcional respiratoria) y VI (estudio radiográfico) de la ficha de vigilancia 
+de la salud de los trabajadores expuestos a amianto correspondiente al 
+anexo V del Real Decreto 396/2006, de disposiciones mínimas de seguridad 
+y salud aplicables a los trabajos con riesgo de exposición al amianto. 
+Consistirá en los siguientes procedimientos: 
+a) Inspección. Incluirá búsqueda de signos de acropaquia. 
+b) Auscultación cardiopulmonar. Incluirá búsqueda de crepitantes. 
+c) Diagnóstico por la imagen 
+Se realizará una radiografía posteroanterior, lateral izquierda y obli­
+cuas de tórax (podrá complementarse con otras proyecciones a criterio 
+médico) en placas de 35x45 cm, con técnica de alto voltaje de más de 100 
+kilovoltios y a una distancia mínima de 2 metros con rejilla antidifusora Pot­
+ter-Bucky. Puede evaluarse con la Clasificación Internacional de Neumoco­
+niosis de la OIT de 1980 (revisión 2000). 
+La periodicidad recomendada de los exámenes radiográficos está en 
+función de la edad del trabajador y del período transcurrido desde el inicio 
+de la exposición (Levin et al, 2000), tal como se presenta en la tabla 3: 
+Tabla 3. Periodicidad recomendada para la radiografía simple de tórax en trabaja­
+dores expuesos a amianto 
+Años de 
+Edad del trabajador 
+exposición 
+15 - 35 
+35 - 45 
+>45 
+0 - 10 
+Quinquenal 
+Quinquenal 
+Quinquenal 
+>10 
+Quinquenal 
+Bienal 
+Anual 
+Fuente: Levin et al, 2000 
+Para el diagnóstico de asbestosis poco aparentes, dado que el 10-20% de las 
+asbestosis no son detectables por la radiografía convencional, al menos en esta­
+dios iniciales, que el cese de la exposición parece enlentecer la evolución de la 
+fibrosis pulmonar, y que el período de latencia parece encontrarse entre los 5 
+y los 20 años tras el inicio de la exposición, podrá incluirse una Tomografía 
+computarizada de alta resolución (TCAR) a los trabajadores cuya exposición 
+inicial hubiera tenido lugar al menos cinco años atrás. Se practicarán sucesivas 
+TCAR en exámenes de salud periódicos posteriores en función de los resulta­
+dos de esta primera TCAR y a criterio médico, si se aprecian indicios de enfer-
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+35 
+
+medad o cambios no explicados en los síntomas, función pulmonar o imágenes 
+radiográficas, de acuerdo con las recomendaciones de la SEPAR (Isidro et al, 
+2004) recogidas en el apartado 4.4. 
+Igualmente podrá complementarse con pruebas de diagnóstico por la 
+imagen adicionales con RM y PET de acuerdo con las orientaciones gene­
+rales del punto 4.4. de este protocolo. 
+d) Estudio funcional respiratorio 
+Incluirá de manera sistemática la determinación de la capacidad 
+vital (VC), el volumen espiratorio forzado en un segundo (FEV1) y 
+la razón FEV1/VC, de acuerdo con los criterios del grupo de traba­
+jo conjunto ATS (American Thoracic Society) – ERS (European 
+Respiratory Society) [Pellegrino et al, 2005]. 
+En caso de anomalías de estos parámetros, y a criterio médico, 
+podrá realizarse test de difusión del CO (DLCO) o una pletismo­
+grafía corporal, de acuerdo con las orientaciones generales del 
+punto 4.4. de este protocolo. 
+e) Consejo sanitario antitabaco 
+Dado el incremento de riesgo de cáncer de pulmón y laringe deriva­
+do de la exposición conjunta a amianto y humo de tabaco, y a la ele­
+vada efectividad del consejo antitabaco como medida preventiva, es 
+absolutamente necesario incluir esta medida sistemáticamente 
+entre los procedimientos a aplicar en los exámenes de salud a los 
+trabajadores expuestos a amianto. 
+4.3. Contenido de los exámenes de salud 
+Examen de salud inicial 
+Todo trabajador, antes del  inicio de su actividad en un puesto de trabajo 
+con riesgo de exposición a amianto, deberá ser objeto de un examen de 
+salud para determinar, desde el punto de vista sanitario, su capacidad espe­
+cífica para estos trabajos. Los datos obtenidos servirán como referencia para 
+evaluar la evolución del estado de salud del trabajador expuesto. 
+Constará de: 
+a) Historia laboral anterior. 
+b) Historia clínica. Incluye hábito de consumo de tabaco y síntomas  
+respiratorios. 
+c) Exploración clínica específica, según especificaciones del punto 
+4.2.2, que incluye: 
+36 
+SANIDAD 
+
+– Inspección. Incluye búsqueda de acropaquias. 
+– Auscultación. Incluye búsqueda de crepitantes. 
+– Diagnóstico por la imagen: radiología convencional, proyección 
+PA, lateral izquierda y oblicuas. 
+– Estudio funcional respiratorio, según las orientaciones generales 
+del apartado 4.2.2.d). 
+d) Consejo sanitario antitabaco. 
+Exámenes de salud periódicos 
+Todo trabajador que esté o haya estado expuesto a amianto en la empresa, 
+se someterá a exámenes de salud periódicos, con el siguiente contenido: 
+Se realizará, con periodicidad bienal: 
+a) Historia laboral anterior: revisión y actualización. 
+b) Historia clínica: revisión y actualización, especialmente de hábito de 
+consumo de tabaco y síntomas respiratorios. 
+c) Exploración clínica específica, según especificaciones del punto 
+4.2.2, que incluye: 
+– Inspección. Incluye búsqueda de acropaquias. 
+– Auscultación. Incluye búsqueda de crepitantes. 
+– Estudio funcional respiratorio, según las orientaciones generales del 
+apartado 4.2.2.d). 
+– Diagnóstico por la imagen: radiología convencional, proyección PA, 
+lateral izquierda y oblicuas según criterios establecidos en el punto 
+4.2.2.c). Para el diagnóstico de asbestosis poco aparentes  podrá 
+incluirse una TCAR en el quinto año tras el inicio de la exposición, 
+que podrá repetirse en sucesivos exámenes de salud periódicos 
+según los resultados de la primera TCAR y a criterio médico, tenien­
+do en cuenta las recomendaciones de la SEPAR (Isidro et al, 2004) 
+recogidas en el apartado 4.4. 
+d) Consejo sanitario antitabaco. 
+Exámenes de salud postocupacionales 
+Todo trabajador con antecedentes de exposición a amianto que cese la acti­
+vidad con riesgo, cualquiera que sea la causa, se someterá a un  examen de 
+salud que constará de: 
+a) Historia laboral anterior: revisión y actualización. 
+b) Historia clínica: revisión y actualización, especialmente de hábito de 
+consumo de tabaco y síntomas respiratorios. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+37 
+
+c) Exploración clínica específica, según especificaciones del punto 
+4.2.2, que incluye: 
+– Inspección. Incluye búsqueda de acropaquias. 
+– Auscultación. Incluir búsqueda de crepitantes. 
+– Diagnóstico por la imagen, según las orientaciones generales de 
+los apartados 4.2.2.c) y 4.4. Para el diagnóstico de asbestosis poco 
+aparentes  podrá incluirse una TCAR en el quinto año tras el ini­
+cio de la exposición, que podrá repetirse en sucesivos exámenes 
+de salud periódicos según los resultados de la primera TCAR y a 
+criterio médico, teniendo en cuenta las recomendaciones de la 
+SEPAR (Isidro et al, 2004) recogidas en el apartado 4.4. 
+– Estudio funcional respiratorio, según las orientaciones generales 
+del apartado 4.2.2.d). 
+d) Consejo sanitario antitabaco. 
+La periodicidad y contenido adicional de los sucesivos exámenes de 
+salud postocupacionales se determinará por el médico responsable del exa­
+men de salud en función de los hallazgos del examen de salud anterior. 
+4.4.   Control biológico y estudios 
+complementarios específicos 
+Control biológico 
+Se han evaluado algunos biomarcadores para el mesotelioma maligno, como 
+el ácido hialurónico, el antígeno carcinoembrionario, las proteínas solubles 
+relacionadas con la mesotelina (SMRP), la osteopontina y el factor de 
+potenciación de los megacariocitos (Greillier et al, 2008; Pass et al, 2009; 
+Uriarte, 2009). Las proteínas solubles relacionadas con la mesotelina 
+(SMRP) también podrían servir como indicador de exposición a amianto 
+(Rodriguez-Portal et al, 2009). 
+Sin embargo, en la actualidad los resultados de los estudios no permi­
+ten recomendar el uso de ningún biomarcador para la detección precoz de 
+esta enfermedad, por lo que el control biológico no es aplicable en la vigi­
+lancia de la salud de los expuestos a amianto. 
+Diagnóstico por la imagen 
+En la radiografía de tórax, las estructuras mediastínicas y el diafragma oscu­
+recen parte del parénquima pulmonar, motivo que resalta y justifica la 
+38 
+SANIDAD 
+
+importancia de la proyección lateral en la detección y localización de pato­
+logías en áreas concretas del parénquima. Esta proyección es indispensable 
+para la localización de lesiones mediastínicas, retrocardiacas, hiliares y en 
+los senos costofrénicos posteriores. Además, las proyecciones oblicuas son 
+útiles para localizar una lesión, visualizar sus bordes y separar las estructu­
+ras vecinas.Así, permite confirmar la presencia de un nódulo o aclarar lesio­
+nes óseas o imágenes de vasos normales superpuestos que pueden simular 
+un nódulo en la radiografía estándar. También pueden mostrar con mayor 
+nitidez las placas pleurales en la enfermedad relacionada con la exposición 
+al asbesto (Levin et al, 2000; Melero et al, 2005). 
+La tomografía computarizada (TC) como instrumento adicional para 
+la detección precoz de alteraciones pleuropulmonares en expuestos a 
+amianto está en evaluación (Greillier et al, 2008). 
+Los resultados de algunos estudios parecen indicar que el tiempo 
+transcurrido desde el inicio de la exposición y la dosis de exposición pare­
+cen jugar un papel importante en la selección de poblaciones de alto riesgo 
+apropiadas para realización de cribado con TC (Paris et al, 2008). En gene­
+ral, el uso de tecnologías avanzadas de diagnóstico por la imagen como la 
+TC, la tomografía de emisión de positrones (PET) y la resonancia magnéti­
+ca (RM) parece ser más apropiado para el estadiaje y el estudio preopera­
+torio de los tumores que para el cribado de poblaciones expuestas sanas, 
+aunque algunos estudios indican baja fiabilidad de la radiografía de tórax 
+posteroanterior y oblicua, con valores bajos para la sensibilidad y especifici­
+dad, el valor predictivo o la concordancia interobservadores, comparada con 
+la TC (Al Jarad et al, 1991; Ameille et al, 1993). 
+En el caso de las placas pleurales, su visualización con Rayos X depen­
+de de su tamaño, localización, forma, grado de calcificación y calidad técni­
+ca de la radiografía. La TCAR sirve para visualizar placas pleurales que no 
+se detectan con la radiología convencional. 
+La técnica de diagnóstico por la imagen más sensible para la detección 
+de derrames pleurales es la TCAR, mientras que la realización adicional de 
+RM no es útil en este contexto. Debe realizarse un análisis bacteriológico y 
+citológico del exudado pleural. Si el resultado no es diagnóstico, debería rea­
+lizarse una toracoscopia y biopsia pleural bajo control visual. 
+La TCAR muestra patrones típicos en las placas pleurales y las atelec­
+tasias redondeadas, pero en el caso de estas últimas puede ser necesaria una 
+biopsia si tienen una apariencia atípica (Polverosi et al, 2000). La RM es útil 
+en la identificación de atelectasias redondas (Cugell et al, 2004), aunque la 
+utilización del TCAR hace innecesario el uso de la RM. 
+Como ocurre con las lesiones anterioremente mencionadas, la TCAR 
+es más sensible y específica que la radiología convencional en la detección 
+de engrosamientos pleurales difusos. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+39 
+
+En lo que se refiere al mesotelioma maligno, la TCAR es la prueba 
+clave de diagnóstico por la imagen para su diagnóstico y seguimiento. Sus 
+hallazgos son típicos en estadios avanzados, pero el diagnóstico diferencial 
+con las metástasis pleurales puede ser difícil y requerir biopsia (Polverosi et 
+al, 2000). Sus resultados mejoran si se elimina el exudado previamente, aun­
+que no permite apreciar correctamente la afectación de los nódulos linfáti­
+cos mediastínicos, la pared torácica y el diafragma. Además de la utilización 
+de la TC para el diagnóstico diferencial de malignidad y el estadiaje del 
+mesotelioma, puede usarse la RM para la determinación de la extensión del 
+tumor, especialmente en los de la pared torácica y el diafragma, y la PET 
+proporciona información adicional diagnóstica y pronóstica, especialmente 
+en candidatos a cirugía, y sirve para el diagnóstico diferencial entre tumores 
+benignos y malignos y la identificación de metástasis ocultas distantes (Sala­
+hudeen et al, 2009; Wang et al, 2004). 
+La TCAR también permite detectar signos de asbestosis con mayor 
+sensibilidad que la radiografía convencional (Aberle et al, 1988). Entre el 10 
+y el 20% de las asbestosis no presentan alteraciones radiográficas, si bien los 
+estudios epidemiológicos suelen establecer el grado 1/0 de la Clasificación 
+Internacional de Neumoconiosis de la OIT como el criterio de atribución de 
+enfermedad (Letourneux et al, 2007). 
+Varios estudios han evidenciado una mayor sensibilidad (>40%) de 
+la TCAR, para la detección de asbestosis y placas pleurales respecto a la 
+radiografía convencional (Kusaka et al, 2005; Tossavainen,  2000). La 
+exploración con TCAR con cortes de 1 mm ha probado ser más segura 
+que la radiografía convencional y la tomografía computarizada (TC) nor­
+mal en la detección y caracterización de los desórdenes infiltrativos pul­
+monares, incluida la asbestosis, aun en sujetos expuestos asintomáticos; 
+aunque los hallazgos de la TCAR no son específicos de asbestosis y nin­
+gún signo aislado se puede considerar como diagnóstico de la enferme­
+dad, la posibilidad diagnóstica aumenta con el número de anomalías 
+identificadas (Isidro et al, 2004). 
+La Sociedad Española de Neumología y Cirugía Torácica (SEPAR) ha 
+adoptado determinados criterios para la realización de TCAR en reconoci­
+mientos periódicos a trabajadores con exposición al asbesto, que se recogen 
+en la tabla 4. 
+40 
+SANIDAD 
+
+Tabla 4. Criterios para la realización de TCAR en reconocimientos periódicos a 
+trabajadores con exposición al asbesto 
+Sospecha de enfermedad del parénquima pulmonar en la radiografía simple 
+Cambios en el parénquima con respecto a la revisión anterior 
+Aumento del grosor o extensión de placas pleurales o de engrosamientos pleurales 
+Dolor pleural en las placas pleurales previamente asintomáticas 
+Alteraciones en las pruebas de función respiratoria 
+Caída de las pruebas de función respiratoria por encima de lo normal con respecto a reconocimientos 
+previos 
+Fuente: Isidro et al, 2004 
+Los resultados de la TCAR podrán valorarse de acuerdo con la Internatio­
+nal Classification of HRCT for Occupational and Environmental Respira­
+tory Diseases (Kusaka et al, 2005). 
+Pruebas funcionales respiratorias 
+Deben realizarse según los criterios del grupo de trabajo conjunto ATS 
+(American Thoracic Society) – ERS (European Respiratory Society) para la 
+estandarización de las pruebas de función pulmonar [Miller et al, 2005; 
+Pellegrino et al, 2005]. Los parámetros básicos recomendados son la capaci­
+dad vital (VC), el volumen espirado en el primer segundo (FEV1), la ratio 
+FEV1/VC y la capacidad total pulmonar (TLC). 
+Según estas normas, desde un punto de vista estrictamente espiromé­
+trico, las alteraciones ventilatorias pueden clasificarse según su gravedad de 
+acuerdo con la tabla 5. 
+Tabla 5. Severidad de las alteraciones ventilatorias según resultados de la 
+espirometría 
+Severidad 
+FEV1 % del valor de referencia 
+Leve 
+>70 
+Moderada 
+60-69 
+Moderadamente grave 
+50-59 
+Grave 
+35-49 
+Muy grave 
+<35 
+Fuente: Pellegrino et al, 2005 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+41 
+
+A estas pruebas puede añadirse el test de difusión de CO (DLCO) 
+(MacIntyre et al, 2005) y la pletismografía corporal (Wanger et al, 2005). 
+Los patrones restrictivos deben confirmarse o descartarse con la determina­
+ción de la TLC cuando la VC está por debajo de los valores normales (Pelle­
+grino et al, 2005) mediante una pletismografía corporal (Wanger et al, 2005) 
+o un test de DLCO (MacIntyre et al, 2005). Hay que tener en cuenta que la 
+DLCO puede afectarse por procesos como la fibrosis, el asma, el enfisema, 
+la carboxihemoglobinemia u otros que pueden alterar la capacidad de ven­
+tilación del pulmón, la fijación del CO a la Hb o el intercambio de gases. Un 
+patrón espirométrico restrictivo y una disminución de la DLCO sugieren 
+enfermedad intersticial pulmonar (Pellegrino et al, 2005). 
+Lavado broncoalveolar 
+El lavado broncoalveolar es un instrumento útil para excluir y diagnosticar 
+causas de alveolitis distintas a la asbestosis y documentar exposiciones especí­
+ficas, como la identificación de cuerpos de asbesto (Cordeiro et al, 2007). A 
+veces pueden encontrarse gran cantidad de fibras en el lavado broncoalveolar 
+con una historia de exposición laboral corta (que puede haber sido intensa) o, 
+por el contrario, bajo nivel de fibras con exposición laboral relevante (sobre 
+todo con el crisotilo, debido a su alto índice de aclaramiento). 
+Su uso no debe recomendarse de manera sistemática y rutinaria en los 
+exámenes de salud laboral preventivos, sino solo en los casos en que existan 
+dudas acerca de la etiología de los hallazgos clínicos y esta deba documen­
+tarse por razones medicolegales. 
+4.5.   Criterios de valoración 
+En la valoración del estudio por la imagen se podrá utilizar la Clasificación 
+Internacional de Neumoconiosis de la OIT de 1980 (revisión 2000) para la 
+radiografía, y la International Classification of HRCT for Occupational and 
+Environmental Respiratory Diseases para la TCAR. 
+En cuanto a la valoración del estado funcional respiratorio, se conside­
+rarán los criterios ATS–ERS expuestos en la tabla 5, en el apartado 4.4. 
+La constatación de exposición laboral a amianto, mediante exposición 
+documentada, mediciones ambientales o técnicas de laboratorio (cuerpos 
+ferruginosos en lavado broncoalveolar) serán suficientes para atribuir a este 
+agente casos compatibles con asbestosis, mesotelioma (pleural y peritone­
+al), cáncer de laringe y, especialmente, de pulmón. 
+42 
+SANIDAD 
+
+5.   Normas para la 
+cumplimentación del protocolo 
+de vigilancia sanitaria 
+Respecto a la práctica del estudio funcional respiratorio, se tendrán en cuen­
+ta los criterios para la espirometría adoptados por el grupo de trabajo con­
+junto ATS–ERS para la estandarización de las pruebas de función pulmonar 
+(Miller et al, 2005; Pellegrino et al, 2005). 
+En cuanto al uso de técnicas de diagnóstico por la imagen, la TC o 
+TCAR se aplicará por sistema únicamente en el examen de salud más pró­
+ximo a los cinco años del inicio de la exposición, y dirigida específicamente 
+al diagnóstico de asbestosis, dadas su características clínicas y de historia 
+natural. La utilización de esta u otras técnicas complementarias en sucesivos 
+exámenes de salud se hará en función de los resultados de la primera TC o 
+TCAR y de la situación de salud del trabajador, teniendo en cuenta los cri­
+terios de la SEPAR. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+43 
+
+
+6. Conducta a seguir según las 
+alteraciones que se detecten 
+Respecto al trabajador afectado por alteraciones de la salud compatibles 
+con exposición a asbesto, se desarrollará la actuación que proceda en apli­
+cación de la normativa de la Seguridad Social en cuanto a la protección de 
+las contingencias laborales. En este sentido, se recuerda que los facultativos 
+del servicio de prevención deben comunicar la sospecha de enfermedad 
+profesional al organismo competente de la Comunidad Autónoma o de la 
+ciudad con Estatuto de Autonomía que corresponda, a la entidad gestora y, 
+en su caso, a la entidad colaboradora de la Seguridad Social que asuma la 
+protección de las contingencias profesionales (art. 5 del Real Decreto 
+1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enferme­
+dades profesionales en el sistema de la Seguridad Social y se establecen cri­
+terios para  su notificación y registro). 
+En los exámenes de salud iniciales se considerarán criterios de no aptitud: 
+– Alteraciones de las vías aéreas superiores que puedan facilitar la 
+aparición de patología neumoconiótica. 
+– Neumopatía crónica con expresión clínica o funcional. 
+– Cardiopatía crónica incapacitante a juicio médico. 
+En los exámenes de salud periódicos, será separado del trabajo con 
+riesgo y remitido a la Mutua de Accidentes de Trabajo y Enfermedades pro­
+fesionales o entidad gestora de la Seguridad Social correspondiente, a efec­
+tos de posible confirmación diagnóstica, cuando se pongan de manifiesto 
+alguno de los siguientes signos o síntomas: 
+– Disnea de esfuerzo. 
+– Dolor torácico persistente no atribuible a otro tipo de patología. 
+– Crepitantes inspiratorios persistentes, basales o axilares. 
+– Alteraciones radiológicas pleurales no filiadas o de nueva aparición, 
+o alteraciones radiológicas sospechosas de enfermedad pulmonar 
+intersticial difusa. 
+– Alteraciones de la exploración de la función ventilatoria compati­
+bles con patología. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+45 
+
+En estos casos, se declarará la situación de incapacidad temporal por 
+Enfermedad Profesional en período de observación, de acuerdo con lo esta­
+blecido en los artículos 116 y 128 del Texto Refundido de la Ley General de 
+la Seguridad Social. Si se confirma la enfermedad profesional deberá proce­
+derse a la valoración de la incapacidad laboral correspondiente de acuerdo 
+a la normativa vigente. 
+Respecto al lugar de trabajo y los compañeros del caso en las mismas 
+circunstancias de exposición, y aun cuando el largo período de latencia 
+entre la exposición y la detección de la enfermedad haga que las circunstan­
+cias de exposición que produjeron el daño puedan haberse modificado o 
+desaparecido, será necesario valorar la conveniencia de proceder a la reeva­
+luación de las condiciones de exposición. 
+46 
+SANIDAD 
+
+7. Legislación aplicable  
+Ley 31/1995, de Prevención de Riesgos Laborales. BOE núm. 269, 
+10/11/1995. 
+Real Decreto Legislativo 1/1994, Texto Refundido de la Ley General de la 
+Seguridad Social. BOE núm. 154, 29/06/1994. 
+Real Decreto 396/2006, disposiciones mínimas de seguridad y salud aplica­
+bles a los trabajos con riesgo de exposición al amianto. BOE núm. 86, 
+11/04/2006. 
+Real Decreto 1299/2006, cuadro de enfermedades profesionales en el siste­
+ma de la Seguridad Social y criterios para su notificación y registro. BOE 
+núm. 302, 19/12/2006. 
+Real Decreto 39/1997, Reglamento de los Servicios de Prevención. BOE 
+núm. 27, 31/03/1997. 
+Real Decreto 1406/1989, sobre limitaciones a la comercializacion y al uso de 
+ciertas sustancias y preparados peligrosos. BOE núm. 278, 20/11/1989. 
+Real Decreto 843/2011, por el que se establecen los criterios básicos sobre 
+la organización de recursos para desarrollar la actividad sanitaria de los ser­
+vicios de prevención. BOE núm. 158, 4/7/2011. 
+Reglamento CE nº 1907/2006 del Parlamento Europeo y del Consejo relati­
+vo al registro, la evaluación, la autorización y la restricción de las sustancias 
+y preparados químicos (REACH). DOCE L 136, 29/05/2007. 
+Reglamento de la Comisión (CE) Nº 552/2009, de 22 de junio, que modifica 
+el Reglamento CE nº 1907/2006, del Parlamento Europeo y del Consejo, 
+relativo al registro, la evaluación, la autorización y la restricción de las sus­
+tancias y preparados químicos (REACH), en lo que concierne al Anexo 
+XVII. 
+Orden de 7 de diciembre de 2001, modifica el anexo I del Real Decreto 
+1406/1989, sobre limitaciones a la comercialización y al uso de ciertas sus­
+tancias y preparados peligrosos. BOE núm. 299, 14/12/2001. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+47 
+
+
+8. Bibliografía  
+Aberle DR, Gamsu G, Ray CS. High-resolution CT of benign asbestos-related diseases: clini­
+cal and radiographic correlation. Am J Roentgenol 1988; 151: 883-91. 
+Agudo A. Mesotelioma pleural y exposición ambiental al amianto. Estudios multicéntricos sobre 
+el riesgo de mesotelioma pleural relacionado con la exposición no ocupacional al amianto en 
+Europa y la exposición ocupacional en España. Barcelona: Institut Català d’Oncologia, 2003. 
+Al Jarad N, Poulakis N, Pearson MC, Rubens MB, Rudd RM. Assessment of asbestos-induced 
+pleural disease by computed tomography –correlation with chest radiograph and lung function. 
+Respir Med 1991; 85: 203-8. 
+Ameille J, Brochard P, Brechot JM, Pascano T, Cherin A, Raix A, Fredy M, Bignon J. Pleural 
+thickening: a comparison of oblique chest radiographs and high-resolution computed tomo­
+graphy in subjects exposed to low levels of asbestos pollution. Int Arch Occup Environ Health 
+1993; 64: 545-8. 
+American Thoracic Society. Diagnosis and Initial Management of Nonmalignant Diseases 
+Related to Asbestos. Am J Respir Crit Care Med 2004; 170: 691-715. 
+Antman KH. Natural history and epidemiology of malignant mesothelioma. Chest 1993; 103(4 
+Suppl): 373S-376S. 
+Barrett JC, Lamb PW,Wiseman RW. Multiple mechanisms for the carcinogenic effects of asbes­
+tos and other mineral fibers. Environ Health Perspect 1989; 81: 81-9. 
+Berrino F, Richiardi L, Boffetta P, Estève J, Belletti I, Raymond L, et al. Occupation and larinx 
+and hypopharinx cancer: a job-exposure matrix approach in an international case-control study 
+in France, Italy, Spain and Switzerland. Cancer Causes Control 2003; 14: 213-33. 
+Bianchi C, Brollo A, Ramani L. Asbestos exposure in a shipyard area, Northeastern Italy. Ind 
+Health 2000;38:301-8. 
+Bianchi C, Brollo A, Ramani L, Bianchi T, Giarelli L.Asbestos exposure in malignant mesothe­
+lioma of the pleura: a survey of 557 cases. Ind Health 2001; 39: 161-7. 
+Boffetta P. Epidemiology of peritoneal mesothelioma: a review. Ann Oncol 2007; 18: 985-90. 
+Brims FJ. Asbestos -a legacy and a persistent problem. J R Nav Med Serv 2009; 95: 4-11. 
+Brody AR. Asbestos and lung disease. Am J Respir Cell Mol Biol 2010; 42: 131-2. 
+Browne K, Gee BL. Asbestos exposure and laryngeal cancer. Ann Occup Hyg 2000; 44: 239-50. 
+Cordeiro CR, Jones JC, Alfaro T, Ferreira AJ. Bronchoalveolar lavage in occupational lung 
+diseases. Semin Respir Crit Care Med 2007; 28: 504-13. 
+Cugell DW, Kamp DW. Asbestos and the pleura. Chest 2004; 125: 1103-17. 
+Gilson J.C. Asbestos. En: Parmeggiani L (ed.). Enciclopedia de Salud y Seguridad en el Traba­
+jo. Madrid: Ministerio de Trabajo y Seguridad Social, 1989a: 279-82. 
+Gilson J.C. Asbestosis. En: Parmeggiani L (ed.). Enciclopedia de Salud y Seguridad en el Tra­
+bajo. Madrid: Ministerio de Trabajo y Seguridad Social, 1989b: 289-94. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+49 
+
+Greiller L, Astoul P. Mesothelioma and asbestos-related pleural diseases. Respiration 2008; 76: 
+1-15. 
+Heintz NH, Janssen-Heininger YMW, Mossman BT. Asbestos, lung cancer and mesotheliomas. 
+Am J Respir Cell Mol Biol 2010; 42: 133-9. 
+Henderson DW, Rantanen J, Barnhart S, et al.Asbestos, asbestosis and cancer: the Helsinki cri­
+teria for diagnosis and attribution. Scand J Work Health 1997; 23: 311-6. 
+Hessel PA, Gamble JF, McDonald JC. Asbestos, asbestosis, and lung cancer: a critical assess­
+ment of the epidemiological evidence. Thorax 2005; 60: 430-6. 
+Hillerdal G. Mesothelioma: cases associated with non-occupational and low dose exposures. 
+Occup Environ Med 1999; 56:505–513. 
+Hinksman J.Tipos de proyectos y sus riesgos asociados. En: Stellman JM (dir). Enciclopedia de 
+la OIT. http:// www.insht.es/ InshtWeb/ Contenidos/ Documentacion/ TextosOnline/ Enciclope­
+diaOIT/ tomo1/sumario.pdf 
+Hodgson JT, Darnton A. The quantitative risks of mesothelioma and lung cancer in relation to 
+asbestos exposure. Ann Occup Hyg 2000; 44: 565-601. 
+Hughes RS. Malignant pleural mesothelioma. Am J Med Sci 2005; 329: 29-44. 
+Institute of Occupational Medicine. Guía de buenas prácticas para prevenir o minimizar los 
+riesgos de amianto en los trabajos en que esté presente (o pueda estarlo), destinada a empre­
+sarios, trabajadores e inspectores de trabajo. Comisón Europea, s.f. 
+Instituto Nacional de Seguridad e Higiene en el Trabajo. Guía Técnica para la evaluación y pre­
+vención de los riesgos relacionados con la exposición al amianto según el Real Decreto 
+396/2006, de 31 de marzo. 
+IOM (Institute of Medicine of the National Academies) Committee on Asbestos—Selected 
+Health Effects [2006]. Asbestos: selected can cers. Washington, DC: The National Acade mies 
+Press [http://books.nap.edu/openbook.php?record_id=11665&page=R1]. Date ac cessed: June 
+30, 2008. 
+Isidro I, Abu K, Alday E, Carretero Jl, Ferrer J, Freixa A, et al (Grupo de Trabajo EROL­
+SEPAR). Normativa sobre el asbesto y su patología pleuropulmonar. Barcelona: Ediciones 
+Doyma SL, 2004. 
+Jaurand MC, Fleury-Feith J. Pathogenesis of malignant pleural mesothelioma. Respirology 
+2005; 10: 2-8. 
+Jones RN, Hughes JM, Weill H. Asbestos exposure, asbestosis, and asbestos-atributable lung 
+cancer. Thorax 1996; 51(Suppl. 2): S9-S15. 
+Kaerlev L, Hansen J, Hansen HL, Nielsen PS. Cancer incidence among Danish seafarers: a 
+population based cohort study. Occup Environ Med 2005; 62: 761-5. 
+Kamp DW. Asbestos-induced lung diseases: an update. Transl Res 2009; 153: 143-52. 
+Kazan-Allen L. Asbestos and mesothelioma: worldwide trends. Lung Cancer 2005; 49 Suppl 
+1: S3-8. 
+Kusaka Y, Hering KG, Parker JE (eds). International Classification of HRCT for Occupational 
+and Environmental Respiratory Diseases. Tokio: Springer-Verlag, 2005. 
+50 
+SANIDAD 
+
+Letourneux M, Paris C, de Santi P, Clin B, Marquignon MF, Galateau-Sallé F. Affections pleu­
+ropulmonaires bénignes liées à l’amiante. Rev Mal Respir 2007; 24: 1299-313. 
+Levin SM, Kann PE, Lax MB. Medical examination for asbestos-related disease.Am J Ind Med 
+2000; 37: 6-22. 
+López-Abente G, Pollán M, Aragonés N, et al. Situación del cáncer en España: Incidencia. An 
+Sist Sanit Navar. 2004;27:165-73. 
+MacIntyre N, Crapo RO, Viegi G, Johnson DC, van der Grinten CPM, Brusasco V, et al. Stan­
+dardisation of the single-breath determination of carbon monoxide uptake in the lung. Eur 
+Respir J 2005; 26: 720-35. 
+Manning CB, Vallyathan V, Mossman BT. Diseases caused by asbestos: mechanisms of injury 
+and disease development. Int Immunopharmacol 2002; 2: 191-200. 
+Martínez X, López JL. Enfermedades pulmonares inhalatorias. http:// www.radiolegsdecatalun­
+ya.cat/ formacio/ resums/ GE13ET13_R.pdf. (Accedido 22/02/2011). 
+McDonald JC, McDonald AD. The epidemiology of mesothelioma in historical context. Eur 
+Respir J 1996; 9: 1932-42. 
+Melero C, Bayo A, Sánchez I.Técnica de realización de una radiografía de tórax. En: Guía prác­
+tica de radiología de tórax para atención primaria. Las Matas: Adalia Farma, 2005: 3-8. 
+Miller MR, Hankinson J, Brusasco V, Burgos F, Casaburi R, Coates A, et al. Standardisation of 
+spirometry. Series ATS/ERS Task Force: Standardisation of lung function testing. Eur Respir J 
+2005; 26: 319-38. 
+Mossman BT. Carcinogenesis and related cell and tissue responses to asbestos: a review. Ann 
+Occup Hyg 1994; 38: 617-24, 423. 
+Mossman BT, Churg A. Mechanisms in the pathogenesis of asbestosis and silicosis. Am J Res­
+pir Crit Care Med 1998; 157: 1666-80. 
+Panduri V, Surapuerddi S, Soberanes S, Weitzman S, Chandel N, Kamp DW. P53 mediates amo­
+site asbestos-induced alveolar epithelial cell mitochondria-regulated apoptosis. Am J Respir 
+Cell Mol Biol 2006; 34: 443-52. 
+Paris C, Martin A, Letourneux M, Wild P. Modelling prevalence and incidence of fibrosis and 
+pleural plaques in asbestos-exposed populations for screening and follow-up: a cross-sectional 
+study. Environ Health 2008; 20: 7:30. 
+Pass HI, Carbone M. Current status of screening for malignant pleural mesothelioma. Semin 
+Thorac Cardiovasc Surg 2009; 21: 97-104. 
+Peacock C, Copley SJ, Hansell DM. Asbestos-related benign pleural disease. Clin Radiol 2000; 
+55: 422-32. 
+Pellegrino R, Viegi G, Brusasco V, Crapo RO, Burgos F, Casaburi R, et al. Interpretative strate­
+gies for lung function tests. Series ATS/ERS Task Force: Standardisation of lung function tes­
+ting. Eur Respir J 2005; 26: 948–968. 
+Pelnar PV. Asbestos (mesotelioma y cáncer de pulmón). En: Parmeggiani L (ed.). Enciclopedia de 
+Salud y Seguridad en el Trabajo. Madrid: Ministerio de Trabajo y Seguridad Social, 1989: 282-89. 
+Polverosi R, Vigo M, Citton O. [Pleural and parenchymal lung diseases from asbestos exposu­
+re. CT diagnosis] Radiol Med 2000; 100: 326-31. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+51 
+
+Purdue MP, Järvholm B, Bergdahl IA, Hayes RB, Baris D. Occupational exposures and head 
+and neck cancers among Swedish construction workers. Scand J Work Environ Health 2006; 32: 
+270-5. 
+Robinson BW, Musk AW, Lake RA. Malignant mesothelioma. Lancet 2005; 366: 397-408. 
+Rodríguez-Portal JA, Rodríguez-Becerra E, Rodríguez-Rodríguez D, Alfageme I, Quero A, 
+Diego C, et al. Serum levels of soluble mesothelin-related peptides in malignant and nonmalig­
+nant asbestos-related pleural disease: relation with past asbestos exposure. Cancer Epidemiol 
+Biomarkers Prev 2009;18: 646-50. 
+Rom WN, Travis WD, Brody AR. Cellular and molecular basis of the asbestos-related diseases. 
+Am Rev Respir Dis 1991; 143: 408-22. 
+Rosenstock L, Hudson LD. The pleural manifestations of asbestos exposure. Occup Med 1987; 
+2: 383-407. 
+Ross RM. The clinical diagnosis of asbestosis in this century requires more than a chest radio­
+graph. Chest 2003; 124: 1120-8. 
+Salahudeen HM, Hoey ET, Robertson RJ, Darby MJ. CT appearances of pleural tumours. Clin 
+Radiol 2009; 64: 918-30. 
+Sterman DH, Albelda SM. Advances in the diagnosis, evaluation, and management of malig­
+nant pleural mesothelioma. Respirology 2005; 10: 266-83. 
+Straif K, Benbrahim-Tallaa L, Baan R, Grosse Y, Secretan B, El Ghissassi F, Bouvard V, Guha 
+N, Freeman C, Galichet L, Cogliano V; WHO International Agency for Research on Cancer 
+Monograph Working Group [2009]. A review of human carcinogens. Part C: metals, arsenic, 
+dusts, and fibres. Lancet Oncol 10(5):453–454. 
+Tarres J, Abós-Herràndiz R, Albertí C, Martínez-Artés X, Rosell-Murphy M, García-Allas I, et 
+al. Enfermedad por amianto en una población próxima a una fábrica de fibrocemento. Arch 
+Bronconeumol 2009; 45: 429-34. 
+Tossavainen A. International expert meeting on new advances in the radiology and screening 
+of asbestos-related diseases. Scand J Work Environ Health 2000; 26: 449-54. 
+Tremolita. http:// www.uned.es/ cristamine/ fichas/ tremolita/ tremolita.htm (accedido 10/02/2010). 
+Uriarte F. Utilidad de la determinación de mesotelina en el diagnóstico del mesotelioma pleu­
+ral asbestósico. III Congreso Vasco-Aquitano de Medicina del Trabajo, 2009. 
+Villanueva V, Ballester R, Celma C, Ferris JM, Folch J, Fuster A et al. Protocolos de Vigilancia 
+Sanitaria Específica: AMIANTO. Madrid: Ministerio de Sanidad y Consumo, 1999. 
+Wang ZJ, Reddy GP, Gotway MB, Higgins CB, Jablons DM, Ramaswamy M, et al. Malignant pleu­
+ral mesothelioma: evaluation with CT, MR imaging, and PET. Radiographics 2004; 24: 105-19. 
+Wanger J, Clausen JL, Coates A, Pedersen OF, Brusasco V, Burgos F, et al. Standardisation of 
+the measurement of lung volumes. Series ATS/ERS Task Force: Standardisation of lung func­
+tion testing. Eur Respir J 2005; 26: 511–522. 
+Weeks JL. Riesgos de salud y seguridad en el sector de la construcción. En: Stellman JM (dir). 
+Enciclopedia de la OIT. http:// www.insht.es/ InshtWeb/ Contenidos/ Documentacion/ Texto­
+sOnline/ EnciclopediaOIT/ tomo1/sumario.pdf 
+52 
+SANIDAD 
+
+Weiss W. Asbestosis: a marker for the increased risk of lung cancer among workers exposed to 
+asbestos. Chest 1999; 115: 536-49. 
+Weiss W. Asbestos-related pleural plaques and lung cancer. Chest 1993; 103: 1854-9. 
+Woodward PK, McAdams HP, Putman CE. Asbestos exposure and asbestosis: clarifying termi­
+nology and avoiding confusion. J R Soc Med 1996; 88: 669-71. 
+Yang H, Testa JR, Carbone M. Mesothelioma epidemiology, carcinogenesis, and pathogenesis. 
+Curr Treat Options Oncol 2008; 9: 147-57. 
+Yilmaz UM, Utkaner G, Yalniz E, Kumcuoglu Z. Computed tomographic findings of environ­
+mental asbestos-related malignant pleural mesothelioma. Respirology 1998; 3: 33-8. 
+Zellos L, Christiani DC. Epidemiology, biologic behavior, and natural history of mesothelioma. 
+Thorac Surg Clin 2004; 14: 469-77, viii. 
+Zervos MD, Bizekis C, Pass HI. Malignant mesothelioma 2008. Curr Opin Pulm Med 2008; 14: 
+303-9. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+53 
+
+
+Anexo 1. Contenido de los 
+exámenes de salud de los traba­
+jadores expuestos a amianto 
+Tipo de examen 
+Anamnesis y exploración 
+Diagnóstico por la 
+Pruebas funciona­
+de salud 
+física 
+imagen 
+les respiratorias 
+Inicial 
+Historia laboral. 
+Radiografía simple de 
+Espirometría forzada. 
+Antecedentes personales y 
+tórax PA, lateral izquier­
+familiaresa. 
+da y oblícuas. 
+Inspecciónb. 
+Auscultación cardiopulmonarc. 
+Consejo médico antitabaco. 
+Periódicod 
+Historia laboral: actualización. 
+Radiografía simple de 
+Espirometría forzada. 
+Antecedentes personales y 
+tórax PA, lateral izquier­
+Test de difusión de 
+familiares: actualizacióna. 
+da y oblicuasd. 
+CO o pletismografía 
+Inspecciónb. 
+A criterio médico, TCAR 
+corporal a criterio 
+Auscultación cardiopulmonarc. 
+a los cinco años tras el 
+médico, según 
+Consejo médico antitabaco. 
+inicio de la exposicióne. 
+apartado 4.4. 
+Otras pruebas a criterio 
+médico, según apartado 
+4.4. 
+Postocupacionald 
+Historia laboral. 
+Radiografía simple de 
+Espirometría forzada. 
+Antecedentes personales y 
+tórax PA, lateral izquier­
+Test de difusión de 
+familiaresa. 
+da y oblicuasd. 
+CO o pletismografía 
+Inspecciónb. 
+A criterio médico, TCAR 
+corporal a criterio 
+Auscultación cardiopulmonarc. 
+a los cinco años tras el 
+médico, según 
+Consejo médico antitabaco. 
+inicio de la exposicióne. 
+apartado 4.4. 
+Otras pruebas a criterio 
+médico, según apartado 
+4.4. 
+a. Incluye hábito de consumo de tabaco y síntomas respiratorios. 
+b. Incluye búsqueda de acropaquias. 
+c. Incluye búsqueda de crepitantes. 
+d. Periodicidad según situación de salud, edad y período de exposición (tabla 3). 
+e. Periodicidad según criterios de la tabla 4. 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+55 
+
+
+Anexo 2. Documento de 
+información clínico-laboral 
+individual por amianto 
+(DICLIA) 
+Datos del trabajador 
+Apellidos: 
+Nombre: 
+Sexo: 
+DNI: 
+Nº SS: 
+Dirección: 
+Localidad: 
+Teléfono: 
+Correo electrónico: 
+Fecha de nacimiento: 
+Datos de la vigilancia sanitaria específica 
+Fecha del examen de salud: 
+Servicio o Unidad encargada de la vigilancia de la salud del trabajador 
+o Hospital/Centro de Salud: 
+Servicio: _________________________________________________________ 
+Vía: ____________________________________________________________ 
+Localidad: ________________________________________ CP:___________ 
+o SPRL 
+Nombre:_________________________________________________________ 
+Vía: ____________________________________________________________ 
+Localidad: ________________________________________ CP:___________ 
+Tipo de SPRL: Propio o 
+Mancomunado o 
+Ajeno o 
+Tipo de vigilancia de la salud 
+Periódica o 
+Postocupacional o 
+¿Continua vigilancia sanitaria específica?      Sí o 
+No o 
+En caso negativo, especificar causa: 
+o A petición del interesado 
+o Traslado a otra Comunidad Autónoma (especificar): 
+o Otras (especificar): 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+57 
+
+Historia laboral 
+Acreditada documentalmente   Sí o No o 
+Situación actual del trabajador 
+o Activo 
+o Parado* 
+o Jubilado* 
+*pasar a antecedentes laborales 
+Empresa: ____________________________________NIF: ________________ 
+Vía:_____________________ Localidad: __________________CP:_________ 
+Actividad de la empresa (CNAE): ___________________________________ 
+Puesto de trabajo (CNO): __________________________________________ 
+Exposición a amianto documentada 
+o si: tiempo de exposición _______ meses 
+o no 
+o actual 
+o pasada 
+Medidas preventivas adoptadas: 
+o siempre 
+o a veces 
+o nunca 
+Antecedentes laborales 
+Empresa 1 
+Actividad de la empresa (CN AE)___________________ 
+Puesto de trabajo (CNO)__________________________ 
+De (año inicio) _______ a (año fin) _______ 
+Tiempo (meses) _______ 
+Exposición a amianto documentada o si 
+o no 
+Medidas preventivas adoptadas: 
+o siempre 
+o a veces 
+o nunca 
+Empresa 2 
+Actividad de la empresa (CN AE)___________________ 
+Puesto de trabajo (CNO)__________________________ 
+De (año inicio) _______a (año fin) _______ 
+Tiempo (meses) _______ 
+Exposición a amianto documentada o si 
+o no 
+Medidas preventivas adoptadas: 
+o siempre 
+o a veces 
+o nunca 
+Empresa … 
+Actividad de la empresa (CN AE)___________________ 
+Puesto de trabajo (CNO)__________________________ 
+De (año inicio) _______a (año fin) _______ 
+Tiempo (meses) _______ 
+Exposición a amianto documentada o si 
+o no 
+Medidas preventivas adoptadas: 
+o siempre 
+o a veces 
+o nunca 
+58 
+SANIDAD 
+
+Historia clínica 
+Antecedentes personales 
+Hábito de consumo de tabaco 
+o No fuma ni ha fumando nunca de manera habitual 
+o Fumador 
+nº de años: ______  cigarillos/día: ______ puros/día: ______ pipas/día:______ 
+o Exfumador 
+nº de años: ______  cigarillos/día: ______ puros/día: ______ pipas/día:______ 
+Año que dejó de fumar: ____________ 
+Enfermedades anteriores 
+TBC:_______________________________________________ año: ________ 
+Derrame pleural:_____________________________________ año: ________ 
+Neumotórax:_________________________________________ año: ________ 
+Otras (especificar): ___________________________________ año: ________ 
+Signos y síntomas 
+o Tos 
+o Disnea (grado)* 
+o Expectoración 
+*Grados de disnea: 
+0. Ausencia de disnea excepto al realizar ejercicio intenso 
+1. Disnea al andar deprisa o subir una cuesta pronunciada 
+2. Incapacidad de mantener el paso de otras personas de la misma edad, caminando en llano, 
+debido a dificultad respiratoria, o tener que descansar al andar en llano al propio paso 
+3. Tener que parar a descansar al andar 100 metros o a los pocos minutos de andar en llano 
+4. La disnea le impide salir de casa o aparece con actividades como vestirse o desvestirse 
+Exploración 
+Inspección 
+o Normalidad 
+o Acropaquia 
+o Otros (especificar) 
+Auscultación 
+o Normalidad 
+o Roncus 
+o Sibilantes 
+o Crepitantes 
+o Otros 
+Pruebas de imagen 
+o Rx tórax 
+o TACAR 
+Afectación pleural 
+o Normalidad 
+o Derrame pleural benigno 
+o Placas pleurales 
+o Engrosamiento pleural difuso 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+59 
+
+Afectación mesotelial 
+o Normalidad 
+o Mesotelioma maligno 
+Afectación parenquimatosa 
+o Normalidad o Atelectasia redonda   o Asbestosis o Cáncer de pulmón 
+Pruebas funcionales respiratorias 
+Espirometría 
+Fecha de realización:_________________ 
+Valores numéricos de los parámetros 
+VC: _______________ FEV1: ______________ FEV1/ VC: _______________ 
+Capacidad de difusión pulmonar del co Fecha de realización:___________ 
+DLCO: __________ DLCO esperado: ___________ % DLCO: ___________ 
+DLCO/VA: ______________________________________________________ 
+TLC: ____________________________________________________________ 
+Afectación funcional 
+o Normalidad 
+o Patrón restrictivo 
+o Patrón obstructivo 
+o Patrón mixto 
+Otros (si se dispone) 
+Lavado broncoalveolar 
+Fecha de realización:_______________________________________________ 
+Resultado: _______________________________________________________ 
+Pletismografía: 
+Fecha de realización:_______________________________________________ 
+Resultado: _______________________________________________________ 
+Afectación extrarrespiratoria 
+Órgano/s afectados (especificar diagnóstico y fecha de diagnóstico): 
+_________________________________________________________________ 
+Anatomía patológica: 
+_________________________________________________________________ 
+Pruebas de imagen: 
+_________________________________________________________________ 
+Diagnóstico(s) 
+Diagnóstico principal:______________________________________________ 
+Diagnóstico: _____________________________Código CIE10:____________ 
+De sospecha o 
+Confirmado o 
+Código EP:___________________ 
+Diagnóstico(s) secundario(s):_______________________________________ 
+Diagnóstico 1: ___________________________  Código CIE10:___________ 
+60 
+SANIDAD 
+
+De sospecha o 
+Confirmado o 
+Código EP:___________________ 
+Diagnóstico 2: ___________________________  Código CIE10:___________ 
+De sospecha o 
+Confirmado o 
+Código EP:___________________ 
+¿Tiene declarada enfermedad profesional por amianto? Sí o 
+No o 
+En caso afirmativo, fecha de la declaración: 
+PROTOCOLO DE VIGILANCIA SANITARIA. AMIANTO 
+61 
+
+Este trabajo pertenece a la serie «Protocolos de Vigilancia Sanitaria 
+Específica», editados por el Ministerio de Sanidad, Servicios Sociales 
+e Igualdad y fruto del trabajo desarrollado por las Administraciones 
+Sanitarias a través de la Ponencia de Salud Laboral de la Comisión 
+de Salud Pública del Consejo Interterritorial del Sistema Nacional de 
+Salud, como contribución a las actividades de prevención de riesgos 
+laborales en nuestro país. 
+Además de reconocer el derecho de todos los trabajadores a la 
+vigilancia periódica de su salud, incluso prolongándola más allá de la 
+finalización de la relación laboral en algunos supuestos como el que 
+nos ocupa, la ley encomienda a las administraciones sanitarias la 
+tarea de dar homogeneidad y coherencia a los objetivos y contenidos 
+de la vigilancia de la salud, mediante la elaboración de protocolos y 
+guías de actuación, con la mirada puesta en implantar un modelo de 
+vigilancia de la salud en el trabajo que sea eficaz para la prevención. 
+El poder contar con criterios uniformes basados en la evidencia 
+científica y la experiencia profesional, la recogida armonizada y 
+periódica de datos sobre riesgos y enfermedades, y su posterior 
+análisis e interpretación sistemáticos con criterios epidemiológicos, 
+permitirán alcanzar los objetivos de prevención de la enfermedad y 
+promoción de la salud de las y los trabajadores. 
+El protocolo que se presenta en este volumen es la versión revisada 
+y actualizada del Protocolo de Vigilancia Sanitaria Específica del 
+Amianto de 2003, y busca proporcionar a los profesionales 
+implicados en la prevención de riesgos laborales, especialmente a los 
+sanitarios, una guía de actuación para la vigilancia sanitaria específica 
+de los trabajadores expuestos a amianto, que será revisado 
+periódicamente, en la medida que así lo aconseje la evolución de la 
+evidencia científica disponible y su aplicación concreta en los centros 
+de trabajo de nuestro país. 
+Escudo de España
+GOBIERNO 
+DE ESPAÑA 
+MINISTERIO 
+DE SANIDAD, SERVICIOS SOCIA
+E IGUALDAD 
+LES 
+www.msssi.gob.es 

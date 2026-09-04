@@ -1,0 +1,1950 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+POSTURAS FORZADAS
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18, 28014 Madrid
+ISBN: 84-7670-551-4
+NIPO: 351-00-020-X
+Depósito Legal: AV-247-2000
+Imprime: MIJÁN, Industrias Gráficas Abulenses, S.L.
+
+El Consejo Interterritorial del Sistema Nacional de Salud
+informa favorablemente el «Protocolo de vigilancia sani-
+taria específica para los/as trabajadores/as expuestos a
+posturas forzadas», en abril de 2.000.
+CONSEJO 
+INTERTERRITORIAL
+SISTEMA NACIONAL DE SALUD
+
+
+5
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE
+SALUD PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA
+NACIONAL DE SALUD.
+COORDINACIÓN DEL PROTOCOLO
+DEPARTAMENTO DE SALUD DEL GOBIERNO DE NAVARRA.
+INSTITUTO NAVARRO DE SALUD LABORAL.
+AUTORES
+Sagrario Cilveti Gubía. Instituto Navarro de Salud Laboral. Navarra.
+Víctor Idoate García. Servicio Navarro de Salud. Navarra.
+ASESORAMIENTO TÉCNICO
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Nuestro agradecimiento a la colaboración prestada por el equipo NORSA-
+LUD en la elaboración de este protocolo.
+GRUPO DE TRABAJO DE SALUD LABORAL 
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid. 
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa Maria Campos Acedo. Consejería de Bienestar Social. Extremadura.
+Rosario Castañeda López. Consejería de Sanidad. Madrid.
+Carmen Celma Marín. Consejería de Sanidad. Valencia. 
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Labora-
+les. País Vasco.
+Isabel Enseñat Antolí. Consejería de Sanidad y Consumo. Islas Baleares.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social.
+Castilla y León.
+Fernando Galvañ Olivares. Consejería de Sanidad y Política Social. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+
+6
+Isabel González García. Consejería de Sanidad y Servicios Sociales.Galicia.
+Asunción Guzmán Fernández. Consejería de Servicios Sociales. Asturias.
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y
+Trabajo. Aragón.
+Francisco Javier Sevilla Lámana. Consejería de Salud, Consumo y Bienes-
+tar Social. La Rioja.
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad
+Social. Cataluña.
+
+7
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanitaria
+Específica», editados por el Ministerio de Sanidad y Consumo y fruto del tra-
+bajo desarrollado por las Administraciones Sanitarias a través del Grupo de
+Trabajo de Salud Laboral de la Comisión de Salud Pública del Consejo
+Interterritorial del Sistema Nacional de Salud, como contribución a las acti-
+vidades de prevención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos laborales
+(Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone, entre
+otras cuestiones, que debe cambiar radicalmente la práctica de los recono-
+cimientos médicos que se realizan a las y los trabajadores. De ser exáme-
+nes médicos inespecíficos, cercanos a los clásicos chequeos o cribados de
+carácter preventivo general, deben pasar a ser periódicos, específicos fren-
+te a los riesgos derivados del trabajo, con el consentimiento informado del
+trabajador, y no deben ser utilizados con fines discriminatorios ni en perjui-
+cio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea eficaz
+para la prevención.
+El poder contar con criterios uniformes basados en la evidencia científi-
+ca y la experiencia profesional de los participantes en los grupos de trabajo
+constituidos para su elaboración, permitirá alcanzar los objetivos de pre-
+vención de la enfermedad y promoción de la salud de las y los trabajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar la
+salud de los trabajadores para detectar precozmente e individualizar los fac-
+tores de riesgo y deterioro que puedan afectar a la salud de los mismos», la
+recogida armonizada y periódica de datos sobre riesgos y enfermedades y
+
+8
+su posterior análisis e interpretación sistemáticos con criterios epidemioló-
+gicos, constituye uno de los instrumentos con que cuenta la salud pública
+para poder identificar, cuantificar y priorizar, y por lo tanto, diseñar políticas
+de prevención eficaces.
+Para la elaboración de los protocolos, se constituyeron varios grupos de
+trabajo, que, coordinados por los representantes de las Comunidades Autó-
+nomas, permitiese la elaboración en paralelo de varios de ellos. Finalmen-
+te, una vez concluido el procedimiento interno de elaboración de los mis-
+mos, han sido sometidos a consulta y adecuadamente informados por
+Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Sociedades
+Científicas (SEMST, SEEMT, AEETSL, SESPAS y SEE), con cuyos repre-
+sentantes se mantuvieron reuniones al efecto, en el Ministerio de Sanidad y
+Consumo, habiéndose incorporado a la redacción final los comentarios
+recibidos que se consideró mejoraban el texto presentado. 
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los sani-
+tarios, una guía de actuación para la vigilancia sanitaria específica de las y
+los trabajadores expuestos a Posturas Forzadas, que será revisado periódi-
+camente, en la medida que así lo aconseje la evolución de la evidencia cien-
+tífica disponible y su aplicación concreta en los centros de trabajo de nues-
+tro país.
+María Dolores Flores Cerdán
+La Directora General de Salud Pública y Consumo
+
+9
+SUMARIO
+Pág.
+1.
+CRITERIOS DE APLICACIÓN........................................................
+11
+2.
+DEFINICIÓN DEL PROBLEMA ......................................................
+12
+2.1.
+DEFINICIONES Y CONCEPTOS .........................................
+12
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS.................................
+12
+2.3.
+MECANISMO DE ACCIÓN...................................................
+12
+2.4.
+EFECTOS SOBRE LA SALUD.............................................
+13
+3.
+EVALUACIÓN DEL RIESGO ..........................................................
+15
+3.1.
+ESTUDIO DE LAS CONDICIONES DE TRABAJO..............
+15
+3.2.
+EVALUACIÓN GLOBAL DEL RIESGO ................................
+17
+3.3.
+CRONOGRAMA DE ACTUACIÓN .......................................
+17
+4.
+PROTOCOLO MÉDICO ESPECÍFICO...........................................
+17
+4.1.
+HISTORIA LABORAL ...........................................................
+17
+4.1.1.
+Exposiciones anteriores ..........................................
+17
+4.1.2.
+Exposición actual al riesgo ......................................
+18
+4.2.
+HISTORIA CLÍNICA..............................................................
+18
+4.2.1.
+Anamnesis ...............................................................
+18
+4.2.2.
+Exploración clínica específica..................................
+19
+4.3.
+CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTARIOS
+ESPECÍFICOS......................................................................
+25
+4.4.
+CRITERIOS DE VALORACIÓN............................................
+25
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO 
+MÉDICO ESPECÍFICO...................................................................
+27
+
+10
+Pág.
+6.
+CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN.....................................................................................
+27
+7.
+LEGISLACIÓN APLICABLE............................................................
+28
+8.
+BIBLIOGRAFÍA ...............................................................................
+28
+ANEXOS:
+1.
+EVALUACIÓN DEL RIESGO EN TRABAJADORES 
+EXPUESTOS A POSTURAS FORZADAS .....................................
+31
+2.
+HISTORIA CLINICO-LABORAL......................................................
+35
+3.
+EXAMEN DEL SISTEMA OSTEOMUSCULAR EN 
+EXPUESTOS A POSTURAS FORZADAS .....................................
+39
+4.
+GLOSARIO TERMINOLÓGICO Y DE EXPLORACIÓN DEL 
+SISTEMA OSTEOMUSCULAR.......................................................
+43
+
+11
+POSTURAS FORZADAS
+1. CRITERIOS DE APLICACIÓN
+Vigilancia médica en aquellos operarios con trabajos que supongan posi-
+ciones forzadas e incómodas durante toda o parte de su jornada laboral de
+forma habitual.
+Sin pretender dejar de lado otras ocupaciones o tareas laborales, las
+ocupaciones que deberán tenerse en cuenta para la aplicación del protoco-
+lo del manejo manual de cargas son:
+• Cirujanos.
+• Dependientes de comercio.
+• Peluquería.
+• Mecánicos montadores.
+• Vigilantes.
+• A.T.S. y auxiliares.
+• Cocineros camareros.
+• Agricultores.
+• Fontaneros.
+• Administrativos en general.
+• Limpieza.
+• Mineros.
+• Albañilería en general.
+• Pintores.
+• Otras.
+
+12
+2. DEFINICIÓN DEL PROBLEMA
+2.1. Definiciones y conceptos
+Posiciones de trabajo que supongan que una o varias regiones anatómi-
+cas dejen de estar en una posición natural de confort para pasar a una posi-
+ción forzada que genera hiperextensiones, hiperflexiones y/o hiperrotacio-
+nes osteoarticulares con la consecuente producción de lesiones por sobre-
+carga.
+Las posturas forzadas comprenden las posiciones del cuerpo fijas o res-
+tringidas, las posturas que sobrecargan los músculos y los tendones, las
+posturas que cargan las articulaciones de una manera asimétrica, y las pos-
+turas que producen carga estática en la musculatura. 
+Existen numerosas actividades en las que el trabajador debe asumir una
+variedad de posturas inadecuadas que pueden provocarle un estrés biome-
+cánico significativo en diferentes articulaciones y en sus tejidos blandos
+adyacentes.
+Las tareas con posturas forzadas implican fundamentalmente a tronco,
+brazos y piernas.
+2.2. Fuentes de exposición y usos
+Existen numerosas actividades en las que el trabajador adopta posturas
+forzadas: son comunes en trabajos en bipedestación, sedestación prolon-
+gada, talleres de reparación, centros de montaje mecánico, etc., pudiendo
+dar lugar a lesiones musculoesqueléticas.
+2.3. Mecanismos de acción
+Las posturas de trabajo inadecuadas es uno de los factores de riesgo más
+importantes en los trastornos musculoesqueléticos. Sus efectos van desde las
+molestias ligeras hasta la existencia de una verdadera incapacidad.
+Existen numerosos trabajos en los que el trabajador debe asumir una
+postura inadecuada desde el punto de vista biomecánico, que afecta a las
+articulaciones y a las partes blandas.
+Existe la evidencia de que existe una relación entre las posturas y la apa-
+rición de trastornos musculoesqueléticos, pero no se conoce con exactitud
+el mecanismo de acción (W. Monroe Keyserling). No existe un modelo razo-
+nablemente comprensible que permita establecer criterios de diseño y pre-
+venir los trastornos que se producen.
+
+13
+Aunque no existen criterios cuantitativos para distinguir una postura
+inadecuada, o cuanto tiempo puede adoptarse una postura sin riesgo, es
+evidente que la postura es un efecto limitador de la carga de trabajo en el
+tiempo, o de la efectividad de un trabajador. 
+2.4. Efectos sobre la salud
+Las posturas forzadas en numerosas ocasiones originan trastornos mus-
+culoesqueléticos. Estas molestias musculoesqueléticas son de aparición
+lenta y de carácter inofensivo en apariencia, por lo que se suele ignorar el
+síntoma hasta que se hace crónico y aparece el daño permanente; se loca-
+lizan fundamentalmente en el tejido conectivo, sobretodo en tendones y sus
+vainas, y pueden también dañar o irritar los nervios, o impedir el flujo san-
+guíneo a través de venas y arterias. Son frecuentes en la zona de hombros
+y cuello.
+Se caracteriza por molestias, incomodidad, impedimento o dolor persis-
+tente en articulaciones, músculos, tendones y otros tejidos blandos, con o
+sin manifestación física, causado o agravado por movimientos repetidos,
+posturas forzadas y movimientos que desarrollan fuerzas altas.
+Aunque las lesiones dorsolumbares y de extremidades se deben princi-
+palmente a la manipulación de cargas, también son comunes en otros
+entornos de trabajo, en los que no se dan manipulaciones de cargas y sí
+posturas inadecuadas con una elevada carga muscular estática.
+Se definen tres etapas en la aparición de los trastornos originados por
+posturas forzadas:
+• En la primera etapa aparece dolor y cansancio durante las horas de traba-
+jo, desapareciendo fuera de éste. Esta etapa puede durar meses o años.
+A menudo se puede eliminar la causa mediante medidas ergonómicas.
+• En la segunda etapa, los síntomas aparecen al empezar el trabajo y no
+desaparecen por la noche, alterando el sueño y disminuyendo la capa-
+cidad de trabajo. Esta etapa persiste durante meses.
+• En la tercera etapa, los síntomas persisten durante el descanso. Se
+hace difícil realizar tareas, incluso las más triviales.
+Traumatismos específicos en hombros y cuellos son 
+1. Tendinitis del manguito de los rotadores: el manguito de los rotadores lo
+forman cuatro tendones que se unen en la articulación del hombro. Los
+trastornos aparecen en trabajos donde los codos deben estar en posición
+
+14
+elevada, o en actividades donde se tensan los tendones o la bolsa sub-
+acromial. Se asocia con acciones repetidas de levantar y alcanzar con y
+sin carga, y con un uso continuado del brazo en abducción o flexión.
+2. Síndrome de estrecho torácico o costoclavicular: aparece por la compre-
+sión de los nervios y los vasos sanguíneos que hay entre el cuello y el
+hombro. Puede originarse por movimientos de alcance repetidos por
+encima del hombro.
+3. Síndrome cervical por tensión: se origina por tensiones repetidas del eleva-
+dor de la escápula y del grupo de fibras musculares del trapecio en la zona
+del cuello. Aparece al realizar trabajos por encima del nivel de la cabeza
+repetida o sostenidamente, o cuando el cuello se mantiene en flexión.
+Traumatismos específicos en mano y muñeca 
+1. Tendinitis: es un inflamación de un tendón debida, entre otras causas, a
+que está repetidamente en tensión, doblado, en contacto con una super-
+ficie dura o sometido a vibraciones. Como consecuencia de estas accio-
+nes el tendón se ensancha y se hace irregular.
+2. Tenosinovitis: producción excesiva de líquido sinovial por parte de la
+vaina tendinosa, que se acumula, hinchándose la vaina y produciendo
+dolor. Se originan por flexiones y/o extensiones extremas de la muñeca.
+Un caso especial es el síndrome de De Quervain, que aparece en los
+tendones abductor largo y extensor corto del pulgar debido a desviacio-
+nes cubitales y radiales forzadas.
+3. Dedo en gatillo: se origina por flexión repetida del dedo, o por mantener
+doblada la falange distal del dedo mientras permanecen rectas las falan-
+ges proximales.
+4. Síndrome del canal de Guyon: se produce al comprimirse el nervio cubi-
+tal cuando pasa a través del túnel Guyon en la muñeca. Puede originar-
+se por flexión y extensión prolongada de la muñeca, y por presión repe-
+tida en la base de la palma de la mano.
+5. Síndrome del túnel carpiano: se origina por la compresión del nervio
+mediano en el túnel carpiano de la muñeca, por el que pasan el nervio
+mediano, los tendones flexores de los dedos y los vasos sanguíneos. Si
+se hincha la vaina del tendón se reduce la abertura del túnel presionan-
+
+15
+do el nervio mediano. Los síntomas son dolor, entumecimiento, hormi-
+gueo y adormecimiento de la parte de la mano: de la cara palmar del pul-
+gar, índice, medio y anular; y en la cara dorsal, el lado cubital del pulgar
+y los dos tercios distales del índice, medio y anular. Se produce como
+consecuencia de las tareas desempeñadas en el puesto de trabajo que
+implican posturas forzadas mantenidas, esfuerzos o movimientos repeti-
+dos y apoyos prolongados o mantenidos.
+Traumatismos específicos en brazo y codo
+1. Epicondilitis y epitrocleítis: en el codo predominan los tendones sin vaina.
+Con el desgaste o uso excesivo, los tendones se irritan produciendo
+dolor a lo largo del brazo, incluyendo los puntos donde se originan. Las
+actividades que pueden desencadenar este síndrome son movimientos
+de extensión forzados de la muñeca.
+2. Síndrome del pronador redondo: aparece cuando se comprime el nervio
+mediano en su paso a través de los dos vientres musculares del prona-
+dor redondo del brazo.
+3. Síndrome del túnel cubital: originado por la fexión extrema del codo.
+3. EVALUACIÓN DEL RIESGO
+Esta parte tiene como finalidad analizar el puesto de trabajo y evaluar el
+posible riesgo derivado de posturas forzadas (ANEXO I). Este apartado
+consta de las siguientes fases:
+3.1. Estudio de las condiciones de trabajo
+El estudio de las condiciones de trabajo va a depender del tipo de traba-
+jo a analizar, la duración del ciclo y la parte del cuerpo que realiza la acción.
+Existen diversos métodos de valoración de las posturas en un puesto de tra-
+bajo: método Owas, Corlett, SWAT, VIRA, ARBAN, Keyserling, etc... Estu-
+diados todos ellos, como ejemplo se propone determinar el riesgo asociado
+a un puesto de trabajo o a una actividad laboral concreta, mediante la utili-
+zación del método OWAS, que consideramos el más práctico y funcional.
+El método no considera los tiempos de exposición de las diferentes acti-
+vidades que realiza el trabajador debido a la imposibilidad de determinarlos
+con una cierta aproximación; ya que por lo general son tareas con una dis-
+
+16
+tribución de las cargas de trabajo de cada actividad que no es uniforme
+durante la jornada.
+Es un método basado en la identificación de posturas de trabajo inade-
+cuadas, y las estandariza en función de las posturas del tronco, de los bra-
+zos y de las piernas. El método también considera el nivel de carga o
+esfuerzo muscular. Los niveles establecidos son los siguientes:
+a. Espalda
+• Recta.
+• Inclinada.
+• Girada.
+b. Brazos
+• Ambos brazos por debajo del nivel del hombro.
+• Un brazo por encima del/a nivel del hombro.
+• Ambos brazos por encima del/a nivel del hombro.
+c. Piernas
+• Sentado.
+• De pie con las dos piernas rectas.
+• De pie, el peso en una pierna recta.
+• De pie con las rodillas flexionadas.
+• De pie con el peso en una pierna y la rodilla flexionada.
+• Arrodillado en una/dos rodillas.
+• Caminando.
+d. Fuerza o carga
+• Fuerza menor o igual a 10 kg.
+• Fuerza entre 10 y 20 kg.
+• Fuerza mayor de 20 kg.
+En el anexo I figuran tres cuadros en los que se muestran los niveles de
+riesgo de las 252 (4·3·7·3) combinaciones diferentes de posturas (de bra-
+zos, tronco y piernas) y esfuerzos de trabajo.
+Los autores del método recomiendan realizar una codificación de la pos-
+tura cada cierto intervalo de tiempo (entre 10 y 30 segundos, dependiendo
+del tipo de tarea) para obtener una visión general de la totalidad de postu-
+ras adoptadas en el ciclo de trabajo analizado.
+
+17
+3.2. Evaluación global del riesgo 
+Se anota el riesgo de la postura más difícil que realiza el trabajador, en
+el recuadro correspondiente. Este nivel oscila entre nivel 1 (situación satis-
+factoria) hasta nivel 4 (situación penosa).
+3.3. Cronograma de actuación 
+Se establece la periodicidad de los reconocimientos médicos en función
+del nivel de riesgo al que está expuesto/a el trabajador/a.
+4. PROTOCOLO MÉDICO ESPECÍFICO
+Este protocolo está dirigido a todo trabajador/a que está expuesto/a a
+posturas forzadas en su puesto de trabajo.
+El objetivo es establecer las características específicas que debe reunir
+el examen de salud en este colectivo laboral.
+La vigilancia de trabajadores/as expuestos/as a posturas forzadas com-
+prende dos fases interdependientes:
+• El análisis de las condiciones de trabajo, que nos permite evaluar el
+riesgo del puesto de trabajo y la región anatómica que puede resultar
+afectada y
+• La vigilancia sanitaria específica de los trabajadores.
+4.1. Historia Laboral 
+4.1.1. Exposiciones anteriores (anamnesis laboral). (ANEXO II)
+Consta de los siguientes apartados
+• Datos de filiación del trabajador
+– Nombre.
+– Apellidos.
+– Sexo.
+– Fecha de nacimiento.
+– D.N.I.
+– Nº de la S.S.
+– Dirección.
+
+18
+• Datos del reconocimiento
+– Nombre del médico del trabajo.
+– Fecha.
+– Servicio de prevención que realiza el reconocimiento.
+– Tipo (propio, ajeno, trabajador designado).
+• Exposiciones anteriores
+– Empresa.
+– Actividad (CNAE).
+– Ocupación (CNO).
+– Tiempo.
+– Descripción del puesto de trabajo.
+4.1.2. Exposición actual al riesgo
+• Datos de filiación de la empresa:
+– Nombre de la empresa.
+– Actividad de la empresa (CNAE).
+– Ocupación (CNO).
+– Domicilio Social - Localidad - Centro de trabajo.
+– Tamaño de la plantilla.
+• Datos relativos al puesto de trabajo
+– Antigüedad.
+– Descripción del puesto de trabajo.
+– Tipo de trabajo: tiempo y tipo de tarea.
+– Herramientas y mandos que se utilizan a diario.
+– Turnos de trabajo.
+– Pausas en el trabajo.
+– Riesgos detectados en el análisis de las condiciones de trabajo.
+– Medidas de prevención adoptadas.
+4.2. Historia clínica
+4.2.1. Anamnesis
+En la evaluación inicial después de la incorporación al trabajo, se reco-
+gerán los siguientes datos:
+• Historia laboral. Exposiciones anteriores.
+
+19
+• Antecedentes personales: en este apartado debemos insistir en la bús-
+queda de antecedentes del sistema osteomuscular y la presencia de
+posibles predisposiciones individuales.
+• Antecedentes familiares.
+• Hábitos personales (alcohol, tabaco, medicamentos, especificando
+cantidades).
+• Anamnesis dirigida por aparatos.
+• Exploración clínica.
+• Analítica sistemática de sangre y orina.
+• Electrocardiograma a mayores de 40 años.
+El examen específico periódico, se realizará con una periodicidad ajus-
+tada al nivel de riesgo al que está sometido el trabajador, tal como se espe-
+cifica en el anexo I en el cronograma de actuación y comprenderá los epí-
+grafes que se especifican en el apartado siguiente.
+4.2.2. Exploración clínica específica
+Se realizará la anamnesis y exploración de las regiones anatómicas
+implicadas en las posturas forzadas: columna vertebral, cintura escapular,
+extremidades superiores y extremidades inferiores (ANEXO III). El protoco-
+lo se ha diseñado pensando en una fácil exploración, que deberá ser ano-
+tada en la casilla o campo correspondiente.
+Estudiando la actividad específica podemos determinar cuales son las
+articulaciones o complejos musculotendinosos que van a realizar ese
+esfuerzo. De forma orientativa, y teniendo en cuenta que no se trata de un
+listado cerrado, se especifica la región anatómica a explorar en las distintas
+profesiones:
+Columna cervical
+– Usuarios de Pantallas de Visualización de Datos (PVD).
+– Maniobras forzadas (mecánicos, mantenimiento, instalaciones y mon-
+tajes).
+– Archivos y almacenes.
+
+20
+– Manejo de cargas en el hombro (carga y descarga).
+– Pintores.
+Columna dorsal y lumbar
+– Personal manipulador de pesos.
+– Trabajadores de la construcción y servicios.
+– Peonaje.
+– Albañilería.
+– Fontanería y calefacción.
+– Encofradores y estructuristas.
+– Conductores de vehículos.
+– Agricultores y ganaderos.
+– Trabajadores de la marina pesquera.
+– Celadores.
+– ATS/DUE.
+– Auxiliares sanitarios.
+– Pintores.
+Hombro y cintura escapular
+– Usuarios de Pantallas de Visualización de Datos (PVD).
+– Pintores.
+– Servicio de limpieza.
+– Conductores de vehículos.
+– Trabajadores de la construcción y servicios.
+– Peonaje.
+– Personal que realiza movimientos repetidos.
+– Personal manipulador de pesos.
+– Fontanería y calefacción.
+– Carpinteros.
+– Mecánicos.
+– Trabajadores que utilizan las manos por encima de la altura del
+hombro.
+– Archivos y almacenes.
+– Trabajadores de la industria textil y confección.
+Brazo y codo
+– Mecánicos.
+– Fontanería y calefacción.
+– Personal que realiza movimientos repetidos.
+– Carpinteros y ebanistas.
+– Chapistas.
+
+21
+– Trabajadores de la construcción y servicios.
+– Peonaje.
+– Servicio de limpieza.
+– Personal manipulador de pesos.
+– Archivos y almacenes.
+– Conductores de vehículos.
+– Usuarios de Pantallas de Visualización de Datos (PVD).
+– Deportistas profesionales.
+– Montadores de piecerío.
+– Industria conservera.
+Antebrazo y muñeca
+– Mecánicos.
+– Fontanería y calefacción.
+– Personal que realiza movimientos repetidos.
+– Carpinteros y ebanistas.
+– Chapistas.
+– Peonaje.
+– Servicio de limpieza.
+– Usuarios de Pantallas de Visualización de Datos (PVD).
+– Personal manipulador de pesos.
+– Montadores de piecerío.
+– Industria conservera.
+– Pintores.
+– Cadenas de montaje.
+Mano y dedos
+– Personal que realiza movimientos repetidos con las manos.
+– Chapistas.
+– Mecánicos.
+– Pintores.
+– Fontanería y calefacción.
+– Trabajadores de la construcción y servicios.
+– Peonaje.
+– Servicio de limpieza.
+– Personal manipulador de pesos en cadena.
+– Archivos y almacenes.
+– Conductores de vehículos.
+– Usuarios de Pantallas de Visualización de Datos (PVD).
+– Personal manipulador de pesos.
+– Deportistas profesionales.
+
+22
+– Montadores de piecerío.
+– Industria conservera.
+– Personal de hostelería.
+– Cocina.
+Cadera y muslo
+– Personal manipulador de pesos.
+– Conductores de vehículos.
+– Policías.
+– Vigilantes.
+– Personal militar.
+– Personal sanitario.
+– Facultativos y ayudantes técnicos.
+– Personal auxiliar (clínico, celadores , administrativos).
+– Comercio.
+Rodilla
+– Conductores de vehículos y maquinaria móvil.
+– Montadores.
+– Estructuristas.
+– Pintores.
+– Chapistas.
+– Mecánicos.
+– Electricistas.
+– Personal militar.
+– Policía.
+– Vigilantes.
+– Agricultores y ganaderos.
+– Personal de mantenimiento.
+– Trabajadores de la construcción.
+– Deportistas profesionales.
+– Descargadores.
+– Personal que desplaza cargas a distancia.
+Pierna, tobillo y pie
+– Conductores de vehículos y maquinaria móvil.
+– Montadores.
+– Estructuristas.
+– Personal militar.
+– Policía.
+– Vigilantes.
+
+23
+– Agricultores y ganaderos.
+– Trabajo en terreno irregular.
+– Carteros.
+– Repartidores de mercancías.
+– Personal de mantenimiento.
+– Trabajadores de la construcción.
+– Deportistas profesionales.
+– Personal de hostelería.
+– En general personas que permanecen muchas horas de pie o cami-
+nando.
+– Descargadores.
+– Personal que desplaza cargas a distancia.
+Se incluye un glosario (ANEXO IV) en las que se describen algunas de
+las pruebas más frecuentes en la exploración del aparato locomotor, de
+gran interés para la correcta valoración de los síntomas.
+La detección precoz de los síntomas es fundamental para evitar que el
+problema rebase los límites de la acción funcional inadecuada que produ-
+ce la fatiga del tejido concreto y como consecuencia la enfermedad o
+lesión.
+La exploración clínica aporta más del 75% de los signos para la obten-
+ción del diagnóstico. Esta exploración física debería ser específicamente
+dirigida por la anamnesis y no por exploraciones «universales». Los pilares
+que sustentan la exploración son
+1. Inspección.
+2. Palpación.
+3. Percusión.
+4. Movilidad activa y pasiva.
+5. Signos clínicos.
+6. Exploraciones complementarias.
+• Inspección: en la columna, observar la actitud postural: cifosis, lordosis,
+escoliosis, gibosidad costal, tortícolis. En extremidades, observar los
+contornos articulares y ver si son normales o existen deformidades.
+Anotar la presencia de atrofias, cicatrices y amputaciones. La existen-
+cia de tumefacción, desviaciones de los dedos, etc. 
+• Se buscarán por palpación y/o percusión, aquellos puntos anatómicos
+dolorosos.
+
+24
+• Exploración de la movilidad activa y pasiva de:
+a. Hombros y cintura escapular
+– abducción o separación, 
+– antepulsión o elevación, 
+– retropulsión o atrasar, 
+– adducción o aproximación, 
+– rotación interna y 
+– rotación externa.
+b.Columna cervical, dorsal y lumbar
+– flexión,
+– extensión,
+– rotación derecha,
+– rotación izquierda,
+– lateralidad derecha y
+– lateralidad izquierda.
+c. Codos
+– flexión,
+– extensión,
+– pronosupinación.
+d.Muñecas
+– flexión dorsal,
+– flexión palmar,
+– inclinación radial,
+– inclinación cubital y
+– pronosupinación.
+e. Dedos
+– flexión,
+– extensión.
+f. Cadera y muslo
+– flexión,
+– extensión,
+– abducción,
+– adducción, 
+– rotación interna y
+– rotación externa.
+
+25
+g.Rodillas
+– flexión y
+– extensión.
+h.Tobillo
+– lexión dorsal, 
+– flexión plantar,
+– inversión (subastragalina) y
+– eversión (subastragalina).
+i. Pie
+– flexión,
+– extensión,
+– abducción,
+– adducción, 
+– rotación interna y
+– rotación externa.
+• La presencia de dolor y su irradiación. Especificar forma de comienzo:
+agudo o insidioso. Especificar curso del dolor: continuo, brotes o cíclico.
+• La existencia de signos clínicos.
+4.3. Control biológico y estudios complementarios específicos.
+No existen indicadores biológicos, por lo tanto no corresponde en este
+apartado hablar sobre control biológico.
+La realización de otras pruebas complementarias corresponde al nivel
+especializado de asistencia sanitaria.
+4.4. Criterios de valoración
+Para considerar la lesión que presenta el trabajador «de origen laboral»
+se deben cumplir una serie de criterios:
+• Existencia de posturas forzadas en el puesto de trabajo.
+• Aparición de los síntomas después del comienzo del trabajo actual y
+persistencia de ellos.
+• Mejoría o desaparición de los síntomas con el descanso y reaparición
+o agravamiento tras reemprender el trabajo.
+
+26
+• Correlación topográfica de las lesiones.
+Se valorarán fundamentalmente los datos referidos a la columna verte-
+bral, cintura escapular, extremidades superiores y extremidades inferiores.
+Haciendo hincapié en los apartados referidos al dolor y a la limitación de
+movilidad comparándola con valores de exámenes anteriores. 
+Los criterios de valoración se definen como sigue:
+Apto.
+No apto.
+En observación.
+Apto: Cuando el trabajador no presenta una afección osteomuscular o
+en la anamnesis no revela una fatigabilidad anormal. El trabajador podrá
+desempeñar su tarea habitual sin ningún tipo de restricción.
+No apto: Calificación que recibe el trabajador cuando el desempeño de
+las tareas impliquen problemas serios de salud o ésta le imposibilite la rea-
+lización de las mismas.
+En observación: Calificación que recibe el trabajador que está siendo
+sometido a estudio y/o vigilancia médica a fin de determinar su grado de
+capacidad.
+La valoración de los signos y síntomas se realiza en cinco grados en
+orden numérico
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Dolor en reposo y/o existencia de sintomatología sugestiva.
+Grado 2
+Grado 1 más contractura y/o dolor a la movilización.
+Grado 3
+Grado 2 más dolor a la palpación y/o percusión.
+Grado 4
+Grado 3 más limitación funcional evidente clínicamente.
+
+27
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO MÉDICO
+ESPECÍFICO
+El protocolo de vigilancia de los trabajadores expuestos a posturas for-
+zadas comprende una evaluación del riesgo, estableciéndose cuatro nive-
+les de riesgo. Se debe indicar, en el recuadro correspondiente, el riesgo de
+la postura más difícil que realiza el trabajador. Se establece un cronograma
+de actuación en relación a las características específicas de cada trabaja-
+dor y al nivel de riesgo que se encuentra sometido, estableciéndose la
+periodicidad de los exámenes periódicos.
+En la elaboración de la historia clínico-laboral, en las preguntas de elec-
+ción única si/no, se señalará con una cruz la que corresponda. En el caso
+de preguntas de elección múltiple habrá que marcar con una cruz la res-
+puesta elegida. Cuando el dato requerido sea una fecha, se contestará el
+día, mes y año. Si fuera imposible conocer este dato con exactitud, se ano-
+tará una fecha aproximativa. Si se trata de una respuesta abierta es muy
+importante proporcionar la información de forma clara y precisa.
+Se cumplimentará la hoja de recogida de datos del examen del sistema
+osteomuscular, recogiendo información sobre las diferentes áreas que se
+exploran para la obtención del diagnóstico y valorar la aptitud para su tra-
+bajo habitual.
+Lo ideal sería que todos los items o apartados fueran rellenados, evitan-
+do, si fuera posible, que alguno quedase en blanco.
+6. CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN
+En primer lugar deberá tenerse en cuenta la actuación sobre el medio
+para eliminar o reducir el riesgo. Se deberán corregir posturas y movimien-
+tos anómalos o forzados, los apoyos prolongados, los movimientos y esfuer-
+zos repetidos. En definitiva, se mejorarán las condiciones de trabajo.
+Se adoptarán medidas organizativas: rotaciones o pausas más frecuen-
+tes en el puesto de trabajo, de forma provisional o definitivamente, para evi-
+tar lesiones. Formación de los trabajadores e información sobre los riesgos
+laborales y las medidas de prevención. Control de la eficacia de la informa-
+ción y formación a los trabajadores.
+Control periódico de las condiciones, la organización y los métodos de
+trabajo y el estado de salud de los trabajadores.
+Siempre que se detecte el menor indicio de desviación de los valores
+considerados normales o la presencia de síntomas achacables a una
+
+28
+enfermedad, el trabajador deberá ser remitido al especialista médico quien
+dictaminará y cuantificará el alcance de las lesiones realizando las pruebas
+complementarias oportunas.
+7. LEGISLACIÓN APLICABLE
+1.
+Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+2.
+R.D. 39/1997, de 17 de enero, por el que se aprueba el Reglamento de
+los Servicios de Prevención.
+3.
+R.D. 487/1997, de 14 de abril, sobre disposiciones mínimas de Seguri-
+dad y Salud relativas a la manipulación manual de cargas que entrañe
+riesgos, en particular dorsolumbares, para los trabajadores.
+4.
+R.D. 488/1997, de 14 de abril, sobre disposiciones mínimas de seguri-
+dad y salud relativas al trabajo con equipos que incluyen pantallas de
+visualización.
+8. BIBLIOGRAFÍA
+1.
+MARQUÉS F.. «Salud y Medicina del Trabajo». Instituto Nacional de
+Seguridad e Higiene en el Trabajo 1991.
+2.
+Asociación Científica Carpe-Diem. «Bases para una normalización de la
+historia clínica laboral». Colección Documentos Ciemat. Junio 1993.
+3.
+MARTÍNEZ RUIZ. «Biomecánica de la columna vertebral y sus implan-
+tes» 1992.
+4.
+Instituto Nacional de Seguridad e Higiene en el Trabajo. «Problemas de
+columna por sobrecarga. Síndrome de espalda dolorosa». Vigilancia
+médica específica protocolos médicos.
+5.
+«Análisis posturales en las lesiones de columna». Prevención Express
+nº 225. Junio 1994.
+6.
+CASTELLÁ J.L., GRAU M., PINILLA J.. «Repertorio de directivas vigen-
+tes y programadas sobre seguridad y salud en el trabajo. Estructurado
+analíticamente». Instituto Nacional de Seguridad e Higiene en el Traba-
+jo. 1995.
+7.
+DE ANTONIO GARCÍA M.. «Análisis biomecánico de las posiciones
+laborales en conflicto con la columna vertebral». Revista de Medicina y
+Seguridad del Trabajo nº 134, enero-marzo 1987.
+8.
+CEBERIO OLABARRÍA F.. «Prevención de la lumbalgia de origen labo-
+ral. Necesidad de una visión integral». Revista Prevención nº 91. Enero-
+marzo 1985.
+
+29
+9.
+«Problemas lumbares derivados del manejo de materiales». Noticias de
+Seguridad. Julio 1990.
+10. GUILLEN P. «Lumbalgias». Fundación Mapfre. 1986.
+11. KRÄMER J. «Patología del disco intervertebral». Editorial Doyma. 1986.
+12. GALLI R.L.. «Urgencias ortopédicas columna vertebral». Editorial Escri-
+ba S.A. 1991.
+13. SOLÉ M.D. «Microtraumatismos repetitivos: estudio y prevención».
+Notas Técnicas de Prevención. I.N.S.H.T. 1993.
+14. Prevention au Travail. «Reflexiones sobre la manutención manual de
+cargas». Prevención Express nº 241. Octubre 1995.
+15. Travail & Securité. «El peso máximo en manutención manual de car-
+gas». «Prevención de lesiones por esfuerzo repetitivo». Prevención
+Express nº 234. Marzo 1995.
+16. ALVAREZ J.M.. «Movimiento manual de cargas. Comparación entre méto-
+dos de evaluación». Revista Mapfre Seguridad nº. 56 4º trimestre 1994.
+17. CHIRIVELLA C., GARCÍA C., PAGE DEL POZO A.. «Evaluación de
+riesgos laborales asociados a la carga física». Revista Prevención nº.
+141. Julio-septiembre 1997.
+18. CEN. «Manual handling associated to machinery-lifting and carrying of
+loads». Comité Europeen de Normalisation. 1990.
+19. GUARNER A.. «Dificultades diagnósticas de los procesos del aparato
+locomotor en medicina del trabajo». Revista Medicina de Empresa nº.
+52. Septiembre 1979.
+20. CSST. «Organización de las posturas en el trabajo». Prevención
+Express nº 264. Septiembre 1997.
+21. GALVEZ J.M.. «Patología del hombro y entesopatías». Fundación Map-
+fre. 1988.
+22. GUILLEN P. «Lesiones de codo antebrazo, muñeca y mano». Funda-
+ción Mapfre. 1987.
+23. LARS PETERSON. «Lesiones deportivas. Prevención y tratamiento».
+Editorial Jims. 1988.
+24. BUCHOLZ & COL. «Toma de decisiones en traumatología ortopédica».
+B.C. Decker. 1987.
+25. SILVERSTEIN, B.; FINE, L.; ARMSTRONG, T.; JOSEPH, B.; BUCH-
+HOLZ, B. and TOBERTSON, M. Cumulative trauma disorders of the
+hand and wrist in industry. «The ergonomics of working postures.
+Models, methods and cases». Corlett N., Wilson J., and Manenica I.
+(eds.). Taylor & Francis, London, 1986.
+
+30
+26. GARCÍA, C.; CHIRIVELLA, C.; PAGE DEL POZO, A.; MORAGA, R.;
+JORQUERA, J. «Evaluación de riesgos laborales asociados a la carga
+física». Instituto de Biomecánica de Valencia. 1997.
+27. MENDILUCE, J.; REDONDO, A. «Protocolo de vigilancia médica espe-
+cífica de los trabajadores». Traumatología. Equipo de desarrollo NOR-
+SALUD. 1997.
+28. MUMENTHALER, M.; SCHILIACK, H. «Patología de los nervios perifé-
+ricos: diagnóstico y tratamiento». Ediciones Toray S.A.; Barcelona 1976.
+
+31
+ANEXO I
+EVALUACIÓN DEL RIESGO EN POSTURAS FORZADAS
+El análisis se efectúa sobre la postura más difícil.
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+2
+2
+2
+3
+3
+2
+2
+2
+2
+2
+3
+3
+3
+2
+3
+2
+3
+3
+3
+3
+2
+2
+1
+1
+3
+4
+1
+1
+2
+1
+1
+4
+4
+3
+1
+2
+1
+2
+4
+4
+4
+1
+2
+2
+2
+4
+4
+4
+2
+3
+2
+3
+4
+4
+4
+2
+4
+2
+3
+4
+4
+4
+2
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+2
+2
+2
+3
+3
+2
+3
+2
+2
+3
+4
+4
+3
+3
+3
+2
+3
+4
+4
+4
+3
+2
+1
+1
+3
+4
+1
+1
+2
+1
+1
+4
+4
+3
+1
+2
+1
+3
+4
+4
+4
+1
+3
+2
+2
+4
+4
+4
+3
+3
+3
+3
+4
+4
+4
+3
+4
+3
+3
+4
+4
+4
+3
+FUERZA MENOR DE 10 KG.
+FUERZA ENTRE 10 Y 20 KG.
+Fuente: «Método ERGO IBV». Instituto de Biomecánica de Valencia. 1997
+
+Investigado por:.....................................................................................................................................................
+NIVEL DE RIESGO
+SIGNIFICADO
+1
+Posturas que se consideran normales, sin riesgo 
+de lesiones musculoesqueléticas, y en las que no 
+es necesaria ninguna acción.
+2
+Posturas con ligero riesgo de lesión musculoes-
+quelética sobre las que se precisa una modifica-
+ción aunque no inmediata.
+3
+Posturas de trabajo con riesgo alto de lesión. Se 
+debe modificar el método de trabajo tan pronto 
+como sea posible.
+4
+Posturas con un riesgo extremo de lesión muscu-
+loesquelética. Deben tomarse medidas correcto-
+ras inmediatamente.
+32
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+1
+1
+1
+2
+2
+1
+1
+2
+2
+2
+3
+3
+2
+2
+2
+2
+2
+3
+3
+3
+2
+3
+2
+3
+3
+3
+3
+2
+2
+1
+1
+3
+4
+1
+1
+2
+1
+1
+4
+4
+3
+1
+2
+1
+2
+4
+4
+4
+1
+2
+2
+2
+4
+4
+4
+2
+3
+2
+3
+4
+4
+4
+2
+4
+2
+3
+4
+4
+4
+2
+FUERZA MAYOR DE 20 KG.
+Fuente: «Método ERGO IBV». Instituto de 
+Biomecánica de Valencia. 1997
+EVALUACIÓN GLOBAL 
+DEL RIESGO
+
+33
+* Riesgo no tolerable: se deberán adoptar prioritariamente medidas para la eliminación o
+reducción del riesgo al nivel más bajo que sea razonablemente posible.
+EVALUACIÓN DE RIESGOS
+EXÁMEN ESPECÍFICO PERIÓDICO
+VALORACIÓN SISTEMA 
+OSTEOMUSCULAR
+ANEXO III
+NIVEL DE
+RIESGO 1
+NIVEL DE
+RIESGO 2
+NIVEL DE
+RIESGO 3
+NIVEL DE 
+RIESGO 4*
+3 AÑOS
+2 AÑOS
+1 AÑO
+MEDIDAS
+CORRECTORAS
+CRONOGRAMA DE ACTUACIÓN EN TRABAJADORES/AS 
+EXPUESTOS/AS A  MOVIMIENTOS REPETIDOS
+
+34
+
+35
+ANEXO II
+HISTORIA CLÍNICO-LABORAL
+HISTORIA LABORAL
+1. Datos de filiación del trabajador/a
+Apellidos y nombre ...........................................................................................................................................
+Sexo:           o H            o M
+Fecha de nacimiento:.......................................................................................................................................
+Nº de la SS: ............................................................... D.N.I. ..............................................................................
+Dirección:....................................................................................................................................................................
+Historia Nº:............................................ Fecha de realización: ............................................................
+2. Datos del reconocimiento
+Nombre y apellidos del médico del trabajo...................................................................................
+Nº de colegiado: ...................................................................................................................................................
+Fecha de realización:.......................................................................................................................................
+Servicio de prevención que realiza el reconocimiento: ......................................................
+Tipo (propio, ajeno, trabajador designado):..................................................................................
+3. Exposición actual al riesgo
+Datos de filiación de la empresa:
+Empresa: ...................................................... CNAE:.................................... CNO:.......................................
+Domicilio Social: .......................................................... Localidad:.............................................................
+Centro de trabajo: ...............................................................................................................................................
+Tamaño de plantilla: ..........................................................................................................................................
+
+36
+Datos relativos al puesto de trabajo:
+Antigüedad en el puesto de trabajo:...................................................................................................
+Descripción del puesto de trabajo:.......................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+Tipo de trabajo:
+Tiempo de tarea:
+Nº de horas/día en el trabajo: ...........................................................................................................
+o Esporádico.
+o Continuo: >2h y < 4 h.
+o Continuo: > 4 h.
+Ciclo de Trabajo:
+o Largo: > 2 minutos.
+o Moderado: 30 segundos - 1 a 2 minutos.
+o Corto: hasta 30 segundos.
+Manipulación de cargas:
+o < de 1 Kg.
+o Entre 1 Kg. y 3 Kgs.
+o > de 3 Kgs.
+Tipo de tarea:
+o Movimientos de alcance repetidos por encima del hombro.
+o El cuello se mantiene flexionado.
+o Giros de columna.
+o Movimientos de flexión o extensión forzados de la muñeca.
+o Compresión de nervio a través de dos vientres musculares.
+o Desviaciones cubitales o radiales forzadas de muñeca.
+o Rotación extrema del antebrazo.
+o Flexión extrema del codo.
+o Flexión mantenida de dedos.
+o Otros. Especificar: 
+
+37
+Herramientas y mandos que utiliza a diario (describir)......................................................
+.............................................................................................................................................................................................
+Turnos de trabajo (especificar):
+Pausas en el trabajo:
+Pausas
+Horas
+1ª
+2ª
+3ª
+4ª
+5ª
+6ª
+7ª
+8ª
+Observaciones:......................................................................................................................................................
+Nº de trabajadores expuestos a posturas forzadas:.............................................................
+¿Han sido evaluados anteriormente los riesgos de su puesto de trabajo?
+o Si    o No
+En caso afirmativo indicar la fecha aproximada de la última evaluación: ..................
+Anotar en caso de conocerlos, qué riesgos para la salud fueron detectados:
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+4. Exposiciones anteriores
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+
+38
+HISTORIA CLÍNICA
+5. Anamnesis
+– ¿Ha padecido alguna enfermedad? (recoger las citadas en el epígrafe 2.4).
+– Especificar trastornos congénitos o adquiridos que repercutan en las
+posturas forzadas.
+– ¿Ha padecido fracturas o traumatismos graves?
+– De las enfermedades citadas anteriormente ¿Se consideró como enfer-
+medad profesional o accidente de trabajo?. En caso afirmativo especifi-
+car cuales. 
+– ¿Cursó con baja?     o Si      o No
+– ¿Presentan lesiones similares otros compañeros de trabajo?
+o Si       o No
+– ¿Ha padecido alguna de estas enfermedades?
+o Diabetes Mellitus.
+o Hiperuricemia mantenida o gota.
+o Colagenosis.
+o Hipotiroidismo.
+o Osteoporosis.
+o Osteomalacia.
+o Reumatismo.
+– ¿Practica algún deporte con regularidad?
+– ¿Realiza tareas domésticas?
+– ¿Se dedica a alguna actividad extralaboral en la que realice posturas for-
+zadas?
+– Mencione sus aficiones:
+......................................................................................................................................................................................
+......................................................................................................................................................................................
+......................................................................................................................................................................................
+......................................................................................................................................................................................
+......................................................................................................................................................................................
+
+39
+ANEXO III
+EXAMEN DEL SISTEMA OSTEOMUSCULAR EN EXPUESTOS 
+A POSTURAS FORZADAS
+COLUMNA VERTEBRAL. DESVIACIÓN DEL EJE ANTERO-POSTERIOR
+Curvas fisiológicas ant-post
+Normal
+Aumentada
+Disminuida
+Cervical
+Dorsal
+Lumbar
+MOVILIDAD - DOLOR
+Flexión Extens.
+Lateralización Lateralización Rotación Rotación
+Dolor 
+Irradia-
+izquierda
+derecha
+derecha izquierda
+0/4
+ción
+Cervical
+Dorsal
+Lumbar
+DESVIACIONES DEL EJE LATERAL
+Eje lateral
+Normal
+Concavidad derecha
+Concavidad izquierda
+Dorsal
+Lumbar
+PALPACIÓN
+Apófisis espinosas dolorosas
+Contractura muscular
+Columna cervical
+Columna dorsal
+Columna lumbar
+
+40
+EXPLORACIÓN NEUROLÓGICA
+EXPLORACIÓN NEUROLÓGICA
++/-
+Lasègue
+Dcha.
+Izda.
+Schober
+Dcha.
+Izda.
+Bragard
+Dcha.
+Izda.
+Valsalva
+ARTICULACIONES: MOVILIDAD - DOLOR
+Articulación
+Abducc.
+Adduc.
+Flexión
+Extensión
+Rot.
+Rot.
+Dolor 
+Irradiación
+Alt. masa 
+externa
+interna
+0/4
+muscular
+Hombro
+Dch.
+Izq.
+Codo
+Dch.
+Izq.
+Muñeca
+Dch.
+Izq.
+Mano y
+Dch.
+dedos
+Izq.
+Cadera
+Dch.
+Izq.
+Rodilla
+Dch.
+Izq.
+Tobillo
+Dch.
+Izq.
+
+41
+Varo
+Valgo
+Codo
+Dcho.
+Izda.
+Genu
+Dcha.
+Izda.
+Cavo
+Plano
+Pie
+Dcho.
+Izda.
+EXPLORACIÓN NEUROLÓGICA
++/-
+Test de Phalen
+Dcho.
+Izda.
+Test de Tinel
+Dcho.
+Izda.
+Signo de Finkelstein
+Dcho.
+Izda.
+EXPLORACIÓN DE RODILLA
++/-
+Lachman
+Dcha.
+Izda.
+Pivot
+Dcha.
+CARE
+Izda.
+Pivot
+Dcha.
+CARI
+Izda.
+Cajón
+Dcha.
+anterior
+Izda.
+Cajón
+Dcha.
+posterior
+Izda.
+Bostezo
+Dcha.
+L. Lat. Ext.
+Izda.
+Bostezo
+Dcha.
+L. Lat. Int.
+Izda.
+EXPLORACIÓN DE CADERA
++/-
+Trendelenburg
+Dcha.
+Izda.
+
+EXPLORACIÓN MENISCAL
++/-
+Steimann
+Dcha.
+Izda.
+Graham Apley
+Dcha.
+Izda.
+Mac Murray
+Dcha.
+Izda.
+Moragas
+Dcha.
+Izda.
+42
+VALORACIÓN:
+Apto  o
+No apto  o
+En observación  o
+Descripción:..............................................................................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+SIGNOS Y SÍNTOMAS
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Dolor en reposo y/o existencia de sintomatología sugestiva.
+Grado 2
+Grado 1 más contractura y/o dolor a la movilización.
+Grado 3
+Grado 2 más dolor a la palpación y/o percusión
+Grado 4
+Grado 3 más limitación funcional evidente clínicamente.
+DOLOR:
+Forma de comienzo:
+o Agudo
+o Insidioso
+Curso:
+o Continuo
+o Brotes
+o Cíclico
+OBSERVACIONES:
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+Fecha de realización del protocolo:
+Fecha de la próxima revisión:
+Nombre, firma y nº de colegiado del facultativo.
+
+43
+ANEXO IV
+GLOSARIO TERMINOLÓGICO Y DE EXPLORACIÓN
+DEL SISTEMA OSTEOMUSCULAR
+EXPLORACIÓN DE LA COLUMNA VERTEBRAL
+Maniobra de Schober: Mide el grado de flexibilidad de la columna ver-
+tebral. Se efectúa una marca sobre la piel en la zona correspondiente a la
+apófisis espinosa de la vértebra S1, así como 10 cm. más arriba. En flexión
+anterior, la distancia entre las dos marcas cutáneas se amplía hasta 15 cm.,
+mientras que en flexión posterior (reclinación) se acorta hasta 8-9 cm.
+Maniobra de compresión cervical axial: consiste en realizar con el
+enfermo sentado una maniobra de presión sobre la cabeza para transmitir-
+lo a la columna cervical. El dolor se localiza en el punto lesional.
+Signo de Adson: elevación del brazo por encima del hombro en posi-
+ción de abducción, palpando simultáneamente la arteria radial; la desapari-
+ción del pulso al ir elevando el brazo es signo de compresión del paquete
+vasculonervioso de las extremidades superiores en los músculos escale-
+nos, por hipertrofia o por costilla cervical.
+EXPLORACIÓN DE LAS RAÍCES CERVICALES
+RAÍZ
+FUERZA
+SENSIBILIDAD
+REFLEJOS
+C5
+Abducción del hombro
+Región deltoidea
+C6
+Flexión del codo
+Borde radial del brazo
+Bicipital
+Extensión del carpo
+Borde radial del antebrazo. 1-2 dedos Estilorradial
+C7
+Extensión del codo
+Cara posterior del brazo
+Tricipital
+Flexión del carpo
+Cara post. del antebrazo. 2-3 dedos
+C8
+Flexión de los dedos
+Borde cubital del brazo
+Cara post. del antebrazo. 4-5 dedos
+
+44
+COLUMNA LUMBAR
+Signo de Valsalva
+Aumento de la presión intrabdominal. Introducir aire en inspiración forza-
+da y hacer fuerzas para defecar. Positividad de la prueba: dolor en el nivel
+metamérico sospechoso de patología discal.
+SIGNOS DE ESTIRAMIENTO DE LAS RAÍCES LUMBARES
+Signo de Lasègue
+En decúbito supino: elevación alternativa de ambas extremidades con la
+rodilla estirada, flexionando las caderas; es positivo si el dolor referido lo
+hace desde la columna lumbar hasta la pantorrilla. Señalar los grados a los
+que se produce el dolor al elevar el miembro, en general no es valorable si
+es positivo por encima de 60o.
+Si el dolor se refiere a la parte posterior de las rodillas es por retracción
+de los músculos isquiotibiales y es negativo. Si por el contrario el dolor se
+manifiesta a lo largo de todo el trayecto del nervio ciático, es positivo.
+Existe el signo de Lasègue invertido que consiste en realizar la misma
+maniobra pero sentado elevando el miembro hacia arriba en extensión de
+rodillas y flexión de las caderas. Este signo es muy útil en la simulación.
+Igualmente, otra forma menos habitual de explorar el s. de Lasègue es
+hacer estirar la rodilla al paciente desde la posición sentado, realizándose
+de esta manera una maniobra de estiramiento del nervio ciático improvisa-
+da pero veraz, aunque no tenga la precisión del s. de Lasègue tradicional.
+Signo de Bragard
+En la misma posición del signo de Lasègue, se flexiona el tobillo dorsal-
+mente forzándolo. Si el dolor aumenta con la maniobra y lo hace a menos
+grados que los producidos por el signo de Lasègue, es positivo; si no lo
+hace, es negativo.
+Síndrome de Baastdrup
+Afección de la columna vertebral por rozamiento de dos o más apófisis
+espinosas, manifestándose con dolor selectivo en la palpación de la espi-
+nosa correspondiente.
+
+45
+Radiológicamente se aprecia entre ambas espinosas una fina línea de
+esclerosis subcondral.
+Una variante de este síndrome es el de las megapófisis transversas de
+L5 cuando contactan con las alas laterales del sacro.
+EXPLORACIÓN DE LAS RAÍCES LUMBOSACRAS
+RAÍZ
+FUERZA
+SENSIBILIDAD
+REFLEJOS
+L1
+Flexión de cadera
+Ingle
+Cremastérico
+Dorso del trocánter
+L2
+Flexión de cadera
+Cara anterior del muslo
+Cremastérico
+Abducción de cadera
+Adductor
+L3
+Flexión de cadera
+Cara anterior del muslo
+Rotuliano
+Abducción de cadera
+Extensión de rodilla
+L4
+Extensión de la rodilla
+Cara interna de la pantorrilla 
+Rotuliano
+hasta cara interna del pie
+Glúteo
+L5
+Extensión del dedo gordo
+Cara lateral de la pierna
+Tibial posterior
+Flexión dorsal del tobillo
+Dorso del pie
+Glúteo
+S1
+Flexión plantar del pie
+Planta del pie, talón
+Aquíleo
+Flexión de rodilla
+Cara lateral del pie
+UTILIDAD DE LA TOMOGRAFÍA AXIAL COMPUTERIZADA
+Y LA RESONANCIA MAGNÉTICA NUCLEAR
+Tomografía computadorizada
+Resonancia magnética nuclear
+Estenosis del canal raquídeo
+Tumores medulares
+Artropatías interapofisarias
+Infecciones
+Cicatrices epidurales postquirúrgicas
+Tumores extramedulares
+Tumores primarios o secundarios
+Siringomielia
+Traumatismos raquídeos
+Atrofia, infarto medular, 
+esclerosis múltiple
+Infección con absceso paraespinal
+Hernia discal
+
+46
+EXPLORACIÓN DE LAS EXTREMIDADES SUPERIORES
+Hombros y cintura escapular
+Aunque no sea así en apariencia, la patología de la articulación escápu-
+lo-humeral es muy frecuente. El hombro al ser una articulación «colgante»
+debe soportar una gran tensión de los elementos que lo mantienen y debe-
+mos ser conscientes que tanto la musculatura escapular, como la toraco-
+humeral soportan una tensión muy importante y es a ella a la que tendre-
+mos que prestar una mayor atención. Por ello es necesario tener presente
+el concepto funcional de la cintura escapular.
+La patología tendinosa es una de las piezas más importantes en la pato-
+logía del hombro.
+La articulación del hombro, como ya es conocido, dispone de una estruc-
+tura capsuloligamentosa llamada «manguito» que recoge los tendones de
+los músculos supraespinoso y de los rotadores internos y externos del
+hombro. En ella asienta una importante patología en relación fundamental-
+mente con los movimientos de abducción y antepulsión, así como del
+impacto de la punta del acromion contra estas estructuras tendinosas, de
+acuerdo con las peculiaridades anatómicas de este hueso, que da lugar al
+llamado síndrome de compresión subacromial.
+Por otro lado, la parte anterior del hombro tiene otra estructura de gran
+interés que es la inserción en la cápsula articular del tendón de la porción
+larga del bíceps, ésta adquiere un gran protagonismo en aquellos trabajos
+que obligan a sostener con los brazos grandes cargas y pesos o a realizar
+esfuerzos medianos pero repetidos.
+Finalmente, las estructuras de sostén del hombro se ven frecuentemen-
+te afectadas en sus inserciones periescapulares y del raquis en aquellos
+profesionales que deben realizar posturas forzadas de complejidad mecáni-
+ca para estas articulaciones. 
+Codos
+La inspección de los resaltes óseos y de las inserciones músculo-tendinosas
+y su palpación es de gran interés para la identificación de los signos clínicos .
+No se debe nunca olvidar que la pronosupinación es un movimiento fun-
+damentalmente del codo, aunque diversos autores lo identifican con la
+muñeca, ya que es allí donde se ve y tiene su expresión funcional este movi-
+miento. Sin embargo, la presencia de dolor en la cabeza del radio a nivel del
+codo nos pone de manifiesto sus trastornos.
+
+47
+Muñecas y Manos
+La exploración de las manos debe recoger todos los detalles con res-
+pecto a la localización del dolor.
+Son puntos de singular interés:
+Tabaquera anatómica 
+Dolor característico de las lesiones del escafoides.
+Sobre el hueso pisiforme, inserción del cubital anterior.
+Cara palmar del escafoides: asiento del tendón de los radiales flexores
+del carpo.
+Estiloides Radial 
+Signo de Finkelstein: con el se puede detectar alteraciones del tendón
+abductor largo del pulgar (enf. de De Quervain o tenosinovitis esteno-
+sante) o de la propia estiloides radial, que juega un papel fundamental en
+los movimientos de inclinación de la mano.
+Dorso de la muñeca
+Para identificar lesiones de los huesos de la primera y segunda fila del
+carpo.
+Estiloides cubital
+Importante en los movimientos de lateralidad. Debe prestarse importan-
+cia a su prominencia o resalte, tanto unilateral como bilateral (Enf. de
+Madelung o carpo triangular) y en los acortamientos tanto congénitos
+como adquiridos del radio (frecuentes tras fracturas de Colles). Es de
+una gran importancia para las personas que manejan pesos o realizan
+movimientos repetidos con las muñecas.
+Articulación trapecio-metacarpiana
+Frecuente asiento de artritis en personas que manejan menaje de coci-
+na o deben realizar oposiciones del pulgar forzadas como la de sostener
+pesos entre los dedos pulgar e índice o realizar movimientos repetidos
+de esa manera.
+
+48
+Articulaciones metacarpofalángicas de los dedos
+Especialmente la del pulgar, sobre la que, debido a su gran variedad de
+movimientos, frecuentemente suelen aparecer artritis traumáticas.
+Inspección de los dedos 
+Los dedos son frecuentemente asiento de lesiones tanto agudas (heri-
+das, amputaciones) como degenerativas (artritis degenerativas, reumatoide,
+etc.) que producen deformidades en los dedos o en otras ocasiones anqui-
+losis de éstos.
+Puede resultar compleja la medición de la movilidad de los dedos. El
+movimiento de los dedos es únicamente en flexión o en extensión. Ello nos
+permite valorar la movilidad de los distintos dedos entre 0o y 110o en los
+dedos más móviles.
+Signo de Tinel 
+Maniobra de percusión sobre el trayecto anatómico de cualquier nervio
+que haya sido lesionado; es positivo cuando al percutir, el paciente descri-
+be sensación de calambre que generalmente se irradia por el trayecto del
+nervio. Lo importante es valorar la progresión en sentido distal del dolor
+eléctrico ya que manifiesta la recuperación de la conducción nerviosa en el
+nervio lesionado.
+EXPLORACIÓN DE LAS EXTREMIDADES INFERIORES
+Caderas
+Las caderas son estructuras articulares que por sus características ana-
+tómicas tienen una patología escasa y generalmente degenerativa por la
+gran carga que deben soportar.
+Sin embargo en la patología laboral se puede observar con alguna fre-
+cuencia, la aparición de las bursitis trocantéreas, inflamaciones de las bol-
+sas sinoviales que se producen como consecuencia de posturas forzadas y
+del roce con superficies duras de los resaltes óseos (trocánter mayor).
+Son menos frecuentes la patología de los adductores, que en la etio-
+logía laboral son raras y generalmente ligadas a posturas muy forzadas
+de apertura de las piernas; también se observa en los jugadores de fút-
+bol profesionales y puede verse en personas que deben caminar fre-
+cuentemente por terrenos blandos (barro, arena etc.). Su máximo expo-
+nente es la osteopatía dinámica del pubis.
+
+49
+Signo de Thomas
+Posición decúbito supino. Se realiza mediante la flexión forzada de una
+cadera, lo que produce la flexión de la cadera contralateral y es signo de
+rigidez articular generalmente por fenómenos degenerativos.
+La palpación dolorosa de la región inguinal nos hace sospechar la
+existencia de una artritis de cadera.
+El signo más característico de la cadera es el Signo de Trendelenburg:
+Se realiza en posición de pie. Se hace colocar al paciente sobre una
+cadera elevando la contralateral; si es capaz de levantar la cadera es nor-
+mal. Si claudica y deja caer la cadera es positivo. Ocurre en lesiones del
+músculo glúteo mediano y en la inestabilidad de la cadera por luxación con-
+génita. También se puede apreciar en las bursitis trocantéreas y en las ten-
+dinitis glúteas, que son infrecuentes.
+Una maniobra muy útil para la exploración de las articulaciones es el
+Signo del «mango de bombeo» consistente en tomar la pierna afecta
+haciendo presión con una mano sobre la rodilla en sentido axial y con la otra
+flexionándola y extendiéndola como en las antiguas bombas de agua
+manuales; si aparece dolor es por alteración de las sacroilíacas.
+Las maniobras de presión anteroposterior y lateral de las crestas
+ilíacas, también sirven para valorar el estado de estas articulaciones.
+Exploración de las rodillas
+La patología de la rodilla es la de mayor incidencia dentro de la patolo-
+gía laboral, sin embargo no debemos olvidar que es en la practica deporti-
+va y en la patología degenerativa donde se encuentra el grueso de las lesio-
+nes de las rodillas.
+Signo del «cepillo» rotuliano
+En el que hacemos pasar las superficies articulares de la rótula sobre el
+cóndilo femoral con la rodilla en extensión, notaremos una sensación
+similar al roce de un cepillo con tejido siendo frecuentemente doloroso y
+especialmente en personas que practican deporte o en aquellas que
+sufren una implantación anormalmente alta o baja de la rótulas. Es una
+maniobra que nunca debe dejar de realizarse.
+Signo de la «tecla» rotuliana 
+Consiste en hacer presión sobre la rótula en posición de reposo, en
+extensión de la rodilla; si se nota el choque de las facetas rotulianas
+
+50
+como la sensación de tocar una tecla de piano, significa que existe líqui-
+do en su interior. Es característico de los derrames articulares muy fre-
+cuentes en la rodilla; suele ser más patente si se oprime suavemente el
+fondo de saco subcuadricipital en derrames pequeños.
+Para una correcta exploración de la rodilla es necesario valorar su esta-
+bilidad ligamentosa. Se realizan las maniobras de poner en tensión los
+ligamentos laterales interno y externo y los ligamentos cruzados anterior
+y posterior. Si el ligamento explorado es insuficiente, se aprecia el des-
+pegue o deslizamiento de las superficies articulares, y en el caso más
+grave se habla de bostezo es decir que la articulación se entreabre al
+explorarla.
+Signo de Lachman 
+Tomando la tibia y el fémur con ambas manos, se realizan movimientos
+en sentido anterior para comprobar que no existe desplazamiento anó-
+malo de los dos extremos óseos.
+Signo del cajón
+Es una maniobra destinada a valorar los ligamentos cruzado anterior y
+posterior, consiste en colocar al enfermo en posición de flexión de 90o,
+realizando enérgicamente intentos de atraer y alejar la tibia. Si se des-
+liza la tibia, hacia adelante o atrás existe positividad del cajón, que sig-
+nifica la claudicación del ligamento, bien por laxitud o por rotura de
+éste.
+Signo del Pivot CARE
+Consiste en una maniobra de cajón en rotación externa de la tibia, sirve
+para valorar la existencia de lesiones asociadas del ligamento lateral
+externo y del cruzado anterior.
+Signo del Pivot CARI
+La maniobra del cajón se realiza en rotación interna para valorar el liga-
+mento lateral interno y el cruzado anterior.
+Signos meniscales
+Las lesiones de los meniscos son muy frecuentes. Se suelen producir en
+maniobras de flexoextensión combinadas con la rotación interna o exter-
+na y es frecuente entre personas que deben saltar de una altura superior
+
+51
+a 50 cm. como los conductores de vehículos pesados y para aquellas
+que deben permanecer mucho tiempo en cuclillas, los que utilizan esca-
+leras de mano, etc.
+La sistemática de la exploración es importante, debe saberse que es lo
+que se busca en cada momento exploratorio.
+Signo de Mac Murray
+Posición sentado con las rodillas colgando. Palpar el punto doloroso
+meniscal y manteniendo el dedo sobre la interlinea en el lugar del dolor,
+ejecutar movimientos de flexión y extensión observando la disminución
+del dolor en relación con el desplazamiento del menisco hacia atrás y
+hacia adelante. Es positivo cuando el dolor desaparece en una posición
+y vuelve a aparecer al volver a la posición anterior.
+Signo de Steiman 
+Posición sentado con las rodillas colgando. Se efectúan maniobras de
+flexo-extensión combinando con rotaciones interna y externa.
+Steiman describió dos signos en relación el 1º con el dolor en los movi-
+mientos de flexoextensión y posteriormente el combinado de flexoexten-
+sión y rotaciones interna y externa alternativa.
+El dolor aparece en la flexoextensión solo en las grandes lesiones menis-
+cales (bloqueos). Sin embargo habitualmente hacemos el Steiman II que
+une la flexoextensión con las rotaciones, lo que nos permite realizar el
+estiramiento del menisco interno al realizar la rotación externa y del
+menisco externo al realizar la rotación interna; será positivo para cada
+menisco en una de estas posiciones.
+Signo de Graham-Apley 
+Posición decúbito prono. Maniobra de flexoextensión de la rodilla, con
+maniobras alternativas de rotación interna y rotación externa de la
+misma, ejerciendo una presión axial sobre los cóndilos femorales y la
+meseta tibial desde la planta de los pies. Es positiva al producir dolor
+sobre uno de los meniscos al ejercer la presión y la rotación con estira-
+miento del menisco correspondiente.
+Maniobra de Moragas: consiste en colocar el tobillo por encima de la
+rodilla contralateral, en flexión de la rodilla y desplazar ésta en sentido
+anteroposterior en dirección a la mesa de exploración; el dolor en la inter-
+linea externa es positivo y signo de lesión del menisco externa. 
+
+52
+Tobillo y pié
+El pie, como órgano efector de la Marcha tiene un protagonismo impor-
+tante en aquellas ocupaciones u oficios que exijan largas permanencias de
+pie o caminando.
+En la exploración del pie es muy importante conocer las deformidades orto-
+pédicas existentes; es de sobra conocida la exclusión para realizar el Servicio
+Militar a las personas que padecen pies planos. Aunque ello no es razonable
+desde un punto de vista funcional, sí es cierto que las personas que padecen
+deformidades en los pies sufren frecuentemente algias en relación con el
+exceso de actividad de estos. Por todo ello es necesario realizar una planti-
+grafía que nos de el perfil anatómico del pie. Es frecuente encontrar:
+Pies planos
+En sus diversos grados (18% de los explorados).
+Pies cavos 
+En los que la huella plantar se encuentra disminuida en su superficie de
+apoyo (12%).
+Pies equinos 
+Consistentes en la rigidez en flexión del tobillo por acortamiento del ten-
+dón de Aquiles.
+Pies zambos 
+Equino varo (hacia la línea media). Supinados mirando la planta del pie
+hacia adentro y arriba 
+* Talalgia: es una afeccción que frecuentemente se desarrolla en adultos
+obesos y se caracteriza por dolor en la inserción calcánea de la fascia
+plantar. Se acompaña de bursitis precalcánea y a veces de calcificación
+de la inserción (espolones calcáneos).
+* Sesamoiditis: son frecuentes en personas que deban permanecer largo
+tiempo en «puntillas» (bailarinas profesionales, ciclistas, saltadores,
+etc.).
+La presencia de uñas en teja provenzal o media caña son frecuente-
+mente asiento de uñas incarnatas; también son frecuentes las onicogri-
+fosis, afecciones de las uñas en las que éstas se hipertrofian en forma
+corniforme. Ambas producen molestias habitualmente y pueden apare-
+cer por el uso de calzado inadecuado y/o por corte excesivo.

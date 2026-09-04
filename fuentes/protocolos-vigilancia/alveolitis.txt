@@ -1,0 +1,1235 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+NEUMONITIS POR HIPERSENSIBILIDAD
+O ALVEOLITIS ALÉRGICA EXTRÍNSECA
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18. 28014 Madrid
+ISBN: 84-7670-576-X
+NIPO: 351-00-020-X
+Depósito Legal: M-50328-2000
+Imprime: RUMAGRAF, S. A.
+Avda. Pedro Díez, 25. 28019 MADRID
+O.T. 26529
+
+El Consejo Interterritorial del Sistema Nacional de Salud informa
+favorablemente el «Protocolo de vigilancia sanitaria específica para
+los/as trabajadores/as expuestos a Neumonitis por Hipersensibilidad
+o Alveolitis Alérgica Extrínseca», en su sesión plenaria de 18 de di-
+ciembre de 2000.
+CONSEJO
+INTERTERRITORIAL
+SISTEMA NACIONAL DE SALUD
+
+7
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE SALUD
+PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL
+DE SALUD
+COORDINACIÓN DEL PROTOCOLO
+DEPARTAMENTO DE SALUD DEL GOBIERNO DE NAVARRA
+INSTITUTO NAVARRO DE SALUD LABORAL
+AUTORES
+Elena Ordoqui García. Alergóloga. NORLABOR. Pamplona.
+Marta Orta Martiartu. Alergóloga. NORLABOR. Pamplona.
+José Luis Lázcoz Rojas. Higiene Industrial. NORLABOR. Pamplona.
+Con el apoyo del equipo de desarrollo NORLABOR y la colaboración de Mutua
+Navarra.
+GRUPO DE TRABAJO DE SALUD LABORAL
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid. 
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa María Campos Acedo. Consejería de Sanidad y Consumo. Extremadura.
+Rosario Castañeda López. Consejería de Sanidad. Madrid.
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Laborales.
+País Vasco.
+Isabel Enseñat Antolí. Consejería de Sanidad y Consumo. Baleares.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+Valentín Esteban Buedo. Consejería de Sanidad. Valencia.
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social. Casti-
+lla y León.
+Fernando Galvañ Olivares. Consejería de Sanidad y Política Social. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Javier Sevilla Lamana. Consejería de Salud y Servicios Sociales. La
+Rioja. 
+Isabel González García. Consejería de Sanidad y Servicios Sociales. Galicia.
+Asunción Guzmán Fernández. Consejería de Salud y Servicios Sanitarios. Astu-
+rias.
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y Trabajo.
+Aragón.
+M.ª Pilar Sánchez Fabo. Instituto Vasco de Seguridad y Salud Laborales. País
+Vasco.
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad Social.
+Cataluña.
+
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanita-
+ria», editados por el Ministerio de Sanidad y Consumo y fruto del trabajo
+desarrollado por las Administraciones Sanitarias a través del Grupo de
+Trabajo de Salud Laboral de la Comisión de Salud Pública del Consejo
+Interterritorial del Sistema Nacional de Salud, como contribución a las ac-
+tividades de prevención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos labo-
+rales (Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone,
+entre otras cuestiones, que debe cambiar radicalmente la práctica de los
+reconocimientos médicos que se realizan a las y los trabajadores. De ser
+exámenes médicos inespecíficos, cercanos a los clásicos chequeos o cri-
+bados de carácter preventivo general, deben pasar a ser periódicos, es-
+pecíficos frente a los riesgos derivados del trabajo, con el consentimiento
+informado del trabajador, y no deben ser utilizados con fines discrimina-
+torios ni en perjuicio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea eficaz
+para la prevención.
+El poder contar con criterios uniformes basados en la evidencia cien-
+tífica y la experiencia profesional de los participantes en los grupos de
+trabajo constituidos para su elaboración, permitirá alcanzar los objetivos
+de prevención de la enfermedad y promoción de la salud de las y los tra-
+bajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar
+la salud de los trabajadores para detectar precozmente e individualizar
+los factores de riesgo y deterioro que puedan afectar a la salud de los
+mismos», la recogida armonizada y periódica de datos sobre riesgos y
+enfermedades y su posterior análisis e interpretación sistemáticos con
+criterios epidemiológicos, constituye uno de los instrumentos con que
+cuenta la salud pública para poder identificar, cuantificar y priorizar, y por
+lo tanto, diseñar políticas de prevención eficaces.
+9
+
+Para la elaboración de los protocolos, se constituyeron varios grupos
+de trabajo, que, coordinados por los representantes de las Comunidades
+Autónomas, permitiese la elaboración en paralelo de varios de ellos. Fi-
+nalmente, una vez concluido el procedimiento interno de elaboración de
+los mismos, han sido sometidos a consulta y adecuadamente informados
+por Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Socie-
+dades Científicas (SEMST, SEEMT, AEETSL, SESPAS y SEE), con cu-
+yos representantes se mantuvieron reuniones al efecto, en el Ministerio
+de Sanidad y Consumo, habiéndose incorporado a la redacción final los
+comentarios recibidos que se consideró mejoraban el texto presentado.
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los sa-
+nitarios, una guía de actuación para la vigilancia sanitaria específica de
+las y los trabajadores afectados de neumonitis por hipersensibilidad o al-
+veolitis alérgica extrínseca, que será revisado periódicamente, en la me-
+dida que así lo aconseje la evolución de la evidencia científica disponible
+y su aplicación concreta en los centros de trabajo de nuestro país.
+María Dolores Flores Cerdán
+Directora General de Salud Pública y Consumo
+10
+
+SUMARIO
+Pág.
+1.
+CRITERIOS DE APLICACIÓN .............................................
+13
+2.
+DESCRIPCIÓN DEL PROBLEMA .......................................
+15
+2.1.
+Definiciones y conceptos ............................................
+15
+2.2.
+Fuentes de exposición y usos ....................................
+16
+2.3.
+Mecanismo de acción .................................................
+18
+2.4.
+Efectos sobre la salud ................................................
+18
+3.
+EVALUACIÓN DEL RIESGO ..............................................
+19
+3.1.
+Factores de riesgo ......................................................
+19
+3.2.
+Valores límite ambientales ..........................................
+20
+3.3.
+Evaluación por factores  .............................................
+20
+3.4.
+Niveles de riesgo ........................................................
+22
+4.
+PROTOCOLO MÉDICO ESPECÍFICO ...............................
+23
+4.1.
+Historial laboral ...........................................................
+23
+4.2.
+Historia clínica ............................................................
+25
+4.3.
+Estudios complementarios específicos ......................
+29
+4.4.
+Criterios de valoración ................................................
+30
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTO-
+COLO MÉDICO ESPECÍFICO .............................................
+33
+6.
+CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES
+QUE SE DETECTEN ............................................................
+35
+7.
+NORMATIVA APLICABLE ...................................................
+37
+8.
+BIBLIOGRAFÍA ....................................................................
+39
+ANEXO I: EXAMEN CLÍNICO ....................................................
+41
+11
+
+1.
+CRITERIOS DE APLICACIÓN
+El contenido de este protocolo está orientado para su aplicación a los
+trabajadores que estén expuestos a la inhalación de polvo orgánico de
+distintas proteínas animales y vegetales, así como algunas sustancias
+inorgánicas (por ejemplo, isocianatos) que abarcan multitud de profesio-
+nes dependiendo del agente causal. Pueden producir distintas formas de
+patología: aguda, subaguda o crónica (1).
+Los trabajadores expuestos a las sustancias descritas como causa de
+neumonitis por hipersensibilidad tras su exposición (2-3) realizan activida-
+des en las industrias (4) de las cinco clases de productos que, de forma
+orientativa, se resumen a continuación:
+1.
+Proteínas séricas y excrementos: excrementos de aves, proteí-
+nas de la orina de ratas, abonos para setas (Termoactinomyces,
+bacterias y protozoos).
+2.
+Paja y cereales: caña de azúcar, corcho, serrín y heno enmoheci-
+dos, esparto, cebada y malta enmohecidos, trigo y otros cerea-
+les, polvo de grano de café, techos de paja (todos ellos contami-
+nados por hongos).
+3.
+Maderas: pulpa de madera enmohecida (Alternaria), corteza de
+arce húmeda.
+4.
+Alimentos y pieles: mohos de queso, harina de pescado, polvo de
+las pieles de astracán y zorro.
+5.
+Enzimas industriales, sistemas de aire acondicionado e isociana-
+tos (1-5): detergentes enzimáticos (Bacillus subtilis), polvo de pi-
+mentón (Mucor), aerosoles de agua contaminada (hongos), partí-
+culas de acondicionadores y humidificadores (Actinomyces),
+espuma, adhesivos y pinturas (isocianatos), sulfato de cobre.
+13
+
+15
+2.
+DESCRIPCIÓN DEL PROBLEMA
+2.1.
+DEFINICIONES Y CONCEPTOS
+La neumonitis por hipersensibilidad o alveolitis alérgica extrínseca
+puede definirse (3-4) como una enfermedad pulmonar de base inmunoló-
+gica producida por una amplia gama de antígenos que llegan al pulmón
+por vía inhalatoria, vehiculizados por polvos orgánicos e inorgánicos de
+procedencias muy diversas, generalmente de origen ocupacional. Las en-
+tidades más conocidas son el «pulmón del granjero» y el «pulmón del cui-
+dador de aves». Las proteínas animales y vegetales causantes de patolo-
+gía respiratoria son múltiples. Los hongos (6) son los más frecuentemente
+implicados, destacando: Micropoliespora faeni, Termoactinomyces vulga-
+ris y faeni, Aspergillus fumigatus y flavus, Penicillium, Streptomicetos y
+Mucor. Cada agente produce una enfermedad que suele etiquetarse se-
+gún la profesión a la que se dedica el trabajador expuesto.
+Los rasgos más importantes de la enfermedad (7) pueden glosarse
+en los siguientes puntos:
+— Afectación bilateral y difusa de bronquiolos terminales, alvéolos e
+intersticio pulmonar.
+— Inflamación constituida por un infiltrado celular mononuclear que
+frecuentemente deriva a la formación de granulomas y fibrosis.
+— Presentación de la enfermedad con patrón agudo, subagudo o
+crónico.
+— Detección en el suero de los pacientes de anticuerpos precipitíni-
+cos frente al antígeno responsable.
+Para acotar correctamente la Alveolitis Alérgica Extrínseca, conviene
+considerar el Síndrome Tóxico del Polvo Orgánico-ODTS (8), denominado
+también Fiebre del Grano, Pulmón del Silo o Micotoxicosis Pulmonar. Se
+trata de un cuadro clínico agudo de tipo tóxico, no inmunológico ni idiosin-
+crásico, que puede afectar a varios individuos de la misma planta en res-
+puesta a diversos polvos orgánicos tóxicos u óxidos de nitrógeno genera-
+dos en los silos, que es donde habitualmente se ve esta patología (4). Su
+incidencia parece incluso mayor que la de la Alveolitis Alérgica Extrínse-
+ca, confundiéndose muchas veces con ésta.
+
+Algunas horas después del contacto con una fuente de polvo orgáni-
+co (en las tareas de remover la tapa del silo antes de la descarga mecáni-
+ca) o de óxido de nitrógeno, aparece la clínica de un síndrome febril agu-
+do de tipo gripal con mialgias que puede acabar en edema pulmonar
+agudo. No hay precipitinas en el suero y la radiografía de tórax es gene-
+ralmente normal. El síndrome suele ser autolimitado y no se observan se-
+cuelas clínicas ni radiológicas a largo plazo. Es un cuadro también similar
+a la inhalación masiva de humo de plásticos o metales, lo que lleva a de-
+nominar el síndrome como Fiebre de la Inhalación (8).
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS
+El número de agentes según la fuente de exposición es muy elevado,
+siendo en la mayoría de los casos material inhalado contaminado con
+hongos, bacterias y protozoos. También isocianatos de pinturas (9), espu-
+mas y adhesivos; anhídrido ftálico y anhídrido trimetílico de pinturas y
+plásticos (6). Constantemente se están añadiendo nuevos agentes como
+causa de neumonitis por hipersensibilidad.
+A continuación se detallan los agentes causales más importantes, el
+vehículo que utilizan para llegar al alvéolo y las profesiones relacionadas
+con la exposición (10-11):
+Fuente del antígeno
+Antígeno
+Enfermedad
+Heno enmohecido
+Bagazo enmohecido
+Abono para champiñones
+Corcho enmohecido
+Corteza de arce húmeda
+16
+Micropolyspora faeni
+Termoactinomyces vulga-
+ris
+Termoactinomyces vulga-
+ris
+Micropolyspora faeni
+Termoactinomyces vulga-
+ris
+Penicillium frecuentan
+Cryptostroma corticale
+Neumonitis alérgica por M.
+faeni o pulmón del granjero
+Neumonitis alérgica por T. vul-
+garis o pulmón del granjero
+Neumonitis bagazótica o ba-
+gazosis
+Neumonitis alérgica por M.
+faeni o pulmón del cultivador
+de setas
+Neumonitis alérgica por T. vul-
+garis o pulmón del cultivador
+de setas
+Neumonitis alérgica por polvo
+de corcho o suberosis
+Neumonitis alérgica por cor-
+teza de arce o enfermedad
+de los descortezadores de
+arce
+
+Fuente del antígeno
+Antígeno
+Enfermedad
+Esparto
+Serrín de sequoia
+Pulpa de madera
+Cebada enmohecida
+Paja enmohecida
+Excremento de paloma, lo-
+ro y otras. Sueros, proteí-
+nas y excrementos aves
+Harina de trigo
+Soja
+Grano de café
+Pimentón molido
+Moho de queso
+Tabaco
+Basura de plantas
+Embutidos humedecidos
+Harina de pescado
+Acondicionadores y
+humidificadores.
+Proteínas de protozoos
+Caña de azúcar
+«Mezcla de Burdeos»
+17
+Aspergillus fumigatus
+Graphium, Pullularia pullu-
+lans
+Alternaria
+Aspergillus clavatus,
+Aspergillus fumigatus
+Aspergillus versicolor
+Termoactinomyces vulga-
+ris
+Sitophilus granarius
+Polvo de soja
+Polvo de grano de café
+Mucor
+Penicilium casei. Acaro
+siro
+Aspergillus
+Streptomyces albus
+Penicillium. Aspergillus
+Harina de pescado
+Termoactinomyces
+Termoactinomyces
+Solución de sulfato de co-
+bre
+Pulmón de los trabajadores
+de esparto o Estipatosis
+Neumonitis alérgica por Gra-
+phium o sequoiosis
+Neumonitis alérgica por pulpa
+de madera o enfermedad de
+los trabajadores de la pulpa
+de madera
+Aspergilosis alérgica o pul-
+món de los trabajadores de la
+malta
+Aspergilosis alérgica
+Neumonitis alérgica por antí-
+genos aviarios o pulmón del
+cuidador de aves
+Neumonitis alérgica por S.
+granarius o enfermedad de
+los molineros
+Neumonitis alérgica por polvo
+de soja
+Neumonitis alérgica por polvo
+de grano de café
+Neumonitis alérgica por polvo
+de pimentón
+Pulmón de los lavadores de
+queso
+Enfermedad de los procesa-
+dores de tabaco
+Enfermedad de los trabajado-
+res de fertilizantes
+Pulmón de los limpiadores de
+embutidos
+Pulmón de los trabajadores
+de harina de pescado
+Alveolitis por acondicionado-
+res de aire
+Pulmón de los cultivadores de
+caña de azúcar
+Pulmón de los rociadores de
+viñas
+
+Fuente del antígeno
+Antígeno
+Enfermedad
+Pieles de astracán y zorro
+Detergentes enzimáticos
+Pinturas, espumas y
+adhesivos
+Plásticos
+2.3.
+MECANISMO DE ACCIÓN (8)
+El polvo orgánico inhalado puede llegar a través de la tráquea y de
+los bronquios hasta los bronquiolos terminales, alvéolos e intersticio
+que lo rodea, produciendo patología respiratoria por mecanismo inmu-
+nológico tipo III de la clasificación de Gell y Coombs, mediado por inmu-
+nocomplejos (12). Los hallazgos inmunológicos característicos de las
+alveolitis alérgicas extrínsecas son los anticuerpos precipitantes séricos
+específicos contra los antígenos presentes en el material inhalado. Se
+detecta IgG por inmunoelectroforesis o por técnicas de difusión en gel,
+aunque en el suero del paciente también se pueden detectar IgA e IgM
+específicas (7-10).
+2.4.
+EFECTOS SOBRE LA SALUD
+Las formas agudas de presentación se caracterizan por la aparición
+de una neumopatía intersticial con infiltración linfocitaria y granulomas
+(7). Clínicamente debutan a las 4-6 horas de exposición con un cuadro de
+tos, disnea, fiebre elevada con escalofríos, mialgia y malestar general. En
+sucesivos episodios, si se mantiene la exposición, se añaden al cuadro
+anorexia y pérdida de peso con empeoramiento de la disnea.
+En las formas crónicas la fibrosis pulmonar se hace progresiva (13),
+difusa e irreversible. La clínica presente en las formas agudas se mantie-
+ne, asociándose debilidad general con una pérdida de peso importante y
+disnea severa. El patrón ventilatorio es restrictivo (CVF < 80%) y además
+existe un marcado descenso en el test de difusión pulmonar (DLCO) (14).
+18
+Polvo de la piel
+Bacillus subtilis
+Isocianatos, 
+colofonia,
+Anh. ftálicos y trimetílico
+Plásticos, colofonia
+Pulmón de los peleteros
+Pulmón de los detergentes
+Neumonitis alérgica del pintor
+Pulmón de trabajadores de
+plástico
+
+19
+3.
+EVALUACIÓN DEL RIESGO
+3.1.
+FACTORES DE RIESGO
+La aplicación del protocolo de detección de una posible neumonitis
+por hipersensibilidad o alveolitis alérgica extrínseca estará indicada cuan-
+do exista la posibilidad de que el trabajador pueda sensibilizarse por ex-
+posición a cualquiera de las sustancias descritas hasta la actualidad, pre-
+cisando para ello la exposición a la sustancia y un período de latencia
+variable (4).
+3.1.1.
+Factores de riesgo ambientales
+Tendrán riesgo de padecer alveolitis alérgica (2-10) aquellos trabaja-
+dores expuestos a altas concentraciones de sustancias sensibilizantes en
+lugares donde las medidas de ventilación y aireación sean insuficientes
+para la cantidad de agente en el ambiente. Deberá existir necesariamen-
+te un tiempo de latencia de meses o años hasta que se produzca la sen-
+sibilización (6).
+A)
+Concentración: cuanto mayor sea, aumentará el riesgo de sen-
+sibilización a la sustancia.
+B)
+Tiempo de exposición: será necesario para dar pie a que se
+desarrollen los mecanismos inmunitarios en los trabajadores. La
+experiencia clínica muestra que el paso del tiempo no hace des-
+aparecer el riesgo de enfermedad pero sí la hace menos habi-
+tual.
+C)
+Ventilación y aireación del lugar de trabajo: las condiciones
+deficitarias favorecerán la sensibilización por aumento en la ex-
+posición al alergeno. Para su evaluación deberán tenerse en
+cuenta los criterios del RD 486/1997, sobre seguridad y salud en
+los lugares de trabajo.
+D)
+Instalación de aire acondicionado: la actividad laboral en lu-
+gares con instalación de acondicionadores de aire no presupone
+por sí sola que se esté en riesgo de padecer neumonitis por hi-
+persensibilidad. Pero su deficiente mantenimiento es con fre-
+
+cuencia la causa de trastornos por hipersensibilidad en vías res-
+piratorias, además de otros problemas de salud laboral.
+3.2.
+VALORES LÍMITE AMBIENTALES (14)
+VLA-ED, VALORES LÍMITE AMBIENTALES-EXPOSICIÓN DIARIA
+Sustancia
+VLA-ED mg/m3
+Diisocianato de 1,5-naftileno
+0,043
+Diisocianato de 1,6-hexametileno
+0,035
+Diisocianato de 2,4-tolueno
+0,036
+Diisocianato de 4,4-difenilmetano
+0,052
+Subtilisinas (enzimas proteolíticas). Sólo existe VLA-Exposición Corta
+0,00006 (VLA-EC)
+3.3.
+EVALUACIÓN POR FACTORES
+A)
+Concentración
+Puntos
+Concentraciones bajas estimadas de contaminante.
+Valor inferior al 10% del VLA-DE si está recogido (isocianatos)
+0
+Concentraciones medias estimadas de contaminante.
+Valor entre el 10 y el 25% del VLA-DE
+1-2
+Concentraciones altas estimadas de contaminante.
+Valor entre el 25 y el 50% del VLA-DE
+3-4
+Concentraciones muy elevadas estimadas de contaminante.
+Valor superior al 50% del VLA-DE
+5-6
+TOTAL VALORACIÓN A)
+20
+
+B)
+Tiempo de exposición
+Puntos
+Menos de 1 mes
+0
+Entre 1 y 6 meses
+1-2
+Entre 6 meses y 3 años
+3-4
+Entre 3 y 10 años
+5-6
+Más de 10 años 
+1-2
+TOTAL VALORACIÓN B)
+C)
+Ventilación y aireación del lugar de trabajo
+Puntos
+Condiciones adecuadas
+0
+Condiciones dudosas
+1-2
+Malas condiciones
+3-4
+TOTAL VALORACIÓN C)
+D)
+Instalación de aire acondicionado
+Puntos
+Condiciones correctas documentadas de la instalación
+Sin instalación
+0
+Condiciones dudosas o incorrectas de mantenimiento
+1-2
+Malas condiciones de mantenimiento
+3-4
+TOTAL VALORACIÓN D)
+21
+
+Valoración de los factores de riesgo
+(máx)
+Puntos
+FACTOR A)
+(6)
+FACTOR B)
+(6)
+FACTOR C)
+(4)
+FACTOR D)
+(4)
+TOTAL
+(16)
+TOTAL VALORACIÓN
+3.4.
+NIVELES DE RIESGO
+Examen 
+Nivel de riesgo
+Puntos
+Estado de la evaluación
+clínico
+I
+0-5
+Riesgo aceptable.
+Situación satisfactoria
+3 años
+II
+6-10
+Riesgo moderado. Valorar y planificar
+las modificaciones que puedan reducir
+el riesgo
+1 año
+III
+11-16
+Riesgo no tolerable. Reducción del
+riesgo
+6 meses
+Restricciones:
+1.ª
+En caso de valoración máxima en el factor A), se evaluará el
+riesgo en el nivel III.
+2.ª
+De acuerdo con el lugar de trabajo, se evaluará el factor C) o el
+D), pero nunca ambos.
+22
+
+23
+4.
+PROTOCOLO MÉDICO
+ESPECÍFICO
+Se aplicará este protocolo tanto en la evaluación inicial como en los
+exámenes periódicos, ajustándose al ritmo indicado en el punto 3.4.
+4.1.
+HISTORIA LABORAL
+Datos de filiación
+Apellidos
+Nombre
+Fecha de nacimiento
+Sexo
+Estado civil
+Peso
+Talla
+Profesión actual
+Formación-Nivel de estudios
+Empresa-Codificación
+Puesto de trabajo actual:
+Indicar Codificación Nacional de Ocupaciones-CNO:
+Rotativo
+No permanente
+Permanente
+Tiempo que lleva en el puesto
+Meses
+0-6
+6-12
+Años:
+<5
+5-15
+>15
+
+4.1.1.
+Exposiciones anteriores
+Puestos previos dentro de la misma empresa
+1.
+CNO:
+2.
+CNO:
+3.
+CNO:
+Trabajos previos en otras empresas, especialmente:
+Granjas avícolas
+CNO:
+Silos y graneros
+CNO:
+Cultivo de setas
+CNO:
+Manufactura y uso del esparto
+Pintores
+Empresa
+Actividad
+Fecha de inicio y cese
+1.
+2.
+3.
+4.1.2.
+Exposición actual al riesgo (listados no exhaustivos)
+— Polvo orgánico (animal o vegetal) y aerosoles:
+— material enmohecido
+— heno, paja húmeda
+— fertilizantes (basura de paja)
+— proteína séricas y excrementos de aves
+— abono de setas de cultivo
+— acondicionadores y humidificadores
+— caña de azúcar (bagazo)
+— embutidos enmohecidos
+— corcho enmohecido
+— corteza de arce húmeda
+— serrín enmohecido
+— cebada y malta enmohecida
+— trigo, soja y otros cereales
+— pulpa de madera enmohecida
+— moho de queso
+— harina de pescado
+— polvo de pieles (astracán y zorro)
+— polvo de grano de café
+— de paja con moho
+— detergentes enzimáticos
+24
+
+— polvo de pimentón
+— aerosoles de agua contaminada
+— proteínas de la orina de ratas y animales de laboratorio
+— gases: 
+— isocianatos
+— pinturas
+— adhesivos
+— espuma
+— ácidos anhídridos:
+ác. ptálico
+ác. trimelítico
+ác. hexahidroptálico
+ác. hímico
+ác. tetracloroptálico
+— sulfato de cobre
+Equipos de protección individual (EPIs)
+— Guantes. Tipo
+— Mascarilla. Tipo
+— Gafas
+— Ropa especial
+— Otros
+Medidas de control ambiental en el puesto de trabajo
+— Instalación de aire acondicionado
+— Ventilación
+— Filtros/respiradores. Tipo
+— Campanas extractoras
+— Infraestructura general
+— Otras
+4.2
+HISTORIA CLÍNICA
+4.2.1.
+Antecedentes personales
+1.
+Historia de atopia
+— Rinitis/Conjuntivitis
+Intrínseca
+Extrínseca
+25
+
+— Asma bronquial
+Intrínseca
+Extrínseca
+— Alergia a alimentos/medicamentos
+— Alergia al látex
+— Urticaria-Angioedema
+— Eccema atópico
+2.
+Infecciones respiratorias
+— Catarros
+— Cuántos al año
+— Neumonías
+¿Cursan con hiperreactividad bronquial?
+— Sí 
+— No
+— Otras
+3.
+EPOC
+— Tipo Bronquitis Crónica
+— Tipo Enfisema
+4.
+Reflujo gastroesofágico con/sin hernia de hiato
+5.
+Tabaquismo
+— No
+— Fumador pasivo
+(Ej.: cónyuge de fumador)
+— Ex fumador
+(Desde hace cuánto tiempo)
+— Sí
+< 1 paquete diario
+> 1 paquete diario
+Durante cuántos años
+6.
+Drogas de abuso
+— Marihuana
+— Cocaína
+— Heroína
+— Otras
+7.
+Aficiones
+— Bricolaje
+— Pintura
+— Jardinería
+26
+
+— Cría de animales (palomas y otras aves)
+— Posee mascota/mascotas
+— Otras
+4.2.2.
+Antecedentes familiares
+1.
+Enfermedades alérgicas
+— Rinitis/Rinoconjuntivitis
+— Asma bronquial
+— Urticaria/Dermatitis
+— Alergia a medicamentos/alimentos
+4.2.3.
+Anamnesis
+— Tos
+— Disnea
+— Opresión torácica
+— Expectoración
+— Fiebre
+— Escalofríos
+— Mialgias
+— Anorexia
+— Pérdida de peso
+Si tiene tos, opresión torácica o sibilancias
+— Ausentes
+Frecuencia de las crisis
+— Menos de una/mes
+— Una por mes
+— Una por semana
+— Una por día
+— Más de una por día
+Intensidad
+— Débil
+— Mediana
+— Fuerte
+27
+
+Horario
+— Día y noche
+— Sólo por el día
+— Sólo por la noche
+— Al final de la noche
+— Se encuentra peor
+— lunes
+— viernes
+— Relación con la jornada laboral
+— al inicio
+— a media jornada
+— al final
+— Si tiene disnea 
+— De reposo
+— De esfuerzo
+— de grandes esfuerzos
+— de medianos esfuerzos
+— de mínimos esfuerzos
+— ¿Existen otros trabajadores con el mismo problema en el mis-
+mo puesto de trabajo?
+— No
+— Sí
+— ¿Cuántos?:
+— ¿Relaciona el cuadro con alguno de los productos que mani-
+pula?
+— No
+— Sí
+— ¿Con cuáles?:
+— Tiempo de latencia del cuadro
+— No existe
+— Sí existe
+— ¿Con cuáles?:
+28
+
+4.2.4.
+Episodios de mejoría
+— Al finalizar la jornada laboral
+— En fines de semana
+— En vacaciones
+— Se encuentra mejor el lunes
+4.2.5.
+Exploración clínica específica
+— Inspección
+— Exploración:
+— Auscultación cardiopulmonar normal:
+SÍ
+NO
+— Sibilancias
+— Roncus
+— Crepitantes
+— Disminución del murmullo vesicular
+— Piel y mucosas
+4.3.
+ESTUDIOS COMPLEMENTARIOS ESPECÍFICOS
+— Exploración Funcional Respiratoria
+— Espirometría basal
+— CVF
+— VEMS = FEV1
+— FEF 25/75
+— FEF 25
+— FEF 50
+— PEF (Pico-Flujo)
+— Análisis clínicos
+— Hemograma, VSG
+— Radiografía de tórax
+— Nódulos pulmonares
+— Fibrosis intersticial difusa
+Al cumplimentar el protocolo se tendrá en cuenta:
+Historia laboral
+Deben recogerse ante todo los datos de exposición pasada y presen-
+te a los agentes etiológicos de neumonitis por hipersensibilidad o alveoli-
+tis alérgica extrínseca, necesarios para la valoración final de la historia
+clínica (2).
+29
+
+Historia clínica
+Los pacientes comienzan presentando fiebre alta con escalofríos, tos
+seca, disnea, malestar general y progresivamente según avanza la enfer-
+medad, por la exposición continuada, se asocian pérdida de peso, anore-
+xia, mialgias y disnea severa (1).
+Estudios complementarios específicos
+No se dispone en la actualidad de criterios clínicos, radiológicos, in-
+munológicos ni citohistológicos que sean patognomónicos de alveolitis
+alérgica extrínseca. Existe una serie de datos que la pueden sugerir (7),
+como son la clínica descrita y la detección de anticuerpos precipitantes
+en el suero del paciente, que suele relacionarse con provocación bron-
+quial específica positiva. La presencia de leucocitosis con desviación a la
+izquierda es usual, siendo rara la eosinofilia superior al 10% (4).
+4.4.
+CRITERIOS DE VALORACIÓN (8-13)
+Grado 0
+Ausencia de signos y síntomas
+Grado 1
+Infecciones respiratorias de vías bajas de carácter leve. CVF menor al
+80% del valor de referencia. Leucocitosis con desviación a la izquierda
+Grado 2
+Infecciones respiratorias frecuentes o intensas con fiebre, tos seca, dis-
+nea y malestar general. CVF entre el 65 y el 50% del valor de referencia.
+Leucocitosis con desviación a la izquierda
+Grado 3
+Infecciones respiratorias frecuentes e intensas con fiebre, tos seca, dis-
+nea y malestar general persistente. CVF entre el 49 y el 35% del valor de
+referencia. Leucocitosis con desviación a la izquierda. Deterioro general
+Grado 4
+Infecciones respiratorias frecuentes e intensas con fiebre, tos seca, dis-
+nea severa y malestar general persistente. CVF menor del 35% del valor
+de referencia. Leucocitosis con desviación a la izquierda. Deterioro gene-
+ral, pérdida de peso, anorexia y mialgias. Fibrosis radiológica. Síndrome
+Tóxico del Polvo Orgánico-ODTS (sin fibrosis)
+El grado 0 se asignará cuando el trabajador no presente signos ni sínto-
+mas sospechosos de asma mediada por alergenos en el ambiente laboral.
+El grado 1 corresponde a la aparición de sospecha de neumonitis por
+hipersensibilidad o alveolitis alérgica extrínseca. Puede cursar con infec-
+ciones respiratorias de vías bajas de carácter leve y CVF menor al
+80% del valor de referencia. Aparece generalmente leucocitosis con des-
+viación a la izquierda.
+30
+
+En el grado 2 existe evidencia de infecciones respiratorias frecuentes
+o intensas con fiebre, tos seca, disnea y malestar general. La CVF está
+entre el 65 y el 50% del valor de referencia. Se acompañará de leucocito-
+sis con desviación a la izquierda. El trabajador, no obstante, es capaz de
+desarrollar su actividad de manera aparentemente normal en las inter-
+crisis.
+El grado 3 se aplicará a los casos en que el estado del trabajador esté
+afectado en su estado general, con trastornos bien establecidos como
+disnea y malestar general persistentes. CVF entre el 49 y el 35% del valor
+de referencia, y que le dificulten para realizar la actividad laboral y social
+con normalidad.
+El grado 4 supone el establecimiento de un déficit funcional causado
+por neumonitis por hipersensibilidad o alveolitis alérgica extrínseca muy
+severa. Estarán recogidas infecciones respiratorias frecuentes e intensas
+con fiebre, tos seca, disnea severa y malestar general persistente. CVF
+menor del 35% del valor de referencia. Leucocitosis con desviación a la
+izquierda. Deterioro general, pérdida de peso, anorexia y mialgias. Fibro-
+sis radiológica, excepto en el Síndrome Tóxico del Polvo Orgánico-ODTS,
+en el que ésta no se produce.
+31
+
+5.
+NORMAS PARA LA
+CUMPLIMENTACIÓN DEL PROTOCOLO
+MÉDICO ESPECÍFICO
+El protocolo se aplicará a todos los trabajadores que ocupen puestos
+con exposición a riesgos como los especificados en los cinco puntos del
+apartado 1 y en el 2.2.
+Para la evaluación del riesgo específico de los puestos de trabajo en
+relación con la neumonitis por hipersensibilidad o alveolitis alérgica ex-
+trínseca ocupacional, previa a la decisión de planificar la exploración clíni-
+ca específica, deberán seguirse los pasos indicados en el punto 3, EVA-
+LUACIÓN DEL RIESGO.
+A fin de facilitar la cumplimentación del protocolo, el ANEXO 1 para el
+examen clínico se estructura en forma de respuestas cerradas en la ma-
+yor parte de los casos. En las preguntas cuya respuesta sea Sí/No, se se-
+ñalará con una cruz la que corresponda. En caso de que la pregunta
+ofrezca varias posibilidades, habrá que marcar con una cruz la respuesta
+elegida. Cuando el dato requerido sea una fecha, se contestará el día,
+mes y año de cada evento. Si fuera imposible conocer este dato con
+exactitud, se anotará una fecha aproximada. Si se trata de una respuesta
+abierta, se intentará ser lo más conciso y concreto posible.
+En el apartado 4 se dispone de un modelo general de Historia Laboral
+que también puede facilitar el seguimiento de los casos atípicos y ayudar
+al personal sanitario del servicio de prevención. Servirá, asimismo, para
+documentar la realización de la vigilancia de la salud.
+Es muy importante proporcionar la mayor información para que los
+datos recogidos puedan aportar conclusiones de las que se puedan ex-
+traer aplicaciones útiles en salud laboral.
+33
+
+35
+6.
+CONDUCTA A SEGUIR SEGÚN
+LAS ALTERACIONES QUE
+SE DETECTEN
+Si el paciente refiere o se detectan signos o síntomas de alarma de
+padecer neumonitis por hipersensibilidad o alveolitis alérgica extrínseca,
+se realizará un estudio exhaustivo del medio de trabajo para reducir al
+máximo los límites de exposición al agente sospechoso o confirmado por
+el estudio pertinente (3-8).
+— Medidas para reducir la concentración ambiental de contaminantes:
+— Actuar con una adecuada ventilación sobre el foco emisor y el en-
+torno laboral de riesgo.
+— Limpieza estricta y mantenimiento adecuado para evitar riesgos
+de escapes y accidentes.
+— Sustituir cuando sea posible los agentes de riesgo por otros que
+no lo sean o lo sean en menor grado.
+— Adecuar el agente de riesgo a condiciones en que su inhalación
+no sea posible.
+— Medidas de protección personal para reducir o, si es posible, evitar la
+exposición:
+— Realizar rotaciones periódicas de los puestos de trabajo donde la
+exposición es mayor.
+— Usar guantes y mascarillas apropiadas para cada agente según
+se indica en guías apropiadas.
+— Realizar los controles médicos periódicos dirigidos a detectar sen-
+sibilizaciones y/o afectación clínica.
+En caso de objetivarse patología respiratoria en el trabajador, se deri-
+vará para estudio completo y valoración por el especialista de Alergolo-
+gía, quien decidirá qué tipo de pruebas complementarias es preciso reali-
+zar, qué tratamiento es más adecuado. El tratamiento más eficaz es el
+
+preventivo, asegurando una buena ventilación y evitando la multiplicación
+de hongos y bacterias, ya que una vez establecida la enfermedad crónica
+con fibrosis, poco se puede hacer en el aspecto terapéutico.
+Se apartará al trabajador de la fuente de exposición si existe sensibili-
+zación al agente.
+El servicio de prevención deberá implantar medidas de información y
+formación de los trabajadores con el fin de minimizar el riesgo detectado.
+36
+
+37
+7.
+NORMATIVA APLICABLE
+1.
+Ley 31/1995, de 8 de noviembre (BOE 10-12-95), de Prevención
+de Riesgos Laborales.
+2.
+Real Decreto 39/1997, de 17 de enero (BOE 31-1-97), Regla-
+mento de los Servicios de Prevención. 
+3.
+Decreto 1995/1978 (BOE 25-8-78), por el que se aprueba el Cua-
+dro de Enfermedades Profesionales.
+4.
+Real Decreto 664/1997, de 12 de mayo, sobre la Protección de
+los Trabajadores contra los riesgos relacionados con la exposi-
+ción a agentes biológicos durante el trabajo.
+5.
+Real Decreto 486/1997, de 14 de abril, por el que se establecen
+las disposiciones mínimas de seguridad y salud en los lugares de
+trabajo.
+
+8.
+BIBLIOGRAFÍA
+1.
+Asma ocupacional. Tomo VI, serie monográfica. SEAIC. Fundación de la
+Sociedad Española de Alergología e Inmunología Clínica, 1995.
+2.
+Immunology and Allergy Clinics of North America. Occupational asthma
+and allergies. Hypersensitivity pneumonitis and occupational lung disease from
+inhaled
+3.
+Hinojosa, M. Neumonitis por hipersensibilidad (alveolitis alérgica extrín-
+seca). En: Tratado de alergología e inmunología clínica. Tomo IV. Alergología clí-
+nica (II). Luzán Eds., Madrid, 1986,15-36. 
+4.
+Fink JN: Hipersensitivity pneumonitis. Middleton E, Reed CE, Ellis EF, et
+al. (eds): Allergy Principles and Practice, de 3 St. Louis, CV Mosby, 1988, pp.
+1237-1252.
+5.
+Vauhanen M. et al. Sensitizacion to industrial enzymes in enzyme re-
+search and production. J Work Environ Health, 1997, 23 (5): 385-391.
+6.
+Pepys J: Hypersensitivity diseases of the lung due to fungi and organic
+dusts. Monogr Allergy 4: 69, 1967.
+7.
+Emanuel DA, Wenzel FJ, Bowerman CI, et al.: Farmer’s lung: Clinical,
+pathologic, and immunologic study of twenty four patients. Am J Med 37: 392,
+1964.
+8.
+Harrison. Principios de Medicina Interna. Vol. II. 14ª edición. Ed.
+McGraw-Hill-Interamericana de España, S.A.U. Madrid, 1998.
+9.
+Simpson C, Garabrand D, Torrey S et al. Hypersensitivity pneumonitis-
+like reaction and occupational asthma associated with 1-3-bis (isocyanatomethyl)
+cyclohexane pre-polymer. Am J of Industrial Med, 1996, 30: 48-55.
+10.
+Quirce S. Diseño de estudios epidemiológicos en poblaciones expues-
+tas a alergenos inhalados en el medio laboral. Reunión anual Alergoaragón. For-
+migal. Febrero 1998.
+11.
+Johsen CR et al. Allergy risk in an enzyme producing plant: a retros-
+pective follow-up study. Occup Environ Med. 1997, 54(9): 671-675.
+12.
+Allergy. Principles an Practice. III Edition, 1988. Jordan N Fink. Chapter
+52. Hypersensitivity pneumonitis, 1237-1252.
+13.
+Farreras-Rozman. Medicina Interna, Volumen I, XI edición. Enfermeda-
+des pulmonares secundarias a la exposición del asbesto, (770). endotoxin. Saun-
+ders, 1992 (819-829).
+14.
+INSHT. Límites de exposición profesional para Agentes Químicos en
+España, 1999.
+39
+
+ANEXO I:
+EXAMEN CLÍNICO
+Anamnesis
+Sí
+No
+— Tos
+— Disnea
+— Opresión torácica
+— Expectoración
+— Fiebre
+— Escalofríos
+— Artromialgias
+— Anorexia
+— Pérdida de peso
+SI TIENE TOS, OPRESIÓN TORÁCICA Y/O SIBILANCIAS:
+Frecuencia de las crisis
+— Menos de una/mes
+— Una por mes
+— Una por semana
+— Una por día
+— Más de una por día
+Intensidad
+— Débil
+— Mediana
+— Fuerte
+Horario
+— Día y noche
+— Sólo por el día
+— Sólo por la noche
+— Al final de la noche
+— Se encuentra peor el lunes
+— Se encuentra peor el viernes
+SI TIENE DISNEA:
+— De reposo
+— De esfuerzo
+de grandes esfuerzos
+de medianos esfuerzos
+de mínimos esfuerzos
+41
+
+Sí
+No
+ENTORNO LABORAL
+— ¿Existen otros trabajadores con el mismo problema en el mismo
+puesto de trabajo?
+¿Cuántos?
+— ¿Relaciona el cuadro con alguno de los productos que manipula?
+¿Con cuáles?
+— Existe tiempo de latencia del cuadro
+¿Cuánto?
+Episodios de mejoría
+Sí
+No
+Al finalizar la jornada laboral
+En fines de semana
+En vacaciones
+Se encuentra mejor
+el lunes
+el viernes
+Exploración física
+Inspección:
+Auscultación cardiopulmonar:
+Dcha.
+Izq.
+Bilat.
+No
+Roncus
+Campos superiores
+Campos inferiores
+Sibilancias
+Inspiratorias
+Espiratorias
+Crepitantes
+Campos superiores
+Campos inferiores
+Disminución del
+Campos superiores
+murmullo vesicular
+Campos inferiores
+42
+
+Piel y mucosas
+Sí
+No
+¿Se observan alteraciones?
+Describir:
+Exploración Funcional Respiratoria
+Teórico 
+Espirometría basal
+(litros)
+Hallado
+%
+CVF
+VEMS = FEV-1
+FEF 25/75
+FEF 25
+FEF 50
+PEF (Pico Flujo)
+Conclusión
+Sí
+No
+— ¿Impresiona de neumonitis por hipersensibilidad o alveolitis alér-
+gica extrínseca?
+¿Por qué agente/agentes?:
+Signos y síntomas
+Grado 0
+Ausencia de signos y síntomas
+Grado 1
+Infecciones respiratorias de vías bajas de carácter leve. CVF menor al
+80 % del valor de referencia. Leucocitosis con desviación a la izquierda
+Grado 2
+Infecciones respiratorias frecuentes o intensas con fiebre, tos seca, dis-
+nea y malestar general. CVF entre el 65 y el 50% del valor de referencia.
+Leucocitosis con desviación a la izquierda
+Grado 3
+Infecciones respiratorias frecuentes e intensas con fiebre, tos seca, dis-
+nea y malestar general persistente. CVF entre el 49 y el 35% del valor de
+referencia. Leucocitosis con desviación a la izquierda. Deterioro general
+Grado 4
+Infecciones respiratorias frecuentes e intensas con fiebre, tos seca, dis-
+nea severa y malestar general persistente. CVF menor del 35% del valor
+de referencia. Leucocitosis con desviación a la izquierda. Deterioro gene-
+ral, pérdida de peso, anorexia y mialgias. Fibrosis radiológica
+43

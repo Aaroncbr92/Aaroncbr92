@@ -1,0 +1,1382 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+MOVIMIENTOS REPETIDOS
+DE MIEMBRO SUPERIOR
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18, 28014 Madrid
+ISBN: 84-7670-552-2
+NIPO: 351-00-020-X
+Depósito Legal: AV-246-2000
+Imprime: MIJÁN, Industrias Gráficas Abulenses, S.L.
+
+CONSEJO 
+INTERTERRITORIAL
+SISTEMA NACIONAL DE SALUD
+El Consejo Interterritorial del Sistema Nacional de Salud
+informa favorablemente el «Protocolo de vigilancia sani-
+taria específica para los/as trabajadores/as expuestos a
+movimientos repetidos de miembro superior», en abril de
+2.000.
+
+
+5
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE
+SALUD PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA
+NACIONAL DE SALUD.
+COORDINACIÓN DEL PROTOCOLO
+DEPARTAMENTO DE SALUD DEL GOBIERNO DE NAVARRA.
+INSTITUTO NAVARRO DE SALUD LABORAL.
+AUTORES
+Sagrario Cilveti Gubía. Instituto Navarro de Salud Laboral. Navarra.
+Víctor Idoate García. Servicio Navarro de Salud. Navarra.
+ASESORAMIENTO TÉCNICO
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Nuestro agradecimiento a la colaboración prestada por el equipo NORSA-
+LUD en la elaboración de este protocolo.
+GRUPO DE TRABAJO DE SALUD LABORAL 
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid. 
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa Maria Campos Acedo. Consejería de Bienestar Social. Extremadura.
+Rosario Castañeda López. Consejería de Sanidad. Madrid.
+Carmen Celma Marín. Consejería de Sanidad. Valencia. 
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Labora-
+les. País Vasco.
+Isabel Enseñat Antolí. Consejería de Sanidad y Consumo. Islas Baleares.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social.
+Castilla y León.
+Fernando Galvañ Olivares. Consejería de Sanidad y Política Social. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+
+6
+Isabel González García. Consejería de Sanidad y Servicios Sociales.Galicia.
+Asunción Guzmán Fernández. Consejería de Servicios Sociales. Asturias.
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y
+Trabajo. Aragón.
+Francisco Javier Sevilla Lámana. Consejería de Salud, Consumo y Bienes-
+tar Social. La Rioja.
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad
+Social. Cataluña.
+
+7
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanitaria
+Específica», editados por el Ministerio de Sanidad y Consumo y fruto del tra-
+bajo desarrollado por las Administraciones Sanitarias a través del Grupo de
+Trabajo de Salud Laboral de la Comisión de Salud Pública del Consejo
+Interterritorial del Sistema Nacional de Salud, como contribución a las acti-
+vidades de prevención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos laborales
+(Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone, entre
+otras cuestiones, que debe cambiar radicalmente la práctica de los recono-
+cimientos médicos que se realizan a las y los trabajadores. De ser exáme-
+nes médicos inespecíficos, cercanos a los clásicos chequeos o cribados de
+carácter preventivo general, deben pasar a ser periódicos, específicos fren-
+te a los riesgos derivados del trabajo, con el consentimiento informado del
+trabajador, y no deben ser utilizados con fines discriminatorios ni en perjui-
+cio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea eficaz
+para la prevención.
+El poder contar con criterios uniformes basados en la evidencia científi-
+ca y la experiencia profesional de los participantes en los grupos de trabajo
+constituidos para su elaboración, permitirá alcanzar los objetivos de pre-
+vención de la enfermedad y promoción de la salud de las y los trabajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar la
+salud de los trabajadores para detectar precozmente e individualizar los fac-
+tores de riesgo y deterioro que puedan afectar a la salud de los mismos», la
+recogida armonizada y periódica de datos sobre riesgos y enfermedades y
+
+8
+su posterior análisis e interpretación sistemáticos con criterios epidemioló-
+gicos, constituye uno de los instrumentos con que cuenta la salud pública
+para poder identificar, cuantificar y priorizar, y por lo tanto, diseñar políticas
+de prevención eficaces.
+Para la elaboración de los protocolos, se constituyeron varios grupos de
+trabajo, que, coordinados por los representantes de las Comunidades Autó-
+nomas, permitiese la elaboración en paralelo de varios de ellos. Finalmen-
+te, una vez concluido el procedimiento interno de elaboración de los mis-
+mos, han sido sometidos a consulta y adecuadamente informados por
+Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Sociedades
+Científicas (SEMST, SEEMT, AEETSL, SESPAS y SEE), con cuyos repre-
+sentantes se mantuvieron reuniones al efecto, en el Ministerio de Sanidad y
+Consumo, habiéndose incorporado a la redacción final los comentarios
+recibidos que se consideró mejoraban el texto presentado. 
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los sani-
+tarios, una guía de actuación para la vigilancia sanitaria específica de las y
+los trabajadores expuestos a Movimientos Repetidos de Miembro Superior,
+que será revisado periódicamente, en la medida que así lo aconseje la evo-
+lución de la evidencia científica disponible y su aplicación concreta en los
+centros de trabajo de nuestro país.
+María Dolores Flores Cerdán
+La Directora General de Salud Pública y Consumo
+
+9
+SUMARIO
+Pág.
+1.
+CRITERIOS DE APLICACIÓN........................................................
+11
+2.
+DEFINICIÓN DEL PROBLEMA ......................................................
+12
+2.1.
+DEFINICIONES Y CONCEPTOS .........................................
+12
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS.................................
+12
+2.3.
+MECANISMO DE ACCIÓN...................................................
+12
+2.4.
+EFECTOS SOBRE LA SALUD.............................................
+13
+3.
+EVALUACIÓN DEL RIESGO ..........................................................
+15
+4.
+PROTOCOLO MÉDICO ESPECÍFICO...........................................
+16
+4.1
+HISTORIA LABORAL ...........................................................
+16
+4.1.1.
+Exposiciones anteriores (anamnesis laboral)..........
+16
+4.1.2.
+Exposición actual al riesgo ......................................
+17
+4.2.
+HISTORIA CLÍNICA..............................................................
+180
+4.2.1.
+Anamnesis ...............................................................
+18
+4.2.2.
+Exploración clínica específica..................................
+180
+4.3.
+CONTROL BIOLÓGICO Y ESTUDIOS COMPLEMENTARIOS
+ESPECÍFICOS......................................................................
+21
+4.4.
+CRITERIOS DE VALORACIÓN............................................
+22
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO 
+MÉDICO ESPECÍFICO...................................................................
+23
+6.
+CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN.....................................................................................
+24
+7.
+LEGISLACIÓN APLICABLE............................................................
+24
+8.
+BIBLIOGRAFÍA ...............................................................................
+24
+
+10
+Pág.
+ANEXOS:
+1.
+EVALUACIÓN DEL RIESGO EN MOVIMIENTOS REPETIDOS....
+27
+2.
+HISTORIA CLINICO-LABORAL......................................................
+31
+3.
+EXAMEN DEL SISTEMA OSTEOMUSCULAR EN EXPUESTOS 
+A MOVIMIENTOS REPETIDOS .....................................................
+35
+4.
+GLOSARIO TERMINOLÓGICO Y DE EXPLORACIÓN DEL 
+SISTEMA OSTEOMUSCULAR.......................................................
+39
+
+11
+MOVIMIENTOS REPETIDOS DE 
+MIEMBRO SUPERIOR
+1. CRITERIOS DE APLICACIÓN
+Se propone como vigilancia médica en aquellos trabajadores con tareas
+repetidas que supongan sobrecarga muscular durante toda o parte de su
+jornada laboral de forma habitual.
+Sin pretender dejar de lado otras ocupaciones o tareas laborales, las
+ocupaciones que deberán tenerse en cuenta para la aplicación del protoco-
+lo de movimientos repetidos son:
+• Delineantes, dibujantes.
+• Mecanógrafos.
+• Tejedores.
+• Pintores.
+• Músicos.
+• Carniceros, pescateros.
+• Curtidores.
+• Trab. del caucho y vulcanizado.
+• Deportistas.
+• Peluqueros.
+• Mecánicos montadores.
+• Escayolistas.
+• Conserveras.
+• Cajeras de supermercado.
+• Trabajadores de la industria textil y confección.
+• Otros.
+
+12
+2. DEFINICIÓN DEL PROBLEMA
+2.1. Definiciones y conceptos:
+Se entiende por movimientos repetidos a un grupo de movimientos con-
+tinuos, mantenidos durante un trabajo que implica al mismo conjunto oste-
+omuscular provocando en el mismo fatiga muscular, sobrecarga, dolor y por
+último lesión.
+Los investigadores dan definiciones diversas sobre el concepto de repe-
+titividad. Una de las más aceptadas es la de Silverstein, que indica que el
+trabajo se considera repetido cuando la duración del ciclo de trabajo funda-
+mental es menor de 30 segundos (Silverstein et al, 1986).
+El trabajo repetido de miembro superior se define como la realización
+continuada de ciclos de trabajo similares; cada ciclo de trabajo se parece al
+siguiente en la secuencia temporal, en el patrón de fuerzas y en las carac-
+terísticas espaciales del movimiento.
+Este protocolo trata de vigilar el riesgo de lesión musculoesquelética
+como consecuencia de tareas repetidas, en la zona de cuello-hombro y en
+la zona de la mano-muñeca fundamentalmente.
+2.2. Fuentes de exposición y usos
+Las tareas de trabajo con movimientos repetidos son comunes en traba-
+jos en cadenas y talleres de reparación así como en casi todas las indus-
+trias, y centros de trabajo modernos pudiendo dar lugar a lesiones muscu-
+loesqueléticas. Estando reconocida como causa importante de enfermedad
+y lesiones de origen laboral.
+2.3. Mecanismo de acción
+La carga de trabajo tanto estática como dinámica, junto con factores psí-
+quicos y orgánicos del propio trabajador además de un entorno desagrada-
+ble y no gratificante se suman en la formación de la fatiga muscular. Con-
+forme la fatiga se hace más crónica aparecen las contracturas, el dolor y la
+lesión. Formándose un círculo vicioso de dolor.
+Los trabajos de investigación enfocados en el estudio de lesiones por
+movimientos repetidos han puesto de manifiesto la existencia de factores
+que intervienen en la aparición de las lesiones musculoesqueléticas:
+
+13
+• Efecto biomecánico: 
+– Movimientos de pronosupinación en antebrazo y/o muñeca, espe-
+cialmente si son realizados contra resistencia. 
+– Repetidas extensiones y flexiones de muñeca.
+– Desviaciones radiales o cubitales repetidas.
+– Existencia de movimientos repetidos contra resistencia.
+• Factores predisponentes: 
+– Mujeres en época menstrual y embarazo.
+– Anomalías anatómicas: semilunar más grande, etc...
+– Anomalías en la calidad del líquido sinovial.
+• Factores desencadenantes:
+– Organizacionales:
+- poca autonomía
+- supervisión
+- carga de trabajo
+- manipulación manual de cargas
+- ciclo de la tarea
+– Traumatológicos.
+En las lesiones asociadas a los trabajos repetidos además de la repetiti-
+vidad, existe un conjunto de factores que interactúan con la repetitividad y
+con la duración de los ciclos de trabajo, aumentando el riesgo de lesión y
+de fatiga. Por ejemplo, la fuerza y la repetitividad interactúan de tal manera,
+que las fuerzas elevadas y la repetitividad alta aumentan el riesgo de mane-
+ra multiplicativa.
+Tanto los datos epidemiológicos como los experimentales indican que las
+posturas extremas aumentan el riesgo de lesiones. Igualmente las veloci-
+dades altas de los movimientos y la duración de la exposición, en minutos
+por día, y en el número de años, influye en el riesgo de lesiones en los tra-
+bajos repetidos.
+2.4. Efectos sobre la salud
+Las lesiones asociadas a los trabajos repetidos se dan comúnmente en
+los tendones, los músculos y los nervios del hombro, antebrazo, muñeca y
+mano. Los diagnósticos son muy diversos: tendinitis, peritendinitis, tenosi-
+novitis, mialgias y atrapamientos de nervios distales.
+
+14
+Traumatismos acumulativos específicos en mano y muñeca 
+1. Tendinitis: es una inflamación de un tendón debida, entre otras causas a
+flexoextensiones repetidas; el tendón está repetidamente en tensión,
+doblado, en contacto con una superficie dura o sometido a vibraciones.
+Como consecuencia de estas acciones se desencadenan los fenómenos
+inflamatorios en el tendón, que se engruesa y se hace irregular.
+2. Tenosinovitis: Cuando se producen flexoextensiones repetidas, el líquido
+sinovial que segrega la vaina del tendón se hace insuficiente y esto produ-
+ce una fricción del tendón dentro de su funda, apareciendo como primeros
+síntomas calor y dolor, que son indicios de inflamación. Así el desliza-
+miento es cada vez más forzado y la repetición de estos movimientos
+puede desencadenar la inflamación de otros tejidos fibrosos que se dete-
+rioran, cronificándose la situación e impidiendo finalmente el movimiento.
+Un caso especial es el síndrome De Quervain, que aparece en los ten-
+dones abductor largo y extensor corto del pulgar al combinar agarres
+fuertes con giros o desviaciones cubitales y radiales repetidas de la
+mano.
+Otra variedad de tenosinovitis es el dedo en resorte o tenosinovitis este-
+nosante digital, bloqueo de la extensión de un dedo de la mano por un
+obstáculo generalmente en la cara palmar de la articulación metacarpo-
+falángica y que afecta a los tendones flexores cuando pasan por una
+polea fibrosa a este nivel. En estos casos, la inflamación y engrosa-
+miento del tendón o de su vaina, así como la presencia de adherencias
+por la sinovitis producida, provoca un conflicto de espacio en el normal
+deslizamiento del tendón y la vaina por esa polea.
+3. Síndrome del túnel carpiano: se origina por la compresión del nervio
+mediano en el túnel carpiano de la muñeca, por el que pasan el nervio
+mediano, los tendones flexores de los dedos y los vasos sanguíneos. Si
+se hincha la vaina del tendón se reduce la abertura del túnel presionan-
+do el nervio mediano. Los síntomas son dolor, entumecimiento, hormi-
+gueo y adormecimiento de parte de la mano: de la cara palmar del pul-
+gar, índice, medio y anular; y en la cara dorsal, el lado cubital del pulgar
+y los dos tercios distales del índice, medio y anular.
+Se produce como consecuencia de las tareas desempeñadas en el pues-
+to de trabajo que implican esfuerzos o movimientos repetidos, apoyos
+prolongados o mantenidos y posturas forzadas mantenidas.
+
+15
+4. Síndrome del canal de Guyon: se produce al comprimirse el nervio cubi-
+tal cuando pasa a través del túnel Guyon en la muñeca. Puede originar-
+se por flexión y extensión prolongada de la muñeca, y por presión repe-
+tida en la base de la palma de la mano.
+Traumatismos acumulativos específicos en brazo y codo
+1. Epicondilitis y epitrocleítis: en el codo predominan los tendones sin vaina.
+Con el desgaste o uso excesivo, los tendones se irritan produciendo
+dolor a lo largo del brazo o en los puntos donde se originan en el codo
+por incremento de la tensión. Las actividades que pueden desencadenar
+este síndrome son movimientos de impacto o sacudidas, supinación o
+pronación repetida del brazo, y movimientos de flexoextensión forzados
+de la muñeca.
+2. Síndrome del pronador redondo: aparece cuando se comprime el nervio
+mediano en su paso a través de los dos vientres musculares del prona-
+dor redondo del brazo.
+3. Síndrome del túnel radial: aparece al atraparse periféricamente el ner-
+vio radial, originado por movimientos rotatorios repetidos del brazo, fle-
+xión repetida de la muñeca con pronación o extensión de la muñeca
+con supinación.
+4. Tenosinovitis del extensor largo 1º dedo: originado por movimientos rota-
+torios repetidos del brazo.
+Traumatismos acumulativos específicos en hombros
+1. Tendinitis del manguito de rotadores: los trastornos aparecen en trabajos
+donde los codos deben estar en posición elevada, o en actividades
+donde se tensan los tendones o la bolsa subacromial; se asocia con
+acciones de levantar y alcanzar, y con un uso continuado del brazo en
+abducción o flexión.
+3. EVALUACIÓN DEL RIESGO
+Esta parte tiene como finalidad analizar el puesto de trabajo y evaluar el
+posible riesgo derivado de la realización de los movimientos repetidos
+(ANEXO I). En la bibliografía existen varios métodos de valoración y eva-
+luación de los movimientos repetidos. Unos son checklist (Michigan, Key-
+serling) y otros son métodos de evaluación real de la carga física debida a
+
+16
+la actividad (ANSI, IBV, RULA), etc. Estudiados todos ellos se propone
+como ejemplo un modelo de evaluación de riesgo simplificado que consta
+de las siguientes partes:
+• Estudio de las condiciones de trabajo:
+* Factores ergonómicos: 
+- Carga postural.
+- Carga física dinámica.
+* Factores psicosociales:
+- Repetitividad, monotonía. 
+• Evaluación global del riesgo: establece un diagnóstico final, indicando
+el nivel alcanzado en cada una de las situaciones consideradas en el
+puesto de trabajo. Este nivel oscila entre nivel I (situación satisfactoria)
+hasta nivel III (situación penosa).
+• Cronograma de actuación: se establece la periodicidad de los recono-
+cimientos médicos en función del nivel de riesgo al que está expuesto/a
+el trabajador/a.
+4. PROTOCOLO MÉDICO ESPECÍFICO
+Este protocolo está dirigido a todo trabajador/a que está expuesto/a a
+movimientos repetidos en su puesto de trabajo.
+El objetivo es establecer las características específicas que debe reunir
+el examen de salud en este colectivo laboral.
+La vigilancia de trabajadores/as expuestos/as a movimientos repetidos
+de miembro superior comprende dos fases interdependientes:
+• El análisis de las condiciones de trabajo, que nos permite evaluar el
+riesgo del puesto de trabajo y la región anatómica que puede resultar
+afectada, y
+• La vigilancia sanitaria específica de los trabajadores.
+4.1. Historia laboral
+4.1.1. Exposiciones anteriores (anamnesis laboral). (ANEXO II)
+Consta de los siguientes apartados:
+• Datos de filiación del trabajador:
+– Nombre.
+– Apellidos.
+
+17
+– Sexo.
+– Fecha de nacimiento.
+– D.N.I.
+– Nº de la S.S.
+– Dirección.
+• Datos del reconocimiento:
+– Nombre del médico del trabajo.
+– Fecha.
+– Servicio de prevención que realiza el reconocimiento.
+– Tipo (propio, ajeno, trabajador designado).
+• Exposiciones anteriores:
+– Empresa.
+– Actividad (CNAE).
+– Ocupación (CNO).
+– Tiempo.
+– Descripción del puesto de trabajo.
+4.1.2. Exposición actual al riesgo.
+• Datos de filiación de la empresa:
+– Nombre de la empresa.
+– Actividad de la empresa (CNAE).
+– Ocupación (CNO).
+– Domicilio Social - Localidad - Centro de trabajo.
+– Tamaño de la plantilla.
+• Datos relativos al puesto de trabajo:
+– Antigüedad.
+– Descripción del puesto de trabajo.
+– Tipo de trabajo: tiempo y tipo de tarea.
+– Herramientas y mandos que se utilizan a diario.
+– Turnos de trabajo.
+– Pausas en el trabajo.
+– Riesgos detectados en el análisis de las condiciones de trabajo.
+– Medidas de prevención adoptadas.
+
+18
+4. 2. Historia clínica.
+4.2.1. Anamnesis.
+En la evaluación inicial después de la incorporación al trabajo, se reco-
+gerán los siguientes datos:
+• Historia laboral. Exposiciones anteriores.
+• Antecedentes personales: en este apartado debemos insistir en la bús-
+queda de antecedentes del sistema osteomuscular y la presencia de
+posibles predisposiciones individuales.
+• Antecedentes familiares.
+• Hábitos personales (alcohol, tabaco, medicamentos, especificando
+cantidades).
+• Anamnesis dirigida por aparatos.
+• Exploración clínica.
+• Analítica sistemática de sangre y orina.
+• Electrocardiograma a mayores de 40 años.
+El examen específico periódico, se realizará con una periodicidad ajus-
+tada al nivel de riesgo al que está sometido el trabajador, tal como se espe-
+cifica en el anexo I en el cronograma de actuación y comprenderá los epí-
+grafes que se especifican en el apartado siguiente.
+4.2.2. Exploración clínica específica.
+Se realizará la anamnesis y exploración de las regiones anatómicas impli-
+cadas en las tareas repetidas: hombros, codos, muñecas, manos y dedos
+(ANEXO III). El protocolo se ha diseñado pensando en una fácil exploración,
+que deberá ser anotada en la casilla o campo correspondiente.
+Estudiando la actividad específica podemos determinar cuales son las
+articulaciones o complejos musculotendinosos que van a realizar ese
+esfuerzo. De forma orientativa, y teniendo en cuenta que no se trata de un
+listado cerrado, se especifica la región anatómica de miembro superior a
+explorar en las distintas profesiones:
+
+19
+Hombro y cintura escapular
+– Usuarios de Pantallas de Visualización de Datos (PVD).
+– Pintores.
+– Servicio de limpieza.
+– Conductores de vehículos.
+– Trabajadores de la construcción y servicios.
+– Peonaje.
+– Personal que realiza movimientos repetidos.
+– Personal manipulador de pesos.
+– Fontanería y calefacción.
+– Carpinteros.
+– Mecánicos.
+– Trabajadores que utilizan las manos por encima de la altura del hombro.
+– Archivos y almacenes.
+– Trabajadores de la industria textil y confección.
+Brazo y codo
+– Mecánicos.
+– Fontanería y calefacción.
+– Personal que realiza movimientos repetidos.
+– Carpinteros y ebanistas.
+– Chapistas.
+– Trabajadores de la construcción y servicios.
+– Peonaje.
+– Servicio de limpieza.
+– Personal manipulador de pesos.
+– Archivos y almacenes.
+– Conductores de vehículos.
+– Usuarios de Pantallas de Visualización de Datos (PVD).
+– Deportistas profesionales.
+– Montadores de piecerío.
+– Industria conservera.
+Antebrazo y muñeca
+– Mecánicos.
+– Fontanería y calefacción.
+– Personal que realiza movimientos repetidos.
+– Carpinteros y ebanistas.
+– Chapistas.
+– Peonaje.
+– Servicio de limpieza.
+
+20
+– Usuarios de Pantallas de Visualización de Datos (PVD).
+– Personal manipulador de pesos.
+– Montadores de piecerío.
+– Industria conservera.
+– Pintores.
+– Cadenas de montaje.
+Mano y dedos
+– Personal que realiza movimientos repetidos con las manos.
+– Chapistas.
+– Mecánicos.
+– Pintores.
+– Fontanería y calefacción.
+– Trabajadores de la construcción y servicios.
+– Peonaje.
+– Servicio de limpieza.
+– Personal manipulador de pesos en cadena.
+– Archivos y almacenes.
+– Conductores de vehículos.
+– Usuarios de Pantallas de Visualización de Datos (PVD).
+– Personal manipulador de pesos.
+– Deportistas profesionales.
+– Montadores de piecerío.
+– Industria conservera.
+– Personal de hostelería.
+– Cocina.
+Se incluye un glosario (ANEXO IV) en las que se describen algunas de
+las pruebas más frecuentes en la exploración del aparato locomotor, de
+gran interés para la correcta valoración de los síntomas.
+La detección precoz de los síntomas es fundamental para evitar que el
+problema rebase los límites de la acción funcional inadecuada que produce
+la fatiga del tejido concreto y como consecuencia la enfermedad o lesión.
+La exploración clínica aporta más del 75% de los signos para la obten-
+ción del diagnóstico. Esta exploración física debería ser específicamente
+dirigida por la anamnesis y no por exploraciones «universales». Los pilares
+que sustentan la exploración son:
+1. Inspección.
+2. Palpación.
+3. Percusión.
+
+21
+4. Movilidad activa y pasiva.
+5. Signos clínicos.
+6. Exploraciones complementarias.
+• Inspección: observar los contornos articulares y ver si son normales o
+existen deformidades. Anotar la presencia de atrofias, cicatrices y ampu-
+taciones. La existencia de tumefacción, desviaciones de los dedos, etc. 
+• Se buscarán por palpación y/o percusión, aquellos puntos anatómicos
+dolorosos.
+• Exploración de la movilidad activa y pasiva de:
+* Hombros:
+- abducción o separación, 
+- antepulsión o elevación, 
+- retropulsión o atrasar, 
+- adducción o aproximación, 
+- rotación interna y 
+- rotación externa.
+* Codos:
+- flexión,
+- extensión,
+- pronosupinación.
+* Muñecas:
+- flexión dorsal,
+- flexión palmar,
+- inclinación radial,
+- inclinación cubital y
+- pronosupinación.
+* Dedos:
+- flexión,
+- extensión.
+• La presencia de dolor y su irradiación. Especificar forma de comienzo:
+agudo o insidioso. Especificar curso del dolor: continuo, brotes o cíclico.
+• La existencia de signos clínicos.
+4.3. Control biológico y estudios complementarios específicos.
+No existen indicadores biológicos, por lo tanto no corresponde en este
+apartado hablar sobre control biológico.
+La realización de otras pruebas complementarias corresponde al nivel
+especializado de asistencia sanitaria.
+
+22
+4.4. Criterios de valoración.
+Para considerar la lesión que presenta el trabajador «de origen laboral»
+se deben cumplir una serie de criterios:
+• Existencia de movimientos repetidos en el puesto de trabajo.
+• Aparición de los síntomas después del comienzo del trabajo actual y
+persistencia de ellos.
+• Mejoría o desaparición de los síntomas con el descanso y reaparición
+o agravamiento tras reemprender el trabajo.
+• Correlación topográfica de las lesiones.
+• Ausencia de patología local no laboral.
+Se valorarán fundamentalmente los datos referidos al hombro, codo, muñe-
+cas y dedos. Haciendo hincapié en los apartados referidos al dolor y a la limi-
+tación de movilidad comparándola con valores de exámenes anteriores.
+Los criterios de valoración se definen como sigue:
+Apto.
+No apto.
+En observación.
+Apto: Cuando el trabajador no presenta una afección osteomuscular o
+en la anamnesis no revela una fatigabilidad anormal. El trabajador podrá
+desempeñar su tarea habitual sin ningún tipo de restricción.
+No apto: Calificación que recibe el trabajador cuando el desempeño de
+las tareas impliquen problemas serios de salud o ésta le imposibilite la rea-
+lización de las mismas.
+En observación: Calificación que recibe el trabajador que está siendo
+sometido a estudio y/o vigilancia médica a fin de determinar su grado de
+capacidad.
+
+23
+La valoración de los signos y síntomas se realiza en cinco grados en
+orden numérico:
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Dolor en reposo y/o existencia de sintomatología sugestiva.
+Grado 2
+Grado 1 más contractura y/o dolor a la movilización.
+Grado 3
+Grado 2 más dolor a la palpación y/o percusión.
+Grado 4
+Grado 3 más limitación funcional evidente clínicamente.
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO MÉDICO
+ESPECÍFICO.
+El protocolo de vigilancia de los trabajadores expuestos a movimientos
+repetidos comprende una evaluación del riesgo, estableciéndose tres nive-
+les de riesgo. Se debe indicar, en el recuadro correspondiente, el nivel
+alcanzado en cada una de las situaciones consideradas en el puesto de tra-
+bajo. Procediendo posteriormente, a la realización de la evaluación global
+del riesgo en el puesto de trabajo. Se establece un cronograma de actua-
+ción en relación a las características específicas de cada trabajador y al
+nivel de riesgo que se encuentra sometido, estableciéndose la periodicidad
+de los exámenes periódicos.
+En la elaboración de la historia clínico-laboral, en las preguntas de
+elección única si/no, se señalará con una cruz la que corresponda. En el
+caso de preguntas de elección múltiple habrá que marcar con una cruz
+la respuesta elegida. Cuando el dato requerido sea una fecha, se con-
+testará el día, mes y año. Si fuera imposible conocer este dato con exac-
+titud, se anotará una fecha aproximativa. Si se trata de una respuesta
+abierta es muy importante proporcionar la información de forma clara y
+precisa.
+Se cumplimentará la hoja de recogida de datos del examen del sistema
+osteomuscular, recogiendo información sobre las diferentes áreas que se
+exploran para la obtención del diagnóstico y valorar la aptitud para su tra-
+bajo habitual.
+Lo ideal sería que todos los items o apartados fueran rellenados, evitan-
+do, si fuera posible, que alguno quedase en blanco.
+
+24
+6. CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN.
+En primer lugar deberá tenerse en cuenta la actuación sobre el medio
+para eliminar o reducir el riesgo. Se deberán corregir posturas y movimien-
+tos anómalos o forzados, los apoyos prolongados, los movimientos y esfuer-
+zos repetidos. En definitiva, se mejorarán las condiciones de trabajo.
+Se adoptarán medidas organizativas: rotaciones o pausas más frecuen-
+tes en el puesto de trabajo, de forma provisional o definitivamente, para evi-
+tar lesiones. Formación de los trabajadores e información sobre los riesgos
+laborales y las medidas de prevención. Control de la eficacia de la informa-
+ción y formación a los trabajadores.
+Control periódico de las condiciones, la organización y los métodos de
+trabajo y el estado de salud de los trabajadores.
+Siempre que se detecte el menor indicio de desviación de los valores
+considerados normales o la presencia de síntomas achacables a una enfer-
+medad, el trabajador deberá ser remitido al especialista médico quien dic-
+taminará y cuantificará el alcance de las lesiones realizando las pruebas
+complementarias oportunas.
+7. LEGISLACIÓN APLICABLE.
+1.
+Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+2.
+R.D. 39/1997, de 17 de enero, por el que se aprueba el Reglamento de
+los Servicios de Prevención.
+3.
+R.D. 487/1997, de 14 de abril, sobre disposiciones mínimas de Seguri-
+dad y Salud relativas a la manipulación manual de cargas que entrañe
+riesgos, en particular dorsolumbares, para los trabajadores.
+8. BIBLIOGRAFÍA.
+1.
+MARQUÉS F. «Salud y Medicina del Trabajo». Instituto Nacional de
+Seguridad e Higiene en el Trabajo. 1991.
+2.
+Asociación Científica Carpe-Diem. «Bases para una normalización de la
+historia clínica laboral». Colección Documentos Ciemat. Junio 1993.
+3.
+Fundación Europea para la mejora de las condiciones de vida y de tra-
+bajo. «Prevención de lesiones por esfuerzo repetitivo». Prevención
+Express nº 234. Marzo 1995.
+
+25
+4.
+Prevention au Travail. «Reflexiones sobre la manutención manual de
+cargas». Prevención Express nº 241. Octubre 1995.
+5.
+Travail & Securité. «El peso máximo en manutención manual de car-
+gas». «Prevención de lesiones por esfuerzo repetitivo». Prevención
+Express nº 234. Marzo 1995.
+6.
+Alvarez J.M. «Movimiento manual de cargas. Comparación entre méto-
+dos de evaluación». Revista Mapfre Seguridad nº. 56 4º trimestre 1994.
+7.
+Chirivella C., García C., Page del Pozo A.. «Evaluación de riesgos labo-
+rales asociados a la carga física». Revista Prevención nº. 141 julio-sep-
+tiembre 1997.
+8.
+CEN. «Manual handling associated to machinery-lifting and carrying of
+loads». Comité Europeen de Normalisation. 1990.
+9.
+Guarner A. «Dificultades diagnósticas de los procesos del aparato loco-
+motor en medicina del trabajo». Revista Medicina de Empresa nº 52.
+Septiembre 1979.
+10. CSST. «Organización de las posturas en el trabajo». Prevención
+Express nº 264 septiembre 1997.
+11. GALVEZ J.M. «Patología del hombro y entesopatías». Fundación Map-
+fre. 1988.
+12. GUILLEN P. «Lesiones de codo, antebrazo, muñeca y mano». Funda-
+ción Mapfre. 1987.
+13. LARS PETERSON. «Lesiones Deportivas. Prevención y tratamiento».
+Editorial Jims. 1988.
+14. BUCHOLZ & COL. «Toma de decisiones en traumatología ortopédica».
+B.C. Decker. 1987.
+15. SILVERSTEIN, B.; FINE, L.; ARMSTRONG, T.; JOSEPH, B.; BUCH-
+HOLZ, B. and TOBERTSON, M. «Cumulative trauma disorders of the
+hand and wrist in industry. The ergonomics of working postures. Models,
+methods and cases». Corlett N., Wilson J., and Manenica I. (eds.). Tay-
+lor & Francis, London, 1986.
+16. GARCÍA, C.; CHIRIVELLA, C.; PAGE DEL POZO, A.; MORAGA, R.;
+JORQUERA, J. «Evaluación de riesgos laborales asociados a la carga
+física». Instituto de Biomecánica de Valencia. 1997.
+17. MENDILUCE, J.; REDONDO, A. «Protocolo de vigilancia médica espe-
+cífica de los trabajadores. Traumatología. Equipo de desarrollo NOR-
+SALUD. 1997.
+
+
+27
+ANEXO I
+EVALUACIÓN DEL RIESGO EN MOVIMIENTOS REPETIDOS
+A- FACTORES ERGONÓMICOS.
+1. Carga postural
+La postura de trabajo hace referencia a la posición los brazos respecto
+al hombro, codos y muñecas durante el trabajo. 
+Valorar las posturas y los movimientos de trabajo para hombros y codo-
+muñeca por separado. 
+El análisis se efectúa sobre la postura más difícil.
+1.1.- Hombro
+PUNTUACIÓN
+1
+El trabajo se realiza con los dos brazos por debajo del nivel del
+hombro.
+2
+El trabajo se realiza con un brazo por encima del nivel del hombro
+y con el otro brazo por debajo del nivel del hombro.
+3
+El trabajo se realiza con los dos brazos por encima del nivel del
+hombro.
+Llevar a perfil la puntuación obtenida
+
+28
+1.2.- Codo-muñeca
+PUNTUACIÓN
+1
+Trabajos en los que existe flexión-extensión de codos-muñecas
+sin resistencia. Trabajos en los que existan movimientos de pro-
+nosupinación con ciclos largos (> 2 minutos). Trabajos en los que
+se manejan cargas < 1 Kg.
+2
+Trabajos en los que existe flexión-extensión de codos-muñecas
+entre 45-90o contra resistencia. Trabajos en los que existan movi-
+mientos de pronosupinación con ciclos moderados (entre 30
+seg.- 1 ó 2 minutos). Trabajos en los que se manejan cargas
+comprendidas entre 1 Kg. y 3 Kgs.
+3
+Trabajos en los que existe una flexión forzada por encima de 90o
+y/o extensión por debajo de 45o. Trabajos en los que existan
+movimientos de pronosupinación con ciclos cortos (hasta 30
+seg.). Trabajos en los que se manejan cargas > 3 Kgs.
+2. Carga física dinámica
+PUNTUACIÓN
+1
+Trabajo manual ligero (escribir, dibujar, PVD, contabilidad); ins-
+pección, montaje, clasificación de piezas pequeñas, conducción
+de vehículos ligeros.
+2
+Trabajo continuado de manos, brazos y tronco, manejo de mate-
+riales pesados, trabajo pesado con herramientas manuales,
+serrar, limar, cincelar, segar a mano.
+3
+Trabajo continuado de manos y brazos. Manejo de materiales
+pesados con desplazamientos.
+Llevar a perfil la puntuación obtenida
+Llevar a perfil la puntuación obtenida
+
+29
+B. FACTORES PSICOSOCIOLÓGICOS
+3. Repetitividad, monotonía
+PUNTUACIÓN:
+Número de operaciones diferentes por ciclo
+Hasta 2
+De 3 a 10
+Superior a 10
+Inferior a 
+Duración
+3 min.
+3
+3
+3
+media
+De 3 a
+del ciclo
+10 min.
+3
+3
+2
+de trabajo
+De 10 a
+30 min.
+2
+2
+1
+Superior a 
+30 min.
+1
+1
+1
+Llevar a perfil la puntuación obtenida
+EVALUACIÓN GLOBAL DEL RIESGO
+Rellenar la siguiente gráfica trasladando las puntuaciones obtenidas y tra-
+zando una linea de unión entre ellas, obteniendo así un perfil del puesto.
+FACTOR
+NIVEL DE RIESGO
+FECHA
+1
+2
+3
+CORRECCIÓN
+A. FACTORES ERGONÓMICOS
+1.- Carga postural
+- Hombro
+•
+•
+•
+- Codo-muñeca
+•
+•
+•
+2.- Carga física dinámica
+•
+•
+•
+B. FACTORES PSISOCIOLÓGICOS
+3.- Repetitividad, monotonía
+•
+•
+•
+EVALUACIÓN GLOBAL DEL RIESGO
+Investigado por:.....................................................................................................................................................
+
+30
+Con la gráfica obtenida tendremos una impresión general que se interpre-
+tará atendiendo a los siguientes criterios.
+NIVEL DE RIESGO
+SIGNIFICADO
+I
+Situación correcta. Sin riesgo. Riesgo trivial. 
+Factor satisfactorio.
+II
+Situación aceptable. Riesgo aceptable o 
+moderado. Factor a mejorar si fuera posible 
+(diferido en el tiempo).
+III
+Situación insatisfactoria. Riesgo inaceptable 
+que precisa corrección inmediata.
+EVALUACIÓN GLOBAL DEL RIESGO:
+– Siempre que exista un 3: NIVEL III.
+– Si hay más doses que unos o en caso de empate: NIVEL II.
+– Si hay mayoría de puntos uno: NIVEL I.
+
+31
+* Riesgo no tolerable: se deberán adoptar prioritariamente medidas para la eliminación o
+reducción del riesgo al nivel más bajo que sea razonablemente posible.
+CRONOGRAMA DE ACTUACIÓN EN TRABAJADORES/AS 
+EXPUESTOS/AS A  MOVIMIENTOS REPETIDOS
+EVALUACIÓN DE 
+RIESGOS
+EXÁMEN ESPECÍFICO 
+PERIÓDICO VALORACIÓN 
+SISTEMA OSTEOMUSCULAR
+ANEXO III
+NIVEL DE 
+RIESGO I
+NIVEL DE
+RIESGO II
+NIVEL DE 
+RIESGO III*
+2 AÑOS
+1 AÑO
+MEDIDAS 
+CORRECTORAS
+
+
+33
+ANEXO II
+HISTORIA CLÍNICO-LABORAL
+HISTORIA LABORAL
+1. Datos de filiación del trabajador/a
+Apellidos y nombre ...........................................................................................................................................
+Sexo:           o V            o F
+Fecha de nacimiento:.......................................................................................................................................
+Nº de la SS: ............................................................... D.N.I. ..............................................................................
+Dirección:....................................................................................................................................................................
+Historia Nº:............................................ Fecha de realización: ............................................................
+2. Datos del reconocimiento
+Nombre y apellidos del médico del trabajo...................................................................................
+Nº de colegiado: ...................................................................................................................................................
+Fecha de realización:.......................................................................................................................................
+Servicio de prevención que realiza el reconocimiento: ......................................................
+Tipo (propio, ajeno, trabajador designado):..................................................................................
+3. Exposición actual al riesgo
+Datos de filiación de la empresa:
+Empresa: ...................................................... CNAE:.................................... CNO:.......................................
+Domicilio Social: .......................................................... Localidad:.............................................................
+Centro de trabajo: ...............................................................................................................................................
+Tamaño de plantilla: ..........................................................................................................................................
+
+34
+Datos relativos al puesto de trabajo:
+Antigüedad en el puesto de trabajo:...................................................................................................
+Descripción del puesto de trabajo:.......................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+Tipo de trabajo:
+*
+Tiempo de tarea:
+Nº de horas/día en el trabajo: ...........................................................................................................
+o Esporádico.
+o Continuo: >2h y < 4 h.
+o Continuo: > 4 h.
+Nº de horas/semana en el trabajo:
+*
+Ciclo de Trabajo:
+o Largo: > 2 minutos.
+o Moderado: 30 segundos - 1 a 2 minutos.
+o Corto: hasta 30 segundos.
+*
+Manipulación de cargas:
+o < de 1 Kg.
+o Entre 1 Kg. y 3 Kgs.
+o > de 3 Kgs.
+*
+Tipo de tarea:
+o Movimientos de hombro y cintura escapular.
+o Movimientos de pronosupinación en codo y/o muñeca.
+o Repetidas extensiones y flexiones de muñeca.
+o Trabajos contra resistencia.
+o Otros. Especificar:
+Herramientas y mandos que utiliza a diario (describir)......................................................
+.............................................................................................................................................................................................
+
+35
+Turnos de trabajo (especificar):
+Pausas en el trabajo:
+Pausas
+Horas
+1ª
+2ª
+3ª
+4ª
+5ª
+6ª
+7ª
+8ª
+Observaciones:......................................................................................................................................................
+Nº de trabajadores expuestos a movimientos repetidos: .................................................
+¿Han sido evaluados anteriormente los riesgos de su puesto de trabajo?
+o Si    o No
+En caso afirmativo indicar la fecha aproximada de la última evaluación: ..................
+Anotar en caso de conocerlos, qué riesgos para la salud fueron detectados:
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+4. Exposiciones anteriores
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+
+36
+HISTORIA CLÍNICA
+5. Anamnesis
+*
+¿Ha padecido alguna enfermedad? (recoger las citadas en el epígrafe 2.4).
+*
+Especificar trastornos congénitos o adquiridos que repercutan en en
+movimientos repetidos.
+*
+¿Ha padecido fracturas o traumatismos graves?
+*
+De las enfermedades citadas anteriormente ¿Se consideró como enfer-
+medad profesional o accidente de trabajo?. En caso afirmativo especifi-
+car cuales. 
+*
+¿Cursó con baja?     o Si      o No
+*
+¿Presentan lesiones similares otros compañeros de trabajo?
+o Si       o No
+*
+¿Ha padecido alguna de estas enfermedades?
+o Diabetes Mellitus.
+o Hiperuricemia mantenida o gota.
+o Colagenosis.
+o Hipotiroidismo.
+o Osteoporosis.
+o Osteomalacia.
+o Reumatismo.
+*
+¿Practica algún deporte con regularidad?
+*
+¿Realiza tareas domésticas?
+*
+¿Se dedica a alguna actividad extralaboral en la que realice movimientos
+repetidos de miembro superior?
+*
+Mencione sus aficiones:
+
+37
+ANEXO III
+EXAMEN DEL SISTEMA OSTEOMUSCULAR EN EXPUESTOS 
+A MOVIMIENTOS REPETIDOS
+COLUMNA VERTEBRAL DESVIACIÓN DEL EJE ANTERO-POSTERIOR
+Curvas fisiológicas ant-post
+Normal
+Aumentada
+Disminuida
+Cervical
+Dorsal
+Lumbar
+MOVILIDAD - DOLOR
+Flexión Extens.
+Lateralización Lateralización Rotación Rotación
+Dolor 
+Irradia-
+izquierda
+derecha
+derecha izquierda
+0/4
+ción
+Cervical
+Dorsal
+Lumbar
+PALPACIÓN
+Apófisis espinosas dolorosas
+Contractura muscular
+Columna cervical
+Columna dorsal
+Columna lumbar
+DESVIACIONES DEL EJE LATERAL
+Eje lateral
+Normal
+Concavidad derecha
+Concavidad izquierda
+Dorsal
+Lumbar
+
+38
+EXPLORACIÓN NEUROLÓGICA
+EXPLORACIÓN NEUROLÓGICA
++/-
+Lasègue
+Dcha.
+Izda.
+Schober
+Dcha.
+Izda.
+Bragard
+Dcha.
+Izda.
+Valsalva
+ARTICULACIONES: MOVILIDAD - DOLOR
+Articulación
+Abducción Adducción Flexión
+Extensión
+Rot.
+Rot.
+Dolor 
+Irradiación
+Alt. masa 
+externa
+interna
+0/4
+muscular
+Hombro
+Dch.
+Izq.
+Codo
+Dch.
+Izq.
+Muñeca
+Dch.
+Izq.
+Mano y
+Dch.
+dedos
+Izq.
+Cadera
+Dch.
+Izq.
+Rodilla
+Dch.
+Izq.
+Tobillo
+Dch.
+Izq.
+
+39
+VALORACIÓN:
+Apto  o
+No apto  o
+En observación  o
+Descripción:..............................................................................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+EXPLORACIÓN NEUROLÓGICA
+EXPLORACIÓN NEUROLÓGICA
++/-
+Test de Phalen
+Dcha.
+Izda.
+Test de Tinel
+Dcha.
+Izda.
+Signo de Finkelstein
+Dcha.
+Izda.
+Varo
+Valgo
+Codo
+Dcho.
+Izda.
+Genu
+Dcha.
+Izda.
+Cavo
+Plano
+Pie
+Dcho.
+Izda.
+SIGNOS Y SÍNTOMAS
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Dolor en reposo y/o existencia de sintomatología sugestiva.
+Grado 2
+Grado 1 más contractura y/o dolor a la movilización.
+Grado 3
+Grado 2 más dolor a la palpación y/o percusión
+Grado 4
+Grado 3 más limitación funcional evidente clínicamente.
+
+40
+DOLOR:
+Forma de comienzo:
+o Agudo
+o Insidioso
+Curso:
+o Contínuo
+o Brotes
+o Cíclico
+Observaciones:
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+Fecha de realización del protocolo:
+Fecha de la próxima revisión:
+Nombre, firma y nº de colegiado del facultativo.
+
+41
+ANEXO IV
+GLOSARIO TERMINOLÓGICO Y DE EXPLORACIÓN DEL SISTEMA
+OSTEOMUSCULAR
+COLUMNA VERTEBRAL
+Columna lumbar:
+Signo de 
+Aumento de la presión intrabdominal. Introducir aire en ins
+Valsalva:
+piración forzada y hacer fuerzas para defecar.
+Positividad de la prueba: dolor en el nivel metamérico sos-
+pechoso de patología discal.
+SIGNOS DE ESTIRAMIENTO DE LAS RAÍCES LUMBARES:
+Signo de
+En decúbito supino: elevación alternativa de ambas extre-
+Lasègue:
+midades con la rodilla estirada, flexionando las caderas. Es 
+positivo, si el dolor referido lo hace desde la columna lum-
+bar hasta la pantorrilla, señalar los grados a los que se pro-
+duce el dolor al elevar el miembro, en general no es valora-
+ble si es positivo por encima de 60o.
+Si el dolor se refiere a la parte posterior de las rodillas, es 
+por retracción de los músculos isquiotibiales y es negativo. 
+Si por el contrario, el dolor se manifiesta a lo largo de todo 
+el trayecto del nervio ciático, es positivo.
+Existe el signo de Lasègue invertido que consiste en reali-
+zar la misma maniobra pero sentado elevando el miembro
+hacia arriba en extensión de rodillas y flexión de las caderas.
+Este signo es muy útil en la simulación. Igualmente otra 
+forma de explorar el Lasègue, es hacer estirar la rodilla al 
+paciente desde la posición de sentado, realizándose de esta 
+manera una maniobra de estiramiento del nervio ciático, 
+improvisada pero veraz, aunque no tenga la precisión del S. 
+de Lasègue tradicional.
+
+42
+Signo de 
+En la misma posición del signo de Lasègue, se flexiona el
+Bragard:
+tobillo dorsalmente forzándolo: si el dolor aumenta con la 
+maniobra y lo hace a menos grados que los producidos por 
+el signo de Lasègue , es positivo; sino lo hace es negativo .
+Signo de 
+Mide el grado de flexibilidad de la columna vertebral. Se 
+Schober:
+efectúa una marca sobre la piel en la zona correspondiente 
+a la apófisis espinosa de la vértebra S1, así como 10 cm. 
+más arriba. En flexión anterior, la distancia entre las dos 
+marcas cutáneas se amplía hasta 15 cm., mientras que en 
+flexión posterior (reclinación) se acorta hasta 8-9 cm.
+EXTREMIDADES SUPERIORES
+Hombros
+y cintura
+escapular:
+En la figura se ponen de manifiesto las distintas puntos del 
+complejo del hombro que deben ser tenidos en cuenta.
+Aunque aparentemente no sea así la patología de la articu-
+lación escapulo-humeral es importante. El hombro al ser 
+una articulación «colgante» debe soportar una gran tensión 
+de los elementos que lo mantienen y debemos ser cons-
+cientes que tanto la musculatura escapular, como la toraco-
+humeral soportan una tensión muy importante y es a ella a 
+la que tendremos que prestar una mayor atención, por ello 
+es necesario mentalizarse en el concepto funcional de la 
+cintura escapular.
+La patología tendinosa es una de las piezas más importan-
+tes en la patología del hombro. 
+La anatomía del hombro, como ya es conocido, dispone de 
+una estructura capsuloligamentosa llamada «manguito»
+que recoge los tendones de los músculos supraespinoso y 
+de los rotadores internos y externos del hombro. En ella 
+asienta una importante patología en relación fundamental-
+mente con los movimientos de abducción, antepulsión, así 
+como del impacto de la punta del acromion contra estas 
+estructuras tendinosas, en relación con las peculiaridades 
+
+43
+anatómicas de este hueso, que da lugar al llamado síndro-
+me de compresión subacromial.
+Por otra parte la parte anterior del hombro tiene otra estruc-
+tura de gran interés, que es la inserción en la cápsula arti-
+cular del tendón de la porción larga del bíceps. Éste adquie-
+re un gran protagonismo en aquellas profesiones que se ven 
+obligados a sostener con sus brazos grandes cargas y 
+pesos o deben realizar esfuerzos medianos pero repetidos.
+Finalmente las estructuras de sostén del hombro se ven fre-
+cuentemente afectadas en sus inserciones periescapulares 
+y del raquis, en aquellos profesionales que deben realizar 
+posturas forzadas de complejidad mecánica para estas arti-
+culaciones. 
+Codos:
+La inspección de los resaltes óseos y de las inserciones 
+músculo-tendinosas y su palpación es de gran interés para 
+la identificación de los signos clínicos .
+No se debe nunca olvidar que la pronosupinación es un 
+movimiento fundamentalmente del codo aunque diversos 
+autores lo identifican con la muñeca, ya que es allí donde se 
+ve y utiliza este movimiento. Sin embargo, la presencia de 
+dolor en la cabeza del radio a nivel del codo nos pone de 
+manifiesto los trastornos de este movimiento.
+Muñecas
+La exploración de las manos debe recoger todos los deta-
+y manos:
+lles con respecto a la localización del dolor.
+Son puntos de singular interés:
+Tabaquera
+Dolor característico de las lesiones del escafoides.
+anatómica:
+Sobre el hueso pisiforme, inserción del cubital anterior.
+Cara palmar del escafoides: asiento del tendón de los ra-
+diales flexores del carpo.
+Estiloides
+Signo de Finkelstein con el se puede detectar alteraciones 
+radial:
+de los tendones abductor del pulgar (Enf. De Quervain o 
+tenosinovitis estenosante) o de la propia estiloides radial 
+que juega un papel fundamental en los movimientos de incli-
+nación de la mano.
+Dorso de la muñeca: para identificar lesiones de los huesos 
+de la primera y segunda fila del carpo.
+Estiloides 
+Importante en los movimientos de lateralidad. Debe prestar-
+cubital:
+se importancia a su prominencia o resalte, tanto unilateral-
+mente como en la afecciones congénitas como la Enf. de 
+
+44
+Madelung (carpo triangular) o en los acortamientos tanto 
+congénitos como adquiridos del radio (frecuentes tras frac-
+turas de Colles) y de una gran importancia para las perso-
+nas que manejan pesos o realizan movimientos repetidos 
+con las muñecas.
+Articulación Frecuente asiento de artritis en personas que manejan 
+trapecio-
+menaje de cocina o deben realizar oposiciones del pulgar 
+metacarpia-
+forzadas como la de sostener pesos entre los dedos pulgar 
+nas:
+e índice o realizar movimientos repetidos de esa manera.
+Articulacio-
+Especialmente la del pulgar sobre la que debido a su gran 
+nes metacar- variedad de movimientos frecuentemente suelen aparecer 
+pofalángicas artritis traumáticas 
+de los 
+dedos:
+Inspección
+Los dedos son frecuentemente asiento de lesiones tanto 
+de los
+agudas (heridas, amputaciones) como degenerativas (artri-
+dedos:
+tis degenerativas, reumatoide, etc) que producen deformi-
+dades en los dedos o en otras ocasiones anquilosis de 
+estos.
+Puede resultar compleja la medición de la movilidad de los 
+dedos, trataremos de explicar que el movimiento de los 
+dedos es únicamente en flexión o en extensión, ello nos per-
+mite valorar la movilidad de los distintos dedos entre 0o y 
+110o en los dedos más móviles.
+Test de
+Indica neuropatía del previo mediano. Se examina el llama-
+Phalen:
+do «signo de la mano flexionada», en el que el paciente 
+mantiene las manos en flexión palmar durante 1 minuto. En 
+esta posición, con el dorso de las manos en contacto, se 
+produce un aumento de la presión en el túnel carpiano.
+Signo 
+Maniobra de percusión sobre el trayecto anatómico del ner-
+de Tinel:
+vio mediano en la articulación de la muñeca. Es positivo el 
+signo cuando al percutir, el paciente, describe sensación de 
+calambre que generalmente se irradia al trayecto del nervio.  
+Lo importante es valorar la progresión en sentido distal del 
+dolor eléctrico ya que manifiesta la recuperación de la con-
+ducción nerviosa en el nervio lesionado.

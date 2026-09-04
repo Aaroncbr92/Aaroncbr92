@@ -1,0 +1,3616 @@
+Guía para la 
+vigilancia sanitaria 
+del adenocarcinoma 
+de fosas nasales y 
+senos paranasales en 
+personas trabajadoras 
+expuestas a polvo de 
+madera
+SANIDAD 2019
+MINISTERIO DE SANIDAD, CONSUMO Y BIENESTAR SOCIAL
+
+Guía para la 
+vigilancia sanitaria 
+del adenocarcinoma 
+de fosas nasales y 
+senos paranasales en 
+personas trabajadoras 
+expuestas a polvo de 
+madera
+SANIDAD 2019
+MINISTERIO DE SANIDAD, CONSUMO Y BIENESTAR SOCIAL
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD, CONSUMO Y BIENESTAR SOCIAL
+    CENTRO DE PUBLICACIONES
+    PASEO DEL PRADO, 18. 28014 Madrid
+NIPO: 731-19-063-8
+El copyright y otros derechos de propiedad intelectual de este documento pertenecen al Ministerio de Sani­
+dad, Consumo y Bienestar Social. Se autoriza a las organizaciones de atención sanitaria a reproducirlo total o 
+parcialmente para uso no comercial, siempre que se cite el nombre completo del documento, año e institución.
+
+Maquetación: Servicios Gráficos Kenaf, S. L.
+http://cpage.mpr.gob.es
+
+Guía para la 
+vigilancia sanitaria 
+del adenocarcinoma 
+de fosas nasales y 
+senos paranasales en 
+personas trabajadoras 
+expuestas a polvo de 
+madera
+
+Consejo Interterritorial
+ del Sistema Nacional de Salud
+La Comisión de Salud Pública del Consejo lnterterritorial del Sistema Na­
+cional de Salud aprobó el Protocolo para la Vigilancia Sanitaria Específica 
+del Adenocarcinoma de Fosas Nasales y Senos Paranasales en personas 
+trabajadoras expuestas a polvo de madera, en sesión plenaria celebrada el 
+dia 9 de mayo de 2019.
+Comisión Nacional
+ de Seguridad y Salu
+d en el Trabajo
+La Comisión Nacional de Seguridad y Salud en el Trabajo fue informada 
+del Protocolo para la Vigilancia Sanitaria Específica del Adenocarcinoma de 
+Fosas Nasales y Senos Paranasales en personas trabajadoras expuestas a 
+polvo de madera, en el pleno celebrado el 8 de octubre de 2019.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+9
+Coordinación
+Aitor Guisasola Yeregui (Médico especialista en Medicina del Trabajo. Osalan-Instituto Vasco 
+de Seguridad y Salud Laborales. País Vasco).
+Autoría
+Aitor Guisasola Yeregui (Médico especialista en Medicina del Trabajo. Osalan-Instituto Vasco 
+de Seguridad y Salud Laborales. País Vasco).
+Joaquín Estefano Rodriguez (Médico especialista en Otorrinolaringología. OSAKIDETZA-
+Servicio Vasco de Salud. Hospital Universitario Donostia. País Vasco).
+Mylene Nuñez Acevedo (Médica especialista en Medicina del Trabajo. SNA Europe Industries 
+Iberia. País Vasco).
+Revisión externa
+Nora Ibargoyen Roteta (Técnica del Servicio de Tecnologías Sanitarias-OSTEBA. 
+Departamento de Salud-Gobierno Vasco. País Vasco).
+Itziar Etxeandia Ikobaltzeta (Técnica del servicio de Tecnologías Sanitarias-OSTEBA. 
+Departamento de Salud-Gobierno Vasco. País Vasco).
+Colaboraciones
+José Ignacio Cabrerizo Benito (Médico especialista en Medicina del Trabajo. Osalan-Instituto 
+Vasco de Seguridad y Salud Laborales. País Vasco).
+Maite Robertson Sangrador (Médica especialista en Medicina Preventiva y Salud Pública. 
+Osalan-Instituto Vasco de Seguridad y Salud Laborales. País Vasco).
+Diego Romero Gómez (Médico especialista en Medicina del Trabajo. Osalan-Instituto Vasco 
+de Seguridad y Salud Laborales. País Vasco).
+Arrate Padilla Magunacelaya (Médica especialista en Medicina del Trabajo. Osalan-Instituto 
+Vasco de Seguridad y Salud Laborales. País Vasco).
+Arantza Lijó Bilbao (Médica especialista en Medicina del Trabajo. Osalan-Instituto Vasco de 
+Seguridad y Salud Laborales. País Vasco).
+Mikel Uña Gorospe (Médico especialista en Medicina del Trabajo. CFP Servicio de Prevención. 
+Donostia/San Sebastián. País Vasco).
+Iñaki Igarzabal Elorza (Médico especialista en Medicina del Trabajo. Grupo ULMA. Oñati. 
+Gipuzkoa. País Vasco).
+Mª Mar Ubeda Carrillo (Documentalista. OSAKIDETZA-Servicio Vasco de Salud. Hospital 
+Universitario Donostia. País Vasco).
+PONENCIA DE SALUD LABORAL DE LA COMISIÓN DE SALUD PÚBLICA
+DEL CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+Montserrat García Gómez (Ministerio de Sanidad, Consumo y Bienestar Social).
+Joaquín Estévez Lucas (Ministerio de Sanidad, Consumo y Bienestar Social).
+Aitor Gisasola Yeregui (Osalan. Instituto Vasco de Seguridad y Salud Laborales. País Vasco).
+Lourdes Íscar Reina (Osalan. Instituto Vasco de Seguridad y Salud Laborales. País Vasco).
+Juan Carlos Coto Fernández (Osalan. Instituto Vasco de Seguridad y Salud Laborales. País Vasco).
+Rafael Panadés Valls (Consellería de Salut. Catalunya).
+María Isabel González García (Consejería de Salud y Bienestar Social. Galicia).
+Francisco Arroyo Llanes (Consejería de Salud y Familias. Andalucía).
+Rosario Díaz Peral (Consejería de Salud Y Familias. Andalucía).
+Valentín Rodríguez Suárez (Consejería de Sanidad. Principado de Asturias).
+Íñigo Fernández Fernández (Consejería de Sanidad y Servicios Sociales. Cantabria).
+Lourdes Miralles Martínez-Portillo (Consejería de Salud y Servicios Sociales. La Rioja).
+Bienvenida Carpe Carpe (Consejería de Sanidad y Política Social. Región de Murcia).
+Valentín Esteban Buedo (Consellería de Sanidad Universal y Salud Pública. Comunidad 
+Valenciana).
+
+10
+SANIDAD
+Nieves Martínez Arguisuelas (Consejería de Sanidad, Bienestar Social y Familia. Aragón).
+Fernando Cebrián Gómez (Consejería de Sanidad y Asuntos Sociales. Castilla-La Mancha).
+Emma Rosa Corraliza Infanzón (Consejería de Sanidad y Asuntos Sociales. Castilla-La 
+Mancha).
+Iñaki Moreno Sueskun Instituto Navarro de Salud Laboral (Comunidad Foral de Navarra).
+Jesús Fernández Baraibar (Instituto Navarro de Salud Laboral. Comunidad Foral de Navarra).
+Yolanda Anés del Amo (Consejería de Sanidad y Políticas Sociales. Extremadura).
+Santiago Briz Blázquez (Consejería de Sanidad y Políticas Sociales. Extremadura).
+Milagros Quiemadelos Carmona (Consellería de Salut. Illes Balears).
+Eduardo García-Ramos Alonso (Consejería de Sanidad. Canarias).
+María Fernanda González Gómez (Consejería de Sanidad. Comunidad de Madrid).
+Mercedes Elvira Espinosa (Consejería de Sanidad. Castilla y León).
+Luisa Fernanda Hermoso Castro (Consejería de Presidencia y Salud Publica Ciudad 
+Autónoma de Melilla).
+Ana Isabel Rivas Pérez (Consejería Sanidad, Servicios Sociales, Menores e Igualdad. Ciudad 
+Autónoma de Ceuta).
+Pilar Aparicio Azcárraga
+Directora General de Salud Pública, Calidad e Innovación
+Covadonga Caballo Diéguez
+Subdirectora General de Sanidad Ambiental y Salud Laboral
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+11
+Índice
+Presentación  
+13
+Preguntas a responder desde la evidencia científica 
+15
+Niveles de evidencia y grados de recomendación 
+16
+Resumen de las recomendaciones  
+17
+1. 
+Justificación 
+19
+2. 
+Alcance y objetivos 
+21
+ 
+2.1.  Necesidad 
+21
+ 
+2.2.  Objetivo 
+21
+ 
+2.3.  Población y ámbito de aplicación 
+21
+ 
+2.4.  Proceso asistencial 
+22
+ 
+2.5.  Protocolo de vigilancia de la salud  
+22
+3. 
+Metodología  
+23
+ 
+3.1.  Creación del grupo elaborador 
+24
+ 
+3.2.  Participación de los implicados 
+24
+ 
+3.3.  Formulación de preguntas clínicas 
+24
+ 
+3.4.  Estrategia de respuesta para las preguntas 
+24
+ 
+3.5.  Búsqueda, evaluación y síntesis de la evidencia 
+25
+ 
+3.6.  Formulación de las recomendaciones 
+30
+ 
+3.7.  Revisión externa 
+30
+ 
+3.8.  Publicación final 
+30
+4. 
+ Pruebas para el screening del adenocarcinoma de fosas 
+nasales y senos paranasales en personas trabajadoras 
+expuestos a polvo de madera  
+31
+ 
+4.1.  Anamnesis de síntomas precoces 
+31
+ 
+4.2.  Nasofibroscopia 
+33 
+ 
+4.3.  Radiología simple 
+37
+ 
+4.4.  Tomografía computarizada 
+38
+ 
+4.5.  Resonancia magnética 
+41
+ 
+4.6.  Marcadores tumorales 
+43
+5. 
+Actualización de la guía  
+45
+6. 
+Líneas de investigación futura  
+47
+7. 
+Aplicabilidad / implementación  
+49
+8. 
+Bibliografía  
+51
+
+12
+SANIDAD
+Anexo I
+Evaluación y características de la guía elegida	
+57
+Anexo II
+Estrategia de búsqueda y diagrama de flujo	
+61
+Anexo III
+Tablas de guías y de evidencias, y fichas de elaboración de
+recomendaciones	
+65
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+13
+Presentación
+La guía de vigilancia de la salud de las personas trabajadoras expuestas a 
+polvo de madera que presentamos, aborda la evidencia existente sobre las 
+pruebas y exploraciones médicas aplicables al screening del adenocarcino­
+ma de fosas nasales y senos paranasales en trabajadores y trabajadoras ex­
+puestas a este agente laboral. 
+El RD 39/1997, por el que se aprueba el Reglamento de los Servicios 
+de Prevención, establece que la “vigilancia de la salud de los trabajadores” 
+estará sometida a protocolos específicos u otros medios existentes con res­
+pecto a los factores de riesgo a los que esté expuesta la persona trabajadora. 
+La guía nace con la intención de constituir la base de las pruebas y 
+exploraciones médicas aplicables al screening del adenocarcinoma de fosas 
+nasales y senos paranasales que se recojan en el protocolo de vigilancia de la 
+salud de las personas trabajadoras expuestas a polvo de madera. Y aunque 
+en realidad, la guía es un producto diferente y autónomo respecto del proto­
+colo, dado que las pruebas que se incluirán en él tomarán su base en la guía, 
+esta se presenta como anexo de dicho protocolo.
+La guía recoge de forma exhaustiva el proceso de elaboración en base a 
+evidencias que se ha utilizado. Este se ha realizado siguiendo la metodología 
+descrita en el “Manual Metodológico para la Elaboración de Guías de Prác­
+tica Clínica en el Sistema Nacional de Salud”1, en el “Manual Metodológico 
+para la Actualización de Guías de Práctica Clínica en el Sistema Nacional de 
+Salud”2, en la “Descripción de la metodología de elaboración-adaptación-ac­
+tualización empleada en la guía de práctica clínica sobre asma de la CAPV”3, 
+y en el anexo metodológico del “Protocolo de Vigilancia de la salud especí­
+fica del asma en trabajadores expuestos a polvo de harina”4 publicado el año 
+2012 por OSALAN.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+15
+Preguntas a responder
+desde la evidencia científica
+Pregunta 1: ¿Se debe utilizar la anamnesis de síntomas precoces para el 
+screening del adenocarcinoma de fosas nasales y senos paranasales en per­
+sonas trabajadoras expuestas a polvo de madera?
+Pregunta 2: ¿Se debe utilizar la nasofibroscopia para el screening del ade­
+nocarcinoma de fosas nasales y senos paranasales en personas trabajadoras 
+expuestas a polvo de madera?
+Pregunta 3: ¿Se debe utilizar la radiología simple para el screening del ade­
+nocarcinoma de fosas nasales y senos paranasales en personas trabajadoras 
+expuestas a polvo de madera?
+Pregunta 4: ¿Se debe utilizar la tomografía computarizada para el screening 
+del adenocarcinoma de fosas nasales y senos paranasales en personas traba­
+jadoras expuestas a polvo de madera?
+Pregunta 5: ¿Se debe utilizar la resonancia magnética para el screening del 
+adenocarcinoma de fosas nasales y senos paranasales en personas trabajado­
+ras expuestas a polvo de madera?
+Pregunta 6: ¿Se deben utilizar marcadores tumorales para el screening del 
+adenocarcinoma de fosas nasales y senos paranasales en personas trabajado­
+ras expuestas a polvo de madera?
+
+16
+SANIDAD
+Niveles de evidencia y grados
+de recomendación
+SIGN Grading System 1999-2012 
+1++
+High quality meta-analyses, systematic reviews of RCTs, or RCTs with a very low risk 
+of bias
+1+
+Well-conducted meta-analyses, systematic reviews, or RCTs with a low risk of bias
+1-
+Meta-analyses, systematic reviews, or RCTs with a high risk of bias
+2++
+High quality systematic reviews of case control or cohort or studies
+High quality case control or cohort studies with a very low risk of confounding or bias 
+and a high probability that the relationship is causal
+2+
+Well-conducted case control or cohort studies with a low risk of confounding or bias 
+and a moderate probability that the relationship is causal
+2-
+Case control or cohort studies with a high risk of confounding or bias and a 
+significant risk that the relationship is not causal
+3
+Non-analytic studies, e.g. case reports, case series
+4
+Expert opinion
+Grades of recommendations
+A
+At least one meta-analysis, systematic review, or RCT rated as 1++, and directly 
+applicable to the target population; o
+A body of evidence consisting principally of studies rated as 1+, directly applicable to 
+the target population, and demonstrating overall consistency of results
+B
+A body of evidence including studies rated as 2++, directly applicable to the target 
+population, and demonstrating overall consistency of results; o
+Extrapolated evidence from studies rated as 1++ or 1+
+C
+A body of evidence including studies rated as 2+, directly applicable to the target 
+population and demonstrating overall consistency of results; or
+Extrapolated evidence from studies rated as 2++
+D
+Evidence level 3 or 4; or
+Extrapolated evidence from studies rated as 2+
+Good practice points
+3
+Recommended best practice based on the clinical experience of the guideline 
+development group
+SIGN 505: A guideline developer's handbook. [Fecha de última consulta 11/03/14].
+Disponible en: http://www.sign.ac.uk/guidelines/fulltext/50/annexoldb.html
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+17
+Resumen de las recomendaciones 
+Pregunta 1: ¿Se debe utilizar la anamnesis de síntomas precoces para 
+el screening del adenocarcinoma de fosas nasales y senos paranasales 
+en personas trabajadoras expuestas a polvo de madera?
+D
+Se recomienda realizar una búsqueda de signos funcionales otorrinolaringológicos 
+(obstrucción nasal persistente, epistaxis, etc.) de forma complementaria a la realiza­
+ción de la nasofibroscopia, en el contexto de la vigilancia de la salud de las personas 
+trabajadoras, teniendo en cuenta que su especificidad es mayor si los mismos son 
+unilaterales y si existe un empeoramiento progresivo, y que su presencia se asocia a 
+una fase tardía de la enfermedad.
+Pregunta 2: ¿Se debe utilizar la nasofibroscopia para el screening del 
+adenocarcinoma de fosas nasales y senos paranasales en personas 
+trabajadoras expuestas a polvo de madera?
+C
+Se recomienda la realización de nasofibroscopia, cuya práctica se iniciará a partir de 
+que hayan transcurrido 30 años desde la primera exposición laboral a polvo de ma­
+dera, y la persona trabajadora haya acumulado un mínimo de 12 meses de exposi­
+ción durante el periodo transcurrido desde entonces, habiendo trabajado en tareas 
+de mecanizado (aserrado, fresado, cepillado, perforación, trituración) o en cualquier 
+otra actividad en la que se documente una exposición a concentraciones de polvo de 
+madera superior a 1 mg/m3 durante 8 h/día.
+D
+Se recomienda la realización de una nasofibroscopia cada dos años a partir de en­
+tonces.
+Pregunta 3: ¿Se debe utilizar la radiología simple para el screening del 
+adenocarcinoma de fosas nasales y senos paranasales en personas 
+trabajadoras expuestas a polvo de madera?
+D
+No se recomienda la realización de radiografía simple, dado que no es un examen útil 
+para la detección de los tumores de fosas nasales y senos paranasales a causa de su 
+baja sensibilidad.
+
+18
+SANIDAD
+Pregunta 4: ¿Se debe utilizar la tomografía computarizada para el 
+screening del adenocarcinoma de fosas nasales y senos paranasales 
+en personas trabajadoras expuestas a polvo de madera?
+D
+No se recomienda la realización de tomografías computarizadas, debido a que no es 
+una prueba suficientemente específica. Su utilización podría producir un elevado nú-
+mero de falsos positivos y, en consecuencia, existiría la posibilidad de crear iatrogenia 
+secundaria a los exámenes complementarios o de pruebas quirúrgicas derivadas de 
+su práctica. Por otro lado, el nivel de radiación que puede recibir el trabajador o la 
+trabajadora y el coste de la prueba son elevados.
+Pregunta 5: ¿Se debe utilizar la resonancia magnética para el scree-
+ning del adenocarcinoma de fosas nasales y senos paranasales en 
+personas trabajadoras expuestas a polvo de madera?
+D
+No se recomienda la realización de resonancia magnética, ya que a pesar de que 
+parece ser la prueba más sensible y específica, y es una prueba que no irradia a la 
+persona trabajadora, su disponibilidad y su coste no hacen aconsejable proponerla 
+como técnica de screening. 
+Sin embargo, podría ser utilizada como prueba de referencia para evaluar la especifi-
+cidad y la sensibilidad de otras pruebas útiles para la detección de tumores de fosas 
+nasales y senos paranasales.
+Pregunta 6: ¿Se deben utilizar marcadores tumorales para el scree-
+ning del adenocarcinoma de fosas nasales y senos paranasales en 
+personas trabajadoras expuestas a polvo de madera?
+D
+No se recomienda la utilización de marcadores tumorales, ya que aunque existen 
+resultados que muestran correlaciones entre algunos de estos marcadores y tejidos 
+procedentes de biopsias de cáncer de cavidades paranasales y nasales, no se han 
+desarrollado, por ejemplo, pruebas de detección en frotis nasal, y se desconoce la 
+sensibilidad y especificidad que estas pruebas pudiesen llegar a tener.
+Todas las recomendaciones tienen su base en la adaptación de las 
+emitidas por consenso de expertos de la guía Recommandations pour 
+la surveillance médico-professionnelle des travailleurs exposés à l´effet 
+cancérigène des poussières de bois (2011)6.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+19
+1. Justificación
+Las neoplasias nasosinusales son poco frecuentes y representan aproxima­
+damente el 0,2–0,8% del total de tumores malignos de la especie humana y 
+el 3-6% de los tumores de cabeza y cuello7-10. De entre ellas, los adenocar­
+cinomas nasosinusales son menos frecuentes y representan entre el 8-25% 
+de los tumores malignos de esta localización7,11. Pero se ha observado que el 
+90,4% de los adenocarcinomas etmoidales están relacionados con la exposi­
+ción al polvo de la madera7,12-14. En nuestro medio, la incidencia de adenocar­
+cinomas nasosinusales es de 0,19 casos/100.000 habitantes/año7,9.
+La IARC (International Agency for Research on Cancer), en 1995, de­
+claró que existía suficiente evidencia en humanos sobre la carcinogenicidad 
+del polvo de madera, y lo incluyó como tal en el grupo 1 de su clasificación, 
+estableciendo que la aparición de adenocarcinomas en cavidades paranasa­
+les y nasales está claramente relacionada con la exposición a polvo de made­
+ras duras. Aunque existen menos estudios que relacionen este tipo de cáncer 
+con la exposición a maderas blandas o a polvos mixtos de maderas duras y 
+blandas, la IARC no ha descartado que este tipo de polvos pueda también 
+producir la patología15,16. 
+Se estima que las personas trabajadoras con exposición profesional al 
+polvo de la madera tienen un riesgo 500 veces superior a la población mas­
+culina no expuesta y casi 900 veces más que la población general17-20.
+El largo periodo de latencia para el desarrollo del adenocarcinoma12,21 
+y la mayor supervivencia de los afectados tratados en los estadios precoces 
+de la enfermedad7,17 hacen necesario establecer pautas sobre las pruebas y 
+exploraciones médicas aplicables a la detección precoz del adenocarcinoma 
+de fosas nasales y senos paranasales en personas trabajadoras expuestas al 
+polvo de madera. 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+21
+2. Alcance y objetivos
+2.1. Necesidad
+El RD 39/1997, por el que se aprueba el Reglamento de los Servicios de 
+Prevención, establece en su artículo 37.3.c que la vigilancia de la salud de las 
+personas trabajadoras estará sometida a protocolos específicos u otros me­
+dios existentes con respecto a los factores de riesgo a los que estén expuestos 
+el o la trabajadora. Los protocolos de vigilancia de la salud de las personas 
+trabajadoras son instrumentos destinados a facilitar la toma de decisiones 
+por parte de los médicos del trabajo y contribuyen a elevar la calidad de la 
+práctica clínica que estos desarrollan en los servicios de prevención, por ello 
+es necesario que se basen en la mejor evidencia disponible. Sin embargo, no 
+todas las cuestiones que se abordan en un protocolo de vigilancia de la salud 
+son susceptibles de acometerse mediante métodos basados en la evidencia 
+científica. Pongamos por ejemplo, los aspectos legales y normativos que se 
+incluyen en su texto. Sí lo son, por el contrario, las pruebas y exploraciones 
+médicas que se realizan en este contexto. 
+La elaboración de una guía de vigilancia de la salud basada en la mejor 
+evidencia disponible sobre pruebas y exploraciones aplicables al adenocar­
+cinoma de fosas nasales y senos paranasales en personas trabajadoras ex­
+puestas a polvo de madera, y elaborada de forma sistemática, permite que 
+las pruebas y exploraciones médicas que se recojan en el protocolo de vigi­
+lancia de la salud se vean sustentadas en dicha evidencia.
+2.2. Objetivo
+El objetivo de esta guía es el de aportar recomendaciones basadas en la 
+mejor evidencia disponible sobre las pruebas y exploraciones médicas que 
+se incluirán en el protocolo de vigilancia de la salud del adenocarcinoma de 
+fosas nasales y senos paranasales en las personas trabajadoras expuestas al 
+polvo de madera.
+2.3. Población y ámbito de aplicación
+Vigilancia de la salud de las personas trabajadoras que trabajen en presencia 
+de polvo de madera.
+
+22
+SANIDAD
+2.4. Proceso asistencial
+Vigilancia de la salud de los y las trabajadoras que se lleva a cabo por los 
+servicios de prevención de riesgos laborales.
+2.5. Protocolo de vigilancia de la salud
+En base a las recomendaciones de esta guía se elaborará el protocolo de 
+vigilancia de la salud, al que la guía servirá como anexo metodológico. 
+En el protocolo se concretará el modo de llevar a cabo la vigilancia in­
+dividual y colectiva de la salud de las personas trabajadoras, que incluye los 
+aspectos relativos a la historia clínico-laboral, la anamnesis, las pruebas com­
+plementarias específicas, la periodicidad de las actividades incluidas en la vi­
+gilancia, los criterios de valoración de las pruebas por parte de los médicos 
+y las médicas del trabajo y las conductas a seguir por éstos en relación a las 
+decisiones habituales que deben de tomar respecto de los resultados de la 
+vigilancia que realizan.
+Las recomendaciones de la guía se incluirán en el texto del protocolo, 
+y podrán ser identificadas en el mismo por ir acompañadas de un aste­
+risco*.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+23
+3. Metodología
+Se ha seguido la metodología descrita en el “Manual Metodológico para la 
+Elaboración de Guías de Práctica Clínica en el Sistema Nacional de Salud”1, 
+en el “Manual Metodológico para la Actualización de Guías de Práctica Clí­
+nica en el Sistema Nacional de Salud”2, en la “Descripción de la metodología 
+de elaboración-adaptación-actualización empleada en la guía de práctica clí­
+nica sobre asma de la CAPV”3, y en el anexo metodológico del “Protocolo de 
+Vigilancia de la salud específica del asma en trabajadores expuestos a polvo 
+de harina”4 publicado el año 2012 por OSALAN.
+Metodología empleada. Esquema.
+
+24
+SANIDAD
+3.1. Creación del grupo elaborador
+El grupo elaborador incluye a 1 médico especialista en otorrinolaringología 
+perteneciente a OSAKIDETZA-Servicio Vasco de Salud y a 2 médicos es­
+pecialistas en medicina del trabajo, uno perteneciente a OSALAN-Instituto 
+Vasco de Seguridad y Salud Laborales y una médico residente de medicina 
+del trabajo (R4) de la Unidad docente multiprofesional de salud laboral de 
+Andalucía, del Servicio Andaluz de Salud.
+3.2. Participación de los implicados
+Se han realizado consultas a la personas trabajadoras sobre el contenido y la 
+aceptabilidad de las pruebas que se incluyen en el protocolo, a través de los sin­
+dicatos más representativos de la Comunidad Autónoma de Euskadi, los cua­
+les han realizado aportaciones al mismo. También se ha consultado en el mis­
+mo sentido a los usuarios del protocolo a través de las principales asociaciones 
+de servicios de prevención ajenos radicados en esta Comunidad Autónoma, y 
+éstos han realizado aportaciones que igualmente se han incorporado al mismo.
+3.3. Formulación de preguntas clínicas
+Se elabora un listado de preguntas clínicas referidas a las pruebas diagnós­
+ticas que pueden ser útiles para la detección precoz del adenocarcinoma de 
+fosas nasales y senos paranasales en el marco de la vigilancia de la salud de 
+las personas trabajadoras expuestas a polvo de madera. A partir del mismo, 
+se seleccionan preguntas relativas a la anamnesis, la nasofibroscopia, la ra­
+diología simple, la tomografía computarizada, la resonancia magnética y los 
+marcadores tumorales.
+Finalmente, se formulan en formato PICO (Paciente – Intervención – 
+Comparación – Outcome)
+3.4. Estrategia de respuesta para las preguntas
+•	 Búsqueda de guías de práctica clínica basadas en evidencias, eva­
+luación de las mismas y elección de guías base para responder a las 
+preguntas clínicas. Análisis del contenido clínico de las guías base y 
+síntesis de la información referida a cada una de las preguntas en 
+tablas de guías.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+25
+• Búsqueda de revisiones sistemáticas Cochrane, evaluación de las 
+mismas, análisis de su contenido y síntesis de la información en ta-
+blas de evidencias.
+• Utilización de la evidencia identificada en las guías o revisiones y, en 
+el caso de las guías, valoración relativa a la adopción de la recomen-
+dación en función del contexto, la aplicabilidad, etc.
+• Actualización parcial de la evidencia en el caso de que sea necesario 
+realizar búsquedas restringidas en función de que nuevos estudios 
+publicados pudieran modificar las recomendaciones. En este caso se 
+busca a partir de la fecha de la última referencia de la guía base o 
+de la revisión sistemática Cochrane en cuestión, buscando nuevas 
+revisiones sistemáticas o ensayos clínicos aleatorios en las bases de 
+datos de PUBMED o EMBASE.
+• Elaboración de novo de la pregunta en el caso de que las guías o las 
+revisiones Cochrane no respondan a la misma, mediante un proceso 
+de búsqueda bibliográfica de estudios primarios en las bases de da-
+tos de PUBMED, EMBASE, NIOSHTIC o DART-Europe E-theses 
+Portal, seguido de una evaluación crítica de los estudios que cum-
+plan los criterios de inclusión y exclusión. Finalmente, se procede a 
+la síntesis de la información en tablas de evidencias.
+• Formulación de las recomendaciones mediante un proceso de “jui-
+cio razonado” explícito.
+3.5.  Búsqueda, evaluación y síntesis 
+de la evidencia
+3.5.1.  Búsqueda bibliográfica de guías basadas 
+en evidencias
+En base a los objetivos de esta guía se realiza una búsqueda de guías ya ela-
+boradas. La finalidad es la de buscar guías que permitan ser adaptadas a los 
+objetivos del protocolo a través de bases de datos, de direcciones electróni-
+cas de organizaciones que desarrollan guías de práctica clínica y de centros 
+que las recopilan.
+Se consultan:
+Trip database
+http://www.tripdatabase.com/
+Guidelines International Network (G-I-N)
+http://www.g-i-n.net/
+National Guidelines Clearinghouse (NGC)
+http://www.guideline.gov/
+
+26
+SANIDAD
+Centre for Reviews and Dissemination Health 
+Technology Assessment Database (DARE)
+http://www.crd.york.ac.uk/crdweb/
+National Institute for Clinical Evidence (NICE)
+https://www.evidence.nhs.uk/
+Pubmed (limits: Practice Guidelines)
+http://www.ncbi.nlm.nih.gov/pubmed/
+American College of Occupational and 
+Environmental Medicine (ACOEM)
+http://www.acoem.org/
+British Occupational Health Research 
+Foundation (BOHRF)
+http://www.bohrf.org.uk/
+Instituto de Salud Carlos III-InfoSalud Laboral 
+(ISCIII)
+http://new.paho.org/isl/
+Biblioteca de Guías de Práctica clínica del 
+Sistema Nacional de Salud (GuíaSalud)
+http://portal.guiasalud.es/web/guest/home;
+jsessionid= e9e1a3565c6a00a86a6adcfe56f0
+También se consultan páginas de organismos con competencias en salud la­
+boral, a nivel internacional: 
+International Labour Organization (ILO) 
+CISDOC database
+http://www.ilo.org/dyn/cisdoc2/cismain.
+home
+Instituto Nacional de Seguridad e Higiene en 
+el Trabajo (INSHT)
+http://www.insht.es/portal/site/Insht/;VAP
+COOKIE=Qb8JPhzfHV31LJ2 NQM5m30r
+Grj2kZj1tFQHPT37YLSClZSrQ37
+vp!-1562818166!-727560121Insht/;V
+APCOOKIE=Qb8JPhzfHV31LJ2NQM5
+m30rGrj2kZj1tFQHPT37YLSClZSrQ37
+vp!-1562818166!-727560121
+National Institute for Occupational Safety and 
+Health (NIOSH) NIOSHTIC-2
+http://www2a.cdc.gov/nioshtic-2/
+Institut national de recherche et de sécurité 
+pour la prévention des accidents du travail et 
+des maladies professionnelles (INRS)
+http://www.inrs.fr/accueil/inrs/identite.html
+Haute Autorité de Santé (HAS)
+http://www.has-sante.fr/portail/jcms/
+fc_1249588/fr/accueil-2012
+Health and Safety Executive (HSE-UK)
+http://www.hse.gov.uk/
+Deutsche Gesetzliche Unfallvericherung (DGUV)
+http://www.dguv.de/de/index.jsp
+Institut de recherche Robert-Sauvé en santé et 
+en sécurité du travail (IRSST)
+http://www.irsst.qc.ca/
+Criterios de inclusión
+Se determina que se elegirán únicamente aquellas guías que cumplan los si­
+guientes criterios:
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+27
+• Año de publicación: Desde 2008, inclusive. 
+• Contenido de la guía: Guías que sean específicas de vigilancia de la sa-
+lud de personas trabajadoras expuestas a polvo de madera o que pre-
+senten, al menos, un capítulo específico dedicado a dicha vigilancia.
+Se obtiene una sola guía6 que cumple con los criterios descritos, descar-
+tándose otra22, debido a que su publicación se produjo antes del año 2008 y 
+su elaboración no está basada en evidencias.
+3.5.2. Evaluación de guías y elección de guías base
+Las guías incluidas se evalúan mediante el Instrumento AGREE II23, cuyo 
+objetivo es el de ofrecer un marco para la evaluación de la calidad de las 
+guías de práctica clínica. 
+El análisis se realiza de forma independientemente por 4 evaluadores, 
+que puntúan cada uno de los ítems del instrumento. Ítems que pertenecen 
+a cada una de los seis dominios que se evalúan mediante el Instrumento 
+AGREE II. Cada área se puntúa sumando todos los puntos de los ítems 
+individuales de un área y estandarizando el total, como porcentaje sobre la 
+máxima puntuación posible de ése área. 
+Ver anexo I: evaluación mediante el Instrumento AGREE II.
+3.5.3. Búsqueda de Revisiones Sistemáticas Cochrane
+Se considera que las revisiones Cochrane son más rigurosas que la mayoría 
+de las revisiones publicadas en revistas con revisión por pares o las finan­
+ciadas por la industria. Por esta razón, se buscan las revisiones sistemáticas 
+Cochrane sobre screening de adenocarcinoma de fosas nasales y senos pa­
+ranasales en personas trabajadoras expuestas a polvo de madera. Para ello 
+se busca en Cochrane Library, en la que además de Cochrane Database of 
+Systematic Reviews, se incluyen DARE y ACP Journal.
+Criterios de inclusión
+Se determina que se elegirán únicamente aquellas revisiones sistemáticas 
+que cumplan los siguientes criterios:
+•	 Año de publicación: Desde 2008, inclusive. 
+•	 Contenido de las revisiones sistemáticas: que su objetivo principal 
+sea responder a, al menos, una de las preguntas clínicas.
+
+28
+SANIDAD
+Criterios de exclusión
+Se determina que se excluirán:
+•	 Protocolos de revisiones sistemáticas.
+•	 Contenido de las revisiones sistemáticas: que su objetivo en relación 
+a la vigilancia de la salud no sea específico del adenocarcinoma de 
+fosas nasales y senos paranasales.
+Ninguna revisión Cochrane responde a nuestras preguntas.
+3.5.4. Elaboración de novo y/o parcial
+Cuando se da el caso de que la pregunta que se quiere responder no está 
+resuelta en fuentes integradas o secundarias, como las guías o las revisiones 
+sistemáticas de alta calidad, se realiza una elaboración de novo, buscando 
+la evidencia que se ha publicado al respecto hasta el momento. Por otro 
+lado, cuando existen dichas fuentes pero están desactualizadas, se realiza 
+una búsqueda parcial de la evidencia desde la fecha de publicación de di­
+chas fuentes.
+A partir de la pregunta PICO se determinaron las palabras clave para 
+la búsqueda en las bases de datos de PUBMED, EMBASE y NIOSHTIC. 
+La búsqueda bibliográfica se realizó mediante el uso de aquellos términos 
+que produjesen una búsqueda más específica. Se realizó, asimismo, un pro­
+ceso de búsqueda en bases de datos de tesis doctorales en DART-Europe 
+E-theses Portal.
+El periodo de búsqueda abarca todos los años hasta abril de 2013, in­
+cluyendo estudios publicados en inglés, español, francés, italiano y portugués.
+Para la selección de los estudios individuales, se establecen los siguien­
+tes criterios:
+Criterios de inclusión
+•	 Estudios sobre validez de screening: Metaanálisis, revisiones siste­
+máticas de ensayos clínicos aleatorios, ensayos clínicos aleatorios, 
+estudios de cohortes, estudios de caso-control, y estudios que hagan 
+sus recomendaciones en función de un razonamiento basado en el 
+mecanismo. 
+•	 Contenido: que su objetivo en relación a la vigilancia de la salud sea 
+específico del adenocarcinoma de fosas nasales y senos paranasales.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+29
+Criterios de exclusión
+•	 Estudios de validez de pruebas diagnósticas no dirigidos a screening.
+•	 Contenido: que su objetivo en relación a la vigilancia de la salud no 
+sea específico del adenocarcinoma de fosas nasales y senos parana­
+sales.
+•	 Estudios ya incluidos en las guías elegidas.
+Se encuentra un solo estudio que cumple con los criterios24.
+Ver anexo II: proceso de búsqueda, diagrama de flujo con el número de 
+referencias identificadas y seleccionadas.
+3.5.5. Evaluación de la evidencia disponible 
+La lectura crítica y síntesis de la evidencia se realizan utilizando las fichas 
+de lectura crítica de OSTEBA-Servicio de Evaluación de Tecnologías Sa­
+nitarias del Departamento de Salud de Eusko Jaurlaritza-Gobierno Vasco, 
+sometiendo los artículos a lectura crítica por parte de 2 investigadores inde­
+pendientes. 
+Las evidencias se gradúan siguiendo la tabla “SIGN grading system 
+1999-2012”, incluida en “SIGN 50: A guideline developer’s handbook”5.
+3.5.6. Síntesis de la evidencia disponible
+Para sintetizar cómo responden las guías a las preguntas se utiliza como he­
+rramienta la “Tabla de guías”, que se estructura en los siguientes apartados:
+Guía (Enfoque de 
+la pregunta)
+Evidencia
+(nivel)
+Recomendación
+(grado)
+Referencias bibliográficas (tipo 
+de publicación)
+Comentarios
+Para sintetizar cómo responden las revisiones sistemáticas y otro tipo de 
+estudios seleccionados a las preguntas, se utiliza como herramienta la “Tabla 
+de evidencia”, que se estructura en los siguientes apartados:
+Referencias
+Estudio
+Población
+Exposición 
+Comparación 
+Resultados
+Conclusiones
+Comentarios
+Nivel de 
+evidencia
+
+30
+SANIDAD
+En el anexo III se presentan las tablas de guías y/o evidencias de cada 
+pregunta.
+3.6. Formulación de las recomendaciones 
+Se realiza mediante el llamado “juicio razonado” o evaluación formal, uti­
+lizando para ello las plantillas de “SIGN 50: A guideline developer’s hand­
+book”5.
+En el anexo III se presentan las fichas de elaboración de las recomen­
+daciones, donde se incluye el proceso de formulación llevado a cabo para 
+cada pregunta.
+3.7. Revisión externa
+La revisión externa de los aspectos metodológicos se ha llevado a cabo por 
+2 investigadoras del servicio de tecnologías sanitarias-OSTEBA (Departa­
+mento de Salud-Gobierno Vasco).
+Las recomendaciones han sido consultadas con las principales asocia­
+ciones de servicios de prevención ajenos radicados en la Comunidad Autó­
+noma del País Vasco y con la Sociedad Vasca de Medicina del Trabajo.
+3.8. Publicación final
+En base a las recomendaciones de esta guía se elaborará el protocolo de 
+vigilancia de la salud, al que la guía servirá como anexo metodológico, por lo 
+que se hará coincidir ambas publicaciones. 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+31
+4. Pruebas para el screening 
+del adenocarcinoma de fosas 
+nasales y senos paranasales 
+en personas trabajadoras 
+expuestas a polvo de madera
+4.1. Anamnesis en el screening del 
+adenocarcinoma de fosas nasales y senos 
+paranasales
+¿Se debe utilizar la anamnesis de síntomas precoces para el screening 
+del adenocarcinoma de fosas nasales y senos paranasales en personas 
+trabajadoras expuestas a polvo de madera?
+Los síntomas más comunes relacionados con el diagnóstico de los adenocar­
+cinomas de fosas nasales y senos paranasales son obstrucción nasal unilate­
+ral, rinorrea seropurulenta unilateral y epistaxis unilaterales de repetición. 
+Pero la naturaleza inespecífica, banal de estos síntomas, que a veces no di­
+fieren de los de una irritación leve, contribuye de manera muy importante a 
+que no sean tenidos en cuenta como señal de alerta, lo que determina el re­
+traso de la primera consulta y del diagnóstico. Uniendo estas circunstancias 
+a la aparición tardía de esta sintomatología, se explica la baja proporción de 
+tumores diagnosticados en estadios iniciales T1/T2, es decir, de aquellos que 
+disfrutarían de un pronóstico mucho más favorable.
+Evidencia científica
+En la Guía Recommandations pour la surveillance médi­
+co-professionnelle des travailleurs exposés à l´effet cancéri­
+gène des poussières de bois (2011)6 se aborda esta pregunta. 
+Para responder a la misma, se incluyeron 12 estudios25-36, en 
+
+32
+SANIDAD
+su mayoría series de casos. Sólo se incluyó un estudio ca­
+so-control25 en el que se muestra que las personas trabaja­
+doras expuestas a polvo de madera presentan mayor pre­
+valencia de irritaciones nasales (OR: 2,93 IC 95%: 1,9-4,3), 
+secreciones nasales (OR: 2,57 IC 95%: 1,6-4,1), y/o obstruc­
+ción nasal (OR: 2,06 IC 95%: 1,26-3,44).
+El grupo de estudio de tumores de cabeza y cuello 
+(GETTEC)26 mostró en un estudio retrospectivo multicén­
+trico de 418 pacientes que la sintomatología de inicio de los 
+adenocarcinomas de fosas nasales y senos paranasales era: 
+obstrucción nasal (79%), epistaxis (51%), tumor visible en 
+narina (29%), rinorrea (27%), dolor sinusal (20%), exoftal­
+mos (11%), diplopía (9%), ganglio cervical (1%), pérdida de 
+peso (0,5%).
+De Gabory et al.27, en un estudio retrospectivo de 76 
+pacientes, mostraron que la sintomatología de inicio era uni­
+lateral en el 98% de los casos.
+Los signos oftalmológicos, meníngeos y neurológicos 
+aparecen de forma tardía y corresponden a tumores que se 
+han extendido más allá de las fosas nasales y senos parana­
+sales y que tienen un pronóstico peor6.
+Diversos estudios retrospectivos muestran que la pro­
+porción de caso descubiertos en estadios T3 y T4 se encuen­
+tra entre el 38,6 y el 89%26-36.
+En una serie de casos (no publicado) diagnosticados 
+en el Hospital Universitario de Donostia de OSAKIDET­
+ZA-Servicio Vasco de Salud entre los años 2002 y 2013, el 
+76,47% de los casos se diagnosticaron en estadios T3 o supe­
+riores. Entre los casos en los que se conocían los anteceden­
+tes laborales (64,07%), el 90,10% eran personas que habían 
+trabajado expuestas a polvo de madera.
+Caso-
+control 2+
+Serie de
+casos 3
+Serie de
+casos 3
+Serie de
+casos 3
+Resumen de la evidencia
+Los signos funcionales no son específicos, son muy variados, banales, 
+tardíos y no sirven en sí para el diagnóstico precoz. Sin embargo, existen 
+signos de alerta que pueden resultar útiles: la afectación unilateral (obs­
+trucción nasal y epistaxis) y la persistencia de una obstrucción nasal que 
+no existía previamente o el agravamiento de síntomas ya conocidos25-36.
+Nivel 3
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+33
+Se trata de evidencia derivada de estudios descriptivos, en general se­
+ries de casos, a partir de los cuales se determina que la anamnesis de 
+síntomas precoces, que ha sido el modo habitual de descubrimiento de 
+adenocarcinomas de fosas nasales y senos paranasales, revela la existen­
+cia de este tipo de tumores en una fase avanzada de la enfermedad25-36. 
+Se considera que descubrirlos en estadios iniciales, T1/T2, permitiría un 
+pronóstico mucho más favorable. 
+Nivel 3
+Recomendación
+D
+Se recomienda realizar una búsqueda de signos funcionales otorrinolaringológicos 
+(obstrucción nasal persistente, epistaxis, etc.) de forma complementaria a la realiza­
+ción de la nasofibroscopia, en el contexto de la vigilancia de la salud de las personas 
+trabajadoras, teniendo en cuenta que su especificidad es mayor si los mismos son 
+unilaterales y si existe un empeoramiento progresivo, y que su presencia se asocia a 
+una fase tardía de la enfermedad. 
+4.2. Nasofibroscopia en el screening del 
+adenocarcinoma de fosas nasales y senos 
+paranasales
+¿Se debe utilizar la nasofibroscopia para el screening del adenocarci­
+noma de fosas nasales y senos paranasales en personas trabajadoras 
+expuestas a polvo de madera?
+La rinoscopia anterior con espéculo de Clark no puede acceder más 
+que a ver el tercio anterior de la cavidad nasal, habiéndose abandonado su 
+uso como técnica en la búsqueda de síndromes de obstrucción unilateral. 
+La rinoscopia posterior se considera una técnica obsoleta. Por esta razón, 
+la visualización de esta zona se suele realizar mediante el uso del nasofi­
+broscopio. Este aparato tiene la ventaja de permitir un acceso directo para 
+la vista de los cornetes, el meato medio, la hendidura olfativa y los espacios 
+posteriores de la cavidad nasal. 
+
+34
+SANIDAD
+Evidencia científica
+En la Guía Recommandations pour la surveillance médi­
+co-professionnelle des travailleurs exposés à l´effet cancérigè­
+ne des poussières de bois (2011)6 se aborda esta pregunta. Para 
+responder a la misma, se incluyen 34 estudios9,12,13,21,22,26,37-64. 
+Los trabajos que recomiendan la realización de la nasofibros­
+copia lo hacen en base a la opinión de expertos. Su apoyo 
+descansa en la utilización que ya se hace de la misma en la 
+consulta de otorrinolaringología con la finalidad de observar 
+de forma directa la mucosa de las fosas nasales y los senos 
+paranasales37-40. 
+Las formas endosinusales estrictas del adenocarcinoma 
+son muy poco probables, hay una ausencia de barrera ana­
+tómica entre las cavidades nasales y paranasales, las lesiones 
+tienen una naturaleza vegetativa y exotípica, y presentan 
+una propensión a ocupar el espacio aéreo endonasal libre.
+La nasofibroscopia es una prueba que suele realizarse 
+para valorar a aquellos pacientes que presentan una sinto­
+matología o signos que justifiquen su uso. La importancia de 
+su utilización se ve reforzada por el reciente conocimiento de 
+la ubicación de la base de implantación del adenocarcinoma. 
+Se trata de una técnica simple y rápida, atraumática e 
+indolora en ausencia de anomalías anatómicas (1% de la po­
+blación), no irradiante, es barata y de fácil disponibilidad en 
+la consulta especializada. Partiendo del uso que ya se hace de 
+la nasofibroscopia en otorrinolaringología, la mayoría de los 
+estudios publicados se centran en la aceptabilidad de la prue­
+ba por parte de los pacientes que se someten a ella y en el uso 
+de diversos anestésicos que facilitarían su uso. Este aspec­
+to se valora, en general mediante estudios transversales41-48, 
+aunque existe un metaanálisis49 que compara la utilización 
+de vasoconstrictores, anestésicos, lubricantes y suero previos 
+a la prueba, en relación a la aparición de dolor o disconfort 
+durante la misma, confirmando las conclusiones derivadas de 
+los estudios observacionales. Se evalúan, asimismo, las posi­
+bles complicaciones que pueden aparecer en la práctica. 
+Sólo un estudio41 analiza la tolerancia de la nasofibros­
+copia, recogida mediante la aplicación de cuestionarios en 
+personas trabajadoras de la madera a las que se sometió a 
+esta prueba, sin la utilización de anestésicos y tras haber re­
+cibido una información clara sobre la misma. Los resultados 
+Opinión de
+experto 4
+Serie de
+casos 3
+Metaanálisis
+de ECA1+ 
+Serie de
+casos 3
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+35
+muestran una buena tolerancia a la misma e indican que es­
+tas personas declararon su intención de volver a realizar este 
+examen médico.
+No se conoce su sensibilidad y especificidad en el con­
+texto de un screening. Sin embargo, dado que cumpliría con 
+la mayor parte de los criterios que se requieren para este 
+tipo de exploraciones, diversos autores proponen su apli­
+cación a las personas que presentan un perfil de riesgo por 
+exposición a polvo de madera, ya que permitiría ver directa­
+mente anomalías en esa región12,38,39,40.
+A partir de los datos derivados de estudios de series 
+de casos se observa que la edad media en el momento del 
+diagnóstico es de 60 años y que sólo el 10% de la población 
+afectada tiene menos de 50 años9,16,50-58. 
+La latencia promedio es de 40 años12,21,29, pero a día de 
+hoy no es posible saber si depende de la dosis y de la duración 
+de la exposición. Parece que por encima del año de exposición 
+es posible desarrollar este tipo de tumor con el mismo perio­
+do de latencia que en el caso de una exposición más larga. 
+Más del 90% de las personas afectadas estuvieron expuestas 
+a polvo de madera por un periodo superior a los 5 años13,59,60.
+En un metaanálisis de estudios de cohortes61 se halló que 
+el exceso de riesgo no aparecía antes de haber transcurrido 20 
+años desde el inicio de la exposición y que este era máximo 
+cuando el tiempo transcurrido era de 30 años. Sin embargo, el 
+pequeño número de casos observados no permitió analizarlos 
+en función de la duración e intensidad de la exposición.
+En otro metaanálisis, en este caso de estudios de ca­
+so-control62, se halló que el exceso de riesgo de adenocarci­
+noma no aumentó hasta que el nivel de exposición prome­
+dio estimada fue de 1mg/m3. Sin embargo, el dato debe ser 
+tomado con cautela, dado que se trata de una estimación 
+derivada de una matriz empleo-exposición y no de medicio­
+nes en los lugares de trabajo.
+Los datos relativos al desarrollo del adenocarcinoma 
+de fosas nasales y senos paranasales derivado de la expo­
+sición al polvo de madera son limitados, pero su evolución 
+parece más lenta que la de los carcinomas epidermoides de 
+esa misma localización 
+En una revisión de la literatura sobre los mecanismos 
+y las diferentes etapas de carcinogénesis del adenocarcino­
+ma de fosas nasales y senos paranasales en trabajadores y 
+Opinión de 
+experto 4
+Serie de
+casos 3
+Revisión
+sistemática
+2+
+Revisión
+sistemática
+2+
+Opinión de
+expertos
+Serie de
+casos 3
+
+36
+SANIDAD
+trabajadoras de la madera, se indica que la inestabilidad cro­
+mosómica parece ser uno de los pasos más importantes de 
+este proceso. El adenocarcinoma de fosas nasales y senos 
+paranasales presenta factores genéticos y biomoleculares 
+comunes con el adenocarcinoma de colon, pero estos no se 
+ponen en juego del mismo modo en ambas localizaciones. 
+Existen, por lo tanto, aspectos específicos derivados de los 
+carcinógenos y de factores clínicopatológicos locales63.
+De modo general, se admite que el tiempo de duplica­
+ción de los adenocarcinomas es de 160 días64.
+Serie de
+casos 3
+Resumen de la evidencia
+La nasofibroscopia es una técnica simple y rápida, atraumática, indolora 
+en ausencia de anomalías anatómicas, bien tolerada por las personas a las 
+que se aplica49.
+Nivel 1+
+El exceso de riesgo no aparece antes de haber transcurrido 20 años desde 
+el inicio de la exposición y que este es máximo cuando el tiempo transcurri­
+do es de 30 años. Sin embargo, el pequeño número de casos observados 
+para determinar este tiempo aconseja tomar el dato con cautela61.
+Nivel 2+
+El exceso de riesgo de adenocarcinoma no aumenta hasta que el nivel de 
+exposición promedio estimada es de 1mg/m3. Sin embargo, el dato debe 
+ser tomado con cautela, dado que se trata de una estimación derivada de 
+una matriz empleo-exposición y no de mediciones en los lugares de trabajo62.
+Nivel 2+
+La nasofibroscopia cumple con la mayor parte de los criterios que se re­
+quieren para su utilización en el marco de un screening. Sin embargo, aún 
+no se han evaluado su sensibilidad y especificidad en este contexto.
+Nivel 4
+La periodicidad de la realización de la nasofibroscopia únicamente puede 
+basarse en la analogía con la historia natural de adenocarcinomas de otras 
+localizaciones63,64.
+Nivel 4
+Recomendación
+C
+Se recomienda la realización de nasofibroscopia, cuya práctica se iniciará a partir de 
+que hayan transcurrido 30 años desde la primera exposición laboral a polvo de ma­
+dera y la persona trabajadora haya acumulado un mínimo de 12 meses de exposición 
+durante el periodo transcurrido desde entonces, habiendo trabajado en tareas de me­
+canizado (aserrado, fresado, cepillado, perforación, trituración) o en cualquier otra acti­
+vidad en la que se documente una exposición a concentraciones de polvo de madera 
+superior a 1 mg/m3 durante 8 h/día.
+D
+Se recomienda la realización de una nasofibroscopia cada dos años a partir de en­
+tonces.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+37
+4.3. Radiología simple en el screening del 
+adenocarcinoma de fosas nasales y senos 
+paranasales
+¿Se debe utilizar la radiología simple para el screening del adenocarci­
+noma de fosas nasales y senos paranasales en personas trabajadoras 
+expuestas a polvo de madera?
+La radiología estándar del macizo facial, incluida la de los senos paranasales, 
+ha sido una técnica muy utilizada para la exploración de múltiples patolo­
+gías, no sólo tumorales, pero la evolución de otras técnicas de imagen ha 
+hecho que las recomendaciones para su utilización se hayan restringido en 
+los últimos tiempos. 
+Evidencia científica
+En la Guía Recommandations pour la surveillance médi­
+co-professionnelle des travailleurs exposés à l´effet cancéri­
+gène des poussières de bois (2011)6 se aborda esta pregunta. 
+Para responder a la misma, se incluyen 3 estudios66-68. En 
+principio, se refieren a patología no tumoral y 1 de ellos a 
+patología pediátrica, de donde los autores infieren de modo 
+indirecto las recomendaciones para el uso de este instru­
+mento de diagnóstico.
+La Haute autorité de santé (HAS) francesa, por su par­
+te, realizó una actualización de las indicaciones relativas a las 
+radiografías estándar del macizo facial, incluidas las relativas 
+a los senos paranasales65. De modo general, afirma que las in­
+dicaciones de la radiografía estándar han disminuido mucho 
+con la evolución de otras técnicas de imagen, tales como el 
+escáner o la resonancia magnética, si bien en el documento 
+no se hace referencia directa al despistaje o al diagnóstico del 
+adenocarcinoma de fosas nasales y senos paranasales.
+Mc Allister et al66, en población pediátrica para valo­
+ración de sinusitis crónicas, compararon los resultados de la 
+radiografía estándar con tomografía computarizada, encon­
+trando una gran discordancia entre los resultados de ambas: 
+el 34% de las radiografías interpretadas como patológicas 
+Revisión 
+sistemática
+2++
+Serie de
+casos 3
+
+38
+SANIDAD
+Resumen de la evidencia
+La radiografía estándar de senos paranasales no presenta interés en el 
+contexto del screening, del diagnóstico y de la extensión de los tumores 
+de fosas nasales y senos paranasales. No es un examen útil a causa de 
+su baja sensibilidad.
+Nivel 3
+Recomendación
+D
+No se recomienda la realización de radiografía simple de los senos paranasales, dado 
+que no es un examen útil para la detección de los tumores de los senos nasales a 
+causa de su baja sensibilidad.
+4.4. Tomografía computarizada en el screening 
+del adenocarcinoma de fosas nasales y 
+senos paranasales
+¿Se debe utilizar la tomografía computarizada para el screening del ade­
+nocarcinoma de fosas nasales y senos paranasales en personas traba­
+jadoras expuestas a polvo de madera?
+La tomografía computarizada se ha propuesto como un posible método de 
+screening del adenocarcinoma de fosas nasales y senos paranasales en per­
+correspondieron a senos normales y el 46% de las conside­
+radas normales correspondieron a tomografías que mostra­
+ban patología, siendo los senos etmoidales los que presenta­
+ron la mayor parte de falsos negativos.
+En el caso de adultos, Laranne et al67. compararon las 
+radiografías estándar de 75 pacientes con sinusitis crónica 
+con resultados quirúrgicos, observando que sólo existía co­
+rrelación en la mitad de los casos. 
+Ferrié et al68. mostraron que la radiografía estándar de 
+senos paranasales no permite una evaluación correcta del 
+seno etmoidal, subestimando el grado de lesión de la muco­
+sa y los cambios en las paredes óseas.
+Serie de
+casos 3
+Opinión de
+expertos 4
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+39
+sonas trabajadoras expuestas a polvo de madera, en la medida que presenta­
+ría una mayor resolución que la de la radiología convencional. 
+Evidencia científica
+En la Guía Recommandations pour la surveillance médi­
+co-professionnelle des travailleurs exposés à l´effet cancéri­
+gène des poussières de bois (2011)6 se aborda esta pregunta. 
+Para responder a la misma, se incluyen 11 estudios, en su 
+mayoría, transversales. La tomografía computarizada, inclu­
+so con contraste, es muy poco específica. Esto provocaría la 
+aparición de demasiados falsos positivos (entre un 10,9 y un 
+54%), con las consecuencias asociadas a los mismos. Duvoi­
+sin et al.69 encontraron una proporción de imágenes endosi­
+nusales anormales en un 10,9% de pacientes asintomáticos, 
+mientras que Havas et al.70 lo hicieron en proporciones ma­
+yores, 42,5% de pacientes asintomáticos, que aumentaba al 
+54,4% en época de alergias estacionales. Otros autores, en la 
+misma línea, hablan de una proporción del 39%71.
+La sensibilidad para la detección de tumores y la capa­
+cidad para diferenciar un tejido de un proceso inflamatorio 
+o de un fenómeno obstructivo pueden variar desde 17 hasta 
+84,7% en función de la ubicación o circunstancia. Som et al.72 
+mostraron que en ausencia de destrucción ósea, era imposible 
+descartar la presencia de un tumor, y que en ausencia de re­
+acción ósea esclerosa, era imposible diferenciar una infección 
+fúngica agresiva o una granulomatosis de un tumor. Kondo et 
+al.73, en un estudio de tumores nasosinusales en fase T3 y T4 
+en los cuales se valoró su extensión mediante escáner y se co­
+rrelacionaron con los datos anatomopatológicos, hallaron que 
+en ausencia de destrucción ósea era imposible diferenciar el 
+tumor de los fenómenos inflamatorios adyacentes, particular­
+mente en etmoides y esfenoides. Lamoral et al.74, en relación 
+con adenocarcinomas nasosinusales, valoraron que existía una 
+subestimación del volumen del tumor y de su extensión, de­
+bido a la dificultad de diferenciarlos de los tejidos adyacentes.
+En pacientes tratados quirúrgicamente de patologías 
+inflamatorias y tumorales, la sensibilidad de detección de 
+recidivas por escáner era del 60% frente al 100% de la reso­
+nancia magnética72,75.
+Los escáneres de “baja dosis” no son aplicables al diag­
+nóstico o la evaluación del adenocarcinoma del seno nasal 
+Serie de
+casos 3
+Serie de
+casos 3
+Serie de
+casos 3
+Serie de
+casos 3
+
+40
+SANIDAD
+Resumen de la evidencia
+La tomografía computarizada, incluso con contraste, es muy poco espe­
+cífica69. 
+La sensibilidad para la detección de tumores y la capacidad para diferen­
+ciar un tejido de un proceso inflamatorio o de un fenómeno obstructivo 
+es muy variable en función de la ubicación o de si se trata de un tumor 
+primario o recurrente72.
+Los escáneres de “baja dosis” no son aplicables al diagnóstico o la eva­
+luación del adenocarcinoma del seno nasal debido a que los cortes están 
+demasiado separados y son demasiado gruesos. La reducción de la dosis 
+implica una disminución en la resolución y, por lo tanto, en la calidad de 
+la imagen que se obtiene (imagen ruidosa), lo que implica una dificultad 
+para el análisis del proceso tumoral (tejidos blandos) y del contenido en­
+dosinusal76.
+En cortes milimétricos contiguos de todo el etmoides, la hendidura nasal 
+y el receso etmoido-esfenoidal, la dosis de irradiación por corte sería del 
+orden de 3 a 13 mGy77-79.
+Nivel 3
+Recomendación
+D
+No se recomienda la realización de tomografías computarizadas de los senos parana­
+sales, debido a que no es una prueba suficientemente específica. Su utilización podría 
+producir un elevado número de falsos positivos y, en consecuencia, existiría la posibi­
+lidad de crear iatrogenia secundaria a los exámenes complementarios o a las pruebas 
+quirúrgicas derivadas de su práctica. Por otro lado, el nivel de radiación que puede 
+recibir el trabajador o la trabajadora y el coste de la prueba son elevados.
+debido a que los cortes están demasiado separados y son 
+demasiado gruesos. La reducción de la dosis implica una dis­
+minución en la resolución y, por lo tanto, en la calidad de la 
+imagen que se obtiene (imagen ruidosa), lo que implica una 
+dificultad para el análisis del proceso tumoral (tejidos blan­
+dos) y del contenido endosinusal76.
+En cortes milimétricos contiguos de todo el etmoides, 
+la hendidura nasal y el receso etmoido-esfenoidal, la dosis 
+de irradiación por corte sería del orden de 3 a 13 mGy77-79. 
+Serie de
+casos 3
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+41
+4.5. Resonancia magnética en el screening
+del adenocarcinoma de fosas nasales y 
+senos paranasales
+¿Se debe utilizar la resonancia magnética para el screening del adeno­
+carcinoma de fosas nasales y senos paranasales en personas trabajado­
+ras expuestas a polvo de madera?
+La resonancia magnética, por su capacidad de detectar lesiones de partes 
+blandas se ha propuesto como un posible método de screening del adeno­
+carcinoma de fosas nasales y senos paranasales en personas trabajadoras ex­
+puestas a polvo de madera, con la ventaja añadida de no irradiar al trabaja­
+dor o a la trabajadora. Su utilización hasta el día de hoy se ha circunscrito al 
+diagnóstico del adenocarcinoma, a la determinación de la extensión preope­
+ratoria y al seguimiento de las personas intervenidas quirúrgicamente.
+Evidencia científica
+En la Guía Recommandations pour la surveillance médi­
+co-professionnelle des travailleurs exposés à l´effet cancéri­
+gène des poussières de bois (2011)6 se aborda esta pregunta. 
+Para responder a la misma, se incluyen 12 estudios80-91, en su 
+mayoría series de casos, que comparan los resultados de la 
+resonancia magnética con hallazgos anatomoclínicos o con 
+otras pruebas de imagen.
+Lanzieri et al.80 mostraron las correlaciones entre ha­
+llazgos anatomoclínicos y el escáner sin contraste, la reso­
+nancia magnética con contraste, los datos de endoscopias 
+preoperatorias y la anatomía patológica, demostrando una 
+superioridad de la resonancia magnética con contraste fren­
+te a otras técnicas para el diagnóstico de mucocele, de tumor 
+nasosinusal o de ambos:
+—  diagnóstico de mucocele: sensibilidad 93% y espe­
+cificidad 95%
+—  diagnóstico de tumor nasosinusal: sensibilidad 95% 
+y especificidad 93%
+Comparación 
+pruebas
+diagnósticas 3
+
+42
+SANIDAD
+—   diagnóstico de ambos asociados: sensibilidad 83% y 
+especificidad 86%. 
+Este es el único estudio que se recoge en la Guía Re-
+commandations pour la surveillance médico-professionnelle 
+des travailleurs exposés à l´effet cancérigène des poussières 
+de bois (2011)6 en el que se aportan datos en términos de 
+sensibilidad y especificidad.
+Otros autores aportan datos de la correlación anato-
+moclínica con la resonancia magnética, que se eleva al 94% 
+en la realizada sin contraste y al 98% cuando se utiliza con-
+traste, frente a la del 78% lograda con el escáner81-84.
+La resonancia magnética permite analizar el contenido 
+de los senos maxilares, esfenoidales y etmoidales85, ponien-
+do en evidencia variaciones fisiológicas en el volumen de la 
+mucosa de los cornetes inferiores, de las fosas nasales y del 
+seno etmoidal86,87. Las diferencias de señal permiten diferen-
+ciar las lesiones inflamatorias benignas de las malignas y cir-
+cunscribir los bordes de las lesiones88.
+La resonancia magnética se muestra equivalente o su-
+perior al escáner a la hora de determinar con exactitud los 
+límites del tumor89.
+Sin embargo, los especialistas en otorrinolaringología 
+y los radiólogos son unánimes a la hora de indicar que, en 
+un escenario preterapeútico de tumores de fosas nasales y 
+senos paranasales, la tomografía computarizada y la reso-
+nancia magnética son técnicas complementarias68,72,81,84,90,91
+Serie de
+casos 3
+Opinión de
+expertos 4
+Serie de
+casos 3
+Serie de
+casos 3
+Opinión de
+expertos 4
+Serie de
+casos 3
+Resumen de la evidencia
+La capacidad de la resonancia magnética para detectar tumores es la mis­
+ma que la del escáner, pero tiene la posibilidad, a través de las señales de 
+T1/T2 y gadolinio, de identificar el contenido de todos los senos parana­
+sales. Es capaz de diferenciar pólipos, mucosidad retenida, edemas, mu­
+cosa inflamatoria o tumores con una sensibilidad de detección que varía 
+desde un 92 a un 98% y una especificidad del 93%, sin ser irradiante81-84.
+La resonancia magnética con contraste parece acercarse más que el es­
+cáner al diagnóstico precoz y al despistaje de un tumor nasosinusal de pe­
+queño tamaño, debido a unas mayores sensibilidad y especificidad, siendo 
+una técnica no irradiante. Sin embargo, no se ha evaluado nunca en este 
+contexto.
+Nivel 3
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+43
+Recomendación
+D
+No se recomienda la realización de resonancia magnética, ya que a pesar de que pare­
+ce ser la prueba más sensible y específica, y es una prueba que no irradia al trabajador 
+o a la trabajadora, su disponibilidad y su coste no hacen aconsejable proponerla como 
+técnica de screening
+Sin embargo, podría ser utilizada como prueba de referencia para evaluar la especifi­
+cidad y la sensibilidad de otras pruebas útiles para la detección de tumores de fosas 
+nasales y senos paranasales.
+4.6. Marcadores tumorales en el screening 
+del adenocarcinoma de fosas nasales y senos 
+paranasales
+¿Se deben utilizar marcadores tumorales para el screening del adeno­
+carcinoma de fosas nasales y senos paranasales en personas trabajado­
+ras expuestas a polvo de madera?
+A pesar de que existen algunos estudios sobre marcadores tumorales asocia­
+dos al adenocarcinoma de fosas nasales y senos paranasales, los resultados 
+son aún preliminares.
+Evidencia científica
+En la Guía Recommandations pour la surveillance médi­
+co-professionnelle des travailleurs exposés à l´effet cancéri­
+gène des poussières de bois (2011)6 se aborda esta pregunta. 
+Para responder a la misma, se incluye 1 sólo estudio92.
+En él se identifican dos proteínas, la galectina 4 y la 
+4 clusterina, detectables por inmunohistoquímica, las cuales 
+podrían jugar un papel en la oncogénesis del adenocarcino­
+ma nasosinusal. Si estos resultados preliminares se confirma­
+sen, se podría valorar el desarrollo de pruebas de detección 
+en frotis nasal, utilizando anticuerpos monoclonales anti an­
+tigalectina 4 y la 4 clusterina.
+Estudio 
+transversal 
+con grupo 
+control 3
+
+44
+SANIDAD
+Se trata de un trabajo con una muestra muy limitada, 
+pero indica posibles vías de investigación.
+Existen otros estudios en relación con otros marcado-
+res: las mutaciones en el gen TP53 o la expresión de la enzi-
+ma COX-2 pero sus resultados son preliminares93.
+Serie de 
+casos 3
+Resumen de la evidencia
+Se han evaluado algunos biomarcadores para el adenocarcinoma naso-
+Nivel 3
+sinusal, como la galectina 4, la clusterina, las mutaciones en el gen TP53 
+o la expresión de la enzima COX-2; sin embargo, en la actualidad, los 
+resultados de los estudios no permiten recomendar el uso de ningún bio-
+marcador para la detección precoz de esta enfermedad.
+Recomendación
+D
+No se recomienda la utilización de marcadores tumorales, ya que aunque existen 
+resultados que muestran correlaciones entre algunos de estos marcadores y tejidos 
+procedentes de biopsias de cáncer de cavidades paranasales y nasales, no se han 
+desarrollado, por ejemplo, pruebas de detección en frotis nasal, y se desconoce la 
+sensibilidad y especificidad que estas pruebas pudiesen llegar a tener.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+45
+5. Actualización de la guía
+Se plantea disponer de una revisión de la Guía en el plazo de 5 años o antes 
+si la evidencia derivada de los estudios en curso así lo aconseja.
+Con un año de antelación se valorará por parte de los autores del pro­
+tocolo, o de quienes tomen su relevo, la necesidad y tipo de revisión que se 
+requerirá. El coordinador emitirá un informe en el que se tendrán en cuenta 
+los siguientes aspectos13:
+•	 Identificación y valoración de nuevas evidencias relevantes
+•	 Opinión de los elaboradores del protocolo
+•	 Percepción de los usuarios 
+•	 Análisis del contexto 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+47
+6. Líneas de investigación futura
+•	 Son necesarios estudios que permitan valorar la eficacia, la efectivi­
+dad y el coste-efectividad de la vigilancia de la salud de las personas 
+trabajadoras en la prevención del adenocarcinoma de fosas nasales y 
+senos paranasales en trabajadores y trabajadoras expuestas a polvo 
+de madera. Dado que esta vigilancia de la salud se enmarca en el 
+ámbito de los programas de control y reducción de riesgos, es nece­
+sario tener en cuenta su lugar en los mismos.
+•	 Son necesarios estudios que permitan valorar la eficacia, la efectivi­
+dad y el coste-efectividad de las pruebas que se proponen realizar 
+en la vigilancia de la salud de las personas trabajadoras en la pre­
+vención del adenocarcinoma de fosas nasales y senos paranasales en 
+trabajadores y trabajadoras expuestas a polvo de madera.
+•	 Sería deseable realizar en nuestro medio estudios similares al puesto 
+en marcha en Francia con el nombre de CERBois (Cohorte d’Eva­
+luation des Recommandations Bois), con la finalidad de sumar ex­
+periencias y aportar cohortes más numerosas que permitan llegar a 
+conclusiones sobre los puntos anteriores.
+Estas líneas de investigación concuerdan con los objetivos de la vigi­
+lancia colectiva de la salud, en tanto que la misma no sólo pretende conocer 
+los efectos de los riesgos laborales en determinadas poblaciones, sino que se 
+dirige a generar conocimiento sobre la efectividad de las actividades y las 
+medidas preventivas que se llevan a cabo para evitarlos.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+49
+7. Aplicabilidad / implementación
+La aplicación de las recomendaciones dadas en el protocolo no requiere 
+cambios en la actual organización de la atención que se presta por parte 
+de los servicios de prevención. Está previsto que puedan participar en el 
+servicio de prevención otros profesionales sanitarios en función de su es­
+pecialidad o disciplina, y de los riesgos a vigilar, o que puedan subcontratar 
+los servicios de otros profesionales o entidades para la realización de ac­
+tividades que requieran conocimientos especiales o instalaciones de gran 
+complejidad. La disponibilidad y el precio de las pruebas recomendadas y la 
+periodicidad de las mismas no implican una elevación sustancial de los cos­
+tes de la vigilancia de la salud de las personas trabajadoras. Los beneficios en 
+supervivencia ligados a la detección precoz de este tipo de cáncer y el coste 
+del tratamiento de la enfermedad en fases precoces, hacen que las pruebas y 
+exploraciones propuestas sean altamente recomendables. 
+Es necesario remarcar también que el desarrollo de exámenes de salud 
+en ausencia de programas de control y reducción de riesgos es inadecuado, 
+y por lo tanto no debiera llevarse a cabo en esas condiciones. El objetivo 
+de la vigilancia de la salud no es el de certificar la pérdida de la misma, y 
+menos aún si ello se debe a la falta de estos programas, sino el de valorar la 
+importancia de los efectos de los riesgos laborales (su frecuencia, gravedad 
+y tendencia) en la salud de las personas trabajadoras para priorizar activida­
+des de prevención y evaluar la efectividad de las mismas. 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+51
+8. Bibliografía 
+1. 
+Grupo de trabajo sobre GPC. Elaboración de Guías de Práctica Clínica en el Sistema Na-
+cional de Salud. Manual Metodológico [Internet]. Madrid: Plan Nacional para el SNS del 
+MSC. Instituto Aragonés de Ciencias de la Salud-I+CS; 2007 [Fecha de última consulta 
+11/03/14]. Guías de Práctica Clínica en el SNS: I+CS Nº 2006/0I. Disponible en: http://www.
+guiasalud.es/emanuales/elaboracion/documentos/Manual metodologico-Elaboracion GPC 
+en el SNS.pdf
+2. 
+Grupo de trabajo sobre actualización de GPC. Actualización de Guías de Práctica Clínica 
+en el Sistema Nacional de Salud. Manual Metodológico [Internet]. Madrid: Plan Nacional 
+para el SNS del MSC. Instituto Aragonés de Ciencias de la Salud-I+CS; 2008 [Fecha de 
+última consulta 29/12/17]. Guías de Práctica Clínica en el SNS: I+CS. Disponible en: http://
+www.guiasalud.es/emanuales/actualizacion/index.html
+3. 
+Etxeberria A, Rotaeche R, Lekue I, Callén B, Merino M, Villar M et al. Descripción de 
+la metodología de elaboración-adaptación-actaulización empleada en la guía de práctica 
+clínica sobre el asma de la CAPV. Proyecto de Investigación Comisionada. Vitoria-Gas-
+teiz. Departamento de sanidad. Gobierno Vasco, 2005. [Fecha de última consulta 29/12/17]. 
+Informe nº: Osteba D-05-03. Disponible en: http://www.euskadi.eus/contenidos/informa-
+cion/osteba_formacion_/eu_def/adjuntos/d_05_03_adaptacion_guia_asma.pdf
+4. 
+Guisasola A, Fernández E, Romero D, Odriozola G, López S, Padilla A. Protocolo de vigi-
+lancia de la salud específica: asma en trabajadores expuestos a polvo de harina. Barakaldo. 
+OSALAN-Instituto Vasco de Seguridad y Salud Laborales; 2012. [Fecha de última con-
+sulta 29/12/17]. Disponible en: http://www.osalan.euskadi.net/s94-osa0181/es/contenidos/
+libro/medicina_201209/es_asma/protocolo_asma.html
+5. 
+Scottish Intercollegiate Guidelines Network. SIGN 50: A guideline developer’s handbook. 
+[Fecha de última consulta 29/12/17]. Disponible en: http://www.sign.ac.uk/index.html
+6. 
+Société française de médecine du travail. Recommandations pour la surveillance médi-
+co-professionnelle des travailleurs exposés à l’effet cancérigène des poussières de bois. 
+France; 2011. [Fecha de última consulta 29/12/17]. Disponible en: http://www.chu-rouen.fr/
+sfmt/pages/Recommandations.php
+7. 
+Díaz Molina JP. La Ruta Wnt en los Adenocarcinomas Nasosinusales [Tesis]. Oviedo: Ins-
+tituto Universitario de Oncología del Principado de Asturias; 2011.
+8. 
+Dulguerov P, Jacobsen MS, Allal AS, Lehmann W, Calcaterra T. Nasal and paranasl sinus 
+carcinoma: are we making a progress? A serie of 220 patients and systematic review. Can-
+cer 2001; 92:3012-3029
+9. 
+Núñez F, Suarez C, Alvarez I, Losa J, Barthe P, Fresno M. Sinonasal adenocarcinoma: epi-
+demiological and clinico-pathological study of 34 cases. J Otolaryngol 1993; 22(2):86-90.
+10. 
+Gras JR, Sarandeses A, Montserrat JR, Orús C. Revisión de los carcinomas de senos para-
+nasales. Acta Otorrinolaringol Esp 2007; 58: 266-275.
+11. 
+Barnes L. Intestinal-type adenocarcinoma of the nasal cavity and paranasal sinuses. Am 
+J Surg
+12. 
+Nylander LA, Dernent JM: Carcinogenic effects of wood dust: review and discussion. Am 
+J Ind Med. 1993;24(5):619-47
+13. 
+Bimbi G, Saraceno MS, Riccio S, Gatta G, Licitra L, Cantù G. Adenocarcinoma of ethmoid 
+sinus: an occupational disease. Acta Otorhinolaryngol Ital 2004; 24: 199-203.
+14. 
+Cantu G, Solero C.L, Mariani L, Lo Vullo S, Riccio S, Colombo S, Pompillo M, Perrone F, 
+Formillo P, Cuattrone P. Intestinal type adenocarcinoma of the ethmoid sinus in wood and 
+leather workers: A retrospective study of 153 cases. Head Neck 2011; 33: 535-542.
+15. 
+World Health Organization International Agency for Research On Cancer. IARC Mono-
+graphs on the Evaluation of Carcinogenic Risks to Humans. Wood Dust and Formalde-
+
+52
+SANIDAD
+hyde. Volume 62. Lyon. France; 1995. [Fecha de última consulta 29/12/17]. Disponible en: 
+http://monographs.iarc.fr/ENG/Monographs/vol62/mono62.pdf
+16. 
+World Health Organization International Agency for Research On Cancer. IARC Mo-
+nographs on the Evaluation of Carcinogenic Risks to Humans. A Review of Human Car-
+cinogens: Arsenic, Metals, Fibres, and Dusts. Volume 100C. Lyon. France; 2012. [Fecha de
+última consulta 29/12/17]. Disponible en: http://monographs.iarc.fr/ENG/Monographs/
+vol100C/
+17. 
+Llorente Pendás JL, Súarez Nieto C. Abordaje endoscópico de los tumores nasosinusales. 
+En: Avances, límites y retos de la cirugía endoscópica nasosinusal. Eds. S.A.U. Barcelona; 
+2012. p. 37-55. 
+18. 
+Acheson ED, Codwell RH, Hadfield E, Macbeth RG. Nasal cancer in the woodworkers in 
+the furniture industry. Br Med J 1968; 2: 587-596.
+19. 
+Acheson ED, Codwell RH, Jolles B. Nasal cancer in the Northhamptonshire boot and shoe 
+industry. Br Med J 1970;1: 385-393.
+20. 
+Zheng W, McLaughlin JK, Chow WH, Chien HT, Blot WJ. Risk factors for cancers of the
+nasal cavity and paranasal sinuses among white men in the United States. Am J Epidemiol 
+1993;138:965-972.
+21. 
+Fontana L, Liétin B, Catilina P, Devif C, Féneon B, Martin F, Mom T, Gilain L: Exposition
+professionnelle aux poussières de bois et cancers naso-sinusiens. Ann Otolaryngol Chir
+Cervicofac 2008;125:65-71.
+22. 
+DGUV. Deutsche Gesetzliche Unfallversicherung. Guidelines for occupational medical
+examination. Prophylaxis in occupational medicine. “Hardwood dust”. Gentner Verlag.
+2007 sept, p. 537-543.
+23. 
+The AGREE Research Trust. INSTRUMENTO AGREE II Versión en español. [Fecha de 
+última consulta 29/12/17]. Disponible en: http://www.guiasalud.es/contenidos/documentos/
+Guias_Practica_Clinica/Spanish-AGREE-II.pdf
+24. 
+Porro S, Mascagni P, Ferraioli E, Toffoletto F. Sorveglianza sanitaria negli esposti a polveri 
+di legno: utilità della valutazione della mucosa nasale. Ital Med Lav Erg 2007; 29:3.
+25. 
+Marcuccilli A, Perdrix A, Metras E, Costa Salute C, Gary Y, Saenz F, et al. Evaluation des
+symptômes et de la fonction respiratoire en relation avec les expositions aux poussières de 
+bois dans les ateliers de menuiseries industrielles. Arch Mal Prof 1998;59:305-14.
+26. 
+Choussy O, Ferron C, Védrine PO, Toussaint B, Liétin B, Marandas P, et al. Adenocarcino-
+ma of ethmoid: A GETTEC retrospective multicentric study of 418 case. Laryngoscope
+2008;118(3):437-43.
+27. 
+de Gabory L, Stoll D, Darrouzet V, Bébéar JP. Les adénocarcinomes de l’ethmoïde, étude
+rétrospective de 76 patients. En: XXXVIème Rapport de la Société Française de Carcino-
+logie Cervico-Faciale: Les tumeurs malignes du massif facial et des cavités naso-sinusien-
+nes. Fontanel JP, Klossek JM. EDK, Paris 2004:41-50.
+28. 
+Alvarez I, Suarez C, Rodrigo J.P, Nunez F, Caminero M.J. Pronostic factors in paranasal
+sinus cancer. Am J. Otolaryngol 1995;16(2):109-114.
+29. 
+Roux F.X, Pages J.C, Nataf F, Devaux B, Laccourreye O, Menard M, et al. Les tumeurs
+malignes ethmoïdo-sphénoïdales: Cent trente cas; étude rétrospective. Neurochirurgie
+1997;43:100-110.
+30. 
+Tiwari R, Hardillo JA, Tobi H, Mehta D, Karim ABMF, Snow G. Carcinoma of the eth-
+moid: results of treatment with conventional surgery and post-operative radiotherapy. Eur 
+J Surg Oncol 1999;25:401-5.
+31. 
+Knegt P, Ah-see K, vd Velden LA, Kerrebijn J. Adenocarcinoma of the ethmoid sinus com-
+plex: surgical debulking and topical fluorouracil may be the optimal treatment. Arch Oto-
+laryngol Head Neack Surg 2001;127:141-146.
+32. 
+Claus F, Boterberg T, Ost P, Huys J, Vermeersch H, Braems S, et al. Postoperative radio-
+therapy for adenocarcinoma of the ethmoid sinuses: treatment results for 47 patients. Int J 
+Radiat Oncol Biol Phys. 2002;54:1089-94.
+33. 
+Jegoux Fr, Ferron Ch, Malard G, Cariou O, Faure A, Beauvillain de Montreuil A. Adéno-
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+53
+carcinome de l’ethmoïde: expérience nantaise (80 cas). Place de la résection de la base du 
+crâne par voie trans-faciale. Ann Otolaryngol Chir cervicofac 2004;121(4): 213-21.
+34. 
+Percodani J, Rose X, Folia M, Woisard V, Uro-Coste E, Pessey JJ, et al. Les adénocarcino-
+mes de l’ethmoïde: à propos de 46 patients. F ORL 2005; 89:146-54.
+35. 
+Bogaerts S, Vander Poorten V, Nuyts S, Van den Bogeart W, Jorissen. Results of endoscopic 
+resection followed by radiotherapy for primarily diagnosed adenocarcinomas of the para-
+nasal sinuses. Head Neck 2008;30:728-736. 
+36. 
+De Gabory L, Maunoury A, Maurice-Tison S, Merza Abdulkhaleq H, Darrouzet V, Bébéar 
+JP, Stoll D. Long-term single-center results of management of ethmoid adenocarcinoma: 
+95 patients over 28 years. Ann Surg Oncol. 2010;17:1127-1134.
+37. 
+Ransom JH,Kavelkk. Diagnostic fiberoptic rhinolaryngoscopy. KansMed 1989 Apr;90(4): 
+105-115.
+38. 
+de Gabory L, Conso F, Krief P, Stoll D. Is ethmoidal adenocarcinoma screening in em-
+ployees exposed to wood dust justified? Rev Laryngol Otol Rhinol (Bord). 2008;129(4-
+5):219-26.
+39. 
+Mayr SI, Hafizovic K, Waldfahrer F, Iro H, Kütting B. Characterization of initial clinical 
+symptoms and risk factors for sinonasal adenocarcinomas: results of a case-control study. 
+Int Arch Occup Environ Health. 2010 Aug;83(6):631-8.
+40. Lechevalier P. Mise en place d’un protocole de surveillance médicale des salariés expo-
+sés aux poussières de bois inhalables dans un service interentreprises. Journées d’Autom-
+ne. Société de Médecine du Travail, d’hygiène Industrielle et d’Ergonomie de l’Ouest. 
+2003.
+41. 
+Brignon P. Tolérance de la nasofibroscopie: à propos des adénocarcinomes de l’ethmoïde. 
+Mémoire de médecine, 36 p, Lyon: 2006.
+42. 
+Nankivell PC, Pothier DD. Nasal and instrument preparation prior to rigid and flexible 
+nasendoscopy: asystematic review. J Laryngol Otol. 2008 Oct;122(10):1024.
+43. 
+Singh V, Brockbank MJ, Todd GB. Flexible transnasal endoscopy: is local anesthetic neces-
+sary? J Laryngol Otol 1997; 111: 616-18.
+44. 
+Corey GA, Rodney MM, Hocutt JE. Rhinolaryngoscopy by Family Physicians. J fam Pract. 
+1990;31(1):49-52.
+45. 
+Dewitt DE. Fiberoptic laryngoscopy primary care new direction for expanding office diag-
+nostics. Postgraduate Medicine. Oct 1988. 84 (5): 125-144.
+46. 
+Zarnitz P. Guidelines for Performing Fiberoptic Flexible Nasal Endoscopy and nasophary-
+ngolaryngoscopy on adults. ORL Head and Neck Nursing 2005,23(2): 13-18.
+47. 
+Lancer JM, Jones AS. Flexible fibreoptic rhinolaryngoscopy results of 338 consecutive exa-
+minations. J Laryngol Otol 1985;99(8): 771-3.
+48. 
+Luuduc D, Pineau L, Desbuquois C. L’endoscopie flexible stérilisable, une réalité. Hygie-
+nes 2004;XII(1):70-72.
+49. 
+Conlin AE, McLean L. Systematic review and meta-analysis assessing the effectiveness of 
+local anesthetic, vasoconstrictive, and lubricating agents in flexible fibre-optic nasolaryn-
+goscopy. J Otolaryngol Head NeckSurg. 2008 Apr;37(2):240-9.
+50. 
+Leroux-Robert J: Les cancers de l’ethmoïde chez les travailleurs du bois. Cahiers d’O.R.L. 
+1974; 9(6):585-93.
+51. 
+Urso C, Ninu MB, Franchi A, Paglierani M, Bondi R. Intestinal-type adenocarcinoma of 
+the sinonasal tract: a clinicopathologic study of 18 cases. Tumori 1993; 79:205-210.
+52. 
+Moreau JJ, Bessede JP, Heurtebise F, Moufid A, Veysset P, Sauvage JP, et al. Adenocarci-
+nome de l’ethmoïde chez les travailleurs du bois. Etude rétrospective de 25 cas. Neurochi-
+rurgie 1997;43(2):111-7.
+53. 
+Stoll D, Bébéar JP, Truilhé Y, Darrouzet V, David N. Les adénocarcinomes de l’ethmoïdes: 
+étude rétrospective de 76 patients. Rev Laryngol Otol Rhinol 2001;122:21-24.
+54. 
+Choussy O, Lerosey Y, Marie JP, Dhermain F, Seng SH, François A, Andrieu-Guitrancourt 
+J, Dehesdin D. Les adénocarcinomes de l’ethmoïde «expérience rouennaise» et mise au 
+point. Ann Otolaryngol Chir Cervicofac, 2001, 118, 3: 156-164
+
+54
+SANIDAD
+55.	
+Sy A, Marandas P, Hartl F, Janot F, Julieron M, Kolb F, Leridant AM, Mamelle G, Faivre 
+S, Schilf A, Luboinski B. Les adénocarcinomes de l’ethmoïde, à propos d’une série de 76 
+patients traités à l’Institut Gustave Roussy de 1983 à 1999. En: XXXVIème Rapport de la 
+Société Française de Carcinologie Cervico-Faciale: Les tumeurs malignes du massif facial 
+et des cavités naso-sinusiennes. Fontanel JP, Klossek JM. EDK, Paris 2004:31-40.
+56.	
+Dutreuil-David N. Adénocarcinome de l’ethmoïde, étude rétrospective de 63 patients. 
+Thèse 3020, Université Victor Ségalen Bordeaux 2, U.F.R. des sciences médicales, Juin 
+1999.
+57.	
+George B, Salvan D, Luboinski B, Boissonnet H, Lot G. Tumeurs malignes de l’ethmoïde. 
+Série homogène de 41 cas opérés par voie mixte. Neurochirurgie 1997;43:121-124.
+58.	
+De Gabory L, Maunoury A, Maurice-Tison S, Merza Abdulkhaleq H, Darrouzet V, Bébéar 
+JP, Stoll D. Longterm Results of One-Center Management of Ethmoid Adenocarcinoma: 
+95 patients over 28 years. Ann surg Oncol 2010, Oncol Lett. Oct 2013; 6(4): 1007–1010. 
+59.	
+Roux FX, Behm E, Page P, Laccourreye O, Pages JC, Brasnu D. Adenocarcinoma of the 
+ethmoid sinus. Epidemiologic data. Ann Otolaryngol Chir Cervicofac 2002;119(5):271-80.
+60.	 Carton M, Goldberg M, Luce D. Exposition professionnelle aux poussières de bois. 
+Effets sur la santé et valeurs limites d’exposition. Rev Epidemiol Sante Publique. 
+2002;50(2):159-78.
+61.	
+Demers PA, Boffetta P, Kogevinas M, Blair A, Miller BA, Robinson CF, et al. Pooled 
+reanalysis of cancer mortality among five cohorts of workers in wood-related industries. 
+Scand J Work Environ Health 1995a; 21: 179-190.
+62.	
+Demers PA, Kogevinas M, Boffeta P, Leclerc A, Luce D, Gérin M, et al. Wood dust and 
+sino-nasal cancer: Pooled reanalysis of twelve case-control studies. Am J Ind Med 1995b; 
+28: 151-166.
+63.	
+De Gabory L, Conso F, Barry B, Stoll D. La carcinogenèse de l’adénocarcinome de l’eth­
+moïde aux poussières de bois. Rev Laryngol Otol Rhinol 2009, 130(2):75-86.
+64.	
+Friberg S, Mattson S. On the growth rates of human malignant tumors: implications for 
+medical decision making. J Surg Oncol. 1997 Aug;65(4):284-97. 
+65.	
+HAS. Que reste-t-il de la radio standard du massif facial (sinus et face)? Fiche «Bon usage 
+des technologies médicales». 2008.
+66.	
+McAllister WH, Lusk R, Muntz HR. Comparison of plain radiographs and coronal CT: 
+scans in infants and children with recurrent sinusitis. AJR 1989;153:1259-1264.
+67.	
+Laranne JE, Penttila MA, Paakkala, Pukander JS,Karma PH. Diagnostic value of plain 
+radiographs in chronic maxillary sinusitis: a comparison between radiological and endos­
+copic findings in 75 patients. Rhinology 1992;30:205-215.
+68.	
+Ferrié JC, Martin-Duverneuil N, Dufour X, Klossek JM. Place de l’imagerie dans le bilan 
+préthérapeutique et la surveillance post-thérapeutique des tumeurs du massif facial. J Ra­
+diol 2008; 89:984-97.
+69.	
+Duvoisin B, Agrifolio A. Prevalence of ethmoid sinus abnormalities on brain CT of asymp­
+tomatic adults. Am J Neuroradiol 1989; 10(3):599-601.
+70.	
+Havas TE, Motbey JA, Gullane PJ. Prevalence of incidental abnormalities on computed 
+tomographic scans of the paranasal sinuses. Arch Otolaryngol Head Neck Surg 1988; 
+114(8):856-9.
+71.	
+Llyod GA. CT of paranasal sinuses: study of a control series in relation to endoscopic sinus 
+surgery. J Laryngol Otol 1990 Jun;104(6):477-81.
+72.	
+Som PM, Lawson W, Biller H, Lanzieri C. Ethmoid sinus disease: CT evaluation in 400 
+cases. Part I. Nonsurgical patients. Radiology 1986;159:591-97.
+73.	
+Kondo M, Horiuchi M, Shiga H. Computed tomography of malignant tumors of the nasal 
+cavity and paranasal sinuses. Cancer. 1982;50(2):226–231.
+74.	
+Lamoral Y, Lemahieu SF, Vrielinck L. The role of CT in the diagnosis of adenocarcinoma 
+of the ethmoid. J Belge Radiol 1990;73(4):273-7.
+75.	
+Petit P, Vivarrat-Perrin L, Champsaur P, Juhan V, Chagnaud C, Vidal V et al. Radiological 
+follow-up of inverted papilloma. Eur Radiol 2000;10:1184-1189.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+55
+76.	
+Hojreh A, Czerny C, Kainberger F. Dose classification scheme for computed tomography 
+of the paranasal sinuses. Eur J Radio 2005 Oct;56(1):31-37.
+77.	
+Cagici CA, Cakmak O, Hurcan C, Tercan F. Three-slice computerized tomography for the 
+diagnosis and follow-up of rhinosinusitis. Eur Arch Otorhinolaryngol 2005;262:744-750.
+78.	
+Sohaib SA, Peppercorn PD, Horrocks JA, Keene MH, Kenyon GS, Reznek RH. The effect 
+of decreasing mAs on image quality and patient dose in sinus CT. Br J Radiol 2001;74:157-
+161.
+79.	
+Hagtvedt T, Aaløkken TM, Nøtthellen J, Kolbenstvedt A: A new low-dose CT exami­
+nation compared with standard-dose CT in the diagnosis of acute sinusitis. Eur Radiol 
+2003;13:976-980.
+80.	
+Lanzieri CF, Shah M, Krauss D, Lavertu P. Use of gadolinium-enhanced MR ima­
+ging for differentiating mucoceles from neoplasms in the paranasal sinuses. Radiology 
+1991;178:425-428.
+81.	
+Lund VJ, Howard DJ, Lloyd GA, Cheesman AD. Magnetic resonance imaging of paranasal 
+sinus tumors for craniofacial resection. Head Neck 1989 May-Jun;11(3):279-83.
+82.	
+Som PM, Dillon WP, Sze G, Lidov M, Biller H, Lawson W. Benign and malignant sino­
+nasal lesions with intracranial extension: differentiation with MR imaging. Radiology 
+1989;172:763-66.
+83.	
+Llyod GA. Magnetic resonance imaging of the nose and paranasal sinuses. J Royal Soc 
+Med 1989;82:84-87.
+84.	
+Llyod GA, Lund VJ, Howard D, Lloyd S. Optimum imaging for sinonasal malignancy. J 
+Laryngol Otol 2000 July 114:557-562.
+85.	
+Chong VFH, Fan YF. Comparison of CT and MRI features in sinusitis. Eur J Radiol 
+1998;29:47-54.
+86.	
+Zinreich SJ, Kennedy DW, Kumar AJ, Rosembaum AE, Arrington JA, Johns ME. MR ima­
+ging of normal nasal cycle: comparison with sinus pathology. J Comput Assist Tomograph 
+1988;12:1014-1019.
+87.	
+Kennedy DW, Zinreich SJ, Kumar AJ, Rosembaum AE, Johns ME. Physiological mucosal 
+changes within the nose and ethmoid sinus: imaging of the nasal cycle by MRI. Laryngos­
+cope 1988;98(9):928-33.
+88.	
+Som PM, Dillon WP, Fullerton G, Zimmerman R, Rajagopalan B, Marom Z. Chronica­
+lly obstructed sinonasal secretions: observations on T1 and T2 shortening. Radiology 
+1989;172:515-20.
+89.	
+Som PM, Shapiro MD, Biller HF, Sasaki C, Lawson W. Sinonasal tumors and inflammatory 
+tissues: differentiation with MR imaging. Radiology 1988 Jun;167(3):803-8.
+90.	
+Sievers KW, Greess H, Baum U, Dobritz M, Lenz M. Paranasal sinuses and nasopharynx 
+CT and MRI. Eur J Radiology 2000;33:185-202.
+91.	
+Maroldi R, Ravanelli M, Borghesi A, Farina D: Paranasal sinus imaging. Eur J Radiol 
+2008;66:372-386.
+92.	
+Tripodi D, Quéméner S, Renaudin K, Ferron C, Malard O, Guisle-Marsollier I, et al. Gene 
+expression profiling in sinonasal adenocarcinoma. BMC Med Genomics. 2009 Nov 10;2:65.
+93.	
+Holmila R. Exposure-related human cancer: Molecular changes in sinonasal cancer and 
+lung cancer, with focus on TP53 mutations. Finnish Institute for Occupational Health; 
+2010. People and Work Research Reports 91.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+57
+Anexo I
+Evaluación de la guía mediante el instrumento 
+Agree II
+Dominios
+%
+Alcance y objetivos
+91,1
+Participación de los implicados
+91,1
+Rigor en la elaboración
+60,9
+Claridad de presentación
+88,9
+Aplicabilidad
+41,7
+Independencia editorial
+53,3
+Evalua
+ción 
+de la
+ guía
+ medi
+ante
+ el ins
+trumento Ag
+ree II
+Calidad global de la guía (sobre una puntuación máxima de 7)
+4,2
+Recomendación sobre el uso de la guía
+La totalidad de los evaluadores recomiendan la guía con modificaciones re­
+lativas al rigor en la elaboración. Se destaca el valor del consenso logrado 
+en relación a las recomendaciones y el procedimiento para lograrlo, pero 
+se incide en las carencias respecto a la evaluación crítica de la evidencia, de 
+la que no se acredita el modo en que se ha realizado, y la falta de tablas de 
+evidencia que permitan sintetizar los resultados de los estudios incluidos. La 
+
+58
+SANIDAD
+aplicabilidad se muestra como la mayor debilidad de esta guía, en la medida 
+en que no concreta el modo en que las recomendaciones van a llevarse a la 
+práctica en el contexto del seguimiento de la salud de las personas trabaja­
+doras, aunque se sabe que derivado de su publicación se ha puesto en mar­
+cha el proyecto CERBOIS, que busca evaluar los resultados de su aplicación 
+en población expuesta.
+Características de la guía
+Título: Recommandations pour la surveillance médico-professionnelle des travailleurs ex­
+posés à l´effet cancérigène des poussières de bois.16
+Organización:  Promotor: Société française de médecine du travail (SFMT).
+	
+Colaboración: Société Française du Cancer (SFC), Société Française 
+d’Oto-rhino-laryngologie (SFORL), Société Française de Santé Publique (SFSP), Société 
+francophone d’Imagerie Tête et Cou (Collège d’Imagerie pour la Recherche et l’Enseigne­
+ment en ORL: CIREOL).
+Fecha de publicación: 2011. 
+Población, contexto de aplicación: Personas trabajadoras expuestas a polvo de ma­
+dera. Francia.
+Dirigida a: médicos y personal sanitario que intervienen en la prevención primaria y secun­
+daria de enfermedades derivadas de la exposición al polvo de madera.
+Financiación: La SFMT asume los gastos relativos a la organización de las reuniones de 
+trabajo. 
+Aspectos metodológicos: Las recomendaciones han recibido el lábel conjunto HAS – 
+INCa, que significa que se han elaborado siguiendo los procedimientos y reglas metodoló­
+gicas preconizadas por estas dos instituciones.
+El método elegido es el de “consenso formalizado de expertos”, que es uno de los uti­
+lizados por la Haute Autorité de Sante (HAS) para la elaboración de “recomendaciones 
+de buena práctica”. Se basa, por una parte, en el análisis y síntesis crítica de la literatura 
+médica disponible, y, de otra, en el asesoramiento de un grupo multidisciplinar de profe­
+sionales a los que concierne el tema de las recomendaciones. Esta elección se ha hecho 
+en el contexto del escaso número de referencias bibliográficas disponibles sobre el tema.
+Consenso formalizado de expertos. 2 fases: 
+1ª fase:
+—  Grupo de pilotaje: búsqueda bibliográfica, lectura crítica, listado de proposiciones para 
+el grupo de cotejo. Hasta julio de 2007.
+—  Grupo de cotejo: Primera valoración individual sobre un cuestionario enviado por el gru­
+po de pilotaje en base al trabajo de este primer grupo. Segunda valoración, en grupo, 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+59
+basado en los resultados del primero. Resultado: consenso de recomendaciones, que 
+se envía al grupo de pilotaje, que lo envía posteriormente al de lectura. De julio de 2007 
+a enero de 2008.
+—  Grupo de lectura: Grupo más numeroso y más heterogéneo, que incluye a diversas es­
+pecialidades médicas e incluso a representantes de los trabajadores y las trabajadoras. 
+Consenso basado en el logrado por el grupo de cotejo. De enero a marzo de 2008.
+—  Envío a HAS para su acreditación.
+2ª fase:
+—  Grupo de pilotaje: Cambios derivados de las correcciones recomendadas por HAS. 
+Septiembre de 2009.
+—  Grupo de cotejo: Nueva valoración sobre las recomendaciones derivadas del trabajo 
+del grupo de pilotaje. Octubre de 2009.
+—  Grupo de lectura: Nuevo consenso basado en el trabajo de los grupos anteriores. De 
+octubre de 2009 a enero de 2010.
+—  En la fase final, dos observadores de HAS estuvieron presentes para ayudar en cues­
+tiones metodológicas.
+—  No dispone de tablas de evidencia.
+Búsqueda: Medline, INRS (Institut national de recherche et de sécurité), DRTEFP (Direc­
+tion Régionale du Travail, de l’Emploi et de la Formation Professionnelle), BIUM (bibliothè­
+que interuniversitaire de médecine), Bibliothèque ASITEST du Centre Anti-Poison de Paris, 
+(l’hôpital Fernand Widal), Bibliothèque du Centre Technique du Bois et de l’Ameublement, 
+Bibliothèque de l’Organisme Professionnel de Prévention du Bâtiment et des Travaux Pu­
+blics (OPPBTP), Bibliothèque de l’Association Paritaire de Santé au Travail du Bâtiment et 
+des Travaux Publics de la Région Parisienne (APST-BTP-RP), Thèses et mémoires de mé­
+decine du travail (Paris, Lyon). Fecha: 1980 a 2007 para artículos en francés y 1993 a 2007 
+para artículos en inglés (posteriores a la publicación de la monografía IARC nº 62). Se rea­
+liza actualización de la bibliografía en las bases Medline, INRS y BIUM entre 2007 y 2010.
+Niveles de evidencia y grados de recomendación: según la clasificación propuesta 
+por la HAS (ANAES 2000)
+Niveau de preuve scientifique fourni par 
+la littérature
+Grade des recommandations
+Niveau 1
+-  Essais comparatifs randomisés de forte 
+puissance
+-  Méta-analyse d’essais comparatifs 
+randomisés
+-  Analyse de décision basée sur des 
+études bien menées
+A
+Preuve scientifique établie
+
+60
+SANIDAD
+Niveau de preuve scientifique fourni par 
+la littérature
+Grade des recommandations
+Niveau 2
+-  Essais comparatifs randomisés de faible 
+puissance
+-  Etudes comparatives non randomisées 
+bien menées
+-  Etude de cohorte
+B
+Présomption scientifique
+Niveau 3
+-  Etude cas-témoin
+Niveau 4
+-  Etudes comparatives comportant des 
+biais importants
+-  Etudes rétrospectives
+-  Etudes épidémiologiques descriptives 
+(transversale, longitudinale)
+-  Etude de cas clinique
+C
+Faible niveau de preuve scientifique
+Método para formular recomendaciones: consenso formalizado de expertos.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+61
+Anexo II
+Estrategia de búsqueda
+Palabras clave utilizadas: nasal cancer, nose neoplasms, paranasal sinus neo­
+plasms, ethmoidal adenocarcinoma, dust, mass screening, screenig tool, mag­
+netic resonance imaging, early symptoms, early diagnosis, early detection of 
+cancer, radiography, tomography, X-Ray computed, imaging X-Ray, fibrosco­
+py, endoscopy (242685), tumor markers biological, molecular markers.
+Límites de búsqueda: fecha de publicación hasta segunda semana de abril 
+de 2013.
+Estrategia de búsqueda específica en PubMed:
+  1.	
+nasal cancer.mp. or exp Nose Neoplasms/
+  2.	
+exp Paranasal Sinus Neoplasms/ or ethmoidal adenocarcinoma.mp. 
+  3.	
+1 or 2 
+  4.	
+exp Dust/ or dust.mp. 
+  5.	
+3 and 4 
+  6.	
+exp Mass Screening/ or SCREENING TOOL.mp. 
+  7.	
+exp Magnetic Resonance Imaging/ or MRI.mp. 
+  8.	
+“EARLY SYMPTOMS”.mp. 
+  9.	
+exp Early Diagnosis/ or exp “Early Detection of Cancer”/ 
+10.	
+exp Radiography/ or exp Tomography, X-Ray Computed/ or IMA­
+GING X-RAY.mp. 
+11.	
+FIBROSCOPY.mp. 
+12.	
+exp Endoscopy/ 
+13.	
+exp Tumor Markers, Biological/ or MOLECULAR MAKERS.mp. 
+14.	
+6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 
+15.	
+5 and 14 
+Total referencias: 21
+Estrategia de búsqueda específica en EMBASE:
+  1.	
+nasal cancer.mp. or exp Nose Neoplasms/ 
+  2.	
+exp Paranasal Sinus Neoplasms/ or ethmoidal adenocarcinoma.mp. 
+  3.	
+1 or 2 
+
+62
+SANIDAD
+  4.	
+exp Dust/ or dust.mp. 
+  5.	
+3 and 4 
+  6.	
+exp Mass Screening/ or SCREENING TOOL.mp. 
+  7. 	 exp Magnetic Resonance Imaging/ or MRI.mp. 
+  8.	
+“EARLY SYMPTOMS”.mp. 
+  9.	
+exp Early Diagnosis/ or exp “Early Detection of Cancer”/ 
+10.	
+exp Radiography/ or exp Tomography, X-Ray Computed/ or IMA­
+GING X-RAY.mp. 
+11.	
+FIBROSCOPY.mp. 
+12.	
+exp Endoscopy/ 
+13.	
+exp Tumor Markers, Biological/ or MOLECULAR MAKERS.mp. 
+14.	
+6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 
+15.	
+5 and 14 
+Total referencias: 21
+Estrategia de búsqueda específica en NIOSHTIC:
+wood dust AND cancer OR neoplasm
+Total referencias: 4
+Estrategia de búsqueda específica en DART-Europe E-theses Portal: 
+wood dust AND cancer OR neoplasm
+Total referencias: 3
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+63
+Diagrama de flujo
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+65
+Anexo III
+Tablas de guías y de evidencias, y fichas 
+de elaboración de las recomendaciones
+Pregunta 1: ¿Se debe utilizar la anamnesis de síntomas precoces 
+para el screening del adenocarcinoma de fosas nasales y senos 
+paranasales en personas trabajadoras expuestas a polvo de madera?
+Tabla de Guías
+Guía (Enfoque de la pregunta)
+Recommandations pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)
+Evidencia (nivel)
+Las manifestaciones clínicas iniciales de carcinoma del seno nasal son, en orden decreciente, 
+de tipo rinológico, oftalmológico, neurológico y meníngeo, y excepcionalmente metastásico.
+Los síntomas más comunes relacionados con el diagnóstico de los carcinomas de fosas 
+nasales y senos paranasales son la obstrucción nasal, la rinorrea seropurulenta unilateral y 
+las epistaxis repetidas homolaterales. Reparar en el carácter unilateral de la sintomatología 
+y en la persistencia de una obstrucción nasal que antes no existía o en el empeoramiento 
+de síntomas nasosinusales ya conocidos podría ser útil para el abordaje diagnóstico. Pero 
+la naturaleza inespecífica, banal de estos síntomas, que a veces no difieren de los de una 
+irritación leve, contribuye de manera muy importante a que no sean tenidos en cuenta como 
+señal de alerta, lo que determina el retraso de la primera consulta y del diagnóstico. Uniendo 
+estas circunstancias a la aparición tardía de esta sintomatología, se explica la baja proporción 
+de tumores diagnosticados en estadios iniciales T1/T2, es decir, de aquellos que disfrutarían 
+de un pronóstico mucho más favorable.
+Series de casos (Nivel 3)
+Recomendación (grado)
+Se recomienda realizar una búsqueda de signos funcionales otorrinolaringológicos 
+(obstrucción nasal persistente, epistaxis, etc.) en el contexto de la vigilancia de la salud de 
+personas trabajadoras, teniendo en cuenta que su especificidad es mayor si los mismos son 
+unilaterales y si existe un empeoramiento progresivo. 
+Sin embargo, el diagnóstico no puede basarse únicamente en estas señales, dado su 
+carácter tardío y no específico.
+(Recomendación basada en consenso de expertos a partir de un razonamiento deductivo)
+
+66
+SANIDAD
+Referencias bibliográficas (tipo de publicación)
+Choussy, 2008 (estudio retrospectivo multicéntrico)
+De Gabory, 2004 (serie de casos) Marcucilli, 1998 (caso control) Alvarez, 1995 (serie de 
+casos) Roux, 1997(serie de casos) Tiwari, 1999 (serie de casos) Knegt, 2001 (serie de casos) 
+Claus, 2002 (serie de casos) Jegoux, 2004 (serie de casos) Percodani, 2005 (serie de casos) 
+Bogaerts, 2008 (serie de casos) De Gabory, 2010 (serie de casos) 
+Comentarios
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de estas recomendaciones. 
+La valoración sobre si vale la pena realizar una determinada prueba en el marco de un 
+screening se basa en un razonamiento deductivo. 
+Esta Guía cuenta con el aval de haber sido desarrollada mediante un proceso de consenso 
+formalizado explícito.
+Este consenso ha dado lugar a la puesta en marcha del estudio CERBois (Cohorte 
+d’Evaluation des Recommandations Bois) por parte de la Sociedad Francesa de Medicina 
+del Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy que tiene como objetivo 
+principal evaluar la viabilidad de las recomendaciones recogidas en la Guía.
+Formulación de Recomendaciones: Juicio Razonado
+1. Volumen de la evidencia 
+La evidencia directa sobre la efectividad de las diferentes pruebas que se 
+proponen para el screening del cáncer de fosas nasales y senos paranasales 
+es muy limitada. El proceso de búsqueda, evaluación y síntesis sólo arroja un 
+resultado que permite trabajar esta pregunta.
+Los autores de la guía de “Recommandations pour la surveillance mé­
+dico-professionnelle des travailleurs exposés à l´effet cancérigène des pous­
+sières de bois (2011)6”, cuyo promotor es la Sociedad Francesa de Medicina 
+del Trabajo, utilizan evidencia indirecta para emitir recomendaciones para el 
+screening del cáncer de fosas nasales y senos paranasales en personas traba­
+jadoras expuestas a polvo de madera. Estas recomendaciones se basan en un 
+razonamiento deductivo y cuentan con el aval de haber sido desarrolladas 
+mediante un proceso de consenso formalizado explícito. 
+2. Aplicabilidad y posibilidad de generalización
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de las 
+recomendaciones, pero el consenso logrado en Francia en base a evidencias 
+indirectas ha dado lugar a la puesta en marcha del estudio CERBois (Co­
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+67
+horte d’Evaluation des Recommandations Bois) por parte de la Sociedad 
+Francesa de Medicina del Trabajo y el CHU (Centre Hospitalier Universi­
+taire) de Nancy. 
+CERBois es un estudio de cohorte observacional, multicéntrico que 
+tiene como objetivo principal evaluar la viabilidad de las “Recommanda­
+tions pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)6” en relación a la vigilancia 
+médica de personas trabajadoras activas asintomáticas y la aceptación por 
+parte de las mismas de la realización de la nasofibroscopia en dicho contex­
+to. El estudio finalizará la recogida de datos durante el año 2015, lo que le 
+permitirá revisar las recomendaciones dadas y proporcionar una actualiza­
+ción de las mismas en el año 2016. 
+Los trabajadores y las trabajadoras francesas, italianas y españolas 
+expuestos a polvo de madera no presentan diferencias sustanciales entre 
+ellas, aplican procedimientos de trabajo muy similares y están sometidos a 
+las mismas Directivas Comunitarias en relación a la seguridad y de la salud 
+en el trabajo. Los procedimientos de screening propuestos son igualmente 
+aplicables en estos países; la técnica es similar en ambos y su interpretación, 
+también. Es decir, la población y el contexto que interesan son similares, 
+por lo que las recomendaciones actuales y las que se deriven de la fina­
+lización del estudio CERBois pueden ser aplicables a nuestra población 
+trabajadora.
+3. Consistencia
+La guía de “Recommandations pour la surveillance médico-professionnelle 
+des travailleurs exposés à l´effet cancérigène des poussières de bois (2011)6” 
+parte de una revisión de la literatura en la que se indican las fuentes biblio­
+gráficas a las que se ha acudido a buscar la evidencia, pero cuya lectura crí­
+tica no queda suficientemente acreditada. Los autores refieren haberla rea­
+lizado y haber asignado los niveles de evidencia propuestos por la ANAES 
+(Agence Nationale d’Accréditation et d’Évaluation en Santé) francesa el 
+año 2000. Si bien la graduación de las recomendaciones es acorde a dichos 
+niveles de evidencia, los autores no son explícitos en relación al tratamiento 
+que dan a los artículos obtenidos en la búsqueda bibliográfica que realizan. 
+Se detallan las fuentes y los términos utilizados en la búsqueda bibliográfica, 
+pero los autores no explican el proceso de elección de los artículos incluidos, 
+ni los criterios de inclusión y exclusión aplicados. No se explica el proceso 
+de lectura crítica realizada, métodos o plantillas utilizadas, ni tampoco se 
+proporcionan tablas de evidencia que sinteticen la información de los artícu­
+los estudiados. La presentación de los hallazgos adopta una forma narrativa 
+
+68
+SANIDAD
+y los resultados no se presentan en términos de sensibilidad, especificidad, 
+valores predictivos, etc. en relación a un patrón de oro, y tampoco es posible 
+su cálculo. La base de las recomendaciones se encuentra en el consenso de 
+expertos a partir de un razonamiento deductivo. 
+4. Impacto Clínico
+Las manifestaciones clínicas iniciales del carcinoma de fosas nasales y se­
+nos paranasales son, en orden decreciente, de tipo rinológico, oftalmológico, 
+neurológico y meníngeo, y excepcionalmente metastásico.
+Los síntomas más comunes relacionados con el diagnóstico de los car­
+cinomas de fosas nasales y senos paranasales son la obstrucción nasal, la 
+rinorrea purulenta unilateral y las epistaxis repetidas homolaterales. Repa­
+rar en el carácter unilateral de la sintomatología y en la persistencia de una 
+obstrucción nasal que antes no existía o en el empeoramiento de síntomas 
+nasosinusales ya conocidos podría ser útil para el abordaje diagnóstico. Pero 
+la naturaleza inespecífica, banal de estos síntomas, que a veces no difieren 
+de los de una irritación leve, contribuye de manera muy importante a que 
+no sean tenidos en cuenta como señal de alerta, lo que determina el retraso 
+de la primera consulta y del diagnóstico. Uniendo estas circunstancias a la 
+aparición tardía de esta sintomatología, se explica la baja proporción de tu­
+mores diagnosticados en estadios iniciales T1/T2, es decir, de aquellos que 
+disfrutarían de un pronóstico mucho más favorable.
+Así pues, el diagnóstico no puede basarse únicamente en estas señales, 
+dado su carácter tardío y no específico.
+5. Otros factores
+La puesta en marcha del estudio CERBois (Cohorte d’Evaluation des Re­
+commandations Bois), por parte de la Sociedad Francesa de Medicina del 
+Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy, con el ob­
+jetivo de evaluar la viabilidad de las “Recommandations pour la surveillan­
+ce médico-professionnelle des travailleurs exposés à l´effet cancérigène des 
+poussières de bois (2011)” dará lugar a la revisión de las recomendaciones 
+de esta guía y a proporcionar una actualización de las mismas en el año 2016.
+Los datos derivados de la aplicación de estas recomendaciones en 
+nuestro contexto podrían añadirse a los obtenidos en Francia, dando lugar a 
+una valoración más amplia de los mismos, derivada del número de personas 
+trabajadoras incluidas en el despistaje.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+69
+6. Grado de evidencia
+No existe, a día de hoy, evidencia directa sobre la utilidad de 
+las diferentes pruebas propuestas en relación con el scree­
+ning del cáncer de cavidades nasales y paranasales. La evi­
+dencia con la que se cuenta es indirecta y las recomendacio­
+nes se basan en un razonamiento deductivo.
+Los signos funcionales no son específicos, son muy va­
+riados, banales, tardíos y no sirven en sí para el diagnóstico 
+precoz. Sin embargo, existen 2 signos de alerta que pueden re­
+sultar útiles, la afectación unilateral (obstrucción nasal y epis­
+taxis) y la persistencia de una obstrucción nasal que no existía 
+previamente o el agravamiento de síntomas ya conocidos25-36.
+Se trata de evidencia derivada de estudios descriptivos, 
+en general series de casos, a partir de los cuales se determina 
+que la anamnesis de síntomas precoces, que ha sido el modo 
+habitual de descubrimiento de adenocarcinomas de fosas 
+nasales y senos paranasales, revela la existencia de este tipo 
+de tumores en una fase avanzada de la enfermedad25-36. 
+7. Recomendaciones
+Se recomienda realizar una búsqueda de signos funcionales 
+otorrinolaringológicos (obstrucción nasal persistente, epis­
+taxis, etc.) en el contexto de la vigilancia de la salud de las 
+personas trabajadoras, teniendo en cuenta que su especifi­
+cidad es mayor si los mismos son unilaterales y si existe un 
+empeoramiento progresivo. Sin embargo, el diagnóstico no 
+puede basarse únicamente en estas señales, dado su carácter 
+tardío y no específico.
+Nivel de 
+evidencia
+4
+3
+D
+
+70
+SANIDAD
+Pregunta 2: ¿Se debe utilizar la nasofibroscopia de síntomas precoces para el screening del adenocarcinoma de 
+fosas nasales y senos paranasales en personas trabajadoras expuestas a polvo de madera?
+Tabla de Guías
+Guía (Enfoque
+de la pregunta)
+Evidencia (nivel)
+Recomendación (grado)
+Referencias 
+bibliográficas (tipo 
+de publicación)
+Comentarios
+Recommandations 
+pour la surveillance 
+médico-professionnelle 
+des travailleurs 
+exposés à l´effet 
+cancérigène des 
+poussières de bois 
+(2011)
+La rinoscopia anterior con espéculo de Clark no 
+puede acceder a ver más que el tercio anterior 
+de la cavidad nasal. Se abandonó como técnica 
+en la búsqueda de un síndrome obstructivo 
+unilateral a favor del nasofibroscopia. La 
+rinoscopia posterior es una técnica obsoleta.
+A la hora de detectar un adenocarcinoma 
+nasosinusal, y debido a las características 
+de este tipo de tumores, la nasofibroscopia 
+presenta una serie de ventajas frente a otras 
+técnicas. Las formas endosinusales estrictas de 
+estos tumores son muy poco probables, hay 
+una ausencia de barrera anatómica entre las 
+cavidades nasales y paranasales, las lesiones 
+tienen una naturaleza vegetativa y exotípica, y 
+presentan una propensión a ocupar el espacio 
+aéreo endonasal libre. Su importancia se ve 
+reforzada por el reciente conocimiento de 
+la ubicación de la base de implantación de 
+adenocarcinoma.
+La nasofibroscopia tiene la ventaja de permitir un 
+acceso directo para la vista de los cornetes, el 
+meato medio, la hendidura olfativa y los espacios 
+posteriores de la cavidad nasal. 
+Opinión de expertos (nivel 4)
+Se recomienda la realización 
+de nasofibroscopia inicial a 
+las personas trabajadoras 
+cuya primera exposición al 
+polvo de madera se produjo 
+30 años antes.
+Durante ese periodo tendrían 
+que haber estado expuestos 
+un mínimo de 12 meses 
+en tareas de mecanizado 
+(aserrado, fresado, 
+cepillado, perforación, 
+trituración) o en cualquier 
+otra actividad en la que se 
+documente una exposición a 
+concentraciones de polvo de 
+madera superior a 1 mg/m3 
+durante 8 h/día.
+Se recomienda la realización 
+de una nasofibroscopia 
+periódica cada dos años.
+(Recomendación basada en 
+consenso de expertos)
+Ransom, 1989 
+(opinión experto) 
+De Gabory, 2008 
+(revisión) DGUV, 
+2007 (guía) Mayr, 
+2010 (caso-control) 
+Lechevalier, 2003 
+(opinión experto)
+No existe evidencia directa 
+sobre la efectividad, eficacia 
+o eficiencia de estas 
+recomendaciones. 
+La valoración sobre si 
+vale la pena realizar una 
+determinada prueba en el 
+marco de un screening se 
+basa en un razonamiento 
+deductivo. 
+Esta Guía cuenta con el aval 
+de haber sido desarrollada 
+mediante un proceso de 
+consenso formalizado 
+explícito.
+Este consenso ha dado 
+lugar a la puesta en marcha 
+del estudio CERBois 
+(Cohorte d’Evaluation des 
+Recommandations Bois) 
+por parte de la Sociedad 
+Francesa de Medicina del 
+Trabajo y el CHU (Centre 
+Hospitalier Universitaire) 
+de Nancy que tiene 
+como objetivo principal 
+evaluar la viabilidad de las 
+recomendaciones recogidas 
+en la Guía.
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+71
+Guía (Enfoque
+de la pregunta)
+Evidencia (nivel)
+Recomendación (grado)
+Referencias 
+bibliográficas (tipo 
+de publicación)
+Comentarios
+Además, se trata de una técnica simple y 
+rápida (menos de 5 minutos de exploración), 
+atraumática e indolora en ausencia de anomalías 
+anatómicas (1% de la población), no irradiante, 
+barata y fácilmente disponible en la consulta 
+especializada.
+Metaanálisis de ensayos clínicos aleatorios
+(nivel 1+)
+Sin embargo, aún no se han evaluado su 
+sensibilidad y especificidad en el contexto de 
+un screening. De todos modos, cumple con la 
+mayor parte de los criterios que se requieren para 
+este tipo de exploraciones.
+Opinión de expertos(Nivel 4)
+Brignon, 2006 
+(transversal) 
+Conlin,2008 
+(metaanálisis) 
+Nankivell, 2008 
+(revisión sistemática) 
+Singh, 1997 
+(intervención) Corey, 
+1990 (transversal) 
+Dewitt, 1988 
+(encuesta de 
+satisfacción) Zarnitz, 
+2005 (guía) Lancer, 
+1985 (transversal) 
+Luuduc, 2004 (carta 
+al director)
+A partir de los datos derivados de estudios de 
+series de casos se observa que la edad media 
+en el momento del diagnóstico es de 60 años y 
+que sólo el 10% de la población afectada tiene 
+menos de 50 años. 
+La latencia promedio es de 40 años, pero a 
+día de hoy no es posible saber si depende 
+de la dosis y de la duración de la exposición. 
+Parece que por encima del año de exposición 
+es posible desarrollar este tipo de tumor con 
+el mismo periodo de latencia que en el caso 
+de una exposición más larga. Más del 90% de 
+los afectados estuvieron expuestos a polvo de 
+madera por un periodo superior a los 5 años.
+Series de casos (nivel 3) 
+Leroux-Robert, 
+1974 (serie de 
+casos) Nunez, 
+1993(serie de casos) 
+Urso, 1993 (serie 
+de casos) Moreau, 
+1997 (serie de 
+casos) Stoll, 2001 
+(serie de casos) 
+Choussy,2001 (serie 
+de casos) Choussy, 
+2008 (estudio 
+retrospectivo 
+multicéntrico) Sy, 
+2004 (serie de 
+casos) Dutreuil-
+David, 1999 (serie 
+de casos)
+
+72
+SANIDAD
+Tabla de Guías
+Guía (Enfoque
+de la pregunta)
+Evidencia (nivel)
+Recomendación (grado)
+Referencias 
+bibliográficas (tipo 
+de publicación)
+Comentarios
+En un metaanálisis de estudios de cohortes 
+se halló que el exceso de riesgo no aparecía 
+antes de haber transcurrido 20 años desde el 
+inicio de la exposición y que este era máximo 
+cuando el tiempo transcurrido era de 30 años. 
+Sin embargo, el pequeño número de casos 
+observados no permitió analizarlos en función de 
+la duración e intensidad de la exposición.
+Revisiones sistemáticas (Nivel 2+)
+En otro metaanálisis, en este caso de estudios 
+de caso-control, se halló que el exceso de riesgo 
+de adenocarcinoma no aumentó hasta que el 
+nivel de exposición promedio estimada fue de 
+1mg/m3. Sin embargo, el dato debe ser tomado 
+con cautela, dado que se trata de una estimación 
+derivada de una matriz empleo-exposición y no 
+de mediciones en los lugares de trabajo.
+Revisiones sistemáticas (Nivel 2+)
+George, 1997 
+(serie de casos) 
+De Gabory, 2010 
+(serie de casos)
+Roux, 1997 (serie 
+de casos) Nylander, 
+1993 (serie de 
+casos) Fontana, 
+2008 (serie de 
+casos) Dutreuil-
+David, 1999 (serie 
+de casos) Roux, 
+2002 (serie de 
+casos) Bimbi, 2004 
+(serie de casos) 
+Carton, 2002 (caso-
+control) 
+Demers,1995 
+(metaanálisis de 
+cohortes) 
+Demers 1995 
+(metaanálisis de 
+casos-controles)
+Los datos relativos al desarrollo del 
+adenocarcinoma de fosas nasales y senos 
+paranasales derivado de la exposición al polvo 
+de madera son limitados, pero su evolución 
+parece más lenta que la de los carcinomas 
+epidermoides de esa misma localización 
+Opinión de expertos (Nivel 4
+De Gabory, 2009 
+(Revisión)
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+73
+Guía (Enfoque
+de la pregunta)
+Evidencia (nivel)
+Recomendación (grado)
+Referencias 
+bibliográficas (tipo 
+de publicación)
+Comentarios
+En una revisión de la literatura sobre los 
+mecanismos y las diferentes etapas de 
+carcinogénesis del adenocarcinoma de fosas 
+nasales y senos paranasales en personas 
+trabajadoras de la madera, se indica que la 
+inestabilidad cromosómica parece ser uno de 
+los pasos más importantes de este proceso. 
+El adenocarcinoma de fosas nasales y senos 
+paranasales presenta factores genéticos y 
+biomoleculares comunes con el adenocarcinoma 
+de colon, pero estos no se ponen en juego del 
+mismo modo en ambas localizaciones. Existen, 
+por lo tanto, aspectos específicos derivados de 
+los carcinógenos y de factores clInicopatológicos 
+locales 
+Estudio no analítico (Nivel 3)
+De modo general, se admite que el tiempo de 
+duplicación de los adenocarcinomas es de 160 
+días.
+Series de casos (Nivel 3)
+Friberg, 1997 (serie 
+de casos)
+
+74
+SANIDAD
+Tabla de Evidencias
+Referencia
+Estudio
+Población
+Exposición
+comparación
+Resultados
+Conclusiones
+Comentarios
+Calidad de 
+la evidencia
+Cita abreviada:
+Porro S. 2007
+Diseño:
+Estudio de 
+prevalencia con 
+grupo control
+Objetivos:
+Evaluar me­
+diante una 
+consulta a ORL 
+y realización de 
+nasofibroscopia 
+la presencia de 
+alteraciones en 
+la mucosa nasal 
+en personas 
+trabajadoras 
+expuestas por 
+un largo periodo 
+de tiempo a 
+polvo de made­
+ra, dado que la 
+mayor frecuencia 
+en la presencia 
+de estas alte­
+raciones podría 
+implicar un 
+mecanismo de 
+daño crónico 
+que podría con­
+ducir al cáncer. 
+Número de 
+participantes / 
+grupo:
+50 expuestos y 
+48 controles
+Características 
+cohorte 
+expuesta:
+Sexo: Hombres.
+Edad media: 51,1 
+años.
+Antigüedad 
+media: 33,5 años. 
+Tipo de empresa: 
+transformación 
+secundaria de la 
+madera. 
+Tipo de madera: 
+98% con 
+maderas duras.
+Tipo de trabajo: 
+58% mecanizado, 
+14% de lijar/pulir, 
+28% ambos. 
+Factor de 
+exposición:
+Personas 
+trabajadoras que 
+cumplan con 
+las condiciones 
+de la cohorte 
+expuesta.
+Tipo de 
+Comparación:
+Trabajador o 
+trabajadora no 
+expuesta a polvo 
+de madera ni a 
+otros agentes 
+irritantes de 
+edad similar a 
+los expuestos.
+Periodo de 
+seguimiento:
+Estudio 
+transversal.
+Resultados:
+Razón de 
+prevalencias: 
+RP (IC 95%)
+Alteración 
+macroscópica 
+de la mucosa 
+(principalmente 
+hiperemia e 
+hipertrofia): 
+1,32 (0,79-2,19)
+Presencia de 
+secreciones 
+nasales: 2,69 
+(1,05-6,89)
+Citograma 
+alterado:  1,92 
+(0,78-4,71)
+Trastornos 
+rinológicos 
+en base a 
+cuestionario: 
+1,14 (0,72-1,80) 
+Conclusiones:
+Los resultados 
+no confirman 
+la hipótesis de 
+la utilidad de la 
+vigilancia de la 
+salud realizada 
+en personas 
+trabajadoras 
+expuestas a 
+polvo de madera 
+mediante la 
+aplicación de un 
+cuestionario y 
+la realización de 
+nasofibroscopia. 
+Sin embargo, 
+muestran una 
+inesperada 
+prevalencia de 
+alteraciones en 
+el grupo control. 
+A la espera de 
+otro tipo de 
+resultados, se 
+expresan dudas 
+sobre la pro­
+puesta de una 
+valoración rutina­
+ria llevada
+Comentarios:
+Se trata de un estudio 
+con un número 
+muy pequeño de 
+participantes, lo cual 
+hace que sea muy 
+difícil generalizar 
+resultados. 
+En el estudio se 
+comparan hallazgos 
+genéricos, sin saber 
+si, como tales, están 
+relacionados con la 
+exposición a polvo 
+de madera, pudiendo 
+producirse un sesgo 
+al no referirse a un 
+efecto concreto, 
+relacionado con la 
+exposición, y que es 
+el que sería objeto 
+de una vigilancia 
+sanitaria en relación a 
+la misma. 
+Es posible que estos 
+efectos genéricos 
+estén relacionados 
+con factores no 
+controlados en este 
+estudio.
+Calidad de 
+la evidencia: 
+Baja
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+75
+Referencia
+Estudio
+Población
+Exposición
+comparación
+Resultados
+Conclusiones
+Comentarios
+Calidad de 
+la evidencia
+Medidas de 
+protección: 
+aspiración 
+localizada.
+Protección 
+respiratoria 
+(mascarilla), sólo 
+un 7% utilizan. 
+No se utilizan 
+métodos de 
+aspiración para la 
+limpieza.
+La limpieza 
+de la ropa de 
+trabajo se realiza 
+esporádicamente.
+Características 
+cohorte no 
+expuesta:
+No hay 
+descripción.
+a cabo por 
+especialista 
+ORL a todos 
+las personas 
+trabajadoras 
+expuestas a 
+polvo de madera 
+en fábricas de 
+muebles.
+El grupo de exposición 
+se define en función 
+de una estimación 
+muy pobre de la 
+misma, realizada de 
+forma indirecta.
+El grupo de no 
+expuestos se crea 
+por defecto y no se 
+conoce ninguna de 
+sus características, 
+por lo que se 
+desconoce hasta 
+qué punto puede 
+compararse con el 
+grupo de exposición.
+El estudio no tiene 
+como objetivo 
+concreto, aunque 
+podría haber ocurrido, 
+la detección del 
+adenocarcinoma de 
+fosas nasales y senos 
+paranasales.
+Es un estudio de 
+baja calidad y con 
+conclusiones muy 
+limitadas.
+
+76
+SANIDAD
+Formulación de Recomendaciones: Juicio Razonado
+1. Volumen de la evidencia
+La evidencia directa sobre la efectividad de las diferentes pruebas que se 
+proponen para el screening del cáncer de fosas nasales y senos paranasales 
+es muy limitada. El proceso de búsqueda, evaluación y síntesis sólo arroja 
+dos resultados que permiten trabajar esta cuestión.
+Los autores de la guía de “Recommandations pour la surveillance médi­
+co-professionnelle des travailleurs exposés à l’effet cancérigène des poussières 
+de bois (2011)6”, cuyo promotor es la Sociedad Francesa de Medicina del 
+Trabajo, utilizan evidencia indirecta para emitir recomendaciones para el 
+screening del cáncer de fosas nasales y senos paranasales en personas tra­
+bajadoras expuestas a polvo de madera. Estas recomendaciones se basan en 
+un razonamiento deductivo y cuentan con el aval de haber sido desarrolla­
+das mediante un proceso de consenso formalizado explícito. En este trabajo 
+también se aportan datos de estudios de aplicación de pruebas de screening 
+desarrolladas hasta mediados del año 2009 en 8 regiones de Francia. Estos 
+se realizaron de forma complementaria a acciones de prevención primaria, 
+de evaluación y de gestión del riesgo en relación a la exposición al polvo de 
+madera. El total de personas incluidas en los programas de despistaje fue de 
+2260. El método de exploración médica utilizado de forma preferente fue 
+la nasofibroscopia, aunque uno de las estudios, con 13 individuos explora­
+dos, se basó en la realización pruebas tonodensitométricas. La periodicidad 
+de la nasofibroscopia fue generalmente bienal y, en el caso de las pruebas 
+tonodensitométricas, quinquenal. Los resultados parciales indicaban a los 
+autores que la nasofibroscopia era una prueba bien tolerada por las personas 
+trabajadoras, pero que las anomalías detectadas conllevaban la realización 
+de exámenes complementarios en un porcentaje no desdeñable de casos. Se 
+diagnosticó un adenocarcinoma en fase precoz entre los participantes en 
+estos estudios. 
+El estudio de Porro et al. “Sorveglianza sanitaria negli esposti a polveri 
+di legno: utilità della valutazione della mucosa nasale24” es un estudio peque­
+ño que incluye 33 sujetos expuestos a polvo de madera y 48 no expuestos en 
+el marco del cumplimiento de las “Directrices” existentes para la aplicación 
+de la normativa italiana sobre agentes cancerígenos relativa a la exposición 
+al polvo de madera, que incluye un anexo sobre la vigilancia de la salud a 
+la que deben ser sometidos las personas trabajadoras. En este estudio, se 
+realizó nasofibroscopia a los participantes y se tomaron muestras citológicas 
+para su examen. Los autores concluyen que sus resultados permiten albergar 
+dudas sobre la utilidad de adoptar protocolos estándar de vigilancia de la 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+77
+salud y realización rutinaria de evaluaciones otorrinolaringológicas a los y 
+las trabajadoras expuestas a polvo de madera.
+2. Aplicabilidad y posibilidad de generalización
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de las 
+recomendaciones, exceptuando los datos aportados en la guía de “Recom­
+mandations pour la surveillance médico-professionnelle des travailleurs ex­
+posés à l´effet cancérigène des poussières de bois (2011)6” y en el estudio 
+“Sorveglianza sanitaria negli esposti a polveri di legno: utilità della valuta­
+zione della mucosa nasale”, pero el consenso logrado en Francia en base a 
+evidencias indirectas ha dado lugar a la puesta en marcha del estudio CER­
+Bois (Cohorte d’Evaluation des Recommandations Bois) por parte de la 
+Sociedad Francesa de Medicina del Trabajo y el CHU (Centre Hospitalier 
+Universitaire) de Nancy. 
+CERBois es un estudio de cohorte observacional, multicéntrico que 
+tiene como objetivo principal evaluar la viabilidad de las “Recommanda­
+tions pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)6” en relación a la vigilancia 
+médica de trabajadores y trabajadoras activas asintomáticas y la aceptación 
+por parte de las mismas de la realización de la nasofibroscopia en dicho con­
+texto. El estudio finalizará la recogida de datos durante el año 2015, lo que 
+le permitirá revisar las recomendaciones dadas y proporcionar una actuali­
+zación de las mismas en el año 2016. 
+Los trabajadores y las trabajadoras francesas, italianas y españolas ex­
+puestas a polvo de madera no presentan diferencias sustanciales entre ellas, 
+aplican procedimientos de trabajo muy similares y están sometidas a las mis­
+mas Directivas Comunitarias en relación a la seguridad y de la salud en el 
+trabajo. Los procedimientos de screening propuestos son igualmente aplica­
+bles en estos países; la técnica es similar en ambos y su interpretación, tam­
+bién. Es decir, la población y el contexto que interesan son similares, por lo 
+que las recomendaciones actuales y las que se deriven de la finalización del 
+estudio CERBois pueden ser aplicables a nuestra población trabajadora.	
+3. Consistencia
+La guía de “Recommandations pour la surveillance médico-professionnelle 
+des travailleurs exposés à l´effet cancérigène des poussières de bois (2011)6” 
+parte de una revisión de la literatura en la que se indican las fuentes biblio­
+gráficas a las que se ha acudido a buscar la evidencia, pero cuya lectura crí­
+
+78
+SANIDAD
+tica no queda suficientemente acreditada. Los autores refieren haberla rea­
+lizado y haber asignado los niveles de evidencia propuestos por la ANAES 
+(Agence Nationale d’Accréditation et d’Evaluation en Santé) francesa el 
+año 2000. Si bien la graduación de las recomendaciones es acorde a dichos 
+niveles de evidencia, los autores no son explícitos en relación al tratamiento 
+que dan a los artículos obtenidos en la búsqueda bibliográfica que realizan. 
+Se detallan las fuentes y los términos utilizados en la búsqueda bibliográ­
+fica, pero los autores no explican el proceso de elección de los artículos 
+incluidos, ni los criterios de inclusión y exclusión aplicados. No se explica el 
+proceso de lectura crítica realizada, métodos o plantillas utilizadas, ni tam­
+poco se proporcionan tablas de evidencia que sinteticen la información de 
+los artículos estudiados. La presentación de los hallazgos adopta una forma 
+narrativa y los resultados no se presentan en términos de sensibilidad, espe­
+cificidad, valores predictivos, etc. en relación a un patrón de oro, y tampoco 
+es posible su cálculo. La base de las recomendaciones se encuentra en un 
+razonamiento deductivo. A ello hay que añadir que los estudios regionales 
+puestos en marcha en Francia permitieron detectar un caso de adenocarci­
+noma en fase precoz entre las 2260 personas trabajadoras incluidas en los 
+mismos. Habida cuenta de que la incidencia de este cáncer se encuentra 
+entre 5-9 casos por 10000 personas trabajadoras, los resultados pueden in­
+terpretarse de modo positivo.
+El estudio de Porro et al. “Sorveglianza sanitaria negli esposti a polveri 
+di legno: utilità della valutazione della mucosa nasale24” incluye un muy esca­
+so número de participantes. La baja incidencia del cáncer de senos parana­
+sales precisa de la participación de un gran número de personas trabajadoras 
+expuestas para la detección precoz de un caso, por lo que este estudio carece, 
+por sí sólo, de potencia para concluir sobre la utilidad de la fibroscopia para 
+el screening del adenocarcinoma de senos paranasales. 
+4. Impacto Clínico
+La rinoscopia anterior con espéculo de Clark no puede acceder a ver más 
+que el tercio anterior de la cavidad nasal. Se abandonó como técnica en la 
+búsqueda de un síndrome obstructivo unilateral a favor del nasofibroscopia. 
+La rinoscopia posterior es una técnica obsoleta.
+A la hora de detectar un adenocarcinoma fosas nasales y senos parana­
+sales, y debido a las características de este tipo de tumores, la nasofibrosco­
+pia presenta una serie de ventajas frente a otras técnicas. Las formas endosi­
+nusales estrictas de estos tumores son muy poco probables, hay una ausencia 
+de barrera anatómica entre las cavidades nasales y paranasales, las lesiones 
+tienen una naturaleza vegetativa y exotípica, y presentan una propensión a 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+79
+ocupar el espacio aéreo endonasal libre. Su importancia se ve reforzada por 
+el reciente conocimiento de la ubicación de la base de implantación de ade­
+nocarcinoma.
+La nasofibroscopia tiene la ventaja de permitir un acceso directo para 
+la vista de los cornetes, el meato medio, la hendidura olfativa y los espacios 
+posteriores de la cavidad nasal. Además, se trata de una técnica simple y 
+rápida (menos de 5 minutos de exploración), atraumática e indolora en au­
+sencia de anomalías anatómicas (1% de la población), no irradiante, barata 
+y fácilmente disponible en la consulta especializada.
+Sin embargo, aún no se han evaluado su sensibilidad y especificidad en 
+el contexto de un screening. De todos modos, cumple con la mayor parte de 
+los criterios que se requieren para este tipo de exploraciones.
+5. Otros factores
+La puesta en marcha del estudio CERBois (Cohorte d’Evaluation des Re­
+commandations Bois), por parte de la Sociedad Francesa de Medicina del 
+Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy, con el ob­
+jetivo de evaluar la viabilidad de las “Recommandations pour la surveillan­
+ce médico-professionnelle des travailleurs exposés à l´effet cancérigène des 
+poussières de bois (2011)6” dará lugar a la revisión de las recomendaciones 
+de esta guía y a proporcionar una actualización de las mismas en el año 2016.
+Los datos derivados de la aplicación de estas recomendaciones en 
+nuestro contexto podrían añadirse a los obtenidos en Francia, dando lugar a 
+una valoración más amplia de los mismos, derivada del número de personas 
+trabajadoras incluidas en el despistaje.
+6. Grado de evidencia
+No existe, a día de hoy, evidencia directa sobre la utilidad de 
+las diferentes pruebas propuestas en relación con el scree­
+ning del cáncer de cavidades nasales y paranasales. La evi­
+dencia con la que se cuenta es indirecta y las recomendacio­
+nes se basan en un razonamiento deductivo.	
+La nasofibroscopia es una técnica simple y rápida, 
+atraumática, indolora en ausencia de anomalías anatómicas, 
+bien tolerada por las personas a las que se aplica49.
+El exceso de riesgo no aparece antes de haber trans­
+currido 20 años desde el inicio de la exposición y que este 
+es máximo cuando el tiempo transcurrido es de 30 años. Sin 
+Nivel de 
+evidencia
+4
+1+
+2+
+
+80
+SANIDAD
+embargo, el pequeño número de casos observados para de­
+terminar este tiempo aconseja tomar el dato con cautela61.
+El exceso de riesgo de adenocarcinoma no aumenta 
+hasta que el nivel de exposición promedio estimada es de 
+1mg/m3. Sin embargo, el dato debe ser tomado con cautela, 
+dado que se trata de una estimación derivada de una matriz 
+empleo-exposición y no de mediciones en los lugares de tra­
+bajo62.
+La nasofibroscopia cumple con la mayor parte de los 
+criterios que se requieren para su utilización en el marco de 
+un screening. Sin embargo, aún no se han evaluado su sensi­
+bilidad y especificidad en este contexto.
+La periodicidad de la realización de la nasofibroscopia 
+únicamente puede basarse en la analogía con la historia na­
+tural de adenocarcinomas de otras localizaciones63,64.
+7. Recomendaciones
+Se recomienda la realización de nasofibroscopia, cuya prác­
+tica se iniciará a partir de que hayan transcurrido 30 años 
+desde la primera exposición laboral a polvo de madera, y 
+la persona trabajadora haya acumulado un mínimo de 12 
+meses de exposición durante el periodo transcurrido desde 
+entonces, habiendo trabajado en tareas de mecanizado (ase­
+rrado, fresado, cepillado, perforación, trituración) o en cual­
+quier otra actividad en la que se documente una exposición 
+a concentraciones de polvo de madera superior a 1 mg/m3 
+durante 8 h/día.
+Se recomienda la realización de una nasofibroscopia 
+cada dos años a partir de entonces.
+Nivel de 
+evidencia
+2+
+4
+4
+C
+D
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+81
+Pregunta 3: ¿Se debe utilizar la radiología simple para el screening del 
+adenocarcinoma de fosas nasales y senos paranasales en personas 
+trabajadoras expuestas a polvo de madera?
+Tabla de Guías
+Guía (Enfoque de la pregunta)
+Recommandations pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)
+Evidencia (nivel)
+La radiografía estándar de senos paranasales no presenta ningún interés en relación al 
+despistaje, diagnóstico y la evaluación de la extensión de un tumor nasosinusal. No es un 
+examen útil para la detección de los tumores de los senos nasales a causa de su baja 
+sensibilidad.
+Series de casos (Nivel 3)
+Recomendación (grado)
+No se recomienda la realización de radiografía simple de los senos paranasales, dado que 
+no es un examen útil para la detección de los tumores de los senos nasales a causa de su 
+baja sensibilidad.
+(Recomendación basada en consenso de expertos a partir de un razonamiento deductivo)
+Referencias bibliográficas (tipo de publicación)
+Mc Alister, 1989 (serie de casos) Laranne, 1992 (serie de casos) Ferrié, 2008 (opinión 
+expertos) HAS, 2008 (revisión sistemática).
+Comentarios
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de estas recomendaciones. 
+La valoración sobre si vale la pena realizar una determinada prueba en el marco de un 
+screening se basa en un razonamiento deductivo. 
+Esta Guía cuenta con el aval de haber sido desarrollada mediante un proceso de consenso 
+formalizado explícito.
+Este consenso ha dado lugar a la puesta en marcha del estudio CERBois (Cohorte 
+d’Evaluation des Recommandations Bois) por parte de la Sociedad Francesa de Medicina 
+del Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy que tiene como objetivo 
+principal evaluar la viabilidad de las recomendaciones recogidas en la Guía.
+
+82
+SANIDAD
+Formulación de Recomendaciones: Juicio Razonado
+1. Volumen de la evidencia
+La evidencia directa sobre la efectividad de las diferentes pruebas que se 
+proponen para el screening del cáncer de fosas nasales y senos paranasales 
+es muy limitada. El proceso de búsqueda, evaluación y síntesis sólo arroja un 
+resultado que permite trabajar esta pregunta.
+Los autores de la guía de “Recommandations pour la surveillance mé­
+dico-professionnelle des travailleurs exposés à l´effet cancérigène des pous­
+sières de bois (2011)6” cuyo promotor es la Sociedad Francesa de Medicina 
+del Trabajo utilizan evidencia indirecta para emitir recomendaciones para el 
+screening del cáncer de fosas nasales y senos paranasales en personas traba­
+jadoras expuestas a polvo de madera. Estas recomendaciones se basan en un 
+razonamiento deductivo y cuentan con el aval de haber sido desarrolladas 
+mediante un proceso de consenso formalizado explícito.
+2. Aplicabilidad y posibilidad de generalización
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de las 
+recomendaciones, pero el consenso logrado en Francia en base a evidencias 
+indirectas ha dado lugar a la puesta en marcha del estudio CERBois (Cohor­
+te d’Evaluation des Recommandations Bois) por parte de la Sociedad Fran­
+cesa de Medicina del Trabajo y el CHU (Centre Hospitalier Universitaire) 
+de Nancy. 
+CERBois es un estudio de cohorte observacional, multicéntrico que 
+tiene como objetivo principal evaluar la viabilidad de las “Recommanda­
+tions pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)6” en relación a la vigilancia 
+médica de personas trabajadoras activas asintomáticas y la aceptación por 
+parte de las mismas de la realización de la nasofibroscopia en dicho contex­
+to. El estudio finalizará la recogida de datos durante el año 2015, lo que le 
+permitirá revisar las recomendaciones dadas y proporcionar una actualiza­
+ción de las mismas en el año 2016. 
+Los trabajadores y las trabajadoras francesas, italianas y españolas ex­
+puestas a polvo de madera no presentan diferencias sustanciales entre ellas, 
+aplican procedimientos de trabajo muy similares y están sometidas a las mis­
+mas Directivas Comunitarias en relación a la seguridad y de la salud en el 
+trabajo. Los procedimientos de screening propuestos son igualmente aplica­
+bles en estos países; la técnica es similar en ambos y su interpretación, tam­
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+83
+bién. Es decir, la población y el contexto que interesan son similares, por lo 
+que las recomendaciones actuales y las que se deriven de la finalización del 
+estudio CERBois pueden ser aplicables a nuestra población trabajadora.	
+3. Consistencia
+La guía de “Recommandations pour la surveillance médico-professionnelle 
+des travailleurs exposés à l´effet cancérigène des poussières de bois (2011)6” 
+parte de una revisión de la literatura en la que se indican las fuentes biblio­
+gráficas a las que se ha acudido a buscar la evidencia, pero cuya lectura crí­
+tica no queda suficientemente acreditada. Los autores refieren haberla rea­
+lizado y haber asignado los niveles de evidencia propuestos por la ANAES 
+(Agence Nationale d’Accréditation et d’Évaluation en Santé) francesa el 
+año 2000. Si bien la graduación de las recomendaciones es acorde a dichos 
+niveles de evidencia, los autores no son explícitos en relación al tratamiento 
+que dan a los artículos obtenidos en la búsqueda bibliográfica que realizan. 
+Se detallan las fuentes y los términos utilizados en la búsqueda bibliográfica, 
+pero los autores no explican el proceso de elección de los artículos incluidos, 
+ni los criterios de inclusión y exclusión aplicados. No se explica el proceso 
+de lectura crítica realizada, métodos o plantillas utilizadas, ni tampoco se 
+proporcionan tablas de evidencia que sinteticen la información de los artícu­
+los estudiados. La presentación de los hallazgos adopta una forma narrativa 
+y los resultados no se presentan en términos de sensibilidad, especificidad, 
+valores predictivos, etc. en relación a un patrón de oro, y tampoco es posible 
+su cálculo. La base de las recomendaciones se encuentra en el consenso de 
+expertos a partir de un razonamiento deductivo.
+4. Impacto Clínico
+Las indicaciones de la radiografía estándar han disminuido mucho con la 
+evolución de otras técnicas de imagen, tales como el escáner o la resonancia 
+magnética.
+5. Otros factores
+La puesta en marcha del estudio CERBois (Cohorte d’Evaluation des Re­
+commandations Bois), por parte de la Sociedad Francesa de Medicina del 
+Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy, con el ob­
+jetivo de evaluar la viabilidad de las “Recommandations pour la surveillan­
+
+84
+SANIDAD
+ce médico-professionnelle des travailleurs exposés à l´effet cancérigène des 
+poussières de bois (2011)6” dará lugar a la revisión de las recomendaciones 
+de esta guía y a proporcionar una actualización de las mismas en el año 2016.
+Los datos derivados de la aplicación de estas recomendaciones en 
+nuestro contexto podrían añadirse a los obtenidos en Francia, dando lugar a 
+una valoración más amplia de los mismos, derivada del número de personas 
+trabajadoras incluidas en el despistaje.
+6. Grado de evidencia
+No existe, a día de hoy, evidencia directa sobre la utilidad de 
+las diferentes pruebas propuestas en relación con el scree­
+ning del cáncer de cavidades nasales y paranasales. La evi­
+dencia con la que se cuenta es indirecta y las recomendacio­
+nes se basan en un razonamiento deductivo.
+La radiografía estándar de senos paranasales no pre­
+senta interés en el contexto del screening, del diagnóstico y 
+de la extensión de los tumores de fosas nasales y senos para­
+nasales. No es un examen útil a causa de su baja sensibilidad.
+7. Recomendaciones
+No se recomienda la realización de radiografía simple de los 
+senos paranasales, dado que no es un examen útil para la 
+detección de los tumores de los senos nasales a causa de su 
+baja sensibilidad.
+Nivel de 
+evidencia
+4
+3
+D
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+85
+Pregunta 4: ¿Se debe utilizar la tomografía computarizada para el 
+screening del adenocarcinoma de fosas nasales y senos paranasales 
+en personas trabajadoras expuestas a polvo de madera?
+Tabla de Guías
+Guía (Enfoque de la pregunta)
+Recommandations pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)
+Evidencia (nivel)
+La tomografía computarizada, incluso con contraste, es muy poco específica. Esto provocaría 
+la aparición de demasiados falsos positivos (entre un 10,9 y un 54%), con las consecuencias 
+asociadas a los mismos. 
+La sensibilidad para la detección de tumores y la capacidad para diferenciar un tejido de un 
+proceso inflamatorio o de un fenómeno obstructivo pueden variar desde 17 hasta 84,7% en 
+función de la ubicación o circunstancia (tumor primario o recurrente).
+Los escáneres de “baja dosis” no son aplicables al diagnóstico o la evaluación del 
+adenocarcinoma del seno nasal debido a que los cortes están demasiado separados y son 
+demasiado gruesos. La reducción de la dosis implica una disminución en la resolución y, 
+por lo tanto, en la calidad de la imagen que se obtiene (imagen ruidosa), lo que implica una 
+dificultad para el análisis del proceso tumoral (tejidos blandos) y del contenido endosinusal.
+En cortes milimétricos contiguos de todo el etmoides, la hendidura nasal y el receso etmoido-
+esfenoidal, la dosis de irradiación por corte sería del orden de 3 a 13 mGy.
+Series de casos (Nivel 3)
+Recomendación (grado)
+No se recomienda la realización de tomografías computarizadas de los senos paranasales, 
+debido a que no es una prueba suficientemente específica. Su utilización podría producir 
+un elevado número de falsos positivos y, en consecuencia, existiría la posibilidad de crear 
+iatrogenia secundaria a los exámenes complementarios o de pruebas quirúrgicas derivadas 
+de su práctica. Por otro lado, el nivel de radiación que puede recibir el o la trabajadora y el 
+coste de la prueba son elevados.
+(Recomendación basada en consenso de expertos a partir de un razonamiento deductivo)
+Referencias bibliográficas (tipo de publicación)
+Duvoisin, 1989 (serie de casos) Havas, 1997 (serie de casos) Lloyd, 1990 (serie de casos) 
+Som, 1986 (serie de casos) Kondo, 1982 (serie de casos) Lamoral, 1990 (serie de casos) Petit, 
+2000 (serie de casos) Cagici, 2005 (serie de casos) Sohaib, 2001 (serie de casos) Hagtvedt, 
+2003 (serie de casos) Hojreh, 2005 (serie de casos)
+Comentarios
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de estas recomendaciones.
+
+86
+SANIDAD
+La valoración sobre si vale la pena realizar una determinada prueba en el marco de un 
+screening se basa en un razonamiento deductivo. 
+Esta Guía cuenta con el aval de haber sido desarrollada mediante un proceso de consenso 
+formalizado explícito.
+Este consenso ha dado lugar a la puesta en marcha del estudio CERBois (Cohorte 
+d’Evaluation des Recommandations Bois) por parte de la Sociedad Francesa de Medicina 
+del Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy que tiene como objetivo 
+principal evaluar la viabilidad de las recomendaciones recogidas en la Guía.
+Formulación de Recomendaciones: Juicio Razonado
+1. Volumen de la evidencia
+La evidencia directa sobre la efectividad de las diferentes pruebas que se 
+proponen para el screening del cáncer de fosas nasales y senos paranasales 
+es muy limitada. El proceso de búsqueda, evaluación y síntesis sólo arroja un 
+resultado que permite trabajar esta pregunta.
+Los autores de la guía de “Recommandations pour la surveillance mé­
+dico-professionnelle des travailleurs exposés à l´effet cancérigène des pous­
+sières de bois (2011)6” cuyo promotor es la Sociedad Francesa de Medicina 
+del Trabajo utilizan evidencia indirecta para emitir recomendaciones para el 
+screening del cáncer de fosas nasales y senos paranasales en personas traba­
+jadoras expuestas a polvo de madera. Estas recomendaciones se basan en un 
+razonamiento deductivo y cuentan con el aval de haber sido desarrolladas 
+mediante un proceso de consenso formalizado explícito.
+2. Aplicabilidad y posibilidad de generalización
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de las 
+recomendaciones, pero el consenso logrado en Francia en base a evidencias 
+indirectas ha dado lugar a la puesta en marcha del estudio CERBois (Co­
+horte d’Evaluation des Recommandations Bois) por parte de la Sociedad 
+Francesa de Medicina del Trabajo y el CHU (Centre Hospitalier Universi­
+taire) de Nancy. 
+CERBois es un estudio de cohorte observacional, multicéntrico que 
+tiene como objetivo principal evaluar la viabilidad de las “Recommanda­
+tions pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)6” en relación a la vigilancia 
+médica de personas trabajadoras activas asintomáticas y la aceptación por 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+87
+parte de las mismas de la realización de la nasofibroscopia en dicho contex­
+to. El estudio finalizará la recogida de datos durante el año 2015, lo que le 
+permitirá revisar las recomendaciones dadas y proporcionar una actualiza­
+ción de las mismas en el año 2016. 
+Los trabajadores y las trabajadores francesas, italianas y españolas 
+expuestos a polvo de madera no presentan diferencias sustanciales entre 
+ellas, aplican procedimientos de trabajo muy similares y están sometidas a 
+las mismas Directivas Comunitarias en relación a la seguridad y de la salud 
+en el trabajo. Los procedimientos de screening propuestos son igualmente 
+aplicables en estos países; la técnica es similar en ambos y su interpretación, 
+también. Es decir, la población y el contexto que interesan son similares, 
+por lo que las recomendaciones actuales y las que se deriven de la fina­
+lización del estudio CERBois pueden ser aplicables a nuestra población 
+trabajadora.
+3. Consistencia
+La guía de “Recommandations pour la surveillance médico-professionnelle 
+des travailleurs exposés à l´effet cancérigène des poussières de bois (2011)6” 
+parte de una revisión de la literatura en la que se indican las fuentes biblio­
+gráficas a las que se ha acudido a buscar la evidencia, pero cuya lectura crí­
+tica no queda suficientemente acreditada. Los autores refieren haberla rea­
+lizado y haber asignado los niveles de evidencia propuestos por la ANAES 
+(Agence Nationale d’Accréditation et d’Évaluation en Santé) francesa el 
+año 2000. Si bien la graduación de las recomendaciones es acorde a dichos 
+niveles de evidencia, los autores no son explícitos en relación al tratamiento 
+que dan a los artículos obtenidos en la búsqueda bibliográfica que realizan. 
+Se detallan las fuentes y los términos utilizados en la búsqueda bibliográfica, 
+pero los autores no explican el proceso de elección de los artículos incluidos, 
+ni los criterios de inclusión y exclusión aplicados. No se explica el proceso 
+de lectura crítica realizada, métodos o plantillas utilizadas, ni tampoco se 
+proporcionan tablas de evidencia que sinteticen la información de los artícu­
+los estudiados. La presentación de los hallazgos adopta una forma narrativa 
+y los resultados no se presentan en términos de sensibilidad, especificidad, 
+valores predictivos, etc. en relación a un patrón de oro, y tampoco es posible 
+su cálculo. La base de las recomendaciones se encuentra en el consenso de 
+expertos a partir de un razonamiento deductivo. 
+
+88
+SANIDAD
+4. Impacto Clínico
+La tomografía computarizada, incluso con contraste, es muy poco específica 
+en esta localización y podría provocar la aparición de una proporción eleva­
+da de falsos positivos, con las consecuencias asociadas a los mismos.
+Con la finalidad de reducir las dosis de radiación, también se ha plan­
+teado la posibilidad de realizar escáneres de “baja dosis”, pero esto podría 
+implicar una disminución en la resolución y, por lo tanto, dificultad para el 
+análisis del proceso tumoral (tejidos blandos) y del contenido endosinusal, 
+con lo que su utilidad para el screening se ve comprometida.
+5. Otros factores
+La puesta en marcha del estudio CERBois (Cohorte d’Evaluation des Re­
+commandations Bois), por parte de la Sociedad Francesa de Medicina del 
+Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy, con el ob­
+jetivo de evaluar la viabilidad de las “Recommandations pour la surveillan­
+ce médico-professionnelle des travailleurs exposés à l´effet cancérigène des 
+poussières de bois (2011)6” dará lugar a la revisión de las recomendaciones 
+de esta guía y a proporcionar una actualización de las mismas en el año 2016.
+Los datos derivados de la aplicación de estas recomendaciones en 
+nuestro contexto podrían añadirse a los obtenidos en Francia, dando lugar a 
+una valoración más amplia de los mismos, derivada del número de personas 
+trabajadoras incluidas en el despistaje.	
+6. Grado de evidencia
+No existe, a día de hoy, evidencia directa sobre la utilidad de 
+las diferentes pruebas propuestas en relación con el scree­
+ning del cáncer de cavidades nasales y paranasales. La evi­
+dencia con la que se cuenta es indirecta y las recomendacio­
+nes se basan en un razonamiento deductivo. 
+La tomografía computarizada, incluso con contraste, es 
+muy poco específica69. 
+La sensibilidad para la detección de tumores y la capa­
+cidad para diferenciar un tejido de un proceso inflamatorio o 
+de un fenómeno obstructivo es muy variable en función de la 
+ubicación o de si se trata de un tumor primario o recurrente72.
+Los escáneres de “baja dosis” no son aplicables al diag­
+nóstico o la evaluación del adenocarcinoma del seno nasal 
+Nivel de 
+evidencia
+4
+3
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+89
+debido a que los cortes están demasiado separados y son 
+demasiado gruesos. La reducción de la dosis implica una dis­
+minución en la resolución y, por lo tanto, en la calidad de la 
+imagen que se obtiene (imagen ruidosa), lo que implica una 
+dificultad para el análisis del proceso tumoral (tejidos blan­
+dos) y del contenido endosinusal76.
+En cortes milimétricos contiguos de todo el etmoides, 
+la hendidura nasal y el receso etmoido-esfenoidal, la dosis 
+de irradiación por corte sería del orden de 3 a 13 mGy77-79.
+7. Recomendaciones
+No se recomienda la realización de tomografías computari­
+zadas de los senos paranasales, debido a que no es una prue­
+ba suficientemente específica. Su utilización podría producir 
+un elevado número de falsos positivos y, en consecuencia, 
+existiría la posibilidad de crear iatrogenia secundaria a los 
+exámenes complementarios o de pruebas quirúrgicas deri­
+vadas de su práctica. Por otro lado, el nivel de radiación que 
+puede recibir las personas trabajadoras y el coste de la prue­
+ba son elevados.
+Nivel de 
+evidencia
+D
+
+90
+SANIDAD
+Pregunta 5: ¿Se debe utilizar la resonancia magnética para el 
+screening del adenocarcinoma de fosas nasales y senos paranasales 
+en personas trabajadoras expuestas expuestos a polvo de madera?
+Tabla de Guías
+Guía (Enfoque de la pregunta)
+Recommandations pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)
+Evidencia (nivel)
+La capacidad de la resonancia magnética para detectar tumores es la misma que la del 
+escáner, pero tiene la posibilidad, a través de las señales de T1/T2 y gadolinio, de identificar 
+el contenido de todos los senos paranasales. Es capaz de diferenciar pólipos, mucosidad 
+retenida, edemas, mucosa inflamatoria o tumores con una sensibilidad de detección que 
+varía desde un 92 a un 98% y una especificidad del 93%, sin ser irradiante.
+Comparación pruebas diagnósticas (Nivel 3)
+La resonancia magnética con contraste parece acercarse más que el escáner al diagnóstico 
+precoz y al despistaje de un tumor nasosinusal de pequeño tamaño que el escáner, debido 
+a unas mayores sensibilidad y especificidad, siendo una técnica no irradiante. Sin embargo, 
+no se ha evaluado nunca en este contexto.
+Series de casos (Nivel 3)
+Recomendación (grado)
+No se recomienda la realización de resonancia magnética, ya que a pesar de que parece ser 
+la prueba más sensible y específica, y no es una prueba que irradie a la persona trabajadora, 
+su disponibilidad y su coste no hacen aconsejable proponerla como técnica de screening. 
+Sin embargo, podría ser utilizada como prueba de referencia para evaluar la especificidad y 
+la sensibilidad de otras pruebas útiles para la detección de tumores de los senos nasales. 
+Recomendación basada en consenso de expertos a partir de un razonamiento deductivo)
+Referencias bibliográficas (tipo de publicación)
+Zinreich, 1988 (serie de casos) Kennedy, 1988 (serie de casos) Som, 1989 (serie de casos) 
+Lloyd, 2000 (opinión de experto) Chong, 1998 (serie de casos) Lanzieri, 1991 (comparación 
+pruebas diagnósticas) Som, 1988 (serie de casos) Som, 1989 (serie de casos) Lloyd, 1989 
+(serie de casos) Lund, 1989 (comparación pruebas diagnósticas) Sievers, 2000 (opinión de 
+experto) Maroldi, 2008 (opinión de experto).
+Comentarios
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de estas recomendaciones. 
+La valoración sobre si vale la pena realizar una determinada prueba en el marco de un 
+screening se basa en un razonamiento deductivo. 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+91
+Esta Guía cuenta con el aval de haber sido desarrollada mediante un proceso de consenso 
+formalizado explícito.
+Este consenso ha dado lugar a la puesta en marcha del estudio CERBois (Cohorte 
+d’Evaluation des Recommandations Bois) por parte de la Sociedad Francesa de Medicina 
+del Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy que tiene como objetivo 
+principal evaluar la viabilidad de las recomendaciones recogidas en la Guía.
+Formulación de Recomendaciones: Juicio Razonado
+1. Volumen de la evidencia
+La evidencia directa sobre la efectividad de las diferentes pruebas que se 
+proponen para el screening del cáncer de fosas nasales y senos paranasales 
+es muy limitada. El proceso de búsqueda, evaluación y síntesis sólo arroja un 
+resultado que permite trabajar esta pregunta.
+Los autores de la guía de “Recommandations pour la surveillance mé­
+dico-professionnelle des travailleurs exposés à l´effet cancérigène des pous­
+sières de bois (2011)6” cuyo promotor es la Sociedad Francesa de Medicina 
+del Trabajo utilizan evidencia indirecta para emitir recomendaciones para el 
+screening del cáncer de fosas nasales y senos paranasales en personas traba­
+jadoras expuestas a polvo de madera. Estas recomendaciones se basan en un 
+razonamiento deductivo y cuentan con el aval de haber sido desarrolladas 
+mediante un proceso de consenso formalizado explícito. 
+2. Aplicabilidad y posibilidad de generalización
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de las 
+recomendaciones, pero el consenso logrado en Francia en base a evidencias 
+indirectas ha dado lugar a la puesta en marcha del estudio CERBois (Co­
+horte d’Evaluation des Recommandations Bois) por parte de la Sociedad 
+Francesa de Medicina del Trabajo y el CHU (Centre Hospitalier Universi­
+taire) de Nancy. 
+CERBois es un estudio de cohorte observacional, multicéntrico que 
+tiene como objetivo principal evaluar la viabilidad de las “Recommanda­
+tions pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)6” en relación a la vigilancia 
+médica de personas trabajadoras activas asintomáticas y la aceptación por 
+parte de las mismas de la realización de la nasofibroscopia en dicho contex­
+
+92
+SANIDAD
+to. El estudio finalizará la recogida de datos durante el año 2015, lo que le 
+permitirá revisar las recomendaciones dadas y proporcionar una actualiza­
+ción de las mismas en el año 2016. 
+Los trabajadores y las trabajadoras francesas, italianas y españolas 
+expuestas a polvo de madera no presentan diferencias sustanciales entre 
+ellas, aplican procedimientos de trabajo muy similares y están sometidas a 
+las mismas Directivas Comunitarias en relación a la seguridad y de la salud 
+en el trabajo. Los procedimientos de screening propuestos son igualmente 
+aplicables en estos países; la técnica es similar en ambos y su interpretación, 
+también. Es decir, la población y el contexto que interesan son similares, por 
+lo que las recomendaciones actuales y las que se deriven de la finalización 
+del estudio CERBois pueden ser aplicables a nuestra población trabajadora.
+3. Consistencia
+La guía de “Recommandations pour la surveillance médico-professionnelle 
+des travailleurs exposés à l´effet cancérigène des poussières de bois (2011)6” 
+parte de una revisión de la literatura en la que se indican las fuentes biblio­
+gráficas a las que se ha acudido a buscar la evidencia, pero cuya lectura crí­
+tica no queda suficientemente acreditada. Los autores refieren haberla rea­
+lizado y haber asignado los niveles de evidencia propuestos por la ANAES 
+(Agence Nationale d’Accréditation et d’Évaluation en Santé) francesa el 
+año 2000. Si bien la graduación de las recomendaciones es acorde a dichos 
+niveles de evidencia, los autores no son explícitos en relación al tratamiento 
+que dan a los artículos obtenidos en la búsqueda bibliográfica que realizan. 
+Se detallan las fuentes y los términos utilizados en la búsqueda bibliográfica, 
+pero los autores no explican el proceso de elección de los artículos incluidos, 
+ni los criterios de inclusión y exclusión aplicados. No se explica el proceso 
+de lectura crítica realizada, métodos o plantillas utilizadas, ni tampoco se 
+proporcionan tablas de evidencia que sinteticen la información de los artícu­
+los estudiados. La presentación de los hallazgos adopta una forma narrativa 
+y los resultados no se presentan en términos de sensibilidad, especificidad, 
+valores predictivos, etc. en relación a un patrón de oro, y tampoco es posible 
+su cálculo. La base de las recomendaciones se encuentra en el consenso de 
+expertos a partir de un razonamiento deductivo. 
+4. Impacto Clínico
+La resonancia magnética, por su capacidad de detectar lesiones de partes 
+blandas se ha propuesto como un posible método de screening del adeno­
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+93
+carcinoma de fosas nasales y senos paranasales en personas trabajadoras 
+expuestas a polvo de madera, con la ventaja añadida de no irradiar al traba­
+jador o trabajadora. Su utilización hasta el día de hoy se ha circunscrito al 
+diagnóstico del adenocarcinoma, a la determinación de la extensión preope­
+ratoria y al seguimiento de las personas intervenidas quirúrgicamente.
+5. Otros factores
+La puesta en marcha del estudio CERBois (Cohorte d’Evaluation des Re­
+commandations Bois), por parte de la Sociedad Francesa de Medicina del 
+Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy, con el ob­
+jetivo de evaluar la viabilidad de las “Recommandations pour la surveillan­
+ce médico-professionnelle des travailleurs exposés à l´effet cancérigène des 
+poussières de bois (2011)6” dará lugar a la revisión de las recomendaciones 
+de esta guía y a proporcionar una actualización de las mismas en el año 2016.
+Los datos derivados de la aplicación de estas recomendaciones en 
+nuestro contexto podrían añadirse a los obtenidos en Francia, dando lugar a 
+una valoración más amplia de los mismos, derivada del número de personas 
+trabajadoras incluidas en el despistaje.	
+6. Grado de evidencia
+No existe, a día de hoy, evidencia directa sobre la utilidad de 
+las diferentes pruebas propuestas en relación con el screening 
+del cáncer de cavidades nasales y paranasales. La evidencia 
+con la que se cuenta es indirecta y las recomendaciones se 
+basan en un razonamiento deductivo.
+La capacidad de la resonancia magnética para detectar tu­
+mores es la misma que la del escáner, pero tiene la posibilidad, 
+a través de las señales de T1/T2 y gadolinio, de identificar el 
+contenido de todos los senos paranasales. Es capaz de diferen­
+ciar pólipos, mucosidad retenida, edemas, mucosa inflamatoria 
+o tumores con una sensibilidad de detección que varía desde un 
+92 a un 98% y una especificidad del 93%, sin ser irradiante81-84.
+La resonancia magnética con contraste parece acercarse 
+más que el escáner al diagnóstico precoz y al despistaje de un 
+tumor nasosinusal de pequeño tamaño que el escáner, debi­
+do a unas mayores sensibilidad y especificidad, siendo una 
+técnica no irradiante. Sin embargo, no se ha evaluado nunca 
+en este contexto.
+Nivel de 
+evidencia
+4
+3
+
+94
+SANIDAD
+7. Recomendaciones 
+Nivel de 
+evidencia
+No se recomienda la realización de resonancia magnética, 
+ya que a pesar de que parece ser la prueba más sensible y 
+específica, y no es una prueba que irradie a la persona tra-
+bajadora, su disponibilidad y su coste no hacen aconsejable 
+D
+proponerla como técnica de screening. Sin embargo, podría 
+ser utilizada como prueba de referencia para evaluar la es-
+pecificidad y la sensibilidad de otras pruebas útiles para la 
+detección de tumores de los senos nasales.
+Pregunta 6: ¿Se deben utilizar marcadores tumorales para el 
+screening del adenocarcinoma de fosas nasales y senos paranasales 
+en personas trabajadoras expuestas expuestos a polvo de madera?
+Tabla de Guías
+Guía (Enfoque de la pregunta)
+Recommandations pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)
+Evidencia (nivel)
+Los últimos trabajos de un equipo de investigadores de Nantes sobre 26 adenocarcinomas 
+nasosinusales, entre los que se incluyen 24 relacionados con la exposición al polvo de madera 
+identifican dos proteínas, detectables por inmunohistoquímica, la galectina 4 y la 4 clusterina, 
+las cuales podrían jugar un papel en la oncogénesis del adenocarcinoma nasosinusal. Si estos 
+resultados preliminares se confirmasen, se podría valorar el desarrollo de pruebas de detección 
+en frotis nasal, utilizando anticuerpos monoclonales anti antigalectina 4 y 
+4
+ clusterina. 
+Estudio transversal con grupo control (Nivel 3)
+Referencias bibliográficas (tipo de publicación)
+Tripodi, 2009 (estudio transversal con grupo control)
+Comentarios
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de estas recomendaciones. 
+La valoración sobre si vale la pena realizar una determinada prueba en el marco de un 
+screening se basa en un razonamiento deductivo. 
+Esta Guía cuenta con el aval de haber sido desarrollada mediante un proceso de consenso 
+formalizado explícito.
+Este consenso ha dado lugar a la puesta en marcha del estudio CERBois (Cohorte 
+d’Evaluation des Recommandations Bois) por parte de la Sociedad Francesa de Medicina 
+del Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy que tiene como objetivo 
+principal evaluar la viabilidad de las recomendaciones recogidas en la Guía
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+95
+La valoración sobre si vale la pena realizar una determinada prueba en el marco de un 
+screening se basa en un razonamiento deductivo. 
+Esta Guía cuenta con el aval de haber sido desarrollada mediante un proceso de consenso 
+formalizado explícito.
+Este consenso ha dado lugar a la puesta en marcha del estudio CERBois (Cohorte 
+d’Evaluation des Recommandations Bois) por parte de la Sociedad Francesa de Medicina 
+del Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy que tiene como objetivo 
+principal evaluar la viabilidad de las recomendaciones recogidas en la Guía.
+Formulación de Recomendaciones: Juicio Razonado
+1. Volumen de la evidencia
+La evidencia directa sobre la efectividad de las diferentes pruebas que se 
+proponen para el screening del cáncer de fosas nasales y senos paranasales 
+es muy limitada. El proceso de búsqueda, evaluación y síntesis sólo arroja un 
+resultado que permite trabajar esta pregunta.
+Los autores de la guía de “Recommandations pour la surveillance mé­
+dico-professionnelle des travailleurs exposés à l´effet cancérigène des pous­
+sières de bois (2011)6” cuyo promotor es la Sociedad Francesa de Medicina 
+del Trabajo utilizan evidencia indirecta para emitir recomendaciones para el 
+screening del cáncer de fosas nasales y senos paranasales en personas traba­
+jadoras expuestas a polvo de madera. Estas recomendaciones se basan en un 
+razonamiento deductivo y cuentan con el aval de haber sido desarrolladas 
+mediante un proceso de consenso formalizado explícito.
+2. Aplicabilidad y posibilidad de generalización
+No existe evidencia directa sobre la efectividad, eficacia o eficiencia de las 
+recomendaciones, pero el consenso logrado en Francia en base a evidencias 
+indirectas ha dado lugar a la puesta en marcha del estudio CERBois (Co­
+horte d’Evaluation des Recommandations Bois) por parte de la Sociedad 
+Francesa de Medicina del Trabajo y el CHU (Centre Hospitalier Universi­
+taire) de Nancy. 
+CERBois es un estudio de cohorte observacional, multicéntrico que 
+tiene como objetivo principal evaluar la viabilidad de las “Recommanda­
+tions pour la surveillance médico-professionnelle des travailleurs exposés à 
+l´effet cancérigène des poussières de bois (2011)6” en relación a la vigilancia 
+médica de personas trabajadoras activas asintomáticas y la aceptación por 
+
+96
+SANIDAD
+parte de las mismas de la realización de la nasofibroscopia en dicho contex­
+to. El estudio finalizará la recogida de datos durante el año 2015, lo que le 
+permitirá revisar las recomendaciones dadas y proporcionar una actualiza­
+ción de las mismas en el año 2016. 
+Los trabajadores y las trabajadoras francesas, italianas y españolas 
+expuestas a polvo de madera no presentan diferencias sustanciales entre 
+ellas, aplican procedimientos de trabajo muy similares y están sometidas a 
+las mismas Directivas Comunitarias en relación a la seguridad y de la salud 
+en el trabajo. Los procedimientos de screening propuestos son igualmente 
+aplicables en estos países; la técnica es similar en ambos y su interpretación, 
+también. Es decir, la población y el contexto que interesan son similares, 
+por lo que las recomendaciones actuales y las que se deriven de la fina­
+lización del estudio CERBois pueden ser aplicables a nuestra población 
+trabajadora.
+3. Consistencia
+La guía de “Recommandations pour la surveillance médico-professionnelle 
+des travailleurs exposés à l´effet cancérigène des poussières de bois (2011)6” 
+parte de una revisión de la literatura en la que se indican las fuentes biblio­
+gráficas a las que se ha acudido a buscar la evidencia, pero cuya lectura crí­
+tica no queda suficientemente acreditada. Los autores refieren haberla rea­
+lizado y haber asignado los niveles de evidencia propuestos por la ANAES 
+(Agence Nationale d’Accréditation et d’Évaluation en Santé) francesa el 
+año 2000. Si bien la graduación de las recomendaciones es acorde a dichos 
+niveles de evidencia, los autores no son explícitos en relación al tratamiento 
+que dan a los artículos obtenidos en la búsqueda bibliográfica que realizan. 
+Se detallan las fuentes y los términos utilizados en la búsqueda bibliográfica, 
+pero los autores no explican el proceso de elección de los artículos incluidos, 
+ni los criterios de inclusión y exclusión aplicados. No se explica el proceso 
+de lectura crítica realizada, métodos o plantillas utilizadas, ni tampoco se 
+proporcionan tablas de evidencia que sinteticen la información de los artícu­
+los estudiados. La presentación de los hallazgos adopta una forma narrativa 
+y los resultados no se presentan en términos de sensibilidad, especificidad, 
+valores predictivos, etc. en relación a un patrón de oro, y tampoco es posible 
+su cálculo. La base de las recomendaciones se encuentra en el consenso de 
+expertos a partir de un razonamiento deductivo. 
+
+GUÍA PARA LA VIGILANCIA SANITARIA DEL ADENOCARCINOMA DE FOSAS NASALES Y SENOS PARANASALES...
+97
+4. Impacto Clínico
+Se han evaluado algunos biomarcadores para el adenocarcinoma nasosi­
+nusal, como la galectina 4, la clusterina, las mutaciones en el gen TP53 o la 
+expresión de la enzima COX-2; sin embargo, en la actualidad, los resultados 
+de los estudios no permiten recomendar el uso de ningún biomarcador para 
+la detección precoz de esta enfermedad.
+5. Otros factores
+La puesta en marcha del estudio CERBois (Cohorte d’Evaluation des Re­
+commandations Bois), por parte de la Sociedad Francesa de Medicina del 
+Trabajo y el CHU (Centre Hospitalier Universitaire) de Nancy, con el ob­
+jetivo de evaluar la viabilidad de las “Recommandations pour la surveillan­
+ce médico-professionnelle des travailleurs exposés à l´effet cancérigène des 
+poussières de bois (2011)6” dará lugar a la revisión de las recomendaciones 
+de esta guía y a proporcionar una actualización de las mismas en el año 2016.
+Los datos derivados de la aplicación de estas recomendaciones en 
+nuestro contexto podrían añadirse a los obtenidos en Francia, dando lugar a 
+una valoración más amplia de los mismos, derivada del número de personas 
+trabajadoras incluidas en el despistaje.
+6. Grado de evidencia
+No existe, a día de hoy, evidencia directa sobre la utilidad de 
+las diferentes pruebas propuestas en relación con el scree­
+ning del cáncer de cavidades nasales y paranasales. La evi­
+dencia con la que se cuenta es indirecta y las recomendacio­
+nes se basan en un razonamiento deductivo.
+Se han estudiado diversas proteínas como la galectina 
+4 y la 4 clusterina, detectables por inmunohistoquímica, las 
+cuales podrían jugar un papel en la oncogénesis del adeno­
+carcinoma nasosinusal. Si estos resultados preliminares se 
+confirmasen, se podría valorar el desarrollo de pruebas de 
+detección en frotis nasal, utilizando anticuerpos monoclona­
+les anti antigalectina 4 y 4 clusterina92.
+Existen otros estudios en relación con otros marcado­
+res las mutaciones en el gen TP53 o la expresión de la enzi­
+ma COX-2 pero sus resultados son preliminares93.
+Nivel de 
+evidencia
+4
+3
+3
+
+98
+SANIDAD
+7. Recomendaciones
+No se recomienda la utilización de marcadores tumorales, ya 
+que aunque existen resultados que muestran correlaciones 
+entre algunos de estos marcadores y tejidos procedentes de 
+biopsias de cáncer de cavidades paranasales y nasales, no se 
+han desarrollado, por ejemplo, pruebas de detección en fro­
+tis nasal, y se desconoce la sensibilidad y especificidad que 
+estas pruebas pudiesen llegar a tener.
+Nivel de 
+evidencia
+D
+
+Ministerio
+ de Sanidad, Consum
+o y Bienestar Social
+www.mscbs.gob.es

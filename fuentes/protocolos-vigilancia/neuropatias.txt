@@ -1,0 +1,2424 @@
+PROTOCOLOS DE VIGILANCIA SANITARIA ESPECÍFICA
+NEUROPATÍAS POR PRESIÓN
+COMISIÓN DE SALUD PÚBLICA
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD
+
+Edita y distribuye:
+© MINISTERIO DE SANIDAD Y CONSUMO
+Secretaría General Técnica
+Centro de Publicaciones
+Paseo del Prado, 18, 28014 Madrid
+ISBN: 84-7670-550-6
+NIPO: 351-00-020-X
+Depósito Legal: AV-245-2000
+Imprime: MIJÁN, Industrias Gráficas Abulenses, S.L.
+
+CONSEJO 
+INTERTERRITORIAL
+SISTEMA NACIONAL DE SALUD
+El Consejo Interterritorial del Sistema Nacional de Salud
+informa favorablemente el «Protocolo de vigilancia sani-
+taria específica para los/as trabajadores/as expuestos a
+neuropatías por presión», en abril  de 2.000.
+
+
+5
+COMISIÓN DE SALUD PÚBLICA
+GRUPO DE TRABAJO DE SALUD LABORAL DE LA COMISIÓN DE
+SALUD PÚBLICA DEL CONSEJO INTERTERRITORIAL DEL SISTEMA
+NACIONAL DE SALUD
+COORDINACIÓN DEL PROTOCOLO
+DEPARTAMENTO DE SALUD DEL GOBIERNO DE NAVARRA.
+INSTITUTO NAVARRO DE SALUD LABORAL.
+AUTORES
+Gabriel Delgado Bona. Servicio Navarro de Salud. Navarra.
+Jaime Gállego Culleré. Servicio Navarro de Salud. Navarra.
+Pablo Martínez Lage. Servicio Navarro de Salud. Navarra.
+Jose Luis Lázcoz Rojas. NORLABOR. Navarra.
+ASESORAMIENTO TÉCNICO
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Sagrario Cilveti Gubía. Instituto Navarro de Salud Laboral. Navarra.
+Vega García López. Instituto Navarro de Salud Laboral. Navarra.
+Nuestro agradecimiento a la colaboración prestada por Mariano Montori
+Lacalle.
+GRUPO DE TRABAJO DE SALUD LABORAL 
+Montserrat García Gómez. Ministerio de Sanidad y Consumo. Madrid.
+Félix Robledo Muga. Instituto Nacional de la Salud. Madrid. 
+José Antonio del Ama Manzano. Consejería de Sanidad. Castilla-La Mancha.
+Liliana Artieda Pellejero. Instituto Navarro de Salud Laboral. Navarra.
+Francisco Camino Durán. Consejería de Salud. Andalucía.
+Rosa Maria Campos Acedo. Consejería de Bienestar Social. Extremadura.
+Rosario Castañeda López. Consejería de Sanidad. Madrid.
+Carmen Celma Marín. Consejería de Sanidad. Valencia. 
+Juan Carlos Coto Fernández. Instituto Vasco de Seguridad y Salud Labora-
+les. País Vasco.
+Isabel Enseñat Antolí. Consejería de Sanidad y Consumo. Islas Baleares.
+Eduardo Estaún Blasco. Consejería de Sanidad y Consumo. Canarias.
+
+6
+María Teresa Fernández Calvo. Consejería de Sanidad y Bienestar Social.
+Castilla y León.
+Fernando Galvañ Olivares. Consejería de Sanidad y Política Social. Murcia.
+Mariano Gallo Fernández. Instituto Navarro de Salud Laboral. Navarra.
+Isabel González García. Consejería de Sanidad y Servicios Sociales.Galicia.
+Asunción Guzmán Fernández. Consejería de Servicios Sociales. Asturias.
+Nieves Martínez Arguisuelas. Consejería de Sanidad, Bienestar Social y
+Trabajo. Aragón.
+Francisco Javier Sevilla Lámana. Consejería de Salud, Consumo y Bienes-
+tar Social. La Rioja.
+José Luis Taberner Zaragoza. Departamento de Sanidad y Seguridad
+Social. Cataluña.
+
+7
+PRESENTACIÓN
+Este volumen pertenece a la serie «Protocolos de Vigilancia Sanitaria
+Específica», editados por el Ministerio de Sanidad y Consumo y fruto del tra-
+bajo desarrollado por las Administraciones Sanitarias a través del Grupo de
+Trabajo de Salud Laboral de la Comisión de Salud Pública del Consejo
+Interterritorial del Sistema Nacional de Salud, como contribución a las acti-
+vidades de prevención de riesgos laborales en nuestro país.
+El nuevo marco normativo en materia de prevención de riesgos laborales
+(Ley 31/1995, de 8 de noviembre, y normas de desarrollo) supone, entre
+otras cuestiones, que debe cambiar radicalmente la práctica de los recono-
+cimientos médicos que se realizan a las y los trabajadores. De ser exáme-
+nes médicos inespecíficos, cercanos a los clásicos chequeos o cribados de
+carácter preventivo general, deben pasar a ser periódicos, específicos fren-
+te a los riesgos derivados del trabajo, con el consentimiento informado del
+trabajador, y no deben ser utilizados con fines discriminatorios ni en perjui-
+cio del trabajador.
+Además de reconocer el derecho de todos los trabajadores a la vigi-
+lancia periódica de su salud, incluso prolongándola más allá de la finali-
+zación de la relación laboral en algunos supuestos, la ley encomienda a
+las administraciones sanitarias la tarea de dar homogeneidad y coheren-
+cia a los objetivos y contenidos de la vigilancia de la salud, mediante la
+elaboración de protocolos y guías de actuación, con la mirada puesta en
+implantar un modelo de vigilancia de la salud en el trabajo que sea eficaz
+para la prevención.
+El poder contar con criterios uniformes basados en la evidencia científi-
+ca y la experiencia profesional de los participantes en los grupos de trabajo
+constituidos para su elaboración, permitirá alcanzar los objetivos de pre-
+vención de la enfermedad y promoción de la salud de las y los trabajadores.
+Efectivamente, ya establecido en la Ley General de Sanidad: «Vigilar la
+salud de los trabajadores para detectar precozmente e individualizar los fac-
+tores de riesgo y deterioro que puedan afectar a la salud de los mismos», la
+recogida armonizada y periódica de datos sobre riesgos y enfermedades y
+
+8
+su posterior análisis e interpretación sistemáticos con criterios epidemioló-
+gicos, constituye uno de los instrumentos con que cuenta la salud pública
+para poder identificar, cuantificar y priorizar, y por lo tanto, diseñar políticas
+de prevención eficaces.
+Para la elaboración de los protocolos, se constituyeron varios grupos de
+trabajo, que, coordinados por los representantes de las Comunidades Autó-
+nomas, permitiese la elaboración en paralelo de varios de ellos. Finalmen-
+te, una vez concluido el procedimiento interno de elaboración de los mis-
+mos, han sido sometidos a consulta y adecuadamente informados por
+Agentes Sociales (CEOE, CEPYME, UGT, CCOO y AMAT) y Sociedades
+Científicas (SEMST, SEEMT, AEETSL, SESPAS y SEE), con cuyos repre-
+sentantes se mantuvieron reuniones al efecto, en el Ministerio de Sanidad y
+Consumo, habiéndose incorporado a la redacción final los comentarios
+recibidos que se consideró mejoraban el texto presentado. 
+El que se presenta en este volumen proporciona a los profesionales
+implicados en la prevención de riesgos laborales, especialmente a los sani-
+tarios, una guía de actuación para la vigilancia sanitaria específica de las y
+los trabajadores expuestos a Neuropatías por presión, que será revisado
+periódicamente, en la medida que así lo aconseje la evolución de la evi-
+dencia científica disponible y su aplicación concreta en los centros de tra-
+bajo de nuestro país.
+María Dolores Flores Cerdán
+La Directora General de Salud Pública y Consumo
+
+9
+SUMARIO
+Pág.
+INTRODUCCIÓN...................................................................................
+11
+1.
+CRITERIOS DE APLICACIÓN........................................................
+13
+1.1.
+CRITERIOS DE APLICACIÓN PARA EL APARTADO 
+ESPECÍFICO DEL TUNEL CARPIANO ...............................
+14
+1.2.
+CRITERIOS DE APLICACIÓN DEL APARTADO 
+ESPECÍFICO PARA EL NERVIO CUBITAL .........................
+15
+1.3.
+CRITERIOS DE APLICACIÓN DEL APARTADO 
+ESPECÍFICO PARA EL PLEXO BRAQUIAL........................
+15
+2.
+DESCRIPCIÓN DEL PROBLEMA ..................................................
+16
+2.1.
+DEFINICIONES Y CONCEPTOS .........................................
+16
+2.2.
+FUENTES DE EXPOSICIÓN Y USOS.................................
+16
+2.3.
+MECANISMOS DE ACCIÓN, ETIOPATOGENIA .................
+17
+2.4.
+EFECTOS SOBRE LA SALUD.............................................
+19
+3.
+EVALUACIÓN DEL RIESGO ..........................................................
+20
+3.1.
+CLASIFICACIÓN DE FACTORES DE RIESGO...................
+20
+3.1.1.
+Factores de riesgo biomecánicos y ergonómicos ...
+20
+3.1.2.
+Factores de riesgo por susceptibilidad individual....
+22
+3.2.
+EVALUACIÓN POR FACTORES..........................................
+23
+3.2.1.
+Evaluación individual ...............................................
+23
+3.2.2.
+Valoración global de los factores de riesgo.............
+26
+3.3.
+NIVELES DE RIESGO..........................................................
+27
+4.
+PROTOCOLO MÉDICO ESPECÍFICO...........................................
+27
+4.1.
+HISTORIA LABORAL ...........................................................
+27
+
+10
+Pág.
+4.2.
+HISTORIA CLÍNICA..............................................................
+27
+4.3.
+HISTORIA CLÍNICA ESPECÍFICA..........................................
+28
+4.4.
+CRITERIOS DE VALORACIÓN............................................
+28
+5.
+NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO ....
+29
+5.1.
+APARTADO GENERAL PARA LA VIGILANCIA DE 
+LAS LESIONES POR PRESIÓN DE LOS NERVIOS 
+PERIFÉRICOS.......................................................................
+29
+5.2.
+APARTADO ESPECÍFICO PARA LA VIGILANCIA DE 
+LA LESIÓN DEL NERVIO MEDIANO EN EL TÚNEL 
+CARPIANO ...........................................................................
+30
+5.3.
+APARTADO ESPECÍFICO PARA LA VIGILANCIA DE 
+LAS LESIONES POR PRESIÓN DEL NERVIO CUBITAL...
+30
+5.4.
+APARTADO ESPECÍFICO PARA LA VIGILANCIA DE 
+LAS LESIONES POR PRESIÓN DEL PLEXO BRAQUIAL .
+30
+6.
+CONDUCTAS A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN.....................................................................................
+31
+7.
+NORMATIVA APLICABLE...............................................................
+31
+8.
+BIBLIOGRAFÍA ...............................................................................
+31
+ANEXOS:
+1.
+HISTORIA LABORAL......................................................................
+35
+2.
+APARTADO GENERAL. EXAMEN CLÍNICO NOEUROLÓGICO...
+41
+3.
+NERVIO MEDIANO EN EL TÚNEL CARPIANO. 
+EXAMEN CLÍNICO .........................................................................
+45
+4.
+NERVIO CUBITAL EN EL CODO. EXAMEN CLÍNICO..................
+47
+5.
+PLEXO BRAQUIAL EN EL DESFILADERO TORÁCICO. 
+EXAMEN CLÍNICO .........................................................................
+51
+6.
+GLOSARIO DE EXPLORACIÓN CLÍNICA.....................................
+55
+
+11
+INTRODUCCIÓN
+Este protocolo ha sido redactado para la prevención de las enfermedades
+neurológicas profesionales. Su fin fundamental es el de servir de ayuda al per-
+sonal sanitario de los servicios de prevención para detectar precozmente las
+primeras manifestaciones neurológicas en el trabajador como consecuencia
+de su exposición a riesgos en el puesto de trabajo. Por tanto se ha excluido
+toda la patología neurotraumatológica, dado que es consecuencia de acci-
+dentes y no de la tarea reglada del trabajador. También se han excluido las
+compresiones de la médula espinal y de sus raíces al entender que están en
+el campo de la traumatología y no en el de la neurología.
+No resulta sencillo protocolizar ninguna afección neurológica para que el
+protocolo pueda ser aplicado por médicos sin una formación neurológica
+específica. La neurología es una especialidad compleja, con rasgos dife-
+renciales respecto a las demás especialidades médicas. El más importante
+es el método diagnóstico en neurología. Ante el trabajador, el médico
+comienza por hacer un diagnóstico topográfico de la lesión, lo cual implica
+un conocimiento profundo de la anatomía, fisiología y propedéutica del sis-
+tema nervioso. Del diagnóstico topográfico se pasa al diagnóstico etiológi-
+co. Por la propia complejidad anatomofuncional del sistema nervioso, las
+manifestaciones de sus enfermedades son también complejas y conllevan
+una tarea meticulosa de diagnóstico diferencial.
+Este protocolo neurológico cubre por tanto el capítulo de las neuropatías
+por presión dividido en un APARTADO GENERAL-EXAMEN CLÍNICO NEU-
+ROLÓGICO, aplicable a las neuropatías por presión en general, y otros tres
+apartados destinados a la detección precoz de las tres neuropatías más fre-
+cuentes en Salud Laboral: el EXAMEN CLÍNICO DEL TÚNEL CARPIANO,
+el EXAMEN CLÍNICO DEL NERVIO CUBITAL EN EL CODO y el EXAMEN
+CLÍNICO DEL PLEXO BRAQUIAL EN EL DESFILADERO TORÁCICO.
+Estos cuatro apartados comparten una GUÍA GENERAL ajustada al mode-
+lo de protocolo por exposición (sobresfuerzo, trauma acumulativo) y se com-
+plementan con un ANEXO CLÍNICO en el que se describe lo esencial de la
+historia clínica neurológica, sobre todo la topografía lesional y las maniobras
+de exploración, así como las posibles lesiones ocupacionales por presión
+que, con menor frecuencia, afectan a otros nervios.
+
+12
+
+13
+NEUROPATÍAS POR PRESIÓN
+1. CRITERIOS DE APLICACIÓN
+El objeto de este protocolo es tratar de ayudar a la prevención de las
+neuropatías producidas por traumas repetidos en el puesto de trabajo. La
+detección precoz de los primeros signos y síntomas que expresan el sufri-
+miento neural permite intervenir médica y ergonómicamente antes de que
+se establezca la lesión, frecuentemente irreversible y crónica.
+En un estadío inicial se carcteriza por la presencia de síntomas sugesti-
+vos tales como parestesias en la región correspondiente del nervio, que se
+originan en reposo, y dolor de predominio nocturno. En fases iniciales no
+existe insensibilidad. Para realizar un diagnóstico de neuropatía por presión,
+dentro de los hallazgos objetivos destacar que el signo de Phalen es el más
+fiable, dentro de sus limitaciones, seguido del signo de Tinel, siendo este
+último más inespecífico; y como tercer criterio diagnóstico mencionar el pre-
+dominio del dolor nocturno.
+Estos apartados específicos, tanto el general como los dedicados a las
+lesiones neurales más prevalentes en nuestro entorno laboral, son de apli-
+cación en aquellos trabajadores que deben transportar cargas, realizar
+con las extremidades movimientos repetidos, violentos o irregulares,
+adoptar posturas difíciles o forzadas o con apoyos repetidos o pro-
+longados sobre zonas anatómicas en las cuales los nervios son parti-
+cularmente vulnerables a la compresión o a microtraumas repetidos,
+incluidos los ocasionados por herramientas vibrátiles. Las neuropatías
+por compresión o por atrapamiento, que unificaremos bajo el término de
+«neuropatías por presión», se encuadran dentro del conjunto heterogéneo
+de riesgos laborales que se engloban en términos genéricos como «sobres-
+fuerzo laboral», «trauma acumulativo» o «lesiones por esfuerzos repetidos»
+
+14
+(repetitive strain injuries). Por tanto, las lesiones nerviosas por presión
+generalmente comparten riesgos con lesiones musculares, articulares, ten-
+dinosas y vasculares en las mismas regiones anatómicas.
+Los oficios, puestos de trabajo y ámbitos de actividad económica de los
+trabajadores en riesgo de lesión neural por presión son enormemente varia-
+dos dada la cantidad de actividades y tareas de riesgo (ver fuentes de expo-
+sición en apartado 2.2). A título de ejemplo, entre muchos otros oficios y
+puestos de riesgo, se mencionan los siguientes:
+• Montaje manual (electrónica, mecánica, automóvil, etc.).
+• Industrias de cerámica.
+• Industrias textiles.
+• Mataderos (carniceros, matarifes).
+• Ordeñado manual.
+• Limpieza.
+• Albañiles, empedradores, agricultores, jardineros.
+• Soldadores, carpinteros, pulidores, pintores, leñadores, herreros.
+• Deportistas (ciclistas de fondo, lanzadores de martillo, disco, jabalina).
+• Trabajos manuales de talla, pulido, bruñido, burilado.
+• Telefonistas, empleados de zapatería.
+• Conductores, motoristas.
+• Empleados de mudanzas, descargadores.
+El apartado general es de aplicación en todos los trabajadores crónica-
+mente expuestos a los riesgos enunciados en el epígrafe 2.2. Los otros tres
+protocolos específicos se aplicarán con los siguientes criterios:
+1.1. Criterios de aplicación para el apartado específico del túnel carpiano
+a. Síntomas o signos clínicos sugestivos de compromiso incipiente del ner-
+vio mediano:
+• Parestesias, dolor o insensibilidad en el territorio del nervio mediano.
+• Maniobra de Phalen y/o signo de Tinel positivos.
+b. Exposición en el trabajo a riesgos de lesión del nervio mediano en el
+túnel carpiano:
+• Movimientos repetidos de muñeca y dedos.
+• Posturas forzadas mantenidas de la muñeca.
+• Apoyos prolongados sobre el talón de la mano.
+• Movimientos repetidos de prensión o de pinza manual.
+
+15
+• Golpeteo repetido con el talón de la mano.
+• Utilización regular de herramientas vibrátiles.
+• Uso frecuente de herramientas con empuñadura en el talón de la mano.
+1.2. Criterios de aplicación del apartado específico para el nervio cubital
+a. Síntomas o signos clínicos sugestivos de compromiso incipiente del ner-
+vio cubital:
+• Parestesias, dolor o insensibilidad en el territorio del nervio cubital (4º, 5º
+dedo y aspecto cubital de la mano sin desbordar hacia el antebrazo).
+• Pérdida de fuerza en interóseos.
+• Fenómeno de Raynaud con alguno de los dos anteriores.
+b. Exposición en el trabajo a riesgos de lesión del nervio cubital:
+• Apoyos repetidos y prolongados del codo sobre una superficie dura.
+• Sobrecarga del codo por movimientos de flexión repetidos y forzados.
+• Compresión continua y repetida del talón de la mano por instrumentos
+de trabajo.
+• Utilización regular de herramientas vibrátiles.
+1.3. Criterios de aplicación del apartado específico para el plexo braquial
+a. Síntomas o signos clínicos sugestivos de compromiso del plexo braquial
+en el desfiladero torácico:
+• Fenómeno de Raynaud en manos.
+• Parestesias, dolor o insensibilidad en la zona cubital de antebrazo y mano.
+• Torpeza para movimientos finos de los dedos durante el trabajo.
+b. Exposición en el trabajo a riesgos de lesión del plexo braquial:
+• Transportar cargas sobre el hombro.
+• Transportar cargas con las manos con los brazos colgando.
+• Transportar cargas suspendidas de cinchas que apoyen sobre el hom-
+bro o sobre el hueco supraclavicular.
+• Elevación prolongada o repetida de los brazos por encima del hombro.
+• Trabajo manual con los brazos extendidos semielevados sin flexión del
+codo.
+
+16
+2. DESCRIPCIÓN DEL PROBLEMA
+2.1. Definiciones y conceptos
+Neuropatías por presión de origen laboral son las lesiones nerviosas pro-
+ducidas por traumatismos repetidos a los nervios periféricos como conse-
+cuencia de las tareas desempeñadas en el puesto de trabajo que implican
+posturas forzadas mantenidas, esfuerzos o movimientos repetidos y apoyos
+prolongados o mantenidos.
+Para atribuir exclusivamente al trabajo una neuropatía tienen que concu-
+rrir dos hechos: 
+a. Existencia de un cuadro clínico definido de neuropatía.
+b. Factores de riesgo laborales suficientes, en cantidad y en calidad, para
+producir la lesión neural. 
+2.2. Fuentes de exposición y usos
+Se enumeran las tareas de riesgo más frecuentes (entre paréntesis se
+menciona el nervio más agredido):
+a. Carga y transporte de pesos:
+• Cargas pesadas sobre el hombro (plexo braquial, supraescapular, del
+serrato mayor).
+• Cargas suspendidas por cinchas que apoyan sobre el hombro: morrales,
+mochilas, armas (plexo braquial, supraescapular, del serrato mayor).
+• Levantar cargas y transportarlas con las manos con los brazos colgan-
+do (plexo braquial).
+b. Movimientos forzados repetidos:
+• Prensión o pinza con la mano, sobre todo con flexión mantenida de la
+muñeca (mediano).
+• Flexión y extensión de muñeca (mediano).
+• Flexión y extensión de codo (cubital).
+• Pronación-supinación de mano (radial, mediano).
+• Elevación de los brazos por encima de los hombros (plexo braquial).
+• Flexión y extensión del tobillo: pedales (tibial anterior y posterior, c.
+poplíteo i.).
+• Marcha prolongada (femorocutáneo).
+
+17
+c. Apoyos prolongados o repetidos sobre superficies duras o aristas:
+• Del talón de la mano (cubital, mediano).
+• Del codo (cubital).
+• De la cabeza del peroné (c. poplíteo e.).
+• De los dedos de la mano: empuñadura de tijeras (radial sensitivo).
+• Presión de cinturones inadecuados (abdominogenital, femorocutáneo).
+• Presión de calzados inadecuados (tibial posterior, metatarsalgia de
+Morton).
+d. Posturas mantenidas:
+• Brazos por encima de los hombros (plexo braquial).
+• Trabajo con las manos manteniendo los brazos extendidos horizontal-
+mente (plexo braquial).
+• Piernas cruzadas (c. poplíteo e.).
+• De rodillas sentado sobre los talones (c. poplíteo e., tibial posterior).
+• En cuclillas (c. poplíteo e.).
+• Postura de Buda (c. poplíteo e.).
+• Flexión del pie (tibial posterior).
+• Extensión del pie (tibial anterior).
+e. Herramientas:
+• Las que actúan por percusión: martillos, pistoletes neumáticos (media-
+no y cubital).
+• Que actúan por rotación: cortadoras y muelas eléctricas (cubital y
+mediano).
+• Percusión/rotación: taladros (cubital, mediano).
+• Con empuñadura corta y/o delgada y/o resbaladiza (cubital, mediano).
+• Pesadas para uso repetido: martillo de carpintero, hacha (cubital,
+mediano del serrato mayor).
+2.3. Mecanismos de acción, etiopatogenia
+Hay al menos cinco factores biomecánicos implicados en las neuropatías
+por presión:
+a. Aplastamientos de corta duración por objetos romos y duros sobre un
+nervio que discurre sobre un hueso. Por ejemplo, aplastamiento de los
+nervios digitales en los orificios de empuñadura de unas tijeras; golpes o
+presiones sobre la rama superficial del nervio radial en el radio.
+
+18
+b. Compresión mantenida y duradera de un tronco nervioso que discurre
+sobre un hueso. Por ejemplo, la parálisis por presión del nervio radial en
+el canal tricipital por apoyo mantenido durante el sueño.
+c. Compresión crónica recidivante. Puede darse por contracciones repeti-
+das de los músculos vecinos del nervio. Un ejemplo es la parálisis radial
+en el síndrome del supinador.
+d. Tracción longitudinal sobre el nervio. Este mecanismo interviene en ner-
+vios con poleas anatómicas o desfiladeros, por ejemplo, el nervio media-
+no en el túnel carpiano, el cubital en el canal epitrócleo-olecraniano, el
+nervio femorocutáneo en el ligamento inguinal o el ciático poplíteo exter-
+no en la cabeza del peroné.
+e. Fricción y microtraumatismos repetidos por elementos intensamente
+móviles en la vecindad del nervio. El nervio sufre más cuando en la zona
+anatómica concurren procesos fibroadhesivos. Este mecanismo está
+implicado, por ejemplo, en el síndrome del túnel carpiano (nervio media-
+no) con la sobrecarga de trabajo manual y en el nervio femorocutáneo
+durante la deambulación desacostumbradamente prolongada.
+Todos estos factores biomecánicos son capaces de lesionar directamen-
+te los nervios o indirectamente por procesos fibróticos o isquémicos.
+Las neuropatías por presión son muy numerosas. A continuación se
+enumeran las más frecuentes en patología laboral:
+• Plexo braquial. Compresión en el desfiladero torácico.
+• Nervio supraescapular. Compresión en la hendidura espinoglenoidea.
+• Nervio radial. Compresión en axila, en el canal humeral y en la celda
+del supinador.
+• Nervio mediano. Compresión en el túnel carpiano.
+• Nervio cubital. Compresión en el canal epitroclear y en el canal de Guyon.
+• Nervio ciático poplíteo externo. Compresión en la cabeza del peroné.
+• Nervio tibial anterior. Compresión e isquemia en la celda tibial anterior.
+• Nervio tibial posterior. Compresión en el túnel tarsiano.
+• Nervios interdigitales. Metatarsalgia de Morton.
+• Nervio femorocutáneo. Atrapamiento en el ligamento inguinal.
+De todas ellas, que en patología traumática accidental son mucho más
+numerosas, las que más frecuentemente tienen un origen laboral son las
+compresiones del nervio mediano en el túnel carpiano y la del nervio cubi-
+
+19
+tal en el canal epitroclear y en el canal de Guyon. Las compresiones del
+plexo braquial en el desfiladero torácico son más abigarradas en sus mani-
+festaciones clínicas. A efectos preventivos, las lesiones por atrapamiento de
+las raíces entran de lleno en la patología del raquis y, por tanto, en el campo
+de la traumatología. Sólo las compresiones del plexo braquial, las del ner-
+vio mediano en el túnel carpiano y las del nervio cubital en el canal epitro-
+clear y en el canal de Guyon son objeto aquí de protocolos propios. Las
+menos frecuentes están descritas en el anexo clínico y tienen cabida en el
+protocolo específico general para la vigilancia de las lesiones nerviosas por
+presión.
+2.4. Efectos sobre la salud
+Los efectos sobre la salud de una lesión nerviosa dependen de la arqui-
+tectura y función de la estructura neural afectada: plexo, nervio sensitivo,
+motor o mixto. Los síntomas sensitivos subjetivos (dolor, parestesias), obje-
+tivos (hipoestesia, anestesia), la pérdida de fuerza y los trastornos disauto-
+nómicos, producen disconfort y diferentes grados de incapacidad laboral
+transitoria o permanente.
+Los síndromes por sobresfuerzo repetido o trauma acumulativo en el
+puesto de trabajo, dentro de los cuales se integran las neuropatías por pre-
+sión, están aumentando en todo el mundo hasta alcanzar proporciones epi-
+démicas en algunas industrias. Por ejemplo, en USA durante 1990 estos
+síndromes constituyeron el 60% de las enfermedades laborales. Casi dos
+millones de trabajadores tenían síntomas de síndrome del túnel carpiano.
+Aunque parte de este aumento puede deberse a una mejor y más precoz
+detección, un estilo de trabajo cada vez más competitivo y mecanizado es
+también responsable.
+Las lesiones por sobresfuerzo repetido de los miembros superiores
+afectan mayoritariamente a trabajadores jóvenes (20-40 años). Se produ-
+cen mayoritariamente durante los primeros cinco años de exposición al fac-
+tor de riesgo. Además, tienen una importante tendencia a la recidiva. De
+todo ello se deduce la importancia de la labor preventiva mediante una
+detección precoz de las lesiones y la prevención mediante medidas de
+intervención ergonómica.
+Entre el conjunto de lesiones por sobresfuerzo repetido de los miem-
+bros superiores, mayoritariamente tendinosas y musculoesqueléticas, el
+síndrome del túnel carpiano constituye aproximadamente el 5% y las neu-
+ropatías cubitales el 3%. El resto de lesiones nerviosas constituyen una
+amplia miscelánea que no supera estos porcentajes. Según datos del Ins-
+tituto Navarro de Salud Laboral, durante 1995 las neuropatías por presión
+
+20
+constituyeron el 7,52% de casos incidentes con baja laboral, siendo algo
+más frecuentes entre las mujeres (9,20%) que entre los hombres (7,08%).
+La media de exposición al riesgo fue de 102 meses. En series quirúrgicas
+de síndrome del túnel carpiano, se achacaron al trabajo el 55% de los
+casos en mujeres y el 75% en hombres. En torno al 60% de los casos el
+síndrome es bilateral y en un 25% se asocia a neuropatía cubital en el
+canal de Guyon.
+Como es lógico, el miembro superior derecho es el más afectado, al
+menos entre los sujetos diestros. El abanico de profesiones, oficios, cate-
+gorías profesionales y ámbitos de actividad económica es enormemente
+variado. Por ello, más importante que hacer un interminable listado de todos
+ellos, es que el personal sanitario de los servicios de prevención esté bien
+informado de los factores de riesgo a los que están expuestos sus trabaja-
+dores en los diferentes puestos de trabajo.
+3. EVALUACIÓN DEL RIESGO
+3.1. Clasificación de factores de riesgo
+En la evaluación del riesgo hay que tener en cuenta dos tipos de factores:
+• Biomecánicos y ergonómicos.
+• Por susceptibilidad individual.
+3.1.1. Factores de riesgo biomecánicos y ergonómicos
+Son riesgos exclusivamente laborales derivados de la exposición al
+agente, en este caso, mecánico. El riesgo aumenta en función del tiempo
+de exposición, la intensidad, y la reiteración de la presión. Los factores de
+riesgo son los descritos en el epígrafe 2.2: fuentes de exposición, a los que
+se añade la frecuencia de manipulación.
+Se enumeran los factores de riesgo admitidos (entre paréntesis se men-
+ciona el nervio más agredido):
+a. Carga y transporte de pesos:
+• Cargas pesadas sobre el hombro (plexo braquial, supraescapular, del
+serrato mayor).
+• Cargas suspendidas por cinchas que apoyan sobre el hombro: morrales,
+mochilas, armas (plexo braquial, supraescapular, del serrato mayor).
+• Levantar cargas y transportarlas con las manos con los brazos colgan-
+do (plexo braquial).
+
+21
+b. Movimientos forzados repetidos:
+• Prensión o pinza con la mano, sobre todo con flexión mantenida de la
+muñeca (mediano).
+• Flexión y extensión de muñeca (mediano).
+• Flexión y extensión de codo (cubital).
+• Pronación-supinación de mano (radial, mediano).
+• Elevación de los brazos por encima de los hombros (plexo braquial).
+• Flexión y extensión del tobillo: pedales (tibial anterior y posterior, c.
+poplíteo i.).
+• Marcha prolongada (femorocutáneo).
+c. Apoyos prolongados sobre superficies duras o aristas:
+• Del talón de la mano (cubital, mediano).
+• Del codo (cubital).
+• De la cabeza del peroné (c. poplíteo e.).
+• De los dedos de la mano: empuñadura de tijeras (radial sensitivo).
+• Presión de cinturones inadecuados (abdominogenital, femorocutáneo).
+• Presión de calzados inadecuados (tibial posterior, metatarsalgia de
+Morton).
+d. Posturas mantenidas:
+• Brazos por encima de los hombros (plexo braquial).
+• Trabajo con las manos manteniendo los brazos extendidos horizontal-
+mente (plexo braquial).
+• Piernas cruzadas (c. poplíteo externo).
+• De rodillas sentado sobre los talones (c. poplíteo e., tibial posterior).
+• En cuclillas (c. poplíteo e.).
+• Postura de Buda (c. poplíteo e.).
+• Flexión del pie (tibial posterior).
+• Extensión del pie (tibial anterior).
+e. Herramientas:
+• Las que actúan por percusión: martillos, pistoletes neumáticos (media-
+no y cubital).
+• Que actúan por rotación: cortadoras y muelas eléctricas (cubital y
+mediano).
+• Percusión/rotación: taladros (cubital, mediano).
+• Con empuñadura corta y/o delgada y/o resbaladiza (cubital, mediano).
+• Pesadas para uso repetido: martillo de carpintero, hacha (cubital,
+mediano, del serrato mayor).
+
+22
+f. Frecuencia de manipulación:
+• 1 vez cada 5 minutos.
+• 1 vez/minuto.
+• 4 veces/minuto.
+• 9 veces/minuto.
+• 12 veces/minuto.
+• > 15 veces/minuto.
+• Duración de la manipulación:
+- < 1 h/día.
+- > 1 h y < 2 h.
+- > 2 h y < 8 h.
+3.1.2. Factores de riesgo por susceptibilidad individual:
+a. De naturaleza no laboral, facilitan las lesiones neurales en el puesto de
+trabajo interactuando con los riesgos propiamente laborales. Los más
+frecuentes son los siguientes:
+• Deportes, aficiones y tareas domésticas.
+b. Factores anatómicos, en presencia de los cuales los nervios son más
+vulnerables; por ejemplo:
+• Fracturas o artrosis de clavícula, codo, muñeca o tobillo.
+• Gangliones, tenosinovitis.
+• Escoliosis dorsal, tórax enfisematoso (estrechan el espacio costo-clavi-
+cular).
+• Aplasia de clavícula.
+• Costilla cervical.
+• Megaapófisis transversa C7, sobre todo si tiene forma ganchuda.
+• Apófisis supraepitroclear del húmero (se asocia a atrapamiento del
+cubital y del mediano).
+• Túnel carpiano constitucionalmente estrecho.
+• Deformidades traumáticas, degenerativas o congénitas de los desfi-
+laderos.
+c. Alteraciones metabólicas, hormonales, carenciales o tóxicas que pueden
+contribuir al estrechamiento de los desfiladeros nerviosos o hacer a los
+nervios más vulnerables por producir polineuropatía que puede ser sub-
+clínica. Son, entre otras, las siguientes:
+• Artritis reumatoide.
+• Amiloidosis.
+• Colagenosis.
+
+23
+• Diabetes mellitus.
+• Hipotiroidismo.
+• Obesidad.
+• Adelgazamiento intenso rápido.
+• Gota.
+• Embarazo.
+• Anovulatorios.
+• Menopausia.
+• Ooforectomía bilateral.
+• Alcoholismo/malnutrición.
+• Carencia de Vitamina B12 (gastritis crónica, gastrectomía).
+• Fármacos potencialmente neurotóxicos: - Isoniazida.
+- Difenilhydantoína.
+- Antabús.
+- Amiodarona.
+- Cloramfenicol.
+- Amitryptilina.
+- Metronidazol.
+- Perhexilina maleato.
+- Citostáticos.
+• Neuropatía con hipersensibilidad a la compresión (neuropatía tomacular).
+Es una neuropatía autosómica dominante con susceptibilidad familiar a
+las parálisis por compresión de nervios periféricos y a parálisis indoloras
+del plexo braquial. Tiene hallazgos electroneurofisiológicos sugestivos. Se
+diagnostica por biopsia nerviosa con estudio de fibras separadas.
+3.2. Evaluación por factores
+3.2.1. Evaluación individual
+a. Carga y transporte de pesos
+Peso en carga
+Factor de 
+o transporte
+corrección
+Cargas pesadas sobre el hombro (plexo braquial, 
+supraescapular, del serrato mayor).
+< 3 kg.
+1
+Cargas suspendidas por cinchas que apoyan 
+sobre el hombro: morrales, mochilas, armas 
+(plexo braquial, supraescapular, del serrato mayor).
+> 3 y <15 kg.
+0,87
+Levantar cargas y transportarlas con las manos 
+con los brazos colgando (plexo braquial).
+> 15 kg.
+0,72
+
+24
+b. Movimientos forzados
+• Prensión o pinza con la mano, sobre todo con flexión mantenida de la
+muñeca (mediano) (N 90o).
+• Flexión y extensión de muñeca (mediano) (N 90o + 70o).
+• Flexión y extensión de codo (cubital) (N 160o).
+• Pronación-supinación de mano (radial, mediano) (N 90o + 90o).
+• Elevación de los brazos por encima de los hombros (plexo braquial) (N
+180o).
+• Flexión y extensión del tobillo; pedales (tibial anterior y poterior, C.P.I.)
+(N 30o + 50o).
+• Marcha prolongada (femorocutáneo).
+Flexoextensión 
+Factor de 
+en grados
+corrección
+Flexoextensión de la articulación solicitada menor 
+de un tercio de la movilidad articular en grados o 
+requerimiento similar.
+< 30%
+1
+Flexoextensión de la articulación solicitada entre 
+uno y dos tercios de la movilidad articular en 
+grados o requerimiento similar.
+> 30% <60%
+0,99
+Flexoextensión de la articulación solicitada mayor 
+de dos tercios de la movilidad articular en grados 
+o requerimiento similar.
+> 60%
+0,85
+RESTRICCIÓN: en hombro se considerará el grado máximo a partir de los 90º de elevación.
+c. Apoyos prolongados sobre superficies duras o aristas
+• Del talón de la mano (cubital, mediano).
+• Del codo (cubital).
+• De la cabeza del peroné (c. poplíteo e.).
+• De los dedos de la mano: empuñadura de tijeras (radial sensitivo).
+• Presión de cinturones inadecuados (abdominogenital, femorocutáneo).
+• Presión de calzados inadecuados (tibial posterior, metatarsalgia de
+Morton).
+Factor de corrección
+< 1 h/día
+1
+> 1 h y < 2 h
+0,90
+> 2 h y < 8 h
+0,82
+
+25
+d. Posturas mantenidas
+• Brazos por encima de los hombros (plexo braquial).
+• Trabajo con las manos manteniendo los brazos extendidos horizontal-
+mente (plexo braquial).
+• Piernas cruzadas (c. poplíteo externo).
+• De rodillas sentado sobre los talones (c. poplíteo e., tibial posterior).
+• En cuclillas (c. poplíteo e.).
+• Postura de Buda (c. poplíteo e.).
+• Flexión del pie (tibial posterior).
+• Extensión del pie (tibial anterior).
+Factor de corrección
+< 1 h/día
+1
+> 1 h y < 2 h
+0,92
+> 2 h y < 8 h
+0,87
+e. Herramientas
+• Las que actúan por percusión: martillos, pistoletes neumáticos (media-
+no y cubital).
+• Que actúan por rotación: cortadoras y muelas eléctricas (cubital y mediano).
+• Percusión/rotación: taladros (cubital, mediano).
+• Con empuñadura corta y/o delgada y/o resbaladiza (cubital, mediano).
+• Pesadas para uso repetitivo: martillo de carpintero, hacha (cubital,
+mediano, del serrato mayor).
+Factor de corrección
+Agarre bueno, sin vibración
+1
+Agarre mediano y/o con vibración ligera/moderada
+0,94
+Agarre malo y/o con vibración intensa
+0,89
+f. Frecuencia de manipulación
+-  1 vez cada 5 minutos.
+Duración de la manipulación:
+-  1 vez/minuto.
+-  < 1 h/día.
+-  4 veces/minuto.
+-  > 1 h y < 2 h.
+-  9 veces/minuto.
+-  > 2 h y < 8 h.
+-  12 veces/minuto.
+-  > 15 veces/minuto.
+
+26
+Frecuencia de manipulación
+Duración de la manipulación
+< 1 h/día
+> 1 h y < 2 h > 2 h y < 8 h
+Factor de corrección
+1 vez cada 5 minutos.
+1
+0,98
+0,85
+1 vez/minuto.
+1
+0,94
+0,78
+4 veces/minuto.
+0,96
+0,86
+0,60
+9 veces/minuto.
+0,90
+0,78
+0,50
+12 veces/minuto.
+0,85
+0,70
+0,30
+> 15 veces/minuto.
+0,65
+0,50
+0
+g. Susceptibilidad individual
+Se revisará si existe entre los trabajadores factores documentados de
+susceptibilidad individual (punto 3.1.2)
+Se superan adecuadamente los factores de riesgo 
+por susceptibilidad individual? 
+SI
+NO
+3.2.2. Valoración global de los factores de riesgo
+Valoración inicial de situación aceptable: 10 PUNTOS
+Cálculo de la valoración global
+Situación
+Peso
+Movi-
+Apoyo
+Posturas
+Herra-
+Frecuencia
+Valoración
+aceptable
+mientos
+prolongado
+mantenidas
+mientas
+de mani-
+forzados
+pulación
+10
+x
+A
+x
+B
+x
+C
+x
+D
+x
+E
+x
+F
+=
+g. Susceptibilidad personal documentada: valorar según 
+Entre
+la posible influencia que pueda tener en el riesgo:
+1 y 0,75
+VALORACIÓN GLOBAL
+_____   puntos
+
+27
+4. PROTOCOLO MÉDICO ESPECÍFICO
+4.1. Historia laboral
+En la historia laboral se deben recoger datos referentes a:
+• Puestos de trabajo que ha desempeñado anteriormente, con sus acti-
+vidades de riesgo y el tiempo que ha estado realizando las mismas.
+• Puesto actual, antigüedad en el mismo, riesgos, tiempo diario de expo-
+sición al mismo, modalidad de trabajo a ritmo o no, número y tiempo de
+las pausas en la jornada.
+En el ANEXO 1 proponemos un modelo de historia laboral que se com-
+pleta en cuanto a exploración física se refiere con el resto de anexos, rela-
+tivos al examen clínico neurológico.
+4.2. Historia clínica
+Como toda historia clínica, debe contener una anamnesis: antecedentes
+familiares, personales; enfermedad actual: una exploración física, explora-
+ción neurológica sencilla dirigida al problema, unos exámenes complemen-
+tarios igualmente adaptados a cada caso, una conclusión o juicio clínico y
+unas recomendaciones de prevención y de seguimiento. Este protocolo
+incluye un apartado como modelo para las neuropatías por presión en gene-
+ral y otros tres específicos para las compresiones del plexo braquial en el
+3.3. Niveles de riesgo
+Nivel de riesgo
+Puntos
+Estado de la
+Examen
+Evaluación
+Clínico
+I
+10-7
+Riesgo aceptable.
+Situación satisfactoria.
+2 años
+II
+7-5
+Riesgo moderado. Valorar y 
+planificar las modificaciones 
+que reduzcan el riesgo.
+1 año
+III *
+<5
+Riesgo no tolerable. 
+Reducción del riesgo y nueva
+evaluación del riesgo.
+* Riesgo no tolerable: se deberán adoptar prioritariamente medidas para la eliminación del
+riesgo al nivel más bajo que sea razonablemente posible.
+
+28
+desfiladero torácico, para el nervio mediano en el síndrome del túnel car-
+piano y para el nervio cubital.
+4.3. Exploración clínica específica
+La exploración clínica específica es una exploración neurológica dirigida
+al problema. Se debe prestar especial atención a los siguientes aspectos:
+• Deformidades esqueléticas.
+• Atrofia muscular focal.
+• Déficit motor de distribución plexual o troncular.
+• Reflejos tendinosos (su abolición indica polineuropatía).
+• Sensibilidades superficiales y profundas, cuando menos la dolorosa y
+la térmica. Se prestará atención a que su alteración tenga una distribu-
+ción coherente por la anatomía nerviosa.
+• Maniobras específicas para cada lesión neural o desfiladero (descritas
+en el anexo 6).
+Los exámenes clínicos específicos se incluyen en los anexos 2, 3, 4 y 5.
+4.4. Criterios de valoración
+La valoración de los signos y síntomas se realiza en cinco grados:
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Parestesias ligeras.
+Grado 2
+Grado 1 + dolor intermitente.
+Grado 3
+Grado 2 + limitación funcional.
+Grado 4
+Grado 3 + paresia o Raynaud.
+El grado 0 se asignará cuando el trabajador no presente signos ni sín-
+tomas sospechosos de neuropatía por presión.
+El grado 1 corresponde a la aparición de parestesias ligeras. La pares-
+tesia es el síntoma más frecuente y precoz en las lesiones neurológicas
+periféricas de cualquier etiología y se corresponde con la irritación leve de
+las terminaciones nerviosas sensitivas; la alteración de la sensibilidad táctil
+puede también manifestarse como hipoestesia o disestesia.
+
+29
+El grado 2 añade a las parestesias, en mayor o menor grado y duración,
+la presencia de dolor, habitualmente intermitente, y que indicará una acción
+más intensa del agente sobre el nervio periférico.
+El grado 3 se aplicará a los casos en que, a la presencia de parestesias
+y dolor, se suma la limitación funcional, indicativa de una intensidad más
+severa de la sintomatología neurológica sensitiva y/o de los primeros signos
+clínicos de lesión motora.
+El grado 4 supone el establecimiento de un claro déficit funcional por
+lesión motora y sensitiva que puede acompañarse del fenómeno de Ray-
+naud. Previo diagnóstico etiológico, confirmará el cuadro clínico de neuro-
+patía por presión.
+Los criterios de valoración se definen como sigue:
+Aptos
+No aptos
+En observación
+Apto: Cuando el trabajador no presenta una afectación osteomuscular o
+en la anamnesis no revela una fatigabilidad anormal.El trabajador podrá
+desempeñar su tarea habitual sin ningún tipo de restricción.
+No apto: Calificación que recibe el trabajador cuando el desempeño de
+las tareas impliquen problemas serios de salud o ésta le imposibilite la
+realización de las mismas.
+En observación: Calificación que recibe el trabajador que está siendo
+sometido a estudio y/o vigilancia médica a fin de determinar su grado de
+capacidad.
+5. NORMAS PARA LA CUMPLIMENTACIÓN DEL PROTOCOLO
+Para una correcta aplicación de este protocolo es necesario indicar cómo
+se ha vertebrado. Está compuesto de los siguientes instrumentos:
+5.1. Apartado general para la vigilancia de las lesiones por presión de
+los nervios periféricos.
+Este apartado troncal está destinado a la detección precoz de las lesio-
+nes por presión de todos los nervios periféricos. Por tanto es de aplicación
+
+30
+en todos los sujetos expuestos a riesgos sin unos riesgos concluyentes para
+las tres lesiones nerviosas que, por su mayor frecuencia, han sido objeto de
+apartados específicos propios: el nervio mediano en el túnel carpiano, el
+nervio cubital en el canal epitroclear y en el canal de Guyon, y el plexo bra-
+quial en el desfiladero torácico. Si después de utilizar el apartado general se
+detectan signos o síntomas sugestivos de una de las tres lesiones neurales
+mencionadas, podría aplicarse el apartado específico correspondiente.
+5.2. Apartado específico para la vigilancia de la lesión del nervio
+mediano en el túnel carpiano.
+Este apartado es de aplicación en aquellos sujetos que, de entrada o
+después de la aplicación del «protocolo específico general», se entienda
+que pueden estar expuestos a padecer un síndrome del túnel carpiano inci-
+piente (ANEXO 3).
+5.3. Apartado específico para la vigilancia de las lesiones por presión
+del nervio cubital.
+Este apartado es de aplicación en aquellos sujetos que, de entrada o
+después de la aplicación del «protocolo específico general», se entienda
+que pueden estar expuestos a padecer una neuropatía cubital incipiente
+(ANEXO 4).
+5.4. Apartado específico para la vigilancia de las lesiones por presión
+del plexo braquial.
+El último apartado es de aplicación en aquellos sujetos que, de entrada
+o después de la aplicación del «apartado específico general», se entienda
+que pueden estar expuestos a padecer una plexopatía braquial incipiente
+(ANEXO 5).
+El protocolo se aplicará a todos los trabajadores que ocupen puestos con
+exposición regular a riesgos como los especificados en el apartado 2.2.
+Para la evaluación del riesgo específico de los puestos de trabajo, previa
+a la decisión de planificar la exploración clínica específica, deberán seguir-
+se los pasos indicados en el punto 3, EVALUACIÓN DEL RIESGO.
+A fin de facilitar la cumplimentación del protocolo, los anexos para el
+examen clínico se estructuran en forma de respuestas cerradas en la mayor
+parte de los casos. En los casos en que se admitan respuestas abiertas,
+deberán cumplimentarse de manera concisa.
+
+31
+En el ANEXO 1 se dispone de un modelo general de historia laboral que
+también puede facilitar el seguimiento de los casos atípicos y ayudar al per-
+sonal sanitario del servicio de prevención. Servirán así mismo para docu-
+mentar la realización de la vigilancia de la salud.
+6. CONDUCTA A SEGUIR SEGÚN LAS ALTERACIONES QUE SE
+DETECTEN
+En primer lugar deberá tenerse en cuenta la actuación sobre el medio
+para reducir la exposición al riesgo: corregir posturas y movimientos anó-
+malos o forzados, los apoyos prolongados, los movimientos y esfuerzos
+repetidos, mejorando la ergonomía de las herramientas y tareas y redu-
+ciendo el sobresfuerzo con cambios, rotaciones o pausas más frecuentes
+en el puesto de trabajo, provisional o definitivamente. En presencia de neu-
+ropatía, se apartará al trabajador de la fuente de exposición y se valorará la
+remisión para estudio especializado en neurología.
+7. NORMATIVA APLICABLE
+1.
+Ley 31/95 de Prevención de Riesgos Laborales.
+2.
+R.D. 39/97 de17 de enero, Reglamento de los Servicios de Prevención
+de Riesgos Laborales.
+3.
+Real Decreto 1.995/78 (12-5-78) publicado en el B.O.E. de 25 de agos-
+to por el que se aprueba el cuadro de enfermedades profesionales en
+el sistema de la Seguridad Social.
+4.
+Real Decreto 487/97 sobre manipulación de cargas.
+8. BIBLIOGRAFÍA
+1.
+Adams R, Victor M. «Principles of Neurology». Mc Graw-Hill, Inc. New
+York 1993.
+2.
+Airaksinen EM, Livanainen M, Karli P, Sainio K, Haltia M. «Hereditary
+recurrent brachial plexus neuropathy with dysmorphic features». Acta
+Neurol Scand 1985; 71: 309.
+3.
+Atterbury MR, Limke JC, Lemasters GK, Li Y, Forrester C, Stinson R,
+Applegate H. «Nested case-control study of hand and wrist work-rela-
+ted musculoeskeletal disorders in carpenters». Am J Ind Med 1966;
+30: 695. 
+
+32
+4.
+Barbieri PG. «Sindrome del tunnel carpale in addetti all'assemblaggio di
+manufatti vari nell'industria del bresciano». Med Lav 1996; 67: 686.
+5.
+Barnhartz S, Demers PA, Miller M, Longstreeth WY Jr, Rosenstok L.
+«Carpal tunnel syndrome among ski manufacturing workers». Scand J
+Work Environ Health 1991; 17: 46.
+6.
+Bermejo Pareja F. «Neurología clínica básica». Ediciones Díaz Santos;
+Madrid 1996.
+7.
+Beshe F, Buchtal F, Carlsen F, Knappeis GG. «Hereditary neuropathy
+with liability to pressure palsies. Electrographic and hitopathological
+aspects». Brain 1972; 95: 77.
+8.
+Bickerstaff ER. «Neurological examination in clinical practice». Black-
+well Scientific Publications, Oxford, London, Edinburg, Melbourne 1976. 
+9.
+Bingham RC, Rosecrance JC, Cook TM. «Prevalence of abnormal
+median nerve conduction in applicants for industrial jobs». Am J Ind Med
+1996; 30: 355.
+10. Blanc PD, Faucett J, Kennedy JJ, Cisternas M, Yelin E. «Self reportes
+carpal tunnel : predictors of work disability fron the National Health Inter-
+view Survey Occupational Health Supplement». Am J Ind Med 1966; 30:
+362.
+11. Dale WA. «Thoracic outlet compression syndrome». Arch Surg 1982;
+117: 1437.
+12. De Stefano F, Nordstrom DL, Vierkant RA. «Long-term symptom outco-
+mes of carpal tunnel syndrome and its treatment». J Hand Surg Am
+1997; 22: 200.
+13. Dyck PJ et al (eds). «Peripheral Neuropathy» (2nd ed.) Saunders ; Phi-
+ladelphia, 1984.
+14. Esposito MD, Arrington JA, Blakshear MN, Murtagh FR, Silbiger ML.
+«Thoracic outlet syndrome in a trhowing athlete diagnosed with MRI and
+MRA». J Magn Reson Imaging 1997; 7: 598.
+15. Färkkilä M, Aatola S, Stark J Pyykö I, Korhonen O. «Vibration-induced
+neuropathy among forestry workers». Acta Neurol Scand 1985; 71: 221.
+16. Finelli PF. Di Benedetto M. «Bilateral involvement of the lateral cutane-
+ous nerve of the calf in a diabetic». Ann Neurol 1978; 4: 480.
+17. Garland FC, Garland CF, Doyle EJ Jr, Balazs LL, Levine R, Pugh WM,
+Gorham ED. «Carpal tunnel syndrome and occupation in U.S. Navy
+enlisted personnel». Arch Environ Health 1996; 51: 395.
+18. Komanetsky RM, Novak CB, Mackinnon SE, Russo MH; Padberg AM,
+Louis S. «Somatosensofy evoked potentials fail to diagnose thoracic
+outlet syndrome». J Hand Surg Am 1996; 21: 662.
+
+33
+19. Laha RK, Dujovny M, De Castro SC. «Entrapment of median nerve by
+supracondylar process of the humerus». J Neurosurg 1977; 46: 252.
+20. Lascelles RG, Mohr PD, Neary D, Bloor K. «The thoracic outlet syndro-
+me». Brain 1977; 100: 601.
+21. Marqués F, Solé MD. «El síndrome del túnel carpiano. Criterios de vigi-
+lancia epidemiológica». Salud y Trabajo 1992; 94: 34.
+22. Martinelli M, Carry MG. «Valutazione dell'esposizione a sovraccarico
+bio-meccanico degli arti superiori e indagine clinica in a popolazione
+femminile adetta alla alimentazione manuale di linee presso due impres-
+se ceramiche». Med Lav 1996; 87: 675.
+23. Moncada M. «Ergonimía correctiva. Problemas ergonómicos y micro-
+traumas repetidos». Mapfre Seguridad 1989; 36: 35.
+24. Mumenthaler M, Schiliack H. «Patología de los nervios periféricos: diag-
+nóstico y tratamiento». Ediciones Toray SA; Barcelona 1976.
+25. Nilsson T, Hagberg M, Burstrom L, Kihlberg S. «Inpaired nerve conduc-
+tion in the carpal tunnel of platters and truck assemblers esposed to
+hand-arm vibration». Scand J Work Environ Health 1994; 20: 189.
+26. O'Brien MD. «Genitofemoral neuropathy». Brit Med J 1979, 1: 1052.
+27. Oates SD, Daley RA. «Thoracic outlet syndrome». Hand Clin 1996; 12: 705.
+28. Pikett JB. «Localizing peroneal nerve lesions to the knee by motor con-
+duction studies». Arch Neurol 1984; 41: 192.
+29. Puértolas C. Otero C. «Estudio de la patología del miembro superior
+producida por movimientos repetitivos». Salud y Trabajo 1996; 116: 10.
+30. Ranney D. «Thoracic outlet: an anatomical redefinition that makes clini-
+cal sense». Clin Anat 1996; 9: 50.
+31. Rempel DM, Harrison RJ, Barnharth S. «Work-related cumulative trau-
+ma disorders of the upper extremity». JAMA 1992; 267: 838. 
+32. Rossignol M, Stock S, Patry L, Armstrong B. «Carpal tunnel syndrome:
+wath is attributable to work? The Montreal study». Occup Environ Med
+1997; 54: 519. 
+33. Sotaniemi K. «Slimmer's paralysis-peroneal neuropathy during weight
+reduction». J Neurol Neurosurg Psyciatry 1984; 47: 564.
+34. Stallings SP, Kasdan ML, Soergel TM, Corwin HM. «A case-control
+study of obesity as a risk factor for carpal tunnel syndrome in a popula-
+tion of 600 patients presenting for independent medical examination». J
+Hand Surg Am 1997; 22: 211. 
+35. Sunderland S. «Nervios periféricos y sus lesiones». Salvat, Barcelona
+1985.
+
+34
+36. Swash M, Schwartz MS. «Neuromuscular diseases: a practical appro-
+ach to diagnosis and management». Springer-Verlag, Berlin, Heidel-
+berg, New York 1981.
+37. Swift TR, Nichols FT. «The droopy shoulder syndrome». Neurology
+1984; 34: 212.
+38. Tobalina Y, Alvaro Gonzalez LC, García Andrade L. «Síndrome de aper-
+tura torácica superior y angiorresonancia diagnóstica». Rev Neurol
+1996; 24: 1541.
+39. Winken PJ, Bruyn GW (eds). «Handbook of Clinical Neurology». Vol 7,
+Part I. North-Holland Publishing Company; Amsterdam 1970.
+40. Yassi Y. «Repetitive strain injuries». Lancet 1997; 349: 943-947.
+41. Yassi A, Spout J, Tate R. «Upper limb repetitive strain injuries in Mani-
+toba». Am J Ind Med 1996; 30: 461.
+42. «Guía técnica para la evaluación de los riesgos relativos a la manipula-
+ción manual de cargas». INSHT, 1998.
+
+35
+ANEXO I
+HISTORIA LABORAL
+HISTORIA LABORAL
+1. Datos de filiación del trabajador/a
+Apellidos y nombre ...........................................................................................................................................
+Sexo:           o V            o F
+Fecha de nacimiento:.......................................................................................................................................
+Nº de la SS: ............................................................... D.N.I. ..............................................................................
+Dirección:....................................................................................................................................................................
+Historia Nº:............................................ Fecha de realización: ............................................................
+2. Datos del reconocimiento
+Nombre y apellidos del médico del trabajo...................................................................................
+Nº de colegiado: ...................................................................................................................................................
+Fecha de realización:.......................................................................................................................................
+Servicio de prevención que realiza el reconocimiento: ......................................................
+Tipo (propio, ajeno, trabajador designado):..................................................................................
+3. Exposición actual al riesgo
+Datos de filiación de la empresa:
+Empresa: ...................................................... CNAE:.................................... CNO:.......................................
+Domicilio Social: .......................................................... Localidad:.............................................................
+Centro de trabajo: ...............................................................................................................................................
+Tamaño de plantilla: ..........................................................................................................................................
+
+36
+Datos relativos al puesto de trabajo:
+Antigüedad en el puesto de trabajo:...................................................................................................
+Descripción del puesto de trabajo:.......................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+4. Tipo de trabajo:
+Tiempo de tarea:
+Nº de horas/día en el trabajo: ...........................................................................................................
+o < 1 h / día.
+o > 1 h y < 2 h / día.
+o > 2 h / día y < 8 h / día.
+Nº de horas/semana en el trabajo: ...............................................................................................
+Tipo de tarea:
+A) Carga y transporte de pesos:
+o Cargas pesadas sobre el hombro.
+o Cargas suspendidas por cinchas que apoyan sobre el hombro: morra-
+les, mochilas.
+o Levantar cargas y transportarlas con las manos con los brazos col-
+gando.
+B) Movimientos forzados repetidos:
+o Prensión o pinza con la mano, sobre todo con flexión mantenida de la
+muñeca.
+o Flexión y extensión de muñeca.
+o Flexión y extensión de codo.
+o Pronación-supinación de mano.
+o Elevación de los brazos por encima de los hombros.
+o Flexión y extensión del tobillo: pedales, etc.
+o Marcha prolongada.
+
+37
+C) Apoyos prolongados o repetitivos sobre superficies duras o aristas:
+o Del talón de la mano.
+o Del codo.
+o De la cabeza del peroné.
+o De los dedos de la mano: empuñadura de tijeras, etc.
+o Presión de cinturones inadecuados.
+o Presión de calzados inadecuados.
+D) Posturas mantenidas:
+o Brazos por encima de los hombros.
+o Trabajo con las manos manteniendo los brazos extendidos horizon-
+talmente.
+o Piernas cruzadas.
+o De rodillas sentado sobre los talones.
+o En cuclillas.
+o Postura de Buda.
+o Flexión del pie.
+o Extensión del pie.
+E) Herramientas:
+o Las que actúan por percusión: martillos, pistoletes neumáticos.
+o Que actúan por rotación: cortadoras y muelas eléctricas.
+o Percusión/rotación: taladros, etc.
+o Con empuñadura corta y/o delgada y/o resbaladiza.
+o Pesadas para uso repetitivo: martillo de carpintero, hacha, etc.
+Herramientas y mandos que utiliza a diario (describir): ....................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+Frecuencia de manipulación:
+o 1 vez cada 5 minutos.
+o 1 vez/minuto.
+o 4 veces/minuto.
+o 9 veces/minuto.
+o 12 veces/minuto.
+o 15 veces/minuto.
+
+38
+Turnos de trabajo (especificar): .............................................................................................................
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+Pausas en el trabajo:
+Pausas
+Horas
+1ª
+2ª
+3ª
+4ª
+5ª
+6ª
+7ª
+8ª
+Observaciones:......................................................................................................................................................
+.............................................................................................................................................................................................
+Nº de trabajadores expuestos a tareas de riesgo: .................................................................
+¿Han sido evaluados anteriormente los riesgos de su puesto de trabajo?
+o Si    o No
+En caso afirmativo indicar la fecha aproximada de la última evaluación: ..................
+Anotar en caso de conocerlos, qué riesgos para la salud fueron detectados:
+.............................................................................................................................................................................................
+.............................................................................................................................................................................................
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+EMPRESA
+ACTIVIDAD (CNAE)
+OCUPACIÓN (CNO)
+TIEMPO (MESES)
+DESCRIPCIÓN DEL PUESTO DE TRABAJO:
+Exposiciones anteriores
+
+39
+HISTORIA CLÍNICA
+5. Anamnesis
+Hábitos y antecedentes personales:
+.........................................................................................................................................................................................................
+.........................................................................................................................................................................................................
+.........................................................................................................................................................................................................
+.........................................................................................................................................................................................................
+Antecedentes familiares:
+.........................................................................................................................................................................................................
+.........................................................................................................................................................................................................
+.........................................................................................................................................................................................................
+.........................................................................................................................................................................................................
+Clínica:
+- Mano dominante:
+o D     o I
+- Síntomas sensitivos:
+o Parestesias.
+o Disestesias.
+o Insensibilidad.
+o Dolor irradiado.
+(en caso afirmativo describir): .....................................................................................................
+- Motores:
+o Debilidad.
+o Amiotrofia.
+(en caso afirmativo describir): .....................................................................................................
+- Fenómeno de Raynaud:
+o SI:       o D       o I
+o No
+- ¿Desde cuando tiene los síntomas?    días:___  meses: ___  años:___
+
+40
+- Evolución de los síntomas: 
+o Progresiva.
+o Fluctuante.
+o Intermitente.
+¿Aparecen o se agrava durante el trabajo?:    o SI      o No
+¿Mejoran o desaparecen con el descanso?:    o SI      o No
+¿Se desencadenan por alguna actividad o postura concreta?
+o SI: * Fuera del trabajo:      o SI (describir):               o No
+* En el trabajo:
+o SI (describir):               o No
+o No
+- ¿Presentan lesiones similares otros compañeros de trabajo?  
+o Si    o No
+- ¿Practica algún deporte con regularidad?
+.................................................................................................................................................................................................
+.................................................................................................................................................................................................
+- ¿Realiza tareas domésticas?
+.................................................................................................................................................................................................
+.................................................................................................................................................................................................
+- ¿Se dedica a alguna actividad extralaboral en la que realice posturas for-
+zadas?
+.................................................................................................................................................................................................
+.................................................................................................................................................................................................
+- Mencione sus aficiones:
+.................................................................................................................................................................................................
+.................................................................................................................................................................................................
+
+41
+ANEXO 2
+LESIONES POR PRESIÓN DE LOS NERVIOS PERIFÉRICOS
+APARTADO GENERAL
+EXAMEN CLÍNICO NEUROLÓGICO
+SI
+NO
+Fosa supraclavicular
+Dcha.
+Izq
+Canal epitroclear
+Dcha.
+Izq.
+Región epicondílea
+Dcha.
+Izq.
+Túnel carpiano
+Dcha.
+Izq.
+Canal de Guyon
+Dcha.
+Izq.
+Escotadura ciática
+Dcha.
+Izq.
+Cabeza peroneal
+Dcha.
+Izq.
+Túnel tarsiano
+Dcha.
+Izq.
+Hallazgos anormales a la palpación de los desfiladeros nerviosos
+Hallazgos a la inspección
+SI
+NO
+
+42
+SI
+NO
+Fosa supraclavicular
+Dcha.
+Izq
+Canal epitroclear
+Dcha.
+Izq.
+Región epicondílea
+Dcha.
+Izq.
+Túnel carpiano
+Dcha.
+Izq.
+Canal de Guyon
+Dcha.
+Izq.
+Escotadura ciática
+Dcha.
+Izq.
+Cabeza peroneal
+Dcha.
+Izq.
+Túnel tarsiano
+Dcha.
+Izq.
+Signo de Tinel en los mismos desfiladeros
+SI
+NO
+Adson
+Dcha.
+Izq
+Estrechamiento clavicular
+Dcha.
+Izq.
+Hiperabducción
+Dcha.
+Izq.
+Luxación del nervio 
+Dcha.
+cubital a nivel del codo
+Izq.
+Maniobra de Allen
+Dcha.
+Izq.
+Maniobra de Phalen
+Dcha.
+Izq.
+Pronación contra resistencia
+Dcha.
+Izq.
+Maniobra del piramidal
+Dcha.
+Izq.
+Maniobra de Lasègue
+Dcha.
+Izq.
+Lasègue invertida
+Dcha.
+Izq.
+Fuerza contra resistencia
+Dcha.
+Izq.
+Maniobras exploratorias de los diferentes desfiladeros
+
+43
+Reflejos tendinosos
+Presentes y simétricos:
+SI
+NO
+Disminución o abolición:
+Bicipital
+Dcha.
+Izq.
+Tricipital
+Dcha.
+Izq.
+Estilorradial
+Dcha.
+Izq.
+Cubitopronador
+Dcha.
+Izq.
+Rotuliano
+Dcha.
+Izq.
+Aquíleo
+Dcha.
+Izq.
+En caso de alteraciones, rellenar la siguiente tabla:
+En flexión
+Dcha.
+Izq.
+En extensión
+Dcha.
+Izq.
+Reflejos cutaneoplantares
+Táctil
+Normal
+Alterada
+Dolorosa
+Normal
+Alterada
+Sensibilidad
+
+Signos y síntomas
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Parestesias ligeras.
+Grado 2
+Grado 1 + dolor intermitente.
+Grado 3
+Grado 2 + limitación funcional.
+Grado 4
+Grado 3 + paresia o Raynaud.
+44
+(dibujar y describir en lámina anexa)
+N. auricular 
+mayor
+N. intercostales
+anteriores y
+laterales
+N. femorocutáneo
+lateral
+N. femoral
+N. obturador
+N. oftálmico
+N. maxilar
+N. mandibular
+N. transversos
+del cuello
+N. supraclavicular
+N. intercostales
+N. axilar
+N. radial
+N. mediano
+N. cubital
+N. iliohipogástrico
+N. ilioinguinal
+N. genitofemoral
+N. peroneo
+N. obturador
+Ramas dorsales
+lumbosacras
+Ramas dorsales
+de las
+raices espinales
+N. occipital mayor
+N. occipital menor
+N. supraclavicular
+N. axilar
+N. braquial lateral
+N. antebraquial
+lateral
+N. antebraquial
+medial
+N. radial
+N. cubital
+N. femorocutáneo
+lateral
+N. femorocutáneo
+posterior
+N. braquial medial
+N. safeno
+N. tibial
+N. sural
+N. peroneo
+superficial
+N. peroneo
+superficial
+N. safeno
+N. iliohipo-
+gástrico
+
+45
+ANEXO 3
+LESIONES POR PRESIÓN DE LOS NERVIOS PERIFÉRICOS
+NERVIO MEDIANO EN EL TÚNEL CARPIANO
+EXAMEN CLÍNICO
+SI
+NO
+Deformidad de la muñeca.
+Dcha.
+Izq.
+Abombamiento anormal
+Dcha.
+palmar de la muñeca.
+Izq.
+Amiotrofia de la eminencia
+Dcha.
+tenar.
+Izq.
+Inspección
+SI
+NO
+Alteración a la palpación.
+Dcha.
+Izq.
+Signo de Tinel sobre
+Dcha.
+el nervio mediano.
+Izq.
+Déficit motor del abductor corto
+Dcha.
+del pulgar (maniobra de la botella).
+Izq.
+Déficit sensitivo en el territorio
+Dcha.
+del nervio mediano.
+Izq.
+Anestesia.
+Dcha.
+Izq.
+Hipoestesia.
+Dcha.
+Izq.
+Test de Phalen positivo.
+Dcha.
+Izq.
+Otros hallazgos
+
+46
+Presentes y simétricos:
+SI
+NO
+Reflejos tendinosos
+Nota:  Si los reflejos están alterados puede no tratarse de un síndrome del túnel carpiano o
+existir otra patología neurológica subyacente.
+Signos y síntomas
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Parestesias ligeras.
+Grado 2
+Grado 1 + dolor intermitente.
+Grado 3
+Grado 2 + limitación funcional.
+Grado 4
+Grado 3 + paresia.
+Disminución o abolición:
+Bicipital
+Dcha.
+Izq.
+Tricipital
+Dcha.
+Izq.
+Estilorradial
+Dcha.
+Izq.
+Cubitopronador
+Dcha.
+Izq.
+En caso de alteraciones, rellenar la siguiente tabla
+
+47
+ANEXO 4
+LESIONES POR PRESIÓN DE LOS NERVIOS PERIFÉRICOS
+NERVIO CUBITAL EN EL CODO Y EN EL CANAL DE GUYON.
+EXAMEN CLÍNICO
+SI
+NO
+Amiotrofia en primer espacio
+Dcha.
+interóseo.
+Izq.
+Amiotrofia del resto de
+Dcha.
+interóseos.
+Izq.
+Amiotrofia de eminencia
+Dcha.
+hipotenar.
+Izq.
+Deformidad del codo en valgo.
+Dcha.
+Izq.
+Otras deformidades del codo.
+Dcha.
+Izq.
+Deformidad de la muñeca.
+Dcha.
+Izq.
+Inspección
+
+48
+SI
+NO
+Luxación del nervio cubital 
+Dcha.
+sobre la epitróclea.
+Izq.
+Engrosamiento y poca 
+Dcha.
+movilidad del n. cubital en el 
+canal epitroclear.
+Izq.
+Bultoma doloroso en el canal
+Dcha.
+de Guyon.
+Izq.
+Signo de Tinel en el canal
+Dcha.
+epitroclear.
+Izq.
+Signo de Tinel en el canal
+Dcha.
+de Guyon.
+Izq.
+Maniobra de Allen positiva.
+Dcha.
+Izq.
+Palpación
+Cubital anterior 
+Dcha.
+Izq.
+Flexor profundo del 5º dedo
+Dcha.
+Izq.
+Signo de Froment
+Dcha.
+SI
+NO
+Izq.
+SI
+NO
+Signo del capirotazo
+Dcha.
+SI
+NO
+(interóseos)
+Izq.
+SI
+NO
+Separación de los dedos 2º y 5º
+Dcha.
+SI
+NO
+Izq.
+SI
+NO
+Déficit motor (de 0 a 5 según cuadro del anexo 6, Glosario)
+Presentes y simétricos:
+SI
+NO
+Reflejos tendinosos
+
+49
+Signos y síntomas
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Parestesias ligeras.
+Grado 2
+Grado 1 + dolor intermitente.
+Grado 3
+Grado 2 + limitación funcional.
+Grado 4
+Grado 3 + paresia.
+Disminución o abolición:
+Bicipital
+Dcha.
+Izq.
+Tricipital
+Dcha.
+Izq.
+Estilorradial
+Dcha.
+Izq.
+Cubitopronador
+Dcha.
+Izq.
+En caso de alteraciones, rellenar la siguiente tabla
+
+
+51
+ANEXO 5
+LESIONES POR PRESIÓN DE LOS NERVIOS PERIFÉRICOS
+PLEXO BRAQUIAL EN EL DESFILADERO TORÁCICO
+EXAMEN CLÍNICO
+SI
+NO
+Constitución longilínea con
+Dcha.
+hombros caídos.
+Izq.
+Escoliosis dorsal.
+Dcha.
+Izq.
+Deformidad de la clavícula.
+Dcha.
+Izq.
+Aspecto abombado del hueco
+Dcha.
+supraclavicular.
+Izq.
+Asimetría de pulsos radiales y 
+Dcha.
+de presión arterial en detri-
+mento del lado.
+Izq.
+Soplo supraclavicular (arteria.
+Dcha.
+subclavia).
+Izq.
+Amiotrofia de interóseos.
+Dcha.
+Izq.
+Amiotrofia de eminencia 
+Dcha.
+hipotenar.
+Izq.
+Amiotrofia de eminencia tenar.
+Dcha.
+Izq.
+Inspección, palpación y auscultación
+
+52
+Déficit motor para la separación
+Dcha.
+de los dedos.
+Izq.
+Déficit motor para la oposición
+Dcha.
+de los dedos.
+Izq.
+Déficit motor para la flexión
+Dcha.
+de los dedos.
+Izq.
+Déficit motor (de 0 a 5 según cuadro del anexo 6, Glosario)
+SI
+NO
+Maniobra de Adson positiva.
+Dcha.
+Izq.
+Maniobras de estrechamiento 
+Dcha.
+del espacio costoclavicular 
+positiva.
+Izq.
+Maniobra de hiperabducción
+Dcha.
+positiva.
+Izq.
+Maniobras específicas
+Presentes y simétricos:
+SI
+NO
+Reflejos tendinosos
+Disminución o abolición:
+Bicipital
+Dcha.
+Izq.
+Tricipital
+Dcha.
+Izq.
+Estilorradial
+Dcha.
+Izq.
+Cubitopronador
+Dcha.
+Izq.
+En caso de alteraciones, rellenar la siguiente tabla
+
+53
+Signos y síntomas
+Grado 0
+Ausencia de signos y síntomas.
+Grado 1
+Parestesias ligeras.
+Grado 2
+Grado 1 + dolor intermitente.
+Grado 3
+Grado 2 + limitación funcional.
+Grado 4
+Grado 3 + paresia o Raynaud.
+SI
+NO
+En aspecto cubital de mano y
+Dcha.
+antebrazo.
+Izq.
+En otras áreas
+Dcha.
+(describir y dibujar).
+Izq.
+Hipoestesia
+
+
+55
+ANEXO 6
+LESIONES POR PRESIÓN DE LOS NERVIOS PERIFÉRICOS
+GLOSARIO DE EXPLORACIÓN CLÍNICA
+El fin de este anexo es facilitar al Médico del Trabajo, no necesaria-
+mente familiarizado con la propedéutica neurológica, la recogida sencilla,
+rápida y fiable de los signos neurológicos que acompañan o preceden a
+las lesiones mecánicas de los nervios periféricos que se dan con mayor
+frecuencia en el puesto de trabajo. El anexo incluye, entre otros, los sig-
+nos y maniobras de exploración a registrar en el protocolo específico por
+lesiones nerviosas.
+1. LESIONES NERVIOSAS POR PRESIÓN Y SOBRESFUERZO DEL
+HOMBRO, MENOS FRECUENTES EN EL PUESTO DE TRABAJO.
+Por su baja incidencia y prevalencia en patología laboral no accidental,
+no han sido objeto de apartado específico. Haremos aquí una enumeración
+y descripción sucinta de las menos raras, obviando aquellas prácticamente
+inexistentes en el ámbito de aplicación de estos protocolos, como son las
+lesiones del nervio espinal, del nervio del dorsal ancho o de los nervios torá-
+cicos anteriores.
+1.1. Nervio del angular y del romboides (C4-C6) CÓDIGO: CIE-9-MC 353.2.
+Es un nervio puramente motor destinado a los músculos angular y rom-
+boides. La función de estos músculos se explora pidiendo al sujeto que
+haga máxima fuerza con los codos hacia atrás mientras tiene las manos
+apoyadas en las caderas (en jarras).
+La parálisis de este nervio, si no es por heridas profundas, es excepcio-
+nal por estar bien protegido por los músculos de la zona.
+
+56
+1.2. Nervio supraescapular (C4-C6) CÓDIGO: CIE-9-MC 353.2.
+También es un nervio puramente motor. El nervio supraescapular tiene
+un desfiladero propio formado por la hendidura escapular superior cerrada
+por arriba por el ligamento transverso superior de la escápula. Inerva los
+músculos supraespinoso e infraespinoso.
+(Fig.1)
+En lesiones crónicas puede observarse atrofia de estos dos músculos. Las
+maniobras para explorar su función están ilustradas en las figuras 1 y 2. El
+nervio resulta vulnerable a la tracción-compresión en dicho desfiladero.
+(Fig. 2)
+(Separación del brazo
+contra resistencia 
+30 primeros grados)
+Exploración del
+músculo
+Infraespinoso
+(Nervio Supraescapular)
+Exploración del músculo
+Supraespinoso, nervio
+Supraescapular
+
+57
+La lesión mecánica del nervio supraescapular se puede dar en trabaja-
+dores que transportan cargas pesadas, directamente o con cincha, sobre el
+hombro; también como consecuencia de actividades que implican tracción
+forzada de los hombros hacia delante. Entre los antecedentes de riesgo hay
+que incluir las fracturas de escápula con las que puede darse una parálisis
+diferida del nervio por atrapamiento en su desfiladero.
+1.3. Nervio del serrato mayor (C5-C7) CÓDIGO: CIE-9-MC 353.2.
+Se trata igualmente de un nervio motor. Su largo trayecto sobre la pared
+torácica lo hace vulnerable a lesiones mecánicas. Su lesión se detecta por
+la aparición de escápula alada cuando el sujeto eleva contra resistencia el
+brazo o cuando carga el peso del cuerpo sobre las dos manos apoyadas en
+la pared. Su lesión en el trabajo es más frecuente que la de los dos nervios
+anteriores. Los riesgos mecánicos más frecuentes son la carga y transpor-
+te de pesos sobre el hombro, directamente o con cincha (morral, mochila).
+También se ha descrito su lesión con traumas eléctricos. También se puede
+lesionar por la utilización de herramientas pesadas, como hachas o marti-
+llos, con golpes cortos y violentos.
+1.4. Nervio circunflejo (C5) CÓDIGO: CIE-9-MC 353.2.
+Es un nervio mixto que inerva el músculo deltoides (elevación del brazo
+en todos los ejes del hombro) y recoge la sensibilidad de la piel de la parte
+externa del hombro. Su lesión mecánica es prácticamente siempre traumá-
+tica (fractura o luxación del hombro), aunque también se han descrito pará-
+lisis por compresión durante el sueño.
+2. COMPRESIONES DEL PLEXO BRAQUIAL EN EL HOMBRO
+CÓDIGO: CIE-9-MC 353.2.
+En su recorrido desde los agujeros de conjunción del raquis cervical hasta
+la axila el plexo braquial, acompañado por la arteria y la vena subclavias, atra-
+viesa tres desfiladeros en los cuales resulta vulnerable por compresión y trac-
+ción intensas y repetidas. Estos tres desfiladeros son los siguientes:
+2.1. El hiato escaleno posterior
+Es un triángulo cuyos lados son los músculos escaleno anterior y medio
+y la base la primera costilla. Las anomalías más frecuentes que estrechan
+
+58
+este hiato y favorecen la lesión del plexo por sobresfuerzo en el puesto de
+trabajo son: a) inserción anormalmente ancha del músculo escaleno medio
+en la primera costilla; b) costilla cervical; c) banda fibrosa entre Megaapófi-
+sis transversa C7 y la primera costilla. Las megapófisis transversas más
+patógenas para el plexo braquial y la arteria subclavia, en el hiato escaleno,
+son las que tienen forma ganchuda hacia abajo porque son las que más fre-
+cuentemente poseen la mencionada banda fibrosa.
+El compromiso de la arteria subclavia y potencialmente del plexo braquial
+en hiato se explora mediante la maniobra de Adson.
+(Fig. 3)
+Se pide a la persona que eche la cabeza hacia atrás y que la rote hacia
+el lado de los síntomas. En esta posición, se le invita a inspirar y mantener
+la inspiración al tiempo que el explorador palpa el pulso radial. Con esta
+maniobra se tensan los músculos escalenos. Se considera positiva si des-
+aparece el pulso radial.
+2.2. Hiato costoclavicular
+Es la puerta por la cual el plexo braquial y los vasos subclavios entran en
+la axila. Este espacio se estrecha por anomalías de la clavícula (callo de
+fractura, hipoplasia) por enfisema pulmonar y por escoliosis dorsal; también
+por un conjunto de esfuerzos repetidos y posturas forzadas registradas en
+el protocolo específico. Son más vulnerables a sufrir irritaciones vasculo-
+nerviosas en este hiato los sujetos de constitución longilínea con hombros
+caídos. Entre otras, hay dos maniobras de exploración para estrechar el
+espacio costoclavicular. Una consiste en pedir al sujeto que eche fuerte-
+Maniobra de Adson.
+Estrechamiento del
+hiato escaleno
+
+59
+mente los hombros hacia atrás y hacia abajo, remedando la posición forza-
+da de militar en firmes. La otra consiste en que el explorador empuja fuer-
+temente hacia abajo el hombro del sujeto. Ambas maniobras son positivas
+si desaparece el pulso radial.
+(Fig. 4)
+2.3. Hiato del pectoral menor
+Ya en la axila, el paquete vasculonervioso discurre por detrás del mús-
+culo pectoral menor, cerca de su inserción en la apófisis coracoides de la
+escápula. Con la maniobra de hiperabducción o hiperelevación del brazo se
+tensa el paquete vasculonervioso axilar y se comprime contra la inserción
+coracoidea del músculo pectoral menor.
+(Fig. 5)
+Maniobra de estrechamiento
+del espacio Costoclavicular
+Maniobra de
+Hiperabducción
+
+60
+La maniobra resulta más eficaz y por tanto más frecuentemente positiva
+si la hiperelevación del brazo la hace activamente el sujeto y no pasiva-
+mente el explorador. La positividad consiste en la desaparición del pulso
+radial. Eventualmente el sujeto puede sentir parestesias en la mano. Tare-
+as laborales con hiperelevación repetida o mantenida del brazo pueden pro-
+ducir alteraciones vasculares y nerviosas en la mano.
+Hay que tener en cuenta que estas maniobras resultan positivas en
+muchos sujetos asintomáticos. Por tanto, su positividad hay que interpretar-
+la siempre en un contexto clínico y de riesgo laboral potencial. Se debe bus-
+car también la aparición de soplos supraclaviculares con las tres maniobras,
+los cuales documentan compresión de la arteria subclavia. Los síntomas
+neurológicos del síndrome del hiato torácico suelen ir acompañados, prece-
+didos o seguidos de síntomas vasculares en forma de fenómeno de Ray-
+naud que aparece durante el trabajo e incluso puede prolongarse después
+del mismo, por espasmo de la arteria subclavia. En raros casos pueden for-
+marse aneurismas de arteria axilar y producirse embolias digitales. Más
+raramente aún puede trombosarse la vena subclavia. Los síntomas y, en su
+caso, déficits neurológicos tienen una distribución plexual inferior, con debi-
+lidad de los músculos de la mano y manifestaciones sensitivas (dolor, pares-
+tesias, hipoestesia) en el territorio cubital del antebrazo y de la mano. Cuan-
+do hay amiotrofia, ésta se localiza en la eminencia tenar por lo que se puede
+incurrir en confusión con un síndrome del túnel carpiano.
+3. LESIONES DEL NERVIO CUBITAL. (C8-D1) CÓDIGO: CIE-9-MC 354.2.
+El nervio cubital es especialmente vulnerable a la presión en dos desfi-
+laderos, el canal epitroclear en el codo y el canal de Guyon en el carpo. Los
+riesgos laborales específicos a registrar están detallados en el apartado
+específico.
+3.1. Desfiladeros
+El canal epitroclear se sitúa en la cara dorsal de la epitróclea humeral.
+El apoyo sobre el codo comprime el nervio contra el lecho óseo del canal.
+Durante la flexión del codo, el vientre interno del músculo tríceps comprime
+el nervio contra el ligamento lateral interno. En personas con incompetencia
+de este ligamento, generalmente congénita y bilateral, el nervio cubital se
+luxa por encima del cóndilo medial del húmero empujado por el vientre inter-
+no del tríceps. La luxación repetida puede producir molestias y evolucionar
+a una parálisis cubital por microtraumatismo repetido. El canal epitroclear
+frecuentemente se ve invadido por osteofitos o deformado por fracturas anti-
+
+61
+guas de codo con el consiguiente riesgo de lesión nerviosa, más aún en pre-
+sencia de sobresfuerzo del codo.
+El canal de Guyon se sitúa en el lado cubital de la cara flexora de la
+muñeca. Es un conducto fibroso y tortuoso en cuyo interior discurren la arte-
+ria y vena cubitales y el nervio cubital. Está formado por fascículos fibrosos
+que se extienden entre el hueso pisiforme y el ligamento anular del carpo.
+Al salir del canal de Guyon hacia la mano, el nervio cubital se divide en una
+rama superficial sensitiva y una motora profunda. La rama sensitiva recoge
+la sensibilidad de la piel palmar del 5º dedo, de la mitad cubital del 4º y de
+la piel dorsal de la 2º y 3ª falange de los mismos dedos.
+(Fig. 6A)
+La sensibilidad de la piel de la cara dorsal de los dedos 4º y 5º hasta la arti-
+culación entre la 1ª y 2ª falange y de la región cubital del dorso de la mano,
+está vehiculada por la rama sensitiva dorsal del nervio cubital que se ha
+desprendido ya en el antebrazo.
+(Fig. 6B)
+Territorio sensitivo
+completo 
+del nervio Cubital
+Territorio sensitivo
+del nervio Cubital 
+respetando el de la rama
+sensitiva Dorsal; lesión
+en el canal de Guyon
+
+62
+Por tanto, en la lesión del nervio cubital en el canal de Guyon está respeta-
+da la sensibilidad de la zona cubital del dorso de la mano. La rama profunda
+motora inerva los músculos de la eminencia hipotenar (separador, flexor corto
+y oponente del meñique), los interóseos (separadores de los dedos) y el
+adductor corto del pulgar. La rama profunda motora puede lesionarse más
+distalmente en la palma de la mano, después que se han desprendido las
+ramas para la eminencia hipotenar, por lo cual ésta queda respetada. Esta
+lesión puede darse por presión mantenida en la palma de la mano (parálisis
+del ciclista y de la cigarrera). En el canal de Guyon puede lesionarse también
+la arteria cubital, tanto por agresiones mecánicas, especialmente vibrátiles
+como por trombosis en el curso de enfermedades vasculares (tromboangeítis
+obliterante, panarteritis nodosa). También es lecho frecuente de gangliones. El
+compromiso o lesión de la arteria cubital puede manifestarse precozmente por
+un fenómeno de Raynaud limitado o más evidente en los dedos 4º y 5º.
+Salvo en lesiones de la rama profunda, después de dar las ramas para
+la eminencia hipotenar, resulta muchas veces difícil dilucidar si la lesión en
+una paresia cubital está localizada en el codo o en el carpo. En las lesiones
+en el codo la paresia suele ser más intensa en los músculos distales y las
+alteraciones sensitivas frecuentemente son leves. Una debilidad en el mús-
+culo cubital anterior indica que la lesión está en el codo. La palpación de un
+nervio cubital engrosado y poco móvil en el canal epitroclear también es un
+dato clínico de valor. Finalmente son los tests electroneurofisiológicos los
+que permiten localizar la lesión en casos dudosos.
+3.2. Maniobras de exploración
+Músculo cubital anterior. Su paresia se produce en las lesiones cubita-
+les en el codo y suele ser más leve que la de los músculos distales. Se
+explora pidiendo al sujeto que flexione en sentido cubital la muñeca contra
+resistencia, al mismo tiempo que se palpa el relieve del tendón del múscu-
+lo cubital anterior.
+(Fig. 7)
+Exploración funcional del
+músculo Cubital anterior
+(Nervio Cubital)
+
+63
+Exploración contra 
+resistencia de músculos
+interóseos. (Nervio Cubital)
+Signo de Froment (Nervio
+Cubital) Paresia del aductor
+del pulgar izdo. con acción
+compensadora del flexor
+largo del pulgar
+Maniobra del capirotazo. 
+(Músculos interóseos,
+nervio Cubital)
+Músculos interóseos. Se explora la fuerza contra resistencia de la
+separación de los dedos 2º y 5º.
+(Fig. 8)
+Su paresia, como la de todos los demás músculos intrínsecos de la
+mano, puede darse tanto en lesiones cubitales en el codo como en el carpo.
+Signo de Froment. Se invita al sujeto a coger un papel recio entre los
+dedos pulgares y los índices flexionados y a que tire con fuerza de los extre-
+mos. Si existe paresia del adductor del pulgar, el papel se escapa de la mano
+parética. El pulgar adopta una posición anómala, comparativamente con el
+lado sano, por acción compensadora del músculo flexor largo del pulgar.
+(Fig. 9)
+Maniobra del capirotazo. La debilidad del capirotazo contra la mano del
+explorador se debe a la paresia de los músculos interóseos, la cual dificul-
+ta la extensión rápida de las articulaciones interfalángicas.
+(Fig. 10)
+
+64
+Luxación del nervio cubital en el canal epitroclear. La luxación del
+nervio, frecuentemente bilateral, se explora colocando su mano el explora-
+dor en el canal epitroclear y palpando el nervio cubital. Con la otra mano (la
+izquierda para el codo derecho y viceversa) flexiona pasivamente el codo
+del paciente hasta los 90o. En caso de luxación, se palpa cómo el nervio
+salta por encima del epicóndilo medial del húmero.
+(Fig. 11)
+Alteración de la sensibilidad (Ver fig. 6). En las lesiones del canal de
+Guyon está respetada la sensibilidad en el dorso de la mano y del territorio
+dorsal de la primera falange de los dedos 4º y 5º, recogida por la rama dor-
+sal sensitiva del nervio cubital que se desprende en el antebrazo, antes del
+canal de Guyon.
+Maniobra de Allen. Esta maniobra sirve para demostrar la oclusión de
+la arteria cubital en el canal de Guyon en el cual se lesiona conjuntamen-
+te con el nervio cubital (apoyos repetidos sobre el talón de la mano, herra-
+mientas vibratorias). Puede darse también la oclusión en enfermedades
+vasculares como la tromboangeítis obliterante y la panarteritis nodosa. La
+maniobra de Allen se debe aplicar a todos los trabajadores con fenómeno
+de Raynaud y síntomas cubitales. Se pide al sujeto que cierre fuertemen-
+te el puño para dejar la mano exangüe. El explorador comprime entonces
+con sus dedos pulgares las arterias radial y cubital en la muñeca. Mante-
+niendo la compresión, se le pide al sujeto que abra la mano, la cual apa-
+rece intensamente pálida. La maniobra es positiva para la arteria cubital
+si, al suprimir la presión sobre esta, la mano continua exangüe durante
+muchos segundos.
+Exploración de la luxación
+del nervio Cubital en el
+canal epitroclear
+
+65
+Lesiones del nervio mediano (C5-D1) CÓDIGO: CIE-9-MC 354.0. En
+patología laboral no accidental, el nervio mediano se lesiona prácticamente
+sólo en el túnel carpiano. Su lecho está formado por la superficie palmar
+de los huesos del carpo y su techo por el tenso ligamento anular del carpo.
+El nervio mediano comparte este concurrido espacio con los tendones y vai-
+nas tendinosas de los músculos flexores largos de los dedos. Los factores
+predisponentes de las lesiones del nervio mediano y las actividades labora-
+les de riesgo están registradas en el protocolo específico incorporado en el
+modelo de historia clínica.
+Las lesiones mecánicas no accidentales de otros segmentos del nervio
+mediano en el puesto de trabajo son raras. La menos rara es la que se
+denomina «síndrome del pronador redondo». El nervio puede irritarse o
+lesionarse como consecuencia de actividades que impliquen pronaciones
+repetidas o forzadas del antebrazo, más con el codo extendido. Los sujetos
+se quejan de dolor y parestesias en el territorio de distribución del nervio
+mediano.
+Las maniobras de exploración más importantes en el síndrome del túnel
+carpiano son las siguientes:
+a. Déficit motor. Los músculos centinela del síndrome del túnel carpiano
+son el abductor corto y el oponente del pulgar. El oponente se explora
+pidiendo al sujeto que apriete con fuerza la yema del pulgar contra la del
+meñique.
+(Fig. 12)
+Exploración del oponente
+del pulgar. Paresia en la mano
+derecha.
+(Nervio Mediano)
+
+66
+Una manera sencilla de explorar el abductor corto del pulgar es bus-
+car el «signo de la botella». Al abrazar una botella con la mano, el pliegue
+cutáneo entre el pulgar y en índice no se amolda al contorno de la botella
+en la mano parética. 
+(Fig. 13)
+b. Trastorno sensitivo (Ver fig. 14). El área de trastorno de la sensibilidad
+palmar representado en la figura corresponde a lesiones del mediano
+antes del túnel carpiano. La piel palmar adyacente a la muñeca está iner-
+vada por un ramo sensitivo palmar que se desprende del nervio media-
+no antes de su entrada en el túnel carpiano. Por tanto, el trastorno sen-
+sitivo en la palma de la mano es más restringido y distal.
+(Fig. 14)
+El trastorno sensitivo subjetivo más característico en el síndrome del
+túnel carpiano es la llamada braquialgia parestésica nocturna que des-
+pierta al sujeto con intensas parestesias en el territorio de distribución del
+nervio y entumecimiento de los dedos. Los síntomas mejoran con la uti-
+lización de muñequeras rígidas nocturnas.
+Signo de la botella; Paresia del Abductor corto del
+pulgar de la mano izquierda. (Nervio Mediano)
+Territorio 
+sensitivo completo del 
+nervio Mediano. En la 
+lesión en el túnel Carpiano
+el trastorno sensitivo palmar
+es más restringido y distal
+
+67
+c. Maniobra de Phalen. Esta maniobra y muchas variantes, provocan estre-
+chamiento del túnel carpiano mediante el mantenimiento de posiciones
+de flexión o de extensión forzada del carpo. Es positiva cuando aparecen
+parestesias en el territorio sensitivo del nervio mediano.
+(Fig. 15)
+d. Signo de Tinel. Este signo se puede buscar en todos los desfiladeros de
+nervios sensitivos o mixtos. En el caso del túnel carpiano, se golpea con
+el martillo de reflejos a lo largo del túnel carpiano. Su positividad consis-
+te en la evocación de parestesias en el territorio sensitivo del nervio
+mediano.
+5. OTRAS NEUROPATÍAS POR PRESIÓN O ATRAPAMIENTO MENOS
+FRECUENTES EN EL PUESTO DE TRABAJO.
+5.1. Nervio radial (C5-D1) CÓDIGO: CIE-9-MC 354.3
+Parálisis radial por compresión en la axila o en el brazo. Hoy es rara
+en el trabajo. Se han descrito parálisis radiales producidas por herramien-
+tas que comprimen la axila (fundidores y estampadores de metal). La pará-
+lisis bilateral del radial por compresión en el brazo es conocida entre los car-
+gadores de Oriente Medio. Las parálisis radiales por apoyos prolongados
+del brazo sobre superficies duras son frecuentes durante el sueño profundo
+en mala posición (anestesia, parálisis de los sábados, parálisis del banco
+del parque...) y de buen pronóstico. La paresia por compresión en el brazo
+es motora pura y respeta el músculo tríceps braquial. El déficit motor afec-
+ta al supinador largo y a los extensores del carpo y de los dedos (mano
+caída). En las lesiones por compresión en la axila está también parético el
+tríceps (extensión del codo) y hay trastornos sensitivos subjetivos (dolor,
+parestesias) y objetivos en la cara posterior del brazo (nervio cutáneo bra-
+
+68
+quial posterior), en la piel radial del antebrazo y dorso de la mano, y en el
+dorso de la falange distal de los dedos 2º y 3º.
+Síndrome de la celda del supinador (arcada de Froshe). Se denomi-
+na así a la parálisis radial distal, motora pura, que suele comenzar por el
+extensor propio del meñique y que aparece después de sobresfuerzos pro-
+longados con el antebrazo. Frecuentemente se superpone con un cuadro de
+epicondilitis. Se achaca al atrapamiento del nervio dentro de un músculo
+supinador corto anormalmente endurecido o fibrosado.
+Lesión de la rama sensitiva superficial del nervio radial. Se produce
+por compresiones prolongadas o repetidas de la zona radial del antebrazo
+o de la muñeca (parálisis de los esposados). Lógicamente, los síntomas y
+signos son puramente sensitivos en el territorio cutáneo del nervio radial.
+(Fig. 16)
+Lesión de la rama digital dorsal del nervio radial. Aparece por el uso
+de herramientas, como tijeras, cuya empuñadura apoya sobre el territorio
+radial del pulgar. El cuadro clínico, consistente en parestesias y disestesias
+en el lado radial de la falange distal del pulgar, se denomina clásicamente
+«queiralgia parestésica».
+5.2. Nervio abdominogenital mayor (D12-L1) CÓDIGO: CIE-9-MC 355.79
+Puede lesionarse por compresión mecánica contra la cresta ilíaca (Vgr. cin-
+turón muy apretado). Su lesión produce dolor neurálgico o parestesias en la
+región inguinoescrotal ipsilateral. Se buscará la existencia de hipoestesia en
+la misma zona.
+Territorio 
+sensitivo del 
+nervio Radial en 
+lesiones por encima del codo
+y por debajo de la axila
+
+69
+5.3. Nervio femorocutáneo (L2-L3) CÓDIGO: CIE-9-MC 355.1.
+El nervio, puramente sensitivo, se lesiona por distensión-atrapamiento a
+su paso por el ligamento inguinal. Produce parestesias, disestesias, dolor y
+a veces insensibilidad en la piel de la cara externa del muslo por encima de 
+la rodilla, cuadro denominado clásicamente «meralgia parestésica». Las
+molestias aparecen o empeoran con la bipedestación, la marcha prolonga-
+da y con el decúbito prono por estiramiento del nervio atrapado en el liga-
+mento inguinal. Las molestias también empeoran con la hiperextensión del
+muslo sobre la pelvis (maniobra de Lasègue invertida). Raramente es bila-
+teral y su curso es frecuentemente intermitente. Enfermedades sistémicas
+con neuropatía clínica o subclínica favorecen la aparición de la meralgia
+parestésica.
+5.4. Nervio ciático mayor (L4-S3) CÓDIGO: CIE-9-MC (355.0) aguda, o
+(NCOC 355.0)
+Las lesiones por presión en actividades laborales, sin otra patología sub-
+yacente, son muy raras. Se han descrito parálisis ciáticas y ciatalgias des-
+pués de permanecer muchas horas sentado o con el muslo apoyado sobre
+bordes duros y agudos. 
+En el síndrome del músculo piramidal suele haber antecedente de
+traumatismo en la nalga o patología subyacente. Se sospecha en presencia
+de dolores glúteos, a veces con irradiación ciática, que aumentan al aga-
+charse o al coger peso. El dolor se reproduce tensando el músculo pirami-
+dal mediante flexión y rotación interna del muslo. 
+5.5. Nervio ciático poplíteo externo (L4-S2) CÓDIGO: CIE-9-MC NCOC
+355.8
+Lesión en la cabeza del peroné. El tronco de este nervio mixto, rama del
+ciático mayor, es particularmente vulnerable a la compresión a su paso por
+encima de la cabeza del peroné. A veces coexisten gangliones de la articu-
+lación tibioperonea que favorecen su lesión por compresión. Las personas
+muy delgadas y las que han adelgazado mucho rápidamente son más vul-
+nerables. Los apoyos repetidos y prolongados, más aún si se añade un
+mecanismo vibratorio, a veces simplemente personas que pasan muchas
+horas con las piernas cruzadas, pueden lesionar el nervio por compresión.
+Se pueden dar lesiones bilaterales en actividades que implican estar en
+posición arrodillada, en cuclillas o en posición de Buda. Si no hay patología
+local o neural subyacente, el pronóstico suele ser bueno. 
+
+70
+La lesión provoca paresia de los músculos eversores y dorsiflexores del
+pie y de los dedos. La preservación de la fuerza en el músculo tibial poste-
+rior, inversor del pie cuando éste está en flexión e inervado por la raíz L5,
+ayuda al diagnóstico diferencial con las lesiones de dicha raíz. También
+ayuda la distribución del déficit sensitivo, cuando existe, limitado a la cara
+externa de la pierna y empeine del pie.
+Nervio tibial anterior. Rama del ciático poplíteo externo que inerva los
+músculos tibial anterior, extensor común de los dedos, extensor largo del
+dedo gordo, pedio y extensor corto del dedo gordo. En la práctica, la única
+lesión laboral de este nervio es el «síndrome de la celda del tibial ante-
+rior». Esta celda, localizada en el territorio anteroexterno de la pierna está
+limitada por estructuras óseas y conjuntivas poco distendibles. De manera
+que el edema de los músculos contenidos en ella crea un compromiso de
+espacio, compresión de los vasos y compresión e isquemia del nervio tibial
+y de los músculos inervados por él. Puede aparecer después de sobrecar-
+gas intensas de la musculatura anteroexterna (dorsiflexora del pie) de la
+pierna. Generalmente es un cuadro agudo, de manejo especializado urgen-
+te, que debuta por dolor, tensión y enrojecimiento del territorio anteroexter-
+no de la pierna junto con paresia de los músculos dorsiflexores del pie y del
+dedo gordo y disminución de la sensibilidad en la piel del primer espacio
+interóseo. La ausencia de pulso en la arteria pedia no es obligatoria. Si no
+se abre precozmente la celda, en pocas horas se produce una necrosis
+isquémica irreversible de la musculatura anteroexterna de la pierna y del
+nervio tibial anterior. Hay formas crónicas e incluso bilaterales, descritas
+sobre todo en militares, que regresan lentamente al suprimir la sobrecarga
+de la musculatura.
+Ramos dorsales cutáneos del dorso del pie. Estos ramos se compri-
+men fácilmente por calzados apretados y altos, como botas de esquí o de
+montaña. Los síntomas son parestesias, disestesias o déficit sensitivo en el
+dorso del pie y del primer dedo. También por calzados estrechos, sobre todo
+en presencia de un hallux valgus o de alteraciones osteofíticas de la articu-
+lación interfalángica distal del primer dedo, pueden producirse parestesias
+o anestesia del territorio medial de la falange distal del primer dedo.
+5.6. Nervio ciático poplíteo interno CÓDIGO: CIE-9-MC NCOC 355.8.
+El tronco principal está muy protegido en el hueco poplíteo y es poco vul-
+nerable a las lesiones por presión. Puede comprimirse crónicamente más
+distalmente, bajo la arcada del músculo sóleo y en el túnel tarsiano.
+
+71
+Síndrome de la arcada del sóleo. El nervio ciático poplíteo interno
+puede ser comprimido crónicamente bajo la arcada tendinosa del mús-
+culo sóleo en individuos musculosos que deben hacer movimientos repe-
+tidos de flexión del tobillo para manejar máquinas o herramientas con
+pedales. La compresión se expresa por una paresia de los músculos res-
+ponsables de la flexión y de la inversión del pie y de la flexión y separa-
+ción de los dedos. 
+Síndrome del túnel tarsiano. Este síndrome es raro en ausencia de
+patología traumática de la región maleolar, fractura o esguince, o reu-
+matológica. Sin embargo, algunos individuos desarrollan el síndrome,
+uni o bilateralmente, sin patología osteoarticular conocida. La marcha
+prolongada y la sobreutilización del tobillo o el apoyo continuado sobre
+el talón en el trabajo puede favorecer este síndrome de atrapamiento. El
+nervio se comprime a su paso por el llamado túnel tarsiano, debajo y
+detrás del maleolo interno, cubierto por el ligamento anular del tarso. El
+sujeto aqueja disestesias dolorosas en la planta del pie que aumentan
+con la marcha. Hay dolor a la presión sobre el túnel tarsiano y a la fle-
+xión e inversión forzada pasiva del pie. Los síntomas pueden ser pura-
+mente subjetivos o acompañarse de hipoestesia en la planta del pie y de
+paresia de los pequeños músculos plantares. La compresión puede pre-
+dominar en una de las dos ramas distales del ciático poplíteo interno, el
+nervio plantar interno o el nervio plantar externo. En tales casos, los
+síntomas sensitivos se localizan en la parte interna o externa de la plan-
+ta del pie.
+Metatarsalgia de Morton. Se debe a un neuroma de un nervio digital
+plantar común, poco después de su bifurcación en el 3º ó 4º espacio inte-
+róseo, dando lugar a los nervios colaterales digitales sensitivos. La for-
+mación del neuroma se achaca a procesos de microtrombosis y fibrosis.
+Trabajadores que deben realizar bipedestación y marcha prolongadas
+pueden desarrollar este cuadro clínico. Consiste en dolores quemantes o
+eléctricos en la región de la cabeza del 3º y 4º metatarsianos e irradiación
+a dedos. El dolor aparece al principio durante la marcha y frecuentemen-
+te se achaca a pie plano. Después el dolor se hace permanente. Se des-
+encadena el dolor comprimiendo entre sí las cabezas de los metatarsia-
+nos, abrazando y comprimiendo el metatarso con la mano. Si se detecta
+precozmente puede corregirse mediante calzado holgado y plantillas de
+apoyo retrocapital.
+
+72
+6. ESCALA DE VALORACIÓN DE LA FUERZA MUSCULAR
+VALORACION DE LA FUERZA
+0
+Ausencia total de contracción.
+1
+Contracción visible o palpable sin desplazamiento (isométrica).
+2
+La contracción produce desplazamiento sin vencer la fuerza 
+de la gravedad.
+3
+La contracción vence la gravedad pero no una mínima 
+resistencia.
+4
+Déficit de fuerza contra resistencia (se puede dividir en
+4- y 4+ según el grado de fuerza contra resistencia).
+5
+Fuerza normal.
