@@ -802,6 +802,23 @@ exactitud ancla en «Artículo N» y una instrucción técnica numera por aparta
 de los quince temas habría devuelto un cero vacío.** `refutar_citas` **comprueba cada tramo en negrita
 de un bloque de cita como subcadena literal del volcado**, y **es la que sostiene este bloque.**
 
+### Ambientación Vestuario
+
+**Ninguna pregunta, y aquí se juntan las dos ausencias.** **Es la tercera ocupación del proyecto sin
+examen publicado** y **la segunda cuyo anexo específico no nombra ninguna norma**. No existe
+`especifico-ambientacion-vestuario.tsv` y **no se ha inventado ninguno.**
+
+**Las dos comprobaciones fuertes del método faltan a la vez**: **no hay plantilla que contrastar y
+tampoco hay boletín contra el que contrastar.** **Tres de las cinco lentes se quedan sin objeto**, y
+**su cero no diría que los temas están bien: diría que no han mirado nada.**
+
+**Lo que ocupa su lugar son cuatro comprobaciones nombradas y con su resultado**, en
+`informes/refutacion-ambientacion-vestuario.md`: **cobertura punto por punto** —8 de 8—, **alcance
+declarado** —los siete temas dicen qué NO dan y por qué—, **ausencia de nombre propio** —ni una marca,
+ni un diseñador, ni una casa de moda, ni un título de película— y **ausencia de cifra sin fuente**:
+**cero valores numéricos en siete temas**, porque **sin norma que citar, cualquier cifra sería una
+invención.**
+
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al
 lado. No se clasifica por palabras clave, y no por comodidad: las preguntas del

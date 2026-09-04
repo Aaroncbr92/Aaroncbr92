@@ -45,7 +45,7 @@ Cada entrada, cinco campos:
   Lo mínimo: **que un tema no tenga dos bloques de índice**, **que sus marcadores estén fuera de toda
   cita** y **que ninguna línea de prosa empiece por una sílaba que no es palabra.**
 
-### 2026-09-04 · Ninguna lente ve una negrita anidada — abierto
+### 2026-09-04 · Ninguna lente ve una negrita anidada — cerrado el mismo día
 
 - **Dónde**: en todo el corpus. **Ninguna de las cuatro lentes mira cómo se renderiza el texto**,
   sólo lo que dice.
@@ -68,9 +68,11 @@ Cada entrada, cinco campos:
   negrita rota** en seis bloques distintos: Gestión, Información y Contenidos, Producción
   (Asistencia), Documentación, Realización y Realización Televisión. **Todos reparados**, y **el
   corpus entero pasa hoy la comprobación con cero defectos.**
-- **Qué falta**: **meter la comprobación en `refutar_prosa.py`**, que es donde vive lo que mira la
-  forma del texto, para que **no haya que acordarse de correrla a mano.** El comprobador está escrito
-  y usado; falta integrarlo.
+- **Cerrado**: **la comprobación vive ya dentro de `refutar_prosa.py`**, que es donde está lo que
+  mira la forma del texto. Añade un apartado propio —«Negritas rotas o anidadas»— y **suma sus
+  hallazgos al total**, de modo que **un tema con una negrita anidada ya no pasa la lente.** Se
+  ejecuta **sobre el fichero entero y no sobre el cuerpo**, porque **la portada y el índice también
+  se renderizan**. Pasada sobre los temas y esquemas del proyecto: **cero defectos.**
 - **Y la regla de escritura que evita el problema de origen**: **el énfasis se hace con negrita, no
   con mayúsculas.** La mayúscula se reserva para una palabra corta que la propia norma destaca.
 

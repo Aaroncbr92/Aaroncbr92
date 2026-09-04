@@ -13,8 +13,8 @@
 
 <!-- /portada -->
 
-> **Enunciado de la convocatoria** (anexo 2). **Las diecinueve ocupaciones tipo que preparamos lo
-> llevan, y no lo llevan igual.** Hay **nueve redacciones distintas**, y este tema las cubre todas.
+> **Enunciado de la convocatoria** (anexo 2). **Las veinte ocupaciones tipo que preparamos lo
+> llevan, y no lo llevan igual.** Hay **diez redacciones distintas**, y este tema las cubre todas.
 >
 > **La redacción común, palabra por palabra en seis de ellas** —**Producción (Asistencia) 18**,
 > **Producción 17**, **Documentación 7**, **Información y Contenidos 11**, **Gestión Administrativa
@@ -96,6 +96,17 @@
 >
 > **Esa novena se transcribe tal cual, con sus dos erratas del original** —«medias preventivas» por
 > «medidas» y «mision» sin tilde—, **porque una transcripción no corrige a su fuente.**
+>
+> **Y la décima es la de Ambientación Vestuario 8**, la más corta de todas y la única que nombra las
+> escaleras de mano:
+>
+> Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
+> **Manipulación de cargas: riesgos y medidas preventivas. Riesgo de alturas, escaleras de mano.**
+> Incendios y medidas preventivas. Accidente in itinere o in misión y medidas preventivas
+>
+> **Dos cosas de esa décima**: **dice «manipulación de cargas» y no «manipulación MANUAL de cargas»**,
+> y **nombra expresamente las escaleras de mano**, que **el apartado 6.3 de este tema desarrolla con
+> su norma delante.** **Y no lleva punto final**: **así está en su anexo.**
 >
 > **Y las tres ocupaciones tipo restantes que este proyecto ha añadido —Diseño Gráfico 14, Ingeniería
 > Técnica · Telecomunicación 24 e Ingeniería Técnica · Industrial 17— llevan la PRIMERA redacción,
@@ -197,16 +208,16 @@ distintos.
 
 | Rúbrica | Ocupaciones que la llevan |
 |---|---|
-| **1.** Derechos y obligaciones | **Las diecinueve** · **Imagen Personal la titula «Conocimientos y obligaciones»** |
-| **2.** Pantallas de visualización | Todas menos **Información Gráfica**, **Montaje de Equipos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** e **Imagen Personal** |
-| **3.** Trastornos musculoesqueléticos | Todas menos **Técnica de Equipos y Sistemas Electrónicos** y **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** |
-| **4.** Manipulación manual de cargas | **Información Gráfica**, **Montaje de Equipos**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica Informática**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** e **Imagen Personal** |
+| **1.** Derechos y obligaciones | **Las veinte** · **Imagen Personal la titula «Conocimientos y obligaciones»** |
+| **2.** Pantallas de visualización | Todas menos **Información Gráfica**, **Montaje de Equipos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos**, **Imagen Personal** y **Ambientación Vestuario** |
+| **3.** Trastornos musculoesqueléticos | Todas menos **Técnica de Equipos y Sistemas Electrónicos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** y **Ambientación Vestuario** |
+| **4.** Manipulación manual de cargas | **Información Gráfica**, **Montaje de Equipos**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica Informática**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos**, **Imagen Personal** y **Ambientación Vestuario**, que **la titula sin la palabra «manual»** |
 | **5.** Exposición a altos niveles de sonido | **Realización (Asistencia)**, **Realización** y **Sonido** |
-| **6.** Seguridad en trabajos en altura | **Información Gráfica**, **Montaje de Equipos**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos** y **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** |
+| **6.** Seguridad en trabajos en altura | **Información Gráfica**, **Montaje de Equipos**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** y **Ambientación Vestuario**, la única que **nombra expresamente las escaleras de mano** |
 | **7.** Medios auxiliares: plataformas y carretillas | **Información Gráfica** y **Montaje de Equipos** |
 | **8.** Espacios confinados | **Sólo Montaje de Equipos** |
-| **9.** Incendios | **Las diecinueve** |
-| **10.** Accidente in itinere o in misión | **Las diecinueve** |
+| **9.** Incendios | **Las veinte** |
+| **10.** Accidente in itinere o in misión | **Las veinte** |
 | **11.** Actuación ante un accidente o una emergencia | **Sonido** y **Técnica de Equipos y Sistemas Electrónicos** |
 | **12.** Iluminación de los lugares de trabajo | **Ninguna la lleva con nombre propio**: se incorpora porque el examen la ha preguntado |
 | **Riesgos posturales** | **Sólo Imagen Personal la lleva con nombre propio.** **No abre apartado nuevo**: su materia es la de los apartados 2 y 3 —la postura y el estatismo del puesto y los factores de riesgo del trastorno—, y **desde aquí se señala** |

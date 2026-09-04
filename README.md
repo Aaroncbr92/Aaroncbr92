@@ -70,13 +70,13 @@ Lo que hace por ti en cada precepto:
 
 ## Los volúmenes
 
-**Veinte, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a
-las diecinueve ocupaciones; los diecinueve específicos cierran con **el mismo
-tema de prevención de riesgos laborales**, que es un solo fichero.
+**Veintiuno, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a
+las veinte ocupaciones; los veinte específicos cierran con **el mismo tema de
+prevención de riesgos laborales**, que es un solo fichero.
 
 | Volumen | Ocupación tipo | Temas | Preguntas | Páginas |
 |---|---|---:|---:|---:|
-| `libro-general` | Las diecinueve | 8 | 505 | 259 |
+| `libro-general` | Las veinte | 8 | 505 | 259 |
 | `libro-produccion-asistencia` | Producción (Asistencia) | 18 | 171 | 281 |
 | `libro-produccion` | Producción | 17 | 114 | 235 |
 | `libro-realizacion` | Realización (Asistencia) | 21 | 254 | 304 |
@@ -96,6 +96,7 @@ tema de prevención de riesgos laborales**, que es un solo fichero.
 | `libro-ing-tec-industrial` | **Ing. Técnica Industrial** | 17 | 48 | 266 |
 | `libro-imagen-personal` | **Imagen Personal** | 10 | 132 | 161 |
 | `libro-teitse` | **Téc. Equipos, Instalaciones y Sistemas Eléctricos** | 16 | 48 | 237 |
+| `libro-ambientacion-vestuario` | **Ambientación Vestuario** | 8 | 48 | 135 |
 
 **Realización Televisión es el volumen más grande del proyecto**: 365 páginas,
 veintidós temas propios más el de prevención y **229 preguntas del bloque
@@ -141,6 +142,15 @@ no hay cita literal que comprobar—, y el proyecto lo dice en vez de publicar e
 cero de la lente: en su lugar comprueba **cobertura pregunta a pregunta**,
 **contraste opción a opción contra la plantilla** y **declaración de
 procedencia** de todo dato que sólo conste en ella.
+
+**Y Ambientación Vestuario es el caso extremo del proyecto**: **no tiene examen
+Y su anexo no nombra ninguna norma**. Las dos comprobaciones fuertes del método
+faltan a la vez, y **tres de las cinco lentes se quedan sin objeto**. Lo que
+ocupa su lugar son **cuatro comprobaciones nombradas**: cobertura punto por punto,
+**alcance declarado** —los siete temas dicen qué NO dan y por qué—, **ausencia de
+nombre propio** —ni una marca, ni un diseñador, ni una casa de moda— y **ausencia
+de cifra sin fuente**: **cero valores numéricos en siete temas**, porque sin norma
+que citar cualquier cifra sería una invención.
 
 **Y Técnica Informática es el contrario exacto**: **ninguna de sus 90 preguntas
 del específico depende de una imagen**, y es **el único volumen del proyecto que

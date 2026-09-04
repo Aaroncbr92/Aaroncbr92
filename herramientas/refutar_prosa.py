@@ -274,6 +274,54 @@ def main():
                   % (sigla, re.sub(r"\s+", " ", antes[-70:]), sigla))
             hallazgos += 1
 
+    # **Negritas rotas y negritas anidadas.** Ninguna otra lente mira cómo se
+    # RENDERIZA el texto, y hay un defecto que sólo se ve al renderizarlo:
+    # sustituir una palabra en mayúsculas por la misma en negrita, dentro de un
+    # párrafo que ya iba entero en negrita, produce `**texto **palabra**
+    # texto**`. El formato no sabe representar eso y **invierte el énfasis**:
+    # sale en redonda justo lo que se quería destacar. Se descubrió reparando en
+    # bloque el énfasis por mayúsculas y **se reparaban ochenta y seis
+    # apariciones a mano**, así que la comprobación vive aquí desde entonces.
+    #
+    # Cómo se detecta, y por qué así: se parte cada párrafo por `**`, de modo
+    # que **los índices impares son los tramos en negrita**. Un tramo que
+    # empieza o acaba con espacio o con salto de línea no es una negrita: es el
+    # hueco entre dos cierres mal emparejados. Y un número PAR de asteriscos
+    # dobles en un párrafo significa que uno se quedó sin pareja.
+    #
+    # Se mira sobre el fichero entero y no sobre `tema`, porque la portada y el
+    # índice también se renderizan.
+    crudo = open(sys.argv[1], encoding="utf-8").read()
+    # **Lo que va entre acentos graves NO se renderiza como negrita**, y este
+    # proyecto escribe dentro de ellos justamente el ejemplo del defecto que se
+    # busca: `**texto **palabra** texto**`. Sin esta salvedad, el informe que
+    # explica el fallo se marca a sí mismo.
+    #
+    # Se neutralizan **sólo los asteriscos** de dentro, y no el tramo entero:
+    # borrar el tramo dejaría un hueco pegado a la negrita vecina —«**`banco.py`
+    # avisa de X**» pasaría a empezar por espacios— y **la lente se llenaría de
+    # anidamientos que no existen**, que es el fallo que esta comprobación
+    # existe para no cometer.
+    crudo = re.sub(r"`[^`\n]*`",
+                   lambda m: m.group(0).replace("*", "\u2217"), crudo)
+    rotas = []
+    for parrafo in crudo.split("\n\n"):
+        trozos = parrafo.split("**")
+        if len(trozos) % 2 == 0:
+            rotas.append(("paridad", re.sub(r"\s+", " ", parrafo)[:70]))
+            continue
+        for k in range(1, len(trozos), 2):
+            tramo = trozos[k]
+            if tramo[:1] in " \n" or tramo[-1:] in " \n":
+                rotas.append(("anidada", re.sub(r"\s+", " ", tramo)[:70]))
+    print()
+    print("## Negritas rotas o anidadas")
+    if not rotas:
+        print("  (ninguna)")
+    for clase, muestra in rotas:
+        print("  · %-8s %s" % (clase, muestra))
+        hallazgos += 1
+
     print()
     print("hallazgos de prosa: %d" % hallazgos)
 

@@ -4,36 +4,42 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-04 (Técnica de Equipos, Instalaciones y Sistemas Eléctricos)
+**Última actualización:** 2026-09-04 (Ambientación Vestuario)
 
 ## Qué es esto
 
-Diecinueve temarios de oposición de RTVE, por ocupación tipo: **Producción
+Veinte temarios de oposición de RTVE, por ocupación tipo: **Producción
 (Asistencia)**, **Producción**, **Realización (Asistencia)**, **Realización
 Televisión**, **Documentación**, **Información y Contenidos**, **Gestión
 Administrativa**, **Gestión**, **Montaje de Equipos Audiovisuales**, **Edición,
 Montaje y Procesos Audiovisuales**, **Información Gráfica y Captación de Imagen
 y Sonido**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica
 Informática**, **Diseño Gráfico**, **Ingeniería Técnica · Telecomunicación**,
-**Ingeniería Técnica · Industrial**, **Imagen Personal** y **Técnica de Equipos,
-Instalaciones y Sistemas Eléctricos**. El programa sale del ANEXO 2 de las bases,
-transcrito literal en `convocatoria/`.
+**Ingeniería Técnica · Industrial**, **Imagen Personal**, **Técnica de Equipos,
+Instalaciones y Sistemas Eléctricos** y **Ambientación Vestuario**. El programa
+sale del ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
 
-Las diecinueve comparten el mismo temario general —**comprobado byte a byte**: el
+Las veinte comparten el mismo temario general —**comprobado byte a byte**: el
 bloque común es idéntico en todos los anexos; sólo cambia el pie de página— y
-**las diecinueve** tienen en su bloque específico un tema de prevención de riesgos
+**las veinte** tienen en su bloque específico un tema de prevención de riesgos
 laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con **doce
 rúbricas de las que ninguna ocupación lleva todas** y **seis redacciones
 distintas del enunciado**. Por eso los cuerpos de tema llenan las posiciones de
-los **veinte volúmenes**: los ocho generales y el de prevención van
+los **veintiún volúmenes**: los ocho generales y el de prevención van
 repetidos. El reparto y el orden están en `PLAN.md`.
 
-**Y dos de las diecinueve no tienen examen publicado**: Ingeniería Técnica ·
-Industrial y Técnica de Equipos, Instalaciones y Sistemas Eléctricos. La
-convocatoria anterior no sacó cuadernillo de esas especialidades, así que sus
-volúmenes **no llevan banco específico** y se apoyan enteros en el Boletín Oficial
-del Estado. Es un dato de la convocatoria, va escrito en sus portadas y en sus
-apéndices de respuestas, y **no se disimula.**
+**Y tres de las veinte no tienen examen publicado**: Ingeniería Técnica ·
+Industrial, Técnica de Equipos, Instalaciones y Sistemas Eléctricos y
+Ambientación Vestuario. La convocatoria anterior no sacó cuadernillo de esas
+especialidades, así que sus volúmenes **no llevan banco específico**. Es un dato
+de la convocatoria, va escrito en sus portadas y en sus apéndices de respuestas,
+y **no se disimula.**
+
+**Y la de Ambientación Vestuario es el caso extremo del proyecto**: **no tiene
+examen Y su anexo no nombra ninguna norma.** **Las dos comprobaciones fuertes del
+método faltan a la vez**, y **tres de las cinco lentes se quedan sin objeto.** Lo
+que ocupa su lugar son **cuatro comprobaciones nombradas**, escritas en su informe
+de refutación.
 
 **Convocatoria identificada**: son los anexos 2 de las **bases específicas de la
 convocatoria 1/2022** (turno libre, adaptadas tras el acuerdo transaccional de la
@@ -1030,6 +1036,42 @@ en Documentación y en Producción (Asistencia).
       lo que faltaba era el mapa, no el contenido. **La lección de método**: **un tema compartido
       envejece cada vez que entra una ocupación nueva**, y **su cabecera hay que releerla en cada
       alta, no sólo su cuerpo.**
+
+- [x] **Fase I: Ambientación Vestuario, terminada el 2026-09-04.** 7 temas propios más el de
+      prevención, **19.323 palabras de tema y 12.040 de esquema**, **cero normas** y **cero cifras
+      sin fuente**. **4 plazas en la convocatoria 1/2025.** **Tercera ocupación del proyecto SIN
+      EXAMEN** y **segunda cuyo anexo NO NOMBRA NINGUNA NORMA**: **las dos ausencias a la vez, que es
+      un caso nuevo.** **La cuenta de erratas de plantilla sigue en diez** y **el proyecto sigue en
+      1.843 preguntas específicas.**
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) Tres lentes sin objeto a la vez, y hay que escribirlo entero.** **Sin norma no hay cita
+      literal**, así que `refutar_exactitud`, `refutar_citas` y `refutar_documento` **devolverían un
+      cero vacío**. **No basta con decir «no aplicable»**: **hay que decir qué se ha hecho en su
+      lugar.** Aquí son **cuatro comprobaciones nombradas y con resultado**: cobertura punto por
+      punto (8 de 8), **alcance declarado** (los siete temas dicen qué NO dan y por qué), **ausencia
+      de nombre propio** (cero marcas, diseñadores, casas de moda y títulos) y **ausencia de cifra sin
+      fuente** (cero valores numéricos).
+      **2) Sin norma, la regla de las cifras se vuelve ABSOLUTA.** **En un bloque normativo una cifra
+      sin fuente es un descuido; aquí sería una invención.** **Cero cifras en siete temas**, y **el
+      orden de magnitud se dice con palabras** —«más alta», «la más baja de los tres»—, nunca con un
+      valor.
+      **3) La comprobación de negritas rotas y anidadas vive ya dentro de `refutar_prosa.py`**, con
+      apartado propio y **sumando al total**: **un tema con una negrita anidada ya no pasa la
+      lente.** **Cierra la tarea que quedaba abierta desde Ingeniería Técnica · Industrial**, y **este
+      bloque la estrenó en caliente: le encontró nueve en su primer tema**, producidas por el
+      mecanismo documentado —sustituir una palabra en versales por la misma en negrita dentro de un
+      párrafo ya en negrita—. **La reparación correcta no es anidar: es lowercasear la palabra.**
+      Pasada sobre el corpus entero: **cero defectos.**
+      **4) Segunda ocupación seguida que destapa una redacción no listada del tema compartido.** La
+      suya —**Ambientación Vestuario 8**— es **la más corta de las diez**, dice **«manipulación de
+      cargas» sin la palabra «manual»**, **es la única de las veinte que nombra las escaleras de
+      mano** y **no lleva punto final**, y **así se transcribe.** **La materia ya estaba
+      desarrollada** —apartado 6.3 del tema compartido, con su norma citada—: **lo que faltaba era el
+      mapa, no el contenido.** **El tema queda en diez redacciones para veinte ocupaciones.**
+      **5) Y la regla que dos bloques seguidos han confirmado**: **cuando entra una ocupación nueva,
+      del tema compartido se relee la CABECERA, no sólo el cuerpo.** **Un cuerpo correcto con una
+      cabecera vieja publica una afirmación falsa en todos los volúmenes a la vez.**
 
 ## Qué comprobación pasa por qué material
 

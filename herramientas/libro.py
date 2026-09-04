@@ -1195,6 +1195,63 @@ BLOQUES = {
                       "un volcado posterior, y <b>esa fecha va escrita al pie de cada "
                       "cita</b>.</p>",
     ),
+    "ambientacion-vestuario": dict(
+        carpeta="ambientacion-vestuario",
+        rotulo="Temario espec\u00edfico \u00b7 Ambientaci\u00f3n Vestuario",
+        ocupacion="Ambientaci\u00f3n Vestuario",
+        titulo="Temario espec\u00edfico",
+        subtitulo="Los ocho temas de <b>Ambientaci\u00f3n Vestuario</b>",
+        pie="Oposiciones RTVE \u2013 Ambientaci\u00f3n Vestuario",
+        avisos=dict(AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        # el anexo tiene ocho puntos y el temario siete temas propios m\u00e1s el de
+        # prevenci\u00f3n: aqu\u00ed no se agrupa ni se parte ning\u00fan punto. Los siete
+        # bancos van a None: no hay examen de esta ocupaci\u00f3n
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "historia-del-traje-y-de-la-moda", None),
+            (2, "estilismo-de-moda-en-medios-audiovisuales", None),
+            (3, "patronaje-corte-y-confeccion", None),
+            (4, "materiales-en-textil-y-piel", None),
+            (5, "ambientacion-y-conservacion-del-vestuario", None),
+            (6, "el-departamento-de-vestuario-y-la-gestion-de-recursos", None),
+            (7, "terminologia-tecnica-audiovisual-y-escenica", None),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Esta ocupaci\u00f3n no tiene examen publicado</b>, y por eso el "
+                         "\u00fanico banco de este volumen es el del tema compartido de "
+                         "prevenci\u00f3n de riesgos laborales: <b>cuarenta y ocho preguntas "
+                         "reales</b>, tomadas de los cuadernillos de 2024 de otras "
+                         "especialidades, sobre la materia que <b>todas</b> comparten. "
+                         "<b>Ninguna respuesta oficial de ese banco est\u00e1 mal</b>; las que "
+                         "llevan matiz van avisadas debajo de su n\u00famero. Para los siete "
+                         "temas propios <b>no hay plantilla que contrastar</b>, y este temario "
+                         "no se inventa preguntas: lo que ofrece en su lugar es <b>el oficio "
+                         "escrito con su alcance declarado</b>, que es lo \u00fanico honrado "
+                         "cuando el programa no nombra ni una norma.",
+        aviso_portada="<p><b>Cuatro plazas convocadas</b> en la convocatoria 1/2025 y "
+                      "<b>ning\u00fan examen que estudiar</b>: la convocatoria anterior no "
+                      "public\u00f3 cuadernillo de esta especialidad. Es la <b>tercera "
+                      "ocupaci\u00f3n del proyecto sin examen</b>, y el volumen lo dice aqu\u00ed "
+                      "y en su ap\u00e9ndice de respuestas.</p>"
+                      "<p><b>Y su anexo no nombra ni una sola norma</b>, como el de Imagen "
+                      "Personal. Siete enunciados de una o dos l\u00edneas, sin un real decreto "
+                      "detr\u00e1s, y <b>los siete temas van enteros como oficio declarado</b>. "
+                      "Eso deja <b>sin objeto dos de las cinco lentes</b> de este proyecto \u2014"
+                      "sin norma no hay cita literal que comprobar\u2014 y <b>el cero que "
+                      "devolver\u00edan no dir\u00eda que los temas est\u00e1n bien: dir\u00eda que la "
+                      "lente no ha mirado</b>. Se declara en cada tema y se explica en el "
+                      "informe de refutaci\u00f3n.</p>"
+                      "<p><b>Lo que ocupa el lugar de la norma es el alcance escrito.</b> Cada "
+                      "tema dice <b>qu\u00e9 no da y por qu\u00e9</b>: ninguna fecha de "
+                      "colecci\u00f3n, ning\u00fan nombre de dise\u00f1ador, ninguna marca, ninguna "
+                      "tabla de tallas, ninguna temperatura de lavado y ning\u00fan valor de "
+                      "conservaci\u00f3n. <b>Una cifra que no se ha le\u00eddo en su fuente no se "
+                      "escribe</b>, y aqu\u00ed no hay fuente que leer.</p>"
+                      "<p>Y una advertencia de estudio que este volumen repite: <b>la moda "
+                      "cambia por la SILUETA, no por el adorno</b>, y <b>debajo de cada silueta "
+                      "hay una estructura</b>. Ambientar no es poner una tela vieja: es "
+                      "reconstruir lo que hab\u00eda debajo.</p>",
+    ),
     "teitse": dict(
         carpeta="teitse",
         rotulo="Temario espec\u00edfico \u00b7 T\u00e9c. Equipos, Instalaciones y Sistemas El\u00e9ctricos",
