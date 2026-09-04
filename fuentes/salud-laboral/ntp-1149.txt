@@ -1,0 +1,681 @@
+AÑO 2020
+Notas Técnicas de Prevención
+1.149
+Voz y trabajo: procedimiento preventivo
+Voix et travail: démarche de prévention.
+Working voices: prevention procedure.
+Autor:
+Instituto Nacional de Seguridad y Salud en el Trabajo 
+(INSST), O.A., M.P.
+Elaborado por:
+Mª Dolores Solé Gómez
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO. INSST
+Santiago Calvet Márquez
+Servicio de Prevención Mancomunado de SALESIANS
+Carme Rodríguez Martínez
+Unidad de Prevención de Riesgos Laborales  
+UNIVERSITAT INTERNACIONAL DE CATALUNYA
+ 1
+Grupo de Trabajo “Voz y Trabajo” 
+El objetivo de esta NTP es ofrecer a las empresas un guion 
+para la elaboración de un procedimiento para la prevención 
+y gestión de los casos de disfonía en las personas trabaja-
+doras expuestas profesionalmente a sobresfuerzos vocales 
+o incluir o revisar  los aspectos mencionados en esta NTP 
+en los procedimientos del Sistema de Gestión que ya estén 
+redactados, sin necesidad de hacer un procedimiento es-
+pecífico, siempre y cuando dentro de ellos se desarrollen 
+completamente las especificaciones referidas a sobresfuer-
+zo vocal. Es complementaria de otras NTP consignadas en 
+el apartado de bibliografía.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas 
+en una disposición normativa vigente. A efectos de valorar la pertinencia de las recomendaciones 
+contenidas en una NTP concreta es conveniente tener en cuenta su fecha de edición.
+1. INTRODUCCIÓN
+Diversos perfiles profesionales incorporan entre sus ries-
+gos el de sobresfuerzo vocal. Profesores de escuelas, ins-
+titutos y universidades, cantantes, actores, locutores, pe-
+riodistas de radio y televisión, teleoperadores, comerciales, 
+monitores escolares, deportivos y de tiempo libre y otros 
+muchos basan su trabajo en la interacción con clientes y 
+usuarios mediante la voz, a menudo en ambientes poco 
+adecuados. Ruido, reverberación, sequedad ambiental, 
+agentes químicos e infecciosos agravan el sobresfuerzo 
+inicial y pueden llevar, generalmente de forma transitoria, 
+al deterioro de la calidad de la voz (disfonía) o incluso a la 
+imposibilidad de emitir sonido laríngeo (afonía). 
+De todas las patologías que pueden derivar de un so-
+bresfuerzo vocal en el desempeño del trabajo, tan solo los 
+nódulos de cuerdas vocales han sido reconocidos como 
+enfermedad profesional por el Real Decreto 1299/2006, 
+de 10 de noviembre, por el que se aprueba el cuadro de 
+enfermedades profesionales.  Pese al avance que esto 
+supuso, dado el vacío que existía, este fue ciertamente 
+parcial ya que no se incluían lesiones como pólipos, ede-
+mas, hemorragias, disfonías tensionales o agravamiento 
+de lesiones crónicas cuyo origen puede ser laboral y cuyo 
+síntoma común es la disfonía. 
+Desde la publicación del citado real decreto, los nódu-
+los de cuerdas vocales han aflorado en las estadísticas 
+de enfermedades profesionales. En el año 2018, según el 
+Obervatorio de Enfermedades Profesionales, se detecta-
+ron 700 casos de nódulos por sobresfuerzos vocales. Sin 
+embargo, el resto de patologías no se suelen identificar 
+en las empresas dado que son tratadas, en general, por 
+el Sistema Nacional de Salud donde no se relacionan 
+con el trabajo. Por otro lado, el impacto del sobresfuerzo 
+vocal en la salud de los trabajdores expuestos es tam-
+bién poco conocido en las empresas no siendo objeto 
+de evaluación ni los factores de riesgo asociados ni los 
+efectos sobre la salud. 
+El disponer de un  procedimiento que facilite la pre-
+vención, detección y gestión de los daños derivados del 
+sobresfuerzo vocal permitirá a la empresa conocer las 
+características y la extensión real del problema y plani-
+ficar las medidas de prevención oportunas para evitar o 
+minimizar su aparición. 
+   En conclusión, la prevención de los daños relaciona-
+dos con el sobresfuerzo vocal en el trabajo requiere el 
+1 Han colaborado en la revisión de la NTP los siguientes miembros del grupo:
+Miquel AMADOR (Universitat Autònoma de Barcelona); Alfred BARREDO MATARREDONA [Activa Mutua]; Marisa BONMATÍ GUIDONET (Dep. d’Ense-
+nyament. Generalitat de Catalunya); Lluc BOSQUE (Badalona Serveis Assistencials); Montserrat CELADES CANUR (Prevencontrol); Carme CORSELLAS 
+CORBELLA (Dep. d’Ensenyament. Generalitat de Catalunya); Gerardo FRANCO CEDRÚN (ASEPEYO); Anna GARDEÑAS PLANELL (USTEC-STEs); 
+Cecília GASSULL (Universitat Autònoma de Barcelona); Pere GODALL (Universitat Autònoma de Barcelona); Rosa M. GÓMEZ VILASECA (General 
+Óptica); Laura GONZALEZ (Blanquerna, URL); Isabel MAYA RUBIO (Mutua Universal); Mercè MIRANDA ROYO (Dep. d’Ensenyament. Generalitat de 
+Catalunya); Cristina MONTERO MÁRQUEZ (General Óptica); Rafel PANADÈS VALLS (Dep. de Salut. Generalitat de Catalunya); Josep Lluís PASCUAL 
+(Dep. de Treball i Afers Socials. Generalitat de Catalunya); Dulce PUGET BOSCH (ASEPEYO); Carme RIU RIU (Dep. de Salut. Generalitat de Catalunya); 
+Montserrat RUIZ HERRERÍAS (Hospital de Sant Pau); Lydia SAÑUDO BLANCO (Dep. d’Ensenyament. Generalitat de Catalunya); Montserrat SARRIAS 
+GALCERAN (Dep. Agricultura, Ramaderia i Pesca. Generalitat de Catalunya); Lluís SARRÓ PLANAS (Mútua Intercomarcal); Belén SERRANO MUÑIZ 
+(Consorci Sanitari Integral); Josep Maria VILA ROVIRA (Blanquerna, URL).
+
+2
+Notas Técnicas de Prevención
+establecimiento de un protocolo de actuación en el que 
+se especifiquen los objetivos, las acciones y los respon-
+sables de elaborar, llevar a cabo y hacer el seguimiento 
+del mismo, así como el acompañamiento y la atención 
+de los posibles casos que se presenten en la empresa.
+En esta NTP se propone un guion para la elaboración 
+de dicho procedimiento que, siempre que la evaluación de 
+riesgos lo determine como necesario,  deberá incluirse en 
+el Plan de prevención de riesgos laborales de la empresa 
+y ajustarse al contexto real y recursos disponibles.
+2. CONTENIDO DEL PROCEDIMIENTO
+Independientemente del modelo de procedimiento que 
+utilice la empresa, se propone desarrollar, como mínimo, 
+los siguientes apartados:
+ a. 
+Identificación.
+ b.
+Ámbito de aprobación.
+ c. 
+Objeto.
+ d.
+Ámbito de aplicación o alcance.
+ e. 
+Normativa.
+f.
+Términos y definiciones
+ g. 
+Desarrollo:
+Evaluación de riesgos.
+Vigilancia de la salud.
+Medidas preventivas.
+Información y Formación.
+Gestión del caso.
+ h. 
+Responsabilidades.
+i.
+Algoritmo de actuación o flujograma.
+j.
+Seguimiento y evaluación.
+ k.
+Relación de documentos anexos.
+Para cada apartado se indica la justificación y propuesta 
+de contenido y, a continuación, uno o varios ejemplos 
+(Ej.) que pueden servir de base para la elaboración del 
+texto definitivo.
+Identificación
+La identificación básica consiste en: título del procedi-
+miento, fecha de aprobación, codificación (número de 
+procedimiento de acuerdo con la metodología que se apli-
+que en la empresa), revisión (número de revisión).
+Ej.: Procedimiento para la prevención y gestión de los 
+trastornos de voz en las personas trabajadoras expuestas 
+a sobresfuerzos vocales en su trabajo. Entrada en vigor 
+(día) de (mes) de (año). PPRL-15, Revisión: 1.
+Ámbito de aprobación
+Autoría del documento y demás actores de la empresa 
+que hayan participado. Si existe representación legal 
+de las personas trabajadoras, el procedimiento debería 
+ser presentado, debatido y aprobado en el marco habi-
+tual de participación en materia de seguridad y salud en 
+el trabajo. En caso contrario, sería conveniente utilizar 
+aquellas herramientas de participación que garanticen 
+una toma de decisiones compartida y consensuada.
+Ej.: El presente procedimiento ha sido aprobado por 
+la Dirección de (Empresa), previa consulta con los re-
+presentantes legales de los trabajadores en el seno del 
+Comité de Seguridad y Salud a partir de una propuesta 
+inicial del servicio de Prevención de Riesgos Laborales.
+Ej.: El presente procedimiento ha sido elaborado por 
+el grupo de trabajo creado a tal efecto y formado por 
+(citar a los miembros del grupo de trabajo) y cuenta con 
+la aprobación de la Dirección de la empresa.
+Objeto
+Se deben especificar los motivos por los cuales se ha 
+elaborado el procedimiento e identificar los objetivos del 
+procedimiento; es decir: qué se quiere conseguir con 
+su aplicación. Cada empresa deberá consensuar qué 
+objetivos generales responden a sus prioridades y ne-
+cesidades específicas, desglosar cada uno de ellos en 
+objetivos específicos y plantear las acciones oportunas 
+para conseguirlos. En el apartado Desarrollo se inclui-
+rán ejemplos de objetivos específicos y acciones en las 
+áreas de evaluación de riesgos, vigilancia de la salud, 
+formación/información y gestión de los casos.
+Ej.: La existencia en la empresa de trabajadores ex-
+puestos a sobresfuerzos vocales por razón de su traba-
+jo ha motivado la redacción de este procedimiento que 
+permitirá identificar los factores de riesgo, evaluar el 
+riesgo, establecer medidas de prevención o corrección 
+adecuadas y efectuar un seguimiento de las acciones 
+adoptadas, incluyendo la planificación y gestión de la 
+vigilancia de la salud de los trabajadores expuestos. 
+Ej.: Los objetivos generales del presente procedimien-
+to son: 
+– Evitar o minimizar los riesgos para la salud asocia-
+dos al uso profesional de la voz.
+– Garantizar la detección precoz de las disfonías por
+sobresfuerzo y su tratamiento reparador.
+– Garantizar una gestión ágil y efectiva de los casos,
+incluida la adaptación del puesto, si fuera necesario. 
+Ámbito de aplicación o alcance
+Se debe identificar a los destinatarios del procedimiento 
+así como la territorialidad del mismo en el caso de existir 
+varios centros de trabajo. Así mismo se deben considerar 
+situaciones especiales como becarios, personal en prác-
+ticas, trabajadores de Empresas de Trabajo Temporal 
+(ETT), etc, coordinando, donde proceda, las actividades 
+preventivas pertinentes con otras empresas. 
+Ej.: El presente protocolo es de aplicación a todos los 
+trabajadores expuestos a sobresfuerzos vocales, y, en 
+especial, a las siguientes categorías/puestos de trabajo 
+[relación de categorías/puestos de trabajo].
+Normativa
+LEY 31/1995, de 8 de noviembre, de Prevención de Ries-
+gos Laborales
+Real Decreto 39/1997, de 17 de enero, por el que se 
+aprueba el Reglamento de los Servicios de Prevención.
+Real Decreto 486/1997, de 14 de abril, por el que se es-
+tablecen las disposiciones mínimas de seguridad y salud 
+en los lugares de trabajo.
+REAL DECRETO 1299/2006, de 10 de noviembre, por 
+el que se aprueba el cuadro de enfermedades profesiona-
+les en el sistema de la Seguridad Social y se establecen 
+criterios para su notificación y registro
+Real Decreto 843/2011, de 17 de junio, por el que se 
+establecen los criterios básicos sobre la organización de 
+recursos para desarrollar la actividad sanitaria de los ser-
+vicios de prevención.
+Términos y definiciones
+En este apartado es recomendable incluir aquellos tér-
+minos y definiciones esenciales que se aplican al pro-
+cedimiento y que favorecen su comprensión y ejecución 
+por parte de todos los agentes implicados. 
+
+3
+Notas Técnicas de Prevención
+Desarrollo
+El proceso, al igual que en cualquier intervención de 
+prevención de riesgos laborales, comprenderá la iden-
+tificación y evaluación de los riesgos, el control de los 
+mismos y de los factores que los generan, la vigilancia 
+y gestión de los posibles daños a la salud y la compro-
+bación periódica de las medidas correctoras. Para cada 
+medida se establecerán los objetivos específicos que 
+se quieren conseguir, siendo estos lo más concretos, 
+medibles y realizables posible. Estos objetivos deberán 
+revisarse periódicamente. 
+EVALUACIÓN DE RIESGOS
+En la evaluación de riesgos se tendrán en cuenta las 
+condiciones materiales y ambientales de los espacios de 
+trabajo, las condiciones personales del trabajador y las 
+condiciones organizativas en las que desarrolla su tra-
+bajo. Es recomendable que en la evaluación de riesgos  
+se consideren los siguientes aspectos: 
+– Condiciones materiales: geometría de los locales y
+sus características acústicas (tiempo de reverbera-
+ción, ruido de fondo, nivel de interferencia verbal),
+los elementos reflectantes y absorbentes del so-
+nido así como los ocupantes y la distribución de
+los mismos [véase Código Técnico de Edificación
+DB-HR].
+– Características ambientales: humedad relativa,
+temperatura, ventilación, corrientes de aire, pre-
+sencia de irritantes o de otros agentes químicos
+en el ambiente.
+– Características organizativas: carga de trabajo, dis-
+tribución del tiempo de trabajo, pausas y la forma-
+ción en el uso y cuidado de la voz.
+– Las características personales y los resultados
+de la vigilancia de la salud de los trabajadores
+expuestos.
+El procedimiento de evaluación deberá ajustarse a la nor-
+mativa específica de aplicación. En el caso del sobres-
+fuerzo vocal se requerirá la realización de mediciones 
+debiendo utilizarse, si existen, los métodos recogidos en 
+Normas UNE, Guías INSST, Normas internacionales, etc 
+tal como se especifica en el art. 5 del RSP.
+En todos los casos se trata de condiciones dinámicas 
+que varían en el tiempo y que, a su vez, están relaciona-
+das entre sí por lo que se podrían considerar muestreos 
+que permitan acotar en lo posible las diferentes condicio-
+nes: verano/invierno (refrigeración/calefacción), franjas 
+horarias de la actividad etc.
+Ej.: La evaluación de los factores físicos,  ambientales 
+y organizativos de los lugares de trabajo se realizará con-
+forme al procedimiento general de evaluación de riesgos 
+de la empresa y aplicando los criterios de [citar el autor 
+de dichos criterios] 
+Ej.: La evaluación de riesgos se revisará en caso de 
+cambios en las condiciones de trabajo, si se detectan 
+daños para la salud vocal de algún trabajador o si se iden-
+tifica o incorpora una persona especialmente sensible. 
+Para ello, técnicos y sanitarios del servicio de prevención 
+deberán poner en común sus datos para completar la 
+evaluación de riesgos.
+VIGILANCIA DE LA SALUD
+La vigilancia de la salud, tanto individual como colectiva, 
+es necesaria para conocer el estado de la salud vocal de 
+los expuestos, la existencia de factores de riesgo indivi-
+duales, determinar las prioridades de acción y analizar su 
+posible relación con las condiciones de trabajo. Permite 
+identificar a las personas especialmente sensibles, infor-
+mar de la necesidad de adoptar medidas preventivas y 
+evaluar la efectividad de las mismas.
+Ej.: En el plazo de un año el protocolo de la vigilancia 
+de la salud por sobresfuerzo vocal  se incorporará al pro-
+grama de prevención de riesgos laborales 
+ Ej.: El informe resumen del estado de la salud vocal de 
+los trabajadores y de su evolución temporal se incorpora-
+rá a la memoria anual de vigilancia de la salud.
+Ej.: Ante la detección de un posible caso, el perso-
+nal sanitario se coordinará con el personal técnico para 
+analizar la situación y proponer las medidas preventivas 
+adecuadas. 
+MEDIDAS PREVENTIVAS
+Como resultado de la evaluación de riesgos y de la vi-
+gilancia de la salud, se deben establecer medidas para 
+eliminar o reducir el riesgo. Esas medidas preventivas de-
+ben aplicarse sobe el entorno físico, a nivel organizativo 
+e individual y ser objeto de seguimiento para valorar su 
+efectividad. En la tabla 1 se especifican algunas medidas 
+preventivas generales.
+TABLA 1. Ejemplos de medidas preventivas en función del 
+nivel de actuación.
+Nivel
+Medidas preventivas generales
+Entorno físico 
+Mantenimiento de unas buenas 
+condiciones de ventilación, humedad 
+y temperatura, evitando corrientes 
+de aire.
+Mantenimiento del espacio limpio, 
+libre de polvo y bien ventilado. 
+Medidas para mejorar el aislamiento 
+acústico, el tiempo de reverberación, 
+el nivel de interferencia verbal y 
+evitar el ruido de fondo.
+Poner a disposición micrófonos y 
+altavoces portátiles individuales en 
+los casos que el servicio de preven-
+ción lo indique.
+Dotar de elementos de apantallamien-
+to o filtrado de la radiación solar.
+Organización 
+Distribuir el trabajo de forma que evite 
+la sobrecarga vocal y pueda reducir el 
+estrés. 
+Poner a disposición medios técnicos 
+para disminuir el uso de la voz como 
+pizarras digitales, micrófonos y alta-
+voces adecuados.
+Pautar descansos.
+Controlar los factores de riesgo 
+psicosocial.
+Establecer un protocolo de manteni-
+miento preventivo de los sistemas de 
+climatización, de los equipos audio-
+visuales u otros, en función del tipo de 
+trabajo. 
+Facilitar el acceso a agua potable. 
+Elaborar un plan de formación sobre 
+el uso de la voz.
+Persona 
+Hidratarse convenientemente durante 
+la jornada laboral.
+Evitar la ingesta de alimentos sólidos 
+o líquidos a temperaturas extremas y 
+cenas copiosas.
+Realizar ejercicios de calentamiento 
+vocal previos al uso intensivo de la voz.
+Planificar el trabajo y establecer des-
+cansos de voz.
+No fumar.
+
+4
+Notas Técnicas de Prevención
+Ej.: La Dirección se compromete a llevar a la práctica 
+las medidas preventivas que se acuerden siempre que 
+sean posibles y razonables.
+INFORMACIÓN Y FORMACIÓN
+Aunque la voz es algo inherente al ser humano, muchos 
+de los conocimientos necesarios para un uso efectivo 
+no son evidentes ni intuitivos. La formación es una me-
+dida indispensable para la prevención de los trastornos 
+de voz. Por un lado, el uso profesional de la voz sin el 
+adecuado entrenamiento puede generar molestias y pro-
+vocar alteraciones que afecten seriamente la calidad de 
+la comunicación en el trabajo y la salud. Por otro lado, es 
+imprescindible que las personas que intervienen directa-
+mente en el procedimiento estén debidamente formadas, 
+en especial, profesionales sanitarios y técnicos de los 
+servicios de prevención. Para más información ver la NTP 
+1.148 Voz y trabajo: formación para la prevención.
+Se recomienda también establecer canales de comu-
+nicación para favorecer los comentarios, propuestas y 
+opiniones de todos los actores, en particular de los tra-
+bajadores expuestos.
+Ej.: El departamento de recursos humanos establece-
+rá un programa de formación específica para todos los 
+intervinientes en el procedimiento y en particular, traba-
+jadores expuestos, técnicos de prevención, profesionales 
+sanitarios y mandos intermedios.
+Ej.: El servicio de prevención informará periódicamente 
+a la Dirección de las conclusiones que se deriven de las 
+diferentes áreas de desarrollo del procedimiento.
+Ej.: En el plazo de un año se organizará una campa-
+ña de sensibilización dirigida a todos los trabajadores y 
+mandos/directivos de la empresa.
+Ej.: Del presente procedimiento se informará al con-
+junto del personal de la empresa. Para su correcta difu-
+sión y entendimiento se realizará una sesión presencial 
+para informar a las personas responsables de cada una 
+de las secciones, así como al colectivo de personas 
+expuestas. 
+Ej.: Cada año se realizará un recordatorio de la exis-
+tencia de dicho procedimiento y se recogerán los comen-
+tarios y propuestas de mejora. Se informará también de 
+este procedimiento al personal de nueva incorporación.
+GESTIÓN DEL CASO
+El manejo de los casos requiere un abordaje multidisci-
+plinar y global que facilite el mantenimiento y vuelta al 
+trabajo en las mejores condiciones de salud. En cualquier 
+caso, requiere la intervención de varios profesionales 
+para un diagnóstico acertado y un tratamiento efectivo. El 
+seguimiento del caso debería  iniciarse antes del retorno 
+y, siempre que sea necesario, se debería ofrecer una 
+atención sanitaria especializada con el objetivo de procu-
+rar un tratamiento y rehabilitación adecuados, y asegurar 
+la futura realización de la actividad laboral de forma se-
+gura y eficaz. Si es necesario, las condiciones de trabajo 
+deberían mejorarse y adaptarse a las capacidades del 
+trabajador. Para más información, ver la NTP1.116 Man-
+tenimiento y vuelta al trabajo: procedimiento.
+Ej.: La dirección de la empresa nombra a xxx del ser-
+vicio de prevención propio como gestor de los casos de 
+trastorno de voz. 
+Ej.: Se establecerá, en el plazo de dos meses, un 
+sistema para la comunicación de cualquier molestia o 
+trastorno de la voz al responsable de la gestión de los 
+mismos.
+Ej.: La vuelta al trabajo de un trabajador con trastornos de 
+voz se ajustará a lo establecido en el procedimiento 
+general de mantenimiento y vuelta al trabajo de 
+trabajadores que están de baja por accidente o enfermedad. 
+Ej.: Siempre que sea necesario, se pondrá a disposición 
+del trabajador afectado  el servicio de rehabilitación foniátrica.
+Responsabilidades
+En 
+el 
+procedimiento 
+se 
+deben 
+establecer 
+las 
+responsabilidades de los diferentes agentes implicados. A 
+modo de ejemplo, en este apartado se listan algunas de 
+las funciones y responsabilidades específicas de los actores 
+más relevantes garantizando el cumplimiento de la 
+normativa general de prevención de riesgos laborales, así 
+como la idiosincrasia de la empresa y las caracerísticas de 
+sus puestos de trabajo. 
+DIRECCIÓN-GERENCIA DE LA EMPRESA
+Facilitará la labor del servicio de prevención aportando los 
+recursos, medios e información necesarios para la puesta 
+en marcha y mantenimiento del presente procedimiento y 
+se comprometerá a llevar a la práctica las medidas 
+preventivas que se acuerden siempre que sean posibles y 
+razonables. Solicitará periódicamente información sobre las 
+conclusiones que se deriven de las diferentes áreas de 
+desarrollo del procedimiento.
+RECURSOS 
+HUMANOS/DEPARTAMENTO 
+DE 
+FORMACIÓN
+Establecerá un programa de formación específica para 
+todos los intervinientes en el procedimiento y en particular, 
+trabajadores 
+expuestos, 
+técnicos 
+de 
+prevención, 
+profesionales sanitarios y mandos intermedios.
+TÉCNICOS DE PREVENCIÓN DEL SERVICIO DE 
+PREVENCIÓN (PROPIO O AJENO)
+Serán los responsables de elaborar el procedimiento de 
+evaluación de riesgos. Planificarán y ejecutarán la 
+evaluación en los momentos fijados en este proce-
+dimiento. Difundirán el informe de resultados entre los 
+actores relevantes. Propondrán, en colaboración con los 
+profesionales 
+sanitarios, 
+las 
+medidas 
+correctoras 
+oportunas.
+PROFESIONALES SANITARIOS DEL SERVICIO DE 
+PREVENCIÓN (PROPIO O AJENO)
+Serán los responsables de elaborar el procedimiento de 
+vigilancia de la salud. Planificarán y ejecutarán la misma. 
+Identificarán y harán el seguimiento de los especialmente 
+sensibles, 
+proponiendo 
+las 
+medidas 
+de 
+prevención 
+adecuadas. Confeccionarán el informe colectivo de los 
+resultados y lo difundirán entre los actores relevantes. 
+Orientarán y acompañarán a la persona con trastornos de 
+voz en el mantenimiento y vuelta al trabajo. Derivarán a la 
+persona 
+trabajadora 
+al 
+servicio 
+adecuado 
+para 
+el 
+diagnóstico definitivo y el tratamiento.
+DELEGADOS DE PREVENCIÓN
+Acompañarán al servicio de prevención durante la eva-
+luación de riesgos y sus revisiones aportando la información 
+de la que dispongan sobre los aspectos relacionados con la 
+exposición a sobresfuerzo vocal y propondrán y harán el 
+seguimiento de las medidas de prevención tanto generales 
+como individuales. Trasladarán a la empresa las sugerencias 
+de los trabajadores y participarán en la difusión de buenas 
+prácticas. Serán informados de las conclusiones que se 
+deriven de los informes de seguimiento del presente 
+procedimiento. 
+
+5
+Notas Técnicas de Prevención
+TRABAJADOR
+El trabajador es un elemento esencial del proceso. De-
+berá comunicar cualquier cambio o molestia relacionada con 
+su voz, y apuntar aquellos factores del entorno que, a su 
+entender, agravan o provocan su afección. Ejercerá un 
+papel activo en todo el proceso y en especial en la 
+detección de factores de riesgo y la toma de decisiones 
+sobre las medidas preventivas a implementar.
+ORGANIZACIONES QUE CUBREN LAS CONTINGEN-
+CIAS PROFESIONALES
+La cobertura asegurada de las contingencias profesio-
+nales puede recaer en: 1) Mutuas colaboradoras de la 
+Seguridad Social. 2) Entidades gestoras de la Seguridad 
+Social (Instituto Nacional de la Seguridad Social e 
+Instituto Social de la Marina) y otros Mutualismos 
+Administrativos. Estas analizarán los casos de disfonía-
+afonía que presente la empresa determinando en primera 
+instancia la contingencia. Se hará cargo del tratamiento y 
+seguimiento en caso de contingencia profesional.
+Evaluación de riesgos
+Inicial, periódicos
+ENTORNO
+ORGANIZACIÓN
+PERSONA
+Evaluación de riesgos:
+- Ruido.
+- Acústica de las salas o recinto.
+- Calidad del aire.
+- Temperatura y humedad.
+Comunicación
+Tiempo de trabajo
+Carga de trabajo
+Pausas
+MEDIDAS PREVENTIVAS
+Sensibilización
+Formación/Entrenamiento
+Eliminación/Control de los factores de riesgo
+Vigilancia salud vocal
+Planificación retorno al trabajo
+EVALUACIÓN Y SEGUIMIENTO
+Detección precoz.
+Conocimiento y habilidades.
+Cuidado de la voz.
+Identificación de los signos de alarma.
+Identificación de especialmente sensibles.
+Gestión del caso.
+Participación
+Figura 1. Marco para la acción
+SERVICIOS EXTERNOS
+Los trastornos de voz son un problema complejo que 
+requiere la intervención de varios profesionales para 
+un adecuado diagnóstico y tratamiento. Los profe-
+sionales responsables de la vigilancia de la salud son 
+el primer eslabón para la detección y sospecha de los 
+problemas de voz. Sin embargo, el diagnóstico definitivo 
+requiere pruebas médicas específicas que deben ser 
+realizadas por médicos foniatras u otorrinolaringólogos 
+especialistas en patología de la voz y, en ciertos casos, 
+por otros especialistas como digestólogos, neurólogos, 
+neumólogos, etc. La formación y reeducación de la voz 
+así como ciertos aspectos del tratamiento se debe 
+confiar a profesionales cualificados como foniatras, lo-
+gopedas, etc.
+Algoritmo de actuación o flujograma
+En la figura 1 se propone un marco para la acción en la 
+prevención de las disfonías por sobresfuerzo vocal en 
+la empresa según nivel de intervención.
+Seguimiento y evaluación.
+Todo procedimiento debe ser evaluado teniendo en cuen-
+ta los objetivos específicos establecidos. Es necesario 
+plantear cómo y cada cuánto se realizará la evaluación. 
+Cada objetivo deberá tener al menos un indicador de 
+evaluación y es aconsejable recoger de forma sistemá-
+tica la experiencia y valoración de los destinatarios del 
+procedimiento. La recogida de datos la puede realizar el 
+Servicio de Prevención, pero la evaluación de resultados 
+debe implicar a todos los actores implicados.
+Ej.: Según los objetivos propuestos, para el seguimien-
+to y evaluación de la implementación de este procedi-
+miento, se realizará un informe anual en el que constará 
+la evolución de los indicadores de las siguientes áreas: 
+evaluación de riesgos, vigilancia de la salud, formación y 
+gestión de los casos de trastornos de la voz. Dicho infor-
+me se analizará anualmente por el Comité de Seguridad 
+y Salud y se propondrán, si es necesario, la aplicación de 
+nuevas medidas preventivas o la mejora de las existentes.
+En la Tabla 2 se apuntan, a modo de ejemplo, algunos 
+indicadores posibles en función del tipo de evaluación.
+TABLA 2. Ejemplos de indicadores para la evaluación del proceso 
+o de los resultados del procedimiento.
+PROCESO
+Nº de recomendaciones consensuadas después de la 
+evaluación de riesgos.
+Proporción de trabajadores expuestos que acuden al 
+reconocimiento periódico.
+Proporción de trabajadores expuestos que acuden a los cur-
+sos programados.
+Nº de trabajadores que solicitan la intervención del servicio de 
+prevención.
+RESULTADOS
+Nivel de riesgo
+Nº de disfonías en función del nº de trabajadores expuestos
+Proporción de trabajadores que aplican las recomendaciones 
+para el cuidado de la voz.
+Duración media de la baja por disfonía.
+
+6
+Notas Técnicas de Prevención
+Relación de documentos anexos
+Su objetivo es relacionar los anexos que se citan en el 
+procedimiento. Los anexos deben estar identificados y 
+numerados de manera que sea fácil su consulta. Se re-
+comiendan, entre otros:
+– Procedimiento de evaluación de los riesgos por
+sobresfuerzo vocal.
+– Procedimiento de vigilancia de la salud de los ex-
+puestos a sobresfuerzo vocal.
+– Procedimiento de mantenimiento y vuelta al
+trabajo.
+– Contenido del temario de formación recomendado
+para cada tipo de personal.
+– Método de control y seguimiento.
+La disponibilidad del procedimiento en formato 
+electrónico y la inclusión en ellos de los enlaces a los 
+anexos facilita el acceso y consulta a los documentos 
+relacionados.
+BIBLIOGRAFÍA
+INSST. Mantenimiento y vuelta al trabajo: procedimiento. Madrid: INSST, 2018. Notas Técnicas de Prevención: 
+NTP 1.116. [Consulta: 29 de octubre de 2020) Disponible en: http://www.es/ntp-notas-tecnicas-de-prevencion
+INSST. Voz y Trabajo: Formación. Madrid: INSST. Notas Técnicas de Prevención. NTP 1.148 [Consulta: 29 de 
+octubre de 2020] Disponible en: http://www.es/ntp-notas-tecnicas-de-prevencion
+INSST. Guía clínica para el abordaje de la disfonía crónica en Medicina Primaria y Medicina del Tra-
+bajo. Madrid: INSST: 2017. [Consulta: 29 de octubre de 2020] Disponible en: https://www.insst.es/-/
+guia-clinica-para-el-abordaje-de-la-disfonia-cronica-en-medicina-primaria-y-medicina-del-trabajo-ano-2017
+INSST. Procedimiento de investigación de casos de enfermedades profesionales. INSST: 2019. [Consulta: 29 
+de octubre de 2020] Disponible en: https://www.insst.es/-/procedimiento-de-investigacion-de-casos-de-enfer-
+medades-profesionales-ano-2019-
+La Voz: Ganar en salud. Cartel y vídeo. INSST: 2018. [Consulta: 29 de octubre de 2020] Disponible en: https://
+www.insst.es/-/la-voz-ganar-en-salud-ano-2018
+Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades profesionales 
+en el sistema de la Seguridad Social y se establecen criterios para su notificación y registro. [Consulta: 29 de 
+octubre de 2020] Disponible en: https://www.boe.es/buscar/act.php?id=BOE-A-2006-22169
+Las enfermedades de la voz. Estudio sobre factores de riesgo predictivos de patologías relacionadas con la 
+seguridad y la salud de los trabajadores docentes. Federación Estatal de Enseñanza de CCOO. Madrid. 2009. 
+http://istas.net/descargas/LIBRO_VOZ_IMP.pdf 
+Faustino Núñez-Batalla, Paz Corte-Santos, Blanca Señaris-González, José L. Llorente-Pendás, Carmen Gó-
+rriz-Gil y Carlos Suárez-Nieto (2007). Adaptación y validación del índice de incapacidad vocal (VHI-30) y su 
+versión abreviada (VHI-10) al español. Acta Otorrinolaringol Esp. 58(9):386-92
+http://bit.ly/2mklnRn 
+Ma Jesús Rodríguez Bayarri, Joan Oliveres Verges, Carlos Linares Salas, Enrique Martínez Llorente y Dulce 
+Puget Bosch (2015). Descripción de los casos de disfonías atendidos en una mutua durante el año 2013. Arch 
+Prev Riesgos Labor 18 (1): 12-16. http://bit.ly/2knTO9e 
+Código Técnico de Edificación. Documento Básico DB-HR http://bit.ly/DB-HR
+En la página web del INSST podrá consultar toda la normativa en materia de prevención de riesgos laborales 
+https://www.insst.es/normativa
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSST, nº NTP, año y título. 
+NIPO: 118-20-027-6

@@ -1,0 +1,711 @@
+Notas Técnicas de Prevención
+1.226
+AÑO 2025
+Voz y trabajo: recomendaciones para la 
+vigilancia de la salud específica.
+Voix et travail : recommandations pour la surveillance médicale.
+Working voice: medical surveillance recommendations.
+Autor:
+Instituto Nacional de Seguridad y Salud en el Trabajo 
+(INSST), O.A., M.P.
+Elaborado por:
+Mª Dolores Solé Gómez. 
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO (INSST)
+Componentes del Grupo de voz del INSST:
+Marisa Bonmatí Guidonet.
+Maricè Miranda Royo.
+Carme Riu Riu.
+Lydia Sañudo Blanco.
+DEPARTAMENT D’EDUCACIÓ DE LA GENERALITAT DE 
+CATALUNYA
+Dulce Puget Bosch.
+ASEPEYO
+Belén Serrano Muñiz.
+CONSORCI SANITARI INTEGRAL
+Josep Maria Vila-Rovira.
+UNIVERSITAT RAMON LLULL - BARCELONA
+Lluc Bosque Conde.
+GRUP EVES - UNIVERSITAT AUTÒNOMA DE BARCELONA 
+Esta NTP forma parte de una serie de NTP dedicadas a 
+las disfonías de origen laboral. En ella se proponen unas 
+recomendaciones para el establecimiento del programa 
+de vigilancia de la salud de las personas expuestas a so-
+bresfuerzo vocal en el desempeño de su trabajo. Sus des-
+tinatarios son principalmente los profesionales sanitarios 
+especialistas en Medicina y Enfermería del Trabajo de los 
+servicios de prevención de riesgos laborales. Dichas re-
+comendaciones deberían considerarse complementarias 
+al protocolo que en su caso pueda determinarse por el 
+Ministerio de Sanidad.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en 
+una disposición normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas 
+en una NTP concreta es conveniente tener en cuenta su fecha de edición.
+1. INTRODUCCIÓN 
+La vigilancia de la salud es una tarea esencial en la pre-
+vención de riesgos laborales y una función nuclear de los 
+profesionales sanitarios de los servicios de prevención. 
+Su desarrollo incluye la elaboración del protocolo espe-
+cífico de vigilancia de la salud para las personas traba-
+jadoras que tutela en función de los riesgos detectados 
+y las características personales de las mismas. Ese pro-
+tocolo debería responder, como mínimo, a las siguientes 
+preguntas:
+• ¿Cuál es la población diana?
+• ¿Con qué frecuencia se han de aplicar?
+• ¿En qué va a consistir?
+• ¿Cuáles van a ser los criterios de sospecha o 
+diagnósticos?
+• ¿Qué herramientas se van a utilizar?
+• ¿Qué indicadores permitirán evaluar las acciones 
+preventivas?
+Esta NTP pretende dar respuesta a estas cuestiones 
+para facilitar el seguimiento de las alteraciones de voz 
+en las personas que utilizan la voz como herramienta de 
+trabajo y que la literatura científica especializada cifra en 
+un 30% de la población laboral. Algunos colectivos de 
+usuarios profesionales de la voz son fácilmente identi-
+ficables, como las personas profesionales del canto, la 
+actuación, la radio y la docencia, así como el personal 
+de empresas teleoperadoras. Pero hay un gran número 
+de profesiones en las que la voz también juega un papel 
+instrumental imprescindible para el desempeño laboral: 
+agentes comerciales, sacerdotes, recepcionistas y servi-
+cios de atención al cliente (tiendas, oficinas…), abogados 
+y abogadas, jueces y juezas, profesionales sanitarios en 
+general, psicólogas y psicólogos, consejeras y conseje-
+ros, militares, policías, supervisores de obras, bomberos 
+y bomberas, monitores y monitoras deportivos, etc., a los 
+cuales, habitualmente, no se considera usuarios profe-
+sionales de la voz.
+De todas las patologías que pueden derivar de un so-
+bresfuerzo vocal, tan solo los nódulos de cuerdas vocales 
+han sido reconocidos como enfermedad profesional por 
+Real Decreto 1299/2006, de 10 de noviembre, por el que 
+se aprueba el cuadro de enfermedades profesionales en 
+
+2
+Notas Técnicas de Prevención
+el sistema de la Seguridad Social y se establecen criterios 
+para su notificación y registro. Este RD no incluye lesiones 
+como pólipos, edemas, hemorragias, disfonías tensionales 
+o agravamiento de lesiones crónicas cuyo origen puede 
+ser laboral y cuyo síntoma común es la disfonía.
+2. DISFONÍA Y SOBRESFUERZO VOCAL: 
+CONCEPTOS BÁSICOS
+La disfonía es una alteración de los parámetros básicos 
+de la voz (altura, timbre e intensidad) que puede afectar 
+la vida social y profesional dependiendo de las necesi-
+dades vocales de la persona. Esta alteración puede ser 
+aguda o crónica:
+• DISFONÍA AGUDA. La causa más frecuente es la in-
+fección de vías respiratorias altas y, más raramente, 
+los esfuerzos vocales puntuales, los traumatismos de 
+cuello y las situaciones de estrés agudo. Esta disfonía 
+acostumbra a ceder con el tratamiento sintomático y 
+reposo vocal en 7-14 días. 
+• DISFONÍA CRÓNICA. Es aquella disfonía que se sue-
+le presentar aisladamente, sin un contexto infeccioso 
+previo, dura más de dos o tres semanas y, aunque la 
+principal causa de aparición sea el sobresfuerzo vocal, 
+se debe tener presente que puede ser signo de enfer-
+medad oncológica o neurológica. 
+La disfonía es un síntoma y, para abordarla con efica-
+cia, se deben establecer las causas que la han generado. 
+La mayoría de las veces, en el caso de la disfonía crónica, 
+su origen es multifactorial e incluye aspectos relaciona-
+dos con el mal uso vocal, aspectos psicoemocionales o 
+sistémicos, enfermedad oncológica y autoinmune, etc. así 
+como respuesta a factores irritantes o tratamientos far-
+macológicos, como antihipertensivos o antihistamínicos 
+(véase tabla 1). Para más información sobre este tema 
+se recomienda consultar la “Guía clínica para el abordaje 
+de la disfonía crónica en medicina primaria y medicina 
+del trabajo”.
+Finalmente, hay que tener presente que, en numero-
+sas ocasiones, aparecen disfonías sin lesiones orgánicas. 
+Estas disfonías suelen tener un origen tensional muscular, 
+tanto laríngeo como extralaríngeo. Si no se corrige este 
+problema, con toda probabilidad será causa de lesiones 
+orgánicas posteriores. 
+Tabla 1: Causas más relevantes de disfonía y ejemplos.
+CAUSAS
+EJEMPLOS
+Sobresfuerzo vocal
+Nódulos, pólipos, edemas, hemorragias cordales, seudoquistes. 
+Lesiones congénitas
+Quistes epidérmicos, sulcus de cuerda vocal, vergetures, microsinequia anterior.
+Enfermedad neurológica
+Parálisis laríngeas, parkinson, esclerosis lateral amiotrófica, miastenia gravis, disfonía 
+espástica, esclerosis múltiple.
+Enfermedad sistémica
+Hipotiroidismo, alergia, reflujo faringolaríngeo, artritis: afectación de la articulación 
+cricoaritenoidea.
+Neoplasia y lesión preneoplásica
+Displasia laríngea, carcinoma laríngeo, papilomatosis laríngea.
+Inflamación/lesión/irritación
+Traumas por intubación, afección de vías respiratorias altas, lesión del nervio recurrente, 
+inhalación de irritantes, quistes de retención.
+Disfonía psicógena
+Estrés emocional, tensión muscular.
+Medicación
+Corticoides inhalados, broncodilatadores, antidepresivos, diuréticos, antihistamínicos.
+Disfonía crónica de origen laboral
+La disfonía crónica de origen laboral se asocia al sobres-
+fuerzo, abuso o mal uso de la voz (causa necesaria) y a 
+la existencia de factores relacionados con la persona, el 
+entorno y la organización del trabajo (causas contribu-
+yentes). Así pues, para su prevención, se han de tener en 
+cuenta la combinación de diferentes elementos: 
+• Intensidad vocal: valores de ruido ambiental superiores 
+a 85dB (Cutiva & Burdorf, 2015) o un nivel de ruido 
+ambiente por encima de 65dBA (Berglund et al., 1999) 
+pueden suponer un mayor esfuerzo vocal para la per-
+sona trabajadora. 
+• Tiempo de uso de la voz: en general se considera que 
+superar las cuatro horas de actividad vocal supone un 
+grado de exposición significativo (Sliwinska-Kowsala, 
+et al., 2006).
+• Compromiso emocional: el uso de la voz con altas 
+exigencias emocionales, en situaciones de estrés co-
+municativo, ya sea por la existencia de dificultades en 
+la emisión o en la recepción de la voz, o por las conse-
+cuencias de dicha comunicación, supone un aumento 
+del riesgo de alteraciones vocales.
+• Características del entorno laboral y de la organización 
+del trabajo.
+• Factores individuales: como la salud del órgano fona-
+dor, la morfología corporal, la personalidad, etc.
+En la NTP 1213 Voz y Trabajo: evaluación de riesgos 
+por sobresfuerzo vocal se abordan todos los factores, ex-
+cepto los individuales que se tratarán en esta NTP. 
+En resumen, desde el punto de vista laboral, cualquier 
+disfonía en una persona trabajadora expuesta a sobres-
+fuerzo vocal es susceptible de ser considerada como una 
+patología presuntamente laboral, y debería ser puesta a 
+consideración de la correspondiente Mutua Colaboradora 
+con la Seguridad Social, para su estudio y calificación 
+definitiva. 
+
+3
+Notas Técnicas de Prevención
+3. PAUTAS PARA LA ELABORACIÓN DEL 
+PROGRAMA DE PREVENCIÓN DE LAS 
+ALTERACIONES POR SOBRESFUERZO 
+VOCAL EN EL TRABAJO
+La prevención de los trastornos de voz, como el resto de 
+actuaciones en prevención de riesgos laborales, requiere 
+de una estrecha colaboración entre la medicina del tra-
+bajo y el resto de las disciplinas preventivas. La labor de 
+los profesionales sanitarios del servicio de prevención 
+consiste principalmente en la identificación de las per-
+sonas especialmente sensibles a las demandas vocales, 
+la detección precoz de los trastornos de voz y valoración 
+de su posible origen laboral y la participación en la sen-
+sibilización y formación sobre el buen uso y cuidado de la 
+voz, así como la participación en la evaluación de riesgos 
+y en la adaptación, si es necesaria, del puesto de trabajo.
+3.1 Alcance 
+Personas trabajadoras expuestas a un esfuerzo sostenido 
+de la voz en el desempeño de su trabajo o que presenten 
+una disfonía de posible origen laboral. La exposición de-
+bería acreditarse mediante la evaluación de riesgos espe-
+cífica que confirmará el uso de la voz como herramienta 
+profesional, así como el sobresfuerzo vocal y los tiem-
+pos de exposición. Se tendrán en cuenta también todos 
+aquellos elementos o condiciones de trabajo que puedan 
+suponer exigencias de alta intensidad o emocionales en 
+el uso de la voz. En el caso de no estar disponible esta 
+información, se promoverá y colaborará en dicha evalua-
+ción. Para más información, se remite a la NTP 1213 Voz 
+y trabajo: evaluación de riesgos por sobresfuerzo vocal. 
+3.2 Periodicidad
+Teniendo en consideración lo recogido en el art. 37.3.b 
+del Real Decreto 39/1997, de 17 de enero por el que se 
+aprueba el Reglamento de los Servicios de Prevención,
+los reconocimientos médicos deberían garantizarse como 
+mínimo en tres ocasiones:
+• Inicial después de la incorporación al trabajo o des-
+pués de la asignación de tareas específicas con expo-
+sición a sobresfuerzo vocal con el objetivo de evaluar la 
+condición inicial y establecer una línea de base de sa-
+lud vocal de la persona trabajadora y para la detección 
+de las personas trabajadoras especialmente sensibles.
+• Tras una ausencia prolongada por motivos de salud 
+para determinar si dicha ausencia está relacionada con 
+la salud vocal.
+• A intervalos periódicos con el objetivo de detectar de 
+forma precoz los posibles trastornos de voz o la apari-
+ción de una especial sensibilidad. La periodicidad de 
+los reconocimientos médicos debe basarse en una 
+evaluación de riesgos que considere la naturaleza del 
+trabajo, la exposición a sobresfuerzos vocales y las ca-
+racterísticas individuales de las personas trabajadoras 
+usuarias de la voz. 
+• En general, la práctica muestra que un reconocimiento 
+anual suele ser adecuado para personas trabajado-
+ras con un uso continuado e intensivo de la voz o alta 
+demanda vocal, o bianual para personas con un uso 
+frecuente pero no tan intensivo, siempre que no haya 
+síntomas evidentes de fatiga vocal o problemas de voz. 
+A estos supuestos se añadirán, a criterio médico, las 
+revisiones adicionales que supondrán un ajuste de la 
+periodicidad a nivel individual en el caso de aparición 
+ 
+de síntomas o cambios en la voz, según las caracterís-
+ticas personales de la persona o especial sensibilidad a 
+la sobrecarga vocal o condiciones de trabajo específicas. 
+3.3 Personas trabajadoras especialmente sensibles
+Aunque la disfonía puede deberse al mal uso y abuso de 
+la voz, existen otras patologías que aumentan la proba-
+bilidad de las personas trabajadoras a presentarla o que, 
+incluso, pueden agravarse por la exposición a sobrecar-
+ga vocal. Por ello, en la historia clínica de la persona 
+trabajadora debe prestarse especial atención a aquellas 
+condiciones que pueden suponer una especial sensibili-
+dad como son los antecedentes patológicos de alergias, 
+enfermedades neurológicas y digestivas, lesiones de la 
+mucosa laríngea (congénitas o adquiridas), endocrino-
+patías, trastornos psíquicos, neoplasias, etc.  Entre las 
+lesiones congénitas que pueden desempeñar un papel 
+importante en el desarrollo de la disfonía se encuentran 
+los quistes epidérmicos, los sulcus de cuerda vocal y las 
+“vergetures”. Otras patologías causantes de disfonía que, 
+aunque no sean de origen laboral, deben ser identificadas 
+y tratadas rápidamente, como las neoplasias, las parálisis, 
+los granulomas y las papilomatosis de cuerdas vocales. 
+Algunas de estas patologías se citan en la tabla 1.
+3.4 Contenido
+Dado que uno de los objetivos principales de la vigilan-
+cia de la salud es la identificación precoz de problemas 
+derivados del trabajo y de las personas trabajadoras es-
+pecialmente sensibles, el protocolo específico para los 
+trastornos vocales debería incluir una historia clínico-la-
+boral, una exploración física específica, algunas pruebas 
+complementarias, así como la remisión, si procede, al 
+especialista en otorrinolaringología (ORL), (véase figura1).
+Figura 1- Esquema general de la vigilancia de la salud individual.
+ 
+HISTORIA CLÍNICO LABORAL
+La historia clínica y laboral constará de los siguientes 
+apartados:
+• Historia laboral: se incluirá información de los puestos 
+de trabajo anteriores y del puesto de trabajo actual. 
+Como se ha apuntado en el apartado “Alcance”, los 
+profesionales sanitarios del servicio de prevención 
+deberán conocer la evaluación de riesgos del puesto 
+de trabajo, anotando en la historia clínica los elemen-
+tos más relevantes e insistiendo durante la entrevista 
+personal en la percepción de la persona trabajadora 
+en lo relativo a la exposición a ruido, las condiciones 
+termohigrométricas, la presencia de agentes químicos 
+ambientales y el tipo de ventilación.
+
+4
+Notas Técnicas de Prevención
+• Anamnesis, en la que se recogerá información sobre 
+procesos y elementos susceptibles de alterar la voz. Se 
+considerarán los antecedentes familiares, patológicos,
+farmacológicos, los hábitos de vida, la existencia de facto-
+res de riesgo personales (véase la tabla 2) y naturalmente 
+la situación actual en cuanto a los síntomas presentados. 
+ 
+Tabla 2-Factores de riesgo personales.
+ Edad y sexo 
+Envejecimiento de la voz (presbifonía).
+Menopausia
+Estrés emocional
+Duelo, conflictos familiares, dificultades 
+económicas…
+Consumo de alcohol, café o bebidas muy 
+frías o calientes.
+Hábitos personales
+Ingesta de alimentos que favorezcan el 
+reflujo gástrico.
+Tabaquismo.
+Descanso nocturno insuficiente.
+Aficiones/bricolaje 
+con exposición a 
+agentes químicos
+Pintura, soldadura, cerámica, 
+manualidades...
+Uso de la voz 
+Teatro, canto coral, radioaficionado, otras 
+extralaboral
+actividades lúdicas con esfuerzo de voz...
+EXPLORACIÓN FÍSICA ESPECÍFICA
+• Valoración de la actitud estática: actitud cifótica, cifoes-
+coliosis, lordosis.
+• Valoración cardio-respiratoria (tipo de respiración: am-
+plia y regular, superficial, diafragmática, etc.)
+• Presencia de contractura cervical principalmente en 
+los músculos trapecio y elevador de la escápula.
+• Presencia de adenopatías cervicales, supraclavicula-
+res y submaxilares. Exploración de la glándula tiroides.
+• Inspección de boca, lengua, dientes.
+• Inspección de la orofaringe (eritema, mucosidad, de-
+formidades, etc.).
+• Presencia de conjuntivitis / rinitis.
+CUESTIONARIOS
+Los siguientes cuestionarios son de utilidad en la vigilan-
+cia de la salud individual:
+Índice de incapacidad vocal (VHI-10): el VHI es un 
+cuestionario de autopercepción creado para detectar 
+problemas relacionados con la utilización de la voz y 
+que permite cuantificar las consecuencias psicosociales 
+derivadas de un posible hándicap en este ámbito. En su 
+formato original (VHI-30) consta de 30 ítems organiza-
+dos en tres subescalas: funcional, física y emocional. 
+Se aconseja utilizar la versión reducida de 10 preguntas 
+(VHI-10) que ahorra tiempo en la respuesta del cuestio-
+nario y en el análisis de los datos sin perder fiabilidad 
+(véase la tabla 3).
+Índice de síntomas de reflujo (Reflux Symptom Index): 
+valora los síntomas extraesofágicos asociados al reflujo 
+faringolaríngeo (flujo retrógrado del contenido gástrico a 
+la laringofaringe). Es un cuestionario autoadministrado, 
+válido y fiable que puede ayudar en la clínica a valorar 
+la importancia de los síntomas durante la evaluación 
+inicial y después del tratamiento. Una puntuación en 
+el RSI mayor a 13 se considera patológico (véase la 
+tabla 4). 
+Escala de fatigabilidad vocal en docentes: valora los sín-
+tomas de dos factores relacionados con la fatigabilidad 
+vocal de los profesionales de la docencia (rendimiento 
+vocal y conductas reparadoras). Se trata de un cuestio-
+nario autoadministrado de 17 preguntas con respuestas 
+relativas a la frecuencia de aparición de los síntomas. 
+Las puntuaciones pueden oscilar entre los 0 y los 68 
+puntos considerándose como “Sin fatiga” puntuaciones 
+menores de 15, “Fatiga moderada” en caso de puntuacio-
+nes entre 15 y 27 y “Fatiga elevada” para puntuaciones 
+superiores a 28.
+En las tablas 3, 4 y 5 se muestran los cuestionarios 
+utilizados con más frecuencia. 
+Tabla 3 - Índice de incapacidad de la voz (Voice Handicap Index).
+Voice Handicap Index (VHI10)
+La gente me oye con dificultad debido a mi voz
+0
+1
+2
+3
+4
+La gente no me entiende en sitios ruidosos
+0
+1
+2
+3
+4
+Mis problemas con la voz alteran mi vida personal y social
+0
+1
+2
+3
+4
+Me siento desplazado/a de las conversaciones por mi voz
+0
+1
+2
+3
+4
+Mi problema con la voz afecta al rendimiento laboral
+0
+1
+2
+3
+4
+Siento que necesito tensar la garganta para producir la voz
+0
+1
+2
+3
+4
+La calidad de mi voz es impredecible
+0
+1
+2
+3
+4
+Mi voz me molesta
+0
+1
+2
+3
+4
+Mi voz me hace sentir cierta minusvalía
+0
+1
+2
+3
+4
+La gente me pregunta: ¿qué te pasa en la voz?
+0
+1
+2
+3
+4
+Puntúe de 0 (nunca) a 5 (siempre) la frecuencia con la que experimenta cada situación. 
+Mayor de 10 puntos se considera patológico
+
+5
+Notas Técnicas de Prevención
+Tabla 4 – Índice de síntomas de reflujo (Reflux Symptoms Index), versión en castellano de Calvo-Henríquez, C et al (2018).
+Índice de síntomas de reflujo (RSI)
+1
+Afonía u otros cambios en la voz
+0
+1
+2
+3
+4
+5
+2
+Carraspeo o necesidad de aclarar la garganta
+0
+1
+2
+3
+4
+5
+3
+Sensación de tragar moco que cae por detrás de la nariz
+0
+1
+2
+3
+4
+5
+4
+Dificultad para tragar comida, líquidos o pastillas
+0
+1
+2
+3
+4
+5
+5
+Tos después de comer o tras estar tumbado
+0
+1
+2
+3
+4
+5
+6
+Dificultad para respirar o episodios de atragantamiento/ahogo
+0
+1
+2
+3
+4
+5
+7
+Ataques de tos
+0
+1
+2
+3
+4
+5
+8
+Sensación de bulto o tener algo pegado en la garganta. Sensación de tener algo a medio tragar
+0
+1
+2
+3
+4
+5
+9
+Sensación de que el ácido del estómago sube a la garganta. Quemazón u opresión en el pecho 
+0
+1
+2
+3
+4
+5
+Puntúe de 0 (nada) a 5 (mucho) cuánto le han afectado los síntomas o problemas de la lista durante el último mes.
+Se considera patológico un RSI mayor a 13.
+Tabla 5 - Escala de Fatigabilidad Vocal en Docentes (Contreras-Regatero, S; Vila-Rovira, J. 2024).
+Escala de fatigabilidad vocal en docentes
+Estos son algunos de los síntomas asociados normalmente con la fatiga de la voz. Marque con una cruz la casilla que indica con qué frecuencia 
+experimenta estos mismos síntomas.
+NUNCA
+(0)
+CASI 
+NUNCA
+(1)
+A VECES
+(2)
+CASI 
+SIEMPRE
+(3)
+SIEMPRE
+(4)
+Después de más de 2 horas hablando a una intensidad alta no puedo seguir con tareas 
+vocales exigentes.
+Después de más de 2 horas hablando a una intensidad alta siento la voz cansada.
+Después de más de 2 horas hablando a una intensidad alta experimento una creciente 
+sensación de esfuerzo en la voz.
+Después de más de 2 horas hablando a una intensidad alta mi voz se vuelve ronca.
+Después de más de 2 horas hablando a una intensidad alta me resulta un esfuerzo seguir 
+hablando como lo estaba haciendo.
+Después de más de 2 horas hablando a una intensidad alta me resulta difícil seguir pro-
+yectando la voz.
+Después de más de 2 horas hablando a una intensidad alta siento mi voz débil.
+Después de más de 2 horas hablando a una intensidad alta siento la voz irritada. 
+Después de más de 2 horas hablando a una intensidad alta siento incomodidad en el 
+cuello, la garganta o la lengua.
+Después de más de 2 horas hablando a una intensidad alta siento dificultad para hablar 
+con voz suave.
+Generalmente tiendo a limitar el habla después de un periodo de tiempo usando la voz.
+Evito situaciones sociales en las que sé que tengo que hablar más.
+Siento que no puedo hablar con mi familia después de un día de trabajo.
+Siento malestar o dolor en el cuello al final de un día utilizando la voz.
+Necesito guardar silencio e hidratarme más de 1h para dejar de sentir sobreesfuerzo al 
+hablar.
+Necesito dormir toda una noche para dejar de sentir malestar al hablar.
+Necesito entre dos y tres días hablando poco o guardando silencio para recuperar mi voz.
+SUMATORIO:
+PUNTUACIÓN TOTAL:
+
+6
+Notas Técnicas de Prevención
+SENSIBILIZACIÓN
+Durante el examen médico es importante también incor-
+porar el consejo breve sobre el cuidado de la voz. Este 
+consejo puede reforzarse mediante la entrega de informa-
+ción escrita sobre higiene vocal y buenas prácticas. En la 
+tabla 6 se apuntan algunas recomendaciones generales 
+para el cuidado de la salud vocal.
+Sensibilización y autocuidado de la voz son medidas 
+complementarias de las obligadas medidas de preven-
+ción colectivas referenciadas en la NTP 1213 Voz y Tra-
+bajo: evaluación de riesgos por sobresfuerzo vocal.
+Tabla 6 – Cuidado de la salud vocal.
+Hablar con intensidad suficiente sin exceso de potencia.
+Evita forzar la voz 
+Hablar con una altura tonal cómoda, con tono ni muy alto ni muy bajo.
+Hablar lentamente y aprovechar las pausas para respirar.
+La voz, haciendo pausas entre actividades de la vida laboral, social y familiar.
+Descansa
+El cuerpo, buscando en la actividad diaria diversos puntos de contacto, alternando bipedestación y sedestación y combinando 
+trabajo estático con trabajo dinámico.
+Cuerpo y mente con un buen dormir: extenso (7-8 horas) e intenso (sueño profundo)
+Bebe agua durante 
+la jornada laboral
+Ayuda a hacer pequeñas pausas.
+Se estiran los músculos de la laringe.
+Se hidrata la mucosa orofaríngea.
+Mantén una 
+Mantener el cuerpo activo, alineado y sin esfuerzo.
+actitud corporal 
+Procurar mantener el cuerpo relajado y cómodo.
+adecuada
+Sonreír puede contribuir a mejorar la comunicación y evita la tensión muscular inadecuada.
+Aprende a proyectar 
+Busca un gesto corporal sin tensiones en la zona de la garganta para proyectar la voz.
+la voz sin esfuerzo
+Aprovecha los espacios bucales para amplificar el sonido.
+3.5 Procedimiento
+Como recomendación principal, la disfonía progresiva 
+o persistente por más de dos o tres semanas requiere 
+examen de la laringofaringe por parte del especialista 
+en otorrinolaringología para descartar cáncer u otras 
+afecciones graves. En caso de que la disfonía tenga un 
+origen claramente no laboral, p. ej. una laringitis vírica o 
+un reflujo faringolaríngeo, se derivará al servicio público 
+de salud (o el que corresponda a la cobertura médica del 
+colectivo), para estudio y tratamiento específico por parte 
+de especialista en otorrinolaringología. Si se sospecha 
+una disfonía crónica en una persona expuesta sin an-
+tecedentes patológicos que expliquen la sintomatología 
+se derivará a la Mutua Colaboradora con la Seguridad 
+Social que corresponda para valoración y tratamiento o, 
+si procediese, derivación al Servicio Público de Salud por 
+considerarse de origen no laboral.
+Hay que recordar que el tratamiento de elección de la 
+disfonía es la rehabilitación logopédica, preferentemente 
+en sesión individual y semanal. La duración de un proce-
+so rehabilitador realizado correctamente no suele durar 
+más de 12 semanas y, en la mayoría de los casos, si 
+la disfonía se atiende precozmente, no tendría por qué 
+causar baja laboral, aunque sí podría suponer algunas 
+restricciones temporales mientras durase el tratamiento. 
+En la figura 2 se propone el flujograma de actuación en 
+función de los resultados del examen de salud. 
+Figura 2 – Flujograma de actuación.
+EXAMEN SALUD PERSONA EXPUESTA
+Historia clínico-laboral+Cuestionarios+Exploración física
+SIN TRASTORNO DE LA VOZ
+NO SENSIBLE
+SENSIBLE
+SENSIBLE
+Recomendaciones
+Recomendaciones
+EXAMEN DE SALUD
+EXAMEN DE SALUD
+EXAMEN DE SALUD ANUAL
+ANUAL o BIENAL
+ANUAL
+LABORAL
+TRANSTORNO DE LA VOZ
+NO LABORAL
+NO LABORAL
+SOSPECHA LABORAL
+SISTEMA PÚBLICO SALUD
+Mutua Colaboradora SS
+/MUFACE (E.R.- Informe)
+Diagnóstico (ORL-P.Compl.)
+Determinación Contingencia
+EP (RD 1299)
+AT (Art 156 LGSS)
+
+7
+Notas Técnicas de Prevención
+CONCLUSIÓN
+La vigilancia de la salud es una herramienta indisociable 
+de la evaluación de riesgos e indispensable para hacer 
+el seguimiento y valorar la efectividad de las medidas 
+preventivas aplicadas, así como para contribuir a la adap-
+tación de las condiciones de trabajo a las concretas cir-
+cunstancias de las personas trabajadoras. 
+En el caso de las personas trabajadoras expuestas 
+a sobresfuerzo vocal, el análisis del conjunto de datos 
+recogidos durante la vigilancia de la salud individual (con-
+venientemente anonimizados) aportará información com-
+plementaria  a la evaluación higiénica sobre la frecuencia 
+y distribución de los efectos de los factores de riesgo 
+sobre la salud vocal y permitirá hacer el seguimiento en 
+el tiempo de los colectivos vigilados en función del nivel 
+de exposición, efectividad de las medidas preventivas 
+aplicadas, características personales, etc.
+BIBLIOGRAFÍA 
+Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades profesionales en el 
+sistema de la Seguridad Social y se establecen criterios para su notificación y registro.
+Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los servicios de prevención.
+Guía clínica para el abordaje de la disfonía crónica en Medicina Primaria y Medicina del Trabajo. INSST (2017).
+NTP 1213 Voz y Trabajo: evaluación de riesgos por sobresfuerzo vocal INSST (2024).
+Procedimiento de investigación de casos de enfermedades profesionales. INSST (2022).
+La Voz: Ganar en salud. Cartel y vídeo. INSST: 2018. 
+Vigilancia de la salud para la prevención de riesgos laborales: Guía básica y de orientación. Ministerio de Sanidad (2021). 
+Núñez Batalla F, et al (2007) Adaptación y validación del índice de Incapacidad Vocal (VHI-30) y su versión abreviada al 
+español Acta Otorrinolaringol Esp 58:386-92. https://doi.org/10.1016/S0001-6519(07)74954-3.
+Belafsky PC, Postma GN, Amin MR, Koufman JA (2002) Symptoms and findings of laryngopharyngeal reflux. Ear Nose 
+Throat J Sep; 81(9 Suppl. 2): 10-3.
+Berglund, B., Thomas, L., and Schwela, D. H. (1999). Guidelines for Community Noise (World Health Organization, Ge-
+neva, Switzerland).
+Calvo-Henriquez, Christian & Ruano-Ravina, Alberto & Vaamonde, Pedro & Lattomus, Kaelon & Sebio, Alicia & Fernán-
+dez-Rodríguez, Raquel & Martín-Martín, Carlos. (2018). Translation and Validation of the Reflux Symptom Index to Spanish. 
+Journal of Voice. 33. https://doi.org/10.1016/j.jvoice.2018.04.019.
+Contreras-Regatero, S., & Vila-Rovira, J. (2024). Measuring Vocal Fatigability in Teachers: The Vocal Fatigability Scale 
+for Teachers (VFS-T). Journal of Voice. https://doi.org/10.1016/j.jvoice.2024.04.014.
+Cutiva, L. C., & Burdorf, A. (2015). Effects of noise and acoustics in schools on vocal health in teachers. Noise and Health, 
+17(74), 17. https://doi.org/10.4103/1463-1741.149569.
+Servicio Canario de Salud. Gobierno de Canarias (2008) Manual Salud Mental en Atención Primaria: Recomendaciones 
+para el abordaje de los trastornos más prevalentes Escala de ansiedad y depresión de Goldberg.
+Sliwinska-Kowalska, M., Niebudek-Bogusz, E., Fiszer, M., Los-Spychalska, T., Kotylo, P., Sznurowska-Przygocka, B., & 
+Modrzewska, M. (2006). The Prevalence and Risk Factors for Occupational Voice Disorders in Teachers. Folia Phoniatrica 
+et Logopaedica, 58(2), 85–101. https://doi.org/10.1159/000089610.
+Departament d’ Empresa i Ocupació. Uso profesional de la voz. Generalitat de Catalunya (2012). https://treball.gencat.cat/
+web/.content/09_-_seguretat_i_salut_laboral/publicacions/imatges/us_professional_veu_cast.pdf.
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSST, nº NTP, año y título. 
+NIPO: 118-20-027-6
