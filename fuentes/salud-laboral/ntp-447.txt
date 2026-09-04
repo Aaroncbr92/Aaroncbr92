@@ -1,0 +1,178 @@
+ 
+NTP 447: Actuación frente a un accidente con riesgo biológico
+Conduite à tenir en cas d’accident avec risque biologique 
+Behaviour in a case of accident with biological risk
+Redactoras:
+Maria del Carme Martí Solé 
+Lda. en Farmacia
+Rosa Mª Alonso Espadalé 
+Lda. en Ciencias Biológicas
+Angelina Constans Aubert 
+Ingeniero Técnico Químico
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+En esta Nota Técnica se exponen los protocolos de actuación frente a un accidente que implique a algunos agentes biológicos 
+característicos. En este campo, las actuaciones frente al riesgo laboral más extendidas se orientan a la prevención de los riesgos 
+biológicos siguientes: Hepatitis B, Hepatitis C, Infección por VIH (SIDA), Tétanos y Brucelosis.
+Introducción
+Desde el punto de vista preventivo, los accidentes no son nunca eventos fortuitos, existiendo siempre factores controlables y evitables 
+que aumentan su riesgo de aparición. El campo de los riesgos biológicos no es una excepción, de ahí que se deban establecer 
+procedimientos de trabajo adecuados y adoptar medidas de protección colectiva o individual de cara a evitar o minimizar el riesgo de 
+accidente biológico.
+Son ejemplo de ello, protocolizar los procedimientos de recepción, manipulación y transporte de los agentes biológicos en el lugar de 
+trabajo, así como la recogida, almacenamiento y evacuación de los residuos resultantes. Las medidas de protección colectiva o en su 
+defecto, individual, se adoptan cuando la exposición no puede evitarse por otros medios. También se adoptan normas de higiene que 
+eviten o dificulten la dispersión del agente biológico fuera del lugar de trabajo.
+Sin embargo, puede ocurrir que a pesar de aplicar estas medidas destinadas a la reducción del riesgo, se produzca algún accidente. 
+En este caso, debe disponerse de procedimientos de actuación de emergencia para reducir al máximo los efectos de la contaminación 
+biológica sufrida. En la presente Nota Técnica se especifican estas instrucciones y se exponen casos concretos de actuación frente a 
+unos agentes biológicos determinados.
+Estrategia de prevención
+El personal cuyo trabajo implique un riesgo biológico debe tener especial cuidado en evitar todo tipo de heridas. Los pinchazos 
+accidentales constituyen un importante problema de salud laboral por su relativa alta frecuencia (son el accidente con riesgo biológico 
+más corriente) y por las consecuencias que pueden comportar desde el punto de vista de contagio. En consecuencia, deben 
+establecerse procedimientos de trabajo por escrito que minimicen el riesgo de pinchazos accidentales.
+Son ejemplos de recomendaciones básicas que deben seguirse para evitar accidentes de este tipo: desechar las pipetas de vidrio con 
+el borde roto, no volver a encapsular las agujas ya usadas, no manipular residuos en el interior de los contenedores (éstos pueden 
+contener en su interior agujas y material punzante o cortante) y usar las prendas de protección adecuadas.
+En caso de heridas como cortes, pinchazos, o la proyección de líquido a nivel de los ojos y mucosas, se recomienda llevar a cabo de 
+forma inmediata las actuaciones que se comentan brevemente a continuación.
+La primera actuación debe ser la desinfección y cura tópica de la herida, a pesar de que no existen datos que documenten la influencia 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1995
+
+que dicha medida puede tener sobre el riesgo de infección, ni de qué tipo de desinfectante puede ser más efectivo. Tampoco existe 
+información suficiente sobre si es mejor un cepillado enérgico de la zona del pinchazo que la simple irrigación o bien debe hacerse un 
+corte transversal en la zona, seguido de aspiración. Respecto a esta última medida, algunos autores opinan que puede promover aún 
+más la transmisión de la infección, permitiendo la introducción del virus al facilitarle una vía de entrada mayor. La recomendación 
+general indica que debe limpiarse la herida provocando una pequeña hemorragia y a continuación desinfectar la superficie cutánea con 
+una solución de povidona yodada al 10%, lejía (dilución 1/10 recientemente preparada) o alcohol al 70%, entre otros desinfectantes.
+Si la salpicadura se produce en la mucosa conjuntiva, ésta deberá irrigarse con suero fisiológico durante 15 minutos. En este caso, 
+debe tenerse en cuenta que, si se trata de un producto químico irritante o corrosivo, es imprescindible irrigar el ojo con abundante agua 
+para conseguir su dilución, recomendándose que el laboratorio disponga de un lavaojos. Las instrucciones habituales en el caso de 
+salpicaduras en los ojos por productos químicos, hacen referencia a un tiempo de lavado de 20 minutos. En cualquier caso siempre es 
+necesario visitar al oftalmólogo, aunque aparentemente el problema esté solucionado.
+En ambos casos debe procederse a la identificación del origen o de la procedencia del material contaminado, comunicarlo al servicio 
+de prevención, cumplimentar el correspondiente parte de accidente y proceder a la investigación de las causas que lo han originado, 
+por pequeño que sea el accidente o por remotas que aquéllas pudieran parecer.
+Respecto a la inmunización del accidentado, debe procederse a la verificación de vacunación con fecha del último recuerdo y titulación 
+de anticuerpos con fecha y tasa. En el Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los 
+riesgos relacionados con la exposición a agentes biológicos durante el trabajo, en el apartado 3 del artículo 8 y en el anexo VI se dan 
+una serie de recomendaciones prácticas para la vacunación, ya comentadas en la NTP-384 y que se enumeran a continuación:
+1.  Cuando la evaluación de riesgos demuestre la existencia de un riesgo para la seguridad y salud de los trabajadores por su 
+exposición a agentes biológicos contra los que existan vacunas eficaces, el empresario deberá ofrecerles la vacunación.
+2.  Deberá informarse a los trabajadores sobre las ventajas e inconvenientes tanto de la vacunación como de la no vacunación.
+3.  La vacunación no debe acarrear al trabajador gasto alguno.
+4.  Se elaborará un certificado de vacunación, que se expedirá al trabajador referido y, cuando así se solicite, a las autoridades 
+sanitarias.
+Protocolos de actuación en accidentes con riesgo biológico
+El riesgo de contagio después de un accidente con riesgo biológico por pinchazo o corte se evalúa en un 30% para el virus de la 
+hepatitis B (VHB), 3% para el virus de la hepatitis C (VHC) y 0,3% para el virus de inmunodeficiencia humana (VIH). En caso de 
+contacto con las mucosas, o con la piel herida el riesgo de contaminación es de 0,04% para el VIH, no habiéndose cuantificado para el 
+VHB y el VHC.
+Estas cifras, que reflejan una infectividad menor del VIH y del VHC con relación al VHB, han de interpretarse en función de otros 
+factores como:
+a.  La gravedad de la infección: 
+H     Pronóstico poco claro para el VIH.
+H     Para el VHC, un 60% a 70% de los casos se convierten en crónicos.
+H     Para el VHB, un 10% de los casos se convierten en crónicos, siendo responsable a su vez de formas fulminantes.
+b.  La existencia de vacuna: Sólo contra el VHB.
+c.  La existencia de profilaxis: 
+H     Inmunoglobulinas específicas para el VHB.
+H     Antiretrovirales para el VIH.
+H     En el momento actual, no existe profilaxis para el VHC.
+La formación e información, a la que se hace referencia como Educación Sanitaria, es la base fundamental para prevenir las 
+enfermedades infecciosas. Se trata de informar sobre los problemas que comporta la exposición a determinados microorganismos y las 
+secuelas de la infección que pueden originar. Con este propósito se recomiendan una serie de normas de higiene general para evitar el 
+riesgo de contaminación transmisión y, así mismo, informar del tipo de vacuna que se ha de utilizar.
+Hepatitis B
+La estimación global del riesgo de contaminación después de un accidente con sangre contaminada es del 30%, y varía del 5% al 40%, 
+(40% si la fuente es Ag HBe positivo). El antígeno e (Ag HBe) es un antígeno soluble que se halla presente en el suero de algunos 
+pacientes Ag HBs positivos (antígeno de superficie) y constituye un indicador de infecciosidad elevada.
+Las actuaciones que se deben llevar a cabo frente al riesgo de la hepatitis B son las siguientes:
+G     Valoración del estado inmunológico del accidentado, consultando los datos previos de vacunación si los hubiese y la petición de 
+un estudio serológico completo en el caso de que no se disponga de estos datos.
+G     A aquellas personas que se han expuesto accidentalmente, por vía percutánea o a través de mucosas, con sangre 
+contaminada de Ag HBs y, que desconozcan su estado inmunológico, que nunca han sido vacunadas o que no han completado 
+la pauta de vacunación, se les administrará en el plazo de 48 horas una inyección de 5 cc de inmunoglobulinas antihepatitis B.
+G     Si puede identificarse la fuente (procedencia de la contaminación) y previo consentimiento después de haber sido informado, se 
+le efectuará una extracción sanguínea para determinar el Anti HBcore total. Si éste es negativo, se aplicará al accidentado la 
+pauta vacunal. Si es positivo se le hará una serología completa.
+
+G     Según el resultado serológico, se incluirá al accidentado en su correspondiente pauta de vacunación o seguimiento, que 
+consiste en la administración de tres dosis de vacuna de 20 mg/dosis, la primera dentro de los siete días siguientes a la 
+exposición, la segunda un mes después y la tercera seis meses después de la primera. La primera dosis de la vacuna puede 
+ser administrada conjuntamente con la inmunoglobulina contra la hepatitis B. En estos casos, la administración no debe 
+realizarse en el mismo lugar de inyección. La inmunoglobulina se debe administrar en la región glútea y la vacuna en deltoides.
+G     Se considera que una persona está inmunizada cuando adquiere un título de Anti HBs superior a 10 Ul/L. Esta determinación 
+debe realizarse al cabo de un mes de la tercera dosis de vacuna. En caso de que el título de Anti HBs sea inferior a 10 Ul/L, 
+debe administrarse una cuarta dosis de vacuna. Para contratos temporales de trabajo y para puestos con riesgo de infección 
+por hepatitis B, se plantea como pauta de vacunación: al inicio, al mes y a los dos meses siguientes. En las personas que no 
+logren un título de Anti HBs superior a 10Ul/L, tras 4 dosis de vacuna, se les administrará una dosis de recuerdo cada 5 años.
+Hepatitis C
+La evolución de los conocimientos epidemiológicos y terapéuticos relativos a la hepatitis C requiere una adaptación constante de los 
+procedimientos de cuidados y de diagnóstico, en especial después de un accidente con sangre contaminada.
+Las actuaciones frente al riesgo de contraer la hepatitis C son las siguientes:
+G     Extracción sanguínea para la valoración del estado inmunológico del accidentado frente al virus de la hepatitis C.
+G     Identificar la fuente si es posible. Tras informar al accidentado y bajo su consentimiento, se realizará el estudio serológico de 
+VHC.
+G     Si la fuente es positiva o desconocida y el accidentado Anti VHC es negativo, se realizarán controles serológicos periódicos: 
+cuando se produjo el accidente, al cabo de mes y medio, a los tres, seis y doce meses siguientes.
+G     Si el accidentado es Anti VHC positivo, se procederá a seguimiento y educación sanitaria.
+Infección por VIH
+Entre los países industrializados, hasta el 31 de diciembre de 1995 se habían registrado 223 casos de infecciones por VIH, 
+presuntamente profesionales, de las cuales se comprobaron 79 seroconversiones entre el personal sanitario. La mayoría de las 
+seroconversiones se referenciaron entre el personal dedicado a la enfermería y a las extracciones de sangre y fueron producidas por 
+pinchazos.
+G     Cuando pueda identificarse la fuente, previo consentimiento y tras haber sido informado, se procederá a la extracción 
+sanguínea para determinación de anticuerpos VIH.
+G     Si la fuente es desconocida y el accidentado VIH negativo, se procede a realizar controles periódicos de serología: cuando se 
+produce el accidente, al cabo de mes y medio, tres, seis y doce meses siguientes.
+G     Si la fuente es positiva y el accidentado es VIH negativo, se le oferta la posibilidad de quimioprofilaxis con AZT (Retrovir), previa 
+aceptación escrita y con control por su Servicio Médico de Salud Laboral o Mutua y el Servicio Especializado de Enfermedades 
+Infecciosas. La dosis que se recomienda es de 250 mg. cada 8 horas durante 6 semanas, realizando controles hemáticos al 
+inicio, a la tercera y sexta semana. Estos controles hemáticos consistirán en la determinación de hemograma completo y VSG.
+G     Si el accidentado es VIH positivo, se procede al seguimiento por el Servicio Especializado de Enfermedades Infecciosas 
+correspondiente.
+G     Dados los avances existentes en el tratamiento de esta enfermedad, se recomienda atender las pautas que se estén utilizando 
+por parte de los centros más especializados.
+Tétanos
+En este caso, previamente, será prioritario realizar una limpieza rigurosa de la herida con agua y jabón y/o un antiséptico. A 
+continuación debe procederse de la siguiente manera:
+G     Valoración del estudio inmunológico del accidentado, precisando si está vacunado o cuánto tiempo ha transcurrido desde la 
+última dosis.
+G     Valoración de la contaminación de la herida: las heridas de bajo riesgo son las no penetrantes, sin cuerpos extraños, con poca 
+destrucción de tejidos y poco contaminadas; por contra, las heridas de alto riesgo son las que no cumplen estas condiciones.
+G     Inicio de pauta de vacunación (inmunización activa) y/o administración de 5 ml de Inmunoglobulina humana antitetánica 
+(inmunización pasiva) en el plazo de 48 horas en los casos en que proceda.
+G     Educación sanitaria de forma individualizada.
+Brucelosis
+Las actuaciones ante una brucelosis deben ser las siguientes:
+G     Valorar el riesgo de contraer la infección que conlleva el accidente. En este caso, sólo se actuará si la inoculación es de alto 
+riesgo, es decir, si se trata de material vacunal con gérmenes vivos (vacuna B-19 y Rev I) o bien de muestras contaminadas de 
+brucelas.
+G     Se inicia de forma inmediata el tratamiento con antibióticos.
+G     La asociación de 200 mg diarios de Doxiciclina por vía oral, más 1 g diario de Estreptomicina por Rifampicina. La duración y 
+tratamiento dependerá del grado de exposición y de los resultados de las pruebas serológicas.
+G     Educación sanitaria de forma individualizada e información acerca de los agentes causales, mecanismos de transmisión y 
+medidas preventivas.
+Bibliografía
+
+(1) ALONSO, R.M., MARTÍ SOLÉ, M.C. 
+La inmunización activa: una herramienta de prevención 
+NTP-384. INSHT, Barcelona, 1991.
+(2) FARRERAS, P., ROZMAN, C. 
+Medicina Interna. (Duodécima edición) 
+Editorial DOYMA, Barcelona, 1992
+(3) FORESTIEAUTER, A.F., ET AL. 
+Conduite à tenir en cas d’accident avec exposition au sang chez les professionnels de santé 
+DMT 69. INRS, París, 1997
+(4) MARTÍ SOLÉ, M.C., ET AL. 
+Riesgos biológicos en el laboratorio 
+INSHT, Madrid, 1997
+(5) REAL DECRETO 664/1997 de 125 (M. de la Presidencia, B.O.E. 2451997) 
+Sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el 
+trabajo
+ 
+   © INSHT
