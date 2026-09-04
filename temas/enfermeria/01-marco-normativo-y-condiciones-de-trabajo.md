@@ -252,12 +252,12 @@ asistencial.**
 
 **Los índices clásicos de siniestralidad, con lo que mide cada uno:**
 
-| Indicador | Qué mide |
+| Indicador | Qué relaciona |
 |---|---|
-| **Índice de INCIDENCIA** | **Cuántos accidentes hay por cada mil trabajadores expuestos** |
-| **Índice de FRECUENCIA** | **Cuántos accidentes hay por cada millón de horas trabajadas** |
-| **Índice de GRAVEDAD** | **Cuántas jornadas se pierden por cada mil horas trabajadas** |
-| **Duración MEDIA** | **Cuántas jornadas se pierden por accidente** |
+| **Índice de INCIDENCIA** | **Accidentes con trabajadores** |
+| **Índice de FRECUENCIA** | **Accidentes con horas trabajadas** |
+| **Índice de GRAVEDAD** | **Jornadas perdidas con horas trabajadas** |
+| **Duración MEDIA** | **Jornadas perdidas con accidentes** |
 
 **La distinción que hay que saber explicar, porque es la que se pregunta**: **la incidencia se refiere a
 PERSONAS y la frecuencia a HORAS.** **Dos empresas con la misma incidencia pueden tener frecuencias muy
@@ -265,10 +265,11 @@ distintas si en una se trabajan más horas por persona**, y **por eso la frecuen
 permite comparar entre sectores y la incidencia el que se entiende mejor.**
 
 **Y la advertencia de método sobre las fórmulas**: **este tema NO da las constantes de multiplicación de
-cada índice como cifra propia.** **Dice qué relaciona cada uno —accidentes con trabajadores,
-accidentes con horas, jornadas perdidas con horas— y la escala en que se expresa habitualmente.**
-**Las expresiones exactas están en la documentación técnica del Instituto Nacional de Seguridad y Salud
-en el Trabajo**, que **este proyecto cita cuando la ha consultado y no cuando no.**
+cada índice ni la escala en que se expresa.** **Dice qué relaciona cada uno y para qué sirve, que es lo
+que aquí hace falta.** **Las fórmulas oficiales de los dos primeros —incidencia y frecuencia— se citan
+en el tema 12, de la ficha técnica del indicador correspondiente del Sistema Nacional de Salud**, y
+**allí se ve que no todas las fuentes usan la misma escala para el mismo índice.** **Las del índice de
+gravedad y la duración media este proyecto no las ha consultado**, y **por eso no se dan.**
 
 **Los otros indicadores que el enunciado abarca al decir «de salud laboral» y no sólo «de
 siniestralidad»:**

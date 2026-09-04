@@ -1,0 +1,320 @@
+ 
+ 
+ 
+INDICADORES DE SALUD 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notas metodológicas y fuentes de información  
+ 
+Indicadores de Salud es una operación estadística cuyo objetivo es proporcionar 
+la información que permita evaluar la magnitud y la tendencia de diversos 
+fenómenos de salud en España y sus comunidades autónomas. Se trata de una 
+publicación de periodicidad trienal. Los indicadores que se refieren  a la 
+frecuencia de un determinado fenómeno por 1.000 o por 100.000 habitantes, el 
+denominador para las estimaciones en mujeres es la población de mujeres y el 
+denominador para las estimaciones en hombres es la población de hombres del 
+ámbito concreto a que se refiera cada indicador: grupo de edad, conjunto del 
+Estado, comunidad autónoma, etc.  
+Por otro lado, en algunos indicadores se ofrecen estimaciones ajustadas por 
+edad. En algunos casos se hace explícito en título y/o en la tabla que se trata de 
+un porcentaje o una tasa ajustada por edad, mientras que en otros, en los que 
+se menciona únicamente que se trata de una tasa ajustada o de un porcentaje 
+ajustado, también deberá entenderse que se trata de un ajuste por edad. 
+Esperanza de vida   
+Las estimaciones sobre esperanza de vida proceden de las tablas de mortalidad 
+estimadas por el Instituto Nacional de Estadística (INE), excepto para el año 
+2007 que proceden de las tablas de mortalidad estimadas en el Instituto de 
+Información Sanitaria (IIS).  
+La esperanza de vida libre de incapacidad se ha calculado con la información 
+proporcionada por las tablas de mortalidad de los años 2000 y 2007 y la 
+prevalencia 
+de 
+incapacidad 
+estimada 
+a 
+partir 
+de 
+la 
+Encuesta 
+sobre 
+ 
+1 
+ 
+
+Discapacidades y Estado de Salud de 1999 y de la Encuesta sobre 
+Discapacidades, Autonomía personal y situaciones de Dependencia de 2008.  
+Las estimaciones sobre esperanza de vida en buena salud han calculado con la 
+información proporcionada por diferentes tablas de mortalidad y la proporción de 
+población que valora negativamente su estado de salud, estimada a partir de 
+diferentes Encuestas Nacionales de Salud.   
+Mortalidad por causa de muerte  
+La información para la estimación del número de defunciones procede del Fichero 
+de Defunciones proporcionado por el INE. A su vez este fichero es elaborado a 
+partir de la información recogida en el Boletín Estadístico de Defunción - para las 
+personas que viven más de 24 horas- y en el Boletín Estadístico de Parto - para 
+las defunciones ocurridas antes de las 24 primeras horas de vida-. Ambos 
+boletines se cumplimentan en el momento de inscripción de estos hechos en el 
+Registro Civil.  
+En este fichero aparece la causa de la muerte codificada de acuerdo a la 
+Clasificación Internacional de Enfermedades. Desde 1981 hasta el año 1998 se 
+utilizó la 9ª revisión de la Clasificación Internacional de Enfermedades para 
+codificar la causa de muerte  y a partir de 1999 se utilizó la 10ª revisión.  
+Los códigos utilizados para cada una de las causas de muerte analizadas se 
+presentan a  continuación:  
+Enfermedades del aparato circulatorio  
+CIE-9: 390-459  
+CIE-10: I00-I99   
+Enfermedad cerebrovascular  
+CIE-9: 430-438  
+CIE-10: I60-I69 
+Enfermedad isquémica del corazón  
+CIE-9: 410-414  
+CIE-10: I20-I25 
+Tumores malignos   
+CIE-9: 140-208  
+CIE-10: C00-C97 
+ 
+2 
+ 
+
+Cáncer de pulmón  
+CIE-9: 162  
+CIE-10: C33-C34 
+Cáncer de mama  
+CIE-9: 174  
+CIE-10:C50 
+Tumor maligno de colon 
+CIE-9: 153 
+CIE-10: C18 
+Tumor maligno de estómago 
+CIE-9: 151 
+CIE-10: C16 
+Tumor maligno de próstata  
+CIE-9: 185  
+CIE-10: C61 
+Cáncer de cuello de útero  
+CIE-9: 180  
+CIE-10: C53 
+Enfermedad pulmonar obstructiva crónica  
+CIE-9: 490-496  
+CIE-10: J40-J47 
+Enfermedad crónica del hígado  
+CIE-9: 571  
+CIE-10: K70+K73-K74 
+Diabetes mellitas 
+CIE-9: 250  
+CIE-10: E10-E14 
+Nefritis, síndrome nefrótico y nefrosis  
+CIE-9: 580-589  
+CIE-10: N00-N07, N17-N19, N25-N27 
+Enfermedad de Alzheimer 
+CIE-9: 331.0  
+CIE-10: G30 
+Accidentes y causas externas 
+CIE-9:E800-E999 
+CIE-10:V00-V99+W00-W99+X00-X99+Y00-Y99   
+Accidentes de tráfico 
+CIE-9: E810-E819 
+CIE-10: V02-V04+V09.0+V09.2+V12-V14+V19.0-V19.2+V19.4-V19.6+V20-
+V79+V80.3-V80.5+V81.0-V81.1+V82.0-V82.1+V83-V86+V87.0-V87.8+V88.8-
+V88.9+V89.0-V89.2 
+ 
+3 
+ 
+
+Suicidio  
+CIE-9: E950-E959  
+CIE-10: X60-X84+Y87.0 
+Homicidio  
+CIE-9: E960-E969  
+CIE-10: X85-X99+Y00-Y09+Y87.1 
+Neumonía e influenza  
+CIE-9: 480-487  
+CIE-10: J10-J18 
+Septicemia  
+CIE-9: O38 
+CIE-10: A40-A41  
+Sida  
+CIE-9: 279.5-279.6  
+CIE-10: B20-B24  
+Relacionadas con el consumo de tabaco  
+CIE-9: 140-149+150+161+162+410-414+430-438+490-496 
+CIE-10: C00-C14+C32-C34+C15+I20-I25+I60-I69+J40-J47 
+Relacionadas con el consumo de alcohol  
+CIE-9: 150+161+303+571+E800-E999 
+CIE-10: C15+C32+F10+K70+K73-K74+K76+V00-V99+W00-W99+X00-99+Y00-
+Y99   
+Hernia abdominal  
+CIE-9: 550-553+560  
+CIE-10: K40-K46+K56   
+Apendicitis  
+CIE-9: 540-543  
+CIE-10: K35-K38   
+Efectos adversos de medicamentos  
+CIE-9: E930-E949  
+CIE-10: Y40-Y59   
+Las poblaciones utilizadas para el cálculo de las tasas de mortalidad provienen de 
+las Proyecciones de Población de España para el periodo 1980-2010 a partir del 
+Censo de 1981 (años  1981 a 1990), de las Proyecciones de Población de España 
+calculadas a partir del Censo de Población de 1991 (años 1991 a 2001) y de las 
+Estimaciones de la Población Actual (años 2002 a 2007), todas ellas elaboradas 
+por el INE.   
+ 
+4 
+ 
+
+Además de las tasas brutas se han calculado las tasas ajustadas por edad 
+tomando como población de ajuste la Población Estándar Europea (Waterhouse 
+JAH, Muir CS, Correa P, Powell J eds. Cancer incidente in five continents. Lyon: 
+IARC, 1976; 3: 456.).   
+Altas hospitalarias  
+La información para la estimación del número de altas hospitalarias procede del 
+Fichero de la Encuesta de Morbilidad Hospitalaria proporcionado por el INE. Las 
+poblaciones utilizadas para el cálculo de las tasas de morbilidad son las mismas 
+que las utilizadas en la mortalidad.   
+Enfermedades de declaración obligatoria  
+La información sobre tasas de casos declarados de enfermedades infecciosas 
+procede de la Red Nacional de Vigilancia Epidemiológica y ha sido proporcionada 
+por el Centro Nacional de Epidemiología del Instituto de Salud Carlos III.  De 
+algunas enfermedades sólo se dispone de información desde 1997 porque fue a 
+partir de ese año cuando fueron incluidas la Red Nacional de Vigilancia 
+Epidemiológica.   
+Incidencia de cáncer  
+La información sobre las tasas de incidencia de cáncer en diferentes registros 
+españoles se ha obtenido a partir de la publicación: Curado MP, Edwards B, Shin 
+HR, Store H, Ferlay J, Heanue M, Boyle P, (eds). Cancer Incidence in Five 
+Continents (Volume IX). IARC Scientific Publications nº 160. Lyon 2007, donde 
+se compila la información que elaboran los registros de una gran cantidad de 
+países.   
+Víctimas de accidentes de tráfico   
+La información sobre las víctimas de accidente de tráfico proviene del Boletín 
+sobre accidentes de tráfico que anualmente elabora y publica la Dirección 
+General de Trafico del Ministerio del Interior. En concreto, los accidentes objeto 
+ 
+5 
+ 
+
+de esta estadística son los que reúnen las condiciones siguientes: a) que se 
+produzcan o tengan origen en una vía abierta a la circulación pública, b) que, a 
+consecuencia de ellos, una o varias personas resulten muertas o heridas, y c) 
+que al menos esté implicado un vehículo en movimiento. Las poblaciones 
+utilizadas para el cálculo de las tasas son las mismas que las mencionas en el 
+apartado de mortalidad. 
+Víctimas de accidentes de trabajo  
+La información víctimas de accidente de trabajo proviene de la Estadística de 
+Accidentes de Trabajo elaborada y publicada anualmente por el Ministerio de 
+Trabajo y Asuntos Sociales. Los datos para la elaboración de esta estadística 
+proceden de la explotación directa del parte de accidente de trabajo, de la 
+relación de accidentes de trabajo ocurridos sin baja médica y de la relación de 
+altas o fallecimientos de accidentados. Las estimaciones acerca del índice de 
+frecuencia son las que figuran en Estadística de Accidentes de Trabajo. En Ceuta 
+y en Melilla no se pudo estimar esos indicadores de frecuencia por ausencia de 
+información sobre el denominador utilizado para su cálculo.   
+Incapacidad y salud percibida  
+La información para las estimaciones de incapacidad permanente procede del 
+fichero de Encuesta sobre Discapacidades y Estado de Salud de 1999 y de la 
+información obtenida de la Encuesta sobre Discapacidades, Autonomía personal y 
+situaciones de Dependencia de 2008, llevadas a cabo ambas por el INE. Además 
+de esta información sobre incapacidad permanente que afecta a toda la 
+población, se ha elaborado un indicador referente a los trabajadores menores de 
+65 años afiliados a la Seguridad Social. Para ello se ha obtenido de las 
+publicaciones del Ministerio de Trabajo y Asuntos Sociales la cifra de pensiones 
+por incapacidad permanente y el número de trabajadores afiliados al sistema.  
+La información para las estimaciones de salud percibida y la restricción temporal 
+de actividad procede de los ficheros de las encuestas nacionales de salud 
+llevadas a cabo por el Ministerio de Sanidad. Se han elaborado indicadores de la 
+autovaloración de la salud y la restricción temporal  de la actividad principal para 
+ 
+6 
+ 
+
+la población de 16 y más años. En el caso de la restricción de actividad principal 
+se han excluido los individuos mayores de 64 años y aquellos cuya situación 
+laboral era la de jubilado o parado.   
+Mortalidad infantil  
+La información para la estimación del número de defunciones durante en el 
+primer año de vida procede del Fichero de Defunciones proporcionado por el INE.  
+Las defunciones durante el primer año de vida se han dividido en defunciones 
+neonatales 
+y 
+defunciones 
+postneonatales. 
+Las 
+defunciones 
+neonatales 
+comprenden las defunciones de los niños menores de 28 días de vida, mientras 
+que las defunciones postneonatales comprenden las defunciones de los niños con 
+28 ó más días de vida.   
+Las defunciones perinatales corresponden a las defunciones durante la primera 
+semana de vida junto a las muertes fetales tardías. La muerte fetal tardía es el 
+fallecimiento antes de la completa extracción o expulsión del cuerpo de la madre, 
+de un producto de la concepción no viable con seis o más meses de gestación. La 
+información para la estimación del número de muertes fetales tardías procede 
+del Fichero de Muertes Fetales Tardías proporcionado por el INE. Este fichero es 
+elaborado a partir de la información sobre de muertes fetales tardías recogida en 
+el Boletín Estadístico de Parto.  
+Para el cálculo de las tasas de mortalidad infantil, neonatal, postneonatal y 
+perinatal se han utilizado los nacimientos estimados a partir del Fichero de 
+Nacimientos proporcionado por el INE.   
+Nacimientos según la edad de la madre y según el peso al nacer  
+La información para la estimación del número de nacimientos procede del Fichero 
+de Nacimientos proporcionado por el INE. A su vez este fichero es elaborado a 
+partir de la información recogida en el Boletín Estadístico de Parto, que es 
+cumplimentado en el momento de inscripción del hecho en el Registro Civil. En 
+ese boletín aparecen diversas características, como la edad de la madre y el peso 
+del recién nacido. Se ha estimado el porcentaje de nacimientos que presentan 
+una determinada característica sobre el total de nacimientos.    
+ 
+7 
+ 
+
+ Lactancia materna  
+La información para las estimaciones de lactancia materna procede de los 
+ficheros de la Encuesta Nacional de Salud de 2006/07 llevada a cabo por el 
+Ministerio de Sanidad.    
+Interrupciones voluntarias del embarazo  
+La información sobre los indicadores correspondientes a las interrupciones 
+voluntarias del Embarazo procede de las estadísticas sobre Interrupciones 
+Voluntarias del Embarazo proporcionadas por la Dirección General de Salud 
+Pública del Ministerio de Sanidad.  Este estadística es elaborada  a partir de la 
+información que proporcionan los centros sanitarios acerca de las características 
+sociodemográficas y sanitarias de cada una de las mujeres que se han sometido 
+a dicha intervención.   
+Vacunación infantil  
+La información sobre los indicadores correspondientes a la cobertura vacunal  
+procede de las estadísticas sobre Cobertura Vacunal proporcionadas por la 
+Dirección General de Salud Pública del Ministerio de Sanidad.  Este estadística es 
+elaborada  a partir de la información que proporcionan las diferentes 
+comunidades autónomas.    
+Hábitos y estilos de vida   
+La información para las estimaciones sobre porcentaje de consumo de tabaco, 
+consumo de alcohol, obesidad y sedentarismo procede de los ficheros de las 
+encuestas de salud llevadas a cabo por el Ministerio de Sanidad. Se han obtenido 
+porcentajes brutos y porcentajes ajustados por edad, tomando como referencia 
+la distribución etaria que proporcionaba la primera Encuesta Nacional de Salud, 
+realizada en 1987.  
+El consumo per capita de tabaco, alcohol, calorías y cereales, frutas y verduras 
+se ha obtenido de la base de datos de la OMS. La mayoría de las estimaciones 
+termina en 2003 porque esta institución no ofrece datos más actuales. No 
+ 
+8 
+ 
+
+ 
+9 
+ 
+obstante, en el caso del tabaco, se ha utilizado la información sobre la venta de 
+cigarrillos, proporcionada por el Comisionado para el Mercado de Tabacos del 
+Ministerio de Economía y Hacienda, para completar la serie hasta 2008.  
+Las estimaciones sobre consumo de substancias psicoactivas se han obtenido de 
+las estimaciones sobre el uso de drogas proporcionados por el Observatorio 
+Español sobre Drogas, dependiente del Plan Nacional sobre Drogas. Este 
+observatorio obtiene información sobre este fenómeno a partir del Sistema 
+estatal de información permanente sobre adicciones a drogas, de encuestas de 
+base poblacional dirigidas a la población de 15 a 64 años y de encuestas dirigidas 
+a la población en edad escolar.    
