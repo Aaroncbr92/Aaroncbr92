@@ -5,10 +5,10 @@ humanos de la Corporación.
 
 | Fichero | Ocupación tipo | Puntos del temario |
 |---|---|---:|
-| `BasesBBDD_Enfermeria-Empresa` | Enfermería de Empresa | 12 |
+| `BasesBBDD_Enfermeria-Empresa` | Enfermería de Empresa | **25** |
 | `BasesBBDD_Tecnico-InstalacionesSistemasElectricos` | Técnica de Equipos, Instalaciones y Sistemas Eléctricos | 17 |
-| `BasesBBDD_Tecnica-Informatica` | Técnica Informática | 15 |
-| `BasesBBDD_Tecnico-Electronico` | Técnica de Equipos y Sistemas Electrónico | — |
+| `BasesBBDD_Tecnica-Informatica` | Técnica Informática | **18** |
+| `BasesBBDD_Tecnico-Electronico` | Técnica de Equipos y Sistemas Electrónico | **14** |
 
 **Qué son y qué no son.** Son las bases de la convocatoria de **banco de datos**, que es la de
 contratación temporal, **no la de puestos fijos**. Su temario va en el **Anexo 1** de cada PDF, y **no

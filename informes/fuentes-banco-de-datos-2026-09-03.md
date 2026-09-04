@@ -15,10 +15,10 @@ de ellas son ocupaciones que este proyecto no tenía**:
 
 | Ocupación tipo | Puntos del temario | ¿La teníamos? |
 |---|---:|---|
-| **Enfermería de Empresa** | 12 | **No.** Es una de las diecisiete sin cubrir de la 1/2025 |
+| **Enfermería de Empresa** | **25** | **No.** Es una de las diecisiete sin cubrir de la 1/2025 |
 | **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** | 17 | **No.** Otra de las diecisiete |
-| **Técnica Informática** | 15 | Sí, escrita contra el anexo de la 1/2022 |
-| **Técnica de Equipos y Sistemas Electrónico** | — | Sí, escrita contra el anexo de la 1/2022 |
+| **Técnica Informática** | **18** | Sí, escrita contra el anexo de la 1/2022 |
+| **Técnica de Equipos y Sistemas Electrónico** | **14** | Sí, escrita contra el anexo de la 1/2022 |
 
 **Los cuatro documentos quedan guardados enteros**, con su texto extraído, en el catálogo de la
 convocatoria de banco de datos de este proyecto.
@@ -30,7 +30,7 @@ convocatoria de banco de datos de este proyecto.
 | Ocupación | El temario del banco de datos frente al Anexo 2 de la 1/2022 |
 |---|---|
 | **TEITSE** | **Coinciden punto por punto**: los mismos 17 epígrafes, con el mismo enunciado. **Es una corroboración independiente** de la transcripción del catálogo, y además **da el texto completo de cada punto**, que en el catálogo estaba recortado |
-| **Técnica Informática** | **No se parecen en nada.** El anexo de la 1/2022 tiene **27 puntos** ordenados por materias de desarrollo, redes y sistemas; el del banco de datos tiene **15**, con otra estructura, otro reparto y epígrafes que allí no existen —soporte y atención a usuarios, servicios en la nube, entornos de desarrollo— |
+| **Técnica Informática** | **No se parecen en nada.** El anexo de la 1/2022 tiene **27 puntos** ordenados por materias de desarrollo, redes y sistemas; el del banco de datos tiene **18**, con otra estructura, otro reparto y epígrafes que allí no existen —soporte y atención a usuarios, servicios en la nube, entornos de desarrollo— |
 
 **Lo que eso demuestra, y hay que decirlo por escrito**: **RTVE publica programas distintos para la
 misma ocupación tipo en convocatorias distintas.** No es una hipótesis: son dos documentos oficiales

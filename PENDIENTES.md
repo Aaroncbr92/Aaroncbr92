@@ -95,6 +95,44 @@ Cada entrada, cinco campos:
 
 ---
 
+## Tres cuentas de puntos de temario mal en un informe publicado — abierto y cerrado el 2026-09-04
+
+- **Qué pasó**: al empezar el volumen de Enfermería de Empresa hubo que leer su programa, que está en
+  el Anexo 1 de las bases del banco de datos. **El informe `fuentes-banco-de-datos-2026-09-03.md` y el
+  `README.md` del catálogo decían que ese temario tiene 12 puntos.** **Tiene 25.**
+
+- **Cómo se detectó**: contando los puntos numerados del propio anexo antes de escribir nada, que es lo
+  que el método manda hacer con cualquier programa. **La cuenta no salió y hubo que mirar las otras
+  tres del mismo informe.**
+
+- **El alcance real, comprobado una a una:**
+
+  | Ocupación | Decía el informe | Tiene | ¿Correcto? |
+  |---|---:|---:|---|
+  | **Enfermería de Empresa** | 12 | **25** | **No** |
+  | **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** | 17 | **17** | Sí |
+  | **Técnica Informática** | 15 | **18** | **No** |
+  | **Técnica de Equipos y Sistemas Electrónico** | — | **14** | **Faltaba** |
+
+- **Por qué importa más de lo que parece**: **una de las dos cifras mal sostenía un argumento.** El
+  informe usa el contraste entre los 27 puntos del Anexo 2 de la 1/2022 de Técnica Informática y los
+  del banco de datos para demostrar que **RTVE publica programas distintos para la misma ocupación en
+  convocatorias distintas.** **El argumento sigue en pie —27 frente a 18 es la misma prueba que 27
+  frente a 15—**, pero **estaba apoyado en una cifra que su propia fuente desmiente**, y eso es
+  exactamente lo que este método existe para no hacer.
+
+- **Qué se ha hecho**: **las cuatro cuentas corregidas en el informe y en el `README.md` del
+  catálogo**, y la frase del argumento reescrita con la cifra buena.
+
+- **La lección de método, que es lo que queda**: **ninguna lente cuenta.** Las cinco comprueban
+  literalidad, modo, prosa y cifras en negrita **contra una fuente**, y **una cuenta de puntos de un
+  anexo no es una cita: es un recuento**, y **un recuento mal no lo detecta nada salvo volver a
+  contar.** **Regla que queda**: **cuando un informe da el número de puntos de un temario, ese número
+  se recuenta al abrir el volumen que lo desarrolla**, y no se hereda.
+
+- **Estado**: **cerrado el mismo día.** Las cuatro cifras están comprobadas contra el texto de sus
+  cuatro anexos.
+
 ## Cerrados
 
 ### 2026-09-03 · La lente de prosa nunca se había pasado a los esquemas — cerrado el mismo día
