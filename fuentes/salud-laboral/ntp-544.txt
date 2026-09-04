@@ -1,0 +1,365 @@
+ 
+NTP 544: Estimación de la carga mental de trabajo: el método NASA TLX
+Mental workload assessment: the NASA TLX method 
+Estimation de la charge de travail mental: la méthode NASA-TLX
+Redactoras:
+Isabel de Arquer 
+Lda. Psicología
+Clotilde Nogareda 
+Lda. Psicología
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Los conceptos de carga y fatiga mental son complejos y amplios. Por ello se han redactado una serie de Notas Técnicas de Prevención en la que se 
+van tratando desde distintos puntos de vista. La definición de estos conceptos puede encontrarse en las Notas Técnicas 179; 445 y 534. Actualmente 
+nuestro objetivo es facilitar información acerca de cómo poder llevar a cabo en situaciones de trabajo una estimación de la carga mental. En esta Nota 
+Técnica se expone el método NASA TLX como una herramienta de ayuda para el diagnóstico de los factores de carga en los puestos de trabajo.
+Carga y fatiga mental de trabajo
+Los sistemas complejos modernos exigen elevadas demandas de la persona: a menudo se introducen nuevas tecnologías para aliviar unas exigencias 
+muy elevadas o para dar respuesta a una elevada demanda de producción. Sin embargo un exceso de automatización puede comportar la exclusión 
+del ser humano del conjunto operativo y a pesar de ello, no reducir la carga de trabajo, sino que puede dar lugar a niveles de exigencia que van más 
+allá de las capacidades humanas, en concreto, de las capacidades cognitivas y de toma de decisiones.
+Así pues nos encontramos en una situación en la que el desempeño del trabajo exige un estado de atención (capacidad de «estar alerta») y de 
+concentración (capacidad de estar pendiente de una actividad o un conjunto de ellas durante un periodo de tiempo) y, cuando se realiza 
+conscientemente y con cierta continuidad, da lugar a la carga mental. La propia tarea puede exigir una atención y concentración elevadas en función de 
+la cantidad de señales que deben atenderse; las inferencias que deben realizarse; el nivel de precisión de la respuesta, etc. A estos factores de la tarea 
+hay que añadir los aspectos organizativos, especialmente los que se refieren a la organización del tiempo de trabajo (ritmos, pausas). Bajo este punto 
+de vista podemos definir la carga mental como la cantidad de esfuerzo deliberado que debemos realizar para conseguir un resultado concreto.
+Algunos autores la definen como «el nivel de control deliberado y consciente de las informaciones, necesario para que se produzca un 
+comportamiento» o como «la porción de la capacidad limitada del operador, requerida para realizar una tarea determinada.» En esta definición están 
+implícitos dos conceptos básicos que deben tenerse en cuenta en el diseño de las tareas: a) el ser humano tiene una serie de capacidades y es bueno 
+que el trabajo permita su desarrollo; pero todas esas capacidades tienen sus limitaciones b) para el desempeño del trabajo habitual no siempre se 
+requiere que la persona emplee sus capacidades al máximo, sino que suele quedar una capacidad residual.
+Es decir que las consecuencias de la carga mental sobre las personas son muy variables, y no siempre negativas. Sus efectos dependen 
+principalmente de la intensidad y duración del esfuerzo que debe realizarse.
+Si el nivel de esfuerzo requerido está equilibrado con las capacidades personales, puede hablarse de una franja de activación óptima, que asegura la 
+eficiencia funcional. Pero cuando el trabajo exige el mantenimiento constante de un determinado grado de esfuerzo aparece la fatiga. Esta fatiga 
+podemos considerarla normal cuando el descanso (sueño, pausas, etc.) permite una adecuada recuperación. Los síntomas de esta fatiga, que se 
+siente durante el trabajo o enseguida después de haberlo finalizado, son: sensación de cansancio, somnolencia, alteraciones en la capacidad de 
+atención, precisión de movimientos, y se traduce en variaciones del rendimiento, de la actividad, de los errores, etc.
+La norma ISO 10 075 «Principios ergonómicos relacionados con la carga de trabajo mental» define el término fatiga como la alteración temporal de la 
+eficiencia funcional de la persona. Esta alteración es función de la actividad previa (esfuerzo mental realizado: atención, concentración, memoria, etc.) y 
+de su estructura temporal. Además de la fatiga, esta norma contempla otros posibles efectos de la carga mental sobre la persona: la monotonía, 
+definida como reducción de la activación que puede aparecer en tareas largas, uniformes y repetitivas; la hipovigilancia caracterizada por la reducción 
+de la capacidad de detección y que se da en tareas de control; y la saturación mental, es decir el rechazo a una situación repetitiva en la que se tiene la 
+sensación de no ir a ninguna parte.
+La sintomatología que puede darse como consecuencia de estos estados es muy variable pero sus consecuencias pueden traducirse en aumento de 
+errores y de accidentes, así como en absentismo de corta duración.
+Valoración de la carga y la fatiga mental
+Sería interesante disponer de algún método estandarizado para el diagnóstico de la carga, pero hasta el momento parece poco probable que pueda 
+llegarse a conseguir. Para poder realizar una valoración lo más exacta posible, se deben contemplar distintos tipos de indicadores, puesto que la carga 
+mental no puede estimarse a partir de una medida única.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 0...
+
+En definitiva, ante la cuestión de cómo evaluar la carga y la fatiga mental en una situación laboral, cabría responder que son de interés todos aquellos 
+aspectos que pongan de relieve la existencia de unas condiciones de trabajo inapropiadas que puedan contribuir a la aparición de la fatiga.
+Por ello, para la evaluación de situaciones de trabajo, generalmente se incluyen tanto variables referentes a un estado de fatiga como a los factores de 
+carga relativos al puesto (de la tarea y sus condiciones de realización).
+Indicadores de fatiga mental
+Los indicadores de carga mental que utilizan los distintos métodos de evaluación se han determinado experimentalmente a partir de las reacciones del 
+individuo frente a un exceso de carga; es decir, tomando como base las alteraciones fisiológicas, psicológicas y del comportamiento resultantes de la 
+fatiga.
+Para la estimación de la fatiga mental suelen utilizarse indicadores fisiológicos (presión sanguínea; electroencefalograma, frecuencia cardiaca); de 
+conducta (referidos a la tarea primaria como por ejemplo tiempo de reacción, errores, olvidos, modificaciones del proceso operatorio, etc. a la tarea 
+secundaria o a conductas asociadas a la fatiga) y psicológicos (memoria, atención, coordinación visomotora, etc.)
+Para un análisis completo sin embargo, es necesario tener en cuenta la impresión subjetiva de fatiga, a partir de escalas o cuestionarios específicos, 
+que deberán referirse a un periodo de tiempo suficientemente amplio de manera que se abarquen los posibles picos o valles de trabajo, evitando que 
+las respuestas sean función de una situación personal transitoria.
+Esta información debería conjugarse con los datos de salud disponibles, a fin de descartar la existencia de posibles patologías en las que la fatiga sea 
+uno de los síntomas. Tras este descarte se podrán establecer las correlaciones existentes entre unas determinadas exigencias del trabajo y la fatiga.
+Los factores de carga mental relativos al puesto
+La evaluación de los factores de carga significa el análisis de las características de la tarea y de sus condiciones de realización. El objetivo es 
+identificar los principales componentes de esta carga para lo que será preciso partir de un análisis de las tareas que permita definir las exigencias de 
+realización (tipo de información; grado de precisión, tanto perceptiva como de respuesta; complejidad de las decisiones, conocimientos y habilidades 
+requeridos, etc.)
+Existen diversos métodos objetivos para la evaluación global de las condiciones de trabajo que incluyen, normalmente, un apartado dedicado a la carga 
+mental. Su objetivo es valorar aquellos factores presentes en el puesto de trabajo que pueden influir sobre la salud de los trabajadores, de manera que 
+pueda determinarse sobre cuál de ellos debe actuarse para mejorar una situación de trabajo
+Estos métodos, para la valoración de la carga mental, se centran principalmente en si el trabajo exige un nivel de atención elevado y si esta atención 
+debe mantenerse a lo largo de la jornada laboral. Además tienen en cuenta otros factores, que aunque directamente no sean causa de carga mental, 
+pueden influir sobre la misma, por ejemplo, el ritmo de trabajo, que a menudo impone cadencias demasiado rápidas, o la correcta distribución de las 
+pausas.
+También suelen tenerse en cuenta las repercusiones que los errores pueden tener sobre las personas o sobre la producción (accidentes, rechazos, 
+averías, etc.) ya que representan un factor de presión que se añade a los que ya pueden existir.
+Las consecuencias de las exigencias mentales sobre las personas dependen de sus recursos personales para dar respuesta a estas exigencias. Las 
+capacidades de memoria, razonamiento, percepción, etc. así como la experiencia y la formación son recursos que varían de una persona a otra y que 
+también van cambiando en una misma persona en distintos momentos de su vida. Por ello, la información obtenida en la evaluación de los factores de 
+carga mental debe contrastarse con las exigencias percibidas, basadas en la impresión subjetiva de variables como la dificultad de la tarea; el esfuerzo 
+requerido; presión temporal o los problemas para la realización de la tarea, entre otras.
+Métodos subjetivos
+Es habitual que las personas emitan juicios de valor sobre la dificultad que entraña la realización de alguna tarea, aunque estas impresiones no suelen 
+cuantificarse o no llegan a verbalizarse.
+Los métodos subjetivos requieren que los propios interesados califiquen el nivel de esfuerzo necesario para la realización de una tarea y reflejan, por 
+tanto, la opinión directa acerca del esfuerzo mental exigido en el contexto del entorno del puesto y de la experiencia y las capacidades del operador. En 
+comparación con otros métodos la evaluación subjetiva supone, pues, la única fuente de información del impacto de las tareas sobre las personas.
+Son de amplia aplicación para la evaluación de la carga de trabajo debido a su facilidad de uso, su validez (contrastada por correlación con criterios de 
+conducta) y su aceptación por parte de los interesados. Además ofrecen la ventaja frente a los métodos de valoración psicofisiológica de no ser 
+intrusivos ya que suelen aplicarse una vez se ha realizado la tarea. Por estos motivos son los más utilizados para la medición de la carga en 
+situaciones reales de trabajo, mientras que las medidas de tipo psicológico o fisiológico son aplicadas en situación de laboratorio.
+Generalmente se basan en escalas en las que se presentan una serie de frases y se pide a los trabajadores que describan o que califiquen 
+numéricamente su grado de esfuerzo.
+Uno de los métodos más citados en la bibliografía especializada (Hancock,P.A. y Meshkati; Salvendy G., Wierwille,W.W.), así como en el borrador de la 
+tercera parte de la norma ISO 10075 sobre evaluación de la carga mental, es el «NASA Task Load Index» (TLX). Este método permite la valoración de 
+la tarea desde una perspectiva multidimensional por lo que se ha demostrado útil por su capacidad de diagnóstico en cuanto a las posibles fuentes de 
+carga.
+El método NASA TLX 
+El NASA TLX es un procedimiento de valoración multidimensional que da una puntuación global de carga de trabajo, basada en una media ponderada 
+de las puntuaciones en seis subescalas, cuyo contenido es el resultado de la investigación dirigida a aislar de forma empírica y a definir los factores 
+que son de relevancia en la experiencia subjetiva de carga de trabajo.
+La hipótesis de partida es que el concepto de carga de trabajo no puede definirse sólo en términos de exigencias de la tarea sino que es el producto de 
+
+una combinación de factores entre los que cobra especial importancia la apreciación subjetiva de carga. Uno de los problemas que puede aparecer es 
+que las personas pueden tener distintos conceptos de carga: unas pueden achacarla al ritmo, otras a la cantidad o a la complejidad, etc. El método de 
+la NASA, partiendo de estos criterios, establece en primer lugar la necesidad de definir las fuentes de carga y en segundo lugar establece la valoración 
+de los mismos. El objetivo que se perseguía en su diseño era conseguir una escala sensible a las variaciones dentro y entre tareas, con capacidad de 
+diagnóstico sobre las fuentes de carga y relativamente insensible a las variaciones interpersonales.
+Marco teórico
+Se parte del supuesto que la carga de trabajo es un concepto hipotético que representa el coste que supone para el componente humano el conseguir 
+un determinado nivel de rendimiento. La definición de carga se centra más en el ser humano que en la tarea. La experiencia subjetiva de carga resume 
+las influencias de diversos factores además de las demandas objetivas impuestas por la tarea. Así pues la carga no es una característica inherente a la 
+tarea sino que es el resultado de la interacción entre los requerimientos de la tarea; las circunstancias bajo la que se desarrolla y las capacidades, 
+conductas y percepciones del trabajador (fig. 1). Sin embargo, a pesar de la diversidad de opiniones sobre el concepto y la naturaleza de la carga, es 
+una entidad valorable.
+Figura 1 
+NASA TLX. Marco teórico.
+Las exigencias de la tarea (objetivos, duración, estructura, recursos) conforman la carga de trabajo impuesta. Ésta puede verse modificada, en mayor o 
+menor medida, por una serie de variables incidentales, por ejemplo cambios el entorno; fallos del sistema; errores...
+Por su parte la respuesta del operador está sujeta no sólo a estas exigencias impuestas sino también a las propias percepciones y expectativas sobre 
+su conducta. Para dar respuesta a lo que se espera de ella la persona ha de realizar un esfuerzo tanto físico como mental. El feed-back sobre los 
+resultados obtenidos permite a la persona adoptar diferentes estrategias o realizar el esfuerzo necesario para corregir los propios errores.
+Anteriores versiones del método consideraban nueve subescalas pero, en sucesivas revisiones y mejoras, quedó finalmente en seis que se refieren a: 
+exigencias mentales (actividad mental y perceptiva); exigencias físicas (grado de esfuerzo físico); exigencias temporales (sensación de presión 
+temporal); rendimiento (grado de cumplimiento de los objetivos); esfuerzo (cantidad de esfuerzo físico y mental) y nivel de frustración (sensación de 
+presión, desánimo, inseguridad ... durante la realización de la tarea).
+De estas variables tres se refieren a las demandas impuestas a la persona (demandas mentales, físicas y temporales) y las otras tres se refieren a la 
+interacción de la persona con la tarea (esfuerzo, frustración y rendimiento o "Performance').
+Aplicación del método
+La aplicación de este instrumento se lleva a cabo en dos fases: una fase de ponderación, en el momento anterior a la ejecución de la tarea y otra fase 
+inmediatamente después de la ejecución, llamada fase de puntuación.
+Se parte de la base de que las fuentes específicas de carga impuesta por las diferentes tareas son determinantes en la experiencia de carga, es decir 
+de la sensación subjetiva de carga, por esto el requisito previo es que los propios sujetos hagan una ponderación con el fin de determinar el grado en 
+que cada uno de los seis factores contribuye a la carga en cada tarea o subtarea específica. El objetivo de esta fase es, pues, la definición de las 
+fuentes de carga.
+Consiste en presentar a las personas las definiciones de cada una de las dimensiones a fin de que las comparen por pares (comparaciones binarias) y 
+elijan para cada par, cuál es el elemento que se percibe como una mayor fuente de carga. A partir de estas elecciones se obtiene un peso para cada 
+dimensión, en función del número de veces que ha sido elegido (fig. 2).
+Figura 2 
+
+Definiciones de las dimensiones que valora el NASA TLX
+DIMENSIÓN
+EXTREMOS
+DESCRIPCIÓN
+1. EXIGENCIA MENTAL (M)
+BAJA/ALTA
+¿Cuánta actividad mental y perceptiva fue necesaria? (Por ejemplo: pensar, decidir, calcular, recordar, 
+buscar, investigar, etc.).  
+¿Se trata de una tarea fácil o difícil, simple o compleja, pesada o ligera ?
+2. EXIGENCIA FÍSICA (F)
+BAJA/ALTA
+¿Cuánta actividad física fue necesaria? (Por ejemplo: empujar, tirar, girar, pulsar, accionar, etc.) 
+¿Se trata de una tarea fácil ó difícil, lenta o rápida, relajada o cansada?
+3. EXIGENCIA TEMPORAL (T)
+BAJA/ALTA
+¿Cuánta presión de tiempo sintió, debido al ritmo al cual se sucedían las tareas o los elementos de la 
+tareas? 
+¿Era el ritmo lento y pausado ó rápido y frenético?
+4. ESFUERZO (E)
+BAJO/ALTO
+¿En qué medida ha tenido que trabajar (física o mental mente) para alcanzar su nivel de resultados?
+5. RENDIMIENTO 
+(«Performance») (R)
+BUENO/MALO
+¿Hasta qué punto cree que ha tenido éxito en los objetivos establecidos por el investigador (o por vd. 
+mism@)? 
+¿Cuál es su grado de sastisfaccion con su nivel de ejecución?
+6. NIVEL DE FRUSTRACIÓN 
+(Fr)
+BAJO/ALTO
+Durante la tarea, en qué medida se ha sentido insegur@, desalentad@, irritad@, tens@) o 
+preocupad@ o por el contrario, se ha sentido segur@, content@, relajad@ y satisfech@ ?
+Estos pesos pueden tomar valores entre 0 (para la dimensión que no ha sido elegida en ninguna ocasión y por tanto no se considera relevante) y 5 
+(para la dimensión que siempre ha sido elegida y por tanto se considera que es la fuente de carga más importante). El mismo conjunto de pesos puede 
+utilizarse para variaciones de una misma tarea o para un grupo de subtareas. Además, los pesos dan información diagnóstica acerca de la naturaleza 
+de la carga de trabajo impuesta por la tarea ya que proporcionan datos acerca dos fuentes de variabilidad interpersonal:
+a.  las diferencias interpersonales en la definición de carga de trabajo, en cada tarea considerada
+b.  las diferencias en las fuentes de carga de trabajo entre distintas tareas El segundo requisito es adjudicar un valor para cada factor, que 
+representa la magnitud de cada factor en una tarea determinada.
+En esta fase de puntuación, las personas valoran la tarea o subtarea que acaban de realizar en cada una de las dimensiones, marcando un punto en la 
+escala que se les presenta. Cada factor se presenta en una línea dividida en 20 intervalos iguales (puntuación que es reconvertida a una escala sobre 
+100) y limitada bipolarmente por unos descriptores (por ejemplo: elevado/bajo, como muestra la fig. 3) y teniendo presentes las definiciones de las 
+dimensiones.
+Figura 3 
+Escalas de puntuación
+Ventajas del NASA TLX
+Una de las principales ventajas de este método es su aplicabilidad en el marco laboral real ya que las personas pueden puntuar directa y rápidamente 
+la tarea realizada ya sea justo después de su ejecución o de forma retrospectiva. En este último caso una grabación en video puede ser de utilidad 
+para mejorar el recuerdo de la actividad, parando si es preciso, en cada segmento de la tarea. En experiencias realizadas sobre valoraciones 
+retrospectivas se ha encontrado que existe una elevada correlación entre los datos así obtenidos y las puntuaciones obtenidas de forma inmediata.
+Por otra parte este método puede ser aplicado a gran variedad de tareas: para su validación se aplicó a tareas que incluían el control manual, 
+percepción, memoria inmediata, procesamiento cognitivo y control de sistemas sem¡automatizados. En situaciones experimentales (vuelo simulado, 
+control simulado, tareas de laboratorio, aritmética mental, tiempo de reacción de elección, etc.) se ha encontrado que las puntuaciones de carga de 
+trabajo derivadas tienen menos variabilidad interpersonal que las puntuaciones de carga de trabajo unidimensionales; además, las subescalas dan 
+valiosa información diagnóstica acerca de las fuentes de carga. Por último puede mencionarse su rapidez tanto de aplicación como de corrección, que 
+facilita su aplicación a diversas tareas o subtareas, y la ya mencionada capacidad de diagnóstico de las posibles fuentes de carga.
+Ejemplo de aplicación
+El NASA TLX puede utilizarse, por ejemplo, para comparar la carga de trabajo de dos tareas que requieren una serie de respuestas distintas. (Los 
+resultados se resumen en la fig.4) Fase de ponderación Instrucciones: seleccione el elemento de cada par, que dé la fuente más significativa de 
+variación de carga de trabajo en estas tareas.
+Figura 4 
+Aplicación del método NASA-TLX
+Tarea 1
+VARIABLE
+PESO
+PUNTUACIÓN
+PUNTUACIÓN 
+CONVERTIDA
+PUNTUACIÓN 
+PONDERADA
+EXIGENCIAS MENTALES
+3
+6
+30
+90
+EXIGENCIAS FÍSICAS
+0
+3
+15
+0
+
+EXIGENCIAS TEMPORALES
+5
+6
+30
+150
+ESFUERZO
+3
+8
+40
+120
+RENDIMIENTO
+1
+8
+40
+40
+FRUSTRACIÓN
+3
+6
+30
+90
+TOTAL
+15
+ 
+ 
+490
+Media ponderada global = 32,6
+Tarea 2
+VARIABLE
+PESO
+PUNTUACIÓN
+PUNTUACIÓN 
+CONVERTIDA
+PUNTUACIÓN 
+PONDERADA
+EXIGENCIAS MENTALES
+3
+15 
+75
+225
+EXIGENCIAS FÍSICAS
+0
+0
+0
+0
+EXIGENCIAS TEMPORALES
+5
+17
+85
+425
+ESFUERZO
+3
+10
+50
+150
+RENDIMIENTO
+1
+15
+75
+75
+FRUSTRACIÓN
+3
+12
+60
+180
+TOTAL
+15
+ 
+ 
+1055
+Media ponderada global = 70,3
+Fase de ponderación
+Instrucciones: seleccione el elemento de cada par, que dé la fuente más significativa de variación de carga de trabajo en estas tareas.
+F-M
+T-F
+T-Fr
+T-M
+R-F
+T-E
+R-M
+Fr-F
+R-Fr
+Fr-M
+E-F
+R-E
+E-M
+T-R
+E-Fr
+Se cuentan las elecciones de cada factor y se puede tener, por ejemplo: M = 3 (M salió elegida en tres comparaciones), F = 0, T = 5, R = 1, Fr = 3, E = 
+3 (total = 15).
+Fase de puntuación
+Para cada factor se ha obtenido la puntuación directa que se especifica en el cuadro (columna valoración).
+A continuación se convierte esta puntuación a una escala sobre 100 y se calcula la valoración ponderada para cada uno de los factores, multiplicando 
+la puntuación convertida por el valor obtenido en la ponderación de cada factor. (Columna: puntuación ponderada).
+Dividiendo la suma de éstos valores por 15 se obtendrá la puntuación media ponderada de la carga de trabajo global de la tarea en estudio.
+Resultados: Para cada tarea se cuenta con una puntuación media ponderada que refleja el valor global de la tarea en estudio.
+Las subescalas determinan con precisión la fuente específica de variación de carga de trabajo entre las tareas. En las tareas comparadas en este 
+ejemplo el factor que, atendiendo a las variables fuente y magnitud, refleja una mayor diferencia son las exigencias temporales.
+La puntuación ponderada refleja la importancia de cada uno de los factores como causantes de carga de trabajo y su importancia subjetiva en cada 
+tarea.
+Bibliografía
+1.  ARQUER, I. 
+Carga mental de trabajo: fatiga. Nota Técnica de Prevención 445; 
+Barcelona: INSHT, 1997
+2.  ARQUER, I. 
+Carga mental de trabajo: factores. Nota Técnica de Prevención 534; 
+Barcelona: INSHT, 1999
+3.  HANCKOK, P.A; MESHKATI, N. 
+Human mental workload. 
+Amsterdam: 1988, North Holland
+4.  NOGAREDA CUIXART, C. 
+La carga mental de trabajo: definición y evaluación. Nota Técnica de Prevención 179; 
+Barcelona: INSHT, 1986
+5.  NOGAREDA CUIXART, C. 
+Carga mental en el trabajo hospitalario guía para su valoración. Nota Técnica de Prevención 275; 
+Barcelona: INSHT, 1991
+6.  NORMA ISO 10075:1991 
+Ergonomic principies related to mental workload.
+7.  NACHREINER, F. 
+Standards for ergonomics principies relating to the design of work systems and to mental workload. 
+Applied Ergonomics, 1995 (26), n° 4, p. 259-263
+8.  NACHREINER, F. 
+International standard on mental work load. 
+The ISO 10075 Series. Industrial Health, 1999, 37, p. 125 - 133
+9.  NASA Task Load Index (NASA-TLX) iac.dtic.mil/hsiac/products/tlx/tlx.htmi
+10.  O.I.T. Enciclopedia de Salud y Seguridad en el trabajo (Vol. I) Ministerio de trabajo y Asuntos Sociales, Madrid, 1998
+11.  SALVENDY, G. 
+
+Handbook of Human Factors and Ergonomics. 
+New York: John Wiley and Sons, 1997 (Cap. 13: Mental Workload)
+12.  WIERWILLE, W.W., EGGEMEIER, F. T. 
+Recommendations for Mental Workload Measurement Test and Evaluation Environment 
+Human Factors, 1993, 35 (2) p. 263-281
+13.  WILSON, J.R., CORLETT, E.N. 
+Evaluation of human work. A practica¡ ergonomics methodology. 
+Londres: Taylor and Francis, 1995, 22 ed. (cap. 25: Techniques in mental workload assesment).
+   © INSHT

@@ -1,0 +1,178 @@
+ 
+NTP 179: La carga mental del trabajo: definición y evaluación
+La charge mentale de travail: définition et évaluation 
+Mental Workload: definition and measurement
+Redactor:
+Clotilde Nogareda Cuixart 
+Licenciada en Psicología
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO - BARCELONA
+Carga de trabajo
+El trabajo es una actividad humana a través de la cual el individuo, con su fuerza y su inteligencia, transforma la realidad. La ejecución 
+de un trabajo implica el desarrollo de unas operaciones motoras y unas operaciones cognoscitivas. El grado de movilización que el 
+individuo debe realizar para ejecutar la tarea, los mecanismos físicos y mentales que debe poner en juego determinarán la carga de 
+trabajo.
+La ejecución de un trabajo cubre un doble fin: por una parte conseguir los objetivos de producción; por otra, desarrollar el potencial del 
+trabajador. Es decir, que, a partir de la realización de la tarea, el individuo puede desarrollar sus capacidades. En estos términos no 
+suele hablarse del trabajo como una "carga". Normalmente este concepto tiene una connotación negativa y se refiere a la incapacidad 
+o dificultad de respuesta en un momento dado; es decir, cuando las exigencias de la tarea sobrepasan las capacidades del trabajo. En 
+este sentido la carga de trabajo viene determinada por la interacción entre:
+El nivel de exigencia de la tarea (esfuerzo requerido, ritmo, condiciones ambientales...).
+El grado de movilización del sujeto, el esfuerzo que debe realizarse para llevar a cabo la tarea. Determinado por las características 
+individuales (edad, formación, experiencia, fatiga...) (Cuadro I).
+Cuadro 1
+Carga mental
+El trabajo conlleva siempre exigencias físicas y mentales, pero a nivel teórico, para favorecer el análisis, diferenciamos trabajo físico de 
+trabajo mental según el tipo de actividad que predomine.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1984
+
+Si el trabajo es predominantemente muscular se habla de "carga física", si, por el contrario, implica un mayor esfuerzo intelectual 
+hablaremos de "carga mental". El desarrollo tecnológico conlleva, al mismo tiempo que una reducción paulatina de la actividad física en 
+muchos puestos de trabajo, la creación de nuevos puestos en los que predomina la actividad mental (control de procesos automáticos, 
+informatización...). La disminución del esfuerzo muscular va asociada en muchos casos a un aumento de la información que se maneja.
+La carga mental está determinada por la cantidad y el tipo de información que debe tratarse en un puesto de trabajo. Dicho de otro 
+modo, un trabajo intelectual implica que el cerebro recibe unos estímulos a los que debe dar respuesta, lo que supone una actividad 
+cognitiva que podemos representar en el siguiente esquema:<
+Mulder (1980) define la carga mental en función del número de etapas de un proceso o en función del número de procesos requeridos 
+para realizar correctamente una tarea y, más particularmente, en función del tiempo necesario para que el sujeto elabore, en su 
+memoria, las respuestas a una información recibida. Esta definición incluye dos factores de la tarea que inciden en la carga mental:
+G     La cantidad y la calidad de la información. La mayor o menor complejidad de la información recibida condicionará, una vez 
+superado el período de aprendizaje, la posibilidad de automatizar las respuestas.
+G     El tiempo. Si el proceso estímulo-respuesta es continuo, la capacidad de respuesta del inidividuo puede verse saturada; si por 
+el contrario existen períodos de descanso o de menor respuesta, el individuo puede recuperar su capacidad y evitar una carga 
+mental excesiva.
+A estos factores, además, hay que añadir los relativos a las condiciones físicas (ruido, temperatura, iluminación), psico-sociales 
+(relaciones jerárquicas, sistema de comunicación, etc.) en las que se desarrolla el trabajo, así como otros de origen extralaboral.
+Por otra parte, hay que tener en cuenta al individuo que realiza el trabajo. Las personas tenemos una capacidad de respuesta limitada 
+que está en función de:
+G     La edad.
+G     El nivel de aprendizaje.
+G     El estado de fatiga.
+G     Las características de personalidad.
+G     Las actitudes hacia la tarea: motivación, interés, satisfacción, etc.
+Si la realización de una tarea implica el mantenimiento prolongado de un esfuerzo al límite de nuestras capacidades, es decir, si la 
+cantidad de esfuerzo que se requiere excede la posibilidad de respuesta de un individuo, puede dar lugar a fatiga mental. Ésta se 
+traduce en una serie de disfunciones físicas y psíquicas, acompañadas de una sensación subjetiva de fatiga y una disminución del 
+rendimiento.
+Podemos distinguir entre dos tipos de fatiga. En primer lugar la fatiga aparece como una reacción homeostática del organismo para 
+adaptarse al medio.
+El principal síntoma de este tipo de fatiga es una reducción de la actividad que se da como consecuencia de:
+G     Una disminución de la atención.
+G     Una lentitud del pensamiento.
+G     Una disminución de la motivación.
+Por otra parte, cuando existe un desequilibrio prolongado entre la capacidad del organismo y el esfuerzo que debe realizar para dar 
+respuesta a las necesidades del ambiente, puede aparecer la fatiga crónica. Se da, no por una sobrecarga de trabajo accidental, sino 
+por una determinada carga que se va repitiendo. Sus síntomas, que no sólo se sienten durante o después del trabajo sino que pueden 
+ser permanentes, son los siguientes:
+G     Inestabilidad emocional: irritabilidad, ansiedad, estados depresivos...
+G     Alteraciones del sueño.
+
+G     Alteraciones psicosomáticas: mareos, alteraciones cardíacas, problemas digestivos... (Cuadro II).
+Cuadro II: Factores determinantes y consecuencias del trabajo mental
+Evaluación de la carga mental
+Para poder evaluar convenientemente la carga mental de un puesto de trabajo debemos tener presentes dos tipos de indicadores:
+A.  Los factores de carga inherentes al trabajo que se realiza.
+B.  Su incidencia sobre el individuo.
+Factores de carga inherentes a la tarea
+Existen diversos métodos objetivos para la evaluación de las condiciones de trabajo, que incluyen variables relativas a la carga mental. 
+Señalamos a continuación tres métodos muy utilizados actualmente:
+El método diseñado por el Laboratorio de Economía y Sociología del Trabajo (L.E.S.T.) del CNRS evalúa la carga mental a partir de 
+cuatro indicadores:
+G     Apremio de tiempo. Determinado en trabajos repetitivos por la necesidad de seguir una cadencia impuesta y en los trabajos 
+no repetitivos por la necesidad de cumplir un cierto rendimiento.
+G     Complejidad-rapidez. Esfuerzo de memorización, o número de elecciones a efectuar, relacionado con la velocidad con que 
+debe emitirse la respuesta.
+G     Atención. Nivel de concentración requerido y continuidad de este esfuerzo.
+G     Minuciosidad. Se tiene en cuenta en trabajos de precisión como una forma especial de atención.
+El método de Perfil del Puesto, de R.N.U.R., utiliza el término "carga nerviosa", que define como las exigencias del sistema nervioso 
+central durante la realización de una tarea y que viene determinada por dos criterios:
+G     Operaciones mentales, entendidas como acciones no automatizadas en las que el trabajador elige conscientemente la 
+respuesta.
+G     Nivel de atención, referido a tareas automatizadas, tiene en cuenta la duración de la atención, la precisión del trabajo y las 
+incidencias (trabajo en cadena, ambiente, duración del ciclo).
+El método elaborado por la Agencia Nacional para la Mejora de las Condiciones de Trabajo (ANACT) no define el concepto de carga 
+mental o nerviosa de una manera específica, pero en el apartado "Puesto de trabajo", incluye entre otras las variables "Rapidez de 
+ejecución" y "Nivel de atención". (Ver Cuadro III)
+Cuadro III
+
+Además de la valoración de carga mental que incluyen estos métodos globales de evaluación de las condiciones de trabajo, en los que 
+se considera como una variable más, actualmente existen unas escalas específicas para la valoración de la carga mental, validadas 
+experimentalmente, con un alto grado de fiabilidad.
+Estas escalas se basan en la presentación de unas preguntas-filtro al sujeto de tal manera que cada respuesta determina la siguiente 
+pregunta. Suelen presentarse en forma de árbol lógico, señalándose en las instrucciones la necesidad de seguir ordenadamente la 
+secuencia para que el resultado obtenido sea reflejo de la realidad.
+A partir de una escala creada por Cooper y Harper (1969) para valorar la carga mental en sistemas de control manual, Skipper (1986) 
+ha realizado un estudio experimental introduciendo modificaciones que permiten aplicar el método a distintas áreas de actividad 
+(Cuadro IV).
+Cuadro IV: Escala de Cooper-Harper modificada (De Skipper, 1986
+
+Incidencia sobre el individuo
+Los indicadores de carga mental que utilizan los distintos métodos de evaluación se han determinado experimentalmente en base a las 
+reacciones del individuo frente a un exceso de carga, es decir, en base a las alteraciones fisiológicas, psicológicas y del 
+comportamiento resultantes de la fatiga (Cuadro V).
+Cuadro V: Indicadores de los distintos métodos de evaluación
+Estos métodos de valoración son complementarios entre sí, dado que ninguna medida es válida por sí sola para evaluar la carga 
+mental, por lo que la utilización de varios de ellos y la comparación de los resultados obtenidos es la mejor manera de aproximarnos a 
+una evaluación satisfactoria.
+Prevención de la fatiga mental
+En la organización de un puesto de trabajo se deben tener en cuenta los siguientes factores con el fin de prevenir la aparición de la 
+fatiga mental:
+G     Cantidad de información recibida.
+G     Ritmo de trabajo normal para una persona formada y adiestrada.
+G     Cualidad de la información recibida: tipos de señales.
+G     Ritmo individual de trabajo.
+G     Distribución de pausas.
+G     Confort ambiental del puesto.
+Bibliografía
+(1) DIVERREZ, J. 
+Améliorer les conditions de travail 
+Entreprise moderne d'edition. Paris, 1979
+
+(2) DRENTH, P. J. et al. 
+Handbook of Work and Organizational Psychology (Vol. 1) 
+John Wiley and Sons. New York, 1983
+(3) ELIAS, R. 
+Une approche médico-biologique de l'étude de la charge de travail 
+Cahiers de Notes Documentaires, nº 91, 2º trim., 1978, note nº 1118-91-78
+(4) ELIAS, R. 
+La charge psychique, le stress psychosocial et la fatigue. Le role de I'informatique 
+Cahiers de notes documentaires, nº 120, 3er. trim., 1985, note nº 1538-120-85
+(5) GRANDJEAN, E. 
+Précis d'ergonomie 
+Les editions d'organization. Paris, 1983
+(6) GUELAUD, F. et al. 
+Pour un analyse des conditions du travail ouvrier dans I'entreprise 
+A. Colin. París, 1983
+(7) LEPLAT, J. 
+Los facteurs déterminant la charge du travail 
+Le travail humain, 1977, Vol. 40, nº 2
+(8) MULDER, G. 
+The heart of mental effort 
+Groningen (discurso). Citado en Drenth, P.J., 1983
+(9) PARDON, N. 
+Los méthodes d'approche de la charge mental 
+Cahiers Med. Interprof., 1977, nº 65
+(10) PICAGNIOL, C. 
+Techniques et politiques d'amélioration des conditions de travail 
+Entreprise moderne d'edition. París. 1980
+(11) PIOTET, F., MABILE, J. 
+Conditions de travail, mode d'emploi 
+Coll. Outils et méthodes. Ed. de l'ANACT. Paris, 1984
+(12) REGNIER, J. 
+L'amélioration des conditions de travail dans l'industrie 
+Masson. Paris, 1980
+(13) SERVICE DES CONDITIONS DE TRAVAIL DE LA REGIE NATIONALE DES USINES RENAULT 
+Les profils de postes. Méthode d'analyse des conditions de travail 
+Masson Sirtes. París, 1976
+(14) SKIPPER, J. H. et al. 
+Evaluation of decision-tree rating scales for mental workload evaluation 
+Ergonomics, 1986, Vol. 29, nº 4
+(15) SPERANDIO, J. C. 
+L'ergonomie du travail mental 
+Coll. Psychologie appliquée. Masson. París, 1983
+(16) WELFORD, A.T. 
+La charge de travail comme fonction des exigences de la capacité, de la stratégie et de l'habilité 
+Le travail humain, 1977, Vol. 40, nº 2
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-87-011-8 

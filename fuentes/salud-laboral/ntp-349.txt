@@ -1,0 +1,381 @@
+ 
+NTP 349: Prevención del estrés: intervención sobre el individuo
+Prévention du stress: Intervention sur l'homme 
+Stress prevention: Intervention on individual
+Redactor:
+Félix Martín Daza 
+Licenciado en Psicología
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+El individuo, en distintos ámbitos de su vida, se ve sometido a múltiples presiones que le generan estrés. Una de las fuentes más 
+importantes de estas presiones está relacionada con el desarrollo del trabajo. En general, el trabajo en una empresa está sujeto a unas 
+condiciones y una forma de organización que no están determinadas por las capacidades, necesidades o expectativas del individuo, 
+sino que se estructura en orden a otro tipo de factores (tecnología, exigencias productivas, ...). No obstante, el hecho de que la 
+organización de una empresa favorezca la aparición del estrés no es debido, la mayoría de las veces, a unas exigencias inapelables 
+del proceso productivo; generalmente la causa se encuentra en un deficiente diseño de la organización, que minusvalora la importancia 
+de los recursos humanos de la empresa.
+Aunque los individuos en general tienen una gran capacidad de adaptación, en algunas ocasiones ciertos requerimientos del trabajo 
+obligan a realizar un esfuerzo adaptativo para el que el sujeto no está preparado, lo cual le origina una serie de problemas de 
+adaptación o de ajuste.
+Por otra parte, algunas veces nos podemos encontrar que en unas mismas condiciones unos individuos desarrollan unos niveles de 
+estrés patológicos y otros no. Esto es debido a que diferentes individuos tienen distinta capacidad de adaptación en función de 
+múltiples factores personales.
+Se plantea, por lo tanto, la necesidad de una intervención para paliar esta situación. Esta intervención podría dirigirse a modificar 
+ciertos aspectos de la organización del trabajo o a fomentar la capacidad de adaptación del individuo.
+La modificación de ciertos aspectos de una organización que favorecen el desarrollo del estrés no sólo repercute en una mejora del 
+bienestar de los trabajadores, sino en una optimización de los recursos humanos que se traducirá en un mejor funcionamiento de la 
+empresa a todos los niveles. Por otra parte, constituye una actuación más directa pues interviene sobre el foco o la fuente de esa 
+problemática.
+No obstante, en ocasiones resulta muy difícil o imposible eliminar las fuentes de estrés en el origen, pero podemos dotar al individuo de 
+una serie de estrategias para afrontar dichas situaciones y, si éstas son difíciles de afrontar, dotarle de habilidades para controlar las 
+experiencias y consecuencias que el estrés produce. Así pues, constituye un planteamiento preventivo el fomentar la adquisición de 
+algunas estrategias que aumenten la capacidad de adaptación del individuo, la capacidad para hacer frente a los requerimientos del 
+trabajo.
+No hay que olvidar, sin embargo, que el desarrollo de actividades para la prevención del estrés que consistan en una intervención 
+sobre el individuo ha de ser posterior o complementario al desarrollo de una política de prevención del estrés basada en la intervención 
+sobre la organización de la empresa, orientada hacia la modificación de ciertas condiciones o demandas del trabajo estresantes.
+Esta Nota Técnica de Prevención trata de ofrecer una visión general de las estrategias y técnicas utilizadas para llevar a cabo una 
+intervención sobre el individuo para la prevención del estrés.
+Condiciones previas
+En primer lugar, hay que señalar que una de las tareas necesarias para llevar a cabo una intervención de este tipo, es conseguir el 
+compromiso de los directivos de una empresa; deben ser conscientes de la gravedad del problema y estar persuadidos de la necesidad 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1992
+
+de llevar a cabo una intervención.
+Es también una condición previa ineludible para el desarrollo de una intervención, la realización de un diagnóstico de la problemática a 
+la que se ha de responder. Habrá que conocer los factores que están provocando el estrés (tanto los relacionados con la situación 
+laboral como los relacionados con las características de los individuos) y habrá que evaluar la magnitud de sus consecuencias. Las 
+condiciones y las demandas de distintos trabajos y de los diferentes individuos pueden requerir distintas formas y contenidos a la hora 
+de llevar a cabo una intervención concreta.
+Es recomendable que este proceso de identificación de las causas y las consecuencias se realice en un estado en el que el estrés se 
+encuentre en un estado incipiente o leve, no cuando se convierta en un problema generalizado o grave. Así, el tratamiento preventivo 
+del estrés requiere la detección precoz de esta problemática mediante la identificación de una serie de indicadores que de darse con 
+una frecuencia, duración e intensidad determinadas reflejan la existencia de esta problemática. Los indicadores que podemos utilizar 
+para esta tarea pueden ser de varios tipos: disfunciones en los individuos de carácter físico, emocional o comportamental y 
+disfunciones en la organización o en el desarrollo del trabajo (índices de producción o de mal funcionamiento...).
+Para la evaluación de estos indicadores existen varios instrumentos: pruebas psicológicas y fisiológicas, sistemas de registro 
+administrativo (absentismo, abandonos de empresa...), autorregistros personales, cuestionarios que incluyen aspectos relacionados 
+con la situación laboral y el estado de salud, métodos de evaluación de las condiciones de trabajo...
+La detección de estos indicadores no es difícil, tanto por la gran cantidad de manifestaciones que origina el estrés como por las 
+características de esta problemática; el estrés es un problema que se va desarrollando progresivamente de manera que se puede 
+identificar en diversas fases de su desarrollo y, por lo tanto, existen diferentes grados de estrés (cuadro 1).
+Cuadro 1: Esquema de un planteamiento preventivo del estrés
+Programas de prevención del estrés
+Estos programas constituyen una de las formas en las que se organiza una intervención sobre el individuo. Consisten en el desarrollo 
+de un conjunto de acciones en la empresa (formación, adiestramiento, asistencia...) para identificar y paliar la problemática emocional y 
+personal de los trabajadores que pudiera interferir en el desarrollo de su trabajo.
+Resulta bastante habitual encontrarse con programas de asistencia a los empleados en empresas de los países más desarrollados. 
+Muchos de estos programas se centran en otro tipo de problemas más concretos como puede ser el promover la recuperación del 
+alcoholismo o de otras drogodependencias, y por lo tanto, con otra orientación no para prevenir un problema sino para tratarlo.
+Los programas que específicamente están destinados a la prevención del estrés consisten en la transmisión de un conjunto de 
+conocimientos a los trabajadores para promover el reconocimiento de los estresores así como sus efectos para la salud y el 
+adiestramiento de los trabajadores en una serie de técnicas o habilidades destinadas a controlar las condiciones que favorecen el 
+estrés y aminorar los efectos que sobre el individuo tiene el estar sometido a estrés.
+El objetivo de transmitir un conjunto de conocimientos a los trabajadores sobre los estresores, el proceso de generación del estrés, los 
+efectos sobre la persona,... es necesario y útil para hacer comprender qué es el estrés, cómo se desarrolla, para identificar qué 
+condiciones favorecen su desarrollo en esa empresa, para determinar la importancia en que se da en esa empresa, y sobre todo, para 
+comprometer y sensibilizar a los trabajadores en la necesidad de actuar que es el primer paso para empezar a afrontar ese problema.
+El aprendizaje de distintas habilidades personales está destinado a favorecer el cambio en la forma en la que el individuo aborda los 
+problemas de estrés (la forma en que percibe las situaciones, la forma en que las afronta, las respuestas emocionales que se originan 
+en el sujeto,...).
+El proceso que suelen seguir estos programas es el siguiente:
+Cuadro 2: Resumen del contenido de un curso 
+para la prevención del estrés laboral
+1.  Detección de las necesidades de formación en este campo a partir de 
+la información obtenida tras la identificación de las causas y las 
+consecuencias del estrés. Esto nos permitirá centrarnos en los 
+estresores específicos que están afectando a los trabajadores de esa 
+empresa.
+2.  Definición de los objetivos del programa. Los objetivos es aconsejable 
+que sean operativos y evaluables.
+3.  Diseño del programa. Se trataría de determinar los contenidos que se 
+van a transmitir y el entrenamiento en las habilidades y técnicas más 
+idóneas para el control del estrés para esos trabajadores (cuadro 2).
+
+ 
+Fuente: Controlling Work Stress, Jossey Bass, San 
+Francisco, 1987. Matteson, M. and J. Ivancevich
+4.  Desarrollo del programa. Consiste en llevar a cabo la transmisión de la 
+información y el adiestramiento de los trabajadores en las estrategias 
+para el control del estrés.
+5.  Evaluación de la eficacia de programa, según la adecuación de los 
+resultados a los objetivos perseguidos. La evaluación no debe limitarse 
+a medidas de carácter individual poco después de finalizar el programa; 
+sería conveniente realizar evaluaciones posteriores de seguimiento 
+para valorar si los cambios observados al finalizar el programa se 
+mantienen. Se deberían volver a evaluar los indicadores de estrés: 
+ansiedad, depresión, quejas somáticas, absentismo, abandonos de 
+empresa, etc.
+Algunas empresas cuentan con un servicio permanente de asistencia a los 
+trabajadores, desempeñado por profesionales de la psicología. Las tareas de 
+este servicio consisten en el tratamiento de problemas de carácter personal y 
+el apoyo psicológico a los trabajadores, así como el desarrollo de acciones 
+preventivas para evitar la aparición de problemática de carácter psicosocial. 
+Este tipo de servicios son muy aconsejables para abordar el estrés en la 
+empresa, ya que por su carácter interno y permanente, permiten una mayor 
+especificación del origen de las problemáticas, el seguimiento de las 
+evoluciones de los trabajadores y la realización de una intervención continuada 
+y personalizada sobre los mismos.
+La intervención sobre el estrés laboral
+Para la prevención del estrés mediante una intervención sobre el individuo es 
+necesario conocer en qué "puntos" se puede originar la problemática y por 
+tanto sobre qué aspectos hemos de intervenir. Básicamente, las dificultades 
+pueden originarse por alguno o por varios aspectos.
+Por un procesamiento cognitivo defectuoso
+Una situación puede ser percibida de forma diferente por distintos sujetos. Así, 
+una misma situación puede resultar para algunos amenazante y para otros 
+motivadora. Estas diferencias entre individuos se dan porque ante una misma 
+situación no todo el mundo recoge la misma información ya que no todos 
+fijamos nuestra atención ante las mismas cosas: unos consideran importantes 
+unas cosas que otros consideran irrelevantes. También se percibe de forma 
+distinta la relevancia que tiene esa situación o cómo me afecta a mí o a mi 
+futuro. Un individuo también puede tener dificultades por el hecho de valorar 
+inadecuadamente sus capacidades de respuesta. Esta diferencia de 
+percepción originará en parte la elección de uno u otro tipo de respuestas de 
+afrontamiento.
+Las estrategias para modificar esta situación buscan:
+G     La adaptación del individuo con respecto a qué o cuánta información 
+debe recoger y cómo recogerla.
+G     La identificación rápida de los aspectos que pueden ser relevantes y la 
+concentración en estos aspectos.
+G     La focalización de la atención del individuo en la información útil para la 
+resolución del problema y no centrar su atención en su propio estado 
+emocional.
+G     La modificación de los esquemas erróneos bajo los que percibe y bajo 
+los que actúa (atención selectiva, atribuciones generalizadoras, 
+interpretación polarizada,...).
+G     La valoración adecuada de sus propias capacidades.
+En definitiva, se busca que el individuo tenga una más amplia perspectiva y sepa valorar en su justa medida las informaciones 
+obtenidas.
+Por unas demandas del medio excesivas o por una carencia de conductas de afrontamiento o una 
+inadecuada utilización de éstas
+En algunas situaciones lo que se nos demanda en nuestro trabajo es excesivo. De esta forma nos encontramos con problemas de muy 
+difícil manejo. Se podría decir que para combatir estas situaciones existe la recomendación genérica de que las empresas deben 
+ajustar las demandas a sus trabajadores teniendo en cuenta sus capacidades, sus necesidades, sus expectativas. No obstante, 
+aunque este es un problema "que viene de fuera" el individuo tiene también un cierto margen de maniobra para modificar esas 
+condiciones. En algunas ocasiones el individuo no tiene conductas para enfrentarse a la situación. Esto puede ser por varias causas:
+G     El individuo ha percibido adecuadamente las demandas del medio y sabe cuáles son las conductas que habría que emitir, pero 
+no dispone de éstas.
+G     El individuo no sabe seleccionar la respuesta correcta de entre todas las conductas que podría llevar a cabo.
+
+G     El individuo dispone de conductas adecuadas pero no es capaz de emitirlas en el momento preciso, bien por no saber 
+discriminar en qué momento hay que realizarlas, bien porque determinadas situaciones le generan respuestas emocionales 
+(miedo, ansiedad) de tal magnitud que le impiden la emisión de una respuesta. Puede que exista algún tipo de obstáculo que 
+imposibilite la ejecución de esas conductas y que el individuo no pueda superar.
+Por la aparición de unas respuestas fisiológicas y emocionales inadecuadas
+Ante una situación estresante el individuo desarrolla una serie de reacciones fisiológicas y emocionales inadecuadas (tensión física y 
+emocional, ansiedad, fatiga,...). La presencia de estas reacciones además de constituir los primeros síntomas de estrés, interfieren en 
+otros ámbitos del individuo. Producen grandes distorsiones a nivel cognitivo (la forma de percibir la situación) y comportamental (la 
+emisión de respuestas para controlar la situación). La intervención a este nivel está dirigida hacia el control de esas respuestas 
+emocionales.
+Técnicas para la prevención del estrés
+"La tensión puede controlarse bien modificando directamente la activación fisiológica inicial y su mantenimiento, o modificando los 
+efectos que los pensamientos, situaciones o conductas... tienen sobre ellas. En el primer caso, porque se controla directamente la 
+propia activación del organismo, en el segundo, porque se reducen los agentes que instigan su aparición" (Labrador, 1992).
+Muchas de las técnicas de las que a continuación se habla, fueron diseñadas para el tratamiento de diversos problemas de 
+comportamiento aunque tienen utilidad a nivel preventivo de cara a fomentar la capacidad de adaptación del individuo.
+Las técnicas se pueden clasificar en:
+G     Generales. Tienen el objetivo de incrementar en el individuo una serie de recursos personales de carácter genérico para hacer 
+frente al estrés.
+G     Cognitivas. Su finalidad sería cambiarla forma de ver la situación (la percepción, la interpretación y evaluación del problema y 
+de los recursos propios).
+G     Fisiológicas. Están encaminadas a reducir la activación fisiológica y el malestar emocional y físico consiguiente.
+G     Conductuales. Tienen como fin el promover conductas adaptativas: dotar al individuo de una serie de estrategias de 
+comportamiento que le ayuden a afrontar un problema.
+La aplicación de la mayoría de las técnicas que se describirán a continuación requiere de un profesional de la psicología que determine 
+cuáles son las más adecuadas para cada situación o caso concreto, así como para asegurarse de su correcta administración y 
+ejecución.
+Técnicas generales
+Desarrollo de un buen estado físico
+El desarrollo y mantenimiento de un buen estado físico tiene buenos efectos en la prevención del estrés; para ello, es aconsejable la 
+realización de ejercicio de manera habitual. En general, el ejercicio aumenta la resistencia física del individuo a los efectos del estrés 
+pero además aumenta también la resistencia psicológica: la realización de ejercicio nos obliga a desplazar la atención de los problemas 
+psicológicos y nos permite el descanso y la recuperación de la actividad mental desarrollada anteriormente.
+El ejercicio físico permite movilizar el organismo mejorando su funcionamiento y su capacidad física de cara a que esté en mejores 
+condiciones para hacer frente al estrés, aumentando la capacidad para el trabajo físico y mejorando las funciones cardiovascular, 
+respiratoria y metabólica.
+En términos generales, se puede decir que el trabajo en la actualidad requiere cada vez menos respuestas de tipo físico y más 
+respuestas de tipo intelectual. Con el ejercicio podemos utilizar y consumir ciertos recursos orgánicos que rara vez podemos utilizar en 
+el desarrollo de nuestro trabajo y que de no ser "quemadas" pueden depositarse en el sistema vascular originando problemas como un 
+aumento en el nivel de presión arterial.
+Dieta adecuada
+El desarrollo de buenos hábitos alimentarios que condicionan el estado nutricional del individuo constituye una medida aconsejable 
+para la prevención del estrés. Las demandas energéticas que actualmente recibimos de nuestro entorno determinan la necesidad de 
+tener un equilibrio energético adecuado para responder a esas demandas y para no desarrollar problemas carenciales.
+Apoyo social
+Establecimiento y desarrollo de redes sociales, que puedan facilitar apoyo social al individuo. Las relaciones sociales con otros 
+individuos puede resultar una fuente de ayuda psicológica o instrumental. Un grupo social puede constituirse en referencia que facilite 
+al individuo una mejor adaptación e integración en la realidad.
+La distracción y el buen humor
+Fomentar la distracción y buen humor constituye una buena medida para prevenir situaciones de ansiedad o para aliviarlas, pues 
+además de facilitar el desplazamiento de la atención de los problemas, contribuye a relativizar la importancia de esos problemas.
+
+Técnicas cognitivas
+Utilizadas para cambiar el pensamiento, modificar las evaluaciones erróneas o negativas respecto de las demandas o de los propios 
+recursos del individuo para afrontarlas y facilitar una reestucturación de los esquemas cognitivos.
+Reorganización cognitiva
+Intenta ofrecer vías y procedimientos para que una persona pueda reorganizar la forma en que percibe y aprecia una situación. Si la 
+forma de comportarnos y la forma en que sentimos depende de la forma en que percibimos una situación, resulta importante disponer 
+de estrategias de redefinición de situaciones cuando la definición que hemos adoptado no contribuye a una adaptación adecuada. Es 
+decir, esta técnica está dirigida a sustituir las interpretaciones inadecuadas de una situación, por otras interpretaciones que generen 
+respuestas emocionales positivas y conductas más adecuadas.
+Modificación de pensamientos automáticos y de pensamientos deformados
+Ante una situación, todo el mundo desarrolla una serie de pensamientos para interpretar esa situación. Estos pensamientos pueden ser 
+tanto racionales como irracionales. Mediante estas técnicas se intenta la identificación y el cambio de los pensamientos irracionales.
+Los pensamientos automáticos son espontáneos y propios de cada individuo. Son elaborados sin reflexión o razonamiento previo 
+aunque son creídos como racionales. Tienden a ser dramáticos y absolutos y son muy difíciles de desviar. Llevan a interpretaciones 
+negativas y a emociones desagradables.
+El modo de intervención para la modificación de estos pensamientos es indicar al sujeto que lleve un autorregistro de los pensamientos 
+que le surgen en las situaciones de su vida normal, y que intente evaluar en qué medida considera que reflejan la situación que ha 
+vivido. El individuo se irá dando cuenta progresivamente de sus pensamientos automáticos y desestimando su importancia.
+Los pensamientos deformados son otro tipo de pensamientos que originan estrés. Este tipo de pensamientos manifiestan una 
+tendencia a relacionar todos los objetos y situaciones con uno mismo, a emplear esquemas de generalización, de magnificación, de 
+polarización en la interpretación de la realidad, etc.
+La intervención sobre este tipo de pensamientos consiste en lograr una descripción objetiva de la situación, identificar las distorsiones 
+empleadas para interpretarlo y eliminar esas distorsiones modificándolas mediante razonamientos lógicos.
+Desensibilización sistemática
+Desarrollada por Wolpe (1958). Con esta técnica se intentan controlar las reacciones de ansiedad o miedo ante situaciones que 
+resultan amenazadoras a un individuo. Esta técnica se fundamenta en la relajación progresiva de Jacobson. El individuo en un estado 
+de relajación, se va enfrentando progresivamente con situaciones (reales o imaginadas) dispuestas en orden creciente de dificultad o 
+de amenaza ante las que el sujeto desarrolla ansiedad, hasta que el individuo se acostumbra a estar relajado y a no desarrollar 
+respuestas emocionales negativas en estas situaciones.
+Inoculación de estrés
+Creada por Miechenbaum y Cameron (1974). Esta es una técnica de carácter cognitivo y comportamental. La metodología es similar a 
+la de la desensibilización sistemática. A partir del aprendizaje de técnicas de respiración y relajación para poder relajar la tensión en 
+situación de estrés, se crea por el sujeto una lista en la que aparecen ordenadas las situaciones más estresantes. Comenzando por las 
+menos estresantes el individuo irá imaginando esas situaciones y relajándose. Después el individuo tendrá que desarrollar una serie de 
+pensamientos para afrontar el estrés y sustituirlos por anteriores pensamientos estresantes; por último, el individuo utilizará en vivo 
+estos pensamientos de afrontamiento y esas técnicas de relajación en situaciones reales para abordar situaciones estresantes.
+Detención del pensamiento
+La acción de esta técnica está dirigida a la modificación de pensamientos negativos reiterativos que conducen a sufrir alteraciones 
+emocionales (ansiedad) es decir que no contribuyen a buscar soluciones eficaces del problema sino a dificultarlo. Consiste en lo 
+siguiente: cuando aparece una cadena de pensamientos repetitivos negativos intentar evitarlos mediante su interrupción (golpeando la 
+mesa o vocalizando la expresión "basta", por ejemplo) y sustituir esos pensamientos por otros más positivos y dirigidos al control de la 
+situación. "La lógica de esta técnica se basa en el hecho de que un estímulo suficientemente potente atraerá la atención sobre él 
+haciendo que se deje de prestar atención a los pensamientos que se están desarrollando" (Peiró y Salvador, 1993).
+Técnicas fisiológicas
+Es característico de las situaciones estresantes la emisión de intensas respuestas fisiológicas que, además de producir un gran 
+malestar en el individuo, alteran la evaluación cognitiva de la situación y la emisión de respuestas para controlar la situación.
+Las técnicas fisiológicas que vienen a continuación buscan la modificación de esas respuestas fisiológicas y/o la disminución de los 
+niveles de activación producidos por el estrés centrándose directamente en los componentes somáticos implicados en el estrés.
+Técnicas de relajación física
+Las más utilizadas son la relajación progresiva de Jacobson y el entrenamiento autógeno de Schultz. Estas técnicas intentan 
+
+aprovechar la conexión directa entre el cuerpo y la mente, de la existencia de una interdependencia entre la tensión psicológica y la 
+tensión física o dicho de otro modo, que no es posible estar relajado físicamente y tenso emocionalmente. Así, según las teorías que 
+inspiran estas técnicas, las personas pueden aprender a reducir sus niveles de tensión psicológica (emocional) a través de la relajación 
+física aún cuando persista la situación que origina la tensión. "Si se relajan los músculos que han acumulado tensión (de origen) 
+emocional, la mente se relajará también gracias a la reducción de la actividad del sistema nervioso autónomo" (Peiró y Salvador, 1993).
+La relajación es un estado del organismo de ausencia de tensión o activación con efectos beneficiosos para la salud a nivel fisiológico, 
+conductual y subjetivo. La técnica de relajación de Jacobson consiste en adiestrar al individuo en la realización ejercicios físicos de 
+contracción-relajación que le permitan tener conocimiento del estado de tensión de cada parte de su cuerpo y tener recursos para 
+relajar dichas zonas cuando estén en tensión.
+Técnicas de control de respiración
+"Las situaciones de estrés provocan habitualmente una respiración rápida y superficial, lo que implica un uso reducido de la capacidad 
+funcional de los pulmones, una peor oxigenación, un mayor gasto y un aumento de la tensión general del organismo" (Labrador, 1992). 
+Estas técnicas consisten en facilitar al individuo el aprendizaje de una forma adecuada de respirar para que en una situación de estrés 
+pueda controlar la respiración de forma automática y le permita una adecuada oxigenación del organismo que redunda en un mejor 
+funcionamiento de los órganos corporales y un menor gasto energético (efectos beneficiosos sobre irritabilidad, fatiga, ansiedad, 
+control de la activación emocional, reducción de la tensión muscular, etc).
+"Existen diversas técnicas de entrenamiento de la respiración abdominal que pretenden que ésta substituya a la torácica practicada en 
+situaciones de tensión y estrés siendo, sin embargo, menos adecuada para una eficaz oxidación de los tejidos" (Peiró y Salvador, 
+1993). El aprendizaje y la posterior utilización de estas técnicas resulta bastante fácil y sus efectos beneficiosos son apreciables 
+inmediatamente.
+Técnicas de relajación mental (meditación)
+La práctica de la meditación estimula cambios fisiológicos de gran valor para el organismo. Pretenden que la persona sea capaz de 
+desarrollar sistemáticamente una serie de actividades (perceptivas y/o conductuales ) que le permitan concentrar su atención en esas 
+actividades y desconectar de la actividad mental cotidiana del individuo de aquello que puede resultarle una fuente de estrés.
+Biofeedback
+Esta es una técnica de intervención cognitiva para el control del estrés pero busca efectos a nivel fisiológico. Su objetivo es dotar al 
+individuo de capacidad de control voluntario sobre ciertas actividades y procesos de tipo biológico. A partir de la medición de algunos 
+de procesos biológicos del individuo, se trataría de proporcionar al propio individuo una información continua de esos parámetros, de 
+manera que esta información pueda ser interpretada y utilizada para adquirir control sobre aquellos procesos para posteriormente 
+adiestrar al individuo en el control voluntario de los citados procesos en situaciones normales.
+Técnicas conductuales
+Entrenamiento asertivo
+Mediante esta técnica se desarrolla la autoestima y se evita la reacción de estrés. Se trata de adiestrar al individuo para que consiga 
+conducirse de una forma asertiva, que consiste en conseguir una mayor capacidad para expresar los sentimientos, deseos y 
+necesidades de manera libre, clara e inequívoca ante los demás, y que esté dirigida al logro de los objetivos del individuo, respetando 
+los puntos de vista del otro. La ejecución de esta técnica se lleva a cabo a través de prácticas de Role Playing.
+Entrenamiento en habilidades sociales
+Consiste en la enseñanza de conductas que tienen más probabilidad de lograr el éxito a la hora de conseguir una meta personal y a 
+conducirse con seguridad en situaciones sociales. Este entrenamiento al igual que el anterior se realiza a través de prácticas de Role 
+Playing. Estas técnicas constituyen una buena forma de instaurar habilidades sociales mediante la observación de las conductas, la 
+posterior escenificación y dramatización de situaciones reales, y por último, su ejecución habitual en la realidad.
+Técnica de solución de problemas
+Una situación se constituye en un problema cuando no podemos dar una solución efectiva a esa situación. El fracaso repetido en la 
+resolución de un problema provoca un malestar crónico, una ansiedad, una sensación de impotencia,... que dificulta la búsqueda de 
+nuevas soluciones. Mediante estas técnicas se intenta ayudar al individuo a decidir cuáles son las soluciones más adecuadas a un 
+problema. Esta técnica desarrollada por D'Zurilla y Golcifried (1971) consta de varios pasos:
+G     Identificación y descripción del problema de forma clara, rápida y precisa. Esta descripción ha de realizarse en unos términos 
+que impliquen conductas propias para resolver ese problema.
+G     Buscar varias posibles soluciones o respuestas que puede tener el problema considerándolo desde distintos puntos de vista; 
+hay que evitar responder impulsivamente al problema.
+G     Llevar a cabo un procedimiento de análisis y ponderación de las distintas alternativas de respuesta para decidir la solución más 
+idónea a ese problema y que vamos a realizar.
+G     Elegir los pasos que se han de dar para su puesta en práctica y llevarlos a cabo.
+G     Evaluar los resultados obtenidos al llevar a cabo la solución elegida. Si no son positivos, es necesario volver a anteriores pasos.
+Modelamiento encubierto
+
+Es una técnica creada por Cautela (1971). Está destinada a cambiar secuencias de conductas que son negativas para el individuo y 
+aprender conductas satisfactorias. Consiste en que el sujeto practica en la imaginación las secuencias de la conducta deseada de 
+forma que cuando adquiera cierta seguridad realizando imaginariamente esa conducta consiga llevarla a cabo en la vida real de una 
+forma eficaz.
+Técnicas de autocontrol
+El objetivo de estas técnicas es buscar que el individuo tenga control de la propia conducta a través del adiestramiento de su capacidad 
+para regular las circunstancias que acompañan a su conducta (circunstancias que anteceden a su conducta y circunstancias 
+consecuentes a esa conducta). "Estos procedimientos son muy útiles en el manejo y control en las conductas implicadas en situaciones 
+de estrés y son útiles no sólo para mejorar conductas que ya han causado problemas, sino también para prevenir la posible aparición 
+de conductas problemáticas" (Labrador, 1992).
+En el ámbito laboral, puede resultar especialmente útil fomentar el aprendizaje y la concienciación de los individuos en estrategias de 
+carácter organizativo tendentes a facilitar al individuo recursos para el ordenamiento de su tiempo en relación a las tareas que ha de 
+desempeñar (cuadro 3) o para reducir las demandas de trabajo exteriores. Dos ejemplos de esto último pueden ser la delegación (que 
+permita la distribución de las responsabilidades y los cometidos de una tarea entre varios sujetos y evite que sean una misma persona 
+o unas pocas los que "lleven" el peso del trabajo) y la negociación (que facilite al individuo la flexibilidad y la comprensión necesarias 
+para atender otros puntos de vista, para incluir otras variables en su análisis de la realidad, para adaptarse a las posibilidades reales, 
+para facilitar el intercambio y el diálogo con los otros, para buscar la colaboración y no la oposición, para buscar soluciones 
+negociadas, ... ).
+Cuadro 3: Alternativas para un mejor empleo del tiempo
+Bibliografía
+(1) CAMMANY, R. Y ALTARRIBA, F.X. 
+El estrés 
+Barcelona. TISA, La Vanguardia. (1989)
+(2) COMITÉ MIXTO OIT/OMS DE MEDICINA DEL TRABAJO 
+Identificación y control de los factores psicosociales nocivos en el trabajo 
+Ginebra. (1984)
+(3) FUNDACIÓN EUROPEA PARA LA MEJORA DE LAS CONDICIONES DE VIDA Y DE TRABAJO (CEE) 
+El estrés físico y psicológico en el trabajo 
+Ministerio de Trabajo y SS. (1982)
+(4) LABRADOR, F.J. 
+El estrés. Nuevas técnicas para su control 
+Madrid. Ediciones Temas Hoy. (1992)
+(5) LAZARUS, R.S. Y FOLKMAN S. 
+Estrés y procesos cognitivos 
+
+Barcelona. Ed. Martínez Roca. (1986)
+(6) MATTESON, M. Y IVANCEVICH, J. 
+Controlling Work Stress 
+San Francisco. Jossey Bass. (1987)
+(7) McKAY, M., DAVIS M. Y FANNING, P. 
+Técnicas cognitivas para el tratamiento del estrés 
+Barcelona. Ed. Martínez Roca. (1985)
+(8) PEIRÓ, J.M. 
+Psicología de la organización 
+Madrid. U.N.E.D. (1987)
+(9) PEIRÓ, J.M. Y SALVADOR, A. 
+Control del estrés laboral 
+Madrid. Ed. Eudema S.A. (1993)
+(10) PETERSEN, D. 
+Safety Management 
+New York, Aloray. Inc. (1988)
+(11) TROUVÉ, P., COELLO, F. Y OTROS 
+Nuevas tendencias de gestión de Recursos Humanos 
+Bilbao. Universidad de Deusto. (1990)
+(12) TURCOTTE, P.R. 
+Calidad de vida en el trabajo. Antiestrés y creatividad 
+México. Ed. Trillas (1986)
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-95-013-0 

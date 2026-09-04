@@ -1,0 +1,318 @@
+ 
+NTP 318: El estrés: proceso de generación en el ámbito laboral
+Le stress. Procès de génération en ambiance de travail 
+Stress. Process of generation in the labor ambit
+Redactor: 
+Félix Martín Daza 
+Licenciado en Psicología 
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO 
+Esta Nota Técnica de Prevención ofrece una exposición teórica tanto de los factores y procesos que toman parte en la generación de 
+relaciones que se establecen entre ellos. 
+Pretende resaltar los puntos de acuerdo entre varios autores y destacar algunas de las diferencias más importantes entre varios 
+modelos teóricos de manera que, ofrezca al lector los conceptos básicos utilizados por las distintas teorías y facilitar un análisis más 
+amplio y más preciso de esta problemática.
+Introducción
+La existencia de gran número de dolencias psicosomáticas, producto de los constreñimientos y exigencias de la sociedad actual, y muy 
+en especial en lo referido al ámbito laboral, sujeto a incesantes transformaciones en la organización y en las demandas del trabajo, ha 
+facilitado la difusión y la popularización de un término con el que, de un modo genérico, se define esta situación: el estrés. 
+En este auge del término también tienen gran importancia las investigaciones que se realizan sobre la dinámica interrelacional que se 
+establece en el individuo entre el ámbito físico y psíquico, de la que tal vez, el estrés, sea su más claro exponente. 
+Esta amplia utilización de la palabra, sin embargo, no tiene como resultado su clarificación (es decir, su alusión precisa a una 
+determinada etiología o sintomatología) sino que por el contrario, el término estrés es utilizado como un "cajón de sastre" para 
+referirnos a una amplia variedad de estados entre los que se encuentra el individuo afectado por muy diversas presiones. Por todo ello, 
+a la hora de hablar de estrés nos encontramos con grandes dificultades tanto para definirlo, acotarlo o explicarlo como para encontrar 
+una metodología para medirlo. El origen de estas dificultades tal vez estriba en la compleja naturaleza de este fenómeno. Esta 
+complejidad se produce tanto por las multitud y variabilidad de las causas que lo provocan (sujetas a la interacción de varios factores) 
+como por sus consecuencias con manifestaciones psicosomáticas e implicaciones en la conducta del individuo y con una gran 
+variabilidad interindividual. Además, constituye una dificultad el establecimiento de relaciones causa-efecto directas o el 
+establecimiento de una secuencia temporal en su desarrollo. 
+Fruto de estas dificultades es la proliferación de un gran número de definiciones que difieren tanto en la adjudicación del término 
+"estrés" (a las causas del mismo, a sus consecuencias, al proceso de generación), como a la hora de acentuar un determinado ámbito 
+de generación (físico, mental) o más concretamente en la importancia en la causalidad de un factor o un proceso concreto (anticipación 
+pesimista del futuro, percepción irreal, demandas excesivas...). 
+Toda esta problemática con respecto a esta terminología ha hecho que incluso algún autor sugiriera abandonar este término. No 
+obstante, el óptimo modelo comprensivo que el estrés nos ofrece para el análisis de gran parte de la dinámica bio-psico-social que se 
+da en el ámbito laboral, hace que parezca conveniente mantener la vigencia del término y buscar la clarificación de todos los aspectos 
+citados anteriormente. 
+El objetivo de este NTP no es tanto llegar a algún tipo de formulación teórica, conclusión o explicación como el de, a partir de la 
+recopilación de los estudios de varios autores, ofrecer un marco conceptual que facilite la comprensión de los distintos procesos y 
+factores que intervienen en la generación del estrés laboral. 
+Definición
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1991
+
+Una definición que tiene gran aceptación y que tal vez nos ofrezca una información que nos permita identificar al estrés psicosocial, es 
+la de Mc Grath (1970): "El estrés es un desequilibrio sustancial (percibido) entre la demanda y la capacidad de respuesta (del individuo) 
+bajo condiciones en la que el fracaso ante esta demanda posee importantes consecuencias (percibidas)". 
+Esta definición hace referencia a un proceso homeostático que es resultado del balance entre las demandas de la realidad y la 
+capacidad de respuesta del individuo, siendo modulado este balance por la percepción que el individuo tiene de sí mismo y del mundo. 
+Otros autores incluyen en sus definiciones el balance producido entre lo que el individuo necesita, espera o a lo que aspira y lo que la 
+realidad (en este caso, laboral) oferta para satisfacer esas necesidades, expectativas o aspiraciones. 
+Cuando hablamos del estrés nos referimos a un fenómeno con dimensiones fisiológicas y psicológicas. Algunos autores distinguen 
+entre estrés fisiológico o biológico (movilización general del organismo frente a un agente de estrés) y estrés psíquico (movilización 
+psíquica ante un agente de estrés). Sin embargo, con esta distinción se oculta una de las claves necesarias para la comprensión del 
+estrés: la continuidad existente entre el ámbito físico y psíquico. De hecho, se pueden establecer unas determinadas reacciones, 
+consecuencias o estímulos de naturaleza fisiológica y otros de naturaleza psicológica. Estos aspectos son fácilmente diferenciables; no 
+así otros aspectos más dinámicos o de más difícil aprehensión, como son los procesos y relaciones que se establecen entre estímulos 
+- reacciones - consecuencias y que no permiten separar y distinguirtan claramente el ámbito fisiológico del psicológico. Además, en la 
+realidad humana, los aspectos físicos y psíquicos no siguen procesos paralelos ni aislados sino que aparecen interrelacionados e 
+interactuantes (figura 1). 
+Proceso estímulos-consecuencias
+Hemos estado utilizando los términos "estímulo" o "agente de estrés", para referirnos a cualquier aspecto que constituya un factor de 
+desequilibrio en el individuo. Estos aspectos de los que hablamos pueden ser tanto relativos a las características de su trabajo como 
+ciertas características de las personas y los denominamos "estresores" por ser susceptibles de provocar o facilitar el estado de estrés. 
+La actuación de estos estresores en la generación del estrés es debido a su intensidad o magnitud, a la acumulación de varios de ellos 
+o a su prolongación en el tiempo. 
+Demandas del trabajo
+Hacen referencia a todo tipo de exigencias y características del trabajo y de su organización, que pueden ser factores 
+desencadenantes del estres. Para muchos autores sería la naturaleza de estas demandas la que originaría de forma primordial y por 
+encima de todo lo demás, el estrés. 
+Según esto, el estrés tendría su origen en el tipo de demandas exteriores que se producen. Sin embargo, la consideración única de 
+estos aspectos exteriores dejaría sin explicación las diferentes reacciones individuales de sujetos en una misma situación laboral . 
+Entre los estresores exteriores podemos destacar los siguientes: 
+G     Sobrecarga de trabajo: El volumen, la magnitud o complejidad de la tarea (y el tiempo disponible para realizarla) está por 
+encima de la capacidad del trabajador para responder a esa tarea.
+G     Infracarga de trabajo: El volumen del trabajo está muy por debajo del necesario para mantener un mínimo nivel de activación 
+en el trabajador.
+G     lnfrautilización de habilidades: Las actividades de la tarea están por debajo de la capacidad profesional del trabajador.
+G     Repetitividad: No existe una gran variedad de tareas a realizar (son monótonas y rutinarias) y/o son repetidas en ciclos de muy 
+poco tiempo.
+G     Ritmo de trabajo: El tiempo de realización del trabajo está marcado por los requerimientos de la máquina, concediendo la 
+organización poca autonomía para adelantar o atrasar su trabajo al trabajador.
+G     Ambigüedad de rol: Existe una inadecuada información al trabajador sobre su rol laboral y organizacional.
+G     Conflicto de rol: Existen demandas conflictivas, o que el trabajador no desea cumplir. Oposición ante las distintas exigencias 
+del trabajo, conflictos de competencia.
+G     Relaciones personales: Problemática derivada de las relaciones (dependiente o independientes del trabajo) que se establecen 
+en el ámbito laboral tanto con superiores y subordinados como con compañeros de trabajo.
+G     Inseguridad en el trabajo: Incertidumbre acerca del futuro en el puesto de trabajo (despido).
+G     Promoción: La organización dificulta o no ofrece canales claros a las expectativas del trabajador de ascender en la escala 
+jerárquica.
+G     Falta de participación: La empresa restringe o no facilita la iniciativa, la toma de decisiones, la consulta a los trabajadores 
+tanto en temas relativos a su propia tarea como en otros aspectos del ámbito laboral.
+G     Control: Existe una amplia y estricta supervisión por parte de los superiores, restringiendo el poder de decisión y la iniciativa de 
+los trabajadores.
+G     Formación: Falta de entrenamiento o de aclimatación previo al desempeño de una determinada tarea.
+G     Cambios en la organización: Cambios en el ámbito de la organización que suponga por parte del trabaJadorun gran esfuerzo 
+adaptativo que no esfacilitado por la empresa.
+G     Responsabilidad: La tarea del trabajador implica una gran responsabilidad (tareas peligrosas, responsabilidad sobre 
+personas ..)
+G     Contexto físico: Problemática derivada del ambiente físico del trabajo, que molesta, dificulta e impide la correcta ejecución de 
+
+las demandas del trabajo y que en algunos momentos por su peligrosidad puedan provocar en el individuo un sentimiento de 
+amenaza.
+Características de la persona
+Numerosos investigadores han demostrado que existe una influencia de ciertas características personales en la producción de estrés. 
+Esto no quiere decir que el solo hecho de tener una serie de características personales determinadas desencadenen por sí mismas el 
+estrés, sino que aumenta la vulnerabilidad de esos sujetos para que cuando se den unas determinadas situaciones o demandas, el 
+sujeto tenga más probabilidades de sufrir una situación de estrés. 
+El modo de actuación de estas características en la generación del estrés proviene de la descompensación, desequilibrio o 
+incongruencia entre lo que exteriormente es demandado u ofrecido y lo que los individuos necesitan, desean o son capaces de hacer. 
+Hay que considerar que esas características están afectadas por una gran variabilidad interindividual e, incluso, también son variables 
+en un mismo individuo a lo largo de su historia personal. 
+Las características personales a las que nos vamos a referir son aquellas que se ha constatado que tienen algún tipo de relación en la 
+generación del estrés. 
+Entre estas características personales existen ciertos aspectos de la personalidad que hacen a las personas más vulnerables al estrés: 
+G     Personalidad tipo A: Hace referencia a una tipologia de personalidad característica que se manifiesta en ciertos sujetos como 
+un interés desmesurado por la perfección y por el logro de metas elevadas, una implicación muy profunda con su profesión 
+(hasta el punto de considerar el trabajo como el centro de su vida), que lleva al desarrollo de grandes esfuerzos, a una tensión 
+constante, a una incapacidad de relajarse y a una preocupación constante por el tiempo (nunca encuentran tiempo suficiente 
+para hacer todo lo que quisieran). Estos sujetos son activos, enérgicos, competitivos, ambiciosos, agresivos, impacientes y 
+diligentes. 
+Este tipo de personalidad no es un rasgo estático de personalidad sino un estilo de comportamiento con el que las personas 
+responden habitualmente ante las situaciones y circunstancias que les rodean. Actúa como un condicionante que hace al sujeto 
+más sensible al estrés.
+G     Dependencia: Las personas poco autónomas toleran mejor un estilo de mando autoritario (supervisión estricta) y un ambiente 
+laboral muy normalizado y burocratizado. Sin embargo, tienen más problemas en situaciones que implican tomar decisiones o 
+cualquier tipo de incertidumbre y ambigüedad que las personas más independientes. Tienen más facilidad para delimitar el 
+ámbito laboral del extralaboral y, por lo tanto, les permite abstraerse mejor de la posible problemática en su ámbito laboral.
+G     Ansiedad: Las personas ansiosas experimentan mayor nivel de conflicto que las no ansiosas.
+G     Introversión: Ante cualquier problemática, los introvertidos reaccionan más intensamente que los extrovertidos, ya que son 
+menos receptivos al apoyo social.
+G     Rigidez: Las personas rígidas presentan un mayor nivel de conflicto y de reacciones desadaptadas, especialmente en 
+situaciones que implican un cambio y que requieren un esfuerzo adaptativo, que las personas flexibles.
+G     La formación, las destrezas y conocimientos adquiridos, la experiencia y la capacidad (intelectual y física): Tienen 
+capital importancia como fuente de estrés, por la posible incongruencia que se puede dar entre la posición ocupada (o el trabajo 
+desempeñado) y la capacidad o capacitación del trabajador. Así, la posición ocupada puede requerir de capacidades y 
+conocimientos superiores al nivel de preparación de la persona, o bien al contrario, la capacidad de la persona puede estar por 
+encima de lo que requiere el puesto que ocupa y ser esto una fuente de frustración e insatisfacción.
+G     La mala condición física y los malos hábitos de salud: Pueden disminuir de alguna manera la capacidad de enfrentarse a 
+los problemas de trabajo. 
+Existen otros aspectos que se consideran como posibles estresores, con un carácter más activo, ya que actúan como 
+demandas de la persona en la medida que modulan las intenciones y las conductas del individuo, el grado de autoexigencia, o 
+lo que el individuo exige al entorno.
+G     Las necesidades del individuo: Necesidad de contacto social, de intimidad, de reconocimiento personal, de autorrealización...
+G     Las aspiraciones: Deseos de logro personal, de alcanzar un determinado estatus, de dominar y controlar el trabajo...
+G     Las expectativas: Esperanzas que el individuo tiene de obtener de su trabajo ciertos beneficios personales, sociales...
+G     Los valores: La adhesión al principio de autoridad, importancia del trabajo o del status...
+Algunos autores creen que el estrés es producido de manera primordial por estas características personales debido a una 
+descompensación o a una deficiente correspondencia entre la capacidad o la habilidad del individuo y las expectativas o aspiraciones 
+de ese individuo.
+Sin embargo, parece más adecuado analizar la dinámica que se da en el estrés a partir de la interrelación y la comparación que se 
+establece entre las demandas del trabajo y las características de la persona. Normalmente, en esta transacción entre los dos grupos de 
+estresores se le da más importancia a las demanda del trabajo (se produce estrés porque las demandas del entorno superan a las 
+capacidades del individuo para afrontarlas), pero parece más correcto hablar de desajuste entre persona y ámbito laboral, teniendo en 
+cuenta que las características de la personas antes mencionadas no tienen un carácter estático y reactivo con respecto a las 
+demandas del entorno, sino que las expectativas, deseos y necesidades de la persona tienen un efecto dinámico y activo en la relación 
+con el entorno laboral y, en último término en la generación del estrés (Figura 2). 
+
+Fig. 2: Proceso de actuación de los estresores
+La interrelación que se da entre las demandas del trabajo y las características de la persona no es de carácter automático ni es una 
+comparación de carácter objetivo, sino que está mediatizada por la particular percepción que el individuo tiene de ella y, por lo tanto, es 
+influenciada por aspectos subjetivos. Es más, en la generación del estrés la significación e incluso la existencia de una posible 
+situación de desajuste o desequilibrio proviene de la apreciación que el sujeto haga de esa situación. 
+Por esto en la generación del estrés es muy importante comprender como el sujeto experimenta sus necesidades, deseos y 
+expectativas en relación con lo que el entorno ofrece o demanda. 
+Proceso de apreciación
+"El estrés y la tensión surgen de las interacciones que se dan entre unas percepciones del individuo sobre el entorno, la personalidad, 
+la amenaza experimentada y la conducta como respuesta a la amenaza" (Fineman, 1979). 
+En varios estudios se ha constatado la extraordinaria importancia que adquieren los mecanismos de recopilación cognitiva (percepción, 
+interpretación, evaluación) en la generación del estrés. Estos mecanismos de apreciación favorecen un determinado tipo de 
+razonamiento que lleva asociada la correspondiente alteración emocional. 
+La percepción es una compleja función psíquica que elabora los datos sensoriales llegados a la conciencia por medio de los sentidos. 
+Sin embargo, aquí cuando hablamos de percepción lo hacemos en un sentido más amplio. No solamente hace referencia a la 
+percepción que el sujeto tiene del medio a partir de datos sensoriales, sino también la percepción que tiene el sujeto de sí mismo (de 
+sus capacidades, deseos...). En cualquier caso, la percepción está influenciada por una serie de factores ligados a la historia personal 
+del sujeto (experiencia, formación, sensibilidad...). Estos aspectos de carácter emocional afectan al contenido percibido que 
+asimilamos. De la fidelidad que uno tenga en sus percepciones depende en gran medida su adaptación a la realidad. 
+La interpretación y la evaluación son funciones mediante las que, a partir de la observación de las circunstancias o el contexto que 
+rodean a una situación, se busca o intenta explicar la importancia o el significado de esa situación; esto nos permite obtener un juicio 
+acerca del carácter de esa situación. 
+La apreciación que tenemos de una situación depende de ciertos aspectos actuales que la contextualizan en el momento presente. Por 
+otra parte, existen ciertos factores ligados a la historia personal del sujeto (experiencia, formación, sensibilidad, características de 
+personalidad...) que conformarán una peculiar forma de percibir e interpretar la realidad; son los estilos cognitivos. Éstos arraigan en el 
+sujeto de forma muy consistente y a partir de ellos se explica en gran medida las diferencias en la forma de apreciar la realidad entre 
+sujetos que están en una misma situación. Existe además una forma de apreciación anticipatoria o prospectiva sobre las posibles 
+consecuencias de nuestras conductas y en general sobre nuestro porvenir, que también va a influir en la forma en la que el sujeto va a 
+apreciar la realidad actual. 
+El proceso de apreciación a partir de la información obtenida de la relación que se establece entre demandas-ofertas del entorno y 
+características-demandas de la persona ofrece una valoración positiva (situación motivadora, estrés, ajuste, equilibrio) o una valoración 
+negativa (emoción dolorosa, distrés, desequilibrio) de esa situación y orienta al individuo en la elaboración de las respuestas 
+específicas para enfrentarse a esa situación.
+Proceso de respuesta
+En general, ante un cambio de situación que afecte al individuo (PRESIÓN) se desencadena una reacción orgánica (TENSIÓN). Así, 
+cuando cualquier estímulo suponga un factor de desequilibrio que trastorne la estabilidad de nuestro medio interno se produce un 
+estado de alerta, de movilización, de preparación para controlar este cambio de situación. 
+En este sentido, esta activación no tiene en sí misma un carácter negativo. El sujeto no responde específicamente ante cualquier 
+demanda, es decir, no considera la naturaleza del estímulo (sea positivo o negativo) sino que se da una reacción orgánica y psicológica 
+común ante cualquier estímulo, a la que denominaremos "respuesta no específica". 
+Con respecto a la reacción orgánica, una investigación de Selye (1936) dio lugar a lo que se denomina Síndrome General de 
+Adaptación que consta de tres fases (figura 3). 
+
+Fig. 3: Síndrome general de adaptación
+G     Fase de reacción de alarma: Ante un estímulo estresante, en un primer momento, la resistencia baja por debajo de lo normal, 
+pero se produce una reacción automática encaminada a preparar el organismo para la acción, para la respuesta. 
+Se produce un aumento de la frecuencia cardiaca, aumenta la coagulabilidad de la sangre y su concentración en las zonas en 
+las que puede ser necesaria para la acción (músculos, cerebros, corazón). También aumenta la capacidad respiratoria y se 
+agudizan los sentidos. 
+Cuando el estímulo es intenso o se prolonga en el tiempo, aparece la fase de resistencia.
+G     Fase de resistencia: En la que desaparecen los cambios iniciales y aparecen otros de carácter más específico para 
+enfrentarse a la situación. Se alcanza un alto nivel de resistencia, de capacidad de esfuerzo frente a la situación. 
+Cuando el estímulo es excesivamente prolongado o alcanza u la gran intensidad y el individuo es incapaz de rechazarlo, 
+eliminarlo o superarlo, aparece la fase de agotamiento.
+G     Fase de agotamiento: Se produce la derrota de todas las estrategias adaptativas para afrontar el estímulo a una progresiva 
+extenuación de la energía que puede llevar a la enfermedad o incluso a la muerte. 
+Paralelamente a esta activación fisiológica se da una activación psicológica, también de carácter no específico. Ante un 
+determinado estímulo se produce un incremento de la capacidad de atención y concentración que permite el mantenimiento del 
+enfoque perceptivo de una forma continuada y precisa sobre ese estímulo.
+Con respecto a la secuencia temporal y causal seguida entre la respuesta no específica (activación fisiológica) y el proceso de 
+apreciación (evaluación cognitiva) existen divergencias entre varios autores (figura 4). 
+Fig. 4: Dos interpretaciones de la secuencia temporal estímulo ambiental-emoción dolorosa
+En la generación del estrés, según algunos autores (BECK, ELLIS, LAZARUS), un estímulo ambiental produce una evaluación 
+cognitiva negativa, a la que sucede una activación fisiológica y la consecuente ansiedad como emoción dolorosa. Según esto, lo que 
+pensamos precede a lo que sentimos. 
+Según otros (SCHACHTER, VALIAS), un estímulo ambiental produce una activación fisiológica, seguida de una interpretación negativa 
+de dicha activación y finalmente una emoción dolorosa. 
+Aunque estos dos esquemas discrepan sobre cómo y cuándo interactúan los aspectos físicos y psíquicos, sin embargo coinciden en 
+considerar como elemento fundamental en la generación del estrés, el aspecto cognitivo (lo que pensamos de los sucesos internos y 
+externos). 
+En realidad, parece que la respuesta no específica varía en magnitud en función del estímulo y de la evaluación cognitiva que se haga 
+de él, no así en el contenido de esa activación (movilización física, reacción de alarma...) que siempre será igual independientemente 
+del estímulo o de la evaluación cognitiva que de aquél se haga. La respuesta total a una situación tiene un componente no específico, 
+al que nos hemos referido, y un componente específico. La respuesta específica consiste en una serie de conductas concretas para 
+enfrentarse a la situación, a diferencia de la respuesta no específica, que tiene un carácter preparatorio. Así, se ponen en acción una 
+serie de mecanismos psicológicos y conductuales de un carácter muy diverso y variado, ya que esta respuesta no se produce 
+automáticamente, y variará su magnitud y su contenido en función de la naturaleza de la demanda (qué se nos requiere), en función de 
+la apreciación que el individuo haga de ese estímulo y en función también de ciertas capacidades del sujeto como, por ejemplo, la 
+capacidad de reproducir experiencias y conocimientos adquiridos anteriormente (memoria), la capacidad de encontrar nuevas 
+soluciones a un problema (creatividad), la capacidad para desarrollar el pensamiento según estructuras lógicas (razonamiento), etc. 
+Hemos estado hablando del origen de las respuestas referidas al ámbito externo, en el que el sujeto se enfrenta al entorno y que tienen 
+un contenido fundamentalmente conductual. Buscan la eliminación o modificación de las condiciones o situaciones que pueden dar 
+lugar a problemas. El sujeto evalúa y decide entre las posibles alternativas de respuesta aquella que va a contrarrestar los efectos 
+negativos que encuentra en la situación tal y como él ¡apercibe y posteriormente ejecuta esa respuesta. La eficacia de este proceso 
+está en función de una serie de factores entre los que cabe mencionar el grado de exactitud del proceso de apreciación, la experiencia 
+
+pasada y la situación actual del sujeto, la variedad y recursos disponibles, las capacidades del sujeto y la dificultad de la tarea. 
+Por otra parte, existe otro tipo de respuestas de carácter defensivo, referidas al ámbito interno y de carácter eminentemente 
+psicológico, con la misión de controlar el significado de la situación para neutralizar su carácter problemático y prevenir las posibles 
+consecuencias emocionales negativas. Estas respuestas defensivas son producto del proceso de apreciación en su intento de valorar 
+la tensión que puede provocar un determinado requerimiento de una forma positiva, como un reto motivador, o bien, de mantener la 
+posible emoción dolorosa dentro de unos márgenes tolerables para el individuo. El objetivo último de este proceso ante una 
+determinada situación es la de proteger al individuo de ser dañado tanto psicológica como fisiológicamente (figura 5). 
+Fig. 5: Proceso de valoración
+Las respuestas "internas" y "externas" están relacionadas. El fracaso en las respuestas defensivas (valoración negativa, emoción 
+dolorosa...) desencadenará la aparición de la sintomatología asociada al estrés y mermará la capacidad del individuo para enfrentarse 
+a la realidad. Por otra parte, el fracaso en la elección y/o ejecución de las respuestas de enfrentamiento con la realidad (respuestas 
+inadecuadas a las demandas) aportará información al individuo sobre los ineficaces resultados de su acción y posiblemente modificará 
+de forma negativa la valoración que el individuo ha hecho de la situación, incrementando sus niveles de estrés y mermando sus 
+respuestas defensivas o adaptativas. 
+Apoyo social
+Hasta este momento nos hemos referido a la intervención de aspectos físicos y psíquicos en la generación del estrés. Sin embargo, el 
+estrés es también un fenómeno de dimensiones sociales. Se ha hablado de que las relaciones interpersonales en el ámbito laboral son 
+un estresor reconocido. También son identificables consecuencias de carácter social generadas por el estrés. Sin embargo, las 
+relaciones sociales (tanto en el ámbito laboral como extralaboral) pueden actuar como un importante factor reductor de los niveles de 
+estrés, aunque se ignora por medio de qué mecanismo este apoyo social ejerce su efecto amortiguador. Hasta ahora hemos hablado 
+de diversos factores y procesos siguiendo su secuencia temporal ycausal de actuación en la generación del estrés, pero la dificultad de 
+establecer en qué punto ejerce el apoyo social su acción, hace que aparezca aparte de esa secuencia. 
+Según FRENCH (1973), se puede pensar que el apoyo social actúa al menos a cuatro niveles. 
+Es posible que reduzca los factores estresantes objetivos asociados al medio ambiente. Un ambiente social en el trabajo que sea 
+cordial, a través de la empatía y la comprensión entre los distintos individuos (sobre todo, si existen buenas relaciones interjerárquicas), 
+tal vez propicie una sensibilización que facilite la adaptación de las demandas de trabajo a las capacidades individuales. 
+Es posible que afecte a los estresores tal y como los percibimos. La amistad, el contacto social, pueden facilitar a través de la 
+comunicación interpersonal o por el contraste y comparación con otras personas en la misma situación, un mayor contacto con la 
+situación objetiva y una mayor exactitud en la valoración que el individuo hace de sí mismo. De esta forma, tendría el sujeto una 
+percepción más real, más objetiva de la realidad que está viviendo y reduciría las posibles distorsiones a las que puede llevar la 
+particular forma de percepción de cada individuo. 
+Es posible que reduzca las consecuencias experimentadas por el estrés. El contacto personal como expresión de afecto y comprensión 
+puede resultar un factor que facilite la descarga emocional y que frene la espiral de pensamiento negativos repetitivos que 
+desencadenan un proceso acumulativo de tensión. En este sentido, el apoyo social tendría un efecto terapéutico. Especialmente, el 
+apoyo social por parte de la familia y por parte de los superiores parece ser eficaz para atenuar los efectos que tiene el estrés 
+profesional sobre la salud. 
+Es posible que aumente los recursos de adaptación del sujeto. El apoyo social puede proporcionar al individuo un sentimiento de apoyo 
+y seguridad que es un elemento que acrecienta su capacidad de reacción y favorecen un sentimiento de dominio de la situación.
+Conclusión
+El objetivo de todas estas transacciones que se dan entre el individuo y la realidad es la búsqueda del equilibrio, de la adaptación a la 
+realidad. Cuando este proceso de interacción tiene éxito, la tensión que provoca es vivida por el sujeto como motivadora y satisfactoria. 
+El estrés no es más que el producto del fracaso del individuo en su intento de buscar un ajuste con la realidad, de adaptarse al entorno, 
+de tener un mínimo control sobre sí mismo, sobre el mundo y sobre su futuro inmediato. Lo característico del estrés es la vivencia de 
+una situación que el individuo no puede controlar, que le supera, como una emoción dolorosa, como un sentimiento de angustia, como 
+un miedo al futuro. Parece serpropio del estrés una sensación de peligro, de una amenaza que se hará efectiva en un futuro. Esos 
+sentimientos darán lugar a una serie de consecuencias psíquicas y sociales. También se produce la aparición de síntomas de carácter 
+físico por medio de unos mecanismos de interrelación de naturaleza psicosomática, aún no suficientemente explicados (figura 6). 
+
+Fig. 6: Esquema del proceso de generación del estrés
+Bibliografía
+(1) TURCOTTE, P.R. 
+Calidad de vida en el trabajo. Antiestrés y creatividad 
+México. Ed. Trillas (1986) 
+(2) TROUVÉ, P., COELLO, F. Y OTROS 
+Nuevas Tendencias de Gestión de Recursos Humanos 
+Bilbao. Universidad de Deusto. (1990) 
+(3) FUNDACIÓN EUROPEA PARA LA MEJORA DE LAS CONDICIONES DE VIDA Y DE TRABAJO (CEE). 
+El estrés físico y psicológico en el trabajo 
+Ministerio de trabajo y SS. (1982) 
+(4) LAZARUS, R.S. Y FOLKMAN S. 
+Estrés y procesos cognitivos 
+Barcelona. Ed. Martínez Roca. (1986) 
+(5) PEIRÓ, J.M. 
+Psicología de la organización 
+Madrid. U.N.E.D. (1987) 
+(6) CAMMANY, R. Y ALTARRIBA, F.X. 
+El estrés 
+Barcelona. TISA, La Vanguardia. (1989) 
+(7) COMITÉ MIXTO OIT/OMS DE MEDICINA DEL TRABAJO. 
+Identificación y control de los factores psicosociales nocivos en el trabajo 
+Ginebra. (1984) 
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-94-008-1 

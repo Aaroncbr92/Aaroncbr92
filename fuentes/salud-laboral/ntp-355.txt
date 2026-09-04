@@ -1,0 +1,235 @@
+ 
+NTP 355: Fisiología del estrés
+Physiologie du stress 
+Physiological responses to stress
+Redactora:
+Silvia Nogareda Cuixart 
+Licenciada en Medicina y Cirugía 
+Esp. Medicina de Empresa
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Objetivo
+El objetivo de esta NTP es dar una visión sobre los procesos fisiológicos que se producen en el organismo ante una situación o un 
+estímulo estresante. El conocimiento de dicho proceso facilitará la labor preventiva al poder detectar indicadores precoces de deterioro 
+de la salud.
+Introducción
+El organismo siempre se encuentra en un estado de estrés mínimo que, ante determinadas situaciones, se incrementa pudiendo 
+producir un efecto beneficioso o negativo, dependiendo de si la reacción del organismo es suficiente para cubrir una determinada 
+demanda o ésta "supera" a la persona . Este nivel de equilibrio dependerá de los factores individuales (disposición biológica y 
+psicológica) de las distintas situaciones y experiencias.
+Un determinado grado de estrés estimula el organismo y permite que éste alcance su objetivo, volviendo a la "normalidad" cuando el 
+estímulo ha cesado. Por ejemplo, cuando un atleta intenta conseguir un buen resultado en una competición, está sometido a un estrés 
+que implica un aumento de la actividad muscular (más irrigación, el corazón late mas rápido, etc.) lo que le ayudará a alcanzar el éxito 
+y conseguir su objetivo. Una vez finalizadas las pruebas atléticas, se produce un descenso de las constantes y el organismo vuelve a 
+su estado basal.
+Cuando se mantiene la presión y se entra en el estado de resistencia, las personas empiezan a tener una sensación de disconfort 
+(tensión muscular, palpitaciones, etc.). Si continúa el estresor, se llega al estado de agotamiento, con posibles alteraciones funcionales 
+y/u orgánicas: son las llamadas "enfermedades de adaptación". Estos síntomas son percibidos como negativos por las personas y 
+producen preocupación, lo que a su vez agrava los síntomas y así puede llegar a crearse un círculo vicioso.
+Respuesta fisiológica del estrés
+La respuesta fisiológica es la reacción que se produce en el organismo ante los estímulos estresores. Ante una situación de estrés, el 
+organismo tiene una serie de reacciones fisiológicas que suponen la activación del eje hipofisosuprarrenal y del sistema nervioso 
+vegetativo.
+El eje hipofisosuprarrenal (HSP) está compuesto por el hipotálamo, que es una estructura nerviosa situada en la base del cerebro que 
+actúa de enlace entre el sistema endocrino y el sistema nervioso, la hipófisis, una glándula situada asimismo en la base del cerebro, y 
+las glándulas suprarrenales, que se encuentran sobre el polo superior de cada uno de los riñones y que están compuestas por la 
+corteza y la médula.
+El sistema nervioso vegetativo (SNV) es el conjunto de estructuras nerviosas que se encarga de regular el funcionamiento de los 
+órganos internos y controla algunas de sus funciones de manera involuntaria e inconsciente.
+Ambos sistemas producen la liberación de hormonas, sustancias elaboradas en las glándulas que, transportadas a través de la sangre, 
+excitan, inhiben o regulan la actividad de los órganos (figura 1).
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1992
+
+Fig. 1: Producción de hormonas por el sistema nervioso vegetativo y el eje hipofisosuprarrenal
+Eje hipofisosuprarrenal
+Se activa tanto con las agresiones físicas como con las psíquicas y, al activarse, el hipotálamo segrega la hormona CRF (factor 
+liberador de corticotropina), que actúa sobre la hipófisis y provoca la secreción de la hormona adenocorticotropa (ACTH). Esta 
+secreción incide sobre la corteza de las glándulas suprarrenales, dando lugar a la producción de corticoides que pasan al torrente 
+circulatorio y producen múltiple incidencia orgánica, como se verá más adelante. Los corticoides que se liberan debido a la ACTH son:
+G     Los glucocorticoides: El más importante es el cortisol que facilita la excreción de agua y el mantenimiento de la presión 
+arterial; afecta a los procesos infecciosos y produce una degradación de las proteínas intracelulares. Tiene, asimismo, una 
+acción hiperglucemiante (aumenta la concentración de glucosa en sangre) y se produce una aumento de calcio y de fosfatos 
+liberados por los riñones, y de lípidos.
+G     Los andrógenos: Son las hormonas que estimulan el desarrollo de las características secundarias masculinas y estimulan el 
+aumento tanto de la fuerza como de la masa muscular.
+Sistema nervioso vegetativo
+Este sistema mantiene la homeostasis del organismo. La activación simpática supone la secreción de catecolaminas, que son:
+G     La adrenalina segregada por parte de la médula suprarrenal, especialmente en casos de estrés psíquico y de ansiedad.
+G     La noradrenalina segregada por las terminaciones nerviosas simpáticas, aumentando su concentración principalmente en el 
+estrés de tipo físico, en situaciones de alto riesgo o de agresividad.
+Estas hormonas son las encargadas de poner el cuerpo en estado de alerta preparándolo para luchar o huir. Son las que permiten 
+enlazar el fenómeno del estrés con los fenómenos psicofisiológicos de la emoción. Ambas intervienen en los siguientes procesos:
+G     Dilatación de las pupilas.
+G     Dilatación bronquial.
+G     Movilización de los ácidos grasos, pudiendo dar lugar a un incremento de lípidos en sangre (posible arterioescierosis).
+G     Aumento de la coagulación.
+G     Incremento del rendimiento cardíaco que puede desembocar en una hipertensión arterial.
+G     Vasodilatación muscular y vasoconstricción cutánea.
+G     Reducción de los niveles de estrógenos y testosterona, que son hormonas que estimulan el desarrollo de las características 
+sexuales secundarias masculinas.
+G     Inhibición de la secreción de prolactina, que influye sobre la glándula mamaria.
+G     Incremento de la producción de tiroxina, que favorece el metabolismo energético, la síntesis de proteínas, etc.
+Vemos pues que, ante una situación de estrés, existe un compromiso de todo el organismo.
+Fases del estrés: síndrome general de adaptación
+El origen histórico del concepto de estrés parte de las investigaciones que realizó Hans Selye en el año 1936 y que dieron lugar al 
+llamado síndrome general de adaptación.
+Ante una situación de amenaza para su equilibrio, el organismo emite una respuesta con el fin de intentar adaptarse. Selye define este 
+fenómeno como el conjunto de reacciones fisiológicas desencadenadas por cualquier exigencia ejercida sobre el organismo, por la 
+incidencia de cualquier agente nocivo llamado estresor. Se puede definir, pues, como la respuesta física y específica del organismo 
+ante cualquier demanda o agresión, ante agresores que pueden ser tanto físicos como psicológicos (figura 2).
+
+Fig. 2: Síndrome general de adaptación (Hans Selye, 1936)
+En este proceso de adaptación por parte del organismo se distinguen las fases de alarma, de adaptación y de agotamiento.
+Fase de alarma
+Ante la aparición de un peligro o estresor se produce una reacción de alarma durante la que baja la resistencia por debajo de lo normal. 
+Es muy importante resaltar que todos los procesos que se producen son reacciones encaminadas a preparar el organismo para la 
+acción de afrontar una tarea o esfuerzo (coping).
+Esta primera fase supone la activación del eje hipofisosuprarrenal; existe una reacción instantánea y automática que se compone de 
+una serie de síntomas siempre iguales, aunque de mayor a menor intensidad:
+G     Se produce una movilización de las defensas del organismo.
+G     Aumenta la frecuencia cardiaca.
+G     Se contrae el bazo, liberándose gran cantidad de glóbulos rojos.
+G     Se produce una redistribución de la sangre, que abandona los puntos menos importantes, como es la piel (aparición de palidez) 
+y las vísceras intestinales, para acudir a músculos, cerebro y corazón, que son las zonas de acción.
+G     Aumenta la capacidad respiratoria.
+G     Se produce una dilatación de las pupilas.
+G     Aumenta la coagulación de la sangre.
+G     Aumenta el número de linfocitos (células de defensa).
+Fase de resistencia o adaptación
+En ella el organismo intenta superar, adaptarse o afrontar la presencia de los factores que percibe como una amenaza o del agente 
+nocivo y se producen las siguientes reacciones:
+G     Los niveles de corticoesteroides se normalizan.
+G     Tiene lugar una desaparición de la sintomatología.
+Fase de agotamiento
+Ocurre cuando la agresión se repite con frecuencia o es de larga duración, y cuando los recursos de la persona para conseguir un nivel 
+de adaptación no son suficientes; se entra en la fase de agotamiento que conlleva lo siguiente:
+G     Se produce una alteración tisular.
+G     Aparece la patología llamada psicosomática.
+Respuestas del organismo: consecuencias biológicas del estrés
+La respuesta del organismo es diferente según se esté en una fase de tensión inicial -en la que hay una activación general del 
+organismo y en la que las alteraciones que se producen son fácilmente remisibles, si se suprime o mejora la causa- o en una fase de 
+tensión crónica o estrés prolongado, en la que los síntomas se convierten en permanentes y se desencadena la enfermedad. En el 
+cuadro 1 se exponen varios ejemplos de las alteraciones que se producen en algunos parámetros.
+Cuadro 1: Consecuencias biológicas del estrés
+
+Modelo biopsicosocial
+Este modelo relaciona una situación determinada y la vivencia de esta situación, con las consecuencias fisiológicas expuestas hasta 
+ahora y nos proporciona una estrategia para localizar factores ambientales estresantes y analizar sus consecuencias en el aspecto 
+individual.
+Hemos visto que cualquier situación que reconocemos (proceso cognitivo) da señales de la corteza cerebral al hipotálamo y, vía el 
+sistema nervioso vegetativo (automático), a la médula de las glándulas suprarrenales, que responden liberando adrenalina y 
+noradrenalina, que son las llamadas hormonas del estrés; estas hormonas movilizan nuestro cuerpo y nos hacen luchar o abandonar 
+(fight or flight).
+Cuando la situación produce sentimientos de distrés o desamparo, el cerebro envía también mensajes al córtex de los suprarrenales, 
+que segrega otra hormona del estrés: el cortisol, que juega un papel importante en el sistema inmunológico. Esto es más complejo e 
+incluye la liberación de ACTH de la glándula pituitaria.
+Según la percepción que se tenga de las demandas de trabajo, la respuesta del organismo será diferente; ya Selye distinguía entre 
+reacciones agradables o eutress y desagradables o distress.
+Las reacciones fisiológicas dependerán de la percepción que se tenga de las demandas de trabajo, la respuesta del organismo será 
+diferente en cada caso; por ejemplo, las tareas exigentes pero controlables inducirían esfuerzo pero sin distrés. A nivel fisiológico se 
+traduce en un aumento de las catecolaminas y la supresión activa de la secreción de cortisol.
+Los estudios actuales se centran en dos dimensiones que son, por un lado, el nivel de actividad o pasividad que implica la tarea, y por 
+otro, la dimensión afectiva según el estado de humor sea positivo o negativo; en cada caso se producen una serie de reacciones cuyo 
+resultado es el afrontamiento (coping) de la situación no deseada o el vencimiento ante la misma.
+Los estudios experimentales basados en esta teoría han permitido identificar dos características específicas de los procesos de trabajo, 
+en función de la percepción que se tenga del trabajo o de la actitud ante el mismo: positiva (eutrés) o negativa (distrés) y en relación al 
+contenido de la tarea: actividad o pasividad.
+La combinación de ambas variables conduce a la identificación de algunas de las características específicas de los procesos de trabajo 
+que promueven determinadas actitudes y que se relacionan con las respuestas neuroendocrinas y son las siguientes (figura 3):
+
+Fig. 3: Relación entre procesos de trabajo y respuestas neuroendocrinas
+G     Esfuerzo y eutrés: En este grupo se puede incluir a las personas que desarrollan un tipo de trabajo de gran control personal, 
+creatividad, y muy dedicados a su trabajo. En estos casos se produce un aumento de la secreción de catecolaminas, y el 
+cortisol se halla muy bajo o inexistente. Se encuentran en este grupo, por ejemplo, los empresarios, los artistas, los científicos, 
+los artesanos, etc., pues en este tipo de profesiones se suelen realizar trabajos con un alto grado de autocontrol y autonomía. 
+Parece ser que, el hecho de que el cortisol esté bajo hace decrecer el riesgo de sufrir un ataque cardíaco.
+G     No esfuerzo y eutrés: En este caso, la no actividad se acepta como algo positivo, dándose un descanso de cuerpo y mente. El 
+nivel de las hormonas está bajo.
+G     Esfuerzo y distrés: Esta situación se da en aquellos trabajos que implican elevadas exigencias de producción, pero en los que 
+la persona tiene un bajo control de la situación. Es común en los trabajos repetitivos, y en los trabajos en cadena. El esfuerzo 
+va acompañado de un aumento de la secreción de las catecolaminas que, a su vez, provoca efectos negativos, lo que tiende a 
+aumentar la secreción de ambas hormonas: catecolaminas y cortisol.
+G     Poco esfuerzo y distrés: Personas sin empleo y en trabajos muy coercitivos, en los que la persona tiene muy poca o ninguna 
+autonomía. Se acompaña de una liberación de hormonas del estrés, en particular de cortisol.
+Para resumir todo ello, podríamos decir que el aumento de catecolaminas es debido a la exigencia de tener que rendir y el descenso 
+de cortisol significa poder afrontar la situación.
+Técnicas preventivas de carácter fisiológico
+Así como la reacción del organismo frente al estrés tiene un componente fisiológico, también la fisiología puede ayudar a las personas 
+a afrontar una situación de estrés, de manera que se reduzcan sus efectos negativos sobre la salud. Desde el punto de vista de las 
+condiciones de trabajo, es evidente que la prevención debe ir encaminada a evitar que se den situaciones que puedan provocar estrés; 
+pero. a veces, ocurre que estas circunstancias no pueden cambiarse o que una situación no estresante, desde el punto de vista 
+objetivo, es vivida por alguna persona como una agresión. Cuando se dan esta clase de circunstancias está especialmente indicado el 
+uso de este tipo de técnicas.
+Mediante la realización de unos determinados ejercicios físicos, estas técnicas enseñan a controlar los efectos fisiológicos del estrés, a 
+fin de disminuir la sintomatología que se percibe como negativa desagradable y que, en consecuencia, crea ansiedad. Algunas de ellas 
+son de aprendizaje complejo y requieren, a veces, un especialista al menos durante la fase inicial. Las más conocidas y practicadas 
+hoy en día son las que se citan a continuación:
+G     Técnicas de relajación (Jacobson, Schultz). Actualmente son las más utilizadas en el mundo occidental. Parten del principio de 
+que es imposible estar relajado físicamente y tenso emocionalmente. Se basa en la relajación muscular que supone a su vez la 
+relajación del sistema nervioso.
+G     Técnicas de respiración.
+G     Meditación y relajación mental.
+Es importante reseñar que estas técnicas no sirven para evitar o anular el problema sino que enseñan a controlar los efectos 
+fisiológicos del estrés, a contrarrestar la sintomatología orgánica desagradable que nos crea ansiedad; esto se logra mediante unos 
+determinados ejercicios realizados de forma consciente, con la atención concentrada en las reacciones que nos producen.
+Valoración/prevención
+Los recientes avances en los conocimientos acerca de cómo el cerebro regula las funciones endocrinas han desembocado en una 
+reorientación en la investigación psicobiológica del estrés humano y del proceso de afrontamiento ante las situaciones estresantes. 
+Hasta hace poco, el cerebro y el sistema endocrino se consideraban entidades separadas; se veía al cerebro como mediador entre el 
+organismo y el entorno exterior. Por otro lado, se consideraba que el sistema endocrino estaba orientado hacia el entorno interno del 
+cuerpo, la regulación del crecimiento, el metabolismo, y la reproducción.
+Hoy en día, en cambio, sabemos que entre el cerebro y el sistema endocrino existe una interrelación constante, que puede seguirse de 
+forma continua mediante el empleo de las modernas técnicas de monitorización ambulatoria, que permiten conocer de manera 
+
+instantánea qué es lo que hace aumentar la presión sanguínea, latir el corazón más rápidamente, o contraer los músculos.
+Estas técnicas permiten monitorizar las respuestas del cuerpo bajo unas condiciones reales, inclusive en el puesto de trabajo, sin que 
+interfieran en la actividad normal de las personas. De esta manera se pueden identificar aspectos negativos o adversos del entorno 
+psicosocial, así como los factores de protección, amortiguadores que protegen a las personas contra influencias potencialmente 
+nocivas.
+Uno de los métodos que se utiliza actualmente para el estudio de las respuestas fisiológicas del estrés es el análisis de las alteraciones 
+hormonales que se producen en el organismo. Las hormonas del estrés pueden ser determinadas en sangre, orina y saliva; y las 
+técnicas que se utilizan principalmente son la fluorometría, la cromatografía líquida y el inmunoensayo. Al hacer una determinación 
+analítica hay que tener en cuenta las variaciones que sufren estas sustancias a lo largo del ciclo circadiano; a grandes rasgos, puede 
+decirse que alcanzan el punto máximo por la mañana y van decreciendo a lo largo del día.
+Un objetivo que deberían conseguir las personas que se dedican a la investigación del estrés es identificar aquellos factores del 
+ambiente laboral que provocan respuestas fisiológicas, y luego determinar cuándo estas respuestas pueden ser de adaptación y 
+promueven la salud y cuándo provocan una desadaptación y son potencial mente dañinas para la salud.
+Bibliografía
+(1) AKROT, M. et al. 
+Facteurs de risque des céphalées psychogènes en milieu professionnel 
+Arch. Mal. Prof., 1992, 53, nº4, 275-278
+(2) BLUNDELL, J. 
+Physiological Psychology 
+London, Methuen & Co. Ltd., 1975
+(3) HENNINGSEN, G.M. et al. 
+Measurement of salivary immunogiobulin A as an immunologic blomaker of job stress 
+Scand. J. Work Environ. Health. 1992, 18 Suppl. 2:133-6
+(4) JOHNSON, J. et al. 
+The psychosocial work environment; work, organization, democratization and health 
+Amityville, New York, Baywood Publishing Co. Inc.. 1991
+(5) LEVI, L. 
+Stress in industry: Causes, effects and prevention. 
+Geneva, OIT, Occup. Safety and Health Series nº 51,1984
+(6) Occupational Stress. Health and performance at work 
+Littleton, Massachusetts, PSG Publishing Co., Inc., 1986
+(7) Psychosocial factors at work and their relation to health 
+Geneva, World Health organization, 1987
+(8) RUTENFRANZ, J. et al. 
+Comparison of two analytical procedures for the determination of free urinary catecholamines under the demand of shiftwork 
+experiments 
+Int. Arch. Occup. Environ. Health, 1988, 61: 89-93
+(9) SELYE, H. 
+The stress concept: past, present and future, en COOPER, C.L., stress research: issues for the eighties 
+Chichester, Ed. John Wiley & sons, 986
+(10) VALDÉS, M., FLORES, T. 
+Psicobiología del estrés 
+Ed. Martínez Roca S.A., 1990
+(11) VIVOLI, G. et al. 
+Biochemical and haemodynamic indicators of stress in truck drivers 
+Ergonomics, 1993, vol. 36, nº 9, 1089-1097
+(12) ZEIER, H. 
+Workload and psychophysiological stress reactions in air traffic controllers 
+Ergonomics, 1994, 37 (3), 525-539
+   © INSHT

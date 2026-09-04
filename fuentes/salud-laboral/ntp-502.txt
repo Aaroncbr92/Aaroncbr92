@@ -1,0 +1,356 @@
+ 
+NTP 502: Trabajo a turnos: criterios para su análisis
+Travail posté: critères pour l’analyse 
+Shiftwork: Analysis criteria
+Redactoras:
+Clotilde Nogareda Cuixart 
+Licenciada en Psicología
+Silvia Nogareda Cuixart 
+Licenciada en Medicina
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+El trabajo nocturno y a turnos está cada vez más extendido por distintas razones: económicas, por necesidades de producción o por 
+motivos sociales. Desde el punto de vista de salud laboral, sin embargo, el trabajo a turnos debe organizarse teniendo en cuenta que 
+se han de prevenir sus implicaciones sobre la salud de los trabajadores, tanto a nivel físico como psicológico o de interacción social. 
+(ver NTP-455).
+A pesar de que las alteraciones debidas al trabajo a turnos están muy estudiadas y de que existen numerosas investigaciones que 
+avalan las recomendaciones de organización de los mismos dirigidas a paliar lo máximo posible sus consecuencias negativas, tanto 
+para las personas como para las organizaciones, y a pesar de que es frecuente encontrar referencias en la bibliografía especializada, 
+es difícil encontrar en nuestro país métodos validados que permitan la evaluación de estos factores, por lo que se requerirá para su 
+evaluación de personal especializado que diseñe o adapte en cada caso las técnicas idóneas.
+El objetivo de esta Nota Técnica de Prevención es presentar las variables que suelen incluirse en los estudios de estos factores así 
+como los indicadores que se utilizan y la metodología de análisis aplicada en cada caso (escala, cuestionario, etc.).
+Se hace referencia a estudios que se basan en apreciaciones de los propios trabajadores, quedando entendido que para el análisis de 
+algunas variables, concretamente las que están relacionadas con alteraciones fisiológicas, puede además recurrirse a las técnicas 
+específicas de valoración; por ejemplo medición de niveles hormonales, frecuencia cardiaca, etc.
+Dado que las baterías destinadas al estudio de la turnicidad abarcan distintas variables es conveniente la inclusión de distintas técnicas 
+específicas, siendo recomendable, para no hacer una prueba excesivamente larga y fatigosa recurrir a las versiones reducidas cuando 
+éstas existan, reservando las versiones más largas para estudios en profundidad o científicos sobre este tema.
+Uno de los métodos más citados en la bibliografía especializada es el Standard Shiftwork Index (SSI) desarrollado por Folkard y col. 
+Consiste en una batería de cuestionarios autoadministrados que contemplan las variables más significativas en la investigación de la 
+turnicidad y sirve de ejemplo de la complejidad que comporta el estudio de las consecuencias del trabajo a turnos debido a la cantidad 
+de variables que hay que considerar. En el cuadro 1 se resumen las variables utilizadas por este método así como los indicadores y la 
+técnica que se aplica para el estudio de cada una de ellas.
+Cuadro 1. Variables del standard Shiftwork Index (SSI)
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1998
+
+VARIABLES A ANALIZAR
+INDICADORES
+TÉCNICA
+Variables asociadas a la falta de 
+sueño
+Alteraciones del sueño: hábitos y 
+calidad (horarios y duración en 
+los distintos turnos)
+Escala Likert
+Fatiga crónica: sensación de 
+vigor y energía vs sensación de 
+cansancio
+Escala Likert
+Problemas asociados a la salud 
+física y mental
+Salud física: síntomas digestivos, 
+cardiovasculares, enfermedades, 
+medicación, hábitos (cafeína, 
+tabaco, alcohol), alteraciones 
+menstruales
+Escala Likert
+Salud global
+Test de Goldberg
+Ansiedad
+Cuestionario CSAQ 
+(Schwartz)
+Personalidad
+EPI (versión de 12 ítems)
+Vida familiar y social
+Satisfacción con la disponibilidad 
+de tiempo
+Escala Likert
+Satisfacción con el trabajo
+Escala de Hackman y 
+Oldman (parcialmente)
+VARIABLES MODERADORAS
+INDICADORES
+TÉCNICA
+Circunstancias individuales
+Edad, sexo, antigüedad en 
+turnos, hijos o personas a su 
+cargo
+Cuestionario
+Factores de personalidad
+Tipo circadiano
+Cuestionario
+Extraversión
+EPI (Eysenck)
+Estrategia de adaptación
+Escala Likert
+Información general
+Características del sistema de 
+turnos: secuencia, duración, 
+frecuencia de trabajo nocturno, 
+regularidad de los turnos
+Cuestionario
+Contexto laboral: tipo de tarea, 
+situación en la organización
+Cuestionario
+En esta Nota Técnica se hará referencia a este método y se expondrán las variables que contiene, citándose también alguna otra 
+herramienta o ejemplo que puede aplicarse o adaptarse para el estudio de la problemática de la turnicidad.
+Factores que deben analizarse
+Los aspectos que se ven afectados con el trabajo a turnos pueden clasificarse en tres grandes grupos: alteraciones del sueño, 
+problemas de salud, tanto física como psicológica, y dificultades en la vida familiar y social.
+Problemas debidos a la falta de sueño
+Los indicadores se basan en evaluar las dificultades de tener un sueño de calidad para que sea realmente reparador y la 
+sintomatología asociada a estados de fatiga crónica .
+Para ello es necesario averiguar, generalmente a través de un cuestionario, el número de horas dormidas y el horario en el que se 
+duerme, ya que es sabido que la calidad del sueño diurno no es la misma que la del nocturno, siendo este último el que se considera 
+como sueño reparador y cuya falta puede dar lugar a estados de fatiga crónica. Ésta puede estimarse a través de algunos de sus 
+síntomas, mediante una escala tipo Likert a partir de indicadores de sensación de cansancio y falta de energía. (Ver cuadro 2)
+Cuadro 2. Indicadores de fatiga
+
+G     GENERALMENTE ME SIENTO LLENO DE ENERGÍA
+G     NORMALMENTE ESTOY AGOTADO
+G     GENERALMENTE ME SIENTO BASTANTE ACTIVO
+G     ME ENCUENTRO CANSADO CASI SIEMPRE
+G     GENERALMENTE ME SIENTO LLENO DE FUERZA
+G     NORMALMENTE ME SIENTO APÁTICO
+G     GENERALMENTE ME SIENTO ACTIVO
+G     A MENUDO ESTOY EXHAUSTO
+G     NORMALMENTE ME SIENTO LLENO DE VIDA
+G     LA MAYORÍA DE LAS VECES ME SIENTO CANSADO
+Estado de salud
+Para la valoración de los aspectos referentes a la salud física algunos autores incluyen también una escala en la que se contemplan: 
+síntomas digestivos, síntomas cardiovasculares, enfermedades, medicación, hábitos (tabaco, alcohol, cafeína...), alteraciones 
+menstruales, etc.
+Para la evaluación de los aspectos psicológicos se aplican habitualmente pruebas que ya han mostrado su validez y que pueden 
+encontrarse en el mercado especializado. Suelen incluirse pruebas sobre ansiedad (CSAQ de Schwartz, STAI..) o de personalidad 
+(EPI).
+Algunos métodos recurren a cuestionarios globales de salud como el de Goldberg o el Test de Salud Total de Langner-Amiel (NTP-421)
+Vida social y familiar
+Puesto que el trabajo a turnos repercute en los aspectos de la salud relativos a la necesidad de equilibrio a nivel social, en los estudios 
+de la turnicidad se contempla el grado de satisfacción o de interferencia de los horarios de trabajo con las actividades de ocio, las 
+obligaciones domésticas y otros quehaceres de la vida cotidiana.
+El SSI ha desarrollado una escala específica tipo Likert en la que se incluyen la satisfacción con la cantidad de tiempo que se dispone 
+para las actividades sociales (deportes, hobbies...) o familiares (cuidado de hijos u otros familiares, compras, reparaciones etc.). (Ver 
+cuadro 3).
+Cuadro 3. Vida social y familiar
+GRADO DE SATISFACCIÓN CON LA CANTIDAD DE TIEMPO PARA… 
+G     ACTIVIDADES O DEPORTES
+G     PAREJA Y FAMILIA DIRECTA
+G     AMIGOS
+G     ACTOS CULTURALES, SALIR DE NOCHE
+G     FORMACIÓN
+G     ATENDER DISTINTAS NECESIDADES (BANCO, CORREO, MÉDICOS, REPARACIONES …)
+G     HACER LA COMPRA DIARIA
+G     IR DE COMPRAS
+G     TAREAS DOMÉSTICAS
+G     PARA UNO MISMO 
+Se añaden además unas preguntas sobre la impresión subjetiva sensación de hasta qué punto se ve alterada la posibilidad de relación 
+con los demás.
+Variables moderadoras
+Además de tener en cuenta los factores que se ven más directamente afectados por la turnicidad es conveniente contemplar otros 
+aspectos que pueden influir en estas consecuencias y que deben ser considerados para conseguir un estudio válido y fiable.
+Estas variables hacen referencia a una serie de características personales que condicionan la vulnerabilidad individual frente a la 
+turnicidad. Esta información es de utilidad especialmente para poder diseñar estrategias de afrontamiento o para prever recursos que 
+ayuden a paliar los efectos negativos del trabajo a turnos.
+Circunstancias individuales
+Es evidente que siempre que se trate de estudiar factores en los que interviene la posibilidad de adaptación de la persona deben 
+considerarse las características individuales, tanto endógenas (sexo, personalidad, edad, etc.) como exógenas (hijos o personas a su 
+cargo, entorno sociocultural, etc.), si bien es imposible predecir la tolerancia al trabajo a turnos a partir de estas variables.
+
+Si admitimos que el concepto de tolerancia incluye no sólo las posibles reacciones biológicas, sino también las interacciones con otros 
+ámbitos de la vida, y, a pesar de que no pueda establecerse a priori el peso de estos factores, no pueden obviarse en el estudio de la 
+turnicidad.
+La influencia de algunas de estas variables parece ser más evidente que la de otras. Por ejemplo, numerosos estudios han establecido 
+que los efectos adversos del trabajo por turnos se incrementan con la edad.
+En cambio, las diferencias debidas al sexo parecen deberse más a condicionantes sociales cuidado de la casa, de los hijos, etc. que a 
+aspectos biológicos. Algunos autores han llegado a la conclusión que los ritmos circadianos de hombres y mujeres reaccionan de la 
+misma forma. Otros en cambio creen que las mujeres pueden ser más vulnerables debido a la mayor complejidad de sus ritmos 
+hormonales. Por ejemplo existen algunos estudios sobre las posibles alteraciones de la menstruación, pero no se han establecido 
+conclusiones definitivas al respecto. Lo mismo ocurre con el embarazo, aunque no existen conclusiones definitivas, algunos estudios 
+han aportado datos sobre la influencia de la turnicidad sobre frecuencias más elevadas de partos prematuros, bajo peso del feto al 
+nacer o riesgo espontáneo de aborto. Parece ser, asimismo, que existe una relación entre el trabajo a turnos y una menor fecundidad 
+en la mujer. (Ver cuadro 4)
+Cuadro 4. Circunstancias individuales
+G     EDAD, SEXO, SITUACIÓN FAMILIAR
+G     HORAS A LA SEMANA TRABAJADAS POR SU PAREJA Y SU HORARIO HABITUAL
+G     QUE LE PARECE A SU PAREJA QUE VD. TRABAJE POR TURNOS
+G     CUÁNTAS PERSONAS HAY EN SU CASA QUE NECESITEN DE SUS CUIDADOS
+G     CUÁNTOS AÑOS LLEVA VD. TRABAJANDO
+G     ANTIGÜEDAD EN SU ACTUAL SISTEMA DE TURNOS
+G     CUÁNTO TIEMPO, EN TOTAL, HA ESTADO TRABAJANDO POR TURNOS
+G     TIEMPO DE DESPLAZAMIENTO ENTRE EL DOMICILIO Y EL CENTRO DE TRABAJO
+Factores de personalidad
+Las variables de personalidad influyen en la capacidad de tolerancia a los efectos del trabajo fuera de las horas habituales, 
+especialmente un rasgo específico que se conoce como mornigness/evenigness (personas matutinas o vespertinas), y que hace 
+referencia a la preferencia que las personas tienen para hacer sus tareas habituales a distintas horas. Es sabido que hay personas que 
+no tienen dificultad en mantenerse despiertas hasta altas horas y que hay otras personas a las que no les importa madrugar. El 
+concepto de mornigness/ evenigness hace referencia a esta tendencia y actualmente se están poniendo a punto pruebas para su 
+valoración bajo el supuesto de que las personas vespertinas tienen una mayor tolerancia al trabajo nocturno.
+Estas pruebas se han de interpretar con precaución ya que, en primer lugar, el perfil circadiano no es un factor determinante en la 
+posible adaptación al trabajo a turnos, sino que es uno de los factores que contribuyen a predecir dicha adaptabilidad. Por otra parte es 
+importante recordar que la mayoría de las personas no son totalmente “matutinas” o “vespertinas” sino que suele tenerse una 
+tendencia u otra. Por ello es poco aconsejable tomar decisiones en base a unos resultados que sólo indican una cierta tendencia.
+El SSI evalúa esta característica a partir de una escala con cuatro o cinco posibilidades de respuesta, según el ítem, asociándose una 
+puntuación elevada a una mayor «matutinidad»
+También se incluye un inventario sobre tipo circadiano en el que se estudia la mayor o menor flexibilidad en los hábitos de sueño ya 
+que en estudios sobre este tema se han encontrado correlaciones positivas entre la tolerancia a la turnicidad y la flexibilidad en los 
+hábitos de sueño. Se evalúa a partir de una escala tipo Likert con cinco posibilidades de respuesta.
+En el cuadro 5 se muestra un ejemplo de un cuestionario reducido, basado en estos principios, a partir de cuyas respuestas se 
+determina el tipo circadiano de las personas.
+Cuadro 5. Tipo circadiano. Test de la alondra y el búho
+1.
+¿A qué hora te levantarías si tuvieras entera libertad para organizarte el día?
+ 
+antes de las 7 de la mañana  
+ 
+entre 7 y 9
+ 
+después de las 9
+2.
+Levantarte por las mañanas los días laborables es para ti:
+ 
+muy difícil
+ 
+moderadamente difícil/depende de los días
+
+ 
+bastante fácil
+3.
+¿Cómo te encuentras la primera media hora después de levantarte?
+ 
+alerta/despejado/a
+ 
+depende
+ 
+dormido/cansado
+4.
+¿A qué hora te acostarías si dependiera totalmente de ti?
+ 
+después de la medianoche
+ 
+entre las 10,30 y las 12 de la noche
+ 
+antes de las 10,30
+5.
+¿Cómo te encuentras media hora antes de acostarte los días laborables?
+ 
+muy cansado/ a punto de quedarme dormido
+ 
+moderadamente cansado/depende del día
+ 
+no muy cansado
+6.
+Si has estado levantado más tiempo del habitual, ¿cuándo te levantas al día siguiente? 
+(suponiendo que no has ingerido alcohol):
+ 
+más tarde de lo habitual y deseando volver a dormir
+ 
+depende
+ 
+a la hora habitual y deseando salir de la cama
+Fuente: http//ww.circadian.com (14 de junio 1999)
+Estrategias de adaptación
+El SSI desarrolló un cuestionario específico, el CSQ, ( Coping with Shiftwork Questionnaire) en el que se contemplan ocho 
+posibilidades de adaptación para cada una de las áreas que se ven afectadas con el trabajo a turnos: sueño, vida social, vida familiar y 
+trabajo.
+ Locus de control
+Las posibilidades de control que las personas tienen sobre una situación pueden influir en la percepción de amenaza de la misma, en 
+este caso la posibilidad de influir en las relaciones persona/ turnicidad; es decir que las expectativas de control pueden moderar los 
+efectos negativos del trabajo a turnos sobre la persona. Según la teoría del locus de control, personas con un locus de control interno, 
+podrían tener más recursos para adaptarse a la situación por lo que sería de esperar que sufrieran menos trastornos de sueño y salud.
+El locus de control sobre el trabajo a turnos puede ser un importante moderador de las alteraciones debidas a la turnicidad sobre el 
+sueño, la salud, la vida social y la eficacia en el trabajo ya que puede determinar la percepción individual y la respuesta a estos 
+problemas.
+Basado en esta teoría se ha desarrollado la escala de valoración del locus de control específico referido a la turnicidad (SHLOC, 
+Shiftwork locus of control). Consta de una escala de 20 ítems, en forma de escala de Likert, valorada en seis puntos que oscilan entre 
+el desacuerdo total y el acuerdo total. (Ver cuadro 6)
+Cuadro 6. Items de la escala SHLOC (Shiftwork locus of control)
+
+SUEÑO
+1.  Soy responsable de si duermo bien o no cuando trabajo a turnos.
+2.  El tipo de sueño que tengo depende principalmente de mi comportamiento.
+3.  Mis propias acciones determinan si mi sueño se ve interrumpido o no cuando trabajo a turnos.
+4.  Es mi culpa si mi sueño se ve alterado cuando trabajo a turnos.
+5.  Cuando trabajo a turnos puedo controlar la calidad del sueño.
+ASPECTOS SOCIALES
+6.  Mi comportamiento influye en la interferencia que los turnos pueden tener en mi vida social.
+7.  Cuando trabajo a turnos yo determino si tengo una vida social adecuada.
+8.  Si mi vida social de ve interrumpida cuando trabajo a turnos, es mi culpa.
+9.  Si cuando trabajo a turnos mi vida social se ve alterada es fallo mío.
+10.  Yo soy responsable de la calidad de mi vida social cuando trabajo a turnos.
+SALUD
+11.  Cuando trabajo a turnos mi bienestar depende de mis propias acciones.
+12.  Yo mismo controlo si mi salud se ve perjudicada o no cuando trabajo a turnos.
+13.  Mi bienestar físico cuando trabajo a turnos depende de hasta qué punto me cuido a mi mismo.
+14.  Si me pongo enfermo cuando trabajo a turnos tengo la capacidad de recuperarme.
+15.  Si me pongo enfermo cuando trabajo a turnos es porque no me he cuidado debidamente.
+TRABAJO
+16.  Cuando trabajo a turnos la efectividad de mi trabajo se debe a mi conducta.
+17.  Cuando trabajo a turnos puedo influir sobre el desarrollo de mi trabajo.
+18.  Es mi propio comportamiento el que determina la realización de mi trabajo cuando trabajo a 
+turnos.
+19.  Cuando trabajo a turnos soy yo el que decide si obtengo o no buenos resultados.
+20.  Cuando trabajo a turnos soy el responsable de la calidad de mi trabajo.
+Los factores que se valoran son: sueño; aspectos sociales; salud y trabajo.
+Esta escala, todavía en fase de investigación, ha demostrado su consistencia interna y validez de constructo; estándose actualmente 
+estudiando su validez predictiva.
+Su aplicación ha demostrado la correlación entre un grado elevado de locus interno y un menor número de quejas y mejor bienestar 
+psicológico. Asimismo se ha visto que tiene correlación con el grado de alerta durante los turnos.
+A pesar de ser una técnica todavía en estudio consideramos de interés su conocimiento ya que puede ser útil para predecir sujetos con 
+mayor tolerancia a la turnicidad, aunque de nuevo debe hacerse una llamada a la prudencia en el momento de la interpretación de los 
+datos y evitar darles un valor determinante y tomar decisiones en base sólo a los resultados de esta escala; es importante recordar que 
+es una variable moderadora en el conjunto de factores que influyen en la mayor o menor tolerancia al trabajo nocturno.
+Factores de organización
+A fin de tener una perspectiva general de la problemática producida por un trabajo a turnos y a fin de poder sopesar la influencia de los 
+distintos factores de su organización, es evidente que deben incluirse indicadores referentes al sistema de turnos: horarios, duración de 
+los turnos, frecuencia y organización del trabajo nocturno, regularidad y grado de flexibilidad de la rotación.
+Dentro de este apartado se suele incluir además aquellas características relacionadas con la experiencia laboral, por ejemplo los años 
+durante los que se ha trabajado a turnos, el tipo de organización de los mismos (fijo o rotativo, sentido y duración de la rotación, etc. ) 
+Asimismo, y aunque no como variables directas sino como moderadoras, deben incluirse aspectos relacionados con el contexto del 
+trabajo: tipo de tarea, posición en la organización, carga de trabajo.
+Por otra parte en las empresas suele contarse con información sobre una serie de variables (absentismo, rotación, etc.) que no pueden 
+olvidarse en este tipo de estudios y que deberán correlacionarse con los datos obtenidos en las otras pruebas.
+Cuadro 7. Particularidades del turno
+
+G     HORA DE INICIO Y FINALIZACIÓN DE CADA UNO DE LOS TURNOS
+G     Nº DE TURNOS CONSECUTIVOS DEL MISMO TIPO QUE TRABAJA HABITUALMENTE 
+ANTES DE CAMBIAR A OTRO TURNO O PARA TENER ALGUNOS DÍAS LIBRES
+G     MÁXIMO NÚMERO DE TURNOS TRABAJADOS ENTRE DÍAS LIBRES EN EL MES PASADO
+G     DÍAS LIBRES CONSECUTIVOS QUE SE TIENEN HABITUALMENTE, POR TÉRMINO MEDIO
+G     SECUENCIA DE UN TIPO DE TURNO A OTRO
+G     Nº DE NOCHES TRABAJADAS AL AÑO
+G     FINES DE SEMANA LIBRES EN 28 DÍAS
+G     FLEXIBILIDAD DEL SISTEMA DE TURNOS
+G     CADENCIA DEL CICLO (Nº DE SEMANAS HASTA QUE SE REPITE EL CICLO)
+Bibliografía
+(1) BARTON, J. y otros. 
+The Standard Shiftwork Index: a battery of questionnaires for assessing shiftworkrelated problems 
+Work and Stress, 1995, vol. 9, nº 1, p. 4-30
+(2) BOHLE, PH., TILLEY, A.J. 
+Early experience of shiftwork: Influences on attitudes 
+Journal of Occupational and Organizational Psychology, 1998, vol. 71, nº 1, 61-79
+(3) GREENWOOD, K.M. 
+An evaluation of the Circadian Type Questionnaire 
+Ergonomics, 1995, vol. 38, nº 2, p. 347-360
+(4) KALITERNA, L. y otros. 
+The reability and stability of various individual difference and tolerance to shiftwork measures 
+Ergonomics, 1993, vol. 36, nº 13, p. 183-189
+(5) KNAUTH, P. 
+Horas de trabajo 
+En: O.I.T. Enciclopedia de Salud y Seguridad en el Trabajo. Vol II. Madrid: Ministerio de Trabajo y Asuntos Sociales, 1998 p. 43.1-43.16
+(6) NACHREINER, F. 
+Individual and social determinants of shiftwork tolerance 
+Scand. J. Work Environ. Health, 1998, vol. 24, supl. 3, p. 35-42
+(7) SHIFTWORK RESEARCH TEAM 
+Standard Shiftwork Index 
+MRC/ESRC Social and Applied Psychology Unit, The University, Sheffield
+(8) SMITH, L., SPELTEN, E., NORMAN, P. 
+Shiftwork locus of control: scale development 
+Work and Stress, 1995, vol. 9, nº 2/3, p. 219-226
+(9) STAMPI, C., STONE, P., MICHIMORI, A. 
+A new quantitative method for assessing sleepiness: the Alpha Attenuation Test 
+Work and Stress, 1995, vol. 9, nº 2/3, p. 368-376
+   © INSHT

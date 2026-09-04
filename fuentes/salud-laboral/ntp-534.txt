@@ -1,0 +1,257 @@
+ 
+NTP 534: Carga mental de trabajo: factores
+La charge mentale de travail: facteurs 
+Mental workload: factors
+Redactora:
+M. Isabel de Arquer 
+Lda. en Psicología
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+En las situaciones de trabajo, los factores que contribuyen a la carga de trabajo mental y que ejercen presiones sobre la persona son 
+muy diversos. Esta Nota Técnica de Prevención se plantea para servir de orientación en la relación y necesaria identificación de tales 
+factores en cada realidad laboral.
+Introducción
+La realización del trabajo comporta la aplicación de diversas capacidades y destrezas físicas y mentales. Aparentemente, muchos 
+trabajos parecen «cómodos y descansados», ajenos a presiones de tiempo y de producción, exentos de esfuerzos inadecuados por 
+exceso o por defecto; pero esto puede ser una mera apariencia que, en ocasiones, no se corresponde ni con la realidad, ni con la 
+percepción de quienes desempeñan tales trabajos, ni con las diversas molestias y el cansancio que refieren.
+Factores de carga de trabajo mental
+La carga de trabajo mental es un concepto que se utiliza para referirse al conjunto de tensiones inducidas en una persona por las 
+exigencias del trabajo mental que realiza (procesamiento de información del entorno a partir de los conocimientos previos, actividad de 
+rememoración, de razonamiento y búsqueda de soluciones, etc.). Para una persona dada, la relación entre las exigencias de su trabajo 
+y los recursos mentales de que dispone para hacer frente a tales exigencias, expresa la carga de trabajo mental.
+La carga de trabajo mental remite a tareas que implican fundamentalmente procesos cognitivos, procesamiento de información y 
+aspectos afectivos; por ejemplo, las tareas que requieren cierta intensidad y duración de esfuerzo mental de la persona en términos de 
+concentración, atención, memoria, coordinación de ideas, toma de decisiones, etc. y autocontrol emocional, necesarios para el buen 
+desempeño del trabajo.
+Las capacidades de la persona, referentes a las funciones cognitivas que posibilitan las operaciones mentales, constituyen sus recursos 
+personales para responder a las demandas del trabajo mental. Las capacidades de memoria, de razonamiento, de percepción, de 
+atención, de aprendizaje, etc. son recursos que varían de una persona a otra y que también pueden variar para una persona en distintos 
+momentos de su vida: pueden fortalecerse, por ejemplo, cuando se adquieren nuevos conocimientos útiles, cuando se conocen 
+estrategias de respuesta más económicas (en cuanto a esfuerzo necesario), etc. pero, en circunstancias físicas o psíquicas adversas, 
+pueden deteriorarse o debilitarse.
+En general, en las situaciones de trabajo, son muy diversos los factores que contribuyen a la carga de trabajo mental y que ejercen 
+presiones sobre la persona que lo desempeña. Estos factores deben identificarse para cada puesto o situación de trabajo concreta y se 
+pueden agrupar según procedan:
+G     De las exigencias de la tarea.
+G     De las circunstancias de trabajo (físicas, sociales y de organización).
+G     Del exterior de la organización.
+La carga de trabajo mental puede ser inadecuada cuando uno o más de los factores identificados es desfavorable y la persona no 
+dispone de los mecanismos adecuados para afrontarlos.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1999
+
+Las características individuales influyen en la tensión que provocan en la persona las distintas presiones que recaen sobre ella. Algunas 
+de estas características individuales son:
+G     El nivel de aspiración, la autoconfianza, la motivación, las actitudes y los estilos de reacción.
+G     Las capacidades, la cualificación/capacitación, los conocimientos, y la experiencia.
+G     La edad (ver Notas Técnicas de Prevención (NTP) nos 348, 366, 367 y 416), el estado general, la salud, la constitución física y la 
+nutrición.
+G     El estado real y el nivel inicial de activación.
+En resumen, el conjunto de factores procedentes del entorno (condiciones sociales, físicas, de la organización y de la tarea) ejercen 
+diversas presiones sobre la persona; la activación mental consecuente a las presiones externas del trabajo se expresa en cierto grado 
+de tensión mental para dar respuesta a las demandas del trabajo (ver cuadro 1). Esta tensión es variable según las características 
+individuales y, por la activación que conlleva, puede facilitar la realización de la tarea; sin embargo, también puede tener efectos 
+perjudiciales en otras ocasiones, por ejemplo: cuando se alcanzan estados de fatiga mental y estados similares por monotonía, 
+hipovigilancia o saturación; por último, entre otros efectos posibles, cabe mencionar el efecto de preparación o de entrenamiento para la 
+tarea.
+Cuadro 1. Esquema de grupos de factores que configuran la carga de trabajo mental y sus efectos
+El desempeño de tareas o actividades muy largas, uniformes o repetitivas puede comportar somnolencia, disminución de la capacidad 
+de reacción y, en definitiva, un estado de activación reducida, de lenta evolución, que se traduce en fluctuaciones en el rendimiento, así 
+como en una desagradable sensación personal de monotonía; ésta, se etiqueta como hipovigilancia si se deriva de la realización de 
+tareas de vigilancia, especialmente de actividades de detección muy poco variadas. El estado de saturación mental de la persona se 
+puede presentar en tareas o situaciones de trabajo repetitivas en las que se tiene la sensación de estancamiento, de que no se avanza 
+nada o de que no conducen a nada; se caracteriza por inestabilidad nerviosa (desequilibrio), fuerte rechazo emocional de la situación o 
+tarea repetitiva y otros síntomas adicionales como: cólera o enojo, disminución del rendimiento y/o sentimientos de fatiga e inclinación a 
+renunciar, a retirarse. La saturación se diferencia de la sensación de monotonía y de la hipovigilancia porque el nivel de activación de la 
+persona es invariable o creciente y está asociado a emociones negativas.
+A continuación se relacionan algunos ejemplos de cada grupo de fuentes de presión mental según la ISO 10075:1991.
+Exigencias de la tarea
+G     Atención sostenida.
+G     Tratamiento de la información (teniendo en cuenta el número y la calidad de las señales que se han de detectar, las inferencias 
+que hay que hacer a partir de informaciones incompletas, las decisiones entre varios modos de acción posibles…).
+G     Responsabilidad (por la salud y seguridad de otras personas, pérdidas de producción…).
+G     Duración y perfil temporal de la actividad (horarios de trabajo, pausas, trabajo a turnos…).
+G     Contenido de la tarea (control, planificación, ejecución, evaluación…).
+G     Peligro (trabajo subterráneo, tráfico, manutención de explosivos...).
+Condiciones físicas del entorno
+G     Iluminación (luminancia, contraste, deslumbramientos…).
+G     Condiciones climáticas (calor, humedad, circulación de aire…).
+
+G     Ruido (nivel sonoro, registro sonoro…).
+G     Clima atmosférico (lluvias, tormentas…).
+G     Olores (agradables, repulsivos…).
+Factores sociales y de organización
+G     Tipo de organización (estructura de control y de comunicación).
+G     Clima/Ambiente de la organización (aceptación personal; relaciones entre las personas…).
+G     Factores de grupo (estructura de grupo, cohesión…).
+G     Jerarquía de mando (vigilancia…).
+G     Conflictos (en el seno de un grupo, entre grupos o entre personas).
+G     Contactos sociales (trabajo aislado, relaciones con clientes…).
+Otros factores
+G     Exigencias sociales (responsabilidad en relación con la salud y el bienestar públicos).
+G     Normas culturales (sobre las condiciones de trabajo, los valores, las normas aceptables).
+G     Situación económica (mercado laboral).
+Las exigencias de la tarea
+La realización de tareas de tratamiento de información requiere de la persona diverso grado de atención, concentración y de 
+coordinación.
+La atención es necesaria, por ejemplo, para dirigir y enfocar la percepción, para la búsqueda y selección de la información relevante 
+(entre todos los datos disponibles) y así cumplir los objetivos que se pretendan. El desempeño del trabajo puede requerir atención para 
+una tarea o actividad en curso o para varias actividades que se van alternando y/o simultaneando. La concentración se refiere a la 
+reflexión y atención prolongadas requeridas por la tarea (por ejemplo, en tareas monótonas, tales como el control de tablas o cuadros 
+de cifras). La atención puede decaer por diversos motivos, ya sean laborales o ya sean personales (por ejemplo, sueño o descanso 
+insuficientes). Se puede afirmar que algunas tareas que exigen atención compartida entre varias actividades simultáneas o que exigen 
+captar datos e informaciones extrañas, difíciles de detectar o de encontrar, pueden ejercer grandes presiones sobre la persona y 
+originar una tensión en ella que se manifieste en disminuciones de atención.
+Además, la tarea que se ha de realizar puede demandar, en diversa medida: la coordinación de ideas, la necesidad de tener presentes 
+varias cosas a la vez y de reaccionar con rapidez ante un imprevisto, la coordinación de funciones motoras y sensoriales (hablándose 
+entonces de carga de trabajo sensorial y posible fatiga sensorial), la conversión de información en conductas de reacción (en tareas de 
+control…), la transformación de información de entrada y de salida (programación, traducción, etc.), la producción de información 
+(diseño, solución de problemas…) etc.
+En general, algunas de las exigencias de la tarea que determinan la carga de trabajo mental y la fatiga consecuente se pueden resumir 
+en:
+G     Atención sostenida sobre una o más fuentes de información (por ejemplo: observación de un monitor de control de procesos 
+durante mucho tiempo).
+G     Tratamiento de la información, que se traduce en más o menos carga de trabajo mental, según cuál sea el número y la calidad 
+de las informaciones que se deben tratar y de las fuentes de información, lo disponibles que estén, las inferencias que deban 
+hacerse, las decisiones que deban tomarse, etc.
+G     El nivel de responsabilidad que la persona tiene asignado: ya sea responsabilidad por la salud y por la seguridad de terceras 
+personas (clientes internos y externos de la empresa) ya sea por pérdidas de producción.
+G     La duración y el perfil temporal de la actividad: horarios de trabajo, pausas, trabajo a turnos.
+G     El contenido de la tarea: control, planificación, ejecución, evaluación.
+G     El peligro que conlleva la tarea que debe realizar: por el lugar en que se desarrolla (aéreo, subterráneo...), por cuestiones de 
+tráfico, por los materiales (explosivos, citostáticos...) que se manejan, etc.
+Las exigencias de atención de la tarea, el diseño inadecuado del lugar y puesto de trabajo, del material informativo, de la organización 
+
+del tiempo de trabajo (la insuficiencia de pausas de descanso, el excesivo tiempo de dedicación al trabajo, etc. Ver NTP nos 310, 455) y, 
+en definitiva, la incongruencia entre las exigencias del trabajo y las posibilidades de respuesta de la persona, afectan negativamente a la 
+carga de trabajo mental percibida y sus consecuencias adversas. La fatiga por carga de trabajo mental puede manifestarse desde una 
+forma muy sutil, como ligeras reducciones de la capacidad de trabajo mental y algunos lapsus, hasta la forma más fuerte: bloqueo total, 
+incapacidad temporal de análisis de información, etc. (ver NTP nº 445).
+Las condiciones de trabajo
+La importancia de unas condiciones físicas (espaciales, acústicas, climáticas, etc.) adecuadas se hace evidente cuando se necesita 
+crear un entorno que facilite la percepción, la atención y, en definitiva, la realización de tareas con exigencias de trabajo mental; así se 
+facilita a la persona la detección de señales e informaciones (visuales, acústicas, táctiles, etc.) que necesite para el desempeño del 
+trabajo. A modo de ejemplo, cabe citar la conveniencia de un entorno acústico controlado, limitando las fuentes y niveles de ruido 
+cuando se necesita concentración, cuando hay que escuchar o comunicar datos, señales u órdenes verbalmente, etc.
+Entre las condiciones de realización de la tarea también deben considerarse los efectos del uso de equipos de protección individual. Por 
+ejemplo, la utilización regular de algunos de tales equipos como: gafas, guantes, mascarilla, ropas especiales, etc. no debería interferir 
+con las capacidades perceptivas y de rapidez de respuesta motora necesarias para la tarea.
+Condiciones de iluminación. Los niveles adecuados de iluminación y contraste en el puesto de trabajo, así como la ausencia de 
+deslumbramientos, contribuyen al bienestar en el trabajo, en tanto en cuanto que no se solicitan esfuerzos visuales innecesarios para el 
+nivel de percepción (agudeza perceptiva) que requiere la tarea. Además, la fuente de luz puede ser de importancia para la sensación de 
+bienestar de las personas prefiriéndose, en la medida de lo posible, la iluminación natural frente a la artificial.
+Condiciones térmicas. La sensación de confort térmico (ver NTP nos 74 y 501) depende, en gran medida, del tipo e intensidad de 
+trabajo que se lleva a cabo. Las sensaciones de frío y de calor, los cambios bruscos de temperatura, la sensación de humedad y de la 
+circulación del aire (ventilación y corrientes de aire) afectan a la percepción de carga que conlleva el desempeño del trabajo mental ya 
+que dificultan o favorecen el mantenimiento de la atención sobre la tarea e influyen en el estado de vigilia.
+Es difícil evaluar los efectos de un entorno muy frío o muy caluroso sobre el desempeño mental o intelectual; algunos de los efectos 
+negativos del calor (las funciones cerebrales son vulnerables al calor) pueden verse compensados, por ejemplo, por un alto grado de 
+motivación de la persona. En general, se puede esperar que el desempeño empeore conforme la temperatura ambiental alcance valores 
+extremos, por encima o por debajo, de temperaturas a las que el organismo esté aclimatado. Si se trabaja en un medio muy frío, la 
+capacidad de vigilancia de la persona se puede ver alterada. Asimismo, para una persona que no esté aclimatada al calor, se puede 
+observar deterioro en el rendimiento intelectual y mental para tareas complejas, a temperaturas ambientales superiores a los veinticinco 
+grados centígrados; si la persona estuviese aclimatada al calor este umbral aumentaría hasta los 30 ó 35 grados centígrados.
+Condiciones acústicas. El ambiente sonoro influye en la carga de trabajo mental en tanto en cuanto afecta a la concentración y al 
+esfuerzo necesario para mantener el nivel de atención que requiere la realización de la tarea. La presencia de ruido continuo procedente 
+del tráfico, de conversaciones, de equipos, etc., así como de ruidos discontinuos de teléfonos, puertas y equipos puede ser muy 
+molesta, sobre todo si se trata de ruidos que se perciben como «innecesarios y evitables». Cuando la diferencia entre los niveles de 
+ruido máximo y mínimo es menor de 5 dBA se habla de «ruido estable» y éste, en principio, si se encuentra en un nivel aceptable (por 
+debajo de los 55 dBA, para tareas de oficina y aún por debajo de los 45 dBA, si se requiere mucha concentración), no tiene por qué 
+perturbar el mantenimiento del nivel de atención y concentración necesario (ver NTP nº 503).
+Calidad del aire. La presencia de olores, humos, vapores, etc., que no constituyen información relevante y necesaria para la realización 
+del trabajo, tienen un efecto de distracción sobre la atención y dificultan la concentración. Es muy recomendable que la renovación del 
+aire sea suficiente y se garantice una adecuada calidad del mismo.
+Los factores sociales y de la organización incluyen: el tipo de organización laboral (su estructura de control y de comunicaciones), el 
+clima social de la organización (aceptación personal, relaciones interpersonales), los factores de grupo (estructura de grupo, cohesión), 
+la jerarquía de mando (vigilancia, niveles de mando, etc.), los conflictos (dentro de los grupos, entre grupos o entre personas, así como 
+los conflictos sociales), el aislamiento en el trabajo, el trabajo a turnos, las relaciones con clientes, etc. Tales aspectos, debidamente 
+diseñados, pueden configurar un entorno laboral sano, de cooperación y de apoyo para la realización del trabajo, en el cual sea fácil la 
+adquisición de las informaciones y ayudas que se necesiten.
+Características individuales y factores sociales externos a la organización
+En términos generales se puede considerar que las características individuales influyen en la tensión experimentada, como 
+consecuencia de las presiones que ejercen los diversos factores de carga mental de trabajo; estas características modifican la relación 
+entre las presiones del trabajo y las tensiones de la persona en el sentido de que modulan la relación entre las exigencias de la tarea y 
+el esfuerzo desplegado para satisfacerlas.
+Se contemplan como características individuales: el tipo y el nivel de aspiraciones personales, la autoconfianza, la motivación, las 
+actitudes y los estilos de reacción, las capacidades, la cualificación, la capacitación, los conocimientos, la experiencia, el estado general, 
+la salud, la constitución física, la edad, la nutrición, el estado real y el nivel inicial de activación. De todas estas características se 
+pueden destacar:
+G     Las habilidades y aptitudes.
+G     El estado general de salud y las necesidades personales.
+G     El estilo de vida.
+
+Las actividades de procesamiento de información y toma de decisiones de las personas están estrechamente ligadas a aspectos 
+emocionales (sentimientos) y, por ello, hay que tener en cuenta el bienestar emocional de las personas. Con él, se hace posible el 
+desempeño de tareas complejas con mayor eficacia: el tratamiento de información, la valoración de alternativas y la búsqueda y la 
+elección de soluciones «humanas» a los problemas. Sin embargo, cuando una persona tiene problemas emocionales puede verse 
+interferida su eficacia en el trabajo, en actividades perceptivas, de tratamiento de información, de memoria y de concentración, por lo 
+que, en muchas situaciones de trabajo, los aspectos emocionales tienen que tenerse en cuenta.
+Por último, los factores de la sociedad, externos a la organización, aluden: a las exigencias sociales de responsabilidad con relación a la 
+salud y el bienestar públicos, a las normas culturales (condiciones de trabajo, valores y normas aceptables,…) y, por último, a la 
+situación económica (mercado de trabajo). Por todo ello se debería tener en cuenta cuál es «la situación» de trabajo además de «el 
+puesto» de trabajo y así, con esta expresión más amplia de «situación de trabajo», se abarcarían cuestiones relativas al tipo de relación 
+laboral y contractual, condiciones salariales y de organización, etc.
+Medidas preventivas
+La carga mental de trabajo inadecuada, ya sea por exceso o por defecto, puede tener varias consecuencias negativas (tensión, fatiga, 
+sentimientos de monotonía, etc.). Para prevenirlas se pueden adoptar diversas medidas que modifican:
+G     Las exigencias del puesto de trabajo (contenido) y las condiciones del entorno tanto físicas como sociales y organizativas (ver 
+NTP nº 499 y otras).
+G     Las características de la persona: dotándola de más formación, más destrezas, mejores estrategias de trabajo, etc.
+Con ello, no sólo se reducen tiempos de ejecución (de búsqueda de datos, por ejemplo) y posibles errores en el trabajo, sino que se 
+puede reducir la tensión de la persona que lo realiza.
+Algunas medidas para mejorar las condiciones de trabajo y adecuar las exigencias de trabajo mental a las personas pueden ser las que 
+van dirigidas a:
+G     Facilitar y orientar la atención necesaria para desempeñar el trabajo.
+G     Reducir o aumentar (según el caso) la carga informativa para ajustarla a las capacidades de la persona, así como facilitar la 
+adquisición de la información necesaria y relevante para realizar la tarea, etc..
+G     Proporcionar las ayudas pertinentes para que la carga o esfuerzo de atención y de memoria llegue hasta niveles que sean 
+manejables (ajustando la relación entre la atención necesaria y el tiempo que se ha de mantener).
+G     Reorganizar el tiempo de trabajo (tipo de jornada, duración, flexibilidad, etc.) y facilitar suficiente margen de tiempo para la 
+autodistribución de algunas breves pausas durante cada jornada de trabajo.
+G     Rediseñar el lugar de trabajo (adecuando espacios, iluminación, ambiente sonoro, etc.).
+G     Reformular el contenido del puesto de trabajo, favoreciendo el movimiento mental (que después se comentará).
+G     Actualizar los útiles y equipos de trabajo (manuales de ayuda, listas de verificación, registros y formularios, procedimientos de 
+trabajo, etc.) siguiendo los principios de claridad, sencillez y utilidad real.
+Debe tenerse en cuenta que adecuar la carga de trabajo mental a las capacidades de la persona no es, en absoluto, tarea fácil, puesto 
+que hay que encontrar el punto de equilibrio entre las exigencias del trabajo y las capacidades de respuesta de la persona (tratamiento 
+de información, mantenimiento de atención, toma de decisiones, cálculo y valoración de consecuencias, etc.).
+Si se optase por una excesiva simplificación de los procesos de producción y procedimientos de trabajo que se han de seguir, persistiría 
+un desajuste entre las exigencias del trabajo y las capacidades de la persona y el problema se mantendría aunque, en este caso, se 
+estaría en el extremo de la subcarga de trabajo mental. Los niveles de exigencia de trabajo mental muy por debajo de la capacidad de la 
+persona son desaconsejables y pueden conducir al aburrimiento.
+Las personas somos estructuras móviles dotadas, por naturaleza, para el movimiento físico y mental. De esta manera, cuando se realiza 
+una pausa en el desempeño de una actividad, la desconexión mental respecto a dicha actividad se torna en actividad mental con otro 
+centro de atención diferente, es decir, se cambia el foco de atención y esto es una forma de movimiento de la mente que puede 
+contribuir a mantener un cierto nivel de vigilia .
+La idea central que debería presidir la mejora de las condiciones de trabajo es adecuar las exigencias de carga mental de trabajo a las 
+capacidades de respuesta de la persona y posibilitar el movimiento corporal y mental.
+Efectivamente, también el movimiento corporal puede suponer una ayuda para mantener el nivel de vigilia (nivel de activación) en 
+ciertos tipos de actividades mentales y conseguir un nivel de desempeño aceptable. Por ejemplo, en tareas de vigilancia o en tareas que 
+exigen mucha concentración, una moderada actividad física distribuida a lo largo de la jornada de trabajo recupera ligeramente al 
+organismo de la prolongada inmovilidad y tensión musculares.
+
+Bibliografía
+(1) CHRISTOL, J., y otros 
+Astreinte et contrainte mentale du travail contemporain. Rôle du médecin du travail 
+Arch. mal. prof., 1995, 56, nº 4, 253-306.
+(2) HANCOCK, P. A. & MESHKATI, N. (Eds.) 
+Human Mental Workload 
+Elsevier Science Publishers B. V. North Holland, 1988
+(3) KROEMER, K. H. E., GRANDJEAN, E. 
+Fitting the task to the human: a textbook of occupational ergonomics 
+Taylor & Francis, London, 1997
+(3) LEPLAT, J. 
+La psicología ergonómica 
+Oikos-Tau, Barcelona, 1985
+(4) Norma ISO 10075: 1991 
+Ergonomic principles related to mental workload. General terms and definition 
+Geneva, ISO 1991
+(5) SEBASTIÁN GARCÍA, O. 
+Efectos del ambiente físico de trabajo sobre las personas: respuestas psicofisiológicas, subjetivas y de comportamiento 
+Madrid, INSHT 1999.
+(6) VARIOS AUTORES 
+Notas Técnicas de Prevención 
+Barcelona. INSHT 1983,..
+   © INSHT
