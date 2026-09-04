@@ -1,0 +1,2094 @@
+ 
+NTP 462: Estrés por frío: evaluación de las exposiciones 
+laborales
+Stress pour froid: évaluation des expositions au travail 
+Cold stress: Occupational exposures evaluation
+Redactor:
+Pablo Luna Mendaza 
+Ldo. en Ciencias Químicas
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+La exposición laboral a ambientes fríos (cámaras frigoríficas, almacenes fríos, trabajos en el exterior, etc.) depende fundamentalmente 
+de la temperatura del aire y de la velocidad del aire. El enfriamiento del cuerpo o de los miembros que quedan al descubierto puede 
+originar hipotermia o su congelación. Es relativamente desconocido el sistema de valorar la magnitud del riesgo que supone el trabajo 
+en ambientes fríos por lo que en este documento se informa de la tendencia actual al respecto, proporcionando una herramienta, que 
+aunque todavía no es objeto de Norma, si que se ha estudiado por la International Standard Organización (ISO) en forma de 
+documento de base (Technical Report. ISO TR 11079:1993 “Evaluation of cold environments. Determination of re quired clothing 
+insulation. IREQ”).
+Efectos fisiológicos debidos al frío
+El cuerpo humano genera energía a través de numerosas reacciones bioquímicas cuya base son los compuestos que forman los 
+alimentos y el oxígeno del aire inhalado. La energía que se crea se emplea en mantener las funciones vitales, realizar esfuerzos, 
+movimientos, etc. Gran parte de esta energía desprendida es calorífica. El calor generado mantiene la temperatura del organismo 
+constante siempre que se cumpla la ecuación del balance térmico (ver apartado Evaluación del riesgo por enfriamiento general del 
+cuerpo).
+Cuando la potencia generada no puede disiparse en la cantidad necesaria, porque el ambiente es caluroso, la temperatura del cuerpo 
+aumenta y se habla de riesgo de estrés térmico (ver NTP-350.94). Si por el contrario el flujo de calor cedido al ambiente es excesivo, la 
+temperatura del cuerpo desciende y se dice que existe riesgo de estrés por frío. Se generan entonces una serie de mecanismos 
+destinados a aumentar la generación interna de calor y disminuir su pérdida, entre ellos destacan el aumento involuntario de la 
+actividad metabólica (tiritera) y la vasoconstricción. La tiritera implica la activación de los músculos con la correspondiente generación 
+de energía acompañada de calor.
+La vasoconstricción trata de disminuir el flujo de sangre a la superficie del cuerpo y dificultar así la disipación de calor al ambiente. 
+Paradójicamente y debido a la vasoconstricción, los miembros mas alejados del núcleo central del organismo ven disminuido el flujo de 
+sangre y por lo tanto del calor que ésta transporta, por lo que su temperatura desciende y existe riesgo de congelación en manos, pies, 
+etc.
+Estos dos efectos principales del frío, descenso de la temperatura interna (hipotermia) y congelación de los miembros originan la 
+subdivisión de las situaciones de estrés por frío en enfriamiento general del cuerpo y enfriamiento local de ciertas partes del cuerpo 
+(extremidades, cara, etc.)
+Según la American Conference of Governmental industrial Hygienists (ACGIH), los efectos sufridos por el organismo cuando desciende 
+su temperatura interna (enfriamiento general del cuerpo) son los que se muestran en la tabla 1.
+Tabla 1. Situaciones clínicas progresivas de la hipotermia
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1995
+
+Temperatura interna (°C)
+Síntomas clínicos
+37,6
+Temperatura rectal normal
+37
+Temperatura oral normal
+36
+La relación metabólica aumenta en un intento de compensar la pérdida 
+de calor
+35
+Tiritones de intensidad máxima
+34
+La victima se encuentra consciente y responde. 
+Tiene la presión arterial normal
+33
+Fuerte hipotermia por debajo de esta temperatura
+32 
+31
+Consciencia disminuida. La tensión arterial se hace difícil de determinar. 
+Las pupilas están dilatadas aunque reaccionan a la luz. Cesa el tiriteo
+30 
+29
+Pérdida progresiva de la consciencia. 
+Aumenta la rigidez muscular. 
+Resulta difícil determinar el pulso y la presión arterial. 
+Disminuye la frecuencia respiratoria
+28
+Posible fibrilación ventricular
+27
+Cesa el movimiento voluntario. 
+Las pupilas no reaccionan a la luz. 
+Ausencia de reflejos tendinosos
+26
+Consciencia durante pocos momentos
+25
+Puede producirse fibrilación ventricular espontánea
+24
+Edema pulmonar
+22 
+21
+Riesgo máximo de fibrilación ventricular
+20
+Parada cardiaca
+18
+Hipotermia accidental mas baja para recuperar a la víctima
+17
+Electroencefalograma isoeléctrico
+9
+Hipotermia más baja simulada por enfriamiento para recuperar al paciente
+Evaluación del riesgo por enfriamiento general del cuerpo Intercambio de calor entre el 
+organismo y el ambiente
+Para la evaluación del riesgo por enfriamiento general se propone el cálculo del índice IREQ (aislamiento requerido del atuendo). El 
+IREQ es el aislamiento del vestido necesario para que se cumpla la ecuación del balance térmico, cuya expresión es la siguiente:
+M - W = Eres + Cres + E + K + R + C + S    (1)
+Donde M es la actividad metabólica del trabajo, W es la potencia mecánica (la mayoría de las veces cuantitativamente despreciable), 
+Cres y Eres son los términos de calor sensible y latente respectivamente debido a la diferencia de temperatura y humedad del aire 
+inspirado y exhalado, E es el calor cedido por evaporación del sudor, K es el calor intercambiado entre el cuerpo y superficies en 
+contacto con él (también es despreciable su valor frente a los otros términos y se considera asumida su influencia en el balance a 
+través de los términos C y R, que son los términos de intercambio de calor por convección y radiación respectivamente, mientras que S 
+es el calor acumulado por el organismo, cuyo valor permite conocer tiempos máximo de permanencia en un ambiente determinado.
+El valor de cada uno de los términos mencionados (todos ellos se expresan como potencia por unidad de superficie corporal, watios/
+m2 ) viene determinado por las siguientes ecuaciones:
+Cres = 0,0014 M (tex-ta) (2)
+Eres = 0,0173 M (pex-pa) (3)
+E = w (psks-pa)/Rt (4)
+
+C = fcl hc (tcl-ta) (5)
+R = fcl hr (tcl-tr) (6)
+donde:
+G     tex es la temperatura del aire exhalado, tex = 29 + 0,2ta
+G     ta es la temperatura seca del aire
+G     pex es la presión parcial del vapor de agua en el aire exhalado, que se calcula sabiendo que
+pex = 0,1333 e [18,6686-4030,183/(tex +235)]
+G     pa es la presión parcial del vapor de agua en el aire ambiente y se calcula mediante la expresión:
+pa = (HR/100) 0,1333 e [18,6686-4030,183/(ta +235)]
+siendo HR la humedad relativa en %.
+G     w es la fracción de piel húmeda que participa en la evaporación del sudor. Su valor se encuentra entre 0,06 (no hay 
+prácticamente evaporación) y 1 (piel totalmente mojada)
+G     psks es la presión de saturación del vapor de agua a la temperatura de la piel y puede calcularse a partir de la expresión:
+psks = 0,1333 e [18,6686-4030,183/(tsk +235)] ,
+siendo tsk la temperatura de la piel.
+G     Rt es la resistencia evaporativa del vestido y se obtiene de la expresión Rt =0,16 [fcl /(hc+hr)+Iclr]
+G     fcl es un factor de superficie del vestido tal que fcl = 1 + 1,97 Iclr
+G     hc es el coeficiente de convección,
+hc = 3,5+5,2 var     
+si var ≤1 m/s
+hc = 8,7 var 0,6
+si var >1 m/s
+G     var es la velocidad relativa del aire, su valor se calcula a partir de
+var = va+ 0,0052 (M-58)
+siendo va la velocidad medida del aire.
+G     hr es el coeficiente de transferencia de calor por radiación, que se calcula según la expresión
+hr = s esk Ar /ADU [(tcl + 273)4-(t r + 273)4 ] / (tcl-tr),
+donde s es la constante de Stefan Boltzman (5,67 · 10-8 w/m2 K4 ) y esk es la emisividad del atuendo (0,95). Si la temperatura 
+radiante media (tr) es muy alta, esk varía claramente con el color de la ropa y debe ajustarse su valor.
+G     Ar /ADU es la fracción de superficie corporal participante en los intercambios de calor por radiación y depende de la postura del 
+cuerpo. Puede tomarse el valor 0,77 para la mayoría de situaciones.
+G     Iclr es la resistencia térmica del vestido considerando las condiciones reales de utilización. Se obtiene a partir de la resistencia 
+térmica del vestido (Icl) extraída de las tablas correspondientes (ver Norma ISO 9920 ó resumen en tabla 2) y teniendo en 
+cuenta la actividad metabólica M de la siguiente forma:
+
+Iclr = 0,9 Icl    
+si M ≤ 100 w/m2
+Iclr = 0,8 Icl
+si M > 100 w/m2
+Tabla 2: Criterios para la determinación del IREQ y valoración del enfriamiento local
+Enfriamiento
+Índice
+Temperatura de 
+la piel tsk (°C)
+Humedad de 
+la piel w
+Pérdida 
+máxima de 
+Energía 
+calorífica 
+Qlim (wh/
+m2)
+Pérdida 
+máxima de 
+Potencia 
+calorífica 
+WCI (w/m2 )
+General
+IREQmin
+30
+0,06
+X
+X
+IREQneutro
+35,7-0,0285M
+0,001 M
+X
+X
+Tiempo máximo 
+de exposición
+30 (estrés por frío) 
+35,7-0,0285M 
+(mínimo confort)
+0,06 (estrés 
+por frío) 
+0,001 M 
+(mínimo 
+confort)
+-40
+X
+WCI
+X
+X
+X
+1600
+Local
+Temperatura de 
+la piel de las 
+manos
+15-24
+X
+X
+X
+M es la actividad del trabajo en w/m2
+Flujo de calor a través del vestido y cálculo del IREQ
+El flujo de calor a través de la ropa de trabajo se lleva a cabo por conducción, convección y radiación (intercambio de calor seco) y por 
+evaporación del sudor (intercambio de calor latente). El efecto del vestido en este último ya viene contabilizado por la expresión (4) 
+mientras que el calor seco fluye dependiendo de la resistencia térmica de aquél (Iclr) y del gradiente de temperatura entre la superficie 
+de la piel (tsk) y la superficie del vestido (tcl).
+Como el flujo de calor seco (R + C,) a través de la superficie del vestido es equivalente al intercambio de calor entre la superficie del 
+vestido y el ambiente, se justifican las ecuaciones (5) y (6) en el cálculo del balance térmico, pero también se pueden expresar los 
+valores de C y R en función de la resistencia térmica del vestido de la siguiente forma:
+(tsk tcl) / Iclr = R + C (7)
+De la ecuación (1) se deduce que
+R + C = M - W - Eres - Cres - K - E - S
+donde el término K es despreciable.
+El índice IREQ es el valor de Iclr que hace cumplir la ecuación del balance térmico con pérdida neta de calor nula (S = 0), de forma que 
+representa la resistencia térmica del vestido necesaria para evitar el enfriamiento general del cuerpo, por lo que teniendo en cuenta 
+además la expresión (7) se obtiene:
+R + C = M - W - Eres - Cres - E....   (8)
+y
+IREQ = (tsk - tcl) / (M - W - Eres - Cres - E)  (9)
+La ecuación (9) contiene dos variables desconocidas (IREQ y tcl); de ella se despeja tcl :
+tcl = tsk - IREQ (M - W - Eres - Cres - E)
+Al sustituir t cl en la ecuación (8), los términos C y R contienen así mismo esa variable por lo que debe resolverse (8) por iteración.
+
+Cálculo del IREQmin e IREQneutro
+El hecho de que se cumpla la ecuación del balance térmico (S=0), no implica necesariamente que la situación sea confortable, antes 
+bien, admite numerosas soluciones en las que la temperatura interna del cuerpo se mantiene constante (no son previsibles efectos 
+adversos por estrés térmico o estrés por frío) pero el ambiente sería considerado de inconfortable por el individuo expuesto.
+Se dice que existe confort térmico cuando la sensación es neutra respecto al ambiente térmico. La situación de confort térmico implica 
+que los valores de la temperatura de la piel y la evaporación del sudor estén acotados entre ciertos límites. Para la evaluación de la 
+exposición al frío mediante el índice IREQ, se propone el cálculo de dos valores de éste, IREQmin e IREQneutro.
+El primero de ellos representa el aislamiento térmico del vestido (Iclr) mínimo para evitar el enfriamiento general del cuerpo. El segundo 
+corresponde al Iclr que proporcionará además confort térmico.
+Para el cálculo de ambos índices se emplean valores diferentes de tsk (temperatura de la piel) en función de la actividad metabólica y 
+de w (humedad de la piel) en la resolución de la ecuación (8), según el criterio de la tabla 2.
+Cálculo del tiempo máximo de exposición y tiempo de recuperación
+Tiempo máximo admisible
+Un individuo trabajando en un ambiente frío cuya resistencia térmica del vestido (Iclr) sea menor que el IREQmin está expuesto a riesgo 
+de estrés por frío con posibles efectos adversos para su salud al cabo de un tiempo determinado. En este caso la pérdida neta de calor 
+del cuerpo es S ≠ 0, por lo que al cabo de un tiempo T la energía calorífica neta perdida (Q) será Q = SxT. Se admite un valor máximo 
+de pérdida de energía calorífica neta, Qlim = -40wh/m2, para individuos físicamente sanos (ver tabla 2). Al principio de la exposición, y 
+por un tiempo limitado (20-30 minutos), hay una pérdida neta de calor en los tejidos, mayoritariamente causada por enfriamiento de la 
+piel y reducción de la circulación periférica, que corresponde a una pérdida de calor de aproximadamente 40 Wh/m2. Se equilibra 
+entonces la temperatura del cuerpo y el almacenamiento de calor es nulo.
+Para calcular el tiempo máximo de permanencia o exposición a un ambiente frío (para evitar el riesgo de enfriamiento general) debe 
+conocerse el valor de S a partir de las expresiones:
+R + C = M - W - Eres - Cres - E - S .... (10)
+y
+Iclr = (tsk - tcl ) /(M - W - Eres - Cres - E - S) (11)
+derivadas de (8) y (9) cuando S ≠ 0. La resolución debe realizarse como en el cálculo del IREQ, por iteración.
+Una vez conocido el valor S, se obtiene el tiempo máximo de permanencia en el ambiente frío a través de la expresión:
+Tmax = Qlim /S (12)
+Tiempo de recuperación
+Desde el punto de vista preventivo es útil conocer el tiempo de recuperación necesario para que un individuo expuesto a ambientes 
+fríos, en los que S < 0, recupere la energía calorífica que ha perdido. Es de suponer que el periodo de recuperación se llevará a cabo 
+bajo condiciones diferentes a las de trabajo, es decir que las variables termohigrométricas, la actividad metabólica, y el aislamiento 
+térmico del vestido, tendrán nuevos valores. Para que el organismo recupere energía calorífica, el término S´ debe ser positivo y se 
+obtiene de las ecuaciones (10) y (11) como en el caso del cálculo de Tmax , sustituyendo los valores de las variables correspondientes 
+al trabajo por las de recuperación. A continuación se emplea la expresión:
+Trec = Qlim /S’ (13)
+donde Qlim = 40 wh/m2
+Los cálculos del tiempo máximo de exposición y de recuperación se pueden estimar tanto para prevenir el riego de enfriamiento 
+general del cuerpo como para evitar el inconfort. En el primer caso se empleará un valor de tsk = 30°C y w = 0,06 y en el segundo, tsk = 
+35,7 - 0,0285 M y w = 0,001 M, tal como se estableció para el cálculo del IREQmin y del IREQneutro (ver tabla 2).
+El cálculo exacto del IREQ, tiempo máximo admisible y tiempo de recuperación precisa la utilización de un programa informático o 
+calculadora programable. En las tabla 8 se dan los valores del IREQ en función de la velocidad y la temperatura del aire y del nivel de 
+actividad; en las tablas 9 a 13 se da una selección de los valores calculados de T max para distintos valores del aislamiento del vestido, 
+de la temperatura del aire y del nivel de actividad. En el documento ISO/TR 11079:1993, se publica el programa informático adecuado 
+
+para la resolución de todos los cálculos precisos.
+Tabla 8: Valores de IREQ en función de la velocidad y la temperatura del aire y del nivel de 
+actividad
+Var (m/seg)
+IREQmin (clo) para M = 80 w/m2
+ta
+5ºC
+0ºC
+-5ºC
+-10ºC
+-20ºC
+-30ºC
+0.2
+1.91
+2.40
+2.89
+3.38
+4.36
+5.34
+0.5
+1.98
+2.47
+2.97
+3.45
+4.42
+5.39
+1
+2.07
+2.55
+3.03
+3.52
+4.49
+5.46
+2
+2.15
+2.63
+3.11
+3.58
+4.55
+5.51
+5
+2.23
+2.70
+3.18
+3.65
+4.60
+5.57
+Var (m/seg)
+IREQmin (clo) para M = 115 w/m2
+ta
+5ºC
+0ºC
+-5ºC
+-10ºC
+-20ºC
+-30ºC
+0.2
+1.16
+1.51
+1.86
+2.20
+2.89
+3.58
+0.5
+1.24
+1.58
+1.93
+2.27
+2.95
+3.63
+1
+1.32
+1.66
+2.00
+2.34
+3.02
+3.70
+2
+1.40
+1.74
+2.07
+2.41
+3.08
+3.76
+5
+1.49
+1.82
+2.15
+2.49
+3.15
+3.82
+Var (m/seg)
+IREQmin (clo) para M = 145 w/m2
+ta
+5ºC
+0ºC
+-5ºC
+-10ºC
+-20ºC
+-30ºC
+0.2
+0.83
+1.10
+1.38
+1.65
+2.20
+2.75
+0.5
+0.89
+1.17
+1.44
+1.71
+2.26
+2.80
+1
+0.97
+1.24
+1.51
+1.78
+2.32
+2.87
+2
+1.05
+1.31
+1.58
+1.85
+2.39
+2.93
+5
+1.14
+1.40
+1.67
+1.93
+2.46
+3
+Var (m/seg)
+IREQmin (clo) para M = 200 w/m2
+ta
+5ºC
+0ºC
+-5ºC
+-10ºC
+-20ºC
+-30ºC
+0.2
+0.40
+0.69
+0.89
+1.09
+1.49
+1.89
+0.5
+0.54
+0.74
+0.94
+1.14
+1.54
+1.94
+1
+0.61
+0.80
+1.00
+1.20
+1.59
+1.99
+2
+0.68
+0.87
+1.07
+1.26
+1.66
+2.05
+5
+0.76
+0.96
+1.15
+1.34
+1.73
+2.12
+
+Var (m/seg)
+IREQmin (clo) para M = 250 w/m2
+ta
+5ºC
+0ºC
+-5ºC
+-10ºC
+-20ºC
+-30ºC
+0.2
+0.33
+0.49
+0.65
+0.81
+1.13
+1.45
+0.5
+0.37
+0.53
+0.69
+0.85
+1.71
+1.49
+1
+0.42
+0.58
+0.74
+0.90
+1.21
+1.53
+2
+0.49
+0.64
+0.80
+0.96
+1.27
+1.59
+5
+0.57
+0.73
+0.88
+1.04
+1.35
+1.66
+Tabla 9: Valores de Tmax (horas) en función de las características del vestido y de la temperatura 
+del aire para M=80 w/m2 y distintos valores de la velocidad del aire, Var
+Icl (clo)
+Var (m/seg)
+ta
+5°C
+0°C
+-5°C
+-10°C
+-20°C
+-30°C
+ 
+ 
+1.5
+ 
+ 
+0.2
+2.06
+1.09
+0.75
+0.57
+0.39
+0.30
+0.5
+1.71
+0.97
+0.68
+0.52
+0.36
+0.27
+1
+1.41
+0.84
+0.60
+0.47
+0.33
+0.25
+2
+1.18
+0.74
+0.54
+0.42
+0.30
+0.23
+5
+0.99
+0.64
+0.48
+0.38
+0.27
+0.21
+ 
+ 
+2
+ 
+ 
+0.2
+6.41
+2.30
+1.27
+0.88
+0.55
+0.40
+0.5
+7.33
+1.96
+1.14
+0.81
+0.51
+0.38
+1
+4.71
+1.67
+1.02
+0.73
+0.47
+0.35
+2
+3.44
+1.44
+0.91
+0.67
+0.44
+0.33
+5
+2.63
+1.24
+0.82
+0.61
+0.4
+0.30
+ 
+ 
+2.5
+ 
+ 
+0.2
+>8
+>8
+2.50
+1.42
+0.78
+0.54
+0.5
+>8
+6.95
+2.23
+1.35
+0.73
+0.51
+1
+>8
+5.00
+1.90
+1.19
+0.68
+0.48
+2
+>8
+3.81
+1.71
+1.08
+0.63
+0.45
+5
+>8
+3.02
+1.48
+0.98
+0.59
+0.42
+ 
+ 
+3
+ 
+ 
+0.2
+>8
+>8
+>8
+2.75
+1.11
+0.71
+0.5
+>8
+>8
+6.90
+2.43
+1.06
+0.68
+1
+>8
+>8
+5.22
+2.14
+0.98
+0.64
+2
+>8
+>8
+4.15
+1.91
+0.92
+0.61
+5
+>8
+>8
+3.42
+1.70
+0.85
+0.57
+ 
+ 
+3.5
+0.2
+>8
+>8
+>8
+>8
+1.77
+0.98
+0.5
+>8
+>8
+>8
+6.93
+1.64
+0.93
+
+ 
+ 
+1
+>8
+>8
+>8
+5.40
+1.51
+0.88
+2
+>8
+>8
+>8
+4.45
+1.40
+0.83
+5
+>8
+>8
+>8
+3.73
+1.29
+0.78
+ 
+ 
+4
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+3.15
+1.37
+0.5
+>8
+>8
+>8
+>8
+2.83
+1.30
+1
+>8
+>8
+>8
+>8
+2.56
+1.22
+2
+>8
+>8
+>8
+>8
+2.32
+1.16
+5
+>8
+>8
+>8
+>8
+2.11
+1.09
+ 
+ 
+4.5
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+2.05
+0.5
+>8
+>8
+>8
+>8
+7.07
+1.92
+1
+>8
+>8
+>8
+>8
+5.86
+1.79
+2
+>8
+>8
+>8
+>8
+4.95
+1.68
+5
+>8
+>8
+>8
+>8
+4.27
+1.58
+ 
+ 
+5
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+3.44
+0.5
+>8
+>8
+>8
+>8
+>8
+3.17
+1
+>8
+>8
+>8
+>8
+>8
+2.90
+2
+>8
+>8
+>8
+>8
+>8
+2.69
+5
+>8
+>8
+>8
+>8
+>8
+2.49
+Tabla 10: Valores de Tmax (horas) en función de las características del vestido y de la temperatura 
+del aire para M=115 w/m2 y distintos valores de la velocidad del aire, Var
+Icl (clo)
+Var (m/seg)
+ta
+5ºC
+0ºC
+-5ºC
+-10ºC
+-20ºC
+-30ºC
+ 
+ 
+1.5
+ 
+ 
+0.2
+>8
+2.33
+1.10
+0.73
+0.44
+0.31
+0.5
+>8
+1.83
+0.95
+0.64
+0.40
+0.29
+1
+5.54
+1.38
+0.81
+0.56
+0.36
+0.26
+2
+3.20
+1.13
+0.69
+0.50
+0.32
+0.24
+5
+1.91
+0.90
+0.58
+0.43
+0.29
+0.21
+ 
+ 
+2
+ 
+ 
+0.2
+>8
+>8
+3.36
+1.46
+0.69
+0.45
+0.5
+>8
+>8
+2.56
+1.26
+0.63
+0.42
+1
+>8
+>8
+2.00
+1.08
+0.57
+0.39
+2
+>8
+>8
+1.60
+0.94
+0.51
+0.35
+5
+>8
+>8
+1.16
+0.80
+0.46
+0.32
+ 
+ 
+0.2
+>8
+>8
+>8
+5.00
+1.16
+0.66
+0.5
+>8
+>8
+>8
+3.71
+1.05
+0.61
+
+2.5
+ 
+ 
+1
+>8
+>8
+>8
+2.77
+0.95
+0.57
+2
+>8
+>8
+>8
+2.23
+0.84
+0.52
+5
+>8
+>8
+5.66
+1.78
+0.75
+0.48
+ 
+ 
+3
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+2.41
+1.02
+0.5
+>8
+>8
+>8
+>8
+2.09
+0.94
+1
+>8
+>8
+>8
+>8
+1.77
+0.86
+2
+>8
+>8
+>8
+>8
+1.56
+0.79
+5
+>8
+>8
+>8
+>8
+1.36
+0.72
+ 
+ 
+3.5
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+1.74
+0.5
+>8
+>8
+>8
+>8
+>8
+1.57
+1
+>8
+>8
+>8
+>8
+5.86
+1.41
+2
+>8
+>8
+>8
+>8
+4.34
+1.28
+5
+>8
+>8
+>8
+>8
+3.35
+1.16
+ 
+ 
+4
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+4.02
+0.5
+>8
+>8
+>8
+>8
+>8
+3.36
+1
+>8
+>8
+>8
+>8
+>8
+2.86
+2
+>8
+>8
+>8
+>8
+>8
+2.48
+5
+>8
+>8
+>8
+>8
+>8
+2.15
+Tabla 11. Valores de Tmax (horas) en función de las características del vestido y de la temperatura 
+del aire para M = 145 w/m2 y distintos valores de la velocidad del aire, Var
+Icl (clo)
+Var (m/seg)
+ta
+5ºC
+0ºC
+-5ºC
+-10ºC
+-20ºC
+-30ºC
+ 
+ 
+1
+ 
+ 
+0.2
+>8
+1.46
+0.78
+0.53
+0.28
+0.23
+0.5
+>8
+1.14
+0.65
+0.46
+0.27
+0.21
+1
+>8
+0.88
+0.55
+0.40
+0.26
+0.19
+2
+>8
+0.69
+0.45
+0.34
+0.23
+0.17
+5
+>8
+0.53
+0.37
+0.28
+0.19
+0.15
+ 
+ 
+1.5
+ 
+ 
+0.2
+>8
+>8
+3.18
+1.25
+0.57
+0.37
+0.5
+>8
+>8
+2.13
+1.05
+0.51
+0.34
+1
+>8
+6.41
+1.64
+0.88
+0.46
+0.31
+2
+>8
+4.18
+1.25
+0.73
+0.40
+0.28
+5
+>8
+2.19
+0.24
+0.60
+0.35
+0.25
+ 
+ 
+0.2
+>8
+>8
+>8
+6.41
+1.16
+0.61
+0.5
+>8
+>8
+>8
+5.78
+1.01
+0.56
+
+2
+ 
+ 
+1
+>8
+>8
+>8
+3.42
+0.88
+0.50
+2
+>8
+>8
+>8
+2.38
+0.78
+0.46
+5
+>8
+>8
+>8
+1.71
+0.66
+0.41
+ 
+ 
+2.5
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+4.02
+1.09
+0.5
+>8
+>8
+>8
+>8
+3.04
+0.98
+1
+>8
+>8
+>8
+>8
+2.36
+0.88
+2
+>8
+>8
+>8
+>8
+1.87
+0.78
+5
+>8
+>8
+>8
+>8
+1.49
+0.70
+ 
+ 
+3
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+2.68
+0.5
+>8
+>8
+>8
+>8
+>8
+2.25
+1
+>8
+>8
+>8
+>8
+>8
+1.89
+2
+>8
+>8
+>8
+>8
+>8
+1.62
+5
+>8
+>8
+>8
+>8
+>8
+1.37
+ 
+ 
+3.5
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+>8
+0.5
+>8
+>8
+>8
+>8
+>8
+>8
+1
+>8
+>8
+>8
+>8
+>8
+>8
+2
+>8
+>8
+>8
+>8
+>8
+7.71
+5
+>8
+>8
+>8
+>8
+>8
+4.81
+Tabla 12: Valores de Tmax (horas) en función de las características del vestido y de la temperatura 
+del aire para M=200 w/m2 y distintos valores de la velocidad del aire, Var
+Icl (clo)
+Var (m/seg)
+ta
+5ºC
+0ºC
+-5ºC
+-10ºC
+-20ºC
+-30ºC
+ 
+ 
+0.5
+ 
+ 
+0.2
+2.47
+0.76
+0.45
+0.32
+0.21
+0.15
+0.5
+1.40
+0.60
+0.38
+0.28
+0.18
+0.14
+1
+0.90
+0.46
+0.31
+0.24
+0.16
+0.12
+2
+0.60
+0.35
+0.25
+0.19
+0.13
+0.10
+5
+0.39
+0.25
+0.19
+0.15
+0.11
+0.08
+ 
+ 
+1
+ 
+ 
+0.2
+>8
+>8
+3.39
+1.07
+0.45
+0.29
+0.5
+>8
+>8
+2.04
+0.86
+0.40
+0.26
+1
+>8
+>8
+1.37
+0.69
+0.35
+0.24
+2
+>8
+3.47
+0.95
+0.55
+0.30
+0.21
+5
+>8
+1.45
+0.65
+0.42
+0.25
+0.18
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+1.38
+0.59
+0.5
+>8
+>8
+>8
+>8
+1.13
+0.53
+
+1.5
+ 
+ 
+1
+>8
+>8
+>8
+>8
+0.93
+0.47
+2
+>8
+>8
+>8
+5.70
+0.76
+0.41
+5
+>8
+>8
+>8
+2.22
+0.60
+0.35
+ 
+ 
+2
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+1.69
+0.5
+>8
+>8
+>8
+>8
+>8
+1.41
+1
+>8
+>8
+>8
+>8
+>8
+1.17
+2
+>8
+>8
+>8
+>8
+>8
+0.98
+5
+>8
+>8
+>8
+>8
+3.14
+0.79
+ 
+ 
+2.5
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+>8
+0.5
+>8
+>8
+>8
+>8
+>8
+>8
+1
+>8
+>8
+>8
+>8
+>8
+>8
+2
+>8
+>8
+>8
+>8
+>8
+>8
+5
+>8
+>8
+>8
+>8
+>8
+4.16
+Tabla 13: Valores de Tmax (horas) en función de las características del vestido y de la temperatura 
+del aire para M=250 w/m2 y distintos valores de la velocidad del aire, Var
+Icl (clo)
+Var (m/seg)
+ta
+5ºC
+0ºC
+-5ºC
+-10ºC
+-20ºC
+-30ºC
+ 
+ 
+0.5
+ 
+ 
+0.2
+>8
+1.90
+0.67
+0.41
+0.22
+0.16
+0.5
+>8
+1.20
+0.54
+0.35
+0.21
+0.15
+1
+1.61
+0.80
+0.43
+0.29
+0.18
+0.13
+2
+1.51
+0.54
+0.33
+0.24
+0.15
+0.11
+5
+0.66
+0.34
+0.23
+0.18
+0.12
+0.09
+ 
+ 
+1
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+0.73
+0.37
+0.5
+>8
+>8
+>8
+4.71
+0.63
+0.34
+1
+>8
+>8
+>8
+2.13
+0.53
+0.30
+2
+>8
+>8
+>8
+1.30
+0.43
+0.27
+5
+>8
+>8
+2.28
+0.78
+0.34
+0.22
+ 
+ 
+1.5
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+1.27
+0.5
+>8
+>8
+>8
+>8
+>8
+1.06
+1
+>8
+>8
+>8
+>8
+>8
+0.88
+2
+>8
+>8
+>8
+>8
+3.94
+0.72
+5
+>8
+>8
+>8
+>8
+1.71
+0.56
+ 
+ 
+0.2
+>8
+>8
+>8
+>8
+>8
+>8
+0.5
+>8
+>8
+>8
+>8
+>8
+>8
+
+2
+ 
+ 
+1
+>8
+>8
+>8
+>8
+>8
+>8
+2
+>8
+>8
+>8
+>8
+>8
+>8
+5
+>8
+>8
+>8
+>8
+>8
+5.70
+Ejemplo de aplicación
+Se desea valorar la exposición laboral al frío de un individuo que trabaja en un almacén frigorífico a -20 °C de temperatura del aire, 
+realizando tareas de transporte con traspalé, manejo y clasificación de cajas de productos congelados. Su actividad metabólica se 
+puede calcular teniendo en cuenta la siguiente distribución de tiempo (tabla 3).
+Tabla 3. Actividad del trabajo
+Componente de la actividad
+(*) Potencia calorífica 
+(kcal/min)
+% del tiempo de 
+trabajo
+Posición del cuerpo
+De pie
+0.6
+60
+Caminando
+2.0
+40
+Tipo de trabajo
+Ligero con ambos brazos
+1.5
+90
+Pesado con ambos brazos
+2.5
+10
+ Metabolismo Basal
+1
+100
+(*) Los valores de potencia calorífica y la división de la actividad en componentes son los 
+correspondientes a la propuesta de la American Conference of Governmental Industrial Hygienists 
+(ACGIH) para el cálculo de la potencia calorífica total debida a la actividad.
+El atuendo vestimentario del indivíduo se compone de las siguientes prendas:
+Ropa interior (camiseta de manga larga y calzoncillos), camisa de manga larga de franela y pantalón del mismo tejido, pullover grueso, 
+parka, calcetines gruesos, botas y guantes.
+Tabla 6. Temperatura de congelación para diferentes valores de temperatura y velocidad del aire 
+(en negrita los valores de tch que implican WCI ≥1600)
+ Velocidad del aire (m/s)
+t (°C)
+0
+-5
+-10
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+1.8
+0
+-5
+-10
+-15
+-20
+-25
+-30
+-35
+-40
+-45
+-50
+2
+-1
+-6
+-11
+-16
+-21
+-27
+-32
+-37
+-42
+-47
+-52
+3
+-4
+-10
+-15
+-21
+-27
+-32
+-38
+-44
+-49
+-55
+-60
+5
+-9
+-15
+-21
+-28
+-34
+-40
+-47
+-53
+-59
+-66
+-72
+8
+-13
+-20
+-27
+-34
+-41
+-48
+-55
+-62
+-69
+-76
+-83
+11
+-16
+-23
+-31
+-38
+-46
+-53
+-60
+-68
+-75
+-83
+-90
+15
+-18
+-26
+-34
+-42
+-49
+-57
+-65
+-73
+-80
+-88
+-96
+20
+-20
+-28
+-36
+-44
+-52
+-60
+-68
+-76
+-84
+-92
+-100
+La humedad relativa en el almacén es del 50%, la velocidad del aire de 0.2 m/s y la temperatura radiante es igual a la del aire (tr = ta).
+Resolución
+La actividad metabólica M se estima a partir de los datos disponibles de la siguiente forma (ver NTP-322.93):
+M = 0.6x0.6 kcal/min + 0.4x2.0 kcal/min + 0.9x1.5 kcal/min + 0.1x2.5 kcal/min + 1x1 kcal/min = 3.76 kcal/min = 144.4 W/m2
+El valor de la resistencia térmica del vestido según sus componentes, extraído de la tabla 4, es de Icl = 2.03 clo.
+
+Tabla 4. Valores de las resistencia térmica específica del atuendo
+ DESCRIPCIÓN DE LAS PRENDAS
+RESISTENCIA TÉRMICA Icl (clo)
+ROPA INTERIOR
+ 
+ Calzoncillos
+0.03
+Calzoncillos largos
+0.10
+Camiseta de tirantes
+0.04
+Camiseta de manga corta
+0.09
+Camiseta de manga larga
+0.12
+Sujetadores y bragas
+0.03
+CAMISAS BLUSAS
+ 
+Manga corta
+0.15
+Ligera, mangas cortas
+0.20
+Normal, mangas largas
+0.25
+Camisa de franela, mangas largas
+0.30
+Blusa ligera, mangas largas
+0.15
+PANTALONES
+ 
+Corto
+0.06
+Ligero
+0.20
+Normal
+0.25
+Franela
+0.28
+VESTIDOS - FALDAS
+ 
+Falda ligera (verano)
+0.15
+Falda gruesa (invierno)
+0.25
+Vestido ligero, mangas cortas
+0.20
+Vestido de invierno, mangas largas
+0.40
+Mono de trabajo
+0.55
+PULLOVER
+ 
+Chaleco sin mangas
+0.12
+Pullover ligero
+0.20
+Pullover medio
+0.28
+Pullover grueso
+0.35
+CHAQUETA
+ 
+Chaqueta ligera de verano
+0.25
+Chaqueta normal
+0.35
+Bata de trabajo (guardapolvo)
+0.30
+FORRADAS CON ELEVADO AISLAMIENTO
+ 
+Mono de trabajo
+0.90
+Pantalon
+0.35
+Chaqueta
+0.40
+Chaleco
+0.20
+
+PRENDAS EXTERIORES DE ABRIGO
+ 
+Abrigo
+0.60
+Chaqueta larga
+0.55
+Parka
+0.70
+Mono forrado
+0.55
+DIVERSOS
+ 
+Calcetines
+0.02
+Calcetines, gruesos, cortos
+0.05
+Calcetines, gruesos, largos
+0.10
+Medias de nylon
+0.03
+Zapatos de suela delgada
+0.02
+Zapatos de suela gruesa
+0.04
+Botas
+0.10
+Guantes
+0.05
+1 clo = 0,155 m2 °C w-1
+De las tablas 8 y 11 para M = 145 W/m2 y ta = 20°C obtenemos, respectivamente, para var = 0.2 m/s e Icl = 2 clo, los siguientes valores:
+IREQmin = 2.20 clo
+Tmax = 1,16 horas
+El valor de IREQmin de 2.20 clo equivale a una vestimenta según tablas de 2.75 clo ya que se debe preveer un 25% más de resistencia 
+térmica cuando los valores son teóricos. Como que el individuo en cuestión viste con 2 clo deberá proveerse al mismo de ropa que 
+alcance mayor nivel de aislamiento térmico o reducir la exposición habitual hasta aproximadamente 1 hora, puesto que según el valor 
+del IREQmin (<Iclr) existe riesgo de estrés por frío debido al enfriamiento general del cuerpo.
+Para conocer con exactitud el aumento de resistencia térmica del atuendo necesario o el tiempo de recuperación del individuo en las 
+condiciones actuales después de la exposición máxima de 70 minutos, es necesario disponer de un programa informático.
+Enfriamiento localizado
+El enfriamiento de algunas partes del cuerpo especialmente manos, pies y cabeza, puede producir inconfort, disminución de la 
+destreza manual y daños por frio.
+La evaluación de los riesgos debidos al enfriamiento localizado se puede llevar a cabo a través del índice experimental WCI (Wind Chill 
+Index), especialmente indicado para exposiciones al frío en exteriores basado en el poder de enfriamiento del viento.
+El WCI (potencia calorífica perdida) se calcula a través de la expresión:
+WCI = (hc + hr ) (tsk-ta) (14)
+El valor de hr es independiente del viento y es pequeño en relación a hc a altas velocidades del aire, por lo que la expresión (14), 
+expresando WCI en w/m2 se transforma,
+WCI = 1,16 (10,45 + 10(var)-1/2 -var)(33-ta ) (15)
+El valor máximo de WCI admisible para evitar daños por enfriamiento localizado, es de 1600 w/m2. (Tabla 2) Se define la temperatura 
+de congelación (tch) como la temperatura ambiente que para valores de var ≤ 1,8 m/s, posee el mismo poder de enfriamiento que las 
+condiciones existentes, se puede obtener de la siguiente expresión:
+tch = 33 WCI / 25,5 (16)
+En la tabla 5 se muestran los efectos del frío a diferentes valores de WCI y Tch , mientras que en la tabla 6 figuran los valores de tch 
+según la temperatura del aire y la velocidad del viento.
+
+Tabla 5. Efectos del frío para diferentes valores de WCI y tch
+WCI (w/m2)
+tch (°C)
+Efectosensación
+1200
+-14
+Muy frío
+1400
+-22
+Extremadamente frío
+1600 
+1800
+-30 
+-38
+Congelación de tejidos expuestos en una hora
+2000 
+2200
+-45 
+-53
+Congelación de tejidos expuestos en un minuto
+2400 
+2600
+-61 
+-69
+Congelación de tejidos expuestos en medio minuto
+Medidas preventivas
+La actuación preventiva frente al riesgo de estrés por frío pasa mayoritariamente por la intervención sobre aquellas variables que 
+intervienen en el balance térmico, susceptibles de modificación. La tabla 7 muestra un resumen de las posibles medidas preventivas a 
+aplicar, debiendo decidirse en cada caso las mas adecuadas
+ Tabla 7. Medidas preventivas frente al riesgo de estrés por frio
+ACTUACIÓNPREVENTIVA
+EFECTO BUSCADO
+Utilización de pantallas cortaviento en exteriores
+Reducir la velocidad del aire.
+Protección de extremidades
+Evitar enfriamiento localizado. Minimizar 
+el descenso de la temperatura de la piel.
+Seleccionar la vestimenta
+Facilitar evaporación del sudor. 
+Minimizar pérdidas de calor a través de 
+la ropa.
+Establecer régimenes de trabajo-recuperación
+Recuperar pérdidas de energía calorífica.
+Ingestión de líquidos calientes
+Recuperar pérdidas de energía calorífica.
+Limitar el consumo de café como diurético y modificador 
+de la circulación sanguínea
+Minimizar pérdidas de agua. Evitar 
+vasodilatación.
+Modificar difusores de aire (interiores, cámaras, etc.)
+Reducir la velocidad del aire (< 1m/s).
+Utilizar ropa cortaviento
+Reducir la velocidad del aire.
+Excluir individuos con medicación que interfiera la 
+regulación de temperatura
+Evitar pérdidas excesivas de energía 
+calorífica.
+Reconocimientos médicos previos
+Detectar disfunciones circulatorias, 
+problemas dérmicos, etc.
+Sustituir la ropa humedecida
+Evitar la congelación del agua y la 
+consiguiente pérdida de energía 
+calorífica.
+Medir periódicamente la temperatura y la velocidad del aire
+Controlarlas dos variables 
+termohigrométricas de mayor influencia 
+en el riego de estrés por frío.
+Disminuir el tiempo de permanencia en ambientes fríos
+La pérdida de energía calorífica depende 
+del tiempo de exposición al frío. Se 
+consigue de esta forma minimizar la 
+pérdida de calor.
+Controlar el ritmo de trabajo
+Aumentar el metabolismo para generar 
+mayor potencia calorífica evitando 
+excederse, ya que podría aumentar la 
+sudoración y el humedecimiento de la 
+ropa.
+
+Bibliografía
+(1) INTERNATIONAL ORGANIZATION FOR STANDARDIZATION (ISO) 
+Technical Report ISO TR 11079:1993 
+Evaluation of cold environments. determination of required clothing insulation (IREQ)
+(2) HOLMER, I 
+Required clothing insulation (IREQ) as an Analitical Index of Cold Stress 
+ASHRAE Transactions, 1984, V.90 (1)
+(3) PARSONS, KC 
+Human Thermal Environments 
+Taylor y Francis, London. 1993
+(4) AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIAL HYGIENISTS (ACGIH) 
+Treshold Limit Values for Chemical Substances and Physical Agents. 
+ACGIH, Cincinnati, 1997
+   © INSHT

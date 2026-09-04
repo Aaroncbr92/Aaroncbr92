@@ -1,0 +1,186 @@
+ 
+NTP 322: Valoración del riesgo de estrés térmico: índice WBGT
+Estimation de la cointrante thermique: indice WBGT 
+Estimation of the heat stress: WBGT index
+Redactor: 
+Pablo Luna Mendaza 
+Ldo. en Ciencias Químicas 
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+La existencia de calor en el ambiente laboral constituye frecuentemente una fuente de problemas que se traducen en quejas por falta 
+de confort, bajo rendimiento en el trabajo y, en ocasiones, riesgos para la salud. 
+El estudio del ambiente térmico requiere el conocimiento de una serie de variables del ambiente, del tipo de trabajo y del individuo. La 
+mayor parte de las posibles combinaciones de estas variables que se presentan en el mundo del trabajo, dan lugar a situaciones de 
+inconfort, sin que exista riesgo para la salud. Con menor frecuencia pueden encontrarse situaciones laborales térmicamente 
+confortables y, pocas veces, el ambiente térmico puede generar un riesgo para la salud. Esto último está condicionado casi siempre a 
+la existencia de radiación térmica (superficies calientes), humedad (> 60%) y trabajos que impliquen un cierto esfuerzo físico. 
+El riesgo de estrés térmico, para una persona expuesta a un ambiente caluroso, depende de la producción de calor de su organismo 
+como resultado de su actividad física y de las características del ambiente que le rodea, que condiciona el intercambio de calor entre el 
+ambiente y su cuerpo. Cuando el calor generado por el organismo no puede ser emitido al ambiente, se acumula en el interior del 
+cuerpo y la temperatura de éste tiende a aumentar, pudiendo producirse daños irreversibles. 
+Existen diversos métodos para valorar el ambiente térmico en sus diferentes grados de agresividad. 
+Fig. 1: Índices de valoración de ambiente térmico 
+Para ambientes térmicos moderados es útil conocer el índice PMV, cuyo cálculo permite evaluar el nivel de confort o disconfort de una 
+situación laboral (1). 
+Cuando queremos valorar el riesgo de estrés térmico se utiliza el índice de sudoración requerida, que nos da entre otros datos, el 
+tiempo máximo recomendable, de permanencia en una situación determinada (2). 
+El índice WBGT (3), objeto de esta Nota Técnica, se utiliza, por su sencillez, para discriminar rápidamente si es o no admisible la 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1991
+
+situación de riesgo de estrés térmico, aunque su cálculo permite a menudo tomar decisiones, en cuanto a las posibles medidas 
+preventivas que hay que aplicar. 
+Metodología
+El índice WBGT se calcula a partir de la combinación de dos parámetros ambientales: la temperatura de globo TG y la temperatura 
+húmeda natural THN. A veces se emplea también la temperatura seca del aire, TA. 
+Mediante las siguientes ecuaciones se obtiene el índice WBGT: 
+WBGT = 0.7 THN + 0.3 TG (I) 
+(en el interior de edificaciones o en el exterior, sin radiación solar) 
+WBGT = 0.7 THN + 0.2 TG +0.1 TA (II) 
+(en exteriores con radiación solar) 
+Cuando la temperatura no es constante en los alrededores del puesto de trabajo, de forma que puede haber diferencias notables entre 
+mediciones efectuadas a diferentes alturas, debe hallarse el índice WBGT realizando tres mediciones, a nivel de tobillos, abdomen y 
+cabeza, utilizando la expresión (III): 
+ 
+Las mediciones deben realizarse a 0.1 m, 1.1 m, y 1.7 m del suelo si la posición en el puesto de trabajo es de pie, y a 0.1 m, 0.6 m, y 
+1.1 m, si es sentado. Si el ambiente es homogéneo, basta con una medición a la altura del abdomen. 
+Este índice así hallado, expresa las características del ambiente y no debe sobrepasar un cierto valor límite que depende del calor 
+metabólico que el individuo genera durante el trabajo (M). 
+Fig. 2: Valores límite del índice WBGT (ISO 7243) 
+Mediante lectura en la curva correspondiente, el máximo que puede alcanzar el índice WBGT según el valor que adopta el término M. 
+Mediciones
+Las mediciones de las variables que intervienen en este método de valoración deben realizarse prerentemente, durante los meses de 
+verano y en las horas más cálidas de la jornada. Los instrumentos de medida deben cumplir los siguientes requisitos: 
+G     Temperatura de globo (TG): Es la temperatura indicada por un sensor colocado en el centro de una esfera de las siguientes 
+características:
+G     150 mm de diámetro.
+G     Coeficiente de emisión medio: 90 (negro y mate).
+G     Grosor: tan delgado como sea posible.
+G     Escala de medición: 20 ºC-120 ºC.
+G     Precisión: ±0,5 ºC de 20 ºC a 50 ºC y ±1 ºC de 50 ºC a 120 ºC.
+Temperatura húmeda natural (THN): Es el valor indicado por un sensor de temperatura recubierto de un tejido humedecido que es 
+ventilado de forma natural, es decir, sin ventilación forzada. Esto último diferencia a esta variable de la temperatura húmeda 
+psicrométrica, que requiere una corriente de aire alrededor del sensor y que es la más conocida y utilizada en termodinámica y en las 
+técnicas de climatización. 
+G     El sensor debe tener las siguientes características:
+
+G     Forma cilíndrica.
+G     Diámetro externo de 6mm ±1 mm.
+G     Longitud 30mm ±5mm.
+G     Rango de medida 5 ºC 40 ºC.
+G     Precisión ±0,5 ºC.
+G     La parte sensible del sensor debe estar recubierta de un tejido (p.e. algodón) de alto poder absorbente de agua.
+G     El soporte del sensor debe tener un diámetro de 6mm, y parte de él (20 mm) debe estar cubierto por el tejido, para reducir el 
+calor transmitido por conducción desde el soporte al sensor.
+G     El tejido debe formar una manga que ajuste sobre el sensor. No debe estar demasiado apretado ni demasiado holgado.
+G     El tejido debe mantenerse limpio.
+G     La parte inferior del tejido debe estar inmersa en agua destilada y la parte no sumergida del tejido, tendrá una longitud entre 20 
+mm y 30 mm.
+G     El recipiente del agua destilada estará protegido de la radiación térmica.
+Temperatura seca del aire (TA): Es la temperatura del aire medida, por ejemplo, con un termómetro convencional de mercurio u otro 
+método adecuado y fiable. 
+G     El sensor debe estar protegido de la radiación térmica, sin que esto impida la circulación natural de aire a su alrededor.
+G     Debe tener una escala de medida entre 20 ºC y 60 ºC (±1ºC).
+Cualquier otro sistema de medición de estas variables es válido si, después de calibrado, ofrece resultados de similar precisión que el 
+sistema descrito (4).
+Consumo metabólico (M)
+La cantidad de calor producido por el organismo por unidad de tiempo es una variable que es necesario conocer para la valoración del 
+estrés térmico. Para estimarla se puede utilizar el dato del consumo metabólico, que es la energía total generada por el organismo por 
+unidad de tiempo (potencia), como consecuencia de la tarea que desarrolla el individuo, despreciando en este caso la potencia útil 
+(puesto que el rendimiento es muy bajo) y considerando que toda la energía consumida se transforma en calorífica. 
+El término M puede medirse a través del consumo de oxígeno del individuo, o estimarlo mediante tablas (5). Esta última forma, es la 
+más utilizada, pese a su imprecisión, por la complejidad instrumental que comporta la medida del oxígeno consumido. 
+Existen varios tipos de tablas que ofrecen información sobre el consumo de energía durante el trabajo. Unas relacionan, de forma 
+sencilla y directa, el tipo de trabajo con el término M estableciendo trabajos concretos (escribir a máquina, descargar camiones etc.) y 
+dando un valor de M a cada uno de ellos. Otras, como la que se presenta en la tabla 2, determina un valor de M según la posición y 
+movimiento del cuerpo, el tipo de trabajo y el metabolismo basal (6). Este último se considera de 1 Kcal / min como media para la 
+población laboral, y debe añadirse siempre. 
+Tabla 1: Valores límite de referencia para 
+el índice WBGT (ISO 7243)
+El consumo metabólico se expresa en unidades de potencia o potencia por unidad de superficie corporal. La relación entre ellas es la 
+siguiente: 
+1 Kcal/hora = 1,16 watios = 0,64 watios/m2 (para una superficie corporal media de 1,8 m2).
+Variación de las condiciones de trabajo con el tiempo
+Durante la jornada de trabajo pueden variar las condiciones ambientales o el consumo metabólico, al realizar tareas diferentes o en 
+diferentes ambientes. En estos casos se debe hallar el índice WBGT o el consumo metabólico, ponderados en el tiempo, aplicando 
+las expresiones siguientes: 
+ 
+Esta forma de ponderar sólo puede utilizarse bajo la condición de que: 
+
+ 
+Esto se debe a que las compensaciones de unas situaciones térmicas con otras no ofrecen seguridad en periodos de tiempos largos.
+Adecuación de regímenes de trabajo - descanso
+Cuando exista riesgo de estrés térmico según lo indicado, puede establecerse un régimen de trabajo-descanso de forma que el 
+organismo pueda restablecer el balance térmico. Se puede hallar en este caso la fracción de tiempo (trabajo-descanso) necesaria para 
+que, en conjunto, la segura, de la siguiente forma: 
+ 
+Siendo: 
+G     ft= Fracción de tiempo de trabajo respecto al total (indica los minutos a trabajar por cada hora)
+G     A = WBGT límite en el descanso (M <100 Kcal/h.)
+G     B = WBGT en la zona de descanso
+G     C = WBGT en la zona de trabajo
+G     D = WBGT límite en el trabajo
+Si se trata de una persona aclimatada al calor, que permanece en el lugar de trabajo durante la pausa, la expresión (VI) se simplifica: 
+ 
+Cuando B ≥ A, las ecuaciones Vi y VII no son aplicables. 
+Esta situación corresponde a un índice WBGT tan alto, que ni siquiera con un índice de actividad relativo al descanso (< 100 kcal 1 
+hora) ofrece seguridad. Debe adecuarse un lugar mas fresco para el descanso, de forma que se cumpla B < A.
+Limitaciones a la aplicación del método
+La simplicidad del método hace que esté sujeto a ciertas limitaciones, debidas a las obligadas restricciones en algunas variables. Así 
+por ejemplo, la curva límite sólo es de aplicación a individuos cuya vestimenta ofrezca una resistencia térmica aproximada de 0,6 clo, 
+que corresponde a un atuendo veraniego. 
+La velocidad del aire: Sólo interviene a partir de cierto valor del consumo metabólico y de forma cualitativa, aumentando 1 ó 2 ºC los 
+límites del índice WBGT, cuando existe velocidad de aire en el puesto de trabajo. Ver tabla 1 
+Los límites expresados en la figura 1 sólo son válidos para individuos sanos y aclimatados al calor. La aclimatación al calor es un 
+proceso de adaptación fisiológica que incrementa la tolerancia a ambientes calurosos, fundamentalmente por variación del flujo de 
+sudor y del ritmo cardíaco. La aclimatación es un proceso necesario, que debe realizarse a lo largo de 6 ó 7 días de trabajo, 
+incrementando poco a poco la exposición al calor. 
+A.C.G.I.H. (6), que adopta este método como criterio de valoración de estrés térmico y presenta una curva límite (TLV) similar, pero 
+añadiendo además otra para individuos no aclimatados, bastante más restrictiva. 
+Cuando la situación de trabajo no se adapte al campo de aplicación del método, es decir, que la velocidad del aire o el vestido sean 
+muy diferentes de lo indicado, debe recurrirse a métodos más precisos de valoración (1) y (2).
+Ejemplo de aplicación
+Supongamos una situación de trabajo caracterizada por una temperatura de globo de 40 ºC y temperatura húmeda natural de 29 ºC, en 
+la que un individuo aclimatado al calor y con indumentaria veraniega (0,5 clo), descarga un horno que trabaja en continuo, secando 
+piezas que circulan por su interior, las cuales pesan 10 Kg. Una vez descargada la pieza debe dejarla en un lugar cercano para que 
+posteriormente otra persona proceda a su almacenamiento. 
+El ciclo de trabajo (mínimo conjunto de tareas que se repiten de forma ordenada a lo largo de la jornada y que constituye el trabajo 
+habitual del individuo) se puede desglosar de la siguiente forma: 
+
+ 
+El cálculo del término M podría hacerse con ayuda de la Tabla 2 de la forma siguiente: 
+Tabla 2: Estimación del consumo metabólico M (ACGIH)
+Teniendo en cuenta la distribución de tiempos y el Metabolismo Basal considerado de 1 Kcal/min, M= 4,5 Kcal/min x 0,27 + 2 Kcal/min 
+x 0,19 + 0,6 Kcal/min x 0,54 + 1 Kcal/min = 2,92 Kcal/min = 175 Kcal/h 
+El índice WBGT calculado según las temperaturas indicadas y la ecuación (I), resulta ser de 32,3ºC, mientras que el WBGT límite para 
+el consumo metabólico determinado, es según indica la gráfica 1 de 30 ºC, por lo que existe una situación de riesgo no admisible de 
+estrés térmico en estas condiciones y según este método. 
+Si queremos aplicar al puesto, un régimen de trabajo-descanso, para disminuir el riesgo: 
+WBGT (límite) descansando = 31 ºC (tabla 1) 
+Si el periodo de descanso lo realiza en las inmediaciones del puesto de trabajo, el índice WBGT es el mismo por lo que, WBGT 
+descansado = 32,3 ºC. 
+Aplicando la ecuación VII: 
+ 
+Si por el contrario descansa en un lugar más fresco, cuyo WBGT fuera por ejemplo, de 27 ºC, aplicando la ecuación VI: 
+ 
+ 
+Bibliografía
+(1) ISO 7730. 1984 y revisión 1992 
+Ambiances thermiques modérés. Determination des indices PMV et PPD et specification des conditions de confort thermique 
+
+(2) ISO 7933. 1989 
+Ambiances thermiques chaudes. Determination analytique et interpretation de la contrainte thermique fondées sur le calcul de 
+la sudation requise 
+(3) ISO 7243. 1989 
+Hot environmentes. Estimation of the heat stress on working man, based on the WBGT index (Wet bulb globe temperatures) 
+(4) ISO 7726. 1985 
+Ambiances thermiques. Appareils et méthodes de mesure des caractéristiques physiques de l'environment 
+(5) ISO/DIS 8996 
+Determination du métabolisme énergétique 
+(6) American Conference of Governmental Industrial Hygienists 
+Threshold limits values and Biological exposure índices of 1992-93 
+Cincinnati. A.C.G.I.H. 1992 
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-94-008-1 

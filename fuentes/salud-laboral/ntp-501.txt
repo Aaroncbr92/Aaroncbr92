@@ -1,0 +1,280 @@
+ 
+NTP 501: Ambiente térmico: inconfort térmico local
+Environnement thermique: Inconfort thermique local 
+Thermal environment: Local thermal discomfort
+Redactora:
+Ana Hernández Calleja 
+Licenciada en Ciencias Biológicas
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+En el Real Decreto 486/1997, de 14 de abril, se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo. 
+En particular, en su anexo III “Condiciones ambientales de los lugares de trabajo” figuran los requisitos en cuanto a ambiente térmico y 
+ventilación que deben cumplirse en dichos lugares de trabajo. La información incluida en este anexo es una mezcla entre valores 
+cuantitativos más o menos precisos, por ejemplo: “ ...la temperatura de los locales donde se realicen trabajos sedentarios propios de 
+oficinas o similares estará comprendida entre 17°C y 27°C...” o “ ...la humedad relativa estará comprendida entre el 30 y el 70 por 
+ciento, excepto en los locales donde existan riesgos por electricidad estática en los que el límite inferior será el 50 por ciento...” y una 
+serie de recomendaciones genéricas cualitativas referentes a la posible incomodidad o molestia de los ocupantes de esos lugares, por 
+ejemplo: “ En la medida de lo posible, las condiciones ambientales de los lugares de trabajo no deben constituir una fuente de 
+incomodidad o de molestia para los trabajadores. A tal efecto, deberán evitarse las temperaturas y las humedades extremas, los 
+cambios bruscos de temperatura, las corrientes de aire molestas, los olores desagradables, la irradiación excesiva y, en particular, la 
+radiación solar a través de ventanas, luces o tabiques acristalados”.
+A continuación se citan algunos de los aspectos que tienen importancia en la evaluación del inconfort térmico local. En los trabajos de 
+P.O. Fanger sobre confort térmico en el conjunto del cuerpo (ver NTP-74), se mencionan dos condiciones que deben cumplirse para 
+que las personas manifiesten satisfacción con el ambiente térmico. En primer lugar, debe cumplirse la ecuación del balance térmico, es 
+decir, debe existir un equilibrio entre la ganancia de calor (ambiental o metabólico) y la eliminación del mismo y, en segundo lugar, y 
+dado que el cumplimiento de la ecuación del balance térmico no es suficiente para conseguir el confort térmico, la temperatura de la 
+piel y la cantidad de sudor evaporado deben estar comprendidas entre ciertos límites. Cuando se cumplen estas dos condiciones, un 
+individuo puede manifestar su satisfacción con el ambiente térmico para el conjunto de su cuerpo. No obstante, todavía existe una 
+tercera condición para obtener confort térmico, y es que no exista inconfort térmico local. Este inconfort ocurre cuando una persona, 
+que expresa confort en el conjunto de su cuerpo, puede sentirse inconfortable térmicamente si alguna parte de su cuerpo está, por 
+ejemplo, fría y otra caliente.
+Este inconfort puede estar causado por:
+G     Corrientes de aire.
+G     Asimetría de planos radiantes.
+G     Contacto con superficies frías o calientes.
+G     Diferencias verticales de temperatura.
+El objetivo de esta Nota Técnica es proporcionar información sobre los aspectos termoambientales que pueden provocar inconfort 
+térmico local, así como sobre los estudios experimentales que han proporcionado los valores recomendables para mantener el 
+porcentaje de insatisfechos por debajo de unos determinados límites.
+Estos valores están recogidos en distintas normas nacionales e internacionales, por ejemplo: la Norma UNE-EN-ISO 7730/1996, 
+“Ambientes térmicos moderados” o en el borrador de norma europea PrENV-1752/1997 “ Ventilation for buildings. Design criteria for the 
+indoor environment”. La primera está incluida en la Instrucción Técnica Complementaria ITE 02.2.1 “Bienestar térmico”, del Reglamento 
+de Instalaciones térmicas en los edificios (Real Decreto 1751/1998, de 31 de julio), por lo que forma parte de la legislación vigente en 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1998
+
+nuestro país.
+Corrientes de aire
+Una corriente de aire se define como un enfriamiento localizado del cuerpo causado por el movimiento del aire. Las corrientes de aire 
+han sido identificadas como uno de los factores ambientales más molestos en los lugares de trabajo en general y como el más molesto 
+en las oficinas. En ocasiones, este hecho lleva a los ocupantes de un espacio a cerrar los difusores del aire e incluso a parar el sistema 
+de ventilación.
+En lugares con calefacción, pero que no tienen sistemas mecánicos de ventilación, las molestias pueden ser debidas a las corrientes 
+convectivas que se forman a lo largo de las ventanas u otras superficies frías.
+El flujo de aire en un local es normalmente turbulento y la velocidad fluctúa al azar. La intensidad de la turbulencia es función de la 
+velocidad media del aire y de la desviación estándar de la velocidad de fluctuación. La percepción de una corriente de aire depende de:
+G     La velocidad del aire.
+G     El grado de turbulencia del aire.
+G     La temperatura del aire.
+G     El área del cuerpo expuesta.
+G     El estado térmico de la persona, por ejemplo: una persona calurosa percibe la corriente como una brisa agradable, mientras 
+que una friolera la percibe como corriente molesta.
+Fanger y su equipo realizaron una serie de experimentos en cámaras climáticas en las que 150 personas fueron expuestas a 
+temperaturas del aire que oscilaban entre los 20°C y 26°C, a velocidades medias del aire entre 0,05 y 0,4 m/s y a unas intensidades de 
+turbulencia que oscilaban entre el 0% y el 70%. Las personas participantes mantenían una actividad ligera, sedentaria y se mantenían 
+próximos a la neutralidad térmica para el conjunto del cuerpo modificando su indumentaria.
+De las experiencias se obtuvo el índice DR (del inglés Draught Risk) que expresa el porcentaje de insatisfechos por corrientes de aire. 
+Este índice es función de la temperatura y del movimiento del aire, que está definido por la velocidad media del aire y la intensidad de 
+la turbulencia.
+DR = (34 - ta) · (v - 0,05)0,62 · (0,37 · v · Tu · 3,14)
+DR=
+Es la molestia por corrientes de aire, es decir, el porcentaje de la población insatisfecha por las corrientes de aire.
+ta=
+Es la temperatura del aire (°C).
+v=
+Es la velocidad media local del aire (m/s).
+Tu=
+Es la intensidad de turbulencia, en tanto por ciento, definida como la relación entre la desviación estándar de la velocidad 
+instantánea del aire y la velocidad media del aire.
+En la figura 1 se muestra la gráfica de la velocidad media del aire permitida en función de la temperatura del aire y de la turbulencia, 
+para un índice DR de molestia por corrientes de aire de un 15% de insatisfechos. La figura es aplicable a actividades ligeras, 
+esencialmente sedentarias (70 W/m2 = 1,2 met = 110 kcal/hora).
+
+Fig. 1: Velocidad del aire permitida en función de la temperatura del aire y de la intensidad de la turbulencia
+A modo de conclusión:
+G     Para una misma temperatura y velocidad media del aire, un flujo de aire con una intensidad de turbulencia alta es percibido 
+como una corriente de aire por más personas que un flujo de aire con una intensidad de turbulencia baja.
+G     Las personas son más sensibles a las corrientes de aire que llegan por detrás en la zona de la cabeza, nuca y hombros, y en 
+los tobillos.
+G     Las personas con tareas que precisan una mayor actividad física son menos sensibles a las corrientes de aire que las que 
+desarrollan trabajos de tipo sedentario.
+G     Una forma de paliar los problemas por corrientes de aire consistiría en la utilización de sistemas de ventilación cuya distribución 
+del aire creara flujos de aire menos turbulentos, por ejemplo, los sistemas por desplazamiento de aire.
+Asimetría de planos radiantes
+La asimetría de planos radiantes o, lo que es lo mismo, una distribución no uniforme de la transferencia de calor por radiación puede 
+estar causada por la existencia de grandes superficies frías o calientes, por ejemplo: ventanas, paredes frías, techos calientes y por la 
+presencia de productos o maquinaria fría o caliente. En edificios de tipo no industrial, por ejemplo, oficinas o domicilios, las causas más 
+frecuentes de este fenómeno son la existencia de ventanas frías o techos calientes.
+La temperatura radiante media describe el intercambio de calor por radiación entre el cuerpo y las superficies que lo rodean (planos 
+anterior y posterior, superior e inferior y planos derecho e izquierdo). La asimetría de planos radiantes describe la diferencia de 
+temperatura radiante entre dos planos; por ejemplo, derecha e izquierda o superior e inferior.
+Para determinar la relación entre la asimetría de la temperatura radiante y la insatisfacción, se realizaron una serie de experiencias en 
+cámaras climáticas. En estas cámaras, las personas participantes se encontraban sentadas, con un vestido estándar de 0,6 clo (del 
+inglés clothes, 1 clo = 0,155 m2 · °C/W) y estaban expuestos a planos horizontales calientes por encima de la cabeza y a planos 
+verticales laterales fríos. La temperatura de esos planos se iba modificando a lo largo de la experiencia, con lo que la asimetría fue 
+aumentada o disminuida, mientras que el resto de los planos se mantenía a temperatura constante. Ya que estos cambios alteraban el 
+valor de la temperatura radiante media y, por lo tanto, el grado de confort general, se adecuó el resto de parámetros para mantener la 
+neutralidad térmica del conjunto del cuerpo, una de las opciones consistía en modificar la temperatura del aire.
+Las personas sometidas a estas experiencias daban la opinión subjetiva sobre su sensación de confort respecto a los planos radiantes. 
+De estas opiniones se estableció la relación entre la asimetría de planos radiantes y el porcentaje de insatisfechos. En la figura 2 se 
+muestran las gráficas en las que se relacionan estos dos aspectos y de ellas se desprende que las personas son más sensibles a la 
+asimetría de planos horizontales calientes por encima de la cabeza que a los planos verticales laterales fríos. En el primero de los 
+casos, a una diferencia de temperatura radiante de 5°C, le corresponde un 7% de insatisfechos, mientras que en el segundo de los 
+casos, se precisa una diferencia de 10°C para obtener un porcentaje de insatisfechos del 5%. Al analizar el resto de posibilidades, se 
+observa que cuando se trata de planos horizontales fríos por encima de la cabeza, para obtener un 7% de insatisfechos, la diferencia 
+de temperatura radiante debe ser de 15°C; si se trata de planos verticales calientes, la diferencia de temperatura radiante ha de ser de 
+25°C para tener un 5% de insatisfechos.
+
+Fig. 2: Porcentaje de insatisfechos en función de la asimetría de la temperatura de radiación
+Diferencia vertical de temperaturas
+En muchos espacios la temperatura del aire no es uniforme desde el suelo al techo, normalmente aumenta con la altura. Si ese 
+gradiente es suficientemente grande, puede aparecer el inconfort localizado, por ejemplo, el que se produce al tener los pies fríos y/o la 
+cabeza caliente, aunque se mantenga el confort para el conjunto del cuerpo.
+Experimentos realizados en la cámara climática con individuos que realizaban una actividad ligera, en confort térmico para el conjunto 
+del cuerpo y sometidos a diferentes gradientes de temperatura entre los tobillos y la cabeza, permitieron obtener la relación entre esos 
+gradientes y el porcentaje de insatisfechos. De la figura 3 se desprende que cuando el gradiente es de 3°C, el porcentaje de 
+insatisfechos es de un 5%. Las personas que desarrollan una actividad física mayor son menos sensitivas y al parecer toleran 
+gradientes de temperatura superiores, aunque no existan datos experimentales que confirmen tal hipótesis.
+Fig. 3: Porcentaje de insatisfechos en función de la diferencia vertical de temperatura entre los tobillos (0,1 m) y la cabeza (1,1 
+m en posición sentado y 1,7 m de pie)
+Suelos calientes o fríos
+Debido al contacto directo de los pies con el suelo, el inconfort local puede estar causado por suelos que se encuentran a temperaturas 
+muy bajas o muy altas. La temperatura del suelo tiene una influencia significativa en la temperatura radiante media y, por tanto, en el 
+confort térmico del conjunto del cuerpo y está influenciada por el tipo de construcción, por ejemplo, si el edificio está construido 
+directamente sobre la tierra, sobre una bodega o sótano, sobre otra habitación o si la calefacción existente llega a través del suelo.
+Diversos estudios realizados con personas descalzas sobre suelos de diferentes materiales permitieron determinar el rango idóneo de 
+temperaturas, en la tabla 1 se muestran los intervalos de temperatura recomendados para distintos tipos de materiales.
+En los estudios realizados con personas calzadas se observó que la temperatura del suelo tenía una importancia menor; se obtuvieron 
+temperaturas del suelo óptimas: para trabajos de tipo sedentario, 25°C y para personas de pie o andando, 23°C.
+En la figura 4, en la que se han incluido los resultados de las experiencias realizadas con personas descalzas y calzadas, se muestra la 
+
+gráfica en la que se relaciona el porcentaje de insatisfechos con la temperatura del suelo. De la gráfica se desprende que a la 
+temperatura óptima de 24°C, un 6% se mostrará insatisfecho.
+Fig. 4: Porcentaje de insatisfechos en función de la temperatura del suelo
+Tabla 1. Temperaturas de confort del suelo para personas descalzas
+MATERIAL DEL SUELO
+TEMPERATURA DEL SUELO ÓPTIMA
+INTERVALO 
+RECOMENDADO DE 
+TEMPERATURAS
+OCUPACIÓN 1 MINUTO
+OCUPACIÓN 10 MINUTOS
+Textiles
+21
+24,5
+21-28
+Corcho
+24
+26
+23-28
+Madera (pino)
+25
+26
+22,5-28
+Madera (roble)
+26
+26
+24,5-28
+PVC
+28
+27
+25,5-28
+Linóleo
+28
+26
+24-28
+Cemento
+28,5
+27
+26-28,5
+Mármol
+30
+29
+28-29,5
+Valores de referencia
+En el Real Decreto 486/1997 se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo. En particular, en 
+su anexo III “Condiciones ambientales de los lugares de trabajo” figuran los requisitos en cuanto a ambiente térmico que deben 
+cumplirse en dichos lugares de trabajo y que son los siguientes:
+a.  La temperatura de los locales donde se realicen trabajos sedentarios propios de oficinas o similares estará comprendida entre 
+17 y 27 °C. La temperatura de los locales donde se realicen trabajos ligeros estará comprendida entre 14 y 25 °C.
+b.  La humedad relativa estará comprendida entre el 30 y el 70%, excepto en los locales donde existan riesgos por electricidad 
+estática en los que el límite inferior será el 50%.
+Los trabajadores no deberán estar expuestos de forma frecuente o continuada a corrientes de aire cuya velocidad exceda los 
+siguientes límites: 0,25 m/s para trabajos en ambientes no calurosos; 0,5 m/s para trabajos sedentarios en ambientes calurosos y 0,75 
+m/s para trabajos no sedentarios en ambientes calurosos. Estos límites no se aplicarán a las corrientes de aire expresamente utilizadas 
+para evitar el estrés en exposiciones intensas al calor, ni a las corrientes de aire acondicionado, para las que el límite será de 0,25 m/s 
+en el caso de trabajos sedentarios y de 0,35 m/s en los demás casos.
+En el anexo informativo D de la norma UNE-EN-ISO 7730/1996, se incluyen los requisitos recomendados para el bienestar térmico, 
+tanto los relativos al bienestar general como al inconfort térmico local.
+Bienestar general
+Se considera como aceptable que el PPD (Porcentaje Estimado de Insatisfechos, del inglés Predicted Per centage of Dissatisfied) sea 
+inferior al 10%. Esto corresponde a un PMV (Voto Medio Estimado, del inglés Pre dicted Mean Vote) que oscile entre los valores -0,5 y 
+
+0,5. Es conveniente recordar que un PMV igual a 0, es decir, neutralidad térmica, supone un PPD del 5%.
+A título de ejemplo, en la figura 5 aparecen límites de bienestar para distintas temperaturas operativas en función de la actividad física 
+y de la ropa. Las áreas sombreadas indican la zona de bienestar más-menos un incremento de temperatura (±δt) alrededor de la 
+temperatura óptima, en el interior de la cual se cumple que el PMV está comprendido entre -0,5 y 0,5.
+Fig. 5: Temperatura operativa óptima (correspondiente a un PMV = 0) en función de la actividad y de la ropa
+La temperatura operativa (to) es la temperatura uniforme de un recinto radiante negro en el cual un ocupante intercambiaría la misma 
+cantidad de calor por radiación y convección que en el ambiente no uniforme real. En la mayor parte de los casos prácticos, si la 
+velocidad relativa del aire (vra) es baja (< 0,2 m/s), o si la diferencia entre la temperatura radiante media (trm ) y la temperatura del aire 
+(ta) es pequeña (< 4°C), la temperatura operativa puede calcularse, con suficiente aproximación, como el valor medio de ta y trm. Para 
+obtener una precisión mayor, puede adoptarse la siguiente fórmula
+to = A x ta + (1 - A) x trm
+El valor de A es función de la velocidad relativa del aire:
+vra
+<0,2 m/s
+0,2 y 0,6 m/s
+0,6 y 1 m/s
+A 
+0,5
+0,6
+0,7
+La temperatura operativa es el parámetro utilizado cuando el índice PMV se obtiene de las tablas del anexo C (normativo) de la Norma 
+UNE-EN-ISO 7730, para distintas combinaciones de actividad metabólica, ropa, temperatura operativa y velocidad relativa del aire.
+Inconfort térmico local
+Actividad ligera, esencialmente sedentaria en condiciones invernales (período de calefacción)
+G     La temperatura operativa debe mantenerse entre los 20°C y los 24°C (22 ±2°C).
+G     La diferencia vertical de temperatura del aire entre 1,1 m y 0,1 m sobre el suelo (nivel de la cabeza y nivel de los tobillos) debe 
+ser inferior a 3°C.
+G     La temperatura superficial del suelo debe estar normalmente comprendida entre 19°C y 26°C, pero los sistemas de calefacción 
+del suelo deben estar concebidos para mantenerlos a 29°C.
+G     La velocidad media del aire debe ser inferior a la especificada en la figura 1 para obtener un 15% de insatisfechos por 
+corrientes de aire.
+G     La asimetría de la temperatura de radiación en ventanas y otras superficies verticales frías debe ser inferior a 5°C (relativa a un 
+pequeño plano horizontal situado a 0,6 m sobre el suelo).
+G     La asimetría de la temperatura de radiación debida a un techo ligeramente caliente debe ser inferior a 10°C (relativa a un 
+pequeño plano horizontal situado a 0,6 m sobre el suelo).
+G     La humedad relativa debe permanecer entre el 30% y el 70%.
+
+Actividad ligera, esencialmente sedentaria en condiciones estivales (período de refrigeración)
+G     La temperatura operativa debe mantenerse entre los 23°C y los 26°C (24,5 ±1,5°C).
+G     La diferencia vertical de temperatura del aire entre 1,1 m y 0,1 m sobre el suelo (nivel de la cabeza y nivel de los tobillos) debe 
+ser inferior a 3°C.
+G     La velocidad media del aire debe ser inferior a la especificada en la figura 1 para obtener un 15% de insatisfechos por 
+corrientes de aire.
+G     La humedad relativa debe permanecer entre el 30% y el 70%.
+Bibliografía
+(1) MINISTERIO DE TRABAJO Y ASUNTOS SOCIALES 
+Real Decreto 486/1997, de 14 de abril, (BOE de 23 de abril de 1997) por el que se establecen las disposiciones mínimas de seguridad 
+y salud en los lugares de trabajo.
+(2) MINISTERIO DE LA PRESIDENCIA 
+Real Decreto 1751/1998, de 31 de julio, (BOE de 5 de agosto de 1998), por el que se aprueba el Reglamento de Instalaciones 
+Térmicas en los Edificios (RITE) y sus Instrucciones Técnicas Complementarias (ITE).
+(3) AENOR 
+Norma Española UNE-EN-ISO 7730, de julio de 1996. Ambientes térmicos moderados. Determinación de los índices PMV y PPD y 
+especificaciones de las condiciones para el bienestar térmico.
+(4) ISO 
+Norma ISO 7726 Thermal environments. Specifications relating to apliances and methods for measuring physical caracteristics of the 
+environment.
+(5) P.O. FANGER 
+Thermal Comfort 
+Mc Graw Hill, New York, 1972
+(6) CASTEJÓN, E. 
+NTP nº 74. Confort térmico. Método Fanger para su evaluación 
+Instituto Nacional de Seguridad e Higiene en el trabajo, 1983.
+(7) OLESEN, B. W. 
+Thermal Comfort 
+Nærum, Denmark, Brüel & Kjær, Technical review nº 2, 1982.
+(8) OLESEN, B. W. 
+Local thermal discomfort 
+Nærum, Denmark, Brüel & Kjær, Technical review nº 1, 1985.
+(9) MELIKOV, A. K. 
+Quantifying Draught Risk 
+Nærum, Denmark, Brüel & Kjær, Technical review nº 2, 1988.
+(10) MINISTERIO DE TRABAJO Y ASUNTOS SOCIALES. INSTITUTO NACIONAL DE SEGURIDAD E HIGIENE EN EL TRABAJO 
+Guía técnica para la evaluación y prevención de los riesgos relativos a la utilización de los lugares de trabajo 
+Madrid, INSHT, 1999.
+   © INSHT
