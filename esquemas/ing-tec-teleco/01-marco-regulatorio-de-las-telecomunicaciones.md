@@ -11,6 +11,10 @@ alta capacidad (**VHCN**).
 **Cabecera.** Enunciado: punto 1 del anexo · **2 preguntas** · **las dos de comprensión, ninguna de
 memoria** · **el examen usa las siglas del código europeo sin desarrollarlas ni una vez.**
 
+**Tema compartido.** **El enunciado de este punto es también, palabra por palabra, el punto 1 del
+anexo de Ingeniería Superior · Telecomunicación**, así que **este esquema sirve a las dos
+ocupaciones.**
+
 <!-- indice -->
 
 ## Índice

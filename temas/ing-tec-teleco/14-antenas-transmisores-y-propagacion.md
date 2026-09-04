@@ -5,7 +5,8 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 18 |
-| **Sirve para** | **Ing. Técnica Telecomunicación** |
+| **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 25 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra —con un solo signo de puntuación distinto—, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Sin norma: no la hay.** Su materia es la radiocomunicación clásica, y **va entero como oficio** |
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
@@ -29,6 +30,11 @@ A**, **clase B**, **clase AB**, **clase C** y **clase D**).
 > antenas para las distintas bandas y servicios. Sistemas radiantes en las distintas bandas.
 > Transmisores de modulación de amplitud y de modulación de frecuencia. Distorsiones y parámetros de
 > la señal de audio. Medida de las distorsiones y parámetros. Instrumentos de medida.»
+
+**Este tema sirve a DOS ocupaciones**: **el enunciado de arriba es también, palabra por palabra —con
+un solo signo de puntuación distinto—, el punto 25 del anexo de Ingeniería Superior ·
+Telecomunicación**, así que **el tema se comparte con aquella ocupación**, como se comparte el de
+prevención de riesgos laborales. **Nada de lo que sigue está escrito para una sola de las dos.**
 
 **Tres preguntas.** **Y el enunciado nombra diez asuntos**, así que **es, con el 10, el punto con peor
 relación entre lo enunciado y lo preguntado de la ocupación.**

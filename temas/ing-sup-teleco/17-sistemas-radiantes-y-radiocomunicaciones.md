@@ -15,7 +15,8 @@ múltiplos **kHz**, **MHz** y **GHz**; y la longitud de onda (**λ**).
 
 **Hay que decir de entrada cómo se reparte este punto con el 25 del mismo anexo**, porque **los dos
 hablan de antenas y el reparto va declarado**: **el punto 25 —«Antenas y transmisores de
-radiodifusión»— es IDÉNTICO, palabra por palabra, al punto 18 del anexo de Ingeniería Técnica ·
+radiodifusión»— es IDÉNTICO, palabra por palabra —sólo cambia un signo de puntuación tras la primera
+frase—, al punto 18 del anexo de Ingeniería Técnica ·
 Telecomunicación**, y **su tema se comparte con aquella ocupación**, como se comparte el de prevención.
 **Allí van las líneas de transmisión, las guías de onda, los transmisores de amplitud y de frecuencia,
 la onda corta y la medida de distorsiones.**
@@ -220,7 +221,8 @@ radiocomunicaciones es elegir un punto en ese intercambio.**
 **Cinco declaraciones expresas:**
 
 1. **El reparto entre este punto y el 25 del mismo anexo va declarado en la cabecera**: **el 25 es
-   idéntico palabra por palabra al punto 18 del anexo de Ingeniería Técnica · Telecomunicación y su
+   idéntico palabra por palabra —con un solo signo de puntuación distinto— al punto 18 del anexo de
+   Ingeniería Técnica · Telecomunicación, y su
    tema se COMPARTE con aquella ocupación.** **Aquí van los parámetros, los tipos y la propagación;
    allí, las líneas, las guías, los transmisores y la medida.** **No se solapan y no se recorta
    contenido.**

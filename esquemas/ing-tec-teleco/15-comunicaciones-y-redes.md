@@ -17,6 +17,10 @@ empatado con el de sonido** · **reparto**: 6 de direccionamiento, 5 de protocol
 y conmutación, 2 de medio físico, 1 de modelos, 1 de control de equipamiento audiovisual · **es el
 punto más rentable de la ocupación por tiempo invertido.**
 
+**Tema compartido.** **El enunciado de este punto es también, palabra por palabra, el punto 22 del
+anexo de Ingeniería Superior · Telecomunicación**, así que **este esquema sirve a las dos
+ocupaciones.**
+
 <!-- indice -->
 
 ## Índice

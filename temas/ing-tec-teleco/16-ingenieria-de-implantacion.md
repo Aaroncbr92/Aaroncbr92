@@ -5,7 +5,8 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 20 |
-| **Sirve para** | **Ing. Técnica Telecomunicación** |
+| **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 26 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Sin norma: no la hay.** Su materia es la práctica de un proyecto de instalación, y **va entero como oficio** |
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
@@ -24,6 +25,11 @@ acuerdo de nivel de servicio (**ANS**); la puesta en marcha y la aceptación de 
 > Telecomunicación, punto 20):
 > «Ingeniería de implantación. Planificación y ejecución de instalaciones. Medidas y control de
 > calidad.»
+
+**Este tema sirve a DOS ocupaciones**: **el enunciado de arriba es también, palabra por palabra, el
+punto 26 del anexo de Ingeniería Superior · Telecomunicación**, así que **el tema se comparte con
+aquella ocupación**, como se comparte el de prevención de riesgos laborales. **Nada de lo que sigue
+está escrito para una sola de las dos.**
 
 **Cero preguntas.** **Este punto del anexo no ha dado ni una en el cuadernillo**, y **el tema se
 escribe igual, contra el programa.**

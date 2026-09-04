@@ -10,6 +10,10 @@ alimentación ininterrumpida (**SAI**).
 que hace de verdad esta ocupación**: **un ingeniero técnico de telecomunicación en una televisión no
 opera equipos, los IMPLANTA.**
 
+**Tema compartido.** **El enunciado de este punto es también, palabra por palabra, el punto 26 del
+anexo de Ingeniería Superior · Telecomunicación**, así que **este esquema sirve a las dos
+ocupaciones.**
+
 <!-- indice -->
 
 ## Índice

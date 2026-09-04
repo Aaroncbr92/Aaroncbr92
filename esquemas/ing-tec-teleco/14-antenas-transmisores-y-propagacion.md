@@ -14,6 +14,10 @@ bandas de satélite, 1 de clases de amplificador, 1 de un componente elemental �
 onda, onda corta y medida de distorsiones no ha caído ninguna** · **aviso**: **la pregunta 75 no encaja
 en ningún punto del anexo** y se clasifica aquí por proximidad, declarándolo.
 
+**Tema compartido.** **El enunciado de este punto es también, palabra por palabra —con un solo signo
+de puntuación distinto—, el punto 25 del anexo de Ingeniería Superior · Telecomunicación**, así que
+**este esquema sirve a las dos ocupaciones.**
+
 <!-- indice -->
 
 ## Índice

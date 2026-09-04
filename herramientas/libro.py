@@ -477,6 +477,40 @@ AVISOS_ING_TEC_TELECO = {
         "es la correcta seg\u00fan la norma</b>.",
 }
 
+AVISOS_ING_SUP_TELECO = {
+    "44_preguntas_ing_sup_teleco · nº 15":
+        "<b>La pregunta depende de una fotografía.</b> El enunciado muestra un conversor y pide "
+        "identificarlo. <b>Este temario no describe lo que no ha visto</b>: la respuesta descansa "
+        "en la plantilla oficial, y lo que el tema aporta es <b>la regla de la familia</b> —cómo se "
+        "reconoce cada conector por el cuerpo, el cierre y la sección—.",
+    "44_preguntas_ing_sup_teleco · nº 22":
+        "<b>La pregunta depende de una fotografía.</b> Muestra un panel de conexiones y pide su "
+        "tipo. <b>La respuesta descansa en la plantilla oficial</b>, y el tema da la regla: <b>un "
+        "multipolar se reconoce por su carcasa rectangular y su inserto de muchos contactos</b>.",
+    "44_preguntas_ing_sup_teleco · nº 37":
+        "<b>La pregunta depende de un esquema.</b> Dibuja unos puestos técnicos frente a unas "
+        "estaciones de trabajo. <b>La palabra que la resuelve está en el texto</b> —«cualquiera de "
+        "las estaciones»—, y eso es conmutación de muchos a muchos: <b>una matriz, no un "
+        "extensor</b>. El tema la razona sin necesitar el dibujo.",
+    "44_preguntas_ing_sup_teleco · nº 68":
+        "<b>La pregunta depende de una fotografía.</b> Muestra un conector de fibra óptica. <b>La "
+        "respuesta descansa en la plantilla oficial</b>, y el tema da la regla de la familia: "
+        "<b>bayoneta, encaje y compacto</b>, y el compacto es el de alta densidad.",
+    "44_preguntas_ing_sup_teleco · nº 76":
+        "<b>La pregunta depende de una fotografía.</b> Muestra un conector de bus serie. <b>La "
+        "respuesta descansa en la plantilla oficial</b>, y el tema da la regla: <b>se reconoce por "
+        "la sección del cuerpo</b>, y sólo uno de los tipos es reversible.",
+    "44_preguntas_ing_sup_teleco · nº 91":
+        "<b>Una de las opciones sale ilegible de la transcripción.</b> El PDF de este cuadernillo "
+        "trae la fuente incrustada sin tabla de caracteres y el texto se lee del reconocimiento "
+        "óptico que está al lado; en esta pregunta, la tercera opción aparece como una cadena "
+        "corrompida. <b>No es un error del examen: es de la transcripción</b>, y se declara. <b>La "
+        "respuesta oficial no se ve afectada</b>, y el tema la razona por lo que esa interfaz "
+        "hace: un aviso hay que empujarlo al destinatario en cuanto ocurre, y eso pide un canal "
+        "abierto en los dos sentidos.",
+}
+
+
 AVISOS_REALIZACION_TV = {
     "66_preguntas_realizacion_a · nº 33":
         "<b>La pregunta tiene tres respuestas igualmente correctas.</b> <i>Ben-Hur</i>, "
@@ -986,6 +1020,88 @@ BLOQUES = {
                       "mano</b>. Es la respuesta peor documentada del bloque, porque los gestos "
                       "del control son convenio de casa y no hay fuente p\u00fablica que los fije. "
                       "<b>El temario lo declara</b> en lugar de inventar una.</p>",
+    ),
+    # Diecinueve temas propios, SIETE compartidos con Ingeniería Técnica ·
+    # Telecomunicación y el de prevención: veintisiete en total para un anexo de
+    # veintinueve puntos. Los compartidos llevan la carpeta puesta delante,
+    # igual que el de prevención, porque sus enunciados son los mismos palabra
+    # por palabra en los dos anexos y el tema se escribe una sola vez: los
+    # puntos 1, 2, 22, 24, 25, 26 y 28 de este anexo son los 1, 2, 19, 17, 18,
+    # 20 y 23 del de Ingeniería Técnica. Los puntos 13, 14 y 15 van unidos en un
+    # solo tema porque sus tres enunciados son la misma frase con el nombre de
+    # la sala cambiado. Ocho temas no tienen ni una pregunta y su banco no
+    # existe: en su lugar va None. Se desarrollan igual, contra el programa
+    "ing-sup-teleco": dict(
+        carpeta="ing-sup-teleco",
+        rotulo="Temario específico · Ing. Superior Telecomunicación",
+        ocupacion="Ing. Superior Telecomunicación",
+        titulo="Temario específico",
+        subtitulo="Los veintisiete temas de <b>Ingeniería Superior · "
+                  "Telecomunicación</b>",
+        pie="Oposiciones RTVE – Ing. Superior Telecomunicación",
+        avisos=dict(AVISOS_ING_SUP_TELECO, **AVISOS_PRL),
+        # la clase es la misma que en los demás bloques —el estilo está definido una
+        # sola vez—, pero el rótulo cambia: aquí ninguna respuesta oficial está mal,
+        # y lo que va debajo de la tabla no es una errata sino una declaración
+        clase_aviso="errata",
+        rotulo_aviso="Declarado en la",
+        temas=[
+            ("ing-tec-teleco/01-marco-regulatorio-de-las-telecomunicaciones", None),
+            ("ing-tec-teleco/02-la-senal-y-la-conversion-analogico-digital", None),
+            ("03-la-transmision-canal-modulacion-y-multiplexado", "ing-sup-teleco-03"),
+            ("04-medios-de-transmision-conectores-y-compresion", "ing-sup-teleco-04"),
+            ("05-la-senal-de-television", "ing-sup-teleco-05"),
+            ("06-television-digital-codificacion-y-compresion", "ing-sup-teleco-06"),
+            ("07-la-television-digital-terrestre", "ing-sup-teleco-07"),
+            ("08-alta-y-ultraalta-definicion-estandares", "ing-sup-teleco-08"),
+            ("09-comunicaciones-y-radiodifusion-por-satelite", "ing-sup-teleco-09"),
+            ("10-voz-imagen-multimedia-y-streaming", "ing-sup-teleco-10"),
+            ("11-produccion-camaras-conmutacion-grabacion-y-edicion", "ing-sup-teleco-11"),
+            ("12-produccion-sonido-iluminacion-medida-y-auxiliares", "ing-sup-teleco-12"),
+            ("13-las-salas-estudio-continuidad-y-controles-tecnicos", "ing-sup-teleco-13"),
+            ("14-sistemas-de-redaccion-e-informativos", None),
+            ("15-postproduccion-de-video-y-audio", "ing-sup-teleco-15"),
+            ("16-grafismo-electronico-y-escenografia-virtual", None),
+            ("17-sistemas-radiantes-y-radiocomunicaciones", "ing-sup-teleco-17"),
+            ("18-almacenamiento-de-datos-y-servidores", "ing-sup-teleco-18"),
+            ("19-produccion-audiovisual-sobre-infraestructura-ip", "ing-sup-teleco-19"),
+            ("ing-tec-teleco/15-comunicaciones-y-redes", "ing-sup-teleco-20"),
+            ("21-sonido", "ing-sup-teleco-21"),
+            ("ing-tec-teleco/13-radio-digital", None),
+            ("ing-tec-teleco/14-antenas-transmisores-y-propagacion", None),
+            ("ing-tec-teleco/16-ingenieria-de-implantacion", "ing-sup-teleco-24"),
+            ("25-seguridad-en-tecnologias-de-la-informacion", None),
+            ("ing-tec-teleco/19-proteccion-de-datos-personales", None),
+        ] + [TEMA_PRL],
+        aviso_respuestas="<b>Las ochenta y seis respuestas oficiales de este bloque son "
+                         "correctas.</b> Ninguna es errónea y ninguna es impugnable. <b>Cinco "
+                         "dependen de una figura</b> —cuatro fotografías y un esquema— y <b>una "
+                         "llega con una opción ilegible desde la transcripción</b>: van "
+                         "declaradas una a una debajo de su tabla, con lo que el temario puede "
+                         "sostener y lo que descansa en la plantilla.",
+        aviso_portada="<p><b>Cuatro plazas convocadas</b> en la convocatoria 1/2025 y <b>noventa "
+                      "y seis preguntas</b> de un cuadernillo con su plantilla completa: "
+                      "<b>ochenta principales más dieciséis de reserva</b>. Ochenta y seis son "
+                      "del específico y <b>están todas repartidas</b>; las diez restantes son del "
+                      "bloque común, y <b>ninguna de las noventa y seis es de prevención de "
+                      "riesgos laborales</b>: es el único cuadernillo del proyecto en que ese "
+                      "bloque no ha dado ni una.</p>"
+                      "<p><b>Dos puntos se llevan casi un tercio del examen específico.</b> La "
+                      "producción sobre infraestructura de red, <b>once preguntas</b>; la alta y "
+                      "ultraalta definición, <b>otras once</b>; las comunicaciones y redes, "
+                      "<b>trece</b>. En el otro extremo, <b>ocho de los veintinueve puntos del "
+                      "anexo no se llevan ninguna</b>, y sus temas se escriben igual, contra el "
+                      "programa.</p>"
+                      "<p><b>Siete de los veintisiete temas se comparten, palabra por palabra, "
+                      "con Ingeniería Técnica · Telecomunicación</b>, más el de prevención: sus "
+                      "enunciados son los mismos en los dos anexos, así que el tema se escribe "
+                      "una sola vez y sirve a las dos ocupaciones. <b>Va declarado en la cabecera "
+                      "de cada uno.</b></p>"
+                      "<p>Y una advertencia sobre el cuadernillo: <b>su PDF trae la fuente "
+                      "incrustada sin tabla de caracteres</b>, así que el texto se lee de la "
+                      "transcripción por reconocimiento óptico que está al lado; <b>la plantilla, "
+                      "en cambio, sí se lee por coordenadas</b>, y sus noventa y seis respuestas "
+                      "salen enteras, sin huecos y sin una sola anotación.</p>",
     ),
     "ing-tec-teleco": dict(
         carpeta="ing-tec-teleco",

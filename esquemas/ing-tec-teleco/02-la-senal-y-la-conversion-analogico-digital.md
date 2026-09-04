@@ -9,6 +9,10 @@ modulación por impulsos codificados (**PCM**); y el kilohercio (**kHz**).
 conceptos**: cuántas muestras por segundo y cuántos bits por muestra · **con dos fórmulas se contestan
 las tres**: es el punto de mejor rendimiento por minuto de la ocupación.
 
+**Tema compartido.** **El enunciado de este punto es también, palabra por palabra, el punto 2 del
+anexo de Ingeniería Superior · Telecomunicación**, así que **este esquema sirve a las dos
+ocupaciones.**
+
 <!-- indice -->
 
 ## Índice

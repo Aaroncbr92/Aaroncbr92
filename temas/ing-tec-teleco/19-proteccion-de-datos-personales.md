@@ -5,7 +5,8 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 23 |
-| **Sirve para** | **Ing. Técnica Telecomunicación** |
+| **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 28 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales**, y **Reglamento (UE) 2016/679** |
 | **Identificador** | `BOE-A-2018-16673` · BOE núm. 294, de 06/12/2018 · y `DOUE-L-2016-80807` |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **los apartados 1 a 3 del artículo 22** y **los apartados 2 y 3 del artículo 89** de la ley, y **el artículo 32.1** y **el 25.2** del reglamento |
@@ -25,6 +26,11 @@ y el delegado de protección de datos (**DPD**).
 > «Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los
 > derechos digitales (BOE núm. 294, de 06 de diciembre de 2018. Texto consolidado. Última
 > modificación publicada el 27/05/2021)»
+
+**Este tema sirve a DOS ocupaciones**: **el enunciado de arriba es también, palabra por palabra, el
+punto 28 del anexo de Ingeniería Superior · Telecomunicación**, así que **el tema se comparte con
+aquella ocupación**, como se comparte el de prevención de riesgos laborales. **Nada de lo que sigue
+está escrito para una sola de las dos.**
 
 **Cero preguntas.** **Este punto del anexo no ha dado ni una en el cuadernillo**, y **el tema se
 escribe igual, contra el programa.**

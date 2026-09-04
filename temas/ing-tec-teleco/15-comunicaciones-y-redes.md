@@ -5,7 +5,8 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 19 |
-| **Sirve para** | **Ing. Técnica Telecomunicación** |
+| **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 22 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Sin norma: no la hay.** Su materia son los modelos, el direccionamiento y los protocolos, y **va entero como oficio** |
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
@@ -30,6 +31,11 @@ registrado 45 (**RJ45**); la televisión por protocolo de internet (**IPTV**); e
 > «Comunicaciones y redes. Terminología y conceptos. Los modelos de referencia OSI y TCP/IP.
 > Protocolos TCP/IP. Redes de control IP en equipamiento broadcast. Técnicas de conmutación y
 > enrutamiento. Internet. Servicios y protocolos. Gestión de redes.»
+
+**Este tema sirve a DOS ocupaciones**: **el enunciado de arriba es también, palabra por palabra, el
+punto 22 del anexo de Ingeniería Superior · Telecomunicación**, así que **el tema se comparte con
+aquella ocupación**, como se comparte el de prevención de riesgos laborales. **Nada de lo que sigue
+está escrito para una sola de las dos.**
 
 **Dieciocho preguntas: el banco más grande de la ocupación, empatado con el de sonido.**
 

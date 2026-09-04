@@ -5,7 +5,8 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 1 |
-| **Sirve para** | **Ing. Técnica Telecomunicación** |
+| **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 1 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Sin norma volcada.** Su materia es el marco regulatorio europeo y español, y **va entero como oficio**: las normas se nombran y no se citan |
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
@@ -25,6 +26,11 @@ networks*).
 > Telecomunicación, punto 1):
 > «Marco regulatorio en materia de Telecomunicaciones en la Unión Europea. Código Europeo de las
 > Comunicaciones Electrónicas. Marco regulatorio español.»
+
+**Este tema sirve a DOS ocupaciones**: **el enunciado de arriba es también, palabra por palabra, el
+punto 1 del anexo de Ingeniería Superior · Telecomunicación**, así que **el tema se comparte con
+aquella ocupación**, como se comparte el de prevención de riesgos laborales. **Nada de lo que sigue
+está escrito para una sola de las dos.**
 
 **Dos preguntas.** **Y las dos tienen algo que decir sobre el propio examen**: **una pregunta por un
 organismo que ya no existe con ese nombre**, y **la otra por una directiva europea que el examen

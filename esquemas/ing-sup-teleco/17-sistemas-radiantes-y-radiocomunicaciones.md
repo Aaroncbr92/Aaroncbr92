@@ -10,8 +10,8 @@ onda (**λ**).
 
 **Cabecera.** Enunciado: punto 19 del anexo · **cinco preguntas** · **sin norma del boletín**.
 
-**El reparto con el punto 25** · `[plan]` · **El punto 25 es idéntico palabra por palabra al punto 18
-del anexo de Ingeniería Técnica · Telecomunicación y su tema se COMPARTE con aquella ocupación.**
+**El reparto con el punto 25** · `[plan]` · **El punto 25 es idéntico palabra por palabra —con un solo
+signo de puntuación distinto— al punto 18 del anexo de Ingeniería Técnica · Telecomunicación y su tema se COMPARTE con aquella ocupación.**
 **Allí van las líneas, las guías de onda, los transmisores y la medida de distorsiones; aquí, los
 PARÁMETROS y la PROPAGACIÓN.**
 

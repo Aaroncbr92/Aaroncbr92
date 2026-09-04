@@ -12,6 +12,10 @@ frecuencias ortogonales codificada (**COFDM**); la modulación de amplitud (**AM
 dedicado enteramente a la radio**: una corporación que es de radio y televisión tiene la mitad de su
 nombre aquí, **y el examen no ha entrado.**
 
+**Tema compartido.** **El enunciado de este punto es también, palabra por palabra, el punto 24 del
+anexo de Ingeniería Superior · Telecomunicación**, así que **este esquema sirve a las dos
+ocupaciones.**
+
 <!-- indice -->
 
 ## Índice

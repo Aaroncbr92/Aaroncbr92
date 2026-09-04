@@ -11,6 +11,10 @@ de datos (**EIPD**); y el delegado de protección de datos (**DPD**).
 punto **decide dónde se puede colgar una cámara, dónde no se puede poner un micrófono, cuánto se
 guarda una grabación y qué hay que meter en el pliego antes de comprar el sistema.**
 
+**Tema compartido.** **El enunciado de este punto es también, palabra por palabra, el punto 28 del
+anexo de Ingeniería Superior · Telecomunicación**, así que **este esquema sirve a las dos
+ocupaciones.**
+
 <!-- indice -->
 
 ## Índice
