@@ -1,0 +1,180 @@
+ 
+NTP 218: La espirometría forzada en Medicina del Trabajo
+L'Espirometrie en Médecine du Travail 
+Forced Spirometry in Occupational Medicine
+Redactor:
+Joaquín Pérez Nicolás 
+Diplomado en Enfermería
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+Los objetivos del estudio funcional pulmonar en Medicina del Trabajo son diversos entre ellos:
+G     Como ayuda en el diagnóstico (Bisinosis, Asmas de origen ocupacional, etc.).
+G     En la evaluación legal de las Neumoconiosis.
+G     En los exámenes previos en empresas de riesgo (TDI, PVC, etc.).
+En patología pulmonar laboral es imprescindible el estudio de la función pulmonar.
+La finalidad de esta nota es el familiarizar y servir de consulta a los servicios médicos de empresa.
+Afortunadamente el estudio de la ventilación (proceso ya en si complejo: volúmenes y capacidades pulmonares; resistencias, 
+compliance, mecánica respiratoria, etc.) es suficiente para evaluar en gran parte el estado de la función respiratoria.
+Centraremos la atención dentro de este proceso en al apartado de la espirometría dinámica. Ello está justificado por el hecho de que 
+en último término, con la medición de los parámetros que se obtienen, se alcanza una evaluación del estado de la ventilación del 
+sujeto, en un grado suficiente y satisfactorio en la práctica clínica diaria. Siendo además casi utópico el disponer en un servicio médico 
+de empresa de todo el utillaje necesario e indispensable para valorar por completo y de forma exhaustiva la función pulmonar.
+Espirometría dinámica
+Cuando se introduce como unidad de referencia el tiempo pasamos a considerar aspectos dinámicos de la ventilación, variaciones de 
+volumen por unidad de tiempo (flujos).
+Así hablaremos de:
+G     Curvas de Volumen - Tiempo.
+G     Curvas de Flujo - Volumen.
+Curvas de Volumen - Tiempo
+De estas curvas se obtienen fundamentalmente los siguientes parámetros:
+FVC:
+Forced Vital Capacity (Capacidad Vital Forzada) es el volumen de aire que podemos espirar (en forma rápida, sostenida y 
+máxima) tras una inspiración máxima.
+FEV1:
+Forced Expiratory Volume in one Second (VEMS, Volumen Espiratorio Máximo en un Segundo).
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1988
+
+%FEV1:
+Indice de Tiffeneau, es la relación porcentual entre el volumen espiratorio Máximo en un Segundo (FEV1) y la Capacidad 
+Vital Forzada (FVC) 
+FEF 25-75% : Forced Expiratory Flow 25-75%(Flujo Espiratorio Forzado entre el 25 y el 75% de la Capacidad Vital Forzada).
+Curvas flujo - volumen
+La investigación en fisiología pulmonar ha ido evolucionando con los años y los avances tecnológicos han permitido desarrollar este 
+tipo de curvas. Aún a pesar de tener una gran equivalencia con las curvas de volumen-tiempo, obtenemos por medio de ellas una 
+mayor cantidad de información sobre las zonas de ventilación en las que no está presente el factor esfuerzo -dependiente del sujeto a 
+examinar.
+En esta curva se estudian los siguientes datos entre otros:
+MF75%: Máximal Flow 75% (Flujo Máximo al 75% de la capacidad Vital Forzada), puede ser medido en inspiración (MIF75%), o en 
+espiración (MEF75%).
+MF50%: Maximal Flow 50% (Flujo Máximo al 50% de la Capacidad Vital Forzada), puede ser medido en inspiración (MIF50%), o en 
+espiración (MEF50%).
+MF25%: Maximal Flow 25% (Flujo Máximo al 25% de la Capacidad Vital Forzada), puede ser medido en inspiración (MIF25%), o en 
+espiración (MEF25%).
+PF:
+Peak Flow (Apice de Flujo), es el punto máximo en un instante del flujo ya en inspiración (PIF), ya en espiración (PEF).
+Tipos de espirómetros
+Se pueden distinguir tres tipos de espirómetros:
+G     Espirómetros húmedos o de agua
+G     Espirómetros secos
+G     Espirómetros electrónicos (Neumotacógrafos);
+Espirómetros húmedos o de agua
+Consisten en un tambor invertido sobre una cámara de agua, equilibrado por un contrapeso. En el interior del tambor, hay aire u 
+oxígeno, con un tubo que conecta a la boca del sujeto a examinar, que al inspirar o espirar desplazará el tambor hacía arriba o abajo, 
+realizando así por medio de un registro un trazado espirográfico.
+Espirómetros secos
+Se subdividen en dos tipos de pistón y de cuña, tienen la ventaja sobre los húmedos de ser portátiles y ofrecer menos resistencias.
+Espirómetros electrónicos (Neumotacógrafos);
+Son aparatos más recientes y por ello mucho más sofisticados, están compuestos por un ordenador (microprocesador), un transductor 
+de flujo, un convertidor analógico digital y un neumotacógrafo. (Fig. 1, fig.  y fig. 3)
+Fig. 1: Espirómetro portátil
+
+Fig. 2: Espirómetro para el estudio de la difusión pulmonar
+Fig. 3: Pletismógrafo de cuerpo entero
+En el interior del neumotacógrafo se halla el transductor de flujo o cabezal, en donde se produce la lectura de la diferencia de presiones 
+originadas por los cambios de presión debidos a la circulación del volumen de aire inspirado o espirado por el sujeto a examinar; 
+magnificando esta lectura o transformándola en señal eléctrica, el convertidor analógico digital recoge esta señal convirtiendola en 
+digital para ser tratada por el ordenador.
+Descripción de la maniobra de espiración forzada
+Como procedimiento común a todas las exploraciones funcionales pulmonares hay que tener en cuenta y anotar los siguientes datos:
+G     Temperatura.
+G     Presión barométrica.
+G     Sexo del sujeto a examinar.
+G     Talla.
+G     Edad.
+G     Peso.
+Espirometría dinámica
+Individuo sentado de forma que sus piernas y tronco formen un ángulo de 90 grados.
+Instruir al sujeto a examinar sobre la maniobra a realizar:
+Ventilación a nivel de volumen corriente (respiración normal), durante unos segundos, realizar una maniobra de inspiración máxima, 
+mantener una apnea de unos escasos segundos (conectar el paciente al aparato por medio de la boquilla), y realizar a continuación 
+una espiración máxima forzada (expulsión fuerte, rápida y sostenida del aire).
+Caso de poseerse un registro, deberá observarse el mismo para comprobar: la morfología de la curva, la inexistencia de 
+irregularidades indicadoras de tos o inspiraciones intercurrentes y que la maniobra espiratoria sea completa (horizontalización de la 
+curva, nivel de volumen residual).
+Deben obtenerse un mínimo de tres curvas cuya variabilidad sea inferior al 5% (normas de la American Thoracic Society), si ésta fuera 
+superior deberán repetirse hasta alcanzar una reproducibilidad inferior al 5%. Una vez lograda escogeremos la curva en la que la suma 
+de la Capacidad Vital Forzada (FVC) y el Volumen Espiratorio Máximo en un Segundo FEV1 o VEMS) sea mayor.
+Es de suma importancia el que la persona (técnico a ejecutar la maniobra) esté concienciado para animar con su propio esfuerzo al 
+paciente a fin de conducirle a la máxima colaboración.
+Valoración de los resultados
+Una vez obtenidas las gráficas y calculados los resultados se comparan con los valores teóricos según edad, sexo y peso, expresando 
+el resultado final en forma de porcentaje.
+Son muchas las tablas de valores teóricos utilizadas: CECA, MORRIS, KNUDSON, COTES, etc., la mayoría de ellas son de origen 
+
+anglosajón que, por razones étnicas, poca relación guardan con la población mediterránea, debido a este motivo, se inició en 
+Barcelona un estudio multicéntrico: Servicio de Neumología del Hospital Clínico Provincial; Servicio de Neumología del Centro Nacional 
+de Condiciones del Trabajo del Instituto Nacional de Seguridad e Higiene en el Trabajo. Para obtener valores teóricos propios de la 
+población mediterránea, valores que fueron presentados en el Congreso de la Sociedad Española de Patología Respiratoria en 
+Santiago de Compostela en el año 1982 y desde entonces se recomienda el uso generalizado de los mismos, con la finalidad de hablar 
+todos el mismo lenguaje. (Se adjuntan fórmulas de regresión).
+Ejemplo práctico:
+Valor observado de FVC en (BTPS) = 4.00 litros
+Valor teórico = 4.00 litros
+Se consideran normales aquellos valores superiores al 80% del valor teórico.
+Síndromes de alteración ventilatoria
+N=Normal; D= Ligeramente disminuido; DD= Muy disminuido
+Existe otro síndrome muy común en los fumadores y que es la primera manifestación patológica respiratoria que es el llamado S.A.D. 
+(Small Airway Disease, Enfermedad de los Bronquios Periféricos), se manifiesta cuando la FVC, FEV y %FEV1 son normales pero el 
+FEF25%-75% está por debajo del 65%.
+Fórmulas de regresión para el cálculo de los valores teóricos
+Varones
+FVC= 0.0678 x T - 0.0147 x A - 6.0548
+FEV1 = 0.0499 x T - 0.0211 x A - 3.837
+%FEV1 = -0. 1902 x A + 85.58
+FEF25%-75% = 0.0392 x T - 0.043 x A - 1.1574
+PEF = 0.0945 x T - 0.0209 x A - 5.7732
+Mujeres
+FVC = 0.0454 x T - 0.0211 x A - 2.8253
+FEV1 = 0.0317 x T - 0.025 x A - 1.2324
+%FEV1 = - 0.224 x A - 0.1126 x P + 94.88
+FEF25%-75% = 0.023 x T - 0.046 x A + 1.1055
+PEF = 0.0448 x T - 0.0304 x A + 0.3496
+Donde:
+
+G     T = talla en centímetros.
+G     A = edad en años
+G     P = peso en Kg.
+Ejemplos prácticos
+Varón de 40 años de edad, 170 cm. de talla
+Con valores observados de FVC = 4.00 l.; FEV1 = 3.20 l.; % FEV1 = 80%; FEF25%-75%= 3.60 l/s; PEF = 9.25 l/s.
+Calculo de valores teóricos:
+FVC = 0.0678 x 170 - 0.0147 x 40 - 6.0548 = 4.88 litros
+FEV1= 0.0499 x 170 - 0.0211 x 40 - 3.837 = 3.80 litros
+%FEV1 = 0.1902 x 40 + 85.58 = 77.97
+FEF 25%-75% = 0.0392 x 170 - 0.043 x 40 - 1.1574 = 3.79 l/s
+PEF = 0.0945 x 170 - 0.0209 x A - 5.7732 = 9.46 l/s
+INTERPRETACIÓN : NORMAL
+Varón de 30 años de edad, talla de 160 cm
+Con valores observados de FVC = 3.55 l.; FEV1 = 1.50 l.: %FEV1 = 42%; FEF25-75% = 0.92 l/s; PEF = 4.66 l/s
+Cálculo de valores teóricos:
+FVC = 0.0678 x 160 - 0.0147 x 30 - 6.0548=4.35 l.
+FEV1 = 0.0499 x 160 - 0.0211 x 30 - 3.837=3.51 l.
+%FEV1 = 0. 1902 x 30 + 85.58 = 85.00
+FEF 25%-75% = 0.0392 x 160 - 0.043 x 30 - 1.1574 = 3.02 l/s.
+PEF = 0.0945 x 160 - 0.0209 x 30 - 5.7732 = 8.71 l/s.
+
+INTERPRETACIÓN : ALTERACIÓN DE TIPO OBSTRUCTIVO
+Varón de 62 años de edad y 168 cm de talla
+Con valores observados de FVC = 2.26 l.; FEV1 = 1.77 l.; % FEV1, = 78; FEF 25%-75% = 1.75 l/s. ; PEF = 3.53 l/s.
+Cálculo de valores teóricos:
+FVC = 0.0678 x 168 - 0.0147 x 62 - 6.0548= 4.42
+FEV1 = 0.0499 x 168 -0.0211 x 62 - 3.837=3.23
+FEV1 = -0.1902 x 62 + 85.58 = 73.7
+FEF 25%-75% = 0.0392 x 168 - 0.043 x 62 - 1.1574 = 2.76
+PEF = 0.0945 x 168 - 0.0209 x 62 - 5.7732 = 8.80
+INTERPRETACIÓN : ALTERACIÓN DE TIPO RESTRICTIVO
+Bibliografía
+(1) SEGARRA OBIOL, F. 
+Enfermedades broncopulmonares de origen ocupacional. 
+Barcelona, Ed. Labor, 1985
+(2) ROCA TORRENT, J. 
+Valors de referencia de I'espirometria forçada d'una població mediterrania. 
+Tesis Doctoral, Universidad de Medicina Barcelona, 1982.
+(3) COTES, J.E. 
+Lung Function. Assessment and application in Medicine, 2nd ed. 
+Oxford, Blackwell Scientific Public., 1968.
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-89-020-3 
