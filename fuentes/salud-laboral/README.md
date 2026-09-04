@@ -158,3 +158,8 @@ curl -sSL -o rd-365-2009-desa.pdf "https://www.boe.es/boe/dias/2009/04/02/pdfs/B
 
 **Al no haber consolidado, la herramienta del proyecto no puede comprobar si la norma se ha modificado
 después de 2009**, y el tema que la cita lo declara.
+
+**15. El Código Penal está volcado entero, para una sola cita.** El tema 25 cita el apartado 1 de su
+artículo 195 porque la guía del Instituto lo trae como fundamento del deber de auxiliar. Se ha volcado
+la norma completa —`BOE-A-1995-25444`— y no sólo el precepto, por la misma razón que las demás: **una
+lente que sólo ve el artículo citado no puede desmentir nada de lo que hay alrededor.**
