@@ -184,7 +184,7 @@ están dentro del reglamento de 1985**: **son aparatos de elevación y manutenci
 
 ## 4. Diseño, fabricación y puesta en servicio
 
-**El apartado 3 de la instrucción no regula el diseño: lo **remite**, y **la frontera es una velocidad:**
+**El apartado 3 de la instrucción no regula el diseño: lo remite**, y **la frontera es una velocidad:**
 
 | Velocidad del habitáculo | Norma aplicable |
 |---|---|

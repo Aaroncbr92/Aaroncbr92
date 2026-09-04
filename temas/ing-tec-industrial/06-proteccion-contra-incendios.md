@@ -321,7 +321,7 @@ ellas llegan, este reglamento no añade.**
 
 **Cinco declaraciones expresas:**
 
-1. **Los anexos de los dos reglamentos no se citan ni se reproducen.** **El anexo I del de
+1. **Los anexos de los dos reglamentos no se citan ni se reproducen.** El **anexo I** del de
    establecimientos industriales —el cálculo de la carga de fuego y del nivel de riesgo intrínseco—,
    su anexo II —condiciones constructivas—, su anexo III —requisitos de instalaciones— y el anexo II
    del de instalaciones —los plazos de mantenimiento— **se nombran por lo que contienen**, que es lo
