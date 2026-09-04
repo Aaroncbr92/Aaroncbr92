@@ -19,8 +19,13 @@ La legislación va donde va siempre: volcada con `herramientas/boe.py` a
 | `sanidad-vacunacion-entorno-laboral.pdf` / `.txt` | **«Entorno laboral»**, capítulo 5 de **«Vacunación en grupos de riesgo de todas las edades y en determinadas situaciones»**, Ponencia de Programa y Registro de Vacunaciones, Ministerio de Sanidad | archivo generado en **septiembre de 2018**; el capítulo no lleva fecha impresa | Tema 11: los siete colectivos laborales de riesgo y qué le toca al servicio de prevención |
 | `sanidad-vacunacion-poblacion-adulta.pdf` / `.txt` | **«Vacunación en población adulta»**, de la misma Ponencia | **septiembre de 2018** | Tema 11: la rúbrica «Recomendaciones de Vacunación en Población Adulta» del enunciado |
 | `sanidad-vacunacion-trabajadores-sanitarios.pdf` / `.txt` | **«Vacunación en trabajadores sanitarios»**, de la misma Ponencia | **abril de 2017** | Tema 11: la rúbrica del mismo nombre del enunciado |
+| `sanidad-indicadores-de-salud-2020.pdf` / `.txt` | **«Indicadores de salud 2020. Evolución de los indicadores del estado de salud en España y su magnitud en el contexto de la Unión Europea»**, Ministerio de Sanidad | **2020** | Tema 12: seis de las siete rúbricas del enunciado son sus capítulos |
+| `sanidad-indicadores-notas-metodologicas.pdf` / `.txt` | **«Indicadores de Salud. Notas metodológicas y fuentes de información»**, del mismo Ministerio | sin fecha impresa | Tema 12: qué es la operación estadística y por qué se ajusta por edad |
+| `sanidad-inclasns-fichas-tecnicas.pdf` / `.txt` | **Fichas técnicas de los «Indicadores clave del Sistema Nacional de Salud»**, del mismo Ministerio | sin fecha impresa | Tema 12: las fórmulas de los indicadores, con numerador, denominador y constante |
+| `ntp-1211.pdf` / `.txt` | **NTP 1211: Estadísticas de accidentabilidad en la empresa**, del INSST; declara sustituir a las NTP 1, 2 y 236 | **2024** | Tema 13: los cuatro índices de siniestralidad y el método de las líneas límite |
+| `insst-tema-22-epidemiologia-laboral.pdf` / `.txt` | **INSST, temas específicos del proceso selectivo de la Escala de Titulados Superiores, parte 1, tema 22: «Epidemiología laboral»** | **versión de enero de 2026** | Tema 14: cubre casi rúbrica por rúbrica la primera mitad del enunciado |
 
-## Ocho avisos
+## Diez avisos
 
 **1. Las NTP no son obligatorias.** El pie de la propia NTP 218 lo dice: «*Las NTP son guías de
 buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una
@@ -78,6 +83,18 @@ curl -sSL -A "$UA" -e "https://www.sanidad.gob.es/" -o sanidad-vacunacion-trabaj
 curl -sSL -A "$UA" -e "https://www.sanidad.gob.es/" -o sanidad-vacunacion-poblacion-adulta.pdf "$B/programasDeVacunacion/docs/Vacunacion_poblacion_adulta.pdf"
 curl -sSL -A "$UA" -e "https://www.sanidad.gob.es/" -o sanidad-vacunacion-entorno-laboral.pdf "$B/programasDeVacunacion/riesgo/docs/Entorno_Laboral.pdf"
 ```
+
+**9. Tres de estos documentos son posteriores a la fecha de corte** —la NTP 1191 de 2024, la NTP 1211
+de 2024 y el tema 22 de epidemiología, versión de enero de 2026—. **Ninguno es legislación**, y los
+temas 10, 13 y 14 lo declaran. Es el mismo criterio que se siguió con el material de trastornos
+musculoesqueléticos en `fuentes/prl-especifico/`.
+
+**10. Dos de estos documentos tienen erratas comprobadas a ojo, y sus temas las declaran.** En
+«Indicadores de salud 2020», el texto del apartado de accidentes de trabajo dice que el índice de
+frecuencia «pasó de 18,6 en 2012 a 2,00 en 2017» y su propia tabla 3.5.1 da 22,0; y dice 32,1 para
+industria donde la tabla da 32,2. En el tema 22 de epidemiología, la tabla 2 imprime «b+c» como total
+de una columna que contiene b y d. **Las fórmulas de la NTP 1211 y del tema 22 son imágenes cuya
+extracción de texto es ilegible**, y por eso ninguno de los dos temas las transcribe.
 
 ## Cómo se vuelve a bajar
 
