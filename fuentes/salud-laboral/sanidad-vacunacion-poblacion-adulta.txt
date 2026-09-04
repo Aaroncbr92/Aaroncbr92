@@ -1,0 +1,2951 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vacunación en población adulta 
+ 
+Ponencia de Programa y Registro de Vacunaciones 
+Septiembre 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+                  
+ 
+ 
+
+Elaboración y revisión del documento 
+2 
+Elaboración y revisión del documento 
+Elaboración del documento 
+Grupo de trabajo Vacunación en población adulta y grupos de riesgo (GT-GR): 
+ 
+Aurora Limia Sánchez. Área de Programas de Vacunación. Subdirección General de Promoción de la Salud y 
+Vigilancia en Salud Pública. Dirección General de Salud Pública, Calidad e Innovación. MSCBS.  
+ 
+Jaime Jesús Pérez Martín y José Antonio Navarro Alonso (Murcia). 
+ 
+Luis Carlos Urbiztondo Perdices y Eva Borràs López (Cataluña, CIBERESP). 
+ 
+José Miguel Armona Aquerreta (Cantabria). 
+ 
+Susana López Hernández y Marta Soler Soneira. Agencia Española de Medicamentos y Productos Sanitarios 
+(AEMPS). 
+ 
+María de Viarce Torres de Mier. Centro Nacional de Epidemiología (CNE, CIBERESP). 
+Autores que han participado en apartados específicos: Ana Belén Maldonado Cárceles.  
+Coordinación del documento: Aurora Limia Sanchez y José Antonio Navarro Alonso 
+Coordinación del Grupo de Trabajo: Aurora Limia Sánchez  
+Los miembros del GT-GR declaran no tener conflictos de interés en relación con los temas tratados en este documento. 
+ 
+Revisión  
+ 
+Ponencia de Programa y Registro de Vacunaciones. Revisado el 6 de abril y el 21 de junio de 2018. Aprobado el día 9 de 
+julio de 2018. 
+ 
+Representantes de Asociaciones de Profesionales/Sociedades Científicas. Revisado entre 14 mayo y 4 junio de 2018.  
+1. 
+Pablo Aldaz Herce - Sociedad Española de Medicina de Familia y Comunitaria (SEMFyC) 
+2. 
+Esther Redondo Margüello - Sociedad Española de Médicos de Atención Primaria (SEMERGEN) 
+3. 
+Isabel Jimeno Sanz - Sociedad Española de Medicina General (SEMG) 
+4. 
+Javier de la Fuente Aguado - Sociedad Española de Medicina Interna (SEMI) 
+5. 
+Primitivo Ramos Cordero - Sociedad Española de Geriatría y Gerontología (SEGG) 
+6. 
+Gracia Mejías Baeza - Sociedad Española de Medicina Geriátrica (SEMEG) 
+7. 
+David Moreno Pérez - Asociación Española de Pediatría (AEP) 
+8. 
+Angela Domínguez García - Sociedad Española de Epidemiología (SEE) 
+9. 
+María Fernández Prada - Asociación Española de Vacunología (AEV) 
+10. Alfonso Apellaniz González - Sociedad Española de Medicina y Seguridad del Trabajo (SEMST) 
+11. Piedad del Amo Merino - Asociación Nacional de Medicina del Trabajo en el Ámbito Sanitario (ANMTAS)  
+12. Isabel Galán Meléndez - Asociación Española de Especialistas en Medicina del Trabajo (AEEMT) 
+13. Íñigo Apellaniz González - Sociedad Española de Salud Laboral en la Administración Pública (SESLAP) 
+14. Francisco Javier Pastor Gallardo - Asociación de Enfermería Comunitaria (AEC) 
+15. Eva Vela Martínez -Federación de Asociaciones de Matronas de España (FAME) 
+16. Glòria Mirada Masip -Federación de Asociaciones de Enfermería Comunitaria y Atención Primaria (FAECAP) 
+17. José V. Tuells Hernández -Sociedad Española de Salud Pública y Administraciones Públicas (SESPAS) 
+18. Miren Basaras Ibarzabal - Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica (SEIMC) 
+19. Manuel García Cenoz - Sociedad Española de Medicina Preventiva, Salud Pública e Higiene (SEMPSPH) 
+Todos los representantes de AAPP/SSCC han realizado declaración de intereses y han firmado un compromiso de 
+confidencialidad antes de revisar el documento. El GT-GR ha valorado los comentarios realizados y discutido con los 
+representantes de las AAPP/SSCC los diferentes puntos de vista en las recomendaciones, en la reunión mantenida 
+conjuntamente el día 14 de junio de 2018. 
+ 
+Comisión de Salud Pública. Revisado y aprobado el 20 de septiembre de 2018.  
+ 
+Consejo Interterritorial del Sistema Nacional de Salud. Acordado el 15 de noviembre de 2018 
+La información contenida en este documento deberá referenciarse en caso de utilización 
+Referencia sugerida: 
+Grupo de trabajo vacunación en población adulta y grupos de riesgo de la Ponencia de Programa y Registro de Vacunaciones. 
+Vacunación en población adulta. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. 
+Ministerio de Sanidad, Consumo y Bienestar Social, septiembre 2018.  
+
+Contenido 
+Tablas y figuras 
+3 
+Contenido 
+Elaboración y revisión del documento ................................................................................................ 2 
+Tablas y figuras .................................................................................................................................. 3 
+Acrónimos utilizados ......................................................................................................................... 4 
+Resumen ejecutivo ............................................................................................................................ 5 
+Executive summary ............................................................................................................................ 5 
+Introducción ...................................................................................................................................... 6 
+Metodología ...................................................................................................................................... 6 
+Bibliografía introducción y metodología ............................................................................................ 7 
+Vacunación en población adulta ......................................................................................................... 8 
+A. Población adulta sana ........................................................................................................................... 8 
+A.1. Vacunación frente a tétanos y difteria .................................................................................... 8 
+A.2. Vacunación frente a tosferina ............................................................................................... 10 
+A.3. Vacunación frente a sarampión, rubeola y parotiditis .......................................................... 11 
+A.4. Vacunación frente a poliomielitis ......................................................................................... 11 
+A.5. Vacunación frente a virus de la hepatitis B (VHB)................................................................. 11 
+A.6. Vacunación frente a virus de la gripe .................................................................................... 12 
+A.7. Vacunación frente a enfermedad neumocócica invasora .................................................... 13 
+A.8. Vacunación frente a varicela ................................................................................................. 14 
+A.9. Vacunación frente a VPH....................................................................................................... 14 
+A.10. Vacunación frente a herpes zoster ..................................................................................... 15 
+A.11. Vacunación frente a hepatitis A .......................................................................................... 15 
+A.12 Vacunación frente a enfermedad meningocócica invasora (EMI) por serogrupo C ............ 16 
+B. Inmigrantes ......................................................................................................................................... 18 
+B.1. Contactos de menores de adopción internacional ................................................................... 19 
+Bibliografía en población adulta ............................................................................................................. 20 
+Anexo 1. Vacunas autorizadas y disponibles ..................................................................................... 26 
+Anexo 2. Calendario común de vacunación a lo largo de toda la vida ................................................. 36 
+ 
+ 
+Tablas y figuras 
+Tabla 1. Aspectos a tener en cuenta para mejorar el estado de vacunación en la población adulta ....................... 8 
+Tabla 2. Pauta de vacunación frente a tétanos en población adulta no vacunada ................................................... 9 
+Tabla 3. Pautas de actuación para la profilaxis de tétanos en heridas .................................................................... 10 
+Tabla 4. Indicaciones de realización de marcadores serológicos antes de la vacunación en personas adultas 
+sanas ........................................................................................................................................................... 16 
+Tabla 5. Vacunación en personas adultas sanas ...................................................................................................... 17 
+Tabla 6. Población extranjera residente en España, INE 2016 (cifras provisionales) .............................................. 18 
+Tabla 7. Adaptación del calendario de vacunación en personas inmigrantes adultas (≥18 años) .......................... 19 
+Tabla 8. Pautas para la vacunación en personas inmigrantes adultas (≥18 años) .................................................. 19 
+ 
+
+Acrónimos utilizados 
+4 
+Acrónimos utilizados 
+AEMPS 
+Agencia Española de Medicamentos y Productos Sanitarios 
+ACIP 
+Comité Asesor de Vacunaciones del CDC de EEUU (Advisory Committee on Inmunization Practices) 
+ADN 
+Ácido desoxirribonucleico 
+AgHBs 
+Antígeno de superficie del VHB 
+Al 
+Aluminio 
+Anti-HBc 
+Anticuerpos frente al antígeno core del VHB 
+Anti-HBs 
+Anticuerpos frente al antígeno de superficie del VHB 
+CCAA 
+Comunidades autónomas y ciudades de Ceuta y Melilla 
+CDC 
+Centro de Prevención y Control de Enfermedades de EEUU (Centers for Disease Control and Prevention) 
+CISNS 
+Consejo Interterritorial del Sistema Nacional de Salud 
+dTpa 
+Vacuna frente a difteria, tétanos y tosferina acelular con baja carga antigénica  
+ECDC 
+Centro Europeo para la Prevención y el Control de Enfermedades (European Centre for Disease Prevention 
+and Control) 
+EEUU 
+Estados Unidos 
+EMA 
+Agencia Europea de Medicamentos (European Medicines Agency)  
+EMI 
+Enfermedad meningocócica invasora o invasiva 
+ENI 
+Enfermedad neumocócica invasora o invasiva 
+FT 
+Ficha técnica 
+HA 
+Hepatitis A 
+HB 
+Hepatitis B 
+Hib 
+Haemophilus influenzae tipo b  
+HSH 
+Hombres que tienen relaciones sexuales con hombres 
+HZ 
+Herpes zóster 
+HZ/su 
+Vacuna frente a herpes zoster de subunidades 
+Ig 
+Inmunoglobulina  
+INE 
+Instituto Nacional de Estadística 
+MenC 
+Vacuna meningocócica conjugada frente a serogrupo C 
+MSCBS 
+Ministerio de Sanidad, Consumo y Bienestar Social 
+NN 
+Neumonía neumocócica 
+OMS 
+Organización Mundial de la Salud 
+RENAVE 
+Red Nacional de Vigilancia Epidemiológica 
+SIDA 
+Síndrome de inmunodeficiencia adquirida 
+SNS  
+Sistema Nacional de Salud 
+Td 
+Vacuna frente a tétanos y difteria 
+TV 
+Vacuna triple vírica (frente a sarampión, rubeola y parotiditis) 
+UE 
+Unión Europea 
+VHB 
+Virus de la hepatitis B 
+VIH 
+Virus de la inmunodeficiencia humana 
+VNC13 
+Vacuna neumocócica conjugada de 13 valencias 
+VNP23 
+Vacuna neumocócica de polisacáridos de 23 valencias 
+VPH 
+Virus del Papiloma Humano 
+VPI 
+Vacuna de poliovirus inactivada  
+VVZ 
+Virus varicela zoster 
+ 
+
+Resumen ejecutivo 
+Executive summary 
+5 
+Resumen ejecutivo 
+En este documento se actualizan las recomendaciones de vacunación en la población adulta sana y en 
+inmigrantes.  
+Para establecer las recomendaciones de vacunación se han tenido en cuenta, en primer lugar, las 
+recomendaciones de la Ponencia de Programa y Registro de Vacunaciones acordadas por la Comisión 
+de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud (CISNS). Se han revisado, 
+además, los artículos de posicionamiento de la OMS, los documentos técnicos del ECDC y de otros 
+Comités Técnicos Asesores de Vacunación de países de nuestro entorno. Se ha prestado atención 
+particular a las recomendaciones basadas en revisiones sistemáticas con gradación de la evidencia. 
+Adicionalmente, se han realizado revisiones de la literatura en los diferentes apartados.  
+Al final de cada apartado se resumen las recomendaciones de vacunación en una tabla para facilitar la 
+consulta.  
+Estas recomendaciones actualizan las anteriormente realizadas en el documento de recomendaciones 
+en adultos de 2004. 
+En 2016 se actualizó el calendario común de vacunación infantil. La actualización de las 
+recomendaciones de vacunación en población infantil, adolescentes y adulta se ha plasmado en un 
+calendario común de vacunación a lo largo de toda la vida, disponible en el anexo 2. 
+Executive summary 
+This document updates immunization recommendations for healthy adults and also specifically for 
+women of childbearing age, pregnant women and the puerperium, as well as for immigrants. 
+In order to establish recommendations those already approved by the Committee of Vaccines Program 
+and Registry and the Public Health Commission of the Interterritorial Council of the National Health 
+System (ICNHS) were taken into account in the first place. In addition, WHO position papers, ECDC 
+technical documents and recommendations conducted by National Immunization Technical Advisory 
+Groups of other similar countries have been reviewed. Particular attention has been paid to 
+recommendations based on systematic reviews with gradation of the evidence. Additionally, specific 
+reviews of the literature have been made for each of the subsections.  
+A table summarizes the vaccination recommendations at the end of each subsection to facilitate 
+consultation. 
+The recommendations included in this document update the previously established in 2004. 
+The common childhood immunization schedule was updated in 2016. The vaccination 
+recommendations in children, adolescents and adults are now reflected in a common immunization 
+schedule throughout life, available in Annex 2. 
+ 
+
+Introducción 
+6 
+Introducción  
+En el año 2004, desde la Ponencia de Programa y Registro de Vacunaciones (en adelante, Ponencia) se 
+elaboraron las recomendaciones de vacunación en población adulta, incluyendo la vacunación en 
+grupos de riesgo1. Recientemente, se han actualizado y completado las recomendaciones de 
+vacunación en grupos de riesgo y queda pendiente la actualización de las recomendaciones de 
+vacunación en la población adulta sana, que se recogen en el presente documento.  
+Este documento tiene la intención de complementar la revisión realizada recientemente del calendario 
+común de vacunación infantil para, de esta manera, cubrir las recomendaciones de vacunación a lo 
+largo de toda la vida, tal y como se recomienda desde la Región Europea de la OMS2 y desde la 
+Comisión Europea3. No se incluyen las recomendaciones de vacunación en viajes, que están 
+disponibles en el apartado “Viajeros: la salud también viaja” de la página web del Ministerio4.  
+Como en ocasiones anteriores, las recomendaciones elaboradas en el seno del CISNS se realizan 
+teniendo en cuenta las vacunas disponibles o próximas a su autorización y las indicaciones que figuran 
+o figurarán en la ficha técnica de las mismas. En el trabajo realizado desde la Ponencia para la 
+elaboración de las recomendaciones de vacunación, no se han tenido en cuenta criterios de 
+priorización económica, sino exclusivamente criterios técnicos y científicos. 
+Con la intención de simplificar, a lo largo del documento se utilizan términos como “calendario” o 
+“vacunas de calendario”, refiriéndose a vacunas recomendadas en el calendario común de vacunación 
+infantil del CISNS, que incluye las vacunas recomendadas en función de la edad desde el nacimiento 
+hasta los 14 años de edad. También se denomina “vacunas inactivadas” para referirse a las vacunas 
+que no son vivas atenuadas, incluyendo bajo esta denominación a vacunas frente a la gripe (tanto de 
+virus fraccionados como de antígenos de superficie), de toxoides (tosferina, tétanos), de polisacáridos 
+conjugados (meningococo o neumococo), de antígenos producidos mediante tecnología de 
+recombinación del ADN (hepatitis B), etc. 
+Este documento técnico está dirigido a profesionales sanitarios y de salud pública con 
+responsabilidades de ejecución y de gestión de las estrategias de vacunación. 
+ 
+Metodología 
+Para la elaboración de las recomendaciones, se ha partido de las recomendaciones aprobadas en el 
+seno del Consejo Interterritorial del SNS (CISNS)5, actualizándolas cuando se ha considerado oportuno, 
+en base a la evidencia científica o en función del riesgo de cada grupo poblacional. En algunas 
+ocasiones se realizan recomendaciones de vacunación que no figuran en las fichas técnicas de las 
+vacunas, pero solo cuando el riesgo es elevado y hay experiencia previa de utilización con buenos 
+resultados. Además de realizar las búsquedas bibliográficas oportunas, se han consultado guías, 
+manuales, recomendaciones y documentos de posición de organismos considerados de referencia, así 
+como las recomendaciones de vacunación en algunos países de nuestro entorno y de sus comités 
+asesores de vacunación, fundamentalmente los que figuran a continuación:  
+ 
+Organización Mundial de la Salud (OMS) y recomendaciones del Comité Asesor de Vacunación 
+(Strategic Advisory Group of Experts on immunization, SAGE).  
+ 
+Centro Europeo para la Prevención y Control de Enfermedades (ECDC).  
+ 
+Centros para el Control y la Prevención de Enfermedades de EEUU (CDC) y recomendaciones 
+del Comité Asesor de Vacunaciones (Advisory Committee on Immunization Practices, ACIP).  
+ 
+Agencia de Salud Pública de Canadá (PHAC) y recomendaciones del Comité Asesor de 
+Vacunaciones (National Advisory Committee on Immunization, NACI).  
+
+Introducción 
+7 
+ 
+Ministerio de Sanidad de Inglaterra (Secretary of State for Health for England) y 
+recomendaciones del Comité Asesor de Vacunaciones (Joint Committee on Vaccination and 
+Immunisation, JCVI).  
+ 
+Consejo de Salud Pública de Francia (Haut Conseil de la Santé Publique –HCSP–) y 
+recomendaciones del Comité Asesor de Vacunaciones (Comité Technique des Vaccinations).  
+ 
+Ministerio Australiano de Sanidad (Australian Government Department of Health and Ageing, 
+Office of Health Protection).  
+ 
+Autoridad Danesa de Salud y Medicinas (Statens Serum Institute) 
+ 
+Oficina Federal de Salud Púlica de Suiza (Office fédéral de la sante publique OFSP et 
+Commission fédérale pour les vaccinations) 
+En el anexo 1 se muestran las vacunas disponibles en España y las pautas posibles de administración 
+según figuran en las fichas técnicas. 
+Finalmente, se ha elaborado un calendario común de vacunación a lo largo de toda la vida, que figura 
+en el anexo 2. 
+ 
+BIBLIOGRAFÍA INTRODUCCIÓN Y METODOLOGÍA 
+                                                          
+1 Grupo de trabajo vacunación de adultos de la Ponencia de Programa y Registro de Vacunaciones. Vacunación 
+de adultos. Recomendaciones. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de 
+Salud. Ministerio de Sanidad y Consumo, 2004. Disponible en: 
+https://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/recoVacunasAdulto
+s.pdf [consultado el 4 de septiembre de 2017]. 
+2 (World Health Organization Regional Office for Europe. European Vaccine Action Plan 2015-2020. Disponible 
+en: file:///D:/Usuarios/alimia/Downloads/WHO_EVAP_UK_v30_WEBx.pdf) [consultado el 24 de julio de 2018]. 
+3 Comisión Europea. Propuesta de Recomendación del Consejo sobre el fortalecimiento de la cooperación frente 
+a las enfermedades prevenibles por vacunación disponible en http://www.ipex.eu/IPEXL-
+WEB/dossier/document/COM20180244.do [consultado el 24 de julio de 2018]. 
+4 Ministerio de Sanidad, Servicios Sociales e Igualdad. Sanidad Exterior. Viajeros: “La salud también viaja”. 
+Disponible en: https://www.msssi.gob.es/profesionales/saludPublica/sanidadExterior/salud/home.htm 
+[consultado el 4 de octubre de 2017]. 
+5 Documentos técnicos. Programas de vacunación. Disponible en: 
+https://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/recoVacunasEspana.htm 
+[consultado el 4 de octubre de 2017]. 
+ 
+ 
+
+Vacunación en población adulta 
+8 
+Vacunación en población adulta 
+A. POBLACIÓN ADULTA SANA  
+Aurora Limia Sánchez, José Antonio Navarro Alonso y José Miguel Armona Aquerreta 
+ 
+Se considera persona adulta sana aquella que ha alcanzado la madurez biológica y no sufre 
+anomalías o enfermedades congénitas o adquiridas que requieran tratamiento o atención sanitaria. 
+Desde el punto de vista de la vacunación, se considera adulta sana a toda persona mayor de 15 
+años (la edad cubierta por el calendario común de vacunación infantil abarca desde el nacimiento a 
+los 14 años) que no está incluida en grupos de riesgo de vacunación.  
+La vacunación infantil sistemática es una estrategia relativamente reciente, por lo que algunas 
+cohortes de población adulta no se beneficiaron de ella y tampoco llegaron a desarrollar inmunidad 
+natural frente a algunas de las enfermedades transmisibles. Estas cohortes presentan porcentajes 
+variables de personas susceptibles de padecer dichas enfermedades1,2. Además, algunas de las 
+vacunas administradas en la infancia no inducen inmunidad para toda la vida, por lo que es 
+necesario reforzarla con dosis posteriores. Dado que la prevalencia de población inmune en ningún 
+caso es del 100%, existe siempre un riesgo real de que se produzcan brotes de enfermedades 
+inmunoprevenibles. 
+Debe aprovecharse cualquier contacto de las personas adultas con el sistema sanitario para 
+informar y actualizar el estado de vacunación. Las recomendaciones de vacunación en población 
+adulta deben basarse en la evaluación individual del riesgo de infección en función de la edad, los 
+antecedentes de vacunación personales, la actividad laboral, las conductas de riesgo, las prácticas 
+de riesgo y la planificación de viajes.  
+Es esencial extender las políticas o recomendaciones de vacunación a la población adulta con el fin 
+de reforzar el control de las infecciones inmunoprevenibles a lo largo de toda la vida (tabla 1). 
+ 
+Tabla 1. Aspectos a tener en cuenta para mejorar el estado de vacunación en la población adulta 
+ 
+Aprovechar las consultas con personas adultas de cualquier edad para revisar su estado de 
+vacunación y formar e informar de las ventajas de la vacunación, las consecuencias de no vacunarse 
+y los posibles efectos adversos de las vacunas 
+ 
+Completar las dosis que faltan en función de los antecedentes de vacunación o la información 
+disponible en historiales médicos o sistemas de información clínica, evitando reiniciar pautas 
+ 
+Evitar ocasiones perdidas, administrando el mayor número posible de dosis en el mismo acto de 
+vacunación 
+ 
+A continuación se establecen las recomendaciones de vacunación en población adulta y mayor 
+sana, resumidas en la tabla 5. 
+ 
+A.1. Vacunación frente a tétanos y difteria 
+La vacunación sistemática frente a tétanos, difteria y tosferina comenzó en el año 1964. Se 
+recomienda la administración de la vacuna frente a tétanos y difteria (Td) como dosis de recuerdo 
+en población adolescente y adulta desde 1995 (con anterioridad solo se administraba la vacunación 
+de recuerdo frente a tétanos), con dosis de recuerdo con Td cada 10 años. A partir del año 2004 y, 
+de forma más categórica desde 2009, tras revisar la evidencia científica, se recomienda una dosis 
+de recuerdo en torno a los 65 años en personas vacunadas correctamente en infancia y 
+
+Vacunación en población adulta 
+9 
+adolescencia según el calendario vigente (al menos 5 dosis frente a tétanos y difteria). Los datos de 
+estudios seroepidemiológicos sugieren que las dosis de recuerdo en la población adolescente y 
+adulta son fundamentales para mantener niveles elevados de anticuerpos, que pueden persistir 
+durante décadas3,4.  
+En España, la cobertura de vacunación con Td a los 14 años en los últimos años ronda el 75%5, lo 
+que sugiere que un porcentaje de población adulta está vacunada de manera incompleta. Los 
+estudios seroepidemiológicos realizados en España muestran que la inmunidad frente a tétanos 
+(títulos de anticuerpos ≥0,01 UI/ml) es superior al 95% en las personas nacidas entre 1982 y 1994 y 
+disminuye de forma progresiva en las nacidas con anterioridad a 19773. Además, se ha vacunado de 
+manera habitual en el entorno laboral y las Fuerzas Armadas vacunaban a todos los reclutas frente 
+a tétanos desde 1967 y con Td desde 1995, por lo que la mayoría de los varones nacidos en España 
+entre los años 1949 y 1983 han recibido al menos una pauta de vacunación frente a tétanos3. 
+Se debe verificar el estado de vacunación previo y valorar el riesgo individual de tétanos antes de 
+iniciar o completar una pauta de primovacunación en población adulta. En personas extranjeras 
+nacidas posteriormente a 1981 se pueden revisar los datos de cobertura en su país de origen 
+publicados por la OMS3,6. 
+En personas adultas no vacunadas con anterioridad o vacunadas de manera incompleta, se 
+recomienda seguir la siguiente pauta: 1ª dosis con Td tan pronto como sea posible, 2ª dosis al 
+menos 4 semanas tras la primera, 3ª dosis al menos 6 meses tras la segunda. No se debe reiniciar la 
+pauta de vacunación. Se contabilizará cualquier dosis administrada previamente y se completará la 
+pauta de primovacunación hasta las 3 dosis3. Posteriormente se administrarán 2 dosis de recuerdo 
+con un intervalo de entre 1 y 10 años entre dosis hasta completar un total de 5 dosis (tabla 2). 
+Las personas con vacunación incompleta deben recibir las dosis necesarias hasta alcanzar un total 
+de 5 dosis, incluyendo la primovacunación con 3 dosis. Se recomienda no iniciar pautas de 
+vacunación. 
+A las personas adultas vacunadas en la infancia y adolescencia correctamente según calendario 
+vigente se les recomienda una única dosis de recuerdo en torno a los 65 años.  
+ 
+Tabla 2. Pauta de vacunación frente a tétanos* en población adulta no vacunada 
+1ª dosis 
+2ª dosis 
+3ª dosis 
+1er recuerdo  
+(4ª dosis) 
+2º recuerdo  
+(5ª dosis) 
+Tan pronto 
+como sea 
+posible 
+Al menos 1 
+mes tras la 1ª 
+dosis 
+Al menos 6 
+meses tras la 
+2ª dosis 
+10 años 
+(mínimo 1 año tras la 
+3ª dosis) 
+10 años 
+(mínimo 1 año tras la 
+4ª dosis) 
+*se utilizará vacuna Td  
+Fuente: Modificado de recomendaciones de 20091 y 20173.  
+ 
+En lo referente a la difteria, siendo España un país en el que la difteria no supone un riesgo para la 
+población, no está recomendada la vacunación general de adultos, aunque la vacunación frente a 
+tétanos se realiza con vacuna Td con la finalidad de mantener la seroprotección frente a esta 
+enfermedad3,7. 
+ 
+ 
+ 
+
+Vacunación en población adulta 
+10 
+Vacunación ante heridas 
+En el abordaje de la profilaxis de tétanos ante heridas deben considerarse las características de la 
+herida, incluidas las úlceras crónicas en diabéticos, y los antecentes de vacunación (tabla 3). 
+Cuando la herida está muy contaminada (herida tetanígena de alto riesgo), e independientemente 
+de la historia de vacunación, será necesario emplear inmunoglobulina (IGT), además de vacunar, 
+para proporcionar protección inmune de forma inmediata. De esta manera, se proporcionará 
+protección inmune inmediata durante el tiempo que tarde la vacuna en proporcionar un refuerzo 
+de la inmunidad3.  
+ 
+Tabla 3. Pautas de actuación para la profilaxis de tétanos en heridas 
+Antecedentes de 
+vacunación 
+Herida limpia 
+Herida potencialmente tetanígenaa,1 
+Vacuna (Td) 
+IGTb 
+Vacuna (Td) 
+IGTb 
+<3 dosis o 
+desconocida 
+SÍ 
+(completar 
+primovacunación) 
+NO 
+SÍ 
+(completar 
+primovacunación) 
+SÍ 
+3 o 4 dosis 
+NO 
+(si hace más de 10 años 
+desde la última dosis, 
+administrar una dosis) 
+NO 
+NO 
+(si hace más de 5 años 
+desde la última dosis, 
+administrar una dosis) 
+NO2 
+5 o más dosis 
+NO 
+NO 
+NO 
+(si hace más de 10 años de 
+la última dosis, valorar la 
+administración de una 
+única dosis adicional en 
+función del tipo de herida)  
+NO2 
+a En caso de inmunodepresión y personas que se inyectan drogas, se administrará una dosis de inmunoglobulina en 
+heridas potencialmente tetanígenas, independientemente del estado de vacunación. 
+b IGT: inmunoglobulina antitetánica. Se administrará en lugar separado de la vacuna. En general se administran 250 UI. Si 
+han transcurrido más de 24 horas, en personas con más de 90 kg de peso, en heridas con alto riesgo de contaminación o en 
+caso de quemaduras, fracturas o heridas infectadas, se administrará una dosis de 500 UI. 
+1 Heridas potencialmente tetanígenas: heridas o quemaduras con un importante grado de tejido desvitalizado, herida 
+punzante (particularmente donde ha habido contacto con suelo o estiércol), contaminadas con cuerpo extraño, lesiones 
+cutáneas ulceradas crónicas (especialmente en diabéticos), fracturas con herida, mordeduras, lesiones por congelación, 
+aquellas que requieran intervención quirúrgica y que esta se retrasa más de 6 horas y aquellas que se presenten en 
+pacientes con sepsis. 
+2 Aquellas heridas potencialmente tetanígenas contaminadas con gran cantidad de material que puede contener esporas 
+y/o que presente grandes zonas de tejido desvitalizado (heridas de alto riesgo), recibirán una dosis de inmunoglobulina. 
+Fuente: Recomendaciones de utilización de vacunas Td. MSSSI 20173. 
+ 
+A.2. Vacunación frente a tosferina 
+La notificación de casos de tosferina comenzó a aumentar en España apartir del año 2010 y registró 
+su pico máximo en 2012 con 7,45 casos por 100.000 habitantes. La evanescencia de la protección 
+que confiere la vacunación frente a tosferina en la infancia y adolescencia y la sustitución de las 
+vacunas de células enteras por las vacunas acelulares en la vacunación sistemática, podrían estar 
+contribuyendo al aumento de casos de tosferina8,9  
+Las vacunas frente a tosferina que se comercializan en España están combinadas con los toxoides 
+de tétanos y difteria. La vacuna dTpa (de carga antigénica reducida) es la utilizada en población 
+adulta. 
+
+Vacunación en población adulta 
+11 
+La vacunación frente a tosferina se recomienda a mujeres embarazadas en el tercer trimestre de la 
+gestación para prevenir la tosferina en lactantes8 y en determinadas ocupacionesa. 
+ 
+A.3. Vacunación frente a sarampión, rubeola y parotiditis 
+El sarampión y la rubeola son enfermedades víricas muy contagiosas cuyo reservorio natural es el 
+ser humano. Además, las vacunas disponibles son altamente efectivas, por lo que pueden ser 
+erradicadas mediante vacunación. El objetivo de eliminación de ambas enfermedades está 
+establecido de momento para 2020 en la Región Europea de la OMS, siendo necesario para ello 
+alcanzar y mantener el 95% de cobertura de vacunación con dos dosis de vacuna triple vírica (TV) 
+en los niveles nacional, autonómico y local5.  
+Los últimos brotes de sarampión en España muestran un mayor número de casos en las personas 
+nacidas en España entre 1970 y 2000, la mayoría de ellos sin documentación de haber sido 
+vacunados10. Existe una mayor probabilidad de estas cohortes de haber permanecido susceptibles 
+por la menor circulación vírica debido a la introducción de la vacuna TV en el calendario de 
+vacunación en 1981 y con altas coberturas desde entonces5. 
+Se recomienda la vacunación con dos dosis de TV con un intervalo entre dosis de al menos 4 
+semanas, a las personas nacidas en España a partir de 1970 y sin historia de vacunación con TV. En 
+las personas nacidas antes de 1970 se asume que han padecido el sarampión. A la vista de las 
+características de los brotes recientes de parotiditis también se puede asumir que son inmunes por 
+haberla padecido con anterioridad. Con respecto a rubeola, la enfermedad es benigna y no es 
+habitual el embarazo en esas edades. 
+Si hubieran recibido con anterioridad una dosis, se administrará una segunda, siempre respetando 
+el intervalo citado anteriormente. No se recomienda de manera general la realización de serología 
+a rubeola ni parotiditis por problemas de sensibilidad de las técnicas y su interpretación.  
+Las mujeres en edad fértil deben evitar el embarazo en las cuatro semanas siguientes a la 
+vacunación. No es necesario realizar serología de rubeola en mujeres con historia documentada de 
+recepción de al menos una dosis de vacuna triple vírica. 
+ 
+A.4. Vacunación frente a poliomielitis 
+Desde la OMS se coordina el Plan para la erradicación de la poliomielitis en el mundo. Desde la 
+certificación de la Región Europea de la OMS como “libre de poliomielitis” en el año 2002, España 
+contribuye para mantener esa situación11.  
+Como muestran los estudios de seroprevalencia, se puede considerar que las personas nacidas en 
+España son inmunes a la poliomielitis12. Solo en caso de viajar a zonas específicas será necesaria la 
+vacunación con vacuna inactivada frente a poliomielitis (VPI), así como en el caso del personal de 
+laboratorio expuesto a poliovirus11. 
+ 
+A.5. Vacunación frente a virus de la hepatitis B (VHB) 
+La infección por VHB en personas adultas se produce principalmente por transmisión horizontal, 
+durante el contacto sexual, por exposición percutánea a sangre y otros fluidos corporales 
+                                                          
+a Ver apartados del documento Vacunación en grupos de riesgo de todas las edades y en determinadas situaciones, 
+disponible en http://www.mscbs.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/GruposRiesgo.htm  
+
+Vacunación en población adulta 
+12 
+infectados o por vía parenteral. La administración de sangre o hemoderivados infectados con VHB 
+era una de las formas de transmisión hasta los años 80 del s. XX. Desde entonces, el control de la 
+seguridad de la sangre y los procedimientos de inactivación utilizados en la fabricación de los 
+medicamentos derivados de plasma sanguíneo aseguran el bajo riesgo de transmisión de VHB13,14,15. 
+La notificación de la infección es más alta al final de la adolescencia y los primeros años de la edad 
+adulta. Entre los 20 y 34 años la mediana de incidencia alcanza 2,74 casos por 100.000 habitantes, y 
+entre los 35 y 54 años llega a 2,51 casos por 100.000 habitantes5.   
+La mayor parte de la población nacida en España a partir de 1981 está vacunada frente al VHB2,16,17. 
+Los datos más recientes de la Comunidad de Madrid (años 2008-2009)17 y del País Vasco (año 
+2009)16 muestran seroprevalencias de infección por VHB (anti-HBc positivo) bajas en los menores 
+de 30 años y una mayor prevalencia en los grupos de población más mayores estudiados: las 
+personas nacidas antes de 1948 (mayores de 60 años) en el estudio de Madrid y las nacidas entre 
+1950-1969 en el estudio del País Vasco. La prevalencia de infección en personas portadoras (AgHBs 
+positivo) en la población de 2-80 años es del 0,6% en el estudio de Madrid, siendo mayor (1,1%) en 
+el grupo de edad de 41-60 años de edad. 
+Con la pauta de vacunación estándar de tres dosis (0, 1, 6 meses) se obtienen concentraciones de 
+anticuerpos protectoras frente al antígeno de superficie (anti-HBs) en más del 90% de las personas 
+adultas sanas menores de 40 años18,19. Se observa una menor respuesta inmune en personas a 
+partir de los 40 años, así como en quienes fuman, padecen obesidad y enfermedades 
+crónicas20,21,22.  
+Se recomienda la vacunación frente al VHB a las personas ≤18 años de edad que no se hayan 
+vacunado con anterioridad, con pauta de tres dosis (0, 1, 6 meses). En el resto de personas adultas 
+solo está indicada la vacunación en personas con riesgo personal u ocupacional de adquirir la 
+infección y en profilaxis postexposición percutánea a fluidos corporales infectados (ver apartados 
+del documento vacunación en grupos de riesgo de todas las edades y en condiciones de riesgo)1,23. 
+ 
+A.6. Vacunación frente a virus de la gripe 
+El riesgo de enfermedad grave por gripe es mayor en menores de seis meses de edad, en mayores 
+de 65 años24 y en personas con inmunosupresión y/o enfermedades subyacentes, como 
+enfermedades respiratorias, cardíacas y neurológicas crónicas25. Durante el embarazo también 
+puede asociarse con mortalidad perinatal, prematuridad y bajo peso al nacer26. Aunque la 
+incidencia es más alta en la infancia y la juventud, la mortalidad es más elevada en la población 
+mayor de 65 años. El 75% de los casos graves de gripe que requieren hospitalización ocurren en 
+personas de 65 o más años de edad. Más del 80% de las defunciones por gripe se producen 
+igualmente en ese rango de edad, generalmente en individuos con comorbilidades, especialmente 
+enfermedad cardiovascular crónica, diabetes mellitus y enfermedad pulmonar crónica27,28.  
+Las vacunas frente a la gripe contienen tres o cuatro cepas de virus de la gripe (dos tipo A y una o 
+dos tipo B, respectivamente) e incorporan los virus que con mayor probabilidad circulan en cada 
+temporada epidémica, según estimaciones realizadas anualmente desde la OMS. Estas vacunas se 
+fabrican mayoritariamente a partir de virus crecidos en huevos embrionados de pollo que 
+posteriormente se inactivan y fraccionan. Además, se dispone de vacunas fabricadas en cultivo 
+celular y vacunas vivas atenuadas para administración intranasal (entre los 24 meses y los 18 
+años)29. También, se dispone de vacunas con inmunogenicidad aumentada, como la adyuvada con 
+MF59 y las de administración intradérmica. En el contexto de las múltiples variables que 
+intervienen en la mayor o menor protección de las vacunas frente a la gripe en las personas ≥65 
+años, algunos trabajos apuntan a una mayor efectividad de las vacunas adyuvadas respecto de las 
+convencionales en este grupo de población30,31,32 (ver listado de vacunas en anexo 1). 
+
+Vacunación en población adulta 
+13 
+Entre las variables que influyen en la efectividad de las vacunas, destacan la concordancia con las 
+cepas circulantes y las características de la población (edad, enfermedades de base, inmunidad 
+previa). La efectividad de las vacunas frente a enfermedad confirmada por laboratorio varía entre el 
+69% en población infantil de 6 meses a 8 años, 52-70% en personas adultas de 50 a 64 años y 38-
+46% en las personas mayores de 65 años, siempre y cuando los antígenos contenidos en la vacuna 
+se corresponden con los presentes en la cepa o cepas circulantes33,34,35. 
+Las personas con historia de alergia después de la exposición al huevo pueden recibir vacunas 
+frente a la gripe sin precauciones especiales, tanto las vacunas inactivadas como 
+atenuadas36,37,38,39,40. Esta recomendación es válida también para quienes hayan presentado 
+reacciones alérgicas graves o anafilaxia al huevo. Las precauciones deber ser similares a las 
+tomadas ante la administración de cualquier otra vacuna40. 
+Cada año se publican las recomendaciones de vacunación del CISNS para la campaña de la 
+temporada de gripe correspondiente, a propuesta de la Ponencia de Programa y Registro de 
+Vacunaciones. Se recomienda la vacunación con una dosis durante la campaña anual a las 
+siguientes personas adultas sanas41: 
+- 
+Mayores, preferentemente a partir de los 65 años de edad.  
+- 
+Personas sanas que convivan o cuiden a personas de riesgo en los que está 
+recomendada la vacunación. 
+Además, se recomienda la vacunación en embarazadas y en ciertas ocupaciones consideradas 
+esenciales y otras y en personas con conductas de riesgob.  
+ 
+A.7. Vacunación frente a enfermedad neumocócica invasora 
+La neumonía neumocócica (NN) y la enfermedad neumocócica invasora (ENI) suponen un grave 
+problema de salud asociada sobre todo a la existencia de factores de riesgo y también relacionado 
+con la edad (mayores tasas de incidencia a partir de los 65 años y, sobre todo, a partir de los 75-80 
+años) . 
+Entre las estrategias para prevenir la ENI y la NN se encuentra la vacunación. Actualmente se 
+dispone de dos vacunas para la edad adulta, la polisacárida de 23 serotipos (VNP23) y la conjugada 
+de 13 serotipos (VNC13). Se ha observado efectividad de VNP23 frente a ENI, pero sigue en debate 
+su efectividad frente a la NN42. Los niveles de anticuerpos tras vacunación con VNP23 disminuyen 
+con el tiempo y su efectividad desciende a partir de los 3-5 años tras la vacunación y en mayores de 
+80 años43. La administración de una segunda dosis de vacuna al menos 5 años después de la 
+vacunación inicial muestra títulos de anticuerpos funcionales similares a los obtenidos tras 
+primovacunación44. La vacuna VNC13 ha mostrado efectividad en la prevención de ENI y NN 
+causada por la mayoría de los 13 serotipos en ella incluidos. La introducción de VNC en el 
+calendario infantil produce una reducción de la ENI en población adulta por los serotipos incluidos 
+en la vacuna43.  
+En España se introdujo la vacunación sistemática con VNC en la edad pediátrica en 2015 (en todas 
+las CCAA en 2016), aunque se ha estado administrando vacuna conjugada a la población infantil por 
+prescripción privada desde su comercialización en 2001. Los datos epidemiológicos muestran un 
+importante aumento de ENI y NN en personas mayores causadas por los serotipos no incluidos en 
+la vacuna y un descenso de las causadas por los serotipos incluidos en la vacuna conjugada, con 
+                                                          
+b Ver apartados correspondientes en documento Vacunación en grupos de riesgo de todas las edades y en determinadas 
+situaciones. 
+
+Vacunación en población adulta 
+14 
+excepción del serotipo 3 que, aunque está incluido en la vacuna conjugada, no proporciona 
+protección adecuada45,46,47.  
+Por lo tanto, y a la vista de las incertidumbres expuestas, se recomienda la vacunación frente a 
+neumococo en mayores, manteniendo preferentemente la estrategia acordada por el CISNS desde 
+20041 consistente en la vacunación sistemática a partir de los 65 años de edad con VNP2348. No se 
+recomiendan dosis periódicas de recuerdo excepto en determinadas situaciones de riesgo. La 
+vacuna conjugada VNC13 está indicada en la población adulta de grupos de riesgoc. Es fundamental 
+la vigilancia de la carga de enfermedad por serotipos vacunales en España, lo que permitirá revisar 
+las estrategias para conseguir una óptima protección en la población mayor. Además, en los 
+próximos años estarán disponibles nuevas vacunas conjugadas (VNC15 y VNC20). 
+ 
+A.8. Vacunación frente a varicela 
+La varicela puede causar importante morbimortalidad en personas susceptibles, por lo que todas 
+ellas deben vacunarse. Es susceptible toda persona que no presenta inmunidad frente a virus de la 
+varicela. Los estudios de seroprevalencia realizados en España y en algunas CCAA, muestran que 
+menos del 10% de las personas adultas nacidas antes de 1990 son susceptibles y menos del 5% de 
+los nacidos antes de 19702,16,17,49. 
+La evidencia de inmunidad a la varicela en la población adulta incluye cualquiera de los siguientes50: 
+- 
+Documentación de vacunación con dos dosis 
+- 
+Antecedentes de varicela  
+- 
+Historia de herpes zóster  
+- 
+Confimación serológica (IgG positiva)  
+En las personas que no cumplan alguno de los cuatro criterios anteriores se realizará una 
+determinación serológica y, si la persona es susceptible (IgG negativa), se administrarán dos dosis 
+de vacuna frente a varicela con un intervalo de al menos 4 semanas entre las dosis. En caso de 
+tener una dosis administrada con anterioridad, solo se administrará una dosis independientemente 
+del tiempo que haya pasado desde la administración de la primera dosis. Las mujeres deberán 
+evitar el embarazo en las 4 semanas siguientes a cada dosis administrada. La recepción previa de 
+dos dosis de vacuna es sinónimo de inmunidad. 
+Los estudios clínicos con el uso de la vacuna de varicela en mayores de 65 años no incluyen un 
+suficiente número de casos para determinar si la respuesta inmune es similar a la observada en 
+personas jóvenes51, aunque en las infrecuentes ocasiones en las que una persona de 50 o más años 
+es seronegativa a varicela, debería, en ausencia de contraindicaciones, recibir dos dosis de 
+vacuna52. 
+ 
+A.9. Vacunación frente a VPH 
+Según datos del Instituto Catalán de Oncología se estima que cada año se diagnostican en España 
+2.511 mujeres con cáncer de cérvix y 848 mueren por la enfermedad (10º cáncer más frecuente en 
+mujeres en España). La tasa de incidencia (cruda) de cáncer de cérvix en mujeres es de 
+10,6/100.000 (datos de 2012). Un 63,1% de los cánceres de cérvix invasivos se atribuyen al VPH 16 
+o 18 (prevalencia del 16 en cáncer cervical es del 58% y 18 del 5,1%)53. 
+                                                          
+c Ver apartados correspondientes en documento Vacunación en grupos de riesgo de todas las edades y en determinadas 
+situaciones. 
+
+Vacunación en población adulta 
+15 
+En España se introdujo la vacunación en el calendario sistemático del CISNS en 2007, completando 
+su inclusión en todas las CCAA a finales de 2008. El objetivo del programa de vacunación en España, 
+se revisó y se acordó en abril de 2016 por la Comisión de Salud Pública en la “Revisión del 
+calendario de vacunación” y es “disminuir de la incidencia de infección por VPH con la finalidad de 
+reducir la incidencia de cáncer de cérvix relacionado con los tipos oncogénicos del VPH incluidos 
+actualmente en las vacunas disponibles, es decir, el 16 y el 18”. Actualmente se recomienda la 
+vacunación de mujeres a los 12 años de edad (en las CCAA que vacunan en los centros escolares 
+puede variar ligeramente la edad de vacunación). 
+En el año 2009 la cobertura fue superior al 75%, para disminuir en los años posteriores, 
+probablemente por la pérdida de la confianza de la población en esta vacuna debido a la influencia 
+de la publicidad negativa en los medios, ocasionada por la aparición de sospecha de efectos 
+adversos tras la vacunación, posteriormente descartados. Desde el año 2012 se observa una mejora 
+de las coberturas, manteniéndose superiores al 70%. En el año 2016 la cobertura de vacunación en 
+España fue del 77,8%, observándose una amplia variación entre las CCAA, entre el 66,3% y el 91,5%.  
+En la actualidad están disponibles, además de las vacunas bivalente y tetravalente, también una 
+vacuna nonavalente que incluye cinco tipos oncogénicos de VPH adicionales (31, 33, 45, 52 y 58). 
+Además de considerar los genotipos incluidos en la composición de la vacuna, es importante tener 
+en cuenta la protección cruzada frente a otros tipos oncogénicos no incluidos en la vacuna, como 
+ocurre con la vacuna bivalente frente a los tipos 31, 33 y 4554,55,56,57 o la vacuna tetravalente frente 
+al tipo 3158,59.  
+Se recomienda la vacunación de mujeres ≤18 años de edad que no se hayan vacunado con 
+anterioridad. A partir de los 15 años la  pauta será de 3 dosis (0, 1-2, 6 meses, según la vacuna 
+utilizada).  
+ 
+A.10. Vacunación frente a herpes zoster 
+El herpes zoster (HZ) está causado por la reactivación del virus varicela zoster (VVZ) y se manifiesta 
+como una erupción vesicular unilateral, generalmente restringida a un dermatoma, que 
+habitualmente se acompaña de dolor en la misma zona y dura entre 2 y 4 semanas. El dolor y 
+malestar pueden durar semanas, meses o incluso años y puede disminuir la calidad de vida. El 
+desarrollo de HZ se relaciona con el empeoramiento de la inmunidad celular, que ocurre con la 
+edad y con determinadas enfermedades. Más del 90% de las personas adultas se han infectado con 
+VVZ y, por lo tanto, pueden desarrollar HZ. El riesgo de desarrollar HZ aumenta con la edad y 
+alcanza el 30-50% en las personas ≥85 años de edad60,61. Los menores vacunados frente a varicela 
+también pueden desarrollar HZ, aunque se ha observado una disminución del 69% en personas 
+menores de 10 años que previamente se habían vacunado con dos dosis (de 41,6 a 12,8 
+casos/100.000)62. 
+En España está disponible una vacuna atenuada viva que se autorizó en 200663. Recientemente se 
+ha autorizado en la Unión Europea una vacuna de subunidades (HZ/su) que contiene glicoproteína 
+E de VVZ obtenida por técnica de recombinación de ADN y adyuvante AS01B (gE/AS01B) y que 
+estará disponible en los próximos años64. En el momento actual no se recomienda la vacunación 
+frente a HZ en adultos sanos. 
+ 
+A.11. Vacunación frente a hepatitis A 
+España es un país de baja endemicidad de hepatitis A; entre 2012 y 2015 la tasa de incidencia anual 
+fue de menos de 1,5 casos notificados por 100.000 habitantes. Los menores entre 5 y 9 años suelen 
+ser el grupo con mayor tasa de infección. La mayor incidencia ocurre en general en las ciudades 
+autónomas de Ceuta y Melilla65. Entre 2016 y 2017 se produjo un aumento de casos de HA que 
+
+Vacunación en población adulta 
+16 
+afectó fundamentalmente a hombres que tienen sexo con hombres (HSH) entre 18 y 64 años de 
+edad. Este aumento de casos se acompañó de problemas de suministro de vacunas que obligó a 
+priorizar su utilización66.  
+En el estudio seroepidemiológico realizado en 199667 se muestra una seroprevalencia de 
+anticuerpos frente a hepatitis A superior al 80% en los nacidos con anterioridad a 1960, siendo del 
+77,3% en el grupo de edad nacido entre 1957 y 1966, aumentando la susceptibilidad 
+progresivamente en las persones nacidas en años posteriores. Estos resultados son similares a otros 
+estudios realizados en el ámbito de las CCAA68.  
+Las recomendaciones de vacunación frente a hepatitis A se actualizaron en el seno del CISNS en 
+mayo de 201768. Se recomienda la vacunación de ciertos grupos de riesgo y no se recomienda la 
+utilización sistemática de la vacuna HA en adultos. Para determinar la susceptibilidad de las 
+personas nacidas antes de 1977 incluidas en los grupos de riesgo, se realizará serología 
+(determinación de IgG) siempre que sea posible68. En el entorno laboral se recomienda a personas 
+que trabajan con primates no humanos y aquellas que trabajan en el laboratorio con el virus de la 
+hepatitis A. También se recomienda la vacunación de personas en contacto estrecho con menores 
+de adopción internacional (ver más adelante, apartado B1). 
+ 
+A.12 Vacunación frente a enfermedad meningocócica invasora (EMI) por 
+serogrupo C 
+La vacunación con vacuna conjugada frente a meningococo de serogrupo C (MenC) se inició en 
+España en el año 2000 con tres dosis a los 2, 4 y 6 meses de edad y en diciembre del año 2005 se 
+modificó la pauta, recomendando dos dosis en los primeros 6 meses y una dosis de recuerdo a los 
+12 meses (2+1). Teniendo en cuenta la inmunidad comunitaria y la importancia de mantener 
+anticuerpos circulantes en sangre para la protección durante la adolescencia y la etapa adulta 
+joven, se acordó incorporar la pauta 1+1+1 (a los 4 meses, 12 meses y 12 años de edad) a partir de 
+marzo de 201369. La vacunación sistemática con altas coberturas ha permitido el control de la 
+enfermedad. 
+Se recomienda la administración de una dosis de vacuna MenC a las personas ≤18 años de edad 
+que no hayan recibido una dosis a partir de los 10 años de edad. 
+ 
+Tabla 4. Indicaciones de realización de marcadores serológicos antes de la vacunación en personas 
+adultas sanas 
+Enfermedad 
+inmunoprevenible 
+Realizar estudio serológico si 
+Marcadores 
+Vacunación si 
+resultado negativo 
+Varicela* 
+No tienen antecedentes de 
+padecimiento de varicela o herpes 
+zóster y no aportan documentación 
+de vacunación  
+IgG 
+2 dosis VVZ, intervalo de 
+al menos 4 semanas 
+Hepatitis B 
+Riesgo elevado de exposición** 
+AgHBs, anti-HBs, 
+anti-HBc 
+3 dosis de HB (0, 1 y 6 
+meses) 
+TV: vacuna triple vírica. VVZ: vacuna frente a varicela. 
+*En caso de antecedente de 1 dosis, se administrará la 2ª dosis. 
+**Personas con riesgo elevado de exposición: sexual, contacto de portador de AgHBs, infección por el VIH, personas que 
+se inyectan drogas o trabajador sanitario con riesgo ocupacional. 
+ 
+ 
+ 
+
+Vacunación en población adulta 
+17 
+Tabla 5. Vacunación en personas adultas sanas 
+Vacuna 
+Grupo de edad 
+15 – 18 años 
+19 – 64 años 
+≥65 años 
+Tétanos y difteria (Td) 
+Completar vacunación si menos 
+de 5 dosis con anterioridad 
+Completar vacunación si menos 
+de 5 dosis con anterioridad 
+1 dosis de recuerdo 
+Completar si menos de 5 
+dosis con anterioridad 
+Triple vírica (TV) 
+2 dosis si susceptible1 
+2 dosis si susceptible1 
+ 
+Varicela 
+2 dosis si susceptible2 
+2 dosis si susceptible2,3 
+ 
+Meningococo (MenC) 
+1 dosis en no vacunados/as a 
+partir de los 10 años de edad  
+ 
+ 
+Hepatitis B 
+3 dosis en no vacunados/as, 
+pauta 0, 1 y 6 meses 
+ 
+ 
+VPH 
+3 dosis en mujeres sin vacunar. 
+Pauta 0, 1-2, 6 meses 
+ 
+ 
+Neumococo 
+ 
+ 
+1 dosis de VN* 
+Gripe 
+1 dosis anual en convivientes / 
+personas que cuidan a personas 
+de riesgo 
+1 dosis anual en convivientes / 
+personas que cuidan de 
+personas de riesgo 
+1 dosis anual4 
+1 Se recomienda la vacunación en personas sin historia documentada de vacunación nacidas en España a partir de 1970. Se 
+administrarán 2 dosis de vacuna triple vírica con un intervalo de 4 semanas entre dosis. En caso de haber recibido una 
+dosis con anterioridad, se administrará solo una dosis de vacuna. La recepción previa de dos dosis de vacuna es sinónimo 
+de inmunidad. 
+2 En quienes no refieran antecedentes de padecimiento de varicela y/o herpes zóster o sean inciertos, se realizará serología 
+a menos que hayan recibido dos dosis de vacuna y/o tuvieran una serología positiva. En susceptibles (IgG negativa) se 
+administrarán 2 dosis con intervalo de 4 semanas entre dosis. En el caso de haber recibido previamente una sola dosis, 
+recibirán una segunda sin necesidad de serología previa. 
+3 Los casos infrecuentes de personas adultas ≥50 años susceptibles, deben vacunarse frente a varicela con dos dosis51,52. 
+4 Gripe: una dosis en mayores, preferentemente a partir de los 65 años. 
+*Vacunación frente a neumococo a los 65 años de edad.  
+ 
+ 
+ 
+
+Vacunación en población adulta 
+18 
+B. INMIGRANTES 
+María de Viarce Torres de Mier 
+ 
+Según el Instituto Nacional de Estadística, en España residen más de 4 millones de personas 
+extranjeras, lo que supone casi del 10% de la población española. Como se muestra en la tabla 6, la 
+población inmigrante procede fundamentalmente de otros países europeos (sobre todo Rumanía), 
+seguida del Norte de África (Marruecos) y Sudamérica (Colombia, Ecuador y Bolivia)70.  
+ 
+Tabla 6. Población extranjera residente en España, INE 2016 (cifras provisionales) 
+Total extranjeros 
+4.418.898 
+Rumanía 
+Marruecos 
+Reino Unido 
+Italia 
+China 
+699.502 
+678.467 
+297.000 
+192.053 
+171.508 
+Ecuador 
+Alemania 
+Colombia 
+Bulgaria  
+Portugal 
+158.967 
+142.316 
+135.954 
+130.506 
+102.318 
+Francia 
+Ucrania 
+Bolivia 
+Argentina 
+Rusia 
+101.336 
+90.530 
+89.115 
+71.062 
+69.454 
+Fuente: INE. Estadística de migraciones 201570 
+ 
+Por lo tanto, muchas de estas personas proceden de países que pueden no haber incorporado 
+alguna vacuna que figura en el calendario común de vacunación infantil del CISNS o lo han hecho 
+recientemente y con bajas coberturas, por lo que puede haber una considerable bolsa de población 
+vulnerable frente a alguna enfermedad transmisible. Además, estos grupos de población tienen 
+más contacto entre sí y también con otros compatriotas que residen en el país de origen y pueden 
+realizar viajes frecuentes. Todo ello puede conducir a que una epidemia en el país de origen se 
+traslade y expanda con facilidad entre la población susceptible que, procedente de ese país, se 
+encuentra establecida en España71. 
+Así sucedió, por ejemplo, en el brote de rubeola en España de 2012. En ese año se notificaron en 
+Europa 27.276 casos de rubeola, el 99% correspondiente a Rumanía. La vacunación frente a la 
+rubeola se había introducido en Rumanía en 2004, por lo que la tasa de susceptibles era muy alta. 
+En España residen de manera habitual casi un millón de ciudadanos de origen rumano. Se trata de 
+una población bien asentada con un fluido intercambio de personas (familiares y amigos) que viven 
+entre Rumanía y España, lo que contribuyó a la difusión de la rubeola en nuestro territorio. A lo 
+largo de 2012 se notificaron 28 casos de rubeola en ciudadanos rumanos que viven en España, lo 
+que supuso el 43% de todos los casos de rubeola ocurridos en España72. 
+Hay que tener en cuenta que a nivel individual puede resultar muy difícil conocer las vacunas 
+recibidas previamente y disponer de los documentos sanitarios que lo acrediten. Puede resultar de 
+utilidad consultar los datos de coberturas de vacunación en el país de origen publicados en la 
+página web de datos y estadísticas de vacunación de la Organización Mundial de la Salud 
+
+Vacunación en población adulta 
+19 
+(http://www.who.int/immunization/monitoring_surveillance/data/en/)3,7. En caso de duda o de no 
+presentar ningún documento de vacunación, se considerarán como no recibidas.  
+En la tabla 7 se expone la actitud a seguir ante una persona inmigrante adulta (≥18 años) con 
+calendario de vacunación previo inexistente o incompleto, teniendo en cuenta que se incluyen 
+pautas orientadoras (tabla 8) y que siempre será el personal sanitario el que valore cada caso 
+particular73. En menores de 18 años, se seguirán las recomendaciones realizadas en el calendario de 
+vacunación infantil vigente y entre 15 y 18 años, las recomendaciones especificadas en la tabla 5. 
+Vacunación en personas adultas sanas.  
+ 
+Tabla 7. Adaptación del calendario de vacunación en personas inmigrantes adultas (≥18 años) 
+Descripción del grupo de 
+riesgo 
+Vacunación 
+Pauta 
+Población inmigrante 
+- 
+Triple vírica* 
+- 
+Tétanos difteria (Td)  
+- 
+Poliomielitis (VPI)** 
+- 
+Hepatitis B*** 
+- 
+Varicela****  
+- 
+2 dosis 
+- 
+3 dosis en primovacunación 
+- 
+1 a 3 dosis** 
+- 
+3 dosis 
+- 
+2 dosis 
+*En personas sin documentación de vacunación previa se recomienda la administración de dos dosis de TV con un 
+intervalo de al menos cuatro semanas entre dosis. En caso de haberse administrado una dosis con anterioridad, se 
+administrará una sola dosis, independientemente del tiempo que haya pasado desde la administración previa 
+**VPI: primovacunación con 3 dosis para personas adultas no vacunadas procedentes de países endémicos de virus 
+salvaje (http://polioeradication.org/polio-today/polio-now/public-health-emergency-status/) Para países en los que 
+han circulado virus derivados de la vacuna, 1 dosis de refuerzo 
+***Hepatitis B: se recomienda la realización de marcadores serológicos (AgHBs, anti-HBs y anti-HBc) en personas sin 
+historia documentada de HB, que procedan de países de alta endemia. En caso de resultado negativo se recomienda 
+vacunación con 3 dosis de HB en las personas con riesgo de infección por VHB. 
+****Se realizará serología de varicela (IgG) si no presenta antecedentes de enfermedad ni se ha vacunado con dos 
+dosis. En caso de antecedente de 1 dosis, se administrará la 2ª dosis. 
+Fuente: Calendario de vacunación para inmigrantes. Programa de Vacunaciones. Consejería de Sanidad de la 
+Región de Murcia73 
+ 
+Tabla 8. Pautas para la vacunación en personas inmigrantes adultas (≥18 años) 
+Vacuna 
+Meses contados a partir de la primera visita 
+0 (1ª visita) 
+1 mes 
+6 meses - 12 meses 
+Triple Vírica 
+TV 
+TV 
+ 
+Td 
+Td 
+Td 
+Td 
+VPI 
+VPI 
+VPI 
+VPI 
+Hepatitis B* 
+HB 
+HB 
+HB 
+Varicela 
+Varicela 
+Varicela 
+ 
+*Hepatitis B: para quienes procedan de países de alta endemia, presenten riesgo de infección por VHB y tengan 
+marcadores negativos de infección (AgHBs y anti-HBc) 
+ 
+B.1. CONTACTOS DE MENORES DE ADOPCIÓN INTERNACIONAL 
+José A Navarro Alonso y Ana Belén Maldonado Cárceles 
+ 
+Desde 2007 se han registrado brotes de hepatitis A en familiares y personas que cuidan de menores 
+adoptados procedentes de países endémicos donde la infección es más frecuente en los menores 
+de cinco años, en los que hasta en el 85-95% cursa de manera asintomática74,75,76. Este hecho ha 
+
+Vacunación en población adulta 
+20 
+motivado que algunos países recomienden la vacunación de las personas adultas que serán 
+contactos próximos74,77. 
+Se recomienda, por tanto, la vacunación frente a la hepatitis A en las personas susceptibles 
+(incluyendo convivientes y cuidadores/as) que vayan a estar en contacto con el menor en los 60 
+días posteriores a su llegada al país de adopción. Se identificará la susceptibilidad de los padres de 
+adopción y de los contactos cercanos en las personas nacidas antes de 1977 mediante la realización 
+de serología (determinación de IgG)68. Si la serología es negativa, los padres, o quienes vayan a 
+viajar, recibirán la primera dosis de vacuna idealmente en el momento de la planificación de la 
+adopción, o al menos dos semanas antes de emprender viaje. Los contactos próximos recibirán la 
+primera dosis al menos dos semanas antes de la llegada del menor al país de adopción. 
+ 
+BIBLIOGRAFÍA EN POBLACIÓN ADULTA 
+                                                          
+1 Grupo de trabajo de vacunación de adultos de la Ponencia de Programa y Registro de Vacunaciones. 
+Vacunación en adultos. Recomendaciones año 2004. Comisión de Salud Pública del Consejo Interterritorial 
+del Sistema Nacional de Salud. Ministerio de Sanidad y Consumo, septiembre 2004.  Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/recoVacunasAdul
+tos.pdf [consultado el 10 de octubre de 2017]. 
+2 Centro Nacional de Epidemiología. Estudio seroepidemiológico: situación de las enfermedades vacunables 
+en España. Disponible en: http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-tecnicos/fd-
+vigilancias-alertas/fd-enfermedades/SEROEPIDEMIOLOGICO.pdf [Consultado 09 junio 2017]. 
+3 Grupo de trabajo recomendaciones Td 2017 de la Ponencia de Programa y Registro de Vacunaciones. 
+Recomendaciones de utilización de vacunas Td. Comisión de Salud Pública del Consejo Interterritorial del 
+Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad, marzo 2017. Disponible en: 
+http://www.msssi.gob.es/ciudadanos/proteccionSalud/vacunaciones/docs/TetanosDifteria_2017.pdf 
+[consultado el 16 de octubre de 2017]. 
+4 Borrow R., Balmer P. and Roper M.H. The immunologic basis for immunization: module 3: tetanus. World 
+Health Organization, Geneva, 2007. Disponible en: 
+http://apps.who.int/iris/bitstream/10665/43687/1/9789241595551_eng.pdf [consultado el 16 de octubre 
+de 2017]. 
+5 Grupo de trabajo de la Ponencia de Programa y Registro de Vacunaciones. Revisión del Calendario de 
+Vacunación. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio 
+de Sanidad, Servicios Sociales e Igualdad, marzo 2016. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Revision_Calenda
+rioVacunacion.pdf [consultado el 16 de octubre de 2017]. 
+6 World Health Organization. WHO vaccine-preventable diseases: monitoring system. 2016 global summary. 
+Disponible en: http://apps.who.int/immunization_monitoring/globalsummary 
+7 Ministerio de Sanidad, Servicios Sociales e Igualdad. Sanidad Exterior. Viajeros: “La salud también viaja”. 
+Disponible en: https://www.msssi.gob.es/profesionales/saludPublica/sanidadExterior/salud/home.htm 
+[consultado el 4 de octubre de 2017]. 
+8 Grupo de Trabajo tos ferina 2015 de la Ponencia de Programa y Registro de Vacunaciones. Adenda al 
+programa de vacunación frente a tos ferina en España: vacunación en el embarazo. Comisión de Salud 
+Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e 
+Igualdad, junio 2015. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Adenda_TosFerin
+aEmbarazo.pdf [consultado el 16 de octubre de 2017]. 
+9 Centro Nacional de Epidemiología. CIBERESP. ISCIII. Informe sobre la situación de la tosferina en España, 
+1998-2014. http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-tecnicos/fd-vigilancias-
+alertas/fd-enfermedades/pdf_2016/INFORME_Tos_ferina_Espana_2005-2016.pdf [consultado el 19 de 
+octubre de 2017]. 
+ 
+
+Vacunación en población adulta 
+21 
+                                                                                                                                                                                  
+10 Centro Nacional de Epidemiología. Plan Nacional de Eliminación del Sarampión y de la Rubeola. Informe 
+anual 2016. Madrid. Junio de 2017. Disponible en: http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-
+cientifico-tecnicos/fd-vigilancias-alertas/fd-enfermedades/fd-enfermedades-prevenibles-
+vacunacion/pdf_2016/Vigilancia_SAR_RUB_2016._Act.pdf [Consultado 4 mayo 2018]. 
+11 Plan de acción en España para la erradicación de la poliomielitis. Febrero 2016. Consejo Interterritorial del 
+Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad. 2016. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/PlanPolio/docs/Plan_erradicacion_po
+liomielitis.pdf [Consultado 19 octubre 2017]. 
+12 Grupo de trabajo de la Ponencia de Programa y Registro de Vacunaciones. Vacunación en trabajadores 
+sanitarios. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio 
+de Sanidad, Servicios Sociales e Igualdad, abril 2017. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Vacunacion_sanit
+arios.pdf [Consultado el 19 de octubre de 2017]. 
+13 European Medicines Agency. Guideline on plasma-derived medicinal products, 
+EMA/CHMP/BWP/706271/2010. Disponible en: 
+http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2011/07/WC500109627.p
+df 
+14 Mast EE, Weinbaum CM, Fiore AE, et al. A Comprehensive Immunization Strategy to Eliminate Transmission 
+of Hepatitis B Virus Infection in the United States. MMWR 2006; 55(RR16): 1-25. 
+15 Centers for Disease Control and Prevention (CDC). Blood safety monitoring among persons with bleeding 
+disorders--United States, May 1998-June 2002. MMWR Morb Mortal Wkly Rep 2003; 51: 1152-1154. 
+16 Gobierno Vasco. I Encuesta de seroprevalencia de la Comunidad Autónoma del País Vasco. Departamento 
+de Sanidad y Consumo. 2011. Disponible en: 
+http://www.euskadi.eus/contenidos/informacion/publicaciones_departamento/es_def/adjuntos/salud_pu
+blica/seroprevalencia.pdf [Consultado 19 octubre 2017]. 
+17 García Comas L, Ordobás M, Sanz JC, et al. IV Encuesta de serovigilancia de la Comunidad de Madrid. 
+Consejería de Sanidad. Dirección General de Atención Primaria. Documento Técnico de Salud Pública. 
+Madrid 2015. Disponible en: 
+http://www.madrid.org/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=
+Content-
+disposition&blobheadername2=cadena&blobheadervalue1=filename%3DIVSEROVI_Documento+t%C3%A9c
+nico_revisi%C3%B3n+final+22_05_2015.pdf&blobheadervalue2=language%3Des%26site%3DPortalSalud&bl
+obkey=id&blobtable=MungoBlobs&blobwhere=1352874902909&ssbinary=true [Consultado 19 octubre 
+2017]. 
+18 Andre FE. Summary of safety and efficacy data on a yeast-derived hepatitis B vaccine. Am J Med 1989; 
+87(Suppl 3A): S14-20. 
+19 Zajac BA, West DJ, McAleer WJ, et al. Overview of clinical studies with hepatitis B vaccine made by 
+recombinant DNA. J Infect 1986; 13(Suppl A): 39-45. 
+20 Averhoff F, Mahoney F, Coleman P, et al. Immunogenicity of hepatitis B vaccines. Implications for persons 
+at occupational risk of hepatitis B virus infection. Am J Prev Med 1998; 15: 1–8. 
+21 Van Der Meeren O, Crasta P, Cheuvart B, et al. Characterization of an age-response relationship to GSK’s 
+recombinant hepatitis B vaccine in healthy adults: an integrated analysis. Hum Vaccin Immunother 2015; 
+11: 1726–1729. 
+22 World Health Organisation. Hepatitis B vaccines: WHO position paper. Wkly Epidemiol Rec 2017; 92: 369–
+392. 
+23 Grupo de trabajo de la Ponencia de programas y registro de vacunaciones. Recomendaciones de utilización 
+de vacunas frente a hepatitis B para adultos en situación de problemas de suministro. Comisión de Salud 
+Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e 
+Igualdad, julio 2017. Disponible en: 
+ 
+
+Vacunación en población adulta 
+22 
+                                                                                                                                                                                  
+https://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Recomend_Hep
+atitisB_Problema_suministro.pdf [consultado el 17 de octubre de 2017]. 
+24 Zhou H, Thompson WW, Viboud CG et al. Hospitalizations associated with influenza and respiratory 
+syncytial virus in the United States, 1993-2008. Clin Infect Dis 2012; 54: 1427-1436. 
+25 Pebody RG, E McLean E, Zhao H et al, Pandemic influenza A (H1N1) 2009 and mortality in the United 
+Kingdom: risk factors for death, April 2009 to March 2010. Euro Surveill 2010; 15:pii=19571. 
+26 Pierce M, Kurinczuk, JJ, Spark, P et al. Perinatal outcomes after maternal 2009/H1N1 infection: national 
+cohort study. BMJ 2011; 342: d3214. 
+27 Donaldson LJ, Rutter PD, Ellis BM, et al. English mortality from A/H1N1. Comparisons with recent flu 
+mortality. BMJ 2010; 340: c612. 
+28 Instituto de Salud Carlos III. Informe de Vigilancia de la Gripe en España. Temporada 2016- 2017 Sistema de 
+Vigilancia de la Gripe en España. Disponible en: http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-
+cientifico- tecnicos/fd-vigilancias alertas/fd-enfermedades/gripe.shtml [consultado el 17 de octubre de 
+2017].   
+29 World Health Organization. Influenza. Surveillance and monitoring. 
+http://www.who.int/influenza/surveillance_monitoring/en/ [consultado el 17 de octubre de 2017]. 
+30 Frey SE, Reyes MR, Reynales H, et al. Comparison of the safety and immunogenicity of an MF59-adjuvanted 
+with a non-adjuvanted seasonal influenza vaccine in elderly subjects. Vaccine 2014; 32: 5027-5034. 
+31 Van Buynder PG, Konrad S, Van Buynder JL et al. The comparative effectiveness of adjuvanted and 
+unadjuvanted trivalent inactivated influenza vaccine (TIV) in the elderly. Vaccine 2013; 31: 6122-6128. 
+32 Dominich A, Arata L, Amicizia D, et al. Effectiveness of MF59-adjuvanted seasonal influenza vaccine in the 
+elderly: A systematic review and meta-analysis. Vaccine 2017; 35: 513–520. 
+33 Kissling E, Valenciano M, Falcão JM, et al. “I-MOVE” towards monitoring seasonal and pandemic influenza 
+vaccine effectiveness: lessons learnt from a pilot multi-centric case-control study in Europe, 2008-9. Euro 
+Surveill 2009; 14(44):pii=19388.  
+34 Darvishian M, van den Heuvel ER, Bissielo A, et al. Effectiveness of seasonal influenza vaccination in 
+community-dwelling elderly people: an individual participant data meta-analysis of test-negative design 
+case-control studies. Lancet Respir Med 2017; 5: 200-211. 
+35 Treanor JJ, Talbot HK, Ohmit SE. Effectiveness of seasonal influenza vaccines in the United States during a 
+season with circulation of all three vaccine strains. Clin Infec Dis 2012; 55: 951-959. 
+36 Pongdee T. Egg Allergy and the Flu Vaccine. American Academy of Allergy, Asthma and Immunology. 
+Disponible en: http://www.aaaai.org/conditions-and-treatments/library/allergy-library/SP-Egg-Allergy-and-
+the-Flu-Vaccine [consultado el 17 de octubre de 2017]. 
+37 Canadian Government. Canadian Immunization Guide Chapter on Influenza and Statement on Seasonal 
+Influenza Vaccine for 2017-2018. Disponible en: https://www.canada.ca/en/public-
+health/services/publications/healthy-living/canadian-immunization-guide-statement-seasonal-influenza-
+vaccine-2017-2018.html [consultado el 17 de octubre de 2017]. 
+38 Des Roches A, Paradis L, Gagnon R, et al. Egg-allergic patients can be safely vaccinated against influenza. J 
+Allergy Clin Immunol 2012; 130: 1213-1215. 
+39 Greenhawt MJ, Spergel JM, Rank MA, et al. Safe administration of the seasonal trivalent influenza vaccine 
+to children with severe egg allergy. Ann Allergy Asthma Immunol 2012; 109: 426-430. 
+40 Greenhawt M, Turner PJ, Kelso JM. Administration of influenza vaccines to egg allergic recipients: A 
+practice parameter update 2017. Ann Allergy Asthma Immunol 2018; 120: 49-52. 
+41 Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Recomendaciones de 
+vacunación frente a la gripe. Temporada 2017-2018. Ministerio de Sanidad, Servicios Sociales e Igualdad, 
+septiembre 2017. Disponible en: 
+https://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Recomendacion
+es_vacunacion_gripe.pdf [consultado el 17 de octubre de 2017]. 
+ 
+
+Vacunación en población adulta 
+23 
+                                                                                                                                                                                  
+42 Suzuki M, Dhoubhadel BG, Ishifuji T, et al. Serotype-specific effectiveness of 23-valent pneumococcal 
+polysaccharide vaccine against pneumococcal pneumonia in adults aged 65 years or older: a multicentre, 
+prospective, test-negative design study. Lancet Infect Dis 2017; 17: 313-321. 
+43 Grupo de trabajo vacunación frente a neumococo en grupos de riesgo 2015 de la Ponencia de Programas y 
+Registro de Vacunaciones. Utilización de la vacuna frente a neumococo en grupos de riesgo. Comisión de 
+Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios 
+Sociales e Igualdad, mayo 2015. Disponible en: 
+https://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Neumococo_Gr
+uposriesgo.pdf [consultado el 17 de octubre de 2017]. 
+44 Kawakami K, Kishino H, Kanazu S, et al. Time interval of revaccination with 23-valent pneumococcal 
+polysaccharide vaccine more than 5 years does not affect the immunogenicity and safety in the Japanese 
+elderly. Hum Vaccin Immunother 2018; 26: 1-8. 
+45 Servicio de Epidemiología de la Comunidad de Madrid. Enfermedad neumocócica invasora en la Comunidad 
+de Madrid, año 2016. Sistema de Vigilancia de EDO. Disponible en: 
+http://www.madrid.org/cs/Satellite?c=CM_Publicaciones_FA&cid=1354697892244&language=es&pagena
+me=ComunidadMadrid%2FEstructura [consultado el 6 de junio de 2018]. 
+46 Servicio de Epidemiología. Dirección de Salud Pública. Junta de Castilla y León. Informe sobre la 
+enfermedad neumocócica invasora en Castilla y León. Año 2016. Disponible en: 
+https://www.saludcastillayleon.es/profesionales/es/inf-epidemiologicos/informes-epidemiologicos-castilla-
+leon/informes-enfermedad-invasora-neumococo-ein [consultado el 6 de junio de 2018]. 
+47 Sub-direcció General de Vigilància i Resposta a Emergències de Salut Pública. Agència de Salut Pública de 
+Catalunya. Epidemiologia de la malaltia pneumocòccica invasiva a Catalunya Informe 2012-2016. Disponible 
+en: 
+http://canalsalut.gencat.cat/web/.content/home_canal_salut/professionals/temes_de_salut/vigilancia_epi
+demiologica/documents/arxius/malaltia_neumo_2012_2016.pdf [consultado el 6 de junio de 2018]. 
+48 Vallejo Torres L, Linertova R, Castilla I, et al. Coste-efectividad de la vacunación antineumocócica en adultos 
+>60 años. Ministerio de Sanidad, Servicios Sociales e Igualdad. Servicio de Evaluación del Servicio Canario de 
+la Salud; 2017. Informes de Evaluación de Tecnologías Sanitarias, 2018. 
+49 Encuesta gallega de seroprevalencia 2013. Boletín epidemiológico de Galicia. Vol. XXVI - nº 4. Septiembre 
+de 2014. Disponible en: http://www.sergas.es/Saude publica/Documents/100/BEG_XXVI_4_290914.pdf 
+[consultado el 17 de octubre de 2017]. 
+50 Ponencia de Programas y Registro de Vacunaciones. Revisión de las recomendaciones de vacunación frente 
+a varicela en grupos de riesgo. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional 
+de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad, marzo 2015. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Recomend_Varic
+ela_Gruposriesgo.pdf [consultado el 17 de octubre de 2017]. 
+51 Ficha técnica de Varivax, aprobada por la FDA. Disponible en: 
+https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM142812.pdf 
+[consultada el 29 de junio de 2018]. 
+52 Government of Canada. Canadian Immunization Guide: Part 4 - Active Vaccines. Varicella (Chickenpox) 
+Vaccine. Disponible en: https://www.canada.ca/en/public-health/services/publications/healthy-
+living/canadian-immunization-guide-part-4-active-vaccines/page-24-varicella-chickenpox-
+vaccine.html#p4c23f1 [consultada el 29 de junio de 2018]. 
+53 ICO/IARC Information Centre on HPV and Cancer. Spain. Human papillomavirus and related cancers, fact 
+sheet 2017. Disponible en: http://www.hpvcentre.net/statistics/reports/ESP_FS.pdf [Consultado el 13 de 
+febrero de 2018]. 
+54 Lehtinen M, Lagheden C, Luostarinen T, et al. Ten-year follow-up of human papillomavirus vaccine efficacy 
+against the most stringent cervical neoplasia end-point-registry-based follow-up of three cohorts from 
+randomized trials. BMJ Open 2017; 7 :e015867. 
+ 
+
+Vacunación en población adulta 
+24 
+                                                                                                                                                                                  
+55 Kavanagh K, Pollock KG, Cuschieri K, et al. Changes in the prevalence of human papillomavirus following a 
+national bivalent human papillomavirus vaccination programme in Scotland: a 7-year cross-sectional study. 
+Lancet Infect Dis 2017; 17: 1293-1302. 
+56 Novakovic D, Cheng ATL, Zurynski Y, et al. A prospective study of the incidence of juvenile-onset recurrent 
+respiratory papillomatosis after implementation of a National HPV vaccination program. J Infect Dis 2018; 
+217: 208-212. 
+57 Dirección Xeral de Saúde Pública. Efectividade da vacinación fronte o VPH en Galicia: 2014-2017. Boletín 
+Epidemiolóxico de Galicia 2017; XXIX: 1-12. Disponible en: https://www.sergas.es/Saude-
+publica/Documents/4852/BEG%20XXIX-6.pdf [Consultado el 11 de junio de 2018]. 
+58 Ficha técnica de Gardasil. Disponible en: 
+http://www.ema.europa.eu/docs/es_ES/document_library/EPAR_-
+_Product_Information/human/000703/WC500021142.pdf [Consultado el 29 de junio de 2018]. 
+59 Tabrizi SN, Brotherton JM, Kaldor JM, et al. Assessment of herd immunity and cross-protection after a 
+human papillomavirus vaccination programme in Australia: a repeat cross-sectional study. Lancet Infect Dis 
+2014; 14: 958-966. 
+60 Forbes HJ, Bhaskaran K, Thomas SL, et al. Quantification of risk factors for herpes zoster: population based 
+case-control study. BMJ 2014; 348: g2911. 
+61 Forbes HJ, Bhaskaran K, Thomas SL, et al. Quantification of risk factors for postherpetic neuralgia in herpes 
+zoster patients: A cohort study. Neurology 2016; 87: 94-102. 
+62 Civen R, Marin M, Zhang J, et al. Update on incidence of herpes zoster among children and adolescents 
+after implementation of varicella vaccination, Antelope Valley, CA, 2000 to 2010. Pediatr Infect Dis J 2016; 
+35: 1132-1136. 
+63 Ficha técnica de Zostavax. Disponible en: 
+https://cima.aemps.es/cima/pdfs/es/ft/06341011/FT_06341011.html.pdf [Consultado el 11 de junio de 
+2018]. 
+64 Ficha técnica de Shingrix. Disponible en: 
+http://www.ema.europa.eu/docs/es_ES/document_library/EPAR_-
+_Product_Information/human/004336/WC500246550.pdf [Consultado el 11 de junio de 2018]. 
+65 Red Nacional de Vigilancia Epidemiológica (2014). "Resultados de la Vigilancia Epidemiológica de las 
+enfermedades transmisibles. Informe anual. ." Disponible en: http://www.isciii.es/ISCIII/es/contenidos/fd-
+servicios-cientifico-tecnicos/fd-vigilancias-alertas/fd-
+enfermedades/pdf_2016/RENAVE_INFORME_ANUAL_2014.pdf [Consultado el 11 de junio de 2018]. 
+66 Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Problemas de 
+suministro de vacunas frente a hepatitis A. recomendaciones. Ministerio de Sanidad, Servicios Sociales e 
+Igualdad, 10 de mayo de 2017. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Problemas_sumi
+nistro_HepatitisA.pdf [Consultado el 11 de junio de 2018]. 
+67 Estudio seroepidemiológico: situación de las enfermedades vacunables en España. Disponible en: 
+http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-tecnicos/fd-vigilancias-alertas/fd-
+enfermedades/SEROEPIDEMIOLOGICO.pdf [Consultado 28 febrero 2017]. 
+68 Grupo de trabajo de la Ponencia de Programa y Registro de Vacunaciones. Recomendaciones de 
+vacunación frente a hepatitis A en grupos de riesgo. Comisión de Salud Pública del Consejo Interterritorial 
+del Sistema Nacional, 2017. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Recomend_Hepa
+titisA.pdf [Consultado el 11 de junio de 2018]. 
+69 Grupo de Trabajo MenCC 2012, de la Ponencia de Programa y Registro de Vacunaciones. Revisión de la 
+pauta de vacunación frente a enfermedad meningocócica por serogrupo C. Comisión de Salud Pública del 
+Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad. 
+2013. Disponible en: 
+ 
+
+Vacunación en población adulta 
+25 
+                                                                                                                                                                                  
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/MenC.pdf 
+[consultado el 23 de junio de 2018]. 
+70 Instituto Nacional de Estadística. Cifras de Población 1-1-2016 y Estadística Migraciones. 30 de junio de 
+2016. Disponible en: http://www.ine.es/prensa/np980.pdf [consultado el 17 de octubre de 2017]. 
+71 WHO vaccine-preventable diseases: monitoring system. 2017 global summary. Immunization schedule 
+selection centre]. Disponible en: 
+http://apps.who.int/immunization_monitoring/globalsummary/countries?commit=OK [consultado el 17 de 
+octubre de 2017]. 
+72 Centro Nacional de Epidemiología. Plan nacional de eliminación del sarampión y de la rubéola. Informe 
+anual 2012. Madrid, noviembre de 2013. Disponible en: http://www.isciii.es/ISCIII/es/contenidos/fd-
+servicios-cientifico-tecnicos/fd-vigilancias-alertas/fd-enfermedades/fd-enfermedades-prevenibles-
+vacunacion/Informe-Sarampion_Rubeola-y-SRC_Espana-2012.pdf [consultado el 17 de octubre de 2017]. 
+73 Calendario de vacunación para inmigrantes. Programa de Vacunaciones. Consejería de Sanidad de la Región 
+de Murcia. Disponible en: http://www.murciasalud.es/pagina.php?id=40525&idsec=85 [consultado el 17 de 
+octubre de 2017]. 
+74 Centers for Disease Control and Prevention, Advisory Committee on Immunization Practices. Updated 
+recommendations from the Advisory Committee in Immunization Practices (ACIP) for use of hepatitis A 
+vaccine in close contacts of newly arriving international adoptees. MMWR Morb Mortal Wkly Rep 2009; 58: 
+1006-1007. 
+75 American Academy of Pediatrics Committee on Infectious Diseases. Recommendations for administering 
+hepatitis A vaccine to contacts of international adoptees. Pediatrics 2011; 128: 803-804. 
+76 Sciauvaud J, Rigal E, Pascal J, et al. Transmission of infectious diseases from internationally adopted 
+children to their adoptive families. Clin Microbiol Infect 2014; 20: 746-751. 
+77 Public Health Agency of Canada. Canada Immunization Guide. Part 4: Active vaccines. Hepatitis A vaccine. 
+Update 2018. Disponible en: https://www.canada.ca/en/public-health/services/publications/healthy-
+living/canadian-immunization-guide-part-4-active-vaccines/page-6-hepatitis-a-vaccine.html [consultado el 
+18 de abril de 2018]. 
+
+Vacunación en población adulta 
+26 
+Anexo 1. Vacunas autorizadas y disponibles para adultos 
+Marta Soler Soneira y Susana López Hernández 
+Se detallan en este apartado las vacunas comercializadas en España. Se describen las pautas 
+autorizadas y aquellas características que ayudan a diferenciar vacunas similares.  
+El uso de las vacunas debe realizarse de acuerdo con las recomendaciones oficiales. 
+Toda la información necesaria sobre características de las vacunas está disponible en las fichas 
+técnicas de las mismas, que están disponibles en la página web de la AEMPS 
+(https://www.aemps.gob.es/medicamentosUsoHumano/vacunas/home.htm).   
+ 
+VACUNAS FRENTE A HEPATITIS B 
+Nombre de la vacuna 
+(Laboratorio titular) 
+Indicación en 
+FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta vacunación primaria/dosis de recuerdo) 
+ENGERIX-B 
+20µg/0,5ml 
+(GLAXOSMITHKLINE, 
+S.A). 
+A partir de los 
+16 años 
+(en 
+determinadas 
+situaciones a 
+partir de 11 
+años) 
+AgHBs: 20µg  
+Adyuvante: Al 
+-0, 1, 6 meses 
+-0, 1, 2, 12 meses 
+ 
+En sujetos ≥ 18, en circunstancias excepcionales, pauta acelerada:  
+0, 7, 21 días, 12 meses  
+ 
+En sujetos 11-15 años en caso de bajo riesgo de infección y con gran probabilidad 
+de cumplimiento de la pauta:  
+0,6 meses 
+ 
+En sujetos con insuficiencia renal administrar 4 dosis dobles (2x20 µg): 0, 1, 2, 6 / 
+En estos sujetos inmunocomprometidos se aconsejan análisis post-vacunación 
+cada 6-12 meses. 
+HBVAXPRO 
+10µg/0,5ml 
+(MSD VACCINS) 
+A partir de los 
+16 años 
+AgHBs: 10µg  
+Adyuvante: Al 
+-0, 1, 6 meses 
+-0, 1, 2, 12 meses 
+/En vacunados inmunocomprometidos (por ejemplo, pacientes en diálisis, 
+pacientes trasplantados, pacientes con SIDA) se debe considerar la administración 
+de dosis adicionales de vacuna si el nivel de anticuerpos frente al antígeno de 
+superficie del virus de la hepatitis B (anti-HBs) es inferior a 10 UI/l. 
+ 
+FENDRIX  
+(GLAXOSMITHKLINE 
+BIOLOGICALS, S.A.) 
+Adolescentes y 
+adultos a partir 
+de los 15 años 
+con 
+insuficiencia 
+renal 
+(incluyendo 
+pacientes 
+prehemolizados 
+y 
+hemodializados
+) 
+AgHBs: 20µg 
+Adyuvantes: 
+AS04C y Al 
+0, 1, 2, 6 meses / dosis de recuerdo: debido a que los pacientes pre-
+hemodializados y hemodializados están particularmente expuestos al 
+VHB y tienen un mayor riesgo de padecer una infección crónica,  
+se administrará una dosis de recuerdo para asegurar un nivel de anticuerpos 
+protectores definido por las recomendaciones y directrices nacionales. 
+HBVAXPRO 
+40µg/0,5ml 
+(MSD VACCINS) 
+Adultos en 
+prediálisis y 
+diálisis 
+AgHBs: 40µg  
+Adyuvante: Al 
+-0, 1, 6 / dosis de recuerdo si el nivel de anticuerpos frente al antígeno de 
+superficie del virus de la hepatitis B (anti-HBs) después de las primeras dosis es 
+inferior a 10 UI/l. 
+En vacunados inmunocomprometidos (por ejemplo, pacientes en diálisis, 
+pacientes trasplantados, pacientes con SIDA) se debe considerar la administración 
+de dosis adicionales de vacuna si el nivel de anticuerpos frente al antígeno de 
+superficie del virus de la hepatitis B (anti-HBs) es inferior a 10 UI/l. 
+ 
+ 
+ 
+
+Vacunación en población adulta 
+27 
+ 
+ 
+VACUNAS FRENTE A HEPATITIS A 
+Nombre de la 
+vacuna 
+(Laboratorio titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta vacunación primaria/dosis de recuerdo) 
+HAVRIX 
+720/0,5ml  
+(GLAXOSMITHKLINE
+, S.A.) 
+Niños y 
+adolescentes a 
+partir de 1 año y 
+hasta los 18 años 
+de edad inclusive  
+ 
+Virus de la hepatitis A (inactivados)1,2 720 
+Unidades ELISA 
+1Producidos en células diploides humanas 
+(MRC-5) 
+2Adsorbido en hidróxido de aluminio hidratado       
+Total: 0,25 mg Al3+ 
+-0, una dosis de recuerdo entre 6 meses – 5 años 
+(preferiblemente entre los 6 y 12 meses después 
+de la vacunación primaria) 
+VAQTA 
+25 
+Unidades/0,5m
+l 
+(MSD  de ESPAÑA, 
+S.A.) 
+Individuos sanos 
+entre 12 meses y 
+17 años  
+ 
+Virus de la Hepatitis A (cepa CR 326F) 
+(inactivados)1,2 25 U3 
+1Producidos en fibroblastos (MRC-5) diploides 
+humanos.  
+2Adsorbidos 
+en 
+sulfato 
+hidroxifosfato 
+de 
+aluminio amorfo (0,225 mg de Al3+).  
+3Unidades medidas de acuerdo al método 
+interno del fabricante – Merck Sharp & Dohme 
+Corp. 
+-0/una dosis de recuerdo administrada en 
+cualquier momento del periodo comprendido 
+entre 6-18 meses 
+ 
+ 
+HAVRIX 
+1440/1ml 
+(GLAXOSMITHKLINE
+, S.A.) 
+Adultos a partir de 
+los 19 años de 
+edad 
+Virus de la hepatitis A (inactivados)1,2                                      
+1440 Unidades ELISA 
+  
+1Producidos en células diploides humanas 
+(MRC-5) 
+2Adsorbido en hidróxido de aluminio hidratado       
+Total: 0,50 mg Al3+ 
+-0, una dosis de recuerdo de Havrix 1440 (adultos) 
+en cualquier momento entre los 6 meses y 5 años, 
+aunque preferiblemente entre los 6 y 12 meses 
+después de la vacunación primaria 
+VAQTA 
+50 
+Unidades/1ml 
+(MSD ESPAÑA, S.A.) 
+Adultos sanos 
+entre 18 años y 
+mayores  
+ 
+Virus de la Hepatitis A (cepa CR 326F) 
+(inactivados)1,2, 50 U3 
+1Producidos en fibroblastos (MRC-5) diploides 
+humanos.  
+2Adsorbidos 
+en 
+sulfato 
+hidroxifosfato 
+de 
+aluminio amorfo (0,45 mg de Al3+).  
+3Unidades medidas de acuerdo al método 
+interno del fabricante – Merck Sharp & Dohme 
+Corp. 
+-0/ Una dosis de recuerdo administrada en 
+cualquier momento del periodo comprendido 
+entre 6-18 meses 
+ 
+Adultos infectados con el VIH: (0, 6 meses) 
+Los adultos infectados con VIH deben recibir una 
+dosis única de 1,0 ml (50 U) en la fecha elegida 
+seguida de una dosis de refuerzo de 1,0 ml (50 U) 
+6 meses después. 
+AVAXIM 0,5 ml 
+(SANOFI 
+PASTEUR 
+EUROPE) 
+(NO 
+COMERCIALIZADO 
+EN ESTE 
+MOMENTO) 
+Adolescentes y 
+adultos a partir de 
+los 16 años de 
+edad 
+Virus de la hepatitis A de la cepa GBM 
+(inactivados)1,2 160 U3 
+1  producidos en células diploides humanas 
+(MRC-5) 
+2adsorbidos en hidróxido de aluminio, hidratado 
+(0,3 miligramos de Al) 
+3en ausencia de una referencia estandarizada 
+internacional, el contenido de antígeno se 
+expresa utilizando una referencia interna 
+ 
+-0/una dosis de recuerdo a los 6-36 meses 
+(preferentemente entre 6 y 12 meses) 
+ 
+ 
+VACUNAS FRENTE A HEPATITIS A + HEPATITIS B 
+Nombre de la 
+vacuna 
+(Laboratorio 
+titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta vacunación primaria/dosis de 
+recuerdo) 
+TWINRIX 
+ADULTOS/1
+ml  
+(GLAXOSMITHKLI
+NE, S.A.) 
+Adultos y adolescentes a 
+partir de 16 años de edad  
+Virus de la hepatitis A (inactivados)1,2 720 
+Unidades ELISA 
+Antígeno de superficie de la Hepatitis B3,4 20 
+microgramos 
+1Producidos en células diploides humanas (MRC-
+5) 
+2Adsorbido en hidróxido de aluminio hidratado         
+0,05 mg Al3+ 
+3Producido por tecnología de ADN recombinante 
+en células de levadura (Saccharomyces cerevisiae)  
+4Adsorbido en fosfato de aluminio 0,4 miligramos 
+Al3+ 
+ 
+-0, 1,6 meses 
+-0, 7 y 21 días (pauta acelerada) 
+ 
+ 
+ 
+
+Vacunación en población adulta 
+28 
+ 
+VACUNAS FRENTE A GRIPE 
+Nombre de la 
+vacuna 
+(Laboratorio titular) 
+Indicaci
+ón en FT 
+Composición 
+Pautas posibles (en FT) 
+CHIROFLU 
+/0,5ml  
+(SEQIRUS S.R.L) 
+> 6 
+meses 
+Trivalente inactivada (cepas A/H1N1, 
+A/H3N2, B (Victoria o Yamagata) 
+-1 dosis anual 0,5 ml 
+Niños entre 6 y 35 meses de edad: Se pueden utilizar dosis de 
+0,25 ml o 0,5 ml.  
+En niños que no han sido previamente vacunados, debe 
+administrarse una segunda dosis tras un intervalo mínimo de 4 
+semanas. 
+VAXIGRIP/0,5
+ml 
+(SANOFI PASTEUR 
+EUROPE) 
+> 6 
+meses 
+Trivalente inactivada (cepas A/H1N1, 
+A/H3N2, B (Victoria o Yamagata) 
+-1 dosis anual 0,5 ml 
+Niños entre 6 y 35 meses de edad: administrar dosis de 0,25 ml  
+En niños < 9 años que no han sido previamente vacunados, debe 
+administrarse una segunda dosis tras un intervalo mínimo de 4 
+semanas. 
+MUTAGRIP/0,5
+ml  
+(SANOFI PASTEUR 
+EUROPE) 
+> 6 
+meses 
+Trivalente inactivada (cepas A/H1N1, 
+A/H3N2, B (Victoria o Yamagata) 
+-1 dosis anual 0,5 ml 
+Niños entre 6 y 35 meses de edad: administrar dosis de 0,25 ml  
+En niños < 9 años que no han sido previamente vacunados, debe 
+administrarse una segunda dosis tras un intervalo mínimo de 4 
+semanas. 
+INFLUVAC 
+/0,5ml 
+(BGP PRODUCTS 
+OPERATIONS) 
+> 6 
+meses 
+Trivalente inactivada (cepas A/H1N1, 
+A/H3N2, B (Victoria o Yamagata) 
+-1 dosis anual 0,5 ml 
+Niños entre 6 y 35 meses de edad: Se pueden utilizar dosis de 
+0,25 ml o 0,5 ml.  
+En niños que no han sido previamente vacunados, debe 
+administrarse una segunda dosis tras un intervalo mínimo de 4 
+semanas. 
+AFLURIA 
+/0,5ml 
+(SEQIRUS GMBH) 
+> 5 años 
+Trivalente inactivada (cepas A/H1N1, 
+A/H3N2, B (Victoria o Yamagata) 
+-1 dosis anual 0,5 ml 
+En niños < 9 años que no han sido previamente vacunados, debe 
+administrarse una segunda dosis tras un intervalo mínimo de 4 
+semanas. 
+INTANZA 15* 
+/0,1 ml 
+(SANOFI PASTEUR 
+EUROPE) 
+> 60 
+años 
+Trivalente inactivada (cepas A/H1N1, 
+A/H3N2, B (Victoria o Yamagata) 
+-1 dosis anual 0,5 ml 
+ 
+CHIROMAS 
+/0,5ml 
+(SEQIRUS S.R.L) 
+> 65 
+años 
+Trivalente inactivada (cepas A/H1N1, 
+A/H3N2, B (Victoria o Yamagata) y  
+ADYUVANTE MF59C.1  
+-1 dosis anual 0,5 ml 
+ 
+VAXIGRIP 
+TETRA/0,5ml   
+(SANOFI PASTEUR 
+EUROPE) 
+≥ 6 
+meses 
+TETRAVALENTE inactivada (cepas A/H1N1, 
+A/H3N2, B Victoria y B Yamagata) 
+-1 dosis anual 0,5 ml 
+ 
+En niños < 9 años que no han sido previamente vacunados, debe 
+administrarse una segunda dosis tras un intervalo mínimo de 4 
+semanas. 
+FLUARIX TETRA 
+/0,5ml 
+(GLAXOSMITHKLINE 
+BIOLOGICALS, S.A.) 
+≥ 6 
+meses  
+TETRAVALENTE inactivada (cepas A/H1N1, 
+A/H3N2, B Victoria y B Yamagata) 
+-1 dosis anual 0,5 ml 
+ 
+En niños < 9 años que no han sido previamente vacunados, debe 
+administrarse una segunda dosis tras un intervalo mínimo de 4 
+semanas. 
+FLUENZ 
+TETRA** 
+/0,2ml 
+(ASTRAZENECA AB)  
+(NO 
+COMERCIALIZADO 
+EN ESTE 
+MOMENTO) 
+2 a 18 
+años 
+TETRAVALENTE ATENUADA (cepas 
+A/H1N1, A/H3N2, B Victoria y B Yamagata) 
+-1 dosis anual 0,2 ml (0,1 ml en cada fosa nasal) 
+ 
+Para niños que no han sido vacunados antes contra la gripe 
+estacional, debe administrarse una segunda dosis tras un 
+intervalo mínimo de 4 semanas. 
+INFLUVAC 
+TETRA (BGP 
+PRODUCTS 
+OPERATIONS S.L.) 
+18 años 
+TETRAVALENTE inactivada (cepas A/H1N1, 
+A/H3N2, B Victoria y B Yamagata) 
+-1 dosis anual 0,5 ml 
+En los niños menores de 9 años de edad que no hayan sido 
+previamente vacunados, debe administrarse una segunda dosis 
+de 0,5 ml después de un intervalo de al menos 4 semanas. 
+*Administración intradérmica; ** Administración intranasal 
+ 
+ 
+
+Vacunación en población adulta 
+29 
+ 
+VACUNAS FRENTE A SARAMPIÓN, RUBEOLA Y PAROTIDITIS 
+Nombre de la 
+vacuna 
+(Laboratorio 
+titular) 
+Indicación 
+en FT 
+Composición 
+Pautas posibles (en FT) 
+Observaciones 
+PRIORIX/ 
+0.5 ml 
+(GLAXOSMITHK
+LINE 
+BIOLOGICALS, 
+S.A.) 
+A partir de 
+los 9 
+meses 
+ -Virus vivos atenuados del 
+sarampión1 (cepa Schwarz) no 
+menos de 103,0 CCID50
+3  
+-Virus vivos atenuados de la 
+parotiditis1 (cepa RIT 4385, 
+derivada de la cepa Jeryl Lynn)  
+no menos de 103,7 CCID50
+3  
+-Virus vivos atenuados de la 
+rubeola2 (cepa Wistar RA 27/3) no 
+menos de 103,0 CCID50
+3  
+1 producido en células de embrión 
+de pollo  
+2 producido en células diploides 
+humanas (MRC-5)  
+3 dosis que infecta el 50% de los 
+cultivos celulares 
+Niños entre 9 y 12 meses  
+-Primera dosis entre los 9-
+12 meses 
+-Segunda dosis en el 
+segundo año de vida, 
+preferiblemente dentro de 
+los tres meses siguientes a 
+la administración de la 
+primera dosis.  
+A partir de 12 meses  
+-Se debe a administrar una 
+segunda dosis de acuerdo 
+con las recomendaciones 
+oficiales. 
+Esta vacuna está CONTRAINDICADA en: 
+-Embarazo. Además se debe evitar un embarazo durante 1 mes 
+después de la vacunación. 
+-Inmunodeficiencia humoral o celular grave (primaria o 
+adquirida), p.ej., inmunodeficiencia grave combinada, 
+agammaglobulinemia y SIDA o infección por VIH sintomática, o 
+con un porcentaje de linfocitos T CD4+ específicos de cada 
+edad en niños menores de 12 meses: CD4+ < 25%; niños entre 
+12-35 meses: CD4+ < 20%; niños entre 36-59 meses: CD4+ < 
+15%. 
+M-M-
+RVAXPRO 
+/0,5 ml (MSD 
+VACCINS) 
+A partir de 
+los 12 
+meses de 
+edad  
+Desde 9 
+meses de 
+edad en 
+circunstan
+cias 
+especiales 
+-Virus del sarampión1 cepa Enders’ 
+Edmonston (vivos, atenuados); no 
+menos de 1x103 CCID50* 
+- Virus de la parotiditis1 cepa Jeryl 
+Lynn [Nivel B] (vivos, atenuados) no 
+menos de 12,5x103 CCID50* 
+-Virus de la rubeola2 cepa Wistar RA 
+27/3 (vivos, atenuados) no menos 
+de 1x103 CCID50* 
+* Dosis que infecta al 50% de los 
+cultivos celulares. 
+1 Producidos en células de embrión 
+de pollo. 
+2 Producidos en fibroblastos 
+pulmonares diploides humanos 
+(WI-38). 
+Niños entre 9 y 12 meses 
+de edad:  
+-Primera dosis entre los 9-
+12 meses 
+-Segunda dosis entre los 12 
+y 15 meses  
+12 meses de edad o 
+mayores:  
+-Puede administrarse una 
+segunda dosis al menos 4 
+semanas después de la 
+primera dosis 
+Esta vacuna está CONTRAINDICADA en: 
+-Embarazo. Además se debe evitar un embarazo durante 1 mes 
+después de la vacunación. 
+-Tuberculosis activa no tratada. 
+- Discrasias sanguíneas, leucemia, linfomas de cualquier tipo, u 
+otras neoplasias malignas que afecten a los sistemas 
+hematopoyético y linfático. 
+-Terapia inmunosupresora en curso (incluyendo altas dosis de 
+corticoides). 
+-Inmunodeficiencia humoral o celular grave (primaria o 
+adquirida), por ejemplo inmunodeficiencia grave combinada, 
+agammaglobulinemia y SIDA, o infección por VIH sintomática, o 
+con un porcentaje de linfocitos T-CD4+ específicos de cada 
+edad en niños menores de 12 meses: <25%; niños entre 12-35 
+meses: CD4+ < 20%; niños entre 36-59 meses: CD4+ <15% 
+ 
+ 
+VACUNAS FRENTE A VARICELA 
+ 
+Nombre de la 
+vacuna 
+(Laboratorio 
+titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT) 
+Observaciones 
+VARILRIX 
+/0,5ml 
+(GLAXOSMITH
+KLINE, S.A.) 
+A partir de los 12 
+meses de edad  
+Desde 9 meses de 
+edad en 
+circunstancias 
+especiales. 
+ 
+En pacientes de 
+riesgo y sus 
+contactos próximos 
+sanos. (información 
+detallada para estos 
+en grupos en ficha 
+técnica) 
+Virus vivos atenuados de la 
+varicela-zóster (cepa Oka)1 
+no menos de 103,3 UFP2 
+  
+1Producidos en células 
+diploides humanas (MRC-5) 
+2UFP = Unidades 
+Formadoras de Placa 
+ 
+Niños entre 12 meses y 12 años de edad  
+Dos dosis.  La segunda dosis se debe 
+administrar preferiblemente al menos 6 
+semanas después de la primera dosis. El 
+intervalo entre dosis no debe ser inferior a 4 
+semanas bajo ninguna circunstancia.  
+Adolescentes a partir de los 13 años de edad 
+y adultos  
+Dos dosis .La segunda dosis se debe 
+administrar preferiblemente al menos 6 
+semanas después de la primera dosis. El 
+intervalo entre dosis no debe ser inferior a 4 
+semanas bajo ninguna circunstancia. 
+Esta vacuna está CONTRAINDICADA en: 
+-Embarazo y Lactancia. Además, se debe 
+evitar el embarazo durante 1 mes después 
+de la vacunación. 
+- No debe administrarse a personas con 
+inmunodeficiencia humoral o celular grave 
+(primaria o adquirida), p.ej., 
+inmunodeficiencia grave combinada, 
+agammaglobulinemia y SIDA o infección 
+por VIH sintomática, o con un porcentaje 
+de linfocitos T CD4+ específicos de cada 
+edad en niños menores de 12 meses: CD4+ 
+<25%; niños entre 12-35 meses: CD4+ < 
+20%; niños entre 36-59 meses: CD4+ <15%. 
+VARIVAX/0
+,5ml  (MSD 
+VACCINS) 
+A partir de 12 meses 
+de edad. Desde 9 
+meses de edad en 
+circunstancias 
+especiales. 
+ 
+En individuos 
+susceptibles que han 
+estado expuestos a 
+varicela.  
+ Virus de la varicela** (cepa 
+Oka/Merck) (vivos, 
+atenuados) >1.350 UFP***  
+ 
+** Producidos en células 
+diploides humanas (MRC-5).  
+*** UFP = Unidades 
+Formadoras de Placa 
+Individuos entre 9 y 12 meses de edad  
+-En los casos en los que la vacunación se 
+inicia entre los 9 y los 12 meses de edad es 
+necesaria una segunda dosis que debe ser 
+administrada después de un intervalo mínimo 
+de 3 meses  
+Individuos entre 12 meses y 12 
+años de edad al menos debe transcurrir un 
+mes entre la primera y la segunda dosis. 
+ 
+-Los individuos de edad comprendida entre 
+12 meses y 12 años con una infección 
+asintomática de VIH  con un porcentaje de 
+linfocitos T CD4+ específicos de cada edad > 
+25%, deben recibir dos dosis con un intervalo 
+de 12 semanas.  
+Individuos a partir de 13 años de edad y 
+mayores deben recibir dos dosis 
+administradas con un intervalo de 4-8 
+semanas.  
+Esta vacuna está CONTRAINDICADA en: 
+ 
+-Embarazo. Además, se debe evitar un 
+embarazo durante 1 mes después de la 
+vacunación 
+-Tuberculosis activa no tratada. 
+- Discrasias sanguíneas, leucemia, linfomas 
+de cualquier tipo, u otras neoplasias 
+malignas que afecten 
+al sistema hematopoyético y linfático. 
+-Terapia inmunosupresora en curso 
+(incluyendo altas dosis de corticoides)  
+-Inmunodeficiencia humoral o celular grave 
+(primaria o adquirida), por ejemplo 
+inmunodeficiencia grave combinada, 
+agammaglobulinemia y SIDA, o infección 
+por VIH sintomática o con un porcentaje 
+de linfocitos T-CD4+ específico de cada 
+edad en niños menores de 12 meses: 
+<25%; niños entre 12- 
+35 meses: CD4+ < 20%; niños entre 36-59 
+meses: CD4+ <15% 
+
+Vacunación en población adulta 
+30 
+VACUNAS FRENTE A SARAMPIÓN, RUBEOLA, PAROTIDITIS Y VARICELA 
+PRIORIX 
+TETRA/0,5
+ml  
+(GLAXOSMITHK
+LINE 
+BIOLOGICALS, 
+S.A.) 
+Desde los 
+11 meses 
+hasta los 
+12 años de 
+edad 
+inclusive.  
+Se puede 
+considerar 
+el uso en 
+niños de 9-
+10 meses 
+de edad en 
+circunstan
+cias 
+especiales 
+-Virus vivos atenuados del 
+sarampión1 (cepa Schwarz) no 
+menos de 103,0 CCID50 3  
+-Virus vivos atenuados de la 
+parotiditis1 (cepa RIT 4385, 
+derivada de la cepa Jeryl Lynn)  
+no menos de 104,4CCID50 3  
+-Virus vivos atenuados de la 
+rubeola2 (cepa Wistar RA 27/3) 
+ no menos de 103,0 CCID50
+3  
+-Virus de la varicela2 de la cepa 
+Oka (vivos, atenuados)no 
+menos de  103,3 UFP4  
+1 producido en células de 
+embrión de pollo  
+2 producido en células 
+diploides humanas (MRC-5)  
+3 dosis que infecta el 50% de 
+los cultivos celulares 
+4 unidades formadoras de 
+placa 
+Niños desde los 11 meses 
+hasta los 12 años  
+-El intervalo entre dosis 
+debe ser preferiblemente 
+entre 6 semanas y 3 meses. 
+Cuando se administre la 
+primera dosis a los 11 
+meses de edad, la segunda 
+dosis debe administrarse en 
+un plazo de 3 meses. Bajo 
+ninguna circunstancia el 
+intervalo entre dosis debe 
+ser inferior a 4 semanas. 
+Esta vacuna está CONTRAINDICADA en: 
+-Embarazo. Además se debe evitar un embarazo durante 1 mes 
+después de la vacunación. 
+-Inmunodeficiencia humoral o celular grave (primaria o adquirida), 
+p.ej., inmunodeficiencia grave combinada, agammaglobulinemia y 
+SIDA o infección por VIH sintomática, o con un porcentaje 
+determinado de linfocitos T CD4+ para cada edad: en niños menores 
+de 12 meses: CD4+ < 25%; niños entre 12-35 meses: CD4+ < 20%; 
+niños entre 36-59 meses: CD4+ < 15%  
+ 
+ 
+PROQUAD 
+/0,5ml (MSD 
+VACCINS) 
+A partir de 
+los 12 
+meses de 
+edad  
+Desde 9 
+meses de 
+edad en 
+circunstan
+cias 
+especiales 
+Virus del sarampión1 cepa 
+Enders’ Edmonston (vivos, 
+atenuados)  no menos de 3,00 
+log10 CCID50* 
+Virus de la parotiditis1 cepa 
+Jeryl Lynn (Nivel B) (vivos, 
+atenuados) ..no menos de 4,30 
+log10 CCID50* 
+Virus de la rubeola2 cepa 
+Wistar RA 27/3 (vivos, 
+atenuados) no menos de 3,00 
+log10 CCID50* 
+Virus de la varicela3 cepa 
+Oka/Merck (vivos, atenuados) 
+no menos de 3,99 log10 UFP** 
+* Dosis que infecta al 50% de 
+los cultivos celulares 
+** Unidades formadoras de 
+placa 
+(1) Producidos en células de 
+embrión de pollo. 
+(2) Producidos en fibroblastos 
+pulmonares diploides 
+humanos (WI-38). 
+(3) Producidos en células 
+diploides humanas (MRC-5). 
+Los niños a partir de los 12 
+meses y mayores 
+dos dosis o una dosis única 
+seguida de una segunda 
+dosis de una vacuna 
+monovalente de varicela 
+para asegurar una óptima 
+protección frente a varicela. 
+Es preferible que la segunda 
+dosis se administre durante 
+los tres meses posteriores a 
+la primera dosis. 
+Esta vacuna está CONTRAINDICADA en: 
+-Embarazo. Además, se debe evitar un embarazo durante 1 mes 
+después de la vacunación 
+-Tuberculosis activa no tratada. 
+- Discrasias sanguíneas, leucemia, linfomas de cualquier tipo, u otras 
+neoplasias malignas que afecten 
+al sistema hematopoyético y linfático. 
+-Terapia inmunosupresora en curso (incluyendo altas dosis de 
+corticoides)  
+-Inmunodeficiencia humoral o celular grave (primaria o adquirida), 
+por ejemplo inmunodeficiencia grave combinada, 
+agammaglobulinemia y SIDA, o infección por VIH sintomática o con 
+un porcentaje 
+de linfocitos T-CD4+ específico de cada edad en niños menores de 
+12 meses: <25%; niños entre 12- 
+35 meses: CD4+ < 20%; niños entre 36-59 meses: CD4+ <15% 
+ 
+ 
+ 
+
+Vacunación en población adulta 
+31 
+VACUNAS FRENTE A HERPES ZOSTER 
+Nombre de la vacuna 
+(Laboratorio titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT) 
+Observaciones 
+ZOSTAVAX/0,5ml 
+(MSD VACCINS) 
+A partir de 50 años 
+Virus varicela-zóster1, cepa 
+Oka/Merck (vivos, atenuados) > 
+19.400 UFP2 
+1 Producidos en células diploides 
+humanas (MRC-5) 
+2 UFP = Unidades formadoras de placa 
+Los individuos deben recibir una 
+dosis única 
+Esta vacuna está 
+CONTRAINDICADA en: 
+-Estados de inmunodeficiencia 
+primaria o adquirida debidos a 
+afecciones tales como: leucemias 
+agudas y crónicas; linfoma; otras 
+enfermedades que afectan a la 
+médula ósea o al sistema 
+linfático; inmunosupresión debida a 
+VIH/SIDA  
+-deficiencias de la inmunidad 
+celular. 
+- Terapia inmunosupresora 
+(incluyendo altas dosis de 
+corticoides)  
+-Tuberculosis activa no tratada. 
+- Embarazo. Además, se debe evitar 
+un embarazo durante 1 mes 
+postvacunación 
+SHINGRIX /0,5ml 
+(GLAXOSMITHKLINE) 
+ (NO HA SIDO 
+TODAVIA 
+COMERCIALIZADO) 
+Shingrix está 
+indicada para la 
+prevención del 
+herpes zóster (HZ) y 
+de la neuralgia 
+postherpética (NPH) 
+en adultos a partir 
+de los 50 años de 
+edad. 
+Glicoproteína E1,2 del virus de la 
+varicela zóster3 
+50 microgramos 
+ 
+1 adyuvada con AS01B que contiene: 
+-extracto 
+de 
+la 
+planta 
+Quillaja 
+saponaria Molina, fracción 21 (QS-21) 
+50 microgramos  
+-3-O-desacil-4’-monofosforil lípido A 
+(MPL) de Salmonella Minnesota 50 
+microgramos 
+2 glicoproteína E (gE) producida en 
+células de Ovario de Hámster Chino 
+(OHC) mediante tecnología del ADN 
+recombinante  
+3 virus de la varicela zóster = VVZ  
+ 
+0, 2 meses 
+ 
+- Si se requiere flexibilidad en el 
+esquema de vacunación, la segunda 
+dosis se puede administrar entre 2 
+y 6 meses después de la primera 
+dosis. 
+Actualmente se encuentran en 
+marcha ensayos clínicos en los que 
+participan sujetos con distintos 
+tipos de inmunodepresión. 
+ 
+ 
+
+Vacunación en población adulta 
+32 
+ 
+VACUNAS FRENTE A PAPILOMAVIRUS 
+Nombre de la 
+vacuna 
+(Laboratorio 
+titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT) 
+CERVARIX 
+(GLAXOSMITHK
+LINE 
+BIOLOGICALS, 
+S.A.) 
+A partir de los 9 años de 
+edad para la prevención de 
+lesiones ano-genitales 
+premalignas (cervicales, 
+vulvares, vaginales y anales) 
+y cáncer de cérvix y ano 
+causados por determinados 
+tipos oncogénicos del Virus 
+del Papiloma Humano (VPH) 
+-Proteína L1 del Virus del Papiloma 
+Humano1:  
+Tipo 162,3,4 20 µg  
+-Tipo 182,3,4 20 µg 
+ 
+1Virus del Papiloma Humano = VPH  
+2adyuvada con AS04 que contiene:  
+3-O-desacil-4’- monofosforil lípido A 
+(MPL)3 50 microgramos  
+3adsorbida en hidróxido de aluminio, 
+hidratado (Al(OH)3) en total 0,5 
+miligramos de Al3+  
+4La proteína L1 se presenta en forma 
+de partículas no infecciosas similares 
+al virus (VLPs) producidas por la 
+tecnología del ADN recombinante 
+mediante la utilización de un sistema 
+de expresión en Baculovirus que 
+utiliza células Hi-5 Rix4446 derivadas 
+de Trichoplusia ni. 
+De 9 a 14 años (inclusive) 
+Dos dosis, cada una de 0,5 ml. La segunda dosis se 
+administrará entre 5 y 13 meses después de la primera 
+dosis. Si la segunda dosis de la vacuna se administra 
+antes de que transcurran 5 meses desde la 
+administración de la primera dosis, se debe administrar 
+siempre una tercera dosis.  
+ 
+A partir de 15 
+Tres dosis, cada una de 0,5 ml, a los 0, 1, 6 meses. Si se 
+requiere flexibilidad en el esquema de vacunación, la 
+segunda dosis se puede administrar entre 1 mes y 2,5 
+meses después de la primera dosis y la tercera dosis 
+entre 5 y 12 meses después de la primera dosis. 
+GARDASIL 
+(MSD 
+VACCINS) 
+A partir de los 9 años de 
+edad para la prevención de: 
+- lesiones genitales 
+precancerosas (cervicales, 
+vulvares y vaginales), 
+lesiones anales 
+precancerosas, cáncer 
+cervical y cáncer anal 
+relacionados causalmente 
+con ciertos tipos 
+oncogénicos VPH; 
+- verrugas genitales 
+(condiloma acuminata) 
+relacionadas causalmente 
+con tipos específicos del 
+VPH. 
+Proteína L1 del Virus del Papiloma 
+Humano1:  
+Tipo 62,3 20 µg, 
+ Tipo 11 2,3 40 µg,  
+Tipo 162,3 40 µg , 
+Tipo 182,3 20  
+1 Virus del Papiloma Humano = VPH. 
+2 Proteína L1 en forma de partículas 
+similares al virus producidas en 
+células de levadura 
+(Saccharomyces cerevisiae CANADE 
+3C-5 (Cepa 1895)) por tecnología del 
+ADN recombinante. 
+3 Adsorbida en hidroxifosfato sulfato 
+de aluminio amorfo como adyuvante 
+(0,5 miligramos de Al). 
+9 a 13 años (inclusive)  
+Gardasil puede administrarse siguiendo una pauta de 
+dos dosis (0, 6 meses) o tres dosis (0, 2, 6 meses) 
+ 
+Individuos de 14 años en adelante 
+Gardasil debe administrarse según una pauta de 3 dosis 
+(0, 2, 6 meses). 
+GARDASIL 
+9 
+(MSD 
+VACCINS) 
+A partir de los 9 años de 
+edad 
+frente a las siguientes 
+enfermedades por VPH: 
+- Lesiones precancerosas y 
+canceres que afectan al 
+cuello de útero, vulva, 
+vagina y ano causados 
+por los tipos del VPH de la 
+vacuna. 
+- Verrugas genitales 
+(condiloma acuminata) 
+causados por tipos 
+específicos del VPH. 
+Proteína L1 del Virus del Papiloma 
+Humano1:  
+Tipo 62,3 30 µg, 
+ Tipo 11 2,3 40 µg, 
+ Tipo 162,3 60 µg , 
+Tipo 182,3 40 µg , 
+ Tipo 312,3 20 µg ,  
+Tipo 332,3 20 µg  
+Tipo 452,3 20 µg , 
+ Tipo 522,3 20 µg,  
+Tipo 582,3 20 µg 
+1 Virus del Papiloma Humano = VPH. 
+2 Proteína L1 en forma de partículas 
+similares al virus producidas en 
+células de levadura 
+(Saccharomyces cerevisiae CANADE 
+3C-5 (Cepa 1895)) por tecnología del 
+ADN recombinante. 
+3 Adsorbida en hidroxifosfato sulfato 
+de aluminio amorfo como adyuvante 
+(0,5 miligramos de Al). 
+Individuos de 9 a 14 años de edad (inclusive) en el 
+momento de la primera inyección. 
+Gardasil 9 puede administrarse siguiendo una pauta de 
+dos dosis. La segunda dosis 
+se debe administrar entre los 5 y 13 meses después de 
+la administración de la primera dosis. Si la 
+segunda dosis de la vacuna se administra antes de 5 
+meses después de la primera dosis, se debe 
+administrar siempre una tercera dosis. 
+ 
+Gardasil 9 puede administrarse siguiendo una pauta de 
+tres dosis (0, 2, 6 meses). La segunda dosis se 
+debe administrar al menos un mes después de la 
+primera dosis y la tercera dosis se debe administrar al 
+menos tres meses después de la segunda dosis. Las tres 
+dosis se deben administrar dentro del periodo 
+de 1 año. 
+Individuos de 15 años en adelante en el momento de 
+la primera inyección. 
+Gardasil 9 se debe administrar siguiendo una pauta de 
+tres dosis (0, 2, 6 meses). 
+ 
+ 
+ 
+
+Vacunación en población adulta 
+33 
+ VACUNAS FRENTE A NEUMOCOCO 
+Nombre de 
+la vacuna 
+(Laboratorio 
+Titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta inmunización primaria/ dosis de recuerdo) 
+PNEUMOV
+AX 23 
+(MSD ESPAÑA, 
+S.A.) 
+A partir de 2 años de edad en 
+adelante. 
+ 
+Polisacárido de 23 serotipos 
+neumocócicos: 1, 2, 3, 4, 5, 6B, 
+7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 
+15B, 17F, 18C, 19F, 19A, 20, 22F, 
+23F, 33F. 
+1 dosis 
+Puede ser necesaria la revacunación en niños ≥ 10 años y 
+adultos con riesgo aumentado de infección neumocócica 
+grave a los 5 años o a los 3 años en poblaciones 
+especificas (p.e. asplénicos). 
+En niños entre 2 y 10 años se debe considerar la 
+revacunación después de 3 años si tienen alto riesgo de 
+infección neumocócica (p.e., aquellos con síndrome 
+nefrótico, asplenia o enfermedad de células falciformes). 
+ 
+PREVENAR 
+13 
+(PFIZER 
+LIMITED) 
+6 semanas-17 años: 
+prevención enfermedad 
+invasiva, neumonía y otitis 
+media aguda 
+ 
+≥ 18 años y personas 
+mayores: 
+ enfermedad invasiva, 
+neumonía  
+Conjugada de 13 serotipos: 
+Polisacárido del serotipo 
+neumocócico: 1, 3, 4, 5, 6A, 6B, 
+7F, 9V, 14, 18C, 19A,  19F, 23F. 
+* Conjugados con la proteína 
+transportadora CRM197 
+ 
+3 dosis +1:  
+Primera dosis se puede administrar a partir de 6 semanas 
+(lo habitual es que la primera dosis sea a los 2 meses), 2ª 
+dosis y 3ª dosis con un intervalo mínimo de 1 mes entre 
+dosis. 
+Dosis de recuerdo entre los 11 y los 15 meses de edad. 
+ 
+2 dosis +1: 2, 4 meses. 
+Dosis de recuerdo entre los 11 y los 15 meses de edad. 
+ 
+VACUNAS FRENTE A Haemophilus influenzae tipo b 
+Nombre de la 
+vacuna 
+(Laboratorio 
+titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta vacunación primaria/ dosis de recuerdo) 
+HIBERIX  
+(GLAXOSMITHKLINE 
+BIOLOGICALS, S.A.) 
+Niños a partir de 2 meses de 
+edad incluidos en algunos 
+de los siguientes grupos: 
+Niños con asplenia, anemia 
+falciforme o 
+inmunodeficientes. 
+Niños infectados con HIV 
+asintomáticos o 
+sintomáticos. 
+En aquellas situaciones que 
+determinen las Autoridades 
+Sanitarias correspondientes. 
+ 
+Vacuna conjugada: 
+Polisacárido 
+de 
+Haemophilus 
+influenzae tipo b (conjugado con 
+toxoide tetánico) 
+Primovacunación: 3 dosis 
+Separadas por un intervalo de 2 meses (entre 4-8 
+semanas) en los 6-7 primeros meses de vida. 
+Puede ser necesaria la administración de una dosis de 
+recuerdo en el segundo año de vida, (por ejemplo en 
+aquellos niños que no hayan completado la vacunación 
+primaria) 
+ 
+VACUNAS FRENTE A MENINGOCOCO C MONOVALENTES (VACUNAS CONJUGADAS) 
+Nombre de la 
+vacuna 
+(Laboratorio 
+titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta vacunación primaria/ dosis de recuerdo) 
+MENJUGATE 
+(GSK VACCINES 
+S.R.L.) 
+ 
+A partir de 2 meses de edad, 
+adolescentes, adultos 
+Oligosacárido meningococo grupo 
+C. 
+Conjugado a proteína CRM197 de 
+Corynebacterium diphtheriae  
+Vacunación primaria: 2 dosis 
+.-A partir de 2 meses-12 meses: 2 dosis con un intervalo 
+de al menos 2 meses entre dosis.  
+Vacunación primaria: 1 dosis 
+.- En mayores de 12 meses 
+ 
+Dosis de recuerdo: 1 dosis 
+En niños primovacunados entre 2-12 meses 
+No se ha establecido en primovacunados con 1 dosis 
+NEISVAC-C  
+(PFIZER, S.L.) 
+A partir de 2 meses de edad, 
+adolescentes, adultos 
+Poligosacárido meningococo 
+grupo C. 
+Conjugado con toxoide tetánico 
+Vacunación primaria: 2 dosis:  
+.-Entre  2 y 4 meses: 2 dosis con un intervalo de al menos 
+2 meses entre dosis 
+Vacunación primaria: 1 dosis:  
+.- En niños de 4 meses en adelante, adolescentes, adultos 
+ 
+Dosis de recuerdo: 1 dosis 
+.- En niños primovacunados entre 2-12 meses, 1 dosis a 
+los 12 – 13 meses de edad con, al menos, un intervalo de 
+6 meses después de la última vacunación 
+.- No se ha establecido en primovacunados a los 12 meses 
+o mayores 
+ 
+ 
+
+Vacunación en población adulta 
+34 
+VACUNAS TETRAVALENTES FRENTE A MENINGOCOCO A, C, W, Y (VACUNAS CONJUGADAS) 
+Nombre de la 
+vacuna 
+(Laboratorio 
+Titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta inmunización primaria/ dosis de recuerdo) 
+NIMENRIX 
+(PFIZER, S.L) 
+ 
+A partir de 6 semanas de edad, 
+adolescentes y adultos 
+Polisacárido meningocócico de 
+los serogrupos A, C, W, Y.  
+Cada uno conjugado con proteína 
+de toxoide tetánico. 
+Vacunación primaria: 2 dosis  
+.-A partir de 6 semanas-12 meses: 2 dosis con un 
+intervalo de al menos 2 meses entre dosis. 
+Vacunación primaria: 1 dosis:  
+.- En mayores de 12 meses 
+ 
+Dosis de recuerdo: 1 dosis 
+En niños primovacunados entre 6 y 12 semanas deberán 
+recibir una dosis de recuerdo a los 12 meses. 
+En niños mayores de 12 meses no se ha establecido la 
+necesidad de dosis de recuerdo. La necesidad y el 
+momento de una dosis de refuerzo en sujetos vacunados 
+se definirá de acuerdo con las recomendaciones de cada 
+país 
+MENVEO 
+(GSK VACCINES 
+S.R.L.) 
+ 
+A partir de los 2 años, 
+adolescentes y adultos:  
+Oligosacárido meningocócico de 
+los serogrupos A, C, W, Y.  
+Cada uno conjugado con proteína 
+CRM197 de Corynebacterium 
+diphtheriae 
+ 
+Vacunación primaria: 1 dosis única:  
+Niños (a partir de los 2 años), adolescentes y adultos 
+ 
+Dosis de recuerdo: 1 dosis 
+La necesidad y el momento de una dosis de refuerzo en 
+sujetos vacunados se definirá de acuerdo con las 
+recomendaciones de cada país. 
+ 
+VACUNAS FRENTE A MENINGOCOCO B  
+Nombre de 
+la vacuna 
+(Laboratorio 
+titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta vacunación primaria/ dosis de recuerdo) 
+BEXSERO  
+(GSK VACCINES 
+S.R.L.) 
+ 
+A partir de 2 meses de edad, 
+adolescentes, adultos 
+Proteínas recombinantes NHBA, 
+NadA, fHbp y vesícula de 
+membrana externa (OMV)  de la 
+cepa NZ98/254. 
+Vacunación primaria: 3 dosis + 1:  
+Lactantes de 2 a 5 meses. La primera dosis no debe 
+administrarse antes de los 2 meses de edad, con intervalo 
+de al menos 1 mes entre las dosis.  
+Una dosis  de recuerdo  entre los 12 y 15 meses de edad 
+con un intervalo de al menos 6 meses entre la 
+primovacunación y la dosis de recuerdo.  
+Vacunación primaria: 2 dosis + 1:  
+Lactantes de 3 a 5 meses. Dos dosis administradas con un 
+intervalo de no menos de 2 meses.  
+Una dosis de recuerdo  entre los 12 y 15 meses de edad 
+con un intervalo de al menos 6 meses entre la 
+primovacunación y la dosis de recuerdo. 
+Lactantes de 6 a 11 meses. Dos dosis administradas con 
+un intervalo de no menos de 2 meses.  
+Una dosis de recuerdo en el segundo año de vida con un 
+intervalo de al menos 2 meses entre la primovacunación 
+y la dosis de recuerdo 
+Niños de 12 a 23 meses de edad. Dos dosis administradas 
+con un intervalo de no menos de 2 meses.   
+Una dosis de recuerdo con un intervalo de 12 a 23 meses 
+entre la primovacunación y la dosis de recuerdo. 
+Vacunación primaria: 2 dosis 
+Niños de 2 a 10 años, adolescentes y adultos (no hay 
+datos en adultos mayores de 50 años) Dos dosis con un 
+intervalo de no menos de 1 mes. 
+TRUMENBA 
+(PFIZER, S.L) 
+A partir de 10 años de edad,  
+adolescentes, adultos 
+Proteína recombinante fHbp de la 
+subfamilia A y subfamilia B 
+Vacunación primaria: 2 dosis 
+Dos dosis administradas a intervalos de 6 meses. 
+Vacunación primaria: 3 dosis 
+2 dosis administradas con al menos 1 mes de intervalo, 
+seguidas de una 3ª dosis al menos 4 meses después de la 
+2ª dosis.  
+Dosis de recuerdo: Se debe valorar administrar una dosis 
+de recuerdo siguiendo cualquiera de los dos pautas 
+posológicas 
+en individuos con riesgo continuado de enfermedad 
+meningocócica invasiva 
+ 
+ 
+ 
+
+Vacunación en población adulta 
+35 
+VACUNAS COMBINADAS FRENTE A DIFTERIA, TÉTANOS 
+Nombre de la 
+vacuna 
+(Laboratorio 
+Titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta vacunación primaria/ dosis de 
+recuerdo) 
+diTeBooster 
+(AJ VACCINES A/S) 
+A partir de 5 años de edad. 
+Vacunación de recuerdo frente 
+a difteria y tétanos. 
+- Toxoide diftérico (baja carga) 
+- Toxoide tetánico (carga completa) 
+Una dosis única 
+DIFTAVAX 
+(SANOFI PASTEUR 
+EUROPE) 
+A partir de 7 años de edad en 
+adelante y en adultos. 
+Vacunación primaria y 
+vacunación de recuerdo frente 
+a difteria y tétanos. 
+Toxoide diftérico (baja carga) 
+- Toxoide tetánico (carga completa) 
+Vacunación primaria 3 dosis: 
+0, 1-2 meses, 6-12 meses 
+Vacunación recuerdo:  
+Una dosis única 
+DITANRIX 
+(GLAXOSMITHKLINE
+, S.A.) 
+A partir de 7 años de edad en 
+adelante y en adultos. 
+Vacunación primaria y 
+vacunación de recuerdo frente 
+a difteria y tétanos. 
+Toxoide diftérico (baja carga) 
+- Toxoide tetánico (carga completa) 
+Vacunación primaria 3 dosis: 
+0, 1-2 meses, 6-12 meses 
+Vacunación recuerdo:  
+Una dosis única 
+ 
+VACUNAS COMBINADAS FRENTE A DIFTERIA, TÉTANOS, TOSFERINA 
+Nombre de la 
+vacuna 
+(Laboratorio 
+titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta vacunación primaria/ dosis de 
+recuerdo) 
+BOOSTRIX 
+(dTpa) 
+(GLAXOSMITHKLI
+NE S.A) 
+A partir de 4 años de edad, 
+Vacunación de recuerdo frente 
+a difteria, tétanos y tosferina  
+- Toxoide diftérico (baja carga) 
+- Toxoide tetánico (carga completa) 
+- Antígenos de Bordetella pertussis (baja 
+carga): Toxoide pertúsico, Hemaglutinina 
+filamentosa, Pertactina 
+Una única dosis  
+TRIAXIS 
+(dTpa) 
+(SANOFI PASTEUR 
+EUROPE) 
+A partir de 4 años de edad, 
+Vacunación de recuerdo frente 
+a difteria, tétanos y tos ferina. 
+- Toxoide diftérico (baja carga) 
+- Toxoide tetánico (carga completa) 
+- Antígenos de Bordetella pertussis (baja 
+carga): Toxoide pertussis, Hemaglutinina 
+filamentosa, Pertactina, Fimbrias tipos 2 y 3 
+Una única dosis  
+ 
+VACUNAS COMBINADAS FRENTE A DIFTERIA, TETANOS, TOSFERINA, POLIOMIELITIS 
+Nombre de 
+la vacuna 
+(Laboratorio 
+Titular) 
+Indicación en FT 
+Composición 
+Pautas posibles (en FT): 
+(Pauta vacunación primaria/ dosis de 
+recuerdo) 
+BOOSTRIX 
+POLIO (dTpa-
+IPV) 
+GLAXOSMITHK
+LINE S.A.) 
+A partir de 3 años de edad, 
+Vacunación de recuerdo frente 
+a difteria, tétanos, tosferina y 
+poliomielitis  
+- Toxoide diftérico (baja carga) 
+- Toxoide tetánico (carga completa) 
+- Antígenos de Bordetella pertussis (baja 
+carga): Toxoide pertúsico, Hemaglutinina 
+filamentosa, Pertactina  
+- Poliovirus (inactivados) tipos 1,2,3 
+Una única dosis  
+ 
+ 
+ 
+
+Vacunación en población adulta 
+36 
+Anexo 2. Calendario común de vacunación a lo largo de 
+toda la vida 
+ 
+ 
+ 
+    Los menores vacunados con pauta 3+1 recibirán dTpa.
+(b) Vacunar o completar vacunación en caso de no tener administradas 5 dosis durante la infancia y adolescencia 
+(c) Vacunar con dos dosis si susceptible
+(f) Según la vacuna utilizada puede ser necesaria la primovacunación con una dosis (4 meses) o dos dosis (2 y 4 meses de edad).
+(g) Se administrará 1 dosis en las personas no vacunadas después de los 10 años de edad.
+(h) Personas que refieran no haber pasado la enfermedad ni haber sido vacunadas con anterioridad. Pauta con 2 dosis.
+(i) Vacunar solo a las niñas con 2 dosis. 
+(j) Vacunar solo a las mujeres no vacunadas con anterioridad, con pauta de 3 dosis. 
+(k) Vacunación frente a neumococo a los 65 años de edad. 
+VPH(j)
+(e) En personas no vacunadas con anterioridad se administrarán 3 dosis con pauta 0, 1 y 6 meses 
+(a) Se administrará la vacuna combinada DTPa/VPI a los menores vacunados con pauta 2+1 cuando alcancen la edad de 6 años. 
+(d) Pauta 0, 2, 4, 11 meses. Se administrará la pauta 2, 4 y 11 meses siempre que se asegure una alta cobertura de cribado prenatal de la embarazada y la 
+vacunación de hijos/as de madres portadoras de AgHBs en las primeras 24 horas de vida junto con administración de inmunoglobulina HB.
+gripe 
+anual
+VN(k)
+Virus del Papiloma Humano
+VPH(i)
+Gripe
+Enfermedad neumocócica
+VNC1
+VNC2
+VNC3
+gripe
+*Se administrará una dosis de vacuna frente a tosferina en embarazadas entre las semanas 27 y 36 de gestación. En temporada de gripe se vacunará a embarazadas en 
+cualquier trimestre de gestación. 
+Td
+TV(c)
+Td(b)
+VVZ(h)
+Td(b)
+TV(c)
+VVZ(h)
+MenC(g)
+HB(e)
+Enfermedad meningocócica C
+MenC(f)
+MenC
+MenC
+Varicela
+VVZ
+VVZ
+VVZ(h)
+TV
+Hepatitis B(d)
+HB
+HB
+HB
+TV
+HB(d)
+Haemophilus influenzae b
+Hib
+Hib
+Hib
+Sarampión-Rubéola-Parotiditis
+Difteria-Tétanos-Pertussis
+DTPa
+DTPa
+DTPa
+DTPa(a)
+dTpa
+Td
+15 
+meses
+3-4 
+años
+ 6  
+años
+ 12 
+años
+ 14 
+años
+Poliomielitis
+VPI
+VPI
+VPI
+VPI(a)
+CONSEJO INTERTERRITORIAL DEL SISTEMA NACIONAL DE SALUD 
+CALENDARIO COMÚN DE VACUNACIÓN A LO LARGO DE TODA LA VIDA
+Calendario recomendado año 2018
+VACUNACIÓN
+Pre-
+natal*
+2 
+meses
+4 
+meses
+11 
+meses
+12 
+meses
+15-18 
+años
+EDAD
+19-64 
+años
+≥ 65 
+años
+0 
+meses

@@ -1,0 +1,1655 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vacunación en trabajadores sanitarios  
+ 
+Abril 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Consejo Interterritorial del Sistema Nacional de Salud Gobierno de España. Ministerio de Sanidad, Servicios Sociales e Igualdad
+
+2 
+ 
+ 
+ 
+
+3 
+ 
+Elaboración y revisión del documento 
+ 
+Elaboración del documento  
+Grupo de Trabajado Vacunación en trabajadores sanitarios: 
+• 
+Aurora Limia Sánchez y Silvia Rivera Ariza*. Área de Programas de Vacunación. Subdirección 
+General de Promoción de la Salud y Epidemiología. Dirección General de Salud Pública, Calidad 
+e Innovación. MSSSI.  
+*Asistencia Técnica TRAGSATEC. 
+• 
+José Antonio Navarro Alonso (Murcia)  
+• 
+Luis Urbiztondo Perdices (Cataluña) 
+ 
+Coordinación del trabajo: Aurora Limia Sánchez  
+ 
+Revisión y aprobación 
+Ponencia de Programa y Registro de Vacunaciones. Revisión 1 de febrero de 2017. Aprobación el día 8 
+de febrero de 2017. 
+ 
+Ponencia de Salud Laboral. Revisión 27 de febrero de 2017. Aprobación el día 5 de abril de 2017. 
+ 
+Comisión de Salud Pública 
+Aprobado el día 20 de abril de 2017. 
+ 
+Asociaciones de Profesionales:  
+- 
+Sociedad Española de Medicina de Familia y Comunitaria (SEMFyC) 
+- 
+Asociación Española de Pediatría (AEP) 
+- 
+Asociación Española de Pediatría de Atención Primaria (AEPap) 
+- 
+Sociedad Española de Pediatría Extrahospitalaria y Atención Primaria (SEPEAP) 
+- 
+Sociedad Española de Pediatría Social (SEPS) 
+- 
+Sociedad Española de Salud Pública y Administraciones Públicas (SESPAS) 
+- 
+Asociación Española de Vacunología (AEV) 
+- 
+Sociedad Española de Medicina y Seguridad del Trabajo (SEMST) 
+- 
+Asociación Nacional de Medicina del Trabajo en el Ámbito Sanitario (ANMTAS)  
+- 
+Asociación Española de Especialistas en Medicina del Trabajo (AEEMT) 
+- 
+Sociedad Española de Salud Laboral en la Administración Pública (SESLAP) 
+- 
+Sociedad Española de Ginecología y Obstetricia (SEGO) 
+- 
+Asociación de Enfermería Comunitaria (AEC) 
+- 
+Federación de Asociaciones de Matronas de España (FAME) 
+- 
+Federación de Asociaciones de Enfermería Comunitaria y Atención Primaria (FAECAP) 
+- 
+Consejo General de Colegios Oficiales de Farmacéuticos 
+- 
+Sociedad Española de Epidemiología (SEE) 
+- 
+Sociedad Española de Medicina Preventiva, Salud Pública e Higiene (SEMPSPH) 
+- 
+Sociedad Española de Infectología Pediátrica (SEIP) 
+ 
+Revisión 31 de marzo de 2017. Aprobación el día 20 de abril de 2017. 
+ 
+Referencia sugerida: 
+Grupo de trabajo de la Ponencia de Programa y Registro de Vacunaciones. Vacunación en trabajadores 
+sanitarios. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. 
+Ministerio de Sanidad, Servicios Sociales e Igualdad, 2017.  
+ 
+ 
+© MINISTERIO DE SANIDAD, SERVICIOS SOCIALES E IGUALDAD 
+Centro de Publicaciones 
+NIPO: 680-18-105-2 
+ 
+http://publicacionesoficiales.boe.es/ 
+ 
+Escudo de España
+
+4 
+ 
+ 
+Índice 
+Elaboración y revisión del documento .......................................................................................... 3 
+Índice ............................................................................................................................................. 4 
+Acrónimos utilizados ..................................................................................................................... 5 
+Resumen ejecutivo ........................................................................................................................ 6 
+Executive summary ....................................................................................................................... 6 
+1. 
+Introducción .......................................................................................................................... 8 
+2. 
+Definición de personal sanitario y marco legal de la vacunación ......................................... 8 
+3. 
+Justificación y objetivos de la vacunación del personal sanitario ....................................... 11 
+4. 
+Vacunación del personal sanitario ...................................................................................... 11 
+4.1. 
+Vacunas recomendadas a todo el personal sanitario ................................................. 13 
+4.1.1. 
+Vacunación frente a sarampión, rubeola y parotiditis (triple vírica) .................. 13 
+4.1.2. 
+Vacunación frente a tétanos y difteria ................................................................ 15 
+4.1.3. 
+Vacunación frente a hepatitis B (VHB) ................................................................ 17 
+4.1.4. 
+Vacunación frente a varicela ............................................................................... 20 
+4.1.5. 
+Vacunación frente a la gripe ............................................................................... 22 
+4.2. 
+Vacunas indicadas en ciertas situaciones ................................................................... 23 
+4.2.1. 
+Vacunación frente a poliomielitis ........................................................................ 23 
+4.2.2. 
+Vacunación frente a enfermedad meningocócica invasora ................................ 24 
+4.2.3. 
+Vacunación frente a tosferina ............................................................................. 25 
+4.2.4. 
+Vacunación frente a hepatitis A (VHA) ................................................................ 25 
+4.2.5. 
+Vacunación frente a fiebre tifoidea .................................................................... 25 
+5. 
+Estrategias para mejorar las coberturas de vacunación en trabajadores sanitarios. ......... 27 
+6. 
+Registro de vacunaciones .................................................................................................... 27 
+7. 
+Anexos ................................................................................................................................. 28 
+Anexo 1: Medidas de control de infecciones relacionadas con la asistencia sanitaria........... 28 
+8. 
+Bibliografía .......................................................................................................................... 29 
+
+5 
+ 
+Acrónimos utilizados 
+antiHBs: Anticuerpos frente al antígeno de superficie del virus de la hepatitis B 
+CCAA: Comunidades autónomas 
+CDC: Centros de Prevención y Control de Enfermedades (Centers for Disease Control and Prevention) 
+CE: Comisión Europea 
+CISNS: Consejo Interterritorial del Sistema Nacional de Salud  
+CNAE-2009: Clasificación Nacional de Actividades Económicas 2009  
+CNE: Centro Nacional de Epidemiología 
+CNO-2011: Clasificación Nacional de Ocupaciones 2011 
+CSP: Comisión de Salud Pública  
+DGSPCI: Dirección General de Salud Pública, Calidad e Innovación 
+DTPa: Vacuna frente a difteria, tétanos, tosferina acelular 
+dTpa: Vacuna frente a difteria, tétanos, tosferina acelular, de contenido antigénico reducido 
+EMI: Enfermedad meningocócica invasora 
+ENI: Enfermedad neumocócica invasora 
+EPI: Equipo de protección individual 
+HCP: Health-Care Personnel  
+Ig: Inmunoglobulinas 
+IgHB: Inmunoglobulina frente a la hepatitis B 
+IgT: Inmunoglobulina antitetánica 
+IM: Intramuscular 
+ISCIII: Instituto de Salud Carlos III  
+MenACWY: Vacuna frente a N. meningitidis de serogrupos A, C, W e Y 
+MenB: Vacuna frente a N. meningitidis de serogrupo B 
+MenC: Vacuna frente a N. meningitidis de serogrupo C 
+MSSSI: Ministerio de Sanidad, Servicios Sociales e Igualdad 
+OMS: Organización Mundial de la Salud  
+PPE: Profilaxis posexposición 
+PV: Poliovirus 
+TV: Vacuna triple vírica 
+Td: Vacuna frente a tétanos y difteria 
+VHA: Virus de la hepatitis A 
+VHB: Virus de la hepatitis B 
+VNC13: Vacuna frente a neumococo conjugada de 13 serotipos 
+VNP23: Vacuna frente a neumococo polisacárida de 23 serotipos 
+VO: Vía oral 
+VPI: Vacuna inactivada frente a poliomielitis  
+VVZ: Virus de la varicela zóster 
+ 
+ 
+ 
+
+6 
+ 
+Resumen ejecutivo 
+Las personas que trabajan en el ámbito sanitario están más expuestas a enfermedades 
+inmunoprevenibles y pueden transmitirlas a las personas vulnerables con las que contactan. En 
+la denominación de trabajadores sanitarios o personal sanitario se engloba a los profesionales 
+sanitarios, es decir, aquellas personas cuyo trabajo, remunerado o no, se realiza en el ámbito 
+de la atención sanitaria en contacto directo con los pacientes o con material potencialmente 
+infeccioso, así como a todos los demás trabajadores de centros sanitarios que aunque con 
+menor contacto con los pacientes, están potencialmente expuestos a los mismos agentes 
+infecciosos, independientemente de la relación administrativa de cada uno de ellos con el 
+centro sanitario. 
+Las vacunas que se recomiendan en el personal sanitario se pueden clasificar en dos 
+categorías:  
+a) Vacunas recomendadas a todo el personal sanitario: vacunas frente a sarampión, 
+rubeola y parotiditis (triple vírica), tétanos y difteria, hepatitis B, varicela y gripe. 
+b) Vacunas indicadas en ciertas situaciones: vacunas frente a la poliomielitis, 
+enfermedad meningocócica invasora, tosferina, hepatitis A y fiebre tifoidea. 
+Las indicaciones de vacunación en los trabajadores sanitarios deben realizarse de manera 
+individualizada en función de las características personales, de la actividad laboral y de los 
+riesgos a los que estén expuestos. Los servicios sanitarios de los servicios de prevención del 
+centro sanitario deben realizar la valoración y la vacunación del personal sanitario al inicio de 
+su actividad y revisarla periódicamente. Algunos colectivos que deben incluirse también son 
+los estudiantes, el personal en formación y los voluntarios sociales.  
+Además de vacunar, es fundamental registrar adecuadamente la vacunación realizada. Es 
+necesario conocer mejor la vacunación que se realiza en el entorno sanitario. 
+Este documento recoge las recomendaciones de vacunación en los trabajadores sanitarios y 
+propone aspectos para reforzar una actitud positiva de los profesionales sanitarios hacia la 
+vacunación.  
+ 
+Executive summary 
+Immunization of Health-Care Personnel 
+Health-Care Personnel (HCP) are more exposed to vaccine-preventable diseases and could be 
+the source of infection for vulnerable people. HCP are defined as all paid and unpaid persons 
+working in health care settings who have the potential for exposure to patients and/or to 
+infectious material. HCP also include workers not directly involved in patient care but 
+potentially exposed to infections agent that ca n be transmitted to and from HCP and patients. 
+The recommended vaccines for HCP can be classified into two categories: 
+A) Vaccines recommended for all HCP: vaccines against measles, rubella and mumps, 
+tetanus and diphtheria, hepatitis B, varicella and influenza. 
+B) Vaccines indicated in certain situations: vaccines against polio, invasive 
+meningococcal disease, pertussis, hepatitis A and typhoid fever. 
+Immunization programs for HCP should be individualized according to their personal 
+characteristics, work activity and risk of exposure. Occupational Health Services in health care 
+centers will carry out the evaluation and vaccination of HCP at the beginning of their activity 
+and review it periodically. Some groups to include are also students, staff in training and 
+volunteers. 
+
+7 
+ 
+In addition to immunization, it is essential to properly record the administered vaccines. 
+Improvement of the information on the vaccination activities in health-care environment is of 
+great importance. 
+This document gathers the recommendations of immunization in HCP and proposes strategies 
+to reinforce a positive attitude to immunization in this population.  
+ 
+ 
+
+8 
+ 
+1. Introducción 
+Las personas que trabajan en centros sanitarios tienen un alto riesgo de adquirir infecciones 
+prevenibles mediante vacunación y, a su vez, son una fuente de transmisión de estas 
+infecciones a los pacientes a los que atienden y a sus propios contactos. 
+Las vías de transmisión de enfermedades inmunoprevenibles pueden ser:  
+• 
+Por inhalación y por gotas respiratorias (sarampión, rubeola, parotiditis, gripe, varicela, 
+tosferina, enfermedad meningocócica).  
+• 
+Vía fecal-oral (hepatitis A, poliovirus). 
+• 
+Vía parenteral o por contacto de mucosas con sangre o fluidos corporales (hepatitis B). 
+Los programas de vacunación dirigidos a este colectivo deben ser una parte esencial de las 
+estrategias de salud laboral en los centros sanitarios, ya que la vacunación se considera la 
+medida más efectiva y eficiente para prevenir ciertas enfermedades infecciosas. 
+Los servicios sanitarios de los servicios de prevención son los encargados de la captación y la 
+vacunación del personal sanitario, debiendo además registrar adecuadamente las vacunas 
+administradas.  
+En este documento se describen las vacunas recomendadas en el personal sanitario, además 
+de indicar unas recomendaciones para reforzar una actitud positiva de los profesionales 
+sanitarios a la vacunación. 
+ 
+2. Definición de personal sanitario y marco legal de la 
+vacunación  
+Los profesionales sanitarios son personas cuyo trabajo, remunerado o no, se desarrolla en el 
+campo de la atención sanitaria (pública o privada), en contacto directo con pacientes o con 
+sangre, tejidos o fluidos corporales, aparatos, equipos y superficies posiblemente 
+contaminadas1,2. Dentro de esta definición se incluyen médicos, personal de enfermería, 
+auxiliares de enfermería, celadores, fisioterapeutas, terapeutas ocupacionales, personal 
+técnico, personal de servicios dentales, farmacéuticos, personal de laboratorio, personal a 
+cargo de las autopsias, estudiantes y personal en capacitación y otro personal contratado por 
+el centro sanitario. 
+Dentro del ámbito de los trabajadores sanitarios o personal sanitario se incluye, además de 
+los profesionales sanitarios, a todos los trabajadores de centros sanitarios que no se 
+encuentran expuestos de manera directa a los pacientes pero que sí lo están a agentes 
+infecciosos que pueden transmitirse desde y hacia los trabajadores de la salud y los pacientes, 
+como pueden ser los gerentes y el personal de oficina, servicio de cocina, limpieza, lavandería, 
+seguridad, mantenimiento, personal administrativo y personal voluntario.  
+El riesgo individual del trabajador sanitario se valorará en función del mecanismo de 
+transmisión y se categorizará según el nivel de riesgo que conlleve, además de incluir el uso de 
+equipos de protección individual (EPI) específicos. 
+El trabajo en el sector sanitario se clasifica según el Real Decreto 475/2007, de 13 de abril, por 
+el que se aprueba la Clasificación Nacional de Actividades Económicas 2009 (CNAE-2009) (tabla 
+1) y según el Real Decreto 1591/2010, de 26 de noviembre de 2010 donde se aprueba la 
+Clasificación Nacional de Ocupaciones 2011 (CNO-2011) en el (tabla 2)3:  
+ 
+ 
+
+9 
+ 
+ 
+Tabla 1: Clasificación Nacional de Actividades Económicas 2009 (CNAE-2009). 
+     
+Fuente: Real Decreto 475/2007, de 13 de abril, por el que se aprueba la Clasificación Nacional de Actividades 
+Económicas 2009 (CNAE 2009).  
+ 
+Tabla 2: Clasificación Nacional de Ocupaciones 2011 (CNO-2011).  
+ 
+Fuente: Asociación Nacional de Medicina del Trabajo en el Ámbito Sanitario (ANMTAS). Guía de criterios de aptitud 
+para trabajadores del ámbito sanitario. Escuela Nacional de Medicina del Trabajo. Instituto de Salud Carlos III. 
+Ministerio de Economía y Competitividad.  
+
+10 
+ 
+ 
+A continuación, se menciona el marco legal que hace referencia a la vacunación y la legislación 
+en materia de salud laboral ,4,5:  
+El artículo 43 de la Constitución Española de 1978 establece el derecho a la protección de la 
+salud. En concreto, el artículo 43.2 manifiesta que compete a los poderes públicos organizar y 
+tutelar la salud pública a través de medidas preventivas.  
+La Ley 14/1986, de 25 de abril, General de Sanidad, en su artículo 3.1, consagra como 
+principio general del sistema, la promoción de la salud y la prevención de las enfermedades. 
+La Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, en su 
+artículo 11 recoge las prestaciones de salud pública y, entre ellas, la prevención de las 
+enfermedades por parte de la Administración sanitaria competente. 
+La Ley Orgánica 3/1986, de 14 de abril, de medidas especiales en materia de salud pública, 
+establece las medidas a adoptar en situaciones de urgencia o necesidad para la salud pública.  
+La Ley 33/2011, de 4 de octubre, General de Salud Pública. Con esta Ley, el derecho a la 
+protección a la salud de los ciudadanos que consagra el citado artículo 43 de la Constitución 
+Española avanza en su doble vertiente, tanto asistencial como preventiva.  
+La Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales, establece las 
+obligaciones de la empresa para garantizar la salud y seguridad de los trabajadores en relación 
+con los riesgos derivados del trabajo. 
+Real Decreto 664/1997, de 12 de mayo sobre la protección de los trabajadores contra los 
+riesgos relacionados con la exposición a agentes biológicos durante el trabajo, establece las 
+bases sobre la protección de los trabajadores contra los riesgos relacionados con la exposición 
+a agentes biológicos durante el trabajo y las medidas que deben adoptarse para la reducción 
+de los riesgos. 
+Real Decreto 592/2014, de 11 de julio, por el que se regulan las prácticas académicas 
+externas de los estudiantes universitarios6, que se acogerán a las leyes de los trabajadores 
+sanitarios durante la realización de las prácticas en centro sanitarios. 
+Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios 
+de Prevención. 
+Orden ESS/1451/2013, de 29 de julio, por la que se establecen disposiciones para la 
+prevención de lesiones causadas por instrumentos cortantes y punzantes en el sector 
+sanitario y hospitalario. 
+ 
+ 
+
+11 
+ 
+3. Justificación y objetivos de la vacunación del personal 
+sanitario  
+Los trabajadores del ámbito sanitario están más expuestos y tienen mayor riesgo de contraer 
+enfermedades prevenibles por vacunación. La necesidad de evitar la propagación de 
+determinadas enfermedades, bien sea por la posibilidad de afectar a muchas personas 
+(centros de trabajo con alta concentración de individuos), porque pueden afectarse personas 
+especialmente vulnerables frente a estas enfermedades (tanto trabajadores de asistencia 
+sanitaria o social como pacientes con enfermedades o condiciones de riesgo), o porque 
+pueden comprometerse servicios esenciales para la comunidad (alto absentismo laboral en 
+situación de epidemia), hacen que los programas de vacunación dirigidos a los trabajadores 
+sanitarios sean parte esencial de las estrategias de salud laboral en los centros sanitarios7,8.  
+En España no se conocen bien las coberturas de vacunación en el personal sanitario. Las 
+comunidades autónomas (CCAA) notifican anualmente al Ministerio de Sanidad, Servicios 
+Sociales e Igualdad (MSSSI) las coberturas de vacunación alcanzadas frente a la gripe en sus 
+respectivos territorios, tanto en personas mayores como en profesionales sanitarios. La 
+información que se obtiene es desigual y variable, aunque globalmente indica una vacunación 
+por debajo de lo deseable.  
+Varios estudios han intentado investigar las razones de esta baja adherencia. Por ejemplo, solo 
+entre el 15% y el 25% de los profesionales sanitarios se vacuna anualmente frente a la gripe9, 
+cifra muy lejana al 75% que la Organización Mundial de la Salud (OMS) y la Comisión Europea 
+(CE)10 recomiendan en grupos de riesgo. El objetivo propuesto en 2016 por la Ponencia de 
+Programa y Registro de Vacunaciones y acordado por el Consejo Interterritorial del Sistema 
+Nacional de Salud (CISNS) es alcanzar una cobertura de vacunación frente a la gripe del 30% en 
+este colectivo en la temporada 2016-2017. El objetivo se irá aumentando para acercarse al 
+establecido por las organizaciones internacionales. 
+Algunos factores determinantes de las bajas coberturas de vacunación en los trabajadores 
+sanitarios son la baja percepción del riesgo en aquellos que trabajan en contacto con los 
+enfermos y su entorno, su escaso conocimiento en relación a los beneficios y la seguridad de la 
+vacunación, la pobre organización de las políticas de vacunación de adultos y la falta de 
+adopción de las medidas de prevención por la empresas 9,11,12.  
+Como se ha indicado anteriormente, además de administrar las vacunas es muy importante 
+que estas vacunas administradas queden correctamente registradas y que esta información 
+esté disponible en la historia clínico-laboral del trabajador.  
+A continuación figuran los objetivos de los programas de vacunación dirigidos al personal 
+sanitario7,14: 
+• 
+Proteger a los trabajadores del riesgo de contraer determinadas enfermedades 
+transmisibles y prevenibles mediante vacunación. 
+• 
+Evitar que los trabajadores puedan ser fuente de transmisión de determinadas 
+enfermedades a los pacientes que atienden, a otros trabajadores, a su propia familia y 
+a otros ciudadanos. 
+• 
+Evitar enfermedades infecciosas en trabajadores que estén inmunocomprometidos o 
+padezcan patologías crónicas (cardíacas, pulmonares, renales, etc.). 
+• 
+Disminuir 
+el 
+absentismo 
+laboral 
+como 
+consecuencia 
+de 
+enfermedades 
+inmunoprevenibles adquiridas en el centro de trabajo o fuera de él. 
+• 
+Mostrar profesionalismo y ejemplaridad ante la población. 
+
+12 
+ 
+4. Vacunación del personal sanitario 
+En general, los Servicios de Prevención o de Salud Laboral de los centros sanitarios son los 
+encargados de organizar y llevar a cabo la vacunación de los trabajadores sanitarios, en 
+coordinación con el programa de vigilancia y control de infecciones relacionadas con la 
+asistencia sanitaria. 
+Es importante la coordinación entre las empresas que se encargan de los servicios de 
+prevención, ya que en los centros sanitarios puede haber trabajadores cuyas revisiones se 
+realizan por diferentes empresas13. 
+Antes de indicar la vacunación, se deben valorar los siguientes aspectos14,15: 
+- 
+La susceptibilidad del trabajador a las diferentes enfermedades inmunoprevenibles, 
+que se establecerá en función de los antecedentes sobre el padecimiento de alguna de 
+ellas, de la edad, de la historia de vacunación y, en caso de considerarlo necesario, de 
+las pruebas serológicas. 
+- 
+El tipo de actividad profesional. Se informará a los trabajadores sobre los riesgos de 
+exposición a determinados agentes biológicos, así como de los riesgos y beneficios de 
+la vacunación recomendada. 
+- 
+La situación laboral, es decir, si el trabajador pertenece a la plantilla laboral del centro, 
+o se trata de un trabajador de nueva incorporación. En este último caso, es importante 
+conocer los antecedentes de enfermedad y su estado de vacunación previo. 
+- 
+La situación de salud de cada trabajador, especialmente en lo referente a 
+enfermedades crónicas o inmunodepresión. 
+Estas circunstancias individuales se revaluarán periódicamente, con objeto de adecuar las 
+actuaciones a las condiciones cambiantes de cada persona en el tiempo. 
+En la tabla 3 se muestran las vacunas recomendadas a todos los trabajadores sanitarios, a 
+aquellos cuya ocupación suponga un riesgo específico y otras en función de características 
+personales.  
+ 
+Tabla 3. Clasificación de las vacunas recomendadas para el personal sanitario en España. 
+Vacunas recomendadas a todo el personal 
+sanitario 
+Vacunas indicadas en ciertas situaciones  
+Sarampión, rubeola y parotiditis* 
+Tétanos y difteria (Td) 
+Hepatitis B 
+Varicela 
+Gripe 
+Poliomielitis 
+Enfermedad meningocócica invasora (EMI) 
+Tosferina 
+Hepatitis A 
+Fiebre tifoidea 
+* Vacuna triple vírica (TV).  
+ 
+ 
+
+13 
+ 
+4.1. 
+Vacunas recomendadas a todo el personal sanitario 
+4.1.1. Vacunación frente a sarampión, rubeola y parotiditis (triple vírica) 
+El sarampión es una enfermedad vírica aguda muy contagiosa y, en general, más grave en los 
+lactantes y en los adultos que en los niños. La rubeola puede presentar efectos teratogénicos 
+como consecuencia de la infección congénita. Tanto el sarampión como la rubeola son 
+enfermedades de gran importancia para la Salud Pública y que, debido a que se dispone de 
+vacunas seguras y efectivas, se pueden potencialmente erradicar. Desde la Organización 
+Mundial de la Salud (OMS) se ha fijado el año 2020 como meta mundial para lograr la 
+eliminación del sarampión y la rubeola en cinco regiones de la OMS16. En España, el Plan de 
+eliminación del sarampión y la rubeola17 establece las estrategias, las acciones y los objetivos 
+para conseguir y mantener la eliminación de ambas enfermedades. 
+La parotiditis se caracteriza por fiebre e inflamación de una o más de las glándulas salivares, 
+habitualmente de la parótida, siendo la orquitis la complicación más frecuente en varones 
+adultos. Se estima que la efectividad vacunal tras una pauta de dos dosis es del 88%, por lo 
+que anualmente se genera una pequeña bolsa de susceptibles que se va engrosando año a 
+año. Por ello, las altas coberturas de vacunación parecen no ser suficientes para prevenir 
+brotes18. Esta enfermedad no se encuentra dentro de los objetivos de eliminación de OMS.  
+Actualmente en España no se dispone de vacunas monovalentes, por lo que la vacunación se 
+realiza con la vacuna combinada frente a sarampión, rubeola y parotiditis (vacuna triple vírica-
+TV-). 
+Aunque el sarampión es una enfermedad actualmente poco frecuente en nuestro medio, se 
+considera que el riesgo de adquisición para el personal sanitario susceptible es hasta 13 veces 
+mayor que en la población general19. Además, el personal sanitario ha tenido un papel 
+relevante en la transmisión de brotes ocurridos en los últimos años en España20,21. En este 
+sentido, de los 26 brotes ocurridos en Cataluña en el período 2001-2013, con 797 casos en 
+total, el 72,5% de ellos fueron en trabajadores sanitarios (personal médico y de enfermería) y 
+el 22,5% otro personal relacionado con el ámbito sanitario22,23. También en Madrid, en un 
+brote registrado en 2006, un 60% de los casos eran adultos y un 15% de estos eran personal 
+sanitario24.  
+Según los datos de la RENAVE, en el año 2015 se notificaron 115 casos de sarampión y 29 de 
+rubeola (tasas de incidencia de 0,08 y 0,009 casos por 100.000 habitantes, respectivamente). 
+En los brotes ocurridos en 2014 y 2015 hubo profesionales sanitarios involucrados25,26,27.  
+En la encuesta de seroprevalencia realizada en España (año 1996) y en otras realizadas en las 
+CCAA en los años 2009, 2011 y 2013 (País Vasco, Madrid y Galicia), se muestra que la 
+seroprotección frente a sarampión en adultos es superior al 95% en los nacidos anteriormente 
+a 1980, y próximo al 99% en los nacidos anteriormente a 1971, excepto en País Vasco (97,7% 
+en los nacidos anteriormente a 1971)28,29,30,31. Con respecto a la rubeola, se observa una 
+seroprotección entre un 94,6% y un 97,7% en todos los grupos de edad adulta28,29,30,31. 
+En un estudio realizado en Cataluña entre junio de 2008 y diciembre de 2009, se observó que 
+la seroprotección frente a sarampión en personal sanitario era del 98% (IC 95% 96,6-98,9), 
+siendo más baja en los nacidos a partir de 1981 con respecto a los nacidos entre 1965 y 1980 
+(94,4% frente a 99%, respectivamente)32. 
+Necesidad de cribado y recomendaciones de vacunación 
+Sarampión 
+Se consideran inmunes al sarampión los trabajadores sanitarios con al menos una de las tres 
+condiciones siguientes, no siendo necesario en ellos, por tanto, realizar serología: 
+
+14 
+ 
+- 
+Documentación escrita de haber recibido dos dosis de vacuna triple vírica o de haber 
+padecido la enfermedad. 
+- 
+Nacidos con anterioridad a 1971. 
+- 
+Evidencia de inmunidad por el laboratorio. 
+Pauta de administración: los susceptibles recibirán dos dosis de vacuna triple vírica, 
+independientemente de su situación frente a rubeola y parotiditis, separadas por al menos 4 
+semanas. La recepción de la vacuna no está contraindicada en los previamente inmunes a 
+cualquiera de las tres enfermedades. Si hubieran recibido con anterioridad una dosis, se les 
+administrará una segunda siempre respetando el intervalo indicado anteriormente.  
+Las mujeres en edad fértil deben evitar el embarazo en el mes siguiente a la recepción de la 
+vacuna triple vírica. 
+No se precisa ninguna restricción laboral tras recibir la vacuna, ni la realización de marcadores 
+posvacunales. 
+Profilaxis posexposición (PPE): solamente existe PPE efectiva para sarampión en las primeras 
+72 horas tras la exposición. Tras vacunar al profesional susceptible y expuesto, se debe apartar 
+a este de la atención sanitaria directa (al menos hasta 21 días después de la última exposición 
+y, en caso de enfermar, hasta 5-7 días tras la aparición del exantema), y seguir las medidas de 
+control de la infección para evitar la transmisión por gotas (rubeola, parotiditis) o por vía aérea 
+(sarampión). 
+ 
+Rubeola 
+Se consideran inmunes a la rubeola los trabajadores sanitarios con al menos una de las dos 
+condiciones siguientes, no siendo necesario en ellos, por tanto, realizar serología: 
+- 
+Documentación escrita de haber recibido una dosis de vacuna frente a la rubeola o 
+vacuna triple vírica.  
+- 
+Evidencia de inmunidad por el laboratorio. 
+Pauta de administración: Una dosis de vacuna frente a la rubeola o triple vírica es suficiente 
+para disponer de una adecuada protección, pero como no existe la vacuna aislada y para 
+sarampión y parotiditis hacen falta dos dosis, en la práctica la vacunación se hará con dos dosis 
+de vacuna triple vírica, lo que, además, nos proporciona una salvaguarda adicional frente a los 
+infrecuentes casos de fallo vacunal primario. Las mujeres en edad fértil deben evitar el 
+embarazo en el mes siguiente a la recepción de la vacuna triple vírica. 
+No se precisa ninguna restricción laboral tras recibir la vacuna, ni la realización de marcadores 
+posvacunales. 
+Profilaxis posexposición: no recomendada. Ni la vacuna ni las inmunoglobulinas son efectivas 
+para este tipo de profilaxis. 
+ 
+Parotiditis 
+Se consideran inmunes a la parotiditis los trabajadores sanitarios con al menos una de las dos 
+condiciones siguientes, no siendo necesario en ellos, por tanto, realizar serología: 
+- 
+Documentación escrita de haber recibido dos dosis de vacuna triple vírica. En este 
+supuesto, y si por cualquier circunstancia se realizase una serología que resultara 
+negativa, no se recomienda la recepción de más dosis de vacuna. 
+
+15 
+ 
+- 
+Evidencia de inmunidad por el laboratorio. 
+Pauta de administración: en caso de susceptibilidad se administrarán dos dosis de vacuna 
+triple vírica, independientemente de su situación frente a sarampión y rubeola. Las mujeres en 
+edad fértil deben evitar el embarazo en el mes siguiente a la recepción de la vacuna triple 
+vírica. 
+No se precisa ninguna restricción laboral tras recibir la vacuna, ni la realización de marcadores 
+posvacunales. 
+Profilaxis posexposición: No recomendada. Ni la vacuna ni las inmunoglobulinas son efectivas 
+para este tipo de profilaxis. 
+ 
+4.1.2. Vacunación frente a tétanos y difteria 
+La vacunación sistemática frente a tétanos, difteria y tosferina comenzó en el año 1964. Se 
+recomienda administrar la vacuna frente a tétanos y difteria (Td) como dosis de recuerdo en 
+adolescentes y adultos desde 1995. Con anterioridad solo se administraba la vacunación de 
+recuerdo frente a tétanos.  
+En la encuesta de seroprevalencia realizada en España en 1996, se observó que en la población 
+de 20 a 30 años el nivel de seroprotección frente al tétanos se mantenía en niveles por encima 
+del 80%. A partir de los 30 años de edad la seroprotección estaba en torno al 55%. Con 
+respecto a la difteria, la seroprotección era menor a medida que aumentaba la edad, pasando 
+de un 60% aproximadamente en los adultos jóvenes (20-30 años) a un 30% a partir de los 30 
+años. 
+La incidencia de tétanos en España se mantiene estable en los últimos años. En el año 2014 se 
+notificaron 6 casos, con una tasa de incidencia de 0,01 casos por 100.000 habitantes. Desde 
+1997 no se ha notificado ningún caso de tétanos neonatal. El último caso de difteria en España 
+se notificó en el año 2015 en un niño no vacunado, pero hasta entonces no había habido 
+ningún caso desde 1986. 
+ 
+Cribado prevacunación 
+No se recomienda el cribado prevacunación. Las personas que comiencen a trabajar en un 
+centro sanitario deben haber recibido al menos 5 dosis de vacuna frente a tétanos y difteria 
+con anterioridad.  
+ 
+Vacunación frente a tétanos y difteria 
+Indicación: todo el personal sanitario sin evidencia de haber recibido al menos 5 dosis frente a 
+tétanos y difteria. Se recomienda la administración de una única dosis de recuerdo en torno a 
+los 65 años33. 
+La pauta de administración se establecerá en función del historial de vacunación: 
+• 
+No vacunados: se administrará una 1ª dosis con Td tan pronto como sea posible, la 2ª 
+dosis al menos 4 semanas tras la primera y la 3ª dosis al menos 6 meses tras la 
+segunda.  
+• 
+Primovacunación incompleta: En ningún caso se debe reiniciar la pauta de 
+vacunación. Se contabilizará cualquier dosis administrada previamente siempre que se 
+hayan respetado los intervalos mínimos entre dosis. Se completará la pauta de 
+primovacunación hasta las 3 dosis. Los intervalos mínimos considerados son los 
+
+16 
+ 
+mismos que en la pauta recomendada para adultos no vacunados. No se consideran 
+intervalos máximos. 
+• 
+Dosis de recuerdo:  
+- 
+Vacunados en la infancia correctamente según calendario vigente: se recomienda la 
+administración de una única dosis de recuerdo en torno a los 65 años. 
+- 
+Vacunados en la infancia de forma incompleta: se administrarán las dosis de recuerdo 
+necesarias hasta alcanzar un total de 5 dosis (incluyendo la primovacunación con 3 
+dosis). 
+- 
+Primovacunados en la edad adulta: en personas primovacunadas en la edad adulta con 
+3 dosis, se administrarán dos dosis de recuerdo con un intervalo de entre 1 y 10 años 
+entre dosis hasta completar un total de 5 dosis. En cuanto al intervalo mínimo entre 
+dosis en las dosis de recuerdo, el primer recuerdo (o cuarta dosis) se administrará al 
+menos 12 meses después de la tercera dosis de primovacunación y el segundo 
+recuerdo (o quinta dosis) se administrará al menos 12 meses después del primer 
+recuerdo.  
+ 
+Profilaxis posexposición en caso de heridas: la pauta a seguir varía según el tipo de herida y el 
+estado o antecedente de vacunación del paciente. Si se han administrados las vacunas 
+correspondientes a su edad, se considera vacunado (tabla 4). 
+Tabla 4. Pauta a seguir para la profilaxis posexposición frente a tétanos 
+ 
+a En caso de inmunodeprimidos y personas que se inyectan droga, se administrará una dosis de inmunoglobulina en caso de 
+heridas tetanígenas, independientemente del estado de vacunación. 
+b IgT: inmunoglobulina antitetánica. Se administrará en lugar separado de la vacuna. En general se administrarán 250 UI. Si han 
+trascurrido más de 24 horas en personas de más de 90 kg de peso, en heridas con alto riesgo de contaminación, o en caso de 
+quemaduras, fracturas o heridas infectadas, se administrará una dosis de 500 UI. 
+1 Herida tetanígena: heridas o quemaduras con un importante grado de tejido desvitalizado, herida punzante (particularmente 
+donde ha habido contacto con suelo o estiércol), las contaminadas con cuerpo extraño, las fracturas con herida, mordeduras, 
+congelación, aquellas que requieren intervención quirúrgica y que esta se retrasa más de 6 horas, y aquellas que se presenten en 
+pacientes que tienen sepsis sistémica. 
+ 2 Aquellas heridas tetanígenas contaminadas con gran cantidad de material que puede contener esporas y/o que presenten 
+grandes zonas de tejido desvitalizado (heridas de alto riesgo), recibirán una dosis de IgT. 
+ 
+Fuente: Ponencia de Programa y Registro de Vacunaciones. Vacunación en Adultos. Recomendaciones. Vacuna de 
+difteria y tétanos. Actualización 2009. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de 
+Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad. 2009. 
+ 
+Td
+IgTb
+Td
+IgTb
+NO                     
+(se considera protegido)
+No necesaria (se 
+considera protegido)
+1 dosis si hace >10 años 
+desde la última dosis
+1 dosis si hace >5 años 
+desde la última dosis
+NO                     
+(se considera protegido)
+si hace >10 años de la 
+última dosis, valorar la 
+asminitración de 1 única 
+dosis adicional en 
+función del tipo de 
+herida
+5 o más dosis
+Solo en heridas de alto 
+riesgo2
+1 dosis (completar la 
+pauta de vacunación)
+NO                     
+(se considera protegido)
+Antecedecentes de vacunacióna
+Herida tetanígena1
+No vacunado, <·3 dosis, o 
+situación desconocida
+1 dosis en un lugar 
+diferente de 
+administración
+3 o 4 dosis
+Solo en heridas de alto 
+riesgo2
+SÍ                       
+1 dosis (completar la 
+pauta de vacunación)
+Herida limpia
+NO
+NO
+NO
+
+17 
+ 
+4.1.3. Vacunación frente a hepatitis B (VHB) 
+Los trabajadores sanitarios son susceptibles de infectarse por el virus de la hepatitis B durante 
+su actividad a través de exposiciones accidentales, sea por vía percutánea (pinchazos, cortes) 
+como por vía cutáneo-mucosa (salpicaduras), con instrumental contaminado con sangre u 
+otros fluidos de pacientes infectados. El riesgo depende de la intensidad, volumen, 
+instrumental, etc.  
+La vacunación sistemática de los trabajadores sanitarios, desde su puesta en marcha a 
+principios de los años 80, ha demostrado su eficacia en la reducción de la prevalencia de la 
+infección en este colectivo. 
+Los resultados de la encuesta de seroprevalencia en España (1996) y las realizadas en otras 
+CCAA, mostraron que en España la prevalencia de portadores de antiHBc era entre el 2% y el 
+9,8% en mayores de 15 años, según el rango de edad. Estas cifras deben tomarse con cautela, 
+ya que han pasado dos décadas desde la última encuesta nacional y es probable que la 
+situación actual sea diferente 28,29,30,34. 
+En estudios realizados en trabajadores sanitarios con exposición percutánea a sangre 
+contaminada por el VHB, se observa un riesgo de transmisión de al menos el 30% si la fuente 
+es AgHBe positiva, y menos del 6% si el paciente es AgHBe negativo35. 
+ 
+Cribado prevacunación 
+Los jóvenes españoles que actualmente se están incorporando al mercado laboral, recibieron, 
+en su gran mayoría, la vacuna frente a la hepatitis B en el primer año de vida o en la 
+adolescencia. Como norma general, en personas inmunocompetentes la vacunación frente a 
+hepatitis B genera memoria inmunológica, por lo que persiste la protección frente a una 
+infección clínica, incluso en ausencia o disminución de anticuerpos por debajo del título 
+considerado protector (10 mUI/ml). Se ha comprobado que la protección generada tras la 
+primovacunación infantil dura como mínimo 30 años en >90% de los vacunados36. Es 
+importante conocer que entre un 5% y un 10% de las personas inmunocompetentes que se 
+vacunan no desarrollan anticuerpos a títulos considerados protectores tras completar la pauta 
+de vacunación, pero, como se ha comentado, eso no significa que no exista protección frente a 
+infección clínica37.  
+Actualmente no se recomienda la administración de dosis de recuerdo en personas sanas no 
+inmunodeprimidas (niños, adolescentes, trabajadores sanitarios y con riesgo ocupacional, 
+personas que se inyectan drogas, individuos con contactos sexuales múltiples, viajeros o 
+residentes en instituciones para disminuidos psíquicos). Tampoco se considera necesario 
+realizar pruebas serológicas previas a la vacunación, a menos que la valoración por parte de los 
+servicios sanitarios de los servicios de prevención lo considere necesario por su condición de 
+personal de alto riesgo.  
+Precisamente por ser persona de alto riesgo, los profesionales sanitarios deben conocer su 
+condición de no respondedor, en su caso, por lo que se realizará un estudio de marcadores a 
+todos los sanitarios con vacunación previa, completa y documentada, a los que no se les 
+realizó evaluación serológica tras la vacunación en su momento38,39 (tabla 5). 
+Solamente se recomienda el estudio de marcadores cada 6-12 meses en inmunodeprimidos o 
+personas en hemodiálisis, revacunando con 1 dosis cuando los títulos antiHBs se encuentren 
+por debajo de 10 mUI/ml. 
+Los marcadores antiHBs solo tienen valor si se realizan 1-2 meses tras la última dosis de la 
+serie, porque en un 15%-50% de las personas se negativizan entre 5 y 15 años después de la 
+
+18 
+ 
+última dosis administrada, aunque siguen protegidos por la memoria inmunológica 
+proporcionada por la vacunación40.  
+ 
+Vacunación frente a VHB  
+La pauta de administración se establecerá en función del historial de vacunación (tabla 5):  
+1. Personal sanitario sin vacunación previa: Se administrarán 3 dosis de adulto con pauta 
+0, 1, 6 meses. Se realizarán marcadores posvacunales (entre 1 y 2 meses tras la tercera 
+dosis). Si el título de anticuerpos antiHBs es mayor o igual a 10mUI/ml se considerará 
+respondedor y no son necesarias dosis de recuerdo posteriores.  
+Si el título de anticuerpos antiHBs es menor de 10mUI/ml, se repetirá la pauta de 
+vacunación con tres dosis adicionales. Si después de esta segunda pauta sigue sin 
+existir una respuesta adecuada, tampoco deberán administrarse más dosis y la 
+persona se considerará no respondedora.  
+ 
+2. En caso de vacunación incompleta: Se completará pauta de vacunación según 
+esquema especificado en el apartado anterior. 
+ 
+3. En caso de desconocimiento del estado de respuesta tras vacunación: En primer lugar 
+se realizará prueba serológica y solo en el caso de que el título de anticuerpos antiHBs 
+sea menor a 10mUI/ml, se administrará 1 dosis y se realizará prueba serológica entre 1 
+y 2 meses tras de la vacunación. Si el título de anticuerpos antiHBs es mayor o igual a 
+10mUI/ml, se considera adecuadamente vacunado y si es menor de 1 mUI/ml, se 
+administrarán otras 2 dosis con separación de al menos 6 meses entre dosis; entre 1 y 
+2 meses tras las última dosis se volverán a realizar marcadores y si sigue sin existir una 
+respuesta adecuada se considerará al trabajador no respondedor y no se 
+administrarán más dosis. 
+Ante exposición a una fuente de alto riesgo deberá protegerse a los no respondedores con 
+inmunoglobulina antihepatitis B (IgHB) (tabla 6). 
+ 
+ 
+ 
+
+19 
+ 
+Tabla 5: Evaluación de la protección frente a hepatitis B en sanitarios con vacunación completa documentada, al 
+que no se le han realizado marcadores serológicos posvacunación. 
+ 
+VHB: Virus de la hepatitis B 
+antiHBs: Anticuerpos frente al antígeno de superficie del VHB 
+Fuente: Adaptado por la Región de Murcia de CDC Guidance for evaluating health-care personnel for hepatitis B 
+virus protection and for administering postexposure management. MMWR 2013;62:RR-10. 
+ 
+Profilaxis posexposición: En la tabla 6 se muestra la pauta a seguir en caso de exposición 
+accidental a una posible fuente de contagio4,35,38: 
+ 
+ 
+ Tabla 5: Evaluación de la protección frente a hepatitis B en sanitarios con vacunación completa documentada, al que no se le han realizado marcadores serológicos posvacunación
+
+20 
+ 
+Tabla 6: Pauta a seguir para la de profilaxis posexposición al VHB.  
+Estado de 
+vacunación y 
+respuesta 
+posvacunal del 
+profesional 
+sanitario  
+Serología posexposición 
+Profilaxis posexposición 
+Serología 
+posvacunacióna 
+Paciente fuente 
+(AgHBs) 
+Profesional 
+sanitario 
+(antiHBs) 
+IgHB* 
+Vacuna 
+Respondedorb 
+tras completar 
+3 o más dosis 
+Se considera protegido, no es necesario hacer nada 
+No 
+respondedorc 
+después de 6 
+dosis 
+Positivo/Desconocido 
+_** 
+2 dosis IgHB 
+separadas un mes 
+_ 
+No 
+Negativo 
+No hacer nada 
+Respuesta 
+desconocida 
+después de 3 
+dosis 
+Positivo/Desconocido 
+<10mUI/ml** 
+1 dosis IgHB 
+Iniciar 
+revacunación 
+Sí 
+Negativo 
+<10mUI/ml 
+No 
+Cualquier resultado 
+≥10mUI/ml 
+No hacer nada. Se considera protegido 
+No vacunado, 
+vacunación 
+incompleta o 
+rechazada 
+Positivo/Desconocido 
+_** 
+1 dosis IgHB 
+Iniciar/Completar 
+vacunación 
+Sí 
+Negativo 
+_ 
+No 
+Iniciar/Completar 
+vacunación 
+Sí 
+*La IgHB debe administrarse IM tras la exposición tan pronto como sea posible, cuando esté indicada. La efectividad 
+es desconocida cuando la IgHB se administra más de 7 días tras la exposición percutánea, mucosa o a través de piel 
+no intacta. La dosis de IgHB es de 0,06 ml/kg. 
+**El personal sanitario con antiHBs <10mUI/ml o que no haya sido vacunado o lo esté de forma incompleta y que 
+haya tenido una exposición a un paciente fuente AgHBs positivo o con serología desconocida, deberá ser estudiado 
+tan pronto como sea posible para descartar infección por VHB y repetir las determinaciones 6 meses después. La 
+prueba inicial consistirá en la determinación de AntiHB y luego, a los 6 meses, de AgHBs y AntiHBc. 
+a Debe realizarse 1-2 meses después de la última dosis de la serie de vacunación frente a la hepatitis B (y 4-6 meses 
+después de haber recibido IgHB para evitar la detección de anticuerpos antiHBs adquiridos de forma pasiva) 
+utilizando un método cuantitativo que permita detectar la concentración protectora de antiHBs (≥10mUI/ml). 
+b Se define como respondedor a aquel que alcanza ≥10 mUI/ml de antiHBs tras recibir 3 o más dosis de vacuna VHB 
+c Se define como no respondedor a aquel con antiHBs <10 mUI/ml tras recibir 6 o más dosis de vacuna de VHB 
+Fuente: Adaptado de CDC Guidance for evaluating health-care personnel for hepatitis B virus protection and for 
+administering postexposure management. MMWR 2013;62:RR-10. 
+ 
+4.1.4. Vacunación frente a varicela 
+La transmisión del virus de la varicela zóster (VVZ) puede ocurrir en el medio sanitario. La 
+fuente de infección pueden ser tanto los pacientes como el personal sanitario u otras personas 
+de la comunidad durante el periodo de incubación de la enfermedad. Aunque la enfermedad 
+suele ser leve en la edad infantil y prácticamente el 95% de la población adulta está 
+inmunizada, la transmisión nosocomial del VVZ puede causar importante morbimortalidad en 
+
+21 
+ 
+pacientes de alto riesgo (embarazadas, neonatos, inmunodeprimidos, etc.)41,42,43, por lo que 
+todos los adultos susceptibles deben vacunarse. 
+Desde que se autorizó la primera vacuna de la varicela en España en el año 1998, se 
+recomienda la vacunación en las personas que tienen alto riesgo de complicaciones y no estén 
+vacunadas así como la de sus contactos susceptibles sanos. En 2005, el CISNS acordó la 
+inclusión de la vacuna de varicela en el calendario de vacunación infantil para los 
+preadolescentes susceptibles (una dosis), con el objetivo de prevenir las formas graves de la 
+enfermedad. La actualización del calendario común de vacunación infantil de marzo de 2013, 
+recomendó dos dosis de vacuna de varicela en los susceptibles de la cohorte de 12 años, es 
+decir, en aquellos que no habían pasado la enfermedad en la primera infancia ni se habían 
+vacunado con anterioridad. En julio de 2015, se aprueba la inclusión de la vacunación 
+sistemática en la primera infancia. 
+Teniendo en cuenta los estudios de seroprevalencia realizados en España y en algunas CCAA, 
+menos del 10% de los adultos nacidos antes de 1972 son susceptibles28,29,30,31. 
+ 
+Cribado prevacunación 
+Se consideran inmunes a la varicela los trabajadores sanitarios con al menos una de las 
+condiciones siguientes, no siendo necesario en ellos, por tanto, realizar serología: 
+- 
+Documentación de padecimiento previo de la varicela o recuerdo de haber pasado la 
+enfermedad. 
+- 
+Documentación escrita de haber recibido dos dosis de vacuna frente a la varicela. En 
+este supuesto y, aunque por cualquier circunstancia se realiza una serología que 
+resulte negativa, no se recomienda la recepción de dosis adicionales teniendo en 
+cuenta la baja sensibilidad de las pruebas serológicas convencionales en los 
+vacunados. 
+- 
+Evidencia de inmunidad por el laboratorio. 
+Se considera susceptible a toda persona que no cumple al menos uno de los criterios previos. 
+En caso de adultos que no recuerden haber pasado la enfermedad y no tengan documentada 
+la vacunación previa, se realizará determinación serológica para confirmar susceptibilidad 
+(prueba de detección de IgG negativa frente a varicela)44,45. 
+ 
+Vacunación frente al VVZ 
+Indicación: Se recomienda la vacunación en todo trabajador susceptible46,47.  
+Pauta de administración: Se administrarán dos dosis de vacuna frente a la varicela con un 
+intervalo de al menos 4 semanas, sin necesidad de marcadores posvacunales. Las mujeres 
+deberán evitar el embarazo entre las dos dosis y en las 4 semanas siguientes a la segunda 
+dosis. 
+Se administrará una dosis en caso de haber recibido solamente una dosis con anterioridad.  
+En caso de producirse un exantema posvacunación deberá separarse al profesional sanitario 
+de los servicios donde existan pacientes inmunodeprimidos, neonatos, lactantes, 
+embarazadas, quemados y otras unidades con pacientes de elevado riesgo, por un periodo 
+entre 5-7 días. 
+ 
+ 
+
+22 
+ 
+Profilaxis posexposición en establecimientos sanitarios tras un caso o tras brote:  
+Los sanitarios susceptibles expuestos al VVZ son potencialmente infectantes entre 1 y 3 
+semanas tras la exposición. 
+- 
+Ante un caso de varicela se utilizará la vacunación para proteger a los contactos 
+susceptibles estrechos dentro de los 3 días (máximo 5 días) tras la exposición. Se 
+administrará la segunda dosis a las cuatro semanas de la primera.  
+- 
+Ante un brote se recomienda la vacunación de los expuestos susceptibles que vayan a 
+estar en contacto con los pacientes de alto riesgo. 
+Los sanitarios que solo hayan recibido una dosis de vacuna deberán recibir una segunda en los 
+primeros 5 días tras la exposición (y siempre que haya transcurrido al menos 4 semanas desde 
+la primera). Si reciben la segunda dosis más allá de los 5 días deberán ausentarse del puesto 
+habitual de trabajo entre 1 y 3 semanas tras la exposición. En el caso de que hayan recibido 
+dos dosis y se expongan a un caso de varicela o de herpes zóster permanecerán bajo vigilancia 
+entre 1 y 3 semanas. 
+ 
+4.1.5. Vacunación frente a la gripe 
+La información disponible sobre la cobertura de vacunación en profesionales sanitarios en los 
+años 2010-2015, muestra que es inferior al 30% en España48. En la temporada 2015-2016, en 
+España se vacunaron frente a la gripe aproximadamente el 31,5% de los profesionales 
+sanitarios (información de 8 CCAA). Las principales causas por las que los trabajadores 
+rechazan la vacunación son la baja percepción del riesgo a enfermar, el temor a las reacciones 
+adversas y dudas sobre la eficacia/efectividad 11,12,49. 
+La vacunación frente a la gripe ha demostrado ser la estrategia preventiva más efectiva para 
+reducir la morbimortalidad de esta enfermedad en los grupos de riesgo50,51. Las principales 
+razones por las que el personal sanitario debe vacunarse son: 
+- 
+Medida de autoprotección, puesto que el profesional sanitario tiene más 
+oportunidades de resultar infectado por el virus de la gripe que la población general.  
+- 
+El principio ético de no hacer daño al paciente: el trabajador sanitario no debe ser 
+causa de enfermedades evitables en los pacientes a su cuidado. Asimismo, puede ser 
+causa de la enfermedad a sus compañeros sanitarios. 
+- 
+Profesionalismo y ejemplaridad: el profesional que se vacune tendrá mayor 
+concienciación sobre las ventajas de la vacunación y, por tanto, será más proclive a 
+recomendarla en los grupos de riesgo, teniendo un impacto superior sobre la 
+población a la que recomienda la vacunación. 
+- 
+La consideración del personal sanitario como servicio esencial para la comunidad. Las 
+epidemias estacionales anuales de gripe están asociadas a una importante tasa de 
+hospitalizaciones y mortalidad lo que demanda considerables recursos de salud para la 
+atención de los pacientes y el control de esta situación. 
+Estudios realizados en centros geriátricos demuestran una reducción del 40% de la tasa de 
+mortalidad global en las personas mayores si las coberturas de vacunación de los trabajadores 
+del centro son superiores al 60%15,50. Además, se ha observado que la vacunación tiene 
+impacto en la disminución de la tasa de hospitalización en personas de riesgo.  
+ 
+ 
+ 
+
+23 
+ 
+Vacunación frente al virus de la gripe 
+Se recomienda la vacunación anual a todos los trabajadores sanitarios: 
+- 
+Trabajadores de los centros sanitarios, tanto de atención primaria como especializada 
+y hospitalaria, pública y privada. Se hará especial énfasis en aquellos profesionales que 
+atienden a pacientes de algunos de los grupos de alto riesgo. 
+- 
+Personas que por su ocupación trabajan en instituciones geriátricas o en centros de 
+atención a enfermos crónicos, especialmente los que tengan contacto continuo con 
+personas vulnerables. 
+- 
+Personas que proporcionen cuidados domiciliarios a pacientes de alto riesgo o 
+mayores. Otros grupos en los que se recomienda vacunación: personas que trabajan 
+en los servicios de emergencias sanitarias. 
+- 
+Sanitarios mayores de 64 años o con enfermedades de base consideradas como de 
+alto riesgo. 
+- 
+Trabajadoras embarazadas, en cualquier trimestre de la gestación, si esta coincide con 
+la temporada gripal. 
+- 
+Estudiantes en prácticas en centros sanitarios. 
+ 
+Pauta de vacunación: administración de una dosis anual en otoño. 
+ 
+4.2. 
+Vacunas indicadas en ciertas situaciones  
+4.2.1. Vacunación frente a poliomielitis 
+Desde la certificación de la Región Europea de la Organización Mundial de la Salud (OMS-
+Europa) como “libre de poliomielitis” en 2002, España ha trabajado para mantener esta 
+situación en consonancia con las recomendaciones planteadas desde la OMS. Teniendo como 
+referencia las recomendaciones del Plan estratégico para la erradicación de la poliomielitis y 
+la fase final 2013-201852 de la OMS, con el fin de completar la erradicación y la contención de 
+todos los poliovirus (PV), en febrero de 2016 se aprobó el Plan de Acción en España para la 
+Erradicación de la Poliomielitis53. 
+Las coberturas de la primovacunación con tres dosis en España son elevadas, por encima del 
+85% en 1988, del 90% en 1995 y desde 1998 es superior al 95%. Según la encuesta de 
+seroprevalencia realizada en España en 1996, los nacidos a partir de 1957 presentan una 
+prevalencia de anticuerpos frente a los 3 tipos de PV superiores al 95%. En el estudio realizado 
+en el País Vasco en 2009, se observa también una prevalencia superior al 95% para los PV tipo 
+1 y 2 y del 92% para PV tipo 3 en los nacidos a partir de 1952. 
+Por lo tanto, en general podemos considerar que los adultos nacidos en España son inmunes a 
+la poliomielitis, la mayoría como resultado de la vacunación durante la infancia.  
+ 
+Vacunación frente a poliomielitis 
+Se recomienda en los profesionales sanitarios con mayor riesgo de exposición a PV que la 
+población general: personal de laboratorio que manipulan muestras que pueden contener PV. 
+ 
+ 
+
+24 
+ 
+Pauta de administración:  
+No vacunados: Una serie de 3 dosis de VPI. La 2ª dosis se administrará a las 4-8 semanas 
+después de la primera, y la 3ª dosis entre los 6 y 12 meses tras la segunda dosis. 
+Trabajadores sanitarios vacunados correctamente con mayor riesgo de exposición: Única dosis 
+de refuerzo con VPI. 
+Profilaxis posexposición:  
+Aunque el riesgo de transmisión de PV en España se considera bajo, los desplazamientos de la 
+población desde lugares con circulación de PV podrían favorecer su transmisión y poner en 
+riesgo a la población susceptible. Ante la detección de un poliovirus, deberá actuarse según se 
+indica en el Plan, siendo necesaria la realización de una evaluación del riesgo y una respuesta 
+coordinada desde la Administración Sanitaria. 
+ 
+4.2.2. Vacunación frente a enfermedad meningocócica invasora 
+Aunque se han descrito casos de transmisión desde pacientes con sepsis o meningitis 
+meningocócica a través del contacto directo con secreciones orofaríngeas, la transmisión 
+nosocomial de Neisseria meningitidis es muy infrecuente, por lo que no se recomienda la 
+vacunación de forma sistemática en el personal sanitario 54,55,56. 
+Actualmente existen vacunas conteniendo los serogrupos C, B y ACWY.  
+Vacunación frente a enfermedad meningocócica invasora 
+La vacunación frente a enfermedad meningocócica invasora (EMI) se recomienda en: 
+• 
+Personal de laboratorio (técnicos de laboratorio y microbiólogos) que trabaje con 
+muestras que potencialmente puedan contener N. meningitidis.  
+• 
+Trabajadores con mayor riesgo individual de enfermedad invasora: deficiencia de 
+properdina o deficiencias de factores terminales del complemento (incluyendo los que 
+reciben o van a recibir eculizumab), personas con asplenia o disfunción esplénica grave 
+(anemia de células falciformes), en aquellos con resección quirúrgica programada del 
+bazo y en personas que han sufrido un episodio de EMI. 
+Pauta de administración: 
+• 
+MenACWY: una única dosis de MenACWY. Si el riesgo continúa se administrará una 
+dosis de recuerdo cada 5 años.  
+• 
+MenC: una única dosis de MenC. 
+• 
+MenB
+Profilaxis posexposición: Se recomienda la quimioprofilaxis en personas que hayan tenido un 
+contacto directo y sin protección con un paciente infectado. El fármaco de elección es la 
+rifampicina, aunque como alternativa pueden utilizarse ciprofloxacino o ceftriaxona (adultos). 
+En los sanitarios contactos de casos de EMI por serogrupos A, Y, W o no serotipados se 
+administrará la vacuna tetravalente conjugada ACWY. En los sanitarios contactos de una EMI 
+por serogrupo C se administrará la vacuna conjugada C, aunque en función de la situación 
+epidemiológica del momento (incremento de casos de EMI por serogrupo W o Y) se podría 
+valorar la administración de la vacuna tetravalente al objeto de quedar protegidos frente a 
+futuras exposiciones a cualquiera de los cuatro serogrupos. Se recomienda la vacuna frente a 
+MenB a los profesionales sanitarios, no inmunizados previamente, con condiciones médicas 
+: dos dosis con un intervalo entre dosis de no menos de un mes. 
+
+25 
+ 
+basales de alto riesgo, que hayan tenido contacto directo y sin protección durante la 
+realización de técnicas invasivas a un paciente con EMI por serogrupo B57. 
+ 
+4.2.3. Vacunación frente a tosferina  
+La tosferina es una enfermedad altamente contagiosa y su transmisión en centros sanitarios 
+está bien documentada. Los adultos se consideran un importante reservorio para la 
+diseminación y transmisión de la enfermedad. En los centros sanitarios puede haber 
+transmisión desde las visitas a los pacientes, de los profesionales sanitarios a los pacientes y a 
+la inversa. 
+En el calendario de vacunación infantil actual aprobado por el CISNS para 2017, se recomienda 
+la primovacunación con DTPa a los 2 y 4 meses y dosis de recuerdo a los 11 meses y a los 6 
+años58.Hasta 2016, se recomendaba la primovacunación con 3 dosis a los 2, 4 y 6 meses y dosis 
+de recuerdo a los 18 meses y 6 años.  
+En el año 2014 se notificaron en España 3.333 casos de tosferina, con una tasa de incidencia de 
+7,18 casos por 100.000 habitantes.  
+ 
+Vacunación frente a tosferina 
+Se recomienda la vacunación del personal sanitario que trabaja en áreas de pediatría, 
+obstetricia y sus áreas de urgencias, así como la vacunación de los profesionales sanitarios que 
+hayan tenido contacto estrecho con los casos y en el control de brotes epidémicos de 
+tosferina18,59,60,61.  
+Pauta de administración:  
+• 
+Dosis única de dTpa, siempre que hayan completado la primovacunación con 3 dosis, e 
+independientemente del preparado combinado que se haya utilizado y del tiempo 
+transcurrido desde la última dosis de Td anterior, respetando un intervalo mínimo 
+entre ambas dosis de 4 semanas. Si no hubieran recibido ninguna dosis con 
+anterioridad, se iniciará primovacunación con una dosis de dTpa seguida de dos dosis 
+de Td al mes y a los 6 meses, en caso de precisarlas en relación a tétanos y difteria. 
+• 
+Trabajadores sanitarios que hayan recibido 5 dosis (o 6 si la vacunación se realizó en la 
+primera infancia según el calendario vigente hasta 2016). No es necesario respetar 
+ningún intervalo de tiempo mínimo desde la última dosis de Td y la administración de 
+dTpa, aparte del mes de rigor entre dos dosis de una misma vacuna. 
+Vacunación en profesionales sanitarias embarazadas62: se seguirá la recomendación de 
+vacunación en embarazadas. Se administrará una dosis de vacuna dTpa, preferentemente 
+entre las semanas 27 y 36 de gestación (idealmente entre la 28 y 32 semanas de gestación). Se 
+administrará la vacunación con dTpa en cada gestación, independientemente del tiempo 
+transcurrido entre la última dosis de tétanos-difteria (Td) o de dTpa y de si la mujer ha sido 
+vacunada en un embarazo anterior.  
+Profilaxis posexposición: se recomienda terapia con macrólidos a los contactos estrechos y 
+directos de un caso de tosferina con el fin de eliminar portadores asintomáticos. Se 
+recomienda vacunación de los profesionales sanitarios que hayan tenido contacto estrecho 
+con los casos, siempre que no hayan recibido una dosis de dTpa en los últimos 5 años y con un 
+intervalo de al menos un mes desde la última dosis de Td. Si no realizan el tratamiento deben 
+ser vigilados durante 21 días tras la exposición. Si presentan síntomas deben ser excluidos del 
+trabajo por lo menos durante los 5 primeros días del tratamiento y si no realizan el 
+tratamiento deben ser excluidos 21 días desde el inicio de la tos. 
+
+26 
+ 
+4.2.4. Vacunación frente a hepatitis A (VHA) 
+La hepatitis A es una enfermedad poco frecuente en el personal sanitario, según se ha 
+señalado en estudios seroepidemiológicos realizados en este colectivo1,15,19,63. Con un 
+adecuado cumplimiento de las medidas higiénicas básicas de control de la infección, la 
+infección por el VHA es excepcional. En el anexo 1 se pueden encontrar las medidas de control 
+de infecciones relacionadas con la asistencia sanitaria.  
+Teniendo en cuenta los estudios de seroprevalencia realizados,,,, en España se consideran 
+inmunes a la mayoría de las personas nacidas con anterioridad a 1960. Se observa una 
+seroprevalencia de anticuerpos protectores en las personas nacidas entre 1960 y 1970 de 40 a 
+60% y mucho menor en las personas nacidas posteriormente.  
+ 
+Cribado prevacunación  
+Se realizará cribado prevacunación a los profesionales sanitarios en los que esté indicado y 
+siempre que hayan nacido antes de 1977.  
+ 
+Vacunación 
+Aunque no se recomienda la vacunación sistemática del personal sanitario, puede 
+considerarse en aquellos susceptibles que trabajan en entornos de riesgo o tienen factores de 
+riesgo: mayores de 50 años susceptibles, hepatópatas crónicos o candidatos a trasplante 
+hepático, inmunodeprimidos, personal de laboratorio en contacto con el VHA.  
+Pauta de administración: 2 dosis de vacuna frente a la hepatitis A administradas con un 
+intervalo de 6-12 meses (3 dosis con pauta 0, 1, 6 si se utiliza con la vacuna combinada frente a 
+la hepatitis A y la hepatitis B).  
+Profilaxis posexposición: puede llevarse a cabo con vacunas o con inmunoglobulinas. La 
+vacuna previene la enfermedad si se administra en la primera semana tras la exposición. La 
+protección aparece a los 10-14 días en el 85-95% de los vacunados64,65,66,67. La administración 
+de la 2ª dosis permite conseguir la inmunidad en casi el 100% de los vacunados. 
+En caso de que haya pasado más de una semana tras la exposición, se administrará la primera 
+dosis de vacuna junto a inmunoglobulina (Ig). Esta última es efectiva para prevenir la 
+enfermedad cuando se administran en los primeros 14 días tras la exposición. Si el contacto la 
+recibe entre los días 14 y 28 se reduce la intensidad de los síntomas y por tanto la gravedad de 
+la enfermedad. La dosis única de Ig es de 0,02 ml/kg. 
+ 
+4.2.5. Vacunación frente a fiebre tifoidea 
+La enfermedad es producida por Salmonella typhi, se propaga por la vía digestiva a través de 
+agua y alimentos contaminados con las heces u orina de enfermos o portadores. La infección o 
+la vacunación confieren inmunidad específica relativa, insuficiente para proteger contra la 
+ingestión de un alto número de microorganismos. 
+En el medio sanitario, la fiebre tifoidea solamente se ha descrito en trabajadores de 
+laboratorio que manipulan muestras de Salmonella typhi. 
+Vacunación 
+Está indicada en el personal de laboratorio que manipula Salmonella typhi. 
+ 
+ 
+
+27 
+ 
+Pauta de administración: 
+• 
+Intramuscular (IM): 1 dosis, con dosis de recuerdo cada 3 años. 
+• 
+Vía oral (VO): 3 dosis a días alternos y revacunación cada 3 años. 
+ 
+5. Estrategias para mejorar las coberturas de vacunación en 
+trabajadores sanitarios 
+Las estrategias propuestas para reforzar una actitud positiva de los trabajadores sanitarios 
+hacia la vacunación son las siguientes:  
+• 
+Formación reglada y cíclica de los trabajadores sanitarios en vacunas y en la 
+importancia de la vacunación. También es importante la formación en estudiantes de 
+medicina, enfermería, farmacia y en otros trabajadores del ámbito sanitario. 
+• 
+Información periódica sobre innovaciones en las campañas de vacunación, 
+evaluaciones realizadas, etc.  
+• 
+Necesidad de especificar una política de vacunaciones del personal sanitario: La 
+vacunación debe asegurar la protección del personal que trabaja con pacientes 
+vulnerables, con objeto de procurar el mejor nivel de seguridad frente a enfermedades 
+inmunoprevenibles. 
+• 
+Revisión periódica del estado de vacunación del personal sanitario por parte de los 
+profesionales sanitarios de los servicios de prevención de los centros sanitarios. 
+• 
+Registro de vacunaciones del personal sanitario compatible con otros registros de 
+vacunas. 
+• 
+Acceso fácil a las vacunas en el centro sanitario. 
+• 
+Entender que la vacunación es un aspecto más de la seguridad y salud en el trabajo. 
+• 
+Contar con la perspectiva de los trabajadores sanitarios a los que se dirige la 
+estrategia. Es difícil convencer a los usuarios de que se vacunen cuando los propios 
+agentes que han de administrar las vacunas ponen en cuestión sus beneficios o 
+rechazan vacunarse ellos mismos. 
+• 
+Fórmulas de incentivos económicos o similares y que están cobrando gran relevancia 
+en las nuevas políticas de salud pública. 
+• 
+Insistir en la responsabilidad ética de la vacunación.  
+• 
+Información personalizada a los trabajadores sobre la conveniencia de vacunarse 
+utilizando las nuevas tecnologías de comunicación (por ejemplo mediante mensajes al 
+teléfono móvil, etc.). 
+ 
+6. Registro de vacunaciones 
+Además de vacunar, es fundamental registrar cada vacuna que se administra15,68,69. Desde el 
+CISNS se recomienda el desarrollo de registros nominales de vacunación desde el año 199270. 
+En las CCAA se han ido desarrollando desde entonces sistemas de información o registros que 
+permiten evaluar los programas de vacunación sistemática mediante, entre otros, el cálculo de 
+las coberturas de vacunación y otros parámetros.  
+
+28 
+ 
+Los profesionales sanitarios de los servicios de prevención deben registrar la vacunación de los 
+trabajadores en la historia clínico-laboral y contar con sistemas de información que les permita 
+conocer la cobertura de vacunación entre los trabajadores atendidos por el Servicio. 
+La mayor parte de los sistemas de información de vacunación de las CCAA incluyen los datos 
+que se registran desde al menos atención primaria, pero en general no incluyen la vacunación 
+que realizan los servicios de prevención71.  
+Es necesario conocer la vacunación que se realiza en el entorno laboral de los centros 
+sanitarios. Por esta razón se recomienda establecer los mecanismos apropiados para el acceso 
+y registro de la vacunación realizada desde salud laboral en los respectivos sistemas de 
+información de las CCAA y, en última instancia, con la historia clínica electrónica. 
+ 
+ 
+
+29 
+ 
+ 
+ 
+ 
+ 
+7. Anexos 
+ 
+Anexo 1: Medidas de control de infecciones relacionadas con la 
+asistencia sanitaria 
+La prevención de las infecciones relacionadas con la asistencia sanitaria constituye una 
+responsabilidad de todas las personas y servicios que trabajan en los centros de atención 
+sanitaria. Los trabajadores deben trabajar de forma integrada para reducir el riesgo de 
+infección en los pacientes y el personal. Los programas de control de la infección son eficaces 
+siempre y cuando sean integrales y comprendan actividades de vigilancia y prevención, así 
+como de formación del personal sanitario72,73,74. 
+1. Medidas de precaución estándar de control de la infección: Estas medidas están 
+diseñadas 
+para 
+el 
+cuidado 
+de 
+los 
+pacientes 
+en 
+el 
+ámbito 
+sanitario, 
+independientemente de su diagnóstico o estado de infección: 
+• 
+Vacunación de los profesionales sanitarios. 
+• 
+Lavado de manos y medidas generales de higiene. 
+• 
+Uso de elementos de protección de barrera: guantes, mascarillas, protectores 
+oculares y batas. 
+• 
+Cuidado con objetos cortantes. 
+• 
+La esterilización y desinfección correcta de elementos de instrumentos y 
+superficies. 
+• 
+Desinsectación y desratización. 
+• 
+Higiene de otras zonas de riesgo: laboratorio, animalario.  
+• 
+Formación del personal sanitario. 
+• 
+Otras recomendaciones: señalización de muestras, uso correcto de vajillas y 
+cubiertos, uso y lavado correcto de colchones, sábanas y ropa hospitalaria, 
+gestión de residuos, transporte del paciente, etc.  
+2. Medidas de control específicas basadas en la transmisión: dirigidas a pacientes en los 
+que se sospecha o está diagnosticada la infección o colonización por microorganismos 
+altamente transmisibles, para los que se necesita precauciones añadidas a las 
+estándar, como las medidas de aislamiento, equipos de protección personal, etc., que 
+variarán en función de la vía de transmisión (aérea, feco-oral, parenteral o por 
+contacto con mucosas o fluidos corporales) 
+3. Medidas de control sobre las visitas y acompañantes: Los familiares y convivientes 
+deberán recibir información sobre las medidas de control de la infección que deben 
+adoptar. 
+4. Medidas de prevención y control de la infección en la atención médica a domicilio: 
+Cuando los pacientes infectados posibles, probables o confirmados sean enviados a su 
+domicilio, el personal sanitario encargado de su atención aplicará las medidas estándar 
+de control de la infección. 
+
+30 
+ 
+8. Bibliografía 
+ 
+                                                          
+1 Centers for Disease Control and Prevention. Immunization of Health-Care Personnel: 
+Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR 
+2011;60(RR07);1-45. Disponible en: http://www.cdc.gov/mmwr/preview/mmwrhtml/rr6007a1.htm 
+[Consultado 09 junio 2016]. 
+2 García Gómez M, Santolaria Bartolomé E, Casanova Vivas S, Cadeddu Martin P, Esteban Buedo V, 
+Sánchez Serrano S et al. Guía de Bioseguridad para los profesionales sanitarios. Madrid: Ponencia de 
+Salud Laboral. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. 
+Ministerio de Sanidad, Servicios Sociales e Igualdad. 2015. Disponible en: 
+http://www.msssi.gob.es/ciudadanos/saludAmbLaboral/docs/guiabioseg.pdf [Consultado 10 junio 
+2016]. 
+3 Asociación Nacional de Medicina del Trabajo en el Ámbito Sanitario (ANMTAS). Guía de criterios de 
+aptitud para trabajadores del ámbito sanitario. Escuela Nacional de Medicina del Trabajo. Instituto de 
+Salud Carlos III. Ministerio de Economía y Competitividad. Madrid. 2014. Disponible en: 
+http://gesdoc.isciii.es/gesdoccontroller?action=download&id=27/02/2015-11e2fcb261. [Consultado 21 
+junio 2016]. 
+4 Gutiérrez MN, Sáenz MC. Vacunaciones y profilaxis postexposición en personal sanitario. Rev Esp 
+Quimioter 2009;22(4):190-200. 
+5 Comité de Bioética de España. Cuestiones ético-legales del rechazo a las vacunas y propuestas para un 
+debate necesario. 2016. Disponible en: 
+http://www.comitedebioetica.es/files/documentacion/cuestiones-etico-legales-rechazo-vacunas-
+propuestas-debate-necesario.pdf. [Consultado 14 noviembre 2016]. 
+6 Real Decreto 592/2014, de 11 de julio, por el que se regulan las prácticas académicas externas de los 
+estudiantes universitarios. (Boletín Oficial del Estado, número 184, de 30 de julio de 2014). Disponible 
+en: https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8138. [Consultado 06 febrero 2017]. 
+7 Ponencia de Programa y Registro de Vacunaciones. Vacunación en Adultos. Recomendaciones año 
+2004. Comisión de Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de 
+Sanidad, Servicios Sociales e Igualdad. 2004. Disponible en: 
+http://msssi.es/ciudadanos/proteccionSalud/vacunaciones/docs/recoVacunasAdultos.pdf [Consultado 
+09 junio 2016] 
+8 Maltezou HC, Poland GA. Vaccination policies for healthcare workers in Europe. Vaccine. 2014 Aug 
+27;32(38):4876-80. [Consultado 09 junio 2016] 
+9 Panel de Expertos. ¿Qué falla en la vacunación del personal sanitario? Santiago de Compostela. 2012. 
+Disponible en: http://www.actasanitaria.com/fileset/file__Panel_de_Expertos_Gripe_48242.pdf. 
+[Consultado 21 junio 2016] 
+10 Diario Oficial de la Unión Europea. L 348/71. Recomendación del Consejo de 22 de diciembre de 2009 
+sobre la vacunación contra la gripe estacional. (Texto pertinente a efectos del EEE). (2009/1019/UE). 
+11 Martínez-Baz I, Díaz-González J, Guevara M, Toledo D, Zabala A, Domínguez A, et al. Actitudes, 
+percepciones y factores asociados a la vacunación antigripal en los profesionales de atención primaria 
+de Navarra, 2011-2012. An Sist Sanit Navar 2013, Vol. 36, Nº 2, mayo-agosto. 
+12 Commission staff working document. State of play on implementation of the Council 
+Recommendation of 22 December 2009 on seasonal influenza vaccination (2009/1019/EU). European 
+Commission Disponible en: 
+http://ec.europa.eu/health/vaccination/docs/seasonflu_staffwd2014_en.pdf. [Consultado 11 julio 
+2016]. 
+13 Real Decreto 171/2004, de 30 de enero, por el que se desarrolla el artículo 24 de la Ley 31/1995, de 8 
+de noviembre, de Prevención de Riesgos Laborales, en materia de coordinación de actividades 
+empresariales. (Boletín Oficial del Estado, número 27, de 31 de enero de 2004). Disponible en: 
+http://www.boe.es/buscar/act.php?id=BOE-A-2004-1848. [Consultado 05 abril 2017]. 
+14 Escuela Nacional de Medicina del Trabajo. Guía de actuación ante exposición ocupacional a agentes 
+biológicos de transmisión sanguínea. Instituto de Salud Carlos III. Ministerio de Ciencia e Innovación. 
+
+31 
+ 
+                                                                                                                                                                          
+Madrid. Actualización 2012. Sánchez Serrano, Sebastián. Coordinador. Disponible en: 
+http://www.isciii.es/ISCIII/es/contenidos/fd-el-instituto/fd-comunicacion/fd-noticias/Monografia-Guia-
+Agentes-biologicos.pdf [Consultado 10 junio 2016]. 
+15 Campins M, Torres M, Bayas JM, Serra C, Bruguera M. La vacunación del personal sanitario. Med Clin 
+(Barc) 1999;113:583-591. 
+16 World Health Organization. Global measles and rubella strategic plan: 2012-2020. 2012. Disponible 
+en: 
+http://reliefweb.int/sites/reliefweb.int/files/resources/Measles_Rubella_StrategicPlan_2012_2020.pdf 
+[Consultado 17 enero 2017]. 
+17 Centro Nacional de Epidemiología. Plan Nacional de Eliminación del Sarampión y de la Rubeola. 
+Informe anual 2015. Madrid. Julio de 2016. Instituto de Salud Carlos III. Ministerio de Economía y 
+Competitividad Disponible en: http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-
+tecnicos/fd-vigilancias-alertas/fd-enfermedades/fd-enfermedades-prevenibles-
+vacunacion/pdf_2016/Vigilancia_SAR_RUB_2015web.pdf [Consultado 09 septiembre 2016]. 
+18 Red Nacional de Vigilancia Epidemiológica. Protocolos de las enfermedades de declaración obligatoria. 
+Centro Nacional de Epidemiología. Instituto de Salud Carlos III. 2015. Disponible en: 
+http://gesdoc.isciii.es/mwg-internal/de5fs23hu73ds/progress?id=OsEWJ9XDuFya5234I-
+MzmkpRJp_G25-9KvUUmFgZuAw,&dl [Consultado 23 enero 2017]. 
+19 Campins M, Uriona S. Epidemiología general de las infecciones adquiridas por el personal sanitario. 
+Inmunización del personal sanitario. Enferm Infecc Microbiol Clin. 2014;32(4):259–265. 
+20 Peña-Rey I, Martínez de Aragón V, Mosquera M, De Ory F, Echevarría JE, Measles Elimination Plan 
+Working Group in Spain. Measles risk groups in Spain: Implications for the European measles-
+elimination target. Vaccine. 2009;27:3927–34. 
+21 De Ory F, Peña-Rey I. Sarampión en la línea de meta de la eliminación. Enferm Infecc Microbiol Clin. 
+2010;28(2):73–74. 
+22 Torner N, Solano R, Rius C, Domínguez A and the Measles Elimination Program Surveillance Network 
+of Catalonia, Spain. Implication of health care personnel in measles transmission. The need for updated 
+immunization status in the move towards eradication of measles in Catalonia. Hum Vaccin Immunother. 
+2015; 11(1): 288–292. 
+23 Fernández-Canoa MI, Armadans L, Sulleiro E, l Espugad M, Ferrer E, Martínez-Gómez X et al. 
+Susceptibilidad frente a sarampión y varicela en el personal sanitario de un hospital de tercer nivel en 
+Cataluña. Enferm Infecc Microbiol Clin. 2012;30(4):184–188. 
+24 García-Comas L. Measles outbreak in the region of Madrid, Spain, 2006. Euro Surveill. 
+2006;11(13):pii=2935. Disponible en: http://www.eurosurveillance.org/ViewArticle.aspx?Articleld=2935 
+[Consultado 09 septiembre 2016]. 
+25 Centro Nacional de Epidemiología. Plan Nacional de Eliminación del Sarampión y de la Rubeola. 
+Informe anual 2015. Madrid. Julio de 2016. Instituto de Salud Carlos III. Ministerio de Economía y 
+Competitividad. Disponible en: http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-
+tecnicos/fd-vigilancias-alertas/fd-enfermedades/fd-enfermedades-prevenibles-
+vacunacion/pdf_2016/Vigilancia_SAR_RUB_2015web.pdf [Consultado 09 septiembre 2016]. 
+26 Centro Nacional de Epidemiología. Plan Nacional de Eliminación del Sarampión y de la Rubeola. 
+Informe anual 2014. Madrid. Junio de 2017. Instituto de Salud Carlos III. Ministerio de Economía y 
+Competitividad. Disponible en: http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-
+tecnicos/fd-vigilancias-alertas/fd-enfermedades/fd-enfermedades-prevenibles-
+vacunacion/pdf_2016/Sarampion-Rubeola_SRC_2014_web.pdf [Consultado 09 septiembre 2016]. 
+27 Red Nacional de Vigilancia Epidemiológica. Situación de las enfermedades de declaración obligatoria 
+2015. España 2014. Centro Nacional de Epidemiología. Instituto de Salud Carlos III. Disponible en: 
+http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-tecnicos/fd-vigilancias-alertas/fd-
+enfermedades/EDO2014_1.pdf [Consultado 27 junio 2016]. 
+28 Centro Nacional de Epidemiología. Estudio seroepidemiológico: Situación de las enfermedades 
+vacunables en España. Instituto de Salud Carlos III. Ministerio de Sanidad y Consumo. 1996. Disponible 
+
+32 
+ 
+                                                                                                                                                                          
+en: http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-tecnicos/fd-vigilancias-alertas/fd-
+enfermedades/SEROEPIDEMIOLOGICO.pdf [Consultado 09 junio 2016]. 
+29 I Encuesta de seroprevalencia de la Comunidad Autónoma del País Vasco. Departamento de Sanidad y 
+Consumo. Gobierno Vasco. 2011. Disponible en: 
+http://www.euskadi.eus/r332732/es/contenidos/informacion/vacunas_epidem/es_4330/adjuntos/sero
+prevalencia.pdf [Consultado 09 junio 2016]. 
+30 García Comas L, Ordobás M, Sanz JC, Ramos B, García J, Cevallos C, Verdejo J, Barranco D, Astray J, 
+Echevarría JM, Ortiz M, del Amo J, Moreno S. IV Encuesta de serovigilancia de la Comunidad de Madrid. 
+Consejería de Sanidad. Dirección General de Atención Primaria. Documento Técnico de Salud Pública. 
+Madrid 2015. Disponible en: 
+http://www.madrid.org/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername
+1=Content-
+disposition&blobheadername2=cadena&blobheadervalue1=filename%3DIVSEROVI_Documento+t%C3%
+A9cnico_revisi%C3%B3n+final+22_05_2015.pdf&blobheadervalue2=language%3Des%26site%3DPortalS
+alud&blobkey=id&blobtable=MungoBlobs&blobwhere=1352874902909&ssbinary=true [Consultado 09 
+junio 2016]. 
+31 Encuesta gallega de seroprevalencia 2013. Boletín epidemiológico de Galicia. Vol. XXVI-nº 4. 
+Septiembre de 2014. Disponible en: http://www.sergas.es/Saude 
+publica/Documents/100/BEG_XXVI_4_290914.pdf [Consultado 20 enero 2017]. 
+32 Urbiztondo L, Borrás E, Costa J, Broner S, Campins M, Bayas JM et al. Prevalence of measles antibodies 
+among health care worker in Catalonia (Spain) in the elimination era. BMC Infectious Diseases 2013, 
+13:391.  
+33 Ponencia de Programa y Registro de Vacunaciones. Vacunación en Adultos. Recomendaciones. Vacuna 
+de difteria y tétanos. Actualización 2009. Comisión de Salud Pública del Consejo Interterritorial del 
+Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad. 2009. Disponible en: 
+http://msssi.es/ciudadanos/proteccionSalud/vacunaciones/docs/TetanosDifteria_2009.pdf [Consultado 
+09 junio 2016]. 
+34 Aristegui J, Díez J, Marés J, Martinón F. Vacunación frente a la hepatitis B. Impacto de los programas 
+de vacunación tras 20 años de su utilización en España. ¿Es tiempo de cambios? Enferm Infecc Microbiol 
+Clin. 2015;33(2):113–118. 
+35 Grupo de expertos de la Secretaría del Plan Nacional sobre el Sida, et al. Documento de Consenso 
+sobre Profilaxis postexposición ocupacional y no ocupacional en relación con el VIH, VHB y VHC en 
+adultos y niños. Marzo, 2015. Ministerio de Sanidad, Servicios Sociales e Igualdad. Disponible en: 
+http://www.msssi.gob.es/ciudadanos/enfLesiones/enfTransmisibles/sida/publicaciones/profSanitarios/
+PPE_23Marzo2015.pdf [Consultado 20 enero 2017]. 
+36 Bruce MG, Bruden D, Hurlburt D, Zanis C, Thompson G, Rea L, et al. Antibody Levels and Protection 
+After Hepatitis B Vaccine: Results of a 30-Year Follow-up Study and Response to a Booster Dose. J Infect 
+Dis 2016;214:16-22.  
+37 Sociedad Española de Medicina Preventiva, Salud Pública e Higiene. Recomendaciones europeas de 
+manejo y seguimiento de las exposiciones ocupacionales al virus de la hepatitis B y en personal 
+sanitario. Documento de consenso. Noviembre, 2002. Disponible en: 
+http://www.sempsph.com/images/stories/recursos/pdf/protocolos/2012/048_exp_ocup.pdf 
+[Consultado 29 septiembre 2016]. 
+38 Centers for Disease Control and Prevention. CDC Guidance for Evaluating Health-Care Personnel for 
+Hepatitis B Virus Protection and for Administering Postexposure Management. Recommendations and 
+Reports December 20, 2013/62(RR10);1-19. MMWR. Disponible en: 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6210a1.htm [Consultado 17 enero 2017] 
+39 Sanitarios sin marcadores posvacunales de HB. Diciembre 2013. Murcia Salud. Servicio de Prevención 
+y Protección de la Salud. Dirección General de Salud Pública. Consejería de Sanidad. Región de Murcia. 
+Disponible en: http://www.murciasalud.es/recursos/ficheros/282348-marcadores.pdf [Consultado 29 
+junio 2016]. 
+
+33 
+ 
+                                                                                                                                                                          
+40 Marcadores y revacunaciones de hepatitis B. Murcia Salud. Servicio de Prevención y Protección de la 
+Salud. Dirección General de Salud Pública. Consejería de Sanidad. Región de Murcia. Disponible en: 
+https://www.murciasalud.es/recursos/ficheros/41659-hepatitis_b.pdf [Consultado 29 junio 2016]. 
+41 Ponencia de Programas y Registro de Vacunaciones. Revisión de las recomendaciones de vacunación 
+frente a varicela en grupos de riesgo. Comisión de Salud Pública del Consejo Interterritorial del Sistema 
+Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad. 2015. Disponible en : 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Recomend_V
+aricela_Gruposriesgo.pdf [Consultado 09 junio 2016]. 
+42 Vacunas recomendables en el trabajador sanitario. Fisterra. Disponible en:  
+http://www.fisterra.com/guias-clinicas/vacunas-recomendables-trabajador-sanitario/ [Consultado 30 
+junio 2016]. 
+43 Red Nacional de Vigilancia Epidemiológica. Situación de la varicela y del herpes zóster en España, 
+1998-2012. Centro Nacional de Epidemiología Instituto de Salud Carlos III. Disponible en: 
+http://www.isciii.es/ISCIII/es/contenidos/fd-servicios-cientifico-tecnicos/fd-vigilancias-alertas/fd-
+enfermedades/fd-enfermedades-prevenibles-vacunacion/InformeVaricela_HZ_1998-2012.pdf 
+[Consultado 09 septiembre 2016]. 
+44 Gil-Prieto R. Aceptación de la vacunación de varicela en personal sanitario susceptible. Med Clin (Barc) 
+2011;137(8):352-354. 
+45 García-Basteiro AL, Bayas JM, Campins M, Torres M, Serra C, Varela P, et al. Susceptibilidad a la 
+varicela en personal sanitario. Aceptación y respuesta a la vacunación. Med Clin (Barc). 2011;137:340–5. 
+46 World Health Organization. Varicella and herpes zoster vaccines: WHO position paper, June 2014. 
+WER 2014;89:265-288. Disponible en: http://www.who.int/wer/2014/wer8925.pdf?ua=1.[Consultado 
+17 octubre 2016]. 
+47 Ponencia de Programa y Registro de Vacunaciones. Revisión de las recomendaciones de vacunación 
+frente a varicela en grupos de riesgo. Comisión de Salud Pública del Consejo Interterritorial del Sistema 
+Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad. 2015. Disponible en: 
+http://msssi.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Recomend_Varicela_Gr
+uposriesgo.pdf [Consultado 17 octubre 2016]. 
+48 Coberturas de vacunación en España. Datos estadísticos. Ministerio de Sanidad, Servicios Sociales e 
+Igualdad. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/coberturas.htm 
+[Consultado 09 septiembre 2016]. 
+49 Bellia et al. Healthcare worker compliance with seasonal and pandemic influenza vaccination. 
+Influenza and other Respiratory Viruses 2013 7(Suppl. 2), 97-104. 
+50 Potter J, Stott DJ, Roberts MA, Elder AG, O’Donell B, Knight PV et al. Influenza vaccination of health 
+care workers in long-term-care hospitals reduces the mortality of elderly patients. J Infect Dis 1997; 175: 
+1-6. 
+51 Castilla J, Guevara M, García M, Irrisarri F, Arriazu M, Barricarte A, et al. Impacto de la vacunación 
+frente a la gripe (H1N1) 2009 en Navarra: Comparación de diferentes escenarios. Rev Esp Salud Pública 
+2011; 84: 105-111. 
+52 World Health Organization. Global Polio Eradication Initiative. Plan estratégico para la erradicación de 
+la poliomielitis en la fase final, 2013-2018. Disponible en: 
+http://www.polioeradication.org/Portals/0/Document/Resources/StrategyWork/PEESP_ES_SPA_A4.pdf. 
+[Consultado 25 enero 2016]. 
+53 Plan de acción en España para la erradicación de la poliomielitis. Febrero 2016. Consejo Interterritorial 
+del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad. 2016. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/PlanPolio/docs/Plan_erradicacion
+_poliomielitis.pdf [Consultado 25 enero 2016]. 
+54 Grupo de Trabajo MenCC 2012, de la Ponencia de Programas y Registro de Vacunaciones. Revisión de 
+la pauta de vacunación frente a enfermedad meningocócica por serogrupo C. Comisión de Salud Pública 
+del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e 
+Igualdad. 2013. Disponible en: 
+
+34 
+ 
+                                                                                                                                                                          
+http://msssi.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/MenC.pdf. [Consultado 
+09 junio 2016]. 
+55 Grupo de Trabajo MenB. Vacuna frente a enfermedad meningocócica invasora por serogrupo B y su 
+posible utilización en salud pública. Ponencia de Programas y Registro de Vacunaciones. Comisión de 
+Salud Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios 
+Sociales e Igualdad, 2013. Disponible en: 
+http://msssi.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/MenB.pdf [Consultado 
+09 junio 2016]. 
+56 Ponencia de Programa y Registro de Vacunaciones. Adenda. Modificación en “Recomendaciones de 
+utilización de la vacuna frente a enfermedad meningocócica por serogrupo B”. Comisión de Salud 
+Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios 
+Sociales e Igualdad, 2015. Disponible en: 
+http://msssi.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Adenda_MenB_situacEs
+peciales.pdf [Consultado 09 junio 2016]. 
+57 The Green Book. Meningococcal, chapter 22, v_10_0. Public Health England, September, 2016. 
+Disponible en: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/554011/Green_Book_
+Chapter_22.pdf [Consultado 25 enero 2017]. 
+58 Ponencia de Programa y Registro de Vacunaciones. Cambio del calendario común de vacunación 
+infantil: Razones para la implantación de un esquema 2+1. Información para profesionales sanitarios. 
+Ministerio de Sanidad, Servicios Sociales e Igualdad. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/CalendarioVa
+cunacion_ProfSanitarios.pdf. [Consultado 29 septiembre 2016]. 
+59 Grupo de Trabajo Tos Ferina 2012 de la Ponencia de Programa y Registro de Vacunaciones. Revisión 
+del programa de vacunación frente a tos ferina en España. Comisión de Salud Pública del Consejo 
+Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios Sociales e Igualdad, 2013. 
+Disponible en : 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/TosFerina.pdf 
+[Consultado 09 junio 2016]. 
+60 Grupo de Trabajo tos ferina 2015 de la Ponencia de Programa y Registro de Vacunaciones. Adenda al 
+programa de vacunación frente a tos ferina en España: vacunación en el embarazo. Comisión de Salud 
+Pública del Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, Servicios 
+Sociales e Igualdad, 2015. Disponible en : 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Adenda_TosF
+erinaEmbarazo.pdf [Consultado 22 junio 2016]. 
+61 Pertussis Healthcare Settings Guidelines Group. PHE Guidelines for the Public Health Management of 
+Pertussis Incidents in Healthcare Settings. Noviembre 2016. Disponible en: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/564657/Guidelines_f
+or_the_Public_Health_Management_of_Pertussis_in_Healthcare_Settings_2016.pdf [Consultado 23 
+enero 2017]. 
+62 Ponencia de Programa y Registro de Vacunaciones. Preguntas y respuestas sobre vacunación frente a 
+la tosferina en embarazadas para profesionales sanitarios. Ministerio de Sanidad, Servicios Sociales e 
+Igualdad. 2015. Disponible en: 
+http://www.msssi.gob.es/profesionales/saludPublica/prevPromocion/vacunaciones/docs/Vacunacion_T
+osferina_Embarazadas_ProfSanitarios.pdf [Consultado 27 junio 2016]. 
+63 Manual de vacunas en línea de la AEP. Capítulo 19. Vacunaciones del personal sanitario. Asociación 
+Española de Pediatría. Disponible en: http://vacunasaep.org/documentos/manual/cap-19 [Consultado 
+09 junio 2016]. 
+64 Findor JA, Cañero Velasco MC, Mutti J, et al. Response to hepatitis A vaccine in children after a single 
+dose with a booster administration 6 months later. J Travel Med. 1996;3:156–159. 
+65 Werzberger A, Mensch B, Kuter B, et al. A controlled trial of a formalin-inactivated hepatitis A vaccine 
+in healthy children. N Engl J Med. 1992;327:453–457. 
+
+35 
+ 
+                                                                                                                                                                          
+66 López EL, Contrini MM, Xifró MC, et al. Hepatitis A vaccination of Argentinean infants: comparison of 
+two vaccination schedules. Vaccine. 2007;25:102–108. 
+67 Mayorga Pérez O, Herzog C, Zellmeyer M, et al. Efficacy of virosome hepatitis A vaccine in young 
+children in Nicaragua: randomized placebo-controlled trial. J Infect Dis. 2003;188:671–677. 
+68 Registros Vacunales. Asociación Española de Vacunología. Disponible en: 
+http://www.vacunas.org/registros-vacunales/ [Consultado 11 julio 2016]. 
+69 Manual de vacunas de la AEP. Capítulo 3. Registros de vacunación. Asociación Española de Pediatría. 
+Disponible en: http://vacunasaep.org/manual/Cap3_10_Registros_vacunacion.pdf. [Consultado 11 julio 
+2016]. 
+70 Acuerdo nº 192 del Consejo Interterritorial del Sistema Nacional de Salud. Disponible en: 
+http://www.msssi.gob.es/organizacion/consejoInterterri/docs/192.pdf [Consultado 23 enero 2016]. 
+71 Situación de los sistemas de información de vacunas en España (actualmente en desarrollo). 
+72 Organización Mundial de la Salud. Prevención de las infecciones nosocomiales GUÍA PRÁCTICA 2 2ª 
+edición, 2003. Disponible en: 
+http://www.who.int/csr/resources/publications/ES_WHO_CDS_CSR_EPH_2002_12.pdf [Consultado 09 
+septiembre 2016]. 
+73 Subcomité de Respuesta a la emergencia. Plan Nacional de preparación y respuesta ante una 
+pandemia de. Anexo II. Medidas de control de la infección. Ministerio de Sanidad, Servicios Sociales e 
+Igualdad. Junio 2006. Disponible en: 
+http://www.msssi.gob.es/ciudadanos/enfLesiones/enfTransmisibles/docs/anexoII_junio2006.pdf 
+[Consultado 09 septiembre 2016]. 
+74 Prevención y Control de la infección nosocomial. Promoción de Calidad Guía de Buenas Prácticas. 
+Consejería de Sanidad. Comunidad de Madrid. Mayo 2009. Disponible en: 
+http://www.madrid.org/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername
+1=Content-disposition&blobheadername2=cadena&blobheadervalue1=filename%3DGuiaBPC-
++Infecci%C3%B3n+Nosocommial+5+mayo+2009.pdf&blobheadervalue2=language%3Des%26site%3DPo
+rtalSalud&blobkey=id&blobtable=MungoBlobs&blobwhere=1220487126351&ssbinary=true. 
+[Consultado 09 septiembre 2016].  

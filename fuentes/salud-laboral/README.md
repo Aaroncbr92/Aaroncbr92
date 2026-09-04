@@ -1,7 +1,9 @@
 # Fuentes de salud laboral que no son legislación
 
 Los temarios de **Enfermería de Empresa** y de **Medicina de Empresa** tienen puntos cuyo
-enunciado **nombra un documento técnico concreto** en lugar de una norma. Cuando eso ocurre, el
+enunciado **nombra un documento técnico concreto** en lugar de una norma —y alguno lo nombra sin
+decir que lo hace, como el punto 11, cuyas rúbricas «Recomendaciones de Vacunación en Población
+Adulta» y «Vacunación en trabajadores sanitarios» son dos publicaciones del Ministerio de Sanidad. Cuando eso ocurre, el
 documento se baja entero y se guarda aquí —el PDF y su texto extraído—, para que cualquier
 afirmación del tema se pueda comprobar y para que la lente `refutar_documento.py` tenga contra
 qué contrastar.
@@ -14,8 +16,11 @@ La legislación va donde va siempre: volcada con `herramientas/boe.py` a
 | `ntp-218.pdf` / `.txt` | **NTP 218: La espirometría forzada en Medicina del Trabajo**, redactada por Joaquín Pérez Nicolás, Diplomado en Enfermería, del Centro Nacional de Condiciones de Trabajo | **1988** | Tema 8 de Enfermería de Empresa, que el propio enunciado del programa remite a esta NTP |
 | `ntp-586.pdf` / `.txt` | **NTP 586: Control biológico: concepto, práctica e interpretación**, redactada por Jordi Obiols Quinto y Xavier Guardino Solá, del Centro Nacional de Condiciones de Trabajo | **2001** | Tema 10 de Enfermería de Empresa: la mitad de «recogida de muestras» del punto |
 | `ntp-1191.pdf` / `.txt` | **NTP 1191: Salud cardiovascular: recomendaciones para su gestión en el ámbito laboral**, del INSST | **2024** | Tema 10: por qué un servicio de prevención se ocupa del corazón |
+| `sanidad-vacunacion-entorno-laboral.pdf` / `.txt` | **«Entorno laboral»**, capítulo 5 de **«Vacunación en grupos de riesgo de todas las edades y en determinadas situaciones»**, Ponencia de Programa y Registro de Vacunaciones, Ministerio de Sanidad | archivo generado en **septiembre de 2018**; el capítulo no lleva fecha impresa | Tema 11: los siete colectivos laborales de riesgo y qué le toca al servicio de prevención |
+| `sanidad-vacunacion-poblacion-adulta.pdf` / `.txt` | **«Vacunación en población adulta»**, de la misma Ponencia | **septiembre de 2018** | Tema 11: la rúbrica «Recomendaciones de Vacunación en Población Adulta» del enunciado |
+| `sanidad-vacunacion-trabajadores-sanitarios.pdf` / `.txt` | **«Vacunación en trabajadores sanitarios»**, de la misma Ponencia | **abril de 2017** | Tema 11: la rúbrica del mismo nombre del enunciado |
 
-## Siete avisos
+## Ocho avisos
 
 **1. Las NTP no son obligatorias.** El pie de la propia NTP 218 lo dice: «*Las NTP son guías de
 buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una
@@ -59,6 +64,20 @@ del trabajo»**, de **1994**, sería la fuente propia de la primera mitad del te
 septiembre de 2026**, tanto su página en el portal del Instituto como la dirección directa de su
 archivo respondieron con un **error de página no encontrada**. Está catalogada y no está servida. El
 tema 10 lo declara y no suple el hueco.
+
+**8. Los tres documentos del Ministerio de Sanidad son anteriores a la fecha de corte** —2017 y
+2018— **y por eso no hay nada que congelar**: no son legislación. Pero **son recomendaciones, y las
+recomendaciones se revisan**. Este proyecto **no ha buscado versiones posteriores**, y el tema 11 lo
+declara, con aviso expreso sobre el calendario vacunal. Se bajan del portal del Ministerio con el
+mismo agente de navegador que las NTP:
+
+```sh
+UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+B=https://www.sanidad.gob.es/areas/promocionPrevencion/vacunaciones
+curl -sSL -A "$UA" -e "https://www.sanidad.gob.es/" -o sanidad-vacunacion-trabajadores-sanitarios.pdf "$B/vacunas/docs/Vacunacion_sanitarios.pdf"
+curl -sSL -A "$UA" -e "https://www.sanidad.gob.es/" -o sanidad-vacunacion-poblacion-adulta.pdf "$B/programasDeVacunacion/docs/Vacunacion_poblacion_adulta.pdf"
+curl -sSL -A "$UA" -e "https://www.sanidad.gob.es/" -o sanidad-vacunacion-entorno-laboral.pdf "$B/programasDeVacunacion/riesgo/docs/Entorno_Laboral.pdf"
+```
 
 ## Cómo se vuelve a bajar
 
