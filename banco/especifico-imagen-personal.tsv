@@ -1,0 +1,110 @@
+# Reparto a mano del bloque específico de Imagen Personal.
+#
+# **Un cuadernillo**: `27_preguntas_ip`, de 96 preguntas —80 principales más 16
+# de reserva—, con su plantilla completa.
+#
+# De las 96, **diez son del bloque común** y las coge el banco general: la 2, la
+# 5 y la 7 de la Constitución; la 3, la 6, la 8, la 84 y la 87 del III Convenio
+# Colectivo; la 1 del II Plan de Igualdad; y la 4 de la Ley 8/2009.
+#
+# **Dos son del tema compartido de prevención** y van a su banco por
+# `reclasificadas.tsv`: la 40 —concepto de seguridad en el trabajo— y la 73
+# —accidente in itinere—. El anexo las pide en su punto 10.
+#
+# **Las otras 84 son del específico** y están todas repartidas.
+#
+# **Un punto del anexo no ha dado ni una pregunta**: el 7 —técnicas y materiales
+# para la recreación de personajes—. Su tema se escribe igual, contra el
+# programa.
+#
+# **Una pregunta está ANULADA en la plantilla oficial**: la 57, sobre la década
+# del corte «a lo garçon». Se reparte igual, con su aviso.
+#
+# **Ninguna pregunta de este cuadernillo depende de una figura.**
+#
+# origen	nº	tema	motivo
+origen	numero	tema	motivo
+27_preguntas_ip	15	01	El peinado «bouffant» y su década
+27_preguntas_ip	22	01	La «boca de asco» y su década
+27_preguntas_ip	25	01	Peinado de época: sujeción de un promontorio
+27_preguntas_ip	26	01	Pelucas de la época de María Antonieta
+27_preguntas_ip	38	01	Katharine Hepburn y su década
+27_preguntas_ip	39	01	La «cara lavada» y su década
+27_preguntas_ip	43	01	El peinado de Verónica Lake
+27_preguntas_ip	44	01	El arquetipo de belleza egipcio
+27_preguntas_ip	46	01	Las pelucas del siglo XVIII
+27_preguntas_ip	48	01	El peinado «à la Fontange»
+27_preguntas_ip	53	01	El año de las tenacillas Marcel
+27_preguntas_ip	55	01	Quién puso de moda la peluca «in folio»
+27_preguntas_ip	56	01	La malaquita egipcia y su color
+27_preguntas_ip	57	01	El corte «a lo garçon» y su década. ANULADA en la plantilla
+27_preguntas_ip	58	01	Los peinados de los años cincuenta
+27_preguntas_ip	62	01	El pigmento con que se oscurecían la piel los egipcios
+27_preguntas_ip	75	01	El siglo de las pelucas altas y ornamentadas
+27_preguntas_ip	77	01	El otro nombre del moño de Grace Kelly
+27_preguntas_ip	81	01	El primer maquillaje de Max Factor para cine
+27_preguntas_ip	47	02	La capa de la piel sobre la que se maquilla
+27_preguntas_ip	67	02	Alteraciones de origen vascular
+27_preguntas_ip	68	02	Origen de los principios activos de la higiene facial
+27_preguntas_ip	79	02	Factores climáticos que influyen sobre la piel
+27_preguntas_ip	94	02	La piel seca alípica
+27_preguntas_ip	18	03	Los filtros de color de iluminación y la paleta del maquillaje
+27_preguntas_ip	35	03	Colores que agrisan en las pieles de color
+27_preguntas_ip	36	03	El acabado del fondo de maquillaje
+27_preguntas_ip	49	03	La pre-base que neutraliza las pieles cetrinas
+27_preguntas_ip	69	03	El pelo sintético que imita al natural
+27_preguntas_ip	70	03	El pelo animal de los pinceles finos y suaves
+27_preguntas_ip	78	03	La técnica del «baking»
+27_preguntas_ip	96	03	El maquillaje para cámara de alta definición
+27_preguntas_ip	13	04	Las tijeras de una sola hoja dentada
+27_preguntas_ip	31	04	El cardado suave: el crepado
+27_preguntas_ip	33	04	El mordentado
+27_preguntas_ip	37	04	Cada cuánto se corta el cabello
+27_preguntas_ip	80	04	La queratina
+27_preguntas_ip	82	04	Cómo se clasifica el pelo
+27_preguntas_ip	83	04	El pelo terminal
+27_preguntas_ip	88	04	La duración de la fase de transición
+27_preguntas_ip	95	04	Para qué sirve un champú ácido
+27_preguntas_ip	16	05	El «mastix»
+27_preguntas_ip	27	05	La sujeción de una media peluca
+27_preguntas_ip	28	05	La tonsura
+27_preguntas_ip	29	05	El kanecalón
+27_preguntas_ip	30	05	El pelo de las pelucas de los jueces británicos
+27_preguntas_ip	34	05	La montura de una peluca
+27_preguntas_ip	41	05	Por qué el tul es de orificios hexagonales
+27_preguntas_ip	45	05	El palillero
+27_preguntas_ip	50	05	El otro nombre del peluquín
+27_preguntas_ip	54	05	Qué es picar
+27_preguntas_ip	59	05	El «chignon»
+27_preguntas_ip	60	05	Dónde se usa el tul más rígido
+27_preguntas_ip	65	05	El largo de una peluca
+27_preguntas_ip	66	05	Cuántas medidas necesita una peluca
+27_preguntas_ip	85	05	El cabello de menor calidad para postizos
+27_preguntas_ip	9	06	El ángulo contra cenital
+27_preguntas_ip	17	06	El plano americano
+27_preguntas_ip	19	06	El valor del tono
+27_preguntas_ip	20	06	La saturación
+27_preguntas_ip	21	06	Los colores análogos
+27_preguntas_ip	23	06	El rácord en el trabajo de plató
+27_preguntas_ip	24	06	La mezcla de los colores luz primarios
+27_preguntas_ip	42	06	Qué es un script
+27_preguntas_ip	51	06	El plano corto
+27_preguntas_ip	52	06	Qué significa rácord
+27_preguntas_ip	63	06	Las características de la iluminación
+27_preguntas_ip	64	06	La clasificación de las fuentes de luz
+27_preguntas_ip	71	06	El aparato que mide la luz
+27_preguntas_ip	72	06	Los filtros de luz en blanco y negro
+27_preguntas_ip	74	06	Los colores complementarios
+27_preguntas_ip	76	06	La fecha de las primeras emisiones de TVE
+27_preguntas_ip	89	06	Quién coordina el equipo en plató
+27_preguntas_ip	91	06	La fuente de luz de mayor temperatura de color
+27_preguntas_ip	92	06	El efecto de un filtro azul sobre el rojo
+27_preguntas_ip	93	06	Qué es el chroma
+27_preguntas_ip	10	08	El canon de proporciones del rostro
+27_preguntas_ip	11	08	El ancho del rostro en longitudes de ojo
+27_preguntas_ip	12	08	La forma en que se encaja el ojo
+27_preguntas_ip	32	08	El corte para un rostro triangular masculino
+27_preguntas_ip	61	08	La cara leptoprosopa
+27_preguntas_ip	86	08	El corte que acorta un rostro alargado
+27_preguntas_ip	90	08	El rostro triangular o de corazón
+27_preguntas_ip	14	09	El germicida

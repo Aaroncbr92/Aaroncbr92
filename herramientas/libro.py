@@ -384,6 +384,54 @@ AVISOS_DISENO_GRAFICO = {
         "lo declara</b> en vez de inventarle un encaje.",
 }
 
+# Avisos del cuadernillo de Imagen Personal. Ninguna respuesta oficial de este
+# bloque se puede dar por errónea contra una fuente, porque **este anexo no
+# nombra ninguna**: sus nueve puntos van enteros como oficio. Lo que sí hay son
+# **una pregunta anulada por la propia plantilla** y **tres criterios de examen
+# que la práctica corriente de la profesión discute**. Van declarados uno a uno,
+# porque callarlos sería dar por unánime lo que no lo es
+AVISOS_IMAGEN_PERSONAL = {
+    "27_preguntas_ip \u00b7 n\u00ba 57":
+        "<b>ANULADA en la plantilla oficial.</b> La respuesta marcada era la <b>a) los a\u00f1os "
+        "20</b>, y el corte a lo <i>gar\u00e7on</i> a la altura del ment\u00f3n es efectivamente de "
+        "esa d\u00e9cada. <b>La pregunta no punt\u00faa igualmente</b>: se estudia el dato y no se "
+        "cuenta el punto.",
+    "27_preguntas_ip \u00b7 n\u00ba 43":
+        "<b>El nombre que la plantilla da por bueno no es el de la bibliograf\u00eda corriente.</b> "
+        "El peinado de Ver\u00f3nica Lake se conoce habitualmente como <i>peek-a-boo</i>, por el "
+        "mech\u00f3n que tapa un ojo; la plantilla da <b>c) Camuflaje</b>. <b>Es coherente con lo que "
+        "ocurri\u00f3</b> \u2014en plena guerra la actriz cambi\u00f3 el peinado porque el "
+        "mech\u00f3n causaba accidentes en las f\u00e1bricas\u2014, as\u00ed que <b>se contesta "
+        "\u00abcamuflaje\u00bb y se sabe de d\u00f3nde sale</b>.",
+    "27_preguntas_ip \u00b7 n\u00ba 12":
+        "<b>El criterio del examen no es el de la bibliograf\u00eda de dibujo.</b> La plantilla "
+        "encaja el ojo <b>en un c\u00edrculo</b>; la pr\u00e1ctica corriente del visagismo y del "
+        "dibujo lo encaja <b>en un rombo o en una almendra</b>, que el propio examen ofrece como "
+        "opciones. <b>Se contesta con la plantilla</b> y el tema 8 lo declara.",
+    "27_preguntas_ip \u00b7 n\u00ba 49":
+        "<b>Hay bibliograf\u00eda de la profesi\u00f3n que responde lo contrario.</b> La plantilla "
+        "neutraliza la piel cetrina \u2014de tono amarillo verdoso\u2014 con la <b>pre-base "
+        "anaranjada</b>, que aporta calidez y luz. El razonamiento de neutralizaci\u00f3n por el "
+        "color opuesto llevar\u00eda al <b>malva</b>, que es una de las opciones. <b>Se contesta "
+        "anaranjada</b> y el tema 3 explica las dos lecturas.",
+    "27_preguntas_ip \u00b7 n\u00ba 69":
+        "<b>Las dos fibras que la pregunta enfrenta son de la misma familia.</b> La plantilla da "
+        "<b>a) Toray</b> como el sint\u00e9tico que puede pasar por pelo natural; el <b>taklon</b>, "
+        "que aparece como opci\u00f3n, es la otra fibra que la bibliograf\u00eda nombra con esa "
+        "misma cualidad. <b>Se contesta Toray</b> y se sabe por qu\u00e9 la otra atrae.",
+    "27_preguntas_ip \u00b7 n\u00ba 30":
+        "<b>La opci\u00f3n que atrae es la del taller.</b> La plantilla da <b>d) pelo de "
+        "caballo</b> \u2014la peluca judicial brit\u00e1nica se fabrica con crin\u2014 y el examen "
+        "ofrece al lado el <b>pelo de yak</b>, que es el material cl\u00e1sico de la poster\u00eda "
+        "para barbas y para pelo blanco. <b>Se contesta caballo.</b>",
+    "27_preguntas_ip \u00b7 n\u00ba 22":
+        "<b>La t\u00e9cnica es anterior a la d\u00e9cada que la plantilla marca.</b> La "
+        "\u00abboca de asco\u00bb \u2014labio superior redibujado hacia arriba y hacia "
+        "fuera\u2014 nace en los <b>a\u00f1os treinta</b> y la plantilla la sit\u00faa en los "
+        "<b>cuarenta</b>, que es cuando se generaliza. <b>Se contesta cuarenta.</b>",
+}
+
+
 AVISOS_ING_TEC_TELECO = {
     "50_preguntas_tec_teleco \u00b7 n\u00ba 9":
         "<b>La pregunta nombra un organismo que dej\u00f3 de existir con ese nombre en 2013.</b> Sus "
@@ -1013,6 +1061,70 @@ BLOQUES = {
     # dieciséis bancos van a None y el volumen sólo lleva el del tema compartido de
     # prevención. No es un hueco del proyecto: es un dato de la convocatoria, y va
     # dicho en la portada y en el apéndice de respuestas en vez de disimulado.
+    # Nueve puntos del anexo y nueve temas, m\u00e1s el compartido de prevenci\u00f3n. Aqu\u00ed
+    # tampoco se une ni se parte ning\u00fan punto: cada uno es una materia distinta
+    # del oficio. El punto 7 \u2014recreaci\u00f3n de personajes\u2014 no ha dado ni una
+    # pregunta y su banco no existe: en su lugar va None. Se desarrolla igual
+    "imagen-personal": dict(
+        carpeta="imagen-personal",
+        rotulo="Temario espec\u00edfico \u00b7 Imagen Personal",
+        ocupacion="Imagen Personal",
+        titulo="Temario espec\u00edfico",
+        subtitulo="Los diez temas de <b>Imagen Personal</b>",
+        pie="Oposiciones RTVE \u2013 Imagen Personal",
+        avisos=dict(AVISOS_IMAGEN_PERSONAL, **AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "historia-del-maquillaje-y-el-peinado", "imagen-personal-01"),
+            (2, "la-piel-tipos-preparacion-y-desmaquillado", "imagen-personal-02"),
+            (3, "el-maquillaje-tecnicas-productos-y-utensilios", "imagen-personal-03"),
+            (4, "la-peluqueria-el-cabello-tecnicas-y-productos", "imagen-personal-04"),
+            (5, "posticeria", "imagen-personal-05"),
+            (6, "terminologia-tecnica-en-medios-audiovisuales-y-escenicos", "imagen-personal-06"),
+            (7, "recreacion-de-personajes", None),
+            (8, "asesoria-visagismo-correcciones-y-tendencias", "imagen-personal-08"),
+            (9, "higiene-desinfeccion-y-conservacion-del-material", "imagen-personal-09"),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Ninguna respuesta oficial de este bloque se puede dar por mal\u00a0"
+                         "corregida contra una fuente</b>, y hay que decir por qu\u00e9: <b>este "
+                         "anexo no nombra ninguna norma</b>, y sus nueve puntos van enteros como "
+                         "oficio de la profesi\u00f3n. <b>Una pregunta est\u00e1 ANULADA por la "
+                         "propia plantilla</b> \u2014la 57, sobre la d\u00e9cada del corte a lo "
+                         "<i>gar\u00e7on</i>\u2014 y <b>seis llevan observaci\u00f3n</b>, porque "
+                         "el criterio que puntúa no es el \u00fanico que la profesi\u00f3n "
+                         "maneja. Van declaradas una a una, con lo que dice la plantilla y lo que "
+                         "dice la pr\u00e1ctica corriente al lado. <b>Ninguna pregunta de este "
+                         "cuadernillo depende de una figura.</b>",
+        aviso_portada="<p><b>Cinco plazas convocadas</b> en la convocatoria 1/2025 y <b>noventa y "
+                      "seis preguntas</b> de un cuadernillo con su plantilla completa: <b>ochenta "
+                      "principales m\u00e1s diecis\u00e9is de reserva</b>. <b>Ochenta y cuatro son "
+                      "del espec\u00edfico y est\u00e1n todas repartidas</b>; diez son del bloque "
+                      "com\u00fan y dos, del tema compartido de prevenci\u00f3n.</p>"
+                      "<p><b>Es la ocupaci\u00f3n menos normativa de todo el proyecto</b>, y eso "
+                      "cambia c\u00f3mo se estudia: <b>su anexo no nombra ni una sola norma</b>. "
+                      "Nueve enunciados de una l\u00ednea, sin un real decreto detr\u00e1s. El "
+                      "temario lo declara y lo escribe como lo que es: <b>oficio de "
+                      "caracterizaci\u00f3n, de peluquer\u00eda y de plat\u00f3</b>, con los datos "
+                      "que s\u00f3lo constan en la plantilla oficial dichos con esa palabra al "
+                      "lado.</p>"
+                      "<p><b>Y el reparto de preguntas ordena el estudio.</b> Dos puntos se llevan "
+                      "<b>treinta y cinco de las ochenta y cuatro</b>: el de "
+                      "<b>terminolog\u00eda t\u00e9cnica de medios audiovisuales</b>, con veinte, "
+                      "y el de <b>historia del maquillaje y el peinado</b>, con diecinueve. La "
+                      "<b>poster\u00eda</b> a\u00f1ade quince. <b>Entre los tres, el 64 % del "
+                      "examen espec\u00edfico.</b></p>"
+                      "<p><b>El punto de terminolog\u00eda es el que m\u00e1s desconcierta y el "
+                      "que m\u00e1s punt\u00faa</b>: no pregunta de maquillaje ni de "
+                      "peluquer\u00eda, <b>pregunta de plat\u00f3</b> \u2014planos, luz, color, "
+                      "r\u00e1cord, chroma y qui\u00e9n es qui\u00e9n\u2014. Es exactamente lo "
+                      "que separa a quien maquilla de quien maquilla <b>para una c\u00e1mara</b>, y "
+                      "por eso el anexo lo pide.</p>"
+                      "<p>Y <b>un punto no ha dado ni una pregunta</b>: el 7, el de "
+                      "<b>recreaci\u00f3n de personajes</b>. Se escribe igual, contra el programa, "
+                      "y el temario dice por qu\u00e9 cree que no ha ca\u00eddo y qu\u00e9 "
+                      "caer\u00eda si cayera.</p>",
+    ),
     "ing-tec-industrial": dict(
         carpeta="ing-tec-industrial",
         rotulo="Temario espec\u00edfico \u00b7 Ing. T\u00e9cnica Industrial",

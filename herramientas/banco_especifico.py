@@ -81,7 +81,10 @@ SOLO = {"produccion": ("81_preguntas_produccion",),
         # «teleco» aparece en dos nombres de cuadernillo —el de la
         # Ingeniería Técnica y el de la Superior—, así que cada ocupación
         # dice cuál es el suyo
-        "ing-tec-teleco": ("50_preguntas_tec_teleco",)}
+        "ing-tec-teleco": ("50_preguntas_tec_teleco",),
+        # «ip» es una subcadena de `58_preguntas_mont_equip_audio`, así que esta
+        # ocupación no se puede buscar por nombre: dice cuál es su cuadernillo
+        "imagen-personal": ("27_preguntas_ip",)}
 
 
 def reparto(ocupacion):
@@ -241,6 +244,18 @@ TITULOS = {
         "17": "Ing. Técnica Telecomunicación · Tema 17 · Seguridad en las instalaciones técnicas",
         "18": "Ing. Técnica Telecomunicación · Tema 18 · Seguridad de la información",
         "19": "Ing. Técnica Telecomunicación · Tema 19 · Protección de datos personales",
+    },
+    "imagen-personal": {
+        "01": "Imagen Personal · Tema 1 · Historia del maquillaje y el peinado",
+        "02": "Imagen Personal · Tema 2 · La piel: tipos, preparación y desmaquillado",
+        "03": "Imagen Personal · Tema 3 · El maquillaje: técnicas, productos y utensilios",
+        "04": "Imagen Personal · Tema 4 · La peluquería: el cabello, técnicas y productos",
+        "05": "Imagen Personal · Tema 5 · Posticería",
+        "06": "Imagen Personal · Tema 6 · Terminología técnica en medios audiovisuales "
+              "y escénicos",
+        "07": "Imagen Personal · Tema 7 · Recreación de personajes",
+        "08": "Imagen Personal · Tema 8 · Asesoría: visagismo, correcciones y tendencias",
+        "09": "Imagen Personal · Tema 9 · Higiene, desinfección y conservación del material",
     },
     "diseno-grafico": {
         "01": "Diseño Gráfico · Tema 1 · Óptica: la luz, el color y la imagen",

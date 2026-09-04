@@ -728,6 +728,39 @@ guion poniendo la sinopsis después del argumento, y la 28 del cuadernillo de In
 ordena al revés. **Las dos respuestas oficiales son correctas dentro de su propio examen.** El temario
 lo declara como dos escuelas, no como error, y sigue en cada ocupación la convención de su enunciado.
 
+### Imagen Personal
+
+**84 preguntas** del cuadernillo de **Imagen Personal** de 2024, repartidas entre los nueve temas en
+que este proyecto desarrolla su Anexo 2. De las 96 del cuadernillo, **diez son del bloque común** —la
+2, la 5 y la 7 de la Constitución; la 3, la 6, la 8, la 84 y la 87 del III Convenio; la 1 del II Plan
+de Igualdad y la 4 de la Ley 8/2009— y **dos son del tema compartido de prevención**, la 40 y la 73,
+repartidas a mano en `reclasificadas.tsv` porque el punto 10 del anexo las pide.
+
+**El reparto es de los más desiguales del proyecto y ordena el estudio.** **Tres temas se llevan
+cincuenta y cuatro de las ochenta y cuatro: el 64 %.** El de **terminología técnica de medios
+audiovisuales**, con veinte; el de **historia del maquillaje y el peinado**, con diecinueve; y el de
+**posticería**, con quince. En el otro extremo, **la piel se lleva cinco, la higiene una y la
+recreación de personajes ninguna.**
+
+**El punto que más puntúa es el que menos parece de la ocupación.** Las veinte preguntas del tema 6 no
+son de maquillaje ni de peluquería: son de **plató** —planos, luz, color, rácord, chroma y quién es
+quién—. Es lo que separa a quien maquilla de quien maquilla **para una cámara**.
+
+**Una pregunta está ANULADA por la propia plantilla**: la **nº 57**, sobre la década del corte a lo
+*garçon*. La respuesta que marcaba era correcta y la pregunta no puntúa igualmente. **Se reparte con su
+aviso**, porque el dato sigue siendo materia del programa.
+
+**Y seis llevan observación declarada, ninguna es errata de plantilla**: la **12** —el ojo encajado en
+un círculo y no en un rombo—, la **22** —la «boca de asco» en los cuarenta y no en los treinta—, la
+**30** —pelo de caballo frente al yak del taller—, la **43** —«camuflaje» frente a *peek-a-boo*—, la
+**49** —pre-base anaranjada frente a malva para la piel cetrina— y la **69** —Toray frente a taklon—.
+**No se declaran erratas y hay una razón**: **una errata se declara contra una fuente, y este anexo no
+nombra ninguna.** Lo que hay es una discrepancia entre dos usos de la profesión, **y eso el temario lo
+enseña en vez de corregirlo**.
+
+**Ninguna pregunta de este cuadernillo depende de una figura.**
+
+
 ### Ingeniería Técnica · Industrial
 
 **Ninguna pregunta, y hay que decirlo aquí antes que en ningún otro sitio.** **Es la primera ocupación

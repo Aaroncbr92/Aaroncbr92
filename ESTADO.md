@@ -4,27 +4,27 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-04 (Ingeniería Técnica · Industrial)
+**Última actualización:** 2026-09-04 (Imagen Personal)
 
 ## Qué es esto
 
-Diecisiete temarios de oposición de RTVE, por ocupación tipo: **Producción
+Dieciocho temarios de oposición de RTVE, por ocupación tipo: **Producción
 (Asistencia)**, **Producción**, **Realización (Asistencia)**, **Realización
 Televisión**, **Documentación**, **Información y Contenidos**, **Gestión
 Administrativa**, **Gestión**, **Montaje de Equipos Audiovisuales**, **Edición,
 Montaje y Procesos Audiovisuales**, **Información Gráfica y Captación de Imagen
 y Sonido**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica
-Informática**, **Diseño Gráfico**, **Ingeniería Técnica · Telecomunicación** e
-**Ingeniería Técnica · Industrial**. El programa sale del ANEXO 2 de las bases,
-transcrito literal en `convocatoria/`.
+Informática**, **Diseño Gráfico**, **Ingeniería Técnica · Telecomunicación**,
+**Ingeniería Técnica · Industrial** e **Imagen Personal**. El programa sale del
+ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
 
-Las diecisiete comparten el mismo temario general —**comprobado byte a byte**: el
+Las dieciocho comparten el mismo temario general —**comprobado byte a byte**: el
 bloque común es idéntico en todos los anexos; sólo cambia el pie de página— y
-**las diecisiete** tienen en su bloque específico un tema de prevención de riesgos
+**las dieciocho** tienen en su bloque específico un tema de prevención de riesgos
 laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con **doce
 rúbricas de las que ninguna ocupación lleva todas** y **seis redacciones
 distintas del enunciado**. Por eso los cuerpos de tema llenan las posiciones de
-los **dieciocho volúmenes**: los ocho generales y el de prevención van
+los **diecinueve volúmenes**: los ocho generales y el de prevención van
 repetidos. El reparto y el orden están en `PLAN.md`.
 
 **Y una de las diecisiete no tiene examen publicado**: Ingeniería Técnica ·
@@ -921,6 +921,49 @@ en Documentación y en Producción (Asistencia).
       paridad y de anidamiento por párrafo y **se han reparado 86 apariciones**. **Ninguna de las
       cuatro lentes lo detectaba**, porque ninguna mira cómo se renderiza el texto: va a
       `PENDIENTES.md`.
+
+- [x] **Fase I: Imagen Personal, terminada el 2026-09-04.** 9 temas propios más el de prevención,
+      **23.830 palabras de tema y 11.217 de esquema**, **84 preguntas del específico** de un
+      cuadernillo de 96 con su plantilla completa. **5 plazas en la convocatoria 1/2025.** Con ella
+      el proyecto llega a **1.843 preguntas específicas** repartidas en diecisiete bancos. **Ninguna
+      respuesta oficial nueva es errónea**, **una está ANULADA por la propia plantilla** y **seis
+      llevan observación declarada.** **La cuenta de erratas de plantilla del proyecto sigue en
+      diez.**
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) La primera ocupación cuyo anexo NO NOMBRA NI UNA NORMA.** Sus nueve puntos del específico
+      son enunciados de una línea sin un real decreto detrás. **Es la ocupación menos normativa del
+      proyecto**, y la contraria exacta de Ingeniería Técnica · Industrial, con veintitrés normas.
+      **Los nueve temas van enteros como oficio, y así se declara.**
+      **2) Media herramienta de refutación se queda sin objeto, y eso hay que escribirlo.** **Sin
+      norma no hay cita literal**, así que `refutar_exactitud` devolvería «0 comprobadas, 0 no
+      literales» en los nueve temas, **y ese cero no dice que los temas estén bien: dice que la
+      lente no ha mirado.** `refutar_documento` tampoco aplica, porque **no hay documento**.
+      **Publicar el cero sin explicarlo sería el fallo del apartado 10 otra vez.**
+      **3) Lo que sustituye a las dos lentes que faltan, y queda escrito como procedimiento**:
+      **cobertura pregunta a pregunta** —84 de 84—, **contraste opción a opción contra la plantilla
+      oficial** —coincide en las 84, con seis observaciones— y **declaración de procedencia**: todo
+      dato cuya única constancia sea la plantilla va dicho con esa palabra al lado, en la
+      trazabilidad de cada tema.
+      **4) Una discrepancia sin fuente NO es una errata.** **Este proyecto declara errata de
+      plantilla cuando la respuesta oficial es demostrablemente falsa contra una FUENTE**, y aquí no
+      hay ninguna contra la que declararla. Lo que hay son **seis casos en que el criterio del
+      examen no es el único que la profesión maneja** —el ojo en un círculo y no en un rombo, la
+      «boca de asco» en los cuarenta, el «camuflaje» de Verónica Lake, el pelo de caballo frente al
+      yak, la pre-base anaranjada frente al malva y el Toray frente al taklon—. **El temario enseña
+      las dos lecturas y no elige por el opositor.**
+      **5) Segunda pregunta ANULADA por un tribunal en todo el proyecto.** La 57, sobre la década
+      del corte a lo *garçon*: **la respuesta marcada era correcta y la pregunta no puntúa
+      igualmente.** **Se conserva con su aviso**: se pierde el punto, no el dato.
+      **6) El punto que más puntúa es el que menos parece de la ocupación.** **Veinte de las ochenta
+      y cuatro preguntas son de PLATÓ** —planos, luz, color, rácord, chroma y quién es quién—, no de
+      maquillaje ni de peluquería. **Es lo que separa a quien maquilla de quien maquilla para una
+      cámara**, y por eso el anexo lo pide.
+      **7) Y otro punto a cero que es el que mejor describe el oficio**: el 7, recreación de
+      personajes. **Le pasa lo mismo que a la ingeniería de implantación en Telecomunicación**: **el
+      examen escrito no sabe preguntar lo que se demuestra haciendo.** **Eso no rebaja el punto:
+      cambia cómo se escribe su tema**, que va corto, de definiciones y de método, sin fórmulas ni
+      procedimientos de taller.
 
 ## Qué comprobación pasa por qué material
 
