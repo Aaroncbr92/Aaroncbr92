@@ -1,0 +1,639 @@
+Notas Técnicas de Prevención
+1.191
+AÑO 2024
+Salud cardiovascular: recomendaciones para 
+su gestión en el ámbito laboral.
+Santé cardiovasculaire: recommandations pour la gestion dans le domaine du travail. 
+Cardiovascular health: recommendations for its management at the workplace.
+Autor:
+Instituto Nacional de Seguridad y Salud en el Trabajo 
+(INSST), O.A., M.P.
+Elaborado por:
+Mª Dolores Solé Gómez
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO. INSST
+Ferran Pons Solé
+Médico especialista en cardiología.
+La patología cardiovascular, muy diversa en sus causas y 
+en sus manifestaciones, es una enfermedad que afecta a las 
+diferentes estructuras del aparato cardiocirculatorio. Se 
+trata de una patología crónica evolutiva ligada a la edad 
+que puede verse acelerada o precipitada por una serie de 
+factores tanto de origen laboral como extralaboral. En esta 
+NTP se apuntarán algunas recomendaciones generales 
+para evitar la aparición o el empeoramiento de esta patolo-
+gía, haciendo hincapié por su relevancia en la cardiopatía 
+isquémica y la enfermedad cerebrovascular.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en 
+una disposición normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas 
+en una NTP concreta es conveniente tener en cuenta su fecha de edición.
+1. INTRODUCCIÓN 
+La patología cardiovascular es la primera causa de 
+muerte a nivel mundial. Según los últimos datos publi-
+cados en 2019 por la Organización Mundial de la Salud 
+(OMS), esta fue responsable de más de 17,9 millones 
+de fallecimientos. Esto representa un 32% de todas las 
+muertes registradas ese año.
+Según el Instituto Nacional de Estadística (INE), en 
+2022, el grupo de enfermedades del sistema circulatorio 
+se mantuvo como primera causa de muerte en España 
+con el 26% del total. A nivel más detallado, la enferme-
+dad isquémica cardiaca y las enfermedades cerebro-
+vasculares (los dos tipos de patología cardiovascular 
+más frecuentes) fueron la segunda y tercera causa de 
+muerte después de la COVID-19 con virus identificado. 
+La importancia de la patología cardiovascular en el 
+ámbito laboral es incuestionable no tan solo por las 
+repercusiones sobre la morbimortalidad de la población 
+trabajadora sino también por el impacto que la mala 
+salud cardiovascular puede tener en la empresa. Por un 
+lado, el sistema cardiovascular puede resultar afectado 
+por factores de riesgo de origen laboral (agentes quí-
+micos, biológicos, físicos y psicosociales). Por otro, la 
+mala salud cardiovascular puede repercutir en un menor 
+rendimiento, mayor absentismo, mayor presentismo o 
+mayor rotación de personal con el consiguiente impacto 
+en los resultados de la organización.
+Según la estimación de la Asociación de Mutuas de 
+Accidentes de Trabajo (AMAT), las enfermedades car-
+diovasculares causan al año unos 70.000 procesos de 
+incapacidad temporal, generalmente de larga duración 
+y con alta probabilidad de acabar en un abandono pre-
+maturo del trabajo. 
+De acuerdo con el Observatorio de Condiciones de 
+Trabajo del INSST, las enfermedades cardiovasculares 
+también son la principal causa de muerte por acciden-
+tes de trabajo durante la jornada de trabajo, represen-
+tando más del 40% del total de fallecimientos por causa 
+laboral ocurridos en el año 2022.
+El alcance del problema tanto en las personas como 
+en la organización apoya la idoneidad del estableci-
+miento de programas de salud cardiovascular en la 
+empresa. En la figura 1 se resumen las dimensiones 
+a tener en cuenta a la hora de diseñar una estrate-
+gia de intervención en la empresa para evitar el daño 
+(prevención de riesgos laborales) y mejorar la salud 
+(promoción de la salud) en la esfera de la patología 
+cardiovascular. En este documento proporcionaremos 
+recomendaciones para la acción sobre cada una de 
+estas dimensiones.
+Figura 1. Dimensiones de la gestión de la salud cardiovascular 
+en el ámbito laboral.
+2. SALUD CARDIOVASCULAR Y CONDICIONES 
+DE TRABAJO
+El objeto de este apartado es recordar, de forma resu-
+mida y no exhaustiva, los principales factores de riesgo 
+
+2
+Notas Técnicas de Prevención
+de origen laboral que pueden suponer un daño para el 
+aparato cardiovascular. Estos factores se referencian en 
+la figura 2. 
+Figura 2. Principales factores de riesgo de origen laboral que 
+pueden suponer un daño para el aparato cardiovascular.
+Su prevención y manejo se basa en la identificación, 
+evaluación y control del riesgo, así como en la puesta en 
+marcha de medidas preventivas ad hoc.  
+Estos factores pueden ser causa directa de daño (ej.: ex-
+posición a fósforo como causa de miocarditis tóxica), contribu-
+yente al asociarse con otros factores de riesgo personales o 
+extralaborales (ej.: trabajo a turnos asociado a hábitos de vida 
+no saludables) o precipitante externo (situación estresante que 
+desestabiliza una enfermedad cardiovascular preexistente). 
+Agentes químicos, físicos y biológicos
+La toxicidad cardiovascular de estos agentes puede ma-
+nifestarse clínicamente de diferentes formas, siendo las 
+más frecuentes los cambios de presión arterial, la isquemia 
+miocárdica, las arritmias y la insuficiencia cardíaca.  Sus 
+efectos pueden ser tanto agudos como crónicos. 
+En la tabla 1 se listan los principales efectos sobre el 
+aparato cardiovascular (agudos o crónicos) y algunos ejem-
+plos de agentes químicos, físicos y biológicos que pueden 
+producirlos. 
+EFECTOS
+QUÍMICOS
+FÍSICOS
+BIOLÓGICOS
+Arritmias
+Plomo, Antimonio,
+Hidrocarburos clorados, 
+Compuestos orgánicos nitrogenados.
+Electricidad
+Enfermedad isquémica
+Monóxido de carbono, Nitroglicerina, Nitrogli-
+col, Dinitrato de etilenglicol, Cadmio, Disulfuro 
+de carbono, Cloruro de metileno, Hidrocarbu-
+ros halogenados.
+Frío o calor extremos 
+(Enfermedad cardio-
+vascular preexistente/
+subyacente)
+Hipertensión arterial
+Arsénico, Plaguicidas organofosforados y 
+carbamatos, Plomo, Cadmio, Vanadio.
+Ruido 
+Frío
+Miocardiopatías
+Antimonio, Arsénico, Cobalto, Disulfuro 
+de carbono, Fósforo, Mercurio, Monóxido 
+de carbono, Plaguicidas organoclorados y 
+organofosforados.
+Aire comprimido 
+(Enfermedad cardio-
+vascular preexistente/
+subyacente)
+Citomegalovirus, 
+Paramixovirus, 
+Leptospira, Borrelia burgdor-
+feri, Brucella, Coxiella burnet-
+ti, Actinomyces
+Arteriopatías periféricas
+Arsénico, Cloruro de vinilo monómero, Plomo.
+Vibraciones, Frío 
+(enfermedad vascular 
+concurrente)
+Tabla 1.  Ejemplos de factores químicos, físicos y biológicos con efectos sobre el aparato cardiovascular (producción propia).
+Factores psicosociales, organizativos y ergonómicos
+La literatura médica en torno a la enfermedad cardio-
+vascular y su relación con el trabajo es muy abundante, 
+destacando especialmente la relativa al impacto del es-
+trés crónico de origen laboral en el desarrollo de dicha 
+patología, así como en el riesgo de presentar un evento 
+súbito como el infarto en situaciones puntuales de “ten-
+sión laboral”. 
+Los mecanismos probables que explican ese riesgo 
+incluyen tanto vías fisiológicas como conductuales, po-
+siblemente de forma conjunta. Por un lado, se ha aso-
+ciado la presencia de estrés crónico con indicadores de 
+control glicémico adversos, deterioro de la inmunidad y 
+una acumulación acelerada de daño molecular y celular. 
+Por otro lado, las emociones negativas pueden aumentar 
+la probabilidad de adoptar conductas de riesgo como el 
+tabaquismo, la ingesta calórica excesiva, la disminución 
+de la actividad física, los trastornos del sueño y el consu-
+mo de alcohol y otras drogas, o incluso interfiriendo en la 
+adherencia al tratamiento en personas con enfermedad 
+cardiovascular diagnosticada. 
+El trabajo a turnos, las largas jornadas de trabajo, la 
+falta de autonomía y una carga de trabajo excesiva son los 
+elementos más citados como factores de riesgo de mor-
+bimortalidad cardiovascular y, en concreto, de cardiopatía 
+isquémica.
+Se incluye en este apartado el sedentarismo (factor de 
+riesgo independiente de la inactividad física), dado que 
+el mantenimiento de posturas sedentarias en el trabajo 
+depende tanto de las condiciones físicas como organi-
+zativas del trabajo. 
+Estrés laboral
+El estrés laboral es una de las principales consecuencias de 
+la exposición a factores de riesgo psicosocial y puede pro-
+vocar múltiples alteraciones entre las cuales se encuentran 
+los trastornos cardiovasculares como hipertensión arterial, 
+dolor precordial y aumento de la incidencia de infarto de 
+
+3
+Notas Técnicas de Prevención
+miocardio. Unos puestos de trabajo mentalmente y emocio-
+nalmente saludables serán pues un elemento a considerar 
+en cualquier programa de prevención. El enfoque de estos 
+programas debe ser colectivo, mejorando las condiciones 
+de trabajo y evitando la exposición a factores estresores  e 
+individual, dotando a las personas trabajadoras de recursos 
+y estrategias para afrontar situaciones que generan estrés. 
+Ejemplos de intervención son:
+• Crear entornos de trabajo positivos, gratificantes y es-
+timulantes, así como una organización que dé apoyo 
+a sus trabajadores y trabajadoras.
+• Reducir las fuentes de estrés en el trabajo y desarrollar 
+la resiliencia mediante estrategias de afrontamiento.
+• Fomentar la cultura de empresa, la participación, la equi-
+dad y la justicia, y eliminar el estigma.
+Turnos
+El trabajo a turnos se ha relacionado en las personas ex-
+puestas con un aumento de la prevalencia de enferme-
+dades cardiovasculares, especialmente de cardiopatía is-
+quémica. A la disrupción de los ritmos circadianos con las 
+consiguientes alteraciones en el metabolismo de la glucosa 
+y lipídico y de la regulación del sistema nervioso autónomo, 
+se suma la mayor tendencia a llevar una dieta menos salu-
+dable y una menor práctica de actividad física. 
+La promoción de hábitos saludables a través de interven-
+ciones tanto individuales como sobre el entorno, adaptadas 
+a las peculiaridades de este tipo de trabajo, cobra una es-
+pecial relevancia. 
+Ejemplos de intervención son:
+• Sensibilizar sobre la especial necesidad de una buena 
+planificación de las comidas e informar de las pautas 
+alimentarias a seguir.
+• Poner a disposición opciones saludables, lugares ade-
+cuados y tiempo suficiente para comer. 
+• Informar sobre las medidas para mantener una buena 
+higiene del sueño, evitar el sedentarismo prolongado e 
+incrementar la actividad física. 
+Sedentarismo
+El sedentarismo debe diferenciarse de la inactividad física, 
+a pesar de que el primero contribuye al segundo. Se entien-
+de por sedentarismo cualquier comportamiento en vigilia, 
+mantenido en el tiempo y caracterizado por un bajo gasto 
+energético (entre 1 y 1,5 el gasto energético en reposo o 
+MET), en postura sentada, reclinada o acostada. Por otro 
+lado, la inactividad física consiste en no cumplir las reco-
+mendaciones sobre gasto energético diario a través de la 
+actividad física (OMS, 2020). 
+Los efectos ligados a las posturas sedentarias en el tra-
+bajo incluyen el aumento de la prevalencia de trastornos 
+cardiovasculares y su mortalidad, así como el aumento de 
+la tasa de mortalidad global por todas las causas. Se han 
+relacionado también con ciertos cánceres y el desarrollo 
+de obesidad, diabetes tipo 2 y trastornos osteomusculares 
+sobre todo a nivel lumbar. 
+Las medidas preventivas frente a este riesgo deben tener 
+como objetivo principal limitar la exposición. Se debe ac-
+tuar sobre el número y duración de los periodos de tiempo 
+ininterrumpido en los que se mantiene la postura sedenta-
+ria, así como sobre el tiempo total de mantenimiento de la 
+postura sedentaria durante la jornada laboral.
+Ejemplos de intervención son: 
+• Organizar la actividad diaria de forma que las personas 
+trabajadoras puedan alternar tareas en postura sentada 
+con otras que les permitan levantarse o desplazarse.
+• Permitir pausas activas y regulares, lo que disminuye el 
+tiempo de exposición y favorece la recuperación física. 
+• Diseñar el entorno y espacios de trabajo para promover 
+los desplazamientos.   
+Sobresfuerzo y carga física cardiovascular
+Otro de los factores de riesgo de origen laboral que pue-
+de suponer un daño para el aparato cardiovascular es el 
+sobresfuerzo.
+Existe una metodología bien definida para valorar de for-
+ma precisa el consumo energético durante la realización 
+de las tareas derivadas del puesto de trabajo, que permite 
+medir la penosidad de dichas tareas desde el punto de vista 
+cardiovascular. Se basa en las variaciones de la frecuencia 
+cardiaca de la persona trabajadora y su utilidad principal es 
+la adopción de medidas preventivas para limitar el impacto 
+en la salud. 
+La NTP 295 -1991 “Valoración de la carga física me-
+diante la monitorización de la frecuencia cardiaca” describe 
+las bases racionales de dicha metodología. El desarrollo 
+tecnológico de los últimos años en instrumentos de me-
+dida (portables tipo relojes o tejidos inteligentes) permite 
+mejorar esta monitorización mediante el análisis del trazado 
+electrocardiográfico. Se añade así información sobre otros 
+parámetros útiles como, por ejemplo, aparición de isquemia 
+cardiaca o arritmias.
+Ejemplos de intervención son:
+• Reestructurar las tareas para reducir el impacto 
+cardiovascular:
+– realizando ejercicios de calentamiento, ya sea al ini-
+ciar la jornada o antes de las tareas más exigentes, 
+para modular el impacto sobre el sistema nervioso 
+autónomo y evitar sobreesfuerzos,
+– permitiendo periodos de vuelta a la calma y una ade-
+cuada recuperación tras los esfuerzos,
+– mejorando el reparto de cargas o implementar ayu-
+das para su manejo.
+• Recomendar rutinas de ejercicio adaptadas a las tareas 
+a realizar (entrenamiento específico para mejorar las ca-
+pacidades cardiovasculares).
+Otras aplicaciones de la valoración de la carga física 
+cardiovascular del puesto de trabajo podrían ser:
+• Facilitar el retorno al trabajo tras haber sufrido una pato-
+logía cardiovascular. La valoración precisa de la carga 
+cardiovascular del puesto de trabajo y su comparación 
+con las capacidades de la persona permiten diseñar un 
+retorno seguro y progresivo.
+En ambos casos se podrán proponer programas de sa-
+lud enfocados a la mejora de las capacidades del trabaja-
+dor (rehabilitación) y adaptaciones de las condiciones de 
+trabajo (véase el apartado 5 sobre retorno y mantenimiento 
+del puesto de trabajo).
+Características generales del lugar de trabajo
+Es bien sabida la influencia de los hábitos de vida saluda-
+bles sobre el mantenimiento de una buena salud cardio-
+
+4
+Notas Técnicas de Prevención
+vascular. Dos de los pilares fundamentales son una dieta 
+variada y equilibrada y una actividad física adecuada y 
+suficiente. 
+Podemos, por lo tanto, promover la salud cardiovascular 
+a través del diseño del entorno y del acceso a recursos car-
+diosaludables que faciliten la adherencia a dichos hábitos. 
+Ejemplos de intervención son:
+• Diseñar escaleras de fácil acceso y agradables, con se-
+ñalización que anime a su uso en lugar de los ascensores.
+• Facilitar el acceso a espacios y programas de actividad 
+física, ya sea en la empresa o externos.
+• Promover pausas activas durante la jornada laboral o en 
+las reuniones de empresa.
+• Configurar rutas o paseos en los alrededores de la 
+empresa.
+• Incentivar el uso de transporte autopropulsado (ej.: a pie, 
+en bicicleta) en los desplazamientos hasta o desde el 
+puesto de trabajo.
+• Informar sobre las calorías, contenido en grasas satura-
+das o calidad nutricional de los platos ofertados en los 
+menús o en las vitrinas expositoras del comedor de la 
+empresa. 
+• Dar acceso a alimentos y bebidas adecuadamente iden-
+tificadas como saludables en el comedor, espacios de 
+descanso, reuniones o eventos. 
+3. SALUD CARDIOVASCULAR A TRAVÉS DE LA 
+SENSIBILIZACIÓN Y FORMACIÓN
+Tanto la sensibilización como la formación son dos estra-
+tegias imprescindibles para la comprensión, adquisición y 
+mantenimiento de prácticas saludables. La persona debe 
+reflexionar y llegar a la conclusión de que los cambios pro-
+puestos le convienen. Para ello es imprescindible propor-
+cionar la información de base necesaria para entender por 
+qué son importantes los cambios sugeridos y para facilitar 
+la reflexión y la toma de decisiones sobre su comporta-
+miento. No basta la mera transmisión de conocimiento a 
+través de carteles, folletos, seminarios o charlas. Se debe 
+instaurar un proceso planificado y sistemático de comuni-
+cación y enseñanza-aprendizaje en el que las personas 
+sepan definir sus necesidades y comprender qué pueden 
+hacer acerca de las mismas, con sus propios recursos y los 
+apoyos facilitados por la empresa. 
+En el ámbito de la patología cardiovascular, el fin último 
+de este proceso es: 
+• Concienciar sobre los beneficios de unos hábitos de vida 
+saludable para prevenir los trastornos cardiovasculares.
+• Conocer aquellos factores que hacen especialmente 
+vulnerable a su aparición. 
+• Ayudar a adoptar y mantener un estilo de vida cardiosa-
+ludable, fomentando el autocuidado.
+• Dar a conocer los programas de salud cardiovascular 
+que a nivel de empresa pretenden promover elecciones 
+saludables, evitar la aparición de patología y facilitar el 
+retorno al trabajo. 
+• Despertar y mantener su motivación para la adopción y 
+mantenimiento de hábitos de vida saludables.
+Ejemplos de intervención:
+• Sensibilizar sobre hábitos de vida saludables tratando 
+temas como la actividad física, el sedentarismo, la ali-
+mentación, el manejo del estrés, el tabaco, el alcohol, la 
+higiene del sueño, etc. 
+• Formar sobre la detección de síntomas de alarma: reco-
+nocimiento y manejo de aquellos síntomas y signos que 
+sugieren el desarrollo o aparición de un problema cardio-
+vascular (ej. dolor torácico, trastornos neurológicos, etc.).
+• Formar para una correcta actuación ante una parada car-
+diorrespiratoria: maniobras básicas de reanimación y uso 
+de desfibriladores externos. 
+Ejemplos de medidas para mantener la motivación son:
+• Proporcionar información de los resultados y del progreso 
+obtenido tanto a nivel privado (durante el examen médico) 
+como público (rankings, noticias en los medios de comu-
+nicación de la empresa).
+• Proponer técnicas de auto-registro y auto-refuerzo. El se-
+guimiento individual puede facilitarse a través de diarios, 
+aplicaciones de salud, plataformas para definir y controlar 
+objetivos.
+• Establecer un sistema de incentivos (personales, grupa-
+les o para la comunidad) en función de los logros, esfuer-
+zo realizado, objetivos conseguidos.
+• Maximizar la influencia social, favoreciendo la interac-
+ción entre las personas trabajadoras o promoviendo la 
+noción de equipo, organizando actividades con familiares 
+y amigos.
+4. SALUD CARDIOVASCULAR A TRAVÉS DE LA 
+MEDICINA DEL TRABAJO
+En el marco de la normativa sobre vigilancia de la salud, 
+los profesionales sanitarios de los servicios de prevención 
+de riesgos laborales llevan a cabo múltiples acciones para 
+proteger y mantener la salud de las personas trabajadoras. 
+En dicho marco normativo, la salud cardiovascular solamen-
+te se enfoca si tienen relación con la exposición a factores 
+de riesgo laboral. Sin embargo, la vigilancia de la salud es 
+una oportunidad para convertir a la empresa en un ámbito 
+de intervención más amplio sobre la salud cardiovascular. 
+A continuación, se proporciona un listado con ejemplos de 
+acciones que pretenden aprovechar esa oportunidad: 
+• Promoción de la salud cardiovascular dirigida a la totali-
+dad de la plantilla. 
+• Identificación, seguimiento y control de los factores de 
+riesgo no laborales para la salud cardiovascular tanto a 
+nivel individual como colectivo orientando las interven-
+ciones en función del nivel de riesgo. Por la relevancia 
+que están cobrando en los últimos tiempos, se recomien-
+da prestar especial atención a dos grupos de elevada 
+vulnerabilidad ante la patología cardiovascular: mujeres 
+en la etapa perimenopáusica y personas afectadas por 
+procesos oncológicos.
+• Detección de las personas trabajadoras con alto riesgo 
+cardiovascular y análisis del impacto de las condiciones 
+de trabajo sobre su salud proponiendo medidas especí-
+ficas para su protección.
+• Acompañamiento y reincorporación al trabajo de per-
+sonas que hayan presentado o sufran una enfermedad 
+cardiovascular y prevención de recurrencias.
+• Establecimiento y puesta a punto de un protocolo de ac-
+tuación eficaz ante la aparición de síntomas de alarma y 
+un evento cardiovascular agudo.
+• Establecimiento de circuitos de comunicación, derivación 
+y colaboración eficaces con el resto del sistema sanitario.
+
+5
+Notas Técnicas de Prevención
+En la tabla 2 se muestran algunos ejemplos de acciones
+ACCIONES
+EJEMPLOS 
+Participar en las actividades de formación y sensibilización.
+Promoción de la salud cardiovascular
+Dar consejo breve durante el reconocimiento médico.
+Reforzar el consejo breve mediante consultas programadas.
+Identificar los factores de riesgo cardiovascular no laborales (véase tabla 3).
+Abordaje de los factores de riesgo a nivel individual y 
+colectivo
+Seguir su evolución en el tiempo.
+Controlar mediante la aplicación de las medidas adecuadas.
+Optimizar y priorizar las acciones de promoción de la salud.
+Calcular el riesgo cardiovascular (ej.: escalas de riesgo validadas) median-
+te la integración de los datos recogidos durante el reconocimiento médico.
+Detección y manejo de las personas trabajadoras de 
+alto riesgo cardiovascular 
+Valorar las capacidades de la persona trabajadora.
+Valorar la penosidad de las tareas a través de la medida de la carga física 
+cardiovascular (véase apartado 2).
+Establecer recomendaciones para la adaptación del puesto de trabajo a las 
+características personales.
+Retorno al trabajo
+Implicarse en el proceso de retorno y mantenimiento del trabajo (véase 
+punto 5).
+Respuesta a síntomas de alarma y un evento agudo 
+cardiovascular
+Participar en la sensibilización y formación (detección de síntomas, manio-
+bras de reanimación, manejo de desfibriladores, etc.).
+Establecer y mantener los protocolos de actuación ante eventos cardiovas-
+culares agudos.
+Establecer áreas cardioprotegidas.
+Relación con el resto del sistema sanitario
+Protocolizar la colaboración y derivación a otros profesionales sanitarios 
+ante el hallazgo de patología cardiovascular.
+Colaborar en el seguimiento y control de los trabajadores y trabajadoras 
+afectados.
+Tabla 2.  Medicina del trabajo: ejemplos de acción.
+NO MODIFICABLES (no susceptibles de intervención)
+MODIFICABLES  (susceptibles de intervención)
+Edad
+Antecedentes familiares de:
+• Enfermedad cardiovascular precoz.
+Hábitos tóxicos (tabaco, alcohol, otras drogas).
+• Enfermedades hereditarias relacionadas con la enfermedad 
+Hipertensión arterial.
+cardiovascular (ej.: Dislipidemia familiar).
+Diabetes.
+Obesidad y sobrepeso.
+Antecedentes personales de:
+Dislipemia.
+• Patología cardiovascular (ej.: Infarto o AVC previos).
+Inactividad física y sedentarismo.
+• Enfermedades inflamatorias sistémicas (ej.: Cáncer y          
+Alimentación inadecuada.
+enfermedades autoinmunes).
+Estrés.
+• Enfermedad renal.
+• Estado hormonal (ej.: Perimenopausia).
+Tabla 3. Factores de riesgo cardiovascular extralaborales. 
+El análisis y evolución en el tiempo de estos datos es 
+útil tanto a nivel individual como colectivo. A nivel colectivo, 
+el conocimiento sobre la prevalencia e incidencia de las 
+diferentes características y condiciones mencionadas en la 
+tabla 3 se traduce en una optimización tanto en el diseño 
+de los programas de sensibilización y formación, como en 
+la mejora del entorno laboral. 
+A nivel individual, la detección de algún factor de riesgo o 
+patología cardiovascular deriva en un consejo médico sobre 
+su tratamiento, rehabilitación y seguimiento, así como en la 
+adaptación del puesto de trabajo. Todo ello en su conjunto 
+supone una prevención más efectiva de la aparición de en-
+fermedades cardiovasculares o de su recaída, así como en 
+una mayor probabilidad de mantener el puesto de trabajo.
+
+6
+Notas Técnicas de Prevención
+5. SALUD CARDIOVASCULAR A TRAVÉS DE 
+PROGRAMAS DE RETORNO AL TRABAJO
+El proceso de retorno al trabajo pretende una reincorpo-
+ración laboral segura, sostenible y a tiempo. En el caso 
+de la patología cardiovascular son fundamentales los pro-
+gramas de rehabilitación (recuperación y mejora de las 
+capacidades de la persona trabajadora) seguidos de una 
+adaptación del puesto de trabajo.  También lo es diseñar 
+un seguimiento adecuado a medio y largo plazo para el 
+mantenimiento del puesto de trabajo.
+Rehabilitación tras patología cardiovascular aguda
+Los programas de rehabilitación cardiovascular son in-
+tervenciones individualizadas en las que participan pro-
+fesionales sanitarios de diferentes disciplinas (enfermería, 
+medicina, psicología, nutrición, fisioterapia, especialistas 
+en ejercicio físico, etc.) cuyo objetivo es mejorar el pro-
+nóstico, funcionalidad y calidad de vida de la persona que 
+ha sufrido una enfermedad cardiovascular (infarto agudo 
+de miocardio y accidente vascular cerebral, por ejemplo). 
+Según un reciente artículo de revisión (Sherry L- Grace, 
+2023) dichos programas acumulan un amplio cuerpo de 
+evidencia científica que apoya su uso, existiendo modelos 
+basados en el retorno progresivo y controlado al puesto 
+de trabajo. 
+Se basan en cinco pilares fundamentales, que son el 
+ejercicio físico adaptado, una adecuada alimentación, el 
+abandono de los hábitos tóxicos si los hubiere (ej. taba-
+quismo), la optimización de la terapia médica (farmaco-
+lógica, quirúrgica, etc.) y la gestión de las consecuencias 
+psicológicas. 
+La mejora sustancial en las capacidades de una perso-
+na que ha padecido una enfermedad cardiovascular tras 
+su paso por uno de estos programas aumenta la proba-
+bilidad de un retorno exitoso al puesto de trabajo. 
+Adaptación del puesto de trabajo
+Una vez concluido el proceso de rehabilitación, los már-
+genes de seguridad en los cuales se hace efectivo el 
+retorno al puesto de trabajo deben ser establecidos en-
+tre el equipo rehabilitador y el de medicina del trabajo, 
+y por supuesto con la participación de la persona y la 
+empresa, teniendo en cuenta las exigencias y condicio-
+nes particulares de cada puesto de trabajo y tareas a 
+desempeñar.   
+En el caso de la cardiopatía isquémica, la valoración 
+de la penosidad de las tareas a través de la medición de 
+la carga física cardiovascular (descrita en el apartado 2) 
+es muy útil para establecer dichos márgenes y adaptar 
+las condiciones de trabajo.
+Para la patología cerebrovascular, la presencia y 
+grado de déficits neurológicos residuales son los prin-
+cipales determinantes de la adaptación del puesto de 
+trabajo.
+Mantenimiento del puesto de trabajo
+Como se ha mencionado en el apartado 4, la medicina 
+del trabajo, a través de la vigilancia de la salud individual, 
+tiene un papel fundamental en el seguimiento a medio 
+y largo plazo de los casos de patología cardiovascular.  
+Las probabilidades de mantener el puesto de trabajo se 
+ven incrementadas gracias a:
+• el seguimiento estrecho de su situación médica en con-
+junto con los profesionales facultativos responsables 
+(cardiólogos/as, neurólogos/as, etc.),
+• la evaluación continuada del balance entre sus capa-
+cidades y las exigencias del puesto de trabajo, y la 
+adaptación dinámica de este si se considera necesario,
+• la derivación precoz por sospecha de recaída. 
+BIBLIOGRAFÍA
+Condiciones de trabajo
+EU-OSHA (2023). The links between exposure to work-related psychosocial risk factors and cardiovascular disease. 
+Available at: https://osha.europa.eu/en/publications/links-between-exposure-work-related-psychosocial-risk-fac-
+tors-and-cardiovascular-disease 
+INRS (2022) Les postures sédentaires au travail. Définition, effets sur la santé et mesures de prévention. 
+ED 6494 https://www.inrs.fr/media.html?refINRS=ED%206494
+Moretti Anfossi, C., Ahumada Muñoz, M., Tobar Fredes, C., Pérez Rojas, F., Ross, J., Head, J., & Britton, A. (2022). Work 
+exposures and development of cardiovascular diseases: A systematic review. Annals of Work Exposures and Health, 66(6), 
+698-713. doi:10.1093/annweh/wxac004
+Teixeira, L. R., Pega, F., Dzhambov, A. M., Bortkiewicz, A., da Silva, D. T. C., de Andrade, C. A. F., … Gagliardi, D. (2021). 
+The effect of occupational exposure to noise on ischaemic heart disease, stroke and hypertension: A systematic review 
+and meta-analysis from the WHO/ILO Joint Estimates of the Work-Related Burden of Disease and Injury. Environment 
+International, 154, Article 106387. doi:10.1016/j.envint.2021.106387
+Torquati L, Mielke GI, Brown WJ, Kolbe-Alexander T (2018). Shift work and the risk of cardiovascular disease. A systematic 
+review and meta-analysis including dose-response relationship. Scand J Work Environ Health. 2018 May 1;44(3):229-238. 
+doi: 10.5271/sjweh.3700. Epub 2017 Dec 16. PMID: 29247501.
+
+7
+Notas Técnicas de Prevención
+Patología cardiovascular
+Guía ESC 2021 sobre la prevención de la enfermedad cardiovascular en la práctica clínica. 
+https://www.revespcardiol.org/es-guia-esc-2021-sobre-prevencion-articulo-S0300893221004620
+Kai, S.H.Y., Ferrières, J., Rossignol, M. et al. (2022) Prevalence and determinants of return to work after various coronary 
+events: meta-analysis of prospective studies. Sci Rep 12, 15348 (2022). https://doi.org/10.1038/s41598-022-19467-z 
+Rona Reibis, Annett Salzwedel, Ana Abreu, Ugo Corra, Constantinos Davos, Wolfram Doehner, Patrick Doherty, Ines 
+Frederix, Dominique Hansen, Marie Christine Iliou, Carlo Vigorito, Heinz Völler (2019), for the Secondary Prevention and 
+Rehabilitation of the European Association of Preventive Cardiology (EAPC), The importance of return to work: How to 
+achieve optimal reintegration in ACS patients, European Journal of Preventive Cardiology, Volume 26, Issue 13, 1 Sep-
+tember 2019, Pages 1358–1369, https://doi.org/10.1177/2047487319839263 
+Sherry L Grace (2023) Evidence is indisputable that cardiac rehabilitation provides health benefits and event reduction: time 
+for policy action, European Heart Journal, Volume 44, Issue 6, 7 February 2023, Pages 470–472, https://doi.org/10.1093/
+eurheartj/ehac690 
+Otras publicaciones
+INSST (2015) Salud mental: Etapas para su promoción en la empresa. Nota Técnica de Prevención nº 1045 
+https://www.insst.es/documents/94886/566858/ntp-1045w.pdf/b7ba75f7-a2cf-41ee-80c0-2fcf0c23c17c?version=1.1
+&t=1687261212599  
+INSST (2015) Mantenimiento y vuelta al trabajo: procedimiento. Nota Técnica de Prevención nº 1116
+https://www.insst.es/documents/94886/566858/ntp_1116w.pdf/c851d358-0fd7-4f72-a273-9682d21c9760?version=1.2
+&t=1692625737408 
+INSST (1991) Valoración de la carga física mediante la monitorización de la frecuencia cardiaca. Nota Técnica de Pre-
+vención nº 295
+https://www.insst.es/documents/94886/326853/ntp_295.pdf/017dadae-4ce2-491d-97df-5852b365f39d?version=1.1
+&t=1680376673614 
+INSST (2023) Ejercicio laboral: guía para el diseño, implantación y evaluación de un programa de ejercicio laboral en la 
+empresa.
+https://www.insst.es/documentacion/material-tecnico/documentos-tecnicos/ejercicio-laboral-guia-para-el-diseno-implan-
+tacion-y-evaluacion-de-un-programa-de-ejercicio-laboral-en-la-empresa-2023 
+Ministerio de sanidad (2015) Consejo Integral en Estilo de Vida en Atención Primaria, vinculado con recursos comunitarios 
+en población adulta. 
+https://www.sanidad.gob.es/areas/promocionPrevencion/envejecimientoSaludable/activo/consejoIntegralAP.htm 
+WHO (2020). Guidelines on physical activity and sedentary behaviour. 
+https://www.who.int/publications/i/item/9789240015128 
+WHO (2023) Promotion of health-enhancing physical activity in small-to-medium-sized enterprises. Copenhagen: WHO 
+Regional Office for Europe.
+https://iris.who.int/handle/10665/373629 
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSST, nº NTP, año y título. 
+NIPO: 118-20-027-6

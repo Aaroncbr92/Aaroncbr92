@@ -59,6 +59,14 @@ def limpia(s):
     for c in "«»\u201c\u201d\u2018\u2019\"":
         s = s.replace(c, "")
     s = s.replace("–", "-").replace("—", "-")
+    # un PDF a dos columnas parte las palabras al final del renglón:
+    # "acciden-\ntes", "contribu-\nyente". Si esa palabra se deja rota, una
+    # cita copiada literalmente sale marcada como «no literal» por un motivo
+    # tipográfico, y eso adiestra a no mirar la lista, que es donde se esconde
+    # el hallazgo de verdad (manual, apartado 10). Se cose antes de colapsar
+    # los espacios, porque después ya no se distingue el corte de renglón.
+    # La lente de documento hace lo mismo y por la misma razón.
+    s = re.sub(r"[-‐-―]\s*\n\s*", "", s)
     return re.sub(r"\s+", " ", s).strip()
 
 

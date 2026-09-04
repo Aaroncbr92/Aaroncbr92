@@ -1,0 +1,395 @@
+ 
+NTP 586: Control biológico: concepto, práctica e interpretación
+Surveillance biologique. Concepte, mise en oeuvre et valoration 
+Biological monitoring. Concept Implementation and Assessment.
+Redactores:
+Jordi Obiols Quinto 
+Licenciado en Ciencias Biológicas y Farmacia
+Xavier Guardino Solá 
+Doctor en Ciencias Químicas
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+En la presente Nota Técnica de Prevención se revisan y actualizan los conceptos relacionados con el control biológico de la exposición 
+laboral a contaminantes químicos tratados en la NTP 146. El objetivo principal es exponer de manera clara e inequívoca sus 
+fundamentos, la metodología adecuada, su correcta práctica e interpretación conveniente por parte de los actuantes en la prevención 
+de riesgos por exposición a agentes químicos: los higienistas y los médicos del trabajo.
+Introducción
+El término control biológico hace referencia a una técnica preventiva cuyo rasgo distintivo fundamental con respecto a otras técnicas 
+preventivas de 'monitoraje', es el hecho de que para su realización práctica se precisan siempre muestras de algún medio biológico del 
+trabajador expuesto.
+En la presente nota técnica, el control biológico se circunscribe exclusivamente al ámbito de la prevención laboral, en el que cada vez 
+está más extendido, aunque esta misma técnica es utilizada en otros ámbitos cuya finalidad última es la protección de la salud humana 
+o del medio ambiente.
+También debe advertirse que esta técnica no tiene relación alguna con el posible estudio y análisis de determinados tipos de muestras 
+para la evaluación de riesgos por la presencia de "agentes biológicos" (contaminantes biológicos) en el lugar de trabajo, actividad con 
+la que frecuentemente se la confunde, debido la mera similitud terminológica, aunque de contenidos totalmente dispares.
+El objetivo de esta nota técnica es presentar una visión general sucinta de los aspectos básicos relativos al concepto (naturaleza y 
+aplicación), implementación, e interpretación del control biológico, que le pueda servir al técnico (higienista o médico) no conocedor de 
+esta técnica de prevención de riesgos por agentes químicos en el ambiente de trabajo, como elemento o guía de base en los pasos a 
+seguir para el desarrollo de un programa de este tipo.
+Control biológico y vigilancia de la salud
+La expresión control biológico se encuentra expresamente recogida en el ordenamiento jurídico en las tres disposiciones que se 
+comentan a continuación.
+G     R.D. 39/1997 de 17.1. (M. Trabajo y A. Soc., B.O.E. 31.1.1997). Reglamento de los servicios de prevención. Art. 37.3.c. En este 
+RD se hace mención del control biológico para incluirlo, junto con otras prácticas y estudios complementarios, en la historia 
+clínico-laboral dentro de los "exámenes de salud" para la "vigilancia de la salud', según los factores de riesgo a los que esté 
+expuesto el trabajador.
+G     R.D. 665/1997 de 12.5. (M. Presid., B.O.E. 24.5.1997). Protección de los trabajadores contra los riesgos relacionados con la 
+exposición a agentes cancerígenos durante el trabajo. Anexo II. 2.3. En este RD simplemente se le cita como una medida más, 
+en su caso, a incluir en el control médico de los trabajadores expuestos a cancerígenos.
+G     R.D. 374/2001 de 6.4. (M. Presid., BB.OO.E. 1.5, rect. 30.5 y 22.6.2001). Protección de la salud y seguridad de los trabajadores 
+contra los riesgos relacionados con los agentes químicos durante el trabajo. Art. 6.3 y Anexo II. a y b. En este RD se cita 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 2001
+
+("incluida en su caso") junto con la vigilancia de salud como obligatoria para trabajar con los agentes de su Anexo II, pero si 
+bien se da una definición de este término, no se incluye la del propio control biológico.
+La utilización del mismo término en las tres disposiciones citadas, con significados bien distintos, puede contribuir, sin duda, a una 
+cierta confusión en cuanto al concepto, naturaleza, alcance y objetivos del control biológico; y más aún si, tal como se ha señalado, no 
+tiene tampoco relación conceptual alguna con los agentes biológicos.
+Por lo que se refiere a la vigilancia de la salud, está ampliamente citada en más de 30 disposiciones legales vigentes relacionadas con 
+la prevención de la salud de los trabajadores. En la Ley 31/95 de Prevención de Riesgos Laborales se indica que el empresario 
+garantizará a los trabajadores a su servicio la vigilancia periódica de su estado de salud en función de los riesgos inherentes al trabajo 
+(art. 22.1), se cita como una de las herramientas destinadas a garantizar la seguridad y la salud de los trabajadores (art. 14.2) y como 
+parte de la evaluación de riesgos (art. 16.3).
+Por otro lado, cuando la vigilancia de salud sea adecuada, es decir, si:
+a.  puede relacionarse la exposición del trabajador a un agente químico con una enfermedad o un efecto adverso;
+b.  existe la probabilidad de que se produzca en las condiciones de trabajo concretas, y
+c.  existen técnicas de escaso riesgo para su detección, el citado R.D. 374/2001 la establece como obligatoria, siempre que:
+1.  la evaluación de riesgos indique que hay un riesgo;
+2.  se supere un valor límite ambiental aplicable (obligatorios - Anexo I, actualmente sólo del plomo - o los valores límite 
+ambientales publicados por el Instituto Nacional de Seguridad e Higiene en el Trabajo o criterios alternativos);
+3.  lo disponga una reglamentación específica o sea imprescindible para evaluar los efectos de un agente químico sobre la 
+salud;
+4.  no pueda garantizarse un control suficiente de la exposición del trabajador; y
+5.  el trabajador pueda presentar o desarrollar una especial sensibilidad.
+Aunque el control biológico es citado en todas las reglamentaciones dentro del área de la vigilancia de la salud, en realidad es una 
+técnica que está mucho más relacionada con la Higiene Industrial que con la Medicina del Trabajo, porque sus resultados informan 
+sobre la exposición y/o el riesgo para la salud del trabajador por un agente extraño al organismo (o xenobiótico) como es propio de la 
+higiene, y esta información, salvo en casos y situaciones muy concretos, no se puede interpretar intrínsecamente en términos de salud 
+o enfermedad.
+Por ello, el control biológico debe considerarse, en principio, como una extensión del control ambiental, basado en la determinación de 
+los contaminantes presentes en el aire, a lo que es el propio medio biológico del trabajador; dicho de otro modo, en lugar de tomar 
+muestras del aire que respira el trabajador se toman muestras de algún medio biológico del trabajador que resulte adecuado al fin 
+propuesto.
+Concepto
+Definiciones
+La dinámica que establece el RD 374/2001 es: 1) evaluación de riesgos (todos), que cuando sean de tipo higiénico por inhalación 
+incluirán la medición de la concentración de los agentes químicos en la zona de respiración del trabajador, y 2) la adopción de medidas 
+específicas de prevención, y vigilancia de la salud cuando se superen los valores límite ambientales. Es en este marco donde, aparte 
+los casos de obligatoriedad por una norma genérica o específica, tiene aplicación el control biológico, como un instrumento 
+potencialmente muy útil en la evaluación de la exposición y el riesgo para la salud del trabajador.
+Desde la vertiente técnica, estos sistemas de control se basan en unas definiciones sobre las que se sustenta su contenido y en las 
+que se asienta su valor como elemento de evaluación de la exposición y el riesgo higiénico. Las definiciones que se presentan a 
+continuación son las que se establecieron en el "Seminario Internacional sobre la Valoración de Agentes Tóxicos en el Lugar de 
+Trabajo. Funciones del Control Biológico y Ambiental" de Luxemburgo (1980) y que con ligerísimas variaciones se pueden considerar 
+como actualmente vigentes, no sin antes hacer hincapié en que son de carácter puramente técnico.
+Control (monitoring): es una actividad relacionada con la salud, continua o repetitiva, sistemática, conducente a la adopción, si procede, 
+de medidas correctoras.
+Control biológico (Biological Monitoring): es la medida y valoración de los agentes del lugar de trabajo, o de sus metabolitos, bien en 
+tejidos, secreciones, productos de excreción, aire espirado o cualquier combinación de ellos, para evaluar la exposición y el riesgo para 
+la salud comparado con una referencia adecuada.
+Control biológico de efecto (Biological Effect Monitoring): es la medida y valoración de los efectos biológicos precoces cuya relación 
+con las alteraciones de salud no ha sido aún establecida, realizadas en trabajadores para evaluar la exposición y el riesgo para la 
+salud, comparado con una referencia adecuada. Introducido en 1986.
+Control ambiental (Ambient or Environmental Monitoring): es la medida y valoración de los agentes en el lugar de trabajo y evalúa la 
+exposición ambiental y el riesgo para la salud comparado con una referencia adecuada. En el mismo documento se da esta definición 
+por la relación del control biológico, en cualquiera de sus variantes, con las propias concentraciones ambientales.
+Elementos distintivos del control biológico
+
+Los más importantes son el indicador, la muestra biológica y la referencia adecuada.
+G     Indicador
+Es el propio agente químico del lugar de trabajo, o un derivado metabólico suyo, que se mide y valora, para efectuar el control 
+biológico. Un metabolito es siempre un producto resultante de alguna transformación química del xenobiótico vinculada de 
+alguna manera a los ciclos metabólicos del organismo y/o a su capacidad detoxificadora, siempre dependiente, directa o 
+indirectamente, de los sistemas enzimáticos disponibles en el tejido u órgano donde tenga lugar. Tanto si lo que se determina 
+es el propio contaminante, como si es un metabolito suyo, se habla de indicador de exposición; por el contrario cuando el 
+parámetro a determinar es algún pequeño cambio específico no adverso o patológico en el organismo, se habla de indicador de 
+efecto.
+G     Muestra biológica
+Siempre se emplea una muestra de este tipo para la medición del indicador de elección. Esta muestra puede ser un tejido, 
+sangre, orina o cualquier otro producto de excreción, una secreción o el propio aire espirado. Dependiendo del contaminante (p. 
+ej., el plomo), se puede determinar un indicador en cierto tipo de muestra biológica (Plomo en sangre, PbS), o el mismo 
+indicador en distintos tipos de muestra biológica (plomo en sangre y en orina, PbS y PbO), y viceversa, se pueden determinar 
+distintos indicadores en distintos tipos de muestra (PbS y ácido d-aminolevulínico, ALA, en orina) y distintos indicadores en un 
+mismo tipo de muestra (en la exposición al benceno, la determinación del benceno y el ácido t,t'-mucónico en orina). En 
+cualquier caso, es imprescindible que el tipo demuestra empleada sea el adecuado para el indicador que se va a determinar.
+G     Referencia adecuada
+Es el término de comparación que se utiliza para evaluar la exposición o el riesgo que implica el nivel de indicador hallado en un 
+medio biológico adecuado y, por esa razón, genéricamente se denominan valores límite biológicos. En realidad, tales valores 
+límite forman parte de los criterios de evaluación biológica y en ciertos casos puede haber diferencias apreciables entre los 
+valores adoptados según los distintos criterios, porque éstos pueden diferir entre sí en las premisas adoptadas para la 
+consecución del objetivo final de su implementación, que es siempre la prevención de la salud tras muchos años de exposición 
+laboral (crónica), aunque por diferentes caminos. Básicamente, hay dos tipos de criterios:
+H     Criterios de tipo higiénico: son los que toman como elemento básico los propios valores ambientales; por ejemplo, los 
+Biological Exposure Indices (BEI) de la American Conference of Governmental Industrial Hygienists (ACGIH) de EE.UU. 
+y los Valores Límite Biológicos (VLB) del Instituto Nacional de Seguridad e Higiene en el Trabajo (INSHT). O bien 
+criterios higiénicos; por ejemplo, los Benchmark Guidance Values (BGV) entre los Biological Monitoring Guidance 
+Values (BMGV) del Health and Safety Executive (HSE) desde 1994.
+H     Criterios de salud: en el caso de los Health Guidance Value (HGV), entre los BMGV los límites han sido establecidos a 
+unos niveles tales para los que, desde un punto de vista científico no se dispone de indicio alguno de que la substancia 
+vaya a producir daño a la salud (siempre según el estado de conocimientos científicos al respecto, en el momento de su 
+establecimiento). Los BAT (Biologische Arbeitsplatztoleranzwerte, BAT-Werte) están definidos por la DFG (Deutsche 
+Forschungsgemeinschaft) como la cantidad máxima de un compuesto químico, sus metabolitos, o cualquier desviación 
+de la norma de los parámetros metabólicos inducida por esas substancias en personas expuestas. En ambos tipos de 
+criterios de salud, el elemento diferencial con respecto de los criterios higiénicos es que si determinado límite en un 
+medio biológico representativo concreto, establecido según unas determinadas premisas, no se supera se considera 
+que no se producirán alteraciones en la salud del trabajador que está - repetida y largamente - expuesto a la sustancia 
+en cuestión para la que ha sido establecido.
+Excepcionalmente, cuando se trabaje con agentes que, aunque de importante peligrosidad (sospechada o reconocida), por su 
+escaso uso (p. ej., ciertos precursores o intermediarios de síntesis de algunos colorantes y productos orgánicos) hace que no 
+se disponga de valores límite biológicos de agencias oficiales, u organismos internacionales, aunque sí de un indicador de 
+exposición, se podrá utilizar un valor interno de la empresa ("inhouse limits" en la terminología anglosajona), siempre que se 
+corresponda con unos criterios que:
+1.  Tengan una base higiénica objetivable.
+2.  Sean defendibles (unas situaciones u operaciones definidas, unos valores ambientales y unas prácticas higiénicas, todo 
+ello correcto en términos de riesgo).
+3.  Se disponga de una capacidad de respuesta analítica en el medio biológico de elección adecuada a tal fin (capaz de 
+detectar anomalías en 2, según lo que se espera de 1).
+Las relaciones entre exposición, presencia del contaminante en los medios biológicos, sus efectos sobre el organismo y las 
+referidas técnicas de control se presentan en la figura 1. Los distintos tipos de control pretenden evitar los efectos adversos de 
+los agentes tóxicos susceptibles de ser absorbidos. La vigilancia de la salud tiene por objeto detectar cualquier trastorno precoz 
+por la exposición a tales agentes que han superado los mecanismos de homeostasis, produciéndose alteración de la salud.
+FIGURA 1 
+Relaciones entre exposición ambiental y efectos adversos sobre la salud
+EXPOSICIÓN A CONTAMINANTES Y TIPOS DE CONTROL
+EXPOSICIÓN CONTINUADA
+Control ambiental
+ 
+ Control biológico
+ 
+ Vigilancia de la 
+salud
+EXPOSICIÓN 
+AMBIENTAL
+¡
+DOSIS 
+EXTERNA
+¡
+DOSIS  
+INTERNA
+¡
+PARÁMETROS 
+BIOLÓGICOS 
+¡
+EFECTOS 
+BIOLÓGICOS 
+ADVERSOS 
+
+SOBRE LA SALUD
+(Barreras 
+estructurales y 
+fisiológicas)
+(Homeostasis)
+Toxicocinética y toxicodinamia
+La toxicocinética del contaminante hace referencia al conjunto de procesos mediante los que el organismo actúa sobre el xenobiótico, 
+que básicamente son: absorción, distribución, metabolismo y excreción.
+G     La absorción de un xenobiótico, es decir, su ingreso en el organismo (paso a la sangre), depende en su velocidad y magnitud 
+de la vía de contacto. En la vía inhalatoria, un mayor esfuerzo físico por parte de un individuo en un determinado ambiente 
+representa una mayor carga de trabajo (lo que implica un incremento de la frecuencia respiratoria y volumen de aire inhalado, 
+ritmo cardíaco, etc.) y, en definitiva, una mayor exposición interna.
+G     La distribución de cada sustancia (y también la de los metabolitos que como se verá se van formando) tiene lugar según el 
+riego sanguíneo de los distintos órganos, por lo que se habla de compartimentos para referirse a aquellos tejidos y órganos que 
+tienen unas características similares al respecto.
+G     El metabolismo del xenobiótico tiene lugar a partir del momento en que ha ingresado en el organismo. Los variados procesos 
+de transformación de los xenobióticos están vinculados de alguna manera a los ciclos metabólicos del organismo y/o a su 
+capacidad detoxificadora, siempre dependiente, directa o indirectamente, de los sistemas enzimáticos disponibles en el tejido u 
+órgano donde tenga lugar. En este sentido, es a su paso por el hígado, aunque no exclusivamente en él, cuando tienen lugar la 
+mayoría de estos procesos, lo que está en consonancia con su elevada irrigación. Esta transformación puede ser rápida, de 
+modo que a los pocos minutos de empezar el proceso de absorción, sea detectable algún metabolito en un medio biológico 
+determinado, o puede ser mucho más lenta, debiendo transcurrir un cierto número de horas antes de poder ser detectado, 
+dependiendo de la reactividad química del agente y de la vía de transformación o detoxificación que siga este xenobiótico en el 
+organismo (humano o animal de experimentación, por lo que pueden haber diferencias sustanciales) y lo normal es que tenga 
+lugar en distintas fases.
+G     Finalmente, el último paso es la excreción, eliminación activa del propio xenobiótico o de sus metabolitos a través del riñón, o 
+por otras vías, como la fecal o la sudoración, y/o también por simple difusión y equilibrio a través del pulmón y, en mucho menor 
+medida, el propio riñón.
+El tiempo durante el que una sustancia o un metabolito se encuentra en el organismo, y por tanto en cada tejido y órgano, hasta su 
+desaparición de los medios biológicos una vez ha cesado la exposición es característico de esa sustancia o del metabolito. No 
+obstante, más que el tiempo total de permanencia en el organismo o en un tejido concreto, interesa la semivida, o vida media, es decir, 
+el tiempo que tarda en reducirse a la mitad la concentración (respecto del momento en que es máxima o del final de la exposición) en 
+el compartimento en cuestión (o el tejido/órgano concreto) objeto de interés, y si se trata de todo el cuerpo, el tiempo necesario para 
+reducirse a la mitad la cantidad total existente en el organismo, y se pueden determinar experimentalmente, siempre con un margen de 
+variabilidad fisiológica y experimental. Lo más habitual es que la eliminación de un xenobiótico no tenga lugar de manera uniforme, sino 
+que transcurra por fases, cada una con su propia cinética, lo que implica, de hecho, que cada una de ellas tenga su propia semivida. 
+Hay xenobióticos cuya eliminación tiene lugar en tres fases (como el cromo), con una fase rápida de unas horas, una fase lenta de 
+unas semanas o meses, y con una tercera fase muy lenta, que puede durar años. Esa, juntamente con todo lo expuesto, es una de las 
+razones por las que la toma de muestras debe hacerse en el momento adecuado, y hay diferentes momentos de muestreo, incluso 
+para un mismo contaminante. La relación entre la semivida de un compuesto en el organismo, su significación en cuanto a la 
+exposición del trabajador y la importancia frente a la toma de muestras pueden verse en la figura 2. Aunque en el control biológico se 
+evalúa la exposición y/o el riesgo, la vida media del indicador empleado es el factor determinante del tipo de exposición sobre la que 
+informa su medición y del momento en que debe realizarse la toma de muestra en el medio biológico de elección y el rigor exigido en 
+ello.
+La toxicodinamia estudia de los efectos de los agentes tóxicos sobre el organismo, en distintas condiciones de exposición y los 
+mecanismos a través de los cuales llegan a producirse. El tejido, célula o estructura del organismo sobre el que actúa un agente tóxico 
+es el llamado sitio elector. El primer efecto que se presenta en los individuos expuestos en unas determinadas condiciones recibe el 
+nombre de efecto crítico en tales condiciones de exposición. En general, los valores límite biológicos se fijan, directa o indirectamente, 
+de tal manera que no lleguen a producirse efectos adversos ni, aún menos, enfermedades en los trabajadores crónicamente expuestos 
+a las sustancias en cuestión, tomando como base, entre otros elementos, el efecto crítico en trabajadores con exposiciones laborales 
+bien establecidas y cuantificadas. En la figura 3 se esquematiza la relación entre xenobiótico y efectos en el organismo.
+Figura 2 
+Tipo de exposición según la semivida del indicador y momento de muestreo
+SEMIVIDA DEL INDICADOR 
+en el medio de muestreo
+REPRESENTATIVO DE LA EXPOSICIÓN
+MOMENTO DE MUESTREO
+t1/2 < 2 horas
+Reciente (últimas 2-3 horas)
+Muy crítico
+2 < t1/2 < 5 horas
+Diaria (conjunto de la jornada laboral)
+Crítico
+5 < t1/2 < 48 horas
+Semanal
+Final de semana de trabajo (no crítico)
+t1/2 > 48 horas
+Mensual o mayor
+Discrecional (imprescindible un periodo previo de equilibrio 
+de varios meses de exposición)
+Figura 3 
+Relaciones toxicocinéticas y toxicodinamia de los xenobióticos en el organismo.
+
+Consideraciones a estas definiciones
+Todos estos procesos mencionados varían cualitativa y cuantitativamente para cada sustancia, de modo que cada xenobiótico tiene 
+sus propias características toxicocinéticas. Esto significa que la concentración del indicador de exposición (la sustancia o el metabolito 
+a determinar) en los distintos tejidos y órganos va variando con el tiempo de manera característica para cada sustancia. La traducción 
+práctica de esta especificidad en el comportamiento del organismo frente a cada sustancia es que "el parámetro a determinar" (el 
+indicador), "el dónde" (el tipo de muestra), y en "qué momento " (cuándo se ha de efectuar la toma) concretos han de ser los 
+adecuados para que la concentración del xenobiótico en cuestión sea representativa de la exposición de los trabajadores cuyo riesgo 
+se pretende evaluar. Y ello por dos razones: la propia representatividad de la muestra en sí y la necesidad de la adecuación al criterio 
+de evaluación adoptado, en cuyo establecimiento se ha tenido fundamentalmente en cuenta la toxicocinética de la sustancia (qué 
+indicador, qué muestra y en qué momento) y, en cuanto a la magnitud del propio valor límite biológico, el término de referencia para la 
+evaluación, su toxicodinamia. La cifra concreta o valor numérico del indicador se establece, directa o indirectamente, a partir de la 
+toxicodinamia.
+Es preciso hacer hincapié en que puede ser un error grave llevar a cabo un control biológico de unos trabajadores expuestos a un 
+agente químico peligroso desde el punto de vista higiénico en unas condiciones que no sean las adecuadas en cuanto al indicador tipo 
+de muestra y momento de la toma, porque pueden suministrar una información conducente a una evaluación equívoca de esa 
+
+exposición o de ese riesgo, (generalmente por defecto), pudiendo llegar a la conclusión de que no existe riesgo donde sí realmente 
+existe (lo que es gravísimo preventivamente en términos de costo en salud) o viceversa, afirmar la existencia de riesgo donde no lo 
+hay, lo que puede ser grave en términos económicos, por los costos de soluciones higiénicas innecesarias.
+4. Práctica
+Aparte de los agentes químicos peligrosos en que es normativamente obligatoria, la práctica del control biológico en la exposición 
+laboral está especialmente indicada en aquellos casos en que:
+a.  existan variaciones en las medidas ambientales lo suficientemente grandes como para tener dudas respecto a cómo quedan 
+realmente integradas las variaciones de exposición en el organismo del trabajador (carga en el sitio efector) o, de una manera 
+más general, cuando a fin de dar cumplimiento a la obligatoriedad del empresario de evaluar el riesgo por un agente químico en 
+un puesto de trabajo resulte imprescindible llevar a cabo el control biológico de los trabajadores;
+b.  la absorción por vía dérmica pueda representar una fracción adicional cuantitativamente importante con respecto a la 
+exposición por vía inhalatoria, y una consideración análoga es válida para la vía digestiva;
+c.  se deba comprobar la eficacia de un determinado tipo de EPI cuyo uso se ha adoptado en unas determinadas operaciones en 
+las que mayoritariamente se centra la exposición;
+d.  haya sospechas fundadas sobre la existencias de otras fuentes de exposición distintas de las laborales y, en principio, no 
+reconocidas y difícilmente identificables; y
+e.  se sospeche que, en un grupo de trabajadores, hay diferencias grandes en la carga de trabajo, a fin de identificar los que la 
+tienen mayor, comparativamente con el resto del grupo.
+En ningún caso, no obstante, el control biológico sustituye ni debe preceder al control ambiental, puesto que, frente a la posibilidad de 
+riesgo por vía inhalatoria, ésta es la primera acción de control que se debe llevar acabo. Cuando por alguna de las razones aludidas el 
+higienista objetivamente haya concluido que, en cierta empresa, debe llevarse a cabo un control biológico de unos trabajadores 
+expuestos a unos determinados agentes químicos en unos determinados puestos, debe procederse a una cuidadosa planificación del 
+programa, en la que se tendrán en cuenta las fases que se comentan en el apartado siguiente.
+Es importante señalar aquí que, si bien se dispone de varios cientos de valores límite ambientales aplicables a la evaluación del riesgo 
+por agentes químicos peligrosos, sólo se dispone de valores límite biológicos para el control biológico en la exposición a una 
+cuarentena de tales agentes. Éste es, por tanto, el principal factor limitante de la aplicación del control biológico en la Higiene Industrial, 
+la escasa disponibilidad de parámetros que cumplan con los requerimientos científicos (de orden teórico) y técnicos (de orden práctico) 
+necesarios para poder ser empleados como indicadores al efecto. Los principales aspectos prácticos del control biológico de tales 
+agentes químicos están recogidos en la AIP Control biológico. Guía de valores límite biológicos, muestreo, análisis y evaluación.
+Recogida de información
+La información tendrá dos vertientes distintas. Una son las condiciones de trabajo (colectivamente consideradas) y de los propios 
+trabajadores de manera individualizada y convenientemente dispuesta y ordenada. Otra se refiere a los requerimientos de tipo 
+toxicocinético, que se encuentran en la documentación específica del propio agente, para el control biológico: indicador o indicadores 
+que se pueden determinar, tipos de muestras biológicas requeridos de los trabajadores, y momento o momentos de la toma de 
+muestra, teniendo presente que hay indicadores que requieren dos muestras obtenidas en momentos distintos con respecto al ciclo 
+laboral y a la semana de trabajo.
+La recogida de esta información se llevará a cabo con detenimiento y de manera genérica, en principio, si no se parte de un tipo 
+concreto de criterio, o de manera más específica, de acuerdo con el tipo de criterio concreto a seguir en la evaluación de los 
+trabajadores. Sin duda alguna, además, formarán un capítulo importante e imprescindible de la información, previa al paso siguiente, 
+las exigencias técnicas desde el punto de vista analítico, desde un reconocido estándar de calidad del propio laboratorio, como puede 
+ser la ISO 9001 o la correspondiente acreditación (UNE-EN 17025 o una norma específica), y la fiabilidad del método analítico que se 
+vaya a emplear y los correspondientes controles de calidad, interno y, sobre todo externo, con prueba de una correcta respuesta 
+analítica ("satisfactory performance"), hasta las condiciones materiales en que se va a realizar la toma, conservación y transporte de 
+muestras.
+Toma de decisiones
+Hacen referencia a los trabajadores que se vayan a incluir, la distribución en subgrupos potencialmente de distintos niveles de 
+exposición, o de un grupo control de trabajadores. Pero sobre todo, a los indicadores concretos que se vayan a utilizar cuando haya 
+varios posibles y en qué tipo de muestra. En este sentido, se tendrá siempre un criterio "garantista", es decir, realizar sólo aquellas 
+pruebas acerca de las cuales se tiene plena seguridad de que se pueden llevar a cabo con "garantías" y que todos los problemas con 
+respecto, principalmente,
+a la realización de la toma de muestras (que puede ser complicada), su conservación, transporte, lo que en general se llama logística, 
+están plenamente resueltos. Es decir, estas decisiones se tomarán según las posibilidades reales de la empresa, para cada centro y 
+lugar, y nunca se debe intentar hacer algo "a ver si sale bien" o "si hay suerte".
+También debe valorarse el tipo de información que se va a dar a los trabajadores implicados, antes y después de la realización del 
+control. Antes, para no crear situaciones de angustia ni de desconfianza, perfilando plenamente el motivo y el objetivo del control; de 
+hecho, el "qué", "cómo", "con qué fin" y "qué cabe esperar del resultado". Después, haciendo hincapié en el significado del resultado o 
+conclusión a que se haya llegado referente a la exposición o la existencia de riesgos para la salud, cuáles son y de qué magnitudes y, 
+todo ello garantizando en todo momento la absoluta confidencialidad de los datos individuales.
+Ejecución
+
+Se hará siguiendo al pie de la letra lo programado, tomando nota de cualquier incidencia o imprevisto que se haya podido producir. La 
+ejecución material de todo termina con la recepción de los resultados por la persona responsable.
+Evaluación
+Se realizará de la manera que se expone en el punto siguiente. Debe tenerse en cuenta que se debe llevar a cabo de manera 
+individual, pero también como grupo: el del conjunto de los trabajadores con un determinado nivel atribuido de exposición.
+Evaluación
+La evaluación de los resultados requiere tomar como punto de partida la información general sobre el tipo de criterio de evaluación que 
+se va a emplear a tal fin. Esta es una cuestión fundamental porque en el caso de los VLB (INSHT) y los BEI (ACGIH) los valores 
+adoptados para los indicadores de exposición, representan, en general, el nivel más probable del indicador en el medio biológico 
+correspondiente cuando el trabajador está expuesto, exclusivamente por inhalación, a un nivel equivalente al valor límite ambiental 
+para exposición diaria (VLA-ED) del INSHT o al valor límite umbral promediado en el tiempo TLV-TWA (ACGIH) (también exposición 
+diaria). Por esa razón, los valores adoptados con este tipo de criterio reciben, en general, la denominación de valores límite biológicos 
+equivalentes. Esto no es aplicable a los indicadores de efecto, ya mencionados, que representan efectos no adversos (de ocurrencia a 
+niveles más bajos que los adversos) ya que, en algunos casos, se pueden aceptar niveles superiores al valor límite ambiental.
+Por todo ello, los valores VLB, como "los BEI, no indican una distinción definida entre las exposiciones de riesgo o no riesgo" (ACGIH) 
+y, en consecuencia, la superación de un VLB en una medición realizada en un determinado momento no implica la conclusión, sin más, 
+de que el trabajador en cuestión esté en una situación de sobreexposición, por la sencilla razón de que por definición, tal valor límite, 
+en general, es "sólo" el valor más probable de encontrar, según lo señalado en el párrafo anterior. Estos valores deberían ser 
+técnicamente interpretados, genéricamente, como niveles de acción individuales, de manera que en "el caso de una superación de 
+carácter puntual deberá ponerse en marcha una investigación con el objetivo de encontrar una explicación plausible para esa 
+circunstancia y actuar en consecuencia o, en su defecto, descartar la existencia de factores causales vinculados al desempeño del 
+puesto de trabajo". Si hay una explicación plausible, es decir, se reconoce algún factor concreto, habrá que modificarlo de alguna 
+manera, o bien descartar factores vinculados al trabajo. Tanto si se adopta alguna medida como si se trata de descartar tales factores 
+vinculados al trabajo, habrá que repetir las medidas.
+En los criterios adoptados por el HSE, los valores BGV, se basan en el percentil 90 de los datos validados recogidos en puestos de 
+trabajo representativos con buenas prácticas higiénicas laborales; de significado bien distinto, por tanto, al de los BEI y VLB. Los BGV y 
+BAT son valores que no deben ser superados, cuando se aplican como criterio para el control biológico, y concretamente estos últimos 
+han de ser considerados estrictamente como valores techo biológicos.
+Comentario final
+El control biológico de los trabajadores expuestos a contaminantes químicos no es un sustituto del control ambiental. No se debe 
+olvidar que la evaluación del riesgo por agentes tóxicos, se basa ante todo en la situación higiénica del lugar de trabajo; y en esta 
+evaluación el control biológico es, por tanto, un complemento muy útil en los casos y situaciones que ya se han comentado. 
+Precisamente por esta razón debe ser planificado e interpretado por un experto en este campo, teniendo siempre presente que, por 
+definición, implica directamente a personas, aunque los resultados obtenidos no representen por sí mismos ninguna medida del estado 
+de salud de los trabajadores e indirectamente se refieren a puestos de trabajo.
+Cabe insistir, por último, en que las simplificaciones en un programa de control biológico, por razones de índole práctica o, sobre todo, 
+por razones de carácter económico, para evitar costos, pueden inducir a resultados engañosos en una evaluación. No debe 
+confundirse una medición, mediante la cual se obtiene un resultado, con una evaluación de la exposición o del riesgo. Precisamente 
+porque un valor límite biológico (VLB-INSHT) no representa una "frontera de riesgo", una sola medida ligeramente por debajo de tal 
+valor límite no es garantía, en sí misma, de la inexistencia de riesgo significativo y, viceversa, una sola medida biológica por encima del 
+límite, raramente permitirá alcanzar por sí sola una conclusión, excepción hecha de que supere claramente el límite superior de la 
+variación estadísticamente esperable en unas condiciones higiénicas hipotéticamente correctas según los criterios ambientales.
+Bibliografía
+1.  ACGIH. TLVs. Threshold Limit values and Biological Exposure Indices for 2001. American Conference of Governmental 
+Industrial Hygienists, Cincinnati, Oh, USA, 2001.
+2.  INSHT. AIP Control biológico. Guía de valores límite biológicos, muestreo, análisis y evaluación. INSHT. Ministerio de Trabajo y 
+Asuntos Sociales, 2002.
+3.  ALCOUFFE, J. Surveillance biologique de I'exposition professionelle a des substances chimiques. 2éme journée "Recherche" de 
+I'Institut Interuniversitaire de médecine du travail de Paris-Ile-de-France. CAMIP N°3: 343-350. (1995)
+4.  DFG (Deutsche Forschungsgemeinschaft). Bundesministerium für Arbeit und Sozialordnung. Biologische 
+Arbeitsplatztoranzwerte-BAT-Werte. TRGS 903. Bundesarbeistblatt, 6/1994. 53-56. (1994)
+5.  INSHT. Límites de exposición profesional para Agentes Químicos en España 2001-2002. INSHT. Ministerio de Trabajo y 
+Asuntos Sociales, Madrid, 2001. (Ver sucesivas actualizaciones en www.mtas.es/insht/practice/vlas.htm#vlb).
+6.  INTERNATIONAL SEMINAR ON THE ASSESSMENT OF TOXIC AGENTS AT THE WORKPLACE Roles of Ambient and 
+Biological Monitoring. Luxembourg, 8-12, December, 1980. IntArch Occup Environ Health 50: 197-201.
+7.  OBIOLS, J. Control biológico de los trabajadores expuestos a contaminantes químicos. INSHT (Ministerio de Trabajo y Asuntos 
+Sociales), Madrid, 1998.
+8.  PILLIÉRE, F., ROUSSELIN, X. La suveillance biologique des expositions aux substances chimiques Trav Sec N2 506: 626-630. 
+(1992)
+9.  R.D. 39/1997 de 17.1. (M. Trabajo y A. Soc., B.O.E. 31.1.1997). Reglamento de los servicios de prevención. Art. 37.3.c.
+10.  R.D. 374/2001 de 6.4. (M. Presid., BB.OO.E. 1.5, rect. 30.5 y 22.6.2001). Protección de la salud y seguridad de los trabajadores 
+
+contra los riesgos relacionados con los agentes químicos durante el trabajo. Art. 6.3 y Anexo II. a y b.
+11.  R.D. 665/1997 de 12.5. (M. Presid., B.O.E. 24.5.1997). Protección de los trabajadores contra los riesgos relacionados con la 
+exposición a agentes cancerígenos durante el trabajo. Anexo II. 2.3.
+12.  Scobbie, A., Wilson, H. K. Is that chemical getting in your body? Safety & Health Practitioner 15:22-24. (1997)
+   © INSHT

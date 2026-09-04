@@ -12,8 +12,10 @@ La legislación va donde va siempre: volcada con `herramientas/boe.py` a
 | Fichero | Qué es | Edición | Para qué |
 | --- | --- | --- | --- |
 | `ntp-218.pdf` / `.txt` | **NTP 218: La espirometría forzada en Medicina del Trabajo**, redactada por Joaquín Pérez Nicolás, Diplomado en Enfermería, del Centro Nacional de Condiciones de Trabajo | **1988** | Tema 8 de Enfermería de Empresa, que el propio enunciado del programa remite a esta NTP |
+| `ntp-586.pdf` / `.txt` | **NTP 586: Control biológico: concepto, práctica e interpretación**, redactada por Jordi Obiols Quinto y Xavier Guardino Solá, del Centro Nacional de Condiciones de Trabajo | **2001** | Tema 10 de Enfermería de Empresa: la mitad de «recogida de muestras» del punto |
+| `ntp-1191.pdf` / `.txt` | **NTP 1191: Salud cardiovascular: recomendaciones para su gestión en el ámbito laboral**, del INSST | **2024** | Tema 10: por qué un servicio de prevención se ocupa del corazón |
 
-## Cinco avisos
+## Siete avisos
 
 **1. Las NTP no son obligatorias.** El pie de la propia NTP 218 lo dice: «*Las NTP son guías de
 buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una
@@ -46,6 +48,18 @@ porcentaje del propio cuadro está calculado con 3.82**. En ese mismo ejemplo el
 teórico sale 79.87 y el documento imprime 85.00. Ninguno de los cinco cambia la interpretación de
 ningún ejemplo. Todo ello está declarado en el epígrafe 9 del tema 8.
 
+**6. La NTP 1191 es posterior a la fecha de corte.** Es de 2024. **No hay nada que congelar**: no es
+legislación, y el dato que de ella se cita lo fecha ella misma en 2022, anterior al corte. El tema 10
+lo declara. Es el mismo criterio que se siguió con el material de trastornos musculoesqueléticos en
+`fuentes/prl-especifico/`.
+
+**7. Hay un documento del Instituto que no se ha podido bajar, y conviene dejarlo dicho.** La
+monografía **«Aplicaciones de la electrocardiografía en salud laboral. Guía práctica para el médico
+del trabajo»**, de **1994**, sería la fuente propia de la primera mitad del tema 10. El **4 de
+septiembre de 2026**, tanto su página en el portal del Instituto como la dirección directa de su
+archivo respondieron con un **error de página no encontrada**. Está catalogada y no está servida. El
+tema 10 lo declara y no suple el hueco.
+
 ## Cómo se vuelve a bajar
 
 ```sh
@@ -54,6 +68,15 @@ curl -sSL -o ntp-218.pdf "https://www.insst.es/documents/d/portal-insst/ntp_218-
 python3 -c "import pymupdf; d=pymupdf.open('ntp-218.pdf'); open('ntp-218.txt','w',encoding='utf-8').write('\n'.join(p.get_text() for p in d))"
 ```
 
-La ruta que sirve para las NTP del portal del INSST es `documents/d/portal-insst/`, con el
-nombre del fichero en la forma `ntp_NNN-pdf`. Conviene comprobar con `file` que lo bajado es un
-PDF y no una página de error.
+La ruta `documents/d/portal-insst/ntp_NNN-pdf` sirve para unas NTP y no para otras: para la 218 sí y
+para la 586 no. Cuando devuelve un error, la que sirve es la dirección larga que la propia página de
+la NTP lleva dentro, y **hay que pedirla con agente de navegador y con `Referer`**, porque sin ellos
+el portal devuelve la página HTML en lugar del PDF y `curl` la guarda con extensión `.pdf` sin
+protestar:
+
+```sh
+UA="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+curl -sSL -A "$UA" -e "https://www.insst.es/" -o ntp-586.pdf "<dirección larga del PDF>"
+```
+
+**Conviene comprobar siempre con `file` que lo bajado es un PDF y no una página de error.**
