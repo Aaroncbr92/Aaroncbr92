@@ -783,6 +783,25 @@ sería el fallo del apartado 10 del manual otra vez: **un cero que no se explica
 faltara nada.**
 
 
+### Técnica de Equipos, Instalaciones y Sistemas Eléctricos
+
+**Ninguna pregunta, por el mismo motivo y con el mismo aviso.** **Es la segunda ocupación del proyecto
+sin examen publicado**: la convocatoria anterior tampoco sacó cuadernillo de esta especialidad. No
+existe `especifico-teitse.tsv` y **no se ha inventado ninguno.**
+
+**El volumen se publica con sus quince temas propios y el compartido de prevención**, y **las únicas
+preguntas reales que lleva son las cuarenta y ocho de ese banco compartido.**
+
+**Lo que ocupa el lugar de las preguntas es una sola norma leída hasta el fondo**: el **Reglamento
+electrotécnico para baja tensión** y **sus cincuenta y dos instrucciones técnicas complementarias**,
+más el **Real Decreto 614/2001** de riesgo eléctrico. **Treinta y ocho comprobaciones literales** —diez
+por la lente de exactitud y veintiocho por la de citas— **y cero no literales.**
+
+**Y este bloque ha obligado a escribir una lente nueva**, que es lo que más deja al método: **la de
+exactitud ancla en «Artículo N» y una instrucción técnica numera por apartados**, así que **sobre doce
+de los quince temas habría devuelto un cero vacío.** `refutar_citas` **comprueba cada tramo en negrita
+de un bloque de cita como subcadena literal del volcado**, y **es la que sostiene este bloque.**
+
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al
 lado. No se clasifica por palabras clave, y no por comodidad: las preguntas del

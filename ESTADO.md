@@ -4,34 +4,36 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-04 (Imagen Personal)
+**Última actualización:** 2026-09-04 (Técnica de Equipos, Instalaciones y Sistemas Eléctricos)
 
 ## Qué es esto
 
-Dieciocho temarios de oposición de RTVE, por ocupación tipo: **Producción
+Diecinueve temarios de oposición de RTVE, por ocupación tipo: **Producción
 (Asistencia)**, **Producción**, **Realización (Asistencia)**, **Realización
 Televisión**, **Documentación**, **Información y Contenidos**, **Gestión
 Administrativa**, **Gestión**, **Montaje de Equipos Audiovisuales**, **Edición,
 Montaje y Procesos Audiovisuales**, **Información Gráfica y Captación de Imagen
 y Sonido**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica
 Informática**, **Diseño Gráfico**, **Ingeniería Técnica · Telecomunicación**,
-**Ingeniería Técnica · Industrial** e **Imagen Personal**. El programa sale del
-ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
+**Ingeniería Técnica · Industrial**, **Imagen Personal** y **Técnica de Equipos,
+Instalaciones y Sistemas Eléctricos**. El programa sale del ANEXO 2 de las bases,
+transcrito literal en `convocatoria/`.
 
-Las dieciocho comparten el mismo temario general —**comprobado byte a byte**: el
+Las diecinueve comparten el mismo temario general —**comprobado byte a byte**: el
 bloque común es idéntico en todos los anexos; sólo cambia el pie de página— y
-**las dieciocho** tienen en su bloque específico un tema de prevención de riesgos
+**las diecinueve** tienen en su bloque específico un tema de prevención de riesgos
 laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con **doce
 rúbricas de las que ninguna ocupación lleva todas** y **seis redacciones
 distintas del enunciado**. Por eso los cuerpos de tema llenan las posiciones de
-los **diecinueve volúmenes**: los ocho generales y el de prevención van
+los **veinte volúmenes**: los ocho generales y el de prevención van
 repetidos. El reparto y el orden están en `PLAN.md`.
 
-**Y una de las diecisiete no tiene examen publicado**: Ingeniería Técnica ·
-Industrial. La convocatoria anterior no sacó cuadernillo de esa especialidad, así
-que su volumen **no lleva banco específico** y se apoya entero en el Boletín
-Oficial del Estado. Es un dato de la convocatoria, va escrito en su portada y en
-su apéndice de respuestas, y **no se disimula.**
+**Y dos de las diecinueve no tienen examen publicado**: Ingeniería Técnica ·
+Industrial y Técnica de Equipos, Instalaciones y Sistemas Eléctricos. La
+convocatoria anterior no sacó cuadernillo de esas especialidades, así que sus
+volúmenes **no llevan banco específico** y se apoyan enteros en el Boletín Oficial
+del Estado. Es un dato de la convocatoria, va escrito en sus portadas y en sus
+apéndices de respuestas, y **no se disimula.**
 
 **Convocatoria identificada**: son los anexos 2 de las **bases específicas de la
 convocatoria 1/2022** (turno libre, adaptadas tras el acuerdo transaccional de la
@@ -964,6 +966,70 @@ en Documentación y en Producción (Asistencia).
       examen escrito no sabe preguntar lo que se demuestra haciendo.** **Eso no rebaja el punto:
       cambia cómo se escribe su tema**, que va corto, de definiciones y de método, sin fórmulas ni
       procedimientos de taller.
+
+- [x] **Fase I: Técnica de Equipos, Instalaciones y Sistemas Eléctricos, terminada el 2026-09-04.**
+      15 temas propios más el de prevención, **48.427 palabras de tema y 30.018 de esquema**, **dos
+      normas volcadas** y **38 comprobaciones literales sin un solo fallo** —10 por la lente de
+      exactitud y 28 por la de citas—. **5 plazas en la convocatoria 1/2025.** **Segunda ocupación
+      del proyecto SIN EXAMEN publicado**: su volumen no lleva banco específico y sus 48 preguntas
+      son las del tema compartido de prevención. **La cuenta de erratas de plantilla del proyecto
+      sigue en diez**, y **el proyecto sigue en 1.843 preguntas específicas** repartidas en
+      diecisiete bancos.
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) UNA LENTE NUEVA, escrita por una laguna vista y no por gusto.** `refutar_exactitud`
+      **ancla sus comprobaciones en marcadores del tipo «Artículo N»**, y **una instrucción técnica
+      complementaria numera por apartados** —1.1, 2.2.2, 3.5—. **Sobre doce de los quince temas de
+      este bloque habría devuelto «0 comprobadas, 0 no literales»**, que es **el cero vacío del
+      apartado 10**. `refutar_citas` **recorre los bloques de cita, toma cada tramo en negrita de al
+      menos veinticinco caracteres y comprueba que aparece literalmente en el volcado**: **28 de 28
+      en este bloque.**
+      **2) Una lente nueva se pasa por TODO el corpus antes de fiarse de ella.** Pasada sobre los
+      141 temas del proyecto encontró **un defecto real** —una cita de la Ley de Propiedad
+      Intelectual con «guión» modernizado a «guion», en Producción (Asistencia)— y **31 avisos que
+      no lo son**: **las fórmulas del propio temario encerradas en bloques de cita.** **El límite
+      queda escrito en el docstring de la lente, en el informe de refutación del bloque y en las
+      tareas pendientes.**
+      **3) Dos puntos del anexo pueden ser UN solo tema, y sólo cuando la convocatoria lo dice.**
+      Los puntos 15 y 16 **nombran el MISMO real decreto**, el 842/2002, con la misma fecha de
+      publicación y la misma consolidación, **uno por su articulado y otro por sus instrucciones**.
+      **Separarlos habría partido una norma de su propio tema.** **El criterio que queda escrito es
+      estrecho a propósito**: la unión se hace cuando los dos enunciados nombran **la misma norma**,
+      no cuando tratan materias parecidas. **Y se declara en cuatro sitios**: cabecera del tema, su
+      trazabilidad, portada del volumen e informe de refutación.
+      **4) Una convocatoria que fija la redacción de su norma se comprueba, y se dice el
+      resultado.** Los dos enunciados dicen «texto consolidado, última actualización publicada el
+      28/04/2021», y **ésa es exactamente la última modificación del reglamento vigente al 21 de
+      diciembre de 2022** —el artículo 2.2, por el Real Decreto 298/2021—. **Coinciden**, y **se
+      escribe porque no siempre pasa**: cuando no coincidan, la que vale para el examen es la de la
+      convocatoria.
+      **5) Es el contrario de Ingeniería Técnica · Industrial en el eje que importa.** Aquélla:
+      **veintitrés normas para trece puntos**. Ésta: **una sola para catorce.** **Lo que hay que
+      aprender aquí no son veintitrés normas distintas, es una norma con cincuenta y dos
+      instrucciones y saber cuál se abre ante cada problema**, y por eso el tema del mapa —el más
+      largo del volumen— **enumera las cincuenta y dos con el tema del bloque donde cada una se ha
+      usado, y marca con una raya las que ningún tema ha necesitado.**
+      **6) Un punto sin norma en un bloque enteramente normativo.** El 2, de electrotecnia, **no
+      nombra ninguna**: **va entero como oficio declarado**, con su trazabilidad diciendo
+      expresamente que **no se ha consultado ningún tratado de máquinas eléctricas ni ninguna
+      documentación de fabricante**, y **sin una sola cifra de tarado, rendimiento o múltiplo de
+      corriente de arranque.**
+      **7) Tres temas sin cita propia que NO son un descuido.** El 7 resume la instrucción de
+      prescripciones generales con su apartado al lado, y **sus citas de la misma materia están en
+      los temas 3, 4, 5 y 13**; el 11 y el 12 **aplican al grupo electrógeno y al sistema de
+      alimentación ininterrumpida lo que los temas 8 y 10 ya citaron.** **Un temario que citara lo
+      mismo tres veces no sería más riguroso: sería más largo**, y **la remisión va escrita en la
+      trazabilidad de cada uno.**
+      **8) El punto 17 destapó que el tema compartido de prevención tenía el mapa viejo.** Su
+      enunciado **no era ninguna de las seis redacciones listadas** en ese tema. Comprobarlo obligó a
+      **revisar los anexos de las seis ocupaciones añadidas desde que aquella lista se escribió**, y
+      salieron **dos redacciones más**: la de **Técnica Informática 27** y la de **Imagen Personal
+      10**, ésta **la única que no empieza por «Derechos»** y **la única que nombra los riesgos
+      posturales con rúbrica propia**. **El tema queda en nueve redacciones para diecinueve
+      ocupaciones**, con **su cuadro de rúbricas rehecho**. **Ninguna rúbrica se quedó sin materia**:
+      lo que faltaba era el mapa, no el contenido. **La lección de método**: **un tema compartido
+      envejece cada vez que entra una ocupación nueva**, y **su cabecera hay que releerla en cada
+      alta, no sólo su cuerpo.**
 
 ## Qué comprobación pasa por qué material
 

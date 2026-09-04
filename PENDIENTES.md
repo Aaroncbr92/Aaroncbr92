@@ -713,3 +713,42 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
   iniciales de lo que va dentro del paréntesis formen la sigla—, más el arreglo de la comprobación
   de detrás para que salte por encima de los asteriscos del cierre en negrita. Mientras tanto,
   **las siglas de cada tema nuevo se repasan a ojo** contra su párrafo de presentación.
+
+---
+
+## La cabecera de un tema compartido envejece sin avisar — cerrado el 2026-09-04
+
+- **Dónde**: `temas/prl/prl-especifico.md`, su bloque de enunciados y su cuadro de rúbricas.
+- **Qué pasó**: ese tema decía **«las trece ocupaciones tipo que preparamos lo llevan… hay seis
+  redacciones distintas, y este tema las cubre todas»**. **El proyecto llegó a diecinueve
+  ocupaciones sin que nadie releyera esa frase.** Lo destapó el punto 17 del anexo de Técnica de
+  Equipos, Instalaciones y Sistemas Eléctricos: **su enunciado no era ninguna de las seis.**
+- **Qué se hizo**: se releyeron **los anexos de las seis ocupaciones añadidas desde entonces**, todos
+  en `convocatoria/bases/`. Tres llevaban la primera redacción palabra por palabra —Diseño Gráfico
+  14, Ingeniería Técnica · Telecomunicación 24 e Ingeniería Técnica · Industrial 17— y **tres eran
+  nuevas**: Técnica Informática 27, Técnica de Equipos, Instalaciones y Sistemas Eléctricos 17 e
+  **Imagen Personal 10**, ésta **la única que no empieza por «Derechos»** y **la única que nombra los
+  riesgos posturales**. **El tema queda en nueve redacciones para diecinueve ocupaciones**, con su
+  cuadro de rúbricas rehecho.
+- **Qué NO faltaba**: **materia.** Las rúbricas nuevas ya estaban desarrolladas —el riesgo eléctrico
+  en el apartado 9.8 y los riesgos posturales en los apartados 2 y 3—, y **desde el cuadro se
+  señalan.** Lo que faltaba era el mapa.
+- **La regla que queda escrita**: **cuando entra una ocupación nueva, del tema compartido se relee la
+  CABECERA, no sólo el cuerpo.** **Un cuerpo correcto con una cabecera vieja publica una afirmación
+  falsa en todos los volúmenes a la vez**, que es exactamente lo que estaba pasando.
+
+---
+
+## La lente de citas avisa de las fórmulas propias — abierto el 2026-09-04
+
+- **Dónde**: `herramientas/refutar_citas.py`.
+- **Qué hace**: supone que **todo lo que va en negrita dentro de un bloque `>` es una cita**, y lo
+  busca como subcadena literal del volcado de la fuente.
+- **Qué se le escapa al revés**: **un temario que use el bloque `>` para destacar una fórmula o un
+  cuadro propio recibe un aviso que no es un hallazgo.** Sobre el corpus entero salen **31 avisos de
+  esa clase**, todos identificados y ninguno es un defecto. **Los quince temas de Técnica de Equipos,
+  Instalaciones y Sistemas Eléctricos no usan el bloque así**, y por eso ahí salen 28 de 28.
+- **Qué haría falta para cerrarlo**: **distinguir el bloque de cita del bloque de destaque**, por
+  ejemplo exigiendo que el bloque cierre con una línea de atribución que empiece por `> —`, que es
+  como este proyecto escribe todas sus citas. **Está sin hacer a propósito**: la regla nueva habría
+  que probarla contra los 141 temas antes de fiarse de ella.

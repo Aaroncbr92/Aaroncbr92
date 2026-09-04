@@ -108,6 +108,32 @@ la 1/2025 **no se parece al de aquélla**, y en dos casos el cambio es grande:
 2. **Información y Contenidos, que era la ocupación con más puestos de la 1/2022 con diferencia,
    cae a 38.** Sigue mereciendo su volumen, pero **ya no es donde está el mercado.**
 
+## Lo que se ha cubierto DESPUÉS de escribir este informe
+
+**Este informe es la foto del día en que se leyó la actualización de puestos**, y **desde entonces el
+catálogo ha crecido.** Las tablas de arriba se conservan tal como se hicieron —**una foto no se
+retoca**— y lo que ha cambiado va aquí, con su fecha.
+
+| Volumen añadido | Ocupación tipo en la 1/2025 | Puestos | Terminado |
+|---|---|---:|---|
+| `libro-tecnica-informatica` | Técnica Informática | **28** | 2026-09-02 |
+| `libro-diseno-grafico` | Diseño Gráfico | 12 | 2026-09-02 |
+| `libro-ing-tec-industrial` | Ingeniería Técnica · Industrial | 6 | 2026-09-04 |
+| `libro-imagen-personal` | Imagen Personal | 5 | 2026-09-04 |
+| `libro-ing-tec-teleco` | Ingeniería Técnica · Telecomunicación | 5 | 2026-09-03 |
+| `libro-teitse` | Técnica Equipos, Instal. y Sist. Eléctricos | 5 | 2026-09-04 |
+| | **Total añadido** | **61** | |
+
+**La cuenta queda así**: **761 + 61 = 822 de los 872 puestos**, es decir **el 94,3 %**, y **50 puestos
+repartidos en las dieciséis filas restantes de la tabla de arriba.**
+
+**Y tres de esas dieciséis no son cubribles y así está escrito** en
+`informes/ocupaciones-sin-programa-1-2025.md`: **Realización · RADIO (13)**, **Construcción, Montaje y
+Acabado de Decorados (10)** e **Ingeniería Técnica · Informática (1)** **no publicaron anexo con
+temario**, y **este proyecto no escribe un temario sin programa.** **Otras tres —Arquitectura
+Superior, Arquitectura Técnica y Proyectos, Edificación y Obra Civil— no necesitan temario**: su
+selección es por concurso de méritos.
+
 ## La advertencia que este informe tiene que dejar por escrito
 
 **Los temarios de este proyecto están verificados contra el Anexo 2 de la Convocatoria 1/2022, no

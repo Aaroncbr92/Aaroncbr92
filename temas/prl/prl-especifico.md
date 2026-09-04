@@ -4,17 +4,17 @@
 
 |  |  |
 | --- | --- |
-| **Bloque** | Temario específico · Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 8 · Realización 5.1 · Información Gráfica 7 · Edición y Montaje 7 · Montaje de Equipos 7 · Documentación 7 · Información y Contenidos 11 · Gestión Administrativa 13 · Gestión 31 · **Sonido 17** · **Técnica de Equipos y Sistemas Electrónicos 21** |
-| **Sirve para** | **Producción (Asistencia)** · **Producción** · **Realización (Asistencia)** · **Realización** · **Información Gráfica** · **Edición y Montaje** · **Montaje de Equipos** · **Gestión Administrativa** · **Gestión** · **Documentación** · **Información y Contenidos** · **Sonido** · **Técnica de Equipos y Sistemas Electrónicos** |
-| **Fuente** | **Doce rúbricas** sobre **dieciséis fuentes**: Ley 31/1995, RD 487/1997, RD 488/1997, RD 486/1997, RD 1215/1997, RD 286/2006, RD 393/2007, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015, las normas UNE-EN de protección contra caídas —**no consultadas**— y documentación técnica del INSST |
+| **Bloque** | Temario específico · Producción (Asistencia) 18 · Producción 17 · Realización (Asistencia) 8 · Realización 5.1 · Información Gráfica 7 · Edición y Montaje 7 · Montaje de Equipos 7 · Documentación 7 · Información y Contenidos 11 · Gestión Administrativa 13 · Gestión 31 |
+| **Sirve para** | **Producción (Asistencia)** · **Producción** · **Realización (Asistencia)** · **Realización** · **Información Gráfica** · **Edición y Montaje** · **Montaje de Equipos** · **Gestión Administrativa** · **Gestión** · **Documentación** · **Información y Contenidos** |
+| **Fuente** | **Diez rúbricas** sobre **dieciséis fuentes**: Ley 31/1995, RD 487/1997, RD 488/1997, RD 486/1997, RD 1215/1997, RD 286/2006, RD 393/2007, RD 513/2017, RD 2267/2004, RD 614/2001, RD 842/2002, RD 39/1997, RDLeg 8/2015, las normas UNE-EN de protección contra caídas —**no consultadas**— y documentación técnica del INSST |
 | **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-1997-8669` · `BOE-A-1997-8670` · `BOE-A-1997-8671` · `BOE-A-1997-17824` · `BOE-A-2001-11881` · `BOE-A-2002-18099` · `BOE-A-2004-21216` · `BOE-A-2006-4414` · `BOE-A-2007-6237` · `BOE-A-2015-11724` · `BOE-A-2017-6606`. La **documentación técnica del INSST** no tiene identificador del BOE: se cita por su título en cada epígrafe |
 | **Redacción que se estudia** | Las **normas**, en su redacción vigente el **21/12/2022**. La **documentación técnica del INSST**, en su **edición publicada**, indicada caso por caso |
-| **Extensión** | **21.237 palabras** |
+| **Extensión** | **20.821 palabras** |
 
 <!-- /portada -->
 
-> **Enunciado de la convocatoria** (anexo 2). **Las trece ocupaciones tipo que preparamos lo llevan,
-> y no lo llevan igual.** Hay **seis redacciones distintas**, y este tema las cubre todas.
+> **Enunciado de la convocatoria** (anexo 2). **Las diecinueve ocupaciones tipo que preparamos lo
+> llevan, y no lo llevan igual.** Hay **nueve redacciones distintas**, y este tema las cubre todas.
 >
 > **La redacción común, palabra por palabra en seis de ellas** —**Producción (Asistencia) 18**,
 > **Producción 17**, **Documentación 7**, **Información y Contenidos 11**, **Gestión Administrativa
@@ -66,6 +66,40 @@
 > prevención. Seguridad en Trabajos en altura: riesgos y medidas preventivas.** Riesgos asociados al
 > uso de PVD y medidas preventivas. Incendios y medidas preventivas. Accidente in itinere o in misión
 > y medidas preventivas.
+>
+> **La séptima es la de Técnica Informática 27**, que junta las pantallas con las cargas y el riesgo
+> eléctrico:
+>
+> Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
+> Pantallas de visualización de datos: riesgos asociados y medidas de prevención. Trastornos
+> musculoesqueléticos en la extremidad superior: factores de riesgo y su prevención.
+> **Manipulación manual de cargas: riesgos asociados y su prevención. Riesgo Eléctrico y medidas
+> preventivas.** Incendios y medidas preventivas. Accidente in itinere o in misión y medidas
+> preventivas.
+>
+> **La octava es la de Técnica de Equipos, Instalaciones y Sistemas Eléctricos 17**, que es la sexta
+> **sin las pantallas**:
+>
+> Derechos y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
+> **Riesgo Eléctrico y medidas preventivas. Manipulación manual de cargas: riesgos asociados y su
+> prevención. Seguridad en Trabajos en altura: riesgos y medidas preventivas.** Incendios y medidas
+> preventivas. Accidente in itinere o in misión y medidas preventivas.
+>
+> **Y la novena es la de Imagen Personal 10**, que es la única que **no empieza por «Derechos»** y la
+> única que nombra los riesgos posturales:
+>
+> **Conocimientos** y obligaciones de los trabajadores en materia de prevención de riesgos laborales.
+> **Manipulación manual de cargas: riesgos asociados y su prevención.** Trastornos
+> musculoesqueléticos en la extremidad superior **y medidas de prevención**. **Riesgos posturales y
+> medidas preventivas.** Incendios y medias preventivas. Accidente in itinere o in mision y medidas
+> preventivas.
+>
+> **Esa novena se transcribe tal cual, con sus dos erratas del original** —«medias preventivas» por
+> «medidas» y «mision» sin tilde—, **porque una transcripción no corrige a su fuente.**
+>
+> **Y las tres ocupaciones tipo restantes que este proyecto ha añadido —Diseño Gráfico 14, Ingeniería
+> Técnica · Telecomunicación 24 e Ingeniería Técnica · Industrial 17— llevan la PRIMERA redacción,
+> palabra por palabra.**
 >
 > **Por eso este tema lleva doce apartados y no cinco**, y cada uno dice de qué ocupaciones es. Nadie
 > tiene que estudiarlos todos: el índice y el epígrafe de cada rúbrica lo señalan.
@@ -163,23 +197,30 @@ distintos.
 
 | Rúbrica | Ocupaciones que la llevan |
 |---|---|
-| **1.** Derechos y obligaciones | **Las trece** |
-| **2.** Pantallas de visualización | Todas menos Información Gráfica y Montaje de Equipos |
-| **3.** Trastornos musculoesqueléticos | Todas menos **Técnica de Equipos y Sistemas Electrónicos** |
-| **4.** Manipulación manual de cargas | **Información Gráfica**, **Montaje de Equipos** y **Técnica de Equipos y Sistemas Electrónicos** |
+| **1.** Derechos y obligaciones | **Las diecinueve** · **Imagen Personal la titula «Conocimientos y obligaciones»** |
+| **2.** Pantallas de visualización | Todas menos **Información Gráfica**, **Montaje de Equipos**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** e **Imagen Personal** |
+| **3.** Trastornos musculoesqueléticos | Todas menos **Técnica de Equipos y Sistemas Electrónicos** y **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** |
+| **4.** Manipulación manual de cargas | **Información Gráfica**, **Montaje de Equipos**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica Informática**, **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** e **Imagen Personal** |
 | **5.** Exposición a altos niveles de sonido | **Realización (Asistencia)**, **Realización** y **Sonido** |
-| **6.** Seguridad en trabajos en altura | **Información Gráfica**, **Montaje de Equipos**, **Sonido** y **Técnica de Equipos y Sistemas Electrónicos** |
+| **6.** Seguridad en trabajos en altura | **Información Gráfica**, **Montaje de Equipos**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos** y **Técnica de Equipos, Instalaciones y Sistemas Eléctricos** |
 | **7.** Medios auxiliares: plataformas y carretillas | **Información Gráfica** y **Montaje de Equipos** |
 | **8.** Espacios confinados | **Sólo Montaje de Equipos** |
-| **9.** Incendios | **Las trece** |
-| **10.** Accidente in itinere o in misión | **Las trece** |
+| **9.** Incendios | **Las diecinueve** |
+| **10.** Accidente in itinere o in misión | **Las diecinueve** |
 | **11.** Actuación ante un accidente o una emergencia | **Sonido** y **Técnica de Equipos y Sistemas Electrónicos** |
 | **12.** Iluminación de los lugares de trabajo | **Ninguna la lleva con nombre propio**: se incorpora porque el examen la ha preguntado |
+| **Riesgos posturales** | **Sólo Imagen Personal la lleva con nombre propio.** **No abre apartado nuevo**: su materia es la de los apartados 2 y 3 —la postura y el estatismo del puesto y los factores de riesgo del trastorno—, y **desde aquí se señala** |
 
-**Y el riesgo eléctrico, que las dos ocupaciones técnicas nuevas traen con rúbrica propia** —«Contactos
-eléctricos y su prevención» en Sonido y «Riesgos Eléctrico y medidas preventivas» en Técnica de
-Equipos—, **ya estaba desarrollado en el epígrafe 9.8**, donde entró como origen de incendios. **No se
-duplica: se señala desde aquí.**
+**Y el riesgo eléctrico, que cuatro ocupaciones técnicas traen con rúbrica propia** —«Contactos
+eléctricos y su prevención» en Sonido y «Riesgo Eléctrico y medidas preventivas» en Técnica de Equipos
+y Sistemas Electrónicos, en Técnica Informática y en Técnica de Equipos, Instalaciones y Sistemas
+Eléctricos—, **ya estaba desarrollado en el epígrafe 9.8**, donde entró como origen de incendios. **No
+se duplica: se señala desde aquí.**
+
+**Y para la ocupación de instalaciones eléctricas hay que añadir una frontera, porque su anexo la
+dibuja**: **su punto 14 desarrolla el riesgo eléctrico con su propio real decreto** —el 614/2001— **y
+su punto 17 es esta rúbrica.** **Lo que aquí se estudia son los derechos y obligaciones del
+trabajador**; **lo técnico del riesgo eléctrico está en el tema 14 de su específico.**
 
 Esa frontera no es una interpretación cómoda: **es la que explica el reparto de las preguntas
 reales**. De las preguntas de prevención de los cuadernillos de 2024, **la mayoría son de la Ley

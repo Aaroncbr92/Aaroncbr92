@@ -1,5 +1,19 @@
 # Tema 1 del específico de Técnica de Equipos, Instalaciones y Sistemas Eléctricos · Fundamentos de electricidad y medida
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Téc. Equipos, Instalaciones y Sistemas Eléctricos · punto 1 |
+| **Sirve para** | **Téc. Equipos, Instalaciones y Sistemas Eléctricos** |
+| **Fuente** | **Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión y sus instrucciones técnicas complementarias** |
+| **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **los apartados 2 y 4 del artículo 4** |
+| **Aviso de reparto** | **Este punto NOMBRA transformadores y motores; el punto 2 los DESARROLLA.** Aquí se presentan y se remite: dos temas del mismo específico no dicen lo mismo |
+| **Extensión** | **3.419 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el reglamento electrotécnico para baja
 tensión (**REBT**) y sus instrucciones técnicas complementarias (**ITC-BT 01** a **ITC-BT 52**); el
 voltio (**V**), el amperio (**A**), el ohmio (**Ω**), el vatio (**W**), el kilovatio (**kW**), el
@@ -7,8 +21,8 @@ voltamperio (**VA**) y el kilovoltamperio (**kVA**); el hercio (**Hz**); la tens
 la corriente alterna (**CA**) y la corriente continua (**CC**); el valor eficaz (**RMS**, *root mean
 square*); y la Asociación Española de Normalización (**UNE**).
 
-> Enunciado de la convocatoria (Anexo 2, temario específico de la ocupación tipo de Técnica de
-> Equipos, Instalaciones y Sistemas Eléctricos, punto 1):
+> Enunciado del programa (Anexo 2 de la convocatoria 1/2022, temario específico de la ocupación
+> tipo de Técnica de Equipos, Instalaciones y Sistemas Eléctricos, punto 1):
 > «Conocimientos de electricidad: Tensión, corriente y resistencia. La ley de Ohm. Corriente alterna
 > y corriente continua. Medición de corriente y tensión en continua y alterna. Transformadores.
 > Motores.»
@@ -24,6 +38,17 @@ que casi todo lo que aquí se estudia como física acaba teniendo un artículo d
 lo señala cada vez que ocurre.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las tres magnitudes y la ley que las une](#1-las-tres-magnitudes-y-la-ley-que-las-une)
+- [2. Potencia, energía y el factor de potencia](#2-potencia-energía-y-el-factor-de-potencia)
+- [3. Corriente continua y corriente alterna](#3-corriente-continua-y-corriente-alterna)
+- [4. El sistema trifásico](#4-el-sistema-trifásico)
+- [5. La medida de tensión y de corriente](#5-la-medida-de-tensión-y-de-corriente)
+- [6. Los transformadores y los motores, y dónde se estudian](#6-los-transformadores-y-los-motores-y-dónde-se-estudian)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las tres magnitudes y la ley que las une

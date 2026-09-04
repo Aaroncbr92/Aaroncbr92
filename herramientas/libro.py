@@ -1195,6 +1195,77 @@ BLOQUES = {
                       "un volcado posterior, y <b>esa fecha va escrita al pie de cada "
                       "cita</b>.</p>",
     ),
+    "teitse": dict(
+        carpeta="teitse",
+        rotulo="Temario espec\u00edfico \u00b7 T\u00e9c. Equipos, Instalaciones y Sistemas El\u00e9ctricos",
+        ocupacion="T\u00e9c. Equipos, Instalaciones y Sistemas El\u00e9ctricos",
+        titulo="Temario espec\u00edfico",
+        subtitulo="Los diecis\u00e9is temas de <b>T\u00e9cnica de Equipos, Instalaciones y "
+                  "Sistemas El\u00e9ctricos</b>",
+        pie="Oposiciones RTVE \u2013 T\u00e9c. Equipos, Instalaciones y Sistemas El\u00e9ctricos",
+        avisos=dict(AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        # el anexo tiene diecisiete puntos y el temario quince temas propios m\u00e1s el de
+        # prevenci\u00f3n: los puntos 15 y 16 van en un solo tema porque **nombran el mismo
+        # real decreto**, uno por su articulado y otro por sus instrucciones, y separarlos
+        # partir\u00eda una norma de su propio tema. El punto 17 es el tema compartido.
+        # Los quince bancos van a None: no hay examen de esta ocupaci\u00f3n
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "fundamentos-de-electricidad-y-medida", None),
+            (2, "electrotecnia-transformadores-y-motores", None),
+            (3, "dispositivos-de-proteccion-y-maniobra", None),
+            (4, "materiales-electricos-cables-corte-y-envolventes", None),
+            (5, "calculo-de-lineas-longitudes-y-secciones", None),
+            (6, "instalaciones-de-enlace-y-centros-de-transformacion", None),
+            (7, "instalaciones-electricas-de-interior", None),
+            (8, "instalaciones-singulares-y-automatizadas", None),
+            (9, "mantenimiento-medida-y-tomas-de-tierra", None),
+            (10, "tecnicas-y-procesos-en-media-y-baja-tension", None),
+            (11, "grupos-electrogenos", None),
+            (12, "sistemas-de-alimentacion-ininterrumpida-pilas-y-baterias", None),
+            (13, "planimetria-y-documentacion", None),
+            (14, "seguridad-y-riesgo-electrico", None),
+            (15, "el-reglamento-electrotecnico-y-sus-instrucciones", None),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Esta ocupaci\u00f3n no tiene examen publicado</b>, y por eso el "
+                         "\u00fanico banco de este volumen es el del tema compartido de "
+                         "prevenci\u00f3n de riesgos laborales: <b>cuarenta y ocho preguntas "
+                         "reales</b>, tomadas de los cuadernillos de 2024 de otras "
+                         "especialidades, sobre la materia que <b>todas</b> comparten. "
+                         "<b>Ninguna respuesta oficial de ese banco est\u00e1 mal</b>; las que "
+                         "llevan matiz van avisadas debajo de su n\u00famero. Para los quince "
+                         "temas propios <b>no hay plantilla que contrastar</b>, y este temario "
+                         "no se inventa preguntas: lo que ofrece en su lugar es <b>el "
+                         "reglamento citado literalmente</b>, con su identificador y su fecha "
+                         "de redacci\u00f3n, que es contra lo que se corrige un examen de verdad.",
+        aviso_portada="<p><b>Cinco plazas convocadas</b> en la convocatoria 1/2025 y, como en "
+                      "Ingenier\u00eda T\u00e9cnica \u00b7 Industrial, <b>ning\u00fan examen que "
+                      "estudiar</b>: la convocatoria anterior no public\u00f3 cuadernillo de esta "
+                      "especialidad. El volumen lo dice aqu\u00ed y en el ap\u00e9ndice de "
+                      "respuestas, y se apoya entero en <b>el Bolet\u00edn Oficial del "
+                      "Estado</b>.</p>"
+                      "<p><b>Toda la ocupaci\u00f3n gira sobre una sola norma</b>: el "
+                      "<b>Reglamento electrot\u00e9cnico para baja tensi\u00f3n</b>, aprobado por "
+                      "el Real Decreto 842/2002, <b>y sus cincuenta y dos instrucciones "
+                      "t\u00e9cnicas complementarias</b>. La convocatoria lo dice sin rodeos: sus "
+                      "puntos 15 y 16 son el reglamento y sus instrucciones, y los trece "
+                      "anteriores acaban casi siempre en uno de sus apartados. A ella se suma "
+                      "el <b>Real Decreto 614/2001, de riesgo el\u00e9ctrico</b>, que sostiene el "
+                      "punto 14.</p>"
+                      "<p><b>Los puntos 15 y 16 van en un solo tema y la uni\u00f3n va "
+                      "declarada</b>: los dos enunciados nombran el <b>mismo real decreto</b>, "
+                      "uno por su articulado y otro por sus instrucciones, y separarlos "
+                      "partir\u00eda una norma de su propio tema. No se recorta contenido: el 15 "
+                      "se desarrolla en el articulado y el 16 en el mapa completo de las "
+                      "cincuenta y dos instrucciones.</p>"
+                      "<p>Y una coincidencia que conviene se\u00f1alar porque no siempre se da: "
+                      "los dos enunciados fijan como referencia el <b>texto consolidado con la "
+                      "\u00faltima actualizaci\u00f3n publicada el 28 de abril de 2021</b>, que es "
+                      "<b>exactamente la redacci\u00f3n vigente el 21 de diciembre de 2022</b> "
+                      "sobre la que estudia este proyecto. La convocatoria y la fecha de corte "
+                      "apuntan al mismo texto.</p>",
+    ),
     "diseno-grafico": dict(
         carpeta="diseno-grafico",
         rotulo="Temario espec\u00edfico \u00b7 Dise\u00f1o Gr\u00e1fico",

@@ -1,13 +1,27 @@
 # Tema 2 del específico de Técnica de Equipos, Instalaciones y Sistemas Eléctricos · Electrotecnia: transformadores y motores
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Téc. Equipos, Instalaciones y Sistemas Eléctricos · punto 2 |
+| **Sirve para** | **Téc. Equipos, Instalaciones y Sistemas Eléctricos** |
+| **Fuente** | **Sin norma: el enunciado no nombra ninguna.** Su materia es la teoría de máquinas eléctricas, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **El enunciado es el índice** | **Primera mitad el transformador** —generalidades, teoría, acoplamiento en paralelo, autotransformador, aislamiento galvánico, pérdidas—; **segunda mitad el motor** —tipos, estrella-triángulo, guardamotores |
+| **Extensión** | **3.733 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el reglamento electrotécnico para baja
 tensión (**REBT**), del tema 1; el voltamperio (**VA**) y el kilovoltamperio (**kVA**); el vatio
 (**W**) y el kilovatio (**kW**); revoluciones por minuto (**r.p.m.**); la relación de transformación
 (**m**); el número de pares de polos (**p**); la protección térmica de motor o **guardamotor**; el
 arrancador progresivo (**arrancador suave**); y el variador de frecuencia (**variador**).
 
-> Enunciado de la convocatoria (Anexo 2, temario específico de la ocupación tipo de Técnica de
-> Equipos, Instalaciones y Sistemas Eléctricos, punto 2):
+> Enunciado del programa (Anexo 2 de la convocatoria 1/2022, temario específico de la ocupación
+> tipo de Técnica de Equipos, Instalaciones y Sistemas Eléctricos, punto 2):
 > «Electrotecnia: Generalidades sobre transformadores. Teoría de funcionamiento. Acoplamiento en
 > paralelo. Autotransformador. Aislamiento galvánico. Pérdidas. Motores: tipos de motores,
 > disposición estrella‐triángulo. Guarda‐motores.»
@@ -25,6 +39,19 @@ fundamentos —inducción, sistema trifásico, estrella y triángulo como conexi
 se repiten**: se usan.
 
 <!-- indice -->
+
+## Índice
+
+- [1. El transformador: qué es y en qué se apoya](#1-el-transformador-qué-es-y-en-qué-se-apoya)
+- [2. El aislamiento galvánico](#2-el-aislamiento-galvánico)
+- [3. El autotransformador](#3-el-autotransformador)
+- [4. El acoplamiento en paralelo](#4-el-acoplamiento-en-paralelo)
+- [5. Las pérdidas y el rendimiento](#5-las-pérdidas-y-el-rendimiento)
+- [6. Los motores: tipos](#6-los-motores-tipos)
+- [7. El arranque estrella-triángulo y los demás](#7-el-arranque-estrella-triángulo-y-los-demás)
+- [8. El guardamotor y la protección de la máquina](#8-el-guardamotor-y-la-protección-de-la-máquina)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El transformador: qué es y en qué se apoya

@@ -1,5 +1,19 @@
 # Tema 3 del específico de Técnica de Equipos, Instalaciones y Sistemas Eléctricos · Dispositivos de protección y maniobra
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Téc. Equipos, Instalaciones y Sistemas Eléctricos · punto 3 |
+| **Sirve para** | **Téc. Equipos, Instalaciones y Sistemas Eléctricos** |
+| **Fuente** | **Real Decreto 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico para baja tensión y sus instrucciones técnicas complementarias** |
+| **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el apartado 1.1 de la ITC-BT-22 y su letra a)**, **el apartado 3.5 de la ITC-BT-24** y **el apartado 2 de la ITC-BT-18** |
+| **El punto con más instrucción técnica detrás** | **Cuatro instrucciones lo sostienen** —esquemas de neutro, puesta a tierra, sobreintensidades y contactos—, **las cuatro volcadas y citadas** |
+| **Extensión** | **4.857 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el reglamento electrotécnico para baja
 tensión (**REBT**) y sus instrucciones (**ITC-BT-08**, **ITC-BT-18**, **ITC-BT-22**, **ITC-BT-23**,
 **ITC-BT-24**); el interruptor diferencial (**ID**) y su corriente diferencial-residual asignada
@@ -11,8 +25,8 @@ de neutro y protección (**CPN** o **PEN**); los esquemas de conexión del neutr
 **IP4X**, **IP XXD**); las clases de diferencial (**AC**, **A**, **B** y **S**); y la Asociación
 Española de Normalización (**UNE**).
 
-> Enunciado de la convocatoria (Anexo 2, temario específico de la ocupación tipo de Técnica de
-> Equipos, Instalaciones y Sistemas Eléctricos, punto 3):
+> Enunciado del programa (Anexo 2 de la convocatoria 1/2022, temario específico de la ocupación
+> tipo de Técnica de Equipos, Instalaciones y Sistemas Eléctricos, punto 3):
 > «Dispositivos de protección y maniobra: Protección diferencial. Puesta a tierra. Aparatos de
 > maniobra y control y protección a baja tensión. Interruptores de maniobra. Automatismos y cuadros
 > eléctricos. Conmutación sin paso por cero.»
@@ -35,6 +49,20 @@ electrocución** —una corriente de treinta miliamperios que mata no lo hace sa
 no protege el cable de una sobrecarga.** **Los dos hacen falta y ninguno sustituye al otro.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las sobreintensidades y quién las corta](#1-las-sobreintensidades-y-quién-las-corta)
+- [2. El magnetotérmico](#2-el-magnetotérmico)
+- [3. La protección diferencial](#3-la-protección-diferencial)
+- [4. Los esquemas de conexión del neutro](#4-los-esquemas-de-conexión-del-neutro)
+- [5. La puesta a tierra](#5-la-puesta-a-tierra)
+- [6. La protección contra contactos](#6-la-protección-contra-contactos)
+- [7. Los aparatos de maniobra](#7-los-aparatos-de-maniobra)
+- [8. Automatismos y cuadros](#8-automatismos-y-cuadros)
+- [9. La conmutación sin paso por cero](#9-la-conmutación-sin-paso-por-cero)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las sobreintensidades y quién las corta
