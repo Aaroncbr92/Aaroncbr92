@@ -1,0 +1,231 @@
+ 
+NTP 177: La carga física de trabajo: definición y evaluación
+Physical work load: definition and mesurement 
+La charge physique de travail: définition et evaluation
+Redactor:
+Ricardo Chavarría Cosar 
+Ingeniero Técnico Eléctrico
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO - BARCELONA
+Introducción
+Si entendemos la Carga de Trabajo como "el conjunto de requerimientos psico-físicos a los que el trabajador se ve sometido a lo largo 
+de la jornada laboral", tenemos que admitir que para realizar una valoración correcta de dicha carga o actividad del individuo frente a la 
+tarea hay que valorar los dos aspectos reflejados en la definición, o sea el aspecto físico y el aspecto mental dado que ambos 
+coexisten, en proporción variable, en cualquier tarea.
+Aunque, en general, el progreso técnico implica un crecimiento de los requerimientos mentales en detrimento de los físicos en muchos 
+puestos de trabajo, no es menos cierto que aún existen puestos en los que las exigencias físicas siguen siendo elevadas, por lo que es 
+necesario evaluarlas y aportar las medidas correctoras precisas para eliminar en lo posible los trabajos pesados.
+En esta Nota Técnica se analizarán los métodos de evaluación de las exigencias físicas de la tarea. La valoración de los aspectos 
+mentales se ha desarrollado en la Nota Técnica de Prevención nº 179.
+Trabajo muscular
+Todo tipo de trabajo requiere por parte del trabajador un consumo de energía tanto mayor cuanto mayor sea el esfuerzo solicitado.
+La realización de un trabajo muscular implica el poner en acción una serie de músculos que aportan la fuerza necesaria; según la 
+forma en que se produzcan las contracciones de estos músculos el trabajo desarrollado se puede considerar como estático o 
+dinámico.
+El trabajo muscular se denomina estático cuando la contracción de los músculos es continua y se mantiene durante un cierto período 
+de tiempo.
+El trabajo dinámico, por el contrario, produce una sucesión periódica de tensiones y relajamientos de los músculos activos, todas ellas 
+de corta duración.
+Aunque en la práctica, excepto en casos muy característicos, la frontera entre trabajo estático y dinámico no es fácil de determinar, es 
+importante mantener esta distinción por las consecuencias que se derivan de uno y otro tipo de trabajo.
+La consecuencia fundamental viene determinada por las diferencias que se producen en la irrigación sanguínea de los músculos que 
+es la que, en definitiva, fija el límite en la producción del trabajo muscular. Dicha irrigación es fundamental por dos motivos:
+Porque la sangre aporta al músculo la energía necesaria.
+Porque, además, la sangre evacua del músculo los residuos de la reacción de oxidación de la glucosa producidos como consecuencia 
+del trabajo (ácido láctico).
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1984
+
+Por el contrario en el trabajo estático, al comprimirse los vasos sanguíneos, el aporte de sangre a los músculos no sólo no aumenta 
+sino que disminuye, privando al músculo del oxígeno y de la glucosa que necesita. Además los residuos producidos no pueden ser 
+eliminados con la rapidez necesaria, acumulándose y desencadenando la fatiga muscular.
+Criterios de evaluación del trabajo muscular
+El estudio del trabajo muscular, sea éste estático o dinámico, tiene especial importancia en el caso de los trabajos denominados 
+"pesados" por exigir esfuerzos físicos importantes.
+Para la determinación de la carga física de una tarea se pueden utilizar básicamente tres criterios de valoración:
+G     Consumo de energía por medio de la observación de la actividad a desarrollar por el operario, descomponiendo todas las 
+operaciones en movimientos elementales y calculando, con la ayuda de tablas, el consumo total.
+G     Medida del consumo de oxígeno del operario durante el trabajo, ya que existe una relación lineal entre el volumen de aire 
+respirado y el consumo energético.
+G     El tercer criterio parte del análisis de la frecuencia cardiaca para calcular el consumo energético.
+En esta Nota Técnica se va a determinar la carga de una tarea a partir del Consumo de energía.
+Método del consumo de energía
+El hombre transforma, por medio de un proceso biológico, la energía química de los alimentos en energía mecánica, que utiliza para 
+realizar sus actividades, y en calor. Este consumo de energía se expresa generalmente en kilocalorías (Kcal) siendo 1 kilocaloría la 
+cantidad de calor necesaria para elevar la temperatura de un litro de agua de 14,5ºC. a 15,5ºC.
+El consumo energético que nos interesa es el debido a la realización del trabajo, es decir el "metabolismo de trabajo". Sin embargo, si 
+queremos calcular o definir la actividad física máxima, es necesario establecer el consumo energético total, que incluye los siguientes 
+factores:
+G     Metabolismo basal.
+G     Metabolismo extraprofesional o de ocio.
+G     Metabolismo de trabajo.
+El metabolismo basal, que depende de la talla, el peso y el sexo, y es proporcional a la superficie corporal, es el consumo mínimo de 
+energía necesario para mantener en funcionamiento los órganos del cuerpo, independientemente de que se trabaje o no. 
+Experimentalmente se ha calculado (Scherrer, 1967) que para un hombre de 70 Kgs. es aproximadamente de 1700 Kcal/día y para una 
+mujer de unos 60 Kgs. de unas 1400 Kcal/día.
+Dentro del metabolismo basal se incluye el metabolismo llamado de reposo que se refiere al consumo energético necesario para 
+facilitar la digestión y la termorregulación.
+El metabolismo extraprofesional o de ocio es el debido a otras actividades habituales, como puede ser el aseo, vestirse, etc. y que 
+como media se estima (Lehmann, 1960) un consumo de unas 600 Kcal/día para el hombre y de 500 Kcal/día para la mujer.
+El metabolismo de trabajo se calcula teniendo en cuenta dos factores:
+G     Carga estática (posturas).
+G     Carga Dinámica. 
+H     Desplazamiento.
+H     Esfuerzos musculares.
+H     Manutención de cargas.
+Para el cálculo de los diferentes factores, en el anexo 1 se incluyen las tablas con los valores promedio según estimaciones de 
+Guelaud, Spitzer, Hettinger y Scherrer.
+A título de ejemplo, podemos decir que en un trabajo dinámico el aporte de sangre al músculo es de 10 a 20 veces mayor que en 
+estado de reposo.
+
+este valor el trabajo se considera pesado.
+Conviene resaltar que se trata de valores medios, calculados para grandes periodos de tiempo, prácticamente toda la vida laboral de la 
+persona, pudiéndose alcanzar en determinados momentos valores más altos.
+Ejemplo
+Consideramos el siguiente caso práctico:
+Determinar el consumo energético debido al trabajo (metabolismo de trabajo) de un operario que ocupa el puesto de trabajo de 
+verificación de piezas con metaloscopio.
+Para ello dispone de dos metaloscopios, en uno realiza la verificación de piezas pequeñas que extrae por muestreo de unas cestas, y 
+en el otro verifica paliers.
+A continuación se detallan las tareas elementales en que podemos descomponer la actividad y el consumo energético de cada una de 
+estas tareas, en función de los valores de las tablas de la I a la IV y del tiempo empleado en cada una.
+Carga estática
+TAREA 1
+Posición de trabajo, de pie ligeramente curvado. Según los datos de la tabla I para un trabajo de pie curvado son: 0,16 Kcal/min. (para 
+la postura de pie normal), más 0,21 Kcal/min. (para posición curvado), es decir 0,37 Kcal/min., tiempo 8 horas.
+0,37 Kcal/min. x 60 min. x 8 horas = 178 Kcal/jornada
+Límites y normas del consumo energético
+En relación al método estudiado en esta Nota Técnica, se puede establecer algunas normas generales que sirvan de referencia para la 
+clasificación de las actividades según su nivel de exigencia.
+No obstante hay que tener en cuenta que estos límites están fijados para un hombre adulto medio y sano debiendo ser modificados 
+según una serie de factores como: edad, sexo, constitución física, grado de entrenamiento, etc., que no hay que olvidar a la hora de 
+efectuar la valoración.
+Asimismo habrá que considerar, dónde y cómo se realiza la tarea: las condiciones termohigrométricas, el tipo de vestido, las exigencias 
+mentales, etc. también influyen en el grado de penosidad.
+Respecto a los límites, en relación al consumo de energía, se admite que para una actividad física profesional, repetida durante varios 
+años, el metabolismo de trabajo no debería pasar de 2000-2500 Kcal/día (Scherrer, 1967 y Grandjean, 1969), cuando se sobrepasa 
+
+(*) No incluye ni el metabolismo de base (1.1 Kcal/min) ni el reposo. 
+(**) Valores propuestos por Guelaud ed alt. (1975)
+Carga dinámica
+TAREA 2
+Trabajo de verificación de piezas en metaloscopio. Lo consideramos como un trabajo con ambos brazos de tipo medio que representa, 
+según la tabla III 2 Kcal/min., tiempo empleado 5 horas.
+2,2 Kcal/min. x 60 min. x 5 horas = 660 Kcal/jornada
+Tabla III: Esfuerzos musculares. 
+(*) Valores propuestos por Lehmann (1960)
+Tabla I: Carga Estática (Posturas) * 
+
+E = n [L (K llevar ida + K llevar vuelta) + H (K levantar + K bajar)]
+E = 70 [4 (0,047 + 0.059) + 1 (0,60 + 0,26)] = 90 Kcal/jornada
+Tabla IV: Manejo de cargas. 
+(*) Los valores de (4) y (8) se dan en el cuadro 1
+Cuadro 1: Consumo según la importancia de la carga 
+desplazada (en Kcal./metro). 
+(1), (2) y (4) : Valores tomados de Spitzer y Hettinger. (3) y 
+(5) : Estimaciones sobre datos de los mismos autores
+TAREA 4
+Levantar y descargar paliers para su verificación con un peso cada uno de 8 Kgs. y una cantidad de 200 unidades en toda la jornada, el 
+desnivel a vencer es de 1 metro y la distancia de desplazamiento es de 2 metros, para ello se emplean 2 horas. Según la fórmula del 
+transporte de cargas, la tabla IV y el Cuadro 1.
+E = [L (K llevar ida+ K llevar vuelta) + H (K levantar, K bajar)]
+E = 200 [2 (0,047 + 0.054) + 1(0,49 + 0,18)] = 175Kcal/jornada
+Total de las 4 tareas = 1103 kcal/jornada
+En función del resultado, la actividad obtendría la calificación de "trabajo ligero", puesto que 1103 Kcal/jornada < 1600 Kcal/jornada.
+Si queremos determinar el consumo energético total, a este valor se tendrá que añadir el consumo correspondiente al metabolismo 
+basal y el extraprofesional o de ocio.
+TAREA 3
+Desplazar cestas de piezas pequeñas con un peso de 15 Kg/unidad y una cantidad de 70 unidades. El desplazamiento de cada cesta 
+son 4 metros, y el desnivel a vencer 1 metro, se emplea 1 hora, según la fórmula de transporte de cargas (E = n[L (K llevar ida + K 
+llevar vuelta) + H (K levantar + K bajar) + H (K subir + K descender)] ), la tabla IV y el Cuadro 1.
+
+2.  Introduciendo tiempos de reposo
+Mejora de métodos y medios de trabajo
+Este sistema consiste en adecuar para cada actividad muscular aspectos como: el ritmo de las operaciones, el peso de las cargas, la 
+dirección de los movimientos, los útiles o las posturas de trabajo, con el fin de conseguir una mejor adecuación entre los músculos que 
+el operario pone en juego y la tarea a realizar, es decir, una mejor utilización de la fuerza disponible.
+Existen algunas indicaciones generales al respecto para determinados tipos de actividad. Por ejemplo, combinando el ritmo de trabajo 
+y la adaptación del útil, se ha determinado para un trabajo pesado como es el que se realiza al cargar, descargar o remover con pala 
+manual, que el rendimiento óptimo se obtiene con 12-15 paladas por minuto y con una carga de la pala entre 8 y 10 kgs. (estudios 
+realizados en el Max-Planck-Institut für Arbeitphysiologie de Dortmund, en Alemania). Para el transporte manual de cargas, 
+considerada la forma de trabajo más penosa, se han realizado numerosos estudios. Según Lehmann, 50-60 kgs. constituyen una carga 
+correcta para un rendimiento satisfactorio. Las cargas más ligeras son más fáciles de transportar pero implican un número de idas y 
+venidas suplementarias que aumentan a la postre el consumo total de energía.
+Sin tener en cuenta el "viaje de vuelta", la eficacia máxima se obtiene en las siguientes condiciones:
+Carga = 35% del peso del cuerpo
+Velocidad = 4,5 a 5 Km/hora
+En todo esto juegan un papel importante las medidas antropométricas como base para un diseño postural, dimensional y direccional 
+adecuado, especialmente en el caso de puestos de trabajo fijos o semifijos.
+Tiempos de reposo
+Cuando, una vez optimizados los métodos y medios de trabajo, el metabolismo de trabajo aún sobrepasa los límites admisibles, es 
+necesario prever tiempos de reposo para permitir la recuperación del organismo; puesto que reduciendo el tiempo total de trabajo se 
+reduce el consumo energético.
+Teniendo en cuenta los valores límites antes apuntados, Lehman y Spitzer han propuesto la fórmula siguiente para calcular el tiempo 
+de reposo en función del consumo energético:
+D = Duración del reposo en % de la duración del trabajo
+M = Kcal/minuto consumidas en la realización del trabajo
+Si consideramos, por ejemplo un trabajo que exige un consumo de 6 Kcal/minuto, el tiempo de reposo necesario sería:
+Este 50% nos indica que la duración del reposo debe ser la mitad de lo que dura el trabajo efectivo.
+Así, después de una hora de trabajo efectivo, se debería descansar:
+Si se quiere saber, dentro de cada hora cuál sería el tiempo de reposo:
+Organización del trabajo pesado
+Cuando el trabajo a realizar implica unas exigencias físicas elevadas es necesario organizar el mismo de manera que se consigan los 
+mismos resultados sin que las exigencias sobrepasen los límites normales.
+Para ello podemos actuar básicamente de dos maneras:
+1.  Mejorando de métodos y medios de trabajo
+
+Tabla I: Carga Estática (Posturas). 
+(*) No incluye ni el metabolismo de base (1.1 Kcal/min) ni el reposo. 
+(**) Valores propuestos por Guelaud ed alt. (1975)
+Carga dinámica
+Tabla II: Desplazamientos
+S=Subir; B=Bajar. 
+(*) Valores propuestos por Scherrer (1967) para desplazamientos horizontales. Valores propuestos por Spitzer y Hettinger (1966) para 
+desplazamientos verticales.
+El cálculo de los tiempos de reposo por esta fórmula da valores normalmente elevados, aunque pueden ser correctos si la valoración 
+del consumo energético es exacta.
+No obstante, tan importante como el cálculo del tiempo de reposo, es determinar cuando se debe descansar, es decir cómo distribuir 
+el tiempo de reposo.
+Tablas para la valoración del consumo de energía
+Carga estática
+
+Tabla IV: Manejo de cargas. 
+(*) Los valores de (4) y (8) se dan en el cuadro 1
+Manejo de cargas
+Se utiliza la fórmula propuesta por Spitzer y Hettinger (1966), modificada por F. Guelaud, et alt. (1975):
+E = n[L (K llevar de ida + K llevar de vuelta) + H1 (K levantar + K bajar) + H2 (K subir + Kdescender)]
+En donde:
+E = consumo de energía en Kcal/hora
+n = Nº de veces que se realiza una operación
+L = longitud del recorrido
+H1 = Altura total en metros del levantamiento o bajada
+H2 = Desnivel vertical en metros a subir o descender por recorrido
+Tabla III: Esfuerzos musculares. 
+(*) Valores propuestos por Lehmann (1960)
+
+ 
+Bibliografía
+(1) GRANDJEAN, E. 
+Précis d'ergonomie 
+Les éditions d'organization. París, 1983
+(2) GUELAUD, F. et alt. 
+Pour una analyse des conditions du travail ouvrier dans l'entreprise 
+A. Colin. París, 1983
+(3) LEHMANN, G. 
+Fisiología práctica del trabajo 
+Aguilar. Madrid, 1960
+(4) LEPLAT, J. 
+Les facteurs déterminant la charge du travail 
+Le travail humain, 1977. Vol. 40 nº 2
+(5) REGNIER, J. 
+L'amélioration des conditions de travail dans l'industrie 
+Masson. París, 1980
+(6) SCHERRER, J. et alt. 
+Physiologie du travail (Tomo 1) 
+Masson. París, 1967
+(7) SPITZER, H. y HETTINGER, TH. 
+Tables donnant la dépense énergétique en calories pour le travail physique 
+B.T.E., 1966
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-87-011-8 

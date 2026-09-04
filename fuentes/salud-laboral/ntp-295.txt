@@ -1,0 +1,193 @@
+ 
+NTP 295: Valoración de la carga física mediante la monitorización 
+de la frecuencia cardiaca
+Étude de la charge de travail à partir de l'enregistrement continu de la frécuence cardiaque 
+Physical work load evaluation by continuos register of heart rate
+Redactora:
+Mª Dolores Solé Gómez 
+Especialista en Medicina del Trabajo
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+Toda actividad física entraña un aumento del gasto energético y la puesta en marcha de varios mecanismos de compensación que 
+permiten el ajuste de ciertas funciones.
+En síntesis, disponemos de tres métodos para estimar el gasto energético
+a.  La observación de las actividades desarrolladas por el sujeto, descomponiéndolas en ciclos de movimientos elementales y 
+estimando posteriormente el gasto energético a través de tablas.
+b.  La medición del consumo de oxígeno. Esta variable presenta una relación lineal clásica con la carga en Watios. Su dispersión 
+es muy reducida, de tal modo que todos los sujetos consumen aproximadamente la misma cantidad de oxígeno para los 
+mismos niveles energéticos.
+c.  El tercer método consiste en estimar el gasto energético a partir de la frecuencia cardíaca. Muchos autores describen una 
+relación lineal estricta entre este parámetro y el gasto energético. Su principal desventaja es la existencia de una mayor 
+dispersión entre la potencia desarrollada y la frecuencia cardiaca observada entre un sujeto y otro. A su favor, la facilidad de 
+control y las pocas molestias que supone para el explorado, así como su estabilidad intraindividual.
+Disponemos de dos instrumentos bien diferenciados para monitorizar la frecuencia cardíaca:
+G     El pulsómetro o cardiofrecuencímetro.
+G     El «Holter» que consiste en la grabación de forma continuada y ambulatoriamente de la actividad cardiaca mediante una 
+«grabadora» de bajo peso conectada a unos electrodos que se colocan en el tórax del explorado. Las señales emitidas por el 
+corazón son registradas sobre una banda magnética que posteriormente será desmenuzada por un analizador.
+Las ventajas de la frecuencia cardíaca frente al consumo de oxígeno en la valoración "in situ" de la carga física se debe principalmente 
+a:
+G     La aceptación del método por parte del trabajador: el medidor de consumo de oxígeno requiere de la utilización de una 
+mascarilla y de una conexión engorrosa con el medidor, lo que lo hace poco atractivo para el trabajador. No así el Holter o el 
+frecuencímetro que se llevan de forma más disimulada y menos aparatosa.
+G     La no interferencia con las tareas habituales: cuando un sujeto está unido a un aparato registrador sus movimientos pueden 
+verso modificados por el mero hecho de llevarlo: cambios en los hábitos de trabajo, mayor esfuerzo por el peso del aparato y 
+por el uso de la mascarilla, posturas inadecuadas. Cuestiones estas que son mucho más flagrantes con el medidor de consumo 
+de oxígeno.
+G     La validez aceptable del test escogido en relación a su reproducibilidad, especificidad y sensibilidad.
+La frecuencia cardiaca es un método que nos permite estudiar las reacciones derivadas:
+G     Las condiciones de trabajo: 
+H     Carga física de trabajo tanto dinámica como estática.
+H     Carga térmica de trabajo.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 197/
+
+H     Carga emocional de trabajo: reacciones a los ruidos, al estrés...
+G     Las propias del individuo: 
+H     Digestión.
+H     Estado emocional particular.
+H     Ritmo biológico propio.
+H     Estado de salud: integridad cardiaca, condición física...
+Valores e índices derivados del estudio de la frecuencia cardiaca
+El análisis de la frecuencia cardiaca nos permite estudiar la carga física desde dos puntos de vista bien diferenciados, aunque 
+complementarios:
+Cualitativo
+El estudio del perfil de la frecuencia cardiaca a lo largo del día, durante las horas de trabajo, nos permite detectar aquellas operaciones 
+en las que la demanda cardiaca es intensa; e incluso compararlas según sea el turno de trabajo (mañana, tarde, noche).
+Cuantitativo
+Los valores que se pueden obtener a partir de la monitorización de la frecuencia cardiaca son:
+FC de reposo
+Este valor es la piedra de toque de todo el método en sí; de él dependen la mayoría de los índices sobre los que basamos la valoración 
+de la carga física.
+Varias han sido las propuestas realizadas y ninguna de ellas es totalmente satisfactoria:
+G     Frecuencia cardiaca intrínseca: 
+FCI = 118,1 - 0,57 * edad (años) 
+±14% en menores de 45 años 
+±18% en sujetos de 45 años o más.
+G     Frecuencia teórica de reposo: 
+Considerar para el hombre una frecuencia de reposo de 60 latidos por minuto y para la mujer de 70.
+G     Frecuencia cardiaca durante 5-10 minutos en posición sentado, de pie o estirado, antes de la jornada laboral.
+G     Valor alrededor del cual se estabiliza la frecuencia cardiaca durante al menos tres minutos durante un periodo de reposo, en 
+posición sentada.
+G     Frecuencia cardiaca determinada a partir de métodos estadísticos utilizando los percentiles: Percentil 1 ó 5 del periodo 
+monitorizado de trabajo; percentil 5 ó 10 de los valores de 24 horas; percentil 50 de un registro de seis horas de reposo 
+nocturno.
+Ante la dificultad de muchas de estas medidas, y para un trabajo puramente de «campo», en empresa, las frecuencias cardiacas más 
+útiles serían:
+G     FCR1 = Percentil 1 del periodo de trabajo monitorizado.
+G     FCR2 = Moda de un periodo de reposo de 10 minutos sentado, antes de iniciar el trabajo.
+FC media de trabajo (FCM)
+Es la frecuencia media de trabajo para las horas de registro; se tomará la media de todos los valores obtenidos durante el periodo 
+determinado. El rango de dicha variable estará comprendido entre el percentil 5 (FCMmin) y el percentil 95 (FCMmáx).
+Costo Cadíaco absoluto: CCA=FCM - FCR
+Nos permite estudiar la tolerancia individual de un trabajador frente a una tarea determinada. Nos datan sólo una idea aproximada de la 
+carga física de un puesto de trabajo.
+Costo Cardiaco relativo: CCR=CCA/(FMT-FCR)
+Este índice nos da una idea de la adaptación del sujeto a su puesto de trabajo. Se utilizará como frecuencia máxima teórica el valor 
+FMT = (220-edad), con lo que se asume un error de un 5% con respecto a la real que se determinaría mediante una prueba de 
+esfuerzo.
+Aceleración de la FC: ∆FC = FCMmáx - FCM
+A partir de todos estos valores, podemos categorizar el puesto de trabajo estudiado según la carga física que representa. La valoración 
+tanto individual como colectiva se realizará utilizando:
+
+G     La propuesta de Frimat P. para las fases cortas del ciclo de trabajo.
+G     La propuesta de Chamoux A. para el estudio global.
+Metodología de estudio
+Las condiciones de aplicación del estudio de la frecuencia cardiaca serán:
+G     El trabajador debe llevar como mínimo dos semanas trabajando en el puesto objeto de valoración.
+G     No deberá trabajar a tiempo parcial : su jornada será de como mínimo 8h/día.
+G     No padecer ninguna enfermedad cardiaca o respiratoria, incluyendo el resfriado común.
+Se rellenarán los datos de la ficha de datos (fig. 1) antes de proceder a la colocación del Hofter o del frecuencímetro, en una sala 
+climatizada. Una vez colocado el instrumento de medida, se dejará descansar al trabajador 10 minutos en posición sentado.
+Fig. 1: Ficha de datos
+Durante la monitorización, que será de cuatro horas como mínimo, marcaremos los siguientes tiempos:
+G     Inicio y final de la pausa inicial.
+G     Inicio y final de cada ciclo de trabajo.
+G     Cualquier evento significativo: interrupciones del ciclo de trabajo, movimientos o periodos extremos en relación a la carga 
+física...
+Finalmente, se procederá a desconectar el medidor en la sala dispuesta a tal fin.
+Criterios de valoración
+
+Se consignaran los datos en la ficha de valoración individual (fig. 2). Los criterios de valoración propuestos son los siguientes:
+Fig. 2: Ficha de valoración individual
+Criterios de FRIMAT
+Se asignan coeficientes de penosidad (de 1 a 6) a los diferentes criterios cardiacos. La suma de dichos coeficientes nos permite 
+asignar una puntuación al puesto de trabajo clasificándolo según su penosidad e incluso según requerimiento cardiaco. (Ver cuadro 1)
+Cuadro 1
+Valoración de las puntuaciones:
+25 PUNTOS
+Extremadamente duro
+24 PUNTOS
+Muy duro
+22 PUNTOS
+Duro
+20 PUNTOS
+Penoso
+18 PUNTOS
+Soportable
+14 PUNTOS
+Ligero
+12 PUNTOS
+Muy ligero
+<= 10 PUNTOS
+Carga física mínima
+Como valoración de referencia más sencilla podemos utilizar la siguiente clasificación:
+
+Criterios de CHAMOUX
+Estos criterios se aplicarán tan sólo en la valoración global del puesto de trabajo y para duraciones de jornada laboral de ocho horas 
+consecutivas.
+Conclusiones
+La utilidad de la frecuencia cardiaca como método de evaluación no es cuestionable; ha sido demostrada por múltiples estudiosos del 
+tema en aspectos tan diversos como:
+G     Evaluación de la carga física.
+G     Evaluación de un puesto de trabajo o de una fase.
+G     Evaluación de una aptitud.
+G     Reinserción de discapacitados.
+G     Evaluación de una intervención.
+El médico del trabajo puede disponer con esta metodología de un instrumento indispensable para buscar y favorecer el equilibrio 
+fisiológico óptimo entre las capacidades funcionales del trabajador y las condiciones de trabajo. Su utilización requiere, sin embargo, de 
+una metodología estricta y de un rigor científico exquisito. No podemos limitarnos a monitorizar la frecuencia cardiaca; hay que 
+controlar tanto el ambiente (ruido, temperatura, humedad ... ) como conocer perfectamente el trabajo o la secuencia del trabajo que 
+vamos a estudiar. Es necesario, pues, contar con la colaboración de un grupo multidisciplinar que integre todos los datos recogidos y 
+valore los resultados en su conjunto.
+Bibliografía
+(1) AIMARD, P., ROBINET, J., GIMBERT, E., DE GAUDEMARIS, R., PERDRIX, A. MALLION, J.M. 
+Comparaison de diverses méthodes d'etude de la charge de travail (méthodes objectives et méthodes subjectives) appliquées 
+au poste de conducteur de bus urbain 
+Arch. Mal. Prof., 46 (7-8), 469, 475, 1985
+(2) CHAMOUX, A., BOREL, A.M., CATILINA, P. 
+Pour la standardisation d'une fréquence cardiaque de repos 
+Arch. Mal. Prof., 46 (4), 241, 250, 1985
+(3) CHAMOUX, A., CATILINA, P. 
+Le système Holter en pratique 
+Medicine du Sport, 58 (5), 43-273, 54-284, 1984
+(4) FRIMET, P., AMPHOUX, M., CHAMOUX, A. 
+Interprétation et mesure de la fréquence cardiaque 
+Revue de Medicine du Travail, XV (4), 147, 165, 1988
+(5) FRIMAT, P., FURON, D., CANTINEAU, A., DELEPINE, P., SIX, F., LUEZ, G. 
+
+Le travail à la chaleur (verrerie). Etude de la charge de travail par ECG dynamique. Applications de la Méthode de VOGT 
+Arch. Mal. Prof., 40 (1-2), 191, 201, 1979
+(6) GREEN, M.S., LUZ, Y., JUCHA, E., COCOS, M., ROSENBERG, N. 
+Factors affecting ambulatory heart rate in Industrial workers 
+Ergonomics, 1986, 29 (8), 1017-1027
+(7) ROUCH, Y., REFREGIER, M., BOLINELLI, R. 
+Evaluation de la charge de travail par intégration magnetoscopique de la fréquence cardiaque 
+Arch. Mal. Prof., 42 (1), 13, 26, 1981
+(8) 2ème SYMPOSIUM GRENOBLE- 8 DECEMBRE 1989 
+Fréquence cardiaque et travail 
+Revue de médecine du travail, 1990, XVII (2)
+(9) TOMASINI, M. 
+La applicazione della elettrocardiografia dinamica in medicina del lavoro 
+Med. Lav., 77, (7), 483, 488, 1986
+(10) VOGT, J.J., FOEHR, R., KIRSCH, J., GOLLE, F., MEYER-SCHWERTZ, M.T. Estimation des charges de travail et des charges 
+de chaleur en situation réelle de travail: Principes et applications d'une nouvelle méthodologie 
+Le travail Humain, 33, (1-2), 125, 140, 1970
+(11) VOGT, J.J., MEYER-SCHWERTZ, M.T., FOEHR, R., GOLLE, F. 
+Validation d'une methode d'estimation de la charge de travail et de la charge de chaleur à partir de I'enregistrement continu de 
+la fréquence cardiaque 
+Le travail Humain, 35 (1), 131, 142, 1972
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-92-011-6 
