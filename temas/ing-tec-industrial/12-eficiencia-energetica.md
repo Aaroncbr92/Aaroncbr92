@@ -1,5 +1,19 @@
 # Tema 12 del específico de Ingeniería Técnica · Industrial · Eficiencia energética
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 12 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Cuatro normas**: **Real Decreto 390/2021** de certificación energética de edificios, **Real Decreto 1890/2008** de alumbrado exterior, **Real Decreto 56/2016** de auditorías energéticas y **Real Decreto 163/2014** del registro de huella de carbono |
+| **Identificador** | `BOE-A-2021-9176` · `BOE-A-2008-18634` · `BOE-A-2016-1460` · y `BOE-A-2014-3379` |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el artículo 1.2** del de certificación y **el artículo 1.1** del de alumbrado exterior; los otros dos se resumen con sus artículos identificados |
+| **Error de estudio a evitar** | **Tratar las cuatro como una sola materia.** **Cada una obliga a un sujeto distinto**, y la del registro de huella de carbono **no obliga a nadie: es voluntaria** |
+| **Extensión** | **4.148 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el dióxido de carbono (**CO2**) y los gases de efecto
 invernadero (**GEI**); el lenguaje de marcado extensible en que se presenta el informe de evaluación
 energética (**XML**); el Reglamento de Instalaciones Térmicas en los Edificios (**RITE**), del tema 1;
@@ -113,7 +127,7 @@ lo distingue de la norma que sustituyó**, y **la palabra que la mide es «mayor
 **lo que se excluye son las ZONAS de baja demanda, no el edificio entero.** **Un plató o un taller de
 decorados son de baja demanda; las oficinas del mismo edificio no lo son.**
 
-**Y la exclusión no se presume**: **el propietario realiza una **declaración responsable** ante la
+**Y la exclusión no se presume**: **el propietario realiza una declaración responsable ante la
 comunidad autónoma**, que **puede regular un procedimiento más exigente.**
 
 ## 2. Quién certifica, cómo y con qué validez
@@ -131,7 +145,7 @@ saber:**
 | **Viviendas unifamiliares** | **Puede basarse en otro edificio representativo** de diseño y tamaño similares, **si el técnico puede garantizar la correspondencia** |
 
 **La visita, del apartado 5, con su plazo, que es de las cifras más concretas del real decreto**: **el
-técnico competente realizará **al menos una visita** al inmueble, con una **antelación máxima de tres meses**
+técnico competente realizará al menos una visita al inmueble, con una antelación máxima de tres meses
 antes de emitir el certificado**, para las tomas de datos, pruebas y comprobaciones.
 
 **Y el aviso del apartado 4, que hay que saber decir porque desmonta un malentendido corriente**: **el
@@ -184,7 +198,7 @@ contenido.**
 reglamento del anexo que protege el cielo nocturno.**
 
 **Y el apartado 2 del mismo artículo dice lo que NO hace, y hay que saberlo**: **no es objeto de este
-reglamento establecer valores **mínimos** para los niveles de iluminación**, que se rigen por su propia
+reglamento establecer valores mínimos para los niveles de iluminación**, que se rigen por su propia
 normativa. **Este reglamento pone techos, no suelos.**
 
 **El ámbito, del artículo 2.1**, con su umbral de potencia:
@@ -215,7 +229,7 @@ importancia:
 |---|---|
 | **Nuevas, modificaciones y ampliaciones** | **Sí** |
 | **Existentes, cuando mediante un ESTUDIO DE EFICIENCIA ENERGÉTICA la Administración lo considere necesario** | **Sí** |
-| **Existentes con modificación de importancia** | **Sí.** **Es la que afecta a más del 50 % de la potencia **o de las luminarias** instaladas** |
+| **Existentes con modificación de importancia** | **Sí.** **Es la que afecta a más del 50 % de la potencia o de las luminarias instaladas** |
 
 **Ese «o de las luminarias» es propio de este reglamento**: **el de baja tensión del tema 7 mide sólo
 por potencia.** **Aquí se puede ser modificación de importancia cambiando muchas luminarias aunque la
@@ -226,13 +240,13 @@ luminosa.**
 
 | Exigencia | Dónde |
 |---|---|
-| **Que los niveles de iluminación no **superen** lo establecido** | **ITC-EA 02**, salvo casos excepcionales con autorización previa |
+| **Que los niveles de iluminación no superen lo establecido** | **ITC-EA 02**, salvo casos excepcionales con autorización previa |
 | **Requisitos mínimos de eficiencia energética para alumbrado vial** | **ITC-EA 01** |
 | **Factor de utilización, pérdidas de equipos y factor de mantenimiento para el resto** | **Las instrucciones correspondientes** |
 | **Sistema de accionamiento y de regulación del nivel luminoso donde se requiera** | **ITC-EA 04** |
 
-**Y la calificación energética, del artículo 5**: **las instalaciones se califican por su **índice de
-eficiencia energética** mediante una **etiqueta** de calificación según la ITC-EA 01**, que **se adjunta a
+**Y la calificación energética, del artículo 5**: **las instalaciones se califican por su índice de
+eficiencia energética mediante una etiqueta de calificación según la ITC-EA 01**, que **se adjunta a
 la documentación del proyecto y figura en las instrucciones que se entregan al titular.**
 
 **Es la misma idea de etiqueta que la certificación de edificios del epígrafe 1**, aplicada a una
@@ -249,8 +263,8 @@ EMPRESA, no de edificio ni de instalación:**
 | Es gran empresa | Cuándo |
 |---|---|
 | **Por plantilla** | **Ocupa al menos a 250 personas** |
-| **Por cifras** | **Sin llegar a esa plantilla, volumen de negocio superior a 50 millones de euros **y, a la par,** balance general superior a 43 millones** |
-| **Grupos de sociedades** | **Los del artículo 42 del Código de Comercio, con las magnitudes **agregadas** del grupo consolidado** |
+| **Por cifras** | **Sin llegar a esa plantilla, volumen de negocio superior a 50 millones de euros y, a la par, balance general superior a 43 millones** |
+| **Grupos de sociedades** | **Los del artículo 42 del Código de Comercio, con las magnitudes agregadas del grupo consolidado** |
 
 **Las tres cifras son 250, 50 y 43**, y **la conjunción importa**: **la segunda vía exige las dos cosas
 a la vez.** **Quedan excluidas las microempresas y las pequeñas y medianas.**
@@ -280,7 +294,7 @@ que incluya recomendaciones para la mejora de los niveles óptimos o rentables.*
 |---|---|
 | **a)** | **Basarse en datos operativos actualizados, medidos y verificables**, y en perfiles de carga eléctrica si se dispone de ellos |
 | **b)** | **Examen pormenorizado del perfil de consumo** de edificios, instalación u operación industrial o comercial o servicio, **con inclusión del transporte dentro de las instalaciones o de las flotas** |
-| **c)** | **Fundarse, cuando sea posible, en el **coste del ciclo de vida** antes que en periodos simples de amortización** |
+| **c)** | **Fundarse, cuando sea posible, en el coste del ciclo de vida antes que en periodos simples de amortización** |
 | **d)** | **Ser proporcionadas y suficientemente representativas** para trazar una imagen fiable del rendimiento global |
 
 **La letra c) es la más importante de las cuatro para un ingeniero**, porque **cambia el criterio de
@@ -292,7 +306,7 @@ auditoría de una empresa puede hacerla personal propio**, siempre que **no teng
 las actividades auditadas** y **pertenezca a un departamento de control interno.**
 
 **Y la inspección, del artículo 5**: **la comunidad autónoma establece un sistema de inspección
-independiente**, y **la selección es **anual, al azar** y de al menos una proporción estadísticamente
+independiente**, y **la selección es anual, al azar y de al menos una proporción estadísticamente
 significativa de las auditorías de cada periodo de cuatro años.**
 
 **La cláusula del apartado 8, que protege el mercado**: **las auditorías no pueden contener cláusulas
@@ -315,7 +329,7 @@ acreditados**, a condición de que el cliente no se oponga y respetando la confi
 **Las dos palabras que se preguntan de la primera son «directo o indirecto»**: **la huella de una
 organización incluye lo que emite ella y lo que se emite por su causa.**
 
-**Y la exclusión de la tercera es la que sorprende**: **la materia orgánica **muerta** no cuenta.** **Un
+**Y la exclusión de la tercera es la que sorprende**: **la materia orgánica muerta no cuenta.** **Un
 sumidero es biomasa viva.**
 
 **Las tres secciones del registro y quién puede inscribirse, del artículo 3.1:**
@@ -327,7 +341,7 @@ sumidero es biomasa viva.**
 | **c) Compensación de huella de carbono** | **Los mismos de la sección a)** |
 
 **Qué se obtiene al inscribirse, del apartado 2**: **un documento de reconocimiento** y **el uso de un
-**sello** de titularidad del ministerio**, que **refleja gráficamente la participación en las secciones
+sello de titularidad del ministerio**, que **refleja gráficamente la participación en las secciones
 para un periodo de cálculo concreto.**
 
 **Y la difusión, del artículo 4**: **la Oficina Española de Cambio Climático publica en la web del

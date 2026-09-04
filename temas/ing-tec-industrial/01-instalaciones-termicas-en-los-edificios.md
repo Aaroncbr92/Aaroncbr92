@@ -1,5 +1,19 @@
 # Tema 1 del específico de Ingeniería Técnica · Industrial · Instalaciones térmicas en los edificios
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 1 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 1027/2007, de 20 de julio, por el que se aprueba el Reglamento de Instalaciones Térmicas en los Edificios**, y **Real Decreto 487/2022, de 21 de junio, de prevención y control de la legionelosis** |
+| **Identificador** | `BOE-A-2007-15820` · BOE núm. 207, de 29/08/2007 · y `BOE-A-2022-10297` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** para el primero: se citan **el artículo 1**, **el 2.6**, **el 12.4** y **las letras a) y b) del 15.1**. El segundo estaba **en vacatio al corte** —entró en vigor el **02/01/2023**— y se lee en un volcado a **01/06/2023**, con la fecha al pie de cada cita |
+| **Excepción declarada** | **Es la única norma de todo el proyecto posterior a la fecha de corte.** El anexo la cita por su fecha de PUBLICACIÓN y su disposición final tercera dice otra: **el volcado al corte sale con el índice entero y sin un solo artículo con texto** |
+| **Extensión** | **3.818 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Reglamento de Instalaciones Térmicas en los
 Edificios (**RITE**), que la propia norma se llama a sí misma; sus instrucciones técnicas (**IT**); el
 agua caliente sanitaria (**ACS**); el kilovatio (**kW**) y el metro cuadrado (**m²**); el Plan de
@@ -257,7 +271,7 @@ tres plazos, que es lo más preguntable del capítulo:**
 
 | Calificación | Cuándo | Qué ocurre |
 |---|---|---|
-| **Aceptable** | **Sin defecto grave ni muy grave** | **Los leves se anotan y se subsanan, acreditándolo antes de **tres meses**** |
+| **Aceptable** | **Sin defecto grave ni muy grave** | **Los leves se anotan y se subsanan, acreditándolo antes de tres meses** |
 | **Condicionada** | **Al menos un defecto grave, o un leve ya detectado antes y no corregido** | **Nueva: no entra en servicio. En servicio: SEIS MESES para subsanar**, y si no, puede suspenderse el suministro de energía |
 | **Negativa** | **Al menos un defecto muy grave** | **Nueva: no entra en servicio. En servicio: el órgano competente DEBERÁ disponer la suspensión del suministro** |
 
@@ -358,9 +372,9 @@ riesgo laboral para quien mantiene la instalación**, y **las dos normas se apli
 
 1. **La segunda norma no estaba en vigor a la fecha de corte de este proyecto**, y **su volcado a esa
    fecha sale con el índice completo y sin un solo artículo con texto.** **Se ha volcado además a
-   fecha posterior**, en `fuentes/posteriores-al-corte/`, **y la fecha de esa lectura va al pie de
-   cada una de sus dos citas.** **Es el único caso de todo el proyecto**, y el directorio lleva su
-   propio aviso.
+   fecha posterior —el 1 de junio de 2023—**, **y la fecha de esa lectura va al pie de cada una de
+   sus dos citas.** **Es el único caso de todo el proyecto**, y la excepción va declarada y
+   razonada aquí.
 2. **Las instrucciones técnicas del RITE —la IT 1 a la IT 4— no se citan literalmente.** **Se nombran
    por lo que cada una regula**, que es lo que los artículos citados dicen de ellas: **la IT 3 el
    mantenimiento y la IT 4 las inspecciones periódicas.** **Sus tablas de valores no se reproducen**,

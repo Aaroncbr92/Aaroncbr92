@@ -68,7 +68,7 @@ PRODUCCIÓN» · **6 preguntas** · **2 con norma literal detrás** —y es el c
   **si no había disponibilidad propia** y **RTVE ostenta el control** de su uso.
 - **MIXTA**: «con **independencia de quien la promueva o realice**», RTVE **participa junto con uno
   o varios productores** con un **porcentaje contractualmente delimitado** de recursos, **en la
-  producción, en la explotación de derechos o en ambas». Sólo computa como interna **el porcentaje**
+  producción, en la explotación de derechos o en ambas**». Sólo computa como interna **el porcentaje**
   de RTVE.
 - **AJENA**: «**no promovida ni realizada** por RTVE», que **sólo posee derechos de explotación**,
   **SIN PARTICIPAR CON RECURSOS PROPIOS EN NINGUNA DE LAS FASES**. **Es la respuesta, literal.**

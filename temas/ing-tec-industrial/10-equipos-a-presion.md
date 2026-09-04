@@ -1,5 +1,19 @@
 # Tema 10 del específico de Ingeniería Técnica · Industrial · Instalaciones con equipos a presión
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 10 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 809/2021, de 21 de septiembre, por el que se aprueba el Reglamento de equipos a presión y sus instrucciones técnicas complementarias** |
+| **Identificador** | `BOE-A-2021-16407` · BOE núm. 243, de 11/10/2021 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se cita **el encabezamiento del artículo 1.2** |
+| **Norma más reciente del anexo** | **En vigor desde el 2 de enero de 2022.** **Este reglamento no dice cómo se hace un depósito; dice qué hacer con él**: instalarlo, inspeccionarlo, repararlo y modificarlo |
+| **Extensión** | **3.763 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: las instrucciones técnicas complementarias
 (**ITC**); los organismos de control (**O.C.**); la Entidad Nacional de Acreditación (**ENAC**); la
 conformidad europea (**CE**); la Asociación Española de Normalización (**UNE**); el bar, unidad de
@@ -79,7 +93,7 @@ obligaciones del usuario del artículo 9** —menos las tres que sólo valen par
 | Grupo | Qué queda fuera |
 |---|---|
 | **Por reglamentación propia** | **Los que tengan reglamentación de seguridad específica que regule expresamente estas condiciones** |
-| **Redes de tuberías** | **Suministro o distribución de AGUA —salvo las de uso industrial—, de combustibles líquidos o gaseosos, de agua **contra incendios** y de agua motriz de centrales hidroeléctricas** |
+| **Redes de tuberías** | **Suministro o distribución de AGUA —salvo las de uso industrial—, de combustibles líquidos o gaseosos, de agua contra incendios y de agua motriz de centrales hidroeléctricas** |
 | **Vehículos** | **Los equipos destinados al funcionamiento de vehículos de motor, agrícolas o forestales, y de dos o tres ruedas y cuatriciclos** |
 
 **La salvedad del segundo grupo se pregunta y es fácil de pasar por alto**: **las redes de agua están
@@ -94,7 +108,7 @@ excluidas SALVO las destinadas a usos industriales.** **Una red de agua de proce
 |---|---|---|
 | **Máxima admisible, PS** | **La presión para la que está DISEÑADO el equipo.** Equivale a la «presión de diseño» de la reglamentación anterior | **El fabricante** |
 | **De precinto, Pp** | **Aquella a la que está tarado el elemento de seguridad que protege al equipo** | **Quien lo tara** |
-| **De prueba, PT** | **Aquella a la que se somete el equipo para comprobar su **resistencia**.** Es la mayor presión efectiva en el punto más alto del aparato durante la prueba | **El procedimiento de prueba** |
+| **De prueba, PT** | **Aquella a la que se somete el equipo para comprobar su resistencia.** Es la mayor presión efectiva en el punto más alto del aparato durante la prueba | **El procedimiento de prueba** |
 | **Máxima de SERVICIO, Pms** | **La más alta que puede alcanzar el equipo en condiciones de funcionamiento** | **Las condiciones reales de operación** |
 
 **La escalera que las ordena y que hay que tener clara**: **la de servicio es lo que ocurre, la de
@@ -200,8 +214,8 @@ por un organismo de control habilitado.**
 
 **Qué ocurre con las ampliaciones, del apartado 5**: **la ampliación o modificación por incorporación o
 sustitución de equipos, y los cambios de emplazamiento, quedan sujetos a las mismas condiciones que
-una instalación nueva.** **Pero para decidir si hace falta proyecto, sólo se tiene en cuenta **la parte
-ampliada**.**
+una instalación nueva.** **Pero para decidir si hace falta proyecto, sólo se tiene en cuenta la parte
+ampliada.**
 
 **Y la placa, del apartado 6**: **todos los equipos de categorías I a IV que formen parte de una
 instalación deben disponer de la PLACA de instalación e inspecciones periódicas del anexo III.**
@@ -244,7 +258,7 @@ comunidad autónoma.**
 nivel B o C, además, se presentan ante la comunidad autónoma.**
 
 **Y la obligación que se activa sola, del apartado 10**, que es la más importante del artículo:
-**cuando el agente que realiza la inspección detecte un **riesgo grave e inminente** deberá **paralizar** la
+**cuando el agente que realiza la inspección detecte un riesgo grave e inminente deberá paralizar la
 instalación y notificarlo de forma inmediata a la comunidad autónoma.** **Una vez subsanada la
 deficiencia, puede volver a servicio previa notificación del mismo agente.**
 
@@ -323,7 +337,7 @@ lo que un técnico de mantenimiento recorre con la vista:**
 **El sexto no se mira: se acciona.** **El reglamento dice «actuar para verificar su funcionamiento»**,
 y **ésa es la única de las siete comprobaciones que exige tocar el equipo.**
 
-**Y las dos exclusiones del registro del apartado 7, que conviene retener**: **los **extintores** y los
+**Y las dos exclusiones del registro del apartado 7, que conviene retener**: **los extintores y los
 equipos que no requieran inspecciones periódicas.** **Un extintor es un equipo a presión y no va en
 ese registro**, porque **tiene el suyo propio en el reglamento del tema 6.**
 
@@ -339,7 +353,7 @@ ese registro**, porque **tiene el suyo propio en el reglamento del tema 6.**
 
 **Y para qué se usa de verdad, que el propio artículo enumera**: **sustituir el fluido de prueba,
 disminuir los valores de las presiones de prueba, usar técnicas especiales de ensayos no destructivos
-o modificar las condiciones del anexo III.** **Es una excepción **técnica** de método de ensayo, no una
+o modificar las condiciones del anexo III.** **Es una excepción técnica de método de ensayo, no una
 dispensa de seguridad.**
 
 ## 8. Trazabilidad

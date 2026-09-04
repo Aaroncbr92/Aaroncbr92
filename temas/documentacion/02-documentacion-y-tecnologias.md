@@ -479,13 +479,13 @@ probatorio**.
   **cláusula 6 y sus apartados 6.2 a 6.6**— y los términos y definiciones **3.1 a 3.54**.
 - **ISO 15707:2022**, «Information and documentation — International Standard Musical Work Code
   (ISWC)», **segunda edición, diciembre de 2022**, **muestra oficial** leída el **2 de septiembre de
-**: el prólogo con los cambios respecto de la edición de 2001, la introducción, el objeto y la
+  2026**: el prólogo con los cambios respecto de la edición de 2001, la introducción, el objeto y la
   construcción del código.
 - **Página oficial de ISO 25964**, alojada por **NISO**, secretaría del ISO/TC46/SC9, leída el **2 de
   septiembre de 2026**: el resumen de las dos partes, la sustitución de ISO 2788 y ISO 5964 y los
   índices abreviados de ambas partes.
 - **«ISSN, a standardised code»**, Centro Internacional del ISSN, leída el **2 de septiembre de
-**: la designación exacta de **ISO 2108, ISO 3297, ISO 3901 e ISO 10957** y la descripción de
+  2026**: la designación exacta de **ISO 2108, ISO 3297, ISO 3901 e ISO 10957** y la descripción de
   **ISO 2709**.
 - **Portada del ISWC**, sistema gestionado por la confederación internacional de sociedades de
   autores y compositores, leída el **2 de septiembre de 2026**: la definición del código.

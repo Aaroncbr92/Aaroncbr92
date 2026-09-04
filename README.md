@@ -70,31 +70,32 @@ Lo que hace por ti en cada precepto:
 
 ## Los volúmenes
 
-**Catorce, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a las
-trece ocupaciones; los trece específicos cierran con **el mismo tema de
-prevención de riesgos laborales**, que es un solo fichero.
+**Dieciocho, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a
+las diecisiete ocupaciones; los diecisiete específicos cierran con **el mismo
+tema de prevención de riesgos laborales**, que es un solo fichero.
 
 | Volumen | Ocupación tipo | Temas | Preguntas | Páginas |
 |---|---|---:|---:|---:|
-| `libro-general` | Las trece | 8 | 503 | 259 |
-| `libro-produccion-asistencia` | Producción (Asistencia) | 18 | 170 | 280 |
-| `libro-produccion` | Producción | 17 | 113 | 232 |
-| `libro-realizacion` | Realización (Asistencia) | 21 | 253 | 303 |
-| `libro-realizacion-tv` | **Realización Televisión** | **23** | **276** | **363** |
-| `libro-documentacion` | Documentación | 7 | 129 | 154 |
-| `libro-informacion` | Información y Contenidos | 11 | 225 | 214 |
-| `libro-gestion-administrativa` | Gestión Administrativa | 13 | 122 | 180 |
-| `libro-gestion` | Gestión | 31 | 128 | 321 |
-| `libro-montaje-equipos` | Montaje de Equipos Audiovisuales | 11 | 122 | 165 |
-| `libro-edicion-montaje` | Edición, Montaje y Procesos Audiovisuales | 11 | 133 | 193 |
-| `libro-informacion-grafica` | Información Gráfica y Captación de Imagen y Sonido | 12 | 141 | 218 |
-| `libro-sonido` | **Sonido** | 18 | 133 | 206 |
-| `libro-tese` | **Técnica de Equipos y Sistemas Electrónicos** | 18 | 161 | 230 |
-| `libro-tecnica-informatica` | **Técnica Informática** | 24 | 137 | 255 |
-| `libro-diseno-grafico` | **Diseño Gráfico** | 14 | 133 | 187 |
+| `libro-general` | Las diecisiete | 8 | 505 | 259 |
+| `libro-produccion-asistencia` | Producción (Asistencia) | 18 | 171 | 280 |
+| `libro-produccion` | Producción | 17 | 114 | 234 |
+| `libro-realizacion` | Realización (Asistencia) | 21 | 254 | 303 |
+| `libro-realizacion-tv` | **Realización Televisión** | **23** | **277** | **364** |
+| `libro-documentacion` | Documentación | 7 | 130 | 154 |
+| `libro-informacion` | Información y Contenidos | 11 | 226 | 216 |
+| `libro-gestion-administrativa` | Gestión Administrativa | 13 | 123 | 181 |
+| `libro-gestion` | Gestión | 31 | 129 | 322 |
+| `libro-montaje-equipos` | Montaje de Equipos Audiovisuales | 11 | 123 | 165 |
+| `libro-edicion-montaje` | Edición, Montaje y Procesos Audiovisuales | 11 | 134 | 194 |
+| `libro-informacion-grafica` | Información Gráfica y Captación de Imagen y Sonido | 12 | 142 | 218 |
+| `libro-sonido` | **Sonido** | 18 | 134 | 206 |
+| `libro-tese` | **Técnica de Equipos y Sistemas Electrónicos** | 18 | 162 | 230 |
+| `libro-tecnica-informatica` | **Técnica Informática** | 24 | 138 | 255 |
+| `libro-diseno-grafico` | **Diseño Gráfico** | 14 | 134 | 187 |
 | `libro-ing-tec-teleco` | **Ing. Técnica Telecomunicación** | 20 | 133 | 256 |
+| `libro-ing-tec-industrial` | **Ing. Técnica Industrial** | 17 | 48 | 265 |
 
-**Realización Televisión es el volumen más grande del proyecto**: 363 páginas,
+**Realización Televisión es el volumen más grande del proyecto**: 364 páginas,
 veintidós temas propios más el de prevención y **229 preguntas del bloque
 específico**, de dos llamamientos con sus dos plantillas completas.
 
@@ -102,6 +103,17 @@ específico**, de dos llamamientos con sus dos plantillas completas.
 sus 114 preguntas dependen de una imagen**, la proporción más alta del proyecto.
 El temario **no describe lo que no ha visto**: declara cada una y aporta la regla
 de su familia.
+
+**Y Ingeniería Técnica · Industrial es el primer volumen del proyecto SIN EXAMEN
+que estudiar**: la convocatoria anterior no publicó cuadernillo de esa
+especialidad. Sus **48 preguntas son las del tema compartido de prevención**, y
+no hay ni una del bloque específico. Lo que ocupa su lugar es **el Boletín
+Oficial del Estado**: **veintitrés normas volcadas** y **veintinueve citas
+literales verificadas** contra el texto de su artículo. Es **la ocupación más
+normativa del proyecto** —trece de sus dieciséis puntos nombran uno o varios
+reales decretos— y **la que mejor tolera no tener examen**, porque lo que puede
+caer está escrito con todas sus letras. El dato va dicho en su portada y en su
+apéndice de respuestas, no disimulado.
 
 **Y Técnica Informática es el contrario exacto**: **ninguna de sus 90 preguntas
 del específico depende de una imagen**, y es **el único volumen del proyecto que

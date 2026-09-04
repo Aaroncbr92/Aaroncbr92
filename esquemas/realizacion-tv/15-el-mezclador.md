@@ -48,7 +48,7 @@ seis palabras**— · **7 preguntas** · **CUATRO son de incrustación y TRES de
   tolerancia.
 - **POR QUÉ SE USA VERDE Y AZUL, QUE ES LO QUE HACE VEROSÍMILES LAS FALSAS**: **ni el verde ni el azul
   saturados están en la piel** · **el canal verde tiene más resolución en el sensor** · **se elige azul
-  si el vestuario lleva verde y al revés. **Es COSTUMBRE, no limitación.**
+  si el vestuario lleva verde y al revés.** **Es COSTUMBRE, no limitación.**
 - **LAS TRES FALSAS EMPIEZAN POR «SOLO».**
 
 ## Directo contra postproducción

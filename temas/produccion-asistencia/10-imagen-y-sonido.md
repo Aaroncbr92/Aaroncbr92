@@ -413,8 +413,8 @@ vatio».
 En la práctica de un plató, la impedancia separa dos mundos:
 
 - Los micrófonos **profesionales son de baja impedancia**, lo que permite **tiradas largas de
-  cable** sin pérdida de agudos ni captación de ruido, y van por **cable balanceado con conector
-  conector de tres contactos (**XLR**).
+  cable** sin pérdida de agudos ni captación de ruido, y van por **cable balanceado con conector de
+  tres contactos** (**XLR**).
 - Los de **alta impedancia** son de uso doméstico y **no admiten tiradas largas**.
 
 Los tres distractores del examen son las tres unidades con las que se confunde: **kilohercios**

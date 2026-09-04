@@ -1,5 +1,19 @@
 # Tema 11 del específico de Ingeniería Técnica · Industrial · Instalaciones solares térmicas y fotovoltaicas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 11 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 1699/2011, de 18 de noviembre, de conexión a red de instalaciones de producción de pequeña potencia**, y **Real Decreto 244/2019, de 5 de abril**, de autoconsumo de energía eléctrica |
+| **Identificador** | `BOE-A-2011-19242` · BOE núm. 295, de 08/12/2011 · y `BOE-A-2019-5089` |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se cita **el artículo 1 entero** del de conexión; el de autoconsumo se resume con sus artículos identificados |
+| **Desajuste declarado** | **El punto se titula «solares TÉRMICAS y fotovoltaicas» y sus dos normas son ELÉCTRICAS.** Lo térmico se cubre remitiendo al reglamento térmico del tema 1 y al Código Técnico del tema 3 |
+| **Extensión** | **3.235 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el kilovatio (**kW**); el kilovoltio (**kV**); el
 Código Técnico de la Edificación (**CTE**), del tema 3, con sus exigencias básicas de ahorro de
 energía cuarta y quinta (**HE 4** y **HE 5**); el Reglamento de Instalaciones Térmicas en los
@@ -117,8 +131,8 @@ saberla con sus nombres exactos:**
 
 | Modalidad | Qué la define | Cuántos sujetos hay |
 |---|---|---|
-| **Sin excedentes** | **Se instala un **mecanismo antivertido** que impide inyectar energía excedentaria a la red** | **Uno: el consumidor** |
-| **Con excedentes** | **La instalación puede, además de autoconsumir, **inyectar** excedentes en las redes** | **Dos: el consumidor y el productor** |
+| **Sin excedentes** | **Se instala un mecanismo antivertido que impide inyectar energía excedentaria a la red** | **Uno: el consumidor** |
+| **Con excedentes** | **La instalación puede, además de autoconsumir, inyectar excedentes en las redes** | **Dos: el consumidor y el productor** |
 | **Con excedentes acogida a compensación** | **Consumidor y productor optan voluntariamente por el mecanismo de compensación** | **Dos** |
 | **Con excedentes no acogida a compensación** | **No cumple algún requisito, o no quiere acogerse** | **Dos** |
 
@@ -129,11 +143,11 @@ vender.**
 **Las CINCO condiciones para acogerse a compensación, del artículo 4.2.a)**, que son acumulativas y
 las cinco se preguntan:
 
-1. **La fuente de energía primaria sea de origen **renovable**.**
+1. **La fuente de energía primaria sea de origen renovable.**
 2. **La potencia total de las instalaciones de producción asociadas no sea superior a 100 kW.**
 3. **Si hace falta contrato de suministro para servicios auxiliares de producción, el consumidor haya
    suscrito UN ÚNICO contrato con una comercializadora** para el consumo asociado y los auxiliares.
-4. **Consumidor y productor hayan suscrito el **contrato de compensación** de excedentes del artículo
+4. **Consumidor y productor hayan suscrito el contrato de compensación de excedentes del artículo
    14.**
 5. **La instalación de producción no tenga otorgado un régimen retributivo adicional o específico.**
 
@@ -153,9 +167,9 @@ colectivo, según haya uno o varios consumidores asociados a la instalación de 
 
 | Obligación | Qué exige |
 |---|---|
-| **Misma modalidad** | **Todos los consumidores asociados a la misma instalación deben pertenecer a la **misma** modalidad de autoconsumo** |
-| **Acuerdo de reparto** | **Comunicar de forma **individual** a la distribuidora —directamente o por la comercializadora— **un mismo** acuerdo firmado por todos** con los criterios de reparto del anexo I |
-| **Cambio simultáneo** | **Si se cambia de modalidad, el cambio lo hacen **todos** a la vez** |
+| **Misma modalidad** | **Todos los consumidores asociados a la misma instalación deben pertenecer a la misma modalidad de autoconsumo** |
+| **Acuerdo de reparto** | **Comunicar de forma individual a la distribuidora —directamente o por la comercializadora— un mismo acuerdo firmado por todos** con los criterios de reparto del anexo I |
+| **Cambio simultáneo** | **Si se cambia de modalidad, el cambio lo hacen todos a la vez** |
 
 **La segunda tiene una asimetría que se pregunta**: **la comunicación es individual y el acuerdo es
 único.** **Cada uno lo dice por su cuenta, pero todos dicen lo mismo.**
@@ -163,9 +177,9 @@ colectivo, según haya uno o varios consumidores asociados a la instalación de 
 **Y las tres reglas del artículo 4.5, que cierran los casos raros:**
 
 1. **Un sujeto consumidor no puede estar asociado simultáneamente a más de una modalidad.**
-2. **Si el autoconsumo se hace por instalaciones próximas **a través de la red**, tiene que ser **con
+2. **Si el autoconsumo se hace por instalaciones próximas a través de la red, tiene que ser con
    excedentes.** **La proximidad a través de la red excluye el antivertido.**
-3. **Para el autoconsumo colectivo puede constituirse una **comunidad de energías renovables**, que
+3. **Para el autoconsumo colectivo puede constituirse una comunidad de energías renovables**, que
    puede actuar como representante de los consumidores si éstos la autorizan.
 
 **Y el ámbito del real decreto, del artículo 2**, con su exclusión más práctica:
@@ -198,7 +212,7 @@ energía y percibir su retribución, y la del consumidor de adquirirla.** **Y es
 expresamente en el contrato de acceso.**
 
 **Cuándo puede cortarse el suministro, del apartado 6**: **cuando por incumplimiento de requisitos
-técnicos existan instalaciones peligrosas**, o **cuando se haya **manipulado** el equipo de medida o el
+técnicos existan instalaciones peligrosas**, o **cuando se haya manipulado el equipo de medida o el
 mecanismo antivertido.**
 
 **Y el almacenamiento, del apartado 7**, que este real decreto autoriza expresamente:
@@ -206,14 +220,14 @@ mecanismo antivertido.**
 | Condición | Qué exige |
 |---|---|
 | **Protecciones** | **Las de la normativa de seguridad y calidad industrial aplicable** |
-| **Ubicación** | **Instalados de forma que **compartan** el equipo de medida de generación neta, el del punto frontera o el del consumidor asociado** |
+| **Ubicación** | **Instalados de forma que compartan el equipo de medida de generación neta, el del punto frontera o el del consumidor asociado** |
 
 **La condición de ubicación es la que evita el fraude**: **una batería tiene que estar dentro del
 perímetro que ya se mide**, no colgada de un punto sin contador.
 
 **La calidad de servicio, del artículo 6**, con la exención que hay que conocer: **la distribuidora no
 tiene obligación legal de calidad de servicio por las incidencias derivadas de fallos en las
-instalaciones de **conexión compartidas** por productor y consumidor.** **Y tampoco tiene obligación
+instalaciones de conexión compartidas por productor y consumidor.** **Y tampoco tiene obligación
 sobre las instalaciones de conexión que no sean de su titularidad** —artículo 5.1—.
 
 ## 6. El mecanismo de compensación simplificada
@@ -229,11 +243,11 @@ facturación.** **Se compensan euros, no energía.**
 | Contrato | Energía consumida de la red | Energía excedentaria |
 |---|---|---|
 | **Con comercializadora libre** | **Al precio horario acordado entre las partes** | **Al precio horario acordado entre las partes** |
-| **Al precio voluntario para el pequeño consumidor** | **Al coste horario de energía de ese precio en cada hora** | **Al precio medio horario del mercado diario e intradiario **menos** el coste de los desvíos** |
+| **Al precio voluntario para el pequeño consumidor** | **Al coste horario de energía de ese precio en cada hora** | **Al precio medio horario del mercado diario e intradiario menos el coste de los desvíos** |
 
 **Y los dos límites que hacen que esto sea compensación y no venta**, del mismo apartado 3:
 
-1. **El valor económico de la energía excedentaria **nunca** puede ser superior al de la energía consumida
+1. **El valor económico de la energía excedentaria nunca puede ser superior al de la energía consumida
    de la red en el periodo de facturación.** **La factura puede llegar a cero, no a negativo.**
 2. **El periodo de facturación no puede ser superior a un mes.**
 
@@ -244,8 +258,8 @@ venta de energía.**
 no tiene consideración de energía incorporada al sistema**, y **por tanto está exenta de los peajes de
 acceso de productores**, **si bien el comercializador es el responsable de balance de esa energía.**
 
-**El caso del autoconsumo colectivo **sin** excedentes, del apartado 2**, que es el que más confunde:
-**también puede acogerse voluntariamente a compensación**, y **entonces **no** hace falta contrato de
+**El caso del autoconsumo colectivo sin excedentes, del apartado 2**, que es el que más confunde:
+**también puede acogerse voluntariamente a compensación**, y **entonces no hace falta contrato de
 compensación de excedentes** —porque no hay productor—: **basta un acuerdo entre todos los
 consumidores** con los criterios de reparto.
 
@@ -262,7 +276,7 @@ punto delante:**
 |---|---|
 | **Poner fotovoltaica en la cubierta de un centro de trabajo** | **Modalidad con excedentes**, salvo que se instale antivertido. **Si la potencia pasa de 100 kW, fuera de compensación** |
 | **Cubrir el agua caliente sanitaria con solar térmica** | **La exigencia básica HE 4 del Código Técnico y el RITE**, no las normas de este punto |
-| **Tener grupo electrógeno de emergencia** | **no es autoconsumo**: queda excluido por el artículo 2.2, y se rige por el reglamento eléctrico del tema 7 y por el de instalaciones petrolíferas del tema 4 por su depósito |
+| **Tener grupo electrógeno de emergencia** | **NO es autoconsumo**: queda excluido por el artículo 2.2, y se rige por el reglamento eléctrico del tema 7 y por el de instalaciones petrolíferas del tema 4 por su depósito |
 
 **Y la observación de escala que conviene tener hecha**: **un centro de producción audiovisual con
 platós supera con holgura los 100 kilovatios de generación en cuanto se cubre una nave.** **Eso lo

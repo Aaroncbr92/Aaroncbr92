@@ -1,5 +1,19 @@
 # Tema 13 del específico de Ingeniería Técnica · Industrial · Control automatizado de instalaciones industriales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 13 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Sin norma: el enunciado no nombra ninguna.** Su materia es la gestión técnica de edificios, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Único punto del anexo sin norma en su enunciado** | **Una línea de doce palabras y unas siglas entre paréntesis.** Lo único normativo que lo toca son las exigencias de control de OTROS puntos, reunidas en su epígrafe sexto |
+| **Extensión** | **2.834 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el sistema de gestión técnica de edificios, que el
 propio enunciado del anexo abrevia por su nombre inglés (**BMS**, *building management system*); el
 autómata programable (**PLC**, *programmable logic controller*); el control de supervisión y
@@ -41,8 +55,8 @@ alumbrado exterior—, y **el epígrafe 6 las reúne.**
 ## 1. Qué es un sistema de gestión técnica y qué no
 
 **La definición que este temario propone, y la declara como suya**: **un sistema de gestión técnica de
-edificios es el conjunto de sensores, actuadores, controladores, red y programas que **supervisa y
-regula** de forma centralizada las instalaciones de un edificio o de un complejo.**
+edificios es el conjunto de sensores, actuadores, controladores, red y programas que supervisa y
+regula de forma centralizada las instalaciones de un edificio o de un complejo.**
 
 **Y lo que hay que separar antes de nada, porque el vocabulario del sector los confunde:**
 

@@ -1,5 +1,19 @@
 # Tema 3 del específico de Ingeniería Técnica · Industrial · Código Técnico de la Edificación
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 3 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación** |
+| **Identificador** | `BOE-A-2006-5515` · BOE núm. 74, de 28/03/2006 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el artículo 1.1**, **el 2.2** y **el 11.3** |
+| **Aviso de estudio** | **Los documentos básicos NO están en el articulado y no se citan aquí.** Lo que el articulado da es el sistema: exigencias básicas, soluciones alternativas y quién responde de cada una |
+| **Extensión** | **3.770 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Código Técnico de la Edificación (**CTE**), que
 la propia norma se llama a sí misma; la Ley de Ordenación de la Edificación (**LOE**), que también;
 los documentos básicos (**DB**), con sus seis rótulos —seguridad estructural (**SE**), seguridad en

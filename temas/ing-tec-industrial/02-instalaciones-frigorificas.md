@@ -1,5 +1,19 @@
 # Tema 2 del específico de Ingeniería Técnica · Industrial · Instalaciones frigoríficas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 2 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 552/2019, de 27 de septiembre, por el que se aprueban el Reglamento de seguridad para instalaciones frigoríficas y sus instrucciones técnicas complementarias** |
+| **Identificador** | `BOE-A-2019-15228` · BOE núm. 245, de 11/10/2019 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el artículo 1**, **el 2.4** y **la letra j) del 18** |
+| **Aviso de estudio** | **El reglamento no clasifica por potencia sino por CARGA de refrigerante y por clase de seguridad del fluido.** Quien lo estudie con la cabeza del reglamento térmico se equivoca de eje |
+| **Extensión** | **3.101 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: las instrucciones técnicas complementarias de este
 reglamento, que se numeran (**IF-01** a **IF-20**); el Reglamento de Instalaciones Térmicas en los
 Edificios (**RITE**), del tema 1; los grupos de seguridad de los refrigerantes (**L1**, **L2** y

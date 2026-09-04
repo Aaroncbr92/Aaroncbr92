@@ -1,5 +1,19 @@
 # Tema 7 del específico de Ingeniería Técnica · Industrial · Instalaciones eléctricas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 7 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 842/2002, de 2 de agosto, del Reglamento electrotécnico para baja tensión**, con el **Real Decreto 337/2014** de instalaciones de alta tensión y el **Real Decreto 223/2008** de líneas de alta tensión |
+| **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 · `BOE-A-2014-6084` · y `BOE-A-2008-5269` |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se cita **el artículo 1 entero** del reglamento de baja tensión; los dos de alta tensión se resumen con sus artículos identificados |
+| **Punto más extenso del anexo** | **Tres reglamentos y ochenta y cuatro instrucciones técnicas.** **Los tres comparten esqueleto y lo que cambia es dónde ponen la frontera**: se estudian a la vez, comparándolos |
+| **Extensión** | **3.930 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el reglamento electrotécnico para baja tensión
 (**REBT**) y sus instrucciones técnicas complementarias (**ITC-BT 01** a **ITC-BT 52**); el reglamento
 de instalaciones eléctricas de alta tensión (**RAT**) y sus instrucciones (**ITC-RAT 01** a
@@ -208,7 +222,7 @@ más preguntables del punto:**
 | Criterio | Umbral |
 |---|---|
 | **Por potencia** | **Las que afectan a más del 50 por 100 de la potencia instalada** |
-| **Por alcance** | **Las que afectan a líneas completas de procesos productivos con nuevos circuitos y cuadros, **aun con reducción** de potencia** |
+| **Por alcance** | **Las que afectan a líneas completas de procesos productivos con nuevos circuitos y cuadros, aun con reducción de potencia** |
 
 **El segundo criterio es el que se olvida**: **una reforma puede ser de importancia aunque BAJE la
 potencia.** **Lo que la define entonces no es cuánto consume, sino cuánto cambia.**
@@ -300,8 +314,8 @@ completarlos.** **Es la misma exigencia del croquis del reglamento de gas del te
 unifilar añadido.
 
 **Y el deber del titular, del artículo 20, que se enuncia por lo que PROHÍBE**: **mantener las
-instalaciones en buen estado, utilizarlas conforme a sus características y **abstenerse de intervenir en ellas
-para modificarlas**.** **Si hacen falta modificaciones, las hace una empresa instaladora.**
+instalaciones en buen estado, utilizarlas conforme a sus características y abstenerse de intervenir en ellas
+para modificarlas.** **Si hacen falta modificaciones, las hace una empresa instaladora.**
 
 ## 7. Inspecciones, cumplimiento y excepciones
 

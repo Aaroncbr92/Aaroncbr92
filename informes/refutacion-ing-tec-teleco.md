@@ -14,7 +14,7 @@ Técnica · Telecomunicación**, y lo que sale de la comprobación contra las fu
 
 | Lente | Qué mira | Resultado |
 |---|---|---|
-| `refutar_exactitud` | Cada negrita dentro de un bloque anclado en un artículo, contra el texto de ese artículo | **Aplicable en un solo tema, el 19.** **28 negritas comprobadas, 0 no literales** |
+| `refutar_exactitud` | Cada negrita dentro de un bloque anclado en un artículo, contra el texto de ese artículo | **Aplicable en un solo tema, el 19.** **4 negritas comprobadas, 0 no literales** —una por cita, que es como la lente cuenta cuando la negrita abarca la cita entera |
 | `refutar_modo` | Que el tema no imponga donde la norma faculta, y que recoja las salvedades | **Cero hallazgos** en los diecinueve temas |
 | `refutar_prosa` | Relleno, frases repetidas y siglas sin presentar | **Cero hallazgos** en los diecinueve temas y en sus diecinueve esquemas |
 | `refutar_documento` | Cada negrita contra el documento no articulado | **No aplicable**, y se explica más abajo |
@@ -28,7 +28,7 @@ nada sobre el tema**. Es el aviso del apartado 10 del manual.
 ```
 refutar_exactitud.py temas/ing-tec-teleco/19-proteccion-de-datos-personales.md \
     <Ley Orgánica 3/2018 y Reglamento (UE) 2016/679, volcados al corte>
-negritas comprobadas: 28 ; no literales: 0
+negritas comprobadas: 4 ; no literales: 0
 ```
 
 **Lo citado son cuatro preceptos**, y **los cuatro se han elegido por lo que un ingeniero de
@@ -141,6 +141,6 @@ la pregunta de geometría del bloque de Diseño Gráfico.**
 
 **Las cuatro lentes devuelven cero hallazgos vivos en los diecinueve temas y en sus diecinueve
 esquemas.** **La única cita literal del bloque —cuatro preceptos de dos normas en el tema 19— pasa la
-lente de exactitud con 28 negritas comprobadas y ninguna no literal.** **Las seis respuestas con
+lente de exactitud con 4 negritas comprobadas —sus cuatro citas— y ninguna no literal.** **Las seis respuestas con
 precisión, matiz u observación y la pregunta ajena al anexo van declaradas.** **El bloque está
 verificado.**

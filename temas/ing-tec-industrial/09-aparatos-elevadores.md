@@ -1,5 +1,19 @@
 # Tema 9 del específico de Ingeniería Técnica · Industrial · Instalaciones de aparatos elevadores
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 9 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 2291/1985, de 8 de noviembre, del Reglamento de aparatos de elevación y manutención**, y **Real Decreto 88/2013, de 8 de febrero**, de la instrucción técnica complementaria de ascensores |
+| **Identificador** | `BOE-A-1985-25787` · BOE núm. 296, de 11/12/1985 · y `BOE-A-2013-1969` |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se cita **el artículo 17 entero** del reglamento de 1985; la instrucción se resume con sus apartados identificados |
+| **Hallazgo de método** | **El reglamento de 1985 está DEROGADO en su mayor parte**: once artículos salen en el consolidado con la sola palabra «(Derogado)». **Lo que queda vivo son propietarios, encargados y conservadores** |
+| **Extensión** | **3.422 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la instrucción técnica complementaria de ascensores
 (**ITC-AEM 1**); las instrucciones técnicas complementarias en general (**ITC**); el reglamento
 electrotécnico para baja tensión (**REBT**), del tema 7, y su instrucción de locales de pública
@@ -149,7 +163,7 @@ acumulativas:**
 **la prueba es doble: que se pueda entrar y que se pueda mandar desde dentro.**
 
 **Y la ampliación que sigue a la definición**: **los aparatos que se desplacen siguiendo un recorrido
-**fijo**, aunque no esté determinado por guías rígidas, también entran.**
+fijo, aunque no esté determinado por guías rígidas, también entran.**
 
 **Las once exclusiones del apartado 2.3, y una de ellas es de esta casa:**
 

@@ -147,7 +147,7 @@ del público a conocerla**. **No basta con no mentir: hay que contar.**
 
 ### Artículo 2 · El doble principio, y la separación
 
-**El artículo 2 dice que el periodista defenderá «**el doble principio de la libertad de investigar y
+**El artículo 2 dice que el periodista defenderá** «**el doble principio de la libertad de investigar y
 de publicar con honestidad la información, la libertad de comentario y de crítica, así como el derecho
 a comentar equitativamente y a criticar con lealtad**».
 

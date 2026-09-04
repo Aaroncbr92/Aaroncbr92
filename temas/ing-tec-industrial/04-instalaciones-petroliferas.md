@@ -1,5 +1,19 @@
 # Tema 4 del específico de Ingeniería Técnica · Industrial · Instalaciones petrolíferas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 4 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 2085/1994, de 20 de octubre, por el que se aprueba el Reglamento de instalaciones petrolíferas** |
+| **Identificador** | `BOE-A-1995-2122` · BOE núm. 20, de 24/01/1995 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el artículo 1** y **el artículo 3** en sus clases A y B |
+| **Hallazgo de volcado** | **Uno de los bloques de esta norma lo sirve el propio boletín con error, y el volcado lo deja escrito con su aviso.** Está en el índice de la norma y su texto no se ha podido leer: **no se da por vacío** |
+| **Extensión** | **3.111 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: las instrucciones técnicas complementarias de este
 reglamento, que se rotulan (**MI-IP 01** a **MI-IP 06**); la Unión Europea (**UE**), la Asociación
 Europea de Libre Comercio (**AELC**) y el Espacio Económico Europeo (**EEE**); la Asociación Española

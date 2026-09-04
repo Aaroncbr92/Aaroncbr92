@@ -362,7 +362,7 @@ más honrado que forzar la página de hoy para que diga lo de anteayer.
 eurodiputado de Metsola, la de Puigdemont—, la del **Consejo** —el Consejo Europeo de Granada, el
 espacio Schengen— y la del **Servicio Europeo de Acción Exterior** se consultaron todas. Las del
 Consejo responden 403 a toda consulta automática; las del Parlamento devuelven 200 pero
-entregan un armazón sin contenido**, porque cargan el texto con JavaScript, y la del Servicio
+entregan un armazón sin contenido, porque cargan el texto con JavaScript, y la del Servicio
 Exterior, 404. **Se probó también con un navegador real**, y en este entorno el navegador no
 atraviesa el proxy de salida.
 

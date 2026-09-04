@@ -1,5 +1,19 @@
 # Tema 15 del específico de Ingeniería Técnica · Industrial · El control de calidad en instalaciones
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 15 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Sin norma: el enunciado no nombra ninguna.** Su materia es el ciclo de la calidad de una instalación, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Clave de estudio** | **La calidad se DEFINE en el proyecto, se EXIGE en el pliego, se MIDE en el laboratorio y se COMPRUEBA en la recepción.** Un requisito sin criterio de aceptación no es un requisito: es un deseo |
+| **Extensión** | **3.339 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el pliego de prescripciones técnicas particulares
 (**PPTP**) y el de cláusulas administrativas particulares (**PCAP**); la Ley de Contratos del Sector
 Público (**LCSP**); el Código Técnico de la Edificación (**CTE**), del tema 3; el Reglamento de
@@ -206,13 +220,13 @@ lo contrate la propiedad, y así se pone en el pliego.**
 | **Eléctricos** | **Continuidad, aislamiento, resistencia de puesta a tierra, disparo de diferenciales** |
 
 **Y el aviso de método sobre las muestras, que es lo que distingue un plan de control serio**: **hay
-que decidir el **tamaño de muestra** y el **criterio de lote** antes de empezar.** **Comprobar «unos cuantos»
+que decidir el tamaño de muestra y el criterio de lote antes de empezar.** **Comprobar «unos cuantos»
 no es un plan; comprobar «uno de cada veinte y todos los de un lote rechazado» sí lo es.**
 
 **El ensayo no destructivo merece un párrafo propio, porque el anexo lo exige en dos reglamentos**:
 **el de instalaciones frigoríficas —artículo 20.3, uniones permanentes por profesionales
 acreditados— y el de equipos a presión —artículos 4.3 y 6.2—**. **En los dos, lo que se acredita no es
-sólo el ensayo: es el **procedimiento** de soldadura y el **personal** que suelda.** **Tres acreditaciones y no
+sólo el ensayo: es el procedimiento de soldadura y el personal que suelda.** **Tres acreditaciones y no
 una.**
 
 ## 6. La calidad en la recepción
@@ -244,7 +258,7 @@ incompleta:**
 
 1. **Los certificados de instalación de cada reglamento aplicable**, firmados por quien corresponda.
 2. **Los protocolos de prueba firmados, con sus resultados y su criterio de aceptación.**
-3. **Los planos y esquemas **actualizados** a lo realmente ejecutado.**
+3. **Los planos y esquemas actualizados a lo realmente ejecutado.**
 4. **El manual de uso y mantenimiento**, con instrucciones de seguridad, manejo y programas.
 5. **Las configuraciones guardadas y las contraseñas entregadas.**
 
@@ -276,18 +290,18 @@ control de calidad.** **Reunirlos es lo más útil que puede hacerse aquí:**
 
 **La conclusión que ese cuadro permite y que es la respuesta de fondo del punto**: **no hay que
 inventar un plan de control desde cero.** **Cada reglamento dice qué hay que comprobar en su
-instalación**, y **el plan de control de una obra es la **suma** de esos controles más lo que el pliego
+instalación**, y **el plan de control de una obra es la suma de esos controles más lo que el pliego
 añada.**
 
 **Y la observación de oficio que cierra el punto**: **lo que el pliego añade es lo que distingue un
 proyecto bueno de uno que sólo cumple.** **Los reglamentos garantizan la seguridad; el pliego
-garantiza las **prestaciones**.** **Un edificio puede tener todos los certificados reglamentarios y no
+garantiza las prestaciones.** **Un edificio puede tener todos los certificados reglamentarios y no
 alcanzar la temperatura de proyecto en agosto**, porque **eso no lo comprueba ningún reglamento: lo
 comprueba quien lo haya escrito en su pliego.**
 
 ## 8. Trazabilidad
 
-**Este tema no cita ninguna fuente de forma literal**, y **es, junto con el 13, uno de los **dos** puntos
+**Este tema no cita ninguna fuente de forma literal**, y **es, junto con el 13, uno de los dos puntos
 de este anexo sin norma nombrada en su enunciado.**
 
 **Cuatro declaraciones expresas:**

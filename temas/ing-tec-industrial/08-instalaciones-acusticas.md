@@ -1,5 +1,19 @@
 # Tema 8 del específico de Ingeniería Técnica · Industrial · Instalaciones acústicas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 8 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Ley 37/2003, de 17 de noviembre, del Ruido**, y **Real Decreto 1513/2005, de 16 de diciembre**, que la desarrolla en evaluación y gestión del ruido ambiental |
+| **Identificador** | `BOE-A-2003-20976` · BOE núm. 276, de 18/11/2003 · y `BOE-A-2005-20792` |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se cita **el artículo 1 entero** de la ley; el real decreto se resume con sus artículos identificados |
+| **Único punto sostenido por una LEY** | **Una ley fija competencias, define conceptos y remite al Gobierno los valores; un reglamento da los números.** Aquí los números están casi todos fuera de las dos normas del enunciado |
+| **Extensión** | **3.017 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: los índices de ruido de la norma, que se escriben con
 letra ele y un subíndice —el de día-tarde-noche (**Lden**), el de día (**Ld**), el de tarde (**Le**) y
 el de noche (**Ln**)—, con sus equivalentes en inglés (**Lday**, **Levening** y **Lnight**); el Código
@@ -185,7 +199,7 @@ incendios, sanitarios, de seguridad u otros análogos**, y **para eso «no será
 ninguna».** **Una sirena no pide permiso.**
 
 **Y el segundo tiene la condición más dura de la ley**: **no basta con que cumplir sea caro o
-incómodo.** **Hay que acreditar que las **mejores técnicas disponibles** no permiten cumplir.** **Es una
+incómodo.** **Hay que acreditar que las mejores técnicas disponibles no permiten cumplir.** **Es una
 prueba técnica, no económica.**
 
 ## 6. El reglamento de ruido ambiental
@@ -199,7 +213,7 @@ prueba técnica, no económica.**
 |---|---|---|
 | **Qué cubre** | **Toda la contaminación acústica** | **Sólo el RUIDO AMBIENTAL: el sonido EXTERIOR no deseado generado por actividades humanas** |
 | **Dónde** | **Todos los emisores y las edificaciones como receptores** | **Zonas urbanizadas, parques y zonas tranquilas, campo abierto, proximidades de centros escolares, alrededores de hospitales y otros lugares vulnerables** |
-| **Qué excluye** | **Doméstico tolerable, militar y laboral** | **Lo anterior, y además: el ruido de la **propia persona expuesta** y el del **interior** de los medios de transporte** |
+| **Qué excluye** | **Doméstico tolerable, militar y laboral** | **Lo anterior, y además: el ruido de la propia persona expuesta y el del interior de los medios de transporte** |
 
 **Las dos exclusiones que el reglamento añade son coherentes con su objeto**: **si sólo mira el sonido
 exterior, ni el que uno mismo hace ni el de dentro de un autobús le corresponden.**

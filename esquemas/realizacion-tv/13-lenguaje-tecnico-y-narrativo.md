@@ -48,8 +48,8 @@ proyecto.**
 
 - **PREGUNTA 117** · `[of]` · **Según el punto de vista existen PLANO OBJETIVO Y PLANO SUBJETIVO.**
 - **LAS OPCIONES FALSAS SON OTRAS CLASIFICACIONES REALES**: **primer plano y general son TAMAÑO** ·
-  **picado y contrapicado son ANGULACIÓN** · **nadir y cenital son angulación extrema. **La palabra que
-  decide es «punto de vista»: quién mira.**
+  **picado y contrapicado son ANGULACIÓN** · **nadir y cenital son angulación extrema.** **La palabra
+  que decide es «punto de vista»: quién mira.**
 
 ## Los movimientos y el barrido
 

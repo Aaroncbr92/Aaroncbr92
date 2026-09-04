@@ -17,6 +17,63 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
+### 2026-09-04 · Un tema publicado estaba corrompido en el repositorio — cerrado el mismo día
+
+- **Dónde**: `temas/ing-tec-teleco/19-proteccion-de-datos-personales.md`, **commit
+  `5f36857`**. Lo encontró la comprobación de negritas anidadas al pasarla hacia atrás.
+- **Qué le había pasado**: **de la línea 25 a la 87, y en los tres bloques de cita posteriores, cada
+  línea había sido sustituida por `> **` + la línea sin sus dos primeros caracteres + `**`.** El
+  efecto: **el enunciado, dos párrafos de entrada, el índice, dos epígrafes, una tabla y cuatro citas
+  literales quedaron dentro de una cita en bloque**, con **los dos primeros caracteres de cada línea
+  comidos** —`escribe` salía como `cribe`, `micrófono` como `crófono`, `<!-- indice -->` como
+  `-- indice -->`, `## Índice` como ` Índice`—.
+- **Por qué ninguna lente lo vio**: **las cuatro miran lo que el texto dice, no cómo se estructura.**
+  La de prosa no se queja de una cita en bloque; la de modo tampoco; y **la de exactitud daba 28
+  negritas comprobadas y 0 no literales**, porque **la corrupción había convertido cada línea de cada
+  cita en una negrita independiente** y las 28 seguían siendo literales. **Un número que sube no es
+  una señal de que todo va bien.**
+- **Consecuencia colateral**: como los marcadores `<!-- indice -->` habían quedado dentro de la cita,
+  **`herramientas/indice.py` no los encontró y escribió un segundo índice** más abajo, con sólo siete
+  de las nueve entradas. **El volumen publicado llevaba dos índices y un tema ilegible.**
+- **Cómo se ha reparado**: **la transformación es reversible salvo por los dos caracteres comidos**,
+  y ésos se reconstruyen uno a uno —determinista en los marcadores, encabezados, viñetas y filas de
+  tabla; por lectura en las cinco líneas de prosa—. **Las cuatro citas se han restaurado a la forma
+  de la casa** —`«**` al abrir y `**»` al cerrar, sin negrita por línea—, **el índice duplicado se ha
+  borrado** y **`indice.py` lo ha vuelto a generar.** **Las cuatro lentes vuelven a dar cero**, y la
+  de exactitud da ahora **4 comprobadas, 0 no literales**: una por cita, que es lo que le corresponde.
+- **Lo que queda escrito**: **una comprobación de estructura, y no sólo de contenido, hace falta.**
+  Lo mínimo: **que un tema no tenga dos bloques de índice**, **que sus marcadores estén fuera de toda
+  cita** y **que ninguna línea de prosa empiece por una sílaba que no es palabra.**
+
+### 2026-09-04 · Ninguna lente ve una negrita anidada — abierto
+
+- **Dónde**: en todo el corpus. **Ninguna de las cuatro lentes mira cómo se renderiza el texto**,
+  sólo lo que dice.
+- **Qué pasa**: una negrita dentro de otra —`**texto **palabra** texto**`— **es sintaxis válida y
+  se renderiza al revés de lo que se quiso**. El formato empareja los asteriscos de dos en dos, así
+  que la palabra que se quería destacar sale en redonda y **el texto que la rodea se parte en dos
+  negritas** con espacios sueltos en los bordes.
+- **De dónde salió**: de esta ocupación. La lente de prosa marca como sigla sin presentar cualquier
+  palabra en mayúsculas de tres letras o más, así que **el énfasis por mayúsculas hubo que
+  sustituirlo en bloque por negrita**; y **sustituir una palabra dentro de un párrafo que ya estaba
+  entero en negrita produce exactamente ese anidamiento.** Quedaban **86 apariciones** en los
+  dieciséis temas de Ingeniería Técnica · Industrial.
+- **Cómo se detectan**: **por párrafo, no por línea** —una negrita puede cruzar el salto de línea, y
+  partir por líneas rompe el emparejamiento y llena de falsos positivos—. Se parte el párrafo por
+  `**`, se toman los tramos impares como negritas y **se marca toda negrita que empiece o acabe en
+  espacio o en salto de línea**: en un texto bien escrito eso no ocurre nunca. La reparación es
+  fundir la negrita con la siguiente, es decir **quitar el par interior**.
+- **La pasada hacia atrás ya está hecha, y encontró más de lo esperado.** Sobre **todos** los temas y
+  esquemas del proyecto aparecieron, además de los 86 de esta ocupación, **nueve párrafos más con la
+  negrita rota** en seis bloques distintos: Gestión, Información y Contenidos, Producción
+  (Asistencia), Documentación, Realización y Realización Televisión. **Todos reparados**, y **el
+  corpus entero pasa hoy la comprobación con cero defectos.**
+- **Qué falta**: **meter la comprobación en `refutar_prosa.py`**, que es donde vive lo que mira la
+  forma del texto, para que **no haya que acordarse de correrla a mano.** El comprobador está escrito
+  y usado; falta integrarlo.
+- **Y la regla de escritura que evita el problema de origen**: **el énfasis se hace con negrita, no
+  con mayúsculas.** La mayúscula se reserva para una palabra corta que la propia norma destaca.
+
 ### 2026-09-03 · Los informes tampoco pasan la lente de prosa — abierto
 
 - **Dónde**: `informes/`.

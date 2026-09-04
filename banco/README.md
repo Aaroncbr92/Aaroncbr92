@@ -728,6 +728,28 @@ guion poniendo la sinopsis después del argumento, y la 28 del cuadernillo de In
 ordena al revés. **Las dos respuestas oficiales son correctas dentro de su propio examen.** El temario
 lo declara como dos escuelas, no como error, y sigue en cada ocupación la convención de su enunciado.
 
+### Ingeniería Técnica · Industrial
+
+**Ninguna pregunta, y hay que decirlo aquí antes que en ningún otro sitio.** **Es la primera ocupación
+del proyecto sin examen publicado**: la convocatoria anterior no sacó cuadernillo de esta
+especialidad, y **no hay por tanto banco específico que construir.** No existe
+`especifico-ing-tec-industrial.tsv` y **no se ha inventado ninguno.**
+
+**El volumen se publica igual**, con sus dieciséis temas propios y el compartido de prevención, y
+**las únicas preguntas reales que lleva son las cuarenta y ocho de ese banco compartido**, tomadas de
+los cuadernillos de 2024 de otras especialidades sobre la materia que todas comparten.
+
+**Lo que ocupa el lugar de las preguntas es la norma citada literalmente**: **veintitrés reales
+decretos y leyes volcados del boletín**, y **veintinueve citas verificadas una a una** contra el texto
+de su artículo. **Es la ocupación más normativa del proyecto**, y la que mejor tolera no tener examen:
+lo que puede caer está escrito con todas sus letras en un boletín oficial.
+
+**Y el dato va escrito donde el opositor lo va a ver**: en la portada del volumen y en su apéndice de
+respuestas. **No haber examen es un dato de la convocatoria, no un hueco del temario**, y disimularlo
+sería el fallo del apartado 10 del manual otra vez: **un cero que no se explica se lee como si no
+faltara nada.**
+
+
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al
 lado. No se clasifica por palabras clave, y no por comodidad: las preguntas del

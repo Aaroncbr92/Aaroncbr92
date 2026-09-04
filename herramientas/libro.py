@@ -1007,6 +1007,82 @@ BLOQUES = {
                       "<b>Los enunciados y las opciones se han contrastado uno a uno contra la "
                       "plantilla oficial</b>.</p>",
     ),
+    # La primera ocupación del proyecto SIN EXAMEN PUBLICADO. Las otras dieciséis
+    # traen cuadernillo y plantilla, y aquí no hay ni una pregunta específica: la
+    # convocatoria 1/2022 no publicó examen de esta especialidad. Por eso los
+    # dieciséis bancos van a None y el volumen sólo lleva el del tema compartido de
+    # prevención. No es un hueco del proyecto: es un dato de la convocatoria, y va
+    # dicho en la portada y en el apéndice de respuestas en vez de disimulado.
+    "ing-tec-industrial": dict(
+        carpeta="ing-tec-industrial",
+        rotulo="Temario espec\u00edfico \u00b7 Ing. T\u00e9cnica Industrial",
+        ocupacion="Ing. T\u00e9cnica Industrial",
+        titulo="Temario espec\u00edfico",
+        subtitulo="Los diecisiete temas de <b>Ingenier\u00eda T\u00e9cnica \u00b7 "
+                  "Industrial</b>",
+        pie="Oposiciones RTVE \u2013 Ing. T\u00e9cnica Industrial",
+        avisos=dict(AVISOS_PRL),
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        # el anexo tiene dieciséis puntos y el temario dieciséis temas más el de
+        # prevención: aquí no se agrupa ni se parte ningún punto, porque cada uno
+        # nombra sus propias normas y mezclarlos separaría un reglamento de su tema.
+        # Los dieciséis bancos van a None: no hay examen de esta ocupación
+        temas=[("%02d-%s" % (n, base), banco) for n, base, banco in [
+            (1, "instalaciones-termicas-en-los-edificios", None),
+            (2, "instalaciones-frigorificas", None),
+            (3, "codigo-tecnico-de-la-edificacion", None),
+            (4, "instalaciones-petroliferas", None),
+            (5, "instalaciones-de-gas", None),
+            (6, "proteccion-contra-incendios", None),
+            (7, "instalaciones-electricas", None),
+            (8, "instalaciones-acusticas", None),
+            (9, "aparatos-elevadores", None),
+            (10, "equipos-a-presion", None),
+            (11, "instalaciones-solares", None),
+            (12, "eficiencia-energetica", None),
+            (13, "control-automatizado-de-instalaciones", None),
+            (14, "seguridad-y-salud-en-el-trabajo", None),
+            (15, "el-control-de-calidad-en-instalaciones", None),
+            (16, "programas-de-diseno-y-control-de-obras", None),
+        ]] + [TEMA_PRL],
+        aviso_respuestas="<b>Esta ocupaci\u00f3n no tiene examen publicado</b>, y por eso el "
+                         "\u00fanico banco de este volumen es el del tema compartido de "
+                         "prevenci\u00f3n de riesgos laborales: <b>cuarenta y ocho preguntas "
+                         "reales</b>, tomadas de los cuadernillos de 2024 de otras "
+                         "especialidades, sobre la materia que <b>todas</b> comparten. "
+                         "<b>Ninguna respuesta oficial de ese banco est\u00e1 mal</b>; las que "
+                         "llevan matiz van avisadas debajo de su n\u00famero. Para los diecis\u00e9is "
+                         "temas propios <b>no hay plantilla que contrastar</b>, y este temario "
+                         "no se inventa preguntas: lo que ofrece en su lugar es <b>la norma "
+                         "citada literalmente</b>, con su identificador y su fecha de "
+                         "redacci\u00f3n, que es contra lo que se corrige un examen de verdad.",
+        aviso_portada="<p><b>Seis plazas convocadas</b> en la convocatoria 1/2025 y, por primera "
+                      "vez en este proyecto, <b>ning\u00fan examen que estudiar</b>: la "
+                      "convocatoria anterior no public\u00f3 cuadernillo de esta especialidad. "
+                      "El volumen no lo disimula \u2014lo dice aqu\u00ed y en el ap\u00e9ndice de "
+                      "respuestas\u2014 y hace con ello lo \u00fanico honrado: <b>apoyarse entero "
+                      "en el Bolet\u00edn Oficial del Estado</b>.</p>"
+                      "<p><b>Es la ocupaci\u00f3n m\u00e1s normativa de todo el proyecto.</b> "
+                      "Trece de sus diecis\u00e9is puntos nombran uno o varios reales decretos "
+                      "con su n\u00famero, su fecha y su \u00faltima consolidaci\u00f3n: "
+                      "<b>veintitr\u00e9s normas en total</b>, todas volcadas del boletín y "
+                      "citadas en su redacci\u00f3n vigente el <b>21 de diciembre de 2022</b>. "
+                      "Aqu\u00ed no hay casi nada de oficio: hay reglamento.</p>"
+                      "<p><b>Los tres puntos restantes \u2014control automatizado, control de "
+                      "calidad y programas de dise\u00f1o\u2014 no nombran ninguna norma</b>, y "
+                      "uno de ellos nombra dos productos comerciales. Sus temas van enteros como "
+                      "oficio de ingenier\u00eda, <b>declarado como tal</b>, y ninguno describe "
+                      "el funcionamiento de un programa concreto: lo que no caduca es el flujo de "
+                      "trabajo, no la versi\u00f3n.</p>"
+                      "<p>Y una excepci\u00f3n declarada, la \u00fanica del proyecto: <b>el punto "
+                      "1 cita una norma que a la fecha de corte estaba en <i>vacatio "
+                      "legis</i></b> \u2014el Real Decreto 487/2022, de legionelosis, en vigor "
+                      "el 2 de enero de 2023\u2014. Su volcado al corte sale con el \u00edndice "
+                      "entero y <b>sin un solo art\u00edculo con texto</b>. Se lee, por tanto, de "
+                      "un volcado posterior, y <b>esa fecha va escrita al pie de cada "
+                      "cita</b>.</p>",
+    ),
     "diseno-grafico": dict(
         carpeta="diseno-grafico",
         rotulo="Temario espec\u00edfico \u00b7 Dise\u00f1o Gr\u00e1fico",

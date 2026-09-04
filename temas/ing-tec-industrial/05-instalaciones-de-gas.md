@@ -1,5 +1,19 @@
 # Tema 5 del específico de Ingeniería Técnica · Industrial · Instalaciones de gas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 5 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 919/2006, de 28 de julio, por el que se aprueba el Reglamento técnico de distribución y utilización de combustibles gaseosos y sus instrucciones técnicas complementarias** |
+| **Identificador** | `BOE-A-2006-15345` · BOE núm. 211, de 04/09/2006 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el artículo 1** y **el artículo 7.2** |
+| **Aviso de la lente** | **La fuente repite los números de artículo porque cada instrucción técnica numera desde uno.** Las citas de este tema son del articulado del propio reglamento, y así se identifican al pie |
+| **Extensión** | **3.260 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: las instrucciones técnicas complementarias de este
 reglamento (**ITC-ICG 01** a **ITC-ICG 11**); los gases licuados del petróleo (**GLP**); el gas
 natural licuado (**GNL**) y el comprimido (**GNC**); la Asociación Española de Normalización
@@ -290,7 +304,7 @@ durante el último año.**
 | **Remitir información estadística** a la comunidad autónoma y al ministerio | **En los quince primeros días de cada trimestre** |
 
 **Y los siete datos que esa estadística debe incluir al menos**: **localidad y provincia, fecha, daños
-materiales, daños personales, **la clase** —deflagración, explosión, intoxicación o incendio—, y posible
+materiales, daños personales, la clase —deflagración, explosión, intoxicación o incendio—, y posible
 causa.**
 
 **La lista de clases es la que un ingeniero debe saber enunciar**, porque **distingue cuatro sucesos

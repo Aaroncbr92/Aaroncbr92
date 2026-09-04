@@ -4,28 +4,34 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-03 (Ingeniería Técnica · Telecomunicación)
+**Última actualización:** 2026-09-04 (Ingeniería Técnica · Industrial)
 
 ## Qué es esto
 
-Dieciséis temarios de oposición de RTVE, por ocupación tipo: **Producción
+Diecisiete temarios de oposición de RTVE, por ocupación tipo: **Producción
 (Asistencia)**, **Producción**, **Realización (Asistencia)**, **Realización
 Televisión**, **Documentación**, **Información y Contenidos**, **Gestión
 Administrativa**, **Gestión**, **Montaje de Equipos Audiovisuales**, **Edición,
 Montaje y Procesos Audiovisuales**, **Información Gráfica y Captación de Imagen
 y Sonido**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica
-Informática**, **Diseño Gráfico** e **Ingeniería Técnica ·
-Telecomunicación**. El programa sale del ANEXO 2 de las bases, transcrito literal
-en `convocatoria/`.
+Informática**, **Diseño Gráfico**, **Ingeniería Técnica · Telecomunicación** e
+**Ingeniería Técnica · Industrial**. El programa sale del ANEXO 2 de las bases,
+transcrito literal en `convocatoria/`.
 
-Las dieciséis comparten el mismo temario general —**comprobado byte a byte**: el
+Las diecisiete comparten el mismo temario general —**comprobado byte a byte**: el
 bloque común es idéntico en todos los anexos; sólo cambia el pie de página— y
-**las dieciséis** tienen en su bloque específico un tema de prevención de riesgos
+**las diecisiete** tienen en su bloque específico un tema de prevención de riesgos
 laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con **doce
 rúbricas de las que ninguna ocupación lleva todas** y **seis redacciones
 distintas del enunciado**. Por eso los cuerpos de tema llenan las posiciones de
-los **diecisiete volúmenes**: los ocho generales y el de prevención van
+los **dieciocho volúmenes**: los ocho generales y el de prevención van
 repetidos. El reparto y el orden están en `PLAN.md`.
+
+**Y una de las diecisiete no tiene examen publicado**: Ingeniería Técnica ·
+Industrial. La convocatoria anterior no sacó cuadernillo de esa especialidad, así
+que su volumen **no lleva banco específico** y se apoya entero en el Boletín
+Oficial del Estado. Es un dato de la convocatoria, va escrito en su portada y en
+su apéndice de respuestas, y **no se disimula.**
 
 **Convocatoria identificada**: son los anexos 2 de las **bases específicas de la
 convocatoria 1/2022** (turno libre, adaptadas tras el acuerdo transaccional de la
@@ -854,7 +860,7 @@ en Documentación y en Producción (Asistencia).
       ingeniero de instalaciones necesita: **el artículo 32.1 del reglamento europeo, cuya letra b)
       enumera CUATRO propiedades y no tres** —añade la resiliencia—, el 25.2 del mismo, y los
       artículos 22 y 89 de la ley orgánica, que son **los que deciden dónde se puede colgar una
-      cámara y dónde no un micrófono.** **28 negritas comprobadas, 0 no literales.**
+      cámara y dónde no un micrófono.** **4 negritas comprobadas —sus cuatro citas—, 0 no literales.**
       **5) Dos plazos de setenta y dos horas que no tienen nada que ver.** Uno es el de poner una
       grabación a disposición de la autoridad —artículo 22.3 de la ley orgánica— y otro el de
       notificar una brecha de seguridad —artículo 33.1 del reglamento europeo—. **Ninguna lente
@@ -867,6 +873,54 @@ en Documentación y en Producción (Asistencia).
       transcripción por reconocimiento óptico que estaba al lado**, y **enunciados y opciones se han
       contrastado uno a uno contra la plantilla oficial.** Queda escrito para que nadie vuelva a
       perder tiempo intentando extraer el PDF.
+
+- [x] **Fase I: Ingeniería Técnica · Industrial, terminada el 2026-09-04.** 16 temas propios más
+      el de prevención, **57.522 palabras de tema y 34.601 de esquema**, **23 normas del boletín
+      volcadas** y **29 citas literales verificadas**. **6 plazas en la convocatoria 1/2025.**
+      **Primera ocupación del proyecto sin examen publicado**: el volumen lleva **48 preguntas**,
+      todas del banco compartido de prevención, y **el proyecto sigue en 1.759 preguntas
+      específicas repartidas en dieciséis bancos.** **La cuenta de erratas de plantilla sigue en
+      diez.**
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) Un temario se puede publicar sin examen, si se dice.** No hay cuadernillo de esta
+      especialidad, y **la respuesta correcta no es inventar preguntas ni callarlo**: es **decirlo
+      en la portada y en el apéndice de respuestas** y **poner en su lugar la norma citada
+      literalmente, con su identificador y su fecha de redacción**, que es contra lo que se corrige
+      un examen de verdad. **Un cero que no se explica se lee como si no faltara nada.**
+      **2) La primera excepción declarada a la fecha de corte.** El punto 1 nombra el **Real Decreto
+      487/2022**, de legionelosis, **que a 21 de diciembre de 2022 estaba en vacatio**: entró en
+      vigor el 2 de enero de 2023, y **su volcado al corte sale con el índice entero y sin un solo
+      artículo con texto.** Se lee de un volcado a **1 de junio de 2023**, con **la fecha de lectura
+      al pie de cada cita**, y la excepción queda razonada en el tema, en el volumen y en
+      `fuentes/posteriores-al-corte/README.md`. **Es el único caso de todo el proyecto.**
+      **3) Un bloque que el boletín no sirve mataba el volcado de la norma entera.** El reglamento
+      de instalaciones petrolíferas tiene **un bloque cuyo texto la propia interfaz del boletín
+      rehúsa**, y con la herramienta anterior ese error **abortaba el volcado completo y la norma
+      quedaba fuera del proyecto sin que nada lo dijera.** **`herramientas/boe.py` se ha corregido**
+      para tolerar el fallo por bloques: **el que falla deja su hueco escrito**, con su rótulo, en
+      el volcado y en el parte, y los demás se escriben.
+      **4) La ocupación más normativa del proyecto.** **Trece de sus dieciséis puntos nombran uno o
+      varios reales decretos**, con número, fecha y última consolidación. Es también **la única en
+      la que no se une ni se parte ningún punto del anexo**: cada uno trae su norma, y agruparlos
+      separaría un reglamento de su tema.
+      **5) Los tres puntos sin norma tienen todos la misma salida.** Control automatizado, control
+      de calidad y programas de diseño **no nombran ninguna norma** —y uno nombra dos productos
+      comerciales—. Los tres van como oficio declarado, y **los tres hacen además lo que ningún
+      manual de su materia hace: reunir las exigencias que las otras normas del propio anexo
+      imponen sobre su asunto.** Y **donde el anexo nombra un producto, el tema desarrolla la
+      función**: un temario atado a la versión de un programa caduca y no sirve para otro.
+      **6) El énfasis por mayúsculas es incompatible con `refutar_prosa`.** La lente marca como
+      sigla sin presentar **cualquier palabra en mayúsculas de tres letras o más**, así que un
+      temario que use la mayúscula para enfatizar **se llena de falsos positivos que tapan los
+      verdaderos.** **Regla que queda escrita: el énfasis se hace con negrita.**
+      **7) Y el arreglo en bloque de lo anterior introduce un error que ninguna lente ve.**
+      Sustituir una palabra en mayúsculas por la misma en negrita, **dentro de un párrafo ya en
+      negrita**, produce **negritas anidadas** —`**texto **palabra** texto**`— que el formato no sabe
+      representar y **que invierten el énfasis al renderizar**. Se ha escrito un comprobador de
+      paridad y de anidamiento por párrafo y **se han reparado 86 apariciones**. **Ninguna de las
+      cuatro lentes lo detectaba**, porque ninguna mira cómo se renderiza el texto: va a
+      `PENDIENTES.md`.
 
 ## Qué comprobación pasa por qué material
 

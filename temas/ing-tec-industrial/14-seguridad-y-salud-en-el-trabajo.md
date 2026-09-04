@@ -1,5 +1,19 @@
 # Tema 14 del específico de Ingeniería Técnica · Industrial · Seguridad y salud en el trabajo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 14 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo** |
+| **Identificador** | `BOE-A-1997-8669` · BOE núm. 97, de 23/04/1997 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el artículo 1 entero**, **el 2.1**, **el 3 entero** y **el 7.1**. **La disposición adicional única no estaba en vigor al corte** —entra el 13/05/2023— y el volcado la deja con su aviso y sin cuerpo |
+| **No confundir con el punto 17** | **Éste mira el SITIO** —local, suelo, puerta, temperatura, luz—; **el 17 mira a la PERSONA.** Y es éste el que un ingeniero aplica al proyectar: sus anexos son condiciones constructivas |
+| **Extensión** | **3.254 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la prevención de riesgos laborales (**PRL**); el
 Reglamento de Instalaciones Térmicas en los Edificios (**RITE**), del tema 1; el Código Técnico de la
 Edificación (**CTE**), del tema 3, con su documento básico de seguridad de utilización y
@@ -80,11 +94,11 @@ más.**
 | **Campos, bosques y terrenos agrícolas o forestales FUERA de la zona edificada** | **Su normativa** |
 
 **La quinta tiene una condición espacial que hay que leer despacio**: **lo excluido es lo que está
-fuera de la **zona edificada**.** **La nave de una explotación agrícola sí está dentro de este real
+fuera de la zona edificada.** **La nave de una explotación agrícola sí está dentro de este real
 decreto.**
 
 **Y el apartado 3 es el que impide que las exclusiones se lean como un vacío**: **la Ley 31/1995 se
-aplica **plenamente** a todo el ámbito del apartado 1.** **Lo que se excluye son estas disposiciones
+aplica plenamente a todo el ámbito del apartado 1.** **Lo que se excluye son estas disposiciones
 mínimas concretas, no la prevención.**
 
 **La exclusión de las obras de construcción es la más importante para esta ocupación**: **cuando un
@@ -120,8 +134,8 @@ o en servicio.**
 entra dos veces al año sigue siendo lugar de trabajo**, y **le son exigibles todas las condiciones de
 los anexos.**
 
-**Y el apartado 2 extiende el ámbito una vez más**: **las **instalaciones de servicio o protección** anejas
-a los lugares de trabajo se consideran **parte integrante** de los mismos.**
+**Y el apartado 2 extiende el ámbito una vez más**: **las instalaciones de servicio o protección anejas
+a los lugares de trabajo se consideran parte integrante de los mismos.**
 
 **Ése es el apartado que mete de lleno a esta ocupación en el real decreto**: **la climatización, el
 alumbrado, la protección contra incendios y la electricidad de un centro de trabajo no son un anexo al
@@ -147,12 +161,12 @@ lugar de trabajo: son el lugar de trabajo.** **Lo que un ingeniero proyecta qued
 **El artículo tiene DOS mandatos y hay que verlos separados:**
 
 1. **Un mandato de resultado y con escalera**: **que la utilización no origine riesgos** o, **si no
-   fuera posible, que se **reduzcan al mínimo**.** **Es la jerarquía general de la prevención: evitar
+   fuera posible, que se reduzcan al mínimo.** **Es la jerarquía general de la prevención: evitar
    antes que reducir.**
 2. **Un mandato de mínimos, incondicional**: **«en cualquier caso» los lugares de trabajo deben
    cumplir las disposiciones mínimas.** **Aunque no hubiera riesgo, hay que cumplirlas.**
 
-**Y la enumeración de la segunda mitad es el **índice** del real decreto**, artículo por artículo:
+**Y la enumeración de la segunda mitad es el índice del real decreto**, artículo por artículo:
 
 | Materia | Artículo | Anexo |
 |---|---|---|
@@ -196,16 +210,16 @@ obligan, y la más exigente manda.**
 
 ---
 
-**Y el apartado 2 marca la frontera**: **la exposición a **agentes** físicos, químicos y biológicos se rige
-por su **normativa específica**.** **Este real decreto se ocupa del ambiente térmico —temperatura,
+**Y el apartado 2 marca la frontera**: **la exposición a agentes físicos, químicos y biológicos se rige
+por su normativa específica.** **Este real decreto se ocupa del ambiente térmico —temperatura,
 humedad, corrientes de aire—; el ruido, las vibraciones y los agentes químicos van por otras normas.**
 
 **Ésa es la distinción que conviene tener hecha**: **el confort térmico está aquí; el ruido laboral no
 —va a su propia norma y, fuera del trabajo, a la Ley del Ruido del tema 8—.**
 
 **El artículo 8, sobre iluminación**, con su criterio de fondo: **la iluminación debe permitir que los
-trabajadores dispongan de condiciones de **visibilidad** adecuadas para **circular** por los lugares y para
-**desarrollar** sus actividades sin riesgo**, y **cumplir en particular las disposiciones del anexo IV.**
+trabajadores dispongan de condiciones de visibilidad adecuadas para circular por los lugares y para
+desarrollar sus actividades sin riesgo**, y **cumplir en particular las disposiciones del anexo IV.**
 
 **Los dos verbos —circular y desarrollar— son los que un proyectista debe separar**: **el alumbrado de
 paso y el alumbrado de tarea no son el mismo cálculo**, y **el real decreto los pide los dos.**
@@ -229,7 +243,7 @@ Laborales**, y **hay que saber a qué apartado remite cada uno:**
 
 | Artículo | Qué exige | A dónde remite |
 |---|---|---|
-| **11 · Información** | **Que los trabajadores y sus representantes reciban **información adecuada** sobre las medidas de prevención y protección que hayan de adoptarse** en aplicación de este real decreto | **Al artículo 18 de la Ley 31/1995** |
+| **11 · Información** | **Que los trabajadores y sus representantes reciban información adecuada sobre las medidas de prevención y protección que hayan de adoptarse** en aplicación de este real decreto | **Al artículo 18 de la Ley 31/1995** |
 | **12 · Consulta y participación** | **Que la consulta y participación se realicen de acuerdo con lo dispuesto** | **Al apartado 2 del artículo 18 de la misma ley** |
 
 **La diferencia entre los dos es la diferencia entre informar y consultar**, y **conviene enunciarla**:
@@ -237,7 +251,7 @@ Laborales**, y **hay que saber a qué apartado remite cada uno:**
 representante responde—.** **El real decreto exige las dos.**
 
 **Y el objeto de la información está acotado**: **son las medidas de prevención y protección que hayan
-de adoptarse **en aplicación de este real decreto**.** **No es la información general de prevención, que
+de adoptarse en aplicación de este real decreto.** **No es la información general de prevención, que
 es del tema 17 compartido.**
 
 ## 6. Los anexos, y por qué este tema no los cita
@@ -263,7 +277,7 @@ reproducen aquí.**
 fuente no se escribe.** **Los anexos están en el volcado y sus valores se estudian ahí**, y **el tema
 dice qué materia contiene cada uno para que se sepa dónde buscar.**
 
-**Lo que sí conviene enunciar es la **estructura** del anexo I**, porque **es la que un proyectista
+**Lo que sí conviene enunciar es la estructura del anexo I**, porque **es la que un proyectista
 recorre**: **va de lo general a lo particular** —seguridad estructural, después espacios, después
 suelos y aberturas, después circulación, después puertas y escaleras, y al final evacuación, incendios
 y electricidad—. **Ese orden es el orden de un proyecto.**

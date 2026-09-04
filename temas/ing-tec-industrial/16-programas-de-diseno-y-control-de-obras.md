@@ -1,5 +1,19 @@
 # Tema 16 del específico de Ingeniería Técnica · Industrial · Programas de diseño y control de obras
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 16 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Sin norma: el enunciado nombra dos productos comerciales.** **No se ha consultado la documentación de ninguno de los dos**, y el tema desarrolla las dos funciones que nombra a través de ellos |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Decisión de método declarada** | **Un temario atado a la versión de un producto caduca y no sirve para otro.** Lo que no caduca es el flujo de trabajo, la estructura de un presupuesto y los criterios de medición |
+| **Extensión** | **3.066 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el diseño asistido por ordenador (**CAD**, *computer
 aided design*), que es lo que el primero de los dos programas del enunciado hace; el modelado de
 información de construcción (**BIM**, *building information modeling*); el formato de intercambio de
@@ -17,7 +31,7 @@ presupuestos.**
 
 **Lo que este temario hace con eso, y lo declara**: **no se ha consultado la documentación de ninguno
 de los dos programas, ni se afirma nada de su funcionamiento particular.** **Lo que se desarrolla son
-las **dos funciones** que el enunciado nombra a través de ellos** —dibujar y presupuestar— **y los
+las dos funciones que el enunciado nombra a través de ellos** —dibujar y presupuestar— **y los
 conceptos de oficio que cualquier programa de cada clase maneja.**
 
 **La razón no es de comodidad, es de método**: **un temario que describa las órdenes de un programa
@@ -73,11 +87,11 @@ que sólo esté en el presupuesto no se sabe hacer; una que sólo esté en el pl
 | **Escala** | **Se aplica en la presentación, no al dibujar** |
 
 **La regla de oro del dibujo asistido, y es la que separa un proyecto mantenible de uno que no lo
-es**: **se dibuja **siempre** a escala 1:1 en unidades reales, y la escala se decide al imprimir.**
+es**: **se dibuja siempre a escala 1:1 en unidades reales, y la escala se decide al imprimir.**
 **Dibujar «a escala» es un error de método que impide medir desde el plano.**
 
 **Y la de organización, que es la que hace posible trabajar entre varios**: **la estructura de capas y
-la nomenclatura de ficheros se acuerdan **antes** de empezar y se escriben.** **Un proyecto con veinte
+la nomenclatura de ficheros se acuerdan antes de empezar y se escriben.** **Un proyecto con veinte
 capas llamadas «capa1» a «capa20» es ilegible para el que venga después, aunque el dibujo sea
 correcto.**
 
@@ -97,10 +111,10 @@ tiempo:**
 | **Nativo del programa** | **Trabajar** |
 | **De intercambio de dibujo** | **Entregar a quien usa otro programa** |
 | **Documento portátil** | **Publicar y visar**: no se edita, y es el que se firma |
-| **De modelo abierto** | **Intercambiar el **modelo**, no el dibujo** |
+| **De modelo abierto** | **Intercambiar el modelo, no el dibujo** |
 
 **La regla de entrega que un pliego debe fijar y casi nunca fija**: **hay que decir en qué formatos se
-entrega y qué formato es el **contractual**.** **Si se entrega dibujo editable y documento portátil y no
+entrega y qué formato es el contractual.** **Si se entrega dibujo editable y documento portátil y no
 se dice cuál manda, cualquier discrepancia entre los dos es un conflicto.**
 
 ## 3. Del dibujo al modelo
@@ -159,7 +173,7 @@ mediciones y presupuestos.** **La estructura, de dentro afuera:**
 | **Código** | **El identificador, que permite ordenar y comparar** |
 | **Unidad de medida** | **Metro, metro cuadrado, metro cúbico, kilogramo, unidad, hora** |
 | **Resumen** | **La línea corta que aparece en el listado** |
-| **Descripción** | **El texto que define **qué** incluye la unidad y qué no**: es la parte contractual |
+| **Descripción** | **El texto que define qué incluye la unidad y qué no**: es la parte contractual |
 | **Descomposición** | **Los elementales y auxiliares con sus rendimientos** |
 | **Precio** | **El resultado de la descomposición** |
 
@@ -214,21 +228,21 @@ presupuesto**: **una vez adjudicada la obra, el mismo documento sirve para contr
 
 | Control | Qué compara |
 |---|---|
-| **De certificación** | **Lo **ejecutado** contra lo presupuestado**, mes a mes: es lo que se paga |
-| **De coste** | **Lo **gastado** contra lo previsto**: es lo que interesa al contratista |
-| **De plazo** | **Lo **avanzado** contra la planificación** |
+| **De certificación** | **Lo ejecutado contra lo presupuestado**, mes a mes: es lo que se paga |
+| **De coste** | **Lo gastado contra lo previsto**: es lo que interesa al contratista |
+| **De plazo** | **Lo avanzado contra la planificación** |
 
 **Qué es una certificación, dicho con precisión**: **el documento que recoge la obra ejecutada en un
-periodo, valorada a los precios del contrato**, y **que da derecho al cobro.** **Se hace midiendo **lo
-realmente ejecutado**, no lo previsto**, y **de ahí que la medición se rehaga en cada certificación.**
+periodo, valorada a los precios del contrato**, y **que da derecho al cobro.** **Se hace midiendo lo
+realmente ejecutado, no lo previsto**, y **de ahí que la medición se rehaga en cada certificación.**
 
 **Y los tres conceptos que un ingeniero de dirección de obra tiene que manejar y no confundir:**
 
 | Concepto | Qué es |
 |---|---|
-| **Precio contradictorio** | **El de una unidad **no prevista** en el contrato**, que hay que fijar entre las partes antes de ejecutarla |
+| **Precio contradictorio** | **El de una unidad no prevista en el contrato**, que hay que fijar entre las partes antes de ejecutarla |
 | **Modificación del contrato** | **El cambio del objeto o del alcance**, con su régimen jurídico propio |
-| **Exceso de medición** | **Más cantidad de una unidad que **sí** estaba prevista** |
+| **Exceso de medición** | **Más cantidad de una unidad que sí estaba prevista** |
 
 **Los tres se tratan de forma distinta y confundirlos cuesta caro**: **el exceso de medición no cambia
 el contrato; el precio contradictorio añade una unidad; la modificación cambia el contrato y tiene
@@ -281,7 +295,7 @@ puntos de este anexo sin norma nombrada en su enunciado.**
 
 **Cinco declaraciones expresas:**
 
-1. **El enunciado del anexo nombra dos **productos comerciales** concretos**, uno de dibujo asistido por
+1. **El enunciado del anexo nombra dos productos comerciales concretos**, uno de dibujo asistido por
    ordenador y otro de mediciones y presupuestos. **No se ha consultado la documentación de ninguno de
    los dos**, **no se describe el funcionamiento particular de ninguno** y **no se cita ninguna de sus
    órdenes, menús ni versiones.** **Lo que este tema desarrolla son las dos FUNCIONES que el enunciado

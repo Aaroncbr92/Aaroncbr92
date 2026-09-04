@@ -53,8 +53,8 @@ tomarlos en ese orden porque van de menos a más:
 
 ## 1. La movilidad funcional
 
-**Artículo 39**, apartado 1: se efectúa «de acuerdo a las titulaciones académicas o profesionales precisas para
-ejercer la prestación laboral** y con **respeto a la dignidad del trabajador».
+**Artículo 39**, apartado 1: se efectúa «**de acuerdo a las titulaciones académicas o profesionales
+precisas para ejercer la prestación laboral y con respeto a la dignidad del trabajador**».
 
 Dentro del grupo profesional, la movilidad es libre: no hace falta justificar nada, porque el
 grupo es precisamente el ámbito de las funciones exigibles.
@@ -113,7 +113,7 @@ productividad u organización técnica o del trabajo en la empresa».
 
 Y enumera las materias, con una fórmula que hay que leer con cuidado: «Tendrán la consideración de
 modificaciones sustanciales de las condiciones de trabajo, entre otras, las que afecten a las
-siguientes materias**»:
+siguientes materias»:
 
 - **a)** «**Jornada de trabajo.**»
 - **b)** «**Horario y distribución del tiempo de trabajo.**»
@@ -121,7 +121,7 @@ siguientes materias**»:
 - **d)** «**Sistema de remuneración y cuantía salarial.**»
 - **e)** «**Sistema de trabajo y rendimiento.**»
 - **f)** «**Funciones, cuando excedan de los límites que para la movilidad funcional prevé el
-  artículo 39.»
+  artículo 39.**»
 
 Dos observaciones que deciden respuestas. La primera: la lista es abierta, porque dice «entre
 otras»; puede haber modificaciones sustanciales fuera de ella. La segunda: la letra f) enlaza con

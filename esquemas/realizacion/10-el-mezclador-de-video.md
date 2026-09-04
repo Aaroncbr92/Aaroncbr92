@@ -42,7 +42,7 @@ corrección de entrada, piloto, botón.
 Cadena: **M/E → programa → DSK → fundido a negro**. *La salida limpia se toma antes del DSK.*
 **Bus auxiliar** = salida reasignable, como una matriz: **pantallas de plató, retornos, grabadores**.
 *Con él se manda una corrección de color específica a las pantallas.* En mezcladores de gama alta
-**se puede mezclar y hacer cortinillas en un auxiliar; depende del modelo.*
+**se puede mezclar y hacer cortinillas en un auxiliar; depende del modelo.**
 
 ## Transiciones
 

@@ -1,5 +1,19 @@
 # Tema 6 del específico de Ingeniería Técnica · Industrial · Instalaciones de protección contra incendios
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Técnica Industrial · punto 6 |
+| **Sirve para** | **Ing. Técnica Industrial** |
+| **Fuente** | **Real Decreto 513/2017, de 22 de mayo, de instalaciones de protección contra incendios**, y **Real Decreto 2267/2004, de 3 de diciembre, de seguridad contra incendios en los establecimientos industriales** |
+| **Identificador** | `BOE-A-2017-6606` · BOE núm. 139, de 12/06/2017 · y `BOE-A-2004-21216` |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el artículo 1.1** y **el artículo 19.2** del primero |
+| **La pregunta que ordena el punto** | **¿Cuál se aplica a qué?** **El de 2017 regula los EQUIPOS de protección activa y el de 2004 los ESTABLECIMIENTOS industriales.** No compiten: se necesitan |
+| **Extensión** | **3.280 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Código Técnico de la Edificación (**CTE**), del
 tema 3, y su documento básico de seguridad en caso de incendio (**DB SI**); la conformidad europea
 (**CE**); la Asociación Española de Normalización (**UNE**); el megajulio (**MJ**), la megacaloría
@@ -127,7 +141,7 @@ la parte técnica alcanza a quien fabrica o vende.**
 | **Contrato de mantenimiento** | **Con empresa mantenedora habilitada**, que cubra al menos los equipos y sistemas sujetos al reglamento |
 
 **Y la excepción del segundo requisito, que es la puerta del automantenimiento**: **si el titular se
-habilita como mantenedor, dispone de los medios y la organización necesarios y **asume** su ejecución y su
+habilita como mantenedor, dispone de los medios y la organización necesarios y asume su ejecución y su
 responsabilidad, queda eximido de contratarlo.**
 
 **Es la cuarta vez que este anexo abre la misma puerta con otro nombre**: **empresa automantenedora en
@@ -197,7 +211,7 @@ que ocurre un incendio:**
 | Ampliación | Cuándo |
 |---|---|
 | **Almacenamientos de CUALQUIER tipo de establecimiento** | **Cuando su carga de fuego total sea igual o superior a TRES MILLONES DE MEGAJULIOS** |
-| **Industrias existentes antes de la entrada en vigor** | **Cuando su riesgo intrínseco, su situación o sus características impliquen **riesgo grave** para personas, bienes o entorno, y así lo determine la comunidad autónoma** |
+| **Industrias existentes antes de la entrada en vigor** | **Cuando su riesgo intrínseco, su situación o sus características impliquen riesgo grave para personas, bienes o entorno, y así lo determine la comunidad autónoma** |
 
 **La primera es la que más sorprende y hay que saberla**: **el almacén de un edificio no industrial
 puede caer bajo este reglamento sólo por su carga de fuego.**

@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2018-16673` · BOE núm. 294, de 06/12/2018 · y `DOUE-L-2016-80807` |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **los apartados 1 a 3 del artículo 22** y **los apartados 2 y 3 del artículo 89** de la ley, y **el artículo 32.1** y **el 25.2** del reglamento |
 | **Cero preguntas, y aun así** | **Este punto decide dónde se puede colgar una cámara, dónde no se puede poner un micrófono, cuánto se guarda una grabación y qué hay que meter en el pliego** |
-| **Extensión** | **3.075 palabras** |
+| **Extensión** | **2.968 palabras** |
 
 <!-- /portada -->
 
@@ -22,69 +22,69 @@ y el delegado de protección de datos (**DPD**).
 
 > Enunciado de la convocatoria (Anexo 2, temario específico de Ingeniería Técnica · especialidad
 > Telecomunicación, punto 23):
-> **«Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los**
-> **derechos digitales (BOE núm. 294, de 06 de diciembre de 2018. Texto consolidado. Última**
-> **modificación publicada el 27/05/2021)»**
+> «Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los
+> derechos digitales (BOE núm. 294, de 06 de diciembre de 2018. Texto consolidado. Última
+> modificación publicada el 27/05/2021)»
 
-> **Cero preguntas.** **Este punto del anexo no ha dado ni una en el cuadernillo**, y **el tema se**
-> **cribe igual, contra el programa.****
+**Cero preguntas.** **Este punto del anexo no ha dado ni una en el cuadernillo**, y **el tema se
+escribe igual, contra el programa.**
 
-> **Y aquí no se despacha con un resumen, porque este punto no es papeleo para un ingeniero de**
-> **stalaciones**: **es el que decide dónde se puede colgar una cámara, dónde no se puede poner un**
-> **crófono, cuánto tiempo se guarda una grabación y qué hay que meter en el pliego antes de comprar el**
-> **stema.** **Las cuatro cosas se resuelven con artículos concretos**, y **este tema los cita**
-> **teralmente.****
+**Y aquí no se despacha con un resumen, porque este punto no es papeleo para un ingeniero de
+instalaciones**: **es el que decide dónde se puede colgar una cámara, dónde no se puede poner un
+micrófono, cuánto tiempo se guarda una grabación y qué hay que meter en el pliego antes de comprar el
+sistema.** **Las cuatro cosas se resuelven con artículos concretos**, y **este tema los cita
+literalmente.**
 
-> **-- indice -->**
+<!-- indice -->
 
-> ** Índice**
+## Índice
 
-> **[1. Qué norma es cuál](#1-qué-norma-es-cuál)**
-> **[2. La seguridad del tratamiento: el artículo del ingeniero](#2-la-seguridad-del-tratamiento-el-artículo-del-ingeniero)**
-> **[3. Protección desde el diseño y por defecto](#3-protección-desde-el-diseño-y-por-defecto)**
-> **[4. Videovigilancia: el artículo 22](#4-videovigilancia-el-artículo-22)**
-> **[5. Cámaras y micrófonos en el centro de trabajo: el artículo 89](#5-cámaras-y-micrófonos-en-el-centro-de-trabajo-el-artículo-89)**
-> **[6. Los otros derechos digitales del título X](#6-los-otros-derechos-digitales-del-título-x)**
-> **[7. Las dos setenta y dos horas, que no son la misma](#7-las-dos-setenta-y-dos-horas-que-no-son-la-misma)**
-> **[8. Lo que el examen ha preguntado](#8-lo-que-el-examen-ha-preguntado)**
-> **[9. Trazabilidad](#9-trazabilidad)**
+- [1. Qué norma es cuál](#1-qué-norma-es-cuál)
+- [2. La seguridad del tratamiento: el artículo del ingeniero](#2-la-seguridad-del-tratamiento-el-artículo-del-ingeniero)
+- [3. Protección desde el diseño y por defecto](#3-protección-desde-el-diseño-y-por-defecto)
+- [4. Videovigilancia: el artículo 22](#4-videovigilancia-el-artículo-22)
+- [5. Cámaras y micrófonos en el centro de trabajo: el artículo 89](#5-cámaras-y-micrófonos-en-el-centro-de-trabajo-el-artículo-89)
+- [6. Los otros derechos digitales del título X](#6-los-otros-derechos-digitales-del-título-x)
+- [7. Las dos setenta y dos horas, que no son la misma](#7-las-dos-setenta-y-dos-horas-que-no-son-la-misma)
+- [8. Lo que el examen ha preguntado](#8-lo-que-el-examen-ha-preguntado)
+- [9. Trazabilidad](#9-trazabilidad)
 
-> **-- /indice -->**
+<!-- /indice -->
 
-> ** 1. Qué norma es cuál**
+## 1. Qué norma es cuál
 
-> **El enunciado sólo nombra la ley española, pero la materia se reparte entre dos normas** y **el**
-> **parto hay que tenerlo claro antes de nada:****
+**El enunciado sólo nombra la ley española, pero la materia se reparte entre dos normas** y **el
+reparto hay que tenerlo claro antes de nada:**
 
-> **Norma | Qué es | Qué hace |**
-> **--|---|---|**
-> ****Reglamento (UE) 2016/679** | **Un reglamento europeo**: se aplica directamente, sin trasponer | **Pone los principios, los derechos y las obligaciones generales** |**
-> ****Ley Orgánica 3/2018** | **Una ley orgánica española** | **Adapta el reglamento**, ejerce los márgenes que éste deja y **añade el título X de derechos digitales** |**
+| Norma | Qué es | Qué hace |
+|---|---|---|
+| **Reglamento (UE) 2016/679** | **Un reglamento europeo**: se aplica directamente, sin trasponer | **Pone los principios, los derechos y las obligaciones generales** |
+| **Ley Orgánica 3/2018** | **Una ley orgánica española** | **Adapta el reglamento**, ejerce los márgenes que éste deja y **añade el título X de derechos digitales** |
 
-> **La regla que ordena las dos**: **lo general está en el reglamento europeo y lo español está en la**
-> **y orgánica.** **Cuando una pregunta cita un plazo, un principio o un derecho del interesado, mira**
-> **imero al reglamento**; **cuando cita videovigilancia, trabajo o derechos digitales, mira a la ley**
-> **gánica.****
+**La regla que ordena las dos**: **lo general está en el reglamento europeo y lo español está en la
+ley orgánica.** **Cuando una pregunta cita un plazo, un principio o un derecho del interesado, mira
+primero al reglamento**; **cuando cita videovigilancia, trabajo o derechos digitales, mira a la ley
+orgánica.**
 
-> ** 2. La seguridad del tratamiento: el artículo del ingeniero**
+## 2. La seguridad del tratamiento: el artículo del ingeniero
 
-> **Éste es el artículo que un ingeniero de telecomunicación tiene que saberse**, porque **es el que**
-> **nvierte la protección de datos en requisitos técnicos de un pliego.****
+**Éste es el artículo que un ingeniero de telecomunicación tiene que saberse**, porque **es el que
+convierte la protección de datos en requisitos técnicos de un pliego.**
 
-> **Artículo 32**, apartado 1, del reglamento europeo:**
+**Artículo 32**, apartado 1, del reglamento europeo:
 
-> **«Teniendo en cuenta el estado de la técnica, los costes de aplicación, y la naturaleza, el alcance,**
-> **el contexto y los fines del tratamiento, así como riesgos de probabilidad y gravedad variables para**
-> **los derechos y libertades de las personas físicas, el responsable y el encargado del tratamiento**
-> **aplicarán medidas técnicas y organizativas apropiadas para garantizar un nivel de seguridad adecuado**
-> **al riesgo, que en su caso incluya, entre otros:**
-> **a) la seudonimización y el cifrado de datos personales;**
-> **b) la capacidad de garantizar la confidencialidad, integridad, disponibilidad y resiliencia**
-> **permanentes de los sistemas y servicios de tratamiento;**
-> **c) la capacidad de restaurar la disponibilidad y el acceso a los datos personales de forma rápida en**
-> **caso de incidente físico o técnico;**
-> **d) un proceso de verificación, evaluación y valoración regulares de la eficacia de las medidas**
-> **técnicas y organizativas para garantizar la seguridad del tratamiento.»**
+> «**Teniendo en cuenta el estado de la técnica, los costes de aplicación, y la naturaleza, el alcance,
+> el contexto y los fines del tratamiento, así como riesgos de probabilidad y gravedad variables para
+> los derechos y libertades de las personas físicas, el responsable y el encargado del tratamiento
+> aplicarán medidas técnicas y organizativas apropiadas para garantizar un nivel de seguridad adecuado
+> al riesgo, que en su caso incluya, entre otros:
+> a) la seudonimización y el cifrado de datos personales;
+> b) la capacidad de garantizar la confidencialidad, integridad, disponibilidad y resiliencia
+> permanentes de los sistemas y servicios de tratamiento;
+> c) la capacidad de restaurar la disponibilidad y el acceso a los datos personales de forma rápida en
+> caso de incidente físico o técnico;
+> d) un proceso de verificación, evaluación y valoración regulares de la eficacia de las medidas
+> técnicas y organizativas para garantizar la seguridad del tratamiento.**»
 >
 > — Reglamento (UE) 2016/679, artículo 32.1, redacción vigente el 21 de diciembre de 2022.
 
@@ -110,19 +110,6 @@ seguridad no es fijo, es «adecuado al riesgo».** **La norma no dice qué hay q
 hay que justificar por qué eso basta**, teniendo en cuenta el estado de la técnica y el coste. **De ahí
 que la memoria de un proyecto tenga que razonar las medidas y no sólo enumerarlas.**
 
-<!-- indice -->
-
-## Índice
-
-- [3. Protección desde el diseño y por defecto](#3-protección-desde-el-diseño-y-por-defecto)
-- [4. Videovigilancia: el artículo 22](#4-videovigilancia-el-artículo-22)
-- [5. Cámaras y micrófonos en el centro de trabajo: el artículo 89](#5-cámaras-y-micrófonos-en-el-centro-de-trabajo-el-artículo-89)
-- [6. Los otros derechos digitales del título X](#6-los-otros-derechos-digitales-del-título-x)
-- [7. Las dos setenta y dos horas, que no son la misma](#7-las-dos-setenta-y-dos-horas-que-no-son-la-misma)
-- [8. Lo que el examen ha preguntado](#8-lo-que-el-examen-ha-preguntado)
-- [9. Trazabilidad](#9-trazabilidad)
-
-<!-- /indice -->
 
 ## 3. Protección desde el diseño y por defecto
 
@@ -131,13 +118,13 @@ que la memoria de un proyecto tenga que razonar las medidas y no sólo enumerarl
 
 **Artículo 25**, apartado 2:
 
-> **«El responsable del tratamiento aplicará las medidas técnicas y organizativas apropiadas con miras a**
-> **garantizar que, por defecto, solo sean objeto de tratamiento los datos personales que sean**
-> **necesarios para cada uno de los fines específicos del tratamiento. Esta obligación se aplicará a la**
-> **cantidad de datos personales recogidos, a la extensión de su tratamiento, a su plazo de conservación**
-> **y a su accesibilidad. Tales medidas garantizarán en particular que, por defecto, los datos**
-> **personales no sean accesibles, sin la intervención de la persona, a un número indeterminado de**
-> **personas físicas.»**
+> «**El responsable del tratamiento aplicará las medidas técnicas y organizativas apropiadas con miras a
+> garantizar que, por defecto, solo sean objeto de tratamiento los datos personales que sean
+> necesarios para cada uno de los fines específicos del tratamiento. Esta obligación se aplicará a la
+> cantidad de datos personales recogidos, a la extensión de su tratamiento, a su plazo de conservación
+> y a su accesibilidad. Tales medidas garantizarán en particular que, por defecto, los datos
+> personales no sean accesibles, sin la intervención de la persona, a un número indeterminado de
+> personas físicas.**»
 >
 > — Reglamento (UE) 2016/679, artículo 25.2, redacción vigente el 21 de diciembre de 2022.
 
@@ -162,20 +149,20 @@ hasta dónde y cuánto tiempo.**
 
 **Artículo 22**, apartados 1 a 3:
 
-> **«1. Las personas físicas o jurídicas, públicas o privadas, podrán llevar a cabo el tratamiento de**
-> **imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de**
-> **las personas y bienes, así como de sus instalaciones.**
-> **2. Solo podrán captarse imágenes de la vía pública en la medida en que resulte imprescindible para la**
-> **finalidad mencionada en el apartado anterior.**
-> **No obstante, será posible la captación de la vía pública en una extensión superior cuando fuese**
-> **necesario para garantizar la seguridad de bienes o instalaciones estratégicos o de infraestructuras**
-> **vinculadas al transporte, sin que en ningún caso pueda suponer la captación de imágenes del interior**
-> **de un domicilio privado.**
-> **3. Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran**
-> **de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas,**
-> **bienes o instalaciones. En tal caso, las imágenes deberán ser puestas a disposición de la autoridad**
-> **competente en un plazo máximo de setenta y dos horas desde que se tuviera conocimiento de la**
-> **existencia de la grabación.»**
+> «**1. Las personas físicas o jurídicas, públicas o privadas, podrán llevar a cabo el tratamiento de
+> imágenes a través de sistemas de cámaras o videocámaras con la finalidad de preservar la seguridad de
+> las personas y bienes, así como de sus instalaciones.
+> 2. Solo podrán captarse imágenes de la vía pública en la medida en que resulte imprescindible para la
+> finalidad mencionada en el apartado anterior.
+> No obstante, será posible la captación de la vía pública en una extensión superior cuando fuese
+> necesario para garantizar la seguridad de bienes o instalaciones estratégicos o de infraestructuras
+> vinculadas al transporte, sin que en ningún caso pueda suponer la captación de imágenes del interior
+> de un domicilio privado.
+> 3. Los datos serán suprimidos en el plazo máximo de un mes desde su captación, salvo cuando hubieran
+> de ser conservados para acreditar la comisión de actos que atenten contra la integridad de personas,
+> bienes o instalaciones. En tal caso, las imágenes deberán ser puestas a disposición de la autoridad
+> competente en un plazo máximo de setenta y dos horas desde que se tuviera conocimiento de la
+> existencia de la grabación.**»
 >
 > — Ley Orgánica 3/2018, artículo 22, apartados 1 a 3 (`BOE-A-2018-16673`), redacción vigente el 21 de
 > diciembre de 2022.
@@ -209,14 +196,14 @@ artículo 22, sino por el 89**, y **el propio artículo 22 lo remite así en su 
 
 **Artículo 89**, apartados 2 y 3:
 
-> **«2. En ningún caso se admitirá la instalación de sistemas de grabación de sonidos ni de**
-> **videovigilancia en lugares destinados al descanso o esparcimiento de los trabajadores o los empleados**
-> **públicos, tales como vestuarios, aseos, comedores y análogos.**
-> **3. La utilización de sistemas similares a los referidos en los apartados anteriores para la grabación**
-> **de sonidos en el lugar de trabajo se admitirá únicamente cuando resulten relevantes los riesgos para**
-> **la seguridad de las instalaciones, bienes y personas derivados de la actividad que se desarrolle en**
-> **el centro de trabajo y siempre respetando el principio de proporcionalidad, el de intervención mínima**
-> **y las garantías previstas en los apartados anteriores.»**
+> «**2. En ningún caso se admitirá la instalación de sistemas de grabación de sonidos ni de
+> videovigilancia en lugares destinados al descanso o esparcimiento de los trabajadores o los empleados
+> públicos, tales como vestuarios, aseos, comedores y análogos.
+> 3. La utilización de sistemas similares a los referidos en los apartados anteriores para la grabación
+> de sonidos en el lugar de trabajo se admitirá únicamente cuando resulten relevantes los riesgos para
+> la seguridad de las instalaciones, bienes y personas derivados de la actividad que se desarrolle en
+> el centro de trabajo y siempre respetando el principio de proporcionalidad, el de intervención mínima
+> y las garantías previstas en los apartados anteriores.**»
 >
 > — Ley Orgánica 3/2018, artículo 89, apartados 2 y 3 (`BOE-A-2018-16673`), redacción vigente el 21 de
 > diciembre de 2022.
