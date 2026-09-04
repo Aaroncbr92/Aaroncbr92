@@ -1,0 +1,551 @@
+Gobierno de España, Ministerio de Trabajo y Economía Social e Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O. A., M. P. con la colaboración del Instituto de Salud Carlos tercero.
+Con la colaboración de:
+DIRECTRICES PARA LA DECISIÓN CLÍNICA
+EN ENFERMEDADES PROFESIONALES
+	
+
+2
+TRASTORNOS MUSCULOESQUELÉTICOS DE 
+ORIGEN PROFESIONAL DEL MIEMBRO 
+SUPERIOR
+PARÁLISIS DEL NERVIO RADIAL POR 
+COMPRESIÓN DEL MISMO
+DEFINICIÓN
+El nervio radial se origina a nivel cervical de las raíces C5-C6-C7 y T1 (fascículo posterior del plexo 
+braquial). Desde la axila pasa a la cara posterior del brazo siguiendo el canal de torsión, para ubicar-
+se en la cara anterior del tercio distal humeral y, a nivel de la articulación del codo (de forma varia-
+ble), dividirse en sus dos ramas terminales: 
+• Una rama sensitiva anterior (también conocido como nervio radial superficial).
+• Una rama motora profunda o nervio interóseo posterior que rodea el cuello del radio entrando 
+en el denominado “túnel radial” cuyo límite distal ha sido clásicamente descrito como el arco 
+fibroso del borde proximal del supinador (también referida como la arcada de Fröhse) para divi-
+dirse en sus ramas distales.
+Desde el punto de vista motor, el nervio radial es, en general, el responsable de inervar la muscula-
+tura encargada de:
+• Extensión del codo.
+• Supinación del antebrazo.
+• Extensión de mano y dedos, abducción del 1er dedo.
+• También contribuye a la flexión del codo gracias al braquiorradial.
+Desde el punto de vista sensitivo, es el responsable de la sensibilidad de la cara posterior y late-
+ral de brazo y antebrazo, dorso de la mano y de los tres primeros dedos, generalmente, hasta las 
+falanges distales que se inervan por el mediano. La inervación del 3º y 4º dedo en su cara dorsal la 
+comparte con el nervio cubital existiendo importante variabilidad en su distribución (figura 1).
+Como regla general, el diagnóstico de sospecha de patología compresiva nerviosa exige una ex-
+haustiva historia clínica para demostrar la presencia de lesión y determinar la causa desencadenan-
+te. En este sentido, es básica la exploración neurológica completa (no solo del nervio afectado) así 
+como recabar información sobre la presencia de enfermedades concomitantes y sobre actividades 
+físicas/laborales de la persona afectada.
+
+3
+A continuación, se exponen las diferentes formas clínicas de presentación de la compresión del ner-
+vio radial según la localización anatómica en que se produzcan. 
+FORMAS CLÍNICAS
+1.- PARÁLISIS RADIAL POR COMPRESIÓN EN LA AXILA
+• Etiología
+ La compresión “pura” del nervio radial a este nivel es infrecuente. Cuando aparece suele acom-
+pañarse de lesión de varios troncos nerviosos (cubital, mediano…). 
+ Se han descrito parálisis radiales producidas por herramientas que comprimen la axila (fundido-
+res, estampadores de metal…). Su presentación en el ámbito laboral, hoy día, es poco frecuen-
+te. La compresión era más común cuando se empleaban muletas axilares. 
+• Clínica
+ Cursa con una mano caída “péndula” y, en la forma crónica, hay atrofia de los compartimentos 
+posteriores del brazo y antebrazo.
+ El déficit sensitivo corresponde a la cara posterior del brazo, antebrazo, dorso de la mano y tres 
+o cuatro primeros dedos.
+ Se pierde completamente la extensión del brazo y muñeca, la supinación del antebrazo, la ex-
+tensión de las cinco metacarpo-falángicas y la extensión y abducción del pulgar. Hay debilidad 
+parcial de flexión de brazo (braquiorradial y braquial). Puede aparentar debilidad de la abduc-
+ción y flexión de los dedos. Se pierden los reflejos tricipital y estilorradial.
+2.- PARÁLISIS DEL NERVIO RADIAL EN EL BRAZO
+• Etiología
+ La etiología más frecuente suele ser la compresiva. Puede ocurrir en situaciones que combinan 
+mala posición y bajo nivel de conciencia, como la cirugía, la intoxicación etílica o el “sueño 
+abrazado de los amantes”. También puede producirse de forma diferida tras ejercicio repetitivo 
+y excesivo o por bandas fibrosas en el tríceps.  Otra causa frecuente es la fractura humeral (acci-
+dente laboral o no laboral, pero no enfermedad profesional).
+• Clínica 
+ Es similar a las lesiones más proximales, excepto porque se preserva la sensibilidad de la su-
+perficie posterior del brazo por la salida más proximal del nervio cutáneo posterior del brazo. 
+También se mantiene la función del tríceps por recibir inervación antes de entrar el nervio en el 
+canal. El reflejo tricipital está conservado. Por tanto, el déficit motor provoca:
+–   Debilidad del braquiorradial: se pone de manifiesto al explorar la flexión del codo con el 
+antebrazo en pronación bloqueada.
+–   Dificultad para la extensión de la muñeca, estando la mano péndula. Tampoco se pueden  
+extender los dedos salvo las falanges distales.
+
+4
+–  Debilidad para la extensión y abducción del primer dedo, y desviaciones radial y cubital de  
+la mano.
+• Diagnóstico
+ Se basa en los hallazgos clínicos. El estudio neurofisiológico a partir de la 3ª semana de la lesión 
+confirmará el diagnóstico clínico y los diferentes grados de afectación y nos servirá para el se-
+guimiento del proceso. Estudios de imagen (radiografía simple y, si se precisa, resonancia mag-
+nética) cuando se sospeche una patología compresiva “interna” o por variantes anatómicas.
+3.-  SÍNDROME DE COMPRESIÓN DEL NERVIO RADIAL EN EL CODO: SÍNDROME DEL TÚNEL 
+RADIAL. SÍNDROME DEL NERVIO INTERÓSEO POSTERIOR
+• Etiología
+ El “Síndrome del túnel radial” se trata de la compresión más frecuente del nervio radial (in-
+cluido el lugar más común de neuropatía compresiva radial en el mundo laboral). El área de 
+compresión comienza después de la salida de las ramas motoras del supinador largo o braquio-
+rradial (2-3 cm proximal al epicóndilo) y termina cuando el nervio radial alcanza el supinador. Las 
+causas de compresión pueden ser: bandas fibrosas delante de la articulación humero-radial, va-
+sos recurrentes, borde fibroso del extensor radial corto del carpo (extensor carpiradialisbrevis–
+ECRB), Arcada de Frohse (más frecuente), bandas fibrosas entre cabezas superficial y profunda 
+del supinador. 
+ Se asocia a trabajos específicos de manejo de herramientas con el codo en extensión.
+ Cuando la compresión afecta solo a la rama profunda del nervio radial se denomina “Síndrome 
+del nervio interóseo posterior”.
+ (El término “Síndrome de la Arcada de Frohse” o “Síndorme de la celda del Supinador” englo-
+ba ambas presentaciones clínicas).
+• Clínica 
+–  El “Síndrome del túnel radial” se caracteriza por dolor en músculos epicondíleos latera l e s , 
+en zona proximal del antebrazo (irradiado a brazo y resto de antebrazo). En ocasiones se le 
+ha denominado “codo de tenista resistente” pues, a diferencia del “codo de tenista” (epi-
+condilitis), hay dolor sin debilidad muscular significativa. 
+–  En el caso del “Síndrome del nervio interóseo posterior” no existen alteraciones sensitivas 
+pues se afecta la rama profunda, motora (nervio interóseo posterior), dando lugar a parálisis 
+o debilidad muscular no dolorosa:  se produce debilidad en los extensores de los dedos, 
+con imposibilidad para extensión de metacarpo-falángica, siendo posible la extensión de los 
+dedos por la musculatura intrínseca de la mano. La extensión de la muñeca puede realizarse 
+si persiste la función del extensor radial largo del carpo (extensor carpiradialislongus–ECRL) 
+pues este músculo recibe su inervación antes de que el nervio pase por la arcada de Froshe. 
+Además, hay debilidad para la extensión y abducción del primer dedo.
+–  En la lesión de la rama superficial del nervio radial (sensitiva) se pueden encontrar pareste-
+sias en la zona de inervación. Los síntomas son puramente sensitivos en el territorio cutáneo 
+
+5
+del nervio radial. Se produce por compresiones prolongadas o repetidas de la zona radial 
+del antebrazo o la muñeca (parálisis de los esposados).
+• Diagnóstico
+ Se basa en los hallazgos clínicos, pudiendo reproducir los síntomas al realizar las siguientes ma-
+niobras:
+– Flexionar el codo con antebrazo en supinación y muñeca en neutro.
+– Pronar pasivamente el antebrazo con el codo en flexión de 450-900 y muñeca en flexión.
+– Supinar contra resistencia con el antebrazo en pronación.
+ El estudio neurofisiológico es generalmente normal, solo es útil cuando se realiza supinación 
+contra resistencia (dinámico). Estudios de imagen (radiografía simple y, si se precisa, resonancia 
+magnética) para valorar causas compresivas óseas o musculotendinosas.
+• Diagnóstico Diferencial
+–  Epicondilitis: Principal diagnóstico diferencial, a veces ocurren de manera simultánea.  
+El  punto de mayor dolor está más cerca del epicóndilo (justo la inserción del ECRB) en la  
+epicondilitis lateral y más distal a la presión de los vientres musculares en el síndrome del  
+interóseo posterior.
+– Roturas tendinosas por artritis reumatoide: Imposibilidad de función del o los tendones 
+afectos. Inflamación, dolor y ausencia de tendón en la zona de rotura (mano muñeca dorsal). 
+Una ecografía o resonancia magnética confirmaría el diagnóstico.
+– Síndrome de Parsonage-Turner: Plexitis braquial de causa desconocida, con afectación de 
+territorios desde el hombro asociado ocasionalmente a trastornos inmunes. Las alteraciones 
+neurológicas no se ciñen solo al territorio radial.
+4.- “SÍNDROME DE WARTENBERG”: COMPRESIÓN DEL NERVIO RADIAL EN LA MUÑECA
+• Etiología
+ Conocida como “Queiralgia parestésica”, es la compresión de la rama sensitiva del nervio radial 
+en el antebrazo a su salida por la cara inferior del músculo braquiorradial cuando pasa al plano 
+subcutáneo.
+ Se debe, sobre todo, al uso de brazaletes, relojes ajustados o por tracción, aunque se ha rela-
+cionado con hemorragia, tumores del nervio radial y trombosis de vasos radiales.
+• Clínica 
+ Dolor de características neuropáticas en superficie distal radial del antebrazo. En ocasiones, 
+parestesias en el borde dorso-radial de la mano y en la porción radial dorsal de 1º y 2º dedos 
+(ocasionalmente 3º y mitad de 4º).
+
+6
+En la exploración existe Tinel + (vídeo 1) en recorrido de la rama sen-
+sitiva y, con frecuencia, en la estiloides radial. El signo de Finkelstein, 
+característico de la tendinitis de De 
+Quervain, puede parecer positivo en 
+algunos casos (desviación cubital de 
+la muñeca manteniendo primer dedo 
+en flexión completa) por producirse, 
+además del estiramiento de los ten-
+dones de la primera corredera, el es-
+tiramiento de la rama nerviosa. Los 
+síntomas pueden reproducirse exte-
+diendo el codo, con el antebrazo en 
+pronación contra resistencia y desvia-
+ción cubital de la muñeca.
+• Diagnóstico
+ El empleo del estudio neurofisiológico no es útil para el diagnóstico que es fundamentalmente 
+clínico. Pueden realizarse bloqueos anestésicos que producen mejoría del cuadro. Se requeri-
+rán pruebas de imagen (radiología simple, ecografía, RM si se sospecha compresión por causas 
+extrínsecas).
+• Diagnóstico Diferencial
+a. Tendinitis de De Quervain: Es el principal diagnóstico diferencial. El dolor se produce en la 
+misma zona, pero las características son distintas: dolor mecánico con el estiramiento de los 
+tendones de primera corredera (Finkelstein) ceñido a la corredera, frente a un dolor de carac-
+terísticas neuropáticas de la zona inervada (más amplia). Una ecografía puede generalmente 
+confirmar la tenosinovitis si la exploración no es suficiente.
+b. Rizartrosis: Dolor de tipo mecánico localizado en la articulación trapeciometacarpiana. Suele 
+haber inflamación y posible deformidad y hallazgos compatibles en radiología simple.
+5.- LESIÓN DE LA RAMA DIGITAL DEL NERVIO RADIAL
+• Etiología
+ Se producen por traumatismos repetitivos como en determinadas actividades laborales, siendo 
+más frecuente la cara dorso-radial del pulgar (como, por ejemplo, por el uso de tijeras o el uso 
+de instrumentos musicales).
+• Clínica 
+ Clínicamente se manifiesta por dolor y parestesias en el territorio correspondiente. El más fre-
+cuente, como se ha reseñado con anterioridad, es en la cara radial de falange proximal del 1er dedo.
+• Diagnóstico Diferencial
+ Se ha de realizar con patología articular local mediante exploración, anamnesis y radiografía 
+simple si procede.
+Vídeo 1: Signo de Tinel
+https://www.youtube.com/
+watch?v=fqrUTC0ZUJc
+Vídeo 2: Test de Finkelstein
+https://www.youtube.com/
+watch?v=CQIW1Pt3XVM
+
+7
+VULNERABILIDAD
+Son factores predisponentes para sufrir lesiones por compresión del nervio radial: antecedentes de 
+fracturas, luxaciones, gangliones, lesiones ocupantes de espacio (tumores). También existe mayor 
+vulnerabilidad en personas diabéticas. En función del nivel de afectación:
+• Compresión del nervio radial en la axila: uso de muletas de apoyo axilar; uso de herramientas 
+que comprimen la axila (fundidores y estampadores de metal).
+• Compresión del nervio radial en el brazo: compresión extrínseca (uso de brazaletes ajustados), 
+lesiones del codo, síndrome de Volkman, neoplasias, hipertrofia de bolsas sinoviales, aneuris-
+mas, fracturas de tercio medio del húmero, apoyo mantenido durante el sueño que comprime 
+el canal tricipital.
+• Compresión del nervio radial a nivel del codo: traumatismos, movimientos repetitivos de prono-
+supinación de antebrazo y muñeca (tenis, conductores, violinistas).
+• Compresión del nervio radial a nivel de la muñeca: traumatismos de muñeca previos (fractura de 
+Colles), uso de pulseras, relojes, muñequeras o guantes ajustados, movimientos repetitivos con 
+el uso de herramientas como destornilladores, martillos,…
+• Compresión del nervio radial a nivel de los dedos: apoyos repetidos sobre superficies duras o 
+aristas (presión de las tijeras en uso continuado, conducción de vehículos).
+Hay riesgo de sufrir lesiones por compresión del nervio radial en personas con ocupaciones que re-
+quieren tareas manuales repetitivas: violinistas, directores de orquesta, trabajos manuales en lo que 
+se realizan movimientos repetidos de atornillar y desatornillar, tenistas… El síndrome de la arcada 
+de Frohse se ha descrito también en camareros, fabricadores de corsés, lecheros e incluso en nada-
+dores y en trabajos con exposición repetida a frío intenso.
+ACTIVIDADES DE RIESGO MÁS FRECUENTES IDENTIFICADAS EN LA PRÁCTICA CLÍNICA
+Las neuropatías por compresión o por atrapamiento, que se pueden unificar bajo el término de 
+“neuropatías por presión”, se encuadran dentro del conjunto heterogéneo de riesgos laborales que 
+se engloban en términos genéricos como “sobresfuerzo laboral”, “trauma acumulativo” o “lesiones 
+por esfuerzos repetidos” (repetitive strain injuries). Por tanto, las lesiones nerviosas por presión ge-
+neralmente comparten riesgos con lesiones musculares, articulares, tendinosas y vasculares en las 
+mismas regiones anatómicas.
+CONDICIONES DE RIESGO: 
+La condición de riesgo viene determinada por los siguientes factores: repetitividad, postura, fuerza, 
+recuperación (descansos), duración, presión mecánica y características de las herramientas.
+• Trabajos en los que se produzca un apoyo prolongado y repetido de forma directa o indirecta 
+sobre las correderas anatómicas que provocan lesiones nerviosas por compresión. 
+
+8
+• Movimientos extremos de hiperflexión y de hiperextensión del codo, de la muñeca y de prono-
+supinación del antebrazo. 
+• Trabajos que requieran contracción repetida del músculo supinador largo.
+ACTIVIDADES DE RIESGO: 
+Dado el carácter abierto, en lo que a la actividad se refiere, del Real Decreto 1299/2006, estarían 
+incluidas todas aquellas actividades profesionales en las que quedara acreditada la exposición su-
+ficiente al riesgo y no se documentara ningún factor extralaboral que hubiera actuado con entidad 
+suficiente para constituir la causa principal.
+En cuanto a los límites de exposición, no están específicamente definidos para la afectación de ner-
+vio radial. De forma genérica se define para las neuropatías por compresión un tiempo mínimo de 
+exposición de varios meses. 
+AGENTES Y ACTIVIDADES DE RIESGO LISTADAS EN EL RD 1299/2006
+El RD 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades pro-
+fesionales en el Sistema de Seguridad Social, recoge en el grupo 2 del anexo I. las enfermedades 
+profesionales causadas por agentes físicos.
+La parálisis del nervio Radial por compresión del mismo se recoge con el código 2F0601.
+AGENTES, SUBAGENTES Y ACTIVIDADES PROFESIONALES CON RIESGOS PARA LA PA-
+RÁLISIS DEL NERVIO RADIAL POR COMPRESIÓN DEL MISMO INCLUIDAS EN EL ANEXO I, 
+GRUPO 2, DEL RD 1299/2006 DE 10DE NOVIEMBRE
+AGENTE
+Enfermedades provocadas por posturas forzadas y movimientos repe-
+titivos en el trabajo; : parálisis de los nervios debido a la presión.
+SUBAGENTE
+Parálisis del nervio radial por compresión del mismo.
+ACTIVIDADES 
+DE RIESGO
+Todas aquellas actividades en las que se produzca exposición sufi-
+ciente y acreditada a posturas forzadas y movimientos repetitivos, y 
+especialmente:
+2F0601:
+“Trabajos en los que se produzca un apoyo prolongado y 
+repetido de forma directa o indirecta sobre las correderas 
+anatómicas que provocan lesiones nerviosas por compre-
+sión. Movimientos extremos de hiperflexión y de hiperex-
+tensión. Trabajos que entrañen contracción repetida del 
+músculo supinador largo, como conductores de automóvi-
+les, presión crónica por uso de tijera”. 
+
+9
+REPERCUSIÓN 
+INCAPACIDAD LABORAL
+INCAPACIDAD TEMPORAL:
+Indicada hasta la remisión del dolor, recuperación funcional y exploración negativa.
+En los casos en que se decide tratamiento quirúrgico, el grado de afectación del nervio suele ser 
+moderado o grave precisando un tiempo de recuperación mayor hasta la reincorporación laboral.
+Se define como Tiempo Estándar (TE) de Incapacidad Temporal el “tiempo medio óptimo que se 
+requiere para la resolución de un proceso clínico que ha originado una incapacidad para el trabajo 
+habitual, utilizando las técnicas de diagnóstico y tratamiento normalizadas y aceptadas por la comu-
+nidad médica y asumiendo el mínimo de demora en la asistencia sanitaria de la persona afectada”.
+Se define como Tiempo Óptimo de Incapacidad Temporal “el tiempo estándar de IT ajustado por 
+edad y ocupación”.
+Se recogen a continuación los días estimados (Tiempo Estándar) de Incapacidad temporal por pro-
+ceso de acuerdo con el Manual de Tiempos Óptimos de Incapacidad Temporal del Instituto Nacio-
+nal de la Seguridad Social:
+Lesión de nervio radial, extremidad superior no especificada (CIE-10 G56.3): 90 días.
+• Compresión a nivel del brazo:
+– Entre 180 y 270 días en casos moderados  
+– 365 días en casos graves. 
+ En caso de duda sobre persistencia prolongada de sintomatología a pesar de tratamientos, la 
+ausencia de alteración en el EMNG o la mejora significativa entre el previo y el posterior a una 
+intervención terapéutica junto a la recuperación del trofismo muscular es criterio de alta laboral.
+• Síndrome del nervio interóseo posterior:
+– Sin parálisis muscular distal: en estos casos la liberación quirúrgica suele producir alivio sin-
+tomático del dolor a corto plazo, la prolongación del tiempo de incapacidad temporal se 
+deriva del retraso diagnóstico ya que muchos de estos pacientes son tratados durante un 
+tiempo como si se tratara de una epicondilitis.
+– Con parálisis muscular distal: la reinervación puede requerir hasta seis meses (180 días).
+INCAPACIDAD PERMANENTE:
+Valorar la Incapacidad permanente en casos de afectación severa que tras la intervención quirúrgica 
+no mejoran, presentan complicaciones del tratamiento quirúrgico o síndrome de dolor loco-regional 
+complejo cronificado (algoneurodistrofia).
+
+10
+Afectación del nervio radial en brazo: Confirmación de ausencia de recuperación en parámetros 
+de conducción nerviosa.
+Por tratarse de contingencia profesional la afectación principalmente es de la extremidad rectora 
+(síndrome del nervio interóseo posterior) y, por lo tanto, en los casos severos con parálisis muscular
+limitaría para actividades que requieran funcionalidad intacta de la mano dominante. Hay que tener 
+en cuenta que, salvo casos de afectación global de la mano por algoneurodistrofia, la lesión del 
+nervio interóseo posterior afecta a la función extensora de los dedos sin afectación sensitiva y, por lo 
+tanto, susceptible de compensación funcional.
+ENFERMEDAD PROFESIONAL
+Calificación de la parálisis del nervio radial por compresión como enfermedad profesional:
+Enfermedades provocadas por posturas forzadas y movimientos repetitivos en el trabajo: parálisis 
+de los nervios debido a la presión:
+Parálisis del nervio radial por compresión del mismo.  
+2F0601 “Trabajos en los que se produzca un apoyo prolongado y repetido de forma directa o 
+indirecta sobre las correderas anatómicas que provocan lesiones nerviosas por com-
+presión. Movimientos extremos de hiperflexión y de hiperextensión. Trabajos que en-
+trañen contracción repetida del músculo supinador largo, como conductores de auto-
+móviles o presión crónica por uso de tijeras”.
+Y además:
+• Confirmación de la enfermedad mediante exploración clínica y estudio electroneurográfico.
+• Exposición mínima de varios meses, periodo de latencia de un mes1.
+• Correspondencia del cuadro clínico con la exposición, analizada mediante métodos de evalua-
+ción ergonómica, biomecánica, en los que se refiere a la realización de movimientos extremos 
+de hiperflexión y de hiperextensión de mano-muñeca, postura de trabajo y manejo de herra-
+mientas.
+• Mejoría o desaparición de los síntomas con el descanso o cambio a tareas de requerimientos 
+ergonómicos diferentes. Reaparición o agravamiento tras reemprender el trabajo.
+• Ausencia de patología en la zona de causa no laboral.
+1  Avisos informativos sobre enfermedades profesionales: una guía para el diagnóstico, Oficina de Publicaciones Oficiales de las 
+  Comunidades Europes, 2009.
+
+11
+ALGORITMO DE DECISIÓN
+Historia clínica y 
+antecedentes 
+personales
+Anamnesis y 
+exploración física
+Exploración
+	•  Estudio neurofisiológico.
+	•  Valorar pruebas de imagen (ecografía, RM).
+Historia laboral
+Diagnóstico de parálisis del nervio radial 
+por compresión del mismo
+- 	 Declarar la Enferemedad Profesional 	
+	 a la Entidad Gestora o Mutua 
+		 (sistema CEPROSS)
+- 	 Adoptar medidas preventivas en las 		
+	 empresa (ergonómicas, organizativas)
+Paciente con dolor e impotencia 
+funcional en musculatura extensora y 
+supinadora del antebrazo.
+Dolor y parestesias del dorso de los 
+primeros dedos y del antebrazo.
+	•  	Traumatismos, luxaciones.
+	•	 Gangliones, tumores.
+	•	 Episodios previos de la enfermedad.
+	•	 Patología concomitante (diabetes, hipotiroidismo, 	
+	
+artritis reumatoide…).
+•  Déficit en función extensora de mano y dedos.
+•  Mano péndula.
+•  Sospecha de atrapamiento en tínel radial (el más 	
+     frecuente), provocación de síntomas al:.
+– Flexionar el codo con antebrazo en supinación 	
+	 y muneca en neutro.
+–	Pronar pasivamente el antebrazo con el codo 	
+	 en flexión de 45º/ 90º  y muñeca en flexión.
+–	Supinar contra resistencia con el antebrazo
+    en pronación.
+	 •  Dolor y debilidad variable en la muscula-	
+	
+tura extensora y supinadora del antebrazo.
+	 •	 Irradiación del dolor hacia regióndorsal 	
+	
+de la mano acompañada de parestesias y 	
+	
+disestesias en vara lateral y posterior de 
+	 	
+brazo-antebrazo-mano y primeros dedos.
+	 •	 Suele empeorar con la actividad física.
+	 •  Uso de herramientas que comprimen la 	
+	
+axila.
+	 •	 Movimientos repetiticvos pronosupinación
+	 	
+de antebrazo y muñeca.
+	 •	 Movimientos repetiticvos con el uso de 	
+	
+herramientas como destornilladores , 
+	 	
+martillos,…
+	 •	 Mejoría o desaparición de los síntomas con 	
+	
+el descxanso o cambio a tareas de 
+	 	
+requerimientos ergonómicos diferentes.
+ENFERMEDAD 
+PROFESIONAL:
+2F0601
+¿Sospecha clínica de 
+atrapamiento del 
+nervio radial?
+Se confirma 
+exposición laboral
+Estudiar otros
+diagnósticos
+SÍ
+SÍ
+NO
+Patología de
+Contingencia Común
+NO
+
+12
+BIBLIOGRAFÍA
+• 
+1. Hemmi S, Kurokawa K, Nagai T, Okamoto T, Asano A, Murakami T, Mihara M, Sunada Y. Ana-
+tomical variations of the superficial branch of the radial nerve and the dorsal branch of the 
+ulnar nerve: A detailed electrophysiological study. Muscle Nerve. 2021 Mar 8. doi: 10.1002/
+mus.27221. Epub ahead of print. PMID: 33683748.
+• 
+Morrey B.F., Sánchez-Sotelo J. (2011) The Elbow and its disorders. Fourth edition, Saunders. 
+Chapter 80.
+• 
+Lotem M Fried A. Radial palsy following muscular effort. A nerve compression syndrome pos-
+sibly related to a fibrous arch of the lateral head of the triceps. J BoneJoinSurg (Br) 1971; 53-B; 
+500-6.
+• 
+Neuropatía compresiva del nervio interóseo posterior a nivel del codo (síndrome de la arcada 
+de Frohse) ¿debe incluirse en el listado de enfermedades profesionales?Med Segur Trab (Inter-
+net) 2010; XX (220): 248-256. ISSN 1989-7790.
+• 
+SECOT. Manual de cirugía ortopédica y traumatología/Manual of Orthopedic and Traumatolo-
+gySurgery. Ed. Médica Panamericana, 2010.
+• 
+Regal-Ramos RJ.Neuropatí¬a compresiva del nervio interóseo posterior a nivel del codo (sín-
+drome de la arcada de Frohse): ¿debe incluirse en el listado de enfermedades profesionales?-
+Med. segur. trab.[online]. 2010, vol.56, n.220, pp.248-256.
+• 
+Serrano, PJ Delgado. “Neuropatías compresivas del nervio radial II: Parálisis del interóseo pos-
+terior Síndrome del túnel radial.” Patología de Neuropatías Compresivas y de Atrapamiento. 
+Recuperado RetrievedonMarch 16 (2018).
+• 
+Bertone VH et al. “Consideraciones anátomo-clínicas sobre el nervio radial en el codo.” Inter-
+national Journal of Morphology 26.2 (2008): 437-444.
+• 
+Dumbraveanu A et al. “Parálisis del sábado noche.” Revista Clínica de Medicina de Familia 6.2 
+(2013): 105-108.
+• 
+Zermeño RJJ, Clifton CJF, Navarro BE, et al. Neuropatía compresiva del nervio radial. Ortho-tips. 
+2014;10(1):19-25.
+• 
+Wartenberg R. “Cheiralgiaparaesthetica. (Neuritis aislada del ramusnerviradialis superficial.)”. 
+Revista para toda la neurología y psiquiatría 141.1 (1932): 145-155.
+• 
+Vij, Neeraj, et al. “Etiology Diagnosis and Management of Radial Nerve Entrapment.” Anesthe-
+siology and Pain Medicine 11.1 (2021).
+• 
+ManchenoG, Martinez M, Tejera B, Olivé A. Síndrome de Wartenberg. Seminarios de la Funda-
+ción Española de Reumatología. SeminFundEspReumatol. 2011;12(4):128–130. Elsevier España 
+2011.
+• 
+Paulsen, Friedrich, and Jens Waschke. Sobotta Atlas of Human Anatomy, Vol. 3, English: Head, 
+Neck and Neuroanatomy. Urban& Fischer Verlag/ElsevierGmbH, 2013.Guillén C, Ortega M. 
+
+13
+(2008) ¿Es enfermedad profesional? Criterios para su clasificación. Pych& Asociados, S.L.Cap. 6: 
+437.
+• 
+Protocolos de vigilancia sanitaria específica: Neuropatías por presión. Comisión de Salud Públi-
+ca. Consejo Interterritorial del Sistema Nacional de Salud. Ministerio de Sanidad, y Consumo. 
+ISBN: 84-7670-550-6.  NIPO: 351-00-020-X.
+• 
+Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de 
+la Ley General de la Seguridad Social. BOE-A-2015-11724.
+• 
+Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermeda-
+des profesionales en el sistema de la Seguridad Social y se establecen criterios para su notifica-
+ción y registro. BOE-A-2006-22169.
+• 
+INSS. Guía de Ayuda para la Valoración de las Enfermedades Profesionales (cuarta edición). 
+Instituto Nacional de la Seguridad Social, NIPO: 122-21-003-5.
+• 
+INSS. Manual de Tiempos óptimos de Incapacidad Temporal. Instituto Nacional de la Seguri-
+dad Social. 4ª edición. Madrid. 2018. NIPO: 271-17-089-X.
+
+14
+MEDIOS AUDIOVISUALES
+Vídeo 1: HGUCRresisCOT. Signo de Tinel  [video en internet]. Youtube. [citado 19 de junio de 2022]. 
+Recuperado a partir de https://www.youtube.com/watch?v=fqrUTC0ZUJc.
+Vídeo 2: HGUCRresisCOT. Test de Finkelstein [video en internet]. Youtube. [citado 19 de junio de 
+2022]. Recuperado a partir de https://www.youtube.com/watch?v=CQIW1Pt3XVM.
+
+15
+TÍTULO
+Directrices para la decisión clínica en enfermedades profesionales. Trastornos musculoesquelé-
+ticos de origen profesional del Miembro Superior: Parálisis del nervio radial por compresión del 
+mismo.
+AUTOR
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P.
+ELABORADO POR
+Sociedad Española de Traumatología Laboral
+Dr. José R. García López. Médico Especialista en Cirugía Ortopédica y Traumatología (C.O.T.). Jefe 
+de Equipo. Hospital Asepeyo Coslada (Madrid).
+REVISIÓN
+Instituto Nacional de la Seguridad Social (INSS)
+Dr. Carlos Matarrubia Prieto. Especialista en Medicina Física y Rehabilitación. Médico evaluador del 
+INSS (Dirección Provincial de Madrid).
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)
+Dr. Jesús Ledesma de Miguel. Licenciado en Medicina y Cirugía. Jefe Unidad Técnica de Formación 
+y Salud Laboral. Centro Nacional de Medios de Protección.
+Asociación Española de Especialista en Medicina del Trabajo (AEEMT)
+Dr. Guillermo Soriano Tarín. Especialista en Medicina del Trabajo. Coordinador del grupo funcional 
+de Promoción de la Salud de la AEEMT.
+COORDINACIÓN DE LA PUBLICACIÓN
+Escuela Nacional de Medicina del Trabajo del Instituto de Salud Carlos III (ENMT-ISCIII)
+Dra. Mª Jesús Terradillos García. Especialista en Medicina del Trabajo. Directora de la Escuela Nacio-
+nal de Medicina del Trabajo. Instituto de Salud Carlos III.
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)
+Dr. Jerónimo Maqueda Blasco. Especialista en Medicina del Trabajo. Director del Departamento 
+de Promoción de la Salud y Epidemiología Laboral. Instituto Nacional de Seguridad y Salud en el 
+Trabajo.
+
+16
+EDITA
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P.
+C/ Torrelaguna 73, 28027 Madrid
+Tel. 91 363 41 00, fax 91 363 43 27
+www.insst.es
+MAQUETACIÓN
+Servicio de Ediciones y Publicaciones del INSST 
+EDICIÓN
+Madrid, noviembre 2022
+NIPO (EN LÍNEA)
+118-22-047-9
+HIPERVÍNCULOS
+El INSST no es responsable ni garantiza la exactitud de la información en los sitios web que no son de 
+su propiedad. Asimismo la inclusión de un hipervínculo no implica aprobación por parte del INSST 
+del sitio web, del propietario del mismo o de cualquier contenido específico al que aquel redirija.
+Catálogo de publicaciones de la Administración General del Estado:
+http://cpage.mpr.gob.es 
+Catálogo de publicaciones del INSST :
+http://www.insst.es/catalogo-de-publicaciones
+Logotipo datos abiertos

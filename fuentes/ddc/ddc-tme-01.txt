@@ -1,0 +1,818 @@
+	
+	
+	
+	
+	
+			
+	
+	
+Gobierno de España, Ministerio de Trabajo y Economía Social e Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O. A., M. P. con la colaboración del: Instituto de Salud Carlos III
+Con la colaboración de:
+DIRECTRICES PARA LA DECISIÓN CLÍNICA
+EN ENFERMEDADES PROFESIONALES
+Trastornos musculoesqueléticos 
+de origen profesional del 
+Miembro Superior
+Patología tendinosa crónica del   
+manguito rotador 
+DDC-TME-01
+
+TRASTORNOS MUSCULOESQUELÉTICOS DE 
+ORIGEN PROFESIONAL DEL MIEMBRO 
+SUPERIOR
+PATOLOGÍA TENDINOSA CRÓNICA 
+DEL MANGUITO ROTADOR
+DEFINICIÓN 
+El hombro no está formado por una única articulación sino por varias (articulación glenohumeral, 
+acromioclavicular, esternoclavicular y escapulotorácica) junto con un número importante de múscu-
+los y tendones. Todas estas estructuras se pueden lesionar y producir dolor.
+El manguito rotador (MR) está formado por los músculos subescapular, supraespinoso, infraespinoso 
+y redondo menor situados en el espacio subacromial del hombro y limitado por arriba por el arco 
+coracoacromial, formado a su vez por la articulación acromio-clavicular, el acromion, el ligamento 
+coracoacromial y la apófisis coracoides (Figura 1).
+Entre el manguito rotador y el arco coracoacromial se encuentra la bursa subacromial, que sirve de 
+lubrificación del manguito y de protección al roce y al pinzamiento del manguito con las estructuras 
+coracoacromiales. 
+Las principales funciones del manguito rotador son: 
+• Músculo subescapular: rotación interna.
+• Músculo infraespinoso y redondo menor: rotación externa.
+• Músculo supraespinoso: coadyuvante de la abducción del hombro estabilizando la cabeza 
+ humeral.
+Ligamento acromioclavicular
+• Estabilizar la cabeza humeral dentro 
+Ligamento coracoacromial
+de la cavidad glenoidea (compresión 
+Clavícula
+Acromio escapular 
+Músculo supraespinoso
+Bolsa subacromial
+de la cavidad).
+Rodete glenoideo
+Cápsula articular
+Cavidad glenoidea
+Vaina tendinosa
+Las lesiones del manguito rotador de hom-
+Escapula
+Cartílago articular
+Cabeza del húmero
+bro son patologías de gran importancia, 
+Membrana sinovial
+tanto por la elevada incidencia entre la po-
+Membrana ﬁbrosa
+Húmero
+blación trabajadora como por las impor-
+Cápsula articular
+tantes secuelas derivadas de su alteración 
+Músculo biceps braquial
+y reparación.
+FFigura 1: Anatomía del hombro
+2
+
+3
+SÍNTOMAS Y SIGNOS
+La sintomatología relacionada con la patología del manguito rotador es: dolor, debilidad o una com­
+binación de ambas. 
+EL objetivo de la anamnesis y la exploración incluye tanto la evaluación de las capacidades motoras 
+(fuerza y resistencia) como las habilidades funcionales (coordinación y movilidad articular).
+ANAMNESIS
+Respecto al dolor, debe preguntarse acerca de la duración y la intensidad del mismo, si se presenta 
+como un dolor continuo o relacionado con los movimientos y si el paciente lo asocia a la aparición 
+de crepitación o “resaltes”. Es muy útil solicitar al paciente que trate de señalar el lugar exacto del 
+dolor. La señalización de la articulación acromioclavicular o de la corredera bicipital  ayuda a diag­
+nosticar patología asociada. 
+Si el o la paciente refiere un dolor de inicio en la región cervical que se irradia al hombro y desciende 
+por el brazo orientará a patología de origen cervical, sobre todo si se acompaña de síntomas radi­
+culares como parestesias y pérdida de fuerza en los miembros superiores. 
+Es importante registrar cuál es el brazo dominante del paciente.
+Es fundamental destacar si ha existido o no antecedente lesional: traumatismo agudo (caídas o 
+esfuerzos), mecanismos repetitivos (trabajos en cadena o por encima de la cabeza) o de aparición 
+lenta y progresiva (degenerativo), así como antecedentes de patologías o lesiones previas de hom­
+bro (fracturas, luxaciones…).
+Antecedentes laborales: Una parte fundamental de la historia clínica es conocer el tipo de trabajo 
+que realiza el paciente: determinadas posturas o movimientos realizados en el entorno laboral son 
+más proclives a producir lesiones del manguito rotador o de estructuras adyacentes.
+Deben registrarse los hábitos tóxicos y las condiciones de salud: tabaquismo, consumo de alco­
+hol, diabetes, patología autoinmune o infecciones previas ya que suponen un factor de riesgo en la 
+curación/recuperación del manguito rotador.
+Así mismo, deben recogerse en la anamnesis los siguientes datos:
+•	 Actividades de ocio (jardinería, bricolaje, pintura, modelismo, carpintería…).
+•	 Actividades deportivas (especificar tipo de deporte e intensidad).
+•	 Postura de los brazos para dormir.
+Inspección
+Con la inspección se debe visualizar correctamente el cuello, la región anterior y posterior del hom­
+bro y toda el área del brazo hasta el codo, tanto del hombro afecto como del contralateral. Desta­
+caremos la existencia de: 
+
+4
+•	 Cicatrices previas.
+•	 Hematomas o signos inflamatorios (tumefacción, enrojecimiento, aumento de temperatura 
+local) y su localización.
+•	 Deformidad del músculo del bíceps (signo de Popeye): indica lesión de la porción larga del bí­
+ceps.
+•	 Prominencias en las articulaciones esternoclavicular o acromioclavicular: orienta hacia traumatis­
+mos o patología degenerativa.
+•	 Escápula sobreelevada (escápula alada): es indicativa de afectación del nervio torácico largo. 
+La comparación con el hombro contralateral permite identificar atrofias musculares y dismetrías es­
+capulares.
+Palpación
+•	 Musculatura paraespinal y apófisis espinosas para descartar patología cervical.
+•	 Articulación acromioclavicular (dolor: posible artropatía acromioclavicular) y de la corredera bi­
+cipital (dolor: lesión de la porción larga del bíceps).
+•	 Musculatura deltoidea y paraescapular para detectar depresiones o masas. La presencia de 
+tumefacción generalizada del hombro puede ser indicativa de enfermedad reumatoide o artro­
+patía por rotura masiva de los tendones del manguito rotador.
+Movilidad articular y fuerza 
+SIEMPRE se debe valorar la movilidad pasiva y activa de la articulación glenohumeral y escapular del 
+lado afecto y contralateral. 
+El rango de movilidad normal del hombro es: flexión de 150° a 180°, abducción de 150° a 180°, 
+rotación externa de 60° a 90° y rotación interna de 50° a 70°. 
+Una limitación de la movilidad pasiva debe orientar hacia un hombro rígido o capsulitis adhesiva. 
+Una limitación de la movilidad activa se relaciona con cualquier patología del hombro por rotura del 
+manguito o por dolor asociado a tendinopatías. 
+Es importante observar posibles mecanismos de compensación por parte de la escápula que pue­
+den sesgar la exploración. Para evitar esto, se debe estabilizar la articulación escapulotorácica colo­
+cando la mano sobre la escápula, con los dedos rodeando la parte superior. 
+En casos de capsulitis retráctil, la movilidad de la articulación escapulotorácica está preservada y 
+suele compensar la limitación de la glenohumeral; esta situación fisiológica puede ayudar a diferen­
+ciar aquellos déficits de movilidad patológicos de los de la movilidad limitada por falta de colabo­
+ración del trabajador/a en los que la ausencia de movimiento voluntario será global, incluyendo el 
+deslizamiento de la articulación escapulo torácica. 
+
+5
+Respecto a la evaluación de la fuerza, se debe explorar al o la paciente por grupos musculares y de 
+manera bilateral para poder comparar con el hombro sano. En muchos casos de roturas completas 
+del manguito rotador, la debilidad puede ser el principal signo. 
+TESTS DE PROVOCACIÓN
+SUPRAESPINOSO E INFRAESPINOSO
+Maniobra de Neer y de Hawkins-Kennedy (vídeo 1): La manio­
+bra de Neer se realiza flexionando el hombro en rotación interna 
+con el codo extendido mientras se estabiliza la escápula. En la de 
+Hawkins-Kennedy, se mantiene el hombro en flexión de 90° con el 
+codo flexionado y se fuerza la rotación interna. La prueba positiva 
+es indico de: síndrome subacromial o pinzamiento subacromial. 
+Maniobra de Jobe (empty can 
+test) (vídeo 2): Hay que situarse en­
+frente del o la paciente y colocar 
+sus brazos a 90º de abducción en 
+el plano de la escápula con el pul­
+gar orientado hacia el suelo (rota­
+ción interna máxima) y, mientras se 
+ejerce una fuerza hacia abajo, se le 
+pide al paciente que resista la pre­
+sión. Es positiva si produce dolor (tendinopatía del supraespinoso) o 
+impotencia funcional o debilidad (rotura del supraespinoso).
+Prueba del brazo caído (drop arm 
+test) (vídeo 3): Se abduce el brazo 
+del paciente pasivamente hasta los 160° y se le solicita que lo des­
+cienda lentamente hasta colocarlo pegado al cuerpo. En presencia 
+de una rotura masiva del supraespinoso el paciente será incapaz de 
+mantener el brazo elevado contra gravedad y este caerá. 
+Signo de déficit de rotación ex­
+terna (external rotation lag sign) 
+(vídeo 4): Se coloca el brazo del 
+paciente en 90° de abducción en 
+el plano escapular con el codo 
+flexionado 90° y en rotación exter­
+na máxima. Se le pide al o la pa­
+ciente que sostenga la posición del 
+brazo en rotación externa; si ocurre 
+una caída o pérdida de la posición, 
+se considera la prueba positiva para 
+lesiones del manguito posterosupe­
+rior (supraespinoso e infraespinoso). 
+Vídeo 1: Maniobra de Neer 
+y Hawkins-Kennedy
+ https://www.youtube.com
+/watch?v=-vrSrkTJqfw 
+Vídeo 3: Prueba del brazo caído
+https://www.youtube.com
+/watch?v=rEryOxVFcaQ
+Vídeo 2: Maniobra Jobe
+ https://www.youtube.com/wat-
+ch?v=jkRZlMKPFKA
+Vídeo 4: Signo de deficit de 
+rotación externa
+ https://www.youtube.com/wat-
+ch?v=jkRZlMKPFKA
+
+6
+SUBESCAPULAR
+Prueba de compresión abdominal (belly press test) (vídeo 5): El 
+paciente coloca la palma de su mano sobre el abdomen con el 
+hombro en rotación interna de modo que el codo se encuentre 
+ligeramente por delante del cuerpo y se le pide que presione el 
+abdomen. La prueba se considera positiva cuando al presionarse 
+el codo “cae” por detrás del tronco y se flexiona la muñeca, lo 
+que nos indica una debilidad del músculo subescapular.
+Vídeo 5: Prueba de compresión 
+Maniobra de Gerber (lift-off test) 
+abdominal
+(vídeo 6): Se le ayuda al paciente a 
+https://www.youtube.com/watch?-
+v=HPuYkSMP4tE
+colocar el dorso de su mano en la 
+región baja de la espalda con su brazo en rotación interna y el codo en 
+flexión y se le solicita que la separe de la misma. El test será positivo si 
+es incapaz de alejar la mano. También se se puede realizar esta prue-
+ba alejando nosotros la mano de la 
+espalda de del paciente y compro-
+bando si es capaz de mantenerla 
+separada o cae de manera brusca 
+sobre la espalda.
+Vídeo 6: Maniobra de Gerber
+https://www.youtube.com/
+Prueba del abrazo del oso (bear-
+watch?v=n9PQM16_iwwz
+hug test) (vídeo 7): Se coloca la pal-
+ma de la mano del hombro pato-
+lógico sobre el hombro contralateral con los dedos en extensión 
+y con el codo anterior al tórax. A continuación, se insta al o la 
+paciente a mantener la posición mientras se le aplica una fuerza 
+en la cara inferior del antebrazo para forzar la rotación externa. 
+Se considera prueba positiva si no es capaz de mantener la mano 
+Vídeo 7: Prueba del abrazo del oso
+contra el hombro o si muestra una debilidad superior del 20% en 
+https://www.youtube.com/watch?-
+comparación con el lado contralateral. 
+v=N_VYC8ETKPQ
+PORCIÓN LARGA DEL BÍCEPS
+Las lesiones del manguito rotador pueden aparecer asociadas a 
+lesiones de la porción larga del bíceps (muy frecuente) o de otras 
+estructuras.
+Maniobra de Speed (palm up test) (vídeo 8): Se coloca al o la pa-
+ciente con los brazos en flexión, rotación externa y codos exten-
+didos con palmas hacia arriba. Se ejerce una fuerza hacia abajo 
+en los antebrazos que debe ser resistida por el paciente. Si existe 
+debilidad y/o dolor en la corredera bicipital, se considera la prue-
+ba positiva. 
+Vídeo 8: Maniobra de Speed 
+https://www.youtube.com/
+watch?v=S0R2yclmz4U
+
+7
+Maniobra de Yergason (vídeo 9): Con el codo flexionado 90º y pega-
+do al tórax, se ejerce una resistencia a la supinación del paciente. El 
+dolor en la corredera bicipital orienta a patología de la porción larga 
+del bíceps. 
+PRUEBAS DIAGNÓSTICAS
+RADIOLOGÍA SIMPLE
+El estudio radiológico aporta información indirecta sobre las roturas 
+de manguito sobre todo en los casos crónicos: osteopenia, esclerosis 
+en las tuberosidades, formación de osteofitos y de quistes subcon-
+drales, disminución del espacio subacromial que, si es menor de 7 
+mm, indica la presencia de una rotura masiva de larga evolución. 
+Las proyecciones más utilizadas son:
+La anteroposterior pura o de Grashey, con la que se puede observar el arco escapulohumeral, e
+espacio subacromial, la articulación acromioclavicular y la presencia de calcificaciones y fractura
+(como lesiones de Bankart).
+La proyección en “Y” escapular: para observar la relación de la cabeza humeral con la glenoides 
+la morfología del acromion y de la coracoides. 
+ECOGRAFÍA
+La exploración ecográfica del hombro permite evaluar de una manera rápida y coste-efectiva la pa
+tología del manguito rotador. Las ventajas que presenta este método diagnóstico respecto a otro
+(la Resonancia Magnética –RM– y la artro-resonancia magnética –artro-RM–) son: la amplia disponi
+bilidad en los centros, el bajo coste económico y la posibilidad de comparar con el hombro contrala
+teral. Además, permite realizar una exploración dinámica para evaluar patologías que pueden vers
+desencadenadas con determinadas maniobras. 
+RESONANCIA MAGNETICA
+La RM proporciona información de carácter esencial para el tratamiento y el pronóstico de las lesio
+nes del manguito rotador. Presenta una sensibilidad y una especificidad para detección de rotura
+completas del 90% y el 95% respectivamente, y del 67% y el 94% para la detección de roturas par
+ciales. 
+Además, informará sobre la calidad de los tejidos, retracciones en casos de roturas, degeneració
+grasa muscular y lesiones asociadas (porción larga del bíceps, articulación acromioclavicular…).
+DIAGNÓSTICO DIFERENCIAL
+El diagnóstico de la patología del manguito rotador se debe basar en la anamnesis, la exploració
+física (inspección, palpación, valoración de la movilidad y fuerza) y pruebas específicas. 
+Vide
+htt
+l 
+s 
+y 
+-
+s 
+-
+-
+e 
+-
+s 
+-
+n 
+n 
+o 9: Maniobra de Yergason
+ps://www.youtube.com/
+watch?v=VqDVB7NjEt
+
+8
+Las lesiones más comunes con las que hacer diagnóstico diferencial son las de ORIGEN INTRÍNSE­
+CO: 
+1.	 Agudas: de aparición reciente, asociadas o no a un mecanismo lesional:
+	 •	 Traumáticas: fracturas, luxaciones, inestabilidades, tendinopatías, roturas parciales y completas.
+2.	 Crónicas (posible enfermedad profesional): dolor de hombro de más de 6 meses de evolución:
+	–	 Traumatismos de repetición: 
+	 		 - 	Tendinopatías del manguito rotador y/o de la porción larga del bíceps (70% de las causas 	
+		   	que representan el dolor de hombro).
+	 		 - 	Roturas manguito rotador y porción larga del bíceps.
+	 		 - 	Artropatías dolorosas acromioclavicular.
+	 		 - 	Síndrome Subacromial.
+	 		 - 	Bursitis.
+	 		 - 	Microtraumatismos secundarios a sobreuso; MICROINESTABILIDAD.
+Debe también realizarse el diagnóstico diferencial con dolor de hombro de ORIGEN EXTRÍNSE­
+CO:
+1.	 Patología Cervical.
+2.	 Origen Visceral: 
+	 •	 Pulmón: Tumor Pancoast, neumotórax, pleuritis, embolismo pulmonar. 
+	 •	 Corazón: Disección aorta, cardiopatía isquémica, pericarditis. 
+	 •	 Diafragma: mesotelioma, absceso subfrénico.
+	 •	 Gastrointestinal: pancreatitis, colecistitis.
+	 •	 Rotura visceral abdominal. 
+3. Origen vascular: aterosclerosis, vasculitis, aneurismas.
+4. Origen neurológico: lesiones médula espinal (tumores, abscesos), de raíces nerviosas (origen       	
+	cervical, infección por herpes, tumores), atrapamiento nervios periféricos. 
+5. Otras causas: Fibromialgia, Algiodistrofia.
+
+9
+VULNERABILIDAD
+El dolor de hombro es la tercera causa más frecuente de los trastornos musculoesqueléticos, des­
+pués de la patología de la columna y la rodilla, con una prevalencia de entre 70 y 200 casos por 
+100.000 habitantes. 
+La principal causa de consulta por patología de hombro en el entorno laboral es el dolor y su princi­
+pal responsable es la patología o enfermedad del manguito rotador. 
+La incidencia de las lesiones de manguito rotador aumenta con la edad, con una afectación en el 
+25% de los pacientes mayores de 60 años; pero estas incidencias aumentan cuando analizamos el 
+porcentaje de afectación de lesiones del manguito rotador en determinadas profesiones que re­
+quieren esfuerzos repetitivos por encima de la cabeza, profesiones con altas exigencias mecánicas 
+al nivel de los hombros y movimientos vibratorios (trabajos o tareas de riesgo). 
+En estas situaciones se solapan los factores degenerativos que aparecen a partir de los 50-55 años 
+y las altas demandas mecánicas inherentes a determinados tipos de profesiones y trabajos, además 
+de factores etiopatogénicos subyacentes: factores anatómicos locales, factores genéticos, tabaquis­
+mo, hipercolesterolemia, tratamiento previo con corticoides, sobrepeso, diabetes mellitus y otras 
+tendinopatías concomitantes.
+Trabajos de especial riesgo para padecer patología del hombro, como, por ejemplo: trabajos de 
+construcción, trabajos de minería, trabajos de la industria tradicional, trabajos agropecuarios, etc.
+ACTIVIDADES DE RIESGO MÁS FRECUENTES IDENTIFICADAS EN LA PRÁCTICA CLÍNICA
+La patología tendinosa crónica del manguito de los rotadores se incluye entre las enfermedades 
+provocadas por posturas forzadas y movimientos repetititvos, por fatiga e inflamación de las vainas 
+tendinosas, de tejidos peritendinosos e inserciones musculares y tendinosas.
+CONDICIONES DE RIESGO
+La condición de riesgo viene determinada por los siguientes factores: repetitividad, postura, fuerza, 
+recuperación (descansos), duración, presión mecánica y características de las herramientas.
+Tareas que requieren posturas forzadas y/o movimientos repetitivos del miembro superior: trabajos 
+que se realicen con los codos en posición elevada o que tensen los tendones o bolsa subacromial, 
+asociándose a acciones de levantar y alcanzar; uso continuado del brazo en abducción o flexión.
+ACTIVIDADES DE RIESGO
+Dado el carácter abierto, en lo que a la actividad se refiere, del Real Decreto 1299/2006, estarían 
+incluidas todas aquellas actividades profesionales en las que quedara acreditada la exposición su­
+ficiente al riesgo y no se documentara ningún factor extralaboral que hubiera actuado con entidad 
+suficiente para constituir la causa principal.
+Está descrito riesgo potencial en actividades tales como: usuarios de pantallas de visualización de 
+Datos (PVD). Pintores. Trabajadores de servicios de limpieza. Conductores de vehículos. Trabajado­
+res de la construcción y servicios. Peonaje. Personal que realiza movimientos repetidos. Personal 
+
+10
+manipulador de pesos. Trabajadores de fontanería y calefacción. Carpinteros. Electricistas. Mecá­
+nicos. Trabajadores que utilizan las manos por encima de la altura del hombro (pintado de techos, 
+colocación de iluminación en techo, tareas de soldadura por encima del nivel de la cabeza, montaje 
+de estructuras, etc.). Archivos y almacenes. Trabajadores de la industria textil y confección.
+Se entiende por movimientos repetidos a un grupo de movimientos continuos y mantenidos duran­
+te un trabajo del mismo conjunto osteomuscular provocando, en el mismo, fatiga muscular, sobre­
+carga, dolor y por último lesión.
+Los investigadores dan definiciones diversas sobre el concepto de repetitividad. Una de las más 
+aceptadas es la de Silverstein, que indica que el trabajo se considera repetido cuando la duración 
+del ciclo de trabajo fundamental es inferior a 30 segundos (Silverstein et al, 1986).
+El trabajo repetido de miembro superior se define como la realización continuada de ciclos de tra­
+bajo similares; cada ciclo de trabajo se parece al siguiente en la secuencia temporal, en el patrón de 
+fuerzas y en las características espaciales del movimiento. (Protocolos de Vigilancia Sanitaria Especí­
+fica: Movimientos repetitivos de Miembro Superior).
+Nivel de exposición: exigencia laboral documentada de movimientos forzados o repetitivos de 
+miembro superior o de periodos prolongados de mantenimientos de brazos elevados. 
+Los límites de exposición no están claramente definidos. Orientativamente se pueden establecer 
+como niveles de riesgo movimientos de carácter repetitivo con más de 10 acciones de agarre/minu­
+to, más de 20 movilizaciones/minuto o manipulaciones de peso superiores a 1 Kg y/o mantenimien­
+to de miembro superior por encima de los 50º-60º más del 50% de la jornada laboral. Las posiciones 
+del hombro de abducción por encima de los 30º o de flexión por encima de los 60ºelevan la presión 
+en el supraespinoso por encima de los 30 mmHg (límite inferior de seguridad de la circulación san­
+guínea).
+En cuanto al tiempo mínimo de exposición, no está establecido para patología crónica. En los pro­
+cesos agudos, la aparición puede ser inmediata tras la realización de sobreesfuerzo brusco.
+AGENTES Y ACTIVIDADES DE RIESGO LISTADAS EN EL RD 1299/2006
+En el RD 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades pro­
+fesionales en el Sistema de Seguridad Social, recoge en el grupo 2 del anexo I las enfermedades 
+profesionales causadas por agentes físicos. 
+La patología tendinosa crónica de maguito de los rotadores se recoge con el código 2D0101.
+AGENTES, SUBAGENTES Y ACTIVIDADES PROFESIONALES CON RIESGOS PARA PATO­
+LOGÍA TENDINOSA CRÓNICA DE MANGUITO DE LOS ROTADORES INCLUIDAS EN EL 
+ANEXO I, GRUPO 2, DEL RD 1299/2006 DE 10 DE NOVIEMBRE
+AGENTE
+Enfermedades provocadas por posturas forzadas y movimientos repetitivos 
+en el trabajo; enfermedades por fatiga e inflamación de las vainas tendino­
+sas, de tejidos peritendinosos e inserciones musculares y tendinosas.
+
+11
+AGENTES, SUBAGENTES Y ACTIVIDADES PROFESIONALES CON RIESGOS PARA PATO­
+LOGÍA TENDINOSA CRÓNICA DE MANGUITO DE LOS ROTADORES INCLUIDAS EN EL 
+ANEXO I, GRUPO 2, DEL RD 1299/2006 DE 10 DE NOVIEMBRE
+SUBAGENTE
+Hombro: patología tendidosa crónica de maguito de los rotadores.
+ACTIVIDADES 
+DE RIESGO
+Todas aquellas actividades en las que se produzca exposición suficiente y 
+acreditada a posturas forzadas y movimientos repetitivos, y especialmente:
+2D0101: 
+“Trabajos que se realicen con los codos en posición elevada o 
+que tensen los tendones o bolsa subacromial, asociándose a 
+acciones de levantar y alcanzar; uso continuado del brazo en 
+abducción o flexión, como son pintores, escayolistas, monta­
+dores de estructuras”.
+REPERCUSIÓN
+INCAPACIDAD LABORAL
+INCAPACIDAD TEMPORAL
+•	 Hasta la remisión del dolor, recuperación funcional y exploración negativa.
+•	 Hasta recuperación funcional en caso de tratamiento quirúrgico.
+Se define como Tiempo Estándar (TE) de Incapacidad Temporal el “Tiempo medio óptimo que se 
+requiere para la resolución de un proceso clínico que ha originado una incapacidad para el trabajo 
+habitual, utilizando las técnicas de diagnóstico y tratamiento normalizadas y aceptadas por la comu­
+nidad médica y asumiendo el mínimo de demora en la asistencia sanitaria del trabajador”.
+Se define como Tiempo Óptimo de Incapacidad Temporal “el tiempo estándar de IT ajustado por 
+edad y ocupación”.
+Se recogen a continuación los días estimados (Tiempo Estándar) de Incapacidad temporal por pro­
+ceso, de acuerdo con el Manual de Tiempos Óptimos de Incapacidad Temporal del Instituto Nacio­
+nal de la Seguridad Social:
+•	 Otros trastornos de tejidos blandos relacionados con uso, uso excesivo y presión, hombro (CIE-
+10 M70.81): 20 días.
+•	 Lesiones de hombro (CIE-10 M75): 30 días.
+•	 Desgarro o rotura completa del manguito de los rotadores de hombro no especificado, no es­
+pecificados como traumáticos (CIE-10 M75.120): 60 días.
+•	 Capsulitis adhesiva del hombro (CIE-10 M75.0): 60 días.
+
+12
+En aquellos casos en los que la impotencia funcional del hombro se acompaña de limitación de 
+movilidad, los tiempos estándar se prolongan y precisarán de un tiempo estimado de Incapacidad 
+temporal de 6 meses en aquellas actividades laborales que requieran rango completo de movilidad 
+del hombro.
+Tras el tratamiento quirúrgico la recuperación funcional necesaria para la reincorporación para acti­
+vidades que han provocado la lesión depende en parte del tipo de tratamiento necesario:
+•	 En caso de acromioplastia sin necesidad de sutura del manguito: 3 meses.
+•	 En caso de sutura o reanclaje del manguito: 6 meses.
+Es habitual que el tratamiento quirúrgico vaya precedido de un intento fallido de tratamiento con­
+servador, por lo que se irían sumando periodos de incapacidad temporal. Sin embargo, en casos de 
+ruptura masiva aguda o subaguda del manguito con impotencia funcional activa congruente con 
+pruebas complementarias y sin retracción de cabos, especialmente en trabajadores/as jóvenes, lo 
+ideal es un tratamiento quirúrgico de entrada optimizando resultados funcionales y acortando los 
+periodos de incapacidad temporal.
+INCAPACIDAD PERMANENTE
+Se planteará ante persistencia del dolor e impotencia funcional después de agotar todas las posibi­
+lidades terapéuticas. Suelen ir acompañadas de cambios morfológicos en las pruebas de imagen.
+En cualquier caso, y especialmente en ausencia de alteraciones de imagen ecográficas o de reso­
+nancia, es muy recomendable contar con pruebas biomecánicas que reproduzcan de alguna manera 
+la carga biomecánica profesional, esto es, pruebas isocinéticas o de fotogrametría con medición de 
+velocidades angulares de movimiento.
+La objetivación de una impotencia funcional del hombro habitualmente rector de carácter mode­
+rado o mayor es indicativa de incapacidad permanente total para actividades contempladas en el 
+Real Decreto 1299/2006 como causantes de lesiones del manguito rotador. Un déficit funcional leve 
+podría ser compatible con la adaptación del puesto de trabajo y/o lesiones permanentes no invali­
+dantes.
+ENFERMEDAD PROFESIONAL
+Calificación de la patología tendinosa crónica del maguito de los rotadores como enfermedad pro­
+fesional:
+Enfermedades provocadas por posturas forzadas y movimientos repetitivos en el trabajo; enfer­
+medades por fatiga e inflamación de las vainas tendinosas, de tejidos peritendinosos e inserciones 
+musculares y tendinosas: Hombro: patología tendinosa crónica de maguito de los rotadores.
+D0101: “Trabajos que se realicen con los codos en posición elevada o que tensen los tendones 	
+	
+o bolsa subacromial, asociándose a acciones de levantar y alcanzar; uso continuado 	
+	
+del brazo en abducción o flexión, como son pintores, escayolistas, montadores de es-	
+	
+tructuras”.
+
+13
+Y además:
+•	 Confirmación de la enfermedad mediante exploración clínica y estudio ecográfico.
+•	 Correspondencia del cuadro clínico con la exposición, analizada mediante métodos de evalua­
+ción ergonómica o biomecánica, en lo que se refiere al estudio postural y dinámico del hombro.
+•	 Mejoría o desaparición de los síntomas con el descanso o cambio a tareas de requerimientos 
+ergonómicos diferentes. Reaparición o agravamiento tras reemprender el trabajo.
+•	 Ausencia de patología en la zona de causa no laboral.
+
+14
+	
+ALGORITMO DE DECISIÓN
+Historia clínica y 
+antecedentes personales
+Semiología del dolor
+Historia laboral
+- 	
+Declarar la Enferemedad Profesional a la Entidad 	
+	
+Gestora o Mutua (sistema CEPROSS)
+- 	
+Adoptar medidas preventivas en las empresa 
+	
+(ergonómicas, organizativas)
+Inspección del cuello, 
+región anterior y 
+posterior del hombro y 
+brazo hasta el codo.
+Tendinitis del manguito 
+de los rotadores
+Movilidad hombro
+• flexión= 150º a 180º
+• abdución= 150º a 180º
+• rotación externa= 60ºa 90º
+• rotación interna=50ºa 70º
+Test de 
+provocación
+Paciente con dolor de 
+hombro
+•   Actividades deportivas con movimientos 	
+	
+	
+repetidos y extremos del hombro.
+	• 	 Traumatismo en hombros.
+	• 	 Episodios previos con afectación del hombro.
+	•	 Enfermedades concomitantes: diabetes 	
+	
+	
+tipo ll.
+	•   Dolor relacionado con los movimientos.
+	• 	 Asociado a la aparición de crepitación o 
+		
+"resaltes".
+	• 	 Localización de dolor en la articulación
+		
+acromioclavicular o en la corredera bicipital.
+• 	Abducción: deltoides y supra-	
+	
+espinoso..
+	•  	Aducción : ambos redondos, 	
+	
+dorsal y pectoral menor.
+	• 	 Rotación externa: infraespinoso	
+	
+y redondo menor.
+• 	 Movilidad  activa  limitada + 
+		
+activa conservada = debilidad 	
+	
+muscular, patología neurológica 	
+	
+o rotura del manguito.
+	• 	 Movilidad  activa  limitada + 	
+	
+pasiva conservada + 
+		
+contraresistencia dolorosa = 	
+	
+patología tendinosa.	
+	• 	 Moilidad activa limitada + pasiva 	
+	
+limitada = patología ósea o 	
+	
+de tejido blando.
+	• 	 Moilidad activa conservada + 	
+	
+pasiva conservada = dolor 
+		
+referido.
+Lesión capsular extracapsular
+	• 	 Cicatrices.
+	• 	 Hematomas o signos 
+		
+inflamatorios.
+	• 	 Deformidad del músculo de 	
+	
+bíceps.
+	•	 Prominencias en las
+		
+articlaciones, extraclavicular o 
+		
+acromioclavicular.
+	•	 Escápula sobreelevada.
+	• 	 SUPRAESPINOSO E
+		
+INFRAESPINOSO: Maniobra 	
+	
+de Neer y de Hawkins-
+		
+	keneedy/ Maniobra de Jobe/	
+	
+	Prueba de brazo caído/ Signo 	
+	
+	de déficit de rotación externa.
+	• 	 SUBESCAPULAR: Prueba de 	
+	
+	compresión abdominal/ Ma	
+	
+	nioba de Geber/ Prueba del 	
+	
+	abrazo del oso.
+	• 	 PORCIÓN LARGA DEL 
+		
+	BÍCEPS: Maniobra de Speed/ 	
+	
+	Maniobra de Yergason. 	
+Trabajos que se realicen con los 
+brazos en posición elevada, acciones 
+de levantar y alcanzar, uso continuado 
+del brazo en abducción o flexión, postu-
+ras forzadas o movimientos repetitivos 
+que incluyan al hombro.
+Activa
+Pasiva
+Contra
+resistencia
+Tendinitis de Contingencia 
+Común (excepto en 
+deportista profesionales)
+ENFERMEDAD 
+PROFESIONAL
+2D0101
+Resultados 
+positivos de la ananmesis 
+y exploración
+Se confirma 
+exposición laboral
+Pensar en 
+patología externa
+SÍ
+SÍ
+NO
+NO
+
+15
+BIBLIOGRAFÍA
+•	
+E. Sanchez Alepuz. “Artroscopia de Hombro. Indicaciones y técnicas quirúrgicas”. Depósito le­
+gal: V-1337-2011. Mayo 2011.
+•	
+Rockwood y Matsen. “El hombro según Rockwood y Matsen”. 5ª edición. Editorial Amolca. 2019.
+•	
+J. Part Soriano, A. Acebrón Fabregat, E. Sánchez Alepuz. Roturas tendinosas del manguito rota­
+dor. Evaluación clínica y diagnóstico. Rev. Esp. Traum. Lab. 2020; 3(2):107-15.
+•	
+A. Acebrón Fabregat, J. Part Soriano, E. Sánchez Alepuz. Epidemiología e historia natural de las 
+roturas del manguito rotador. Rev. Esp. Traum. Lab. 2020;3(2):116-22.
+•	
+Tashjian RZ. Epidemiology, Natural History, and Indications for Treatment of Rotator Cuff Tears. 
+Clin. Sports Med. 2012;31(4):589-604.
+•	
+Leyes M, Forriol F. La rotura del manguito rotador: etiología, exploración y tratamiento. Trauma 
+Fund. MAPFRE. 2012;23(1):39-56.
+•	
+Part Soriano J, Gómez Alessandri JM, Peregrín Nevado I, Sánchez Alepuz E. Epidemiología de 
+la patología de hombro en el entorno laboral. Un estudio observacional de 1069 pacientes. Rev. 
+Esp. Traum. Labor. 2018;1(2):56-63.
+•	
+Neer CS 2nd. Impingement lesions. Clin. Orthop. Relat. Res. 1983;(173):70-7.
+•	
+Pappas GP, Blemker SS, Beaulieu CF, Mc Adams TR, Whalen ST, Gold GE. In vivo anatomy of the 
+Neer and Hawkins sign positions for shoulder impingement. J. Shoulder Elb. Surg. 2006; 15(1): 
+40-9.
+•	
+Hegedus EJ, Goode A, Campbell S, Morin A, Tamaddoni M, Moorman CT 3rd, Cook C. Physical 
+examination tests of the shoulder: a systematic review with meta-analysis of individual tests. Br J 
+Sports Med. 2008 Feb;42(2):80-92; discussion 92.
+•	
+Jobe FW, Jobe CM. Painful athletic injuries of the shoulder. Clin. Orthop. Relat. Res. 1983; 
+(173):117-24.
+•	
+Itoi E, Minagawa H, Yamamoto N, Seki N, Abe H. Are Pain Location and Physical Examinations 
+Useful in Locating a Tear Site of the Rotator Cuff? Am J Sports Med. 2006;34(2): 256-64.
+•	
+Leroux JL, Thomas E, Bonnel F, Blotman F. Diagnostic value of clinical tests for shoulder impin­
+gement syndrome. Rev. Rhum. Engl. Ed. 1995;62(6):423-8.
+•	
+Koh KH, Han KY, Yoon YC, Lee SW, Yoo JC. True anteroposterior (Grashey) view as a screening 
+radiograph for further imaging study in rotator cuff tear. J Shoulder Elbow Surg. 2013; 22(7): 901-7.
+•	
+Bureau NJ, Beauchamp M, Cardinal E, Brassard P. Dynamic Sonography Evaluation of Shoulder 
+Impingement Syndrome. Am J Roentgenol. 2006;187(1):216-20.
+•	
+Lenza M, Buchbinder R, Takwoingi Y, Johnston RV, Hanchard NCA, Faloppa F. Magnetic reso­
+nance imaging, magnetic resonance arthrography and ultrasonography for assessing rotator cuff 
+
+16
+tears in people with shoulder pain for whom surgery is being considered. Cochrane Database 
+Syst Rev. 2013; 2013(9).
+•	
+Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido 	
+de la Ley General de la Seguridad Social. BOE-A-2015-11724.
+•	
+Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades 
+profesionales en el sistema de la Seguridad Social y se establecen criterios para su notificación y 
+registro. BOE-A-2006-22169.
+•	
+Instituto Nacional de la Seguridad Social. Manual de Tiempos óptimos de Incapacidad Tempo­
+ral. 4ª edición. Madrid. 2018. NIPO: 271-17-089-X.
+•	
+Escuela Nacional de Medicina del Trabajo, Instituto de Salud Carlos III, Instituto Nacional de la 
+Seguridad Social. Guía de valoración de incapacidad laboral para médicos de atención primaria; 
+2ª edición. NIPO ePUB: 725150222. Madrid. 2015. 
+•	
+Instituto Nacional de la Seguridad Social. Guía de Ayuda para la Valoración de las Enfermedades 
+Profesionales (cuarta edición) NIPO: 122-21-003-5.
+•	
+Ministerio de Sanidad y Consumo. Protocolos de Vigilancia Sanitaria Específica: Movimientos 
+repetitivos de Miembro Superior. ISBN: 84-7670-552-2 NIPO: 351-00-020-X. Madrid. 2000.
+•	
+Grifka J, Peters Th, Linhardt O, Bär H, Liebers F (2001) Step-by-step Diagnosis of Musculo-Skele­
+tal Diseases in Occupational Health Practice. Publication Series from the Federal Institute for 
+Occupational Safety and Health). Wirtschaftsverlag NW, Bremerhaven. Schriftenreihe der Bun­
+desanstaltfürArbeitsschutz und Arbeitsmedizin.
+•	
+Hartmann B, Schwarze S, Liebers F, Spallek M, Kuhn W, Caffier G. Occupational medical pro­
+phylaxis for the musculoskeletal system. Part 1: objectives, concepts and anamnesis. Arbeits­
+medSozialmedUmweltmedPräventivmed 2005. 40(2): 60–68.
+•	
+Kaiser H, Kersting M, Schian H-M, Jacobs A, Kasprowski D. The role of functional capacity eva­
+luation by the method of Susan Isernhagen in medical and occupational rehabilitation. 2000. 
+Rehabilitation 39: 297–306.
+
+17
+MEDIOS AUDIOVISUALES
+Vídeo 1: Universidad de Valladolid_on line. 29. prueba de Hawkins-Kennedy [video en internet]. 
+Youtube. [citado 13 de abril de 2022]. Recuperado a partir de https://www.youtube.com/watch?­
+v=-vrSrkTJqfw.
+Vídeo 2: Facultad de Medicina Universidad Católica de Chile. Examen físico de Hombro | Test de 
+lata vacía (Jobe) [video en internet]. Youtube. [citado 13 de abril de 2022]. Recuperado a partir de 
+https://www.youtube.com/watch?v=jkRZlMKZPFKA.
+Vídeo 3: Facultad de Medicina Universidad Católica de Chile. Examen físico de Hombro | Test de 
+brazo caído (droparm) [video en internet]. Youtube. [citado 13 de abril de 2022]. Recuperado a partir 
+de https://www.youtube.com/watch?v=rEryOxVFcaQ.
+Vídeo 4: Cirugía de Hombro y Codo - Guido Fierro MD. Signo de retraso en la rotación externa - 
+ExternalRotationLagsign - "Spring back” test - (ERLS) [video en internet]. Youtube. [citado 13 de abril 
+de 2022]. Recuperado a partir de https://www.youtube.com/watch?v=CaGLuEMCNcQ.
+Vídeo 5: Cirugía de Hombro y Codo - Guido Fierro MD. Prueba de compresión abdominal modifi­
+cada - ModifiedBellypress test [video en internet]. Youtube. [citado 13 de abril de 2022]. Recuperado 
+a partir de https://www.youtube.com/watch?v=HPuYkSMP4tE.
+Vídeo 6: Universidad de Valladolid_on line. 31. Prueba de Gerber [video en internet]. Youtube. [cita­
+do 13 de abril de 2022]. Recuperado a partir de https://www.youtube.com/watch?v=n9PQM16_iww.
+Vídeo 7: Cirugía de Hombro y Codo - Guido Fierro MD. Prueba del abrazo del oso - Bear Hug Test 
+[video en internet]. Youtube. [citado 13 de abril de 2022]. Recuperado a partir de https://www.youtu­
+be.com/watch?v=N_VYC8ETKPQ.
+Vídeo 8: Facultad de Medicina Universidad Católica de Chile. Examen físico de Hombro | Test de 
+Speed [video en internet]. Youtube. [citado 13 de abril de 2022]. Recuperado a partir de https://www.
+youtube.com/watch?v=S0R2yclmz4U.
+Vídeo 9: Facultad de Medicina Universidad Católica de Chile. Examen físico de Hombro | Test de 
+Yergason [video en internet]. Youtube. [citado 13 de abril de 2022]. Recuperado a partir de https://
+www.youtube.com/watch?v=VqDVB7NjEtI.
+
+18
+FIGURAS
+Figura 1: “Articulación del hombro del cuerpo humano Diagrama infográfico de anatomía con to­
+das las partes, incluidos los huesos ligamentos músculos bursa cavidad cápsula cartílago membrana 
+para la educación de ciencias médicas y la atención de la salud”, autor: udaix, propiedad de  De­
+positphoto(https://sp.depositphotos.com/209552526/stock-illustration-shoulder-joint-human-body-
+anatomy.html).
+
+19
+TÍTULO
+Directrices para la decisión clínica en enfermedades profesionales. Trastornos musculoesqueléti­
+cos de origen profesional del Miembro Superior: Patología tendinosa crónica del manguito rotador.
+AUTOR
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P.
+ELABORADO POR
+Sociedad Española de Traumatología Laboral
+Dr. Eduardo Sánchez Alepuz. Médico Especialista en Cirugía Ortopédica y Traumatología (C.O.T.). 
+Jefe de Servicio C.O.T. Hospital IMED. Valencia.
+REVISIÓN
+Instituto Nacional de la Seguridad Social (INSS)
+Dr. Carlos Matarrubia Prieto. Especialista en Medicina Física y Rehabilitación. Médico evaluador del 
+INSS (Dirección Provincial de Madrid).
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)
+Dr. Jesús Ledesma de Miguel. Licenciado en Medicina y Cirugía. Jefe Unidad Técnica de Formación 
+y Salud Laboral. Centro Nacional de Medios de Protección.
+Asociación Española de Especialista en Medicina del Trabajo (AEEMT)
+Dr. Guillermo Soriano Tarín. Especialista en Medicina del Trabajo. Coordinador del grupo funcional 
+de Promoción de la Salud de la AEEMT.
+COORDINACIÓN DE LA PUBLICACIÓN
+Escuela Nacional de Medicina del Trabajo del Instituto de Salud Carlos III (ENMT-ISCIII)
+Dra. Mª Jesús Terradillos García. Especialista en Medicina del Trabajo. Directora de la Escuela Nacio­
+nal+icina del Trabajo. Instituto de Salud Carlos III.
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)
+Dr. Jerónimo Maqueda Blasco. Especialista en Medicina del Trabajo. Director del Departamento 
+de Promoción de la Salud y Epidemiología Laboral. Instituto Nacional de Seguridad y Salud en el 
+Trabajo.
+
+20
+EDITA
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P.
+C/ Torrelaguna 73, 28027 Madrid
+Tel. 91 363 41 00, fax 91 363 43 27
+www.insst.es
+MAQUETACIÓN
+Servicio de Ediciones y Publicaciones del INSST 
+EDICIÓN
+Madrid, noviembre 2022
+NIPO (en línea)
+118-22-047-9
+HIPERVÍNCULOS
+El INSST no es responsable ni garantiza la exactitud de la información en los sitios web que no son de 
+su propiedad. Asimismo la inclusión de un hipervínculo no implica aprobación por parte del INSST 
+del sitio web, del propietario del mismo o de cualquier contenido específico al que aquel redirija.
+Catálogo de publicaciones de la Administración General del Estado:
+http://cpage.mpr.gob.es 
+Catálogo de publicaciones del INSST:
+http://www.insst.es/catalogo-de-publicaciones
+Logotipo de datos abiertos

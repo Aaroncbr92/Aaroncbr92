@@ -1,0 +1,475 @@
+ 
+Gobierno de España, Ministerio de Trabajo y Economía Social e Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O. A., M. P. con la colaboración del Instituto Carlos tercero.
+Con la colaboración de:
+DIRECTRICES PARA LA DECISIÓN CLÍNICA
+EN ENFERMEDADES PROFESIONALES
+Transtornos musculoesqueléticos
+de origen profesional del 
+Miembro Superior
+Epitrocleítis 
+DDC-TME-05
+
+2
+TRASTORNOS MUSCULOESQUELÉTICOS DE 
+ORIGEN PROFESIONAL DEL MIEMBRO 
+SUPERIOR
+EPITROCLEÍTIS
+DEFINICIÓN Y FISIOPATOLOGÍA
+Conocido clásicamente como el codo de golfista o del lanzador, la epitrocleítis o epicondilitis me-
+dial corresponde a la irritación del tendón conjunto de los flexores (pronador redondo, flexor radial 
+del carpo (flexor carpi radialis–FCR), palmar mayor, flexor superficial de los dedos (flexor digitorum 
+superficialis–FDS) y flexor cubital del carpo (flexor carpi ulnaris–FCU) en su origen en el epicóndilo 
+medial. Están implicados en esta patología generalmente el pronador redondo y el flexor radial del 
+carpo (FCR).  
+El nervio cubital discurre por detrás del epicóndilo medial, junto al fascículo posterior del ligamento 
+colateral medial y situándose en el surco tras el epicóndilo y finalmente entrando bajo la fascia del 
+FCU. Las inflamaciones, sinovitis o rigideces de los tejidos circundantes o que atraviesa pueden 
+provocar la neuritis del mismo. En la literatura revisada, entre un 20% y un 50% de los casos de epi-
+trocleítis presentan neuritis cubital.
+HISTOPATOLOGÍA:
+El término epitrocleítis es erróneo ya que los estudios histológicos muestran, al igual que en la epi-
+condilitis, una ausencia de reacción inflamatoria, observándose como hallazgos histopatológicos: la 
+invasión de fibroblastos inmaduros, neovascularización, y matriz desorganizada. Se trata más bien 
+de una tendinosis angiofibroblástica. Se desconoce la causa exacta y se propone un origen multifac-
+torial con importancia de los microtraumatismos de repetición que producirían un aumento de proli-
+feración de tenocitos y de síntesis de matriz extracelular en pacientes genéticamente predispuestos.
+Clasificación por fases propuesta por Nirschl de la tendinosis epicondílea:
+• Inflamación generalizada.
+• Degeneración angiofibroblástica.
+• Fallo estructural.
+• Fibrosis y calcificación.
+
+3
+EPIDEMIOLOGÍA:
+Es la causa de dolor más frecuente en la zona medial del codo. Su prevalencia en la población gene-
+ral no llega al 1%, pero esta se incrementa en ciertas actividades como la de los atletas lanzadores, 
+en deportes de raqueta y golf o en levantadores de peso. En cuanto a la enfermedad profesional, 
+se relaciona con los movimientos repetidos que incluyen una pronación del antebrazo y flexión de 
+muñeca.
+Su pico de incidencia se encuentra entre la 3ª y 5ª década de la vida. La obesidad, la diabetes me-
+llitus y el tabaquismo son factores de riesgo para el desarrollo de esta patología. La radiculopatía 
+C6-C7 puede afectar a la función de la musculatura flexora-pronadora debilitándola, creando una 
+alteración del equilibrio muscular que puede desencadenar una epicondilitis medial.
+SÍNTOMAS Y SIGNOS
+FORMAS DE PRESENTACIÓN
+En un 70% de los casos la forma de presentación es un dolor de aparición paulatino, y en un 30% el 
+dolor es de aparición súbita por traumatismo directo o indirecto. En un 60% se afecta el brazo domi-
+nante (el que sujeta la herramienta o realiza la actividad repetida).
+CLÍNICA
+Este dolor aparece con las actividades que ponen en tensión el origen de la masa flexora-prona-
+dora como el golf, el tenis y ciertas actividades laborales, desapareciendo en reposo en las fases 
+tempranas de la enfermedad. La mala técnica en la realización de estas actividades, el déficit de 
+preparación física y las herramientas o utensilios inadecuados suelen precipitar la aparición de la 
+epitrocleítis. Progresivamente el dolor aumenta en intensidad y duración afectando incluso en repo-
+so o al despertarse por la mañana.
+EXPLORACIÓN FÍSICA
+INSPECCIÓN
+Puede existir atrofia muscular, cierto eritema y calor local por el aumento de vascularización, exis-
+tiendo a veces inflamación sobre la zona epitroclear. En los casos más crónicos la inspección suele 
+ser normal.
+PALPACIÓN
+Debe realizarse con un solo dedo en un codo en flexión con la musculatura relajada. El punto de 
+mayor dolor se localiza en el tendón conjunto de la musculatura flexora-pronadora, es decir, 5-10 
+mm distal y anterior al epicóndilo medial o epitróclea.
+RANGO ARTICULAR
+No se afecta, la movilidad es completa. Excepcionalmente el dolor puede impedir el final de la ex-
+tensión activa.
+
+4
+MANIOBRAS EXPLORATORIAS
+Como es habitual en las tendinitis o tendinosis sintomáticas, se reproduce el dolor al realizar el esti-
+ramiento del o de los tendones afectos y al solicitar la contracción muscular correspondiente contra 
+resistencia. En este caso:
+• Con la muñeca y los dedos extendidos y el antebrazo en supinación, la extensión completa del 
+codo se acompaña de dolor en la zona de inserción del tendón conjunto flexor-pronador.
+• Con el brazo pegado al costado para evitar el uso del hombro, y el codo flexionado a 90º, se 
+parte de una posición de supinación completa y se pide al paciente realizar la pronación contra 
+la resistencia de nuestras manos en la palma de su mano. Esta maniobra ha demostrado más 
+sensibilidad que la flexión de la muñeca contra resistencia.
+• La contracción excéntrica del pronador redondo puede ser más sensible todavía si persisten las 
+dudas con las exploraciones previas: esto se consigue con el brazo situado pegado al cuerpo 
+de igual manera, pero se parte de una pronosupinación neutra. El examinador explica que con 
+sus dos manos completará la supinación y el paciente debe impedirlo (pronando, por lo tanto, 
+pero produciéndose alargamiento del pronador redondo pues el movimiento final es el de la 
+supinación completa).
+Exploración neurológica de nervio cubital: Por su alta frecuencia de patología asociada, debe reali-
+zarse la exploración del nervio:
+Signo de Tinel: percusión del nervio cubital en la zona más expuesta 
+(justo tras el epicóndilo medial con el codo en flexión cómoda de 90º) 
+con un solo dedo reproduciendo el dolor y parestesias en los dedos 4º 
+y 5º.
+Estabilidad del nervio: valoración visual, auditiva y por palpación de 
+la movilidad del nervio sobre el epicóndilo medial a la flexoextensión 
+del codo.
+Existencia y distribución de parestesias a la flexión completa del 
+codo mantenida o de manera espontánea en 4º y 5º dedos.
+Afectación de grupos musculares inervados: musculatura intrínseca de la mano (Froment, abduc-
+ción y aducción de los dedos; ver ficha Canal de Guyon), flexor profundo de los dedos 4º y 5º, FCU.
+PRUEBAS DIAGNÓSTICAS
+El diagnóstico es clínico, aunque en presentaciones atípicas o de larga duración están indicadas las 
+pruebas complementarias que descarten patología asociada o valoren el nivel de afectación tendinoso. 
+ESTUDIOS DE IMAGEN:
+• Radiografía simple (Rx): si se relata traumatismo previo, sirve para descartar otras lesiones o 
+para valorar patología asociada (artrosis, entesitis calcificantes…). Pueden ser útiles radiografías 
+en valgo forzado para valorar una inestabilidad medial subyacente si se sospecha.
+Vídeo 1: Signo de Tinel
+https://www.youtube.com/
+watch?v=fqrUTC0ZUJc
+
+5
+• Ecografía: no invasiva, sin irradiación y que, aplicada en esta zona tan superficial, puede ayudar 
+a valorar el estado tendinoso (aspecto de tendinosis, posibles roturas…), cuantificar la inflama-
+ción y hacer un seguimiento. Permite ver las calcificaciones. Es una prueba de bajo coste.
+• Resonancia magnética (RM): útil para una valoración en mayor profundidad de proceso de 
+evolución tórpida o no típico.Tiene una gran sensibilidad a la inflamación y permite una valora-
+ción de patología articular concomitante. Como puntos negativos: no se ven las calcificaciones 
+(es preciso siempre realizar una RX previa) y hay menor disponibilidad, siendo una prueba de 
+alto coste.
+OTRAS PRUEBAS:
+– Estudio neurofisiológico: electromiograma, electroneurograma del nervio cubital: que 
+sea normal no descarta una neuropatía cubital.
+– Infiltración diagnóstica o diagnóstico-terapéutica: Una inyección de anestésico local (aña-
+diendo o no fármaco para el tratamiento de esta patología) en tendón conjunto flexor-pro-
+nador (el punto de mayor dolor) puede ayudar a confirmar el diagnóstico, al mejorar o desa-
+parecer los síntomas tras unos minutos en consulta.
+ 
+Esta técnica sin embargo es preferible reservarla al médico tratante que vaya a seguir al 
+paciente ya que, por su carácter invasivo y dependiendo de lo inyectado, puede haber com-
+plicaciones o efectos secundarios que afecten a futuros tratamientos (atrofia cutánea, infla-
+mación que distorsione imágenes, perforación hasta articulación…).
+DIAGNÓSTICO DIFERENCIAL
+Ante un dolor en la cara medial del codo debe plantearse el siguiente diagnóstico diferencial:
+• Apofisitis medial (Codo de las ligas menores): Afectación, en menores, del cartílago de creci-
+miento propio del epicóndilo medial, con fragmentación del mismo por uso intenso del brazo 
+en lanzadores. Es un dato que hay que recoger en la historia y que puede dar imágenes radio-
+lógicas características en adultos. No excluye una epitrocleítis en la edad adulta.
+• Neuropatía cubital a nivel del codo: Puede coexistir con la epitrocleítis. Clínicamente existen 
+manifestaciones de dolor neuropático, Tinel, parestesias en territorio cubital… Pueden existir 
+hallazgos electrofisiológicos que lo confirmen.
+• Artrosis cúbito humeral: antecedentes de fracturas de codo con radiografía simple compatibles.
+• Lesión de ligamento colateral medial del codo: Característico de los lanzadores, puede coexis-
+tir con epitrocleítis. Maniobras positivas de inestabilidad en valgo del codo (milkingmaneuvre), 
+pruebas de imagen (radiografía simple para ver arrancamientos o calcificaciones y realizar RM 
+para un estudio más completo de partes blandas y de la posible afectación articular).
+– Otras causas neurológicas: síndrome del desfiladero torácico, radiculopatía cervical (sobre 
+todo C6-C7) ...
+– Dolor y afectación neuropática principal, y realizar un EMG/ENG para valorar raíces o ner-
+vios afectos.
+
+6
+VULNERABILIDAD 
+Entre los factores que incrementan la vulnerabilidad para sufrir una epitrocleítis se encuentran: 
+• Movimientos repetitivos,
+• Vibraciones transmitidas al codo,
+• Edad (entre los 40 y 60 años),
+• Obesidad,
+• Tabaquismo,
+• Desequilibrio muscular, flexibilidad articular.
+ACTIVIDADES DE RIESGO MÁS FRECUENTES IDENTIFICADAS EN LA PRÁCTICA CLÍNICA
+La epitrocleítis se incluye entre las enfermedades provocadas por posturas forzadas, movimientos 
+repetitivos, fatiga e inflamación de las vainas tendinosas, tejidos peritendinosos e inserciones mus-
+culares y tendinosas. 
+CONDICIONES DE RIESGO: 
+La condición de riesgo viene determinada por los siguientes factores: repetitividad, postura, fuerza, 
+recuperación (descansos), duración, presión mecánica y características de las herramientas:
+• Condiciones de riesgo ergonómico o biomecánico:
+ –  Movimientos repetitivos combinando pronación del antebrazo y flexión de la muñeca.
+ –  Posición incómoda o manteniendo la misma posición por un largo periodo de tiempo.
+ –  Exposición a fuerzas vibratorias constantes.
+ –  Realizar la actividad en ambiente con temperaturas muy calientes o muy frías.
+ –  Contacto directo contra superficies o bordes duros por largos periodos de tiempo.
+ –  Movimientos de impacto o sacudidas, supinación o pronación repetidas del brazo contra 
+resistencia, así como movimientos de flexoextensión forzados de la muñeca.
+ –  Empuje, agarre o levantamiento de objetos de manera repetitiva.
+ –  Situación de extensión o abducción o rotación externa con los brazos alejados del tronco  
+en periodos de 2 minutos durante más de 2 horas.
+ –  Movimientos con las manos por encima de los hombros durante más de 4 horas. 
+ –  Manejo de objetos de más de 5kg durante más de 2 horas diarias.
+
+7
+	
+
+8
+AGENTES, SUBAGENTES Y ACTIVIDADES PROFESIONALES CON RIESGOS PARA EPITRO-
+CLEÍTIS INCLUIDAS EN EL ANEXO I, GRUPO 2, DEL RD 1299/2006 DE 10 DE NOVIEMBRE
+AGENTE
+Enfermedades provocadas por posturas forzadas y movimientos re-
+petitivos en el trabajo; enfermedades por fatiga e inflamación de las 
+vainas tendinosas, de tejidos peritendinosos e inserciones musculares 
+y tendinosas.
+SUBAGENTE
+Codo y antebrazo: : epitrocleítis.
+ACTIVIDADES 
+DE RIESGO
+Todas aquellas actividades en las que se produzca exposición sufi-
+ciente y acreditada a posturas forzadas y movimientos repetitivos, y 
+especialmente:
+2D0201:
+“Trabajos que requieran movimientos de impacto o sacu-
+didas, supinación o pronación repetidas del brazo contra 
+resistencia, así como movimientos de flexoextensión forza-
+da de la muñeca, como pueden ser: carniceros, pescade-
+ros, curtidores, deportistas, mecánicos, chapistas, caldere-
+ros y albañiles”. 
+REPERCUSIÓN
+INCAPACIDAD LABORAL
+INCAPACIDAD TEMPORAL:
+Hasta la remisión del dolor, recuperación funcional y exploración negativa.
+Se define como Tiempo Estándar (TE) de Incapacidad Temporal el “tiempo medio óptimo que se 
+requiere para la resolución de un proceso clínico que ha originado una incapacidad para el trabajo 
+habitual, utilizando las técnicas de diagnóstico y tratamiento normalizadas y aceptadas por la comu-
+nidad médica y asumiendo el mínimo de demora en la asistencia sanitaria del trabajador”.
+Se define como Tiempo Óptimo de Incapacidad Temporal “el tiempo estándar de IT ajustado por 
+edad y ocupación”.
+Se recogen a continuación los días estimados (Tiempo Estándar) de Incapacidad temporal por pro-
+ceso de acuerdo con el Manual de Tiempos Óptimos de Incapacidad Temporal del Instituto Nacio-
+nal de la Seguridad Social:
+• Epicondilitis medial, codo no especificado (CIE-10 M77.00): 20 días. 
+ 
+No obstante, en ocasiones las epicondilitis tanto lateral como medial de carácter profesional  
+ 
+debidas a condiciones ergonómicas continuadas en el tiempo suelen tener cambios morfológi- 
+ 
+cos en las pruebas de imagen y suelen tardar más tiempo en recuperar una funcionalidad sufi- 
+ 
+ciente para la reincorporación laboral, pudiendo ser necesario un periodo de incapacidad tem- 
+ 
+poral de entre 3 y 6 meses.
+
+9
+• Como ya se especificó en el apartado de tratamiento, la falta de respuesta al tratamiento con-
+servador a los 6 meses suele dar paso al tratamiento quirúrgico.
+ Tras el tratamiento quirúrgico la recuperación funcional necesaria para la reincorporación para 
+actividades que han provocado la lesión y por tanto de requerimientos biomecánicos del codo 
+de cierta intensidad conllevan un periodo de unos 6 meses.
+ En todos los casos es relevante, a la vuelta al puesto de trabajo, mejorar las condiciones ergo-
+nómicas del mismo o la adaptación del puesto de trabajo para evitar recaídas
+ Dado que no es habitual un tratamiento quirúrgico de entrada, los 6 meses tras la cirugía se 
+sumarian a los 6 meses de un intento fallido de tratamiento conservador.
+INCAPACIDAD PERMANENTE:
+Valorar la Incapacidad permanente ante persistencia del dolor e impotencia funcional después de 
+agotar todas las posibilidades terapéuticas. Suelen ir acompañadas de cambios morfológicos en las 
+pruebas de imagen.
+En cualquier caso y especialmente en ausencia de alteraciones de imagen ecográficas o de reso-
+nancia es muy recomendable contar con pruebas biomecánicas que reproduzcan de alguna manera 
+la carga biomecánica profesional; esto es, pruebas isocinéticas o de fotogrametría con medición de 
+velocidades angulares de movimiento.
+La objetivación de una impotencia funcional del codo habitualmente rector de carácter moderado 
+o mayor es indicativa de incapacidad permanente total para actividades contempladas en el real 
+decreto como causantes de epitrocleítis. Un déficit funcional leve podría ser compatible con la adap-
+tación del puesto de trabajo.
+ENFERMEDAD PROFESIONAL
+Calificación de la epitrocleítis como enfermedad profesional:
+Enfermedades provocadas por posturas forzadas y movimientos repetitivos en el trabajo; enfer-
+medades por fatiga e inflamación de las vainas tendinosas, de tejidos peritendinosos e inserciones 
+musculares y tendinosas: Codo y antebrazo: epicondilitis y epitrocleítis.
+2D0201: “Trabajos que requieran movimientos de impacto o sacudidas, supinación o pronación 
+repetidas del brazo contra resistencia, así como movimientos de flexoextensión forzada 
+de la muñeca, como pueden ser: carniceros, pescaderos, curtidores, deportistas, mecá-
+nicos, chapistas, caldereros, albañiles.”
+Y además:
+• Confirmación de la enfermedad mediante exploración clínica y, si es posible, estudios funciona-
+les o de imagen.
+• Correspondencia del cuadro clínico con la exposición referida por el trabajador, analizada me-
+diante métodos de evaluación ergonómica, en lo que se refiere a la realización de movimien-
+
+10
+tos de impacto o sacudidas, supinación o pronación repetidas del brazo contra resistencia, así 
+como movimientos repetidos.
+• Correspondencia con los resultados de la evaluación ergonómica de la tarea desarrollada por el 
+trabajador o la trabajadora.
+• Mejoría o desaparición de los síntomas con el descanso y reaparición o agravamiento tras reem-
+prender el trabajo.
+• Ausencia de patología en la zona de causa no laboral.
+
+11
+ALGORITMO DE DECISIÓN
+Dolor cara lateral
+del codo
+Historia clínica y 
+antecedentes 
+personales
+Anamnesis
+Exploración
+Epitocreítis
+Historia laboral
+- 	 Declarar la Enferemedad Profesional a la 
+		 Entidad Gestora o Mutua (sistema CEPROSS)
+- 	 Adoptar medidas preventivas en las 	
+	
+	 empresa (ergonómicas, organizativas)
+	•  	Edad >40 o <20 años.
+	• 	 Obesidad.
+	• 	 Trabaquismo.
+	•	 Desequilibrio muscular, flexibilidad articular.
+	•  	Atrofia muscular, eritema y calor local,
+		
+inflamación sobre la zona epicondílea.
+	• 	 Punto máximo de dolor 5-10 mm anterior a 	
+	
+epitróclea.
+	• 	 Dolor a la pronación contra resistencia.
+	•	 Signo de Tinel y otros signos exploratorios.
+	 • 	Dolor mecánico e insidioso en la cara 	
+	
+lateral del codo, irradiado a lo largo 	
+	
+del trayecto muscular.
+	 •	 Intensidad creciente asociado a determi-	
+	 nados movimientos que cede con el calen-	
+	 tamiento.
+	 • 	Evoluciona a dolor en reposo limitando 	
+	 determinados movimientos de muñeca en 	
+	 extensión.
+Trabajos que requieren (entre otros)
+		 •	 Movimientos repetitivos de pronación 
+		 	 del antebrazo y flexión de la muñeca.
+		 • 	Movimientos de impacto o sacudidas
+		 	 supinación o pronación contra resistencia.
+		 • 	Flexión-extensión forzada de muñeca.
+Epitrocleítis de origen laboral:
+ENFERMEDAD PROFESIONAL
+2D0101
+Resultados de la 
+historia clínica y 
+Exploracion positivos
+Se confirma 
+exposición laboral
+Valorar deportes y 
+actividades extrala-
+borales (golf, lanza-
+miento…
+SÍ
+SÍ
+NO
+Epitrocleítis por
+Contingencia Común
+(Excepto en deportistas
+profesionales)
+
+12
+BIBLIOGRAFÍA
+• 
+Barco R, Antuña SA. Medial elbowpain. EFORT Open Rev. 2017 Aug 30; 2(8): 362-371. doi: 
+10.1302/2058-5241.2.160006. PMID: 28932488; PMCID: PMC5590003.
+• 
+Reece CL, Susmarski A. Medial Epicondylitis. 2020 Nov 13. In: StatPearls [Internet]. Treasure 
+Island (FL): Stat Pearls Publishing; 2021 Jan–. PMID: 32491792.
+• 
+Morrey BF, Sánchez-Sotelo J. THE ELBOW AND ITS DISORDER, fourth edition Elsevier Saun-
+ders, Chapter 45.
+• 
+OHN J. WILSON, M.D., and THOMAS M. BEST, M.D., PH.D. Common Overuse Tendon Pro-
+blems: A Review and Recommendations for Treatment, American Family Physician, Volume 72, 
+Number 5, September 1, 2005.
+• 
+Bruce Reider AP, MD. The orthopaedic physical examination, second edition, Elsevier Saunders 
+2005, Chapter 3.
+• 
+Nirschl RP. Prevention and treatment of elbow and shoulder injuries in the tennis player. Clin 
+Sports Med. 1988 Apr; 7(2): 289-308.
+• 
+Plancher KD, Halbrecht J, Lourie GM. Medial and lateral epicondylitis in the athlete. Clin Sports 
+Med.  1996;15: 283-305.
+• 
+Nirsch RP. Etiology of tennis elbow [letter]. J Sports Med. 1975; 3: 261-3. 
+• 
+Galloway M, DeMaio M, Mangine R. Rehabilitative techniques in the treatment of medial and 
+lateral epicondylitis. Orthopedics. 1992; 15: 1089-96.
+• 
+Nordander C, Ohlsson K, Akesson I, Arvidsson I, Balogh I, Hansson GA, et al. Risk of musculos-
+keletal disorders among females and males in repetitive/constrained work. Ergonomics. 2009; 
+52: 1226-39. 
+• 
+van Rijn RM, Huisstede BM, Koes BW, Burdorf A. Associations between work-related factors and 
+specific disorders at the elbow: a systematic literature review. Rheumatology (Oxford).  2009; 48: 
+528-36.
+• 
+Gabel GT, Morrey BF. Medial epicondylitis. In: Morrey BF, ed. The Elbow and Its Disorders. 3rd 
+ed. Philadelphia, Pa: WB Saunders Co; 2000: 537-42.
+• 
+Richard MJ, Aldridge JM 3rd, Wiesler ER, Ruch DS. Traumatic valgus instability of the elbow: 
+pathoanatomy and results of direct repair. Surgical technique. J Bone Joint Surg Am. 2009; 91 
+Suppl 2: 191-9. 
+• 
+Guillén C, Ortega M. (2008) ¿Es enfermedad profesional? Criterios para su clasificación. Pych& 
+Asociados, S.L.Cap. 6: 427-428.
+• 
+Schwab GH, Bennett JB, Woods GW, Tullos HS. Biomechanics of elbow instability: the role of 
+the medial collateral ligament. Clin OrthopRelat Res. 1980; 146: 42-52.
+
+13
+• 
+Miller TT. Imaging of elbow disorders. Orthop Clin North Am. 1999;30:21-36.
+• 
+Park GY, Lee SM, Lee MY. Diagnostic value of ultrasonography for clinical medial epicondylitis. 
+Arch Phys Med Rehabil. 2008; 89: 738-42.
+• 
+Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de 
+la Ley General de la Seguridad Social. BOE-A-2015-11724.
+• 
+Real Decreto 1299/2006, de 10 de noviembre, por el que se aprueba el cuadro de enfermeda-
+des profesionales en el sistema de la Seguridad Social y se establecen criterios para su notifica-
+ción y registro. BOE-A-2006-22169.
+• 
+Instituto Nacional de la Seguridad Social. Guía de Ayuda para la Valoración de las Enfermeda-
+des Profesionales (cuarta edición). NIPO: 122-21-003-5.
+• 
+Instituto Nacional de la Seguridad Social. Manual de Tiempos óptimos de Incapacidad Tempo-
+ral. 4ª edición. Madrid. 2018. NIPO: 271-17-089-X.
+
+14
+MEDIOS AUDIOVISUALES
+Vídeo 1: HGUCRresisCOT. Signo de Tinel [video en internet]. Youtube. [citado 16 de junio de 2022]. 
+Recuperado a partir de https://www.youtube.com/watch?v=fqrUTC0ZUJc.
+
+15
+TÍTULO
+Directrices para la decisión clínica en enfermedades profesionales. Trastornos musculoesquelé-
+ticos de origen profesional del Miembro Superior: Epitrocleítis.
+AUTOR
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P.
+ELABORADO POR
+Sociedad Española de Traumatología Laboral
+Dra. Lara Blasco Velázquez. Médico Especialista en CirugíaOrtopédica y Traumatología (C.O.T.). 
+EquipoQuirúrgicoMutua Universal. Hospital Nª Señora del Rosario. Madrid.
+REVISIÓN
+Instituto Nacional de la Seguridad Social (INSS)
+Dr. Carlos Matarrubia Prieto. Especialista en Medicina Física y Rehabilitación. Médico evaluador del 
+INSS (Dirección Provincial de Madrid).
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)
+Dr. Jesús Ledesma de Miguel. Licenciado en Medicina y Cirugía. Jefe Unidad Técnica de Formación 
+y Salud Laboral. Centro Nacional de Medios de Protección.
+Asociación Española de Especialista en Medicina del Trabajo (AEEMT)
+Dr. Guillermo Soriano Tarín. Especialista en Medicina del Trabajo. Coordinador del grupo funcional 
+de Promoción de la Salud de la AEEMT.
+COORDINACIÓN DE LA PUBLICACIÓN
+Escuela Nacional de Medicina del Trabajo del Instituto de Salud Carlos III (ENMT-ISCIII)
+Dra. Mª Jesús Terradillos García. Especialista en Medicina del Trabajo. Directora de la Escuela Nacio-
+nal de Medicina del Trabajo. Instituto de Salud Carlos III.
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)
+Dr. Jerónimo Maqueda Blasco. Especialista en Medicina del Trabajo. Director del Departamento 
+de Promoción de la Salud y Epidemiología Laboral. Instituto Nacional de Seguridad y Salud en el 
+Trabajo.
+
+16
+EDITA
+Instituto Nacional de Seguridad y Salud en el Trabajo (INSST), O.A., M.P.
+C/ Torrelaguna 73, 28027 Madrid
+Tel. 91 363 41 00, fax 91 363 43 27
+www.insst.es
+MAQUETACIÓN
+Servicio de Ediciones y Publicaciones del INSST 
+EDICIÓN
+Madrid, noviembre 2022
+NIPO (EN LÍNEA)
+118-22-047-9
+HIPERVÍNCULOS
+El INSST no es responsable ni garantiza la exactitud de la información en los sitios web que no son de 
+su propiedad. Asimismo la inclusión de un hipervínculo no implica aprobación por parte del INSST 
+del sitio web, del propietario del mismo o de cualquier contenido específico al que aquel redirija.
+Catálogo de publicaciones de la Administración General del Estado:
+http://cpage.mpr.gob.es 
+Catálogo de publicaciones del INSST :
+http://www.insst.es/catalogo-de-publicaciones
+Logotipo de datos abiertos
