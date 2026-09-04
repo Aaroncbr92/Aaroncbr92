@@ -1176,6 +1176,78 @@ en Documentación y en Producción (Asistencia).
       factores de riesgo y la prevención son los mismos. **El tema compartido queda en once redacciones
       para veintidós ocupaciones.**
 
+- [x] **Fase J: Medicina de Empresa, terminada el 2026-09-04.** **33 temas para un anexo de 33
+      puntos**, en correspondencia uno a uno. **201.508 palabras de tema y 33.687 de esquema**, con
+      una media de **6.106 por tema**: **es el volumen más largo del proyecto**. **578 páginas.**
+      **Sin examen publicado**, como Enfermería de Empresa, Ingeniería Técnica · Industrial y Técnica
+      de Equipos, Instalaciones y Sistemas Eléctricos: **el volumen se imprime sin apéndice de
+      respuestas y lo dice en la portada.** **No lleva el tema compartido de prevención**, y por la
+      misma razón que Enfermería: en esta ocupación la prevención no es un punto añadido, es la
+      materia entera.
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) El programa que manda estudiar una fuente que el proyecto no tenía.** El Anexo 2 de esta
+      ocupación **nombra el «protocolo de vigilancia sanitaria específica», con esas palabras, en once
+      de sus treinta y tres puntos**. No es una remisión de cortesía: **es la fuente que el programa
+      manda estudiar**, y sin ella la mitad clínica del temario no tiene documento detrás. **Se ha
+      creado `fuentes/protocolos-vigilancia/` con los veintiséis protocolos de la serie del Consejo
+      Interterritorial**, y este volumen usa diecisiete. **Con ese almacén se cierra una laguna que
+      Enfermería de Empresa había declarado tema tras tema**; aquellos temas siguen diciendo la verdad
+      de lo que hicieron —se escribieron sin los protocolos—: lo que ha cambiado es el proyecto.
+      **2) Dos almacenes de fuentes más, creados para este volumen.** `fuentes/ddc/`, con las diez
+      Directrices para la Decisión Clínica sobre trastornos musculoesqueléticos del miembro superior,
+      de 2022; y la ampliación de `fuentes/salud-laboral/`, que pasa a reunir **treinta y dos notas
+      técnicas y diecisiete documentos** del Instituto y del Ministerio de Sanidad.
+      **3) La primera vez que la lente de documento cierra un volumen con la cuenta de cifras
+      distinta de cero, y por qué eso NO es un fallo del temario.** Marca **diecinueve cifras**, y las
+      diecinueve son de tres clases estructurales: **once son el año de la fecha de corte** —el volcado
+      consolidado la escribe `20221221`, sin separadores—; **siete son el número corto de la propia
+      norma** —«Real Decreto 664/1997»—, que **un volcado consolidado nunca repite**, porque una norma
+      no se cita a sí misma por su número corto; y **una es una remisión a otro tema**. **Ninguna es un
+      dato tomado de una fuente**, y quedan explicadas una a una en el informe de refutación.
+      **Corregirlas significaría dejar de poner en negrita el identificador de la norma**, que es
+      justamente lo que un opositor tiene que memorizar. **Se anota como límite de la lente.**
+      **4) Los restos de copia entre documentos hermanos, que salen en serie.** De los veinticuatro
+      hallazgos en fuentes, **seis son un documento que habla de otro**: el protocolo de posturas
+      forzadas que nombra al de cargas, **el del adenocarcinoma que escribe «el colectivo expuesto al
+      RUIDO en el trabajo»**, la directriz de vibraciones que encabeza su tabla con el título de la
+      del nervio cubital. **La regla que queda**: los protocolos y las directrices se escriben en serie
+      sobre una plantilla común, y **la sección que menos se reescribe es la de vigilancia colectiva**.
+      Quien lea uno de estos documentos debe sospechar de esa sección.
+      **5) Dos erratas en una norma vigente, en el renglón que hay que citar.** El cuadro de
+      enfermedades profesionales, **en la línea misma de la sordera, escribe «Sordera profesionales de
+      tipo neurosensorial» y «bilaterial simétrica e irreversible»**. Comprobadas contra la página de
+      legislación consolidada del propio Boletín: **son de la norma y no del volcado**. Y del mismo
+      cuadro, **el agente del nistagmus de los mineros va rotulado con la letra M y su código es
+      2N0101**, con ene.
+      **6) Una fecha que cambia la respuesta, y hay que darla con las dos cifras.** El valor límite del
+      polvo de maderas duras es de **2 mg/m³**, pero con una medida transitoria de **3 mg/m³ hasta el
+      17 de enero de 2023**: **a la fecha de corte regía el transitorio**. **La respuesta completa dice
+      las dos cifras y la fecha que las separa**, no la que rige hoy.
+      **7) Un artículo del texto consolidado que NO está en aplicación.** El artículo 194 de la Ley
+      General de la Seguridad Social, que define los grados de incapacidad permanente, **está
+      desplazado por una disposición transitoria de la propia ley** hasta un reglamento que a la fecha
+      de corte no existía. **Quien lo estudie tal como aparece en el consolidado se equivoca de
+      definiciones.** **La regla que queda**: un texto consolidado muestra la redacción vigente, no
+      necesariamente la aplicable.
+      **8) Una inconsistencia entre dos temas del mismo volumen, encontrada al escribir los esquemas y
+      no por ninguna lente.** El tema 7 contó **nueve** elementos en el botiquín del anexo VI del Real
+      Decreto 486/1997 y el tema 11 había contado **diez**, porque la primera entrada agrupa dos
+      productos en un renglón separado por comas. **Se resolvió en nueve y la razón quedó escrita
+      dentro del tema 11**, para quien cuente diez. **Ninguna de las cinco lentes compara dos temas
+      entre sí**: eso lo hace escribir el esquema.
+      **9) 663 remisiones internas, la cifra más alta del proyecto, y ninguna apunta mal.** Se explica
+      por cómo está construido el temario: **el artículo 25 de la Ley 31/1995 aparece en nueve temas,
+      el cuadro de enfermedades profesionales en once y el régimen de cancerígenos en seis**, y cada
+      aparición remite al tema donde ese material se desarrolla en lugar de repetirlo.
+      **10) La frontera del oficio, escrita once veces.** Éste es el temario de una profesión médica y
+      su programa pide diagnóstico, tratamiento y valoración clínica. **En once temas la tabla de
+      lagunas dice «el tratamiento, no consultado: este tema da lo que compete al servicio de
+      prevención».** No es una evasiva: **es la frontera del oficio, declarada**. Y donde no hay fuente
+      volcada —los tipos de marcha anormal, las lesiones oculares mecánicas, el síndrome psicótico, el
+      consenso sobre fatiga crónica— **el tema dice qué no da y dónde está, en lugar de rellenarlo con
+      oficio plausible.**
+
 ## Qué comprobación pasa por qué material
 
 El apartado 10 del manual: un hueco de cobertura no da error, así que se

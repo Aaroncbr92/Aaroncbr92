@@ -24,6 +24,59 @@ La legislación va donde va siempre: volcada con `herramientas/boe.py` a
 | `sanidad-inclasns-fichas-tecnicas.pdf` / `.txt` | **Fichas técnicas de los «Indicadores clave del Sistema Nacional de Salud»**, del mismo Ministerio | sin fecha impresa | Tema 12: las fórmulas de los indicadores, con numerador, denominador y constante |
 | `ntp-1211.pdf` / `.txt` | **NTP 1211: Estadísticas de accidentabilidad en la empresa**, del INSST; declara sustituir a las NTP 1, 2 y 236 | **2024** | Tema 13: los cuatro índices de siniestralidad y el método de las líneas límite |
 | `insst-tema-22-epidemiologia-laboral.pdf` / `.txt` | **INSST, temas específicos del proceso selectivo de la Escala de Titulados Superiores, parte 1, tema 22: «Epidemiología laboral»** | **versión de enero de 2026** | Tema 14: cubre casi rúbrica por rúbrica la primera mitad del enunciado |
+| `ntp-243`, `ntp-288`, `ntp-289`, `ntp-380`, `ntp-431`, `ntp-607` | La serie de **ambiente interior y síndrome del edificio enfermo** del Centro Nacional de Condiciones de Trabajo | 1987, dos sin año legible, 1993, 1994 y 2001 | Tema 11 de Medicina de Empresa: el concepto, el umbral del veinte por ciento y los contaminantes del aire interior |
+| `ntp-242`, `ntp-387`, `ntp-602` | **Ergonomía de la oficina y del puesto con pantalla** | 1989, 1995 y 2001 | Tema 14 de Medicina de Empresa: la función de la ergonomía y los tres grupos de factores del análisis en oficinas |
+| `ntp-177`, `ntp-295` | **Carga física de trabajo** y **valoración del riesgo dorsolumbar** | 1986 y 1992 | Tema 15 de Medicina de Empresa: trabajo estático y dinámico, y el consumo metabólico |
+| `ntp-179`, `ntp-275`, `ntp-318`, `ntp-349`, `ntp-355`, `ntp-502`, `ntp-534`, `ntp-544` | La serie de **carga mental, estrés y trabajo a turnos** | de 1986 a 2000 | Tema 16 de Medicina de Empresa: las definiciones de carga mental, el síndrome general de adaptación y los factores del trabajo nocturno |
+| `ntp-322`, `ntp-462` | **Vibraciones mano-brazo** y **estrés térmico** | 1993 y 1997 | Tema 25 de Medicina de Empresa: el síndrome de vibración y los tres índices del ambiente térmico |
+| `ntp-1149.pdf` / `.txt` | **NTP 1149: Voz y trabajo: procedimiento preventivo**, del INSST | **2020** | Tema 30 de Medicina de Empresa: la crítica al cuadro por reconocer sólo los nódulos, y las medidas en tres niveles |
+| `ntp-246.pdf` / `.txt` | **NTP 246: Intoxicaciones agudas: primeros auxilios** | 1989 | Tema 32 de Medicina de Empresa: las seis reglas de la conducta ante la lesión ocular química |
+| `ntp-489.pdf` / `.txt` | **NTP 489: Violencia en el lugar de trabajo** | **1998** | Tema 33 de Medicina de Empresa: los tres tipos de violencia y las medidas del entorno |
+| `ntp-507.pdf` / `.txt` | **NTP 507: Acoso sexual en el trabajo** | **1997** | Tema 33: los dos tipos básicos y la clave del clima organizacional |
+| `ntp-705.pdf` / `.txt` | **NTP 705: Síndrome de estar quemado por el trabajo (II): consecuencias, evaluación y prevención** | **2005** | Tema 33: los cinco grupos de consecuencias y los tres niveles de intervención |
+| `insst-guia-radiaciones-opticas.pdf` / `.txt` | **«Guía técnica para la evaluación y prevención de los riesgos relacionados con las radiaciones ópticas artificiales»**, del INSST | **2015** | Tema 32 de Medicina de Empresa: el reparto de absorción por tejidos del ojo, los dos mecanismos de daño y el trabajador afáquico |
+| `irsst-lipoatrofia.pdf` / `.txt` | Protocolo del **Instituto Regional de Seguridad y Salud en el Trabajo** (**IRSST**) de la Comunidad de Madrid **sobre la lipoatrofia semicircular** | sin fecha impresa | Tema 28 de Medicina de Empresa: la definición, las dos hipótesis etiológicas y la notificación como accidente de trabajo |
+| `sanidad-fibromialgia.pdf` / `.txt` | **«Fibromialgia»**, Ministerio de Sanidad, Política Social e Igualdad | **2011** | Tema 28: las cifras de prevalencia, los criterios de 1990 y de 2010 y el impacto laboral |
+| `sanidad-sqm-consenso.pdf` / `.txt` / `.ocr.txt` | **«Documento de consenso. Sensibilidad Química Múltiple»**, del mismo Ministerio | **30 de noviembre de 2011** | Tema 28: los seis criterios del Consenso Internacional y la definición de caso española |
+| `sanidad-procedimiento-sars-cov-2.pdf` / `.txt` | **«Procedimiento de actuación para los servicios de prevención de riesgos laborales frente a la exposición al coronavirus del síndrome respiratorio agudo grave de tipo 2 (**SARS-CoV-2**)»**, del Ministerio de Sanidad | revisión de **6 de junio de 2022** | Tema 22 de Medicina de Empresa: la vigilancia de la salud y el trabajador especialmente sensible |
+| `sns-gpc-ansiedad.pdf` / `.txt` | **«Guía de Práctica Clínica para el Manejo de Pacientes con Trastornos de Ansiedad en Atención Primaria»**, Plan Nacional para el Sistema Nacional de Salud (**SNS**), Agencia Laín Entralgo | **2008** | Tema 33 de Medicina de Empresa: la definición, la etiología y las manifestaciones clínicas |
+| `sns-gpc-depresion-adulto.pdf` / `.txt` | **«Guía de Práctica Clínica sobre el Manejo de la Depresión en el Adulto»**, Ministerio de Sanidad y Agencia de Evaluación de Tecnologías Sanitarias de Galicia | **2014** | Tema 33: los factores de riesgo, los criterios de gravedad y la repercusión laboral |
+| `insst-gana-en-salud-adicciones.pdf` / `.txt` | **«Gana en salud», tema 5, «Adicciones»**, material de campaña de promoción de la salud del INSST | posterior al corte | Tema 17 de Medicina de Empresa: se usa para el encuadre y se declara su fecha |
+| `ntp-443`, `ntp-447` | **Factores psicosociales** y **actuación frente a agentes biológicos** | 1997 y 1997 | Fuentes auxiliares del bloque de Medicina de Empresa |
+
+## Lo que este almacén ganó con Medicina de Empresa
+
+**El volumen de Medicina de Empresa multiplicó este almacén.** Su programa nombra por su nombre
+documentos que no son legislación en la mayoría de sus treinta y tres puntos, y para escribirlo hubo
+que bajar **treinta y dos notas técnicas de prevención y diecisiete documentos del Instituto y del
+Ministerio de Sanidad**, además de crear otros dos almacenes: `fuentes/protocolos-vigilancia/`, con
+los veintiséis protocolos del Consejo Interterritorial, y `fuentes/ddc/`, con las diez Directrices
+para la Decisión Clínica sobre trastornos musculoesqueléticos del miembro superior.
+
+**Cinco hallazgos nuevos de esta tanda**, todos comprobados a ojo sobre la página y declarados en el
+tema donde aparecen:
+
+- **`ntp-288` y `ntp-289`** llevan impreso en su pie **«Año: 197/»**: una fecha truncada. Es el dato
+  que la propia nota da como referencia para valorar su vigencia.
+- **`ntp-705`** escribe «de un modo realmente preventivos» y «propios des mismo»; y **el volcado de
+  varias notas de esa serie devuelve el signo de admiración invertido en lugar de la ele final**
+  —«relaciona¡», «grupa¡»—, porque el archivo mapea así ese carácter.
+- **`ntp-1149`** escribe «Obervatorio», «trabajdores» y «sobe».
+- **`ntp-489`** es de 1998 y **cita dos leyes derogadas** en su apartado de legislación: la Ley
+  Orgánica 1/1992 y la Ley 23/1992 de Seguridad Privada.
+- **`sns-gpc-ansiedad`** lleva impresa en sus propias páginas la advertencia de que **han transcurrido
+  más de cinco años desde su publicación y está pendiente de actualización**. Sigue siendo la guía
+  vigente del Sistema Nacional de Salud a la fecha de corte, y el tema la usa para el concepto y la
+  clasificación, no para el tratamiento.
+
+**Y una trampa de extracción que conviene conocer**: la **página 59 de
+`sanidad-sqm-consenso.pdf`** —que contiene los apartados 5 y 6 de las conclusiones, anamnesis y
+exploración física— **va en el archivo como imagen y no tiene capa de texto**. Una extracción
+automática se salta esos dos apartados enteros y hace creer que el consenso pasa del apartado 4 al 7.
+**No es así.** Se han reconocido ópticamente con `tesseract -l spa --psm 6` sobre un render a 400
+puntos por pulgada y se han corregido a mano tres errores del reconocedor contra la imagen de la
+página. **El reconocimiento va en `sanidad-sqm-consenso.ocr.txt`, aparte del volcado, y lo dice en su
+cabecera.**
 
 ## Diez avisos
 
