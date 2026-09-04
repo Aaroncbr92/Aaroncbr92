@@ -61,7 +61,7 @@ audiovisual.
 **Artículo 87**, «Autores»:
 
 > «Son autores de la obra audiovisual […]: **1.** El director-realizador. **2.** Los autores del
-> argumento, la adaptación y **los del guion o los diálogos**. **3.** Los autores de las
+> argumento, la adaptación y **los del guión o los diálogos**. **3.** Los autores de las
 > composiciones musicales […] creadas especialmente para esta obra.»
 
 Esto **no contesta ninguna de las seis preguntas**, y el tema no finge lo contrario. Sirve para dos
@@ -256,7 +256,7 @@ el **modelo americano**, de columna única, que es el contrario del europeo.
 
 - **Texto refundido de la Ley de Propiedad Intelectual**, `BOE-A-1996-8930`, leído en su texto
   consolidado **a 21 de diciembre de 2022**, **artículo 87**: los autores de la obra audiovisual,
-  entre ellos **los del guion o los diálogos**. Es **el único apoyo normativo del tema**, y **no
+  entre ellos **los del guión o los diálogos**. Es **el único apoyo normativo del tema**, y **no
   contesta ninguna pregunta**.
 
 **Lo que este tema no puede sostener, y por eso lo dice:**
