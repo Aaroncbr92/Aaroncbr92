@@ -1,5 +1,19 @@
 # Tema 19 del específico de Ingeniería Superior · Telecomunicación · Producción audiovisual sobre infraestructura de red
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 21 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma del boletín.** Su materia son las normas técnicas de producción sobre red, **tras muro de pago**, así que **va como oficio**; de ellas **sólo se recoge lo que la plantilla confirma** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Punto más preguntado** | **Once de las ochenta y seis del específico.** Es la transformación técnica que está en curso en todas las casas de televisión y sobre la que se está contratando |
+| **Extensión** | **3.599 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el protocolo de internet (**IP**); la
 sociedad de ingenieros de cine y televisión (**SMPTE**) y sus normas de la serie **ST**; la interfaz
 digital serie (**SDI**) y su versión de alta definición (**HD-SDI**); el protocolo de transporte en
@@ -25,6 +39,18 @@ quién hay y decidir quién habla con quién— existe porque al quitar el cable
 reconstruir con protocolos lo que el cable daba gratis.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué se pierde y qué se gana al dejar el cable dedicado](#1-qué-se-pierde-y-qué-se-gana-al-dejar-el-cable-dedicado)
+- [2. La primera respuesta: encapsular lo que ya había](#2-la-primera-respuesta-encapsular-lo-que-ya-había)
+- [3. La segunda respuesta: separar las esencias](#3-la-segunda-respuesta-separar-las-esencias)
+- [4. El transporte: cómo viaja un flujo de medios por la red](#4-el-transporte-cómo-viaja-un-flujo-de-medios-por-la-red)
+- [5. El ancho de banda: la comparación que se pregunta](#5-el-ancho-de-banda-la-comparación-que-se-pregunta)
+- [6. La sincronización: el reloj repartido por la red](#6-la-sincronización-el-reloj-repartido-por-la-red)
+- [7. El control: descubrir, conectar y avisar](#7-el-control-descubrir-conectar-y-avisar)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué se pierde y qué se gana al dejar el cable dedicado

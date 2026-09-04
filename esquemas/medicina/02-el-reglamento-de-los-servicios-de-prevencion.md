@@ -3,6 +3,19 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Integración (art. 1)](#integración-art-1)
+- [Los tres documentos](#los-tres-documentos)
+- [Evaluación (arts. 3 a 7)](#evaluación-arts-3-a-7)
+- [Planificación (arts. 8 y 9)](#planificación-arts-8-y-9)
+- [Las cuatro modalidades (art. 10)](#las-cuatro-modalidades-art-10)
+- [Acreditación, concierto y auditoría](#acreditación-concierto-y-auditoría)
+- [Consulta y participación (Ley 31/1995, arts. 33 a 40)](#consulta-y-participación-ley-311995-arts-33-a-40)
+- [Mutuas colaboradoras](#mutuas-colaboradoras)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Integración (art. 1)

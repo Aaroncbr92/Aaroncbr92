@@ -1,5 +1,19 @@
 # Tema 14 del específico de Técnica de Equipos y Sistemas Electrónicos · Medidas de la señal de vídeo, audio y radiofrecuencia
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 16 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son las medidas de vídeo, audio y radiofrecuencia, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **SIETE de sus NUEVE preguntas dependen de una figura: la proporción más alta de los diecisiete temas de esta ocupación.** El temario no ha visto ninguna y no describe ninguna: **da la regla de la familia de cada una** y atribuye la respuesta a la plantilla |
+| **Extensión** | **4.200 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el monitor de forma de onda (**WFM**, *waveform
 monitor*); la luminancia y las dos diferencias de color en componentes analógicas (**YPbPr**) y en
 componentes digitales (**YCbCr**, de donde salen las **Cr** y **Cb** que una opción nombra); los tres

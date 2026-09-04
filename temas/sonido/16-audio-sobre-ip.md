@@ -1,5 +1,19 @@
 # Tema 16 del específico de Sonido · El audio sobre redes de datos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 14 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el audio sobre redes, y **va entera como oficio**: el texto de la norma AES67 **está tras un muro de pago y no se ha leído** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Dos respuestas descansan en la plantilla**: la frecuencia máxima de muestreo de AES67, cuyo texto no se ha consultado, y el número de flujos de un envío unicast, que es dato de implementación del fabricante |
+| **Extensión** | **2.647 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el protocolo de internet (**IP**); el protocolo de
 control de transmisión (**TCP**) y el de datagramas de usuario (**UDP**); la norma de audio en red de
 la Sociedad de Ingeniería de Audio (**AES67**); el sistema **Dante** de la casa Audinate, cuyo nombre

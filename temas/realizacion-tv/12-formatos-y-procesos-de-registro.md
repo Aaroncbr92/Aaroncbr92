@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma se cita en este tema** |
 | **Sólo con la plantilla** | **Dos afirmaciones**: **el conector de la fotografía**, que depende de una imagen —el tema aporta cómo se reconoce cada familia de conector—, y **las cifras de ancho de banda del DVB-T2**, que **el temario no ha podido contrastar en la norma del ETSI** |
-| **Extensión** | **5.018 palabras** |
+| **Extensión** | **5.023 palabras** |
 
 <!-- /portada -->
 

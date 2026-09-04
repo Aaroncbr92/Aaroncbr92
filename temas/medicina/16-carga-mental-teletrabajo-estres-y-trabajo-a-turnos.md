@@ -1,5 +1,18 @@
 # Tema 16 del específico de Medicina de Empresa · Carga mental, teletrabajo, estrés y trabajo a turnos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 16 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ley 10/2021**, de 9 de julio, de trabajo a distancia, y **texto refundido de la Ley del Estatuto de los Trabajadores**, con las **notas técnicas 179, 275, 318, 349, 355, 502, 534 y 544** |
+| **Identificador** | `BOE-A-2021-11472` · `BOE-A-2015-11430` · **NTP 179, 275, 318, 349, 355, 502, 534 y 544** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **7.122 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Estatuto de los Trabajadores (**ET**); el Instituto Nacional de Seguridad y Salud en el
@@ -26,6 +39,19 @@ NO tienen norma propia y se apoyan íntegramente en las notas técnicas del Inst
 se declara de entrada y ordena el tema.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La carga mental: concepto](#1-la-carga-mental-concepto)
+- [2. Los factores determinantes de la carga mental](#2-los-factores-determinantes-de-la-carga-mental)
+- [3. Las repercusiones sobre la salud: la fatiga mental](#3-las-repercusiones-sobre-la-salud-la-fatiga-mental)
+- [4. La evaluación de la carga mental](#4-la-evaluación-de-la-carga-mental)
+- [5. El teletrabajo y su problemática](#5-el-teletrabajo-y-su-problemática)
+- [6. El estrés en el medio laboral](#6-el-estrés-en-el-medio-laboral)
+- [7. Ritmos biológicos y trabajo nocturno y a turnos](#7-ritmos-biológicos-y-trabajo-nocturno-y-a-turnos)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La carga mental: concepto

@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
 | **Sólo con la plantilla** | **Dos afirmaciones**: **la lectura de un panel de mezcla**, que depende de una imagen —el tema aporta las tres comprobaciones de una configuración estéreo—, y **el uso del término *buzz track***, que **tiene al menos dos sentidos documentados y el temario declara los dos** |
-| **Extensión** | **4.839 palabras** |
+| **Extensión** | **4.850 palabras** |
 
 <!-- /portada -->
 

@@ -6,12 +6,11 @@
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 20 |
 | **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
-| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 26 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Sin norma: no la hay.** Su materia es la práctica de un proyecto de instalación, y **va entero como oficio** |
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
-| **Punto a cero** | **Es el punto que mejor describe lo que hace de verdad esta ocupación** —un ingeniero de telecomunicación en una televisión no opera equipos, los implanta— **y no ha dado ni una pregunta** |
-| **Extensión** | **1.572 palabras** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es, palabra por palabra, el punto 26 del anexo de Ingeniería Superior · Telecomunicación**, así que **el tema se comparte y sirve a las dos ocupaciones** |
+| **Extensión** | **1.628 palabras** |
 
 <!-- /portada -->
 

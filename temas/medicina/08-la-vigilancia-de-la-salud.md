@@ -1,5 +1,18 @@
 # Tema 8 del específico de Medicina de Empresa · La vigilancia de la salud
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 8 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ley 31/1995**, **Real Decreto 39/1997** y **Real Decreto 843/2011** para la vigilancia de la salud, con el **protocolo de manipulación manual de cargas** del Consejo Interterritorial |
+| **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` · `BOE-A-2011-11428` · Protocolo del Consejo Interterritorial |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **4.521 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Sistema Nacional de Salud (**SNS**); el Consejo Interterritorial del Sistema Nacional de
@@ -20,6 +33,20 @@ protocolos de vigilancia sanitaria específica— es la que da fuente a once pun
 **Aquí se explica qué son, quién los aprueba y cómo están hechos; en los temas clínicos se usan.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Concepto y base legal](#1-concepto-y-base-legal)
+- [2. Objetivos y las dos vertientes](#2-objetivos-y-las-dos-vertientes)
+- [3. Los exámenes de salud y sus tres momentos](#3-los-exámenes-de-salud-y-sus-tres-momentos)
+- [4. Los protocolos de vigilancia sanitaria específica](#4-los-protocolos-de-vigilancia-sanitaria-específica)
+- [5. La valoración de la aptitud](#5-la-valoración-de-la-aptitud)
+- [6. El historial clínico-laboral](#6-el-historial-clínico-laboral)
+- [7. Custodia, conservación y confidencialidad](#7-custodia-conservación-y-confidencialidad)
+- [8. Qué hace la medicina del trabajo](#8-qué-hace-la-medicina-del-trabajo)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Concepto y base legal

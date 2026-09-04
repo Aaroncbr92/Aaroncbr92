@@ -1,5 +1,18 @@
 # Tema 4 del específico de Sonido · Acústica arquitectónica
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 2 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la acústica de salas, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **1.657 palabras** |
+
+<!-- /portada -->
+
 Los términos de este tema, presentados de entrada: el tiempo de reverberación, que se mide como la
 caída de sesenta decibelios (**RT60** o **T60**); el coeficiente de absorción (**α**); los modos
 propios de una sala o modos de Eigen; las curvas de criterio de ruido de fondo (**NC** y **NR**), que

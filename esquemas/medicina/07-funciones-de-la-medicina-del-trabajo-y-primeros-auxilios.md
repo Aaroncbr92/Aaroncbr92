@@ -3,6 +3,16 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [La medicina del trabajo como disciplina](#la-medicina-del-trabajo-como-disciplina)
+- [El Real Decreto 843/2011](#el-real-decreto-8432011)
+- [Primeros auxilios: la norma](#primeros-auxilios-la-norma)
+- [Actuación y soporte vital básico](#actuación-y-soporte-vital-básico)
+- [Formación](#formación)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## La medicina del trabajo como disciplina

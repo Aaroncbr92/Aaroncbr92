@@ -1,5 +1,19 @@
 # Tema 26 del específico de Medicina de Empresa · Patología profesional dermatológica
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 26 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ninguna norma se cita literalmente.** La fuente es el **protocolo de vigilancia sanitaria específica de dermatosis laborales** del Consejo Interterritorial |
+| **Identificador** | Protocolo del Consejo Interterritorial |
+| **Redacción que se estudia** | Los documentos técnicos y protocolos, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **El protocolo llama «aferente» a las dos fases del mecanismo inmunológico** de la dermatitis alérgica, cuando la segunda es la eferente. Se cita con la grafía del documento y se advierte |
+| **Extensión** | **4.830 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; la dermatitis de contacto alérgica (**DCA**) y la dermatitis de contacto irritativa (**DCI**),
@@ -24,6 +38,18 @@ protocolo genérico más una colección de guías por agente y por enfermedad, y
 la respuesta a la estructura del enunciado.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El protocolo y su arquitectura](#1-el-protocolo-y-su-arquitectura)
+- [2. La dermatitis de contacto alérgica](#2-la-dermatitis-de-contacto-alérgica)
+- [3. La dermatitis de contacto irritativa](#3-la-dermatitis-de-contacto-irritativa)
+- [4. Los principales sensibilizantes](#4-los-principales-sensibilizantes)
+- [5. Los criterios de valoración y la vigilancia de la salud](#5-los-criterios-de-valoración-y-la-vigilancia-de-la-salud)
+- [6. Una advertencia sobre la fuente](#6-una-advertencia-sobre-la-fuente)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El protocolo y su arquitectura

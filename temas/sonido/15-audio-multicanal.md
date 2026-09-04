@@ -1,5 +1,19 @@
 # Tema 15 del específico de Sonido · Audio multicanal
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 13 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los formatos envolventes y por objetos, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **El tamaño máximo del bed en Dolby Atmos es una cifra de especificación de un producto comercial**, y **el temario declara que no ha consultado esa especificación.** La respuesta descansa en la plantilla |
+| **Extensión** | **1.897 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: el canal de efectos de baja frecuencia
 (**LFE**, *low-frequency effects*), que es el «punto uno» de todos los formatos; la codificación
 **Dolby E** para transporte en producción; el audio basado en objetos y su cama de canales fijos

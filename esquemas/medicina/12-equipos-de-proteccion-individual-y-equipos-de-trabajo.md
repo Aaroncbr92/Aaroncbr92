@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [La advertencia de método](#la-advertencia-de-método)
+- [Concepto (RD 773/1997, art. 2)](#concepto-rd-7731997-art-2)
+- [Cuándo se recurre a él (art. 4)](#cuándo-se-recurre-a-él-art-4)
+- [Condiciones que debe reunir (art. 5)](#condiciones-que-debe-reunir-art-5)
+- [Elección, uso y mantenimiento](#elección-uso-y-mantenimiento)
+- [Equipos de trabajo (RD 1215/1997)](#equipos-de-trabajo-rd-12151997)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## La advertencia de método

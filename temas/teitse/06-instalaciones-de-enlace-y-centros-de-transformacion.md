@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se cita **el apartado 1.1 de la ITC-BT-12** |
 | **Aviso de estudio** | **El enunciado junta dos cosas que están en DOS REGLAMENTOS DISTINTOS**: el enlace en el de baja tensión y el centro de transformación en el de alta, que aquí se nombra y no se cita |
-| **Extensión** | **2.542 palabras** |
+| **Extensión** | **2.545 palabras** |
 
 <!-- /portada -->
 

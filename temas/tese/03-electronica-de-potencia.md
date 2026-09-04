@@ -1,5 +1,19 @@
 # Tema 3 del específico de Técnica de Equipos y Sistemas Electrónicos · Electrónica de potencia
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 3 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los semiconductores de potencia, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Dos de las cuatro preguntas dependen de una figura.** El temario declara cada una y aporta la regla de su familia: cómo se reconoce una autopolarización por fuente y cómo se calcula el rendimiento de un regulador lineal |
+| **Extensión** | **1.818 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el rectificador controlado de silicio o tiristor
 (**SCR**, *silicon controlled rectifier*); el triodo para corriente alterna (**TRIAC**); el diodo para
 corriente alterna (**DIAC**); el transistor bipolar de puerta aislada (**IGBT**, *insulated-gate

@@ -1,5 +1,19 @@
 # Tema 5 del específico de Sonido · Micrófonos, soportes y accesorios
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 3 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la electroacústica de captación, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Una pregunta es memoria de catálogo** —qué modelo concreto se escoge para sonorizar un bombo de batería— y **su respuesta descansa en la plantilla oficial.** El tema aporta en su lugar **la regla de la familia**: dinámico, de gran diafragma, con graves realzados y capaz de aguantar presiones muy altas |
+| **Extensión** | **2.595 palabras** |
+
+<!-- /portada -->
+
 Los términos de este tema, presentados de entrada: el diagrama polar o patrón de directividad; el
 efecto de proximidad; la alimentación fantasma (*phantom*) de 48 voltios; el sonido ambisónico de
 primer orden y su formato de cuatro señales (**formato A** y **formato B**); la disposición

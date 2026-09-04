@@ -1,5 +1,19 @@
 # Tema 1 del específico de Técnica de Equipos y Sistemas Electrónicos · Conceptos básicos de electricidad
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 1 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Real Decreto 2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida** |
+| **Identificador** | `BOE-A-2010-927` · BOE núm. 21, de 24/01/2010 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **celda a celda** las filas del cuadro de unidades derivadas que definen el voltio, el ohmio y el faradio |
+| **Sólo con la plantilla** | **Dos preguntas dependen de un esquema de circuito** que un temario escrito no puede reproducir. **El temario no los describe**: da la regla de la familia —ley de Ohm y leyes de nudos y mallas— y declara que la respuesta descansa en la plantilla |
+| **Extensión** | **2.175 palabras** |
+
+<!-- /portada -->
+
 Las siglas y unidades de este tema, presentadas de entrada: la corriente continua (**CC**, o **DC**) y
 la alterna (**CA**, o **AC**); el voltio (**V**), el amperio (**A**), el ohmio (**Ω**), el vatio
 (**W**), el voltamperio (**VA**) y el voltamperio reactivo (**var**); el henrio (**H**) y el faradio

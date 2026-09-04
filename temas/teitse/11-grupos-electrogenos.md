@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. **Ninguna cita literal propia**: lo que se afirma del reglamento está citado en los temas 8 y 10, con su apartado identificado |
 | **La coletilla del enunciado** | **«Condiciones de trabajo»**, no «características» ni «tipos». **Un grupo da AUTONOMÍA y no da CONTINUIDAD**: tarda en arrancar, y ese hueco lo cubre el tema 12 |
-| **Extensión** | **2.915 palabras** |
+| **Extensión** | **2.918 palabras** |
 
 <!-- /portada -->
 

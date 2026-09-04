@@ -1,5 +1,18 @@
 # Tema 13 del específico de Sonido · Radiofrecuencia
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 11 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son las bandas, las modulaciones y la microfonía inalámbrica, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **1.911 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: la modulación de frecuencia (**FM**), la
 de amplitud (**AM**) y la de fase (**PM**); la radiofrecuencia en general (**RF**); la difusión de audio digital (**DAB**) y su versión actual (**DAB+**); el
 sistema de datos por radio (**RDS**, *radio data system*); la corrección de errores hacia adelante y,

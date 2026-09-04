@@ -1,5 +1,18 @@
 # Tema 27 del específico de Medicina de Empresa · Neuropatías por presión y patología por movimientos repetidos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 27 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ninguna norma se cita literalmente.** Las fuentes son los **protocolos de neuropatías por presión y de movimientos repetidos** del Consejo Interterritorial |
+| **Identificador** | Protocolos del Consejo Interterritorial |
+| **Redacción que se estudia** | Los documentos técnicos y protocolos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **5.044 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Sistema Nacional de Salud (**SNS**); y la Corporación de Radio y Televisión Española
@@ -27,6 +40,18 @@ por presión y traumatismo acumulativo por movimiento repetido, y aparece en los
 que los separa es la mirada: uno mira el nervio, el otro mira el tendón y el músculo.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las neuropatías por presión: concepto y ámbito](#1-las-neuropatías-por-presión-concepto-y-ámbito)
+- [2. Las fuentes de exposición, por nervio](#2-las-fuentes-de-exposición-por-nervio)
+- [3. Las tres neuropatías: criterios de aplicación](#3-las-tres-neuropatías-criterios-de-aplicación)
+- [4. Los movimientos repetidos: concepto y etiopatogenia](#4-los-movimientos-repetidos-concepto-y-etiopatogenia)
+- [5. Los cuadros por movimientos repetidos](#5-los-cuadros-por-movimientos-repetidos)
+- [6. La evaluación del riesgo y la vigilancia de la salud](#6-la-evaluación-del-riesgo-y-la-vigilancia-de-la-salud)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las neuropatías por presión: concepto y ámbito

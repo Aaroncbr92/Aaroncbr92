@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Tres bloques y tres clases de fuente](#tres-bloques-y-tres-clases-de-fuente)
+- [Las tres bases legales de la adaptación ergonómica](#las-tres-bases-legales-de-la-adaptación-ergonómica)
+- [El puesto y su valoración](#el-puesto-y-su-valoración)
+- [El Real Decreto 488/1997](#el-real-decreto-4881997)
+- [El protocolo de pantallas](#el-protocolo-de-pantallas)
+- [Tres hallazgos de las fuentes](#tres-hallazgos-de-las-fuentes)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Tres bloques y tres clases de fuente

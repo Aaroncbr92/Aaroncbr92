@@ -1,5 +1,19 @@
 # Tema 18 del específico de Ingeniería Superior · Telecomunicación · Almacenamiento de datos y servidores
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 20 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el almacenamiento, la redundancia y los servidores, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **La idea que lo ordena** | **El almacenamiento de una televisión no se dimensiona por lo que cabe, sino por lo que SALE POR SEGUNDO sin fallar ni una vez** |
+| **Extensión** | **3.783 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el bit y el byte (**B**), con los
 múltiplos decimales kilobyte (**kB**), megabyte (**MB**), gigabyte (**GB**), terabyte (**TB**) y
 petabyte (**PB**) y los binarios kibibyte (**KiB**), mebibyte (**MiB**), gibibyte (**GiB**) y tebibyte
@@ -26,6 +40,18 @@ archivo y se atasca medio segundo durante una emisión es un disco inservible.**
 tolerancia a fallo son tres exigencias distintas y se resuelven con piezas distintas.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las unidades: lo que se cuenta antes de comprar nada](#1-las-unidades-lo-que-se-cuenta-antes-de-comprar-nada)
+- [2. Los sistemas: de qué está hecho el almacenamiento](#2-los-sistemas-de-qué-está-hecho-el-almacenamiento)
+- [3. La cinta y las bibliotecas: el archivo](#3-la-cinta-y-las-bibliotecas-el-archivo)
+- [4. La redundancia: los conjuntos de discos](#4-la-redundancia-los-conjuntos-de-discos)
+- [5. La consolidación: dejar de tener el disco dentro del equipo](#5-la-consolidación-dejar-de-tener-el-disco-dentro-del-equipo)
+- [6. Arquitectura, protocolos e interfaces](#6-arquitectura-protocolos-e-interfaces)
+- [7. Servidores](#7-servidores)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las unidades: lo que se cuenta antes de comprar nada

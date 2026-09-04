@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. **Ninguna cita literal propia**: lo que se afirma va resumido con su apartado al lado, y las citas de la misma materia están en los temas 3, 4, 5 y 13 |
 | **Cómo se estudia** | **Por el índice de la ITC-BT-19**, que reparte el punto en once apartados. **Los que tienen contenido propio y no remiten son el 2.4, el 2.6, el 2.7, el 2.9, el 2.10 y el 2.11** |
-| **Extensión** | **2.174 palabras** |
+| **Extensión** | **2.177 palabras** |
 
 <!-- /portada -->
 

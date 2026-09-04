@@ -1,5 +1,19 @@
 # Tema 14 del específico de Ingeniería Superior · Telecomunicación · Sistemas de redacción, ingesta, edición y emisión de informativos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 16 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el sistema de redacción y su integración, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Cero preguntas, y aun así** | **Es la pieza más INTEGRADA de una casa y por eso la más difícil de cambiar.** Se elige por sus interfaces tanto como por sus prestaciones |
+| **Extensión** | **2.032 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el sistema de gestión de redacción
 (**NRCS**, *newsroom computer system*); el protocolo de comunicación entre la redacción y los
 dispositivos de producción (**MOS**, *media object server*); la gestión de recursos de medios
@@ -28,6 +42,16 @@ propague solo a la emisión, al apuntador y al grafismo.**
 y **el informe de cobertura de esta ocupación lo explica.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El sistema de redacción](#1-el-sistema-de-redacción)
+- [2. La ingesta](#2-la-ingesta)
+- [3. La edición de informativos](#3-la-edición-de-informativos)
+- [4. La emisión del informativo](#4-la-emisión-del-informativo)
+- [5. La redundancia y la degradación](#5-la-redundancia-y-la-degradación)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El sistema de redacción

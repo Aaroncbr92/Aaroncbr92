@@ -1,5 +1,18 @@
 # Tema 3 del específico de Medicina de Empresa · Autonomía del paciente y documentación clínica
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 3 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ley 41/2002**, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, con el **Real Decreto 39/1997** y la **Ley 31/1995** para el secreto y la confidencialidad |
+| **Identificador** | `BOE-A-2002-22188` · `BOE-A-1997-1853` · `BOE-A-1995-24292` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **5.078 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Sistema Nacional de Salud (**SNS**); y la Ley Orgánica de Protección de Datos Personales y
@@ -24,6 +37,22 @@ primeras rúbricas; la Ley 31/1995 y el reglamento de los servicios de prevenci�
 últimas.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Principios básicos](#1-principios-básicos)
+- [2. Las definiciones legales](#2-las-definiciones-legales)
+- [3. El derecho a la información asistencial](#3-el-derecho-a-la-información-asistencial)
+- [4. El derecho a la intimidad](#4-el-derecho-a-la-intimidad)
+- [5. El consentimiento informado](#5-el-consentimiento-informado)
+- [6. La historia clínica](#6-la-historia-clínica)
+- [7. La historia clínico-laboral](#7-la-historia-clínico-laboral)
+- [8. La documentación y los sistemas de información en vigilancia de la salud](#8-la-documentación-y-los-sistemas-de-información-en-vigilancia-de-la-salud)
+- [9. La colaboración con el Sistema Nacional de Salud](#9-la-colaboración-con-el-sistema-nacional-de-salud)
+- [10. Qué hace la medicina del trabajo](#10-qué-hace-la-medicina-del-trabajo)
+- [11. Lo que este tema no da, y dónde está](#11-lo-que-este-tema-no-da-y-dónde-está)
+- [12. Trazabilidad](#12-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Principios básicos

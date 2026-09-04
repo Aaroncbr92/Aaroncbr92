@@ -1,5 +1,19 @@
 # Tema 2 del específico de Técnica de Equipos y Sistemas Electrónicos · Componentes electrónicos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 2 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los componentes discretos, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **SEIS de las doce preguntas dependen de un esquema o de un símbolo** que un temario escrito no puede reproducir. **El temario no describe ninguno**: aporta el código de colores completo, las fórmulas y la regla de cada familia |
+| **Extensión** | **2.639 palabras** |
+
+<!-- /portada -->
+
 Los términos y símbolos de este tema, presentados de entrada: la resistencia y su código de colores; el
 potenciómetro; el condensador y su capacidad, medida en faradios (**F**) y en sus submúltiplos, el
 microfaradio (**µF**), el nanofaradio (**nF**) y el picofaradio (**pF**); el culombio (**C**), unidad

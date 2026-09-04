@@ -1,5 +1,19 @@
 # Tema 16 del específico de Ingeniería Superior · Telecomunicación · Grafismo electrónico y escenografía virtual
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 18 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la composición, el grafismo y la escenografía virtual, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Cero preguntas, y aun así** | **La calidad de una incrustación la decide el SUBMUESTREO de color, no el programa.** Ningún ajuste posterior arregla unos bordes escalonados |
+| **Extensión** | **2.253 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el canal de transparencia (**alfa**); la
 incrustación por color (**croma**); la clave lineal y la clave de luminancia; el seguimiento de cámara
 (**tracking**); la realidad aumentada (**RA**); la unidad de proceso gráfico (**GPU**); la imagen
@@ -25,6 +39,15 @@ información.**
 **el cero de un punto no significa que no vaya a caer.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La composición: cómo se mezclan dos imágenes](#1-la-composición-cómo-se-mezclan-dos-imágenes)
+- [2. El grafismo: equipos, funciones y procesos](#2-el-grafismo-equipos-funciones-y-procesos)
+- [3. La escenografía virtual](#3-la-escenografía-virtual)
+- [4. La integración con el resto de la casa](#4-la-integración-con-el-resto-de-la-casa)
+- [5. Trazabilidad](#5-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La composición: cómo se mezclan dos imágenes

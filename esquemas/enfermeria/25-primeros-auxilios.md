@@ -7,7 +7,7 @@ Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 ## Índice
 
 - [Concepto y obligación](#concepto-y-obligación)
-- [Pautas generales: conducta PAS](#pautas-generales-conducta-pas)
+- [Pautas generales: la conducta de proteger, alertar y socorrer (PAS)](#pautas-generales-la-conducta-de-proteger-alertar-y-socorrer-pas)
 - [Evaluación del accidentado](#evaluación-del-accidentado)
 - [Reanimación cardiopulmonar básica](#reanimación-cardiopulmonar-básica)
 - [Desfibrilador](#desfibrilador)

@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. **Ninguna cita literal propia**: la categoría «sin corte», la admisión de las baterías como fuente propia y la exigencia de ventilación están citadas en el tema 8 |
 | **Aviso de estudio** | **Es el único sistema que cumple la categoría «sin corte»** de la instrucción de pública concurrencia, **porque su energía ya está almacenada y no hay nada que arrancar** |
-| **Extensión** | **2.781 palabras** |
+| **Extensión** | **2.784 palabras** |
 
 <!-- /portada -->
 

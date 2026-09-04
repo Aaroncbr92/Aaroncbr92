@@ -1,5 +1,19 @@
 # Tema 1 del específico de Medicina de Empresa · El marco europeo y español de la prevención
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 1 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Directiva 89/391/CEE del Consejo**, de 12 de junio de 1989, marco de la seguridad y la salud en el trabajo, y **Ley 31/1995** de Prevención de Riesgos Laborales, que la transpone |
+| **Identificador** | `DOUE-L-1989-80648` · `BOE-A-1995-24292` |
+| **Redacción que se estudia** | La directiva, **sin consolidar**, tal como el Boletín publica su texto original; la ley, la vigente el **21/12/2022** |
+| **Aviso** | **La directiva se cita del texto original publicado en el Diario Oficial**, que es como el Boletín la ofrece, y así se declara |
+| **Extensión** | **5.291 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la prevención de riesgos laborales (**PRL**); la
 Ley de Prevención de Riesgos Laborales (**LPRL**), que es la Ley 31/1995; el reglamento de los
 servicios de prevención (**RSP**), que es el Real Decreto 39/1997; la Agencia Europea para la
@@ -38,6 +52,21 @@ laguna en la tabla que cierra cada tema.** **Un temario no es un manual de medic
 no finge serlo.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. De dónde viene la prevención española](#1-de-dónde-viene-la-prevención-española)
+- [2. La Directiva marco 89/391/CEE](#2-la-directiva-marco-89391cee)
+- [3. Las directivas específicas y su reflejo español](#3-las-directivas-específicas-y-su-reflejo-español)
+- [4. Las Estrategias Europeas de Seguridad y Salud en el Trabajo](#4-las-estrategias-europeas-de-seguridad-y-salud-en-el-trabajo)
+- [5. El derecho de los trabajadores y el deber empresarial](#5-el-derecho-de-los-trabajadores-y-el-deber-empresarial)
+- [6. Situaciones de riesgo grave e inminente](#6-situaciones-de-riesgo-grave-e-inminente)
+- [7. Trabajadores especialmente sensibles](#7-trabajadores-especialmente-sensibles)
+- [8. Obligaciones de los trabajadores](#8-obligaciones-de-los-trabajadores)
+- [9. Qué hace la medicina del trabajo](#9-qué-hace-la-medicina-del-trabajo)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. De dónde viene la prevención española

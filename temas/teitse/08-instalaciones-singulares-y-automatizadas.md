@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **la regla de cálculo de la ocupación del apartado 1 de la ITC-BT-28** y **la clasificación por duración de conmutación de su apartado 2** |
 | **Aviso de estudio** | **El enunciado junta dos mitades desiguales**: las singulares están en las instrucciones particulares; **las automatizadas, casi en ninguna norma**, y van como oficio declarado |
-| **Extensión** | **2.745 palabras** |
+| **Extensión** | **2.748 palabras** |
 
 <!-- /portada -->
 

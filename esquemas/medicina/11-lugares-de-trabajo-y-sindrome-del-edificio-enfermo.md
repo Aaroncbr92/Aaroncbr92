@@ -3,6 +3,18 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Las dos mitades del punto](#las-dos-mitades-del-punto)
+- [Ámbito y definiciones](#ámbito-y-definiciones)
+- [La correspondencia artículo–anexo](#la-correspondencia-artículoanexo)
+- [El anexo III: las cifras](#el-anexo-iii-las-cifras)
+- [Iluminación (anexo IV)](#iluminación-anexo-iv)
+- [Primeros auxilios (anexo VI)](#primeros-auxilios-anexo-vi)
+- [Síndrome del edificio enfermo](#síndrome-del-edificio-enfermo)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Las dos mitades del punto

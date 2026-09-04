@@ -1,5 +1,19 @@
 # Tema 10 del específico de Profesor de Orquesta · La Orquesta Sinfónica y el Coro de RTVE
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 6 |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma en el específico.** La comisión de régimen interno de la orquesta y el coro **sí tiene norma —el Anexo de Régimen Especial del III Convenio Colectivo— y se estudia en el tema 5 del bloque general** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **El único tema del proyecto con datos que CADUCAN** | **Tres de sus ocho respuestas dependen de cuándo se pregunte** —quién es el titular, quiénes los honorarios «recientes», qué titularidad tenía antes un director—: **van con la fecha del examen al lado y se recomienda comprobarlas antes de la prueba** |
+| **Extensión** | **2.097 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas, salvo **la Corporación de Radio y Televisión Española (RTVE)**, que va con la
 suya por ser el nombre de la casa.
 
@@ -23,6 +37,16 @@ plantilla del examen de 2025 confirma, con la fecha del examen al lado**, y **av
 datos perecederos.** **Estudiarlos como si fueran permanentes es el error que este punto tiende.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los datos permanentes](#1-los-datos-permanentes)
+- [2. Los datos que caducan](#2-los-datos-que-caducan)
+- [3. Los dos nombres que el examen repite](#3-los-dos-nombres-que-el-examen-repite)
+- [4. Lo que este tema no dice, dicho por su nombre](#4-lo-que-este-tema-no-dice-dicho-por-su-nombre)
+- [5. Lo que de esta casa se estudia en el bloque general](#5-lo-que-de-esta-casa-se-estudia-en-el-bloque-general)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los datos permanentes

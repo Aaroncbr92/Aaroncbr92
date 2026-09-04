@@ -1,5 +1,19 @@
 # Tema 24 del específico de Medicina de Empresa · Radiaciones ionizantes y no ionizantes
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 24 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 486/2010** de radiaciones ópticas artificiales y **Real Decreto 299/2016** de campos electromagnéticos, con el **protocolo de radiaciones ionizantes** del Consejo Interterritorial |
+| **Identificador** | `BOE-A-2010-6485` · `BOE-A-2016-7303` · Protocolo del Consejo Interterritorial |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **El reglamento de protección sanitaria contra radiaciones ionizantes NO está volcado en este proyecto.** Sus cifras se toman del protocolo, que las reproduce citando su artículo 9, y así se declara |
+| **Extensión** | **6.418 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Sistema Nacional de Salud (**SNS**); el ácido desoxirribonucleico (**DNA**), que el
@@ -35,6 +49,18 @@ artículo 9 del Real Decreto 783/2001, que el protocolo cita expresamente y que 
 seguían siendo las de esa redacción.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Radiaciones ionizantes: los dos tipos de efecto](#1-radiaciones-ionizantes-los-dos-tipos-de-efecto)
+- [2. Los efectos sobre el organismo, con sus dosis](#2-los-efectos-sobre-el-organismo-con-sus-dosis)
+- [3. La clasificación de trabajadores y de zonas](#3-la-clasificación-de-trabajadores-y-de-zonas)
+- [4. El protocolo de vigilancia sanitaria y los criterios de aptitud](#4-el-protocolo-de-vigilancia-sanitaria-y-los-criterios-de-aptitud)
+- [5. Radiaciones no ionizantes: las radiaciones ópticas artificiales](#5-radiaciones-no-ionizantes-las-radiaciones-ópticas-artificiales)
+- [6. Radiaciones no ionizantes: los campos electromagnéticos](#6-radiaciones-no-ionizantes-los-campos-electromagnéticos)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Radiaciones ionizantes: los dos tipos de efecto

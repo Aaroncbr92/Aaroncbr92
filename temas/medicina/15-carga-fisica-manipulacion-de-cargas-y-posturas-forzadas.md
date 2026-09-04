@@ -1,5 +1,18 @@
 # Tema 15 del específico de Medicina de Empresa · Carga física, manipulación manual de cargas y posturas forzadas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 15 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 487/1997**, de 14 de abril, de manipulación manual de cargas, con las **notas técnicas 177 y 295** y los **protocolos de manipulación manual de cargas y de posturas forzadas** |
+| **Identificador** | `BOE-A-1997-8670` · **NTP 177 y 295** · Protocolos del Consejo Interterritorial |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **6.381 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que en las notas y
@@ -31,6 +44,20 @@ documento de recomendación.** **Y lo que el real decreto sí derogó fueron dos
 daban un peso: las de los ochenta kilogramos.** **Ese contraste se cita en el epígrafe 3.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El concepto de carga física](#1-el-concepto-de-carga-física)
+- [2. Trabajo estático y trabajo dinámico](#2-trabajo-estático-y-trabajo-dinámico)
+- [3. La evaluación de la carga física](#3-la-evaluación-de-la-carga-física)
+- [4. La norma: el Real Decreto 487/1997](#4-la-norma-el-real-decreto-4871997)
+- [5. El anexo: los cinco grupos de factores de riesgo](#5-el-anexo-los-cinco-grupos-de-factores-de-riesgo)
+- [6. El protocolo de manipulación manual de cargas](#6-el-protocolo-de-manipulación-manual-de-cargas)
+- [7. El protocolo de posturas forzadas](#7-el-protocolo-de-posturas-forzadas)
+- [8. Tres hallazgos de las fuentes](#8-tres-hallazgos-de-las-fuentes)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El concepto de carga física

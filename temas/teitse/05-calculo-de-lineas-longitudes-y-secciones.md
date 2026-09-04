@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se cita **el apartado 2.2.2 de la ITC-BT-19**, en sus dos párrafos de caída de tensión |
 | **Aviso de estudio** | **Una sección se calcula por DOS criterios y se elige la MAYOR.** **La longitud NO influye en el calentamiento y SÍ en la caída**: por eso el enunciado dice «longitudes y secciones» en la misma frase |
-| **Extensión** | **2.996 palabras** |
+| **Extensión** | **2.999 palabras** |
 
 <!-- /portada -->
 

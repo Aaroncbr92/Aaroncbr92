@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [El artículo 22 de la Ley 31/1995](#el-artículo-22-de-la-ley-311995)
+- [Las dos vertientes](#las-dos-vertientes)
+- [Los tres momentos (art. 37.3.b)](#los-tres-momentos-art-373b)
+- [Los protocolos (art. 37.3.c)](#los-protocolos-art-373c)
+- [Aptitud](#aptitud)
+- [Custodia y confidencialidad](#custodia-y-confidencialidad)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## El artículo 22 de la Ley 31/1995

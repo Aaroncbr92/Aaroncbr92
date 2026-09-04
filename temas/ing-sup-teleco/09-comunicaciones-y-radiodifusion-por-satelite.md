@@ -1,5 +1,19 @@
 # Tema 9 del específico de Ingeniería Superior · Telecomunicación · Comunicaciones y radiodifusión por satélite
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 9 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma del boletín.** Su materia son los estándares de difusión por satélite, **no consultados**, así que **va como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **El orden que hay que llevar** | **L, C, Ku, Ka**, de lo robusto y voluminoso a lo capaz y frágil. **A más frecuencia, más capacidad y más atenuación por lluvia** |
+| **Extensión** | **2.207 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la órbita geoestacionaria (**GEO**), la
 media (**MEO**) y la baja (**LEO**); la difusión de vídeo digital por satélite (**DVB-S** y **DVB-S2**,
 con su extensión **DVB-S2X**); la modulación por desplazamiento de fase (**PSK**), en sus órdenes
@@ -26,6 +40,16 @@ huella, modulación— sale de que ese repetidor está a decenas de miles de kil
 tocar.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las órbitas](#1-las-órbitas)
+- [2. Las bandas](#2-las-bandas)
+- [3. El enlace](#3-el-enlace)
+- [4. La televisión por satélite](#4-la-televisión-por-satélite)
+- [5. Los servicios](#5-los-servicios)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las órbitas

@@ -3,6 +3,20 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [El aviso de partida](#el-aviso-de-partida)
+- [Principios básicos (art. 2)](#principios-básicos-art-2)
+- [Información asistencial (arts. 4 y 5)](#información-asistencial-arts-4-y-5)
+- [Intimidad (art. 7)](#intimidad-art-7)
+- [Consentimiento informado (arts. 8 y 9)](#consentimiento-informado-arts-8-y-9)
+- [Historia clínica (arts. 14 a 18)](#historia-clínica-arts-14-a-18)
+- [La historia clínico-laboral](#la-historia-clínico-laboral)
+- [Colaboración con el Sistema Nacional de Salud](#colaboración-con-el-sistema-nacional-de-salud)
+- [La tensión propia del examen de salud](#la-tensión-propia-del-examen-de-salud)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## El aviso de partida

@@ -9,7 +9,7 @@ Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 - [Los cuatro escalones del art. 26 de la Ley 31/1995](#los-cuatro-escalones-del-art-26-de-la-ley-311995)
 - [Lactancia](#lactancia)
 - [Las dos listas del RD 39/1997](#las-dos-listas-del-rd-391997)
-- [Prestación económica · arts. 186, 187 y 189 de la LGSS](#prestación-económica--arts-186-187-y-189-de-la-lgss)
+- [Prestación económica · arts. 186, 187 y 189 de la Ley General de la Seguridad Social (LGSS)](#prestación-económica--arts-186-187-y-189-de-la-ley-general-de-la-seguridad-social-lgss)
 - [Vigilancia de la salud](#vigilancia-de-la-salud)
 - [Qué hace la enfermería del trabajo](#qué-hace-la-enfermería-del-trabajo)
 - [Lo preguntable](#lo-preguntable)

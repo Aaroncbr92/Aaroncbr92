@@ -1,5 +1,19 @@
 # Tema 11 del específico de Técnica de Equipos y Sistemas Electrónicos · Control de iluminación escénica
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 13 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el control de iluminación, y **va entera como oficio**: la norma DMX512 **no se ha consultado** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Reparto** | **El enunciado más corto del anexo y UNA sola pregunta**, porque la iluminación escénica tiene ocupación propia. El tema se escribe entero igual: **lo más preguntable son las cifras del DMX y la incompatibilidad del proyector de diodos con el atenuador de sala** |
+| **Extensión** | **1.928 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el multiplexado digital de la Asociación de
 Tecnología y Producción de Espectáculos (**DMX**, y en su nombre completo **DMX512**); el diodo emisor
 de luz (**LED**, *light emitting diode*); el conector de audio profesional de tres o cinco contactos

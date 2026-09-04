@@ -10,7 +10,7 @@
 | **Identificador** | `UIT-R BT.601-7` · `UIT-R BT.2100-1` · `BOE-A-2010-927` · `BOE-A-2007-18400` |
 | **Redacción que se estudia** | Las **recomendaciones UIT-R en la edición que cita el examen** —BT.601-7 de 03/2011 y BT.2100-1 de 06/2017—, y los **reales decretos en su texto vigente al 21/12/2022** |
 | **Jerarquía de fuentes** | **Cinco niveles declarados**, del BOE a la plantilla oficial. El tema marca el nivel de cada afirmación, y **siete de las diecisiete preguntas tienen norma detrás** |
-| **Extensión** | **5.260 palabras** |
+| **Extensión** | **5.259 palabras** |
 
 <!-- /portada -->
 

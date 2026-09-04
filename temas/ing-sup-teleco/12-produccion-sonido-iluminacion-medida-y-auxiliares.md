@@ -1,5 +1,19 @@
 # Tema 12 del específico de Ingeniería Superior · Telecomunicación · Elementos de producción (II): sonido, iluminación, medida y equipamiento auxiliar
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 12 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el equipamiento de estudio y de medida, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Punto del rack** | **Lo que no se ve en pantalla y sin lo cual no hay pantalla.** Sus cuatro preguntas son de reconocer la herramienta correcta entre cuatro que suenan parecido |
+| **Extensión** | **2.690 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el monitor de forma de onda (**WFM**,
 *waveform monitor*); el vectorscopio; el multiplexado digital de audio (**MADI**); el audio digital de
 la Sociedad de Audio y de la Unión Europea de Radiodifusión (**AES/EBU**, o **AES3**); el protocolo de
@@ -24,6 +38,16 @@ nunca**, y **sin embargo un fallo en cualquiera de ellos para un plató.** **Est
 mantenimiento de una casa que emite.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las mesas de sonido](#1-las-mesas-de-sonido)
+- [2. La iluminación y su control](#2-la-iluminación-y-su-control)
+- [3. Los equipos de medida de vídeo](#3-los-equipos-de-medida-de-vídeo)
+- [4. El equipamiento auxiliar de vídeo](#4-el-equipamiento-auxiliar-de-vídeo)
+- [5. La medida de audio](#5-la-medida-de-audio)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las mesas de sonido

@@ -1,5 +1,18 @@
 # Tema 7 del específico de Medicina de Empresa · Funciones de la medicina del trabajo y primeros auxilios
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 7 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 843/2011**, de 17 de junio, de criterios básicos sobre la organización de recursos para desarrollar la actividad sanitaria de los servicios de prevención, con la **Ley 31/1995** y el anexo VI del **Real Decreto 486/1997** |
+| **Identificador** | `BOE-A-2011-11428` · `BOE-A-1995-24292` · `BOE-A-1997-8669` · **NTP 1.062** · **NTP 458** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **4.857 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; la unidad básica sanitaria (**UBS**), que así la nombra la norma; el Sistema Nacional de Salud
@@ -24,6 +37,21 @@ ejecutarla.** **La formación que la ley exige es práctica y con reciclaje.** *
 responder a un examen, no para sustituir un curso.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La medicina del trabajo como disciplina preventiva](#1-la-medicina-del-trabajo-como-disciplina-preventiva)
+- [2. El Real Decreto 843/2011: qué es y a quién se aplica](#2-el-real-decreto-8432011-qué-es-y-a-quién-se-aplica)
+- [3. Las once actividades del servicio sanitario](#3-las-once-actividades-del-servicio-sanitario)
+- [4. Recursos humanos y materiales: la unidad básica sanitaria](#4-recursos-humanos-y-materiales-la-unidad-básica-sanitaria)
+- [5. La organización de los primeros auxilios: regulación normativa](#5-la-organización-de-los-primeros-auxilios-regulación-normativa)
+- [6. Normas de actuación ante una emergencia](#6-normas-de-actuación-ante-una-emergencia)
+- [7. La evaluación del accidentado y la reanimación cardiopulmonar básica](#7-la-evaluación-del-accidentado-y-la-reanimación-cardiopulmonar-básica)
+- [8. Formación en primeros auxilios](#8-formación-en-primeros-auxilios)
+- [9. Qué hace la medicina del trabajo](#9-qué-hace-la-medicina-del-trabajo)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La medicina del trabajo como disciplina preventiva

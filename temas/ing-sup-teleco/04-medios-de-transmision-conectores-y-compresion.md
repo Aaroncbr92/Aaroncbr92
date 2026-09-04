@@ -1,5 +1,19 @@
 # Tema 4 del específico de Ingeniería Superior · Telecomunicación · Medios de transmisión, conectores y compresión
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 4 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los medios, los conectores y la compresión, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Cuatro preguntas con fotografía** | **El cuadernillo pide identificar conectores y paneles a partir de una imagen.** El temario declara cada una y da en su lugar **la regla de su familia**: no describe lo que no ha visto |
+| **Extensión** | **3.033 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el par trenzado no apantallado (**UTP**) y
 apantallado (**STP** y **FTP**); la fibra monomodo (**SM**, *single mode*) y multimodo (**MM**); el
 decibelio por kilómetro (**dB/km**); el nanómetro (**nm**) y el micrómetro (**µm**); el gigabit por
@@ -27,6 +41,16 @@ el orden es como se compra mal**, y **el cuarto factor es el que más se subesti
 cuesta mucho más que el cable.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La clasificación de los medios](#1-la-clasificación-de-los-medios)
+- [2. Los medios guiados, uno a uno](#2-los-medios-guiados-uno-a-uno)
+- [3. Los conectores](#3-los-conectores)
+- [4. Los sistemas de transmisión de señal en un centro](#4-los-sistemas-de-transmisión-de-señal-en-un-centro)
+- [5. La compresión](#5-la-compresión)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La clasificación de los medios

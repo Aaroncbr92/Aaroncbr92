@@ -1,5 +1,19 @@
 # Tema 32 del específico de Medicina de Empresa · Patología oftalmológica laboral
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 32 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 486/2010**, de 23 de abril, de radiaciones ópticas artificiales, con su **guía técnica** del Instituto de 2015, el **protocolo de radiaciones ionizantes**, el **Real Decreto 1299/2006** y la **nota técnica 246** |
+| **Identificador** | `BOE-A-2010-6485` · Guía técnica del INSST, 2015 · Protocolo del Consejo Interterritorial · `BOE-A-2006-22169` · **NTP 246** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **El volcado del texto consolidado devuelve los dos anexos de valores límite reducidos a su rótulo**, porque en el Boletín son imágenes. El tema NO da ninguna cifra de valor límite de radiación óptica |
+| **Extensión** | **6.615 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el
 Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que hasta
@@ -41,6 +55,19 @@ retina— y los traumatismos neuro-oftalmológicos NO tiene fuente volcada en es
 tema no la inventa: dice lo que las fuentes que tiene dicen y declara el hueco en el epígrafe 8.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Por qué el ojo, y qué lo protege](#1-por-qué-el-ojo-y-qué-lo-protege)
+- [2. Las lesiones oculares por radiación no ionizante](#2-las-lesiones-oculares-por-radiación-no-ionizante)
+- [3. El régimen del Real Decreto 486/2010](#3-el-régimen-del-real-decreto-4862010)
+- [4. La radiación ionizante y la catarata](#4-la-radiación-ionizante-y-la-catarata)
+- [5. Las lesiones químicas: la conducta inmediata](#5-las-lesiones-químicas-la-conducta-inmediata)
+- [6. El cuadro de enfermedades profesionales y el examen oftalmológico](#6-el-cuadro-de-enfermedades-profesionales-y-el-examen-oftalmológico)
+- [7. Advertencias sobre las fuentes](#7-advertencias-sobre-las-fuentes)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Por qué el ojo, y qué lo protege

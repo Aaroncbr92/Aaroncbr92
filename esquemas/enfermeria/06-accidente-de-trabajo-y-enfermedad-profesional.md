@@ -6,9 +6,9 @@ Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 ## Índice
 
-- [Accidente de trabajo · art. 156 LGSS](#accidente-de-trabajo--art-156-lgss)
+- [Accidente de trabajo · art. 156 de la Ley General de la Seguridad Social (LGSS)](#accidente-de-trabajo--art-156-de-la-ley-general-de-la-seguridad-social-lgss)
 - [Notificación e investigación del accidente](#notificación-e-investigación-del-accidente)
-- [Enfermedad profesional · art. 157 LGSS](#enfermedad-profesional--art-157-lgss)
+- [Enfermedad profesional · art. 157 de la ley](#enfermedad-profesional--art-157-de-la-ley)
 - [Notificación de la enfermedad profesional · CEPROSS](#notificación-de-la-enfermedad-profesional--cepross)
 - [Investigar una enfermedad profesional](#investigar-una-enfermedad-profesional)
 - [Lo preguntable](#lo-preguntable)

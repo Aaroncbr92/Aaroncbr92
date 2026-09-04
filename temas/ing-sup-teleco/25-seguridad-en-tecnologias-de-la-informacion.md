@@ -1,5 +1,19 @@
 # Tema 25 del específico de Ingeniería Superior · Telecomunicación · Seguridad en tecnologías de la información
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 27 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad.** La familia ISO/IEC 27000 y la biblioteca de gestión de servicios **están tras muro de pago y van como oficio declarado** |
+| **Identificador** | `BOE-A-2022-7191` · BOE núm. 106, de 04/05/2022 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el apartado 2 del artículo 1**, **los apartados 1 y 3 del artículo 2**, **el artículo 5**, **el artículo 9** y **los apartados 1 y 2 del artículo 11** |
+| **Enunciado distinto** | **El punto 22 del anexo de Ingeniería Técnica dice «Normativa ISO/IEC 27001» y éste dice «Normativas ISO/IEC 27000-series».** No son el mismo enunciado y por eso el tema no se comparte |
+| **Extensión** | **3.977 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Organización Internacional de Normalización
 (**ISO**) y la Comisión Electrotécnica Internacional (**IEC**), que publican conjuntamente la familia
 **ISO/IEC 27000**; el sistema de gestión de la seguridad de la información (**SGSI**); la biblioteca
@@ -33,6 +47,17 @@ está en el boletín y que sí regula esta materia para una corporación públic
 Seguridad.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué se protege](#1-qué-se-protege)
+- [2. La familia de normas de gestión de la seguridad](#2-la-familia-de-normas-de-gestión-de-la-seguridad)
+- [3. La biblioteca de gestión de servicios](#3-la-biblioteca-de-gestión-de-servicios)
+- [4. La norma española que sí está en el boletín](#4-la-norma-española-que-sí-está-en-el-boletín)
+- [5. Lo propio de una instalación de emisión](#5-lo-propio-de-una-instalación-de-emisión)
+- [6. Lo que el examen ha preguntado](#6-lo-que-el-examen-ha-preguntado)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué se protege

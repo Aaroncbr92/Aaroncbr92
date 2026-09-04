@@ -1,5 +1,19 @@
 # Tema 17 del específico de Técnica de Equipos y Sistemas Electrónicos · Seguridad en instalaciones técnicas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 20 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Real Decreto 614/2001, de 8 de junio, sobre riesgo eléctrico** · **Reglamento electrotécnico para baja tensión (Real Decreto 842/2002)** · **Real Decreto 299/2016, de 22 de julio, sobre campos electromagnéticos** |
+| **Identificador** | `BOE-A-2001-11881` · `BOE-A-2002-18099` · `BOE-A-2016-7303` |
+| **Redacción que se estudia** | Las tres, en su **redacción vigente el 21/12/2022**. Se citan literalmente las definiciones 1 y 5 y los apartados 1, 2 y 4 del anexo IV del primero; el artículo 2.1 y los apartados 3.5 y 4.1 de la ITC-BT-24 del segundo; y las letras b y c del artículo 2 del tercero, **enteras y sin cortes** |
+| **Único punto con norma** | **Es el ÚNICO de los diecisiete puntos del específico de esta ocupación cuyas respuestas están en el Boletín Oficial del Estado.** La cifra de la alta tensión **no está en la norma de prevención: está en el reglamento electrotécnico, y aquélla remite a éste.** La cadena de dos eslabones queda escrita con las dos citas |
+| **Extensión** | **4.296 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la alta tensión (**AT**) y la baja tensión (**BT**);
 la radiofrecuencia (**RF**); los equipos de protección individual (**EPI**); el reglamento
 electrotécnico para baja tensión (**REBT**); las instrucciones técnicas complementarias de ese

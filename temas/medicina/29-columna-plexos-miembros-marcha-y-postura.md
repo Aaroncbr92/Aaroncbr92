@@ -1,5 +1,19 @@
 # Tema 29 del específico de Medicina de Empresa · Columna, plexos, miembros, marcha y postura
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 29 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ninguna norma se cita literalmente.** Las fuentes son los **protocolos de posturas forzadas y de manipulación manual de cargas** del Consejo Interterritorial y la **serie de directrices para la decisión clínica** del Instituto, 2022 |
+| **Identificador** | Protocolos del Consejo Interterritorial · Directrices del INSST, 2022 |
+| **Redacción que se estudia** | Los documentos técnicos y protocolos, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **El protocolo de manipulación manual de cargas cita en su legislación aplicable el Real Decreto 1995/1978, derogado desde 2006** por el Real Decreto 1299/2006. Se advierte en el tema |
+| **Extensión** | **8.451 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el
 Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que hasta
@@ -35,6 +49,22 @@ de cargas, del mismo Consejo, y cuatro directrices de la serie del Instituto sob
 superior.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Cómo se explora, según la fuente](#1-cómo-se-explora-según-la-fuente)
+- [2. La columna cervical: síndromes, maniobras y raíces](#2-la-columna-cervical-síndromes-maniobras-y-raíces)
+- [3. El plexo braquial: lo que las directrices añaden](#3-el-plexo-braquial-lo-que-las-directrices-añaden)
+- [4. La columna dorsal, lumbar y sacra: mecanismo y efectos](#4-la-columna-dorsal-lumbar-y-sacra-mecanismo-y-efectos)
+- [5. El plexo lumbosacro: signos de estiramiento y tabla de raíces](#5-el-plexo-lumbosacro-signos-de-estiramiento-y-tabla-de-raíces)
+- [6. El miembro superior: hombro, codo, muñeca y mano](#6-el-miembro-superior-hombro-codo-muñeca-y-mano)
+- [7. El miembro inferior: cadera, rodilla, tobillo y pie](#7-el-miembro-inferior-cadera-rodilla-tobillo-y-pie)
+- [8. La marcha y la postura](#8-la-marcha-y-la-postura)
+- [9. Repercusión laboral, medidas preventivas y vigilancia de la salud](#9-repercusión-laboral-medidas-preventivas-y-vigilancia-de-la-salud)
+- [10. Advertencias sobre las fuentes](#10-advertencias-sobre-las-fuentes)
+- [11. Lo que este tema no da, y dónde está](#11-lo-que-este-tema-no-da-y-dónde-está)
+- [12. Trazabilidad](#12-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Cómo se explora, según la fuente

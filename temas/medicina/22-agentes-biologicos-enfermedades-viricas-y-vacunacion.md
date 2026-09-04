@@ -1,5 +1,18 @@
 # Tema 22 del específico de Medicina de Empresa · Agentes biológicos, enfermedades víricas del medio sanitario y vacunación
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 22 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 664/1997**, de 12 de mayo, de agentes biológicos, con el **protocolo de agentes biológicos** y el procedimiento del Ministerio de Sanidad frente a la exposición al coronavirus |
+| **Identificador** | `BOE-A-1997-11144` · Protocolo del Consejo Interterritorial · Documento del Ministerio de Sanidad de 6 de junio de 2022 |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **5.225 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el servicio de prevención de riesgos laborales (**SPRL**), que es la sigla que el
@@ -39,6 +52,19 @@ epidemiológicos de los años noventa.** **Su valor sigue estando en el esquema 
 profilaxis postexposición, mapa de agente por actividad—, no en sus cifras.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El protocolo de agentes biológicos: objeto y criterios](#1-el-protocolo-de-agentes-biológicos-objeto-y-criterios)
+- [2. Las enfermedades víricas transmitidas en el medio sanitario](#2-las-enfermedades-víricas-transmitidas-en-el-medio-sanitario)
+- [3. La inmunización y la clasificación de las vacunas](#3-la-inmunización-y-la-clasificación-de-las-vacunas)
+- [4. Contraindicaciones, embarazo e inmunoprofilaxis](#4-contraindicaciones-embarazo-e-inmunoprofilaxis)
+- [5. El procedimiento frente al SARS-CoV-2](#5-el-procedimiento-frente-al-sars-cov-2)
+- [6. Los trabajadores que viajan por motivos de trabajo](#6-los-trabajadores-que-viajan-por-motivos-de-trabajo)
+- [7. Tres advertencias sobre las fuentes](#7-tres-advertencias-sobre-las-fuentes)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El protocolo de agentes biológicos: objeto y criterios

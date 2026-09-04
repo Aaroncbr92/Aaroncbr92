@@ -1,5 +1,19 @@
 # Tema 28 del específico de Medicina de Empresa · Enfermedades reumáticas, fibromialgia y otras patologías del ámbito laboral
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 28 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Serie de trastornos musculoesqueléticos del miembro superior** de las «Directrices para la Decisión Clínica en Enfermedades Profesionales» del Instituto, 2022, con el **Real Decreto 1299/2006**, los documentos del Ministerio de Sanidad sobre fibromialgia y sensibilidad química múltiple y el **protocolo del Instituto Regional de la Comunidad de Madrid** sobre lipoatrofia semicircular |
+| **Identificador** | Directrices del INSST, 2022 · `BOE-A-2006-22169` · `BOE-A-1997-8669` · Documentos del Ministerio de Sanidad de 2011 · Protocolo del IRSST |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **NO se ha obtenido documento de consenso alguno sobre el síndrome de fatiga crónica.** El tema dice lo que las demás fuentes dicen de él y declara lo que no afirma |
+| **Extensión** | **10.606 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el
 Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); las
@@ -34,6 +48,24 @@ Ministerio, del 30 de noviembre de 2011**; y **para la lipoatrofia semicircular,
 actuación del IRSST sobre la lipoatrofia semicircular», de la Comunidad de Madrid.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué es aquí una enfermedad reumática, y dónde está su régimen](#1-qué-es-aquí-una-enfermedad-reumática-y-dónde-está-su-régimen)
+- [2. Las tendinopatías: manguito rotador, epicondilitis y epitrocleítis](#2-las-tendinopatías-manguito-rotador-epicondilitis-y-epitrocleítis)
+- [3. Las bolsas serosas: el higroma crónico del codo](#3-las-bolsas-serosas-el-higroma-crónico-del-codo)
+- [4. La patología degenerativa por vibraciones: artrosis y enfermedad de Kienböck](#4-la-patología-degenerativa-por-vibraciones-artrosis-y-enfermedad-de-kienböck)
+- [5. La repercusión laboral de las reumáticas de origen profesional](#5-la-repercusión-laboral-de-las-reumáticas-de-origen-profesional)
+- [6. Fibromialgia: concepto, prevalencia y fisiopatología](#6-fibromialgia-concepto-prevalencia-y-fisiopatología)
+- [7. Fibromialgia: manifestaciones clínicas y criterios diagnósticos](#7-fibromialgia-manifestaciones-clínicas-y-criterios-diagnósticos)
+- [8. Fibromialgia: repercusión laboral, tratamiento y vigilancia de la salud](#8-fibromialgia-repercusión-laboral-tratamiento-y-vigilancia-de-la-salud)
+- [9. El síndrome de fatiga crónica, y qué se puede decir de él con fuente](#9-el-síndrome-de-fatiga-crónica-y-qué-se-puede-decir-de-él-con-fuente)
+- [10. La lipoatrofia semicircular](#10-la-lipoatrofia-semicircular)
+- [11. La sensibilidad química múltiple](#11-la-sensibilidad-química-múltiple)
+- [12. Advertencias sobre las cuatro fuentes](#12-advertencias-sobre-las-cuatro-fuentes)
+- [13. Lo que este tema no da, y dónde está](#13-lo-que-este-tema-no-da-y-dónde-está)
+- [14. Trazabilidad](#14-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué es aquí una enfermedad reumática, y dónde está su régimen

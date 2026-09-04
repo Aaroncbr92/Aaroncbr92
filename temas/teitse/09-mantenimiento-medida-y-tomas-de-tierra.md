@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el apartado 2.1 de la ITC-BT-05**, **la lista entera de inspecciones iniciales de su apartado 4.1** y **su apartado 4.2** |
 | **Lo que lo separa del resto del anexo** | **Es el único punto que mira una instalación YA HECHA.** Los temas 3 a 8 dicen cómo se proyecta y se monta; éste dice cómo se comprueba que sigue estando bien |
-| **Extensión** | **3.246 palabras** |
+| **Extensión** | **3.249 palabras** |
 
 <!-- /portada -->
 

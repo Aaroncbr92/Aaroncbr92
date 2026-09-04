@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**, que es **la misma que la convocatoria fija**: «texto consolidado, última actualización publicada el 28/04/2021». Se citan **el artículo 1**, **los apartados 1 y 5 del artículo 2**, **el apartado 2 del artículo 23** y **el artículo 29** |
 | **Dos puntos en un tema, y la unión declarada** | **Los dos enunciados nombran el MISMO real decreto**, uno por su articulado y otro por sus instrucciones. **No se recorta contenido**: el 15 va en el articulado y el 16 en el mapa de las cincuenta y dos instrucciones |
-| **Extensión** | **5.057 palabras** |
+| **Extensión** | **5.060 palabras** |
 
 <!-- /portada -->
 

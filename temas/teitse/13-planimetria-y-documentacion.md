@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el encabezamiento del apartado 2 de la ITC-BT-04** y **el párrafo de los planos de su apartado 2.1** |
 | **Lo que decide** | **Si una instalación se puede MANTENER.** Suena a burocracia y no lo es: **una instalación sin documentación actualizada hay que volver a levantarla cada vez que se toca** |
-| **Extensión** | **2.866 palabras** |
+| **Extensión** | **2.869 palabras** |
 
 <!-- /portada -->
 

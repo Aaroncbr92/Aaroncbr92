@@ -6,7 +6,7 @@ Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 ## Índice
 
-- [Conceptos generales · ficha «Adicciones» del INSST](#conceptos-generales--ficha-adicciones-del-insst)
+- [Conceptos generales · ficha «Adicciones» del Instituto (INSST)](#conceptos-generales--ficha-adicciones-del-instituto-insst)
 - [Puestos donde cualquier consumo es peligroso](#puestos-donde-cualquier-consumo-es-peligroso)
 - [Clasificación por su efecto sobre el sistema nervioso central](#clasificación-por-su-efecto-sobre-el-sistema-nervioso-central)
 - [Factores, indicadores y repercusión](#factores-indicadores-y-repercusión)

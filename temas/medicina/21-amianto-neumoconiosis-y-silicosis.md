@@ -1,5 +1,18 @@
 # Tema 21 del específico de Medicina de Empresa · Amianto, neumoconiosis y silicosis
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 21 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 396/2006**, de 31 de marzo, de trabajos con riesgo de exposición al amianto, con los **protocolos de amianto y de silicosis** del Consejo Interterritorial |
+| **Identificador** | `BOE-A-2006-6474` · Protocolos del Consejo Interterritorial |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **7.202 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que en las fuentes que
@@ -32,6 +45,20 @@ vigilancia postocupacional que el artículo 16 del real decreto y el propio prot
 se da.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El amianto: características y variedades](#1-el-amianto-características-y-variedades)
+- [2. El ámbito y el valor límite](#2-el-ámbito-y-el-valor-límite)
+- [3. Las medidas técnicas y organizativas](#3-las-medidas-técnicas-y-organizativas)
+- [4. El amianto: efectos sobre la salud](#4-el-amianto-efectos-sobre-la-salud)
+- [5. El amianto: la vigilancia de la salud y la vigilancia postocupacional](#5-el-amianto-la-vigilancia-de-la-salud-y-la-vigilancia-postocupacional)
+- [6. Las neumoconiosis y la silicosis: conceptos](#6-las-neumoconiosis-y-la-silicosis-conceptos)
+- [7. La silicosis: mecanismo, efectos y formas clínicas](#7-la-silicosis-mecanismo-efectos-y-formas-clínicas)
+- [8. Amianto y silicosis: el paralelismo y las diferencias](#8-amianto-y-silicosis-el-paralelismo-y-las-diferencias)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El amianto: características y variedades

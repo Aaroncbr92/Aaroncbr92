@@ -1,5 +1,19 @@
 # Tema 9 del específico de Profesor de Orquesta · La dirección de orquesta
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 5 |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma: este anexo no nombra ninguna.** De los directores se dan **los cinco que la plantilla confirma**, y el temario declara por qué no propone una lista |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Un subpunto abierto de par en par** | **El programa pide «directores más importantes» y NO da lista**, a diferencia del punto 1. **Lo que el temario da es el patrón por el que el examen entra**: nacionalidad, orquesta titular y lugar de nacimiento |
+| **Extensión** | **1.740 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas. **Los directores y las orquestas se nombran enteros.**
 
 > Enunciado del programa (Anexo 2 de las bases específicas de la convocatoria 1/2022, temario
@@ -15,6 +29,15 @@ Este tema no usa siglas. **Los directores y las orquestas se nombran enteros.**
 **Una pregunta y siete preguntas**, y **la única que se puede razonar es la primera.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La anacrusa](#1-la-anacrusa)
+- [2. Los directores que el examen ha nombrado](#2-los-directores-que-el-examen-ha-nombrado)
+- [3. Las tres preguntas de intérprete que caen en este tema](#3-las-tres-preguntas-de-intérprete-que-caen-en-este-tema)
+- [4. Lo que este tema deja fuera, dicho por su nombre](#4-lo-que-este-tema-deja-fuera-dicho-por-su-nombre)
+- [5. Trazabilidad](#5-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La anacrusa

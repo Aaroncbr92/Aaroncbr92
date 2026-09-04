@@ -1,5 +1,18 @@
 # Tema 11 del específico de Sonido · Líneas y conexiones
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 9 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los cables, los conectores y el reparto de señal, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **2.282 palabras** |
+
+<!-- /portada -->
+
 Los términos y siglas de este tema, presentados de entrada: el conector de tres polos con anillo de
 bloqueo (**XLR**); el panel de conexiones (*patch panel*) y su latiguillo (*patch cord*); el reparto
 de una señal a varias salidas (*splitter*); la alimentación fantasma (*phantom*) de 48 voltios y la

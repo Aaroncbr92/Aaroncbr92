@@ -3,6 +3,18 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Aviso de fuente y de datación](#aviso-de-fuente-y-de-datación)
+- [Cómo se leen las fichas: las ocho claves](#cómo-se-leen-las-fichas-las-ocho-claves)
+- [Tuberculosis](#tuberculosis)
+- [Brucelosis y tétanos](#brucelosis-y-tétanos)
+- [Las demás zoonosis](#las-demás-zoonosis)
+- [Transmisión respiratoria](#transmisión-respiratoria)
+- [Régimen y aptitud](#régimen-y-aptitud)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Aviso de fuente y de datación

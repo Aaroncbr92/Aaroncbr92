@@ -1,5 +1,19 @@
 # Tema 10 del específico de Ingeniería Superior · Telecomunicación · Tratamiento de voz e imágenes, servicios multimedia y difusión en flujo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 10 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el transporte de medios en tiempo real, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **El patrón de la pregunta** | **La opción falsa es la que contradice el propósito de la herramienta.** Si el protocolo sólo sirviera en una red reservada, no haría falta |
+| **Extensión** | **2.269 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el transporte fiable y seguro (**SRT**,
 *secure reliable transport*); el protocolo de transporte en tiempo real (**RTP**) y su protocolo de
 control (**RTCP**); el protocolo de transporte en tiempo real seguro (**SRTP**); el protocolo de
@@ -26,6 +40,16 @@ almacenamiento intermedio, la adaptación de tasa, la corrección de errores, la
 existe para dar un servicio aceptable sobre un transporte que no promete nada.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las señales y lo que las distingue](#1-las-señales-y-lo-que-las-distingue)
+- [2. La integración de voz, datos e imagen](#2-la-integración-de-voz-datos-e-imagen)
+- [3. El transporte en tiempo real](#3-el-transporte-en-tiempo-real)
+- [4. El transporte de contribución sobre internet](#4-el-transporte-de-contribución-sobre-internet)
+- [5. La difusión en flujo al espectador](#5-la-difusión-en-flujo-al-espectador)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las señales y lo que las distingue

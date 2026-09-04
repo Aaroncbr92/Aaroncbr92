@@ -1,5 +1,19 @@
 # Tema 2 del específico de Profesor de Orquesta · Las formas musicales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 1, subpunto 1.2 (formas) |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma: este anexo no nombra ninguna.** Las seis formas que el tema desarrolla son **las que el propio enunciado enumera** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **La confusión que más cuesta** | **Una forma no es un estilo.** El estilo dice cuándo y con qué lenguaje; la forma, cómo está construida la pieza. **Las opciones de una pregunta de forma suelen incluir un estilo** |
+| **Extensión** | **1.951 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas. **Las formas se nombran con su nombre entero**, tal como las nombra el
 programa.
 
@@ -18,6 +32,17 @@ también en el Romanticismo**, y **confundir las dos preguntas es el error que m
 bloque**, porque **las opciones de una pregunta de forma suelen incluir un estilo, y al revés.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las seis formas que el programa nombra](#1-las-seis-formas-que-el-programa-nombra)
+- [2. La forma sonata](#2-la-forma-sonata)
+- [3. El poema sinfónico](#3-el-poema-sinfónico)
+- [4. La tarantela, y cómo se contesta una pregunta de definición](#4-la-tarantela-y-cómo-se-contesta-una-pregunta-de-definición)
+- [5. Coda y leitmotiv: dos palabras que se preguntan por su sitio](#5-coda-y-leitmotiv-dos-palabras-que-se-preguntan-por-su-sitio)
+- [6. La imprenta musical, que es la única pregunta de historia material del punto](#6-la-imprenta-musical-que-es-la-única-pregunta-de-historia-material-del-punto)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las seis formas que el programa nombra

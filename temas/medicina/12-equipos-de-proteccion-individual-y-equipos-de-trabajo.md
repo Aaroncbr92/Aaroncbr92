@@ -1,5 +1,18 @@
 # Tema 12 del específico de Medicina de Empresa · Equipos de protección individual y equipos de trabajo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 12 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 773/1997**, de 30 de mayo, de equipos de protección individual, y **Real Decreto 1215/1997**, de 18 de julio, de equipos de trabajo |
+| **Identificador** | `BOE-A-1997-12735` · `BOE-A-1997-17824` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **6.052 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; los equipos de protección individual (**EPI**), que es la sigla que el propio enunciado del
@@ -25,6 +38,22 @@ la acción preventiva de la ley.** **Un tema que empiece por describir cascos y 
 el final.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El concepto de equipo de protección individual](#1-el-concepto-de-equipo-de-protección-individual)
+- [2. Cuándo se recurre al equipo de protección individual](#2-cuándo-se-recurre-al-equipo-de-protección-individual)
+- [3. Las condiciones que el equipo debe reunir](#3-las-condiciones-que-el-equipo-debe-reunir)
+- [4. La elección: las tres actuaciones del artículo 6](#4-la-elección-las-tres-actuaciones-del-artículo-6)
+- [5. La clasificación: los anexos](#5-la-clasificación-los-anexos)
+- [6. La utilización y el mantenimiento](#6-la-utilización-y-el-mantenimiento)
+- [7. Las obligaciones de cada uno](#7-las-obligaciones-de-cada-uno)
+- [8. Los equipos de trabajo](#8-los-equipos-de-trabajo)
+- [9. La comprobación de los equipos de trabajo](#9-la-comprobación-de-los-equipos-de-trabajo)
+- [10. Las disposiciones mínimas de los anexos del Real Decreto 1215/1997](#10-las-disposiciones-mínimas-de-los-anexos-del-real-decreto-12151997)
+- [11. Lo que este tema no da, y dónde está](#11-lo-que-este-tema-no-da-y-dónde-está)
+- [12. Trazabilidad](#12-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El concepto de equipo de protección individual

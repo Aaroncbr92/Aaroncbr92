@@ -6,12 +6,11 @@
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 17 |
 | **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
-| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 24 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Sin norma del boletín.** Su materia son las normas de radio digital y las recomendaciones de radiodifusión, **no consultadas**, así que **va como oficio** |
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
-| **Único punto de radio** | **Es el único punto del anexo dedicado enteramente a la radio**, y **el examen no ha entrado**. Una corporación que es de radio y televisión tiene la mitad de su nombre aquí |
-| **Extensión** | **1.652 palabras** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es, palabra por palabra, el punto 24 del anexo de Ingeniería Superior · Telecomunicación**, así que **el tema se comparte y sirve a las dos ocupaciones** |
+| **Extensión** | **1.708 palabras** |
 
 <!-- /portada -->
 

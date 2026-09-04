@@ -3,6 +3,16 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [La confusión que hay que deshacer de entrada](#la-confusión-que-hay-que-deshacer-de-entrada)
+- [Agentes químicos: RD 374/2001](#agentes-químicos-rd-3742001)
+- [Los cuatro escalones del RD 374/2001](#los-cuatro-escalones-del-rd-3742001)
+- [Agentes biológicos: RD 664/1997](#agentes-biológicos-rd-6641997)
+- [Erratas verificadas en el Boletín](#erratas-verificadas-en-el-boletín)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## La confusión que hay que deshacer de entrada

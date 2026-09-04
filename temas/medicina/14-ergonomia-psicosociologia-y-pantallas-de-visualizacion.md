@@ -1,5 +1,18 @@
 # Tema 14 del específico de Medicina de Empresa · Ergonomía, psicosociología aplicada y pantallas de visualización
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 14 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 488/1997**, de 14 de abril, de pantallas de visualización, con la **Ley 31/1995**, las **notas técnicas 242, 387 y 602** y el **protocolo de pantallas de visualización de datos** |
+| **Identificador** | `BOE-A-1997-8671` · `BOE-A-1995-24292` · **NTP 242, 387 y 602** · Protocolo del Consejo Interterritorial |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **5.700 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que en las notas que aquí
@@ -27,6 +40,20 @@ tiene protocolo del Consejo Interterritorial.** **Este tema recorre los tres y d
 dónde viene lo que afirma.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Ergonomía y psicosociología aplicada: conceptos y bases legales](#1-ergonomía-y-psicosociología-aplicada-conceptos-y-bases-legales)
+- [2. La concepción y el diseño del puesto de trabajo](#2-la-concepción-y-el-diseño-del-puesto-de-trabajo)
+- [3. La metodología de valoración](#3-la-metodología-de-valoración)
+- [4. El trabajo con pantallas de visualización: la norma](#4-el-trabajo-con-pantallas-de-visualización-la-norma)
+- [5. El anexo del real decreto: las disposiciones mínimas](#5-el-anexo-del-real-decreto-las-disposiciones-mínimas)
+- [6. La vigilancia de la salud y su protocolo](#6-la-vigilancia-de-la-salud-y-su-protocolo)
+- [7. La patología relacionada con el uso de pantallas](#7-la-patología-relacionada-con-el-uso-de-pantallas)
+- [8. Tres hallazgos de las fuentes](#8-tres-hallazgos-de-las-fuentes)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Ergonomía y psicosociología aplicada: conceptos y bases legales

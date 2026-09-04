@@ -1,5 +1,19 @@
 # Tema 7 del específico de Ingeniería Superior · Telecomunicación · La televisión digital terrestre
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 7 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma del boletín.** Su materia son los estándares europeos de difusión terrestre, **no consultados**, así que **va como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Todo cuelga de una idea** | **El intervalo de guarda.** De él salen la inmunidad a los ecos, la red de frecuencia única, el dividendo digital y el efecto de acantilado |
+| **Extensión** | **2.587 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la televisión digital terrestre (**TDT**);
 la difusión de vídeo digital (**DVB**) en sus variantes terrestre (**DVB-T** y **DVB-T2**); la
 multiplexación ortogonal por división en frecuencia (**OFDM**), en su variante codificada (**COFDM**);
@@ -26,6 +40,17 @@ montañas, reflexiones, otros emisores y receptores baratos.** **Todo lo que est
 única— existe para ganar esa pelea.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La cadena de la difusión terrestre](#1-la-cadena-de-la-difusión-terrestre)
+- [2. La codificación de canal](#2-la-codificación-de-canal)
+- [3. La modulación de muchas portadoras](#3-la-modulación-de-muchas-portadoras)
+- [4. Las redes de frecuencia única](#4-las-redes-de-frecuencia-única)
+- [5. Las bandas y la planificación](#5-las-bandas-y-la-planificación)
+- [6. La recepción](#6-la-recepción)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La cadena de la difusión terrestre

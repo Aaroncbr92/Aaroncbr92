@@ -1,5 +1,18 @@
 # Tema 9 del específico de Técnica de Equipos y Sistemas Electrónicos · La señal audiovisual sobre redes
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 11 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Índice público de la familia SMPTE ST 2110**, cuyo articulado **no se ha consultado** |
+| **Identificador** | — |
+| **Redacción que se estudia** | Se toman de él, verificados literalmente, **los títulos oficiales de sus partes**. Eso hace que la respuesta a la pregunta 41 **no descanse en la plantilla**: el título de la parte 30 es «PCM Digital Audio», la única de las cuatro opciones que trata de audio |
+| **Extensión** | **2.175 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el protocolo de internet (**IP**), que da nombre al
 punto; las familias de normas de la Sociedad de Ingenieros de Cine y Televisión —**SMPTE ST 2110** y
 **SMPTE ST 2022**— para medios sobre red gestionada; la interfaz digital serie (**SDI**, *serial

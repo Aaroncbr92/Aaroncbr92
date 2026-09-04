@@ -3,6 +3,20 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Por qué el ojo, y qué lo protege](#por-qué-el-ojo-y-qué-lo-protege)
+- [Las bandas del artículo 2](#las-bandas-del-artículo-2)
+- [La patología por radiación no ionizante](#la-patología-por-radiación-no-ionizante)
+- [El especialmente sensible de este punto](#el-especialmente-sensible-de-este-punto)
+- [El régimen del Real Decreto 486/2010](#el-régimen-del-real-decreto-4862010)
+- [Radiación ionizante y catarata](#radiación-ionizante-y-catarata)
+- [Lesiones químicas: la conducta inmediata](#lesiones-químicas-la-conducta-inmediata)
+- [El cuadro de enfermedades profesionales](#el-cuadro-de-enfermedades-profesionales)
+- [El examen oftalmológico](#el-examen-oftalmológico)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Por qué el ojo, y qué lo protege

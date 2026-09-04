@@ -1,5 +1,19 @@
 # Tema 21 del específico de Ingeniería Superior · Telecomunicación · Sonido
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 23 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual**, para la regulación básica de la radiodifusión sonora. **El resto del punto va como oficio**: las normas técnicas de audio están tras muro de pago |
+| **Identificador** | `BOE-A-2022-11311` · BOE núm. 163, de 08/07/2022 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**, que es la inicial. Se citan **los apartados 3 y 4 del artículo 76**, **el 77.1**, **el 78.2**, **el 80.4** y **el 83.3** |
+| **Único punto con norma** | **Es el único del temario específico de esta ocupación que se apoya en el Boletín Oficial del Estado.** Su último enunciado pide la regulación básica de la radiodifusión sonora, que es el título IV de la ley |
+| **Extensión** | **5.022 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el hercio (**Hz**) y su múltiplo **kHz**;
 el decibelio (**dB**) y el decibelio a escala plena (**dBFS**); el bit y el byte; la interfaz de audio
 digital profesional de dos canales (**AES3**), conocida también por el nombre conjunto de las dos
@@ -25,6 +39,19 @@ intensidad con frecuencia falla la pregunta más fácil del cuadernillo, y quien
 señal con la impresión de volumen falla la más difícil.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La señal de sonido y sus atributos](#1-la-señal-de-sonido-y-sus-atributos)
+- [2. De la señal analógica a la digital](#2-de-la-señal-analógica-a-la-digital)
+- [3. La interfaz digital profesional y sus bits de servicio](#3-la-interfaz-digital-profesional-y-sus-bits-de-servicio)
+- [4. Medida y control de la señal](#4-medida-y-control-de-la-señal)
+- [5. Los equipos: captación y escucha](#5-los-equipos-captación-y-escucha)
+- [6. Formatos, contenedores, códecs y compresión](#6-formatos-contenedores-códecs-y-compresión)
+- [7. El transporte de la señal](#7-el-transporte-de-la-señal)
+- [8. La regulación básica de la radiodifusión sonora en España](#8-la-regulación-básica-de-la-radiodifusión-sonora-en-españa)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La señal de sonido y sus atributos

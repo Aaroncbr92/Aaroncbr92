@@ -1,5 +1,18 @@
 # Tema 25 del específico de Medicina de Empresa · Vibraciones mecánicas, aire comprimido, calor y frío
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 25 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 1311/2005**, de 4 de noviembre, de vibraciones mecánicas, con las **notas técnicas 322 y 462** para el ambiente térmico |
+| **Identificador** | `BOE-A-2005-18262` · **NTP 322 y 462** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **5.598 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); sus notas técnicas de
@@ -32,6 +45,19 @@ para la vigilancia sanitaria específica de las personas trabajadoras expuestas 
 vigilancia que este tema da es la del artículo 8 del real decreto.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Vibraciones: los dos tipos y sus efectos](#1-vibraciones-los-dos-tipos-y-sus-efectos)
+- [2. Vibraciones: los cuatro valores](#2-vibraciones-los-cuatro-valores)
+- [3. Vibraciones: las medidas preventivas](#3-vibraciones-las-medidas-preventivas)
+- [4. Vibraciones: la vigilancia de la salud](#4-vibraciones-la-vigilancia-de-la-salud)
+- [5. Trabajos con aire comprimido y efectos de la presión](#5-trabajos-con-aire-comprimido-y-efectos-de-la-presión)
+- [6. El calor como agente de patología profesional](#6-el-calor-como-agente-de-patología-profesional)
+- [7. Los trastornos producidos por el frío](#7-los-trastornos-producidos-por-el-frío)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Vibraciones: los dos tipos y sus efectos

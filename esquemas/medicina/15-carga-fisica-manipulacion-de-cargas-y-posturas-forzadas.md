@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [La pregunta trampa del punto](#la-pregunta-trampa-del-punto)
+- [Carga física (NTP 177)](#carga-física-ntp-177)
+- [El Real Decreto 487/1997](#el-real-decreto-4871997)
+- [El anexo: cinco grupos de factores](#el-anexo-cinco-grupos-de-factores)
+- [Los dos protocolos](#los-dos-protocolos)
+- [Tres hallazgos de las fuentes](#tres-hallazgos-de-las-fuentes)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## La pregunta trampa del punto

@@ -1,5 +1,18 @@
 # Tema 9 del específico de Sonido · Grabación de sonido
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 7 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el fichero de audio y sus cuentas, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **1.798 palabras** |
+
+<!-- /portada -->
+
 Las siglas y unidades de este tema, presentadas de entrada: la modulación por impulsos codificados
 (**PCM**), que el tema 6 ya presentó; el formato de fichero de onda (**WAV**) y su versión con
 metadatos de difusión (**BWF**, *broadcast wave format*); el códec libre de compresión sin pérdida

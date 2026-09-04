@@ -1,5 +1,18 @@
 # Tema 13 del específico de Medicina de Empresa · Higiene industrial, agentes químicos y agentes biológicos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 13 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 374/2001** de agentes químicos y **Real Decreto 664/1997** de agentes biológicos, con la **nota técnica 586** para el control biológico |
+| **Identificador** | `BOE-A-2001-8436` · `BOE-A-1997-11144` · **NTP 586** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **7.404 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que en las normas y notas
@@ -28,6 +41,20 @@ deshace de entrada, porque es la trampa clásica del punto: el «control biológ
 mitad y no tiene nada que ver con los «agentes biológicos» de la segunda.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La higiene industrial y los tipos de agente](#1-la-higiene-industrial-y-los-tipos-de-agente)
+- [2. Exposición, dosis y valor límite](#2-exposición-dosis-y-valor-límite)
+- [3. Los valores límite ambientales](#3-los-valores-límite-ambientales)
+- [4. Los valores límite biológicos y el control biológico](#4-los-valores-límite-biológicos-y-el-control-biológico)
+- [5. La vigilancia de la salud frente a agentes químicos](#5-la-vigilancia-de-la-salud-frente-a-agentes-químicos)
+- [6. Los principios y las medidas frente a agentes químicos](#6-los-principios-y-las-medidas-frente-a-agentes-químicos)
+- [7. Los agentes biológicos: concepto y grupos de riesgo](#7-los-agentes-biológicos-concepto-y-grupos-de-riesgo)
+- [8. El régimen de los agentes biológicos](#8-el-régimen-de-los-agentes-biológicos)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La higiene industrial y los tipos de agente

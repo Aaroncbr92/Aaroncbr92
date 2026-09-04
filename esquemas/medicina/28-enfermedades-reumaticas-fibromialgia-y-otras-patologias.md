@@ -3,6 +3,21 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Cuatro materias, cuatro fuentes distintas](#cuatro-materias-cuatro-fuentes-distintas)
+- [La clave de bóveda del cuadro](#la-clave-de-bóveda-del-cuadro)
+- [Tendinopatías: hombro y codo](#tendinopatías-hombro-y-codo)
+- [Higroma crónico del codo](#higroma-crónico-del-codo)
+- [Vibraciones: artrosis y enfermedad de Kienböck](#vibraciones-artrosis-y-enfermedad-de-kienböck)
+- [Repercusión laboral de las reumáticas](#repercusión-laboral-de-las-reumáticas)
+- [Fibromialgia](#fibromialgia)
+- [Síndrome de fatiga crónica: lo que sí y lo que no](#síndrome-de-fatiga-crónica-lo-que-sí-y-lo-que-no)
+- [Lipoatrofia semicircular](#lipoatrofia-semicircular)
+- [Sensibilidad química múltiple](#sensibilidad-química-múltiple)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Cuatro materias, cuatro fuentes distintas

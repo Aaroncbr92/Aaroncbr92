@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Dos hallazgos de norma que hay que llevar sabidos](#dos-hallazgos-de-norma-que-hay-que-llevar-sabidos)
+- [Incapacidad temporal (arts. 169 a 174)](#incapacidad-temporal-arts-169-a-174)
+- [Incapacidad permanente (arts. 193 a 196)](#incapacidad-permanente-arts-193-a-196)
+- [Lesiones permanentes no invalidantes (art. 201)](#lesiones-permanentes-no-invalidantes-art-201)
+- [Discapacidad (Real Decreto 1971/1999)](#discapacidad-real-decreto-19711999)
+- [Qué hace aquí la medicina del trabajo](#qué-hace-aquí-la-medicina-del-trabajo)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Dos hallazgos de norma que hay que llevar sabidos

@@ -1,5 +1,18 @@
 # Tema 20 del específico de Medicina de Empresa · Hidrocarburos, cloruro de vinilo, gases irritantes y asfixiantes, alveolitis y asma laboral
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 20 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ninguna norma se cita literalmente.** Las fuentes son tres **protocolos de vigilancia sanitaria específica** del Consejo Interterritorial: cloruro de vinilo monómero, alveolitis alérgica extrínseca y asma laboral |
+| **Identificador** | Protocolos del Consejo Interterritorial |
+| **Redacción que se estudia** | Los documentos técnicos y protocolos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **6.408 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); el Sistema
 Nacional de Salud (**SNS**); el cloruro de vinilo monómero (**CVM**), que es la sigla que su protocolo
@@ -34,6 +47,20 @@ irritantes y asfixiantes— NO tienen protocolo ni nota volcada, y lo que este t
 oficio declarado.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los hidrocarburos aromáticos simples](#1-los-hidrocarburos-aromáticos-simples)
+- [2. Los hidrocarburos alifáticos: el hexano y los halogenados clorados](#2-los-hidrocarburos-alifáticos-el-hexano-y-los-halogenados-clorados)
+- [3. El cloruro de vinilo: la norma y el protocolo](#3-el-cloruro-de-vinilo-la-norma-y-el-protocolo)
+- [4. El cloruro de vinilo: efectos sobre la salud](#4-el-cloruro-de-vinilo-efectos-sobre-la-salud)
+- [5. Los gases y vapores irritantes y asfixiantes](#5-los-gases-y-vapores-irritantes-y-asfixiantes)
+- [6. La neumonitis por hipersensibilidad o alveolitis alérgica extrínseca](#6-la-neumonitis-por-hipersensibilidad-o-alveolitis-alérgica-extrínseca)
+- [7. El asma laboral](#7-el-asma-laboral)
+- [8. Dos hallazgos de las fuentes](#8-dos-hallazgos-de-las-fuentes)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los hidrocarburos aromáticos simples

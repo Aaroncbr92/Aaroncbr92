@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el apartado 1.1 de la ITC-BT-22 y su letra a)**, **el apartado 3.5 de la ITC-BT-24** y **el apartado 2 de la ITC-BT-18** |
 | **El punto con más instrucción técnica detrás** | **Cuatro instrucciones lo sostienen** —esquemas de neutro, puesta a tierra, sobreintensidades y contactos—, **las cuatro volcadas y citadas** |
-| **Extensión** | **4.857 palabras** |
+| **Extensión** | **4.860 palabras** |
 
 <!-- /portada -->
 

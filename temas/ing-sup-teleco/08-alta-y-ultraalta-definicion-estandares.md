@@ -1,5 +1,19 @@
 # Tema 8 del específico de Ingeniería Superior · Telecomunicación · Alta y ultraalta definición: estándares de producción e intercambio
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 8 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma del boletín.** Su materia son las normas técnicas de interfaz, color y rango dinámico, **tras muro de pago**, así que **va como oficio**; de ellas **sólo se recoge lo que la plantilla confirma** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Segundo banco** | **Once preguntas.** Y **la ultraalta definición no se define por el número de píxeles**: el rango dinámico y la gama de color aportan más a igual tasa |
+| **Extensión** | **2.951 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la alta definición (**HD**) y la ultraalta
 definición (**UHD**), con sus dos escalones (**UHD/4K** y **UHD2/8K**); la interfaz digital en serie
 (**SDI**) en sus grados (**HD-SDI**, **3G-SDI**, **6G-SDI** y **12G-SDI**); el alto rango dinámico
@@ -31,6 +45,17 @@ la vez** —**más resolución, más rango dinámico, más gama de color y más 
 tres últimas se notan más que la primera.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los formatos y su aritmética](#1-los-formatos-y-su-aritmética)
+- [2. Las interfaces](#2-las-interfaces)
+- [3. Llevar ultraalta definición por cuatro enlaces](#3-llevar-ultraalta-definición-por-cuatro-enlaces)
+- [4. El rango dinámico y la gama de color](#4-el-rango-dinámico-y-la-gama-de-color)
+- [5. Las tablas de consulta de color](#5-las-tablas-de-consulta-de-color)
+- [6. El intercambio de material](#6-el-intercambio-de-material)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los formatos y su aritmética

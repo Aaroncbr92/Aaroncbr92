@@ -3,6 +3,21 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Conceptos: los cinco parámetros](#conceptos-los-cinco-parámetros)
+- [Fisiología y mecanismo de la lesión](#fisiología-y-mecanismo-de-la-lesión)
+- [Los tres grados de efecto](#los-tres-grados-de-efecto)
+- [Las nueve características de la hipoacusia por ruido](#las-nueve-características-de-la-hipoacusia-por-ruido)
+- [El Real Decreto 286/2006](#el-real-decreto-2862006)
+- [El protocolo: contenido y caída significativa de umbral](#el-protocolo-contenido-y-caída-significativa-de-umbral)
+- [La técnica audiométrica](#la-técnica-audiométrica)
+- [El cuadro de enfermedades profesionales](#el-cuadro-de-enfermedades-profesionales)
+- [La voz](#la-voz)
+- [Erratas y fechas de las fuentes](#erratas-y-fechas-de-las-fuentes)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Conceptos: los cinco parámetros

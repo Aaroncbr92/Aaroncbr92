@@ -1,5 +1,19 @@
 # Tema 5 del específico de Ingeniería Superior · Telecomunicación · La señal de televisión: conceptos, características y parámetros
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 5 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la señal de televisión y su aritmética, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Aviso de estudio** | **Las tres preguntas de este punto son de aritmética** y **se fallan por leer mal la unidad**: campos por cuadros, cuadro por campo, línea por imagen entera |
+| **Extensión** | **2.989 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la luminancia (**Y**) y las dos diferencias
 de color (**R-Y** y **B-Y**), que digitalizadas se llaman **Cb** y **Cr**; los cuadros por segundo
 (**c/s**) y los campos por segundo; el hercio (**Hz**); el milisegundo (**ms**); el bit por segundo
@@ -22,6 +36,17 @@ receptor pueda deshacer ese análisis y volver a montar la imagen en el sitio y 
 correctos.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El análisis de la imagen](#1-el-análisis-de-la-imagen)
+- [2. Las dos familias de cadencia, y por qué](#2-las-dos-familias-de-cadencia-y-por-qué)
+- [3. La señal en el tiempo: sincronismo y borrado](#3-la-señal-en-el-tiempo-sincronismo-y-borrado)
+- [4. El color](#4-el-color)
+- [5. El submuestreo de color](#5-el-submuestreo-de-color)
+- [6. Los regímenes binarios y el cálculo del retardo](#6-los-regímenes-binarios-y-el-cálculo-del-retardo)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El análisis de la imagen

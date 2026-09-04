@@ -1,5 +1,19 @@
 # Tema 17 del específico de Ingeniería Superior · Telecomunicación · Sistemas radiantes, parámetros de antena y propagación
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 19 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los parámetros de antena y la propagación, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Reparto declarado** | **El punto 25 de este mismo anexo es idéntico al punto 18 del de Ingeniería Técnica · Telecomunicación**, y su tema se COMPARTE. Aquí van los parámetros y la propagación; allí, las líneas, las guías y los transmisores |
+| **Extensión** | **2.727 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la potencia isótropa radiada equivalente
 (**PIRE**) y la radiada aparente respecto a un dipolo (**PRA**); el decibelio (**dB**), el decibelio
 sobre un milivatio (**dBm**), el decibelio sobre el isótropo (**dBi**) y sobre el dipolo (**dBd**); la
@@ -30,6 +44,17 @@ CONCENTRACIÓN, no amplificación**: **reparte la misma potencia en menos ángul
 no se equivoca en ninguna pregunta de este tema.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué es una antena](#1-qué-es-una-antena)
+- [2. Los parámetros básicos](#2-los-parámetros-básicos)
+- [3. El cálculo de la potencia radiada](#3-el-cálculo-de-la-potencia-radiada)
+- [4. Los tipos de antena](#4-los-tipos-de-antena)
+- [5. La propagación](#5-la-propagación)
+- [6. Las bandas de frecuencia](#6-las-bandas-de-frecuencia)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué es una antena

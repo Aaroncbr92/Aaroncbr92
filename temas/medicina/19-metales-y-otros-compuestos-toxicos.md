@@ -1,5 +1,18 @@
 # Tema 19 del específico de Medicina de Empresa · Metales y otros compuestos tóxicos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 19 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 1299/2006**, cuadro de enfermedades profesionales, grupo 1, con el **protocolo de vigilancia sanitaria específica del plomo** del Consejo Interterritorial |
+| **Identificador** | `BOE-A-2006-22169` · Protocolo del Consejo Interterritorial |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **6.611 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); el Sistema Nacional de
@@ -31,6 +44,20 @@ enunciado pide el protocolo**; **después el marco común de los metales del cua
 demás agentes, con lo que la norma da y lo que el oficio añade, siempre separado.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El plomo: ámbito y conceptos del protocolo](#1-el-plomo-ámbito-y-conceptos-del-protocolo)
+- [2. El plomo: toxicocinética](#2-el-plomo-toxicocinética)
+- [3. El plomo: efectos sobre la salud](#3-el-plomo-efectos-sobre-la-salud)
+- [4. El plomo: la vigilancia sanitaria específica](#4-el-plomo-la-vigilancia-sanitaria-específica)
+- [5. Los metales potencialmente cancerígenos](#5-los-metales-potencialmente-cancerígenos)
+- [6. Mercurio, manganeso y talio](#6-mercurio-manganeso-y-talio)
+- [7. Los demás compuestos tóxicos](#7-los-demás-compuestos-tóxicos)
+- [8. El diagnóstico, el tratamiento y la prevención: reglas comunes](#8-el-diagnóstico-el-tratamiento-y-la-prevención-reglas-comunes)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El plomo: ámbito y conceptos del protocolo

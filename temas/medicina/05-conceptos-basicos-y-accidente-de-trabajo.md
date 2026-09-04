@@ -1,5 +1,18 @@
 # Tema 5 del específico de Medicina de Empresa · Conceptos básicos y accidente de trabajo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 5 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ley 31/1995** de Prevención de Riesgos Laborales y **texto refundido de la Ley General de la Seguridad Social** para el concepto de accidente de trabajo, con la **nota técnica de prevención 1.211** para los índices estadísticos |
+| **Identificador** | `BOE-A-1995-24292` · `BOE-A-2015-11724` · **NTP 1.211** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **4.723 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el texto refundido de la Ley General de la Seguridad Social (**LGSS**), aprobado
 por el Real Decreto Legislativo 8/2015; el Instituto Nacional de Seguridad y Salud en el Trabajo
@@ -17,6 +30,21 @@ Española (**RTVE**).
 **El aviso de procedencia de este volumen está entero en el tema 1 y vale aquí.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los conceptos básicos, que están todos en un solo artículo](#1-los-conceptos-básicos-que-están-todos-en-un-solo-artículo)
+- [2. Tres figuras que no son la misma cosa](#2-tres-figuras-que-no-son-la-misma-cosa)
+- [3. El accidente de trabajo: concepto y tipos](#3-el-accidente-de-trabajo-concepto-y-tipos)
+- [4. Declaración y prestaciones](#4-declaración-y-prestaciones)
+- [5. Causas de los accidentes e investigación](#5-causas-de-los-accidentes-e-investigación)
+- [6. Índices estadísticos](#6-índices-estadísticos)
+- [7. Evolución de la siniestralidad](#7-evolución-de-la-siniestralidad)
+- [8. Lesiones permanentes no invalidantes](#8-lesiones-permanentes-no-invalidantes)
+- [9. Qué hace la medicina del trabajo](#9-qué-hace-la-medicina-del-trabajo)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los conceptos básicos, que están todos en un solo artículo

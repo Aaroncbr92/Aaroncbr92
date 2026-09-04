@@ -1,5 +1,19 @@
 # Tema 4 del específico de Técnica de Equipos y Sistemas Electrónicos · Amplificadores operacionales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 4 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el amplificador operacional, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Tres de las cinco preguntas dependen de un esquema.** El temario no los describe: aporta **las tres reglas que resuelven cualquier circuito con operacional**, que es lo que permite atacar el que salga |
+| **Extensión** | **2.103 palabras** |
+
+<!-- /portada -->
+
 Los términos y siglas de este tema, presentados de entrada: el amplificador operacional (**AO**, u
 **op-amp** en la documentación en inglés); sus dos entradas, la inversora (**−**) y la no inversora
 (**+**); la ganancia en lazo abierto (**A**) y la realimentación (*feedback*); los montajes básicos

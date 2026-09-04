@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
 | **Advertencia** | **El orden de las fases del guion de este cuadernillo CONTRADICE al del cuadernillo de Información Gráfica del mismo proceso.** Aquí la sinopsis va después del argumento; allí, la línea de argumento va antes. **Los dos son coherentes consigo mismos**, y **este temario sigue en cada ocupación la convención de su propio enunciado** |
-| **Extensión** | **7.406 palabras** |
+| **Extensión** | **7.413 palabras** |
 
 <!-- /portada -->
 

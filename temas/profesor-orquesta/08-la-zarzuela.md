@@ -1,5 +1,19 @@
 # Tema 8 del específico de Profesor de Orquesta · La zarzuela
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 4 |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma: este anexo no nombra ninguna.** Del origen se da **el país que la plantilla confirma y la etimología del nombre**, y nada más |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **El punto más desigual del anexo** | **Su enunciado pide sólo el ORIGEN y el examen ha preguntado tres cosas, de las que una lo es.** La laguna se cierra ampliando el tema, nunca recortando la pregunta |
+| **Extensión** | **1.467 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas. **Las obras y sus autores se nombran enteros.**
 
 > Enunciado del programa (Anexo 2 de las bases específicas de la convocatoria 1/2022, temario
@@ -20,6 +34,15 @@ ampliando el tema, nunca recortando la pregunta.** **Lo que no se hace es fingir
 un catálogo de zarzuelas: no lo pide, y se dice.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué es una zarzuela](#1-qué-es-una-zarzuela)
+- [2. El origen, que es lo único que el programa pide](#2-el-origen-que-es-lo-único-que-el-programa-pide)
+- [3. Los compositores de zarzuela que el examen ha nombrado](#3-los-compositores-de-zarzuela-que-el-examen-ha-nombrado)
+- [4. La zarzuela dentro del repertorio de una orquesta pública](#4-la-zarzuela-dentro-del-repertorio-de-una-orquesta-pública)
+- [5. Trazabilidad](#5-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué es una zarzuela

@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2001-11881` |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **los apartados 1 y 2 del artículo 1**, **el apartado 1 del artículo 3**, **el apartado 2 del artículo 4** y **las cinco reglas de oro del apartado A.1 del anexo II** |
 | **No confundirlo con el punto 17** | **El 14 desarrolla el riesgo ELÉCTRICO; el 17 son los derechos y obligaciones generales del trabajador**, que este proyecto escribe una vez en su tema compartido |
-| **Extensión** | **3.129 palabras** |
+| **Extensión** | **3.132 palabras** |
 
 <!-- /portada -->
 

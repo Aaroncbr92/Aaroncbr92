@@ -1,5 +1,19 @@
 # Tema 3 del específico de Ingeniería Superior · Telecomunicación · La transmisión: canal, modulación, multiplexado y acceso múltiple
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 3 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la teoría de la transmisión, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Tres preguntas y una regla** | **El intervalo unitario sale del RÉGIMEN BINARIO de la interfaz, no del formato de imagen.** Quien lo busque en el número de líneas o en la cadencia se equivoca de sitio |
+| **Extensión** | **3.482 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la relación señal a ruido (**SNR**,
 *signal to noise ratio*); la tasa de error de bit (**BER**, *bit error rate*); el intervalo unitario
 (**UI**, *unit interval*); el hercio (**Hz**), el megahercio (**MHz**) y el gigahercio (**GHz**); el bit
@@ -30,6 +44,19 @@ tema describe —modular, codificar, multiplexar, corregir— es lo que se hace 
 que se tiene por el canal que hay.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La clasificación de los sistemas de transmisión](#1-la-clasificación-de-los-sistemas-de-transmisión)
+- [2. El canal de transmisión](#2-el-canal-de-transmisión)
+- [3. El diagrama de ojo](#3-el-diagrama-de-ojo)
+- [4. Los códigos de línea](#4-los-códigos-de-línea)
+- [5. La modulación](#5-la-modulación)
+- [6. Multiplexado y acceso múltiple](#6-multiplexado-y-acceso-múltiple)
+- [7. Dúplex por división en tiempo y en frecuencia](#7-dúplex-por-división-en-tiempo-y-en-frecuencia)
+- [8. La detección y la corrección de errores](#8-la-detección-y-la-corrección-de-errores)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La clasificación de los sistemas de transmisión

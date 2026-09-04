@@ -1,5 +1,18 @@
 # Tema 2 del específico de Sonido · Principios físicos del sonido y la audición
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 1.3 y 1.5 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Real Decreto 2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida** |
+| **Identificador** | `BOE-A-2010-927` · BOE núm. 21, de 24/01/2010 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. De él sale **que el pascal es la unidad legal de presión**, que es la respuesta a la pregunta 89 |
+| **Extensión** | **2.686 palabras** |
+
+<!-- /portada -->
+
 Las siglas y unidades de este tema, presentadas de entrada: el pascal (**Pa**), unidad legal de
 presión; el decibelio (**dB**), el belio (**B**) y el neper (**Np**), que son unidades logarítmicas
 aceptadas para su uso con el Sistema Internacional; el decibelio de nivel de presión sonora (**dB

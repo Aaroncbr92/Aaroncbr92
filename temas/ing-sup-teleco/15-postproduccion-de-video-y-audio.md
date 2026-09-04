@@ -1,5 +1,19 @@
 # Tema 15 del específico de Ingeniería Superior · Telecomunicación · Postproducción de vídeo y de audio
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 17 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el flujo y el equipamiento de postproducción, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Lo que decide el punto** | **El ORDEN de las operaciones.** Etalonar un plano que después se cae es tiempo tirado, y conformar al final es lo que impide que el resultado dependa de la copia ligera |
+| **Extensión** | **2.285 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la edición no lineal (**NLE**); la lista de
 decisiones de montaje (**EDL**); el formato de intercambio de material (**MXF**) y el de proyecto
 avanzado (**AAF**); la tabla de consulta de color (**LUT**); el alto rango dinámico (**HDR**) y el
@@ -23,6 +37,16 @@ importa.** **Montar, etalonar, mezclar y masterizar no son cuatro tareas indepen
 etapas, y hacerlas fuera de orden obliga a repetirlas.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El flujo de trabajo](#1-el-flujo-de-trabajo)
+- [2. El equipamiento](#2-el-equipamiento)
+- [3. El etalonaje y las conversiones de rango](#3-el-etalonaje-y-las-conversiones-de-rango)
+- [4. La mezcla y el masterizado de audio](#4-la-mezcla-y-el-masterizado-de-audio)
+- [5. La interconexión](#5-la-interconexión)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El flujo de trabajo

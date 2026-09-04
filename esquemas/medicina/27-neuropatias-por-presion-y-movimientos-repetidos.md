@@ -3,6 +3,18 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Dos protocolos que se solapan](#dos-protocolos-que-se-solapan)
+- [Neuropatías: alcance, exclusiones y regla de imputación](#neuropatías-alcance-exclusiones-y-regla-de-imputación)
+- [Fuentes de exposición por nervio: lo que no es obvio](#fuentes-de-exposición-por-nervio-lo-que-no-es-obvio)
+- [Las tres neuropatías, y lo que las separa](#las-tres-neuropatías-y-lo-que-las-separa)
+- [Movimientos repetidos: concepto y etiopatogenia](#movimientos-repetidos-concepto-y-etiopatogenia)
+- [Los cuadros, por región](#los-cuadros-por-región)
+- [Evaluación y vigilancia](#evaluación-y-vigilancia)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Dos protocolos que se solapan

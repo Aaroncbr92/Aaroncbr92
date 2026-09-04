@@ -3,6 +3,18 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [El reparto de fuentes](#el-reparto-de-fuentes)
+- [Hidrocarburos aromáticos](#hidrocarburos-aromáticos)
+- [Hidrocarburos alifáticos y halogenados](#hidrocarburos-alifáticos-y-halogenados)
+- [Cloruro de vinilo: las seis cifras](#cloruro-de-vinilo-las-seis-cifras)
+- [Gases y vapores irritantes y asfixiantes](#gases-y-vapores-irritantes-y-asfixiantes)
+- [Neumonitis por hipersensibilidad y asma laboral](#neumonitis-por-hipersensibilidad-y-asma-laboral)
+- [Dos hallazgos de las fuentes](#dos-hallazgos-de-las-fuentes)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## El reparto de fuentes

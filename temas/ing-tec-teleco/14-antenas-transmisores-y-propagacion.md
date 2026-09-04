@@ -6,12 +6,11 @@
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 18 |
 | **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
-| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 25 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra —con un solo signo de puntuación distinto—, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Sin norma: no la hay.** Su materia es la radiocomunicación clásica, y **va entero como oficio** |
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
-| **Pregunta ajena declarada** | **La pregunta 75, por el reóstato, no pertenece a ningún punto del anexo.** Se clasifica aquí por proximidad con los instrumentos y los componentes, **y se declara** |
-| **Extensión** | **2.279 palabras** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es, palabra por palabra —con un solo signo de puntuación distinto—, el punto 25 del anexo de Ingeniería Superior · Telecomunicación**, así que **el tema se comparte y sirve a las dos ocupaciones** |
+| **Extensión** | **2.342 palabras** |
 
 <!-- /portada -->
 

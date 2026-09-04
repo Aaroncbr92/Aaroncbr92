@@ -3,6 +3,16 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Aviso de reparto y de datación](#aviso-de-reparto-y-de-datación)
+- [Enfermedades víricas en el medio sanitario](#enfermedades-víricas-en-el-medio-sanitario)
+- [Clasificación de las vacunas](#clasificación-de-las-vacunas)
+- [Contraindicaciones](#contraindicaciones)
+- [El procedimiento frente al coronavirus](#el-procedimiento-frente-al-coronavirus)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Aviso de reparto y de datación

@@ -1,5 +1,19 @@
 # Tema 4 del específico de Medicina de Empresa · Incapacidad temporal, permanente y discapacidad
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 4 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Texto refundido de la Ley General de la Seguridad Social**, aprobado por Real Decreto Legislativo 8/2015, y **Real Decreto 1971/1999** de reconocimiento, declaración y calificación del grado de minusvalía |
+| **Identificador** | `BOE-A-2015-11724` · `BOE-A-2000-1546` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Aviso** | **El real decreto de discapacidad de 2022** (`BOE-A-2022-17105`) **se publicó antes del corte pero no regía a esa fecha.** Se declara su existencia y su entrada en vigor, y no se cita su articulado |
+| **Extensión** | **5.350 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el texto refundido de la Ley General de la Seguridad
 Social (**LGSS**), aprobado por el Real Decreto Legislativo 8/2015; el Instituto Nacional de la
 Seguridad Social (**INSS**); el Instituto Social de la Marina (**ISM**); la incapacidad temporal
@@ -31,6 +45,22 @@ hay que estudiar:**
 **Los dos se desarrollan abajo, con el texto delante.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Incapacidad temporal: concepto](#1-incapacidad-temporal-concepto)
+- [2. Requisitos, prestación y duración](#2-requisitos-prestación-y-duración)
+- [3. Competencias sobre el proceso, y quién da el alta](#3-competencias-sobre-el-proceso-y-quién-da-el-alta)
+- [4. Los tiempos estándar y los tiempos óptimos](#4-los-tiempos-estándar-y-los-tiempos-óptimos)
+- [5. Incapacidad permanente: concepto](#5-incapacidad-permanente-concepto)
+- [6. Los grados, y el hallazgo de norma](#6-los-grados-y-el-hallazgo-de-norma)
+- [7. Prestaciones e informe de resolución](#7-prestaciones-e-informe-de-resolución)
+- [8. Lesiones permanentes no invalidantes y valoración de secuelas](#8-lesiones-permanentes-no-invalidantes-y-valoración-de-secuelas)
+- [9. Deficiencia, discapacidad y la clasificación de la Organización Mundial de la Salud](#9-deficiencia-discapacidad-y-la-clasificación-de-la-organización-mundial-de-la-salud)
+- [10. Qué hace la medicina del trabajo](#10-qué-hace-la-medicina-del-trabajo)
+- [11. Lo que este tema no da, y dónde está](#11-lo-que-este-tema-no-da-y-dónde-está)
+- [12. Trazabilidad](#12-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Incapacidad temporal: concepto

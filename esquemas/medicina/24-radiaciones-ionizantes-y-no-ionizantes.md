@@ -3,6 +3,18 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [El desequilibrio de fuentes](#el-desequilibrio-de-fuentes)
+- [Ionizantes: los dos tipos de efecto](#ionizantes-los-dos-tipos-de-efecto)
+- [Clasificación de zonas y trabajadores](#clasificación-de-zonas-y-trabajadores)
+- [Límites de dosis (art. 9 del RD 783/2001, según el protocolo)](#límites-de-dosis-art-9-del-rd-7832001-según-el-protocolo)
+- [Vigilancia y aptitud](#vigilancia-y-aptitud)
+- [Radiaciones ópticas artificiales (RD 486/2010)](#radiaciones-ópticas-artificiales-rd-4862010)
+- [Campos electromagnéticos (RD 299/2016)](#campos-electromagnéticos-rd-2992016)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## El desequilibrio de fuentes

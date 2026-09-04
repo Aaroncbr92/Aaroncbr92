@@ -1,5 +1,19 @@
 # Tema 6 del específico de Ingeniería Superior · Telecomunicación · Televisión digital: digitalización, codificación y compresión
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 6 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma del boletín.** Su materia son las familias de codificación y compresión, **de acceso restringido**, así que **va como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Regla mnemotécnica** | **El bloque de la transformada es de ocho por ocho y el macrobloque de dieciséis por dieciséis.** Confundirlos es lo que la pregunta 65 busca |
+| **Extensión** | **3.012 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: el grupo de imágenes (**GOP**, *group of
 pictures*); la transformada discreta del coseno (**DCT**); el megabit por segundo (**Mbit/s**); el
 flujo elemental (**ES**), el flujo de programa (**PS**) y el flujo de transporte (**TS**); la tabla de
@@ -25,6 +39,17 @@ permite meter varios programas en el mismo canal, añadir servicios que no son i
 ellos.** **Todo lo que este tema describe sale de ahí.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La digitalización](#1-la-digitalización)
+- [2. La compresión de vídeo](#2-la-compresión-de-vídeo)
+- [3. La compresión de audio](#3-la-compresión-de-audio)
+- [4. Contribución, distribución y difusión](#4-contribución-distribución-y-difusión)
+- [5. Los servicios y el acceso condicional](#5-los-servicios-y-el-acceso-condicional)
+- [6. Evolución y tendencias](#6-evolución-y-tendencias)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La digitalización

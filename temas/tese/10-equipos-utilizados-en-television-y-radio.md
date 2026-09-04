@@ -1,5 +1,19 @@
 # Tema 10 del específico de Técnica de Equipos y Sistemas Electrónicos · Equipos utilizados en televisión y radio
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 12 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el inventario de la sala técnica, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Dos de las diecinueve preguntas dependen de una fotografía.** El temario declara las dos y aporta la regla de su familia: la escala en dBu de un medidor profesional y qué lleva cada conector de una base de cámara |
+| **Extensión** | **4.261 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el panel remoto de control de cámara (**RCP**,
 *remote control panel*); la unidad de control de cámara (**CCU**, *camera control unit*); los tres
 primarios rojo, verde y azul (**RGB**); la línea de alternancia de fase (**PAL**, *phase alternating

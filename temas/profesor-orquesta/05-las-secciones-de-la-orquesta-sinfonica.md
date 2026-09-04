@@ -1,5 +1,19 @@
 # Tema 5 del específico de Profesor de Orquesta · Las secciones de la orquesta sinfónica
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 1, subpunto 1.3 |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma: este anexo no nombra ninguna.** Pero **la clasificación por secciones es DEFINICIÓN y no dato**, y este tema es el único del volumen que puede razonar donde los demás sólo citan |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **La frase que resuelve las siete preguntas** | **La sección se decide por CÓMO SE PRODUCE EL SONIDO, no por el material del instrumento.** De ahí salen las tres trampas del examen |
+| **Extensión** | **1.898 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas. **Los instrumentos se nombran enteros.**
 
 > Enunciado del programa (Anexo 2 de las bases específicas de la convocatoria 1/2022, temario
@@ -17,6 +31,16 @@ del instrumento.** **Esa frase resuelve las siete preguntas de este tema y las t
 esconden.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las cuatro secciones](#1-las-cuatro-secciones)
+- [2. El viento madera, que es de donde vienen cuatro de las siete preguntas](#2-el-viento-madera-que-es-de-donde-vienen-cuatro-de-las-siete-preguntas)
+- [3. El viento metal y la cuerda](#3-el-viento-metal-y-la-cuerda)
+- [4. La orquesta como conjunto, y lo que este tema no afirma](#4-la-orquesta-como-conjunto-y-lo-que-este-tema-no-afirma)
+- [5. La pregunta del instrumento solista, que se clasifica aquí y se declara](#5-la-pregunta-del-instrumento-solista-que-se-clasifica-aquí-y-se-declara)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las cuatro secciones

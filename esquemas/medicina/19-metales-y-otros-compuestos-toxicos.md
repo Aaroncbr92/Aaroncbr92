@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [La desigualdad de fuentes](#la-desigualdad-de-fuentes)
+- [Plomo: todas las cifras](#plomo-todas-las-cifras)
+- [Plomo: toxicocinética y efectos](#plomo-toxicocinética-y-efectos)
+- [Metales potencialmente cancerígenos](#metales-potencialmente-cancerígenos)
+- [Los demás compuestos: cuatro ejemplos canónicos](#los-demás-compuestos-cuatro-ejemplos-canónicos)
+- [Tres reglas comunes](#tres-reglas-comunes)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## La desigualdad de fuentes

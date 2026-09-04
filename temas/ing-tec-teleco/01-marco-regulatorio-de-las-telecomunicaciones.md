@@ -6,12 +6,11 @@
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 1 |
 | **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
-| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 1 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Sin norma volcada.** Su materia es el marco regulatorio europeo y español, y **va entero como oficio**: las normas se nombran y no se citan |
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
-| **Observación declarada** | **La pregunta 9 nombra un organismo que dejó de existir con ese nombre en 2013.** Se contesta igual: lo que pide es la función, y la función no ha cambiado de contenido |
-| **Extensión** | **1.505 palabras** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es, palabra por palabra, el punto 1 del anexo de Ingeniería Superior · Telecomunicación**, así que **el tema se comparte y sirve a las dos ocupaciones** |
+| **Extensión** | **1.561 palabras** |
 
 <!-- /portada -->
 

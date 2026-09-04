@@ -3,6 +3,21 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [El método antes que la región](#el-método-antes-que-la-región)
+- [Columna cervical](#columna-cervical)
+- [Plexo braquial](#plexo-braquial)
+- [Columna dorsal, lumbar y sacra](#columna-dorsal-lumbar-y-sacra)
+- [Plexo lumbosacro](#plexo-lumbosacro)
+- [Miembro superior](#miembro-superior)
+- [Miembro inferior](#miembro-inferior)
+- [Marcha y postura](#marcha-y-postura)
+- [Repercusión laboral y vigilancia](#repercusión-laboral-y-vigilancia)
+- [Erratas de las fuentes](#erratas-de-las-fuentes)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## El método antes que la región

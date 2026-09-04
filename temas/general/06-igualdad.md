@@ -5,7 +5,7 @@
 |  |  |
 | --- | --- |
 | **Bloque** | Temario general · punto 6 |
-| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Producción** · **Montaje de Equipos Audiovisuales** · **Edición, Montaje y Procesos Audiovisuales** · **Información Gráfica y Captación de Imagen y Sonido** · **Realización Televisión** · **Realización (Asistencia)** · **Documentación** · **Información y Contenidos** |
+| **Sirve para** | **Producción (Asistencia)** · **Gestión Administrativa** · **Gestión** · **Producción** · **Montaje de Equipos Audiovisuales** · **Edición, Montaje y Procesos Audiovisuales** · **Información Gráfica y Captación de Imagen y Sonido** · **Sonido** · **Profesor de Orquesta** · **Ing. Superior Telecomunicación** · **Ing. Técnica Telecomunicación** · **Imagen Personal** · **Ing. Técnica Industrial** · **Ambientación Vestuario** · **Téc. Equipos, Instalaciones y Sistemas Eléctricos** · **Diseño Gráfico** · **Técnica Informática** · **Técnica de Equipos y Sistemas Electrónicos** · **Realización Televisión** · **Realización (Asistencia)** · **Documentación** · **Enfermería de Empresa** · **Medicina de Empresa** · **Información y Contenidos** |
 | **Fuente** | II Plan de Igualdad de RTVE (2022-2026) y Guía de Igualdad de RTVE (2020) |
 | **Identificador** | **Sin identificador del BOE**: son documentos internos de RTVE |
 | **Redacción que se estudia** | Las **ediciones publicadas por RTVE**: el **II Plan de Igualdad 2022-2026** y la **Guía de Igualdad de 2020**, leídas en su texto íntegro |

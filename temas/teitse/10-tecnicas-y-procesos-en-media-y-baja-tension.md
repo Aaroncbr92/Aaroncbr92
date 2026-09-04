@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **las letras a) y b) de la clasificación del apartado 2 de la ITC-BT-40** |
 | **Precisión de vocabulario** | **«Media tensión» NO es un término reglamentario en España.** Designa lo que la reglamentación llama **alta tensión de tercera categoría**, y por tanto se rige por otro reglamento |
-| **Extensión** | **2.843 palabras** |
+| **Extensión** | **2.846 palabras** |
 
 <!-- /portada -->
 

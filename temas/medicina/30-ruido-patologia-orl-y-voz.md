@@ -1,5 +1,19 @@
 # Tema 30 del específico de Medicina de Empresa · Ruido, patología otorrinolaringológica laboral y voz
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 30 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 286/2006**, de 10 de marzo, de exposición al ruido, con el **Real Decreto 1299/2006**, el **protocolo de ruido** del Consejo Interterritorial y la **nota técnica 1.149** sobre voz y trabajo |
+| **Identificador** | `BOE-A-2006-4996` · `BOE-A-2006-22169` · Protocolo del Consejo Interterritorial · **NTP 1.149** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **El cuadro de enfermedades profesionales imprime dos erratas en el renglón mismo de la sordera** —«Sordera profesionales» y «bilaterial»—, comprobadas contra el Boletín. Se citan tal cual |
+| **Extensión** | **8.365 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el
 Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que hasta
@@ -36,6 +50,21 @@ riesgo de sordera la «instalación y pruebas de equipos de amplificación de so
 actividades con riesgo de nódulos de cuerdas vocales, a los locutores y a los actores.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Conceptos: los cinco parámetros del sonido](#1-conceptos-los-cinco-parámetros-del-sonido)
+- [2. El recuerdo fisiológico y el mecanismo de la lesión](#2-el-recuerdo-fisiológico-y-el-mecanismo-de-la-lesión)
+- [3. Efectos sobre la audición: los tres grados y las nueve características](#3-efectos-sobre-la-audición-los-tres-grados-y-las-nueve-características)
+- [4. La normativa: el Real Decreto 286/2006](#4-la-normativa-el-real-decreto-2862006)
+- [5. El protocolo: contenido, periodicidad y la caída significativa de umbral](#5-el-protocolo-contenido-periodicidad-y-la-caída-significativa-de-umbral)
+- [6. La técnica audiométrica](#6-la-técnica-audiométrica)
+- [7. El cuadro de enfermedades profesionales: sordera y nódulos](#7-el-cuadro-de-enfermedades-profesionales-sordera-y-nódulos)
+- [8. La voz: disfonía, nódulos y su prevención](#8-la-voz-disfonía-nódulos-y-su-prevención)
+- [9. Advertencias sobre las fuentes](#9-advertencias-sobre-las-fuentes)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Conceptos: los cinco parámetros del sonido

@@ -1,5 +1,19 @@
 # Tema 5 del específico de Técnica de Equipos y Sistemas Electrónicos · Electrónica digital
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 5 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son la numeración, las puertas lógicas y la conversión, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Tres de las seis preguntas dependen de una figura** —una tabla de verdad, un circuito de puertas y una dirección—. El temario aporta la tabla de las siete puertas y el método de conversión, que reduce cada una a dos opciones |
+| **Extensión** | **2.128 palabras** |
+
+<!-- /portada -->
+
 Los términos y siglas de este tema, presentados de entrada: el bit y el byte; los sistemas de
 numeración binario, decimal y hexadecimal (**hex**); las puertas lógicas —**AND**, **OR**, **NOT**,
 **NAND**, **NOR**, **XOR** (u O exclusiva) y **XNOR**—; la tabla de verdad; el bit menos significativo

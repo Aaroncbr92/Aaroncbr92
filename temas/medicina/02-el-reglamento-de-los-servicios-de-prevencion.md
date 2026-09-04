@@ -1,5 +1,18 @@
 # Tema 2 del específico de Medicina de Empresa · El reglamento de los servicios de prevención
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 2 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 39/1997**, de 17 de enero, Reglamento de los Servicios de Prevención, con la **Ley 31/1995** para la consulta y participación y el **texto refundido de la Ley General de la Seguridad Social** |
+| **Identificador** | `BOE-A-1997-1853` · `BOE-A-1995-24292` · `BOE-A-2015-11724` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **6.231 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la prevención de riesgos laborales (**PRL**); la Ley
 de Prevención de Riesgos Laborales (**LPRL**), que es la Ley 31/1995; el reglamento de los servicios de
 prevención (**RSP**), que es el Real Decreto 39/1997; el Comité de Seguridad y Salud (**CSS**); la
@@ -30,6 +43,25 @@ General de la Seguridad Social.** **Conviene saberlo de entrada, porque un exame
 cualquiera de las catorce y todas tienen artículo.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La integración de la actividad preventiva](#1-la-integración-de-la-actividad-preventiva)
+- [2. El plan de prevención y la documentación](#2-el-plan-de-prevención-y-la-documentación)
+- [3. La evaluación de los riesgos](#3-la-evaluación-de-los-riesgos)
+- [4. La planificación de la actividad preventiva](#4-la-planificación-de-la-actividad-preventiva)
+- [5. Las cuatro modalidades de organización](#5-las-cuatro-modalidades-de-organización)
+- [6. El servicio de prevención propio, que es el de esta ocupación](#6-el-servicio-de-prevención-propio-que-es-el-de-esta-ocupación)
+- [7. La acreditación de las entidades especializadas](#7-la-acreditación-de-las-entidades-especializadas)
+- [8. Funciones y niveles de cualificación](#8-funciones-y-niveles-de-cualificación)
+- [9. Consulta y participación](#9-consulta-y-participación)
+- [10. La colaboración con la Inspección de Trabajo](#10-la-colaboración-con-la-inspección-de-trabajo)
+- [11. La auditoría del sistema de prevención](#11-la-auditoría-del-sistema-de-prevención)
+- [12. Las mutuas colaboradoras con la Seguridad Social](#12-las-mutuas-colaboradoras-con-la-seguridad-social)
+- [13. Qué hace la medicina del trabajo](#13-qué-hace-la-medicina-del-trabajo)
+- [14. Lo que este tema no da, y dónde está](#14-lo-que-este-tema-no-da-y-dónde-está)
+- [15. Trazabilidad](#15-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La integración de la actividad preventiva

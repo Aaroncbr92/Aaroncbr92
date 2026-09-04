@@ -1,5 +1,19 @@
 # Tema 12 del específico de Técnica de Equipos y Sistemas Electrónicos · Comunicaciones y redes
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 14 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son las redes de datos, y **va entera como oficio**: ni la familia IEEE 802.11 ni el estándar T568B **se han consultado** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Una de las trece preguntas depende de una fotografía de conectores de fibra.** El temario aporta la regla de la familia: la forma de cada cuerpo y, sobre todo, que **el pulido tiene que coincidir** |
+| **Extensión** | **4.095 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la interconexión de sistemas abiertos (**OSI**, *open
 systems interconnection*); el protocolo de control de transmisión y el protocolo de internet
 (**TCP/IP**); el protocolo de internet (**IP**) y su protocolo

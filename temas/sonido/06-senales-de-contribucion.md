@@ -1,5 +1,19 @@
 # Tema 6 del específico de Sonido · Señales de contribución
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 4 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el enlace de contribución y el retorno N-1, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Pregunta rota** | **La pregunta 44 tiene dos opciones idénticas**: la c) y la d) dicen exactamente lo mismo. **La respuesta oficial sigue siendo correcta** —Dante no es un algoritmo de codificación para una llamada por internet—, pero **el enunciado está mal construido y así se declara** |
+| **Extensión** | **2.194 palabras** |
+
+<!-- /portada -->
+
 Las siglas y términos de este tema, presentados de entrada: la mezcla que devuelve todo menos la
 propia señal del que escucha (**N-1**, o *mix-minus*); la red digital de servicios integrados
 (**RDSI**, o **ISDN** en la documentación en inglés); el códec de audio para contribución; la

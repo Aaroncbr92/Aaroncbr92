@@ -3,6 +3,18 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [La fuente y su arquitectura](#la-fuente-y-su-arquitectura)
+- [Dermatitis de contacto alérgica](#dermatitis-de-contacto-alérgica)
+- [Dermatitis de contacto irritativa](#dermatitis-de-contacto-irritativa)
+- [El diferencial, que decide la conducta](#el-diferencial-que-decide-la-conducta)
+- [Los sensibilizantes](#los-sensibilizantes)
+- [Los siete criterios de origen ocupacional](#los-siete-criterios-de-origen-ocupacional)
+- [Erratas de la fuente que el tema cita tal cual](#erratas-de-la-fuente-que-el-tema-cita-tal-cual)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## La fuente y su arquitectura

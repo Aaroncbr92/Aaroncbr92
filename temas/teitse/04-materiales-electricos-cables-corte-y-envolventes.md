@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **el apartado 2.2.1 de la ITC-BT-19** y **el apartado 3.2 de la ITC-BT-24** |
 | **Aviso de método** | **Es el único punto del anexo que habla del MERCADO**, y **un catálogo caduca mientras una convocatoria dura años**: aquí no hay marcas ni modelos, sino familias, designación normalizada y criterio |
-| **Extensión** | **3.124 palabras** |
+| **Extensión** | **3.127 palabras** |
 
 <!-- /portada -->
 

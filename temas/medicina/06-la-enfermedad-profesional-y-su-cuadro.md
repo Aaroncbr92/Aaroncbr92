@@ -1,5 +1,18 @@
 # Tema 6 del específico de Medicina de Empresa · La enfermedad profesional y su cuadro
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 6 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Texto refundido de la Ley General de la Seguridad Social** y **Real Decreto 1299/2006**, de 10 de noviembre, por el que se aprueba el cuadro de enfermedades profesionales |
+| **Identificador** | `BOE-A-2015-11724` · `BOE-A-2006-22169` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **3.235 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el texto refundido de la Ley General de la Seguridad
 Social (**LGSS**), aprobado por el Real Decreto Legislativo 8/2015; el Sistema Nacional de Salud
 (**SNS**); la Ley de Prevención de Riesgos Laborales (**LPRL**), que es la Ley 31/1995; y la Comisión
@@ -17,6 +30,19 @@ Nacional de Seguridad y Salud en el Trabajo (**CNSST**).
 su materia está en dos normas y las dos son breves.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El concepto](#1-el-concepto)
+- [2. El cuadro y sus dos anexos](#2-el-cuadro-y-sus-dos-anexos)
+- [3. Actualización del cuadro](#3-actualización-del-cuadro)
+- [4. Quién califica, y quién no](#4-quién-califica-y-quién-no)
+- [5. Los partes y la comunicación](#5-los-partes-y-la-comunicación)
+- [6. Dos erratas del cuadro, comprobadas](#6-dos-erratas-del-cuadro-comprobadas)
+- [7. Qué hace la medicina del trabajo](#7-qué-hace-la-medicina-del-trabajo)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El concepto

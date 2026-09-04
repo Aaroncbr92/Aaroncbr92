@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Los conceptos (Ley 31/1995, art. 4)](#los-conceptos-ley-311995-art-4)
+- [Tres figuras que no son la misma cosa](#tres-figuras-que-no-son-la-misma-cosa)
+- [Accidente de trabajo (LGSS, art. 156)](#accidente-de-trabajo-lgss-art-156)
+- [Declaración, investigación y prestaciones](#declaración-investigación-y-prestaciones)
+- [Investigación e índices](#investigación-e-índices)
+- [Lo que el tema declara que no da](#lo-que-el-tema-declara-que-no-da)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Los conceptos (Ley 31/1995, art. 4)

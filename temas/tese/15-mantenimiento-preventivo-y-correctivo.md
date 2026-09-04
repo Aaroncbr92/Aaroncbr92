@@ -1,5 +1,19 @@
 # Tema 15 del específico de Técnica de Equipos y Sistemas Electrónicos · Mantenimiento preventivo y correctivo de equipos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 17 y 18 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el mantenimiento de equipos, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Dos puntos, un tema** | **Los enunciados 17 y 18 son la misma frase con una palabra cambiada** —«preventivo» y «correctivo»—, y separarlos daría dos temas que se repetirían entre sí. **Las dos preguntas caídas son de correctivo**, y las dos se razonan desde el síntoma |
+| **Extensión** | **2.350 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el hercio (**Hz**), unidad de frecuencia; la corriente
 alterna (**CA**) y la corriente continua (**CC**); y las descargas electrostáticas (**ESD**,
 *electrostatic discharge*), contra las que se protege el material electrónico durante su manipulación.

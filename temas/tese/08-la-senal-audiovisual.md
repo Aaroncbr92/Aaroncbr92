@@ -1,5 +1,19 @@
 # Tema 8 del específico de Técnica de Equipos y Sistemas Electrónicos · La señal audiovisual y sus sincronismos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 10 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Presentación pública de las normas de la Sociedad de Ingeniería de Audio**, cuyo texto íntegro **está tras un muro de pago y no se ha consultado** |
+| **Identificador** | — |
+| **Redacción que se estudia** | Se toma de ella, citado literal, **que el MADI es la AES10, que la AES3 es la de dos canales y que la AES12 no figura en su relación**. **Nada de su contenido interno** |
+| **Punto limpio** | **Ninguna de sus diez preguntas lleva figura**, lo que lo convierte en el punto grande más contestable de la ocupación. **Cuatro de las diez son cifras que hay que memorizar** y las otras seis se razonan |
+| **Extensión** | **2.609 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la interfaz digital serie de vídeo (**SDI**) y su
 versión de alta definición (**HD-SDI**), definidas por las normas de la Sociedad de Ingenieros de Cine
 y Televisión (**SMPTE**) **259M**, **292M** y **424M**; las normas de audio de la Sociedad de

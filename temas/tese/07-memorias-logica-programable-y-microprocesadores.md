@@ -1,5 +1,19 @@
 # Tema 7 del específico de Técnica de Equipos y Sistemas Electrónicos · Memorias, lógica programable y microprocesadores
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 8 y 9 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son las memorias, la lógica programable y el microprocesador, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Reparto** | **Dos puntos del anexo y UNA pregunta entre los dos.** Junto con el 13, el punto menos rentable de la ocupación por hora de estudio: conviene quedarse con la jerarquía de memoria y con qué es una FPGA, y volcar el tiempo en los puntos 10, 12 y 2 |
+| **Extensión** | **1.575 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la memoria de acceso aleatorio (**RAM**, *random
 access memory*) y la de sólo lectura (**ROM**, *read-only memory*); sus variantes programables
 (**PROM**), borrables (**EPROM**) y borrables eléctricamente (**EEPROM**); la memoria estática

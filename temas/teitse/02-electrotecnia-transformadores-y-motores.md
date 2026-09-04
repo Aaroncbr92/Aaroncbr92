@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
 | **El enunciado es el índice** | **Primera mitad el transformador** —generalidades, teoría, acoplamiento en paralelo, autotransformador, aislamiento galvánico, pérdidas—; **segunda mitad el motor** —tipos, estrella-triángulo, guardamotores |
-| **Extensión** | **3.733 palabras** |
+| **Extensión** | **3.736 palabras** |
 
 <!-- /portada -->
 

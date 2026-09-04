@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [El concepto (LGSS, art. 157)](#el-concepto-lgss-art-157)
+- [El cuadro (RD 1299/2006) y sus dos anexos](#el-cuadro-rd-12992006-y-sus-dos-anexos)
+- [Actualización (art. 2)](#actualización-art-2)
+- [Quién califica (art. 3)](#quién-califica-art-3)
+- [Partes y comunicación (arts. 4 y 5)](#partes-y-comunicación-arts-4-y-5)
+- [Cuatro hallazgos sobre el propio cuadro](#cuatro-hallazgos-sobre-el-propio-cuadro)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## El concepto (LGSS, art. 157)

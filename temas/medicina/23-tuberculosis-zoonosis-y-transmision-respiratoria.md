@@ -1,5 +1,18 @@
 # Tema 23 del específico de Medicina de Empresa · Tuberculosis, zoonosis profesionales y enfermedades de transmisión respiratoria
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 23 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ninguna norma se cita literalmente.** La fuente es el **protocolo de vigilancia sanitaria específica de agentes biológicos** del Consejo Interterritorial, en sus fichas de tuberculosis y zoonosis |
+| **Identificador** | Protocolo del Consejo Interterritorial |
+| **Redacción que se estudia** | Los documentos técnicos y protocolos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **5.436 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; los agentes biológicos (**AB**), que es la sigla del protocolo; la tuberculosis (**TBC**),
@@ -35,6 +48,18 @@ del protocolo son de los años noventa y así se citan.** **Su valor está en el
 no en las cifras de incidencia.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Cómo leer las fichas del protocolo](#1-cómo-leer-las-fichas-del-protocolo)
+- [2. La tuberculosis en el medio laboral](#2-la-tuberculosis-en-el-medio-laboral)
+- [3. La brucelosis y el tétanos de origen profesional](#3-la-brucelosis-y-el-tétanos-de-origen-profesional)
+- [4. Las demás zoonosis profesionales](#4-las-demás-zoonosis-profesionales)
+- [5. Las enfermedades de transmisión respiratoria](#5-las-enfermedades-de-transmisión-respiratoria)
+- [6. El protocolo de actuación y las medidas preventivas](#6-el-protocolo-de-actuación-y-las-medidas-preventivas)
+- [7. Lo que este tema no da, y dónde está](#7-lo-que-este-tema-no-da-y-dónde-está)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Cómo leer las fichas del protocolo

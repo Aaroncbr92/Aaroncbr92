@@ -1,5 +1,19 @@
 # Tema 3 del específico de Profesor de Orquesta · Compositores y obras de Alemania y Austria
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 1, subpunto 1.1 |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma: este anexo no nombra ninguna.** Los trece compositores que el tema toma como lista de partida son **los que el propio enunciado enumera** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **El bloque más grande** | **Diecisiete preguntas**, y **tres de los que más dan —Haydn, Schubert y Wagner— NO están en la lista impresa del anexo**. Lleva puntos suspensivos: es un mínimo, no un temario cerrado |
+| **Extensión** | **2.111 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas. **Los compositores y las obras se nombran enteros**, como los nombra el
 programa y como los escribe el examen.
 
@@ -25,6 +39,16 @@ salvo una.** **Piden atribuir una obra a un autor, contar cuántas obras de un g
 decir un sobrenombre.** **Es memoria de catálogo, y se estudia por autor, no por cronología.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los que el anexo nombra y cuántas preguntas ha dado cada uno](#1-los-que-el-anexo-nombra-y-cuántas-preguntas-ha-dado-cada-uno)
+- [2. Bach](#2-bach)
+- [3. Mozart](#3-mozart)
+- [4. Beethoven y Brahms](#4-beethoven-y-brahms)
+- [5. Mahler, Haydn y Schubert](#5-mahler-haydn-y-schubert)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los que el anexo nombra y cuántas preguntas ha dado cada uno

@@ -1,5 +1,19 @@
 # Tema 1 del específico de Sonido · Electricidad y electrónica básicas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 1.1 y 1.2 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Real Decreto 2032/2009, de 30 de diciembre, por el que se establecen las unidades legales de medida** |
+| **Identificador** | `BOE-A-2010-927` · BOE núm. 21, de 24/01/2010 |
+| **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **celda a celda** las filas del cuadro de unidades derivadas que definen el voltio, el ohmio y el faradio: una fila de cuadro no se puede citar como prosa corrida |
+| **Salvedad** | **La respuesta oficial a la pregunta 82 es la mejor de las cuatro y no es exacta**: un multímetro corriente mide resistencia en continua, no impedancia. **El temario la sostiene y lo declara.** Y la 46 pide «lo más aproximado»: el valor exacto de tres altavoces de 8 ohmios en paralelo es **2,67**, y la opción marcada es **2,5** |
+| **Extensión** | **3.283 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la corriente continua (**CC**, o **DC** en
 la documentación en inglés) y la alterna (**CA**, o **AC**); el voltio (**V**), el amperio (**A**), el
 ohmio (**Ω**), el vatio (**W**) y el faradio (**F**), que son unidades legales de medida; el hercio

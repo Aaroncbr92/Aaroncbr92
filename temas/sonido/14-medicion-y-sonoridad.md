@@ -1,5 +1,19 @@
 # Tema 14 del específico de Sonido · Medición y sonoridad
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 12 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la recomendación R 128 y la medida de sonoridad, cuyo texto **no se ha consultado** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Nomenclatura** | **El anexo de la convocatoria llama «norma AES R-128» a lo que es una RECOMENDACIÓN de la Unión Europea de Radiodifusión**, no una norma de la Sociedad de Ingeniería de Audio. **El temario lo declara y usa el nombre correcto** |
+| **Extensión** | **2.127 palabras** |
+
+<!-- /portada -->
+
 Las siglas y unidades de este tema, presentadas de entrada: la Unión Europea de Radiodifusión
 (**EBU**, *European Broadcasting Union*, la **UER** en español) y su recomendación **R 128**; la
 unidad de sonoridad a escala completa (**LUFS**, *loudness unit full scale*) y la unidad de sonoridad

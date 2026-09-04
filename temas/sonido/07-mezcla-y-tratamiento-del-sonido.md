@@ -1,5 +1,18 @@
 # Tema 7 del específico de Sonido · Mezcla y tratamiento del sonido
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 5 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los procesadores de dinámica y de espectro, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **2.406 palabras** |
+
+<!-- /portada -->
+
 Los términos de este tema, presentados de entrada: el margen entre el nivel de trabajo y la saturación
 (*headroom*); el umbral (*threshold*), la relación de compresión (*ratio*), el ataque, la relajación
 (*release*), el codo (*knee*) y la recuperación de ganancia (*make-up*) de un compresor; el factor de

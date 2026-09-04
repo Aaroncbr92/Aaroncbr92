@@ -3,6 +3,21 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Ámbito y encuadre normativo](#ámbito-y-encuadre-normativo)
+- [Epidemiología: las cifras del punto](#epidemiología-las-cifras-del-punto)
+- [La trampa clásica: dura o blanda](#la-trampa-clásica-dura-o-blanda)
+- [Los tiempos, que gobiernan la periodicidad](#los-tiempos-que-gobiernan-la-periodicidad)
+- [Las nueve actividades del cuadro](#las-nueve-actividades-del-cuadro)
+- [Clínica y diagnóstico](#clínica-y-diagnóstico)
+- [El protocolo de vigilancia](#el-protocolo-de-vigilancia)
+- [Las seis recomendaciones de la guía](#las-seis-recomendaciones-de-la-guía)
+- [Aptitud y actuación](#aptitud-y-actuación)
+- [Erratas de la fuente](#erratas-de-la-fuente)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Ámbito y encuadre normativo

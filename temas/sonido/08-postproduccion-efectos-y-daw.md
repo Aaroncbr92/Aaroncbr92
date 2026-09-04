@@ -1,5 +1,19 @@
 # Tema 8 del específico de Sonido · Postproducción, efectos sonoros y estación de trabajo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 6 y 16 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la postproducción y la estación de trabajo, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Salvedad de unidades** | **La fórmula de la pregunta 36 sólo da milisegundos si la frecuencia de muestreo va en hercios**, y **el enunciado la escribe en kilohercios.** La opción marcada es la única de las cuatro con la estructura correcta, y **el temario la sostiene declarando la salvedad** |
+| **Extensión** | **1.832 palabras** |
+
+<!-- /portada -->
+
 Los términos y siglas de este tema, presentados de entrada: la estación de trabajo de audio digital
 (**DAW**, *digital audio workstation*); el tamaño de la memoria intermedia de la interfaz, medido en
 muestras (*buffer*); los pulsos por minuto (**BPM**), que el tema 3 ya presentó; el retardo (*delay*);

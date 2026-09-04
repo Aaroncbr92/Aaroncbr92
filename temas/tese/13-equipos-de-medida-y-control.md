@@ -1,5 +1,19 @@
 # Tema 13 del específico de Técnica de Equipos y Sistemas Electrónicos · Equipos de medida y control
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 15 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los instrumentos de medida, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **Tres de las ocho preguntas dependen de una pantalla.** En una de ellas —la frecuencia de una senoide— **el temario escribe el método de cálculo entero**, porque la figura sólo aporta el número de divisiones que ocupa un ciclo |
+| **Extensión** | **3.527 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la modulación de amplitud (**AM**) y la modulación de
 frecuencia (**FM**); la difusión de vídeo digital terrestre de segunda generación (**DVB-T2**); la
 señal de reloj de un microprocesador (**CLK**, de *clock*); el megahercio (**MHz**) y el gigahercio

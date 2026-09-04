@@ -1,5 +1,18 @@
 # Tema 10 del específico de Sonido · Sonorización: altavoces y amplificadores
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 8 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es el altavoz, el amplificador y la sala, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **2.450 palabras** |
+
+<!-- /portada -->
+
 Los términos de este tema, presentados de entrada: el altavoz electrodinámico y sus piezas —la bobina
 móvil, el imán permanente, el yugo, la araña y el diafragma—; la caja acústica o bafle; el filtro de
 cruce o divisor de frecuencias (*crossover*); la sensibilidad, expresada en decibelios por vatio a un

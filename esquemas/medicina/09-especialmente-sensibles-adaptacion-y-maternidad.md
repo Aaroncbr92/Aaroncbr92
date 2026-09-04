@@ -3,6 +3,17 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Trabajadores especialmente sensibles (art. 25)](#trabajadores-especialmente-sensibles-art-25)
+- [Adaptación y cambio por motivos de salud](#adaptación-y-cambio-por-motivos-de-salud)
+- [Maternidad: los cuatro escalones (art. 26)](#maternidad-los-cuatro-escalones-art-26)
+- [Lactancia (art. 26.4 y 5)](#lactancia-art-264-y-5)
+- [Los dos anexos del reglamento](#los-dos-anexos-del-reglamento)
+- [Lo que hace el servicio propio](#lo-que-hace-el-servicio-propio)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Trabajadores especialmente sensibles (art. 25)

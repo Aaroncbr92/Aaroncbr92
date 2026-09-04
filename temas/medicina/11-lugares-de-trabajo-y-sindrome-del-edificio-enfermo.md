@@ -1,5 +1,18 @@
 # Tema 11 del específico de Medicina de Empresa · Lugares de trabajo y síndrome del edificio enfermo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 11 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 486/1997**, de 14 de abril, de disposiciones mínimas de seguridad y salud en los lugares de trabajo, con las **notas técnicas 243, 288, 289, 380, 431 y 607** para el síndrome del edificio enfermo |
+| **Identificador** | `BOE-A-1997-8669` · **NTP 243, 288, 289, 380, 431 y 607** |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **7.668 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que en la
 época de las notas que aquí se citan se llamaba Instituto Nacional de Seguridad e Higiene en el Trabajo
@@ -25,6 +38,27 @@ no tiene norma propia y se apoya en las notas técnicas del Instituto.** **La bi
 anexo III**, que **es lo único que la norma dice sobre el aire interior**, y **este tema lo señala.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Ámbito y definiciones](#1-ámbito-y-definiciones)
+- [2. La obligación general del empresario](#2-la-obligación-general-del-empresario)
+- [3. Condiciones constructivas, orden, limpieza y mantenimiento](#3-condiciones-constructivas-orden-limpieza-y-mantenimiento)
+- [4. Condiciones ambientales: el anexo III](#4-condiciones-ambientales-el-anexo-iii)
+- [5. Iluminación: el anexo IV](#5-iluminación-el-anexo-iv)
+- [6. Servicios higiénicos, locales de descanso y primeros auxilios](#6-servicios-higiénicos-locales-de-descanso-y-primeros-auxilios)
+- [7. La calidad del aire interior y el síndrome del edificio enfermo](#7-la-calidad-del-aire-interior-y-el-síndrome-del-edificio-enfermo)
+  - [El concepto](#el-concepto)
+  - [La clasificación de la Organización Mundial de la Salud](#la-clasificación-de-la-organización-mundial-de-la-salud)
+  - [Las características comunes de los edificios enfermos](#las-características-comunes-de-los-edificios-enfermos)
+  - [Las manifestaciones clínicas](#las-manifestaciones-clínicas)
+  - [La separación que hay que hacer: síndrome frente a enfermedad relacionada con el edificio](#la-separación-que-hay-que-hacer-síndrome-frente-a-enfermedad-relacionada-con-el-edificio)
+  - [Los factores influyentes](#los-factores-influyentes)
+  - [La metodología de investigación](#la-metodología-de-investigación)
+  - [Las medidas de prevención](#las-medidas-de-prevención)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Ámbito y definiciones

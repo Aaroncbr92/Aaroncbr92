@@ -6,12 +6,11 @@
 | --- | --- |
 | **Bloque** | Temario específico · Ing. Técnica Telecomunicación · punto 19 |
 | **Sirve para** | **Ing. Técnica Telecomunicación** y **Ing. Superior Telecomunicación** |
-| **Punto compartido con Ing. Superior** | **Este mismo enunciado es el punto 22 del anexo de Ingeniería Superior · Telecomunicación**, palabra por palabra, así que **el tema se comparte y sirve a las dos ocupaciones** |
 | **Fuente** | **Sin norma: no la hay.** Su materia son los modelos, el direccionamiento y los protocolos, y **va entero como oficio** |
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
-| **Punto compartido** | **Este bloque es casi idéntico al punto 3 del anexo de Técnica Informática y al 14 del de Técnica de Equipos y Sistemas Electrónicos.** Donde el examen de dos ocupaciones pregunta lo mismo, la respuesta coincide |
-| **Extensión** | **3.663 palabras** |
+| **Punto compartido con Ing. Superior** | **Este mismo enunciado es, palabra por palabra, el punto 22 del anexo de Ingeniería Superior · Telecomunicación**, así que **el tema se comparte y sirve a las dos ocupaciones** |
+| **Extensión** | **3.719 palabras** |
 
 <!-- /portada -->
 

@@ -1,5 +1,18 @@
 # Tema 17 del específico de Medicina de Empresa · Patología por tóxicos, toxiinfecciones alimentarias y adicciones
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 17 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ley 28/2005**, de 26 de diciembre, de medidas sanitarias frente al tabaquismo, y **Real Decreto 2210/1995**, con la **nota técnica 586**, el material «Gana en salud» del Instituto y el **protocolo de agentes biológicos** |
+| **Identificador** | `BOE-A-2005-21261` · `BOE-A-1996-1502` · **NTP 586** · Material del INSST · Protocolo del Consejo Interterritorial |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Extensión** | **5.076 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que en las notas que aquí
@@ -25,6 +38,22 @@ enunciado del punto 13 ya los pedía.** **Este tema NO los repite: da la toxicoc
 fundamenta —que allí no cabía— y remite lo demás al tema 13.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La toxicocinética](#1-la-toxicocinética)
+- [2. La toxicodinamia y sus dos conceptos](#2-la-toxicodinamia-y-sus-dos-conceptos)
+- [3. Los indicadores biológicos: conceptos y tipos](#3-los-indicadores-biológicos-conceptos-y-tipos)
+- [4. Medidas preventivas generales frente a los tóxicos](#4-medidas-preventivas-generales-frente-a-los-tóxicos)
+- [5. Intoxicaciones y toxiinfecciones de origen alimentario](#5-intoxicaciones-y-toxiinfecciones-de-origen-alimentario)
+- [6. Alcohol, tabaco y drogodependencias en el medio laboral](#6-alcohol-tabaco-y-drogodependencias-en-el-medio-laboral)
+  - [El tabaco](#el-tabaco)
+  - [El alcohol y las demás drogas](#el-alcohol-y-las-demás-drogas)
+- [7. La valoración clínico-laboral](#7-la-valoración-clínico-laboral)
+- [8. Dos hallazgos de las fuentes](#8-dos-hallazgos-de-las-fuentes)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La toxicocinética

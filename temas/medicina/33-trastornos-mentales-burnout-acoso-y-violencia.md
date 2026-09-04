@@ -1,5 +1,19 @@
 # Tema 33 del específico de Medicina de Empresa · Trastornos mentales, burnout, acoso y violencia en el trabajo
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 33 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Guías de práctica clínica del Sistema Nacional de Salud** sobre trastornos de ansiedad (2008) y sobre el manejo de la depresión en el adulto (2014), con las **notas técnicas 704, 705, 476, 507 y 489** |
+| **Identificador** | Guías de práctica clínica del SNS, 2008 y 2014 · **NTP 704, 705, 476, 507 y 489** |
+| **Redacción que se estudia** | Los documentos técnicos y protocolos, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **La nota técnica sobre violencia es de 1998 y cita normas ya sustituidas**: la Ley Orgánica 1/1992 y la Ley 23/1992 de Seguridad Privada. Se cita tal cual y se advierte de la sustitución |
+| **Extensión** | **8.845 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el
 Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**), que hasta
@@ -49,6 +63,21 @@ de ellos —que es poco pero no es nada— y declara el resto en el epígrafe 10
 inventárselo.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los trastornos de ansiedad: definición, etiología y clínica](#1-los-trastornos-de-ansiedad-definición-etiología-y-clínica)
+- [2. Los trastornos depresivos: factores de riesgo, criterios y gravedad](#2-los-trastornos-depresivos-factores-de-riesgo-criterios-y-gravedad)
+- [3. Repercusión laboral y valoración clínico-laboral](#3-repercusión-laboral-y-valoración-clínico-laboral)
+- [4. El síndrome de estar quemado por el trabajo: concepto y proceso](#4-el-síndrome-de-estar-quemado-por-el-trabajo-concepto-y-proceso)
+- [5. El burnout: consecuencias, evaluación y prevención](#5-el-burnout-consecuencias-evaluación-y-prevención)
+- [6. El acoso psicológico y el acoso sexual](#6-el-acoso-psicológico-y-el-acoso-sexual)
+- [7. La violencia en el lugar de trabajo](#7-la-violencia-en-el-lugar-de-trabajo)
+- [8. El síndrome psicótico, el psicosomático y el simulador](#8-el-síndrome-psicótico-el-psicosomático-y-el-simulador)
+- [9. Advertencias sobre las fuentes](#9-advertencias-sobre-las-fuentes)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los trastornos de ansiedad: definición, etiología y clínica

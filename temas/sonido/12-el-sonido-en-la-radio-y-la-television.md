@@ -1,5 +1,19 @@
 # Tema 12 del específico de Sonido · El sonido en la radio y la televisión
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 10 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la operación de sonido en radio y televisión, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sólo con la plantilla** | **El enunciado más largo del anexo tiene UNA pregunta, y es sobre un gesto de la mano.** Es **la respuesta peor documentada de las ochenta y seis de este bloque**: los gestos del control son convenio de casa y **no hay fuente pública que los fije.** El temario lo declara y aporta la clasificación de los gestos en entrar, salir y preparar |
+| **Extensión** | **1.541 palabras** |
+
+<!-- /portada -->
+
 Los términos de este tema, presentados de entrada: el control y el locutorio, que son las dos mitades
 de un estudio de radio; la ráfaga o cortinilla; el corte, que en radio es un fragmento grabado de
 declaraciones; la careta; el ambiente o *wildtrack*; la escaleta; y el lenguaje de señas de un control

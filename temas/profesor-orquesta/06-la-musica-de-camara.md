@@ -1,5 +1,19 @@
 # Tema 6 del específico de Profesor de Orquesta · La música de cámara
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 2 |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma: este anexo no nombra ninguna.** Las cinco agrupaciones que el tema desarrolla son **las que el propio enunciado enumera** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **El punto menos preguntado** | **Dos preguntas de ochenta y seis.** El tema se escribe igual, contra el programa, **pero conviene que quien estudia sepa dónde está el peso, y aquí no está** |
+| **Extensión** | **1.573 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas. **Las agrupaciones se nombran enteras**, como las nombra el programa.
 
 > Enunciado del programa (Anexo 2 de las bases específicas de la convocatoria 1/2022, temario
@@ -21,6 +35,15 @@ misma línea; en un cuarteto, cuatro instrumentos llevan cuatro voces distintas 
 duplique a nadie.** **De ahí salen su origen, su finalidad y sus agrupaciones.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Qué es, y por qué se llama así](#1-qué-es-y-por-qué-se-llama-así)
+- [2. Las agrupaciones que el programa nombra](#2-las-agrupaciones-que-el-programa-nombra)
+- [3. Las agrupaciones más comunes](#3-las-agrupaciones-más-comunes)
+- [4. Por qué el cuarteto de cuerda es la formación de referencia](#4-por-qué-el-cuarteto-de-cuerda-es-la-formación-de-referencia)
+- [5. Trazabilidad](#5-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Qué es, y por qué se llama así

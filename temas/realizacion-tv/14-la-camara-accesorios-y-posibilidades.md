@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
 | **Advertencia** | **El enunciado de este punto del anexo contiene una errata: escribe «Diagrama» donde debe leerse «Diafragma».** La lista es «Foco. Profundidad de campo. Diagrama. Filtros»: los cuatro conceptos de una óptica. **El examen lo confirma**, y **el temario desarrolla el diafragma y declara la errata en lugar de arrastrarla** |
-| **Extensión** | **5.273 palabras** |
+| **Extensión** | **5.275 palabras** |
 
 <!-- /portada -->
 

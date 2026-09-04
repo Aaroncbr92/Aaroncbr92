@@ -1,5 +1,19 @@
 # Tema 6 del específico de Técnica de Equipos y Sistemas Electrónicos · Circuitos integrados y secuenciales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 6 y 7 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son los circuitos combinacionales y secuenciales, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Punto limpio** | **Ninguna de sus cuatro preguntas lleva figura y las cuatro son de definición.** Es el punto más rentable de la mitad electrónica del temario |
+| **Extensión** | **1.675 palabras** |
+
+<!-- /portada -->
+
 Los términos y siglas de este tema, presentados de entrada: el circuito integrado (**CI**); el
 multiplexor (**MUX**) y el demultiplexor (**DEMUX**); el codificador y el decodificador; la unidad
 aritmético-lógica (**ALU**, *arithmetic logic unit*); el biestable (***flip-flop***) y sus variantes

@@ -1,5 +1,19 @@
 # Tema 3 del específico de Sonido · Música, instrumentos e historia de la música
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 1.6 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es teoría musical, organología e historia de la música, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Sin preguntas** | **Este punto no ha dado una sola pregunta en los dos llamamientos.** El tema se escribe igual, contra el programa: **un punto con cero preguntas puede tener cuatro en la convocatoria siguiente.** Es el segundo caso del proyecto, tras el punto 11 de Información Gráfica |
+| **Extensión** | **1.588 palabras** |
+
+<!-- /portada -->
+
 Los términos de este tema, presentados de entrada: las figuras del solfeo —redonda, blanca, negra,
 corchea, semicorchea, fusa y semifusa—; el compás y su cifra indicadora; el tempo medido en pulsos
 por minuto (**BPM**, *beats per minute*); las cuatro familias de la orquesta; la banda sonora

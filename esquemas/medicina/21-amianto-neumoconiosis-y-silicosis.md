@@ -3,6 +3,19 @@
 Esqueleto para repasar. Todo desarrollado y verificado en el tema.
 
 <!-- indice -->
+
+## Índice
+
+- [Las dos mitades](#las-dos-mitades)
+- [Amianto: variedades y fibra](#amianto-variedades-y-fibra)
+- [Ámbito, valor límite y deslindes](#ámbito-valor-límite-y-deslindes)
+- [Medidas técnicas y organizativas](#medidas-técnicas-y-organizativas)
+- [Efectos sobre la salud](#efectos-sobre-la-salud)
+- [Vigilancia de la salud](#vigilancia-de-la-salud)
+- [Silicosis](#silicosis)
+- [Hallazgo](#hallazgo)
+- [Lo preguntable](#lo-preguntable)
+
 <!-- /indice -->
 
 ## Las dos mitades

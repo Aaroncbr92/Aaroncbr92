@@ -1,5 +1,19 @@
 # Tema 16 del específico de Técnica de Equipos y Sistemas Electrónicos · Mantenimiento en televisión
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Técnica de Equipos y Sistemas Electrónicos · punto 19 |
+| **Sirve para** | **Técnica de Equipos y Sistemas Electrónicos** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la explotación de una instalación de televisión, y **va entera como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Aviso de contenido** | **Ninguna de sus tres preguntas es de electrónica**: dos son de licencias de programas y una de criterio ante una avería en directo. **Es el punto donde esta ocupación deja de ser un oficio de banco de trabajo y pasa a ser un oficio de explotación**, y el examen lo ha entendido así |
+| **Extensión** | **2.409 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el conjunto redundante de discos independientes
 (**RAID**) y el sistema de alimentación ininterrumpida (**SAI**), los dos ya usados en temas
 anteriores de esta ocupación.

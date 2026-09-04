@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2002-18099` · BOE núm. 224, de 18/09/2002 |
 | **Redacción que se estudia** | La vigente el **21/12/2022**. Se citan **los apartados 2 y 4 del artículo 4** |
 | **Aviso de reparto** | **Este punto NOMBRA transformadores y motores; el punto 2 los DESARROLLA.** Aquí se presentan y se remite: dos temas del mismo específico no dicen lo mismo |
-| **Extensión** | **3.419 palabras** |
+| **Extensión** | **3.422 palabras** |
 
 <!-- /portada -->
 

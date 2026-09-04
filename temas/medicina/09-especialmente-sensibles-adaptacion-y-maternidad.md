@@ -1,5 +1,18 @@
 # Tema 9 del específico de Medicina de Empresa · Trabajadores especialmente sensibles, adaptación del puesto y protección de la maternidad
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 9 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Ley 31/1995**, artículos 25, 26 y 27, y **Real Decreto 39/1997** para la evaluación de los trabajadores especialmente sensibles y la protección de la maternidad |
+| **Identificador** | `BOE-A-1995-24292` · `BOE-A-1997-1853` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **4.032 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Instituto Nacional de la Seguridad Social (**INSS**); el Sistema Nacional de Salud
@@ -21,6 +34,19 @@ que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), 
 tiene servicio de prevención propio con actividad sanitaria**, y **el punto está escrito desde ahí.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los trabajadores especialmente sensibles](#1-los-trabajadores-especialmente-sensibles)
+- [2. Adaptación y cambio de puesto por motivos de salud](#2-adaptación-y-cambio-de-puesto-por-motivos-de-salud)
+- [3. Protección de la maternidad: los cuatro escalones](#3-protección-de-la-maternidad-los-cuatro-escalones)
+- [4. La lactancia natural](#4-la-lactancia-natural)
+- [5. Las dos listas del reglamento](#5-las-dos-listas-del-reglamento)
+- [6. Actuación de un servicio de prevención propio](#6-actuación-de-un-servicio-de-prevención-propio)
+- [7. La prestación económica](#7-la-prestación-económica)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los trabajadores especialmente sensibles

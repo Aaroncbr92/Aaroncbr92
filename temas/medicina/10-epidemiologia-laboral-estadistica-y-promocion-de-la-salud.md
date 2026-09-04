@@ -1,5 +1,19 @@
 # Tema 10 del específico de Medicina de Empresa · Epidemiología laboral, estadística y promoción de la salud
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 10 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 2210/1995**, de 28 de diciembre, de la red nacional de vigilancia epidemiológica, y **Ley 33/2011** General de Salud Pública, con material docente del Instituto y los indicadores de salud del Ministerio de Sanidad |
+| **Identificador** | `BOE-A-1996-1502` · `BOE-A-2011-15623` · Material docente del INSST · Documentos del Ministerio de Sanidad |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **Trae un hallazgo en la fuente**: el material docente del Instituto imprime «b+c» como total de una columna que contiene b y d. Comprobado y declarado |
+| **Extensión** | **4.881 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el Instituto Nacional de Seguridad y Salud en el
 Trabajo (**INSST**); sus notas técnicas de prevención (**NTP**); el Sistema Nacional de Salud
 (**SNS**); las enfermedades de declaración obligatoria (**EDO**); la Ley de Prevención de Riesgos
@@ -23,6 +37,23 @@ escribe así.
 promoción de la salud en un solo enunciado.** **Cada bloque tiene su fuente y se dice cuál.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Epidemiología laboral: concepto y funciones](#1-epidemiología-laboral-concepto-y-funciones)
+- [2. El sistema de vigilancia epidemiológica](#2-el-sistema-de-vigilancia-epidemiológica)
+- [3. Las enfermedades de declaración obligatoria](#3-las-enfermedades-de-declaración-obligatoria)
+- [4. Sistemas de información en salud laboral](#4-sistemas-de-información-en-salud-laboral)
+- [5. Estadística descriptiva](#5-estadística-descriptiva)
+- [6. Medidas de frecuencia de enfermedad](#6-medidas-de-frecuencia-de-enfermedad)
+- [7. Planificación sanitaria](#7-planificación-sanitaria)
+- [8. Promoción de la salud en el medio laboral](#8-promoción-de-la-salud-en-el-medio-laboral)
+- [9. Educación para la salud y empresas saludables](#9-educación-para-la-salud-y-empresas-saludables)
+- [10. Indicadores de salud](#10-indicadores-de-salud)
+- [11. Qué hace la medicina del trabajo](#11-qué-hace-la-medicina-del-trabajo)
+- [12. Lo que este tema no da, y dónde está](#12-lo-que-este-tema-no-da-y-dónde-está)
+- [13. Trazabilidad](#13-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Epidemiología laboral: concepto y funciones

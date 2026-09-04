@@ -1,5 +1,19 @@
 # Tema 11 del específico de Ingeniería Superior · Telecomunicación · Elementos de producción (I): cámaras, ópticas, conmutación, grabación y edición
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · punto 11 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son las cámaras, la conmutación y la edición, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Lo que hace un plató** | **No es la cámara: es la IGUALACIÓN.** Dos cámaras del mismo modelo con la misma luz no dan la misma imagen si no se igualan |
+| **Extensión** | **2.693 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la unidad de control de cámara (**CCU**);
 el panel de control remoto (**RCP**) y el panel maestro de configuración (**MSU**); el dispositivo de
 carga acoplada (**CCD**) y el sensor de semiconductor complementario (**CMOS**); la interfaz de entrada
@@ -26,6 +40,18 @@ imagen son un solo aparato repartido por el edificio**, y **todo lo que aquí se
 mejor así.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La cadena de cámara](#1-la-cadena-de-cámara)
+- [2. La óptica](#2-la-óptica)
+- [3. El sensor](#3-el-sensor)
+- [4. Los elementos de suspensión](#4-los-elementos-de-suspensión)
+- [5. La conmutación](#5-la-conmutación)
+- [6. La grabación y la edición](#6-la-grabación-y-la-edición)
+- [7. Transmisión cableada e inalámbrica](#7-transmisión-cableada-e-inalámbrica)
+- [8. Trazabilidad](#8-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La cadena de cámara

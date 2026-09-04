@@ -1,5 +1,18 @@
 # Tema 18 del específico de Medicina de Empresa · Agentes cancerígenos y mutágenos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 18 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Real Decreto 665/1997**, de 12 de mayo, de agentes cancerígenos durante el trabajo, con el **Real Decreto 1299/2006** para el grupo 6 del cuadro |
+| **Identificador** | `BOE-A-1997-11145` · `BOE-A-2006-22169` |
+| **Redacción que se estudia** | La vigente el **21/12/2022** |
+| **Extensión** | **5.052 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales (**LPRL**),
 que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el Real Decreto
 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); sus notas técnicas de
@@ -25,6 +38,22 @@ demás**: **aquí no hay umbral seguro.** **La no superación del valor límite 
 reduciendo.** **La norma lo dice con todas las letras y se cita en el epígrafe 4.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Conceptos y categorías](#1-conceptos-y-categorías)
+- [2. El ámbito y sus dos deslindes](#2-el-ámbito-y-sus-dos-deslindes)
+- [3. La identificación y la evaluación](#3-la-identificación-y-la-evaluación)
+- [4. La jerarquía de prevención: la escalera del artículo 5](#4-la-jerarquía-de-prevención-la-escalera-del-artículo-5)
+- [5. Higiene personal y protección individual](#5-higiene-personal-y-protección-individual)
+- [6. Exposiciones accidentales y no regulares](#6-exposiciones-accidentales-y-no-regulares)
+- [7. La vigilancia de la salud y la documentación](#7-la-vigilancia-de-la-salud-y-la-documentación)
+- [8. Patogénesis del cáncer](#8-patogénesis-del-cáncer)
+- [9. La patología cancerosa de origen laboral](#9-la-patología-cancerosa-de-origen-laboral)
+- [10. Dos hallazgos de las fuentes](#10-dos-hallazgos-de-las-fuentes)
+- [11. Lo que este tema no da, y dónde está](#11-lo-que-este-tema-no-da-y-dónde-está)
+- [12. Trazabilidad](#12-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Conceptos y categorías

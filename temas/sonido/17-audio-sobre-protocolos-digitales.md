@@ -1,5 +1,18 @@
 # Tema 17 del específico de Sonido · Audio sobre protocolos digitales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Sonido · punto 15 |
+| **Sirve para** | **Sonido** |
+| **Fuente** | **Sin norma: no la hay.** Su materia son las interfaces digitales de audio y la sincronía, y **va entera como oficio**: los textos de las normas de la Sociedad de Ingeniería de Audio **están tras un muro de pago y no se han leído** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Extensión** | **2.345 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la interfaz digital de audio multicanal (**MADI**,
 *multichannel audio digital interface*), que es la norma **AES10** de la Sociedad de Ingeniería de
 Audio (**AES**); la norma de dos canales **AES3**,

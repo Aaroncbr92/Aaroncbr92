@@ -1,5 +1,19 @@
 # Tema 13 del específico de Ingeniería Superior · Telecomunicación · Las salas: estudio de televisión, continuidades y controles técnicos
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Ing. Superior Telecomunicación · puntos 13, 14 y 15 |
+| **Sirve para** | **Ing. Superior Telecomunicación** |
+| **Fuente** | **Sin norma: no la hay.** Su materia es la arquitectura de las salas de una televisión, y **va entero como oficio** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma se cita literalmente en este tema** |
+| **Tres puntos en uno** | **Los enunciados 13, 14 y 15 son la misma frase con el nombre de la sala cambiado.** Separarlos daría tres temas que se repetirían |
+| **Extensión** | **2.946 palabras** |
+
+<!-- /portada -->
+
 Las siglas y símbolos de este tema, presentados de entrada: la unidad de control de cámara (**CCU**);
 el visualizador bajo el monitor (**UMD**, *under monitor display*); la señalización de cámara en el
 aire (**tally**); el protocolo de gestión de esas señalizaciones (**TSL**); la imagen dentro de imagen
@@ -31,6 +45,16 @@ matriz y sincronizadas por una referencia común.** **Cambia lo que cada sala ha
 arquitectura.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La arquitectura común](#1-la-arquitectura-común)
+- [2. El estudio de televisión](#2-el-estudio-de-televisión)
+- [3. Las continuidades](#3-las-continuidades)
+- [4. Los controles técnicos y las salas técnicas](#4-los-controles-técnicos-y-las-salas-técnicas)
+- [5. La interconexión y los puestos de trabajo](#5-la-interconexión-y-los-puestos-de-trabajo)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La arquitectura común

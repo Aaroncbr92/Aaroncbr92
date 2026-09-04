@@ -1,5 +1,19 @@
 # Tema 1 del específico de Profesor de Orquesta · Los estilos y los periodos de la música clásica
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 1, subpunto 1.2 (estilos) |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma: este anexo no nombra ninguna.** Su materia es historia de la música, y **el volumen se apoya en tres cosas: lo que el anexo nombra, lo que la plantilla confirma y lo definicional** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Aquí va el aviso del volumen** | **Sin norma y con materia de historia de la música, una fecha escrita de memoria sería justo lo que el método prohíbe.** El aviso completo va en este tema, entero y una sola vez |
+| **Extensión** | **2.082 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas. **Los periodos, los estilos y los compositores se nombran con su nombre
 entero**, porque **la abreviatura en música es del oficio y no del examen**, y **el examen escribe los
 nombres enteros.**
@@ -39,6 +53,16 @@ del volumen.** **Un estilo se contesta situando una fecha, y las fechas de los d
 preguntan las confirma la propia plantilla.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los seis estilos que el programa nombra](#1-los-seis-estilos-que-el-programa-nombra)
+- [2. Cómo se contesta una pregunta de estilo](#2-cómo-se-contesta-una-pregunta-de-estilo)
+- [3. La danza como marca de periodo](#3-la-danza-como-marca-de-periodo)
+- [4. El nacionalismo, que es el estilo peor entendido](#4-el-nacionalismo-que-es-el-estilo-peor-entendido)
+- [5. Lo que este tema deja fuera, dicho por su nombre](#5-lo-que-este-tema-deja-fuera-dicho-por-su-nombre)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los seis estilos que el programa nombra

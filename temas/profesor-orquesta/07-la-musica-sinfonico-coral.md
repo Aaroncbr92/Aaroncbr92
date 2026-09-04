@@ -1,5 +1,19 @@
 # Tema 7 del específico de Profesor de Orquesta · La música sinfónico-coral
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 3 |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma: este anexo no nombra ninguna.** La clasificación de la voz según tesitura se da como **clasificación por altura, que es lo que el programa pide** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Dos subpuntos, dos maneras de estudiar** | **El 3.1 es una CLASIFICACIÓN y se razona; el 3.2 es un CATÁLOGO y se memoriza obra a obra** |
+| **Extensión** | **1.927 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas. **Las voces, las obras y sus autores se nombran enteros.**
 
 > Enunciado del programa (Anexo 2 de las bases específicas de la convocatoria 1/2022, temario
@@ -16,6 +30,15 @@ está.** **El 3.2 es un CATÁLOGO, y un catálogo se memoriza obra a obra.** **D
 reparto entre las dos mitades no es el que parece.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. La clasificación de la voz según tesitura](#1-la-clasificación-de-la-voz-según-tesitura)
+- [2. La ópera](#2-la-ópera)
+- [3. El oratorio, la misa y la pasión](#3-el-oratorio-la-misa-y-la-pasión)
+- [4. La obra sinfónico-coral propiamente dicha](#4-la-obra-sinfónico-coral-propiamente-dicha)
+- [5. Trazabilidad](#5-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. La clasificación de la voz según tesitura

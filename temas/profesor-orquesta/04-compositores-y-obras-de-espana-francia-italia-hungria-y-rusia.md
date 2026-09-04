@@ -1,5 +1,19 @@
 # Tema 4 del específico de Profesor de Orquesta · Compositores y obras de España, Francia, Italia, Hungría y Rusia
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Profesor de Orquesta · punto 1, subpunto 1.1 |
+| **Sirve para** | **Profesor de Orquesta** |
+| **Fuente** | **Sin norma: este anexo no nombra ninguna.** Los cinco países que reparten este tema son **los que el propio enunciado del punto 1 nombra** |
+| **Identificador** | — |
+| **Redacción que se estudia** | No procede: **ninguna norma sostiene este tema** |
+| **Hallazgo de cobertura declarado** | **El punto 1 nombra siete países y la pregunta 2 examina de un compositor estadounidense.** La lista de compositores lleva puntos suspensivos; **la de países, no** |
+| **Extensión** | **1.736 palabras** |
+
+<!-- /portada -->
+
 Este tema no usa siglas. **Los compositores y las obras se nombran enteros.**
 
 > Enunciado del programa (Anexo 2 de las bases específicas de la convocatoria 1/2022, temario
@@ -18,6 +32,16 @@ pide de él es sobre todo ATRIBUCIÓN**: quién escribió qué. **Se estudia por
 su país.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los cinco países y lo que ha caído de cada uno](#1-los-cinco-países-y-lo-que-ha-caído-de-cada-uno)
+- [2. Rusia, que es la escuela más preguntada](#2-rusia-que-es-la-escuela-más-preguntada)
+- [3. España](#3-españa)
+- [4. Italia y Francia](#4-italia-y-francia)
+- [5. La pregunta que sale de los siete países del programa](#5-la-pregunta-que-sale-de-los-siete-países-del-programa)
+- [6. Trazabilidad](#6-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los cinco países y lo que ha caído de cada uno

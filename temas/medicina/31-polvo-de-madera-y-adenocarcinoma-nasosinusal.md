@@ -1,5 +1,19 @@
 # Tema 31 del específico de Medicina de Empresa · Polvo de madera y adenocarcinoma de fosas nasales y senos paranasales
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Medicina de Empresa · punto 31 |
+| **Sirve para** | **Medicina de Empresa** |
+| **Fuente** | **Protocolo y guía para la vigilancia sanitaria del adenocarcinoma de fosas nasales y senos paranasales** en personas expuestas a polvo de madera, del Ministerio de Sanidad, con el **Real Decreto 1299/2006** y el **Real Decreto 665/1997** |
+| **Identificador** | Protocolo y guía del Consejo Interterritorial, 2019 · `BOE-A-2006-22169` · `BOE-A-1997-11145` |
+| **Redacción que se estudia** | La norma, la vigente el **21/12/2022**; los documentos técnicos, **en la edición que cada uno lleva impresa** |
+| **Aviso** | **A la fecha de corte el valor límite del polvo de maderas duras era el transitorio de 3 mg/m³**, en vigor hasta el 17 de enero de 2023, y no el de 2 mg/m³ que rige después |
+| **Extensión** | **7.078 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la Ley de Prevención de Riesgos Laborales
 (**LPRL**), que es la Ley 31/1995; el reglamento de los servicios de prevención (**RSP**), que es el
 Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo (**INSST**); la Agencia
@@ -33,6 +47,20 @@ valor límite del polvo de maderas duras.**
 **Este tema lo desarrolla entero y con cifras, porque aquí no hay dónde esconderse.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Criterios de aplicación y encuadre normativo](#1-criterios-de-aplicación-y-encuadre-normativo)
+- [2. El adenocarcinoma nasosinusal: epidemiología y relación con el trabajo](#2-el-adenocarcinoma-nasosinusal-epidemiología-y-relación-con-el-trabajo)
+- [3. Las nueve actividades del cuadro](#3-las-nueve-actividades-del-cuadro)
+- [4. Clínica y diagnóstico](#4-clínica-y-diagnóstico)
+- [5. El protocolo de vigilancia: contenido y periodicidad](#5-el-protocolo-de-vigilancia-contenido-y-periodicidad)
+- [6. Las seis recomendaciones de la guía](#6-las-seis-recomendaciones-de-la-guía)
+- [7. Criterios de actuación y aptitud](#7-criterios-de-actuación-y-aptitud)
+- [8. Advertencias sobre las fuentes](#8-advertencias-sobre-las-fuentes)
+- [9. Lo que este tema no da, y dónde está](#9-lo-que-este-tema-no-da-y-dónde-está)
+- [10. Trazabilidad](#10-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Criterios de aplicación y encuadre normativo
