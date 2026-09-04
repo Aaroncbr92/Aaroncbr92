@@ -1,0 +1,202 @@
+NTP 443: Factores psicosociales: metodología de evaluación
+Facteurs psychosociaux: méthodologie d'evaluation 
+Psychosocial Fators: Assesment methodology
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Actualizada por la NTP 926.
+Redactores:
+Félix Martín Daza 
+Ldo. en Psicología
+Jesús Pérez Bilbao 
+Ldo. en Psicología
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+El concepto de factores psicosociales hace referencia a aquellas condiciones que se encuentran presentes en una situación laboral y 
+que están directamente relacionadas con la organización, el contenido del trabajo y la realización de la tarea, y que tienen capacidad 
+para afectar tanto al bienestar o a la salud (física, psíquica o social) del trabajador como al desarrollo del trabajo. Así pues, unas 
+condiciones psicosociales desfavorables están en el origen de la aparición tanto de determinadas conductas y actitudes inadecuadas 
+en el desarrollo del trabajo como de determinadas consecuencias perjudiciales para la salud y para el bienestar del trabajador.
+Las consecuencias perjudiciales sobre la salud o el bienestar del trabajador que se derivan de una situación en las que se dan unas 
+condiciones psicosociales adversas o desfavorables son el estrés (con toda la problemática que lleva asociada), la insatisfacción 
+laboral, problemas de relación, desmotivación laboral, etc.
+Ante una determinada condición psicosocial laboral adversa no todos los trabajadores desarrollarán las mismas reacciones. Ciertas 
+características propias de cada trabajador (personalidad, necesidades, expectativas, vulnerabilidad, capacidad de adaptación, etc.) 
+determinarán la magnitud y la naturaleza tanto de sus reacciones como de las consecuencias que sufrirá. Así, estas características 
+personales también tienen un papel importante en la generación de problemas de esta naturaleza.
+Tanto en el trabajo como fuera de él, las personas se ven expuestas a una gran cantidad de factores que ponen a prueba su capacidad 
+de adaptación. Esta capacidad es limitada: así, el efecto sinérgico de estos factores sobre la persona van minando su capacidad de 
+resistencia o de adaptación, de manera que, tal vez, un aspecto, en principio nimio, sea el que desencadene una reacción en la 
+persona. Este método evalúa aquellos aspectos que se han destacado por su capacidad para minar esa resistencia.
+La importancia que se otorga a la percepción y atribución que un colectivo de trabajadores posee acerca de ciertas condiciones 
+psicosociales que se dan en su trabajo como forma adecuada de valoración de tales condiciones, se realiza en función del siguiente 
+presupuesto: la realidad psicosocial hace referencia no tanto a las condiciones que objetivamente se dan sino a cómo son percibidas y 
+experimentadas por la persona.
+El método que se presenta ha sido editado por el Instituto Nacional de Seguridad e Higiene en el Trabajo, en formato de AlP 
+(Aplicación Informática para la Prevención), con la denominación de Factores Psicosociales. Método de evaluación. La AlP contiene el 
+cuestionario, el programa informático para la obtención de los distintos perfiles e instrucciones detalladas para la correcta utilización del 
+método.
+Cuestionario
+El cuestionario del método de factores psicosociales está compuesto por 75 preguntas con la que se obtiene información acerca de 7 
+factores, cada uno de los cuales es evaluado en una escala de puntuación de rango entre 0 y 10.
+Las preguntas planteadas en el cuestionario son de respuesta cerrada previamente codificadas.
+Año: 1995
+
+Descripción de los factores psicosociales
+El método estudia los siguientes factores: carga mental, autonomía temporal, contenido del trabajo, supervisión-participación, definición 
+de rol, interés por el trabajador, relaciones personales.
+Carga mental
+Por carga mental se entiende el grado de movilización, el esfuerzo intelectual que debe realizar el trabajador para hacer frente al 
+conjunto de demandas que recibe el sistema nervioso en el curso de realización de su trabajo. Este factor valora la carga mental a 
+partir de los siguiente indicadores:
+G     Las presiones de tiempo, contempladas a partir del tiempo asignado a la tarea, la recuperación de retrasos y el tiempo de 
+trabajo con rapidez.
+G     Esfuerzo de atención. Éste viene dado, por una parte, por la intensidad o el esfuerzo de concentración o reflexión necesarios 
+para recibir las informaciones del proceso y elaborar las respuestas adecuadas y por la constancia con debe ser sostenido este 
+esfuerzo. El esfuerzo de atención puede incrementarse en función de la frecuencia de aparición de posibles incidentes y las 
+consecuencias que pudieran ocasionarse durante el proceso por una equivocación del trabajador. Este aspecto es evaluado 
+considerando la intensidad de la atención y el tiempo que debe mantenerse y aspectos que la incrementan como la frecuencia y 
+las consecuencias de los errores.
+G     La fatiga percibida. La fatiga es una de las principales consecuencias que se desprenden de una sobrecarga de las exigencias 
+de la tarea.
+G     El número de informaciones que se precisan para realizar la tarea y el nivel de complejidad de las mismas son dos factores a 
+considerar para determinar la sobrecarga. Así, se mide la cantidad de información manejada y la complejidad de esa 
+información.
+G     La percepción subjetiva de la dificultad que para el trabajador tiene su trabajo.
+Autonomía temporal
+Este factor se refiere a La discreción concedida al trabajador sobre la gestión de su tiempo de trabajo y descanso. Se pregunta al 
+trabajador sobre la elección del ritmo o de la cadencia de trabajo y de la libertad que tiene para alternarlos si lo desea, así como 
+respecto a su capacidad para distribuir sus descansos.
+Contenido del trabajo
+Con el término "contenido del trabajo" se hace referencia al grado en que el conjunto de tareas que desempeña el trabajador activan 
+una cierta variedad de capacidades, responden a una serie de necesidades y expectativas del trabajador y permiten el desarrollo 
+psicológico del mismo.
+Las preguntas referentes a este factor pretenden ver en qué medida el trabajo está compuesto por tareas variadas y con sentido, 
+implica la utilización de diversas capacidades del trabajador, está constituido por tareas monótonas o repetitivas o en qué medida es un 
+trabajo que resulte importante, motivador o rutinario.
+Supervisión-participación
+Este factor define el grado de autonomía decisional: el grado de la distribución del poder de decisión, respecto a distintos aspectos 
+relacionados con el desarrollo del trabajo, entre el trabajador y la dirección.
+Este factor se evalúa a partir de la valoración que el trabajador otorga al control ejercido por la dirección y el grado de participación 
+efectiva respecto a distintos aspectos del trabajo así como por la valoración que el trabajador realiza de distintos medios de 
+participación.
+Cuadro 1: Relación de factores y subfactores
+Definición de rol
+Este factor considera los problemas que pueden derivarse del rol laboral y 
+organizacional otorgado a cada trabajador y es evaluado a partir de dos 
+cuestiones:
+G     La ambigüedad de rol. Se produce ésta cuando se da al trabajador una 
+inadecuada información sobre su rol laboral u organizacional.
+G     La conflictividad de rol. Existe conflictividad entre roles cuando existen 
+demandas de trabajo conflictivas o que el trabajador no desea cumplir. 
+Pueden darse conflictos entre las demandas de la organización y los 
+valores y creencias propias, conflictos entre obligaciones de distinta 
+gente y conflictos entre tareas muy numerosas o muy difíciles.
+
+Interés por el trabajador
+Este factor hace referencia al grado en que la empresa muestra una 
+preocupación de carácter personal y a largo plazo por el trabajador o bien si la 
+consideración que tiene del trabajador es de carácter instrumental y a corto 
+plazo. La preocupación personal y a largo plazo tiende a manifestarse en varios 
+aspectos: asegurando estabilidad en el empleo, considerando la evolución de la 
+carrera profesional de los trabajadores, facilitando información de los aspectos 
+que le puedan concernir y facilitando formación a los trabajadores. Por ello, se 
+evalúan aspectos relativos a la promoción, formación, información y estabilidad 
+en el empleo.
+Relaciones personales
+Este factor mide la calidad de las relaciones personales de los trabajadores y es 
+evaluado a través de tres conceptos. Se indaga hasta qué punto es posible la 
+comunicación con otros trabajadores: se hace referencia a la calidad de las 
+relaciones que el trabajador tiene con los distintos colectivos con los que puede 
+tener contacto y se valoran las relaciones que se dan generalmente en el grupo 
+de trabajo. (Ver cuadro 1)
+Aplicaciones del método
+Cabe destacar cinco posibles aplicaciones del método de factores psicosociales:
+a.  Para la evaluación de situaciones concretas
+La aplicación del método en un momento dado puede ser contemplada 
+como una "toma de temperatura" de ese momento. Los resultados 
+obtenidos muestran qué magnitud y qué particularidades presenta unos 
+determinados factores psicosociales en un grupo concreto, lo que 
+permite realizar un diagnóstico de las condiciones psicosociales de ese 
+grupo.
+b.  Para la localización de fuentes de problemas
+Dada la existencia de un problema y de cara a establecer sus posibles 
+remedios, el método permite identificar algunos de los ámbitos en los 
+que se está originando ese problema y así, orientar las posteriores 
+acciones a emprender.
+c.  Para diseñar cambios (contenido, magnitud y dirección) y priorizar 
+actuaciones
+De cara a llevar a cabo algunos cambios en las organización para 
+solucionar algún problema, los resultados obtenidos tras una aplicación 
+del método pueden orientar tanto para establecer qué tipo de acción ha 
+de llevarse a cabo, como para determinar la intensidad o la urgencia con 
+la que ha de llevarse a cabo esa acción o para señalar el ámbito 
+(colectivo, departamento, etc.) de intervención. Por otra parte, los 
+resultados obtenidos a partir de la aplicación de este método pueden 
+servir de orientación para priorizar unas acciones sobre otras.
+d.  Para la comparación de un grupo en dos momentos distintos o 
+entre distintos grupos
+Debido a que los resultados que ofrece el método están estandarizados, 
+los datos obtenidos en una aplicación a un grupo en un momento dado 
+pueden ser comparados con los datos recogidos en otro grupo o en el mismo grupo pero en momentos distintos. Eso permitirá, 
+por una parte, valorar la evolución de las condiciones psicosociales de trabajo en el tiempo o evaluar el impacto de 
+determinados cambios que se realicen y, por otra, observar las diferencias que a este nivel se dan entre distintos grupos.
+e.  Para tomar conciencia de la situación
+La utilización del método puede contribuir a la difusión de nuevas perspectivas acerca de la organización del trabajo y a 
+enriquecer el debate interno en la empresa con conceptos y puntos de vista inusuales en muchas empresas, sobre cuál puede 
+ser el origen de algunos problemas o cómo abordarlos.
+Presentación de resultados
+El método ha sido concebido para obtener valoraciones grupales de trabajadores en situaciones relativamente homogéneas; se 
+
+pretende conocer la situación de una serie de factores que afectan a un área organizativa (departamento, sección, grupo de trabajo ... ) 
+compuesta por varios trabajadores. Por ello, aunque, técnicamente sea posible, es desaconsejable trabajar con resultados individuales.
+La puntuación grupal se obtiene a partir de las puntuaciones de cada sujeto en cada factor y, ésta, a su vez, de las respuestas a las 
+preguntas que conforman cada factor. En general, las preguntas contribuyen de manera distinta a la puntuación final de su factor. 
+Igualmente, cada opción de respuesta tiene distinto valor. La distinta aportación de cada pregunta (y dentro de cada una de éstas, de 
+cada opción de respuesta) se ha establecido a partir de dos criterios:
+a.  Por la importancia del aspecto que mide una pregunta establecida teóricamente en función de la importancia que han dado a 
+ese aspecto distintos estudios y metodologías consultadas para la elaboración de este método.
+b.  Por la relación que las preguntas han mostrado experimentalmente con variables como el absentismo, la insatisfacción laboral y 
+la sintomatología psicosomática.
+El método presenta los resultados en dos diferentes formatos: por un lado se ofrecen las medias del colectivo analizado para cada uno 
+de los factores (Perfil Valorativo) y, por otro, se ofrece el porcentaje de contestación a cada opción de respuesta de cada pregunta 
+(Perfil Descriptivo).
+Perfil Valorativo
+Ofrece la media de las puntuaciones del colectivo analizado para cada uno de los factores psicosociales de los que consta el método. 
+Estas puntuaciones son trasladadas a un perfil gráfico (ver Tabla 1) en el que se presenta una escala de valores comprendida entre 0 y 
+10 para cada factor.
+Tabla 1: Perfil valorativo
+
+En este perfil se distinguen tres diferentes tramos que indican distintas situaciones de riesgo:
+1.  Situación satisfactoria (desde 0 a 4 puntos).
+2.  Situación intermedia (desde 4 a 7 puntos). Las condiciones existentes pueden generar molestias a un cierto número de 
+trabajadores pero no son lo suficientemente graves como para demandar una intervención inmediata. Sin embargo, es una 
+situación que es preciso subsanar en cuanto sea posible, ya que estos factores pueden resultar, en el futuro, fuentes de 
+problemas.
+3.  Situación nociva (desde 7 a 10 puntos). Los factores cuya puntuación está comprendida en este tramo requieren una 
+intervención en el plazo más breve posible. Es previsible que en situaciones de este tipo exista entre los trabajadores una gran 
+insatisfacción con su trabajo, o una tendencia al incremento del absentismo o que aparezca sintomatología asociada al estrés.
+Además, para cada factor se indica en unos recuadros situados debajo de cada escala, el porcentaje de trabajadores que se posiciona 
+en cada una de las tres situaciones mencionadas.
+Perfil Descriptivo
+Ofrece una información detallada de cómo se posicionan los trabajadores ante cada pregunta, permitiendo conocer el porcentaje de 
+elección de cada opción de respuesta, lo cual permite obtener datos acerca de aspectos concretos relativos a cada factor.
+Justificación estadística
+Los distintos ítems y factores que conforman el método han sido analizados estadísticamente con el fin de asegurar su fiabilidad y 
+validez. La consistencia interna del método se obtuvo a través de las correlaciones entre los ítems de cada uno de los factores, 
+obteniéndose cifras estadísticamente significativas.
+Para el cálculo de la estabilidad de las medidas se utilizó el método test-retest. Así mismo, los distintos factores fueron correlacionados 
+con una medida de absentismo referido por los propios encuestados, con la Escala de Satisfacción de Warr, Cook y Wall (ver NTP 394) 
+y con el Test de Salud Total de Langner (ver NTP 421). Los resultados de tales correlaciones se presentan en la Tabla 2.
+Tabla 2: Justificación estadística y correlaciones con otras variables
+Bibliografía
+(1) LEPLAT, J. Y CUNY, X. 
+Psicología del trabajo. Enfoques y técnicas 
+Pablo del Río, Madrid, 1978
+(2) MUCHINSKY, P.M. 
+Psicología aplicada al trabajo 
+Desclée de Brouwer, Bilbao, 1994
+(3) OIT/OMS 
+Identificación y control de los factores psicosociales nocivos en el trabajo 
+Informe del Comité Mixto OIT/OMS de medicina del trabajo. Novena Reunión. Ginebra 18-24 de septiembre de 1984
+   © INSHT

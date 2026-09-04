@@ -1,0 +1,391 @@
+ 
+NTP 489: Violencia en el lugar de trabajo
+La violence dans le lieu de travail 
+Workplace violence
+Redactores:
+Jesús Pérez Bilbao 
+Ldo. en Psicología 
+Ldo. en Derecho
+Clotilde Nogareda Cuixart 
+Lda. en Psicología
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+La presente NTP aborda la problemática de los comportamientos violentos de los que pueden ser víctimas las personas por razón de 
+su trabajo. Se ofrece una clasificación de los tipos de violencia y se propone unos criterios para el análisis del riesgo y una serie de 
+medidas preventivas de carácter genérico. Finaliza la NTP con unos apuntes sobre la legislación española sobre la materia.
+Introducción
+Uno de los riesgos a los que están sometidos las personas en el desempeño de su trabajo deriva de la interrelación con otras 
+personas. El despliegue de comportamientos violentos puede suponer un importante riesgo para la salud y seguridad de las personas. 
+La violencia sufrida en el lugar de trabajo es un problema al que se le va prestando una atención creciente. Según datos aportados por 
+la Encuesta Europea sobre Condiciones de Trabajo en la Unión Europea (1996), la violencia física ha afectado al 3,6% de los 
+trabajadores de la Unión Europea en el periodo de doce meses inmediatamente anterior a la realización de la encuesta. Hombres y 
+mujeres se encuentran afectados por igual, siendo el sector servicios el que más episodios de violencia registra. Los datos referentes a 
+España ofrecen un porcentaje algo inferior (2%) a la media comunitaria. En el ámbito europeo, y según su actividad, quienes más 
+episodios de violencia refieren son las Administraciones, almacenes, comercios y talleres, y hoteles y restaurantes.
+En países como Estados Unidos, en los que la violencia es un problema mucho más severo que en Europa, las cifras llegan a ser 
+escandalosas. A título de ejemplo, sirva la siguiente; en California, durante 1993 y 1994, el homicidio fue la principal causa de muerte 
+en el trabajo.
+Normalmente existe la tendencia a asociar la violencia con la agresión física. Sin embargo, y a pesar de no existir una definición única 
+de violencia en el lugar de trabajo, sí existe un elemento común a la hora de enfocar y plantear la cuestión, el concepto de violencia 
+debe ser más amplio que el de la mera agresión física (pegar, golpear, empujar, disparar,...) y debe incluir y comprender otras 
+conductas susceptibles de violentar e intimidar al que las sufre. Así, la violencia en el trabajo incluiría, además de las agresiones 
+físicas, las conductas verbales o físicas amenazantes, intimidatorias, abusivas y acosantes.
+De hecho, y a pesar de la gravedad y notoriedad de las agresiones con resultado de muerte o de daños físicos a las personas, el 
+problema de la violencia en el lugar de trabajo está, principalmente, centrado en los abusos verbales y las amenazas, incidentes éstos 
+que se presentan como los más comunes. En la mayoría de las ocasiones, o no se les presta atención o se asumen como parte 
+integrante del trabajo y, sin embargo, pue den tener importantes efectos sobre las personas que los sufren (e incluso sobre el resto de 
+trabajadores que son testigos). El problema radica en que, a diferencia de las agresiones físicas, el impacto de otros tipos de 
+conductas violentas es difícil de determinar (a veces los efectos no son inmediatos sino a largo plazo, dependen también de las 
+distintas percepciones sobre lo que se considera una conducta verbal abusiva o amenazante,...).
+Una de las principales dificultades es la definición de lo que es una acción violenta relacionada con el lugar de trabajo. Los dos 
+problemas básicos que se plantean se refieren, por una parte, a lo ya comentado sobre la amplitud del concepto de violencia y, por otra 
+parte, a su relación con el trabajo. Que un acontecimiento de violencia se produzca en el lugar de trabajo no tiene porqué significar 
+necesariamente que tal suceso sea un resultado directo de la propia actividad laboral. Habría que entender que tal evento se cause 
+bajo la premisa de la actividad laboral dependiente del empresario, o en otros lugares donde los trabajadores desarrollen su trabajo o 
+se les requiera que estén presentes como condición del desempeño de su trabajo (algunos episodios pueden ocurrir fuera del lugar de 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1998
+
+trabajo pero traer su causa de la relación laboral, por ejemplo, un cliente que se encuentra con un trabajador en la calle).
+Clasificación de los tipos de violencia
+Una de las clasificaciones más difundidas sobre los tipos de violencia en el trabajo es la elaborada por la California Division of 
+Occupational Health and Safety (Cal/OSHA). Esta clasificación divide a los eventos violentos en tres grupos en función de quienes son 
+las personas implicadas y del tipo de relación existente entre ellas.
+Violencia tipo I
+Se caracteriza este grupo porque quienes llevan a cabo las acciones violentas no tienen ninguna relación legítima de trato con la 
+víctima. Es decir, no existe un trato comercial o de usuario entre el perpetrador y la víctima.
+Los casos más habituales se refieren a acciones con ánimo de robo. El mayor riesgo de sufrir violencia de este tipo lo tienen los 
+establecimientos comerciales, bancos, lugares de almacenamiento de objetos valiosos, personas que trabajan con intercambio de 
+dinero, taxistas, etc.
+Violencia tipo II
+En estos casos existe algún tipo de relación profesional entre el causante del acto violento y la víctima. El primero puede ser quien 
+recibe un servicio ofrecido por el lugar afectado por el hecho violento o que ofrece la propia víctima (un cliente, un paciente, un 
+consumidor,...). Normalmente estos hechos violentos se producen mientras se ofrece el servicio (como seguridad pública, conductores 
+autobús, personal sanitario, profesores, vendedores u otros trabajadores del sector público o privado que ofrecen servicios 
+profesionales, públicos o privados).
+Violencia tipo III
+En este tipo de violencia el causante de la misma tiene algún tipo de implicación laboral con el lugar afectado o con algún trabajador 
+concreto de tal lugar. Muchos son los escenarios que pueden plantearse en este grupo: el más común es aquel en el que hay una 
+implicación laboral directa entre el perpetrador (por ejemplo, un empleado actual, o que ya no lo es) y el trabajador-víctima. Otro caso 
+es aquel en el que existe una relación personal entre ambos sujetos (cónyuge, ex-cónyuge, pariente, amigos). Más raramente suele 
+existir una implicación más indirecta; por ejemplo, el perpetrador elige un cierto lugar (no tanto a los trabajadores que en él trabajan) 
+porque tiene rencor, animadversión hacia tal sitio por tener para él una carga representativa o simbólica.
+Lo más habitual en el tipo III es que el objetivo de la acción violenta fijado por el agresor sea un compañero de trabajo o un superior 
+suyo. Las acciones de aquel pueden estar motivadas por dificultades percibidas en su relación con la víctima, buscando revancha, 
+ajuste de cuentas o hacer uno mismo justicia.
+Los tipos de conductas violentas y las consecuencias de las mismas suelen variar en función del tipo de que se trate. Las conductas de 
+mayor violencia y con peores consecuencias para la víctima se sitúan en el tipo I. En el tipo II lo más habitual son agresiones físicas 
+con consecuencias más leves y abusos verbales y amenazas. En contraste con los de tipo I, en las que su periodicidad y ocurrencia es 
+irregular en la vida de un determinado lugar de trabajo, los de tipo II surgen del contacto habitual y diario de los trabajadores con 
+receptores insatisfechos de bienes y servicios. Así, el tipo II representa un riesgo constante para muchos trabajadores.
+Causas de las conductas violentas y agresivas
+Existen muchas teorías sobre las causas de la violencia. Algunas postulan que los comportamientos agresivos son fruto del 
+aprendizaje, bien por imitación de acontecimientos familiares similares, culturales, de los propios medios de comunicación (Bandura) o 
+por la posible ausencia de consecuencias que sigue, en ciertos casos, a un cierto acto de violencia, lo que tiende a reforzar la conducta 
+violenta (Berkowitz). También es explicado el incremento de las tasas de violencia por la adopción de valores que soportan la violencia 
+(Wolfgang y Ferracuti). También son fuentes de violencia las iniquidades económicas y el inadecuado y desigual acceso a bienes y 
+oportunidades. Así, las causas de la violencia pueden ser muchas, si bien algunas causas inmediatas pueden ser fácilmente 
+identificables (conflictos con la autoridad, cólera, frustración, problemas de comunicación...). En muchas ocasiones la violencia sigue 
+un curso gradual: comienza por situaciones en las que se empieza hablando y se va pasando a cotas de mayor intensidad. La propia 
+reacción de los trabajadores ante tal situación puede contribuir a determinar el curso de los acontecimientos en un sentido u otro.
+En ciertos incidentes puede llegar a resultar difícil analizar por qué una persona se comporta de cierta manera pero en otras sí es 
+posible establecer pautas preventivas para evitar o aliviar situaciones violentas.
+Lo que resulta importante, como punto de partida, es proceder al análisis de los trabajos que se realizan en una empresa para 
+identificar cuáles tienen riesgo. Para ello es importante contar con las aportaciones de los sujetos pasivos de los actos violentos: los 
+trabajadores.
+Existen algunos factores que pueden incrementar la posibilidad de que se produzcan actos violentos; los más significativos de dichos 
+factores se asocian al entorno de trabajo, al propio trabajo y a las características del perpetrador, y se relacionan a continuación:
+G     Entorno
+H     economías inestables,
+
+H     zonas deprimidas,
+H     zonas con alto índice de criminalidad,
+G     Trabajo
+H     estilos de gestión rígidos, autoritarios,
+H     presiones para incrementar la productividad,
+H     plantillas inadecuadas; escasez de plantilla, reducciones de plantilla, despidos,...
+H     trabajos en solitario o en pequeños grupos,
+H     trabajos que implican intercambio regular de dinero con clientes,
+H     trabajos por la noche, o hasta tarde o muy de madrugada,
+H     tener en el lugar de trabajo bienes valiosos (dinero, joyas,...)
+H     ejecutar servicios de seguridad (particularmente guarda de propiedades, dinero o bienes valiosos),
+H     trabajar con público (consumidores, clientes, pasajeros, pacientes...),
+H     trabajar en zonas con altos índices de criminalidad,
+H     trabajar con ciertos colectivos, desarrollar funciones de seguridad pública,
+H     retrasos, errores, incumplimientos...
+G     Perpetrador
+H     inestabilidad psicológica,
+H     ausencia de responsabilidad individual,
+H     insatisfacción con servicio o producto,
+H     largas esperas,
+H     percepción de promesas incumplidas,
+H     frustración, ira, estrés,...
+Prevención de la violencia
+Las medidas preventivas que pueden adoptarse para proteger a trabajadores y clientes comprenden actuaciones preventivas 
+específicas (en función del tipo de establecimiento, tipo de trabajo, etc.) y medidas de tipo genérico que sirviendo para cualquier tipo de 
+empresa, habrán de adaptarse a las especificidades requeridas.
+Sin embargo, se plantean dos cuestiones que, en ocasiones, actúan como frenos u obstáculos al establecimiento de programas 
+preventivos y que están íntimamente ligadas con dos tipos de creencia acerca de la asunción del riesgo y de la predictibilidad.
+Respecto al primero, en ocasiones existe la creencia de que en ciertas ocupaciones es inherente a ellas la aceptación de un cierto 
+grado de violencia como una parte misma del trabajo. Es decir, el trabajador asume el riesgo de sufrir actos violentos cuando acepta el 
+trabajo (con lo que contribuye a que continúe la violencia). Esto puede llevar a pensar que no es necesario tomar ninguna medida 
+preventiva. Sin embargo, sí que es posible adoptar algunas medidas para minimizar el peligro (detectores de metales, sistemas de 
+alarma, plantillas bien dimensionadas, etc.).
+Respecto a la cuestión de la predictibilidad, existe la creencia de que la violencia en el lugar de trabajo es aleatoria e impredecible, por 
+lo que los programas preventivos pueden llegar a ser considerados como innecesarios. Pero, por el contrario, muchos actos violentos 
+pueden ser prevenidos, incluso en trabajos considerados con pocas probabilidades de sufrir violencia en los que los actos aleatorios de 
+violencia ocurren con poca frecuencia.
+Al igual que en programas preventivos de otros tipos, es difícil que éstos lleguen a ser verdaderamente efectivos si no cuentan con la 
+implicación y compromiso tanto de los gestores y de la dirección como de los propios empleados. Una vez lograda la implicación de 
+tales agentes es factible pasar a conocer si existen problemas de hechos violentos, qué tipo de incidentes son los que producen o 
+pueden producir, cuáles son las posibles causas, pasar al diseño de un programa de medidas y evaluar su efectividad.
+
+Implicación de los distintos agentes de la empresa
+Los integrantes de la empresa deben adoptar una política de no violencia, en el sentido de no permitir que existan acciones de 
+intimidación, amenaza, daño ni entre empleados ni en la relación entre clientes (entendido en el sentido más amplio; pacientes, 
+alumnos, consumidores,...) y trabajadores. En tal sentido ha de asegurarse una persecución enérgica de hechos o conductas violentas.
+La implicación, compromiso y consulta con los trabajadores a lo largo del proceso puede tener importantes aspectos positivos:
+G     los trabajadores pueden aportar su conocimiento y experiencia, que se constituirán como importantes recursos y elementos de 
+trabajo en el momento de decidir e implementar las medidas concretas de prevención y protección. Así, tanto en el ámbito 
+individual como colectivo es conveniente que participen en la valoración, análisis del lugar de trabajo, identificando los riesgos 
+existentes y potenciales,
+G     se asegura que las medidas y procedimientos que se adopten serán prácticos y efectivos,
+G     la plantilla a la que se consulta tendrá una mayor implicación a la hora de contribuir a la puesta en práctica de las medidas,
+G     hacer partícipe a los trabajadores en este proceso muestra a éstos una verdadera intención de hacer frente al problema,
+G     las consultas regulares ayudan a revisar las medidas, asegurarse de su efectividad, de que tales medidas se cumplen y de que 
+el entrenamiento o formación recibido por la plantilla realmente funciona.
+Los mandos o gestores, además de ofrecer los recursos organizacionales, han de actuar como fuerza motivadora e impulsora para la 
+prevención y control de los riesgos.
+Análisis de los problemas
+Una de las primeras cuestiones a desarrollar es preguntarse si existen problemas de violencia relacionada con el trabajo. En tal 
+sentido, será especialmente valiosa la opinión de los trabajadores, en concreto la de aquellos que desarrollan trabajos con especial 
+riesgo (trabajo con público, intercambio de dinero,...), ya que disponen de experiencia y conocimiento de primera mano sobre conflictos 
+violentos y sobre su potencialidad.
+La profundización en estos aspectos puede hacerse valiéndose de distintas metodologías, discusiones en grupo, entrevistas 
+individuales, cuestionarios diseñados al efecto, sistemas de información ya existentes (sistemas de registros, partes de incidentes, 
+denuncias, información de seguridad,...), comités de representantes de los trabajadores, comités de seguridad y salud, información de 
+la policía, estudio del entorno en el que se sitúa el centro de trabajo, inspección y análisis del lugar de trabajo,...
+Es importante incluir información de los incidentes en los que acabó no pasando nada pero en los que el riesgo de daño estuvo 
+presente. E igualmente se han de considerar todo tipo de incidente (desde aquellos que ocasionaron serios daños físicos hasta los que 
+consistieron en abusos verbales menores) en los que la plantilla se sintió amenazada o bajo una situación de estrés. Hay que insistir en 
+la necesidad de dar a conocer y documentar cualquier incidente de violencia, sea ésta física o verbal. Tales hechos no pueden ser 
+ignorados. Si la amenaza se ve finalmente llevada a término, las consecuencias que pueden derivarse pueden llegar a ser muy graves 
+(sentimientos de culpabilidad por no haber comunicado la amenaza o por haberla minusvalorado,...).
+Los partes o registros de incidentes cumplimentados por los trabajadores deben ser examinados para profundizar en el conocimiento 
+de la violencia; hay que tener en cuenta, sin embargo, que, en ocasiones, debido a razones varias (miedo al agresor o a represalias de 
+la empresa, a ser criticado, por pensar que ellos fueron responsables o que contribuyeron a la violencia, etc.), puede que los 
+trabajadores no notifiquen todos los incidentes.
+Esta información permitirá establecer el verdadero nivel del problema, señalando los trabajos que presentan un especial riesgo. Para 
+analizar los datos es conveniente agrupar los incidentes similares y tratar de buscar e identificar las características comunes (ciertos 
+departamentos, áreas, trabajos, momentos del día, frecuencia de ocurrencia,...). Se puede establecer una línea base e identificar, si 
+existe, algún patrón de incidentes, la severidad del problema e incluso empezar a establecer áreas de problemas y a documentar la 
+necesidad de mejoras.
+Con toda la información recogida, y con la finalidad de conocer cuáles son los tipos de incidentes que se producen y sus causas es 
+conveniente proceder a la clasificación de la información en varias categorías. El sistema de clasificación puede variar; se proponen 
+dos tipos: la agrupación de la información en categorías y la matriz Haddon.
+ Agrupación de la información en categorías
+Se sugiere el empleo de las categorías que se indican a continuación, con las variables correspondientes para cada una de ellas:
+G     situación: se registrará la localización del incidente, el entorno en el que se produce, los posibles motivos o causas, la hora,...
+G     víctima: trabajo que realiza, sexo, edad, experiencia, entrenamiento en el manejo de conflictos, su proceder a lo largo de 
+acontecimiento violento,
+G     perpetrador: sexo, edad, conducta desplegada, apariencia, existencia o no de incidentes previos,...
+
+G     resultado: problemas emocionales, daño físico, muerte, otros impactos emocionales o de discapacidades, absentismo, puesta 
+en conocimiento de autoridades policiales o judiciales,...
+Matriz Haddon
+Esta matriz tiene como finalidad recoger los hechos ocurridos para poder ser investigados. Combina los factores epidemiológicos 
+tradicionales con un factor de secuencia temporal del evento en tras fases: preevento, evento violento y post-evento. La matriz ofrece 
+un método para identificar las interacciones de riesgo que ocurren en cada fase y las estrategias de control que se pueden introducir en 
+cada fase para prevenir sucesos futuros de tales características. (Ver cuadro 1)
+Cuadro 1. Matriz Haddon
+FASES
+FACTOR 
+HUMANO
+FACTOR 
+VEHÍCULO/
+AGENTE
+FACTOR 
+ERGONÓMICO
+FACTOR ENTORNO 
+SOCIOCULTURAL
+Preincidente
+Ausencia de 
+formación en 
+manejo de 
+conflictos. 
+Persona confiada
+Cliente que 
+llevaba 2 horas 
+esperando a 
+presentar una 
+reclamación
+Ausencia de sala 
+de espera 
+confortable
+Extrarradio urbano
+Incidente
+ Resistencia de 
+la víctima a las 
+demandas
+Brazos y 
+piernas del 
+agresor. Uso 
+de un cenicero 
+para uso del 
+público.
+Mostrador de muy 
+baja altura. 
+Mobiliario de oficina 
+obstaculizando la 
+huida de la víctima
+Lenguaje como barrera 
+entre víctima y agresor
+Post-incidente
+Múltiples 
+contusiones. 
+Pérdida de 
+conocimiento
+Agresor 
+identificado
+Huida rápida. 
+Ausencia de 
+vigilancia de 
+seguridad.
+Retraso asistencia 
+sanitaria por lejanía del 
+centro asistencial.
+Análisis del lugar y de las prácticas de trabajo
+Como ya se ha comentado anteriormente, hay ciertos aspectos que pueden incrementar la probabilidad de que se produzcan hechos 
+violentos o de servir como elementos disuasorios a los mismos. En este sentido se han de analizar tanto los factores del entorno y del 
+lugar de trabajo como de los propios procedimientos de trabajo, en la medida en que, en ocasiones, pueden permitir que los incidentes 
+de violencia sean planificados. Por otra parte, tal análisis, ha de tener en consideración el tipo de establecimiento de que se trata y el 
+tipo de servicio que se oferta (por ejemplo, existirán grandes diferencias entre un centro sanitario y un pequeño comercio).
+Factores del entorno y del lugar de trabajo
+G     localización geográfica del centro de trabajo o del lugar de prestación del servicio (zona urbana, rural, centro de núcleo de 
+población, extrarradio, características socioeconómicas del entorno, etc.),
+G     diseño del lugar de trabajo:
+G     iluminación (tanto en el interior del edificio o local como en el exterior, parkings, etc.),
+G     visibilidad (del exterior del local al interior y viceversa),
+G     accesos (entradas y salidas, puertas, ventanas, lugares donde esconderse,...),
+G     mobiliario (altura de mostradores, acristalamientos,...),
+G     medidas de seguridad (sistemas de vigilancia, sistemas de alarma, cajas fuertes,...),
+Procedimientos de trabajo
+G     horarios de apertura, cierre, entregas,...,
+G     gestión de acceso al público,
+G     gestión de caja (liquidez, cantidad, frecuencia de transporte a zona segura, métodos de transporte,...),
+G     gestión de dinero líquido con el público,
+G     gestión de esperas y colas,
+
+G     gestión de quejas y reclamaciones (información a clientes, procedimientos, formación de los trabajadores para hacer frente a 
+las quejas),
+G     sistemas de entregas, repartos, recogida, etc. (medios utilizados, rutas, procedimientos,...),
+G     calidad de bienes y/o servicios,
+G     trabajo en solitario o en lugares remotos,
+G     trabajo con personas problemáticas (historiales de violencia, alcohólicos/drogadictos, enfermos mentales,...),
+G     preparación de los trabajadores para hacer frente a los conflictos,
+G     cantidad y ritmo de trabajo.
+Medidas preventivas
+Las medidas preventivas concretas que pueden adoptarse variarán en función del tipo de establecimiento, tipo de producto o servicio 
+ofertado, etc. y del tipo de violencia que más probabilidad tiene de sufrir el lugar de trabajo.
+En este sentido, no pueden ser las mismas las que habrá de adoptar un centro sanitario que un pequeño comercio. A continuación se 
+señalan, de manera genérica, una serie de aspectos que han de ser considerados.
+Medidas referentes al entorno
+G     disponer de una buena visibilidad e iluminación de manera que los trabajadores puedan abandonar o pedir ayuda rápidamente 
+y que permita la identificación del asaltante,
+G     ubicar a las personas que trabajan con cajas registradoras fuera del alcance de los clientes o dotar de seguridad física a tales 
+trabajadores,
+G     asegurarse de que en las cajas hay la cantidad mínima necesaria de dinero. Para ello el dinero sobrante ha de ser trasladado 
+con frecuencia a zona segura,
+G     prever el aumento, la acumulación de dinero en las cajas,
+G     colocar los artículos de valor fuera del alcance de los clientes
+G     colocar mostradores anchos o elevar la altura de los mostradores,
+G     asegurar una adecuada gestión de colas y de esperas usando signos claros y visibles y asegurando un fácil acceso,
+G     asegurarse que los trabajadores tienen un acceso rápido a zonas seguras,
+G     cambiar la disposición de las zonas de espera, haciendo de éstas zonas confortables,
+G     asegurar una buena iluminación exterior e interior para evitar zonas de cobertura a los asaltantes,
+G     instalar pantallas o sistemas de protección en áreas donde los trabajadores tengan más riesgo,
+G     monitorizar las entradas, salidas, puntos de entrega, zonas de mayor riesgo,...
+Medidas referentes al procedimiento de trabajo
+G     asegurar que los niveles de plantilla son adecuados para cada tarea y para cada momento del día,
+G     dar a los trabajadores información adecuada y apropiada sobre procedimientos y sistemas de trabajo,
+G     asegurarse que los programas de atención al cliente están adecuadamente diseñados y gestionados. Esto es especialmente 
+apropiado para el manejo de reclamaciones,
+G     dar a los trabajadores formación específica sobre violencia como parte de la gestión de seguridad e higiene en el trabajo,
+G     establecer procedimientos de emergencia claros sobre qué hacer y dónde ir en caso de incidente (teléfonos de emergencia,...),
+G     variar el número de veces que el dinero se lleva a zonas seguras o bancos, variar las rutas,... Usar servicios profesionales de 
+transporte de dinero,
+
+G     pagar a los trabajadores con cheque o transferencia en vez de con dinero en metálico,
+G     usar sistemas de compras sin dinero,
+G     asegurarse que los trabajadores con más experiencia o menos vulnerables son usados en tareas con más riesgo,
+G     rotar puestos de alto riesgo de forma que la misma persona no esté siempre sujeta al mismo riesgo o doblar el número de 
+personas para tareas de especial riesgo,
+G     en caso de trabajadores que deben desplazarse, doblar el número de personas o dotar de sistemas de comunicación con la 
+base,
+G     utilizar alarmas personales,
+G     registrar la identificación de quienes quieren acceder a zonas de acceso restringido,
+G     formar en el manejo y reconocimiento de la violencia,
+Medidas referentes a sistemas de seguridad
+Se refiere a equipos especialmente diseñados para prevenir o detener la violencia. Debe tenerse en cuenta su proporcionalidad al 
+riesgo y:
+G     ser fáciles de usar,
+G     los trabajadores han de estar entrenados en su uso: sólo serán prácticos y eficaces en la medida en que la plantilla sepa 
+usarlos,
+G     es útil que se dé a conocer al público la existencia de ciertas medidas de seguridad,
+G     algunas de estas medidas (alarmas, sistemas de videovigilancia,...) precisan de un mantenimiento periódico para ser efectivas.
+Apoyo a las víctimas
+El impacto de un incidente violento es muy variable, dependiendo de la naturaleza y gravedad del incidente y de quien haya sido el 
+sujeto pasivo del mismo. En cualquier caso, las situaciones de violencia generan una serie de consecuencias sobre el trabajador y 
+sobre la plantilla que es preciso tratar.
+Las consecuencias pueden manifestarse en sentimientos de cólera o ira, en una desconfianza general frente a personas extrañas, en 
+ataques de pánico y ansiedad, conectados al miedo de que el evento violento pueda volver a producirse. Se pueden dar sentimientos 
+de indefensión, aislamiento, vulnerabilidad, culpabilidad. Y asociado a todos ellos, se suelen producir sintomatología física asociada a 
+estrés (trastornos de sueño, del apetito, etc.).
+Todo ello puede afectar no sólo la vida profesional sino personal. Por ello es importante dar una respuesta rápida y profesional que 
+permita ayudar a recobrarse del evento traumático. Este apoyo ha de ser a corto plazo lo más inmediatamente posible al 
+acontecimiento de violencia y a largo plazo. El apoyo a corto plazo debe ser una combinación de apoyo emocional e información y 
+ayuda práctica. En ocasiones, es necesario que el apoyo se prolongue en el tiempo, especialmente cuando las consecuencias físicas o 
+emocionales son duraderas.
+Legislación española sobre la materia
+El artículo 13 de la Ley Orgánica 1/1992, sobre Protección de la Seguridad Ciudadana, señala que «el Ministerio de Justicia e Interior 
+podrá ordenar, conforme a lo que se disponga reglamentariamente, la adopción de medidas de seguridad necesarias en 
+establecimientos e instalaciones industriales, comerciales y de servicios, para prevenir la comisión de actos delictivos que puedan 
+cometer contra ellos, cuando generen riesgos directos para terceros o sean especialmente vulnerables...» Tratando de dar respuesta a 
+ello, están en vigor la Ley 23/1992 de Seguridad Privada, el Reglamento de Seguridad Privada (aprobado por Real Decreto 2364/1994) 
+y la Orden de 23 de Abril de 1997 por la que se concretan determinados aspectos en materia de medidas de seguridad, en 
+cumplimiento del Reglamento de Seguridad Privada.
+Entre otras cuestiones, en tal legislación se establecen medidas de seguridad específicas para joyerías, platerías, galerías de arte, 
+tiendas de antigüedades, estaciones de servicio y unidades de suministro de combustibles y carburantes, oficinas de farmacia, 
+administraciones de loterías, despachos de apuestas mutuas y establecimientos de juegos, transportes de monedas, billetes, títulos-
+valores y objetos preciosos y entidades de crédito donde se custodien fondos o valores.
+Bibliografia
+1) COASTAL HUMAN RESOURCES 
+Workplace Violence: Awareness Prevention Response 
+Coastal Human Resources, Virginia, 1994.
+
+(2) EISELE, G.R. et al. 
+Workplace Violence at Government Sites 
+American Journal of Industrial Medicine, 1998, vol. 33, nº 5.
+(3) FUNDACION EUROPEA PARA LA MEJORA DE LAS CONDICIONES DE VIDA Y DE TRABAJO 
+Second European Survey on Working Conditions 
+Fundación Europea, 1997, DublÌn.
+(4) HARRISON, M.D. 
+Violence in the Workplace 
+Occupational Medicine, 11, 2, 1996.
+(5) KAPP, S. 
+Violence on the Front Line 
+Safety Health, 1997, 155, (6).
+(6) KLEIN, P.J. et al. 
+Risk Factors for Workrelated Violent Victimization 
+Epidemiology, 1997, 8, (4).
+(7) LAMAR, W. et al. 
+WorkRelated Physical Assault 
+Journal of Occupational and Environmental Medicine, 1998, vol. 40, nº 4.
+(8) PÉREZ RIESCO, R. 
+Seguridad en el pequeño comercio. 
+Cuadernos de Seguridad, 1995, 85.
+(9) SPENCER FELTON, J. 
+Violence Prevention at the Health Care Site 
+Occupational Medicine: State of the Art Reviews, 1997, vol. 12, 4.
+   © INSHT
