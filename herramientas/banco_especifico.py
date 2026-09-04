@@ -82,6 +82,7 @@ SOLO = {"produccion": ("81_preguntas_produccion",),
         # Ingeniería Técnica y el de la Superior—, así que cada ocupación
         # dice cuál es el suyo
         "ing-tec-teleco": ("50_preguntas_tec_teleco",),
+        "ing-sup-teleco": ("44_preguntas_ing_sup_teleco",),
         # «ip» es una subcadena de `58_preguntas_mont_equip_audio`, así que esta
         # ocupación no se puede buscar por nombre: dice cuál es su cuadernillo
         "imagen-personal": ("27_preguntas_ip",)}
@@ -221,6 +222,34 @@ def main(ocupacion, titulos):
 # Los títulos con los que se encabeza cada fichero del banco. Uno por ocupación,
 # porque el reparto es distinto y los temas no se llaman igual.
 TITULOS = {
+    "ing-sup-teleco": {
+        "01": "Ing. Superior Telecomunicación · Tema 1 · Marco regulatorio de las telecomunicaciones",
+        "02": "Ing. Superior Telecomunicación · Tema 2 · La información, la señal y su conversión",
+        "03": "Ing. Superior Telecomunicación · Tema 3 · La transmisión: canal, modulación y multiplexado",
+        "04": "Ing. Superior Telecomunicación · Tema 4 · Medios de transmisión, conectores y compresión",
+        "05": "Ing. Superior Telecomunicación · Tema 5 · La señal de televisión",
+        "06": "Ing. Superior Telecomunicación · Tema 6 · Televisión digital: codificación y compresión",
+        "07": "Ing. Superior Telecomunicación · Tema 7 · La televisión digital terrestre",
+        "08": "Ing. Superior Telecomunicación · Tema 8 · Alta y ultraalta definición: estándares",
+        "09": "Ing. Superior Telecomunicación · Tema 9 · Comunicaciones y radiodifusión por satélite",
+        "10": "Ing. Superior Telecomunicación · Tema 10 · Voz, imagen, multimedia y streaming",
+        "11": "Ing. Superior Telecomunicación · Tema 11 · Producción I: cámaras, conmutación, grabación y edición",
+        "12": "Ing. Superior Telecomunicación · Tema 12 · Producción II: sonido, iluminación, medida y auxiliares",
+        "13": "Ing. Superior Telecomunicación · Tema 13 · Las salas: estudio, continuidad y controles técnicos",
+        "14": "Ing. Superior Telecomunicación · Tema 14 · Sistemas de redacción e informativos",
+        "15": "Ing. Superior Telecomunicación · Tema 15 · Postproducción de vídeo y audio",
+        "16": "Ing. Superior Telecomunicación · Tema 16 · Grafismo electrónico y escenografía virtual",
+        "17": "Ing. Superior Telecomunicación · Tema 17 · Sistemas radiantes y radiocomunicaciones",
+        "18": "Ing. Superior Telecomunicación · Tema 18 · Almacenamiento de datos y servidores",
+        "19": "Ing. Superior Telecomunicación · Tema 19 · Producción audiovisual sobre infraestructura IP",
+        "20": "Ing. Superior Telecomunicación · Tema 20 · Comunicaciones y redes",
+        "21": "Ing. Superior Telecomunicación · Tema 21 · Sonido",
+        "22": "Ing. Superior Telecomunicación · Tema 22 · Radio digital",
+        "23": "Ing. Superior Telecomunicación · Tema 23 · Antenas y transmisores de radiodifusión",
+        "24": "Ing. Superior Telecomunicación · Tema 24 · Ingeniería de implantación",
+        "25": "Ing. Superior Telecomunicación · Tema 25 · Seguridad en tecnologías de la información",
+        "26": "Ing. Superior Telecomunicación · Tema 26 · Protección de datos personales",
+    },
     "ing-tec-teleco": {
         "01": "Ing. Técnica Telecomunicación · Tema 1 · Marco regulatorio de las "
               "telecomunicaciones",

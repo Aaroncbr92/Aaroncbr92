@@ -1,0 +1,130 @@
+# Reparto a mano del bloque específico de Ingeniería Superior · Telecomunicación.
+#
+# **Un cuadernillo**: `44_preguntas_ing_sup_teleco`, de 96 preguntas —80
+# principales más 16 de reserva—, con su plantilla completa, fechada el
+# 05/02/2025. **Su PDF de preguntas trae la fuente incrustada sin tabla de
+# caracteres**, así que se lee la transcripción por reconocimiento óptico que
+# está al lado; **la plantilla, en cambio, sí se lee por coordenadas**, y sus
+# 96 respuestas salen enteras, sin huecos y sin una sola anotación.
+#
+# De las 96, **diez son del bloque común** y las coge el banco general: la 26,
+# la 30, la 38, la 52, la 56, la 72, la 85 y la 88 de la Constitución; y la 27
+# y la 49 del III Convenio Colectivo. **Ninguna es de prevención de riesgos
+# laborales**: es el único cuadernillo del proyecto en que ese bloque no ha
+# dado ni una pregunta. **Las otras 86 son del específico** y están todas
+# repartidas.
+#
+# **La 38 no la coge ninguna palabra clave** —«Las Fuerzas Armadas están
+# constituidas por…», sin nombrar la Constitución ni ningún artículo—, así que
+# va a mano en `reclasificadas.tsv`, al tema 1 del general.
+#
+# **Este anexo tiene 29 puntos y el volumen 27 temas**, y hay dos cosas que
+# declarar:
+#
+# **1) Una unión.** Los puntos 13, 14 y 15 —estudio, continuidades y controles
+# técnicos— **son la misma frase con el nombre de la sala cambiado**
+# —«Equipamiento. Diagrama a bloques. Interconexión»— y van en un solo tema,
+# el 13.
+#
+# **2) OCHO puntos son idénticos, palabra por palabra, a otros tantos del
+# anexo de Ingeniería Técnica · Telecomunicación**, comparados carácter a
+# carácter: los puntos 1, 2, 22, 24, 25, 26, 28 y 29 de éste son los puntos 1,
+# 2, 19, 17, 18, 20, 23 y 24 de aquél. **Sus temas SE COMPARTEN, como se
+# comparte el de prevención**: es el mismo fichero, y su cabecera lo dice.
+# Escribir ocho temas gemelos habría sido decir dos veces lo mismo, que es lo
+# que este proyecto prohíbe.
+#
+# **Siete temas no han recibido ni una pregunta**: el 1, el 2, el 14
+# —sistemas de redacción—, el 16 —grafismo y escenografía virtual—, el 22
+# —radio digital—, el 25 —seguridad de la información— y el 26 —protección de
+# datos—. **Sus temas se escriben igual, contra el programa**, y el informe de
+# cobertura dice por qué ese cero no significa que no vayan a caer.
+#
+# origen	nº	tema	motivo
+origen	numero	tema	motivo
+44_preguntas_ing_sup_teleco	23	03	La transmisión: canal, modulación y multiplexado
+44_preguntas_ing_sup_teleco	55	03	La transmisión: canal, modulación y multiplexado
+44_preguntas_ing_sup_teleco	58	03	La transmisión: canal, modulación y multiplexado
+44_preguntas_ing_sup_teleco	2	04	Medios de transmisión, conectores y compresión
+44_preguntas_ing_sup_teleco	15	04	Medios de transmisión, conectores y compresión
+44_preguntas_ing_sup_teleco	22	04	Medios de transmisión, conectores y compresión
+44_preguntas_ing_sup_teleco	41	04	Medios de transmisión, conectores y compresión
+44_preguntas_ing_sup_teleco	68	04	Medios de transmisión, conectores y compresión
+44_preguntas_ing_sup_teleco	76	04	Medios de transmisión, conectores y compresión
+44_preguntas_ing_sup_teleco	8	05	La señal de televisión
+44_preguntas_ing_sup_teleco	16	05	La señal de televisión
+44_preguntas_ing_sup_teleco	24	05	La señal de televisión
+44_preguntas_ing_sup_teleco	5	06	Televisión digital: codificación y compresión
+44_preguntas_ing_sup_teleco	7	06	Televisión digital: codificación y compresión
+44_preguntas_ing_sup_teleco	10	06	Televisión digital: codificación y compresión
+44_preguntas_ing_sup_teleco	65	06	Televisión digital: codificación y compresión
+44_preguntas_ing_sup_teleco	89	06	Televisión digital: codificación y compresión
+44_preguntas_ing_sup_teleco	12	07	La televisión digital terrestre
+44_preguntas_ing_sup_teleco	9	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	13	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	25	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	39	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	48	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	59	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	61	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	66	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	67	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	78	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	84	08	Alta y ultraalta definición: estándares
+44_preguntas_ing_sup_teleco	92	09	Comunicaciones y radiodifusión por satélite
+44_preguntas_ing_sup_teleco	77	10	Voz, imagen, multimedia y streaming
+44_preguntas_ing_sup_teleco	40	11	Producción I: cámaras, conmutación, grabación y edición
+44_preguntas_ing_sup_teleco	60	11	Producción I: cámaras, conmutación, grabación y edición
+44_preguntas_ing_sup_teleco	81	11	Producción I: cámaras, conmutación, grabación y edición
+44_preguntas_ing_sup_teleco	95	11	Producción I: cámaras, conmutación, grabación y edición
+44_preguntas_ing_sup_teleco	51	12	Producción II: sonido, iluminación, medida y auxiliares
+44_preguntas_ing_sup_teleco	53	12	Producción II: sonido, iluminación, medida y auxiliares
+44_preguntas_ing_sup_teleco	75	12	Producción II: sonido, iluminación, medida y auxiliares
+44_preguntas_ing_sup_teleco	96	12	Producción II: sonido, iluminación, medida y auxiliares
+44_preguntas_ing_sup_teleco	19	13	Las salas: estudio, continuidad y controles técnicos
+44_preguntas_ing_sup_teleco	29	13	Las salas: estudio, continuidad y controles técnicos
+44_preguntas_ing_sup_teleco	37	13	Las salas: estudio, continuidad y controles técnicos
+44_preguntas_ing_sup_teleco	69	13	Las salas: estudio, continuidad y controles técnicos
+44_preguntas_ing_sup_teleco	71	13	Las salas: estudio, continuidad y controles técnicos
+44_preguntas_ing_sup_teleco	28	15	Postproducción de vídeo y audio
+44_preguntas_ing_sup_teleco	31	17	Sistemas radiantes y radiocomunicaciones
+44_preguntas_ing_sup_teleco	33	17	Sistemas radiantes y radiocomunicaciones
+44_preguntas_ing_sup_teleco	35	17	Sistemas radiantes y radiocomunicaciones
+44_preguntas_ing_sup_teleco	42	17	Sistemas radiantes y radiocomunicaciones
+44_preguntas_ing_sup_teleco	87	17	Sistemas radiantes y radiocomunicaciones
+44_preguntas_ing_sup_teleco	3	18	Almacenamiento de datos y servidores
+44_preguntas_ing_sup_teleco	14	18	Almacenamiento de datos y servidores
+44_preguntas_ing_sup_teleco	20	18	Almacenamiento de datos y servidores
+44_preguntas_ing_sup_teleco	70	18	Almacenamiento de datos y servidores
+44_preguntas_ing_sup_teleco	1	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	34	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	44	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	45	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	46	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	47	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	62	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	73	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	83	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	91	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	93	19	Producción audiovisual sobre infraestructura IP
+44_preguntas_ing_sup_teleco	11	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	17	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	18	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	21	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	32	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	36	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	43	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	54	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	63	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	74	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	82	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	86	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	94	20	Comunicaciones y redes
+44_preguntas_ing_sup_teleco	4	21	Sonido
+44_preguntas_ing_sup_teleco	6	21	Sonido
+44_preguntas_ing_sup_teleco	50	21	Sonido
+44_preguntas_ing_sup_teleco	57	21	Sonido
+44_preguntas_ing_sup_teleco	64	21	Sonido
+44_preguntas_ing_sup_teleco	79	21	Sonido
+44_preguntas_ing_sup_teleco	80	21	Sonido
+44_preguntas_ing_sup_teleco	90	24	Ingeniería de implantación
