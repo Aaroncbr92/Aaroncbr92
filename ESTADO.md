@@ -4,11 +4,11 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-04 (Ambientación Vestuario)
+**Última actualización:** 2026-09-04 (Ingeniería Superior · Telecomunicación)
 
 ## Qué es esto
 
-Veinte temarios de oposición de RTVE, por ocupación tipo: **Producción
+Veintiún temarios de oposición de RTVE, por ocupación tipo: **Producción
 (Asistencia)**, **Producción**, **Realización (Asistencia)**, **Realización
 Televisión**, **Documentación**, **Información y Contenidos**, **Gestión
 Administrativa**, **Gestión**, **Montaje de Equipos Audiovisuales**, **Edición,
@@ -16,19 +16,22 @@ Montaje y Procesos Audiovisuales**, **Información Gráfica y Captación de Imag
 y Sonido**, **Sonido**, **Técnica de Equipos y Sistemas Electrónicos**, **Técnica
 Informática**, **Diseño Gráfico**, **Ingeniería Técnica · Telecomunicación**,
 **Ingeniería Técnica · Industrial**, **Imagen Personal**, **Técnica de Equipos,
-Instalaciones y Sistemas Eléctricos** y **Ambientación Vestuario**. El programa
-sale del ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
+Instalaciones y Sistemas Eléctricos**, **Ambientación Vestuario** e **Ingeniería
+Superior · Telecomunicación**. El programa sale del ANEXO 2 de las bases, transcrito literal en `convocatoria/`.
 
-Las veinte comparten el mismo temario general —**comprobado byte a byte**: el
+Las veintiuna comparten el mismo temario general —**comprobado byte a byte**: el
 bloque común es idéntico en todos los anexos; sólo cambia el pie de página— y
-**las veinte** tienen en su bloque específico un tema de prevención de riesgos
+**las veintiuna** tienen en su bloque específico un tema de prevención de riesgos
 laborales que es **el mismo fichero**: `temas/prl/prl-especifico.md`, con **doce
-rúbricas de las que ninguna ocupación lleva todas** y **seis redacciones
+rúbricas de las que ninguna ocupación lleva todas** y **diez redacciones
 distintas del enunciado**. Por eso los cuerpos de tema llenan las posiciones de
-los **veintiún volúmenes**: los ocho generales y el de prevención van
-repetidos. El reparto y el orden están en `PLAN.md`.
+los **veintidós volúmenes**: los ocho generales y el de prevención van
+repetidos. **Y desde Ingeniería Superior · Telecomunicación hay además SIETE
+temas específicos compartidos entre dos ocupaciones**, que es el primer caso del
+proyecto de tema compartido que no es el de prevención. El reparto y el orden
+están en `PLAN.md`.
 
-**Y tres de las veinte no tienen examen publicado**: Ingeniería Técnica ·
+**Y tres de las veintiuna no tienen examen publicado**: Ingeniería Técnica ·
 Industrial, Técnica de Equipos, Instalaciones y Sistemas Eléctricos y
 Ambientación Vestuario. La convocatoria anterior no sacó cuadernillo de esas
 especialidades, así que sus volúmenes **no llevan banco específico**. Es un dato
@@ -1072,6 +1075,52 @@ en Documentación y en Producción (Asistencia).
       **5) Y la regla que dos bloques seguidos han confirmado**: **cuando entra una ocupación nueva,
       del tema compartido se relee la CABECERA, no sólo el cuerpo.** **Un cuerpo correcto con una
       cabecera vieja publica una afirmación falsa en todos los volúmenes a la vez.**
+
+- [x] **Fase I: Ingeniería Superior · Telecomunicación, terminada el 2026-09-04.** 19 temas propios,
+      **7 compartidos con Ingeniería Técnica · Telecomunicación** y el de prevención: **27 en total**
+      para un anexo de **29 puntos**. **56.634 palabras de tema propio y 28.474 de esquema.**
+      **86 preguntas del específico repartidas de 86**, **4 plazas en la convocatoria 1/2025** y
+      **337 páginas**: **el tercer volumen más grande del proyecto.** **La cuenta de erratas de
+      plantilla sigue en diez** —ninguna respuesta oficial de este bloque está mal— y **el proyecto
+      pasa a 1.929 preguntas específicas** repartidas en dieciocho bancos.
+
+- [x] **Lo que esta ocupación dejó como método.**
+      **1) El primer tema específico COMPARTIDO que no es el de prevención**, y son siete. **Los
+      puntos 1, 2, 22, 24, 25, 26 y 28 de este anexo son, palabra por palabra, los 1, 2, 19, 17, 18,
+      20 y 23 del de Ingeniería Técnica · Telecomunicación.** **La comprobación se hizo carácter a
+      carácter sobre los dos ficheros de bases**, normalizando sólo los espacios y los guiones que el
+      PDF reparte como quiere, **y dio un hallazgo**: **en el punto 25 sólo cambia un signo de
+      puntuación.** **El temario dice «palabra por palabra, con un solo signo de puntuación distinto»
+      en lugar de «idéntico»**, que es lo que estaba escrito antes de comprobarlo. **La regla que
+      queda**: **antes de compartir un tema hay que comparar los dos enunciados, no fiarse de que se
+      parezcan.**
+      **2) La comprobación de las cinco cabeceras, que ninguna lente detecta.** Al entrar esta
+      ocupación, **siete temas ya escritos pasaron a servir a dos**, y **un cuerpo correcto con una
+      cabecera vieja publica una afirmación falsa en los dos volúmenes a la vez.** **Se revisan cinco
+      sitios**: la **ficha** del tema, su **primer párrafo** tras el enunciado, su fila de
+      `portadas.tsv`, la **cabecera de su esquema** y la **identidad literal del enunciado** en los
+      dos anexos. **Queda escrito para la próxima ocupación que comparta temas.**
+      **3) Una plantilla extraída por COORDENADAS.** El PDF de preguntas de este cuadernillo trae la
+      fuente incrustada sin tabla de caracteres —como el de Ingeniería Técnica—, **pero el de
+      respuestas no**: se ha leído emparejando el número de la izquierda con la letra de su misma
+      fila, y **sus 96 respuestas salen enteras, sin huecos, sin duplicados y sin una sola
+      anotación.** **Es la primera plantilla del proyecto leída así**, y la técnica sirve para
+      cualquier otra que venga en el mismo formato.
+      **4) Nueve cifras huérfanas que NO se quitan, y por qué.** La lente de documento marca nueve en
+      el tema 25. **Se han mirado las nueve y ninguna es un dato**: son **números de norma** —27000,
+      27001, 27002— y **el identificador del propio real decreto citado**. **Una cifra huérfana es un
+      aviso, no un veredicto**: lo que el método prohíbe es afirmar un DATO que no se ha leído en su
+      fuente, y **quitar el número de una norma haría el temario ilegible sin ganar un gramo de
+      verdad.** **Se declaran una a una en el informe de refutación y se dejan.**
+      **5) Un orden DERIVADO de dos plantillas, y lo que expresamente no se afirma.** El orden de los
+      criterios del algoritmo de elección del reloj maestro se deduce de dos preguntas: **la prioridad
+      primera va antes que la clase de reloj —lo dice una— y la clase de reloj antes que la precisión,
+      la desviación y la prioridad segunda —lo dice la otra—.** **El temario afirma eso y NO afirma el
+      orden relativo de los tres últimos**, porque **ninguna pregunta lo desempata** y **decirlo de
+      memoria sería exactamente lo que el apartado 1 del manual prohíbe.**
+      **6) El único cuadernillo del proyecto sin ni una pregunta de prevención.** El tema compartido
+      se incluye igual, **porque el punto 29 del anexo lo pide**, y el dato va escrito en la portada
+      del volumen en vez de disimulado.
 
 ## Qué comprobación pasa por qué material
 

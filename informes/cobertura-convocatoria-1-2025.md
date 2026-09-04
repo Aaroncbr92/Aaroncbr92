@@ -123,10 +123,11 @@ retoca**— y lo que ha cambiado va aquí, con su fecha.
 | `libro-ing-tec-teleco` | Ingeniería Técnica · Telecomunicación | 5 | 2026-09-03 |
 | `libro-teitse` | Técnica Equipos, Instal. y Sist. Eléctricos | 5 | 2026-09-04 |
 | `libro-ambientacion-vestuario` | Ambientación Vestuario | 4 | 2026-09-04 |
-| | **Total añadido** | **65** | |
+| `libro-ing-sup-teleco` | Ingeniería Superior · Telecomunicación | 4 | 2026-09-04 |
+| | **Total añadido** | **69** | |
 
-**La cuenta queda así**: **761 + 65 = 826 de los 872 puestos**, es decir **el 94,7 %**, y **46 puestos
-repartidos en las quince filas restantes de la tabla de arriba.**
+**La cuenta queda así**: **761 + 69 = 830 de los 872 puestos**, es decir **el 95,2 %**, y **42 puestos
+repartidos en las catorce filas restantes de la tabla de arriba.**
 
 **Y tres de esas quince no son cubribles y así está escrito** en
 `informes/ocupaciones-sin-programa-1-2025.md`: **Realización · RADIO (13)**, **Construcción, Montaje y

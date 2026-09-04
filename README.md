@@ -97,6 +97,7 @@ prevención de riesgos laborales**, que es un solo fichero.
 | `libro-imagen-personal` | **Imagen Personal** | 10 | 132 | 161 |
 | `libro-teitse` | **Téc. Equipos, Instalaciones y Sistemas Eléctricos** | 16 | 48 | 237 |
 | `libro-ambientacion-vestuario` | **Ambientación Vestuario** | 8 | 48 | 135 |
+| `libro-ing-sup-teleco` | **Ing. Superior Telecomunicación** | **27** | 134 | **337** |
 
 **Realización Televisión es el volumen más grande del proyecto**: 365 páginas,
 veintidós temas propios más el de prevención y **229 preguntas del bloque
@@ -164,6 +165,28 @@ llevan el 42 % del examen y **diez no se llevan ninguna pregunta**. Cuatro de es
 diez son el corazón del oficio —estudios, continuidades, salas técnicas e
 ingeniería de implantación—, y **sus temas se escriben igual, contra el
 programa**.
+
+**Y Ingeniería Superior · Telecomunicación es el primer volumen del proyecto que
+COMPARTE temas con otro que no es el de prevención**: **siete de sus veintisiete
+son, palabra por palabra, siete puntos del anexo de Ingeniería Técnica ·
+Telecomunicación**, así que el tema se escribe una sola vez y sirve a las dos
+ocupaciones. **La comprobación se hizo carácter a carácter sobre los dos ficheros
+de bases**, y dio un hallazgo: en uno de los siete **sólo cambia un signo de
+puntuación**, y el temario lo dice así en lugar de afirmar una identidad exacta
+que no lo es.
+
+**Y obligó a añadir una comprobación al método que ninguna lente detecta**:
+cuando un tema pasa a servir a dos ocupaciones, **hay que reescribir su CABECERA,
+no sólo revisar su cuerpo**. Un cuerpo correcto con una cabecera vieja publica una
+afirmación falsa en los dos volúmenes a la vez. Se revisan cinco sitios: la ficha
+del tema, su primer párrafo, su fila de `portadas.tsv`, la cabecera de su esquema
+y la identidad literal del enunciado en los dos anexos.
+
+**Es además el único cuadernillo del proyecto sin ni una pregunta de prevención
+de riesgos laborales**, y **el único cuya plantilla se ha extraído por
+coordenadas**: su PDF de preguntas trae la fuente incrustada sin tabla de
+caracteres, pero el de respuestas no, y sus **96 respuestas salen enteras, sin
+huecos, sin duplicados y sin una sola anotación**.
 
 **Diez respuestas oficiales de 2024 están mal, y van marcadas una a una** con el
 precepto, el modelo de cuentas o la ficha de fabricante que las desmiente. El

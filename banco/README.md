@@ -688,6 +688,73 @@ compartido de prevención —manipulación manual de cargas—, la **nº 43** al
 **Ninguna palabra clave las habría cogido bien**, y las tres son del bloque común.
 
 
+### Ingeniería Superior · Telecomunicación
+
+**86 preguntas**, repartidas entre los veintisiete temas en que este proyecto desarrolla su Anexo 2:
+**diecinueve propios, siete compartidos con Ingeniería Técnica · Telecomunicación y el de
+prevención.**
+
+| Fichero | Tema | Preguntas |
+|---|---|---|
+| — | 1 · Marco regulatorio de las telecomunicaciones *(compartido)* | **0** |
+| — | 2 · La señal y la conversión analógico-digital *(compartido)* | **0** |
+| `ing-sup-teleco-03.md` | 3 · La transmisión: canal, modulación y multiplexado | 3 |
+| `ing-sup-teleco-04.md` | 4 · Medios de transmisión, conectores y compresión | 6 |
+| `ing-sup-teleco-05.md` | 5 · La señal de televisión | 3 |
+| `ing-sup-teleco-06.md` | 6 · Televisión digital: codificación y compresión | 5 |
+| `ing-sup-teleco-07.md` | 7 · La televisión digital terrestre | 1 |
+| `ing-sup-teleco-08.md` | 8 · Alta y ultraalta definición: estándares | **11** |
+| `ing-sup-teleco-09.md` | 9 · Comunicaciones y radiodifusión por satélite | 1 |
+| `ing-sup-teleco-10.md` | 10 · Voz, imagen, multimedia y difusión en flujo | 1 |
+| `ing-sup-teleco-11.md` | 11 · Producción I: cámaras, conmutación, grabación y edición | 4 |
+| `ing-sup-teleco-12.md` | 12 · Producción II: sonido, iluminación, medida y auxiliares | 4 |
+| `ing-sup-teleco-13.md` | 13 · Las salas: estudio, continuidad y controles técnicos | 5 |
+| — | 14 · Sistemas de redacción e informativos | **0** |
+| `ing-sup-teleco-15.md` | 15 · Postproducción de vídeo y audio | 1 |
+| — | 16 · Grafismo electrónico y escenografía virtual | **0** |
+| `ing-sup-teleco-17.md` | 17 · Sistemas radiantes y radiocomunicaciones | 5 |
+| `ing-sup-teleco-18.md` | 18 · Almacenamiento de datos y servidores | 4 |
+| `ing-sup-teleco-19.md` | 19 · Producción audiovisual sobre infraestructura de red | **11** |
+| `ing-sup-teleco-20.md` | 20 · Comunicaciones y redes *(compartido)* | **13** |
+| `ing-sup-teleco-21.md` | 21 · Sonido | 7 |
+| — | 22 · Radio digital *(compartido)* | **0** |
+| — | 23 · Antenas y transmisores de radiodifusión *(compartido)* | **0** |
+| `ing-sup-teleco-24.md` | 24 · Ingeniería de implantación *(compartido)* | 1 |
+| — | 25 · Seguridad en tecnologías de la información | **0** |
+| — | 26 · Protección de datos personales *(compartido)* | **0** |
+
+**Un solo cuadernillo**, `44_preguntas_ing_sup_teleco`, de **96 preguntas —80 principales más 16 de
+reserva—**, con su plantilla completa fechada el **05/02/2025**. **Ochenta y seis van al específico y
+diez al bloque común**: ocho de la Constitución y dos del III Convenio Colectivo.
+
+**Ninguna de las noventa y seis es de prevención de riesgos laborales.** **Es el único cuadernillo del
+proyecto en que ese bloque no ha dado ni una.**
+
+**Una advertencia sobre la fuente**: **su PDF trae la fuente incrustada sin tabla de caracteres**, de
+modo que el texto se extrae como glifos numerados y **se lee de la transcripción por reconocimiento
+óptico que está al lado**. **La plantilla, en cambio, sí se lee por coordenadas**: emparejando el
+número de la izquierda con la letra de su misma fila, **sus 96 respuestas salen enteras, sin huecos,
+sin duplicados y sin una sola anotación.**
+
+**Tres puntos se llevan 35 de las 86**, el **41 %** del examen específico: **redes con trece**,
+**producción sobre red con once** y **alta y ultraalta definición con otras once**. En el otro extremo,
+**ocho de los veintinueve puntos del anexo no se llevan ninguna**.
+
+**Ninguna respuesta oficial es errónea y ninguna es impugnable.** **Cinco preguntas dependen de una
+figura** —la **nº 15**, la **nº 22**, la **nº 68** y la **nº 76**, de fotografías de conectores y
+paneles, y la **nº 37**, de un esquema—: **el temario no describe lo que no ha visto**, así que **da la
+regla de la familia y deja la respuesta en la plantilla**, declarándolo una a una. **La nº 37 es la
+excepción**: **la palabra que la resuelve está en el texto** —«cualquiera de las estaciones»— y el tema
+la razona sin el dibujo.
+
+**Y la nº 91 llega con su tercera opción corrompida desde la transcripción óptica.** **No es un error
+del examen: es de la transcripción**, y **la respuesta oficial no se ve afectada.**
+
+**Una pregunta se ha reclasificado a mano** en `reclasificadas.tsv`: la **nº 38**, sobre la composición
+de las Fuerzas Armadas, al tema 1 del general. **Ninguna palabra clave la coge**, porque **el enunciado
+no nombra ni la Constitución ni ningún artículo.**
+
+
 ### Realización Televisión
 
 **229 preguntas** de los dos llamamientos de **Realización Televisión** de 2024, repartidas entre los
