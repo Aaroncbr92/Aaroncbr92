@@ -1,0 +1,919 @@
+
+Título: 
+Socorrismo laboral y primeros auxilios 
+Autor: 
+Instituto Nacional de Seguridad e Higiene en el Trabajo (INSHT) 
+Colaborador: 
+Ballesteros Revuelto, Isabel 
+Barrio Arjona, Mª Victoria del 
+Martín Suárez, Virginia 
+Sánchez Cabo, Mª Teresa 
+Centro Nacional de Nuevas Tecnologías 
+Instituto Nacional de Seguridad e Higiene en el Trabajo 
+Edita: 
+Instituto Nacional de Seguridad e Higiene en el Trabajo (INSHT) 
+C/ Torrelaguna 73, 28027 Madrid 
+Tel. 91 363 41 00, fax 91 363 43 27 
+www.insht.es 
+Composición: 
+Servicios Gráficos Kenaf, s.l. 
+Camino de Hormigueras 124, portal 3, 4º G, 28031 Madrid 
+Tel. 91 380 64 71 
+info@kenafsl.com 
+Edición: 
+Madrid, noviembre 2014 
+NIPO (en línea): 272-14-083-0 
+Hipervínculos: 
+El INSHT no es responsable ni garantiza la exactitud de la información en los sitios web que no son de 
+su propiedad. Asimismo la inclusión de un hipervínculo no implica aprobación por parte del INSHT del 
+sitio web, del propietario del mismo o de cualquier contenido específico al que aquel redirija. 
+Catálogo general de publicaciones oﬁciales: 
+http://publicacionesoficiales.boe.es 
+Catálogo de publicaciones del INSHT: 
+http://www.insht.es/catalogopublicaciones/ 
+
+SOCORRISMO LABORAL  
+Y PRIMEROS AUXILIOS  
+
+4 
+ÍNDICE  
+Pág. 
+1. INTRODUCCIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+5  
+2. ALCANCE DEL DOCUMENTO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+5  
+3. CONCEPTOS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+6  
+4. SOCORRISMO LABORAL. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+6  
+5. PRIMEROS AUXILIOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+8  
+5.1. Cadena de socorro. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10  
+5.2. Activación del sistema de emergencia. . . . . . . . . . . . . . . . . . . . . . . . . . 12  
+5.3. Valoración primaria del accidentado . . . . . . . . . . . . . . . . . . . . . . . . . . . 13  
+5.4. Valoración secundaria del accidentado . . . . . . . . . . . . . . . . . . . . . . . . . 14  
+5.5. Espera de los servicios médicos externos. . . . . . . . . . . . . . . . . . . . . . . 14  
+6. LA OBLIGACIÓN LEGAL DE SOCORRER . . . . . . . . . . . . . . . . . . . . . . . . . . 15  
+BIBLIOGRAFÍA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16  
+ANEXO I. VALORACIÓN PRIMARIA: ACTUACIÓN . . . . . . . . . . . . . . . . . . . . . . 17  
+ANEXO II. LESIONES DETECTADAS EN LA VALORACIÓN SECUNDARIA. . . . 22  
+ANEXO III. POSICIONES DE ESPERA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31  
+
+5 
+1. INTRODUCCIÓN 
+El artículo 20 de la Ley 31/1995, de 8 de Noviembre, de Prevención de Riesgos 
+Laborales [1], sobre medidas de emergencia, señala que el personal encargado 
+para actuar en las situaciones de emergencia debe poseer la formación necesaria 
+para poner en marcha las medidas necesarias ante las circunstancias que las re­
+quieran. En concreto, dice que “el empresario, teniendo en cuenta el tamaño y la 
+actividad de la empresa, así como la posible presencia de personas ajenas a la 
+misma, deberá analizar las posibles situaciones de emergencia y adoptar las me­
+didas necesarias en materia de primeros auxilios, lucha contra incendios y eva­
+cuación de los trabajadores, designando para ello al personal encargado de poner 
+en práctica estas medidas y comprobando periódicamente, en su caso, su co­
+rrecto funcionamiento. El citado personal deberá poseer la formación necesaria, 
+ser suficiente en número y disponer del material adecuado, en función de las cir­
+cunstancias antes señaladas. Para la aplicación de las medidas adoptadas, el em­
+presario deberá organizar las relaciones que sean necesarias con servicios 
+externos a la empresa, en particular en materia de primeros auxilios, asistencia 
+médica de urgencia, salvamento y lucha contra incendios, de forma que quede 
+garantizada la rapidez y eficacia de las mismas”. 
+Por tanto, en concordancia con el art. 20 de la LPRL [1] sobre medidas de emer­
+gencia y debido a las actualizaciones de los protocolos de emergencia comunicadas 
+periódicamente por el Consejo Europeo de Emergencia, se presenta en este docu­
+mento la información resumida, con las actualizaciones oportunas, con el objetivo 
+de recordar las actuaciones y procedimientos a seguir por el personal encargado 
+de poner en práctica las medidas relativas al socorrismo laboral y velar por su co­
+rrecto funcionamiento. 
+2. ALCANCE DEL DOCUMENTO 
+Este documento va dirigido al personal no profesional sanitario, que actuará siempre 
+hasta la llegada del equipo profesional sanitario, nunca sustituyéndolo. 
+Asimismo, la formación en esta materia podrá impartirla cualquier persona que se 
+demuestre que está formada al respecto, sin necesidad de que sea personal profe­
+sional sanitario, ya que las actuaciones de los profesionales sanitarios sólo podrán 
+ser realizadas por ellos. 
+
+6 
+3. CONCEPTOS 
+Por socorrismo laboral se entiende un concepto global, en el que se incluirían todas 
+las actuaciones que aparecen descritas en el art. 20 de la LPRL [1] sobre primeros 
+auxilios, lucha contra incendios y evacuación de los trabajadores. Los primeros au­
+xilios son una serie de actuaciones y técnicas para atender correcta y eficazmente 
+al accidentado, con un objetivo claro: no agravar las lesiones existentes e incluso 
+poder salvarles la vida. Y siempre actuando hasta la llegada del equipo profesional. 
+4. SOCORRISMO LABORAL 
+Organización del socorrismo en la empresa de acuerdo a la legislación vigente 
+El artículo 20 de la LPRL [1] señala como obligación del empresario el análisis de 
+las posibles situaciones de emergencia, así como la adopción de las medidas ne­
+cesarias en materia de primeros auxilios, entre otras. Por tanto, a la hora de orga­
+nizar el socorrismo en la empresa, los principales puntos a considerar son [2]: 
+•  Designación del personal encargado de poner en práctica las medidas en 
+materia de primeros auxilios, lucha contra incendios y evacuación de los tra­
+bajadores. 
+•  Comprobación periódica del correcto funcionamiento de estas medidas. 
+•  Organización de las relaciones que sean necesarias con servicios externos 
+para garantizar la rapidez y eficacia de las actuaciones. 
+•  Formación adecuada del personal y en número suficiente, así como disponer 
+de material adecuado, todo ello en función de los riesgos de cada empresa. 
+Personal encargado 
+No existe legislación sobre el número de socorristas, es decir, de personas desig­
+nadas para prestar los primeros auxilios y velar por su correcto funcionamiento. El 
+artículo 20 de la LPRL [1] únicamente insta al empresario a designar al personal en­
+cargado, pero no especifica cuántos miembros deben formar parte de ese personal 
+y señala que debe ser “suﬁciente en número”. 
+Como orientación, para determinar el número de socorristas habrá que tener en 
+cuenta algunos factores como la estructura de la empresa, el número de trabajado­
+res y cómo se organizan sus puestos de trabajo, el tipo de actividad que se realiza 
+
+7 
+en la empresa, si existen diferentes turnos, la distancia en tiempo real de los servi­
+cios médicos externos, etc. No obstante, en la empresa se debería disponer siempre 
+y en todo momento de una persona encargada de la actuación en situaciones de 
+emergencia (previsión de posibles ausencias, vacaciones, etc. de las personas en­
+cargadas) [2]. 
+Para situaciones de riesgo bajo como puede ser, por ejemplo, el trabajo en oficinas, 
+se podría disponer, como mínimo, de un socorrista por cada 50 trabajadores por 
+turno. Sin embargo, en situaciones de mayor peligrosidad, como en el trabajo con 
+maquinaria peligrosa, podría considerarse la designación de dos socorristas por 
+grupo de trabajo. 
+Formación en primeros auxilios 
+El personal debe estar debidamente formado, informado y entrenado para poder 
+atender al accidentado de forma rápida y eficaz en caso de accidente y saber activar 
+correctamente y en el menor tiempo posible el Sistema de Emergencia. El socorrista 
+tendrá formación básica, complementaria y específica [2]. 
+•  Básica: formación para atender todas aquellas situaciones de emergencia 
+donde corre peligro la vida de la persona como parada cardiorrespiratoria 
+(P.C.R.) en las que no se pueda esperar a la llegada del equipo profesional. 
+•  Complementaria: conocimientos que le permitirán atender situaciones de 
+urgencia médica tales como hemorragias, fracturas o heridas tratando de no 
+agravarlas y mantenerlas en las mejores condiciones posibles hasta la llegada 
+del equipo profesional. 
+•  Especíﬁca: formación que le permitirá atender situaciones, según los riesgos 
+específicos de su empresa. Contenidos de la formación del socorrista
+Figura 1. Contenidos de la formación del socorrista. 
+
+8 
+El objetivo de la formación en primeros auxilios busca, no sólo la adquisición de los 
+conocimientos básicos, sino también de unas habilidades y actitudes imprescindi­
+bles para reconocer una situación de urgencia o emergencia y dar el soporte inicial 
+adecuado hasta la llegada del equipo profesional [3]. 
+Consejos generales del socorrismo 
+Existen unas consideraciones que se deben tener siempre en cuenta, ante una si­
+tuación de emergencia, y a la hora de socorrer a un accidentado, ya que permitirán 
+evitar errores en la atención del mismo, que podrían agravar las lesiones existentes, 
+e incluso poner en peligro su vida. 
+Estos consejos son: 
+•  Conservar la calma. 
+•  Evitar aglomeraciones. 
+•  Dominar la situación. 
+•  No mover al accidentado (a menos que sea necesario) hasta que no se haya 
+hecho una valoración primaria de éste. 
+•  Examinarlo para determinar aquellas situaciones que pongan en peligro su vida. 
+•  Tranquilizar al accidentado. 
+•  Mantenerlo caliente. 
+•  Activar urgentemente el sistema de emergencia. 
+•  Trasladarlo de forma adecuada y en el vehículo apropiado (ambulancia). 
+•  No dar nunca medicación. 
+5. PRIMEROS AUXILIOS 
+Los primeros auxilios son un conjunto de actuaciones y técnicas que permiten la 
+atención inmediata del accidentado, lo más rápida y adecuadamente posible, hasta 
+la llegada del equipo médico profesional con objeto de no agravar las lesiones pro­
+ducidas e incluso salvarle la vida. 
+
+9 
+Todos los estamentos presentes en la empresa deben estar sensibilizados con la 
+importancia de la organización de los primeros auxilios y con la verificación continua 
+del buen funcionamiento de éstos. Hay que pensar que de su buen funcionamiento 
+puede depender a veces la vida de una o varias personas. 
+Desde el punto de vista legal, el Real Decreto 486/1997, de 14 de Abril, por el que 
+se establecen las disposiciones mínimas de seguridad y salud en los lugares de tra­
+bajo [5], considera expresamente los locales de primeros auxilios incluidos en la de­
+finición de lugares de trabajo (artículo 2). Además, dedica el artículo 10 y anexo VI 
+al material y locales de primeros auxilios en donde se recogen diferentes aspectos 
+sobre la organización, características, recursos técnicos con los que deben contar, 
+como por ejemplo el botiquín, etc. 
+“Artículo 10. Material y locales de primeros auxilios 
+Los lugares de trabajo dispondrán del material y, en su caso, de los locales necesa­
+rios para la prestación de primeros auxilios a los trabajadores accidentados, ajus­
+tándose a lo establecido en el Anexo VI.” 
+“Anexo VI: Material y locales de primeros auxilios 
+1. Los lugares de trabajo dispondrán de material para primeros auxilios en caso 
+de accidente, que deberá ser adecuado, en cuanto a su cantidad y caracte­
+rísticas, al número de trabajadores, a los riesgos a que estén expuestos y a 
+las facilidades de acceso al centro de asistencia médica más próximo. El ma­
+terial de primeros auxilios deberá adaptarse a las atribuciones profesionales 
+del personal habilitado para su prestación. 
+2. La situación o distribución del material en el lugar de trabajo y las facilidades 
+para acceder al mismo y para, en su caso, desplazarlo al lugar del accidente, 
+deberán garantizar que la prestación de los primeros auxilios pueda realizarse 
+con la rapidez que requiera el tipo de daño previsible. 
+3. Sin perjuicio de lo dispuesto en los apartados anteriores, todo lugar de tra­
+bajo deberá disponer, como mínimo, de un botiquín portátil que contenga 
+desinfectantes y antisépticos autorizados, gasas estériles, algodón hidró­
+filo, venda, esparadrapo, apósitos adhesivos, tijeras, pinzas y guantes des­
+echables. 
+4. El material de primeros auxilios se revisará periódicamente y se irá reponiendo 
+tan pronto como caduque o sea utilizado. 
+
+10 
+5. Los lugares de trabajo de más de 50 trabajadores deberán disponer de un 
+local destinado a los primeros auxilios y otras posibles atenciones sanitarias. 
+También deberán disponer del mismo los lugares de trabajo de más de 25 
+trabajadores para los que así lo determine la autoridad laboral, teniendo en 
+cuenta la peligrosidad de la actividad desarrollada y las posibles diﬁcultades 
+de acceso al centro de asistencia médica más próximo. 
+6. Los locales de primeros auxilios dispondrán, como mínimo, de un botiquín, 
+una camilla y una fuente de agua potable. Estarán próximos a los puestos de 
+trabajo y serán de fácil acceso para las camillas. 
+7. El material y locales de primeros auxilios deberán estar claramente señaliza­
+dos.” 
+Botiquín 
+A la vista de lo señalado en el Anexo VI del RD 486/1997 [5] sobre el contenido del 
+botiquín, cabe resaltar la ausencia de cualquier tipo de medicación en el boti­
+quín, puesto que el responsable del mismo será personal no profesional sanitario, 
+sin competencia para suministrar medicamentos. En el caso de que se disponga 
+en el botiquín de algún medicamente de tipo analgésico, su administración será 
+siempre bajo la responsabilidad de la propia persona que lo tome. 
+Otros recursos materiales 
+Además del botiquín, camilla y fuente de agua potable, sería recomendable que se 
+dispusiera de otros recursos materiales que ayuden al buen funcionamiento de las 
+medidas en caso de emergencia y a una correcta actuación. 
+Sería el caso de disponer de unas medidas de autoprotección. Por ejemplo, cuando 
+se produce una emergencia por una fuga o vertido de un tóxico, se debe disponer 
+de equipos de protección respiratoria para que el socorrista designado pueda ac­
+ceder al lugar sin ponerse en peligro y pueda desarrollar su tarea de socorrer a los 
+accidentados. 
+5.1. Cadena de socorro 
+La cadena de socorro está integrada por un grupo de personas de la empresa, que 
+están debidamente formadas, informadas y entrenadas para activar correctamente 
+el Sistema de Emergencia. Podría resumirse que la cadena de socorro la forman 
+todas aquellas personas que están entre la víctima y el equipo médico profesional. 
+
+11 
+Los eslabones de la cadena de socorro son: 
+-
+Propios: testigos, telefonistas, socorristas. 
+-
+Externos: personal del 112 (teléfono de emergencia en España y resto de Eu­
+ropa). 
+Eslabones de la cadena de socorro
+Figura 2. Eslabones de la cadena de socorro 
+Testigos 
+Son los primeros eslabones de la cadena de socorro, los primeros en presenciar un 
+accidente. Se puede hablar de: 
+-
+Testigo ordinario: no está preparado ni formado para afrontar una situación 
+de este tipo. Se encontrará desorientado e influenciado emocionalmente e 
+incluso puede que no sea capaz de transmitir el mensaje correctamente. 
+-
+Testigo privilegiado: posee formación y es capaz de hacer una valoración 
+global de la situación y activar correctamente el Sistema de Emergencia. 
+-
+Testigos, que por su propio trabajo en la empresa, deben estar formados y 
+entrenados para activar correctamente el Sistema de Emergencia en caso de 
+accidente (por ejemplo, delegados de prevención, vigilantes de seguridad, 
+personal de mantenimiento, etc.). 
+Telefonista 
+Ante el aviso recibido, debe ser capaz de trasmitir de forma rápida, eficaz y concisa 
+la solicitud de ayuda al 112. 
+
+12 
+Los operadores de los teléfonos de emergencias deben seguir protocolos estrictos 
+para interrogar a las personas que llaman, siendo entrenados específicamente para 
+ello [4]. 
+Socorrista 
+Será una persona voluntaria de la empresa, debidamente formada y entrenada para 
+socorrer al accidentado, lo mejor y más rápidamente posible, hasta la llegada del 
+equipo médico profesional no agravando lesiones e incluso salvándole la vida. 
+Se recomienda que el socorrista tenga unas cualidades específicas personales tales 
+como temperamento tranquilo, solidario, dotes de mando y autocontrol, además de 
+los conocimientos adecuados, indicados en el apartado 4. 
+5.2. Activación del sistema de emergencia 
+Ante un accidente se debe activar cuanto antes el Sistema de Emergencia, puesto 
+que de esta forma se socorre al accidentado mejor y más rápidamente, haciendo 
+que no se agraven las lesiones e incluso llegando a salvarle la vida. 
+Es muy importante tener bien deﬁnidas las personas que forman parte de la 
+cadena de socorro en caso de accidente. 
+Para activar correcta y eficazmente el Sistema de Emergencia, hay que tener siem­
+pre en cuenta la palabra: P. A. S., cuyas siglas indican las actuaciones básicas para 
+atender a un accidentado: Activación del Sistema de Emergencia (P.A.S.)
+Figura 3. Activación del Sistema de Emergencia (P.A.S.) 
+
+13 
+5.3. Valoración primaria del accidentado 
+Una vez activado el Sistema de Emergencia (P.A.S.) y a la hora de socorrer, se debe 
+establecer un método único que permita identificar las situaciones vitales o de emer­
+gencia médica que conduzcan a la muerte. Para ello, siguiendo el protocolo común 
+establecido, se realizará una evaluación de los signos vitales mediante una explo­
+ración siempre en este orden: 
+1) Consciencia 
+2) Respiración1 
+EMERGENCIA MÉDICA (PCR) 
+Es toda aquella situación que lleva al accidentado a una interrupción brusca, ines­
+perada y potencialmente reversible de su respiración y circulación espontánea que 
+le conduce a una parada cardiorrespiratoria (P.C.R.), que le puede llevar a la muerte 
+y que requiere atención urgente [6]. 
+Cuando la respiración se suspende, trae como consecuencia una privación del oxí­
+geno indispensable para la vida del organismo. Al carecer de oxígeno, todos los ór­
+ganos del cuerpo empiezan un proceso de degeneración y muerte, pero ocurre que 
+los órganos más importantes, son mucho más sensibles a esta falta de oxígeno, y 
+se alteran rápidamente. Esto le ocurre principalmente al cerebro, donde sus neuro­
+nas mueren en un breve espacio de tiempo. La falta de oxígeno afecta también al 
+corazón y a los riñones, órganos vitales en el hombre. Por tanto, cuando se sus­
+pende la respiración (que aporta oxígeno a la sangre), y la circulación (que transporta 
+la sangre oxigenada a todo el cuerpo), el organismo queda sin oxígeno y esta situa­
+ción puede conducir a la muerte. 
+En esta primera etapa de valoración se intentará reponer la respiración y la circula­
+ción en el menor tiempo posible mediante el soporte vital básico (técnicas de R.C.P). 
+La actuación en la valoración primaria y las técnicas de reanimación se recogen en 
+el Anexo I de este documento. 
+1 
+Anteriormente, también estaba establecido la comprobación del pulso, pero se modificó, quedando 
+únicamente como signos a evaluar la consciencia y la respiración. Este cambio es debido a que eva­
+luar el pulso carotídeo (o cualquier otro) es un método impreciso de confirmar la presencia o ausencia 
+de circulación (para reanimadores profesionales y para los no profesionales) [4]. 
+
+14 
+5.4. Valoración secundaria del accidentado 
+La evaluación secundaria se hará, una vez que se haya hecho la valoración primaria 
+de la víctima y se haya comprobado que mantiene las constantes vitales (conscien­
+cia y respiración), y por tanto, no corra peligro su vida. 
+En la evaluación secundaria se examina al accidentado de la cabeza a los pies, bus­
+cando lesiones que pudieran agravar posteriormente su estado general. Estas le­
+siones pueden ser hemorragias, heridas, fracturas, quemaduras, etc. La actuación 
+en cada uno de estos casos se describe en el Anexo II del documento. 
+5.5. Espera de los servicios médicos externos 
+Cuando el accidentado está a la espera de la llegada de los servicios médicos, una 
+vez que se ha hecho la valoración primaria y secundaria, su colocación es muy im­
+portante para no agravar su estado. 
+La posición lateral de seguridad (P.L.S) es la posición adecuada de espera y trans­
+porte cuando el accidentado se encuentra inconsciente, con respiración estable y 
+sin traumatismo. Así, se controla el vómito y se evita que la lengua caiga hacia atrás 
+y provoque dificultad respiratoria [3]. 
+En el Anexo III se muestra una tabla donde se recogen las posiciones de espera. 
+Además de la posición, existen una serie de recomendaciones generales a seguir 
+durante la espera [7]: 
+•  Vigilar el nivel de consciencia y respiración continuamente. 
+•  Aflojar la ropa y calzado y retirar elementos del cuello y de miembros supe­
+riores con traumatismos. 
+•  Mantener al accidentado en buenas condiciones de temperatura, abrigado 
+contra el frío y a la sombra contra el calor y el sol. 
+•  Mantenerlo despierto y animado. 
+•  No darle de comer, beber o fumar. 
+•  Evitar situaciones o comentarios que puedan alterarlo. 
+
+15 
+6. LA OBLIGACIÓN LEGAL DE SOCORRER 
+La Ley Orgánica 10/1995, de 23 de Noviembre, del Código Penal [8] dedica su Título 
+IX a la omisión del deber de socorro. En concreto, el art. 195 dice así: 
+“1. El que no socorriere a una persona que se halle desamparada y en peligro ma­
+niﬁesto y grave, cuando pudiere hacerlo sin riesgo propio ni de terceros, será casti­
+gado con la pena de multa de tres a doce meses. 
+2. En las mismas penas incurrirá el que, impedido de prestar socorro, no demande 
+con urgencia auxilio ajeno. 
+3. Si la víctima lo fuere por accidente ocasionado fortuitamente por el que omitió el 
+auxilio, la pena será de prisión de seis meses a 18 meses, y si el accidente se debiere 
+a imprudencia, la de prisión de seis meses a cuatro años.” 
+Por tanto, queda claro que cualquier persona está obligada a socorrer a terceros 
+cuando se encuentre con una situación de emergencia que así lo requiera, de “des­
+amparo y peligro maniﬁesto” o en caso de correr peligro personal, será suficiente 
+con solicitar a otros que presten ayuda [9]. 
+Cabe recordar que el personal designado según el artículo 20 de la LPRL [1], soco­
+rristas, serán voluntarios. Nunca podrá obligarse a ningún trabajador a ser socorrista 
+si no está de acuerdo con ello. 
+
+16 
+BIBLIOGRAFÍA 
+1.  Ley 31/1995, de 8 de Noviembre, de Prevención de Riesgos Laborales. 
+2.  INSTITUTO NACIONAL DE SEGURIDAD E HIGIENE EN EL TRABAJO. NTP 
+458. Primeros auxilios en la empresa: organización. 
+3.  Manual de la CRUZ ROJA de primeros auxilios. 1999. 
+4.  Guías para la resucitación 2010 del Consejo Europeo de Resucitación (ERC). 
+Traducción oficial autorizada al español del Consejo Español de Resucitación 
+Cardiopulmonar (CERCP). Disponible en web: http://www.cercp.com/guias­
+y-documentos/guias 
+5.  REAL DECRETO 486/1997, de 14 de Abril, por el que se establecen las dis­
+posiciones mínimas de seguridad y salud en los lugares de trabajo. 
+6.  INSTITUTO NACIONAL DE SEGURIDAD E HIGIENE EN EL TRABAJO. NTP 
+605. Primeros auxilios: evaluación primaria y soporte vital básico. 
+7.  Guía de primeros auxilios SAMUR. PROTECCIÓN CIVIL. Edición 2012. Dis­
+ponible en web: http://www.madrid.es 
+8.  Ley 10/1995, de 23 de Noviembre, del Código Penal. 
+9.  ACTUACIONES BÁSICAS EN PRIMEROS AUXILIOS. Cómo actuar ante las 
+emergencias médicas en casa, en la calle, en el trabajo o en la escuela. 3ª 
+edición. Agustín San Jaime García. Editorial Tébar. Madrid 2011. 
+10. INSTITUTO NACIONAL DE SEGURIDAD E HIGIENE EN EL TRABAJO. NTP 
+469. Primeros auxilios: hemorragias y shock. 
+
+17 
+ANEXO I. VALORACIÓN PRIMARIA: ACTUACIÓN 
+Recordando lo contenido en el apartado 5.3, la actuación en la valoración primaria 
+se va a centrar en el reconocimiento de los signos vitales, consciencia y respiración 
+y su restablecimiento. 
+Para comprobar la consciencia del accidentado, habrá que preguntarle qué le ha 
+pasado. Si no contesta, hay que provocarle un estímulo para ver si reacciona o no 
+y en caso de que no reaccione, es cuando se declara que el accidentado está in­
+consciente. Seguidamente y, sin moverlo, por si acaso padece algún traumatismo, 
+hay que comprobar su respiración. 
+Valoración primaria. Actuación
+Figura 4. Valoración primaria. Actuación. 
+REANIMACIÓN CARDIOPULMONAR (RCP) 
+Son las técnicas que hay que emplear cuando el accidentado está inconsciente y 
+no respira. El socorrista que interviene debe suplir las funciones vitales que le falten 
+al accidentado lo más rápidamente posible. 
+Todos los reanimadores, entrenados o no, deberían proporcionar compresiones to­
+rácicas a las víctimas de parada cardiaca [4]. 
+Ante una parada cardiorrespiratoria (P.C.R.), se utiliza el ABC de la reanimación: 
+• Abrir el paso al aire. 
+• Masaje cardiaco para conseguir un latido cardiaco eficaz. 
+
+18 
+• Boca a boca. 
+El ritmo a seguir son 30 compresiones y 2 ventilaciones [4]. 
+Técnica de Masaje cardiaco 
+•  Tumbar a la víctima sobre un plano duro, acostado sobre su espalda. 
+•  Extraer posibles cuerpos extraños de la boca (dentadura, caramelos). 
+•  Efectuar una hiperextensión del cuello para abrir vías respiratorias o elevar 
+frente-mentón en el caso de accidente de cuello. 
+•  Con las manos entrelazadas, apoyar la palma en el centro2 del pecho. 
+•  Con los brazos rectos y perpendiculares al punto de contacto con el esternón 
+ejercer compresión-descompresión directa sobre el tórax (ver figura 5). La 
+compresión y descompresión deberían durar el mismo tiempo [4]. 
+•  DAR 30 COMPRESIONES. 
+Posición del socorrista en el masaje cardiaco
+Figura 5. Posición del socorrista en el masaje cardiaco [7] 
+2 
+Se considera el centro del pecho la mitad inferior del hueso central del pecho o esternón [4]. 
+
+19 
+Técnica Boca a boca 
+•  Pinzar la nariz del herido. 
+•  Colocar un protector en la boca del accidentado (protector comercial o, en 
+su ausencia, gasa, pañuelo, etc… que permita el paso del aire). 
+•  El socorrista colocará sus labios alrededor de la boca de la víctima, quedando 
+ésta completamente sellada e insuflará aire de manera firme y sin brusque­
+dad. 
+•  Permitirá la salida del aire del pecho del herido, separando la boca de la víc­
+tima y volver a insuflar aire de igual forma. 
+• DAR 2 INSUFLACIONES (ventilaciones). 
+La R.C.P. se hará hasta que el accidentado recobre la consciencia o la respiración, 
+o bien hasta que llegue el equipo profesional. 
+Para los reanimadores no entrenados, se fomenta la R.C.P. con sólo compresiones 
+torácicas y guiada por teléfono [4]. 
+Los dispositivos de aviso/retroalimentación durante la R.C.P. permitirán a los reani­
+madores una retroalimentación inmediata y se anima a su utilización [4]. 
+No hay que olvidar que: 
+•  ante un accidentado inconsciente con respiración se le colocará en posición 
+lateral de seguridad (P.L.S.), siempre que no presente traumatismo (en ese 
+caso no moverlo pero sujetarle la lengua para que no le asfixie). 
+Posición Lateral de Seguridad
+Figura 6. Posición Lateral de Seguridad [7] 
+
+20 
+•  ante un accidentado consciente con riesgo de shock, le colocaremos estirado 
+con la cabeza siempre más baja que los pies (posición de Trendelemburg), 
+mientras sus lesiones lo permitan [10]. 
+CASOS CONCRETOS QUE PUEDEN CONDUCIR A P.C.R.: 
+Obstrucción de la vía aérea (atragantamientos) 
+Normalmente, está motivada por la entrada de un cuerpo extraño en las vías respi­
+ratorias (OVACE), de tal forma que se impide el paso del aire y, por tanto, la llegada 
+del oxígeno a los pulmones. A consecuencia de la falta de oxigenación, puede pro­
+ducirse una pérdida del conocimiento y entrar en P.C.R. 
+La obstrucción puede ser [3]: 
+-
+Incompleta: la víctima presenta una tos enérgica y continua (tos efectiva) y 
+se encuentra agitada. El paso del aire es mínimo. Hay que dejar que la víctima 
+siga tosiendo, para que expulse el cuerpo extraño, sin hacer nada más que 
+vigilar. Comprobar continuamente que la tos no se deteriora hacia tos inefec­
+tiva [4]. No dar golpes en la espalda. 
+-
+Completa: la víctima no es capaz de toser (tos inefectiva) ni hablar. Si está 
+consciente, el socorrista debe iniciar la MANIOBRA DE HEIMLICH3: 
+•  Colocarse detrás de la víctima y rodear su cintura con los brazos. 
+•  Cerrar la mano y colocar el nudillo del dedo pulgar cuatro dedos por en­
+cima del ombligo. 
+•  Con la otra mano, coger el puño de la primera. 
+•  Hacer una presión fuerte hacia adentro y arriba en dirección a los pulmo­
+nes. 
+•  Aflojar la presión sin perder el punto de aplicación de la maniobra. 
+•  Repetir la operación tantas veces como sea necesario hasta lograr la ex­
+pulsión del cuerpo extraño. 
+Puede ocurrir también que la víctima esté inconsciente y respirando. En ese caso: 
+3 
+Cinco golpes en la espalda y cinco compresiones abdominales según lo descrito [4]. 
+
+21 
+•  Tender a la víctima boca arriba, con la cabeza hacia un lado y la boca 
+abierta. 
+•  Ponerse de rodillas a horcajadas sobre sus caderas. 
+•  Colocar el talón de una mano por encima del ombligo y por debajo del es­
+ternón. 
+•  Colocar la otra mano sobre la primera cogiéndose la muñeca. 
+•  Realizar una presión enérgica hacia adentro y hacia arriba, en dirección a 
+los pulmones, en ciclos de seis a ocho veces. 
+•  Revisar la boca. 
+• Repetir la operación hasta lograr la expulsión del cuerpo extraño. 
+Si estuviera inconsciente y sin respirar, se iniciará la R.C.P. lo antes posible. 
+Crisis cardiaca-Infarto 
+Se caracteriza por un dolor agudo en el pecho, que puede extender hacia el cuello, 
+los hombros, brazos, espalda y mandíbula. También puede presentarse dificultad 
+respiratoria, puesto que la respiración se hace más rápida por la necesidad de más 
+oxígeno y la aparición de alteraciones en la piel (fría, pálida, sudorosa o cianótica). 
+Ante los síntomas de una crisis cardiaca, la forma de actuación será la siguiente [3]: 
+•  Colocar a la víctima en posición semisentada, con la cabeza y hombros bien 
+apoyados y las rodillas dobladas. 
+•  Aflojar cualquier prenda que le oprima el cuello o abdomen. 
+•  Activar el Sistema de Emergencia. 
+•  Si tuviera medicación “prescrita por el médico” administrársela. 
+•  Controlar signos vitales. 
+•  Si hay P.C.R. comenzar maniobras de R.C.P. 
+•  Si pierde la consciencia, colocarlo en P.L.S. 
+
+22 
+ANEXO II. LESIONES DETECTADAS EN LA VALORACIÓN SECUNDARIA 
+En este anexo se describen las actuaciones ante las lesiones detectadas en la va­
+loración secundaria del accidentado como hemorragias, heridas, fracturas, quema­
+duras o intoxicación. 
+HEMORRAGIAS 
+Se considera hemorragia cuando hay una salida de la sangre fuera de sus cauces 
+habituales, como venas, arterias o capilares. 
+El objetivo del socorrista es evitar la pérdida de sangre del accidentado. No obs­
+tante, si después de un golpe en la cabeza el accidentado sangra por un oído, nunca 
+se debe detener la hemorragia sino que se facilitará la salida de la sangre para pre­
+venir lesiones cerebrales por compresión. 
+Para detener las hemorragias, se puede proceder de distintas formas: 
+a) Compresión Directa: consiste en efectuar una presión en el punto de san­
+grado. Este es el primer método que debe utilizarse para detener una hemo­
+rragia externa. Para ello, utilizar un apósito lo más limpio posible (gasas, 
+pañuelo, etc.) y presionar durante un tiempo mínimo de 10 minutos, además 
+de elevar el miembro afectado a una altura superior a la del corazón del ac­
+cidentado. Transcurrido ese tiempo, aliviar la presión, pero nunca quitar el 
+apósito y vendar la herida. 
+b) Compresión Arterial: cuando falla la compresión directa, se debe utilizar este 
+segundo método. Fundamentalmente se aplica en hemorragias de extremi­
+dades, ya que en el resto de zonas no es muy eficaz. Sería el primer método 
+a utilizar en caso de que la hemorragia la produzca una fractura abierta de un 
+hueso. Consiste en encontrar la arteria principal del brazo (arteria humeral) o 
+de la pierna (arteria femoral), y detener la circulación sanguínea en esta arteria, 
+consiguiendo una reducción muy importante (no eliminación) del aporte san­
+guíneo. La arteria humeral tiene su trayecto por debajo del músculo bíceps 
+de brazo, por lo que el socorrista procederá a comprimir en esta zona con 
+las yemas de sus dedos. La arteria femoral se comprime a nivel de la ingle o 
+de la cara interna del muslo; para ello el Socorrista utilizará el talón de su 
+mano o bien el puño en caso de comprimir en el muslo. La compresión debe 
+mantenerse hasta la llegada del equipo médico o el ingreso en un hospital. 
+c) Torniquete: este método se utilizará sólo en el caso de que los demás (com­
+presión directa y arterial) no sean eficaces y la hemorragia persista, corriendo 
+
+23 
+peligro la vida del accidentado. El torniquete produce una detención de toda 
+la circulación sanguínea en la extremidad, por lo que conlleva la falta de oxi­
+genación de los tejidos y la muerte de los mismos, formándose toxinas (sus­
+tancias tóxicas) por necrosis y trombos por acumulación plaquetaria. 
+Condiciones de aplicación del torniquete: 
+•  En la raíz del miembro afectado. 
+•  Utilizar una banda ancha. 
+•  Anotar la hora de colocación. 
+•  Ejercer presión controlada (la necesaria para detener la hemorragia). 
+•  Nunca lo aflojará el Socorrista. 
+HERIDAS 
+Son todas aquellas lesiones que producen rotura o no de la continuidad de la piel. 
+La pauta general de actuación del socorrista será: 
+•  Lavarse las manos y desinfectarlas con alcohol. 
+•  Utilizar material estéril para prevenir infecciones. 
+•  Limpiar la herida con agua y jabón, empezando en el centro y después hacia 
+los extremos, con una gasa estéril (nunca con algodón, ya que deja residuos 
+en la herida). 
+•  Finalmente, pincelar con antiséptico incoloro. Después, poner una gasa estéril 
+encima y un apósito, aunque si la herida no sangra o rezuma es mejor dejarla 
+al aire libre. 
+Ante determinadas heridas se actuará de la siguiente forma: 
+•  Si la herida reviste gravedad, se cubrirá con apósito estéril pañuelo o trapo 
+limpio y se controlarán los signos vitales. 
+•  En las heridas penetrantes de tórax, se debe evitar la entrada de aire por la 
+herida. Para ello, poner un vendaje impermeable (dejando un punto abierto) 
+y trasladar al accidentado en postura de semisentado al hospital. 
+
+24 
+•  En las heridas de abdomen con salida de vísceras, nunca intentar reintroducir 
+las vísceras, simplemente cubrir éstas con un trapo húmedo limpio o gasa 
+estéril y se trasladará al accidentado tumbado boca arriba con las piernas 
+flexionadas manteniéndolo a dieta absoluta. 
+FRACTURA DE COLUMNA 
+En la fractura de columna hay que evitar siempre cualquier movimiento que encorve 
+el cuello, tronco o extremidades, ya que se podría lesionar la médula espinal y pro­
+ducir lesiones irreversibles en el accidentado. No doblar al accidentado. En caso de 
+que hubiera que moverlo porque su vida corriera peligro, siempre se hará entre 4 
+personas mínimo, de forma que se pueda mantener rígido el eje cabeza-cuello­
+tronco. 
+QUEMADURAS 
+Una quemadura se define como toda lesión producida por una excesiva exposición 
+al calor (a temperaturas superiores a 45 oC). Las causas que pueden producir que­
+maduras en nuestros tejidos son diversas: 
+•  Fuego, calor radiante, líquidos, sólidos incandescentes. 
+•  Exposición prolongada al sol. 
+•  Productos químicos. 
+•  Electricidad 
+•  Rozaduras o fricción. 
+Actuación ante una quemadura: 
+•  Eliminar la causa: apagar llamas, eliminar ácidos, etc. 
+•  Mantener los signos vitales. En los incendios, las personas quemadas pueden 
+presentar asfixia por inhalación de humos. 
+•  Examinar el cuerpo del accidentado, comprobar si se han producido hemo­
+rragias, fracturas, etc. y tratar la lesión más grave en primer lugar. 
+•  Refrescar la zona quemada aplicando agua en abundancia durante 20 o 30 
+minutos. 
+
+25 
+•  Cubrir la lesión con vendaje flojo y húmedo (sábanas, pañuelos, camisetas, 
+etc.). 
+•  Evacuar al herido en posición lateral, para evitar las consecuencias de un vó­
+mito (ahogo), a un centro hospitalario con Unidad de Quemados. 
+Qué no hacer ante una quemadura 
+•  No aplicar ningún tratamiento medicamentoso, ni otra cosa que no sea agua. 
+•  No enfriar demasiado al accidentado, sólo la zona quemada. Si aparecen tem­
+blores, hay que tapar al herido con una manta. 
+•  No administrar nada (agua, alcohol, alimentos, medicamentos, etc.). 
+•  No reventar las ampollas de la piel, ya que el líquido que contienen protege 
+de una posible infección. Al romperlas, abriríamos una puerta para la entrada 
+de gérmenes. 
+•  No despegar nada que esté pegado a la piel (ropa, etc.), salvo en caso de 
+quemaduras químicas. 
+•  No dejar sólo al accidentado. 
+•  No demorar el transporte a un centro hospitalario con Unidad de Quemados. 
+QUEMADURAS POR ELECTRICIDAD 
+El paso de la corriente a través del cuerpo da lugar a dos tipos de efectos: efectos 
+térmicos (quemaduras eléctricas) y efectos de sobrestimulación, como espasmos 
+musculares que impiden al herido interrumpir el contacto con la fuente eléctrica, 
+provocando aturdimiento e incluso una P.C.R. [3,7]. 
+El agua es un buen conductor de la electricidad, por lo que tener las manos mojadas 
+o pisar un suelo húmedo aumenta el riesgo de descarga eléctrica. 
+Las lesiones eléctricas pueden presentarse de forma súbita, inmediatamente des­
+pués de la descarga eléctrica o al cabo de unas horas. 
+Qué hacer en caso de electrocución [3]: 
+•  Desconectar la corriente antes de tocar a la víctima si todavía sigue en con­
+tacto con el conductor eléctrico. 
+
+26 
+•  Si no puede desconectarse, el socorrista debe tomar las medidas de seguri­
+dad adecuadas para su autoprotección. Retirará al accidentado utilizando un 
+objeto no conductor de madera o plástico o una alfombra [7]. 
+•  Controlar los signos vitales y, en caso necesario, iniciar las maniobras de so­
+porte vital básico. 
+•  Si la víctima está inconsciente y respirando, colocarla en P.L.S. teniendo en 
+cuenta las posibles lesiones traumáticas. 
+•  Si está inconsciente y no respira, empezar la R.C.P. 
+•  Tratar las quemaduras (las quemaduras eléctricas se tratan de forma similar 
+a las quemaduras térmicas [7]). 
+CONGELACIONES 
+Son lesiones producidas por una exposición prolongada al frío, que pueden terminar 
+en la pérdida del miembro por daño irreparable de los vasos sanguíneos [7]. 
+Los síntomas de una congelación son [7]: 
+•  ligero hormigueo (congelación de primer grado), 
+•  pérdida de sensibilidad en la zona afectada (congelación de primer grado), 
+•  piel pálida, muy fría, seca, azulada, entumecimiento de la zona (congelación 
+de primer grado), 
+•  rigidez de la piel afectada con sensación de pinchazos (congelación de primer 
+grado), 
+•  ampollas oscuras e inflamación de la zona (congelación de segundo grado) 
+•  grietas en la piel (congelación de tercer grado). 
+Qué hacer en caso de congelación [3,7]: 
+•  Trasladar a la víctima a un lugar seco y caliente. 
+•  Cambiarle la ropa mojada y fría, por seca y caliente. 
+
+27 
+•  Retirar los elementos (anillos, relojes, pulseras, etc.) que puedan comprimir 
+un miembro si se inflama. 
+•  Mantener elevada la zona afectada. 
+•  Tomar la temperatura a la víctima e intentar calentar la zona afectada me­
+diante un baño de agua tibia (40 oC) sumergiéndolo de forma gradual. 
+•  Si el accidentado está consciente, administrar líquidos calientes con azúcar 
+(nunca bebidas alcohólicas). 
+•  Mantener en reposo y vigilar las constantes vitales; estar preparado por si 
+fuera necesario realizar R.C.P4. 
+Qué no hacer en caso de congelación [7]: 
+•  No frotar directamente la piel de la zona afectada. 
+•  No aplicar directamente sobre la piel bolsas de calor ni aproximar demasiado 
+a estufas o fuentes de calor. 
+•  No romper ninguna ampolla. 
+INTOXICACIONES 
+La intoxicación es el resultado de la entrada de un tóxico en el organismo para da­
+ñarlo inmediatamente o a largo plazo. Pueden producir parada cardíaca de forma 
+excepcional [4]. 
+En situaciones sospechosas o parada cardíaca inesperada, debe extremarse la se­
+guridad del reanimador, especialmente cuando se dan simultáneamente más de una 
+intoxicación. Una de las precauciones a tener en cuenta es evitar la respiración boca 
+a boca en presencia de tóxicos como cianuro, sulfuro de hidrógeno, corrosivos o 
+insecticidas organofosforados [4]. 
+Frente a un intoxicado lo más importante es identiﬁcar, evitar que el tóxico siga 
+actuando, y disminuir su absorción. 
+La entrada al organismo puede ser digestiva, respiratoria, parenteral o cutánea. 
+4 
+Se emplea la misma relación de compresión-ventilación de 30:2 [4]. 
+
+28 
+Vía digestiva 
+Puede ser voluntaria o involuntariamente y comprende todo el tubo digestivo (boca, 
+faringe esófago, estómago e intestinos). Una intoxicación por vía digestiva puede 
+producirse principalmente por: 
+•  Agua contaminada 
+•  Alimentos en mal estado 
+•  Venenos (insecticidas, raticidas, etc.) 
+•  Tóxicos vegetales (setas, hierbas, etc.) 
+•  Medicamentos (sobredosis, caducados, etc.) 
+•  Productos de limpieza de uso doméstico, etc. 
+Actuación ante una intoxicación vía digestiva 
+•  Identificar tóxico 
+•  Llamar al 112 e informar de la forma de intoxicación, nombre del tóxico y nú­
+meros de personas afectadas. 
+•  Disminuir la absorción del contenido del estómago (sólo en víctimas cons­
+cientes) haciendo beber agua al intoxicado. 
+•  Si el intoxicado vomita, no se debe hacer nada para evitarlo. Impida que el 
+vómito toque la piel y se absorba a través de la misma [7]. Si es posible recoja 
+una muestra, ya que servirá para identificar el tóxico. 
+•  Provocar vómito si conocemos el tóxico y no han pasado más de dos horas 
+de la ingesta. 
+No se debe provocar el vómito si: 
+•  Ha ingerido cáusticos, disolventes, derivados del petróleo, etc. 
+•  Está inconsciente, tiene la consciencia alterada o presenta convulsiones. 
+•  Es una mujer embarazada 
+•  Es un bebé de menos de 6 meses 
+
+29 
+Vía respiratoria 
+También puede ser voluntariamente o bien por accidente y comprende las vías res­
+piratorias altas, los bronquios y a través de los pulmones a todo el organismo. Una 
+intoxicación por vía respiratoria puede producirse por gases, aerosoles, humos, va­
+pores, etc. Por ejemplo, al producirse un vertido de un producto químico en el lugar 
+de trabajo, puede generarse un ambiente tóxico que desencadene una intoxicación 
+por inhalación de ese tóxico. 
+Actuación ante una intoxicación vía respiratoria 
+•  Protegernos del humo o gas, a poder ser, con un equipo de protección res­
+piratorio antes de acercarse al accidentado. 
+•  Abrir ventanas si es posible. 
+•  No entrar solo. 
+•  Cerrar gas y electricidad 
+•  No encender luces 
+•  Si es posible trasladar al intoxicado a un lugar bien ventilado. 
+Vía parenteral 
+Aquélla que se produce a través de la sangre, principalmente por picaduras de ani­
+males o inyecciones. 
+Actuación ante una intoxicación vía parenteral 
+•  Identificar tóxico 
+•  Lavar con agua y jabón 
+•  Consultar médico. 
+Vía cutánea o mucosa 
+Se produce por contacto con la piel y mucosas externas (conjuntiva, etc.). Se debe 
+fundamentalmente a productos químicos como insecticidas, desengrasadores in­
+dustriales, etc. en forma de salpicaduras o derrames. 
+
+30 
+Actuación ante una intoxicación vía cutánea o mucosas 
+•  Identificar el tóxico 
+•  Lavar muy bien con abundante agua durante 15 o 20 minutos como mínimo, 
+incluidos los ojos si están afectados y hacer uso de la ducha de seguridad 
+cuando se disponga de ella. 
+•  Si el tóxico es en forma de polvo, cepillar para que haya la menor cantidad 
+posible, y después seguir con el lavado. 
+No hay que olvidar que, cuando se trabaja en un laboratorio o en otros puestos de 
+trabajo donde se manipulen productos químicos, existen riesgos añadidos que me­
+recen su consideración particular. Por ello, ante posibles intoxicaciones con pro­
+ductos químicos, es importante que todos los trabajadores implicados conozcan 
+las fichas de datos de seguridad de los productos y su etiquetado, así como su lo­
+calización, puesto que les indicarán cómo actuar cuando se produzca un accidente. 
+
+31  
+ANEXO III. POSICIONES DE ESPERA 
+A continuación, se muestra una tabla procedente de la Guía de Primeros Auxilios 
+elaborada por el SAMUR y Protección Civil – edición 2012 [7] en la que se describen 
+las posiciones de espera en las que debe colocarse al accidentado y para qué está 
+indicada cada una de ellas. 
+NOMBRE 
+DESCRIPCIÓN 
+INDICADO PARA 
+IMAGEN 
+Posición lateral 
+de seguridad 
+(P.L.S.) 
+Posición lateral estable 
+que evita el atraganta-
+miento y aspiración de 
+vómito. 
+Inconsciente con pre­
+sencia de respiración, 
+sin traumatismos im­
+portantes. 
+Decúbito supino 
+Tumbado boca arriba. 
+Brazos y piernas esti­
+rados a lo largo del 
+cuerpo. 
+Valorar e iniciar la 
+asistencia. RCP. Man­
+tener la alineación 
+neutra en traumatis­
+mos graves de co­
+lumna. 
+Antishock 
+Tendido boca arriba 
+con las piernas levanta­
+das y arropada. 
+Recuperar 
+mareos, 
+pérdidas de conoci­
+miento sin traumatis­
+mos graves. 
+Trendelemburg 
+Tendido boca arriba 
+con todo el cuerpo en 
+progresiva elevación, 
+quedando los pies más 
+altos que la cabeza. 
+En traumatismos gra­
+ves para recuperar 
+mareos, pérdidas de 
+conocimiento con ten­
+sión arterial baja. 
+Antitrén 
+A la inversa de Trende­
+lemburg. 
+Traumatismos crane­
+oencefálicos sin pér­
+dida de conocimiento. 
+Decúbito prono 
+Tumbado boca abajo, 
+con la cabeza ladeada, 
+piernas y brazos 
+estirados a lo largo del 
+cuerpo. 
+Traumatismos en 
+espalda, glúteos o 
+parte trasera de las 
+piernas. 
+
+32  
+NOMBRE 
+DESCRIPCIÓN 
+INDICADO PARA 
+IMAGEN 
+Decúbito 
+lateral 
+Todo el cuerpo estirado 
+y apoyado sobre un la­
+teral. 
+Cuando precise latera­
+lizar traumatismos gra­
+ves para expulsión de 
+vómito. 
+Decúbito 
+lateral 
+ﬂexionado 
+Apoyada, especialmente 
+sobre el lado izquierdo, 
+con las piernas flexiona­
+das. 
+Embarazadas. 
+Sentado 
+Como en una silla. 
+Cuerpo erguido y la 
+planta de los pies se 
+apoya sobre el suelo. 
+Posible ataque car­
+diaco. 
+Semisentado 
+Cabeza y espalda apo­
+yadas sobre un respaldo 
+moderadamente 
+incli­
+nado y las piernas se es­
+tiran 
+descansando 
+completamente 
+sobre 
+una superficie. 
+Facilitar la respiración 
+excepto en traumatis­
+mos de columna verte­
+bral. Traumatismos en 
+tórax. 
+Defensa 
+abdominal 
+Decúbito supino o semi­
+sentado pero las piernas 
+se flexionan sobre el ab­
+domen apoyándose las 
+plantas de los pies 
+sobre la superficie. 
+Traumatismos en ab­
+domen. Dolor interno 
+en zona abdominal de 
+origen no traumático. 
+Fritz 
+Decúbito supino con las 
+piernas cruzadas sobre 
+los muslos. 
+Hemorragias exteriori­
+zadas por el aparato 
+genital femenino. 
+Tabla 1. Posiciones de espera [7] 
+

@@ -1,0 +1,237 @@
+NTP 605: Primeros auxilios: evaluación primaria y soporte vital básico
+Premiers secours: évaluation primaire et support vital de base 
+First aid: Primary evaluation and basic life support
+Lo primero que tienes que hacer ante cualquier tipo de accidente es Activar el Sistema de Emergencia
+Siempre, cuando tengas que socorrer a un accidentado, lo primero que tienes que hacer es la Evaluación Primaria 
+(reconocimiento de signos vitales)
+CUADRO 1
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Actualizada por la NTP 1062.
+Redactor:
+José Luis Moliné Marco 
+A.T.S.
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción y objetivo
+La rápida actuación ante un accidente puede salvar la vida de una persona o evitar el empeoramiento de las posibles lesiones que 
+padezca. Por EMERGENCIA MÉDICA entendemos aquella situación en la que la falta de asistencia médica producirá la muerte del 
+accidentado en muy pocos minutos.
+El cerebro es el órgano más delicado de que dispone el ser humano. La falta de oxígeno ocasionará, en poco tiempo, lesiones 
+irreversibles produciéndose la muerte en 8 - 10 minutos.
+Por lo tanto cualquier paro cardiorrespiratorio (fracaso de las funciones cardíaca y respiratoria, con la consiguiente incapacidad para 
+hacer llegar sangre oxigenada a las células) es una situación de máxima emergencia ya que del tratamiento inmediato dependerá la 
+vida del paciente.
+Esta NTP es una actualización de la NTP-247 publicada en 1989 (Reanimación cardiopulmonar: primeros auxilios) y pretende ofrecer 
+las pautas de actuación y los pasos a seguir en la técnica del Soporte Vital Básico para que, cualquier persona, sin conocimientos 
+especiales en medicina sepa lo que debe hacerse ante una SITUACIÓN DE EMERGENCIA y concretamente ante un paro 
+cardiorrespiratorio.
+Secuencia de actuación ante un accidente
+En cualquier accidente debemos ACTIVAR EL SISTEMA DE EMERGENCIA. Para ello recordaremos la palabra P.A.S., que está 
+formada por las iniciales de tres actuaciones secuenciales para empezar a atender al accidentado:
+G La P de PROTEGER: Antes de actuar, hemos de tener la seguridad de que tanto el accidentado como nosotros mismos
+estamos fuera de todo peligro. Por ejemplo, no atenderemos a un electrocutado sin antes desconectar la corriente causante del
+accidente, pues de lo contrario nos accidentaríamos nosotros también.
+G La A. de AVISAR: Siempre que sea posible daremos aviso a los servicios sanitarios (médico, ambulancia...) de la existencia
+del accidente, y así activaremos el Sistema de Emergencia, para inmediatamente empezar a socorrer en espera de ayuda.
+G La S de SOCORRER: Una vez hemos PROTEGIDO Y AVISADO, procederemos a actuar sobre el accidentado, efectuando la
+Evaluación Primaria o lo que es lo mismo: reconociendo sus signos vitales (cuadro 1): A) Conciencia, B) Respiración y C)
+Pulso, siempre por este orden. Una vez se compruebe la presencia de conciencia o de respiración se iniciará la Evaluación
+Secundaria o lo que es lo mismo: el reconocimiento de sus signos no vitales.
+Año: 2001
+
+Reconocimiento de signos vitales
+Conciencia
+Para saber si un accidentado está consciente le preguntaremos qué le ha pasado. Si contesta, descartaremos la existencia de paro 
+respiratorio. El problema surge cuando el paciente NO CONTESTA. Entonces tendremos que provocarle el estímulo doloroso, 
+mediante un pellizco para observar sus reacciones (gemidos, apertura de ojos, movimientos de cabeza, etc.). Si no existe ningún tipo 
+de reacción significa que el estado de inconsciencia está declarado, por lo que inmediatamente y, en lo posible, SIN TOCARLO (pues 
+puede ser un paciente traumático y existir lesiones óseas que agraven su estado) comprobaremos su respiración.
+Respiración
+Teniendo al accidentado inconsciente, existen dos posibilidades: que RESPIRE o que NO RESPIRE. Para comprobar la presencia de 
+la respiración en un accidentado, el socorrista debe utilizar la vista, el oído y el tacto, para ello acercará su propia mejilla o el dorso de 
+la mano a la boca-nariz del accidentado y, mirando hacia el pecho, podrá observar el movimiento torácico o abdominal, escuchar la 
+salida del aire y notar en su mejilla el calor del aire exhalado.
+A.  SI RESPIRA: No hará falta seguir explorando sus signos vitales ya que el corazón funciona seguro. En este momento se inicia 
+la Evaluación Secundaria, siendo el procedimiento a seguir el control de las hemorragias, el tratamiento de las heridas y la 
+inmovilización de las fracturas y, siempre que no sea traumático, el de colocarlo en una posición de seguridad para prevenir las 
+posibles consecuencias de un vómito (bronco-aspiración) y la caída de la lengua hacia la faringe. Esta posición es la 
+denominada en el argot del socorrismo como P.L.S. (fig. 1), que significa: Posición Lateral de Seguridad.
+En el caso de que el paciente respire pero sea traumático, NO LO MOVEREMOS. En ambos casos seguiremos a su lado vigilando sus 
+signos vitales, tras la evaluación secundaria y hasta que llegue la ayuda solicitada.
+B.  NO RESPIRA: Si al acercar nuestra mejilla o el dorso de nuestra mano a su boca, comprobamos que NO RESPIRA, en seguida 
+y sin perder tiempo colocaremos al accidentado, sea traumático o no, en posición de decúbito supino (estirado mirando hacia 
+arriba) pero respetando la alineación del eje cervical. Después de explorar su boca para comprobar la existencia de cuerpos 
+extraños (dientes desprendidos, chicles...), procederemos a abrir las vías aéreas, mediante una hiperextensión del cuello, 
+mediante la maniobra de fronto-mentón (fig. 2), evitando que la lengua obstruya la vía de entrada de aire. En ocasiones, con 
+esta simple maniobra, el paciente vuelve a respirar.
+C.  En caso contrario, el paro es evidente, por lo que deberemos suplir la función ausente mediante la respiración artificial método 
+BOCA-BOCA. (Ver técnica del S.V.B.).
+Pulso
+Cuando el paro respiratorio está instaurado y ya hemos procedido a iniciar el BOCA-BOCA, es necesario comprobar el funcionamiento 
+cardíaco mediante la toma del pulso carotídeo (cuello), por ser éste el más próximo al corazón y el de más fácil localización (fig. 3).
+Caso de existir PULSO seguiremos efectuando la respiración artificial, pero en el momento en que desaparezca este pulso deberemos 
+iniciar sin demora el MASAJE CARDIACO EXTERNO, acompañado siempre de la respiración BOCA-BOCA.
+FIGURA 1 
+Posición lateral de seguridad
+FIGURA 2 
+
+Apertura de vías respiratorias
+FIGURA 3 
+Toma del pulso carotídeo
+Técnica del soporte vital básico (ver algoritmo n°- 1).
+Si el paciente está inconsciente y no respira, se debe proceder a efectuar la apertura de sus vías aéreas:
+a.  Extraer posibles cuerpos extraños de la boca (dientes sueltos, chicles...)
+b.  Abrir vías aéreas (efectuar la HIPEREXTENSIÓN DEL CUELLO).
+Si después de haber realizado las operaciones a) y b) continúa sin respirar se realizará la siguiente secuencia de operaciones:
+1.  Apretar la frente e hiperextender BIEN el cuello (maniobra de frente-mentón).
+2.  Girar la mano de la frente y pinzar la nariz.
+3.  Colocar nuestros labios alrededor de la boca del paciente sellando totalmente su boca con la nuestra. INICIAR EL BOCA-BOCA 
+con 2 insuflaciones rápidas (fig. 4). Existen otras técnicas de ventilación artificial como el BOCA-NARIZ (fig. 4a) o el BOCA-
+ESTOMA (fig. 4b), dependiendo de los problemas que sufra el accidentado, como por ejemplo personas que no tengan dientes 
+o bien laringuectomizados. No obstante el objetivo es insuflar aire en los pulmones y para no complicar la Unidad Didáctica 
+hablaremos siempre del BOCA-BOCA (sin olvidar las otras opciones).
+4.  Una vez se ha insuflado el aire se debe comprobar el funcionamiento cardiaco a través del PULSO CAROTÍDEO.
+Una vez realizado lo anterior caben dos posibilidades:
+a.  HAY PULSO, PERO NO RESPIRA: Seguir con la respiración artificial BOCA-BOCA y comprobar periódicamente la existencia 
+del PULSO (cada minuto o cada 12 insuflaciones).
+En el paro respiratorio el ritmo de insuflaciones es lento, 12 por minuto y luego comprobar el pulso.
+
+b.  NO HAY PULSO: INICIAR EL MASAJE CARDIACO EXTERNO.
+FIGURA 4 
+Boca-boca
+FIGURA 4a 
+Boca-nariz
+FIGURA 4b 
+Boca-estoma
+ALGORITMO 1
+
+Masaje cardiaco externo
+Es necesario acudir a su realización cuando el paciente está inconsciente, no respira y no tiene pulso; la figura nº 5 indica la posición 
+que debe adoptar el socorrista y la localización del punto de compresión torácico. La secuencia de operaciones para la realización del 
+masaje cardiaco es la siguiente:
+a.  Colocar al paciente sobre una superficie dura.
+b.  Localizar el tercio inferior del esternón y colocar el talón de nuestra mano sobre él, dos o tres dedos por encima de la punta final 
+del esternón (apófisis xifoides). La otra mano se apoyará de la misma forma sobre la que contacta con el tórax.
+c.  Es muy importante no presionar dicha apófisis ya que se podrían ocasionar daños internos importantes. Con nuestros dedos 
+estirados y los brazos perpendiculares al punto de contacto con el esternón (Fig. 6), ejerceremos compresión directa sobre el 
+tórax, consiguiendo que se deprima unos 4 ó 5 cm. y a un ritmo de compresión/relajación = 1/1.
+Es importante que los dedos no toquen el tórax, a fin de evitar la fractura de costillas.
+d.  El masaje cardiaco siempre ira acompañado de la respiración boca-boca.
+El soporte Vital Básico se realizará con el siguiente ritmo:
+H     1 Socorrista: 15 Compresiones (masaje cardiaco) 2 Insuflaciones (boca-boca)
+H     2 Socorristas: 5 Compresiones (masaje cardiaco). 1 Insuflación (boca-boca)
+FIGURA 5 
+Posición de socorrista
+
+Todas estas maniobras son aplicables a personas adultas. Las utilizadas en lactantes y niños varían según la edad o constitución física 
+del niño.
+FIGURA 6 
+Localización del punto de compresión cardiaca
+Soporte vital básico en bebés y niños
+El procedimiento a seguir es el mismo que en los adultos, según el algoritmo nº 1, pero con las siguientes variaciones (ver cuadro nº 2):
+CUADRO 2 
+Diferencias en el soporte vital básico según edad
+S.V.B.
+Apertura 
+de vías
+Método 
+de ventilación
+Nº insuflaciones
+Pulso
+Punto  
+de compresión
+Ritmo 
+1 socorrista
+Adulto
+Normal
+Boca-boca o 
+boca-nariz
+12
+Carotídeo
+1/3 inferior 
+esternón
+15 x 2
+Niño
+Moderada
+Boca-boca o 
+boca-boca y nariz
+20
+Carotídeo o 
+humeral
+Línea media 
+esternón
+15 x 2 ó 
+5 x 1
+Bebé
+Muy leve Boca-boca y nariz
+20
+Humeral
+Línea media 
+esternón
+5 x 1
+Bebés
+1.  La apertura de vías respiratorias debe ser muy leve.
+2.  Las insuflaciones se hacen mediante el método de boca-boca y nariz (fig. 7).
+3.  El aire insuflado debe ser el que le cabe al socorrista en la boca, no en los pulmones.
+4.  El pulso se comprueba en la arteria humeral, debajo el músculo bíceps del brazo (fig. 7a).
+5.  En caso de que no respire pero sí que tenga pulso, el ritmo de insuflaciones por minuto es de 20 (1 cada tres segundos).
+6.  El punto de compresión cardiaca está en medio del esternón, un través de dedo por debajo de la línea que une los dos pezones 
+(intermamilar).
+7.  El masaje cardiaco se realiza con sólo dos dedos de una mano y con la fuerza suficiente para deprimir el esternón, 
+aproximadamente, 1,5 cm.
+8.  El ritmo de Soporte Vital Básico es siempre de 5 compresiones por 1 insuflación.
+
+FIGURA 7 
+Boca-boca y nariz
+FIGURA 7a 
+Comprobación del pulso en el bebé
+Niños
+1.  La apertura de vías respiratorias debe ser moderada.
+2.  Las insuflaciones se hacen mediante el método de boca-boca y nariz o boca-boca, depende del tamaño del niño.
+3.  El aire insuflado debe ser el suficiente para elevar el tórax del accidentado.
+4.  El pulso se comprueba en la arteria humeral (debajo del músculo bíceps del brazo) o en la arteria carótida, depende del tamaño 
+del niño.
+5.  En caso de que no respire pero sí que tenga pulso, el ritmo de insuflaciones por minuto es de 20 (1 cada tres segundos).
+6.  El punto de compresión cardiaca está en medio del esternón, un través de dedo por debajo de la línea que une los dos pezones 
+(intermamilar).
+7.  El masaje cardiaco se realiza con una mano (fig. 8) y con la fuerza suficiente para deprimir el esternón, aproximadamente, 3 cm.
+8.  El ritmo de Soporte Vital Básico con UN socorrista es de 5 compresiones por 1 insuflación o de 15 compresiones por 2 
+insuflaciones, depende del tamaño del niño y en función del desplazamiento del socorrista para realizar la técnica. Si el 
+socorrista puede hacer el masaje cardiaco y el boca-boca sin moverse se utiliza el 5 x 1, pero si se tiene que desplazar hacia la 
+boca del niño se utiliza el 15 x 2.
+FIGURA 8 
+Masaje cardiaco en el niño
+Causas de fracaso en el soporte vital básico
+Si al realizar la ventilación artificial compruebas que no entra aire es que:
+1.  La apertura de vías respiratorias (hiperextensión del cuello) es insuficiente, coloca el cuello más hacia arriba.
+
+2.  No se ha pinzado la nariz del accidentado.
+3.  No se ha sellado bien tu boca con la del accidentado.
+4.  Has insuflado demasiado aire y se ha dilatado el estómago, en este caso se producirá un vómito.
+Si tras realizar estas comprobaciones sigue sin entrar aire es que existe un cuerpo extraño en las vías respiratorias, aplica rápidamente 
+la Maniobra de Heimlich para un inconsciente (ver algoritmo nº 1 de la NTP-467 de 1997).
+El masaje cardiaco puede ser ineficaz sí:
+1.  El punto de compresión es inadecuado.
+2.  Los dedos del socorrista tocan el tórax del accidentado.
+3.  El talón de la mano del socorrista se separa del tórax del accidentado en cada compresión.
+4.  Los brazos del socorrista no están perpendiculares al punto de apoyo.
+5.  La fuerza de compresión es insuficiente para provocar el pulso artificial. Se puede comprobar si una segunda persona verifica la 
+existencia de pulso mientras se realiza el masaje cardiaco.
+Bibliografía
+1.  CRUZ ROJA ESPAÑOLA 
+Curso de formación de Monitores 1988-89 
+Escuela Provincial de Socorrismo de Barcelona.
+2.  MOLINÉ MARCO, J.L. 
+NTP-247. Reanimación cardiopulmonar: primeros auxilios. 
+Instituto Nacional de Seguridad e Higiene en el Trabajo. 1989. 
+3.  CAPILLA TOMÁS, J. et al. 
+Socorrisme. Técniques de suport a I'atenció sanitària immediata. 
+Creu Roja a Catalunya. Ed. Portic Salut Barcelona 1998.
+4.  PATRICIO, J.F. y MULERO, C. 
+Manual del socorrista. 
+Ed. Hogar del Libro. Colección Navidad. 1986 n° 78 
+5.  XIMENEZ VICENTE, L. 
+Urgencias en Medicina, Cirugía y Especialidades 
+Madrid. 1986. Tomo 1.
+   © INSHT

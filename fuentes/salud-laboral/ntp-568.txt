@@ -1,0 +1,202 @@
+ 
+ 
+NTP 568: Primeros auxilios: contusiones y heridas
+Premiers soins: contusions et plaies 
+First aid: bruises and wounds
+Redactores:
+José Luis Moliné Marco 
+A.T.S.
+Mª Dolores Solé Gómez 
+Especialista en Medicina del Trabajo
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+Cuando ocurre un accidente las lesiones más comunes que se producen son las contusiones o las heridas, consideradas como urgencias médicas 
+así como las fracturas, las luxaciones y los esguinces (ver NTP nº 546.00).
+Esta NTP pretende dar los conocimientos mínimos y necesarios para que cualquier trabajador, debidamente formado, pueda actuar ante este tipo de 
+accidente.
+Contusiones
+Son lesiones producidas por un golpe o impacto sobre la piel, sin llegar a romperla, por lo que no produce herida. Las contusiones se clasifican 
+(médicamente) en distintos grados, pero es más sencillo para el socorrista clasificarlas en leves o graves, atendiendo a la profundidad del tejido que 
+esté afectado.
+Contusiones leves
+Son aquellas en que la afectación es superficial y se reconocen por el enrojecimiento de la zona contusionada o por la aparición del típico 
+«cardenal» (rotura de pequeños vasos sanguíneos).
+Síntomas:
+G     Dolor de intensidad variable ya que depende de la parte del cuerpo donde se produce la contusión.
+G     Puede existir inflamación de la zona.
+Contusiones graves
+Se reconocen por la aparición del hematoma o colección líquida de sangre (en forma de relieve), producida por la rotura de vasos sanguíneos de 
+mayor calibre que el capilar.
+En las contusiones graves la afectación del tejido subyacente puede afectar a músculos, nervios, huesos, etc.
+Síntomas:
+G     Dolor manifiesto o incluso muy intenso.
+G     Inflamación evidente.
+G     Posible impotencia funcional o aumento intenso del dolor ante la movilidad.
+Actuación
+Como norma general cabe destacar que la actuación ante las contusiones va encaminada hacia la aplicación de frío (compresas, hielo...) y reposo de 
+la zona afectada (ver fig. 1a).
+Ante una contusión grave es importante no vaciar los hematomas y si es preciso, se debe inmovilizar la zona y evacuar al herido, en condiciones 
+idóneas, a un centro hospitalario (ver fig. 1 b).
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 2000
+
+Es importante reseñar que, ante la duda, siempre se atenderá sospechando la peor lesión.
+Figura 1a 
+Contusiones: aplicar frío local
+Figura 1b 
+Contusiones graves: inmovilizar
+Heridas
+Se denomina herida a toda discontinuidad de un tejido (generalmente la piel) y debida a un traumatismo. Este, además de lesionar la piel, puede 
+afectar a otras estructuras subyacentes como huesos, vasos sanguíneos, etc... .
+Las heridas pueden dividirse en leves y graves, atendiendo a una serie de factores que hay que tener en cuenta a la hora de la clasificación.
+Factores de gravedad
+G     Extensión de la herida.
+G     Profundidad de la herida.
+G     Localización de la herida (cara, periorificios, abdomen, tórax...).
+G     Suciedad de la herida.
+G     Afectación de estructuras.
+G     Edad del herido (edades extremas).
+G     Estado general de salud del herido.
+G     Objeto causante de la herida.
+G     Complicaciones de la herida.
+Complicaciones de las heridas
+Complicación local:
+G     Afectación de estructuras (nervios, tendones, huesos, etc.).
+G     Infección de la herida.
+G     Problemas en la cicatrización.
+Complicaciones generales
+G     Hemorragias.
+G     Infección generalizada (tétanos).
+G     Presencia de shock.
+Heridas leves
+Clasificaremos a una herida como leve cuando no reúna «factores de gravedad».
+El tratamiento irá dirigido a prevenir la infección, para ello se seguirán las siguientes pautas de actuación (ver fichas resumen):
+1.  Evitar que el socorrista contamine la herida (ver fig. 2a):
+
+Figura 2a 
+Higiene del socorrista ante las heridas
+G     Lavarse las manos (agua y jabón).
+G     Usar guantes estériles.
+G     Uso de material estéril o lo más limpio posible. Es recomendable el material desechable.
+2.  Desinfección de la herida
+G     Dejarla rezumar un poco.
+G     Dejarla visible (recortar pelo, cabellos...).
+G     Limpiar la herida con agua y jabón y siempre desde dentro hacia afuera de la herida (ver fig. 2b).
+G     Se pueden utilizar antisépticos no colorantes, el más recomendado es la povidona yodada.
+Figura 2b 
+Forma correcta para desinfectar una herida leve 
+3.  Vendaje
+G     Si el ambiente no es agresivo (no hay riesgo de infección) es conveniente dejar la herida al aire libre, pues así se favorece la 
+cicatrización.
+G     En caso de sangrado o de ambiente contaminante, lo mejor es taparla con una gasa estéril, fijada con bandas de esparadrapo (ver fig. 
+2c), y cuando sea posible dejarla al aire libre.
+Figura 2c 
+Forma correcta para tapar una herida leve
+
+4.  Prevención de la infección tetánica
+El tétanos es una enfermedad grave poco frecuente pero de alta letalidad (mueren entre un 30-90% de todos los que presentan la 
+enfermedad) siendo imposible evitar la exposición al agente infeccioso ya que se trata de un microorganismo ampliamente distribuido en el 
+medio ambiente. La prevención del tétanos se basa en la vacunación de la población cuya cobertura en la edad adulta es inferior al 20-30% 
+por lo que, ante una herida o quemadura se debería recomendar la posibilidad de una profilaxis tetánica si el accidentado no recuerda si está 
+vacunado o si ha recibido menos de tres dosis o, si la última dosis recibida hace más de 10 años (heridas limpias leves) o más de 5 años 
+(heridas anfractuosas, punzantes y/o contaminadas con polvo, heces, tierra, etc.)
+5.  Que es lo que NO HAY QUE HACER (ver fichas resumen):
+G     Utilizar algodón.
+G     Quitar cuerpos extraños enclavados.
+G     Manipular la herida.
+G     Utilizar antisépticos de color como la violeta de genciana o el mercurocromo.
+G     Utilizar polvos, cremas, pomadas, etc.
+Heridas graves
+Son aquellas que reúnen uno o más factores de gravedad. Este tipo de heridas suelen llevar una patología asociada más grave que la propia herida, 
+por ello el socorrista sólo debe realizar la primera atención para que posteriormente sea tratada en un Centro Asistencial.
+Actuación del socorrista (ver fichas resumen)
+1.  Evaluación Primaria (control de signos vitales).
+2.  Evaluación Secundaria (coartación de las hemorragias, inmovilización de fracturas, etc ... ).
+3.  Cubrir la herida con material estéril o lo más limpio posible.
+4.  Evacuar a Centro Hospitalario.
+Heridas de especial gravedad
+Herida penetrante en el abdomen
+Son aquellas que comunican el interior del abdomen con el exterior, siendo las complicaciones más graves de este tipo de heridas las lesiones 
+viscerales, las hemorragias internas y la infección de la cavidad abdominal (peritonitis).
+Síntomas
+G     Dolor abdominal.
+G     Presencia de una herida que comunica el interior del abdomen con el exterior; es posible visualizar los intestinos.
+G     Presencia de signos y síntomas de shock (hemorragia, dolor e infección).
+Actuación del socorrista
+1.  No extraer ningún objeto clavado.
+2.  No reintroducir las vísceras.
+3.  No dar nada por vía oral (agua...).
+4.  Tapar la herida con un trozo «grande» de tela limpia humedecida. NO utilizar gasas pequeñas, pues se pueden introducir en el abdomen.
+5.  Abrigar al herido.
+6.  Trasladarlo urgentemente en posición de decúbito supino con las piernas flexionadas (ver fig. 3).
+Figura 3 
+Posición de transporte ante una herida penetrante en el abdomen.
+
+7.  Controlar constantemente los signos vitales.
+Herida perforante en el tórax
+Este tipo de heridas pueden producir el colapso pulmonar, debido a la entrada de aire ambiental en la cavidad torácica con la inspiración y a la salida 
+de aire de la cavidad pleural con la espiración (ver fig. 4). Pueden estar producidas por objetos punzantes o por fracturas de costillas.
+Figura 4 
+Herida perforante en tórax
+Síntomas
+G     Dificultad respiratoria por afectación del pulmón.
+G     Tos, que puede acompañarse de hemoptisis.
+G     Dolor torácico en caso de afectación ósea.
+G     La herida puede presentar «silbido» por la entrada y salida del aire a través de ella.
+G     Presencia de shock por insuficiencia respiratoria y cardíaca.
+Actuación del socorrista
+1.  No sacar ningún objeto enclavado.
+2.  Tapar rápidamente la herida con algún material que no transpire (ej: el plástico de la bolsa de las gasas), a fin de evitar el colapso pulmonar.
+3.  Trasladar urgentemente a Centro Hospitalario en posición de semi-incorporado y ladeado hacia el pulmón lesionado (ver fig. 5).
+Figura 5 
+Posición de transporte ante una herida perforante en el tórax.
+
+4.  Controlar constantemente los signos vitales.
+Ficha resumen
+HERIDAS LEVES
+HERIDAS LEVES
+EVITAR LA CONTAMINACIÓN
+G     Actuación
+G     Lavarse las manos
+G     Usar guantes
+G     Usar material estéril
+Que NO hacer
+G     Utilizar algodón
+G     Quitar cuerpos extraños enclavados
+G     Manipular la herida
+G     Utilizar antisépticos de color
+G     Utilizar polvos, cremas, pomadas, etc...
+DESINFECCIÓN DE LA HERIDA
+G     Dejarla rezumar
+G     Dejarla visible
+G     Limpiar con agua y jabón
+G     Aplicar antiséptico
+VENDAJE DE LA HERIDA
+En ambientes limpios:
+G     No vendar
+En ambientes contaminados:
+G     Tapar con gasa y vendar
+HERIDAS GRAVES
+Actuación del socorrista
+1.  Control de signos vitales
+2.  Exploración: hemorragias, fracturas, etc.
+3.  Cubrir la herida con material estéril o lo más limpio posible
+4.  Evacuación urgente
+PREVENCIÓN DE LA INFECCIÓN
+Recomendar vacuna antitetánica
+Bibliografía
+1.  MOLINÉ MARCO, J.L. y SOLÉ GÓMEZ, M.D. 
+"Reanimación cardiopulmonar: primeros auxilios". 
+NTP-247. INSHT. 1989.
+2.  MOLINÉ MARCO, J.L. y SOLÉ GÓMEZ, M.D. 
+«Primeros auxilios: hemorragias y shock». 
+NTP-469. INSHT. 1997.
+3.  CREU ROJA A CATALUNYA 
+"Socorrisme, técniques de suport a I'atenció sanitária immediata". 
+Editorial Pórtic, S.A. Barcelona. Marzo 1998.
+4.  CRUZ ROJA ESPAÑOLA 
+"Manual de Cruz Roja de Primeros Auxilios" 
+Editorial El País-Aguilar. Madrid 1999.
+   © INSHT

@@ -116,3 +116,45 @@ curl -sSL -A "$UA" -e "https://www.insst.es/" -o ntp-586.pdf "<dirección larga 
 ```
 
 **Conviene comprobar siempre con `file` que lo bajado es un PDF y no una página de error.**
+
+## Serie de primeros auxilios (tema 25 de Enfermería de Empresa)
+
+**11. La colección completa de notas técnicas de primeros auxilios del Instituto son nueve**, y están
+todas aquí: `ntp-246` (intoxicaciones agudas), `ntp-458` (organización en la empresa), `ntp-467`
+(obstrucción de las vías respiratorias), `ntp-469` (hemorragias y shock), `ntp-524` (quemaduras),
+`ntp-546` (fracturas, luxaciones y esguinces), `ntp-568` (contusiones y heridas), `ntp-605`
+(evaluación primaria y soporte vital básico) y `ntp-1062` (soporte vital básico en el adulto). Se
+añade la guía `insst-socorrismo-laboral` (noviembre de 2014). El listado del que se sacó la serie
+completa es el de emergencias y riesgo grave e inminente del portal del Instituto.
+
+**La 1.062 actualiza a la 605 y el propio catálogo del Instituto lo dice.** El tema 25 sigue a la
+1.062 y usa la 605 sólo para declarar que está superada: sus ritmos de reanimación y su comprobación
+del pulso carotídeo ya no son los vigentes.
+
+**12. La ruta corta no sirve para la NTP 1062**: devuelve HTML. Hay que sacar la dirección larga de su
+página, como con la 586. Las de la serie 246, 458, 467 y 524 sí bajan por la ruta corta; las de la
+469, 546 y 568 no.
+
+**13. Cinco erratas comprobadas a ojo en esta serie**, todas declaradas en el epígrafe de hallazgos del
+tema 25:
+
+- **`ntp-458`** imprime «GASES ESTÉRILES» en la figura que rotula como los mínimos del anexo VI del
+  Real Decreto 486/1997, donde la norma dice «gasas estériles».
+- **`ntp-458`** se fecha en 1995 y cita el Real Decreto 1627/1997, de 24 de octubre.
+- **`ntp-467`** se fecha en 1995, su NIPO es de 1998 y su bibliografía cita un libro de 1998.
+- **`ntp-546`** imprime «Año: 0...»: el campo del año no llegó a componerse.
+- **`ntp-524`** imprime «ducha durante 2030 minutos» donde el resto del documento escribe
+  «20-30 minutos».
+
+**14. `rd-365-2009-desa.pdf` es la publicación original del diario, no un texto consolidado.** El Real
+Decreto 365/2009 **no está en la base de legislación consolidada del BOE**: `herramientas/boe.py`
+devuelve 404 para el índice y para cualquier precepto. Por eso se ha bajado el PDF del diario y se ha
+volcado además, ya troceado por artículos, en `fuentes/corte-20221221/BOE-A-2009-5490.preceptos.md`,
+para que las lentes puedan comprobarlo:
+
+```sh
+curl -sSL -o rd-365-2009-desa.pdf "https://www.boe.es/boe/dias/2009/04/02/pdfs/BOE-A-2009-5490.pdf"
+```
+
+**Al no haber consolidado, la herramienta del proyecto no puede comprobar si la norma se ha modificado
+después de 2009**, y el tema que la cita lo declara.

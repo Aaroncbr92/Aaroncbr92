@@ -59,6 +59,10 @@ def limpia(s):
     for c in "«»\u201c\u201d\u2018\u2019\"":
         s = s.replace(c, "")
     s = s.replace("–", "-").replace("—", "-")
+    # el guion blando U+00AD es invisible: los PDF del Instituto lo meten en el
+    # punto donde parten la palabra, de modo que el volcado trae "actuacio\xad\nnes".
+    # No es un guion de la frase, es el punto de corte, así que se quita entero.
+    s = re.sub("\u00ad\\s*\\n\\s*", "", s).replace("\u00ad", "")
     # un PDF a dos columnas parte las palabras al final del renglón:
     # "acciden-\ntes", "contribu-\nyente". Si esa palabra se deja rota, una
     # cita copiada literalmente sale marcada como «no literal» por un motivo

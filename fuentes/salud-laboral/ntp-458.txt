@@ -1,0 +1,229 @@
+ 
+NTP 458: Primeros auxilios en la empresa: organización
+Premiers secours à l’entreprise: organization 
+In company First Aids: organization
+Redactores:
+Mª Dolores Solé Gómez 
+Especialista en Medicina del Trabajo
+José Luis Moliné Marco 
+A.T.S.
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+El estado y la evolución de las lesiones derivadas de un accidente dependen en gran parte de la rapidez y de la calidad de los primeros 
+auxilios recibidos. La Ley 31/95, de 8 de noviembre, de Prevención de Riesgos Laborales (BOE nº269 de 10 de Noviembre de 1995), 
+en el Capítulo III, artículo 20 marca como obligación del empresario el análisis de las posibles situaciones de emergencia así como la 
+adopción de la medidas necesarias, entre otras, en materia de primeros auxilios.
+Los puntos a considerar, tal como marca la citada ley, serían:
+G     Designación del personal encargado de poner en práctica dichas medidas previa consulta de los delegados de prevención (art. 
+33 y 36 de la LPRL). Dicho personal, en función de los riesgos, deberá recibir la formación adecuada en materia de primeros 
+auxilios, ser suficiente en número y disponer del material adecuado, siempre a tenor del tamaño y actividad de la empresa, de 
+la organización del trabajo y del nivel tecnológico de aquella.
+G     Revisión o comprobación periódica del correcto funcionamiento de las medidas adoptadas.
+G     Organización de las relaciones que sean necesarias con servicios externos para garantizar la rapidez y eficacia de las 
+actuaciones en materia de primeros auxilios y asistencia médica de urgencias.
+La citada ley considera la no adopción de dichas medidas como una infracción grave (art.47.10) o muy grave (art. 48.8) si origina un 
+riesgo grave e inminente.
+Esta NTP pretende ser un herramienta útil para todas aquellas personas que precisen organizar los primeros auxilios en la empresa, 
+dando respuesta a algunos de los puntos consignados anteriormente.
+Los eslabones de la cadena de socorro
+Entre la víctima y la atención médica especializada existen una serie de eslabones que deben ser informados, formados y entrenados 
+para asegurar la rapidez y eficacia de la actuación frente a emergencias.
+Los testigos
+Existen tres tipos de posibles testigos de un accidente laboral:
+G     Testigo ordinario: sin preparación ni formación e influenciable por la emoción y el pánico. No sabe qué mensaje ha de 
+transmitir y puede olvidar incluso señalar el lugar del accidente.
+G     Testigo privilegiado: con una formación adecuada; es capaz de hacer una valoración global de la situación, sabe avisar de 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1995
+
+forma eficaz y se mantiene tranquilo.
+G     Testigo profesional: ha sido formado y entrenado específicamente para vigilar, detectar y alertar (guardias, personal de 
+seguridad, vigilantes de proceso...)
+Ni que decir tiene que la mayoría de los testigos en la empresa son del tipo ordinario, con lo que la transmisión de la alerta no estará ni 
+mucho menos asegurada redundando en retrasos innecesarios, asistencia inadecuada y, en último extremo, pérdidas humanas.
+Aquí surge la primera pregunta: ¿A quién hemos de formar? Sería conveniente que todos y cada uno de los trabajadores estuvieran 
+informados (carteles informativos, charlas informales, folletos explicativos...) sobre lo que en primeros auxilios se conoce como P.A.S.
+La palabra P. A. S. está formada por las iniciales de tres actuaciones secuenciales para empezar a atender al accidentado:
+G     P de PROTEGER: Antes de actuar, hemos de tener la seguridad de que tanto el accidentado como nosotros mismos estamos 
+fuera de todo peligro. Por ejemplo, ante un ambiente tóxico, no atenderemos al intoxicado sin antes proteger nuestras vías 
+respiratorias (uso de máscaras con filtros adecuados), pues de lo contrario nos accidentaríamos nosotros también.
+G     A de AVISAR: Siempre que sea posible daremos aviso a los servicios sanitarios (médico, ambulancia...) de la existencia del 
+accidente, y así activaremos el Sistema de Emergencia, para inmediatamente empezar a socorrer en espera de ayuda.
+G     S de SOCORRER: Una vez hemos protegido y avisado, procederemos a actuar sobre el accidentado, reconociendo sus signos 
+vitales: 1. Conciencia, 2.Respiración y 3. Pulso, siempre por este orden.
+Ahora bien, no todos los trabajadores deben ser entrenados como testigos privilegiados. Como mínimo los responsables de grupo 
+(jefes de taller, mandos intermedios, encargados,...) así como aquellos que trabajan en zonas de riesgo deberían recibir una formación 
+más específica.
+Dicha formación puede desarrollarse en un día y el contenido mínimo sería:
+G     Definición de alerta y su importancia en los primeros auxilios
+G     Descripción de todos los eslabones de la cadena de socorro (funciones, números de teléfono...)
+G     Formas de avisar: teléfonos, alarmas...
+G     Mensaje tipo: lugar, lesiones, número de accidentados...
+G     Ejercicios prácticos en la empresa.
+El/la telefonista de la empresa
+En algunas empresas un paso obligado para contactar con los servicios externos es el/la telefonista. Siempre que exista este eslabón 
+se le deberá incluir en el grupo de testigos privilegiados. De él/ella depende la transmisión rápida, correcta y eficaz de la solicitud de 
+ayuda.
+El/la socorrista
+No es posible concretar cuántos socorristas se requieren por número de trabajadores. El «número suficiente» dependerá de otros 
+muchos factores. A modo de guía, a la hora de decidir cuántos socorristas formar, deberemos tener en cuenta:
+G     El número de trabajadores
+G     La estructura de la empresa (superficie, naves, plantas...)
+G     La distribución de los trabajadores en la empresa.
+G     El tipo de trabajo: el/los riesgos existentes ; situaciones de aislamiento ; trabajos fuera de la empresa...
+G     Los turnos de trabajo
+G     La distancia (en tiempo real) de los servicios médicos externos
+G     Las posibles ausencias por enfermedad, vacaciones...
+En todo caso se debería disponer en cualquier momento en la empresa de una persona encargada de la actuación en situaciones de 
+emergencia.
+Una cifra orientativa para situaciones de riesgo bajo (ej. oficinas) sería de un socorrista por cada 50 trabajadores por turno 
+
+(considerando siempre la necesidad de disponer de socorristas suplentes). Este número debería considerarse como mínimo en el resto 
+de situaciones. A veces, es conveniente disponer de dos socorristas por grupo de trabajo (ej. trabajo con máquinas o herramientas 
+peligrosas).
+La formación en socorrismo laboral debe gravitar alrededor de las siguientes premisas:
+G     El socorrista laboral será voluntario.
+G     El socorrista laboral deberá tener, además de los conocimientos básicos y generales, una formación específica en relación a los 
+riesgos existentes en la empresa.
+G     El socorrista laboral deberá recibir periódicamente cursos de reciclaje.
+Los otros eslabones
+El testigo, la telefonista, el socorrista: todos ellos son eslabones pertenecientes a la empresa.
+El personal de la ambulancia, el equipo médico de urgencias, el personal del hospital son eslabones exteriores.
+Esta diferencia de ubicación no ha de suponer una traba para una actuación eficaz. Cada uno de ellos ha de saber quién va después y 
+quién le precede, procurando que la información se transmita de forma clara y concisa; facilitando así las actuaciones posteriores.
+Formación en socorrismo laboral
+Para conseguir el objetivo básico de los primeros auxilios es preciso disponer de personal adecuadamente formado en socorrismo 
+laboral. Esta formación se debería dividir en tres grandes bloques temáticos: formación básica, formación complementaria y formación 
+específica.
+Formación básica
+En este bloque, considerado como la formación básica o mínima, el socorrista debe estar capacitado para atender situaciones de 
+emergencia médica, como:
+G     Pérdida de conocimiento.
+G     Paros cardiorrespiratorios.
+G     Obstrucción de vías respiratorias.
+G     Hemorragias y shock.
+Siendo ésta la parte más importante, es recomendable dominar las técnicas precisas y efectuar reciclajes periódicos de las mismas.
+Todo socorrista deberá también conocer cómo evitar posible contactos con agentes biológicos nocivos (SIDA-Hepatitis)
+Formación complementaria
+La formación complementaria permite atender situaciones consideradas como urgencia médica, siendo éstas las que pueden esperar 
+la llegada de los servicios médicos, como por ejemplo:
+G     Quemaduras.
+G     Contusiones, fracturas, luxaciones y esguinces.
+G     Heridas.
+G     Urgencias abdominales, torácicas, neurológicas y ginecológicas.
+G     Intoxicaciones en general.
+Formación específica
+Atendiendo a los riesgos existentes en la empresa es conveniente tener una formación muy específica.
+Se cita como ejemplo la formación que debería capacitar al socorrista para poder dominar con soltura, ante el riesgo químico, las 
+siguientes técnicas:
+
+G     Rescate en ambiente tóxico.
+G     Oxigenoterapia.
+G     Quemaduras químicas.
+G     Intoxicaciones por productos químicos específicos.
+G     Accidentes de múltiples víctimas (incendio y explosión).
+Esta formación específica, implica disponer de material adecuado para la intervención ante accidentes de origen químico.
+Este material debería estar compuesto por los siguientes elementos:
+1.  Fichas químicas (compuestos químicos, toxicidad, primeros auxilios específicos, etc...).
+2.  Equipos de rescate (mascarillas de protección respiratoria, equipos autónomos, etc...).
+3.  Maleta de oxigenoterapia, compuesta de:
+H     Botella de oxígeno.
+H     Mascarillas de oxigenación (autoventilación).
+H     Equipo completo de reanimación.
+4.  Mantas ignífugas.
+Material y locales de primeros auxilios
+En el Anexo VI del RD 486/97, de 14 de abril, sobre lugares de trabajo se establecen las condiciones mínimas de los locales y el 
+material necesario para la prestación de los primeros auxilios.
+Dependiendo del riesgo existente en la empresa, del tamaño de la misma y de las facilidades de acceso al centro de asistencia más 
+próximo así como de la fecha de creación de los citados lugares de trabajo, se deberá procurar desde un botiquín portátil hasta una 
+sala especial (cuyo contenido y dotación mínimos vienen especificados en la figura 1).
+BOTIQUÍN PORTÁTIL
+G     DESINFECTANTES Y 
+ANTISÉPTICOS
+G     GASES ESTÉRILES
+G     ALGODÓN 
+HIDRÓFILO
+G     VENDA
+G     ESPARADRAPO
+G     APÓSITOS 
+ADHESIVOS
+G     TIJERAS
+G     PINZAS
+G     GUANTES 
+DESECHABLES
+LOCALES DE PRIMEROS AUXILIOS
+G     BOTIQUÍN
+G     CAMILLA
+G     FUENTE DE AGUA 
+POTABLE
+ 
+Figura 1. Material y locales de primeros auxilios. Mínimos exigidos en el RD 486/1997
+Consideraciones generales a los botiquines
+G     Han de contener material de primeros auxilios y nada más.
+G     El contenido ha de estar ordenado.
+G     Se ha de reponer el material usado y verificar la fecha de caducidad.
+G     El contenido ha de estar acorde con el nivel de formación del socorrista (usuario)
+
+Contenido de los botiquines
+A modo de recomendación, el contenido mínimo básico de un botiquín de empresa sería:
+G     Instrumental básico
+H     Tijeras y pinzas
+G     Material de curas
+H     20 Apósitos estériles adhesivos, en bolsas individuales.
+H     2 Parches oculares
+H     6 Triángulos de vendaje provisional
+H     Gasas estériles de distintos tamaños, en bolsas individuales.
+H     Celulosa, esparadrapo y vendas
+G     Material auxiliar
+H     Guantes
+H     Manta termoaislante
+H     Mascarilla de reanimación cardiopulmonar
+G     Otros
+H     Bolsas de hielo sintético.
+H     Agua o solución salina al 0,9% en contenedores cerrados desechables, si no existen fuentes lavaojos.
+H     Toallitas limpiadoras sin alcohol, de no disponer de agua y jabón.
+H     Bolsas de plástico para material de primeros auxilios usado o contaminado
+Este contenido mínimo ha de ampliarse siempre que existan riesgos particulares. Se ha de calibrar la necesidad de disponer de una o 
+varias camillas, de ciertas prendas de protección como delantales, batas, mascarillas... Este material no debería estar en el botiquín de 
+primeros auxilios, sino en otro lugar y siempre al cuidado del que sepa usarlo.
+No se deberían olvidar tampoco los «botiquines de viaje» en el caso de trabajadores cuya tarea se desarrolle fuera de la empresa.
+Locales de primeros auxilios
+Están obligados a disponer de un local específico aquellos lugares de trabajo utilizados por primera vez o que hayan sufrido 
+ampliaciones o transformaciones a partir de la fecha de entrada en vigor del RD 486/97 y que consten de más de 50 trabajadores o 
+más de 25 teniendo en cuenta la peligrosidad y las dificultades de acceso al centro de asistencia más próximo, si así lo determina la 
+autoridad laboral. Para otras situaciones, consultar el citado RD.
+Tanto el material como los locales deberán estar claramente señalizados, conforme al apartado 3.5º del anexo III del R.D. 485/1997, de 
+14 de abril (B.O.E. nº 97, de 23 de abril) sobre señalización de seguridad y salud en el trabajo. (Ver figura 2)
+Fig. 2: Señales de salvamento o socorro de aplicación a los primeros auxilios
+
+Otras recomendaciones
+La organización de los primeros auxilios no es más que una forma de prepararse para actuar ante situaciones excepcionales. Esto 
+requiere de un estudio a fondo tanto de la siniestralidad (accidentes e incidentes) como de los posibles factores de existentes en la 
+empresa.
+Sin embargo, también es necesaria la sensibilización de todos los estamentos presentes en el entorno laboral.
+Sirvan los siguientes puntos como ejemplo de acciones para sensibilizar y, por ende, aumentar la eficacia de la actuación frente a 
+emergencias:
+G     Todo trabajador nuevo ha de ser instruido en relación a la organización de los primeros auxilios y a la actuación que de él se 
+espera si es testigo de un accidente.
+G     Se procederá a verificar de forma periódica la cadena de socorro condicionando actuaciones reflejas inmediatas.
+G     Se comentarán y evaluarán actuaciones reales.
+G     No se dudará en cambiar aquello que no funciona correctamente.
+Conclusiones
+La organización de los primeros auxilios ha de conseguir que éstos lleguen a todos los trabajadores en cualquier momento.
+Ha de ser pues un objetivo de la empresa organizarlos conforme a la legislación vigente y adecuarlos a los riesgos; dotarlos de los 
+medios suficientes tanto humanos como materiales y mantener a los equipos bien entrenados.
+Este objetivo ha de estar firmemente ligado a un deseo: no tener que utilizarlos nunca. Proteger es ante todo evitar.
+Bibliografía
+(1) Ley 31/1995, de 8 de noviembre (B.O.E. nº 269, de 10 de noviembre) de prevención de riesgos laborales.
+(2) R.D. 39/1997, de 17 de enero (B.O.E. nº 27,de 31 de enero) por el que se aprueba el Reglamento de los servicios de prevención.
+(3) R.D. 485/1997, de 14 de abril (B.O.E. nº 97,de 23 de abril) sobre disposiciones mínimas en materia de señalización de seguridad y 
+salud en el trabajo.
+(4) R.D. 486/1997, de 14 de abril (B.O.E. nº 97,de 23 de abril) sobre disposiciones mínimas de seguridad y salud en los lugares de 
+trabajo.
+(5) R.D. 1216/1997, de 18 de julio (B.O.E. nº 188,de 7 de agosto) sobre disposiciones mínimas de seguridad y salud en el trabajo a 
+bordo de los buques de pesca.
+(6) R.D. 1627/1997, de 24 de octubre (B.O.E. nº 256,de 25 de octubre) sobre disposiciones mínimas de seguridad y salud en las obras 
+de construcción.
+   © INSHT

@@ -35,6 +35,9 @@ def limpia(s):
     for c in DUROS:
         s = s.replace(c, " ")
     s = s.replace("«", '"').replace("»", '"')
+    # el guion blando U+00AD es invisible y marca el punto en que el PDF parte
+    # la palabra: se quita entero, igual que hace la lente de citas
+    s = re.sub("\u00ad\\s*\\n\\s*", "", s).replace("\u00ad", "")
     # un PDF parte las palabras al final del renglón: "distancias vi-\nsuales".
     # Si el guion se cambia por un espacio, esa palabra queda rota y una cita
     # copiada literalmente sale marcada como "no literal". Eso adiestra a no

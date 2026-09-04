@@ -1,0 +1,140 @@
+ 
+NTP 246: Intoxicaciones agudas: primeros auxilios
+Intoxications aigües: premiers seccurs 
+Acute poisoning: first aids
+Redactores:
+Dolores Solé Gómez 
+Médico del Trabajo
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Pedro Sanz Gallén 
+Doctor en Medicina
+Departamento de Salud Pública y Legislación Sanitaria UNIVERSIDAD DE BARCELONA
+Objetivos
+En la mayoría de procesos industriales se utilizan sustancias químicas que pueden ocasionar intoxicaciones agudas graves e incluso 
+mortales.
+La presente NTP tiene por objetivos recopilar las principales sustancias químicas que pueden producir intoxicaciones agudas en el 
+medio laboral, describir en qué procesos industriales son más utilizadas y enumerar las acciones tóxicas más importantes (ver Tabla 1) 
+así como exponer a qué alteraciones clínicas más frecuentes e importantes deberá responder el personal sanitario en el medio laboral, 
+cuando se produzca una intoxicación aguda.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1987
+
+ 
+Tabla 1: Contaminantes, principales fuentes contaminantes y principales características tóxicas de las intoxicaciones agudas 
+en el medio laboral
+Valoración médica
+Frente a una intoxicación aguda el médico debe valorar, inicialmente, las siguientes situaciones clínicas:
+G     Parada respiratoria.
+G     Estado de shock.
+
+G     Estado de coma.
+G     Alteraciones oculares.
+G     Alteraciones cutáneas.
+El tratamiento general comprende:
+G     Tratamiento sintomático.
+G     Evitar la absorción del tóxico y aumentar su eliminación.
+G     Administración de antídotos.
+G     Traslado del paciente a un Centro Hospitalario.
+Mientras que el primero y segundo apartados se pueden aplicar en todas las intoxicaciones, el tercero únicamente se utilizará cuando 
+se conozca el tóxico causante de la intoxicación (ver Tabla 2).
+Lo más importante del tratamiento sintomático consiste en mantener libre la vía respiratoria, así como una respiración y circulación 
+eficaces.
+Evitar la absorción del tóxico tiene la máxima importancia en las intoxicaciones agudas por vía digestiva. En el caso del medio laboral, 
+cuyas vías de entrada son fundamentalmente la respiratoria y la cutánea, lo más importante en este aspecto será la separación del 
+intoxicado del lugar donde se ha producido dicha intoxicación, desnudándolo en caso de impregnación cutánea para evitar al máximo 
+que el tóxico se absorba por vía dérmica.
+Seguidamente comentaremos las diferentes situaciones clínicas en que se puede hallar un intoxicado.
+ 
+Tabla 2: Antídotos más utilizados en las intoxicaciones agudas en el medio laboral>
+Parada respiratoria
+Es fundamental la rapidez con que se atiende a un paciente con paro respiratorio. El método más eficaz para tratar la apnea o la 
+insuficiencia respiratoria es la ventilación mecánica (en su defecto utilizar el boca-boca), no sólo por el aporte de oxígeno que ello 
+representa, sino especialmente para combatir la retención de anhídrido carbónico y la acidosis respiratoria. Previamente se deberá 
+revisar que la vía respiratoria esté libre.
+Es muy importante también el mantenimiento de la función cardiocirculatoria; si el paro cardíaco se mantiene más de 5 minutos, cabe 
+esperar la aparición de alteraciones cerebrales irreversibles. El masaje cardíaco debe pues instaurarse sin pérdida de tiempo.
+Estado de shock
+La presencia de respiración rápida y superficial, taquicardia, hipotermia e hipotonía muscular hace sospechar que el paciente se 
+encuentra en estado de shock.
+Son condiciones agravantes de dicho cuadro una temperatura ambiental muy baja o muy elevada, el cansancio y la colocación 
+incorrecta del enfermo.
+Se le deberá poner sobre un plano rígido con las piernas elevadas y la cabeza baja. Se le administrará oxígeno y se le perfundirán 
+líquidos lentamente, preferentemente expansores del plasma.
+Están contraindicados fármacos que actúen sobre la circulación periférica (éstos incidirán negativamente sobre la circulación renal). El 
+transporte a un centro hospitalario ha de ser lo más rápido posible.
+
+Estado de coma
+Hay muchos tóxicos que pueden ocasionar un estado de coma, tanto directa (organofosforados) como indirectamente (irritantes 
+respiratorios, asfixiantes).
+Al paciente se le debe retirar rápidamente del lugar de trabajo donde se ha ocasionado la intoxicación.
+Cuando no se requieran maniobras de reanimación, se le deberá colocar extendido sobre un plano rígido con las extremidades 
+flexionadas, evitando la posición supina o prona.
+La boca deberá estar abierta, girada hacia tierra y la cabeza extendida para evitar las broncoaspiraciones.
+Alteraciones oculares
+Se intentará conocer lo más rápidamente posible la naturaleza del tóxico.
+Se lavará abundantemente con agua tibia o solución fisiológica, con los párpados abiertos (alrededor de media hora).
+El tratamiento se deberá realizar por dos personas: una logrará que los párpados se mantengan abiertos y la otra practicará el lavado 
+mediante una gran jeringa sin cánula, evitando que la irrigación vaya hacia la córnea. Se lavará bien el saco conjuntival y se podrá 
+utilizar un colirio anestésico.
+No deben emplearse sustancias neutralizantes ni pomadas.
+Debe remitirse al paciente a un oftalmólogo y, si se trata de sustancias caústicas, deberá hospitalizarse.
+Alteraciones cutáneas
+Es muy importante conocer el tipo de tóxico responsable de la intoxicación.
+Se despojará rápidamente al accidentado de los vestidos y se lavará la piel afectada con abundante agua corriente, preferentemente 
+tibia (alrededor de media hora) y no se frotará la piel afectada.
+Si el tóxico responsable es una sustancia fiposoluble (disolventes, derivados de petróleo, etc.), se deberá lavar con agua y jabón.
+Cuando el contacto se ha producido con sustancias de carácter ácido, utilizaremos una solución de bicarbonato de sodio al 10% y, si la 
+sustancia es alcalina, ácido acético diluido con agua o una solución de jugo de limón.
+En el caso de desconocer el pH de la sustancia responsable deben emplearse siempre soluciones de bicarbonato al 10%.
+No utilizar nunca pomadas.
+Bibliografía
+(1) D'ANTUONO, G. 
+Il comportamento del medico nelle emergenze tossicologiche 
+G. Clin. Med. 1986; 67, 73-83
+(2) NOGUE XARAU, S. 
+Bases del tratarniento de las intoxicaciones agudas 
+Med. Clin. (Barc.) 1989; 93, 68-75
+(3) MATTHEWS, G. 
+Toxic gases 
+Postgraduate Medical Journal, 1989; 65, 224-232
+(4) SAARI, KM., LEIONEN, J., AINE, E. 
+Management of chemical eye injuries with prologes irrigation 
+Acta Ophthalmol, 1984; 161, 52-69
+(5) NORKOOL, DM., KIRKPATRICK, JN. 
+Treatment of acute carbon monoxide poisoning with hyperbaric oxigen: a review of 115 cases 
+Ann. Emerg. Med. 1985; 14, 1168-1171
+(6) MEREDITH, T., VALE, J.A. 
+Carbon monoxide poisoning 
+Br. Med. J. 1988; 296, 77- 79
+
+(7) PEDEN, N.R., TAHA, A., McSORLEY, P.D. 
+Industrial exposure to hydrogen sulphide: implications for treatment. 
+Br. Med. J., 1986; 293-538
+(8) TEPPERMAN, P.B. 
+Fatality due to acute systemic fluoride poisoning following a hydrofluoric acid skin burn. 
+J. Occup. Med. 1980; 22, 691-692
+(9) BAKER, E.L., FINE, L.J. 
+Solvent neurotoxicology 
+J. Occup. Med., 1986, 28, 126-130
+(10) CONSO, F. 
+L'atropine au cours des intoxications par organophosphorés 
+Concurs Méd., 1983; 105, 3537
+(11) LAUWREYS, R. 
+Toxicologie industrielle et intoxications professionnelles 
+Ed. Masson. Paris, 1982; 367-373
+(12) PRAT MARTIN, S., SANZ GALLEN, P. 
+Aspectos toxicológicos de la exposición al óxido de etileno 
+Rev. Saúde Públ., 1987, 21, 523-528
+(13) SANZ, P., MONTERO, M., MARQUES, F., SOLE, D. 
+Aspectos toxicológicos de la exposición al perclorometilmercaptano 
+Salud y Trabajo, 1989; 73, 35-37
+(14) CAMPANYA, M,, SANZ, P., REIG, R., NOGUE, S., OBIOLS, J., FREIXA, A., CORBELLA, J. 
+Fatal hydrogen sulphide poisoning 
+Med. Lav., 1989; 80, 251-253
+(15) NOGUE, S., SANZ, P., MUNNE, P., REIG, R. 
+Intoxicación aguda por disolventes clorados 
+Rev. Clin. Esp., 1989; 185, 170-171
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-90-011-7 

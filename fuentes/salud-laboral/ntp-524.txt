@@ -1,0 +1,156 @@
+ 
+NTP 524: Primeros auxilios: quemaduras
+Premiers soins: brûlures 
+First aid: burns
+Redactores:
+José Luis Moliné Marco 
+A.T.S.
+Mª Dolores Solé Gómez 
+Especialista en Medicina del Trabajo
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+La quemadura es el resultado del contacto de los tejidos del organismo con el calor. Suele ser de origen accidental, doméstico o 
+laboral, y las causas principales son el fuego, los líquidos hirviendo o en llamas, los sólidos incandescentes, los productos químicos, las 
+radiaciones y la electricidad.
+El cuerpo humano tolera temperaturas de hasta 40ºC; por encima se produce una desnaturalización de las proteínas y se altera la 
+capacidad de reparación celular. De hecho, la piel se daña por un lado por la acción directa del agente causal y por otro por una 
+isquemia cutánea secundaria.
+La piel es el órgano más extenso de nuestro organismo. Es una estructura especializada, compuesta esencialmente por dos capas: la 
+epidermis (la más externa) y la dermis. La epidermis a su vez está compuesta por varias capas, siendo la más superficial la capa 
+córnea cuya función es esencialmente protectora, impidiendo la pérdida de agua y la penetración de ciertos microorganismos. La 
+dermis, que es unas 20-30 veces más gruesa que la epidermis alberga en su seno los vasos sanguíneos y linfáticos y ciertas 
+estructuras nerviosas. Los folículos pilosos, las glándulas sudoríparas y sebáceas se encuentran también a ese nivel. La destrucción 
+del estrato más profundo de la dermis conlleva la pérdida de la capacidad de regeneración de la misma, necesitándose de un injerto 
+para cicatrizar la zona. (Fig. 1)
+Figura 1. Anatomía de la piel
+Una rápida y acertada actuación frente a un quemado puede disminuir el tiempo de curación, prevenir las complicaciones o secuelas 
+que puedan derivarse y, en casos extremos, incluso salvarle la vida.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1999
+
+Clasificación de las quemaduras cutáneas
+Las quemaduras cutáneas se pueden clasificar en función de la profundidad y la extensión de las mismas:
+Según profundidad
+1er Grado: De grosor parcial. Destruye solamente la capa superficial de la piel, la epidermis, produciendo un enrojecimiento de la zona 
+lesionada. A esta lesión se le denomina ERITEMA.
+2º Grado: También de grosor parcial. Destruye la epidermis y un espesor variable de la dermis. Se produce una inflamación del tejido o 
+formación de ampollas llamadas FLICTENAS. La lesión es dolorosa y se dice que «llora» por la pérdida de líquidos del tejido y por la 
+aparición de las ampollas.
+3er grado: Llamada de grosor total. Afecta a todas las capas de la piel incluyendo la dermis profunda. Es una lesión de aspecto de 
+cuero seco, blanca o chamuscada. No hay dolor debido a la destrucción de las terminaciones nerviosas. Técnicamente se le denomina 
+ESCARA.
+Según extensión
+En quemaduras poco extensas puede ser de utilidad considerar que la palma de la mano del accidentado corresponde a un 1% de la 
+superficie corporal total. En el resto, se utiliza la denominada «Regla de los 9» de Wallace (Fig. 2). Para ello se divide la superficie 
+corporal del adulto en 11 áreas, siendo cada parte el 9% o un múltiplo de 9. De forma que:
+G     Cabeza y cuello son un 9%.
+G     Cada extremidad superior: 9% (7% el brazo y 2% la mano).
+G     Cada extremidad inferior: 18% (9% el muslo, 7% la pantorrilla y 2% el pie).
+G     Cara anterior del tórax y abdomen: 18%.
+G     Espalda y nalgas: 18%.
+G     Genitales: 1%.
+Figura 2. La Regla de los 9
+La valoración de la gravedad de una quemadura se basará en la extensión de la superficie corporal quemada y el grado de profundidad 
+de la misma. Sin embargo, no se debe olvidar en ningún momento que factores como la edad, el agente causal y ciertas localizaciones, 
+como la cara, los pliegues y los genitales, influyen también de forma considerable en el pronóstico.
+La posibilidad de supervivencia en un quemado está directamente relacionada con la extensión y profundidad de la quemadura 
+mientras que el pronóstico de las secuelas lo está con la localización. Se considera una quemadura de carácter LEVE cuando la 
+
+superficie quemada es inferior al 10% y su profundidad no rebasa el 2º grado. Entre el 10 y el 30% se considera GRAVE, 
+independientemente de si la profundidad es de 2º o 3er grado. Entre el 30 y 50% es MUY GRAVE, y prácticamente mortal cuando 
+supera el 50%.
+Se consideran graves independientemente de su extensión o profundidad, las quemaduras que afectan a manos, pies, cara, ojos y 
+genitales así como todas las de 2º y 3er grado en niños, ancianos y accidentados con enfermedades previas significativas.
+Norma general
+Qué hacer ante una quemadura
+La asistencia inmediata del quemado es muy similar a la de cualquier accidentado con la peculiaridad de que lo primero que se debe 
+hacer, sin olvidar nuestra propia seguridad, es parar el proceso de la quemadura; es decir, ELIMINAR LA CAUSA.
+1.  Evacuar al individuo del foco térmico, apagar las llamas, retirar el producto químico del contacto con la piel, … todo ello para 
+disminuir la agresión térmica.
+2.  Realizar una evaluación inicial y mantener los signos vitales. La existencia de quemaduras inhalatorias o de intoxicación por 
+inhalación de gases como el Monóxido de carbono o productos de degradación durante un incendio debe detectarse lo antes 
+posible.
+3.  Buscar otras posibles lesiones como hemorragias, shock, fracturas. Se tratará siempre primero la lesión más grave.
+4.  Refrescar la zona quemada: Aplicar AGUA en abundancia (20-30 minutos) sobre la superficie quemada evitando enfriar al 
+paciente (riesgo de hipotermia). (Fig. 3) Quitar ropas, joyas y todo aquello que mantenga el calor.
+5.  Envolver la lesión con gasas o paños limpios, humedecidos en agua. El vendaje ha de ser flojo.
+6.  Evacuar a un centro hospitalario con Unidad de Quemados, en posición lateral, para evitar las consecuencias de un vómito 
+(ahogo),
+7.  Se han de vigilar de forma periódica los signos vitales sobre todo en casos de electrocución, de quemados con más de un 20% 
+de superficie corporal quemada o con problemas cardíacos previos.
+Figura 3. Líquidos calientes
+Qué NO se debe hacer ante una quemadura
+1.  Aplicar pomadas, cremas, pasta dentífrica,… sobre la quemadura. Sólo agua.
+2.  Enfriar demasiado al paciente, SÓLO la zona quemada. Si aparecen temblores o la zona quemada es superior al 20 % 
+deberemos taparlo con una manta térmica.
+3.  Dar agua, alcohol, analgésicos... por vía oral.
+4.  Romper las ampollas, pues el líquido que contienen protege de la posible infección. Al romperlas abriríamos una puerta para la 
+entrada de gérmenes.
+
+5.  Despegar la ropa o cualquier otro elemento que esté pegado a la piel.
+6.  Dejar sola a la víctima. En caso de tener que ir a pedir ayuda, la llevaremos con nosotros, siempre que sus lesiones lo permitan.
+7.  Demorar el transporte. En el lugar del accidente no podemos estabilizar clínicamente a la víctima y la posibilidad de que entre 
+en shock aumenta cuanto mayor es la extensión de la superficie quemada.
+Quemadura por fuego
+En este tipo de quemaduras es importante señalar que las llamas que queman a la víctima no se deben apagar con agua. 
+Revolcaremos al quemado por el suelo o sofocaremos el fuego con una manta. Una vez apagadas las llamas, sí que aplicaremos 
+agua, a fin de refrigerar las zonas quemadas. (Fig. 4)
+Figura 4.
+En este caso aplicaremos la NORMA GENERAL, haciendo especial atención en el Reconocimiento de Signos Vitales y en concreto a 
+la ausencia de respiración. La mayoría de los quemados por fuego han sufrido el accidente en un espacio cerrado por lo que, a las 
+quemaduras cutáneas, se les pueden asociar quemaduras respiratorias o intoxicación por la presencia de gases o productos de 
+degradación. Lo más frecuente son las intoxicaciones por monóxido de carbono y cuadros inflamatorios agudos de la mucosa de las 
+vías aéreas superiores por lesión directa del producto químico o del aire a alta temperatura.
+Quemadura química
+Se producen cuando la piel entra en contacto con sustancias químicas como ácidos o bases fuertes. La gravedad de la lesión 
+dependerá no tan sólo de las características físico químicas del producto sino también de la duración del contacto y de la cantidad de 
+producto. El manejo de estas lesiones se basará de entrada en retirar el producto químico de la piel del accidentado.
+Pautas de actuación:
+1.  Proceder al lavado generoso de la piel con AGUA en abundancia (ducha durante 2030 minutos). Hemos de tener especial 
+cuidado con las salpicaduras que pueden alcanzarnos o con el contacto directo de nuestra piel con la sustancia química. (Fig. 5)
+2.  Durante la ducha se ha de proceder a retirar todos los objetos que estén en contacto directo con la piel: gafas, ropa, zapatos, 
+anillos, pulseras, relojes y otras joyas.
+3.  Aplicar la NORMA GENERAL.
+
+Figura 5. Líquidos cáusticos
+Existen productos químicos que reaccionan al contacto con el agua produciendo más calor. Pese a ello, también en estos casos 
+aplicaremos como tratamiento la DUCHA DE AGUA CONTINUA, pues la posible reacción inicial se neutralizaría por la abundancia de 
+agua.
+Sólo algunas sustancias requieren de tratamientos iniciales distintos. El socorrista deberá conocer a priori estas excepciones mediante 
+la búsqueda y estudio de las fichas de seguridad química de los productos existentes en la empresa y susceptibles de producir 
+accidentes.
+En el caso de las quemaduras oculares los ojos deben irrigarse, manteniéndolos abiertos, durante 20 minutos como mínimo. La 
+evacuación de estos accidentados se hará continuando dicha irrigación mediante peras de agua o frascos irrigadores.
+Quemaduras eléctricas
+La corriente eléctrica puede dar lugar a lesiones, sobre todo a su paso por el interior del cuerpo. Los resultados de un accidente 
+eléctrico en nuestro organismo pueden desencadenar una parada cardio-respiratoria, contracciones tetánicas, convulsiones… A nivel 
+local la electricidad puede producir quemaduras cutáneas en los puntos de entrada y salida. La prioridad, como en todos los accidentes 
+será el P.A.S. (Proteger - Avisar - Socorrer)
+La pauta de actuación será:
+1.  Cortar la corriente, en condiciones seguras, no sin antes prever la caída del sujeto.
+2.  Iniciar la evaluación primaria y en caso de parada cardio-respiratoria, iniciar el soporte vital básico.
+3.  Buscar otras posibles lesiones como hemorragias, shock, fracturas. Se tratará siempre primero la lesión más grave.
+4.  Poner sobre las quemaduras un apósito limpio y estéril
+5.  Evacuar, bajo vigilancia médica y de forma urgente, al trabajador que haya sufrido una descarga eléctrica, incluso si no 
+presenta trastornos.
+Conclusión
+Como resumen, diremos que las quemaduras son lesiones debidas a la acción del calor sobre la piel. La actuación correcta es la 
+siguiente:
+1.  ELIMINAR LA CAUSA.
+
+2.  REFRIGERAR CON AGUA.
+3.  CUBRIR O TAPAR LA ZONA LESIONADA.
+4.  EVACUAR AL HERIDO A UN CENTRO MEDICO.
+Bibliografía
+(1) MOLINE MARCO, J.L. et al. 
+Socorrisme. Tècniques de suport a l’atenció sanitària immediata 
+Creu Roja a Catalunya. Editorial Pòrtic, S.A.. Barcelona 1998
+(2) NOTO, R.; HUGUENARD, P.; LARCAN, A. 
+Medicina de catástrofe 
+Masson, París, 1989
+(3) HERINGTON, T. N.; MORSE, L.H. 
+Occupational injuries: Evaluation, management and prevention 
+Mosby, St Louis, 1995
+   © INSHT

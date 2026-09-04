@@ -1,0 +1,195 @@
+ 
+NTP 469: Primeros auxilios: hemorragias y shock
+Premiers secours: hémorragies et shock 
+First aid: Haemorrhages and shock
+Redactores:
+José Luis Moliné Marco 
+A.T.S.
+Mª Dolores Solé Gómez 
+Especialista en Medicina del Trabajo
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción y objetivo
+Las hemorragias son causa de emergencia médica (ver NTP nº 247.89), por lo que la actuación del socorrista debe ser rápida y 
+decidida, de lo contrario la oxigenación de los tejidos se verá reducida o eliminada, produciendo la muerte de los mismos.
+Esta NTP pretende ofrecer unos conocimientos genera les sobre el Sistema Circulatorio y unas técnicas de actuación para detener la 
+pérdida de sangre de cualquier trabajador que haya sufrido un accidente y en espera de la llegada de los equipos de emergencia.
+El sistema circulatorio
+El sistema circulatorio tiene la función de transportar los nutrientes y el oxígeno a las células del organismo, también es el responsable 
+de mantener la temperatura interna del cuerpo humano. Está compuesto por (ver fig. 1) el corazón, los vasos sanguíneos y la sangre.
+Fig. 1: Esquema de la circulación sanguínea en el organismo. Circulación pulmonar (oxigenación de la sangre); circulación 
+general (distribución de la sangre oxigenada a todo el organismo
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1995
+
+El corazón es un músculo que actúa de bomba, impulsando la sangre a través de los vasos sanguíneos.
+Los vasos sanguíneos son los conductos por donde circula la sangre. Existen tres tipos de vasos: (ver cuadro 1)
+G     Arterias: son los vasos que salen del corazón.
+G     Venas: son los vasos que van hacia el corazón.
+G     Capilares: son los vasos más pequeños responsables del intercambio gaseoso en tejidos y órganos.
+Cuadro 1. Diferencias más importantes entre venas y arterias
+ARTERIAS
+VENAS 
+SALEN DEL CORAZÓN.
+VAN HACIA EL CORAZÓN.
+LA SANGRE CIRCULA A MUCHA PRESIÓN.
+LA SANGRE CIRCULA CON POCA PRESIÓN.
+LA SANGRE CIRCULA A IMPULSOS.
+LA SANGRE CIRCULA DE FORMA CONTINUA.
+SON RÍGIDAS.
+SON ELÁSTICAS.
+LA GRAN MAYORÍA TRANSPORTA O2.
+LA GRAN MAYORÍA TRANSPORTA CO2.
+La sangre está compuesta por una parte líquida, llama da plasma (de color acuoso) y una parte sólida, formada por tres tipos de 
+células:
+G     hematíes: responsables del transporte de oxígeno.
+G     leucocitos: colaboran en la defensa del organismo contra las infecciones.
+G     plaquetas: favorecen el proceso de coagulación.
+Concepto de hemorragia y clasificación
+Denominamos hemorragia a cualquier salida de sangre de sus cauces habituales (los vasos sanguíneos). Existen dos tipos de 
+clasificaciones, una atendiendo al tipo de vaso que se ha roto, siendo ésta arterial, venosa o capilar y otra atendiendo al destino final de 
+la sangre, o dicho de otra forma: ¿a dónde va a parar la sangre que se pierde?. Atendiendo a este último criterio, las hemorragias 
+pueden ser: externas, internas y exteriorizadas.
+El objetivo del socorrista es evitar la pérdida de sangre del accidentado, siempre que ello sea posible. Existen casos en que siendo 
+imposible controlar la hemorragia, la actuación consistirá en evitar el empeoramiento del estado de salud del lesionado, concretamente 
+ante las hemorragias internas y exteriorizadas.
+Hemorragias exteriorizadas
+Son aquellas hemorragias que siendo internas salen al exterior a través de un orificio natural del cuerpo: oído, nariz, boca, ano y 
+genitales.
+Hemorragia de oído
+Las hemorragias que salen por el oído se llaman otorragias. Cuando la pérdida de sangre es abundante y previamente ha existido un 
+traumatismo (golpe) en la cabeza, el origen de la hemorragia suele ser la fractura de la base del cráneo.
+En este caso la actuación del socorrista va encaminada a facilitar la salida de sangre de la cavidad craneal, pues de lo contrario, la 
+masa encefálica sería desplazada o comprimida por la invasión sanguínea, pudiendo ocasionar lesiones irreversibles en el cerebro. 
+Para facilitar la salida de sangre, se debe colocar al accidentado en Posición Lateral de Seguridad (P.L.S.), con el oído sangran te 
+dirigido hacia el suelo y siempre que se dominen las técnicas de movilización de traumáticos, caso contrario es mejor no tocarlo. 
+Control de signos vitales y evacuación urgente hacia un Centro sanitario con servicio de Neurología.
+Hemorragias de nariz
+Las hemorragias que salen por la nariz se denominan epistaxis. El origen de estas hemorragias es diverso, pueden ser producidas por 
+un golpe, por un desgaste de la mucosa nasal o como consecuencia de una patología en la que la hemorragia sería un signo, como por 
+ejemplo en el caso de la hipertensión arterial (HTA).
+Es cierto que muchas personas consideran la epistaxis como un suceso normal, explicación que el socorrista no debe aceptar, pues el 
+ser humano no está constituido para sangrar de forma habitual y «normal».
+
+Para detener la hemorragia, se debe efectuar una presión directa sobre la ventana nasal sangrante y contra el tabique nasal, presión 
+que se mantendrá durante 5 minutos (de reloj). La cabeza debe inclinarse hacia adelante, para evitar la posible inspiración de coágulos 
+(ver la técnica en la figura 2). Pasados los 5 minutos, se aliviará la presión, con ello comprobaremos si la hemorragia ha cesado. En 
+caso contrario se introducirá una gasa moja da en agua oxigenada por la fosa nasal sangrante (taponamiento anterior). Si la 
+hemorragia no se detiene se debe evacuar a un Centro sanitario con urgencia.
+Fig. 2: Técnicas para detener hemorragias de nariz (5 min.)
+Hemorragias de la boca
+Cuando la hemorragia se presenta en forma de vómito, puede tener su origen en el pulmón (hemoptisis) o en el estómago 
+(hematemesis). Es importante distinguir su origen para así proceder a su correcto tratamiento, para ello hay que tener en cuenta el 
+siguiente cuadro: (ver cuadro 2)
+Cuadro 2. Diferencias y actuación ante vómitos de sangre de origen respiratorio y digestivo.
+HEMOPTISIS
+HEMATEMESIS
+VÓMITO PRECEDIDO DE TOS.
+VÓMITO PRECEDIDO DE NÁUSEAS.
+SANGRE LIMPIA, CON OLOR A ÓXIDO.
+SANGRE CON RESTOS DE ALIMENTO Y 
+MALOLIENTE.
+PUEDE TENER ASPECTO ESPUMOSO.
+PUEDE ACOMPAÑARSE DE INCONSCIENCIA.
+Actuación:
+a.  Control de signos vitales
+b.  Dieta absoluta
+c.  Evacuar en posición de semisentado.
+Actuación:
+a.  Control de signos vitales.
+b.  Dieta absoluta.
+c.  Evacuar en posición de P.L.S.
+Hemorragias del ano
+Atendiendo al aspecto en que se presentan las heces, podemos determinar el origen de estas hemorragias. Son de origen digestivo 
+cuando las heces son de color negro (melenas) y de origen rectal cuando las heces se presentan con sangre normal (rectorragia). 
+Tanto en un caso como en el otro se procederá a recomendar la consulta médica por personal especialista.
+Hemorragias vaginales
+Durante el período de gestación, la mujer no debe presentar ningún tipo de hemorragia vaginal (metrorragia). Su presencia podría 
+indicar la amenaza de aborto, por lo que se debe conseguir un reposo absoluto (estirarla) por parte de la mujer y evitar que siga 
+perdiendo sangre. Para ello colocaremos compresas externas sobre la vagina (sin introducir nada dentro) y cruzándole los pies los 
+elevaremos en espera de su traslado en ambulancia a un Hospital.
+Hemorragias externas
+Son aquellas en las que la sangre sale al exterior a través de una herida. Las hemorragias más importantes se producirán en las 
+extremidades, ya que son las partes del cuerpo más expuestas a traumatismos de tipo laboral y es por donde pasan las arterias de 
+forma más superficial.
+Los métodos que a continuación se explican, sirven para coartar cualquier tipo de hemorragia (arterial o venosa), aplicando cierta 
+lógica según el método, la forma y el lugar en donde se produce. Así, por ejemplo, el torniquete sólo se aplicará en caso de 
+hemorragias en extremidades.
+A fin de controlar y detener la emergencia (hemorragia), utilizaremos siempre tres métodos, de forma escalonada, utilizando el 
+siguiente en caso de que el anterior no tenga éxito. Estos métodos son (ver algoritmo nº 1) la compresión directa, la compresión arterial 
+y el torniquete.
+
+Algoritmo 1. Cuando utilizar cada una de las técnicas para detener hemorragias externas
+Compresión directa
+Consiste en efectuar una presión en el punto de sangra do.
+Para ello utilizaremos un apósito (gasas, pañuelo...) lo más limpio posible. Efectuar la presión durante un tiempo mínimo de 10 minutos 
+(de reloj), además de elevar la extremidad afectada a una altura superior a la del corazón del accidentado. Transcurrido ese tiempo, se 
+aliviará la presión, pero NUNCA se quitará el apósito. En caso de éxito se procederá a vendar la herida y se trasladará al Hospital. (Ver 
+la técnica en la figura 3)
+Fig. 3: Compresión directa.
+Este método no se puede utilizar en el caso de que la hemorragia la produzca una fractura abierta de un hueso o existan cuerpos 
+enclavados.
+Compresión arterial
+Cuando falla la compresión directa, se debe utilizar este segundo método. Es de mayor aplicación en hemorragias de extremidades, 
+pues en el resto de zonas no es muy eficaz. Consiste en encontrar la arteria principal del brazo (A. humeral) o de la pierna (A. femoral) 
+y detener la circulación sanguínea en esa arteria y sus ramificaciones. Con ello conseguimos una reducción muy importante (no 
+eliminación) del aporte sanguíneo. (Ver la técnica en la fig. 4).
+
+Fig. 4: Puntos de compresión arterial: a) arteria femoral; b) arteria humeral
+La arteria humeral tiene su trayecto por debajo del músculo bíceps del brazo, por lo que el socorrista comprimirá esta zona con las 
+yemas de los dedos.
+La arteria femoral se comprime a nivel de la ingle o de la cara interna del muslo, para ello utilizaremos el talón de la mano o bien el 
+puño en caso de comprimir en el muslo.
+La compresión debe mantenerse hasta la llegada de la ambulancia o el ingreso en urgencias hospitalarias.
+Torniquete
+Este método se utilizará SÓLO en caso de que los de más no sean eficaces y la hemorragia persista o bien cuando exista más de un 
+accidentado en situación de emergencia y el socorrista esté solo.
+El torniquete produce una detención de TODA la circulación sanguínea en la extremidad, por lo que conlleva la falta de oxigenación de 
+los tejidos y la muerte tisular, formándose toxinas por necrosis y trombos por acumulación plaquetaria.
+Condiciones de aplicación (ver la zona de colocación en la figura 5)
+G     En la raíz del miembro afectado.
+G     Utilizar una banda ancha (no cinturones, ni cuerdas).
+G     Anotar la hora de colocación.
+G     Ejercer presión controlada. La necesaria para detener la hemorragia.
+G     NUNCA lo aflojará el socorrista.
+Fig. 5: Colocación de un torniquete: a) en la raíz del miembro; b) NUNCA se aflojará
+Hemorragias internas
+Son aquellas que se producen en el interior del organismo, sin salir al exterior, por lo tanto no se ve, pero sí que se puede detectar 
+porque el paciente presenta signos y síntomas de shock (al igual que el resto de hemorragias).
+Shock
+Definiremos al shock como el conjunto de signos y síntomas consecuentes a la falta o disminución del aporte sanguíneo a los tejidos, 
+
+debido a la pérdida de volumen sanguíneo o al aumento de la capacidad de los vasos.
+Esto implica la falta de oxigenación de los tejidos, por lo que si no se actúa con rapidez puede derivar en la muerte del accidentado.
+Shock hipovolémico
+Es el producido por la pérdida de volumen sanguíneo (pérdida de líquido) y se origina a causa de hemorragias, quemaduras (lesiones 
+por calor) o por deshidratación (vómitos y diarreas).
+Shock normovolémico
+Producido por una detención de la circulación sanguínea (shock cardiogénico) o bien por un aumento de la capacidad de los vasos 
+sanguíneos, lo que origina una pérdida o disminución de la presión necesaria para que la sangre llegue a oxigenar a los tejidos. Puede 
+ser de varios tipos: shock séptico, producido por infección (ej. heridas); Shock anafiláctico, producido por alergias (ej. intoxicaciones, 
+picaduras...); Shock neurogénico, producido por el dolor (traumatismos en general).
+Esto implica que cualquier lesión, si no se trata convenientemente, puede derivar en un estado de shock por parte del accidentado. 
+Shock caracterizado por los siguientes signos y síntomas:
+G     Alteración de la conciencia (no pérdida).
+G     Estado ansioso, nervioso.
+G     Pulso rápido y débil, a excepción del shock medular.
+G     Respiración rápida y superficial.
+G     Palidez de mucosas.
+G     Sudoración fría y pegajosa, generalmente en manos, pies, cara y pecho.
+Actuación
+La actuación debe ir encaminada a tratar en primer lugar la causa que ha producido el shock, evidentemente siempre que ello sea 
+posible, pues hay causas que no podrá tratar el socorrista, como por ejemplo las hemorragias internas.
+No obstante, siempre debe actuar de la siguiente forma:
+G     Control de signos vitales (Soporte Vital Básico. Ver NTP 247.89).
+G     Tratar las lesiones (si es posible).
+G     Aflojar todo aquello que comprima al accidentado, a fin de facilitar la circulación sanguínea.
+G     Tranquilizar al herido.
+G     Evitar la pérdida de calor corporal. Taparlo.
+G     Colocar al accidentado estirado con la cabeza más baja que los pies (posición de trendelenburg) y siempre que sus lesiones lo 
+permitan. (ver figura 6).
+Fig. 6: Posición alternativa de trendelenburg o anti-shock
+G     Evacuarlo urgentemente, controlando siempre los signos vitales, ya que la tendencia del shock siempre es a empeorar.
+
+   © INSHT
