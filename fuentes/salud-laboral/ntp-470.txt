@@ -1,0 +1,209 @@
+ 
+NTP 470: Óxido de etileno: prevención de la exposición en 
+hospitales
+Oxyde d’éthylène: prévention de l’exposition dans les hôpitaux 
+Ethylene oxide: exposure prevention in hospitals
+Redactoras:
+M. Gracia Rosell Farrás 
+Ingeniero Técnico Químico
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+M. Paz Arias Carballo 
+Licenciada en Ciencias Químicas
+SERVICIO DE PREVENCIÓN HOSPITAL CLÍNIC I PROVINCIAL DE BARCELONA
+La utilización del óxido de etileno en centros sanitarios ha quedado prácticamente reducida al área de esterilización en la que se 
+tratan con este gas esterilizante los materia les que no resisten el vapor. Ello ha permitido un enfoque específico de la prevención de 
+la exposición a este producto clasificado como cancerígeno. Asimismo, esta clasificación ha llevado pareja una constante reducción 
+de los valores límites aplicados. En la presente NTP se pasa revista a la situación actual sobre el uso de este producto en centros 
+sanitarios y se expone su clasificación y los criterios de valoración aplicados actualmente. Otra información referente a este 
+compuesto se encuentra en las NTP 206 y 286.
+Introducción
+El óxido de etileno (OE) se utiliza en los centros sanitarios para la esterilización del material medicoquirúrgico que es sensible al calor. 
+Su uso está muy extendido debido a su eficacia de acción, buen coeficiente de difusión y posibilidad de trabajar a bajas temperaturas, 
+aunque también es cierto que tiene algunos inconvenientes técnicos tales como lentitud del proceso de esterilización y retención en 
+distintos materiales.
+Como consecuencia de su estructura química el OE polimeriza fácilmente a temperatura ambiente, teniendo lugar una reacción 
+fuertemente exotérmica que, en ciertas condiciones, puede dar lugar a explosiones. Reacciona rápidamente con el agua formando 
+etilenglicol y con la gran mayoría de disolventes orgánicos, así como con los ácidos orgánicos e inorgánicos.
+La tesis más aceptada sobre su efecto esterilizante es que se debe a la alquilación que ejerce sobre el ADN, ARN, prótidos y lípidos, 
+con la consiguiente interrupción del metabolismo celular y muerte de la célula.
+Estudios llevados a cabo sobre la toxicidad del OE y su repercusión en el uso como agente esterilizante han influenciado para 
+incorporar en los autoclaves características de seguridad encaminadas a reducir la cantidad de OE ambiental, así como el desarrollo e 
+implantación de protocolos o procedimientos de trabajo.
+Su uso es muy cuestionado debido principalmente a la toxicidad que presenta, habiéndose propuesto algunos sistemas alternativos 
+como el plasma gas o el ácido peracético, aunque no puedan considerarse sustitutos al 100% del óxido de etileno.
+Personal expuesto
+Del colectivo de trabajadores sanitarios, los que tienen más riesgo de exposición a OE son las personas que trabajan en las centrales 
+de esterilización donde están ubicados los autoclaves de OE y los almacenes de material esterilizado, quedando también incluidos en 
+este colectivo el personal de limpieza y de mantenimiento que realizan operaciones cotidianas o esporádicas en estas instalaciones.
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1995
+
+La exposición a OE también alcanza de una manera in directa a los pacientes y al resto de personal sanitario debido a la capacidad de 
+absorción en algunos de los materiales (cauchos y plásticos, principalmente) a pesar de haber sido sometidos al correspondiente 
+proceso de aireación.
+Efectos sobre la salud
+El OE es un irritante cutáneo y de las mucosas, el con tacto directo con el cual puede producir quemaduras químicas y reacciones 
+alérgicas. La intoxicación aguda por OE puede producir, según la intensidad de la exposición, irritación en los ojos, nariz, garganta y 
+sequedad de boca, problemas gastrointestinales (náuseas, vómitos), neuralgias y cefaleas. Los síntomas aparecen después de un 
+período de latencia de algunas horas, no habiendo señales de alarma durante la exposición. Además, el nivel olfativo es de alrededor 
+de 700 ppm, lo que no permite utilizar esta propiedad como mecanismo de alerta. Sin embargo, empleando los sistemas de presión 
+negativa es poco probable una exposición de esta magnitud, aún en caso de fuga.
+Encefalopatías, polineuritis y otros trastornos neurológicos también han sido descritos como producto de intoxicaciones crónicas por 
+OE. La confrontación entre los estudios hechos con animales y los datos epidemiológicos disponibles han determinado la 
+consideración del OE como una sustancia que puede causar cáncer y alteraciones genéticas hereditarias, aunque muchas veces, sus 
+efectos pueden estar enmascarados por la presencia en el ambiente de otros contaminantes genotóxicos.
+Valores límite, clasificación y legislación aplicable
+Debido a la actividad mutágena y carcinógena del OE sus valores límite ambientales han sufrido a lo largo de los años un progresivo 
+descenso. El valor TLV-TWA adoptado por la American Conference of Governmental Industrial Hygienists de Estados Unidos (ACGIH) 
+para 1997 es de 1 ppm y con las siglas A2 que indica que es una sustancia sospechosa de ser cancerígena para los humanos.
+La Occupational Safety and Health Administration, también de Estados Unidos (OSHA) tiene asignado como valor límite 1 ppm y a 
+partir de una exposición de 0,5 ppm exige un control ambiental, crear un área restringida, control médico y formación del personal que 
+trabaja en la zona. Desde 1988 existe un valor STEL (para cortos periodos de exposición) de 5 ppm durante 15 min.
+El National Institute for Occupational Safety and Health, asimismo de Estados Unidos (NIOSH) recomienda un nivel de exposición < 0,2 
+ppm con exposiciones máximas de hasta 5 ppm durante tiempos inferiores a 10 min, por día de trabajo.
+La International Agency for Research on Cancer (IARC), clasifica al OE en el grupo 2A, producto con alta probabilidad de ser 
+cancerígeno para los humanos.
+Según el Real Decreto 363/1995 sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias 
+peligrosas, el OE está clasificado como tóxico y extremadamente inflamable y tiene asignadas las frases de riesgo: extremadamente 
+inflamable, irrita los ojos, la piel y las vías respiratorias, puede causar cáncer y puede causar alteraciones genéticas hereditarias.
+El Real Decreto 665/1997, relativo a la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes 
+cancerígenos durante el trabajo, aplicable en consecuencia al OE, establece las disposiciones específicas mínimas e indica que el nivel 
+de exposición de los trabajadores se reduzca a un valor tan bajo como sea técnicamente posible.
+Exposición a óxido de etileno en las unidades de esterilización
+Las concentraciones de OE determinadas en diferentes unidades de esterilización van desde valores inferiores a 0,1 ppm hasta 80 
+ppm, dependiendo del tipo de instalación, del proceso de esterilización y del protocolo de trabajo establecido. Actualmente, en los 
+casos más desfavorables, descartando accidentes, raramente se determinan concentraciones superiores a 5 ppm.
+Las unidades de esterilización están normalmente divididas en tres áreas de trabajo, la distribución y características de las cuales está 
+en función de si son instalaciones antiguas, de si se han realizado mejoras o son unidades de esterilización de reciente construcción:
+1.  Zona de preparación, donde el material se limpia y se prepara antes del proceso de esterilización.
+2.  Zona del autoclave, donde tiene lugar el proceso de esterilización y aireación y la carga y descarga del autoclave.
+3.  Zona de almacenamiento del material estéril, donde el material clínico se guarda hasta que es utilizado.
+Las unidades de esterilización antiguas poseen características que las diferencian notablemente de las modernas; las primeras se 
+distinguen por:
+a.  El autoclave está en la misma zona de trabajo junto a los esterilizadores de vapor.
+b.  Algunos tienen dos puertas, una para carga y otra para descarga.
+c.  La evacuación del OE de la cámara de esterilización pasa a través de un recipiente con agua antes de la evacuación por el 
+desagüe general.
+d.  El OE se suministra a través de botellas de gas.
+
+e.  El ciclo de esterilización no incluye la aireación del material.
+En cambio, las unidades modernas se caracterizan por:
+a.  El autoclave está aislado físicamente del área habitual de trabajo.
+b.  El equipo trabaja en presión negativa.
+c.  Tienen sólo una puerta.
+d.  Poseen un sistema de extracción localizada situada en la parte superior del autoclave, para la extracción del gas residual.
+e.  El recinto donde se halla el autoclave está en depresión con respecto a las zonas de trabajo adyacentes.
+f.  El OE se suministra en cartuchos de una sola dosis utilizándose siempre en circuito cerrado.
+g.  El ciclo de esterilización incluye la aireación del material.
+h.  La extracción del OE una vez finalizado el ciclo se evacua al exterior, directamente o previo tratamiento siguiendo las 
+instrucciones del fabricante.
+Proceso de esterilización con óxido de etileno
+El ciclo automático de esterilización tiene una duración variable entre 2 y 4 horas en función de la temperatura de trabajo y consta 
+fundamentalmente de: prehumidificación y acondicionamiento de la presión, entrada de gas, eliminación forzada del gas y vacíos 
+posteriores. Para un correcto funcionamiento del proceso de esterilización se deben tener en cuenta una serie de acciones a tomar 
+antes, durante y después del proceso.
+Acciones previas al proceso
+El material debe someterse a una limpieza minuciosa para eliminar todos los restos de materia orgánica y enjuagar abundantemente 
+los materiales una vez limpios. El material debe estar totalmente seco ya que el OE en presencia de agua se hidroliza rápidamente 
+formando etilenglicol.
+Una vez los materiales están limpios y secos deben ser embolsados en papel mixto (plástico y papel) o en con tenedores metálicos, 
+nunca en textil, debido a su capacidad absorbente. Las bolsas serán colocadas vertical mente en cestas de alambre de manera 
+holgada, de modo que siempre esté en contacto papel plástico, con el fin de favorecer la difusión del gas hasta los materia les que se 
+van a esterilizar.
+Acciones durante el proceso
+Durante el proceso de esterilización se llevan a cabo una serie de controles que permiten comprobar el correcto funcionamiento del 
+autoclave y del proceso de esterilización:
+G     Control físico del autoclave a través de los gráficos y manómetros del autoclave.
+G     Control químico del proceso de esterilización a través de tiras colorimétricas de las que se coloca una en cada paquete.
+G     Control biológico de la eficacia de esterilización. Se realiza a través de esporas inoculadas.
+Acciones posteriores al proceso
+Una vez finalizado el ciclo, todos los materiales deben ser aireados durante 12 horas como mínimo, a la misma temperatura que se ha 
+realizado el ciclo. Este proceso de aireación puede tener lugar en el propio autoclave una vez terminado el ciclo de esterilización o en 
+las cabinas de aireación diseñadas específicamente para este fin. En este caso el paso del material del autoclave a la cabina de 
+aireación, se hará de manera inmediata y sin etapas intermedias y se utilizará siempre: mascarilla específica, gorro, guantes y gafas. 
+Los equipos de protección individual deben llevar la etiqueta CE y el folleto del fabricante debe especificar su adecuación para la 
+protección frente al OE. Transcurrido el período de aireación, se coloca el material en la zona estéril listo para poder ser utilizado. 
+Antes de su entrega se comprobará que los controles químicos y biológicos hayan proporcionado un resultado correcto.
+Principales focos de exposición
+La exposición de los trabajadores a OE puede tener lugar principalmente durante las siguientes operaciones o situaciones:
+1.  Al sacar la carga una vez finalizado el ciclo, especial mente si ésta no ha sido previamente aireada.
+2.  En la zona del almacenamiento del material esterilizado por la desorción de OE residual del material esterilizado.
+
+3.  En la conexión, abertura y manipulación de los botellas de gas.
+4.  Posibles situaciones de emergencia o accidente que pueda ocurrir
+Medidas preventivas
+El OE es un gas extremadamente inflamable y tóxico; en consecuencia, habrá que tomar todas las precauciones necesarias, tanto 
+durante su almacenamiento como su uso, así como tener el procedimiento de actuación para casos de emergencia.
+Las acciones preventivas para reducir al máximo la ex posición a óxido de etileno se pueden resumir en las siguientes:
+G     Prohibición de comer, beber y fumar en toda el área de trabajo.
+G     Sólo se esterilizarán con óxido de etileno aquellos materiales que no se puedan esterilizar con el auto clave de vapor.
+G     La unidad de esterilización será una zona de paso restringido y solamente estará permitida la entrada al personal del servicio. 
+Deberá, por tanto, estar convenientemente señalizada.
+G     La puerta de la zona donde está ubicado el óxido de etileno debe permanecer cerrada.
+G     Las intervenciones del personal de mantenimiento y limpieza se deberán hacer en condiciones de mínimo riesgo (máquinas 
+paradas, días libres) y siempre después de haberles informado y dándoles los equipos de protección personal adecuados. De 
+manera general, es recomendable que se consideren trabajos con autorización.
+G     El sistema de ventilación debe funcionar correcta mente, para comprobar lo cual deben realizarse los controles adecuados.
+G     Para asegurarse de que el autoclave funciona y la esterilización es correcta se debe: 
+a.  Controlar los parámetros físicos del sistema automático.
+b.  Colocar en cada bolsa un control químico.
+c.  Realizar en cada ciclo un control biológico.
+G     El autoclave se utilizará siempre siguiendo las ins trucciones del fabricante.
+G     Tanto las máquinas como las instalaciones deberán tener un protocolo de mantenimiento.
+G     El material dentro de las cestas se colocará vertical mente y siempre de modo que coincida papel con plástico.
+G     Se procurará que las cestas no estén completamente llenas, quedando holgadas.
+G     Se respetará el período de aireación del material, que será como mínimo de 12 horas.
+G     Para entrar en la zona del OE se utilizarán batas de protección de uso exclusivo para esta zona.
+G     Para abrir el autoclave el personal se colocará: guantes, mascarilla, gorro y gafas.
+G     Una vez terminado el proceso de esterilización y de aireación se procederá al almacenamiento del mate rial a las condiciones 
+adecuadas.
+G     Los cartuchos vacíos se introducirán en el aireador o se les añadirá agua para eliminar el óxido de etileno residual que pueda 
+quedar. Una vez tratado, el cartucho se eliminará como residuo urbano.
+G     No se almacenarán más de seis cartuchos, ya que es un gas muy inflamable, sin tomar las debidas precauciones. Es 
+recomendable ubicarlos en un lugar seguro, alejados de focos de ignición y de calor y, preferiblemente, en un armario para 
+inflamables.
+G     Siempre que se sospeche un funcionamiento incorrecto del proceso de esterilización debido al cartucho, por ejemplo, y tenga 
+que manipularse el mismo una vez este conectado, se emplearán los equipos de protección individual correspondientes, básica 
+mente guantes y mascarillas
+G     Si se observa algún cartucho defectuoso se devolverá al suministrador.
+G     Hay que disponer de instrucciones detalladas de los pasos a seguir en caso de emergencia (fuga, incendio, etc.).
+G     Se recomiendan controles ambientales y persona les periódicos con el fin de conocer los niveles residuales de óxido de etileno. 
+Se efectuará una evaluación ambiental cuando se sospeche que hay una fuga.
+
+G     Es indicado disponer de una alarma sonora y visual que se active en caso de fuga o nivel de contaminación elevado.
+Materiales que pueden esterilizarse con óxido de etileno
+La primera medida preventiva frente a la posible exposición a OE es reducir al máximo su uso. En consecuencia, sólo se esterilizarán 
+con óxido de etileno aquellos materiales que no sean capaces de resistir más de 115 ºC, temperatura mínima a la cual se efectúa la 
+esterilización por el autoclave de vapor.
+No se pueden establecer criterios generales en cuanto a que tipos de materiales se pueden esterilizar y reesterilizar, cuanto tiempo se 
+debe airear y la cantidad de OE que no ha sido capaz de desorber, ya que ello depende de la naturaleza y composición química de los 
+materia les, porosidad, aditivos, temperatura del proceso de esterilización, cantidad de material colocado en el autoclave y 
+características propias del autoclave.
+Materiales que nunca deben esterilizarse con óxido de etileno
+G     Líquidos, gases, o productos sólidos que puedan cambiar su composición química por acción del OE.
+G     Materiales plásticos impregnados con agua, lubricantes u otras sustancias químicas.
+G     Materiales muy absorbentes (textiles, celulosas).
+G     Materiales envueltos con gasas u otros textiles.
+G     Materiales que estén fabricados con Mg, Zn o Sn ya que se deterioran con el OE.
+G     Nylon y papel de aluminio (que tampoco deben utilizarse para envolver o empaquetar otros materiales).
+G     El metacrilato y caucho porque retienen altas cantidades de óxido de etileno.
+G     De manera general, se recomienda no reesterilizar con OE materiales de PVC previamente esterilizados con rayos gamma, por 
+existir riesgo de formación de clorhidrina.
+Bibliografía
+(1) FEDERAL REGISTER 
+Occupational exposure to ethylene oxide 
+Final standard. 53 (183), 111414-111438 (1988)
+(2) M.G. ROSELL et al 
+Evaluación y control de contaminantes químicos en hospitales 
+INSHT. Documento técnico N 57. Barcelona, 1986.
+(3) M.G. ROSELL Y X. GUARDINO 
+Óxido de etileno: exposición laboral 
+NTP. Nº. 286. INSHT, Barcelona, 1986.
+(4) M.G. ROSELL Y X. GUARDINO 
+Development of a program to control exposure to ethylene oxide in sterilization areas 
+En Occupational Health for Health Care Workers. Mats Hagberg, et al, Eds. Ecomed, Landsberg, RFA. (1995)
+(5) DIRECTIVA 93/42/CEE. 
+Productos sanitarios
+   © INSHT

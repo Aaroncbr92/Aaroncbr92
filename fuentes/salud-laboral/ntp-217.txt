@@ -1,0 +1,132 @@
+ 
+NTP 217: Validación de un espirómetro
+Validation d'un Espiromètre 
+Spirometer Validation
+Redactor:
+Joaquín Pérez Nicolás 
+Diplomado en Enfermería
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+La primera investigación en profundidad sobre pruebas de capacidad ventilatoria fue realizada por John Hutchinson en el año 1846, 
+demostrando la existencia de una relación directa entre la capacidad vital y la talla, así como una relación indirecta con respecto a la 
+edad.
+Este estudio fue de una importancia fundamental, ya que a partir de ese momento los valores de referencia de los parámetros 
+espirométricos fueron expresados en función de datos biométricos tales como edad y talla.
+De lo expuesto se desprende que la calidad y fiabilidad de los datos obtenidos en una exploración funcional ventilatoria no sólo 
+dependerá de la técnica con la cual se realice la determinación, sino que será básico e imprescindible que el aparato utilizado para ello 
+cumpla con los criterios de exactitud y precisión expresados en la normativa internacional de la American Thoracic Society.
+El objetivo de este documento es el de divulgar las normativas de la American Thoracic Society sobre normalización en la metodología 
+de validación y calibración de espirómetros.
+El espirómetro
+La evolución y desarrollo técnico en los últimos años ha permitido la aparición constante y espectacular de nuevos modelos de 
+espirómetros con especial énfasis en el apartado del tipo electrónico.
+Se pueden distinguir tres tipos de espirómetros:
+G     Espirómetros de campana (húmedos).
+G     Espirómetros secos (fuelle, pistón, cuña, etc.).
+G     Espirómetros electrónicos (neumotacógrafos, turbina, termistor).
+No nos extenderemos en las características particulares de cada uno de ellos. Sólo mencionaremos que los más extendidos en la 
+actualidad son los de tipo electrónico.
+Validación de un espirómetro
+Validar un espirómetro significa conocer el grado de fiabilidad de los resultados que con él obtenemos en lo que se refiere a 
+repetibilidad, exactitud y precisión.
+Es imprescindible el validar un espirómetro antes de empezar a trabajar con él, ya que los datos obtenidos van a ser comparados con 
+otros datos sucesivas veces en el tiempo (estudios epidemiológicos, evolución clínica de un mismo sujeto, etc.).
+G     Exactitud: Es la correspondencia entre un volumen obtenido con respecto a otro teórico.
+G     Precisión: Es la repetibilidad de un mismo resultado, es decir, qué variabilidad presenta cuando efectuamos repetidas veces un 
+mismo volumen.
+Año: 1988
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+
+Es muy importante que un espirómetro sea preciso, ya que si poseemos un espirómetro poco exacto pero muy preciso podremos 
+utilizarlo si aplicamos un factor de corrección para corregir esa inexactitud. Si por el contrario disponemos de un espirómetro muy 
+exacto pero poco preciso no podremos utilizarlo ya que su grado de dispersión en las medidas nos hará imposible el encontrar un 
+factor de corrección.
+¿Como conseguir validar un espirómetro? Un espirómetro se valida por medio de calibración.
+Métodos de calibración:
+Calibración estática (volumen).
+Calibración dinámica (descompresor explosivo).
+Calibración de la linealidad (generador de flujos).
+Calibración de la velocidad de registro.
+Control de ausencia de fugas en el circuito espirométrico.
+Control periódico del perfecto funcionamiento del "software" (cálculos, mediciones, etc.).
+Periodicidad de calibración
+Para cualquier tipo de espirómetro:
+Diaria.
+Calibración estática (volumen)
+Mediante una jeringa de calibración "SEAS MASTER".
+Fig. 1: Jeringa de calibración
+Procedimiento: Conectar la jeringa al espirómetro y realizar un mínimo de cinco emboladas procurando emplear siempre la misma 
+técnica, no excesivamente violenta, sin interrupciones. Comprobar que los registros obtenidos cumplen con los criterios de la normativa 
+descritos en el apartado "Especificaciones del espirómetro".
+Comprobación de fugas
+Procedimiento: En espirómetros de campana, desplazar la campana hasta el punto medio de su volumen, cerrar el circuito y colocar 
+un peso de aproximadamente 1/2 kg encima de la campana, conectar la plumilla de registro y dejar pasar un tiempo prudencial (2-5 
+minutos). Comprobar que no existe ninguna fuga (no se debe haber desplazado la plumilla).
+En espirómetros secos, desplazar la plumilla de registro hacia la mitad de volumen, cerrar el circuito y esperar unos minutos. 
+Comprobar que no existe ninguna fuga.
+Calibración de la velocidad de registro (sólo para espirómetros de campana y secos)
+Comprobar que la velocidad de registro sea de 2 cm/segundo.
+Semanal.
+Calibración dinámica (respuesta dinámica)
+Nota: Es recomendable realizar previamente una validación del descompresor explosivo tipo Petusevsky con un espirómetro de 
+campana a fin de obtener unos valores patrón o de referencia.
+Mediante un descompresor explosivo tipo Petusevsky, este equipo está compuesto por un cilindro estanco de 4 litros de volumen, un 
+manómetro de presión, una electroválvula, y un juego de cuatro resistencias al paso del flujo de aire con un diámetro calibrado 
+numeradas de uno a cuatro.
+
+Fig. 2: Descompresor explosivo
+Procedimiento:
+En los espirómetros electrónicos se debe realizar en condiciones ambientales, es decir, estar desconectado el calefactor del sistema de 
+medición (el cabezal de medición debe estar frío).
+Llenar el cilindro con aire a una atmósfera de presión (760 mmHg), colocar la resistencia siguiendo el orden de numeración, es decir, 
+empezar por el número 1 y acabar con el 4, conectar el descompresor al espirómetro, comprobar que la presión del manómetro no ha 
+variado y, por medio del interruptor de la electroválvula, realizar la expulsión del aire contenido sin dejar de presionar el interruptor 
+hasta que la aguja del manómetro marque cero de presión.
+Realizar esta operación cuatro veces para cada resistencia.
+Comprobar que los resultados obtenidos cumplen los requisitos de la normativa, con respecto a los valores de referencia.
+Quincenal.
+Solo para espirómetros electrónicos
+Calibración de la linealidad de flujo
+Como en el punto anterior, los equipos deberán estar midiendo en condiciones ambientales, es decir, con el calefactor del sistema de 
+medición desconectado.
+Se requiere un equipo más sofisticado, compuesto de un generador de flujos, un regulador de presión para incrementar o disminuir 
+este flujo, un caudalímetro y un diagrama de flujos según incremento de presión.
+Conectar el calibrador al espirómetro y realizar un mínimo de tres determinaciones para cada punto de presión, iniciando la calibración 
+por puntos bajos de flujo para ir aumentando hasta los puntos máximos.
+Esta calibración se realizará en dos escalas de flujo:
+G     De 0 - 12 litros/segundo.
+G     De 0 - 3 litros/segundo.
+Comprobar que los resultados obtenidos cumplen con los requisitos de la normativa respecto a los valores del diagrama de referencia.
+Especificaciones del espirómetro
+Precisión de ±50 mililitros ó ±3%.
+Debe poder medir volumen con un rango como mínimo de 0-7 litros en condiciones BTPS (temperatura, presión, saturación de agua 
+corporales).
+Debe ser calibrado volumétricamente a diario.
+Deberá presentar los resultados en condiciones BTPS (espirómetros electrónicos, secos).
+Deberá imprimir gráficamente o mostrar en pantalla las curvas espirométricas.
+La velocidad de registro en los espirómetros de campana será de 2 centímetros/segundo y expresará gráficamente cada litro de 
+volumen al menos en 10 milímetros de papel.
+Deberá ser capaz de acumular aire por lo menos durante 10 segundos, y no dejar de hacerlo hasta que el volumen sea inferior a 25 
+mililitros durante un período de tiempo de 0,5 segundos.
+
+Deberá tener poca inercia y oponer una resistencia al flujo de aire inferior a 1,5 cm de H2O/litro/segundo a un flujo de 12 litros/segundo.
+Bibliografía
+(1) MITCHELL, L.; PETUSEVSKY, L. D.; LYONS, A. A.; ET AL 
+Calibration of time Derivatives of Forced Vital Capacity by Explosive Decompression 
+American Review of Respiratory Disease, 1980, 121, 343-350
+(2) AMERICAN THORACIC SOCIETY 
+ATS Statement - Snowird Workshop on Standardization of Spirometry 
+American Review of Respiratory Disease, 1979, 119, 851-859
+(3) REED M.GARDNER; JOHN L. HANKINSON; ET AL 
+Evaluating Commercially Available Spirometers 
+American Review of Respiratory Disease, 1980, 121, 73-83
+(4) AMERICAN THORACIC SOCIETY 
+Standardization of Spirometry - 1987 Update 
+American Review of Respiratory Disease, 1987, 136, 1285-1298
+(5) FERRIS, B. G. 
+Epidemiology standardization project. Recommended standardization procedures for pulmonary function testing 
+American Review of Respiratory Disease, 1982, 125, 734-737
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-89-020-3 

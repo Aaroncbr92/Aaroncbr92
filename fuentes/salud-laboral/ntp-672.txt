@@ -1,0 +1,298 @@
+ 
+NTP 672: Extracción localizada en el laboratorio
+Ventilation par aspiration á la source au laboratoire 
+Local exhaust in the laboratory
+Redactores:
+Xavier Guardino Solá 
+Doctor en Ciencias Químicas
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Carlos Heras Cobo 
+Doctor en Ciencias Químicas
+INSTITUTO ARAGONÉS DE SEGURIDAD Y SALUD LABORAL
+En la presente NTP se da una visión general de las técnicas de ventilación por extracción localizada aplicadas a los laboratorios de 
+química. Constituye un complemento de la NTP-373 que trata de la ventilación general en el laboratorio.
+Introducción
+Un sistema de extracción localizada tiene como objetivo captar el contaminante en el lugar más próximo posible del punto donde se ha 
+generado, el foco contaminante, evitando que se difunda al ambiente general del laboratorio. Consta de cuatro elementos básicos:
+a.  Campana: es la parte del sistema a través de la cual son efectivamente captados los contaminantes.
+b.  Conducto: lugar por el que el aire extraído cargado de contaminante circula hasta al ventilador.
+c.  Depurador: sistema de tratamiento/purificación del aire del que, cuando la concentración, peligrosidad u otras características del 
+contaminante lo aconsejen y de cara a la protección del medio ambiente atmosférico, dispone la instalación de extracción 
+localizada.
+d.  Ventilador: mecanismo que proporciona la energía necesaria para que el aire circule a través de la campana, el conducto y el 
+depurador a un caudal establecido y venciendo la pérdida de carga del sistema.
+Todo sistema de extracción localizada requiere un diseño y unas características de funcionamiento que permitan el arrastre del 
+contaminante a la velocidad necesaria, su vehiculación a través de la instalación a un caudal adecuado y un ventilador que proporcione 
+dicho caudal venciendo la pérdida de carga ofrecida por el conjunto de la instalación.
+Se considera que un sistema de extracción localizada funciona correctamente cuando en las inmediaciones del foco del cual se 
+pretende captar el contaminante emitido, su concentración se encuentra al nivel que se había previsto.
+Los sistemas de extracción localizada presentan una serie de ventajas sobre la ventilación por dilución que se resumen en la tabla 1.
+En el laboratorio se encuentran distintos dispositivos de extracción localizada: las vitrinas extractoras de gases, las vitrinas de 
+sobremesa, con o sin filtrado y conexión al exterior, las campanas para disipar calor de los instrumentos y eliminar humos y vapores 
+desprendidos y los puntos de extracción móviles. Las vitrinas se distinguen de los demás dispositivos de extracción en que incluyen un 
+encerramiento.
+TABLA 1 
+Ventajas de la extracción localizada en el laboratorio sobre la ventilación por dilución
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 2004
+
+• Capta el contaminante antes de que éste llegue a afectar el ambiente de trabajo
+• Trabaja con caudales sensiblemente inferiores
+• Altera en menor medida las condiciones termohigrométricas ambientales
+• Facilita mejor la depuración
+• Es aplicable a aerosoles
+• Puede garantizar atmósferas no explosivas con mayor facilidad
+• Evita el posible deterioro de equipos por contaminantes corrosivos
+Vitrinas de laboratorio
+Las vitrinas extractoras de gases están provistas de una superficie de trabajo en la que se disponen los materiales y aparatos 
+necesarios en un proceso. Su conexión con el laboratorio es a base de una abertura por la que penetra en el recinto el aire necesario 
+para arrastrar los contaminantes. Esta abertura suele recibir el nombre de frente de la vitrina, y al órgano móvil utilizado para cerrar o 
+modificar la abertura, generalmente con movimiento vertical pero también puede ser horizontal, se le conoce habitualmente como 
+ventana.
+La vitrina debe permitir la observación del desarrollo del proceso, no obstaculizar el trabajo en su interior, mantener la misma eficacia al 
+trabajar tanto con el frente abierto como cerrado, ser fácil de limpiar, mantener y descontaminar, no provocar ruidos excesivos en su 
+funcionamiento, tener prevista su descarga de modo que no afecte a áreas próximas y, cuando las características o concentración del 
+contaminante extraído lo requieran, disponer de un sistema de depuración.
+Los procedimientos de selección y utilización de estas vitrinas están desarrollados en la NTP 646.
+Existen muchos modelos específicos de vitrinas entre los que cabe distinguir las de seguridad biológica (bioseguridad) tratadas en la 
+NTP 233. Otro aspecto a comentar es el tamaño de las mismas. A continuación se describen las vitrinas de sobresuelo, las 
+convencionales, las de sobremesa y las destinadas a almacenamiento de productos volátiles, tóxicos o pestilentes.
+Vitrinas de sobresuelo
+Las vitrinas de sobresuelo, llamadas también cabinas, son las adecuadas cuando las dimensiones del montaje o aparatos a utilizar es 
+considerable, como el caso de columnas de destilación o montajes piloto, pudiendo alcanzar la altura del propio laboratorio. La anchura 
+se adapta a las necesidades, aunque presenta limitaciones para lograr una buena eficacia, y el fondo se dimensiona habitualmente en 
+1 metro. Ver la figura 1.
+La base debe encontrarse elevada con respecto al suelo y construirse formando una cubeta para recoger vertidos. El desagüe debe 
+disponer de un sistema que permita recoger los vertidos para tratarlos como residuos. Su construcción debe estar en consonancia con 
+los productos e instalaciones a utilizar en ellas. En este mismo sentido, para facilitar el montaje de los distintos elementos o aparatos, 
+es conveniente que en la parte posterior de la vitrina, se instale un soporte - estructura rígido, de materiales resistentes a los agentes 
+químicos y a la temperatura, en el cual se fijan matraces, refrigerantes, separadores, instrumentos, etc. En el caso en que tales 
+elementos o cualquier instrumental debiera montarse a alturas superiores a 1,50 m, conviene disponer de unos puntos de fijación en el 
+techo del laboratorio, en los cuales pueda engancharse la escalera necesaria para efectuar el montaje y las inspecciones o 
+manipulaciones.
+Figura 1 
+Cabinas de sobresuelo
+Vitrinas convencionales
+
+Constituyen el modelo más versátil para el laboratorio, utilizándose siempre que las dimensiones de los aparatos o los montajes no 
+sean excesivamente grandes. Estas vitrinas, cuyo esquema se representa en la figura 2, mantienen el plano de trabajo a la misma 
+altura que las mesas y poyatas del laboratorio, permitiendo efectuar cómodamente las manipulaciones en su interior.
+Figura 2 
+Esquema de una vitrina extractora de gases convencional
+Las dimensiones comerciales de estas vitrinas suelen de 90 a 120 cm de ancho por alturas que alcanzan hasta 1,90 m. El fondo oscila 
+habitualmente entre los 65 y 75 cm, con lo que el volumen interno resultante es del orden del m3.
+Los materiales de construcción en principio pueden ser variados, viniendo condicionados por las operaciones a desarrollar. Deben 
+disponer de una serie de servicios como: tomas de corriente, agua, cubeta o pila de desagüe y sifón propio. También pueden contar 
+con bases de corriente especiales, tomas de gas combustible, gas inerte, aire comprimido y vacío, entre otras. Por razones de 
+seguridad, los controles de todos estos servicios deben situarse en el exterior del recinto que ofrece la vitrina y, más concretamente, en 
+su parte frontal, tal como se presenta en la figura 3. De este modo, se despejan obstáculos en el recinto, permitiendo manipulaciones 
+más seguras y, en el caso de las tomas de corriente eléctricas, se evitan riesgos de explosión.
+Figura 3 
+Detalle de la situación de los mandos
+Por otra parte, elementos tales como tuberías, sifón, conductos, sirgas, contrapesos, etc. deben encontrarse fácilmente accesibles de 
+modo que se faciliten las necesarias revisiones periódicas y el adecuado mantenimiento.
+No debe olvidarse que estas características de las vitrinas convencionales se refieren a trabajo estándar, debiéndose contemplar los 
+casos especiales individualmente.
+En lo referente a la retirada de los contaminantes, la eficacia de la vitrina viene determinada por el arrastre de los contaminantes, las 
+características aerodinámicas del recinto, la velocidad de paso de aire por el frente y la compensación de esta velocidad al variar el 
+frente de la vitrina según la posición de la ventana, que se comenta más adelante.
+La distribución de un contaminante en un recinto está relacionada directamente con su temperatura de generación y su densidad con 
+respecto al aire. Por otro lado, la velocidad de generación del contaminante condiciona así mismo la facilidad o dificultad para su 
+arrastre o captación. Con el fin de conseguir un arrastre adecuado, los aparatos deben disponerse preferiblemente en el fondo de la 
+vitrina, nunca a distancias inferiores a 10 cm del frente. En el caso en que los contaminantes asciendan por convección o por ser 
+menos densos que el aire, la máxima eficacia se conseguiría si la vitrina tuviera la boca de extracción en la parte superior del recinto. 
+Teniendo en cuenta que el barrido es eficaz en la zona en que el flujo es laminar, los contaminantes más fríos o más densos que el aire 
+no serían eficazmente arrastrados (figura 4a). Si, por contra, los contaminantes a retirar descendieran por convección o fueran más 
+densos que el aire, la máxima eficacia se lograría situando la boca de extracción en la parte inferior de la cabina. En tal caso (figura 
+
+4b), se crearía una zona inerte en la parte superior del recinto. Como quiera que un vitrina debe diseñarse, salvo aplicaciones 
+específicas, para ser eficaz en una amplia serie de operaciones, se adopta una solución en una vitrina convencional.
+intermedia, que consiste en la disposición de la boca de extracción en la parte superior y un panel a modo de bafle, ante la pared del 
+fondo del recinto (figura 4c) que debe ser regulable, con el fin de permitir el ajuste de la relación de flujos (superior - inferior), y 
+desmontable para facilitar la limpieza. De este modo, los contaminantes de la parte inferior son arrastrados por una corriente laminar 
+que discurre tras el bafle, y los de la parte superior son arrastrados directamente hacia la boca de extracción. Los modelos 
+comercializados suelen aportar esta solución.
+Figura 4 
+Distribución de las corrientes de aire en el interior de una vitrina
+a)
+ 
+   
+b)
+ 
+   
+c)
+ 
+Otro factor determinante de la eficacia en la extracción es la velocidad de paso de aire en el frente de la vitrina. En la NTP-646 (tabla 
+4), se recomiendan caudales de aire y velocidades frontales que no deben sobrepasar en ningún caso 1 m/s. En la práctica, a una 
+vitrina de laboratorio se le debe exigir la retirada del contaminante en cualquier operación con desprendimiento de gases o vapores 
+correctamente dispuesta y ejecutada, sin que presente inconvenientes como el apagado de llamas de mecheros, enfriamiento de 
+placas, evaporaciones indeseadas, levantamiento de polvo, ni turbulencias incontroladas en el interior del recinto de la vitrina. La 
+presencia del operador frente a la vitrina, genera una zona de depresión que disminuye la eficacia de extracción.
+Por otro lado, al bajar la ventana, la velocidad aumentaría considerablemente, con lo cual se manifestarían los inconvenientes recién 
+mencionados. Este problema se elude instalando cortocircuitos en la entrada de aire de la vitrina. Un posible esquema de este sistema 
+es el que se representa en la figura 5a. Este tipo de vitrinas se denominan equilibradas. Al levantarse la ventana, se cierra la entrada 
+superior de aire, en tanto que al bajarla se libera, permitiendo la entrada de aire por la parte superior equilibrando así el sistema. El 
+diseño del cortocircuito debe ser tal que permita una velocidad de paso de aire constante por el frente de la vitrina estando la ventana 
+en cualquier posición. No obstante, conviene que la ventana, en su posición más baja, no interrumpa completamente la circulación de 
+aire por la parte inferior del recinto, puesto que podrían quedar estancados contaminantes en la parte baja de la vitrina. El problema se 
+resuelve simplemente disponiendo topes con una apertura fija justo debajo del frente o bien colocando un reborde como el de la figura 
+5b. Estos rebordes, al igual que los que conforman en su conjunto el frontal de la vitrina, deben ser de formas redondeadas para 
+favorecer el régimen laminar en el movimiento del aire.
+Figura 5 
+Esquema de una vitrina equilibrada con detalles constructivos
+
+Otro aspecto a considerar, en orden al funcionamiento eficaz de las vitrinas, es el suministro de aire. En principio, la ventilación 
+requerida para el laboratorio es de un mínimo de 10 I/s·persona (36 m3/h·persona) o 3 l/s·m2 (11 m3/h·m2) (UNE 100.011-91), siempre 
+que no haya requerimientos superiores para mantener la concentración de los contaminantes por debajo de los límites máximos 
+admitidos para protección de la salud. Ello implica que deben combinarse las necesidades de extracción de las vitrinas con las de 
+renovación general de aire del laboratorio, lo que es motivo de estimaciones aproximadas y cálculos indicativos no siempre reales, 
+puesto que las variables a contemplar son varias, principalmente el número de vitrinas disponibles y sus periodos de uso. La solución 
+de garantizar la ventilación del laboratorio independientemente del funcionamiento de las vitrinas puede generar problemas tanto de 
+coste de tratamiento del aire de entrada al laboratorio, ya que el aire extraído por las vitrinas no puede reciclarse, como de disconfort y 
+alteración del funcionamiento de las vitrinas debido a las elevadas velocidades de aire que se originarían en las cercanías de los 
+difusores y rejillas.
+La solución para disminuir el volumen de aire tratado que extrae la vitrina puede consistir en que ésta tome parte del aire que necesita 
+para su funcionamiento, del exterior del edificio o de zonas con aire no tratado. Así, las vitrinas pueden funcionar con una relación 70-
+30, es decir, tomando del interior únicamente el 30% del volumen requerido para su funcionamiento. Las vitrinas así diseñadas, se 
+llaman compensadas y requieren disponer de dos ventiladores; el de extracción propiamente dicho y el de impulsión de aire. El coste 
+del consumo del ventilador de impulsión es compensado por el ahorro en volumen de aire.
+La toma de aire exterior suele hacerse por la parte superior del frente, pero también por los laterales o incluso por la parte posterior de 
+la vitrina. El sistema de entrada debe elegirse cuidadosamente puesto que el aire exterior podría incidir directamente sobre el operador 
+provocando evidentes molestias, sobretodo si el salto térmico entre el aire exterior y el interior es considerable. También podrían 
+producirse distribuciones no deseadas de aire exterior por el laboratorio, así como, si entra directamente en la vitrina, en la distribución 
+dentro de la misma. Un último factor a considerar que puede incidir en el correcto funcionamiento de las vitrinas es su ubicación en el 
+laboratorio. A este respecto, hay que considerar la vitrina como cualquier superficie de trabajo, debiendo quedar lo más alejadas 
+posible de puertas, pasillos y vías de salida, tanto por la posibilidad de que se produzca un incendio en su interior, como por la 
+interferencia que producen en su funcionamiento las corrientes de aire. Así pues, las vitrinas no pueden disponerse en pasillos, zonas 
+de paso, ni en cercanías de puertas ni de productos inflamables (ver NTP 646).
+Vitrinas de sobremesa
+Con el fin de resolver la retirada de contaminantes generados en técnicas muy concretas, que exijan poca manipulación y reducidos 
+espacios, puede recomendarse la instalación de pequeñas vitrinas. En estos casos, al recinto creado basta con acoplarle el conducto 
+que se dirige hasta el extractor (figura 6), o incluso diseñar un recinto que se prolongue hasta la zona de implantación de un extractor 
+simple de pared (figura 7). Dado el reducido tamaño de estos recintos, no plantean inconvenientes de arrastre de contaminantes y con 
+extractores de bajo caudal se consiguen velocidades de paso de aire en la boca del orden, o incluso superior, a los 0,7 m/s.
+El esquema representado en la figura 7, presenta la ventaja de que las pérdidas de carga del sistema son mínimas, de modo que con 
+un extractor de tipo doméstico y una boca de 40 x 40 cm se alcanzan eficientes velocidades de captación. En el recinto interno creado 
+se pueden ejecutar las manipulaciones con muestras y disolventes precedentes a distintas técnicas analíticas, liberando a los analistas 
+de la contaminación típica en tales tareas. Por razones de estética, es recomendable preparar estas vitrinas a base de materiales 
+traslúcidos (policarbonato, por ejemplo), excluyendo el vidrio por razones de seguridad.
+Figura 6 
+Pequeña vitrina de sobremesa
+
+Figura 7 
+Acoplamiento de un recinto hasta un extractor instalado
+ 
+ 
+En el mercado existen vitrinas de sobremesa que incorporan extractor y filtro en distintas disposiciones. En la figura 8 se presenta un 
+esquema con filtro en el fondo de la vitrina. En función del trabajo a desarrollar, es decir, de los contaminantes que puedan liberarse, se 
+instala un tipo u otro de filtros. Estas vitrinas, presentan la ventaja de que pueden situarse en superficies de trabajo alejadas de muros, 
+al no necesitar acoplamiento con equipos extractores, y ante un cambio de necesidades, pueden trasladarse de un emplazamiento a 
+otro.
+Figura 8 
+Esquema de una vitrina de sobremesa con filtro sin salida al exterior
+
+En el caso de manipulación de materia particulada o fibrosa, los filtros mecánicos proporcionan excelentes resultados, siendo 
+conveniente que la vitrina disponga de un manómetro de cara a conocer el nivel de colmatación de los mismos para proceder a su 
+sustitución. Cuando se trata de manipulación de sustancias volátiles su utilización es más que discutible desde el punto de vista de la 
+seguridad. En primer lugar, ante emisiones bruscas de contaminantes, éstos pueden no quedar retenidos de manera eficaz por falta de 
+capacidad, pasando al ambiente; en segundo lugar, el filtro debe ser adecuado a los contaminantes a retener, no existiendo un tipo de 
+filtro universal; y, en tercer lugar, no suele existir un procedimiento para establecer su vida útil ni para detectar el final de la misma, por 
+lo que no es conveniente emplearlas con sustancias volátiles de elevada peligrosidad. En cualquier caso hay que contemplar la 
+eliminación de los filtros usados dentro del plan de gestión de residuos del laboratorio.
+Vitrinas para almacenamiento
+Cuando no se disponga de un almacén adecuado, o de armarios de seguridad (recuérdese las recomendación de la MIE-APQ-1 -Real 
+Decreto 379/2001, de 6 de abril, sobre Reglamento de almacenamiento de productos químicos y sus instrucciones técnicas 
+complementarias), un simple cerramiento, con un extractor adosado, puede ser la solución adecuada para crear un recinto destinado al 
+stock de muestras o materiales que desprendan malos olores (ver figura 9). En estos casos, bastan unas mamparas con las puertas o 
+ventanas convenientes y un pequeño extractor (que puede ponerse en marcha al abrir las puertas) para resolver el problema de olores 
+y contaminaciones residuales. Sin embargo, si se pretende construir una vitrina eficaz, hay que tener en cuenta todos los factores de 
+circulación de aire y velocidad de captación que se han citado anteriormente.
+Figura 9 
+Esquema de una vitrina para almacenamiento
+Rendijas, campanas y plenums
+En el ámbito industrial, la instalación de rendijas, campanas y plenums, es ampliamente aceptada como sistema de control de 
+contaminantes. Sin embargo, en el laboratorio, no son tan corrientes, ya que la vitrina de gases cubre gran parte de las necesidades 
+del laboratorio. Además de las campanas receptoras empleadas con los espectrofotómetros de absorción atómica (ver figura 10), en 
+muchos casos es aconsejable instalar pequeñas campanas o rendijas en lugar de utilizar vitrinas. Por ejemplo, en ensayos 
+fisicoquímicos que pueden implicar desprendimientos de humos, es más recomendable instalar alguno de los elementos mencionados 
+que alojar los aparatos en el interior de una vitrina inhabilitándola para otros usos, aparte del coste de construcción que, de utilizar 
+vitrinas, es mucho más elevado.
+Así, los humos y gases calientes provenientes de baños calientes de aceite y de agua, placas calefactoras, muflas, estufas y 
+cromatógrafos de gases, podrían ser retirados por una pequeña campana situada sobre ellos (ver figura 11). Que el tiraje sea natural o 
+forzado dependerá de las características de la contaminación generada, de su ubicación y de la del propio laboratorio. Los sistemas de 
+aplicación directa de la extracción localizada deben instalarse inmediatamente próximos a los focos de emisión de contaminantes, ya 
+
+que con una adecuada velocidad de captación, se consiguen retiradas eficaces de aquéllos. Este es el caso de las campanas móviles 
+conectadas a una red de extracción para llevar a cabo aspiraciones localizadas en operaciones en las que estén implicados pequeños 
+montajes. Ver figura 12. En muchos casos adquieren la función de rendijas de aspiración.
+Figura 10 
+Campana receptora de un espectrototómetro de absorción atómica
+Figura 11 
+Campana suspendida para eliminación de calor, vapores y humos
+Figura 12 
+Esquemas de pequeñas campanas móviles
+
+Teóricamente la velocidad de captación necesaria depende de la velocidad de producción del contaminante, su peligrosidad, su 
+temperatura, su densidad, y de la existencia o no de corrientes de aire que interfieran. En la práctica, y en líneas generales, la retirada 
+eficaz de gases o vapores exige velocidades de captación del orden de los 0,6-0,7 m/s en su zona de generación.
+Si se trata de polvo, se recomiendan velocidades que oscilan desde 1,5 m/s hasta 2 m/s, en función de la naturaleza del polvo y de 
+cómo se genere. En casos particulares, como puede ser una producción de humos desde un foco caliente y sin interferencias por 
+corrientes de aire, bastan velocidades del orden de los 0,3 m/s. Por el contrario, si lo humos son producidos en abundancia y poseen 
+marcada peligrosidad, pueden requerirse captaciones de hasta 1 m/s en su foco de generación.
+Existe además un requisito indispensable para la instalación de estos sistemas: Entre el captador (rendija, campana, etc.) y el foco de 
+emisión no deben realizarse manipulaciones ni por supuesto encontrarse en ningún momento la zona respiratoria del personal. Es el 
+inconveniente de realizar la captación en un ambiente abierto en lugar de efectuarla en un recinto cerrado, como era en el caso de las 
+vitrinas de gases. Las ventajas que presentan frente a éstas los sistemas de aplicación directa son su bajo coste y la retirada eficaz de 
+contaminantes moviendo caudales de aire relativamente bajos a mayor velocidad.
+En función de la forma de los captadores, éstos se pueden clasificar en rendijas, campanas o plenums de rendijas.
+Rendijas
+En estos captadores, su boca es de tal dimensión que la relación A/L (anchura/longitud) es ≤ 0,2 (ver figura 13). El caudal de aire 
+necesario para captar un contaminante que requiera una velocidad de captación V, y se genere a una distancia X de la boca de rejilla 
+es:
+Q = 3,7 · L · V · X· 3600
+donde:
+Q: m3/ hora
+L: m
+V: m/s
+X: m
+Figura 13 
+Rendijas sin deflector y con deflector
+Estas rendijas pueden llevar pestañas (deflectores, bafles), con lo cual aumentan su eficacia frontal al no captar aire de la parte 
+posterior de su boca.
+En este caso, la fórmula para obtener el caudal es:
+Q = 2,6 · L · V · X · 3600
+Campanas
+En las campanas la geometría difiere de las rendijas en que la relación A/L es ≥ 0,2. También las campanas suelen diseñarse de 
+formas muy variables. En el caso de la forma troncocónica (ver figura 14), el caudal viene dado por la expresión:
+Q = V · (10 x2 + S) · 3600
+siendo S la superficie de la boca, A x L
+Si dispone de pestañas:
+Q = 0,75 · V · (10 x2 + S) · 3600
+Figura 14 
+Campanas sin deflector y con deflector
+
+Las rendijas, por su pequeño tamaño y las altas velocidades de captación que pueden ofrecer con bajos caudales, son adecuadas para 
+tratar focos puntuales o discretos. Las campanas, suelen encontrar su aplicación más frecuente en la retirada de humos, 
+disponiéndolas, como ya se ha comentado, en la vertical del foco de producción del contaminante.
+Plenum de rendijas
+Cuando el contaminante se genera a lo largo de una superficie extensa, se hace necesario el concurso de varias rendijas que cubran la 
+zona. En tales casos se acude al plenum de rendijas que tiene la forma de la figura 15.
+Figura 15 
+Plenum de rendijas
+ 
+El caudal de extracción a través de una rendija se obtiene de la ecuación ya citada con anterioridad
+Q = 3,7 · L · V · X · 3600
+En cualquier caso, sea cual fuere el sistema de extracción localizada elegido, debe insistirse en que en la distancia que media entre el 
+foco de producción de contaminantes y la boca de captación, no deben producirse manipulaciones ni por supuesto encontrarse la 
+atmósfera respiratoria del trabajador, debiendo ser la situación de las bocas lo más próxima posible al foco de generación del 
+contaminante.
+Bibliografía
+1.  ACGIH 
+Industrial Ventilation. 
+20th Ed. ACGIH, Cincinnati, Oh, USA, 1998
+2.  X. GUARDINO, C. HERAS, et al. 
+Seguridad y Condiciones deTrabajo en el Laboratorio, 2ª Ed. 
+INSHT, Barcelona, 2001
+   © INSHT
