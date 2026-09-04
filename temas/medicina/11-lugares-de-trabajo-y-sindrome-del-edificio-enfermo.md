@@ -379,8 +379,10 @@ mención del anexo V a un colectivo concreto:**
 
 ---
 
-**Diez elementos y hay que saberlos contar.** **No hay medicamentos en esa lista, y esa ausencia es
-deliberada y preguntable.**
+**Nueve entradas separadas por comas, y hay que saberlas contar.** **La primera —«desinfectantes y
+antisépticos autorizados»— agrupa dos productos en una sola entrada, de modo que quien los cuente por
+separado dirá diez; el tema 7 de este volumen las cuenta como nueve y aquí se cuentan igual.** **No
+hay medicamentos en la lista, y esa ausencia es deliberada y preguntable.**
 
 **El apartado 5 da los dos umbrales de plantilla**, citado:
 
