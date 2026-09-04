@@ -1,0 +1,186 @@
+ 
+NTP 232: Pantallas de visualización de datos (P.V.D.): fatiga 
+postural
+Astreinte postural au postes de travail sur écran de visualisation 
+Postural strain
+Redactores:
+Mª Félix Villar Fernández 
+Licenciada en Ciencias Biológicas
+Pedro A. Begueria Latorre 
+Arquitecto Técnico
+CENTRO NACIONAL DE NUEVAS TECNOLOGÍAS
+Introducción
+Constituye un motivo de preocupación, en todos los países industrializados, el aumento registrado en el número de afecciones músculo-
+esqueléticas, no sólo en sectores donde las tareas exigen un importante desempeño físico, sino también en donde la incidencia de este 
+tipo de trastornos era tradicionalmente pequeña, como en el sector de oficinas. Una de las causas de este fenómeno se cree pueda ser 
+la introducción de tareas que obligan a la permanencia prolongada en determinadas posturas de trabajo.
+Se ha pretendido hallar una correlación entre el trabajo ante P.V.D. y el aumento de los trastornos osteo-mioarticulares. Diversos 
+estudios realizados entre usuarios y no usuarios de P.V.D., han recogido un mayor número de quejas referidas a dolores, rigidez, 
+cansancio, calambres, entumecimiento y temblores entre los operadores de P.V.D., principalmente entre los empleados en simple 
+entrada de datos". Se ha observado, además, que los operadores tienden a manifestar dichos síntomas con mayor frecuencia que los 
+no operadores. La localización de los dolores también diverge en unos y en otros; mientras los usuarios los manifiestan principalmente 
+en la nuca, espalda y hombros (seguido por brazos y manos, y menos frecuentemente en muslos y piernas), los no usuarios, 
+especialmente mecanógrafos, tienden a localizarlos preferentemente en las extremidades superiores e inferiores.
+El desarrollo técnico experimentado en el campo de la informática ha posibilitado la comercialización de equipos de fácil manejo, 
+fiables y económicos, que está permitiendo la rápida informatización de numerosos puestos de trabajo. Es previsible que este 
+desarrollo se continúe, por lo que el número de operadores se multiplicará considerablemente en los próximos años.
+Será preciso, por tanto, establecer medidas preventivas tendentes a evitar un nuevo incremento de este tipo de trastornos, así como 
+reducir la actual incidencia, principalmente entre quienes, por el tipo de tarea realizada o por el tiempo de permanencia ante la pantalla, 
+mayores probabilidades tengan de padecer dolencias músculo-esqueléticas.
+Objetivo
+Con esta nota técnica se pretende dotar de un instrumento que permita valorar la adecuación del diseño del puesto a las 
+características antropométricas del operador, la incidencia del diseño sobre las malas posturas de trabajo adoptadas, así como la 
+estimación del posible estatismo postural.
+Factores causantes de los trastornos músculo-esqueléticos
+Los problemas citados son debidos principalmente a:
+G     Posturas Incorrectas ante la pantalla
+G     Estatismo postural
+Posturas Incorrectas ante la pantalla
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1987
+
+Mencionaremos como las más frecuentes: inclinación excesiva de la cabeza, inclinación del tronco hacia adelante, rotación lateral de la 
+cabeza, flexión de la mano, desviación lateral de la mano y fémures inclinados hacia abajo.
+Se ha hallado que la fatiga muscular en la nuca se incrementa considerablemente a partir de una inclinación de la cabeza de más de 
+30º. (Es bastante frecuente que los operadores adopten ángulos entre los 50 y 60º).
+La posición del tronco es de vital importancia. Un busto inclinado hacia adelante, sin que exista apoyo en el respaldo ni de los 
+antebrazos en la mesa, origina una importante presión intervertebral en la zona lumbar, que podría ser causa de un proceso 
+degenerativo de la columna en esa zona.
+Una rotación lateral (giro) de la cabeza de más de 20º se relaciona con una mayor limitación de la movilidad de la cabeza y con dolores 
+de nuca y hombros.
+La flexión excesiva de la mano respecto al eje del antebrazo, tanto en el plano vertical como horizontal, puede originar trastornos en los 
+antebrazos. Se ha hallado una mayor incidencia de éstos con valores superiores a los 200, para la flexión o la desviación lateral 
+(abducción ulnar).
+La inclinación del fémur hacia abajo puede causar una mayor presión de la silla sobre la cara posterior del muslo, originando una peor 
+circulación sanguínea en las piernas.
+Estatismo postural
+Un factor de gran incidencia en los dolores y trastornos musculares es la contracción muscular mantenida durante horas, asociada a la 
+inmovilización de los segmentos corporales en determinadas posiciones y a una gestualización importante de las manos en el teclado.
+La contracción muscular prolongada origina una dificultad circulatoria a la zona, causa de la fatiga muscular y demás trastornos 
+manifestados por los operadores.
+El estatismo es mayor cuanto más forzada es la postura y cuanto menor es el número de apoyos existentes que alivien la tensión de 
+los músculos (como el apoyo de la mano en el teclado, del antebrazo en la mesa y/o apoyabrazos, de la espalda en el respaldo de la 
+silla, etc.).
+Diseño del puesto y posturas de trabajo
+Las características y situación de los elementos del puesto (incluido el mobiliario utilizado) van a condicionar las posturas de trabajo 
+adoptadas. Existe una relación directa entre el diseño del puesto y las molestias músculo-esqueléticas manifestadas por los 
+operadores de P.V.D. (Fig. 1)
+Fig. 1: Factores del diseño geométrico. Incidentes en las molestias músculo-esqueléticas
+Sin embargo, aún siendo uno de los aspectos que más inciden en la postura de trabajo, no es el único.
+La calidad de iluminación (reflejos en el tubo, contrastes existentes), la nitidez de los caracteres en la pantalla, la calidad de la 
+presentación de la información en el documento o en la pantalla, guardan también una estrecha relación con las posturas de trabajo 
+adoptadas.
+La incidencia de todos estos factores será más importante cuanto mayor sea el tiempo de permanencia ante la pantalla, cuanto menos 
+adecuada sea la distribución de las pausas de trabajo, y cuanto más repetitivas sean las tareas a realizar, pues el estatismo postural 
+será más importante.
+En la Tabla 1 se recogen algunas de las posibles implicaciones de la disposición de los elementos de trabajo en la postura adoptada.
+
+Tabla 1: Causa de algunas posturas incorrectas
+Valores recomendados
+Posturas de trabajo
+No puede definirse con carácter general la postura de trabajo más idónea para el trabajo con P.V.D., entre otros motivos, por la 
+variación considerable de exigencias visuales y gestuales entre unas y otras tareas. No obstante, sí pueden darse unas cuantas 
+recomendaciones generales:
+G     Es de capital importancia que el operador pueda variar la postura a lo largo de la jornada, a fin de reducir el estatismo postural.
+G     Deben evitarse los giros e inclinaciones frontales o laterales del tronco. Actualmente se recomienda que el tronco esté hacia 
+atrás unos 110 - 120º, posición en que la actividad muscular y la presión intervertebral es menor. (Fig. 2)
+Fig. 2: Presión interdiscal y actividad eléctrica de los músculos de la espalda para diferentes inclinaciones del respaldo
+G     La cabeza no estará inclinada más de 20º, evitándose los giros frecuentes de ella.
+
+G     Los brazos deben estar próximos al tronco y el ángulo del codo no ser mayor de 90º. Las muñecas no deben flexionarse, ni 
+desviarse lateralmente, más de 20º.
+G     Los muslos deben permanecer horizontales, con los pies bien apoyados en el suelo.
+G     Para reducir el estatismo, los antebrazos deben contar con apoyo en la mesa y las manos en el teclado o en la mesa. Muy 
+importante es procurar un buen apoyo de la espalda en el respaldo, sobre todo de la zona lumbar.
+Elementos del puesto
+En cuanto a las dimensiones y distancias propuestas para los elementos del puesto, existen variaciones entre los valores propuestos 
+por distintos autores, que pueden ser debidos a los criterios seguidos por unos y otros para su establecimiento. (Fig. 3)
+Fig. 3: Dimensiones recomendadas para puestos ante pantalla
+Actualmente, se tiende a recomendar la máxima flexibilidad en la ubicación y regulación de los elementos del puesto, de manera que el 
+operador pueda ajustarlos en función de sus dimensiones corporales, del grado de fatiga postural experimentado e incluso, de sus 
+preferencias personales. (Fig. 4)
+Fig. 4: Ajustes necesarios de los elementos de puesto en PVD
+En la se recogen las recomendaciones ergonómicas de carácter general, para los elementos del puesto.
+
+Tabla 2: Recomendaciones para los elementos del puesto
+Método propuesto para la evaluación del diseño del puesto
+El método pretende dotar a los técnicos de un instrumento de fácil aplicación que posibilite estimar la incidencia del diseño del puesto 
+sobre las posturas observadas.
+Su aplicación supone:
+G     La observación de la situación y características de los elementos del puesto, la medición de las dimensiones de tubo y teclado.
+G     Valoración de las dimensiones de la mesa y de las posibles regulaciones de mesa silla y reposapiés.
+G     Observación de las posturas de trabajo adoptadas durante la jornada.
+Instrumentos necesarios
+Cinta métrica.
+Ficha "Elementos del puesto".
+Cuadro "Posturas observadas".
+Cumplimentación de la ficha "Elementos del Puesto";
+Esta ficha requiere la observación y la medición de los diferentes aspectos relativos a la disposición y características de los elementos 
+del puesto. Su cumplimentación puede ser realizada en pocos minutos.
+
+Ficha "Elementos del puesto"
+Cumplimentación del cuadro "posturas observadas"
+Para ello, a lo largo de la jornada de trabajo ante la pantalla se realizarán observaciones frecuentes y puntuales, anotando la posición 
+de cada segmento en cada período observado. Al final de la jornada, podremos valorar las posiciones más frecuentes, que serán 
+reflejo de un posible estatismo de la postura (1).
+En el modelo de ficha se proponen 5 observaciones desde el comienzo al final de la jornada. Cuantas más observaciones se realicen, 
+menor será el error de la estimación.
+
+CUADRO Posturas observadas
+(1) Este método está basado en el propuesto por Tisserand y Schouller y validado por el Institute Nacional de Recherche et de 
+Securité (I.N.R.S.)
+Análisis y valoración de los resultados
+Una vez recogidos los datos, se analizarán los resultados teniendo como referencia los valores recomendados en el apartado 5. Así 
+podremos valorar: la adecuación del puesto y de las posturas observadas, y la posible tendencia a un estatismo postural.
+El análisis de la relación causa-efecto entre el diseño del puesto y las posturas adoptadas es algo más complejo, ya que en la postura 
+pueden incidir también otros aspectos, como la calidad de la iluminación.
+Asimismo, también las exigencias de las tareas, su variabilidad y la organización del tiempo, de trabajo, son factores a tener en cuenta, 
+por su implicación en el estatismo.
+Consideraciones finales
+Este método descrito es posible enriquecerlo con la inclusión de las mediciones antropométricas del operador, tanto de las longitudes 
+de los segmentos, como de los ángulos articulares adoptados por éste durante el trabajo. Para ello, es preciso contar con la 
+instrumentación adecuada. Usualmente se utiliza un goniómetro o medidor de ángulos. En la Fig. 5 se incluyen las mediciones 
+antropométricas que deberían realizarse.
+
+Fig. 5: Antropometría espacial y funcional
+Estos datos harán posible la objetivación de la postura adoptada.
+Datos antropométricos
+Bibliografía
+(1) OCCHIPINTI, E., COLOMBINI, D., MENONI, O., MOLTENI, G., GRIECO, A., 
+Posture di lavoro ed alterazioni del rachide in operatori telefonici addetti a videoterminale 
+Medicina del Lavoro, 1987, Vol. 78, nº 1, 59-67
+(2) BERGGUIST, O.V. 
+Video display terminals and health. A technical and medical appraisal of the stafe of the art 
+Scandinavian Journal of Work, Environment Health, 1984, Vol. 10, supp. 2
+(3) ARNDT, R. 
+Working posture and musculoskeletal problems of video Display Terminal operators - Review and Reappraisal 
+American Industrial Hygiene Association Journal, 1983, vol. 44, nº 6, 437-446
+(4) GRANDJEAN, E., HÜNTING, W., PIDERMANN, M., 
+VDT Workstation design: Prefered settings and their effects 
+Human Factors, 1983, vol, 25, nº 2, 161-175
+(5) TISSERAND, M., SCHOULLER, J.F. 
+Dimensionnement des postes de travail. Application au poste sur terminal écran-clavier. 1) Le diagnostic 
+
+Cahiers de Notes Documentaires, 1981, nº 105, 4º trim., 535-557
+(6) TISSERAND, M., SAULNIER, H. 
+Dimensionnement des postes de travail. Application au poste sur terminal écran-clavier. 2) Conception du poste 
+Cahiers de Notes Documentaires, 1982, nº 103 3er trim., 377-395
+(7) HÜNTING, W., LÄUBLI, TH., GRANDJEAN, E. 
+Postural and visual loads at VDT workplaces - I. Constrained postures 
+Ergonomics, 1981, vol. 24, nº 12, 917-931
+(8) HAGBER, M., SUNDELIN, G. 
+Discomfort and load on the upper trapezius muscle when operating a word processor 
+Ergonomics, 1986, vol. 29, n.º 12, 1637-1645
+(9) CRESPY, J., REY, P. 
+Work on visual display units: risks for health 
+Organización Mundial de la Salud, 1983
+(10) SMITH, A.B., TANAKA, S., HALPERIN, W. 
+Correlates of ocular somatic symptoms among Video Display Terminal Users 
+Human Factors, 1984, vol. 26, N'2, 143-156
+(11) INSHT 
+Problemática de los trabajadores y usuarios de la Informática. El trabajo con Pantallas de Visualización de Datos 
+1985
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-90-011-7 

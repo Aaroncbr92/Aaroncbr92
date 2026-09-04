@@ -1,0 +1,394 @@
+ 
+NTP 602: El diseño ergonómico del puesto de trabajo con 
+pantallas de visualización: el equipo de trabajo
+Conception ergonomique du poste de travail sur terminaux á écran de visualisation: I'equipe du travail 
+Visual display workstations: Equipment ergonomic design.
+Redactores:
+Manuel Fidalgo Vega 
+Ldo. en Psicología
+Clotilde Nogareda Cuixart 
+Lda. en Psicología
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+La presente NTP pretende actualizar la NTP N° 139 ("El trabajo con pantallas de visualización de datos (PVD)") y compendiar los 
+aspectos más relevantes que se han de tener en cuenta en el diseño de un puesto de trabajo que implique el uso de PVD. Dado que 
+en la actualidad existe reglamentación al respecto que establece los requisitos mínimos de diseño, en esta NTP se intentará abordar 
+otros aspectos de diseño, específicamente referidos al equipo de trabajo.
+Introducción
+La normativa específica actual respecto al trabajo con pantallas de visualización de datos (PVD) es resultado de la transposición de la 
+Directiva 90/270/CEE en el Real Decreto 488/1997, de 23 de abril sobre disposiciones mínimas de seguridad y salud relativas al trabajo 
+con equipos que incluyen pantallas de visualización. Para la aplicación e interpretación de este Real Decreto, el Instituto Nacional de 
+Seguridad e Higiene en el Trabajo publica y mantiene actualizada una Guía Técnica para la evaluación y prevención de los riesgos 
+asociados a la utilización de equipos que incluyan PVD. Es posible, además, encontrar una información técnica más detallada en las 
+normas UNE-EN 29241 y UNE-EN ISO 9241, referidas a los requisitos ergonómicos para trabajos de oficina con pantallas de 
+visualización de datos. Muchas recomendaciones de estas normas técnicas podrían hacerse extensivas a otras actividades en las que 
+se utilicen dichos equipos (ver las referencias bibliográficas al final de la presente NTP).
+En esta NTP se analizarán aquellos factores y elementos que conforman y condicionan un puesto con PVD, a partir de los 
+conocimientos técnicos y científicos actuales, centrándose el contenido en los requisitos preventivos básicos de diseño del puesto de 
+trabajo que hacen referencia al equipo de trabajo. También esta Nota Técnica pretende ofrecer las líneas básicas de diseño de los 
+elementos que configuran el equipo de trabajo a partir de la normativa básica, ampliando algunos aspectos no contemplados en la 
+misma.
+Definición de elementos básicos implicados en el trabajo con PVD
+Con el fin de acotar el terreno en el que se define el diseño del puesto de PVD que aquí se expone, es conveniente definir los tres 
+elementos básicos: "pantalla de visualización", "puesto de trabajo" y "trabajador usuario" de PVD.
+El Real Decreto 488/1997 y la Guía Técnica abordan conceptualmente estos elementos, que esencialmente se definen así:
+Pantalla de visualización: "Se entiende por "pantalla de visualización " una pantalla alfanumérica o gráfica, independientemente del 
+método de representación visual que utiliza. Se incluyen las pantallas de visualización convencionales (con tubo de rayos catódicos), 
+así como las pantallas basadas en otras tecnologías (de plasma, de cristal líquido, etc.), las pantallas de visualización no basadas en la 
+tecnología electrónica, como es el caso, por ejemplo, de las pantallas de visualización de microfichas. También se considera las 
+pantallas utilizadas en control de procesos, control del tráfico aéreo, etc.".
+Más adelante, la Guía Técnica especifica que el único elemento que siempre debe existir, por definición, es la pantalla de visualización; 
+"el resto de los elementos pueden estar presentes o no en el puesto", poniendo por ejemplo puestos de trabajo en salas de control en 
+los que el trabajador debe atender a la información que aparece en la pantalla, pero sin embargo no están presentes los demás 
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 2001
+
+elementos.
+Trabajador, usuario de PVD: "Cualquier persona que habitualmente y durante una parte relevante de su trabajo normal utilice un equipo 
+con pantalla de visualización. Quedan excluidos los puestos de conducción de vehículos o máquinas, los sistemas informáticos 
+destinados prioritariamente a ser utilizados por el público, los sistemas portátiles -en la medida que no se utilicen de un modo 
+continuado en el puesto de trabajo-, las calculadoras, cajas registradoras y demás equipos dotados de un pequeño dispositivo de 
+visualización de datos o medidas y las máquinas de escribir de diseño clásico".
+Puesto de trabajo con PVD: viene definido como "el conjunto que consta de un equipo con PVD provisto, en su caso, de un teclado o 
+un dispositivo de entrada de datos, de un programa, de accesorios ofimáticos opcionales (por ej., un módem, un scanner, una 
+impresora), un asiento, una mesa o superficie de trabajo y el entorno laboral inmediato".
+Factores y elementos básicos que deben considerarse en el diseño
+Son aquellos aspectos y elementos de trabajo que, si no reúnen las condiciones ergonómicas adecuadas, son susceptibles de 
+favorecer la aparición de alteraciones, principalmente osteomusculares, visuales o relacionadas con la fatiga mental, en la salud de las 
+personas que trabajan con PVD. Los aspectos que se han de tener en consideración en los puestos equipados con pantallas de 
+visualización son: el equipo informático, el mobiliario del puesto, el medio ambiente físico y la interfaz persona/ordenador. Hay que 
+tener igualmente en cuenta la organización del trabajo.
+Los elementos de los que se pueden derivar los riesgos están relacionados en latabla 1.
+TABLA 1 
+Factores que se han de tener en cuenta en el puesto de PVD
+EL EQUIPO DE TRABAJO
+EL ENTORNO DE TRABAJO
+LA ORGANIZACIÓN DE TRABAJO
+G     Pantalla
+G     Filtros
+G     Soporte de monitor
+G     Teclado y otros dispositivos de entrada 
+de datos
+G     Reposamuñecas
+G     Mesa o superficie de trabajo
+G     Documentos
+G     Portadocumentos o atril
+G     Asiento
+G     Cableado
+G     Equipos portátiles
+G     Postura de trabajo
+G     Espacio
+G     Iluminación
+G     Reflejos y deslumbramientos
+G     Ruido
+G     Vibraciones
+G     Condiciones termohigrométricas
+G     Emisiones electromagnéticas
+G     Interconexión ordenador-persona
+G     Elementos materiales
+G     Consulta y participación de los 
+trabajadores
+G     Formación e información de los 
+trabajadores
+G     Desarrollo del trabajo diario
+G     Pausas y cambios de actividad
+El diseño ergonómico deberá conseguir que los distintos elementos del sistema formen un todo coherente, considerando la interacción 
+entre individuo y entorno en su totalidad. El objetivo es proyectar un sistema que tenga en cuenta las capacidades y las limitaciones del 
+ser humano, atendiendo tanto a factores físicos (antropometría, biomecánica) como mentales (capacidad perceptiva, de procesamiento 
+de información, toma de decisiones...).
+La norma UNE 81-425-91: "Principios ergonómicos a considerar en el proyecto de los sistemas de trabajo" (ISO 6385-1981) dice, en el 
+apartado "campos de aplicación", que: los principios ergonómicos que se especifican en esta norma europea se aplican al proyecto de 
+las condiciones de trabajo óptimas en relación con el bienestar de la persona, su salud y a su seguridad, teniendo en cuenta la 
+eficiencia tecnológica y económica y, así mismo, define lo que es "sistema de trabajo" como el sistema que comprende la combinación 
+de personas y medios de trabajo, actuando en conjunto sobre el proceso de trabajo, para llevar a cabo una actividad laboral, en un 
+espacio de trabajo, sometidos a un determinado ambiente de trabajo y bajo unas condiciones impuestas por la tarea a desempeñar.
+A partir de estos principios, y tal como se ha especificado en la introducción, esta NTP se centrará en las necesidades de diseño de los 
+elementos del equipo de trabajo.
+El equipo de trabajo
+A la hora de diseñar el puesto de trabajo se debe considerar la variabilidad de las dimensiones antropométricas de los posibles 
+usuarios. Para el trabajo en posición sentado, debe habilitarse el suficiente espacio para alojar los miembros inferiores y para permitir 
+los cambios de postura en el transcurso de la actividad. Las medidas del espacio para los miembros inferiores (dependerá de las 
+medidas antro pométricas) serán de un mínimo de 60 cm de ancho por 65/70 de profundidad.
+Hay que tener en cuenta también en cuanto al acceso y la ubicación del puesto, que debe existir suficiente espacio para permitir al 
+usuario el acceso al mismo sin dificultad, así como para que pueda tomar asiento y levantarse con facilidad. En la disposición de los 
+puestos se debe tener en cuenta la organización de la actividad, la interacción de los grupos, las necesidades de comunicación y lo 
+relativo a los planes de emergencia.
+Recomendaciones generales
+Al estar ante un equipo de trabajo de PVD, a efectos preventivos y de confort, es preciso tener en cuenta una serie de aspectos de 
+
+carácter general:
+G     Es necesario formar a los usuarios sobre el buen uso, desde el punto de vista ergonómico, del equipo de trabajo.
+G     Las condiciones que determinan una adecuada visión deben ser óptimas para el tipo de tarea que se realiza, en materiales, 
+disposición, cantidad y calidad. Así, las luminarias deben estar en línea con el puesto de trabajo, las ventanas deben quedar 
+fuera del campo visual, las luminarias se recomiendan con fluorescentes y con rejilla, la pintura y decoración de la sala debe ser 
+clara y mate, etc.
+G     Es preciso situar el equipo en el centro de la zona de confort del campo visual, sin que esto obstaculice el contacto visual con 
+los clientes u otras personas necesarias en la relación de trabajo.
+G     Debe distribuirse el puesto de una forma racional, con los cables del equipo ocultos bajo regletas, con longitudes adecuadas, 
+con suficientes tomas de luz, etc.
+G     Si se utilizan diferentes equipos de trabajo, es recomendable situarlos a la misma distancia. No obstante, se debe emplazar el 
+equipo que más se utilice en la zona de confort de alcance. Esta zona de confort se define como aquella área barrida por 
+ambas manos sin cambiar de postura.
+G     Siempre hay que considerar la lateralidad del sujeto, si es zurdo o diestro, a efectos de diseño del equipo y colocación de 
+material de trabajo.
+G     La postura correcta debe ser compatible con la utilización de diferentes equipos de trabajo.
+G     Es conveniente que los colores presentes en el equipo y entorno inmediato sean armónicos.
+G     La luminancia de los diferentes equipos de trabajo debe homogeneizarse, de forma que no existan grandes diferencias.
+A continuación se analizan los distintos elementos que componen el equipo de trabajo.
+Pantalla
+En la norma técnica UNE-EN 29241.3 se encuentran una serie de recomendaciones para las pantallas de ordenador. Algunos 
+requisitos no son directamente verificables por el usuario, aunque, a través de las especificaciones del fabricante, se pueden 
+contrastar. La Guía Técnica sobre evaluación y prevención de los riesgos relativos a la utilización de equipos con PVD especifica 
+algunas de las características que se han de tener en cuenta (ver tabla 2)
+TABLA 2 
+Características de la pantalla
+G     Tamaño y resolución: según tipo de tarea y distancia de visión
+G     Luminancia y contraste: posibilidad de ajuste
+G     Control de reflejos: acondicionamiento del entorno
+G     Intervención en la pantalla
+G     Distancia de lectura: superior a 40 mm
+Resulta importante destacar que la pantalla se ha de colocar de forma que las áreas de trabajo que hayan de ser visualizadas de 
+manera continua tengan un "ángulo de la línea de visión" comprendido entre la horizontal y 60° por debajo de la misma (ver figura 1). 
+No obstante, la zona preferida por los usuarios, según diversos estudios, se sitúa entre la línea de visión horizontal (ángulo de 0°) y un 
+ángulo de 30°. Además, cualquier pantalla debe de ser legible desde cualquier ángulo de visión, al menos hasta 40° desde la normal a 
+la superficie de pantalla, medido en cualquier plano de la misma, siendo el óptimo 0° (verfigura 2).
+FIGURA 1 
+Ángulo de la línea de visión
+FIGURA 2 
+Ángulo de visión
+
+Desde hace tiempo, se están imponiendo poco a poco las pantallas de cristal líquido. En relación con las ventajas e inconvenientes que 
+tienen las pantallas de cristal líquido sobre las de rayos catódicos hay que destacar dos aspectos: la forma en que se generan las 
+imágenes y las condiciones de iluminación. Sobre el primero, las pantallas de cristal líquido no emiten radiaciones, puesto que la 
+técnica para generar imágenes no utiliza emisiones de electrones, asimismo, el fenómeno del parpadeo es prácticamente inapreciable. 
+Respecto al segundo aspecto, la presencia de reflejos y la pérdida de contraste en la pantalla dependen del acabado superficial 
+(tratamientos antirreflejos) de la misma y de la disposición del puesto con respecto a las fuentes de luz.
+Las ventajas que ofrecen las pantallas de cristal líquido son su bajo consumo de energía y la propiedad, como imagen pasiva, de ser 
+legibles incluso a la luz del sol, además de su poca profundidad.
+La Norma UNE-EN ISO 13406 sobre «Requisitos ergonómicos para trabajos con pantalla de visualización de panel plano" especifica 
+que: las pantallas de panel plano reflectivas y transreflectivas proporcionan mejores resultados en entornos con una iluminación mayor 
+que los aceptables para pantallas de tubo de rayos catódicos y para pantallas emisivas de panel plano.
+La aparición de reflejos en la pantalla, sin que deslumbren, hace que se vean afectadas las condiciones de contraste para trabajar en la 
+misma, además, se puede ver afectada la visión si persiste la exposición.
+Estos reflejos se pueden controlar:
+G     Modificando las condiciones del entorno medioambiental donde se ubica la pantalla:
+G     Eligiendo el tipo de luminarias y la disposición de las mismas.
+G     Teniendo en cuenta otras fuentes de luz, como las ventanas, para así determinar la posición geométrica de la pantalla.
+G     Colocando la pantalla en la ubicación más idónea.
+G     Interviniendo sobre la propia pantalla, habitualmente, mediante un filtro.
+El criterio para prevenir la aparición de reflejos debe recaer esencialmente en modificar las condiciones ambientales donde se ubica la 
+pantalla.
+Filtros
+Aunque los filtros antirreflejos no están cubiertos actualmente por la norma, hay tres partes en la ISO 9241 que concierne a este 
+elemento: ISO 9241-3 - Requisitos para las pantallas de visualización de datos, ISO 9241-7 - Requisitos de las pantallas con 
+reflexiones, ISO 9241-8 - Requisitos para pantallas coloreadas. No obstante, teniendo en cuenta los estudios técnicos, respecto al uso 
+de los filtros en las pantallas, hay que hacer las siguientes consideraciones:
+G     Las reflexiones parasitarias deben evitarse interviniendo en el entorno mediante una correcta disposición de los elementos y 
+fuentes de iluminación.
+G     El uso de filtros disminuye la luminancia y el contraste, además de exigir unas labores de mantenimiento, limpieza y 
+desempolvado muy frecuentes (aunque algunos tienen toma de tierra). También tienen el inconveniente de ser muy sensibles a 
+las impresiones digitales.
+G     Los filtros más comunes que se utilizan son de cristal con tratamiento antirreflejo. Parece que los filtros que mejor rendimiento 
+presentan actualmente son los filtros con tratamiento antirreflejo de polarización circular. Además, existen filtros diseñados con 
+micropersianas que tienen como objetivo mantener la privacidad del trabajador a la hora de utilizar la PVD, puesto que por este 
+motivo, en muchas ocasiones, se puede perturbar el desempeño de las tareas. No obstante, el uso de los filtros es una medida 
+que se tomará sólo en último extremo, cuando no se pueda corregir con medidas de diseño.
+En cualquier caso, a la hora de elegir un filtro, es conveniente asegurarse de que esté probada la actuación óptica de dicho filtro. Que 
+estén testados usando la norma ISO 9241 puede ser una garantía de que cumplen su verdadero cometido al ser usados.
+Soporte de monitor
+Se trata de un elemento importante para poder regular los ángulos de visión y situar la pantalla en la zona más confortable para el 
+usuario.
+La movilidad del monitor debe permitir la rotación horizontal libre (90°) y una inclinación vertical de 15° aproximadamente, siendo 
+
+aconsejable la regulación de la altura. Si la movilidad está reducida a causa de un diseño especial del puesto de trabajo, es necesario 
+evitar las posturas forzadas de carácter permanente.
+El soporte del monitor aumenta la posibilidad de movilidad de la pantalla. Esto favorece la adopción de posturas correctas al disponer 
+de regulación suficiente para colocar el monitor en la altura adecuada (la altura de la primera línea de la pantalla no debe estar por 
+encima del nivel de los ojos).
+Las recomendaciones ergonómicas vigentes implican a este elemento (ver figura 1 y 2), puesto que resulta determinante a la hora de 
+orientar la pantalla hacia un ángulo de visión óptimo o entre los límites recomendados (40°).
+Teclado
+Este elemento deberá permitir al trabajador localizar y usar las teclas con rapidez y precisión, sin que le genere molestias o disconfort. 
+Además, debe permitir la movilidad e independencia respecto al resto del equipo, y es necesario posibilitar su reubicación conforme a 
+los cambios de tarea o de postura del usuario. Asimismo, algunas características del teclado, como su altura, grosor e inclinación 
+pueden influir en la adopción de posturas incorrectas y originar trastornos en los usuarios. Para prevenir estos riesgos, el diseño del 
+teclado debe cumplir una serie de requisitos, descritos en la normativa técnica. La utilización continuada del teclado ha demostrado que 
+puede ser causa de patología osteomuscular, como por ejemplo la tendinitis, la tenosinovitis o el síndrome del túnel carpiano. El 
+correcto diseño y la colocación del teclado, conjuntamente con el establecimiento de pausas y la reducción en los ritmos de trabajo, 
+parecen reducir estas alteraciones.
+Una variable que está en continua investigación es el papel que puede jugar el diseño del teclado. Existen en el mercado algunos 
+diseños novedosos que suelen perseguir la reducción en las alteraciones músculo-esqueléticas debido a la postura forzada del 
+segmento manomuñeca (tienen como objetivo conseguir una postura natural) y al movimiento y la fuerza de los dedos y la prevención 
+de alteraciones consecuentes como síndrome de túnel carpiano, tendinitis u otras.
+A pesar de que se presentan como alternativas ergonómicas y aunque existen algunos estudios, la falta de evidencia hace que sea 
+difícil todavía confirmar los beneficios de cada uno de los diseños propuestos. Algunos teclados pueden ser adecuados para algunas 
+personas, en algunos puestos, pero no puede generalizarse que un diseño determinado sea más adecuado bajo cualquier 
+circunstancia.
+El más extendido es el teclado partido. En algún estudio sobre algunos nuevos diseños de teclados alternativos se ha llegado a la 
+conclusión de que, una vez superado el periodo de adaptación, la mayoría de los usuarios prefiere este tipo de teclado a los 
+tradicionales, alegando que permite una postura más cómoda y que reduce las molestias. La mayor parte de los usuarios aprende con 
+rapidez a utilizarlos; una vez pasado un breve periodo en el que se reduce la rapidez y la precisión, en general, en muy pocos días se 
+recupera el rendimiento habitual. El aprendizaje, lógicamente, puede costar algo más en personas con mayor experiencia cuyos 
+movimientos se realizan de manera más automatizada.
+Una utilidad de los teclados alternativos es la posibilidad de desarrollo de aplicaciones específicas que ofrezcan a las personas con 
+discapacidad la posibilidad de comunicación o de integración al mundo laboral aumentando su participación en la sociedad y su grado 
+de independencia. Actualmente existen diseños alternativos como solución al problema de accesibilidad a los ordenadores. La 
+selección del dispositivo adecuado depende de las posibilidades de movimiento del usuario. Existen en el mercado: teclados más 
+amplios para personas con capacidad de precisión reducida o de menor tamaño para personas con limitaciones en el movimiento; 
+teclados para utilizar con una sola mano; teclados visuales, utilización de punteros, etc.
+Para algunos trabajos de precisión, por ejemplo en la industria de artes gráficas (maquetas, publicidad) no es suficiente un teclado. Así, 
+es necesario disponer de medios como la tabla gráfica, el "touch-screen" (pantalla táctil), el " joystick" (palanca de mandos) y el ratón. 
+Respecto al ratón, debido a su uso, cada vez más generalizado y continuo, hay que destacar algunas características que se han de 
+tener en cuenta:
+G     Debe adaptarse a la curva de la mano.
+G     El movimiento por la superficie sobre la que se desliza debe resultar fácil.
+G     Se utilizará tan cerca del lado del teclado como sea posible.
+G     Se sujetará entre el pulgar y el cuarto y quinto dedos. El segundo y el tercero deben descansar ligeramente sobre los botones 
+del ratón.
+G     Debe permitir el apoyo de parte de los dedos, mano o muñeca en la mesa de trabajo, favoreciendo así la precisión en su 
+manejo.
+G     Se mantendrá la muñeca recta (utilizar un reposabrazos, si es necesario).El manejo del ratón será versátil y adecuado a 
+diestros y zurdos.
+Reposamuñecas
+Se trata de un accesorio que persigue, en su uso, la reducción de la carga estática de los miembros superiores. Así, favorece la 
+alineación correcta de la muñeca mientras se trabaja. La correcta alineación se consigue cuando el antebrazo, la muñeca y la mano 
+forman una línea recta. Se aconseja, y con este elemento se evita, no flexionar las manos hacia arriba, abajo o los lados, puesto que 
+puede provocar problemas de incomodidad, cansancio o problemas más serios.
+Las características de un diseño adecuado deben responder a las siguientes pautas:
+G     No debe restringir el teclado o la postura más cómoda del usuario
+G     La superficie debe coincidir con la altura del teclado
+G     Su profundidad debe estar entre 5 y 10 cm
+G     Sus bordes no deben ser cortantes
+
+G     La anchura debe ser como la del teclado o la adecuada para el trabajo
+G     El soporte debe ser estable en su uso, evitando que se deslice
+La mesa o superficie de trabajo
+Una de las preguntas más frecuentes es cuál es la medida recomendada para una mesa de ordenador. Se hace muy difícil establecer 
+recomendaciones al respecto, ya que la superficie de trabajo dependerá de las tareas que deban realizarse y, sobre todo, de los 
+elementos que sea necesario disponer en ella. Las medidas han de ser tales que permitan que el equipo de trabajo se pueda colocar 
+correctamente. Para tareas generales de oficina, las medidas aproximadas mínimas de la superficie, pueden ser de 80 cm por 120 cm. 
+Puede ser necesaria una anchura algo mayor a fin de asegurar que entre el teclado y el borde libre de la mesa quede una distancia de 
+5 a 10 cm., actuando así ese espacio de reposamanos.
+Es importante tener en cuenta la altura de la mesa con relación a la altura de la silla y de las personas usuarias: el conjunto ha de 
+permitir la realización del trabajo facilitando el cambio postural, a partir de la postura de referencia. Para ello es recomendable que la 
+mesa tenga una altura ajustable. La Guía establece que si se dispone de tableros ajustables en altura, el rango de regulación debe 
+situarse entre el percentil 5 femenino y el 95 masculino de la población de posibles usuarios/as. Para aquellas personas que estén 
+fuera de dichos límites, puede ser necesario recurrir a la adaptación individualizada.
+En el caso de usar una bandeja ajustable de teclado, ésta deberá cumplir los siguientes criterios: posibilidad de ajuste y regulación a 
+las medidas antropométricas de los usuarios, adaptación al cambio de postura (de pie y sentado), adaptabilidad al mobiliario o equipo 
+de trabajo y movilidad del usuario. Esta bandeja, teniendo en cuenta criterios de diseño (Norma ISO 9241-5) como son el ajuste, el 
+cambio de postura, la adaptabilidad y la movilidad, permite:
+G     Situar el teclado y el ratón a una altura y en una posición más adecuada a las características antropométricas del trabajador; 
+facilitando el apoyo de los pies sobre el suelo.
+G     Trabajar de pie o sentado, fomentando así el confort de la espalda, reduciendo la carga muscular y los problemas 
+musculoesqueléticos.
+G     Soportar correctamente el cuerpo y cambiar de posición, favoreciendo la circulación.
+G     Utilizar el equipo diversas personas con características físicas diferentes, permitiendo, debido a la versatilidad en sus ajustes, 
+cambios de postura y movimientos frecuentes. Además, proporciona una correcta posición de las muñecas.
+Es muy frecuente, especialmente en instalaciones de ordenador en el propio domicilio, la utilización de mesas compactas en las que 
+pueden situarse los distintos elementos del puesto. La principal ventaja que ofrece este tipo de mesas es el ahorro de espacio, sin 
+embargo, pueden ser poco adecuadas en puestos en los que sea necesario utilizar otros elementos, ya que su superficie suele ser muy 
+reducida, habiendo espacio sólo para el ordenador. En caso de disponer de esta mesa, es preciso asegurarse de que hay espacio 
+suficiente para disponer los distintos elementos y equipos necesarios para la realización de la tarea y que sus dimensiones aseguren 
+una postura adecuada a partir de los criterios de la "postura de referencia".
+Un aspecto al que hay que prestar atención en caso de que se disponga de una superficie retráctil para el teclado, lo que podría 
+optimizar en altura la disposición del teclado, es que dicha altura no impida que haya un espacio suficientemente holgado para las 
+piernas. Para determinar con exactitud la medida adecuada, lo recomendable sería tener en cuenta el valor del percentil 95 (o 99) de la 
+población usuaria. Algunas recomendaciones ergonómicas aconsejan un espacio mínimo de 18 cm.
+El portadocumentos o atril
+En tareas donde el trabajador de PVD usa documentos impresos, se recomienda la utilización de un atril cuando habitualmente se 
+trabaje con documentos. Este dispositivo proporciona la correcta colocación de los documentos, ya que estos se encuentran así a la 
+misma altura y el mismo plano de visión que el monitor. Para ello deberá estar situado lo más cerca posible del monitor.
+Para que este elemento sea adecuado, la Guía de PVD contempla los aspectos que se detallan en la tabla 3.
+TABLA 3 
+Requisitos del portadocumentos
+G     Estable en altura, inclinación y distancia
+G     Opaco y de baja reflectancia
+G     Resistencia suficiente
+Desde el punto de vista del diseño ergonómico, además, es deseable que:
+G     Se pueda colocar a la derecha o a la izquierda, a fin de poder ser útil tanto para personas diestras como zurdas.
+G     Que la base donde reposan las hojas disponga de ranuras para que no se resbalen las hojas.
+G     Su emplazamiento ha de permitir que el usuario no realice giro s de cabeza y tronco.
+Documentos
+Con el fin de evitar una carga visual inútil, los documentos que se usen deben de responder a unas características:
+G     Se utilizará papel mate, con baja reflectancia y suficiente contraste entre escritura y papel.
+
+G     Se recomienda que permita en un margen de ajuste de 15° a 75°. Así, la inclinación del documento también depende de las 
+demandas de la tarea. Una inclinación de 70° puede ser adecuada para adaptarse al nivel de la pantalla y facilitar el paso de 
+páginas.
+G     Se debe leer el texto del documento sin que presente dificultad.
+G     Los contornos de los caracteres serán netos.
+G     El documento ha de estar a una distancia igual a la existente del ojo a la pantalla.
+G     No es adecuado trabajar con documentos que estén dentro de transparencias de protección.
+El asiento
+Las recomendaciones de diseño del asiento quedan recogidas en la Guía de PVD. (tabla 4)
+Hoy en día es habitual la utilización de asientos con apoyabrazos, ya que éstos facilitan el cambio de postura y reducen la carga 
+muscular de la zona cuello-hombro. Es recomendable que sean ajustables en altura, especialmente en puestos que deban ser 
+ocupados por más de una persona (por rotación o por turnicidad), de manera que se asegure que cumplen su función y no obligan a 
+posturas forzadas de los brazos, por una altura excesiva o del cuerpo, por altura insuficiente. También pueden ser de utilidad los 
+reposabrazos abatibles en puestos en los que se alterne la tarea de ordenador con otro tipo de tarea.
+TABLA 4 
+Requisitos del asiento
+G     La altura del asiento debe ser ajustable.
+G     El respaldo debe tener una suave prominencia para apoyar la zona lumbar. Su altura e inclinación deben ser ajustables.
+G     La profundidad del asiento debe ser regulable, de tal forma que se pueda utilizar eficazmente el respaldo, sin que el borde del 
+asiento presione las piernas.
+G     Todos los mecanismos de ajuste deben ser fácilmente manejables desde la posición sentada y estar construidos a prueba de 
+cambios no intencionados.
+G     Se recomienda la utilización de sillas dotadas de ruedas. La resistencia de las ruedas debe evitar desplazamientos 
+involuntarios.
+Otro aspecto que se ha de considerar es el recubrimiento del asiento. Este debería ser de un material transpirable, sin embargo, debe 
+tenerse en cuenta que en puestos en los que se esté expuesto a ambientes de polvo o a la manipulación de productos químicos, 
+deberá elegirse un tipo de material no absorbente.
+Una correcta relación mesa/silla debe permitir una postura adecuada. Cuando esto no ocurre puede recurrirse a la utilización de 
+reposapiés. La Guía especifica que el reposapiés (el Real Decreto 488/1997 establece que deberá ponerse a "disposición de quienes 
+lo deseen") puede ser necesario en aquellos casos en que la altura de la mesa no sea ajustable y la altura a la que el usuario ha de 
+regularse la silla no le permita apoyar adecuadamente los pies en el suelo.
+También sería conveniente disponer de freno o bloqueo de las ruedas, con el fin de que se pueda fijar una posición estática óptima de 
+trabajo, dado que algunos apoyos sobre el reposapiés o cualquier movimiento de las piernas pueden desplazar el asiento hacia atrás 
+cuando se pretende estar en posición estática.
+Cableado
+Se deberán tener en cuenta algunas consideraciones en este aspecto:
+G     La disposición del cableado en el lugar de trabajo no ha de suponer en su trayecto un obstáculo para las zonas de paso.
+G     La longitud que se emplee debería ser suficientemente holgada como para introducir cualquier modificación en el equipo 
+(periféricos, cambio de ubicación de un elemento, etc.).
+G     Se recomienda que los enchufes y las tomas de corriente tengan el menor recorrido posible
+G     El acceso a las conexiones principales debe ser fácil. • No se recomienda conectar más de tres enchufes por toma.
+G     Utilizar puestas a tierra y diferenciales de alta sensibilidad.
+G     El cableado de transmisión de datos ha de estar separado del cableado eléctrico.
+G     Se han de establecer rutinas de mantenimiento de las conexiones y del propio cableado, de forma que la seguridad del 
+trabajador quede garantizada, sin que este hecho interrumpa las actividades del operador.
+Trabajo con equipos portátiles
+El Real Decreto 488/1997 especifica que los equipos portátiles quedan excluidos del ámbito de aplicación del mismo, siempre y cuando 
+no se utilicen "de modo continuado en un puesto de trabajo". Hay que constatar que cada vez es más frecuente, especialmente en 
+algunas tareas (vendedores, servicios profesionales, periodistas, traductores....), la utilización de manera habitual de estos equipos 
+para el desempeño del trabajo. Es evidente que el diseño de este tipo de equipos no cumple los requisitos de diseño, por lo que no 
+facilita la disposición ergonómica de los elementos.
+Los principales problemas que podemos citar en relación con estos equipos son, en primer lugar, que el tamaño de la pantalla puede 
+ser insuficiente para permitir un tamaño adecuado de los caracteres. Además, por norma general, el teclado y la pantalla no son 
+independientes, por lo que se hace difícil conjugar las exigencias de distancia de lectura y la posición adecuada de mano-brazo. Otro 
+aspecto que se ha de considerar es el de los dispositivos de entrada de datos ya que al tener un tamaño menor que los habituales 
+(tanto el teclado como el ratón) obliga a posturas y movimientos forzados de los dedos. Para paliar estos inconvenientes debe formarse 
+
+a los usuarios, a fin de que establezcan hábitos de trabajo adecuados y controlen el tiempo de dedicación al mismo con este tipo de 
+equipo. Puede resultar útil el disponer de "puertos" para la descarga de datos; es decir, disponer de un puesto de trabajo convencional 
+en el centro de trabajo donde puedan volcarse los datos del ordenador portátil. Además, en algún estudio sobre el tema se cita, como 
+un problema añadido a la utilización de PVD, el manejo de cargas. Puede resultar útil, en el momento de la elección del equipo, tener 
+en cuenta el peso del mismo.
+Es importante que los usuarios informen rápidamente de los posibles síntomas relacionados con el uso de estos equipos.
+Bibliografía
+1.  Ley de Prevención de Riesgos Laborales (Ley 31/1995, de 8 de noviembre. B.O.E. nº 269, de 10 de noviembre).
+2.  Reglamento de los Servicios de Prevención (Real Decreto 39/1997, de 17 de enero. B.O.E. nº 27, de 31 de enero).
+3.  Reglamento sobre Pantallas de Visualización (Real Decreto 488/1997, de 14 de abril. B.O.E. nº 97, de 23 de abril).
+4.  Reglamento sobre Lugares de Trabajo (Real Decreto 486/1997, de 14 de abril. B.O.E. nº 97, de 23 de abril).
+5.  UNE-EN 29241 - «Requisitos ergonómicos para trabajos de oficina con pantallas de visualización de datos».
+6.  UNE-EN-ISO 9241 - «Requisitos ergonómicos para trabajos de oficina con pantallas de visualización de datos».
+7.  UNE 81-425-91. - «Principios ergonómicos a considerar en el proyecto de los sistemas de trabajo».
+8.  "Guía Técnica de Pantallas de Visualización". Ministerio de Trabajo y Asuntos Sociales (INSHT), 1999.
+9.  ("Protocolo de vigilancia sanitaria específica: Pantallas de Visualización de Datos" Ministerio de Sanidad y Consumo, 1999.
+10.  "Manual de normas técnicas para el diseño ergonómico de puestos con pantallas de visualización". INSHT, 1995.
+11.  VILLANUEVA, M.B, JONAI, H. SAITO, S. Ergonomic aspects of Portable Personal Computers with Flat Panel Display (PC-
+FPDs): Evaluation of Posture, Muscle Activities, Discomfort and Performance. Industrial Health 1998,36,282-289
+12.  NIOSH Alternative keyboards. U.S. Department of Health and Human Services, 1997. http://www.cdc.gov/niosh/ergopage.html.
+   © INSHT

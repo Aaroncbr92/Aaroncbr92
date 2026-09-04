@@ -1,0 +1,226 @@
+ 
+NTP 242: Ergonomía: análisis ergonómico de los espacios de 
+trabajo en oficinas
+Ergonomie: analyse ergonomique des espaces de travail de bureau 
+Ergonomics: Esgonomic office workplaces analysis
+Redactor:
+Ricardo Chavarría Cosar 
+Ingeniero Técnico Eléctrico
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Introducción
+La función principal de la Ergonomía es la adaptación de las máquinas y puestos de trabajo al hombre.
+En esta Nota Técnica, se pretende realizar un análisis ergonómico en oficinas con el fin de determinar los factores de influencia y 
+cuales deben ser sus valores para conseguir el confort y por lo tanto la eficacia en el trabajo.
+Este análisis ergonómico debe entenderse como un estudio de carácter global y no como una solución de diseño, puesto que son 
+tantos los factores que influyen en el área de trabajo, que prácticamente cada puesto de trabajo precisaría de una valoración 
+independiente.
+Factores de estudio
+Para el análisis ergonómico de los puestos de trabajo en oficinas, partiremos del estudio de los siguientes factores:
+G     Dimensiones del puesto.
+G     Postura de trabajo.
+G     Exigencias del confort ambiental.
+En cada grupo de factores, se analizarán los criterios fundamentales que permitan valorar globalmente la situación de confort.
+Dimensiones del puesto
+Dado que las posturas y los movimientos naturales son indispensables para un trabajo eficaz, es importante que el puesto de trabajo 
+se adapte a las dimensiones corporales del operario, no obstante, ante la gran variedad de tallas de los individuos éste es un problema 
+difícil de solucionar.
+Para el diseño de los puestos de trabajo, no es suficiente pensar en realizarlos para personas de talla media (50 percentil), es más 
+lógico y correcto tener en cuenta a los individuos de mayor estatura para acotar las dimensiones, por ejemplo del espacio a reservar 
+para las piernas debajo de la mesa, y a los individuos de menor estatura para acotar las dimensiones de las zonas de alcance en plano 
+horizontal. (percentiles 95 - 5).
+Pues bien, para establecer las dimensiones esenciales de un puesto de trabajo de oficina, tendremos en cuenta los criterios siguientes:
+G     Altura del plano de trabajo.
+G     Espacio reservado para las piernas.
+G     Zonas de alcance óptimas del área de trabajo.
+Altura del plano de trabajo
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1987
+
+La determinación de la altura del plano de trabajo es muy importante para la concepción de los puestos de trabajo, ya que si ésta es 
+demasiado afta tendremos que levantar la espalda con el consiguiente dolor en los homóplatos, si por el contrario es demasiado baja 
+provocaremos que la espalda se doble más de lo normal creando dolores en los músculos de la espalda.
+Es pues necesario que el plano de trabajo se sitúe a una altura adecuada a la talla del operario, ya sea en trabajos sentado o de pie.
+Para un trabajo sentado, la altura óptima del plano de trabajo estará en función del tipo de trabajo que vaya a realizarse, si requiere 
+una cierta precisión, si se va a utilizar máquina de escribir, si hay exigencias de tipo visual o si se requiere un esfuerzo mantenido.
+Si el trabajo requiere el uso de máquina de escribir y una gran libertad de movimientos es necesario que el plano de trabajo esté 
+situado a la altura de los codos; el nivel del plano de trabajo nos lo da la altura de la máquina, por lo tanto la altura de la mesa de 
+trabajo deberá ser un poco más baja que la altura de los codos.
+Si por el contrario el trabajo es de oficina, leer y escribir, la altura del plano de trabajo se situará a la altura de los codos, teniendo 
+presente elegir la altura para las personas de mayor talla ya que los demás pueden adaptar la altura con sillas regulables.
+Las alturas del plano de trabajo recomendadas para trabajos sentados serán los indicados en la figura 1 para distintos tipos de trabajo.
+Fig. 1: Altura del plano de trabajo para puestos de trabajo sentado (cotas en mm)
+Espacio reservado para las piernas
+En este apartado se pretende definir si el espacio reservado para las piernas permite el confort postural del operario en situación de 
+trabajo.
+Las dimensiones mínimas de los espacios libres para piernas, serán las que se dan en la figura 2.
+Fig. 2: Cotas de emplazamiento para las piernas en puestos de trabajo sentado
+Zonas de alcance óptimas del área de trabajo
+Una buena disposición de los elementos a manipular en el área de trabajo no nos obligará a realizar movimientos forzados del tronco 
+con los consiguientes problemas de dolores de espalda.
+Tanto en el plano vertical como en el horizontal, debemos determinar cuales son las distancias óptimas que consigan un confort 
+postural adecuado, y que se dan en las figuras 3 y 4 para el plano vertical y el horizontal, respectivamente.
+
+Fig. 3: Arco de manipulación vertical en el plano sagital
+Fig. 4: Arco horizontal de alcance del brazo y área de trabajo sobre una mesa (cotas en mm)
+Postura de trabajo
+No por el mero hecho de trabajar sentado podemos decir que el trabajo de oficina es un trabajo cómodo; sin embargo, es cierto que 
+una posición de trabajo de pie implica un esfuerzo muscular estático de pies y piernas que desaparece cuando nos sentamos. Esto ha 
+provocado el aumento del número de puestos de trabajo sentado, llegando a alcanzar aproximadamente, en países industrial izados, 
+las tres cuartas partes de la población activa.
+Sin embargo, no todo son ventajas en el trabajo sentado. Existen inconvenientes por el mantenimiento prolongado de la posición, 
+inconvenientes que se derivan en problemas que afectan primordialmente a la espalda.
+Para conseguir una postura de trabajo correcta partiremos del análisis de los criterios relacionados con el equipamiento básico, que 
+comprende:
+G     La silla de trabajo.
+G     La mesa de trabajo.
+G     Apoyapiés.
+G     Apoyabrazos.
+Silla de trabajo
+Es evidente que la relativa comodidad y la utilidad funcional de sillas y asientos son consecuencia de su diseño en relación con la 
+estructura física y la mecánica del cuerpo humano.
+Los usos diferentes de sillas y asientos, y las dimensiones individuales requieren de diseños específicos, no obstante, hay 
+determinadas líneas generales que pueden ayudar a elegir diseños convenientes al trabajo a realizar.
+La concepción ergonómica de una silla para trabajo de oficina ha de satisfacer una serie de datos y características de diseño:
+El asiento responderá a las características siguientes:
+G     Regulable en altura (en posición sentado) margen ajuste entre 380 y 500 mm.
+G     Anchura entre 400 - 450 mm.
+G     Profundidad entre 380 y 420 mm.
+G     Acolchado de 20 mm. recubierto con tela flexible y transpirable.
+G     Borde anterior inclinado (gran radio de inclinación).
+La elección del respaldo se hará en función de los existentes en el mercado, respaldos altos y/o respaldos bajos.
+Un respaldo bajo debe ser regulable en altura e inclinación y conseguir el correcto apoyo de las vértebras lumbares. Las dimensiones 
+
+serán:
+G     Anchura 400 - 450 mm.
+G     Altura 250 - 300 mm.
+G     Ajuste en altura de 150 - 250 mm.
+El respaldo alto debe permitir el apoyo lumbar y ser regulable en inclinación, con las siguientes características:
+G     Regulación de la inclinación hacía atrás 15º.
+G     Anchura 300 - 350 mm.
+G     Altura 450 - 500 mm.
+G     Material igual al del asiento.
+Los respaldos altos permiten un apoyo total de la espalda y por ello la posibilidad de relajar los músculos y reducir la fatiga.
+La base de apoyo de la silla debe garantizar una correcta estabilidad de la misma y por ello dispondrá de cinco brazos con ruedas que 
+permitan la libertad de movimiento.
+La longitud de los brazos será por lo menos igual a la del asiento (380-450 mm.).
+En la figura 5 se apuntan las características de diseño de las sillas de trabajo.
+Fig. 5: Silla de trabajo con respaldo alto para trabajos de oficina
+Mesas de Trabajo
+Una buena mesa de trabajo debe facilitar el desarrollo adecuado de la tarea; por ello, a la hora de elegir una mesa para trabajos de 
+oficina, deberemos exigir que cumpla los siguientes requisitos:
+G     Si la altura es fija, ésta será de aproximadamente 700 mm.
+G     Si la altura es regulable, la amplitud de regulación estará entre 680 y 700 mm.
+G     La superficie mínima será de 1.200 mm de ancho y 800 mm de largo.
+G     El espesor no debe ser mayor de 30 mm.
+G     La superficie será de material mate y color claro suave, rechazándose las superficies brillantes y oscuras.
+G     Permitirá la colocación y los cambios de posición de las piernas.
+Apoyapiés
+Los apoyapiés tienen un papel importante, siempre que no se disponga de mesas regulables en altura, ya que permiten, generalmente 
+a las personas de pequeña estatura, evitar posturas inadecuadas.
+La superficie de apoyo debe asegurar la correcta situación de los pies; las características serán:
+G     Anchura 400 mm.
+G     Profundidad 400 mm.
+G     Altura 50 - 250 mm.
+G     Inclinación 10º.
+Es aconsejable asimismo que la superficie de apoyo de los pies sea de material antideslizante.
+Apoyabrazos
+La utilización de apoyabrazos está indicada en trabajos que exigen gran estabilidad de la mano y en trabajos que no requieren gran 
+libertad de movimiento y no es posible apoyar el antebrazo en el plano de trabajo.
+G     Anchura 60 - 100 mm.
+G     Longitud - que permita apoyar el antebrazo y el canto de la mano.
+
+La forma de los apoyabrazos será plana con los rebordes redondeados.
+Exigencias del confort ambiental
+Un gran grupo de factores que puede influir, y de hecho influyen en la concepción de los puestos de trabajo, son los factores 
+ambientales.
+El ambiente de trabajo debe mantener una relación directa con el individuo y conseguir que los factores ambientales estén dentro de 
+los límites del confort con el fin de conseguir un grado de bienestar y satisfacción.
+Se han elegido como factores ambientales de estudio los siguientes:
+G     Iluminación.
+G     Ruido.
+G     Temperatura.
+Ambiente luminoso
+Elegir un buen sistema de iluminación de los puestos de trabajo para conseguir un cierto confort visual y una buena percepción visual 
+precisa del estudio de los siguientes puntos:
+G     Nivel de iluminación del punto de trabajo.
+G     Tipo de tarea a realizar (objetos a manipular).
+G     El contraste entre los objetos a manipular y el entorno.
+G     La edad del trabajador.
+G     Disposición de las luminarias.
+La no consideración de estos factores puede provocar fatiga visual, ya sea por una solicitación excesiva de los músculos ciliares, o 
+bien por efecto de contrastes demasiado fuertes sobre la retina.
+Como indicaciones de carácter general a tener en cuenta para una correcta iluminación del área de trabajo serán:
+G     Las luminarias deberán equiparse con difusores para impedir la visión directa de la lámpara.
+G     Las luminarias se colocarán de forma que el ángulo de visión sea superior a 30º respecto a la visión horizontal (según queda 
+representado en la fig. 6).
+Fig. 6: Situación de las luminarias en función del ángulo de visión
+G     La situación de las luminarias debe realizarse deforma que la reflexión sobre la superficie de trabajo no coincida con el ángulo 
+de visión del operario. (según se aprecia en la fig. 7).
+Fig. 7: Situación de las luminarias en relación con el ángulo de reflexión de la superficie de trabajo 
+A la izquierda, disposición de luminarias deficiente, la luz reflejada coincide con la linea de visión. 
+A la derecha, disposición correcta de luminarias, la luz reflejada no coincide con la linea de visión.
+
+G     Se evitarán las superficies de trabajo con materiales brillantes y colores oscuros.
+G     Si se dispone de luz natural, se procurará que las ventanas dispongan de elementos de protección regulables que impidan tanto 
+el deslumbramiento como el calor provocado por los rayos del sol.
+G     La situación de las ventanas permitirá la visión al exterior.
+Otro punto a tener en cuenta en este apartado de iluminación es la elección del color de los elementos que componen el puesto de 
+trabajo y del entorno.
+Los colores poseen unos coeficientes de reflexión determinados y provocan unos efectos psicológicos (ver Cuadro 1) sobre el 
+trabajador, por lo tanto es importante, antes de decidir el color de una sala, tener en cuenta el tipo de trabajo que se va a realizar. Si se 
+trata de un trabajo monótono, es aconsejable la utilización de colores estimulantes, no en toda la superficie del local pero sí en 
+superficies pequeñas como mamparas, puertas etc.
+Cuadro 1: Efectos psicológicos de los colores
+Si la tarea a realizar requiere una gran concentración elegiremos colores claros y neutros.
+Por regla general los colores intensos los reservaremos para zonas en que la estancia de los trabajadores sea corta, ya que a largo 
+plazo pueden provocar fatiga visual, reservando para paredes y techos de salas de trabajo, colores claros y neutros.
+Ambiente sonoro
+Para los trabajos de oficina que exigen una cierta concentración y una comunicación verbal frecuente, el ruido puede ser un verdadero 
+problema, no en el aspecto de pérdida de audición sino en el de confort.
+Los niveles de ruido a partir de los cuales se considera que pueden provocar disconfort en estos puestos de trabajo se sitúan entre los 
+55 y 65 dB (A).
+Los ruidos son generados principalmente por el teléfono, las máquinas utilizadas y las conversaciones; por lo que en general, se 
+prefieren los espacios de trabajo de dimensiones mas bien reducidas a las grandes salas de trabajo, ya que en estas últimas se 
+produce básicamente:
+G     Una falta de concentración.
+G     Una falta de intimidad.
+Según se puede observar en la figura 8, las conversaciones constituyen la primera causa de disconfort y distracción, no tanto por el 
+nivel sonoro generado sino por la percepción del contenido informativo.
+Fig. 8: Distribución de respuestas a la pregunta sobre cuál es la fuente del ruido más molesto en trabajos de oficina. Según 
+Nemecek y Grandjean
+
+Ambiente térmico
+Conseguir un ambiente térmico adecuado en oficinas está condicionado por el estudio y adaptación de los siguientes factores:
+G     La temperatura del aire.
+G     La humedad del aire.
+G     La temperatura de paredes y objetos.
+G     La velocidad del aire.
+Dado que el trabajo en oficinas es un trabajo sedentario, sin esfuerzo físico importante, las condiciones de confort térmico serán las 
+indicadas en el Cuadro 2.
+Cuadro 2: Valores aconsejables de temperatura en trabajos de oficina
+Bibliografía
+(1) McCORMICK, ERNEST J. 
+Ergonomía 
+Editorial Gustavo Gili S. A. Barcelona 1980
+(2) GRANDJEAN, ETIENNE 
+Précis d'ergonomie 
+Les Editions d'Organizations, París 1983
+(3) EASTMAN KODAK COMPANY 
+Ergonomic Design for People at Work. Volumen 1 
+Lifetime Learning Publications, Belmont 1983
+(4) PANERO. J., ZELMIK. M 
+Las dimensiones humanas en los espacios Interiores 
+Editorial Gustavo Gili S.A., Barcelona 1983
+(5) SCHERRER, J ET AL. 
+Précis de Physiologie du travail 
+Masson, París, 1967
+(6) CAZAMIAN, P 
+Traité d'ergonomie 
+Editions Octares Entreprises. Marseille, 1987
+(7) REGNIER, J. 
+L'amélioration des conditions de travail dans I'industrie 
+Masson, París 1980.
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-90-011-7 

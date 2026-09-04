@@ -1,0 +1,197 @@
+NTP 139: El trabajo con pantallas de visualización
+Work at visual display terminals. An elemental overview 
+Le travail su terminaux à écran. Notions élémentaires
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Actualizada por la NTP 602.
+Redactores:
+Silvia Royo Beberide 
+Lda. en Psicología
+Clotilde Nogareda Cuixart 
+Lda. en Psicología
+CENTRO DE INVESTIGACIÓN Y ASISTENCIA TÉCNICA - BARCELONA
+Introducción
+En todos los campos de actividad, ya sean industriales, administrativos o de gestión, la lectura de información presentada sobre 
+pantallas ha tenido un desarrollo destacado que se ha ampliado considerablemente por la generalización del empleo del ordenador.
+La visualización y el tratamiento de informaciones sobre pantallas catódicas representa la utilización mayor de este modo de 
+comunicación, utilización permanente o temporal, asociada a otras formas de trabajo.
+El estudio de este tipo de trabajos debe ser multidisciplinar puesto que debe tener en cuenta el ambiente visual y la iluminación, las 
+condiciones dinámicas y acústicas, el análisis y estudio de datos antropométricos, las dimensiones del puesto de trabajo y distribución 
+del espacio del local, la organización del trabajo, especificaciones sobre el mobiliario (pantalla, teclado, asiento, impresora), exámenes 
+médicos, entrenamiento del personal, etc.
+Es tal la diversidad existente de puestos de trabajo ante pantallas de visualización que sería conveniente analizar cada uno de ellos de 
+modo específico, pero pueden señalarse unos requisitos básicos que todo puesto debería cumplir y de los que vamos a tratar 
+seguidamente.
+Definición
+Una pantalla de visualización es un aparato que genera imágenes, formadas por puntos o rayas en una pantalla fluorescente, 
+producidas por la acción de un haz de rayos catódicos originado en el interior del tubo correspondiente. Generalmente los datos se 
+ofrecen mediante caracteres alfanuméricos y símbolos.
+La pantalla de visualización es un terminal de ordenador y para comunicar las instrucciones pertinentes se utiliza un teclado.
+Eventualmente, en determinados casos, se dispone de una impresora conectada al mismo terminal.
+Ergonomía del puesto y ambiente de trabajo
+Distancia visual
+La pantalla, el teclado y los documentos escritos con los que trabaja el operador de pantallas de visualización deberían encontrarse, 
+respectivamente, a una distancia similar de los ojos para evitar fatiga visual.
+La distancia visual óptima debe estar entre los 450 y 550 mm, con un máximo de 700 mm para casos excepcionales.
+Ángulo visual
+Año: 1983
+
+El ángulo visual óptimo para que el operador de pantallas de visualización trabaje en posición de sentado debe estar comprendido 
+entre 10º y 20º por debajo de la horizontal (Fig. 1).
+Fig. 1: Ángulo visual óptimo
+La silla
+La silla debe tener cinco pies y ruedas que faciliten su desplazamiento. El asiento debe ser muy flexible, debe estar situado entre 38 y 
+48 cm del suelo y debe medir 40 cm de profundidad, el respaldo debe medir de 20 a 30 cm y debe ser regulable hacia atrás. El 
+operador debe disponer de un reposapiés, perfectamente graduable a tres alturas distintas (Fig. 2).
+Fig. 2: Características del asiento
+Teclado
+El teclado debe ser móvil, con teclas mates, fáciles de limpiar y ligeramente curvadas (cóncavas).
+Se recomienda que la altura de la fila central del teclado respecto del suelo esté comprendida entre 60 y 75 cm.
+Pantalla
+La pantalla de datos debe ser móvil en las tres direcciones: rotación horizontal libre (90º), altura libre, inclinación vertical 
+aproximadamente 15º (lo que permite orientar la pantalla con relación a las demás fuentes luminosas y evitar los reflejos parásitos).
+Portacopias
+Es conveniente la instalación de un portacopias al lado de la pantalla y a su misma altura pues de esta forma se acerca el documento 
+escrito a la vista del operador sin obligarle a adoptar posturas incorrectas; asimismo el movimiento del cuello cuando mira a la pantalla 
+y a los documentos se realiza en un plano horizontal, que es mucho menos perjudicial que el vertical (Fig. 3).
+
+Fig. 3: Resumen de las características ergonómicas del puesto de trabajo
+Iluminación
+El trabajo con pantallas de visualización requiere una iluminación no demasiado brillante para evitar deslumbramientos. Los niveles 
+aceptables se mueven entre los 300 y los 500 lux. Niveles muy inferiores sólo serían adoptables en el caso de que existiera muy poco 
+contraste entre la representación visual y el fondo de pantalla. Del mismo modo, con niveles muy superiores se acrecienta la fatiga 
+visual.
+El operador de pantallas de visualización debe adaptar su visión a tres contrastes de iluminación diferentes: el de la pantalla, el de los 
+textos y el del teclado.
+Una errónea repartición de luminancias en el campo visual, puede provocar fenómenos de deslumbramiento, los cuales, a su vez, son 
+origen de fatiga visual.
+Estos deslumbramientos pueden ser:
+G     Por contraste debido a la excesiva diferencia entre las luminancias del plano posterior y de la pantalla.
+G     Deslumbramientos repetidos si en la pantalla se refleja la cara del operador, objetos de la vecindad o algún foco luminoso.
+Para evitar los deslumbramientos, las pantallas deben ser mates, con viseras laterales y superiores o filtros reticulados amovibles. Las 
+teclas también deben ser mates, de color claro con los signos oscuros, de tono distinto para cada tipo de función.
+El operador debe poder regular la luminosidad y el contraste.
+Otras medidas a tener en cuenta para evitar reflexiones son:
+G     Las paredes y superficies deben estar pintadas en colores no brillantes.
+G     El campo situado detrás del operador debe ser de luminancia lo más débil posible.
+G     La pantalla debe colocarse de forma perpendicular a las ventanas y es preferible que éstas queden a la izquierda del operador.
+G     La pantalla debe quedar alejada de las ventanas para que la sobreiluminación diurna no dificulte la adaptación de los ojos del 
+operador a la relativa oscuridad de la pantalla.
+G     La línea de visión del operador a la pantalla debería ser paralela a las lámparas del techo.
+G     Las lámparas del techo no deben estar colocadas encima del operador y deben estar provistas de difusores para conseguir una 
+más uniforme distribución de la luz (Fig. 4).
+
+Fig. 4: Instalación correcta e incorrecta de las pantallas respecto de los focos de luz
+Ruido
+La pantalla emite una frecuencia no audible en la banda de los 15 khz.
+En este puesto de trabajo el ruido proviene principalmente de las impresoras anejas al terminal, o bien de terminales instaladas en 
+cadena en oficinas con una densidad importante de personal.
+No hay unanimidad entre los niveles de ruido recomendables, pero sí se cree que éstos deben ser diferentes según las tareas 
+requieran mayor o menor concentración por parte del operador.
+Para las tareas de mayor concentración, como son las de programación y diseño, los distintos autores consultados coinciden en que el 
+nivel de ruido tolerable debe ser de 55 d8 (A), pero para las tareas de menor concentración, las opiniones están divididas: unos 
+consideran adecuado un nivel de 65 d8 (A) mientras que otros defienden que el nivel de ruido tolerable es de 70 d8 (A).
+Ambiente térmico
+La pantalla de visualización funciona normalmente en la zona de comodidad del operador y no libera mucho calor.
+Las recomendaciones de base para el operador son las siguientes:
+G     Temperatura seca de 19 a 24ºC.
+G     Humedad del 40 al 70% (idealmente entre el 55 al 65%).
+Esto es especialmente importante puesto que un porcentaje de humedad demasiado bajo provoca una sequedad de las mucosas 
+conjuntivales y respiratorias. Por otra parte un porcentaje de humedad demasiado elevado entraña una disminución en la atención, en 
+la vigilancia y destreza de los gestos.
+Radiaciones
+La terminal con pantalla catódica no debe emitir radiaciones; la norma que se debe tener en cuenta es la promulgada por el Consejo de 
+las Comunidades Europeas: "Las radiaciones ionizantes del terminal con pantalla catódica medidas a 10 cm de la superficie de la 
+pantalla deben ser inferiores a 0, 1 m. Rem/h".
+El terminal de pantalla catódica no produce radiaciones cuantificables por los medios de medida actuales; por lo tanto no es necesario 
+proponer medidas de protección individual.
+Electricidad estática
+Puesto que las condiciones del ambiente térmico son determinantes en la aparición de este fenómeno, se debe prestar una atención 
+particular al respeto de las normas higrométricas. En los casos extremos podrá ser necesario el empleo de materiales antiestáticos, 
+como suelos de goma o moquetas provistas de un entramado de hilo de cobre con una chapa metálica debajo, unida al suelo.
+Patología específica
+Las alteraciones sufridas por los operadores de pantallas de visualización se pueden agrupar en tres apartados:
+
+a.  Fatiga visual.
+b.  Transtornos posturales (fatiga física).
+c.  Fatiga mental o psicológica.
+Fatiga visual
+La fatiga visual es una modificación funcional, de carácter reversible, debida a un esfuerzo excesivo del aparato visual. Los síntomas 
+se sitúan a tres niveles:
+G     Molestias oculares: sensación de tener ojos, tensión, pesadez parpebral, pesadez de ojos, picores, quemazón, necesidad de 
+frotarse los ojos, somnolencia, escozor ocular, aumento del parpadeo...
+G     Transtornos visuales: borrosidad de los caracteres que se tienen que percibir en las pantallas.
+G     Síntomas extraoculares: cefaleas, vértigos y sensaciones de desasosiego y ansiedad, molestias en la nuca y en la columna 
+vertebral.
+Fatiga física
+La fatiga se debe bien a una tensión muscular estática dinámica o repetitiva, bien a una tensión excesiva del conjunto del organismo o 
+bien a un esfuerzo excesivo del sistema psicomotor.
+Estos esfuerzos excesivos pueden estar causados por:
+G     Factores dependientes de una incorrecta organización del trabajo.
+G     Factores dependientes del mismo individuo (defectos visuales, lesiones esqueléticas preexistentes).
+G     Condiciones ergonómicas y ambiente de trabajo no satisfactorios.
+Los síntomas de la fatiga física suelen ser:
+G     Algias cervicales, tirantez de nuca.
+G     Dorsalgias
+G     Lumbalgias.
+Fatiga mental o psicológica
+Fatiga mental o psicológica se debe a un esfuerzo intelectual o mental excesivo. Este tipo de fatiga es el que tiene mayor incidencia 
+entre los trabajadores con pantallas de visualización. Se ha comprobado que los controladores aéreos son los que tienen una mayor 
+carga mental debido a sus importantes responsabilidades individuales. Seguidamente están algunas categorías de personal de oficina, 
+sobre todo los que realizan tareas visuales difíciles, utilizando por ejemplo dos pantallas a la vez. Luego se encuentran los 
+introductores de datos y otros empleados de la oficina. En último lugar se sitúan los programadores.
+Los síntomas de la fatiga mental y psicológica pueden ser de tres tipos:
+G     Transtornos neurovegetativos y alteraciones psicosomáticas (constipación, cefaleas, diarreas, palpitaciones, etc.).
+G     Perturbaciones psíquicas (ansiedad, irritabilidad, estados depresivos, etc.).
+G     Transtornos del sueño (pesadillas, insomnio, sueño agitado, etc.).
+Si el organismo es incapaz de recuperar por sí mismo el estado de normalidad o persisten las condiciones desfavorables de equipo, 
+ambiente e incorrecta racionalidad del trabajo, el estado de stress es inevitable.
+La primera recomendación para reducir en lo posible la fatiga de cualquiera de los tres tipos citados, además de cumplir con los 
+requisitos ergonómicos para el puesto de trabajo, es el establecimiento de pausas durante el ciclo de trabajo de los operadores de 
+pantallas de visualización.
+Las tendencias se inclinan por el establecimiento de pausas de escasa duración pero frecuentes, en general del orden de 10 minutos 
+cada una o dos horas, pero esto se refiere solamente a los operadores que tienen actividad permanente sobre pantallas de 
+visualización en su jornada laboral.
+Otras medidas convenientes para reducir la carga psicológica son:
+G     Dar la máxima iniciativa al operador: permitir que intervenga en caso de accidente, autocontroles o corregir las anomalías.
+G     Proporcionar información a los operadores sobre el funcionamiento de los sistemas de computadoras y sobre el trabajo de otros 
+empleados y departamentos de la empresa.
+G     Incorporar al trabajo variedad de tareas de distinto tipo y responsabilidad para evitar la monotonía.
+G     Evitar el aislamiento de los operadores.
+G     Posibilitar la comunicación entre los trabajadores.
+G     Facilitar las relaciones de cooperación entre los trabajadores, tanto formales como informales.
+Bibliografía
+(1) ASOCIACIÓN DE MEDICINA Y SEGURIDAD EN EL TRABAJO DE UNESA PARA LA INDUSTRIA ELECTRICA (AMYS) 
+
+El trabajo sobre pantallas de visualización 
+Lisboa, Junio, 1983
+(2) CAKI R, A. et al 
+Les Terminaux á écran 
+Les Editions d'organization. Paris, 1980
+(3) COMISIONES OBRERAS 
+Pantallas de visualización. Controla tus condiciones de trabajo 
+Madrid, 1980
+(4) CHRISTOL, J. 
+Información y mejora de las condiciones de trabajo
+(5) GAUDRY, C. 
+Estudio ergonómico del trabajo sobre pantallas de visualización 
+Tesina presentada el 10 de junio de 1981 para obtener el Título de Doctor en Medicina por la Université de France Conte, Facultad de 
+Medicina y Farmacia de Besançon
+(6) GRANDJEAN, E., VIELANI 
+Ergonomic Aspects of Visual Display Terminals 
+Taylor and Francis Ltd. Londres. 1980
+(7) IESA (INVESTIGACIONES ECONOMICAS Y SOCIALES APLICADAS) 
+Condiciones de trabajo ante pantallas de datos 
+Informes y Documentos. Madrid, 43/1982
+(8) INSTITUTO NACIONAL DE HIGIENE Y SEGURIDAD EN EL TRABAJO 
+Trabajo con pantallas catódicas de datos 
+Proyecto de norma técnica de prevención SHT-7. 100, Septiembre 1983
+(9) ROUSSEL et al. 
+Peut-on quantifier et diminuer la charge de travail sur terminal à écran? 
+Arch. Malad, Prof. 1980 (41) 4
+(10) SOCIEDAD DE ERGONOMIA DE LENGUA FRANCESA 
+Problemas visuales de operadores que utilizan pantallas de visualización 
+Seminario organizado por la Sociedad de Ergonomía de Lengua Francesa. Ginebra. Diciembre 1977
+   
+Reservados todos los derechos. Se autoriza su reproducción sin ánimo de lucro citando la fuente: INSHT, nº NTP, año y título.          NIPO: 211-86-023-6 

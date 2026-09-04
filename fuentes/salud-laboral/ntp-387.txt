@@ -1,0 +1,281 @@
+ 
+NTP 387: Evaluación de las condiciones de trabajo: método del 
+análisis ergonómico del puesto de trabajo
+Evaluation des conditions de travail: méthode de l'anayse ergonomique des postes de travail, 
+Working conditions analysis: the ergonomic workplace analysis
+Redactora:
+Silvia Nogareda Cuixart 
+Licenciada en Medicina y Cirugía 
+Especialista en Medicina de Empresa
+CENTRO NACIONAL DE CONDICIONES DE TRABAJO
+Esta Nota Técnica presenta una versión resumida del método para el análisis ergonómico de las condiciones de trabajo, elaborado 
+por el Finnish Institute of Occupational Health.
+Introducción
+El análisis ergonómico del puesto de trabajo, dirigido especialmente a las actividades manuales de la industria y a la manipulación de 
+materiales, ha sido diseñado para servir como una herramienta que permita tener una visión de la situación de trabajo, a fin de diseñar 
+puestos de trabajo y tareas seguras, saludables y productivas. Así mismo, puede utilizarse para hacer un seguimiento de las mejoras 
+implantadas en un centro de trabajo o para comparar diferentes puestos de trabajo.
+La base del análisis ergonómico del puesto de trabajo consiste en una descripción sistemática y cuidadosa de la tarea o puesto de 
+trabajo, para lo que se utilizan observaciones y entrevistas, a fin de obtener la información necesaria. En algunos casos, se necesitan 
+instrumentos simples de medición, como puede ser un luxómetro para la iluminación, un sonómetro para el ruido, un termómetro para 
+el ambiente térmico, etc.
+Como características específicas de este método, podemos destacar las siguientes:
+A pesar de estar dirigido a la industria, no está enfocado para trabajos en cadena, como otros métodos tradicionales (L.E.S.T., Perfil 
+del puesto, Fagor, etc.).
+Está diseñado desde una perspectiva ergonómica.
+Es un método abierto. Aunque se definen una serie de items, existe la posibilidad de añadir o suprimir aquellos que el usuario 
+considere necesarios (ver cuadro 1).
+Cuadro 1: Items que contempla el método
+Las NTP son guías de buenas prácticas. Sus indicaciones no son obligatorias salvo que estén recogidas en una disposición 
+normativa vigente. A efectos de valorar la pertinencia de las recomendaciones contenidas en una NTP concreta es conveniente 
+tener en cuenta su fecha de edición.
+Año: 1993
+
+1.  Puesto de trabajo
+2.  Actividad física general
+3.  Levantamiento de cargas
+4.  Postura de trabajo y movimientos
+5.  Riesgo de accidente
+6.  Contenido del trabajo
+7.  Autonomía
+8.  Comunicación del trabajador y contactos personales
+9.  Toma de decisiones
+10.  Repetitividad del trabajo
+11.  Atención
+12.  Iluminación
+13.  Ambiente térmico
+14.  Ruido
+Los items del método son cuantifcables y se incluyen sólo aquellos que se han podido estructurar y clasificar adecuadamente.
+Paralelamente a la evaluación del especialista que realiza el análisis, se lleva a cabo otra evaluación de índole subjetiva para cada ítem 
+y se sugiere que cuando exista una divergencia entre ambas, se analice más ampliamente la situación (ver cuadro 2 y cuadro 3).
+Cuadro 2: Ejemplo de valoración
+Cuadro 3: Ejemplo de valoración
+
+Las escalas de los items no son comparables entre sí.
+La evaluación de las condiciones de trabajo se basa en dos valoraciones: una realizada por el analista a partir de los criterios de 
+aplicación y otra paralela, que refleja la opinión que tiene la persona que ocupa el puesto de trabajo.
+Criterios de aplicación
+Para el análisis de un puesto de trabajo se debe proceder siguiendo los tres pasos siguientes:
+1.  El analista define y perfila la tarea que se va a analizar. El análisis puede ser de una tarea o de un lugar de trabajo. 
+Frecuentemente, la tarea tiene que ser dividida en subtareas, que serán analizadas por separado.
+2.  Se describe la tarea enumerando las distintas operaciones realizadas y se dibuja un esquema del puesto de trabajo.
+3.  El analista puede proceder al análisis ergonómico, ítem por ítem, utilizando las directrices generales del método.
+A continuación, vamos a describir cada ítem y su correspondiente guía para efectuar el análisis. En las guías se señalan los requisitos 
+fundamentales que debería cumplir cada variable que contempla este método.
+Puesto de trabajo
+La evaluación de un puesto tiene en cuenta el equipo, el mobiliario, y otros instrumentos auxiliares de trabajo, así como su disposición 
+y dimensiones. La disposición del puesto de trabajo depende de la amplitud del área donde se realiza el trabajo y del equipo disponible, 
+por lo tanto, no pueden darse criterios específicos de evaluación para cada posibilidad. La clasificación del espacio de trabajo está en 
+función de que las medidas o disposiciones técnicas permitan una postura de trabajo apropiada y correcta, que no impida realizar 
+movimientos y, en función de la evaluación general de la zona de trabajo. Esta evaluación general se complementa con el análisis de la 
+actividad física, el levantamiento de pesos y los movimientos y posturas de trabajo.
+Guía para el análisis
+En primer lugar, se valoran por observación los siguientes puntos:
+G     Si los objetos que deben manejarse están situados de tal modo que el trabajador pueda mantener una postura de trabajo 
+adecuada.
+
+G     Si se mantiene la postura de forma correcta para satisfacer las demandas funcionales de la tarea (superficies de soporte: sillas, 
+respaldo, apoyabrazos, superficie de la mesa, etc.).
+G     Si hay espacio suficiente para que el trabajador pueda realizar los movimientos que exija el trabajo y cambiar de posturas con 
+facilidad.
+G     Si el trabajador puede ajustar las dimensiones del puesto de trabajo y adaptar el equipo que utiliza a sus necesidades.
+Posteriormente, se compara la disposición del espacio de trabajo con las recomendaciones dadas. Puesto que es prácticamente 
+imposible hacer frente a todas las recomendaciones de forma simultánea, debe evaluarse el puesto de trabajo de forma global y deben 
+hacerse arreglos, según los diferentes requerimientos.
+Por último, se miden los siguientes parámetros:
+G     El área de trabajo horizontal que contempla el área de trabajo habitual, el de actividades cortas y el de actividades que se 
+repiten raramente.
+G     La altura de trabajo para las tareas que exijan precisión visual, las que exijan apoyo manual, las que exijan poder mover 
+libremente las manos, y el manejo de materiales pesados.
+G     El campo visual, que incluye la distancia visual (en trabajos con demanda especial, trabajos con exigencias, trabajo normal y 
+trabajo sin exigencias) y el ángulo de visión.
+G     El espacio para las piernas.
+G     El asiento.
+G     Las herramientas.
+G     Otros equipamientos. Este apartado incluye, porejemplo, instalaciones, componentes, dispositivos de protección personal, 
+controles y ayudas para el manejo y levantamiento (de cargas) que deben de evaluarse según su utilización.
+Actividad física general
+La actividad física general se determina según la intensidad de la actividad física que requiera el trabajo, los métodos utilizados y los 
+equipamientos. Estos requerimientos pueden ser óptimos, pero también pueden ser demasiado grandes o demasiado pequeños. La 
+calidad se determina según el trabajador pueda o no regular la carga de trabajo o si se regula por el método de producción o por la 
+situación en la que se realiza el trabajo.
+Guía para el análisis
+G     Se determina observando el trabajo y entrevistando al trabajador y al encargado para saber si la cantidad de actividad física 
+requerida es grande, óptima o pequeña.
+G     Se analiza si la actividad depende de los métodos de producción o de la organización, si hay picos de carga de trabajo y la 
+existencia de pausas. Por otro lado, se debe averiguar si la actividad física está completamente regulada por el trabajador, y si 
+el espacio de trabajo, equipos y métodos constituyen o no algún obstáculo para el movimiento del trabajador.
+Levantamiento de cargas
+El estrés causado por el levantamiento se basa en el peso de la carga, la distancia horizontal entre la carga y el cuerpo (distancia de 
+agarre), y la altura de alzamiento.
+Guía para el análisis
+G     Se mide la altura a la que se realiza el levantamiento.
+G     Se pesa la carga. Hay que estimar el estrés, según la carga elevada más pesada.
+G     Se mide la distancia horizontal de manejo desde la línea central del cuerpo.
+G     Se elige la tabla que corresponda según sea la altura del levantamiento de la carga.
+Postura de trabajo y movimientos
+La postura de trabajo hace referencia a la posición del cuello, de los brazos, de la espalda, de las caderas y de las piernas durante el 
+trabajo. Los movimientos de trabajo son los movimientos del cuerpo requeridos por el trabajo.
+
+Guía para el análisis
+G     Se valoran, por separado, las posturas y los movimientos de trabajo para cuello-hombros, codo-muñeca, espalda y caderas-
+piernas (si están relajados, tensos, torcidos, etc.). El análisis se efectúa sobre la postura y el movimiento más forzado. La 
+clasificación final es el peor valor resultante de los cuatro.
+G     El tiempo que se utiliza para mantener la postura repercute, acentuando la carga de una situación. El valor de la clasificación 
+aumenta en un nivel, si se mantiene la postura más de media jornada, pero decrece un nivel, si la postura se mantiene menos 
+de una hora.
+Riesgo de accidente
+El riesgo de accidente se refiere a la posibilidad de sufrir una lesión repentina y al riesgo de producirse un envenenamiento repentino 
+provocado por una exposición laboral inferior a un día. Se determina evaluando la posibilidad de que ocurra un accidente y su 
+gravedad.
+Guía para el análisis
+Hay que familiarizarse con las estadísticas de accidentes del lugar de trabajo y entrevistar al personal del departamento de seguridad. 
+A continuación, se debe evaluar la posibilidad de que suceda un accidente, así como su severidad, y elegir la clasificación 
+correspondiente.
+Se deben analizar los siguientes riesgos:
+G     Riesgos mecánicos.
+G     Riesgos causados por un diseño incorrecto.
+G     Riesgos relacionados con la actividad del trabajador (por ejemplo, por las posturas de trabajo mantenidas, sobreesfuerzos o 
+movimientos efectuados durante el trabajo de forma incorrecta o la sobrecarga sufrida de las capacidades de percepción y 
+atención del trabajador).
+G     Riesgos relativos a la energía (la electricidad, el aire comprimido, los gases, la temperatura, los agentes químicos, etc.).
+Se considera que el riesgo de accidente es:
+G     Pequeño: si el trabajador puede evitar accidentes teniendo precaución y siguiendo las normas generales de seguridad.
+G     Considerable: si el trabajador precisa seguir normas de trabajo para evitar el accidente y debe prestar mayor atención de lo 
+normal.
+G     Grande: si el trabajador precisa ser especialmente cuidadoso y seguir normas estrictas o reglamentarias de seguridad; es decir, 
+si existe un riesgo tangible.
+G     Muy grande: si el trabajador precisa una normativa y una reglamentación estricta y concisa.
+Las consecuencias del accidente se miden por su gravedad y ésta puede ser:
+G     Ligera: si el accidente causa como máximo 1 día de baja.
+G     Leve: si el accidente causa como máximo 7 días de baja.
+G     Bastante grave: si el accidente causa alrededor de 1 mes de baja.
+G     Muy grave: si el accidente causa más de 6 meses de baja o incapacidad permanente.
+Contenido de trabajo
+El contenido del trabajo está determinado por el número y la calidad de las tareas individuales incluidas en el trabajo.
+Guía para el análisis
+G     Se evalúa el contenido del trabajo determinando en qué medida dicho trabajo incluye planificación y preparación, inspección y 
+corrección del producto, y gestión de mantenimiento y materiales, además de la tarea principal.
+G     Hay que utilizar la descripción del trabajo, si se dispone de ella, con sus asignaciones de tiempo para tareas individuales, como 
+una ayuda en el análisis. El tiempo asignado para planificar afecta especialmente a la clasificación.
+G     Se debe tener en cuenta el hecho de que esa planificación, ejecución e inspección puedan tener lugar simultáneamente en 
+
+tareas que exijan un nivel muy alto de habilidad.
+G     Cuanto más se defina el contenido del trabajo, mejor es la clasificación.
+Autonomía
+En trabajos restrictivos, las condiciones en las que se realiza un trabajo limitan la movilidad del trabajador o su libertad para escoger 
+cuándo y cómo debe hacerse el trabajo.
+Guía para el análisis
+G     Se deben evaluar las restricciones de la tarea determinando si la organización del trabajo, el propio trabajo o las condiciones 
+del mismo, limitan la actividad del trabajador o su libertad para escoger el tiempo para ejecutar la tarea.
+El trabajador puede depender, por ejemplo, del funcionamiento de una máquina o instrumento que se utiliza o de la necesidad 
+de la continuidad que requiere el proceso. Puede también depender del hecho de que, dentro de una fase particular de trabajo, 
+otros trabajadores «determinen» el tiempo de ejecución o el ritmo de trabajo.
+G     Si el trabajo se realiza por un grupo de producción, hay que tener en cuenta las posibilidades del grupo para regular la 
+autonomía de cada trabajador.
+Comunicación del trabajador y contactos personales
+La comunicación del trabajador y los contactos personales se refieren a las oportunidades que los trabajadores tienen para 
+comunicarse con sus superiores u otros compañeros de trabajo.
+Guía para el análisis
+G     Hay que determinar el grado de aislamiento del trabajador evaluando las oportunidades directas e indirectas que tiene para 
+comunicarse con otros trabajadores y con sus superiores. Estar a la vista no es suficiente para eliminar el aislamiento cuando 
+hay, por ejemplo, mucho ruido en el lugar de trabajo.
+Toma de decisiones
+La dificultad en la toma de decisiones está influenciada por la idoneidad de la información disponible (suficiente y adecuada) y el riesgo 
+que puede implicar una decisión.
+Guía para el análisis
+G     Se determina la complejidad de la relación entre la información de que dispone el trabajador (información guía para el 
+trabajador) y su acción.
+G     La relación puede ser simple y clara en tanto en cuanto la información recibida proceda de un solo indicador. Por ejemplo, el 
+destello de una señal luminosa es una información que conlleva la decisión de parar una máquina. La relación puede ser 
+complicada y la decisión puede requerir la formación de un modelo de actividad y la comparación de varias alternativas de 
+acción.
+G     Se tiene en consideración, así mismo, si una decisión equivocada puede crear un riesgo de accidente, un paro en la producción 
+o un daño material.
+Repetitividad del trabajo
+La repetitividad del trabajo está determinada por la duración media de un ciclo de trabajo repetido y se mide desde el principio al fin del 
+ciclo. La repetitividad puede ser evaluada sólo para aquellos trabajos en que una tarea se repite continuamente más o menos de la 
+misma manera. Esta clase de trabajo se encuentra en tareas de producción en serie o, por ejemplo, en tareas de empaquetado.
+Guía para el análisis
+G     Se evalúa la repetitividad según sea la duración del ciclo repetido. Se determina la duración midiendo tareas que son totalmente 
+o casi totalmente iguales desde el principio de ciclo hasta el comienzo del siguiente.
+Atención
+Los requerimientos de atención abarcan toda la atención y observaciones que un trabajador tiene que poner en su trabajo, en los 
+instrumentos, en las máquinas, en los displays, en los controles, en los procesos, etc. La demanda de atención se evalúa a partir de la 
+relación entre la duración de la observación y el grado de atención requerida.
+Guía para el análisis
+
+Se determinan:
+G     Las demandas de atención del trabajo, analizando el tiempo que se toma el trabajador para hacer observaciones y midiendo el 
+grado de atención requerida.
+G     El porcentaje de tiempo, en relación con el ciclo total, en que el trabajador tiene que estar observando atentamente cualquier 
+aspecto de su tarea.
+G     El grado de atención requerida, estimando la que implica la realización de la tarea y comparándola con los ejemplos que se dan 
+en el método.
+Iluminación
+Las condiciones de iluminación de un puesto de trabajo se evalúan de acuerdo al tipo de trabajo que se realiza. Para tareas que 
+requieren una precisión visual normal, los niveles de iluminación y el grado de deslumbramiento se pueden valorar por observación. 
+Para las tareas que requieren una precisión visual elevada, las diferencias de luminancia deben medirse, si es posible.
+Guías para la medición
+G     Si la precisión visual necesaria es normal:
+G     Se mide el nivel de iluminación con un luxámetro.
+G     Se calcula el porcentaje del nivel de iluminación medido comparado con el valor recomendado para el puesto de trabajo.
+G     Se determina la existencia de deslumbramiento, observando si existen, o no, luces brillantes, superficies reflectantes y brillantes 
+o áreas brillantes y oscuras, con un valor elevado de la razón entre las luminancias de las áreas en el campo de visión.
+G     Se comparan los valores obtenidos para la iluminación y el deslumbramiento. El peor de los resultados reflejará las condiciones 
+de iluminación para todo el puesto de trabajo.
+Si la precisión visual necesaria es elevada se mide la luminancia del objeto, la del campo visual próximo o su inmediato, la media de la 
+zona más oscura, y la de la zona más brillante.
+Ambiente térmico
+Se evalúa en todos los puestos de trabajo. En un trabajo con radiación térmica o en trabajos con exposición continuada a temperaturas 
+que exceden los 28 ºC, la evaluación se basa en el índice WBGT (lSO 7243). El riesgo de estrés térmico causado por las condiciones 
+térmicas depende del efecto combinado de la temperatura del aire, su humedad, la velocidad del aire, la carga de trabajo y el tipo de 
+vestido.
+Guía para las mediciones
+G     Se mide la temperatura del aire del puesto de trabajo a la altura de la cabeza y a la de los tobillos del trabajador. Para un 
+trabajador que se mueva durante su trabajo, se ha de medir la temperatura del aire a 1 m de la pared exterior, a 1 m de la pared 
+opuesta y en el centro del espacio de trabajo, a una altura de 10 cm y 170 cm.
+G     Se compara la media de las mediciones obtenidas con los valores de la tabla de acuerdo a la intensidad del trabajo.
+G     Se estima el efecto de la indumentaria usada por el trabajador. Los valores dados en la tabla están indicados para personas 
+que trabajan en interiores y con indumentaria ligera. La puntuación obtenida puede aumentar o disminuir en un nivel, en función 
+del tipo de ropa usada.
+G     Se mide o estima la velocidad del aire y la humedad relativa. Para temperaturas del aire y humedad elevadas y para 
+temperaturas bajas y elevadas velocidades del aire, se incrementa la puntuación en un nivel.
+Ruido
+La valoración del ruido se hace de acuerdo con el tipo de trabajo realizado. Existe riesgo de daño en la audición cuando el nivel de 
+ruido es mayor de 80 dB (A). Se recomienda el uso de protectores auditivos.
+La valoración está en función de las exigencias de la tarea: en trabajos que requieren comunicación verbal, las personas deben poder 
+hablar con los demás para dirigir o ejecutar el trabajo; en trabajos que requieren concentración, el trabajador necesita razonar, tomar 
+decisiones y usar su memoria continuamente.
+Guía para la medición
+Se mide o estima el nivel de ruido en condiciones normales de ruido. En el método se da un listado de ejemplos que ayudan a estimar 
+el actual nivel de ruido.
+
+Evaluación
+El analista clasifica los diversos factores en una escala, que, generalmente, va desde 1 hasta 5. La base principal para la clasificación 
+es la desviación de las condiciones de trabajo respecto a las mejoras del trabajo para alcanzar un nivel óptimo o las recomendaciones 
+generalmente aceptadas. Una clasificación de 4 a 5 indica que la condición o entorno de trabajo puede incluso ser nociva para la salud 
+de los trabajadores y se debería prestar especial atención al entorno o a la condición de trabajo en cuestión.
+Las escalas de los items no son comparables. Por ejemplo, una clasificación de 5 para el ítem «contactos personales» puede no tener 
+el mismo peso, en relación con el puesto de trabajo, en general, que el valor 5 para el ítem «ruido». Pero en el perfil final, los valores 
+de 5 deberían llamar la atención, a fin de conseguir una condición o entorno de trabajo apropiado.
+Las clasificaciones se recogen en un formulario de evaluación dando, como resultado, la evaluación o «perfil» global de la tarea. En el 
+perfil, el analista puede anotar sugerencias para realizar mejoras basadas en los resultados del análisis (ver cuadro 4 y cuadro 5). La 
+tarea puede ser variable y el contenido de trabajo amplio, de tal modo que la utilización de una escala sea irracional. En estos casos, 
+es preferible una descripción verbal.
+Cuadro 4: Perfil valorativo
+
+Cuadro 5: Ficha resumen
+El analista entrevista al trabajador y marca su evaluación subjetiva como buena (++), regular (+), deficiente (-), o muy deficiente (—). Si 
+la evaluación del trabajador y la clasificación del analista difieren considerablemente, la situación de trabajo debe analizarse más 
+ampliamente.
+
+El tiempo necesario para el análisis variará de acuerdo con el grado de experiencia del analista y la complejidad de las tareas. El 
+analista puede abarcar una tarea simple y con la que esté familiarizado en 15 minutos, mientras que un principiante puede necesitar 
+medio día para analizar una tarea compleja.
+Bibliografía
+ERGONOMIC WORKPLACE ANALYSIS 
+Ergonomic Section 
+Finnish Institute of Occupational Health 
+Helsinki, FinIand, 1989.
+   © INSHT
