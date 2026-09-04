@@ -1,0 +1,121 @@
+# Reparto a mano del bloque específico de Profesor/a de Orquesta.
+#
+# **Un cuadernillo**: `64_preguntas_profesor_orquesta`, de 96 preguntas —80
+# principales más 16 de reserva—, con su plantilla completa fechada el
+# 17/03/2025. **El PDF de preguntas se extrae como texto legible**; **la
+# plantilla, en cambio, sale en columnas y se ha leído por coordenadas**, y sus
+# 96 respuestas salen enteras, sin huecos y sin una sola anotación.
+#
+# De las 96, **diez son del bloque común**: la 4, la 26, la 38, la 43, la 44, la
+# 47 y la 70 de la Constitución; la 73 de la Ley 17/2006; y **la 86 y la 89 del
+# Anexo de Régimen Especial de Orquesta y Coro del III Convenio Colectivo**,
+# que es la única parte del bloque común que sólo interesa a esta ocupación.
+# **Las otras 86 son del específico** y están todas repartidas.
+#
+# **Cuatro no las coge ninguna palabra clave** y van a mano en
+# `reclasificadas.tsv`: la 26 y la 38, que preguntan por la Constitución sin
+# nombrarla; y la 86 y la 89, que preguntan por el convenio sin nombrarlo.
+#
+# **Este anexo tiene 7 puntos y el volumen 11 temas**, y hay que declarar por
+# qué se parte y no se une:
+#
+# **El punto 1 se lleva 53 de las 86 preguntas**, el 62 % del específico, y sus
+# tres subpuntos son tres materias distintas: **1.1 compositores y obras**,
+# **1.2 estilos y formas musicales** y **1.3 secciones de la orquesta**. Un solo
+# tema con 53 preguntas sería inmanejable, así que **se parte por los subpuntos
+# que el propio anexo numera**, y el 1.1 se parte a su vez **por la lista de
+# países que el propio enunciado del punto 1 da**: Alemania y Austria por un
+# lado; España, Francia, Italia, Hungría y Rusia por otro. **Ninguna partición
+# se inventa un criterio: todas salen del texto del anexo.**
+#
+# **Y una observación sobre el punto 1 que hay que dejar escrita**: su enunciado
+# nombra siete países y **la pregunta 2 pregunta por un compositor
+# estadounidense**, que no es de ninguno de los siete. Se clasifica con los
+# compositores por proximidad y **se declara**.
+origen	numero	tema	motivo
+64_preguntas_profesor_orquesta	14	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	23	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	41	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	42	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	55	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	59	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	65	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	66	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	79	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	83	01	Los estilos y los periodos de la música clásica
+64_preguntas_profesor_orquesta	13	02	Las formas musicales
+64_preguntas_profesor_orquesta	20	02	Las formas musicales
+64_preguntas_profesor_orquesta	30	02	Las formas musicales
+64_preguntas_profesor_orquesta	37	02	Las formas musicales
+64_preguntas_profesor_orquesta	39	02	Las formas musicales
+64_preguntas_profesor_orquesta	67	02	Las formas musicales
+64_preguntas_profesor_orquesta	78	02	Las formas musicales
+64_preguntas_profesor_orquesta	84	02	Las formas musicales
+64_preguntas_profesor_orquesta	88	02	Las formas musicales
+64_preguntas_profesor_orquesta	3	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	8	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	9	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	16	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	17	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	35	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	40	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	46	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	52	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	60	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	69	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	74	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	76	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	80	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	82	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	91	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	95	03	Compositores y obras de Alemania y Austria
+64_preguntas_profesor_orquesta	2	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	11	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	12	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	28	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	49	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	56	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	58	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	81	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	85	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	90	04	Compositores y obras de España, Francia, Italia, Hungría y Rusia
+64_preguntas_profesor_orquesta	18	05	Las secciones de la orquesta sinfónica
+64_preguntas_profesor_orquesta	21	05	Las secciones de la orquesta sinfónica
+64_preguntas_profesor_orquesta	27	05	Las secciones de la orquesta sinfónica
+64_preguntas_profesor_orquesta	29	05	Las secciones de la orquesta sinfónica
+64_preguntas_profesor_orquesta	32	05	Las secciones de la orquesta sinfónica
+64_preguntas_profesor_orquesta	72	05	Las secciones de la orquesta sinfónica
+64_preguntas_profesor_orquesta	75	05	Las secciones de la orquesta sinfónica
+64_preguntas_profesor_orquesta	10	06	La música de cámara
+64_preguntas_profesor_orquesta	94	06	La música de cámara
+64_preguntas_profesor_orquesta	15	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	22	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	24	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	33	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	34	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	36	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	51	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	57	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	62	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	77	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	92	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	96	07	La música sinfónico-coral
+64_preguntas_profesor_orquesta	45	08	La zarzuela
+64_preguntas_profesor_orquesta	50	08	La zarzuela
+64_preguntas_profesor_orquesta	68	08	La zarzuela
+64_preguntas_profesor_orquesta	6	09	La dirección de orquesta
+64_preguntas_profesor_orquesta	19	09	La dirección de orquesta
+64_preguntas_profesor_orquesta	54	09	La dirección de orquesta
+64_preguntas_profesor_orquesta	61	09	La dirección de orquesta
+64_preguntas_profesor_orquesta	63	09	La dirección de orquesta
+64_preguntas_profesor_orquesta	64	09	La dirección de orquesta
+64_preguntas_profesor_orquesta	71	09	La dirección de orquesta
+64_preguntas_profesor_orquesta	87	09	La dirección de orquesta
+64_preguntas_profesor_orquesta	1	10	La Orquesta Sinfónica y el Coro de RTVE
+64_preguntas_profesor_orquesta	5	10	La Orquesta Sinfónica y el Coro de RTVE
+64_preguntas_profesor_orquesta	7	10	La Orquesta Sinfónica y el Coro de RTVE
+64_preguntas_profesor_orquesta	25	10	La Orquesta Sinfónica y el Coro de RTVE
+64_preguntas_profesor_orquesta	31	10	La Orquesta Sinfónica y el Coro de RTVE
+64_preguntas_profesor_orquesta	48	10	La Orquesta Sinfónica y el Coro de RTVE
+64_preguntas_profesor_orquesta	53	10	La Orquesta Sinfónica y el Coro de RTVE
+64_preguntas_profesor_orquesta	93	10	La Orquesta Sinfónica y el Coro de RTVE

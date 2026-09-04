@@ -40,7 +40,10 @@ SALIDA = "banco"
 # ningún cuadernillo y el script no falla: reparte cero preguntas y lo dice sin
 # alarma, que es la forma más silenciosa de dar un bloque por hecho
 MARCA = {"informacion": "iyc", "gestion-administrativa": "gea",
-         "produccion-asistencia": "produccion_asist"}
+         "produccion-asistencia": "produccion_asist",
+         # el fichero separa las dos palabras con guión BAJO y la ocupación
+         # con guión medio: sin esta línea no casa ni un cuadernillo
+         "profesor-orquesta": "profesor_orquesta"}
 
 # **Y lo mismo pasa con «Realización»**: los cuadernillos `66_preguntas_realizacion_a`
 # y `68_..._b` son de la ocupación tipo de **Realización**, que tiene su propio
@@ -222,6 +225,18 @@ def main(ocupacion, titulos):
 # Los títulos con los que se encabeza cada fichero del banco. Uno por ocupación,
 # porque el reparto es distinto y los temas no se llaman igual.
 TITULOS = {
+    "profesor-orquesta": {
+        "01": "Profesor de Orquesta · Tema 1 · Los estilos y los periodos de la música clásica",
+        "02": "Profesor de Orquesta · Tema 2 · Las formas musicales",
+        "03": "Profesor de Orquesta · Tema 3 · Compositores y obras de Alemania y Austria",
+        "04": "Profesor de Orquesta · Tema 4 · Compositores y obras de España, Francia, Italia, Hungría y Rusia",
+        "05": "Profesor de Orquesta · Tema 5 · Las secciones de la orquesta sinfónica",
+        "06": "Profesor de Orquesta · Tema 6 · La música de cámara",
+        "07": "Profesor de Orquesta · Tema 7 · La música sinfónico-coral",
+        "08": "Profesor de Orquesta · Tema 8 · La zarzuela",
+        "09": "Profesor de Orquesta · Tema 9 · La dirección de orquesta",
+        "10": "Profesor de Orquesta · Tema 10 · La Orquesta Sinfónica y el Coro de RTVE",
+    },
     "ing-sup-teleco": {
         "01": "Ing. Superior Telecomunicación · Tema 1 · Marco regulatorio de las telecomunicaciones",
         "02": "Ing. Superior Telecomunicación · Tema 2 · La información, la señal y su conversión",
