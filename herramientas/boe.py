@@ -44,20 +44,39 @@ def etiqueta_corte():
     return "vigente hoy" if not CORTE[0] else "vigente a %s" % CORTE[0]
 
 
-def traer(url):
+class SinBloque(Exception):
+    """El BOE no sirve este bloque, pero la norma sí existe.
+
+    Nace del Reglamento de Instalaciones Petrolíferas: su índice se lee entero
+    y **uno solo de sus bloques devuelve 404**. Con `sys.exit` dentro del bucle,
+    ese 404 mataba el volcado de la norma **completa** y no se escribía ni un
+    fichero: la norma quedaba fuera del proyecto sin que nada lo dijera, que es
+    el fallo del apartado 10 del manual. Ahora el bloque que falla se anota en
+    el volcado y en el parte, con su aviso, y los demás se escriben.
+    """
+
+
+def traer(url, tolerante=False):
     r = subprocess.run(
         ["curl", "-sSL", "--max-time", "60", "-H", "Accept: application/xml", url],
         capture_output=True, text=True,
     )
     if r.returncode != 0:
+        if tolerante:
+            raise SinBloque("error de red: %s" % r.stderr.strip())
         sys.exit("error de red: %s" % r.stderr.strip())
     try:
         raiz = ET.fromstring(r.stdout)
     except ET.ParseError:
+        if tolerante:
+            raise SinBloque("respuesta no es XML")
         sys.exit("respuesta no es XML:\n%s" % r.stdout[:400])
     codigo = raiz.findtext("status/code", "")
     if codigo != "200":
-        sys.exit("el BOE responde %s: %s" % (codigo, raiz.findtext("status/text", "")))
+        recado = "el BOE responde %s: %s" % (codigo, raiz.findtext("status/text", ""))
+        if tolerante:
+            raise SinBloque(recado)
+        sys.exit(recado)
     return raiz
 
 
@@ -195,12 +214,25 @@ def cmd_norma(norma, destino):
               "No se edita a mano. Si hace falta refrescarlo, se vuelve a volcar.",
               ""]
     parte = ["bloque\ttitulo\tredacciones\tvigencia\tpublicacion\tnorma\taviso"]
-    avisos, multiples, alarmas, vacatio = [], [], [], []
+    avisos, multiples, alarmas, vacatio, nosirve = [], [], [], [], []
 
     for bid, titulo in bloques:
         if not bid:
             continue
-        raiz = traer("%s/%s/texto/bloque/%s" % (API, norma, bid))
+        try:
+            raiz = traer("%s/%s/texto/bloque/%s" % (API, norma, bid), tolerante=True)
+        except SinBloque as e:
+            # el bloque está en el índice y el BOE no lo sirve. Se deja el
+            # rótulo con el aviso, para que el hueco se vea al leer el volcado
+            parte.append("%s\t%s\t0\t\t\t\tNO SERVIDO POR EL BOE" % (bid, titulo))
+            cuerpo.append("## [%s] %s" % (bid, titulo))
+            cuerpo.append("")
+            cuerpo.append("_**El BOE no sirve este bloque** (%s). Está en el índice "
+                          "de la norma y su texto no se ha podido leer: no lo des "
+                          "por vacío, léelo en la web._" % e)
+            cuerpo.append("")
+            nosirve.append("%s (%s): %s" % (bid, titulo, e))
+            continue
         b = next(raiz.iter("bloque"), None)
         versiones = list(b.iter("version")) if b is not None else []
         if not versiones:
@@ -267,6 +299,14 @@ def cmd_norma(norma, destino):
         print("    Están en el texto publicado, pero su vacatio no había vencido.")
         print("    En el volcado va el rótulo con el aviso, no el texto.")
         for x in vacatio:
+            print("  ! %s" % x)
+        print()
+    if nosirve:
+        print()
+        print("*** %d bloques que el BOE NO SIRVE ***" % len(nosirve))
+        print("    Están en el índice de la norma y su texto devuelve error.")
+        print("    En el volcado va el rótulo con el aviso: NO son bloques vacíos.")
+        for x in nosirve:
             print("  ! %s" % x)
         print()
     print("Preceptos con más de una redacción (%d): léelos enteros." % len(multiples))
