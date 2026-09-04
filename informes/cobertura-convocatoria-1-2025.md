@@ -130,7 +130,7 @@ retoca**— y lo que ha cambiado va aquí, con su fecha.
 **La cuenta queda así**: **761 + 73 = 834 de los 872 puestos**, es decir **el 95,6 %**, y **38 puestos
 repartidos en las trece filas restantes de la tabla de arriba.**
 
-**Y tres de esas quince no son cubribles y así está escrito** en
+**Y tres de esas trece no son cubribles y así está escrito** en
 `informes/ocupaciones-sin-programa-1-2025.md`: **Realización · RADIO (13)**, **Construcción, Montaje y
 Acabado de Decorados (10)** e **Ingeniería Técnica · Informática (1)** **no publicaron anexo con
 temario**, y **este proyecto no escribe un temario sin programa.** **Otras tres —Arquitectura
