@@ -92,7 +92,7 @@ prevención de riesgos laborales**, que es un solo fichero.
 | `libro-tese` | **Técnica de Equipos y Sistemas Electrónicos** | 18 | 162 | 231 |
 | `libro-tecnica-informatica` | **Técnica Informática** | 24 | 138 | 256 |
 | `libro-diseno-grafico` | **Diseño Gráfico** | 14 | 134 | 188 |
-| `libro-ing-tec-teleco` | **Ing. Técnica Telecomunicación** | 20 | 133 | 257 |
+| `libro-ing-tec-teleco` | **Ing. Técnica Telecomunicación** | 20 | 133 | 261 |
 | `libro-ing-tec-industrial` | **Ing. Técnica Industrial** | 17 | 48 | 266 |
 | `libro-imagen-personal` | **Imagen Personal** | 10 | 132 | 161 |
 | `libro-teitse` | **Téc. Equipos, Instalaciones y Sistemas Eléctricos** | 16 | 48 | 237 |
