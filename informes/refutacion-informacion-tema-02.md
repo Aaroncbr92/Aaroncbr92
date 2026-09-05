@@ -1,5 +1,8 @@
 # Refutación del tema 2 del específico de Información y Contenidos
 
+**Siglas de este informe**: Banco Central Europeo (**BCE**); European Central Bank (**ECB**);
+**VOX** (partido político).
+
 **Diecisiete preguntas y ninguna norma que las gobierne.** Como en el tema 1, la refutación no podía
 consistir en contrastar un texto contra su articulado: **las fuentes de este tema son cinco
 documentos distintos y dos páginas institucionales**, y ninguna de ellas es la norma que el tema

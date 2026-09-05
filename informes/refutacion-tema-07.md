@@ -1,5 +1,9 @@
 # Refutación del tema 7 del general
 
+**Siglas de este informe**: conformidad europea (**CE**); Comisión Nacional de los Mercados y la
+Competencia (**CNMC**); **DEBER** (palabra citada como ejemplo); con sus modalidades de salto de
+cuadro (**DF**).
+
 Ley 13/2022, General de Comunicación Audiovisual. Vuelve a ser legislación consolidada, así
 que `boe.py` sirve otra vez, pero el tema trajo **dos problemas nuevos**: uno en la fuente y
 otro, más grave, en las lentes.

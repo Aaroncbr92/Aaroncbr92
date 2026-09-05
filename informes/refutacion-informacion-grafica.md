@@ -1,5 +1,9 @@
 # Refutación · Información Gráfica y Captación de Imagen y Sonido, los once temas
 
+**Siglas de este informe**: función de transferencia electroóptica (**EOTF**); sus parientes la
+optoelectrónica (**OETF**); la función de transferencia optoóptica (**OOTF**); la ultraalta definición (**UHD**); Unión
+Internacional de Telecomunicaciones (**UIT**).
+
 **Las cuatro lentes del proyecto pasadas sobre los once temas del específico de Información Gráfica y
 Captación de Imagen y Sonido**, y lo que sale de la comprobación cruzada entre el examen y sus
 fuentes.

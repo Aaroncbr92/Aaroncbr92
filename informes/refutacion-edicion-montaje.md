@@ -1,5 +1,16 @@
 # Refutación · Edición, Montaje y Procesos Audiovisuales, los diez temas
 
+**Siglas de este informe**: el formato de vídeo entrelazado de Microsoft (**AVI**); iniciativa de cine digital (**DCI**); disco
+versátil digital (**DVD**); estudio de viabilidad del sistema (**EVS**); dos modalidades de código
+de tiempo inventadas por otro cuadernillo de este mismo proceso (**FD**); **FF** (trozo de palabra
+que el detector toma por sigla); formato gráfico de intercambio (**GIF**); alto rango dinámico
+(**HDR**); el logaritmo híbrido (**HLG**); Unión Internacional de Telecomunicaciones en su nombre
+inglés (**ITU**); contenedores de Apple (**MOV**); la no constante (**NCL**); **NFL** (liga
+estadounidense de fútbol americano); el comité nacional de sistemas de televisión de los Estados Unidos (**NTSC**); gráficos de red
+portátiles (**PNG**); verde y azul (**RGB**); formato de imagen etiquetada (**TIFF**); **TOOL**
+(palabra citada como ejemplo); Unión Internacional de Telecomunicaciones (**UIT**); lenguaje de
+marcado extensible (**XML**).
+
 **Las cuatro lentes del proyecto pasadas sobre los diez temas del específico de Edición, Montaje y
 Procesos Audiovisuales**, y lo que sale de la comprobación cruzada entre el examen y sus fuentes.
 

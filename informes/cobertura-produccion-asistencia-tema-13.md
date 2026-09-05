@@ -1,5 +1,11 @@
 # Cobertura del tema 13 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: Aena, gestora aeroportuaria española (**AENA**); **AESA** (Agencia
+Estatal de Seguridad Aérea); la publicación de información aeronáutica (**AIP**); **DJI** (marca);
+la Agencia Europea de Seguridad Aérea (**EASA**); **PXW** (serie de cámaras de Sony); Senasa,
+medio propio de la Administración en seguridad aérea (**SENASA**); el reglamento europeo de reglas
+del aire (**SERA**); **UAS** (sistema de aeronave no tripulada).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

@@ -1,5 +1,8 @@
 # Refutación del tema 4 del general
 
+**Siglas de este informe**: **ADO** (programa español de apoyo al deporte olímpico); su rama
+paralímpica (**ADOP**).
+
 Las tres lentes, sobre el volcado del texto consolidado a la fecha de corte.
 
 ## Lente 1 · Exactitud normativa

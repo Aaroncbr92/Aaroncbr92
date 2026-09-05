@@ -1,5 +1,12 @@
 # Refutación del tema 1 del específico de Documentación
 
+**Siglas de este informe**: **AA** (trozo de palabra que el detector toma por sigla); Diario
+Oficial de la Unión Europea (**DO**); Instituto Europeo de Normas de Telecomunicación (**ETSI**);
+Federación de Organismos o Entidades de Radio y Televisión Autonómicos (**FORTA**); **TDP** (canal
+Teledeporte de RTVE); frecuencia ultraalta (**UHF**); Unión Internacional de Telecomunicaciones
+(**UIT**); Unión de Televisiones Comerciales en Abierto (**UTECA**); la banda de muy alta
+frecuencia (**VHF**).
+
 Once preguntas de dato puro, y el tema estrena bloque. La refutación dio **tres hallazgos que
 cambian cosas**: una fuente que estaba dada por leída sin estarlo, **dos citas alteradas dentro de
 comillas**, y —el más gordo— **un punto ciego de una de las lentes que llevaba abierto todo el

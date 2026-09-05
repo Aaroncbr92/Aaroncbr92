@@ -1,5 +1,8 @@
 # Cobertura · Gestión Administrativa, tema 3
 
+**Siglas de este informe**: Ley General de la Seguridad Social (**LGSS**); salario mínimo
+interprofesional (**SMI**).
+
 **Nueve preguntas. Ocho quedan contestadas con artículo; una no tiene respuesta correcta y otra sólo
 se verifica a medias.**
 

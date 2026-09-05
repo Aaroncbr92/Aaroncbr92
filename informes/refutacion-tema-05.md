@@ -1,5 +1,11 @@
 # Refutación del tema 5 del general
 
+**Siglas de este informe**: la Administración General del Estado (**AGE**); interfaz de
+programación de aplicaciones (**API**); el Comité General de Seguridad y Salud Laboral de la
+Corporación RTVE (**CGSSL**); el Comité de Seguridad y Salud Laboral (**CSSL**); el documento
+nacional de identidad (**DNI**); Presupuestos Generales del Estado (**PGE**); la relación de
+puestos de trabajo (**RLT**); **SA** (trozo de palabra que el detector toma por sigla).
+
 III Convenio Colectivo de la Corporación RTVE. Es el primer tema que **no se apoya en
 legislación consolidada**, así que antes de refutar nada hubo que construir la fuente.
 

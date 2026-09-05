@@ -1,4 +1,9 @@
-# Cobertura del tema de PRL del específico
+# Cobertura del tema de prevención de riesgos laborales del específico
+
+**Siglas de este informe**: las bocas de incendio equipadas (**BIE**); Instituto Nacional de
+Seguridad y Salud en el Trabajo (**INSST**); prevención de riesgos laborales (**PRL**); **PSV**
+(club neerlandés); pantallas de visualización de datos (**PVD**); trastornos musculoesqueléticos
+(**TME**); Asociación Española de Normalización (**UNE**).
 
 > **Actualización del 2026-08-30.** Esta prueba se pasó sobre el banco anterior a la pasada de
 > verificación, que le añadió preguntas. Las que entraron después están en

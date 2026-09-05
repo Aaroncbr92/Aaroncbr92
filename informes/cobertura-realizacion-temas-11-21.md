@@ -1,5 +1,7 @@
 # Cobertura · Realización (Asistencia), temas 11 a 21
 
+**Siglas de este informe**: Unión Internacional de Telecomunicaciones (**UIT**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y donde
 el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

@@ -1,5 +1,7 @@
 # Cobertura · Gestión Administrativa, tema 2
 
+**Siglas de este informe**: Estatuto de los Trabajadores (**ET**).
+
 **Ocho preguntas, las ocho con artículo del Estatuto detrás.** Es el primer punto de esta ocupación
 con cobertura normativa completa, y aun así **dos de las ocho tienen problemas**, que no son de
 cobertura sino de la propia pregunta.

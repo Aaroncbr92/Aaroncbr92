@@ -1,5 +1,7 @@
 # Refutación del tema 4 del específico de Documentación
 
+**Siglas de este informe**: Organización Internacional de Normalización (**ISO**).
+
 Cuatro preguntas y **dos fuentes**. Es la proporción más baja del bloque, y **la refutación de este
 tema consiste sobre todo en demostrar que esa pobreza no es descuido**.
 

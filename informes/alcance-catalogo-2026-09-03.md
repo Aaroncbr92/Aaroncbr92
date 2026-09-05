@@ -1,5 +1,8 @@
 # Alcance · las 53 ocupaciones tipo de RTVE y cuánto tenemos escrito
 
+**Siglas de este informe**: Comisiones Obreras (**CCOO**); protocolo de internet (**IP**);
+interfaz digital de audio multicanal (**MADI**); interfaz digital serie (**SDI**).
+
 Hecho el **3 de septiembre de 2026**, con **ocho volúmenes cerrados**. Contesta a una
 pregunta concreta: **cuántas ocupaciones tiene esta oposición, cuántos temas tiene cada
 una y qué parte está escrita**, para saber qué falta para poder dar temario a todas.

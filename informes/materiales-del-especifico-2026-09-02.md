@@ -1,5 +1,15 @@
 # Qué material hace falta para los quince temas que quedan
 
+**Siglas de este informe**: la publicación de información aeronáutica (**AIP**); cuaderno de
+admisión temporal (**ATA**); Corporación de Radio y Televisión Española (**CRTVE**); iniciativa de
+cine digital (**DCI**); estado de flujos de efectivo (**EFE**); Enaire, gestora española de
+navegación aérea (**ENAIRE**); Instituto Europeo de Normas de Telecomunicación (**ETSI**); alto
+rango dinámico (**HDR**); la Asociación Internacional de Transporte Aéreo (**IATA**); **LE**
+(trozo de palabra que el detector toma por sigla); diodo emisor de luz (**LED**); el billete de
+canje del transporte aéreo (**MCO**); la órbita terrestre media (**MEO**); **SMPTE** (Sociedad de
+Ingenieros de Cine y Televisión); **SNTV** (agencia de vídeo deportivo); **UAS** (sistema de
+aeronave no tripulada); Unión Internacional de Telecomunicaciones (**UIT**).
+
 Segunda mitad del hallazgo del 2 de septiembre: **de las 129 preguntas
 específicas de Producción (Asistencia), sólo 15 tienen una norma del BOE detrás**
 (`informes/fuentes-del-especifico-2026-09-02.md`), y esos dos temas —el 2 y el

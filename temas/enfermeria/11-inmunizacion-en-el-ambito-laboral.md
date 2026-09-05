@@ -111,21 +111,21 @@ biológicos.**
 
 **Y enumera seis fundamentos.** **Se citan porque son de los que un examen pide enteros:**
 
-> **Proteger al personal del riesgo de padecer determinadas enfermedades transmisibles**, incluyendo las
+> «**Proteger al personal del riesgo de padecer determinadas enfermedades transmisibles**, incluyendo las
 > personas especialmente sensibles por padecer enfermedades crónicas o en situaciones como embarazo o
-> lactancia.
+> lactancia.»
 
-> **Evitar que el personal sea fuente de contagio de enfermedades transmisibles para otras personas que
-> trabajan en el mismo lugar o para la comunidad.**
+> «**Evitar que el personal sea fuente de contagio de enfermedades transmisibles para otras personas que
+> trabajan en el mismo lugar o para la comunidad.**»
 
-> **Disminuir las ausencias al trabajo como consecuencia de enfermedades infecciosas inmunoprevenibles
-> adquiridas por la plantilla en el desempeño de sus funciones.**
+> «**Disminuir las ausencias al trabajo como consecuencia de enfermedades infecciosas inmunoprevenibles
+> adquiridas por la plantilla en el desempeño de sus funciones.**»
 
-> **Evitar muertes que se produzcan como consecuencia de enfermedades infecciosas.**
+> «**Evitar muertes que se produzcan como consecuencia de enfermedades infecciosas.**»
 
-> **Evitar enfermedades infecciosas que puedan evolucionar a la cronicidad.**
+> «**Evitar enfermedades infecciosas que puedan evolucionar a la cronicidad.**»
 
-> **Promover la salud en un entorno seguro y cercano al personal ocupacional.**
+> «**Promover la salud en un entorno seguro y cercano al personal ocupacional.**»
 
 ---
 
@@ -186,17 +186,17 @@ las vacunas no se rige por este anexo**, y **eso importa para el epígrafe 5.**
 
 **Y enumera tres tareas mínimas.** **Citadas:**
 
-> **Evaluar los riesgos e identificar al personal con riesgo de padecer enfermedades inmunoprevenibles,
+> «**Evaluar los riesgos e identificar al personal con riesgo de padecer enfermedades inmunoprevenibles,
 > incluyendo las personas que precisen viajar a zonas geográficas** endémicas de alguna de estas
 > enfermedades **o que desarrollen su trabajo en lugares con gran concentración de personas** donde
-> determinadas enfermedades son más fácilmente transmisibles (cuarteles o centros educativos).
+> determinadas enfermedades son más fácilmente transmisibles (cuarteles o centros educativos).»
 
-> **Formar e informar al personal expuesto de las ventajas de la vacunación y de las consecuencias de la
-> no vacunación**, así como **de los efectos adversos de las vacunas que se recomiendan.**
+> «**Formar e informar al personal expuesto de las ventajas de la vacunación y de las consecuencias de la
+> no vacunación**, así como **de los efectos adversos de las vacunas que se recomiendan.**»
 
-> **Registrar las vacunas administradas en el entorno laboral.** Las vacunas administradas **deberán
+> «**Registrar las vacunas administradas en el entorno laboral.** Las vacunas administradas **deberán
 > registrarse y comunicarse a las autoridades de salud pública de las CCAA**, con la finalidad de
-> incorporar dicha información al registro/sistema de información de vacunación.
+> incorporar dicha información al registro/sistema de información de vacunación.»
 
 ---
 

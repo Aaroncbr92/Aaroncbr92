@@ -1,5 +1,8 @@
 # Refutación del tema 1 del general
 
+**Siglas de este informe**: Consejo General del Poder Judicial (**CGPJ**); el producto interior
+bruto (**PIB**); código de tiempo (**TC**).
+
 Fase 4 del manual, con tres lentes distintas en vez de tres escépticos iguales, y
 con la cláusula delante: **cero hallazgos es un buen resultado si el tema está
 bien**. Las tres lentes están automatizadas en `herramientas/refutar_*.py`, así que

@@ -1,5 +1,11 @@
 # Refutación del tema 11 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: codificación avanzada de vídeo (**AVC**); iniciativa de cine digital
+(**DCI**); **DJI** (marca); difusión de vídeo digital (**DVB**); Instituto Europeo de Normas de
+Telecomunicación (**ETSI**); Organización Internacional de Normalización (**ISO**); **SMPTE**
+(Sociedad de Ingenieros de Cine y Televisión); Unión Europea de Radiodifusión (**UER**); Unión
+Internacional de Telecomunicaciones (**UIT**).
+
 El tema **mejor servido de fuentes** del bloque específico hasta la fecha: **siete de sus diez
 preguntas** tienen norma, recomendación o ficha detrás. Y lo es **porque se probaron otra vez las
 puertas que estaban dadas por cerradas**.

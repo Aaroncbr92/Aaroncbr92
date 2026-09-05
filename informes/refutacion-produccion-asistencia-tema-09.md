@@ -1,5 +1,9 @@
 # Refutación del tema 9 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: iniciativa de cine digital (**DCI**); la Unión Europea de
+Radiodifusión (**EBU**); **ORAD** (marca de grafismo); real decreto (**RD**); Unión Internacional
+de Telecomunicaciones (**UIT**).
+
 El tema **peor servido de fuentes de todo el temario**, y por eso el que más falta le hacía pasar
 por las lentes. Cuatro de sus veinte preguntas tienen norma detrás, tres tienen ficha de fabricante
 y trece no tienen ninguna de las dos cosas. **El hallazgo más caro de esta refutación no lo dio

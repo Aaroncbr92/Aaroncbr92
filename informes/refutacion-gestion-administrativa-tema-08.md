@@ -1,5 +1,11 @@
 # Refutación · Gestión Administrativa, temas 8 a 12
 
+**Siglas de este informe**: **APFS** (sistema de archivos de Apple); disco compacto (**CD**);
+disco versátil digital (**DVD**); tabla de asignación de archivos (**FAT**); protocolo de internet
+(**IP**); **NTFS** (sistema de archivos de nueva tecnología); la transferencia segura de ficheros
+(**SFTP**); el servicio de mensajes cortos (**SMS**); orden de recorte de bloques de las unidades
+de estado sólido (**TRIM**).
+
 **Un solo informe para los cinco temas de informática**, porque comparten fuente, limitación y perfil
 de hallazgos. Lo que es propio de uno va señalado con su número.
 

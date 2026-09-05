@@ -1,5 +1,7 @@
 # Cobertura del tema 5 del específico de Información y Contenidos
 
+**Siglas de este informe**: Federación Internacional de Periodistas (**FIP**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y donde
 el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

@@ -1,5 +1,8 @@
 # Refutación del tema 17 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: el Diario Oficial de la Unión Europea (**DOUE**); Entidad Nacional de
+Acreditación (**ENAC**); la Federación Española de Municipios y Provincias (**FEMP**).
+
 Cuatro lentes sobre el tema, contra sus fuentes: la Ley Orgánica 3/2018 (`BOE-A-2018-16673`) en su
 texto consolidado a **21 de diciembre de 2022**, y el Reglamento (UE) 2016/679
 (`DOUE-L-2016-80807`) con sus **dos correcciones de errores**.

@@ -1,5 +1,8 @@
 # Cobertura · Realización Televisión, los veintidós temas
 
+**Siglas de este informe**: **CLT** (sociedad luxemburguesa de televisión); Federación de
+Organismos o Entidades de Radio y Televisión Autonómicos (**FORTA**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y donde
 el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

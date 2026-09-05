@@ -1,5 +1,8 @@
 # Cobertura del tema 9 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: protocolo de control de luces (**DMX**); diodo emisor de luz
+(**LED**); **ORAD** (marca de grafismo); Unión Internacional de Telecomunicaciones (**UIT**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

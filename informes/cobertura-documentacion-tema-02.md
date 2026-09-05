@@ -1,5 +1,10 @@
 # Cobertura del tema 2 del específico de Documentación
 
+**Siglas de este informe**: **AVID** (marca); el número internacional normalizado de música
+escrita (**ISMN**); Organización Internacional de Normalización (**ISO**); el código internacional
+normalizado de grabación (**ISRC**); el número internacional normalizado de publicaciones seriadas
+(**ISSN**); lenguaje de marcado extensible (**XML**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

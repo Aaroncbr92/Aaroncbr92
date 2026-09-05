@@ -1,5 +1,9 @@
 # Refutación del tema 2 del específico de Documentación
 
+**Siglas de este informe**: Organización Internacional de Normalización (**ISO**); el número
+internacional normalizado de publicaciones seriadas (**ISSN**); el código internacional
+normalizado de obras musicales (**ISWC**).
+
 Un tema con las fuentes buenas **de pago**, y una ley que **numera sus artículos con letra**. Las dos
 cosas apuntan al mismo sitio: **una lente que devuelve cero no es un aprobado**, es un aviso.
 

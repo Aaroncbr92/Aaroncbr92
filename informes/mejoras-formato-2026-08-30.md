@@ -1,5 +1,8 @@
 # Ocho mejoras del volumen, y las 65 respuestas que faltaban
 
+**Siglas de este informe**: el megabyte (**MB**); el reconocimiento óptico de caracteres
+(**OCR**); **TOAC** (marca de este proyecto).
+
 **2026-08-30.** Encargo de ocho cambios sobre el volumen del bloque general, para
 que sirva tal cual a quien estudia. Siete son de formato; una no lo era.
 

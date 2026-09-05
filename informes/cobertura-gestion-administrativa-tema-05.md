@@ -1,5 +1,8 @@
 # Cobertura · Gestión Administrativa, tema 5
 
+**Siglas de este informe**: estado de cambios en el patrimonio neto (**ECPN**); estado de flujos
+de efectivo (**EFE**).
+
 **Quince preguntas: el punto más preguntado de la ocupación.** Catorce se contestan citando el Plan
 —y varias de ellas literalmente—; **una tiene la respuesta oficial equivocada**.
 

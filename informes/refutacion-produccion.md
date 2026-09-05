@@ -1,5 +1,8 @@
 # Refutación · Producción, los dieciséis temas
 
+**Siglas de este informe**: **AISGE** (Sociedad de Gestión); Asociación de Mujeres Cineastas y de
+Medios Audiovisuales (**CIMA**).
+
 **Las cuatro lentes del proyecto pasadas sobre los dieciséis temas del específico de Producción**, y
 lo que sale de la comprobación cruzada entre el examen y sus fuentes.
 

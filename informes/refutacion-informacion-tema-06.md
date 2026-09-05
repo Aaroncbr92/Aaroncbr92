@@ -1,5 +1,8 @@
 # Refutación del tema 6 del específico de Información y Contenidos
 
+**Siglas de este informe**: **ESTADO** (palabra citada como ejemplo); codificación de caracteres
+del manual en la web (**UTF**).
+
 **Un documento de cuarenta y ocho mil palabras y nueve preguntas que se contestan con nueve frases
 suyas.** La refutación de este tema tenía un objetivo claro: **que las nueve frases estén exactamente
 como las escribe el manual**, porque la respuesta de cada pregunta **es la frase**.

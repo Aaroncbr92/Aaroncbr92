@@ -1,5 +1,7 @@
 # Segunda prueba de cobertura del bloque general
 
+**Siglas de este informe**: Comisión Nacional de los Mercados y la Competencia (**CNMC**).
+
 **2026-08-30.** El apartado 7 del manual manda comprobar, una por una, si las preguntas del
 estilo real se contestan **con el cuerpo del tema delante y nada más**. Los ocho informes
 `cobertura-tema-*.md` lo hicieron sobre **425 preguntas**. La pasada de verificación del

@@ -1,5 +1,7 @@
 # Refutación del tema 14 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: cuaderno de admisión temporal (**ATA**).
+
 Cuatro preguntas con tratado detrás y dos sin nada, y **un fallo de las lentes que este tema sacó a
 la luz y obligó a arreglar la herramienta**.
 

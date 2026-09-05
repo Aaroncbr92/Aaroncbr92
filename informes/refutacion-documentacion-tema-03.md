@@ -1,5 +1,8 @@
 # Refutación del tema 3 del específico de Documentación
 
+**Siglas de este informe**: Organización Internacional de Normalización (**ISO**); el marco de
+descripción de recursos (**RDF**).
+
 Ocho preguntas, y **dos sitios cerrados que se abrieron por una puerta lateral**. El hallazgo de la
 refutación, en cambio, fue de casa: **dos artículos citados con el número equivocado**, y la lente lo
 dijo por partida doble.

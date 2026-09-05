@@ -1,5 +1,10 @@
 # Refutación · Realización (Asistencia), los veintiún temas
 
+**Siglas de este informe**: el formato de fichero de intercambio de audio (**AIFF**); **AIFFK**
+(errata de la fuente por AIFF); iniciativa de cine digital (**DCI**); generador de efectos
+digitales (**DVE**); estudio de viabilidad del sistema (**EVS**); formato de grabación en disco
+óptico de la casa Sony (**XDCAM**).
+
 **Las cuatro lentes del proyecto pasadas sobre los veintiún temas**, y lo que sale de la
 comprobación cruzada entre el examen y sus fuentes.
 

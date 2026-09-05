@@ -1,5 +1,9 @@
 # Cobertura · Realización (Asistencia), temas 1 a 10
 
+**Siglas de este informe**: el formato de fichero de intercambio de audio (**AIFF**); **AIFFK**
+(errata de la fuente por AIFF); difusión de vídeo digital (**DVB**); Instituto Europeo de Normas
+de Telecomunicación (**ETSI**); Unión Internacional de Telecomunicaciones (**UIT**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y donde
 el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

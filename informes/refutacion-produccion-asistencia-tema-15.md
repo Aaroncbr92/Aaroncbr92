@@ -1,5 +1,9 @@
 # Refutación del tema 15 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: **ENEX** (red europea de televisiones); Federación de Organismos o
+Entidades de Radio y Televisión Autonómicos (**FORTA**); Unión de Televisiones Comerciales en
+Abierto (**UTECA**).
+
 El tema donde **la mitad de las preguntas no se ha podido verificar**, y donde eso **no es un fallo
 del método sino su resultado correcto**: hay una organización que el examen pregunta al detalle y
 que **no publica accesiblemente su información**.

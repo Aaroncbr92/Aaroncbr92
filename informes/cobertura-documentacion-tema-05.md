@@ -1,5 +1,8 @@
 # Cobertura del tema 5 del específico de Documentación
 
+**Siglas de este informe**: el formato de onda de radiodifusión (**BWF**); la Unión Europea de
+Radiodifusión (**EBU**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

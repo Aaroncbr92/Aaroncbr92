@@ -1,5 +1,9 @@
 # Pasada de verificación sobre el banco de preguntas
 
+**Siglas de este informe**: Comisión Nacional de los Mercados y la Competencia (**CNMC**);
+Impuesto sobre la Renta de las Personas Físicas (**IRPF**); el reconocimiento óptico de caracteres
+(**OCR**); prevención de riesgos laborales (**PRL**).
+
 **2026-08-30.** Leer una a una las preguntas del bloque común, separar las que la
 transcripción había fundido y recolocar las mal clasificadas. Lo que empezó como
 una revisión de clasificación acabó destapando **dos formas distintas de perder

@@ -1,5 +1,9 @@
 # Cobertura del tema 8 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: codificación avanzada de vídeo (**AVC**); **EX** (sufijo de modelo, no
+sigla); el logaritmo híbrido (**HLG**); cuantización perceptiva (**PQ**); la ultraalta definición
+(**UHD**); formato de grabación en disco óptico de la casa Sony (**XDCAM**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

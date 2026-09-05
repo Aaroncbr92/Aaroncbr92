@@ -1,5 +1,10 @@
 # Cobertura del tema 3 del específico de Información y Contenidos
 
+**Siglas de este informe**: Centro de Investigaciones Sociológicas (**CIS**); Consejo Superior de
+Investigaciones Científicas (**CSIC**); Organismo Internacional de Energía Atómica (**OIEA**);
+Organización del Tratado del Atlántico Norte (**OTAN**); organismo de Naciones Unidas para los
+refugiados de Palestina (**UNRWA**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y donde
 el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

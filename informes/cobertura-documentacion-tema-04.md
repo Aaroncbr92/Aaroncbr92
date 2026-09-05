@@ -1,5 +1,8 @@
 # Cobertura del tema 4 del específico de Documentación
 
+**Siglas de este informe**: el Instituto Nacional de Normas y Tecnología de los Estados Unidos
+(**NIST**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

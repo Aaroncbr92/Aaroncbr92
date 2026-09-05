@@ -1,5 +1,9 @@
 # Qué ocupación tipo conviene escribir después, y por qué
 
+**Siglas de este informe**: **AES** (Sociedad de Ingeniería de Audio); Instituto Europeo de Normas
+de Telecomunicación (**ETSI**); interfaz digital de audio multicanal (**MADI**); Unión
+Internacional de Telecomunicaciones (**UIT**); la Unión Sindical Obrera (**USO**).
+
 Hecho el 2026-09-02, con los tres temarios que tenemos ya cerrados. **No es una
 opinión sobre qué temario sería bonito**: es el cruce de cuatro cifras que se
 pueden comprobar una a una, y todas salen de las bases específicas de la

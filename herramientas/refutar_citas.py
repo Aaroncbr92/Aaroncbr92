@@ -25,14 +25,14 @@ como quiere.
 `> ` y **no es una cita de la norma**: es el programa, y su fuente es el Anexo 2.
 **Ni los tramos muy cortos**, que casan por casualidad.
 
-**Lo que sí marca y no debería, y hay que saberlo antes de correrla**: el
-temario usa el bloque `> ` para dos cosas, para citar y para **encuadrar una
-fórmula o un enunciado propios** —«Caudal de un canal = frecuencia de muestreo ×
-profundidad de bits»—. Eso no es una cita y no está en ninguna norma, así que la
-lente lo marca. **No es un hallazgo: es el precio de no anclar en nada.** Al
-leer su salida, un tramo que el temario declara como suyo se descarta a mano; lo
-que hay que mirar son **los tramos que el tema presenta como palabras de una
-fuente**.
+**Cita o destaque.** El temario usa el bloque `> ` para dos cosas: para citar
+una fuente y para **encuadrar una fórmula o un enunciado propios** —«Caudal de un
+canal = frecuencia de muestreo × profundidad de bits»—. Lo segundo no está en
+ninguna norma, y la lente lo marcaba: eran **treinta y un avisos falsos** sobre
+el corpus, que es justo lo que adiestra a no leer la lista. Los separa la forma
+de la casa: **toda cita de este proyecto va entre comillas angulares** y ningún
+destaque las lleva. Los bloques sin comillas se cuentan aparte y **no suman a
+las no literales**.
 
 No sustituye a `refutar_exactitud`: aquélla comprueba **negrita a negrita dentro
 del artículo que la cita dice**, que es más fino. Ésta comprueba **el bloque
@@ -97,13 +97,25 @@ def main(tema, fuentes):
     texto = open(tema, encoding="utf-8").read()
     volcado = " ".join(limpia(open(f, encoding="utf-8").read()) for f in fuentes)
 
-    ok, malas = 0, 0
+    ok, malas, destaques = 0, 0, 0
     for b in bloques_de_cita(texto):
         if "**" not in b:
             # un bloque en `>` sin negrita no es una cita literal de este método
             continue
         if b.lstrip().lstrip("*").startswith("Enunciado"):
             # el enunciado de la convocatoria no es cita de la norma: es el programa
+            continue
+        # **Bloque de cita o bloque de destaque.** El temario usa `> ` para dos
+        # cosas: citar una fuente y encuadrar una fórmula o un enunciado propios
+        # —«Caudal de un canal = frecuencia de muestreo × profundidad de bits»—.
+        # Lo segundo no está en ninguna norma, así que la lente lo marcaba y el
+        # aviso no era un hallazgo: eran treinta y un falsos sobre el corpus.
+        #
+        # Lo que los separa es la forma de la casa: **toda cita de este proyecto
+        # va entre comillas angulares** y ningún destaque las lleva. Se cuentan
+        # aparte y no se suman a las no literales, que es la cifra que se mira.
+        if "«" not in b and "»" not in b:
+            destaques += 1
             continue
         for tramo in re.findall(r"\*\*(.+?)\*\*", b, re.S):
             c = limpia(tramo)
@@ -115,6 +127,9 @@ def main(tema, fuentes):
             else:
                 malas += 1
                 print("  ! no literal: %s" % (c[:160] + ("..." if len(c) > 160 else "")))
+    if destaques:
+        print("  (%d bloque(s) de destaque, sin comillas angulares: no son citas"
+              " y no se comprueban)" % destaques)
     print("tramos de cita comprobados: %d ; no literales: %d" % (ok, malas))
     return 0
 

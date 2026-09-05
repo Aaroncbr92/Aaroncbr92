@@ -1,4 +1,10 @@
-# Refutación del tema de PRL del específico
+# Refutación del tema de prevención de riesgos laborales del específico
+
+**Siglas de este informe**: la baja tensión (**BT**); la Comisión Nacional de Seguridad y Salud en
+el Trabajo (**CNSST**); **DN** (trozo de palabra que el detector toma por sigla); Organización
+Internacional de Normalización (**ISO**); instrucciones técnicas complementarias en general
+(**ITC**); sus notas técnicas de prevención (**NTP**); prevención de riesgos laborales (**PRL**);
+real decreto (**RD**); trastornos musculoesqueléticos (**TME**).
 
 Es el primer tema del proyecto que **no tiene una norma detrás, sino once fuentes**, y dos de
 sus cinco rúbricas **no tienen artículo que citar**. Eso cambia dónde está el riesgo: aquí lo

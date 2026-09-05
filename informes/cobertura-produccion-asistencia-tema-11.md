@@ -1,5 +1,12 @@
 # Cobertura del tema 11 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: codificación avanzada de vídeo (**AVC**); **DJI** (marca); su versión
+digital (**DSNG**); difusión de vídeo digital (**DVB**); Instituto Europeo de Normas de
+Telecomunicación (**ETSI**); la fibra hasta el edificio (**FTTB**); la fibra hasta la acera
+(**FTTC**); fibra hasta el domicilio (**FTTH**); la órbita terrestre baja (**LEO**); la órbita
+terrestre media (**MEO**); **SMPTE** (Sociedad de Ingenieros de Cine y Televisión); televisión
+digital terrestre (**TDT**); Unión Internacional de Telecomunicaciones (**UIT**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

@@ -1,5 +1,7 @@
 # Refutación del tema 8 del general
 
+**Siglas de este informe**: empresa de trabajo temporal (**ETT**).
+
 Ley 31/1995, de Prevención de Riesgos Laborales. Legislación consolidada, `boe.py` sirve, y
 esta vez **la fuente se portó bien**: 88 bloques, ninguna reforma cruzada, y una diferencia de
 solo dos bloques entre la redacción del corte y la de hoy. Lo que dio trabajo fueron **las

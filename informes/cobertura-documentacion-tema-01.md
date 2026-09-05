@@ -1,5 +1,8 @@
 # Cobertura del tema 1 del específico de Documentación
 
+**Siglas de este informe**: **TDP** (canal Teledeporte de RTVE); frecuencia ultraalta (**UHF**);
+la banda de muy alta frecuencia (**VHF**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

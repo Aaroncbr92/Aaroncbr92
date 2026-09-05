@@ -1,5 +1,9 @@
 # Cobertura del tema 8 del general
 
+**Siglas de este informe**: las Administraciones Públicas (**AAPP**); Constitución Española
+(**CE**); Estatuto de los Trabajadores (**ET**); Instituto Nacional de Seguridad e Higiene en el
+Trabajo (**INSHT**); prevención de riesgos laborales (**PRL**).
+
 > **Actualización del 2026-08-30.** Esta prueba se pasó sobre el banco anterior a la pasada de
 > verificación, que le añadió preguntas. Las que entraron después están en
 > `informes/cobertura-nuevas-2026-08-30.md`, con sus lagunas y cómo se cerraron. **Las dos

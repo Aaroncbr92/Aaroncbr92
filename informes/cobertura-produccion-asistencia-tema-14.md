@@ -1,5 +1,8 @@
 # Cobertura del tema 14 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: cuaderno de admisión temporal (**ATA**); el centro de proceso de datos
+(**CPD**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

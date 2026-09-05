@@ -1,5 +1,12 @@
 # Refutación del tema 10 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: **BS** (serie de recomendaciones de radiodifusión sonora de la UIT);
+la baja tensión (**BT**); documentos básicos (**DB**); alto rango dinámico (**HDR**); el logaritmo
+híbrido (**HLG**); protección frente al ruido (**HR**); interfaz digital de audio multicanal
+(**MADI**); modulación por impulsos codificados (**MIC**); cuantización perceptiva (**PQ**); real
+decreto (**RD**); Unión Internacional de Telecomunicaciones (**UIT**); conector de audio
+profesional de tres polos (**XLR**).
+
 Primer tema del bloque específico **sin norma jurídica detrás**, y por eso el primero en el que
 las lentes trabajan de otra manera.
 

@@ -1,5 +1,7 @@
 # Refutación del tema 8 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: Unión Internacional de Telecomunicaciones (**UIT**).
+
 Tres preguntas con norma y tres sin ella, y **nueve cifras huérfanas** que resultaron ser, casi
 todas, **exactamente lo que el tema quería demostrar**.
 

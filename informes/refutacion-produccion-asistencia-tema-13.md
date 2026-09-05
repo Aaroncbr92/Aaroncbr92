@@ -1,5 +1,8 @@
 # Refutación del tema 13 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: la publicación de información aeronáutica (**AIP**); **DJI** (marca);
+diodo emisor de luz (**LED**).
+
 Un tema corto —siete preguntas— y **partido en dos mitades de calidad muy distinta**: tres
 respuestas con documento detrás y cuatro con nada más que la plantilla. La refutación tenía que
 comprobar las dos cosas: **que lo documentado es exacto** y **que lo no documentado va marcado**.

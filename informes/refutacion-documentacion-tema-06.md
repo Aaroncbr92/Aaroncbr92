@@ -1,5 +1,10 @@
 # Refutación del tema 6 del específico de Documentación
 
+**Siglas de este informe**: **AA** (trozo de palabra que el detector toma por sigla); interfaz de
+programación de aplicaciones (**API**); **ARTE** (cadena pública franco-alemana); **BORDER**
+(palabra citada como ejemplo); Diario Oficial de la Unión Europea (**DO**); **EU** (sigla inglesa
+de la Unión Europea); real decreto (**RD**).
+
 **Cuarenta preguntas y ninguna norma que las gobierne.** La refutación de este tema no podía consistir
 en contrastar un texto contra su fuente, porque no hay una fuente: consistió en **buscar cuarenta
 veces**, anotar **qué se encontró y qué no**, y **arreglar la lente que se equivocaba al decirlo**.

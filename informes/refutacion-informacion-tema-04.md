@@ -1,5 +1,8 @@
 # Refutación del tema 4 del específico de Información y Contenidos
 
+**Siglas de este informe**: Federación de Organismos o Entidades de Radio y Televisión Autonómicos
+(**FORTA**); **NET** (trozo de palabra que el detector toma por sigla); Veo Televisión (**VEO**).
+
 **Un solo documento y veinte páginas.** Éste es el primer tema del bloque cuya fuente es **una y
 completa**, así que la refutación pudo hacerse de la forma más exigente: **contrastar el tema entero
 contra el documento entero**.

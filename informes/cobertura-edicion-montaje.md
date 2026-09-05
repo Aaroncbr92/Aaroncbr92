@@ -1,5 +1,9 @@
 # Cobertura · Edición, Montaje y Procesos Audiovisuales, los diez temas
 
+**Siglas de este informe**: el logaritmo híbrido (**HLG**); la luminancia no constante (**NCL**); **NFL**
+(liga estadounidense de fútbol americano); la ultraalta definición (**UHD**); Unión Internacional
+de Telecomunicaciones (**UIT**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y donde
 el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

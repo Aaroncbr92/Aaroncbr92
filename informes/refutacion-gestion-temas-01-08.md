@@ -1,5 +1,7 @@
 # Refutación · Gestión, temas 1 a 8 (el bloque de derecho del trabajo)
 
+**Siglas de este informe**: el índice de precios de consumo (**IPC**).
+
 ## 0 · Una herramienta nueva, nacida de escribir ocho temas seguidos
 
 **Escribiendo el tema 2 la lente de exactitud devolvió veintisiete avisos, y los veintisiete eran

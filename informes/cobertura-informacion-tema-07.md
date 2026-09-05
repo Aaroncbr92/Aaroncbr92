@@ -1,5 +1,8 @@
 # Cobertura del tema 7 del específico de Información y Contenidos
 
+**Siglas de este informe**: Grupo de Entidades Reguladoras Europeas para los Servicios de
+Comunicación Audiovisual (**ERGA**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y donde
 el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

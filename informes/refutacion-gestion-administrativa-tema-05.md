@@ -1,5 +1,8 @@
 # Refutación · Gestión Administrativa, tema 5
 
+**Siglas de este informe**: estado de cambios en el patrimonio neto (**ECPN**); estado de flujos
+de efectivo (**EFE**).
+
 ## 1 · Contraste contra documento
 
 **137 negritas comprobadas.** En la primera pasada, **dos cifras huérfanas**, y las dos eran la

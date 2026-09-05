@@ -1,5 +1,9 @@
 # Cobertura del tema 3 del específico de Documentación
 
+**Siglas de este informe**: la Unión Europea de Radiodifusión (**EBU**); protocolo de
+transferencia de hipertexto (**HTTP**); el número internacional normalizado del libro (**ISBN**);
+razón de posibilidades, u *odds ratio* (**OR**); lenguaje de marcado extensible (**XML**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

@@ -1,5 +1,7 @@
 # Cobertura del tema 1 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: lista de decisiones de edición (**EDL**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

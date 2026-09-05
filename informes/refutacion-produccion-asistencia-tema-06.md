@@ -1,5 +1,7 @@
 # Refutación del tema 6 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: la técnica de evaluación y revisión de programas (**PERT**).
+
 **El segundo tema del bloque sin ninguna fuente normativa**, tras el del guion. La refutación de un
 tema así no puede comprobar citas: sólo puede **comprobar que la ausencia es cierta** y **que lo que
 se ofrece en su lugar se sostiene**.

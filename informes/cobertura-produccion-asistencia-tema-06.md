@@ -1,5 +1,8 @@
 # Cobertura del tema 6 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: alto rango dinámico (**HDR**); la técnica de evaluación y revisión de
+programas (**PERT**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

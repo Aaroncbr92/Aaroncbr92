@@ -1,5 +1,8 @@
 # Refutación del tema 1 del específico de Información y Contenidos
 
+**Siglas de este informe**: la Encuesta de Población Activa (**EPA**); Instituto Nacional de
+Estadística (**INE**).
+
 **Ciento veintiuna preguntas y ninguna norma que las gobierne.** La refutación de este tema no podía
 consistir en contrastar un texto contra su fuente, porque no hay **una** fuente: consistió en
 **buscar ciento veintiuna veces**, anotar **qué se encontró y qué no**, y **comprobar una a una las

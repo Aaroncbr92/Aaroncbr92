@@ -12,6 +12,105 @@ from collections import Counter
 # nombra una mezcla de colores**: la síntesis aditiva y la sustractiva son
 # la materia de los temas de color, y sin la salvedad el aviso salta en
 # todos ellos y **entierra el relleno que sí lo es**.
+# **Conectores que una sigla no toma.** «Instituto Nacional de Seguridad y
+# Salud en el Trabajo» da INSST y no INDSYSET: la sigla se forma con las
+# iniciales de las palabras con contenido y salta las preposiciones y los
+# artículos. Sin esta lista, la comprobación semántica de más abajo no
+# reconocería ninguna presentación real.
+# Lo pone `main()` al leer la línea de órdenes.
+ESTRICTO = False
+
+CONECTORES_SIGLA = {"de", "del", "la", "el", "los", "las", "y", "e", "en", "a",
+                    "al", "para", "por", "con", "un", "una", "sobre", "o", "u",
+                    "of", "the", "and", "for"}
+
+
+def forman_sigla(texto, sigla):
+    """¿Las iniciales de `texto` forman `sigla`?
+
+    Se compara sin tildes y saltando los conectores, y basta con que la sigla
+    salga **dentro** de la cadena de iniciales: el nombre largo suele venir
+    precedido de texto que no forma parte de él.
+    """
+    palabras = re.findall(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+", texto)
+    if not palabras:
+        return False
+    iniciales = "".join(quita_tildes(p)[0].upper()
+                        for p in palabras if p.lower() not in CONECTORES_SIGLA)
+    return bool(iniciales) and quita_tildes(sigla).upper() in iniciales
+
+
+def presentada(tema, i, sigla, estricto=False):
+    """¿Está presentada la sigla que empieza en la posición `i`?
+
+    En modo normal basta con **un paréntesis en los 130 caracteres de delante**,
+    que es la regla holgada de siempre. En modo estricto ese paréntesis tiene
+    además que **tener algo que ver con la sigla**, que es el punto ciego que
+    `PENDIENTES.md` tenía anotado: en «RIP (v1 y v2), OSPF, EIGRP» el paréntesis
+    de la primera sigla daba por presentada la tercera.
+    """
+    antes = tema[max(0, i - 130):i]
+
+    # Presentación por detrás: «UGT (Unión General de Trabajadores)». Hay que
+    # **saltar el cierre de negrita y las comillas**, porque la forma de la casa
+    # es «**UGT** (…)» y los dos asteriscos se colaban entre la sigla y el
+    # paréntesis, de modo que la presentación más limpia del proyecto salía
+    # marcada como ausente.
+    if re.match(r"[*»\s]{0,4}\(", tema[i + len(sigla):i + len(sigla) + 8]):
+        return True
+
+    if "(" not in antes:
+        return False
+    if not estricto:
+        return True
+
+    # A partir de aquí, sólo el modo estricto.
+    #
+    # 1. La sigla va DENTRO de un paréntesis todavía abierto. Se busca
+    #    recorriendo hacia atrás y **no comparando cuentas**: la ventana de 130
+    #    caracteres puede haber cortado la apertura de un paréntesis anterior y
+    #    dejar dentro su cierre, con lo que las cuentas cuadran y el abierto de
+    #    verdad no se ve.
+    prof = 0
+    for c in reversed(antes):
+        if c == ")":
+            prof += 1
+        elif c == "(":
+            if prof == 0:
+                return True
+            prof -= 1
+
+    cierres = list(re.finditer(r"\(([^()]*)\)", antes))
+    if cierres:
+        ult = cierres[-1]
+        dentro = ult.group(1)
+        # 2. la sigla está escrita dentro del paréntesis
+        if re.search(r"\b%s\b" % re.escape(sigla), dentro):
+            return True
+        # 3. lo de dentro del paréntesis forma la sigla, o lo hace lo que va
+        #    justo delante: «UGT (Unión General…)» y «Unión General… (UGT)»
+        if forman_sigla(dentro, sigla):
+            return True
+        if forman_sigla(antes[max(0, ult.start() - 90):ult.start()], sigla):
+            return True
+
+    # 4. **Familia por prefijo.** Presentado «(UV)», las bandas UVA, UVB y UVC
+    #    no necesitan presentación propia. Sin esta salvedad el modo estricto
+    #    marca las tres en cuanto el tema nombra el ultravioleta.
+    for otra in re.findall(r"\b([A-Z]{2,6})\b", antes):
+        if otra != sigla and len(otra) >= 2 and sigla.startswith(otra):
+            return True
+
+    # 5. **Enumeración de siglas.** «Las puertas lógicas —AND, OR, NOT, NAND—»
+    #    presenta la lista entera por su encabezamiento. Si entre esta sigla y
+    #    otra anterior sólo hay separadores de lista, va presentada con ella.
+    cola = re.sub(r"[*«»_`]", "", antes).rstrip()
+    if re.search(r"\b[A-Z]{2,6}\b\s*(?:,|;|—|-|\s+y|\s+e|\s+o|\s+u)\s*$", cola):
+        return True
+
+    return False
+
+
 RELLENO = [r"como hemos visto", r"como ya se ha dicho",
            r"en s[íi]ntesis(?!\s+(aditiva|sustractiva|substractiva|crom[áa]tica))",
            r"cabe destacar", r"es importante se[ñn]alar", r"conviene recordar",
@@ -32,6 +131,16 @@ def limpia(s):
 
 
 def main():
+    # **`--siglas-estrictas` no cuenta como hallazgo, y es a propósito.** La
+    # regla estricta deja unos ciento noventa avisos sobre el corpus entero y
+    # **la mayoría son marcas y modelos** —XDCAM, XLR, LEMO, AKG, BNC— que no
+    # son siglas de nada. Contarlos convertiría la lente en una que nadie corre
+    # (manual, apartado 10). Va como modo opcional para auditar las siglas de un
+    # volumen nuevo, donde la lista sí es corta y se repasa a ojo.
+    global ESTRICTO
+    argv = [a for a in sys.argv if a != "--siglas-estrictas"]
+    ESTRICTO = len(argv) != len(sys.argv)
+    sys.argv = argv
     # fuera la portada y el índice: son envoltorio, no afirmaciones del tema
     tema = sin_envoltorio(open(sys.argv[1], encoding="utf-8").read())
     # **Un esquema se mira contra su tema.** El esquema es un telegrama y su
@@ -60,6 +169,14 @@ def main():
     # por espacios, para no mover las posiciones del resto.
     sin_citas = "\n".join(" " * len(l) if l.lstrip().startswith(">") else l
                           for l in tema.splitlines())
+    # **Una muletilla ENTRECOMILLADA se está citando, no usando.** Los informes
+    # del proyecto nombran las expresiones que esta misma lente busca —«como
+    # hemos visto», «en síntesis»— para explicar qué mira, y sin esta salvedad
+    # la lente se marca a sí misma: el documento que la documenta no la pasa.
+    # Es el mismo criterio que ya se aplica a las frases repetidas y a las
+    # citas en bloque. Se sustituye por espacios para no mover posiciones.
+    sin_citas = re.sub(r"«[^»]{0,120}»",
+                       lambda m: " " * len(m.group(0)), sin_citas)
     for pat in RELLENO:
         for m in re.finditer(pat, sin_citas, re.I):
             print("  · %s" % re.sub(r"\s+", " ", tema[max(0, m.start()-60):m.end()+60]))
@@ -94,7 +211,8 @@ def main():
         print("  (ninguna)")
 
     print()
-    print("## Siglas sin presentar la primera vez")
+    print("## Siglas sin presentar la primera vez"
+          + (" (modo estricto: NO cuenta como hallazgo)" if ESTRICTO else ""))
     # Lo que va entre acentos graves no es prosa: es código, un nombre de
     # función, un identificador. Un tema de hoja de cálculo lo tiene a
     # docenas —`BUSCARV`, `SUMAR.SI`, `#¡DIV/0!`— y todos ellos van en
@@ -264,15 +382,11 @@ def main():
         if i < 0:
             continue
         antes = tema[max(0, i - 130):i]
-        # se presenta de las dos maneras y las dos valen: «Unión General de
-        # Trabajadores (UGT)» y «UGT (Unión General de Trabajadores)». Mirando
-        # sólo hacia atrás, la segunda salía como sigla sin presentar aunque
-        # llevara la explicación pegada detrás.
-        despues = tema[i + len(sigla):i + len(sigla) + 3]
-        if "(" not in antes and not re.match(r"\s?\(", despues):
+        if not presentada(tema, i, sigla, ESTRICTO):
             print("  · %-6s primera aparición: ...%s%s..."
                   % (sigla, re.sub(r"\s+", " ", antes[-70:]), sigla))
-            hallazgos += 1
+            if not ESTRICTO:
+                hallazgos += 1
 
     # **Negritas rotas y negritas anidadas.** Ninguna otra lente mira cómo se
     # RENDERIZA el texto, y hay un defecto que sólo se ve al renderizarlo:

@@ -1,5 +1,12 @@
 # Refutación del tema 6 del general
 
+**Siglas de este informe**: Comisiones Obreras (**CCOO**); la Confederación General del Trabajo
+(**CGT**); Corporación de Radio y Televisión Española (**CRTVE**); el colectivo lesbiana, gay,
+transexual y bisexual (**LGTB**); Ley de Prevención de Riesgos Laborales (**LPRL**); Organización
+de las Naciones Unidas (**ONU**); **OO** (trozo de palabra que el detector toma por sigla); la
+Real Academia Española (**RAE**); la Sociedad Estatal de Participaciones Industriales (**SEPI**);
+la Unión General de Trabajadores (**UGT**); la Unión Sindical Obrera (**USO**).
+
 II Plan de Igualdad y Guía de Igualdad de RTVE. **Es el primer tema cuya fuente no está en
 el BOE**, y eso rompe las tres lentes anteriores.
 

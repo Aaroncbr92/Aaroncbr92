@@ -1,5 +1,10 @@
 # Refutación del tema 3 del específico de Información y Contenidos
 
+**Siglas de este informe**: Centro de Investigaciones Sociológicas (**CIS**); Consejo Superior de
+Investigaciones Científicas (**CSIC**); ahí sale un error del examen— y la Organización para la
+Cooperación y el Desarrollo Económicos (**OCDE**); Organismo Internacional de Energía Atómica
+(**OIEA**).
+
 **Veintiuna preguntas y trece documentos del BOE detrás.** A diferencia de los temas 1 y 2, aquí sí
 hay articulado: la Constitución, el Estatuto de Roma, el Convenio de Estambul, el Estatuto de
 Autonomía para Andalucía. Pero **el tema no desarrolla ninguna de esas normas**: cita **un artículo

@@ -1,5 +1,8 @@
 # Refutación · Montaje de Equipos Audiovisuales, los diez temas
 
+**Siglas de este informe**: **ROLL** (palabra citada como ejemplo); **TILT** (palabra citada como
+ejemplo); Unión Internacional de Telecomunicaciones (**UIT**).
+
 **Las cuatro lentes del proyecto pasadas sobre los diez temas del específico de Montaje de Equipos
 Audiovisuales**, y lo que sale de la comprobación cruzada entre el examen y sus fuentes.
 

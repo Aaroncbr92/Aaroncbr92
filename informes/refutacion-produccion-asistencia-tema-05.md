@@ -1,5 +1,7 @@
 # Refutación del tema 5 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: difusión de vídeo digital (**DVB**).
+
 Tres preguntas, ninguna con norma, y **una respuesta oficial que discute con el oficio**. Eso
 último es lo que dio trabajo.
 

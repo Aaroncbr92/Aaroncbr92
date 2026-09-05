@@ -1,5 +1,8 @@
 # Cobertura del tema 16 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: estado de flujos de efectivo (**EFE**); **IMG** (productora
+deportiva); **SNTV** (agencia de vídeo deportivo).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

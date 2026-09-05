@@ -1,5 +1,9 @@
 # Refutación del tema 7 del específico de Información y Contenidos
 
+**Siglas de este informe**: identificador con que la Unión numera sus normas (**CELEX**); Grupo de
+Entidades Reguladoras Europeas para los Servicios de Comunicación Audiovisual (**ERGA**); portal
+jurídico europeo (**EUR**).
+
 **Dos preguntas, dos normas y una aritmética.** La refutación de este tema tenía tres frentes: que las
 citas de la directiva sean literales, que la conversión de porcentajes a minutos esté bien hecha **y
 señalada como conversión**, y que las opciones del examen que el tema cita estén como el cuadernillo

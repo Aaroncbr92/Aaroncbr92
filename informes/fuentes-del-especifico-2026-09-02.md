@@ -1,5 +1,13 @@
 # De qué se puede escribir el bloque específico
 
+**Siglas de este informe**: cuaderno de admisión temporal (**ATA**); iniciativa de cine digital
+(**DCI**); la Unión Europea de Radiodifusión (**EBU**); Federación de Organismos o Entidades de
+Radio y Televisión Autonómicos (**FORTA**); la Asociación Internacional de Transporte Aéreo
+(**IATA**); Organización Internacional de Normalización (**ISO**); interfaz digital de audio
+multicanal (**MADI**); el billete de canje del transporte aéreo (**MCO**); **SMPTE** (Sociedad de
+Ingenieros de Cine y Televisión); Unión Europea de Radiodifusión (**UER**); Unión Internacional de
+Telecomunicaciones (**UIT**); Unión de Televisiones Comerciales en Abierto (**UTECA**).
+
 Un hallazgo de método, medido antes de escribir el primer tema del específico de Producción
 (Asistencia), y que **cambia cómo hay que trabajar la Fase B**.
 

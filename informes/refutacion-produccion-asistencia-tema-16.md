@@ -1,5 +1,9 @@
 # Refutación del tema 16 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: la Agencia Catalana de Noticias (**ACN**); atención primaria (**AP**);
+estado de flujos de efectivo (**EFE**); **ESPN** (cadena estadounidense); **IMG** (productora
+deportiva); **SNTV** (agencia de vídeo deportivo).
+
 Tres preguntas, y **dos verificadas en la portada de la propia agencia**. La tercera dio la
 comprobación más instructiva del tema: **una palabra que se buscó donde tenía que estar y no
 estaba**.

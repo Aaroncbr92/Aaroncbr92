@@ -1,5 +1,8 @@
 # Prueba de cobertura del tema 5 del general
 
+**Siglas de este informe**: Impuesto sobre la Renta de las Personas Físicas (**IRPF**);
+Organización de las Naciones Unidas (**ONU**); Presupuestos Generales del Estado (**PGE**).
+
 > **Actualización del 2026-08-30.** Esta prueba se pasó sobre el banco anterior a la pasada de
 > verificación, que le añadió preguntas. Las que entraron después están en
 > `informes/cobertura-nuevas-2026-08-30.md`, con sus lagunas y cómo se cerraron. **Las dos

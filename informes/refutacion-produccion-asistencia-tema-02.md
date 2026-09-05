@@ -1,5 +1,8 @@
 # Refutación del tema 2 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: televisión por protocolo de internet (**IPTV**); la Ley de Propiedad
+Intelectual (**LPI**).
+
 Cuatro lentes sobre el tema, contra sus dos fuentes: el texto refundido de la Ley de Propiedad
 Intelectual (`BOE-A-1996-8930`) y el Real Decreto-ley 24/2021 (`BOE-A-2021-17910`), ambos en su
 redacción vigente al **21 de diciembre de 2022**.

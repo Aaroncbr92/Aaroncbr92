@@ -1,5 +1,7 @@
 # Cobertura del tema 6 del específico de Información y Contenidos
 
+**Siglas de este informe**: Corporación de Radio y Televisión Española (**CRTVE**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y donde
 el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

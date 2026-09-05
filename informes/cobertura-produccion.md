@@ -1,5 +1,13 @@
 # Cobertura · Producción, los dieciséis temas
 
+**Siglas de este informe**: cuaderno de admisión temporal (**ATA**); Asociación de Mujeres
+Cineastas y de Medios Audiovisuales (**CIMA**); Derechos de Autor de Medios Audiovisuales
+(**DAMA**); su versión digital (**DSNG**); la Unión Europea de Radiodifusión (**EBU**); lista de
+decisiones de edición (**EDL**); Instituto Europeo de Normas de Telecomunicación (**ETSI**);
+Federación de Organismos o Entidades de Radio y Televisión Autonómicos (**FORTA**); Instituto
+Nacional de Seguridad y Salud en el Trabajo (**INSST**); Unión Internacional de Telecomunicaciones
+(**UIT**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y donde
 el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

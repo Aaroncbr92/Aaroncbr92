@@ -1,5 +1,8 @@
 # Refutación del tema 8 del específico de Información y Contenidos
 
+**Siglas de este informe**: portal jurídico europeo (**EUR**); Organización Internacional de
+Normalización (**ISO**).
+
 **Un documento y diez citas.** Como el tema 4 y el 6, éste tiene **una sola fuente y completa**, así
 que la refutación pudo hacerse del modo más exigente: **cada cita del tema contra el texto entero de
 la resolución**.

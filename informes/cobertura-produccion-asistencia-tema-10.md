@@ -1,5 +1,10 @@
 # Cobertura del tema 10 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: **AES** (Sociedad de Ingeniería de Audio); el antiguo Comité
+Consultivo Internacional de Radiocomunicaciones (**CCIR**); alto rango dinámico (**HDR**); el
+logaritmo híbrido (**HLG**); interfaz digital de audio multicanal (**MADI**); cuantización
+perceptiva (**PQ**); Unión Internacional de Telecomunicaciones (**UIT**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

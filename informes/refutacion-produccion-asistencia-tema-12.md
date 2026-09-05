@@ -1,5 +1,8 @@
 # Refutación del tema 12 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: **DJI** (marca); Instituto Europeo de Normas de Telecomunicación
+(**ETSI**); Unión Internacional de Telecomunicaciones (**UIT**).
+
 Cinco de seis preguntas sin más autoridad que la plantilla, y **una ficha de fabricante que salvó
 la más rara del bloque**. La refutación tenía dos trabajos: comprobar que la ficha dice lo que el
 tema afirma, y **comprobar que la declaración de ausencia es cierta** para las otras cinco.

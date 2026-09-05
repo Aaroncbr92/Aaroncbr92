@@ -1,5 +1,8 @@
 # Cobertura · Gestión Administrativa, tema 4
 
+**Siglas de este informe**: el índice de precios de consumo (**IPC**); Impuesto sobre la Renta de
+las Personas Físicas (**IRPF**).
+
 **Ocho preguntas. Siete se contestan citando artículo; una se apoya en una norma que el Anexo 2 no
 incluye.**
 

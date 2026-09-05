@@ -1,5 +1,8 @@
 # Refutación del tema 3 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: **AES** (Sociedad de Ingeniería de Audio); Instituto Europeo de Normas
+de Telecomunicación (**ETSI**); **SMPTE** (Sociedad de Ingenieros de Cine y Televisión).
+
 **El tema sin fuentes.** Ninguna de sus seis preguntas tiene norma detrás, y eso cambia lo que una
 refutación puede hacer: aquí no se trata de comprobar citas —apenas hay una— sino de **verificar
 que la declaración de ausencia es cierta** y que **nada se presenta como más sólido de lo que es**.

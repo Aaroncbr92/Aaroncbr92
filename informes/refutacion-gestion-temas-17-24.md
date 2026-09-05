@@ -1,5 +1,9 @@
 # Refutación · Gestión, temas 17 a 24
 
+**Siglas de este informe**: beneficio antes de impuestos (**BAI**); beneficio antes de intereses e
+impuestos (**BAII**); el beneficio antes de intereses e impuestos (**EBIT**); el beneficio antes de intereses,
+impuestos, depreciaciones y amortizaciones (**EBITDA**); impuesto sobre el valor añadido (**IVA**).
+
 ## 1 · La octava errata del proyecto, y la primera que no se refuta con un artículo
 
 **Pregunta 32.** El enunciado pide **«el indicador del resultado de explotación de una empresa, sin

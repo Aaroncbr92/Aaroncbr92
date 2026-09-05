@@ -1,5 +1,10 @@
 # Cobertura del tema 15 del específico de Producción (Asistencia)
 
+**Siglas de este informe**: la Unión Europea de Radiodifusión (**EBU**); **ENEX** (red europea de
+televisiones); Federación de Organismos o Entidades de Radio y Televisión Autonómicos (**FORTA**);
+Unión Europea de Radiodifusión (**UER**); Unión de Televisiones Comerciales en Abierto
+(**UTECA**).
+
 **Prueba del apartado 7 del manual**: se contestan las preguntas reales con el tema delante, y
 donde el tema no llegue **se amplía el tema, nunca se recorta la pregunta**.
 

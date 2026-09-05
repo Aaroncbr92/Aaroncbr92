@@ -1,5 +1,8 @@
 # Cobertura · Gestión, temas 17 a 24 (costes, tesorería, análisis, IVA, control, Seguridad Social, retribución y nómina)
 
+**Siglas de este informe**: fortalezas y oportunidades (**DAFO**); Impuesto sobre la Renta de las
+Personas Físicas (**IRPF**).
+
 **Un informe para los ocho puntos centrales del temario**, que comparten una característica: son los
 que más mezclan **norma y doctrina**, y en cada uno hay que saber cuál manda.
 

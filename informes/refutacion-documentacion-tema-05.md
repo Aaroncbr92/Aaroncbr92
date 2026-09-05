@@ -1,5 +1,8 @@
 # Refutación del tema 5 del específico de Documentación
 
+**Siglas de este informe**: **ARCA** (sistema de archivo de RTVE); **AVID** (marca); **MEI**
+(mecanismo de equidad intergeneracional); **SIRTEX** (sistema de RTVE).
+
 **Diez preguntas y diez fuentes.** Es el único tema del bloque sin una sola respuesta apoyada en la
 plantilla, y la refutación dio tres hallazgos: **una traducción disfrazada de cita**, **una cita con
 el encabezado de la revista dentro** y **una fuente que contestó la pregunta de otro tema**.

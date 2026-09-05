@@ -1,5 +1,13 @@
 # Refutación · Realización Televisión, los veintidós temas
 
+**Siglas de este informe**: **AVID** (marca); **AVISAR** (palabra citada como ejemplo); protocolo
+de control de luces (**DMX**); **FINITO** (palabra citada como ejemplo); Federación de Organismos
+o Entidades de Radio y Televisión Autonómicos (**FORTA**); protocolo de internet (**IP**); **IPF**
+(índice de precios); **LAN** (red de área local); diodo emisor de luz (**LED**); **LIVE** (palabra
+citada como ejemplo); **MIRADA** (sistema de RTVE); **NEUTRO** (palabra citada como ejemplo);
+**PILOT** (palabra citada como ejemplo); **PRIME** (palabra citada como ejemplo); **QE**
+(expansión cuantitativa); **REPITE** (palabra citada como ejemplo); **SGO** (sistema de RTVE).
+
 **Las cuatro lentes del proyecto pasadas sobre los veintidós temas del específico de Realización
 Televisión**, y lo que sale de la comprobación cruzada entre los dos cuadernillos y sus fuentes.
 

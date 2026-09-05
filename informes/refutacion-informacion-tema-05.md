@@ -1,5 +1,8 @@
 # Refutación del tema 5 del específico de Información y Contenidos
 
+**Siglas de este informe**: Corporación de Radio y Televisión Española (**CRTVE**); protocolo de
+transferencia de hipertexto (**HTTP**).
+
 **Un tema sin examen es más fácil de refutar y más fácil de equivocar.** Más fácil de refutar porque
 **todo lo que afirma tiene que estar en la norma**, y la norma es corta: no hay «datos de actualidad»
 que se apoyen en una plantilla. Más fácil de equivocar porque **no hay una respuesta oficial que

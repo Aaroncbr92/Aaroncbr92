@@ -1,5 +1,7 @@
 # Refutación · Gestión Administrativa, tema 3
 
+**Siglas de este informe**: Ley General de la Seguridad Social (**LGSS**).
+
 ## 0 · Dos defectos más de las lentes, y uno era grave
 
 **Primero: una lente sólo admitía una fuente.** Este tema descansa en la Ley General de la Seguridad
