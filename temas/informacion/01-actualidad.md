@@ -10,7 +10,7 @@
 | **Identificador** | `BOE-A-2024-11776` · `BOE-A-2023-7936` · `BOE-A-2023-12203` · `BOE-A-2024-21208` · `BOE-A-2023-23938` · `BOE-A-2024-15419` · `BOE-A-2024-18101` · `BOE-A-2023-22299` · `BOE-A-2024-18000` · `BOE-A-2023-23543` · `BOE-A-2024-16602` · `BOE-A-2024-20576` · `BOE-A-2024-5214` · `BOE-A-2025-13142` |
 | **Redacción que se estudia** | Las **leyes en su texto vigente**, las **órdenes, reales decretos y resoluciones en su texto original publicado** y las **páginas institucionales tal como estaban el 02/09/2026** |
 | **Aviso sobre las fuentes** | **Es, con enorme diferencia, el punto más preguntado de la ocupación: 121 de las 178 preguntas del bloque específico.** **20 de esas 121 se han podido atar a un documento** —quince al BOE y cinco a la fuente oficial del dato—, y **tres de las veinte solo en parte**, que va dicho donde toca. Las **101 restantes** se apoyan **sólo en la plantilla oficial**, y **van listadas una a una**. Aquí no hay temario que estudiar: hay **datos que comprobar**. Y **una de las veinte no confirma la plantilla: la desmiente** —la tasa de paro— |
-| **Extensión** | **7.456 palabras** |
+| **Extensión** | **7.656 palabras** |
 
 <!-- /portada -->
 
@@ -98,7 +98,7 @@ o va marcado.
   - [Lo que aquí sólo sostiene la plantilla](#lo-que-aquí-sólo-sostiene-la-plantilla)
 - [3. Política internacional](#3-política-internacional)
 - [4. Economía](#4-economía)
-  - [La tasa de paro: la pregunta que la fuente no confirma](#la-tasa-de-paro-la-pregunta-que-la-fuente-no-confirma)
+  - [La tasa de paro: dos cifras oficiales, y las dos son correctas](#la-tasa-de-paro-dos-cifras-oficiales-y-las-dos-son-correctas)
   - [Lo que aquí sólo sostiene la plantilla](#lo-que-aquí-sólo-sostiene-la-plantilla-1)
 - [5. Sociedad](#5-sociedad)
 - [6. Cultura](#6-cultura)
@@ -347,12 +347,13 @@ otras tres.
 
 ## 4. Economía
 
-### La tasa de paro: la pregunta que la fuente no confirma
+### La tasa de paro: dos cifras oficiales, y las dos son correctas
 
 **La respuesta oficial**: **11,4 %** en el segundo trimestre de 2024.
 
-**Y el INE no dice eso.** La nota de prensa de la **Encuesta de Población Activa del segundo
-trimestre de 2024**, publicada el **26 de julio de 2024**, dice, en sus «principales resultados»:
+**Y el INE publica otra cifra para el mismo trimestre.** La nota de prensa de la **Encuesta de
+Población Activa del segundo trimestre de 2024**, publicada el **26 de julio de 2024**, dice, en sus
+«principales resultados»:
 
 > «**La tasa de paro fue del 11,27% este trimestre, 1,02 puntos menos que en el anterior.**»
 
@@ -361,21 +362,33 @@ la tasa del primer trimestre de 2024. La misma nota da los otros números del tr
 ocupados más, 21.684.700 ocupados, el paro en 2.755.300 personas— y ninguno de ellos deja sitio para
 un 11,4 %.
 
-**Qué se hace con esto.** El apartado 5 del manual del proyecto obliga a sospechar primero de uno
-mismo, y aquí la sospecha se agota rápido: el documento es del organismo que **produce** la
-estadística, es la publicación oficial del trimestre por el que se pregunta y da la cifra con dos
-decimales. **El enunciado, además, no dice de quién es la tasa**: pregunta «¿cuál fue la tasa de paro
-en el segundo trimestre de 2024?» sin nombrar fuente, y en España «la tasa de paro» trimestral es la
-de la EPA.
+**De dónde sale el 11,4 %, que es la clave del punto.** **No es una errata: es la MISMA encuesta
+medida sobre otra población.** El **Ministerio de Trabajo y Economía Social** publica cada trimestre
+su propio análisis de la Encuesta de Población Activa, y **la tasa que destaca no es la de toda la
+población activa, sino la de las personas de 16 a 64 años**. En ese informe, la del segundo trimestre
+de 2024 es del **11,4 %**.
 
-**Así que el tema enseña 11,27 %, que es lo que publica el INE, y deja constancia de que la respuesta
-oficial es otra.** No se corrige la plantilla —no se puede— pero tampoco se escribe en un temario un
-dato que su fuente desmiente. Va anotado como **enunciado defectuoso** y se imprime con las
-respuestas.
+**Las dos cifras son oficiales, las dos salen de la misma encuesta y ninguna desmiente a la otra**:
 
-**Y si se busca de dónde puede salir el 11,4 %**: la única lectura que se le acerca es la de una
-**serie desestacionalizada mensual** distinta de la EPA trimestral. Pero **eso es una conjetura, no
-una fuente**, y como conjetura se dice.
+| Cifra | Quién la publica | Sobre qué población |
+|---|---|---|
+| **11,27 %** | **INE**, nota de prensa de la Encuesta de Población Activa | **Toda la población activa**, de 16 años en adelante |
+| **11,4 %** | **Ministerio de Trabajo y Economía Social**, su análisis de la misma encuesta | **De 16 a 64 años** |
+
+**La diferencia tiene explicación y conviene entenderla, porque es materia de examen.** **El
+denominador de la segunda deja fuera a los activos de 65 años o más**, que son pocos y están **poco
+parados**: quitarlos del reparto sube ligeramente el porcentaje de parados sobre el resto.
+
+**Qué se hace con esto.** **La respuesta oficial no está mal y el enunciado tampoco**: pregunta por
+«la tasa de paro» sin nombrar fuente, y el 11,4 % es el dato que el ministerio del ramo publica de
+ese trimestre. **Lo que hay que saber es que existen las dos**, y por qué. **El tema da las dos con
+su población al lado**, y quien se examine debe marcar la de la plantilla sabiendo que el 11,27 % del
+INE no es un error suyo, sino otra medida.
+
+**Y la regla que queda para este temario**: **una cifra estadística sin su población de referencia no
+es un dato, es media respuesta.** El proyecto la había anotado como discrepancia entre la plantilla y
+la fuente durante días, y la discrepancia era sólo que **se estaban comparando dos denominadores
+distintos**.
 
 ### Lo que aquí sólo sostiene la plantilla
 
@@ -681,7 +694,7 @@ vistazo cuáles son cuáles. La columna «nivel» dice qué sostiene cada respue
 | 31 | 15 | La ley de animales excluye **los espectáculos taurinos** | **BOE**, Ley 7/2023, art. 1.3.a) |
 | 31 | 39 | La ley de amnistía se publicó y entró en vigor el **11/06/2024** | **BOE**, LO 1/2024 y su disp. final 3.ª |
 | 31 | 71 | Tenían zonas tensionadas declaradas **una** comunidad | **BOE**, Resolución de 08/10/2024 |
-| 31 | 77 | La tasa de paro del 2T de 2024 fue del **11,27 %** | **INE** *(la plantilla dice 11,4 %)* |
+| 31 | 77 | La tasa de paro del 2T de 2024 fue del **11,4 %** de 16 a 64 años, y del **11,27 %** en toda la población activa | **Ministerio de Trabajo** e **INE**: dos poblaciones, una encuesta |
 | 31 | 102 | El Premio Princesa de Asturias de los Deportes 2024 fue para **Carolina Marín** | **La propia Fundación** |
 | 31 | 119 | La primera comunidad en declarar zonas tensionadas fue **Cataluña** | **BOE**, Resolución de 14/03/2024 |
 | 33 | 3 | El Gobierno lo forman **PSOE y Sumar** | **BOE**, RD 835/2023 *(los partidos, plantilla)* |
@@ -703,8 +716,10 @@ deportes y trece de ciencia, tecnología y medios.
 
 ### Los tres avisos de este tema
 
-1. **La tasa de paro (31, nº 77).** La respuesta oficial es **11,4 %**; el INE publica **11,27 %**
-   para ese trimestre. **El tema enseña el dato del INE.**
+1. **La tasa de paro (31, nº 77).** La respuesta oficial, **11,4 %**, es la tasa **de 16 a 64
+   años** que publica el Ministerio de Trabajo; el **11,27 %** del INE es la de **toda la población
+   activa**. **Las dos son de la misma encuesta y las dos son correctas**: se explican en el
+   epígrafe 4.
 2. **El «Proyecto Viena» (33, nº 45)** y **el Premio Café Gijón (33, nº 43).** Los dos enunciados
    imprimen **las cuatro letras seguidas y después los cuatro textos**, y el segundo además parte las
    frases por la mitad. **No cambia la respuesta**, pero hace ilegible el papel: las opciones van en

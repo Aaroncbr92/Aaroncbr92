@@ -17,6 +17,12 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
+_**Ninguno, a 4 de septiembre de 2026.** Los cinco que quedaban abiertos se cerraron ese día: los
+informes que no pasaban la lente de prosa, el punto ciego de esa misma lente, los avisos de la lente
+de citas sobre las fórmulas propias, la tasa de paro que parecía discutir a su fuente y las dos
+preguntas de Gestión que examinan de una ley que su anexo no cita. **Cada uno lleva escrito abajo
+cómo se cerró y qué dejó como método.**_
+
 ### 2026-09-04 · Enfermería de Empresa remitía a temas con dos numeraciones distintas — cerrado el mismo día
 
 **Qué pasó.** Los temas 1, 2, 3, 5 y 6 se escribieron cuando el volumen se planeaba con **uniones de
@@ -102,7 +108,7 @@ escritura, las remisiones ya escritas quedan mintiendo en silencio.** La comprob
 - **Y la regla de escritura que evita el problema de origen**: **el énfasis se hace con negrita, no
   con mayúsculas.** La mayúscula se reserva para una palabra corta que la propia norma destaca.
 
-### 2026-09-03 · Los informes tampoco pasan la lente de prosa — abierto
+### 2026-09-03 · Los informes tampoco pasan la lente de prosa — CERRADO el 2026-09-04
 
 - **Dónde**: `informes/`.
 - **Qué pasa**: el mismo problema que tenían los esquemas y por la misma razón: **la lente nunca se
@@ -117,7 +123,22 @@ escritura, las remisiones ya escritas quedan mintiendo en silencio.** La comprob
   cada informe acompaña—, con la diferencia de que **un informe no tiene tema gemelo con el mismo
   nombre**, así que la correspondencia hay que darla a mano.
 - **Gravedad**: menor.
-- **Estado**: **abierto.**
+- **CERRADO el 2026-09-04.** **Los 166 informes pasan la lente**, y no a base de callarla.
+  **Las expansiones no se han inventado**: se cosecharon **761 siglas de los párrafos de entrada de
+  264 temas**, que es prosa ya escrita y revisada, y sólo lo que el corpus no cubría se escribió a
+  mano. **Y lo que no procede desarrollar porque no es sigla de nada** —marcas, modelos, nombres
+  propios y **las palabras que un informe cita como ejemplo del ruido de una lente**— **lleva un
+  paréntesis honesto en lugar de una expansión falsa**: «**AVID** (marca)», «**BORDER** (palabra
+  citada como ejemplo)».
+- **Lo que costó, y es la lección**: **cosechar con una expresión regular a ciegas daba expansiones
+  truncadas**, y seis se colaron: **CE salió como «conformidad europea» cuando en ese informe era la
+  Constitución**, NTSC como «la línea nacional norteamericana», EBITDA reducido a sus dos últimas
+  palabras. **Se auditaron las 199 insertadas una a una** y se corrigieron. **Una fuente automática
+  de texto que va a entrar en 95 documentos hay que leerla entera antes de dejarla entrar.**
+- **Y dos arreglos de la propia lente que salieron de aquí**: la presentación por detrás **ya salta
+  el cierre de negrita**, de modo que «**UGT** (Unión General de Trabajadores)» —la forma de la
+  casa— deja de contar como sigla sin presentar; y **una muletilla entrecomillada se está citando,
+  no usando**, de modo que el informe que documenta la lente ya no se marca a sí mismo.
 
 ---
 
@@ -578,7 +599,7 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 
 ---
 
-## Una respuesta oficial que su fuente estadística no sostiene — abierto el 2026-09-02
+## Una respuesta oficial que su fuente estadística no sostiene — RESUELTO el 2026-09-04
 
 - **Dónde**: banco `informacion-01`, pregunta 77 del cuadernillo `31_preguntas_iyc`, y el
   epígrafe de economía del tema 1 del específico de **Información y Contenidos**.
@@ -602,6 +623,25 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 - **Gravedad**: induce a error si se estudia la cifra de memoria. **Es la primera vez en el
   proyecto que una fuente estadística, y no una norma, discute una respuesta oficial**: las tres
   erratas de plantilla anotadas más arriba son todas de derecho.
+- **RESUELTO el 2026-09-04, y no había discrepancia: había dos denominadores.** **El 11,4 % es la
+  tasa de paro DE 16 A 64 AÑOS**, que es la que publica el **Ministerio de Trabajo y Economía
+  Social** en su propio análisis trimestral de la Encuesta de Población Activa. **El 11,27 % del INE
+  es la de TODA la población activa**, de 16 años en adelante. **Las dos salen de la misma encuesta,
+  las dos son oficiales y ninguna desmiente a la otra**: el denominador de la primera deja fuera a
+  los activos de 65 años o más, que son pocos y están poco parados, y quitarlos sube el porcentaje.
+- **Consecuencia**: **esto no es un enunciado defectuoso y se retira de la lista de avisos.** La
+  respuesta oficial es correcta y el enunciado también, porque pregunta por «la tasa de paro» sin
+  nombrar fuente. **El tema 1 de Información y Contenidos da ahora las dos cifras con su población al
+  lado** y explica por qué difieren, en vez de enseñar una y desautorizar la otra.
+- **La lección, y vale para todo el proyecto**: **una cifra estadística sin su población de
+  referencia no es un dato, es media respuesta.** La sospecha estuvo dos días anotada como
+  discrepancia entre plantilla y fuente **cuando lo que se estaban comparando eran dos medidas
+  distintas de lo mismo**. Antes de anotar que una respuesta oficial contradice a su fuente, hay que
+  comprobar **sobre qué población está medida cada una**.
+- **Sobre la comprobación**: el informe del ministerio **no ha podido volcarse a `fuentes/`** porque
+  el certificado de `mites.gob.es` no valida a través de la salida de red de este entorno. **La
+  cifra se ha comprobado contra dos consultas independientes que devuelven la misma frase del mismo
+  documento**, y queda dicho que la fuente está identificada pero no archivada.
 
 ---
 
@@ -655,7 +695,7 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 
 ---
 
-## Dos preguntas que examinan de una ley que su propio anexo no cita — abierto el 2026-09-03
+## Dos preguntas que examinan de una ley que su propio anexo no cita — CERRADO el 2026-09-04
 
 - **Dónde**: cuadernillo `15_preguntas_gestion`, preguntas **nº 6** y **nº 89**.
 - **Qué pasa**: las dos se contestan con la **Ley Orgánica 7/2021**, y el **Anexo 2 de Gestión no
@@ -668,6 +708,13 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
   sustituir al examinador; pero el opositor merece saber que ocurrió.
 - **Gravedad**: menor para el temario, **relevante para quien se examine**. Es el tercer caso del
   proyecto en que el examen se sale de su propio programa.
+- **CERRADO el 2026-09-04.** La nota prometía dejar constancia **«aquí y en el informe de cobertura
+  del bloque»**, y **la mitad estaba sin hacer**: el tema 9 sí lo avisaba —en su ficha de portada y
+  en un epígrafe propio, el 7—, pero **ningún informe lo recogía**. Ya está en
+  `informes/cobertura-gestion-temas-09-16.md`, con su propio apartado. **No se amplía el temario con
+  una ley que el anexo no manda estudiar**, que era y sigue siendo la decisión.
+- **La lección**: **una nota de pendientes que dice «se deja constancia en X» es una tarea, no una
+  descripción.** Ésta llevaba un día dándose por hecha.
 
 ---
 
@@ -757,7 +804,7 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 
 ---
 
-## Un punto ciego de la lente de prosa — abierto el 2026-09-03
+## Un punto ciego de la lente de prosa — CERRADO el 2026-09-04
 
 - **Dónde**: `refutar_prosa.py`, la comprobación de siglas sin presentar.
 - **Qué hace hoy**: da una sigla por presentada si **hay un paréntesis en los 130 caracteres que la
@@ -777,8 +824,23 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
   y se anota el punto ciego.
 - **Qué haría falta para cerrarlo bien**: **una comprobación semántica, no sintáctica** —que las
   iniciales de lo que va dentro del paréntesis formen la sigla—, más el arreglo de la comprobación
-  de detrás para que salte por encima de los asteriscos del cierre en negrita. Mientras tanto,
-  **las siglas de cada tema nuevo se repasan a ojo** contra su párrafo de presentación.
+  de detrás para que salte por encima de los asteriscos del cierre en negrita.
+- **CERRADO el 2026-09-04, y las dos cosas están hechas.** **La comprobación semántica existe**
+  —`forman_sigla()` compara las iniciales sin tildes y saltando los conectores, porque «Instituto
+  Nacional de Seguridad y Salud en el Trabajo» da INSST y no INDSYSET— **y la de detrás ya salta el
+  cierre de negrita**, que era la presentación más limpia del proyecto y salía marcada como ausente.
+- **Pero NO se ha hecho gate, y eso es la decisión, no una omisión.** La regla estricta **añade dos
+  reglas más para no marcar los idiomas que el temario usa a propósito** —**familia por prefijo**,
+  que salva las bandas UVA, UVB y UVC de un «(UV)» ya presentado, y **enumeración encabezada**, que
+  salva «las puertas lógicas —AND, OR, NOT—»— y **aun así deja 190 avisos sobre el corpus entero**.
+  **Se miraron, y la mayoría son marcas y modelos**: XDCAM, XLR, LEMO, AKG, BNC, ORTF, SAGEM. **Una
+  lente que nadie corre es peor que una lente holgada** (manual, apartado 10).
+- **Así que va como modo opcional**: `refutar_prosa.py <fichero> --siglas-estrictas` **reporta y no
+  suma al contador**. Sirve para lo que sirve: **auditar las siglas de un volumen nuevo**, donde la
+  lista es corta y se repasa a ojo, sin romper el cero de los 396 temas y los 396 esquemas.
+- **Lo que queda escrito**: **una lente puede tener dos umbrales**, uno que decide y otro que avisa.
+  Forzar el estricto a decidir habría convertido un cero limpio en 190 avisos de los que casi
+  ninguno es un defecto, y el efecto conocido de eso es que se deja de leer la lista.
 
 ---
 
@@ -805,7 +867,7 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
 
 ---
 
-## La lente de citas avisa de las fórmulas propias — abierto el 2026-09-04
+## La lente de citas avisa de las fórmulas propias — CERRADO el 2026-09-04
 
 - **Dónde**: `herramientas/refutar_citas.py`.
 - **Qué hace**: supone que **todo lo que va en negrita dentro de un bloque `>` es una cita**, y lo
@@ -818,3 +880,20 @@ ilegibles, se resolvió leyéndolas celda a celda. **No queda ninguno abierto.**
   ejemplo exigiendo que el bloque cierre con una línea de atribución que empiece por `> —`, que es
   como este proyecto escribe todas sus citas. **Está sin hacer a propósito**: la regla nueva habría
   que probarla contra los 141 temas antes de fiarse de ella.
+- **CERRADO el 2026-09-04, y el separador resultó ser otro.** **La línea de atribución no servía**:
+  no todas las citas del proyecto la llevan. **Lo que sí separa las dos cosas son las comillas
+  angulares**: **toda cita de este proyecto va entre «»** y **ningún destaque las lleva**. Medido
+  antes de tocar nada: **2.192 bloques con comillas y 33 sin ellas** sobre los 396 temas.
+- **Los 33 se leyeron uno a uno**, que es lo que la nota pedía. **Veinticuatro eran destaques de
+  verdad** —fórmulas de matemática financiera, la ecuación de la luminancia, la ley de Ohm, el caudal
+  de un canal de audio—. **Y nueve eran citas de verdad escritas sin comillas**, en el tema 11 de
+  Enfermería: **se han normalizado a la forma de la casa** en lugar de dejarlas fuera de la
+  comprobación. Ahora ese tema da **42 tramos comprobados y 0 no literales**, cuando antes esos nueve
+  bloques no se miraban bien.
+- **Lo que hace ahora la lente**: los bloques sin comillas **se cuentan aparte y se dicen** —«(N
+  bloques de destaque, sin comillas angulares: no son citas y no se comprueban)»— y **no suman a las
+  no literales**, que es la cifra que se mira. Los 31 avisos falsos han desaparecido sin perder ni
+  una comprobación real: **Medicina sigue en 2.019 tramos y 0 no literales**.
+- **La lección**: **antes de inventar un separador, hay que medir cuál usa ya el corpus.** La
+  atribución `> —` era la hipótesis y habría dejado fuera casi todas las citas; las comillas
+  angulares estaban delante desde el principio y las separan con un fallo entre 2.225.

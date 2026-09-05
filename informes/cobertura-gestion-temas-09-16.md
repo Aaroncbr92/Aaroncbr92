@@ -38,6 +38,27 @@ Dos precisiones sobre de dónde salen realmente:
   Comercio**, cuyo artículo 25 exige sólo dos: el de Inventarios y Cuentas anuales y el Diario. El
   tema añade esa norma porque el Plan no la contiene.
 
+## Dos preguntas que examinan de una ley que el anexo no cita
+
+**Las preguntas 6 y 89 del cuadernillo `15_preguntas_gestion` se contestan con la Ley Orgánica
+7/2021**, de protección de datos personales tratados para fines de prevención, investigación,
+detección o enjuiciamiento de infracciones penales, **y el Anexo 2 de Gestión no la cita en ninguno
+de sus treinta y un puntos.**
+
+**No es una errata.** Las dos preguntas tienen respuesta correcta y la plantilla la da bien. **Lo que
+falla es la correspondencia entre el programa y el examen**, que no es cosa del temario sino de quien
+lo redactó.
+
+**Qué se ha hecho, y qué no.** **No se amplía el temario con una ley que el anexo no manda
+estudiar**, porque eso sería sustituir al examinador y cambiaría el tamaño del punto 9 por una
+decisión del proyecto y no del programa. **Lo que sí se hace es decirlo donde el opositor lo va a
+leer**: el tema 9 lleva el aviso en su ficha de portada y **le dedica un epígrafe propio**, el 7, con
+lo que las dos preguntas necesitan y con la advertencia de que el programa no la incluye.
+
+**Es el tercer caso del proyecto en que el examen se sale de su propio programa.** **Gravedad: menor
+para el temario, relevante para quien se examine.**
+
+
 ## Lo que el examen no ha preguntado y sigue siendo materia
 
 **El punto 10 entero.** Los principios presupuestarios, el ciclo, las tres técnicas —clásico, por
