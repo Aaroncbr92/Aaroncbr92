@@ -33,7 +33,7 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `convocatoria/` | Programa oficial literal y exámenes de convocatorias anteriores. |
 | `temas/` | Un fichero por tema. |
 | `informes/` | Un fichero por agente y fase. Nada se queda solo en el chat. |
-| `tienda/` | Arquitectura, plan de implantación y código para **vender los temarios** desde el alojamiento de Hostinger. Empieza por `tienda/README.md`. |
+| `tienda/` | Arquitectura, plan de implantación y código para **vender los temarios** desde el alojamiento de Hostinger. Para montarlo, `tienda/GUIA.md`; para entenderlo, `tienda/README.md`. |
 
 ## La herramienta del BOE
 

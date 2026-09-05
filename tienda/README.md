@@ -17,6 +17,7 @@ El porqué —y cuándo esa decisión sería la equivocada— está en
 
 | Fichero | Qué resuelve |
 |---|---|
+| [`GUIA.md`](GUIA.md) | **Empieza por aquí si lo que quieres es montarlo.** De cero a vender, en orden, sin dar por sabido nada. |
 | [`01-ARQUITECTURA.md`](01-ARQUITECTURA.md) | Stack elegido, las dos alternativas descartadas y con qué criterio, y el mapa de piezas. |
 | [`02-IMPLANTACION.md`](02-IMPLANTACION.md) | Paso a paso desde el hPanel de Hostinger hasta el lanzamiento. Doce fases, con lo que hay que verificar en cada una. |
 | [`03-PDFS.md`](03-PDFS.md) | Previsualización sin descarga, descarga protegida, marca de agua nominativa y qué protege de verdad cada capa. |
@@ -46,8 +47,10 @@ python3 herramientas/catalogo.py --url tu-dominio.es  # tienda/catalogo/producto
 
 ## El camino corto
 
-`02-IMPLANTACION.md` explica las doce fases a mano, que es lo que hay que leer
-para entender qué se está montando. Si sólo quieres montarlo:
+[`GUIA.md`](GUIA.md) lo lleva de la mano de principio a fin.
+`02-IMPLANTACION.md` explica las doce fases por dentro, que es lo que hay que
+leer para entender qué se está montando y lo que sirve cuando algo falla. Si ya
+tienes Hostinger listo y sólo quieres desplegar:
 
 ```bash
 nano tienda/despliegue/config.sh                    # seis datos

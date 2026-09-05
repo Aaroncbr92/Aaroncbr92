@@ -67,6 +67,16 @@ paso "0 · Comprobaciones previas"
 
 command -v python3 >/dev/null || morir "Hace falta python3 para generar muestras y catálogo."
 
+# Las tres librerías que usan muestra.py y catalogo.py. Se comprueban aquí y no
+# a mitad del despliegue, cuando ya se han subido 55 MB por la red.
+FALTAN=$(python3 -c 'import importlib.util as u; print(" ".join(q for m,q in (("pypdf","pypdf"),("reportlab","reportlab"),("markdown_it","markdown-it-py")) if u.find_spec(m) is None))' 2>/dev/null)
+if [[ -n "${FALTAN// /}" ]]; then
+	morir "Faltan librerías de Python. Instálalas con:
+
+     python3 -m pip install ${FALTAN}"
+fi
+verde "  ✓ python3, con pypdf, reportlab y markdown-it-py"
+
 for orden in ssh scp; do
 	if ! command -v "${orden}" >/dev/null; then
 		(( SIMULACRO )) && gris "  (falta ${orden}; en simulacro da igual)" \
