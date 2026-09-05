@@ -51,9 +51,14 @@ para entender qué se está montando. Si sólo quieres montarlo:
 
 ```bash
 nano tienda/despliegue/config.sh                    # seis datos
+bash tienda/despliegue/preparar-ssh.sh              # la conexión, una sola vez
 bash tienda/despliegue/desplegar.sh --simulacro     # lo que haría
 bash tienda/despliegue/desplegar.sh                 # hacerlo
 ```
+
+Se ejecuta en **tu ordenador**, en una terminal, dentro de tu copia del
+repositorio. No hace falta darle a nadie ninguna contraseña: va con tu clave
+SSH, y la privada no sale de tu máquina.
 
 Quedan fuera cuatro cosas que no puede hacer un script —Stripe, Google, el
 dominio y tus textos legales—, y el propio instalador las lista al terminar.

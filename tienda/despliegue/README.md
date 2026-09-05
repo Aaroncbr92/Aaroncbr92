@@ -6,12 +6,36 @@ Monta en Hostinger todo lo que se puede montar sin ser tú.
 # 1. Rellena seis datos
 nano tienda/despliegue/config.sh
 
-# 2. Mira lo que va a hacer, sin que haga nada
+# 2. Deja lista la conexión con Hostinger (sólo la primera vez)
+bash tienda/despliegue/preparar-ssh.sh
+
+# 3. Mira lo que va a hacer, sin que haga nada
 bash tienda/despliegue/desplegar.sh --simulacro
 
-# 3. Hazlo
+# 4. Hazlo
 bash tienda/despliegue/desplegar.sh
 ```
+
+**Se ejecuta en TU ordenador**, en una terminal, dentro de tu copia del
+repositorio. No en una sesión de Claude Code en la nube: allí no están tus
+claves, y no hay que llevárselas.
+
+## Sobre las contraseñas
+
+No hace falta ninguna, y no hay que dársela a nadie:
+
+- `preparar-ssh.sh` usa tu **clave SSH**. La privada no sale de tu ordenador ni
+  la ve nadie; lo único que se copia al hPanel es la **pública**, que para eso
+  está.
+- La **clave de firma de los enlaces** la genera el instalador **en tu
+  servidor**, con `openssl rand`. No viaja, no se imprime y no queda en ningún
+  fichero de este repositorio.
+- Las credenciales de **Stripe** y de **Google** las pegas tú, en sus paneles y
+  en tu `wp-config.php`. No están aquí ni tienen que estarlo.
+
+Si alguna vez un procedimiento te pide pegar una contraseña de hosting en un
+chat, en un fichero del repositorio o en un formulario que no sea el del propio
+proveedor, la respuesta correcta es que no.
 
 Tarda unos minutos —lo que se van los 55 MB de PDF por la red— y se puede
 repetir las veces que haga falta.
