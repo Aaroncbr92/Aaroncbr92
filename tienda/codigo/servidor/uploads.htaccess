@@ -1,0 +1,24 @@
+# public_html/wp-content/uploads/.htaccess
+#
+# En uploads no debería haber ningún temario, pero sí hay PDF.js, imágenes y lo
+# que suba cualquier plugin. Lo que se impide aquí es que algo subido se
+# EJECUTE: es la vía por la que una vulnerabilidad de subida se convierte en
+# control del servidor.
+
+<FilesMatch "\.(?i:php|phtml|php3|php4|php5|php7|php8|phar|cgi|pl|py|sh|htaccess)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+Options -Indexes -ExecCGI
+AddType text/plain .php .phtml .phar
+
+# Los PDF que sí viven aquí (muestras antiguas, folletos) no se indexan.
+<FilesMatch "\.pdf$">
+    Header set X-Robots-Tag "noindex, noarchive"
+</FilesMatch>

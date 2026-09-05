@@ -21,6 +21,8 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `herramientas/libro.py` | Arma **cada bloque en un volumen imprimible**: ficha, cuerpo, esquema y preguntas reales de cada tema, y las respuestas al final, con los avisos de plantilla y de enunciado. Los bloques están en `BLOQUES`, uno por entrada. |
 | `herramientas/pdf.py` | Convierte ese volumen en PDF con el Chromium del entorno, con índice paginado. |
 | `herramientas/word.py` | El mismo volumen en `.docx`, con estilos de Word. |
+| `herramientas/muestra.py` | Saca de cada volumen el **PDF de muestra** que se enseña antes de comprar: portada, índice entero y las primeras páginas del cuerpo, con marca de agua. Dónde acaba el índice lo lee de los marcadores del PDF, no lo adivina. |
+| `herramientas/catalogo.py` | Arma el **catálogo de la tienda** leyendo cada dato de donde ya está: el nombre de `libro.py`, los temas y la fecha de la portada del PDF, las páginas contándolas y las plazas del recuento del Anexo 1. |
 | `esquemas/` | Un esqueleto de repaso por tema. Estilo telegrama, con el artículo delante de cada línea. |
 | `herramientas/extraer_examen.py` | Reconstruye el texto de un cuadernillo desde su PDF. Prueba **dos modos** —línea a línea y agrupando por altura, para los que maquetan las opciones en tres columnas— y se queda con el que deja menos letras huérfanas. Sin él, 21 cuadernillos daban opciones vacías y uno se contaminaba con 252 fragmentos duplicados. |
 | `herramientas/banco.py` | Arma el banco de preguntas del **bloque común**, clasificando por materia. |
@@ -31,6 +33,7 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | `convocatoria/` | Programa oficial literal y exámenes de convocatorias anteriores. |
 | `temas/` | Un fichero por tema. |
 | `informes/` | Un fichero por agente y fase. Nada se queda solo en el chat. |
+| `tienda/` | Arquitectura, plan de implantación y código para **vender los temarios** desde el alojamiento de Hostinger. Empieza por `tienda/README.md`. |
 
 ## La herramienta del BOE
 
