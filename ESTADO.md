@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-04 (Profesor de Orquesta)
+**Última actualización:** 2026-09-05 (tienda: arquitectura, muestras, catálogo e instalador)
 
 ## Qué es esto
 
@@ -1792,3 +1792,47 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   porque es el apartado 5 del manual otra vez —**el que detecta se equivoca**— y porque la forma de
   equivocarse fue la de siempre: **mirar el fichero con `head` en vez de pasarle la herramienta que
   lo lee**.
+
+- **2026-09-05 · La tienda, y por qué WordPress y no un desarrollo a medida.** Los veinticinco
+  volúmenes se van a vender desde el alojamiento Unlimited de Hostinger. La entrega entera está en
+  `tienda/`. La decisión: **WordPress + WooCommerce**, con las descargas servidas por un plugin
+  propio. Lo que la sostiene no es que WordPress sea mejor, es lo que impone el alojamiento: es
+  **compartido**, no deja procesos vivos, y ahí Node no corre y Laravel corre mal —sin colas, sin
+  `supervisor`, con el `schedule` colgando del cron del panel—. Y todo el código de pagos que no se
+  escribe es una vulnerabilidad que no se introduce.
+  La objeción habitual —«WordPress es inseguro para los ficheros»— **no aplica al diseño elegido**,
+  y conviene dejar escrito por qué: los PDF viven en `~/temarios_privados/`, **hermana de
+  `public_html`, no dentro**. No hay URL que llegue a ellos porque no hay camino. El CMS no
+  custodia los ficheros; sólo decide, en cada petición, si hay un pedido pagado detrás. Cambiar de
+  CMS no cambiaría esa propiedad ni a mejor ni a peor.
+
+- **2026-09-05 · Ni un dato del catálogo escrito a mano, y la razón de siempre.** `catalogo.py` saca
+  cada fila de donde ya está: el nombre de `BLOQUES` en `libro.py`, los temas y las preguntas y la
+  fecha de la **portada del PDF**, las páginas contándolas, y las plazas del recuento del Anexo 1.
+  Un catálogo escrito aparte se desincroniza a la primera regeneración, y entonces la tienda
+  promete diecisiete temas donde hay dieciocho. Los veinticinco salen sin un solo aviso, y los
+  recuentos **cuadran con la tabla de volúmenes del README**.
+
+- **2026-09-05 · La muestra pesaba cinco veces de más, y no era culpa del PDF.** Sellar una página
+  con `merge_page` de pypdf deja su flujo de contenido **sin comprimir**: la muestra de Sonido salía
+  a 1.665 KB donde las mismas páginas sin sellar pesan 358. Hay que volver a comprimir cada página
+  **después** de sellarla, y sólo se puede cuando la página ya cuelga del escritor —dentro del bucle
+  de sellado, `compress_content_streams` lanza `ValueError`—. Queda escrito en el encabezado de
+  `muestra.py` para que nadie lo simplifique: una muestra de megabyte y medio es una muestra que en
+  un móvil nadie espera a que cargue.
+
+- **2026-09-05 · El despliegue, en un comando, y lo que ningún comando puede hacer.**
+  `tienda/despliegue/` monta la tienda entera en Hostinger por SSH y WP-CLI: carpetas privadas,
+  los 25 volúmenes y sus muestras, los tres mu-plugins, el tema hijo, WooCommerce configurado, la
+  clave de firma generada **en el servidor**, PDF.js, las páginas legales y los 25 productos. Es
+  idempotente, hace copia de `wp-config.php` antes de tocarlo, respeta toda constante que ya exista
+  y no pisa el precio de un producto que ya esté.
+  **Cuatro cosas se quedan fuera y conviene que estén escritas**, porque no es una limitación del
+  script sino de quién es quién: activar Stripe exige NIF e IBAN —es verificación de identidad—, el
+  proyecto de OAuth va contra la cuenta de Google del titular, el dominio se paga con su tarjeta, y
+  el aviso legal lleva sus datos. El instalador las deja listadas al terminar, con las URL y los
+  pasos de cada una.
+  El **simulacro** (`--simulacro`) no es adorno: destapó que la función de subida tomaba `$1` y `$2`
+  a secas, así que con el comodín de los tres mu-plugins **se comía el destino y copiaba un plugin
+  encima de otro**. Se ve en el simulacro y no se habría visto en la primera pasada real, que
+  habría dejado la tienda a medio instalar.

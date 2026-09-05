@@ -1,0 +1,16 @@
+/* Se añade AL FINAL de wp-content/uploads/pdfjs/web/viewer.css
+ *
+ * Quita del visor los botones que ofrecen sacar el fichero del visor. No es una
+ * protección —el PDF ya está en el navegador— sino la coherencia de la muestra:
+ * lo que protege es que ese fichero sólo tiene doce páginas. Ver 03-PDFS.md §3.3.
+ */
+#download, #secondaryDownload,
+#print,    #secondaryPrint,
+#openFile, #secondaryOpenFile,
+#viewBookmark, #secondaryViewBookmark,
+#documentProperties {
+	display: none !important;
+}
+
+/* Sin menú contextual sobre el lienzo: fuera «Guardar como». */
+#viewerContainer { -webkit-touch-callout: none; }

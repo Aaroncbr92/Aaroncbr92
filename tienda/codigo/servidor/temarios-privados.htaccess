@@ -1,0 +1,20 @@
+# ~/temarios_privados/.htaccess
+#
+# Red de seguridad, no la defensa principal. La defensa principal es que esta
+# carpeta está FUERA de public_html y ninguna URL llega hasta ella. Esto cubre
+# el día que alguien la mueva, la enlace por error o cambie la raíz del dominio.
+
+<IfModule mod_authz_core.c>
+    Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+    Order allow,deny
+    Deny from all
+</IfModule>
+
+# Que nada de aquí se ejecute nunca, pase lo que pase.
+<IfModule mod_php.c>
+    php_flag engine off
+</IfModule>
+Options -Indexes -ExecCGI
+RemoveHandler .php .phtml .phar .cgi .pl .py

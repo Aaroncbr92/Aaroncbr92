@@ -1,0 +1,93 @@
+/*
+Theme Name:  TOAC Temarios
+Theme URI:   https://temarios.example
+Description: Tema hijo de Twenty Twenty-Five para la tienda de temarios TOAC.
+Author:      TOAC
+Template:    twentytwentyfive
+Version:     1.0.0
+Text Domain: toac
+*/
+
+:root {
+	--toac-tinta:   #5a6b86;   /* el mismo azul del pie de los volúmenes */
+	--toac-fresco:  #1a7f52;
+	--toac-borde:   #dfe4ec;
+	--toac-fondo:   #f6f8fb;
+}
+
+/* --- Sello de actualización, en catálogo y ficha -------------------- */
+.toac-sello {
+	display: inline-flex;
+	align-items: center;
+	gap: .4rem;
+	margin: .35rem 0 .2rem;
+	font-size: .82rem;
+	color: var(--toac-tinta);
+}
+.toac-sello__punto {
+	width: .5rem; height: .5rem;
+	border-radius: 50%;
+	background: var(--toac-borde);
+	flex: none;
+}
+.toac-sello--fresco { color: var(--toac-fresco); font-weight: 600; }
+.toac-sello--fresco .toac-sello__punto { background: var(--toac-fresco); }
+
+/* --- Ficha técnica del temario -------------------------------------- */
+.toac-ficha {
+	width: 100%;
+	margin: 1.2rem 0 .6rem;
+	border-collapse: collapse;
+	font-size: .92rem;
+}
+.toac-ficha th,
+.toac-ficha td {
+	padding: .45rem .6rem;
+	border-bottom: 1px solid var(--toac-borde);
+	text-align: left;
+}
+.toac-ficha th { font-weight: 600; color: var(--toac-tinta); width: 55%; }
+.toac-ficha td { text-align: right; font-variant-numeric: tabular-nums; }
+.toac-ficha__nota { font-size: .84rem; color: var(--toac-tinta); }
+
+/* --- Visor de la muestra -------------------------------------------- */
+.toac-visor { max-width: 1080px; margin: 2rem auto; padding: 0 1rem; }
+.toac-visor__nota { color: var(--toac-tinta); margin-bottom: 1rem; }
+.toac-visor__marco {
+	width: 100%;
+	height: min(80vh, 900px);
+	border: 1px solid var(--toac-borde);
+	border-radius: 8px;
+	background: var(--toac-fondo);
+}
+/* El texto no se selecciona: no impide copiar, pero quita el atajo obvio. */
+.toac-visor__marco { user-select: none; }
+
+/* --- Botón de Google ------------------------------------------------ */
+.toac-google { margin-bottom: 1.4rem; }
+.toac-google__boton {
+	display: flex; gap: .6rem;
+	align-items: center; justify-content: center;
+	padding: .75rem 1rem;
+	border: 1px solid #dadce0; border-radius: 6px;
+	background: #fff; color: #3c4043;
+	font-weight: 600; text-decoration: none;
+	transition: box-shadow .15s ease;
+}
+.toac-google__boton:hover { box-shadow: 0 1px 6px rgba(0,0,0,.16); }
+.toac-google__nota { font-size: .8rem; color: var(--toac-tinta); text-align: center; margin: .5rem 0 0; }
+
+/* --- Mis temarios ---------------------------------------------------- */
+.toac-mis-temarios td,
+.toac-mis-temarios th { vertical-align: middle; }
+.toac-limite { color: #a3341f; font-size: .86rem; }
+.toac-aviso-licencia { font-size: .84rem; color: var(--toac-tinta); }
+
+/* --- Casilla de renuncia al desistimiento --------------------------- */
+.toac-renuncia {
+	padding: .9rem;
+	background: var(--toac-fondo);
+	border: 1px solid var(--toac-borde);
+	border-radius: 6px;
+	font-size: .88rem;
+}

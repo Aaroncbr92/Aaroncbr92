@@ -26,3 +26,8 @@ convocatoria/examenes-antiguos/*.pdf
 !convocatoria/examenes-antiguos/2[0156]_*.pdf
 !convocatoria/examenes-antiguos/32_*.pdf
 __pycache__/
+
+# Las muestras de la tienda son artefacto de despliegue: salen en segundos de
+# los propios volúmenes con `herramientas/muestra.py`, y se suben al servidor,
+# no al repositorio. Versionarlas serían 8 MB que envejecen a cada regeneración.
+muestras/
