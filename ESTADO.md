@@ -4,7 +4,7 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-05 (tienda: arquitectura, muestras y catálogo)
+**Última actualización:** 2026-09-05 (tienda: arquitectura, muestras, catálogo e instalador)
 
 ## Qué es esto
 
@@ -1820,3 +1820,19 @@ normativa, cobertura y prosa—, que sacaron **diez hallazgos reales** más
   de sellado, `compress_content_streams` lanza `ValueError`—. Queda escrito en el encabezado de
   `muestra.py` para que nadie lo simplifique: una muestra de megabyte y medio es una muestra que en
   un móvil nadie espera a que cargue.
+
+- **2026-09-05 · El despliegue, en un comando, y lo que ningún comando puede hacer.**
+  `tienda/despliegue/` monta la tienda entera en Hostinger por SSH y WP-CLI: carpetas privadas,
+  los 25 volúmenes y sus muestras, los tres mu-plugins, el tema hijo, WooCommerce configurado, la
+  clave de firma generada **en el servidor**, PDF.js, las páginas legales y los 25 productos. Es
+  idempotente, hace copia de `wp-config.php` antes de tocarlo, respeta toda constante que ya exista
+  y no pisa el precio de un producto que ya esté.
+  **Cuatro cosas se quedan fuera y conviene que estén escritas**, porque no es una limitación del
+  script sino de quién es quién: activar Stripe exige NIF e IBAN —es verificación de identidad—, el
+  proyecto de OAuth va contra la cuenta de Google del titular, el dominio se paga con su tarjeta, y
+  el aviso legal lleva sus datos. El instalador las deja listadas al terminar, con las URL y los
+  pasos de cada una.
+  El **simulacro** (`--simulacro`) no es adorno: destapó que la función de subida tomaba `$1` y `$2`
+  a secas, así que con el comodín de los tres mu-plugins **se comía el destino y copiaba un plugin
+  encima de otro**. Se ve en el simulacro y no se habría visto en la primera pasada real, que
+  habría dejado la tienda a medio instalar.

@@ -32,6 +32,7 @@ El porqué —y cuándo esa decisión sería la equivocada— está en
 | [`codigo/mu-plugins/toac-blindaje.php`](codigo/mu-plugins/toac-blindaje.php) | Cierre del área privada: sin caché, sin `wp-admin` para clientes, sin enumeración de usuarios, sin XML-RPC. |
 | [`codigo/tema-hijo/`](codigo/tema-hijo/) | Tema hijo: ficha del temario, distintivo de «Actualizado el…» y hoja de estilo. |
 | [`codigo/servidor/`](codigo/servidor/) | `.htaccess` de las carpetas de ficheros y el añadido a `wp-config.php`. |
+| [`despliegue/`](despliegue/) | **El instalador.** Rellenas seis datos y un comando monta en Hostinger todo lo que no exige ser tú. Empieza por [`despliegue/README.md`](despliegue/README.md). |
 | [`../herramientas/muestra.py`](../herramientas/muestra.py) | Genera los PDF de muestra (portada + índice + primeras páginas, con marca de agua) desde cada `libro-*.pdf`. |
 | [`../herramientas/catalogo.py`](../herramientas/catalogo.py) | Genera el CSV de abajo leyendo cada dato de los propios volúmenes. Se vuelve a pasar cada vez que cambie uno. |
 | [`catalogo/productos.csv`](catalogo/productos.csv) | Los veinticinco volúmenes listos para importar en WooCommerce, con páginas, temas, preguntas, plazas y precio propuesto. **Generado, no escrito a mano.** |
@@ -42,6 +43,20 @@ Las dos herramientas se pasan así, desde la raíz del repositorio:
 python3 herramientas/muestra.py                       # muestras/muestra-*.pdf
 python3 herramientas/catalogo.py --url tu-dominio.es  # tienda/catalogo/productos.csv
 ```
+
+## El camino corto
+
+`02-IMPLANTACION.md` explica las doce fases a mano, que es lo que hay que leer
+para entender qué se está montando. Si sólo quieres montarlo:
+
+```bash
+nano tienda/despliegue/config.sh                    # seis datos
+bash tienda/despliegue/desplegar.sh --simulacro     # lo que haría
+bash tienda/despliegue/desplegar.sh                 # hacerlo
+```
+
+Quedan fuera cuatro cosas que no puede hacer un script —Stripe, Google, el
+dominio y tus textos legales—, y el propio instalador las lista al terminar.
 
 ## Lo que hay que decidir antes de empezar
 

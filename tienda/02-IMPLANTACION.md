@@ -7,6 +7,12 @@ se pasa a la siguiente. Sustituye `temarios.example` por tu dominio y
 Tiempo realista de principio a fin: **tres a cinco días** de trabajo efectivo,
 más lo que tarde el dominio en propagar.
 
+> **Las fases 3, 5, 6, 8, 9 y 11 están automatizadas.** Con las fases 1 y 2
+> hechas —dominio con certificado y WordPress instalado—, un solo comando monta
+> el resto: ver [`despliegue/README.md`](despliegue/README.md). Este documento
+> sigue siendo el que explica **qué** se está montando y por qué, y es el que
+> hay que leer cuando algo no salga.
+
 ---
 
 ## Fase 1 · Dominio y certificado
