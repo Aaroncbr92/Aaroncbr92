@@ -14,7 +14,11 @@ import sys
 import unicodedata
 from collections import defaultdict
 
-RUTAS = ["convocatoria/examenes/*.txt", "convocatoria/examenes-antiguos/*.txt"]
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import raiz
+
+RUTAS = [raiz.ruta("convocatoria/examenes/*.txt"),
+         raiz.ruta("convocatoria/examenes-antiguos/*.txt")]
 CORTE_OPCION = re.compile(r"(?m)^\s*a\s*[).\-]")
 
 

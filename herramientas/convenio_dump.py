@@ -14,11 +14,15 @@ equivocado, que es peor que no comprobar nada.
 
 Uso:  convenio_dump.py > fuentes/convenio/CONVENIO.md
 """
+import os
 import re
 import sys
 
-BASE = "fuentes/convenio/BOE-A-2020-16744.txt"
-MOD = "fuentes/convenio/BOE-A-2022-20256.txt"
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import raiz
+
+BASE = raiz.ruta("fuentes/convenio/BOE-A-2020-16744.txt")
+MOD = raiz.ruta("fuentes/convenio/BOE-A-2022-20256.txt")
 CORTE_BASE = " ANEXO 1"       # a partir de aquí empieza otra numeración
 CORTE_MOD = " ANEXO VIII"
 

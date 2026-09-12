@@ -12,7 +12,7 @@ Qué hace:
   · **Portada.** Una tabla con el bloque del programa, la norma, su
     identificador, la redacción sobre la que se estudia, la extensión medida y
     y la extensión medida. Los cuatro primeros
-    campos salen de `herramientas/portadas.tsv`, que se rellena leyendo la
+    campos salen del `portadas.tsv` de la oposición, que se rellena leyendo la
     trazabilidad de cada tema; la extensión y las rutas se calculan aquí, así
     que no se quedan viejas.
   · **Índice.** Los epígrafes `##` y `###` del tema, con enlace. Los anclajes se
@@ -25,7 +25,7 @@ sustituye lo anterior** en vez de duplicarlo. Se puede correr las veces que haga
 falta.
 
 Uso:  indice.py                     # todos los temas del .tsv
-      indice.py temas/general/01-*.md
+      cd rtve && python3 ../herramientas/indice.py temas/general/01-*.md
 """
 import glob
 import os
@@ -34,8 +34,11 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tema import cuerpo   # una sola idea de dónde empieza el tema
+import raiz
 
-DATOS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "portadas.tsv")
+# La ficha de cada tema es de la oposición, no de la herramienta: nombra sus
+# normas y sus temas. Vive con ellos.
+DATOS = raiz.ruta("portadas.tsv")
 P_INI, P_FIN = "<!-- portada -->", "<!-- /portada -->"
 I_INI, I_FIN = "<!-- indice -->", "<!-- /indice -->"
 
@@ -203,16 +206,23 @@ def main():
     # lleva portada —la ficha de la norma está en su tema y repetirla sería
     # ruido—, pero sí índice: son de cien a doscientas líneas de telegrama y sin
     # índice no se salta a un epígrafe
-    rutas = sys.argv[1:] or list(filas) + sorted(glob.glob("esquemas/*/*.md"))
+    # Un tema se nombra **desde la raíz de la oposición** —`temas/general/…`—,
+    # que es como lo escribe `portadas.tsv`. Lo que llega por la línea de
+    # órdenes viene relativo a donde esté quien la escribe, así que se pasa al
+    # mismo sistema antes de nada: si no, el mismo tema entra con dos nombres
+    # distintos y sólo uno encuentra su ficha.
+    rutas = [raiz.relativo(a) for a in sys.argv[1:]] or list(filas) + sorted(
+        raiz.relativo(f) for f in glob.glob(raiz.ruta("esquemas/*/*.md")))
     for ruta in rutas:
-        texto = open(ruta, encoding="utf-8").read()
+        fichero = raiz.ruta(ruta)
+        texto = open(fichero, encoding="utf-8").read()
         palabras = len(cuerpo(texto).split())
         # el índice va antes del primer epígrafe y la portada pegada al título
         texto = mete(texto, indice(texto), I_INI, I_FIN,
                      delante_del_primer_epigrafe=True)
         if ruta in filas:
             texto = mete(texto, portada(ruta, filas[ruta], palabras), P_INI, P_FIN)
-        open(ruta, "w", encoding="utf-8").write(texto)
+        open(fichero, "w", encoding="utf-8").write(texto)
         # la misma comprobación, sobre el cuerpo entero y no sólo sobre la ficha
         for m in RUTA_PROYECTO.finditer(cuerpo(texto)):
             print("  ! %s: el cuerpo cita una ruta del proyecto: «%s»"

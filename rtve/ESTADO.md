@@ -4,7 +4,16 @@ Fichero de estado del apartado 11 del manual: qué es este temario, dónde vive
 cada cosa, qué está hecho y qué falta. Se actualiza al final de cada sesión,
 para que otra pueda seguir sin reconstruir nada.
 
-**Última actualización:** 2026-09-04 (Profesor de Orquesta)
+**Última actualización:** 2026-09-12 (reorganización del repositorio en tres oposiciones)
+
+**Dónde vive ahora.** Todo esto está en **`rtve/`**, no en la raíz del repositorio. El repositorio
+sirve desde el 12 de septiembre de 2026 a tres oposiciones —RTVE, Correos y el Auxiliar de la
+AGE—, y cada una tiene su carpeta con sus datos; el método y las herramientas se comparten. **Las
+rutas que se citan más abajo no han cambiado**: siguen siendo `temas/…`, `fuentes/…`, `banco/…`,
+dichas desde esta carpeta, que es la raíz de trabajo. Lo que cambió es desde dónde se llama a la
+herramienta: `cd rtve && python3 ../herramientas/…`, o `OPO=rtve` desde la raíz. Y dos ficheros son
+nuevos aquí: **`portadas.tsv`**, que estaba en `herramientas/`, y **`bloques.py`**, que era el
+catálogo `BLOQUES` de dentro de `libro.py`.
 
 ## Qué es esto
 
@@ -569,7 +578,7 @@ en Documentación y en Producción (Asistencia).
       cuenta **las preguntas específicas que todavía no se han repartido**, que es la cifra que
       no aparece sola.
 - [x] **La ficha de portada admite ahora ocupación propia y normas complementarias**
-      (columnas `sirve` y `extra` de `herramientas/portadas.tsv`): un tema del específico lo
+      (columnas `sirve` y `extra` de `portadas.tsv`): un tema del específico lo
       estudia una sola ocupación, no las tres. De paso se corrigieron las **dos fichas que
       citaban rutas del proyecto** —la de Igualdad y la del PRL del específico—, que el propio
       `indice.py` venía avisando sin que nadie lo aplicara.

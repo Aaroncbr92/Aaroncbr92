@@ -17,7 +17,36 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
-_**Ninguno, a 4 de septiembre de 2026.** Los cinco que quedaban abiertos se cerraron ese día: los
+### 2026-09-12 · El banco G1 y G5 va dos preguntas por detrás de los cuadernillos
+
+**Dónde.** `banco/g1.md` y `banco/g5.md`.
+
+**Qué dice hoy.** G1 anuncia **122 preguntas** de Constitución. Volver a pasar `banco.py` saca
+**124**: las números **26 y 38 del cuadernillo de Profesor de Orquesta** —la organización
+territorial del Estado y qué norma regula el Estatuto de los Trabajadores— no están en el fichero
+versionado. En G5 pasa lo mismo.
+
+**Qué debería decir.** Lo que escriba la herramienta. El fichero es **generado**, así que la
+corrección es una orden:
+
+```
+cd rtve && python3 ../herramientas/banco.py
+```
+
+**Fuente.** Los propios cuadernillos de `convocatoria/examenes/`, que es de donde la herramienta
+las saca. No hay nada que comprobar contra el BOE: son preguntas reales con su plantilla.
+
+**Por qué no se ha hecho ya.** Se detectó el 12 de septiembre de 2026 **probando la reorganización
+del repositorio en tres oposiciones**, al comprobar que las herramientas seguían dando lo mismo
+desde la carpeta nueva. No es efecto de la mudanza —la herramienta lee los mismos ficheros—, es
+deriva anterior: el cuadernillo de Profesor de Orquesta entró después de la última vez que se
+regeneró el banco. **Se deja aparte a propósito**: el banco alimenta los volúmenes, así que
+corregirlo obliga a rearmar `libro-general` en HTML, PDF y Word, y eso no cabe dentro de un cambio
+de estructura sin enturbiar lo que hay que revisar.
+
+**Gravedad.** Menor. Faltan dos preguntas de estudio; ninguna respuesta publicada está mal.
+
+_**Uno, a 12 de septiembre de 2026**: el banco G1 y G5, aquí arriba. Antes de él no quedaba ninguno. Los cinco que quedaban abiertos se cerraron el 4 de septiembre: los
 informes que no pasaban la lente de prosa, el punto ciego de esa misma lente, los avisos de la lente
 de citas sobre las fórmulas propias, la tasa de paro que parecía discutir a su fuente y las dos
 preguntas de Gestión que examinan de una ley que su anexo no cita. **Cada uno lleva escrito abajo

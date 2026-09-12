@@ -18,10 +18,11 @@ from collections import defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from calibrar import preguntas, clasifica, MATERIAS
+import raiz
 
-DIR = "convocatoria/examenes"
-SALIDA = "banco"
-RECLASIFICADAS = "banco/reclasificadas.tsv"
+DIR = raiz.ruta("convocatoria/examenes")
+SALIDA = raiz.ruta("banco")
+RECLASIFICADAS = raiz.ruta("banco/reclasificadas.tsv")
 
 # El tema de prevención del específico no lo distingue ninguna palabra clave del
 # tema 8 del general: hablan de la misma materia. Se separa a mano, en el

@@ -29,7 +29,10 @@ from pypdf.generic import Fit
 from reportlab.lib.colors import HexColor
 from reportlab.pdfgen import canvas
 
-RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import raiz as _raiz
+
+RAIZ = _raiz.raiz()
 ENCABEZADO = "TOAC – Temarios de Oposiciones"
 # El pie de página lo pone cada volumen: el general y el específico no se
 # llaman igual, y un pie equivocado en doscientas páginas es de los errores que

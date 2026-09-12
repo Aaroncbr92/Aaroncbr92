@@ -1,4 +1,4 @@
-# Temarios de oposición · RTVE
+# Temarios de oposición
 
 Producción de temario verificado contra fuente oficial, siguiendo el método de
 `metodo/MANUAL.md`. La regla de la que sale todo lo demás:
@@ -6,31 +6,67 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 > Nada se escribe de memoria. Cada dato se lee en la fuente oficial antes de
 > afirmarlo, y lo que no se puede confirmar se quita.
 
-## Qué hay aquí
+## Tres oposiciones, un método
+
+| Carpeta | Oposición | Sección de la web | Estado |
+|---|---|---|---|
+| `rtve/` | Personal laboral fijo de la Corporación RTVE | `opotemarios.es/RTVE` | **Terminada**: 25 volúmenes en PDF, Word y HTML |
+| `correos/` | Personal laboral de Correos | `opotemarios.es/correos` | **Empezando** |
+| `age/` | Cuerpo General Auxiliar de la Administración del Estado (C2) | `opotemarios.es/age` | **Empezando** |
+
+Cada una vive entera en su carpeta: su convocatoria, sus temas, sus esquemas,
+sus fuentes, su banco de preguntas y su catálogo de volúmenes. Lo que comparten
+es lo de arriba: el método y las herramientas.
+
+| Compartido | De cada oposición |
+|---|---|
+| `metodo/` · el manual y las cláusulas de encargo | `convocatoria/` · programa oficial, bases y exámenes |
+| `herramientas/` · lectores del BOE, refutadores, armadores de volumen | `temas/` `esquemas/` `fuentes/` `banco/` `informes/` |
+| `marca/` · el logotipo que llevan los volúmenes | `bloques.py` · el catálogo de volúmenes y la fecha de corte |
+| | `portadas.tsv` · la ficha de cabecera de cada tema |
+| | `ESTADO.md` `PENDIENTES.md` `PLAN.md` · dónde va cada una |
+
+**El corte está donde está a propósito.** Lo común es *cómo* se comprueba un
+dato y *cómo* se arma un volumen, que no depende de qué se estudie. Lo propio es
+*qué* se estudia, y ahí no hay nada reaprovechable entre un temario de RTVE y
+uno de Correos. Una herramienta que supiera de las tres tendría dentro tres
+catálogos y habría que leerlos todos para tocar uno.
+
+## Sobre qué oposición se trabaja
+
+Ninguna herramienta tiene oposición por defecto. Se dice de una de estas dos
+maneras:
+
+```
+cd rtve && python3 ../herramientas/libro.py general     # estando dentro
+OPO=rtve python3 herramientas/libro.py general          # nombrándola
+```
+
+Y si no se dice, la herramienta se para y enseña las que hay. Es a propósito:
+equivocarse de oposición no da error, escribe el banco de preguntas de una
+encima del de otra y el fallo aparece semanas después, dentro de un volumen.
+Una carpeta es una oposición cuando lleva un `OPOSICION.md`; lo demás lo resuelve
+`herramientas/raiz.py`.
+
+## Las herramientas
 
 | Ruta | Qué es |
 |---|---|
 | `metodo/MANUAL.md` | El método. Se lee entero antes de tocar un tema. |
 | `metodo/ENCARGOS.md` | Cláusulas de encargo y catálogo de errores, para pegar en cada fase. |
+| `herramientas/raiz.py` | Sobre qué oposición se trabaja. De aquí saca cada herramienta dónde están los datos. |
 | `herramientas/boe.py` | Lector de legislación consolidada del BOE. |
 | `herramientas/doue.py` | Lector de normas de la Unión Europea publicadas por el BOE, con sus correcciones de errores. El texto no está consolidado, y lo dice. |
-| `herramientas/refutar_*.py` | Las cuatro lentes de refutación: exactitud, modo verbal y salvedades, prosa, y contraste contra documento sin articulado. |
+| `herramientas/refutar_*.py` | Las cinco lentes de refutación: exactitud, modo verbal y salvedades, prosa, citas literales y contraste contra documento sin articulado. |
 | `herramientas/despintar.py` | Quita la negrita a lo que no es cita literal de ninguna fuente, o la rebaja a cursiva con `--cursiva`. La negrita es una promesa de literalidad; ésta retira las que el texto no cumple. |
 | `herramientas/indice.py` | Genera la **portada** y el **índice** de cada tema, y comprueba que las rutas que citan existen. Se vuelve a pasar cuantas veces haga falta. |
 | `herramientas/boe_buscar.py` | Busca una norma por su título en el BOE. Manda las casillas de sección, sin las cuales el buscador contesta «no se han encontrado documentos» y una búsqueda con respuesta se anota como camino cerrado. |
-| `herramientas/libro.py` | Arma **cada bloque en un volumen imprimible**: ficha, cuerpo, esquema y preguntas reales de cada tema, y las respuestas al final, con los avisos de plantilla y de enunciado. Los bloques están en `BLOQUES`, uno por entrada. |
+| `herramientas/libro.py` | Arma **cada bloque en un volumen imprimible**: ficha, cuerpo, esquema y preguntas reales de cada tema, y las respuestas al final, con los avisos de plantilla y de enunciado. Los bloques los pone la oposición, en su `bloques.py`. |
 | `herramientas/pdf.py` | Convierte ese volumen en PDF con el Chromium del entorno, con índice paginado. |
 | `herramientas/word.py` | El mismo volumen en `.docx`, con estilos de Word. |
-| `esquemas/` | Un esqueleto de repaso por tema. Estilo telegrama, con el artículo delante de cada línea. |
 | `herramientas/extraer_examen.py` | Reconstruye el texto de un cuadernillo desde su PDF. Prueba **dos modos** —línea a línea y agrupando por altura, para los que maquetan las opciones en tres columnas— y se queda con el que deja menos letras huérfanas. Sin él, 21 cuadernillos daban opciones vacías y uno se contaminaba con 252 fragmentos duplicados. |
 | `herramientas/banco.py` | Arma el banco de preguntas del **bloque común**, clasificando por materia. |
 | `herramientas/banco_especifico.py` | El del **bloque específico**, aplicando un reparto escrito a mano y avisando de lo que falta por repartir. |
-| `banco/` | Preguntas reales de convocatorias anteriores con su respuesta oficial. |
-| `ESTADO.md` | Qué hay hecho, qué falta, dónde vive cada cosa. |
-| `PENDIENTES.md` | Cuaderno de hallazgos, se anote o no se corrija en el momento. |
-| `convocatoria/` | Programa oficial literal y exámenes de convocatorias anteriores. |
-| `temas/` | Un fichero por tema. |
-| `informes/` | Un fichero por agente y fase. Nada se queda solo en el chat. |
 
 ## La herramienta del BOE
 
@@ -41,20 +77,7 @@ las reformas cruzadas y los identificadores irregulares.
 herramientas/boe.py indice   BOE-A-2006-9958            # índice real de bloques
 herramientas/boe.py buscar   BOE-A-2006-9958 "artículo 43"
 herramientas/boe.py precepto BOE-A-2006-9958 a11        # cadena + redacción vigente
-herramientas/doue.py DOUE-L-2016-80807 fuentes/          # un reglamento europeo
-
-# portada e índice de todos los temas, regenerables
-python3 herramientas/indice.py                          # todos
-python3 herramientas/indice.py temas/general/07-*.md    # uno
-
-# volúmenes imprimibles, uno por bloque
-python3 herramientas/libro.py general     && python3 herramientas/pdf.py libro-general.html
-python3 herramientas/libro.py informacion && python3 herramientas/pdf.py libro-informacion.html
-python3 herramientas/word.py informacion                # el mismo, en .docx
-
-# bancos de preguntas
-python3 herramientas/banco.py                           # bloque común
-python3 herramientas/banco_especifico.py informacion    # uno por ocupación tipo
+herramientas/doue.py DOUE-L-2016-80807 fuentes/         # un reglamento europeo
 ```
 
 Lo que hace por ti en cada precepto:
@@ -68,154 +91,17 @@ Lo que hace por ti en cada precepto:
 - no deduce identificadores: los resuelve contra el índice publicado. En la Ley
   17/2006, el artículo 43 es el bloque `a4-2`. Por analogía no se acierta.
 
-## Los volúmenes
+## Dar de alta otra oposición
 
-**Veintiuno, uno por bloque**, cada uno en PDF, Word y HTML. El general sirve a
-las veinte ocupaciones; los veinte específicos cierran con **el mismo tema de
-prevención de riesgos laborales**, que es un solo fichero.
+1. Una carpeta con su `OPOSICION.md` —la ficha, y la marca por la que las
+   herramientas la reconocen—.
+2. Dentro, `convocatoria/` con las bases y el **programa oficial literal**, que
+   es lo primero que hay que tener: sin él no se sabe ni cuántos temas son.
+3. `temas/`, `esquemas/`, `fuentes/`, `banco/` e `informes/`, que se van
+   llenando.
+4. `portadas.tsv` con la ficha de cada tema, y `bloques.py` con su catálogo de
+   volúmenes, **cuando haya temas que armar**. Antes no hace falta: sin
+   `bloques.py` las demás herramientas funcionan y sólo se paran las tres que
+   arman volúmenes, diciendo qué falta.
 
-| Volumen | Ocupación tipo | Temas | Preguntas | Páginas |
-|---|---|---:|---:|---:|
-| `libro-general` | Las veinte | 8 | 505 | 259 |
-| `libro-produccion-asistencia` | Producción (Asistencia) | 18 | 171 | 281 |
-| `libro-produccion` | Producción | 17 | 114 | 235 |
-| `libro-realizacion` | Realización (Asistencia) | 21 | 254 | 304 |
-| `libro-realizacion-tv` | **Realización Televisión** | **23** | **277** | **365** |
-| `libro-documentacion` | Documentación | 7 | 130 | 155 |
-| `libro-informacion` | Información y Contenidos | 11 | 226 | 217 |
-| `libro-gestion-administrativa` | Gestión Administrativa | 13 | 123 | 182 |
-| `libro-gestion` | Gestión | 31 | 129 | 323 |
-| `libro-montaje-equipos` | Montaje de Equipos Audiovisuales | 11 | 123 | 166 |
-| `libro-edicion-montaje` | Edición, Montaje y Procesos Audiovisuales | 11 | 134 | 195 |
-| `libro-informacion-grafica` | Información Gráfica y Captación de Imagen y Sonido | 12 | 142 | 219 |
-| `libro-sonido` | **Sonido** | 18 | 134 | 207 |
-| `libro-tese` | **Técnica de Equipos y Sistemas Electrónicos** | 18 | 162 | 231 |
-| `libro-tecnica-informatica` | **Técnica Informática** | 24 | 138 | 256 |
-| `libro-diseno-grafico` | **Diseño Gráfico** | 14 | 134 | 188 |
-| `libro-ing-tec-teleco` | **Ing. Técnica Telecomunicación** | 20 | 133 | 261 |
-| `libro-ing-tec-industrial` | **Ing. Técnica Industrial** | 17 | 48 | 266 |
-| `libro-imagen-personal` | **Imagen Personal** | 10 | 132 | 161 |
-| `libro-teitse` | **Téc. Equipos, Instalaciones y Sistemas Eléctricos** | 16 | 48 | 237 |
-| `libro-ambientacion-vestuario` | **Ambientación Vestuario** | 8 | 48 | 135 |
-| `libro-ing-sup-teleco` | **Ing. Superior Telecomunicación** | **27** | 134 | **337** |
-| `libro-profesor-orquesta` | **Profesor de Orquesta** | 11 | 134 | 144 |
-
-**Realización Televisión es el volumen más grande del proyecto**: 365 páginas,
-veintidós temas propios más el de prevención y **229 preguntas del bloque
-específico**, de dos llamamientos con sus dos plantillas completas.
-
-**Y Técnica de Equipos y Sistemas Electrónicos es el más gráfico**: **treinta de
-sus 114 preguntas dependen de una imagen**, la proporción más alta del proyecto.
-El temario **no describe lo que no ha visto**: declara cada una y aporta la regla
-de su familia.
-
-**Y Ingeniería Técnica · Industrial es el primer volumen del proyecto SIN EXAMEN
-que estudiar**: la convocatoria anterior no publicó cuadernillo de esa
-especialidad. Sus **48 preguntas son las del tema compartido de prevención**, y
-no hay ni una del bloque específico. Lo que ocupa su lugar es **el Boletín
-Oficial del Estado**: **veintitrés normas volcadas** y **veintinueve citas
-literales verificadas** contra el texto de su artículo. Es **la ocupación más
-normativa del proyecto** —trece de sus dieciséis puntos nombran uno o varios
-reales decretos— y **la que mejor tolera no tener examen**, porque lo que puede
-caer está escrito con todas sus letras. El dato va dicho en su portada y en su
-apéndice de respuestas, no disimulado.
-
-**Y Técnica de Equipos, Instalaciones y Sistemas Eléctricos es el segundo sin
-examen**, y **el contrario de Industrial en otra cosa**: donde aquélla tenía
-veintitrés normas para trece puntos, **ésta tiene una sola para catorce**. Toda
-la ocupación gira sobre el **Reglamento electrotécnico para baja tensión y sus
-cincuenta y dos instrucciones técnicas complementarias**, con el **Real Decreto
-614/2001** de riesgo eléctrico detrás de un punto más. **Sus puntos 15 y 16 van
-en un solo tema porque nombran el mismo real decreto**, uno por su articulado y
-otro por sus instrucciones, y **la unión va declarada en cuatro sitios**.
-
-**Y este bloque obligó a escribir una lente nueva.** La de exactitud ancla sus
-comprobaciones en marcadores del tipo «Artículo N», y **una instrucción técnica
-numera por apartados**: sobre doce de los quince temas habría devuelto **un cero
-vacío**, que es justo lo que el método prohíbe. `refutar_citas` comprueba cada
-tramo en negrita de un bloque de cita **como subcadena literal del volcado**:
-**28 tramos, 0 no literales**.
-
-**Y Imagen Personal es el contrario exacto de Ingeniería Técnica · Industrial**:
-**su anexo específico no nombra ni una sola norma**. Nueve enunciados de una
-línea, sin un real decreto detrás, y **los nueve temas van enteros como oficio
-declarado**. Eso deja **media herramienta de refutación sin objeto** —sin norma
-no hay cita literal que comprobar—, y el proyecto lo dice en vez de publicar el
-cero de la lente: en su lugar comprueba **cobertura pregunta a pregunta**,
-**contraste opción a opción contra la plantilla** y **declaración de
-procedencia** de todo dato que sólo conste en ella.
-
-**Y Ambientación Vestuario es el caso extremo del proyecto**: **no tiene examen
-Y su anexo no nombra ninguna norma**. Las dos comprobaciones fuertes del método
-faltan a la vez, y **tres de las cinco lentes se quedan sin objeto**. Lo que
-ocupa su lugar son **cuatro comprobaciones nombradas**: cobertura punto por punto,
-**alcance declarado** —los siete temas dicen qué NO dan y por qué—, **ausencia de
-nombre propio** —ni una marca, ni un diseñador, ni una casa de moda— y **ausencia
-de cifra sin fuente**: **cero valores numéricos en siete temas**, porque sin norma
-que citar cualquier cifra sería una invención.
-
-**Y Técnica Informática es el contrario exacto**: **ninguna de sus 90 preguntas
-del específico depende de una imagen**, y es **el único volumen del proyecto que
-contesta el examen entero sin remitir ni una vez a la plantilla**. Todo lo que se
-pregunta está escrito, y por tanto todo se puede comprobar.
-
-**Ingeniería Técnica · Telecomunicación es el segundo volumen sin una sola
-imagen** —ninguna de sus 85 preguntas del específico depende de una figura— y **el
-de reparto más desigual del proyecto**: dos de sus veintitrés puntos del anexo se
-llevan el 42 % del examen y **diez no se llevan ninguna pregunta**. Cuatro de esos
-diez son el corazón del oficio —estudios, continuidades, salas técnicas e
-ingeniería de implantación—, y **sus temas se escriben igual, contra el
-programa**.
-
-**Y Ingeniería Superior · Telecomunicación es el primer volumen del proyecto que
-COMPARTE temas con otro que no es el de prevención**: **siete de sus veintisiete
-son, palabra por palabra, siete puntos del anexo de Ingeniería Técnica ·
-Telecomunicación**, así que el tema se escribe una sola vez y sirve a las dos
-ocupaciones. **La comprobación se hizo carácter a carácter sobre los dos ficheros
-de bases**, y dio un hallazgo: en uno de los siete **sólo cambia un signo de
-puntuación**, y el temario lo dice así en lugar de afirmar una identidad exacta
-que no lo es.
-
-**Y obligó a añadir una comprobación al método que ninguna lente detecta**:
-cuando un tema pasa a servir a dos ocupaciones, **hay que reescribir su CABECERA,
-no sólo revisar su cuerpo**. Un cuerpo correcto con una cabecera vieja publica una
-afirmación falsa en los dos volúmenes a la vez. Se revisan cinco sitios: la ficha
-del tema, su primer párrafo, su fila de `portadas.tsv`, la cabecera de su esquema
-y la identidad literal del enunciado en los dos anexos.
-
-**Es además el único cuadernillo del proyecto sin ni una pregunta de prevención
-de riesgos laborales**, y **el único cuya plantilla se ha extraído por
-coordenadas**: su PDF de preguntas trae la fuente incrustada sin tabla de
-caracteres, pero el de respuestas no, y sus **96 respuestas salen enteras, sin
-huecos, sin duplicados y sin una sola anotación**.
-
-**Y Profesor de Orquesta es el caso más extremo del proyecto en otra
-dirección**: **es el único volumen cuyo anexo no nombra ninguna norma Y cuya
-materia es historia de la música**. Las dos cosas juntas dejan al temario sin la
-fuente que sostiene a todos los demás, y **la consecuencia va dicha sin adornos
-en su primer tema**: una fecha de nacimiento o una atribución de obra escritas de
-memoria serían exactamente lo que este método prohíbe. **El volumen se apoya en
-tres cosas y sólo en tres**: lo que el propio anexo nombra, las **86 respuestas
-que la plantilla oficial confirma**, y lo que se sigue de una definición. **Sus
-cinco huecos van señalados uno a uno, con lo que hay que buscar en un manual para
-rellenarlos.** Un hueco señalado es una tarea; un hueco relleno de invención es
-una trampa.
-
-**Es además el primer volumen cuyo programa ha habido que DESCARGAR para
-escribirlo**, y de una fuente que publica **seis versiones del mismo Anexo 2**,
-una por especialidad instrumental. **Se han comparado las seis y son idénticas
-palabra por palabra.** Pero **las cuatro plazas de la 1/2025 son de otras cuatro
-especialidades**, así que **que el temario sea también el suyo es una inferencia
-razonable y no un dato**, y así va dicho en tres sitios. Seis programas idénticos
-hacen esperar un séptimo igual; no lo prueban.
-
-**Y trae una advertencia que ningún otro volumen ha necesitado**: **tres de sus
-respuestas CADUCAN** —quién es el director titular de la orquesta, quiénes los
-honorarios «recientes», qué titularidad tenía antes otro director—. Van con la
-fecha del examen al lado y con la recomendación de comprobarlas antes de la
-prueba. **Una fecha de corte congela el texto de una norma, pero no congela quién
-ocupa un cargo.**
-
-**Diez respuestas oficiales de 2024 están mal, y van marcadas una a una** con el
-precepto, el modelo de cuentas o la ficha de fabricante que las desmiente. El
-temario enseña la norma, no la plantilla, **y dice dónde está la costura**.
+No hay que tocar ninguna herramienta.

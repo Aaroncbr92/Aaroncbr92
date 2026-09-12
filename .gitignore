@@ -1,28 +1,31 @@
+# Cada oposición ignora los suyos: las listas de abajo son de RTVE, y cuando
+# Correos o el Auxiliar de la AGE tengan cuadernillos traerán su propio bloque.
+#
 # Los 87 cuadernillos en PDF pesan 46 MB y se vuelven a bajar con las URL del
-# manifiesto (convocatoria/examenes/README.md). Se versionan las
+# manifiesto (rtve/convocatoria/examenes/README.md). Se versionan las
 # transcripciones, que es lo que se lee y se cita, y los PDF de las tres
 # ocupaciones que estamos preparando, que son los que hay que poder contrastar.
-convocatoria/examenes/*.pdf
-!convocatoria/examenes/09_*.pdf
-!convocatoria/examenes/10_*.pdf
-!convocatoria/examenes/31_*.pdf
-!convocatoria/examenes/32_*.pdf
-!convocatoria/examenes/33_*.pdf
-!convocatoria/examenes/34_*.pdf
-!convocatoria/examenes/35_*.pdf
-!convocatoria/examenes/46_*.pdf
-!convocatoria/examenes/47_*.pdf
-!convocatoria/examenes/77_*.pdf
-!convocatoria/examenes/78_*.pdf
-!convocatoria/examenes/79_*.pdf
-!convocatoria/examenes/80_*.pdf
+rtve/convocatoria/examenes/*.pdf
+!rtve/convocatoria/examenes/09_*.pdf
+!rtve/convocatoria/examenes/10_*.pdf
+!rtve/convocatoria/examenes/31_*.pdf
+!rtve/convocatoria/examenes/32_*.pdf
+!rtve/convocatoria/examenes/33_*.pdf
+!rtve/convocatoria/examenes/34_*.pdf
+!rtve/convocatoria/examenes/35_*.pdf
+!rtve/convocatoria/examenes/46_*.pdf
+!rtve/convocatoria/examenes/47_*.pdf
+!rtve/convocatoria/examenes/77_*.pdf
+!rtve/convocatoria/examenes/78_*.pdf
+!rtve/convocatoria/examenes/79_*.pdf
+!rtve/convocatoria/examenes/80_*.pdf
 
 # Lo mismo con los exámenes antiguos: se versionan las transcripciones y los PDF
 # de las ocupaciones que preparamos.
-convocatoria/examenes-antiguos/*.pdf
-!convocatoria/examenes-antiguos/04_*.pdf
-!convocatoria/examenes-antiguos/05_*.pdf
-!convocatoria/examenes-antiguos/06_*.pdf
-!convocatoria/examenes-antiguos/2[0156]_*.pdf
-!convocatoria/examenes-antiguos/32_*.pdf
+rtve/convocatoria/examenes-antiguos/*.pdf
+!rtve/convocatoria/examenes-antiguos/04_*.pdf
+!rtve/convocatoria/examenes-antiguos/05_*.pdf
+!rtve/convocatoria/examenes-antiguos/06_*.pdf
+!rtve/convocatoria/examenes-antiguos/2[0156]_*.pdf
+!rtve/convocatoria/examenes-antiguos/32_*.pdf
 __pycache__/

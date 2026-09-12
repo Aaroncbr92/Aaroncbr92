@@ -30,9 +30,10 @@ from collections import defaultdict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from calibrar import preguntas, clasifica, MATERIAS
 from banco import plantilla, sin_pie, sin_ecos, reclasificadas
+import raiz
 
-DIR = "convocatoria/examenes"
-SALIDA = "banco"
+DIR = raiz.ruta("convocatoria/examenes")
+SALIDA = raiz.ruta("banco")
 
 # La ocupación no siempre se llama en el fichero como se llama en el temario:
 # los cuadernillos de Información y Contenidos se nombran `..._preguntas_iyc...`

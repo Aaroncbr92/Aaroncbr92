@@ -12,15 +12,20 @@ Esta herramienta no decide: **imprime cada remisión con el título del tema al
 que apunta**, para leerlas de una vez y ver la que no encaja. Es una lista para
 mirar, no un veredicto.
 
-Uso:  remisiones.py temas/enfermeria
+Uso:  cd rtve && python3 ../herramientas/remisiones.py temas/enfermeria
 """
 import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import raiz
+
 
 def main():
-    carpeta = sys.argv[1] if len(sys.argv) > 1 else "temas/enfermeria"
+    if len(sys.argv) < 2:
+        sys.exit("uso: remisiones.py <carpeta de temas>   p. ej. temas/enfermeria")
+    carpeta = raiz.desde_aqui(sys.argv[1])
     ficheros = sorted(f for f in os.listdir(carpeta) if f.endswith(".md"))
     titulos = {}
     for f in ficheros:
