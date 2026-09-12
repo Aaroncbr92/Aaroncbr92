@@ -135,7 +135,7 @@ def fecha(v, attr):
     return v.get(attr) or ""
 
 
-def cmd_precepto(norma, bloque):
+def cmd_precepto(norma, bloque, todas=False):
     raiz = traer("%s/%s/texto/bloque/%s" % (API, norma, bloque))
     b = next(raiz.iter("bloque"), None)
     if b is None or not list(b.iter("version")):
@@ -175,8 +175,9 @@ def cmd_precepto(norma, bloque):
         print("  %s%s" % (WEB, norma))
         print()
 
-    if len(versiones) > 1:
+    if len(versiones) > 1 and not todas:
         print("Este precepto tiene %d redacciones: léelas enteras antes de citar." % len(versiones))
+        print("Con --todas se imprimen todas, y no sólo la aplicable.")
         print()
 
     todas_notas = []
@@ -189,6 +190,23 @@ def cmd_precepto(norma, bloque):
         for n in alarmas:
             print("  ! %s" % n)
         print()
+
+    # Con --todas se imprime **la cadena entera**, no sólo la aplicable. El aviso
+    # de arriba lleva desde el principio diciendo «léelas enteras antes de
+    # citar», y la herramienta no dejaba hacerlo: para comparar dos redacciones
+    # había que escribir un script aparte contra la misma API. Una comprobación
+    # que el método manda y la herramienta estorba acaba no haciéndose.
+    if todas:
+        for v in sorted(versiones, key=lambda v: fecha(v, "fecha_vigencia")):
+            texto, _ = texto_version(v)
+            marca = "  <-- APLICABLE %s" % etiqueta_corte() if v is elegida else ""
+            print("REDACCIÓN vigente desde %s, publicada %s, por %s%s" % (
+                fecha(v, "fecha_vigencia"), fecha(v, "fecha_publicacion"),
+                v.get("id_norma"), marca))
+            print("-" * 72)
+            print(texto)
+            print()
+        return
 
     texto, _ = texto_version(elegida)
     print("REDACCIÓN APLICABLE, %s (vigencia %s, publicada %s, por %s)" % (
@@ -353,14 +371,16 @@ def main():
         destino = resto[0] if resto else "fuentes"
         cmd_norma(norma, destino)
     elif cmd == "precepto":
+        todas = "--todas" in resto
+        resto = [x for x in resto if x != "--todas"]
         if resto and resto[0] == "--buscar":
             hits = cmd_buscar(norma, " ".join(resto[1:]))
             if len(hits) > 1:
                 sys.exit("\nvarias coincidencias: elige un identificador y repite con él")
             print()
-            cmd_precepto(norma, hits[0][0])
+            cmd_precepto(norma, hits[0][0], todas)
         elif resto:
-            cmd_precepto(norma, resto[0])
+            cmd_precepto(norma, resto[0], todas)
         else:
             sys.exit("falta el identificador del bloque")
     else:

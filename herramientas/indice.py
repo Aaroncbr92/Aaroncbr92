@@ -96,7 +96,13 @@ def sirve_para(ruta):
     Ahora se calcula del mismo sitio del que se arman los libros, `libro.BLOQUES`,
     así que **añadir una ocupación lo actualiza solo**. Un tema del bloque general
     sirve a todas; uno del específico, a los bloques que lo incluyen.
+
+    Y una oposición que **todavía no arma volúmenes** no tiene catálogo de donde
+    leerlo. Ahí la ficha **se calla**: devolver «—» diría que el tema no entra en
+    ningún volumen, que es otra cosa distinta de que no haya volúmenes.
     """
+    if not os.path.isfile(raiz.ruta("bloques.py")):
+        return ""
     import libro
     base = os.path.splitext(ruta)[0]
     base = re.sub(r"^temas/", "", base)
@@ -129,9 +135,13 @@ def portada(ruta, fila, palabras):
     # el bloque común lo estudian las tres ocupaciones tipo; un tema del
     # específico, solo la suya. La columna «sirve» lo dice cuando hace falta y
     # se queda vacía cuando vale el reparto de siempre
+    sirve = fila.get("sirve") or sirve_para(fila["fichero"])
     filas = [
         ("Bloque", fila["bloque"]),
-        ("Sirve para", fila.get("sirve") or sirve_para(fila["fichero"])),
+    ]
+    if sirve:
+        filas.append(("Sirve para", sirve))
+    filas += [
         ("Fuente", fila["norma"]),
         ("Identificador", fila["identificador"]),
         ("Redacción que se estudia", fila["redaccion"]),

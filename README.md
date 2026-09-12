@@ -11,8 +11,8 @@ Producción de temario verificado contra fuente oficial, siguiendo el método de
 | Carpeta | Oposición | Sección de la web | Estado |
 |---|---|---|---|
 | `rtve/` | Personal laboral fijo de la Corporación RTVE | `opotemarios.es/RTVE` | **Terminada**: 25 volúmenes en PDF, Word y HTML |
-| `correos/` | Personal laboral de Correos | `opotemarios.es/correos` | **Empezando** |
-| `age/` | Cuerpo General Auxiliar de la Administración del Estado (C2) | `opotemarios.es/age` | **Empezando** |
+| `correos/` | Personal laboral de Correos, Grupo Profesional IV | `opotemarios.es/correos` | **Empezando**: convocatoria y fuentes volcadas, 1 tema de 12. Y **falta el documento de referencia**, del que dependen nueve |
+| `age/` | Cuerpo General Auxiliar de la Administración del Estado (C2) | `opotemarios.es/age` | **Empezando**: convocatoria y fuentes volcadas, 1 tema de 28 |
 
 Cada una vive entera en su carpeta: su convocatoria, sus temas, sus esquemas,
 sus fuentes, su banco de preguntas y su catálogo de volúmenes. Lo que comparten
@@ -77,6 +77,7 @@ las reformas cruzadas y los identificadores irregulares.
 herramientas/boe.py indice   BOE-A-2006-9958            # índice real de bloques
 herramientas/boe.py buscar   BOE-A-2006-9958 "artículo 43"
 herramientas/boe.py precepto BOE-A-2006-9958 a11        # cadena + redacción vigente
+herramientas/boe.py precepto BOE-A-2006-9958 a11 --todas  # el texto de TODAS las redacciones
 herramientas/doue.py DOUE-L-2016-80807 fuentes/         # un reglamento europeo
 ```
 
@@ -89,7 +90,13 @@ Lo que hace por ti en cada precepto:
 - saca aparte las **notas del BOE** que hablan de inconstitucionalidad, nulidad,
   falta de convalidación o derogación;
 - no deduce identificadores: los resuelve contra el índice publicado. En la Ley
-  17/2006, el artículo 43 es el bloque `a4-2`. Por analogía no se acierta.
+  17/2006, el artículo 43 es el bloque `a4-2`. Por analogía no se acierta;
+- y con `--todas` **imprime el texto de cada redacción**, no sólo el de la
+  aplicable. El aviso «léelas enteras antes de citar» llevaba desde el principio
+  mandando una comprobación que la herramienta no dejaba hacer: para comparar dos
+  redacciones había que escribir un script aparte. La primera vez que se usó, en
+  el tema 1 de Correos, enseñó que el plazo de designación del operador postal ha
+  ido y ha vuelto dos veces.
 
 ## Dar de alta otra oposición
 

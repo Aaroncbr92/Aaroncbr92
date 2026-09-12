@@ -37,10 +37,19 @@ decide está en `convocatoria/EXAMEN.md`.
 - **Otro hallazgo, del método**: buscar el Estatuto Básico del Empleado Público
   en el BOE devuelve **primero su corrección de errores**. Quien copie el primer
   resultado se lleva la norma equivocada. Va dicho en `convocatoria/FUENTES.md`.
+- **El tema 1 del bloque I escrito**,
+  `temas/organizacion-publica/01-la-constitucion-espanola-de-1978.md`, 5.700
+  palabras, con sus cinco epígrafes calcados de las cinco rúbricas del enunciado.
+  Pasa limpio las lentes de citas, modo verbal y prosa.
+- **La Constitución volcada** en `fuentes/constitucion/`, con su tabla de
+  redacciones. De sus 169 artículos, **cuatro tienen más de una redacción** —13,
+  49, 69 y 135— y **dos caen en este tema**. De los dos se han leído las dos
+  redacciones enteras.
+- **`portadas.tsv` estrenado** con la ficha del tema 1.
 
 ## Falta
 
-- **Los veintiocho temas.** El orden está en `PLAN.md`.
+- **Veintisiete de los veintiocho temas.** El orden está en `PLAN.md`.
 - **El banco de preguntas.** `banco/` está vacío: no hay cuadernillos de
   convocatorias anteriores de este Cuerpo. Sin ellos, la prueba de que un tema
   está terminado es más débil que en RTVE, donde se contesta con preguntas

@@ -30,7 +30,8 @@ hoy.
 | Tema | Materia | Fuente | Identificador | Acceso |
 |---|---|---|---|---|
 | 1 | Marco normativo postal | Ley 43/2010, del servicio postal universal, de los derechos de los usuarios y del mercado postal | `BOE-A-2010-20139` | consolidado, API |
-| 1 | Prestación de los servicios postales | Real Decreto 1829/1999, Reglamento de prestación de los servicios postales | `BOE-A-1999-24919` | consolidado, API |
+| 1 | Reglamento de los servicios postales | **Real Decreto 437/2024, de 30 de abril** | `BOE-A-2024-10010` | consolidado, API |
+| 1 | Reglamento anterior, **derogado el 18/08/2024** salvo su parte de notificaciones administrativas | Real Decreto 1829/1999 | `BOE-A-1999-24919` | consolidado, API. **No citarlo como vigente** |
 | 1, 2 | Naturaleza jurídica y relación laboral | III Convenio colectivo de la Sociedad Estatal Correos y Telégrafos, SA | `BOE-A-2011-11162` | PDF del BOE |
 | 1, 2 | Sentencia de la Audiencia Nacional sobre el III Convenio | Resolución de 12 de agosto de 2026, de la DG de Trabajo | `BOE-A-2026-18255` | **posterior al Convenio: hay que leerla antes de citar el articulado** |
 | 2 | Prevención de riesgos y bienestar | Ley 31/1995, de Prevención de Riesgos Laborales | `BOE-A-1995-24292` | consolidado, API |
@@ -51,6 +52,18 @@ hoy.
 | 10 | Atención al cliente y calidad · protocolos de ventas | El documento de referencia |
 | 11 | Internacionalización y Aduanas | El documento de referencia, y el Código Aduanero de la Unión (Reglamento (UE) 952/2013) para la parte normativa |
 | 12 (parte) | Compromiso ético · Seguridad de la Información y Ciberseguridad | El código ético de Correos, publicado en su web |
+
+## Corregido el 12/09/2026
+
+**Esta lista nació con un error y lo dice.** En su primera versión daba el **Real
+Decreto 1829/1999** como reglamento de los servicios postales. Al volcarlo para
+escribir el tema 1, la primera línea del texto consolidado avisaba: **norma
+derogada con efectos de 18 de agosto de 2024** por el Real Decreto 437/2024.
+Queda corregido arriba.
+
+Lo que enseña es por qué el método manda **volcar la fuente antes de citarla**:
+la lista se hizo resolviendo identificadores contra el buscador, que devuelve la
+norma exista o no exista ya, y la derogación sólo se ve al abrir el texto.
 
 ## El orden que sale de aquí
 
