@@ -354,7 +354,7 @@ y Y
 
 Os MAD
 
-La «Sociedad Estatal Correos y Telégrafos, S.A., S.M.E>»,
+La «Sociedad Estatal Correos y Telégrafos, S.A., S.M.E»,
 conocida comúnmente como «Correos», es el operador
 designado por el Estado para prestar el servicio postal
 universal por el término de quince años a partir de la
@@ -403,7 +403,7 @@ ciones similares.
 raciales, sexuales, culturales, ideológicas o de discapacidad.
 
 Continuidad: no interrumpir ni suspender el servicio, excepto en casos de fuerza mayor,
-con comunicación a la Comisión Nacional de los Mercados y la Competencia (CNMO).
+con comunicación a la Comisión Nacional de los Mercados y la Competencia (CNMC).
 
 La transparencia, no discriminación y proporcionalidad son principios fundamentales para
 la adjudicación del servicio universal y así garantizar la continuidad del servicio postal,
@@ -531,14 +531,14 @@ competencia del mercado en 2011.
 La evolución normativa de la liberalización del sector postal ha sido clave para su liberaliza-
 ción. Entre las más importantes, encontramos:
 
-1. Directiva 47/67/CE, de 15 de diciembre de 14497, adoptada en España por la Ley
+1. Directiva 97/67/CE, de 15 de diciembre de 14497, adoptada en España por la Ley
 24/1998, de 13 de julio, del Servicio Postal Universal y de Liberalización de los Servi-
 cios Postales (actualmente derogada). Puso en marcha el proceso de liberalización, para
 lo cual estableció la necesidad de prestación de un servicio postal universal en cada
 uno de los Estados miembros de la Unión Europea, dividido entre productos reservados
 y no reservados. Creó la figura de la «autoridad nacional de reglamentación», lo que
 en España dio lugar a la creación de la Comisión Nacional del Sector Postal (CNSP) en
-2007, actualmente reemplazada por la CNMC. La Ley 24/1498 concedió a la Sociedad
+2007, actualmente reemplazada por la CNMC. La Ley 24/1998 concedió a la Sociedad
 Estatal de Correos y Telégrafos (Correos) el monopolio de la prestación de los productos
 reservados del servicio postal universal.
 
@@ -548,8 +548,8 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 TEMA 1. Correos: marco normativo postal y naturaleza jurídica
 
-2. Real Decreto 81/1499, de 22 de enero, por el que se aprueba el Reglamento de desa-
-rrollo del Título ll de la Ley 24/1498, de 13 de julio, del Servicio Postal Universal y de
+2. Real Decreto 81/1999, de 22 de enero, por el que se aprueba el Reglamento de desa-
+rrollo del Título ll de la Ley 24/1998, de 13 de julio, del Servicio Postal Universal y de
 Liberalización de los Servicios Postales (actualmente derogada), en lo relativo a las auto-
 rizaciones para prestación de servicios y al Registro General de Empresas Prestadoras de
 Servicios Postales. Reguló por primera vez el sistema de autorizaciones administrativas
@@ -685,7 +685,7 @@ para compensar dicha carga.
 — El Capítulo IV regula los precios y condiciones tarifarias de los servicios postales
 bajo régimen de obligaciones de servicio público.
 
-e El Título IV recoge diversos aspectos de la ley postal anterior (Ley 24/1498, de 13
+e El Título IV recoge diversos aspectos de la ley postal anterior (Ley 24/1998, de 13
 de julio, del Servicio Postal Universal y de Liberalización de los Servicios Postales,
 actualmente derogada), en tres capítulos:
 
@@ -711,9 +711,9 @@ TEMA 1. Correos: marco normativo postal y naturaleza jurídica
 + El Título VI se ocupa del marco institucional.
 e El Título VII regula la inspección, las infracciones y las sanciones en el sector postal.
 
-El Reglamento Postal (Real Decreto 1829/1499, de 3 de diciembre, por el que se
+El Reglamento Postal (Real Decreto 1829/1999, de 3 de diciembre, por el que se
 aprueba el Reglamento por el que se regula la prestación de los servicios postales, en
-desarrollo de lo establecido en la Ley 24/1498, de 13 de julio, del Servicio Postal Uni-
+desarrollo de lo establecido en la Ley 24/1998, de 13 de julio, del Servicio Postal Uni-
 versal y de Liberalización de los Servicios Postales), que fija las pautas de prestación de
 los servicios postales, así como los derechos y obligaciones de los operadores postales
 y las garantías otorgadas a los usuarios de los servicios postales.
@@ -725,7 +725,7 @@ de disposiciones que concretan algunos de sus aspectos o tratan cuestiones que p
 af
 
 ectar los servicios postales:
-Ley 16/1387, de 30 de julio, de Ordenación de los Transportes Terrestres.
+Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres.
 Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías.
 
 Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la
@@ -740,7 +740,7 @@ composición y funcionamiento del Consejo Superior Postal.
 
 Real Decreto 503/2007, de 20 de abril, por el que se modifica el Real Decreto 1829/1999,
 de 3 de diciembre, por el que se aprueba el Reglamento de los servicios postales en desa-
-rrollo de lo establecido en la Ley 24/1448, de 13 de julio, del Servicio Postal Universal
+rrollo de lo establecido en la Ley 24/1998, de 13 de julio, del Servicio Postal Universal
 y de Liberalización de los Servicios Postales.
 
 Real Decreto 1248/2006, de 10 de noviembre, por el que se regula el acceso a la red
@@ -750,8 +750,8 @@ Real Decreto 468/2002, de 20 de septiembre, por el que se adaptan las normas que
 regulan la Orden Civil del Mérito Postal y la Medalla al Mérito Filatélico a la estructura
 organizativa del Ministerio de Fomento.
 
-Real Decreto 81/1499, de 22 de enero, por el que se aprueba el Reglamento de desa-
-rrollo del Título ll de la Ley 24/1498, de 13 de julio, del Servicio Postal Universal y de
+Real Decreto 81/1999, de 22 de enero, por el que se aprueba el Reglamento de desa-
+rrollo del Título ll de la Ley 24/1998, de 13 de julio, del Servicio Postal Universal y de
 Liberalización de los Servicios Postales, en lo relativo a las autorizaciones para la presta-
 ción de servicios y al Registro General de Empresas Prestadoras de Servicios Postales.
 
@@ -854,7 +854,7 @@ e incluyan todas las medidas de protección integral.
 e En materia de contratación, las principales disposiciones que rigen a Correos en su
 carácter de empresa pública son las siguientes:
 
-Glosario — La Ley 94/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se
+Glosario — La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se
 LCSP: Ley de transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo
 contratos del Sector y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014. Correos no
 Público. tiene la condición de poder adjudicador, de acuerdo con las reglamentaciones euro-
@@ -886,7 +886,7 @@ cos que suscriba Correos y que tengan por objeto la prestación de servicios pos
 en los términos previstos en el artículo 13 del Real Decreto-Ley 3/2020, pero que
 quedan excluidos del ámbito de aplicación de este por tener un valor estimado inferior
 a los umbrales fijados por dicha norma, se regirán por lo dispuesto en los artículos
-321 y 322 de la Ley 49/2017, de 8 de Noviembre, de Contratos del Sector Público,
+321 y 322 de la Ley 9/2017, de 8 de Noviembre, de Contratos del Sector Público,
 aplicables a los contratos públicos que celebren las entidades del sector público que
 no tienen el carácter de poderes adjudicadores, como es el caso de Correos. El men-
 cionado artículo 321, en su apartado 1, establece:
@@ -972,7 +972,7 @@ Defensa de la Competencia.
 
 . Ley 1/20139, de 20 de febrero, de Secretos Empresariales.
 
-+. Real Decreto Legislativo 1/1496, de 12 de abril, por el que se aprueba el texto refundido
++. Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido
 de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposi-
 ciones legales vigentes sobre la materia.
 
@@ -1000,7 +1000,7 @@ vicios electrónicos de confianza.
 En lo que respecta al correcto tratamiento de datos personales, Correos debe dar cumpli-
 miento a lo previsto en la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos
 personales y garantía de los derechos digitales, entre cuyos objetivos está el de adaptar
-el ordenamiento jurídico español al Reglamento (UE) 2016/6749 del Parlamento Europeo
+el ordenamiento jurídico español al Reglamento (UE) 2016/679 del Parlamento Europeo
 y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en
 lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos
 y por el que se deroga la Directiva 45/46/CE (Reglamento general de protección de datos,
@@ -1054,8 +1054,8 @@ Telégrafos, S.A. (BOE 28/06/2011), que está actualmente en vigor.
 Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refun-
 dido de la Ley del Estatuto de los Trabajadores.
 
-Real Decreto-ley 17/1477, de 4 de marzo, sobre relaciones de trabajo.
-Ley Orgánica 11/1385, de 2 de agosto, de Libertad Sindical.
+Real Decreto-ley 17/1977, de 4 de marzo, sobre relaciones de trabajo.
+Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.
 
 Real Decreto 1844/1994, de 4 de septiembre, por el que se aprueba el Reglamento de
 elecciones a Órganos de representación de los trabajadores en la empresa.
@@ -1108,7 +1108,7 @@ el que se regulan las obligaciones de facturación.
 + Real Decreto 1165/1945, de 7 de julio, por el que se aprueba el Reglamento de los
 Impuestos Especiales.
 
-. Ley 8/1489, de 13 de abril, de Tasas y Precios Públicos.
+. Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
 
 . Ley 3/2004, de 24 de diciembre, por la que se establecen medidas de lucha contra la
 morosidad en las operaciones comerciales.
@@ -1167,9 +1167,9 @@ de los usuarios del operador postal universal
 Los operadores postales están obligados a garantizar una serie de derechos a los usuarios
 que contraten sus servicios. A estos efectos, se considera «usuario» a toda persona física
 Oo jurídica que se beneficia de la prestación de servicios postales, ya sea como remitente
-o como receptor, en concordancia con los términos del Real Decreto 1829/1499, de 3 de
+o como receptor, en concordancia con los términos del Real Decreto 1829/1999, de 3 de
 diciembre, por el que se aprueba el Reglamento por el que se regula la prestación de los
-servicios postales, en desarrollo de lo establecido en el artículo 4 de la Ley 24/1498, de
+servicios postales, en desarrollo de lo establecido en el artículo 4 de la Ley 24/1998, de
 13 de julio, del Servicio Postal Universal y de Liberalización de los Servicios Postales.
 
 Correos, como prestador y garante del servicio postal universal y por su servicio público,
@@ -1232,12 +1232,12 @@ judicial, sin perjuicio del control legalmente otorgado a determinados funcionar
 parte de sus funciones de inspección para detectar productos prohibidos (sanitarios, adua-
 neros, prevención de blanqueo de dinero, etc.).
 
-El artículo 7 del Real Decreto 1829/1499 establece que: «Los envíos postales son inviolables.
+El artículo 7 del Real Decreto 1829/1999 establece que: «Los envíos postales son inviolables.
 Será en todo caso violación, su detención arbitraria o contra derecho, su intencionado curso
 anormal, su apertura, sustracción, destrucción, retención indebida u ocultación y, en general,
 cualquier acto de infidelidad en su custodia».
 
-En el artículo 12 del Real Decreto 1824/1449 se establecen determinadas limitaciones a
+En el artículo 12 del Real Decreto 1829/1999 se establecen determinadas limitaciones a
 las garantías de los usuarios: «... los envíos postales solo podrán ser detenidos o intercep-
 tados por resolución motivada de la autoridad judicial...». Pero aclara: «Los funcionarios de
 la Secretaría General de Comunicaciones del Ministerio de Fomento y los funcionarios de los
@@ -1292,7 +1292,7 @@ identidad del remitente y del destinatario, ni a sus direcciones...». Y tambié
 obligación de protección de los datos incluirá el deber de secreto de los de carácter personal, la
 confidencialidad de la información transmitida o almacenada y la protección de la intimidad».
 
-Al hilo de lo anterior, el artículo 6 del Real Decreto 1829/1499, de 3 de diciembre, por el
+Al hilo de lo anterior, el artículo 6 del Real Decreto 1829/1999, de 3 de diciembre, por el
 que se aprueba el reglamento por el que se regula la prestación de los servicios postales,
 referido al secreto de los envíos postales y protección de datos, establece que: «El secreto
 de los envíos postales afecta al contenido de los mismos e implica la absoluta prohibición para
@@ -1410,7 +1410,7 @@ que el Ministerio de Transportes, Movilidad y Agenda Urbana proceda a la incoaci
 expediente sancionador contra el operador postal.
 
 Con respecto a la titularidad de un envío postal, el artículo 13 de la Ley 43/2010 y los
-artículos 8 y 4 del Real Decreto 1829/1494 garantizan el derecho a la propiedad de los
+artículos 8 y 4 del Real Decreto 1829/1999 garantizan el derecho a la propiedad de los
 envíos postales.
 
 Mientras el envío no llegue al destinatario, el remitente será considerado titular, y podrá,
@@ -1443,13 +1443,13 @@ Art. 574, Ley de Enjuiciamiento Criminal
 Inviolabilidad de los envíos postales
 
 Art. 6, Ley 43/2010
-Arts. 7 y 12, Real Decreto 1829/1499
+Arts. 7 y 12, Real Decreto 1829/1999
 
 Protección de datos personales
 
 Art. 7, Ley 43/2010
 Ley Orgánica 3/2018 y Reglamento (UE) 2016/674
-Art. 6, Real Decreto 1824/1494
+Art. 6, Real Decreto 1829/1999
 
 Derecho a la prestación de un servicio
 postal universal de calidad
@@ -1478,7 +1478,7 @@ Derecho a la propiedad de los envíos
 postales
 
 Art. 13, Ley 43/2010
-Arts. 8 y 4, Real Decreto 1829/1499
+Arts. 8 y 4, Real Decreto 1829/1999
 
 Derecho de presentación de escritos
 dirigidos a las Administraciones públicas
@@ -1499,7 +1499,7 @@ Derecho de reexpedición y rehúse de los
 envíos postales
 
 Art. 17, Ley 43/2010
-Art. 1, Real Decreto 1824/1499)
+Art. 1, Real Decreto 1829/1999)
 
 Derecho a la protección de los envíos no
 entregados
@@ -1516,7 +1516,7 @@ Derecho a la protección contra los
 riesgos que puedan afectar a su salud y
 seguridad
 
-Art. 10, Real Decreto 1824/1494
+Art. 10, Real Decreto 1829/1999
 
 Derecho a la utilización de las lenguas
 oficiales en el territorio de su Comunidad
@@ -1524,7 +1524,7 @@ Autónoma, cuando se trate de servicios
 postales que circulen exclusivamente en
 su ámbito
 
-Art. 10, Real Decreto 1824/1494
+Art. 10, Real Decreto 1829/1999
 
 Derecho de desistimiento
 
@@ -1550,13 +1550,13 @@ artículo 14 de la Ley 43/2010.
 Otros derechos garantizados son: derecho a la identificación del operador (artículo 15, Ley
 43/2010); el derecho a la prueba de depósito y entrega de los envíos certificados (artículo
 16, Ley 43/2010); el derecho de reexpedición y rehúse de los envíos postales (artículo
-17, Ley 43/2010 y artículo 1, Real Decreto 1829/1499); el derecho a la protección de los
+17, Ley 43/2010 y artículo 1, Real Decreto 1829/1999); el derecho a la protección de los
 envíos no entregados (artículo 18, Ley 43/2010); el derecho a la información y presentación
 de reclamaciones, denuncias y escritos de las personas con discapacidad (artículo 14, Ley
 43/2010); el derecho a la protección contra los riesgos que puedan afectar a su salud y
-seguridad (artículo 10, Real Decreto 1829/1499), y el derecho a la utilización de las lenguas
+seguridad (artículo 10, Real Decreto 1829/1999), y el derecho a la utilización de las lenguas
 oficiales en el territorio de su comunidad autónoma, cuando se trate de servicios postales
-que circulen exclusivamente en su ámbito (artículo 10, Real Decreto 1829/1499).
+que circulen exclusivamente en su ámbito (artículo 10, Real Decreto 1829/1999).
 
 Adicionalmente, hay una serie de derechos reconocidos a los usuarios en la normativa gene-
 ral como, por ejemplo, en el Real Decreto Legislativo 1/2007 donde se incluye el derecho
@@ -1612,7 +1612,7 @@ tenidos de los mensajes intercambiados entre los operadores postales de todo el 
 B) Marco Regional Europeo
 Cabe destacar las siguientes normativas:
 
-1. La Directiva 47/67/CE del Parlamento Europeo y del Consejo, de 15 de diciembre de
+1. La Directiva 97/67/CE del Parlamento Europeo y del Consejo, de 15 de diciembre de
 1947, sobre normas comunes para el desarrollo del mercado interior de los servicios
 postales comunitarios y la mejora de la calidad del servicio, modificada por las Directivas
 2002/39/CE respecto de la mayor apertura a la competencia de los servicios postales
@@ -1637,7 +1637,7 @@ de los consumidores y usuarios.
 Es un organismo público con personalidad jurídica propia. Es independiente del Gobierno y
 está sometido al control parlamentario. Entró en funcionamiento el 7 de octubre de 2013.
 
-Su origen se remonta al antiguo Tribunal de Defensa de la Competencia (1464), pero la
+Su origen se remonta al antiguo Tribunal de Defensa de la Competencia (1964), pero la
 creación de la Comisión Nacional de la Competencia (CNC) tuvo lugar, formalmente, en 2007.
 Los principales hitos en el proceso de evolución de esta entidad son:
 
@@ -1916,13 +1916,13 @@ S.M.E, se identifican los siguientes tres principales apartados:
 discriminación, continuidad, buena fe y adaptación a los requisitos de los usuarios en
 la prestación del servicio postal universal. Puede autorizar, por ejemplo, condiciones sin-
 gulares de entrega con una declaración de entornos o circunstancias especiales, como
-las recogidas en el artículo 37 del Real Decreto 1829/1444. También debe supervisar
+las recogidas en el artículo 37 del Real Decreto 1829/1999. También debe supervisar
 el cumplimiento de los requisitos e infraestructuras mínimos para la prestación de
 un servicio. Por su parte, los objetivos de expedición en plazo son supervisados cada
 año por la CNMC sobre la base al art. 10 del Plan de Prestación y 45 del Real Decreto
-1829/1499, conforme a la metodología y sistema de medición plasmados en la Norma
+1829/1999, conforme a la metodología y sistema de medición plasmados en la Norma
 UNE-EN 13.850. Los resultados de estas mediciones de calidad se incluyen en un infor-
-me anual (art. 47.2 del Real Decreto 1829/1499). La CNMC puede recabar información
+me anual (art. 47.2 del Real Decreto 1829/1999). La CNMC puede recabar información
 de los operadores y del prestador del servicio en el transcurso de una investigación, con
 potestad para sancionar e imponer multas coercitivas (art. 66 de la Ley 43/2010). Por
 último, la CNMC vigila que los precios de los servicios postales públicos sean asequibles,
@@ -3121,7 +3121,7 @@ público.
 e En cuanto a su actividad, Correos es el operador designado por el Estado para prestar el
 Servicio Postal Universal en España hasta 2025, en virtud de la Ley 43/2010, de 30 de
 diciembre, del servicio postal universal, de los derechos de los usuarios y del mercado
-postal. Esta Ley, junto con el Real Decreto 1829/1499, de 3 de diciembre (Reglamento
+postal. Esta Ley, junto con el Real Decreto 1829/1999, de 3 de diciembre (Reglamento
 postal), se ocupa fundamentalmente de la regulación de las condiciones de recogida,
 admisión, distribución y entrega del servicio postal universal exigibles al operador desig-
 nado, así como el coste y la financiación de estas obligaciones, los precios y otras con-
@@ -3136,7 +3136,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 TEMA 1. Correos: marco normativo postal y naturaleza jurídica
 
 e Correos, en su calidad de transportista habilitado, oferta un amplio abanico de opciones
-de paquetería, estando sometido a la Ley 16/1487, de 30 de julio, de Ordenación de
+de paquetería, estando sometido a la Ley 16/1987, de 30 de julio, de Ordenación de
 los Transportes Terrestres y a la Ley 15/2004 Reguladora del Contrato de Transporte
 Terrestre de Mercancías.
 
@@ -3731,7 +3731,7 @@ Es, a su vez, el socio mayoritario (51%) de Correos Express Portugal, al que se 
 rencia con posterioridad.
 
 En cuanto a su actividad, Correos Express, en su calidad de transportista habilitado, queda
-sometido a la Ley 16/1487, de 30 de julio, de Ordenación de los Transportes Terrestres,
+sometido a la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres,
 y a la Ley 15/2004, de 11 de noviembre, Reguladora del Contrato de Transporte Terrestre
 de Mercancías.
 
@@ -3894,7 +3894,7 @@ entrega de todas sus comunicaciones.
 B) Naturaleza y régimen jurídico
 
 Nexea Gestión Documental, S.A., S.M.E. se constituyó como una sociedad anónima uni-
-personal en España el 30 de Julio de 1494 bajo la denominación de Correo Híbrido, S.A.,
+personal en España el 30 de Julio de 1994 bajo la denominación de Correo Híbrido, S.A.,
 comenzando sus actividades durante el ejercicio 2000.
 
 El 4 de Abril de 2011, la Sociedad cambió su denominación social a Nexea Gestión Docu-
@@ -4220,7 +4220,7 @@ raciones, tanto en el segmento B2B como B2C.
 1.6.1. Evolución del mercado postal en España
 
 En este apartado se desarrollará información proveniente de los informes anuales del Sector
-Postal de la Comisión Nacional del Mercado de la Competencia (CNMOC).
+Postal de la Comisión Nacional del Mercado de la Competencia (CNMC).
 
 Cabe mencionar que los informes anuales de la CNMC hablan del sector postal diferenciando
 el segmento postal tradicional (SPT) y el segmento de los envíos urgentes y de la paquetería

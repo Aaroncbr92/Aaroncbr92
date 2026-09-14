@@ -83,7 +83,28 @@ tablas, en los rótulos sobre fondo de color y en las cifras sueltas. Dos defect
 ya vistos en la primera lectura: **la «o» minúscula suelta sale como «O»
 mayúscula**, y una portada devuelve **«Blanq,ueo»** por «Blanqueo».
 
+**Y hay un defecto sistemático que obliga a desconfiar de TODAS las cifras: el
+nueve.** La tipografía de este documento dibuja el **9** con un cuello abierto que el
+reconocedor confunde con un **4**, y a veces lo desdobla en dos dígitos. Cuatro casos
+del tema 1, **comprobados a la vista uno a uno sobre su página**:
+
+| El volcado dice | El documento dice | Página del tema 1 |
+|---|---|---:|
+| Directiva **47**/67/CE, de 15 de diciembre de **1447** | Directiva **97**/67/CE, de **1997** | 8 |
+| Real Decreto 1829/**1499** | Real Decreto 1829/**1999** | 12 |
+| Ley **94**/2017, de Contratos del Sector Público | Ley **9**/2017 | 14 |
+| Ley **49**/2017, la misma norma dos páginas después | Ley **9**/2017 | 15 |
+
+**No son tropiezos aislados: es el nueve de esta fuente.** El documento compone las
+cifras en una tipografía geométrica cuyo **9 tiene el cuello recto**, y el reconocedor
+lo toma por un **4**; a veces, además, lo desdobla en dos dígitos.
+
+**Y lo peor es que producen números verosímiles**: «Ley 49/2017» parece una ley, «1499»
+y «1447» parecen años. Un temario que copie del volcado sin mirar la página **enseña
+fechas y números de norma inventados por un reconocedor**, y no hay lente que lo
+detecte, porque la cifra falsa está en la fuente que la lente usa para comprobar.
+
 **Regla, y es la misma que el proyecto aplicó a las plantillas ilegibles y a la
 página 59 del consenso de sensibilidad química múltiple**: todo dato que un tema
 tome de una página marcada `ocr` **se comprueba a la vista sobre la página original
-antes de escribirlo**.
+antes de escribirlo**. **Con las cifras, sin excepción.**
