@@ -119,3 +119,16 @@ tema	volcado	documento	como_se_comprobo
 03	el 945% de los envíos	el 95% de los envíos	a la vista, página 26
 03	Sobre/Caja: 14x 4 cm	Sobre/Caja: 14x9 cm	a la vista, páginas 5 y 60; misma medida mínima que el resto del catálogo
 03	CCRI: hasta 250 q	CCRI: hasta 250 g	el reconocedor lee la ge como cu en las unidades de peso
+05	100% 45% 40% 78% 60%	100% 95% 90% 78% 60%	a la vista, página 34: fila «Dinámica estación»
+05	70% 85% 45% 100% 40% 80% 75% 50%	70% 85% 95% 100% 90% 80% 75% 50%	a la vista, página 34: fila «Carrito zona»
+05	- - 80% 940% 45% 100% 95% 80%	- - 80% 90% 95% 100% 95% 80%	a la vista, página 34: fila «Prepara-pedidos suelo»
+05	de 60 a 40 picks/	de 60 a 90 picks/	a la vista, página 35: las tres filas dinámicas dan 60 a 90
+05	pedidos (47-499%)	pedidos (97-99%)	a la vista, página 38
+05	errores en un 40-97 %	errores en un 90-97 %	a la vista, página 39
+05	El código 34 es la simbología	El código 39 es la simbología	por el contexto y a la vista, página 39: el epígrafe trata del CÓDIGO 39
+05	Caja pequeña | 8,5 4,557	Caja pequeña | 8,5 4,57	a la vista, página 43
+05	Caja mediana | 13,4 11,64	Caja mediana | 13,4 11,69	a la vista, página 43
+05	Caja grande 17,4 22,18	Caja grande 17,9 22,18	a la vista, página 43
+05	Caja pequeña q,7 q,2	Caja pequeña 9,7 9,2	a la vista, página 46
+05	Lista en O días	Lista en 0 días	el reconocedor lee el cero como o mayúscula
+05	registro electrónico OVRE	registro electrónico ORVE	por el nombre: Oficina de Registro Virtual de Entidades, que el tema 3 escribe ORVE

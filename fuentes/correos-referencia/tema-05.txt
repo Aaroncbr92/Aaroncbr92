@@ -2175,9 +2175,9 @@ A continuación, se muestra una comparativa entre equipos según eficiencia de r
 
 | <5m |<10m|<15m | <20m|<30m|<40m <50m|<60m
 
-100% 45% 40% 78% 60% - - -
-70% 85% 45% 100% 40% 80% 75% 50%
-- - 80% 940% 45% 100% 95% 80%
+100% 95% 90% 78% 60% - - -
+70% 85% 95% 100% 90% 80% 75% 50%
+- - 80% 90% 95% 100% 95% 80%
 
 Por último, en el siguiente cuadro se resume la información sobre el tipo de tecnología, el
 sistema de almacenaje para la que es indicada, el número de referencias para el que se
@@ -2208,7 +2208,7 @@ hora/oper.
 Pick by voice Dinámicas 100 a 500 Unitario de 60 a 90 picks/
 hora/oper.
 
-Pick to light Dinámicas 100 a 500 Unitario de 60 a 40 picks/
+Pick to light Dinámicas 100 a 500 Unitario de 60 a 90 picks/
 hora/oper.
 
 Carrusel vertical | Carrusel vertical | 1.000 a 5.000 Unitario de 500 a 700 picks/
@@ -2458,7 +2458,7 @@ Sin la intención de ser exhaustivos:
 . Logística inversa.
 
 e Disminución de errores (entradas y envíos) y de las mermas de almacén.
-e Incremento de la precisión en preparación de pedidos (47-499%).
+e Incremento de la precisión en preparación de pedidos (97-99%).
 
 e Incremento de la productividad (superior al 20%).
 
@@ -2484,7 +2484,7 @@ revisando cinco datos:
 
 1. Mejor aprovechamiento del espacio en un 20-30%.
 
-2. Reducción de errores en un 40-97 %.
+2. Reducción de errores en un 90-97 %.
 
 3. Aumento de la productividad de la mano de mano de obra (entre un 50 y un 60% de los
 operarios de pasan el tiempo caminando).
@@ -2514,7 +2514,7 @@ longitud mixta, se usan en la venta al detalle y la industria alimenticia, y no 
 otra. Se desarrollaron para cubrir necesidades de almacenaje.
 
 e CÓDIGO 39. Se desarrolló porque algunas industrias necesitaban codificar el alfabeto,
-así como también números en un código de barras. El código 34 es la simbología más po-
+así como también números en un código de barras. El código 39 es la simbología más po-
 pular usada. No puede ser utilizado en el sector alimenticio, generalmente se utiliza para
 identificar inventarios y para propósitos de seguimiento en las industrias. Sin embargo,
 este código produce una barra relativamente larga y puede ser adecuada si la longitud
@@ -2761,7 +2761,7 @@ Estar homologado por el laboratorio o la farmacéutica, que responden ante la AE
 - Paq Premium Domicilio:
 
 » Gestión en la entrega.
-> Lista en O días.
+> Lista en 0 días.
 
 - Entrega en 24 horas.
 
@@ -2784,9 +2784,9 @@ na y grande) con datalogger.
 
 FARMA PESO REAL CAPACIDAD NETA MEDIDAS MEDIDAS
 (CAJA VACÍA) (KG) E) EXTERIORES (CM) | INTERIORES (CM)
-Caja pequeña | 8,5 4,557 36x36x37 16,5x16,5x16,5
-Caja mediana | 13,4 11,64 42x43x43 22,6x22,6x22,6
-Caja grande 17,4 22,18 47x47x48 28x28x28
+Caja pequeña | 8,5 4,57 36x36x37 16,5x16,5x16,5
+Caja mediana | 13,4 11,69 42x43x43 22,6x22,6x22,6
+Caja grande 17,9 22,18 47x47x48 28x28x28
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (133)
 
@@ -2890,7 +2890,7 @@ e Atributos del Paq Frío:
 - Paq Premium Domicilio:
 
 - Gestión en la entrega.
-- Lista en O días.
+- Lista en 0 días.
 
 — Entrega en 24 horas.
 
@@ -2926,7 +2926,7 @@ y grande) con datalogger.
 ALIMENTACIÓN | (,PESO REAL _ [CAPACIDAD NETA | EXTERIORES | DECARGA ÚTIL
 
 (LxAxH) (MM) | (LxAxH) (MM)
-Caja pequeña q,7 q,2 450x450x350 |283x183x178
+Caja pequeña 9,7 9,2 450x450x350 |283x183x178
 Caja mediana 14,2 21,1 450x 450x430 283x283x263
 Caja grande 22,8 52,2 680x490 x 440 590x340x260
 
@@ -3000,7 +3000,7 @@ mente que haya que realizar una transformación del patrimonio inmobiliario en e
 
 Por tanto, el patrimonio inmobiliario debe estar orientado hacia el nuevo modelo de negocio
 que supone el comercio digital y las nuevas prestaciones accesorias que demanda la socie-
-dad, tales como registro electrónico OVRE, espacio de almacenamiento en la nube, servicios
+dad, tales como registro electrónico ORVE, espacio de almacenamiento en la nube, servicios
 de pagos de recibos, etc. Además, la cartera de servicios y prestaciones al público deben
 ser más amplios y variados, por lo que la fisonomía del espacio y del mobiliario donde se
 desarrolla la actividad debe ser más versátil y flexible.
