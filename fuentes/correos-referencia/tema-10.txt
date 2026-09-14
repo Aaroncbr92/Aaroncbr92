@@ -1,0 +1,3978 @@
+# Volcado de tema-10.pdf
+
+Generado con `herramientas/correos_dump.py`. **El documento original va sin
+capa de texto en la mayor parte de sus páginas**, así que lo que sigue es en
+parte una transcripción y en parte un **reconocimiento óptico a 300 puntos por
+pulgada**. Cada página dice de cuál de las dos cosas viene.
+
+**Lo reconocido ópticamente no es el documento.** Todo dato que un tema tome de
+una página marcada `ocr` se comprueba a la vista sobre la página original antes
+de escribirlo.
+
+
+[[ página 1 de 64 · ocr ]]
+
+A
+DOMO AO OOO
+DJ OACICIORADO
+ALA RONACIO)
+
+7
+
+Tema 10
+
+El cliente: atención al cliente y calidad.
+
+Protocolos de Ventas
+
+[[ página 2 de 64 · ocr ]]
+
+Contenido
+
+R
+
+10.1. Calidad corporativa en Correos
+
+10.1.1.
+10.1.2.
+10.1.3.
+10.1.4.
+10.1.5.
+10.1.6.
+10.1.7.
+
+Introducción
+
+Conceptos generales
+
+Modelos de gestión de la calidad
+El sistema de gestión en Correos
+Herramientas del SGC
+
+Otras herramientas de mejora
+Reconocimiento
+
+10.2. Atención al cliente y protocolo de venta en telemarketing
+
+10.2.1.
+10.2.2.
+10.2.3.
+10.2.4.
+10.2.5.
+10.2.6.
+10.2.7.
+10.2.8.
+
+Modelo de atención al cliente
+
+Canales de atención al cliente
+
+Políticas de atención por canales
+
+KPI y principales objetivos
+
+Procesos
+
+Calidad
+
+Normativa habitual aplicada en atención al cliente
+Atención al cliente y protocolos de venta en marketing
+
+10.3. Atención al cliente y protocolos de venta en oficinas
+
+10.4.
+
+10.3.1.
+10.3.2.
+
+Atención al cliente
+Calidad en oficinas
+
+Protocolos de venta a clientes con contrato
+
+10.4.1.
+10.4.2.
+10.4.3.
+10.4.4.
+10.4.5.
+
+Equipos comerciales: roles y funciones
+
+Puntos de entrada de oportunidades comerciales
+CRM en Correos
+
+Integraciones tecnológicas con el cliente
+Seguimiento de la facturación
+
+(0.9)
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 3 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+10.1. Calidad corporativa en Correos
+
+10.1.1. Introducción
+
+Desde 1444, declarado «año de la calidad» en Correos, la compañía ha afrontado el reto de
+la calidad con la visión de alcanzar la excelencia. Para ello se ha apoyado en dos sistemas
+complementarios de gestión de la calidad: el modelo EFQM de excelencia, acrónimo en
+inglés para la Fundación Europea para la Gestión de la Calidad, y las normas ISO 4000, en
+particular la norma ISO 9001:2015 «Requisitos de los sistemas de gestión de la calidad»,
+establecidas por ISO, siglas en inglés para la Organización Internacional de Normalización. En
+Correos, estos dos modelos de gestión se toman como referencia de lo que se debe hacer.
+
+En su Manual de Gestión, Correos define la forma en que se debe implementar y desarrollar
+su sistema de gestión de la calidad.
+
+10.1.2. Conceptos generales
+
+Se define «excelencia» como «superior calidad o bondad que hace digno de singular aprecio
+y estimación algo» (Diccionario de la Real Academia Española).
+
+Es decir, una organización excelente es aquella que es digna del singular aprecio y estima-
+ción de los clientes y de otras partes interesadas, y esto repercutirá directamente en su
+cuenta de resultados.
+
+La excelencia no se reduce al ámbito de la calidad, sino que es una aspiración a la que se
+debe tender en cualquier ámbito. Lo que sí se hace desde el ámbito de la calidad es dotar
+a las organizaciones de herramientas y métodos para acercarse a la excelencia.
+
+La norma ISO 9000:2015 establece el vocabulario que permite definir los términos «calidad»
+y «sistema gestión de la calidad»:
+
+«Calidad» es el grado en el que un conjunto de características inherentes de un objeto
+cumple con unos requisitos.
+
+Así, el precio, por ejemplo, no sería un atributo de calidad puesto que no es inherente al
+objeto, sino que se le asigna externamente.
+
+Al definirse como «grado» se señala que puede ser medida.
+
+Por otro lado, la definición anterior es una definición genérica, que debe ser complemen-
+tada con matices adicionales. Según esa norma, los requisitos los fijan los clientes y las
+partes interesadas; el cumplimiento de los requisitos (calidad objetiva) lleva aparejada la
+aportación de valor para satisfacer no solo sus necesidades sino, también, exceder sus
+expectativas (calidad percibida) y optimizar el impacto sobre las partes interesadas (inclui-
+da la propia organización y, entre otros, sus proveedores).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
++
+
+(rm
+
+Glosario
+
+ISO 9000: Conjunto
+de normas de
+control y gestión de
+calidad establecidas
+por la Organización
+Internacional de
+Normalización,
+aplicables en
+cualquier tipo de
+organización o
+actividad orientada
+a la producción de
+bienes o servicios.
+
+R
+O
+(0)
+lo)
+
+[[ página 4 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Procesos Recursos
+
+SGC
+
+Soporte Y — ——T[ Estructura
+documental  , organizativa
+
+MEJORA
+
+Sistema de gestión de la calidad (SGC) es el conjunto de la estructura organizativa, proce-
+dimientos, procesos y recursos necesarios para conseguir mejorar la calidad.
+
+Se entiende por proceso al conjunto de actividades relacionadas que transforman unas
+entradas, con aportación de valor, en un resultado previsto (sea un producto o un servicio).
+Las entradas de un proceso pueden ser las salidas de otro, de forma que en un SGC los
+procesos están interrelacionados y esa interacción debe controlarse. Las entradas las
+suministran los proveedores del proceso y las salidas, los clientes del mismo.
+
+Requisito e información de retorno
+(producto y proceso)
+
+AE
+
+Entradas Salidas
+PROVEEDOR o Y Y CLIENTE
+
+A |
+a "== E A O O O
+Requisitos e información de
+retorno (producto y proceso)
+
+Por mejora de la calidad se entiende el aumento de la capacidad para cumplir con los requi-
+sitos de la calidad, lo que conlleva la satisfacción plena de clientes y partes interesadas.
+
+J
+o
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 5 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad
+
+. Protocolos de Ventas
+
+La gestión de la calidad es, en sí misma, un proceso que incluye la planificación de la calidad,
+estableciendo políticas y objetivos. Es también la implementación de los procesos y la asignación
+de los recursos necesarios para su consecución, los controles sobre esos procesos y las actua-
+ciones para prevenir o corregir incidencias, con el objeto de conseguir la mejora de la calidad.
+
+Los dos modelos de referencia para Correos se asientan sobre el concepto de calidad total,
+que supone la implicación de toda la organización tanto con la calidad como en el proceso de
+mejora continua, conocido como ciclo PDCA (Plan, Do, Check, Act). Este proceso consiste en:
+
++ Planificar: establecer los objetivos del sistema y sus procesos, la interacción entre los proce-
+sos, los recursos necesarios para conseguir resultados de acuerdo con los requisitos de los
+clientes y las políticas de la organización. Identificar y abordar los riesgos y las oportunidades.
+
++ Hacer: implementar lo planificado.
+
+. Verificar: realizar el seguimiento y la medición de los procesos, los productos y los
+servicios resultantes e informar sobre los resultados. La medición debe realizarse con
+arreglo a lo establecido en las políticas, objetivos, requisitos y actividades planificadas,
+teniendo en cuenta que:
+
+— No se puede definir lo que no se conoce.
+
+— No se puede hacer lo que no está definido.
+
+— No se puede medir lo que no se realiza.
+
+— No se puede mejorar lo que no se mide.
+En definitiva, es importante medir, ya que para mejorar es necesario poder contrastar
+la situación inicial con la final.
+
++ Actuar: tomar acciones para mejorar el desempeño, cuando sea necesario.
+
+Además de la mejora continua, los dos modelos plantean la innovación como otra herra-
+mienta de mejora para que una organización pueda alcanzar sus objetivos.
+
+Análisis de datos
+Acciones de mejora
+
+ACTUAR
+
+A
+
+Ciclo PDCA
+
+Act j
+
+CONTROLAR
+
+Incidencias/No
+ES
+
+Indicadores
+Auditorias
+ISC
+
+Objetivos
+
+Responsables
+
+Gestión de los recursos
+
+PLANIFICAR
+
+REALIZAR
+
+Procesos
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 6 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+Sistema de gestión
+de la calidad
+(SGC): Sistema
+que documenta
+
+los procesos,
+procedimientos y
+responsabilidades
+para lograr políticas
+y objetivos de
+calidad.
+
+10.1.3. Modelos de gestión de la calidad
+
+Los modelos de gestión de la calidad, con reconocimiento internacional, se utilizan con
+un doble propósito. Por un lado, sirven como referencia y guía para la implementación y
+mejora del sistema específico en cada organización; pueden considerarse como un con-
+junto de consejos o recomendaciones para mejorar el control y la gestión de cualquier
+empresa. Por otro lado, sirven para acreditar ante terceras partes el correcto cumplimiento
+de sus principios.
+
+El modelo EFQM (European Foundation for Quality Management)
+
+Se trata de un modelo no prescriptivo que consta de tres componentes:
+
+1. Ocho conceptos fundamentales o principios clave de gestión que conducen al éxito
+sostenible:
+
++ Orientación hacia los resultados. Un tipo de estrategia que las organizaciones deben
+instaurar en sus entornos.
+
++ Orientación al cliente, siendo este el centro de todos los procesos empresariales, sin
+perderlo de vista en ninguna de las decisiones estratégicas.
+
++ Seguir una línea de liderazgo y coherencia a nivel empresarial.
+
++ Instaurar un modelo de gestión por procesos.
+
+«e Conseguir la implicación de las personas dentro de la empresa, tanto de los trabaja-
+dores como de los directivos.
+
+* Se debe instaurar en la organización un proceso continuo de aprendizaje, innovación
+y mejora.
+
++ Además, será de gran valor desarrollar alianzas empresariales.
+
++ Responsabilidad social dentro de la empresa.
+
+2. Nueve criterios, agrupados en cinco agentes facilitadores (liderazgo; personas; estra-
+tegia; alianzas y recursos; y procesos, productos y servicios) y cuatro resultados (en
+las personas, en el cliente, en la sociedad y en la empresa).
+
+3. El esquema lógico REDER (resultado, enfoque, despliegue, revisión), que se basa en
+el ciclo de mejora continua, es una herramienta que permite evaluar (atendiendo a 1.000
+puntos) el rendimiento de la organización. Para ello establece una puntuación máxima
+para cada uno de los agentes y resultados.
+
+Para aplicar el esquema REDER será importante tener en cuenta:
+
+«e Qué resultados se quieren alcanzar a nivel económico, operativo y de percepción.
+
+«e Qué enfoques se planificarán y desarrollarán para lograr estos resultados.
+
+* Cómo se realizará el despliegue de los enfoques para lograr una adecuada implantación.
++ Cómo se evaluarán y revisarán los enfoques definidos según los resultados.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 7 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Planificar y Desarrollar
+ENFOQUES
+
+DESPLEGAR
+Enfoques
+
+RESULTADOS
+Requeridos
+
+EVALUAR, REVISAR Y PERFECCIONAR
+Enfoques y Despliegue
+
+Durante la fase de revisión del ciclo, la organización deberá realizar una autoevaluación que
+abarque todos los departamentos y aspectos clave y, a partir de ella, se debe establecer
+un plan de mejora que contemple todos los aspectos mejorables en la gestión de la misma.
+
+El ámbito de aplicación de este modelo en Correos se hace más evidente en Audinter, la
+herramienta informática que utiliza Correos en el desarrollo de las auditorías y también
+para la medición y valoración de su prestación de servicios, por ejemplo, en las oficinas
+(véase 10.1.5).
+
+Si se desea conseguir el Sello de Excelencia EFQM, que permitirá a la organización estar
+reconocida en un marco de excelencia a nivel europeo, es necesaria la visita de validación
+de la propia fundación. Durante este proceso, se deberán demostrar todas las acciones de
+mejora llevadas a cabo. El sello tiene una validez de dos años.
+
+La excelencia implica ir más allá de lo esperado. De manera que la organización no espera
+simplemente alcanzar unos determinados resultados, sino reenfocarlos en relación con la
+evaluación continua en línea con las prioridades estratégicas de la empresa.
+
+El modelo ISO 9001
+
+Este modelo no hace referencia explícita a la excelencia, sin embargo, todos los principios
+que lo fundamentan orientan hacia ella a las organizaciones que los aplican.
+
+Se asienta sobre siete principios de la gestión de la calidad, alguno de los cuales es exac-
+tamente ¡igual a su equivalente en el modelo EFQM:
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+EFQM (European
+Foundation
+
+for Quality
+Management):
+Marco de gestión
+que permite a las
+empresas realizar
+un análisis de su
+funcionamiento
+para conseguir
+una mejora de su
+
+gestión.
+
+[[ página 8 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
++ Enfoque al cliente para cumplir sus requisitos y exceder sus expectativas.
+
++ Liderazgo, en todos los niveles de la organización y en todos sus niveles, para establecer
+los objetivos de la calidad y crear las condiciones que permitan a las personas implicarse
+en su logro.
+
++ Conseguir el compromiso de las personas de toda la organización y en todos sus niveles
+es esencial para mejorar la eficacia y la eficiencia en la gestión.
+
++ Enfoque a procesos: se consiguen mejores resultados cuando el conjunto de actividades
+se organiza como procesos interrelacionados.
+
+. Mejora: debe ser valorada como aspecto esencial para mantener los niveles de desem-
+peño ya conseguidos, poder reaccionar ante los cambios y crear oportunidades. Está
+comprobado que las organizaciones más exitosas, y que tienen un éxito sostenible, son
+las que se focalizan en la mejora continua.
+
++ Toma de decisiones basada en la evidencia: el análisis y la evaluación de datos e infor-
+mación aumentan la probabilidad de acierto en la toma de decisiones y la obtención de
+los resultados deseados.
+
++ Gestión de las relaciones con las partes interesadas pertinentes (proveedores, clientes,
+socios, empleados y la sociedad en su conjunto) de forma que se optimice su influencia
+en el desempeño de la organización.
+
+En la última versión (año 2015) de la norma ISO 49001, se incluyen conceptos y requisitos
+relacionados con estos principios (no incluidos explícitamente en versiones anteriores),
+tales como contexto, partes interesadas (en versiones anteriores solo se referenciaban
+clientes, personas de la organización y proveedores) y el pensamiento basado en riesgos
+(implícito en versiones anteriores en relación con la implementación de acciones preventivas
+para eliminar incidencias potenciales o para evitar la recurrencia de incidencias acaecidas).
+
+Conocer el contexto en el que se desenvuelve una organización debe entenderse como un
+proceso para determinar los factores que influyen en su propósito (misión), sus objetivos
+y su sostenibilidad. Se incluyen factores internos (visión, valores, cultura, conocimiento,
+desempeño, etc.) y factores externos (entorno legal, tecnológico, mercados, competitividad,
+sociales, económicos, etc.).
+
+El pensamiento basado en riesgos debe servir como base para la planificación y permite
+determinar los factores del contexto que podrían causar desviaciones de los resultados
+planificados y, así, poder poner en marcha controles preventivos para minimizar los efectos
+negativos y maximizar el aprovechamiento de las oportunidades a medida que surjan. Para
+que una organización sea conforme con esta norma, tiene que planificar e implementar
+acciones para abordar los riesgos y las oportunidades. Es, pues, una base para aumentar
+la eficacia del sistema de gestión de la calidad, alcanzar mejores resultados y prevenir los
+efectos negativos.
+
+Se trata de un modelo prescriptivo, en el sentido de que una incidencia (no conformidad),
+esto es, el no cumplimiento con alguno de sus requisitos, puede conllevar la no consecución
+O la pérdida de la acreditación (certificación).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 9 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+10.1.4. El sistema de gestión en Correos
+
+Correos utiliza los modelos de gestión de la calidad como referencia para la implementación
+y desarrollo de su propio sistema.
+
+El alcance del Sistema de Gestión de la Calidad (SGC), como no puede ser de otra manera, invo-
+lucra a la totalidad de la organización, comenzando con la presidencia, que establece la política
+de excelencia y sostenibilidad, la cual supone el marco del propósito y los objetivos no solo para
+Correos, sino también para todas las empresas del Grupo Correos. En ella se expresa el com-
+promiso con la excelencia, los clientes, las personas que trabajan en el Grupo y con su entorno.
+
+No obstante, de cara a la certificación ISO de calidad en Correos, el alcance cubierto es el
+de los siguientes procesos:
+
+A. La admisión, tratamiento y curso de correspondencia y paquetería nacional e internacional.
+B. La comercialización y entrega en oficina de productos y servicios de proximidad.
+C. Gestión de reclamaciones nacionales e internacionales de exportación.
+
+En este esquema queda incluida la mayor parte de las unidades operativas: Oficinas, Cen-
+tros de Tratamiento, Admisión Masiva, Oficina de Cambio y Atención al Cliente.
+
+Se extiende, también, al resto de empresas del grupo (cada una con su propio alcance de
+certificación): Correos Express, Nexea y Correos Telecom.
+
+Cada área operativa implementa y desarrolla el SGC de acuerdo a la especificidad de sus
+objetivos y procesos, de forma que en Correos pueden diferenciarse cinco subsistemas de
+gestión de la calidad, cada uno de los cuales con su propio esquema y dirección (liderazgo):
+
+Oficinas (Productos y Servicios).
+Centros de Tratamiento.
+
+e Centros de la Oficina de Cambio Internacional.
+e Atención al cliente.
+e Correos Frío.
+
+El desarrollo (funcionamiento) del sistema comienza con las entradas de requisitos y nece-
+sidades de los clientes, proporcionadas por el área Comercial, así como los análisis cor-
+porativos del entorno/contexto (actualmente realizados, también, por Comercial) junto con
+el análisis de riesgos y oportunidades (Auditoría y Control). Estas entradas sirven como
+base para establecer la estrategia o, a más corto plazo, las líneas directrices o planes de
+Correos, así como la revisión, cada tres años como máximo, de la política de excelencia y
+sostenibilidad. A continuación, se planifica el SGC desplegando los objetivos corporativos
+en objetivos y procesos específicos de cada una de las áreas del alcance, comunicándolos
+para que lleguen a todos los niveles (Conecta, notas internas, etc.).
+
+Una vez ejecutados los procesos, se hace seguimiento y control de su correcto funciona-
+miento, tanto a la entrada (proceso de compras y evaluación de proveedores), durante su
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 10 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Y A
+
+ejecución (en colaboración con las áreas de mantenimiento e ingeniería), como a la salida
+con la evaluación de sus resultados, tanto intermedios como del servicio final a entregar a
+los clientes; todo ello mediante sistemas de medición basados en indicadores (de proceso,
+como la calidad en plazo de los productos en los diferentes tramos logísticos; de servicio
+final, como el plazo de los envíos desde emisor a receptor; el índice de satisfacción de los
+clientes o el índice neto de recomendación) y de auditorías internas (Auditoría y Control) y
+externas (realizadas por entidades de certificación).
+
+Finalmente, las direcciones responsables de cada una de las áreas del alcance realiza una
+revisión de todo su subsistema (en el proceso de revisión por la dirección), analizando toda
+la información relativa a su ámbito, implementando y haciendo seguimiento de las accio-
+nes correctivas y preventivas que estimen oportuno para mejorar la eficacia del sistema y
+definiendo nuevos objetivos, así como estableciendo los recursos necesarios, tanto huma-
+nos (en colaboración con las áreas de Selección y Formación) como materiales (Compras,
+Mantenimiento e Ingeniería).
+
+10.1.5. Herramientas del SGC
+
+Aparte de las herramientas ya mencionadas, la innovación, el Manual de Gestión y Conecta
+(como canal de comunicación), el sistema dispone de otras herramientas que ayudan a
+mejorar su eficacia, entre las que cabe destacar:
+
+El Portal de Procesos
+
+La definición de los procesos y sus interrelaciones se establece en el Portal de Procesos,
+la herramienta para la gestión por procesos de Correos. Además de la identificación de los
+procesos y los procedimientos para llevarlos a cabo, permite conocer quién es el respon-
+sable del proceso, quién tiene que realizar las actividades que lo componen y la forma de
+realizarlas. También identifica los sistemas de información involucrados en el proceso y la
+documentación asociada con él.
+
+Auditorías internas
+
+En función del tipo de unidad, los auditores internos visitan en ciclos anuales (Centros de
+Tratamiento) o cuatrienales a todas las unidades. Estas visitas siguen el modelo típico de
+auditoría, por lo que, una vez concluida la visita, los auditores emiten un informe con el
+resultado de la misma en el que se incluye la puntuación obtenida por la unidad y, en caso
+de ser necesario, emitiendo recomendaciones al centro.
+
+Estas visitas son esenciales para el mantenimiento de las certificaciones de Correos, ya
+que son un requisito de la norma de calidad 1SO 4001.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 11 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Por otra parte, las recomendaciones resultantes entran en el ciclo de mejora del sistema
+de gestión certificado, ya que sobre ellas hay que establecer acciones correctivas.
+
+La Liga de la Excelencia
+
+Desde sus orígenes, en el año 20049, la Liga de la Excelencia se ha constituido en una herra-
+mienta fundamental para evaluar el grado de buena ejecución alcanzado por las unidades ope-
+rativas de Correos, poniendo el foco sobre el empleo eficiente de sus recursos, la utilización
+adecuada de la información y la realización correcta de los procesos, en definitiva, evaluando
+su contribución a la mejora de la calidad del servicio y al logro de los objetivos de Correos.
+
+La Liga de la Excelencia es una herramienta de gestión a nivel nacional que se actualiza
+mes a mes y puede seguirse a través de la intranet corporativa. En ella se agrupan las
+unidades operativas en varias categorías, utilizando indicadores que se pueden medir y que
+impactan directamente en procesos clave, facilitando información individualizada para la
+mejora continua y la gestión de dichas unidades.
+
+El Sistema de Identificación por Radiofrecuencia
+
+La tecnología RFID transmite la identidad de un objeto (similar a un número de serie único)
+mediante ondas de radio.
+
+El sistema lo componen los lectores, las antenas y los transpondedores o tags (aparte del
+software de gestión, conocido como middleware, instalado en el lector).
+
+e Los lectores RFID y su software de gestión se instalan en el punto donde se quiera hacer
+el control y son los encargados de gestionar el sistema; a modo de un ordenador, cons-
+tituyen el «cerebro».
+
++ Las antenas (fijas) que acompañan al lector, y están conectadas a él en el punto de lec-
+tura elegido, son las encargadas de emitir y recibir las señales de radiofrecuencia que
+se intercambian entre tag y lector.
+
+* Las etiquetas o transpondedores RFID (RFID tags en inglés) son unos dispositivos pe-
+queños, similares a una pegatina, que pueden ser adheridas o incorporadas a un objeto.
+Contienen antenas para permitirles recibir y responder a peticiones por radiofrecuencia
+desde un emisor-receptor RFID (lector y antenas fijas del sistema).
+
+Una de las ventajas del uso de radiofrecuencia es que no se requiere visión directa entre
+emisor y receptor. Esta tecnología permite conocer el momento en el que el objeto portador
+del transpondedor circula por las proximidades de un punto de registro (lectura). Quedarán
+así determinados la posición y el instante de paso del objeto, esto es, su trazabilidad.
+
+En Correos, el sistema está instalado en los accesos y en los muelles de carga y descarga
+(en torno a 500 puntos) de los principales centros de tratamiento y de admisión masiva
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+RFID (Radio
+Frequency
+Identification):
+Sistema de registro
+de datos de forma
+automática, sin
+intervención
+humana, que
+transmite la
+identidad de un
+objeto (similar a
+
+un número de serie
+único) mediante
+ondas de radio.
+
+[[ página 12 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario (unos 30) y utiliza etiquetas pasivas que no necesitan alimentación eléctrica interna (mien-
+COCAL: Sistema tras que las activas requieren de una batería).
+
+de información : Y . : a
+La información recogida por el sistema se almacena en COCAL. Se utiliza para trazar tanto
+
+envíos postales como elementos logísticos (carros y jaulas) y otros activos de la empresa
+(transpaletas, toros, básculas, etc.). Esta trazabilidad permite a Correos tener un mayor control
+en la gestión de los elementos logísticos y la mejora de la calidad de los envíos no registrados
+como la carta y el publicorreo. También permite prevenir la pérdida de envíos (salvaguardando la
+propiedad de los clientes) y de activos, así como hacer seguimiento ad hoc de envíos de clientes
+clave (mejorando las posibles ofertas comerciales de Correos para fidelización o captación).
+
+corporativo.
+
+El Portal de Calidad
+
+El Portal de Calidad es el lugar de referencia de todos los sistemas de medición de indi-
+cadores relacionados con los plazos de todos los tipos de envíos manejados por Correos.
+Hace unívocos los criterios de medición de los indicadores de calidad en plazo, convirtién-
+dose así en el motor de cálculo único para
+todo Correos.
+
+Una de sus principales utilidades es la de ser-
+vir de documento explicativo de cómo se defi-
+ne cada uno de los indicadores y cuáles son
+los criterios de cálculo utilizados, así como los
+datos en detalle de cada envío individual que
+forma parte de la medición.
+
+Desde el primer nivel del Portal de Calidad se
+podrá acceder a todos los sistemas de medi-
+
+R
+[o]
+o]
+09)
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 13 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+ción de la calidad en plazo que vierten su información al propio portal: productos registrados,
+carta y publicorreo nacionales (SPEX/Q-RFID), carta internacional (estudios UNEX de IPC y
+GMS de UPU) y al Observatorio de la Calidad.
+
+Calidad en plazo de productos registrados
+
+Es el sistema de información para el cálculo de informes relativos al plazo de los envíos que
+dejan registro en los sistemas de información corporativos y vuelcan a Mercurio, es decir,
+de los envíos que tienen trazabilidad.
+
+Los informes muestran el porcentaje de envíos acumulados que cumplen los diferentes
+plazos, D+1, D+2, etc., en el tramo seleccionado y miden el tiempo medio de entrega.
+
+Debe hacerse una mención especial de la medición del Paquete Azul por formar parte del
+Servicio Postal Universal (SPU) y, por tanto, sujeto a objetivos legales de calidad en plazo.
+En este sentido, la Comisión Nacional de los Mercados y la Competencia (CNMC), como
+órgano regulador del servicio postal, asume los resultados obtenidos para este producto a
+partir de esta medición, previa auditoría del sistema. Así es que, anualmente, el sistema
+es auditado por una entidad externa que, hasta ahora, ha refrendado la validez de los resul-
+tados para el Paquete Azul e, indirectamente, para el resto de los productos, al tratarse
+todos ellos con los mismos criterios y metodología.
+
+Calidad en plazo de la carta y el publicorreo
+
+SPEX (sistema de panelistas externos) es el sistema utilizado por Correos para determinar
+el plazo medio de la carta básica ordinaria y del publicorreo.
+
+La metodología del estudio consiste en diseñar estadísticamente, elaborar y poner en circulación
+una muestra de cartas que reproduzca fielmente las características de los cerca de dos mil
+millones de cartas reales que anualmente circulan por la red postal y, finalmente, extrapolar los
+resultados obtenidos del análisis estadístico de la muestra a lo esperado para los envíos reales.
+
+La medición debe hacerse con arreglo a las reglas marcadas por la norma UNE EN 13850
+«Servicios postales. Calidad del servicio. Medición del plazo de entrega, extremo a extre-
+mo, para envíos individuales de correo prioritario y de primera clase», que es un estándar
+europeo para este tipo de estudios. Según se recoge en esta norma, la medición debe
+realizarse externamente al operador para mantener el anonimato de los puntos de depósito
+y de entrega (esto es, de los emisores y de los receptores) y preservar la objetividad de la
+medición. Así pues, Correos contrata a una empresa especializada para su ejecución y para
+la gestión del panel (el conjunto de emisores y receptores).
+
+El desarrollo del sistema se realiza en varias fases, comenzando con la contratación de una
+empresa especializada; el diseño de la muestra para que tenga validez estadística contrastán-
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+CNMIC (Comisión
+Nacional de los
+Mercados y la
+Competencia):
+Organismo
+independiente
+encargado
+
+de preservar,
+garantizar y
+promover el correcto
+funcionamiento, la
+transparencia y la
+existencia de una
+competencia efectiva
+y de una regulación
+eficiente en todos
+los mercados y
+sectores productivos
+en beneficio de los
+consumidores y
+usuarios.
+
+Glosario
+
+SPEX (sistema
+
+de panelistas
+externos): Sistema
+utilizado por Correos
+para determinar
+
+el plazo medio de
+
+la carta básica
+ordinaria y del
+publicorreo.
+
+[[ página 14 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+dola contra los atributos del correo real (matriz de flujos elaborada por el área de Estadística
+de Correos y otras características como porcentajes de formatos, método de depósito, etc.);
+la producción física de los envíos test; la distribución de este correo entre los panelistas
+(ajustando lo más posible a los métodos de depósito y flujos reales); la puesta en circulación
+de los envíos test por la red postal desde envío a recepción; las comunicaciones de datos
+entre panelistas y el sistema de información; y, finalmente, la explotación de la información.
+
+IE
+
+ñ ? Panelistas
+Panelctas destinatarios
+remitentes | —=» si > —
+
+Trazabilidad: :
+' Fecha Tags AFID. Fecha Recepción
+de depósito Códigos máquina. de Entrega del
+Matasellos. correo
+
+Distribución
+
+“Recopilación,
+grabación y
+depuración
+de los datos
+
+Al igual que el Paquete Azul, la carta básica ordinaria queda dentro del ámbito del SPU y
+está sujeta a objetivos anuales de calidad en plazo, de forma que, una vez obtenidos los
+resultados del estudio, la CNMC, como entidad reguladora, asume esos resultados previa
+auditoría del estudio SPEX. Así es que, anualmente, el sistema es auditado por una entidad
+externa que, hasta el momento, ha refrendado la validez de los resultados.
+
+Calidad en plazo de la carta internacional
+
+Para determinar la calidad en plazo de las cartas con origen o destino transfronterizo y, a
+partir de los resultados medidos y del nivel de cumplimiento de los objetivos marcados,
+asignar a cada operador involucrado la compensación por gastos terminales, los diferen-
+tes organismos a los que está asociado Correos implementan sistemas de medición muy
+similares al estudio doméstico SPEX y basados en el mismo estándar, la UNE EN 13850.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 15 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+La Unión Postal Universal (UPU) implementa un estudio denominado Global Monitoring Sys-
+tem (GMS) y la International Post Corporation (IPC) el estudio UNEX.
+
+Tanto las cartas test de un estudio como del otro incorporan transpondedores que permitirán
+hacer un seguimiento de cada una de ellas desde su origen a su destino.
+
+Para Correos, son de interés los tiempos transcurridos desde el depósito de la carta hasta
+la salida de la oficina de cambio (CTI de Barajas) para las cartas de exportación (tramo
+logístico denominado Leg1), y el tramo logístico desde la entrada a la oficina de cambio
+hasta la entrega al destinatario (denominado Leg3) para las cartas de importación.
+
+Con el objeto de poder mejorar el nivel de desempeño de Correos, tanto en el Leg1 como
+en el Leg3, se ha desarrollado un sistema de información que toma como base los datos
+de los estudios UNEX, GMS y las lecturas RFID de estas cartas, que se registran, a su vez,
+en el sistema RFID instalado en sus centros.
+
+En el caso de importación:
+
+e Tratamiento en el CTI (desde entrada hasta salida del centro).
+
+. Transporte hasta Cl3 o CTA de Madrid, según el curso de la carta.
+
+e Tratamiento en CI3.
+
+. Transporte desde CI3 a CTA de Madrid.
+
+e Tratamiento en CTA de Madrid.
+
+. Transporte hasta el centro de destino (generalmente un CTA).
+
+e Tratamiento en el centro de destino.
+
+* Distribución: desde salida del último centro de tratamiento hasta la entrega al destinatario.
+* Tramo Leg3 completo.
+
+En el caso de exportación:
+
++ Recogida desde el punto de admisión al centro de tratamiento de origen.
+. Tratamiento en el centro de origen.
+
+» Transporte hasta el CTA de Madrid o al CTI, según el curso de la carta.
+
+. Tratamiento en CTA de Madrid.
+
+. Transporte desde CTA de Madrid a CTI.
+
++ Tratamiento en CTI.
+
+. Transporte hasta oficina de cambio de destino (pendiente de desarrollar).
+e Tramo Leg1 completo.
+
+Observatorio de la Calidad
+
+El objetivo del Observatorio de la Calidad nacional es el de realizar un seguimiento diario y
+exhaustivo de los clientes de paquetería durante los periodos de máxima producción (Peak
+Season), como el Día del Soltero, anticipo del Black Friday, Navidad, etc.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+CTA: Centro
+de Tratamiento
+Automatizado.
+
+Glosario
+
+CTI: Centro de
+Transferencia
+Internacional.
+
+Glosario
+
+Cl3: Uno de los tres
+grandes centros
+
+de admisión y
+clasificación en
+
+el aeropuerto de
+Madrid-Barajas,
+junto con el CTI y
+
+el CTP (Centro de
+Tratamiento Postal).
+
+[[ página 16 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+UAM: Unidad de
+Admisión Masiva.
+
+Glosario
+
+NPS (Net Promoter
+Score): Herramienta
+que propone medir la
+lealtad de los clientes
+de una empresa
+basándose en las
+recomendaciones
+que ese cliente
+formularía respecto a
+dicha empresa.
+
+En los informes derivados del observatorio de la calidad, el indicador no pone tanto el foco
+en el plazo de entrega de los envíos como en el nivel alcanzado en cuanto al cumplimiento
+de entrega. Para determinar este cumplimiento se debe establecer, en el momento de la
+admisión, una fecha máxima de entrega que dependerá de las siguientes variables:
+
+* Origen y destino del envío, hasta el estrato de código postal.
++ Tipo de unidad de admisión (oficina o UAM).
+
+e Hora de admisión o procesamiento en máquina.
+
+* Producto.
+
+Es decir, no hay un plazo de entrega fijo que sea el óptimo, sino que, dependiendo del envío,
+tendrá un plazo óptimo u otro. Así, desde el momento de la admisión se puede saber si el
+envío está pendiente en calidad o pendiente fuera de calidad y, una vez que se produzca
+el intento de entrega, se determinará si el envío ha cumplido con el plazo de entrega pre-
+establecido.
+
+Está previsto que los informes se actualicen cada hora (diariamente por el momento), de
+forma que puedan servir como cuadro de mando operacional en tiempo real, permitiendo
+actuar sobre unidades y envíos concretos que están cerca de su fecha máxima de entrega
+(o que la han sobrepasado).
+
+10.1.6. Otras herramientas de mejora
+
+Correos ha implementado otras filosofías que incluyen sus propias herramientas de mejora
+(relacionadas con el SGC), como son:
+
+. La eficiencia operativa, basada en la filosofía LEAN para optimizar los procesos elimi-
+nando aquellos que no aportan valor. Utiliza herramientas como la estandarización, las
+mejores prácticas, la gestión visual, 5S, etc.
+
+. La experiencia de cliente, que va más allá de la satisfacción de requisitos del cliente,
+tratando de llegar a sus emociones y convertir su relación con Correos (viaje del cliente)
+en un sentimiento placentero, perdurable en su memoria, que le lleve a recomendar a
+otros potenciales clientes su vivencia con Correos. Utiliza el NPS (acrónimo inglés para
+«índice neto de recomendación») para medir el grado en que el cliente haría sus recomen-
+daciones sobre el servicio recibido.
+
+10.1.7. Reconocimiento
+El reconocimiento externo se consigue mediante la certificación ISO que, aparte de los
+beneficios intrínsecos de tener implementado un SGC (reducción de costes de la «no cali-
+
+dad» por pérdida de clientes, ineficiencias en la operativa, etc.), permite a Correos mejorar
+su reputación corporativa y, por tanto, un mejor posicionamiento de cara a concursos,
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 17 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+licitaciones, etc., ante potenciales clientes como son las administraciones públicas o las
+empresas de ámbito privado.
+
+Internamente, mediante el Premio Nacional a la Excelencia, se identifican las unidades
+excelentes y se reconoce la labor de su personal. Este premio refuerza la cultura de la
+excelencia entre las unidades operativas de Correos, premiando a aquellas que emplean
+eficientemente sus recursos, utilizan adecuadamente la información y realizan correctamen-
+te los procesos, contribuyendo con ello a alcanzar los objetivos de Correos.
+
+La puntuación que determina qué unidades son las merecedoras del premio se obtiene de la
+puntuación alcanzada por la unidad en la Liga de la Excelencia.
+
+10.2. Atención al cliente y protocolo de venta
+en telemarketing
+
+10.2.1. Modelo de atención al cliente
+
+El origen del modelo de atención al cliente de Correos está fundamentado jurídicamente en
+el capítulo 1Il del Real Decreto-Ley 37/2020, del 22 de diciembre, que trata sobre medidas
+urgentes para hacer frente a las situaciones de vulnerabilidad social y económica en materia
+de vivienda y transporte. El decreto establece lo siguiente:
+
+Las oficinas y servicios de información y atención al cliente serán diseñados utilizando
+medios y soportes que sigan los principios de accesibilidad universal y, en su caso,
+medios alternativos para garantizar el acceso a los mismos.
+
+Se deberán identificar claramente los servicios de atención al cliente en relación a las
+otras actividades de la empresa, prohibiéndose expresamente la utilización de este ser-
+vicio para la utilización y difusión de actividades de comunicación comercial de todo tipo.
+
+En caso de que el empresario ponga a disposición de los consumidores y usuarios una
+línea telefónica a efectos de comunicarse con él en relación con el contrato celebrado,
+el uso de tal línea no podrá suponer para el consumidor y usuario un coste superior
+al coste de una llamada a una línea telefónica fija geográfica o móvil estándar.
+
+En el supuesto de utilizarse, de acuerdo con el párrafo anterior, una línea telefónica
+de tarificación especial que suponga un coste para el consumidor o usuario, el empre-
+sario facilitará al consumidor, junto con la información sobre dicha línea telefónica
+de tarificación especial y en igualdad de condiciones, información sobre un número
+geográfico o móvil alternativo.
+
+No obstante lo anterior, en los supuestos de servicios de carácter básico de interés
+general, las empresas prestadoras de los mismos deberán disponer, en cualquier
+caso, de un teléfono de atención al consumidor gratuito. A estos efectos, tendrán la
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 18 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+consideración de servicios de carácter básico de interés general los de suministro de
+agua, gas, electricidad, financieros y de seguros, postales, transporte aéreo, ferrovia-
+rio y por carretera, protección de la salud, saneamiento y residuos, así como aquellos
+que legalmente se determinen.
+
+El deseo de Correos es conseguir relaciones estables y duraderas con sus clientes y usuarios
+y ofrecerles una experiencia especial. Correos se relaciona con varios tipos de clientes, pero
+todos son únicos y habrá que adaptarse a cada uno de ellos. Será importante ponerse en el
+lugar del cliente para entender qué es lo que realmente le preocupa y qué le puede satisfacer.
+
+Es importante sentir que se es parte de un proyecto dirigido a mejorar la experiencia de los
+clientes en cada interacción. El cliente se pone en contacto con Correos y espera que se le
+ofrezca una solución de una manera rápida y fácil. Es decir, habrá que conseguir procesos
+sencillos y ágiles para que el cliente no pierda tiempo, no tenga que hacer esfuerzos y,
+así, facilitarle el camino. Para ello será necesario que todos los implicados en la atención
+al cliente conozcan el funcionamiento de los procesos, los plazos, los requerimientos, las
+características de los productos, etc. Para esto, el Área de Formación procurará que los
+conocimientos estén actualizados.
+
+El lema de Correos son las tres C: «Cercanía, calidad y compromiso». La percepción del
+cliente dependerá de cómo se le trate, de lo rápido que se le atienda, de la claridad de la
+información, etc. El cliente se sentirá tranquilo si entiende lo que se le está trasladando, y
+para ello habrá que empatizar con él y detallarle los pasos a seguir, así como sus beneficios
+y sus consecuencias.
+
++ Habrá que ser transparentes para generar así su confianza, comunicándose de una ma-
+
+nera cercana, sencilla y sin tecnicismos ni términos internos de los procesos de Correos.
+
+El cliente se siente confundido y desatendido cuando no entiende los procesos y sus
+términos, y eso le genera una frustración que puede ocasionar demoras innecesarias.
+
++ Será importante poder sondear lo que el
+
+A cliente necesita, comprender lo que plan-
+
+tea y mostrar interés y preocupación por
+
+su situación. De este modo, se sentirá más
+
+cómodo y acompañado. Habrá que dedicar-
+
+le el tiempo justo para que no perciba su
+
+contacto como una molestia.
+
+En resumen, las tres C del lema, que reflejan
+los valores de Correos, implican lo siguiente:
+
+a) Calidad. Correos es el operador de refe-
+rencia y cuenta con más de 300 años de
+experiencia. Es una empresa fiable que
+procura transmitir tranquilidad a sus clien-
+tes, de modo que perciban que sus envíos
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 19 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+y gestiones están en buenas manos. Los clientes y usuarios demandan cada vez más
+
+. . . o. . [1] Cercanía,
+inmediatez, y Correos proporciona los conocimientos necesarios para poder asesorarlos
+
+con seguridad. U Compromiso y
+
+Para que la atención al cliente sea eficaz, será necesario: O Calidad
+
+. Trabajar de forma eficiente. Seguir los protocolos y los procesos establecidos. Buscar
+siempre la mejor alternativa para el cliente.
+
++ Estar actualizado. Revisar los sistemas para que todo esté correcto a la hora de aten-
+der a los clientes.
+
++ Comprobar que el cliente esté comprendiendo lo que se le transmite. Buscar la solución
+desde el primer momento y no escalar si no es necesario.
+
+e Al transferir una llamada o generar un caso, proporcionar al compañero toda la infor-
+mación necesaria para que el cliente no tenga que repetir lo que ya ha trasladado.
+
+b) Cercanía. Para lograrla, será importante:
+
+. Presentarse y dirigirse al cliente por su nombre.
+
++ Esforzarse por conocerlo, por entender su situación y sus antecedentes. Para ello,
+habrá que hacer un sondeo correcto que permita obterner toda la información adicional
+necesaria.
+
++ Empatizar, ponerse en su lugar, entender lo que el cliente manifiesta, evitando el ex-
+ceso de confianza.
+
++ No preguntarle más de lo necesario. Reformular la consulta del cliente para corroborar
+que se le ha comprendido. Buscar la gestión que sea más sencilla para el cliente.
+
++ Usar un lenguaje sencillo y conciso para no confundir al cliente.
+
+* Al concluir, recapitular y agradecer la confianza depositada en Correos.
+
+c) Compromiso. Correos se involucra en el problema o la consulta que expresa el cliente
+y procura implicarse en la resolución del asunto. Se le da seguridad haciéndole sentir
+que está en buenas manos.
+
+El cliente quiere trasladar sus inquietudes una vez y conseguir una solución lo más
+inmediata posible.
+
+Todos los miembros del Servicio de Atención al Cliente representan a Correos y deben
+ofrecer soluciones al cliente. «Ser marca» significa no trasladar la responsabilidad a
+otros departamentos o áreas: el cliente debe percibir que Correos en su conjunto da la
+solución.
+
+Para que la atención al cliente refleje el compromiso de Correos, será necesario:
+
++ Ofrecer apoyo para que el cliente note que quien lo atiende se ocupa de su caso de
+una manera personal.
+
++ Ofrecer toda la información que el cliente necesita.
+
+* Asumir la responsabilidad desde el primer momento y evitar los eufemismos. Incluso
+cuando la información ofrecida no sea de agrado del cliente, habrá que hacerle enten-
+der todo con claridad.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [109
+
+[[ página 20 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+e Evitar que el cliente tenga que buscar ayuda en otro lugar o contactando a otra persona.
+
+* Transmitir con claridad los plazos y compromisos. No decirle al cliente lo que quiere
+escuchar si no es cierto.
+
++ Trabajar de forma proactiva y no esperar a que el cliente pregunte. Proporcionar la
+información que aparece en los sistemas que pueda ser de interés para el cliente. De
+este modo, verá al agente de atención al cliente como un experto y agradecerá su
+colaboración. Esto aumentará su satisfacción.
+
+A continuación, se procede a definir la metodología de atención para cada tipo de cliente
+de Correos de manera que se establezca una estrategia diferenciada de acuerdo a su seg-
+mentación.
+
+Para poder definir qué se considera como cliente en Correos hay que hacer varias diferen-
+ciaciones:
+
+. Por rol en el envío: remitente/ destinatario.
+. Por contrato: cliente con contrato (CC)/cliente sin contrato (SC).
+* También podemos hablar de cliente/usuario.
+
+La estrategia de Correos es considerarlos a todos como clientes, aunque por los tipos de
+productos o de contrato tengan un diferente tratamiento y garantías.
+
+Así pues, Correos define a sus clientes de la siguiente manera:
+
+» Cliente: empresa o particular que, por contrato o de manera ocasional, utiliza o contrata
+los productos o servicios de Correos. El cliente podrá tener contrato, o no, con Correos.
+
++ Cliente con contrato: empresa o particular que tiene firmado un contrato de servicios con
+Correos. En Correos estos clientes son atendidos y gestionados en el Área de Atención
+Personalizada.
+
++ Usuario: utiliza o contrata de manera ocasional los productos o servicios de Correos y no
+tiene ningún contrato. También puede identificarse como cliente sin contrato.
+
++ Remitente: es el cliente que contrata o utiliza un servicio de envío de Correos y lo abona.
+Puede ser ocasional o por contrato. Por lo general, es quien tiene todas las garantías de
+los servicios o productos contratados.
+
++ Destinatario: se trata del cliente que recibe el producto de envío. No paga el servicio o
+producto. En contadas ocasiones, y salvo por determinadas características del contrato
+o del producto del remitente, no es objeto de garantías.
+
+. Cliente grandes cuentas: se trata de un particular o empresa con contrato y que tiene
+un departamento especializado para la gestión de sus interacciones con Correos.
+
+Cualquier cliente puede ponerse en contacto con el Servicio de Atención al Cliente a través
+de sus diferentes canales para hacer consultas, contratar, reclamar, etc. Los ciudadanos
+también pueden contactar con Correos para, por ejemplo, consultar información relacionada
+con el voto por correo o sobre algún proceso de consolidación de empleo.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 21 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Cliente
+
+Para Correos, un cliente es una persona natural o jurídica con la que Correos mantiene una
+relación contractual a lo largo del tiempo o de forma ocasional. El cliente debe:
+
+* tener capacidad de decisión,
+
+* tener capacidad de prescripción,
+
+* ser un punto de venta para Correos y
+. ser objeto de acciones comerciales.
+
+Todos los clientes comerciales creados en CRM deben tener asociada una facturación y
+un contacto. Los clientes comerciales que no tienen facturación dejarán de considerarse
+como tales.
+
+En el CRM, un cliente pasa por una serie de «estados» desde que entra en SAP como
+prospecto, suspecto, registro, etc., hasta que se firma un contrato. Estos estados consti-
+tuyen las fases del ciclo de vida del cliente y proporcionan información valiosa acerca de
+su evolución en el tiempo.
+
+Clientes y prospectos
+
+Los datos maestros son la fuente de información central para la empresa. Representan un
+registro único que sirve de referencia para todas las actividades comerciales.
+
+CRM es la puerta de entrada de todos los clientes de Correos. Por consiguiente, en CRM
+se darán de alta a todos los interlocutores que se califiquen como clientes (si ya tienen una
+relación contractual con Correos) o como prospectos (si aún no son clientes de la compa-
+nía). Por cada uno de estos interlocutores hay que introducir una determinada información.
+
+Cuando se realice el alta de un prospecto o cliente que sea persona física (autónomo), se
+debe informar su nombre y apellidos (nunca el nombre comercial) y su correspondiente NIF.
+Cuando sea una empresa, se debe informar el nombre comercial con su respectivo CIF. La
+forma de introducir los datos de los prospectos en CRM obliga a que siempre se introduzca
+el CIF al principio. De esta forma, CRM comprobará si el prospecto/ cliente ya está carteri-
+zado y si además está asignado a otra fuerza comercial.
+
+Es muy importante completar la mayor cantidad de información posible de forma correcta,
+puesto que esta información será utilizada en el propio proceso de venta o posteriormente por
+el resto de la organización (segmentación de clientes, creación de campañas, encuestas, etc.).
+
+Cuanta más información se tenga de un cliente, mejor será el uso que la organización pueda
+hacer de la misma. De ahí la gran importancia de la normalización de todos los datos con
+la máxima información, por ejemplo, correo electrónico, direcciones, teléfono, etc.
+
+Algunos ejemplos de errores en el ingreso de información con sus posibles consecuencias:
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+CRMI: Siglas
+
+de Customer
+Relationship
+Management, se
+utilizan para referirse
+de forma abreviada
+a la Gestión de la
+Relación con el
+Cliente.
+
+Glosario
+
+SAP: En este
+contexto, hace
+referencia
+
+al software
+desarrollado por la
+compañía alemana
+SAP que sirve para
+la planificación
+
+de recursos
+empresariales, pues
+incorpora una serie
+de funciones clave
+de una organización.
+
+[[ página 22 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
++ En el caso de que no se califique correctamente al cliente, la oferta que se le presente
+puede realizarse de manera incorrecta.
+
+. Si el sector de actividad económica no es el adecuado, el cliente podrá ser asignado a
+un segmento incorrecto.
+
+* Si la información es errónea, el cliente no recibirá la revista de clientes, con los consi-
+guientes costes.
+
+Contactos
+
+Los contactos deben estar correctamente cualificados. Esto significa que debemos obte-
+ner toda la información relevante de forma que podamos dirigirnos a ellos de la forma
+más correcta. Cada contacto debe tener una función dentro de la empresa, que indica la
+que desempeña en las relaciones entre la empresa a la que pertenece y Correos. Estas
+funciones son: decisor, firmante, gestor, interlocutor, prescriptor y usuario. Además, es
+necesario indicar la denominación de esta función (el equivalente a «cargo»): por ejemplo,
+si el contacto es el decisor, puede ser gerente, director, etc.; si es interlocutor, puede ser
+jefe de sección, administrador, pero también puede ser director, gerente, etc. Por último,
+es necesario identificar el departamento en el que trabaja: Compras, Logística, Comercial,
+etc. El resto de datos, aunque no se mencionen expresamente, son igualmente importantes
+para realizar acciones comerciales.
+
+Con el objetivo de poder contar con una base de datos correcta, se pondrá especial cuidado
+en la grabación de los datos y su calidad. De esta forma, se revisarán especialmente datos
+como cargos, departamentos, nombres incorrectos, así como las direcciones de e-mail, tanto
+de los contactos como de la propia empresa, y los teléfonos de contacto, que deberán estar
+permanentemente actualizados.
+
+10.2.2. Canales de atención al cliente
+
+Actualmente los canales que Correos pone a disposición de los clientes son los siguientes:
+CANALES DE ATENCIÓN
+Todos los clientes de Correos tienen acceso a una atención multicanal:
+
+. Telefónica
+
+. Oficinas
+
++ Canal web, en cada uno de los sitios de las empresas de Correos.
++ Redes sociales de Correos:
+
+— Twitter (OCorreos y las consultas a través de
+ECorreosAtiende), Instagram (Ocorreos) y Fa-
+cebook (Ocorreos.es).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 23 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Asistente Formulario Formulario
+virtual Web Reclamación Web
+50 A
+RR5S5 ue E Carta
+A Ms”
+Oficinas ———_» si
+
+Equipo de
+Atención al cliente
+
+E | El Anno disponible
+
+MM Disponible
+
+e Canal escrito mediante:
+
+— Correo ordinario a las sedes sociales.
+— Correo electrónico a las diferentes cuentas del Servicio de Atención al Cliente.
+
+1. Canal teléfono
+
+Dentro del canal voz (teléfono) debemos diferenciar entre dos servicios: recepción de lla-
+madas y emisión de llamadas.
+
+Recepción de llamadas
+
+La gestión del servicio de recepción de llamadas se realiza siguiendo los procedimientos y
+protocolos establecidos por Correos.
+
+Cada uno de los protocolos de actuación responde a unas necesidades íntimamente ligadas
+a objetivos de negocio. Estos procedimientos y protocolos se podrán modificar dependiendo
+de las campañas y productos que comercialice Correos.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 24 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+IVR (Interactive
+Voice Response):
+Sistema
+automatizado de
+atención y respuesta
+telefónica previo
+
+o posterior a la
+atención por un
+agente en cola.
+
+El servicio de recepción de llamadas se presta en varias líneas telefónicas (propiedad de
+Correos). Las líneas telefónicas de Correos están soportadas por el sistema Interactive Voice
+Response (en adelante IVR) que permite, en función de la opción elegida por el cliente, dar
+una respuesta al cliente sin necesidad de interaccionar con un agente.
+
+Correos utiliza diferentes locuciones para cumplir con la normativa aplicable de información
+al cliente, así como para guiar al cliente en su consulta y poder ofrecerle la respuesta más
+adaptada a su necesidad.
+
+En la actualidad, el servicio de recepción de llamadas se presta en castellano, catalán, galle-
+go, euskera, valenciano, inglés y portugués. Hay diversos tipos de consultas, por ejemplo:
+
+e Consulta de envíos (nacionales e internacionales).
+
+* Consulta de envíos en aduana.
+
+* Información sobre productos, servicios y campañas de marketing de Correos.
+* Información de códigos postales.
+
+e Información de oficinas de Correos.
+
++ Información del servicio Citypad..
+
+. Gestión del servicio filatélico.
+
+. Gestión de reclamaciones.
+
+. Gestión de recogidas/entregas de envíos y mercancías.
+
+Servicio de campañas: emisión de llamadas
+
+Se trata de los servicios de campañas salientes con el fin de captar clientes, fidelizar su
+relación con la marca, así como otras tareas administrativas que aporten valor al grupo.
+Para las campañas de captación se seguirán los principios básicos de honestidad, integri-
+dad, transparencia y compromiso hacia el cliente, procurando en todo momento que este
+comprenda y acepte todo el contenido transmitido.
+
+Las tareas a realizar en el servicio de campañas son:
+
+e Campañas de fidelización de clientes.
+
++ El contacto comercial con clientes (potenciales o existentes) para la venta de productos
+y servicios de Correos, tanto por medio telefónico como por otros canales de contacto.
+
+. Concertación de visitas para la red comercial de Correos.
+
+. Acciones comerciales destinadas a la captación, desarrollo y retención de clientes.
+
+Otras acciones del servicio de campañas que Correos quiera ofrecer a sus clientes:
+
+. Tareas administrativas inherentes a la actividad principal que resulten necesarias para la
+correcta prestación del servicio y la actualización de la base de datos.
+
+* Todas las tareas relacionadas con la generación y mantenimiento de contratos, indepen-
+dientemente del canal de contacto, como:
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 25 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+— Grabación del contrato.
+
+— Introducción o corrección de datos en sistemas de Correos.
+
+— Envíos de información sobre productos, tarifas, condiciones generales.
+— Recepción de conformidades o consentimientos del cliente.
+
+— Actualización base de datos.
+
+Los destinatarios de las acciones comerciales y venta telefónica de los servicios de
+Correos serán empresarios y autónomos que actúen dentro del ámbito de su actividad
+empresarial.
+
+2. Otros canales y colas
+
+La atención al cliente por otros canales distintos del teléfono se realiza siguiendo los
+procedimientos y protocolos establecidos, que se podrán modificar dependiendo de las
+campañas y productos que comercialice Correos. La atención por medio de canales
+distintos del teléfono consiste en resolver las consultas de los clientes y gestionar sus
+posibles incidencias.
+
+La atención y resolución de las tareas de las colas de estos canales podrá ser prioritaria
+a la de algunas líneas del canal telefónico, en función de las directrices marcadas en cada
+momento por Correos.
+
+Para atender las consultas de los clientes, se utilizan las herramientas con las que se ges-
+tionan estas colas como son Inbenta con un sistema de ticketing, y la reciente herramienta
+IGNIS que aporta una visión 360* para potenciar la experiencia cliente. También Siebel en
+la tramitación de las reclamaciones que se generen en estos canales. Para dar respuesta al
+cliente, se consultan varias herramientas de gestión propias de Correos como, por ejemplo,
+Minerva/Mercurio, Conecta, Sintra, etc.
+
+Las «tareas» son las diferentes actividades o partes en las que se divide un caso. También
+se considera una tarea al acto de añadir información a la ficha de un contacto (cliente/
+usuario, remitente o destinatario) para facilitar su atención y la resolución de las cuestiones
+que puedan requerir atención. Para que una «tarea» se considere útil, deberá cumplir correc-
+tamente la operativa definida en función de su tipología, así como de unas indicaciones
+específicas que dependen de políticas y objetivos de negocio.
+
+A) Canal de consulta web Correos (CW)
+
+En este canal se atienden y gestionan las solicitudes enviadas por los clientes a través
+de un formulario de contacto ubicado en la web www.correos.es. La respuesta o réplica al
+cliente se envía en formato correo electrónico. Se trata de un canal menos formal en el que
+el trato al cliente es más cercano y coloquial, en general, con un trato de «tú». Este canal,
+al igual que el resto de canales, tiene un objetivo de tiempo de atención de acuerdo a la
+estrategia de la Unidad de clientes en cuanto a la atención de los canales.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 26 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+RK: Reclamación, o
+incidencia.
+
+B) Canal e-mail (También en CW)
+
+En este canal se atienden y gestionan los e-mails enviados por los clientes directamente
+a las direcciones publicadas. La respuesta o réplica al cliente se envía en formato correo
+electrónico, aunque se están comenzando a transferir a formularios inteligentes y a digita-
+lizar las respuestas.
+
+C) Canal de redes sociales Correos (redes sociales)
+
+En este canal se atienden a los clientes que contacten en las redes sociales de Correos
+(Twitter, Facebook, Instagram, o cualquier otra red social que Correos considere). La res-
+puesta o réplica al cliente se envía en la misma red social origen de la consulta. Se podrán
+gestionar las consultas de los clientes de forma pública o privada.
+
+D) Cola de reclamaciones Correos (RK)
+
+En esta cola se gestionan las reclamaciones de los clientes para su resolución y respues-
+ta. Las reclamaciones se pueden dar de alta a través de diferentes canales de atención
+(teléfono, redes sociales, formularios web, oficinas, etc.). La respuesta al cliente se envía
+mayoritariamente en formatos e-mail y postal. El 30% de las reclamaciones recibidas son
+internacionales, debiéndose gestionar en el idioma inglés.
+
+Para la gestión de envíos internacionales, tanto en importación como exportación, existen
+herramientas o canales específicos de relación con los operadores postales internacionales.
+
+A los clientes se les responde siempre por canal escrito aunque la reclamación haya lle-
+gado a este departamento con la generación de un caso originado tras la atención de una
+llamada. Si se dispone del correo electrónico del cliente, se le envía la resolución vía correo
+electrónico adjuntando un documento PDF con las indicaciones pertinentes.
+
+Si no se dispone del correo electrónico del cliente, se procederá a enviarle la respuesta de
+su reclamación vía correo ordinario.
+
+Si procediera una indemnización de algún tipo a un cliente que reclamase desde el Servicio
+de Atención al Cliente, se dará la orden de pago vía transferencia (obligatorio para clientes
+de contrato) o giro postal, siendo el Departamento de Finanzas desde donde se realizan los
+pagos y, por tanto, donde termina el proceso de reclamación.
+
+Los canales de entrada de estas reclamaciones son:
+
+. Teléfono.
+
++. Redes sociales mediante la generación de un ticket.
+
+* La entrega de un formulario en oficina.
+
+. Através de un formulario web en el área de Atención al Cliente de www.correos.com. En
+la actualidad y con la finalidad de guiar al cliente o usuario en la solución de su inciden-
+cia, se ha diseñado un flujo de acompañamiento en la web de manera que al cliente se
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 27 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+le informa del tipo de reclamación que puede poner, si es procedente o no, o incluso el
+estado de una posible reclamación previa.
+
+E) Cola de atención personalizada (AP)
+
+En esta cola se atienden y gestionan las consultas e incidencias de clientes con contrato
+de Correos. La respuesta al cliente se envía mayoritariamente en formato e-mail, aunque
+se están comenzando a digitalizar las contestaciones.
+
+F) Cola de BackOffice (BO) de voz de Correos (BOV)
+
+En este BO se gestionan las tareas con origen en contactos de teléfono entrante que no pudieron
+ser resueltas durante la propia llamada, ya sea por falta de formación, capacidad, experiencia
+del agente que la atiende o por ser esta la operativa definida por Correos para su resolución.
+
+Se informará al cliente de la resolución de la misma, habitualmente, con una llamada saliente.
+
+Servicios de atención blending a colas de «voz €: bo» en Correos
+
+Correos emplea un sistema blending en ciertas unidades/áreas/servicios para gestionar de
+una manera conjunta el contacto con el cliente. De esta manera, se unifican en un mismo
+equipo la gestión de canal telefónico y la gestión de casos con sus tareas asociadas. Este
+tipo de gestión unificada es exclusiva de áreas o servicios de pequeño tamaño o volumen
+de trabajo, que permiten que la productividad sea más alta, y para ello están dotadas de un
+equipo experto en ambos canales (voz y casos). Estas áreas o servicios cuentan con unos
+procedimientos y políticas específicos, a diferencia de otras áreas encargadas ya sea de
+la gestión de voz o la gestión de casos de forma independiente.
+
+En caso de ser necesario, por el volumen de trabajo de estas áreas blended, Correos puede
+ampliarlas o reducirlas, así como dividirlas en servicios separados, si, por ejemplo, crecen
+en volumen o no se hace necesaria una excesiva especialización. Este tipo de gestión pue-
+de utilizarse también temporalmente en el lanzamiento de nuevos servicios o campañas,
+así como en etapas de reconfiguración de servicios, o cuando fuera necesario incrementar
+determinados acuerdos de nivel de servicio, a criterio de Correos.
+
+10.2.3. Políticas de atención por canales
+
+La satisfacción de los usuarios es clave para Correos, por lo que será un objetivo del equipo
+de atención al cliente conocer cómo estos valoran sus productos y servicios. Dicha labor se
+realizará mediante distintas herramientas que miden el índice de satisfacción del cliente
+(ISC). Algunos de los elementos que influyen en el logro de esta satisfacción se relacionan
+directamente con el servicio y los productos postales; otros, con la manera en que Correos
+afronta diariamente su relación con los clientes y usuarios.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+BO (Back Office):
+Tareas de atención
+realizadas mientras
+el cliente no espera
+en línea a ser
+atendido.
+
+Glosario
+
+BO-VOZ: Tareas que
+el CCC se genera
+en su CRM interno
+por la atención de
+llamadas de voz que
+quedan pendientes
+de respuesta.
+
+Glosario
+
+CCC (Customer
+Contact Center):
+Centro de atención a
+usuarios y clientes.
+
+[[ página 28 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+ISC (índice de
+satisfacción del
+cliente): Encuesta
+fin de llamada o
+tareas, aplicable
+cuando se resuelve
+y cierra un caso.
+
+Actualmente, los clientes son muy exigentes, pues tienen la posibilidad de elegir entre
+una gran cantidad de productos y servicios. Por ello, habrá que tener en cuenta diversas
+prácticas al atender sus consultas y reclamaciones, las cuales ayudarán a crear una cone-
+xión emocional y una comunicación cercana con el cliente. Se logrará, así, que esté más
+dispuesto a escuchar indicaciones y sugerencias, y que valore de forma positiva a los
+trabajadores de Correos.
+
+Estas políticas de atención variarán respecto al canal utilizado.
+
+A) Canal telefónico
+
+En la atención al cliente por vía telefónica será importante tener en cuenta los siguientes
+factores para lograr que sea eficaz:
+
++ Actitud personal. En el contacto con el cliente se establecerán códigos de comunicación
+no verbal que transmitirán cierto mensaje, y que repercutirán en cómo el cliente se sentirá
+tratado, más allá de la resolución de la consulta planteada. Como ejemplo, la postura del
+cuerpo, que influye en el tono con que se habla. Por ello, es necesario:
+
+— Intentar estar relajados.
+
+— Estar concentrados al interactuar con cada cliente; centrarse en él; intentar compren-
+derlo con empatía.
+
+— Adoptar una correcta actitud mental, basada en el conocimiento y las herramientas
+que, como expertos y asesores, poseen los trabajadores de Correos para ayudar al
+cliente. Para ello, se dirigirá la interacción con el cliente, organizando la información y
+la manera de resolver la consulta.
+
+— Mantener una postura adecuada mientras se atiende una llamada para que la voz
+fluya con soltura.
+
++ Uso de la voz. El tono, el timbre, la modulación y la potencia de la voz influirán sobre
+lo que se transmite; y producirán distintas sensaciones en los clientes que reciben los
+mensajes (por ejemplo, según el volumen o el tono de la voz, el cliente podrá percibir una
+actitud de agresividad o de colaboración). Con la voz se puede tranquilizar, convencer,
+generar confianza, dar seguridad o, todo lo contrario. Se deberá controlar el uso de la voz
+y reconocer cómo cambia la actitud del interlocutor de acuerdo a la voz que se utilice.
+Para ello, se deberá:
+
+- Conocer la propia voz (su tono, volumen, timbre, etc.) y cómo impacta en los demás
+según se utilice.
+
+— Variar el tono de voz, haciendo énfasis en las partes importantes del mensaje, para
+que no sea monótono y así generar confianza, seguridad, etc., dado que la entona-
+ción es un factor muy relevante de acercamiento al cliente. Por otro lado, también se
+prestará atención a los silencios, las afirmaciones y expresiones de los clientes como
+respuesta al tono que se utilice.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 29 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+— Pronunciar bien las palabras para que el cliente entienda con claridad lo que le trasmi-
+timos, pues la articulación de las palabras influirá en la percepción y la comprensión
+clara de los mensajes.
+
+— No hablar demasiado rápido, porque el ritmo ayudará a que el cliente perciba que es aten-
+dido con gusto. Ni demasiado lento, de modo que el cliente se aburra y no preste atención.
+
++ El silencio. En una conversación, el silencio puede ser de dos tipos: objetivo, que corres-
+ponde a la ausencia de sonido sin otro significado —como cuando forma parte de la pun-
+tuación de una frase—, y subjetivo, que consiste en una pausa reflexiva o para acentuar
+algo dicho o que se dirá. Mediante los silencios se pueden enfatizar palabras o ceder la
+palabra al cliente, por eso será necesario controlarlos. Para ello, es imprescindible:
+
+— Informar al cliente cuando necesita hacer una consulta, para no desconcertarlo, hacerle
+sentir desatendido, o hacerle abandonar la conversación.
+
+— Evitar los silencios incómodos. Mientras se consulta alguna herramienta, hacer pre-
+guntas que tengan sentido en el contexto y sean interesantes para el cliente o aporten
+valor a la conversación.
+
+— Priorizar la palabra del cliente cuando está hablando; demostrar que se le escucha y
+entiende por medio de reformulaciones, y no interrumpirlo nunca.
+
+El lenguaje. La comunicación interpersonal será posible a través del lenguaje; por esto,
+se deberá utilizar con los clientes un lenguaje formal, correcto, educado. También es
+necesario contar con registros variados del lenguaje, es decir, adaptar el lenguaje al
+interlocutor para que comprenda. Para lograr esto, se deberá:
+
+— Usar un lenguaje claro y sencillo.
+
+— Evitar expresiones coloquiales y tecnicismos.
+
+FRASE OSCURA
+
+¿De qué se trata?
+
+¡No cuelgue!
+
+No me ha entendido, lo que yo
+pretendía decirle...
+
+¡Yo no he dicho eso!
+
+No es culpa mía, eso depende del
+departamento xxx
+
+Perdona por el tiempo que te he quitado
+¿Qué quiere decir con eso?
+
+¿De dónde ha sacado eso?
+
+No se preocupe
+No antes del martes
+No le puedo prometer nada
+
+PALABRA/EXPRESIÓN OSCURA
+
+Palabras negras: problema, etc.
+Tecnicismos: Aviso, ADT, CTA, etc.
+¿No cree usted que...?
+
+FRASE CLARA
+
+¿En qué puedo ayudarle”?
+
+¿Es tan amable de esperar un momento, por favor?
+Seguramente no me he explicado bien, lo que yo quería
+decirle...
+
+Se lo intento volver a explicar
+
+Me preocuparé personalmente de su caso
+
+Gracias por el tiempo que me ha dedicado
+
+¿Es tan amable de aclararme un poco más este asunto,
+por favor?
+
+¿Puede decirme de dónde proviene esa información, por
+favor?
+
+Cuente conmigo para ayudarlo
+
+A partir del miércoles
+
+Haré todo lo que esté en mi mano...
+
+PALABRA/EXPRESIÓN CLARA
+¿En qué puedo ayudarle”?
+
+Tramitador aduanero, proceso logístico, centro de tratamiento envíos, etc.
+
+¿Cree usted que...?
+
+PERCEPCIÓN
+
+Cercanía
+Cercanía
+Compromiso
+
+Calidad
+Compromiso
+
+Cercanía
+Compromiso
+
+Calidad
+Cercanía y calidad
+
+Compromiso
+Compromiso
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 30 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+B) Canales escritos
+
+La comunicación con el cliente será una ocasión para fidelizarlo y modificar posibles valora-
+ciones negativas sobre Correos y que, en cambio, la perciba como una empresa receptiva
+a sus reclamaciones.
+
+Para ello, existen una serie de pautas para dar respuestas escritas efectivas a los clien-
+tes que presentan quejas a Correos, mediante distintos tipos de comunicaciones (cartas,
+e-mails, interacciones en la web y en redes sociales) con un estilo definido y unificado, que
+reforzará la imagen de unidad y profesionalidad de Correos.
+
+Con este objetivo, se ha diseñado una serie de plantillas (modelos de documentos) rela-
+cionadas con los diferentes casos de comunicaciones que suelen realizar los clientes y
+usuarios. La persona que deba dar una respuesta escrita podrá elegir entre las plantillas y,
+si fuera necesario, adaptarlas al caso que está resolviendo.
+
+Las plantillas se recogerán en el Modelo de Gestión de la Comunicación de Atención al
+Cliente de Correos. Se encuentran alojadas en la herramienta de gestión de ATC y podrán
+ser seleccionadas según el tipo de gestión que se realice.
+
+Políticas generales de atención al cliente
+
+A continuación, se recogen las políticas generales de la atención al cliente que Correos
+considera esenciales y están en línea con la filosofía del modelo de calidad implantado.
+
+Las políticas generales se agrupan en las categorías:
+
+PERSONALIZACIÓN
+
+Se utilizará siempre el saludo y despedida corporativos, tratando de «tú» al cliente/usuario.
+Se brindará una atención personalizada, llamando al cliente/usuario por su nombre.
+LENGUAJE
+
+Se utilizará un lenguaje afable sin terminología compleja, ni tecnicismos, generando con-
+fianza con nuestro interlocutor en la medida en que sea adecuado en la situación.
+
+Se evitará el uso de signos que puedan generar una mala interpretación del mensaje que
+queremos transmitir.
+
+Se utilizarán emojis que puedan sustituir algún término o expresión, como «saludo», «des-
+pedida», «alegría», «guiño», etc.
+
+Se hablará con argumentarios establecidos en la medida de lo posible, y no utilizando los
+términos, siglas o expresiones que aparecen en aplicaciones o documentos internos.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 31 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+No se escribirá ningún término o mensaje que no deba ser conocido en el exterior de Correos,
+especialmente si incumple el código ético o de conducta de Correos.
+
+PRIVACIDAD
+
+No se proporcionará nunca al interlocutor datos o información privada, salvo que estuviera
+así expresamente definido en una operativa concreta aplicable.
+
+Será importante identificar el rol del cliente/usuario respecto a la información a facilitar,
+ya que, si no se trata de un participante directo, solo se le podrá ofrecer la información
+publicada en la web de Correos o en las herramientas de acceso público.
+
+Se evitarán las expresiones que hagan referencia a datos sensibles (edad, género, orien-
+tación sexual, origen racial o étnico, creencias, religión, ideología o afiliación alguna,
+estado físico/psíquico o salud), salvo si estuviera así especificado en el argumentario de
+la campaña.
+
+Si el cliente/usuario facilitara algún contenido que pudiera atentar contra la privacidad de
+empleados de Correos, se le informará sobre la necesidad de disponer de una autorización
+expresa para hacer uso de su imagen.
+
+COMUNICACIÓN
+
+Se empatizará con la situación que expresa el usuario/cliente sin criticarla. Se ofrecerán
+disculpas en nombre de Correos siempre que el interlocutor informe un incumplimiento o
+una situación en la que se haya visto perjudicado.
+
+Se evitará cualquier tensión o reproche hacia el cliente, dejando que se desahogue y man-
+teniendo la calma.
+
+Nunca habrá que responder a insultos o amenazas. Se recordará a los clientes/usuarios
+que para mantener una buena comunicación y buen clima será necesario modificar el len-
+guaje utilizado.
+
+REASIGNACIÓN DE CONTACTOS Y TAREAS
+Solo se permite reasignar un contacto si el cliente/usuario solicita:
+
+* Un idioma que no dominamos, en cuyo caso se asignará el caso a un compañero capa-
+citado.
++. Una operativa que especificamente así lo establece.
+
+Si el cliente solicita que lo atienda un responsable, o se identifica como una personalidad
+relevante de los medios de comunicación, la política, los negocios, el periodismo, el deporte
+o el mundo social en general, se asignará la tarea al equipo interno para que sea valorado
+por coordinación o dependiendo del impacto por el Comité (formado por Comunicación +
+Agencia + Atención al Cliente).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 32 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+FCR (First Contact
+Resolution):
+Resolución al primer
+contacto.
+
+No está permitida la asignación «ciega», sino que se deberán respetar los criterios esta-
+blecidos por la red social y el turno de trabajo. En la asignación el responsable del caso
+deberá aportar a su compañero la información necesaria para que el cliente no deba repetir
+ninguna información al nuevo agente a través de un «Post it» de Inbenta.
+
+RESOLUCIÓN
+
+Siempre que sea posible, se intentará ayudar al cliente/usuario a resolver su solicitud sin la
+necesidad de abrir incidencias ni reclamaciones, salvo que se den las condiciones para trami-
+tarlas. Sin embargo, si así lo solicita el cliente, se le facilitará la información para su trámite.
+
+Se procurará la resolución en primer nivel: First contact resolution (FCR), salvo que sea
+improbable lograrla.
+
+Se atenderá con prioridad la solicitud en la que el cliente/usuario informe de motivos funda-
+dos de urgencia, especialmente ante el incumplimiento de las responsabilidades de Correos
+sobre sus productos y servicios.
+
+Incluso cuando la responsabilidad de una incidencia o un incumplimiento probadamente sea
+de un tercero (proveedor, canal, del propio cliente o sus proveedores), se evitará perjudicar
+la imagen de otros y se aportará proactivamente la información que ayude a resolver la
+situación.
+
+No se podrá generar una actividad de back-office (BO) si esta ya existiera (p. ej., duplicar
+Incidencia/RK), y una actividad de back-office no podrá generar otra nueva actividad de BO
+salvo que esté específicamente así establecido por operativa. Sí podrá transferirse a la
+unidad especializada de resolución, cuando la primera no disponga de los medios para su
+resolución.
+
+CIERRE
+
+No se dará por terminado un contacto sin confirmar la resolución o informar del plazo de
+compromiso o condiciones para su resolución, en caso de no quedar resuelta la necesidad
+durante el mismo contacto. Para incidencias/RK, el plazo de resolución es de 10 días hábi-
+les, salvo si existe incidencia en aduana por motivo del remitente o destinatario. Para el
+resto de consultas o trámites, el plazo máximo de respuesta es de 2 días hábiles.
+
+Al finalizar la tarea en privado, se enviará al cliente la encuesta de satisfacción.
+PROACTIVIDAD COMERCIAL
+
+Se ofrecerá al cliente/usuario la solución, productos y servicios o tramitación comercial-
+mente más favorable para sus intereses y necesidades planteadas.
+
+Si el cliente informara su probable denuncia o demanda vía medios o recursos externos, se
+le reconocerá su derecho a ello y se le recordará que su denuncia no exime a Correos de
+su obligación y compromiso de darle una respuesta comercial adecuada.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 33 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+No se remitirá actividad a oficinas u otro personal de Correos diferente del Servicio de Atención
+al Cliente, salvo que sea la única vía documentada de resolución para la necesidad del cliente.
+
+Se potenciará la contratación y utilización de los productos y servicios de Correos, bus-
+cando proactivamente posibles clientes o fomentando la utilización del portfolio, utilizando
+un lenguaje corporativo con vocabulario comercial, salvo que de forma expresa se traslade
+otra indicación.
+
+Al cierre del contacto, se fomentará al cliente para que busque la información o utilice los
+medios digitales, cuando el servicio solicitado esté accesible vía web o app.
+
+MEJORA CONTINUA
+
+Ante el desconocimiento o la falta de experiencia para resolver, se buscará solución en el
+gestor de conocimiento, previo a consultar al coordinador o al equipo externo de apoyo al
+equipo interno.
+
+Se informará al supervisor/coordinador siempre que una operativa no estuviera documenta-
+da, actualizada o en su versión actual detectemos que perjudica el negocio o los intereses
+de nuestros clientes para que el coordinador pueda monitorizarla. También se informará al
+supervisor/coordinador sobre contenidos desactualizados que estén publicados en la web
+de Correos o en los canales de acceso público, o bien sobre posibles incidencias detectadas
+por los clientes.
+
+Una vez que se esté en condiciones de brindar una respuesta a la necesidad planteada
+por el cliente, se retomará el contacto con este para actualizar la respuesta de Correos. Si
+la respuesta proporcionada fuera errónea, se transmitirá esta eventualidad al supervisor/
+coordinador para su monitorización posterior.
+
+Si una operativa no existe o no está actualizada, hasta disponer de la misma y máxime
+en escenarios de urgencia, se propondrán soluciones alternativas para atender al cliente,
+haciendo partícipe al supervisor/coordinador de Correos.
+
+Políticas de privacidad en redes sociales
+
+1. ¿Quién es responsable del tratamiento de los datos del cliente?
+El responsable del tratamiento de datos es «Sociedad Estatal Correos y Telégrafos, S.A.,
+S.M.E>» (en adelante, «Correos»).
+Para garantizar la adecuada gestión de dicho tratamiento, Correos tiene designado un
+Delegado de Protección de Datos (DPD o DPO).
+
+2. ¿Con qué finalidad tratamos los datos personales del cliente?
+
++. Contacto y gestión de usuarios. Los datos personales de los usuarios que contac-
+tan con Correos a través de sus perfiles en redes sociales serán tratados con la
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+App: Aplicación en
+movilidad para ser
+utilizada por los
+clientes y usuarios
+de Correos.
+
+[[ página 34 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+finalidad de gestionar dicho contacto,
+atender las solicitudes y prestar los ser-
+vicios requeridos, como puede ser, por
+ejemplo, prestar servicios de atención
+al consumidor o atención de quejas o
+incidencias.
+
+* Análisis de la reputación corporativa
+de Correos. Correos puede analizar las
+publicaciones y referencias que realicen
+los distintos usuarios y que se dirijan de
+manera directa a Correos (por ejemplo,
+publicando un comentario en el perfil
+corporativo de Correos o dirigiendo un
+mensaje público o a través de las opcio-
+nes de mensajería directa o privada de
+la red social) con la finalidad de conocer la reputación de la marca y mejorar sus
+productos y servicios.
+
++ Gestión y tramitación de promociones y concursos. Los datos personales de los usua-
+rios recabados mediante la inscripción del usuario como participante en cualquiera
+de las promociones (por ejemplo, concursos, sorteos, etc.) puestas a disposición por
+Correos en sus páginas web, serán tratados con la finalidad de gestionar el desarrollo
+de la promoción de que se trate, comunicar el/los ganador/es de la promoción, hacer
+entrega del premio correspondiente al/los ganador/es , así como para gestionar el
+cumplimiento por parte de Correos de cuantas obligaciones legales y fiscales le resulten
+de aplicación en su condición de entidad organizadora de la promoción de que se trate.
+
+En todo caso, el tratamiento de datos se llevará a cabo de acuerdo con los términos
+y condiciones que se establezcan en las bases legales promocionales, que podrán
+establecer otras finalidades específicas de tratamiento en función de la mecánica pro-
+mocional. Correos pondrá a disposición en todo caso las bases legales promocionales
+que los usuarios podrán consultar con carácter previo a participar en la promoción y que
+deberán ser aceptadas por los usuarios con carácter previo a participar en la promoción.
+
+Cuando el usuario opte por registrarse en la promoción a través de las redes sociales
+en las que el usuario disponga de cuenta personal (por ejemplo, Facebook, Twitter,
+Instagram, etc.), los datos personales e información que el usuario autorice a las redes
+sociales a facilitar a Correos, mediante la marcación (clic) del correspondiente botón
+de aceptación, serán tratados por Correos para la elaboración y análisis de perfiles y
+aplicación de técnicas de segmentación con finalidades comerciales, promocionales o
+publicitarias, el cruce con la base de datos de clientes y usuarios y el enriquecimiento
+de esta, todo ello con la finalidad de optimizar e introducir mejoras en los envíos de infor-
+mación publicitaria, promocional o comercial que Correos realiza, así como para ofrecer
+al usuario información adecuada de acuerdo con sus gustos, aficiones o preferencias.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 35 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+3. ¿Qué datos son tratados por Correos y de qué fuentes proceden?
+Los datos personales que Correos trata para el desarrollo de las anteriores finalidades
+pueden provenir de las siguientes fuentes e incluir las siguientes categorías de datos
+personales:
+Datos aportados por el usuario mediante distintas acciones como:
+
++ La cumplimentación de los formularios puestos a disposición por Correos.
+
++ La cumplimentación de los espacios puestos a disposición para la participación en
+promociones gestionadas por Correos.
+
+* El envío de mensajes privados, publicaciones en el perfil social de Correos o dirigidas
+de forma directa a Correos.
+
+Datos facilitados por la red social:
+
+* Como consecuencia de la navegación y uso por parte del usuario de los perfiles en
+redes sociales de Correos.
+
+* Información pública según la definición de cada red social y que, atendiendo a la
+configuración de privacidad del usuario resulte accesible a Correos.
+
++ Aquella otra información que el usuario autorice a las redes sociales a facilitar a Co-
+rreos cuando utilice los conectores sociales de redes para registrarse o que, según
+su configuración de privacidad, resulte visible por el conjunto de usuarios de la red
+social o por Correos en particular.
+
+Datos de terceros aportados por el usuario:
+
+«e Cuando fuera necesario, a partir del «análisis de la reputación corporativa de correos»
+se procederá a eliminar de los comentarios o mensajes toda aquella información que
+permita identificar al usuario o a terceras personas.
+
+4. ¿Cuál es la legitimación legal para el tratamiento de los datos del cliente por parte de
+Correos?
+Correos trata los datos de carácter personal anteriormente identificados al amparo de
+las siguientes bases legitimadoras:
+El tratamiento de los datos del cliente para la finalidad de «contacto y gestión de usuarios»
+se basa en la gestión y tramitación de la relación jurídica entablada entre el usuario y
+Correos, es decir, en la gestión de su propia solicitud, en el mantenimiento del contacto
+entre las partes y, en su caso, en la prestación del servicio que el usuario hubiera soli-
+citado.
+
+e El tratamiento de datos personales para la finalidad de «análisis de la reputación
+corporativa de Correos» se basa en el interés legítimo de Correos para conocer la
+reputación de la marca y mejorar sus productos y servicios.
+
++ El tratamiento de los datos del cliente para la finalidad de «gestión y tramitación de
+promociones y concursos» se basa en el consentimiento del usuario.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (123
+
+[[ página 36 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Correos informa que únicamente realizará los tratamientos de datos personales para
+las finalidades de tratamiento basadas en el consentimiento del usuario en el supuesto
+de que el usuario hubiera consentido dichos tratamientos, a través de los modos de
+obtención de consentimiento puestos a disposición por Correos.
+
+5. ¿A quiénes se comunican los datos del cliente?
+
+Los datos recabados por Correos para la finalidad «gestión y tramitación de promociones
+y concursos» podrán ser comunicados por Correos a:
+
+* Notarios: para la realización de sorteos ante fedatario público.
+* Administraciones públicas para el cumplimiento de obligaciones fiscales.
+
+En relación con las restantes finalidades de tratamiento de datos detalladas en la pre-
+sente política de privacidad, Correos informa a los usuarios que tales finalidades de
+tratamiento no implican comunicaciones de sus datos por parte de Correos a terceras
+entidades.
+
+6. ¿Por cuánto tiempo conservamos los datos del cliente?
+
+Correos conservará los datos personales del cliente durante el tiempo necesario para la
+prestación del servicio solicitado o para alcanzar la finalidad de tratamiento perseguida.
+Posteriormente, siempre que el usuario no haya ejercido su derecho de supresión,
+sus datos serán conservados durante los plazos legales que en cada caso resulten de
+aplicación, teniendo en cuenta el tipo de datos, así como la finalidad del tratamiento.
+El cliente podrá solicitar más información sobre los plazos de conservación de datos
+personales de Correos en dpagrupocorreosOcorreos.com.
+
+7. ¿Cuáles son los derechos del cliente sobre sus datos personales?
+
+Correos informará al cliente que puede ejercitar sus derechos al acceso, rectificación,
+limitación del tratamiento, oposición, supresión y portabilidad a través de cualquiera de
+las siguientes vías:
+
+* Dirección postal.
+. Correo electrónico: derechos.protecciondatos.correosOcorreos.com.
+
+Correos informará al cliente que podrá presentar reclamación ante la autoridad de control
+competente en materia de protección de datos. No obstante, en primera instancia, podrá
+presentar reclamación ante el delegado de protección de datos.
+
+Políticas específicas de atención al cliente en redes sociales
+
+En el tratamiento de los contactos recibidos por redes sociales se deberá diferenciar entre
+el ámbito público y privado de los mismos, ya que su impacto no es el mismo.
+
+Los mensajes públicos pueden ser vistos o consumidos por toda la comunidad o por todos
+los usuarios que revisen el perfil de Correos; por lo tanto, se trata de comunicaciones
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 37 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+propias de la marca. La gestión de estos casos debe realizarse por un especialista res-
+ponsable de construir, administrar y gestionar la identidad y la imagen de marca, creando
+y manteniendo relaciones estables y duraderas con los clientes de Correos para mejorar
+su fidelización.
+
+El ámbito privado se utiliza para interactuar con Correos con un objetivo específico de reso-
+lución en función del motivo de contacto. Dichos motivos pueden ser: informativo, atención
+comercial, prestación de servicios, consulta y reclamación/ incidencia.
+
+Estos motivos son compartidos por el resto de los canales de atención de los que dispone
+la compañía, como pueden ser otros canales digitales (chat, web, app), el telefónico (voz),
+e-mail y carta.
+
+PERFIL PÚBLICO en redes sociales
+Se aplicarán las siguientes normas para la interacción con los usuarios:
+
+|. Se omitirán los comentarios que puedan resultar ofensivos hacia Correos.
+II. Quedará prohibida la utilización de un lenguaje y tono inadecuados.
+III. Quedará prohibida la utilización por parte del usuario/cliente de la página de Correos
+para promocionar productos y servicios ajenos a la compañía.
+IV. Se eliminarán los comentarios off-topic (sin relación con el post o temática relacionada
+a Correos) o duplicados.
+V. Quedará prohibido cualquier comportamiento que pueda ser susceptible de ser con-
+siderado de trol.
+VI. Al usuario/cliente que incumpla estos criterios, se le recordarán las políticas estable-
+cidas para una comunicación fluida.
+VII. La reiteración en el incumplimiento de las políticas establecidas podrá conllevar el
+silencio o bloqueo del usuario.
+
+1. Atodos los usuarios/clientes que contacten con Correos a través del perfil pú-
+blico, y salvo que su tratamiento y resolución no conlleve la utilización de datos
+sensibles, se los derivará al entorno privado.
+
+2. En el caso de un contacto público y privado por parte del usuario/cliente, se rea-
+lizará la gestión en el entorno privado.
+
+3. Los comentarios recibidos desde organizaciones políticas o sindicales, o que
+afecten a personalidades de la organización de Correos, serán derivados al Comité
+para su conocimiento y valoración.
+
+4. Los clientes/usuarios, que puedan ser considerados sensibles (periodistas, acto-
+res, políticos, influencers, etc.) serán gestionados por el equipo interno, llegando
+incluso a escalarse al Comité (formado por Comunicación + Agencia + Atención
+al Cliente.
+
+5. Todos los hilos que traten temas sensibles que puedan afectar a la reputación de
+la marca serán gestionados por el equipo interno, llegando incluso a escalarse al
+Comité (formado por Comunicación + Agencia + Atención al Cliente).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 38 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+RRSS: Redes
+sociales
+(Facebook, Twitter,
+Instagram...).
+
+6. El equipo comercial, de marketing o marca proporcionará los contenidos infor-
+mativos sobre campañas estacionales o de interés general para informar a la
+Comunidad de forma proactiva.
+
+7. Se identificarán perfiles fraudulentos o mensajes que puedan considerarse ¡legí-
+timos, para valorar las medidas a tomar: silenciar, bloquear o denunciar.
+
+8. Existirá un argumentario de comentarios públicos con el que el equipo comercial,
+de marketing y marca definirá al Gestor de RRSS los tratamientos a contestar,
+por escrito, para todas y cada una de las tipologías históricas de los diferentes
+comentarios detectados.
+
+4. El argumentario será validado con una periodicidad mensual, e incluirá la fecha
+desde que por primera vez sea incluido proactivamente por Correos o sea detec-
+tado reactivamente por el Gestor de RRSS.
+
+10. No se atenderá en idiomas diferentes al castellano y las lenguas vernáculas
+cooficiales.
+
+PERFIL PRIVADO en redes sociales
+
+1.
+
+10.
+
+11.
+
+El horario de atención general establecido es de lunes a viernes de 49:00 a 18:00 h,
+excepto en días festivos nacionales.
+
+Los usuarios/clientes que contacten por privado fuera del horario de atención recibirán
+un mensaje automático para informarles el horario de atención.
+
+Se incluirán herramientas que permitan un tratamiento automatizado de gestión y en-
+rutado para poder priorizar la gestión.
+
+Los contactos que se reciban fuera del horario de atención establecido no se acumula-
+rán para su posterior tratamiento, lo que será comunicado al usuario/ cliente.
+
+Se dará prioridad a las gestiones de los mensajes en función de los criterios esta-
+blecidos por el Servicio de Atención al Cliente y por su fecha de recepción, con un
+objetivo general de respuesta inferior a 1 hora desde que el cliente haya iniciado el
+contacto, aunque el plazo concreto dependerá de la carga de trabajo y del resto de
+prioridades.
+
+Los clientes con perfiles «sensibles» serán tratado por el Comité para evaluación y
+determinación de las respuestas.
+
+No se facilitará información a terceros que pueda considerarse sensible (información
+que no sea de consumo público).
+
+Todas las tareas relacionadas con el contacto se resolverán en el propio canal, salvo
+las determinadas por las operativas que tienen que ser resueltas por otros equipos de
+negocio o que conlleven algún tipo de compensación económica.
+
+Existirá la posibilidad de conocer la valoración del tratamiento y gestión del caso a
+través de encuestas de satisfacción.
+
+En función de las políticas de atención, prioridades establecidas o incidencias, podrían
+no atenderse los contactos, en cuyo caso se informará al cliente/usuario.
+
+No se atenderá en idiomas diferentes al castellano y las lenguas vernáculas coofi-
+ciales.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 39 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+10.2.4. KPI y principales objetivos
+
+A continuación se describen con detalle los diferentes indicadores de seguimiento servicio y
+de negocio, que permitirán evaluar la calidad del servicio y el seguimiento del mismo dentro
+del Servicio de Atención al Cliente.
+
+Estos indicadores han de ser:
+
+. Específicos: claramente identificados.
+
+Medibles: que se pueda identificar un método para medirlos.
+
+Alcanzables: que se puedan lograr con los recursos disponibles.
+
++ Objetivos: no puede entrar ninguna apreciación subjetiva.
+
+. Realistas/relevantes: que sea posible su consecución.
+
+Acotados en el tiempo: se establecen periodos temporales razonables para su consecución.
+
+Establecimiento de los indicadores
+
+Los indicadores son establecidos partiendo del estándar o plan de calidad general del Ser-
+vicio de Atención al Cliente. Cada uno de los puntos se evalúa mediante la consecución de
+unos datos objetivos siendo su consecución valorada en porcentualmente.
+
+Todos los valores objetivos asignados a los indicadores son susceptibles de ser modificados
+por varias razones, como:
+
+* Inadecuada medición de esfuerzo-objetivo.
++. Nueva alineación a objetivos de negocio.
+
++ Nuevas oportunidades.
+
+. Reiterados incumplimientos.
+
+Tras la medición de los indicadores se han de identificar las causas de la consecución o no
+consecución y plantear medidas o planes de acción de cara a mejorar, mantener o corregir
+las desviaciones. Estas medidas o planes han de acotarse en el tiempo y llevar un segui-
+miento adicional. Los análisis de los resultados de los indicadores nos permiten:
+
+. Identificar oportunidades de mejora.
+
++ Ayudar a establecer objetivos de realización más realistas.
+
+* Sensibilizar sobre la necesidad de mejorar continuamente los procesos.
+
+* Siempre se han de cuantificar de una manera objetiva tanto los problemas como los
+progresos realizados.
+
+Cómo se han de plantear los indicadores:
+
++ Nombre del indicador.
++ Objetivo del indicador: incluye la descripción de lo que se quiere medir y el valor objetivo
+que se desea alcanzar.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+KPI (Key
+Performance
+Indicator): Indicador
+clave, que mide
+el desempeño o
+rendimiento en
+
+el marco de un
+proceso. Está
+directamente
+relacionado con
+el objetivo que
+previamente se
+haya fijado a ese
+proceso, y suele
+expresarse como
+valor porcentual.
+
+[[ página 40 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+TMO (tiempo medio
+de operación):
+Tiempo dedicado
+por un agente a
+resolver un contacto
+o gestión, incluido
+su tiempo de
+conversación o
+resolución y ACW.
+
+Glosario
+
+ACW (After Call
+Work): Tiempo
+posterior a
+
+la atención o
+resolución de un
+contacto o gestión
+que necesita un
+agente para codificar
+O realizar tareas
+no incluidas en la
+propia gestión.
+
+Glosario
+
+ACD (Automatic Call
+Distributor): Sistema
+que distribuye
+
+las llamadas
+entrantes a un
+
+grupo determinado
+de terminales que
+utilizan los agentes.
+permite un número
+ilimitado de colas
+
+y agentes. A
+menudo se combina
+este sistema con
+una solución de
+integración de la
+telefonía con el CRM
+(CTI).
+
++ Fórmula de cálculo o método de obtención de los datos.
+
+. Periodicidad de la medición.
+
++ Ámbito de la medición: departamento o áreas a los que aplica.
+
++ Responsable del cálculo y seguimiento: persona encargada de realizar las mediciones
+de ese indicador.
+
++ Responsable de evolución o de proceso: persona encargada de detectar las desviaciones
+respecto del objetivo marcado y analizar las causas.
+
+KPI servicio
+Indicadores operativos: nivel de atención y gestión del servicio
+
+Nivel de Atención (NdA): porcentaje de llamadas que termina siendo atendido en persona
+por un agente, con un TMO (tiempo medio de operación) o proactividad mínima del agente
+en atenderla, sobre todas las llamadas entrantes que por el horario y la parametrización
+definida en el IVR deberían haber entrado en la cola de ACD (Automatic Call Distributor).
+Tiene que atenderse el 40% del total llamadas entrantes.
+
+Nivel de Servicio (NdS): porcentaje de llamadas que termina siendo atendido en persona
+por un agente, con un TMO o proactividad mínima del agente en atenderla, y antes de que
+el llamante hubiera esperado más de 25 segundos desde que entró al ACD, sea tanto a
+la cola del ACD directamente como a una locución de bienvenida al ACD, sobre todas las
+llamadas entrantes que por el horario y la parametrización definida en el IVR deberían haber
+entrado en la cola de ACD.
+
+Resolución en primer contacto (FCR): porcentaje de los contactos entrantes que, tras ser
+correctamente atendido por el agente, no necesita que el usuario/cliente realice un nuevo
+contacto entrante en los siguientes 3 días hábiles (de lunes a viernes, no festivos naciona-
+les) por el mismo motivo.
+
+Indisponibilidad de las comunicaciones voz: número de horas en las que cualquiera de los
+elementos IVR (Interactive Voice Response)-CTI (Computer Telephony Integration) ACD no
+están operativos o con limitaciones de funcionalidad, lo que impide la correcta gestión de
+los contactos de voz entrante según está especificado, o de las campañas de salida TIMK
+(telemarketing).
+
+Nivel de resolución: porcentaje de contactos no voz y resto de tareas, que son atendidos y
+correctamente resueltos, sin necesidad de reapertura posterior, en el mismo día hábil en el
+que son puestos a disposición, sobre el total diario presentado y pendiente.
+
+Productividad no Voz: volumen de tareas que son atendidas y correctamente resueltas,
+sin necesidad de reapertura posterior, por hora de trabajo efectiva «logada» de los agentes
+que las atienden.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 41 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Contacto útil TIVIK: llamadas de voz útiles desde un punto de vista comercial que realiza
+un agente a un potencial cliente o usuario del Servicio de Atención al Cliente, dentro de
+campañas TMK definidas o por leads de venta cruzada desde llamadas de voz entrantes.
+
+Generación campañas TMK: campañas correctamente generadas según los argumentarios
+e instrucciones, para poder ser emitidas según se definieron.
+
+Contrato generado por TMK: contratos nuevos correctamente generados, con potenciales
+clientes, por la red comercial a partir de contactos y visitas útiles que realiza un agente a
+un potencial cliente, dentro de campañas TMK definidas o por leads de venta cruzada desde
+llamadas de voz entrantes.
+
+Visita generada por TMK: visitas correctamente generadas a la red comercial apoyadas en
+llamadas de voz útiles que realiza un agente a un potencial cliente o usuario del servicio de
+atención al cliente, dentro de campañas TMK definidas o por leads de venta cruzada desde
+llamadas de voz entrantes. Afecta a Contact Center.
+
+Disponibilidad de grabaciones: porcentaje de grabaciones disponibles sobre los contactos
+útiles de los agentes en las campañas TMK.
+
+Resultado de agente: porcentaje de éxito de los agentes en las campañas sobre la media
+del resto de compañeros.
+
+Los KPI de negocio están relacionados con procesos internos como los relacionados con el
+SCorreos (Sistema de Gestión de la Calidad). Así, por ejemplo, se fijan de cara a las audi-
+torías de Certificación y Recertificación ISO 9001 una serie de KPl a cumplir.
+
+Es importante que acceda a la web conecta para leer los Objetivos ISO 9001 de Atención
+al Cliente.
+
+Indicadores de calidad
+
+Número de monitorizaciones por agente: es el número de monitorizaciones realizadas a
+cada agente en el periodo de un mes.
+
+Nota media de monitorizaciones: es la nota media extraída de la plantilla de calidad emitida
+acumulada por agente en un mes.
+
+Acumulado y análisis de atributos e ftems de todos los servicios: es el volumen de puntos de
+entrenamiento asociados a cada atributo e ítems extraídos de la plantilla de calidad emitida.
+
+Dispersión de calidad emitida por agente: es la representación de los agentes que indican lo
+concentrados o separados que están los datos de calidad emitida entre sí y respecto a la media.
+
+Dispersión de TMO por agente: es la representación de los agentes que indican lo concen-
+trados o separados que están los datos de su tiempo medio de respuesta en canal voz o
+gestión entre sí y respecto a la media.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+CTI (Computer
+Telephony
+Integration): Función
+que permite que
+
+los ordenadores
+interaccionen con
+los sistemas de
+telefonía.
+
+Glosario
+
+TMK: Telemarketing
+o televenta en
+campañas salientes.
+
+Glosario
+
+Lead: En marketing,
+alude a un usuario
+que ha facilitado sus
+datos personales
+
+a una empresa
+pasando a ser
+
+un registro de su
+base de datos. En
+síntesis, un lead
+puede convertirse
+en cliente
+
+potencial, es decir,
+en una persona
+
+u organización
+interesada en lo que
+esa empresa le está
+ofreciendo.
+
+[[ página 42 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Dispersión de % transferencia voz por agente: es la representación de los agentes que
+indican lo concentrados o separados que están los datos de las llamadas que atienden y
+son transferidas a un compañero o departamento entre sí y respecto a la media.
+
+Dispersión de % de reclamaciones abiertas: es la representación de los agentes que indican
+lo concentrados o separados que están los datos de las reclamaciones abiertas en canal
+voz en 24 h entre sí y respecto a la media.
+
+Nota de ISC Agente: es la nota obtenida de las encuestas de satisfacción asociada a agente.
+
+Nota de ISC Servicio: es la nota obtenida de las encuestas de satisfacción asociada al
+servicio.
+
+Nota de ISC Tipología: es la nota obtenida de las encuestas de satisfacción asociada a las
+distintas tipologías.
+
+Número de encuestas Agente: es el número de encuestas recibidas por agente en la mues-
+tra temporal que corresponda (diaria, semanal o mensual).
+
+Número de encuestas Servicio: es el número de encuestas recibidas por servicio en la
+muestra temporal que corresponda (diaria, semanal o mensual).
+
+Número de encuestas Tipología: es el número de encuestas recibidas por las distintas
+tipologías en la muestra temporal que corresponda (diaria, semanal o mensual).
+
+Número de encuestas por pregunta: es el número de encuestas recibidas por las distintas
+preguntas en canal voz.
+
+Comparativa de calidad emitida y calidad percibida: es la comparativa mensual entre los
+datos acumulados totales de la calidad emitida vs. la calidad percibida por el servicio de
+atención.
+
+Dato en % de FCR por agente: es el porcentaje de rellamada en canal voz y reaperturas en
+canal escrito que tiene un agente en 72 h.
+
+Dato en % de FCR por tipología: es el porcentaje de rellamada en canal voz y reaperturas
+en canal escrito que tiene cada tipología de gestión.
+
+Dato comparativo de indicadores de calidad respecto a indicadores operativos: es la
+comparativa realizada entre los distintos indicadores de calidad y los de operación a nivel
+agente, tipológico y de servicio.
+
+10.2.5. Procesos
+
+En Correos, unas de las herramientas más importantes con las que se cuenta para poder
+mejorar el servicio son las reclamaciones, incidencias y consultas de nuestros clientes.
+Deberán ser atendidas con eficacia para poder ayudar a los clientes a solucionar el objeto
+de su solicitud o queja, y prevenir otros inconvenientes en el futuro.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 43 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Incidencia: un cliente se pone en contacto con Correos para informar de un problema en el
+servicio o en algún producto que debe solucionarse.
+
+Reclamación: un cliente se pone en contacto con Correos para dejar constancia de su insa-
+tisfacción con alguno de los servicios o productos.
+
+Consulta: una persona solicita información sobre algún producto o servicio ofrecido por Correos.
+Los canales para atender a los clientes son:
+
+1. Web de Correos: disponible las 24 horas. Horario de atención, de lunes a viernes no
+festivos: de 8 a 20 horas. Sábados: de 4 a 13 horas.
+
+2. Teléfono: horario de atención de lunes a viernes no festivos: de 8 a 20 horas. Sábados:
+de 4 a 13 horas.
+
+3. Redes sociales:
+
++ Facebook: disponible 24 horas. Horario de atención de lunes a viernes no festivos:
+de 4 a 20 horas.
+
++ Twitter: disponible 24 horas. Horario de atención de lunes a viernes no festivos: de
+4 a 20 horas.
+
+4. Oficinas: consultar el horario de oficinas.
+5. Correo postal: disponible 24 horas. Horario de atención de lunes a viernes no festivos:
+de 4 a 20 horas.
+
+En cuanto a los plazos de respuesta, se establecen los siguientes:
+Incidencias, reclamaciones envíos nacionales
+
+e Plazo máximo de respuesta: 1 mes.
+e Plazo medio orientativo: 10 días.
+
+Incidencias, reclamaciones envíos internacionales
+
+e Plazo máximo de respuesta: 2 meses (según país y normativa UPU).
+e Plazo medio orientativo: 20 días.
+
+Incidencias, reclamaciones de servicios de Correos a
+
+e Plazo máximo de respuesta: 1 mes.
+
+—_
++ Plazo medio orientativo: 10 días. A
+
+Consultas por la web
+
+e Plazo máximo de respuesta: 20 días.
+* Plazo medio orientativo: 1 día.
+
+Consultas por RRSS
+
+e Plazo máximo de respuesta: 20 días. v Mu
+* Plazo medio orientativo: 1 día.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. k120
+
+[[ página 44 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Plazos de indemnización
+
+e Plazo máximo: 1 mes desde la resolución de la incidencia/reclamación.
+* Plazo medio orientativo: 1 semana, según los plazos de indemnización en el ejercicio
+2021.
+
+El proceso del tratamiento de una reclamación o incidencia es el siguiente:
+
+1. Alta. Cuando una persona dé el alta de una reclamación o incidencia, Correos generará
+un número de registro para el seguimiento de la solicitud por todas las partes.
+
+2. Abierta/Asignada. Una vez registrada la incidencia o reclamación, la solicitud pasará a
+estar en estado «abierta» mientras es asignada a la persona encargada de dar solución
+a la solicitud.
+
+3. Investigación y análisis. Se recogen todos los datos y se analizan las causas y circuns-
+tancias de la incidencia o reclamación. Además, se estudia el motivo y origen de la misma
+para determinar su estimación o desestimación.
+
+4. Resolución. Se resuelve la solicitud enviada por el cliente en su incidencia o reclamación
+una vez se ha aclarado lo que ha sucedido. Gracias a la anterior se detallará la toma de
+decisiones al respecto.
+
+5. Cierre. El cliente recibirá una explicación sobre las razones por las que se ha tomado
+una decisión positiva o negativa. En caso negativo, se explicará el motivo o motivos por
+los que se desestima la incidencia o reclamación.
+
+6. Si la resolución es negativa, se informará al cliente y se le dará una explicación adecuada
+de por qué su reclamación o incidencia se ha desestimado. Si la resolución es positiva,
+se hará lo necesario para dar solución al problema del cliente.
+
+7. En función de la decisión tomada durante la resolución, y teniendo en cuenta el producto
+o servicio afectado, el cliente podrá recibir una indemnización o compensación.
+
+El proceso del tratamiento de una consulta será el siguiente:
+
+1. Alta. Cuando una persona realiza una consulta, esta queda registrada con un ID.
+
+2. Investigación y análisis. Se recopilan los datos necesarios para resolver la consulta.
+Con los datos recopilados, se analiza lo cuestionado por el cliente y se le ofrece la mejor
+respuesta.
+
+3. Respuesta. Se le da respuesta al cliente a lo planteado en su consulta.
+
+10.2.6. Calidad
+Plan de calidad
+El plan de calidad de Atención al Cliente es un documento que detalla cómo deberá ser el
+
+procedimiento para garantizar la calidad de los proyectos, productos o procesos. Este
+plan dará respuesta a:
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 45 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+1. Qué acciones se llevarán a cabo.
+2. Qué recursos serán necesarios.
+3. Quiénes serán los encargados de aplicar el plan en cada momento.
+
+El plan abordará lo correspondiente a:
+
+. La certificación ISO 9001:2015 para el seguimiento de la calidad corporativa.
++ La calidad del Servicio de Atención al Cliente.
+
+La creación del plan se trabaja en el Comité de Seguimiento de la Calidad a Nivel Corpo-
+rativo y la Calidad de Servicio ATC. Este órgano lo conformarán personas con responsabi-
+lidades de seguimiento y evaluación de la calidad, así como otras con responsabilidades
+en las diferentes áreas de Atención al Cliente.
+
+Desde el punto de vista de Atención al Cliente, se pueden destacar varios aspectos cruciales
+en su trabajo de análisis:
+
+1. Calidad emitida: hace referencia a las auditorias de calidad, ya sean a nivel interno o en
+los proveedores externos. Se revisan volúmenes, notas, acumulados y comparativas con
+meses anteriores. También se estudiarán las auditorías creadas por auditores externos.
+Calidad percibida: hace referencia al índice de satisfacción (ISC) que muestran los
+clientes en las respuestas a las encuestas de satisfacción que se les envía tras cada
+
+N
+
+interacción. Se comparan con las de meses anteriores.
+
+Ed
+
+Seguimiento de informes de auditoría: revisiones de los informes de auditorías internas
+y externas en los que se detallan puntos de mejora, observaciones y posibles discon-
+formidades.
+
+4. Procesos críticos o cambios de procesos que impacten en los KPI de la calidad.
+Ejemplos ilustrativos de desviaciones: siempre se expondrán uno o dos ejemplos ¡lus-
+trativos de desviaciones en el trabajo de Correos que no cumplen con los estándares
+establecidos por el Servicio de Atención al Cliente. Estos ejemplos se tomarán de las
+diferentes auditorías que se realizan a lo largo del año.
+
+a
+
+o
+
+Ejemplos ilustrativos de buenas prácticas: también se expondrán ejemplos ilustrativos
+de casos bien solucionados y gestionados, como referencia de buena gestión.
+
+Propuestas in € out: tras la labor de auditoría, y el análisis de los procesos y posi-
+bles planes de acción, se proponen cambios en algunos procesos/procedimientos/
+operativas establecidos. Se expondrán los riesgos de la no actuación, y plazos de
+reconducción para determinar su viabilidad y puesta en marcha. Las «propuestas In»,
+es decir, propuestas en procesos internos, afectan a todo lo relativo a la atención al
+cliente. Si son propuestas de cambios que corresponden a áreas fuera del Servicio de
+
+N
+
+Atención al Cliente, estas se identificarán como «propuestas Out». Esta información y
+su seguimiento es un aspecto relevante en el seguimiento del SGC (Sistema de Gestión
+de la Calidad) corporativo.
+
+8. Otros: análisis de distintos puntos de relevancia que, sin ser objetivos de negocio, son
+palancas para la obtención de un nivel óptimo de calidad.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [137
+
+[[ página 46 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+IPRMI: Indicador
+Público de Renta de
+Efectos Múltiples.
+
+10.2.7. Normativa habitual aplicada en atención al cliente
+
+Toda la normativa y artículos que se detallan aquí podrán servir para informar a los clientes
+y usuarios en casos concretos, así como para asegurar la observación y cumplimiento de los
+mismos. Cabe advertir que, en mayor o menor medida, estos artículos serán de aplicación
+en algún momento de la gestión diaria en Correos.
+
+Normativa nacional
+
+A continuación se indican las leyes y artículos de las mismas que aluden a los aspectos
+relacionados con la atención al cliente, en el ámbito que nos ocupa. Los textos de cada
+Ley pueden verse sujetos a modificaciones y actualizaciones, por lo que se recomienda
+visitar el enlace a su publicación en el BOE que se indica para conocer el detalle de su
+redacción.
+
+Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías.
+Se quieren destacar los siguientes artículos:
++ Artículo 36. Impedimentos a la entrega.
+
+* Son asimismo relevantes los artículos del 52 al 61, y en particular el Artículo 57. Límites
+de la indemnización.
+
+Respecto al Indicador Público de Renta de Efectos Múltiples (IPRM), aparece en las
+siguientes leyes sucesivas de Presupuestos Generales del Estado.
+
++ En la Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para el
+año 2015, se fija dicha cuantía del IPRM en 17,75 €. De la que un tercio es 5, 4166666
+es decir, 5,42 €/kg + tarifa según el punto 2.
+
+* En la Ley 48/2015, de 24 de octubre, de Presupuestos Generales del Estado para el
+año 2016, se fija dicha cuantía del IPRM en 17,75 €.
+De la que un tercio es 5,4166666 es decir, 5,92 €/kg +
+tarifa según el punto 2.
+
++ En la Ley 11/2020, de 30 de diciembre, de Presu-
+puestos Generales del Estado para el año 2021, se
+fija dicha cuantía del IPRM en 18,83 €. De la que un
+tercio es 6,2766666 es decir, 6,28 €/kg + tarifa se-
+gún el punto 2.
+
++ En la Ley 22/2021, de 28 de diciembre, de Presu-
+puestos Generales del Estado para el año 2022, se
+fija dicha cuantía del IPRM en 149,30 €. De la que un
+tercio es 6,433333 es decir, 6,43 €/kg + tarifa según
+el punto 2.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 47 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Ley 43/2010, de 30 de diciembre, del servicio postal universal, de los Derechos de los
+Usuarios y del Mercado Postal. Destacan los siguientes artículos y puntos específicos.
+
++ Artículo 3. Definiciones, a resaltar las siguientes:
+
+Usuario: la persona natural o jurídica o ente sin personalidad beneficiaria de la presta-
+ción de un servicio postal como remitente o como destinatario y titular de los derechos
+a que se refiere el Título Il de esta ley.
+
+Dirección postal: la identificación de los remitentes o de los destinatarios por su
+nombre y apellidos, si son personas naturales, o por su denominación o razón social
+si se trata de personas jurídicas o entidades sin personalidad, así como las señas
+de un domicilio, que contendrá el nombre de la vía y el número de la finca, así como
+el número de piso y la letra, si los hubiera, o los datos que se establezcan para la
+entrega de los envíos en las oficinas de la red postal.
+
+Remitente: la persona física, jurídica o entidad sin personalidad de quien proceden
+los envíos postales.
+
++ Artículo 5. Secreto de las comunicaciones postales.
+
++ Artículo 10. Derecho de reclamación, a resaltar su punto 3, que se utilizará en las con-
+testaciones al cliente.
+
++ Artículo 24. Condiciones de distribución y entrega de los envíos postales.
+
+Por su relación con los puestos operativos de reparto, clasificación y atención al cliente
+en el marco de Correos, merece especial atención el Real Decreto 1829/1499, de 3 de
+diciembre, en el que se aprueba el reglamento por el que se regula la prestación de los
+servicios postales, en desarrollo de lo establecido en la Ley 24/1498, de 13 de julio, del
+servicio postal universal y de liberalización de los servicios postales. En relación con este
+RD, destacan los artículos siguientes.
+
++ Artículo 3. Definición de remitente y dirección a efectos postales.
++ Artículo 4. Concepto de usuario de los servicios postales.
+
+Se recomienda a demás conocer los artículos siguientes (consúltese el texto del RD en
+https://www.boe.es/buscar/act.php?id=BOE-A-19949-24919):
+
++ Artículo 5. Garantías fundamentales de los usuarios de los servicios postales.
++ Artículo 6. Secreto de los envíos postales y protección de datos.
+
++ Artículo 7. Inviolabilidad de los envíos postales.
+
+Artículo 8. Propiedad de los envíos postales.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 48 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
++ Artículo 9. Derecho de recuperación de envíos y modificación de dirección postal por
+el remitente.
+
++ Artículo 10. Derechos del usuario.
++ Artículo 11. Derechos del destinatario de los envíos postales.
++ Artículo 12. Intervención de los envíos postales.
+
++ Artículos 15 y 16. Concepto y enumeración de Objetos prohibidos como envíos
+postales.
+
++ Artículo 18. Comprobación del contenido de los envíos.
+
++ Artículo 24. Imposibilidad de entrega de los envíos postales.
+
++ Artículo 25. Depósito y destrucción de los envíos postales.
+
++ Artículo 30. Depósito en buzones.
+
++ Artículo 32. Entrega de los envíos postales. Normas generales.
+
++ Artículo 33. Entrega de envíos postales a domicilio.
+
++ Artículo 34. Entrega de envíos postales mediante depósito en casilleros domiciliarios.
++ Artículo 35. Entrega de envíos postales en apartados.
+
++ Artículo 36. Entrega de envíos postales en oficina.
+
++ Artículo 37. Entrega de envíos postales en entornos especiales o cuando concurran
+circunstancias o condiciones excepcionales.
+
++ Artículo 38. Entregas especiales de envíos postales.
+
+Por último, en lo que se refiere a la admisión y entrega de notificaciones de órganos admi-
+nistrativos y judiciales, se destacan los artículos relativos al cumplimiento de las leyes de
+procedimiento administrativo (Artículos 41 y 44).
+
+Normativa internacional
+
+Como normativa internacional se seguirá la normativa de la Unión Postal Universal
+(UPU).
+
+Esta tabla resumen contiene los artículos principales que más suele utilizar Correos en
+reclamaciones con los Operadores Internacionales, bien en importación o exportación, para
+la amplia mayoría de productos. Recoge los motivos más comunes, junto con su número
+de artículo y el encabezado del mismo.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 49 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+ARTÍCULO UPU 3131 K0 0] 3
+MOTIVO REGLAMENTO PRODUCTO
+Respuesta recibida no concluyente > 2
+meses. Envío extraviado pero país no Art. 21-002.2.4 - No conclusive : . :
+Ñ : 0 Ejemplo: Register
+quiere asumir responsabilidad. Se le reply.
+carga en cuentas internacionales.
+- : - PO Art. 17-139,1 € 9 - Verification
+Envío extraviado con Boletín Verificación - : -
+: - : notes (CN43) shall be issued at | Ejemplo: Paquetería
+en destino. Envío no localizado. pr
+the latest within a month.
+BV no recibido en nuestra OC Barajas. Art. 25004.1 / Art. 19-204.6 - | -
+- : The VN's shall be sent out to the | Ejemplo: Paquetería
+Envío no localizado. Se carga en cuentas. - 7
+office of exchange of origin.
+Respuesta recibida. Envío no entregado,
+ni devuelto, ni BV (responsable operador | Art. 25-004.1 - Item neither
+de despacho de destino). Envío no delivered nor returned and no Ejemplo: Paquetería
+localizado. Se carga en cuentas verification note reported.
+internacionales al país.
+Sin respuesta (> 2 meses). Envío
+no localizado y se carga en cuentas Art. 21-002.2.5 - No reply. Ejemplo: Paquetería
+internacionales al país.
+Sin respuesta y plazo agotado para
+indemnizar (> 3 meses). Envío no Art. 21-002.2.5 € 25-002 - No . : o
+Ejemplo: Paquetería
+
+localizado y se carga al país en cuentas
+internacionales
+
+reply and expired deadline.
+
+10.2.8. Atención al cliente y protocolos de venta en marketing
+
+En la actualidad, existen seis puntos de entrada de oportunidades comerciales en Correos.
+
+Cada punto cuenta con su protocolo.
+
+1. Atención al cliente:
+
++ Las llamadas de los clientes. Si se detectase una necesidad comercial, dichas llamadas
+serán redirigidas al área de Telemarketing. Esta área las cualificará y les asignará una
+campaña de Correos y un/a gestor/a o agente telefónico. Estos serán los encargados
+
+de emitir unos argumentarios preparados para cada campaña de emisión.
+
++ Redes Sociales (Twitter y Facebook). Se revisarán los comentarios y mensajes registra-
+dos en las redes y se capturarán todas las necesidades de los clientes. Si se detectase
+una necesidad comercial, se procederá como en el caso anterior.
+
++ Web. Se revisarán los comentarios registrados en las consultas web y se capturarán
+las necesidades comerciales que tienen los clientes. Cualquier necesidad comercial
+
+se gestionará como en los dos casos anteriores.
+
+2. Atención personalizada. Cuenta con un número de teléfono específico para atender a
+los clientes. Se recogerán las incidencias y necesidades de los clientes, se gestionarán
+
+y se transmitirán al experto.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 50 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+Customer
+intelligence
+
+(CI): Proceso de
+recopilar y analizar
+información sobre
+los clientes para
+comprenderlos a
+nivel personal.
+
+3. Red de oficinas. Las entradas de leads se recogerán
+en la Ficha Cliente, que luego se remitirá al jefe de
+sector en CRM. Existe una campaña para generar ci-
+tas de clientes desde las oficinas con sus directores
+o con asesores comerciales.
+
+4. Buzones departamentales. Serán proporcionados a
+los clientes por parte de las áreas, como parte de las
+distintas campañas que hayan creado.
+
+5. Sites corporativos. Captación de leads interesados
+
+en los distintos servicios que se ofrecen en Correos.
+
+Se generan a través de formularios de captura de in-
+
+formación, suscripciones de usuarios, suscripciones
+
+a newsletters, etc.
+
+Red de ventas. Captaciones y contactos comerciales
+
+a través de citas generadas por Atención al Cliente.
+
+o
+
+Tras evaluar el potencial del prospecto (cliente potencial) generado a través de cualquiera
+de los seis puntos de entrada, se realizará una primera gestión telefónica. Esta contará
+con un triple objetivo:
+
+1. Filtrado de leads, a modo de segundo filtro, que asegurará que el lead se trata de una
+oportunidad comercial.
+
+2. Incorporación de información. Se añadirá información relevante para la acción comercial
+concreta (o para posteriores acciones comerciales), así como datos que permitan incre-
+mentar el nivel de contacto (e-mail).
+
+3. Canalización comercial. En función del potencial del cliente o de su necesidad (produc-
+tos/servicios), se canalizará el lead al canal comercial más adecuado.
+
+En función de su procedencia, se han definido diferentes criterios para la asignación de
+prospectos (clientes potenciales) a un canal de venta.
+
+En el caso de los prospectos identificados por customer intelligence, no será el cliente
+el que haya manifestado interés en los servicios de Correos. Los prospectos se habrán
+identificado en función de ciertos indicadores de potencial sin haber contactado de forma
+reciente con ellos. Así:
+
+1. Si el lead no está creado en CRM, será asignado al equipo de Telemarketing. Si el cliente
+muestra interés y tiene el potencial suficiente, se canalizará a través de la figura del comercial.
+
+2. Si el lead está creado en CRM, habrá dos opciones: que exista actividad comercial con
+el prospecto en el último año, en cuyo caso no se realizarán actividades de captación;
+o que no haya habido actividad comercial, caso en el que el prospecto será asignado a
+Telemarketing. Si muestra interés y cuenta con potencial, se canalizará a la figura del
+comercial; si no, se reasignará al canal de oficinas. Si el cliente es de la Red de ventas,
+se le asignará a dicha red.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 51 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+En este supuesto de leads procedentes de campañas de marketing, los prospectos se
+habrán interesado en las condiciones de una campaña, o habrán facilitado sus datos a
+través de una página web, banner o una feria. Esperan ser contactados.
+
+1. Si el lead es un cliente de la Red de ventas, se le crea una actividad al comercial corres-
+pondiente de la Red de Ventas.
+
+2. Si el lead no es cliente de la Red de ventas, se asignará a Telemarketing. Si muestra
+interés y tiene el potencial suficiente, se canalizará a través del comercial.
+
+El telemarketing es un servicio de emisión de llamadas creado con el objetivo de aumentar
+la captación de nuevos clientes en Correos. Cuando se reciba una llamada de un cliente
+potencial que solicita información sobre productos y servicios, también será telemarketing
+la que facilitará toda la información.
+
+Para cada llamada, el agente de telemarketing contará con un argumentario definido en la
+aplicación Script:
+
+1. Si se trata de un cliente de campaña, el argumentario dependerá de la acción de la campaña.
+2. Si no es un cliente de campaña, el argumentario variará dependiendo del tipo de cliente
+y los requisitos del CRM.
+
+El trabajo del agente de telemarketing es:
+
+1. Redirigir los leads hacia el canal de venta adecuado.
+
+. Si así se determina, cerrar contratos por teléfono de los productos de cada promoción.
+
+3. Si se recibe una llamada de un cliente con contrato que solicita nuevos servicios, enviarle
+un e-mail al área de Atención Personalizada donde se indica que el cliente desea la visita
+
+N
+
+de su comercial.
+4. Colaborar con el resto de áreas de negocio y canales para la captación de clientes, ge-
+neración de leads, etc.
+
+Realizada la acción de Telemarketing, los prospectos que requieran ser trabajados se pon-
+drán a disposición de la Red de ventas. Para ello, se les asignarán en CRM a los gestores
+comerciales correspondientes. Estos deberán localizar y reportar estas actividades en CRM,
+de modo que se le pueda hacer un seguimiento.
+
+Además, antes de finalizar la llamada, se le solicitará el e-mail y autorización de su uso al
+cliente, siempre en caso de que le interese. Por último, se reflejará el resultado de la llamada.
+
+10.3. Atención al cliente y protocolos de venta
+en oficinas
+
+10.3.1. Atención al cliente
+
+El empleado representa la imagen de Correos en las oficinas. La atención que reciban los
+clientes será muy importante para lograr su satisfacción.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+6
+
+[[ página 52 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+OMIC: Oficina
+Municipal de
+Información al
+Consumidor.
+
+Sin duda, con actitud positiva, será posible marcar la diferencia. Siempre habrá que priori-
+zar la atención al cliente sobre el resto de las tareas de la oficina, aunque solo hubiera un
+cliente esperando.
+
+Tareas previas a la apertura de la oficina
+
+Todos los días, antes de que los clientes accedan a la oficina, habrá que comprobar que el
+vestíbulo esté en perfecto estado. Convendrá repasar el estado de conservación y limpieza
+del local, de las instalaciones y del mobiliario. También habrá que comprobar el estado de
+la cartelería expuesta y las existencias de los folletos informativos.
+
+Si la oficina tuviera gestor de turnos, habrá que comprobar la carga de rollo de papel y la
+configuración de los puestos y servicios según las necesidades.
+
+En todas las oficinas habrá que exponer en el vestíbulo, en un lugar visible para el cliente, el
+cartel corporativo adhesivo de «Hay hojas de reclamaciones OMIC a disposición del cliente»
+y el de «Consulta nuestras tarifas».
+
+Recepción del cliente
+Cada persona es única, y cada cliente merece un trato personalizado.
+Siempre habrá que desplegar los comportamientos elementales de cortesía:
+
+* Saludar siempre al cliente: «Buenos días/tardes».
+
+* Preguntar: «¿En qué puedo atenderlo?».
+
+*. Siempre es necesario hablar con el cliente, sin excepción, por más acostumbrado que se
+esté a prestar el servicio.
+
++ Nunca se abandonará la ventanilla dejando al cliente sin atender. Si por razones ¡nex-
+cusables fuera imprescindible abandonarla, habrá que pedir disculpas por tener que
+ausentarse, explicar el motivo de la ausencia y explicarle al cliente lo que debe hacer a
+continuación (esperar brevemente o dirigirse a otra ventanilla para ser atendido de inme-
+diato por otro compañero).
+
++ Establecer contacto visual. Cuando se habla con el cliente nunca se debe dar la espalda.
+
+. Tratar al cliente con respeto, siempre de «usted».
+
++ Nunca utilizar palabras malsonantes o expresiones irrespetuosas.
+
++ No utilizar expresiones coloquiales, callejeras o argot profesional postal que no pueda
+entender el cliente.
+
+e Al utilizar términos del vocabulario postal, explicarlos si se percibe que es necesario (por
+ejemplo, «remitente», «destinatario», etc.).
+
++ Expresarse en un lenguaje adecuado al del cliente, que será distinto según su grado de
+conocimiento del idioma, su edad, su nivel educativo, etc.
+
+* Aclarar las dudas. Corroborar que el cliente comprende lo que se le transmite.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 53 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
++ El volumen y tono de voz deberán serán suficientes para que el cliente oiga lo que se le
+transmite, pero nunca superior de modo los otros clientes puedan enterarse del asunto
+que se está tratando.
+
++ Cuando el cliente se dirija en otro idioma distinto al castellano, se procurará, siempre que
+sea posible, contestarle en el mismo idioma.
+
++ Mantener una postura adecuada, sin poner los codos ni reclinarse sobre el mostrador.
+
+. No tocar al cliente, mantener una distancia respetuosa aproximada de medio metro con
+el cliente.
+
++ No comer o beber mientras se habla con el cliente.
+
+Cuando un cliente fuera a entregar un objeto, habrá que esperar que lo entregue o lo depo-
+site en el mostrador sin quitárselo de las manos. Del mismo modo, cuando hubiera que
+entregar un objeto al cliente, habrá que depositarlo respetuosamente en el mostrador.
+
+Atender al cliente
+
+Para atender al cliente de forma satisfactoria, será de gran importancia seguir las siguientes
+recomendaciones:
+
++ Escuchar con atención y sin interrumpir para identificar inequívocamente sus necesidades
+y deseos.
+
++ Emplear un lenguaje claro y comprensible, adecuando el vocabulario al cliente. En caso
+de duda o de dificultades de comprensión, hacerle preguntas concretas y sencillas que
+permitan identificar sus necesidades y el servicio o producto que pudiera requerir.
+
+e Habrá que tener en cuenta que el cliente tal vez no disponga del vocabulario necesario
+para expresar sus ideas con precisión o exactitud, por ello habrá que hacer un esfuerzo
+por imaginar y comprender lo que realmente necesita.
+
++ En caso de duda o desconocimiento del asunto que se está tratando, orientar al cliente
+hacia la persona competente, si es necesario indicar el camino al cliente y avisar a la
+persona que lo recibirá.
+
+Informar al cliente
+
+Cuando un cliente acude a la oficina y solicita información, el empleado dispone de infor-
+mación sobre códigos postales, oficinas, localizador de envíos, calculador de tarifas, Book
+de productos y plazos, garantías y coberturas.
+
+Si el cliente solicita información sobre un envío, el empleado deberá comprobar el estado
+del envío en los sistemas de trazabilidad y realizar las averiguaciones oportunas para infor-
+mar al cliente.
+
+Será conveniente informar al cliente que, para sucesivas ocasiones, en la web de Correos ten-
+drá acceso a toda la información de productos, servicios, oficinas, localizador de envíos, etc.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 54 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Prestar un servicio
+
+Para prestar servicio de forma satisfactoria, será de gran importancia seguir las siguientes
+recomendaciones:
+
+. Presentar la amplia oferta de productos y servicios disponibles para el cliente.
+
++ Argumentar las ventas y explicar las características de cada producto o servicio que pueda
+ser interesante para el cliente. Por ejemplo, en el caso de un Paquete Azul, informar sobre
+plazos de envíos, precio, garantías, etc.
+
+. Identificar el perfil del cliente, para tener una idea rápida de los servicios que pudiera
+demandar u otros complementarios que se le pueda ofrecer en una venta cruzada.
+
+e Facilitar obligatoriamente bolígrafos, rotuladores y rollo de cinta de precintar a los clientes
+para la preparación de sus envíos. Las oficinas deberán estar provistas de este material.
+
+Escuchar e informar al cliente
+
+Cuando el cliente hace una consulta, la respuesta la debe dar el empleado que lo está
+atendiendo.
+
+Si un cliente hace un reclamo, suele estar convencido de que tiene razón. Lo que desea es
+manifestar su descontento y suprimir la causa que lo ha provocado, obteniendo eventual-
+mente una compensación.
+
+Si el cliente se mostrara muy excitado, se lo atenderá en una zona privada, para que la
+situación no atraiga la atención del resto de los clientes en el vestíbulo. El empleado que lo
+atiende habrá de remitirlo al director o responsable en ese momento, que intentará buscar
+una solución inmediata siempre que sea posible, o en su defecto una solución satisfactoria
+para el cliente.
+
+Una vez que se esté atendiendo al cliente, será importante determinar qué persona lo va a
+atender desde el principio hasta el final. Si fuera el director de la oficina y la reclamación
+estuviera relacionada con un asunto de distribución, deberá tratar de resolver el asunto por
+teléfono con el jefe de distribución.
+
+Cuando se trate de documentación archivada que hubiera que buscar, se pedirá a otra perso-
+na que la localice mientras se atiende al cliente y, si no fuera posible, habrá que permanecer
+con el cliente hasta que se localice toda la documentación necesaria.
+
+Qué es lo que no se debe hacer
+
+. No interrumpir la prestación del servicio al cliente que se está atendiendo. En caso
+ineludible (llamada telefónica, pregunta de otro compañero, etc.), pedir disculpas an-
+tes de la interrupción y retomar el servicio lo antes posible. En caso de interrupción
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 55 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+(que no deberá durar más de dos minutos) se dará prioridad al cliente al que se está
+atendiendo.
+
+* Si un compañero estuviera ocupado con un cliente, no se le debe interrumpir.
+
+* No dejarse influir por posibles comentarios o quejas que exterioricen otros clientes im-
+pacientes.
+
++ Una despedida inadecuada, indiferente o fría podrá reducir a la nada todo el trabajo pre-
+cedente.
+
+. Mostrar desacuerdo o contradecir las alegaciones del cliente.
+
+* Decirle al cliente que está equivocado.
+
+. Cargar la responsabilidad sobre otra persona o unidad y mencionar la estructura interna
+de Correos.
+
+. Desligarse de la responsabilidad ante un problema. Habrá que tener en cuenta que,
+aunque el error no se hubiera producido por propia responsabilidad, en ese momento el
+empleado de Correos representa a la organización y debe hacer frente a la demanda del
+cliente.
+
++ No decir nada que desvalorice a Correos.
+
+. Interpretar el requerimiento del cliente como un ataque personal.
+
+Qué es lo que se debe hacer
+
+e Tratar los asuntos, comentarios o peticiones de los clientes de manera confidencial y no
+comentarlos con otros clientes, compañeros o terceros.
+
++ Explicar clara y educadamente la documentación requerida. La normativa postal define
+claramente la documentación exigible y válida en cada caso.
+
++ Antes de despedir al cliente preguntar si necesita o quiere algún otro servicio. En caso de
+respuesta afirmativa, se procederá de acuerdo con las normas comerciales y de conducta
+explicadas.
+
+*. Habrá que concluir la relación comercial con el cliente con una despedida adecuada, me-
+diante alguna de estas frases: Buenos días/tardes; hasta pronto; buen fin de semana;
+feliz Navidad.
+
+. Darle las gracias. Despedirse amablemente del cliente, sin esperar a que él lo haga
+primero.
+
++ Aprobar sus afirmaciones e intentar comprender el problema, manteniendo la calma. Cuan-
+do se haya tranquilizado, resumir sus argumentos y minimizar el problema colocándolo
+en su verdadera dimensión.
+
+* Solicitar las aclaraciones necesarias hasta entender completamente lo sucedido y repetir
+los puntos que requieran su confirmación.
+
+e Si se tratara de un envío, el empleado deberá comprobar en los sistemas de trazabilidad
+el estado de este e informar al cliente.
+
+* Pedir disculpas en nombre de la organización por los errores cometidos y los inconve-
+nientes ocasionados.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+M35: Documento
+que lleva adherido
+un envío y deberá
+ser firmado por el
+destinatario (para
+ser posteriormente
+devuelto al
+remitente). Permite
+dejar constancia de
+cuándo y a quién
+se entregó un
+certificado.
+
+Glosario
+
+CNO7: Documento
+de acuse de recibo
+internacional.
+
+[[ página 56 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+* Intentar buscar una solución. Pero si el cliente insistiera en formalizar una solicitud (inci-
+dencia o reclamación), admitir que es un derecho e informar del procedimiento y de los
+diferentes canales por los que puede realizarlo (de forma presencial en la oficina, por
+teléfono o en la web de Correos).
+
++ Sia pesar de todo el cliente se marchara descontento, mantener la serenidad y despedirlo
+amablemente, ya que esta es la última imagen que conservará.
+
+Proporcionar formularios
+
+Actualmente, la mayoría de los productos no requieren formularios que deba cumplimentar
+el cliente ya que todos los envíos que requieren datos son digitalizados por el empleado.
+Cabe mencionar como excepciones el formulario de solicitud de voto, la hoja de reclamación
+OMIC (que se tratará en el punto 10.3.1.6.2) y el acuse de recibo físico (M35 y CNO7), que
+deberá cumplimentar el cliente.
+
+Comprobar y aceptar datos
+
+Al dar de alta un envío, aparecerán en la tableta digitalizadora los datos del envío. El cliente
+deberá verificar que los datos son correctos y firmar el conforme y la aceptación del con-
+dicionado.
+
+Cuando el envío haya sido admitido y se haya impreso la etiqueta, el sistema generará el
+formulario digital para entregar al cliente o enviárselo por e-mail.
+
+Reclamaciones de productos y servicios
+
+Cualquier manifestación del cliente sobre un
+producto o servicio contratado o referente a
+alguna situación o aspecto por el que se ha
+sentido perjudicado se considerará una soli-
+citud.
+
+Las solicitudes pueden ser de dos clases,
+incidencias o reclamaciones, y ambas pueden
+referirse indistintamente a envíos o servicios.
+
+La admisión de una solicitud (incidencia o
+reclamación) en la aplicación se realiza, nor-
+malmente, mediante la transcripción que el
+empleado hace de la conversación con el
+cliente.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 57 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Incidencias
+
+Una incidencia se genera cuando el cliente tiene la percepción de que ha habido un problema
+relacionado con algún producto o servicio de Correos y desea que se le ofrezca una solución.
+
+Reclamaciones
+
+Una reclamación se genera cuando el cliente tiene la percepción de que ha habido un pro-
+blema relacionado con algún producto o servicio de Correos, desea que se le ofrezca una
+solución y, además, quiere manifestar expresamente su descontento.
+
+Si el cliente desea formular la reclamación presentando un formulario de la OMIC, la ofi-
+cina debe facilitar siempre la hoja de reclamación OMIC (Oficina Municipal de Información
+al Consumidor) descargándola directamente de la web del Ayuntamiento o Comunidad
+correspondiente. Ante cualquier duda al respecto, debe consultar con la jefatura de red
+de la zona.
+
+El formulario tiene que descargarse de la página de la administración y el cliente deberá
+cumplimentarlo por triplicado.
+
+El empleado entregará el formulario oficial al cliente para que lo cumplimente y compro-
+bará que figuran todos los datos necesarios y la documentación o información necesa-
+rias para realizar las investigaciones correspondientes al incidente que el cliente hubiera
+manifestado.
+
+El empleado entregará dos copias al cliente: la copia para el organismo oficial que correspon-
+da (será responsabilidad del cliente entregarla para la tramitación final de su reclamación)
+y la copia para el cliente (que constituye el resguardo de imposición de la reclamación).
+
+Con la copia dirigida a la entidad sobre la que se reclama (Correos) se grabarán los datos
+en la aplicación «Reclamaciones» y se adjuntará el formulario como archivo.
+
+Atención telefónica
+
+El teléfono se deberá atender sin demora. Al contestar, habrá que identificar la oficina
+correspondiente (por ejemplo, «Correos, Oficina X, buenos días...»).
+
+Si la llamada se recibiera mientras se atiende a un cliente, habrá que pedir disculpas al
+cliente que se está atendiendo. Se identificará al interlocutor que está al teléfono y su
+demanda y se establecerá con el interlocutor el compromiso de devolver la llamada.
+
+En caso de desvío de una llamada, se dará al cliente el nombre del compañero o del servicio
+con el que se le pondrá en comunicación. Se transmitirá al compañero el nombre del cliente
+y el motivo de su llamada.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 58 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+SGC: Sistema
+de Gestión de la
+Calidad.
+
+10.3.2. Calidad en oficinas
+SGC e IS09001:2015
+
+En todas las oficinas de Correos hay implantado un Sistema de Gestión de Calidad (SGC),
+que incluye todos los procesos de oficinas y que está certificado en ISO 4001:2015.
+
+La Norma ISO 9001:2015 establece los requisitos mínimos que debe tener un SGC y per-
+mite a la vez evaluar este sistema por organizaciones externas acreditadas otorgando la
+Certificación ISO.
+
+La certificación ISO acredita el cumplimiento de los estándares de calidad en relación con
+la admisión, tratamiento y curso de correspondencia y paquetería nacional e internacional,
+así como la comercialización y entrega en oficina de productos y servicios de proximidad.
+
+Será responsabilidad del equipo directivo de la oficina conocer la documentación del SGC,
+así como informar al resto del personal.
+
+Política de excelencia y sostenibilidad
+
+La «política de excelencia de sostenibilidad» es el documento que recoge las intenciones
+globales y la orientación de Correos, que son expresadas formalmente por su presidente.
+
+Se podrá consultar la versión actualizada (así como los objetivos de calidad) en la plataforma
+
+«Conecta», en la ruta: AM EEE ETRE Se
+ción general del sistema.
+
+Este documento es de circulación interna, por lo que no deberá publicarse en el tablón de
+anuncios interno de la oficina.
+
+10.4. Protocolos de venta a clientes con contrato
+10.4.1. Equipos comerciales: roles y funciones
+
+La fuerza de ventas desplegada a nivel nacional tiene como objetivo principal impulsar el
+desarrollo de negocio para Correos. Para lograrlo, se realizan actividades dirigidas a la cap-
+tación de nuevos clientes, y también actividades que permitan el crecimiento del negocio
+en los clientes existentes.
+
+El equipo comercial de Correos se estructura de la siguiente manera:
+
+1. Jefe Comercial.
+2. Coordinadores.
+3. Gestores comerciales.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 59 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+La finalidad de los equipos comerciales es encontrar y ofrecer soluciones que satisfagan
+la demanda de los clientes, tanto a nivel postal con los productos tradicionales de Correos,
+como a nivel de paquetería, con una amplia gama de opciones que dan respuesta a las
+necesidades de un mercado muy exigente. También, procuran encontrar nuevas soluciones
+de negocio encaminadas a la diversificación de Correos.
+
+Se pueden concretar los perfiles comerciales de la siguiente manera:
+
+Jefe comercial
+
+Es el responsable de la acción comercial zonal. Los equipos comerciales dependen jerár-
+quicamente de él.
+
+Entre sus funciones principales, se encuentran las siguientes:
+
+* Es el responsable de adaptar la estrategia comercial general de Correos.
+
++ Asume la responsabilidad de los ingresos y objetivos comerciales en su área para cuyo
+desarrollo propone un plan de negocio.
+
++ Es el responsable de las decisiones de la organización comercial y de la gestión de los
+recursos humanos a su cargo.
+
+* Lidera tanto las reuniones con el equipo comercial como las relaciones a primer nivel con
+los clientes más relevantes de su territorio.
+
+Coordinador de ventas
+Depende del jefe comercial y es responsable directo de un equipo de gestores comerciales.
+Entre sus funciones, se pueden encontrar las siguientes:
+
+* Anima, coordina y supervisa las actividades comerciales del equipo.
+
+* Es el responsable de supervisar las ofertas, contratos, así como toda la información
+relativa de los Planes de Cuenta y planes de acción asociados.
+
++ Establece y mantiene relaciones comerciales con los grandes clientes.
+
+e En las reuniones con su equipo de gestores, revisará la actividad comercial del equipo
+(oportunidades realizadas, número de actividades, análisis de desviaciones, causas que
+las originan y medidas correctivas a adoptar).
+
+Gestor comercial
+
+La labor comercial del gestor comercial cubre tanto la gestión realizada para el mantenimiento y
+crecimiento de la cartera de clientes (por ejemplo, a través de la venta cruzada, es decir, dando
+solución a necesidades de sus clientes a través de productos que hasta el momento no utili-
+zaban), como gestiones para aumentar su cartera de clientes a través de nuevas captaciones.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 60 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Glosario
+
+CRM (Customer
+Relationship
+Management):
+Sistema de gestión
+de la relación con el
+cliente.
+
+En definitiva, se pueden enumerar las siguientes actividades como las que forman parte de
+la actividad diaria de un gestor comercial:
+
+* Identificación de nuevas oportunidades de negocio.
+
++ Estudio de potenciales negocios emergentes en su ámbito de actuación.
+
+. Realización de la actividad comercial indagando las necesidades del cliente y la mejor
+forma en que Correos puede resolverlo.
+
+. Presentación de ofertas tanto para soluciones postales como de paquetería, que se re-
+gistran en la aplicación corporativa de CRM (Customer Relationship Management).
+
+* Diferentes gestiones como atención personalizada al cliente con cualquier duda o consulta
+que plantee, que ayude al mantenimiento y mejora en definitiva de su cartera de clientes.
+
+10.4.2. Puntos de entrada de oportunidades comerciales
+
+La cartera de un gestor estará compuesta por:
+* Clientes que ya tienen una relación comercial con Correos.
+
+— Clientes a los que ya se presta servicios de distribución tanto de productos postales
+como de paquetería y que pueden demandar nuevos productos y servicios.
+
+— Clientes que se han captado recientemente, como pueden ser los que hasta ahora
+han estado trabajando con otros proveedores y deciden empezar a operar con Correos.
+
+. Clientes que pueden empezar con un nuevo negocio (por ejemplo, e-commerce) y deciden
+que Correos sea quien distribuya sus envíos.
+
+A continuación, se analizarán los distintos puntos de entrada de oportunidades comerciales
+que permiten captar nuevos clientes y que podrían finalizar en una generación de contrato:
+
+Teléfono de Atención al Cliente. Las llamadas entrantes son atendidas por un equipo espe-
+cializado. Cuando detectan una necesidad comercial, se cualifica el contacto (es decir, se
+completa con información necesaria para poder atender sus necesidades) y se asigna el
+mismo a un gestor que posteriormente se pondrá en contacto con el cliente.
+
+Redes Sociales (Twitter y Facebook). Se revisan los comentarios registrados y se captu-
+ran todas las necesidades de los clientes. Cuando se detecta una necesidad comercial, se
+redirige a Telemarketing, que completará los datos necesarios para entender la necesidad
+del cliente y asignará a un gestor que contactará con el cliente.
+
+Web. Se revisan los comentarios registrados capturando las necesidades comerciales que
+tienen los clientes. Cuando detectan una necesidad comercial se redirige a Telemarketing
+que, como en los otros casos indicados, se encargará de completar los datos necesarios
+para entender en qué forma se lo puede ayudar y asignará a un gestor que contactará con
+el cliente.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 61 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Sites corporativos. Captación de leads interesados en los distintos servicios que se ofrecen
+a través de ellos y que se recopilan, por ejemplo, a través de formularios de captura de
+información, suscripciones de usuarios, suscripción a newsletters, etc.
+
+Campañas. Una de las principales fuentes para conseguir captación de nuevos clientes es
+a partir de la realización de campañas dirigidas a un sector concreto.
+
+Por ejemplo, los contactos recogidos en ferias, campañas en medios, cupones respuesta,
+etc. En estos casos se solicita al prospecto/cliente que nos facilite información (correo elec-
+trónico, actividad, tipo de servicio solicitado, etc.); esta información le llegará a un gestor
+comercial que contactará con el posible cliente y le ofrecerá una alternativa de soluciones
+que se adapten a su necesidad.
+
+Gestión proactiva del gestor comercial
+
+El gestor comercial puede identificar de forma proactiva a clientes a los que le interesa
+dirigirse por pertenecer a un sector determinado.
+
+El gestor comercial deberá preparar la propuesta comercial, habiendo analizado previamente
+las demandas que requieren los clientes del perfil seleccionado.
+
+También deberá realizar búsquedas concretas de información específica del cliente para
+ajustar la solución ofertada con el objetivo de cubrir la necesidad del cliente.
+
+Licitaciones públicas
+
+Los clientes pertenecientes al segmento institucional licitarán la prestación de servicios
+postales y de paquetería mediante concurso público, siempre que el importe del servicio
+supere el umbral que marca la Ley de Contratos del Sector Público.
+
+En esos casos, Correos deberá analizar los correspondientes pliegos y realizará una oferta
+económica para la prestación de servicios a la que acompañará la correspondiente memoria
+técnica, en la que se detalla cómo se prestará el servicio específico.
+
+10.4.3. CRM en Correos
+
+Los gestores comerciales disponen de una herramienta que facilita su labor, denominada
+CRM (Customer Relationship Management), que permite planificar y gestionar toda la acti-
+vidad e información comercial en un entorno accesible y eficiente.
+
+Entre sus principales funciones, CRM permite:
+
+. Planificar y registrar actividad comercial.
+. Generar ofertas y contratos.
+* Archivar documentación contractual.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+Site corporativo:
+Página web
+corporativa.
+
+[[ página 62 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+Alimentar el CRM con información certera y enfocada al desarrollo de negocio es clave para
+la consecución de los objetivos comerciales.
+
+Por tanto, el trabajo del gestor comercial es fundamental para que las áreas responsables
+del desarrollo de negocio puedan:
+
++ Implantar y mejorar las estrategias de canales de venta y de segmentación del mercado
+potencial.
+. Planificar campañas (captación, renegociación de contratos, etc.).
+
+Una vez que el cliente ha aceptado la oferta económica que se le propone (es decir la pro-
+puesta de precios para la realización de los servicios que se nos demanda), se procederá
+a generar el contrato que vincula a las dos partes.
+
++
+
+rim
+
+9 Correos
+
+N* de Contrato:
+N* de Cliente:
+
+CONTRATO DE PRESTACIÓN DE SERVICIOS POSTALES Y TELEGRAFICOS ENTRE LA
+SOCIEDAD ESTATAL CORREOS Y TELEGRAFOS, S.A., S.M.E. Y
+
+En ¿a de 2020
+
+El número de contrato y número de cliente que se generen son importantes, debido a que
+forma parte de los datos que el cliente deberá indicar a la hora de realizar sus depósitos,
+tanto en una Unidad de Admisión Masiva como en una Oficina.
+
+10.4.4. Integraciones tecnológicas con el cliente
+
+Una vez generado el contrato, el cliente podrá requerir integración tecnológica con sus
+sistemas, de forma que pueda realizar prerregistros de paquetería, gestión de sus envíos
+estacionados, consulta de PEE (prueba de entrega electrónica), etc.
+
+Para que todas esas integraciones no se realicen de forma individual en aplicaciones dife-
+rentes sino de una forma más sencilla y conjunta, Correos ha desarrollado una aplicación
+llamada GESERVUS, que facilita la gestión de las necesidades relativas a integraciones
+tecnológicas.
+
+De esta manera, se reduce drásticamente el plazo de activación en los distintos sistemas
+y, por tanto, aumentará la satisfacción del Cliente al reducir el plazo entre firma de contrato
+y comienzo de la actividad.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 63 de 64 · ocr ]]
+
+TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
+
+10.4.5. Seguimiento de la facturación
+
+Cada gestor comercial deberá realizar un seguimiento de la facturación de los clientes que
+componen su cartera. Analizará variaciones, estacionalidad y cumplimiento de los volúmenes
+previstos según el contrato firmado por ambas partes.
+
+En el caso de los nuevos clientes captados, el seguimiento de la facturación permitirá com-
+probar si el cliente ya se ha integrado completamente y está depositando con normalidad
+O si, por el contrario, no ha comenzado la facturación porque no ha podido completar la
+integración de Correos o por cualquier otro motivo, en cuyo caso, se deberá averiguar el
+motivo o motivos por los que el contrato no ha comenzado a funcionar.
+
+Tanto el gestor, como sus coordinadores y jefe comercial disponen de un portal para ana-
+lizar y explotar la información de facturación a través de los informes corporativos, en las
+distintas plataformas de Business Intelligence disponibles.
+
+Los informes más comunes son:
+
+* KPI: indicadores clave de rendimiento comercial y cumplimiento de objetivos.
++ Detalle de facturación.
+*. Seguimiento de ofertas, captación, campañas y actividad comercial.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+Business
+Intelligence:
+Traducido como
+Inteligencia
+Empresarial o
+Inteligencia de
+Negocios, es
+
+el conjunto de
+procesos requeridos
+para ofrecer una
+solución informática
+que permita a
+
+una determinada
+empresa analizar
+cómo están
+funcionando sus
+procesos.
+
+[[ página 64 de 64 · ocr ]]
+
+

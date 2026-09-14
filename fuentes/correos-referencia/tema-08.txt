@@ -1,0 +1,4390 @@
+# Volcado de tema-08.pdf
+
+Generado con `herramientas/correos_dump.py`. **El documento original va sin
+capa de texto en la mayor parte de sus páginas**, así que lo que sigue es en
+parte una transcripción y en parte un **reconocimiento óptico a 300 puntos por
+pulgada**. Cada página dice de cuál de las dos cosas viene.
+
+**Lo reconocido ópticamente no es el documento.** Todo dato que un tema tome de
+una página marcada `ocr` se comprueba a la vista sobre la página original antes
+de escribirlo.
+
+
+[[ página 1 de 100 · ocr ]]
+
+Tema 8
+
+Procesos operativos ll: Tratamiento
+
+y Transporte
+
+[[ página 2 de 100 · texto ]]
+
+8.1. Tratamiento y transporte: cuestiones generales
+8.2. La red de centros de tratamiento de Correos
+ 
+8.2.1. Centros de tratamiento automatizado en la red de Correos
+ 
+8.2.2. Centros de Madrid y sus peculiaridades
+ 
+8.2.3. Centros de Barcelona y sus peculiaridades
+ 
+8.2.4. Unidad de Admisión Masiva (UAM)
+ 
+8.2.5. Oficina Cambio Madrid Barajas
+8.3. Red de transporte de Correos
+ 
+8.3.1. Red interzonal
+ 
+8.3.2. Red zonal
+ 
+8.3.3. Red provincial
+ 
+8.3.4. Red local
+8.4. Equipamiento postal en centros de tratamiento
+ 
+8.4.1. Vehículos de Transporte Interno (VTI)
+ 
+8.4.2. Elementos logísticos asociados al transporte
+ 
+8.4.3. Mobiliario y equipamiento
+8.5. Procesos de trabajo en las áreas de un centro de tratamiento
+ 
+8.5.1. Áreas de los centros
+ 
+8.5.2. El área de producción: la Unidad de Productos Ordinarios (UPO)
+ 
+8.5.3. El área de producción: la Unidad de Productos Registrados (UPR)
+ 
+8.5.4. El área de logística: la Zona logística
+ 
+8.5.5. Tratamiento del correo internacional prioritario
+8.6. Carga de vehículos
+ 
+8.6.1. Vehículos a granel
+ 
+8.6.2. Vehículos contenerizados en jaulas, carros transportadores o palets
+ 
+8.6.3. Normas comunes para carga de vehículos
+ 
+8.6.4. Protocolos de carga de vehículos
+ 
+8.6.5. Mapas de carga
+C o n t e n i d o
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+780
+
+[[ página 3 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+781
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+8.1. Tratamiento y transporte: cuestiones generales
+El proceso Logístico en Correos comprende el conjunto de tareas que se llevan a cabo des-
+de que finaliza la admisión de los envíos hasta que estos envíos son recepcionados por la 
+Unidad de Entrega. En la Ley 43/2010, de 30 de diciembre, este proceso viene dividido en:
+• La recogida de los envíos postales en los puntos de acceso de todo el territorio nacional.
+• La admisión por el operador postal de los envíos postales que le son confiados por el 
+remitente para la realización del proceso postal integral y del que se hace responsable.
+• La clasificación de estos envíos desde el punto de acceso a la red postal hasta el centro 
+de distribución.
+• El transporte de los envíos postales efectuado por cualquier tipo de medios hasta su 
+distribución final.
+• La distribución realizada en los locales de destino del operador postal correspondiente a 
+donde ha sido transportado el envío postal de forma inmediatamente previa a su entrega 
+final al destinatario del mismo.
+• La entrega en las direcciones indicadas en los envíos, con las salvedades que se esta-
+blezcan reglamentariamente.
+Los principales centros de tratamiento de envíos son:
+• CTI: centros de tratamiento internacional.
+• CAM: centros de admisión masiva.
+• CTA: centros de tratamiento automatizado.
+• CTP: centros de tratamiento provincial.
+• CTL: centros de tratamiento local.
+• CT: centro de tratamiento de paquetería (centros nodales)
+Los CT son centros nodales de nueva creación a nivel provincial para el tratamiento de la 
+paquetería. Suponen un cambio importante para gestionar la red y sus recursos de manera 
+conjunta y más eficiente, aprovechando las sinergias dentro del grupo Correos.
+El tratamiento de la paquetería en estos centros nodales se realiza :
+• De forma automática a través del Sistema de Clasificación de Paquetería (sorters SCP).
+• De forma manual con ayuda de cinta transportadora o tramos de rodillos.
+En la logística de Correos es indispensable el transporte. La red comunica entre sí todas 
+las zonas, de modo que los envíos interzonales se puedan gestionar fácilmente. Además 
+de esta red, existen otros niveles de redes: locales, provinciales y zonales.
+Aquellas herramientas, envases y otros útiles que se usan para facilitar el transporte y 
+la clasificación de los envíos se denominan equipamiento postal. Con ellos se consigue 
+mejorar los tiempos, costes y desarrollo de tareas. Esto permite que la calidad del servicio 
+aumente, además de hacer que el trabajo sea más fácil para los profesionales.
+Glosario
+Equipamiento 
+postal: 
+Herramientas, 
+envases y otros 
+útiles que se usan 
+para facilitar el 
+transporte y la 
+clasificación de los 
+envíos.
+
+[[ página 4 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+782
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Entre el equipamiento postal, se puede citar:
+• Las bandejas, que hay de tipo A, B y C.
+• Las jaulas, que encontrarás de tipo estándar, plegable y alta.
+• Los carros para transportar bandejas.
+• Los contenedores plegables reutilizables.
+• Los palets.
+• El carro expositor de bandejas.
+• La flejadora eléctrica automática.
+• El retractilador eléctrico.
+• La estación generadora de etiquetas.
+• La canceladora eléctrica.
+Algunos de los elementos que se usan en el transporte interno son:
+• Apiladores manuales.
+• Apiladores eléctricos.
+• Transpaletas manuales.
+• Transpaletas eléctricas.
+• Carretillas elevadoras eléctricas.
+8.2. La red de centros de tratamiento de Correos
+La red de centros de tratamiento es el elemento principal de la cadena logística.
+/DFDGHQDSRVWDOHQORV&HQWURVGH7UDWDPLHQWR
+$'0,6,v1
+75$7$0,(172
+75$163257(
+',675,%8&,v1
+&7$
+&7$
+&73
+5HFRJLGDD
+FOLHQWHV
+8$0
+86(6
+8526
+2ILFLQDV
+&7$
+&73
+86(6
+8526
+2ILFLQDV
+8.2.1. Centros de 
+tratamiento 
+automatizado  
+en la red de Correos
+En los centros de tratamiento automa-
+tizado se realizan tareas fundamen-
+tales para todo el proceso logístico: 
+descarga de envíos, distribución por 
+los diferentes programas (nacional, 
+provincial…), encarado del correo si 
+no lo está ya, volcar el correo en las 
+zonas de alimentación de las máquinas 
+de distribución automática que hará su 
+proceso rápidamente (con el sistema 
+OCR disponible en el proceso automa-
+tizado de clasificación es posible que
+
+[[ página 5 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+783
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+las máquinas lean tanto las direcciones manuscritas como las digitalizadas; si el sistema 
+OCR no pudiera leer correctamente una dirección será un operador quién hará la gestión), 
+impresión en los envíos de un código de control que contiene la información necesaria para 
+finalizar el tratamiento en el centro, asignación a casilleros de preclasificación en función 
+del código impreso, clasificación según destino final que se distribuirá en los diferentes 
+transportes asignados para la distribución de cada envío.
+Geográficamente, la imagen de la red de centros de tratamiento automatizado en España 
+puede observarse en el siguiente mapa:
+Como se puede identificar en el mapa, en rojo se marcan los Centros de Tratamiento Auto-
+matizado de Paquetería y Postal:
+• CTA de Santiago de Compostela: A Coruña, Lugo, Orense y Pontevedra. 
+• CTA de Oviedo: Asturias. 
+• CTA de Valladolid: Ávila, Burgos, Palencia, Salamanca, Segovia, Valladolid, León y Zamora. 
+• CTA de Bilbao: Vizcaya. 
+• CTA de Vitoria: Álava, Guipúzcoa, Cantabria y La Rioja. 
+• CTA de Zaragoza: Huesca, Teruel, Zaragoza, Soria y Navarra. 
+• CTA de Sant Cugat del Vallès (con un centro especial, CLI): Barcelona, Tarragona, Lleida 
+y Girona. 
+• CTA de Madrid (y varios centros reguladores CAM): Madrid, Toledo, Ciudad Real, Cuenca, 
+Guadalajara y Albacete. 
+Glosario
+OCR (Optical 
+Character 
+Recognition): 
+Reconocimiento 
+óptico de caracteres. 
+Es el proceso por el 
+cual una imagen de 
+texto se convierte en 
+un formato de texto 
+que puedan leer las 
+máquinas.
+
+[[ página 6 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+784
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• CTA de Mérida: Cáceres y Badajoz. 
+• CTA de Valencia: Castellón y Valencia. 
+• CTA de Alicante: Alicante y Murcia. 
+• CTA de Mallorca: Baleares. 
+• CTA de Sevilla: Cádiz, Huelva, Sevilla, Córdoba y Ceuta. 
+• CTA de Málaga: Melilla y Málaga. 
+• CTA de Granada: Almería, Granada y Jaén. 
+• CTA de Tenerife: El Hierro, La Gomera, La Palma y Tenerife. 
+• CTA de Las Palmas: Gran Canaria, Lanzarote y Fuerteventura. 
+En azul se muestran los CT (Centros de Tratamiento de Paquetería - CEX) y en verde el CLI 
+(Centro de Logística Integral y CAM 2 (Centro de Tratamiento Automatizado de Paquetería 
+- Correos).
+8.2.2. Centros de Madrid y sus peculiaridades
+En el CTA de Madrid se llevan a cabo tareas de:
+Glosario
+IRV: Configuración 
+automática para 
+el tratamiento del 
+correo normalizado 
+y admisión de 
+certificados y 
+notificaciones.
+Glosario
+FLAT: Configuración 
+automática para 
+el tratamiento del 
+correo ordinario no 
+normalizado.
+Glosario
+FSM: Configuración 
+automática para 
+el tratamiento del 
+correo normalizado 
+a sección/unidades 
+de reparto una vez 
+los envíos han sido 
+procesados en la IRV.
+• Tratamiento automatizable de correo básico (IRV, FSM y 
+FLAT) y tratamiento manual.
+• Tratamiento nacional, zonal, provincial y local del correo 
+internacional prioritario de importación automatizable y ma-
+nual, así como el tratamiento manual del correo internacio-
+nal prioritario de exportación.
+• Tratamiento automático de certificados normalizados auto-
+matizables con destino local, provincial y zonal con origen 
+en otros centros de tratamiento.
+• Tratamiento automático de distribución internacional, e-com-
+merce ordinario y registrado en SCG (es un sistema de 
+clasificación de gordo que permite la lectura de 7.000-
+8.000 envíos a la hora) de grandes clientes. 
+• Centro de admisión masiva de cartas, publicorreo, prensa 
+y publicaciones periódicas.
+Existen dos centros de admisión masiva (CAM):
+• CTA de Madrid:
+ 
+–UPR (unidad de productos registrados) manual.
+ 
+–Admisión y tratamiento de paquetería voluminosa no automatizable.
+• CAM 2 Madrid:
+ 
+–Admisión de paquetería.
+
+[[ página 7 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+785
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ – UPR (unidad de productos registrados) automatizable en SCG/SCP (sistema de clasificación 
+de paquetería) excepto los certificados y notificaciones normalizados y no normalizados.
+ 
+–Tratamiento automatizable y manual de paquetería devuelta de grandes clientes.
+En Barajas, Correos cuenta con la Oficina de Cambio y el Centro Internacional:
+8.2.3. Centros de Barcelona y sus 
+peculiaridades
+En estos centros se desarrollan tareas de:
+• CTA San Cugat:
+ 
+–Tratamiento automático de cartas ordinarias, Publicorreo 
+y cartas certificadas normalizadas automatizables naci-
+das en Cataluña con destino nacional, zonal y provincial. 
+ 
+–Tratamiento manual de cartas ordinarias, valijas y Publi-
+correo con destino nacional, zonal y provincial.
+ 
+–Tratamiento automático de cartas ordinarias y Publico-
+rreo no normalizado con destino local.
+• CTA Colón:
+ – Tratamiento manual de básica con destino local.
+CTA San Cugat
+CTA  Colon
+CLI Barcelona
+CTP El Prat
+Centros
+Exportación
+Importación
+CTI Barajas 
+(Oficina de 
+Cambio)
+• Expedición de todo el correo de 
+exportación.
+• Tratamiento de correo ordinario 
+internacional prioritario de exportación.
+• Tratamiento PAQ Premium Internacional 
+(EMS) y Paquetería Europa (Paquetería 
+InterConnect Premium). 
+• Recepción de todo el correo de 
+importación.
+CCP Barajas 
+(Oficina de 
+Cambio)
+• Tratamiento Resto de paquetería 
+internacional de exportación.
+• Tratamiento línea económica y 
+devoluciones.
+• Tratamiento automático y manual de 
+toda la paquetería. 
+CI3 Barajas 
+(Oficina de 
+Cambio)
+• Tratamiento automático en SCG cartas 
+certificadas y prime.
+• Tratamiento automático de cartas 
+certificadas y prime.
+• Tratamiento automático y manual de carta 
+ordinaria formato E «no IPC», ID y ETOE.
+CAM 4 Madrid 
+(Centro 
+Internacional)
+• Centro de tratamiento aduanero de 
+exportación de toda la paquetería con 
+destino Canarias, Ceuta, Melilla.
+• Carga de contenedores y paletización 
+aérea con destino Canarias.
+• Importación de la paquetería con origen 
+en países que no pertenecen a la 
+UE, península y Baleares con destino 
+Canarias, Ceuta y Melilla.
+• Tránsito de mercancía fuera de la UE con 
+destino a Canarias.
+
+[[ página 8 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+786
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• CLI Barcelona:
+ 
+–Centro de admisión masiva de todos los productos y recogida de clientes.
+ 
+–Tratamiento de cartas y Publicorreo al corte.
+ 
+–Tratamiento automatizado y manual de toda la paquetería.
+ 
+–UPR manual nacional, provincial y local.
+ 
+–Devoluciones de paquetería grandes clientes.
+• CTP El Prat:
+ 
+–Centro de recepción y salida del correo a cursar por vía aérea.
+ 
+–Clasificación manual del correo internacional de exportación.
+8.2.4. Unidad de Admisión Masiva (UAM)
+La Unidad de Admisión Masiva, como se ha visto anteriormente, se encarga del proceso de 
+admisión de los envíos postales depositados en agencias comerciales, agencias consoli-
+dadoras y operadores postales con contrato.
+Al efectuar la admisión de los envíos, estas unidades pasan a ser responsables de com-
+probar, controlar y garantizar que este tipo de envíos reúnen y cumplen todos los requisitos 
+establecidos contractualmente para ser tratados y facturados. También es responsable de 
+gestionar las incidencias que se produzcan dentro del ámbito de su competencia.
+8.2.5. Oficina Cambio Madrid Barajas
+La oficina de cambio Madrid-Barajas está situada en la terminal de carga del aeropuerto de 
+Adolfo Suárez Madrid-Barajas e incluye:
+• CTI Barajas.
+• CCP Barajas.
+• CI 3 Barajas. 
+Los procesos en la oficina de cam-
+bio Madrid-Barajas están, básica-
+mente, destinados a la exportación 
+y la importación.
+A) Exportación
+Procesos de:
+• Exportación.
+
+[[ página 9 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+787
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Área logística.
+• IPC (correo internacional prioritario). Se desglosan a continuación los pasos del proceso 
+a realizar con el correo internacional prioritario:
+ 
+–Clasificación por países de destino (casilleros o sacas).
+ 
+–Apertura de despachos y recipientes.
+ 
+–Confección de recipientes: se introducen los envíos clasificados en bandejas o sacas 
+(todo se pesa).
+ 
+–Imprimir documentación: documentos del despacho y etiqueta de cada recipiente.
+ 
+–Cierre de recipientes y despachos: se adhiere la etiqueta al recipiente y se cierra. Las 
+bandejas llevan flejes y las sacas, precintos.
+• LC/AO (Prioritario/Económico). Las tareas en este proceso van desde la apertura de los dife-
+rentes recipientes hasta el cierre de estos, una vez realizados todos los pasos intermedios:
+ – Apertura y preclasificación: apertura de recipientes y segregación por formato o mo-
+dalidad de envío en el caso de envíos devueltos.
+ – Clasificación por países de destino (casilleros o sacas).
+ – Apertura de despachos y recipientes.
+ – Confección de recipientes: se introducen los envíos clasificados en sacas (todos los 
+recipientes se pesan).
+ – Imprimir documentación: documentos del despacho y etiqueta de cada recipiente.
+ – Cierre de recipientes y despachos: se adhiere la etiqueta al recipiente y se cierra. Las 
+sacas llevan precinto.
+CLASIFICACIÓN POR  PAÍSES DE DESTINO 
+(CASILLEROS o SACAS).
+La mayor parte llega preclasificado en
+bandeja o saca de los CTA.
+APERTURA DE DESPACHOS Y  RECIPIENTES (OCA 3).
+CONFECCIÓN DE RECIPIENTES.
+Introducir los envíos clasificados en bandejas o sacas,  todos 
+los recipientes se pesan, OCA 3.
+IMPRIMIR DOCUMENTACIÓN.
+Documentos del despacho y etiqueta de cada 
+recipiente.
+CIERRE DE RECIPIENTES  y DESPACHOS (OCA 3).
+Adherir etiqueta al recipiente y cerrarlo,  bandejas 
+con flejes y sacas con precinto.
+CTI
+CTI
+CTI
+CTI
+CTI
+Glosario
+OCA3: Es la 
+aplicación que 
+utilizamos en 
+las Oficinas de 
+Cambio para 
+registrar la entrada 
+(importación) y salida 
+(exportación) de los 
+despachos de envíos 
+internacionales.
+En esta aplicación, 
+en el caso de la 
+exportación, se dan 
+de alta los envíos 
+en sus despachos 
+o recipientes 
+correspondientes y 
+después se asignan 
+a su país de destino. 
+En el caso de la 
+importación, con esta 
+aplicación se dan de 
+alta los despachos 
+que recibimos de 
+otros países y queda 
+registrada su entrada 
+en Madrid.
+
+[[ página 10 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+788
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• SCG - Tratamiento automatizado. En este caso, el personal asignado es parte activa del 
+proceso automatizado:
+ – Vestir la máquina: se colocan aros con sacas en las rampas de salida; se abren las agrupa-
+ciones de las salidas y se imprimen sus etiquetas que se reservan para el posterior cierre.
+ 
+–Posicionar jaulas y alimentar envíos.
+ 
+–Renovar rampas llenas: se cierran las agrupaciones de las sacas que estén llenas, 
+acompañándolas de su etiqueta ya impresa; se reponen con sacas vacías y se abre 
+la nueva agrupación, se imprimirá su nueva etiqueta que se reservará para el cierre.
+APERTURA y  PRECLASIFICACIÓN.
+Apertura de recipientes y segregación por 
+formato o modalidad de envío en
+el caso de envíos devueltos.
+CLASIFICACIÓN POR  PAÍSES DE DESTINO 
+(CASILLEROS o SACAS).
+APERTURA DE DESPACHOS Y  RECIPIENTES 
+(OCA 3).
+CONFECCIÓN DE RECIPIENTES.
+Introducir los envíos clasificados en sacas, todos 
+los  recipientes se pesan, OCA 3.
+IMPRIMIR DOCUMENTACIÓN.
+Documentos del despacho y etiqueta de cada 
+recipiente.
+CIERRE DE RECIPIENTES y  DESPACHOS (OCA 3).
+Adherir etiqueta al recipiente y cerrarlo, sacas con 
+precinto.
+CTI
+CTI
+CTI
+CTI
+CTI
+CCP
+CCP
+CCP
+CCP
+CCP
+CTI
+CCP
+VESTIR LA MÁQUINA.
+Colocar aros con sacas en las rampas de salida. Abrir 
+las  agrupaciones de las salidas e imprimir sus 
+etiquetas que  reservaremos para el posterior cierre.
+POSICIONAR JAULAS Y ALIMENTAR ENVÍOS. 
+Posicionar jaulas en la zona de entrada.  Alimentar los 
+envíos con código de seguimiento
+hacia arriba.
+RENOVAR RAMPAS LLENAS.
+Cerrar las agrupaciones de las sacas que estén llenas  
+acompañándolas de su etiqueta ya impresa. Reponer 
+con sacas  vacías y abrir la nueva agrupación, se 
+imprimirá su nueva  etiqueta que reservaremos para 
+el cierre.
+CLASIFICACIÓN MANUAL.
+Clasificar envíos resto de países y no automatizables 
+por país y  producto en área registrados manual.
+APERTURA DE DESPACHOS y LECTURA CÓDIGO 
+DE AGRUPACIÓN (OCA 3).
+Apertura de despacho por producto y destino. 
+Lectura  del código de las etiquetas de recipientes 
+directos.
+CTI
+CTI
+CI3
+CI3
+CI3
+
+[[ página 11 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+789
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–Clasificación manual: se clasifican los envíos del resto de países y no automatizables 
+por país y producto en área de registro manual.
+ 
+–Apertura de despachos y lectura de los códigos de agrupación.
+ 
+–Grabación de envíos y confección de recipientes.
+ 
+–Documentación, cierre de recipientes y despachos.
+• EMS (Express Mail Service):
+ 
+–Apertura y vaciado de recipientes.
+ 
+–Readmisión de cada envío.
+ 
+–Clasificación por países de envío.
+ 
+–Apertura de despachos y recipientes.
+ 
+–Grabación de envíos y confección de recipientes.
+ 
+–Documentación, cierre de recipientes y despachos.
+GRABACIÓN DE ENVÍOS (OCA  3) y CONFECCIÓN 
+DE  RECIPIENTES.
+Grabación individual de los envíos procedentes  del 
+área de registrados manual.
+DOCUMENTACIÓN, CIERRE  DE RECIPIENTES y  
+DESPACHOS (OCA 3).
+Imprimir etiqueta recipiente, documentación
+despacho/recipiente e introducir en recipiente.
+CTI
+CTI
+APERTURA Y VACIADO DE  RECIPIENTES.
+READMISIÓN DE CADA ENVÍO  (OCA 3).
+CLASIFICACIÓN POR PAÍSES DE  DESTINO.
+APERTURA DE DESPACHOS Y  RECIPIENTES 
+(OCA 3).
+GRABACIÓN DE ENVÍOS  (OCA 3) y CONFECCIÓN 
+DE RECIPIENTES.
+Los recipientes pueden ser sacas o  envíos al 
+descubierto, se pesan OCA 3.
+DOCUMENTACIÓN,  CIERRE DE RECIPIENTES  y 
+DESPACHOS (OCA 3).
+Imprimir documentos del despacho o
+recipiente y etiqueta del recipiente.
+CTI
+CTI
+CTI
+CTI
+CTI
+CTI
+• Paquetería UPU (Unión Postal Universal):
+ 
+–Readmisión de cada envío.
+ 
+–Preclasificación y clasificación por países de destino.
+
+[[ página 12 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+790
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–Apertura de despachos y recipientes.
+ 
+–Grabación de envíos y confección de recipientes.
+ 
+–Documentación, cierre de recipientes y despachos.
+ 
+–Escaneo de seguridad de todos los envíos que entren en la zona restringida previo a 
+la entrega a las compañías aéreas.
+• Paquetería Interconnect:
+ 
+–Readmisión de cada envío.
+ 
+–Preclasificación y clasificación por países de destino.
+ 
+–Apertura de despachos y recipientes.
+ 
+–Grabación de envíos y confección de recipientes.
+ 
+–Escaneo de seguridad de todos los envíos que entren en la zona restringida previo a 
+la entrega a las compañías aéreas.
+READMISIÓN DE CADA ENVÍO (OCA 3).
+Esta operación se realiza a la salida del envío del escáner.
+PRECLASIFICACIÓN Y CLASIFICACIÓN POR 
+PAÍSES DE DESTINO.
+APERTURA DE DESPACHOS Y RECIPIENTES 
+(OCA 3).
+GRABACIÓN DE ENVÍOS Y CONFECCIÓN
+DE RECIPIENTES (OCA 3). 
+Los recipientes pueden ser sacas o  envíos al descubierto, 
+se pesan OCA 3.
+DOCUMENTACIÓN, CIERRE DE RECIPIENTES
+Y DESPACHOS (OCA 3).
+Imprimir documentos del despacho o
+recipiente y etiqueta del recipiente.
+ESCANEO DE SEGURIDAD DE TODOS LOS ENVÍOS 
+QUE ENTREN EN LA ZONA RESTRINGIDA previo a la 
+entrega a las compañías aéreas.
+CCP
+CCP
+CCP
+CCP
+CCP
+CCP
+READMISIÓN DE CADA ENVÍO (OCA 3).
+Esta operación se realiza a la salida del envío 
+del escáner.
+PRECLASIFICACIÓN Y CLASIFICACIÓN POR 
+PAÍSES DE DESTINO.
+APERTURA DE DESPACHOS Y RECIPIENTES
+(OCA 3).
+GRABACIÓN DE ENVÍOS Y CONFECCIÓN
+DE RECIPIENTES (OCA 3). 
+Los recipientes pueden ser sacas o  envíos al 
+descubierto, se pesan OCA 3.
+ESCANEO DE SEGURIDAD DE TODOS LOS ENVÍOS 
+QUE ENTREN EN LA ZONA RESTRINGIDA previo a la 
+entrega a las compañías aéreas.
+CTI
+CTI
+CTI
+CTI
+CTI
+
+[[ página 13 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+791
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Entrega de expediciones:
+ 
+–Escaneado de seguridad de todos los recipientes.
+ 
+–Apertura de expediciones.
+ 
+–Grabación y carga de recipientes en contenedores (que son proporcionados por las 
+aerolíneas).
+ 
+–Documentación y cierre de expedición.
+ 
+–Entrega de correo y documentación.
+ESCANEO DE SEGURIDAD DE TODOS LOS 
+RECIPIENTES.
+APERTURA DE EXPEDICIONES (OCA 3).
+GRABACIÓN (OCA 3) y CARGA DE RECIPIENTES 
+EN CONTENEDORES.
+Los contenedores son proporcionados
+por las aerolíneas.
+DOCUMENTACIÓN y CIERREDE 
+EXPEDICIONES (OCA 3).
+Imprimir documentos del detalle de las expediciones y 
+de las entregas.
+ENTREGA CORREO Y DOCUMENTACIÓN.
+Las compañías de handling reciben y
+retiran bajo firma las expediciones.
+CTI
+CTI
+CTI
+CTI
+CTI
+B) Importación
+Procesos de:
+• Importación.
+• Recepción de expediciones:
+ – Llegada y depósito de expedi-
+ciones (aire y tierra): en el «lado 
+aire» las compañías aéreas de-
+positan los contenedores de 
+correspondencia y en el «lado 
+tierra» se reciben las expedicio-
+nes terrestres.
+ 
+–Lectura del MRD: en el «lado 
+aire», antes de empezar a des-
+consolidar el contenedor, hay
+
+[[ página 14 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+792
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+que leer el MRD y el vuelo en OCA, y cerrar leyendo el STOP una vez leídos todos los 
+recipientes. Se repite esta operación en cada contenedor.
+ 
+–Apertura de expediciones: automáticamente, mediante la lectura de uno de sus reci-
+pientes si la expedición está preavisada o introduciendo sus datos en el caso de que 
+no lo esté.
+ 
+–Lectura de todos los recipientes: mediante un lector óptico se registran todos los re-
+cipientes que forman la expedición.
+ 
+–Preclasificación por productos/prioridad: de forma simultánea a la lectura y descarga 
+de recipientes, estos se clasifican en jaulas o carros por productos/prioridad.
+LLEGADA Y DEPÓSITO DE
+EXPEDICIONES (Aire y Tierra).
+En el Òlado aire” las compañías aéreas depositan los
+contenedores de correspondencia y en el Òlado tierra” sereciben 
+las expediciones terrestres.
+LECTURA DEL MRD.
+En el Òlado aire”, antes de empezar a desconsolidar
+el contenedor hay que leer el MRD y el vuelo en OCA, 
+y cerrar leyendo el ÒSTOP” una vez leídos todos los  
+recipientes. Repetir esta operación en cada 
+contenedor.
+APERTURA DE EXPEDICIONES  (OCA 3).
+Automáticamente mediante la lectura de uno de sus
+recipientes si la expedición está preavisada o  
+introduciendo sus datos en el caso de que no lo esté.
+LECTURA DE TODOS LOS RECIPIENTES (OCA 3).
+Mediante lector óptico se registran todos los 
+recipientes que forman la expedición.
+PRECLASIFICACIÓN POR PRODUCTOS/PRIORIDAD.
+De forma simultánea a la lectura y descarga de 
+recipientesestos se clasifican en jaulas/carros por  
+productos/prioridad.
+CTI
+CTI
+CTI
+CTI
+CTI
+• Tratamiento de documentos:
+ 
+–Apertura de recipientes: los envíos EMS proceden de la preapertura de recipientes, 
+de los abiertos en el área mecanizable y de la propia apertura que aquí se realiza de 
+recipientes con categoría documentos ED.
+ 
+–Grabación de envíos.
+ 
+–Clasificación de envíos.
+ 
+–Levantar casilleros y embandejar envíos: los casilleros se levantan en función de la 
+hora de salida de las expediciones correspondientes y los envíos clasificados son 
+depositados en bandejas A/B/C.
+ 
+–Depositar la bandeja en la jaula correspondiente del SCP (Sistema de Clasificación de 
+Paquetería).
+
+[[ página 15 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+793
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Preapertura:
+ 
+–Apertura de recipientes.
+ 
+–Comprobación de preaviso: este proceso permite detectar recipientes sin preavisar 
+cuya apertura y tratamiento ha de realizarse directamente en máquina.
+ 
+–Retirar documentación: se procede a la obtención de toda la documentación de registro 
+y control que acompaña a los envíos en el interior de las sacas.
+ 
+–Vaciado de recipientes.
+ 
+–Preclasificación por productos/tamaño.
+ 
+–Ubicación en almacén de salida.
+APERTURA DE RECIPIENTES.
+Los envíos EMS proceden de la pre-apertura de recipientes, 
+delos abiertos en el área mecanizabley de la propia 
+apertura que  aquí se realiza de recipientes con categoría 
+documentos ED.
+GRABACIÓNDE ENVÍOS (OCA 3).
+GRABACIÓN DE ENVÍOS (SGIE).
+Los envíos son grabados mediante la opción de 
+TRÁNSITO / LECTURA MANUAL.
+CLASIFICACIÓN DE ENVÍOS.
+Los envíos son clasificados en casillero en función de su CTA 
+de destino.
+LEVANTAR CASILLEROS Y EMBANDEJAR 
+ENVÍOS.
+Los casilleros se levantan en función de la hora de salida 
+de las  expediciones correspondientes y los envíos 
+clasificados sondepositados en bandejas A/B/C.
+DEPOSITAR BANDEJA EN LA JAULA  
+CORRESPONDIENTE DEL SCP.
+Las bandejas son depositadas en la jaula de la salida del SCP 
+que corresponda a su destino.
+CCP
+CCP
+CCP
+CCP
+CCP
+CCP
+APERTURA DE RECIPIENTES.
+Se procede a la apertura del recipiente sin vaciar su 
+contenido.
+COMPROBACIÓN DE PREAVISO (OCA 3).
+Este proceso permite detectar recipientes
+sin preavisar cuya apertura y tratamiento ha de realizarse 
+directamente en máquina.
+RETIRAR DOCUMENTACIÓN.
+Se procede a la obtención de toda la documentación 
+de registro y control que acompaña a los envíos en el 
+interior de las sacas.
+VACIADO DE RECIPIENTES.
+Los recipientes preavisados son vaciados.
+PRECLASIFICACIÓN POR 
+PRODUCTOS/TAMAÑO.
+Los envíos contenidos se clasifican por productos y  tamaño 
+en jaulas o carros.
+UBICACIÓN EN ALMACÉN DE SALIDA.
+Una vez completados jaulas/carros, se colocan en almacén  
+de salida dispuestos para el posterior traslado y tratamiento
+automatizado de los envíos, ya sea en PD o SCP.
+CCP
+CCP
+CCP
+CCP
+CCP
+CCP
+
+[[ página 16 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+794
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• SCP (Sistema de Clasificación de Paquetería) - Tratamiento automatizado. Los procesos 
+automatizados requieren la intervención del personal de Correos para evitar o subsanar 
+cualquier tipo de incidencia:
+ 
+–Colocar envíos para grabar.
+ 
+–Grabación de envíos.
+ 
+–Recoger envíos en rampas de salida.
+ 
+–Reposición de jaulas/carros.
+ 
+–Imprimir cartel de encaminamiento: cada jaula/carro de encaminamiento vacío se ubica 
+en su salida correspondiente y se rotula con su propio cartel que se imprime desde 
+la propia salida.
+COLOCAR ENVÍOS PARA GRABAR.
+Ubicar envíos en la mesa de entrada a disposición del 
+grabador en la forma correcta para el procesamiento 
+automático.
+GRABACIÓN DE ENVÍOS.
+Registro de código de barras y/o código postal.
+RECOGER ENVÍOS  EN RAMPAS DE SALIDA.
+Se retiran y se colocan los envíos en su jaula/carro de 
+encaminamiento.
+REPOSICIÓN JAULAS/CARROS.
+Una vez completados las jaulas/carros de 
+encaminamiento, se retractilan, se retiran y se sustituyen 
+por elementos vacíos.
+IMPRIMIR CARTEL DE  ENCAMINAMIENTO.
+Cada jaula/carro de encaminamiento vacío  se ubica en su 
+salida correspondiente y se rotula con su propio cartel que 
+se imprime desde la propia salida.
+CCP
+CCP
+CCP
+CCP
+CCP
+• PD (Pequeño Dinámico) - Tratamiento automatizado:
+ 
+–Colocar envíos: depositar los envíos en la cinta transportadora con el código de barras 
+hacia abajo. No se podrán procesar aquellos que no cumplan las dimensiones del 
+marco de entrada.
+ 
+–Grabación del código postal: teclear el código postal de aquellos envíos que se deten-
+gan por no tenerlos preavisados.
+ 
+–Recoger los envíos en las rampas de salida: una vez completados las jaulas/carros 
+de encaminamiento se retiran, se sustituyen por elementos vacíos y estos se rotulan 
+con su cartel correspondiente.
+ 
+–Reposición de jaulas/carros.
+ 
+–Gestión de rechazo: los envíos rechazados serán analizados para proceder a un nuevo 
+tratamiento en el PD o dar traslado a SCP.
+
+[[ página 17 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+795
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Tratamiento de reembolsos:
+ 
+–Lectura de recipientes.
+ 
+–Grabación de envíos.
+ 
+–Asignar código interno: cada envío es reetiquetado con un nuevo código «interno» que 
+servirá para su curso y entrega en el circuito nacional, este código se registra en el 
+sistema.
+ 
+–Introducir datos: de cada envío se graban los datos que el sistema pueda requerir (peso 
+LECTURA DE RECIPIENTES  (OCA 3).
+Con la lectura de los las etiquetas de los recipientes se  recepcionan
+recipiente y expedición.
+GRABACIÓN DE ENVÍOS (OCA 3).
+Se proceden a dar de alta los envíos con la lectura de su código de 
+seguimiento de origen.
+ASIGNAR CÓDIGO  INTERNO (OCA 3).
+Cada envío es reetiquetadocon un nuevo
+código Òinterno” que servirá para su curso y entrega en el circuito 
+nacional, este código  se registra en el sistema.
+INTRODUCIR DATOS (OCA 3).
+De cada envío se graban los datos que el sistema pueda requerir 
+(peso del envío, remitente, destinatario, forma de pago).
+IMPRIMIR y ADHERIR DOCUMENTACIÓN (OCA3).
+Tras comprobar que los datos impresos coinciden con los del envío 
+se introducen enbolsa autoadhesiva que se adhiere junto con
+la indicación ÒIMPORTES A COBRAR”.
+COLOCAR EN JAULAS/CARROS.
+Los envíos se van colocando en jaulas/carros que, una vez  
+completados, se ubican en almacén de salida dispuestos para  su 
+posterior traslado y tratamiento automatizado.
+CCP
+CCP
+CCP
+CCP
+CCP
+CCP
+COLOCAR ENVÍOS.
+Depositar los envíos en la cinta transportadora con el  
+CÓDIGO DE BARRAS hacia ABAJO. No se podrán procesar 
+aquellos que no cumplan las dimensiones del  marco de 
+entrada.
+GRABACIÓN CÓDIGO POSTAL.
+Teclear el código postal de aquellos envíos que se detengan 
+por no tenerlos preavisados.
+RECOGER ENVÍOS EN RAMPAS  DE SALIDA.
+Se retiran y se colocan los envíos en su jaula/carro de 
+encaminamiento.
+Los productos son asignados a una u otra rampa en
+función de su prioridad.
+REPOSICIÓN JAULAS/CARROS.
+Una vez completados las jaulas/carros
+de encaminamiento se retiran, se  sustituyen por elementos 
+vacíos y estos  se rotulan con su cartel correspondiente.
+GESTIÓN DE RECHAZO.
+Los envíos rechazados serán analizados para proceder a un 
+nuevo tratamiento en el PD o dar traslado a SCP.
+CCP
+CCP
+CCP
+CCP
+CCP
+del envío, remitente, destina-
+tario, forma de pago).
+ 
+–Imprimir y adherir documenta-
+ción: tras comprobar que los 
+datos impresos coinciden con 
+los del envío, se introducen 
+en bolsa autoadhesiva que se 
+adhiere junto con la indicación 
+«Importes a cobrar».
+ 
+–Colocar en jaulas/carros: los 
+envíos se van colocando en 
+jaulas/carros que, una vez 
+completados, se ubican en el 
+almacén de salida, dispues-
+tos para su posterior traslado 
+y tratamiento automatizado.
+
+[[ página 18 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+796
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• SAS - Sistema de apertura de sacas:
+ 
+–Apertura de recipientes: los recipientes son abiertos y vaciados mediante grúas me-
+canizadas en la máquina de clasificación.
+ 
+–Retirar documentación: se procede a la obtención de toda la documentación de registro 
+y control que acompaña allí donde se detecte a lo largo de la máquina.
+ 
+–Separar por formatos o producto: se separan y se preclasifican los envíos en función 
+de su formato y producto en distintos recipientes: bandejas, arcones, carros, jaulas.
+ 
+–Consolidar recipientes de encaminamiento: se procede a la preparación del recipiente 
+para su transporte, se imprime y coloca su cartel de encaminamiento. Se retractila 
+la jaula.
+ 
+–Ubicación en almacén de salida.
+APERTURA DE RECIPIENTES.
+Los recipientes son abiertos y vaciados mediante grúas 
+mecanizadas en la máquina de clasificación.
+RETIRAR DOCUMENTACIÓN.
+Se procede a la obtención de toda la documentación de  
+registro y control que acompaña allí donde se detecte a lo 
+largo de la máquina.
+SEPARAR POR FORMATOS.
+Se separan y se preclasifican los envíos en función de  su 
+formato en distintos recipientes: bandejas, arcones,  carros, 
+jaulas.
+CONSOLIDAR RECIPIENTES DE 
+ENCAMINAMIENTO.
+Se procede a la preparación del recipiente para su 
+transporte, se imprime y coloca su cartel de  
+encaminamiento. Se retractila la jaula.
+UBICACIÓN EN ALMACÉN DE  SALIDA.
+Las jaulas/carros son dispuestos para su posterior  traslado a 
+su almacén correspondiente.
+CTI
+CTI
+CTI
+CTI
+CTI
+CLASIFICACIÓN.
+Los envíos son clasificados por destinos. Son  depositados 
+en bandejas ÒC”.
+CONSOLIDACIÓN.
+Las bandejas ÒC” con los envíos clasificados se consolidan 
+en carros o paletsrotulados a los respectivos destinos.
+UBICACIÓN EN ALMACÉN DE SALIDA.
+Una vez completados los carros o paletsse colocan en 
+almacén de salida dispuestos para su posterior
+encaminamiento a destino.
+REPOSICIÓN.
+Reponer elementos completos por vacíos.
+IMPRIMIR y ROTULAR.
+Imprimir y rotular con cartelería de encaminamiento 
+los paletso carros vacíos al sustituir los completados.
+CI3
+CI3
+CI3
+Ci3
+Ci3
+• Clasificación manual ordinario no IPC:
+ 
+–Clasificación: los envíos son clasi-
+ficados por destinos. Son deposi-
+tados en bandejas C.
+ 
+–Consolidación: las bandejas C con 
+los envíos clasificados se consoli-
+dan en carros o palets rotulados a 
+los respectivos destinos.
+ 
+–Ubicación en almacén de salida.
+ 
+–Reposición.
+ 
+–Imprimir y rotular: imprimir y ro-
+tular con cartelería de encamina-
+miento los palets o carros vacíos 
+al sustituir los completados.
+
+[[ página 19 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+797
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Grabación por voz y clasificación manual PME:
+ 
+–Grabación por voz: se dicta el código postal o país de destino de los envíos, etiquetan-
+do solo aquellos con código de seguimiento defectuoso para lectura óptica en SCG.
+ 
+–Consolidación.
+ 
+–Imprimir y rotular.
+ 
+–Ubicación en almacén: una vez completados los carros o arcones, se colocan en el 
+almacén, dispuestos para su posterior curso por el SCG.
+ 
+–Reposición.
+• SCG - Tratamiento automatizado (prime-certificados-ordinarios no IPC):
+ 
+–Vestir la máquina: colocar bandeja o cajón gris en función del mapa de salidas del 
+programa cargado.
+ 
+–Posicionar las jaulas: posicionar jaulas en la zona de alimentación. Comprobar que el 
+producto puede ser alimentado en el programa activo.
+ 
+–Alimentar envíos: alimentar los envíos en la cinta con el código postal o código de 
+encaminamiento hacia arriba.
+ 
+–Renovar rampas llenas: cuando una rampa con cajón gris se llena, se imprime y co-
+loca el cartel, y se sustituye por uno vacío. Cuando se llena una bandeja, se imprime 
+y coloca la etiqueta de agrupación, y se empuja la bandeja al carril central de raíles. 
+Se sustituye la bandeja.
+ 
+–Clasificar en el difusor: las bandejas llenas terminan en el difusor de salida. Hay que 
+clasificarlas en el RIN de destinos y consolidar en carros.
+GRABACIÓN POR VOZ.
+Se dicta el código postal o país de destino de los envíos, 
+etiquetando sólo aquellos con código de seguimiento  
+defectuoso para lectura óptica en SCG.
+CONSOLIDACIÓN.
+Los envíos son depositados directamente sobre bandejas  C 
+o arcones. Las bandejas se consolidan en carros para su
+posterior paso por el SCG.
+IMPRIMIR y ROTULAR.
+Imprimir y rotular con cartelería de encaminamiento 
+los carros o arcones al completarse.
+UBICACIÓN EN ALMACÉN.
+Una vez completados los carros o arcones, se colocan en 
+el almacén dispuestos para su posterior curso
+por el SCG.
+REPOSICIÓN.
+Reponer elementos completos por vacíos.
+CI3
+CI3
+CI3
+CI3
+CI3
+
+[[ página 20 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+798
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Rampa 7
+La edificación del centro internacional Rampa 7 es un proyecto estratégico para las acti-
+vidades de logística internacional del Grupo. La puesta en marcha de esta infraestructura 
+aumentará la eficiencia en la gestión de las mercancías de importación en el Aeropuerto 
+Adolfo Suárez Madrid-Barajas. Además, permitirá que el actual centro de tratamiento inter-
+nacional (CTI) ubicado en este aeródromo se especialice en operaciones de exportación. 
+El centro Rampa 7 ocupará una superficie total de 12.542 metros cuadrados, que estarán 
+dedicados íntegramente al correo internacional de importación y contará con la última 
+tecnología para la gestión de cargas, clasificación, seguimiento y control de los envíos.
+Se ha puesto especial atención a la sostenibilidad en esta infraestructura: se han instalado 
+paneles solares para la obtención de energía fotovoltaica, así como tecnología geotérmica, 
+un sistema que permite un intercambio de energía con el terreno para calentar o enfriar el 
+agua y que se utilizará para la climatización de la zona de oficinas. También se ha insta-
+lado un aljibe para la reutilización de aguas pluviales, tanto para riego como para agua de 
+descarga de las cisternas de los aseos. Los tragaluces orientados al norte y las lamas en 
+el muro cortina permiten el control de la radiación solar, al mismo tiempo que posibilitan 
+tener una iluminación con luz natural.
+Las máquinas previstas contarán con tres subsistemas integrados: 
+• uno para la clasificación automática de paquetes y bandejas, 
+• otro para pequeños paquetes, el formato más habitual de los envíos de e-commerce, y 
+• un sistema para la clasificación y almacenaje de sacas. 
+VESTIR LA MÁQUINA.
+Colocar bandeja o cajón gris en función del  mapa de salidas 
+del programa cargado.
+POSICIONAR JAULAS.
+Posicionar jaulas en la zona de alimentación. Comprobar 
+que el producto puede ser alimentado en el programa  
+activo.
+ALIMENTAR ENVÍOS.
+Alimentar los envíos en la cinta con el código  postal o 
+código de encaminamiento hacia arriba.
+RENOVAR RAMPAS LLENAS.
+Cuando una rampa con cajón gris se llena, imprimir y  
+colocar cartel, y sustituir por uno vacío. Cuando se llena  una 
+bandeja, imprimir y colocar etiqueta de agrupación, y  
+empujar la bandeja al carril central de raíles. Sustituir la 
+bandeja.
+CLASIFICAR EN EL  DIFUSOR.
+Las bandejas llenas terminan en el  difusor de salida. Hay 
+que clasificarlas en el RIN de destinos y  consolidar en carros.
+CI3
+CI3
+CI3
+CI3
+CI3
+
+[[ página 21 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+799
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Habrá equipos que tendrán una capacidad de clasificación de hasta 20.000 objetos por hora.
+La clasificadora de paquetes y bandejas dispondrá de 59 rampas de salida, mientras que la 
+de envíos e-commerce tendrá 104 rampas. Ambas instalaciones permitirán que los envíos 
+salgan clasificados tanto hacia el Centro de Tratamiento Automatizado de destino como a 
+las unidades de distribución específicas, listos para su reparto.
+En la nave se dispondrá de un sistema de gestión y almacenamiento de ULD (contenedores 
+para carga aérea) y de elementos para recibir contenedores de transporte terrestre, con 
+cinta telescópica y volcador de contenedores.
+Adicionalmente contará con un silo para el almacenamiento de envíos sujetos a algún tipo 
+de tramitación aduanera o inspección por parte de las autoridades aduaneras.
+8.3. Red de transporte de Correos 
+8.3.1. Red interzonal
+Es un conjunto de redes de ámbito nacional por las que se transportan envíos postales entre 
+alguna de las siete áreas territoriales de Correos: noroeste, norte, noreste, este, centro, 
+sur e insular.
+1. Red Estrella origen Madrid.
+
+[[ página 22 de 100 · ocr ]]
+
+TEMA 8. Procesos operativos Il: Tratamiento y Transporte
+
+OCÉANO
+ATLÁNTICO
+) y > py MAR
+j ( a H MEDITERRÁNEO
+bt ar
+— Almerl -
+Cádiz mts e : o y -
+OCÉANO A pe
+ATLÁNTICO SN
+Santa Cruz de Tenerife Lo Pelos / N ARGELIA
+MARRUECOS (
+2. Red Abanico origen Barcelona.
+j
+| FRANCIA
+) SS “AT, a
+La Coruña (
+AAA |
+Pontevedra Navarra A,
+y Gerona
+y Barcelona
+1 -
+OCÉANO )
+ATLÁNTICO P
+J halos Baleares
+É
+¿ MAR
+MEDITERRÁNEO
+/
+. e NS
+OCÉANO 7 Ceuta A
+ATLÁNTICO / q A
+A ) Y ARGELIA
+MARRUECOS |
+
+3. Red Transversal.
+
+800 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 23 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+801
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Ejemplo Red Zonal en Área Noreste.
+Está estructurada por los siguientes componentes:
+• Red en estrella con origen Madrid: une Madrid con todos los CTA y otros centros perifé-
+ricos de Correos.
+• Red en abanico con origen Barcelona: une Barcelona con la mayoría de los CTA y otros 
+centros periféricos de Correos.
+• Red transversal: une los CTA periféricos, sin pasar por Madrid o Barcelona.
+8.3.2. Red zonal
+Son redes de ámbito zonal por las que se transportan envíos postales entre CTA o centros 
+de una misma área territorial.
+8.3.3. Red provincial
+Son redes de ámbito provincial de ida y vuelta, que conectan las oficinas de Correos de 
+cada provincia con su CTA de referencia.
+
+[[ página 24 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+802
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+8.3.4. Red local
+Redes de ámbito local que recogen buzones y grandes clientes o conectan oficinas, sucur-
+sales o centros dentro de la misma localidad.
+Ejemplo Rutas Red Provincial Bilbao.
+Ejemplo ruta Red Local Sevilla.
+
+[[ página 25 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+803
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+8.4. Equipamiento postal en centros de tratamiento
+8.4.1. Vehículos de Transporte Interno (VTI)
+A continuación se ofrece una lista de los VTI utilizados en los Centros de Tratamiento, con 
+información básica que es fundamental conocer tanto si se trabaja directamente con ellos 
+como si no:
+• Apilador eléctrico de elevación de un metro
+ 
+–Máquina eléctrica utilizada en los centros de tratamiento para el traslado de palets, 
+jaulas, contenedores y carros con superficies de apoyo para el descanso lumbar del 
+operario.
+ 
+–Capacidad de carga de 1.600 kg.
+• Transpalet eléctrico
+ 
+–La principal diferencia entre los apiladores y el transpalet eléctrico es que con los api-
+ladores se puede elevar y apilar la carga, mientras que con el transpalet no es posible 
+elevar la carga, solo desplazarla.
+ 
+–Hay dos tipos de transpalet eléctrico: sin plataforma o con plataforma.
+• Carretilla elevadora eléctrica (toro)
+ 
+–Máquina eléctrica utilizada en los centros para el traslado de palets, jaulas, contene-
+dores y carros en CTA.
+ 
+–Normalmente se utiliza para la traslación de unidades de carga de gran peso o para 
+elevar los elementos en altura.
+ 
+–Por sus dimensiones no es útil en lugares pequeños ni en la descarga de la mayoría 
+de los camiones.
+Apilador eléctrico
+Transpalet eléctrico
+Carretilla elevadora eléctrica
+• Transpaleta manual
+ 
+–Equipo para el traslado manual de palets y contenedores plegables reutilizables. 
+ 
+–Utilizado en centros, oficinas, USES y UROS donde el espacio es reducido.
+
+[[ página 26 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+804
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Apilador manual
+ 
+–Equipo de traslado manual de palets, jaulas, con-
+tenedores y carros, utilizado en centros, oficinas 
+y demás unidades donde el espacio es pequeño.
+ 
+–Está específicamente diseñada para la descarga 
+de carros dirigidos a las unidades. 
+ 
+–En los centros, este apilador levanta hidráulica-
+mente el peso, lo que facilita las labores del ope-
+rario en el tratamiento de los envíos.
+SIBAS (sistema de intercambio de baterías)
+Existen dos tipos:
+• SIBAS apiladores o transpaletas eléctricas con trans-
+feridor. 
+• SIBAS apiladores o transpaletas eléctricas sin trans-
+feridor. 
+Transpaleta manual.
+Apilador manual.
+Principales ventajas de los SIBAS:
+• Importante reducción de costes de compra en VTI.
+• Importante reducción de costes de mantenimiento de VTI.
+• Optimización y reducción de espacios ocupados.
+• Carga más rápida y consumo más eficiente.
+• Se asegura el uso continuo de VTI en los procesos logísticos al tener siempre una batería 
+de repuesto cargada.
+Con el sistema de intercambio de baterías, cada vehículo:
+• cuenta con más de una batería,
+• no queda inmovilizado y
+• se carga la batería sin el vehículo.
+
+[[ página 27 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+805
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+8.4.2. Elementos logísticos asociados al transporte
+El conocimiento de los siguientes elementos logísticos asociados al transporte es parte 
+importante del trabajo del personal de Correos vinculado al área de «tratamiento y trans-
+porte». No todos los elementos son susceptibles de ser utilizados en cualquier proceso ni 
+con cualquier fin dentro de cada centro de tratamiento.
+Carro transportador
+• Características: es un elemento dinámico para el transporte y rotación del correo en los diver-
+sos procesos logísticos. Nunca es un elemento estático de almacenamiento de la unidad/
+centro/cliente. Los carros transportadores se usan preferentemente para el curso del correo 
+de los centros de tratamiento a las UROS, USES y Oficinas. (Rines provinciales y locales).
+• Dimensiones: 1,20 п 0,60 п 1,75 m.
+• Peso en vacío:
+ 
+–Sin kit: 54 kg.
+ 
+–Con kit: 62 kg.
+• Capacidad:
+Capacidad
+TIPO A
+TIPO B
+TIPO C
+Bandeja llena
+40
+20
+10
+Bandeja vacía
+100
+80
+40
+Envíos al descubierto
+1 m3, aproximadamente, en el transporte de paquetería
+Jaula
+• Características: elemento de contenerización dinámico para el transporte de la paquetería 
+voluminosa e irregular y el Publicorreo al corte con destino nacional exclusivamente para 
+el flujo entre los centros de tratamiento. La componen tres lados cerrados y uno abierto 
+con tres eslingas de sujeción. El excedente de jaulas vacías se retornará diariamente a 
+Madrid y Barcelona.
+• Dimensiones: 1,20 п 1,0 п 1,8 m.
+• Peso en vacío: 128 kg.
+• Capacidad: 2 m3.
+Envíos al descubierto
+Sin kit
+Con kit
+RING 1 (UR)
+
+[[ página 28 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+806
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Contenedor plegable paquetería
+• Características: es un elemento indispensable para la configuración automática de la 
+SCG en la contenerización de los productos de formato menor. De fácil retorno al volver 
+plegado, hace que este elemento permita reducir importantes costes en el transporte 
+respecto a otros elementos. Se utiliza en el flujo entre centros de tratamiento y entre el 
+centro y las unidades de reparto con mucho volumen.
+• Dimensiones:
+ 
+–Plegado: 1,0 п 1,0 п 0,4 m.
+ 
+–Extendido: 1,0 п 1,0 п 1,10 m.
+• Capacidad: 1 m3.
+Cartones retractiladores
+• Características: es un elemento para contenerización de paquetería y devoluciones pa-
+quetería grandes clientes. Existen dos modelos.
+• Dimensiones:
+ 
+–Altos N.º SAP 404761: 800 п 1.200 п 1.600 mm.
+ 
+–Bajos N.º 412341: 760 п 1.160 п 900 mm.
+• Capacidad: 1 m3.
+• Los cartones retractiladores se devolverán plegados y sin romper diariamente a Madrid 
+y Barcelona.
+
+[[ página 29 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+807
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Bolsas de rafia extragrandes
+• Características:
+ 
+–Elemento de contenerización para los envíos clasificados en las SCG con destino 
+provincial/local.
+ 
+–La elección de los destinos provinciales y locales que se contenerizan en bolsas de 
+rafia extragrande corresponde al centro una vez analizados los volúmenes. El objetivo 
+es sustituir a la bandeja C fundamentalmente para la contenerización de PQ (paquetería 
+estándar) que por su formato es poco eficiente con esta contenerización (al llenarse la 
+bandeja con 2 o 3 envíos) y sustituir al contenedor plegable reutilizable para aquellos 
+destinos provinciales y UR en los que no se complete un contenedor.
+• Dimensiones: 700 п 550 п 450 mm.
+• Peso: 1.850 g.
+Bandeja tipo A
+• Características: bandeja bicolor de uso interno en tratamiento de correspondencia nor-
+malizada. La bandeja incorpora en sus caras laterales dos asideros integrados en la 
+estructura, también dispone de dos flips encajados en su parte superior que sirven para 
+apilar las bandejas y cerrar las tapas.
+• Dimensiones:
+ – Largo: 426,5 mm.
+ – Ancho: 282,5 mm.
+ – Profundo: 152 mm.
+ – Espesor: 2,5 mm.
+• Capacidad: 13 litros.
+• Este tipo de bandeja se utiliza principalmente en:
+ – El tratamiento automatizado (IRV y FSM) del correo normalizado.
+Optimización de las rutas de transportes, en cada 
+carro caben 4 bolsas.
+Facilidad de 
+retorno desde 
+las unidades al 
+devolverlas dia-
+riamente vacías 
+y plegadas.
+•
+
+[[ página 30 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+808
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–Correo internacional prioritario de exportación normalizado, tarjetas postales y CCRI 
+formato pequeño.
+ 
+–En el Manual UPO y UPR para envíos formato menor y aquellos destinos con poco 
+volumen.
+Esta bandeja azul se utiliza exclusivamente para el curso del correo internacional 
+de importación formato normalizado automatizable en el CTA de Madrid a los 
+centros de destino.
+Bandeja tipo B
+• Características: bandeja bicolor de uso interno en tratamiento de correspondencia no nor-
+malizada automatizable y no automatizable. La bandeja incorpora en sus caras laterales 
+dos asideros integrados en la estructura, también dispone de dos flips encajados en su 
+parte superior que sirven para apilar las bandejas y cerrar las tapas. 
+• Dimensiones:
+ 
+–Largo: 425,5 mm.
+ 
+–Ancho: 282,5 mm.
+ 
+–Profundo: 291,5 mm.
+ 
+–Espesor: 2,5 mm.
+• Capacidad: 26 litros.
+• Este tipo de bandeja se utiliza principalmente en:
+ 
+–El tratamiento automatizado del correo no normalizado (FLAT). 
+ 
+–El tratamiento del correo no normalizado manual (UPO y UPR).
+ 
+–Correo internacional prioritario de exportación formato no normalizado.
+Bandeja tipo C
+• Características: bandeja bicolor de uso interno en tratamiento de correspondencia. La 
+bandeja incorpora en sus caras laterales dos asideros integrados en la estructura, también 
+dispone de dos flips encajados en su parte superior que sirven para apilar las bandejas 
+y cerrar las tapas. 
+• Dimensiones:
+ 
+–Largo: 426,5 mm.
+ 
+–Ancho: 565 mm.
+ 
+–Profundo: 291,5 mm.
+ 
+–Espesor: 3,5 mm.
+• Capacidad: 60 litros.
+• Este tipo de bandeja se utiliza principalmente en:
+ 
+–El tratamiento del correo formato gordo, paquetería formato menor y los envíos clasi-
+ficados automáticamente en la SCG.
+
+[[ página 31 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+809
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Sacas para buzón cilíndrico
+• Características: bandeja bicolor de uso interno en tratamiento de correspondencia. 
+La bandeja incorpora en sus caras laterales dos asideros integrados en la estructura, 
+también dispone de dos flips encajados en su parte superior que sirven para apilar 
+las bandejas y cerrar las tapas.
+• Dimensiones:
+ 
+–Alto: 700 mm.
+ 
+–Perímetro: 1.400 mm.
+• Material: tejido de poliamida en color blanco y con el logo de Correos serigrafiado en azul.
+Palet europeo
+• Características: unidad de carga de madera, modulable con jaulas y carros. 
+• Dimensiones: 1,20 п 0,80 m.
+• Peso en vacío: 14 kg.
+• Capacidad: 1 m3.
+• El palet de madera como elemento multiuso y sustitutivo de jaulas se utiliza para:
+ 
+–Almacenar bandejas vacías.
+ 
+–Curso de bandejas llenas y paquetería a otros centros, USE y URO donde sea posible 
+su descarga.
+ 
+–Entrega de devoluciones a clientes.
+Palet plástico europeo
+• Características: unidad de carga modulable con jaulas y carros. 
+• Dimensiones: 1,20 п 0,80 m.
+• Capacidad: 1 m3.
+• Uso para el curso de la paquetería con formato regular y manual.
+Palet plástico americano
+• Características: unidad de carga para contenerizar bandejas. 
+• Dimensiones: 1,20 п 1,00 m.
+Palet europeo
+Palet plástico europeo
+
+[[ página 32 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+810
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Capacidad: 1 m3.
+• El palet americano de plástico se utilizará para 
+cada uno de los CTA y para cada uno de los 
+siguientes productos en bandejas:
+ – Normalizado automatizable.
+ – Flat.
+ – Manual.
+ – IPC importación.
+8.4.3. Mobiliario y equipamiento
+Conocer y familiarizarse con todo tipo de mobiliario y equipamiento adicional de los centros 
+de tratamiento es necesario para el desarrollo de cada una de las tareas asignadas al per-
+sonal destinado a estos procesos. 
+Carro portabandejas grande
+• Características: carro diseñado en sus dimensiones para portar hasta tres bandejas tipo 
+A y B en ancho, tanto en el estante superior como en el inferior. 
+• Se utiliza como elemento auxiliar en área manual y mesas de apertura, UPO y UPR.
+• Dimensiones: 1.055 п 480 п 1.032 mm.
+• Material: fabricado en acero inoxidable mate.
+Carro portabandejas pequeño
+• Características: carro diseñado en sus dimensiones para portar hasta dos bandejas tipo 
+A y B en ancho, tanto en el estante superior como en el inferior. 
+• Se utiliza como elemento auxiliar en área manual y mesas de apertura, UPO y UPR.
+• Dimensiones: 730 п 480 п 1.032 mm.
+• Material: fabricado en acero inoxidable mate.
+Expositor de bandejas
+• Características: elemento diseñado para el despliegue de las bandejas en los procesos de 
+clasificación manual UPO y UPR. 
+• Se pueden utilizar con tres o cuatro baldas, según el tipo de bandeja a desplegar.
+• Dimensiones: 
+ 
+–Alto: 1.032 mm.
+ 
+–Ancho inferior: 720 mm.
+ 
+–Ancho superior: 300 mm.
+ 
+–Largo: 1.250 mm.
+• Material: fabricado en acero inoxidable mate.
+
+[[ página 33 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+811
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Casilleros CN50
+• Clasificación manual de correo normalizado y AR.
+Casilleros CNN50
+• Clasificación manual de correo no normalizado.
+Portamapas
+Los portamapas tienen como principal función la colo-
+cación de un mapa de clasificación tamaño DIN A3 en los expositores portabandejas y 
+casilleros, para una correcta clasificación, evitando malos encaminamientos.
+Robot retractilador eléctrico
+• Características:
+ 
+–Máquina para el retractilado de palets con 
+carga.
+ 
+–Su uso consiste en posicionarla junto al pa-
+let, colocar el primer film en el palet y accio-
+narla. El robot solo se encarga de dar vueltas 
+alrededor del palet e ir subiendo el film para 
+cubrir el palet en perímetro y en altura.
+ 
+–Para su funcionamiento necesita una superficie libre alrededor del palet de 1.150 mm 
+a la redonda.
+ – Tiene alimentación eléctrica y posee tanto la batería como su cargador dentro de la mis-
+ma máquina, de modo que para recargar la batería basta con enchufarla a una toma de 
+corriente.
+EXPOSITOR N.º 1 TARDE
+CTA SANTIAGO
+15 CORUÑA
+27 LUGO
+32 ORENSE
+36 PONTEVEDRA
+CTA OVIEDO
+33
+CTA VALLADOLID
+05 ÁVILA
+09 BURGOS / 24 LEÓN
+34 PALENCIA
+37 SALAMANCA
+40 SEGOVIA
+47 VALLADOLID
+49 ZAMORA
+CTA BILBAO
+48
+CTA VITORIA
+01 ÁLAVA
+16 LA RIOJA
+20 GUIPÚZCOA
+39 CANTABRIA
+CTA ZARAGOZA
+22 HUESCA
+31 NAVARRA
+42 SORIA
+44 TERUEL
+40 ZARAGOZA
+CTA COLÓN
+BARCELONA CIA
+080 xx
+CTA SAN CUGAT
+BARCELONA PROV
+08 xxx
+CTA SAN CUGAT
+BCN RESTO ZONA
+17 GIRONA
+25 LLEIDA
+43 TARRAGONA
+CTA MADRID
+MADRID CIA
+280 xx
+CTA MADRID
+MADRID PROVINCIA
+28 xxx
+CTA MADRID CLM
+02 ALBACETE
+13 CIUDAD REAL
+16 CUENCA
+19 GUADALAJARA
+45 TOLEDO
+
+[[ página 34 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+812
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Film para retractilar a máquina
+• Peso máximo bobina: 17 kg.
+• Ancho: 500 mm. 
+Film para retractilar a mano
+• Peso máximo bobina: 3 kg.
+• Ancho: 500 mm. 
+Canceladora eléctrica de alta producción
+• Características:
+ 
+–Máquina eléctrica utilizada para cancelar signos 
+de franqueo y estampar en los sobres franqueo 
+pagado en oficina.
+ 
+–La máquina admite sobres normalizados C5 con 
+un espesor menor de 6 mm.
+ 
+–La velocidad de cancelado es de 13.000 cartas 
+a la hora.
+ 
+–El suministro incluye una mesa con un lateral regulable en altura que posibilita la co-
+locación de una bandeja a la salida.
+Estación generadora de etiquetas (EGES) 
+• Características: equipamiento para generar de forma automática las etiquetas de todas 
+las bandejas de tratamiento manual UPO y UPR.
+8.5. Procesos de trabajo en las áreas de un centro 
+de tratamiento
+Se inicia aquí la presentación del esquema de tratamiento de los productos objeto de gestión 
+en Correos. El camino desde las áreas y unidades se mostrará de la manera más sencilla 
+y didáctica posible con el fin de que, al final del apartado, el lector pueda crearse un mapa
+
+[[ página 35 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+813
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+mental que englobe todo el proceso y, a la vez, tenga claras las divisiones de tratamiento 
+necesarias según tipo de producto, áreas geográficas de procedencia y destino.
+El conocimiento de cada área, unidad, herramienta de trabajo... es fundamental para el 
+desarrollo de la tarea asignada a cada persona y, finalmente, para la prestación de un 
+servicio de calidad al cliente de Correos.
+8.5.1. Áreas de los centros
+La cadena postal se representa gráficamente de la siguiente manera:
+Las áreas dentro de un centro de 
+tratamiento se dividen en tres uni-
+dades perfectamente sincroniza-
+das y conectadas para el correcto 
+funcionamiento del centro.
+/DFDGHQDSRVWDOHQORV&HQWURVGH7UDWDPLHQWR
+$'0,6,v1
+75$7$0,(172
+75$163257(
+',675,%8&,v1
+&7$
+&7$
+&73
+5HFRJLGDD
+FOLHQWHV
+8$0
+86(6
+8526
+2ILFLQDV
+&7$
+&73
+86(6
+8526
+2ILFLQDV
+
+[[ página 36 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+814
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+A) Unidad de productos ordinarios (UPO)
+Es la unidad dentro de un centro de tratamiento encargada de la clasificación automática y 
+manual de los productos ordinarios (sin trazabilidad en los sistemas de Correos), así como la 
+admisión y clasificación de cartas certificadas y notificaciones normalizadas automatizables.
+En las áreas de unidades de productos ordinarios se diferencian dos grandes áreas: 
+• El área de clasificación automática.
+• El área de clasificación manual.
+B) Unidad de productos registrados (UPR)
+La UPR es la unidad dentro de un centro de tratamiento encargada de la clasificación 
+automática y manual, grabación en SGIE y encaminamiento de los productos registrados
+
+[[ página 37 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+815
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+NOTA. Una parte importante de los resultados del CTA dependen única y exclusiva-
+mente del correcto funcionamiento de la Zona Logística.
+Los puntos críticos relacionados con la organización, el orden y la limpieza son:
+• Agilizar y gestionar eficientemente la descarga de vehículos en horarios punta.
+• Agilizar y gestionar eficientemente el escáner y su traslado a las distintas unidades 
+para su tratamiento. 
+• Cumplimiento estricto de las normas de seguridad y prevención de riesgos laborales 
+en el manejo de manipulación de cargas.
+• Carga de vehículos: comprobar el destino de etiqueta con el destino de la ruta de 
+transporte para evitar malos encaminados que hacen perder calidad en un impor-
+tante número de envíos, complica las operaciones y genera un nuevo coste de 
+transporte.
+• Optimizar la capacidad del transporte y respetar el horario de salida de las conduc-
+ciones, evitando retrasos injustificados. 
+• Respetar los mapas de carga establecidos para cada ruta y la prioridad de los 
+productos.
+• Mantener la zona limpia y ordenada.
+Por último, los principios básicos en esta zona son:
+• El indicador porcentual del correo automatizable sobre el total tratado debe ser en 
+cada CTA un indicador de máxima prioridad.
+• La decisión de qué correo es automatizable reside en el sector de la alimentación 
+de la máquina y no en otras unidades.
+• El tratamiento manual del correo en los centros de tratamiento automatizable debe 
+ser residual, esto requiere que:
+ 
+–Se analice previamente el correo que se va a alimentar, se vigile la alimenta-
+ción y se avise al técnico de Dominion si baja el porcentaje óptimo de lectura, 
+limpieza, configuraciones…
+ 
+–Exista una labor comercial con los clientes a nivel zonal.
+(con trazabilidad en los sistemas de Correos) a otros centros de 
+tratamiento o a las correspondientes unidades de reparto, USES 
+u oficinas.
+Dentro de la UPR, se distinguen dos grandes áreas: 
+• Área de clasificación automática.
+• Área de clasificación manual.
+
+[[ página 38 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+816
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+C) Zona logística
+Es la unidad dentro de un centro de tratamiento por donde entran y salen todos los pro-
+ductos para su tratamiento automatizado o manual. Las funciones que se desarrollan son:
+• Control de entrada.
+• Descarga de vehículos.
+• Control de seguridad por escáner.
+• Traslado de las cargas a UPR y UPO.
+• Consolidación de cargas.
+• Almacén de salida.
+• Carga de vehículos.
+El área logística es, seguramente, la parte más importante de un centro, y contribuye nota-
+blemente a los resultados de estos:
+• Se comprueba que los envíos que se introduzcan en la cadena logística son seguros.
+• En su zona de admisión se establece contacto con los mayores clientes de Correos.
+• Es la zona que marcará (con su fluidez y agilidad) las ventanas horarias de las que dis-
+pondrán las unidades de tratamiento (UPO y UPR) para el tratamiento de los productos 
+con la calidad comprometida.
+• Los errores de encaminamiento en la zona logística no afectan a un envío, sino que afec-
+tarán a todos los contenidos de jaulas, carros, bandejas, etc.
+• De ella depende la optimización de las rutas de transporte.
+• La integridad de los envíos depende en gran medida del tratamiento que hayan recibido 
+durante el proceso en esta zona.
+8.5.2. El área de producción: la Unidad de Productos  
+Ordinarios (UPO)
+El CTA está integrado por dos unidades de producción: la unidad de productos ordinarios 
+(UPO) y la unidad de productos registrados (UPR).
+
+[[ página 39 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+817
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+La UPO es la unidad dentro de un centro de tratamiento encargada de la clasificación auto-
+mática y manual de los productos ordinarios (sin trazabilidad en los sistemas de Correos), 
+así como de la admisión y clasificación de cartas certificadas y notificaciones normalizadas 
+automatizables.
+Dentro de la UPO, se distinguen dos grandes áreas:
+A)  Área de clasificación automática:
+• FC (buzones).
+• Línea de envío normalizado IRV + FSM.
+• Línea de envío no normalizado TOP – FLAT.
+• SCG/SCP (Sistema de Clasificación de Paquetería) envíos con CB.
+B)  Área de clasificación manual:
+• Se trabaja IPC, básica, Publicorreo, valijas, publicaciones periódicas, devuelto…
+• Se organiza atendiendo al destino final de los envíos (internacional, nacional, zonal, 
+provincial y local).
+9
+NORMALIZADO
+NO NORMALIZADO/ FLAT
+GORDO
+
+[[ página 40 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+818
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+La clasificación se realiza según tamaño y dimensión:
+• Normalizado: contenedor pequeño A.
+• No normalizado/FLAT: contenedor mediano B.
+• Gordo: contenedor A, B o C.
+En la UPO los procesos dependerán de cada área:
+• En el área de clasificación automática: preparación, alimentación, videocodificación y 
+evacuación.
+Productos que se trabajan en la UPO
+• En el área de clasificación manual: clasificación y evacuación.
+PRACA
+PREPARACIÓN
+ALIMENTACIÓN
+VIDEOCODIFICACIÓN
+EVACUACIÓN
+CLASIFICACIÓN
+EVACUACIÓN
+Carta nacional
+Carta internacional, importación y exportación
+
+[[ página 41 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+819
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Tarjeta postal nacional
+Tarjeta postal internacional
+Distribución internacional
+CCRI
+Publibuzón
+Publicorreo Premium, óptimo y plus
+Libros, periódicos y publicaciones periódicas
+Valijas
+Cartas certificadas automatizables
+Notificaciones automatizables
+Todas las cartas certificadas y las notificaciones automatizables con PEE se gestionan en la UPO, las no 
+automatizables se gestionan manualmente en la UPR.
+
+[[ página 42 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+820
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Puntos críticos en la UPO
+A) Productividad, eficacia y eficiencia
+Se buscará adecuar el funcionamiento de máquinas y personas al número de envíos dispo-
+nibles en cada momento y a la ventana horaria.
+Las entradas de correo en cuanto a número de envíos y horarios pueden considerarse algo 
+cíclico, que se repite asiduamente, por lo que se puede disponer de un cronograma de fun-
+cionamiento de máquina que permita optimizar el funcionamiento de la misma.
+B) Puntos críticos
+• Prioridad en la alimentación IRV por origen del correo:
+ 
+–Prioridad 1: IPC, buzones y oficinas.
+ 
+–Prioridad 2: correo de UMA.
+• Gestionar con agilidad el vídeo y el rechazo priorizando siempre el rechazo de buzones 
+y oficinas.
+• Evacuar el correo con la antelación suficiente a la salida de las rutas, prestando especial 
+atención a la rotulación de carros y bandejas para evitar errores de encaminamiento. 
+Especial atención en la evacuación de la FSM.
+C) Eficiencia y calidad
+La efectividad se mide por los resultados conseguidos:
+
+[[ página 43 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+821
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+DISCIPLINA Y
+HÁBITO
+ATENCIÓN AL ERROR
+GESTIÓN DEL TIEMPO Y
+CUMPLIMIENTO DE LAS
+TAREAS
+IMPLICACIÓN
+EN LA TAREA
+INICIATIVA
+Áreas de la UPO
+A) El área de clasificación automática en la UPO
+A.1. Principios básicos
+Las claves para ganar en eficiencia de automatización son, principalmente, tres:
+• Tratar automáticamente todos los envíos susceptibles de automatización con origen o 
+destino en todo el ámbito territorial del CTA.
+• Gestionar correctamente las configuraciones automáticas (programas, lay out, inciden-
+cias, etc.).
+• Una vez gestionadas las incidencias, minimizar el número de envíos a tratar manualmente, 
+tratando de convertir el proceso manual en algo residual.
+Son dos los principios básicos que se deben contemplar:
+1. A priori, todo el correo es susceptible de automatización.
+2. Los operarios del sector de alimentación de las configuraciones de automatización deci-
+den el correo que pasa por máquina. En ningún caso se decide en los procesos previos.
+ÁREA MANUAL
+ZONA LOGÍSTICA
+ÁREA DE 
+CLASIFICACIÓN 
+AUTOMÁTICA
+NO DECIDEN
+DECIDEN
+MENOR TIEMPO DE FUNCIONAMIENTO = MAYOR PRODUCTIVIDAD
+
+[[ página 44 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+822
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Estos principios tienen sentido cuando el tratamiento de los flujos automatizables se rea-
+liza con la anticipación suficiente para que el centro pueda cumplir los objetivos fijados, 
+contemplando el resto de procesos.
+Dentro del centro de tratamiento, el circuito de envíos ordinarios se resume en:
+A.2. Configuraciones
+En este apartado se van a introducir las áreas de clasificación automática en 
+la Unidad de Productos Ordinarios (UPO). La información se presenta siguiendo 
+un patrón similar al utilizado hasta ahora. Se hablará de cuatro áreas: FC (facia-
+dora, canceladora), línea de normalización IRV y FSM, línea de no normalizado 
+TOP-FLAT y, por último, sistema de clasificación de gordo. Dentro de cada una 
+de estas cuatro áreas, se detallará la información necesaria sobre aspectos 
+como preparación, alimentación, evacuación, cancelación, etc.
+
+[[ página 45 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+823
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• FC (faciadora, canceladora): se alimenta exclusivamente del correo de buzones y sin 
+cancelar de oficinas.
+La FC es la configuración automática encargada de faciar y cancelar el correo con sello 
+procedente de buzones y oficinas. En todos los CTA hay FC excepto en el CTA de Oviedo 
+y en el de Tenerife.
+Alimentación:
+1. El correo preparado se meterá por el alimentador secundario.
+2. El correo sin preparar:
+a) Se volcará.
+b) Se revisará el fondo de las sacas y se comprobará que no queda ningún envío.
+c) Se comprobarán los tamaños y tipos de objetos que caen en la bañera y se retirará:
+–  Correo menor que el normalizado (135 п 85 п 0,15 mm).
+–  Correo muy fino, inconsistente.
+–  Correo mayor que B5 (250 п 176 п 6 mm).
+–  Correo con grosor mayor de 6 mm.
+–  Correo rígido o irregular.
+–  Sobres de plástico.
+–  Envíos abiertos.
+–  Objetos no postales (carteras, DNI, encendedores, etc.).
+El objetivo es segregar de forma manual el formato automatizable del no automatizable 
+(irregular) con el objetivo de derivar al alimentador de la FC los envíos automatizables para 
+su alimentación y cancelado y los no automatizables a la mesa de cancelado manual.
+No hace falta encarar en la bañera los envíos automatizables ya que la FC se encarga de 
+faciarlos durante la alimentación y el cancelado.
+Glosario
+Faciar: Es la acción 
+de colocar todas las 
+cartas encaradas 
+por el anverso, 
+donde va la dirección 
+del destinatario y el 
+sello de franqueo, 
+para facilitar la 
+cancelación o 
+matasellado e 
+inutilización de los 
+sellos de Correos.
+
+[[ página 46 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+824
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Durante la clasificación:
+1. Comprobar que la máquina tiene un porcentaje de reconocimiento correcto y una buena 
+productividad (piezas/hora).
+2. Utilizar la función «¿Por qué no está listo?» en caso de parada de la máquina para poder 
+resolver lo antes posible la incidencia. Intentar solucionar los atascos/averías y, en 
+caso de que no se pueda, avisar al jefe de equipo para su conocimiento.
+Evacuación:
+Es importante la rápida evacuación de los apiladores:
+ 
+–Los apiladores de formato normalizado pasarán a la cabecera de la IRV.
+ 
+–El apilador de formato no normalizado pasará a la cabecera TOP.
+ 
+–El correo con la indicación «por avión» sale al apilador 1 de la FC y se traslada al área 
+de manual con prioridad.
+ 
+–Los apiladores de rechazo se analizan y clasifican en el área manual.
+ 
+–El formato gordo que sale por culling se cancela a mano y se traslada al área manual.
+Cancelación manual en centros sin FC: los centros sin FC utilizan canceladoras de media-
+na producción o rodillo manual para cancelar el correo con sello.
+Mesa de formateo y cancelación manual
+
+[[ página 47 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+825
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Línea de normalización IRV y FSM:
+ 
+–IRV:
+-  40.000 cartas a la hora.
+-  Admisión de certificados y notificaciones. 
+-  Lee las direcciones y las indexa.
+-  56 apiladores.
+-  Las bandejas de vídeo se priorizan y se reali-
+mentan una vez videoindexadas.
+ 
+–FSM:
+-  35.000 cartas a la hora.
+-  Clasifica las cartas en profundidad (400 api-
+ladores).
+-  Solo lee el código de barras puesto por la IRV.
+-  Esta máquina se alimenta de las bandejas que salen de los apiladores a programa 
+en la IRV.
+El correo automatizable tiene las siguientes características:
+ – Normalizado IRV + FSM:
+- Peso: entre 2 y 20 gramos.
+- Espesor: entre 0,15 y 5 milímetros.
+- Altura: entre 85 y 176 milímetros.
+- Longitud: entre 135 y 250 milímetros.
+ – Formato C5:
+- Peso: entre 2 y 50 gramos.
+- Espesor: entre 0,15 y 5 milímetros.
+- Altura: 162 milímetros.
+- Longitud: 229 milímetros.
+ – Otras características del correo automatizable:
+- No contiene ningún material rígido (madera, chapa, etc.).
+- No es demasiado fino o inconsistente.
+- No va cerrado con grapas o clips.
+- No es permeable al aire (sobres con aperturas laterales).
+- No tiene contenido irregular.
+- No lleva ningún código de indexación de máquina.
+-  No es correo devuelto (excepto en el programa de devuelto por logos en IRV), aviso 
+de recibo, reexpedido.
+- No es un envío mal encaminado con código de barras.
+
+[[ página 48 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+826
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+– IRV, normalizado automatizable:
+Productos que se deben tratar en la configuración de normalizado:
+- Línea básica normalizada.
+- Línea económica normalizada.
+- IPC de importación normalizado + C5.
+- Envíos devueltos normalizados de todas las líneas.
+- Certificados normalizados + C5.
+- Admisión de certificados normalizados + C5.
+Preparación
+1. Preparar la máquina: ordenar la mesa de alimentación; poner bandejas A en los apila-
+dores; colocar carros o palets para depositar bandejas llenas.
+2. Seleccionar programas de clasificación: nacional, zonal, provincial, local.
+3. Comprobar si hay correo pendiente para alimentar en IRV.
+
+[[ página 49 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+827
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+1. Coger la bandeja/caja 
+del carro/palet y colocar-
+la en la parte derecha del 
+alimentador con la parte 
+amarilla a la derecha.
+2. Volcar las cartas siempre 
+bien pegadas a la zona in-
+terior del alimentador con 
+el anverso de la carta a la 
+derecha.
+3. Quitar la etiqueta de la 
+bandeja y colocar la ban-
+deja vacía en el carro.
+4. Alinear las cartas en el ali-
+mentador. «Picar» el correo 
+con código o dirección par-
+cialmente ocultos.
+5. Ajustar el correo a la 
+parte interior del alimen-
+tador, sujetándolo con la 
+pala de color negro.
+6. Extraer del alimentador 
+las cartas «no aptas» que 
+puedan originar paradas o 
+roturas.
+7. Abrir el mando del ali-
+mentador, girando la lla-
+ve a la derecha. Como 
+resultado, la luz del ali-
+mentador se tiene que 
+apagar.
+8. Realizar un control conti-
+nuo en la pantalla del por-
+centaje de reconocimiento, 
+parar la alimentación y avi-
+sar al jefe de equipo cuan-
+do sea inferior al 70 %.
+9. Utilizar la función «¿Por 
+qué no está listo?» en 
+caso de parada de má-
+quina para poder resol-
+ver lo antes posible la 
+incidencia. Intentar so-
+lucionar los atascos/
+averías y, en caso de 
+que no se pueda, avisar 
+al jefe de equipo para su 
+conocimiento.
+10. Comprobar periódica-
+mente el tratamiento de 
+videocodificación de los 
+envíos que han salido por 
+el apilador video off para 
+su realimentación.
+11. Parametrizar (señalar 
+ventanilla) al correo pro-
+cedente de admisión 
+masiva con ventanilla 
+en el lado izquierdo y 
+remite en el derecho.
+12. El carro lleno de bande-
+jas vacías pasará a los 
+puestos de evacuación 
+de la máquina y los ca-
+rros vacíos, a su almacén 
+correspondiente.
+Alimentación: una IRV bien alimentada significa menos rechazos y más productividad.
+
+[[ página 50 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+828
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Evacuación
+1. Etiquetar las bandejas 
+una vez estén completas.
+2. Prestar la máxima atención 
+a las luces de aviso del 
+«apilador casi lleno» para 
+evitar el paso a excedencia 
+de los envíos.
+3. Prestar la máxima aten-
+ción en la evacuación de 
+las bandejas a los carros 
+de transporte y colocar 
+las cintas de contención 
+en los carros correspon-
+dientes.
+4. Colocar siempre los envíos 
+levantados con el anverso 
+mirando hacia el lado ama-
+rillo de la bandeja y el sello 
+en la parte superior.
+5. Controlar y separar los 
+apiladores técnicos (ví-
+deo, rechazo y exceden-
+cia) y colocarlos en el 
+carro correspondiente.
+6. Prestar especial atención 
+a la alimentación del flujo 
+de video off al finalizar los 
+turnos.
+En el turno de tarde hay que vigilar y evacuar de forma inmediata y de manera continua:
+ 
+–Rechazo IRV (buzones y oficinas) y trasladarlo inmediatamente a los puestos de cla-
+sificación manual de normalizado para su tratamiento.
+ 
+–El correo internacional prioritario de exportación y trasladarlo a los puestos de clasifi-
+cación manual de correo IPC exportación.
+Admisión y clasificación de certificados y notificaciones SICER
+1. Se activa el modo de trabajo 3, dejando activada la videocodificación.
+2. Se selecciona el programa que corresponda: 
+nacional, zonal, provincial o local.
+3. Entrar en «Opciones» (pestañas superiores) 
+y desactivar la lectura de códigos 2D (dos 
+dimensiones). Confirmar que se mantiene ac-
+tiva la lectura del CB 1D (una dimensión).
+
+[[ página 51 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+829
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+4. Entrar en «Opciones/Información del cliente» y rellenar:
+ 
+– Codired de la Unidad de Admisión (el que venga en el albarán).
+ 
+– Número de cliente: se toma de la carta física: 8 caracteres que siguen a las letras 
+del tipo de producto. 
+ 
+– Número de contrato: se toma de la copia del albarán.
+ 
+– Número de anexo: este campo se dejará en blanco.
+5. Se alimentan todas las cartas de la remesa. Si se observa que el apilador 1 (rechazo 
+por código de barras) se llena masivamente, se interrumpirá la alimentación de envíos 
+y no se continuará con el Control de Admisión. En este caso se avisará al responsable 
+de la UAM para que anule futuras planificaciones de control.
+6. Las cartas videocodificadas se podrán ir alimentando normalmente por la máquina 
+sin necesidad de haber cerrado el ciclo de trabajo.
+7. Se comprobará en el apilador correspondiente si existen envíos rechazados por no leer-
+se el código de barras. Si han quedado envíos sin posibilidad de control, se informa a la 
+unidad de masiva para que se traten de solucionar las incidencias en futuros depósitos.
+8. Las cartas del apilador 5 son en las que la IRV no ha reconocido el código de barras. 
+Esas cartas se llevan de nuevo a la cabecera de máquina. 
+Se pincha en «Opciones/Lectura manual» y se utiliza la pistola o el teclado (en este 
+caso introduciendo el literal del código) para leer el código de barras de cada carta. 
+Una vez leídos todos los códigos, en cartas singularizadas deberá aparecer el número 
+total de cartas de la remesa (las leídas por máquina más las leídas con pistola).
+Las cartas del apilador 5, en Madrid apilador 1 (rechazo por código de barras), solo 
+pueden ser tratadas a mano en la máquina donde se ha realizado su tratamiento en 
+modo control de admisión o mediante la lectura en SICER en la opción control manual.
+9. Si todo es correcto, se cierra el ciclo y se abre otro con el modo Normal. Después, 
+se realimentan por máquina las cartas leídas manualmente, de forma que se puedan 
+clasificar a destino con el resto.
+Claves para la eficiencia en la admisión y tratamiento del correo certificado en IRV:
+ 
+– Conseguir la clasificación de los envíos al mismo tiempo que se realiza su admisión.
+ 
+– Correcto segregado en UPR de envíos automatizables:
+-  Tamaño normalizado.
+-  Tamaño C5.
+-  Con A/R apto para tratamiento automático.
+ 
+– Elección correcta de la ventana de tratamiento:
+-  Tiempo muerto de IRV:
+› Turno de tarde: prioridad flujo nacional.
+› Turno de noche: prioridad flujo provincial/zonal.
+-  Con tratamiento en calidad.
+
+[[ página 52 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+830
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–Apoyo a las tareas manuales en UPR: Flujos sin salida directa preclasificados para 
+apoyo a tratamiento manual de UPR.
+Sala de videocodificación: en la sala de videocodificación se reciben las imágenes de 
+las cartas que no han tenido lectura en la IRV y los operarios introducen el código postal 
+de destino.
+ 
+–Mayor productividad: tratamiento online.
+ 
+–Gestionar el flujo por prioridades:
+ 
+–Buzones y oficinas.
+ 
+–Masiva.
+ 
+–Protocolo de comunicación con comercial para flujos de grandes clientes con proble-
+mas de lectura.
+ 
+–Concentración de la videocodificación de la zona en un único CTA zonal.
+Correo devuelto IRV: las cartas ordinarias y Publicorreo normalizado devuelto de gran-
+des clientes se clasifican automáticamente en las IRV de los centros de tratamiento. 
+En el programa de devueltos de IRV, la máquina clasifica por logos del cliente. Para 
+conseguir un grado óptimo en la clasificación, hay que mantener actualizados los logos 
+y analizar el rechazo.
+Claves para la eficiencia en el tratamiento del correo devuelto:
+ 
+–Concentrando todo el correo devuelto de tamaño normalizado de la zona en un único 
+CTA zonal, excepto CTA insulares.
+ 
+–Analizando diariamente el rechazo por logos y porcentaje de envíos clasificados a cada 
+cliente.
+ 
+–Confeccionando un segundo programa de logos en caso necesario.
+ 
+–Mantener actualizada permanentemente la base de logos. 
+ 
+–Programas dinámicos que requieren actualizaciones permanentes.
+ 
+–Estructura del anverso del sobre de correspondencia normalizada para poder automa-
+tizar los envíos en el programa devuelto de logos.
+ 
+–El logo debe colocarse en el anverso del envío en el ángulo superior o inferior izquierdo. 
+ 
+–Los logos de color rojo la máquina no los detecta bien.
+ 
+– FSM, normalizado automatizable. 
+Los envíos clasificados en IRV con destino zonal, provincial y local y los recibidos de 
+las IRV de otros centros pasan a la FSM para clasificación a sección de reparto.
+
+[[ página 53 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+831
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Alimentación
+1. Comprobar que la eti-
+queta del carro coincida 
+con el programa que se 
+va a clasificar y que lo 
+primero a alimentar es 
+el correo con origen en 
+oficinas y buzón.
+2. Coger bandeja del carro y 
+colocar el lado amarillo a la 
+derecha. Volcar las cartas 
+siempre bien pegadas a 
+la zona interior del alimen-
+tador. Comprobar que el 
+correo está encarado, con 
+el anverso de la carta a la 
+derecha.
+3. Ajustar el correo a la 
+parte interior del alimen-
+tador, sujetándolo con la 
+pala de color negro.
+4. Depositar la bandeja va-
+cía en el carro dispuesto 
+una vez alimentados los 
+envíos, sin etiqueta y con 
+el color amarillo mirando al 
+frente. 
+5. Arrancar la máquina pul-
+sando el botón de «Pues-
+ta en Marcha».
+6. Abrir el mando del alimen-
+tador, girando la llave a la 
+derecha.
+7. Comprobar que la má-
+quina tiene un porcen-
+taje de reconocimiento 
+correcto y una buena 
+productividad (velocidad 
+piezas/hora).
+8. Atender a las paradas de la 
+máquina. Utilizar la función 
+«Por qué no está listo».
+9. Intentar solucionar los 
+atascos/averías. Avisar 
+al jefe de equipo cuando 
+se detecte un funciona-
+miento anormal o avería.
+10. Colaborar con la opera-
+ción de rearme y puesta 
+en marcha de la máquina.
+11. El carro lleno de bande-
+jas vacías se traslada a 
+la zona de alimentación 
+de bandejas de reposi-
+ción.
+12. Los carros vacíos se de-
+positan en el almacén 
+para la evacuación de la 
+máquina.
+
+[[ página 54 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+832
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Evacuación
+1. Antes de poner la máqui-
+na en funcionamiento, 
+colocar todas las ban-
+dejas A en los casilleros 
+con el lado amarillo en 
+la parte frontal. Impri-
+mir las etiquetas de las 
+bandejas pulsando en el 
+botón blanco de los api-
+ladores de salida.
+2. Prestar máxima atención a 
+las luces amarillas de avi-
+so de «apilador casi lleno» 
+para evitar el paso a exce-
+dencia de los envíos y rea-
+limentar inmediatamente la 
+excedencia.
+3. Prestar máxima atención 
+en la evacuación de los 
+casilleros apiladores, 
+fijándose siempre en el 
+número del casillero y 
+del contenedor de la es-
+tantería.
+4. Colocar siempre los envíos 
+con el anverso mirando ha-
+cia el lado amarillo de la 
+bandeja y con el sello en 
+la parte superior.
+5. Controlar y separar el ca-
+sillero A1 (rechazo fuera 
+de programa) y entre-
+garlo al jefe de equipo. 
+Controlar y separar el 
+casillero B1 (rechazo de 
+periféricos) para determi-
+nar el proceso de clasifi-
+cación.
+6. Preclasificar las bandejas 
+en los carros y colocar las 
+eslingas de contención 
+para evitar que se caiga la 
+carga.
+• TOP 2000 (FLAT):
+ 
+–7.500 cartas a la hora por alimentador.
+ 
+–2 alimentadores por línea.
+ 
+–Número de destinos a clasificar 240/320.
+ 
+–Clasifica el correo no normalizado.
+ 
+–Esta máquina saca el correo a destino en bandejas ya etiquetadas, por 
+lo que hay que alimentar de correo y bandejas B.
+
+[[ página 55 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+833
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Configuración línea de no normalizado TOP (FLAT)
+CARACTERÍS
+DEL CORRE
+NORMALIZ
+Características del correo no normalizado:
+ 
+–Peso óptimo: hasta 800 gramos.
+ 
+–Altura: entre 90 y 238 milímetro.
+ 
+–Espesor óptimo: entre 0,5 y 20 milímetros. Longitud: entre 140 y 380 milímetros.
+ 
+–No contiene ningún material rígido (madera, chapa, etc.).
+ 
+–No tiene contenido irregular.
+ 
+–No lleva ningún código de indexación de máquina.
+ 
+–No es correo devuelto, reexpedido o mal encaminado.
+Preparación
+1. Encaminar a la mesa de preparación de la alimentación en la máquina TOP (FLAT) todo 
+el correo normalizado que llega al centro.
+2. Almacenar el correo que tiene que ser preparado antes de su tratamiento en máquina.
+3. Antes de iniciar el turno, cargar la máquina de bandejas B hasta que el semáforo se apa-
+gue. No obstante, cuando esté en fase verde, podrá comenzar la alimentación de correo.
+
+[[ página 56 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+834
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+4. Los contenedores utilizados serán bandejas tipo B y se introducirán en el circuito sin 
+etiquetas manuales, con los flips color amarillo hacia abajo y hacia atrás según el 
+avance de la cinta.
+5. Depurar el correo FLAT automatizable del que no lo es.
+6. Encarar y limpiar de gomas o flejes el correo FLAT automatizable.
+Puesta en funcionamiento
+Alimentación
+1. Faciar los envíos y alimentar por formatos (C-5 
+y FLAT).
+2. Colocar los envíos de manera que la parte in-
+ferior y derecha queden ajustados al fondo y 
+lateral del alimentador y ligeramente inclina-
+dos hacia atrás.
+3. «Picar» el correo con formato irregular y con 
+bloque de dirección parcialmente oculto.
+4. Ante cualquier duda por formato, alimentar. No 
+obstante, si se tratase de muchos envíos, pro-
+bar primero con una muestra y actuar según 
+el resultado.
+5. Los realimentados de video off deben ser in-
+troducidos con el mismo faciado con que han 
+sido recogidos.
+
+[[ página 57 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+835
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+6. Retirar periódicamente de la máquina los envíos procedentes de las salidas de culling 
+para faciar y realimentar a continuación.
+7. Controlar periódicamente el nivel de lectura y la recirculación.
+8. Avisar al jefe de equipo en caso de averías, para su control.
+9. Colaborar en la resolución de atascos en línea de alimentación.
+10. Una vez vaciado el contenedor, deberá introducirse en la rampa de alimentación de 
+bandejas situada a la izquierda del alimentador de correo.
+Alimentación de bandejas
+Hay que controlar las existencias de bandejas dentro de la máquina a través de los 
+luminosos:
+ 
+–Naranja: alimentar urgentemente.
+ 
+–Verde: alimentar en breve.
+ 
+–Apagado: existencias suficientes.
+Alimentación de envíos
+1. Sacar de la bandeja/caja el correo y colocarlo en el alimentador. Comprobar que:
+ 
+–Los envíos no superen en altura la marca de la pala de color negro que sujeta los 
+envíos.
+ 
+–El correo está pegado hacia la parte interior del alimentador y sujeto con la pala de 
+color negro para facilitar el reconocimiento del bloque de dirección.
+ 
+–El correo está encarado, con el anverso de la carta hacia la entrada de la máquina. 
+No debe estar ni muy apretado ni demasiado separado.
+2. Comprobar que la máquina tiene un porcentaje de reconocimiento correcto 
+y una buena productividad (velocidad piezas/hora).
+3. Utilizar la función «Lista de fallos» en caso de parada de máquina para poder 
+resolver lo antes posible la incidencia. Intentar solucionar los atascos y, en 
+caso de que no se pueda, avisar al jefe de equipo para su conocimiento.
+4. Visualizar la «Pantalla de Realimentación» para comprobar la hora del último 
+bloque de videocodificación y ver si se puede hacer la realimentación del vídeo.
+
+[[ página 58 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+836
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Evacuación
+Alrededor de la mesa de evacuación 
+se dispondrán dos tipos de alma-
+cenes:
+ 
+–Operativos: situados en la parte 
+interna y frontal para los elemen-
+tos auxiliares y para el correo 
+que requiera de nuevo algún tipo 
+de tratamiento.
+ 
+–Logísticos: situados en la parte 
+externa para el correo de salida 
+directa a la zona logística.
+Almacén operativo en la zona de 
+evacuación
+ 
+–El carro de video off se llena-
+rá con dieciséis contenedores 
+colocados de abajo arriba y de 
+izquierda a derecha, según el or-
+den de salida. Una vez comple-
+tos, los carros de video off serán 
+numerados para su fácil identifi-
+cación a la hora de realimentar-
+los y llevarlos a su almacén.
+ 
+–El carro de excedencia se llenará 
+con un máximo de ocho contene-
+dores. Posteriormente se trasla-
+dará nuevamente a la zona de 
+alimentación.
+ 
+–El carro de reciclo irá al almacén 
+de alimentación correspondiente.
+
+[[ página 59 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+837
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+El sistema evacua las bandejas que están llenas
+F U N C I O N E S D E L
+J E F E D E
+E Q U I P O
+1.- Lanzar la evacuación por rutas desde IHM botón
+DESPATCH
+2.- Lanzar la evacuación por rutas desde IHM botón FIN
+DE SESIÓN
+Evacuación durante la EXPLOTACIÓN
+Evacuación al
+SALIR UNA RUTA
+Evacuaciónal FINALIZAR EL
+PROGRAMA DE
+CLASIFICACIÓN
+ 
+–El carro de manual/IPC se llenará con un máximo de ocho contenedores. Posterior-
+mente se trasladará al área de tratamiento manual.
+ 
+–El palet de bandejas vacías irá a su almacén correspondiente.
+Evacuación de bandejas
+Almacén logístico en la zona de evacuación
+ 
+–Los carros completos procedentes de los almacenes logísticos serán trasladados a 
+los almacenes de salida situados junto al pasillo de circulación.
+ 
+–Dichos carros irán rotulados según rines de la zona logística.
+ 
+–Finalidades:
+
+[[ página 60 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+838
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+-  Evitar la acumulación de carros en el almacén logístico.
+-  Facilitar la identificación de la carga a evacuar y la circulación dentro del área de 
+producción interfiriendo lo menos posible con el resto de los procesos.
+-  Añadir valor al producto tratado al quedar preclasificado para la zona logística.
+Lay out evacuación
+Se recicla
+¿QUÉ?
+¿CUÁNDO?
+RechazoCulling
+Varias veces durante el turno
+Excedencia
+Justo antes de levantar el programa
+Reciclo a programas
+Al iniciar el turno
+Video off
+Cuando indique la pantalla Refeed
+
+[[ página 61 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+839
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Etiquetado
+Lahoradelaetiquetaindica
+aproximadamentelahora
+de generacióndelúltimo
+envíodepositadoenla
+bandeja.
+Ubicación
+Bandejas en carros
+colocadas según orden
+de generación.
+Reciclo
+Se reciclarán bandejas con hora de
+generación anterior al «objeto más
+antiguo».
+Gestión video offline
+Sala de vídeo: el jefe de turno realizará una gestión permanente.
+ 
+–Mayor eficacia del proceso: tratamiento online.
+ 
+–Operativa:
+-  Priorización de flujos a través de alimentación selectiva.
+-  Priorización de imágenes por máquina de tratamiento.
+ 
+–Asignación nominal de puestos: mismo ordenador para cada operario.
+ 
+–Controles de calidad y productividad: funciones disponibles.
+• SCG y SCP envíos con CP:
+ 
+–SCG:
+-  Prestación: 7.000-10.000 envíos a la hora.
+ 
+–SCP:
+-  Prestación: 2.500-6.000 envíos 
+a la hora.
+
+[[ página 62 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+840
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+B) El área de clasificación manual en la UPO
+El indicador en porcentaje del correo automatizable sobre el total tratado 
+debe ser, en cada CTA, un indicador de máxima prioridad. La decisión de 
+qué correo es automatizable reside en el sector de la alimentación de la 
+máquina y no en otras unidades.
+El tratamiento manual del correo en los centros de tratamiento automa-
+tizable debe ser residual, esto requiere:
+• Analizar previamente el correo que se vaya a alimentar, vigilar la ali-
+mentación y avisar al técnico de Dominion si baja el porcentaje óptimo 
+de lectura, limpieza y configuraciones.
+• Labor comercial con los clientes a nivel zonal.
+B.1. Objetivos:
+• Reducción de costes: los procesos manuales son los que más costes de recursos generan 
+en un centro, de ahí la necesidad de hacerlos lo más eficientemente posible.
+• Optimización de espacios: los casilleros y expositores son polivalentes teniendo en cuenta 
+las prioridades de clasificación en cada turno (noche: correo IPC y normalizado) y debe 
+trabajarse en todos los turnos, para evitar acumulaciones.
+• Orden y limpieza: se debe mantener en todo momento el orden y limpieza en la zona propia 
+de clasificación como en los distintos almacenes establecidos (por fechas).
+• Optimización del transporte: se clasifica a unidades SGIE, es decir, oficinas técnicas y 
+UR (bandejas más llenas).
+• Homogenización de los procesos que no requieren de especialistas, manual UPR = ma-
+nual UPO.
+• Eficiencia:
+ 
+–Se reducen los rines de clasificación a dos primarios con los destinos que más cargan 
+y un ring secundario para cada provincia con los destinos que menos cargan (el mayor 
+porcentaje de correo solo se toca una vez, como máximo, dos).
+ 
+–Dentro de cada ring, los destinos zonales se ordenan por código postal de izquierda a 
+derecha y de menor a mayor (no requiere especialistas), para que cualquier empleado 
+de nueva incorporación pueda realizar esta tarea con agilidad.
+ 
+–Como norma general, la clasificación del correo normalizado se llevará a cabo en ca-
+sillero mientras que el formato FLAT y el gordo, directamente a bandeja situada en el 
+expositor por ser más eficiente.
+B.2. ¿Cuál es el origen del correo manual?
+El correo que debe clasificarse de forma manual puede tener su origen en seis circunstan-
+cias diferentes:
+• El correo de rechazo IRV con origen en buzones y oficinas.
+• El correo de rechazo de FLAT.
+
+[[ página 63 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+841
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• El correo que las personas que preparan y alimentan las máquinas consideran que no 
+es automatizable.
+• Formato gordo.
+• Correo mal encaminado y reexpedido.
+• Correo devuelto sin logo o rechazado en la IRV en el programa de devueltos.
+B.3. Equipamiento del área de clasificación manual en la UPO:
+• Como norma general el correo manual no normalizado y gordo se clasifica directamente a bandeja en el expositor.
+Normalizado
+No Normalizado
+Gordo
+EXPOSITOR
+BANDEJA A
+BANDEJA B
+BANDEJA C
+CONTENEDORES
+PLEGABLES
+• El correo manual normalizado no automatizable se clasifi-
+ca en CN50 o directamente a la bandeja del expositor en 
+centros con poco volumen.
+• Portamapas.
+CN 50
+Normalizado
+• Carros/Portabandejas.
+• EGE: equipamiento para generar de forma automática las 
+etiquetas de todas las bandejas de tratamiento manual.
+
+[[ página 64 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+842
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Carros transportadores o palets para el depósito de bandejas clasificadas a distribuir en la 
+zona logística.
+B.4. Destinos nacionales en la clasificación manual
+En el siguiente cuadro se representa de manera esquemática la información sobre los des-
+tinos nacionales de clasificación manual, siguiendo la división por áreas y descendiendo al 
+detalle de las provincias dependientes de cada CTA con su correspondiente código postal.
+DESTINOS NACIONALES DE CLASIFICACIÓN MANUAL EN CTA UPO
+Área
+Centros
+Rotulación
+Provincias dependientes
+Códigos postales
+Noroeste
+CTA Santiago
+CTA Santiago
+La Coruña, Lugo, Orense y Pontevedra
+15, 27, 32 y 36
+CTA Valladolid
+CTA Valladolid
+Avila, Burgos, León, Palencia, Salamanca, 
+Segovia, Valladolid y Zamora
+05, 09, 24, 34, 37, 40, 
+47 y 49
+CTA Oviedo
+CTA Oviedo
+Asturias
+33
+Norte
+CTA Vitoria
+CTA Vitoria
+Álava, Guipúzcoa, La Rioja y Cantabria
+01, 20, 26 y 39
+CTA Zaragoza
+CTA Zaragoza
+Huesca, Navarra, Soria, Teruel y Zaragoza
+22, 31, 42, 44 y 50
+CTA Bilbao
+CTA Bilbao
+Vizcaya
+48
+Noreste
+CTA San Cugat
+CTA San Cugat
+Barcelona provincia, Gerona, Lérida y Tarragona
+080, 17, 25 y 43
+CTA Colón
+CTA Colón
+Barcelona capital
+08x
+Centro
+CTA Madrid
+CTA Madrid
+Albacete, Ciudad Real, Cuenca, Guadalajara, 
+Madrid y Toledo
+02, 13, 16, 19, 28 y 45
+CTA Mérida
+CTA Mérida
+Badajoz y Cáceres
+06 y 10
+Este
+CTA Valencia
+CTA Valencia
+Castellón y Valencia
+12 y 46
+CTA Alicante
+CTA Alicante
+Alicante y Murcia
+03 y 30
+CTA Baleares
+CTA Baleares
+Baleares
+7
+Sur
+CTA Sevilla
+CTA Sevilla
+Cádiz, Córdoba, Huelva y Sevilla
+11, 14, 21 y 41
+CTA Granada
+CTA Granada
+Almería, Granada y Jaén
+04, 18 y 23
+CTA Málaga
+CTA Málaga
+Málaga, Ceuta y Melilla
+29, 51 y 52
+Insular
+CTA Las Palmas
+CTA Las Palmas
+Gran Canaria
+35
+CTA Tenerife
+CTA Tenerife
+Tenerife
+38
+
+[[ página 65 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+843
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+B.5. Estructura de los rines
+• Ring primario (4 expositores - 2 con-
+vertibles). Máximo 48 destinos.
+ – TM/TT: 2 expositores de nacional 
++ 2 expositores de área con des-
+tinos que más cargan.
+ – TN: los dos expositores de nacio-
+nal se convierten en los siguien-
+tes X destinos que más cargan.
+Los expositores 1 y 2 de los rines 
+primarios son polivalentes (destinos 
+nacionales/destinos zonales).
+• Ring secundario (uno por provincia, 
+con los expositores necesarios).
+ 
+–Resto de destinos que no se en-
+cuentran en el ring primario.
+Los destinos zonales se ordenarán siempre por el código postal de izquierda a derecha 
+y de menor a mayor. Las bandejas de manual UPO no se tapan ni se flejan para ningún 
+destino.
+8.5.3. El área de producción: la Unidad de Productos 
+Registrados (UPR)
+La UPR es la unidad dentro de un centro de tratamiento encargada de la clasificación 
+automática y manual, grabación en SGIE y encaminamiento de los productos registrados 
+(con trazabilidad en los sistemas de Correos) a otros centros de tratamiento o a las corres-
+pondientes unidades de reparto, USES u oficinas.
+Dentro de la UPR, se distin-
+guen dos grandes áreas:
+• El área de clasificación 
+automática.
+• El área de clasificación 
+manual.
+En una unidad de productos 
+registrados cada área tiene 
+sus respectivos procedimien-
+tos de clasificación.
+
+[[ página 66 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+844
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Productos que se trabajan en la UPR
+A) Origen de los productos recibidos en la UPR
+• Oficinas. Los productos de la UPR, así como la manera de llegar clasificados y rotulados a los 
+centros, están establecidos en el documento Clasificación y Rotulación por zonas en Conecta.
+ 
+–Centros sin SCG:
+-  Mesa nacional urgente.
+-  Registrado normalizado.
+-  Registrado no normalizado.
+-  Registrado devuelto.
+-  Todos los productos.
+ 
+–Centros con SCG y SCP:
+-  Paquetería de formato menor.
+-  Paquetería de formato mayor.
+• Unidades de distribución (USE y URO). De estas unidades solo se reciben avisos de recibo, 
+correo mal encaminado y reexpedido, así como correo devuelto.
+• Unidades de admisión masiva y recogida a clientes. Este correo llega separado por líneas 
+de productos y, en el caso de grandes clientes, según las clasificaciones establecidas.
+• Otros centros de tratamiento.
+B) Productos que se trabajan en la UPR
+• Básica certificada nacional
+ – Carta certificada.
+ 
+–Notificación.
+ – Aviso de recibo.
+
+[[ página 67 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+845
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–Carta certificada 
+urgente.
+ 
+–Carta ordinaria urgente.
+ 
+–Carta certificada con 
+valor añadido.
+ 
+–Paquete Premium a 
+domicilio.
+ 
+–Paquete Premium en 
+oficina.
+ 
+–Paquete estándar a 
+domicilio.
+ 
+–Paquete estándar en ofici-
+na elegida.
+ 
+–Paquete estándar en oficina 
+de referencia.
+ 
+–Paquete Azul.
+• Productos detallables nacional
+• Logística inversa (L1, L3 o SN)
+ 
+–Logística inversa.
+• Productos registrados devueltos (no detallables)
+ 
+–Cartas certificadas (nacionales, provinciales y locales).
+ 
+–Notificaciones.
+ 
+–Cartas certificadas internacionales.
+
+[[ página 68 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+846
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–Interconnect Premium I. El código 
+de barras siempre comienza por 
+E y termina por ES.
+ 
+–Interconnect Premium II. El 
+código de barras siempre 
+comienza por C y termina por 
+ES. Se separan manualmente en 
+la rampa de SCP.
+ 
+–Interconnect Premium III. El 
+código de barras siempre 
+comienza por C y termina por 
+ES. Se separan manualmente en 
+la rampa de SCP.
+ 
+– Interconnect estándar I. El 
+código de barras siempre 
+comienza por L y termina 
+por ES.
+ –Certificados internacional. 
+El código de barras siempre 
+comienza por R y termina 
+por ES.
+• Productos internacionales de exportación
+• Productos internacionales de exportación
+• Productos internacionales de importación
+ –EMS. El código de barras 
+siempre comienza por E.
+ 
+– Paquete. El código de barras 
+siempre comienza por C.
+ –Light. El código de barras 
+siempre comienza por L.
+ 
+– Certificado. El código de 
+barras siempre comienza 
+por R.
+ –Ordinario de mercancía. El 
+código de barras siempre 
+comienza por U.
+
+[[ página 69 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+847
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+C) Productos a cursar a USE, URO y oficinas postales
+• Productos a cursar por USE. Formato mayor. Cualquier producto con dimensiones supe-
+riores a 35 п 25 п 8 centímetros. Citypaq.
+• Productos a cursar por URO. Formato menor. Cualquier producto con dimensiones iguales 
+o inferiores a 35 п 25 п 8 centímetros.
+• Productos a cursar en oficinas postales. A petición de los clientes. 
+ 
+–Paquete Premium con entrega en oficina.
+ 
+–Paquete estándar con entrega en oficina.
+Puntos críticos en la UPR
+• El indicador en porcentaje del correo automatizable sobre el total tratado debe ser en cada 
+CTA un indicador de máxima prioridad.
+• La decisión de qué correo es automatizable reside en el sector de la alimentación de la 
+máquina y no en otras unidades.
+• El tratamiento manual del correo en los centros de tratamiento automatizable debe ser 
+residual, esto requiere:
+ 
+–Analizar previamente el correo que se va a alimentar.
+ 
+–Vigilar la alimentación.
+ 
+–Avisar al técnico de Dominion si baja el porcentaje óptimo de lectura.
+• Establecer un sistema uniforme de funcionamiento de todas las UPR en los centros de 
+tratamiento.
+• Tratamiento y mejora de los encaminamientos de los envíos para evitar costes de no calidad.
+• Reducir los tiempos de tratamiento de los envíos y asegurar su completa trazabilidad, 
+que permitan cumplir los plazos de calidad y seguridad de los envíos.
+• Reducir costes de producción, de manera que permitan ser más competitivos ante un 
+mercado cada vez más liberalizado.
+Áreas de la UPR
+A) El área de clasificación automática en la UPR
+A.1. Configuraciones
+Siguiendo un esquema similar al utilizado para las UPO, a continuación se detalla la información 
+para las áreas de tratamiento de las Unidades de Productos Registrados (UPR). En este caso, las 
+áreas de clasificación automática son: sistema de clasificación de paquetería (SCP), sistema de 
+clasificación de gordo (SCG), paquetería voluminosa (CAP), y certificados y notificaciones (IRV). 
+• Sistema (sorter) de Clasificación de Paquetería (SCP) 
+ 
+–12 SCP de media producción (entre 11 y 13 rampas, tipo lineal).
+
+[[ página 70 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+848
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–2 SCP de alta producción: CTA Valencia (32 rampas, tipo lineal) y CTA Vitoria (40 ram-
+pas tipo lineal). 
+ – 2 SCP de alta producción: CLI BCN y CAM 2 MD (60 y 42 rampas, tipo Crossbelt o en anillo). 
+Rendimiento teórico de alimentación: 8.000 paquetes/hora.
+SCP pequeños
+Envío información plataformas Correos
+Envío información plataformas Correos
+Colocación en cinta
+con código de barras
+orientado
+Colocación en cinta
+con código de barras
+orientado
+Colocación en cinta
+con código de barras
+orientado
+Colocación en cinta
+con código de barras
+orientado
+Colocación en cinta
+con código de barras
+orientado
+Clasificación:
+• CP
+• Producto
+• Mod. Entrega
+Rampa 1
+Paquetes con
+incidencias
+Rampa 2 – 12
+Clasificación destinos
+Rampa 13
+Excedencia
+Rampas de salida
+Cámara de lectura código
+de barras
+Báscula
+RAMPA 1: RECHAZO
+RAMPA 2-12: CLASIFICACIÓN 
+DESTINOS (3 DESTINOS POR 
+RAMPA)
+RAMPA 13: EXCEDENCIA
+
+[[ página 71 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+849
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+CTAVITORIA
+(40rampas)
+CTAVALENCIA
+(32rampastipolineal)
+2 SCP alta producción
+2 SCP mediana producción
+CLIBCNyCAM2MD
+(60y42rampas,tipo
+Crossbelt oenanillo
+SCP de mediana y alta producción
+Ventajas:
+ 
+–Rechazos diferenciados, mejora la gestión de incidencias. 
+ 
+–Mayor profundidad de clasificación.
+Previo a la puesta en funcionamiento
+1. Ubicar las jaulas/carros/palets con paquetes a alimentar en la cinta.
+2. Colocar el carro (A) para UPR manual:
+ 
+–Envíos no automatizables en SCG ni SCP/devueltos sin reetiquetar. 
+ 
+–Envíos con etiqueta roja DUA Exportación.
+3. Colocar carro (B) para:
+ 
+– Envíos formato menor (para llevar a SCG). En centros sin SCG, llevar a UPR manual 
+los no automatizables por dimensiones mínimas.
+4. Seleccionar el programa en el puesto gestor (nacional, zonal, provincial).
+5. Alimentar la máquina (rampas de evacuación) con: 
+ 
+– Jaulas o palets en el programa nacional. 
+ 
+– Carros/palets en el programa zonal-local-provincial.
+6. Imprimir y colocar las etiquetas en las jaulas, carros o palets de cada destino, según 
+el lay out del programa.
+
+[[ página 72 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+850
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Alimentación
+1. No alimentar envíos que excedan de las dimensiones o del peso establecido (30 kilos), 
+para evitar paros en la máquina.
+2. No alimentar paquetería con formato irregular: forma esférica, cilíndrica, bidones, 
+barriles, neumáticos, cajas con objetos salientes.
+3. Siempre alimentar los paquetes apoyados, preferiblemente, en la cara más estable 
+(la de mayor superficie). Los paquetes se colocan en la cinta de alimentación con el 
+código de barras en la parte superior del envío o en el lateral frontal al operador.
+Evacuación
+1. Al tener más de tres destinos por rampa, habrá que seguir el orden lay out de cada 
+rampa, comprobar el CP y destino del paquete, siendo necesario extremar la atención 
+para evacuar el paquete a su destino correcto.
+2. No se lanzarán los envíos, sino que se colocarán para optimizar el contenedor. Los 
+envíos más pesados deberán colocarse a un lado del contenedor, nunca encima de 
+los más frágiles, para evitar su deterioro.
+3. No se retirará ningún carro lleno sin rotular correctamente. Al retirar el carro lleno, se 
+sustituirá por uno vacío rotulándolo inmediatamente. Una vez completado el carro para 
+destino directo, se cierran las eslingas. En el caso de palets, se retractilarán para evitar 
+la caída y deterioro de la mercancía en el transporte.
+• Sistema de Clasificación de Paquetes formato «G» («gordo»: SCG)
+Previo a la puesta en funcionamiento
+1. Seleccionar el programa en el puesto gestor (nacional, zonal, provincial).
+2. Alimentar la máquina con:
+
+[[ página 73 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+851
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–Baúles y bandejas C en el programa nacional.
+ 
+–Baúles, bolsas de rafia o bandejas C en el programa zonal-local-provincial.
+3. Imprimir y colocar las etiquetas en las bandejas, baúles o bolsas de cada destino, 
+según lay out de programa.
+Alimentación
+1. Tareas de apoyo a la alimentación:
+ 
+–Preparación de los envíos a alimentar (retirar film, abrir cajas…).
+ 
+–Colocar los envíos encarados (etiqueta CB cara superior).
+2. Tareas en la alimentación:
+ 
+–Solo se deposita un envío por celda, el cual no puede exceder de las dimensiones 
+de la celda. Si las excede, no se alimentará.
+ 
+–La etiqueta del CB debe ir colocada en la parte superior del envío.
+Evacuación
+1. Montar el elemento contenedor (baúl o bandeja) que corresponda en las rampas de 
+salidas según el programa a trabajar:
+ – Baúles: solo en rampas externas con destinos a otros centros y reciclos de programas.
+ 
+– Bandejas: todas las rampas internas y resto de externas.
+La pestaña de la bandeja más próxima al trabajador debe permanecer cerrada.
+Las bolsas de rafia solo a destinos locales y provinciales.
+2. Imprimir las etiquetas pulsando imprimir en el display de cada una de las salidas.
+3. Controlar el llenado de bandejas/baúles procurando que este sea uniforme. En el caso 
+de que se encienda una luz intermitente, comprobar si:
+ 
+– La bandeja/baúl se está llenando de forma no uniforme y hay que repartir la carga.
+ 
+– La bandeja/baúl debe ser evacuada.
+Evacuación de bandejas:
+ 
+– En el display, pulsar «Cerrar» para cerrar la salida de paquetería por la rampa.
+ 
+– Cerrar las pestañas de la bandeja y empujarla hacia la cinta evacuadora.
+ 
+– Colocar una nueva bandeja vacía con la pestaña más próxima al personal cerrada.
+ 
+– En el display, pulsar «Reabrir».
+ 
+– Coger de la impresora la etiqueta de destino y colocar en el lado frontal derecho.
+Evacuación de bandejas de la cinta evacuadora:
+ 
+– Siguiendo el lay out de carga de carros/jaulas, colocar los elementos necesarios y 
+rotularlos con su etiqueta correspondiente.
+
+[[ página 74 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+852
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Mantener esta zona limpia y ordenada, comprobando 
+que todos los carros o palets están perfectamente 
+colocados y rotulados, respetando el lay out esta-
+blecido.
+Al evacuar la bandeja y depositarla en el carro/palet/
+jaula, se comprobará que el destino de la bandeja se 
+corresponde con el destino del carro o palet donde 
+haya sido depositado.
+ 
+–Posicionar las bandejas que provienen de la cinta al lado correspondiente para la 
+carga en carro o jaula y así se evitará el atasco de la misma.
+ 
+–Cargar los carros/jaulas con las bandejas que correspondan a su destino. En el 
+caso de que en un elemento se coloquen las bandejas para distintos destinos, se 
+colocarán siempre con la etiqueta hacia el lado abierto para facilitar su manipulación 
+posterior.
+ 
+–Una vez llenados los carros/jaulas, retirarlos hasta el almacén de salida y reponerlos 
+con su correspondiente etiqueta de destino.
+Transportador de evacuación de bandejas llenas
+Lay out evacuación por programa
+• IRV
+Todos los certificados y notificaciones formato normalizado se admiten (modo 3) y cla-
+sifican en las IRV.
+
+[[ página 75 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+853
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• CAP
+Esta configuración está instalada únicamente en el CAM 1 y CAM 4 de Madrid y su fun-
+cionalidad es la admisión y clasificación de la paquetería voluminosa no automatizable 
+en SCP.
+1. Cinta colectora
+2. Scanner
+3. Báscula
+4. Transportador descarga
+5. Transportador descarga
+6. Transportador descarga
+7. Transportador descarga
+8. Puesto incidencias
+9. Armario eléctrico
+A.2. Puesto de gestión de incidencias
+La funcionalidad de registro manual no se utilizará, se trasladará al ring de voluminoso 
+nacional/zonal para su grabación en SGIE y clasificación.
+Desde esta pantalla, en Gestión de incidencias se podrá:
+• Consultar la causa por la que han sido rechazados los envíos (R-1).
+• Duplicar CIO (código de envío).
+• Duplicar CE (código encaminamiento) o sacar nuevo CE.
+
+[[ página 76 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+854
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Las principales incidencias son:
+• Afectan al código de barras de envío:
+ 
+–CIO no leído.
+ 
+–CIO múltiple.
+• Afectan al código postal del envío:
+ 
+–CP no encontrado.
+• Afectan al código de encaminamiento (CE):
+ 
+–CE múltiple
+La principal ventaja de las SCP de mediana/alta producción y SCG es que el principal motivo 
+de rechazo CIO no leído sale diferenciado, por lo que su gestión es mucho más eficiente.
+Las SCP de mediana/alta producción y las SCG, al tener más rampas, permiten que los 
+rechazos salgan separados, por lo que la gestión de incidencias es mucho más ágil.
+RECHAZO IRIS
+RAMPA 1
+RECHAZO CIO
+NO LEÍDO
+RAMPA 3
+RESTO RECHAZADOS
+RAMPA 5
+Puesto Gestión de incidencias
+Analizar en el Puesto Gestión
+de incidencias
+Si el códigoestá bien, VOLVER A ALIMENTAR
+SI el código está mal, DUPLICAR CIO
+PROCESO UAM
+
+[[ página 77 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+855
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Estándar Word
+Todos los paquetes procedentes de rechazo que han sido gestionados en el puesto de 
+gestión volverán a ser alimentados en la máquina para su clasificación automática; de esta 
+manera el paquete será automatizable en el CTA de origen y en el CTA de destino.
+Es necesario que cada turno gestione sus incidencias y dé curso a los envíos para evitar 
+pérdidas de calidad.
+La gestión de incidencias SCP y SCG
+La funcionalidad de «Acondicionar» permite:
+1. Corregir el código postal de destino si este es incorrecto para que la máquina lo clasifi-
+que correctamente.
+2. Automatizar productos sin información del CP de destino en el CIO.
+
+[[ página 78 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+856
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+El código postal que se grabe desde la opción «Acondicionar» prevalecerá sobre el código 
+postal grabado en cualquier otro sistema. Además, se transmitirá al resto de SCP.
+La gestión de incidencias CAP
+La pantalla de gestión de incidencias offline permite tratar los paquetes que han sido pro-
+cesados con incidencias, además de registrar nuevos paquetes no automatizables para el 
+sistema.
+En el puesto de incidencias se puede teclear un código o leerlo directamente con la pistola; 
+tras esto, el sistema informará en pantalla del error detectado durante su procesamiento y 
+se habilitarán varias opciones para su corrección:
+• Actualizar CP. Se activará para introducir un nuevo CP siempre que no haya uno válido 
+en el bulto.
+• Nuevo CE. Se activará para introducir un nuevo CE siempre que no haya uno válido en el 
+bulto.
+• Duplicar CIO. Se activará al leer un código CIO y permitirá duplicar este, el cual será im-
+preso por la etiquetadora.
+• Duplicar CE. Se activará al leer un código CE y permitirá duplicar este, el cual será impreso 
+por la etiquetadora.
+
+[[ página 79 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+857
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+B) El área de clasificación manual en la UPR
+B.1. Principios básicos
+1. Reducción de costes. Los procesos manuales son los que más costes de recursos ge-
+neran en un centro, de ahí la necesidad de llevarlos a cabo de la manera más eficiente 
+posible.
+2. Optimización de espacios. Los casilleros y expositores son polivalentes teniendo en cuen-
+ta las prioridades de clasificación en cada turno y debe trabajarse en todos los turnos, 
+para evitar acumulaciones.
+3. Orden y limpieza. Se deben mantener en todo momento el orden y la limpieza tanto en la 
+zona propia de clasificación como en los distintos almacenes establecidos (por fechas).
+4. Optimización del transporte. Se clasifica a unidades SGIE, es decir, oficinas técnicas y 
+UR (bandejas más llenas).
+5. Para procesos homogéneos que no requieran de especialistas, la operativa manual de 
+UPR será igual a la manual de UPO.
+6. Se contenerizan todos los productos detallables y no detallables nacidos y devueltos en 
+la misma bandeja excepto en CAM 1 de Madrid y CLI de Barcelona (se utiliza expositor 
+por ser más eficiente en este caso).
+7. Eficiencia.
+
+[[ página 80 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+858
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Se reducen los rines de clasificación a 2 primarios con los destinos que más cargan y 
+un ring secundario para cada provincia con los destinos que menos cargan (el mayor 
+porcentaje de correo solo se toca una vez y como máximo 2).
+• Dentro de cada ring los destinos zonales se ordenan por código postal de izquierda a 
+derecha y de menor a mayor (no requiere especialistas), para que cualquier empleado 
+de nueva incorporación pueda realizar esta tarea con agilidad.
+• Como norma general, la clasificación del correo normalizado se llevará a cabo en ca-
+sillero mientras que el formato FLAT y el Gordo, directamente a bandeja situada en el 
+expositor por ser más eficiente.
+B.2. Operativa
+• Supresión de los rines primarios detallable y no detallable en la UPR manual nacional. 
+(Se clasifican en un único ring primario los destinos nacionales).
+• Se prioriza el tratamiento de los productos detallables (grabación en SGIE) sobre los no 
+detallables.
+• El formato FLAT/Gordo tanto nacido como devuelto se clasifica directamente en el expo-
+sitor a la bandeja correspondiente.
+• El formato normalizado no automatizable o rechazo IRV nacido se clasifica en casilleros 
+de normalizado, engomados y contenerizado en las mismas bandejas con el resto de 
+formatos (FLAT y Gordo). Los centros con poco volumen los clasifican directamente al 
+expositor junto con el formato FLAT y Gordo.
+• El formato normalizado de envíos registrados devueltos o rechazo IRV (programa de 
+logos en los centros donde lo tengan implementado) se clasifica en casilleros de nor-
+malizado, engomados y contenerizado en las mismas bandejas con el resto de pro-
+ductos y formato FLAT y Gordo. Se contenerizan todos los productos detallables y no 
+detallables nacidos y devueltos en la misma bandeja excepto en CAM 1 de Madrid y 
+CLI de Barcelona. 
+• Formato normalizado no automatizable registrado devuelto:
+ 
+–Centros con mucho volumen. El formato normalizado no automatizable nacido y recha-
+zo IRV se clasifica en casilleros de normalizado, engomados y contenerizado en las 
+mismas bandejas con el resto de formatos flat y gordo.
+ 
+–Centros con poco volumen. Los centros con poco volumen los clasifican como el for-
+mato gordo y flat directamente al expositor.
+• Formato normalizado registrado devuelto:
+ 
+– El formato normalizado de envíos registrados devueltos o rechazo IRV (programa 
+de logos en los centros donde lo tengan implementado) se clasifica en casilleros de 
+normalizado, engomados y contenerizado en las mismas bandejas con el resto de 
+productos.
+
+[[ página 81 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+859
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Formato FLAT y Gordo:
+Todos los productos formato FLAT y Gordo detallables y no detallables (y no automati-
+zables en centros con SCG) tanto nacidos como devueltos se clasifican directamente a 
+expositor contenerizados en la misma bandeja.
+Habra una única bandeja a cada uno de los destinos con todos los productos: detallables, 
+no detallables y registrados devueltos.
+Todas las bandejas de la UPR Manual irán rotuladas a destino con la etiqueta blanca con 
+franja roja y la U de urgentes.
+NOTA. Los certificados y notificaciones con formato normalizado deben ir engo-
+mados dentro de la misma bandeja (formato FLAT y Gordo) en centros con 
+mucho volumen.
+ZonaLogística
+entrada
+UPRUPO
+ZonaLogística
+desalida
+8.5.4. El área de logística: la Zona logística
+La zona logística es la unidad dentro de un centro de tratamiento por donde entran y salen 
+todos los productos para su tratamiento automatizado o manual.
+Dentro de la Zona Logística, se distinguen dos grandes áreas:
+• Zona logística de entrada.
+• Zona logística de salida.
+Esquemáticamente, los procesos en la zona logística se dividen según la zona de entrada 
+y de salida:
+ZONALLOGÍSTICADEENTRADA
+ZONALOGÍSTICADESALIDA
+CONTROLDE
+ENTRADA
+DESCARGADE
+VEHÍCULOS
+CONTROLDE
+SEGURIDAD
+PORESCÁNER
+TRASLADODE
+CARTASALA
+UPRYUPO
+CONSOLIDACIÓN
+DECARGAS
+ALMACÉNDE
+SALIDA
+CARGADE
+VEHÍCULOS
+
+[[ página 82 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+860
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Zonas del área logística
+A) Zona logística de entrada
+• Control de entradas
+¿Qué tipos de rutas se dan entre diferentes CTA?
+ 
+–Rutas interzonales: entre CTA de diferentes áreas.
+ 
+–Rutas zonales: entre CTA de la misma área.
+ 
+–Rutas provinciales: desde el CTA zonal a unidades de entrega de poblaciones de su 
+provincia o provincias dependientes y viceversa.
+ 
+–Rutas locales: desde el CTA zonal a unidades de entrega de la capital de su provincia.
+• Descarga de vehículos
+ANTENA SUPERIOR
+ANTENA INFERIOR
+LECTOR
+En los muelles de entrada:
+1. Se priorizará la descarga según los crite-
+rios establecidos por el área de centros.
+2. Se asignará muelle de descarga si no está 
+establecido con antelación.
+3. Se comprobará que la carga es para el 
+centro en cuestión.
+4. Se trasladará la carga con agilidad al es-
+canear o a la unidad correspondiente aten-
+diendo al origen, producto y formato.
+
+[[ página 83 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+861
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+En los muelles de carga y descarga están instaladas antenas de radiofrecuencia que 
+controlan la entrada y salida de los envíos que llevan incorporados un chip. Esto permite 
+realizar controles de calidad.
+Una vez en el almacén de entrada:
+MUEL
+LES
+DE  
+ENTR
+ADA
+AlmacénTemporaldecorreo
+admitidoen Oficinas.
+AlmacénTemporaldeUAM
+Grandesclientesy
+Recogidas.
+Temporal para No registrados
+Temporal envíos con incidencias
+Temporal envíos sin admitir para devolver a
+clientes
+• Control de seguridad por escáner
+Para garantizar la seguridad de los envíos que circulan por la red y la de las personas 
+(empleados, proveedores y clientes), hay que cumplir con rigurosidad el plan de inspec-
+ción de la correspondencia establecido por la Dirección de Control e Inspección.
+
+[[ página 84 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+862
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Como norma general se inspeccionan obligatoriamente a través del escáner:
+ 
+–Envíos de correspondencia ordinaria procedentes de buzones de calle.
+ 
+–Envíos de correspondencia de todo tipo que pesen más de 100 gramos.
+Se exceptúan los envíos masivos de más de 100 gramos remitidos por grandes clientes, 
+que hayan sido admitidos mediante «Nota de Entrega» por persona identificada. En este 
+caso se inspeccionan por muestreo.
+¿Qué productos no se escanean?
+En el ring de no escaneables se consolidan todas las bandejas.
+Contenerización de oficinas: se trata de contenerizar en una bandeja tipo C los envíos 
+registrados y cartas ordinarias de más de 250 gramos de formato menor (que quepa en 
+una bandeja tipo A) detallados en el punto anterior.
+Ring evacuación escáner - Centros sin SCG y un solo escáner: solo para carros que estén 
+muy mezclados y en los que la mayoría del contenido sea para escanear.
+Lassacasprocedentes
+de Buzonesseescanean
+yse controlanmediante
+lecturadel código de
+barras en la aplicación
+informática Marabú 2
+
+[[ página 85 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+863
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Ring evacuación escáner - Centros con SCG y escáneres.
+Recomendación: con el objeto de facilitar las tareas de clasificación e identificación 
+de productos en el ring de evacuación del escáner y en el ring de consolidación de no 
+escaneable y para evitar un gasto innecesario de papel, se recomienda utilizar etiquetas 
+plastificadas como la que se muestra en la imagen, al tratarse de envíos que no salen 
+del centro, sino que van dirigidos a unidades dentro del centro para su tratamiento.
+• Ring de ruptura y traslado de las cargas a UPR y UPO
+En la zona logística de entrada con todo el correo recibido de otros centros se realizará un 
+ring de ruptura de cargas antes de su traslado a las distintas áreas para su tratamiento.
+
+[[ página 86 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+864
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+B) Zona logística de salida
+• Rines de consolidación de cargas
+Todos los carros/jaulas/palets deben estar perfectamente rotulados con su destino, y 
+hay que comprobar que la bandeja o paquete se deposita en el destino correcto.
+ 
+– Ring nacional: con el fin de optimizar el transporte, se asigna una jaula/palet para 
+cada destino con todos los productos.
+-  Una sola jaula/palet con todos los productos para cada destino.
+-  La paquetería se lleva desde la SCP al almacén de salida.
+ 
+–Rines local, provincial y zonal: 
+-  Cada ring estará formado por un mínimo de 9 y un máximo de 21 carros colocados 
+en triadas. 
+-  El ring primario estará formado por las UR de la capital y las UR de administraciones 
+o poblaciones importantes.
+-  Un solo carro para cada destino con todos los productos, excepto destinos directos 
+de la SCP/SCG, en cuyo caso se consolidará un carro con bandejas y otro con pa-
+quetería.
+-  Como norma general a la hora de confeccionar jaulas, carros o palets, muy especial-
+mente en el caso de la paquetería, se ubicarán las cargas más pesadas en la parte 
+inferior de los mismos.
+-  Si se contenerizan bandejas y paquetería en el mismo carro, se colocarán las ban-
+dejas a un lado y los paquetes al otro.
+
+[[ página 87 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+865
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+-  Todos los carros deberán llevar etiqueta identi-
+ficativa para facilitar el orden y salida de rutas 
+por hora de salida. En la etiqueta tiene que figu-
+rar el número y el nombre de la ruta.
+-  En cada ring se colocará un casillero con el 
+mapa de cada ring para facilitar y estandarizar 
+el montaje de rines y el nomenclátor para posi-
+bles consultas.
+-  Las etiquetas de los carros de consolidación 
+se colocarán en el casillero identificando el nú-
+mero de ring y el número de carro para su fácil 
+Poblaciones con el tercer digito CP 7 y 8 
+TODOS EN EL RING 3
+localización. El jefe de equipo revisará diariamente que hay existencias suficientes 
+de etiquetas de todos los destinos.
+-  En los portamapas con el lay out de cada ring de consolidación es importante poner 
+un cuadro con la conducción, muelle, hora de salida y número de carro para facilitar 
+la labor de levantado del ring. 
+• Almacén de salida
+ – Son los espacios localizados en la zona del muelle de salida, y diferenciados por rutas 
+de transporte.
+ – La carga consolidada no debe situarse nunca debajo de las antenas RFID, deben estar 
+perfectamente delimitadas, para facilitar las lecturas de los envíos.
+ – Se ha de comprobar que la carga se sitúa en el almacén de salida correcto y que coin-
+cide el destino del carro/jaula/palet depositado con el destino del Almacén de salida.
+
+[[ página 88 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+866
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+¿Qué salidas se producen?
+ 
+–Salida nacional: un almacén por cada ruta de transporte según lo establecido en el 
+mapa de cargas.
+ 
+–Salida provincial: un almacén por cada ruta de transporte según lo establecido en el 
+mapa de cargas.
+ 
+–Salida local: un almacén por cada ruta de transporte según lo establecido en el mapa 
+de cargas.
+• Carga de vehículos. Mapas de cargas
+La carga de vehículos es una tarea crítica de la zona logística, que marca la calidad del 
+centro, evita errores de encaminamiento y optimiza las rutas de transporte.
+Mapa de carga: documento que establece el orden de prioridad en la carga por productos 
+para cada ruta de transporte:
+ 
+–Cargar según las prioridades y orden marcados en los mapas de carga.
+ 
+–Evitar errores de encaminamientos.
+ 
+–Optimizar al máximo la capacidad del vehículo.
+ 
+–En rutas que cursan el correo a más de un centro, además de respetar la prioridad en 
+la carga, hay que tener en cuenta el orden de descarga.
+Puntos críticos de la carga de vehículos:
+1. Cargar solo los destinos y productos estipulados en el mapa de carga, respetando el 
+orden prioritario de la carga en todas las rutas y en especial en aquellas que van a 
+dos o más centros.
+2. Leer siempre la etiqueta de la jaula, carro o palet y comprobar que el destino coincide 
+con la ruta de transporte que se esté cargando.
+3. Los elementos transportadores deberán anclarse cada cuatro, seis u ocho posiciones para 
+garantizar que la carga no se desplace. Esta tarea le corresponde al conductor de la ruta.
+Puntos críticos en la Zona logística
+• Agilizar y gestionar eficientemente la descarga de vehículos en horarios punta.
+• Agilizar y gestionar eficientemente el escáner y su traslado a las distintas unidades para 
+su tratamiento.
+• Cumplimiento estricto de las normas de seguridad y prevención de riesgos laborales en 
+el manejo de manipulación de cargas.
+• Carga de vehículos:
+ 
+–Comprobar destino de etiqueta con el destino de la ruta de transporte para evitar malos 
+encaminados que hacen perder calidad en un importante número de envíos, complican 
+las operaciones y generan un nuevo coste de transporte.
+ 
+–Optimizar la capacidad del transporte y respetar el horario de salida de las conduccio-
+nes, evitando retrasos injustificados.
+
+[[ página 89 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+867
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ – Respetar los mapas de carga establecidos para cada ruta y la prioridad de los pro-
+ductos.
+ – Mantener la zona limpia y ordenada.
+8.5.5. Tratamiento del correo internacional prioritario
+Se considera como correo internacional prioritario, exclusivamente, las cartas ordinarias. 
+¿En qué formatos?
+IMPORTACIÓN
+EXPORTACIÓN
+En CTA de Madrid
+En CTA destino
+En CTA de origen
+En CTA de Madrid
+Normalizado 
+automatizable
+Normalizado 
+automatizable
+Normalizado/
+Petit
+Normalizado/
+Petit
+Normalizado 
+Manual y rechazo IRV
+Normalizado
+Manual y rechazo IRV
+Tarjetas postales/
+post cards
+Tarjetas postales/
+post cards
+FLAT 
+Automatizable
+FLAT 
+Automatizable
+CCRI
+CCRI
+FLAT manual y rechazo 
+FLAT
+FLAT manual y rechazo 
+FLAT
+No normalizado y 
+FLAT
+No normalizado y 
+FLAT
+Gordo
+Gordo
+Gordo
+Gordo
+A) Correo internacional prioritario de importación
+Cadena de valor del correo internacional prioritario de importación
+
+[[ página 90 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+868
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+NORMALIZADO AUTOMATIZABLE
+Contenerización
+NORMALIZADOMANUAL(NORMALIZADONO
+AUTOMATIZABLE)YRECHAZOIRV
+FLATAUTOMATIZABLE(FLATNOAUTOMATIZABLE)Y
+RECHAZOFLAT
+FLATAUTOMATIZABLE
+Separaciónporformatos
+BandejaAzul
+BandejaAamarillayazul
+BandejaBamarillayazul
+Bandeja Bamarillayazul
+1
+2
+3
+4
+Contenedoresplegables/BandejaC
+GORDO
+5
+Entrada en CTA de Madrid
+• CTI de Barajas. Todo el correo internacional prioritario recibido en CTI de Barajas hasta las 
+16:00 horas debe cursarse al CTA de Madrid a las 16:30 como hora límite.
+• CTA de Madrid. Recibe parte del correo internacional prioritario vía superficie y del CTI de 
+Barajas. Hora LAT: 17:00 horas.
+• El correo internacional prioritario recibido en el CTA de Madrid se descarga en el muelle 
+correspondiente, quedando registrada la hora de entrada de los envíos al centro a través 
+de las antenas de radiofrecuencia.
+• El correo internacional prioritario se recibe contenerizado en sacas o en bandejas azules 
+universales.
+Tratamiento y curso en CTA de Madrid: en la mesa de apertura se procede a la apertura de 
+sacas o bandejas y se formatea el correo.
+El correo internacional formato normalizado automatizable se trata automáticamente en IRV:
+NORMALIZADO
+AUTOMATIZABLE
+BandejaAzul
+1
+Contenerización
+Rotulación
+El correo internacional prioritario de importación normalizado automatizable rechazado en 
+la IRV se clasifica manualmente, no se automatiza en la FLAT.
+
+[[ página 91 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+869
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+El correo internacional formato FLAT automatizable se trabajará en el mismo programa y 
+junto con las cartas ordinarias nacionales formato FLAT.
+TratamientoycursoenCTAMadrid
+NORMALIZADO
+MANUALyRECHAZOIRV
+BandejaA
+Amarillayazul
+2
+Contenerización
+Rotulación
+TratamientoycursoenCTAMadrid
+FLATAUTOMATIZABLE
+BandejaB
+Amarillayazul
+3
+Contenerización
+Rotulación
+Clasificación manual en expositores a CTA:
+TratamientoycursoenCTAMadrid
+FLAT
+MANUALyRECHAZOFLAT
+BandejaB
+Amarillayazul
+4
+Contenerización
+Rotulación
+
+[[ página 92 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+870
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Tratamiento de Gordo:
+Tratamiento y curso en centros de destino
+GORDO
+Contenedoresplegables/
+bandejasC
+5
+Contenerización
+Rotulación
+ZONA
+CTA DE DESTINOS
+PROVINCIAS QUE LO COMPONEN
+NOROESTE
+CTA Santiago
+La Coruña, Orense, Lugo y Pontevedra.
+CTA Valladolid
+Valladolid, Palencia, Burgos, Zamora, Salamanca, 
+Segovia, Avila y León.
+CTA Oviedo
+Asturias.
+NORTE
+CTA Bilbao
+Vizcaya.
+CTA Vitoria
+Álava, Guipúzcoa, La Rioja y Cantabria.
+CTA Zaragoza
+Zaragoza, Huesca, Teruel, Soria y Navarra.
+NORESTE
+CTA Barcelona
+Barcelona Provincia.
+Gerona, Tarragona y Lérida.
+CTA Colón
+Barcelona Capital.
+CENTRO
+CTA Madrid
+Madrid Capital.
+Madrid Provincia.
+Guadalajara, Toledo, Ciudad Real, Cuenca y Albacete.
+CTA Mérida
+Cáceres y Badajoz.
+ESTE
+CTA Valencia
+Valencia y Castellón.
+CTA Alicante
+Alicante y Murcia.
+CTA Baleares
+Islas Baleares.
+SUR
+CTA Sevilla
+Sevilla, Cádiz, Huelva, Córdoba y Ceuta.
+CTA Málaga
+Málaga y Melilla.
+CTA Granada
+Granada, Jaén y Almería.
+INSULAR
+CTA Las Palmas
+Las Palmas.
+CTA Tenerife
+Tenerife.
+
+[[ página 93 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+871
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+B) Correo internacional prioritario de exportación
+Criterios generales en los CTA
+• Supresión de la clasificación por países y continentes, solo se formatea.
+• Se conteneriza en bandejas A, B o C amarillas/azules según formato. No en bandejas 
+universales, por lo que ya no hay que realizar la petición y hay que devolver las que haya.
+• Retirar todo el mobiliario establecido en el esquema actual, pues solo se formatean los 
+envíos.
+• Incorporación de los centros a la nueva operativa progresivamente según el calendario 
+fijado.
+• Los centros deberán realizar un control durante la primera semana que comiencen indican-
+do número de bandejas y número aproximado de envíos de cada formato, para la correcta 
+gestión de recursos necesarios en el CTI de Barajas.
+TratamientoycursoenCentrosdeDestino
+NORMALIZADO
+AUTOMATIZABLE
+CENTROSSINFSM:
+SetrabajaenelProgramaIPC
+deIRVexceptoExtremaduray
+Canarias
+CTA ALICANTE
+PROG OCR IPC ALIC
+CENTROSCONFSM:
+Tratamientoautomáticoen
+FSMjuntoconlascartas
+ordinariasnacionales
+FLAT
+AUTOMATIZABLE
+Tratamientoautomáticocon
+prioridadenFLATenCTA
+destinojuntoconlascartas
+ordinariasnacionales
+1
+3
+TratamientoycursoenCentrosdeDestino
+NORMALIZADOMANUAL
+Clasificaciónmanualconprioridadenelcentrodedestinoconlascartas
+nacionalesenelmanualUPOsindiferenciar
+FLATNOAUTOMATIZABLE
+FORMATOGORDO
+ContenerizaciónenBandeja
+amarilla/azulA,BoCsegún
+volumenaldescubierto
+2
+4
+5
+
+[[ página 94 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+872
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Entrada en centros
+UNIDADDEADMISIÓN
+MASIVA
+OFICINA
+CTIBARAJAS
+CTAdeMADRID
+CentrodeTratamientodelCorreo
+InternacionalPrioritariodeImportación
+1
+2
+3
+EntradaenCentros
+OFICINA
+Escáner
+La oficina cursa el correo internacional prioritario de exportación en
+una bandeja diferenciada a su CTA de referencia.
+Área de tratamiento manual
+UNIDADDEADMISIÓN
+MASIVA
+2
+3
+EntradaenCentros
+23
+BUZONES
+Escáner
+CFC
+Elcorreoconlaindicaciónporavión salealapilador1delaFCy
+setrasladaalÁreadeManual.
+Elcorreosinlaindicaciónporavión,porelrestodeapiladoresdelaFCyseclasificaenIRV.
+LaIRVloclasificaalapiladorde internacionalylotrasladamosalÁreadeManual.
+Cuandoseestéalimentandocorreodebuzón,esimportanterevisarelrechazoporsihubieracorreointernacionalprioritario
+1
+
+[[ página 95 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+873
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+Tratamiento y curso en los CTA de origen. Todos los CTA formatearán el correo internacio-
+nal de exportación según el siguiente esquema y aplicando el criterio de contenerización y 
+rotulación siguiente:
+El CTA Madrid clasificará por países establecidos y el resto, por continentes según formatos:
+25
+NORMALIZADO/
+PETIT
+Contenerización
+Rotulación
+CTIBarajas
+Tarjetas Postales
+CTIBarajas
+IPCNonormalizado
+CTIBarajas
+IPCGordo
+CTIBarajasCCRI
+Losenvíosdevueltossecursanactualmenteyenningúncasosemezclanconelnacido
+CTIBarajas
+IPCNormalizado
+TARJETAS POSTALES/ 
+POST CARDS
+CCRI (Cupón comercial 
+respuesta internacional)
+NO NORMALIZADO/ 
+FLAT
+GORDO
+Separaciónporformatos
+BandejaAAmarillayazul
+BandejaAAmarillayazul
+Bandejaque mejorseadaptealcontenido
+BandejaBAmarilla yazul
+BandejaCAmarilla yazul
+• Normalizado/Petit
+TratamientoycursoenCTAMadrid
+28
+NORMALIZADO/
+PETIT
+Bandeja
+Azulcon
+tapanegra
+1
+• 12paísesdirectos:
+• Alemania
+• Austria
+• Bélgica
+• Francia
+• GranBretaña
+• Holanda
+• Irlanda
+• Italia
+• Portugal
+• Suecia
+• Suiza
+• USA
+• 1restoEuropa
+• 1restocontinentes
+BandejaA
+Bandeja A
+CTA MADRID
+* Si tenemos poco volumen de los países establecidos en la
+clasificaciónformaremoslegajosylos incluiremosenlabandeja
+universal sin flejar rotulada a: CTI Barajas - Países directos
+Legajos
+Contenerización
+Rotulación
+RESTO CONTINENTES
+CTIBarajas
+Paísesdirectoslegajos
+RESTO EUROPA
+CTA MADRID
+CTA MADRID
+CTA MADRID
+
+[[ página 96 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+874
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+• Tarjetas postales/Post cards
+TratamientoycursoenCTAMadrid
+29
+TARJETAS POSTALES/
+POST CARDS
+Bandeja
+Azulcon
+tapanegra
+2
+• 12paísesdirectos:
+• Alemania
+• Austria
+• Bélgica
+• Francia
+• GranBretaña
+• Holanda
+• Irlanda
+• Italia
+• Portugal
+• Suecia
+• Suiza
+• USA
+• 1restoEuropa
+• 1restocontinentes
+• Nacional
+BandejaA
+Bandeja A
+* Si tenemos poco volumen de los países establecidos en la
+clasificación,formaremoslegajosylos incluiremosenla
+bandejauniversal sin flejar rotulada a: CTI Barajas - Países
+Directoslegajos-PostCard
+Contenerización
+Rotulación
+RESTO CONTINENTES
+PostCards
+CTIBarajas
+Paísesdirectoslegajos
+PostCard
+RESTO EUROPA
+PostCards
+CTA MADRID
+CTA MADRID
+CTA MADRID
+CTA MADRID
+• No formalizado/FLAT
+TratamientoycursoenCTAMadrid
+30
+NO NORMALIZADO/ 
+FLAT
+Bandeja
+Azulcon
+tapanegra
+3
+• 12paísesdirectos:
+• Alemania
+• Austria
+• Bélgica
+• Francia
+• GranBretaña
+• Holanda
+• Irlanda
+• Italia
+• Portugal
+• Suecia
+• Suiza
+• USA
+• 1restoEuropa
+• 1restocontinentes
+• Nacional
+BandejaB
+Bandeja B
+* Si tenemos poco volumen de los países establecidos en la
+clasificación,formaremoslegajosylos incluiremosenla
+bandejauniversal sin flejar rotulada a: CTI Barajas - Países
+Directoslegajos-PostCard
+Contenerización
+Rotulación
+RESTO CONTINENTES
+CTIBarajas
+Paísesdirectoslegajos
+RESTO EUROPA
+CTA MADRID
+CTA MADRID
+CTA MADRID
+CTA MADRID
+
+[[ página 97 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+875
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–CCRI
+• Gordo
+TratamientoycursoenCTAMadrid
+GORDO
+Bandeja C*
+4
+• 12paísesdirectos:
+• Alemania
+• Austria
+• Bélgica
+• Francia
+• GranBretaña
+• Holanda
+• Irlanda
+• Italia
+• Portugal
+• Suecia
+• Suiza
+• USA
+• 1restoEuropa
+• 1restocontinentes
+• Nacional
+BandejaC*
+Bandeja C*
+Contenerización
+Rotulación
+RESTO EUROPA
+CTA MADRID
+CTA MADRID
+* O la que mejor se adapte al contenido
+* O la que mejor se adapte al contenido
+* O la que mejor se adapte al contenido
+RESTO CONTINENTES
+CTA MADRID
+TratamientoycursoenCTAMadrid:
+CCRI (Cupón comercial 
+respuesta internacional)
+Bandeja quemejorseadapteal
+contenido
+5
+Contenerización
+Rotulación
+* O la que mejor se adapte al contenido
+CTA MADRID
+CTIBarajas
+CCRI
+
+[[ página 98 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+876
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+8.6. Carga de vehículos
+La carga de vehículos es una tarea crítica de la zona logística, que marca la calidad del 
+Centro, evita errores de encaminamiento y optimiza las rutas de transporte.
+8.6.1. Vehículos a granel
+Es un sistema de carga que exige un especial cuidado para evitar que los envíos se mezclen 
+o puedan deteriorarse durante el recorrido de vehículo.
+• Las bandejas contenedoras para un mismo destino, que son apilables, deben utilizarse 
+como barrera separadora de sujeción para el resto de los envíos, evitando que estos se 
+mezclen.
+• Hay que prestar especial atención a los envíos al descubierto, de los cuales los más 
+frágiles se cargarán al final, para evitar roturas o aplastamiento de los mismos.
+8.6.2. Vehículos contenerizados en jaulas, carros 
+transportadores o palets
+• Es imprescindible su colocación correcta dentro del camión: no deben existir huecos vacíos 
+entre estos elementos, para evitar que se desplacen durante el recorrido.
+• Los palets deben tener la consistencia suficiente para que no se desmoronen. En caso 
+contrario, tienen que retractilarse con plástico o pasar los envíos a jaulas o carros.
+• El conductor es el responsable último de la estiba de la carga, debiendo dar instrucciones 
+sobre su colocación en el camión, así como de cinchar las jaulas y carros para garantizar 
+que no se muevan. 
+8.6.3. Normas comunes para carga de vehículos
+• Comprobación previa de que toda la carga disponible en el área logística tiene cabida en 
+el camión.
+• En el caso de falta de capacidad, se deberán tomar medidas como deshacer palets para 
+pasarlos a jaulas/carros con capacidad, o consolidar jaulas/carros sin completar.
+• Si después de tomar estas medidas se quedara carga sin poder cursar, se seguiría el orden 
+de prioridad de carga establecido, y la carga sobrante quedaría en el almacén de salida, 
+perfectamente rotulada, para su curso a destino en la primera salida del día siguiente.
+• Otras normas a seguir para la carga del vehículo:
+ 
+–Comprobar que las etiquetas de las jaulas/carros/palets se corresponden con el ca-
+mión a cargar.
+ 
+–Solo se cargarán los destinos predefinidos en los mapas de carga de la ruta que se 
+realice.
+ 
+–El orden en el que se cargarán jaulas/carros/palets será el que establezca el mapa 
+de carga.
+
+[[ página 99 de 100 · texto ]]
+
+© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+877
+TEMA 8. Procesos operativos II: Tratamiento y Transporte
+ 
+–Para las cargas a granel se prestará especial atención a la correcta separación de 
+destinos, para evitar que se mezclen durante el trayecto.
+ 
+–Las jaulas/carros/palets deberán anclarse periódicamente, cada cuatro, seis u ocho 
+posiciones, al vehículo que se está cargando. Esta operación corresponde al conductor.
+8.6.4. Protocolos de carga de vehículos
+El área logística es la responsable de cumplir el protocolo de cargas, para garantizar que:
+• Se cumple la normativa de circulación y transporte por carretera.
+• Se cumple con la Ley de Prevención de Riesgos Laborales.
+En el área logística, y a través de la aplicación de Transporte Wialon, se elaborará el 
+Vaya-Hoja de Ruta, en el cual figuran los datos obligatorios que identifican al transportis-
+ta (empresa/conductor/vehículo), las paradas con su horario-itinerario, así como la carga 
+transportada (volumen/peso).
+Por Wialon, a través del precinto electrónico (sensores de apertura de puertas) se garantiza 
+la notificación ante posibles aperturas indebidas de puertas.
+Cuando el camión carezca de este sistema, en el área logística deberán precintar manual-
+mente el camión, anotando el número de precinto en el Vaya-Hoja de Ruta. El precintado/
+desprecintado deberá ser realizado siempre por personal de Correos.
+8.6.5. Mapas de carga
+Consisten en una representación gráfica de la forma en la que debe cargarse un camión. 
+En estos mapas figuran:
+a) Nombre de la ruta.
+b) Tipo camión/Transportista.
+c) Centros de carga/descarga.
+d) Horarios de carga/descarga.
+e) Productos que transporta y dibujo esquemático de la colocación de estos en el camión.
+
+[[ página 100 de 100 · ocr ]]
+
+
