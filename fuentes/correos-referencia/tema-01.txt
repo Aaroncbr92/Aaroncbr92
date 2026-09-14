@@ -531,7 +531,7 @@ competencia del mercado en 2011.
 La evolución normativa de la liberalización del sector postal ha sido clave para su liberaliza-
 ción. Entre las más importantes, encontramos:
 
-1. Directiva 97/67/CE, de 15 de diciembre de 14497, adoptada en España por la Ley
+1. Directiva 97/67/CE, de 15 de diciembre de 1997, adoptada en España por la Ley
 24/1998, de 13 de julio, del Servicio Postal Universal y de Liberalización de los Servi-
 cios Postales (actualmente derogada). Puso en marcha el proceso de liberalización, para
 lo cual estableció la necesidad de prestación de un servicio postal universal en cada
@@ -1086,7 +1086,7 @@ Real Decreto Legislativo 1/1993, de 24 de septiembre, por el que se aprueba el T
 refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos
 Documentados.
 
-Real Decreto 828/1945, de 24 de mayo, por el que se aprueba el Reglamento del
+Real Decreto 828/1995, de 24 de mayo, por el que se aprueba el Reglamento del
 Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
 
 Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
@@ -1105,7 +1105,7 @@ el que se regulan las obligaciones de facturación.
 
 . Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
 
-+ Real Decreto 1165/1945, de 7 de julio, por el que se aprueba el Reglamento de los
++ Real Decreto 1165/1995, de 7 de julio, por el que se aprueba el Reglamento de los
 Impuestos Especiales.
 
 . Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
@@ -1613,7 +1613,7 @@ B) Marco Regional Europeo
 Cabe destacar las siguientes normativas:
 
 1. La Directiva 97/67/CE del Parlamento Europeo y del Consejo, de 15 de diciembre de
-1947, sobre normas comunes para el desarrollo del mercado interior de los servicios
+1997, sobre normas comunes para el desarrollo del mercado interior de los servicios
 postales comunitarios y la mejora de la calidad del servicio, modificada por las Directivas
 2002/39/CE respecto de la mayor apertura a la competencia de los servicios postales
 comunitarios y 2008/6/CE, respecto de la plena realización del mercado interior de los
@@ -2448,7 +2448,7 @@ Empresas
 International Post Corporation (IPC)
 
 International Post Corporation (IPC) es una cooperativa de 25 operadores postales de Euro-
-pa, Norteamérica y el Pacífico Sur, fundada en 1484 por varios Directores Generales de
+pa, Norteamérica y el Pacífico Sur, fundada en 1989 por varios Directores Generales de
 Operadores Postales para fortalecer una cooperación que permita afrontar a los mercados
 postales emergentes o la competencia.
 
@@ -4611,7 +4611,7 @@ El crecimiento de la paquetería se potencia por el desarrollo y crecimiento exp
 comercio electrónico (e-commerce).
 
 Entendido este como «un sistema de compra y venta de productos y servicios que utiliza
-internet como medio principal de intercambio», se inició en España en 1945, con la apari-
+internet como medio principal de intercambio», se inició en España en 1995, con la apari-
 ción de barrabes.com (versión online de una tienda física con clientes fieles). En 1998 los
 hermanos Barrabés lograron afianzar su negocio mediante la creación de una comunidad
 de usuarios. Con la democratización del PC y la llegada del ADSL, de los smartphones y la

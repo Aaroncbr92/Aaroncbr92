@@ -178,7 +178,7 @@ Plazos de entrega
 
 Nacional:
 
-D+3 en el 43% de los envíos, en todo el territorio.
+D+3 en el 93% de los envíos, en todo el territorio.
 
 D+5 en el 99%.
 
@@ -212,15 +212,15 @@ Máximas:
 
 Sobre/Caja: L+A+A = 90 cm (L, A, A<60 cm).
 
-Rollo/Tubo: L+2D = 104 cm (L, D<490 cm).
+Rollo/Tubo: L+2D = 104 cm (L, D≤90 cm).
 Tarjeta Postal: 23,5x 12 cm.
 
 Mínimas:
 
-Sobre/Caja: 14x4 cm.
+Sobre/Caja: 14x9 cm.
 
 Rollo/Tubo: L+2D = 17 cm (L, D> 10 cm).
-Tarjeta Postal: 14x4 cm.
+Tarjeta Postal: 14x9 cm.
 
 Los envíos con dimensiones inferiores a las mínimas deberán llevar una etiqueta
 anexa de 10 x 7 cm en la que figuren la dirección y el franqueo.
@@ -374,7 +374,7 @@ Plazo de entrega
 
 Nacional:
 
-D + 3 en el 43% de los envíos, en todo el territorio.
+D + 3 en el 93% de los envíos, en todo el territorio.
 D + 5 en el 99%.
 
 Internacional:
@@ -392,16 +392,16 @@ Medidas
 Máximas:
 
 Sobre/Caja: L+A+A = 90 cm (L, A, A<60 cm).
-Rollo/Tubo: L+2D = 104 cm (L, D<490 cm).
+Rollo/Tubo: L+2D = 104 cm (L, D≤90 cm).
 Tarjeta Postal: 23,5x 12 cm.
 
 Mínimas:
 
-Sobre/Caja: 14x4 cm.
+Sobre/Caja: 14x9 cm.
 
 Rollo/Tubo: L+2D = 17 cm (L, D> 10 cm).
 
-Tarjeta Postal: 14x4 cm.
+Tarjeta Postal: 14x9 cm.
 
 Los envíos con dimensiones inferiores a las mínimas deberán llevar una etiqueta
 
@@ -545,7 +545,7 @@ b) Gestión de entrega de notificaciones (segundo intento de entrega si el prime
 Existen dos tipos de notificaciones:
 
 a) Administrativas: se acogen a la Ley 39/2015 PACAP.
-b) Judiciales: se acogen al Reglamento Postal y LOPJ (1485).
+b) Judiciales: se acogen al Reglamento Postal y LOPJ (1985).
 
 Las dos cuentan con dos intentos de entrega. La gestión de entrega queda de la siguiente
 manera: / Y
@@ -563,7 +563,7 @@ gestionará en el turno de tarde.
 b) En las notificaciones judiciales, el segundo intento de entrega se hará en fecha distinta
 al primero, pero podrá mantenerse en el mismo turno.
 
-Las notificaciones deberán practicarse en la forma prevista en el RD 1829/1499, por el
+Las notificaciones deberán practicarse en la forma prevista en el RD 1829/1999, por el
 que se aprueba el Reglamento Postal, que está en vigor en todo lo que no se oponga a la
 citada Ley 39/2015.
 
@@ -583,7 +583,7 @@ Plazo de entrega
 
 Nacional:
 
-D+3 (43% de los envíos).
+D+3 (93% de los envíos).
 
 En casos de envíos masivos, los compromisos de plazos se fijarán de acuerdo con
 el cliente.
@@ -599,7 +599,7 @@ Máximas:
 Sobre: L+A+A = 90 cm (L, A, A<60 cm).
 Mínimas:
 
-Sobre: 14x4 cm.
+Sobre: 14x9 cm.
 
 Entrega de los envíos
 
@@ -848,7 +848,7 @@ Zona B: Resto de destinos.
 Plazo de entrega
 Nacional:
 
-Entrega en 4 días hábiles, entrega en todo el territorio nacional (en el 40% de los
+Entrega en 4 días hábiles, entrega en todo el territorio nacional (en el 90% de los
 envíos).
 
 Peso máximo
@@ -859,7 +859,7 @@ Para que estos envíos puedan ser tratados automáticamente y totalmente entrega
 bles en el buzón, deben adaptarse a las siguientes medidas:
 
 e Máximas: Formato sobre: 23x33x2 cm.
-e Mínimas: Formato sobre: 4x14 cm.
+e Mínimas: Formato sobre: 9x14 cm.
 
 No se aceptarán, para este producto, los envíos con dimensiones inferiores a las
 mínimas aunque lleven adherida la etiqueta de 10x7 cm admitida en otros produc-
@@ -986,7 +986,7 @@ Zona B: Resto de destinos.
 Plazo de entrega
 Nacional:
 
-Entrega en 4 días hábiles, entrega en todo el territorio nacional (en el 40% de los
+Entrega en 4 días hábiles, entrega en todo el territorio nacional (en el 90% de los
 envíos).
 
 Peso máximo
@@ -1129,7 +1129,7 @@ tanto, se excluyen mentación.
 los sábados, 3
 Plazos de entrega de los envíos
 domingos y festivos
-(inhábiles). Entre 2 y 4 días hábiles (en el 40% de los casos).
+(inhábiles). Entre 2 y 4 días hábiles (en el 90% de los casos).
 Peso máximo
 | Glosario Máximo por envío: 100 g.
 Variables Medidas máximas
@@ -1660,9 +1660,9 @@ e Rollo/Tubo: L + 2D = 104 cm (L, D<90 cm).
 
 Mínimas:
 
-e Sobre/Caja: 14x4 cm.
+e Sobre/Caja: 14x9 cm.
 e Rollo/Tubo: L + 2D = 17 cm (L, D > 10 cm).
-. Tarjeta Postal: 14x4 cm.
+. Tarjeta Postal: 14x9 cm.
 
 Peso
 
@@ -1842,7 +1842,7 @@ E
 = Máximas: =
 = Sobre/Caja: L+A+A = 90 cm (L, A, A < 60 cm). =
 = Mínimas: =
-= Sobre/Caja: 14x4 cm. =
+= Sobre/Caja: 14x9 cm. =
 = Los envíos con dimensiones inferiores a las mínimas deberán llevar una etiqueta  =
 = anexa de 10x7 cm en la que figuren la dirección y el franqueo. =
 = Entrega de los envíos =
@@ -2242,7 +2242,7 @@ Plazo de entrega
 
 Nacional:
 
-4 días hábiles (en el 40% de los envíos).
+4 días hábiles (en el 90% de los envíos).
 Internacional:
 
 Europa: 6-8 días hábiles.
@@ -2261,7 +2261,7 @@ Sobre/Caja: L+A+A = 90 cm (L, A, A < 60 cm).
 Rollo/Tubo: L+2D = 104 cm (L, D < 90 cm).
 Mínimas:
 
-Sobre/Caja: 14x4 cm.
+Sobre/Caja: 14x9 cm.
 
 Rollo/Tubo: L+2D = 17 cm (L, D > 10 cm).
 
@@ -2436,7 +2436,7 @@ Sobre/Caja: 14x 4 cm.
 
 Rollo/Tubo: L+2D = 17 cm (L, D > 10 cm).
 
-Tarjeta Postal: 14x4 cm.
+Tarjeta Postal: 14x9 cm.
 
 Los envíos con dimensiones inferiores a las mínimas deberán llevar una etiqueta
 anexa de 10x7 cm en la que figuren la dirección y el franqueo.
@@ -3354,8 +3354,8 @@ que quiere cobrar el remitente y que figura en el envío) y posteriormente Corre
 reembolsa.
 
 Cuenta con dos modalidades para particulares (entrega en domicilio/apartado pos-
-tal, máximo 449,44 €, y abono en cuenta, máximo 2.499,99 €) y una solo para
-contrato (abono en cuenta, con un máximo 2.444,99 €).
+tal, máximo 499,99 €, y abono en cuenta, máximo 2.499,99 €) y una solo para
+contrato (abono en cuenta, con un máximo 2.499,99 €).
 
 Tiempo de permanencia en lista:
 
@@ -3784,7 +3784,7 @@ formula: largo x altoxancho (expresado en cm)/6.000.
 
 Dimensiones
 e Mínimas:
-- Caja: 14x49 cm.
+- Caja: 14x9 cm.
 
 — Rollo o Tubo: El lado más largo medirá como mínimo 10 cm. Además, la longitud
 más el doble del diámetro debe ser al menos de 17 cm.
@@ -3827,7 +3827,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 TEMA 3. Productos y servicios: Comunicación. Paquetería de Correos y de Correos Express. Servicios e-commerce y Citypaa,
 
 Cuenta con dos modalidades: entrega en domicilio/apartado postal, máximo
-444,94 €, y abono en cuenta, máximo 2.494,99 €.
+499,99 €, y abono en cuenta, máximo 2.499,99 €.
 
 Valor declarado:
 
@@ -3909,7 +3909,7 @@ Medidas
 
 — Máximas: L+A+A= 200 cm, sin que la mayor exce-
 da de 105 cm.
-— Mínimas: 14x4 cm.
+— Mínimas: 14x9 cm.
 
 e Rollo o Tubo:
 
@@ -4001,7 +4001,7 @@ Medidas
 . Caja:
 
 — Máximas: L+A+A = 200 cm, sin que la mayor exceda de 105 cm.
-— Mínimas: 14x4 cm.
+— Mínimas: 14x9 cm.
 
 DOLLAR D ALAN D RIOR LARN DDR LD R LLL DDN DLL DLL D DLE DE LRD D ROD DEL DR LAN DDD N DLL LRD D LRD
 (continúa en la página siguiente)
@@ -4090,7 +4090,7 @@ IS
 = Medidas =
 = . Caja: =
 = — Máximas: L+A+A = 200 cm, sin que la mayor exceda de 105 cm. =
-=  - Mínimas: 14x4 cm. =
+=  - Mínimas: 14x9 cm. =
 = + Rollo o Tubo: =
 = - Máximas: L = 100 cm, D= 15 cm. =
 = — Mínimas: el lado más largo medirá como mínimo 10 cm. Además, la longitud =
@@ -4813,7 +4813,7 @@ e Avisos de paso electrónicos (SMS).
 Valores añadidos /Servicios adicionales
 
 Reembolso: el importe a cobrar al destinatario se hará en efectivo, el máximo son
-q94,94 € y en cheque a nombre del cliente y previa autorización, si fuera superior.
+999,99 € y en cheque a nombre del cliente y previa autorización, si fuera superior.
 La devolución del importe se efectuará una vez realizada la entrega en un plazo de
 entre 4 y 6 días laborables mediante transferencia bancaria.
 
@@ -5057,7 +5057,7 @@ e Avisos de paso electrónicos (SMS).
 Valores añadidos /Servicios adicionales
 
 Reembolso: el cobro del importe al destinatario se hará en efectivo; el importe
-máximo a cobrar será de 494,44 €. La devolución del importe se efectuará una vez
+máximo a cobrar será de 999,99 €. La devolución del importe se efectuará una vez
 realizada la entrega en un plazo de entre 4 y 6 días laborables mediante transfe-
 rencia bancaria.
 
@@ -5668,7 +5668,7 @@ e T2LF* para DUA de Exportación hacia o desde Canarias.
 Valores añadidos /Servicios adicionales
 
 Reembolso: el cobro del importe al destinatario se hará en efectivo, siendo el
-importe máximo a cobrar de 494,49 €. La devolución del importe se efectuará una
+importe máximo a cobrar de 999,99 €. La devolución del importe se efectuará una
 vez realizada la entrega en un plazo de entre 4 y 6 días laborables mediante trans-
 ferencia bancaria.
 
@@ -8443,7 +8443,7 @@ e Composición
 4 tamaños de huecos (alto xancho x profundo, en mm)
 
 — S: 100x240x400.
-M: 100x4490x400.
+M: 100x490x400.
 — L: 200x490x400.
 — XL: 600x 490x400.
 
@@ -8629,7 +8629,7 @@ IVA. Se excluyen Ceuta y Melilla, cuyos envíos serán rehusados y devueltos al 
 + Exclusión de mercancías: el usuario/destinatario no utilizará el servicio Citypaq, para
 recepcionar envíos indebidamente embalados y etiquetados, o incluidos dentro de los
 clasificados como sustancias tóxicas, mercancías peligrosas, artículos prohibidos o res-
-tringidos, según normativa postal (Ley 43/2010, RD 1829/1499, Convenio UPU), Ins-
+tringidos, según normativa postal (Ley 43/2010, RD 1829/1999, Convenio UPU), Ins-
 trucciones Técnicas para transporte sin riesgos de mercancías peligrosas vía aérea OACI
 (Convenio de Chicago sobre aviación civil), Reglamento sobre mercancías peligrosas de
 la Asociación Internacional de Transporte Aéreo (IATA) y el Convenio Europeo sobre Trans-
