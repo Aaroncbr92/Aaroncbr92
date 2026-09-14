@@ -50,11 +50,47 @@ Las razones:
    entonces, el documento estará desfasado y el temario podrá decirlo.** Estudiar
    las normas a 2022 sería reproducir el desfase en vez de detectarlo.
 
-**Un caso que ya se ve venir y que el tema 1 tendrá que resolver**: el documento
-dice que Correos es operador designado del servicio postal universal **«por el
-término de quince años a partir de la entrada en vigor de la Ley 43/2010»**. Ese
-plazo **vence dentro del horizonte de la próxima convocatoria**, y hay que
-comprobar contra el Boletín qué ha pasado con él antes de repetir la frase.
+**Y la decisión ya ha dado su primer fruto, antes de escribir una línea de tema.**
+El documento de referencia dice que Correos es operador designado del servicio
+postal universal **«por el término de quince años a partir de la entrada en vigor
+de la Ley 43/2010»**. Se comprobó contra el Boletín, y **hoy son veinte.**
+
+### El plazo del operador designado: quince años que son veinte
+
+**La disposición adicional primera de la Ley 43/2010 tiene cuatro redacciones**, y
+la vigente dice **«por un período de 20 años a partir de la entrada en vigor de la
+presente ley»**. La cadena, que es un caso de manual del apartado 2.2:
+
+| Vigencia | Qué pasa | Norma |
+|---|---|---|
+| **1-I-2011** | Redacción original: **quince años** | `BOE-A-2010-20139` |
+| **25-XII-2024** | Un real decreto-ley la modifica | `BOE-A-2024-26915` |
+| **23-I-2025** | **El Congreso deroga aquel real decreto-ley y la modificación queda sin efecto** | `BOE-A-2025-1136` |
+| **18-VIII-2025** | Nueva redacción, **veinte años**, ésta en vigor | `BOE-A-2025-15651` |
+
+**Por dónde entró el cambio, que es lo que nadie esperaría**: la norma
+`BOE-A-2025-15651` es la **Ley 6/2025, de 28 de julio, de modificación del Régimen
+Económico y Fiscal de Canarias**, sobre inversiones en arrendamiento de vivienda en
+las Islas Canarias. **El plazo del operador postal universal se alargó dentro de una
+ley fiscal canaria.** Quien busque la reforma en la legislación postal no la
+encuentra.
+
+**Por qué importa tanto para este temario:**
+
+1. **El documento de referencia enseña una cifra que hoy es falsa.** Quien estudie
+   «quince años» y lo conteste, contesta mal.
+2. **Los quince años originales ya habrían vencido.** La ley entró en vigor el **1
+   de enero de 2011**, de modo que el plazo primitivo expiraba el **1 de enero de
+   2026**; los veinte lo llevan a **2031**.
+3. **Y el propio texto consolidado se contradice consigo mismo.** Su **preámbulo
+   sigue diciendo quince** —«En la disposición adicional primera se designa por un
+   periodo de 15 años»— porque **los preámbulos no se modifican cuando se modifica
+   el articulado**. El tema 1 tendrá que citar la disposición y advertir del
+   preámbulo, no al revés.
+
+**Esto es exactamente lo que se buscaba** al decidir estudiar las normas en su
+redacción de hoy en lugar de en la de 2022: no adornar el temario, sino **detectar
+dónde el documento de referencia ha envejecido**.
 
 ## Las normas, con su identificador comprobado
 
