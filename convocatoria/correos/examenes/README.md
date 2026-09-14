@@ -46,9 +46,14 @@ De ellas, **unas siete son psicotécnicas** —series de figuras— y **no son m
 del programa**, así que el banco aprovechable para el temario ronda las **211
 preguntas**.
 
-## Las preguntas anuladas, que la plantilla no dice
+## Las preguntas anuladas, sacadas de la propia plantilla
 
-**Correos anuló seis preguntas y las sustituyó por las de reserva**, por su número
+**La plantilla escribe «Anulada» en la celda de la respuesta**, de modo que la lista
+sale del documento oficial y no de ninguna fuente de segunda mano. Se ha comprobado
+además a la vista sobre la hoja, porque las celdas van sombreadas y convenía
+descartar que el sombreado dijera algo que el texto no dice. **Dice lo mismo.**
+
+**Correos anuló siete preguntas y las sustituyó por las de reserva**, por su número
 de orden:
 
 | Cuadernillo | Anulada | Sustituida por |
@@ -61,13 +66,40 @@ de orden:
 | Atención al Cliente, modelo A | 12 | 101 |
 | Atención al Cliente, modelo B | 14 | 101 |
 
+**Son siete y no seis**: el modelo B de Reparto anuló tres, no dos. La tercera, la
+47, se perdía al extraer el cuadernillo porque **las psicotécnicas no tienen
+opciones de texto** —son figuras— y el extractor las descartaba en silencio. Está
+arreglado en `herramientas/correos_examen.py`, y la cuenta cuadra ahora con la
+plantilla: **2, 3, 1 y 1**.
+
 **Una pregunta anulada sigue siendo material de estudio**, porque su enunciado
 salió del temario aunque la pregunta fallara. **Pero no sirve para calibrar la
 respuesta oficial**, y por eso va marcada.
 
-## Una errata ya vista en el cuadernillo
+## Dos hallazgos en los cuadernillos
 
-**La pregunta 2 del modelo A de Reparto escribe «Conta» por «Consta»**, y lo hace
-en dos de sus cuatro opciones, la B y la D. **No cambia la respuesta** —la
-correcta es la C, que sí está bien escrita— pero queda anotado, porque este
-proyecto cita los enunciados como están impresos.
+**Primero, y explica una de las anulaciones.** La **pregunta 47 del modelo B de
+Reparto** —una psicotécnica de series de figuras— **pide elegir «entre las figuras
+inferiores (A, B, o D)»**: nombra tres opciones donde hay cuatro, y **se salta la
+C**. Comprobado a la vista sobre la página 7 del cuadernillo. **Es exactamente la
+pregunta que Correos anuló**, y el motivo está impreso en su enunciado.
+
+**Segundo: la errata está en la respuesta buena.** La **pregunta 2 del modelo A de
+Reparto** escribe **«Conta» por «Consta»** en dos de sus cuatro opciones, la B y la
+D. Lo llamativo no es la errata: es que **la opción correcta según la plantilla es
+la B**, es decir, **una de las dos mal escritas**. Quien descartara una opción por
+estar mal escrita habría descartado la buena.
+
+**Este proyecto cita los enunciados como están impresos**, con sus erratas, y las
+declara al lado.
+
+## El examen, cruzado y citable
+
+`herramientas/correos_examen.py` cruza cada cuadernillo con su plantilla y escribe
+`examen-REP-A.md`, `examen-REP-B.md`, `examen-ATC-A.md` y `examen-ATC-B.md`: **la
+pregunta entera, sus cuatro opciones y la respuesta oficial señalada**, con las
+anuladas y las psicotécnicas dichas.
+
+**La respuesta va por número de pregunta dentro de su modelo.** Cruzar el enunciado
+del modelo A con la letra del modelo B daría un examen falso de principio a fin, y
+es un error fácil de cometer porque las preguntas son casi las mismas.
