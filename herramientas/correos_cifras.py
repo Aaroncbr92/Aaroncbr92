@@ -21,7 +21,9 @@ página original**, que es la única comprobación que vale.
 **No lo caza todo, y hay que saberlo.** Un «1964» leído como «1464» lo caza, porque
 1464 cae fuera de rango. Un «1999» leído como «1949» **no**, porque 1949 es un año
 posible. Esta herramienta quita las imposibles; **las verosímiles siguen exigiendo
-leer la página.**
+leer la página.** Y tampoco caza lo que es un número corriente mal leído: el tema 2
+decía **«164 metas»** donde el documento imprime **169**, y 164 es un número posible.
+Eso sólo lo caza saber el dato.
 
 Uso:
     python3 herramientas/correos_cifras.py fuentes/correos-referencia/tema-*.txt
@@ -50,17 +52,42 @@ def revisa(fichero):
             continue
         # referencias de norma: «Ley 9/2017», «Real Decreto 1829/1999»
         for mm in re.finditer(r"\b(\d{1,4})/(\d{4})\b", linea):
+            # **Un reglamento europeo se numera al revés que una ley española**:
+            # «Reglamento (UE) 2018/1108» es año/número, no número/año. Sin esta
+            # salvedad la herramienta marca como imposible toda la normativa
+            # comunitaria, que es justo el ruido que enseña a no leer la lista.
+            if 1950 <= int(mm.group(1)) <= ULTIMO_ANO:
+                continue
             ano = int(mm.group(2))
             if not (PRIMER_ANO_NORMA <= ano <= ULTIMO_ANO):
                 hallazgos.append((pagina, n, mm.group(0), "el año de la norma no es un año"))
-        # años sueltos escritos como tales: «de 15 de diciembre de 1447»
-        for mm in re.finditer(r"\bde (\d{4})\b", linea):
+        # **Años sueltos, vengan como vengan.** La primera versión de esta
+        # herramienta sólo miraba «de AAAA», y por ese hueco se colaron en el
+        # tema 2 «no se constituyó hasta 1478» y «el Estatuto de los Trabajadores
+        # en el año 1480». El año no siempre lleva delante la preposición.
+        for mm in re.finditer(r"(?<![\d/])(\d{4})(?![\d/])", linea):
             ano = int(mm.group(1))
             if not (PRIMER_ANO_SUELTO <= ano <= ULTIMO_ANO):
                 hallazgos.append((pagina, n, mm.group(0), "año imposible"))
             elif ano < 1800:
                 hallazgos.append((pagina, n, mm.group(0),
                                   "podría ser histórico de verdad: comprobar"))
+        # **Un cuatro de más.** El reconocedor no sólo confunde el nueve con el
+        # cuatro: a veces **añade** un cuatro y deja el nueve. Así «1 de enero de
+        # 1986» salió del volcado como «14986». Un año no tiene cinco cifras, y
+        # si al quitarle un cuatro queda un año moderno, es este defecto.
+        for mm in re.finditer(r"(?<![\d/])(\d{5})(?![\d/])", linea):
+            bruto = mm.group(1)
+            if "4" not in bruto:
+                continue
+            for i, c in enumerate(bruto):
+                if c != "4":
+                    continue
+                resto = bruto[:i] + bruto[i + 1:]
+                if 1900 <= int(resto) <= ULTIMO_ANO:
+                    hallazgos.append((pagina, n, bruto,
+                                      "cinco cifras: ¿%s con un cuatro de más?" % resto))
+                    break
     return hallazgos
 
 

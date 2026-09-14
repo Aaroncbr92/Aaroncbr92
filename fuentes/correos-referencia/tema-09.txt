@@ -239,7 +239,7 @@ destinatario.
 9.1.2. Nuevos puntos de distribución, entornos o circunstancias
 especiales de reparto o condiciones especiales
 
-La declaración de entorno especial, contemplada en el Real Decreto 1829/1449, supone
+La declaración de entorno especial, contemplada en el Real Decreto 1829/1999, supone
 la supresión del servicio de reparto a domicilio y la instalación de buzones individuales o
 agrupados no domiciliarios en los accesos de ciertos entornos para que nuestro personal
 de reparto deposite allí la correspondencia.
@@ -287,9 +287,9 @@ de la Ley 43/2010, de 30 de diciembre, del servicio postal universal, de los der
 de los usuarios y del mercado postal.
 
 + Artículo 37, referido a la entrega de envíos postales en entornos especiales o cuando
-concurran circunstancias o condiciones excepcionales, del Real Decreto 1829/1499, de
+concurran circunstancias o condiciones excepcionales, del Real Decreto 1829/1999, de
 3 de diciembre, por el que se aprueba el Reglamento por el que se regula la prestación
-de los servicios postales, en desarrollo de lo establecido en la Ley 24/1498, de 13 de
+de los servicios postales, en desarrollo de lo establecido en la Ley 24/1998, de 13 de
 julio, del Servicio Postal Universal y de Liberalización de los Servicios Postales.
 
 Internamente, el 4 de febrero de 2018 se publicó una instrucción emitida conjuntamente
@@ -320,7 +320,7 @@ desarrollo de esta ley, con arreglo a lo previsto en la Directiva 47/67/CE. A es
 reglamentariamente se definirán las zonas de muy baja densidad de población, entre las
 que no se incluirán las zonas rurales.
 
-En el Real Decreto 1829/1499, se establece que, para los entornos declarados especiales,
+En el Real Decreto 1829/1999, se establece que, para los entornos declarados especiales,
 la entrega de los envíos postales ordinarios se realizará a través de buzones individuales
 no domiciliarios y de casilleros concentrados pluridomiciliarios.
 
@@ -445,12 +445,12 @@ usuarios y del mercado postal.
 
 + Real Decreto 1829/1999, de 3 de diciembre, por el que se aprueba el Reglamento por
 el que se regula la prestación de los servicios postales, en desarrollo de lo establecido
-en la Ley 24/1498, de 13 de julio, del Servicio Postal Universal y de Liberalización de
+en la Ley 24/1998, de 13 de julio, del Servicio Postal Universal y de Liberalización de
 los Servicios Postales.
 
 + Real Decreto 503/2007, de 20 de abril, por el que se modifica el Real Decreto
-1829/1499, de 3 de diciembre, por el que se aprueba el Reglamento por el que se regula
-la prestación de los servicios postales en desarrollo de lo establecido en la Ley 24/1498,
+1829/1999, de 3 de diciembre, por el que se aprueba el Reglamento por el que se regula
+la prestación de los servicios postales en desarrollo de lo establecido en la Ley 24/1998,
 de 13 de julio, del servicio postal universal y de
 liberalización de los servicios postales.
 
@@ -4207,7 +4207,7 @@ verso, para informar dicho envío.
 3. Notificaciones. El personal de reparto debe respaldar la información de cada
 intento de entrega, causa, fecha y hora de cada intento, con su firma y nú-
 mero de identificación en el aviso de recibo (Referencia: artículos 41 y 42 Resumen
-Real Decreto 1824/1499),
+Real Decreto 1829/1999),
 
 4. Productos con aviso de recibo. Se cumplimentará toda la información sobre
 

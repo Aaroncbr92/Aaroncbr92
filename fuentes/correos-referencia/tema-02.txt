@@ -810,7 +810,7 @@ Laborales (PRL)
 Historia de la prevención en España
 
 Democracia. Es en esta etapa cuando se aprueba la norma de mayor trascendencia e
-importancia dentro del ámbito jurídico del país: la Constitución de 1478, que constituyó
+importancia dentro del ámbito jurídico del país: la Constitución de 1978, que constituyó
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
@@ -823,11 +823,11 @@ modelo territorial completamente nuevo basado en autonomías. Es a partir de est
 cuando empiezan a crearse las competencias de estas, lo que por supuesto afecta a los
 distintos ministerios que pasan de manera progresiva a estar menos centralizados.
 
-El Instituto Nacional de Seguridad e Higiene en el Trabajo no se constituyó hasta 1478 como
+El Instituto Nacional de Seguridad e Higiene en el Trabajo no se constituyó hasta 1978 como
 un organismo adscrito al Ministerio de Trabajo.
 
 Otro hito histórico de esta época fue la aprobación del Estatuto de los Trabajadores en el
-año 1480, que cambió de manera drástica la regulación de las relaciones laborales, adap-
+año 1980, que cambió de manera drástica la regulación de las relaciones laborales, adap-
 tándolas a la Constitución, y que afectó plenamente a la legislación existente en materias
 de seguridad e higiene en el trabajo. De hecho, esta área fue reforzada ya que se adoptaron
 las siguientes medidas:
@@ -842,7 +842,7 @@ e Incorporación al contrato de trabajo de las condiciones de seguridad e higien
 por la Seguridad Social.
 
 La tercera circunstancia histórica que marcó esta época fue la incorporación de España a la
-Unión Europea el 1 de enero de 14986. Este hito conllevó sustanciosos cambios a todos los
+Unión Europea el 1 de enero de 1986. Este hito conllevó sustanciosos cambios a todos los
 niveles, incluida la prevención de riesgos laborales.
 
 La Unión Europea llevaba ya tiempo implementado importantes mejoras en medidas de
@@ -852,14 +852,14 @@ España a la exigida por la Comunidad Europea, consolidando de este modo a dicho
 nismo como pieza fundamental en todo lo relativo a la prevención de riesgos laborales
 en España.
 
-En 1989 se promulgó la Directiva 89/391/CEE del Consejo, de 12 de junio de 1484, rela-
+En 1989 se promulgó la Directiva 89/391/CEE del Consejo, de 12 de junio de 1989, rela-
 tiva a la aplicación de medidas para promover la mejora de la seguridad y de la salud de
 los trabajadores en el trabajo, la cual desembocó en la creación y aprobación de la vigente
-en la actualidad, la Ley 31/1945, de 8 de noviembre, de prevención de Riesgos Laborales
+en la actualidad, la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales
 (LPRL) en el año 1995.
 
 Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)
-Art.8 Ley 31/1495:
+Art.8 Ley 31/1995:
 
 1. El Instituto Nacional de Seguridad e Higiene en el Trabajo es el órgano científico
 técnico especializado de la Administración General del Estado que tiene como misión
@@ -887,7 +887,7 @@ materia preventiva de las Comunidades Autónomas en el ejercicio de sus funcione
 en esta materia.
 
 c) Apoyo técnico y colaboración con la Inspección de Trabajo y Seguridad Social en
-el cumplimiento de su función de vigilancia y control, prevista en el artículo 4 de la
+el cumplimiento de su función de vigilancia y control, prevista en el artículo 9 de la
 presente Ley, en el ámbito de las Administraciones públicas.
 
 d) Colaboración con organismos internacionales y desarrollo de programas de coope-
@@ -901,7 +901,7 @@ con la colaboración, en su caso, de los órganos técnicos de las Comunidades A
 nomas con competencias en la materia.
 
 Inspección de Trabajo y Seguridad Social
-Art.4 Ley 31/1995:
+Art.9 Ley 31/1995:
 
 1. Corresponde a la Inspección de Trabajo y Seguridad Social la función de la vigilancia
 y control de la normativa sobre prevención de riesgos laborales.
@@ -954,21 +954,21 @@ Las normas en materia de prevención de riesgos laborales se pueden aglutinar po
 rias, sectores de actividad, riesgos, equipos, etc. Las más destacadas en nuestro ámbito
 son las siguientes:
 
-e Ley 31/1495, de 8 de noviembre, de Prevención de Riesgos Laborales (LPRL).
+e Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales (LPRL).
 
-+. Real Decreto 486/1497, de 14 de abril, por el que se establecen las disposiciones míni-
++. Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones míni-
 mas de seguridad y salud en los lugares de trabajo.
 
-+. Real Decreto 485/1497, de 14 de abril, sobre disposiciones mínimas en materia de se-
++. Real Decreto 485/1997, de 14 de abril, sobre disposiciones mínimas en materia de se-
 ñalización de seguridad y salud en el trabajo.
 
-+ Real Decreto 39/1497, de 17 de enero, por el que se aprueba el Reglamento de los
++ Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los
 Servicios de Prevención.
 
-+. Real Decreto 1215/1497, de 18 de julio por el que se establecen las disposiciones míni-
++. Real Decreto 1215/1997, de 18 de julio por el que se establecen las disposiciones míni-
 mas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo.
 
-+. Real Decreto 487/1497, de 14 de abril, sobre disposiciones mínimas de seguridad y
++. Real Decreto 487/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y
 salud relativas a la manipulación manual de cargas que entrañe riesgos, en particular
 dorsolumbares, para los trabajadores.
 
@@ -978,14 +978,14 @@ dorsolumbares, para los trabajadores.
 
 TEMA 2. Experiencia de personas en Correos. Diversidad, inclusión e igualdad. Prevención de riesgos y bienestar
 
-+. Real Decreto 488/1497, de 14 de abril, sobre disposiciones mínimas de seguridad y
++. Real Decreto 488/1997, de 14 de abril, sobre disposiciones mínimas de seguridad y
 salud relativas al trabajo con equipos que incluyen pantallas de visualización.
 
 +. Real Decreto 614/2001, de 8 de junio, sobre disposiciones mínimas para la protección
 de la salud y seguridad de los trabajadores frente al riesgo eléctrico.
 
 + Real Decreto 171/2004, de 30 de enero, por el que se desarrolla el artículo 24 de la
-Ley 31/1495, de 8 de noviembre, de Prevención de Riesgos Laborales, en materia de
+Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en materia de
 coordinación de actividades empresariales.
 
 + Real Decreto 2267/2004, de 3 de diciembre, por el que se aprueba el Reglamento de
@@ -1007,14 +1007,14 @@ dido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vi
 laciones de protección contra incendios.
 
 + Real Decreto 1076/2021, de 7 de diciembre, por el que se modifica el Real Decreto
-7173/1447, de 30 de mayo, sobre disposiciones mínimas de seguridad y salud relativas
+773/1997, de 30 de mayo, sobre disposiciones mínimas de seguridad y salud relativas
 a la utilización por los trabajadores de equipos de protección individual.
 
 2.3.2. Política de PRL en Correos
 
 La prevención de riesgos laborales tiene por objeto promover la mejora de la seguridad y
 salud de los trabajadores mediante la aplicación de medidas adecuadas y los procedimien-
-tos necesarios. Para ello toda empresa, de acuerdo con la Ley 31/1445 de Prevención de
+tos necesarios. Para ello toda empresa, de acuerdo con la Ley 31/1995 de Prevención de
 Riesgos Laborales (LPRL) y el Reglamento de los Servicios de Prevención (RSP), debería
 desarrollar un sistema de prevención.
 
@@ -1109,7 +1109,7 @@ organizativa, la definición de funciones, las prácticas, los procedimientos, l
 y los recursos necesarios para llevar a cabo dicha acción» (art. 2.1 del RSP).
 
 d) Se ha de garantizar la información, formación y participación de todos los trabaja-
-dores en la actividad preventiva (arts. 18 y 14 LPRL). Estas actuaciones, además de
+dores en la actividad preventiva (arts. 18 y 19 LPRL). Estas actuaciones, además de
 ser obligatorias por ley, constituyen una pieza clave del éxito de la implantación de la
 política preventiva. Los trabajadores han de conocer por qué y cuáles son los objeti-
 vos de la política preventiva y han de imbuirse de sus principios para poder aplicarla
@@ -1217,7 +1217,7 @@ de trabajo, en un polígono industrial o área geográfica limitada o pertenezca
 sector productivo o grupo empresarial podrán optar por la constitución de un servicio de
 prevención mancomunado.
 
-Artículo 15 del Real Decreto 39/1497, Reglamento de los Servicios de Prevención:
+Artículo 15 del Real Decreto 39/1997, Reglamento de los Servicios de Prevención:
 Organización y medios de los servicios de prevención propios:
 
 1. El servicio de prevención propio constituirá una unidad organizativa específica y
@@ -1395,7 +1395,7 @@ Subdirección de Promoción de la Salud y jerárquicamente de la Gerencia de Per
 
 Relaciones Laborales.
 
-La creación del Servicio de Prevención Propio de Correos data de 1494 y su posterior desa-
+La creación del Servicio de Prevención Propio de Correos data de 1999 y su posterior desa-
 rrollo y ampliación en el año 2009 para dotarlo de medios materiales y humanos adecuados
 
 Estructura del Servicio de Prevención de Riesgos Laborales en Correos
@@ -1496,7 +1496,7 @@ TEMA 2. Experiencia de personas en Correos. Diversidad, inclusión e igualdad. P
 a la magnitud y características propias de la organización hasta contar en la actualidad con
 más de 90 miembros.
 
-Es pues el año 20049 el punto de inflexión hacia un cambio de proyecto, con la creación de
+Es pues el año 2009 el punto de inflexión hacia un cambio de proyecto, con la creación de
 la Subdirección de Promoción de la Salud dentro de la Dirección de Recursos Humanos,
 ampliando posteriormente la plantilla del Servicio de Prevención en el ámbito de área con
 técnicos especializados convirtiéndose en uno de los servicios de prevención propios más
@@ -1701,7 +1701,7 @@ zadas...
 
 Obligaciones de los trabajadores
 
-Artículo 24 de la Ley 31/1995 de Prevención de Riesgos Laborales: Obligaciones de los
+Artículo 29 de la Ley 31/1995 de Prevención de Riesgos Laborales: Obligaciones de los
 trabajadores en materia de prevención de riesgos.
 
 1.
@@ -1844,7 +1844,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 TEMA 2. Experiencia de personas en Correos. Diversidad, inclusión e igualdad. Prevención de riesgos y bienestar
 
-PROO02 Procedimiento de evaluación de riesgos
+PR002 Procedimiento de evaluación de riesgos
 
 Es el proceso dirigido a estimar la magnitud de los riesgos y a ofrecer la información
 necesaria para establecer las prioridades indispensables en las acciones de eliminación y
@@ -1902,7 +1902,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (113)
 
 TEMA 2. Experiencia de personas en Correos. Diversidad, inclusión e igualdad. Prevención de riesgos y bienestar
 
-PROO04 Investigación de los accidentes laborales
+PR004 Investigación de los accidentes laborales
 
 Es preciso manejar con fluidez las siguientes definiciones.
 
@@ -1947,7 +1947,7 @@ Una vez que se produce el accidente, el trabajador debe comunicar el suceso a su
 inmediato, proporcionando la máxima información sobre el suceso para así colaborar en la
 investigación del accidente.
 
-La Ley 31/1495, de 8 de noviembre, de Prevención de Riesgos Laborales prevé en su artícu-
+La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales prevé en su artícu-
 lo 16 que cuando se produzca un daño para la salud de los trabajadores, el empresario
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
@@ -1975,12 +1975,12 @@ tores personales y del trabajo).
 A partir de las causas básicas se determinan las medidas correctoras que se deben llevar
 a cabo para eliminar estas, siendo este el punto fundamental de la investigación.
 
-PROO5 Información, consulta y participación de los trabajadores
+PR005 Información, consulta y participación de los trabajadores
 
 El objeto específico de este procedimiento es establecer mecanismos eficaces que
 permitan la consulta y participación efectiva sobre todas las cuestiones que afecten
 a la salud y seguridad en el trabajo en la empresa, de conformidad con lo dispuesto
-en el capítulo V de la Ley 31/1495. También aquí es necesario manejar con fluidez la
+en el capítulo V de la Ley 31/1995. También aquí es necesario manejar con fluidez la
 terminología exacta.
 
 Delegados de prevención: son los representantes de los trabajadores con funciones espe-
@@ -2044,7 +2044,7 @@ e Remisión de la documentación relacionada con el orden del día a la secretar
 y del CPSS, con anterioridad a su celebración.
 + Deber de sigilo profesional.
 
-PROO06 Vigilancia de la salud
+PR006 Vigilancia de la salud
 
 Reconocimientos médicos de vigilancia de la salud: se trata de una serie de exámenes de
 salud específicos que se realizan en función de los riesgos para la salud que se pueden
@@ -2356,11 +2356,11 @@ correctamente y no sobresalgan del carro o jaula.
 -Cuando deposites en un mismo carro bandejas y productos al descubierto, apila las bandejas en altura
 en un mismo lado y el resto de envío al otro. Nunca intercales bandejas con envíos al descubierto.
 
-PRO13 Gestión de EPI
+PR013 Gestión de EPI
 
-EPI: Según el art. 2 del Real Decreto 773/1497, se trata de cualquier equipo llevado o
+EPI: Según el art. 2 del Real Decreto 773/1997, se trata de cualquier equipo llevado o
 sujetado por el trabajador para protegerse de algún riesgo de su puesto de trabajo. La Ley
-31/1445 de Prevención de Riesgos Laborales en su art. 17 detalla la normativa sobre los
+31/1995 de Prevención de Riesgos Laborales en su art. 17 detalla la normativa sobre los
 equipos de protección individual (EP!).
 
 Modalidad de entrega
@@ -2426,17 +2426,17 @@ Para trabajos a la intemperie, muelles, etc. Cuando las condiciones climatológi
 lo requieran: chaquetón de carga y descarga.
 
 Toda entrega del equipo correspondiente irá acompañado de las instrucciones para su
-correcto uso y mantenimiento, recogiendo su firma en el recibí según PROO13-RO1 Registro
+correcto uso y mantenimiento, recogiendo su firma en el recibí según PR013-RO1 Registro
 entrega de EPl.
 
-La reposición de EPl se realizará respetando los periodos establecidos en la PROO13-1001
+La reposición de EPl se realizará respetando los periodos establecidos en la PR013-1001
 Instrucción para el establecimiento de EPI por puesto y modalidad de entrega.
 
 Fin de contrato
 
 Los EPI entregados bajo la modalidad de devolución (a saber: casco de moto, ahuyentador)
 o higienización (chaquetón de reparto y cubrepantalón) serán devueltos al cese de la activi-
-dad al jefe de la unidad, quien recogerá la firma en el PROO13-RO3 Registro devolución de
+dad al jefe de la unidad, quien recogerá la firma en el PR013-RO3 Registro devolución de
 EPI para dejar constancia de la devolución-estado.
 
 Obligaciones del trabajador
@@ -2463,11 +2463,11 @@ TEMA 2. Experiencia de personas en Correos. Diversidad, inclusión e igualdad. P
 
 Cuando un problema de salud impida la utilización de alguno de los equipos de uso obliga-
 torio, en función del puesto ocupado y siempre que medie justificación (informe de médico
-especialista) de esta situación, se seguirá lo establecido en el PROO16 Procedimiento de
+especialista) de esta situación, se seguirá lo establecido en el PR016 Procedimiento de
 trabajadores especialmente sensibles, previa comunicación de esta situación por parte del
 trabajador al jefe de unidad.
 
-PRO14 Plan de emergencias
+PR014 Plan de emergencias
 
 Comité Local de Emergencia: estará formado, dependiendo de la ocupación y de las carac-
 terísticas del local, por el jefe de emergencia, el jefe de intervención y todas aquellas otras
@@ -2521,7 +2521,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 TEMA 2. Experiencia de personas en Correos. Diversidad, inclusión e igualdad. Prevención de riesgos y bienestar
 
 Una vez confeccionado se remite copia al responsable del centro. El responsable del centro
-de trabajo debe cumplimentar el documento «PROO14-1001-RO1 Nombramiento y actualiza-
+de trabajo debe cumplimentar el documento «PR014-1001-RO1 Nombramiento y actualiza-
 ción de equipos de emergencias y encargado del ascensor».
 
 El jefe de emergencias del centro tiene las siguientes funciones:
@@ -2547,12 +2547,12 @@ e Conocer el punto de reunión en caso de evacuación.
 
 + Mantener los medios de protección contra incendios y salidas de planta accesibles.
 
-PRO16 Procedimiento de trabajadores especialmente sensibles
+PR016 Procedimiento de trabajadores especialmente sensibles
 
 Este procedimiento define las actuaciones específicas para proteger a los trabajadores espe-
 cialmente sensibles a determinados riesgos, o a aquellos que se encuentren en estados
 o situaciones transitorias que no respondan a las exigencias psicofísicas de su puesto de
-trabajo tal y como lo establece el art. 25 de Ley 31/1495, de 8 de noviembre, de Preven-
+trabajo tal y como lo establece el art. 25 de Ley 31/1995, de 8 de noviembre, de Preven-
 ción de Riesgos Laborales.
 
 Son trabajadores especialmente sensibles aquellos que por sus propias características
@@ -2583,7 +2583,7 @@ El trabajador puede ser considerado:
 
 + Apto con limitaciones: cuando el trabajador se encuentra en estados o situaciones
 transitorias que no respondan a las exigencias psicofísicas de determinadas tareas
-de su puesto de trabajo, y para el cumplimiento del art. 25 de la Ley 31/1495, de
+de su puesto de trabajo, y para el cumplimiento del art. 25 de la Ley 31/1995, de
 8 de noviembre, de Prevención de Riesgos Laborales, se le eximirá de la realización
 de dichas tareas o en caso de que esto no sea posible se le desplazará temporalmente
 al mismo puesto de trabajo en una unidad de destino que permita la adecuación de
@@ -2637,7 +2637,7 @@ EVITAR
 
 FOMENTAR
 
-PRO17 Procedimiento de actuación para trabajadoras en situación de embarazo,
+PR017 Procedimiento de actuación para trabajadoras en situación de embarazo,
 lactancia o parto reciente
 
 Este procedimiento tiene como finalidad garantizar la protección de las trabajadoras que se
@@ -2743,7 +2743,7 @@ Protocolos preventivos
 
 Dentro del Plan de Prevención de Correos hay una serie de protocolos preventivos y reco-
 mendaciones técnicas que son de aplicación al grupo profesional de Operativos.
-PTOO1 Protocolo sobre seguridad en el manejo de carros y jaulas
+PT001 Protocolo sobre seguridad en el manejo de carros y jaulas
 
 Garantizar que la utilización y manejo de carros y jaulas para el desarrollo del trabajo en los
 diferentes centros de Correos, se realiza en condiciones adecuadas de seguridad. Entre las
@@ -2872,7 +2872,7 @@ Las motos con cofre «normal» llevarán la primera pegatina. Los motos con cofr
 
 pegatinas.
 
-PTOO4 Protocolo sobre seguridad en la carga de reparto en moto
+PT004 Protocolo sobre seguridad en la carga de reparto en moto
 
 Garantizar la correcta carga en las motos de reparto, asegurando la correcta distribución de
 la carga en los lugares habilitados para ello, la no superación de la carga máxima admisible
@@ -2941,7 +2941,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 TEMA 2. Experiencia de personas en Correos. Diversidad, inclusión e igualdad. Prevención de riesgos y bienestar
 
-PTOO5 Protocolo de actuación frente a posibles agresiones de perros
+PT005 Protocolo de actuación frente a posibles agresiones de perros
 
 Este documento establece mecanismos para proteger al trabajador frente a agresiones
 causadas por perros, garantizando así la seguridad y la salud de los mismos.
@@ -2960,7 +2960,7 @@ mediante el Anexo |.
 Los jefes de Red de Distribución de zona determinarán las unidades de reparto en las que
 se dotará a los trabajadores de reparto de un equipo de protección individual al efecto (ahu-
 yentador de perros). La gestión de estos equipos se realizará conforme a lo establecido en
-el PROO13 Procedimiento de gestión de EPl.
+el PR013 Procedimiento de gestión de EPl.
 
 Ante la agresión de perros (con o sin lesiones) durante el desempeño del trabajo se proce-
 derá según lo establecido en el procedimiento de investigación de accidentes de trabajo.
@@ -3037,7 +3037,7 @@ En el caso de que se incoe procedimiento penal como consecuencia de la denuncia 
 sentada, comunicar al responsable de la unidad para que tramite la asistencia jurídica a
 través de la línea jerárquica.
 
-PTOOS Protocolo de actuación frente a condiciones climatológicas adversas
+PT008 Protocolo de actuación frente a condiciones climatológicas adversas
 
 En el presente documento, se expondrán las medidas a tener en cuenta por los trabajado-
 res de Correos para hacer frente a la climatología y a los distintos factores meteorológicos
@@ -3365,7 +3365,7 @@ El 25 de septiembre de 2015, los Estados miembros de la Naciones Unidas aprobaro
 resolución en la que reconocen que el mayor desafío del mundo actual es la erradicación
 de la pobreza y afirman que sin lograrla no puede haber desarrollo sostenible.
 
-La Agenda plantea 17 Objetivos con 164 metas de carácter integrado e indivisible que
+La Agenda plantea 17 Objetivos con 169 metas de carácter integrado e indivisible que
 abarcan las esferas económica, social y ambiental.
 
 Se trata de una Agenda inclusiva que tiene como objetivo principal conseguir un cambio
@@ -3416,8 +3416,8 @@ tratables, como la malaria y la tuberculosis.
 El legado y los logros de los ODM han brindado lecciones y experiencias valiosas para
 comenzar a trabajar en pos de los nuevos Objetivos.
 
-El texto final que desarrolla los 17 Objetivos de Desarrollo Sostenible (ODS), con 164
-metas, fue aprobado formalmente por los 143 líderes mundiales durante la Cumbre de las
+El texto final que desarrolla los 17 Objetivos de Desarrollo Sostenible (ODS), con 169
+metas, fue aprobado formalmente por los 193 líderes mundiales durante la Cumbre de las
 Naciones Unidas que se celebró en la ciudad de Nueva York entre los días 25 y el 27 de
 septiembre de 2015.
 
@@ -3657,7 +3657,7 @@ Emergencia climática
 
 2020 será recordado durante décadas como el año de la pandemia. La crisis sanitaria y
 económica llenarán los libros de historia de un año que ha sacudido el mundo que conocía-
-mos. Pero el virus COVID-14 irrumpió en una agenda política global que se proyectaba muy
+mos. Pero el virus COVID-19 irrumpió en una agenda política global que se proyectaba muy
 distinta y en la cual el cambio climático tenía un papel protagonista.
 
 Hoy en día todos los países del mundo se centran en dominar una crisis sanitaria y econó-
@@ -3746,7 +3746,7 @@ actividad y cumplir los compromisos con la sociedad en cada una de las áreas.
 Correos lleva más de 30 años implicada en generar valor compartido a nivel social, econó-
 mico y medioambiental.
 
-Durante la Cumbre del Clima 2014 (COP 25), celebrada en Madrid, Correos presentó los
+Durante la Cumbre del Clima 2019 (COP 25), celebrada en Madrid, Correos presentó los
 compromisos que se han asumido para 2030 en materia de sostenibilidad, con la convicción
 de que es necesario asumir metas más ambiciosas frente al cambio climático.
 
@@ -4036,13 +4036,13 @@ gidas de alimentos puntuales, la participación en La Gran Recogida de Alimentos
 desde FESBAL (Federación Española de Bancos de Alimentos), así como las recogidas de
 juguetes, de material escolar, de libros y de cartas para los Reyes Magos en hospitales y
 asociaciones de todo el territorio. «Ayudar en todo lo que podamos» fue el lema del com-
-promiso de Correos durante el confinamiento causado por la COVID-14,
+promiso de Correos durante el confinamiento causado por la COVID-19,
 
 Correos se puso al servicio de la sociedad para hacer llegar todo lo necesario a los ciudada-
 nos, colectivos vulnerables y todos aquellos profesionales que, en esos difíciles momentos,
 estaban realizando labores esenciales.
 
-La ejemplar movilización de todos los trabajadores, y en especial de 3.242 voluntarios y
+La ejemplar movilización de todos los trabajadores, y en especial de 3.292 voluntarios y
 voluntarias, desde el mismo inicio de la pandemia, creó una auténtica red solidaria, bajo la
 máxima de «Ayudar en todo lo que podamos». Durante las diez semanas del confinamiento,
 estos voluntarios y voluntarias de Correos participaron en cerca de 500 iniciativas solidarias,
@@ -4050,14 +4050,14 @@ dando apoyo logístico y humano a sanitarios, ancianos, familias vulnerables, es
 todos aquellos colectivos que lo necesitaron.
 
 A finales de mayo de 2020, se habían gestionado miles de envíos solidarios que llegaron
-a más de 815.000 beneficiarios, distribuido más de 442.000 kilos de alimentos y entregado
+a más de 815.000 beneficiarios, distribuido más de 942.000 kilos de alimentos y entregado
 más de 1,2 millones de artículos sanitarios o de protección, colaborando con más de 360
-empresas, 1490 entidades sociales y 150 Administraciones públicas.
+empresas, 190 entidades sociales y 150 Administraciones públicas.
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 Compromiso de Correos
-durante la COVID-14.
+durante la COVID-19.
 
 [[ página 70 de 81 · ocr ]]
 
@@ -4120,7 +4120,7 @@ de cadenas logísticas sostenibles.
 Por su parte, el Plan Nacional Integrado de Energía y Clima 2021-2030 (PNIEC) ha definido
 los objetivos de reducción de emisiones de gases de efecto invernadero, de penetración
 de energías renovables y de eficiencia energética. El Plan contempla que los sectores difu-
-sos, como el del transporte, contribuyan con una mitigación del 34% en 2030. Otra fuerza
+sos, como el del transporte, contribuyan con una mitigación del 39% en 2030. Otra fuerza
 motriz impulsora de la descarbonización será la presencia de renovables en la movilidad,
 que alcanzará el 28% en 2030, mediante la electrificación?.
 
@@ -4285,7 +4285,7 @@ Uno de los principales objetivos de Correos en materia medioambiental es reducir
 siones de gases de efecto invernadero y la huella de carbono, con la finalidad de colaborar
 en la transición hacia una economía baja en carbono.
 
-Desde 1946, en Correos se evalúan e incorporan medios de transporte que emplean com-
+Desde 1996, en Correos se evalúan e incorporan medios de transporte que emplean com-
 bustibles alternativos a los derivados del petróleo, contando actualmente con una de las
 mayores flotas eléctricas del sector.
 
