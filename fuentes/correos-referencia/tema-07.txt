@@ -267,14 +267,14 @@ propios medios de pago:
 
 A) Billetes y moneda metálica de curso legal
 
-Con motivo de la entrada en vigor de la Ley 11/2021, de 4 de julio, de Medidas de Pre-
+Con motivo de la entrada en vigor de la Ley 11/2021, de 9 de julio, de Medidas de Pre-
 vención y Lucha contra el Fraude Fiscal, no se puede gestionar el cobro en metálico por un
-importe superior a 449,499 €,
+importe superior a 999,99 €,
 
 Se excluyen de esta limitación los recibos emitidos por entidades financieras y la Dirección
 General de Tráfico, Correos Pay Premium (antes Tenvío), Correos Cash, Western Union y
 Giros OIC (orden de ingreso en cuenta) y Reembolsos OIC, en estos dos últimos el importe
-puede ser hasta 2.444,99 € para los giros a abonar en cuenta.
+puede ser hasta 2.499,99 € para los giros a abonar en cuenta.
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (277)
 
@@ -1047,7 +1047,7 @@ autorización oficial.
 
 cualquiera de los derechos fundamentales de la persona.
 
-. Los envíos de armas, conforme a lo establecido en el Real Decreto 137/1443,
+. Los envíos de armas, conforme a lo establecido en el Real Decreto 137/1993,
 
 de 24 de enero, por el que se aprueba el Reglamento de Armas.
 
@@ -1060,7 +1060,7 @@ A estos efectos, se considerarán materias o sustancias radiactivas las que so-
 brepasen los límites establecidos en la legislación sobre energía nuclear y sobre
 transporte de mercancías peligrosas, y será preceptivo que, en su traslado y
 embalaje, se cumplan las disposiciones de la Ley 25/1964, de Energía Nuclear,
-del Real Decreto 53/1492, de 24 de enero, de Protección Sanitaria contra Ra-
+del Real Decreto 53/1992, de 24 de enero, de Protección Sanitaria contra Ra-
 diaciones lonizantes, de las normas reguladoras del transporte de mercancías
 peligrosas y de las demás normativas específicas que resulten aplicables.
 
@@ -1367,10 +1367,10 @@ embalaje 650 y hielo seco como refrigerante para 3373.
 + Baterías de ion litio o metal litio:
 
 — Baterías de ¡on litio instaladas en un equipo (ONU 3481) según la instrucción de em-
-balaje 467. Máximo 4 pilas (< 20 Wh) o 2 baterías (< 100 Wh) en un solo bulto.
+balaje 967. Máximo 4 pilas (< 20 Wh) o 2 baterías (< 100 Wh) en un solo bulto.
 
-— Baterías de metal litio instaladas en un equipo (ONU 3041) según la Instrucción de
-embalaje 470. Máximo 4 pilas (< 1 g) o 2 baterías.
+— Baterías de metal litio instaladas en un equipo (ONU 3091) según la Instrucción de
+embalaje 970. Máximo 4 pilas (< 1 g) o 2 baterías.
 
 A) Tratamiento de las mercancías peligrosas
 
@@ -2714,7 +2714,7 @@ franqueo.
 + Adherir una etiqueta informativa en el anverso del envío con el siguiente texto:
 «Este envío ha sido franqueado de forma insuficiente. De acuerdo con lo establecido
 en el artículo 76 del Reglamento que regula la prestación de los servicios postales,
-aprobado por Real Decreto 1824/1499, de 3 de diciembre, debe abonar el importe
+aprobado por Real Decreto 1829/1999, de 3 de diciembre, debe abonar el importe
 de la tarifa por insuficiencia de franqueo que se indica en el anverso, para lo cual
 presentará la cubierta de este envío en cualquier oficina de Correos y Telégrafos.
 Comunique al remitente la obligación de franquear correctamente para evitar moles-
@@ -19517,10 +19517,10 @@ e 1:38 x 45 x 60 cm e XL: 78x 45 x 60 cm
 Z o Mueble pequeño:
 e L
 E z Citypaq
-=— Chypaq OS . S:4x23x34 cm
+=— Chypaq OS . S: 9x23x39 cm
 focanes el elige sparaz + M: 9x 48 x 39 cm
 2... e 1: 19x 48 x 39 cm
-| Recoger | e XL: 54 x 48 x 39 cm
+| Recoger | e XL: 59 x 48 x 39 cm
 Cancelar envío
 o O o
 a Citypaq O Citypaq Durante el proceso de admisión en

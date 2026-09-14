@@ -27,34 +27,39 @@ lema 11
 
 Internacionalización y Aduanas
 
-[[ página 2 de 44 · texto ]]
+[[ página 2 de 44 · ocr rota ]]
 
-11.1. lnternacionalizaci6n de Correos 
-11.1.1. El negocio internacional en Correos 
-11.1.2. Exportación internacional: productos y procesos 
-11.1.3. Importación internacional 
-11.1.4. Customer service/experience 
-11.1.5. Sistema de trazabilidad internacional 
-11.2. Gesti6n aduanera 
-11.2.1. Evolución del mercado y la aduana 
-11.2.2. Actores principales en la cadena logística postal 
-11.2.3. Despachos aduaneros. Operadores privados y operadores postales (Correos) 
-11.2.4. Avance electrónico de datos 
-11.2.5. Envíos con mercancía: declaración de Importación. DUA versus H7 (acuerdos especiales) 
-11.2.6. Sistema IOSS/H7: lmport One Stop Shop 
-11.3. Información aduanera 
-11.3.1. Definición de envíos sujetos a trámites aduaneros de importación en destino 
-11.3.2. Productos postales susceptibles de trámites aduaneros 
-11.3.3. Impresos/documentos 
-11.3.4. Despachos de aduanas con Correos: autorización de despacho del cliente 
-11.4. Correos como representante aduanero 
-11.4.1. Antecedentes 
-• 
-11.4.2. Importación en península a partir del 1/7 /2021 
-11.4.3. Modificación del procedimiento de importación en Canarias 
-11.4.4. Procedimiento de importación en Ceuta 
-11.4.5. DUA de exportación 
-© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+Contenido Ñ
+
+11.1. Internacionalización de Correos
+11.1.1. El negocio internacional en Correos
+11.1.2. Exportación internacional: productos y procesos
+11.1.3. Importación internacional
+11.1.4. Customer service/experience
+11.1.5. Sistema de trazabilidad internacional
+
+11.2. Gestión aduanera
+11.2.1. Evolución del mercado y la aduana
+11.2.2. Actores principales en la cadena logística postal
+11.2.3. Despachos aduaneros. Operadores privados y operadores postales (Correos)
+11.2.4. Avance electrónico de datos
+11.2.5. Envíos con mercancía: declaración de Importación. DUA versus H7 (acuerdos especiales)
+11.2.6. Sistema lOSS/H7: Import One Stop Shop
+
+11.3. Información aduanera
+11.3.1. Definición de envíos sujetos a trámites aduaneros de importación en destino
+11.3.2. Productos postales susceptibles de trámites aduaneros
+11.3.3. Impresos/documentos
+11.3.4. Despachos de aduanas con Correos: autorización de despacho del cliente
+
+11.4. Correos como representante aduanero
+11.4.1. Antecedentes
+11.4.2. Importación en península a partir del 1/7/2021
+11.4.3. Modificación del procedimiento de importación en Canarias
+11.4.4. Procedimiento de importación en Ceuta
+11.4.5. DUA de exportación
+
+(152 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 3 de 44 · ocr ]]
 
@@ -243,7 +248,7 @@ electrónico en España superó los 13.600 millo-
 nes de (un 13,7% más que el año anterior).*
 
 (*) Fuente: Comisión Nacional de los Mercados y la
-Competencia (CNMC).
+Competencia (CNMOC).
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
