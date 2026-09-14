@@ -113,3 +113,9 @@ tema	volcado	documento	como_se_comprobo
 01	Real Decreto 1165/1945	Real Decreto 1165/1995	por el nombre: «Real Decreto 1165/1995, de 7 de julio»
 01	fundada en 1484	fundada en 1989	a la vista, página 41
 01	se inició en España en 1945	se inició en España en 1995	a la vista, página 73
+03	exceda de 490 cm	exceda de 90 cm	a la vista, página 5: el máximo del rollo es L+2D=104 cm con D≤90 cm
+03	39x349x24 cm	39x39x29 cm	a la vista, página 41
+03	Z4.- Origen Canarias destino Portugal peninsular	Z9.- Origen Canarias destino Portugal peninsular	a la vista, página 48
+03	el 945% de los envíos	el 95% de los envíos	a la vista, página 26
+03	Sobre/Caja: 14x 4 cm	Sobre/Caja: 14x9 cm	a la vista, páginas 5 y 60; misma medida mínima que el resto del catálogo
+03	CCRI: hasta 250 q	CCRI: hasta 250 g	el reconocedor lee la ge como cu en las unidades de peso

@@ -995,7 +995,7 @@ Medidas
 Máximas:
 
 . Formato caja/sobre: L+A+A = 90 cm sin que la medida mayor exceda de 60 cm.
-e Formato Rollo: L+2D = 104 cm sin que la medida mayor exceda de 490 cm.
+e Formato Rollo: L+2D = 104 cm sin que la medida mayor exceda de 90 cm.
 
 Mínimas:
 
@@ -1668,7 +1668,7 @@ Peso
 
 Franqueo en destino (FD): hasta 2 kg.
 
-CCRI: hasta 250 q.
+CCRI: hasta 250 g.
 
 Características específicas de la imagen franqueo en destino en los envíos
 
@@ -1815,7 +1815,7 @@ Plazo de entrega
 
 Nacional:
 
-Entre 2 y 6 días hábiles (en 6 días hábiles el 945% de los envíos).
+Entre 2 y 6 días hábiles (en 6 días hábiles el 95% de los envíos).
 Internacional:
 
 Europa: de 6 a 8 días hábiles.
@@ -2432,7 +2432,7 @@ Tarjeta Postal: 23,5x 12 cm.
 
 Mínimas:
 
-Sobre/Caja: 14x 4 cm.
+Sobre/Caja: 14x9 cm.
 
 Rollo/Tubo: L+2D = 17 cm (L, D > 10 cm).
 
@@ -2687,7 +2687,7 @@ dimensiones.
 Dimensiones
 
 + Mínimas: Las dimensiones que permitan adherir una etiqueta de 10x 14,5 cm.
-e Máximas: 39x349x24 cm.
+e Máximas: 39x39x29 cm.
 
 Entrega de los envíos
 
@@ -3115,7 +3115,7 @@ Z6.- Canarias interislas.
 
 Z7.- Origen Peninsular destino Portugal peninsular.
 Z8.- Origen Baleares, Ceuta y Melilla destino Portugal peninsular.
-Z4.- Origen Canarias destino Portugal peninsular.
+Z9.- Origen Canarias destino Portugal peninsular.
 Plazos de Entrega
 
 48/72 horas según origen/destino para el 1.* intento de entrega o puesta a dis-
