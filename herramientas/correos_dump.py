@@ -11,7 +11,12 @@ exactamente lo que el apartado 10 del manual llama el fallo que no da error.
 
 **Lo que hace.** Página a página, y en este orden:
 
-  1. **Si la página trae capa de texto**, se toma tal cual. Son 225 de las 1.334,
+  0. **Si la capa de texto está corrupta, se descarta y se reconoce.** Un PDF puede
+     traer texto y que ese texto sea basura porque la fuente incrustada mapea mal
+     los caracteres. Se detecta por la ortografía y se avisa en el rótulo de la
+     página, que entonces dice `ocr rota`. Con `--ocr` se fuerza el reconocimiento
+     de todas las páginas, sin mirar la capa.
+  1. **Si la página trae capa de texto sana**, se toma tal cual. Son 225 de las 1.334,
      y salen mejor que cualquier reconocimiento óptico.
   2. **Si no la trae**, se rasteriza a 300 puntos por pulgada y se pasa por
      `tesseract -l spa`. A esa resolución la tipografía del documento —limpia,
@@ -37,6 +42,7 @@ Uso:
 """
 import os
 import subprocess
+import re
 import sys
 import tempfile
 
@@ -47,6 +53,29 @@ import pymupdf
 # página o el rótulo de copyright como texto de verdad** y todo lo demás como
 # dibujo: darlas por buenas dejaría el cuerpo fuera del volcado sin avisar.
 MINIMO_TEXTO = 200
+FORZAR_OCR = False
+
+# **Una capa de texto puede existir y ser basura, y eso es peor que no tenerla.**
+# En los temas 4, 6 y 11 el PDF sí trae texto, pero **la fuente incrustada mapea
+# mal los caracteres**: «servicios» sale «sel'Ylclos», «Cliente» sale «Cllente»,
+# «Oficinas» sale «Oflclnae» y «DOI» sale «001». El volcado prefería esa capa por
+# ser más larga que el mínimo, y se llevaba la basura entera **sin avisar**, que
+# es exactamente el fallo que no da error.
+#
+# **La señal que lo delata es ortográfica y no falla**: el defecto cambia la i
+# por una ele, y **el español no admite una ele entre dos consonantes ni una ele
+# doble detrás de consonante**. «Soluclones dlgltales», «Fllatella», «Cllente» y
+# «Oflclnas» no son palabras: son la ele que era una i. Dos de ellas en una
+# página bastan para desconfiar de la capa entera y reconocerla ópticamente, que
+# es la fuente que este proyecto sabe comprobar.
+#
+# **La prueba se hace sólo sobre la capa de texto, nunca sobre lo reconocido.**
+# Un volcado óptico tiene ruido —cadenas como «DDL» o «LRD» que salen de las
+# cenefas— y con esta regla saldría marcado entero sin estarlo.
+CAPA_ROTA = re.compile(
+    r"[bcdfgjkmnpqrstvxzñ]l(?=[bcdfgjkmnpqrstvxzñ])"
+    r"|\bl(?=[bcdfgjkmnpqrstvxzñ])", re.I)
+UMBRAL_ROTA = 2
 
 
 def ocr(pagina, dpi):
@@ -69,6 +98,8 @@ def main():
         sys.exit(__doc__)
     entrada, salida = sys.argv[1], sys.argv[2]
     dpi = 300
+    global FORZAR_OCR
+    FORZAR_OCR = "--ocr" in sys.argv
     if "--dpi" in sys.argv:
         dpi = int(sys.argv[sys.argv.index("--dpi") + 1])
 
@@ -87,17 +118,20 @@ def main():
         "de escribirlo.",
         "",
     ]
-    n_ocr = n_txt = 0
+    n_ocr = n_txt = n_rotas = 0
     for i in range(doc.page_count):
         pagina = doc[i]
         t = pagina.get_text().strip()
-        if len(t) >= MINIMO_TEXTO:
+        rota = len(CAPA_ROTA.findall(t)) >= UMBRAL_ROTA
+        if len(t) >= MINIMO_TEXTO and not rota and not FORZAR_OCR:
             origen = "texto"
             n_txt += 1
         else:
             t = ocr(pagina, dpi).strip()
-            origen = "ocr"
+            origen = "ocr rota" if rota else "ocr"
             n_ocr += 1
+            if rota:
+                n_rotas += 1
         trozos.append("\n[[ página %d de %d · %s ]]\n" % (i + 1, doc.page_count, origen))
         trozos.append(t)
         if (i + 1) % 25 == 0:
@@ -108,6 +142,9 @@ def main():
     print("· %s · %d páginas (%d de texto, %d reconocidas) · %d KB"
           % (salida, doc.page_count, n_txt, n_ocr,
              os.path.getsize(salida) // 1024))
+    if n_rotas:
+        print("  · %d páginas traían capa de texto CORRUPTA y se han reconocido"
+              % n_rotas)
 
 
 if __name__ == "__main__":

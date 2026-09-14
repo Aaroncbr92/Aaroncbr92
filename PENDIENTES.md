@@ -17,7 +17,35 @@ Cada entrada, cinco campos:
 
 ## Abiertos
 
-_**Ninguno, a 4 de septiembre de 2026.** Los cinco que quedaban abiertos se cerraron ese día: los
+### 2026-09-14 · Los temas 8 y 12 de Correos tienen corrupta la rotulación de sus diagramas
+
+**Dónde.** `fuentes/correos-referencia/tema-08.txt`, y la página de índice de
+`fuentes/correos-referencia/tema-12.txt`.
+
+**Qué dice hoy.** El volcado del tema 8 trae cadenas como **«2ILFLQDV»** y **«5HFRJLGDD»** donde el
+diagrama rotula «Oficinas» y «Recogidas»: **la fuente incrustada de esos rótulos mapea mal los
+caracteres**, con un desplazamiento del alfabeto. El cuerpo del tema 8 está sano —son ocho renglones
+sobre noventa y siete páginas de texto— y la corrupción se limita a la rotulación de dos diagramas.
+La página de índice del tema 12 trae **«Prevencl6n de blanq,ueo de capltales»** y **«Seguridad de la
+lnformacl6n y clbersegurldad»**, que es el mismo defecto de la i por la ele que obligó a reconocer
+ópticamente los temas 4, 6 y 11.
+
+**Qué debería decir.** Los rótulos de los diagramas del tema 8 y el índice del tema 12, reconocidos
+ópticamente en lugar de tomados de la capa de texto. **`correos_dump.py` ya lo hace solo**: la
+detección de capa corrupta que se añadió el 14 de septiembre marca esas páginas. **Basta con volver a
+volcar los dos temas**, y no se ha hecho hoy porque son doscientas cuarenta y dos páginas de
+reconocimiento y ninguno de los dos temas está escrito todavía.
+
+**Fuente.** Comprobado sobre el propio volcado y sobre el patrón ortográfico: el español no admite
+una ele entre dos consonantes.
+
+**Gravedad.** Menor en el tema 8 —la rotulación de un diagrama no es dato de examen— e **induce a
+error** en el índice del tema 12, que es de donde sale la estructura del tema. **Se cierra cuando se
+escriban esos dos temas**, volviendo a volcarlos antes de leerlos.
+
+---
+
+_**Lo anterior a esta fecha: ninguno abierto, a 4 de septiembre de 2026.** Los cinco que quedaban abiertos se cerraron ese día: los
 informes que no pasaban la lente de prosa, el punto ciego de esa misma lente, los avisos de la lente
 de citas sobre las fórmulas propias, la tasa de paro que parecía discutir a su fuente y las dos
 preguntas de Gestión que examinan de una ley que su anexo no cita. **Cada uno lleva escrito abajo
