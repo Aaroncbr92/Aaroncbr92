@@ -126,65 +126,80 @@ transporte y la
 clasificación de los 
 envíos.
 
-[[ página 4 de 100 · texto ]]
+[[ página 4 de 100 · ocr rota ]]
 
-© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
-782
-TEMA 8. Procesos operativos II: Tratamiento y Transporte
+TEMA 8. Procesos operativos Il: Tratamiento y Transporte
+
 Entre el equipamiento postal, se puede citar:
-• Las bandejas, que hay de tipo A, B y C.
-• Las jaulas, que encontrarás de tipo estándar, plegable y alta.
-• Los carros para transportar bandejas.
-• Los contenedores plegables reutilizables.
-• Los palets.
-• El carro expositor de bandejas.
-• La flejadora eléctrica automática.
-• El retractilador eléctrico.
-• La estación generadora de etiquetas.
-• La canceladora eléctrica.
+
++ Las bandejas, que hay de tipo A, ByC.
++ Las jaulas, que encontrarás de tipo estándar, plegable y alta.
+
++ Los carros para transportar bandejas.
+
++ Los contenedores plegables reutilizables.
+
+* Los palets.
+
+» El carro expositor de bandejas.
+
+. La flejadora eléctrica automática.
+» El retractilador eléctrico.
+
++ La estación generadora de etiquetas.
+
+e La canceladora eléctrica.
+
 Algunos de los elementos que se usan en el transporte interno son:
-• Apiladores manuales.
-• Apiladores eléctricos.
-• Transpaletas manuales.
-• Transpaletas eléctricas.
-• Carretillas elevadoras eléctricas.
+
+Apiladores manuales.
+Apiladores eléctricos.
+Transpaletas manuales.
+Transpaletas eléctricas.
+Carretillas elevadoras eléctricas.
+
 8.2. La red de centros de tratamiento de Correos
+
 La red de centros de tratamiento es el elemento principal de la cadena logística.
-/DFDGHQDSRVWDOHQORV&HQWURVGH7UDWDPLHQWR
-$'0,6,v1
-75$7$0,(172
-75$163257(
-',675,%8&,v1
-&7$
-&7$
-&73
-5HFRJLGDD
-FOLHQWHV
-8$0
-86(6
-8526
-2ILFLQDV
-&7$
-&73
-86(6
-8526
-2ILFLQDV
-8.2.1. Centros de 
-tratamiento 
-automatizado  
+
+La cadena postal en los Centros de Tratamiento
+
+ADMISIÓN | . TRATAMIENTO | »
+
+TRANSPORTE | »» DISTRIBUCIÓN
+
+E ¡ A : Po -
+
+8.2.1. Centros de
+tratamiento
+automatizado
 en la red de Correos
+
 En los centros de tratamiento automa-
 tizado se realizan tareas fundamen-
-tales para todo el proceso logístico: 
-descarga de envíos, distribución por 
-los diferentes programas (nacional, 
-provincial…), encarado del correo si 
-no lo está ya, volcar el correo en las 
-zonas de alimentación de las máquinas 
-de distribución automática que hará su 
-proceso rápidamente (con el sistema 
+tales para todo el proceso logístico:
+
+CTP
+
+Oficinas USES UROS UAM Recogida a CTA
+clientes
+= y =>
+CTA
+nd. ===
+a) AER
+Oficinas USES UROS CTA CTP
+
+descarga de envíos, distribución por
+los diferentes programas (nacional,
+provincial...) encarado del correo si
+no lo está ya, volcar el correo en las
+zonas de alimentación de las máquinas
+de distribución automática que hará su
+proceso rápidamente (con el sistema
 OCR disponible en el proceso automa-
 tizado de clasificación es posible que
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 5 de 100 · texto ]]
 
@@ -1777,42 +1792,57 @@ Se inicia aquí la presentación del esquema de tratamiento de los productos obj
 en Correos. El camino desde las áreas y unidades se mostrará de la manera más sencilla 
 y didáctica posible con el fin de que, al final del apartado, el lector pueda crearse un mapa
 
-[[ página 35 de 100 · texto ]]
+[[ página 35 de 100 · ocr rota ]]
 
-© Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
-813
-TEMA 8. Procesos operativos II: Tratamiento y Transporte
-mental que englobe todo el proceso y, a la vez, tenga claras las divisiones de tratamiento 
+TEMA 8. Procesos operativos Il: Tratamiento y Transporte
+
+mental que englobe todo el proceso y, a la vez, tenga claras las divisiones de tratamiento
 necesarias según tipo de producto, áreas geográficas de procedencia y destino.
-El conocimiento de cada área, unidad, herramienta de trabajo... es fundamental para el 
-desarrollo de la tarea asignada a cada persona y, finalmente, para la prestación de un 
+
+El conocimiento de cada área, unidad, herramienta de trabajo... es fundamental para el
+desarrollo de la tarea asignada a cada persona y, finalmente, para la prestación de un
 servicio de calidad al cliente de Correos.
+
 8.5.1. Áreas de los centros
+
 La cadena postal se representa gráficamente de la siguiente manera:
-Las áreas dentro de un centro de 
-tratamiento se dividen en tres uni-
-dades perfectamente sincroniza-
-das y conectadas para el correcto 
+
+La cadena postal en los Centros de Tratamiento
+
+| ADMISIÓN Jal TRATAMIENTO ES
+
+r
+TRANSPORTE | » | DISTRIBUCIÓN |
+
+== (=> a YU
+Oficinas USES UROS UAM Recogida a CTA CTP
+> clientes
+ZE Y
+CTA
+Fer l ==
+Oficinas USES UROS CTA CTP
+Las áreas dentro de un centro de FC (Buzones)
+. o, . Unidad de productos - -
+tratamiento se dividen en tres uni- ordinarios (UPO) Área de clasificación Linea normalizado IRV + FSM
+. . os automática -
+dades perfectamente sincroniza- A ao! Línea NO normalizado TOP - FLAT
+das y conectadas para el correcto GI .. A
+y . p o Área de clasificación manual
 funcionamiento del centro.
-/DFDGHQDSRVWDOHQORV&HQWURVGH7UDWDPLHQWR
-$'0,6,v1
-75$7$0,(172
-75$163257(
-',675,%8&,v1
-&7$
-&7$
-&73
-5HFRJLGDD
-FOLHQWHV
-8$0
-86(6
-8526
-2ILFLQDV
-&7$
-&73
-86(6
-8526
-2ILFLQDV
+scP
+Unidad de productos Área de clasificació SCG
+egistrad UPR A
+registrados ( ) 5 Cap
+IRV
+Área de clasificación manual
+Muelles de entrada
+Zona de entrada Almacén de entrada
+Escáner
+Rines de consolidación de cargas
+Zona de salida Almacenes de salida
+Muelles de salida
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 36 de 100 · texto ]]
 

@@ -116,10 +116,10 @@ TEMA 10. El cliente: atención al cliente y calidad. Protocolos de Ventas
 
 10.1.1. Introducción
 
-Desde 1444, declarado «año de la calidad» en Correos, la compañía ha afrontado el reto de
+Desde 1999, declarado «año de la calidad» en Correos, la compañía ha afrontado el reto de
 la calidad con la visión de alcanzar la excelencia. Para ello se ha apoyado en dos sistemas
 complementarios de gestión de la calidad: el modelo EFQM de excelencia, acrónimo en
-inglés para la Fundación Europea para la Gestión de la Calidad, y las normas ISO 4000, en
+inglés para la Fundación Europea para la Gestión de la Calidad, y las normas ISO 9000, en
 particular la norma ISO 9001:2015 «Requisitos de los sistemas de gestión de la calidad»,
 establecidas por ISO, siglas en inglés para la Organización Internacional de Normalización. En
 Correos, estos dos modelos de gestión se toman como referencia de lo que se debe hacer.
@@ -595,7 +595,7 @@ resultado de la misma en el que se incluye la puntuación obtenida por la unidad
 de ser necesario, emitiendo recomendaciones al centro.
 
 Estas visitas son esenciales para el mantenimiento de las certificaciones de Correos, ya
-que son un requisito de la norma de calidad 1SO 4001.
+que son un requisito de la norma de calidad ISO 9001.
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
@@ -3011,7 +3011,7 @@ RD, destacan los artículos siguientes.
 + Artículo 4. Concepto de usuario de los servicios postales.
 
 Se recomienda a demás conocer los artículos siguientes (consúltese el texto del RD en
-https://www.boe.es/buscar/act.php?id=BOE-A-19949-24919):
+https://www.boe.es/buscar/act.php?id=BOE-A-1999-24919):
 
 + Artículo 5. Garantías fundamentales de los usuarios de los servicios postales.
 + Artículo 6. Secreto de los envíos postales y protección de datos.
