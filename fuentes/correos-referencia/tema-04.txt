@@ -3751,7 +3751,7 @@ OIC: al ser un ingreso en una entidad financiera, su límite es de 2.499,99 €,
 PRISIONES, ONCE, CRUZ ROJA (0 similares futuros): al ser un ingreso en una entidad
 financiera, su límite es de 2.494,99 €,
 
-INMEDIATO: se aplica una limitación de 494,99 €.
+INMEDIATO: se aplica una limitación de 999,99 €.
 
 ORDINARIO: en los giros ordinarios a domicilio, se aplica una limitación de 499,99 €,
 OFICIAL: dado el carácter de uso interno de esta tipología de giro, su límite es de 2.499,99 €,
@@ -4982,7 +4982,7 @@ de barras. No confundir con el número de la tarjeta de
 La tarjeta Correos Prepago la podrá recargar el titular o
 un tercero indicando el numero de 12 dígitos ya men-
 cionado y presente en la tarjeta. El importe mínimo
-es de 10 euros, el máximo de 494,44 euros en efec-
+es de 10 euros, el máximo de 999,99 euros en efec-
 tivo. El límite de saldo es 100.000 euros. Las tarifas
 y comisiones se encuentran actualizadas en la web de
 Correos Prepago.
@@ -5068,7 +5068,7 @@ en los siguientes casos:
 . Pagos dirigidos a entidades financieras o de crédito (p. ej., Carrefour, WiZink, etc.).
 . Pagos dirigidos a administraciones públicas (p. ej., multas de la DGT).
 
-El límite del servicio de cobro de recibos para pago en efectivo es de 494,4 euros.
+El límite del servicio de cobro de recibos para pago en efectivo es de 999,9 euros.
 Este producto no admite pago con tarjeta bancaria.
 
 En las oficinas de Correos solo se cobrarán y validarán los recibos. Si los clientes quisieran
@@ -5594,7 +5594,7 @@ Oficinas: las oficinas de Correos tienen a la venta sellos para
 coleccionismo y otros productos filatélicos. En la sección de
 «Filatelia» de la web de Correos, se puede encontrar una relación de las oficinas referidas.
 
-El Servicio Filatélico de Correos fue creado el 6 de agosto de 1446. Luis Rodríguez Miguel,
+El Servicio Filatélico de Correos fue creado el 6 de agosto de 1946. Luis Rodríguez Miguel,
 director general de Correos, dictó una orden ministerial por la que se creaba el Servicio
 Filatélico de Correos.
 
@@ -5620,7 +5620,7 @@ Se pusieron a la venta, en ventanillas especiales del Palacio de Comunicaciones 
 sellos de España y, también, de las oficinas españolas en Andorra y Tánger. Más tarde se
 ampliaría con la venta de sellos de las emisiones de Ifni, Guinea y el Sahara.
 
-El crecimiento del Servicio Filatélico fue imparable y, en 1485, pasó a ser una Jefatura de
+El crecimiento del Servicio Filatélico fue imparable y, en 1985, pasó a ser una Jefatura de
 Servicio adscrita a la Subdirección General de Comercialización.
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (383)
@@ -5840,7 +5840,7 @@ En cuanto a sus dimensiones, estos sellos en papel autoadhesivo fosforescente pr
 por la Fábrica Nacional de la Moneda y Timbre se presentan en pliegos que, dependiendo
 del modelo, contiene un determinado número de sellos:
 
-e Sello clásico: 28,8 x 40,49 mm, 25 sellos.
+e Sello clásico: 28,8 x 40,9 mm, 25 sellos.
 * Sello panorámico: 25 x 60 mm, 15 sellos.
 e Sello con viñeta: 28 x 45 mm, 20 sellos.
 
