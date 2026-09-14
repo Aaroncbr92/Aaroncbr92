@@ -155,3 +155,13 @@ tema	volcado	documento	como_se_comprobo
 10	Desde 1444, declarado	Desde 1999, declarado	a la vista, página 3
 11	Real Decreto 137/1443	Real Decreto 137/1993	por el nombre: «Real Decreto 137/1993, de 29 de enero, Reglamento de Armas»
 11	Ley 8/1441, de 25 de marzo	Ley 8/1991, de 25 de marzo	por el nombre: «Ley 8/1991, de 25 de marzo, arbitrio sobre la producción y la importación en Ceuta y Melilla»
+09	Directiva 47/67/CE	Directiva 97/67/CE	por el nombre: la Directiva postal es la 97/67/CE, de 15 de diciembre de 1997
+09	^4.N al principio de renglón	^9.N	por la estructura del tema: todos sus epígrafes son 9.x, y el reconocedor lee el nueve como cuatro
+09	El 43% de las cartas ordinarias	El 93% de las cartas ordinarias	a la vista, página 5: el objetivo D+3 imprime 93 %, junto al 93 % de certificadas
+09	El 45% de los paquetes	El 95% de los paquetes	a la vista, página 5: el objetivo D+5 imprime 95 %, junto al 99 % de cartas
+09	TEMA 4. Procesos operativos	TEMA 9. Procesos operativos	por la estructura del documento: es el tema 9, y el reconocedor lee el nueve como cuatro en el encabezado de todas las páginas
+09	49.6. Otros procesos	9.6. Otros procesos	a la vista, página 127: el epígrafe imprime «9.6.», y el reconocedor antepuso un cuatro al nueve
+09	9.8.4. Devoluciones	9.8.9. Devoluciones	a la vista, página 206: el epígrafe imprime «9.8.9.», último de la serie tras el 9.8.8; el reconocedor lee el nueve final como cuatro
+09	EAMI: enlace rural	EAM: enlace rural	a la vista, página 173: la serie imprime EAM, EAP, EBM, EBP, OAM, OAP, OBM, OBP; el reconocedor añade una i
+09	EBMI: enlace rural	EBM: enlace rural	a la vista, página 173: la serie imprime EBM; el reconocedor añade una i
+09	OAMI: oficina auxiliar	OAM: oficina auxiliar	a la vista, página 173: la serie imprime OAM; el reconocedor añade una i

@@ -33,54 +33,54 @@ Contenido
 
 A
 9.1. Distribución y entrega. Cuestiones generales
-4.1.1. Normas generales sobre la distribución y la entrega de los envíos postales
-4.1.2. Nuevos puntos de distribución, entornos o circunstancias especiales de reparto o condiciones especiales
-4.1.3. Referencias normativas
+9.1.1. Normas generales sobre la distribución y la entrega de los envíos postales
+9.1.2. Nuevos puntos de distribución, entornos o circunstancias especiales de reparto o condiciones especiales
+9.1.3. Referencias normativas
 9.2. Unidades de distribución
-4.2.1. Unidad de reparto ordinario (URO)
-4.2.2. Unidad de reparto de paquetería (USE y URP)
-4.3. Equipamiento y mobiliario específico en distribución
-4.3.1. Equipamiento
-4.3.2. Mobiliario específico
-4.3.3. Control de vehículos
-4.3.4. Entrega de útiles de reparto
+9.2.1. Unidad de reparto ordinario (URO)
+9.2.2. Unidad de reparto de paquetería (USE y URP)
+9.3. Equipamiento y mobiliario específico en distribución
+9.3.1. Equipamiento
+9.3.2. Mobiliario específico
+9.3.3. Control de vehículos
+9.3.4. Entrega de útiles de reparto
 9.4. Procesos de trabajo en las unidades de distribución
 9.4.1. Descarga, clasificación y embarriado
-4,4,2. Reparto y liquidación
-4.5. Procesos de entrega en las oficinas
-4.5.1. Recepción de envíos en oficinas
-4.5.2. Entrega de envíos. Condiciones específicas de entrega
-4.5.3. Posibles fraudes en la entrega de envíos
+9,4,2. Reparto y liquidación
+9.5. Procesos de entrega en las oficinas
+9.5.1. Recepción de envíos en oficinas
+9.5.2. Entrega de envíos. Condiciones específicas de entrega
+9.5.3. Posibles fraudes en la entrega de envíos
 9.5,4. Entrega de envíos asignados en otra unidad
 9.5.5. Liquidación automática de sobrantes en oficinas
-4.5.6. Gestión y liquidación de servicios rurales. Oficinas auxiliares
+9.5.6. Gestión y liquidación de servicios rurales. Oficinas auxiliares
 9.6. Otros procesos
 9.6.1. Valijas, buzones, Citypaq y recogidas
 9.6.2. Curso mal encaminado
-4.6.3. Gestión de reenvío postal y buzón de vacaciones
-4.6.4. Seguimiento de campañas
-4.6.5. Gestión de envíos estacionados
-4.7. Tipos de servicios rurales
-4.7.1. Según el medio de locomoción que utilicen
-4.7.2, Según dónde realicen su inicio de jornada
-4.7.3. Según aporten o no vehículo los puestos motorizados
-4.7.4. Según el tipo de jornada
-4.8. Operativa de comercialización de otros servicios
-4.8.1. Correos Cash. Banca electrónica
-4.8.2. Cobro de recibos y tributos
-4.8.3. Comercialización de lotería y sellos
+9.6.3. Gestión de reenvío postal y buzón de vacaciones
+9.6.4. Seguimiento de campañas
+9.6.5. Gestión de envíos estacionados
+9.7. Tipos de servicios rurales
+9.7.1. Según el medio de locomoción que utilicen
+9.7.2, Según dónde realicen su inicio de jornada
+9.7.3. Según aporten o no vehículo los puestos motorizados
+9.7.4. Según el tipo de jornada
+9.8. Operativa de comercialización de otros servicios
+9.8.1. Correos Cash. Banca electrónica
+9.8.2. Cobro de recibos y tributos
+9.8.3. Comercialización de lotería y sellos
 9.8.4. Gestiones DGT (Dirección General de Tráfico)
-4.8.5. Comercializacion de billetes y entradas
-4.8.6. Captación de leads (potenciales clientes)
-4.8.7. Cambio de divisas
-4.8.8. Gestión de la bolsa
-4.8.4. Devoluciones
+9.8.5. Comercializacion de billetes y entradas
+9.8.6. Captación de leads (potenciales clientes)
+9.8.7. Cambio de divisas
+9.8.8. Gestión de la bolsa
+9.8.9. Devoluciones
 NX y
 880 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 3 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 9.1. Distribución y entrega. Cuestiones generales
 
@@ -134,7 +134,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 4 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 882
 
@@ -195,7 +195,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 5 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Asimismo, se entenderá que concurren, a estos efectos, condiciones geográficas espe-
 ciales en las zonas de muy baja densidad de población, entendidas estas como aquellos
@@ -220,7 +220,7 @@ desde el depósito del envío hasta la entrega a su destinatario.
 Se establecen los siguientes objetivos de plazo de entrega de los envíos nacionales:
 + Entrega en tres días desde el depósito (D+3):
 
-— El 43% de las cartas ordinarias.
+— El 93% de las cartas ordinarias.
 - El 93% de las cartas certificadas.
 - El 80% de paquetes.
 
@@ -228,7 +228,7 @@ Se establecen los siguientes objetivos de plazo de entrega de los envíos nacion
 
 - El 99% de las cartas ordinarias.
 - El 99% de las cartas certificadas.
-— El 45% de los paquetes.
+— El 95% de los paquetes.
 
 El control del cumplimiento de estos objetivos en lo que se refiere a las cartas ordinarias
 se realizará mediante muestreo en cómputo anual, utilizando una medición de extremo
@@ -250,7 +250,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 6 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 884
 
@@ -305,7 +305,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 7 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 información existente a esos efectos, para que sea enviada a la CNMC, y se pronuncie al
 respecto».
@@ -316,7 +316,7 @@ Consideración de entorno especial
 En la Ley 43/2010, en particular, se considera que se realizará una entrega en instalaciones
 apropiadas distintas al domicilio postal, previa autorización de la Comisión Nacional del Sec-
 tor Postal (actualmente CNMC), cuando concurran las condiciones fijadas en la normativa de
-desarrollo de esta ley, con arreglo a lo previsto en la Directiva 47/67/CE. A estos efectos,
+desarrollo de esta ley, con arreglo a lo previsto en la Directiva 97/67/CE. A estos efectos,
 reglamentariamente se definirán las zonas de muy baja densidad de población, entre las
 que no se incluirán las zonas rurales.
 
@@ -363,7 +363,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 8 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 886
 
@@ -419,7 +419,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 9 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Pérdida condición de entorno especial
 
@@ -430,14 +430,14 @@ que se refiere este artículo. En tal caso, en el plazo de seis meses, la entreg
 entorno deberá hacerse conforme a las condiciones ordinarias que se establecen en este
 reglamento.
 
-4.1.3. Referencias normativas
+9.1.3. Referencias normativas
 
 En este apartado se enumeran las diferentes reglamentaciones oficiales, dictadas a
 diferentes niveles, a las que está sujeto el servicio de distribución y entrega que realiza
 Correos.
 
 Internacional
-* Directiva 47/67/CE.
+* Directiva 97/67/CE.
 Nacional
 
 +. Ley 43/2010, de 30 de diciembre, del servicio postal universal, de los derechos de los
@@ -473,7 +473,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 10 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 888
 
@@ -525,7 +525,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 11 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Il: Distribución y Entrega
+TEMA 9. Procesos operativos Il: Distribución y Entrega
 
 Las unidades de distribución tienen como objetivo el reparto domiciliario de los productos
 postales, telegráficos y financieros que le han sido confiados según su tipología, así como
@@ -582,7 +582,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 12 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 890
 
@@ -643,9 +643,9 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 13 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
-4.2.1. Unidad de reparto ordinario (URO)
+9.2.1. Unidad de reparto ordinario (URO)
 
 Las unidades de reparto ordinario están divididas en secciones. Una sección es el conjunto
 de calles o zonas cuyo reparto está asignado a un auxiliar de clasificación y reparto (ACR).
@@ -719,7 +719,7 @@ a sección.
 
 [[ página 14 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 + Zona de control de productos registrados. Tratamiento y control de los envíos registrados
 (tratamiento en SGIE de envíos con y sin importe, valijas...).
@@ -795,7 +795,7 @@ tamaño y tipo de envío. Pueden existir servicios rurales que dependan de este 
 
 [[ página 15 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Unidad de Reparto (UR)
 
@@ -848,7 +848,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (803)
 
 [[ página 16 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 894
 
@@ -904,7 +904,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 17 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Posteriormente, se clasifica a zona de reparto. En las USE donde por su tamaño sea acon-
 sejable, se clasificará directamente a zona de reparto. Los envíos voluminosos se clasifican
@@ -959,7 +959,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (895)
 
 [[ página 18 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 896
 
@@ -974,7 +974,7 @@ que pueden ser necesarios en función de las distancias y volúmenes de los prod
 entregar. También se ofrece una exposición de operativas relacionadas con el uso algunos
 de estos elementos de trabajo.
 
-4.3.1. Equipamiento
+9.3.1. Equipamiento
 
 Equipamiento de reparto
 
@@ -1015,7 +1015,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 19 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 CARRO DE REPARTO GRANDE
 
@@ -1048,7 +1048,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (807)
 
 [[ página 20 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 CARTERA DE REPARTO
 
@@ -1089,7 +1089,7 @@ Altura: 30
 
 BOLSA DE ALCANCE
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Colores corporativos:
 
@@ -1152,7 +1152,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 22 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Valijas
 
@@ -1185,7 +1185,7 @@ Características Construidas en poliéster recubierto con PVC
 
 [[ página 23 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 VALIJAS INTRAZONALES Y CENTRO DIRECTIVO Y CLIENTES
 
@@ -1230,7 +1230,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. Q
 
 [[ página 24 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 BUZONES MURALES
 
@@ -1282,7 +1282,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 25 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 BUZÓN CILÍNDRICO, UNA BOCA
 
@@ -1331,7 +1331,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [303]
 
 [[ página 26 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 ARRO PORTABAND
 
@@ -1395,7 +1395,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 27 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 CARRETILLA MANUAL CON PALA PLEGABLE
 
@@ -1442,7 +1442,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 28 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 CARRO TRASPORTADOR DE PAQUETES
 
@@ -1473,7 +1473,7 @@ ta eo ela Red de Distribución
 
 [[ página 29 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 9.3.2. Mobiliario específico
 
@@ -1522,7 +1522,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [307]
 
 [[ página 30 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 CASILLERO PARA CORRESPONDENCIA NORMALIZADA CN-50
 
@@ -1554,7 +1554,7 @@ CASILLERO PAQUETES CP8
 
 Características
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Permite configurar el número de casillas y el tamaño en función de los
 envíos postales
@@ -1609,7 +1609,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 32 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 CASILLEROS AVISOS DE RECIBO CD-14
 
@@ -1636,7 +1636,7 @@ Forma de pedido A través de Solicitud de Pedido en el sistema SAP
 
 [[ página 33 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 PANEL DE CLASIFICACIÓN GENERAL
 
@@ -1659,7 +1659,7 @@ Observaciones Se atornilla a la parte superior del casillero. Inicio de implanta
 
 Uso
 
-4.3.3. Control de vehículos
+9.3.3. Control de vehículos
 
 Preparar material necesario
 
@@ -1676,7 +1676,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (911)
 
 [[ página 34 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 e Vehículos de 2 o 3 ruedas (motocicletas, bicicletas o triciclos):
 
@@ -1730,7 +1730,7 @@ incidencia que impida salir a reparto con el vehículo.
 
 [[ página 35 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 Si se percibe cualquier incidencia en el vehículo, el conductor informará al responsable de
 la unidad de reparto antes de sacar el vehículo a reparto. Se procurará dar los máximos
@@ -1782,7 +1782,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [a13)
 
 [[ página 36 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Firmar la recepción de las llaves del vehículo
 
@@ -1843,7 +1843,7 @@ En el momento de la entrega de la tarjeta al conductor, se le informará de lo s
 
 [[ página 37 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 * Instrucciones necesarias para el repostaje (llenar el depósito, informar sobre el kilome-
 traje, procedimiento en el caso de gas o empleo de aditivos ADBLUE).
@@ -1903,7 +1903,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (915)
 
 [[ página 38 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 9.4. Procesos de trabajo en las unidades de distribución
 
@@ -1961,7 +1961,7 @@ por el destinatario).
 
 [[ página 39 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 * Giros: la oficina hace entrega a la cartería de los giros SEDI (ensobrados) junto con un docu-
 mento que será firmado por el responsable de la unidad o personal de reparto autorizado.
@@ -2018,7 +2018,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [917]
 
 [[ página 40 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Se separa lo ordinario de lo registrado, el formato pequeño (bandejas A) del formato grande
 (bandejas B).
@@ -2080,7 +2080,7 @@ entrega concertada para efectuar la entrega al día siguiente.
 
 [[ página 41 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Si durante la recepción se detecta algún paquete internacional o Paquete Azul con direc-
 ción incorrecta, el envío se pasará a lista, liquidándolo en SGIE con la clave «Avisado por
@@ -2135,7 +2135,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (910)
 
 [[ página 42 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Posaciomar Almacén Asignación Directa
 
@@ -2193,7 +2193,7 @@ casillero, que corresponde por secciones a los repartos obligatorios en el otro 
 
 [[ página 43 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 NOTA. En el supuesto de que fuera necesario priorizar la entrega de los envíos,
 tendremos en cuenta el siguiente orden:
@@ -2255,7 +2255,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (921)
 
 [[ página 44 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 2. X número de carteras y carteros clasificarán a sección y destinos directos el correo no
 
@@ -2296,7 +2296,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 45 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 NOTA.
 +. Correspondencia ordinaria normalizada:
@@ -2319,7 +2319,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (923)
 
 [[ página 46 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Tratar como mal encaminado
 
@@ -2372,7 +2372,7 @@ asignará a sección directamente desde la PDA.
 
 [[ página 47 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Realizar preembarriado
 
@@ -2420,7 +2420,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (925)
 
 [[ página 48 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 + Apartados. Se encaminarán por las unidades de reparto a la oficina de referencia los en-
 víos ordinarios cuando el titular de un apartado autorice por escrito a la unidad de reparto
@@ -2477,7 +2477,7 @@ consultarse en: https: / /www.cnmc.es/ambitos-de-actuacion/postal/entornos-espec
 
 [[ página 49 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lIl: Distribución y Entrega
+TEMA 9. Procesos operativos lIl: Distribución y Entrega
 
 Finalizado el preembarriado, hay que revisar que no haya nada en el casillero CNN5O de la
 sección y establecer la prioridad de envíos.
@@ -2592,7 +2592,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 50 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 2002
 
@@ -2671,7 +2671,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 51 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 La Unidad de Reparto que tenga el envío, al encontrárselo así, no lo puede ni debe sacar
 a reparto, sino que debe ir a SGIE a liquidarlo como «Devuelto por Orden de Remitente»
@@ -2727,7 +2727,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (920)
 
 [[ página 52 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 + Faltan importes. Cuando en SGIE no figuran los importes o estos son diferentes a los
 que figuran en la cubierta.
@@ -2785,7 +2785,7 @@ personal de reparto puede crear destinatarios habituales o entregas múltiples d
 
 [[ página 53 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 En el caso de secciones rurales se procederá de la siguiente forma:
 
@@ -2841,7 +2841,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [391]
 
 [[ página 54 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 + Falta de contenido. Cuando se puede comprobar que el envío ha sido expoliado estando
 su contenido incompleto.
@@ -2900,7 +2900,7 @@ cirá en el carro de reparto/cofre de moto (después de embarriarla), el resto s
 
 [[ página 55 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 se deba introducir en la bolsa/saca, depositando en el fondo lo último que se vaya a
 repartir, y colocada en sentido inverso al reparto.
@@ -2956,7 +2956,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [393]
 
 [[ página 56 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Colocar envíos en carro o vehículo
 
@@ -3020,7 +3020,7 @@ alta de las notificaciones.
 
 [[ página 57 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 9.4.2. Reparto y liquidación
 Reparto
@@ -3076,7 +3076,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 58 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Aplicar medidas de seguridad y protección de datos
 
@@ -3130,7 +3130,7 @@ de depósito. No está permitido separarse del buzón mientras este permanezca a
 
 [[ página 59 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 haya correspondencia en su interior. No se dejarán objetos o envíos sobre el buzón, ya que
 se podrían quedar olvidados al abandonar la zona.
@@ -3180,7 +3180,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [397]
 
 [[ página 60 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 - AVISO DE LLEGADA/AVISO DE CHEGADA
 ENTREGA DOMICILIARIA N?
@@ -3193,7 +3193,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 61 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 En el caso de los envíos Carta Urgente Nacional, Paq Ligero y Paq Internacional Light que
 por sus dimensiones no se puedan depositar en el buzón, además de depositar el aviso de
@@ -3248,7 +3248,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (390)
 
 [[ página 62 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 2. Los envíos postales dirigidos a comerciantes constituidos en quiebra o personas decla-
 radas en concurso de acreedores se entregarán a los síndicos.
@@ -3305,7 +3305,7 @@ Se continúa realizando el recorrido.
 
 Entrega registrada
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Acceder a domicilio del destinatario e intentar la entrega
 
@@ -3399,7 +3399,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 64 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Avisos de la PDA
 
@@ -3469,7 +3469,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 65 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 + Si, abierto el sobre, se comprueba que el importe que contiene es diferente al esperado,
 no se realiza la entrega y se debe retornar todo a la Oficina pagadora para que complete
@@ -3518,7 +3518,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (913)
 
 [[ página 66 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 de lo anterior la entrega de Notificaciones, Telegrama y Burofax, los cuales sí implicarán
 la recogida de firma por parte del receptor.
@@ -3556,7 +3556,7 @@ los siguientes productos: Telegrama, Burofax y Notificaciones de cualquier tipo.
 
 [[ página 67 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 1 de julio de 2021, se recoge también la firma en los envíos con importes a cobrar. Para
 el resto de productos, se aplicará lo anteriormente comentado.
@@ -3629,7 +3629,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (915)
 
 [[ página 68 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Entregar envío
 
@@ -3683,7 +3683,7 @@ Deberá liquidarse en la PDA con la causa «Depositar en buzón».
 
 [[ página 69 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Cumplimentar AR si lo lleva
 
@@ -3767,7 +3767,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [917]
 
 [[ página 70 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 948
 
@@ -3806,7 +3806,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 71 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Envíos pasados a Lista (USE)
 
@@ -3901,7 +3901,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 72 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Liquidación y salida de la unidad
 
@@ -3939,7 +3939,7 @@ se pega en el reverso, para informar dicho envío.
 
 [[ página 73 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Clasificar por formatos los envíos devueltos
 
@@ -3995,7 +3995,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. Q
 
 [[ página 74 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 entre otras causas, por ser desconocido el destinatario, haber fallecido sin dejar herederos
 o haberse ausentado sin dejar señas; se procederá, sin más dilación, a devolverlos al remi-
@@ -4049,7 +4049,7 @@ trega electrónica) liquidados como desconocido, dirección incorrecta, rehusado
 
 + Devueltos
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 — Envíos y notificaciones y certificados con acuerdo especial con PEE, liquidados como
 desconocido, dirección incorrecta, rehusado y fallecido.
@@ -4136,7 +4136,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 76 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 LIQUIDACIÓN DE IMPORTES
 
@@ -4191,7 +4191,7 @@ después si no ha sido recogido por el destinatario para cumplir con el proceso 
 
 [[ página 77 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Cuando no se trate de secciones rurales, se acabarán de respaldar y sellar los siguientes
 envíos:
@@ -4268,7 +4268,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (955)
 
 [[ página 78 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Pulsar Liquidación y comprobar el resumen
 
@@ -4341,7 +4341,7 @@ ción.
 
 [[ página 79 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Confirmar liquidación y entregar estacionados, importes y libranzas
 
@@ -4394,7 +4394,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (957)
 
 [[ página 80 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Glosario
 
@@ -4466,7 +4466,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 81 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Preparación de envíos de salida de la unidad
 
@@ -4522,7 +4522,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (950)
 
 [[ página 82 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 + Devueltos normalizados (nacionales e internacionales) se clasifican en bandeja tipo A.
 
@@ -4576,7 +4576,7 @@ definida:
 
 [[ página 83 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 + Cartas certificadas y notificaciones con PEE o No informatizadas y sus avisos de recibo:
 
@@ -4632,7 +4632,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. Q
 
 [[ página 84 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Los servicios rurales encaminarán la correspondencia, tanto nacida como la devuelta a
 través de la Oficina Técnica de la que dependan a través de la oficina de la que dependan,
@@ -4652,7 +4652,7 @@ Los contenedores grises pertenecientes a la logística de Correos también deber
 agrupando sus elementos, y devolverse diariamente. (Hay que tener en cuenta que hay dos
 modelos diferentes y sus elementos han de agruparse de manera diferenciada).
 
-4.5. Procesos de entrega en las oficinas
+9.5. Procesos de entrega en las oficinas
 9.5.1. Recepción de envíos en oficinas
 
 Las oficinas de Correos actúan como puntos de entrega de correspondencia. La entrega
@@ -4688,7 +4688,7 @@ rentes Unidades:
 
 [[ página 85 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 + Desde las unidades de reparto (URO o USE): en estos casos, la correspondencia y otros
 objetos postales llegarán avisados a través de una conducción o directamente desde las
@@ -4740,7 +4740,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [963)
 
 [[ página 86 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 La oficina con todos los envíos avisados procederá a su almacenamiento en el «Almacén de
 avisados». Se ordenarán por fecha de aviso y por secciones, a fin de facilitar su localización
@@ -4787,7 +4787,7 @@ su destrucción controlada (se manda a «Papelote» junto con la documentación 
 
 [[ página 87 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Almacén de lista
 
@@ -4840,7 +4840,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [965)
 
 [[ página 88 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Apartados particulares.
 
@@ -4874,7 +4874,7 @@ facturará a través de IRIS, mediante facturación mensual.
 
 [[ página 89 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lIl: Distribución y Entrega
+TEMA 9. Procesos operativos lIl: Distribución y Entrega
 
 Almacén de no embuzonables
 
@@ -4922,7 +4922,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (967)
 
 [[ página 90 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 + Zonas en las que, aun reuniendo los requisitos para su distribución a domicilio, no se
 puede realizar por diversos factores: imposibilidad de acceder a los edificios, buzones
@@ -4979,7 +4979,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 91 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Recepción, grabación y almacenamiento de envíos registrados
 
@@ -5034,7 +5034,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [960)
 
 [[ página 92 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 ponerse en contacto con la unidad de origen que ha confeccionado el despacho para
 que imprima el mapón. Si el despacho ya ha sido recepcionado por otra Unidad ya no se
@@ -5121,7 +5121,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 93 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Por defecto, el sistema aparece en modo automático, con esta opción, al leer el código de
 envío se introduce automáticamente en su canal correspondiente (lista, no domiciliaria o
@@ -5177,7 +5177,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. Q
 
 [[ página 94 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 depósito en el buzón domiciliario de los destinatarios, así como la impresión de los segundos
 avisos de determinados envíos. Los plazos de emisión de avisos (físico, SMS o e-mail) del
@@ -5229,7 +5229,7 @@ importe que debe abonar el cliente en el momento de la entrega.
 
 [[ página 95 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lIl: Distribución y Entrega
+TEMA 9. Procesos operativos lIl: Distribución y Entrega
 
 Leia Larson ae
 Lar a
@@ -5288,7 +5288,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [973)
 
 [[ página 96 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Correos Express, aparecerá un mensaje confirmando que se ha dado de alta correctamente
 el envío solicitado. Después de esto, es necesario volver a la opción de alta en almacén y
@@ -5339,7 +5339,7 @@ reparto que sus envíos de correspondencia registrada, envíos financieros y tel
 
 [[ página 97 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 cuya dirección consta solo el domicilio, sean entregados en el respectivo apartado, debiendo
 facilitar asimismo una copia de dicha autorización a la oficina. Queda exceptuada de este
@@ -5391,7 +5391,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (975)
 
 [[ página 98 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 alguna incidencia que impide efectuarla, se les da de alta en el almacén de estacionados de
 SGIE, leyendo el código de barras del envío, y por un periodo máximo de 120 horas, en espera
@@ -5453,7 +5453,7 @@ Q O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 99 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 desea hacer con los paquetes estacionados. Si corrige la incidencia que motivó su estacio-
 namiento y da instrucciones de que se intente la entrega, se saca del almacén a través de
@@ -5505,7 +5505,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [977)
 
 [[ página 100 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Para poder visualizar los envíos que faltan por recepcionar o dar de alta en la unidad de
 la oficina, hay que seleccionar el despacho correspondiente y, mediante el doble clic, el
@@ -5560,7 +5560,7 @@ Q O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 101 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Los envíos postales dirigidos a unidades militares o entidades análogas se entregarán,
 salvo que medie prohibición expresa de los destinatarios de los envíos, a las personas
@@ -5597,7 +5597,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (970)
 
 [[ página 102 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 con Correos, desde la Jefatura de Comercial de la zona se hará llegar un documento (e-mail
 o similar) a la Gerencia de Productos y Servicios del área territorial a la que pertenezca la
@@ -5654,7 +5654,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 103 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 dan >> mu
 OS
@@ -5719,7 +5719,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 104 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 En el caso de que haya varios envíos para un mismo destinatario, los envíos se liquidan
 como entregas múltiples con tableta, para ello se tiene que marcar en SGIE el check «Entre-
@@ -5775,7 +5775,7 @@ la factura, desde esta utilidad se puede: emitir facturas, reimprimir facturas y
 
 [[ página 105 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Otros procedimientos de entrega en oficina
 Entrega en oficinas con PDA
@@ -5808,7 +5808,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (983)
 
 [[ página 106 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 984
 
@@ -5883,7 +5883,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 107 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Considerando que estas entregas tienen un alto valor añadido como «entregas seguras», deben
 venir acompañadas de una aplicación rigurosa por parte de los empleados que la realizan.
@@ -5944,7 +5944,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (985)
 
 [[ página 108 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Se cumplimentan los datos del destinatario, tipo de documento y número de documento y
 el sistema verifica que el formato del número de documento es correcto y que se corres-
@@ -6001,7 +6001,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 109 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Se procede a digitalizar el documento pulsando en «Escanear», teniendo en cuenta lo
 siguiente:
@@ -6055,7 +6055,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (387)
 
 [[ página 110 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 3. Repetir el escaneado
 
@@ -6106,7 +6106,7 @@ Los documentos de identidad reconocidos por el software y validados en este serv
 
 [[ página 111 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Los requisitos necesarios para que el servicio se preste correctamente (aparte de contratar
 este valor añadido) son que:
@@ -6175,7 +6175,7 @@ A COBRAR
 
 [[ página 112 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 De esta forma, la oficina dará de alta el envío en SGIE, cargándose automáticamente todos
 los datos del citado envío.
@@ -6212,7 +6212,7 @@ Interno de Liquidación (DIL) que recoge las cantidades tributarias a pagar por 
 
 [[ página 113 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 rio en la entrega y, en el caso de los envíos contra reembolso nacionales, la cantidad del
 reembolso; en el caso de reembolsos internacionales, el DIL no recoge el reembolso ni los
@@ -6266,7 +6266,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. Q
 
 [[ página 114 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 En el caso de envíos devueltos a clientes con contrato, el cliente puede realizar este abo-
 no a través de un albarán de entrega contra su número de contrato, albarán que se debe
@@ -6342,7 +6342,7 @@ Y N Envío da vuelta admitido en IRIS. Puzde entregar el envío de (da.
 
 [[ página 115 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Cuando el código del Ll de vuelta no coincida con el prerregistrado por el cliente, el sistema
 informará del error que impedirá finalizar el proceso de entrega, sin la verificación de que el
@@ -6396,7 +6396,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [903)
 
 [[ página 116 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 SMS la finalización del servicio al cliente. A continuación, la operativa vendrá determinada
 por la opción que el cliente seleccionó al formalizar el contrato, recogida en la oficina por
@@ -6448,7 +6448,7 @@ cia entre el importe recuperado de SGIE y el que figura en la etiqueta impresa p
 
 [[ página 117 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 envío, se debe proceder a identificar la unidad de admisión (oficina o UAM) por los datos
 que figuran en SGIE y se comunica por correo la divergencia de importes.
@@ -6500,7 +6500,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [905)
 
 [[ página 118 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 En los envíos contra reembolso que no circulen como carta ni con valor declarado, el remi-
 tente puede autorizar al destinatario a comprobar el contenido antes de realizar la recepción
@@ -6555,7 +6555,7 @@ un mismo remitente, destinatario y producto.
 
 [[ página 119 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Il: Distribución y Entrega
+TEMA 9. Procesos operativos Il: Distribución y Entrega
 
 * Parcial: la entrega de dichos bultos es posible hacerla fraccionada si no estuvieran todos
 los bultos en el almacén de la oficina. Se entrega como una relación de envíos o bultos
@@ -6609,7 +6609,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [907]
 
 [[ página 120 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 998
 
@@ -6666,7 +6666,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 121 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 — Enviar un correo electrónico:
 
@@ -6719,7 +6719,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [900)
 
 [[ página 122 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 9.5.4. Entrega de envíos asignados en otra unidad
 
@@ -6781,7 +6781,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 123 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 yarto se está imprimiendo el resguardo de admisión, Por favor, tened en cuenta que el importe a en
 
@@ -6862,7 +6862,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 00]
 
 [[ página 124 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Frente a la pantalla de resumen, pueden haber dos opciones:
 a) Pulsar en Volver, para posicionamiento en la pantalla principal de SGIE.
@@ -6919,7 +6919,7 @@ de unidades.
 
 [[ página 125 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Dar de alta la estampilladora en IRIS
 
@@ -6971,7 +6971,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 003
 
 [[ página 126 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 * Al finalizar el mes, la oficina auxiliar o servicio rural enviará el ticket de gran total corres-
 pondiente al mes que corresponda, a la unidad de administración postal de la zona a la
@@ -7021,10 +7021,10 @@ entregar al cliente.
 
 [[ página 127 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
-49.6. Otros procesos
-4.6.1. Valijas, buzones, Citypaq y recogidas
+9.6. Otros procesos
+9.6.1. Valijas, buzones, Citypaq y recogidas
 Valijas
 
 Recepcionar valijas
@@ -7072,7 +7072,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 009
 
 [[ página 128 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 Entregar y recoger la valija
 
@@ -7127,7 +7127,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 129 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Il: Distribución y Entrega
+TEMA 9. Procesos operativos Il: Distribución y Entrega
 
 Recoger la hoja de ruta, llaves y partes de incidencia
 Se recogen las llaves de los buzones de la ruta y la hoja de ruta.
@@ -7180,7 +7180,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 007)
 
 [[ página 130 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 Citypaq
 Operativa de entrega
@@ -7231,7 +7231,7 @@ he
 
 [[ página 131 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 NOTAS.
 
@@ -7279,7 +7279,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 00d
 
 [[ página 132 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 * El sistema llevará a una pantalla en la que se deben introducir los datos del paquete. En
 el código de entrega se anotarán las 8 letras (código del cliente) y se aceptará.
@@ -7343,7 +7343,7 @@ h019 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 133 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 «dy Correos Peq
 
@@ -7434,7 +7434,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 134 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 + Escoger el hueco que se desee reservar.
 
@@ -7460,7 +7460,7 @@ h013 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 135 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Asignar Envios a Sección
 
@@ -7501,7 +7501,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. Ko13
 
 [[ página 136 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 isignar Envios a Sección
 
@@ -7556,7 +7556,7 @@ ho13 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 1. Hueco más pequeño que el envío.
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 2. Terminal bloqueado o que no reconoce el código de apertura de la PDA.
 
@@ -7622,7 +7622,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 138 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Codigo de Envio: An
 Fecha Causa
@@ -7674,7 +7674,7 @@ ho19 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 139 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 + Envío caducado remitido por Correos u otros operadores, la oficina genera un DQ y se
 lo envían al CTP de Chamartín (Madrid) para su tratamiento como envío abandonado bajo
@@ -7728,7 +7728,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. h017)
 
 [[ página 140 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Fecha: 03/07/2019-372 v4.8.10.0 1E: 7.0-5-10
 
@@ -7838,7 +7838,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 141 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Recoger albaranes y relaciones (día anterior), etiquetas y útiles
 El personal que va a efectuar la recogida debe llevarse:
@@ -7896,7 +7896,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. ho19
 
 [[ página 142 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 . Verificar que se han formado tantos legajos conformados por albarán de entrega/
 relación (solo productos registrados)/producto (no urgente) como sea posible.
@@ -7948,7 +7948,7 @@ miento de sus envíos.
 
 [[ página 143 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Depositar carga en la unidad de admisión y etiquetar carros
 Tareas a realizar tras finalizar la ejecución de la ruta de recogidas:
@@ -8006,7 +8006,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 1023
 
 [[ página 144 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Registrar incidencia en PDA
 
@@ -8059,9 +8059,9 @@ no se liquidan a nivel unidad, solo en las PDA.
 
 [[ página 145 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
-4.6.2. Curso mal encaminado
+9.6.2. Curso mal encaminado
 
 Los envíos mal encaminados pueden detectarse en distintos momentos:
 
@@ -8109,7 +8109,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 1023
 
 [[ página 146 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 . C
 
@@ -8243,7 +8243,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 147 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Liquidar en SGIE
 
@@ -8442,7 +8442,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 149 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 9.6.3. Gestión de reenvío postal y buzón de vacaciones
 
@@ -8510,7 +8510,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 1027)
 
 [[ página 150 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Para los productos registrados, hay que asegurarse de:
 
@@ -8579,7 +8579,7 @@ Red erconad por ceden del desunatano
 
 [[ página 151 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Se dirá a qué cliente corresponde.
 
@@ -8639,7 +8639,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 029
 
 [[ página 152 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 TIPO DE
 ENVÍO
@@ -8737,7 +8737,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 153 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 «Buzón de vacaciones». Si son de depósito en buzón, se liquidarán como «Ausente» en
 primer intento, como «Buzón de vacaciones» en segundo y cuando vuelvan a reparto se
@@ -8789,7 +8789,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. O
 
 [[ página 154 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 py DESARROLLO - ACTEC DESARROLLO - ACTEC DESARRO
 “CORREOS
@@ -8842,7 +8842,7 @@ MC CC
 
 [[ página 155 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Il: Distribución y Entrega
+TEMA 9. Procesos operativos Il: Distribución y Entrega
 
 Es importante el desplegable «estado», en el que aparecen las tres formas básicas en las
 que pueden encontrarse las campañas: Nuevas, Abiertas y Cerradas.
@@ -8901,7 +8901,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. h033
 
 [[ página 156 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 NOTA. La cantidad de envíos recibidos se calcularán según los modelos estan-
 darizados de contabilización de envíos para SGIE, nunca contando los envíos
@@ -8943,7 +8943,7 @@ h033 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 157 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 Usuario Unidad: 2834696 - MADRID UR 23 a Joa
 Fecha: 19/04/2016-708 v4.0.4.5
@@ -8992,7 +8992,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 158 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 NOTA. Existe un plazo de rectificación de 4 días, tras cada anotación, sea cual
 sea la anotación, bien alta recepción o bien alta distribución.
@@ -9040,7 +9040,7 @@ h03d O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 159 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Las incidencias que provocan que estos envíos inicien su ciclo de estacionado son:
 
@@ -9097,7 +9097,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 1037)
 
 [[ página 160 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Configuración
 
@@ -9147,7 +9147,7 @@ h039 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 161 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Código de Envio: PQ100G0130006080125001E
 
@@ -9222,7 +9222,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 162 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll:
+TEMA 9. Procesos operativos lll:
 
 Proceso
 
@@ -9368,7 +9368,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 163 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Los envíos nunca quedan dados de alta automáticamente en el almacén
 
@@ -9428,7 +9428,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 047)
 
 [[ página 164 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Envios
 Número de envios por asignar: Í
@@ -9479,7 +9479,7 @@ Acceso menú consulta envíos sin información del remitente.
 
 [[ página 165 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Se accederá a una pantalla donde se muestran los envíos pendientes de recibir información
 del remitente. Se pueden imprimir informes ordenados por su ubicación en los sectores del
@@ -9532,7 +9532,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 043
 
 [[ página 166 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Envíos pendientes de entrega Envíos pendientes de devolución O
 
@@ -9581,7 +9581,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 167 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Cuando la unidad haya dado salida a los envíos del almacén de estacionados, pasarán
 a un tercer estado de gestionados, que indica que los envíos han salido del almacén de
@@ -9636,7 +9636,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. oe
 
 [[ página 168 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Listados de e i - Contestados gestionado
 Envíos pendientes de entrega O Envios pendientes de despacho [2] KIA
@@ -9689,7 +9689,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 169 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 La salida del almacén de estacionados se realiza mediante el punto de menú del módulo
 «Inventario de almacén» llamado «Salida almacén».
@@ -9726,7 +9726,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 047)
 
 [[ página 170 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Una vez pulsado el botón «Salida del almacén», según las instrucciones dadas por el remiten-
 te se advertirá a la unidad de uno de los dos posibles destinos que debe dar a cada envío:
@@ -9780,7 +9780,7 @@ cio de vio
 
 [[ página 171 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 En cualquier momento se podrá pulsar el botón «Resumen» para mostrar los envíos que
 en ese instante figuren como dados de alta en SGIE y aún estén pendientes de confirmar
@@ -9831,7 +9831,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 04d
 
 [[ página 172 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Pulsando sobre los números de envío de cada epígrafe, se accederá al detalle de los envíos
 que se encuentren en dicha situación.
@@ -9869,7 +9869,7 @@ la aportación de los medios que se requieran para el
 desempeño de sus funciones (vehículo, local para pres-
 tar la atención al público, etc.).
 
-4.7.1. Según el medio de locomoción
+9.7.1. Según el medio de locomoción
 que utilicen
 
 + Automóvil (AU): son los puestos más numerosos.
@@ -9888,7 +9888,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 173 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 9.7.2. Según dónde realicen su inicio de jornada
 
@@ -9913,23 +9913,23 @@ realizado según convenio.
 Atendiendo a si se tiene jornada completa o parcial y al medio de locomoción podemos
 distinguir en los siguientes tipos:
 
-+ EAMI: enlace rural de jornada completa motorizado.
++ EAM: enlace rural de jornada completa motorizado.
 
 + EAP: enlace rural de jornada completa a pie.
 
-+ EBMI: enlace rural de jornada reducida motorizado.
++ EBM: enlace rural de jornada reducida motorizado.
 
 + EBP: enlace rural de jornada reducida a pie.
 
-+ OAMI: oficina auxiliar de jornada completa motorizada.
++ OAM: oficina auxiliar de jornada completa motorizada.
 + OAP: oficina auxiliar de jornada completa a pie.
 
 + OBM: oficina auxiliar de jornada reducida motorizada.
 + OBP: oficina auxiliar de jornada reducida a pie.
 
-4.8. Operativa de comercialización de otros servicios
+9.8. Operativa de comercialización de otros servicios
 
-4.8.1. Correos Cash. Banca electrónica
+9.8.1. Correos Cash. Banca electrónica
 
 Actualmente, las operaciones de Correos Cash para los diferentes bancos con los que se pueda
 Operar solo deben realizarse por personal que tenga punto de atención al público, por lo que el
@@ -9944,7 +9944,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. hos]
 
 [[ página 174 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 . A través de los datos de la tarjeta de crédito, esta opción es exclusiva para clientes del
 Banco Santander.
@@ -10063,7 +10063,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 175 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 e La retirada de dinero por parte de un cliente en un puesto de atención al público rural
 debe venir acompañada de una solicitud previa de fondos por parte del cliente rural a la
@@ -10137,7 +10137,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. losa
 
 [[ página 176 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 10481305
 
@@ -10255,7 +10255,7 @@ Las operaciones de Correos Cash no suponen una subida a bolsa (carrito) por lo q
 
 implica un cobro posterior de la misma.
 
-4.8.2. Cobro de recibos y tributos
+9.8.2. Cobro de recibos y tributos
 
 A) Cobro de recibos
 
@@ -10283,7 +10283,7 @@ cliente.
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 10% 04170
 
@@ -10331,7 +10331,7 @@ y se pulsará Aceptar.
 
 [[ página 178 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 COBRO DE RECIBOS
 Unidades 1
@@ -10420,7 +10420,7 @@ Cod ENVIODINEROTDT 1530
 
 B) Pago de recibos
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Subirá el producto a
 bolsa y se realizará
@@ -10483,7 +10483,7 @@ opciones de clientes.
 
 [[ página 180 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 , Pago de recibos
 
@@ -10559,7 +10559,7 @@ una vez se pulse en
 «Firmado», subirá el
 producto a bolsa.
 
-4.8.3. Comercialización de lotería y sellos
+9.8.3. Comercialización de lotería y sellos
 
 Permite vender los productos que integran el catálogo comercial de Correos, como sobres,
 
@@ -10621,7 +10621,7 @@ bolsa, o carrito.
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Venta de productos .—
 
@@ -10660,7 +10660,7 @@ cliente.
 
 [[ página 182 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 A) Comercialización de lotería
 
@@ -10721,7 +10721,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 183 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 B) Comercialización de sellos por código de productos
 
@@ -10781,7 +10781,7 @@ lo desea.
 
 [[ página 184 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 C) Comercialización de sellos por código de emisión
 
@@ -10842,9 +10842,9 @@ COBRAR
 
 [[ página 185 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
-4.8.4. Gestiones DGT (Dirección General de Tráfico)
+9.8.4. Gestiones DGT (Dirección General de Tráfico)
 
 A) Distintivo medioambiental de la DGT
 
@@ -10919,7 +10919,7 @@ bolsa.
 
 [[ página 186 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 B) Solicitud de duplicado del permiso de circulación de vehículos
 
@@ -10994,7 +10994,7 @@ relevantes. Se
 pulsará el botón
 Firmar.
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 dot
 
@@ -11064,7 +11064,7 @@ y eventos disponibles.
 
 [[ página 188 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Una entrada - +
 oz mw» >
@@ -11187,7 +11187,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 189 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Generalmente y en función de las campañas vigentes, se realiza este tipo de captaciones
 durante un tiempo determinado. Se muestran los siguientes ejemplos:
@@ -11239,7 +11239,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 1067
 
 [[ página 190 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Llevará a una pantalla de
 «Login» para acceder a la
@@ -11279,7 +11279,7 @@ cobrará la bolsa (08€).
 
 [[ página 191 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 B) Ejemplo de aseguradora
 
@@ -11352,7 +11352,7 @@ l_+ Correo electrónico
 
 [[ página 192 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Solicitud otros datos
 Código Postal del Domicilio del tomador +
@@ -11412,9 +11412,9 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 193 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
-4.8.7. Cambio de divisas
+9.8.7. Cambio de divisas
 
 Correos colabora con empresas especializadas en el envío de dinero y cambio de divisas.
 
@@ -11452,7 +11452,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. h077
 
 [[ página 194 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos lll: Distribución y Entrega
+TEMA 9. Procesos operativos lll: Distribución y Entrega
 
 CAMBIO DE
 
@@ -11515,7 +11515,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 195 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 ¿La información es correcta?
 
@@ -11578,7 +11578,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 196 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 O ——6O
 
@@ -11636,7 +11636,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 197 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Escanear documento
 Escanea el documento y comprueba que es correcto, si vel chente ya exsto
@@ -11694,7 +11694,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 198 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Una vez firmado por el
 1 (2
@@ -11715,7 +11715,7 @@ ha realizado, se volverá
 a HERA y se cobrará la
 La transacción se ha realizado bolsa generada.
 
-4.8.8. Gestión de la bolsa
+9.8.8. Gestión de la bolsa
 
 A) Cierre
 
@@ -11726,7 +11726,7 @@ ho7d O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 199 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 ENTRADAS Y VAS
 
@@ -11789,7 +11789,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. 1077
 
 [[ página 200 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Se procederá a la Si todo es correcto,
 lectura de la tarjeta. Pago TPV aparecerá un mensaje
@@ -11855,7 +11855,7 @@ hd
 
 [[ página 201 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Mensajes de error en el cobro con tarjeta
 
@@ -11983,7 +11983,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 202 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Anulación pulsando botón Papelera Se pulsará sobre el
 B isa Total: AB TA
@@ -12041,7 +12041,7 @@ E Banca electrónica
 
 [[ página 203 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 AS Ed 0 1830
 Producto
@@ -12091,7 +12091,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. hos]
 
 [[ página 204 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Lista de pedidos para anular
 
@@ -12168,7 +12168,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 205 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 ¿Es éste el cliente?
 
@@ -12209,7 +12209,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 206 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 é Cerrar caja ETA
 
@@ -12234,7 +12234,7 @@ lo hecho, tanto con tarjeta como total de la misma.
 
 con efectivo.
 
-4.8.4. Devoluciones
+9.8.9. Devoluciones
 
 Si, una vez cobrada una bolsa, el cliente quisiera devolver alguno de los productos
 contratados, se deberá verificar si es posible y además deberá tenerse en cuenta
@@ -12300,7 +12300,7 @@ bolsa.
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
-TEMA 4. Procesos operativos Ill: Distribución y Entrega
+TEMA 9. Procesos operativos Ill: Distribución y Entrega
 
 Devoluciones
 
@@ -12333,7 +12333,7 @@ Actualizar.
 
 [[ página 208 de 208 · ocr ]]
 
-TEMA 4. Procesos operativos III: Distribución y Entrega
+TEMA 9. Procesos operativos III: Distribución y Entrega
 
 Devoluciones
 
