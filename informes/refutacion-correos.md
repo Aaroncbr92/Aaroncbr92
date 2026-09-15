@@ -29,7 +29,7 @@ lo que se anotó al escribir cada tema.
 | 11 · Internacional | no ancla | no aplica | 0 | **0** | **0** | 212 · **2** |
 | 12 · Cumplimiento | **23 · 0** | 2 (colisiones) | **1 · 0** | **0** | **0** | 824 · **1** |
 
-| **Apéndice A** | no ancla | no aplica | **5 · 0** | **0** | — | no aplica |
+| **Apéndice A** | no ancla | no aplica | **3 · 0** | **0** | — | no aplica |
 
 **Lo que hay que leer de este cuadro, y es lo único que importa**: **ninguna negrita anclada en un
 artículo sale no literal, ninguna cita entrecomillada sale no literal, y ni un solo tema ni un solo
@@ -42,7 +42,7 @@ debajo, una por una, porque **un número sin explicar en un informe de refutaci�
 |---|---|---|
 | `refutar_exactitud` | Cada negrita dentro de un bloque anclado en un artículo, contra el texto de ese artículo | **Aplicable en seis temas**: 1, 2, 7, 9, 10 y 12. **74 negritas comprobadas, 0 no literales** |
 | `refutar_modo` | Que el tema no imponga donde la norma faculta, y que recoja las salvedades | **Cero hallazgos reales.** Quedan **tres colisiones de numeración** que la propia lente avisa |
-| `refutar_citas` | Cada tramo entrecomillado contra la fuente de la que dice venir | **59 tramos comprobados, 0 no literales**: 54 en los temas y **5 en el apéndice** |
+| `refutar_citas` | Cada tramo entrecomillado contra la fuente de la que dice venir | **57 tramos comprobados, 0 no literales**: 54 en los temas y **3 en el apéndice** |
 | `refutar_prosa` | Relleno, frases repetidas, siglas sin presentar y negritas rotas | **Cero hallazgos** en los doce temas **y en los doce esquemas** |
 | `refutar_documento` | Cada negrita y cada cifra contra el documento de empresa reconocido ópticamente | **61 cifras huérfanas**, y todas se explican abajo |
 
@@ -178,16 +178,23 @@ conviene decir cuáles y por qué:
 
 - **Exactitud y modo no aplican**: no hay norma, no hay artículos, no hay salvedades. **Su cero sería
   el cero que no dice nada**, y por eso el cuadro escribe «no aplica» y no «0».
-- **Citas sí aplica, y pasa**: **5 tramos comprobados, 0 no literales**. Son las tres frases de las
-  bases que describen la prueba y **los dos textos de comprensión lectora**, contrastados contra los
-  cuadernillos oficiales.
+- **Citas sí aplica, y pasa**: **3 tramos comprobados, 0 no literales** —las tres frases de las
+  bases que describen la prueba—, más **2 bloques de destaque** que la lente separa y no comprueba,
+  **porque no son citas de nadie: son los dos textos de práctica escritos para este temario**.
 - **Prosa pasa**: 0 hallazgos.
 - **Y tiene una comprobación que ningún tema puede tener: la aritmética.** **Las seis preguntas
   numéricas se han recalculado sobre los valores leídos del gráfico y las seis dan el resultado que
   la plantilla marca**; **las cuatro series con regla demostrada dan la letra que la plantilla da**.
   **Diez de sus veinte preguntas quedan verificadas de extremo a extremo.**
 
-**Y de las otras cuatro series se dice que no se demuestran.** Se puede describir lo que hacen, pero
+**Y hay dos cosas que el apéndice deliberadamente no reproduce**, por la misma razón por la que no
+redibuja las series: **los dos textos de comprensión lectora del examen no son de Correos ni de este
+temario, son de sus autores** —un libro de una editorial comercial y un artículo de una revista—.
+**Se da de qué trataban y cómo estaban construidas sus preguntas**, que es lo que se aprende, y
+**dos textos escritos para este temario** con las mismas tres trampas, para practicar sobre algo
+propio.
+
+**Y de las cuatro series restantes se dice que no se demuestran.** Se puede describir lo que hacen, pero
 **describir no es demostrar**, y **una regla inventada que acierte la letra por casualidad enseña a
 buscar lo que no hay**. Van con su respuesta oficial y sin regla, que es lo honrado.
 

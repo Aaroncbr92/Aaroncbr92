@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | **No procede**: no se estudia una redacción, se entrenan tres mecánicas |
 | **Por qué está aquí** | **El Anexo III no las incluye y el examen sí**: son **diez de las cien preguntas que puntúan** |
 | **Qué se ha comprobado** | **Las veinte preguntas reales**, con su respuesta oficial; **las seis cuentas del bloque numérico, rehechas**; y **la regla de cuatro de las ocho series** |
-| **Extensión** | **4.350 palabras** |
+| **Extensión** | **5.233 palabras** |
 
 <!-- /portada -->
 
@@ -46,6 +46,7 @@ reales del examen de 2023 —diez por puesto— con su respuesta oficial y con l
 - [2. Comprensión lectora](#2-comprensión-lectora)
   - [El texto del examen de Atención al Cliente](#el-texto-del-examen-de-atención-al-cliente)
   - [El texto del examen de Reparto](#el-texto-del-examen-de-reparto)
+  - [Dos textos para practicar, escritos para este temario](#dos-textos-para-practicar-escritos-para-este-temario)
   - [La regla que dejan los seis](#la-regla-que-dejan-los-seis)
 - [3. Razonamiento numérico](#3-razonamiento-numérico)
   - [El gráfico del examen de Atención al Cliente](#el-gráfico-del-examen-de-atención-al-cliente)
@@ -97,66 +98,144 @@ qué sabe del asunto: **se pregunta qué dice el papel**. Ésa es la regla enter
 tres únicas maneras de fallar: **contestar de memoria**, **contestar con lo que el texto sugiere
 pero no dice**, y **no volver al texto**.
 
+**Los dos textos del examen no se reproducen aquí, y conviene decir por qué.** **No son de Correos
+ni del temario: son de sus autores.** El cuadernillo los tomó **de un libro publicado por una
+editorial comercial** y **de un artículo de una revista económica**, y los acredita al pie con autor
+y fuente. **Reproducirlos enteros en un temario sería publicar la obra de otro**, así que aquí va
+**de qué trataban y cómo estaban construidas sus preguntas** —que es lo que se puede aprender— y,
+detrás, **dos textos escritos para este temario** con las mismas trampas, para practicar sobre algo
+propio.
+
 ### El texto del examen de Atención al Cliente
 
-> «**A finales del siglo XIX y principios del XX, la recogida de hielo era un negocio floreciente en
-> Nueva Inglaterra en el que estaban implicadas personas, caballos y trineos que trabajaban en lagos
-> y estanques helados para extraer de ellos bloques de hielo. Lo llamaremos Hielo 1.0. Treinta años
-> más tarde, la gente congelaba agua en fábricas de hielo y los repartidores distribuían el hielo en
-> camiones. Aquellos emprendedores no tenían ninguna necesidad de esperar a que llegara el invierno
-> ni de vivir en ciudades frías. Podían suministrar hielo en cualquier momento y en cualquier parte.
-> Lo llamaremos Hielo 2.0. Y otros treinta años más tarde, unos emprendedores inventaron la nevera
-> con congelador. En vez de comprar hielo a un fabricante, la gente tenía su propia fábrica de
-> hielo, el primer CP (congelador personal). Lo llamaremos Hielo 3.0. Ninguno de los recogedores de
-> hielo puso en marcha fábricas de hielo, y ninguna de las fábricas de hielo acabó convirtiéndose en
-> fabricantes de neveras con congelador. Todos ellos definían su negocio en términos de lo que
-> hacían (cortar y extraer bloques de hielo de lagos helados, congelar agua mediante un sistema
-> centralizado, o fabricar aparatos que congelaran el agua) y no en términos de lo que pretendían
-> conseguir (comodidad y limpieza). De haber adquirido esta perspectiva, tal vez hubieran saltado la
-> siguiente curva, habrían pasado de extraer el hielo a fabricarlo y a la nevera.**»  Kawasaki, G.,
-> «El arte de empezar 2.0», Deusto.
+**De qué trataba.** Un pasaje de un libro de gestión de empresas sobre **la historia del negocio del
+hielo**, contada en **tres etapas separadas por treinta años cada una**: primero la **extracción de
+bloques de los lagos y estanques helados** de Nueva Inglaterra, con caballos y trineos; después las
+**fábricas de hielo con reparto en camiones**, que liberaban al negocio del invierno y del clima
+frío; y por último la **nevera doméstica con congelador**, que puso la fábrica en cada casa. **El
+pasaje remata con una tesis**: ninguno de los tres negocios dio el salto al siguiente, y el autor lo
+atribuye a que **se definían por la tarea que ejecutaban en lugar de por el resultado que buscaban**
+—resultado que el texto resume, entre paréntesis, en dos palabras: comodidad y limpieza—.
 
----
-
-| Nº | La pregunta | Respuesta oficial | Dónde está en el texto, y dónde está la trampa |
+| Nº | La pregunta | Respuesta oficial | Dónde estaba, y dónde estaba la trampa |
 |---:|---|---|---|
-| **27** | **¿Cuántos años pasaron entre el Hielo 1.0 y el Hielo 2.0?** | **Treinta años** | **«Treinta años más tarde»**, tras el Hielo 1.0. **El texto dice «treinta» dos veces** —también entre el 2.0 y el 3.0—, y las opciones ofrecen 25, 40 y 50: **ninguna aparece en el texto**. El que duda es porque suma los dos treinta |
-| **28** | **Indique en qué consiste el Hielo 2.0** | **La generación y distribución de hielo a través de fábricas y repartidores** | **«La gente congelaba agua en fábricas de hielo y los repartidores distribuían el hielo en camiones.»** **Las otras tres opciones son las definiciones del 1.0 y del 3.0**: la de los estanques y caballos es el 1.0, la de la nevera con congelador es el 3.0 |
-| **29** | **¿En qué términos se definían los negocios presentados en el texto?** | **En relación con lo que hacían** | **«Todos ellos definían su negocio en términos de lo que hacían… y no en términos de lo que pretendían conseguir (comodidad y limpieza).»** **La opción falsa copia literalmente la segunda mitad de la frase, paréntesis incluido.** Es la trampa mejor construida de las seis: **quien reconoce las palabras y no la negación, falla** |
+| **27** | **¿Cuántos años pasaron entre la primera etapa y la segunda?** | **Treinta años** | El texto **escribe «treinta» dos veces**, porque los dos intervalos son iguales, y las opciones ofrecían **25, 40 y 50**: **ninguna aparecía en el texto**. Quien duda es porque ha sumado los dos treinta |
+| **28** | **En qué consistía la segunda etapa** | **La generación y distribución de hielo a través de fábricas y repartidores** | **Las otras tres opciones eran las definiciones de las etapas vecinas**: la de los estanques y los caballos era la primera, la de la nevera con congelador era la tercera. **Sólo falla quien no tiene claro cuál de las tres le preguntan** |
+| **29** | **¿En qué términos se definían los negocios del texto?** | **En relación con lo que hacían** | La tesis del pasaje es de la forma **«por A y no por B»**, y **la opción falsa copia literalmente la mitad B, paréntesis incluido**. Es la trampa mejor construida de las seis: **quien reconoce las palabras y no la negación, falla** |
 
 ### El texto del examen de Reparto
 
-> «**Las consecuencias de un panorama tan triste para México durante este 2023 incluyen efectos
-> fiscales, sociales y políticos. Fiscalmente hablando, la hacienda pública puede sufrir
-> enormemente, ya que una recesión generaría un boquete en los ingresos del gobierno. Dicho hueco
-> fiscal podría alcanzar casi el medio billón de pesos. Desafortunadamente, este hueco tendría que
-> ser cubierto con deuda que futuras generaciones de mexicanos tendrían que pagar. Aún peor, la baja
-> de precios de petróleo puede empeorar la situación financiera de Pemex, obligando al gobierno a
-> tener que cubrir mayores costos de la paraestatal. Por otro lado, el golpeteo tan fuerte contra la
-> economía puede seguir empujando a muchos mexicanos a emigrar fuera del país, algo que no sucedía
-> cinco años atrás. El éxodo de mexicanos a Estados Unidos ha seguido en ascenso, con un flujo que
-> alcanzó 400 mil mexicanos abandonando el país durante el año pasado para buscar mejor suerte fuera
-> de México. Ante un panorama tan adverso en la economía mexicana, no dudemos que la cifra de
-> mexicanos que abandone el país durante el 2023 alcance el medio millón. Asimismo, debido a los
-> pocos resultados en materia económica, el partido oficialista podría sufrir una serie de derrotas
-> en las contiendas estatales de Coahuila y el Estado de México.**»  Balmori, J. R., «Perspectiva
-> económica 2023», Forbes México.
+**De qué trataba.** Un artículo de previsión económica sobre **las consecuencias que un año malo
+tendría para México en 2023**, ordenado en **tres capítulos: fiscal, social y político**. En el
+fiscal, una recesión abriría un **agujero en los ingresos del gobierno** que habría que cubrir con
+**deuda a pagar por generaciones futuras**, agravado porque **la bajada del precio del petróleo**
+empeoraría las cuentas de la petrolera estatal. En el social, **la emigración a Estados Unidos, que
+venía subiendo**, pasaría de las **cuatrocientas mil personas del año anterior** a **medio millón**.
+En el político, el partido en el gobierno podría **perder dos contiendas estatales**, que el texto
+nombra.
+
+| Nº | La pregunta | Respuesta oficial | Dónde estaba, y dónde estaba la trampa |
+|---:|---|---|---|
+| **27** | **Entre los efectos que podría sufrir México se encuentra…** | **Un descenso en los ingresos del gobierno** | **Las tres falsas estaban construidas invirtiendo una palabra del texto**: el petróleo **baja** de precio y la opción decía que subía; la emigración **asciende** y la opción decía que se estancaba; y la deuda la pagan **las generaciones futuras**, no la actual |
+| **28** | **¿Qué cifra de emigración se espera para 2023?** | **Podría alcanzar los 500 mil** | El texto **no escribe la cifra en dígitos**: dice **«medio millón»**, y hay que traducirla. **El 400 mil que ofrecía una opción sí estaba en el texto**, pero era **el año anterior**. **Es una pregunta de fecha disfrazada de cifra** |
+| **29** | **¿En qué estados podría ser derrotado el partido en el gobierno?** | **Coahuila y Estado de México** | **Dos opciones metían en la lista de estados el nombre de la petrolera**, que en el texto aparece **como empresa** y no como lugar. **Quien contesta por reconocimiento de palabra cae** |
+
+### Dos textos para practicar, escritos para este temario
+
+**Los dos que siguen no son del examen: son de este temario**, y están escritos **con las mismas
+tres trampas** y de la misma longitud, para poder entrenar sobre algo propio. **Los nombres y las
+cifras son inventados**, igual que el examen inventa Villa-Ría en su bloque numérico.
+
+> **El agua de Vallehondo.** Durante siglos los vecinos de Vallehondo se abastecieron acarreando el
+> agua del río en cántaros, un trabajo que ocupaba a las familias buena parte de la mañana. En 1902
+> el ayuntamiento inauguró cuatro fuentes públicas alimentadas por una traída de aguas desde el
+> manantial de la Umbría: el vecindario dejó de bajar al río, pero siguió acarreando. Veinte años
+> después, en 1922, se acometió la red domiciliaria y el agua llegó por primera vez al interior de
+> las casas. Otros veinte años después, en 1942, se levantó el depósito elevado, que dio presión
+> bastante para los pisos altos y permitió abastecer el barrio nuevo.  Ninguna de las tres obras la
+> promovió quien había hecho la anterior. La traída fue iniciativa del ayuntamiento; la red
+> domiciliaria, de una sociedad de vecinos constituida al efecto; y el depósito, de la diputación
+> provincial. El cronista local lo explicó diciendo que cada una se había propuesto resolver el
+> problema que tenía delante y no el que venía detrás: llevar el agua al pueblo, llevarla a las
+> casas, llevarla a los pisos.
 
 ---
 
-| Nº | La pregunta | Respuesta oficial | Dónde está en el texto, y dónde está la trampa |
-|---:|---|---|---|
-| **27** | **Entre los efectos que podría sufrir México este 2023 se encuentra…** | **Un descenso en los ingresos del gobierno** | **«Una recesión generaría un boquete en los ingresos del gobierno.»** **Las tres falsas están todas construidas invirtiendo una palabra del texto**: el petróleo **baja** de precio y la opción dice que sube; la emigración **asciende** y la opción dice que se estanca; y la deuda la pagan **futuras generaciones**, no la actual |
-| **28** | **¿Qué cifras se espera de emigración hacia Estados Unidos para el 2023?** | **Podría alcanzar los 500 mil** | **«Medio millón»**, y el texto **no escribe la cifra en dígitos**: hay que traducirla. **El 400 mil que ofrece una opción está en el texto**, pero es **el año pasado**, no 2023. **La pregunta es de fecha disfrazada de cifra** |
-| **29** | **¿En qué estados podría ser derrotado el partido oficialista?** | **Coahuila y Estado de México** | **«Las contiendas estatales de Coahuila y el Estado de México.»** **Dos opciones meten a «Pemex» en la lista de estados**, y Pemex sale en el texto **como empresa**, no como estado. **Quien contesta por reconocimiento de palabra cae** |
+**1. ¿Cuántos años pasaron entre las fuentes públicas y la red domiciliaria?**
+
+- a) Diez años
+- b) Veinte años
+- c) Veinticinco años
+- d) Cuarenta años
+
+**2. ¿En qué consistió la obra de 1922?**
+
+- a) En la traída de aguas desde el manantial de la Umbría
+- b) En el depósito que dio presión a los pisos altos
+- c) En la red que llevó el agua al interior de las casas
+- d) En las cuatro fuentes públicas del centro del pueblo
+
+**3. Según el cronista, ¿qué se propuso cada una de las tres obras?**
+
+- a) Resolver el problema que venía detrás
+- b) Abastecer el barrio nuevo
+- c) Resolver el problema que tenía delante
+- d) Evitar que los vecinos bajaran al río
+
+> **El informe de Altamar.** El informe de coyuntura que la Cámara de Comercio de Altamar publicó en
+> enero apunta a un año difícil para la comarca, con efectos sobre las cuentas públicas, sobre el
+> censo y sobre el gobierno local. En el capítulo fiscal, la caída prevista de la recaudación
+> dejaría en el presupuesto comarcal un agujero que el informe cifra en cerca de dos millones de
+> euros, y que habría que cubrir con deuda cuya amortización recaería sobre los presupuestos de los
+> próximos años. A ello se suma que la bajada del precio de la conserva, que es la principal
+> industria de la comarca, estrecha los márgenes de la cooperativa Mar de Altamar, participada por
+> el propio ayuntamiento, que tendría que auxiliarla.  En el capítulo social, el informe advierte de
+> que la falta de trabajo empuja a los jóvenes a marcharse, algo que hace una década no ocurría. La
+> salida hacia la capital no ha dejado de crecer: el año pasado se fueron mil doscientos vecinos, y
+> el informe no descarta que este año la cifra llegue a los dos mil. Y en el capítulo político,
+> concluye que el equipo de gobierno podría perder las alcaldías de Puertoclaro y Sierra Baja.
+
+---
+
+**4. Entre los efectos que el informe prevé para la comarca se encuentra…**
+
+- a) Un aumento del precio de la conserva
+- b) Una caída de la recaudación
+- c) El estancamiento de la salida de jóvenes hacia la capital
+- d) Una deuda que amortizarán los presupuestos de este año
+
+**5. ¿Qué cifra de salida hacia la capital no descarta el informe para este año?**
+
+- a) Mil doscientos vecinos
+- b) Cerca de dos millones
+- c) Dos mil vecinos
+- d) No da ninguna cifra para este año
+
+**6. ¿Qué podría perder el equipo de gobierno?**
+
+- a) Las alcaldías de Puertoclaro y Mar de Altamar
+- b) Las alcaldías de Puertoclaro y Sierra Baja
+- c) La cooperativa Mar de Altamar
+- d) Las alcaldías de Sierra Baja y Altamar
+
+**Las seis respuestas, y qué trampa entrena cada una:**
+
+| Nº | Respuesta | La trampa que reproduce |
+|---:|---|---|
+| **1** | **b) Veinte años** | **El intervalo escrito dos veces.** «Cuarenta» es la suma de los dos; «diez» y «veinticinco» no están en el texto |
+| **2** | **c) La red que llevó el agua al interior de las casas** | **Las definiciones de las etapas vecinas**: 1902 y 1942 están las dos ofrecidas como opción |
+| **3** | **c) Resolver el problema que tenía delante** | **La forma «A y no B», con la opción falsa copiando la mitad B** al pie de la letra |
+| **4** | **b) Una caída de la recaudación** | **La palabra invertida**: el precio baja y la opción dice que sube; la salida crece y la opción dice que se estanca; la deuda es de los próximos presupuestos y la opción dice que de éste |
+| **5** | **c) Dos mil vecinos** | **La cifra escrita en letra y el año cambiado**: «mil doscientos» está en el texto, pero es el año pasado; «dos millones» está en el texto, pero es el agujero fiscal |
+| **6** | **b) Las alcaldías de Puertoclaro y Sierra Baja** | **El nombre de una empresa colado en una lista de lugares**: Mar de Altamar es la cooperativa |
 
 ### La regla que dejan los seis
 
 **Las tres preguntas se contestan volviendo al texto, y ninguna se contesta recordándolo.** **En
-cinco de las seis, la opción falsa usa palabras que están en el texto**, sacadas de otro sitio o con
-un término invertido. **Por eso el orden correcto es leer la pregunta, volver al texto, localizar la
-frase y sólo entonces mirar las opciones**: quien lee las cuatro opciones antes de volver al texto
-entra a buscar confirmación en lugar de a buscar el dato.
+cinco de las seis del examen, la opción falsa usa palabras que están en el texto**, sacadas de otro
+sitio o con un término invertido. **Por eso el orden correcto es leer la pregunta, volver al texto,
+localizar la frase y sólo entonces mirar las opciones**: quien lee las cuatro opciones antes de
+volver al texto entra a buscar confirmación en lugar de a buscar el dato.
 
 ## 3. Razonamiento numérico
 
@@ -350,6 +429,7 @@ respuesta que estaba en la cuarta.**
 
 | Materia | Dónde está | Estado |
 |---|---|---|
+| **Los dos textos de comprensión lectora** | Un libro publicado por una editorial comercial y un artículo de una revista económica, que el cuadernillo acredita al pie | **NO reproducidos: son de sus autores, no de Correos ni de este temario.** Se da **de qué trataban y cómo estaban construidas sus preguntas**, y **dos textos escritos para este temario** con las mismas trampas |
 | **Los dibujos de las ocho series** | Los cuadernillos oficiales del 7 de mayo de 2023, que Correos publicó | **NO reproducidos.** Un dibujo redibujado ya no es la pregunta: **se da la anatomía, el método y la respuesta oficial de cada uno** |
 | **La regla de cuatro de las ocho series** | El propio dibujo | **NO dada**, y se dice cuáles: el 76, el 77 y el 79 de Atención al Cliente y el 84 de Reparto. **Una regla inventada sería peor que ninguna** |
 | **El motivo de seis de las siete anulaciones** | Correos no lo publicó | **NO dado.** Sólo la de la serie de figuras se puede demostrar, y se demuestra |
@@ -361,8 +441,9 @@ respuesta que estaba en la cuarta.**
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
 | **Enunciado de la convocatoria** | Anexo III del Primer Desarrollo de las Bases, de 14 de octubre de 2022 | **La composición del cuestionario**: noventa preguntas de las materias del anexo y diez psicotécnicas, citada literalmente |
-| **Cuadernillos oficiales** | Los cuatro cuadernillos del examen de 7 de mayo de 2023, que Correos publicó, con sus dos plantillas de respuestas | **Los dos textos de comprensión lectora con su autor y su fuente; los dos enunciados de los gráficos; los quince valores del gráfico de líneas y los cinco del de sectores, leídos sobre la página; el enunciado literal de las series de figuras; y la respuesta oficial de las veinte preguntas**, citados literalmente |
+| **Cuadernillos oficiales** | Los cuatro cuadernillos del examen de 7 de mayo de 2023, que Correos publicó, con sus dos plantillas de respuestas | **Los dos enunciados de los gráficos; los quince valores del gráfico de líneas y los cinco del de sectores, leídos sobre la página; el enunciado literal de las series de figuras; y la respuesta oficial de las veinte preguntas**, citados literalmente. **De los dos textos de comprensión lectora, sólo el asunto y la forma de sus preguntas**: el texto es de su autor y no se reproduce |
 | **Comprobación a la vista** | Las páginas impresas de los cuadernillos | **Los valores de los dos gráficos**, que no están en el texto sino en el dibujo; **la anatomía de los ocho ítems de series**; y **la coincidencia entre la pregunta 83 del modelo A de Reparto y la 47 del modelo B**, con la letra que falta en el enunciado de ésta |
+| **Escrito para este temario** | — | **Los dos textos de práctica —«El agua de Vallehondo» y «El informe de Altamar»— y sus seis preguntas con sus opciones**. Son de la casa, con nombres y cifras inventados, y reproducen **las tres trampas** de los dos textos del examen |
 | **Aritmética rehecha** | — | **Las seis cuentas del bloque numérico**, rehechas sobre los valores leídos: las tres del gráfico de sectores y las tres del de líneas. **Las seis dan el resultado que la plantilla marca como correcto** |
 
 **Y una comprobación que este apéndice sí puede ofrecer y los doce temas no.** **Aquí la respuesta

@@ -82,7 +82,7 @@ presenta habiendo renunciado a ellas.
 
 | Bloque del apéndice | Por cuadernillo | Qué se da |
 |---|---:|---|
-| **Comprensión lectora** | **3** | **Los dos textos reales** con su autor y su fuente, y **las seis preguntas** con la frase del texto que contesta cada una y cómo está construido cada distractor |
+| **Comprensión lectora** | **3** | **De qué trataban los dos textos y cómo estaba construida cada una de las seis preguntas** —los textos son de sus autores y no se reproducen— más **dos textos escritos para este temario**, con seis preguntas propias y las mismas tres trampas |
 | **Razonamiento numérico** | **3** | **Los dos gráficos**, pasados a tabla con sus valores leídos sobre la página, y **las seis cuentas rehechas** |
 | **Series de figuras** | **4** | **La anatomía de los ocho ítems**, el método en cinco pasos, **la regla demostrada de cuatro de ellos** y **la respuesta oficial de los ocho** |
 | | **10** | |
