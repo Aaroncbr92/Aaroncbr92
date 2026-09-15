@@ -1,6 +1,6 @@
 # Correos · Tema 3 · Productos y servicios: comunicación, paquetería y e-commerce
 
-32 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
+33 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
 personal laboral fijo en el Grupo Profesional IV. La respuesta es la de la
 plantilla oficial; donde pone «anulada» es que la propia plantilla la anuló.
 
@@ -350,6 +350,20 @@ a) A los clientes particulares y a los clientes con contrato de Correos
 b) Solo a los clientes particulares
 c) Solo a los clientes que tengan un contrato con Correos
 d) Solo a personal interno de Correos
+```
+
+*La contesta el epígrafe 3.14.*
+
+---
+
+**Cuestionario-REP_A_07052023 · nº 46 · respuesta: b**
+
+```
+Cuál de siguientes afirmaciones acerca de la web Correos.com es correcta:
+a) Correos.com es la página web de promociones para empleados
+b) Correos.com es la página web institucional de la compañía, donde se reflejan la misión y la historia de Correos.
+c) Correos.com es la intranet de los empleados, donde el empleado de Correos se puede informar sobre las novedades de la compañía y acceder a aplicaciones.
+d) Todas las respuestas anteriores son correctas Página 5 de 13 - REP/A
 ```
 
 *La contesta el epígrafe 3.14.*

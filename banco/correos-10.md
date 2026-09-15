@@ -1,6 +1,6 @@
 # Correos · Tema 10 · El cliente: atención, calidad y protocolos de venta
 
-9 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
+8 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
 personal laboral fijo en el Grupo Profesional IV. La respuesta es la de la
 plantilla oficial; donde pone «anulada» es que la propia plantilla la anuló.
 
@@ -16,6 +16,8 @@ c) Actualmente Correos no dispone de atención multicanal para sus clientes
 d) La atención multicanal de Correos no contempla en este momento las redes sociales
 ```
 
+*La contesta el epígrafe 10.9.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 46 · respuesta: b**
@@ -27,6 +29,8 @@ b) Alude a un usuario que ha facilitado sus datos personales a una empresa pasan
 c) Alude a un usuario que ha facilitado sus datos personales a una empresa pasando a ser un registro de su base de datos, que puede convertirse en cliente potencial. Solamente puede ser una persona, nunca una organización interesada en lo que esa empresa le está ofreciendo.
 d) Hace referencia a un cliente con una antigüedad superior a 10 años. Puede tratarse de una persona física o jurídica.
 ```
+
+*La contesta el epígrafe 10.9.3.*
 
 ---
 
@@ -40,6 +44,8 @@ c) En una reclamación, una persona solicita información sobre algún producto 
 d) Todas las respuestas anteriores son correctas Página 9 de 14 - ATC/A
 ```
 
+*La contesta el epígrafe 10.9.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 97 · respuesta: b**
@@ -51,6 +57,8 @@ b) La oficina debe facilitar la hoja de reclamación OMIC descargándola directa
 c) En las oficinas de Correos no se puede facilitar ningún formulario, el cliente debe dirigirse a la OMIC personalmente.
 d) La oficina cumplimentará un formulario y le entregará una copia al cliente
 ```
+
+*La contesta el epígrafe 10.9.2.*
 
 ---
 
@@ -64,17 +72,7 @@ c) Calidad, constancia y compromiso
 d) Cercanía, constancia y calidad
 ```
 
----
-
-**Cuestionario-REP_A_07052023 · nº 46 · respuesta: b**
-
-```
-Cuál de siguientes afirmaciones acerca de la web Correos.com es correcta:
-a) Correos.com es la página web de promociones para empleados
-b) Correos.com es la página web institucional de la compañía, donde se reflejan la misión y la historia de Correos.
-c) Correos.com es la intranet de los empleados, donde el empleado de Correos se puede informar sobre las novedades de la compañía y acceder a aplicaciones.
-d) Todas las respuestas anteriores son correctas Página 5 de 13 - REP/A
-```
+*La contesta el epígrafe 10.9.1.*
 
 ---
 
@@ -88,6 +86,8 @@ c) Hace referencia al índice de satisfacción (ISC) que muestran los clientes e
 d) Se trata de la calidad que percibimos que tienen nuestros servicios, valorada por los empleados internos
 ```
 
+*La contesta el epígrafe 10.9.3.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 76 · respuesta: d**
@@ -100,6 +100,8 @@ c) La gestión de reclamaciones nacionales e internacionales de exportación
 d) Todas las respuestas anteriores son correctas
 ```
 
+*La contesta el epígrafe 10.5.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 95 · respuesta: d**
@@ -111,4 +113,6 @@ b) Transmite la identidad de un objeto (similar a un número de serie único) me
 c) En Correos, el sistema está instalado en los vehículos de transporte de envíos
 d) Las respuestas A y B son correctas
 ```
+
+*La contesta el epígrafe 10.7.*
 

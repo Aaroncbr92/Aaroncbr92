@@ -111,6 +111,13 @@ otra mitad es MEDICIÓN**: qué sistema mide qué, y **quién audita a quién**.
   el modelo EFQM**.
 - **LA DOBLE PREGUNTA** · `[tem]` · **OCHO conceptos en el EFQM, SIETE principios en la ISO 9001**:
   **el número es la primera pregunta, y la coincidencia parcial de contenidos es la segunda**.
+- **EL ALCANCE DE LA CERTIFICACIÓN, QUE SON TRES PROCESOS** · `[doc]` · **A) la admisión,
+  tratamiento y curso de correspondencia y paquetería nacional e internacional** · **B) la
+  comercialización y entrega en oficina de productos y servicios de proximidad** · **C) la gestión
+  de reclamaciones nacionales e internacionales de exportación** · cayó en **Reparto, nº 76**, con
+  los tres por separado para que se contestara «todas» · **incluye oficinas, centros de tratamiento,
+  admisión masiva, oficina de cambio y atención al cliente**, y **se extiende a Correos Express,
+  Nexea y Correos Telecom, cada una con su propio alcance**.
 
 ## Cómo se mide la calidad en plazo
 
@@ -159,6 +166,16 @@ otra mitad es MEDICIÓN**: qué sistema mide qué, y **quién audita a quién**.
 
 ## Radiofrecuencia y COCAL
 
+- **QUÉ ES, LITERAL** · `[doc]` · **«la tecnología RFID transmite la identidad de un objeto (similar
+  a un número de serie único) mediante ondas de radio»**, y es además **una de las herramientas que
+  mejoran la eficacia del sistema de gestión de la calidad**: **las dos cosas a la vez**, por eso
+  **Reparto, nº 95** se contestaba «A y B» · **NO está instalado en los vehículos**: está **en los
+  accesos y muelles de carga y descarga, unos 500 puntos**, de los principales centros de
+  tratamiento y de admisión masiva.
+- **LAS TRES PIEZAS DEL SISTEMA** · `[doc]` · **LECTORES**, el «cerebro», con su **middleware** ·
+  **ANTENAS fijas**, que **emiten y reciben** · **ETIQUETAS o transpondedores**, **como una
+  pegatina**, adheridas al objeto · **no requiere visión directa entre emisor y receptor**, y de ahí
+  **la posición y el instante de paso: la trazabilidad**.
 - **PASIVAS FRENTE A ACTIVAS** · `[doc]` · **las etiquetas son PASIVAS** —**no necesitan
   alimentación eléctrica interna**, a diferencia de las activas, que **requieren batería**— y **la
   información se almacena en COCAL**, el sistema de información corporativo.
@@ -187,6 +204,35 @@ otra mitad es MEDICIÓN**: qué sistema mide qué, y **quién audita a quién**.
   **reiterados incumplimientos**.
 
 ## Las políticas de atención al cliente
+
+- **EL LEMA SON LAS TRES C** · `[doc]` · **«Cercanía, calidad y compromiso»** —cayó en **Reparto, nº
+  20**— · de él sale la regla de estilo: **transparencia, comunicación cercana y sencilla, SIN
+  tecnicismos ni términos internos**.
+- **TODOS LOS CLIENTES TIENEN ATENCIÓN MULTICANAL** · `[doc]` · **telefónica**, **oficinas**, **canal
+  web en cada sitio de las empresas de Correos** y **redes sociales** · **todos, no sólo los de
+  contrato**: cayó en **Atención al Cliente, nº 18**.
+
+| Las tres palabras que NO son sinónimas | Qué es |
+|---|---|
+| **INCIDENCIA** | **El cliente informa de un problema en el servicio o en un producto QUE DEBE SOLUCIONARSE** |
+| **RECLAMACIÓN** | **El cliente deja constancia de su INSATISFACCIÓN** con un servicio o producto — cayó en **Atención al Cliente, nº 74** |
+| **CONSULTA** | **Una persona SOLICITA INFORMACIÓN** sobre un producto o servicio |
+
+- **LA HOJA DE LA OFICINA MUNICIPAL DE INFORMACIÓN AL CONSUMIDOR (OMIC) NO ESTÁ IMPRESA EN LA
+  OFICINA: SE DESCARGA** · `[doc]` · **de la web del
+  ayuntamiento o de la comunidad autónoma** —cayó en **Atención al Cliente, nº 97**— · **ante
+  cualquier duda, jefatura de red de la zona** · **el cliente la cumplimenta POR TRIPLICADO** · **se
+  le entregan DOS copias**: **la del organismo oficial**, que **es él quien la entrega**, y **la
+  suya**, que es **el resguardo de imposición** · con la tercera **se graban los datos en la
+  aplicación «Reclamaciones»** · **cartel obligatorio en el vestíbulo**: «Hay hojas de reclamaciones
+  OMIC a disposición del cliente».
+- **LAS DOS CALIDADES DEL ANÁLISIS** · `[doc]` · **EMITIDA: las auditorías**, internas o de
+  proveedores externos · **PERCIBIDA: el índice de satisfacción (ISC) de las encuestas** que se
+  envían **tras cada interacción** —cayó en **Reparto, nº 51**— · hay un indicador que las enfrenta:
+  **la comparativa mensual de los acumulados de una y otra**.
+- **LEAD** · `[doc]` · **«un usuario que ha facilitado sus datos personales a una empresa pasando a
+  ser un registro de su base de datos»**, y **puede convertirse en cliente** —cayó en **Atención al
+  Cliente, nº 46**— · **no es cliente ni venta: es el paso anterior**.
 
 | Categoría | La regla que más se pregunta |
 |---|---|

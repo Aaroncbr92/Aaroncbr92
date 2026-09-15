@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | **No procede** para los modelos de calidad. El **Real Decreto 1829/1999** va en su redacción vigente: se cita su **artículo 41**, que **remite a una ley derogada** |
 | **Norma de apoyo** | **Real Decreto 1829/1999** · `BOE-A-1999-24919` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 10**, reconocido ópticamente |
-| **Extensión** | **3.432 palabras** |
+| **Extensión** | **4.607 palabras** |
 
 <!-- /portada -->
 
@@ -56,6 +56,10 @@ prohibiciones.
 - [6. El sistema de radiofrecuencia y su sistema de información (COCAL)](#6-el-sistema-de-radiofrecuencia-y-su-sistema-de-información-cocal)
 - [7. Los indicadores](#7-los-indicadores)
 - [8. Las políticas de atención al cliente](#8-las-políticas-de-atención-al-cliente)
+  - [El lema, los canales y las tres palabras que no son sinónimas](#el-lema-los-canales-y-las-tres-palabras-que-no-son-sinónimas)
+  - [La hoja de la Oficina Municipal de Información al Consumidor](#la-hoja-de-la-oficina-municipal-de-información-al-consumidor)
+  - [Calidad emitida y calidad percibida, que no son la misma](#calidad-emitida-y-calidad-percibida-que-no-son-la-misma)
+  - [Las ocho categorías de la política](#las-ocho-categorías-de-la-política)
 - [9. La normativa que este tema invoca](#9-la-normativa-que-este-tema-invoca)
 - [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
 - [11. Trazabilidad](#11-trazabilidad)
@@ -164,6 +168,22 @@ asienta sobre siete principios de la gestión de la calidad**, y el propio docum
 **Ocho conceptos en el EFQM, siete principios en la ISO 9001**: **el número es la primera pregunta,
 y la coincidencia parcial de contenidos es la segunda.**
 
+**Y hay una tercera, que es de alcance.** **El sistema de gestión de la calidad involucra a toda la
+organización**, empezando por la presidencia, **pero la certificación ISO cubre tres procesos
+concretos**, citados:
+
+> «**A. La admisión, tratamiento y curso de correspondencia y paquetería nacional e
+> internacional.**» «**B. La comercialización y entrega en oficina de productos y servicios de
+> proximidad.**» «**C. Gestión de reclamaciones nacionales e internacionales de exportación.**»
+
+---
+
+**Los tres, y el examen los dio por separado para que se contestara «todas»** —es la número 76 del
+cuestionario de Reparto—. **En ese esquema entra la mayor parte de las unidades operativas**:
+**oficinas**, **centros de tratamiento**, **admisión masiva**, **oficina de cambio** y **atención al
+cliente**. **Y se extiende al resto de empresas del grupo —Correos Express, Nexea y Correos
+Telecom—, cada una con su propio alcance de certificación.**
+
 ## 5. Cómo se mide la calidad en plazo
 
 **El Portal de Calidad es el motor de cálculo único para todo Correos**, y **hace unívocos los
@@ -228,6 +248,27 @@ operador involucrado.**
 
 ## 6. El sistema de radiofrecuencia y su sistema de información (COCAL)
 
+**Qué es, en la letra del documento**, porque el examen la pide así:
+
+> «**La tecnología RFID transmite la identidad de un objeto (similar a un número de serie único)
+> mediante ondas de radio.**»
+
+---
+
+**Transmite identidad por ondas de radio, y es una de las herramientas que mejoran la eficacia del
+sistema de gestión de la calidad.** **Las dos cosas son ciertas a la vez**, y por eso la respuesta
+del examen fue «las respuestas A y B son correctas» —es la número 95 del cuestionario de Reparto—.
+**Lo que no es cierto es la tercera opción que ofrecía**: **el sistema no está instalado en los
+vehículos**, sino **en los accesos y los muelles de carga y descarga —en torno a 500 puntos— de los
+principales centros de tratamiento y de admisión masiva**.
+
+**El sistema lo componen tres piezas más el software**: **los lectores**, que **se instalan en el
+punto donde se quiere hacer el control** y son **el «cerebro»**, con su **middleware**; **las
+antenas fijas**, conectadas al lector, que **emiten y reciben las señales**; y **las etiquetas o
+transpondedores**, **dispositivos pequeños, similares a una pegatina**, que **se adhieren o
+incorporan al objeto**. **Su ventaja es que no requiere visión directa entre emisor y receptor**,
+de modo que **queda determinada la posición y el instante de paso del objeto: su trazabilidad.**
+
 **La tecnología de radiofrecuencia sirve aquí para dos cosas distintas.** **Las etiquetas son
 pasivas** —**no necesitan alimentación eléctrica interna**, a diferencia de las activas, que
 **requieren batería**— y **la información se almacena en COCAL**, el sistema de información
@@ -263,6 +304,102 @@ medición de esfuerzo-objetivo**, **nueva alineación a objetivos de negocio**, 
 oportunidades** y **reiterados incumplimientos**.
 
 ## 8. Las políticas de atención al cliente
+
+### El lema, los canales y las tres palabras que no son sinónimas
+
+**El lema de Correos son las tres C**, citado:
+
+> «**El lema de Correos son las tres C: «Cercanía, calidad y compromiso».**»
+
+---
+
+**Cercanía, calidad y compromiso** —es la número 20 del cuestionario de Reparto—. **De él cuelga la
+regla de estilo del trato**: **ser transparentes para generar confianza, comunicándose de manera
+cercana, sencilla y sin tecnicismos ni términos internos de los procesos de Correos.**
+
+**Los canales son varios y el documento subraya que están abiertos a todo el mundo**, citado:
+
+> «**Todos los clientes de Correos tienen acceso a una atención multicanal**»
+
+---
+
+**Todos los clientes, no sólo los de contrato ni sólo los particulares** —es la número 18 del
+cuestionario de Atención al Cliente—. **Los canales son la atención telefónica**, **las oficinas**,
+**el canal web en cada uno de los sitios de las empresas de Correos** y **las redes sociales**.
+
+**Y tres palabras que el opositor confunde y el documento separa una a una**:
+
+| Palabra | Qué es |
+|---|---|
+| **Incidencia** | **Un cliente se pone en contacto con Correos para informar de un problema en el servicio o en algún producto que debe solucionarse** |
+| **Reclamación** | **Un cliente se pone en contacto con Correos para dejar constancia de su insatisfacción con alguno de los servicios o productos** |
+| **Consulta** | **Una persona solicita información sobre algún producto o servicio ofrecido por Correos** |
+
+**La incidencia informa de un problema; la reclamación deja constancia del descontento; la consulta
+sólo pide información.** **El examen preguntó por la del medio** —es la número 74 del cuestionario
+de Atención al Cliente—. **La reclamación se genera además cuando el cliente percibe que ha habido
+un problema, desea que se le ofrezca una solución y quiere manifestar expresamente su descontento**:
+**las tres cosas a la vez.**
+
+### La hoja de la Oficina Municipal de Información al Consumidor
+
+**Si el cliente quiere reclamar con el formulario de la Oficina Municipal de Información al
+Consumidor (OMIC), la oficina no lo tiene impreso**: **lo descarga**. Citado:
+
+> «**la oficina debe facilitar siempre la hoja de reclamación OMIC (Oficina Municipal de Información
+> al Consumidor) descargándola directamente de la web del Ayuntamiento o Comunidad
+> correspondiente**»
+
+---
+
+**De la web del ayuntamiento o de la comunidad autónoma** —es la número 97 del cuestionario de
+Atención al Cliente—, **y ante cualquier duda se consulta con la jefatura de red de la zona**. **El
+cliente lo cumplimenta por triplicado**, y **el empleado le entrega dos copias**: **la del organismo
+oficial**, que **es responsabilidad del cliente entregar**, y **la del propio cliente**, que **es su
+resguardo de imposición**. **Con la tercera —la dirigida a Correos— se graban los datos en la
+aplicación «Reclamaciones» y se adjunta el formulario como archivo.**
+
+**Y hay un cartel obligatorio**: **en el vestíbulo de todas las oficinas, en lugar visible, el cartel
+corporativo adhesivo de «Hay hojas de reclamaciones OMIC a disposición del cliente»** y el de
+**«Consulta nuestras tarifas»**.
+
+### Calidad emitida y calidad percibida, que no son la misma
+
+**El análisis del servicio de atención al cliente distingue dos calidades, y el examen pide la
+segunda.** Citadas:
+
+> «**Calidad emitida: hace referencia a las auditorias de calidad, ya sean a nivel interno o en los
+> proveedores externos.**»
+
+> «**Calidad percibida: hace referencia al índice de satisfacción (ISC) que muestran los clientes en
+> las respuestas a las encuestas de satisfacción que se les envía**»
+
+---
+
+**Esa cita se corta donde el volcado la corta**: **el número de orden de la lista cae en mitad de la
+frase**, así que el final se da en prosa: **las encuestas se envían tras cada interacción**.
+
+**La emitida la miden auditorías; la percibida, los clientes** —es la número 51 del cuestionario de
+Reparto—. **En la emitida se revisan volúmenes, notas, acumulados y comparativas con meses
+anteriores**, y **también las auditorías de auditores externos**; **en la percibida se comparan los
+índices con los de meses anteriores**. **Hay además un indicador que enfrenta a las dos**: **la
+comparativa mensual entre los datos acumulados totales de la calidad emitida y los de la calidad
+percibida por el servicio de atención.**
+
+**Y una palabra del oficio comercial que el documento define en su glosario y el examen preguntó
+suelta**, citada:
+
+> «**Lead: En marketing, alude a un usuario que ha facilitado sus datos personales a una empresa
+> pasando a ser un registro de su base de datos.**»
+
+---
+
+**Un usuario que ha dejado sus datos y pasa a ser un registro**, y **un lead puede convertirse en
+cliente** —es la número 46 del cuestionario de Atención al Cliente—. **No es todavía un cliente ni
+una venta: es el paso anterior**, que es lo que lo distingue del **prospecto** y de la
+**oportunidad** del tema 6.
+
+### Las ocho categorías de la política
 
 **Ocho categorías, y cada una tiene una regla que se pregunta por su rotundidad.**
 
