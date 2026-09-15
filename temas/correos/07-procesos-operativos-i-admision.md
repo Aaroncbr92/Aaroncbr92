@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | La **vigente hoy**. Se cita literalmente su **artículo 76**, sobre insuficiencia de franqueo, que **es donde está la cuantía que el documento de empresa no da** |
 | **Norma de apoyo** | **Ley 43/2010** · `BOE-A-2010-20139`, con su **artículo 24** |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 7**, reconocido ópticamente |
-| **Extensión** | **5.953 palabras** |
+| **Extensión** | **7.311 palabras** |
 
 <!-- /portada -->
 
@@ -40,6 +40,7 @@ que el examen de 2023 preguntó.
 ## Índice
 
 - [1. El circuito de la correspondencia](#1-el-circuito-de-la-correspondencia)
+  - [Los cuatro tipos de admisión, y los que no lo son](#los-cuatro-tipos-de-admisión-y-los-que-no-lo-son)
 - [2. Medios de pago en oficina](#2-medios-de-pago-en-oficina)
   - [El límite del metálico](#el-límite-del-metálico)
   - [La transferencia y el caso de Andorra](#la-transferencia-y-el-caso-de-andorra)
@@ -56,6 +57,8 @@ que el examen de 2023 preguntó.
 - [7. Los siete procedimientos de admisión](#7-los-siete-procedimientos-de-admisión)
   - [Oficinas auxiliares y servicios rurales](#oficinas-auxiliares-y-servicios-rurales)
 - [8. La admisión masiva](#8-la-admisión-masiva)
+  - [El Portal de Entidades Colaboradoras](#el-portal-de-entidades-colaboradoras)
+  - [El albarán: sus cuatro partes, sus tres puertas de entrada y su plazo](#el-albarán-sus-cuatro-partes-sus-tres-puertas-de-entrada-y-su-plazo)
 - [9. Buzones, recogida a domicilio y Citypaq](#9-buzones-recogida-a-domicilio-y-citypaq)
   - [Los buzones](#los-buzones)
   - [La recogida a domicilio](#la-recogida-a-domicilio)
@@ -95,6 +98,28 @@ correspondiente.**
 **Y hay una regla para los sitios sin oficina**: **en poblaciones o núcleos de viviendas no atendidos
 por una oficina, la admisión puede hacerla el personal encargado del reparto domiciliario**, al tiempo
 que lo realiza, **informando a los vecinos del horario habitual de paso**.
+
+### Los cuatro tipos de admisión, y los que no lo son
+
+**El documento define la admisión como «la recepción por parte del operador postal de envío que le
+es confiado por el remitente para la realización del proceso postal integral»**, y **anuncia que
+analizará después distintos tipos**. **Son cuatro**:
+
+| Tipo de admisión |
+|---|
+| **Admisión en oficina** |
+| **Admisión en oficinas auxiliares y servicios rurales** |
+| **Admisión masiva** |
+| **Recogida en buzones** |
+
+**A ésos el documento añade, en un epígrafe aparte, «otras formas de admisión»**: **recogida a
+domicilio**, **envíos prerregistrados en la oficina postal virtual (Mi Oficina)**, **pregrabados a
+través de la web de Correos**, **pregrabados a través de Servicio sin Espera** y **admisión en
+Citypaq**.
+
+**Lo que no existe en ninguna de las dos listas es la «recogida internacional»**, y **ésa es la
+forma de la pregunta** —es la número 23 del cuestionario de Atención al Cliente—: **dan tres que sí
+están** —admisión masiva, admisión en Citypaq y recogida en buzones— **y una inventada**.
 
 ## 2. Medios de pago en oficina
 
@@ -142,6 +167,13 @@ ser múltiplo de 5**. **El saldo se asocia al contrato, no a la tarjeta**, de mo
 empleado de su confianza pueden recargar y consumir con cualquiera de las tarjetas asociadas**. **Es un
 entorno cerrado: la tarjeta sirve exclusivamente para pagar en Correos.**
 
+**Y ahí está la pregunta, porque la opción falsa suena a tarjeta bancaria.** **El examen de 2023
+pidió la afirmación que NO es correcta** —es la número 101 del cuestionario de Atención al Cliente—
+y la falsa era **«permite el pago de servicios en cualquier comercio»**: **no permite pagar en
+ningún comercio que no sea Correos**. **Las otras tres sí son ciertas**: **pueden ser clientes tanto
+los particulares como las empresas**, **es la tarjeta de fidelización de Correos** y **sirve para
+identificar al cliente cuando hace una compra en una oficina**.
+
 **Y al pagar, el portador debe identificarse con su DOI, que hay que introducir en IRIS**: **si algo no
 concuerda, no se puede pagar con la tarjeta, pero sí con otro medio.**
 
@@ -170,6 +202,12 @@ propiamente dichos** de **los medios alternativos**:
 | | **Franqueo concertado** |
 | | **Franqueo pagado** |
 | | **Franqueo en destino** |
+
+**Esa tabla es también una lista cerrada, y el examen la usa como tal**: **da cuatro nombres y pide
+el que no es ni sistema de franqueo ni medio alternativo**. **En 2023 el inventado fue «franqueo
+directo»** —es la número 103 del cuestionario de Atención al Cliente—, frente a **franqueo
+concertado**, **franqueo a máquina** y **franqueo en destino**, que están los tres en la columna de
+la derecha.
 
 **El sello lo confecciona el Estado a través de la Fábrica Nacional de Moneda y Timbre**, y **siempre
 que esté oficialmente emitido tiene poder liberatorio del importe del franqueo en la cuantía que en él
@@ -456,6 +494,78 @@ todo como G0.**
 aplicación para el registro y admisión en línea de albaranes, **con acceso por la oficina virtual previo
 registro**; y la herramienta para generar albaranes de entrega en formato PDF (**GANES**).
 
+### El Portal de Entidades Colaboradoras
+
+**Las entidades colaboradoras son las habilitadas para actuar en nombre de Correos** y realizar
+**operaciones accesorias de recogida, tratamiento, clasificación o transporte de correspondencia**.
+**Sus envíos no se admiten como los demás**: **la admisión de los envíos procedentes de las entidades
+colaboradoras se realiza a través del Portal de Entidades Colaboradoras (PEC)**. **No se cita
+porque no se puede**: **esa frase corre junto a la columna de glosario del margen**, y el volcado
+intercala los renglones de las dos —«se realiza a través / Colaboradoras: del Portal de Entidades
+Colaboradoras (PEC)»—. **Se ha leído a la vista sobre la página 700.**
+
+**El PEC, y no IRIS** —es la número 22 del cuestionario de Reparto—. **Es una aplicación externa a
+IRIS**, así que **se llega a ella de dos maneras**: **desde IRIS, por Llamadas a sistemas externos**,
+o **desde un navegador**; **en los dos casos el empleado se identifica con usuario y contraseña
+propios del PEC**.
+
+**Desde el portal se hacen cuatro cosas**: **validar los albaranes de entrega** que presenten las
+entidades, **registrar las modificaciones**, **imprimir el albarán de entrega** y **consultar las
+estadísticas de admisión**.
+
+**Y hay dos restricciones sobre el contenido de sus depósitos.** **La primera**: **sólo pueden
+contener albaranes de productos del servicio postal universal** —**carta ordinaria**, **carta
+certificada**, **Paquete Internacional Económico**, **Paquete Azul** y **notificación**—. **La
+segunda**: **todos los albaranes de un depósito deben ser del mismo producto y de la misma fecha.**
+
+### El albarán: sus cuatro partes, sus tres puertas de entrada y su plazo
+
+**El albarán es lo que acredita el depósito, y el examen lo pregunta por dentro.** **Consta de
+cuatro partes**, y ésas son:
+
+| Parte | Qué recoge |
+|---|---|
+| **1. Cabecera** | **Los datos del cliente**: **número de contrato**, **número de cliente**, el número de identificación fiscal **(NIF/CIF)**, **tipo de franqueo**, **referencia**, **fecha de registro** e **importe total** |
+| **2. Datos del depósito** | **Ámbito de destino**, **producto** y **modalidad** |
+| **3. Detalle de los envíos** | **Número**, **tramo de peso**, **ámbito** —Local, Destino 1, Destino 2—, **grado de clasificación** —G0, G1, G2— y **valores añadidos** |
+| **4. Espacio reservado para la validación** | **Por Correos y por el cliente** |
+
+**Cuatro, y la cuarta es la que se olvida** —es la número 32 del cuestionario de Reparto—.
+
+**Y por dónde entra cada albarán en IRIS depende de con qué se hizo**, que es la otra pregunta:
+
+| Modo de admisión | Para qué albaranes |
+|---|---|
+| **Admisión manual** | Los que se teclean |
+| **Admisión por nube de puntos** | **Los confeccionados con la herramienta GANES** |
+| **Admisión con código de barras** | **Los obtenidos a través de la web de Correos, ADO** |
+| **Registro simplificado** | — |
+| **Alta de reembolso** | — |
+
+**Nube de puntos es GANES; código de barras es ADO**, y **el examen preguntó por la primera pareja**
+—es la número 53 del cuestionario de Reparto—. **GANES se instala en ordenadores sin conexión con
+los servidores de Correos**, de modo que **sus albaranes no están registrados**; **la versión se
+actualiza una vez al año y se descarga de la web**.
+
+**El plazo es del mismo día, y eso también cae**: **los albaranes deben grabarse en el día del
+depósito** —es la número 38 del cuestionario de Reparto, y la respuesta es que sí—. **La
+modificación y la anulación siguen la misma regla**: **sólo el mismo día en que se admitieron**,
+salvo que **se autorice desde el Área de Admisión Masiva**, que **permite admitirlos con un retardo
+de hasta 48 horas**.
+
+**Un producto queda fuera del albarán por completo**: **el Paq Premium no se admite por albarán**.
+**Su admisión es siempre unitaria, grabando en IRIS los datos del remitente y del destinatario.**
+**Lo que sí admite es la expedición multibulto**, y el documento lo dice en la ficha del producto,
+citado:
+
+> «**Expediciones: los clientes con contrato podrán depositar hasta 10 bultos por expedición.**»
+
+---
+
+**Hasta diez, y sólo con contrato** —es la número 58 del cuestionario de Reparto—. **No confundir
+con la paquetería de Correos Express**, que es otra cosa y va por otra cuenta: **máximo de 5 bultos
+por expedición**, **40 kg por bulto** y **100 kg por expedición**.
+
 ## 9. Buzones, recogida a domicilio y Citypaq
 
 ### Los buzones
@@ -516,6 +626,23 @@ empleado de atención al público admitirá el envío por ventanilla**. **Y el c
 admisión antes de finalizarla**, confirmando en pantalla, **retirando el envío y cerrando la puerta de
 la taquilla**.
 
+**Depositado el envío, saltan dos avisos y no son el mismo.** **Al remitente** se le manda **un
+aviso de depósito** diciendo que **el envío ha sido depositado y está pendiente de ser retirado por
+Correos**. **A la oficina** se le avisa por **IRIS**, citado:
+
+> «**Se mostrará en IRIS un mensaje de aviso para que el empleado de la oficina retire el envío y
+> proceda a su admisión en IRIS.**»
+
+---
+
+**IRIS, no SGIE ni la propia aplicación de Citypaq** —es la número 65 del cuestionario de Atención
+al Cliente—. **El mensaje aparece con los demás pendientes de la oficina** —«Tiene usted 2 envíos en
+Citypaq pendientes de admitir»—, y **el empleado pulsa sobre el aviso para acceder a la lista**.
+
+**Sólo se admiten por Citypaq los envíos de paquetería prerregistrados y con correo electrónico del
+remitente informado.** **Si no se registró el correo, puede darse en el momento del depósito**; **si
+tampoco, la admisión tiene que ser presencial.**
+
 ## 10. Clasificación y contenerización en las oficinas
 
 **Cinco reglas generales, y la última es la más preguntable:**
@@ -527,6 +654,20 @@ la taquilla**.
 | **Todas las bandejas deben circular sin tapa** |
 | **Los envíos que no quepan en ningún formato de bandeja circulan al descubierto en carros** |
 | **Las bandejas de color azul no pueden usarse para envíos nacidos en la oficina**: son **exclusivas para el correo de la International Post Corporation** |
+
+**El despacho en SGIE es la excepción, y sólo la hay para dos productos.** Citado:
+
+> «**Los únicos envíos a los que hay que realizar despacho en SGIE son los productos electorales
+> siguientes:**»
+
+**Y son la solicitud de voto por correo y el voto por correo.** **El examen lo preguntó dando como
+señuelos los envíos con valor declarado y los de la International Post Corporation** —es la número
+94 del cuestionario de Atención al Cliente—: **ni unos ni otros llevan despacho**. **Todas las
+oficinas cursan estos envíos de inmediato**, **en la misma fecha de admisión** o **al día siguiente
+si se admiten después de la salida de la ruta**, **al centro de tratamiento automatizado de
+referencia**, **en un único despacho diferenciado y rotulado «Urgente Elecciones»**, con
+**«Solicitud de Voto»** o **«Voto por correo»**. **Se leen todas de forma individual** y **al
+terminar se genera el albarán que acompaña a los envíos dentro de la bandeja.**
 
 **Las siete áreas territoriales son las mismas que organizan la gestión de la compañía**: **Noroeste,
 Norte, Noreste, Centro, Este, Sur e Insular**, **y en cada una hay un centro de tratamiento

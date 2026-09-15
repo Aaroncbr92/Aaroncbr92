@@ -16,6 +16,8 @@ c) Ingreso en cuenta
 d) Bitcoins
 ```
 
+*La contesta el epígrafe 7.3.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 9 · respuesta: d**
@@ -27,6 +29,8 @@ b) El pago de una multa de 2.000 € de la DGT
 c) Un pago de un recibo de Endesa de 500 €
 d) La admisión de 50 burofaxes, por un importe total de 1.200 €
 ```
+
+*La contesta el epígrafe 7.3.1.*
 
 ---
 
@@ -40,6 +44,8 @@ c) Recogida en buzones
 d) Recogida internacional
 ```
 
+*La contesta el epígrafe 7.2.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 65 · respuesta: c**
@@ -51,6 +57,8 @@ b) Citypaq
 c) IRIS
 d) SHIVA
 ```
+
+*La contesta el epígrafe 7.10.3.*
 
 ---
 
@@ -64,6 +72,8 @@ c) En ningún caso
 d) Cuando contienen envíos sin cancelar
 ```
 
+*La contesta el epígrafe 7.11.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 94 · respuesta: d**
@@ -75,6 +85,8 @@ b) Para envíos con valor declarado
 c) Para envíos de IPC
 d) Para envíos que contienen la documentación de los procesos electorales (SV, DE, DN, VE)
 ```
+
+*La contesta el epígrafe 7.11.*
 
 ---
 
@@ -88,6 +100,8 @@ c) Permite el pago de servicios en cualquier comercio
 d) Permite identificar a los clientes en el momento de hacer una compra en una oficina
 ```
 
+*La contesta el epígrafe 7.3.3.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 103 · respuesta: a**
@@ -99,6 +113,8 @@ b) Franqueo concertado
 c) Franqueo a máquina
 d) Franqueo en destino
 ```
+
+*La contesta el epígrafe 7.4.*
 
 ---
 
@@ -112,6 +128,8 @@ c) Es una aplicación informática de gestión de activos
 d) Ninguna de las respuestas anteriores es correcta
 ```
 
+*La contesta el epígrafe 7.9.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 10 · respuesta: a**
@@ -123,6 +141,8 @@ b) Local, destino 1 (principales capitales de provincia) y destino 2 (resto de d
 c) Local, destino 1 (capitales de provincia) y destino 2 (resto)
 d) Local y resto
 ```
+
+*La contesta el epígrafe 7.9.*
 
 ---
 
@@ -136,6 +156,8 @@ c) En SGIE
 d) Ninguna de las respuestas anteriores es correcta
 ```
 
+*La contesta el epígrafe 7.9.1.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 32 · respuesta: c**
@@ -147,6 +169,8 @@ b) Cabecera, datos del depósito, detalle de los envíos y firma
 c) Cabecera, datos del depósito, detalle de los envíos y espacio reservado para la validación
 d) Ninguna de las respuestas anteriores es correcta
 ```
+
+*La contesta el epígrafe 7.9.2.*
 
 ---
 
@@ -160,6 +184,8 @@ c) No, pero no pueden pasar al mes siguiente
 d) Sólo se graban en el día los albaranes con grandes cantidades de envíos
 ```
 
+*La contesta el epígrafe 7.9.2.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 53 · respuesta: b**
@@ -171,6 +197,8 @@ b) Herramienta GANES
 c) La web de Correos
 d) Ninguna de las respuestas anteriores es correcta
 ```
+
+*La contesta el epígrafe 7.9.2.*
 
 ---
 
@@ -184,6 +212,8 @@ c) Sí, se podrá realizar una expedición de hasta 20 bultos, pero únicamente 
 d) Sí, se podrá realizar una expedición de hasta 20 bultos, independientemente de si se dispone de un contrato con Correos o no.
 ```
 
+*La contesta el epígrafe 7.9.2.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 66 · respuesta: c**
@@ -196,6 +226,8 @@ c) Dos. Correos puede realizar la admisión a través de una oficina auxiliar y 
 d) Ninguna. Correos no realiza admisión en núcleos rurales, solamente reparto
 ```
 
+*La contesta el epígrafe 7.8.1.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 78 · respuesta: c**
@@ -207,4 +239,6 @@ b) Sí, en cualquier caso
 c) No, el personal rural no podrá admitirlas, indicará al cliente que debe dirigirse a una oficina técnica
 d) Sí, con autorización de su responsable
 ```
+
+*La contesta el epígrafe 7.8.1.*
 

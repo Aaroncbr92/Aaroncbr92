@@ -56,6 +56,12 @@ y el artículo 76 del Reglamento Postal**.
   DOMICILIARIO**, al tiempo que lo realiza, **informando a los vecinos del horario habitual de
   paso**.
 
+- **LOS CUATRO TIPOS DE ADMISIÓN, Y LA LISTA ES CERRADA** · `[doc]` · **en oficina** · **en oficinas
+  auxiliares y servicios rurales** · **masiva** · **recogida en buzones** · y aparte, **«otras
+  formas»**: **recogida a domicilio**, **prerregistrados en Mi Oficina**, **pregrabados por la web**,
+  **pregrabados por Servicio sin Espera** y **Citypaq** · **la «recogida internacional» NO existe en
+  ninguna de las dos listas**: cayó en **Atención al Cliente, nº 23**.
+
 ## Medios de pago en oficina
 
 - **CUATRO, Y SÓLO CUATRO** · `[doc]` · **billetes y moneda metálica de curso legal**;
@@ -100,6 +106,9 @@ y el artículo 76 del Reglamento Postal**.
   aduaneros, gastos de gestión y presentación ante aduanas o factajes, y devolución de paquetería).
 - **LA TARJETA CON NOMBRE PROPIO QUE NO SE ACEPTA** · `[doc]` · **la pasarela de pagos de Correos no
   autoriza la tarjeta DINERS CLUB**.
+- **LA TRAMPA DE LA MÁS CERCA** · `[tem]` · **es ENTORNO CERRADO: sólo paga en Correos** · la opción
+  falsa suena a tarjeta bancaria —**«permite el pago de servicios en cualquier comercio»**— y cayó
+  en **Atención al Cliente, nº 101**, que pedía la INCORRECTA.
 
 ## Los sistemas de franqueo
 
@@ -333,7 +342,31 @@ y el artículo 76 del Reglamento Postal**.
   G0**.
 - **DOS HERRAMIENTAS CON NOMBRE** · `[doc]` · **ADO, Albaranes y Depósitos Online**, para el
   registro y admisión en línea de albaranes, **con acceso por la oficina virtual previo registro** ·
-  **GANES**, para generar albaranes de entrega en formato PDF.
+  **GANES**, para generar albaranes de entrega en formato PDF —cayó en **Reparto, nº 4**—.
+- **LAS CUATRO PARTES DEL ALBARÁN** · `[doc]` · **1 CABECERA**: contrato, cliente, identificación fiscal (NIF/CIF), tipo de
+  franqueo, referencia, fecha de registro e importe total · **2 DATOS DEL DEPÓSITO**: ámbito,
+  producto y modalidad · **3 DETALLE DE LOS ENVÍOS**: número, tramo de peso, ámbito, grado y valores
+  añadidos · **4 ESPACIO PARA LA VALIDACIÓN**, por Correos y por el cliente · cayó en **Reparto, nº
+  32**, y **la cuarta es la que se olvida**.
+- **POR DÓNDE ENTRA CADA ALBARÁN** · `[doc]` · **NUBE DE PUNTOS = GANES** —cayó en **Reparto, nº
+  53**— · **CÓDIGO DE BARRAS = ADO**, la web de Correos · más **admisión manual**, **registro
+  simplificado** y **alta de reembolso** · *GANES se instala en ordenadores SIN conexión con los
+  servidores, así que sus albaranes NO están registrados; la versión se actualiza una vez al año*.
+- **EL PLAZO ES DEL MISMO DÍA** · `[doc]` · **los albaranes deben grabarse EN EL DÍA DEL DEPÓSITO**
+  —cayó en **Reparto, nº 38**: **sí**— · **modificar o anular, sólo el mismo día en que se
+  admitieron**, salvo autorización del **Área de Admisión Masiva**, que permite **hasta 48 horas de
+  retardo**.
+- **EL PAQ PREMIUM SE QUEDA FUERA DEL ALBARÁN** · `[doc]` · **su admisión es siempre UNITARIA**, con
+  grabación de remitente y destinatario en IRIS · **lo que sí admite es expedición de hasta 10
+  bultos, y SÓLO con contrato** —cayó en **Reparto, nº 58**— · **no confundir con Correos Express**:
+  **5 bultos**, **40 kg por bulto**, **100 kg por expedición**.
+- **EL PORTAL DE ENTIDADES COLABORADORAS (PEC)** · `[doc]` · **por ahí se admiten los envíos de las
+  entidades colaboradoras**, no por IRIS —cayó en **Reparto, nº 22**— · **es aplicación EXTERNA a
+  IRIS**: se entra **desde IRIS por «Llamadas a sistemas externos»** o **desde un navegador**, con
+  **usuario y contraseña propios del PEC** · desde él se **valida, modifica, imprime y consulta
+  estadísticas** de albaranes de entrega · **sus depósitos sólo llevan productos del servicio postal
+  universal** —carta ordinaria, carta certificada, Paquete Internacional Económico, Paquete Azul y
+  notificación— y **todos los albaranes de un depósito han de ser del mismo producto y fecha**.
 
 ## Buzones, recogida a domicilio y Citypaq
 
@@ -360,6 +393,11 @@ y el artículo 76 del Reglamento Postal**.
   DIRECCIÓN DE CORREO ELECTRÓNICO DEL REMITENTE informada** · **si el correo no se registró en el
   prerregistro, puede informarse en el momento del depósito**; **en caso contrario la admisión
   deberá ser PRESENCIAL**.
+- **DEPOSITADO EL ENVÍO SALTAN DOS AVISOS DISTINTOS** · `[doc]` · **al REMITENTE, aviso de
+  depósito**: el envío está **pendiente de ser retirado por Correos** · **a la OFICINA, por IRIS**:
+  «Tiene usted 2 envíos en Citypaq pendientes de admitir», y el empleado **pulsa sobre el aviso para
+  acceder a la lista** · **IRIS, no SGIE ni la propia aplicación de Citypaq**: cayó en **Atención al
+  Cliente, nº 65**.
 
 | Talla · **centímetros, alto × ancho × fondo** | **Mueble GRANDE** | **Mueble PEQUEÑO** |
 |---|---|---|
@@ -389,6 +427,17 @@ y el artículo 76 del Reglamento Postal**.
 | **Todas las bandejas deben circular SIN TAPA** |
 | **Los envíos que no quepan en ningún formato de bandeja circulan AL DESCUBIERTO EN CARROS** |
 | **Las bandejas de color AZUL no pueden usarse para envíos nacidos en la oficina**: son **exclusivas para el correo de la International Post Corporation** |
+
+- **EN NINGÚN CASO CON TAPA** · `[tem]` · la pregunta viene en forma de «¿en qué casos?» y **la
+  respuesta es EN NINGUNO**: cayó en **Atención al Cliente, nº 88**, con «registrados», «urgentes» y
+  «sin cancelar» de señuelos.
+- **EL DESPACHO EN SGIE SÓLO ES PARA DOS PRODUCTOS** · `[doc]` · **la solicitud de voto por correo y
+  el voto por correo**, y **ningún otro** —ni valor declarado ni correo de la International Post
+  Corporation—: cayó en **Atención al Cliente, nº 94** · **se cursan de inmediato**, en la misma
+  fecha de admisión o **al día siguiente si entran tras la salida de la ruta**, **al centro de
+  tratamiento automatizado de referencia**, en **un único despacho rotulado «Urgente Elecciones»** ·
+  **se leen una a una** y **al terminar se genera el albarán que acompaña a los envíos dentro de la
+  bandeja**.
 
 - **LAS SIETE ÁREAS TERRITORIALES** · `[doc]` · **Noroeste, Norte, Noreste, Centro, Este, Sur e
   Insular** · **en cada una hay un centro de tratamiento automatizado de referencia** que agrupa en
