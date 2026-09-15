@@ -573,6 +573,52 @@ en Documentación y en Producción (Asistencia).
       estudia una sola ocupación, no las tres. De paso se corrigieron las **dos fichas que
       citaban rutas del proyecto** —la de Igualdad y la del PRL del específico—, que el propio
       `indice.py` venía avisando sin que nadie lo aplicara.
+- [x] **Correos · Grupo Profesional IV: el volumen entero, terminado el 2026-09-15.** **Es la
+      primera convocatoria de este proyecto que no es de RTVE**, y obligó a tocar el armazón: los
+      cuatro literales de RTVE que `libro.py` imprimía —el rótulo del título, la cita de las bases
+      que fija la fecha de corte, la línea de la redacción vigente y «los cuadernillos de 2024»—
+      **son ahora campos del bloque**, con el texto de RTVE por omisión, de modo que los doce
+      volúmenes anteriores salen carácter a carácter como salían. **Doce temas** (56.000 palabras),
+      **doce esquemas de repaso**, **200 preguntas reales** del examen del 7 de mayo de 2023, y los
+      tres artefactos construidos: HTML, **PDF de 290 páginas** con índice paginado y DOCX.
+- [x] **El banco de Correos, y la resta que hay que enseñar.** Cuatro cuadernillos de 110
+      preguntas no son 440: **los modelos A y B de un puesto son el mismo examen barajado** —los
+      106 enunciados con opciones coinciden y sólo 13 caen con el mismo número—, **cuatro de cada
+      110 son psicotécnicas** y **seis son de aptitud**. Quedan **100 por puesto, 200 en total**, y
+      las veinte que se caen están **declaradas una a una** en el acta. **Esto corrigió la ficha de
+      los exámenes**, que daba 218 y «unas siete psicotécnicas»: ninguna de las dos salía de contar.
+      Herramienta propia, `herramientas/banco_correos.py`, porque los cuadernillos de Correos no
+      viven donde los de RTVE ni se llaman como ellos.
+- [x] **Los dos defectos de fuente que ninguna lente podía ver, y lo que se hizo con ellos.** La
+      fuente principal de este bloque **no es el Boletín sino un documento de empresa de 1.334
+      páginas**, y hubo que reconocerlo ópticamente. **Su tipografía dibuja el nueve de manera que
+      el reconocedor lo lee como un cuatro** —alcanzó porcentajes, fechas de leyes, identificadores
+      del Boletín y hasta el número de un artículo—, y **cuatro de sus doce PDF traen capa de texto
+      corrupta**, que cambia la i por una ele y, en uno, también la ó por un seis y la u por una
+      coma. **Ninguna lente los ve, porque la fuente corrupta valida la copia corrupta**: se
+      cazaron a la vista sobre la página impresa y por el patrón ortográfico, y **el volcador
+      detecta ahora las dos formas de la capa rota él solo**. Cada corrección queda registrada con
+      la columna que dice cómo se comprobó.
+- [x] **El apéndice de psicotécnicas de Correos, el 2026-09-15.** El Anexo III deja fuera del
+      temario **diez de las cien preguntas que puntúan** —«90 sobre las materias del presente anexo
+      y 10 preguntas psicotécnicas»— y el volumen las llevaba declaradas pero sin trabajar. Ahora
+      van en un **apéndice detrás de los doce temas**, con las **veinte reales** del examen: los dos
+      textos de comprensión lectora con las seis preguntas y la frase que contesta cada una, los dos
+      gráficos pasados a tabla con **las seis cuentas rehechas**, y **la anatomía de los ocho ítems
+      de series** con su método, su respuesta oficial y **la regla demostrada de cuatro de ellos**.
+      **Diez de las veinte quedan verificadas de extremo a extremo.** Va como apéndice y no como
+      tema trece para no romper la regla de que **el número del tema es el número del punto del
+      programa**; `libro.py` y `word.py` admiten ahora apéndices, y los doce volúmenes de RTVE salen
+      carácter a carácter como salían.
+- [x] **La cita que no aparecía, comprobada el 2026-09-15.** Se había anotado que el documento de
+      referencia **se declara a sí mismo «meramente enunciativo y no limitativo de las fuentes
+      oficiales»**, con la instrucción de buscarla «dentro del documento», y **no está en sus 1.334
+      páginas**: la declaración **no la hace el documento, la hace la nota que Correos publicó al
+      lado**, en el apartado de Personas y Talento de su web. Contrastada contra **dos
+      reproducciones independientes** de diciembre de 2022 que coinciden palabra por palabra.
+      **Confirmada, respalda tres cosas que el temario ya hacía**: que manda el Boletín, que las
+      normas se lean en su redacción vigente —el documento está congelado el 31 de octubre de
+      2022— y que cada tema declare qué no da.
 - [x] Ley 17/2006 y Ley 5/2017 volcadas a `fuentes/`, en la redacción de hoy y en
       la del corte 21/12/2022. Entre una y otra cambian **11 bloques** de la Ley
       17/2006: arts. 4, 10, 11, 12, 15, 16, 20 y 24 y tres disposiciones

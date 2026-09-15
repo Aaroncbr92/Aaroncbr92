@@ -72,6 +72,41 @@ ERRATAS_GENERAL = {
         "3 Delegados de 101 a 500 trabajadores; el 4 es el tramo de 501 a 1.000.",
 }
 
+# **Correos es la primera convocatoria de este proyecto que no es de RTVE**, y
+# sus avisos no son erratas de plantilla: son **tres preguntas que la propia
+# Correos anuló** y **una errata de imprenta que cayó justo en la opción buena**.
+# Se imprimen porque el opositor va a encontrarse el cuadernillo entero por su
+# cuenta y conviene que sepa qué pasó con cada una.
+AVISOS_CORREOS = {
+    "Cuestionario-REP_A_07052023 · nº 13":
+        "<b>Correos anuló esta pregunta</b>, y el motivo está a la vista: con los quince años "
+        "que entonces daba la disposición adicional primera de la Ley 43/2010, contados desde "
+        "el <b>1 de enero de 2011</b>, «hasta qué año» admite honradamente <b>2025 y 2026</b>. "
+        "Dos opciones defendibles en una pregunta de respuesta única. <b>Y hoy ninguna de las "
+        "cuatro sería correcta</b>: la Ley 6/2025 subió el plazo a <b>veinte años</b>, de modo "
+        "que la respuesta es <b>2031</b>. El tema 1 lo desarrolla con las cuatro redacciones "
+        "de la disposición delante.",
+    "Cuestionario-REP_A_07052023 · nº 69":
+        "<b>Correos anuló esta pregunta y no publicó el motivo.</b> Lo que el temario sí puede "
+        "decir es que <b>Correos pertenece al Grupo SEPI</b> y que su accionista único es la "
+        "Sociedad Estatal de Participaciones Industriales, que es lo que dice la opción b). "
+        "<b>Aquí no se adivina por qué se anuló</b>: se dice que se anuló y se remite al "
+        "tema 1, donde está la composición del Grupo.",
+    "Cuestionario-ATC_A_07052023 · nº 12":
+        "<b>Correos anuló esta pregunta y no publicó el motivo.</b> El documento de referencia "
+        "describe los servicios de proximidad de Correos Frío diciendo que <b>Correos recoge "
+        "con vehículo isotermo o refrigerado</b>, y define el servicio entero por sus "
+        "<b>embalajes isotérmicos sensorizados</b>: dos de las cuatro opciones recogen parte de "
+        "eso. <b>El temario no inventa el motivo de la anulación</b>; da el texto del documento "
+        "en el tema 5 y deja la pregunta marcada.",
+    "Cuestionario-REP_A_07052023 · nº 2":
+        "<b>La errata está en la opción buena.</b> El cuadernillo escribe <b>«Conta»</b> por "
+        "«Consta» en dos de sus cuatro opciones, la b) y la d), y <b>la respuesta oficial es "
+        "la b)</b>, es decir, una de las dos mal escritas. Quien descartara una opción por "
+        "estar mal impresa se quedaría sin la correcta. Comprobado sobre la página del "
+        "cuadernillo.",
+}
+
 AVISOS_PRODUCCION_ASISTENCIA = {
     "77_preguntas_produccion_asist · nº 78":
         "<b>El enunciado tiene los términos invertidos.</b> Pide la tecnología de «superponer una "
@@ -2005,13 +2040,135 @@ BLOQUES = {
                       "seguidas y después los textos—: es de la maquetación de los cuadernillos, "
                       "no cambia ninguna respuesta, y aquí las opciones van en su orden.</p>",
     ),
+    "correos": dict(
+        carpeta="correos",
+        rotulo="Temario específico · Correos · Grupo Profesional IV",
+        ocupacion="Correos · Grupo Profesional IV",
+        titulo="Temario específico de Correos",
+        subtitulo="Los doce temas del <b>Anexo III del Primer Desarrollo de las Bases</b><br>"
+                  "de la convocatoria de ingreso de personal laboral fijo<br>"
+                  "en la Sociedad Estatal Correos y Telégrafos, Grupo Profesional IV",
+        pie="Oposiciones Correos – Grupo Profesional IV",
+        marca="Oposiciones Correos",
+        convocatoria="Oposiciones Correos · convocatoria de 27 de mayo de 2022",
+        epoca="del examen del 7 de mayo de 2023",
+        titular_preguntas="la Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.",
+        # la portada sólo promete el remite cuando lo llevan TODAS. Hoy lo
+        # llevan: `refutar_remites.py` dice «200 comprobados, 0 sin remitir»
+        remite_epigrafe=True,
+        linea_corte="Programa del <b>Anexo III</b>, publicado el <b>14 de octubre de 2022</b>",
+        caja_corte=(
+            "<p><b>Este volumen no sale de una norma con fecha de corte, sino de un "
+            "programa y de un documento.</b> El programa es el <b>Anexo III del Primer "
+            "Desarrollo de las Bases</b>, publicado el <b>14 de octubre de 2022</b>, que "
+            "<b>no describe contenidos: enumera doce títulos</b> y remite a un documento de "
+            "<b>mil trescientas treinta y cuatro páginas</b> que publica la propia Correos. "
+            "De ahí salieron las preguntas del examen de 2023 y de ahí sale este temario.</p>"
+            "<p><b>Pero ese documento no es una norma.</b> Cuando dice algo distinto de lo que "
+            "dice el Boletín Oficial del Estado, <b>manda el Boletín</b>, y cada tema lo "
+            "advierte donde pasa. Las normas que el documento invoca van citadas en su "
+            "<b>redacción vigente</b>, no en la de 2022: donde el documento remite a una ley "
+            "derogada —y lo hace varias veces— el tema lo dice y da la que está en vigor.</p>"),
+        parrafo_partes=(
+            "<p><b>Cada tema trae tres partes.</b> El <b>cuerpo</b>, para leer; el <b>esquema</b>, "
+            "para repasar, que va detrás y no delante a propósito; y las <b>preguntas reales</b> "
+            "del examen del 7 de mayo de 2023, para comprobar si el tema se sostiene. <b>Las "
+            "respuestas están al final del volumen</b>, no junto a la pregunta: con la respuesta a "
+            "la vista no hay autoevaluación.</p>"
+            "<p><b>Y detrás de los doce temas hay un apéndice que no es un tema</b>, porque su "
+            "materia no está en el programa: <b>las diez preguntas psicotécnicas</b> que cada "
+            "cuadernillo trae y que <b>puntúan igual que las otras noventa</b>. Van las veinte "
+            "reales del examen, con la cuenta hecha y la respuesta oficial.</p>"),
+        parrafo_memoria=(
+            "<p><b>Nada de aquí se ha escrito de memoria, y aquí eso cuesta más que en un temario "
+            "de norma.</b> Cada cifra se ha leído <b>sobre la página impresa del documento</b>, no "
+            "sobre su reconocimiento óptico, porque <b>el reconocedor confunde el nueve con el "
+            "cuatro</b> y la confusión alcanzó porcentajes, fechas de leyes y hasta el número de un "
+            "artículo. <b>Cada corrección está registrada con la columna que dice cómo se "
+            "comprobó.</b> Y donde el documento cita una norma, la norma se ha abierto en el texto "
+            "consolidado del Boletín: <b>cuando los dos dicen cosas distintas, manda el "
+            "Boletín</b>, y el tema lo advierte donde pasa.</p>"),
+        parrafo_preguntas=(
+            "<p><b>Las preguntas se imprimen tal como salieron del examen</b>, con sus cuatro "
+            "opciones y la respuesta de la plantilla oficial. Salen de los <b>cuadernillos "
+            "modelo A</b> de los dos puestos, Atención al Cliente y Reparto y Agente de "
+            "Clasificación: los modelos B son el mismo examen barajado —<b>sus ciento seis "
+            "enunciados son los mismos, y sólo trece caen con el mismo número</b>— y "
+            "repartirlos también contaría cada pregunta dos veces.</p>"
+            "<p><b>No están todas las del cuadernillo, y se dice cuántas faltan y por qué.</b> "
+            "De las ciento diez de cada modelo, <b>cuatro son psicotécnicas</b> —series de "
+            "figuras— y <b>seis son de aptitud</b> —tres de comprensión lectora sobre un texto "
+            "del propio cuadernillo y tres de razonamiento numérico sobre una tabla—. No son "
+            "materia del programa y no se imprimen; están declaradas una a una en el acta de "
+            "reparto. <b>Quedan cien por puesto, doscientas en total</b>, y están todas "
+            "aquí.</p>"),
+        avisos=AVISOS_CORREOS,
+        clase_aviso="errata",
+        rotulo_aviso="Ojo con la",
+        temas=[("%02d-%s" % (n, base), "correos-%02d" % n) for n, base in [
+            (1, "marco-normativo-postal-y-naturaleza-juridica"),
+            (2, "experiencia-de-personas-diversidad-prevencion-y-sostenibilidad"),
+            (3, "productos-y-servicios-comunicacion-paqueteria-y-e-commerce"),
+            (4, "productos-y-servicios-en-oficinas-financieros-digitales-y-filatelia"),
+            (5, "nuevas-lineas-de-negocio-logistica-frio-y-patrimonio"),
+            (6, "herramientas-funciones-y-utilidad"),
+            (7, "procesos-operativos-i-admision"),
+            (8, "procesos-operativos-ii-tratamiento-y-transporte"),
+            (9, "procesos-operativos-iii-distribucion-y-entrega"),
+            (10, "el-cliente-atencion-calidad-y-protocolos-de-venta"),
+            (11, "internacionalizacion-y-aduanas"),
+            (12, "normas-de-cumplimiento-datos-blanqueo-etica-y-ciberseguridad"),
+        ]],
+        # las diez preguntas psicotécnicas de cada cuadernillo **no están en el
+        # programa y sí están en el examen**: son diez de las cien que puntúan.
+        # Van como apéndice y no como tema trece, para no romper la regla de que
+        # el número del tema es el número del punto del Anexo III
+        apendices=[("apendice-psicotecnico", "Las preguntas psicotécnicas")],
+        aviso_respuestas="<b>Ninguna respuesta oficial de este bloque está mal</b>, pero "
+                         "<b>tres preguntas las anuló la propia Correos</b> \u2014y su celda de "
+                         "la plantilla dice «Anulada», no una letra\u2014 y <b>en una la errata "
+                         "de imprenta cayó justo en la opción buena</b>. Las cuatro van "
+                         "avisadas debajo de su tabla.",
+        aviso_portada="<p><b>Este es el primer volumen del proyecto que no es de RTVE</b>, y "
+                      "trae una dificultad que los otros no tienen: <b>su fuente principal no "
+                      "es el Boletín, sino un documento de empresa de mil trescientas treinta y "
+                      "cuatro páginas</b>, publicado en doce PDF sin capa de texto fiable. "
+                      "<b>Hubo que reconocerlo ópticamente</b>, y el reconocimiento trajo dos "
+                      "defectos que ninguna herramienta de este proyecto podía ver por sí "
+                      "sola.</p>"
+                      "<p><b>El primero: la tipografía del documento dibuja el nueve con el "
+                      "cuello recto y el lector óptico lo lee como un cuatro.</b> Alcanzó "
+                      "porcentajes, fechas de leyes, identificadores del Boletín y <b>hasta el "
+                      "número de un artículo</b>. En el tema 9 alcanzó los dos objetivos de "
+                      "calidad del servicio: el volcado decía 43 % y 45 % donde la página "
+                      "imprime <b>93 % y 95 %</b>. <b>Un temario escrito sobre el volcado "
+                      "habría enseñado un objetivo que es la mitad del real, y ninguna "
+                      "herramienta habría dado error.</b> Cada corrección está registrada con "
+                      "la columna que dice cómo se comprobó, y casi todas se comprobaron a la "
+                      "vista sobre su página impresa.</p>"
+                      "<p><b>El segundo: cuatro de los doce PDF traen capa de texto y está "
+                      "corrupta.</b> La fuente incrustada cambia la i por una ele —«Fllatella», "
+                      "«Oflclnas», «sel\u2019Ylclos»— y, en el tema 12, también la ó por un seis y "
+                      "la u por una coma. <b>No es basura evidente: es basura legible a "
+                      "medias</b>, que un ojo distraído toma por erratas. Se detecta por la "
+                      "ortografía, y el volcador lo hace ahora solo.</p>"
+                      "<p><b>Y el documento se contradice a sí mismo.</b> Da los huecos del "
+                      "Citypaq en milímetros en el tema 3 y en centímetros en el tema 7, con "
+                      "otras cifras; cita la misma ley con dos años distintos en la misma "
+                      "frase; remite a un reglamento con un número que no existe; y su glosario "
+                      "de ciberseguridad define «CID» como «Unidad de Reparto Ordinario». "
+                      "<b>Cada una de esas discrepancias va comprobada sobre la página impresa "
+                      "y escrita en el tema que le toca</b>, sin arreglarla por dentro: lo que "
+                      "se contesta en un examen es lo que el documento dice, y lo que conviene "
+                      "saber es que dice esto.</p>",
+    ),
 }
 
 # La portada dice «Ocho temas», no «8 temas»: en una portada las cifras bajas se
 # escriben con letra. Con dos bloques hay que generarlo, y no hace falta más que
 # los números que este temario puede tener.
 LETRA = {2: "Dos", 3: "Tres", 4: "Cuatro", 5: "Cinco", 6: "Seis", 7: "Siete",
-         8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 13: "Trece",
+         8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 12: "Doce", 13: "Trece",
          17: "Diecisiete", 18: "Dieciocho", 21: "Veintiún", 25: "Veinticinco",
          31: "Treinta y un"}
 
@@ -2076,7 +2233,13 @@ def numera(texto, raiz):
 
 
 def preguntas(banco):
-    """[(id, enunciado, respuesta)] del fichero del banco."""
+    """[(id, enunciado, respuesta, remite)] del fichero del banco.
+
+    El **remite** es el epígrafe del tema que contesta la pregunta, escrito a
+    mano en el acta de reparto y no deducido aquí por ninguna regla. Va vacío
+    en los bancos que todavía no lo llevan, y entonces no se imprime nada: un
+    remite inventado sería peor que ninguno.
+    """
     fuera = []
     for bloque in re.split(r"\n---\n", lee("banco/%s.md" % banco)):
         m = re.search(r"\*\*([^*]+?) · nº (\d+) · respuesta: ([^*]+)\*\*", bloque)
@@ -2086,7 +2249,9 @@ def preguntas(banco):
         cuerpo = re.search(r"```\n(.*?)```", bloque, re.S)
         if not cuerpo:
             continue
-        fuera.append((ident, cuerpo.group(1).strip(), m.group(3).strip()))
+        r = re.search(r"(?m)^\*(La contesta [^*\n]+|El tema [^*\n]+)\*\s*$", bloque)
+        fuera.append((ident, cuerpo.group(1).strip(), m.group(3).strip(),
+                      r.group(1) if r else ""))
     return fuera
 
 
@@ -2152,7 +2317,13 @@ def linea_indice(nivel, numero, titulo, ancla):
             % (nivel, ancla, numero, html.escape(titulo), ancla))
 
 
-def pinta_pregunta(n, enunciado):
+def pinta_pregunta(n, enunciado, remite=""):
+    """Una pregunta, con su remite al epígrafe si el banco lo trae.
+
+    **El remite no es la respuesta.** Dice dónde se estudia lo que la pregunta
+    mide, no qué letra hay que marcar; la letra sigue al final del volumen, que
+    es lo que hace que la pregunta sirva para comprobarse.
+    """
     cabeza, opciones, sin_texto = ordena_opciones(enunciado)
     cuerpo = "<b>%s</b>" % html.escape(cabeza) if cabeza else ""
     for o in opciones:
@@ -2163,6 +2334,8 @@ def pinta_pregunta(n, enunciado):
                    '<b>%s se queda sin texto</b>. Se imprime como salió: repartirlo a ojo '
                    'sería inventar.</div>'
                    % ", ".join("la %s)" % l for l in sin_texto))
+    if remite:
+        cuerpo += '<div class="remite">%s</div>' % html.escape(remite)
     return ('<div class="pregunta"><div class="pnum">%d</div>'
             '<div class="ptexto">%s</div></div>' % (n, cuerpo))
 
@@ -2245,8 +2418,107 @@ table.claves th, table.claves td { text-align:center; width:10%; }
 table.claves th { background:#e4e4e4; font-weight:bold; }
 table.claves td { background:#fff; font-weight:bold; }
 .opcion { margin-left:1.1em; text-indent:-1.1em; }
+.remite { margin-top:3px; font-size:8pt; color:#555; font-style:italic;
+          text-align:left; }
 @media screen { body { max-width:190mm; margin:0 auto; padding:16mm 10mm; background:#fff; } }
 """
+
+
+# ── los textos del aviso, en un solo sitio ────────────────────────────────────
+# `word.py` los tenía copiados, y una copia acaba diciendo otra cosa: el libro en
+# PDF ya decía «del examen del 7 de mayo de 2023» mientras el de Word seguía
+# diciendo «de los cuadernillos de 2024». Ahora los dos los toman de aquí.
+
+def texto_partes(B, sin_examen):
+    if sin_examen:
+        return ("<p><b>Cada tema trae dos partes.</b> El <b>cuerpo</b>, para leer, y el "
+                "<b>esquema</b>, para repasar, que va detrás y no delante a propósito.</p>")
+    return ("<p><b>Cada tema trae tres partes.</b> El <b>cuerpo</b>, para leer; el "
+            "<b>esquema</b>, para repasar, que va detrás y no delante a propósito; y las "
+            "<b>preguntas reales</b> %s, para comprobar si el tema se "
+            "sostiene. <b>Las respuestas están al final del volumen</b>, no junto a la "
+            "pregunta: con la respuesta a la vista no hay autoevaluación.</p>"
+            % B.get("epoca", "de los cuadernillos de 2024"))
+
+
+def texto_preguntas(B, sin_examen):
+    if sin_examen:
+        return ("<p><b>Este volumen no trae preguntas de examen porque esta ocupación no las "
+                "tiene.</b> No se ha convocado ninguna prueba de la que existan cuadernillo y "
+                "plantilla, de modo que aquí no hay nada que contrastar contra una respuesta "
+                "oficial. <b>Se dice y no se disimula</b>: un temario que inventara preguntas "
+                "para rellenar sería peor que uno que no las tiene.</p>")
+    return B.get("parrafo_preguntas", (
+        "<p><b>Las preguntas se imprimen tal como salieron del examen</b>, sin más limpieza "
+        "que quitarles el pie de página. Son transcripciones de los cuadernillos oficiales y "
+        "traen sus costuras: alguna arrastra una letra mal reconocida. <b>Están leídas una a "
+        "una</b> y colocadas en el tema que les toca, comprobando cada una contra la norma.</p>"))
+
+
+# **Cada convocatoria fecha su corte a su manera, y la cita de una no vale para
+# la otra.** Las bases de RTVE mandan examinar por «su texto vigente a fecha de
+# la primera publicación de las Bases Generales», y de ahí sale el 21 de
+# diciembre de 2022 que llevan sus doce volúmenes. Un volumen que no salga de
+# esas bases no puede imprimir esa frase: diría de sí mismo una cosa que sus
+# bases no dicen. Así que el bloque puede traer la suya, y el que no la trae se
+# queda con la de RTVE, que es la que tenían todos.
+def texto_caja_corte(B):
+    return B.get("caja_corte", (
+        "<p><b>La redacción que vale es la del %s</b>, que es la fecha de corte que\n"
+        "imponen las bases: «las pruebas se realizarán sobre su texto vigente a fecha de la "
+        "primera\npublicación de las Bases Generales». Lo que cambió después está en el tema, "
+        "en apartados\nmarcados como <i>notas de actualización</i>, y <b>no es materia "
+        "examinable</b>.</p>" % CORTE))
+
+
+def texto_linea_corte(B):
+    return B.get("linea_corte", "Redacción vigente a <b>%s</b>" % CORTE)
+
+
+# y lo mismo con el párrafo que cierra el aviso: decir «cada dato se ha leído en
+# el texto consolidado del BOE» en un volumen cuya fuente principal es un
+# documento de empresa reconocido ópticamente sería afirmar de sí mismo una cosa
+# que no es cierta
+def texto_atribucion(B):
+    """La nota de atribución de las preguntas de examen.
+
+    **No es una fórmula de cortesía: es lo que sostiene el uso.** Las preguntas
+    son del organismo que convocó la prueba, y sus cuadernillos llevan impreso
+    que no se permite su reproducción. Lo que este volumen hace con ellas no es
+    reproducir el cuadernillo —lo trocea por tema, lo reordena y lo comenta—,
+    sino **citarlas para analizarlas**, que es el uso que el temario declara.
+    Declararlo en la portada es parte de hacerlo.
+
+    Un volumen sin examen no lleva nota, porque no hay nada que atribuir.
+
+    La frase del epígrafe sólo se imprime si el banco del bloque lo lleva de
+    verdad (``remite_epigrafe``). Prometer en la portada un remite que luego
+    no está debajo de cada pregunta sería exactamente el defecto que las
+    lentes persiguen dentro de los temas, cometido en la primera página.
+    """
+    if B.get("sin_examen", False):
+        return ""
+    titular = B.get("titular_preguntas",
+                    "la Corporación de Radio y Televisión Española, S.A., S.M.E.")
+    colocada = ("cada una va colocada en el tema que la contesta y acompañada de la referencia "
+                "del epígrafe que la resuelve"
+                if B.get("remite_epigrafe", False) else
+                "cada una va colocada en el tema que la contesta")
+    return (
+        "<p><b>De quién son las preguntas, y para qué están aquí.</b> Las preguntas de examen "
+        "que este volumen reproduce <b>son de %s</b>, que convocó la prueba y publicó los "
+        "cuadernillos y sus plantillas de respuestas. <b>Se reproducen para analizarlas</b>: %s, "
+        "y las que tienen el enunciado o la respuesta defectuosos van comentadas una a una. "
+        "<b>Este temario no está editado, patrocinado ni avalado por %s</b>, ni sustituye a "
+        "los cuadernillos oficiales, que ese organismo publica.</p>"
+        % (titular, colocada, titular))
+
+
+def texto_memoria(B):
+    return B.get("parrafo_memoria", (
+        "<p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto "
+        "consolidado\ndel BOE en su redacción a la fecha de corte, o en la fuente oficial que se "
+        "cita en la\ntrazabilidad de cada tema.</p>"))
 
 
 def main():
@@ -2292,12 +2564,42 @@ def main():
             rot = ("Preguntas reales de examen · temas 2 y 3" if banco == "g2-g3"
                    else "Preguntas reales de examen · tema %d" % i)
             bloque.append('<section class="parte"><h2>%s</h2>' % rot)
-            bloque.append("<p><i>%d preguntas de los cuadernillos de 2024. "
-                          "Las respuestas, al final del volumen.</i></p>" % len(ps))
-            bloque.append("".join(pinta_pregunta(n, e)
-                                  for n, (_, e, _) in enumerate(ps, 1)))
+            bloque.append("<p><i>%d preguntas %s. "
+                          "Las respuestas, al final del volumen.</i></p>"
+                          % (len(ps), B.get("epoca", "de los cuadernillos de 2024")))
+            bloque.append("".join(pinta_pregunta(n, e, rem)
+                                  for n, (_, e, _, rem) in enumerate(ps, 1)))
             bloque.append("</section>")
             TEMAS[i - 1] = [base, banco, ps]
+        bloque.append("</section>")
+        partes.append("\n".join(bloque))
+
+    # ── apéndices de materia ──────────────────────────────────────────────────
+    # **Un apéndice no es un tema trece.** Hay materia que entra en el examen y
+    # **no está en el programa** —las diez preguntas psicotécnicas de Correos son
+    # diez de las cien que puntúan—, y meterla como tema rompería la regla que
+    # el volumen sí cumple: **el número del tema es el número del punto del
+    # programa**. Va detrás de los temas, numerada con letra en vez de con
+    # cifra, y el índice la anuncia como lo que es.
+    for letra, (base, rotulo) in zip("ABCDEFGH", B.get("apendices", [])):
+        crudo = sin_marcas(lee("temas/%s.md" % ruta_tema(B["carpeta"], base)))
+        titulo = re.search(r"(?m)^# (.+)$", crudo).group(1)
+        cuerpo = re.sub(r"(?m)^# .+$\n", "", crudo, count=1)
+        cuerpo = re.sub(r"## Índice\n.*?(?=\n## )", "", cuerpo, flags=re.S)
+        ficha, resto = "", cuerpo
+        mt = re.match(r"\s*(\|.*?\|)\n\n", cuerpo, re.S)
+        if mt:
+            ficha = md.render(mt.group(1))
+            resto = cuerpo[mt.end():]
+        resto, entradas = numera(resto, letra)
+        indice_gral.append(("APÉNDICE %s –" % letra, rotulo, entradas,
+                            "apendice-%s" % letra))
+        bloque = ['<section class="tema" id="apendice-%s">' % letra]
+        bloque.append('<p class="rotulo">%s</p>' % html.escape(B["rotulo"]))
+        bloque.append("<h1>APÉNDICE %s – %s</h1>" % (letra, html.escape(rotulo)))
+        if ficha:
+            bloque.append('<div class="ficha">%s</div>' % ficha)
+        bloque.append(md.render(baja_titulos(resto, 0)))
         bloque.append("</section>")
         partes.append("\n".join(bloque))
 
@@ -2319,8 +2621,8 @@ def main():
         resp.append("<h2>%s</h2>" % rot)
         # la respuesta se busca por el número con el que la pregunta está impresa;
         # el cuadernillo del que salió ya no se imprime, que al opositor no le dice nada
-        sueltas = [(n, r) for n, (_, _, r) in enumerate(ps, 1)]
-        erratas = [(n, B["avisos"][ident]) for n, (ident, _, _) in enumerate(ps, 1)
+        sueltas = [(n, r) for n, (_, _, r, _) in enumerate(ps, 1)]
+        erratas = [(n, B["avisos"][ident]) for n, (ident, _, _, _) in enumerate(ps, 1)
                    if ident in B["avisos"]]
         filas, POR_FILA = [], 10
         for a in range(0, len(sueltas), POR_FILA):
@@ -2335,49 +2637,41 @@ def main():
     if not sin_examen:
         resp.append("</section>")
 
-    if sin_examen:
-        linea_meta = ("%s temas · %s esquemas de repaso · <b>sin preguntas de examen</b>"
-                      % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower()))
-        parrafo_partes = (
-            "<p><b>Cada tema trae dos partes.</b> El <b>cuerpo</b>, para leer, y el "
-            "<b>esquema</b>, para repasar, que va detrás y no delante a propósito.</p>")
-        parrafo_preguntas = (
-            "<p><b>Este volumen no trae preguntas de examen porque esta ocupación no las "
-            "tiene.</b> No se ha convocado ninguna prueba de la que existan cuadernillo y "
-            "plantilla, de modo que aquí no hay nada que contrastar contra una respuesta "
-            "oficial. <b>Se dice y no se disimula</b>: un temario que inventara preguntas "
-            "para rellenar sería peor que uno que no las tiene.</p>")
-    else:
-        linea_meta = ("%s temas · %s esquemas de repaso · <b>%d</b> preguntas reales de examen"
-                      % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower(), total_preg))
-        parrafo_partes = (
-            "<p><b>Cada tema trae tres partes.</b> El <b>cuerpo</b>, para leer; el "
-            "<b>esquema</b>, para repasar, que va detrás y no delante a propósito; y las "
-            "<b>preguntas reales</b> de los cuadernillos de 2024, para comprobar si el tema se "
-            "sostiene. <b>Las respuestas están al final del volumen</b>, no junto a la "
-            "pregunta: con la respuesta a la vista no hay autoevaluación.</p>")
-        parrafo_preguntas = (
-            "<p><b>Las preguntas se imprimen tal como salieron del examen</b>, sin más limpieza "
-            "que quitarles el pie de página. Son transcripciones de los cuadernillos oficiales y "
-            "traen sus costuras: alguna arrastra una letra mal reconocida. <b>Están leídas una a "
-            "una</b> y colocadas en el tema que les toca, comprobando cada una contra la norma.</p>")
+    # el apéndice cuenta en la portada: si no, el volumen promete menos de lo
+    # que trae y quien lo hojea no sabe que las psicotécnicas están dentro
+    cola = ("".join(" · <b>%s</b>" % r for _, r in B.get("apendices", [])))
+    linea_meta = (
+        ("%s temas · %s esquemas de repaso · <b>sin preguntas de examen</b>%s"
+         % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower(), cola)) if sin_examen else
+        ("%s temas · %s esquemas de repaso · <b>%d</b> preguntas reales de examen%s"
+         % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower(), total_preg, cola)))
+    parrafo_partes = texto_partes(B, sin_examen)
+    parrafo_preguntas = texto_preguntas(B, sin_examen)
+    caja_corte = texto_caja_corte(B)
+    linea_corte = texto_linea_corte(B)
+    parrafo_memoria = texto_memoria(B)
+    parrafo_atribucion = texto_atribucion(B)
 
     ig = []
-    for i, t, entradas in indice_gral:
-        ig.append(linea_indice(0, "TEMA %d –" % i, t.split("·", 1)[-1].strip(),
-                               "tema-%d" % i))
-        for nivel, numero, titulo, ancla in entradas:
-            ig.append(linea_indice(nivel, numero, titulo, ancla))
+    for fila in indice_gral:
+        if len(fila) == 4:                      # un apéndice: ya trae su rótulo
+            rot, titulo, entradas, ancla = fila
+        else:
+            i, t, entradas = fila
+            rot, titulo, ancla = "TEMA %d –" % i, t.split("·", 1)[-1].strip(), "tema-%d" % i
+        ig.append(linea_indice(0, rot, titulo, ancla))
+        for nivel, numero, titulo_e, ancla_e in entradas:
+            ig.append(linea_indice(nivel, numero, titulo_e, ancla_e))
 
     doc = f"""<!doctype html><html lang="es"><head><meta charset="utf-8">
 <!-- pie: {B["pie"]} -->
-<title>{B["titulo"]} · Oposiciones RTVE</title><style>{CSS}</style></head><body>
+<title>{B["titulo"]} · {B.get("marca", "Oposiciones RTVE")}</title><style>{CSS}</style></head><body>
 <section class="portada-vol">
   <p class="rotulo">{B.get("convocatoria", "Oposiciones RTVE · convocatorias 1/2022 y 3/2022")}</p>
   <h1>{B["titulo"]}</h1>
   <p class="sub">{B["subtitulo"]}</p>
   <div class="meta">
-    Redacción vigente a <b>{CORTE}</b><br>
+    {linea_corte}<br>
     {linea_meta}<br>
     Generado el {date.today().strftime('%d/%m/%Y')}
   </div>
@@ -2386,17 +2680,13 @@ def main():
 <section class="aviso">
 <h1>Cómo usar este volumen</h1>
 <div class="caja">
-<p><b>La redacción que vale es la del {CORTE}</b>, que es la fecha de corte que
-imponen las bases: «las pruebas se realizarán sobre su texto vigente a fecha de la primera
-publicación de las Bases Generales». Lo que cambió después está en el tema, en apartados
-marcados como <i>notas de actualización</i>, y <b>no es materia examinable</b>.</p>
+{caja_corte}
 </div>
 {parrafo_partes}
 {B["aviso_portada"]}
 {parrafo_preguntas}
-<p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto consolidado
-del BOE en su redacción a la fecha de corte, o en la fuente oficial que se cita en la
-trazabilidad de cada tema.</p>
+{parrafo_atribucion}
+{parrafo_memoria}
 </section>
 
 <section class="indice-gral"><h1>Índice general</h1><ol>{''.join(ig)}</ol></section>
@@ -2408,7 +2698,7 @@ trazabilidad de cada tema.</p>
     # si una errata deja de casar con su pregunta, desaparece del apéndice sin
     # decir nada: el volumen volvería a dar por buena una plantilla que está mal
     sueltas = set() if sin_examen else (
-        set(B["avisos"]) - {i for t in TEMAS if len(t) > 2 for i, _, _ in t[2]})
+        set(B["avisos"]) - {i for t in TEMAS if len(t) > 2 for i, _, _, _ in t[2]})
     if sueltas:
         print("  ! erratas sin pregunta a la que pegarse: %s" % ", ".join(sorted(sueltas)))
 

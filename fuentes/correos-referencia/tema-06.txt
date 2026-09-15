@@ -1,0 +1,1905 @@
+# Volcado de tema-06.pdf
+
+Generado con `herramientas/correos_dump.py`. **El documento original va sin
+capa de texto en la mayor parte de sus páginas**, así que lo que sigue es en
+parte una transcripción y en parte un **reconocimiento óptico a 300 puntos por
+pulgada**. Cada página dice de cuál de las dos cosas viene.
+
+**Lo reconocido ópticamente no es el documento.** Todo dato que un tema tome de
+una página marcada `ocr` se comprueba a la vista sobre la página original antes
+de escribirlo.
+
+
+[[ página 1 de 33 · ocr ]]
+
+A EA NJ
+|
+des Edel El
+>. Y
+E - =E £= ==
+NÑ 10
+1
+
+Tema 6
+
+Herramientas. Funciones y utilidad
+
+[[ página 2 de 33 · ocr ]]
+
+Contenido
+
+Introduccion
+
+6.1. Aplicaciones básicas de gestión
+6.1.1. IRIS (información de recursos informáticos y sistemas)
+6.1.2. SGIE (Sistema de Gestión Integral de Envíos)
+6.1.3. Minerva
+
+6.2. Otras aplicaciones de Oficinas
+6.2.1. SEDI (Sistema de Envío de Dinero)
+6.2.2. SGTC (Sistema de Gestión de Tarjetas de Cliente)
+6.2.3. Quenda
+6.2.4, WUPOS
+6.2.5. Hermes
+
+6.3. Dispositivo PDA
+6.3.1. Acceso a la PDA
+6.3.2. Principales funcionalidades personal de reparto
+6.3.3. Aplicaciones dispositivo PDA
+
+6.4. Aplicaciones gestión de responsable
+6.4.1. SIGUA
+6.4.2. CRM. Gestión de relaciones con el cliente
+6.4.3. SIE (información estadística)
+6.4.4. GPVO (Suministros)
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 3 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+Introducción
+
+Correos dispone de diferentes herramientas destinadas a facilitar la labor de sus emplea-
+dos en sus distintos roles dentro de la compañía y a las tareas a desarrollar. Entre estas
+herramientas se encuentran las siguientes aplicaciones:
+
+Aplicaciones básicas de gestión
+
++ IRIS (Información de Recursos Informáticos y Sistemas): herramienta informática que
+
+permite la admisión y venta productos en las oficinas del territorio nacional.
+
++ SGIE (Sistema de Gestión Integral de Envíos): sistema informático en puesto fijo que
+permite gestionar las operaciones realizadas sobre envíos registrados o con trazabilidad
+a lo largo de todo el flujo logístico, tratamiento, curso y distribución.
+
++ Minerva: sistema que reúne el conjunto de operativas ligadas a la trazabilidad y apoyo
+a la producción del proceso logístico y de distribución de Correos.
+
++ SICER (Sistema de Información y Control de Envíos Registrados): sistema informático que
+permite, a las entidades o instituciones que emiten remesas masivas de certificados o notifi-
+caciones, recibir por vía telemática la información de qué envíos se han entregado y cuáles se
+han devuelto, con el detalle del motivo de su devolución, junto con la fecha de cada estado.
+
+Otras aplicaciones de oficina
+
++ SEDI: es el Sistema de Envío de Dinero que utilizan las Oficinas de Correos.
+
++ SGTC: el Sistema de Gestión de Tarjetas de Cliente permite realizar una serie de opera-
+ciones de la gestión de tarjetas (alta de cliente, modificación de datos, cancelación de
+contrato, anulación de la tarjeta o sustitución de la tarjeta). Además permite emitir facturas
+a los clientes con tarjeta de una operación realizada en IRIS.
+
++ Quenda: a través de la aplicación Quenda, se accede al Gestor de Turnos, que es la
+herramienta que permite controlar el tiempo de espera de los clientes en las Oficinas.
+
+. WUPOS: Correos tiene concertada con Western Union la transferencia de dinero entre nues-
+tras oficinas y los países que prestan el servicio de «Transferencia de dinero en minutos»
+(Will! Call). A través de la aplicación WUPOS, el cliente puede enviar y retirar dinero en cual-
+quiera de las oficinas de Correos en más de 200 países con los que opera Western Union.
+
++. Hermes: aplicación que permite la venta de productos de la ONCE.
+
+Aplicaciones del dispositivo PDA
+
++ Hera: es la aplicación que utiliza el personal de reparto en la PDA para la admisión de
+envíos y la prestación de servicios.
+
++ TALOS/CORE: son las aplicaciones que utiliza el personal de reparto en la PDA para la
+entrega de los productos registrados y con trazabilidad.
+
++ MILLA: es la aplicación que permite documentar a través de la PDA la identidad del con-
+ductor, el kilometraje y repostaje realizados por el vehículo.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (241)
+
+[[ página 4 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+ár
+
+Í
+A
+
+AA
+“A
+
++ Talina: en las operaciones de admisión y entrega de
+
+envíos en las Oficinas de Correos, en periodos ex-
+traordinarios como procesos electorales o revisiones
+catastrales de los Ayuntamientos, se produce una
+gran afluencia de clientes. Para atender esa demanda
+puntual, las Oficinas cuentan con terminales portá-
+tiles (PDA), como los que se usan en las unidades
+de distribución, para tratar los envíos a través de la
+aplicación TALINA.
+
+Aplicaciones de gestión de los responsables:
+
++ SIGUA: la aplicación SIGUA garantiza que solo aque-
+
+llas personas que previamente han sido autorizadas
+puedan acceder a los sistemas corporativos.
+
+CRM (Customer Relationship Management): estrate-
+gia que centra sus esfuerzos en el conocimiento de
+los clientes mediante el análisis de la información
+extraída desde los diferentes canales o medios de
+comunicación, con el fin de detectar sus necesidades
+y de aumentar su grado de satisfacción y su fidelidad
+a Correos.
+
+SIE (información estadística): la aplicación estadísti-
+ca SIE permite la grabación del número de envíos y la
+consulta de una serie de informes. En ella se puede
+acceder tanto a los datos grabados en el día como a
+los de cada fecha y a las respectivas acumulaciones
+mensuales y anuales que diariamente se cargan.
+
++ GPVO (Suministros): se trata del Sistema de Gestión de Productos de Venta en Oficina
+(GPVO). Esta aplicación permite conocer la información relacionada con las liquidaciones
+y redistribuciones pendientes de la oficina.
+
+6.1. Aplicaciones básicas de gestión
+
+6.1.1. IRIS (información de recursos informáticos y sistemas)
+
+Acceso
+
+Para acceder a la aplicación IRIS, el empleado o empleada necesita estar registrado en la
+base de datos del sistema y disponer de un Usuario y de una Contraseña. La pantalla inicial
+de IRIS cuenta con un menú a la izquierda donde se muestran todas las funcionalidades
+
+de la herramienta:
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 5 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+rim SAN MARTIN DE VALDEIGLESIAS | 2868002 03/06/2022 12:10:10 AP PY E] [€] (>
+NOA A Inicio
+
+8 Inicio —"LnABO: ——
+
+Gestión Servicio
+A — Mensajes de Servicio Relacionados
+coa:
+
+Llamadas a sistemas externos
+
+|
+ml
+?
+
+Últimos Servicios
+
+Cliente Tarjeta
+
+Nuevo Cliente
+
+Total Bolsa
+
+y
+>]
+>
+4
+-
+J
+e
+
+r
+
+Cobrar Bolsa
+
+Gestor Turnos
+| Automático
+
+——
+
+«£
+
+Funciones
+
+La aplicación IRIS es una herramienta informática que permite la admisión y venta productos.
+
+A través de IRIS los usuarios pueden realizar desde admisiones de diversos productos (cartas,
+paquetería, envío de dinero, etc.) hasta la venta de sobres, embalajes y productos o servicios.
+
+La información de los productos registrados que se admiten en IRIS se transfiere a otros
+sistemas de Correos, garantizando la trazabilidad y seguimiento del envío, permitiendo que
+el cliente final pueda conocer en todo momento en qué lugar y situación está su envío.
+
+IRIS se puede dividir en varios bloques:
+
++ Admisión/Venta: en este bloque se engloban las admisiones y ventas de los productos
+que ofrece Correos. También se podrá realizar la gestión del dinero que entra y sale de
+la oficina, ya sea de la caja o de la cuenta bancaria que tiene asignada cada oficina.
+Dentro del bloque «Admisión» es importante diferenciar dos tipos de admisiones:
+
+— Admisión particular: se trata del tipo de admisión realizada desde la red de oficinas
+desplegadas en el territorio nacional.
+
+— Admisión masiva: se trata del tipo de admisión realizada desde los Centros de Admi-
+sión Masiva, a través de máquinas de clasificación automatizada, que dan servicio a
+clientes grandes con contrato firmado a través de la red comercial con Correos.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. [243)
+
+[[ página 6 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+0,
+
+». Gestión Contable/Funcional: en este bloque se engloban las distintas operaciones de
+
+gestión contable y funcional que pueden realizar los usuarios, dependiendo del rol que
+tengan asignado.
+El responsable de oficina puede acceder a la aplicación como un usuario más, pero su rol
+en IRIS es específico. El menú de gestión le permite realizar acciones de control contable
+que no pueden hacer los empleados de oficina. Es quien abre las cajas, facilita el dinero
+para cambios a cada usuario, lleva un control de los productos de almacén y gestiona
+todas las entradas y salidas de dinero de la oficina por medio del balance.
+
+Utilidades
+
+IRIS está compuesta por la siguiente estructura funcional:
+
+e Admisión.
+
+. Venta.
+
+. Gestión de caja.
+. Gestión contable.
+
+ADMISIÓN
+
+1. Cartas
+
+OFICINA ENVIO DE DINERO | 2843194 26/04/2022 10:27:22 MY Y El Y) (» |
+
+rem
+NOA (08 Inicio > Admisión > Envíos Postales
+
+EN Ola vELBEO2———
+Paqualas > Servicios
+
+Cartas Relacionados
+> Mantenimiento
+Características del envío a
+> Línea
+Económica
+| 112 gr Modalidades Info. Envío
+[Península y Baleares| Y] [] ed [J No normaliz. Últimos Servicios
+054 El ClRaambolas ¿Tiene Mercancías Peligrosas? > Apertura de
+a caja
+a] [] Asegurado OsOn
+ESPAÑA e ——
+Cliente Tarjeta
+* (Sólo para envios pre-registrados)
+(a Urbano O) Interurbano
+Código de |
+
+envío* o NO
+
+Referencia
+
+Envru> coumpaunres
+Pazo Pía a Tess E Pas | SE
+rimar [cabra te
+Gestor Turnos
+| Automático
+===
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 7 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+2. Paquetes
+
+E OFICINA ENVIO DE DINERO | 2843194 26/04/2022 10:31:22 MY Y EN Q (9 |
+NOAA (08 Inicio > Admisión > Envíos Postales
+a Envíos Postales veLnmEBQ2S ——
+= . IES
+Cartas Paquetes Relacionados
+> Mantenimiento
+PAR A _ Certificados
+| 5 .e - > Línea
+Económica
+Peso: 500 gr Modalidades Info. Envío A
+Ámbito: — |Península y Baleares|Y| 1] Aviso de El No normaliz. Últimos Servicios
+% aa ¿Tiene Mercancías Peligrosas? > Carta
+e 30 [ 28034 El [] Reembolso OsOn Certificada
+A - [] Asegurado > Apertura de
+País Í ESP A
+E 1 Pack Libre caja
+España [8] Servicio
+* (Sólo para envios pre-registrados)
+Interurbano Chente Tarjeta
+pt ciones!
+a [nro cien
+R S Nuevo Cliente
+Peso vormmetrico
+Total Bolsa
+Alto | cm Ancho | cm Largo | cm Peso Vol. | >
+==
+[ 15,00 0] [ a | 12,75 10] Gestor Turnos
+rr] —) Automático
+l
+: l
+| [0] | a Faz E
+| | Int. Standard | | Int. Económico | Log. Inversa Paq Premium
+| | Int.tight | | Paqtigero |
+
+3. Línea Económica
+
+ALA)
+UaY Correos Pete
+
+Admisión > Línea Económica
+
+OFICINA ENVIO DE DINERO | 2843194 26/04/2022 10:30:14 Y Y El Y) (>
+
+“en 0%
+
++ Mantenimiento
+Certificados
+Peso ¡pame A Productos ——— da
+Ámbito: — [Península y Baleares |Y|
+LIBROS CON TARJETA AS
+País les PUBLICORREO OPTIMO Postal
+PUBLICORREO PREMIUM
+| españa [8 PUBLICORREO INTERNACIONAL ada
+PUBLICACIONES PERIODICAS dé
+Seleccione Urbana! Inter ur barro PUBLI. PER. P.POLITICOS Y SINDICATOS
+O Urbano  U Interurbano PUBLIBUZON
+Nuevo Chente
+N? envíos 1
+Total Bolsa
+Predio base A Ice a <<
+Aviso de recibo 0,00 Std
+Certificada 0,00 Cobrar Bolsa
+Tempo | 0,00 Franqueo inicial 0,00
+Pre. Envíos 0,00 perez
+|
+Selec. Sectores 0,00 Falta franqueo 0,00
+Total 0,00 Total a pagar 0,00 |
+Aceptar |
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 8 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+4. Burofax/Telegrama
+
+OFICINA ENVIO DE DINERO | 2843194 26/04/2022 10:42:55 MN Y E O (5
+Inicio > Admisión > Burofax/Fax
+a Aa Fax ve 6 0s
+cala - Servicios
+Fecha de imposición | 26/04/2022 Tipo E inmi
+BUROFAX PREMIUM PLUS _de Burafax/Fax
+Hora de impos. | 10:42 NO Fax] O NO Página FAX INTERNACIONAL
+FAX NACIONAL
+O Admi. Múltiple | — FinAdm.Multiple | Cod. Admisión |
+Últimos Servicios
+7] Pago Diferido PA
+_Económica
+Envío Formulario por Email Email[ y — — + Envios Postales
+% Carta
+p Certificada
+Entrega Digitalizada e Entrega Postalizada
+Datos Destino Datos Origen Datos Email y SMS
+[Nuevo Chente
+País Destino | ESP 9 [ ESPAÑA Apartado [] |
+EZ —— - 0) Total Bolsa
+Nombre — Apellidos | —
+==
+Direccion [O F CP. pj a Cobrar Boba
+Teléfono/Fax Provincia | Gestor Turnos |
+Oficina l | Destino | | Automático
+Email | Teléfono | |
+Recibido Cliente a Custodia 60 meses [7 Total
+y -, Custodia 120
+Ace Recio os O Importe Neto o,00
+PEE O PEF O Valores Añadidos Fo00
+SMS Verificado [7] Email Verificado B Impuesto 0,00
+C.Certificad O Prueba evidendas u Total 0,00
+ra]
+
+5. Envío de Dinero
+
+OFICINA ENVIO DE DINERO
+Inicio > Admisión > Envío Dinero > Comparador
+
+E Comparador de Envíos de Dinero
+
+ATEOS 7
+
+2843194 26/04/2022 10:45:01
+
+! Admisión de Envíos de Dinero
+a Importe a Pagar Importe a Cobrar
+País Destino ti >
+JespaÑña [vw] 100,00 |
+Ta
+Gira Nacional Gira Nasional | |
+Envio Giro inmediato Envia Orden de ingreso
+Ml correos en cuenta | |
+E ominutos Ml BANco |
+(0) Metalico El 72 Horas |
+[0] Abono em cuenta
+Fl sae Cestinataria 0,500 | .
+Remizente 0,586 Importe Virada! 100,000 + Lora Demicilio 000€
+di Tasa Fijar 3,09€ | Tatal Balsa
+SMS al Destinatario Y 7 pap Desechus: 2,000 | Importe Girado: 100,00€
+iO Tona Fija: 12,10€ FS
+Importa Cirsds: 100,000 105,050 Derechos: 2,00€ , !
+ER 114,106 | | [coimaroois |
+| |
+Gestor Turnos
+zen Automático
+na —=—
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 9 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+6. Albaranes
+
+En OFICINA ENVIO DE DINERO 2843194 26/04/2022 11:09:11 KY Y El O) (>
+NCAA (038 Inicio > Admisión > Albaranes > Admisión Manual
+= A y EA
+El Alta de Albarán LS [a] 02 =
+- cm, Li 2 13 y 00 ios
+Fecha | 26/04/2022 Referencia | + Alta de
+Tipo de a : _Reembaleas.
+pe |FRANQUEO PAGADO [O] Oficina Rural Cala de
+To Recogidas
+Destino (8) Nacional O Internacional LK]. Destinos Especiales Esporádicas
+Contrato 01000020 Cliente | 01000066 12] :
+Cliente [DIRECCION TERRITORIAL DE SANIDAD DE pomos Servicios ia
+> Línea
+CIF | 54833001C Albarán de Correos Online O Se
+Producto | > Envíos Postales
+j ——— ¡| NOTIFICACIONES ADM, PROCEDIMIENTO GENERAL (Anexo 103 ) > Carta
+NOTIFICACIONES ADM. ACUERDO ESPECIAL ( Anexo 103 ) Certificada
+Código ¡NOTIFICACIONES ADM. ACUERDO ESPECIAL - PEE ( Anexo 103 ) AAA
+oe "| NOTIFICACIONES JD PROCEDIMIENTO GENERAL ( Anexo 103 )
+NOTIFICACIONES JD ACUERDO ESPECIAL ( Anexo 103) -
+| | [CARTA CERTIFICADA ( Anexo 051 )
+CARTA ORDINARIA ( Anexo 051 )
+PA [P [CARTA URGENTE CERTIFICADA (Anexo 051 ) | nuevo Chente |
+CARTA URGENTE ( Anexo 051 )
+—_|CARTA CERTIFICADA CON AR. R. INF Y G.E. (Anexo 065 ) ¡APRA
+CARTA CERTIFICADA CON E-AR/PEE, R. INF Y G.E. ( Anexo 065 )
+| ES 1
+| Cobrar Bolsa |]
+registrar | ¡Gesto r DIOR
+[-) Automático
+
+VENTA
+Venta de productos
+
+1. Productos
+
+y servicios
+
+8 Productos
+
+* Vesta
+
+DAA PICO E DARRO
+Inacro > Admisión > Yesta de Frodectos
+
+— edección de prebrrs
+
+A
+
+"3 a A
+WHI a meo ajuda tronos - intemet Erplires
+
+A
+
+B Ayuda Productos
+
+Producto: [
+Miserte:
+
+[ALIATAR
+
+¡ALIVE
+
+Pi
+
+Y aemálía hos |
+¡ | ALETA
+Descripción. |ESOMASA
+
+|BRESSER NATIONAL GEOGRAPM
+
+EMBALAJES
+
+NUMISMATICA
+
+OPTIMA VENTAS
+
+OTROS PRODUCTOS FILATELICOS
+PRI Y PREF S
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 10 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+2. Servicios de terceros
+
+me OFICINA ENVIO DE DINERO 2843194 26/04/2022 11:15:24 fY Y EN G (>
+UY Correos Inicio > Llamadas a sistemas externos
+¡ "BEBO: —
+Llamadas a sistemas externos A Ey E a
+Servicios
+E pa H_— > Relacionados
+Gestión o Venta a través de Sistemas Externos
+Clasificación
+O AMB - AREA METROPOLITA] ag isiones terceros Últimos Servicios
+(O CAMINO SANTIAGO Dinero ola
+(O) CORREOS EXPRES dle ers oficina
+Ocio y lote: a
+O conacos aer [Senos Diales
+(O) Correos Telecom Telefonia _— 4
+(O ENTRADAS Y VIAJES Pis cntz ]
+(O EQUIPAMIENTO POSTAL
+() ESTADISTICA Total Bolsa
+O GIFTCARDS ==
+(O IDENTIFICACION PRESENCIAL
+Cobrar Bolsa
+(O ONCE - VENTA ELECTRONICA
+(O) ORVE | Gestor Turnos |
+(O) PORTAL ENTIDADES COLABORADORAS —| Automático
+(O) PREVENCION BLANQUEO CAPITALES [
+(0 Recargas moviles TELECOR
+(Y) RECLAMACIONES
+O RIA - DIVISAS
+(O) SERVICIO ENVIO DE DINERO
+O SERVICIOS DIGITALES
+O SUMINISTROS
+
+TARJETA CLIENTE + CERCA
+TARJETA PREPAGO LOL
+TRANSPORTE DE FONDOS
+WESTERN UNION
+
+¡a
+
+)
+
+oÉ
+
+y
+
+O
+
+3. Servicios de Correos
+
+OFICINA ENVIO DE DINERO 2843194 26/04/2022 11:19:17. A Y E O >
+NY Correos Inicio > Admisión > Otros Servicios > Buzón de Vacaci
+
+| ; 02 —
+El Alta de Buzón de Vacaciones Y u— —B— sa :
+Buzón de Vacaciones
+Relacionados
+Código de Oficina | 2843194 Fecha de Registro | 26/04/2022
+Ámbito [NACIONAL[V] nt
+Duración fi SEMANA [W] Importe | 12,75
+
+| Aceptar Chente Tarjeta
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+NS
+NS
+0.9)
+
+[[ página 11 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+GESTIÓN DE CAJA
+
+Todas las operaciones que se realizan en las oficinas de Correos se reflejan en las cajas
+
+contables de cada oficina.
+
+1. Apertura de caja. El responsable de oficina realiza la apertura de la caja central de la
+oficina y la apertura de la caja individual de cada uno de los empleados que tiene su
+
+oficina. Es el único que puede abrir la caja central de la oficina.
+
+2. Cierre de Caja Usuario/Oficina. Cada usuario de la oficina tiene que cerrar su caja al
+finalizar su jornada. Si no lo hace, el responsable de oficina podrá realizar esta operación.
+No se puede realizar el cierre de una caja mientras haya bolsas de compra pendientes
+para un usuario. Una vez que se hayan cerrado todas las cajas de usuario se cierra la
+
+caja central de la oficina.
+
+Cierre Caja
+
+OFICINA ENVIO DE DINERO 2843194 26/04/2022
+
+Fecha [ 26/04/2022
+
+1:36:28 Ñ Y EGO
+——— —
+2.
+
+fr Devolh Total Total Total Total
+Tarjeta Tarjeta metálico cheque
+Prepago
+89,67
+0,00 0,00 0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00 0,00 0,00
+0,00 0,00 0,00 0,00 0,00 0,00
+Gs mo] HEEE
+
+GESTIÓN CONTABLE
+
+Representa la situación contable de la oficina. Esta gestión la realiza el responsable de la
+
+oficina.
+
+1. Balance de tesorería. Muestra la situación contable de la oficina al final del día. Se divide
+
+en entradas (ingresos) y salidas (pagos).
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 12 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+2. Gestión de bancos. Registro de los movimientos bancarios realizados en las cuentas de
+la oficina dentro de la gestión contable.
+
+OTRAS FUNCIONALIDADES
+
+1. Mantenimiento. Todas las funcionalidades de la aplicación tienen su respectivo mante-
+nimiento, a través del cual el usuario puede consultar, modificar o dar de baja el produc-
+to admitido.
+
+2. Listados. Se ponen a disposición de los usuarios de oficina y de usuarios con perfiles
+especiales una serie de listados e informes, donde se recoge información de las opera-
+ciones que se han realizado en las oficinas en un periodo determinado.
+
+6.1.2. SGIE (Sistema de Gestión Integral de Envíos)
+
+SGIE para distribución
+
+El Sistema de Gestión Integral de Envíos (SGIE) es una herramienta informatizada que
+permite gestionar las operaciones que se realizan sobre los envíos dentro de los procesos
+del flujo postal relativos a la clasificación, tratamiento, curso, distribución y entrega. Para
+acceder a SGIE, es indispensable solicitar previamente un perfil de acceso a través de SIGUA
+(https://sigua.correos.es).
+
+Acceso
+
+Para acceder a SGIE hay que introducir el usuario corporativo y la contraseña.
+
+Usuario Actual
+
+Servidor CITRIX PEU12062
+
+PC Local: BRD21230TC
+IP.PC Local: 10.208,21.230
+Entorno Plataforma Virtual
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 13 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+Se dispone de tres intentos para acceder a SGIE, al cuarto intento el usuario queda blo-
+queado por razones de seguridad. Para poder desbloquearlo, se tendrá que contactar con
+el administrador de usuarios para que realice un desbloqueo manual.
+
+SGIE cuenta con diferentes perfiles (usuario básico, administrador, zonal, nacional) que
+pueden acceder a la información para consultarla o modificarla, dependiendo del puesto
+desempeñado.
+
+Principales funcionalidades de SGIE para distribución
+
+Las principales funcionalidades de SGIE para unidades de distribución son las siguientes:
+
++ Asignación a reparto. Este proceso permite asignar a la sección correspondiente los en-
+víos que llegan a la Unidad de Reparto. Actualmente este proceso lo realiza el personal
+de reparto directamente a través de la PDA. Se dan de alta a través de SGIE los envíos
+que quedan pendientes de reparto en la unidad.
+
++ Liquidación sección reparto. La liquidación de una sección se realiza cuando el personal
+de reparto haya finalizado el reparto, esté de nuevo en la unidad y haya hecho la liqui-
+dación de los envíos en la PDA.
+
++ Control y consultas. Para realizar una consulta de los envíos.
+
++ Buzón electrónico. Desde él se realiza la recepción, el tratamiento y la gestión de los
+productos telegráficos y otras órdenes de trabajo.
+
++ Gestión de estacionados. La gestión de estacionados es un valor añadido que permite
+al remitente la gestión individualizada de todas aquellas incidencias que se puedan pre-
+sentar antes o después del reparto domiciliario y que impiden la entrega al destinatario.
+
++. Reetiquetar envíos. Esta opción permite generar una nueva etiqueta para:
+
+— Envíos que se van a repartir en otra unidad.
+
+— Envíos devueltos al Centro de Tratamiento trabajados en «Gestión de Estacionados».
+
+— Envíos devueltos por orden
+del remitente y que sea de
+una familia reetiquetable.
+
++ Entrega directa Citypaq. Sirve
+para asignar un envío dirigido a
+un terminal automatizado.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+
+PDA (Personal
+Digital Assistant
+
+— Asistente
+
+Digital Personal):
+Organizador personal
+o agenda electrónica
+de bolsillo, en
+esencia, una
+computadora «de
+mano» originalmente
+diseñada como
+agenda personal
+electrónica con
+
+un sistema de
+reconocimiento de
+
+escritura.
+
+[[ página 14 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+Usuario ; Ana Unidad: 1103696 - ALGECIRAS UNIDAD DE REPARTO 1 e, Portal da precisos pa Zn
+Fecha: 17/04/2020-3750 v4.14.0.0 1E: 7.0-S-11 > Drstr ueón
+
+¡a Linndacón Sección Reparto AGA 4 CI
+Lawdacón Servoos
+
+Alta en Unidad Reparto Sen Despachos de 54%
+ecapadn y Contra Deipactos Lgudaaido Envios Reparto Gastido de Condatocaó
+
+Relmoresnén Documentos de Reparto Asignación Receptor Rerrpresón Mapén - Despacho
+imprenén Aros Reguiarización Burofax brpores Liqgudados en Reparto
+Busón Daba Corrección rra Ligudarión Ustado de Caras de Reparo
+Reetiquetar Envios Cierre de Reparto
+
+Aggrecén y Secnór Lectora Lqudación ds Serncios Indrridua Corarciós de Cobro fun Corfrmár
+
+Control de paders
+Alta Envíos no Regstrados
+
+Modécación de Envíos Cuadro de Alarmas Unidad
+Cargar importes de Envío Sivacón Aca) de la Unidad Usamos
+Acusa Generada a la Undead Cuadro Mando NOUStacones Carterot
+Gereracón de Actas Consuka Ligusdación Actual de la Unicad Destratanos Habituales
+Marteniriorto de A Despachos Pendientes de Recépoir Marteriamierto Orupos Secoores
+Conujta de Actah Sobrartes Reparto Rural Martarerménto Secones
+irácrme de Atar brgortes Per bertes de Lauder en hacaro Desticgues de fercones
+Desmtaconado de Envía Condacones
+Liberar saparto en ODA Contura de Envios Desernos
+Cirinacón de envio en PDA Consurña de Despartos Prrarratrización Deltmnos
+NE cacas Potictes Computa- Cerbón iusón Decrónco Vikjas
+Musones de Vacaciones / Reermáios Poraies Ruta de valijas
+Sectores de Almacén Estaconados
+Ca tajero
+
+Mesas Esctorajes
+irorenon Códgos
+bmoresón Destnos
+
+Entregas Gestión de Dstrbución Gestión de Campañas
+
+Recog-1as
+
+PP
+
+Consta Servico cue Entrega Dres eo Terms roratrdo
+Consuñta OR CME Sjectorales Consuta Huecos TAP
+
+Consulta SR Consuta usuaros de CityPa3
+
+Funciones SGIE para unidades de entrega en oficina (UEO)
+Las principales funcionalidades de SGIE para unidades de entrega en oficina son:
+
++. Recepción de avisados. Todos los envíos registrados que lleguen de las distintas unida-
+des para su entrega al destinatario.
+
++ Alta de envíos no registrados. Son aquellos envíos no registrados que por sus dimensio-
+nes o peso no tienen entrega domiciliaria.
+
+» Liquidación de envíos. Desde esta funcionalidad se informa el resultado de la entrega
+de envíos (entrega, caducado o devuelto/rehusado).
+
++ Consulta de envíos. Desde esta funcionalidad se recupera información sobre la situación
+de los diferentes envíos introducidos en el sistema.
+
++ Cuadre de la unidad. Se puede obtener el cuadre de la unidad de envíos con importes
+y el cuadre de almacén. Permite controlar los envíos que se encuentran en el almacén
+pendientes de entrega.
+
++ Cierre de usuario. El usuario de la Unidad de Entrega desbloquea y bloquea su puesto
+para realizar operaciones contables en una fecha.
+
+[a52) O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 15 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+vrasarto > Uranio aida: 190901] SAMVLAGO DE COMPOSITIA El ? Y pe de de a
+Fechas 13/02/2047 097) 030.3 Mi 1 8 11 Ollas caja cenvada cua fechas 19/09/2023 El ab
+
+Repcán de cada patición Se bem Apr CI Se
+
+pda Pr 10 rr hrs Car form
+
+ut ct pur
+,
+
+byrcir A de Ara
+AA EA
+
+artos Mm en hna de Ps 444 ha dos
+
+darnos de as da ri Betas Carrer actas a de yin
+A de rr e ir do ht
+ad e mb Martimeraarts de hitos
+rd e ira Cabgo Esos Corra Enpres
+sunt e hr
+
+eres
+
+Ane de Recio Der
+
+a et dera rt pr
+
+s.
+
+MT y Mer LAO
+
+DE Deere
+
+DEI e A PO pas RON y Corral Degechos
+
+Ma de Abad Dorres Se arca Depa tas Peas de Lacepodr
+
+a pais e Yabata
+Mer grs gor as Me
+
+rr Ds rs
+
+6.1.3. Minerva
+
+Minerva es el sistema que reúne el conjunto de operativas ligadas a la trazabilidad y apoyo
+a la producción del proceso logístico y de distribución de Correos.
+
+Se trata de un servicio de tratamiento de información en tiempo real en la nube para la ges-
+tión de los envíos en todo el circuito logístico, con una fuente única de datos que recoge la
+información de principio a fin. Da respuesta a necesidades de negocio ofreciendo soluciones
+con alta usabilidad e impacto y automatización en su operativa.
+
+Es un sistema desplegado bajo tecnología Big Data y Cloud AWS.
+
+Acceso
+
+El acceso a Minerva se realiza bajo el procedimiento estándar de seguridad aplicado en la
+compañía.
+
+Para acceder a Minerva es indispensable solicitar previamente un perfil de acceso a través
+de SIGUA (https://sigua.correos.es).
+
+Una vez solicitado el permiso, siempre que se esté dentro de la red de Correos (no es una
+aplicación accesible desde internet) se podrá acceder a través de un navegador a la URL
+minerva.correos.es.
+
+Con las credenciales del usuario corporativo (una vez que se haya concedido el perfil de
+acceso) se podrá ingresar en el aplicativo.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. G
+
+[[ página 16 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+day | Minerva ADOIAR
+
+Búsqueda
+
+vw Búsqueda avanzada
+
+Seleccione + Cócigo de envio
+
+o EME
+
+Los perfiles que se pueden solicitar en SIGUA que permiten acceso a Minerva son los que se
+mencionan a continuación, según los diferentes roles de usuario que contempla la plataforma:
+
++ MINERVA-CONS-BÁSICA. Accede a todas las consultas sobre envíos y agrupaciones, pero
+no accede a la Parametrización de Negocio, ni a la configuración de Minerva.
+
++ MINERVA-CONS-AVANZADA. Accede a todas las consultas del rol «Consulta» pero tam-
+bién al «Panel Centros/Pendientes turno de noche». No accede al Panel de Distribución,
+a Parametrización ni a la Administración.
+
++ MINERVA-JEFE-UNID. Accede a todas las consultas del rol MINERVA-CONS-BASICA pero
+también al Panel de Distribución. No accede al «Panel Centros/Pendientes turno de no-
+che», a Parametrización ni a la Administración.
+
++ MINERVA-GESTOR-PROD. Accede a todo, menos a la parametrización y a la administración.
+
++ MINERVA-PARAM-PROD. Accede a todo, menos a la administración. Es igual que el rol
+anterior, pero además accede a la funcionalidad de «Parametrización de Negocio».
+
++ MINERVA-ADMIN. Accede a toda la plataforma sin restricciones de acceso.
+
+Funciones
+La plataforma Minerva ofrece las siguientes utilidades:
+
+* La gestión de la trazabilidad y la localización de los envíos y servicios.
++ La gestión de las agrupaciones de envíos en contenedores y vehículos.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 17 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+Consultas avanzadas sobre los envíos filtrando por rango de fechas, estado, eventos,
+centros, etc.
+
+Consultas masivas sobre el estado de los envíos y servicios.
+
+Cuadros de mando para la gestión operativa.
+
+Integración con otros sistemas para ser un punto de acceso único a toda la información
+relacionada con un envío.
+
+Utilidades
+
+Minerva tiene como principal funcionalidad ser la fuente de «la verdad», además del siste-
+ma de trazabilidad; por añadidura dispone de una serie de apoyos a la producción que se
+podrían segmentar principalmente en:
+
++. EGA (estaciones generadoras de agrupación).
+e Correos Frío.
+
+Minerva permite generar, mantener y consultar toda la información de las EGA (estaciones
+generadoras de agrupación). Como un caso de uso especial de la primera, permite generar,
+mantener y consultar las funciones específicas del producto Correos Frío en el proceso lo-
+gístico vinculadas con la información y las acciones relacionadas con las cajas isotérmicas,
+su seguimiento y trazabilidad.
+
+También es el sistema que atiende la demanda de información relativa a la trazabilidad,
+suministrando la información a través del proceso canónico junto a MATRIX, por ejemplo, a
+la web de correos o las aplicaciones móviles de la compañía.
+
+Funcionalidades EGÁs
+
+3) Se encarga de crear una agrupación
+
+e imprimir su etiqueta.
+
+Se encarga de asociar una
+agrupación intermedia o envío a una
+
+agrupación padre. *
+
+Permite consultar el contenido de
+una agrupación.
+
+Se encarga de cerrar una
+agrupación.*
+
+0 Se encarga de desasociar,
+ON desvincular una agrupación o envío
+
+neo hijo de una agrupación padre.
+
+* Alertas operativas.
+
+a
+
+impresión mesiva
+
+EN
+=D
+
+Salida camión
+
+Era
+
+Tas da
+
+=l
+
+Permite generar etiqueta de
+diferentes tipos de agrupación y
+generarlas de forma masiva.
+
+Se encarga de descargar una
+agrupación intermedia de una
+agrupación vehiculo.
+
+Comunica a Minerva la salida del
+centro del camión.
+
+Permite abrir una agrupación
+previamente cerrada para volver a
+operar sobre ella.*
+
+Permite migrar un envío o agrupación
+intermedia a otro contenedor de
+forma directa.”
+
+ALLA e
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 18 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+Ventajas de las EGA
+
+e Facilitan la adaptación a cualquier proceso logístico que lo requiera, por ejemplo, Correos
+Frío.
+
+e Trazabilidad ampliada: mayor control de la operativa ejecutada en cualquier punto de la
+cadena logística.
+
++. Mayor seguridad y control de la mercancía: eliminan los puntos ciegos de información
+en el ciclo logístico.
+
++ Menos lecturas: aumentan la capacidad de eventos inferidos en base a la agrupación.
+
+. Control agregado por agrupaciones: control entrada/salida de centro u oficina más ex-
+haustivo.
+
++. Detalle de envíos de los servicios de reparto.
+
+* Alertas en función de las necesidades.
+
+. Control aduanero por agrupación.
+
+6.2. Otras aplicaciones de Oficinas
+
+6.2.1. SEDI (Sistema de Envío de Dinero)
+
+Se accederá a SEDI a través de la herramienta IRIS. Se podrá acceder a la funcionalidad de
+alta de órdenes de envío de dinero desde el menú de «Admisión» de la aplicación, seleccio-
+nando la opción «Envío de dinero», desde donde estarán disponibles las opciones:
+
+e Comparador: muestra el comparador de servicios de envío de dinero.
+e Alta de envío de dinero: muestra el formulario de alta de una orden de envío.
+
+6.2.2. SGTC (Sistema de Gestión de Tarjetas de Cliente)
+
+La Tarjeta Más Cerca es la tarjeta de fidelización de cliente que sirve para identificar a los
+clientes cuando realizan una compra.
+
+Operativamente, la tarjeta permite recuperar los datos del remitente para no tener que in-
+troducirlos manualmente en IRIS en los productos que necesitan capturar este dato. IRIS
+permite cambiar los datos de remitente, si el cliente necesita poner otros datos, pero esta
+modificación vale solo para la operación que se realiza, si hay cambios permanentes, estos
+deben hacerse en la aplicación de la tarjeta.
+
+También sirve para que el cliente, una vez aportada la documentación requerida para hacerse
+la tarjeta, no tenga que volver a aportarla para otros productos que la requieran.
+
+Las principales funcionalidades son:
+
++. Recarga tarjeta prepago.
++ Anulaciones de recargas que se hayan hecho en el mismo día.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 19 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+e Emitir una factura automática todos los meses por correo electrónico al cliente de forma
+predeterminada.
+e Contratos: alta, consulta, anulación o modificación de contratos.
+
+6.2.3. Quenda
+
+A través de la aplicación Quenda, se accede al Gestor de Turnos, que es la herramienta que
+permite controlar el tiempo de espera de los clientes en las Oficinas.
+
+Una vez que hayamos iniciado el equipo encontraremos un icono en el escritorio que nos
+conducirá directamente a la pantalla de inicio donde se introducirán el nombre de usuario
+y la clave corporativos.
+
+Menú «Atención al Cliente»
+
+A continuación se describe la operativa normal de la aplicación para la llamada y reenvío de
+personas a puestos de atención. Para el acceso a esta funcionalidad el usuario debe estar
+dado de alta en la aplicación y tener asignado un perfil de «atención y recepción».
+
+Pantalla de llamadas
+
+Una vez que el empleado esté autentificado en el sistema y seleccionado el puesto de
+atención, accederá a la pantalla de atención al público de la aplicación donde podrá realizar
+llamadas y obtener diversa información sobre las personas en espera.
+
+Acceso: Indica el nombre de usuario
+con el que hemos identificado.
+
+q nda
+
+A
+
+Miércoles, 1 de Marzo del 201
+
+Cerrar sesión: Mediante un click
+en este botón podremos cerrar la
+
+1 Atención al Público A Lenerar Victets
+
+Atanción al Público
+
+Puesto: En esta zona se muestra | $8 (10:36:01
+
+“——=3/[ el puesto que hemos seleccionado
+E anteriormente.
+
+Turno atendiendo
+Pulse sobre el botón "Llamar" para atender a otra solicitud
+
+Turnos pendientes
+bi tumos pendiente:
+
+F turnos pendientes: Este cuadro mostrará las
+citas que actualmente están pendientes, y el
+tiempo de espera de la siguiente cita en espera.
+No se mostrarán aquellas citas pendientes que
+estén asignadas a otros servicios o puestos y no
+Mos? ser llamadas desde el puesto actual.
+
+Tiempo espera siguient
+
+Llamar: Haciendo click en el botón “llamar” realizaremos la llamada a la siguiente persona
+en espera. Esta llamada se visualizará en la pantalla de la sala de espera y se anunciará a
+través de una llamada por megafonía en caso de que esta función esté disponible.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 20 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+e Sino se ha realizado ninguna selección previa el sistema llamará a la persona que lleve
+mayor tiempo en espera dentro de los servicios que han sido asignados al usuario y
+puesto actual.
+
++. Conviene señalar que el administrador del sistema puede definir prioridades de llamada
+entre los trámites definidos para un usuario o puesto.
+
+. Las prioridades repercutirán de forma que se llamará preferentemente a un servicio con-
+creto (el de mayor prioridad).
+
+Atención al Cliente /Finalizar Llamada
+
+Una vez pulsado el botón «llamar», en la pantalla general de la sala de espera se visualizará
+el número de turno correspondiente y el número de puesto al que debe dirigirse el cliente.
+
+Paralelamente, en nuestra pantalla de Quenda se mostrará información sobre la cita en
+cuestión y diversos botones que se describen a continuación:
+
+| AAA oa
+( Turno atendiendo
+
+Turnos pendientes
+Está atendiendo el tique con el n* SADOS con al servicio Sel A Netumos pendientes;
+2
+N*Tique Servicio CAPAS
+SA0O06 Servi lo Tiempo espera siguiente:
+00:21:44
+á Reenviar Turno ¡ -
+Zona de información de llamada:
+Trámite * Puesto Hemog retraso ali s E
+Ei 8 [dal [ojala Muestra el último turno llamado y el
+servicio al que pertenece.
+| Reermtar |
+7
+Reenvío de turnos: El sistema permite reenviar la cita actual a otro puesto
+y/o servicio. Esta función permitirá que la persona no tenga que volver al
+iaa ras] mac uama Jia dispensador para obtener otro ticket, perdiendo además su prioridad por hora
+
+de llegada. De este modo, será llamada en el nuevo puesto y/o servicio en
+cuanto no exista ninguna otra cita con mayor tiempo de espera.
+
+Botón “Finalizar y Pausa”: Permite finalizar la cita actual una vez realizada la atención.
+
+Botón “Finalizar y Llamar”: Permite finalizar la cita actual y llamar a otra cita. La cita a la que se llamará
+será la que lleve mayor tiempo en espera dentro de los servicios disponibles para mi usuario y puesto.
+
+Botón “No acude”: Permite finalizar la cita actual, dando a conocer que nadie ha acudido a la llamada.
+
+Botón “Volver a llamar en pantalla”: En caso de que nadie se haya presentado en nuestro puesto de
+atención tras efectuar la correspondiente llamada, este botón nos permite repetir la llamada en la pantalla
+kaeneral de la sala de espera. Solo es posible repetir la llamada 1 vez por cita.
+
+Reenviar Turno
+
+El sistema permite reenviar la cita actual a otro puesto o servicio. Esta función permitirá que
+la persona no tenga que volver al dispensador para obtener otro ticket, perdiendo además
+su prioridad por hora de llegada. De este modo, será llamada en el nuevo puesto o servicio
+en cuanto no exista ninguna otra cita con mayor tiempo de espera.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 21 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+A AAA AS
+Turno aendiando Fumas pendientes
+
+Ei ad que 4 EDO an Jar A Irena perras.
+
+1 Trámite: seleccionar en el desplegable |
+el servicio de destino
+
+metia
+
+SA006 Servicio A r El boi
+
+“ Puesto: podremos especificar un puesto de
+destino concreto. En caso de que no se
+especifique un puesto concreto la cita será
+llamada desde cualquier de los puestos que
+atiendan el trámite en cuestión.
+
+tarso prom ormnsrerzas
+O TOM]
+
+Reenviar Turno
+
+Trámite * Puesto Tiempo retraso
+
+¡—Seleccionar—  [w||| —Seleccionar |
+
+4 Reenviar: Una vez seleccionado el trámite,
+puesto y tiempo de retraso, confirmaremos el
+reenvío haciendo click en el botón “Reenviar”.
+
+3 Tiempo de retraso: En el caso de que no deseemos que
+la cita sea llamada de inmediato en el puesto/servicio de
+destino, el sistema permite especificar un tiempo de retraso
+en la llamada. Para definir el tiempo que tardará el turno en
+ser llamado de nuevo, simplemente seleccionaremos en el
+desplegable “tiempo de retraso” el tiempo que creamos
+conveniente.
+
+Rellamada Automática
+
+Si no existe ninguna persona en espera para los servicios asignados (tanto al usuario como
+al puesto donde este usuario atiende), se mostrará un botón verde que permite activar la
+funcionalidad de «Rellamada Automática».
+
+TO f
+que Si activamos esta funcionalidad, haciendo click
+
+Meis. 1006 a 02042, Ains Otros [ctvesisi] en el mencionado botón, el sistema llamará
+automáticamente a la primera persona que
+obtenga un ticket de turno para alguno de los
+
+Aherción al Petlbo
+
+Puesto 195%, |13:40:55 Al .
+| servicios que tengamos asignados.
+| Cine)
+| Turn atenciendo 1 Turnos pendientes
+En esas momentos no has mngua persona a la que puada atande: Pruebe en trees HP tros páscoarra
+a
+
+inslartes o establezca (a setamada all
+
+PE E rmo atendiendo
+
+|
+
+En estos momentos no hay ningung/persona a la que pueda atender. Pruebe en breves
+instantes o establezca la rellamagá automática.
+
+[Activar rellamada automática |
+
+Esta función evitará que sea necesario revisar cada cierto tiempo si ya existe alguna persona
+en espera, ya que nada más sacar el ticket será llamado en pantalla de forma automática
+y se presentará físicamente en el puesto.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 22 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+Una vez realizada la primera rellamada automática, esta función se deshabilitará automá-
+ticamente. El usuario ATC podrá volver a activarla las veces que quiera sin ningún tipo de
+limitación.
+
+Una vez pulsado el botón «Activar rellamada automática», el gestor de turnos permitirá des-
+activar la función pulsando sobre el botón rojo que pone «Desactivar rellamada automática»,
+que aparecerá en pantalla una vez esté activado.
+
+Turno atendiendo
+
+En estos momentos no hay ninguna persona a la que pueda atender. Cuando haya una
+pendiente será llamada de manera automática.
+
+Menú «Generar Tickets»
+
+Esta funcionalidad permite generar tickets de atención de un modo similar al que se realiza
+en el dispensador automático.
+
+Esta opción puede resultar muy útil en determinadas situaciones, cuando el vestíbulo este
+vacío y no sea necesario coger turno en la máquina dispensadora, cuando el dispensador
+se encuentra sin papel, averiado, persona mayor, etc.
+
+Jueves, 20 de Abril del 2017 Acceso. Dloperacones
+
+Ml atencónal EEN | Generar Tidtets
+
+Generar Jiciets Ñ
+
+1 Trámite: Permite seleccionar el trámite
+a | sobre el cual deseamos generar un ticket de
+
+Oficina * A A A! mum
+
+Selecionar
+
+"2 Puesto: Si deseamos que el ticket a generar solo
+pueda ser atendido en un puesto en concreto,
+podremos especificarlo en este campo. Si no se
+especifica ningún puesto concreto el ticket podrá ser
+llamado desde cualquiera de los puestos disponibles
+para el servicio en cuestión.
+
+3 Generar Ticket: Una vez seleccionados los valores deseados
+en los apartados 1 y 2 haremos click en “Generar Ticket" para
+proceder a la creación del ticket en cuestión.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 23 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+6.2.4. WUPOS
+
+Correos tiene concertada con Western Union la transferencia de dinero entre nuestras ofici-
+nas y los países que prestan el servicio de «Transferencia de dinero en minutos» (Will Call).
+A través de la aplicación WUPOS, el cliente puede enviar y retirar dinero en cualquiera de
+las oficinas de Correos que Western Union tiene en más de 200 países.
+
+6.2.5. Hermes
+
+Aplicación que permite la venta de productos de la ONCE. Para realizar la venta de cualquiera
+
+de los productos ONCE, se accede a través de EE) (dE EA A Haciendo
+
+clic en Venta electrónica, se accede a la aplicación Hermes, y el usuario ha de logarse con
+el mismo «C» que ha abierto IRIS.
+
+Desde esta pantalla de inicio pueden verse todos los juegos que se comercializan en las
+oficinas de Correos.
+
+6.3. Dispositivo PDA
+6.3.1. Acceso a la PDA
+
+Para acceder a la PDA, el personal de reparto deberá introducir su código de usuario y
+contraseña.
+
+SPAIN peo
+El tecladose II A +
+] despliega al EFE a
+: situar el Estado dela;
+:  dedo/puntero  : AS Vd A ,
+, sobre las zonas : > ..... ........ ;
+: señalizadas  ' Indicador de  :
+: conexiónred  :
+Volver a la NE
+pantalla Permite |
+anterior cambiarde  '
+aplicación
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 24 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+6.3.2. Principales funcionalidades personal de reparto
+
+Tras introducir nuestro usuario y contraseña, se muestra la pantalla de acceso a la aplica-
+ción. Aparecerá la pantalla principal y elegimos: turno, sección y salida.
+
+En el menú principal se muestran diferentes ventanas:
+
+USE DE PRUEBAS 1
+Seccion: 2001 Tumo: M Salida: 1
+
+PR ¿8%
+
+py E Alta Unidad
+
+e Recepción de agrupaciones
+
+OB Causas de devolucion
+
+salir de la aplicación
+
+Esta herramienta permite al personal de reparto asignar los envíos a la sección de reparto,
+realizar las entregas y efectuar la liquidación una vez que haya finalizado el reparto y esté
+de nuevo en la unidad.
+
+6.3.3. Aplicaciones dispositivo PDA
+Distribución
+Hera
+
+Es la aplicación que utiliza el personal de reparto para la admisión de envíos y prestación de
+servicios. Para atender a cada nuevo cliente, se accede a Hera dentro del portal de aplica-
+ciones de la PDA. En el menú principal se muestran accesos directos a las funcionalidades
+más habituales.
+
+(162) O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 25 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+Se accede al punto de menú de cada operación que
+solicite el cliente, se cumplimentan los campos que
+se requieran y se siguen las instrucciones que se
+muestran en la pantalla de los dispositivos (infor-
+mación para comunicar a los clientes, mensajes de
+aviso, etc.).
+
+Una vez concluidas todas las operaciones del clien-
+te, se accede a la bolsa o carrito para cobrar el
+(5 Venta de productos importe total. No obstante, en algunas operaciones
+
+j es necesario gestionar los importes (cobro o pago)
+individualmente, sin que supongan variación de la
+
+E Contratar servicios bolsa.
+
+Al finalizar la jornada de trabajo, siempre que se
+haya accedido a Hera, es necesario cerrar la caja,
+O) 0101) aunque no se haya realizado ninguna operación.
+
+Localizador Preregistrados
+
+“CORREOS
+
+App de registro
+
+Obteniendo listado de vehículos...
+
+En el portal de aplicaciones de la PDA Pulsando sobre el icono MILLA
+aparece el icono MILLA se abre la aplicación
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. G
+
+[[ página 26 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+pS Y 4090
+
+OS Selecciona tu vehiculo
+
+1234-BCD +
+KANGOO
+
+5678-FGH
+NV250
+
+Lo primero que se muestra es la relación de vehículos asignados para la Unidad del Usuario.
+El último vehículo utilizado por el usuario está marcado con el icono de una estrella.
+
+Una vez seleccionado el vehículo que se va a emplear, se solicita registrar el kilometraje
+de inicio. Por defecto, aparece el kilometraje registrado para el último trayecto realizado; si
+fuese necesario, se debe actualizar, y a continuación se pulsa «Terminar».
+
+S Y 4 Ús
+
+€ Introduce los Km actuales
+
+Cuenta kilómetros Envío correcto
+123
+
+(164) O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 27 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+A la vuelta del reparto, se repite la misma operación, informándose en este caso el kilo-
+metraje de fin de trayecto. Al registrar el kilometraje de inicio, el vehículo queda bloqueado
+para que otros usuarios no puedan seleccionarlo. El vehículo se desbloqueará cuando se
+registre el kilometraje final (o en su defecto al día siguiente). Por lo tanto es importante que
+siempre se haga un registro de inicio y otro de fin.
+
+Futura operativa en la PDA
+
+Optimizar los procesos de trabajo y mejorar las herramientas que utilizan nuestros emplea-
+dos y empleadas en su desempeño diario son importantes iniciativas que pueden ayudar
+para que nuestros clientes perciban un servicio de calidad.
+
+Para avanzar en esta línea, se han aplicado mejoras en las PDA que utiliza el personal de
+reparto y que van desde la incorporación de nuevos dispositivos más modernos y con me-
+jores prestaciones, hasta el cambio en la aplicación donde se realizan todos los procesos
+de reparto, que pasa de TALOS a la nueva aplicación CORE.
+
+Algunas de la mejoras implican la reorganización de las diferentes pantallas y menús para
+realizar los procesos de asignación, reparto y fin de reparto.
+
+Oficinas
+
+Talina
+
+Las Oficinas cuentan con terminales portátiles (PDA), como los que se usan en las unidades
+de distribución, para tratar los envíos a través de la aplicación TALINA.
+
+Admisión: únicamente pueden ser objeto de admisión tres modalidades de envíos prerre-
+gistrados:
+
+. Cartas Certificadas de Franqueo Pagado.
+. Notificaciones de Franqueo Pagado.
+e Voto por Correo.
+
+Entrega: para poder entregar un envío con la PDA, deberá cumplir estos requisitos:
+
+e El envío tiene que estar dado de alta en la unidad.
+e El envío no puede tener importes asociados (sin reembolso).
+e El envío no puede llevar asociado a la entrega el escaneo de documentación.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 28 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+Para poder utilizar una PDA en Oficina, todo usuario debe contar con los siguientes permisos:
+
++ SIGUA - Portal de gestión de usuarios y accesos: solicitar el acceso a través de SIGUA
+de la PDA.
+
++ SGIE - Configuración de Usuario: modificar el perfil del usuario para poder utilizar la PDA,
+activando el check PDA.
+
+Para conectar la PDA se pulsa en el botón situado en lateral izquierdo y aparece la siguiente
+pantalla:
+
+Correos
+_—_—
+
+CORREOS
+
+a Usuario
+
+A Contraseña
+
+“2EORREOS
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 29 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+NONE
+
+Pulsar sobre el botón «Marco». La PDA solicitará la identificación del usuario.
+Introducir Usuario Corporativo (CxxxxXXx).
+
+Introducir la Contraseña.
+
+Pulsar «Aceptar».
+
+Talina: Aplicación de entrega, admisión y alta en almacén.
+
+6.4. Aplicaciones gestión de responsable
+
+6.4.1. SIGUA
+
+La aplicación SIGUA garantiza que solo aquellas personas que previamente han sido autori-
+zadas puedan acceder a los sistemas corporativos. Es el sistema que vertebra los permisos
+y supervisa jerárquicamente los accesos a las aplicaciones.
+
+Los usuarios utilizan este servicio para gestionar:
+
+El alta de identidades, ya sean de empleados cuyo alta aún no han sido informado por
+RR. HH. o no empleados (externos, o usuarios no personales).
+
+La solicitud y revocación de accesos para identidades ya existentes, ya sea para sí mismo
+O para que los Responsables de Grupos de Trabajo (RGT) puedan pedir acceso para las
+personas a su cargo.
+
+La asignación de responsables a usuarios y viceversa.
+
+La gestión diversos códigos (Codired) necesarios para el correcto funcionamiento de
+aplicaciones de negocio.
+
+Modificación de los datos personales ya sea para sí mismo o para que los Responsables
+de Grupos de Trabajo (RGT) puedan modificar los de los usuarios a su cargo.
+
+La revocación o activación de usuarios a cargo de un RGT.
+
+La gestión y consulta del estado de las peticiones solicitadas por el usuario.
+
+La solución automatiza el proceso de solicitud y aprobación de peticiones por parte de los
+responsables implicados y ejecución de estas una vez ha sido confirmada la legitimidad
+de la petición.
+
+La aplicación cuenta con diferentes roles:
+
+Usuario peticionario: usuario que accede a la aplicación para solicitar alguna funcionali-
+dad implementada. El usuario puede hacer una petición para sí mismo o para otros usua-
+rios de los que él es responsable. El hecho de que un usuario esté autorizado a reclamar
+un acceso de los gestionados por la aplicación tan solo concede la opción de solicitarlo.
+La petición debe ser revisada y aprobada por su responsable o el propietario del acceso
+solicitado como requisito indispensable para que la petición sea cursada.
+
+RGT: responsable de Grupos de Trabajo. Es el usuario encargado de aprobar o denegar
+una solicitud iniciada por un usuario peticionario del que él es responsable. Además de
+resolver las peticiones, los usuarios RGT pueden a su vez ser usuarios peticionarios y
+solicitar acceso para sí mismos o para los usuarios a su cargo.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+Glosario
+Codired: Código
+identificador
+
+de unidades de
+negocio.
+
+[[ página 30 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+Glosario
+
+CRM (Customer
+Relationship
+Management):
+Gestión de las
+Relaciones con el
+Cliente.
+
++ RC: responsable de Codired de Distribución. Usuario que es RGT y además tiene asignado
+algún Codired de Distribución.
+
++ Propietario del Activo de Información (PAI): se trata de un usuario propietario de un rol
+y como tal debe aprobar o denegar la solicitud de asignación o desasignación de este a
+un usuario.
+
++ Administrador Local (AL): usuario encargado de llevar a cabo una operación manual si
+la petición así lo requiere.
+
++ Usuario con el rol Solicitantes de Externos: usuario que tiene asignado un rol que le
+permite llevar a cabo el alta de nuevos usuarios de tipo externo.
+
++. Administradores de Sistema de Gestión de Identidades (AGI): los usuarios que pertene-
+cen al grupo de administradores del sistema de gestión de identidades con acceso total
+a la aplicación, por un lado podrá consultar y en algunos casos gestionar peticiones.
+
+6.4.2. CRM. Gestión de relaciones con el cliente
+
+CRM hace referencia tanto a la estrategia de negocio focalizada hacia el cliente como a
+todas las aplicaciones informáticas (tanto software como hardware) necesarias para pro-
+cesar, analizar y exponer la información resultante, así como para medir y retroalimentar
+la estrategia de negocio desarrollada. Así, el concepto CRM incluye desde el desarrollo
+de los modelos de gestión comercial, pasando por la integración de la información, hasta
+el análisis de los datos para convertirlos en información útil para la toma de decisiones y
+soporte estratégico de la acción comercial.
+
+La principal funcionalidad de CRM es disponer en cualquier momento de toda la información
+sobre cualquier cliente, para satisfacer sus necesidades y permitir unas mejores estrate-
+gias comerciales. CRM debe permitir tener una visión única del cliente y transformar cada
+experiencia del cliente en una ventaja de negocio.
+
+En el CRM, como herramienta, se pueden distinguir dos tipos de datos: datos maestros y
+datos transaccionales.
+
+A) Datos maestros
+
+Se trata de los datos esenciales para la realización de operaciones. Son datos que no varían
+en el tiempo, como, por ejemplo, el nombre de un cliente, su código de identificación, su
+dirección, los productos o las personas de contacto.
+
++ Cliente: se trata de un interlocutor con el que mantenemos una relación de prestación de
+servicios, ya esté basada en un contrato, una tarjeta o incluso pago al contado.
+
+. Prospecto: no es un cliente de Correos pero tiene potencial de consumo y puede tener
+interés en nuestros productos. Se le identifica como «cliente potencial».
+
+. Contacto: un contacto corresponde a la persona de contacto que tenemos en un cliente
+o prospecto. El contacto siempre está relacionado con el cliente o prospecto.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 31 de 33 · ocr ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+B) Datos transaccionales
+Son los datos que indican qué interacciones se realizan con los clientes:
+
++ Actividad: las actividades en CRM permiten al gestor de ventas planificarse y prepararse
+de una manera más sencilla y eficaz. A través de la actividad se pueden registrar tareas
+que se relacionarán con el cliente o contacto.
+
+* Oportunidad: la oportunidad refleja la negociación en curso. Cada oportunidad de ne-
+gocio que tengamos con cada uno de nuestros clientes almacenará toda la información
+relacionada con cada intento de cerrar un trato, con un cliente ya existente o con un
+prospecto.
+
++ Oferta: la oferta se emplea para dejar constancia de los precios y condiciones comer-
+ciales de prestación de servicio propuestos por Correos para los servicios y productos
+ofrecidos al cliente/prospecto, hacer un seguimiento de las etapas a completar para
+cerrar el negocio, programar actividades para ejecutar en un momento determinado,
+adjuntar documentos y generar las ofertas correspondientes, y finalmente informar la
+causa de éxito o pérdida del negocio. Una oportunidad puede tener una o varias ofertas
+asociadas.
+
++ Lead: un lead es una operación comercial que se utiliza para describir, almacenar, actua-
+lizar y gestionar el posible interés de un cliente o prospecto. Un lead puede considerarse
+como una «preoportunidad». Mientras que la oportunidad supone un negocio tangible, el
+lead es una transacción que permite determinar si existe una oportunidad de negocio.
+
+. Contrato: el contrato en CRM se emplea para reflejar un acuerdo entre Correos y el
+cliente. En el contrato se detallarán los productos y servicios requeridos por el cliente,
+los precios y las condiciones aplicadas.
+
+C) Ciclo de ventas
+Conceptualmente, podemos distinguir tres fases en el ciclo de ventas comercial:
+
++ Preventa: incluye el conjunto de actividades realizadas encaminadas a captar clientes
+nuevos. Como resultado de estas acciones se crearán oportunidades en CRM, donde
+quedarán registradas tanto las actividades como los datos correspondientes a propuestas
+realizadas (ofertas).
+
++ Venta: el proceso de venta incluye la negociación y la contratación. Implica la formaliza-
+ción de los acuerdos alcanzados con el cliente y, como resultado, se crearán el contrato
+y los anexos, documentos reflejo de estos acuerdos.
+
++ Postventa: seguimiento del Cliente, sus consumos, incidencias, nuevas necesidades, etc.
+
+El ciclo de ventas en Correos es un proceso continuo, en el que, tras la captación del cliente
+y la firma del correspondiente acuerdo, se deben realizan las actividades de mantenimiento
+necesarias para procurar conservarlo, así como detectar nuevas necesidades y convertirlas
+en nuevas oportunidades de negocio.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (160)
+
+[[ página 32 de 33 · ocr ]]
+
+TEMA 6. Herramientas.
+
+Funciones y utilidad
+
+Acciones
+
+realizadas a los
+Indica si existe una
+
+== ER
+oportunidad de
+
+Posibilidad de
+Procesode E '
+D) Visión 360
+
+Para conseguir disponer de una visión completa del cliente, sea cual sea el canal por donde
+se dirija a Correos, CRM se integra con las herramientas corporativas:
+
+ó Geservus
+
+SAP Ecofin )
+SAP BW 0) O) Correo electrónico
+Comandia (0) (0) Gestión de usuarios
+
+Firma electrónica O—O0— Pr Atención al cliente
+
+Portal del Cliente
+
+El CRM de Correos se adapta continuamente a las necesidades de la organización, por lo
+que el número de aplicaciones con que se integra se incrementa constantemente.
+
+6.4.3. SIE (información estadística)
+
+La aplicación estadística SIE permite la consulta de una serie de informes. En ella se pue-
+den consultar tanto los datos grabados en el día como acceder a los de cada fecha y a las
+respectivas acumulaciones mensuales y anuales.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+
+[[ página 33 de 33 · ocr rota ]]
+
+TEMA 6. Herramientas. Funciones y utilidad
+
+y
+
+6.4.4. GPVO (Suministros)
+
+Se trata del Sistema de Gestión de Productos de Venta en Oficina (GPVO). Esta aplicación
+permite conocer la información relacionada con las liquidaciones y redistribuciones pen-
+dientes de la oficina.
+
+Una vez realizada la comprobación de la productos de la oficina es necesario acceder a la
+aplicación de suministros-GPVO a través del acceso habilitado en [NEFARENE NECE BDO
+
+mas externos > Herramientas oficina > GPVO.
+
+El sistema abre la aplicación desde la opción de INICIO, donde se puede ver la información
+relacionada con las liquidaciones y redistribuciones pendientes de la oficina. Las oficinas
+consultan diariamente este portal para revisar si tienen redistribuciones pendientes.
+
+El GPVO permite conocer los datos de los productos, las remesas, las redistribuciones, los
+envíos, las regularizaciones, los pedidos extraordinarios las liquidaciones y las incidencias.
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. Q

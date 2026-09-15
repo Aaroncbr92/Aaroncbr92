@@ -1,0 +1,169 @@
+#!/usr/bin/env python3
+"""Volcado del «documento de referencia» de Correos, que va sin capa de texto.
+
+**Por qué existe.** El temario de Correos no se estudia en el BOE: se estudia en
+el documento que la propia empresa publica, mil trescientas treinta y cuatro
+páginas repartidas en doce PDF. Y ese documento **está compuesto como dibujo
+vectorial**: sus letras son trazos, no caracteres, de modo que `pymupdf` devuelve
+la página vacía y **las lentes del proyecto se quedan sin nada contra lo que
+contrastar**. Un temario escrito sobre una fuente que no se puede citar es
+exactamente lo que el apartado 10 del manual llama el fallo que no da error.
+
+**Lo que hace.** Página a página, y en este orden:
+
+  0. **Si la capa de texto está corrupta, se descarta y se reconoce.** Un PDF puede
+     traer texto y que ese texto sea basura porque la fuente incrustada mapea mal
+     los caracteres. Se detecta por la ortografía y se avisa en el rótulo de la
+     página, que entonces dice `ocr rota`. Con `--ocr` se fuerza el reconocimiento
+     de todas las páginas, sin mirar la capa.
+  1. **Si la página trae capa de texto sana**, se toma tal cual. Son 225 de las 1.334,
+     y salen mejor que cualquier reconocimiento óptico.
+  2. **Si no la trae**, se rasteriza a 300 puntos por pulgada y se pasa por
+     `tesseract -l spa`. A esa resolución la tipografía del documento —limpia,
+     de buen contraste y a una o dos columnas— se lee sin dificultad. **Se
+     midieron 350, 300 y 250**: entre 300 y 350 no cambia ni un carácter del
+     resultado y el reconocimiento tarda la mitad, así que 300 es el punto
+     donde deja de valer la pena subir.
+
+**Cada página va rotulada en el volcado** con su número dentro del PDF y con el
+origen del texto, `texto` o `ocr`. No es decoración: **un tema que cite este
+documento tiene que poder decir de qué página sale cada cita**, y quien repase
+un pasaje reconocido ópticamente necesita saber que lo es antes de fiarse.
+
+**Lo que este volcado NO es.** No es el documento. El reconocimiento óptico se
+equivoca, y se equivoca más en las tablas, en los rótulos sobre fondo de color y
+en las cifras sueltas. **Todo dato que un tema tome de una página `ocr` se
+comprueba a la vista sobre la página original antes de escribirlo**, que es la
+misma regla que el proyecto aplicó a las plantillas ilegibles y a la página 59
+del consenso de sensibilidad química múltiple.
+
+Uso:
+    python3 herramientas/correos_dump.py <entrada.pdf> <salida.txt> [--dpi 350]
+"""
+import os
+import subprocess
+import re
+import sys
+import tempfile
+
+import pymupdf
+
+# Por debajo de este número de caracteres la página se considera sin capa de
+# texto. No se pone en cero porque **muchas páginas traen sólo el número de
+# página o el rótulo de copyright como texto de verdad** y todo lo demás como
+# dibujo: darlas por buenas dejaría el cuerpo fuera del volcado sin avisar.
+MINIMO_TEXTO = 200
+FORZAR_OCR = False
+
+# **Una capa de texto puede existir y ser basura, y eso es peor que no tenerla.**
+# En los temas 4, 6 y 11 el PDF sí trae texto, pero **la fuente incrustada mapea
+# mal los caracteres**: «servicios» sale «sel'Ylclos», «Cliente» sale «Cllente»,
+# «Oficinas» sale «Oflclnae» y «DOI» sale «001». El volcado prefería esa capa por
+# ser más larga que el mínimo, y se llevaba la basura entera **sin avisar**, que
+# es exactamente el fallo que no da error.
+#
+# **La señal que lo delata es ortográfica y no falla**: el defecto cambia la i
+# por una ele, y **el español no admite una ele entre dos consonantes ni una ele
+# doble detrás de consonante**. «Soluclones dlgltales», «Fllatella», «Cllente» y
+# «Oflclnas» no son palabras: son la ele que era una i. Dos de ellas en una
+# página bastan para desconfiar de la capa entera y reconocerla ópticamente, que
+# es la fuente que este proyecto sabe comprobar.
+#
+# **La prueba se hace sólo sobre la capa de texto, nunca sobre lo reconocido.**
+# Un volcado óptico tiene ruido —cadenas como «DDL» o «LRD» que salen de las
+# cenefas— y con esta regla saldría marcado entero sin estarlo.
+CAPA_ROTA = re.compile(
+    r"[bcdfgjkmnpqrstvxzñ]l(?=[bcdfgjkmnpqrstvxzñ])"
+    r"|\bl(?=[bcdfgjkmnpqrstvxzñ])", re.I)
+UMBRAL_ROTA = 2
+
+# **La misma fuente rota tiene una segunda forma, y la primera regla no la ve.**
+# La portada y el índice del tema 12 traían capa de texto y decían «Proteccl6n de
+# datos», «Prevencl6n de blanq,ueo de capltales» y «Segurldad de la lnformacl6n y
+# clbersegurldad». Ahí el defecto **no sólo cambia la i por una ele**: cambia
+# también **la ó por un seis** y **la u por una coma**. «Proteccl6n» no dispara la
+# regla de arriba porque **detrás de la ele hay una cifra, no una consonante**, de
+# modo que el volcado se quedó con esas dos páginas corruptas **sin avisar**: el
+# índice del tema, que es justo lo que un temario copia para ordenar sus
+# epígrafes. Es el mismo fallo que no da error, un piso más abajo.
+#
+# **Dos señales ortográficas más, y las dos son imposibles en español**: una cifra
+# **encerrada entre dos letras minúsculas dentro de una palabra** —«cl6n», «cl6b»—,
+# y una **q que no lleva u detrás**. Se comprueban sin ignorar mayúsculas, porque
+# en mayúsculas sí hay códigos legítimos —«PW427WO», «CD14»— y marcarlos sería
+# rechazar capas sanas.
+CAPA_ROTA_CIFRA = re.compile(r"[a-zñáéíóúü]\d[a-zñáéíóúü]|q(?=[^u])")
+
+
+def ocr(pagina, dpi):
+    """Reconoce una página rasterizándola a `dpi`."""
+    pix = pagina.get_pixmap(dpi=dpi)
+    with tempfile.TemporaryDirectory() as tmp:
+        png = os.path.join(tmp, "p.png")
+        pix.save(png)
+        # --psm 3 es la segmentación automática con detección de columnas: el
+        # documento alterna página a una columna con página a dos, y fijar
+        # --psm 6 —«un bloque uniforme»— pega los renglones de las dos columnas
+        # en una sola línea y destroza las frases.
+        r = subprocess.run(["tesseract", png, "-", "-l", "spa", "--psm", "3"],
+                           capture_output=True, text=True)
+        return r.stdout
+
+
+def main():
+    if len(sys.argv) < 3:
+        sys.exit(__doc__)
+    entrada, salida = sys.argv[1], sys.argv[2]
+    dpi = 300
+    global FORZAR_OCR
+    FORZAR_OCR = "--ocr" in sys.argv
+    if "--dpi" in sys.argv:
+        dpi = int(sys.argv[sys.argv.index("--dpi") + 1])
+
+    doc = pymupdf.open(entrada)
+    trozos = [
+        "# Volcado de %s" % os.path.basename(entrada),
+        "",
+        "Generado con `herramientas/correos_dump.py`. **El documento original va sin",
+        "capa de texto en la mayor parte de sus páginas**, así que lo que sigue es en",
+        "parte una transcripción y en parte un **reconocimiento óptico a %d puntos por"
+        % dpi,
+        "pulgada**. Cada página dice de cuál de las dos cosas viene.",
+        "",
+        "**Lo reconocido ópticamente no es el documento.** Todo dato que un tema tome de",
+        "una página marcada `ocr` se comprueba a la vista sobre la página original antes",
+        "de escribirlo.",
+        "",
+    ]
+    n_ocr = n_txt = n_rotas = 0
+    for i in range(doc.page_count):
+        pagina = doc[i]
+        t = pagina.get_text().strip()
+        rota = (len(CAPA_ROTA.findall(t))
+                + len(CAPA_ROTA_CIFRA.findall(t))) >= UMBRAL_ROTA
+        if len(t) >= MINIMO_TEXTO and not rota and not FORZAR_OCR:
+            origen = "texto"
+            n_txt += 1
+        else:
+            t = ocr(pagina, dpi).strip()
+            origen = "ocr rota" if rota else "ocr"
+            n_ocr += 1
+            if rota:
+                n_rotas += 1
+        trozos.append("\n[[ página %d de %d · %s ]]\n" % (i + 1, doc.page_count, origen))
+        trozos.append(t)
+        if (i + 1) % 25 == 0:
+            print("  ... %d/%d" % (i + 1, doc.page_count), flush=True)
+
+    with open(salida, "w", encoding="utf-8") as fh:
+        fh.write("\n".join(trozos) + "\n")
+    print("· %s · %d páginas (%d de texto, %d reconocidas) · %d KB"
+          % (salida, doc.page_count, n_txt, n_ocr,
+             os.path.getsize(salida) // 1024))
+    if n_rotas:
+        print("  · %d páginas traían capa de texto CORRUPTA y se han reconocido"
+              % n_rotas)
+
+
+if __name__ == "__main__":
+    main()

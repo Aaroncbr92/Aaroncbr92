@@ -1,0 +1,650 @@
+# Examen de Correos del 7 de mayo de 2023 · modelo B
+
+Cuadernillo `Cuestionario-REP_B_07052023.txt` cruzado con su plantilla oficial.
+**Las anuladas van dichas**: su enunciado es material de estudio, pero su
+respuesta no calibra nada.
+
+**1.** En las unidades de distribución, ¿se dan de alta en unidad, diariamente, todas las notificaciones recibidas en el día que no salgan a reparto?
+- **A.** Sí, diariamente hay que dar de alta en unidad todas las notificaciones recibidas en el día que no salgan a reparto ←
+- **B.** No, las notificaciones que no salgan a reparto no hay que darlas de alta en unidad
+- **C.** Sólo se dan de alta en unidad una vez a la semana
+- **D.** Se dan de alta si así lo determina el responsable de la unidad
+
+**2.** ¿Qué es Citypaq?
+- **A.** Citypaq es un proyecto internacional en el que participa Correos para la investigación de rutas de reparto más eficientes en las grandes ciudades.
+- **B.** Citypaq es una gama de productos postales que ofrece Correos para entregas urgentes en las ciudades
+- **C.** Citypaq es el nuevo nombre que Correos le da a sus oficinas de atención al público
+- **D.** Es una solución que tiene Correos para recoger, enviar o devolver paquetes a través de taquillas inteligentes instaladas en lugares de tránsito. ←
+
+**3.** En el ámbito de un centro logístico, ¿cuál es el significado de las siglas OCR?
+- **A.** Se trata de la oficina de control de reembolsos, que se encarga del tratamiento y control contable de ese tipo de envíos.
+- **B.** Es un sistema de reconocimiento óptico de caracteres, utilizado en el proceso automatizado de clasificación de envíos. ←
+- **C.** Es un sistema de rotación de cargas para maximizar la ocupación de los transportes entre los centros de tratamiento.
+- **D.** Es un sistema de clasificación manual utilizado cuando las máquinas de clasificación no han direccionado correctamente los envíos.
+
+**4.** ¿A través de qué herramienta se realiza la admisión de los envíos procedentes de las Entidades Colaboradoras de Correos?
+- **A.** Directamente en IRIS
+- **B.** A través del Portal de Entidades Colaboradoras (PEC), con acceso desde IRIS ←
+- **C.** En SGIE
+- **D.** Ninguna de las respuestas anteriores es correcta
+
+**5.** ¿A qué se debe principalmente la expansión del negocio internacional del Grupo Correos en los últimos años?
+- **A.** A las empresas compartidas KCG eCommerce Solutions y K Parcel, para operar en China
+- **B.** A Correos Express Portugal
+- **C.** A las Oficinas de Cambio Extraterritoriales (ETOE)
+- **D.** Todas las respuestas anteriores son correctas ←
+
+**6.** En el modelo de atención al cliente de Correos nuestro lema es… (señale la respuesta correcta):
+- **A.** Cercanía, calidad y compromiso ←
+- **B.** Cordialidad, cercanía y compromiso
+- **C.** Calidad, constancia y compromiso
+- **D.** Cercanía, constancia y calidad
+
+**7.** ¿En qué centro de tratamiento de Barcelona se realizan las devoluciones de paquetería de grandes clientes?
+- **A.** CTA San Cugat
+- **B.** CLI Barcelona ←
+- **C.** CTA Colón
+- **D.** CTP El Prat
+
+**8.** ¿En qué consiste un burofax premium plus?
+- **A.** Es un burofax que se entrega en las 2 horas siguientes a su imposición
+- **B.** Es un burofax que tiene incluido el acuse de recibo y la certificación posterior
+- **C.** Es un burofax que tiene incluido la prueba de entrega electrónica y la certificación ←
+- **D.** Es un burofax que se entrega en las 2 horas siguientes a su imposición y tiene incluido el acuse de recibo
+
+**9.** ¿Cómo se procede en las unidades de distribución con los envíos recibidos que tienen modalidad de entrega en oficina?
+- **A.** Se llevan a domicilio con el resto de los envíos que tienen entrega en domicilio
+- **B.** Se cursan a la oficina correspondiente en el primer enlace disponible, diferenciados de los avisados. ←
+- **C.** Se cursan a la oficina correspondiente mezclados con los envíos avisados
+- **D.** Se devuelven al remitente
+
+**10.** En el ámbito de distribución, ¿cuál de las siguientes aplicaciones no está incluida en la PDA?
+- **A.** MILLA
+- **B.** TALOS / CORE
+- **C.** IRIS ←
+- **D.** HERA
+
+**11.** En el ámbito de la logística, ¿qué se entiende por picking?
+- **A.** El término picking es utilizado en la logística para designar la tarea de expedir los pedidos
+- **B.** El término picking es utilizado en la logística para designar la estratégica tarea de preparación de pedidos ←
+- **C.** El término picking es utilizado en la logística para designar la tarea de ubicar los productos en el almacén
+- **D.** El término picking es utilizado en la logística para designar la tarea de recepcionar la mercancía en el almacén
+
+**12.** ¿Cómo se denomina el programa que permite adquirir formación y experiencia en posiciones de Dirección de Oficinas y Jefaturas de Unidad?
+- **A.** Programa de Dirección
+- **B.** Programa Clic
+- **C.** Programa Correos en femenino
+- **D.** Programa de Sustituciones ←
+
+**13.** ¿Hasta qué año atribuye la Ley Postal la condición de operador designado para prestar el servicio postal universal a la Sociedad Estatal Correos y Telégrafos S.A, S.M.E? · **ANULADA**
+- **A.** La Ley Postal no especifica ningún año
+- **B.** 2024
+- **C.** 2025
+- **D.** 2026
+
+**14.** ¿Cuál de las siguientes modalidades de giros se paga a través de SGIE?
+- **A.** Giros Inmediatos
+- **B.** Giros dirigidos a un apartado de Correos ←
+- **C.** Giros UPU
+- **D.** Giros avisados por las unidades de reparto
+
+**15.** En materia de prevención del blanqueo de capitales y financiación del terrorismo, señale, de las siguientes opciones, cuál contiene una función de los empleados de una oficina o una unidad de distribución:
+- **A.** Presentar al representante de la Comisión un borrador para la declaración mensual de operaciones (DMO)
+- **B.** Controlar el archivo de las documentaciones relativas a clientes y elaborar una memoria anual de la normativa de prevención de blanqueo de capitales.
+- **C.** Recabar y elaborar las informaciones requeridas por el SEPBLAC y otras autoridades en materia de prevención de blanqueo de capitales.
+- **D.** Realizar la identificación y verificación de los clientes, así como la correcta introducción de sus datos y el escaneado de la documentación aportada en los sistemas informáticos. ←
+
+**16.** En las Unidades de Admisión Masiva, ¿cuáles son los ámbitos de distribución definidos para las cartas?
+- **A.** Local, destino 1 (capitales de provincia y grandes poblaciones) y destino 2 (resto) ←
+- **B.** Local, destino 1 (principales capitales de provincia) y destino 2 (resto de destinos)
+- **C.** Local, destino 1 (capitales de provincia) y destino 2 (resto)
+- **D.** Local y resto
+
+**17.** En un centro de tratamiento, ¿en qué configuración automática se realiza la admisión de certificados y notificaciones?
+- **A.** En SCP
+- **B.** En SCG
+- **C.** En IRV ←
+- **D.** En FSM
+
+**18.** ¿Qué características tienen las Notificaciones?
+- **A.** Se entregan bajo firma, tienen 1 intento de entrega y, como regla general, permanecen 7 días en lista
+- **B.** Se entregan bajo firma, tienen 2 intentos de entrega y, como regla general, permanecen 15 días en lista
+- **C.** Se entregan bajo firma, tienen 2 intentos de entrega y, como regla general, permanecen 7 días en lista ←
+- **D.** Se entregan bajo firma, tienen 1 intentos de entrega y, como regla general, permanecen 15 días en lista
+
+**19.** ¿Cuál de los siguientes trámites con la DGT puede realizar un rural mediante la PDA?
+- **A.** El cambio de titularidad de vehículos
+- **B.** Tramitar la baja de un vehículo
+- **C.** Solicitar informes de vehículos
+- **D.** Adquirir el distintivo medioambiental de un vehículo ←
+
+**20.** En Correos, ¿en qué aplicación se puede consultar la información estadística?
+- **A.** SIE ←
+- **B.** SGIE
+- **C.** SEDI
+- **D.** SGTC Página 2 de 13 - REP/B B
+
+**21.** ¿Cuál de las siguientes organizaciones no es una Unión Restringida de la Unión Postal Universal (UPU)?
+- **A.** Unión Postal de las Américas, España y Portugal (UPAEP)
+- **B.** Unión Postal del Mediterráneo (PUMed o EuroMed)
+- **C.** International Post Corporation (IPC) ←
+- **D.** Asociación de operadores postales públicos europeos (PostEurop)
+
+**22.** ¿Qué función proporciona la herramienta GANES?
+- **A.** Es una aplicación informática para entregar paquetes en oficinas
+- **B.** Es una herramienta virtual de Correos para generar albaranes de entrega en formato pdf ←
+- **C.** Es una aplicación informática de gestión de activos
+- **D.** Ninguna de las respuestas anteriores es correcta
+
+**23.** En Madrid, ¿cuál es el centro internacional encargado de la expedición de todo el correo de exportación?
+- **A.** El CTI de Barajas ←
+- **B.** El CCP de Barajas
+- **C.** El CI3 de Barajas
+- **D.** Rampa 7
+
+**24.** Con carácter general, ¿de cuántos intentos de entrega consta una carta certificada nacional?
+- **A.** Consta de 2 intentos de entrega, antes de devolvérsela al remitente
+- **B.** Conta de 1 intento de entrega, antes de derivarla a la oficina de referencia ←
+- **C.** Consta de 3 intentos de entrega, antes de devolvérsela al remitente
+- **D.** Conta de 3 intentos de entrega, antes de derivarla a la oficina de referencia
+
+**25.** En una unidad de distribución, ¿cuál de las siguientes tareas no es de carácter colectivo?
+- **A.** El embarriado ←
+- **B.** La descarga
+- **C.** La apertura
+- **D.** La clasificación por códigos
+
+**26.** En las unidades de distribución, ¿para cuál de los siguientes productos no es obligatorio recoger la firma en la PDA durante el proceso de entrega registrada?
+- **A.** Telegrama
+- **B.** Burofax
+- **C.** Paq estándar ←
+- **D.** Notificaciones
+
+**27.** Para un Paq Today, al que no se le aplica el peso volumétrico, ¿cuál es el peso real máximo permitido?
+- **A.** 30 kg
+- **B.** 40 kg
+- **C.** 7 kg
+- **D.** 5 kg Preguntas psicotécnicas: Un científico experto en Natalidad y Fertilidad Animal está interesado en conocer los nacimientos de ovejas dentro de las comarcas de cierta Comunidad Autónoma a lo largo de los años. Concretamente ha estudiado las comarcas de Villamayor, Castillar y Cantar del Lobo. De acuerdo con la información recopilada, conteste a las siguientes preguntas: Página 3 de 13 - REP/B ←
+
+**28.** ¿Cuál es la diferencia de nacimientos entre Castillar y Cantar del Lobo en el año 2019?
+- **A.** 350 nacimientos
+- **B.** 300 nacimientos ←
+- **C.** 250 nacimientos
+- **D.** 400 nacimientos
+
+**29.** Del total de nacimientos producidos en 2021, ¿Qué porcentaje de ellos corresponde a Villamayor?
+- **A.** 20 %
+- **B.** 25 %
+- **C.** 50 % ←
+- **D.** 40 %
+
+**30.** ¿Por cuantos nacimientos de ovejas supera Villamayor a Cantar del Lobo en 2022?
+- **A.** 230 nacimientos
+- **B.** 380 nacimientos
+- **C.** 250 nacimientos ←
+- **D.** 130 nacimientos
+
+**31.** Los envíos con seguimiento y trazabilidad llevan un código de barras cuyos dos primeros dígitos indican el producto. Si los dos primeros dígitos del código de barras son L3, ¿de qué producto se trata?
+- **A.** Paquete Premium
+- **B.** Paquete Estándar
+- **C.** Carta certificada urgente
+- **D.** Logística inversa ←
+
+**32.** En una Unidad de Admisión Masiva, los albaranes admitidos por nube de puntos, ¿a través de qué herramienta se han confeccionado?
+- **A.** Herramienta ADO
+- **B.** Herramienta GANES ←
+- **C.** La web de Correos
+- **D.** Ninguna de las respuestas anteriores es correcta
+
+**33.** En la actividad de importación de envíos postales con mercancía, Correos, como operador postal, actúa como representante aduanero y además… (señale la respuesta incorrecta):
+- **A.** No se responsabiliza de los tributos cobrados a los destinatarios ←
+- **B.** Somete los envíos al control de la aduana
+- **C.** Somete los envíos al control del resto de autoridades competentes (sanitarias, farmacéuticas, etc.)
+- **D.** Actúa en nombre del destinatario ingresando en la Agencia Tributaria los tributos cobrados
+
+**34.** En el trabajo de análisis realizado sobre la atención al cliente, ¿qué se entiende por "calidad percibida"?
+- **A.** Hace referencia a las auditorías de calidad, ya sean a nivel interno o en los proveedores externos
+- **B.** Se refiere a las auditorías de calidad y al índice de satisfacción (ISC) que muestran los clientes en las respuestas a las encuestas de satisfacción que se les envía tras cada interacción.
+- **C.** Hace referencia al índice de satisfacción (ISC) que muestran los clientes en las respuestas a las encuestas de satisfacción que se les envía tras cada interacción. ←
+- **D.** Se trata de la calidad que percibimos que tienen nuestros servicios, valorada por los empleados internos
+
+**35.** En la configuración automática de no normalizado TOP (FLAT), ¿de qué color es el luminoso que indica que hay que alimentarla de bandejas vacías urgentemente?
+- **A.** Rojo
+- **B.** Amarillo
+- **C.** Naranja ←
+- **D.** Verde
+
+**36.** Cuál de siguientes afirmaciones acerca de la web Correos.com es correcta:
+- **A.** Correos.com es la página web de promociones para empleados
+- **B.** Correos.com es la página web institucional de la compañía, donde se reflejan la misión y la historia de Correos ←
+- **C.** Correos.com es la intranet de los empleados, donde el empleado de Correos se puede informar sobre las novedades de la compañía y acceder a aplicaciones.
+- **D.** Todas las respuestas anteriores son correctas
+
+**37.** Durante el embarriado en las unidades de distribución, ¿se debe priorizar el embarrie del contenido de la bolsa de alcance sobre el contenido del carro de reparto o cofre de moto?
+- **A.** No, siempre se prioriza el contenido del carro de reparto o cofre de moto
+- **B.** Sí, se prioriza el contenido de la bolsa de alcance ←
+- **C.** No es necesario priorizar ninguno de los dos
+- **D.** Depende del tipo de envíos que contengan Página 4 de 13 - REP/B B
+
+**38.** Indique cuál de las siguientes funcionalidades no es propia de SGIE para las unidades de distribución:
+- **A.** Gestión de estacionados
+- **B.** Buzón electrónico
+- **C.** Asignación a reparto
+- **D.** Consulta de apartados ←
+
+**39.** ¿Qué es Correos Logística?
+- **A.** Es la nueva línea de negocio de Correos que se encarga de la gestión de la cadena de suministro para las empresas que contraten el servicio. Permite integrar los procesos logísticos y de distribución a los clientes. ←
+- **B.** Es la nueva línea de negocio de Correos que permite realizar el transporte de productos a temperatura controlada.
+- **C.** Es la nueva línea de negocio de Correos que permite ofrecer soluciones de telecomunicaciones a los clientes
+- **D.** Es la nueva línea de negocio de Correos que se encarga de ofrecer soluciones de transporte de paquetería urgente.
+
+**40.** La convivencia e interacción entre personas con diferencias de género, generación, discapacidad, cultura, etc., que hacen a las personas únicas, se denomina:
+- **A.** Diversidad ←
+- **B.** Heterogeneidad
+- **C.** Inclusión
+- **D.** Tolerancia
+
+**41.** En relación con la estructura y organización del grupo Correos, señale cuál de las siguientes afirmaciones es correcta:
+- **A.** La Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. es la matriz del Grupo Correos
+- **B.** La Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. es una sociedad anónima de capital enteramente público.
+- **C.** Las respuestas A y B son incorrectas
+- **D.** Las respuestas A y B son correctas ←
+
+**42.** ¿En qué supuesto se puede enviar dinero a través de Western Union, en nombre de una tercera persona?
+- **A.** Con una autorización firmada por esa tercera persona
+- **B.** Aportando su DNI original
+- **C.** No se admiten envíos a nombre de un tercero ←
+- **D.** Si al cliente le hace una videollamada esa tercera persona y se identifica
+
+**43.** En materia de prevención del blanqueo de capitales, ¿cuál es el máximo órgano de dirección de Correos que ostenta las funciones y responsabilidades que establecen las leyes?
+- **A.** El Consejo de Dirección de Correos
+- **B.** La Comisión de Control
+- **C.** El representante ante el SEPBLAC
+- **D.** El Consejo de Administración ←
+
+**44.** En una Unidad de Admisión Masiva, ¿deben grabarse los albaranes el mismo día del depósito?
+- **A.** Sí ←
+- **B.** No, está en función de la carga de trabajo
+- **C.** No, pero no pueden pasar al mes siguiente
+- **D.** Sólo se graban en el día los albaranes con grandes cantidades de envíos
+
+**45.** ¿Cuál es el orden secuencial de los procesos en el área de clasificación automática de la Unidad de Productos Ordinarios (UPO) de un centro de tratamiento?
+- **A.** Preparación, alimentación, videocodificación y evacuación ←
+- **B.** Alimentación, videocodificación, preparación y evacuación
+- **C.** Videocodificación, preparación, evacuación y alimentación
+- **D.** Evacuación, alimentación, preparación y videocodificación
+
+**46.** Mi Oficina u Oficina Virtual es el área privada de Correos.es que da servicio online a los siguientes usuarios:
+- **A.** A los clientes particulares y a los clientes con contrato de Correos ←
+- **B.** Solo a los clientes particulares
+- **C.** Solo a los clientes que tengan un contrato con Correos
+- **D.** Solo a personal interno de Correos Página 5 de 13 - REP/B Preguntas psicotécnicas:
+
+**47.** Encuentre entre las figuras inferiores (A, B, o D), aquella que completa la serie de figuras presentada en la parte superior. Nótese que la serie tiene cuatro figuras a falta de la quinta: · **ANULADA** · **psicotécnica, opciones en figura**
+
+**48.** Encuentre entre las figuras inferiores (A, B, C o D), aquella que completa la serie de figuras presentada en la parte superior. Nótese que la serie tiene cuatro figuras a falta de la quinta: · **psicotécnica, opciones en figura**
+
+**49.** Encuentre entre las figuras inferiores (A, B, C o D), aquella que completa la serie de figuras presentada en la parte superior. Nótese que la serie tiene cuatro figuras a falta de la quinta: Página 6 de 13 - REP/B · **psicotécnica, opciones en figura**
+
+**50.** Encuentre entre las figuras inferiores (A, B, C o D), aquella que completa la serie de figuras presentada en la parte superior. Nótese que la serie tiene cuatro figuras a falta de la quinta: · **psicotécnica, opciones en figura**
+
+**51.** En el caso de que haya que priorizar la entrega de envíos registrados en las unidades de distribución, ¿cuál de las siguientes opciones contiene un orden correcto de prioridad, si se ordenan de más a menos prioritario?
+- **A.** Paq estándar, paquete azul, valija, depósitos del día anterior
+- **B.** Valija, depósitos del día anterior, paq estándar, paquete azul
+- **C.** Paquete azul, valija, paq estándar, depósitos del día anterior
+- **D.** Valija, paquete azul, depósitos del día anterior, paq estándar ←
+
+**52.** Indique cuál de las siguientes funciones no es propia de la aplicación IRIS:
+- **A.** Admisión de paquetería
+- **B.** Liquidación de sección reparto ←
+- **C.** Venta de productos
+- **D.** Admisión de cartas
+
+**53.** En el ámbito de la logística, distribución y planificación del transporte, el término "entrega de última milla" hace referencia a:
+- **A.** El transporte entre los grandes centros de clasificación
+- **B.** La entrega en las oficinas postales
+- **C.** El transporte desde el centro de clasificación hasta el punto de distribución
+- **D.** Las acciones que transcurren desde que el paquete deja el punto de distribución, hasta llegar a las manos del cliente final. ←
+
+**54.** En la admisión masiva de Correos, ¿cuáles son las cuatro partes de que consta un albarán?
+- **A.** Cabecera, detalle de los envíos, fecha y firma del depositante
+- **B.** Cabecera, datos del depósito, detalle de los envíos y firma
+- **C.** Cabecera, datos del depósito, detalle de los envíos y espacio reservado para la validación ←
+- **D.** Ninguna de las respuestas anteriores es correcta
+
+**55.** En las redes de transporte de Correos, ¿qué tipo de red de ámbito nacional se encarga de transportar envíos postales con origen en Barcelona y destino en Sevilla?
+- **A.** Red transversal
+- **B.** Red interzonal en estrella
+- **C.** Red interzonal en abanico ←
+- **D.** Red vertical
+
+**56.** ¿De cuántos intentos de entrega consta el publicorreo óptimo?
+- **A.** De dos intentos de entrega, pero se puede contratar un tercero
+- **B.** De dos intentos de entrega
+- **C.** De un intento de entrega, pero se puede contratar un segundo
+- **D.** De un único intento de entrega ←
+
+**57.** Si durante la recepción de envíos en las unidades de distribución se detecta una incidencia en algún envío estacionable, se estaciona en SGIE por asignación directa. ¿Cuál de las siguientes incidencias no es una posible causa de estacionamiento por asignación directa?
+- **A.** Rotura
+- **B.** Código postal incorrecto
+- **C.** Destinatario ausente ←
+- **D.** Entrega concertada Página 7 de 13 - REP/B B
+
+**58.** ¿Qué aplicación utiliza el personal de reparto para seleccionar el vehículo que utilizará en el reparto y registrar el kilometraje?
+- **A.** SGIE
+- **B.** CORE
+- **C.** MILLA ←
+- **D.** SIE
+
+**59.** ¿En qué se basa el sistema de trazabilidad del Paq Mochila?
+- **A.** Se basa en códigos de barras
+- **B.** Se basa en códigos de envío
+- **C.** Se basa en códigos EAN
+- **D.** Se basa en códigos QR ←
+
+**60.** El operador al que se le adjudica el servicio postal universal está obligado a cumplir los siguientes plazos de entrega de envíos nacionales:
+- **A.** Entrega en tres días desde el depósito del 93% de las cartas ordinarias ←
+- **B.** Entrega en tres días desde el depósito del 95% de las cartas ordinarias
+- **C.** Entrega en tres días desde el depósito del 95% de las cartas certificadas
+- **D.** Ninguna de las respuestas anteriores es correcta
+
+**61.** ¿Puede el personal rural admitir mercancías peligrosas?
+- **A.** Sí, siempre que vayan bien precintadas y con su etiqueta identificativa correspondiente
+- **B.** Sí, en cualquier caso
+- **C.** No, el personal rural no podrá admitirlas, indicará al cliente que debe dirigirse a una oficina técnica ←
+- **D.** Sí, con autorización de su responsable
+
+**62.** No requieren trámites aduaneros a la importación los envíos conteniendo mercancías con destino Canarias cuyo origen sea… (señale la respuesta correcta):
+- **A.** Un país de la Unión Europea
+- **B.** Un país no perteneciente a la Unión Europea
+- **C.** Canarias ←
+- **D.** La Península, Baleares, Ceuta o Melilla
+
+**63.** De cara a la certificación ISO de calidad en Correos, ¿qué procesos cubre su alcance?
+- **A.** La admisión, tratamiento y curso de correspondencia y paquetería nacional e internacional
+- **B.** La comercialización y entrega en oficina de productos y servicios de proximidad
+- **C.** La gestión de reclamaciones nacionales e internacionales de exportación
+- **D.** Todas las respuestas anteriores son correctas ←
+
+**64.** En una unidad de distribución, ¿para qué otro uso, además de repostar combustible, se puede utilizar la tarjeta de combustible?
+- **A.** No hay ningún otro uso posible
+- **B.** Con la autorización del jefe sector, se podrá usar para pagar peajes, aparcamientos, lavados o hinchado de neumáticos. ←
+- **C.** Para el cambio de aceite
+- **D.** Todas las respuestas anteriores son incorrectas
+
+**65.** ¿Qué red le permite disponer de una amplia cobertura mundial al Paq Premium Internacional?
+- **A.** La red EMS ←
+- **B.** La red de Correos
+- **C.** La red Kahala
+- **D.** La red SPU
+
+**66.** En el ámbito de los servicios rurales, ¿quién se encarga de la gestión del almacén de material?
+- **A.** La Gerencia de Producción
+- **B.** La oficina técnica o sucursal de la que depende ←
+- **C.** La Dirección Territorial
+- **D.** La Subdirección de Material
+
+**67.** ¿Qué aplicación de la PDA utiliza el personal de reparto para la admisión de envíos y la prestación de servicios?
+- **A.** Milla
+- **B.** Hera ←
+- **C.** Talos/Core
+- **D.** Talina Página 8 de 13 - REP/B B
+
+**68.** Para la prestación del servicio de Cold Chain de Correos Frío, dirigido al sector de farmacia y salud, el transporte se realiza mediante… (señale la respuesta correcta):
+- **A.** Vehículos frigoríficos
+- **B.** Vehículos isotermos
+- **C.** Cajas isotérmicas ←
+- **D.** Ninguna de las respuestas anteriores es correcta
+
+**69.** ¿Quién elabora los planes de emergencia de los diferentes centros de Correos?
+- **A.** Los mandos intermedios
+- **B.** Los responsables de emergencias
+- **C.** Los técnicos de prevención de riesgos laborales (PRL) ←
+- **D.** Los delegados de prevención
+
+**70.** Cuando se estableció el cambio de titularidad de Correos, en 2016, ¿a manos de quién pasaron la totalidad de sus acciones? · **ANULADA**
+- **A.** A la Intervención General de la Administración del Estado
+- **B.** A la Sociedad Estatal de Participaciones Industriales (SEPI)
+- **C.** Al Ministerio de Industria, Comercio y Turismo
+- **D.** A la Sociedad Española de Promoción Exterior
+
+**71.** Correos ID es una plataforma que permite acceder a diferentes servicios digitales. Para acceder a los servicios de Correos ID será necesario disponer de:
+- **A.** Un certificado electrónico emitido por un prestador de servicios electrónicos de confianza
+- **B.** Una cuenta o identidad en dicho sistema ←
+- **C.** Una autenticación federada con una red social
+- **D.** Un DNI Electrónico
+
+**72.** Necesito acceder a internet desde mis dispositivos móviles. Al buscar las diferentes redes, veo una wifi pública abierta. ¿Qué riesgos supone conectarme?
+- **A.** No hay ningún riesgo, puesto que todas las tecnologías wifi cuentan con protocolos de seguridad muy avanzados, incluso las redes abiertas.
+- **B.** Se exponen los datos personales, el tráfico y la identidad de forma casi total, aumentando el riesgo si intercambio información confidencial. ←
+- **C.** El único riesgo que existe es la velocidad de conexión, que puede ser menor en ese tipo de redes por su capacidad, su ancho de banda y su configuración.
+- **D.** Solo evito los riesgos si me conecto desde dispositivos de marcas reconocidas en el mercado
+
+**73.** ¿Cuántas formas de admisión relacionadas con los núcleos rurales existen en Correos?
+- **A.** Solo una. Correos realiza la admisión en servicios rurales en general
+- **B.** Dos. Correos puede realizar la admisión a través de una oficina auxiliar y de un servicio rural; en ambos casos admitirán con PDA a través de la aplicación Tora.
+- **C.** Dos. Correos puede realizar la admisión a través de una oficina auxiliar y de un servicio rural; en ambos casos admitirán con PDA a través de la aplicación Hera. ←
+- **D.** Ninguna. Correos no realiza admisión en núcleos rurales, solamente reparto
+
+**74.** En la zona logística de un centro de tratamiento, ¿qué es un mapa de carga?
+- **A.** Es el recorrido que debe de llevar el vehículo de transporte
+- **B.** Es el documento que firma el conductor
+- **C.** Es el documento que establece el orden de prioridad en la carga por productos para cada ruta de transporte ←
+- **D.** Ninguna de las respuestas anteriores es correcta Preguntas psicotécnicas: Lea el texto mostrado a continuación y responda a las preguntas que versan sobre el mismo: Las consecuencias de un panorama tan triste para México durante este 2023 incluyen efectos fiscales, sociales y políticos. Fiscalmente hablando, la hacienda pública puede sufrir enormemente, ya que una recesión generaría un boquete en los ingresos del gobierno. Dicho hueco fiscal podría alcanzar casi el medio billón de pesos. Desafortunadamente, este hueco tendría que ser cubierto con deuda que futuras generaciones de mexicanos tendrían que pagar. Aún peor, la baja de precios de petróleo puede empeorar la situación financiera de Pemex, obligando al gobierno a tener que cubrir mayores costos de la paraestatal. Por otro lado, el golpeteo tan fuerte contra la economía puede seguir empujando a muchos mexicanos a emigrar fuera del país, algo que no sucedía cinco años atrás. El éxodo de mexicanos a Estados Unidos ha seguido en ascenso, con un flujo que alcanzó 400 mil mexicanos abandonando el país durante el año pasado para buscar mejor suerte fuera de México. Ante un panorama tan adverso en la economía mexicana, no dudemos que la cifra de mexicanos que abandone el país durante el 2023 alcance el medio millón. Asimismo, debido a los pocos resultados en materia económica, el partido oficialista podría sufrir una serie de derrotas en las contiendas estatales de Coahuila y el Estado de México. Balmori, J. R.: “Perspectiva económica 2023”. Forbes México. Página 9 de 13 - REP/B
+
+**75.** Entre los efectos que podría sufrir México este 2023 se encuentra...
+- **A.** Un descenso en los ingresos del gobierno ←
+- **B.** Un aumento de precio del barril de petróleo
+- **C.** El estancamiento en la emigración hacia Estados Unidos
+- **D.** El aumento de deuda que la generación actual deberá pagar
+
+**76.** ¿Qué cifras se espera de emigración hacia Estados Unidos por parte de ciudadanos mexicanos para el 2023?
+- **A.** No menos de 650 mil
+- **B.** En torno a 400 mil
+- **C.** Podría alcanzar los 500 mil ←
+- **D.** Superior al año pasado, más de 600 mil
+
+**77.** Existen estados en los que el partido oficialista podría ser derrotado en las elecciones, ¿en cuáles?
+- **A.** Pemex y Estado de México
+- **B.** Chiapas y Coahuila
+- **C.** Coahuila y Pemex
+- **D.** Coahuila y Estado de México ←
+
+**78.** ¿Cuáles son las modalidades de entrega del Paquete Azul?
+- **A.** El Paquete Azul dispone de dos modalidades de entrega: entrega en domicilio y entrega en oficina de referencia.
+- **B.** El Paquete Azul dispone de tres modalidades de entrega: entrega en domicilio, entrega en oficina de referencia y entrega en oficina elegida.
+- **C.** El Paquete Azul dispone de cuatro modalidades de entrega: entrega en domicilio, entrega en oficina de referencia, entrega en oficina elegida y entrega en Citypaq.
+- **D.** El Paquete Azul dispone de una modalidad de entrega: entrega a domicilio ←
+
+**79.** ¿Cómo se clasifican los servicios rurales, en función de dónde realizan el inicio de su jornada?
+- **A.** En rurales concentrados y rurales diferidos ←
+- **B.** En rurales tipo A y rurales tipo B
+- **C.** En rurales urbanos y rurales mixtos
+- **D.** En rurales a motor y rurales a pie
+
+**80.** En Correos, ¿qué es Minerva?
+- **A.** Es el sistema que reúne el conjunto de operativas ligadas a la trazabilidad y apoyo a la producción del proceso logístico y de distribución de Correos. ←
+- **B.** Es la herramienta informática que permite la admisión y venta de productos en las oficinas del territorio nacional.
+- **C.** Es el sistema de envío de dinero que utilizan las oficinas de Correos
+- **D.** Es la aplicación que permite documentar a través de la PDA la identidad del conductor, el kilometraje y el repostaje realizados por el vehículo de reparto.
+
+**81.** Atendiendo al sistema de clasificación profesional en Correos, ¿a qué grupo profesional corresponde el grupo IV?
+- **A.** Personal Operativo ←
+- **B.** Personal de Jefaturas Intermedias
+- **C.** Personal Titulado Superior
+- **D.** Servicios Generales
+
+**82.** ¿Qué apartado de la aplicación IRIS se ha de utilizar para modificar o cancelar un albarán?
+- **A.** Admisión > Albaranes
+- **B.** Mantenimiento > Albaranes
+- **C.** Las respuestas A y B son correctas ←
+- **D.** Un albarán no se puede modificar
+
+**83.** ¿En qué aplicación informática se escanean y se controlan mediante lectura del código de barras las sacas procedentes de buzones?
+- **A.** Wialon
+- **B.** Marabú 2 ←
+- **C.** Oca 3
+- **D.** Horus Página 10 de 13 - REP/B B
+
+**84.** ¿Es posible depositar una expedición con los envíos de Paq Premium?
+- **A.** Sí, se podrá realizar una expedición de hasta 10 bultos, pero únicamente si se dispone de un contrato con Correos. ←
+- **B.** Sí, se podrá realizar una expedición de hasta 10 bultos, independientemente de si se dispone de un contrato con Correos o no.
+- **C.** Sí, se podrá realizar una expedición de hasta 20 bultos, pero únicamente si se dispone de un contrato con Correos.
+- **D.** Sí, se podrá realizar una expedición de hasta 20 bultos, independientemente de si se dispone de un contrato con Correos o no.
+
+**85.** La entrega de correspondencia con el valor añadido de «Entrega exclusiva al destinatario», se realizará siempre a personas físicas y mayores de… (señale la respuesta correcta):
+- **A.** 16 años
+- **B.** 14 años ←
+- **C.** 18 años
+- **D.** 21 años
+
+**86.** En una unidad de distribución, ¿quién controla las valijas que se han recogido y comprueba que coinciden con las que muestra la pantalla de SGIE?
+- **A.** El personal de reparto
+- **B.** El auxiliar de recogidas
+- **C.** El programador de SGIE
+- **D.** El responsable de la unidad ←
+
+**87.** ¿Cómo se denomina la iniciativa estratégica de Correos para dar visibilidad a emprendedores y productores de todas las localidades y pueblos de España?
+- **A.** Correos Cash
+- **B.** Correos Market ←
+- **C.** Citypaq en espacios públicos
+- **D.** Tarjetas prepago de Correos
+
+**88.** ¿Es posible entregar en un citypaq un envío con importes asociados?
+- **A.** No. No deben llegar envíos con importes asociados. Si llegara alguno, no se transformará y se devolverá al remitente.
+- **B.** No. No deben llegar envíos con importes asociados. Sí llegara alguno, no se transformará y se enviará directamente a la oficina de referencia para que se entregue en Lista. ←
+- **C.** Sí, en cualquier circunstancia
+- **D.** Sí, siempre que el envío sea de la categoría "Prime"
+
+**89.** ¿Cuál de los siguientes organismos no está incluido en el sistema de Notificaciones Digitales de Correos?
+- **A.** La Agencia Tributaria
+- **B.** La Sociedad General de Autores (SGAE) ←
+- **C.** La Tesorería General de la Seguridad Social
+- **D.** La Dirección Electrónica Vial de la DGT
+
+**90.** En materia de protección de datos, ¿cómo puede definirse "dato personal"?
+- **A.** Toda información sobre una persona física identificada pero no identificable
+- **B.** Toda información sobre una persona física identificada o identificable ←
+- **C.** Toda información sobre una persona física identificada y cuando la identidad pueda determinarse solo de forma directa pero no de forma indirecta.
+- **D.** Ninguna de las anteriores respuestas es correcta
+
+**91.** En relación con el sistema de identificación por radiofrecuencia (RFID), indique cuál de las siguientes afirmaciones es correcta:
+- **A.** Es una de las herramientas que ayudan a mejorar la eficacia del sistema de gestión de la calidad en Correos
+- **B.** Transmite la identidad de un objeto (similar a un número de serie único) mediante ondas de radio
+- **C.** En Correos, el sistema está instalado en los vehículos de transporte de envíos
+- **D.** Las respuestas A y B son correctas ←
+
+**92.** En distribución, ¿qué significa el reparto de valija unitoque?
+- **A.** Consiste en repartir una valija por un único efectivo de reparto
+- **B.** Nada, en Correos no existe ese término
+- **C.** Consiste en repartir la valija de un cliente una sola vez
+- **D.** Consiste en entregar y recoger valijas de un cliente a la vez, en el mismo momento Página 11 de 13 - REP/B ←
+
+**93.** ¿Dispone el Grupo Correos de un Código General de Conducta?
+- **A.** Sí, dispone de un Código General de Conducta desde el año 2020, aprobado por el Consejo de Administración
+- **B.** No, porque no tiene obligación de tenerlo
+- **C.** Sí, dispone de un Código General de Conducta desde el año 2010, pero está pendiente de revisión
+- **D.** Sí, dispone de un Código General de Conducta desde el año 2005 y su revisión se aprobó en 2021 por el Consejo de Administración. ←
+
+**94.** En una unidad de distribución, ¿quién es el responsable de la no utilización de los EPI?
+- **A.** El jefe o responsable de la unidad
+- **B.** El personal de reparto ←
+- **C.** La Subdirección de Red de Distribución
+- **D.** La estructura de mandos de Correos
+
+**95.** ¿Cuál es la aplicación que permite controlar el tiempo de espera de los clientes en las oficinas?
+- **A.** IRIS
+- **B.** WUPOS
+- **C.** Hermes
+- **D.** Quenda ←
+
+**96.** En relación con la liberalización del sector postal, señale cuál de las siguientes afirmaciones es correcta:
+- **A.** La libre competencia en el mercado postal se alcanzó en España en el año 2011 ←
+- **B.** El proceso de liberalización del sector postal en España ha estado totalmente desvinculado de la normativa europea.
+- **C.** La libre competencia en el mercado postal se alcanzó en España en el año 1985
+- **D.** En la Unión Europea el proceso de liberalización del sector postal comenzó en 1980
+
+**97.** En Correos, ¿qué es el "Reto Lehnica"?
+- **A.** Es el centro de innovación y emprendimiento de Correos
+- **B.** Es un espacio flexible de trabajo que cuenta con salas de reuniones
+- **C.** Es el programa de colaboración con emprendedores y startups de Correos ←
+- **D.** Es un espacio flexible de trabajo que cuenta con puestos de coworking
+
+**98.** ¿Cuáles de los siguientes servicios se prestan en la red de oficinas de Correos?
+- **A.** Servicios financieros
+- **B.** Servicios al ciudadano
+- **C.** Comercialización de servicios en colaboración con terceros
+- **D.** Las tres respuestas anteriores son correctas ←
+
+**99.** ¿Cuál es el importe máximo de reembolso para el Paq 14?
+- **A.** 499,99 €
+- **B.** 2.499,99 €
+- **C.** 6.000 €
+- **D.** 999,99 € ←
+
+**100.** En relación con la normativa de protección de datos, señale cuál de las siguientes afirmaciones es correcta:
+- **A.** En la contratación de un servicio con un cliente, una vez que los datos hayan sido recogidos por el empleado, éste ha de informarle al cliente solamente de la finalidad para la cual se han recogido sus datos personales.
+- **B.** No es necesario dar ningún tipo de información a los remitentes de un envío cuando se recogen sus datos personales, ya que esta información esta publicada en la página web de la empresa.
+- **C.** Cuando los datos se obtienen de un interesado, en el momento en que estos se obtengan se le ha de facilitar, entre otra, la siguiente información: identidad del responsable del tratamiento, los fines del tratamiento y la existencia del derecho a solicitar al responsable del tratamiento el ejercicio de sus derechos. ←
+- **D.** La empresa, como responsable del tratamiento de datos, tiene la opción de facilitar al interesado, o no hacerlo, la información en materia de protección de datos de carácter personal. Página 12 de 13 - REP/B B PREGUNTAS ADICIONALES DE RESERVA: SERÁN VALORADAS, CONFORME A SU NÚMERO DE ORDEN, EN EL CASO DE QUE SE ANULE ALGUNAS DE LAS 100 PREGUNTAS ANTERIORES
+
+**101.** Los servicios rurales, ¿tienen que atender al público "al paso" durante su jornada laboral, para la admisión y venta de servicios a través de la PDA?
+- **A.** No
+- **B.** Sí, pero sólo si el puesto tiene asignada la atención al público
+- **C.** Sí, independientemente de que el puesto tenga asignada la atención o no ←
+- **D.** Sí, pero únicamente para la admisión de envíos
+
+**102.** ¿Cuál es el peso máximo establecido para una carta certificada internacional?
+- **A.** 5 kg
+- **B.** 2 kg ←
+- **C.** Es variable, en función de cuál sea el país de destino
+- **D.** 1 kg
+
+**103.** ¿En qué centro de tratamiento automatizado se trabaja todo el correo admitido en la isla del Hierro?
+- **A.** CTA de Madrid
+- **B.** CTA de Mallorca
+- **C.** CTA Las Palmas
+- **D.** CTA de Tenerife ←
+
+**104.** El personal rural de Correos, ¿puede recibir de un cliente solicitudes de envío de dinero?
+- **A.** Sí, los siguientes: cobro de recibos con código de barras, pago de tributos con código de barras y pago de recibos sin código de barras. ←
+- **B.** Sí, siempre y cuando sean giros internacionales
+- **C.** Sí, pero exclusivamente para el pago de recibos del ayuntamiento en el que resida el cliente
+- **D.** No, el personal rural de Correos no puede en la actualidad recibir dinero
+
+**105.** Las emisiones de sellos filatélicos realizadas en España se presentan en diversos formatos, ¿cuál no es uno de esos formatos?
+- **A.** Sello
+- **B.** Mini pliego
+- **C.** Colección ←
+- **D.** Hoja bloque
+
+**106.** ¿Cuál es la principal funcionalidad de la aplicación CRM?
+- **A.** Disponer en cualquier momento de toda la información sobre cualquier cliente, para satisfacer sus necesidades y permitir unas mejores estrategias comerciales. ←
+- **B.** Permite al comprador modificar desde su móvil o PC la entrega del envío ajustándola a sus necesidades reales
+- **C.** Realizar el pago de multas, recibos, deudas u otros que hayan contratado los clientes para su pago a través de Correos.
+- **D.** Localizar un envío para conocer su estado, localizar oficinas, Citypaqs o buzones, trámites aduaneros, enviar un paquete.
+
+**107.** ¿Cuál de los siguientes proyectos está reflejado en la expresión: "Está concebido como el punto de encuentro de todas las iniciativas de innovación abierta de Correos"?
+- **A.** Reto Lehnica
+- **B.** Spain startup
+- **C.** Correos Cash
+- **D.** CorreosLabs ←
+
+**108.** ¿Cuáles son las campañas más habituales de phishing en las que los ciberdelincuentes utilizan la marca Correos?
+- **A.** Aquellas en las que se solicita completar la dirección de entrega o pagar tasas de aduana para recibir un paquete ←
+- **B.** Las que regalan dispositivos electrónicos y viajes
+- **C.** No se suele utilizar la marca Correos para campañas de phishing, pero los pocos casos que hay son de temáticas variadas.
+- **D.** Aquellas en las que te llaman por teléfono para verificar tus datos y obtener información
+
+**109.** De los siguientes, ¿qué flujo de envíos, conteniendo mercancía, no están sujetos a tramitación aduanera?
+- **A.** Los envíos de la Península con destino a Canarias
+- **B.** Los envíos de la Unión Europea con destino a la Península y Baleares ←
+- **C.** Los envíos de Canarias con destino a Ceuta
+- **D.** Los envíos de fuera de la Unión Europea con destino a Melilla
+
+**110.** Entre las siguientes opciones, ¿cuál no es una característica posible en el servicio Cold Chain de Correos Frío?
+- **A.** Asegurar la temperatura del transporte entre 2ºC y 8ºC
+- **B.** Monitorización de la temperatura
+- **C.** Asegurar la temperatura del transporte a -80ºC ←
+- **D.** Asegurar la temperatura del transporte entre 15ºC y 25ºC Página 13 de 13 - REP/B
+
