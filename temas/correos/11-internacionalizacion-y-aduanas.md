@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | **No procede**: el documento describe procedimientos y no reproduce el Código Aduanero de la Unión ni la normativa del IVA de importación, y este tema tampoco los volca |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 11**, reconocido ópticamente |
-| **Extensión** | **2.937 palabras** |
+| **Extensión** | **3.555 palabras** |
 
 <!-- /portada -->
 
@@ -40,11 +40,13 @@ antes o después de esa fecha**, y **casi todas sus preguntas se juegan ahí**.
 ## Índice
 
 - [1. El negocio internacional](#1-el-negocio-internacional)
+  - [Lo que no puede salir: las tres clases de prohibición](#lo-que-no-puede-salir-las-tres-clases-de-prohibición)
   - [Las seis alianzas internacionales](#las-seis-alianzas-internacionales)
   - [El comercio electrónico en cifras](#el-comercio-electrónico-en-cifras)
   - [Los dos frentes de la transformación digital](#los-dos-frentes-de-la-transformación-digital)
 - [2. La exportación](#2-la-exportación)
 - [3. La aduana: el avance electrónico de datos](#3-la-aduana-el-avance-electrónico-de-datos)
+  - [Qué hace Correos como representante aduanero, y qué no](#qué-hace-correos-como-representante-aduanero-y-qué-no)
   - [El circuito del mensaje ITMATT, paso a paso](#el-circuito-del-mensaje-itmatt-paso-a-paso)
 - [4. El 1 de julio de 2021](#4-el-1-de-julio-de-2021)
   - [La declaración H7](#la-declaración-h7)
@@ -76,6 +78,42 @@ división que se pregunta.
 
 **Correos Cargo** es el otro proyecto: **un servicio de transporte aéreo de paquetería y mercancías
 creado para fortalecer el eje logístico entre Latinoamérica, Europa y Asia.**
+
+**Y a qué se debe la expansión internacional, que es pregunta de las de «todas las anteriores».**
+**Son tres piezas y ninguna sobra**: **Correos Express Portugal**, con sus once delegaciones y su
+centro logístico ampliado; **las empresas compartidas KCG eCommerce Solutions y K Parcel**, que
+operan en China; y **las Oficinas de Cambio Extraterritorial (ETOE)** que Correos posee en otros
+países, por las que pasan **los flujos procedentes de China y del resto de Asia** —es la número 21
+del cuestionario de Reparto—.
+
+### Lo que no puede salir: las tres clases de prohibición
+
+**La exportación tiene tres tipos de prohibición y se aplican los tres a la vez**, que es
+exactamente la forma de la pregunta. Citados:
+
+> «**Las prohibiciones universales.**» «**Las prohibiciones propias de los distintos países derivadas
+> de la regulación nacional en materia de importaciones.**» «**Las prohibiciones aplicables por los
+> servicios postales de los distintos países relativas a las mercancías cuya importación esté
+> autorizada por ley, pero prohibida por la normativa postal.**»
+
+---
+
+**Universales, del país por su ley de importación, y del servicio postal de ese país** —es la número
+108 del cuestionario de Atención al Cliente—. **La tercera es la fina**: hay mercancía **cuya
+importación la ley del país permite y su normativa postal prohíbe**, y por eso no puede ir por
+correo aunque sí pueda entrar por otra vía.
+
+**De los objetos no permitidos el documento da una lista que él mismo declara no exhaustiva**, y de
+ella conviene retener dos: **los productos sometidos a régimen de reserva sin autorización especial
+para circular por la red postal**, y **el opio y sus derivados, la cocaína y demás estupefacientes y
+sustancias psicotrópicas**, **salvo si se envían con fines medicinales y acompañados de autorización
+oficial**.
+
+**Un apunte de producto que se pregunta desde aquí.** El servicio postal prioritario internacional
+**(EMS)**, el *Express Mail Service*, tiene red propia, y **el Paq Premium Internacional dispone de
+amplia cobertura mundial gracias a la red EMS** —es la número 74 del cuestionario de Reparto—. **El
+EMS es el equivalente internacional del Paquete Premium**, igual que **la correspondencia
+internacional se corresponde con la carta ordinaria y la carta certificada**.
 
 ### Las seis alianzas internacionales
 
@@ -146,6 +184,29 @@ la Unión Europea, los operadores postales designados y las compañías aéreas.
 
 **Y el objetivo último, declarado**: **igualar las características del despacho aduanero postal y el
 despacho aduanero comercial.**
+
+### Qué hace Correos como representante aduanero, y qué no
+
+**Desde 2005 los operadores postales actúan como representantes aduaneros**, y **Correos formaliza
+los despachos de importación a todos los envíos postales con mercancía**. **Lo que hace en ese papel
+son tres cosas**, y **la cuarta que suena parecida es falsa**:
+
+| Lo que sí hace | Lo que no |
+|---|---|
+| **Somete los envíos con mercancía al control de la aduana** | — |
+| **Los somete también al control del resto de autoridades españolas competentes** —**sanitarias, farmacéuticas, de seguridad, de consumo**— | — |
+| **Actúa en nombre del destinatario ingresando en la Agencia Tributaria los tributos cobrados** | **NO es cierto que «no se responsabilice» de esos tributos**: **responde de ellos precisamente porque los ingresa en nombre del destinatario** |
+
+**El examen pidió la afirmación INCORRECTA** —es la número 52 del cuestionario de Reparto— y la
+falsa era **«no se responsabiliza de los tributos cobrados a los destinatarios»**. **El control de
+los cobros de tributos a la importación es, en palabras del documento, crucial.**
+
+**Y sobre si hace falta la autorización del cliente para despachar**, el documento distingue por
+ámbito: **en península y Baleares la norma presume que Correos, como transportista, tiene
+autorización de despacho**; **en Canarias no se plantea, porque Correos entrega el envío de forma
+gratuita al destinatario**; **en Ceuta se aplica la tarifa de «cesión de documentos»** cuando el
+destinatario prefiere otro representante o autodespacharse. **Con el DUA completo esa tarifa de
+cesión de documentos se aplica en todos los ámbitos.**
 
 ### El circuito del mensaje ITMATT, paso a paso
 

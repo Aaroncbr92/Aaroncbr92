@@ -78,6 +78,22 @@ lo autoriza** · **el 1 de julio de 2021 es la fecha que parte el tema en dos**.
   **la compra en línea INCREMENTA la demanda de paquetes** · **el comercio digital reduce el impacto
   negativo del descenso del volumen de correspondencia**.
 
+- **A QUÉ SE DEBE LA EXPANSIÓN, QUE SON TRES PIEZAS** · `[doc]` · **Correos Express Portugal** ·
+  **las empresas compartidas KCG eCommerce Solutions y K Parcel**, en China · **las Oficinas de
+  Cambio Extraterritorial (ETOE)** de otros países · cayó en **Reparto, nº 21**, con las tres por
+  separado para que se contestara «todas».
+- **LAS TRES CLASES DE PROHIBICIÓN, Y SE APLICAN LAS TRES** · `[doc]` · **UNIVERSALES** · **propias
+  de cada país, por su regulación nacional de importaciones** · **las de los SERVICIOS POSTALES de
+  cada país, sobre mercancías cuya importación la ley permite y la normativa postal prohíbe** —la
+  fina— · cayó en **Atención al Cliente, nº 108** · de la lista de objetos no permitidos, que el
+  documento declara **no exhaustiva**: **los productos de régimen de reserva sin autorización
+  especial** y **el opio, la cocaína y demás estupefacientes, salvo con fines medicinales y
+  autorización oficial**.
+- **EL SERVICIO POSTAL PRIORITARIO INTERNACIONAL (EMS) Y SU RED** · `[doc]` · el EMS es **el
+  equivalente del Paquete Premium**, como **la carta ordinaria y la certificada lo son de la
+  correspondencia internacional** · **el Paq Premium Internacional tiene amplia cobertura mundial
+  GRACIAS A LA RED EMS** — cayó en **Reparto, nº 74**.
+
 ## La exportación y las oficinas de cambio
 
 - **QUÉ SON Y CUÁNTAS EXPORTAN** · `[doc]` · **las oficinas de cambio son los puntos de SALIDA Y
@@ -98,6 +114,17 @@ lo autoriza** · **el 1 de julio de 2021 es la fecha que parte el tema en dos**.
   Unión Europea, los operadores postales designados y las compañías aéreas**.
 - **EL OBJETIVO ÚLTIMO, DECLARADO** · `[doc]` · **igualar las características del despacho aduanero
   POSTAL y el despacho aduanero COMERCIAL**.
+- **QUÉ HACE CORREOS COMO REPRESENTANTE ADUANERO** · `[doc]` · **desde 2005** los operadores
+  postales lo son · **somete los envíos con mercancía al control de la ADUANA** y **al del resto de
+  autoridades competentes** —sanitarias, farmacéuticas, de seguridad, de consumo— · **actúa EN
+  NOMBRE DEL DESTINATARIO ingresando en la Agencia Tributaria los tributos cobrados** · **por eso
+  es FALSO que «no se responsabilice» de esos tributos**: cayó en **Reparto, nº 52**, que pedía la
+  incorrecta.
+- **SI HACE FALTA AUTORIZACIÓN DEL CLIENTE, DEPENDE DEL ÁMBITO** · `[doc]` · **península y Baleares:
+  la norma PRESUME que Correos, como transportista, la tiene** · **Canarias: no se plantea**, porque
+  **Correos entrega el envío gratuitamente** · **Ceuta: tarifa de «cesión de documentos»** si el
+  destinatario elige otro representante o se autodespacha · **con DUA completo, esa tarifa se aplica
+  en TODOS los ámbitos**.
 
 | Paso del circuito ITMATT · **la pregunta más probable del tema** | Qué ocurre |
 |---|---|

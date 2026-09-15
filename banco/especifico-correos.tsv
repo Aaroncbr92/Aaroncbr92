@@ -66,8 +66,8 @@ Cuestionario-ATC_A_07052023	9	07	Procesos operativos I: admisión	7.3.1
 Cuestionario-ATC_A_07052023	10	04	Productos y servicios en oficinas, financieros, digitales y filatelia	4.5
 Cuestionario-ATC_A_07052023	11	01	Marco normativo postal y naturaleza jurídica	1.8.1
 Cuestionario-ATC_A_07052023	12	05	Nuevas líneas de negocio: logística, frío y patrimonio	5.9
-Cuestionario-ATC_A_07052023	13	11	Internacionalización y aduanas	
-Cuestionario-ATC_A_07052023	14	11	Internacionalización y aduanas	
+Cuestionario-ATC_A_07052023	13	11	Internacionalización y aduanas	11.2
+Cuestionario-ATC_A_07052023	14	11	Internacionalización y aduanas	11.2.2
 Cuestionario-ATC_A_07052023	15	09	Procesos operativos III: distribución y entrega	9.8
 Cuestionario-ATC_A_07052023	16	06	Herramientas: funciones y utilidad	6.6
 Cuestionario-ATC_A_07052023	17	12	Normas de cumplimiento: datos, blanqueo, ética y ciberseguridad	
@@ -95,7 +95,7 @@ Cuestionario-ATC_A_07052023	38	04	Productos y servicios en oficinas, financieros
 Cuestionario-ATC_A_07052023	39	01	Marco normativo postal y naturaleza jurídica	1.5.1
 Cuestionario-ATC_A_07052023	40	05	Nuevas líneas de negocio: logística, frío y patrimonio	5.9
 Cuestionario-ATC_A_07052023	41	08	Procesos operativos II: tratamiento y transporte	
-Cuestionario-ATC_A_07052023	42	11	Internacionalización y aduanas	
+Cuestionario-ATC_A_07052023	42	11	Internacionalización y aduanas	11.6
 Cuestionario-ATC_A_07052023	43	09	Procesos operativos III: distribución y entrega	9.7.3
 Cuestionario-ATC_A_07052023	44	06	Herramientas: funciones y utilidad	6.3
 Cuestionario-ATC_A_07052023	45	12	Normas de cumplimiento: datos, blanqueo, ética y ciberseguridad	
@@ -123,7 +123,7 @@ Cuestionario-ATC_A_07052023	66	04	Productos y servicios en oficinas, financieros
 Cuestionario-ATC_A_07052023	67	01	Marco normativo postal y naturaleza jurídica	1.4
 Cuestionario-ATC_A_07052023	68	05	Nuevas líneas de negocio: logística, frío y patrimonio	5.9
 Cuestionario-ATC_A_07052023	69	02	Experiencia de personas, diversidad, prevención y sostenibilidad	2.9
-Cuestionario-ATC_A_07052023	70	11	Internacionalización y aduanas	
+Cuestionario-ATC_A_07052023	70	11	Internacionalización y aduanas	11.6
 Cuestionario-ATC_A_07052023	71	09	Procesos operativos III: distribución y entrega	9.8
 Cuestionario-ATC_A_07052023	72	06	Herramientas: funciones y utilidad	6.6
 Cuestionario-ATC_A_07052023	73	12	Normas de cumplimiento: datos, blanqueo, ética y ciberseguridad	
@@ -161,12 +161,12 @@ Cuestionario-ATC_A_07052023	104	06	Herramientas: funciones y utilidad	6.2
 Cuestionario-ATC_A_07052023	105	08	Procesos operativos II: tratamiento y transporte	
 Cuestionario-ATC_A_07052023	106	02	Experiencia de personas, diversidad, prevención y sostenibilidad	2.2.1
 Cuestionario-ATC_A_07052023	107	12	Normas de cumplimiento: datos, blanqueo, ética y ciberseguridad	
-Cuestionario-ATC_A_07052023	108	11	Internacionalización y aduanas	
+Cuestionario-ATC_A_07052023	108	11	Internacionalización y aduanas	11.2.1
 Cuestionario-ATC_A_07052023	109	06	Herramientas: funciones y utilidad	6.8
 Cuestionario-ATC_A_07052023	110	05	Nuevas líneas de negocio: logística, frío y patrimonio	5.5.1
 Cuestionario-REP_A_07052023	1	09	Procesos operativos III: distribución y entrega	9.4.1
 Cuestionario-REP_A_07052023	2	03	Productos y servicios: comunicación, paquetería y e-commerce	3.4
-Cuestionario-REP_A_07052023	3	11	Internacionalización y aduanas	
+Cuestionario-REP_A_07052023	3	11	Internacionalización y aduanas	11.2
 Cuestionario-REP_A_07052023	4	07	Procesos operativos I: admisión	7.9
 Cuestionario-REP_A_07052023	5	01	Marco normativo postal y naturaleza jurídica	1.7.2.1
 Cuestionario-REP_A_07052023	6	06	Herramientas: funciones y utilidad	6.8
@@ -184,7 +184,7 @@ Cuestionario-REP_A_07052023	17	09	Procesos operativos III: distribución y entre
 Cuestionario-REP_A_07052023	18	03	Productos y servicios: comunicación, paquetería y e-commerce	3.11.2
 Cuestionario-REP_A_07052023	19	08	Procesos operativos II: tratamiento y transporte	
 Cuestionario-REP_A_07052023	20	10	El cliente: atención, calidad y protocolos de venta	10.9.1
-Cuestionario-REP_A_07052023	21	11	Internacionalización y aduanas	
+Cuestionario-REP_A_07052023	21	11	Internacionalización y aduanas	11.2
 Cuestionario-REP_A_07052023	22	07	Procesos operativos I: admisión	7.9.1
 Cuestionario-REP_A_07052023	23	08	Procesos operativos II: tratamiento y transporte	8.6.1
 Cuestionario-REP_A_07052023	24	03	Productos y servicios: comunicación, paquetería y e-commerce	3.15
@@ -215,7 +215,7 @@ Cuestionario-REP_A_07052023	48	--	Razonamiento numérico: tabla de datos del pro
 Cuestionario-REP_A_07052023	49	--	Razonamiento numérico: tabla de datos del propio cuadernillo	--
 Cuestionario-REP_A_07052023	50	--	Razonamiento numérico: tabla de datos del propio cuadernillo	--
 Cuestionario-REP_A_07052023	51	10	El cliente: atención, calidad y protocolos de venta	10.9.3
-Cuestionario-REP_A_07052023	52	11	Internacionalización y aduanas	
+Cuestionario-REP_A_07052023	52	11	Internacionalización y aduanas	11.4.1
 Cuestionario-REP_A_07052023	53	07	Procesos operativos I: admisión	7.9.2
 Cuestionario-REP_A_07052023	54	03	Productos y servicios: comunicación, paquetería y e-commerce	3.4.1
 Cuestionario-REP_A_07052023	55	03	Productos y servicios: comunicación, paquetería y e-commerce	
@@ -237,10 +237,10 @@ Cuestionario-REP_A_07052023	70	02	Experiencia de personas, diversidad, prevenci�
 Cuestionario-REP_A_07052023	71	05	Nuevas líneas de negocio: logística, frío y patrimonio	5.9
 Cuestionario-REP_A_07052023	72	06	Herramientas: funciones y utilidad	6.2
 Cuestionario-REP_A_07052023	73	09	Procesos operativos III: distribución y entrega	9.11
-Cuestionario-REP_A_07052023	74	11	Internacionalización y aduanas	
+Cuestionario-REP_A_07052023	74	11	Internacionalización y aduanas	11.2.1
 Cuestionario-REP_A_07052023	75	09	Procesos operativos III: distribución y entrega	9.4.2
 Cuestionario-REP_A_07052023	76	10	El cliente: atención, calidad y protocolos de venta	10.5
-Cuestionario-REP_A_07052023	77	11	Internacionalización y aduanas	
+Cuestionario-REP_A_07052023	77	11	Internacionalización y aduanas	11.6
 Cuestionario-REP_A_07052023	78	07	Procesos operativos I: admisión	7.8.1
 Cuestionario-REP_A_07052023	79	09	Procesos operativos III: distribución y entrega	9.2
 Cuestionario-REP_A_07052023	80	03	Productos y servicios: comunicación, paquetería y e-commerce	
@@ -272,5 +272,5 @@ Cuestionario-REP_A_07052023	105	04	Productos y servicios en oficinas, financiero
 Cuestionario-REP_A_07052023	106	06	Herramientas: funciones y utilidad	6.8
 Cuestionario-REP_A_07052023	107	02	Experiencia de personas, diversidad, prevención y sostenibilidad	2.12
 Cuestionario-REP_A_07052023	108	12	Normas de cumplimiento: datos, blanqueo, ética y ciberseguridad	
-Cuestionario-REP_A_07052023	109	11	Internacionalización y aduanas	
+Cuestionario-REP_A_07052023	109	11	Internacionalización y aduanas	11.6
 Cuestionario-REP_A_07052023	110	05	Nuevas líneas de negocio: logística, frío y patrimonio	5.9

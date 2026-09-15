@@ -16,6 +16,8 @@ c) CCP Barajas
 d) CTP el Prat
 ```
 
+*La contesta el epígrafe 11.2.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 14 · respuesta: c**
@@ -27,6 +29,8 @@ b) UPU (Unión Postal Universal)
 c) UPAE (Unión Postal de las Américas y España)
 d) Kahala Post Group
 ```
+
+*La contesta el epígrafe 11.2.2.*
 
 ---
 
@@ -40,6 +44,8 @@ c) Canarias es territorio de la Unión Europea
 d) Canarias es territorio de aplicación del impuesto general indirecto canario (IGIC)
 ```
 
+*La contesta el epígrafe 11.6.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 70 · respuesta: b**
@@ -51,6 +57,8 @@ b) En todos los envíos postales con mercancía
 c) En los productos que contengan mercancía pero que no sean ordinarios
 d) Las cartas certificadas con mercancía no están incluidas en este principio
 ```
+
+*La contesta el epígrafe 11.6.*
 
 ---
 
@@ -64,6 +72,8 @@ c) Las prohibiciones universales
 d) Se aplican todas las prohibiciones citadas en las tres respuestas anteriores
 ```
 
+*La contesta el epígrafe 11.2.1.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 3 · respuesta: a**
@@ -75,6 +85,8 @@ b) El CCP de Barajas
 c) El CI3 de Barajas
 d) Rampa 7
 ```
+
+*La contesta el epígrafe 11.2.*
 
 ---
 
@@ -88,6 +100,8 @@ c) A las Oficinas de Cambio Extraterritoriales (ETOE)
 d) Todas las respuestas anteriores son correctas Página 2 de 13 - REP/A A
 ```
 
+*La contesta el epígrafe 11.2.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 52 · respuesta: a**
@@ -99,6 +113,8 @@ b) Somete los envíos al control de la aduana
 c) Somete los envíos al control del resto de autoridades competentes (sanitarias, farmacéuticas, etc.)
 d) Actúa en nombre del destinatario ingresando en la Agencia Tributaria los tributos cobrados Página 6 de 13 - REP/A A
 ```
+
+*La contesta el epígrafe 11.4.1.*
 
 ---
 
@@ -112,6 +128,8 @@ c) La red Kahala
 d) La red SPU
 ```
 
+*La contesta el epígrafe 11.2.1.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 77 · respuesta: c**
@@ -124,6 +142,8 @@ c) Canarias
 d) La Península, Baleares, Ceuta o Melilla
 ```
 
+*La contesta el epígrafe 11.6.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 109 · respuesta: b**
@@ -135,4 +155,6 @@ b) Los envíos de la Unión Europea con destino a la Península y Baleares
 c) Los envíos de Canarias con destino a Ceuta
 d) Los envíos de fuera de la Unión Europea con destino a Melilla
 ```
+
+*La contesta el epígrafe 11.6.*
 
