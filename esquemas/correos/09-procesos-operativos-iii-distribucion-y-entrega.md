@@ -17,6 +17,25 @@ corrige**, porque **el documento remite a artículos que no reproduce y a leyes 
 volcado traía el defecto del nueve en su forma más extendida, y alcanzó los objetivos de calidad**.
 
 <!-- indice -->
+
+## Índice
+
+- [Frecuencia y calidad](#frecuencia-y-calidad)
+- [Los entornos especiales](#los-entornos-especiales)
+- [Las unidades de distribución](#las-unidades-de-distribución)
+- [El equipamiento](#el-equipamiento)
+- [Los cinco procesos de la unidad](#los-cinco-procesos-de-la-unidad)
+- [El estacionamiento](#el-estacionamiento)
+- [La entrega a domicilio](#la-entrega-a-domicilio)
+- [La entrega registrada](#la-entrega-registrada)
+- [La entrega en oficina y sus almacenes](#la-entrega-en-oficina-y-sus-almacenes)
+- [Las notificaciones: lo que el documento no dice y la norma sí](#las-notificaciones-lo-que-el-documento-no-dice-y-la-norma-sí)
+- [Otros procesos](#otros-procesos)
+- [Los servicios rurales](#los-servicios-rurales)
+- [La comercialización con HERA](#la-comercialización-con-hera)
+- [Lo que el documento se contradice, y lo que la norma corrige](#lo-que-el-documento-se-contradice-y-lo-que-la-norma-corrige)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## Frecuencia y calidad
@@ -619,7 +638,7 @@ volcado traía el defecto del nueve en su forma más extendida, y alcanzó los o
   gráficos · **las TARIFAS** de petición de entrega a domicilio y de tasa de devolución, que el
   documento no da.
 - **DÓNDE ESTÁ LA NORMA** · `[tem]` · **el RD 1829/1999, la Ley 43/2010, la Ley 39/2015 y la LO
-  3/2018 están volcados** en `fuentes/correos-normas/` · **la Ley de prevención de blanqueo se
+  3/2018 están volcados** del texto consolidado del Boletín · **la Ley de prevención de blanqueo se
   desarrolla en el TEMA 12**: aquí sólo su efecto operativo, el cuadro de documentos válidos y no
   válidos.
 - **EL NUEVE EN SU FORMA MÁS EXTENDIDA DE LOS DOCE TEMAS** · `[tem]` · alcanzó **la numeración del

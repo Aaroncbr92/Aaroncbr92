@@ -1,5 +1,20 @@
 # Tema 3 del específico de Correos · Productos y servicios: comunicación, paquetería y comercio electrónico
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 3 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **El documento de referencia de Correos.** El catálogo de productos **no está en ninguna norma**: es ficha de empresa, y cambia sin publicarse en el Boletín |
+| **Identificador** | — |
+| **Redacción que se estudia** | **No procede**: el catálogo no tiene redacción consolidada. Las **dos normas que el tema sí usa** van en su redacción vigente |
+| **Norma de apoyo** | **Real Decreto 1829/1999** · `BOE-A-1999-24919` y **Ley 39/2015** · `BOE-A-2015-10565` |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 3**, reconocido ópticamente |
+| **Extensión** | **6.235 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el franqueo en destino (**FD**); el correo comercial
 de respuesta internacional (**CCRI**); la prueba de entrega electrónica (**PEE**); la entrega exclusiva
 al destinatario (**EDD**); el código de entrega directa (**CED**); la Ley del Procedimiento
@@ -22,6 +37,30 @@ producto. **Eso cambia la manera de comprobarlo.** En un tema de normas basta co
 **Este volumen ha ido a esa página cifra por cifra**, y el apartado final cuenta cuántas venían mal.
 
 <!-- indice -->
+
+## Índice
+
+- [1. Cómo leer un catálogo de productos postales](#1-cómo-leer-un-catálogo-de-productos-postales)
+- [2. La carta y la tarjeta postal](#2-la-carta-y-la-tarjeta-postal)
+  - [La ficha de la carta ordinaria](#la-ficha-de-la-carta-ordinaria)
+- [3. La carta certificada](#3-la-carta-certificada)
+- [4. Las notificaciones](#4-las-notificaciones)
+- [5. El marketing directo](#5-el-marketing-directo)
+  - [Publibuzón, Publicorreo Óptimo y Publicorreo Premium](#publibuzón-publicorreo-óptimo-y-publicorreo-premium)
+  - [Los cuatro productos de datos](#los-cuatro-productos-de-datos)
+- [6. Las respuestas comerciales](#6-las-respuestas-comerciales)
+- [7. Libros, publicaciones periódicas y cecogramas](#7-libros-publicaciones-periódicas-y-cecogramas)
+- [8. Los servicios telegráficos](#8-los-servicios-telegráficos)
+- [9. La paquetería nacional de Correos](#9-la-paquetería-nacional-de-correos)
+  - [La paquetería internacional](#la-paquetería-internacional)
+- [10. Valija y los servicios del Camino de Santiago](#10-valija-y-los-servicios-del-camino-de-santiago)
+- [11. Correos Express](#11-correos-express)
+- [12. Los canales digitales](#12-los-canales-digitales)
+  - [Las soluciones de comercio electrónico](#las-soluciones-de-comercio-electrónico)
+- [13. Citypaq](#13-citypaq)
+- [14. Lo que este tema no da, y dónde está](#14-lo-que-este-tema-no-da-y-dónde-está)
+- [15. Trazabilidad](#15-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Cómo leer un catálogo de productos postales
@@ -476,8 +515,8 @@ exactamente el tipo de dato que decide una pregunta.**
 | Materia | Dónde está | Estado |
 |---|---|---|
 | **Las tarifas** de cada producto | El tarifario vigente de Correos | **NO volcadas.** El documento no las da y **cambian todos los años**: estudiarlas de un temario es estudiar un dato caducado |
-| **El Reglamento Postal** completo | Real Decreto 1829/1999 | **Volcado** en `fuentes/correos-normas/BOE-A-1999-24919.md`. Se nombra lo que el documento invoca |
-| **La Ley 39/2015** | Boletín Oficial del Estado | **Volcada** en `fuentes/correos-normas/BOE-A-2015-10566.md` |
+| **El Reglamento Postal** completo | Real Decreto 1829/1999 | **Volcado** para este temario desde el **texto consolidado** `BOE-A-1999-24919`. Se nombra lo que el documento invoca |
+| **La Ley 39/2015** | Boletín Oficial del Estado | **Volcada** para este temario desde el **texto consolidado** `BOE-A-2015-10565` |
 | **La Ley Orgánica del Poder Judicial** | Boletín Oficial del Estado | **NO volcada**: se nombra como norma de las notificaciones judiciales, que es lo que el programa pide |
 | **La Ley 15/2009**, del contrato de transporte terrestre | Boletín Oficial del Estado | **NO volcada**: fija el límite de responsabilidad al que el documento remite |
 | **La matriz de plazos** a Canarias, Ceuta y Melilla | Un enlace del documento a la web de Correos | **NO volcada**: el documento no la reproduce, remite a ella |
@@ -488,7 +527,7 @@ exactamente el tipo de dato que decide una pregunta.**
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 3 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-03.txt` | **Las definiciones de carta, tarjeta postal y envío certificado; las fichas completas de carta ordinaria, carta certificada y notificaciones; los siete productos de marketing directo con sus pesos, medidas y plazos; las respuestas comerciales y su cajetín; el Programa Postlibris y sus cuatro organizaciones; las publicaciones periódicas y su bonificación; el cecograma; burofax y telegrama con sus tres tipologías de prueba de entrega electrónica; los seis productos de paquetería nacional y los cinco internacionales; las nueve zonas; los cuatro criterios de peso volumétrico; la valija y los tres servicios del Camino; los seis productos de Correos Express y los tres de islas; los cinco canales digitales; las tres versiones de tienda en línea; y los dos modelos de Citypaq con sus tamaños**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 3 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **Las definiciones de carta, tarjeta postal y envío certificado; las fichas completas de carta ordinaria, carta certificada y notificaciones; los siete productos de marketing directo con sus pesos, medidas y plazos; las respuestas comerciales y su cajetín; el Programa Postlibris y sus cuatro organizaciones; las publicaciones periódicas y su bonificación; el cecograma; burofax y telegrama con sus tres tipologías de prueba de entrega electrónica; los seis productos de paquetería nacional y los cinco internacionales; las nueve zonas; los cuatro criterios de peso volumétrico; la valija y los tres servicios del Camino; los seis productos de Correos Express y los tres de islas; los cinco canales digitales; las tres versiones de tienda en línea; y los dos modelos de Citypaq con sus tamaños**, citados literalmente |
 
 **Sobre la comprobación de este tema hay que decir algo que no vale para ningún otro.**
 

@@ -17,6 +17,25 @@ bases, seis derechos, tres niveles de diligencia, 1.500 y 3.000 €, 10 y 20 mil
 que más se apoya en citas, de las que CINCO no cuadran**.
 
 <!-- indice -->
+
+## Índice
+
+- [Protección de datos: el derecho y sus dos normas](#protección-de-datos-el-derecho-y-sus-dos-normas)
+- [Las definiciones del Reglamento](#las-definiciones-del-reglamento)
+- [Los siete principios del artículo 5](#los-siete-principios-del-artículo-5)
+- [Las seis bases legítimas y el consentimiento](#las-seis-bases-legítimas-y-el-consentimiento)
+- [Los derechos de los interesados](#los-derechos-de-los-interesados)
+- [Las obligaciones de la empresa](#las-obligaciones-de-la-empresa)
+- [Blanqueo: concepto y marco legal](#blanqueo-concepto-y-marco-legal)
+- [La diligencia debida y sus tres niveles](#la-diligencia-debida-y-sus-tres-niveles)
+- [La estructura de la prevención en Correos](#la-estructura-de-la-prevención-en-correos)
+- [Información, fraudes y comunicación de sospechas](#información-fraudes-y-comunicación-de-sospechas)
+- [Compromiso ético: el Código y el Programa penal](#compromiso-ético-el-código-y-el-programa-penal)
+- [Transparencia: la Ley 19/2013](#transparencia-la-ley-192013)
+- [Seguridad de la información y ciberseguridad](#seguridad-de-la-información-y-ciberseguridad)
+- [Las discrepancias del documento](#las-discrepancias-del-documento)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## Protección de datos: el derecho y sus dos normas
@@ -623,7 +642,7 @@ que más se apoya en citas, de las que CINCO no cuadran**.
   reproduce · **el artículo 31 bis del Código Penal**: se dan sus dos supuestos de imputación y las
   circunstancias de exención.
 - **DÓNDE ESTÁ LA NORMA** · `[tem]` · **la LOPDGDD, la Ley 10/2010 y la Ley 19/2013 están volcadas**
-  en `fuentes/correos-normas/` · **los artículos 4, 5, 9, 18.4 y 26 de la Ley 10/2010 y los
+  del texto consolidado del Boletín · **los artículos 4, 5, 9, 18.4 y 26 de la Ley 10/2010 y los
   artículos 2, 3, 6, 7 y 8 de la Ley 19/2013 se comprueban contra ellas**.
 - **LA ADVERTENCIA DE FUENTE DE ESTE TEMA** · `[tem]` · **la capa de texto traía una SEGUNDA forma
   del defecto que el detector no veía**: además de cambiar **la i por una ele**, cambia **la ó por

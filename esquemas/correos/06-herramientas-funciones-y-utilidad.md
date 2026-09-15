@@ -17,6 +17,18 @@ quince nombres propios, casi todos siglas, y al examen le basta con CAMBIARLE LA
 **este tema es, sobre todo, una tabla**.
 
 <!-- indice -->
+
+## Índice
+
+- [El mapa entero](#el-mapa-entero)
+- [IRIS](#iris)
+- [SGIE](#sgie)
+- [Minerva](#minerva)
+- [Las otras aplicaciones de oficina](#las-otras-aplicaciones-de-oficina)
+- [El dispositivo PDA](#el-dispositivo-pda)
+- [Las aplicaciones del responsable](#las-aplicaciones-del-responsable)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## El mapa entero

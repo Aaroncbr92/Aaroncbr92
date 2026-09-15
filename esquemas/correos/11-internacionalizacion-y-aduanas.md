@@ -15,6 +15,16 @@ circuito del ITMATT**, y **su idea es contraintuitiva: el envío no sale hasta q
 lo autoriza** · **el 1 de julio de 2021 es la fecha que parte el tema en dos**.
 
 <!-- indice -->
+
+## Índice
+
+- [El negocio internacional](#el-negocio-internacional)
+- [La exportación y las oficinas de cambio](#la-exportación-y-las-oficinas-de-cambio)
+- [La aduana: el avance electrónico de datos](#la-aduana-el-avance-electrónico-de-datos)
+- [El 1 de julio de 2021](#el-1-de-julio-de-2021)
+- [El sistema IOSS](#el-sistema-ioss)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## El negocio internacional

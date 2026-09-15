@@ -1,5 +1,20 @@
 # Tema 12 del específico de Correos · Normas de cumplimiento: datos, blanqueo y ciberseguridad
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 12 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **Ley 10/2010, de 28 de abril**, de prevención del blanqueo de capitales y de la financiación del terrorismo, y **Ley 19/2013, de 9 de diciembre**, de transparencia, acceso a la información pública y buen gobierno |
+| **Identificador** | `BOE-A-2010-6737` y `BOE-A-2013-12887` |
+| **Redacción que se estudia** | Las **vigentes hoy**. Se comprueban contra ellas los **artículos 4, 5, 9, 18.4 y 26** de la Ley 10/2010 y los **artículos 2, 3, 6, 7 y 8** de la Ley 19/2013 |
+| **Norma de apoyo** | **Ley Orgánica 3/2018** · `BOE-A-2018-16673` y **Ley 3/2013** · `BOE-A-2013-5940` |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 12**, reconocido ópticamente |
+| **Extensión** | **10.513 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada, porque son cuatro materias y cada una trae las
 suyas. **Protección de datos**: el Reglamento General de Protección de Datos (**RGPD**); la Ley
 Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales (**LOPDGDD**); la
@@ -29,6 +44,30 @@ diez puntos del decálogo, los diez principios del Código, los seis ámbitos de
 que contarlas.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Protección de datos: el derecho y sus dos normas](#1-protección-de-datos-el-derecho-y-sus-dos-normas)
+- [2. Las definiciones del Reglamento](#2-las-definiciones-del-reglamento)
+- [3. Los siete principios del artículo 5](#3-los-siete-principios-del-artículo-5)
+- [4. Las seis bases legítimas y el consentimiento](#4-las-seis-bases-legítimas-y-el-consentimiento)
+- [5. Los derechos de los interesados](#5-los-derechos-de-los-interesados)
+- [6. Las obligaciones de la empresa](#6-las-obligaciones-de-la-empresa)
+- [7. El régimen de sanciones](#7-el-régimen-de-sanciones)
+- [8. Blanqueo de capitales: concepto y marco legal](#8-blanqueo-de-capitales-concepto-y-marco-legal)
+- [9. La diligencia debida y sus tres niveles](#9-la-diligencia-debida-y-sus-tres-niveles)
+- [10. La estructura de la prevención en Correos](#10-la-estructura-de-la-prevención-en-correos)
+- [11. Las obligaciones de información y los fraudes](#11-las-obligaciones-de-información-y-los-fraudes)
+- [12. Compromiso ético: el Código y el Programa penal](#12-compromiso-ético-el-código-y-el-programa-penal)
+- [13. Transparencia: la Ley 19/2013](#13-transparencia-la-ley-192013)
+  - [Los principios generales de la publicidad activa](#los-principios-generales-de-la-publicidad-activa)
+  - [Las exclusiones y el derecho de acceso](#las-exclusiones-y-el-derecho-de-acceso)
+- [14. Seguridad de la información y ciberseguridad](#14-seguridad-de-la-información-y-ciberseguridad)
+  - [El decálogo de seguridad](#el-decálogo-de-seguridad)
+- [15. Las discrepancias del documento](#15-las-discrepancias-del-documento)
+- [16. Lo que este tema no da, y dónde está](#16-lo-que-este-tema-no-da-y-dónde-está)
+- [17. Trazabilidad](#17-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Protección de datos: el derecho y sus dos normas
@@ -794,9 +833,9 @@ actualizado la remisión**, no el temario.
 
 | Materia | Dónde está | Estado |
 |---|---|---|
-| **El articulado completo del RGPD y de la LOPDGDD** | Boletín Oficial del Estado y Diario Oficial de la Unión Europea | **La LOPDGDD está volcada** en `fuentes/correos-normas/BOE-A-2018-16673.md`. **El RGPD no**, por no ser norma del Boletín: el documento lo cita y aquí se reproduce lo citado |
-| **La Ley 10/2010 y su Reglamento** | Boletín Oficial del Estado | **La Ley 10/2010 está volcada** en `fuentes/correos-normas/BOE-A-2010-6737.md`, y **sus artículos 4, 5, 9, 18.4 y 26 se comprueban contra ella**. **El Real Decreto 304/2014 no está volcado**: el documento lo cita y no lo reproduce |
-| **La Ley 19/2013** | Boletín Oficial del Estado | **Volcada** en `fuentes/correos-normas/BOE-A-2013-12887.md`. **Sus artículos 2, 3, 6, 7 y 8 se comprueban contra ella** |
+| **El articulado completo del RGPD y de la LOPDGDD** | Boletín Oficial del Estado y Diario Oficial de la Unión Europea | **La LOPDGDD está volcada** desde el **texto consolidado** `BOE-A-2018-16673`. **El RGPD no**, por no ser norma del Boletín: el documento lo cita y aquí se reproduce lo citado |
+| **La Ley 10/2010 y su Reglamento** | Boletín Oficial del Estado | **La Ley 10/2010 está volcada** desde el **texto consolidado** `BOE-A-2010-6737`, y **sus artículos 4, 5, 9, 18.4 y 26 se comprueban contra ella**. **El Real Decreto 304/2014 no está volcado**: el documento lo cita y no lo reproduce |
+| **La Ley 19/2013** | Boletín Oficial del Estado | **Volcada** para este temario desde el **texto consolidado** `BOE-A-2013-12887`. **Sus artículos 2, 3, 6, 7 y 8 se comprueban contra ella** |
 | **El artículo 31 bis del Código Penal** | Boletín Oficial del Estado | **NO volcado**: el documento resume sus dos supuestos de imputación y las circunstancias de exención, y eso es lo que aquí se da |
 | **El Manual de Prevención de Correos**, el **Código General de Conducta** y el **Programa de Prevención de Riesgos Penales** | Normativa interna, en Conecta y en la web corporativa | **NO reproducidos**: no son públicos. **Se da lo que el documento resume de ellos**, que es lo que se pregunta |
 | **Los formularios**: la DAE, el formulario de denuncia, el formulario de operación sospechosa | El propio documento, en imagen | **NO reproducidos**: **se dan los campos y las reglas de cumplimentación**, que es lo preguntable |
@@ -806,11 +845,11 @@ actualizado la remisión**, no el temario.
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 12 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-12.txt` | **Las definiciones y los siete principios del RGPD; las seis bases legítimas; los seis derechos con sus plazos; las obligaciones de la empresa y las 72 horas; los dos tramos de sanción; las tres fases del blanqueo y el cuadro comparativo con la financiación del terrorismo; los tres niveles de diligencia debida con sus umbrales; los documentos válidos y no válidos; la estructura de la prevención; los plazos de la comunicación sospechosa; los diez principios del Código; las obligaciones de publicidad activa; y el glosario de ciberseguridad**, citados literalmente |
-| **Ley Orgánica 3/2018** | `fuentes/correos-normas/BOE-A-2018-16673.md` | **La disposición derogatoria única**, que deroga la Ley Orgánica 15/1999 |
-| **Ley 10/2010** | `fuentes/correos-normas/BOE-A-2010-6737.md` | **El artículo 5**, cuya cita del documento se comprobó palabra por palabra; **el artículo 9**, que es el de las medidas simplificadas y no el 4 que el volcado atribuía; **la fecha de publicación en el Boletín**, 29 de abril de 2010 |
-| **Ley 19/2013** | `fuentes/correos-normas/BOE-A-2013-12887.md` | **El artículo 3.b)**, con los 100.000 €, el 40 % y los 5.000 €, comprobado palabra por palabra; **y su fecha, 9 de diciembre**, que el volcado daba como 4 de diciembre |
-| **Ley 3/2013** | `fuentes/correos-normas/BOE-A-2013-5940.md` | **El artículo 8**, para la remisión viva a la Ley Orgánica 15/1999 derogada |
+| **Documento de referencia de Correos** | Tema 12 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **Las definiciones y los siete principios del RGPD; las seis bases legítimas; los seis derechos con sus plazos; las obligaciones de la empresa y las 72 horas; los dos tramos de sanción; las tres fases del blanqueo y el cuadro comparativo con la financiación del terrorismo; los tres niveles de diligencia debida con sus umbrales; los documentos válidos y no válidos; la estructura de la prevención; los plazos de la comunicación sospechosa; los diez principios del Código; las obligaciones de publicidad activa; y el glosario de ciberseguridad**, citados literalmente |
+| **Ley Orgánica 3/2018** | Texto consolidado `BOE-A-2018-16673` del Boletín Oficial del Estado | **La disposición derogatoria única**, que deroga la Ley Orgánica 15/1999 |
+| **Ley 10/2010** | Texto consolidado `BOE-A-2010-6737` del Boletín Oficial del Estado | **El artículo 5**, cuya cita del documento se comprobó palabra por palabra; **el artículo 9**, que es el de las medidas simplificadas y no el 4 que el volcado atribuía; **la fecha de publicación en el Boletín**, 29 de abril de 2010 |
+| **Ley 19/2013** | Texto consolidado `BOE-A-2013-12887` del Boletín Oficial del Estado | **El artículo 3.b)**, con los 100.000 €, el 40 % y los 5.000 €, comprobado palabra por palabra; **y su fecha, 9 de diciembre**, que el volcado daba como 4 de diciembre |
+| **Ley 3/2013** | Texto consolidado `BOE-A-2013-5940` del Boletín Oficial del Estado | **El artículo 8**, para la remisión viva a la Ley Orgánica 15/1999 derogada |
 | **Páginas miradas a la vista** | Tema 12 del documento de referencia, en PDF | **Portada** (Blanqueo), **3** (STC 292/2000), **29** (GAFI 1989), **31** (90 %), **36** (artículo 9), **41** (75 %), **42** (RD 394/2014), **43** (90 días), **45** (BOE 29/04/10), **47** (2015/849 y 2019/758), **51** (Ley 10/2020), **109** (9 de diciembre), **128** (95 %), **129** (glosario CID), **135** (90 %) **y 141** (el decálogo entero) |
 
 **Sobre la comprobación de este tema hay que decir dos cosas, y la primera es nueva en todo el

@@ -1,5 +1,20 @@
 # Tema 4 del específico de Correos · Productos y servicios en oficinas, financieros, digitales y filatelia
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 4 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **El documento de referencia de Correos.** Los productos de oficina, los servicios financieros y la filatelia **no están en ninguna norma** |
+| **Identificador** | — |
+| **Redacción que se estudia** | **No procede.** La **Ley 39/2015**, que el tema cita por el Gestor de Notificaciones, va en su redacción vigente |
+| **Norma de apoyo** | **Ley 39/2015** · `BOE-A-2015-10565` |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 4**, reconocido ópticamente |
+| **Extensión** | **4.034 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la prueba de entrega electrónica (**PEE**); la Unión
 Postal Universal (**UPU**); el sistema de gestión integral de envíos (**SGIE**); el franqueo en destino
 (**FD**); el documento oficial de identidad (**DOI**); el código de identificación fiscal (**CIF**); la
@@ -24,6 +39,28 @@ reconocieron ópticamente las noventa y seis páginas**, que es la fuente que es
 comprobar. El apartado final lo cuenta con detalle.
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los paquetizados y los prefranqueados](#1-los-paquetizados-y-los-prefranqueados)
+  - [Las dos cartas certificadas de tarifa plana](#las-dos-cartas-certificadas-de-tarifa-plana)
+  - [Los prefranqueados](#los-prefranqueados)
+  - [Los envíos PAQ de libre servicio](#los-envíos-paq-de-libre-servicio)
+- [2. Las certificaciones](#2-las-certificaciones)
+- [3. Los apartados postales](#3-los-apartados-postales)
+- [4. Los servicios financieros](#4-los-servicios-financieros)
+  - [El giro](#el-giro)
+  - [Correos Cash](#correos-cash)
+  - [Correos Prepago](#correos-prepago)
+  - [El cobro de recibos](#el-cobro-de-recibos)
+- [5. Las soluciones digitales](#5-las-soluciones-digitales)
+- [6. Filatelia](#6-filatelia)
+  - [Los productos filatélicos](#los-productos-filatélicos)
+  - [Tu sello personalizado](#tu-sello-personalizado)
+- [7. Los vales UPU](#7-los-vales-upu)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los paquetizados y los prefranqueados
@@ -332,7 +369,7 @@ franqueo en sí mismo**, y **su plazo de validez es el que figura en el propio v
 |---|---|---|
 | **Las tarifas** de todos estos productos | El tarifario vigente de Correos | **NO volcadas.** Cambian cada año |
 | **Las pantallas de IRIS** para cada operación | El propio documento, con decenas de capturas | **NO reproducidas**, por la misma razón que en el tema 7: **una captura no se estudia** |
-| **La Ley 39/2015** | Boletín Oficial del Estado | **Volcada** en `fuentes/correos-normas/BOE-A-2015-10566.md` |
+| **La Ley 39/2015** | Boletín Oficial del Estado | **Volcada** para este temario desde el **texto consolidado** `BOE-A-2015-10565` |
 | **La Ley 11/2021**, de lucha contra el fraude fiscal | Boletín Oficial del Estado | **NO volcada**: se da el límite de 999,99 € y la lista de excepciones que el documento recoge |
 | **Las condiciones de uso de Correos ID y Buzón Digital** | La web de Correos | **NO volcadas**: se dan los requisitos que el documento enumera |
 | **El catálogo filatélico** de cada año | El canal filatélico | **NO volcado**: se dan los tipos de producto y los datos técnicos de Tu Sello |
@@ -342,7 +379,7 @@ franqueo en sí mismo**, y **su plazo de validez es el que figura en el propio v
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 4 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-04.txt` | **Los paquetizados y prefranqueados con sus medidas y pesos; los seis envíos PAQ de libre servicio; los cuatro tipos de certificación con sus plazos; los apartados postales con sus duraciones, titulares y requisitos; los límites del giro; las seis entidades de Correos Cash y las dos clases de cliente del Banco Santander; las cifras de Correos Prepago; los dos límites del cobro de recibos; las tres soluciones digitales; y la historia, los productos y las características técnicas de la filatelia**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 4 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **Los paquetizados y prefranqueados con sus medidas y pesos; los seis envíos PAQ de libre servicio; los cuatro tipos de certificación con sus plazos; los apartados postales con sus duraciones, titulares y requisitos; los límites del giro; las seis entidades de Correos Cash y las dos clases de cliente del Banco Santander; las cifras de Correos Prepago; los dos límites del cobro de recibos; las tres soluciones digitales; y la historia, los productos y las características técnicas de la filatelia**, citados literalmente |
 
 **Sobre la comprobación de este tema hay que contar dos cosas, y la primera es la más importante de
 todo el volumen.**

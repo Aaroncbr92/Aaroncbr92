@@ -1,5 +1,19 @@
 # Tema 5 del específico de Correos · Nuevas líneas de negocio: Correos Logística, Correos Frío y otros negocios
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 5 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **No hay norma que sostenga este tema.** Su materia es la disciplina logística —almacenaje, preparación de pedidos, identificación de mercancía— más el frío y el patrimonio inmobiliario, y el programa remite al documento de empresa |
+| **Identificador** | — |
+| **Redacción que se estudia** | **No procede**: ninguna norma sostiene este tema |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 5**, reconocido ópticamente |
+| **Extensión** | **5.135 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la unidad de mantenimiento de existencias (**SKU**,
 por sus siglas inglesas); el primero en entrar, primero en salir (**FIFO**); el último en entrar,
 primero en salir (**LIFO**); el primero en caducar, primero en salir (**FEFO**); el sistema de gestión
@@ -21,6 +35,27 @@ patrimonio inmobiliario. **Quien lo estudie esperando fichas de producto se equi
 aquí se pregunta son definiciones, siglas y clasificaciones.
 
 <!-- indice -->
+
+## Índice
+
+- [1. Por qué Correos entra en logística](#1-por-qué-correos-entra-en-logística)
+- [2. El almacén](#2-el-almacén)
+  - [La externalización](#la-externalización)
+- [3. La unidad de carga](#3-la-unidad-de-carga)
+- [4. Los cinco sistemas de almacenaje](#4-los-cinco-sistemas-de-almacenaje)
+  - [Los tres flujos](#los-tres-flujos)
+- [5. La preparación de pedidos](#5-la-preparación-de-pedidos)
+  - [Las cuatro fases](#las-cuatro-fases)
+  - [Los métodos de picking](#los-métodos-de-picking)
+  - [La tecnología y su rendimiento](#la-tecnología-y-su-rendimiento)
+  - [Los equipos de manutención](#los-equipos-de-manutención)
+- [6. Los sistemas de gestión de almacenes](#6-los-sistemas-de-gestión-de-almacenes)
+- [7. Identificación y captura de datos](#7-identificación-y-captura-de-datos)
+- [8. Correos Frío](#8-correos-frío)
+- [9. Otros negocios: el patrimonio inmobiliario](#9-otros-negocios-el-patrimonio-inmobiliario)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Por qué Correos entra en logística
@@ -446,7 +481,7 @@ versátiles y flexibles**.
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 5 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-05.txt` | **La razón de entrar en logística; la definición de almacén y sus dos clasificaciones; los objetivos, factores y principios del almacenaje; los dos ejes de la externalización con sus ventajas y riesgos; las tres unidades y los diez tipos de unidad de carga; los cinco sistemas de almacenaje con sus flujos y alturas; los tres flujos FIFO, FEFO y LIFO; las cuatro fases y los tres ejes del picking; las tablas de tecnología, de equipos de manutención y de eficiencia por recorrido; las cinco cifras del sistema de gestión de almacenes; las seis simbologías de código de barras; las dos tablas de cajas isotermas de Correos Frío; y la superficie, los regímenes de tenencia y los usos del patrimonio inmobiliario**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 5 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **La razón de entrar en logística; la definición de almacén y sus dos clasificaciones; los objetivos, factores y principios del almacenaje; los dos ejes de la externalización con sus ventajas y riesgos; las tres unidades y los diez tipos de unidad de carga; los cinco sistemas de almacenaje con sus flujos y alturas; los tres flujos FIFO, FEFO y LIFO; las cuatro fases y los tres ejes del picking; las tablas de tecnología, de equipos de manutención y de eficiencia por recorrido; las cinco cifras del sistema de gestión de almacenes; las seis simbologías de código de barras; las dos tablas de cajas isotermas de Correos Frío; y la superficie, los regímenes de tenencia y los usos del patrimonio inmobiliario**, citados literalmente |
 
 **Sobre la comprobación de este tema vale lo dicho en el tema 3, y con un matiz propio.**
 

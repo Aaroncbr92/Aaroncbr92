@@ -1,5 +1,20 @@
 # Tema 8 del específico de Correos · Procesos operativos II: tratamiento y transporte
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 8 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **El documento de referencia de Correos.** El mapa de centros, las redes de transporte y los parámetros de las máquinas **no están en ninguna norma** |
+| **Identificador** | — |
+| **Redacción que se estudia** | **No procede.** La **Ley 43/2010**, de la que salen las seis operaciones postales, va en su redacción vigente |
+| **Norma de apoyo** | **Ley 43/2010** · `BOE-A-2010-20139` |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 8**, reconocido ópticamente |
+| **Extensión** | **3.014 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada, y son la mitad del tema. **Los centros**: el centro de
 tratamiento automatizado (**CTA**); el centro de tratamiento internacional (**CTI**); el centro de
 admisión masiva (**CAM**); el centro de tratamiento provincial (**CTP**); el centro de tratamiento local
@@ -24,6 +39,24 @@ una asignación** —qué centro cubre qué provincias, qué máquina hace qué,
 asignación se estudia con un mapa y una tabla, no con prosa.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. El proceso logístico y sus seis operaciones](#1-el-proceso-logístico-y-sus-seis-operaciones)
+- [2. Los seis tipos de centro](#2-los-seis-tipos-de-centro)
+  - [El mapa de los CTA](#el-mapa-de-los-cta)
+  - [Madrid y Barcelona](#madrid-y-barcelona)
+  - [Rampa 7](#rampa-7)
+- [3. Las cuatro redes de transporte](#3-las-cuatro-redes-de-transporte)
+- [4. El equipamiento postal](#4-el-equipamiento-postal)
+- [5. El tratamiento del correo ordinario](#5-el-tratamiento-del-correo-ordinario)
+  - [Las cuatro configuraciones](#las-cuatro-configuraciones)
+  - [Qué correo se retira a mano](#qué-correo-se-retira-a-mano)
+  - [Las medidas del correo automatizable](#las-medidas-del-correo-automatizable)
+  - [La evacuación](#la-evacuación)
+- [6. Lo que este tema no da, y dónde está](#6-lo-que-este-tema-no-da-y-dónde-está)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El proceso logístico y sus seis operaciones
@@ -270,14 +303,14 @@ está listo?»**, que se usa **en caso de parada, para resolver cuanto antes la 
 | **Los mapas de red** y los **ejemplos de ruta** | El propio documento, en imagen | **NO reproducidos**: un mapa no se transcribe. **Lo que se da es la definición de cada red y qué une**, que es lo que el programa pide |
 | **Los mapas de carga** de cada vehículo | El epígrafe 8.6.5 del documento | **NO volcados**: son esquemas gráficos de colocación |
 | **La secuencia de preparación de cada máquina**, paso a paso | Los epígrafes 8.5.2 y 8.5.3 | **NO reproducida**: es adiestramiento de puesto. **Se dan los parámetros —velocidades, apiladores, medidas— que sí se preguntan** |
-| **La Ley 43/2010** | Boletín Oficial del Estado | **Volcada** en `fuentes/correos-normas/BOE-A-2010-20139.md`. Sus seis operaciones se desarrollan en el tema 7 |
+| **La Ley 43/2010** | Boletín Oficial del Estado | **Volcada** para este temario desde el **texto consolidado** `BOE-A-2010-20139`. Sus seis operaciones se desarrollan en el tema 7 |
 | **El tratamiento del correo internacional prioritario** | El epígrafe 8.5.5 | **Volcado en su estructura**: se desarrolla junto al tema 11, con las oficinas de cambio |
 
 ## 7. Trazabilidad
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 8 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-08.txt` | **Los seis tipos de centro; el mapa de los diecisiete CTA con sus provincias; las peculiaridades de Madrid y Barcelona; las cifras y las medidas de sostenibilidad de Rampa 7; las cuatro redes de transporte y los tres componentes de la interzonal; los diez elementos del equipamiento postal y los cinco vehículos de transporte interno; los dos principios del tratamiento; las cuatro configuraciones con sus velocidades y apiladores; las medidas del correo automatizable; los supuestos de retirada manual; y el destino de cada apilador**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 8 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **Los seis tipos de centro; el mapa de los diecisiete CTA con sus provincias; las peculiaridades de Madrid y Barcelona; las cifras y las medidas de sostenibilidad de Rampa 7; las cuatro redes de transporte y los tres componentes de la interzonal; los diez elementos del equipamiento postal y los cinco vehículos de transporte interno; los dos principios del tratamiento; las cuatro configuraciones con sus velocidades y apiladores; las medidas del correo automatizable; los supuestos de retirada manual; y el destino de cada apilador**, citados literalmente |
 
 **Sobre la comprobación de este tema hay una buena noticia y una advertencia.**
 

@@ -17,6 +17,22 @@ NÚMERO** —cuatro objetivos, seis principios, diez unidades de carga, cinco si
 **contar bien es acertar**.
 
 <!-- indice -->
+
+## Índice
+
+- [Por qué Correos entra en logística](#por-qué-correos-entra-en-logística)
+- [El almacén](#el-almacén)
+- [La externalización](#la-externalización)
+- [La unidad de carga](#la-unidad-de-carga)
+- [Los cinco sistemas de almacenaje](#los-cinco-sistemas-de-almacenaje)
+- [La preparación de pedidos](#la-preparación-de-pedidos)
+- [Los equipos de manutención](#los-equipos-de-manutención)
+- [Los sistemas de gestión de almacenes](#los-sistemas-de-gestión-de-almacenes)
+- [Identificación y captura de datos](#identificación-y-captura-de-datos)
+- [Correos Frío](#correos-frío)
+- [El patrimonio inmobiliario](#el-patrimonio-inmobiliario)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## Por qué Correos entra en logística

@@ -1,5 +1,20 @@
 # Tema 9 del específico de Correos · Procesos operativos III: distribución y entrega
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 9 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **Real Decreto 1829/1999**, Reglamento postal, y **Ley 39/2015, de 1 de octubre**, del Procedimiento Administrativo Común de las Administraciones Públicas |
+| **Identificador** | `BOE-A-1999-24919` y `BOE-A-2015-10565` |
+| **Redacción que se estudia** | Las **vigentes hoy**. Se citan literalmente los **artículos 37 y 41 a 43** del Reglamento y el **artículo 42.2** de la Ley 39/2015, **que es donde está la regla de las quince horas que el documento de empresa no menciona** |
+| **Normas de apoyo** | **Ley 43/2010** · `BOE-A-2010-20139`, **Ley 3/2013** · `BOE-A-2013-5940` y **Ley Orgánica 3/2018** · `BOE-A-2018-16673` |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 9**, reconocido ópticamente |
+| **Extensión** | **10.273 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada. **Las unidades**: la unidad de reparto ordinario
 (**URO**); la unidad de distribución (**UD**); la unidad de reparto (**UR**); la unidad de servicios
 especiales (**USE**); la unidad de reparto de paquetería (**URP**); el punto final de distribución
@@ -31,6 +46,38 @@ cuál de cuatro funcionalidades no es propia de SGIE en una unidad de distribuci
 dos se contesta comprendiendo el proceso: se contestan recordando el renglón.**
 
 <!-- indice -->
+
+## Índice
+
+- [1. Las normas generales: frecuencia y calidad](#1-las-normas-generales-frecuencia-y-calidad)
+- [2. Los entornos especiales](#2-los-entornos-especiales)
+  - [Los tres supuestos del artículo 37.4](#los-tres-supuestos-del-artículo-374)
+  - [Los otros apartados del artículo 37](#los-otros-apartados-del-artículo-37)
+- [3. Las unidades de distribución](#3-las-unidades-de-distribución)
+- [4. El equipamiento y el mobiliario](#4-el-equipamiento-y-el-mobiliario)
+- [5. Los cinco procesos de la unidad](#5-los-cinco-procesos-de-la-unidad)
+  - [Descarga y clasificación general](#descarga-y-clasificación-general)
+  - [Preembarriado y embarriado](#preembarriado-y-embarriado)
+  - [El estacionamiento](#el-estacionamiento)
+- [6. La entrega a domicilio](#6-la-entrega-a-domicilio)
+  - [Seguridad y protección de datos](#seguridad-y-protección-de-datos)
+  - [Entrega ordinaria](#entrega-ordinaria)
+  - [Entrega registrada](#entrega-registrada)
+- [7. La entrega en oficina y sus almacenes](#7-la-entrega-en-oficina-y-sus-almacenes)
+- [8. Las notificaciones: lo que el documento no dice y la norma sí](#8-las-notificaciones-lo-que-el-documento-no-dice-y-la-norma-sí)
+  - [Los tres artículos del Reglamento postal](#los-tres-artículos-del-reglamento-postal)
+  - [La regla horaria que sólo está en la Ley 39/2015](#la-regla-horaria-que-sólo-está-en-la-ley-392015)
+- [9. Otros procesos](#9-otros-procesos)
+  - [Valijas, buzones y Citypaq](#valijas-buzones-y-citypaq)
+  - [Curso mal encaminado](#curso-mal-encaminado)
+  - [Reenvío postal y buzón de vacaciones](#reenvío-postal-y-buzón-de-vacaciones)
+  - [Seguimiento de campañas](#seguimiento-de-campañas)
+- [10. Los servicios rurales](#10-los-servicios-rurales)
+- [11. La comercialización con HERA](#11-la-comercialización-con-hera)
+- [12. Las contradicciones del documento y lo que la norma corrige](#12-las-contradicciones-del-documento-y-lo-que-la-norma-corrige)
+- [13. Lo que este tema no da, y dónde está](#13-lo-que-este-tema-no-da-y-dónde-está)
+- [14. Trazabilidad](#14-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Las normas generales: frecuencia y calidad
@@ -843,10 +890,10 @@ se contesta en un examen es lo que el documento dice, y lo que conviene saber es
 | **Las capturas de pantalla de SGIE, la PDA y HERA** | El propio documento, en imagen, a lo largo de las 208 páginas | **NO reproducidas**: son adiestramiento de puesto. **Se dan las rutas de menú y las claves de liquidación**, que es lo que se pregunta |
 | **Los planos de unidad y de sector**, y el **ejemplo de distribución de carga en el vehículo** | Los epígrafes 9.2.1, 9.2.2 y 9.4.1 | **NO reproducidos**: son esquemas gráficos |
 | **La secuencia de escaneo y validación documental** paso a paso | El epígrafe 9.5.2 | **Volcada en sus reglas**: los seis parámetros de la primera fase de validación, los tres resultados posibles y la Plataforma ICAR (de identificación y comprobación de documentos). **Las pantallas no** |
-| **El Real Decreto 1829/1999** | Boletín Oficial del Estado | **Volcado** en `fuentes/correos-normas/BOE-A-1999-24919.md`, con sus redacciones. **Sus artículos 37 y 41 a 43 se desarrollan arriba** |
-| **La Ley 43/2010** | Boletín Oficial del Estado | **Volcada** en `fuentes/correos-normas/BOE-A-2010-20139.md`. Sus seis operaciones postales se desarrollan en el tema 7 |
-| **La Ley 39/2015** | Boletín Oficial del Estado | **Volcada** en `fuentes/correos-normas/BOE-A-2015-10565.md`. **Su artículo 42.2 es el que cierra el apartado 8** |
-| **La Ley Orgánica 3/2018** | Boletín Oficial del Estado | **Volcada** en `fuentes/correos-normas/BOE-A-2018-16673.md`. Su régimen completo se desarrolla en el tema 12 |
+| **El Real Decreto 1829/1999** | Boletín Oficial del Estado | **Volcado** para este temario desde el **texto consolidado** `BOE-A-1999-24919`, con sus redacciones. **Sus artículos 37 y 41 a 43 se desarrollan arriba** |
+| **La Ley 43/2010** | Boletín Oficial del Estado | **Volcada** para este temario desde el **texto consolidado** `BOE-A-2010-20139`. Sus seis operaciones postales se desarrollan en el tema 7 |
+| **La Ley 39/2015** | Boletín Oficial del Estado | **Volcada** para este temario desde el **texto consolidado** `BOE-A-2015-10565`. **Su artículo 42.2 es el que cierra el apartado 8** |
+| **La Ley Orgánica 3/2018** | Boletín Oficial del Estado | **Volcada** para este temario desde el **texto consolidado** `BOE-A-2018-16673`. Su régimen completo se desarrolla en el tema 12 |
 | **La Ley de prevención de blanqueo de capitales** | El tema 12 del propio programa | **Aquí sólo se da su efecto operativo**: la identificación del receptor y el cuadro de documentos válidos y no válidos |
 | **Las tarifas** de petición de entrega a domicilio y de tasa de devolución | No figuran en el documento | **No dadas**: el documento describe el procedimiento, **no el importe**, que es tarifario y cambia cada año |
 
@@ -854,11 +901,11 @@ se contesta en un examen es lo que el documento dice, y lo que conviene saber es
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 9 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-09.txt` | **Los objetivos D+3 y D+5; las condiciones del artículo 37; los tipos de unidad y de servicio rural; las fichas de equipamiento con sus medidas; las reglas de separación, prioridad y embarriado; las causas de estacionado y sus plazos; los almacenes de oficina y sus permanencias; la secuencia de las notificaciones a apartados; los códigos de Citypaq; los estados de campaña; y las reglas de devolución de HERA**, citados literalmente |
-| **Real Decreto 1829/1999** | `fuentes/correos-normas/BOE-A-1999-24919.md` | **Los tres supuestos y los ocho apartados del artículo 37**; **los artículos 41, 42 y 43** sobre entrega de notificaciones, que el documento sólo referencia |
-| **Ley 39/2015** | `fuentes/correos-normas/BOE-A-2015-10565.md` | **El artículo 42.2**, con la regla de los catorce años, las quince horas y el margen de tres horas, citado literalmente; **la disposición derogatoria única**, que deroga la Ley 30/1992 |
-| **Ley Orgánica 3/2018** | `fuentes/correos-normas/BOE-A-2018-16673.md` | **La disposición derogatoria única**, que deroga la Ley Orgánica 15/1999 que el documento sigue invocando |
-| **Exámenes reales de 7 de mayo de 2023** | `convocatoria/correos/examenes/` | **La pregunta sobre la prioridad de la bolsa de alcance** y **la de las funcionalidades de SGIE**, que confirman el nivel de detalle con que se pregunta este tema |
+| **Documento de referencia de Correos** | Tema 9 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **Los objetivos D+3 y D+5; las condiciones del artículo 37; los tipos de unidad y de servicio rural; las fichas de equipamiento con sus medidas; las reglas de separación, prioridad y embarriado; las causas de estacionado y sus plazos; los almacenes de oficina y sus permanencias; la secuencia de las notificaciones a apartados; los códigos de Citypaq; los estados de campaña; y las reglas de devolución de HERA**, citados literalmente |
+| **Real Decreto 1829/1999** | Texto consolidado `BOE-A-1999-24919` del Boletín Oficial del Estado | **Los tres supuestos y los ocho apartados del artículo 37**; **los artículos 41, 42 y 43** sobre entrega de notificaciones, que el documento sólo referencia |
+| **Ley 39/2015** | Texto consolidado `BOE-A-2015-10565` del Boletín Oficial del Estado | **El artículo 42.2**, con la regla de los catorce años, las quince horas y el margen de tres horas, citado literalmente; **la disposición derogatoria única**, que deroga la Ley 30/1992 |
+| **Ley Orgánica 3/2018** | Texto consolidado `BOE-A-2018-16673` del Boletín Oficial del Estado | **La disposición derogatoria única**, que deroga la Ley Orgánica 15/1999 que el documento sigue invocando |
+| **Exámenes reales de 7 de mayo de 2023** | Los cuadernillos y las plantillas que publica la propia Correos | **La pregunta sobre la prioridad de la bolsa de alcance** y **la de las funcionalidades de SGIE**, que confirman el nivel de detalle con que se pregunta este tema |
 
 **Sobre la comprobación de este tema hay que decir tres cosas, y las tres importan.**
 
@@ -881,7 +928,7 @@ objetivo de calidad que es la mitad del real**, y **ninguna herramienta habría 
 
 **La tercera es lo que enseña este tema sobre el método, y vale para los doce.** **Las cifras
 corregidas aquí no se corrigieron por parecido ni por conjetura**: **cada una está registrada en
-`fuentes/correos-referencia/correcciones.tsv` con la columna que dice cómo se comprobó**, y **las de
+**el registro de correcciones de este temario** con la columna que dice cómo se comprobó**, y **las de
 este tema se comprobaron todas a la vista sobre su página impresa, o por la estructura del propio
 documento** —que un tema cuyo epígrafe 9.8.8 es «Gestión de la bolsa» no puede tener un 9.8.4
 llamado «Devoluciones» detrás de él—. **Corregir a ciegas sería cambiar un invento por otro.**

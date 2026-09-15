@@ -1,5 +1,20 @@
 # Tema 7 del específico de Correos · Procesos operativos I: la admisión
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 7 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **Real Decreto 1829/1999, de 3 de diciembre**, por el que se aprueba el Reglamento por el que se regula la prestación de los servicios postales |
+| **Identificador** | `BOE-A-1999-24919` · BOE núm. 313, de 31/12/1999 |
+| **Redacción que se estudia** | La **vigente hoy**. Se cita literalmente su **artículo 76**, sobre insuficiencia de franqueo, que **es donde está la cuantía que el documento de empresa no da** |
+| **Norma de apoyo** | **Ley 43/2010** · `BOE-A-2010-20139`, con su **artículo 24** |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 7**, reconocido ópticamente |
+| **Extensión** | **5.954 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el franqueo en destino (**FD**); el correo comercial
 de respuesta internacional (**CCRI**); la Fábrica Nacional de Moneda y Timbre (**FNMT**); las
 mercancías peligrosas (**MMPP**); la Organización de Aviación Civil Internacional (**OACI**); las
@@ -21,6 +36,34 @@ está aquí es todo el aparato normativo y operativo del proceso**, que es lo qu
 que el examen de 2023 preguntó.
 
 <!-- indice -->
+
+## Índice
+
+- [1. El circuito de la correspondencia](#1-el-circuito-de-la-correspondencia)
+- [2. Medios de pago en oficina](#2-medios-de-pago-en-oficina)
+  - [El límite del metálico](#el-límite-del-metálico)
+  - [La transferencia y el caso de Andorra](#la-transferencia-y-el-caso-de-andorra)
+  - [La Tarjeta Más Cerca](#la-tarjeta-más-cerca)
+  - [La tarjeta de crédito o débito](#la-tarjeta-de-crédito-o-débito)
+- [3. Los sistemas de franqueo](#3-los-sistemas-de-franqueo)
+- [4. Objetos prohibidos](#4-objetos-prohibidos)
+  - [Las armas que sí circulan](#las-armas-que-sí-circulan)
+  - [Qué se hace con lo prohibido](#qué-se-hace-con-lo-prohibido)
+- [5. Mercancías peligrosas](#5-mercancías-peligrosas)
+- [6. La insuficiencia de franqueo](#6-la-insuficiencia-de-franqueo)
+  - [Con remitente](#con-remitente)
+  - [Sin remitente](#sin-remitente)
+- [7. Los siete procedimientos de admisión](#7-los-siete-procedimientos-de-admisión)
+  - [Oficinas auxiliares y servicios rurales](#oficinas-auxiliares-y-servicios-rurales)
+- [8. La admisión masiva](#8-la-admisión-masiva)
+- [9. Buzones, recogida a domicilio y Citypaq](#9-buzones-recogida-a-domicilio-y-citypaq)
+  - [Los buzones](#los-buzones)
+  - [La recogida a domicilio](#la-recogida-a-domicilio)
+  - [Citypaq](#citypaq)
+- [10. Clasificación y contenerización en las oficinas](#10-clasificación-y-contenerización-en-las-oficinas)
+- [11. Lo que este tema no da, y dónde está](#11-lo-que-este-tema-no-da-y-dónde-está)
+- [12. Trazabilidad](#12-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El circuito de la correspondencia
@@ -515,8 +558,8 @@ cursarse en ella**, porque **es la única forma de asegurar la calidad definida*
 | **La secuencia de pantallas de IRIS** para cada producto | Los epígrafes 7.3 y 7.5 del documento de referencia, con cientos de capturas | **NO reproducida.** **Una captura de pantalla no se estudia**: lo que se da es la regla que hay detrás. La secuencia se aprende en el puesto |
 | **La Tabla de Clasificación y Rotulación** completa | El propio documento de Clasificación y Rotulación de Correos | **NO volcada**: se dan sus criterios generales, que es lo que el programa pide |
 | **El Condicionado de Servicios Postales** | Correos | **NO volcado**: se nombra como la fuente de los requisitos mínimos de presentación de envíos masivos |
-| **El Reglamento Postal** | Real Decreto 1829/1999 | **Volcado** en `fuentes/correos-normas/BOE-A-1999-24919.md`. Se cita su artículo 76 |
-| **La Ley 43/2010** | Boletín Oficial del Estado | **Volcada** en `fuentes/correos-normas/BOE-A-2010-20139.md` |
+| **El Reglamento Postal** | Real Decreto 1829/1999 | **Volcado** para este temario desde el **texto consolidado** `BOE-A-1999-24919`. Se cita su artículo 76 |
+| **La Ley 43/2010** | Boletín Oficial del Estado | **Volcada** para este temario desde el **texto consolidado** `BOE-A-2010-20139` |
 | **El Reglamento de Armas** | Real Decreto 137/1993 | **NO volcado**: se da la lista de armas admisibles y el umbral de 24,2 julios que el documento recoge |
 | **Las Instrucciones Técnicas de la OACI** | La Organización de Aviación Civil Internacional | **NO volcadas**: se dan las cuatro excepciones que el documento enumera |
 | **Las tarifas por insuficiencia de franqueo** | El tarifario vigente | **NO volcadas**: se da la regla del artículo 76, que fija el mínimo en el doble |
@@ -525,7 +568,7 @@ cursarse en ella**, porque **es la única forma de asegurar la calidad definida*
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 7 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-07.txt` | **Las seis operaciones del circuito; los cuatro medios de pago con sus límites y excepciones; las reglas de la Tarjeta Más Cerca; los sistemas de franqueo y sus medios alternativos; los catorce objetos prohibidos y el procedimiento para cada uno; las armas admisibles; las nueve clases de mercancías peligrosas y sus cuatro excepciones; el procedimiento de insuficiencia de franqueo; los siete procedimientos de admisión; las reglas de las oficinas auxiliares y los servicios rurales; los ámbitos, grados y mínimos de la admisión masiva; los buzones y la saca de intercambio; los tamaños de hueco de Citypaq; y las reglas de clasificación y contenerización**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 7 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **Las seis operaciones del circuito; los cuatro medios de pago con sus límites y excepciones; las reglas de la Tarjeta Más Cerca; los sistemas de franqueo y sus medios alternativos; los catorce objetos prohibidos y el procedimiento para cada uno; las armas admisibles; las nueve clases de mercancías peligrosas y sus cuatro excepciones; el procedimiento de insuficiencia de franqueo; los siete procedimientos de admisión; las reglas de las oficinas auxiliares y los servicios rurales; los ámbitos, grados y mínimos de la admisión masiva; los buzones y la saca de intercambio; los tamaños de hueco de Citypaq; y las reglas de clasificación y contenerización**, citados literalmente |
 | **Norma con artículo** | Real Decreto 1829/1999, texto consolidado vigente | **El artículo 76, sobre insuficiencia de franqueo**, citado literalmente |
 
 **Sobre la comprobación de este tema, dos cosas.**
@@ -537,7 +580,7 @@ mezcladas, campos de formulario sueltos. **Ese ruido no se ha limpiado ni se ha 
 documento**, que es la parte que se puede leer y comprobar.
 
 **La segunda, el nueve.** **Once correcciones**, todas comprobadas a la vista sobre su página y
-registradas en `fuentes/correos-referencia/correcciones.tsv`:
+registradas en **el registro de correcciones de este temario**:
 
 | El volcado decía | La página imprime | Dónde |
 |---|---|---|

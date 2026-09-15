@@ -15,6 +15,19 @@ restantes · **la trampa del tema es una cifra que el documento de referencia da
 suyo sino porque la ley cambió después**.
 
 <!-- indice -->
+
+## Índice
+
+- [El plazo del operador designado](#el-plazo-del-operador-designado)
+- [El servicio postal universal](#el-servicio-postal-universal)
+- [La liberalización](#la-liberalización)
+- [La naturaleza jurídica](#la-naturaleza-jurídica)
+- [Los derechos de los usuarios](#los-derechos-de-los-usuarios)
+- [Los reguladores](#los-reguladores)
+- [Las actas de la Unión Postal Universal](#las-actas-de-la-unión-postal-universal)
+- [El Grupo](#el-grupo)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## El plazo del operador designado

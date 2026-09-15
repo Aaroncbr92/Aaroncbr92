@@ -14,6 +14,19 @@ pregunta por la cifra**; **el resto es normativa interna y se pregunta por la li
 con más cifras corruptas del volcado**, y todas se comprobaron a la vista.
 
 <!-- indice -->
+
+## Índice
+
+- [Gestión de personas y diversidad](#gestión-de-personas-y-diversidad)
+- [La prevención: de dónde viene](#la-prevención-de-dónde-viene)
+- [La prevención en Correos](#la-prevención-en-correos)
+- [Obligaciones y derechos](#obligaciones-y-derechos)
+- [Procedimientos y protocolos](#procedimientos-y-protocolos)
+- [Empresa saludable y RSC](#empresa-saludable-y-rsc)
+- [Los ODS y la sostenibilidad](#los-ods-y-la-sostenibilidad)
+- [Emprendimiento e innovación](#emprendimiento-e-innovación)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## Gestión de personas y diversidad
@@ -342,11 +355,10 @@ con más cifras corruptas del volcado**, y todas se comprobaron a la vista.
 
 ## Aviso de estudio
 
-- **LO QUE NO SE DA** · `[tem]` · **el texto íntegro de la Ley 31/1995 y del RSP** —volcados en
-  `fuentes/correos-normas/`— · **el contenido de cada procedimiento y protocolo**, de los que se da
+- **LO QUE NO SE DA** · `[tem]` · **el texto íntegro de la Ley 31/1995 y del RSP** —tomado del texto consolidado del Boletín— · **el contenido de cada procedimiento y protocolo**, de los que se da
   **el código y el dato preguntable** · **las cifras del voluntariado de la pandemia**, que están en
   el tema.
 - **LAS CIFRAS QUE VENÍAN MAL** · `[tem]` · **este es el tema con más correcciones del volumen**
   —los cuatro hitos históricos, tres normas de prevención, las fechas del servicio propio y el
   porcentaje del PNIEC—, **todas comprobadas a la vista** y registradas en
-  `fuentes/correos-referencia/correcciones.tsv`.
+  **el registro de correcciones de este temario**.

@@ -1,5 +1,20 @@
 # Tema 2 del específico de Correos · Experiencia de personas, diversidad, prevención y sostenibilidad
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 2 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **Ley 31/1995, de 8 de noviembre**, de prevención de Riesgos Laborales |
+| **Identificador** | `BOE-A-1995-24292` · BOE núm. 269, de 10/11/1995 |
+| **Redacción que se estudia** | La **vigente hoy**. Se citan literalmente sus **artículos 15 y 29** |
+| **Norma de apoyo** | **Real Decreto 39/1997**, Reglamento de los Servicios de Prevención · `BOE-A-1997-1853`, con su **artículo 35.2.a)** y su **anexo IV** |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 2**, reconocido ópticamente |
+| **Extensión** | **8.903 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: la prevención de riesgos laborales (**PRL**); la Ley
 de Prevención de Riesgos Laborales (**LPRL**), que es la Ley 31/1995; el Reglamento de los Servicios
 de Prevención (**RSP**), que es el Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en
@@ -25,6 +40,45 @@ la norma, y cuando la norma dice algo distinto se dice; la segunda se da como lo
 descripción que la empresa hace de sí misma en 2022.
 
 <!-- indice -->
+
+## Índice
+
+- [1. Los ejes de la gestión de personas](#1-los-ejes-de-la-gestión-de-personas)
+  - [La experiencia de empleado y su ciclo de vida](#la-experiencia-de-empleado-y-su-ciclo-de-vida)
+  - [Formación y capacitación](#formación-y-capacitación)
+- [2. Diversidad, inclusión e igualdad](#2-diversidad-inclusión-e-igualdad)
+  - [Por qué importa, y cuánto cuesta no gestionarla](#por-qué-importa-y-cuánto-cuesta-no-gestionarla)
+  - [Los sesgos](#los-sesgos)
+  - [Los siete ejes y las cinco dimensiones](#los-siete-ejes-y-las-cinco-dimensiones)
+- [3. La normativa de prevención, y de dónde viene](#3-la-normativa-de-prevención-y-de-dónde-viene)
+  - [Las dos instituciones que la ley regula](#las-dos-instituciones-que-la-ley-regula)
+  - [La recopilación de normas](#la-recopilación-de-normas)
+- [4. La política y la estructura de prevención en Correos](#4-la-política-y-la-estructura-de-prevención-en-correos)
+  - [Las cuatro modalidades preventivas](#las-cuatro-modalidades-preventivas)
+  - [Las cuatro especialidades preventivas](#las-cuatro-especialidades-preventivas)
+  - [El servicio de prevención de Correos](#el-servicio-de-prevención-de-correos)
+  - [Los delegados de prevención](#los-delegados-de-prevención)
+- [5. Obligaciones y derechos](#5-obligaciones-y-derechos)
+  - [Las seis obligaciones del trabajador](#las-seis-obligaciones-del-trabajador)
+  - [Los derechos del trabajador](#los-derechos-del-trabajador)
+- [6. Procedimientos y protocolos del grupo profesional IV](#6-procedimientos-y-protocolos-del-grupo-profesional-iv)
+  - [Los tipos de accidente](#los-tipos-de-accidente)
+  - [Vigilancia de la salud y aptitud](#vigilancia-de-la-salud-y-aptitud)
+  - [Protección en el embarazo](#protección-en-el-embarazo)
+  - [Los protocolos operativos](#los-protocolos-operativos)
+- [7. Bienestar, y la certificación de empresa saludable](#7-bienestar-y-la-certificación-de-empresa-saludable)
+- [8. Responsabilidad Social Corporativa](#8-responsabilidad-social-corporativa)
+- [9. Los Objetivos de Desarrollo Sostenible](#9-los-objetivos-de-desarrollo-sostenible)
+- [10. Los ejes de la sostenibilidad en Correos](#10-los-ejes-de-la-sostenibilidad-en-correos)
+  - [Los cuatro compromisos para 2030](#los-cuatro-compromisos-para-2030)
+  - [Negocio e innovación social](#negocio-e-innovación-social)
+  - [Compromiso con la comunidad](#compromiso-con-la-comunidad)
+  - [Gestión sostenible](#gestión-sostenible)
+  - [Los proyectos europeos](#los-proyectos-europeos)
+- [11. Emprendimiento e innovación](#11-emprendimiento-e-innovación)
+- [12. Lo que este tema no da, y dónde está](#12-lo-que-este-tema-no-da-y-dónde-está)
+- [13. Trazabilidad](#13-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. Los ejes de la gestión de personas
@@ -806,8 +860,8 @@ comunicación**, **coordinan el seguimiento de los hitos** y **presentan los res
 
 | Materia | Dónde está | Estado |
 |---|---|---|
-| **El texto íntegro de la Ley 31/1995** | Boletín Oficial del Estado, `fuentes/correos-normas/BOE-A-1995-24292.md` | **Volcado.** Se citan los artículos que el tema necesita; el resto se nombra |
-| **El texto íntegro del Reglamento de los Servicios de Prevención** | Boletín Oficial del Estado, `fuentes/correos-normas/BOE-A-1997-1853.md` | **Volcado.** Se citan los artículos 15 y 35 y el anexo IV |
+| **El texto íntegro de la Ley 31/1995** | Boletín Oficial del Estado, texto consolidado `BOE-A-1995-24292` | **Volcado.** Se citan los artículos que el tema necesita; el resto se nombra |
+| **El texto íntegro del Reglamento de los Servicios de Prevención** | Boletín Oficial del Estado, texto consolidado `BOE-A-1997-1853` | **Volcado.** Se citan los artículos 15 y 35 y el anexo IV |
 | **Los quince reales decretos de desarrollo de la prevención** | Boletín Oficial del Estado | **NO volcados**: se da la lista con su fecha y materia, que es lo que el documento ofrece |
 | **La LISOS** | Real Decreto Legislativo 5/2000 | **NO volcada**: se nombra el artículo 12 tal como el documento lo invoca |
 | **El Real Decreto 370/2004**, estatuto del personal de Correos | Boletín Oficial del Estado | **NO volcado**: se da el artículo 33 con sus dos letras, tal como el documento lo cita |
@@ -820,7 +874,7 @@ comunicación**, **coordinan el seguimiento de los hitos** y **presentan los res
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 2 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-02.txt` | **Los ejes de la gestión de personas; las cinco fases del ciclo de vida del empleado; los ámbitos del Campus Virtual; las definiciones de diversidad e inclusión; los sesgos; los siete ejes y las cinco dimensiones; el calendario de diversidad; la historia de la prevención; las diecisiete normas; las cuatro modalidades preventivas; las cuatro especialidades; los delegados de prevención; los procedimientos y protocolos del grupo IV; los puestos de trabajo preventivos; los tipos de accidente; los grados de aptitud; las medidas de embarazo; las certificaciones; las definiciones de RSC; las cifras de los ODS; los compromisos para 2030; las cifras de la red rural y del voluntariado; los proyectos europeos; y el ecosistema emprendedor**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 2 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **Los ejes de la gestión de personas; las cinco fases del ciclo de vida del empleado; los ámbitos del Campus Virtual; las definiciones de diversidad e inclusión; los sesgos; los siete ejes y las cinco dimensiones; el calendario de diversidad; la historia de la prevención; las diecisiete normas; las cuatro modalidades preventivas; las cuatro especialidades; los delegados de prevención; los procedimientos y protocolos del grupo IV; los puestos de trabajo preventivos; los tipos de accidente; los grados de aptitud; las medidas de embarazo; las certificaciones; las definiciones de RSC; las cifras de los ODS; los compromisos para 2030; las cifras de la red rural y del voluntariado; los proyectos europeos; y el ecosistema emprendedor**, citados literalmente |
 | **Norma con artículo** | Ley 31/1995, texto consolidado vigente | **El artículo 15, con sus nueve principios de la acción preventiva**; **el artículo 29, con las seis obligaciones del trabajador y su apartado 3**; y **la facultad de paralización inmediata**, citados literalmente |
 | **Norma con artículo** | Real Decreto 39/1997, texto consolidado vigente | **El artículo 15, sobre organización y medios del servicio de prevención propio**; **el artículo 35.2.a), con las 50 y las 30 horas**; y **el anexo IV**, citados literalmente |
 
@@ -829,7 +883,7 @@ comunicación**, **coordinan el seguimiento de los hitos** y **presentan los res
 **La primera: el nueve.** **El documento va sin capa de texto y se ha reconocido ópticamente**, y **su
 tipografía dibuja el nueve de manera que el reconocedor lo lee como un cuatro**, y a veces **añade un
 cuatro de más**. **En este tema han hecho falta cuarenta y cinco correcciones**, todas registradas en
-`fuentes/correos-referencia/correcciones.tsv` con cómo se comprobó cada una. **Las peores no eran
+**el registro de correcciones de este temario** con cómo se comprobó cada una. **Las peores no eran
 fechas, sino números de artículo.** El volcado devolvía **«Artículo 24 de la Ley 31/1995»** donde la
 página imprime **«Artículo 29»**; **«Art.4»** donde imprime **«Art.9»**; **«arts. 18 y 14»** donde
 imprime **«18 y 19»**; **«mitigación del 34 %»** donde imprime **«39 %»**; **«los 143 líderes

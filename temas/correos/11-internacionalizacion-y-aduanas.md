@@ -1,5 +1,19 @@
 # Tema 11 del específico de Correos · Internacionalización y aduanas
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 11 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **No hay norma que sostenga este tema.** Su materia son las cifras del negocio internacional y el procedimiento aduanero del envío postal —avance electrónico de datos, declaración H7 y ventanilla única de importación—, y el programa remite al documento de empresa |
+| **Identificador** | — |
+| **Redacción que se estudia** | **No procede**: el documento describe procedimientos y no reproduce el Código Aduanero de la Unión ni la normativa del IVA de importación, y este tema tampoco los volca |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 11**, reconocido ópticamente |
+| **Extensión** | **2.937 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el impuesto sobre el valor añadido (**IVA**); los
 impuestos especiales (**IIEE**); la Agencia Estatal de Administración Tributaria (**AEAT**); el
 documento único aduanero (**DUA**); la Unión Postal Universal (**UPU**); la Organización Mundial de
@@ -22,6 +36,22 @@ modo en que Correos trataba las importaciones. **Todo lo que el tema cuenta de a
 antes o después de esa fecha**, y **casi todas sus preguntas se juegan ahí**.
 
 <!-- indice -->
+
+## Índice
+
+- [1. El negocio internacional](#1-el-negocio-internacional)
+  - [Las seis alianzas internacionales](#las-seis-alianzas-internacionales)
+  - [El comercio electrónico en cifras](#el-comercio-electrónico-en-cifras)
+  - [Los dos frentes de la transformación digital](#los-dos-frentes-de-la-transformación-digital)
+- [2. La exportación](#2-la-exportación)
+- [3. La aduana: el avance electrónico de datos](#3-la-aduana-el-avance-electrónico-de-datos)
+  - [El circuito del mensaje ITMATT, paso a paso](#el-circuito-del-mensaje-itmatt-paso-a-paso)
+- [4. El 1 de julio de 2021](#4-el-1-de-julio-de-2021)
+  - [La declaración H7](#la-declaración-h7)
+- [5. El sistema IOSS](#5-el-sistema-ioss)
+- [6. Lo que este tema no da, y dónde está](#6-lo-que-este-tema-no-da-y-dónde-está)
+- [7. Trazabilidad](#7-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El negocio internacional
@@ -238,7 +268,7 @@ que **deberá ser correcto y válido**.
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 11 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-11.txt` | **Las cifras de presencia internacional y de comercio electrónico; las seis alianzas con el papel de Correos en cada una; las dos oficinas de cambio exportadoras; los dos requerimientos y los ocho pasos del avance electrónico de datos; la definición de la etiqueta S10; el ICS2; la desaparición de la franquicia de 22 euros con sus dos novedades; las condiciones de la declaración H7; y el concepto, las ventajas, las condiciones, los actores y las obligaciones del sistema IOSS**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 11 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **Las cifras de presencia internacional y de comercio electrónico; las seis alianzas con el papel de Correos en cada una; las dos oficinas de cambio exportadoras; los dos requerimientos y los ocho pasos del avance electrónico de datos; la definición de la etiqueta S10; el ICS2; la desaparición de la franquicia de 22 euros con sus dos novedades; las condiciones de la declaración H7; y el concepto, las ventajas, las condiciones, los actores y las obligaciones del sistema IOSS**, citados literalmente |
 
 **Sobre la comprobación de este tema, lo mismo que en los temas 4 y 6, y con una diferencia de escala.**
 

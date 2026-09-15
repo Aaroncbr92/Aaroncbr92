@@ -1,5 +1,20 @@
 # Tema 10 del específico de Correos · El cliente: atención, calidad y protocolos de venta
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 10 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **El documento de referencia de Correos.** Los modelos de calidad —EFQM e ISO 9001— **son normas privadas de pago**, no están en el Boletín y el documento sólo cita sus definiciones |
+| **Identificador** | — |
+| **Redacción que se estudia** | **No procede** para los modelos de calidad. El **Real Decreto 1829/1999** va en su redacción vigente: se cita su **artículo 41**, que **remite a una ley derogada** |
+| **Norma de apoyo** | **Real Decreto 1829/1999** · `BOE-A-1999-24919` |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 10**, reconocido ópticamente |
+| **Extensión** | **3.406 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el sistema de gestión de la calidad (**SGC**); la
 Fundación Europea para la Gestión de la Calidad (**EFQM**, por sus siglas inglesas); la Organización
 Internacional de Normalización (**ISO**, por sus siglas inglesas); el ciclo de planificar, hacer,
@@ -26,6 +41,25 @@ una manera**: la primera por sus listas cerradas y sus siglas; la segunda por su
 prohibiciones.
 
 <!-- indice -->
+
+## Índice
+
+- [1. De dónde viene la calidad en Correos](#1-de-dónde-viene-la-calidad-en-correos)
+- [2. Los conceptos, con su letra exacta](#2-los-conceptos-con-su-letra-exacta)
+  - [El ciclo PDCA](#el-ciclo-pdca)
+- [3. El modelo EFQM](#3-el-modelo-efqm)
+- [4. El modelo ISO 9001](#4-el-modelo-iso-9001)
+- [5. Cómo se mide la calidad en plazo](#5-cómo-se-mide-la-calidad-en-plazo)
+  - [La medición sujeta a control del regulador](#la-medición-sujeta-a-control-del-regulador)
+  - [Cómo funciona SPEX](#cómo-funciona-spex)
+  - [La carta internacional y sus tramos](#la-carta-internacional-y-sus-tramos)
+- [6. El sistema de radiofrecuencia y su sistema de información (COCAL)](#6-el-sistema-de-radiofrecuencia-y-su-sistema-de-información-cocal)
+- [7. Los indicadores](#7-los-indicadores)
+- [8. Las políticas de atención al cliente](#8-las-políticas-de-atención-al-cliente)
+- [9. La normativa que este tema invoca](#9-la-normativa-que-este-tema-invoca)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. De dónde viene la calidad en Correos
@@ -293,8 +327,8 @@ Postal Universal.**
 | **El texto del modelo EFQM** | La propia Fundación Europea para la Gestión de la Calidad | **NO volcado**: se dan sus tres componentes con sus números, que es lo que el documento ofrece |
 | **Las normas ISO 9000 y 9001** | La Organización Internacional de Normalización | **NO volcadas**: son normas de pago y el documento sólo cita sus definiciones |
 | **La norma UNE EN 13850** | La Asociación Española de Normalización | **NO volcada**: se da su título completo y la regla de medición externa que el documento recoge |
-| **El Reglamento Postal** | Real Decreto 1829/1999 | **Volcado** en `fuentes/correos-normas/BOE-A-1999-24919.md`. Se citan sus artículos 41 y 44 |
-| **La Ley 39/2015** | Boletín Oficial del Estado | **Volcada** en `fuentes/correos-normas/BOE-A-2015-10566.md` |
+| **El Reglamento Postal** | Real Decreto 1829/1999 | **Volcado** para este temario desde el **texto consolidado** `BOE-A-1999-24919`. Se citan sus artículos 41 y 44 |
+| **La Ley 39/2015** | Boletín Oficial del Estado | **Volcada** para este temario desde el **texto consolidado** `BOE-A-2015-10565` |
 | **El Manual de Gestión de Correos** | La propia compañía | **NO volcado**: se nombra como el documento donde Correos define su sistema |
 | **Las plantillas de respuesta escrita** | El Modelo de Gestión de la Comunicación de Atención al Cliente | **NO volcadas**: están alojadas en la herramienta de gestión y el documento no las reproduce |
 | **Los objetivos anuales de calidad en plazo** | La Comisión Nacional de los Mercados y la Competencia | **NO volcados**: cambian cada año |
@@ -303,7 +337,7 @@ Postal Universal.**
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 10 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-10.txt` | **El año de la calidad y los dos modelos de referencia; las definiciones de calidad, sistema de gestión y proceso; el ciclo PDCA con sus cuatro negaciones; los tres componentes del EFQM con sus ocho conceptos, nueve criterios y mil puntos; los siete principios de la ISO 9001; los cuatro sistemas de medición del Portal de Calidad; la metodología de SPEX y la norma UNE EN 13850; los tramos Leg1 y Leg3; el sistema RFID y COCAL; los seis atributos de los indicadores; y las ocho categorías de políticas de atención con sus plazos**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 10 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **El año de la calidad y los dos modelos de referencia; las definiciones de calidad, sistema de gestión y proceso; el ciclo PDCA con sus cuatro negaciones; los tres componentes del EFQM con sus ocho conceptos, nueve criterios y mil puntos; los siete principios de la ISO 9001; los cuatro sistemas de medición del Portal de Calidad; la metodología de SPEX y la norma UNE EN 13850; los tramos Leg1 y Leg3; el sistema RFID y COCAL; los seis atributos de los indicadores; y las ocho categorías de políticas de atención con sus plazos**, citados literalmente |
 | **Norma con artículo** | Real Decreto 1829/1999, texto consolidado vigente | **El artículo 41, con su remisión a la Ley 30/1992**, citado literalmente |
 
 **Cuatro correcciones al volcado, y las cuatro se resolvieron por el nombre de la norma o a la vista:**

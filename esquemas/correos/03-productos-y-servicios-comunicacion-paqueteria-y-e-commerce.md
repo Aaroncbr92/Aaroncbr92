@@ -11,6 +11,18 @@ ha leído la ficha** · **antes de los productos hay que saber leer el catálogo
 documento da sus convenciones una sola vez**.
 
 <!-- indice -->
+
+## Índice
+
+- [Cómo se lee el catálogo](#cómo-se-lee-el-catálogo)
+- [Carta, certificada y notificaciones](#carta-certificada-y-notificaciones)
+- [Marketing directo](#marketing-directo)
+- [Respuestas, libros y telegráficos](#respuestas-libros-y-telegráficos)
+- [Paquetería](#paquetería)
+- [Valija, Camino y Correos Express](#valija-camino-y-correos-express)
+- [Canales digitales y Citypaq](#canales-digitales-y-citypaq)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## Cómo se lee el catálogo
@@ -281,6 +293,6 @@ documento da sus convenciones una sola vez**.
 - **LO QUE NO SE DA** · `[tem]` · **las TARIFAS de ningún producto**: el documento no las da y
   **cambian todos los años** · **la matriz de plazos a Canarias, Ceuta y Melilla**, a la que el
   documento sólo remite · **los importes de los sobrecostes por dimensión extra**, que son tarifa.
-- **DÓNDE ESTÁ LA NORMA** · `[tem]` · **el Reglamento Postal** en `fuentes/correos-normas/`; **la
+- **DÓNDE ESTÁ LA NORMA** · `[tem]` · **el Reglamento Postal** del texto consolidado del Boletín; **la
   Ley 39/2015**, también · **la Ley Orgánica del Poder Judicial y la Ley 15/2009** se nombran y no
   se volcaron.

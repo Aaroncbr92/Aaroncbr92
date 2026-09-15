@@ -14,6 +14,17 @@ DE MÁQUINA** —velocidades, apiladores, milímetros— · **su volcado es el m
 **ninguna corrección de cifra**.
 
 <!-- indice -->
+
+## Índice
+
+- [El proceso logístico y los seis tipos de centro](#el-proceso-logístico-y-los-seis-tipos-de-centro)
+- [El mapa de los diecisiete CTA](#el-mapa-de-los-diecisiete-cta)
+- [Rampa 7](#rampa-7)
+- [Las cuatro redes de transporte](#las-cuatro-redes-de-transporte)
+- [El equipamiento postal](#el-equipamiento-postal)
+- [El tratamiento del correo ordinario](#el-tratamiento-del-correo-ordinario)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## El proceso logístico y los seis tipos de centro
@@ -218,8 +229,7 @@ DE MÁQUINA** —velocidades, apiladores, milímetros— · **su volcado es el m
   mapas de carga** de cada vehículo, que son esquemas gráficos · **la secuencia de preparación de
   cada máquina paso a paso**, que es adiestramiento de puesto: **se dan los parámetros —velocidades,
   apiladores, medidas— que sí se preguntan**.
-- **DÓNDE ESTÁ LO QUE FALTA** · `[tem]` · **la Ley 43/2010 está volcada** en
-  `fuentes/correos-normas/`, y **sus seis operaciones se desarrollan en el tema 7** · **el
+- **DÓNDE ESTÁ LO QUE FALTA** · `[tem]` · **la Ley 43/2010 está volcada** del texto consolidado del Boletín, y **sus seis operaciones se desarrollan en el tema 7** · **el
   tratamiento del correo internacional prioritario se desarrolla junto al tema 11**, con las
   oficinas de cambio.
 - **LA BUENA NOTICIA DE ESTE TEMA** · `[tem]` · **su volcado es el MÁS LIMPIO de los doce**: **el

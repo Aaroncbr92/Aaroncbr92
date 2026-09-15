@@ -23,10 +23,11 @@ cuadernillos por 110 son 440 papeletas, **pero el banco no son 440 preguntas**, 
 contarlas así sería inflar la cifra al doble.
 
 **Dos cuadernillos por puesto, no dos exámenes.** Los modelos A y B de un mismo
-puesto llevan **casi las mismas preguntas en distinto orden**, que es como Correos
-evita la copia en una prueba de 55.000 personas simultáneas. Medido sobre los
-enunciados de Reparto: **104 de 106 son comunes a los dos modelos**, y **sólo 13
-caen con el mismo número**.
+puesto llevan **las mismas preguntas en distinto orden**, que es como Correos evita
+la copia en una prueba de 55.000 personas simultáneas. Comparados enunciado a
+enunciado, **los 106 enunciados con opciones del modelo A de Reparto son
+exactamente los 106 del modelo B**, y **sólo 13 caen con el mismo número**. En
+Atención al Cliente pasa lo mismo, con las mismas dos cifras.
 
 **Y entre puestos no se repite ni una.** Comparados los enunciados de Reparto con
 los de Atención al Cliente, **la coincidencia literal es cero**: Correos no montó
@@ -35,16 +36,26 @@ distintos** sobre el mismo temario.
 
 **El banco real, por tanto:**
 
-| | Preguntas únicas |
+| | Preguntas |
 |---|---:|
-| Reparto y Agente de Clasificación (A ∪ B) | **108** |
-| Atención al Cliente (A ∪ B) | **110** |
+| Un modelo, tal como se imprime | **110** |
+| menos las **psicotécnicas** —series de figuras, sin opciones de texto— | **−4** |
+| menos las de **aptitud** —tres de comprensión lectora y tres de razonamiento numérico— | **−6** |
+| **De temario, por puesto** | **100** |
+| Reparto y Agente de Clasificación | **100** |
+| Atención al Cliente | **100** |
 | Comunes a los dos puestos | **0** |
-| **Total del banco** | **218** |
+| **Total del banco de temario** | **200** |
 
-De ellas, **unas siete son psicotécnicas** —series de figuras— y **no son materia
-del programa**, así que el banco aprovechable para el temario ronda las **211
-preguntas**.
+**Esta tabla decía otra cosa hasta el 2026-09-15, y estaba mal.** Daba 108 únicas
+en Reparto, 110 en Atención al Cliente, **218 en total** y «unas siete»
+psicotécnicas. Las cuatro cifras eran de más: **la unión de los dos modelos de un
+puesto no añade ninguna pregunta**, porque los 106 enunciados son los mismos, y las
+psicotécnicas son **ocho** —cuatro por modelo—, más **seis de aptitud** que tampoco
+son temario. El recuento correcto salió de contar los enunciados uno a uno al
+repartirlos a mano, y está escrito con su aritmética delante en la cabecera de
+`banco/especifico-correos.tsv`. **La lección es la del apartado 10 del manual: una
+cifra que se publica hay que sacarla de contar, no de estimar.**
 
 ## Las preguntas anuladas, sacadas de la propia plantilla
 

@@ -15,6 +15,20 @@ está»**, y **el EFQM y la ISO 9001 se distinguen por el número antes que por 
 otra mitad es MEDICIÓN**: qué sistema mide qué, y **quién audita a quién**.
 
 <!-- indice -->
+
+## Índice
+
+- [De dónde viene la calidad en Correos](#de-dónde-viene-la-calidad-en-correos)
+- [Los conceptos, con su letra exacta](#los-conceptos-con-su-letra-exacta)
+- [El modelo EFQM](#el-modelo-efqm)
+- [El modelo ISO 9001](#el-modelo-iso-9001)
+- [Cómo se mide la calidad en plazo](#cómo-se-mide-la-calidad-en-plazo)
+- [Radiofrecuencia y COCAL](#radiofrecuencia-y-cocal)
+- [Los indicadores](#los-indicadores)
+- [Las políticas de atención al cliente](#las-políticas-de-atención-al-cliente)
+- [La normativa que este tema invoca](#la-normativa-que-este-tema-invoca)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## De dónde viene la calidad en Correos
@@ -227,8 +241,7 @@ otra mitad es MEDICIÓN**: qué sistema mide qué, y **quién audita a quién**.
   medición externa · **el Manual de Gestión de Correos** · **las plantillas de respuesta escrita**,
   alojadas en la herramienta de gestión · **los objetivos anuales de calidad en plazo**, que la CNMC
   cambia cada año.
-- **DÓNDE ESTÁ LA NORMA** · `[tem]` · **el Reglamento Postal y la Ley 39/2015 están volcados** en
-  `fuentes/correos-normas/`.
+- **DÓNDE ESTÁ LA NORMA** · `[tem]` · **el Reglamento Postal y la Ley 39/2015 están volcados** del texto consolidado del Boletín.
 - **LAS CUATRO CORRECCIONES DEL VOLCADO** · `[tem]` · **«desde 1444» → 1999**, a la vista en la
   página 3 · **«las normas ISO 4000» → ISO 9000**, por el nombre · **«la norma 1SO 4001» → ISO
   9001**, por el nombre · **«BOE-A-19949-24919» → BOE-A-1999-24919**, por el identificador.

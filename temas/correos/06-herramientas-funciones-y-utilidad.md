@@ -1,5 +1,19 @@
 # Tema 6 del específico de Correos · Herramientas: funciones y utilidad
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 6 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **No hay norma que sostenga este tema.** Su materia es el catálogo de aplicaciones informáticas de la compañía y lo que hace cada una, y el programa remite al documento de empresa |
+| **Identificador** | — |
+| **Redacción que se estudia** | **No procede**: ninguna norma sostiene este tema |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 6**, reconocido ópticamente |
+| **Extensión** | **2.889 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada, y son casi todo el tema. **Las aplicaciones**:
 Información de Recursos Informáticos y Sistemas (**IRIS**); Sistema de Gestión Integral de Envíos
 (**SGIE**); Sistema de Información y Control de Envíos Registrados (**SICER**); Sistema de Envío de
@@ -27,6 +41,19 @@ volcado devolvía **«Apllcaclones básicas de gestión»**—, **y se ha recono
 de escribir.** El apartado final lo cuenta.
 
 <!-- indice -->
+
+## Índice
+
+- [1. El mapa entero, de una vez](#1-el-mapa-entero-de-una-vez)
+- [2. IRIS](#2-iris)
+- [3. SGIE](#3-sgie)
+- [4. Minerva](#4-minerva)
+- [5. Las otras aplicaciones de oficina](#5-las-otras-aplicaciones-de-oficina)
+- [6. El dispositivo PDA](#6-el-dispositivo-pda)
+- [7. Las aplicaciones del responsable](#7-las-aplicaciones-del-responsable)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El mapa entero, de una vez
@@ -234,7 +261,7 @@ envíos, las regularizaciones, los pedidos extraordinarios, las liquidaciones y 
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 6 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-06.txt` | **Las cuatro familias de herramientas y las diecisiete aplicaciones con su significado y su función; los dos bloques y la estructura funcional de IRIS y el rol del responsable de oficina; las reglas de acceso, los cuatro perfiles y las siete funcionalidades de SGIE; la tecnología, las tres reglas de acceso y los seis perfiles de Minerva; las funcionalidades de SEDI, SGTC, Quenda, WUPOS y Hermes; el acceso y las reglas de la PDA y de Hera; y las siete gestiones de SIGUA, la doble naturaleza del CRM y las utilidades de SIE y GPVO**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 6 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **Las cuatro familias de herramientas y las diecisiete aplicaciones con su significado y su función; los dos bloques y la estructura funcional de IRIS y el rol del responsable de oficina; las reglas de acceso, los cuatro perfiles y las siete funcionalidades de SGIE; la tecnología, las tres reglas de acceso y los seis perfiles de Minerva; las funcionalidades de SEDI, SGTC, Quenda, WUPOS y Hermes; el acceso y las reglas de la PDA y de Hera; y las siete gestiones de SIGUA, la doble naturaleza del CRM y las utilidades de SIE y GPVO**, citados literalmente |
 
 **Sobre la comprobación de este tema, lo mismo que en el tema 4 y una cifra menos.**
 

@@ -1,5 +1,20 @@
 # Tema 1 del específico de Correos · Marco normativo postal y naturaleza jurídica
 
+<!-- portada -->
+
+|  |  |
+| --- | --- |
+| **Bloque** | Temario específico · Correos · punto 1 |
+| **Sirve para** | **Correos · Grupo Profesional IV** |
+| **Fuente** | **Ley 43/2010, de 30 de diciembre**, del servicio postal universal, de los derechos de los usuarios y del mercado postal |
+| **Identificador** | `BOE-A-2010-20139` · BOE núm. 318, de 31/12/2010 |
+| **Redacción que se estudia** | La **vigente hoy**, no la de 2022. Su disposición adicional primera dice hoy **veinte años** donde en 2022 decía quince: el cambio lo hizo la **Ley 6/2025, de 28 de julio**, y el tema lo desarrolla con las cuatro redacciones delante |
+| **Norma de apoyo** | **Real Decreto 1829/1999**, Reglamento postal · `BOE-A-1999-24919` |
+| **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 1**, reconocido ópticamente |
+| **Extensión** | **5.124 palabras** |
+
+<!-- /portada -->
+
 Las siglas de este tema, presentadas de entrada: el servicio postal universal (**SPU**); la Unión
 Postal Universal (**UPU**); la Comisión Nacional de los Mercados y la Competencia (**CNMC**); la
 Sociedad Estatal de Participaciones Industriales (**SEPI**); la Ley de Contratos del Sector Público
@@ -27,6 +42,30 @@ Boletín Oficial del Estado, **manda el Boletín, y este temario lo advierte.** 
 vez, y es la más importante de todas.
 
 <!-- indice -->
+
+## Índice
+
+- [1. El servicio postal universal, y el plazo que ya no es el que se estudiaba](#1-el-servicio-postal-universal-y-el-plazo-que-ya-no-es-el-que-se-estudiaba)
+  - [Cómo cambió, que es un caso de libro](#cómo-cambió-que-es-un-caso-de-libro)
+  - [La trampa que el propio examen no supo resolver](#la-trampa-que-el-propio-examen-no-supo-resolver)
+  - [Y el texto consolidado se contradice consigo mismo](#y-el-texto-consolidado-se-contradice-consigo-mismo)
+- [2. Qué es el servicio postal universal](#2-qué-es-el-servicio-postal-universal)
+  - [Los cuatro principios de la prestación](#los-cuatro-principios-de-la-prestación)
+  - [El plan de prestación y el contrato regulador](#el-plan-de-prestación-y-el-contrato-regulador)
+- [3. La liberalización, y las cuatro normas que la hicieron](#3-la-liberalización-y-las-cuatro-normas-que-la-hicieron)
+  - [La sentencia que hay que conocer antes de citar el reglamento](#la-sentencia-que-hay-que-conocer-antes-de-citar-el-reglamento)
+- [4. La naturaleza jurídica de Correos](#4-la-naturaleza-jurídica-de-correos)
+  - [Como sociedad mercantil](#como-sociedad-mercantil)
+  - [Como empresa pública, en materia de personal](#como-empresa-pública-en-materia-de-personal)
+  - [Como empresa pública, en materia de contratación](#como-empresa-pública-en-materia-de-contratación)
+- [5. Los derechos de los usuarios](#5-los-derechos-de-los-usuarios)
+- [6. Los organismos reguladores](#6-los-organismos-reguladores)
+  - [Nacionales](#nacionales)
+  - [Internacionales](#internacionales)
+- [7. El Grupo Correos](#7-el-grupo-correos)
+- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
+- [9. Trazabilidad](#9-trazabilidad)
+
 <!-- /indice -->
 
 ## 1. El servicio postal universal, y el plazo que ya no es el que se estudiaba
@@ -516,7 +555,7 @@ ahí**.
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 1 del documento que la empresa publicó para esta convocatoria, volcado en `fuentes/correos-referencia/tema-01.txt` | **La condición de operador designado; la definición y el contenido del servicio postal universal; la autoprestación; los principios de prestación; el plan de prestación y su contenido; el inicio de la liberalización y las cuatro normas que la hicieron; la naturaleza mercantil y pública de Correos; la falta de condición de poder adjudicador; el artículo 321.1 de la Ley 9/2017; la carta de derechos de los usuarios; los cuatro puntos que resumen la posición de Correos; la Comisión Nacional de los Mercados y la Competencia y sus cometidos; las cinco funciones del Ministerio; las actas de la Unión Postal Universal y sus estándares; y la composición del Grupo SEPI y del Grupo Correos**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 1 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **La condición de operador designado; la definición y el contenido del servicio postal universal; la autoprestación; los principios de prestación; el plan de prestación y su contenido; el inicio de la liberalización y las cuatro normas que la hicieron; la naturaleza mercantil y pública de Correos; la falta de condición de poder adjudicador; el artículo 321.1 de la Ley 9/2017; la carta de derechos de los usuarios; los cuatro puntos que resumen la posición de Correos; la Comisión Nacional de los Mercados y la Competencia y sus cometidos; las cinco funciones del Ministerio; las actas de la Unión Postal Universal y sus estándares; y la composición del Grupo SEPI y del Grupo Correos**, citados literalmente |
 | **Norma con artículo** | Ley 43/2010, texto consolidado vigente | **La disposición adicional primera con su período de veinte años**; **el apartado 4 del artículo 22**, de la presunción de veracidad y fehaciencia; y **el pasaje del preámbulo que sigue diciendo quince años**, citados literalmente |
 
 **Una advertencia sobre la comprobación de este tema**: **la lente que contrasta cada negrita contra
@@ -532,7 +571,7 @@ cifras.
 El volcado devolvía **«Directiva 47/67/CE», «Real Decreto 1829/1499», «Ley 94/2017» y «Tribunal de
 Defensa de la Competencia (1464)»**. **Las veinticinco correcciones de este tema se han comprobado a la
 vista sobre su página** —o por el nombre de la norma, que el reconocedor sí acierta— y quedan
-registradas en `fuentes/correos-referencia/correcciones.tsv`, con cómo se comprobó cada una.
+registradas en **el registro de correcciones de este temario**, con cómo se comprobó cada una.
 **Ninguna cifra de este tema viene del reconocimiento sin pasar por la página impresa.**
 
 **Y conviene entender por qué esto no lo ve ninguna lente**: `refutar_documento` comprueba que la

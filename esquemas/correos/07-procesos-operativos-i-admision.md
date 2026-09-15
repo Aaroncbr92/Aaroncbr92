@@ -14,6 +14,21 @@ NO»**: se acierta sabiendo la lista entera, no el concepto · **aquí sí hay n
 y el artículo 76 del Reglamento Postal**.
 
 <!-- indice -->
+
+## Índice
+
+- [El circuito de la correspondencia](#el-circuito-de-la-correspondencia)
+- [Medios de pago en oficina](#medios-de-pago-en-oficina)
+- [Los sistemas de franqueo](#los-sistemas-de-franqueo)
+- [Objetos prohibidos](#objetos-prohibidos)
+- [Mercancías peligrosas](#mercancías-peligrosas)
+- [La insuficiencia de franqueo](#la-insuficiencia-de-franqueo)
+- [Los siete procedimientos de admisión](#los-siete-procedimientos-de-admisión)
+- [La admisión masiva](#la-admisión-masiva)
+- [Buzones, recogida a domicilio y Citypaq](#buzones-recogida-a-domicilio-y-citypaq)
+- [Clasificación y contenerización en las oficinas](#clasificación-y-contenerización-en-las-oficinas)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## El circuito de la correspondencia
@@ -400,5 +415,5 @@ y el artículo 76 del Reglamento Postal**.
   que se dan la lista admisible y el umbral de 24,2 julios · **las Instrucciones Técnicas de la
   OACI**, de las que se dan las cuatro excepciones · **las tarifas por insuficiencia de franqueo**.
 - **DÓNDE ESTÁ LA NORMA** · `[tem]` · **el Reglamento Postal (Real Decreto 1829/1999)** y **la Ley
-  43/2010** están volcados en `fuentes/correos-normas/` · **el artículo 76 se cita entero**, y es el
+  43/2010** sale del texto consolidado del Boletín · **el artículo 76 se cita entero**, y es el
   que fija el mínimo en **el doble**.

@@ -13,6 +13,21 @@ una medida en milímetros o una fecha** · **tres cifras se parecen y no son la 
 2023 pregunta dos de sus datos.
 
 <!-- indice -->
+
+## Índice
+
+- [Paquetizados y prefranqueados](#paquetizados-y-prefranqueados)
+- [Certificaciones](#certificaciones)
+- [Apartados postales](#apartados-postales)
+- [Servicios financieros · el giro](#servicios-financieros--el-giro)
+- [Correos Cash y Correos Prepago](#correos-cash-y-correos-prepago)
+- [Cobro de recibos](#cobro-de-recibos)
+- [Soluciones digitales](#soluciones-digitales)
+- [Filatelia](#filatelia)
+- [Tu sello personalizado](#tu-sello-personalizado)
+- [Vales UPU](#vales-upu)
+- [Aviso de estudio](#aviso-de-estudio)
+
 <!-- /indice -->
 
 ## Paquetizados y prefranqueados
@@ -268,7 +283,7 @@ una medida en milímetros o una fecha** · **tres cifras se parecen y no son la 
 - **LO QUE NO SE DA** · `[tem]` · **las TARIFAS de estos productos**, que cambian cada año · **las
   pantallas de IRIS**, decenas de capturas que no se estudian · **el catálogo filatélico** de cada
   año · **las condiciones de uso completas de Correos ID y Buzón Digital**.
-- **DÓNDE ESTÁ LA NORMA** · `[tem]` · **la Ley 39/2015 está volcada** en `fuentes/correos-normas/` ·
+- **DÓNDE ESTÁ LA NORMA** · `[tem]` · **la Ley 39/2015 está volcada** del texto consolidado del Boletín ·
   **la Ley 11/2021, de lucha contra el fraude fiscal, NO se volcó**: se dan el límite de 999,99 € y
   sus dos excepciones.
 - **LA ADVERTENCIA DE FUENTE DE ESTE TEMA** · `[tem]` · **es el único cuyo PDF trae capa de texto en
