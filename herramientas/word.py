@@ -51,8 +51,8 @@ from markdown_it import MarkdownIt
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from libro import (BLOQUES, CORTE, RAIZ, con_letra, lee, numera, ordena_opciones,
-                   texto_caja_corte, texto_linea_corte, texto_memoria,
-                   texto_partes, texto_preguntas,
+                   texto_atribucion, texto_caja_corte, texto_linea_corte,
+                   texto_memoria, texto_partes, texto_preguntas,
                    preguntas, ruta_tema, sin_marcas)
 
 # El bloque que se está componiendo. Lo fija main() a partir del argumento, y
@@ -489,12 +489,17 @@ def parte_tema(doc, numero, base, banco):
     p = doc.add_paragraph(style="Normal")
     p.add_run("%d preguntas %s. Las respuestas, al final del volumen."
               % (len(ps), B.get("epoca", "de los cuadernillos de 2024"))).italic = True
-    for n, (_, enunciado, _) in enumerate(ps, 1):
-        pinta_pregunta(doc, n, enunciado)
+    for n, (_, enunciado, _, remite) in enumerate(ps, 1):
+        pinta_pregunta(doc, n, enunciado, remite)
     return ps
 
 
-def pinta_pregunta(doc, n, enunciado):
+def pinta_pregunta(doc, n, enunciado, remite=""):
+    """Una pregunta, con su remite al epígrafe si el banco lo trae.
+
+    El remite dice **dónde se estudia** lo que la pregunta mide, no qué letra
+    hay que marcar: la letra sigue al final del volumen.
+    """
     cabeza, opciones, sin_texto = ordena_opciones(enunciado)
     p = doc.add_paragraph(style="Pregunta")
     p.add_run("%d. " % n, style="Número de pregunta")
@@ -506,6 +511,8 @@ def pinta_pregunta(doc, n, enunciado):
             "El examen corta estas opciones sin punto final, así que la transcripción "
             "no marca dónde acaba cada una y %s se queda sin texto. Se imprime como salió."
             % ", ".join("la %s)" % l for l in sin_texto), style="Fuente de pregunta")
+    if remite:
+        doc.add_paragraph(remite, style="Fuente de pregunta")
 
 
 def portada(doc, total_preg, cuantos):
@@ -567,7 +574,12 @@ def aviso(doc):
     for trozos in (_troceado(texto_partes(B, sin_examen)),
                    _troceado(B["aviso_portada"]),
                    _troceado(texto_preguntas(B, sin_examen)),
+                   _troceado(texto_atribucion(B)),
                    _troceado(texto_memoria(B))):
+        # los bloques sin examen no llevan nota de atribución: sin preguntas
+        # reproducidas no hay nada que atribuir, y un párrafo vacío se vería
+        if not trozos:
+            continue
         p = doc.add_paragraph(style="Aviso")
         for texto, negrita, cursiva in trozos:
             r = p.add_run(texto)
@@ -620,7 +632,7 @@ def respuestas(doc, hechos):
     for numero, banco, ps in hechos:
         doc.add_paragraph("Temas 2 y 3" if banco == "g2-g3" else "Tema %d" % numero,
                           style="Heading 2")
-        sueltas = [(n, r) for n, (_, _, r) in enumerate(ps, 1)]
+        sueltas = [(n, r) for n, (_, _, r, _) in enumerate(ps, 1)]
         POR_FILA = 10
         filas = []
         for a in range(0, len(sueltas), POR_FILA):
@@ -628,7 +640,7 @@ def respuestas(doc, hechos):
             filas.append([md.parse("**%d**" % n)[1] for n, _ in trozo])
             filas.append([md.parse("**%s**" % r)[1] for _, r in trozo])
         escribe_tabla(doc, filas, False, alterna=True)
-        for n, (ident, _, _) in enumerate(ps, 1):
+        for n, (ident, _, _, _) in enumerate(ps, 1):
             if ident in B["avisos"]:
                 p = doc.add_paragraph(style="Aviso")
                 p.add_run("%s %d: " % (B["rotulo_aviso"], n)).bold = True

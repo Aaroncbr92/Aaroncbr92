@@ -62,16 +62,33 @@ TITULOS = {
 
 
 def acta():
-    """{(origen, nº): (tema, motivo)} leído del acta de clasificación."""
+    """{(origen, nº): (tema, motivo, epígrafe)} leído del acta de clasificación."""
     fuera = {}
     for linea in open(ACTA, encoding="utf-8"):
         if linea.startswith("#") or not linea.strip():
             continue
-        c = linea.rstrip("\n").split("\t")
+        c = (linea.rstrip("\n").split("\t") + ["", "", ""])[:5]
         if c[0] == "origen":
             continue
-        fuera[(c[0], int(c[1]))] = (c[2], c[3] if len(c) > 3 else "")
+        fuera[(c[0], int(c[1]))] = (c[2], c[3], c[4])
     return fuera
+
+
+def remite(epigrafe):
+    """El renglón que va debajo de la pregunta, o cadena vacía.
+
+    **Tres formas y ninguna más.** Un número de epígrafe remite al tema; un
+    texto que empieza por `!` declara que el tema **no** la contesta y por qué,
+    que es lo que hay que decir cuando es verdad; y una casilla vacía no imprime
+    nada, porque todavía no se ha mirado y fingir que sí sería lo contrario de
+    lo que este banco hace.
+    """
+    epigrafe = epigrafe.strip()
+    if not epigrafe or epigrafe == "--":
+        return ""
+    if epigrafe.startswith("!"):
+        return "El tema no la contesta: %s" % epigrafe[1:].strip()
+    return "La contesta el epígrafe %s." % epigrafe
 
 
 def preguntas(fichero):
@@ -123,7 +140,8 @@ def main():
             # en minúscula, como el resto del banco: el compositor del volumen
             # reconoce la opción por «a)…d)» y con la mayúscula no la separa
             cuerpo = [enunciado] + ["%s) %s" % (L.lower(), t) for L, t in opciones]
-            portema[tema].append((base, n, letra, anulada, "\n".join(cuerpo)))
+            portema[tema].append((base, n, letra, anulada, "\n".join(cuerpo),
+                                  remite(filas[clave][2])))
 
     total = 0
     for tema, items in sorted(portema.items()):
@@ -139,10 +157,12 @@ def main():
                 fh.write("**%d de estas preguntas están anuladas.** Su enunciado salió del "
                          "temario y\nsigue sirviendo para estudiar; su respuesta, no.\n\n"
                          % anuladas)
-            for origen, n, letra, anul, cuerpo in items:
+            for origen, n, letra, anul, cuerpo, rem in items:
                 resp = "anulada" if anul else (letra.lower() if letra else "sin plantilla")
                 fh.write("---\n\n**%s · nº %d · respuesta: %s**\n\n```\n%s\n```\n\n"
                          % (origen, n, resp, cuerpo))
+                if rem:
+                    fh.write("*%s*\n\n" % rem)
         print("%-84s %3d preguntas -> banco/correos-%s.md"
               % (TITULOS[tema], len(items), tema))
         total += len(items)

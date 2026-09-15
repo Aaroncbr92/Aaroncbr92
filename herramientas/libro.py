@@ -2052,6 +2052,12 @@ BLOQUES = {
         marca="Oposiciones Correos",
         convocatoria="Oposiciones Correos · convocatoria de 27 de mayo de 2022",
         epoca="del examen del 7 de mayo de 2023",
+        titular_preguntas="la Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.",
+        # la portada sólo promete el remite cuando lo llevan TODAS: mientras
+        # `refutar_remites.py` diga «sin remitir todavía: N» con N mayor que
+        # cero, prometerlo sería anunciar en la primera página algo que no está
+        # debajo de cada pregunta
+        remite_epigrafe=False,
         linea_corte="Programa del <b>Anexo III</b>, publicado el <b>14 de octubre de 2022</b>",
         caja_corte=(
             "<p><b>Este volumen no sale de una norma con fecha de corte, sino de un "
@@ -2229,7 +2235,13 @@ def numera(texto, raiz):
 
 
 def preguntas(banco):
-    """[(id, enunciado, respuesta)] del fichero del banco."""
+    """[(id, enunciado, respuesta, remite)] del fichero del banco.
+
+    El **remite** es el epígrafe del tema que contesta la pregunta, escrito a
+    mano en el acta de reparto y no deducido aquí por ninguna regla. Va vacío
+    en los bancos que todavía no lo llevan, y entonces no se imprime nada: un
+    remite inventado sería peor que ninguno.
+    """
     fuera = []
     for bloque in re.split(r"\n---\n", lee("banco/%s.md" % banco)):
         m = re.search(r"\*\*([^*]+?) · nº (\d+) · respuesta: ([^*]+)\*\*", bloque)
@@ -2239,7 +2251,9 @@ def preguntas(banco):
         cuerpo = re.search(r"```\n(.*?)```", bloque, re.S)
         if not cuerpo:
             continue
-        fuera.append((ident, cuerpo.group(1).strip(), m.group(3).strip()))
+        r = re.search(r"(?m)^\*(La contesta [^*\n]+|El tema [^*\n]+)\*\s*$", bloque)
+        fuera.append((ident, cuerpo.group(1).strip(), m.group(3).strip(),
+                      r.group(1) if r else ""))
     return fuera
 
 
@@ -2305,7 +2319,13 @@ def linea_indice(nivel, numero, titulo, ancla):
             % (nivel, ancla, numero, html.escape(titulo), ancla))
 
 
-def pinta_pregunta(n, enunciado):
+def pinta_pregunta(n, enunciado, remite=""):
+    """Una pregunta, con su remite al epígrafe si el banco lo trae.
+
+    **El remite no es la respuesta.** Dice dónde se estudia lo que la pregunta
+    mide, no qué letra hay que marcar; la letra sigue al final del volumen, que
+    es lo que hace que la pregunta sirva para comprobarse.
+    """
     cabeza, opciones, sin_texto = ordena_opciones(enunciado)
     cuerpo = "<b>%s</b>" % html.escape(cabeza) if cabeza else ""
     for o in opciones:
@@ -2316,6 +2336,8 @@ def pinta_pregunta(n, enunciado):
                    '<b>%s se queda sin texto</b>. Se imprime como salió: repartirlo a ojo '
                    'sería inventar.</div>'
                    % ", ".join("la %s)" % l for l in sin_texto))
+    if remite:
+        cuerpo += '<div class="remite">%s</div>' % html.escape(remite)
     return ('<div class="pregunta"><div class="pnum">%d</div>'
             '<div class="ptexto">%s</div></div>' % (n, cuerpo))
 
@@ -2398,6 +2420,8 @@ table.claves th, table.claves td { text-align:center; width:10%; }
 table.claves th { background:#e4e4e4; font-weight:bold; }
 table.claves td { background:#fff; font-weight:bold; }
 .opcion { margin-left:1.1em; text-indent:-1.1em; }
+.remite { margin-top:3px; font-size:8pt; color:#555; font-style:italic;
+          text-align:left; }
 @media screen { body { max-width:190mm; margin:0 auto; padding:16mm 10mm; background:#fff; } }
 """
 
@@ -2457,6 +2481,41 @@ def texto_linea_corte(B):
 # el texto consolidado del BOE» en un volumen cuya fuente principal es un
 # documento de empresa reconocido ópticamente sería afirmar de sí mismo una cosa
 # que no es cierta
+def texto_atribucion(B):
+    """La nota de atribución de las preguntas de examen.
+
+    **No es una fórmula de cortesía: es lo que sostiene el uso.** Las preguntas
+    son del organismo que convocó la prueba, y sus cuadernillos llevan impreso
+    que no se permite su reproducción. Lo que este volumen hace con ellas no es
+    reproducir el cuadernillo —lo trocea por tema, lo reordena y lo comenta—,
+    sino **citarlas para analizarlas**, que es el uso que el temario declara.
+    Declararlo en la portada es parte de hacerlo.
+
+    Un volumen sin examen no lleva nota, porque no hay nada que atribuir.
+
+    La frase del epígrafe sólo se imprime si el banco del bloque lo lleva de
+    verdad (``remite_epigrafe``). Prometer en la portada un remite que luego
+    no está debajo de cada pregunta sería exactamente el defecto que las
+    lentes persiguen dentro de los temas, cometido en la primera página.
+    """
+    if B.get("sin_examen", False):
+        return ""
+    titular = B.get("titular_preguntas",
+                    "la Corporación de Radio y Televisión Española, S.A., S.M.E.")
+    colocada = ("cada una va colocada en el tema que la contesta y acompañada de la referencia "
+                "del epígrafe que la resuelve"
+                if B.get("remite_epigrafe", False) else
+                "cada una va colocada en el tema que la contesta")
+    return (
+        "<p><b>De quién son las preguntas, y para qué están aquí.</b> Las preguntas de examen "
+        "que este volumen reproduce <b>son de %s</b>, que convocó la prueba y publicó los "
+        "cuadernillos y sus plantillas de respuestas. <b>Se reproducen para analizarlas</b>: %s, "
+        "y las que tienen el enunciado o la respuesta defectuosos van comentadas una a una. "
+        "<b>Este temario no está editado, patrocinado ni avalado por %s</b>, ni sustituye a "
+        "los cuadernillos oficiales, que ese organismo publica.</p>"
+        % (titular, colocada, titular))
+
+
 def texto_memoria(B):
     return B.get("parrafo_memoria", (
         "<p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto "
@@ -2510,8 +2569,8 @@ def main():
             bloque.append("<p><i>%d preguntas %s. "
                           "Las respuestas, al final del volumen.</i></p>"
                           % (len(ps), B.get("epoca", "de los cuadernillos de 2024")))
-            bloque.append("".join(pinta_pregunta(n, e)
-                                  for n, (_, e, _) in enumerate(ps, 1)))
+            bloque.append("".join(pinta_pregunta(n, e, rem)
+                                  for n, (_, e, _, rem) in enumerate(ps, 1)))
             bloque.append("</section>")
             TEMAS[i - 1] = [base, banco, ps]
         bloque.append("</section>")
@@ -2564,8 +2623,8 @@ def main():
         resp.append("<h2>%s</h2>" % rot)
         # la respuesta se busca por el número con el que la pregunta está impresa;
         # el cuadernillo del que salió ya no se imprime, que al opositor no le dice nada
-        sueltas = [(n, r) for n, (_, _, r) in enumerate(ps, 1)]
-        erratas = [(n, B["avisos"][ident]) for n, (ident, _, _) in enumerate(ps, 1)
+        sueltas = [(n, r) for n, (_, _, r, _) in enumerate(ps, 1)]
+        erratas = [(n, B["avisos"][ident]) for n, (ident, _, _, _) in enumerate(ps, 1)
                    if ident in B["avisos"]]
         filas, POR_FILA = [], 10
         for a in range(0, len(sueltas), POR_FILA):
@@ -2593,6 +2652,7 @@ def main():
     caja_corte = texto_caja_corte(B)
     linea_corte = texto_linea_corte(B)
     parrafo_memoria = texto_memoria(B)
+    parrafo_atribucion = texto_atribucion(B)
 
     ig = []
     for fila in indice_gral:
@@ -2627,6 +2687,7 @@ def main():
 {parrafo_partes}
 {B["aviso_portada"]}
 {parrafo_preguntas}
+{parrafo_atribucion}
 {parrafo_memoria}
 </section>
 
@@ -2639,7 +2700,7 @@ def main():
     # si una errata deja de casar con su pregunta, desaparece del apéndice sin
     # decir nada: el volumen volvería a dar por buena una plantilla que está mal
     sueltas = set() if sin_examen else (
-        set(B["avisos"]) - {i for t in TEMAS if len(t) > 2 for i, _, _ in t[2]})
+        set(B["avisos"]) - {i for t in TEMAS if len(t) > 2 for i, _, _, _ in t[2]})
     if sueltas:
         print("  ! erratas sin pregunta a la que pegarse: %s" % ", ".join(sorted(sueltas)))
 

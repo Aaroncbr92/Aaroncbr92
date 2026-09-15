@@ -19,6 +19,8 @@ c) El Ministerio de Hacienda y Función Pública
 d) La Subdirección General de Régimen Postal
 ```
 
+*La contesta el epígrafe 1.7.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 11 · respuesta: b**
@@ -30,6 +32,8 @@ b) A la Sociedad Estatal Correos y Telégrafos S.A., S.M.E. y a Correos Express,
 c) Solo a la Sociedad Estatal Correos y Telégrafos S.A., S.M.E.
 d) A la Sociedad Estatal Correos y Telégrafos S.A., S.M.E. y a los operadores adheridos
 ```
+
+*La contesta el epígrafe 1.8.1.*
 
 ---
 
@@ -43,6 +47,8 @@ c) Entre 12 y 15 miembros
 d) Correos no dispone de Consejo de Administración
 ```
 
+*La contesta el epígrafe 1.5.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 67 · respuesta: c**
@@ -54,6 +60,8 @@ b) Ley 43/2010, de 30 de diciembre, del Servicio Postal Universal, de los derech
 c) Ley 43/2010, de 30 de diciembre, del Servicio Postal Universal, de los derechos de los usuarios y del mercado postal; y el Real Decreto 1829/1999, de 3 de diciembre, por el que se aprueba el Reglamento Postal, por el que se regula la prestación de los servicios postales.
 d) Real Decreto 1829/1999, de 3 de diciembre, por el que se aprueba el Reglamento por el que se regula la prestación de los servicios postales; y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
 ```
+
+*La contesta el epígrafe 1.4.*
 
 ---
 
@@ -67,6 +75,8 @@ c) El servicio postal universal comprende las actividades de recogida, admisión
 d) El servicio postal universal incluye paquetes postales, con o sin valor comercial, de hasta 10 kg de peso
 ```
 
+*La contesta el epígrafe 1.3.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 5 · respuesta: c**
@@ -78,6 +88,8 @@ b) Unión Postal del Mediterráneo (PUMed o EuroMed)
 c) International Post Corporation (IPC)
 d) Asociación de operadores postales públicos europeos (PostEurop)
 ```
+
+*La contesta el epígrafe 1.7.2.1.*
 
 ---
 
@@ -91,6 +103,8 @@ c) 2025
 d) 2026
 ```
 
+*La contesta el epígrafe 1.2.2.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 41 · respuesta: d**
@@ -102,6 +116,8 @@ b) La Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. es una sociedad anón
 c) Las respuestas A y B son incorrectas
 d) Las respuestas A y B son correctas
 ```
+
+*La contesta el epígrafe 1.8.*
 
 ---
 
@@ -115,6 +131,8 @@ c) Al Ministerio de Industria, Comercio y Turismo
 d) A la Sociedad Española de Promoción Exterior
 ```
 
+*La contesta el epígrafe 1.8.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 90 · respuesta: a**
@@ -126,4 +144,6 @@ b) El proceso de liberalización del sector postal en España ha estado totalmen
 c) La libre competencia en el mercado postal se alcanzó en España en el año 1985
 d) En la Unión Europea el proceso de liberalización del sector postal comenzó en 1980 Página 11 de 13 - REP/A A
 ```
+
+*La contesta el epígrafe 1.4.*
 

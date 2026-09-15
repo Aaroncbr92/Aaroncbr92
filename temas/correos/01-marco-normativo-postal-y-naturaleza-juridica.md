@@ -349,6 +349,38 @@ los accionistas, funciones del Consejo de Administración.
 
 ---
 
+**Y como sociedad mercantil tiene órganos sociales, que se preguntan por su nombre y por su
+tamaño.** El documento los enumera, citado:
+
+> «**Los órganos sociales de Correos son la Junta General de Accionistas y el Consejo de
+> Administración.**»
+
+**Dos, y sólo dos.** La Comisión Ejecutiva y la Comisión de Auditoría y Control existen y el
+documento las nombra, pero **no son órganos sociales**: la primera administra junto al Consejo y a
+su Presidente, y la segunda **asesora** al Consejo en asuntos económicos, gestión de riesgos y
+auditoría interna.
+
+**Del Consejo de Administración se pregunta cuántos son, y la cifra es un intervalo.** Citado:
+
+> «**Composición: entre 12 y 15 miembros. Ejercen su cargo durante el plazo máximo de cinco años,
+> con posibilidad de reelección. Su nombramiento o separación corresponde a la Junta General de
+> Accionistas.**»
+
+---
+
+**Entre doce y quince, cinco años, y los nombra la Junta General.** **El examen de 2023 preguntó
+exactamente la primera cifra** —es la número 39 del cuestionario de Atención al Cliente— y ofrecía
+«entre 10 y 12» y «al menos 20» como señuelos. Del resto del órgano, el documento da dos rasgos
+más, citados:
+
+> «**Competencias: supervisar la gestión de la empresa.**»
+
+> «**Funcionamiento: reuniones ordinarias mensuales a partir de una convocatoria realizada con 48
+> horas de antelación. El Consejo queda válidamente constituido cuando concurren la mayoría de los
+> consejeros, presentes o representados.**»
+
+---
+
 ### Como empresa pública, en materia de personal
 
 **El documento enumera las normas de personal**, y de ellas interesan cuatro:
@@ -549,6 +581,52 @@ está sujeta a reservas y cuál no**: **la Constitución no lo está; el Conveni
 **el Reglamento (UE) 2018/644 sobre servicios de paquetería transfronterizos** y **las normas
 técnicas del Comité Europeo de Normalización**.
 
+#### Las tres uniones restringidas, y la que no lo es
+
+**La Unión Postal Universal reconoce uniones restringidas, y el documento desarrolla tres.** **La
+pregunta de examen no va de lo que cada una hace: va de cuál de cuatro siglas no es una de ellas**,
+y ésa es la que hay que saber separar.
+
+| Organización | Qué es, según el documento | Sede y fecha |
+|---|---|---|
+| Unión Postal de las Américas, España y Portugal **(UPAEP)** | **Unión restringida** de la UPU. Organismo intergubernamental de **28 países** | **Montevideo**, creada en **1911** |
+| Asociación de Operadores postales públicos Europeos **(PostEurop)** | **Unión restringida** de la UPU, con fines no lucrativos | **Bruselas**, creada en **enero de 1993** |
+| Unión Postal del Mediterráneo **(PUMed o EuroMed)** | **Unión restringida** de la UPU desde marzo de 2012, con **23 operadores** | **Roma**, creada en **2011** |
+| International Post Corporation **(IPC)** | **NO es una unión restringida.** El documento la coloca entre las **empresas, alianzas de negocio y redes internacionales**: es una **cooperativa de 25 operadores postales** regida por el derecho holandés | **Ámsterdam y Bruselas**, fundada en **1989** |
+
+**Las tres primeras, citadas del documento.** De UPAEP:
+
+> «**Este organismo internacional de carácter intergubernamental (28 países) promueve una
+> cooperación técnica entre sus operadores postales y es también una Unión Restringida de la
+> UPU.**»
+
+De PostEurop:
+
+> «**PostEurop (Asociación de Operadores postales públicos europeos) es una unión restringida de la
+> UPU con sede en Bruselas. Se creó en enero de 1993, con fines no lucrativos, para reforzar la
+> cooperación entre los operadores postales europeos**»
+
+Y de PUMed:
+
+> «**La Unión Postal del Mediterráneo (PUMed o EuroMed) fue creada en Roma en 2011.**» «**En marzo
+> de 2012 fue reconocida como unión restringida por la UPU y actualmente está formada por 23
+> operadores que también son miembros de otras dos uniones restringidas de la UPU**»
+
+---
+
+**Y de IPC el documento no dice en ningún sitio que sea una unión restringida**, porque no lo es:
+**la mete en un apartado distinto**, el de empresas y alianzas, junto a **Kahala Posts Group**. Lo
+que sí dice de ella es **de qué derecho se rige y cuánto mueve**, citado:
+
+> «**IPC es una Sociedad cooperativa regida por el derecho holandés, con principales oficinas en
+> Ámsterdam y Bruselas.**» «**Los miembros de IPC manejan el 80% del volumen postal mundial. IPC
+> opera en el campo de la calidad de servicio y de los proyectos tecnológicos.**»
+
+---
+
+**El examen de 2023 preguntó esto** —es la número 5 del cuestionario de Reparto— ofreciendo UPAEP,
+PUMed, IPC y PostEurop, y **la que sobra es IPC**.
+
 ## 7. El Grupo Correos
 
 **La estructura es la respuesta directa a una rúbrica del enunciado y cayó en el examen de 2023.**
@@ -579,6 +657,49 @@ es el otro volumen de esta casa.
 conviene saberlo porque **una pregunta que ofrezca «tres filiales» y «cuatro sociedades» se juega
 ahí**.
 
+**Cómo llegó Correos a manos de SEPI, que tiene fecha y acuerdo.** Citado:
+
+> «**Por acuerdo del Consejo de Ministros de 16 de marzo de 2012, se aprobó el Plan de
+> reestructuración y racionalización del sector público empresarial y fundacional estatal, que
+> estableció, entre otras medidas, el cambio de titularidad de Correos. La totalidad de sus
+> acciones pasaron a manos de la Sociedad Estatal de Participaciones Industriales (SEPI)**»
+
+---
+
+**2012, no 2016, y el examen de 2023 se equivocó en eso.** Su pregunta —la número 69 del
+cuestionario de Reparto— situaba el cambio de titularidad «en 2016»; **el documento de referencia
+lo fecha en el acuerdo de 16 de marzo de 2012**. **La propia plantilla la anuló.**
+
+### El operador público no es sólo Correos
+
+**Esto se pregunta y se falla, porque «operador público» suena a una sola empresa.** Los informes
+anuales de la Comisión Nacional de los Mercados y la Competencia parten el sector postal en dos
+segmentos: **el postal tradicional (SPT)**, que es el de la correspondencia, y **el de los envíos
+urgentes y la paquetería**, que esos informes llaman **CEP**, por *Courier, Express and Parcel*.
+**El reconocimiento óptico rompe ahí la conjunción** —la página escribe la «and» con el signo `&` y
+el volcado lo da como «é:» y como «€»—, así que **la sigla se desarrolla en prosa y no se cita**;
+el enunciado del examen de 2023 la escribe entera y confirma el desarrollo. Y en ese segundo
+segmento, citado:
+
+> «**En esta definición, Operador Público no solo hace referencia a Correos, sino también a su
+> filial Correos Express (CEX), acumulando entre ambos un 18,1 % de cuota en cuanto a envíos se
+> refiere en el año 2021.**»
+
+---
+
+**Dos sociedades, no una.** Y no es una lectura: **la tabla de operadores del segmento CEP que el
+documento reproduce pone las dos bajo el mismo rótulo**, «Operador público» —«CORREOS EXPRESS,
+S.A.» y «SOCIEDAD ESTATAL DE CORREOS Y TELÉGRAFOS, S.A.»—, y las separa de los otros dos rótulos
+de esa misma tabla, «redes de transporte urgente de ámbito nacional» y «resto de operadores», que
+son los privados. **El examen de 2023 preguntó exactamente esto** —es la número 11 del
+cuestionario de Atención al Cliente— y ofrecía «sólo Correos Express» y «sólo la Sociedad Estatal»
+como señuelos: **la buena las suma a las dos**.
+
+**Ojo con la otra tabla.** El mismo documento trae, unas páginas antes, **la tabla del segmento
+postal tradicional**, y allí «Operador público (Correos)» es **sólo la Sociedad Estatal**. **Las dos
+tablas no dicen lo mismo porque no hablan del mismo segmento**, y quien recuerde la primera
+contesta mal la pregunta, que va de CEP.
+
 ## 8. Lo que este tema no da, y dónde está
 
 | Materia | Dónde está | Estado |
@@ -589,14 +710,14 @@ ahí**.
 | **Las instrucciones internas de contratación de Correos** | El sitio web de la empresa | **NO volcadas**: se nombra su existencia y su fundamento legal |
 | **El III Convenio Colectivo de Correos** | El Boletín Oficial del Estado | **NO volcado para este volumen.** El documento lo fecha en 2011 y **conviene comprobar si sigue siendo el vigente**, porque el documento es de 2022 |
 | **La composición y el funcionamiento de la Unión Postal Universal** | Sus actas | **NO volcadas**: se da la clasificación de las actas, que es lo que el programa pide |
-| **Las uniones restringidas de la Unión Postal Universal** | El epígrafe 1.4 del documento de referencia | **Volcado**: se desarrollan con las organizaciones internacionales, y el examen de 2023 preguntó por ellas |
+| **Las uniones restringidas de la Unión Postal Universal** | El epígrafe 1.4 del documento de referencia | **Volcadas las tres** —UPAEP, PostEurop y PUMed— con lo que el documento dice de cada una, **y separada de ellas IPC**, que no lo es. **Lo que no se vuelca es la lista nominal de países miembros** de cada unión, que el examen no pregunta |
 | **Correos y su adaptación a los cambios** | El epígrafe 1.6 del documento de referencia | **Volcado**: la estrategia se desarrolla junto al tema 5, con el que se solapa |
 
 ## 9. Trazabilidad
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|
-| **Documento de referencia de Correos** | Tema 1 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **La condición de operador designado; la definición y el contenido del servicio postal universal; la autoprestación; los principios de prestación; el plan de prestación y su contenido; el inicio de la liberalización y las cuatro normas que la hicieron; la naturaleza mercantil y pública de Correos; la falta de condición de poder adjudicador; el artículo 321.1 de la Ley 9/2017; la carta de derechos de los usuarios; los cuatro puntos que resumen la posición de Correos; la Comisión Nacional de los Mercados y la Competencia y sus cometidos; las cinco funciones del Ministerio; las actas de la Unión Postal Universal y sus estándares; y la composición del Grupo SEPI y del Grupo Correos**, citados literalmente |
+| **Documento de referencia de Correos** | Tema 1 del documento que la empresa publicó para esta convocatoria, reconocido ópticamente página a página | **La condición de operador designado; la definición y el contenido del servicio postal universal; la autoprestación; los principios de prestación; el plan de prestación y su contenido; el inicio de la liberalización y las cuatro normas que la hicieron; la naturaleza mercantil y pública de Correos; la falta de condición de poder adjudicador; el artículo 321.1 de la Ley 9/2017; la carta de derechos de los usuarios; los cuatro puntos que resumen la posición de Correos; la Comisión Nacional de los Mercados y la Competencia y sus cometidos; las cinco funciones del Ministerio; las actas de la Unión Postal Universal y sus estándares; y la composición del Grupo SEPI y del Grupo Correos**, citados literalmente. **Y, añadidos al cerrar el reparto de las preguntas del examen**: los órganos sociales y la composición del Consejo de Administración (**páginas 49 y 52**, comprobadas a la vista); el cambio de titularidad a favor de SEPI por el acuerdo de 16 de marzo de 2012 (**página 10**); las tres uniones restringidas de la Unión Postal Universal y la colocación de IPC entre las empresas (**páginas 40 y 41**); y el operador público del segmento CEP con su cuota (**páginas 66 y 71**) |
 | **Norma con artículo** | Ley 43/2010, texto consolidado vigente | **La disposición adicional primera con su período de veinte años**; **el apartado 4 del artículo 22**, de la presunción de veracidad y fehaciencia; y **el pasaje del preámbulo que sigue diciendo quince años**, citados literalmente |
 
 **Una advertencia sobre la comprobación de este tema**: **la lente que contrasta cada negrita contra

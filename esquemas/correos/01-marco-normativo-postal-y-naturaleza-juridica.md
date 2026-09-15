@@ -134,6 +134,14 @@ suyo sino porque la ley cambió después**.
   la Ley 31/2007**, la que nombraba expresamente a Correos.
 - **EN PATRIMONIO** · `[doc]` · **título VII de la Ley 33/2003** · **«los bienes del patrimonio de
   Correos tienen naturaleza de bienes públicos»**.
+- **LOS ÓRGANOS SOCIALES, QUE SON DOS** · `[doc]` · **Junta General de Accionistas** y **Consejo de
+  Administración**, y **ninguno más** · la **Comisión Ejecutiva** administra **junto** al Consejo y
+  a su Presidente, y la **Comisión de Auditoría y Control** **asesora**: **no son órganos
+  sociales**.
+- **EL CONSEJO DE ADMINISTRACIÓN, CIFRA A CIFRA** · `[doc]` · **entre 12 y 15 miembros** ·
+  **máximo cinco años**, reelegibles · **los nombra y separa la Junta General** · **competencia:
+  supervisar la gestión** · **reuniones ordinarias mensuales** con **48 horas de antelación** ·
+  **quórum: la mayoría de los consejeros**, presentes o representados.
 
 ## Los derechos de los usuarios
 
@@ -202,6 +210,16 @@ suyo sino porque la ley cambió después**.
   2018/644 de paquetería transfronteriza** y **normas técnicas del Comité Europeo de
   Normalización**.
 
+| Organización | ¿Unión restringida de la UPU? | Sede y fecha |
+|---|---|---|
+| Unión Postal de las Américas, España y Portugal **(UPAEP)** | **SÍ** · **28 países** | **Montevideo**, **1911** |
+| Asociación de Operadores postales públicos Europeos **(PostEurop)** | **SÍ** · sin fines lucrativos | **Bruselas**, **enero de 1993** |
+| Unión Postal del Mediterráneo **(PUMed o EuroMed)** | **SÍ**, desde **marzo de 2012** · **23 operadores** | **Roma**, **2011** |
+| International Post Corporation **(IPC)** | **NO.** Va en **empresas, alianzas y redes** · **cooperativa de 25 operadores**, derecho holandés | **Ámsterdam y Bruselas**, **1989** |
+
+- **LA PREGUNTA ES CUÁL SOBRA** · `[tem]` · de las cuatro siglas, **la que no es unión restringida
+  es IPC** · cayó en **Reparto, nº 5**.
+
 ## El Grupo
 
 - **SEPI** · `[doc]` · **entidad de derecho público adscrita al Ministerio de Hacienda y Función
@@ -219,6 +237,15 @@ suyo sino porque la ley cambió después**.
 - **LA TRAMPA DEL RECUENTO** · `[tem]` · **el documento añade una quinta sociedad al enumerar el
   grupo, Correos Express Portugal** · **una pregunta que ofrezca «tres filiales» y «cuatro
   sociedades» se juega ahí**.
+- **CÓMO LLEGÓ A SEPI** · `[doc]` · **acuerdo del Consejo de Ministros de 16 de marzo de 2012**,
+  **Plan de reestructuración y racionalización del sector público empresarial y fundacional
+  estatal** · **la totalidad de las acciones pasó a SEPI** · **2012, NO 2016**: la pregunta de
+  **Reparto nº 69** decía 2016 y **la plantilla la anuló**.
+- **EL OPERADOR PÚBLICO DE LOS URGENTES SON DOS** · `[doc]` · los informes de la **CNMC** parten el
+  sector en dos segmentos, el postal tradicional **(SPT)** —correspondencia— y el de urgentes y
+  paquetería **(CEP)**, por *Courier, Express and Parcel* · en **CEP**, «operador
+  público» es **Correos Y Correos Express (CEX)**, con **18,1 % de cuota en envíos en 2021** · en
+  **SPT** es **sólo Correos**, y ahí está la trampa · cayó en **Atención al Cliente, nº 11**.
 
 ## Aviso de estudio
 
@@ -227,7 +254,8 @@ suyo sino porque la ley cambió después**.
   Prestación como documento** · **los Estatutos Sociales** · **las instrucciones internas de
   contratación** · **el III Convenio Colectivo**, que el documento fecha en 2011 y **conviene
   comprobar si sigue vigente** · **la composición y el funcionamiento de la UPU**, de la que sólo se
-  da **la clasificación de las actas**, que es lo que el programa pide.
+  da **la clasificación de las actas**, que es lo que el programa pide · **la lista nominal de
+  países miembros** de cada unión restringida, que el examen no pregunta.
 - **DÓNDE ESTÁ LO QUE SE SOLAPA** · `[tem]` · **las uniones restringidas** y **la adaptación de
   Correos a los cambios** están en el documento y **se desarrollan junto al tema 5**.
 - **LA REGLA DE ORO DEL VOLUMEN** · `[tem]` · **el documento de referencia no es una norma**:
