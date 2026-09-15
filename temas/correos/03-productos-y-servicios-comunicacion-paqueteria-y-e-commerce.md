@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | **No procede**: el catálogo no tiene redacción consolidada. Las **dos normas que el tema sí usa** van en su redacción vigente |
 | **Norma de apoyo** | **Real Decreto 1829/1999** · `BOE-A-1999-24919` y **Ley 39/2015** · `BOE-A-2015-10565` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 3**, reconocido ópticamente |
-| **Extensión** | **8.107 palabras** |
+| **Extensión** | **8.358 palabras** |
 
 <!-- /portada -->
 
@@ -637,6 +637,35 @@ paquetería es el comercio electrónico**.
 | **correos.com** | **La web institucional del Grupo**, con **siete grandes apartados**. Entre ellos, **Grupo Correos**, con las cifras clave y **la historia de más de 300 años**, y **Sala de prensa**, que identifica a los responsables de comunicación **de cada una de las siete zonas en que Correos organiza su gestión** |
 | **correos.es** | **La web comercial** |
 | **Correos Market** | **La plataforma de comercio electrónico**, en **market.correos.es** |
+
+**De «Mi Oficina» se preguntan dos cosas: para quién es y qué se hace desde ella.** Citado:
+
+> «**Desde Mi Oficina se centralizan las acciones que hace el cliente de Correos tanto a nivel
+> digital como físico. Busca ofrecer a todos nuestros clientes, tanto particulares como de contrato,
+> la gestión con Correos online.**»
+
+---
+
+**Para los dos: particulares y clientes con contrato.** **Particulares son los que no tienen ningún
+contrato con Correos; clientes con contrato o comerciales, los que tienen relación contractual** y
+pueden **contratar productos exclusivos**. **El examen de 2023 preguntó exactamente por ese par**
+—es la número 36 del cuestionario de Reparto—.
+
+**Y lo que se hace desde ella va más allá de enviar**: **el cliente con contrato activo vinculado ve
+los productos asociados a su contrato**, y **desde la misma página se accede a las soluciones de
+temperatura controlada «Correos Frío»** y **a la compra de material de envío en la Tienda de Correos
+dentro de Correos Market**. **El examen lo preguntó así** —es la número 58 de Atención al Cliente—,
+citando las facturas del contrato y Correos Frío: **las dos cosas están en Mi Oficina**.
+
+**De correos.es, la web comercial, lo que se pregunta es a quién se dirige.** Citado:
+
+> «**La página web https://www.correos.es presenta los servicios que ofrece Correos, diferenciando
+> entre particulares y empresas.**»
+
+---
+
+**Particulares y empresas, y ésa es la respuesta** —es la número 63 de Atención al Cliente—. **No
+confundirla con correos.com**, que es **la web institucional del Grupo**.
 
 **De Correos Market hay que retener el modelo económico, porque es pregunta de cifra**: **el vendedor
 formaliza un contrato de paquetería sin permanencia ni compromiso de ventas mínimo**; **Correos cobra

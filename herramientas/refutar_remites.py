@@ -23,6 +23,16 @@ La lente comprueba tres cosas, de menos a más fina:
      preguntas cuya opción correcta es «las respuestas A y B son correctas» y
      ahí no hay vocabulario que compartir. Lo que la lente dice es *ve a mirar
      ésta*, que es su oficio.
+  4. **Que no haya OTRO TEMA que hable mucho más de ella.** Este es el que
+     importa y nació de un fallo real: tres preguntas sobre «Mi Oficina» y
+     sobre `correos.es` estaban repartidas al tema 4 y remitidas a un epígrafe
+     suyo que **pasaba de largo el umbral por palabras sueltas**, cuando quien
+     las contesta es un epígrafe del tema 3. Las tres comprobaciones anteriores
+     daban el visto bueno porque **sólo miran dentro del tema donde la pregunta
+     ya está**. Ésta puntúa **todos los epígrafes de los doce temas** y canta
+     cuando el mejor de otro tema **le saca bastante** al remitido: no dice que
+     el remite esté mal, dice **que la pregunta puede estar en el tema
+     equivocado**, que es un defecto mayor y que ninguna otra lente ve.
 
 **Una casilla vacía no es un hallazgo**: es una pregunta que todavía no se ha
 remitido, y se cuenta aparte para que se vea cuánto queda. **Una que empieza por
@@ -43,6 +53,11 @@ import libro                                                    # noqa: E402
 
 # por debajo de esto la lente pide que se mire la pregunta a mano
 MINIMO = 3
+
+# cuántas palabras de ventaja necesita un epígrafe de OTRO tema para que la
+# lente sospeche que la pregunta está repartida donde no toca. Con menos, la
+# ventaja es ruido: dos temas vecinos comparten vocabulario por fuerza
+VENTAJA = 4
 
 VACIAS = set("""algun alguna algunas alguno algunos ante antes aquel aquella aquello aqui asi aun
 aunque bien cada casi como con contra cual cuales cuando cuanto desde donde dos ella ellas ello
@@ -99,8 +114,12 @@ def main():
     filas = banco_correos.acta()
     rutas = ficheros()
     cache = {}
-    sinremite, declarados, flojos, rotos = [], 0, [], []
+    sinremite, declarados, flojos, rotos, forasteras = [], 0, [], [], []
     comprobados = 0
+    for t in sorted(rutas):
+        cache[t] = cuerpos(t, rutas[t])
+    vocabulario = {(t, num): fichas(cuerpo)
+                   for t, mapa in cache.items() for num, (_, cuerpo) in mapa.items()}
 
     for base, modelo in banco_correos.MODELOS:
         ruta = os.path.join(banco_correos.DIR, "examen-%s.md" % modelo)
@@ -120,8 +139,6 @@ def main():
                 else:
                     declarados += 1
                 continue
-            if tema not in cache:
-                cache[tema] = cuerpos(tema, rutas[tema])
             mapa = cache[tema]
             comprobados += 1
             if not epi.startswith(str(int(tema)) + "."):
@@ -135,6 +152,17 @@ def main():
             vistas = clave & fichas(mapa[epi][1])
             if len(vistas) < MINIMO:
                 flojos.append((sig, epi, mapa[epi][0], sorted(vistas)))
+            # ¿hay un epígrafe de otro tema que hable mucho más de esta pregunta?
+            mejor, suyo = None, len(vistas)
+            for (t, num), voc in vocabulario.items():
+                if t == tema:
+                    continue
+                cuantas = len(clave & voc)
+                if mejor is None or cuantas > mejor[2]:
+                    mejor = (t, num, cuantas)
+            if mejor and mejor[2] - suyo >= VENTAJA:
+                forasteras.append((sig, tema, epi, suyo, mejor[0], mejor[1], mejor[2],
+                                   cache[mejor[0]][mejor[1]][0]))
 
     print("## Remites que no se sostienen")
     if rotos:
@@ -152,9 +180,19 @@ def main():
         print("  (ninguno)")
 
     print()
-    print("remites comprobados: %d ; rotos: %d ; flojos: %d ; declarados sin epígrafe: %d ; "
-          "sin remitir todavía: %d"
-          % (comprobados, len(rotos), len(flojos), declarados, len(sinremite)))
+    print("## Preguntas que otro tema contesta mejor que el suyo")
+    if forasteras:
+        for sig, tema, epi, suyo, t2, num2, cuantas, tit2 in forasteras:
+            print("  ? %-12s tema %s · %-8s (%d) ←→ tema %s · %-8s (%d) %s"
+                  % (sig, tema, epi, suyo, t2, num2, cuantas, tit2[:38]))
+    else:
+        print("  (ninguna)")
+
+    print()
+    print("remites comprobados: %d ; rotos: %d ; flojos: %d ; en otro tema: %d ; "
+          "declarados sin epígrafe: %d ; sin remitir todavía: %d"
+          % (comprobados, len(rotos), len(flojos), len(forasteras), declarados,
+             len(sinremite)))
     return 1 if rotos else 0
 
 

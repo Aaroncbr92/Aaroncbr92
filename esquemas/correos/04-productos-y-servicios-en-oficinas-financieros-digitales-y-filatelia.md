@@ -16,12 +16,15 @@ una medida en milímetros o una fecha** · **tres cifras se parecen y no son la 
 
 ## Índice
 
+- [Las cinco familias de la oficina](#las-cinco-familias-de-la-oficina)
 - [Paquetizados y prefranqueados](#paquetizados-y-prefranqueados)
 - [Certificaciones](#certificaciones)
 - [Apartados postales](#apartados-postales)
 - [Servicios financieros · el giro](#servicios-financieros--el-giro)
 - [Correos Cash y Correos Prepago](#correos-cash-y-correos-prepago)
 - [Cobro de recibos](#cobro-de-recibos)
+- [Servicios por cuenta de otros](#servicios-por-cuenta-de-otros)
+- [Western Union](#western-union)
 - [Soluciones digitales](#soluciones-digitales)
 - [Filatelia](#filatelia)
 - [Tu sello personalizado](#tu-sello-personalizado)
@@ -29,6 +32,16 @@ una medida en milímetros o una fecha** · **tres cifras se parecen y no son la 
 - [Aviso de estudio](#aviso-de-estudio)
 
 <!-- /indice -->
+
+## Las cinco familias de la oficina
+
+- **LO QUE SE DESPACHA EN UNA OFICINA** · `[doc]` · **servicios POSTALES** —correspondencia,
+  paquetería, libros, apartados, buzón de vacaciones— · **servicios FINANCIEROS** —giros, Western
+  Union, cobro de recibos, ingreso y retirada de efectivo— · **servicios AL CIUDADANO** —envío
+  telemático a los registros y pago de deudas tributarias y de derecho público— · **COLABORACIÓN CON
+  TERCEROS** —loterías, entradas a eventos culturales y ONG, el documento nombra **Mensajeros de la
+  Paz**— · **SOLUCIONES DIGITALES** —nube de documentos y gestor de notificaciones— · cayó en
+  **Reparto, nº 88**, y **la respuesta era «las tres anteriores»**.
 
 ## Paquetizados y prefranqueados
 
@@ -186,6 +199,54 @@ una medida en milímetros o una fecha** · **tres cifras se parecen y no son la 
 - **DOS NEGACIONES** · `[doc]` · **el cobro de recibos NO admite pago con tarjeta bancaria** · **en
   las oficinas SÓLO se cobran y validan los recibos**: para información adicional **el cliente debe
   dirigirse a la empresa emisora**.
+
+## Servicios por cuenta de otros
+
+- **DGT · DUPLICADO DEL PERMISO DE CIRCULACIÓN** · `[doc]` · **sólo por extravío, deterioro o
+  sustracción** · **el resto de casos, a la Jefatura Provincial de Tráfico** · se aportan
+  **matrícula**, **tipo de documento** y **número de documento del titular**; **firma en tableta** y
+  **cobro de bolsa en IRIS**; **la incidencia se reimprime o reenvía sólo el mismo día y en la misma
+  oficina** · cayó en **Atención al Cliente, nº 48**.
+- **DGT · INFORMES DE VEHÍCULOS, QUE SON DOS** · `[doc]` · **informe técnico completo de vehículo** y
+  **vehículos a mi nombre** · **cinco motivos tasados**: **posible adquisición**, **certificado de no
+  titularidad**, **verificación de datos técnicos y administrativos**, **investigación por siniestro
+  o colisión** y **abandono en la vía pública** · cayó en **Atención al Cliente, nº 26**.
+- **LA OFICINA DE REGISTRO VIRTUAL (ORVE) · LOS TRES LÍMITES** · `[doc]` · **5 documentos por envío** · **10 MB por documento** ·
+  **15 MB el total**, unas **40 páginas** · cayó en **Atención al Cliente, nº 38** · documentación
+  **en A4, al descubierto y con bordes lisos**; **no se admiten documentos electrónicos** · **tres
+  opciones de envío**: **copia original**, **copia auténtica** y **copia**.
+- **CRUZ ROJA · LAS DOS INCIDENCIAS NO SE TRATAN IGUAL** · `[doc]` · **ROBO O EXTRAVÍO: denuncia**
+  con número y serie, y **copia a Control de Productos** · **DETERIORO: comunicación a Control de
+  Productos**, sin denuncia · **ambas son responsabilidad del Director de la oficina** · cayó en
+  **Atención al Cliente, nº 62** · **cada número consta de 130 series**; **dos sorteos, Navidad y el
+  Sorteo de Oro**.
+- **VOTO POR CORREO · TRES DOCUMENTOS Y NO MÁS** · `[doc]` · **DNI** —**no vale el resguardo en
+  trámite**, que no lleva foto—, **pasaporte con fotografía** y **permiso de conducir con
+  fotografía** · **pueden estar caducados, pero siempre originales** · **la credencial de tripulante
+  de barco NO vale aquí**, aunque sí para identificarse al admitir un envío: cayó en **Atención al
+  Cliente, nº 59** · **dos tipos de solicitud**: **preimpresa y autocopiativa** o **generada en la
+  sede electrónica del Instituto Nacional de Estadística (INE) e impresa por duplicado** · **toda persona con discapacidad mayor de 18
+  años puede tramitarlo personalmente**.
+- **GIFTCARD · LA REPOSICIÓN** · `[doc]` · **albarán de pedido** con el **número de unidades**,
+  pulsando **«Reposición de productos»**, más un **campo de observaciones** para urgencias · cayó en
+  **Atención al Cliente, nº 66** · **no se venden por IRIS**: se activan en la aplicación
+  **«GiftCard»** · **devolución dentro de los 15 días siguientes a la activación**, con **ticket y
+  tarjeta**.
+
+## Western Union
+
+- **EL ACUERDO** · `[doc]` · **«Transferencia de dinero en minutos» (Will Call)** · **más de 200
+  países** · **disponible minutos después de la admisión** y **90 días en el sistema**; después,
+  **reactivación por Servicios Centrales** a través del **Call Center o centro de servicio al
+  cliente (CSC)** · **límite en España: 3.000 € por persona y día**, remitente y beneficiario, más
+  **límites mensuales y trimestrales**.
+- **NUNCA A UN TERCERO** · `[doc]` · **el pago siempre se hace a la persona destinataria** · **NO se
+  admiten autorizaciones** —a diferencia del giro— y **el destinatario ha de ser mayor de 18 años** ·
+  cayó en **Reparto, nº 40**: **en ningún supuesto**.
+- **LOS CUATRO DATOS DEL BENEFICIARIO** · `[doc]` · **nombre y apellidos del remitente** ·
+  **importe esperado, con margen del 10 %** —cayó en **Atención al Cliente, nº 54**— · **ciudad y
+  país de origen** · **número de control de la transferencia (MTCN)** · **la dirección postal del
+  remitente NO hace falta**: cayó en **Atención al Cliente, nº 80**.
 
 ## Soluciones digitales
 

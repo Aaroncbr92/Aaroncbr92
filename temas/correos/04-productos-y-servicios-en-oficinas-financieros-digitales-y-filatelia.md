@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | **No procede.** La **Ley 39/2015**, que el tema cita por el Gestor de Notificaciones, va en su redacción vigente |
 | **Norma de apoyo** | **Ley 39/2015** · `BOE-A-2015-10565` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 4**, reconocido ópticamente |
-| **Extensión** | **4.034 palabras** |
+| **Extensión** | **6.294 palabras** |
 
 <!-- /portada -->
 
@@ -42,28 +42,55 @@ comprobar. El apartado final lo cuenta con detalle.
 
 ## Índice
 
-- [1. Los paquetizados y los prefranqueados](#1-los-paquetizados-y-los-prefranqueados)
+- [1. Las cinco familias que se despachan en una oficina](#1-las-cinco-familias-que-se-despachan-en-una-oficina)
+- [2. Los paquetizados y los prefranqueados](#2-los-paquetizados-y-los-prefranqueados)
   - [Las dos cartas certificadas de tarifa plana](#las-dos-cartas-certificadas-de-tarifa-plana)
   - [Los prefranqueados](#los-prefranqueados)
   - [Los envíos PAQ de libre servicio](#los-envíos-paq-de-libre-servicio)
-- [2. Las certificaciones](#2-las-certificaciones)
-- [3. Los apartados postales](#3-los-apartados-postales)
-- [4. Los servicios financieros](#4-los-servicios-financieros)
+- [3. Las certificaciones](#3-las-certificaciones)
+- [4. Los apartados postales](#4-los-apartados-postales)
+- [5. Los servicios financieros](#5-los-servicios-financieros)
   - [El giro](#el-giro)
   - [Correos Cash](#correos-cash)
   - [Correos Prepago](#correos-prepago)
   - [El cobro de recibos](#el-cobro-de-recibos)
-- [5. Las soluciones digitales](#5-las-soluciones-digitales)
-- [6. Filatelia](#6-filatelia)
+  - [Western Union](#western-union)
+- [6. Los servicios que Correos presta por cuenta de otros](#6-los-servicios-que-correos-presta-por-cuenta-de-otros)
+  - [Los dos servicios de la Dirección General de Tráfico](#los-dos-servicios-de-la-dirección-general-de-tráfico)
+  - [La Oficina de Registro Virtual](#la-oficina-de-registro-virtual)
+  - [La lotería de Cruz Roja, y qué hacer si se pierde o se estropea](#la-lotería-de-cruz-roja-y-qué-hacer-si-se-pierde-o-se-estropea)
+  - [El voto por correo](#el-voto-por-correo)
+  - [Las tarjetas GiftCard](#las-tarjetas-giftcard)
+- [7. Las soluciones digitales](#7-las-soluciones-digitales)
+- [8. Filatelia](#8-filatelia)
   - [Los productos filatélicos](#los-productos-filatélicos)
   - [Tu sello personalizado](#tu-sello-personalizado)
-- [7. Los vales UPU](#7-los-vales-upu)
-- [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
-- [9. Trazabilidad](#9-trazabilidad)
+- [9. Los vales UPU](#9-los-vales-upu)
+- [10. Lo que este tema no da, y dónde está](#10-lo-que-este-tema-no-da-y-dónde-está)
+- [11. Trazabilidad](#11-trazabilidad)
 
 <!-- /indice -->
 
-## 1. Los paquetizados y los prefranqueados
+## 1. Las cinco familias que se despachan en una oficina
+
+**Antes de entrar en producto alguno, conviene tener el mapa**, porque **el examen pregunta por él
+sin nombrar ningún producto**: da tres o cuatro familias y pide **cuáles se prestan en la red de
+oficinas**. **La respuesta suele ser «todas»**, y por eso hay que saber cuáles son.
+
+| Familia | Qué incluye, según el documento |
+|---|---|
+| **Servicios postales** | **Correspondencia, paquetería, libros** y las facilidades de envío y recepción: **apartados postales, buzón de vacaciones** |
+| **Servicios financieros** | **Giros nacionales e internacionales**, **transferencias con Western Union**, **cobro de recibos** de suministros, impuestos o multas, y **retirada o ingreso de efectivo en cuentas bancarias** |
+| **Servicios al ciudadano** | **El envío telemático de documentación** a los registros de las administraciones públicas y **el pago de deudas tributarias y otras de derecho público** |
+| **Comercialización en colaboración con terceros** | **Venta de loterías y de entradas a eventos culturales**, y **la colaboración con organizaciones no gubernamentales** —el documento nombra **Mensajeros de la Paz**— con las oficinas como **puntos de recogida de donaciones** |
+| **Soluciones digitales** | **El almacenamiento en la nube de documentos digitales** y **el sistema de gestión de notificaciones electrónicas con la Administración Pública** |
+
+**El examen de 2023 dio tres de las cinco** —es la número 88 del cuestionario de Reparto—:
+financieros, al ciudadano y colaboración con terceros. **Las tres se prestan**, y la respuesta es
+que las tres son correctas. **Quien dude de una sola falla la pregunta entera**, porque **la
+alternativa es «las tres anteriores»**.
+
+## 2. Los paquetizados y los prefranqueados
 
 **La tarifa plana es el concepto que ordena el epígrafe**: **el precio va asociado al embalaje
 utilizado y no al peso del envío**, aunque **sí existe un peso máximo**.
@@ -107,7 +134,7 @@ oficina**, y **si no se cuenta con alguno de ellos, el sistema no dejará realiz
 la fórmula **largo × alto × ancho, en centímetros, dividido entre 6.000**, y **la tarifa se aplica
 siempre en función del mayor de los dos pesos**, el real o el volumétrico.
 
-## 2. Las certificaciones
+## 3. Las certificaciones
 
 **Sólo se emiten para envíos registrados**, porque **son los únicos sobre los que se tiene constancia de
 la admisión o de la entrega**. **Son cuatro, y la diferencia entre las dos primeras es la pregunta:**
@@ -134,7 +161,7 @@ certificación de imposición o la copia certificada de burofax o telegramas**, 
 en el momento de la admisión**, y **hay que informar al cliente de que, para que valga en destino, debe
 acudir al consulado de ese país en España y solicitar que le visen la certificación**.
 
-## 3. Los apartados postales
+## 4. Los apartados postales
 
 **Tres duraciones, y sólo una se renueva**: **anuales, trimestrales y mensuales** —**los mensuales sólo
 en los apartados 24/7**—. **Los trimestrales y mensuales no podrán renovarse: cumplido el plazo, se
@@ -163,7 +190,7 @@ reenvío postal y si la normativa lo permite para ese producto**.
 **El aviso por mensaje corto (SMS) es gratuito y hay que activarlo**: **se graba el teléfono móvil —no fijo— del titular
 en IRIS**, en el campo «Nº móvil para SMS», y **el mensaje se genera al dar de alta el envío en SGIE**.
 
-## 4. Los servicios financieros
+## 5. Los servicios financieros
 
 ### El giro
 
@@ -263,13 +290,203 @@ públicas**.
 **Y el cobro de recibos no admite pago con tarjeta bancaria.** **En las oficinas sólo se cobran y validan
 los recibos**: para información adicional **el cliente debe dirigirse a la empresa emisora**.
 
-## 5. Las soluciones digitales
+### Western Union
+
+**Correos y Western Union tienen un acuerdo para transferir dinero entre las oficinas del operador
+nacional y los países del servicio «Transferencia de dinero en minutos» (Will Call).** El documento
+da sus rasgos y **cada uno de ellos ha caído en examen**:
+
+| Rasgo | Dato |
+|---|---|
+| **Alcance** | **Más de 200 países** |
+| **Disponibilidad** | **El dinero está disponible minutos después de la admisión** y **se mantiene en el sistema para su pago durante 90 días** |
+| **Después de los 90 días** | **Hay que reactivar la transacción** con una petición a **Servicios Centrales**, poniéndose la oficina en contacto con el **Call Center** o centro de servicio al cliente **(CSC)** |
+| **Límite en España** | **3.000 euros por persona y por día**, **tanto por remitente como por beneficiario**, más **límites mensuales y trimestrales** |
+| **Edad** | **El destinatario debe ser siempre mayor de edad, 18 años** |
+
+**Y una regla tajante que es pregunta de examen.** Citada:
+
+> «**La realización de un pago por medio de Western Union siempre se hará a la persona destinataria
+> del dinero. No se admitirán autorizaciones en este servicio, y el destinatario deberá ser siempre
+> mayor de edad (18 años).**»
+
+---
+
+**No hay envío ni cobro a nombre de un tercero.** **El examen de 2023 preguntó en qué supuesto se
+puede** —es la número 40 del cuestionario de Reparto— y **la respuesta es que en ninguno**: donde el
+giro admite persona autorizada por escrito, Western Union no admite autorizaciones.
+
+**Qué tiene que saber el beneficiario para cobrar, y qué NO.** Son **cuatro datos**, y el último es **el número de control de la transferencia (MTCN)**. Citados:
+
+> «**Nombre y apellidos del remitente.**» «**Importe que espera recibir el destinatario, con un
+> margen de error del 10%.**» «**Ciudad y país de origen.**» «**Número de control de la
+> transferencia, MTCN.**»
+
+---
+
+**El importe con un margen del 10 %**, y **el examen preguntó por ese porcentaje** —es la número 54
+de Atención al Cliente—. **Y lo que no está en la lista también se pregunta**: **la dirección postal
+del remitente no hace falta** —es la número 80 de Atención al Cliente—. **Nombre, importe, ciudad y
+país, y MTCN: cuatro, y la dirección no es uno de ellos.**
+
+## 6. Los servicios que Correos presta por cuenta de otros
+
+**La oficina de Correos es ventanilla de organismos y de empresas que no son Correos**, y el
+documento lo desarrolla producto a producto. **Es el epígrafe con más preguntas de procedimiento del
+tema**, porque **cada servicio tiene su menú, su documento y su plazo**.
+
+### Los dos servicios de la Dirección General de Tráfico
+
+**Son dos y no más, y se preguntan por separado.**
+
+**El primero, el duplicado del permiso de circulación.** Citado:
+
+> «**Los ciudadanos podrán solicitar, a través de las oficinas de Correos, un duplicado del permiso
+> de circulación de un vehículo. Solo podrán tramitarlo por esta vía en caso de extravío, deterioro
+> o sustracción. Para el resto de los casos, acudirán a la Jefatura Provincial de Tráfico.**»
+
+---
+
+**Tres motivos y sólo tres: extravío, deterioro o sustracción.** **Cualquier otro caso es de la
+Jefatura Provincial de Tráfico, no de Correos.** **El examen lo preguntó así** —es la número 48 del
+cuestionario de Atención al Cliente—. Para tramitarlo se aportan **el número de matrícula**, **el
+tipo de documento** y **el número de documento del titular**, se escoge el motivo, se recoge la
+firma en la tableta y **se cobra la bolsa en IRIS**; **si hay incidencia, se puede reimprimir o
+reenviar, pero sólo el mismo día y en la misma oficina**.
+
+**El segundo, los informes de vehículos, que son dos tipos**, citados:
+
+> «**Informe técnico completo de vehículo.**» «**Vehículos a mi nombre.**»
+
+---
+
+**Ésos dos, y el examen preguntó exactamente cuáles son** —es la número 26 del cuestionario de
+Atención al Cliente—. **El motivo de la solicitud tiene además cinco opciones tasadas**: **posible
+adquisición del vehículo**; **certificado de no titularidad para otras administraciones y
+entidades**; **verificación de datos técnicos y administrativos**; **investigación de vehículos
+implicados en siniestro o colisión**; y **abandono de vehículo en la vía pública**.
+
+### La Oficina de Registro Virtual
+
+**Las oficinas de Correos funcionan como punto de registro de la Oficina de Registro Virtual
+(ORVE)**, la aplicación que permite **el intercambio de documentos digitales entre los ciudadanos
+—personas físicas o empresas— y los organismos de la Administración Pública**.
+
+**Lo que se pregunta son los límites de tamaño, que son tres cifras en megabytes (MB)**, citadas:
+
+> «**Máximo de cinco documentos por envío.**» «**Cada documento no puede pesar más de 10 MB.**» «**El
+> total de los documentos no puede sobrepasar los 15 MB (40 páginas, aproximadamente).**»
+
+---
+
+**Cinco, diez y quince**, y **el examen las pidió juntas** —es la número 38 del cuestionario de
+Atención al Cliente—. **Las condiciones de la documentación son otras tres**: **formato A4, al
+descubierto y con bordes lisos**, sin que el empleado haga fotocopias mayores de A4; **no se admiten
+documentos electrónicos**, que van por correo certificado en su soporte; y **si el documento no es
+legible ni se puede cotejar una vez escaneado, se ofrece el procedimiento de certificado
+administrativo**.
+
+**Y al enviar, el empleado elige entre tres opciones**: **copia original**, cuando va la
+documentación física sin digitalizar; **copia auténtica**, si se digitaliza un original cotejado y
+se verifica la identidad de quien lo aporta; y **copia**, si no se puede asegurar que lo escaneado
+sea original.
+
+### La lotería de Cruz Roja, y qué hacer si se pierde o se estropea
+
+**Correos vende participaciones del sorteo de Cruz Roja** —**el de Navidad y el Sorteo de Oro**— y
+**ha sido durante años su principal canal de venta**. La oficina recibe **la publicidad de la
+campaña, las participaciones y el albarán**, y **comprueba que el número total recibido coincide con
+el del albarán**; **cada número consta de 130 series**. **Las fechas de inicio y fin de la venta y
+las de liquidación se fijan en cada campaña**, y **el plazo vale también para las participaciones
+distribuidas a Oficinas y Servicios Rurales dependientes**.
+
+**Y las dos incidencias tienen procedimientos distintos, que es la pregunta.** Citados:
+
+> «**El responsable de la oficina donde se haya producido el hecho deberá interponer la
+> correspondiente denuncia, haciendo constar en la misma el número y la serie de cada una de las
+> participaciones robadas o extraviadas, remitiendo posteriormente una copia de la denuncia a
+> Control de Productos.**»
+
+> «**El responsable de la oficina donde se haya producido el hecho lo comunicará a Control de
+> Productos indicando la causa y especificando el número y la serie de cada uno de los boletos
+> inutilizados.**»
+
+---
+
+**Robo o extravío: denuncia, y copia a Control de Productos.** **Deterioro: comunicación a Control
+de Productos, sin denuncia.** **El examen los preguntó juntos** —es la número 62 del cuestionario de
+Atención al Cliente—, y **ambas tareas son responsabilidad del Director de la oficina**.
+
+### El voto por correo
+
+**La oficina de Correos es donde el elector presenta su solicitud de voto por correo**, y **lo
+primero es que el proceso electoral esté abierto**: **en las elecciones generales, autonómicas,
+municipales o europeas el periodo empieza el día de la publicación en el Boletín Oficial
+correspondiente**, y **Correos está obligado a disponer de la documentación necesaria desde el
+primer día**.
+
+**El elector puede presentar dos tipos de solicitud**: **la preimpresa y autocopiativa**, que
+facilita la propia oficina, y **la generada en la Sede Electrónica del Instituto Nacional de
+Estadística (INE)**, que el elector cumplimenta e **imprime por duplicado**. **En los dos casos el
+empleado comprueba que los datos de la solicitud coinciden con el documento oficial de identidad y
+que quien la presenta es esa misma persona.**
+
+**Y los documentos válidos son tres, ni uno más.** Citados:
+
+> «**El Documento Nacional de Identidad (DNI). No es válido el resguardo del DNI en trámite, puesto
+> que en él no aparece la fotografía de la persona titular.**» «**Pasaporte (con fotografía).**»
+> «**Permiso (carnet) de conducir (con fotografía).**»
+
+---
+
+**DNI, pasaporte y permiso de conducir, los tres con fotografía.** **Pueden estar caducados, pero
+siempre han de ser originales.** **El examen de 2023 preguntó cuál NO sirve** —es la número 59 del
+cuestionario de Atención al Cliente— y la respuesta es **la credencial de tripulante de barco**:
+**vale para identificarse al admitir un envío y no vale para solicitar el voto**, y **esa
+asimetría es toda la pregunta**.
+
+**Y una regla que cierra el epígrafe**: **todas las personas con discapacidad mayores de 18 años
+tienen derecho a tramitar su voto por correo personalmente.**
+
+### Las tarjetas GiftCard
+
+**Son tarjetas de regalo prepago** que Correos **vende por cuenta de terceros**, y por eso **la única
+relación que el cliente puede tener con Correos después de la venta es la devolución**: **dentro de
+los 15 días siguientes a la activación**, **con el ticket de compra y la tarjeta**. **No se venden
+por IRIS en «Venta de Productos»**: **se activan en la aplicación «GiftCard»**, que las carga en
+bolsa y las descuenta del almacén.
+
+**Y el pedido de reposición tiene un procedimiento propio**, citado:
+
+> «**Para realizar un pedido de reposición de tarjetas, deberá cumplimentarse un albarán de pedido,
+> indicando el número de unidades. Para acceder al albarán, habrá que pulsar sobre «Reposición de
+> productos».**»
+
+---
+
+**Albarán de pedido, número de unidades, botón «Reposición de productos».** **El examen lo preguntó
+paso a paso** —es la número 66 del cuestionario de Atención al Cliente—. **Hay además un campo de
+observaciones** para cuando la oficina necesite con urgencia un número elevado de tarjetas.
+
+## 7. Las soluciones digitales
 
 | Solución | Qué es |
 |---|---|
 | **Buzón Digital** | **Almacenamiento en la nube de documentos digitales**, que además **centraliza las comunicaciones con otros usuarios adheridos** —particulares, empresas, organizaciones y Administraciones públicas— **de forma segura y sin spam** |
 | **Correos ID** (identidad digital) | **Una plataforma para acceder a servicios digitales, de Correos o de terceros, con una sola instancia de identificación digital** |
 | **Notificaciones digitales** | **El Gestor de Notificaciones**, nacido de que **la Ley 39/2015 obligó a empresas y profesionales a comunicarse con la Administración por medios electrónicos** |
+
+**Los organismos incluidos en el sistema de notificaciones digitales son de la Administración, y el
+examen pregunta por el que no lo es.** El documento los enumera: **todos los que emiten
+notificaciones a través del sistema 060**, **la Agencia Tributaria**, **la Tesorería General de la
+Seguridad Social**, **la Dirección Electrónica Vial de la Dirección General de Tráfico**, **Lexnet
+(Ministerio de Justicia)**, **la Generalitat de Catalunya (Gencat, OVT)**, **el Tablón Edictal Único
+(BOE)**, **la Administración de Justicia de Euskadi** y **la Diputación Foral de Gipuzkoa**.
+
+**Todos son Administración pública.** **El examen de 2023 preguntó cuál NO está** —es la número 97
+del cuestionario de Reparto— y ofrecía **la Sociedad General de Autores (SGAE)** frente a tres de la
+lista: **una entidad de gestión de derechos no notifica por este sistema**, y **ése es el criterio,
+no la memoria de la lista**.
 
 **De Buzón Digital, las dos suscripciones orientadas a los empleados de Correos**: **Nómina Digital**,
 que **por seguridad cuenta con una doble clave —una de acceso a la aplicación y otra para acceder a la
@@ -285,7 +502,7 @@ buzón**, **descarga**, **respuesta**, **control**, **auditoría** y **certifica
 obtener certificados de situación tributaria ante la Agencia Estatal de Administración Tributaria—, más
 **el ahorro** de evitar sanciones por notificaciones vencidas.
 
-## 6. Filatelia
+## 8. Filatelia
 
 **El Área de Desarrollo de Negocio de Filatelia distribuye sellos para coleccionismo o franqueo**, por
 **canales internos y externos a Correos: estancos, agentes turísticos y venta en línea.**
@@ -317,6 +534,26 @@ conmemorativos**.
 
 **«Valores en el tiempo» es el nombre exacto y el examen de 2023 lo preguntó**, ofreciendo como
 distractores «Los mejores sellos del año», «Valores filatélicos» y «Filatelia anual».
+
+**Y los productos filatélicos son los de esa tabla y ninguno más.** **El examen preguntó cuál de
+cuatro NO lo es** —es la número 95 del cuestionario de Atención al Cliente— ofreciendo **sobres de
+primer día**, **libros filatélicos** y **series**, que sí lo son, frente a **bonos**, que no aparece
+en ninguna parte del catálogo filatélico del documento.
+
+**Los formatos de emisión son otra cosa, y otra pregunta.** **Las emisiones se hacen en España
+—entre cuatro y ocho cada mes— y en Andorra —una al mes—**, y **se presentan en cuatro formatos**:
+
+| Formato | Qué es |
+|---|---|
+| **Sello** | El formato suelto |
+| **Hoja bloque** | **Superficie de papel ilustrada en la que aparecen uno o más sellos**. **Es la alternativa para mostrar personajes vivos** en el entorno del sello |
+| **Pliego Premium** | **Entre 12 y 20 sellos** con **diseño e impresión que abarca la totalidad del pliego**, todos de **la misma temática**, con **citas literarias o textos descriptivos** |
+| **Mini pliego** | **Varios sellos conmemorativos de España o Andorra**, en **una pequeña hoja en cuyos márgenes se integran motivos de la emisión** |
+
+**Cuatro formatos, y «colección» no es uno de ellos.** **El examen preguntó cuál sobra** —es la
+número 105 del cuestionario de Reparto—, ofreciendo sello, mini pliego y hoja bloque, que están, y
+**colección**, que no. **Los sistemas de impresión son tres —offset, huecograbado y calcográfico—**,
+con novedades de **relieves, troqueles, sabores u olores, efectos 3D y realidad aumentada**.
 
 ### Tu sello personalizado
 
@@ -353,7 +590,7 @@ Europa por una lista de países**:
 está en la Zona 1 europea y Rusia en la Zona 3** junto a Australia, Canadá, Estados Unidos, Japón y
 Nueva Zelanda. **Las dos clasificaciones coinciden, y saberlo ahorra una duda.**
 
-## 7. Los vales UPU
+## 9. Los vales UPU
 
 **Ya no se comercializan en Correos, pero se siguen canjeando en oficinas postales los que estén en
 circulación.** **Se canjean por sellos**, **por un valor equivalente al franqueo de una carta ordinaria
@@ -363,7 +600,7 @@ Universal**.
 **El tema 7 los llama «vales respuesta» y dice lo mismo con otras palabras**: **no son un sistema de
 franqueo en sí mismo**, y **su plazo de validez es el que figura en el propio vale**.
 
-## 8. Lo que este tema no da, y dónde está
+## 10. Lo que este tema no da, y dónde está
 
 | Materia | Dónde está | Estado |
 |---|---|---|
@@ -375,7 +612,7 @@ franqueo en sí mismo**, y **su plazo de validez es el que figura en el propio v
 | **El catálogo filatélico** de cada año | El canal filatélico | **NO volcado**: se dan los tipos de producto y los datos técnicos de Tu Sello |
 | **Los acuerdos con terceros** y **el material de oficina, libros y merchandising** | Los epígrafes 4.2.6 y 4.2.7 del documento | **Volcados en su estructura**: son catálogos de campaña que cambian y el programa no los pide por su detalle |
 
-## 9. Trazabilidad
+## 11. Trazabilidad
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|

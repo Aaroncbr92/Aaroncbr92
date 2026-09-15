@@ -1,6 +1,6 @@
 # Correos · Tema 3 · Productos y servicios: comunicación, paquetería y e-commerce
 
-29 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
+32 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
 personal laboral fijo en el Grupo Profesional IV. La respuesta es la de la
 plantilla oficial; donde pone «anulada» es que la propia plantilla la anuló.
 
@@ -160,6 +160,34 @@ d) Peso hasta 50 gr. y dimensiones 162 mm x 229 mm
 
 ---
 
+**Cuestionario-ATC_A_07052023 · nº 58 · respuesta: b**
+
+```
+¿Qué servicios ofrece "Mi Oficina"?
+a) En Mi Oficina puedes descargarte la nómina y solicitar un nuevo puesto de promoción interna
+b) En Mi Oficina, además de realizar envíos, puedes ver las facturas de tu contrato o contratar los servicios de Correos Frío, entre otras posibilidades.
+c) En Mi Oficina, los vendedores con contrato de Correos pueden publicar y promocionar sus productos mediante la firma de un acuerdo de vendedor.
+d) En Mi Oficina, los usuarios se registran para recibir muestras de productos lanzados al mercado recientemente. Página 7 de 14 - ATC/A
+```
+
+*La contesta el epígrafe 3.14.*
+
+---
+
+**Cuestionario-ATC_A_07052023 · nº 63 · respuesta: a**
+
+```
+¿Qué función proporciona la web correos.es?
+a) Correos.es es la web comercial de Correos y presenta los servicios que ofrece Correos, diferenciando entre particulares y empresas.
+b) Correos.es es la plataforma digital de comercio electrónico de Correos
+c) Correos.es es una web de Correos que permite a los usuarios conocer nuevos lanzamientos del mercado
+d) Correos.es es la web institucional del Grupo Correos en la que se presenta el Grupo, se expone su misión, su historia y las principales directrices estratégicas que inspiran su actuación.
+```
+
+*La contesta el epígrafe 3.14.*
+
+---
+
 **Cuestionario-ATC_A_07052023 · nº 75 · respuesta: b**
 
 ```
@@ -311,6 +339,20 @@ d) De un único intento de entrega
 ```
 
 *La contesta el epígrafe 3.6.1.*
+
+---
+
+**Cuestionario-REP_A_07052023 · nº 36 · respuesta: a**
+
+```
+Mi Oficina u Oficina Virtual es el área privada de Correos.es que da servicio online a los siguientes usuarios:
+a) A los clientes particulares y a los clientes con contrato de Correos
+b) Solo a los clientes particulares
+c) Solo a los clientes que tengan un contrato con Correos
+d) Solo a personal interno de Correos
+```
+
+*La contesta el epígrafe 3.14.*
 
 ---
 

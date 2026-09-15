@@ -1,6 +1,6 @@
 # Correos · Tema 4 · Productos y servicios en oficinas, financieros, digitales y filatelia
 
-27 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
+24 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
 personal laboral fijo en el Grupo Profesional IV. La respuesta es la de la
 plantilla oficial; donde pone «anulada» es que la propia plantilla la anuló.
 
@@ -16,6 +16,8 @@ c) 7 días hábiles, tiempo durante el que se conservan las carátulas y la docu
 d) La certificación de contenido deberá solicitarse exclusivamente en el momento de la admisión para garantizar la veracidad del documento.
 ```
 
+*La contesta el epígrafe 4.4.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 10 · respuesta: a**
@@ -27,6 +29,8 @@ b) No, en los apartados postales tan solo se pueden depositar los envíos que co
 c) Sí, se pueden depositar los envíos dirigidos al titular o titulares, sin necesidad de realizar autorización por escrito
 d) No, en los apartados postales tan solo se pueden depositar los envíos que contengan en su dirección el número del apartado y el nombre de titular o titulares del mismo.
 ```
+
+*La contesta el epígrafe 4.5.*
 
 ---
 
@@ -40,6 +44,8 @@ c) El remitente no puede solicitar la recuperación ni la modificación de un gi
 d) El remitente no puede solicitar la recuperación ni la modificación si el envío ha sido avisado por reparto
 ```
 
+*La contesta el epígrafe 4.6.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 26 · respuesta: c**
@@ -51,6 +57,8 @@ b) Solo puedo solicitar el informe técnico completo de vehículo
 c) El informe técnico completo de vehículo y el informe de vehículos a mi nombre
 d) Solo puedo solicitar el informe de vehículos a mi nombre o a nombre de terceros Preguntas psicotécnicas: Lea el texto mostrado a continuación y responda a las preguntas que versan sobre el mismo: A finales del siglo XIX y principios del XX, la recogida de hielo era un negocio floreciente en Nueva Inglaterra en el que estaban implicadas personas, caballos y trineos que trabajaban en lagos y estanques helados para extraer de ellos bloques de hielo. Lo llamaremos Hielo 1.0. Treinta años más tarde, la gente congelaba agua en fábricas de hielo y los repartidores distribuían el hielo en camiones. Aquellos emprendedores no tenían ninguna necesidad de esperar a que llegara el invierno ni de vivir en ciudades frías. Podían suministrar hielo en cualquier momento y en cualquier parte. Lo llamaremos Hielo 2.0. Y otros treinta años más tarde, unos emprendedores inventaron la nevera con congelador. En vez de comprar hielo a un fabricante, la gente tenía su propia fábrica de hielo, el primer CP (congelador personal). Lo llamaremos Hielo 3.0. Ninguno de los recogedores de hielo puso en marcha fábricas de hielo, y ninguna de las fábricas de hielo acabó convirtiéndose en fabricantes de neveras con congelador. Todos ellos definían su negocio en términos de lo que hacían (cortar y extraer bloques de hielo de lagos helados, congelar agua mediante un sistema centralizado, o fabricar aparatos que congelaran el agua) y no en términos de lo que pretendían conseguir (comodidad y limpieza). De haber adquirido esta perspectiva, tal vez hubieran saltado la siguiente curva, habrían pasado de extraer el hielo a fabricarlo y a la nevera. Kawasaki, G. “El arte de empezar 2.0”. Deusto.
 ```
+
+*La contesta el epígrafe 4.7.1.*
 
 ---
 
@@ -64,6 +72,8 @@ c) Máximo 3 documentos por envío, con un peso máximo por documento de hasta 1
 d) Máximo 5 documentos por envío, con un peso máximo por documento de hasta 15 MB y el total de los documentos no puede sobrepasar los 45 MB.
 ```
 
+*La contesta el epígrafe 4.7.2.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 48 · respuesta: c**
@@ -75,6 +85,8 @@ b) Solo en caso de deterioro, para el resto de los casos deberán acudir a la Je
 c) En caso de extravío, deterioro o sustracción, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico.
 d) Solo en caso de extravío, para el resto de los casos deberán acudir a la Jefatura Provincial de Tráfico Preguntas psicotécnicas: Se pretende hacer un estudio acerca de las características físicas dentro de la población de Villa-Ría, un pueblo del norte de España. El diagrama siguiente muestra la distribución de colores de pelo registrado. De acuerdo con ello, conteste a las siguientes preguntas:
 ```
+
+*La contesta el epígrafe 4.7.1.*
 
 ---
 
@@ -88,6 +100,8 @@ c) ± 5%
 d) ± 20%
 ```
 
+*La contesta el epígrafe 4.6.5.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 57 · respuesta: a**
@@ -100,17 +114,7 @@ c) Ibercaja
 d) Triodos Bank
 ```
 
----
-
-**Cuestionario-ATC_A_07052023 · nº 58 · respuesta: b**
-
-```
-¿Qué servicios ofrece "Mi Oficina"?
-a) En Mi Oficina puedes descargarte la nómina y solicitar un nuevo puesto de promoción interna
-b) En Mi Oficina, además de realizar envíos, puedes ver las facturas de tu contrato o contratar los servicios de Correos Frío, entre otras posibilidades.
-c) En Mi Oficina, los vendedores con contrato de Correos pueden publicar y promocionar sus productos mediante la firma de un acuerdo de vendedor.
-d) En Mi Oficina, los usuarios se registran para recibir muestras de productos lanzados al mercado recientemente. Página 7 de 14 - ATC/A
-```
+*La contesta el epígrafe 4.6.2.*
 
 ---
 
@@ -124,6 +128,8 @@ c) Credencial de tripulante de barco
 d) Documento Nacional de Identidad (DNI) caducado
 ```
 
+*La contesta el epígrafe 4.7.4.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 62 · respuesta: d**
@@ -136,17 +142,7 @@ c) En ambos casos, solo habría que comunicarlo a Control de Productos para que 
 d) En caso de deterioro se deberá comunicar a Control de Productos y en el caso de robo o extravío se deberá presentar denuncia y remitir posteriormente una copia a Control de Productos.
 ```
 
----
-
-**Cuestionario-ATC_A_07052023 · nº 63 · respuesta: a**
-
-```
-¿Qué función proporciona la web correos.es?
-a) Correos.es es la web comercial de Correos y presenta los servicios que ofrece Correos, diferenciando entre particulares y empresas.
-b) Correos.es es la plataforma digital de comercio electrónico de Correos
-c) Correos.es es una web de Correos que permite a los usuarios conocer nuevos lanzamientos del mercado
-d) Correos.es es la web institucional del Grupo Correos en la que se presenta el Grupo, se expone su misión, su historia y las principales directrices estratégicas que inspiran su actuación.
-```
+*La contesta el epígrafe 4.7.3.*
 
 ---
 
@@ -160,6 +156,8 @@ c) El usuario de la oficina debe remitir solicitud por correo electrónico a Con
 d) El usuario de la oficina debe cumplimentar un albarán de pedido, indicando el número de unidades de cada producto. Para acceder al albarán deberá pulsar sobre "Reposición GiftCard". Página 8 de 14 - ATC/A A
 ```
 
+*La contesta el epígrafe 4.7.5.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 80 · respuesta: b**
@@ -171,6 +169,8 @@ b) Dirección postal del remitente
 c) Nombre y apellidos del remitente
 d) Ciudad y país de origen de la transferencia
 ```
+
+*La contesta el epígrafe 4.6.5.*
 
 ---
 
@@ -184,6 +184,8 @@ c) Valores en el tiempo
 d) Filatelia anual
 ```
 
+*La contesta el epígrafe 4.9.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 85 · respuesta: a**
@@ -195,6 +197,8 @@ b) 7.500 €
 c) No existe límite de saldo
 d) 3.000 €
 ```
+
+*La contesta el epígrafe 4.6.3.*
 
 ---
 
@@ -208,6 +212,8 @@ c) Un marketplace
 d) Una solución de identidad digital descentralizada Página 11 de 14 - ATC/A
 ```
 
+*La contesta el epígrafe 4.8.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 91 · respuesta: c**
@@ -219,6 +225,8 @@ b) En los pagos dirigidos a entidades financieras o de crédito que superen los 
 c) En ningún caso
 d) En los pagos dirigidos a Administraciones Públicas
 ```
+
+*La contesta el epígrafe 4.6.4.*
 
 ---
 
@@ -232,6 +240,8 @@ c) Series
 d) Bonos
 ```
 
+*La contesta el epígrafe 4.9.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 100 · respuesta: c**
@@ -243,6 +253,8 @@ b) Suscripciones y cuadro de mando
 c) Suscripciones y envío a Buzón Digital
 d) Emisión de certificados electrónicos y cuadro de mando Página 13 de 14 - ATC/A PREGUNTAS ADICIONALES DE RESERVA SERÁN VALORADAS, CONFORME A SU NÚMERO DE ORDEN, EN EL CASO DE QUE SE ANULE ALGUNAS DE LAS 100 PREGUNTAS ANTERIORES
 ```
+
+*La contesta el epígrafe 4.8.*
 
 ---
 
@@ -256,17 +268,7 @@ c) Giros UPU
 d) Giros avisados por las unidades de reparto
 ```
 
----
-
-**Cuestionario-REP_A_07052023 · nº 36 · respuesta: a**
-
-```
-Mi Oficina u Oficina Virtual es el área privada de Correos.es que da servicio online a los siguientes usuarios:
-a) A los clientes particulares y a los clientes con contrato de Correos
-b) Solo a los clientes particulares
-c) Solo a los clientes que tengan un contrato con Correos
-d) Solo a personal interno de Correos
-```
+*La contesta el epígrafe 4.6.1.*
 
 ---
 
@@ -280,6 +282,8 @@ c) No se admiten envíos a nombre de un tercero
 d) Si al cliente le hace una videollamada esa tercera persona y se identifica
 ```
 
+*La contesta el epígrafe 4.6.5.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 68 · respuesta: b**
@@ -291,6 +295,8 @@ b) Una cuenta o identidad en dicho sistema
 c) Una autenticación federada con una red social
 d) Un DNI Electrónico
 ```
+
+*La contesta el epígrafe 4.8.*
 
 ---
 
@@ -304,6 +310,8 @@ c) Comercialización de servicios en colaboración con terceros
 d) Las tres respuestas anteriores son correctas
 ```
 
+*La contesta el epígrafe 4.2.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 97 · respuesta: b**
@@ -316,6 +324,8 @@ c) La Tesorería General de la Seguridad Social
 d) La Dirección Electrónica Vial de la DGT
 ```
 
+*La contesta el epígrafe 4.8.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 105 · respuesta: c**
@@ -327,4 +337,6 @@ b) Mini pliego
 c) Colección
 d) Hoja bloque
 ```
+
+*La contesta el epígrafe 4.9.1.*
 
