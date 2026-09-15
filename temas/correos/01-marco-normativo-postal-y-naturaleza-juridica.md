@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | La **vigente hoy**, no la de 2022. Su disposición adicional primera dice hoy **veinte años** donde en 2022 decía quince: el cambio lo hizo la **Ley 6/2025, de 28 de julio**, y el tema lo desarrolla con las cuatro redacciones delante |
 | **Norma de apoyo** | **Real Decreto 1829/1999**, Reglamento postal · `BOE-A-1999-24919` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 1**, reconocido ópticamente |
-| **Extensión** | **5.495 palabras** |
+| **Extensión** | **6.737 palabras** |
 
 <!-- /portada -->
 
@@ -83,6 +83,7 @@ documento basta.
   - [Nacionales](#nacionales)
   - [Internacionales](#internacionales)
 - [7. El Grupo Correos](#7-el-grupo-correos)
+  - [El operador público no es sólo Correos](#el-operador-público-no-es-sólo-correos)
 - [8. Lo que este tema no da, y dónde está](#8-lo-que-este-tema-no-da-y-dónde-está)
 - [9. Trazabilidad](#9-trazabilidad)
 

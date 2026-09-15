@@ -19,6 +19,7 @@ documento da sus convenciones una sola vez**.
 - [Marketing directo](#marketing-directo)
 - [Respuestas, libros y telegráficos](#respuestas-libros-y-telegráficos)
 - [Paquetería](#paquetería)
+- [Los valores añadidos, que el documento no junta](#los-valores-añadidos-que-el-documento-no-junta)
 - [Valija, Camino y Correos Express](#valija-camino-y-correos-express)
 - [Canales digitales y Citypaq](#canales-digitales-y-citypaq)
 - [Aviso de estudio](#aviso-de-estudio)
@@ -55,6 +56,7 @@ documento da sus convenciones una sola vez**.
 | **Plazo · peso** | **D+3 en el 93 %** y **D+5 en el 99 %** · **Europa de 2 a 4 días hábiles** · **2 kg** |
 | **Medidas** | **Sobre o caja L+A+A = 90 cm**, ninguna por encima de **60** · **rollo L+2D = 104**, **D ≤ 90** · **tarjeta 23,5 × 12** · mínimas **14 × 9 cm** y **rollo L+2D = 17** |
 | **Entrega · garantías** | **UN único intento**, en el buzón · si no cabe, **aviso y QUINCE días en lista** · **NINGUNA garantía**, por no ser registrado |
+| **Rehúse** | **El destinatario o la persona autorizada puede rehusarla EN EL MOMENTO DE LA ENTREGA, ANTES DE ABRIRLA** · vale igual para la certificada |
 
 - **LA ZONA 3 ES LA PREGUNTA CLÁSICA** · `[tem]` · **Estados Unidos y Canadá están en la zona más
   cara**, y **Groenlandia está en Europa**.
@@ -85,6 +87,16 @@ documento da sus convenciones una sola vez**.
 | **Plazo · permanencia** | **D+3 en el 93 %** · **SIETE días en lista** tras el segundo intento |
 | **Rótulo** | **La palabra «Notificación»**, y debajo en caracteres menores **el acto** (citación, requerimiento, resolución) y **«Expediente núm. …»** |
 
+- **LA CERTIFICADA TIENE UN SOLO INTENTO** · `[doc]` · **uno a domicilio** y después **la oficina de
+  referencia, quince días en lista** · **el segundo y el tercer intento se CONTRATAN**, van entre los
+  valores añadidos · cayó en **Reparto, nº 2**.
+- **LOS DOS PAQUETIZADOS DE CARTA CERTIFICADA** · `[doc]` · **estándar: 50 g, sobre de 162 × 229
+  mm** · **premium: 100 g, sobre de 189 × 250 mm**, y **lleva dentro PEE y seguro** · **el examen
+  cruza el peso de uno con el sobre del otro**: cayó en **Atención al Cliente, nº 56** · *las medidas
+  se han leído a la vista en la página 298: el reconocimiento óptico da 224 y 184.*
+- **EL CÓDIGO DE BARRAS EMPIEZA POR EL PRODUCTO** · `[doc]` · el documento sólo define uno, **L3**:
+  **prerregistro de logística inversa** · es también **la modalidad de las devoluciones** · cayó en
+  **Reparto, nº 54**.
 - **LAS DOS DIFERENCIAS QUE SE CUELAN EN UN TEST** · `[tem]` · **la notificación NO incluye Andorra
   y la carta sí**; **la permanencia es de siete días y no de quince**.
 - **SIEMPRE** · `[doc]` · **el empleado hace constar su firma y su número de identificación** en el
@@ -100,6 +112,7 @@ documento da sus convenciones una sola vez**.
 | **Peso** | **100 g** | **800 g** | **2 kg** |
 | **Máximas** | **23 × 33 × 2 cm** | **Sobre 23 × 33 × 2 cm** | **Caja o sobre L+A+A = 90 cm**, la mayor ≤ 60 · **rollo L+2D = 104 cm** |
 | **Mínimas** | **9 × 14 cm** | **Sobre 9 × 14 cm** | **9 × 14 cm** · **rollo L+2D = 17 cm** |
+| **Entrega** | **Por buzoneo** | **UN ÚNICO INTENTO**, en **casillero domiciliario** — cayó en **Reparto, nº 30** | **Al domicilio**, **por casillero** si se puede y **si no, intentándola con el destinatario** |
 
 - **LA ZONA A NO ES «LAS CAPITALES»** · `[doc]` · es **destino local, capitales de provincia,
   localidades con administraciones de Correos y poblaciones de más de 50.000 habitantes
@@ -203,6 +216,40 @@ documento da sus convenciones una sola vez**.
   **14 × 9 cm** · **Paquete Internacional Económico**, **L+A+A = 200 cm**, la mayor ≤ **105** ·
   **Paq Premium Internacional**, la opción urgente · **Paq Light Internacional**, **2 kg** · **Paq
   return Internacional**, **30 kg**.
+
+## Los valores añadidos, que el documento no junta
+
+- **QUÉ ES CADA UNO** · `[doc]` · **aviso de recibo**, documento FÍSICO que confirma la entrega o
+  certifica su imposibilidad · **PEE**, lo mismo en electrónico, **con firma electrónica y cotejo en
+  la web** · **reembolso**, el destinatario abona antes de la entrega · **valor declarado**, la
+  cobertura por el valor de la mercancía · **entrega exclusiva al destinatario (EDD)**, previa
+  identificación y **sólo para contrato** · **certificación**, de **imposición, contenido o
+  entrega**.
+- **LAS TRES PEE** · `[doc]` · **PEE5, PEE10 y PEE15**, por los **años de custodia**: **5, 10 y 15**.
+
+| Producto | Lleva | NO lleva |
+|---|---|---|
+| **Carta certificada nacional** | **Reembolso**, **valor declarado de la mercancía**, **aviso de recibo**, **PEE**, **certificación**, **petición de devolución o cambio de dirección** y **reexpedición** | **La ENTREGA EXCLUSIVA AL DESTINATARIO** — cayó en **Atención al Cliente, nº 7** |
+| **Notificaciones** | **Tercer intento**, **retorno de información**, **recogida a domicilio**, **clasificación**, **digitalización** y **normalización de direcciones**, **todos sólo para contrato** | — |
+| **Paq Estándar** | **Seguro** en tres modalidades, **valor declarado hasta 6.000 €**, **PEE**, **EDD**, **reembolso**, **permanencia en lista 15 días por defecto y 30 máximo**, **escaneo con validación** y **escaneo de documentos** | — |
+| **Paquete Azul** | **Aviso de recibo**, **reembolso** y **valor declarado**, **hasta 3.000 €** | — |
+| **Paquete Internacional Económico** | El documento único administrativo **(DUA)** de exportación, **reembolso internacional**, **valor declarado internacional** y **seguro opcional hasta 3.000 €** | **La PEE** — cayó en **Atención al Cliente, nº 87** |
+| **Burofax premium en oficina** | **Acuse de recibo**, **PEE**, **custodia documental 120 meses**, **copia certificada** y **certificación** | **El valor declarado** — cayó en **Atención al Cliente, nº 35** |
+
+- **EL REEMBOLSO DEL PAQ ESTÁNDAR CUENTA DISTINTO SEGÚN QUIÉN ENVÍE** · `[doc]` · **particulares:
+  DOS modalidades** —**domicilio o apartado, máximo 499,99 €**, y **abono en cuenta, máximo
+  2.499,99 €**— · **contrato: UNA**, **abono en cuenta, máximo 2.499,99 €** · cayó en **Atención al
+  Cliente, nº 55**, y **el señuelo era la pareja de particulares**.
+- **LOS CUATRO NOMBRES DEL BUROFAX** · `[doc]` · **Premium Online**, desde la oficina virtual ·
+  **Premium**, en oficinas, particulares y contrato · **Premium Plus**, **premium con PEE5 y
+  certificación, sólo particulares** · **Básico Plus**, lo mismo **sólo para contrato** · cayó en
+  **Reparto, nº 18** · **ningún burofax se entrega «en dos horas»**: el plazo es **24 horas**, mismo
+  día si se admite **antes de las 13:00**, salvo **julio, agosto y septiembre**.
+- **LAS DOS CUSTODIAS DEL BUROFAX, QUE NO SON LO MISMO** · `[doc]` · **la de los documentos
+  emitidos: 5 años, 60 meses** · **la que se contrata como valor añadido: 120 meses**.
+- **EL TERCER INTENTO DE LAS NOTIFICACIONES SE PAGA** · `[doc]` · **el segundo va en el producto; el
+  tercero es valor añadido «solo para clientes con contrato»** · cayó en **Atención al Cliente, nº
+  102**.
 
 ## Valija, Camino y Correos Express
 

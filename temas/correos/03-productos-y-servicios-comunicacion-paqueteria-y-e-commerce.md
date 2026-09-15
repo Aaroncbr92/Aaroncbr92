@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | **No procede**: el catálogo no tiene redacción consolidada. Las **dos normas que el tema sí usa** van en su redacción vigente |
 | **Norma de apoyo** | **Real Decreto 1829/1999** · `BOE-A-1999-24919` y **Ley 39/2015** · `BOE-A-2015-10565` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 3**, reconocido ópticamente |
-| **Extensión** | **6.235 palabras** |
+| **Extensión** | **8.107 palabras** |
 
 <!-- /portada -->
 
@@ -44,6 +44,8 @@ producto. **Eso cambia la manera de comprobarlo.** En un tema de normas basta co
 - [2. La carta y la tarjeta postal](#2-la-carta-y-la-tarjeta-postal)
   - [La ficha de la carta ordinaria](#la-ficha-de-la-carta-ordinaria)
 - [3. La carta certificada](#3-la-carta-certificada)
+  - [El código de barras, y lo que dicen sus dos primeras letras](#el-código-de-barras-y-lo-que-dicen-sus-dos-primeras-letras)
+  - [Los dos paquetizados: estándar y premium](#los-dos-paquetizados-estándar-y-premium)
 - [4. Las notificaciones](#4-las-notificaciones)
 - [5. El marketing directo](#5-el-marketing-directo)
   - [Publibuzón, Publicorreo Óptimo y Publicorreo Premium](#publibuzón-publicorreo-óptimo-y-publicorreo-premium)
@@ -53,13 +55,17 @@ producto. **Eso cambia la manera de comprobarlo.** En un tema de normas basta co
 - [8. Los servicios telegráficos](#8-los-servicios-telegráficos)
 - [9. La paquetería nacional de Correos](#9-la-paquetería-nacional-de-correos)
   - [La paquetería internacional](#la-paquetería-internacional)
-- [10. Valija y los servicios del Camino de Santiago](#10-valija-y-los-servicios-del-camino-de-santiago)
-- [11. Correos Express](#11-correos-express)
-- [12. Los canales digitales](#12-los-canales-digitales)
+- [10. Los valores añadidos, producto por producto](#10-los-valores-añadidos-producto-por-producto)
+  - [Qué es cada valor añadido](#qué-es-cada-valor-añadido)
+  - [La tabla que el documento no junta](#la-tabla-que-el-documento-no-junta)
+  - [El tercer intento de las notificaciones](#el-tercer-intento-de-las-notificaciones)
+- [11. Valija y los servicios del Camino de Santiago](#11-valija-y-los-servicios-del-camino-de-santiago)
+- [12. Correos Express](#12-correos-express)
+- [13. Los canales digitales](#13-los-canales-digitales)
   - [Las soluciones de comercio electrónico](#las-soluciones-de-comercio-electrónico)
-- [13. Citypaq](#13-citypaq)
-- [14. Lo que este tema no da, y dónde está](#14-lo-que-este-tema-no-da-y-dónde-está)
-- [15. Trazabilidad](#15-trazabilidad)
+- [14. Citypaq](#14-citypaq)
+- [15. Lo que este tema no da, y dónde está](#15-lo-que-este-tema-no-da-y-dónde-está)
+- [16. Trazabilidad](#16-trazabilidad)
 
 <!-- /indice -->
 
@@ -110,6 +116,7 @@ publicorreo.
 | **Medidas máximas** | **Sobre o caja: L+A+A = 90 cm**, con ninguna medida por encima de **60 cm**. **Rollo o tubo: L+2D = 104 cm**, con **D ≤ 90 cm**. **Tarjeta postal: 23,5 × 12 cm** |
 | **Medidas mínimas** | **Sobre o caja: 14 × 9 cm**. **Rollo o tubo: L+2D = 17 cm**, con la mayor **por encima de 10 cm**. **Tarjeta postal: 14 × 9 cm** |
 | **Entrega** | **Un único intento**, en el buzón. Si no cabe y el destinatario no está, **aviso de llegada y quince días en lista** |
+| **Rehúse** | **El destinatario o la persona autorizada puede rehusar el envío en el momento de la entrega, ANTES DE ABRIRLO** |
 | **Garantías** | **No procede indemnización alguna**, por no ser un producto registrado |
 
 **La zona 3 es la pregunta clásica**, porque es contraintuitiva: **Estados Unidos y Canadá están en la
@@ -146,15 +153,76 @@ todo lo demás**, y ahí está el examen:
 | **Garantías** | **Ninguna** | **Indemnización por retraso o demora, extravío o robo, y deterioro** |
 | **Identificación** | — | **Etiqueta con código de barras adherida en el anverso**; circulan **con carácter registrado** |
 
+**Cuántos intentos, que es lo primero que se pregunta.** **Uno.** Del documento, citado:
+
+> «**Si el destinatario no estuviera en su domicilio, se le dejará un Aviso de Llegada para poder
+> recoger la carta en su oficina postal de referencia, donde estará en lista durante 15 días.**»
+
+---
+
+**Un intento a domicilio y después la oficina de referencia, quince días.** **El segundo y el tercer
+intento no vienen con el producto: se contratan**, y por eso el documento los pone entre los valores
+añadidos. **El examen de 2023 lo preguntó** —es la número 2 del cuestionario de Reparto— y **la
+respuesta es un intento**.
+
 **Tres reglas de entrega que se preguntan mucho.** **Si el destinatario no pudiera o no supiera
 firmar, firma en su lugar un testigo debidamente identificado**, y **en ningún caso puede firmar como
 testigo el empleado del operador postal que efectúa la entrega**. **El destinatario puede rehusar el
-envío antes de abrirlo.** **Y si hay contratado un segundo o tercer intento, no se hace** cuando el
-envío sea rehusado, la dirección sea incorrecta, o el destinatario sea desconocido o haya fallecido.
+envío antes de abrirlo**, igual que en la ordinaria. **Y si hay contratado un segundo o tercer
+intento, no se hace** cuando el envío sea rehusado, la dirección sea incorrecta, o el destinatario
+sea desconocido o haya fallecido.
 
 **Y una regla de exportación que vale para todo el tema**: **para exportar envíos con mercancía fuera
 de la Unión Europea hay que usar al menos Carta Certificada Internacional o cualquier otro producto
 registrado**, porque **hay que informar telemáticamente al país de destino del contenido**.
+
+### El código de barras, y lo que dicen sus dos primeras letras
+
+**Todo envío con seguimiento lleva un código de barras cuyos dos primeros caracteres identifican el
+producto**, y **de todos ellos el documento sólo define uno**, porque es el que se confunde: **L3**.
+Citado del glosario:
+
+> «**L3: Prerregistro de logística inversa. Cuando el envío de ida se ha entregado por otro
+> operador, o habiendo sido gestionada la ida por Correos, la vuelta se ha prerregistrado de forma
+> independiente.**»
+
+---
+
+**L3 es logística inversa prerregistrada**, y el documento la nombra además como **la modalidad con
+la que se devuelve**: «**La modalidad para las devoluciones es la logística inversa prerregistrada
+(L3) mediante referencia de cliente y con embalaje.**»
+
+**El examen de 2023 preguntó exactamente por esas dos letras** —es la número 54 del cuestionario de
+Reparto— ofreciendo Paquete Premium, Paquete Estándar y carta certificada urgente como señuelos.
+**Ninguno de esos tres prefijos está en el documento de referencia**, y **tampoco hace falta**: la
+pregunta se contesta con la única sigla que el documento sí define.
+
+### Los dos paquetizados: estándar y premium
+
+**Hay una tarifa plana de carta certificada, con sobre incluido, y tiene dos modelos.** **Los dos se
+distinguen por dos cifras cada uno, y el examen las cruza**: da el peso de uno con las medidas del
+otro.
+
+**Este epígrafe no cita al documento, y hay que decir por qué.** **Las dos frases que lo dicen traen
+las medidas, y el reconocimiento óptico las rompe**: devuelve «162 x 224 mm» y «184 x 250 mm», con
+la confusión de nueves y cuatros que recorre todo este volumen. **Las cifras que siguen se han leído
+a la vista sobre la página impresa** —es la 298 del documento—, **que escribe 162 × 229 y 189 ×
+250**, y **el cuadernillo del examen escribe las mismas** en la opción que su plantilla da por
+buena. **Citar el volcado aquí sería citar la errata**; se da en prosa y se declara.
+
+| Paquetizado | Peso | Sobre | Qué incluye además |
+|---|---|---|---|
+| **Estándar** | **50 g** | **162 × 229 mm** | — |
+| **Premium** | **100 g** | **189 × 250 mm** | **PEE (Prueba de Entrega Electrónica)** y **seguro** |
+
+**Ésa es toda la diferencia, y es toda la pregunta.** **El examen de 2023 la hizo** —es la número 56
+del cuestionario de Atención al Cliente— **ofreciendo «50 g y 189 × 250» y «100 g y 189 × 250»**:
+las dos mezclan el peso de un modelo con el sobre del otro. **La buena es 50 g con 162 × 229.**
+
+**Y los dos comparten lo demás**, que esta vez sí sale limpio del volcado y se cita:
+
+> «**Ambas opciones ofrecen máxima facilidad (basta con coger el sobre correspondiente del expositor
+> de la oficina de Correos) y tienen un precio fijo.**»
 
 ## 4. Las notificaciones
 
@@ -206,6 +274,7 @@ notificaciones tienen control y seguimiento gratuitos en la web.**
 | **Medidas máximas** | **23 × 33 × 2 cm** | **Formato sobre: 23 × 33 × 2 cm** | **Caja o sobre: L+A+A = 90 cm**, la mayor ≤ 60 cm; **rollo: L+2D = 104 cm** |
 | **Medidas mínimas** | **9 × 14 cm** | **Formato sobre: 9 × 14 cm** | **Caja o sobre: 9 × 14 cm**; **rollo: L+2D = 17 cm** |
 | **Garantías** | — | — | **Ninguna, por ser un envío ordinario** |
+| **Entrega** | **Por buzoneo**: el documento no le cuenta intentos porque no los tiene | **UN ÚNICO INTENTO**, en **casillero domiciliario** | **Al domicilio**, **por depósito en el casillero** si es posible y, **si no, intentándola con el destinatario** |
 
 **La Zona A no es «las capitales».** Es, literalmente, **envíos con destino local, capitales de
 provincia, localidades con administraciones de Correos y poblaciones de más de 50.000 habitantes
@@ -386,7 +455,98 @@ admite 120 cm en una medida y 210 cm de suma**; **el nivel extra, 170 cm y 270 c
 | **Paq Light Internacional** | **2 kg** | El equivalente ligero |
 | **Paq return Internacional** | **30 kg** | La devolución desde el extranjero |
 
-## 10. Valija y los servicios del Camino de Santiago
+## 10. Los valores añadidos, producto por producto
+
+**Este epígrafe es el que más preguntas suelta del tema, y no está en ningún sitio del programa: el
+documento reparte los valores añadidos por la ficha de cada producto, así que quien estudia producto
+a producto no los compara nunca.** **La pregunta de examen es casi siempre la misma**: da cuatro
+valores y pide **cuál no lleva ese producto**, o **cuáles sí**. Se reúnen aquí.
+
+### Qué es cada valor añadido
+
+| Valor | Qué es |
+|---|---|
+| **Aviso de recibo** | **Documento físico** que integra los datos del envío y **confirma su entrega** o **certifica la imposibilidad** de la misma |
+| **Prueba de Entrega Electrónica (PEE)** | Lo mismo **en electrónico**, con **firma electrónica y cotejo en la web** de Correos |
+| **Reembolso** | **El destinatario abona antes de la entrega** el importe que el remitente ha puesto en el envío, y **Correos se lo reembolsa después** |
+| **Valor declarado** | La **cobertura por el valor de la mercancía**, envío a envío |
+| **Entrega exclusiva al destinatario (EDD)** | **Sólo se entrega al destinatario, previa identificación**. **Sólo para clientes con contrato** |
+| **Certificación** | **De imposición, de contenido o de entrega** |
+
+**Y la PEE tiene tres tipologías, por el tiempo que Correos custodia el documento**, citadas del
+glosario:
+
+> «**PEE5: Prueba de Entrega Electrónica con 5 años de custodia.**» «**PEE10: Prueba de Entrega
+> Electrónica con 10 años de custodia.**» «**PEE15: Prueba de Entrega Electrónica con 15 años de
+> custodia.**»
+
+---
+
+**Cinco, diez y quince años**, y **la que el burofax premium plus incluye es la de cinco**.
+
+### La tabla que el documento no junta
+
+| Producto | Lleva | NO lleva |
+|---|---|---|
+| **Carta certificada nacional** | **Reembolso** —a domicilio, apartado o ingreso en cuenta—, **valor declarado de la mercancía**, **aviso de recibo**, **prueba de entrega electrónica**, **certificación de imposición o entrega**, **petición de devolución o de cambio de dirección** y **petición de reexpedición** | **La entrega exclusiva al destinatario**, que es de paquetería y de contrato |
+| **Notificaciones** | **Retorno de información**, **recogida a domicilio**, **clasificación**, **digitalización** y **normalización de direcciones**, todos **sólo para clientes con contrato** | — |
+| **Paq Estándar** | **Seguro** en tres modalidades —la de la Ley del Contrato de Transporte Terrestre de Mercancías **(LCTTM)**, para el cliente con póliza propia; la **estándar**, incluida para quien no tiene contrato; y la **especial**, pactada—, **valor declarado de paquetería hasta 6.000 €**, **PEE**, **entrega exclusiva al destinatario**, **reembolso**, **permanencia en lista a elegir** —**15 días por defecto, 30 como máximo**—, **escaneo con validación** y **escaneo de documentos** | — |
+| **Paquete Azul** | **Aviso de recibo**, **reembolso** y **valor declarado** | — |
+| **Paquete Internacional Económico** | el documento único administrativo **(DUA)** de exportación a terceros países, **reembolso internacional**, **valor declarado internacional** y **seguro opcional hasta 3.000 € por envío o siniestro** | **La Prueba de Entrega Electrónica** |
+| **Burofax premium en oficina** | **Acuse de recibo**, **PEE**, **custodia documental 120 meses**, **copia certificada** y **certificación de contenido, entrega o imposición** | **El valor declarado**: no es un producto de mercancía |
+
+**Tres avisos sobre esa tabla, que son tres preguntas de 2023.**
+
+**El primero, la carta certificada.** **Lleva reembolso, valor declarado y PEE, y NO lleva entrega
+exclusiva al destinatario.** **El examen ofreció tres combinaciones con EDD dentro** —es la número 7
+del cuestionario de Atención al Cliente— y la buena es la única que no la mete.
+
+**El segundo, el reembolso del Paq Estándar, que cuenta distinto según quién envíe.** Citado:
+
+> «**Cuenta con dos modalidades para particulares (entrega en domicilio/apartado postal, máximo
+> 499,99 €, y abono en cuenta, máximo 2.499,99 €) y una solo para contrato (abono en cuenta, con un
+> máximo 2.499,99 €).**»
+
+---
+
+**Dos para particulares, UNA para contrato.** **El examen preguntó por la de contrato** —es la
+número 55 de Atención al Cliente— y puso como señuelo la pareja de particulares. **Quien estudió
+«dos modalidades» sin mirar para quién, falló.**
+
+**El tercero, el burofax, que tiene cuatro nombres y se distinguen por dos cosas: por dónde se
+admite y qué valores lleva dentro.** Citado:
+
+> «**Burofax Premium Online: se interpone desde la oficina virtual.**» «**Burofax Premium: se admite
+> en oficinas tanto para particulares como para clientes con contrato.**» «**Burofax Premium Plus:
+> es un Burofax Premium con PEE5 y Certificación, solo para particulares.**» «**Burofax Básico Plus:
+> es un Burofax Premium con PEE5 y Certificación, solo para contrato.**»
+
+---
+
+**Premium Plus y Básico Plus son la misma cosa con distinto destinatario**: **premium con PEE5 y
+certificación**, el primero **para particulares** y el segundo **para contrato**. **El examen
+preguntó qué es un premium plus** —es la número 18 del cuestionario de Reparto— y **la respuesta es
+«PEE y certificación»**, no las dos horas de entrega, que no existen en ningún burofax: **el plazo
+del burofax es de 24 horas**, con entrega el mismo día si se admite **antes de las 13:00**, salvo
+**julio, agosto y septiembre**.
+
+**Y una cifra del burofax que se cruza con la otra**: **la custodia de los documentos emitidos es de
+5 años, 60 meses**; **la custodia documental que se contrata como valor añadido es de 120 meses**.
+**Sesenta y ciento veinte, y no son lo mismo.**
+
+### El tercer intento de las notificaciones
+
+**El segundo intento de entrega de una notificación va incluido; el tercero, no.** El documento
+coloca el **tercer intento de entrega** en la lista de **valores añadidos y servicios adicionales
+«solo para clientes con contrato»** de la notificación, **junto al retorno de información, la
+recogida a domicilio, la clasificación, la digitalización y la normalización de direcciones**. **Lo
+que se contrata, se paga.**
+
+**El examen de 2023 lo preguntó así** —es la número 102 del cuestionario de Atención al Cliente—,
+ofreciendo el segundo intento, la entrega en domicilio y la entrega en apartado postal como
+señuelos: **las tres van en el producto**; **el tercer intento es el que se añade**.
+
+## 11. Valija y los servicios del Camino de Santiago
 
 **La valija** es el intercambio recíproco de documentación **entre un punto y varios destinos o entre
 varios puntos entre sí**, con **frecuencia y horarios establecidos** y **embalaje homologado por
@@ -408,7 +568,7 @@ el Camino Francés de Sarria a Santiago**.
 **Y el envío de bicicleta tiene su propia ficha**: **embalaje de 150 × 30 × 40 cm**, que **permite
 introducir la bicicleta sin apearla**, con **peso máximo de 20 kg** y **plazo estimado de 3 días**.
 
-## 11. Correos Express
+## 12. Correos Express
 
 **Seis productos nacionales, y todos comparten dos cifras**: **peso real máximo de 40 kg** y **criterio
 volumétrico de 167 kg/m³ para envíos terrestres y 333 kg/m³ para marítimos**. **Ese 333 es exclusivo
@@ -443,7 +603,32 @@ documento pone los plazos de todos los productos.**
 **Y los dos productos internacionales de Correos Express comparten plazo**: **de D+2 a D+6 según
 destino y tipología**, **el Estándar con cobertura europea** y **el Express con cobertura mundial**.
 
-## 12. Los canales digitales
+## 13. Los canales digitales
+
+**Antes de la lista, la causa, porque el examen la pregunta suelta.** **Lo que ha hecho crecer la
+paquetería es el comercio electrónico**, y el documento lo dice sin rodeos al abrir la distribución:
+
+> «**El auge del comercio electrónico ha convertido la distribución en una herramienta fundamental
+> para satisfacer las expectativas de nuestros clientes, los cuales son cada vez más exigentes y
+> esperan entregas con un servicio excelente y a un precio competitivo.**»
+
+---
+
+**Y en el otro platillo, la caída de la carta**, por el mismo movimiento y en sentido contrario,
+citado:
+
+> «**Sin embargo, la Administración electrónica, la banca digital y las facturas electrónicas,
+> especialmente durante estos dos últimos años de pandemia, han sustituido las comunicaciones en
+> formato papel y, por tanto, han abandonado los servicios postales a favor de los canales
+> electrónicos.**»
+
+---
+
+**Las dos frases son la misma historia**: **lo electrónico se lleva la carta y trae el paquete.**
+**El examen de 2023 preguntó por la mitad de arriba** —es la número 32 del cuestionario de Atención
+al Cliente— y ofrecía «Internet» y «la sustitución electrónica» como señuelos: **Internet es el
+medio y la sustitución electrónica es lo que le pasa a la carta**; **lo que hace crecer la
+paquetería es el comercio electrónico**.
 
 | Canal | Qué es |
 |---|---|
@@ -474,7 +659,7 @@ que Correos ha diseñado **para los principales proveedores de gestores de conte
 —Woocommerce, Magento y Prestashop—** y que **automatizan prerregistro, etiquetado, solicitud de
 recogida y devolución**. **Están a disposición gratuita** de las tiendas creadas con esos gestores.
 
-## 13. Citypaq
+## 14. Citypaq
 
 **Citypaq son taquillas inteligentes** para **recoger, enviar o devolver paquetes**, situadas **cerca
 del domicilio, del trabajo o en lugares de tránsito** como supermercados, gasolineras o centros
@@ -510,7 +695,7 @@ interior**, con **conexión monofásica de 230 V ± 10 %** y **conectividad por 
 **Que el modelo reducido tenga cuatro tamaños y el estándar cinco —porque el estándar añade el XS— es
 exactamente el tipo de dato que decide una pregunta.**
 
-## 14. Lo que este tema no da, y dónde está
+## 15. Lo que este tema no da, y dónde está
 
 | Materia | Dónde está | Estado |
 |---|---|---|
@@ -523,7 +708,7 @@ exactamente el tipo de dato que decide una pregunta.**
 | **El cuadro de sobrecostes** por dimensión extra | La ficha del Paq Premium | **Volcado en su estructura**, no en sus importes, que son tarifa |
 | **Los servicios e-commerce de Correos Express** | El epígrafe 3.3.2 del documento | **Volcado**: se desarrollan con los productos de Correos Express |
 
-## 15. Trazabilidad
+## 16. Trazabilidad
 
 | Regla del método | Fuente | Qué se ha citado |
 |---|---|---|

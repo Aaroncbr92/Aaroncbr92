@@ -16,6 +16,8 @@ c) Sí, tanto recibos como facturas
 d) Solo las facturas, ya que los recibos llevan información de carácter no personal
 ```
 
+*La contesta el epígrafe 3.3.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 7 · respuesta: c**
@@ -27,6 +29,8 @@ b) Reembolso, entrega exclusiva al destinatario, valor declarado de la mercancí
 c) Reembolso, valor declarado de la mercancía y prueba de entrega electrónica
 d) Entrega exclusiva al destinatario, valor declarado de la mercancía y prueba de entrega electrónica
 ```
+
+*La contesta el epígrafe 3.11.2.*
 
 ---
 
@@ -40,6 +44,8 @@ c) Son folletos que se recogen en las oficinas de Correos
 d) Son envíos de publicidad personalizados y con dirección de destinatario, que no caben en el buzón
 ```
 
+*La contesta el epígrafe 3.6.1.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 24 · respuesta: c**
@@ -51,6 +57,8 @@ b) Sí, en el momento en que lo desee
 c) Sí, pero antes de abrirla
 d) Sí, pero presentando una solicitud para no recibir más envíos de ese remitente
 ```
+
+*La contesta el epígrafe 3.3.1.*
 
 ---
 
@@ -64,6 +72,8 @@ c) Son cualquier envío realizado por empresas editoriales, distribuidoras o cen
 d) Son publicaciones encuadernadas o fascículos enviados por empresas editoriales, distribuidoras o centros de enseñanza por correspondencia autorizados, independientemente de la publicidad contenida en el mismo.
 ```
 
+*La contesta el epígrafe 3.8.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 32 · respuesta: a**
@@ -75,6 +85,8 @@ b) A la sustitución electrónica
 c) A Internet
 d) A la reducción de los precios
 ```
+
+*La contesta el epígrafe 3.14.*
 
 ---
 
@@ -88,6 +100,8 @@ c) Prueba de entrega electrónica, custodia documental de 120 meses, copia certi
 d) Prueba de entrega electrónica, valor declarado, custodia documental de 120 meses y copia certificada
 ```
 
+*La contesta el epígrafe 3.11.2.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 37 · respuesta: a**
@@ -99,6 +113,8 @@ b) 2 kg
 c) 40 kg
 d) 30 kg
 ```
+
+*La contesta el epígrafe 3.10.*
 
 ---
 
@@ -112,6 +128,8 @@ c) Correos Market no es un ningún servicio que ofrezca Correos actualmente
 d) Correos Market es una plataforma de comercio electrónico de Correos que persigue que los vendedores puedan publicar, promocionar y vender sus productos.
 ```
 
+*La contesta el epígrafe 3.14.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 55 · respuesta: c**
@@ -123,6 +141,8 @@ b) Cuenta con dos modalidades: entrega a domicilio con un máximo de 499,99 € 
 c) Solo cuenta con la modalidad de abono en cuenta con un máximo de 2.499,99 €
 d) Ninguna de las opciones anteriores es correcta
 ```
+
+*La contesta el epígrafe 3.11.2.*
 
 ---
 
@@ -136,6 +156,8 @@ c) Peso hasta 100 gr. y dimensiones 189 mm x 250 mm
 d) Peso hasta 50 gr. y dimensiones 162 mm x 229 mm
 ```
 
+*La contesta el epígrafe 3.4.2.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 75 · respuesta: b**
@@ -147,6 +169,8 @@ b) Dispone de una única zona: Z1
 c) Dispone de 7 zonas: Z1, Z2, Z3, Z4, Z5, Z6 y Z7
 d) Dispone de 5 zonas: Z1, Z2, Z3, Z4 y Z5 Preguntas psicotécnicas:
 ```
+
+*La contesta el epígrafe 3.10.*
 
 ---
 
@@ -160,6 +184,8 @@ c) Por 3.000 €
 d) Ninguna de las respuestas anteriores es correcta
 ```
 
+*La contesta el epígrafe 3.11.2.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 87 · respuesta: a**
@@ -171,6 +197,8 @@ b) Reembolso internacional
 c) Valor declarado internacional
 d) DUA de Exportación a terceros países
 ```
+
+*La contesta el epígrafe 3.11.2.*
 
 ---
 
@@ -184,6 +212,8 @@ c) 45 días
 d) 75 días
 ```
 
+*La contesta el epígrafe 3.12.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 99 · respuesta: b**
@@ -195,6 +225,8 @@ b) D + 2
 c) D + 3
 d) D + 4
 ```
+
+*La contesta el epígrafe 3.13.*
 
 ---
 
@@ -208,6 +240,8 @@ c) La entrega en domicilio
 d) La entrega en un apartado postal
 ```
 
+*La contesta el epígrafe 3.11.3.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 2 · respuesta: b**
@@ -219,6 +253,8 @@ b) Conta de 1 intento de entrega, antes de derivarla a la oficina de referencia
 c) Consta de 3 intentos de entrega, antes de devolvérsela al remitente
 d) Conta de 3 intentos de entrega, antes de derivarla a la oficina de referencia
 ```
+
+*La contesta el epígrafe 3.4.*
 
 ---
 
@@ -232,6 +268,8 @@ c) Se entregan bajo firma, tienen 2 intentos de entrega y, como regla general, p
 d) Se entregan bajo firma, tienen 1 intentos de entrega y, como regla general, permanecen 15 días en lista
 ```
 
+*La contesta el epígrafe 3.5.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 18 · respuesta: c**
@@ -243,6 +281,8 @@ b) Es un burofax que tiene incluido el acuse de recibo y la certificación poste
 c) Es un burofax que tiene incluido la prueba de entrega electrónica y la certificación
 d) Es un burofax que se entrega en las 2 horas siguientes a su imposición y tiene incluido el acuse de recibo.
 ```
+
+*La contesta el epígrafe 3.11.2.*
 
 ---
 
@@ -256,6 +296,8 @@ c) Citypaq es el nuevo nombre que Correos le da a sus oficinas de atención al p
 d) Es una solución que tiene Correos para recoger, enviar o devolver paquetes a través de taquillas inteligentes instaladas en lugares de tránsito.
 ```
 
+*La contesta el epígrafe 3.15.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 30 · respuesta: d**
@@ -268,6 +310,8 @@ c) De un intento de entrega, pero se puede contratar un segundo
 d) De un único intento de entrega
 ```
 
+*La contesta el epígrafe 3.6.1.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 54 · respuesta: d**
@@ -279,6 +323,8 @@ b) Paquete Estándar
 c) Carta certificada urgente
 d) Logística inversa
 ```
+
+*La contesta el epígrafe 3.4.1.*
 
 ---
 

@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | La **vigente hoy**. Se citan literalmente sus **artículos 15 y 29** |
 | **Norma de apoyo** | **Real Decreto 39/1997**, Reglamento de los Servicios de Prevención · `BOE-A-1997-1853`, con su **artículo 35.2.a)** y su **anexo IV** |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 2**, reconocido ópticamente |
-| **Extensión** | **8.953 palabras** |
+| **Extensión** | **9.504 palabras** |
 
 <!-- /portada -->
 
@@ -63,6 +63,7 @@ descripción que la empresa hace de sí misma en 2022.
   - [Las seis obligaciones del trabajador](#las-seis-obligaciones-del-trabajador)
   - [Los derechos del trabajador](#los-derechos-del-trabajador)
 - [6. Procedimientos y protocolos del grupo profesional IV](#6-procedimientos-y-protocolos-del-grupo-profesional-iv)
+  - [El plan de emergencia, y quién lo hace](#el-plan-de-emergencia-y-quién-lo-hace)
   - [Los tipos de accidente](#los-tipos-de-accidente)
   - [Vigilancia de la salud y aptitud](#vigilancia-de-la-salud-y-aptitud)
   - [Protección en el embarazo](#protección-en-el-embarazo)
@@ -325,6 +326,22 @@ establece que la prevención debe integrarse en el sistema de gestión de la emp
 responsabilidad a todos los integrantes de la organización. **De ahí sale la frase que Correos usa
 como máxima: «entre todos hacemos prevención».**
 
+**Y reparte la responsabilidad nominalmente, que es lo que se pregunta.** Citado:
+
+> «**Todos y cada uno de los miembros de la Empresa deben hacerse responsables de la seguridad y
+> salud de las personas que intervienen en la actividad laboral. Se incluye también al cliente
+> externo y al personal de otras empresas que realice su actividad en Correos.**»
+
+> «**Todos los mandos de Correos que tengan personal a sus órdenes son responsables de la seguridad
+> y la salud de los trabajadores a su cargo, por lo que deben: conocer y hacer cumplir todas las
+> reglas de PRL que afecten al trabajo que realicen.**»
+
+---
+
+**Todos los mandos, sin excepción, y con una obligación concreta detrás: conocer y hacer cumplir.**
+**El examen de 2023 lo preguntó tal cual** —es la número 36 del cuestionario de Atención al
+Cliente—, en forma de sí o no, y **la respuesta es que sí**.
+
 **Y tiene una consecuencia sobre el técnico de prevención** que se pregunta mucho, citada:
 
 > «**El técnico de prevención realiza labores de coordinación y asesoramiento, ya no es el encargado
@@ -486,6 +503,19 @@ salud no deberá recaer en modo alguno sobre los trabajadores.**
 
 ## 6. Procedimientos y protocolos del grupo profesional IV
 
+**El grupo profesional IV es el de Operativos, y conviene saberlo antes de seguir**, porque es la
+plaza que se convoca y porque se pregunta por su nombre. **El propio documento rotula así este
+epígrafe**: «Procedimientos y protocolos preventivos aplicables al grupo profesional IV:
+Operativos», y lo repite al abrirlo, citado:
+
+> «**Dentro del Plan de Prevención de Correos hay una serie de procedimientos y protocolos
+> preventivos que son de aplicación al grupo profesional de Operativos.**»
+
+---
+
+**Grupo IV igual a Personal Operativo.** **El examen de 2023 lo preguntó suelto** —es la número 61
+del cuestionario de Reparto—, sin más contexto que el nombre del grupo.
+
 **Los códigos de este epígrafe son literales y hay que escribirlos bien**: el documento usa para los
 procedimientos el prefijo **PR** (procedimiento) y para los protocolos el prefijo **PT**
 (protocolo), seguidos de **tres cifras**.
@@ -497,7 +527,7 @@ procedimientos el prefijo **PR** (procedimiento) y para los protocolos el prefij
 | **PR005** | **Información, consulta y participación** | Los dos órganos: **CPSS**, paritario y colegiado, **en el ámbito provincial**; y **CESL**, el **órgano central** |
 | **PR006** | **Vigilancia de la salud** | Los **siete protocolos específicos** y los **cuatro grados de aptitud** |
 | **PR013** | **Gestión de EPI** | La **reposición según los periodos establecidos** y la **entrega en depósito** |
-| **PR014** | **Plan de emergencias** | El **Comité Local de Emergencia** y el **encargado del ascensor** |
+| **PR014** | **Plan de emergencias** | **Quién lo elabora** —los técnicos de PRL—, el **Comité Local de Emergencia** y el **encargado del ascensor** |
 | **PR016** | **Trabajadores especialmente sensibles** | El **artículo 25 de la Ley 31/1995** |
 | **PR017** | **Embarazo, lactancia o parto reciente** | Las medidas **No realizar / Evitar / Fomentar** |
 
@@ -516,6 +546,36 @@ precisamente lo que hace la pregunta:
 | | **Reparto 1 · moto o bici** | **PTP-11** |
 | | **Reparto 2 · a pie** | **PTP-12** |
 | | **Reparto 3 · vehículo de 4 ruedas** | **PTP-16** |
+
+### El plan de emergencia, y quién lo hace
+
+**De todo el procedimiento PR014, lo primero que se pregunta es de quién sale el documento.**
+Citado:
+
+> «**Los planes de emergencia de los diferentes centros de Correos son elaborados por los Técnicos
+> de Prevención de Riesgos Laborales.**»
+
+---
+
+**Los técnicos de prevención, no el jefe del centro ni el comité.** **El examen de 2023 lo preguntó
+así, sin más** —es la número 70 del cuestionario de Reparto—. **Y el reparto de papeles sigue
+después**, que es donde se confunden: **una vez confeccionado, se remite copia al responsable del
+centro**, y **es el responsable del centro** quien cumplimenta el documento de **nombramiento y
+actualización de los equipos de emergencia y del encargado del ascensor**. Del **jefe de
+emergencias** del centro son otras tres cosas: **organizar el simulacro anual de evacuación** con su
+reunión evaluativa, **difundir y explicar el plan** al resto del personal asignado, y **comunicar
+las medidas a toda la plantilla y colgar los planos de evacuación y los medios contra incendios en
+los tablones**.
+
+**Qué persigue el plan**, en los términos del documento: **conocer el local y sus instalaciones**,
+la peligrosidad de sus sectores y los medios disponibles; **garantizar la fiabilidad de los medios
+de protección y de las instalaciones generales**; **evitar las causas de las emergencias**; **fijar
+las acciones a llevar a cabo** en caso de emergencia; **disponer de personas organizadas, formadas y
+adiestradas**; y **tener informados a todos los ocupantes del edificio**.
+
+**Y lo que toca a cualquier empleado son dos cosas**: **conocer las normas básicas de prevención de
+emergencias**, que están en el tablón de anuncios de la unidad, y **conocer el punto de reunión en
+caso de evacuación**.
 
 ### Los tipos de accidente
 

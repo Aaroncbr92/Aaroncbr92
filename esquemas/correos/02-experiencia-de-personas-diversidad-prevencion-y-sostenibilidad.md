@@ -130,6 +130,11 @@ con más cifras corruptas del volcado**, y todas se comprobaron a la vista.
   de coordinación y asesoramiento, ya no es el encargado de ejecutar ni de hacer ejecutar el Sistema
   de Gestión de PRL»** · **el mando intermedio es la figura fundamental**, y **los incumplimientos
   en EPI, información y formación son infracciones GRAVES del artículo 12 de la LISOS**.
+- **DE QUIÉN ES LA RESPONSABILIDAD** · `[doc]` · **de todos y cada uno de los miembros de la
+  Empresa**, incluidos **el cliente externo y el personal de otras empresas** que trabaje en Correos
+  · **TODOS los mandos con personal a sus órdenes son responsables de la seguridad y la salud de los
+  trabajadores a su cargo**, y por eso **deben conocer y hacer cumplir todas las reglas de PRL** que
+  afecten al trabajo · cayó en **Atención al Cliente, nº 36**, en forma de sí o no: **sí**.
 
 | Modalidad preventiva | Cuándo procede |
 |---|---|
@@ -197,6 +202,10 @@ con más cifras corruptas del volcado**, y todas se comprobaron a la vista.
 
 ## Procedimientos y protocolos
 
+- **EL GRUPO IV ES EL DE OPERATIVOS** · `[doc]` · así rotula el documento este epígrafe —
+  «Procedimientos y protocolos preventivos aplicables al **grupo profesional IV: Operativos**»— y
+  así lo repite al abrirlo · cayó suelto en **Reparto, nº 61**.
+
 | Código | Qué regula | Lo preguntable |
 |---|---|---|
 | **PR002** | **Evaluación de riesgos** | El **puesto de trabajo preventivo (PTP)**, que **agrupa a quienes hacen funciones similares con los mismos riesgos** |
@@ -204,10 +213,17 @@ con más cifras corruptas del volcado**, y todas se comprobaron a la vista.
 | **PR005** | **Información, consulta y participación** | **CPSS**, paritario y colegiado, **provincial**; **CESL**, **central** |
 | **PR006** | **Vigilancia de la salud** | **Siete protocolos** y **cuatro grados de aptitud** |
 | **PR013** | **Gestión de EPI** | **Reposición según periodos** y **entrega en depósito** |
-| **PR014** | **Plan de emergencias** | **Comité Local de Emergencia** y **encargado del ascensor** |
+| **PR014** | **Plan de emergencias** | **LOS ELABORAN LOS TÉCNICOS DE PRL** · **Comité Local de Emergencia** y **encargado del ascensor** |
 | **PR016** | **Trabajadores especialmente sensibles** | **Artículo 25 de la Ley 31/1995** |
 | **PR017** | **Embarazo, lactancia o parto reciente** | **No realizar / Evitar / Fomentar** |
 
+- **EL PLAN DE EMERGENCIA, PAPEL POR PAPEL** · `[doc]` · **lo elaboran los técnicos de prevención
+  de riesgos laborales** —cayó en **Reparto, nº 70**— · **una vez confeccionado se remite copia al
+  responsable del centro**, y **es él** quien cumplimenta el **nombramiento y actualización de los
+  equipos de emergencia y del encargado del ascensor** · del **jefe de emergencias** del centro son
+  **el simulacro anual de evacuación** con su reunión evaluativa, **difundir y explicar el plan** y
+  **comunicar las medidas y colgar los planos** · **de cualquier empleado**, **conocer las normas
+  básicas** del tablón y **el punto de reunión en caso de evacuación**.
 - **LOS PTP, QUE NO SON CORRELATIVOS** · `[doc]` · **D. Oficina 5** · **At. Cliente 4** · **Jefe de
   tratamiento 8** · **Ag. Clasificador 1 y carretillero 2** · **Ag. Clasificador 2, 3** · **Ag.
   Clasificador 2 de centros pequeños 3.1** · **Jefe de distribución 7** · **Reparto en moto o bici

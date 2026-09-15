@@ -16,6 +16,8 @@ c) Desarrollo profesional y talento
 d) Género, LGTBI, discapacidad, cultural y generacional
 ```
 
+*La contesta el epígrafe 2.3.3.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 36 · respuesta: a**
@@ -27,6 +29,8 @@ b) No son responsables en ningún caso
 c) Sí, son responsables, pero solo en algunos casos
 d) No está dentro de sus competencias, puesto que no reciben formación en esta materia Página 4 de 14 - ATC/A A
 ```
+
+*La contesta el epígrafe 2.5.*
 
 ---
 
@@ -40,6 +44,8 @@ c) El responsable de seguridad del área territorial
 d) Los cuerpos de seguridad
 ```
 
+*La contesta el epígrafe 2.7.5.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 69 · respuesta: b**
@@ -51,6 +57,8 @@ b) Un conjunto de prácticas y estrategias empresariales que persiguen un nuevo 
 c) Una serie de beneficios en la gestión de impactos generados por la actividad empresarial
 d) Conductas de la empresa para beneficiar a sus grupos de interés
 ```
+
+*La contesta el epígrafe 2.9.*
 
 ---
 
@@ -64,6 +72,8 @@ c) Cinco fases: atracción / captación, selección, acogida, desarrollo profesi
 d) Dos fases: selección y salida
 ```
 
+*La contesta el epígrafe 2.2.1.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 14 · respuesta: d**
@@ -75,6 +85,8 @@ b) Programa Clic
 c) Programa Correos en femenino
 d) Programa de Sustituciones
 ```
+
+*La contesta el epígrafe 2.2.1.*
 
 ---
 
@@ -88,6 +100,8 @@ c) Inclusión
 d) Tolerancia
 ```
 
+*La contesta el epígrafe 2.3.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 61 · respuesta: a**
@@ -100,6 +114,8 @@ c) Personal Titulado Superior
 d) Servicios Generales Página 7 de 13 - REP/A
 ```
 
+*La contesta el epígrafe 2.7.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 70 · respuesta: c**
@@ -111,4 +127,6 @@ b) Los responsables de emergencias
 c) Los técnicos de prevención de riesgos laborales (PRL)
 d) Los delegados de prevención Página 8 de 13 - REP/A A
 ```
+
+*La contesta el epígrafe 2.7.1.*
 
