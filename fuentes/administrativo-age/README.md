@@ -34,21 +34,22 @@ La del Tribunal de Cuentas es `BOE-A-1982-11584`.
 | `BOE-A-1982-11584` | LO 2/1982 del Tribunal de Cuentas | 6.445 |
 | `BOE-A-1978-31229` | Constitución Española (a redacción vigente, no al corte de RTVE) | 21.279 |
 | `BOE-A-2017-12902` | Ley 9/2017 de Contratos del Sector Público | 177.542 |
+| `BOE-A-2003-21614` | Ley 47/2003 General Presupuestaria | 61.603 |
+| `BOE-A-2005-14836` | RD 951/2005 marco general de calidad | 8.140 |
+| `BOE-A-2011-18541` | RD 1708/2011 Sistema Español de Archivos | 11.132 |
+| `BOE-A-1997-25336` | Ley 50/1997 del Gobierno | 12.497 |
+| `BOE-A-1985-5392` | Ley 7/1985 Bases del Régimen Local | 41.038 |
+| `BOE-A-1986-18101` | RD 1405/1986 Registro Central de Personal | 2.742 |
+| `BOE-A-1984-17387` | Ley 30/1984 reforma de la Función Pública | 43.546 |
 
 ## Pendientes de volcar
 
-El volcado va norma a norma y **no terminó en la sesión del 15 de septiembre**.
-Se retoma con el mismo guion, que salta las que ya están.
+El volcado va norma a norma y **se cortó dos veces**: la primera porque el proxy de red
+se reinició a mitad del lote. Se retoma con el mismo guion, que salta las que ya
+están.
 
 | Identificador | Norma |
 |---|---|
-| `BOE-A-2003-21614` | Ley 47/2003 General Presupuestaria |
-| `BOE-A-2005-14836` | RD 951/2005 marco general de calidad |
-| `BOE-A-2011-18541` | RD 1708/2011 Sistema Español de Archivos |
-| `BOE-A-1997-25336` | Ley 50/1997 del Gobierno |
-| `BOE-A-1985-5392` | Ley 7/1985 Bases del Régimen Local |
-| `BOE-A-1986-18101` | RD 1405/1986 Registro Central de Personal |
-| `BOE-A-1984-17387` | Ley 30/1984 reforma de la Función Pública |
 | `BOE-A-2003-20977` | Ley 38/2003 General de Subvenciones |
 | `BOE-A-2023-25758` | RD-ley 6/2023 |
 | `BOE-A-2000-12140` | RDLeg 4/2000 MUFACE |
