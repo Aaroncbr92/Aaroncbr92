@@ -26,32 +26,49 @@ D D D DO
 DDD 
 Tema 12 
 Normas de cumplimiento: Protección de 
-datos. Prevención de Blanq,ueo de Capitales. 
+datos. Prevención de Blanqueo de Capitales. 
 Compromiso ético y transparencia. Seguridad 
 de la Información y Ciberseguridad
 
-[[ página 2 de 142 · texto ]]
+[[ página 2 de 142 · ocr rota ]]
 
-12.1. Proteccl6n de datos 
-12.1.1. Introducción 
-12.1.2. Pilares de la protección de datos 
-12.1.3. Derechos de los interesados en protección de datos 
-12.1.4. Obligaciones por parte de las empresas en materia de protección de datos 
-12.1.5. Régimen de sanciones 
-12.2. Prevencl6n de blanq,ueo de capltales 
-12.2.1. Conceptos 
-12.2.2. Marco legal de la PBC 
-12.2.3. La estructura de la prevención en Correos 
-12.2.4. Nuestras obligaciones en materia de PBC 
-12.2.5. Fraude y estafas 
-12.3. Compromiso ético y transparencia 
-12.3.1. Cumplimiento normativo 
-12.3.2. Transparencia 
-12.4. Seguridad de la lnformacl6n y clbersegurldad 
-12.4.1. Introducción 
-12.4.2. Buenas prácticas y hábitos en el puesto de trabajo 
-12.4.3. Decálogo de seguridad 
-C> Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
+Contenido
+
+12.1. Protección de datos
+
+12.2.
+
+12.3.
+
+12.1.1. Introducción
+12.1.2. Pilares de la protección de datos
+12.1.3. Derechos de los interesados en protección de datos
+
+12.1.4. Obligaciones por parte de las empresas en materia de protección de datos
+
+12.1.5. Régimen de sanciones
+
+Prevención de blanqueo de capitales
+
+12.2.1. Conceptos
+
+12.2.2. Marco legal de la PBC
+
+12.2.3. La estructura de la prevención en Correos
+12.2.4. Nuestras obligaciones en materia de PBC
+12.2.5. Fraude y estafas
+
+Compromiso ético y transparencia
+12.3.1. Cumplimiento normativo
+12.3.2. Transparencia
+
+12.4. Seguridad de la Información y clberseguridad
+
+12.4.1. Introducción
+12.4.2. Buenas prácticas y hábitos en el puesto de trabajo
+12.4.3. Decálogo de seguridad
+
+O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
 [[ página 3 de 142 · ocr ]]
 
@@ -67,7 +84,7 @@ la personalidad, son normalmente recogidos por las constituciones modernas asign
 un valor jurídico superior.
 
 La protección de las personas físicas en relación con el tratamiento de los datos es un
-derecho fundamental protegido por el artículo 18.4 de la Constitución Española de 1478,
+derecho fundamental protegido por el artículo 18.4 de la Constitución Española de 1978,
 denominado por la jurisprudencia constitucional como derecho fundamental a la protección
 de datos personales.
 
@@ -85,7 +102,7 @@ telegráficas y telefónicas, salvo resolución judicial.
 4. La ley limitará el uso de la informática para garantizar el honor y la intimidad per-
 sonal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.
 
-La Sentencia de 242/2000 del Tribunal Constitucional considera el derecho fundamental a
+La Sentencia de 292/2000 del Tribunal Constitucional considera el derecho fundamental a
 la protección de datos personales como un derecho autónomo e independiente del derecho
 a la intimidad, que consiste en un poder de disposición y de control sobre los datos perso-
 nales que faculta a la persona para decidir cuáles de estos datos quiere proporcionar a un
@@ -127,10 +144,10 @@ la vida social, y ha de facilitar aún más la libre circulación de datos perso
 Unión y la transferencia a terceros países y organizaciones internacionales, garantizando
 al mismo tiempo un elevado nivel de protección de datos personales.
 
-B) ¿Cuál es el objeto de la norma? Directiva 15/46/CE versus RGPD
+B) ¿Cuál es el objeto de la norma? Directiva 95/46/CE versus RGPD
 
 Con la anterior normativa europea de protección de datos, la Directiva 95/46/CE del Par-
-lamento Europeo y del Consejo, de 24 de octubre de 1445, relativo a la protección de
+lamento Europeo y del Consejo, de 24 de octubre de 1995, relativo a la protección de
 las personas físicas en lo que respecta al tratamiento de datos y a la libre circulación de
 estos datos, la protección de datos en el territorio de la Unión se aplicaba de manera frag-
 mentada, existiendo una percepción generalizada entre la opinión pública de que existen
@@ -193,7 +210,7 @@ de la Unión Europea, en la práctica, pueden exigir en algunos supuestos de otr
 internas complementarias para hacer plenamente efectiva su aplicación.
 
 Entre los objetivos de la LOPDGDD está adaptar el ordenamiento jurídico español al Regla-
-mento (UE) 2016/674 del Parlamento Europeo y del Consejo, de 27 de abril de 2016 y
+mento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016 y
 completar sus disposiciones.
 
 12.1.2. Pilares de la protección de datos
@@ -369,9 +386,9 @@ TEMA 12. Normas de cumplimiento: Protección de datos. Prevención de Blanqueo d
 
 Comité Europeo de Protección de Datos: órgano de la Unión Europea encargado de ase-
 sorar y garantizar la aplicación uniforme del Reglamento General de Protección de Datos.
-El Comité Europeo sustituye al anterior Grupo de Trabajo del artículo 24 que fue creado
-con la Directiva 45/46 ya derogada. No obstante, las directrices y recomendaciones
-emitidas por el Grupo de Trabajo del artículo 24, emitidas con anterioridad a la entrada
+El Comité Europeo sustituye al anterior Grupo de Trabajo del artículo 29 que fue creado
+con la Directiva 95/46 ya derogada. No obstante, las directrices y recomendaciones
+emitidas por el Grupo de Trabajo del artículo 29, emitidas con anterioridad a la entrada
 en vigor del Reglamento General de Protección de Datos, siguen siendo válidas, teniendo
 un importante valor doctrinal.
 
@@ -1140,7 +1157,7 @@ un sitio web).
 Enfoque por niveles
 
 Con motivo de la cantidad de información que se debe facilitar al interesado, el Grupo de
-Trabajo del artículo 24 recomienda a los responsables del tratamiento seguir un enfoque
+Trabajo del artículo 29 recomienda a los responsables del tratamiento seguir un enfoque
 por niveles para evitar la fatiga informativa. El diseño y la información del primer nivel
 será tal que el interesado obtenga una visión general y clara de la información disponible
 sobre el tratamiento de sus datos personales y sobre cómo puede encontrar la informa-
@@ -1153,7 +1170,7 @@ debiéndose remitir al interesado a la información adicional en un segundo nive
 presentarán detalladamente el resto de las informaciones, en un medio más adecuado para
 su presentación, comprensión y, si se desea, su archivo.
 
-En las interacciones con personas o por vía telefónica, el Grupo de Trabajo del artículo 24
+En las interacciones con personas o por vía telefónica, el Grupo de Trabajo del artículo 29
 recomienda que el primer nivel, es decir, la principal vía por la que el responsable interactúa
 por primera vez, transmita habitualmente la información más importante, esta es: cuál es la
 finalidad del tratamiento (para qué se van a utilizar sus datos personales), la identidad del
@@ -1579,7 +1596,7 @@ GAFI (Grupo de
 Acción Financiera):
 Institución
 intergubernamental
-creada en 14984
+creada en 1989
 por el G8 con
 
 el propósito de
@@ -1662,7 +1679,7 @@ TEMA 12. Normas de cumplimiento: Protección de datos. Prevención de Blanqueo d
 
 Cabe destacar, que:
 
-» El principal coste (40%) de la financiación se destina al mantenimiento de cédulas y
+» El principal coste (90%) de la financiación se destina al mantenimiento de cédulas y
 comandos.
 
 . La financiación es sumamente compleja y procede de diversas fuentes en continuo
@@ -1966,7 +1983,7 @@ A) Medidas simplificadas
 «Los sujetos obligados podrán aplicar, en los supuestos y con las condiciones que se
 determinen reglamentariamente, medidas simplificadas de diligencia debida respecto de
 aquellos clientes, productos u operaciones que comporten un riesgo reducido de blanqueo
-de capitales o de financiación del terrorismo» (artículo 4 de la Ley 10/2010).
+de capitales o de financiación del terrorismo» (artículo 9 de la Ley 10/2010).
 
 Se aplicarán medidas simplificadas a:
 
@@ -2335,7 +2352,7 @@ TEMA 12. Normas de cumplimiento: Protección de datos. Prevención de Blanqueo d
 
 — Los clientes de giro nacional o internacional remitentes o destinatarios que superen
 
-3.000€, individuales o acumulados en un periodo de 40 días.
+3.000€, individuales o acumulados en un periodo de 90 días.
 
 Los clientes relacionados con peticiones de Juzgados o Policía.
 
@@ -2485,7 +2502,7 @@ blanqueo de capitales y de la financiación del terrorismo y en el Real Decreto 
 de 5 de mayo por el que se aprueba el Reglamento de la Ley 10/2010.
 
 *. Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación
-del terrorismo (BOE 24/04/10).
+del terrorismo (BOE 29/04/10).
 
 . Real Decreto 304/2014, de 5 de mayo, por el que se aprueba el Reglamento de la Ley
 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación
@@ -2515,14 +2532,14 @@ de países terceros.
 ciones de prevención del blanqueo de capitales de los sujetos obligados que realicen
 actividad de cambio de moneda o gestión de transferencias con el exterior.
 
-. Real Decreto 1080/1941, de 5 de julio, por el que se determinan los países o territorios
-a que se refieren los artículos 2.*, apartado 3, número 4, de la Ley 17/1441 de 27 de
+. Real Decreto 1080/1991, de 5 de julio, por el que se determinan los países o territorios
+a que se refieren los artículos 2.*, apartado 3, número 4, de la Ley 17/1991 de 27 de
 mayo de Medidas Fiscales Urgentes, y 62 de la Ley 31/1990, de 27 de diciembre, de
-Presupuestos Generales del Estado para 1941.
+Presupuestos Generales del Estado para 1991.
 
 * Orden EHA/2444/2007, de 31 de julio, por la que se desarrolla el Reglamento de la Ley
 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo
-de capitales, aprobado por Real Decreto 425/1495, de 4 de junio, en relación con el
+de capitales, aprobado por Real Decreto 925/1995, de 9 de junio, en relación con el
 informe de experto externo sobre los procedimientos y órganos de control interno y co-
 municación establecidos para prevenir el blanqueo de capitales.
 
@@ -2555,13 +2572,13 @@ e Las cuarenta recomendaciones del GAFI (febrero 2012).
 
 TEMA 12. Normas de cumplimiento: Protección de datos. Prevención de Blanqueo de Capitales. Compromiso ético y transparencia
 
-* Directiva (UE) 2015/844 del Parlamento Europeo y del Consejo de 20/05/2015 relativa
+* Directiva (UE) 2015/849 del Parlamento Europeo y del Consejo de 20/05/2015 relativa
 a la prevención de la utilización del sistema financiero para el blanqueo de capitales o la
 financiación del terrorismo.
 
 e Directiva (UE) 2018/843 del Parlamento Europeo y del Consejo, de 30/05/2018.
 * Directiva (UE) 2017/541 del Parlamento Europeo y del Consejo, de 15/03/2017.
-+ Reglamento Delegado (UE) 2019/758 de la Comisión, de 31/01/2014.
++ Reglamento Delegado (UE) 2019/758 de la Comisión, de 31/01/2019.
 
 +. Reglamento Delegado (UE) 2018/1108 de la Comisión, de 7/05/2018.
 
@@ -3416,7 +3433,7 @@ de la Ley 10/2010, a través de planes y cursos de formación.
 
 plimiento de las obligaciones establecidas en esta Ley 10/2010 se encuentra amparado
 por lo dispuesto en el artículo 8.1 de la Ley Orgánica 3/2018, de 5 de diciembre, y en
-el artículo 6.1 c) del Reglamento (UE) 2016/674 del Parlamento Europeo y del Consejo,
+el artículo 6.1 c) del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo,
 de 27 de abril de 2016, no precisando del consentimiento del interesado.
 Los datos recogidos por los sujetos obligados para el cumplimiento de las obligaciones
 de diligencia debida no podrán ser utilizados para fines distintos de los relacionados con
@@ -6132,7 +6149,7 @@ Fecha: Firma:
 12.3.2. Transparencia
 Marco legal
 
-La Ley 19/2013, de 4 de diciembre, de transparencia, acceso a la información pública
+La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública
 y buen gobierno representa una nueva forma de entender las relaciones entre la Admi-
 nistración y los ciudadanos, partiendo de la base de que la transparencia, el acceso a
 la información pública y las normas de buen gobierno deben ser los ejes fundamentales
@@ -6274,7 +6291,7 @@ Público, en la medida en que, por su peculiar naturaleza y por carecer de una e
 administrativa propia, le resulten aplicables las disposiciones de este título.
 
 A los efectos de aplicación de las disposiciones sobre Transparencia de la actividad pública
-(Título | de la Ley 194/2013), se entiende por Administraciones públicas los organismos y
+(Título I de la Ley 19/2013), se entiende por Administraciones públicas los organismos y
 entidades incluidos en las letras a) a d).
 
 Asimismo, la Ley 19/2013 establece que las disposiciones relativas a publicidad activa
@@ -6298,7 +6315,7 @@ Grupo, posee una participación del 100% en las filiales Correos Express, Nexea 
 Telecom.
 
 El hecho de que las sociedades del Grupo Correos se encuentren incluidas dentro del
-ámbito subjetivo de aplicación de la Ley 14/2013 implica que quedan sujetas a las
+ámbito subjetivo de aplicación de la Ley 19/2013 implica que quedan sujetas a las
 obligaciones en materia de publicidad activa y derecho de acceso a la información
 pública que detalla dicha Ley, con excepción de aquellas exigencias de las que quedan
 exoneradas expresamente.
@@ -6322,7 +6339,7 @@ dirigidas expresamente a las Administraciones públicas o a otros sujetos.
 Los contenidos que deben publicar de forma proactiva las sociedades mercantiles estatales
 son los siguientes:
 
-+ Información institucional, organizativa y de planificación (artículo 6 Ley 14/2013):
++ Información institucional, organizativa y de planificación (artículo 6 Ley 19/2013):
 
 — Funciones que desarrollan.
 
@@ -6750,7 +6767,7 @@ A SH]. Jn
 Correo portal Correo electrónico En la sede de Correos
 
 Adicionalmente, el bloque «Derecho de acceso» del Portal de Transparencia de Correos
-incluye otros contenidos que no resultan obligatorios de acuerdo con la Ley 14/2013, pero
+incluye otros contenidos que no resultan obligatorios de acuerdo con la Ley 19/2013, pero
 que se consideran de interés para los ciudadanos en el marco del compromiso de Correos
 en materia de transparencia y rendición de cuentas. Son los siguientes:
 
@@ -6920,13 +6937,13 @@ Es el órgano competente para desarrollar, entre otras, las siguientes funciones
 a) Ostentar la representación legal e institucional del Consejo.
 
 b) Adoptar criterios de interpretación uniforme de las obligaciones contenidas en la Ley
-19/2013, de 4 de diciembre o en el reglamento que desarrolle dicha ley.
+19/2013, de 9 de diciembre o en el reglamento que desarrolle dicha ley.
 
 c) Velar por el cumplimiento de las obligaciones de publicidad y adoptar, en su caso, las
 medidas necesarias para el cese del incumplimiento de estas obligaciones.
 
 d) Conocer de las reclamaciones que se presenten en aplicación del artículo 24 de la Ley
-19/2013, de 4 de diciembre.
+19/2013, de 9 de diciembre.
 
 e) Responder las consultas que, con carácter facultativo, le planteen los órganos encarga-
 dos de tramitar y resolver las solicitudes de acceso a la información.
@@ -6942,7 +6959,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E. (317)
 
 TEMA 12. Normas de cumplimiento: Protección de datos. Prevención de Blanqueo de Capitales. Compromiso ético y transparencia
 
-de la Ley 19/2013, de 4 de diciembre, y se proporcione información detallada sobre el
+de la Ley 19/2013, de 9 de diciembre, y se proporcione información detallada sobre el
 cumplimiento de las obligaciones en ella previstas.
 
 h) Convocar y presidir las reuniones de la Comisión de Transparencia y Buen Gobierno.
@@ -6999,7 +7016,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 TEMA 12. Normas de cumplimiento: Protección de datos. Prevención de Blanqueo de Capitales. Compromiso ético y transparencia
 
 b) Informar preceptivamente los proyectos normativos de carácter estatal que desarrollen
-la Ley 19/2013, de 4 de diciembre, o que estén relacionados con su objeto.
+la Ley 19/2013, de 9 de diciembre, o que estén relacionados con su objeto.
 
 c) Aprobar la memoria anual del Consejo de Transparencia y Buen Gobierno.
 
@@ -7107,7 +7124,7 @@ La Subdirección General de Transparencia y Buen Gobierno tiene encomendadas, en
 otras, las siguientes funciones:
 
 a) Supervisar el cumplimiento de las obligaciones de publicidad activa contenidas en la Ley
-19/2013, de 4 de diciembre.
+19/2013, de 9 de diciembre.
 
 O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 
@@ -7116,7 +7133,7 @@ O Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.
 TEMA 12. Normas de cumplimiento: Protección de datos. Prevención de Blanqueo de Capitales. Compromiso ético y transparencia
 
 b) Proponer al presidente la adopción de criterios de interpretación uniforme de las dispo-
-siciones previstas sobre publicidad activa en la Ley 19/2013, de 4 de diciembre.
+siciones previstas sobre publicidad activa en la Ley 19/2013, de 9 de diciembre.
 
 c) Tramitar cuantas cuestiones y consultas le sean planteadas en relación a las materias
 de transparencia y buen gobierno.
@@ -7125,7 +7142,7 @@ La Subdirección General de Reclamaciones
 
 La Subdirección General de Reclamaciones es el órgano del Consejo de Transparencia y
 Buen Gobierno que desempeña las competencias inherentes a la tramitación de la recla-
-mación prevista en el artículo 24 de la Ley 14/2013, de 4 de diciembre. Asimismo, le
+mación prevista en el artículo 24 de la Ley 19/2013, de 9 de diciembre. Asimismo, le
 corresponde tramitar las consultas que, con carácter facultativo, puedan presentarse ante
 el Consejo, relativas a la aplicación de las disposiciones reguladoras del derecho de acceso
 a la información pública.
@@ -7193,7 +7210,7 @@ El avance de la tecnología en los últimos años ha generado un uso incalculabl
 sitivos con conexión a internet y un volumen enorme de información y datos, lo que da
 lugar a la necesidad de proteger la información en el entorno digital de manera mucho más
 específica. El incremento constante del volumen de ciberataques, la influencia humana en
-los mismos (según un estudio realizado por IBM, un 45% de las incidencias en cibersegu-
+los mismos (según un estudio realizado por IBM, un 95% de las incidencias en cibersegu-
 ridad son originadas por errores humanos) o el impacto que puedan tener en las empresas
 ocasionando pérdidas económicas descomunales, interrupciones de las tareas operativas
 o fugas de información dan prueba de su impacto y necesidad.
@@ -7568,7 +7585,7 @@ alfanuméricos, incluyendo letras mayúsculas, minúsculas, dígitos y signos de
 tuación.
 
 e Al crear una nueva contraseña, no utilizar información previsible, nombres comunes fá-
-ciles de adivinar o palabras que se puedan encontrar en el diccionario. El 40% de las
+ciles de adivinar o palabras que se puedan encontrar en el diccionario. El 90% de las
 contraseñas son vulnerables porque el usuario utiliza formatos sencillos y fáciles de
 recordar.
 

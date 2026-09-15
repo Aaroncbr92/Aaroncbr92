@@ -77,6 +77,23 @@ CAPA_ROTA = re.compile(
     r"|\bl(?=[bcdfgjkmnpqrstvxzñ])", re.I)
 UMBRAL_ROTA = 2
 
+# **La misma fuente rota tiene una segunda forma, y la primera regla no la ve.**
+# La portada y el índice del tema 12 traían capa de texto y decían «Proteccl6n de
+# datos», «Prevencl6n de blanq,ueo de capltales» y «Segurldad de la lnformacl6n y
+# clbersegurldad». Ahí el defecto **no sólo cambia la i por una ele**: cambia
+# también **la ó por un seis** y **la u por una coma**. «Proteccl6n» no dispara la
+# regla de arriba porque **detrás de la ele hay una cifra, no una consonante**, de
+# modo que el volcado se quedó con esas dos páginas corruptas **sin avisar**: el
+# índice del tema, que es justo lo que un temario copia para ordenar sus
+# epígrafes. Es el mismo fallo que no da error, un piso más abajo.
+#
+# **Dos señales ortográficas más, y las dos son imposibles en español**: una cifra
+# **encerrada entre dos letras minúsculas dentro de una palabra** —«cl6n», «cl6b»—,
+# y una **q que no lleva u detrás**. Se comprueban sin ignorar mayúsculas, porque
+# en mayúsculas sí hay códigos legítimos —«PW427WO», «CD14»— y marcarlos sería
+# rechazar capas sanas.
+CAPA_ROTA_CIFRA = re.compile(r"[a-zñáéíóúü]\d[a-zñáéíóúü]|q(?=[^u])")
+
 
 def ocr(pagina, dpi):
     """Reconoce una página rasterizándola a `dpi`."""
@@ -122,7 +139,8 @@ def main():
     for i in range(doc.page_count):
         pagina = doc[i]
         t = pagina.get_text().strip()
-        rota = len(CAPA_ROTA.findall(t)) >= UMBRAL_ROTA
+        rota = (len(CAPA_ROTA.findall(t))
+                + len(CAPA_ROTA_CIFRA.findall(t))) >= UMBRAL_ROTA
         if len(t) >= MINIMO_TEXTO and not rota and not FORZAR_OCR:
             origen = "texto"
             n_txt += 1
