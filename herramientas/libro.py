@@ -2065,6 +2065,15 @@ BLOQUES = {
             "advierte donde pasa. Las normas que el documento invoca van citadas en su "
             "<b>redacción vigente</b>, no en la de 2022: donde el documento remite a una ley "
             "derogada —y lo hace varias veces— el tema lo dice y da la que está en vigor.</p>"),
+        parrafo_memoria=(
+            "<p><b>Nada de aquí se ha escrito de memoria, y aquí eso cuesta más que en un temario "
+            "de norma.</b> Cada cifra se ha leído <b>sobre la página impresa del documento</b>, no "
+            "sobre su reconocimiento óptico, porque <b>el reconocedor confunde el nueve con el "
+            "cuatro</b> y la confusión alcanzó porcentajes, fechas de leyes y hasta el número de un "
+            "artículo. <b>Cada corrección está registrada con la columna que dice cómo se "
+            "comprobó.</b> Y donde el documento cita una norma, la norma se ha abierto en el texto "
+            "consolidado del Boletín: <b>cuando los dos dicen cosas distintas, manda el "
+            "Boletín</b>, y el tema lo advierte donde pasa.</p>"),
         parrafo_preguntas=(
             "<p><b>Las preguntas se imprimen tal como salieron del examen</b>, con sus cuatro "
             "opciones y la respuesta de la plantilla oficial. Salen de los <b>cuadernillos "
@@ -2140,7 +2149,7 @@ BLOQUES = {
 # escriben con letra. Con dos bloques hay que generarlo, y no hace falta más que
 # los números que este temario puede tener.
 LETRA = {2: "Dos", 3: "Tres", 4: "Cuatro", 5: "Cinco", 6: "Seis", 7: "Siete",
-         8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 13: "Trece",
+         8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 12: "Doce", 13: "Trece",
          17: "Diecisiete", 18: "Dieciocho", 21: "Veintiún", 25: "Veinticinco",
          31: "Treinta y un"}
 
@@ -2378,6 +2387,68 @@ table.claves td { background:#fff; font-weight:bold; }
 """
 
 
+# ── los textos del aviso, en un solo sitio ────────────────────────────────────
+# `word.py` los tenía copiados, y una copia acaba diciendo otra cosa: el libro en
+# PDF ya decía «del examen del 7 de mayo de 2023» mientras el de Word seguía
+# diciendo «de los cuadernillos de 2024». Ahora los dos los toman de aquí.
+
+def texto_partes(B, sin_examen):
+    if sin_examen:
+        return ("<p><b>Cada tema trae dos partes.</b> El <b>cuerpo</b>, para leer, y el "
+                "<b>esquema</b>, para repasar, que va detrás y no delante a propósito.</p>")
+    return ("<p><b>Cada tema trae tres partes.</b> El <b>cuerpo</b>, para leer; el "
+            "<b>esquema</b>, para repasar, que va detrás y no delante a propósito; y las "
+            "<b>preguntas reales</b> %s, para comprobar si el tema se "
+            "sostiene. <b>Las respuestas están al final del volumen</b>, no junto a la "
+            "pregunta: con la respuesta a la vista no hay autoevaluación.</p>"
+            % B.get("epoca", "de los cuadernillos de 2024"))
+
+
+def texto_preguntas(B, sin_examen):
+    if sin_examen:
+        return ("<p><b>Este volumen no trae preguntas de examen porque esta ocupación no las "
+                "tiene.</b> No se ha convocado ninguna prueba de la que existan cuadernillo y "
+                "plantilla, de modo que aquí no hay nada que contrastar contra una respuesta "
+                "oficial. <b>Se dice y no se disimula</b>: un temario que inventara preguntas "
+                "para rellenar sería peor que uno que no las tiene.</p>")
+    return B.get("parrafo_preguntas", (
+        "<p><b>Las preguntas se imprimen tal como salieron del examen</b>, sin más limpieza "
+        "que quitarles el pie de página. Son transcripciones de los cuadernillos oficiales y "
+        "traen sus costuras: alguna arrastra una letra mal reconocida. <b>Están leídas una a "
+        "una</b> y colocadas en el tema que les toca, comprobando cada una contra la norma.</p>"))
+
+
+# **Cada convocatoria fecha su corte a su manera, y la cita de una no vale para
+# la otra.** Las bases de RTVE mandan examinar por «su texto vigente a fecha de
+# la primera publicación de las Bases Generales», y de ahí sale el 21 de
+# diciembre de 2022 que llevan sus doce volúmenes. Un volumen que no salga de
+# esas bases no puede imprimir esa frase: diría de sí mismo una cosa que sus
+# bases no dicen. Así que el bloque puede traer la suya, y el que no la trae se
+# queda con la de RTVE, que es la que tenían todos.
+def texto_caja_corte(B):
+    return B.get("caja_corte", (
+        "<p><b>La redacción que vale es la del %s</b>, que es la fecha de corte que\n"
+        "imponen las bases: «las pruebas se realizarán sobre su texto vigente a fecha de la "
+        "primera\npublicación de las Bases Generales». Lo que cambió después está en el tema, "
+        "en apartados\nmarcados como <i>notas de actualización</i>, y <b>no es materia "
+        "examinable</b>.</p>" % CORTE))
+
+
+def texto_linea_corte(B):
+    return B.get("linea_corte", "Redacción vigente a <b>%s</b>" % CORTE)
+
+
+# y lo mismo con el párrafo que cierra el aviso: decir «cada dato se ha leído en
+# el texto consolidado del BOE» en un volumen cuya fuente principal es un
+# documento de empresa reconocido ópticamente sería afirmar de sí mismo una cosa
+# que no es cierta
+def texto_memoria(B):
+    return B.get("parrafo_memoria", (
+        "<p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto "
+        "consolidado\ndel BOE en su redacción a la fecha de corte, o en la fuente oficial que se "
+        "cita en la\ntrazabilidad de cada tema.</p>"))
+
+
 def main():
     argv = sys.argv[1:]
     clave = argv[0] if argv and argv[0] in BLOQUES else "general"
@@ -2465,48 +2536,16 @@ def main():
     if not sin_examen:
         resp.append("</section>")
 
-    if sin_examen:
-        linea_meta = ("%s temas · %s esquemas de repaso · <b>sin preguntas de examen</b>"
-                      % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower()))
-        parrafo_partes = (
-            "<p><b>Cada tema trae dos partes.</b> El <b>cuerpo</b>, para leer, y el "
-            "<b>esquema</b>, para repasar, que va detrás y no delante a propósito.</p>")
-        parrafo_preguntas = (
-            "<p><b>Este volumen no trae preguntas de examen porque esta ocupación no las "
-            "tiene.</b> No se ha convocado ninguna prueba de la que existan cuadernillo y "
-            "plantilla, de modo que aquí no hay nada que contrastar contra una respuesta "
-            "oficial. <b>Se dice y no se disimula</b>: un temario que inventara preguntas "
-            "para rellenar sería peor que uno que no las tiene.</p>")
-    else:
-        linea_meta = ("%s temas · %s esquemas de repaso · <b>%d</b> preguntas reales de examen"
-                      % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower(), total_preg))
-        parrafo_partes = (
-            "<p><b>Cada tema trae tres partes.</b> El <b>cuerpo</b>, para leer; el "
-            "<b>esquema</b>, para repasar, que va detrás y no delante a propósito; y las "
-            "<b>preguntas reales</b> %s, para comprobar si el tema se "
-            "sostiene. <b>Las respuestas están al final del volumen</b>, no junto a la "
-            "pregunta: con la respuesta a la vista no hay autoevaluación.</p>"
-            % B.get("epoca", "de los cuadernillos de 2024"))
-        parrafo_preguntas = B.get("parrafo_preguntas", (
-            "<p><b>Las preguntas se imprimen tal como salieron del examen</b>, sin más limpieza "
-            "que quitarles el pie de página. Son transcripciones de los cuadernillos oficiales y "
-            "traen sus costuras: alguna arrastra una letra mal reconocida. <b>Están leídas una a "
-            "una</b> y colocadas en el tema que les toca, comprobando cada una contra la norma.</p>"))
-
-    # **Cada convocatoria fecha su corte a su manera, y la cita de una no vale
-    # para la otra.** Las bases de RTVE mandan examinar por «su texto vigente a
-    # fecha de la primera publicación de las Bases Generales», y de ahí sale el
-    # 21 de diciembre de 2022 que llevan sus doce volúmenes. Un volumen que no
-    # salga de esas bases no puede imprimir esa frase: diría de sí mismo una cosa
-    # que sus bases no dicen. Así que el bloque puede traer la suya, y el que no
-    # la trae se queda con la de RTVE, que es la que tenían todos.
-    caja_corte = B.get("caja_corte", (
-        "<p><b>La redacción que vale es la del %s</b>, que es la fecha de corte que\n"
-        "imponen las bases: «las pruebas se realizarán sobre su texto vigente a fecha de la "
-        "primera\npublicación de las Bases Generales». Lo que cambió después está en el tema, "
-        "en apartados\nmarcados como <i>notas de actualización</i>, y <b>no es materia "
-        "examinable</b>.</p>" % CORTE))
-    linea_corte = B.get("linea_corte", "Redacción vigente a <b>%s</b>" % CORTE)
+    linea_meta = (
+        ("%s temas · %s esquemas de repaso · <b>sin preguntas de examen</b>"
+         % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower())) if sin_examen else
+        ("%s temas · %s esquemas de repaso · <b>%d</b> preguntas reales de examen"
+         % (con_letra(len(TEMAS)), con_letra(len(TEMAS)).lower(), total_preg)))
+    parrafo_partes = texto_partes(B, sin_examen)
+    parrafo_preguntas = texto_preguntas(B, sin_examen)
+    caja_corte = texto_caja_corte(B)
+    linea_corte = texto_linea_corte(B)
+    parrafo_memoria = texto_memoria(B)
 
     ig = []
     for i, t, entradas in indice_gral:
@@ -2537,9 +2576,7 @@ def main():
 {parrafo_partes}
 {B["aviso_portada"]}
 {parrafo_preguntas}
-<p><b>Nada de aquí se ha escrito de memoria.</b> Cada dato se ha leído en el texto consolidado
-del BOE en su redacción a la fecha de corte, o en la fuente oficial que se cita en la
-trazabilidad de cada tema.</p>
+{parrafo_memoria}
 </section>
 
 <section class="indice-gral"><h1>Índice general</h1><ol>{''.join(ig)}</ol></section>

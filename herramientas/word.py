@@ -51,6 +51,8 @@ from markdown_it import MarkdownIt
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from libro import (BLOQUES, CORTE, RAIZ, con_letra, lee, numera, ordena_opciones,
+                   texto_caja_corte, texto_linea_corte, texto_memoria,
+                   texto_partes, texto_preguntas,
                    preguntas, ruta_tema, sin_marcas)
 
 # El bloque que se está componiendo. Lo fija main() a partir del argumento, y
@@ -459,8 +461,8 @@ def parte_tema(doc, numero, base, banco):
                       % ("temas 2 y 3" if banco == "g2-g3" else "tema %d" % numero),
                       style="Heading 1")
     p = doc.add_paragraph(style="Normal")
-    p.add_run("%d preguntas de los cuadernillos de 2024. Las respuestas, al final "
-              "del volumen." % len(ps)).italic = True
+    p.add_run("%d preguntas %s. Las respuestas, al final del volumen."
+              % (len(ps), B.get("epoca", "de los cuadernillos de 2024"))).italic = True
     for n, (_, enunciado, _) in enumerate(ps, 1):
         pinta_pregunta(doc, n, enunciado)
     return ps
@@ -481,7 +483,8 @@ def pinta_pregunta(doc, n, enunciado):
 
 
 def portada(doc, total_preg, cuantos):
-    doc.add_paragraph("Oposiciones RTVE · convocatorias 1/2022 y 3/2022",
+    doc.add_paragraph(B.get("convocatoria",
+                            "Oposiciones RTVE · convocatorias 1/2022 y 3/2022"),
                       style="Portada rótulo")
     doc.add_paragraph(B["titulo"], style="Title")
     doc.add_paragraph(re.sub(r"</?b>|<br>", " ", B["subtitulo"]).replace("  ", " ").strip(),
@@ -492,10 +495,15 @@ def portada(doc, total_preg, cuantos):
               "Tema %d de %s, con su esquema de repaso"
               % (cuantos, con_letra(todos).lower()) if cuantos == 1 else
               "%d de los %s temas" % (cuantos, con_letra(todos).lower()))
-    for l in ("Redacción vigente a %s" % CORTE,
+    for l in (_plano(texto_linea_corte(B)),
               "%s · %d preguntas reales de examen" % (cuerpo, total_preg),
               "Generado el %s" % date.today().strftime("%d/%m/%Y")):
         doc.add_paragraph(l, style="Portada dato")
+
+
+def _plano(html_):
+    """El texto de un fragmento de HTML, sin etiquetas y en una sola línea."""
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", html_)).strip()
 
 
 def _troceado(html_):
@@ -507,13 +515,17 @@ def _troceado(html_):
     un día digan cosas distintas.
     """
     import re as _re
-    crudo = _re.sub(r"</?p>", "", html_).strip()
+    crudo = _re.sub(r"</?p>", " ", html_).strip()
     fuera = []
     for trozo in _re.split(r"(<b>.*?</b>|<i>.*?</i>)", crudo, flags=_re.S):
         if not trozo:
             continue
-        negrita = trozo.startswith("<b>")
-        fuera.append((_re.sub(r"</?[bi]>", "", trozo), negrita))
+        negrita, cursiva = trozo.startswith("<b>"), trozo.startswith("<i>")
+        # el HTML va partido en renglones de cien columnas y Word no los junta:
+        # sin colapsarlos, el aviso sale con saltos de línea en mitad de la frase
+        texto = _re.sub(r"\s+", " ", _re.sub(r"</?[bi]>", "", trozo))
+        if texto.strip():
+            fuera.append((texto, negrita, cursiva))
     return fuera
 
 
@@ -521,33 +533,19 @@ def aviso(doc):
     salto(doc)
     doc.add_paragraph("Cómo usar este volumen", style="Heading 1")
     caja = doc.add_paragraph(style="Aviso")
-    caja.add_run("La redacción que vale es la del %s" % CORTE).bold = True
-    caja.add_run(", que es la fecha de corte que imponen las bases: «las pruebas se "
-                 "realizarán sobre su texto vigente a fecha de la primera publicación de "
-                 "las Bases Generales». Lo que cambió después está en el tema, en "
-                 "apartados marcados como ")
-    caja.add_run("notas de actualización").italic = True
-    caja.add_run(", y no es materia examinable.")
+    for texto, negrita, cursiva in _troceado(texto_caja_corte(B)):
+        r = caja.add_run(texto)
+        r.bold, r.italic = negrita, cursiva
     _recuadra(caja)
-    for trozos in (
-        [("Cada tema trae tres partes.", True),
-         (" El cuerpo, para leer; el esquema, para repasar, que va detrás y no delante a "
-          "propósito; y las preguntas reales de los cuadernillos de 2024, para comprobar "
-          "si el tema se sostiene. Las respuestas están al final del volumen, no junto a "
-          "la pregunta: con la respuesta a la vista no hay autoevaluación.", False)],
-        _troceado(B["aviso_portada"]),
-        [("Las preguntas se imprimen tal como salieron del cuadernillo", True),
-         (", sin más limpieza que quitarles el pie de página. Están leídas una a una: las "
-          "que la clasificación por palabras clave había puesto en el tema que no les "
-          "tocaba —o que no son de este bloque— se recolocaron contra la fuente.",
-          False)],
-        [("Nada de aquí se ha escrito de memoria.", True),
-         (" Cada dato se ha leído en el texto consolidado del BOE en su redacción a la "
-          "fecha de corte, o en la fuente oficial que se cita en la trazabilidad de cada "
-          "tema.", False)]):
+    sin_examen = B.get("sin_examen", False)
+    for trozos in (_troceado(texto_partes(B, sin_examen)),
+                   _troceado(B["aviso_portada"]),
+                   _troceado(texto_preguntas(B, sin_examen)),
+                   _troceado(texto_memoria(B))):
         p = doc.add_paragraph(style="Aviso")
-        for texto, negrita in trozos:
-            p.add_run(texto).bold = negrita
+        for texto, negrita, cursiva in trozos:
+            r = p.add_run(texto)
+            r.bold, r.italic = negrita, cursiva
 
 
 def _recuadra(p):
