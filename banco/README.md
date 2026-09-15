@@ -51,8 +51,15 @@ estos ficheros**, que se sobrescriben enteros: van en `reclasificadas.tsv`.
 
 ## Y el banco del bloque **específico**
 
-Hay uno por ocupación tipo. Los **trece** que existen suman **1.498 preguntas**, todas con
-su respuesta oficial.
+Hay uno por ocupación tipo. Los **veinte** que existen suman **2.215 preguntas**, todas con
+su respuesta oficial. **Diecinueve son de RTVE y suman 2.015**; el vigésimo es el de
+**Correos**, con **200**, y es el primero de este proyecto que no sale de una convocatoria de
+RTVE.
+
+**Esa cifra estaba mal y llevaba tiempo estándolo**: decía «los trece que existen suman 1.498»
+cuando ya eran diecinueve actas y más de dos mil preguntas. **Un total que nadie vuelve a
+contar envejece en silencio**; éste se ha sacado de contar los ficheros del banco, uno a uno,
+el 2026-09-15.
 
 ### Producción (Asistencia)
 
@@ -928,6 +935,43 @@ declarado** —los siete temas dicen qué NO dan y por qué—, **ausencia de no
 ni un diseñador, ni una casa de moda, ni un título de película— y **ausencia de cifra sin fuente**:
 **cero valores numéricos en siete temas**, porque **sin norma que citar, cualquier cifra sería una
 invención.**
+
+### Correos · Grupo Profesional IV
+
+**200 preguntas**, repartidas entre los doce temas del Anexo III del Primer Desarrollo de las Bases.
+**Es el único banco del proyecto que no sale de RTVE**, y el único que se arma con su propia
+herramienta, `herramientas/banco_correos.py`: los cuadernillos de Correos no viven donde los de
+RTVE, no se llaman como ellos y **ya vienen cruzados con su plantilla** por `correos_examen.py`.
+
+**Cuatro cuadernillos y doscientas preguntas, y la resta hay que enseñarla entera.** El examen del
+**7 de mayo de 2023** trae dos cuadernillos por puesto —Atención al Cliente y Reparto y Agente de
+Clasificación—, de **110 preguntas cada uno**. Cuatro por 110 son 440 papeletas, y el banco no son
+440:
+
+```
+110 del modelo A
+ -4 psicotécnicas   (series de figuras: sus opciones son dibujos)
+ -6 de aptitud      (3 de comprensión lectora + 3 de razonamiento numérico)
+---
+100 de temario por puesto   ×2 puestos  =  200
+```
+
+**Los modelos B no se leen**, y ésa es la decisión que evita duplicar el banco entero sin dar ningún
+error: comparados enunciado a enunciado, **los 106 enunciados con opciones del modelo A son
+exactamente los 106 del modelo B**, y **sólo 13 caen con el mismo número**. **Entre puestos, en
+cambio, no se repite ninguna**: la coincidencia literal entre los enunciados de los dos exámenes es
+**cero**.
+
+**Tres preguntas van marcadas como anuladas** y no como letra, porque **la propia plantilla escribe
+«Anulada» en su celda**. Su enunciado salió del temario y sigue sirviendo para estudiar; su
+respuesta, no. **Y una cuarta lleva aviso**: el cuadernillo escribe «Conta» por «Consta» en dos
+opciones de la misma pregunta, **y la respuesta oficial es una de las dos mal escritas**.
+
+**Las veinte que se quedan fuera están declaradas una a una en el acta**, con el motivo, en lugar de
+desaparecer de la cuenta. **Quien se examine las va a tener delante.**
+
+Se regenera con `herramientas/banco_correos.py`, y el reparto se escribe a mano en
+`especifico-correos.tsv`, igual que los demás.
 
 Se regenera con `herramientas/banco_especifico.py <ocupación>`, y **el reparto se
 escribe a mano** en `especifico-<ocupación>.tsv`, una fila por pregunta y con el motivo al
