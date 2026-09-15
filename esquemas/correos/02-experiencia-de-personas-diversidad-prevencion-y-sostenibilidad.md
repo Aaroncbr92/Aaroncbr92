@@ -354,13 +354,16 @@ con más cifras corruptas del volcado**, y todas se comprobaron a la vista.
 - **LOS SEIS AGENTES** · `[doc]` · **startups** · **corporaciones** · **Administraciones e
   instituciones** · **inversores** · **instituciones académicas** · **otros actores**.
 - **STARTUP** · `[doc]` · **«proyectos empresariales emergentes con un gran potencial de
-  crecimiento»**, que **no tienen por qué tener modelo de ingresos definido ni tipo de sociedad
+  crecimiento»** —cayó en **Atención al Cliente, nº 96**—, que **no tienen por qué tener modelo de ingresos definido ni tipo de sociedad
   mercantil establecido** · **tres tipos de inversor**: **business angels**, **fondos
   especializados** y **crowdfunding**.
-- **CORREOSLABS** · `[doc]` · **Las Tablas, Madrid**, **creado en 2017** · **hasta 2020 sus eventos
-  eran exclusivamente presenciales** · **labs.correos.es** · el programa con startups es el **Reto
-  Lehnica**: **prueba de concepto o piloto**, con **aportación económica**, **uso del espacio** y
-  **coaching y mentoring durante un año**.
+- **CORREOSLABS** · `[doc]` · **«el centro de innovación y emprendimiento de Correos»**, **concebido
+  «como el punto de encuentro de todas las iniciativas de Innovación Abierta de Correos»** —por esa
+  frase lo señaló **Reparto, nº 107**, sin nombrarlo— · **Las Tablas, Madrid**, **creado en 2017** ·
+  **espacio flexible con coworking, salas de reuniones y auditorio** · **hasta 2020 sus eventos eran
+  exclusivamente presenciales** · **labs.correos.es** · el programa con startups es el **Reto
+  Lehnica** —cayó en **Reparto, nº 89**—: **prueba de concepto o piloto**, con **aportación
+  económica**, **uso del espacio** y **coaching y mentoring durante un año**.
 - **LAS SEIS FASES DE LA INNOVACIÓN ABIERTA** · `[doc]` · **definición de retos** · **definición de
   verticales** · **programas de colaboración** · **scouting** · **pruebas de concepto** ·
   **evaluación de resultados** · **verticales**: **logística, ciberseguridad, fintech, movilidad

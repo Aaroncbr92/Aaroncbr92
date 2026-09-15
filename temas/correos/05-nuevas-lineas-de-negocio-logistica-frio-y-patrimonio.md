@@ -10,7 +10,7 @@
 | **Identificador** | — |
 | **Redacción que se estudia** | **No procede**: ninguna norma sostiene este tema |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 5**, reconocido ópticamente |
-| **Extensión** | **5.135 palabras** |
+| **Extensión** | **5.523 palabras** |
 
 <!-- /portada -->
 
@@ -39,6 +39,7 @@ aquí se pregunta son definiciones, siglas y clasificaciones.
 ## Índice
 
 - [1. Por qué Correos entra en logística](#1-por-qué-correos-entra-en-logística)
+  - [Las tres palabras del oficio, definidas](#las-tres-palabras-del-oficio-definidas)
 - [2. El almacén](#2-el-almacén)
   - [La externalización](#la-externalización)
 - [3. La unidad de carga](#3-la-unidad-de-carga)
@@ -77,6 +78,41 @@ esta sea manipulada ni almacenada**, uniendo origen con destino hasta la última
 explotar el dimensionamiento y las fortalezas de la compañía, y **capacitarla con los recursos
 necesarios** para las nuevas actividades. **El objetivo de fondo es reducir la dependencia del negocio
 postal.**
+
+### Las tres palabras del oficio, definidas
+
+**El examen pregunta por ellas sueltas, sin contexto**, así que van juntas y con la letra del
+documento.
+
+**La última milla.** Es **el último tramo del recorrido**, el que va del punto de distribución a las
+manos del cliente. El documento la sitúa así: **los grandes centros de Correos «unen origen con
+destino llegando a la denominada última milla»**. **El examen la preguntó por su significado** —es
+la número 33 del cuestionario de Reparto—, definida como **las acciones que transcurren desde que el
+paquete deja el punto de distribución hasta llegar a las manos del cliente final**.
+
+**El picking.** Citado del glosario:
+
+> «**El término picking es utilizado en la logística para designar a la estratégica tarea de
+> preparación de pedidos.**»
+
+---
+
+**Preparación de pedidos, ni más ni menos** —es la número 15 del cuestionario de Reparto—. **No es
+el transporte, ni el almacenaje, ni el inventario**: es **sacar del almacén lo que un pedido pide**,
+y por eso el tema le dedica un epígrafe entero con sus métodos.
+
+**Correos Logística.** Citado:
+
+> «**Correos Logística se encarga de la gestión de la cadena de suministro para las empresas que
+> contraten el servicio. Permite integrar los procesos logísticos y de distribución.**»
+
+---
+
+**Gestión de la cadena de suministro por contrato, integrando procesos logísticos y de
+distribución** —es la número 43 del cuestionario de Reparto—. **Sus dos soluciones son la logística
+B2B y la logística de comercio electrónico**, y las dos comparten **capacidad de almacenaje**,
+**preparación de pedidos adaptada**, **gestión de stocks con software especializado**, **seguimiento
+en tiempo real** y **transporte nacional, internacional y de logística inversa**.
 
 ## 2. El almacén
 
@@ -400,6 +436,18 @@ horas** y que monitorizan el contenido, **o mediante vehículos isotermos y refr
 | **Farmacia y salud** | **Cold chain** y **farmacia hospitalaria** |
 | **Alimentación** | **Distribución mayorista**, **servicios de proximidad** y **e-commerce/gourmet** |
 | **Servicios puntuales** | **Paq Frío para particulares** |
+
+**Y cada línea se transporta de una manera, que es donde el examen pone la trampa**, porque **las dos
+de farmacia y salud no usan el mismo medio**:
+
+| Línea | Transporte | Quién a quién |
+|---|---|---|
+| **Cold chain** | **Cajas isotérmicas** | **B2B**: **clientes, laboratorios**; **destino, hospitales y clínicas**; **producto, medicamentos, vacunas, muestras** |
+| **Farmacia hospitalaria** | **Cajas isotérmicas O vehículos isotermos, refrigerados o frigoríficos** | **B2C**: **clientes, hospitales**; **destino, particulares**; **producto, medicamentos de farmacia hospitalaria** |
+
+**Cold chain, sólo cajas; farmacia hospitalaria, cajas o vehículos.** **El examen preguntó por el
+transporte del Cold Chain** —es la número 71 del cuestionario de Reparto— y **la respuesta son las
+cajas isotérmicas**.
 
 **Del servicio Cold Chain, los dos rangos de temperatura son el dato**: **entre 2 y 8 grados** y
 **entre 15 y 25**. **Sus obligaciones incluyen el cumplimiento de las buenas prácticas de

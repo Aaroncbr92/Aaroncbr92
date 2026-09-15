@@ -154,6 +154,12 @@ DE MÁQUINA** —velocidades, apiladores, milímetros— · **su volcado es el m
 - **EL SEGUNDO ES UNA REGLA DE COMPETENCIA** · `[doc]` · **los operarios del SECTOR DE ALIMENTACIÓN
   de las configuraciones de automatización deciden el correo que pasa por máquina**, y **EN NINGÚN
   CASO se decide en los procesos previos** · **deciden en la alimentación; no deciden antes**.
+- **EL SISTEMA QUE LEE LA DIRECCIÓN** · `[doc]` · el reconocimiento óptico de caracteres
+  **(OCR**, *Optical Character Recognition***)**: **«el proceso por el cual una imagen de texto se convierte en un
+  formato de texto que puedan leer las máquinas»** · **lee direcciones MANUSCRITAS y DIGITALIZADAS**
+  y, **cuando no puede, la gestión la hace un operador** · cayó en **Reparto, nº 23** · después:
+  **impresión de un código de control**, **casilleros de preclasificación** y **clasificación según
+  destino final**.
 
 | Configuración | Qué hace |
 |---|---|

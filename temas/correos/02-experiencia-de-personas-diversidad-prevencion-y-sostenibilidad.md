@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | La **vigente hoy**. Se citan literalmente sus **artículos 15 y 29** |
 | **Norma de apoyo** | **Real Decreto 39/1997**, Reglamento de los Servicios de Prevención · `BOE-A-1997-1853`, con su **artículo 35.2.a)** y su **anexo IV** |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 2**, reconocido ópticamente |
-| **Extensión** | **9.504 palabras** |
+| **Extensión** | **9.617 palabras** |
 
 <!-- /portada -->
 
@@ -906,6 +906,20 @@ inversión especializados en startups**; y **plataformas de inversión colectiva
 **El ecosistema propio de Correos se llama CorreosLabs**, **está en el barrio de Las Tablas, en
 Madrid**, y **se creó en 2017**. **Hasta 2020 sus eventos eran exclusivamente presenciales**; desde
 entonces son híbridos. **Centraliza sus comunicaciones en labs.correos.es.**
+
+**Qué es exactamente, que es como se pregunta.** Citado:
+
+> «**CorreosLabs es el centro de innovación y emprendimiento de Correos.**» «**Está concebido como
+> el punto de encuentro de todas las iniciativas de Innovación Abierta de Correos, y de los equipos
+> de trabajo de los proyectos de emprendimiento de Correos.**»
+
+---
+
+**«El punto de encuentro de todas las iniciativas de innovación abierta» es la frase con la que el
+examen de 2023 lo señaló** —es la número 107 del cuestionario de Reparto—, sin nombrarlo: **quien
+reconoce la frase, contesta**. **Es además un espacio flexible de trabajo**, con **puestos de
+coworking**, **salas de reuniones** y **un auditorio**, **abierto a todo el ecosistema
+emprendedor**.
 
 **El programa de colaboración con startups es el Reto Lehnica**, y su mecánica es fija: **con cada
 startup ganadora de cada edición se desarrolla una prueba de concepto o proyecto piloto**, con

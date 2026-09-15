@@ -1,6 +1,6 @@
 # Correos · Tema 2 · Experiencia de personas, diversidad, prevención y sostenibilidad
 
-9 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
+12 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
 personal laboral fijo en el Grupo Profesional IV. La respuesta es la de la
 plantilla oficial; donde pone «anulada» es que la propia plantilla la anuló.
 
@@ -59,6 +59,20 @@ d) Conductas de la empresa para beneficiar a sus grupos de interés
 ```
 
 *La contesta el epígrafe 2.9.*
+
+---
+
+**Cuestionario-ATC_A_07052023 · nº 96 · respuesta: b**
+
+```
+¿Cuál de las siguientes opciones refleja mejor lo que es una Startup?
+a) Es una empresa establecida que opera en un sector determinado
+b) Es un proyecto empresarial emergente con un gran potencial de crecimiento
+c) Es un agente que invierte
+d) Es una entidad que facilita la gestión administrativa y genera ayudas con recursos y subvenciones Página 12 de 14 - ATC/A A
+```
+
+*La contesta el epígrafe 2.12.*
 
 ---
 
@@ -129,4 +143,32 @@ d) Los delegados de prevención Página 8 de 13 - REP/A A
 ```
 
 *La contesta el epígrafe 2.7.1.*
+
+---
+
+**Cuestionario-REP_A_07052023 · nº 89 · respuesta: c**
+
+```
+En Correos, ¿qué es el "Reto Lehnica"?
+a) Es el centro de innovación y emprendimiento de Correos
+b) Es un espacio flexible de trabajo que cuenta con salas de reuniones
+c) Es el programa de colaboración con emprendedores y startups de Correos
+d) Es un espacio flexible de trabajo que cuenta con puestos de coworking
+```
+
+*La contesta el epígrafe 2.12.*
+
+---
+
+**Cuestionario-REP_A_07052023 · nº 107 · respuesta: d**
+
+```
+¿Cuál de los siguientes proyectos está reflejado en la expresión: "Está concebido como el punto de encuentro de todas las iniciativas de innovación abierta de Correos"?
+a) Reto Lehnica
+b) Spain startup
+c) Correos Cash
+d) CorreosLabs
+```
+
+*La contesta el epígrafe 2.12.*
 

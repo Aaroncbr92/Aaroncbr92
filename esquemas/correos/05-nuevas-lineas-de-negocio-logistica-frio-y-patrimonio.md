@@ -48,6 +48,12 @@ NÚMERO** —cuatro objetivos, seis principios, diez unidades de carga, cinco si
 - **LA AMBICIÓN DECLARADA, DOBLE** · `[doc]` · **explorar nuevos modelos de negocio** que exploten
   el dimensionamiento y las fortalezas de la compañía, y **capacitarla con los recursos necesarios**
   · **el objetivo de fondo es reducir la dependencia del negocio postal**.
+- **LAS TRES PALABRAS QUE EL EXAMEN PREGUNTA SUELTAS** · `[doc]` · **ÚLTIMA MILLA**: el tramo que va
+  **del punto de distribución a las manos del cliente final** —cayó en **Reparto, nº 33**— ·
+  **PICKING**: **«la estratégica tarea de preparación de pedidos»**, ni transporte ni almacenaje
+  —cayó en **Reparto, nº 15**— · **CORREOS LOGÍSTICA**: **«la gestión de la cadena de suministro
+  para las empresas que contraten el servicio»**, que **integra procesos logísticos y de
+  distribución**, con dos soluciones, **B2B** y **e-commerce** —cayó en **Reparto, nº 43**—.
 
 ## El almacén
 
@@ -308,6 +314,10 @@ NÚMERO** —cuatro objetivos, seis principios, diez unidades de carga, cinco si
 | **Alimentación** | **Distribución mayorista**, **servicios de proximidad**, **e-commerce/gourmet** |
 | **Servicios puntuales** | **Paq Frío para particulares** |
 
+- **CADA LÍNEA VIAJA DE UNA MANERA, Y AHÍ ESTÁ LA TRAMPA** · `[doc]` · **COLD CHAIN: sólo CAJAS
+  ISOTÉRMICAS** · **B2B**, de **laboratorios** a **hospitales y clínicas**, con **medicamentos,
+  vacunas y muestras** — cayó en **Reparto, nº 71** · **FARMACIA HOSPITALARIA: cajas isotérmicas O
+  vehículos isotermos, refrigerados o frigoríficos** · **B2C**, de **hospitales** a **particulares**.
 - **LOS DOS RANGOS DEL COLD CHAIN** · `[doc]` · **entre 2 y 8 grados** y **entre 15 y 25** ·
   obligaciones: **cumplimiento de las GDP, obligatorias POR LEY**; **validación de embalajes**;
   **adaptación de locales, equipos y personal a pharma**; **estar homologado por el laboratorio o la

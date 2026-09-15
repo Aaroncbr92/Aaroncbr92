@@ -1,6 +1,6 @@
 # Correos · Tema 8 · Procesos operativos II: tratamiento y transporte
 
-11 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
+12 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
 personal laboral fijo en el Grupo Profesional IV. La respuesta es la de la
 plantilla oficial; donde pone «anulada» es que la propia plantilla la anuló.
 
@@ -75,6 +75,20 @@ b) CLI Barcelona
 c) CTA Colón
 d) CTP El Prat
 ```
+
+---
+
+**Cuestionario-REP_A_07052023 · nº 23 · respuesta: b**
+
+```
+En el ámbito de un centro logístico, ¿cuál es el significado de las siglas OCR?
+a) Se trata de la oficina de control de reembolsos, que se encarga del tratamiento y control contable de ese tipo de envíos.
+b) Es un sistema de reconocimiento óptico de caracteres, utilizado en el proceso automatizado de clasificación de envíos.
+c) Es un sistema de rotación de cargas para maximizar la ocupación de los transportes entre los centros de tratamiento.
+d) Es un sistema de clasificación manual utilizado cuando las máquinas de clasificación no han direccionado correctamente los envíos.
+```
+
+*La contesta el epígrafe 8.6.1.*
 
 ---
 

@@ -1,6 +1,6 @@
 # Correos · Tema 5 · Nuevas líneas de negocio: logística, frío y patrimonio
 
-13 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
+9 preguntas reales del examen del 7 de mayo de 2023 para el ingreso de
 personal laboral fijo en el Grupo Profesional IV. La respuesta es la de la
 plantilla oficial; donde pone «anulada» es que la propia plantilla la anuló.
 
@@ -19,6 +19,8 @@ c) Palets refrigerados
 d) Vehículos isotermos, refrigerados o frigoríficos
 ```
 
+*La contesta el epígrafe 5.9.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 40 · respuesta: d**
@@ -30,6 +32,8 @@ b) 24 horas
 c) 36 horas
 d) 48 horas
 ```
+
+*La contesta el epígrafe 5.9.*
 
 ---
 
@@ -43,17 +47,7 @@ c) Es una nueva línea de negocio que ofrece a los clientes soluciones de logís
 d) Es una nueva línea de negocio que ofrece a los clientes soluciones de transporte a temperatura controlada a nivel internacional.
 ```
 
----
-
-**Cuestionario-ATC_A_07052023 · nº 96 · respuesta: b**
-
-```
-¿Cuál de las siguientes opciones refleja mejor lo que es una Startup?
-a) Es una empresa establecida que opera en un sector determinado
-b) Es un proyecto empresarial emergente con un gran potencial de crecimiento
-c) Es un agente que invierte
-d) Es una entidad que facilita la gestión administrativa y genera ayudas con recursos y subvenciones Página 12 de 14 - ATC/A A
-```
+*La contesta el epígrafe 5.9.*
 
 ---
 
@@ -67,6 +61,8 @@ c) Flujo en el que el lote de stock que primero caduca, de los que hay en el alm
 d) Ninguna de las respuestas anteriores es correcta Página 14 de 14 - ATC/A A
 ```
 
+*La contesta el epígrafe 5.5.1.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 15 · respuesta: b**
@@ -79,17 +75,7 @@ c) El término picking es utilizado en la logística para designar la tarea de u
 d) El término picking es utilizado en la logística para designar la tarea de recepcionar la mercancía en el almacén
 ```
 
----
-
-**Cuestionario-REP_A_07052023 · nº 23 · respuesta: b**
-
-```
-En el ámbito de un centro logístico, ¿cuál es el significado de las siglas OCR?
-a) Se trata de la oficina de control de reembolsos, que se encarga del tratamiento y control contable de ese tipo de envíos.
-b) Es un sistema de reconocimiento óptico de caracteres, utilizado en el proceso automatizado de clasificación de envíos.
-c) Es un sistema de rotación de cargas para maximizar la ocupación de los transportes entre los centros de tratamiento.
-d) Es un sistema de clasificación manual utilizado cuando las máquinas de clasificación no han direccionado correctamente los envíos.
-```
+*La contesta el epígrafe 5.2.1.*
 
 ---
 
@@ -103,6 +89,8 @@ c) El transporte desde el centro de clasificación hasta el punto de distribuci�
 d) Las acciones que transcurren desde que el paquete deja el punto de distribución, hasta llegar a las manos del cliente final.
 ```
 
+*La contesta el epígrafe 5.2.1.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 43 · respuesta: a**
@@ -114,6 +102,8 @@ b) Es la nueva línea de negocio de Correos que permite realizar el transporte d
 c) Es la nueva línea de negocio de Correos que permite ofrecer soluciones de telecomunicaciones a los clientes
 d) Es la nueva línea de negocio de Correos que se encarga de ofrecer soluciones de transporte de paquetería urgente.
 ```
+
+*La contesta el epígrafe 5.2.1.*
 
 ---
 
@@ -127,29 +117,7 @@ c) Cajas isotérmicas
 d) Ninguna de las respuestas anteriores es correcta
 ```
 
----
-
-**Cuestionario-REP_A_07052023 · nº 89 · respuesta: c**
-
-```
-En Correos, ¿qué es el "Reto Lehnica"?
-a) Es el centro de innovación y emprendimiento de Correos
-b) Es un espacio flexible de trabajo que cuenta con salas de reuniones
-c) Es el programa de colaboración con emprendedores y startups de Correos
-d) Es un espacio flexible de trabajo que cuenta con puestos de coworking
-```
-
----
-
-**Cuestionario-REP_A_07052023 · nº 107 · respuesta: d**
-
-```
-¿Cuál de los siguientes proyectos está reflejado en la expresión: "Está concebido como el punto de encuentro de todas las iniciativas de innovación abierta de Correos"?
-a) Reto Lehnica
-b) Spain startup
-c) Correos Cash
-d) CorreosLabs
-```
+*La contesta el epígrafe 5.9.*
 
 ---
 
@@ -162,4 +130,6 @@ b) Monitorización de la temperatura
 c) Asegurar la temperatura del transporte a -80ºC
 d) Asegurar la temperatura del transporte entre 15ºC y 25ºC Página 13 de 13 - REP/A
 ```
+
+*La contesta el epígrafe 5.9.*
 

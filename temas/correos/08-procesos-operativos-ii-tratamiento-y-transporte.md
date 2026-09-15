@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | **No procede.** La **Ley 43/2010**, de la que salen las seis operaciones postales, va en su redacción vigente |
 | **Norma de apoyo** | **Ley 43/2010** · `BOE-A-2010-20139` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 8**, reconocido ópticamente |
-| **Extensión** | **3.014 palabras** |
+| **Extensión** | **3.233 palabras** |
 
 <!-- /portada -->
 
@@ -50,6 +50,7 @@ asignación se estudia con un mapa y una tabla, no con prosa.**
 - [3. Las cuatro redes de transporte](#3-las-cuatro-redes-de-transporte)
 - [4. El equipamiento postal](#4-el-equipamiento-postal)
 - [5. El tratamiento del correo ordinario](#5-el-tratamiento-del-correo-ordinario)
+  - [El sistema OCR, y lo que hace cuando no puede](#el-sistema-ocr-y-lo-que-hace-cuando-no-puede)
   - [Las cuatro configuraciones](#las-cuatro-configuraciones)
   - [Qué correo se retira a mano](#qué-correo-se-retira-a-mano)
   - [Las medidas del correo automatizable](#las-medidas-del-correo-automatizable)
@@ -210,6 +211,33 @@ pregunta**, y **el toro es el único que no sirve para descargar camiones.**
 **Y el segundo**: **los operarios del sector de alimentación de las configuraciones de automatización
 deciden el correo que pasa por máquina**, y **en ningún caso se decide en los procesos previos**.
 **Deciden en la alimentación; no deciden antes.**
+
+### El sistema OCR, y lo que hace cuando no puede
+
+**La máquina lee la dirección, y el sistema que la lee tiene nombre y siglas.** Citado del glosario
+del documento:
+
+> «**OCR (Optical Character Recognition): Reconocimiento óptico de caracteres. Es el proceso por el
+> cual una imagen de texto se convierte en un formato de texto que puedan leer las máquinas.**»
+
+---
+
+**Reconocimiento óptico de caracteres, y en el centro sirve para clasificar.** **El examen de 2023
+preguntó por esas siglas** —es la número 23 del cuestionario de Reparto—. **Su uso lo describe el
+documento en una frase que la maquetación parte entre dos páginas**, así que se da en prosa y sólo
+se cita el tramo que cabe entero:
+
+> «**si el sistema OCR no pudiera leer correctamente una dirección será un operador quién hará la
+> gestión**»
+
+---
+
+**Con el sistema OCR disponible en el proceso automatizado de clasificación, las máquinas pueden
+leer tanto las direcciones manuscritas como las digitalizadas**; **lee manuscritas y digitalizadas,
+y cuando no puede, lo resuelve una persona.** **Después viene la
+impresión en el envío de un código de control** con la información necesaria para terminar el
+tratamiento, **la asignación a casilleros de preclasificación en función de ese código** y **la
+clasificación según destino final** hacia el transporte que le toque.
 
 ### Las cuatro configuraciones
 
