@@ -5,7 +5,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[doc]` = documento de 
 oficial de identidad (**DOI**); el franqueo en destino (**FD**); el código de red (**Codired**); la
 Unidad de Admisión Masiva (**UAM**); el asistente digital personal (**PDA**); Albaranes y Depósitos
 Online (**ADO**); la Unión Postal Universal (**UPU**); y la Organización de Aviación Civil
-Internacional (**OACI**).
+Internacional (**OACI**). Y las que este esquema usa además: la Fábrica Nacional de Moneda y Timbre (**FNMT**); la herramienta que genera albaranes de entrega en formato PDF (**GANES**); la aplicación de movilidad de la PDA (**HERA**); y la aplicación de admisión y venta en oficinas (**IRIS**).
 
 **Cabecera.** **El primero de los tres temas de proceso, y el que más LISTAS CERRADAS tiene**:
 cuatro medios de pago, catorce objetos prohibidos, nueve clases de mercancía peligrosa, siete

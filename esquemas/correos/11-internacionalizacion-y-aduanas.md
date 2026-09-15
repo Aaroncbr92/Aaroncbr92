@@ -6,7 +6,7 @@ Unión Postal Universal (**UPU**) y la Unión Postal de las Américas, España y
 la Organización Mundial de Aduanas (**OMA**); el centro de tratamiento internacional (**CTI**); el
 mensaje de avance electrónico de datos (**ITMATT**); el sistema de información anticipada sobre la
 carga (**ICS2**); la ventanilla única de importación (**IOSS**); el impuesto sobre el valor añadido
-(**IVA**); el documento único administrativo (**DUA**); y empresa a particular (**B2C**).
+(**IVA**); el documento único administrativo (**DUA**); y empresa a particular (**B2C**). Y las que este esquema usa además: la Comisión Nacional de los Mercados y la Competencia (**CNMC**); las oficinas de cambio exportadoras de Madrid-Barajas (**ESMAD**) y Barcelona-El Prat (**ESBCN**), con los códigos de aeropuerto de Madrid (**MAD**) y Barcelona (**BCN**); la sociedad compartida en China (**KCG**); la Organización de las Naciones Unidas (**ONU**); el asistente digital personal (**PDA**); el sistema de gestión integral de envíos (**SGIE**); y la aplicación de admisión y venta en oficinas (**IRIS**).
 
 **Cabecera.** **Dos mitades que no se parecen**: **la primera es CIFRAS DE NEGOCIO** —millones de
 euros, porcentajes, países, delegaciones— y **la segunda es PROCEDIMIENTO ADUANERO**, donde **no hay

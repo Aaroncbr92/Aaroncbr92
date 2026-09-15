@@ -7,7 +7,7 @@ Europea para la Gestión de la Calidad (**EFQM**); la Organización Internaciona
 (**REDER**); el sistema de panelistas externos (**SPEX**); la International Post Corporation
 (**IPC**) y la Unión Postal Universal (**UPU**); la identificación por radiofrecuencia (**RFID**);
 la resolución en primer nivel (**FCR**); la Comisión Nacional de los Mercados y la Competencia
-(**CNMC**); y el centro de tratamiento internacional (**CTI**).
+(**CNMC**); y el centro de tratamiento internacional (**CTI**). Y las que este esquema usa además: el sistema de información corporativo de la radiofrecuencia (**COCAL**); el Centro de Tratamiento Postal (**CTP**); el servicio postal universal (**SPU**); y la norma española que traspone la europea (**UNE EN**).
 
 **Cabecera.** **El tema de los NÚMEROS DE LISTA**: **ocho conceptos, nueve criterios, mil puntos,
 siete principios, seis atributos, ocho categorías** · **casi toda pregunta es «cuántos» o «cuál no

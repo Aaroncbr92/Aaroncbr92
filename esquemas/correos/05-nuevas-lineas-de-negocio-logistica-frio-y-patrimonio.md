@@ -7,7 +7,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[doc]` = documento de 
 (**SGA**); el retorno de la inversión (**ROI**); la identificación por radiofrecuencia (**RFID**);
 el número europeo de artículo (**EAN**); las buenas prácticas de distribución (**GDP**); la Agencia
 Española de Medicamentos y Productos Sanitarios (**AEMPS**); y hoteles, restaurantes y cafeterías
-(**HORECA**).
+(**HORECA**). Y las que este esquema usa además: la Oficina de Registro Virtual de Entidades (**ORVE**); la radiofrecuencia (**RF**); y el código universal de producto (**UPC**).
 
 **Cabecera.** **El tema que NO es de Correos**: describe **la disciplina logística** —vocabulario,
 sistemas de almacenaje, métodos de picking— y **Correos sólo aparece al final**, en el frío y en el

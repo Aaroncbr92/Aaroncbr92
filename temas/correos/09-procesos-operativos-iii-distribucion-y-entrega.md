@@ -927,8 +927,8 @@ objetivo de calidad que es la mitad del real**, y **ninguna herramienta habría 
 45 son porcentajes perfectamente posibles**.
 
 **La tercera es lo que enseña este tema sobre el método, y vale para los doce.** **Las cifras
-corregidas aquí no se corrigieron por parecido ni por conjetura**: **cada una está registrada en
-**el registro de correcciones de este temario** con la columna que dice cómo se comprobó**, y **las de
+corregidas aquí no se corrigieron por parecido ni por conjetura**: **cada una está registrada en el
+registro de correcciones de este temario, con la columna que dice cómo se comprobó**, y **las de
 este tema se comprobaron todas a la vista sobre su página impresa, o por la estructura del propio
 documento** —que un tema cuyo epígrafe 9.8.8 es «Gestión de la bolsa» no puede tener un 9.8.4
 llamado «Devoluciones» detrás de él—. **Corregir a ciegas sería cambiar un invento por otro.**

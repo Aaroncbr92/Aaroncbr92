@@ -9,7 +9,7 @@ Sistema de Información y Control de Envíos Registrados (**SICER**); Sistema de
 de acceso (**SIGUA**); información estadística (**SIE**); Gestión de Productos de Venta en Oficina
 (**GPVO**); el asistente digital personal (**PDA**); la gestión de relaciones con el cliente
 (**CRM**); la Organización Nacional de Ciegos Españoles (**ONCE**); el código de red (**Codired**);
-y la nube de Amazon (**AWS**).
+y la nube de Amazon (**AWS**). Y una que este esquema usa además: el perfil de administración de Minerva (**MINERVA-ADMIN**).
 
 **Cabecera.** **Treinta y tres páginas, el tema MÁS CORTO del documento y el más fácil de
 suspender**: **no hay doctrina, sólo una lista de aplicaciones con lo que hace cada una** · **son

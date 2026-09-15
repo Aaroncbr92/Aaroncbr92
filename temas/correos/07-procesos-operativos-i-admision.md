@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | La **vigente hoy**. Se cita literalmente su **artículo 76**, sobre insuficiencia de franqueo, que **es donde está la cuantía que el documento de empresa no da** |
 | **Norma de apoyo** | **Ley 43/2010** · `BOE-A-2010-20139`, con su **artículo 24** |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 7**, reconocido ópticamente |
-| **Extensión** | **5.954 palabras** |
+| **Extensión** | **5.953 palabras** |
 
 <!-- /portada -->
 
@@ -368,7 +368,8 @@ salvo que lo franquee por el importe de la tarifa por insuficiencia.**
 artículo 76 del Reglamento que regula la prestación de los servicios postales, aprobado por Real
 Decreto 1829/1999**, y **el envío se cursa a destino y se entrega como correo ordinario**.
 
-**Ese artículo 76 dice algo que el documento de referencia no recoge, y conviene saberlo.** Citado:
+**Artículo 76, y dice algo que el documento de referencia no recoge.** Conviene saberlo,
+citado:
 
 > «**Los envíos postales destinados a circular por el territorio nacional que ingresen en la red pública
 > postal sin franqueo o con franqueo insuficiente deberán abonar en concepto de insuficiencia de

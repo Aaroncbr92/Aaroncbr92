@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | La **vigente hoy**, no la de 2022. Su disposición adicional primera dice hoy **veinte años** donde en 2022 decía quince: el cambio lo hizo la **Ley 6/2025, de 28 de julio**, y el tema lo desarrolla con las cuatro redacciones delante |
 | **Norma de apoyo** | **Real Decreto 1829/1999**, Reglamento postal · `BOE-A-1999-24919` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 1**, reconocido ópticamente |
-| **Extensión** | **5.124 palabras** |
+| **Extensión** | **5.307 palabras** |
 
 <!-- /portada -->
 
@@ -23,10 +23,11 @@ de Radio y Televisión Española (**RTVE**); y el Grupo de Reguladores Europeos 
 (**ERGP**, por sus siglas inglesas).
 
 > Enunciado del programa (Anexo III del Primer Desarrollo de las Bases de la convocatoria de ingreso
-> de personal laboral fijo en la Sociedad Estatal Correos y Telégrafos, Grupo Profesional IV, tema 1):
-> «TEMA 1. Correos: marco normativo postal y naturaleza jurídica. Organismos reguladores nacionales e
-> internacionales. Organizaciones postales internacionales en las que participa o tienen vinculación
-> con Correos. Organización del Grupo Correos. Correos y su adaptación a los cambios.»
+> de personal laboral fijo en la Sociedad Estatal Correos y Telégrafos, Grupo Profesional IV, tema
+> 1): «TEMA 1. Correos: marco normativo postal y naturaleza jurídica. Organismos reguladores
+> nacionales e internacionales. Organizaciones postales internacionales en las que participa o
+> tienen vinculación con Correos. Organización del Grupo Correos. Correos y su adaptación a los
+> cambios.»
 
 **Aviso de procedencia de este volumen, y vale para los doce temas.** **El programa que aquí se
 desarrolla es el Anexo III del Primer Desarrollo de las Bases**, publicado el **14 de octubre de
@@ -35,11 +36,11 @@ apunta a que la convocatoria siguiente reutiliza sus doce temas; **si cambiara, 
 que rehacerlo y se dice.**
 
 **Y un segundo aviso, que gobierna el volumen entero.** **El Anexo III no describe contenidos:
-enumera doce títulos y remite a un documento que publica la propia Correos**, mil trescientas treinta
-y cuatro páginas en doce PDF. **De ahí salieron las preguntas del examen de 2023**, y de ahí sale
-este temario. **Pero ese documento no es una norma**: cuando dice algo distinto de lo que dice el
-Boletín Oficial del Estado, **manda el Boletín, y este temario lo advierte.** En este tema pasa una
-vez, y es la más importante de todas.
+enumera doce títulos y remite a un documento que publica la propia Correos**, mil trescientas
+treinta y cuatro páginas en doce PDF. **De ahí salieron las preguntas del examen de 2023**, y de ahí
+sale este temario. **Pero ese documento no es una norma**: cuando dice algo distinto de lo que dice
+el Boletín Oficial del Estado, **manda el Boletín, y este temario lo advierte.** En este tema pasa
+una vez, y es la más importante de todas.
 
 <!-- indice -->
 
@@ -85,9 +86,9 @@ explica así**, hablando de la **«Sociedad Estatal Correos y Telégrafos, S.A.,
 
 **Artículo de la Ley 43/2010, disposición adicional primera**, en su redacción vigente, citada:
 
-> «**La Sociedad Estatal Correos y Telégrafos, S.A., S.M.E., tiene la condición de operador designado
-> por el Estado para prestar el servicio postal universal por un período de 20 años a partir de la
-> entrada en vigor de la presente ley**»
+> «**La Sociedad Estatal Correos y Telégrafos, S.A., S.M.E., tiene la condición de operador
+> designado por el Estado para prestar el servicio postal universal por un período de 20 años a
+> partir de la entrada en vigor de la presente ley**»
 
 ---
 
@@ -98,8 +99,8 @@ número de años, no el año de vencimiento.
 
 ### Cómo cambió, que es un caso de libro
 
-**La disposición adicional primera tiene cuatro redacciones**, y la cadena merece verse entera porque
-enseña a leer un texto consolidado:
+**La disposición adicional primera tiene cuatro redacciones**, y la cadena merece verse entera
+porque enseña a leer un texto consolidado:
 
 | Vigencia | Qué dice | Norma que lo hace |
 |---|---|---|
@@ -143,8 +144,8 @@ documento de referencia sin contrastarlo con el Boletín contestará «2026» co
 
 ---
 
-**No es una errata del Boletín: es cómo funciona la consolidación.** **Cuando una reforma modifica el
-articulado, el preámbulo no se toca**, porque el preámbulo es de la ley original y explica lo que
+**No es una errata del Boletín: es cómo funciona la consolidación.** **Cuando una reforma modifica
+el articulado, el preámbulo no se toca**, porque el preámbulo es de la ley original y explica lo que
 aquella ley quiso hacer. **De modo que un texto consolidado puede tener el preámbulo diciendo una
 cosa y la disposición diciendo otra, y las dos estar bien impresas.**
 
@@ -155,8 +156,9 @@ explica pero no manda.**
 
 **Su definición, del documento de referencia**, citada:
 
-> «**Servicio postal universal: Conjunto de servicios postales cuya prestación garantiza el Estado de
-> forma permanente en todo el territorio nacional y a precio asequible para todos los usuarios.**»
+> «**Servicio postal universal: Conjunto de servicios postales cuya prestación garantiza el Estado
+> de forma permanente en todo el territorio nacional y a precio asequible para todos los
+> usuarios.**»
 
 ---
 
@@ -167,7 +169,8 @@ nacional** y **a precio asequible**.
 
 > «**Este servicio incluye los postales nacionales y transfronterizos, tanto de cartas y tarjetas
 > postales de hasta dos kilogramos de peso, como de paquetes postales de hasta veinte kilogramos de
-> peso, así como de los servicios de certificado y valor declarado para los envíos antes indicados.**»
+> peso, así como de los servicios de certificado y valor declarado para los envíos antes
+> indicados.**»
 
 ---
 
@@ -187,8 +190,8 @@ el ámbito del servicio postal universal a 20 kilogramos.**»
 **Y la autoprestación tiene definición propia**, que es de las que caen:
 
 > «**Autoprestación: Envío efectuado directamente por su remitente o mediante un tercero. El tercero
-> que presta el servicio postal para el remitente deberá realizar el proceso postal completo (recoger,
-> admitir, clasificar, transportar, distribuir y entregar los envíos).**»
+> que presta el servicio postal para el remitente deberá realizar el proceso postal completo
+> (recoger, admitir, clasificar, transportar, distribuir y entregar los envíos).**»
 
 ---
 
@@ -210,10 +213,28 @@ y entregar.** **Ésa es la cadena postal entera**, y es el esqueleto de los tema
 
 ---
 
-**Tres principios rectores —equidad, no discriminación y continuidad— y una cuarta palabra que el
-documento añade para la adjudicación**: **transparencia, no discriminación y proporcionalidad.** **No
-son la misma lista y conviene no mezclarlas**: la primera rige **cómo se presta** el servicio; la
-segunda, **cómo se adjudica**.
+**Artículo 22, apartado 1, letra c): la ley dice más que el documento en el tercer principio**, con
+dos diferencias que conviene tener. Escribe la continuidad así, citado:
+
+> «**Continuidad: no interrumpir ni suspender el servicio, salvo en casos de fuerza mayor y previa
+> comunicación a la Comisión Nacional del Sector Postal, que podrá denegarla.**»
+
+---
+
+**La primera diferencia es una facultad que el documento se deja**: **la comunicación no basta**,
+porque **el regulador puede denegarla**. **La segunda es el nombre del órgano**: la ley sigue
+diciendo **Comisión Nacional del Sector Postal**, que es el organismo que la Ley 3/2013 suprimió al
+crear la Comisión Nacional de los Mercados y la Competencia. **Ahí el documento va por delante de la
+norma y acierta**: quien ejerce hoy esa competencia es la CNMC.
+
+**Y el mismo apartado 1 nombra un principio más que el documento no lista aparte**: los cinco de la
+ley son **equidad, no discriminación, continuidad, buena fe y adaptación a las necesidades de los
+usuarios**; el documento define los tres primeros y no define los dos últimos.
+
+**Tres principios rectores definidos —equidad, no discriminación y continuidad— y una cuarta palabra
+que el documento añade para la adjudicación**: **transparencia, no discriminación y
+proporcionalidad.** **No son la misma lista y conviene no mezclarlas**: la primera rige **cómo se
+presta** el servicio; la segunda, **cómo se adjudica**.
 
 ### El plan de prestación y el contrato regulador
 
@@ -258,9 +279,9 @@ las dos que se cruzan en un examen.
 **El punto de partida, citado:**
 
 > «**Históricamente, el sector postal ha sido un monopolio de los Estados. En el caso de la Unión
-> Europea, la liberalización comenzó en 1992, con la elaboración del «Libro Verde sobre el desarrollo
-> del mercado único de los servicios postales». En España, se alcanzó la libre competencia del mercado
-> en 2011.**»
+> Europea, la liberalización comenzó en 1992, con la elaboración del «Libro Verde sobre el
+> desarrollo del mercado único de los servicios postales». En España, se alcanzó la libre
+> competencia del mercado en 2011.**»
 
 ---
 
@@ -337,8 +358,8 @@ adjudicador, de acuerdo con las reglamentaciones europeas, con lo que su régime
 otras entidades del sector público sin naturaleza de poder adjudicador».** **Aquí se cita sólo el
 tramo que el volcado devuelve seguido**, porque el documento lleva un glosario en el margen y **sus
 renglones se intercalan entre los del cuerpo**: entre «Correos no» y «tiene la condición» el volcado
-mete la palabra «Público.», que es el final de una entrada del glosario. **Se advierte en el epígrafe
-8.**
+mete la palabra «Público.», que es el final de una entrada del glosario. **Se advierte en el
+epígrafe 8.**
 
 ---
 
@@ -348,20 +369,20 @@ los **artículos 321 y 322 de la Ley 9/2017**.
 
 **El artículo 321.1, citado por el propio documento:**
 
-> «**1. Los órganos competentes de estas entidades aprobarán unas instrucciones en las que regulen los
-> procedimientos de contratación de forma que quede garantizada la efectividad de los principios de
-> publicidad, concurrencia, transparencia, confidencialidad, igualdad y no discriminación, así como
-> que los contratos se adjudiquen a quienes presenten la mejor oferta, de conformidad con lo dispuesto
-> en el artículo 145**»
+> «**1. Los órganos competentes de estas entidades aprobarán unas instrucciones en las que regulen
+> los procedimientos de contratación de forma que quede garantizada la efectividad de los principios
+> de publicidad, concurrencia, transparencia, confidencialidad, igualdad y no discriminación, así
+> como que los contratos se adjudiquen a quienes presenten la mejor oferta, de conformidad con lo
+> dispuesto en el artículo 145**»
 
 ---
 
 **Seis principios en esa lista**: **publicidad, concurrencia, transparencia, confidencialidad,
 igualdad y no discriminación.**
 
-**Y para los contratos de servicios postales por encima de los umbrales**, rige el **Real Decreto-ley
-3/2020**, cuyo artículo 13 los define, y que **derogó la Ley 31/2007**, la que mencionaba
-expresamente a Correos como entidad contratante.
+**Y para los contratos de servicios postales por encima de los umbrales**, rige el **Real
+Decreto-ley 3/2020**, cuyo artículo 13 los define, y que **derogó la Ley 31/2007**, la que
+mencionaba expresamente a Correos como entidad contratante.
 
 **En materia patrimonial**, el **título VII de la Ley 33/2003**, de Patrimonio de las
 Administraciones Públicas, y **una frase que conviene retener**: **«los bienes del patrimonio de
@@ -369,8 +390,9 @@ Correos tienen naturaleza de bienes públicos».**
 
 ## 5. Los derechos de los usuarios
 
-**El título II de la Ley 43/2010 es una carta de derechos**, y el documento de referencia los recorre
-con su artículo al lado. **Ésta es la tabla del epígrafe**, y la ordenación es de este temario:
+**El título II de la Ley 43/2010 es una carta de derechos**, y el documento de referencia los
+recorre con su artículo al lado. **Ésta es la tabla del epígrafe**, y la ordenación es de este
+temario:
 
 | Derecho | Dónde |
 |---|---|
@@ -414,7 +436,7 @@ es distinto**, citado en sus cuatro puntos:
 exclusivas legales**: nadie más puede llamarse «Correos» ni usar «España», y **nadie más puede
 distribuir notificaciones administrativas y judiciales con presunción de veracidad**.
 
-**Sobre esa presunción, el apartado 4 del artículo 22 de la Ley 43/2010**, citado:
+**Artículo 22, apartado 4**, sobre esa presunción. Así lo escribe la Ley 43/2010, citado:
 
 > «**La actuación del operador designado gozará de la presunción de veracidad y fehaciencia en la
 > distribución, entrega y recepción o rehúse o imposibilidad de entrega de notificaciones de órganos
@@ -422,8 +444,8 @@ distribuir notificaciones administrativas y judiciales con presunción de veraci
 
 ---
 
-**Presunción de veracidad y fehaciencia.** **Es el activo jurídico más valioso que Correos tiene**, y
-explica por qué la Administración le encarga sus notificaciones.
+**Presunción de veracidad y fehaciencia.** **Es el activo jurídico más valioso que Correos tiene**,
+y explica por qué la Administración le encarga sus notificaciones.
 
 ## 6. Los organismos reguladores
 
@@ -448,8 +470,8 @@ Competencia de 1964** y a la **Comisión Nacional de la Competencia creada forma
    compensarse, conforme al anexo metodológico del plan de prestación.
 2. **Vigilar el acceso a la red postal** con transparencia, proporcionalidad y no discriminación;
    **aprobar el contrato tipo de acceso**; supervisar que las tarifas de acceso sean coherentes con
-   los costes; y garantizar el acceso a infraestructuras como **el sistema de código postal o la base
-   de datos de direcciones**.
+   los costes; y garantizar el acceso a infraestructuras como **el sistema de código postal o la
+   base de datos de direcciones**.
 3. **Resolver conflictos entre operadores**, mediando conforme al **Real Decreto 1248/2006**, y
    **pudiendo imponer multas cuando aprecie temeridad o mala fe**, por el **artículo 48 de la Ley
    43/2010**.
@@ -465,8 +487,8 @@ le atribuye **la disposición adicional undécima de la Ley 3/2013**, y son **ci
 3. **Conocer de las quejas y denuncias** por incumplimiento, e **informar al menos semestralmente a
    la Comisión Nacional de los Mercados y la Competencia** de las actuaciones realizadas.
 4. **Ejercer la potestad de inspección y sanción** en esas funciones.
-5. **Otorgar las autorizaciones singulares**, recibir las declaraciones responsables y **gestionar el
-   Registro General de empresas prestadoras de servicios postales**.
+5. **Otorgar las autorizaciones singulares**, recibir las declaraciones responsables y **gestionar
+   el Registro General de empresas prestadoras de servicios postales**.
 
 **Dentro del Ministerio**, la **Subdirección General de Régimen Postal**, adscrita a la Secretaría
 General Técnica, tiene por el artículo 14.3.e) del Real Decreto 645/2020 la definición de las
@@ -481,8 +503,8 @@ autorizaciones singulares se equivocará, porque parece cosa del regulador y es 
 ### Internacionales
 
 **La Unión Postal Universal** es la que fija las reglas del intercambio postal internacional. **Sus
-normas son las «Actas de la Unión Postal», y se dividen en dos clases**, que es exactamente lo que se
-pregunta:
+normas son las «Actas de la Unión Postal», y se dividen en dos clases**, que es exactamente lo que
+se pregunta:
 
 | Clase | Actas | Nota |
 |---|---|---|
@@ -498,9 +520,9 @@ está sujeta a reservas y cuál no**: **la Constitución no lo está; el Conveni
 **Y la Unión Postal Universal establece además estándares de dos clases**, citados:
 
 > «**1. Estándares técnicos, que describen y estipulan cómo deben diseñarse, entre otros elementos,
-> las etiquetas, direcciones, nombres o códigos de las Oficinas de Cambio.**
-> **2. Estándares para mensajes electrónicos (mensajería EDI), que definen los formatos y contenidos
-> de los mensajes intercambiados entre los operadores postales de todo el mundo.**»
+> las etiquetas, direcciones, nombres o códigos de las Oficinas de Cambio.** **2. Estándares para
+> mensajes electrónicos (mensajería EDI), que definen los formatos y contenidos de los mensajes
+> intercambiados entre los operadores postales de todo el mundo.**»
 
 ---
 
@@ -515,8 +537,8 @@ técnicas del Comité Europeo de Normalización**.
 **Correos pertenece al Grupo SEPI**, la Sociedad Estatal de Participaciones Industriales, **entidad
 de derecho público adscrita al Ministerio de Hacienda y Función Pública**. Del documento, citado:
 
-> «**El Grupo SEPI abarca 15 empresas participadas de forma directa y mayoritaria por el Estado, entre
-> ellas la Corporación RTVE. Tiene una plantilla superior a 78.000 personas; también tiene
+> «**El Grupo SEPI abarca 15 empresas participadas de forma directa y mayoritaria por el Estado,
+> entre ellas la Corporación RTVE. Tiene una plantilla superior a 78.000 personas; también tiene
 > participaciones directas minoritarias en nueve empresas e indirectas en más de cien sociedades.**»
 
 ---
@@ -561,30 +583,30 @@ ahí**.
 **Una advertencia sobre la comprobación de este tema**: **la lente que contrasta cada negrita contra
 el artículo que la cita apenas tiene dónde anclar aquí**, porque **la fuente principal no numera por
 artículos**: es un manual de empresa. **Lo que comprueba este tema es la lente de citas**, que
-contrasta cada tramo entrecomillado contra el volcado entero, y **la de documento**, que persigue las
-cifras.
+contrasta cada tramo entrecomillado contra el volcado entero, y **la de documento**, que persigue
+las cifras.
 
 **Y tres advertencias sobre el volcado, que valen para los doce temas.**
 
 **La primera, y la más peligrosa: el nueve.** **El documento va sin capa de texto y se ha reconocido
-ópticamente**, y **su tipografía dibuja el nueve de manera que el reconocedor lo lee como un cuatro**.
-El volcado devolvía **«Directiva 47/67/CE», «Real Decreto 1829/1499», «Ley 94/2017» y «Tribunal de
-Defensa de la Competencia (1464)»**. **Las veinticinco correcciones de este tema se han comprobado a la
-vista sobre su página** —o por el nombre de la norma, que el reconocedor sí acierta— y quedan
-registradas en **el registro de correcciones de este temario**, con cómo se comprobó cada una.
-**Ninguna cifra de este tema viene del reconocimiento sin pasar por la página impresa.**
+ópticamente**, y **su tipografía dibuja el nueve de manera que el reconocedor lo lee como un
+cuatro**. El volcado devolvía **«Directiva 47/67/CE», «Real Decreto 1829/1499», «Ley 94/2017» y
+«Tribunal de Defensa de la Competencia (1464)»**. **Las veinticinco correcciones de este tema se han
+comprobado a la vista sobre su página** —o por el nombre de la norma, que el reconocedor sí acierta—
+y quedan registradas en **el registro de correcciones de este temario**, con cómo se comprobó cada
+una. **Ninguna cifra de este tema viene del reconocimiento sin pasar por la página impresa.**
 
 **Y conviene entender por qué esto no lo ve ninguna lente**: `refutar_documento` comprueba que la
 cifra del tema aparezca en la fuente, de modo que **si el tema copiara «1464» del volcado, la cifra
 estaría en la fuente y la lente daría el visto bueno.** **La fuente corrupta validaría la copia
 corrupta.** Por eso se corrige el volcado y no sólo el tema.
 
-**La segunda: las siglas.** El reconocedor devolvía dos deformaciones de la sigla del regulador
-(una con o por c, **«CNMO»**, y otra con una o de más, **«CNMOC»**) **donde la página escribe
-«CNMC»**. Comprobado a la vista en la página 27 y corregido.
+**La segunda: las siglas.** El reconocedor devolvía dos deformaciones de la sigla del regulador (una
+con o por c, **«CNMO»**, y otra con una o de más, **«CNMOC»**) **donde la página escribe «CNMC»**.
+Comprobado a la vista en la página 27 y corregido.
 
-**La tercera: el glosario del margen.** **El documento lleva una columna de glosario junto al texto, y
-sus renglones se intercalan con los del cuerpo en el volcado.** Así, entre «Correos no» y «tiene la
-condición de poder adjudicador» aparece la palabra «Público.», que es el final de una entrada del
+**La tercera: el glosario del margen.** **El documento lleva una columna de glosario junto al texto,
+y sus renglones se intercalan con los del cuerpo en el volcado.** Así, entre «Correos no» y «tiene
+la condición de poder adjudicador» aparece la palabra «Público.», que es el final de una entrada del
 glosario. **Este tema corta ahí la cita y da la frase entera en prosa**, en lugar de fingir que el
 documento dice algo que en el volcado está partido.

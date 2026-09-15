@@ -7,7 +7,16 @@ servicio postal universal (**SPU**); la unidad de reparto ordinario (**URO**), d
 (**UD**), de reparto (**UR**), de servicios especiales (**USE**) y de reparto de paquetería
 (**URP**); el punto final de distribución (**PFD**); el asistente digital personal (**PDA**); la
 entrega exclusiva al destinatario (**EED**); el aviso de recibo (**AR**); el atención y
-clasificación de reparto (**ACR**); y el jefe de equipo itinerante (**JEI**).
+clasificación de reparto (**ACR**); y el jefe de equipo itinerante (**JEI**). Y las que este esquema
+usa además: la Comunidad Económica Europea (**CEE**) y el Espacio Económico Europeo (**EEE**); la
+Dirección General de Tráfico (**DGT**); el documento nacional de identidad (**DNI**); el paquete
+europeo (**EPG**, por sus siglas inglesas); el equipo de protección individual (**EPI**); la
+aplicación de movilidad de la PDA (**HERA**) y la de admisión y venta en oficinas (**IRIS**); el
+prefijo de ubicación de los ordinarios no domiciliarios (**ORD**); la prueba de entrega electrónica
+(**PEE**); la marca del dispositivo asociado al Citypaq (**PRIME**); el código de respuesta rápida
+(**QR**); el sistema de gestión empresarial (**SAP**); el sistema de gestión integral de envíos
+(**SGIE**); la aplicación de información estadística (**SIE**); el mensaje corto de texto (**SMS**);
+la Unión Europea (**UE**); y el centro de tratamiento automatizado (**CTA**).
 
 **Cabecera.** **El tema más largo del documento —208 páginas— y el que más se contradice a sí
 mismo** · **la última milla determina la calidad final del producto**, y por eso **casi todo son

@@ -3,7 +3,7 @@
 Telegrama. **Cada línea lleva delante de dónde sale**: `[doc]` = documento de referencia de Correos
 · `[boe]` = Boletín Oficial del Estado · `[tem]` = lectura de este temario. **Siglas**: la prueba de
 entrega electrónica (**PEE**); la Unidad de Admisión Masiva (**UAM**); empresa a empresa (**B2B**) y
-empresa a particular (**B2C**); y el Código de Entrega Directa del Citypaq.
+empresa a particular (**B2C**); y el Código de Entrega Directa del Citypaq. Y las que este esquema usa además: la Confederación Española de Gremios y Asociaciones de Libreros (**CEGAL**), la Federación de Asociaciones Nacionales de Distribuidores de Ediciones (**FANDE**) y la Federación de Gremios de Editores de España (**FGEE**); el Instituto Nacional de Estadística (**INE**); y la talla extra pequeña (**XS**) de los muebles Citypaq.
 
 **Cabecera.** **El tema de las FICHAS**: ciento treinta páginas de catálogo · **casi todo lo
 preguntable es un dato de ficha** —peso, medida, plazo, zona, permanencia— y **se acierta sólo si se

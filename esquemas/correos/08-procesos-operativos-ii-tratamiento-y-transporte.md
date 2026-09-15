@@ -6,7 +6,7 @@ tratamiento internacional (**CTI**), de admisión masiva (**CAM**), automatizado
 provincial (**CTP**), local (**CTL**) y de paquetería (**CT**); el sistema de clasificación de
 paquetería (**SCP**) y de gordo (**SCG**); la unidad de productos registrados (**UPR**); la
 faciadora canceladora (**FC**); la unidad de reparto ordinario (**URO**) y la de servicios
-especiales (**USE**).
+especiales (**USE**). Y las que este esquema usa además: la configuración de correo no normalizado (**TOP**, también llamada FLAT); y los plurales con que el documento nombra a las unidades de reparto ordinario (**UROS**) y de servicios especiales (**USES**).
 
 **Cabecera.** **El tema del MAPA y de la MÁQUINA**: **diecisiete CTA con sus provincias**, y **el
 examen pregunta por la asignación que sorprende**, no por la obvia · **la otra mitad son PARÁMETROS

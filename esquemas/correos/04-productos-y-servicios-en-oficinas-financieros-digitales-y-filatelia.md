@@ -5,7 +5,7 @@ Telegrama. **Cada línea lleva delante de dónde sale**: `[doc]` = documento de 
 temario. **Siglas**: la prueba de entrega electrónica (**PEE**); la Unión Postal Universal
 (**UPU**); el sistema de gestión integral de envíos (**SGIE**); el documento oficial de identidad
 (**DOI**); la orden de ingreso en cuenta (**OIC**); la Fábrica Nacional de Moneda y Timbre
-(**FNMT**); y la Agencia Estatal de Administración Tributaria (**AEAT**).
+(**FNMT**); y la Agencia Estatal de Administración Tributaria (**AEAT**). Y las que este esquema usa además: el código de identificación fiscal (**CIF**); el formato normalizado (**DIN**); el impuesto sobre el valor añadido (**IVA**); el formato de imagen del grupo conjunto de expertos fotográficos (**JPEG**), con sus kilobytes (**KB**) y megabytes (**MB**); la prevención del blanqueo de capitales (**PBC**); el código de respuesta rápida (**QR**); el mensaje corto de texto (**SMS**); la aplicación de admisión y venta en oficinas (**IRIS**); y Correos ID (**ID**), la identidad digital.
 
 **Cabecera.** **El tema de las CIFRAS REDONDAS**: casi todo lo preguntable es **un límite en euros,
 una medida en milímetros o una fecha** · **tres cifras se parecen y no son la misma** —999,99 /

@@ -8,7 +8,7 @@ Datos (**AEPD**); la prevención del blanqueo de capitales (**PBC**); el Grupo d
 Internacional (**GAFI**); el Servicio Ejecutivo de la Comisión de Prevención del Blanqueo
 (**SEPBLAC**); la Declaración Mensual Obligatoria (**DMO**); la Declaración de Actividad Económica
 (**DAE**); la persona con responsabilidad pública (**PRP**); y la aplicación de análisis de riesgo
-(**ARED**).
+(**ARED**). Y las que este esquema usa además: el centro de atención al usuario (**CAU**); el código de identificación fiscal (**CIF**); la Comisión Nacional de los Mercados y la Competencia (**CNMC**); el documento nacional de identidad (**DNI**); el Espacio Económico Europeo (**EEE**); la empresa International Business Machines (**IBM**); el protocolo de internet (**IP**); la Organización de las Naciones Unidas (**ONU**); el asistente digital personal (**PDA**); la Sociedad Estatal de Participaciones Industriales (**SEPI**); el mensaje corto de texto (**SMS**); la unidad de reparto ordinario (**URO**); y el bus serie universal (**USB**).
 
 **Cabecera.** **El tema más JURÍDICO de los doce y el único con cuatro materias distintas bajo un
 mismo título** —datos, blanqueo, ética y ciberseguridad—, **que sólo comparten que todas son NORMAS

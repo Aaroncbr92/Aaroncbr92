@@ -11,26 +11,27 @@
 | **Redacción que se estudia** | La **vigente hoy**. Se citan literalmente sus **artículos 15 y 29** |
 | **Norma de apoyo** | **Real Decreto 39/1997**, Reglamento de los Servicios de Prevención · `BOE-A-1997-1853`, con su **artículo 35.2.a)** y su **anexo IV** |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 2**, reconocido ópticamente |
-| **Extensión** | **8.903 palabras** |
+| **Extensión** | **8.953 palabras** |
 
 <!-- /portada -->
 
-Las siglas de este tema, presentadas de entrada: la prevención de riesgos laborales (**PRL**); la Ley
-de Prevención de Riesgos Laborales (**LPRL**), que es la Ley 31/1995; el Reglamento de los Servicios
-de Prevención (**RSP**), que es el Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en
-el Trabajo (**INSST**); el servicio de prevención propio (**SPP**); la Ley sobre Infracciones y
-Sanciones en el Orden Social (**LISOS**); los equipos de protección individual (**EPI**); el puesto de
-trabajo preventivo (**PTP**); la Comisión Estatal de Salud Laboral (**CESL**); el Comité Provincial de
-Seguridad y Salud (**CPSS**); los accidentes de trabajo y las enfermedades profesionales (**AATT** y
-**EEPP**); la responsabilidad social corporativa (**RSC**); los Objetivos de Desarrollo Sostenible
-(**ODS**); los Objetivos de Desarrollo del Milenio (**ODM**); el Plan Nacional Integrado de Energía y
-Clima (**PNIEC**); el gas licuado del petróleo (**GLP**) y el gas natural comprimido (**GNC**).
+Las siglas de este tema, presentadas de entrada: la prevención de riesgos laborales (**PRL**); la
+Ley de Prevención de Riesgos Laborales (**LPRL**), que es la Ley 31/1995; el Reglamento de los
+Servicios de Prevención (**RSP**), que es el Real Decreto 39/1997; el Instituto Nacional de
+Seguridad y Salud en el Trabajo (**INSST**); el servicio de prevención propio (**SPP**); la Ley
+sobre Infracciones y Sanciones en el Orden Social (**LISOS**); los equipos de protección individual
+(**EPI**); el puesto de trabajo preventivo (**PTP**); la Comisión Estatal de Salud Laboral
+(**CESL**); el Comité Provincial de Seguridad y Salud (**CPSS**); los accidentes de trabajo y las
+enfermedades profesionales (**AATT** y **EEPP**); la responsabilidad social corporativa (**RSC**);
+los Objetivos de Desarrollo Sostenible (**ODS**); los Objetivos de Desarrollo del Milenio (**ODM**);
+el Plan Nacional Integrado de Energía y Clima (**PNIEC**); el gas licuado del petróleo (**GLP**) y
+el gas natural comprimido (**GNC**).
 
 > Enunciado del programa (Anexo III del Primer Desarrollo de las Bases de la convocatoria de ingreso
-> de personal laboral fijo en la Sociedad Estatal Correos y Telégrafos, Grupo Profesional IV, tema 2):
-> «TEMA 2. Experiencia de personas en Correos. Diversidad, Inclusión e Igualdad. Prevención de riesgos
-> y bienestar. Responsabilidad Social Corporativa (RSC). Objetivos de Desarrollo Sostenible (ODS).
-> Ejes de la sostenibilidad en Correos. Emprendimiento e Innovación.»
+> de personal laboral fijo en la Sociedad Estatal Correos y Telégrafos, Grupo Profesional IV, tema
+> 2): «TEMA 2. Experiencia de personas en Correos. Diversidad, Inclusión e Igualdad. Prevención de
+> riesgos y bienestar. Responsabilidad Social Corporativa (RSC). Objetivos de Desarrollo Sostenible
+> (ODS). Ejes de la sostenibilidad en Correos. Emprendimiento e Innovación.»
 
 **Este es el tema más largo del documento de referencia** —ochenta y una páginas— **y el más
 desigual**. Una mitad es normativa de prevención, con artículos que se pueden contrastar contra el
@@ -92,8 +93,8 @@ todo el epígrafe 2.1:
 | **Promover entornos de trabajo saludables y diversos** | **Prevención y promoción de la salud laboral** y **diversidad e inclusión** |
 | **Mejorar las capacidades de nuestros profesionales** | **Desarrollo profesional** y **formación y capacitación** |
 
-**El cuarto no es un eje distinto, sino el encabezamiento del conjunto**, y el volcado de la página 3
-lo deja confuso porque es un gráfico. **Lo que sí está en prosa** es la razón de que la gestión de
+**El cuarto no es un eje distinto, sino el encabezamiento del conjunto**, y el volcado de la página
+3 lo deja confuso porque es un gráfico. **Lo que sí está en prosa** es la razón de que la gestión de
 personas ocupe el primer lugar del tema, y el documento la da así, citado:
 
 > «**La gestión integral de las personas constituye uno de los elementos esenciales de la estrategia
@@ -133,10 +134,9 @@ cuestionarios.
 
 **Y hay un detalle operativo que se pregunta**: **el personal de reparto recibe formación en los
 asistentes digitales personales (PDA)**, a través de la aplicación **«Formación»**. **El personal de
-reparto rural, además
-de su formación de itinerario**, recibe formación en la PDA para la **admisión y venta a domicilio**,
-y esa misma metodología **capacita a quienes colaboran en los procesos electorales para la admisión
-del voto por correo a domicilio**.
+reparto rural, además de su formación de itinerario**, recibe formación en la PDA para la **admisión
+y venta a domicilio**, y esa misma metodología **capacita a quienes colaboran en los procesos
+electorales para la admisión del voto por correo a domicilio**.
 
 ## 2. Diversidad, inclusión e igualdad
 
@@ -149,13 +149,13 @@ del voto por correo a domicilio**.
 
 **Inclusión**, citada:
 
-> «**Es el establecimiento de un entorno laboral generador de oportunidades a todas y cada una de las
-> personas que trabajan en Correos, respetando su singularidad**»
+> «**Es el establecimiento de un entorno laboral generador de oportunidades a todas y cada una de
+> las personas que trabajan en Correos, respetando su singularidad**»
 
 ---
 
-**La diferencia está en el verbo**: la diversidad **es** un hecho —la convivencia de lo distinto—; la
-inclusión **se establece**, es algo que la empresa hace. **Por eso el documento insiste en que no
+**La diferencia está en el verbo**: la diversidad **es** un hecho —la convivencia de lo distinto—;
+la inclusión **se establece**, es algo que la empresa hace. **Por eso el documento insiste en que no
 basta con ser diversos.**
 
 ### Por qué importa, y cuánto cuesta no gestionarla
@@ -194,15 +194,15 @@ articulan siete ejes de actuación.**
 | **Empresa Saludable** | |
 | **Comunicación y sensibilización** | |
 
-**De la dimensión de género el documento da una cifra: en Correos hay un 53 % de mujeres.** **De la de
-discapacidad, que se cumple con la Ley General de Discapacidad.**
+**De la dimensión de género el documento da una cifra: en Correos hay un 53 % de mujeres.** **De la
+de discapacidad, que se cumple con la Ley General de Discapacidad.**
 
 **La agenda de la diversidad** es el documento que engloba todas las iniciativas, y **se caracteriza
 por ser transversal, global, y social y comprometida**: **transversal porque impacta en todas las
 áreas de la compañía**, **global porque trabaja con las diferentes dimensiones de la diversidad**.
 
-**Y el calendario de diversidad tiene hitos con mes asignado**, que es exactamente el tipo de dato que
-se pregunta:
+**Y el calendario de diversidad tiene hitos con mes asignado**, que es exactamente el tipo de dato
+que se pregunta:
 
 | Mes | Hito |
 |---|---|
@@ -232,8 +232,8 @@ Instituto Nacional de Seguridad y Salud en el Trabajo**, y el propio documento u
 denominaciones en páginas contiguas: **el rótulo dice «Instituto Nacional de Seguridad y Salud en el
 Trabajo (INSST)» y el texto del artículo que cita debajo dice «Instituto Nacional de Seguridad e
 Higiene en el Trabajo»**. **No es un descuido del documento: es que el artículo 8 de la Ley 31/1995
-conserva la denominación antigua**, y el cambio de nombre vino por otra vía. **Si una pregunta ofrece
-las dos, la del artículo es la antigua.**
+conserva la denominación antigua**, y el cambio de nombre vino por otra vía. **Si una pregunta
+ofrece las dos, la del artículo es la antigua.**
 
 ### Las dos instituciones que la ley regula
 
@@ -255,12 +255,12 @@ de la Ley 31/1995, citado:
 
 **El nueve de ese artículo estuvo a punto de costarle un error a este temario**, y conviene contarlo
 porque es la advertencia entera del volumen en un solo caso. **El volcado devolvía «Art.4 Ley
-31/1995»**, y el artículo 4 de la ley es el de **definiciones**, de modo que parecía una discrepancia
-del documento con el Boletín, de las que el tema 1 obliga a declarar. **No lo era.** **La página
-imprime «Art.9»**, comprobado a la vista, **y el propio documento vuelve a escribir 9 tres párrafos
-antes**, dentro del artículo 8, donde la ley remite a la Inspección. **La discrepancia era un
-invento del reconocedor.** **Este temario la persiguió hasta la página impresa antes de escribirla**,
-y por eso no la escribe.
+31/1995»**, y el artículo 4 de la ley es el de **definiciones**, de modo que parecía una
+discrepancia del documento con el Boletín, de las que el tema 1 obliga a declarar. **No lo era.**
+**La página imprime «Art.9»**, comprobado a la vista, **y el propio documento vuelve a escribir 9
+tres párrafos antes**, dentro del artículo 8, donde la ley remite a la Inspección. **La discrepancia
+era un invento del reconocedor.** **Este temario la persiguió hasta la página impresa antes de
+escribirla**, y por eso no la escribe.
 
 ### La recopilación de normas
 
@@ -297,9 +297,9 @@ creciente de número y de concreción, **de lo que se ve a lo que se mira**.
 principios y compromisos**; **asunción de la mejora continua**; **integración de la prevención**; e
 **información, formación y participación**.
 
-**El primero se concreta en un documento**: **la política preventiva es el documento mediante el cual
-la organización expresa formalmente las directrices y objetivos generales**, y **debería ser aprobada
-por la dirección** pero **elaborada contando con la participación de los trabajadores o sus
+**El primero se concreta en un documento**: **la política preventiva es el documento mediante el
+cual la organización expresa formalmente las directrices y objetivos generales**, y **debería ser
+aprobada por la dirección** pero **elaborada contando con la participación de los trabajadores o sus
 representantes**. **Las dos cosas a la vez**, y ahí se juega más de una pregunta.
 
 **El documento apoya cada uno de los cuatro en un precepto**, y ésta es la tabla que conviene llevar
@@ -313,15 +313,15 @@ sabida:
 | **Información, formación y participación** de todos los trabajadores | Artículos **18** y **19** de la Ley 31/1995 |
 
 **Sobre la primera fila hay que hacer una salvedad.** **La frase que el documento entrecomilla
-—«acción permanente para mejorar los niveles existentes»— no es la que hoy dice el artículo 14.**
-La ley vigente habla de **«una acción permanente de seguimiento de la actividad preventiva con el fin
+—«acción permanente para mejorar los niveles existentes»— no es la que hoy dice el artículo 14.** La
+ley vigente habla de **«una acción permanente de seguimiento de la actividad preventiva con el fin
 de perfeccionar de manera continua las actividades de identificación, evaluación y control de los
 riesgos que no se hayan podido evitar y los niveles de protección existentes»**. **La idea es la
 misma y la letra no**: el documento comprime una redacción anterior. **Si una pregunta cita la frase
 literal, viene del documento; si pide el texto de la ley, es el largo.**
 
-**La integración tiene una fecha**: **tras la modificación de la Ley de PRL del año 2003, se establece
-que la prevención debe integrarse en el sistema de gestión de la empresa**, trasladando la
+**La integración tiene una fecha**: **tras la modificación de la Ley de PRL del año 2003, se
+establece que la prevención debe integrarse en el sistema de gestión de la empresa**, trasladando la
 responsabilidad a todos los integrantes de la organización. **De ahí sale la frase que Correos usa
 como máxima: «entre todos hacemos prevención».**
 
@@ -332,11 +332,11 @@ como máxima: «entre todos hacemos prevención».**
 
 ---
 
-**El mando intermedio es la figura fundamental de la integración**, y recibe formación que le permite
-**informar sobre nuevos riesgos detectados**, **vigilar que los trabajadores a su cargo trabajen de
-forma segura** y **cumplir y hacer cumplir las medidas preventivas en el ámbito de su competencia**.
-**Los incumplimientos en materia de EPI, información y formación están tipificados como infracciones
-graves en el artículo 12 de la LISOS.**
+**El mando intermedio es la figura fundamental de la integración**, y recibe formación que le
+permite **informar sobre nuevos riesgos detectados**, **vigilar que los trabajadores a su cargo
+trabajen de forma segura** y **cumplir y hacer cumplir las medidas preventivas en el ámbito de su
+competencia**. **Los incumplimientos en materia de EPI, información y formación están tipificados
+como infracciones graves en el artículo 12 de la LISOS.**
 
 ### Las cuatro modalidades preventivas
 
@@ -350,15 +350,15 @@ graves en el artículo 12 de la LISOS.**
 | **Servicio de prevención ajeno** | Cuando **la designación de trabajadores sea insuficiente**, no se haya optado por el propio, o la actividad se haya asumido sólo parcialmente |
 
 **Y hay una quinta figura que no es modalidad sino variante**: **el servicio de prevención
-mancomunado**, para empresas que **desarrollen simultáneamente su actividad en un mismo centro, en un
-polígono industrial o área geográfica limitada, o pertenezcan al mismo sector productivo o grupo
+mancomunado**, para empresas que **desarrollen simultáneamente su actividad en un mismo centro, en
+un polígono industrial o área geográfica limitada, o pertenezcan al mismo sector productivo o grupo
 empresarial**.
 
 **Correos tiene asumida la modalidad de servicio de prevención propio, para las cuatro
 especialidades.** El artículo **15** del Real Decreto 39/1997, citado:
 
-> «**El servicio de prevención propio constituirá una unidad organizativa específica y sus integrantes
-> dedicarán de forma exclusiva su actividad en la empresa a la finalidad del mismo.**»
+> «**El servicio de prevención propio constituirá una unidad organizativa específica y sus
+> integrantes dedicarán de forma exclusiva su actividad en la empresa a la finalidad del mismo.**»
 
 ### Las cuatro especialidades preventivas
 
@@ -369,19 +369,19 @@ especialidades.** El artículo **15** del Real Decreto 39/1997, citado:
 | **Ergonomía y psicosociología aplicada** | **Adaptar las condiciones y la organización del trabajo al individuo** | **La ergonomía**, la relación entre el lugar de trabajo y quien lo ocupa; **la psicosociología**, el tiempo de trabajo, el horario, las pausas, el ritmo y la carga mental |
 | **Medicina del trabajo** | **Controlar y vigilar la salud del trabajador** | **Las consecuencias derivadas de las condiciones materiales y ambientales del puesto** |
 
-**La definición de higiene industrial que el documento da no es suya**: la atribuye expresamente a la
-**American Industrial Hygiene Association**, y esa atribución es preguntable por sí sola.
+**La definición de higiene industrial que el documento da no es suya**: la atribuye expresamente a
+la **American Industrial Hygiene Association**, y esa atribución es preguntable por sí sola.
 
 ### El servicio de prevención de Correos
 
 **Dos fechas, y las dos venían corrompidas del reconocimiento**: **la creación del Servicio de
-Prevención Propio data de 1999**, y **su desarrollo y ampliación, del año 2009**. **Ese año 2009 es el
-punto de inflexión**: se crea la **Subdirección de Promoción de la Salud**, y el servicio llega a
+Prevención Propio data de 1999**, y **su desarrollo y ampliación, del año 2009**. **Ese año 2009 es
+el punto de inflexión**: se crea la **Subdirección de Promoción de la Salud**, y el servicio llega a
 **más de 90 miembros**, uno de los servicios de prevención propios más grandes del país.
 
 **Jerárquicamente, el Área de Prevención de cada área depende funcionalmente de la Subdirección de
-Promoción de la Salud y jerárquicamente de la Gerencia de Personas y Relaciones Laborales.** **Las dos
-dependencias, y no son la misma**: ésa es la distinción que una pregunta puede pedir.
+Promoción de la Salud y jerárquicamente de la Gerencia de Personas y Relaciones Laborales.** **Las
+dos dependencias, y no son la misma**: ésa es la distinción que una pregunta puede pedir.
 
 **El sistema se audita cada 4 años**, conforme al artículo **30** del Reglamento de los Servicios de
 Prevención, **por una empresa externa certificada**.
@@ -389,8 +389,8 @@ Prevención, **por una empresa externa certificada**.
 ### Los delegados de prevención
 
 **Son los representantes de los trabajadores con funciones específicas en materia de prevención**, y
-**los designan por y entre los representantes del personal**. **En los centros sin representación, los
-trabajadores pueden elegir por mayoría a un representante** que ejerza esas competencias, **y su
+**los designan por y entre los representantes del personal**. **En los centros sin representación,
+los trabajadores pueden elegir por mayoría a un representante** que ejerza esas competencias, **y su
 actuación cesa en cuanto se reúnan las condiciones para elegir un delegado**.
 
 **Su mandato no tiene duración propia**: **la Ley de Prevención de Riesgos Laborales no prevé una
@@ -399,8 +399,8 @@ trabajadores**.
 
 **La formación tiene horas, y aquí el documento se queda corto.** Dice que el mínimo es de **30
 horas**, o de **50 horas** en empresas con actividades del Anexo I del RSP, **«según se indique en
-convenio»**. **Pero esas horas no las fija ningún convenio: las fija la norma.** El artículo **35** del
-Real Decreto 39/1997, citado:
+convenio»**. **Pero esas horas no las fija ningún convenio: las fija la norma.** El artículo **35**
+del Real Decreto 39/1997, citado:
 
 > «**Poseer una formación mínima con el contenido especificado en el programa a que se refiere el
 > anexo IV y cuyo desarrollo tendrá una duración no inferior a 50 horas, en el caso de empresas que
@@ -416,8 +416,8 @@ emergencia y planificación de la formación preventiva.
 
 ## 5. Obligaciones y derechos
 
-**Aquí hay tres artículos y no conviene confundirlos**, porque el documento los rotula de un modo y la
-ley los ordena de otro:
+**Aquí hay tres artículos y no conviene confundirlos**, porque el documento los rotula de un modo y
+la ley los ordena de otro:
 
 | Materia | Artículo de la Ley 31/1995 |
 |---|---|
@@ -425,63 +425,69 @@ ley los ordena de otro:
 | **Principios de la acción preventiva** | Artículo **15** |
 | **Obligaciones de los trabajadores** | Artículo **29** |
 
-**Sobre el artículo 15 hay que decir algo.** **El documento lo rotula bien** —«Principios de la acción
-preventiva»— **pero abre el texto con una frase que no es suya**: «El empresario, incluidas las
-Administraciones públicas, tiene el deber de proteger a sus trabajadores…». **Esa frase es del
-artículo 14.** **El artículo 15 empieza en los principios**, y su texto, citado:
+**Sobre el artículo quince hay que decir algo.** **El documento lo rotula bien** —«Principios de la
+acción preventiva»— **pero abre el texto con una frase que no es suya**: «El empresario, incluidas
+las Administraciones públicas, tiene el deber de proteger a sus trabajadores…». **Esa frase es del
+artículo 14.**
+
+**Artículo 15: empieza en los principios**, y su texto, citado:
 
 > «**El empresario aplicará las medidas que integran el deber general de prevención previsto en el
 > artículo anterior, con arreglo a los siguientes principios generales:**»
 
 ---
 
-**«Previsto en el artículo anterior»**: la propia ley remite del 15 al 14, y por eso el documento pudo
-empalmarlos. **Los nueve principios, en su orden legal**, son **evitar los riesgos**; **evaluar los
-que no se puedan evitar**; **combatirlos en su origen**; **adaptar el trabajo a la persona**; **tener
-en cuenta la evolución de la técnica**; **sustituir lo peligroso por lo que entrañe poco o ningún
-peligro**; **planificar la prevención**; **anteponer la protección colectiva a la individual**; y
-**dar las debidas instrucciones a los trabajadores**.
+**«Previsto en el artículo anterior»**: la propia ley remite del 15 al 14, y por eso el documento
+pudo empalmarlos.
 
-**Y hay un matiz de la letra d) que se pregunta**: adaptar el trabajo a la persona es, en la letra de
-la ley, **atenuar el trabajo monótono y repetitivo y reducir sus efectos en la salud**.
+**Artículo 15, los nueve principios en su orden legal y con la letra de la ley**: **Evitar los
+riesgos**; **Evaluar los riesgos que no se puedan evitar**; **Combatir los riesgos en su origen**;
+**Adaptar el trabajo a la persona**, con el desarrollo que enseguida se ve; **Tener en cuenta la
+evolución de la técnica**; **Sustituir lo peligroso por lo que entrañe poco o ningún peligro**;
+**Planificar la prevención**, buscando un conjunto coherente; **Adoptar medidas que antepongan la
+protección colectiva a la individual**; y **Dar las debidas instrucciones a los trabajadores**.
+
+Y hay un matiz de la letra d) que se pregunta: adaptar el trabajo a la persona lo es, dice la ley,
+**con miras, en particular, a atenuar el trabajo monótono y repetitivo y a reducir los efectos del
+mismo en la salud**.
 
 ### Las seis obligaciones del trabajador
 
-**El artículo 29 tiene una estructura fija**: un apartado 1 con el deber general de velar por la
+**Artículo 29: tiene una estructura fija**: un apartado 1 con el deber general de velar por la
 propia seguridad y la de los demás, y un apartado 2 con seis obligaciones numeradas. **Son éstas**:
 
 | Número | Obligación |
 |---|---|
-| **1.º** | **Usar adecuadamente máquinas, aparatos, herramientas, sustancias peligrosas y equipos de transporte** |
+| **1.º** | **Usar adecuadamente, de acuerdo con su naturaleza y los riesgos previsibles, las máquinas, aparatos, herramientas, sustancias peligrosas, equipos de transporte** y, en general, cualesquiera otros medios con los que desarrollen su actividad |
 | **2.º** | **Utilizar correctamente los medios y equipos de protección** facilitados por el empresario |
 | **3.º** | **No poner fuera de funcionamiento** los dispositivos de seguridad |
 | **4.º** | **Informar de inmediato** a su superior jerárquico directo de cualquier situación de riesgo |
 | **5.º** | **Contribuir al cumplimiento de las obligaciones** establecidas por la autoridad competente |
 | **6.º** | **Cooperar con el empresario** para que pueda garantizar condiciones de trabajo seguras |
 
-**El documento añade «(EPI)» a la segunda, y la ley no lo lleva.** Es una glosa útil y una diferencia
+El documento añade «(EPI)» a la segunda, y la ley no lo lleva. Es una glosa útil y una diferencia
 real de texto.
 
-**El incumplimiento de estas obligaciones tiene consecuencia tasada**: **tiene la consideración de
+El incumplimiento de estas obligaciones tiene consecuencia tasada: **tendrá la consideración de
 incumplimiento laboral a los efectos previstos en el artículo 58.1 del Estatuto de los
 Trabajadores**.
 
 ### Los derechos del trabajador
 
 **Seis, en el resumen que el documento hace del artículo 14**: **ser informado** de los riesgos y de
-las medidas; **recibir formación teórica y práctica** en el momento de la contratación y cuando cambie
-la tarea o se introduzcan nuevas tecnologías; **interrumpir su actividad y abandonar el lugar de
-trabajo** ante riesgo grave e inminente; **tener garantizada una vigilancia periódica de su estado de
-salud**; **disponer de medidas de protección específicas** si es especialmente sensible; y **ser
-consultado y participar**.
+las medidas; **recibir formación teórica y práctica** en el momento de la contratación y cuando
+cambie la tarea o se introduzcan nuevas tecnologías; **interrumpir su actividad y abandonar el lugar
+de trabajo** ante riesgo grave e inminente; **tener garantizada una vigilancia periódica de su
+estado de salud**; **disponer de medidas de protección específicas** si es especialmente sensible; y
+**ser consultado y participar**.
 
 **Y una regla que cierra el artículo y se pregunta sola**: **el coste de las medidas de seguridad y
 salud no deberá recaer en modo alguno sobre los trabajadores.**
 
 ## 6. Procedimientos y protocolos del grupo profesional IV
 
-**Los códigos de este epígrafe son literales y hay que escribirlos bien**: el documento usa para
-los procedimientos el prefijo **PR** (procedimiento) y para los protocolos el prefijo **PT**
+**Los códigos de este epígrafe son literales y hay que escribirlos bien**: el documento usa para los
+procedimientos el prefijo **PR** (procedimiento) y para los protocolos el prefijo **PT**
 (protocolo), seguidos de **tres cifras**.
 
 | Código | Qué regula | Lo que más se pregunta |
@@ -529,8 +535,9 @@ precisamente lo que hace la pregunta:
 **Y el incidente no es accidente**: **no ha producido daños materiales ni personales**, pero **ha
 generado un riesgo potencial importante que hace necesaria su investigación**.
 
-**La asistencia sanitaria se bifurca según el vínculo**: **el personal eventual y laboral la recibe en
-la Mutua**; **los funcionarios, en la Mutualidad General de Funcionarios Civiles del Estado (MUFACE)**.
+**La asistencia sanitaria se bifurca según el vínculo**: **el personal eventual y laboral la recibe
+en la Mutua**; **los funcionarios, en la Mutualidad General de Funcionarios Civiles del Estado
+(MUFACE)**.
 
 **La obligación de investigar está en la ley**: **el artículo 16 de la Ley 31/1995 prevé que, cuando
 se produzca un daño para la salud, el empresario llevará a cabo una investigación**.
@@ -551,15 +558,15 @@ cargas**; **ruido**; **movimientos repetitivos del miembro superior**; **postura
 | **No apto definitivamente** | **No puede realizar la mayoría o gran parte de las funciones de manera definitiva** |
 
 **La confidencialidad tiene artículo propio**: **el acceso a la información médica de carácter
-personal se limita al personal médico y a las autoridades sanitarias**, **sin que pueda facilitarse al
-empresario sin consentimiento expreso del trabajador**, conforme al artículo **22.4** de la Ley
+personal se limita al personal médico y a las autoridades sanitarias**, **sin que pueda facilitarse
+al empresario sin consentimiento expreso del trabajador**, conforme al artículo **22.4** de la Ley
 31/1995.
 
-**Y hay un trío de normas internas que sostiene las readaptaciones**, y el documento las cita las tres
-juntas cada vez: **el artículo 33 del Real Decreto 370/2004**, que aprueba el estatuto del personal de
-Correos; **el artículo 43 del III Convenio Colectivo, 2009-2013**; y **el Acuerdo general 2009-2013**.
-**La letra del artículo 33 cambia según el caso**: **la b) para el no apto temporal** y **la a) para el
-no apto definitivo**.
+**Y hay un trío de normas internas que sostiene las readaptaciones**, y el documento las cita las
+tres juntas cada vez: **el artículo 33 del Real Decreto 370/2004**, que aprueba el estatuto del
+personal de Correos; **el artículo 43 del III Convenio Colectivo, 2009-2013**; y **el Acuerdo
+general 2009-2013**. **La letra del artículo 33 cambia según el caso**: **la b) para el no apto
+temporal** y **la a) para el no apto definitivo**.
 
 ### Protección en el embarazo
 
@@ -571,11 +578,11 @@ no apto definitivo**.
 | **Evitar** | **Manipulación de cargas de peso superior a 5 kg de forma repetitiva**, ni **mayores de 10 kg de forma puntual**; **trabajos a la intemperie con temperaturas inferiores a 0º o superiores a 36º**; **desplazamientos en avión al cumplir la semana 28 de gestación** |
 | **Fomentar** | **Pausas para garantizar el descanso** y **el apoyo de los compañeros** |
 
-**La comunicación de la trabajadora es voluntaria y por escrito**, dirigida **al jefe de su unidad**, y
-**es lo que inicia el procedimiento**. **El informe de aptitud médica tiene tres salidas**: **no
-existen riesgos**; **existe un posible riesgo**, con el orden **adaptación del puesto, readaptación a
-otro puesto, y baja por riesgo si no hay puesto compatible**; y **no apta**, con **readaptación o baja
-por riesgo**.
+**La comunicación de la trabajadora es voluntaria y por escrito**, dirigida **al jefe de su
+unidad**, y **es lo que inicia el procedimiento**. **El informe de aptitud médica tiene tres
+salidas**: **no existen riesgos**; **existe un posible riesgo**, con el orden **adaptación del
+puesto, readaptación a otro puesto, y baja por riesgo si no hay puesto compatible**; y **no apta**,
+con **readaptación o baja por riesgo**.
 
 ### Los protocolos operativos
 
@@ -587,17 +594,17 @@ por riesgo**.
 | **PT008** | **Condiciones climatológicas adversas** | Frío o calor elevados, lluvia, niebla, nieve, hielo, viento y **radiación solar** |
 
 **Del reparto en moto el documento da además cuatro consignas rotuladas en el cofre**, y una
-prohibición expresa: **está prohibido vestir bermudas durante el reparto en moto, incluso en los meses
-de verano**.
+prohibición expresa: **está prohibido vestir bermudas durante el reparto en moto, incluso en los
+meses de verano**.
 
-**Y del protocolo de agresiones de perros hay una precisión jurídica** que el documento fecha: **desde
-la entrada en vigor, el 1 de julio de 2015, de la reforma del Código Penal operada por la Ley Orgánica
-1/2015, de 30 de marzo**, esta infracción **pasa a ser tipificada en el ámbito administrativo**, o en
-el civil si se reclaman indemnizaciones.
+**Y del protocolo de agresiones de perros hay una precisión jurídica** que el documento fecha:
+**desde la entrada en vigor, el 1 de julio de 2015, de la reforma del Código Penal operada por la
+Ley Orgánica 1/2015, de 30 de marzo**, esta infracción **pasa a ser tipificada en el ámbito
+administrativo**, o en el civil si se reclaman indemnizaciones.
 
 **Para la violencia física externa**, el documento remite al **protocolo de actuación en materia de
-seguridad**, y da un teléfono y un órgano: **el 112 cuando no haya cuerpos de seguridad presentes**, y
-**el Centro Operativo de Seguridad (COS)** para el caso de atraco o robo en oficina.
+seguridad**, y da un teléfono y un órgano: **el 112 cuando no haya cuerpos de seguridad presentes**,
+y **el Centro Operativo de Seguridad (COS)** para el caso de atraco o robo en oficina.
 
 ## 7. Bienestar, y la certificación de empresa saludable
 
@@ -612,17 +619,18 @@ documento sí trae capa de texto, de modo que sus cifras no vienen del reconocim
 | **Caducidad** | **21/04/2023** |
 
 **Y el sistema de prevención tiene otra certificación distinta**, la del artículo 30 del RSP: **la
-auditoría de AUDELCO**, con **informe de 15 de diciembre de 2021** y **caducidad el 15 de diciembre de
-2025**. **Son dos certificados de dos cosas distintas** —uno de empresa saludable, otro de sistema de
-prevención auditado— y **una pregunta que los mezcle se resuelve por la fecha de caducidad**.
+auditoría de AUDELCO**, con **informe de 15 de diciembre de 2021** y **caducidad el 15 de diciembre
+de 2025**. **Son dos certificados de dos cosas distintas** —uno de empresa saludable, otro de
+sistema de prevención auditado— y **una pregunta que los mezcle se resuelve por la fecha de
+caducidad**.
 
 ## 8. Responsabilidad Social Corporativa
 
 **El documento advierte de entrada que el concepto tiene muchos nombres**: **RSC**, la
-responsabilidad social empresarial (**RSE**), la
-responsabilidad corporativa (**RC**), la responsabilidad social (**RS**) o la **Sostenibilidad** y
-que **la denominación Sostenibilidad tiene un significado más amplio y un enfoque
-a largo plazo**. **Y da dos definiciones de fuente distinta**, que es lo que se pregunta:
+responsabilidad social empresarial (**RSE**), la responsabilidad corporativa (**RC**), la
+responsabilidad social (**RS**) o la **Sostenibilidad** y que **la denominación Sostenibilidad tiene
+un significado más amplio y un enfoque a largo plazo**. **Y da dos definiciones de fuente
+distinta**, que es lo que se pregunta:
 
 | Fuente | Definición |
 |---|---|
@@ -640,8 +648,8 @@ equilibrio que la RSC persigue son la económica, la social y la medioambiental.
 | **2006** | **Se organiza un departamento de RSC** |
 | **2017** | **Se integra en la Subdirección de Relaciones Internacionales y ODS** |
 
-**Los antecedentes generales del concepto se remontan al siglo XIX**, en el marco del **cooperativismo
-y el asociacionismo**.
+**Los antecedentes generales del concepto se remontan al siglo XIX**, en el marco del
+**cooperativismo y el asociacionismo**.
 
 ## 9. Los Objetivos de Desarrollo Sostenible
 
@@ -659,18 +667,18 @@ la vista porque **la que el reconocimiento devolvía estaba mal en dos de ellas*
 | **Dónde se gestaron** | **La Conferencia de las Naciones Unidas sobre el Desarrollo Sostenible, Río de Janeiro, 2012** |
 
 **Los ODS sustituyen a los Objetivos de Desarrollo del Milenio**, que se emprendieron **en 2000** y
-**duraron 15 años**. **Eran ocho**: **erradicar la pobreza extrema y el hambre**; **enseñanza primaria
-universal**; **igualdad entre géneros**; **reducir la mortalidad en la infancia**; **mejorar la salud
-materna**; **combatir el virus de la inmunodeficiencia humana (VIH) y el sida, la malaria y otras
-enfermedades**; **sostenibilidad del
-medioambiente**; y **fomentar una alianza mundial para el desarrollo**.
+**duraron 15 años**. **Eran ocho**: **erradicar la pobreza extrema y el hambre**; **enseñanza
+primaria universal**; **igualdad entre géneros**; **reducir la mortalidad en la infancia**;
+**mejorar la salud materna**; **combatir el virus de la inmunodeficiencia humana (VIH) y el sida, la
+malaria y otras enfermedades**; **sostenibilidad del medioambiente**; y **fomentar una alianza
+mundial para el desarrollo**.
 
 **Ocho objetivos los ODM, diecisiete los ODS**: ése es el contraste que se pregunta.
 
 **La definición de desarrollo sostenible** que el documento da, citada:
 
-> «**El desarrollo sostenible se ha definido como el desarrollo capaz de satisfacer las necesidades del
-> presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias
+> «**El desarrollo sostenible se ha definido como el desarrollo capaz de satisfacer las necesidades
+> del presente sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias
 > necesidades.**»
 
 ---
@@ -718,34 +726,35 @@ transversales**, y el documento repite la lista dos veces con redacción ligeram
 | **Profesionales del grupo** | **aproximadamente 50.000** |
 
 **Esa discrepancia entre 2.370 y 2.400 es del documento, no del volcado**: **las dos cifras se han
-comprobado a la vista sobre sus páginas respectivas.** **Si una pregunta ofrece las dos, lo honrado es
-saber que el propio documento no se pone de acuerdo**, y que **la cifra baja es la del epígrafe de
-servicios de proximidad**.
+comprobado a la vista sobre sus páginas respectivas.** **Si una pregunta ofrece las dos, lo honrado
+es saber que el propio documento no se pone de acuerdo**, y que **la cifra baja es la del epígrafe
+de servicios de proximidad**.
 
 **Desde diciembre de 2021, todos los carteros y carteras rurales ofrecen a domicilio servicios que
-antes sólo se prestaban en oficina**: **ingresar y retirar efectivo, enviar y recibir paquetería, pagar
-recibos y tributos, adquirir embalajes, sobres y sellos, y gestionar luz, gas, telefonía y seguros.**
+antes sólo se prestaban en oficina**: **ingresar y retirar efectivo, enviar y recibir paquetería,
+pagar recibos y tributos, adquirir embalajes, sobres y sellos, y gestionar luz, gas, telefonía y
+seguros.**
 
 **Y hay una lista de servicios de proximidad con nombre propio**: **Correos Cash**, para el acceso a
 servicios financieros en el medio rural; la **Oficina de Registro Virtual de Entidades (ORVE)**, la
-solución de registro electrónico; **Correos
-Market**, la plataforma de venta en línea que **ha integrado la Tienda online de Correos** con su
-categoría **«Solidario»**; **Local e-commerce**, para la venta de comercios locales; y **el Camino de
-Santiago sostenible**, con la iniciativa **CaminoSostenible**.
+solución de registro electrónico; **Correos Market**, la plataforma de venta en línea que **ha
+integrado la Tienda online de Correos** con su categoría **«Solidario»**; **Local e-commerce**, para
+la venta de comercios locales; y **el Camino de Santiago sostenible**, con la iniciativa
+**CaminoSostenible**.
 
-**Los productos sostenibles también tienen nombre**: la **línea Bosques** de embalajes **de cartón 100
-% reciclado y reciclable**; **Correos Compensa**, que **compensa las emisiones de los envíos mediante
-la adquisición de créditos de carbono en el mercado voluntario**, certificados por el **Convenio Marco
-de Naciones Unidas sobre el Cambio Climático** y contrastados por la **Oficina Española de Cambio
-Climático**; **los envíos responsables**, bajo el lema **«no todo es urgente, pero cuidar el planeta,
-sí»**; y el **Redondeo con Impacto**.
+**Los productos sostenibles también tienen nombre**: la **línea Bosques** de embalajes **de cartón
+100 % reciclado y reciclable**; **Correos Compensa**, que **compensa las emisiones de los envíos
+mediante la adquisición de créditos de carbono en el mercado voluntario**, certificados por el
+**Convenio Marco de Naciones Unidas sobre el Cambio Climático** y contrastados por la **Oficina
+Española de Cambio Climático**; **los envíos responsables**, bajo el lema **«no todo es urgente,
+pero cuidar el planeta, sí»**; y el **Redondeo con Impacto**.
 
 ### Compromiso con la comunidad
 
-**Las cuatro áreas de actuación de los proyectos sociales** son **educación e infancia**, **diversidad
-e inclusión**, **sensibilización sobre el cambio climático** y **sello solidario**. **Del sello
-solidario, la cifra**: **Correos otorga al proyecto la cantidad equivalente al 3 % de lo recaudado por
-los sellos vendidos.**
+**Las cuatro áreas de actuación de los proyectos sociales** son **educación e infancia**,
+**diversidad e inclusión**, **sensibilización sobre el cambio climático** y **sello solidario**.
+**Del sello solidario, la cifra**: **Correos otorga al proyecto la cantidad equivalente al 3 % de lo
+recaudado por los sellos vendidos.**
 
 **Las cifras del voluntariado durante la pandemia** —todas comprobadas a la vista, porque **tres de
 ellas venían corrompidas**— son éstas:
@@ -781,9 +790,9 @@ invernadero**: ése es el dato que justifica todo lo anterior.
 
 **Y aquí hay un fallo del propio documento que conviene conocer.** **Anuncia «cuatro líneas
 principales de trabajo con respecto a la gestión sostenible» y enumera tres**: **circularidad**,
-**movilidad** y **cambio climático**. **No falta ninguna en el volcado: falta en la página impresa**,
-comprobado a la vista. **Si una pregunta dice «cuatro», se apoya en la frase; si pide enumerarlas, sólo
-hay tres.**
+**movilidad** y **cambio climático**. **No falta ninguna en el volcado: falta en la página
+impresa**, comprobado a la vista. **Si una pregunta dice «cuatro», se apoya en la frase; si pide
+enumerarlas, sólo hay tres.**
 
 **El sistema de gestión ambiental está inspirado en la norma ISO 14001.**
 
@@ -801,7 +810,8 @@ hay tres.**
 largo recorrido como para última milla.
 
 **Y de Citypaq, el documento da tres razones ambientales**: **sólo se realiza un único intento de
-entrega**; **se pueden entregar varios paquetes en un solo lugar**; y **se ahorran desplazamientos**.
+entrega**; **se pueden entregar varios paquetes en un solo lugar**; y **se ahorran
+desplazamientos**.
 
 ### Los proyectos europeos
 
@@ -812,21 +822,21 @@ entrega**; **se pueden entregar varios paquetes en un solo lugar**; y **se ahorr
 | **SENATOR** | **Correos**, **subvencionado al 100 % por la Comisión Europea** dentro de **Horizonte 2020** | **Nuevo modelo logístico urbano**. **Cuatro años de duración**, **cinco países europeos**, con los ayuntamientos de **Zaragoza y Dublín** |
 | **FoodRus** | — | **Enfoque alimentario circular** para reducir **pérdidas y desperdicio de alimentos** |
 
-**La donación de los envíos abandonados declarados** se canaliza por la plataforma **Globechain**, y su
-fundamento legal es **la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de
+**La donación de los envíos abandonados declarados** se canaliza por la plataforma **Globechain**, y
+su fundamento legal es **la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de
 mercancías**.
 
 ## 11. Emprendimiento e innovación
 
-**Los seis agentes del ecosistema emprendedor** son **startups**, **corporaciones**, **Administraciones
-e instituciones**, **inversores**, **instituciones académicas** y **otros actores** —cámaras de
-comercio, espacios de coworking, organizadores de eventos, clústeres—.
+**Los seis agentes del ecosistema emprendedor** son **startups**, **corporaciones**,
+**Administraciones e instituciones**, **inversores**, **instituciones académicas** y **otros
+actores** —cámaras de comercio, espacios de coworking, organizadores de eventos, clústeres—.
 
 **De las startups, la definición que se pregunta**, citada:
 
-> «**son proyectos empresariales emergentes con un gran potencial de crecimiento. A diferencia de una
-> empresa de nueva creación, una startup no tiene por qué tener un modelo de ingresos aún definido ni
-> tipo de sociedad mercantil establecido.**»
+> «**son proyectos empresariales emergentes con un gran potencial de crecimiento. A diferencia de
+> una empresa de nueva creación, una startup no tiene por qué tener un modelo de ingresos aún
+> definido ni tipo de sociedad mercantil establecido.**»
 
 ---
 
@@ -843,13 +853,14 @@ startup ganadora de cada edición se desarrolla una prueba de concepto o proyect
 externo durante un año**.
 
 **Las seis fases del proceso de innovación abierta** son **definición de retos**, **definición de
-verticales**, **desarrollo de programas de colaboración**, **búsqueda activa o scouting**, **desarrollo
-de pruebas de concepto** y **evaluación de resultados**. **Las verticales son categorías que responden
-a los retos**: **logística, ciberseguridad, fintech, movilidad urbana, e-commerce**.
+verticales**, **desarrollo de programas de colaboración**, **búsqueda activa o scouting**,
+**desarrollo de pruebas de concepto** y **evaluación de resultados**. **Las verticales son
+categorías que responden a los retos**: **logística, ciberseguridad, fintech, movilidad urbana,
+e-commerce**.
 
-**Dos startups con nombre**, y es dato preguntable: **All Read Machine Learning**, que **redujo en más
-de la mitad los errores de lectura automatizada de códigos postales**; y **Mooevo**, que desarrolló un
-**carro de reparto asistido con plataforma de movilidad eléctrica acoplada**.
+**Dos startups con nombre**, y es dato preguntable: **All Read Machine Learning**, que **redujo en
+más de la mitad los errores de lectura automatizada de códigos postales**; y **Mooevo**, que
+desarrolló un **carro de reparto asistido con plataforma de movilidad eléctrica acoplada**.
 
 **El papel del empleado es el elemento diferenciador del programa**: **los tutores son empleados de
 Correos** que **acuerdan y cocrean con la startup el alcance de la colaboración**, **aseguran la
@@ -880,21 +891,20 @@ comunicación**, **coordinan el seguimiento de los hitos** y **presentan los res
 
 **Tres advertencias sobre este tema, y las tres se han ganado a pulso.**
 
-**La primera: el nueve.** **El documento va sin capa de texto y se ha reconocido ópticamente**, y **su
-tipografía dibuja el nueve de manera que el reconocedor lo lee como un cuatro**, y a veces **añade un
-cuatro de más**. **En este tema han hecho falta cuarenta y cinco correcciones**, todas registradas en
-**el registro de correcciones de este temario** con cómo se comprobó cada una. **Las peores no eran
-fechas, sino números de artículo.** El volcado devolvía **«Artículo 24 de la Ley 31/1995»** donde la
-página imprime **«Artículo 29»**; **«Art.4»** donde imprime **«Art.9»**; **«arts. 18 y 14»** donde
-imprime **«18 y 19»**; **«mitigación del 34 %»** donde imprime **«39 %»**; **«los 143 líderes
-mundiales»** donde imprime
-**«193»**; **«442.000 kilos de alimentos»** donde imprime **«942.000»**; y **«1490 entidades
-sociales»** donde imprime **«190»**. **Un número de artículo y un porcentaje no tienen rango
-imposible**: la herramienta que caza las cifras absurdas no los ve, y **sólo los caza ir a mirar la
-página**. **Y los números de artículo son los más peligrosos de todos**, porque **un artículo
-equivocado no parece un error: parece una discrepancia entre el documento y el Boletín**, que es
-justo lo que este proyecto se obliga a declarar. **Declararla habría sido publicar un error con el
-sello de haberlo verificado.**
+**La primera: el nueve.** **El documento va sin capa de texto y se ha reconocido ópticamente**, y
+**su tipografía dibuja el nueve de manera que el reconocedor lo lee como un cuatro**, y a veces
+**añade un cuatro de más**. **En este tema han hecho falta cuarenta y cinco correcciones**, todas
+registradas en **el registro de correcciones de este temario** con cómo se comprobó cada una. **Las
+peores no eran fechas, sino números de artículo.** El volcado devolvía **«Artículo 24 de la Ley
+31/1995»** donde la página imprime **«Artículo 29»**; **«Art.4»** donde imprime **«Art.9»**;
+**«arts. 18 y 14»** donde imprime **«18 y 19»**; **«mitigación del 34 %»** donde imprime **«39 %»**;
+**«los 143 líderes mundiales»** donde imprime **«193»**; **«442.000 kilos de alimentos»** donde
+imprime **«942.000»**; y **«1490 entidades sociales»** donde imprime **«190»**. **Un número de
+artículo y un porcentaje no tienen rango imposible**: la herramienta que caza las cifras absurdas no
+los ve, y **sólo los caza ir a mirar la página**. **Y los números de artículo son los más peligrosos
+de todos**, porque **un artículo equivocado no parece un error: parece una discrepancia entre el
+documento y el Boletín**, que es justo lo que este proyecto se obliga a declarar. **Declararla
+habría sido publicar un error con el sello de haberlo verificado.**
 
 **Y el caso que ninguna herramienta habría cazado nunca**: el volcado decía **«164 metas»** donde el
 documento imprime **«169»**. **Ciento sesenta y cuatro es un número perfectamente posible.** **Lo
@@ -906,7 +916,7 @@ comprobado a la vista, y de ahí se ha deducido el resto por patrón. **Quedan s
 subcódigos de registro** —del tipo `PR013-RO1`— **porque no se han comprobado a la vista y este
 temario no los usa.** Se dice para que nadie los copie de ahí.
 
-**La tercera: las dos discrepancias del documento consigo mismo.** **Anuncia cuatro líneas de gestión
-sostenible y enumera tres**, y **da 2.370 oficinas en una página y 2.400 en otras dos**. **Ninguna de
-las dos es culpa del reconocimiento**: las cuatro páginas se han mirado. **Son del documento**, y el
-opositor tiene derecho a saberlo antes del examen y no durante.
+**La tercera: las dos discrepancias del documento consigo mismo.** **Anuncia cuatro líneas de
+gestión sostenible y enumera tres**, y **da 2.370 oficinas en una página y 2.400 en otras dos**.
+**Ninguna de las dos es culpa del reconocimiento**: las cuatro páginas se han mirado. **Son del
+documento**, y el opositor tiene derecho a saberlo antes del examen y no durante.

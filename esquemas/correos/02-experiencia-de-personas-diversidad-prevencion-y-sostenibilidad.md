@@ -6,7 +6,7 @@ prevención de riesgos laborales (**PRL**); el Reglamento de los Servicios de Pr
 que es el Real Decreto 39/1997; el Instituto Nacional de Seguridad y Salud en el Trabajo
 (**INSST**); el puesto de trabajo preventivo (**PTP**); el equipo de protección individual
 (**EPI**); la responsabilidad social corporativa (**RSC**); y los Objetivos de Desarrollo Sostenible
-(**ODS**).
+(**ODS**). Y las que este esquema usa además: el Comité Estatal de Seguridad y Salud Laboral (**CESL**) y el Comité Provincial (**CPSS**); la Ley sobre Infracciones y Sanciones en el Orden Social (**LISOS**); el Plan Nacional Integrado de Energía y Clima (**PNIEC**); el gas licuado del petróleo (**GLP**) y el gas natural comprimido (**GNC**); el distintivo ambiental de la Dirección General de Tráfico (**ECO**); el Laboratori General d'Assaigs i Investigacions (**LGAI**); la Mutualidad General de Funcionarios Civiles del Estado (**MUFACE**); los Objetivos de Desarrollo del Milenio (**ODM**); la Oficina de Registro Virtual de Entidades (**ORVE**); el asistente digital personal (**PDA**); la responsabilidad social empresarial (**RSE**), la responsabilidad corporativa (**RC**) y la responsabilidad social (**RS**); el recurso preventivo (**RP**); ciencia, tecnología, ingeniería y matemáticas (**STEM**, por sus siglas inglesas); lesbianas, gais, bisexuales, trans, intersexuales y queer (**LGBTIQ**); y el virus de la inmunodeficiencia humana (**VIH**).
 
 **Cabecera.** **Cuatro materias cosidas en un tema**: **gestión de personas**, **diversidad**,
 **prevención de riesgos laborales** y **sostenibilidad** · **la mitad de prevención es norma y se
