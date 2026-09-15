@@ -394,6 +394,8 @@ c) 7 kg
 d) 5 kg
 ```
 
+*La contesta el epígrafe 3.10.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 64 · respuesta: d**
@@ -405,6 +407,8 @@ b) El Paquete Azul dispone de tres modalidades de entrega: entrega en domicilio,
 c) El Paquete Azul dispone de cuatro modalidades de entrega: entrega en domicilio, entrega en oficina de referencia, entrega en oficina elegida y entrega en Citypaq.
 d) El Paquete Azul dispone de una modalidad de entrega: entrega a domicilio
 ```
+
+*La contesta el epígrafe 3.10.*
 
 ---
 
@@ -418,6 +422,8 @@ c) Se basa en códigos EAN
 d) Se basa en códigos QR Página 9 de 13 - REP/A
 ```
 
+*La contesta el epígrafe 3.12.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 87 · respuesta: d**
@@ -429,6 +435,8 @@ b) 2.499,99 €
 c) 6.000 €
 d) 999,99 €
 ```
+
+*La contesta el epígrafe 3.10.*
 
 ---
 
@@ -442,6 +450,8 @@ c) Citypaq en espacios públicos
 d) Tarjetas prepago de Correos
 ```
 
+*La contesta el epígrafe 3.14.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 102 · respuesta: b**
@@ -453,4 +463,6 @@ b) 2 kg
 c) Es variable, en función de cuál sea el país de destino
 d) 1 kg
 ```
+
+*La contesta el epígrafe 3.4.*
 

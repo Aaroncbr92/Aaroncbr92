@@ -16,6 +16,8 @@ c) Zona Logística
 d) UAM
 ```
 
+*La contesta el epígrafe 8.3.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 60 · respuesta: d**
@@ -27,6 +29,8 @@ b) Área centro: Madrid, Castilla la Mancha y Extremadura
 c) Área insular: Islas Canarias
 d) Área sur: Andalucía
 ```
+
+*La contesta el epígrafe 8.3.1.*
 
 ---
 
@@ -40,6 +44,8 @@ c) Provincial y local
 d) Interzonal y provincial
 ```
 
+*La contesta el epígrafe 8.4.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 105 · respuesta: a**
@@ -51,6 +57,8 @@ b) Recogida, clasificación, transporte, admisión, distribución y entrega
 c) Recogida, admisión, transporte, distribución, clasificación y entrega
 d) Recogida, admisión, clasificación, transporte, entrega y distribución
 ```
+
+*La contesta el epígrafe 8.2.*
 
 ---
 
@@ -64,6 +72,8 @@ c) En IRV
 d) En FSM
 ```
 
+*La contesta el epígrafe 8.6.2.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 19 · respuesta: b**
@@ -75,6 +85,8 @@ b) CLI Barcelona
 c) CTA Colón
 d) CTP El Prat
 ```
+
+*La contesta el epígrafe 8.3.2.*
 
 ---
 
@@ -102,6 +114,8 @@ c) Red interzonal en abanico
 d) Red vertical
 ```
 
+*La contesta el epígrafe 8.4.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 37 · respuesta: a**
@@ -114,6 +128,8 @@ c) Videocodificación, preparación, evacuación y alimentación
 d) Evacuación, alimentación, preparación y videocodificación Página 4 de 13 - REP/A A
 ```
 
+*La contesta el epígrafe 8.3.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 47 · respuesta: c**
@@ -125,6 +141,8 @@ b) Amarillo
 c) Naranja
 d) Verde Preguntas psicotécnicas: Un científico experto en Natalidad y Fertilidad Animal está interesado en conocer los nacimientos de ovejas dentro de las comarcas de cierta Comunidad Autónoma a lo largo de los años. Concretamente ha estudiado las comarcas de Villamayor, Castillar y Cantar del Lobo. De acuerdo con la información recopilada, conteste a las siguientes preguntas:
 ```
+
+*La contesta el epígrafe 8.6.2.*
 
 ---
 
@@ -152,6 +170,8 @@ c) Es el documento que establece el orden de prioridad en la carga por productos
 d) Ninguna de las respuestas anteriores es correcta
 ```
 
+*La contesta el epígrafe 8.6.5.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 103 · respuesta: d**
@@ -163,4 +183,6 @@ b) CTA de Mallorca
 c) CTA Las Palmas
 d) CTA de Tenerife
 ```
+
+*La contesta el epígrafe 8.3.1.*
 

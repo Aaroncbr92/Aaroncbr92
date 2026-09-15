@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | **No procede.** La **Ley 43/2010**, de la que salen las seis operaciones postales, va en su redacción vigente |
 | **Norma de apoyo** | **Ley 43/2010** · `BOE-A-2010-20139` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 8**, reconocido ópticamente |
-| **Extensión** | **3.374 palabras** |
+| **Extensión** | **3.865 palabras** |
 
 <!-- /portada -->
 
@@ -81,6 +81,25 @@ postal hasta el centro de distribución.**
 | **CTL** | **Centros de tratamiento local** |
 | **CT** | **Centro de tratamiento de paquetería**, los **centros nodales** |
 
+**Dentro de un centro, las unidades tienen sus propias siglas y el examen las cruza.** **La Unidad
+de Productos Ordinarios (UPO) es la encargada de la clasificación automática y manual de los
+productos ordinarios**, que son **los que no llevan trazabilidad en los sistemas de Correos** —es la
+número 41 del cuestionario de Atención al Cliente—; **frente a ella, la Unidad de Productos
+Registrados (UPR) trata lo que sí la lleva**, **la Unidad de Admisión Masiva (UAM) recibe los
+depósitos de grandes clientes** y **la zona logística carga y descarga**.
+
+**Y sus procesos van en orden, que es otra pregunta.** Citado:
+
+> «**En el área de clasificación automática: preparación, alimentación, videocodificación y
+> evacuación.**»
+
+---
+
+**Preparación, alimentación, videocodificación y evacuación** —es la número 37 del cuestionario de
+Reparto—. **En el área de clasificación manual son sólo dos**: **clasificación y evacuación**. **Y
+la clasificación se hace según tamaño y dimensión**: **normalizado al contenedor pequeño A**; **no
+normalizado o FLAT al mediano B**; **gordo al A, B o C**.
+
 **Los CT son la novedad y el documento la subraya**: **son centros nodales de nueva creación a nivel
 provincial para el tratamiento de la paquetería**, que **suponen un cambio importante para gestionar la
 red y sus recursos de manera conjunta**, **aprovechando las sinergias dentro del grupo Correos**. **En
@@ -112,6 +131,24 @@ se preguntan:
 | **Granada** | Almería, Granada y Jaén |
 | **Tenerife** | El Hierro, La Gomera, La Palma y Tenerife |
 | **Las Palmas** | Gran Canaria, Lanzarote y Fuerteventura |
+
+**Por encima de los centros está la organización periférica, y sus siete áreas tienen composición
+exacta.** **El examen no pregunta cuáles son: pregunta cuál está mal descrita**, y la trampa es
+siempre una comunidad que se queda corta:
+
+| Área | Qué comprende |
+|---|---|
+| **Noroeste** | **Galicia, Asturias y Castilla y León EXCEPTO Soria** |
+| **Norte** | **País Vasco, Navarra, La Rioja, Cantabria, Aragón y Soria** |
+| **Noreste** | **Cataluña** |
+| **Centro** | **Madrid, Castilla-La Mancha y Extremadura** |
+| **Este** | **Comunidad Valenciana, Murcia e Islas Baleares** |
+| **Sur** | **Andalucía, CEUTA Y MELILLA** |
+| **Insular** | **Islas Canarias** |
+
+**«Área sur: Andalucía» es incompleta**, y por eso fue la respuesta —es la número 60 del cuestionario
+de Atención al Cliente—: **le faltan Ceuta y Melilla**. **La misma trampa vale para el noroeste, que
+no es Castilla y León entera: Soria está en el norte.**
 
 **Las cinco asignaciones que más se fallan** son **Soria y Navarra a Zaragoza**, **Cantabria y La Rioja a
 Vitoria**, **Murcia a Alicante**, **Ceuta a Sevilla** y **Melilla a Málaga**. **Y hay dos centros que
@@ -265,6 +302,19 @@ FSM no sabe leer direcciones: sólo el código que la IRV le ha puesto.**
 
 **El sistema de clasificación de gordo (SCG) permite la lectura de 7.000 a 8.000 envíos a la hora.**
 
+**Y las máquinas avisan de que se quedan sin bandejas con un semáforo de tres colores**, que es una
+pregunta de detalle:
+
+| Luminoso | Qué significa |
+|---|---|
+| **Naranja** | **Alimentar URGENTEMENTE** |
+| **Verde** | **Alimentar en breve** |
+| **Apagado** | **Existencias suficientes** |
+
+**Naranja es la urgencia, no el verde** —es la número 47 del cuestionario de Reparto—, que preguntó
+por la configuración de no normalizado TOP (FLAT). **Va al revés de un semáforo de tráfico**, y por
+eso se falla.
+
 ### Qué correo se retira a mano
 
 **Antes de alimentar, el operario segrega el formato automatizable del irregular.** **Siete supuestos de
@@ -323,6 +373,13 @@ correo con sello.
 
 **Una función de la máquina que el documento nombra literalmente y puede preguntarse**: **«¿Por qué no
 está listo?»**, que se usa **en caso de parada, para resolver cuanto antes la incidencia**.
+
+**El mapa de carga es el documento que gobierna la salida**, y el documento lo define así: **el que
+establece el orden de prioridad en la carga por productos para cada ruta de transporte** —es la
+número 65 del cuestionario de Reparto—. **Sirve para tres cosas**: **cargar según las prioridades y
+el orden que marca**, **evitar errores de encaminamiento** y **optimizar al máximo la capacidad del
+vehículo**. **La carga de vehículos es una tarea crítica de la zona logística, que marca la calidad
+del centro.**
 
 **Y una aplicación con nombre propio que sólo aparece aquí.** **No se cita porque no se puede**: la
 frase vive **en el rótulo de un diagrama**, y la capa de texto del documento la devuelve con las

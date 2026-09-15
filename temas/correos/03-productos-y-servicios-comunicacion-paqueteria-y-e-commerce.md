@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | **No procede**: el catálogo no tiene redacción consolidada. Las **dos normas que el tema sí usa** van en su redacción vigente |
 | **Norma de apoyo** | **Real Decreto 1829/1999** · `BOE-A-1999-24919` y **Ley 39/2015** · `BOE-A-2015-10565` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 3**, reconocido ópticamente |
-| **Extensión** | **8.358 palabras** |
+| **Extensión** | **8.862 palabras** |
 
 <!-- /portada -->
 
@@ -175,6 +175,10 @@ sea desconocido o haya fallecido.
 **Y una regla de exportación que vale para todo el tema**: **para exportar envíos con mercancía fuera
 de la Unión Europea hay que usar al menos Carta Certificada Internacional o cualquier otro producto
 registrado**, porque **hay que informar telemáticamente al país de destino del contenido**.
+
+**Su peso máximo es el mismo que el de la carta nacional: 2 kg** —es la número 102 del cuestionario
+de Reparto—. **No varía según el país de destino**, que es el señuelo: **lo que varía por país son
+las zonas tarifarias y los plazos, no el límite de peso de la carta.**
 
 ### El código de barras, y lo que dicen sus dos primeras letras
 
@@ -408,7 +412,22 @@ dividido entre 6.000**.
 | **Paquete Azul** | **Entre 3 y 8 días de promedio** según destino | **20 kg**, con **volumétrico máximo de 50 kg** | **Caja: L+A+A = 200 cm**, la mayor ≤ **100 cm**; **rollo: L = 100 cm, D = 15 cm** |
 
 **El Paq Today sólo tiene una zona, la Z1 provincial**, y **admite hasta 10 bultos por expedición**.
-**Su entrega consta de 2 intentos y 15 días de permanencia en oficina.**
+**Su entrega consta de 2 intentos y 15 días de permanencia en oficina.** **Y su peso real máximo son
+5 kg** —es la número 55 del cuestionario de Reparto—, **muy por debajo de los 30 kg del Paq Premium
+y del Paq Estándar**: es el producto más ligero de la tabla y por eso la cifra se cuela.
+
+**Del Paquete Azul hay que saber que tiene una sola modalidad de entrega, y es a domicilio**, bajo
+firma —es la número 64 del cuestionario de Reparto—. **No admite oficina de referencia, ni oficina
+elegida, ni Citypaq**, que son precisamente las tres que el examen ofrecía sumándolas. **Lo que sí
+ocurre es que, si no se entrega en ese único intento, el destinatario dispone de 15 días para
+recogerlo en la oficina de referencia de su domicilio**: **eso es recogida tras un intento fallido,
+no una modalidad de entrega contratable.**
+
+**Y del reembolso de la paquetería urgente de Correos Express, el tope es otro**: **el cobro al
+destinatario se hace en efectivo y el importe máximo a cobrar es de 999,99 €** —es la número 87 del
+cuestionario de Reparto, sobre el Paq 14—, con **devolución del importe por transferencia bancaria
+entre 4 y 6 días laborables después de la entrega**. **No confundirlo con los topes del reembolso de
+Correos**, que son **499,99 €** a domicilio o apartado y **2.499,99 €** en abono en cuenta.
 
 **Las zonas del Paq Premium y del Paq Estándar son nueve y hay que sabérselas en orden**, porque la
 pregunta suele pedir una por su número:
@@ -565,6 +584,14 @@ delegaciones dispersas.**
 octubre**, con nueve rutas disponibles; **temporada baja del 1 de noviembre al 1 de abril**, **sólo en
 el Camino Francés de Sarria a Santiago**.
 
+**Y su trazabilidad no va por código de barras como el resto del catálogo**: va por **código de
+respuesta rápida (QR)** —es la número 80 del cuestionario de Reparto—. **El documento llama código QR al código de barras
+bidimensional cuadrado que almacena los datos codificados para su lectura con un lector óptico**, y
+**el Paq Mochila cuenta con un sistema de trazabilidad propio basado en esa lectura**: **el QR de
+seguimiento va en la etiqueta con los datos de la reserva**, que **el peregrino coloca en su
+equipaje**; **al recogerlo, el cartero lee el código y el peregrino recibe un correo electrónico
+avisándole**, y **el cartero repite la operación al entregar**.
+
 **Y el envío de bicicleta tiene su propia ficha**: **embalaje de 150 × 30 × 40 cm**, que **permite
 introducir la bicicleta sin apearla**, con **peso máximo de 20 kg** y **plazo estimado de 3 días**.
 
@@ -666,6 +693,20 @@ citando las facturas del contrato y Correos Frío: **las dos cosas están en Mi 
 
 **Particulares y empresas, y ésa es la respuesta** —es la número 63 de Atención al Cliente—. **No
 confundirla con correos.com**, que es **la web institucional del Grupo**.
+
+**Y Correos Market tiene además una definición de intención, que el tema 2 del documento da y el
+examen pregunta por su letra.** Citada:
+
+> «**Correos Market. Es la iniciativa estratégica de nuestra compañía para dar visibilidad y acceso a
+> los emprendedores y pequeños productores de todas las localidades y pueblos de España al gran
+> mercado nacional, con él contribuimos al reto demográfico.**»
+
+---
+
+**Visibilidad a emprendedores y pequeños productores de todos los pueblos** —es la número 99 del
+cuestionario de Reparto—, y **con ello Correos dice contribuir a frenar la despoblación rural**.
+**Frente a los tres señuelos —Correos Cash, Citypaq en espacios públicos y las tarjetas prepago—, es
+la única que se declara iniciativa estratégica de comercio.**
 
 **De Correos Market hay que retener el modelo económico, porque es pregunta de cifra**: **el vendedor
 formaliza un contrato de paquetería sin permanencia ni compromiso de ventas mínimo**; **Correos cobra

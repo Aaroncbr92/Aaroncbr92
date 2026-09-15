@@ -16,6 +16,8 @@ c) Declaración de Actividad Económica
 d) Ninguna de las respuestas anteriores es correcta
 ```
 
+*La contesta el epígrafe 12.10.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 17 · respuesta: a**
@@ -27,6 +29,8 @@ b) Tarjeta de Identidad de Extranjero o Tarjeta de residencia
 c) Tarjeta de Asilo Político
 d) Pasaporte válido en el país de procedencia que incorpore fotografía de su titular
 ```
+
+*La contesta el epígrafe 12.10.*
 
 ---
 
@@ -40,6 +44,8 @@ c) Caracteres alfanuméricos, incluyendo letras mayúsculas, minúsculas, dígit
 d) Datos fácilmente recordables, como mi nombre, mi fecha de nacimiento, mi DNI, mi dirección o nombres de familiares cercanos.
 ```
 
+*La contesta el epígrafe 12.15.2.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 45 · respuesta: d**
@@ -51,6 +57,8 @@ b) Son tácticas utilizadas para obtener datos de naturaleza sensible de una per
 c) Es una actividad maliciosa en la que un atacante se hace pasar por otra persona para cometer algún tipo de fraude.
 d) Es el conjunto de medidas de protección de la información en formato digital alojada en sistemas de información interconectados. Página 5 de 14 - ATC/A
 ```
+
+*La contesta el epígrafe 12.15.*
 
 ---
 
@@ -64,6 +72,8 @@ c) El derecho a la protección de datos es un derecho de los titulares, pero no 
 d) El derecho a la protección de datos personales no está recogido en la Carta de los Derechos Fundamentales de la Unión Europea.
 ```
 
+*La contesta el epígrafe 12.2.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 73 · respuesta: a**
@@ -75,6 +85,8 @@ b) La confidencialidad es uno de los principios en materia de protección de dat
 c) Los empleados juegan un papel fundamental en la aplicación de las medidas de seguridad técnicas y organizativas para evitar el tratamiento no autorizado, o ilícito, pérdida o destrucción o daño accidental, durante el tratamiento de los datos o uso de los datos personales en el desempeño de sus funciones.
 d) Los responsables y encargados del tratamiento de datos, así como todas las personas que intervengan en cualquier fase estarán sujetos en todo momento al deber de confidencialidad.
 ```
+
+*La contesta el epígrafe 12.4.*
 
 ---
 
@@ -88,6 +100,8 @@ c) No, no es necesario tenerlo al no pertenecer Correos a la Administración Gen
 d) Sí, se ha creado y está ubicado en Conecta para facilitar el acceso al colectivo al que va dirigido: los empleados de Correos.
 ```
 
+*La contesta el epígrafe 12.14.*
+
 ---
 
 **Cuestionario-ATC_A_07052023 · nº 107 · respuesta: c**
@@ -99,6 +113,8 @@ b) Es potestativo, depende de la finalidad de la operación
 c) Sí, los menores presentan un riesgo más elevado
 d) No, las medidas reforzadas solo se aplican a clientes relacionados con peticiones de juzgados o de la policía
 ```
+
+*La contesta el epígrafe 12.10.*
 
 ---
 
@@ -112,6 +128,8 @@ c) Recabar y elaborar las informaciones requeridas por el SEPBLAC y otras autori
 d) Realizar la identificación y verificación de los clientes, así como la correcta introducción de sus datos y el escaneado de la documentación aportada en los sistemas informáticos.
 ```
 
+*La contesta el epígrafe 12.11.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 39 · respuesta: d**
@@ -123,6 +141,8 @@ b) La Comisión de Control
 c) El representante ante el SEPBLAC
 d) El Consejo de Administración
 ```
+
+*La contesta el epígrafe 12.11.*
 
 ---
 
@@ -136,6 +156,8 @@ c) El único riesgo que existe es la velocidad de conexión, que puede ser menor
 d) Solo evito los riesgos si me conecto desde dispositivos de marcas reconocidas en el mercado
 ```
 
+*La contesta el epígrafe 12.15.2.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 82 · respuesta: c**
@@ -147,6 +169,8 @@ b) No es necesario dar ningún tipo de información a los remitentes de un enví
 c) Cuando los datos se obtienen de un interesado, en el momento en que estos se obtengan se le ha de facilitar, entre otra, la siguiente información: identidad del responsable del tratamiento, los fines del tratamiento y la existencia del derecho a solicitar al responsable del tratamiento el ejercicio de sus derechos.
 d) La empresa, como responsable del tratamiento de datos, tiene la opción de facilitar al interesado, o no hacerlo, la información en materia de protección de datos de carácter personal. Preguntas psicotécnicas:
 ```
+
+*La contesta el epígrafe 12.4.1.*
 
 ---
 
@@ -160,6 +184,8 @@ c) Sí, dispone de un Código General de Conducta desde el año 2010, pero está
 d) Sí, dispone de un Código General de Conducta desde el año 2005 y su revisión se aprobó en 2021 por el Consejo de Administración.
 ```
 
+*La contesta el epígrafe 12.13.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 96 · respuesta: b**
@@ -172,6 +198,8 @@ c) Toda información sobre una persona física identificada y cuando la identida
 d) Ninguna de las anteriores respuestas es correcta
 ```
 
+*La contesta el epígrafe 12.3.*
+
 ---
 
 **Cuestionario-REP_A_07052023 · nº 108 · respuesta: a**
@@ -183,4 +211,6 @@ b) Las que regalan dispositivos electrónicos y viajes
 c) No se suele utilizar la marca Correos para campañas de phishing, pero los pocos casos que hay son de temáticas variadas.
 d) Aquellas en las que te llaman por teléfono para verificar tus datos y obtener información
 ```
+
+*La contesta el epígrafe 12.15.*
 

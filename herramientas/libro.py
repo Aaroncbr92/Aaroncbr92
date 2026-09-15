@@ -2053,11 +2053,9 @@ BLOQUES = {
         convocatoria="Oposiciones Correos · convocatoria de 27 de mayo de 2022",
         epoca="del examen del 7 de mayo de 2023",
         titular_preguntas="la Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.",
-        # la portada sólo promete el remite cuando lo llevan TODAS: mientras
-        # `refutar_remites.py` diga «sin remitir todavía: N» con N mayor que
-        # cero, prometerlo sería anunciar en la primera página algo que no está
-        # debajo de cada pregunta
-        remite_epigrafe=False,
+        # la portada sólo promete el remite cuando lo llevan TODAS. Hoy lo
+        # llevan: `refutar_remites.py` dice «200 comprobados, 0 sin remitir»
+        remite_epigrafe=True,
         linea_corte="Programa del <b>Anexo III</b>, publicado el <b>14 de octubre de 2022</b>",
         caja_corte=(
             "<p><b>Este volumen no sale de una norma con fecha de corte, sino de un "

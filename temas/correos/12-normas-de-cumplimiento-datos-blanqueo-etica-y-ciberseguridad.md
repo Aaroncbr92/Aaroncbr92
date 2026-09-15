@@ -11,7 +11,7 @@
 | **Redacción que se estudia** | Las **vigentes hoy**. Se comprueban contra ellas los **artículos 4, 5, 9, 18.4 y 26** de la Ley 10/2010 y los **artículos 2, 3, 6, 7 y 8** de la Ley 19/2013 |
 | **Norma de apoyo** | **Ley Orgánica 3/2018** · `BOE-A-2018-16673` y **Ley 3/2013** · `BOE-A-2013-5940` |
 | **Fuente principal** | El documento de referencia que publica la propia Correos para esta convocatoria, **tema 12**, reconocido ópticamente |
-| **Extensión** | **10.513 palabras** |
+| **Extensión** | **11.527 palabras** |
 
 <!-- /portada -->
 
@@ -50,6 +50,7 @@ que contarlas.**
 - [1. Protección de datos: el derecho y sus dos normas](#1-protección-de-datos-el-derecho-y-sus-dos-normas)
 - [2. Las definiciones del Reglamento](#2-las-definiciones-del-reglamento)
 - [3. Los siete principios del artículo 5](#3-los-siete-principios-del-artículo-5)
+  - [Qué hay que decirle al interesado cuando se le piden sus datos](#qué-hay-que-decirle-al-interesado-cuando-se-le-piden-sus-datos)
 - [4. Las seis bases legítimas y el consentimiento](#4-las-seis-bases-legítimas-y-el-consentimiento)
 - [5. Los derechos de los interesados](#5-los-derechos-de-los-interesados)
 - [6. Las obligaciones de la empresa](#6-las-obligaciones-de-la-empresa)
@@ -64,6 +65,7 @@ que contarlas.**
   - [Las exclusiones y el derecho de acceso](#las-exclusiones-y-el-derecho-de-acceso)
 - [14. Seguridad de la información y ciberseguridad](#14-seguridad-de-la-información-y-ciberseguridad)
   - [El decálogo de seguridad](#el-decálogo-de-seguridad)
+  - [La contraseña y la red pública, que tienen regla escrita](#la-contraseña-y-la-red-pública-que-tienen-regla-escrita)
 - [15. Las discrepancias del documento](#15-las-discrepancias-del-documento)
 - [16. Lo que este tema no da, y dónde está](#16-lo-que-este-tema-no-da-y-dónde-está)
 - [17. Trazabilidad](#17-trazabilidad)
@@ -158,6 +160,37 @@ datos sensibles**; **comprobar el destinatario antes de enviar**; **no dejar des
 carritos con cartas o paquetes ni los dispositivos electrónicos**; **no dejar información accesible
 en la mesa ni en la impresora**; **guardar la documentación en armarios y cajones cerrados con
 llave**; y **destruir los documentos con las destructoras que la compañía pone a disposición**.
+
+**Que esa lista exista es la respuesta a una pregunta que se plantea al revés.** **El examen de 2023
+pidió la afirmación INCORRECTA sobre el principio de integridad y confidencialidad** —es la número
+73 del cuestionario de Atención al Cliente— **y la falsa decía que los empleados no tienen
+obligación de confidencialidad sobre los datos a los que hayan podido acceder en el ejercicio de sus
+funciones**. **La tienen**: **el deber de confidencialidad es de puesto**, tiene su lista de
+conductas, **y se mantiene aun después de finalizada la relación, de forma indefinida**.
+
+### Qué hay que decirle al interesado cuando se le piden sus datos
+
+**El principio de transparencia se concreta en una lista de información obligatoria**, y **el momento
+es la recogida**, no después. Citado:
+
+> «**Cuando se obtengan de un interesado datos personales relativos a él, el responsable del
+> tratamiento, en el momento en que estos se obtengan, le facilitará toda la información indicada a
+> continuación:**»
+
+**Y esa información es:**
+
+| Qué hay que facilitar |
+|---|
+| **La identidad y los datos de contacto del responsable** |
+| **Los fines del tratamiento a que se destinan los datos personales y la base jurídica del tratamiento** |
+| **El plazo durante el cual se conservarán los datos** o, cuando no sea posible, **los criterios utilizados para determinarlo** |
+| **La existencia del derecho a solicitar al responsable el acceso, la rectificación o la supresión**, o **la limitación del tratamiento**, o **a oponerse a él**, **así como el derecho a la portabilidad de los datos** |
+| **El derecho a presentar una reclamación ante una autoridad de control** |
+
+**Cinco bloques, y el examen los dio resumidos en una sola opción** —es la número 82 del
+cuestionario de Reparto—: **identidad del responsable, fines, plazo, derechos y reclamación**.
+**Hay además una lista distinta para cuando los datos NO se recogen directamente del interesado**, y
+**no son la misma**: ésa es la separación que el documento marca.
 
 ## 4. Las seis bases legítimas y el consentimiento
 
@@ -490,6 +523,23 @@ Comunidad Autónoma y de las Entidades Locales de más de 50.000 habitantes**.
 | **Representante ante el SEPBLAC** | **Persona residente en España que ejerza cargo de administración o dirección**; **canaliza todas las comunicaciones** |
 | **Área de PBC** | **Unidad técnica para el tratamiento y análisis de la información**, **integrada en la Vicesecretaría General y del Consejo**, con **dedicación exclusiva** |
 
+**Y debajo de los cuatro niveles está el mostrador, con sus funciones tasadas.** **Las de los
+empleados de oficina y de unidad de distribución son cumplir el manual de procesos internos y, en
+particular, cinco cosas:**
+
+| Función del empleado en prevención del blanqueo |
+|---|
+| **Realizar la identificación y verificación de los clientes**, así como **la correcta introducción de sus datos y el escaneado de la documentación aportada en los sistemas informáticos** |
+| **Comprobar que los datos e informaciones incluidos en los sistemas coinciden con los grabados** y **modificarlos en caso de variación** |
+| **Identificar cualquier operación que dé lugar a sospechas o indicios** de posible vinculación con el blanqueo, **comunicándolo a la mayor brevedad al responsable de la oficina o unidad de distribución** |
+| **Recibir los cursos de formación establecidos** y **conocer y poner en marcha los procedimientos** |
+| **Mantener el deber de confidencialidad** respecto de todas las operaciones o clientes considerados sospechosos |
+
+**La primera es la que el examen dio por buena** —es la número 11 del cuestionario de Reparto—.
+**Lo que no es función del empleado de mostrador es autorizar**: **autorizar las operaciones con
+personas con responsabilidad pública y aquellas en que se apliquen medidas reforzadas es de un
+nivel superior**, y ahí está la trampa.
+
 **La composición de la Comisión de Control**, conforme al **artículo 35 del Real Decreto 304/2014**:
 **la Presidencia la ostenta el titular de la Subdirección de Compliance y Buen Gobierno**; **la
 Secretaría, un representante de la Subdirección de Servicios Jurídicos**; y **hay cinco vocalías**,
@@ -651,6 +701,19 @@ sociedades mercantiles estatales con participación pública superior al 50 %**,
 del artículo 2. **El accionista único de Correos es la Sociedad Estatal de Participaciones
 Industriales (SEPI)**, dependiente del **Ministerio de Hacienda y Función Pública**.
 
+**Y Correos tiene Portal de Transparencia propio.** Citado:
+
+> «**la rendición de cuentas con los grupos de interés es importante para Correos, dando acceso
+> público a la información a través del Portal de Transparencia de Correos, mediante el cual los
+> ciudadanos pueden solicitar información sobre la compañía**»
+
+---
+
+**Existe, está en la web corporativa y sirve para que el ciudadano pida información** —es la número
+82 del cuestionario de Atención al Cliente—. **La rendición de cuentas es el proceso por el cual los
+grupos de interés de una organización —sociedad, clientes, accionistas, empleados— pueden vigilar y
+evaluar la gestión de sus servicios a través de mecanismos de transparencia y fiscalización.**
+
 **Los otros sujetos obligados sólo a publicidad activa**, con las tres cifras que se preguntan
 juntas: **los partidos políticos, organizaciones sindicales y organizaciones empresariales**; y
 **las entidades privadas que perciban durante el periodo de un año ayudas o subvenciones públicas en
@@ -728,6 +791,18 @@ vulnerabilidad, que afecta al activo y provoca un impacto**; y **impacto × prob
 **smishing si se realiza a través de mensaje corto de texto (SMS)** y **vishing si se realiza a
 través de voz**.
 
+**Y cuáles son las campañas más habituales con la marca Correos**, que el documento nombra por su
+contenido:
+
+> «**Las campañas de phishing más habituales con la marca Correos son aquellas en las que se solicita
+> completar la dirección de entrega o pagar tasas de aduana para recibir un paquete, entre otras.**»
+
+---
+
+**Completar la dirección de entrega o pagar tasas de aduana** —es la número 108 del cuestionario de
+Reparto—. **Las dos imitan un trámite real**, y por eso funcionan: **el destinatario que espera un
+paquete reconoce el gesto.**
+
 **Y la regla que Correos repite y que el examen puede plantear como caso**: **Correos nunca solicita
 datos personales o bancarios por correo electrónico, ni tampoco realizar pagos online para la
 recepción de un paquete**.
@@ -777,6 +852,34 @@ sólo devolvió seis de ellos:**
 | **10** | **Notifica cualquier incidente de seguridad en el buzón de uso interno** |
 
 **Y el lema con que se cierra**: **«¡Aplica el sentido común y trabaja de forma segura!»**.
+
+### La contraseña y la red pública, que tienen regla escrita
+
+**De la contraseña, el documento da una composición mínima**, citada:
+
+> «**Recordar que una contraseña segura se compone, como mínimo, de ocho caracteres alfanuméricos,
+> incluyendo letras mayúsculas, minúsculas, dígitos y signos de puntuación.**»
+
+---
+
+**Ocho caracteres alfanuméricos con mayúsculas, minúsculas, dígitos y signos de puntuación** —es la
+número 22 del cuestionario de Atención al Cliente—. **Y tres reglas más de manejo**: **cambiarla al
+menos una vez al año**; **modificarla ante la sospecha de que alguien la conoce**; y **no usar
+información previsible, nombres comunes ni palabras del diccionario**, porque **el 90 % de las
+contraseñas son vulnerables** por usar formatos sencillos y fáciles de recordar.
+
+**De la red wifi pública, el consejo es no usarla y el motivo está escrito.** **El documento dice
+«no utilices redes wifi públicas o sin autenticación: puedes estar exponiendo tus datos»**, y
+cuando no se puede conectar por cable recomienda cifrar la red con los protocolos que él mismo
+nombra **(WPA2/3 AES)**. **Conectarse expone los datos personales, el tráfico y la identidad casi
+por completo**, y **el riesgo sube cuando lo que se intercambia es información confidencial** —es
+la número 67 del cuestionario de Reparto—.
+
+**Sus cuatro recomendaciones para navegar seguro**, si aun así hay que conectarse: **acceder
+exclusivamente a páginas cuyos datos viajen cifrados**, con **la dirección empezando por
+«https»**; **no iniciar sesión en ningún servicio mientras se esté en una red pública**; **evitar
+transacciones bancarias, compras en línea o cualquier intercambio de datos privados**; y **eliminar
+del equipo los datos de la red memorizados tras la conexión**.
 
 ## 15. Las discrepancias del documento
 

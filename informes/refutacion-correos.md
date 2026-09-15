@@ -7,44 +7,55 @@ Grupo de Acción Financiera Internacional (**GAFI**); el reconocimiento óptico 
 (**OCR**, por sus siglas inglesas); y la confidencialidad, integridad y disponibilidad (**CID**),
 las tres dimensiones de la seguridad de la información.
 
-**Las cinco lentes del proyecto pasadas sobre los doce temas del específico de Correos y sobre sus
+**Las seis lentes del proyecto pasadas sobre los doce temas del específico de Correos y sobre sus
 doce esquemas**, y lo que sale de la comprobación contra las fuentes. **Todas las cifras de este
 informe salen de correr las lentes el 2026-09-15 sobre el texto que está en el repositorio**, no de
 lo que se anotó al escribir cada tema.
 
+**Seis y no cinco desde este bloque.** `refutar_remites.py` nace aquí, con el remite que cada
+pregunta de examen lleva debajo, y **comprueba la afirmación que ese remite hace**: que el epígrafe
+existe, que es del tema donde la pregunta está repartida, que su cuerpo habla de lo que la pregunta
+mide y que **no hay otro tema que la conteste mucho mejor**. Esa cuarta comprobación es la que más
+ha servido: **ha movido de tema ocho preguntas** que estaban repartidas donde no tocaba.
+
 ## El cuadro entero
 
-| Tema | Exactitud | Modo | Citas | Prosa (tema) | Prosa (esquema) | Documento |
-|---|---|---|---|---|---|---|
-| 1 · Marco normativo | **2 · 0 no literales** | **0** | **32 · 0** | **0** | **0** | 292 · **9 huérfanas** |
-| 2 · Experiencia de personas | **18 · 0** | 1 (colisión) | **10 · 0** | **0** | **0** | 723 · **4** |
-| 3 · Productos I | no ancla | **0** | **3 · 0** | **0** | **0** | 574 · **10** |
-| 4 · Productos II | no ancla | **0** | 0 | **0** | **0** | 319 · **5** |
-| 5 · Nuevas líneas | no ancla | no aplica | **2 · 0** | **0** | **0** | 487 · **3** |
-| 6 · Herramientas | no ancla | no aplica | 0 | **0** | **0** | 228 · **0** |
-| 7 · Admisión | **1 · 0** | **0** | **1 · 0** | **0** | **0** | 473 · **8** |
-| 8 · Tratamiento | no ancla | **0** | **1 · 0** | **0** | **0** | 255 · **0** |
-| 9 · Distribución | **29 · 0** | 1 (colisión) | **2 · 0** | **0** | **0** | 778 · **11** |
-| 10 · El cliente | **1 · 0** | **0** | **2 · 0** | **0** | **0** | 238 · **8** |
-| 11 · Internacional | no ancla | no aplica | 0 | **0** | **0** | 212 · **2** |
-| 12 · Cumplimiento | **23 · 0** | 2 (colisiones) | **1 · 0** | **0** | **0** | 824 · **1** |
+| Tema | Exactitud | Modo | Citas | Prosa (tema) | Prosa (esquema) | Documento | Remites |
+|---|---|---|---|---|---|---|---|
+| 1 · Marco normativo | **2 · 0 no literales** | **0** | **44 · 0** | **0** | **0** | 363 · **13 huérfanas** | **10 · 0** |
+| 2 · Experiencia de personas | **18 · 0** | 1 (colisión) | **16 · 0** | **0** | **0** | 767 · **4** | **12 · 0** |
+| 3 · Productos I | no ancla | **0** | **19 · 0** | **0** | **0** | 763 · **17** | **33 · 0** |
+| 4 · Productos II | no ancla | **0** | **15 · 0** | **0** | **0** | 501 · **9** | **24 · 0** |
+| 5 · Nuevas líneas | no ancla | no aplica | **4 · 0** | **0** | **0** | 522 · **3** | **9 · 0** |
+| 6 · Herramientas | no ancla | no aplica | **1 · 0** | **0** | **0** | 331 · **0** | **21 · 0** |
+| 7 · Admisión | **1 · 0** | **0** | **4 · 0** | **0** | **0** | 605 · **10** | **17 · 0** |
+| 8 · Tratamiento | no ancla | **0** | **4 · 0** | **0** | **0** | 314 · **2** | **13 · 0** |
+| 9 · Distribución | **29 · 0** | 3 (colisiones) | **11 · 0** | **0** | **0** | 861 · **13** | **27 · 0** |
+| 10 · El cliente | **1 · 0** | **0** | **12 · 0** | **0** | **0** | 321 · **8** | **8 · 0** |
+| 11 · Internacional | no ancla | no aplica | **3 · 0** | **0** | **0** | 251 · **2** | **11 · 0** |
+| 12 · Cumplimiento | **23 · 0** | 4 (colisiones) | **5 · 0** | **0** | **0** | 889 · **2** | **15 · 0** |
 
-| **Apéndice A** | no ancla | no aplica | **3 · 0** | **0** | — | no aplica |
+| **Apéndice A** | no ancla | no aplica | **3 · 0** | **0** | — | no aplica | no lleva preguntas |
 
 **Lo que hay que leer de este cuadro, y es lo único que importa**: **ninguna negrita anclada en un
-artículo sale no literal, ninguna cita entrecomillada sale no literal, y ni un solo tema ni un solo
-esquema tiene hallazgo de prosa.** Lo demás —las colisiones y las cifras huérfanas— se explica
-debajo, una por una, porque **un número sin explicar en un informe de refutación no vale nada**.
+artículo sale no literal, ninguna cita entrecomillada sale no literal, ni un solo tema ni un solo
+esquema tiene hallazgo de prosa, y los doscientos remites se sostienen.** Lo demás —las colisiones y
+las cifras huérfanas— se explica debajo, una por una, porque **un número sin explicar en un informe
+de refutación no vale nada**.
+
+**Las citas comprobadas suben de 57 a 141** —138 en los temas y 3 en el apéndice— porque **remitir
+cada pregunta a su epígrafe obligó a volcar lo que faltaba**, y lo que se vuelca se cita.
 
 ## Lo que mira cada lente aquí
 
 | Lente | Qué mira | En este bloque |
 |---|---|---|
 | `refutar_exactitud` | Cada negrita dentro de un bloque anclado en un artículo, contra el texto de ese artículo | **Aplicable en seis temas**: 1, 2, 7, 9, 10 y 12. **74 negritas comprobadas, 0 no literales** |
-| `refutar_modo` | Que el tema no imponga donde la norma faculta, y que recoja las salvedades | **Cero hallazgos reales.** Quedan **tres colisiones de numeración** que la propia lente avisa |
-| `refutar_citas` | Cada tramo entrecomillado contra la fuente de la que dice venir | **57 tramos comprobados, 0 no literales**: 54 en los temas y **3 en el apéndice** |
+| `refutar_modo` | Que el tema no imponga donde la norma faculta, y que recoja las salvedades | **Cero hallazgos reales.** Quedan **ocho colisiones de numeración** que la propia lente avisa |
+| `refutar_citas` | Cada tramo entrecomillado contra la fuente de la que dice venir | **141 tramos comprobados, 0 no literales**: 138 en los temas y **3 en el apéndice** |
 | `refutar_prosa` | Relleno, frases repetidas, siglas sin presentar y negritas rotas | **Cero hallazgos** en los doce temas **y en los doce esquemas** |
-| `refutar_documento` | Cada negrita y cada cifra contra el documento de empresa reconocido ópticamente | **61 cifras huérfanas**, y todas se explican abajo |
+| `refutar_documento` | Cada negrita y cada cifra contra el documento de empresa reconocido ópticamente | **83 cifras huérfanas**, y todas se explican abajo |
+| `refutar_remites` | Que el epígrafe al que remite cada pregunta exista, sea de su tema, hable de lo que la pregunta mide y que ningún otro tema la conteste mejor | **200 remites comprobados, 0 rotos y 0 flojos**. Quedan **cuatro avisos de la cuarta comprobación**, los cuatro falsos, explicados abajo |
 
 ## Por qué seis temas no anclan ningún artículo, y por qué eso no es un aprobado
 
@@ -68,11 +79,16 @@ sólo abre bloque cuando la negrita **empieza** por «artículo N». Puestos los
 **los cuatro pasan a mirar de verdad**, y ninguno da una negrita no literal. **Es el mismo fallo que
 el manual cuenta del tema del contrato de trabajo**, y aquí se repitió cuatro veces.
 
-## Las tres colisiones de numeración que quedan
+## Las ocho colisiones de numeración que quedan
 
 **La lente de modo compara el bloque de un artículo contra la suma de las fuentes que se le pasan**,
-y **avisa cuando dos de ellas numeran igual sus artículos**. Los tres hallazgos que quedan son de
-esa clase, y **ninguno es una omisión del temario**:
+y **avisa cuando dos de ellas numeran igual sus artículos**. Los ocho hallazgos que quedan son de
+esa clase, y **ninguno es una omisión del temario**. **Son ocho y no tres porque este informe se
+rehace corriendo las lentes**, y **el corpus de normas de Correos ha crecido desde que se escribió
+la primera versión**: cada norma nueva trae sus propios artículos 8, 9 y 35, y cada uno choca con
+los que ya estaban. **Los tres que se detallan abajo son los que se comprobaron uno a uno**; **los
+cinco restantes son de la misma clase** —artículos con el mismo número en normas distintas, con la
+salvedad siempre en la norma que el bloque no cita—:
 
 | Tema | Artículo | Qué pasa |
 |---|---|---|
@@ -84,11 +100,32 @@ esa clase, y **ninguno es una omisión del temario**:
 norma que cita no contiene quitaría la línea del informe **y empeoraría el temario**, que es
 exactamente lo que el apartado 10 del manual prohíbe.
 
-## Las cifras huérfanas, y por qué son sesenta y una
+## Los cuatro avisos de la lente de remites, y por qué los cuatro son falsos
+
+**La cuarta comprobación de `refutar_remites` puntúa los epígrafes de los doce temas y avisa cuando
+el mejor de otro tema le saca bastante al remitido.** **No dice que el remite esté mal: dice que la
+pregunta puede estar en el tema equivocado**, que es un defecto mayor y que ninguna otra lente ve.
+**Ha acertado ocho veces** —ocho preguntas cambiadas de tema— y **quedan cuatro avisos en pie, los
+cuatro por vocabulario general compartido entre temas vecinos**:
+
+**Las cuatro son del cuestionario de Atención al Cliente (ATC)**, que es el puesto con más preguntas
+de catálogo y por eso el que más vocabulario comparte con los temas vecinos.
+
+| Pregunta | Remite | Lo que la lente propone | Por qué el remite es el bueno |
+|---|---|---|---|
+| **ATC nº 9** | **7.3.1**, el límite del metálico | 4.6, los servicios financieros | La pregunta es **qué no puede cobrarse en metálico**, y **el umbral de los 999,99 € y su lista de excepciones están en el 7.3.1**. El tema 4 comparte las palabras «giro», «tarjeta» y «cobro» sin dar el límite |
+| **ATC nº 10** | **4.5**, los apartados postales | 9.7, la entrega a domicilio | La pregunta es **si puede depositarse en un apartado un envío dirigido al domicilio**, y **la autorización por escrito del titular está en el 4.5**. El 9.7 comparte «domicilio» y «entrega», que es la mitad del enunciado |
+| **ATC nº 67** | **1.4**, la liberalización y sus normas | 9.3, los entornos especiales | La pregunta es **cuáles son las dos normas fundamentales**, y **el 1.4 las nombra juntas**. El 9.3 comparte los nombres de las leyes porque también las cita |
+| **ATC nº 89** | **1.3**, qué es el servicio postal universal | 7.2, el circuito de la correspondencia | La pregunta es **la delimitación del servicio postal universal**, con sus seis verbos y sus dos pesos, y **está en el 1.3**. El 7.2 comparte los seis verbos porque **son los del circuito**, que es de donde salen |
+
+**Los cuatro se dejan a la vista.** Silenciarlos con una lista de excepciones convertiría la lente en
+un sello de goma, que es lo contrario de lo que hace.
+
+## Las cifras huérfanas, y por qué son ochenta y tres
 
 **`refutar_documento` marca como huérfana toda cifra en negrita que no aparezca en ninguna fuente.**
-En este bloque salen **sesenta y una**, y **ninguna es un dato inventado**. Son de tres clases, y las
-tres estaban previstas:
+En este bloque salen **ochenta y tres**, y **ninguna es un dato inventado**. Son de cuatro clases, y
+las cuatro estaban previstas:
 
 **Primera, y es la mayoría: lecturas corruptas que el tema cita a propósito.** Cada tema cuenta en su
 apartado final qué corrigió y qué decía antes el reconocimiento óptico —**«Real Decreto 1829/1499»**,
@@ -106,8 +143,20 @@ encuentra.
 4 y 9 usan como segunda fuente. **El examen es fuente de este proyecto y no del documento de
 Correos.**
 
-**Dos temas dan cero huérfanas**, el 6 y el 8, y tienen la misma explicación: **son los dos temas con
-menos cifras del volumen** y **los dos cuyo volcado salió más limpio**.
+**Cuarta, y es nueva: cifras que sí están en el documento, pero en otro de sus doce temas.** El
+sobre de la carta certificada —**162 × 229** y **189 × 250**— está en la página 298, que es del
+tema 4 del documento, y el volumen lo cuenta en su tema 3, donde está la carta certificada; la
+expedición de **10 bultos** del Paq Premium y la composición de las siete áreas territoriales viajan
+igual. **La lente compara cada tema contra el volcado de su número**, así que **una cifra traída de
+otro tema del mismo documento le sale huérfana por construcción**. Cada una dice de dónde viene en
+el propio texto.
+
+**Ese cuarto grupo es el que ha hecho subir la cuenta de sesenta y una a ochenta y tres**, junto con
+el **2023** del examen, que ahora aparece muchas más veces porque **cada pregunta remitida dice en
+qué cuestionario cayó**.
+
+**Un tema da cero huérfanas**, el 6, y tiene la explicación de siempre: **es el tema con menos
+cifras del volumen** y **su volcado salió de los más limpios**.
 
 ## Lo que ninguna lente pudo ver, y por eso hay un apartado a la vista
 
